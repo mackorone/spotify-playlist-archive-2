@@ -4,7 +4,7 @@
 
 > Descubrí nuevos artistas, nueva música todas las semanas 📸 Little Boggie
 
-288 songs - 14 hr 50 min
+291 songs - 14 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [En Todas Partes](https://open.spotify.com/track/1fBiySiu1fTmiFyPc4R8DD) | [Vlntna B](https://open.spotify.com/artist/5leFwWpTacAWLAom8B2JbS) | [En Todas Partes](https://open.spotify.com/album/30oK2FaiGSLDuRO2T9foTR) | 2:42 | 2021-11-11 | 2023-06-02 |
 | [Entrégate](https://open.spotify.com/track/5ZDQSDUVyBDesqJxWrWsnv) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Entrégate](https://open.spotify.com/album/72cfqHGrPSyunjF29CPcF4) | 3:11 | 2023-06-01 | 2024-05-08 |
 | [Eresi](https://open.spotify.com/track/0gFbaCf4YTPSHNzQK243Uf) | [elmalamía](https://open.spotify.com/artist/1SoXdL4dbR3tJudByWGLkM) | [Pavlo, cada vez menos...](https://open.spotify.com/album/1nuNOlU2mOuVKldwj0oIuZ) | 3:15 | 2026-04-14 |  |
+| [escuchándote](https://open.spotify.com/track/1M4Q9Jz8E6KI6cxGwLRYAs) | [Ramma](https://open.spotify.com/artist/7b0pdDyPV9f9hyDXAhk4Sg), [Tadu Vázquez](https://open.spotify.com/artist/71scL1K5Nu1Z7FgBkg3Gjk) | [escuchándote](https://open.spotify.com/album/7862iXXB8YiF2Ggi0tIoF7) | 2:16 | 2026-05-01 |  |
 | [Esos Días](https://open.spotify.com/track/6oRyIk7U3jWGFH6zRKOT5T) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [Esos Días](https://open.spotify.com/album/5YTwmNj6F1khhCCos7DV7w) | 2:31 | 2022-06-27 | 2024-04-19 |
 | [Esos Días \- Spotify Singles](https://open.spotify.com/track/1XtYMqXi4XelZSdxn3kYBY) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [Esos Días \- Spotify Singles](https://open.spotify.com/album/7eidjZ0TAgQDOexGWwBIJQ) | 2:31 | 2021-11-11 | 2024-05-08 |
 | [Espera](https://open.spotify.com/track/6zKKOc677Q1ALzzi9DIB8N) | [Mar Marzo](https://open.spotify.com/artist/4WnBdEl64Zs4DiEBAaAFlc) | [Espera](https://open.spotify.com/album/1veGdqBfxCuB76nzzya49j) | 2:30 | 2023-06-01 | 2023-08-24 |
@@ -152,6 +153,7 @@
 | [Liberarme](https://open.spotify.com/track/6Zjcuz6NxB4DLt9b02ZV4B) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg) | [Liberarme](https://open.spotify.com/album/2RXzMbdC6uYKV4oTMXdbw3) | 3:23 | 2021-11-11 | 2023-04-15 |
 | [Libros](https://open.spotify.com/track/1HNbpzg02LwvscJiyR5Adk) | [Joako Garcia](https://open.spotify.com/artist/0UDzdnndviQU4dtzQ47zqz), [Cofran Olima](https://open.spotify.com/artist/3HtJSyjCHB5mii6zpG5967) | [Libros](https://open.spotify.com/album/1afjwi14YT8ZfrHu7asnSl) | 3:30 | 2026-04-24 |  |
 | [LLAMALO](https://open.spotify.com/track/7jt4CMYzHjlwYV6AiSqFBX) | [MARTTEIN](https://open.spotify.com/artist/5EbzQCOHXCVsr4y0qNsB48), [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [MARTTEIN](https://open.spotify.com/album/0D56WWn0u7w5UWeqx1WzOV) | 2:57 | 2025-05-09 | 2026-04-15 |
+| [Lluvioso](https://open.spotify.com/track/2Ls7UJ3wbTOQrDkyvZALwo) | [Julia Cry](https://open.spotify.com/artist/48Tw6zoAK5CrXY7cTHv8D0) | [Lluvioso](https://open.spotify.com/album/5tzcdizyRkn3k5LiuB4NA0) | 2:52 | 2026-05-01 |  |
 | [Lo mejor](https://open.spotify.com/track/7FcL1jwNdxTTqpGOzfxYGC) | [Catalina Bayá](https://open.spotify.com/artist/1YKe4dEtIUe6MdYV0L0vcf) | [Lo mejor](https://open.spotify.com/album/60OPdho3AHL5dXBMLlsTzr) | 3:25 | 2026-04-24 |  |
 | [Lo Que No Te Conté](https://open.spotify.com/track/3Z452bjBcSY5lVXxlCCwSf) | [KMC](https://open.spotify.com/artist/6XRepE59HrVuIQgfWXdBJ4) | [Lo Que No Te Conté](https://open.spotify.com/album/6g5cG2wmNh2HPAW4oJXgS7) | 3:42 | 2021-11-11 | 2023-06-02 |
 | [Los Dos](https://open.spotify.com/track/6kn5oUW8uoVIcGjpjbnBlw) | [Panther](https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ) | [Los Dos](https://open.spotify.com/album/5J0ozKBrpKY05AoClZx56R) | 2:52 | 2023-06-01 | 2024-05-08 |
@@ -273,6 +275,7 @@
 | [Todo el Tiempo](https://open.spotify.com/track/0u1Ng1yrU52juwW92L7yB8) | [Abril Olivera](https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg) | [Todo el Tiempo](https://open.spotify.com/album/64cLuVI6XFdGcbEyas3J4E) | 3:14 | 2023-10-05 | 2024-05-08 |
 | [TODO LO QUE TENGO](https://open.spotify.com/track/4yqJO6BAS9YgiYKUviFwU9) | [BLAIR](https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ) | [BAR SCORPIOS](https://open.spotify.com/album/6Rtfa37o0kuhuso3RwimZQ) | 3:31 | 2025-05-09 | 2026-04-15 |
 | [TOLKIN YIT](https://open.spotify.com/track/37yI1sQRX7xmdrp4RfTmK1) | [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN) | [TOLKIN YIT](https://open.spotify.com/album/4t00wtgmOwZwhv562woUPp) | 2:21 | 2021-11-11 | 2023-06-02 |
+| [Track 4](https://open.spotify.com/track/1YgIa9m3ZlcImBMghTfNWr) | [Faus K](https://open.spotify.com/artist/4Dp9S8ukWAo7FOIloXG2mp) | [Sobredimensión](https://open.spotify.com/album/7DMMjxxwcmsVjDp6cPFShq) | 0:00 | 2026-05-01 |  |
 | [TRAN.KILO](https://open.spotify.com/track/559RjQCoHUvl7wuXU0PFms) | [Baketha](https://open.spotify.com/artist/5EnlVsNjGwBWWexlQoO1sX), [Pushi](https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn) | [TRAN.KILO](https://open.spotify.com/album/4FwpDti3pS1BpcSyBOd6VX) | 3:05 | 2024-05-07 | 2025-05-10 |
 | [Tres Viernes](https://open.spotify.com/track/1VWSXYPCYrZ7e1gJzlk81f) | [Radicäl](https://open.spotify.com/artist/4JyGBDOEYSDmMphGEacNAC) | [Tres Viernes](https://open.spotify.com/album/5lBRbfueJUu2GoikRpzSxl) | 2:37 | 2025-05-09 | 2026-04-15 |
 | [Tu Bar](https://open.spotify.com/track/0iP5B6MjWzyCD7r7idZZqb) | [Jero Jones](https://open.spotify.com/artist/4Tk06wQxbCfPYcxqxGE8yJ) | [¿De Qué Hablamos Cuando Hablamos de Amor?](https://open.spotify.com/album/4erCBs27VUtGcGFkN7XBly) | 5:09 | 2026-04-14 |  |
@@ -285,7 +288,7 @@
 | [VENENO](https://open.spotify.com/track/77BiLyjwM96hI2eogbI6dy) | [LOUTA](https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3) | [VENENO](https://open.spotify.com/album/7B0yYlF6q1fTFqm0jqpD3Z) | 3:31 | 2023-06-01 | 2024-05-08 |
 | [Veni Mirá](https://open.spotify.com/track/4fDUAfzsQKszt09InZKRE4) | [NAFTA](https://open.spotify.com/artist/5pg9cOudU7ezj3FnUABgu6) | [Nafta](https://open.spotify.com/album/4yl3UNCVcTf287qlknLxVl) | 5:04 | 2021-11-11 | 2023-06-02 |
 | [VIDRIOS NEGROS](https://open.spotify.com/track/0uPzLQ8z365LRhde8J8wDz) | [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR), [Al Records](https://open.spotify.com/artist/6gzfKa8KmgcAfhbeeKo28T) | [VIDRIOS NEGROS](https://open.spotify.com/album/5xGJCHjxAr2nSajMURpUwC) | 2:17 | 2021-11-11 | 2023-06-02 |
-| [VOGUE °](https://open.spotify.com/track/4pM8I8lDTZhJrFjJu2y5mF) | [Faus K](https://open.spotify.com/artist/4Dp9S8ukWAo7FOIloXG2mp) | [VOGUE °](https://open.spotify.com/album/448zs60d9fxF5E2NZYXZjA) | 2:38 | 2026-04-20 |  |
+| [VOGUE °](https://open.spotify.com/track/4pM8I8lDTZhJrFjJu2y5mF) | [Faus K](https://open.spotify.com/artist/4Dp9S8ukWAo7FOIloXG2mp) | [VOGUE °](https://open.spotify.com/album/448zs60d9fxF5E2NZYXZjA) | 2:38 | 2026-04-20 | 2026-05-01 |
 | [VOY A DISPARARME](https://open.spotify.com/track/6xSAUpJqJ1qwPLn4fH5R9u) | [Little Boogie](https://open.spotify.com/artist/51f3tNDq1t3W7OCtokDRb0), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [STEREO](https://open.spotify.com/artist/6odI6L61c5EaXZnKWSJ7fj) | [VOY A DISPARARME](https://open.spotify.com/album/45EqJRM2e02jt1mECyRBBP) | 3:14 | 2026-04-14 |  |
 | [Water](https://open.spotify.com/track/3RCxWl2N0lPx83c7PPRmxW) | [Saramalacara](https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir), [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN), [Evar](https://open.spotify.com/artist/0YWTSwecJ4cKrEQjrh46la) | [Water](https://open.spotify.com/album/3qdQV2P5OM19g675aZkRlQ) | 3:10 | 2022-06-27 | 2023-06-02 |
 | [Water](https://open.spotify.com/track/4BpwcrTmvQUIPcjPVhS6ki) | [Saramalacara](https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir), [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN), [Evar](https://open.spotify.com/artist/0YWTSwecJ4cKrEQjrh46la) | [Water](https://open.spotify.com/album/0giRSV8h2BwG62oJV6AHxa) | 3:10 | 2021-11-11 | 2022-07-29 |

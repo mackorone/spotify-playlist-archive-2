@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best of Coup\u00e9 D\u00e9cal\u00e9 and Biama from the continent to Paris. Photo : Dydy Yeman",
+  "description": "The best of Coup\u00e9 D\u00e9cal\u00e9 and Biama from the continent to Paris. Photo : Roseline Layo",
   "name": "Coup\u00e9 D\u00e9cal\u00e9",
   "tracks": [
     {
@@ -236,7 +236,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 162000,
       "name": "Ab\u00e9 Soun\u00f4g\u00f4la",
       "url": "https://open.spotify.com/track/251YL5TbA5tfT2Spmgvtmp"
@@ -1400,7 +1400,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-03",
+      "date_removed": null,
       "duration_ms": 180018,
       "name": "COUPER-COUPER",
       "url": "https://open.spotify.com/track/6IC40SlghyZK2fI7D25B5V"
@@ -1686,7 +1686,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 180321,
       "name": "Dibango Dibanga",
       "url": "https://open.spotify.com/track/5JjlAXr0s5A1S9JSUBTN8U"
@@ -4538,6 +4538,28 @@
       "duration_ms": 164028,
       "name": "Piment",
       "url": "https://open.spotify.com/track/7gB92KifQkXumaRUvxMRNN"
+    },
+    {
+      "album": {
+        "name": "PLP - Prends la position",
+        "url": "https://open.spotify.com/album/2HRB1Qq5Hgx9iBPFCunq0Y"
+      },
+      "artists": [
+        {
+          "name": "Maydi",
+          "url": "https://open.spotify.com/artist/68gQ1BsxTkb1zWJ86nvCBL"
+        },
+        {
+          "name": "TNT Family",
+          "url": "https://open.spotify.com/artist/707k62nFnrWfAmYF9qFcI6"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176842,
+      "name": "PLP - Prends la position",
+      "url": "https://open.spotify.com/track/478giL46hJZf0mLhpqEdlu"
     },
     {
       "album": {

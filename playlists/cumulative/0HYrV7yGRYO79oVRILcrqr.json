@@ -1403,6 +1403,24 @@
     },
     {
       "album": {
+        "name": "Chronicle",
+        "url": "https://open.spotify.com/album/4AloOat16bPLmLO9jVzLnd"
+      },
+      "artists": [
+        {
+          "name": "Venerated By Frost",
+          "url": "https://open.spotify.com/artist/7vjTD8pNHl35g6NvMakc0I"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240008,
+      "name": "Chronicle",
+      "url": "https://open.spotify.com/track/2biOIcSMHCulJrNV966WSO"
+    },
+    {
+      "album": {
         "name": "Perception Alt\u00e9r\u00e9e",
         "url": "https://open.spotify.com/album/6y1AIZMakzsN8OTTiq29zg"
       },
@@ -3766,6 +3784,24 @@
       "duration_ms": 160000,
       "name": "Jim Beam Interlude",
       "url": "https://open.spotify.com/track/63ep6PgJWhx1D5kPrgGvC6"
+    },
+    {
+      "album": {
+        "name": "Juge Int\u00e9rieur",
+        "url": "https://open.spotify.com/album/1vsDPffM48kqA5sUw9bOJm"
+      },
+      "artists": [
+        {
+          "name": "Slave To Sin",
+          "url": "https://open.spotify.com/artist/7wj1eU7FmWZiBJqPziYtHl"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198193,
+      "name": "Juge Int\u00e9rieur",
+      "url": "https://open.spotify.com/track/0kaCY1PCDFVZ6X34ShqiM9"
     },
     {
       "album": {
@@ -6724,6 +6760,24 @@
       "duration_ms": 269154,
       "name": "Spine",
       "url": "https://open.spotify.com/track/23DvAjrBATcWGDy6U9CqDB"
+    },
+    {
+      "album": {
+        "name": "I've Got a Story to Tell",
+        "url": "https://open.spotify.com/album/5Ssz0Vi0rbAGXRkF4hhOoX"
+      },
+      "artists": [
+        {
+          "name": "Jenny Scara",
+          "url": "https://open.spotify.com/artist/0F4yegE6Xa3vC2KvCoJTGw"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145157,
+      "name": "Stay Back",
+      "url": "https://open.spotify.com/track/02wm1989sxHOnZJK9IY0EU"
     },
     {
       "album": {

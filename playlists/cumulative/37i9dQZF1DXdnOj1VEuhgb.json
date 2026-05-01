@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-11",
-  "description": "T\u00fcrk\u00e7e rap'in hit \u015fark\u0131lar\u0131 ve zirveye oynayanlar. Kapak: Lil Zey ",
+  "description": "T\u00fcrk\u00e7e rap'in hit \u015fark\u0131lar\u0131 ve zirveye oynayanlar. Kapak: Yung Ouzo",
   "name": "NKVT",
   "tracks": [
     {
@@ -1725,6 +1725,24 @@
     },
     {
       "album": {
+        "name": "Ay\u0131kas\u0131m Yok",
+        "url": "https://open.spotify.com/album/2fmibSCzUFD9u8VqoObr7b"
+      },
+      "artists": [
+        {
+          "name": "EFO",
+          "url": "https://open.spotify.com/artist/0lZydBbYE6m9mwNXB0qpsC"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185684,
+      "name": "Ay\u0131kas\u0131m Yok",
+      "url": "https://open.spotify.com/track/6CfSHdbPKNkxuo5uqXiKuH"
+    },
+    {
+      "album": {
         "name": "ElPatron",
         "url": "https://open.spotify.com/album/3iGjHl0EcjP1w3Qk49wuYX"
       },
@@ -2590,7 +2608,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 222307,
       "name": "Beni Affet Tanr\u0131m",
       "url": "https://open.spotify.com/track/6ZZndf79JuGr2uICjVy6At"
@@ -3157,6 +3175,28 @@
     },
     {
       "album": {
+        "name": "BOMBA",
+        "url": "https://open.spotify.com/album/55nMza6I5YB14vZo6Yn9v9"
+      },
+      "artists": [
+        {
+          "name": "RAF Camora",
+          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
+        },
+        {
+          "name": "Lvbel C5",
+          "url": "https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165799,
+      "name": "BOMBA",
+      "url": "https://open.spotify.com/track/25P9EcttXxSTTRESdfTWoT"
+    },
+    {
+      "album": {
         "name": "BOYNA GALAVA",
         "url": "https://open.spotify.com/album/2vpKbtKM6bbY1iYX8mVAB8"
       },
@@ -3272,7 +3312,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 138000,
       "name": "BREAKDANCE",
       "url": "https://open.spotify.com/track/7MHhEcBCtryxw3PIg86JzC"
@@ -3894,7 +3934,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 167040,
       "name": "Ceylan",
       "url": "https://open.spotify.com/track/5wfIdetf6iRD7ZkXG4WWhN"
@@ -5490,7 +5530,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 113010,
       "name": "elimde g\u00fcller belimde k\u00fcte",
       "url": "https://open.spotify.com/track/3FjNjrQBb16vzwInhJGPwN"
@@ -6346,6 +6386,28 @@
       "duration_ms": 93015,
       "name": "GELMEZSEN GELME",
       "url": "https://open.spotify.com/track/4qcngMZ8yF98sAnFKlvXPN"
+    },
+    {
+      "album": {
+        "name": "Klasik",
+        "url": "https://open.spotify.com/album/6zA1xm3puMiMds9rjF8ZEm"
+      },
+      "artists": [
+        {
+          "name": "\u00c7a\u011fr\u0131 Sinci",
+          "url": "https://open.spotify.com/artist/32d21ZV2sLX2sGdjefVMJg"
+        },
+        {
+          "name": "Ali Ece",
+          "url": "https://open.spotify.com/artist/2SzYIeKDEwpMoQzKH5InmK"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180331,
+      "name": "Gemiler",
+      "url": "https://open.spotify.com/track/73hTNGlEtohq4n2r0dFfWN"
     },
     {
       "album": {
@@ -7866,7 +7928,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 156052,
       "name": "Hi\u00e7",
       "url": "https://open.spotify.com/track/4yxCEgY8VW9q7PJMsbdTdi"
@@ -12295,7 +12357,7 @@
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 188814,
+      "duration_ms": 188481,
       "name": "muamma - ulubatl\u0131",
       "url": "https://open.spotify.com/track/6NA2roNRPCo9k2Oprh0zGQ"
     },
@@ -14455,6 +14517,32 @@
     },
     {
       "album": {
+        "name": "RASENGAN",
+        "url": "https://open.spotify.com/album/0Y0OHFaCGqVXYKLeXZz5Ok"
+      },
+      "artists": [
+        {
+          "name": "Kuty",
+          "url": "https://open.spotify.com/artist/1spo5AJ302sAMnRXUPlSy1"
+        },
+        {
+          "name": "Reckol",
+          "url": "https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS"
+        },
+        {
+          "name": "13 Killoki",
+          "url": "https://open.spotify.com/artist/2ivdJjs8c34cBxVmNI6zSK"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148358,
+      "name": "RASENGAN",
+      "url": "https://open.spotify.com/track/6kuTQg01QvpRAA32ZISfuR"
+    },
+    {
+      "album": {
         "name": "RASTAFARAY",
         "url": "https://open.spotify.com/album/6eyLvy4Tg4QUuyzvQYSUzs"
       },
@@ -14536,6 +14624,24 @@
       "duration_ms": 121714,
       "name": "RDM",
       "url": "https://open.spotify.com/track/1f2c5aRUD2yyU2jmjvDSzr"
+    },
+    {
+      "album": {
+        "name": "RedBull Freestyle",
+        "url": "https://open.spotify.com/album/0W7PDkvF7Y1SBxRmlOhMNQ"
+      },
+      "artists": [
+        {
+          "name": "Murda",
+          "url": "https://open.spotify.com/artist/09WqkYnqWKUQAYSlEvaf6s"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 62354,
+      "name": "RedBull Freestyle",
+      "url": "https://open.spotify.com/track/5Ikbat8g3wLnX2GQCm1h6z"
     },
     {
       "album": {
@@ -15354,7 +15460,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 160974,
       "name": "San\u0131r\u0131m Ya\u015flan\u0131yorum",
       "url": "https://open.spotify.com/track/4gzqjGdJuNKjIiG2DVgB1T"
@@ -16458,7 +16564,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 97777,
       "name": "STOP SMOKING",
       "url": "https://open.spotify.com/track/1LZdDJ0ZPxbIKP1NcvWhm5"
@@ -16810,7 +16916,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 158241,
       "name": "TADIM YOK",
       "url": "https://open.spotify.com/track/6GoeqcLxmH15CfPZwHk3HE"
@@ -17911,6 +18017,24 @@
     },
     {
       "album": {
+        "name": "Vi\u015fne",
+        "url": "https://open.spotify.com/album/2VvsfX3eFVzjWE55WzFaGn"
+      },
+      "artists": [
+        {
+          "name": "Taladro",
+          "url": "https://open.spotify.com/artist/2ShoGcsu8kekluGvbggGKQ"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167999,
+      "name": "Vi\u015fne",
+      "url": "https://open.spotify.com/track/0ZzV6rnJCkM124VwarH4fX"
+    },
+    {
+      "album": {
         "name": "vODKA BELUGA",
         "url": "https://open.spotify.com/album/5SSXzQ14LA9A4g4auCKgvX"
       },
@@ -18971,6 +19095,28 @@
     },
     {
       "album": {
+        "name": "Yoktu",
+        "url": "https://open.spotify.com/album/3WpXJvWZCPVs1H4WlqTl0y"
+      },
+      "artists": [
+        {
+          "name": "Ramoon",
+          "url": "https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja"
+        },
+        {
+          "name": "ALIZADE",
+          "url": "https://open.spotify.com/artist/1EPZusBDP8yewhsaKtwktz"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "Yoktu",
+      "url": "https://open.spotify.com/track/60ElzXtShuFeEEvNrLsEsd"
+    },
+    {
+      "album": {
         "name": "Yolum A\u00e7\u0131k",
         "url": "https://open.spotify.com/album/27gonUY4k1BepMXBLJsfWu"
       },
@@ -19806,6 +19952,28 @@
       "duration_ms": 221342,
       "name": "\u00dctopik",
       "url": "https://open.spotify.com/track/7g7zbnLW2JNvhBy3Xa1uAo"
+    },
+    {
+      "album": {
+        "name": "DINAMIK MOD",
+        "url": "https://open.spotify.com/album/4RqzSPxGa8YPMEvNyjYoY1"
+      },
+      "artists": [
+        {
+          "name": "K\u00d6K$VL",
+          "url": "https://open.spotify.com/artist/5fO16dsHVrojWL2mPzcdpq"
+        },
+        {
+          "name": "merdo",
+          "url": "https://open.spotify.com/artist/4zj3JQTMbo8zJOWexFTuz3"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127391,
+      "name": "\u015faka m\u0131s\u0131n knk (merdobingo flip)",
+      "url": "https://open.spotify.com/track/6rjGsaXcgH7cCvy5Fe58kr"
     },
     {
       "album": {

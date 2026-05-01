@@ -1,12 +1,12 @@
 {
   "description": "Survival takes everything. Listen to the music from Beauty in Black, now streaming on Netflix. ",
-  "num_followers": 20415,
+  "num_followers": 20444,
   "original_name": "Tyler Perry's Beauty in Black Official Playlist ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALg55i1Mg/RZIPG6W8nFYTRp9kVU",
+  "snapshot_id": "AAAAANIChxQRLLFDlYGCmCiqSFrWWQiy",
   "tracks": [
     {
       "added_at": "2026-03-19 14:20:12",
@@ -1711,6 +1711,30 @@
       "duration_ms": 123093,
       "name": "IDK",
       "url": "https://open.spotify.com/track/2lkKJ5GepBz5BgXCsW8AH7"
+    },
+    {
+      "added_at": "2026-04-30 14:41:28",
+      "album": {
+        "name": "I Don't Give A Fuck (SBR Fuck)",
+        "url": "https://open.spotify.com/album/5WASjOQBCDTp9fupW3KC7Q"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Robertson",
+          "url": "https://open.spotify.com/artist/4UZtbKvU38q0kujsIRtrLE"
+        },
+        {
+          "name": "Jacob Paul Turner",
+          "url": "https://open.spotify.com/artist/4YJVBe5ofkmDnQGU8nd1uQ"
+        },
+        {
+          "name": "Marc Pueschl",
+          "url": "https://open.spotify.com/artist/50cy8yHKtbENdO5ifQ2vu3"
+        }
+      ],
+      "duration_ms": 177600,
+      "name": "I Don't Give A Fuck (SBR Fuck)",
+      "url": "https://open.spotify.com/track/3kSM7uzWAb3B2WSR2Fi0vb"
     },
     {
       "added_at": "2026-03-19 14:20:12",

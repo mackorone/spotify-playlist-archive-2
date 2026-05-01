@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Beyond titles, beyond genre. Cover: Quiet Light ",
+  "description": "Beyond titles, beyond genre. Cover: KNEECAP",
   "name": "UNTITLED",
   "tracks": [
     {
@@ -168,6 +168,24 @@
       "duration_ms": 188164,
       "name": "30 Degrees",
       "url": "https://open.spotify.com/track/4LSZ5Op9z4LM6oP6S4G7sX"
+    },
+    {
+      "album": {
+        "name": "Childhood",
+        "url": "https://open.spotify.com/album/72YRWuIhjRNUOtXD7eAzGj"
+      },
+      "artists": [
+        {
+          "name": "ashnymph",
+          "url": "https://open.spotify.com/artist/1zVKP29Wt1d7hF2yRpZV5o"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231814,
+      "name": "47",
+      "url": "https://open.spotify.com/track/3FAfq6Yqy5b04vRo19PIke"
     },
     {
       "album": {
@@ -1935,6 +1953,24 @@
     },
     {
       "album": {
+        "name": "Boys In Blue",
+        "url": "https://open.spotify.com/album/4Gc4rNpM6O60fm6seAbhqH"
+      },
+      "artists": [
+        {
+          "name": "Nia Archives",
+          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153045,
+      "name": "Boys In Blue",
+      "url": "https://open.spotify.com/track/0R3sddzRt8fbbY9GKmv1lw"
+    },
+    {
+      "album": {
         "name": "Brave St Andrew",
         "url": "https://open.spotify.com/album/4dwzfYlUUyD2MnGCNdfODd"
       },
@@ -2040,7 +2076,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 204246,
       "name": "Brush Me Like A Horse",
       "url": "https://open.spotify.com/track/1Qx7aZ34LHzx9Dl8IEqm6J"
@@ -6404,7 +6440,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 196226,
       "name": "HOMICIDE",
       "url": "https://open.spotify.com/track/3K6K9rCTu7zWIOfthxP25Q"
@@ -6606,7 +6642,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 243053,
       "name": "Human Happens",
       "url": "https://open.spotify.com/track/40ATtBjYoYuJxKGfrqJwJl"
@@ -7327,6 +7363,28 @@
     },
     {
       "album": {
+        "name": "Irish Goodbye",
+        "url": "https://open.spotify.com/album/5RozyWyrAciRz9ldUZXCAE"
+      },
+      "artists": [
+        {
+          "name": "KNEECAP",
+          "url": "https://open.spotify.com/artist/1ZVACPeq7ccGCoUXwtafUU"
+        },
+        {
+          "name": "Kae Tempest",
+          "url": "https://open.spotify.com/artist/1YcprGtF13BYCZQK9jYPEw"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214400,
+      "name": "Irish Goodbye (feat. Kae Tempest)",
+      "url": "https://open.spotify.com/track/6Qyvf0qxn2TDOxHLdsfhUw"
+    },
+    {
+      "album": {
         "name": "We Live In A Society",
         "url": "https://open.spotify.com/album/2NvuDARjVRkDMZAHnx8ll5"
       },
@@ -7426,6 +7484,24 @@
       "duration_ms": 182330,
       "name": "It\u2019s Gonna\u2019 Cost You",
       "url": "https://open.spotify.com/track/0spvs0ecLz5ZbqZFS3ugSq"
+    },
+    {
+      "album": {
+        "name": "I\u2019LL BE YOUR FRIEND",
+        "url": "https://open.spotify.com/album/1ZKcdKRBAc1vfIPwU72g5k"
+      },
+      "artists": [
+        {
+          "name": "Ruti",
+          "url": "https://open.spotify.com/artist/5vQr71zjhOUi0RPPeQE6bE"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210001,
+      "name": "I\u2019LL BE YOUR FRIEND",
+      "url": "https://open.spotify.com/track/4BPgkHV0D1E1UvG6t8gEYV"
     },
     {
       "album": {
@@ -8044,6 +8120,28 @@
       "duration_ms": 182000,
       "name": "Lay Down On Me",
       "url": "https://open.spotify.com/track/2cwbam2veKyxOtBaAxJb5u"
+    },
+    {
+      "album": {
+        "name": "Lazy Dreams",
+        "url": "https://open.spotify.com/album/1AfMfdbzcWXW4FW5zUkmwq"
+      },
+      "artists": [
+        {
+          "name": "Daniel Avery",
+          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
+        },
+        {
+          "name": "yun\u00e8 pinku",
+          "url": "https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196926,
+      "name": "Lazy Dreams",
+      "url": "https://open.spotify.com/track/7fjRfwPl4Ay7o70O5eaRIp"
     },
     {
       "album": {
@@ -9392,7 +9490,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 268086,
       "name": "Mind is a Dancer",
       "url": "https://open.spotify.com/track/33ljpH5mxnf6LAU96WtWiC"
@@ -13322,7 +13420,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 214120,
       "name": "Srs Ice",
       "url": "https://open.spotify.com/track/7bzZs3kR7MbrfNFPtG8t7R"

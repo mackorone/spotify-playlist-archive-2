@@ -10033,6 +10033,24 @@
     },
     {
       "album": {
+        "name": "Teenage Dream",
+        "url": "https://open.spotify.com/album/32Uy0GLddTw4559CWja1f1"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227333,
+      "name": "The One That Got Away",
+      "url": "https://open.spotify.com/track/6GCW5Muk3u0cM5QTkS4C9a"
+    },
+    {
+      "album": {
         "name": "THE SCYTHE [Feat. TiaCorine & A$AP Ferg]",
         "url": "https://open.spotify.com/album/0YmJPpKQdsskngFVgZy8Ss"
       },

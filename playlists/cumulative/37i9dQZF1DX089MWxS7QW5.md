@@ -4,7 +4,7 @@
 
 > 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: moyo\)
 
-627 songs - 1 day 9 hr 40 min
+628 songs - 1 day 9 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -426,7 +426,7 @@
 | [palindrome](https://open.spotify.com/track/1dVkhC11bocbMGiJw8RZ0I) | [HUNJIYA](https://open.spotify.com/artist/3BX7RIMRQexSiSSshJFPzC) | [palindrome](https://open.spotify.com/album/7KSmXVUSnMZRG0jQghsTVh) | 3:08 | 2024-08-04 | 2024-09-14 |
 | [Passion \(Feat\. PENOMECO\)](https://open.spotify.com/track/1w6ao8wqrRg5rOEKsZ3Qyy) | [INJAE](https://open.spotify.com/artist/52jCsWDfCYGGZiPqIYL0WD), [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY) | [Too Passionate](https://open.spotify.com/album/6Oa5bo4s3FhAlfssUI0JTU) | 2:55 | 2024-07-09 | 2024-09-14 |
 | [PATIO](https://open.spotify.com/track/3pYuavyK9gyWxq1jdAJuKP) | [Izykite](https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx) | [sunkissed](https://open.spotify.com/album/3loRoqVh6Xub8tTMsv5zTb) | 2:40 | 2025-10-22 |  |
-| [PBNJ](https://open.spotify.com/track/1HW6b28Olu5p1g8ukN3uBi) | [homezone](https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK) | [PBNJ](https://open.spotify.com/album/7n9kECSkb9t0NWvmNJBwxl) | 2:24 | 2025-10-22 |  |
+| [PBNJ](https://open.spotify.com/track/1HW6b28Olu5p1g8ukN3uBi) | [homezone](https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK) | [PBNJ](https://open.spotify.com/album/7n9kECSkb9t0NWvmNJBwxl) | 2:24 | 2025-10-22 | 2026-05-01 |
 | [PDA](https://open.spotify.com/track/67SdDCd4AgsXf9bMSqWx5G) | [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb) | [PDA](https://open.spotify.com/album/441CBoBxPuKC9ZGBSJpAoL) | 2:45 | 2025-07-16 | 2026-01-23 |
 | [Perfect Moment](https://open.spotify.com/track/6cqwLE61pizVHv0nbuodzn) | [J.BASS](https://open.spotify.com/artist/1xIJdlCfkIVsdO5Egsu8ln), [ARO](https://open.spotify.com/artist/6ECu2vO8wvgX5pDjYqHEuC) | [Perfect Moment](https://open.spotify.com/album/0DKtnVlKm6G9R1xnoiuUgT) | 2:16 | 2024-09-02 | 2025-01-18 |
 | [Phase 2](https://open.spotify.com/track/5EpEUsgdUnOKqaO3V6teQ5) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [Phase 2](https://open.spotify.com/album/0lH0wKS720gDw5NqMlUDjH) | 3:07 | 2025-02-20 | 2025-06-03 |
@@ -530,6 +530,7 @@
 | [Take care](https://open.spotify.com/track/6TWHnpRwa1oFvGVb4HkyHd) | [Chawoo](https://open.spotify.com/artist/4IQIYg9spHoy4FgnnManxR) | [Take care](https://open.spotify.com/album/64ZwScQEZDND6thh8Vfuz2) | 3:00 | 2022-05-28 | 2022-07-06 |
 | [Talk 2 Me Nice](https://open.spotify.com/track/729F2Yqzq0h67aCpFzZBeY) | [SAAY](https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18) | [S:INEMA](https://open.spotify.com/album/5eOTrxzkXgD6uMDP5kWW0j) | 3:58 | 2022-10-28 | 2023-03-28 |
 | [Teach Me](https://open.spotify.com/track/42KQPEwQbifLtdMMa24DXH) | [Nieah](https://open.spotify.com/artist/3uo7KLyxuiANGmwDocxMnw) | [Teach Me](https://open.spotify.com/album/4iqOysHvvd0O6Vc0e3Epvd) | 2:53 | 2023-06-01 | 2023-10-28 |
+| [Tell Me What You Feel](https://open.spotify.com/track/1qTAsvpmYPWfM7nWHJtLDR) | [Sweet The Kid](https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq) | [Tell Me What You Feel](https://open.spotify.com/album/3HGSpxZWkWakhOX80hvhgP) | 3:07 | 2026-04-30 |  |
 | [Thank You](https://open.spotify.com/track/3EMiLWkjblEIuMu2pn5vHi) | [HyunJin](https://open.spotify.com/artist/3BahfzNxLclSnIM8F6i7rp) | [Thank You](https://open.spotify.com/album/2qUzMCOkMdkpx9Om8fC3VY) | 3:33 | 2024-12-18 | 2025-04-18 |
 | [The Gift](https://open.spotify.com/track/2PTnOo4kxWsyTlRc3hwiBo) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [The Gift](https://open.spotify.com/album/5Bkjj4PGtK7078kTvQhvXS) | 3:46 | 2022-05-28 | 2022-06-21 |
 | [The Night Of You & Me](https://open.spotify.com/track/3nPqJUSXNjvdsqaQuWsc6d) | [Rosoulful](https://open.spotify.com/artist/6FeHW0Ct6VvBPOoHrXjRcH) | [The Night Of You & Me](https://open.spotify.com/album/3wVzpdrpWDDac6g2Jgkenz) | 2:32 | 2024-08-12 | 2024-10-18 |

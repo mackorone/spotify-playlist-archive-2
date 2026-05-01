@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: Kaz Ba\u0142agane, Steez83",
+  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: Mata",
   "name": "RAP GENERACJA",
   "tracks": [
     {
@@ -1764,7 +1764,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 150204,
       "name": "BARY",
       "url": "https://open.spotify.com/track/63rI9AXTpb6o7IRjJxffke"
@@ -2448,7 +2448,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 127207,
       "name": "BODY TEA",
       "url": "https://open.spotify.com/track/48U0Ex3aUrUMOYQzRk3SRn"
@@ -2936,7 +2936,7 @@
       ],
       "date_added": "2025-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 213000,
       "name": "B\u0118D\u0118 PREZYDENTEM :)",
       "url": "https://open.spotify.com/track/1yWCdDFV6kdML8EeUpyzhd"
@@ -5427,6 +5427,28 @@
     },
     {
       "album": {
+        "name": "Dostosowany",
+        "url": "https://open.spotify.com/album/6gLZ7eJXJbrilVmNPVUt0d"
+      },
+      "artists": [
+        {
+          "name": "Paluch",
+          "url": "https://open.spotify.com/artist/462yq5vpZnO172v3nK9ibv"
+        },
+        {
+          "name": "Chris Carson",
+          "url": "https://open.spotify.com/artist/0gvoKJbY0q97HgBvPRmjMW"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162684,
+      "name": "Dostosowany",
+      "url": "https://open.spotify.com/track/38ynT8ztbxTnabNOqwzp2f"
+    },
+    {
+      "album": {
         "name": "DOZOBA",
         "url": "https://open.spotify.com/album/6yrYDjdUjbzzFEcKVoOG3w"
       },
@@ -5842,6 +5864,24 @@
       "duration_ms": 152210,
       "name": "DZWONI CUZI",
       "url": "https://open.spotify.com/track/4cPVPsa8ajX1B1goR3W6WE"
+    },
+    {
+      "album": {
+        "name": "ECHO",
+        "url": "https://open.spotify.com/album/6JkirjpVFMizDMoOqAGCOg"
+      },
+      "artists": [
+        {
+          "name": "Mata",
+          "url": "https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147428,
+      "name": "ECHO",
+      "url": "https://open.spotify.com/track/4Z9nSvXEBRsj10fVZAFz0x"
     },
     {
       "album": {
@@ -14480,7 +14520,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 182526,
       "name": "Nocta'ngelo",
       "url": "https://open.spotify.com/track/3vjPgnnkEFBasjQeT6Yh9K"
@@ -14546,6 +14586,28 @@
       "duration_ms": 152790,
       "name": "Nowa Kultura",
       "url": "https://open.spotify.com/track/6m1wA4qcRto5www6VHlVbg"
+    },
+    {
+      "album": {
+        "name": "NOWE CIOCIE",
+        "url": "https://open.spotify.com/album/2iXhnwmIXen6egSY3scoir"
+      },
+      "artists": [
+        {
+          "name": "rydawarrior",
+          "url": "https://open.spotify.com/artist/4l4laIN7oJbSKMRO1LTi2J"
+        },
+        {
+          "name": "CUZCO$",
+          "url": "https://open.spotify.com/artist/5YX5w3ApI8if9LJHhh8tei"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125333,
+      "name": "nowe ciocie",
+      "url": "https://open.spotify.com/track/1n7TRtAujmbcujwWKD0Vwk"
     },
     {
       "album": {
@@ -15166,7 +15228,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 175050,
       "name": "ONA NIE JEST LOJALNA?",
       "url": "https://open.spotify.com/track/0md3b6dNZ8IYYIldKLcvzF"
@@ -17959,6 +18021,32 @@
     },
     {
       "album": {
+        "name": "RIO / NA \u017bYWO",
+        "url": "https://open.spotify.com/album/6UsHwxCaKaulN0AMONx9PT"
+      },
+      "artists": [
+        {
+          "name": "White 2115",
+          "url": "https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd"
+        },
+        {
+          "name": "Kizo",
+          "url": "https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy"
+        },
+        {
+          "name": "Palar",
+          "url": "https://open.spotify.com/artist/0hydhEXYglaiCLK9QkP9Yt"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184153,
+      "name": "RIO / NA \u017bYWO",
+      "url": "https://open.spotify.com/track/37weADHNU7nLb5yHaadjbq"
+    },
+    {
+      "album": {
         "name": "Rockstar",
         "url": "https://open.spotify.com/album/7sLSvYKAzt6HAHYecid92B"
       },
@@ -18542,6 +18630,40 @@
       "duration_ms": 189767,
       "name": "Samotno\u015b\u0107",
       "url": "https://open.spotify.com/track/6QBtD08lrQIOQqc7teDrY8"
+    },
+    {
+      "album": {
+        "name": "Saudi",
+        "url": "https://open.spotify.com/album/2Cp1zw7lpPjLTjVThDGyj6"
+      },
+      "artists": [
+        {
+          "name": "Tax Free",
+          "url": "https://open.spotify.com/artist/1TdOWV3JFAGmZ1466aKbg5"
+        },
+        {
+          "name": "Malik Montana",
+          "url": "https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E"
+        },
+        {
+          "name": "Kazior",
+          "url": "https://open.spotify.com/artist/3bSbo5ZCbrTle7S2q8nqf8"
+        },
+        {
+          "name": "TYK",
+          "url": "https://open.spotify.com/artist/59e1xBpxB7CmdSl0wre3nT"
+        },
+        {
+          "name": "CUZCO$",
+          "url": "https://open.spotify.com/artist/5YX5w3ApI8if9LJHhh8tei"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164615,
+      "name": "Saudi",
+      "url": "https://open.spotify.com/track/2Fwd5lTA2HqUg4xqzX5EOM"
     },
     {
       "album": {
@@ -19532,7 +19654,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 141052,
       "name": "Szalone",
       "url": "https://open.spotify.com/track/3sKE1QOvLSREVAv3yubI4H"
@@ -20112,6 +20234,24 @@
       "duration_ms": 176813,
       "name": "TO NIE MA ZNACZENIA",
       "url": "https://open.spotify.com/track/5Z1HsKTp6rmCOYu54nfKji"
+    },
+    {
+      "album": {
+        "name": "PAN JEST PIOSENKARZEM?",
+        "url": "https://open.spotify.com/album/5anvjiKwhSZFhr4ud0YsI0"
+      },
+      "artists": [
+        {
+          "name": "Chivas",
+          "url": "https://open.spotify.com/artist/1fZAAHNWdSM5gqbi9o5iEA"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141924,
+      "name": "TO NIEODPOWIEDZIALNE",
+      "url": "https://open.spotify.com/track/3gi4zIAgCG6vCiofK4Oy2h"
     },
     {
       "album": {

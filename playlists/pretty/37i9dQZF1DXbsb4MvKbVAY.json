@@ -1,6 +1,6 @@
 {
   "description": "Mielenkiintoisimmat biisit ensisoitossa. Kannessa Olivia Rodrigo.",
-  "num_followers": 26761,
+  "num_followers": 26760,
   "original_name": "Ensisoitossa",
   "owner": {
     "name": "Spotify",
@@ -315,22 +315,6 @@
     {
       "added_at": "2026-04-23 21:00:04",
       "album": {
-        "name": "Aperture",
-        "url": "https://open.spotify.com/album/0pLJCdOvfghIEinnPXIqIx"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 311733,
-      "name": "Aperture",
-      "url": "https://open.spotify.com/track/45Z3m6yazmAi4jZuW0tzW0"
-    },
-    {
-      "added_at": "2026-04-23 21:00:04",
-      "album": {
         "name": "Mr. Know It All",
         "url": "https://open.spotify.com/album/6pSMDQxVmzO16b4feWczz1"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 198425,
       "name": "Mr. Know It All",
       "url": "https://open.spotify.com/track/2g5kPQh1EexoG8kGZH2nOZ"
+    },
+    {
+      "added_at": "2026-04-23 21:00:04",
+      "album": {
+        "name": "Aperture",
+        "url": "https://open.spotify.com/album/0pLJCdOvfghIEinnPXIqIx"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 311733,
+      "name": "Aperture",
+      "url": "https://open.spotify.com/track/45Z3m6yazmAi4jZuW0tzW0"
     },
     {
       "added_at": "2026-04-23 21:00:04",
@@ -711,18 +711,22 @@
     {
       "added_at": "2026-04-23 21:00:04",
       "album": {
-        "name": "Criminal (From the Original Motion Picture Scream 7)",
-        "url": "https://open.spotify.com/album/2nmVXKVnYRht1PxXZ6aguS"
+        "name": "Ja Eller Nej",
+        "url": "https://open.spotify.com/album/1rJNbgGjn3wQrqMC1d4oQS"
       },
       "artists": [
         {
-          "name": "Jessie Murph",
-          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+          "name": "K\u00e4\u00e4rij\u00e4",
+          "url": "https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r"
+        },
+        {
+          "name": "Basshunter",
+          "url": "https://open.spotify.com/artist/37DdwREpvvQHmGLFEZ4h0Q"
         }
       ],
-      "duration_ms": 199305,
-      "name": "Criminal - From the Original Motion Picture Scream 7",
-      "url": "https://open.spotify.com/track/7FzmTWZg0cmBXOr5428N8R"
+      "duration_ms": 152691,
+      "name": "Ja Eller Nej",
+      "url": "https://open.spotify.com/track/7o69dnp93PF9iICofCRIMR"
     },
     {
       "added_at": "2026-04-23 21:00:04",
@@ -747,22 +751,18 @@
     {
       "added_at": "2026-04-23 21:00:04",
       "album": {
-        "name": "Ja Eller Nej",
-        "url": "https://open.spotify.com/album/1rJNbgGjn3wQrqMC1d4oQS"
+        "name": "Criminal (From the Original Motion Picture Scream 7)",
+        "url": "https://open.spotify.com/album/2nmVXKVnYRht1PxXZ6aguS"
       },
       "artists": [
         {
-          "name": "K\u00e4\u00e4rij\u00e4",
-          "url": "https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r"
-        },
-        {
-          "name": "Basshunter",
-          "url": "https://open.spotify.com/artist/37DdwREpvvQHmGLFEZ4h0Q"
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
         }
       ],
-      "duration_ms": 152691,
-      "name": "Ja Eller Nej",
-      "url": "https://open.spotify.com/track/7o69dnp93PF9iICofCRIMR"
+      "duration_ms": 199305,
+      "name": "Criminal - From the Original Motion Picture Scream 7",
+      "url": "https://open.spotify.com/track/7FzmTWZg0cmBXOr5428N8R"
     },
     {
       "added_at": "2026-04-23 21:00:04",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2026-04-23 21:00:04",
       "album": {
-        "name": "Heart Said No",
-        "url": "https://open.spotify.com/album/0Sz6p8iL9KrcTeYUrQthpG"
-      },
-      "artists": [
-        {
-          "name": "HOKKA",
-          "url": "https://open.spotify.com/artist/20deUhMmlPFzvedllxLU97"
-        }
-      ],
-      "duration_ms": 202800,
-      "name": "Heart Said No",
-      "url": "https://open.spotify.com/track/7sgFsQ1uHBcOgFSdQWUgNE"
-    },
-    {
-      "added_at": "2026-04-23 21:00:04",
-      "album": {
         "name": "Papin tyt\u00e4r",
         "url": "https://open.spotify.com/album/4BGEa2u0jTKeIc3chGvl9X"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 197146,
       "name": "Terveisii kotii",
       "url": "https://open.spotify.com/track/3lGmAr9GzYz09D0ObCbJcH"
+    },
+    {
+      "added_at": "2026-04-23 21:00:04",
+      "album": {
+        "name": "Heart Said No",
+        "url": "https://open.spotify.com/album/0Sz6p8iL9KrcTeYUrQthpG"
+      },
+      "artists": [
+        {
+          "name": "HOKKA",
+          "url": "https://open.spotify.com/artist/20deUhMmlPFzvedllxLU97"
+        }
+      ],
+      "duration_ms": 202800,
+      "name": "Heart Said No",
+      "url": "https://open.spotify.com/track/7sgFsQ1uHBcOgFSdQWUgNE"
     },
     {
       "added_at": "2026-04-23 21:00:04",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2026-04-23 21:00:04",
       "album": {
+        "name": "Yhteysvikoja",
+        "url": "https://open.spotify.com/album/5q6WD4dR25MUPLewM5SD0Z"
+      },
+      "artists": [
+        {
+          "name": "yaya",
+          "url": "https://open.spotify.com/artist/4sxY8yotC6cWq0ZD2gPW2z"
+        }
+      ],
+      "duration_ms": 139137,
+      "name": "Yhteysvikoja",
+      "url": "https://open.spotify.com/track/2LjvFtrvepZG394zVmGTqJ"
+    },
+    {
+      "added_at": "2026-04-23 21:00:04",
+      "album": {
         "name": "Keho muistaa",
         "url": "https://open.spotify.com/album/08ZOrlXuKJJD9E9xuKDwrR"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 160933,
       "name": "Iltat\u00e4hti",
       "url": "https://open.spotify.com/track/5eMtpURpS5BeiZzuB5CCTq"
-    },
-    {
-      "added_at": "2026-04-23 21:00:04",
-      "album": {
-        "name": "Yhteysvikoja",
-        "url": "https://open.spotify.com/album/5q6WD4dR25MUPLewM5SD0Z"
-      },
-      "artists": [
-        {
-          "name": "yaya",
-          "url": "https://open.spotify.com/artist/4sxY8yotC6cWq0ZD2gPW2z"
-        }
-      ],
-      "duration_ms": 139137,
-      "name": "Yhteysvikoja",
-      "url": "https://open.spotify.com/track/2LjvFtrvepZG394zVmGTqJ"
     },
     {
       "added_at": "2026-04-23 21:00:04",

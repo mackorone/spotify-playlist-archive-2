@@ -1505,6 +1505,24 @@
     },
     {
       "album": {
+        "name": "BE THERE WITH U",
+        "url": "https://open.spotify.com/album/7G7yCi9VOyr6c6jXcNmQrd"
+      },
+      "artists": [
+        {
+          "name": "2frers",
+          "url": "https://open.spotify.com/artist/2P1tiZhfy8OaqDo0TWAC3B"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169692,
+      "name": "BE THERE WITH U",
+      "url": "https://open.spotify.com/track/4GvfP9onkP8DFWDaLxiltC"
+    },
+    {
+      "album": {
         "name": "Beam (ft. Gabriella)",
         "url": "https://open.spotify.com/album/2AfmqAi8KIlIEDvp98lYcx"
       },

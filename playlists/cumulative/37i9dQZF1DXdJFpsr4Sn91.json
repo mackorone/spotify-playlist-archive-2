@@ -216,7 +216,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 166285,
       "name": "25%",
       "url": "https://open.spotify.com/track/1PQy9yQYJswBVObnmgebYn"
@@ -3877,6 +3877,24 @@
     },
     {
       "album": {
+        "name": "Economy PLUS",
+        "url": "https://open.spotify.com/album/35oWqxJND9YW6bM2Xu1Irf"
+      },
+      "artists": [
+        {
+          "name": "KAJ",
+          "url": "https://open.spotify.com/artist/4blbIMKwfzTxHGvN0Est1t"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180952,
+      "name": "Economy PLUS",
+      "url": "https://open.spotify.com/track/0QEasyD0inY0gmEMkXvHuV"
+    },
+    {
+      "album": {
         "name": "Edelleen",
         "url": "https://open.spotify.com/album/31upea4lQ4IwOqz3KxIFQf"
       },
@@ -4188,7 +4206,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 180000,
       "name": "El\u00e4m\u00e4 jatkuu",
       "url": "https://open.spotify.com/track/3Usdxqf4vyIg48MMQXacYt"
@@ -12079,6 +12097,24 @@
     },
     {
       "album": {
+        "name": "Miss\u00e4 meet",
+        "url": "https://open.spotify.com/album/2FPIyetCiv6u0ibljqDpI0"
+      },
+      "artists": [
+        {
+          "name": "Tyson Blu",
+          "url": "https://open.spotify.com/artist/1hQjrMflGx4tw84ndlVEvK"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180217,
+      "name": "Miss\u00e4 meet",
+      "url": "https://open.spotify.com/track/1nWIn18SUy6RxIFSRRQqX7"
+    },
+    {
+      "album": {
         "name": "Miss\u00e4 oot (feat. LAVAREDO)",
         "url": "https://open.spotify.com/album/5TedU6Xs4THsTxrdcInWKH"
       },
@@ -16363,6 +16399,24 @@
     },
     {
       "album": {
+        "name": "Running Through My Head",
+        "url": "https://open.spotify.com/album/1Tap373TJJ0bN1YzMohbXj"
+      },
+      "artists": [
+        {
+          "name": "Robin Packalen",
+          "url": "https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159969,
+      "name": "Running Through My Head",
+      "url": "https://open.spotify.com/track/1o88DMOCUYqQC2AQM824gV"
+    },
+    {
+      "album": {
         "name": "Ruoska (Vain el\u00e4m\u00e4\u00e4 kausi 16)",
         "url": "https://open.spotify.com/album/0uIqtBXQSzMs2ahB8FgE93"
       },
@@ -17106,7 +17160,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 207000,
       "name": "SEROTONIINI",
       "url": "https://open.spotify.com/track/06Yin7sJeK8ePQ2HhkiL7u"

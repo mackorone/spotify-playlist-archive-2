@@ -1,13 +1,29 @@
 {
-  "description": "Proudly Southern African Afropop gems. Cover: Makhadzi",
-  "num_followers": 209623,
+  "description": "Proudly Southern African Afropop gems. Cover: Big Zulu",
+  "num_followers": 209691,
   "original_name": "Made In South Africa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIDyJOc9ZxeHpYZyfM8KIxbAft7M",
+  "snapshot_id": "AAAAADugMX4StHGY9AsQXzSXnfvA4mXc",
   "tracks": [
+    {
+      "added_at": "2026-04-30 22:03:42",
+      "album": {
+        "name": "Umkhulu",
+        "url": "https://open.spotify.com/album/273v8UxutqNSUpK6FJU0K3"
+      },
+      "artists": [
+        {
+          "name": "Big Zulu",
+          "url": "https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A"
+        }
+      ],
+      "duration_ms": 0,
+      "name": "Track 4",
+      "url": "https://open.spotify.com/track/3tn0HuHb3wTX0LCCgOFJZP"
+    },
     {
       "added_at": "2026-04-10 10:55:30",
       "album": {

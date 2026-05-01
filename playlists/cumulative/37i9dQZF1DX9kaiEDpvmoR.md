@@ -4,7 +4,7 @@
 
 > Aktuell musik med etablerade och intressanta artister.
 
-553 songs - 1 day 8 hr 41 min
+554 songs - 1 day 8 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,7 @@
 | [Det löser sig med blåbärspaj \- Från "Svenska revyn"](https://open.spotify.com/track/73ZSckcVhaQndTcLpeQEvm) | [Henrik Dorsin](https://open.spotify.com/artist/26ELugcMgfqnLLFQHlhrSd), [Per “Putte” Ekdahls orkester](https://open.spotify.com/artist/4OFi5n5FmjB8GhTTaAdjMg) | [Det löser sig med blåbärspaj \(Från "Svenska revyn"\)](https://open.spotify.com/album/3LguV8haPBBtIQmzdhG9ws) | 4:57 | 2024-08-15 | 2024-09-20 |
 | [Det sista jag behöver](https://open.spotify.com/track/2nZMFrdnV0AxKlRvXbsDYX) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Det sista jag behöver](https://open.spotify.com/album/7mXhFByOKqVfAM8TxYMX9M) | 2:54 | 2025-01-09 | 2025-05-16 |
 | [Det Är Nog Kärlek Ändå](https://open.spotify.com/track/5gI30X0kenwXKCYywp7k3l) | [Jimmy Nordstrand](https://open.spotify.com/artist/2luFZL6C83ib0rPuLYdpdX) | [Det Är Nog Kärlek Ändå](https://open.spotify.com/album/2geXaBfZiPoLcnV8WxMDQ4) | 3:11 | 2024-08-15 | 2024-09-08 |
-| [Diamonds](https://open.spotify.com/track/1SXc5yCjwMjp0v7nNmESNs) | [Kleerup](https://open.spotify.com/artist/2YL0l5fnyHE9FEf1bwFGCc) | [Escape Through Music 2021\-2025](https://open.spotify.com/album/4GR0pnEmPh492b5KFyPfSv) | 4:32 | 2026-04-14 |  |
+| [Diamonds](https://open.spotify.com/track/1SXc5yCjwMjp0v7nNmESNs) | [Kleerup](https://open.spotify.com/artist/2YL0l5fnyHE9FEf1bwFGCc) | [Escape Through Music 2021\-2025](https://open.spotify.com/album/4GR0pnEmPh492b5KFyPfSv) | 4:32 | 2026-04-14 | 2026-05-01 |
 | [Din parfym](https://open.spotify.com/track/2Q5XfAVYprDIHLCsCwZGBi) | [Simon Forslund](https://open.spotify.com/artist/4JnIwJLd03V0aofGGIH5uD) | [Din parfym](https://open.spotify.com/album/5KaD632xFUKm3yER78OgjZ) | 2:41 | 2024-09-12 | 2024-10-21 |
 | [Din Sång](https://open.spotify.com/track/7z9yS76hKaktbg1cJieHQC) | [Kapten Röd](https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA) | [Din Sång](https://open.spotify.com/album/64vTKNWTHScWdFu6eG4LJr) | 3:56 | 2026-04-23 |  |
 | [Dispose of Me](https://open.spotify.com/track/5tffEKZUyEbyThW6FH9VFS) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Dispose of Me](https://open.spotify.com/album/00gOh6il0z2KBhwqWSu3iX) | 3:37 | 2024-06-27 | 2024-08-09 |
@@ -367,6 +367,7 @@
 | [Once In A Lifetime](https://open.spotify.com/track/4uPj7D8n8Kg8W39wilHtru) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Once In A Lifetime](https://open.spotify.com/album/5BWZb0mcwyCCTIE0pjvkzT) | 1:57 | 2024-12-05 | 2025-05-16 |
 | [One and Only](https://open.spotify.com/track/5t8pzRyclrYbL62ebIj0n3) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [Private Blizzard](https://open.spotify.com/album/2QjELGScW9xUk3I2eu7nze) | 3:54 | 2024-08-22 | 2025-04-11 |
 | [One More Tequila](https://open.spotify.com/track/0OSl43WoCuCd0CMrZJ28Tm) | [Northlake Shivers](https://open.spotify.com/artist/7sJkU4O3no0nJO7X29gnUb) | [One More Tequila](https://open.spotify.com/album/3uSdcCX368aTFIG8gbrISG) | 3:00 | 2024-11-07 | 2025-01-10 |
+| [One on One](https://open.spotify.com/track/00AdnLQexne2adipm3n8Ip) | [Europe](https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz) | [One on One](https://open.spotify.com/album/6589BDSLHBG8zCDWanKDxW) | 3:41 | 2026-04-30 |  |
 | [One\-Trick Pony](https://open.spotify.com/track/6tNz0WzVS7q1136lP8btQX) | [Toni Holgersson](https://open.spotify.com/artist/4mrhln9xCAUxK4fomXAtsB) | [One\-Trick Pony](https://open.spotify.com/album/6N2klg92TmszKj7waK5Xg7) | 4:56 | 2025-11-06 | 2026-02-26 |
 | [Only You](https://open.spotify.com/track/0ugszZuAOBLhfmybXOWBLN) | [Magnus Carlsson](https://open.spotify.com/artist/12VIfmT1N5FGyCuuXGKuYB) | [Only You](https://open.spotify.com/album/7beHonKtFevWLNsVaMd3CS) | 2:47 | 2025-09-18 | 2026-03-13 |
 | [Opening Act](https://open.spotify.com/track/31ipMJcQ781rbIVshfR5pz) | [Maja Ivarsson](https://open.spotify.com/artist/7mZEi87Lf4Bxy4XQwIyOEK) | [Kamikaze Life EP](https://open.spotify.com/album/5RPK7laTtrNhcZcSS2rvkz) | 2:16 | 2025-03-10 | 2025-08-16 |

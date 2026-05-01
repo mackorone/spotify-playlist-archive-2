@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a as novidades e grandes louvores Pentecostais. Foto: Sara Evelyn",
-  "num_followers": 199976,
+  "num_followers": 200056,
   "original_name": "Louvores Pentecostais",
   "owner": {
     "name": "Spotify",
@@ -523,6 +523,26 @@
     {
       "added_at": "2026-04-20 14:31:33",
       "album": {
+        "name": "Sorrir de Novo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0qyXyrFRqldlBhK7XZVrIN"
+      },
+      "artists": [
+        {
+          "name": "Dalete Hungria",
+          "url": "https://open.spotify.com/artist/3OPEB0wjZK1dnoqKG8tCfd"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+        }
+      ],
+      "duration_ms": 495754,
+      "name": "Sorrir de Novo - Ao Vivo",
+      "url": "https://open.spotify.com/track/3U3raybFpZft0rT58YSPFe"
+    },
+    {
+      "added_at": "2026-04-20 14:31:33",
+      "album": {
         "name": "Como Flecha (Ao Vivo)",
         "url": "https://open.spotify.com/album/3wYNlda0UpHxAXaYgtBRdd"
       },
@@ -535,22 +555,6 @@
       "duration_ms": 356403,
       "name": "Como Flecha - Ao Vivo",
       "url": "https://open.spotify.com/track/7gx4F5VziZlb1u8YG6syc6"
-    },
-    {
-      "added_at": "2026-04-20 14:31:33",
-      "album": {
-        "name": "Deus Vai Agir (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7yARppxr1hG93yPKWIfgsA"
-      },
-      "artists": [
-        {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        }
-      ],
-      "duration_ms": 234093,
-      "name": "Deus Vai Agir (Ao Vivo)",
-      "url": "https://open.spotify.com/track/5vSTBOJukCTLSoQK5hkx2o"
     },
     {
       "added_at": "2026-04-20 14:31:33",
@@ -575,22 +579,18 @@
     {
       "added_at": "2026-04-20 14:31:33",
       "album": {
-        "name": "Sorrir de Novo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0qyXyrFRqldlBhK7XZVrIN"
+        "name": "Deus Vai Agir (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7yARppxr1hG93yPKWIfgsA"
       },
       "artists": [
         {
-          "name": "Dalete Hungria",
-          "url": "https://open.spotify.com/artist/3OPEB0wjZK1dnoqKG8tCfd"
-        },
-        {
-          "name": "Todah Music",
-          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
         }
       ],
-      "duration_ms": 495754,
-      "name": "Sorrir de Novo - Ao Vivo",
-      "url": "https://open.spotify.com/track/3U3raybFpZft0rT58YSPFe"
+      "duration_ms": 234093,
+      "name": "Deus Vai Agir (Ao Vivo)",
+      "url": "https://open.spotify.com/track/5vSTBOJukCTLSoQK5hkx2o"
     },
     {
       "added_at": "2026-04-20 14:31:33",
@@ -615,30 +615,6 @@
     {
       "added_at": "2026-04-20 14:31:33",
       "album": {
-        "name": "Hebreus 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2iaC0zdDp1yuYAPUBWBjtv"
-      },
-      "artists": [
-        {
-          "name": "Os Bravos",
-          "url": "https://open.spotify.com/artist/1fR2eijp4FoQX7RmBUeyEm"
-        },
-        {
-          "name": "JesusCopy Music",
-          "url": "https://open.spotify.com/artist/4CDhTrPFRLfba48VJR9L4b"
-        },
-        {
-          "name": "Laura Souguellis",
-          "url": "https://open.spotify.com/artist/0MDyxNYI11EEQWhjsrPFd2"
-        }
-      ],
-      "duration_ms": 625714,
-      "name": "Hebreus 1 - Ao Vivo",
-      "url": "https://open.spotify.com/track/7DQOqbaquRT0VZmkfgo54z"
-    },
-    {
-      "added_at": "2026-04-20 14:31:33",
-      "album": {
         "name": "A Presen\u00e7a (43 Anos Louvor Eterno) [Ao Vivo, Curitiba, Teatro Positivo, 2025]",
         "url": "https://open.spotify.com/album/67wXgN3GtBrGBnIDFc2XxC"
       },
@@ -659,6 +635,30 @@
       "duration_ms": 353770,
       "name": "A Presen\u00e7a",
       "url": "https://open.spotify.com/track/4oOWcwpwEuTU7Fewmna98p"
+    },
+    {
+      "added_at": "2026-04-20 14:31:33",
+      "album": {
+        "name": "Hebreus 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2iaC0zdDp1yuYAPUBWBjtv"
+      },
+      "artists": [
+        {
+          "name": "Os Bravos",
+          "url": "https://open.spotify.com/artist/1fR2eijp4FoQX7RmBUeyEm"
+        },
+        {
+          "name": "JesusCopy Music",
+          "url": "https://open.spotify.com/artist/4CDhTrPFRLfba48VJR9L4b"
+        },
+        {
+          "name": "Laura Souguellis",
+          "url": "https://open.spotify.com/artist/0MDyxNYI11EEQWhjsrPFd2"
+        }
+      ],
+      "duration_ms": 625714,
+      "name": "Hebreus 1 - Ao Vivo",
+      "url": "https://open.spotify.com/track/7DQOqbaquRT0VZmkfgo54z"
     },
     {
       "added_at": "2026-04-20 14:31:33",
@@ -807,26 +807,6 @@
     {
       "added_at": "2026-04-20 14:31:33",
       "album": {
-        "name": "Eu N\u00e3o Era Nada",
-        "url": "https://open.spotify.com/album/31ptNMzkQSqJAx1W1ir9c9"
-      },
-      "artists": [
-        {
-          "name": "Stella Laura",
-          "url": "https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm"
-        },
-        {
-          "name": "Todah Music",
-          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
-        }
-      ],
-      "duration_ms": 343799,
-      "name": "Eu N\u00e3o Era Nada",
-      "url": "https://open.spotify.com/track/1Lu0YNiGF9bfc9GLfXYDDm"
-    },
-    {
-      "added_at": "2026-04-20 14:31:33",
-      "album": {
         "name": "Eu e Deus - Ao Vivo em S\u00e3o Paulo",
         "url": "https://open.spotify.com/album/57vqSYRocsA1oDOL37wyIj"
       },
@@ -867,6 +847,26 @@
     {
       "added_at": "2026-04-20 14:31:33",
       "album": {
+        "name": "Eu N\u00e3o Era Nada",
+        "url": "https://open.spotify.com/album/31ptNMzkQSqJAx1W1ir9c9"
+      },
+      "artists": [
+        {
+          "name": "Stella Laura",
+          "url": "https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+        }
+      ],
+      "duration_ms": 343799,
+      "name": "Eu N\u00e3o Era Nada",
+      "url": "https://open.spotify.com/track/1Lu0YNiGF9bfc9GLfXYDDm"
+    },
+    {
+      "added_at": "2026-04-20 14:31:33",
+      "album": {
         "name": "Kemilly Santos ao Vivo em S\u00e3o Paulo",
         "url": "https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9"
       },
@@ -895,6 +895,26 @@
       "duration_ms": 277500,
       "name": "Voc\u00ea Disse",
       "url": "https://open.spotify.com/track/6EogdYz9DwIG7YZziqj9Js"
+    },
+    {
+      "added_at": "2026-04-20 14:31:33",
+      "album": {
+        "name": "Chora que a Vit\u00f3ria Vem (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4Gzy29Xj4HenuHeZ9keKKg"
+      },
+      "artists": [
+        {
+          "name": "Ruthe Dayanne",
+          "url": "https://open.spotify.com/artist/75b4ed2olY9BBhGZoHDjdo"
+        },
+        {
+          "name": "L\u00e9a Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/73Ye0Yvwvanmf6bqXAez97"
+        }
+      ],
+      "duration_ms": 293506,
+      "name": "Chora que a Vit\u00f3ria Vem (Ao Vivo)",
+      "url": "https://open.spotify.com/track/4vfKTqehhEovOgZAR6CdkC"
     },
     {
       "added_at": "2026-04-20 14:31:33",
@@ -931,26 +951,6 @@
       "duration_ms": 383466,
       "name": "No Deserto (Ao Vivo em S\u00e3o Paulo)",
       "url": "https://open.spotify.com/track/7xKFol0XmSR5WyT06GSHyF"
-    },
-    {
-      "added_at": "2026-04-20 14:31:33",
-      "album": {
-        "name": "Chora que a Vit\u00f3ria Vem (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4Gzy29Xj4HenuHeZ9keKKg"
-      },
-      "artists": [
-        {
-          "name": "Ruthe Dayanne",
-          "url": "https://open.spotify.com/artist/75b4ed2olY9BBhGZoHDjdo"
-        },
-        {
-          "name": "L\u00e9a Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/73Ye0Yvwvanmf6bqXAez97"
-        }
-      ],
-      "duration_ms": 293506,
-      "name": "Chora que a Vit\u00f3ria Vem (Ao Vivo)",
-      "url": "https://open.spotify.com/track/4vfKTqehhEovOgZAR6CdkC"
     },
     {
       "added_at": "2026-04-20 14:31:33",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2026-04-20 14:31:33",
       "album": {
-        "name": "Existe Um Deus",
-        "url": "https://open.spotify.com/album/6bnQQHr5AXnX0JjIuEmYtS"
-      },
-      "artists": [
-        {
-          "name": "Larissa Santos",
-          "url": "https://open.spotify.com/artist/4RIEv1J3Fy104hJIQ5FQsk"
-        }
-      ],
-      "duration_ms": 282000,
-      "name": "Existe Um Deus",
-      "url": "https://open.spotify.com/track/3PzPF5JZsGSYfhegiexh2i"
-    },
-    {
-      "added_at": "2026-04-20 14:31:33",
-      "album": {
         "name": "Eu Sei Quem Sou",
         "url": "https://open.spotify.com/album/6i2QA12QyNxuT8uTClPlEB"
       },
@@ -1123,22 +1107,6 @@
     {
       "added_at": "2026-04-20 14:31:33",
       "album": {
-        "name": "Passar pela Moenda (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5VBDvmOHpGQKK2voUeMcwc"
-      },
-      "artists": [
-        {
-          "name": "Shirley Carvalhaes",
-          "url": "https://open.spotify.com/artist/6HNIWHUiKtaQwzY424iplT"
-        }
-      ],
-      "duration_ms": 321728,
-      "name": "Passar pela Moenda - Ao Vivo",
-      "url": "https://open.spotify.com/track/2lmKOWJr0QP4O4WQcxwNNT"
-    },
-    {
-      "added_at": "2026-04-20 14:31:33",
-      "album": {
         "name": "Pra Gl\u00f3ria do Senhor (Ao Vivo)",
         "url": "https://open.spotify.com/album/1qXobFa9nGR7Sou8XyMuwQ"
       },
@@ -1155,6 +1123,38 @@
       "duration_ms": 461540,
       "name": "Pra Gl\u00f3ria do Senhor - Ao Vivo",
       "url": "https://open.spotify.com/track/5RaE44KT6BlZAcQv5qyXmr"
+    },
+    {
+      "added_at": "2026-04-20 14:31:33",
+      "album": {
+        "name": "Passar pela Moenda (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5VBDvmOHpGQKK2voUeMcwc"
+      },
+      "artists": [
+        {
+          "name": "Shirley Carvalhaes",
+          "url": "https://open.spotify.com/artist/6HNIWHUiKtaQwzY424iplT"
+        }
+      ],
+      "duration_ms": 321728,
+      "name": "Passar pela Moenda - Ao Vivo",
+      "url": "https://open.spotify.com/track/2lmKOWJr0QP4O4WQcxwNNT"
+    },
+    {
+      "added_at": "2026-04-20 14:31:33",
+      "album": {
+        "name": "Existe Um Deus",
+        "url": "https://open.spotify.com/album/6bnQQHr5AXnX0JjIuEmYtS"
+      },
+      "artists": [
+        {
+          "name": "Larissa Santos",
+          "url": "https://open.spotify.com/artist/4RIEv1J3Fy104hJIQ5FQsk"
+        }
+      ],
+      "duration_ms": 282000,
+      "name": "Existe Um Deus",
+      "url": "https://open.spotify.com/track/3PzPF5JZsGSYfhegiexh2i"
     },
     {
       "added_at": "2026-04-20 14:31:33",

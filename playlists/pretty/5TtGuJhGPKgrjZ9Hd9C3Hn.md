@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5TtGuJhGPKgrjZ9Hd9C3Hn.md) - [plain]
 
 > The Finest In Jazz Since 1939
 
-[Blue Note Records](https://open.spotify.com/user/bluenoterecords) - 47,699 likes - 120 songs - 12 hr 33 min
+[Blue Note Records](https://open.spotify.com/user/bluenoterecords) - 47,711 likes - 120 songs - 12 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/5TtGuJhGPKgrjZ9Hd9C3Hn.md) - [plain]
 | 46 | [New Monastery \- Rudy Van Gelder Edition/1999 Remaster](https://open.spotify.com/track/5K6jQyCr2sxKMvcBLI6Zfv) | [Andrew Hill](https://open.spotify.com/artist/4ORSNkNYSzva169PBZCzvy) | [Point Of Departure \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/647o8vl4OD1sjvvhql3jFS) | 7:05 |
 | 47 | [The High Priest \- Remastered](https://open.spotify.com/track/1QVX2tIgB5zS7WrMbWtTqj) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr) | [Tender Moments \(Remastered\)](https://open.spotify.com/album/47T9Kj8G4Pmt4K8wSXk32P) | 6:05 |
 | 48 | [The Moontrane \- Rudy Van Gelder 24Bit Mastering/Digital Remaster/1998](https://open.spotify.com/track/4ZAcQgIlpV5z7k7evEF0MJ) | [Larry Young](https://open.spotify.com/artist/6Y6kAZs0W9NNsxNbpImPvq) | [Unity \(Remastered / Rudy Van Gelder Edition\)](https://open.spotify.com/album/5a8cjdV55tR5l2noku0vVv) | 7:21 |
-| 49 | [Soul Woman](https://open.spotify.com/track/29Npt8NkHyFDIEBNrF3i8A) | [Big John Patton](https://open.spotify.com/artist/1N0ymPm6hUQbmzXDuERfeT) | [Got A Good Thing Goin' On](https://open.spotify.com/album/73XjgmHTETvrobSzTWVo4v) | 7:42 |
+| 49 | [Soul Woman](https://open.spotify.com/track/29Npt8NkHyFDIEBNrF3i8A) | [Big John Patton](https://open.spotify.com/artist/1N0ymPm6hUQbmzXDuERfeT) | [Got A Good Thing Goin'](https://open.spotify.com/album/73XjgmHTETvrobSzTWVo4v) | 7:42 |
 | 50 | [Trouble \#02](https://open.spotify.com/track/3Y7Vb8M6MCevaPzaf6Tq7K) | [Stanley Turrentine](https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP) | [Hustlin' \(Remastered / Rudy Van Gelder Edition\)](https://open.spotify.com/album/4RSqILymLuRrQRkryyVKGo) | 7:48 |
 | 51 | [Alligator Bogaloo](https://open.spotify.com/track/2Wq889rsIlEG0l2ea9pE9J) | [Lou Donaldson](https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR) | [Alligator Bogaloo](https://open.spotify.com/album/4XBcW9JiDXOxXb9sfI1CiX) | 6:57 |
 | 52 | [Sittin' Duck](https://open.spotify.com/track/3rsYlTPHDxG1Ht1t5yOz1B) | [Gene Harris & The Three Sounds](https://open.spotify.com/artist/7wpE9ePlaLVOdFrSs9BX8B) | [Elegant Soul \(Reissue\)](https://open.spotify.com/album/2HWvhHLaJg5WIcT7lWwdtX) | 9:15 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/5TtGuJhGPKgrjZ9Hd9C3Hn.md) - [plain]
 | 119 | [The Call](https://open.spotify.com/track/2rb45s3pCXLMZGD1WiKFjG) | [Jacky Terrasson](https://open.spotify.com/artist/2I5A4xP3QGJEDKGhhXMAVr) | [53](https://open.spotify.com/album/4Z5gPQXauPwNq1XhzpwKA9) | 4:03 |
 | 120 | [For Generations](https://open.spotify.com/track/6Y8m5bnihvGZUZ2rsDse6T) | [Derrick Hodge](https://open.spotify.com/artist/1jvBVqm4g5Jk8tEmKoYoes) | [The Second](https://open.spotify.com/album/70NkOwCX9ZudoecixbtENx) | 3:43 |
 
-Snapshot ID: `AAACArbWhaHqJSHPzUJQvhamT4xfBRxi`
+Snapshot ID: `AAACBDk7JXi2wvYAzjrnwbOydaAckIJ7`

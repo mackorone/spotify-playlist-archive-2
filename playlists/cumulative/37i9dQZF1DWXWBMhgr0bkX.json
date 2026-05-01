@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Homegrown, emerging\ud83d\udd7a cover: Charlie Jeer",
+  "description": "Homegrown, emerging pop \ud83e\udd64 cover: Akeira Jade",
   "name": "New Pop UK",
   "tracks": [
     {
@@ -250,7 +250,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 200494,
       "name": "4321",
       "url": "https://open.spotify.com/track/2rmR0fqiDQhUbumtKrBt3l"
@@ -1926,7 +1926,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 179286,
       "name": "Best Of Me",
       "url": "https://open.spotify.com/track/1IIZBcfIXorlGDLxZBpsJp"
@@ -2016,7 +2016,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 201309,
       "name": "Better Man",
       "url": "https://open.spotify.com/track/00sths1FuBObheeM2EBEsJ"
@@ -2556,7 +2556,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 168800,
       "name": "Bottlemouth",
       "url": "https://open.spotify.com/track/7AtSJqgvCDWnARg2GkCalv"
@@ -3478,7 +3478,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 170203,
       "name": "Carousel",
       "url": "https://open.spotify.com/track/0zWS4KlUKrl2pV8up9JuOl"
@@ -3576,6 +3576,24 @@
       "duration_ms": 132971,
       "name": "Catching The Next Train",
       "url": "https://open.spotify.com/track/2PexbMSW94n7B3GiYKGh5b"
+    },
+    {
+      "album": {
+        "name": "Cathedral Walls",
+        "url": "https://open.spotify.com/album/1j5AhpWg2THs0EXu9ZWkH5"
+      },
+      "artists": [
+        {
+          "name": "Mathilda Homer",
+          "url": "https://open.spotify.com/artist/0uwGk8b2zINQFSKiLbK50Y"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201154,
+      "name": "Cathedral Walls",
+      "url": "https://open.spotify.com/track/7buEnaMzbYwlCNB2BnauAl"
     },
     {
       "album": {
@@ -4203,6 +4221,24 @@
     },
     {
       "album": {
+        "name": "The Carousel (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3AG11i5799fDzDQ9qgx2iz"
+      },
+      "artists": [
+        {
+          "name": "Michael Aldag",
+          "url": "https://open.spotify.com/artist/2e1NO2tyaMZajNoWe71ZiJ"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179325,
+      "name": "Company",
+      "url": "https://open.spotify.com/track/4Rrl3y7EKk4m1yGGuqdGNw"
+    },
+    {
+      "album": {
         "name": "Confused",
         "url": "https://open.spotify.com/album/63SKnBYxfovQ7CSMIB73Gp"
       },
@@ -4578,6 +4614,24 @@
       "duration_ms": 124800,
       "name": "D&G",
       "url": "https://open.spotify.com/track/6SqA0ketFw8TP6H6dhIjk3"
+    },
+    {
+      "album": {
+        "name": "Daffodils",
+        "url": "https://open.spotify.com/album/1hzfJ4kHvpSJ3RLMVBhzBL"
+      },
+      "artists": [
+        {
+          "name": "SISTRA",
+          "url": "https://open.spotify.com/artist/0Y1A0tTg1P1q6FKqhM7grU"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160226,
+      "name": "Daffodils",
+      "url": "https://open.spotify.com/track/2gSRtzhKePCVZFIVCUrYc0"
     },
     {
       "album": {
@@ -5054,6 +5108,24 @@
       "duration_ms": 176802,
       "name": "Difficult",
       "url": "https://open.spotify.com/track/2F7lnGyuqAZWMyoN25qVqC"
+    },
+    {
+      "album": {
+        "name": "Dirty",
+        "url": "https://open.spotify.com/album/6aYLLOe1FGm9EYFhCSMunz"
+      },
+      "artists": [
+        {
+          "name": "PENNY",
+          "url": "https://open.spotify.com/artist/3nkkY2mnJp6qI8xr0Z1Yxq"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180362,
+      "name": "Dirty",
+      "url": "https://open.spotify.com/track/6GsKMETdRKLz5bXJGUC613"
     },
     {
       "album": {
@@ -7935,6 +8007,24 @@
     },
     {
       "album": {
+        "name": "GROWING PAINS EP",
+        "url": "https://open.spotify.com/album/154WWMjYgrRc19AtU8X1lB"
+      },
+      "artists": [
+        {
+          "name": "Tom Cooper",
+          "url": "https://open.spotify.com/artist/2F33DzU28njVglipBm65gf"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147937,
+      "name": "GROWING PAINS",
+      "url": "https://open.spotify.com/track/3v1eZC8Yem4lnOfTyHMr8r"
+    },
+    {
+      "album": {
         "name": "Guess She\u2019s Cool",
         "url": "https://open.spotify.com/album/3RAyDRKWY6KfrcsKZzpQFC"
       },
@@ -8256,7 +8346,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 164630,
       "name": "He's A Genius",
       "url": "https://open.spotify.com/track/0rAthbcwLg06kZLN2XLu6d"
@@ -8818,7 +8908,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 222336,
       "name": "Holiday Blues",
       "url": "https://open.spotify.com/track/5IT9R1iTJvl0N3kWSWmBA7"
@@ -9751,6 +9841,24 @@
     },
     {
       "album": {
+        "name": "i'm not in love",
+        "url": "https://open.spotify.com/album/05Yk01M6jEj5kIJdjNeIoy"
+      },
+      "artists": [
+        {
+          "name": "su i think",
+          "url": "https://open.spotify.com/artist/0naoKcKsqj169ZzvaW4OR1"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166183,
+      "name": "i'm not in love",
+      "url": "https://open.spotify.com/track/0YWBtfsKx95H8S7Z9UbfkU"
+    },
+    {
+      "album": {
         "name": "I'm The Problem",
         "url": "https://open.spotify.com/album/3MUm8wKKt2wUkjeclggGNJ"
       },
@@ -10018,6 +10126,24 @@
       "duration_ms": 149666,
       "name": "Illegal",
       "url": "https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG"
+    },
+    {
+      "album": {
+        "name": "Immortal",
+        "url": "https://open.spotify.com/album/5i1PXexy6LcmfAjCJENRFz"
+      },
+      "artists": [
+        {
+          "name": "Akeira Jade",
+          "url": "https://open.spotify.com/artist/1nA7MM0soxDlkwBAJrQVCF"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208460,
+      "name": "Immortal",
+      "url": "https://open.spotify.com/track/3obOb4X1t6jpG4EKHMQYFQ"
     },
     {
       "album": {
@@ -16645,6 +16771,24 @@
     },
     {
       "album": {
+        "name": "SKYLINE",
+        "url": "https://open.spotify.com/album/1sA1OSqtWxiEtKHsuBWcnh"
+      },
+      "artists": [
+        {
+          "name": "vi0let",
+          "url": "https://open.spotify.com/artist/3ZzSaEjPW9zwhYfvId1l0Q"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179176,
+      "name": "SKYLINE",
+      "url": "https://open.spotify.com/track/05Ce3PPdmyJR7HjdzMpSMn"
+    },
+    {
+      "album": {
         "name": "Slap On The Wrist",
         "url": "https://open.spotify.com/album/7hVghiFPHSveuIwK8YzQWt"
       },
@@ -17236,7 +17380,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 198048,
       "name": "Start at the End",
       "url": "https://open.spotify.com/track/3Hoe1YtEchcNP7Jn5ff5Lz"
@@ -19221,6 +19365,28 @@
     },
     {
       "album": {
+        "name": "tried everything",
+        "url": "https://open.spotify.com/album/5sHPvxkTibczgvQVMEqV57"
+      },
+      "artists": [
+        {
+          "name": "ISABELLA",
+          "url": "https://open.spotify.com/artist/5A4DUMbVKNqflzW5Dpa43Q"
+        },
+        {
+          "name": "Izzi De-Rosa",
+          "url": "https://open.spotify.com/artist/3Z6QJOLlIS8vdKV4f3jc6g"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161169,
+      "name": "tried everything",
+      "url": "https://open.spotify.com/track/2Rw7rfyamcD0pHfhuHTgZp"
+    },
+    {
+      "album": {
         "name": "Trophy",
         "url": "https://open.spotify.com/album/768Zf5FplAHg9Izsq1KB9Z"
       },
@@ -19650,7 +19816,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 213382,
       "name": "Vulnerable",
       "url": "https://open.spotify.com/track/1ebgWRO8x7cJ7fLGg78hQ1"
@@ -19884,7 +20050,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 147000,
       "name": "WHERE DID YOU GO?",
       "url": "https://open.spotify.com/track/65sDfMOKYJ156t1gpTeW4d"
@@ -19996,6 +20162,28 @@
       "duration_ms": 176888,
       "name": "WHITE TIGER",
       "url": "https://open.spotify.com/track/1XeigXO4X2lJUTBbe3dHIn"
+    },
+    {
+      "album": {
+        "name": "who could love you like i do?",
+        "url": "https://open.spotify.com/album/6GQtcmkArttG2r4dtPYI3w"
+      },
+      "artists": [
+        {
+          "name": "kammy",
+          "url": "https://open.spotify.com/artist/4f90kqu2ZdLTFLCXPDsAG6"
+        },
+        {
+          "name": "kamille",
+          "url": "https://open.spotify.com/artist/0XSz7OqyhKBKRq4ZU8WpAo"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192563,
+      "name": "who could love you like i do?",
+      "url": "https://open.spotify.com/track/2HpGcpYIElLexIf8dwH8Kn"
     },
     {
       "album": {
@@ -20190,7 +20378,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 182117,
       "name": "Without You",
       "url": "https://open.spotify.com/track/6Epqcacr6V1DpxG00SoK22"

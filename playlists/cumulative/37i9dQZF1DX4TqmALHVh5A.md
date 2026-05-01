@@ -2,9 +2,9 @@
 
 ### [Courant Alternatif](https://open.spotify.com/playlist/37i9dQZF1DX4TqmALHVh5A)
 
-> La scène française branchée sur courant alternatif\. Photo : Zed Yun Pavarotti
+> La scène française branchée sur courant alternatif\. Photo : a6el
 
-474 songs - 1 day 0 hr 50 min
+477 songs - 1 day 0 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [amsterdam](https://open.spotify.com/track/0p1jyG640jfYCes1EagSsU) | [disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g) | [on s'en rappellera pas](https://open.spotify.com/album/2TLKicTW4h5Xpky6AinYq5) | 3:10 | 2026-01-15 | 2026-04-17 |
 | [Appel de détresse](https://open.spotify.com/track/0SlVqq3nMSf6ItkaOMPXfg) | [TheFrenchKris](https://open.spotify.com/artist/3mMx6lCCOvQZheRBZ3CTQs), [poissonchat](https://open.spotify.com/artist/064Ut5t9PvMeuGfKiprmZA) | [Appel de détresse](https://open.spotify.com/album/6HqJN4WwVxjeSdML6pNBUT) | 2:36 | 2025-11-27 | 2026-03-06 |
 | [Apprends\-moi](https://open.spotify.com/track/5zH8U9YG6BrWzUh8NHAJZf) | [MDNS](https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA) | [Posthume](https://open.spotify.com/album/58UDOo7F1hbra3WoCuGznu) | 2:57 | 2024-05-30 | 2024-10-25 |
-| [Approximatif](https://open.spotify.com/track/0I5EAx0lrJ4cL4Dj21MoK4) | [Cyril Mokaiesh](https://open.spotify.com/artist/1SDpo7FeZDqdk329wj2wRk) | [Bonne chance pour la suite](https://open.spotify.com/album/5Xi1T4E5u564I6Njs5iLLm) | 4:05 | 2026-01-29 |  |
+| [Approximatif](https://open.spotify.com/track/0I5EAx0lrJ4cL4Dj21MoK4) | [Cyril Mokaiesh](https://open.spotify.com/artist/1SDpo7FeZDqdk329wj2wRk) | [Bonne chance pour la suite](https://open.spotify.com/album/5Xi1T4E5u564I6Njs5iLLm) | 4:05 | 2026-01-29 | 2026-05-01 |
 | [Aspiration](https://open.spotify.com/track/1blgJMWytwChDZK16qWCfl) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq) | [La symphonie des éclairs](https://open.spotify.com/album/5GoDO8a03bxSSxMCeYKfaW) | 3:02 | 2023-11-02 | 2024-04-19 |
 | [Aspiration](https://open.spotify.com/track/7IXvqtnsBbJM7IEDQetR9b) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq) | [La symphonie des éclairs](https://open.spotify.com/album/1Vg18m8cCSPsTrGSoe0gpH) | 3:02 | 2023-09-28 | 2023-11-08 |
 | [Attitude](https://open.spotify.com/track/7x5V1JR3yO7QwpwuXOYQLC) | [Johnny Jane](https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr) | [Attitude](https://open.spotify.com/album/7qYCBUiH3uVK3gNpusRZiF) | 2:29 | 2023-11-09 | 2024-06-01 |
@@ -80,6 +80,7 @@
 | [Chorale](https://open.spotify.com/track/3U9VO4OhI4ZmhN00h3g5Bx) | [EMILE](https://open.spotify.com/artist/2zcvrNK2SY1epxOBTgfEF4) | [Chorale](https://open.spotify.com/album/3qnt1aMwMqwuTZxNCf1n6A) | 3:42 | 2025-04-03 | 2025-07-11 |
 | [Christiane F](https://open.spotify.com/track/20qFSAGLPpDxaQJYd1fB7G) | [Takeshi HRTBRK](https://open.spotify.com/artist/5UDVJ8zsudfutHD7DCLeuz) | [Christiane F](https://open.spotify.com/album/73RKng65JeReqOgTTLGspF) | 2:31 | 2023-09-28 | 2023-11-17 |
 | [Chromé total](https://open.spotify.com/track/732rPfESdrlQjJoeqtSOgm) | [Scuffles](https://open.spotify.com/artist/2FLeI069itvCLf9YBn6CpQ) | [Chromé total](https://open.spotify.com/album/1ZkKO0IVqwv6kO3M9d8yWK) | 3:12 | 2023-10-19 | 2024-04-05 |
+| [château en ruines](https://open.spotify.com/track/3L3WgfJLLHkFXbxB4BC7fi) | [NAEKO](https://open.spotify.com/artist/0pyq140jTsiXoxlv1KKYzK) | [château en ruines](https://open.spotify.com/album/61NSNVcFIOkpJfor0Xb4yJ) | 2:03 | 2026-04-30 |  |
 | [Cigarette à la bouche](https://open.spotify.com/track/1XUDuhvC5y8B2PkB71C6ci) | [D'accord Simon](https://open.spotify.com/artist/6HBlOvzTZVt7yd5AUZxygo) | [Cigarette à la bouche](https://open.spotify.com/album/4TFXhd63WzwRhaVw7qcHtp) | 2:00 | 2025-09-18 | 2025-12-12 |
 | [CINÉMA](https://open.spotify.com/track/05AppqGcRJffs3mpphLOTU) | [Dynamite Shakers](https://open.spotify.com/artist/0T6jBctjBGXqRmXI2pe0aT) | [CINÉMA](https://open.spotify.com/album/3w3eJevAHMoQzOv4lJDxox) | 2:35 | 2026-04-09 |  |
 | [Cl0ckW0rk](https://open.spotify.com/track/5w8XK7wdcdsIp76zLtc3aR) | [Apple Jelly](https://open.spotify.com/artist/587AadegoSQQn1WdhSCnSZ) | [Cl0ckW0rk EP](https://open.spotify.com/album/2aMSVdnr1U8YJKdbjLqHfr) | 3:01 | 2023-10-05 | 2023-11-17 |
@@ -251,6 +252,7 @@
 | [Le soleil](https://open.spotify.com/track/2lktF3thBYKCdaaTmGbwHu) | [Stuck in the Sound](https://open.spotify.com/artist/5sTzirFL1wjNa3GuSiUHsy) | [Le soleil](https://open.spotify.com/album/6YLBbcCJyHaH8XhQOYr3R8) | 4:07 | 2023-09-28 | 2023-12-01 |
 | [Le syndrome de Peter Pan](https://open.spotify.com/track/0h1Eh9xzNefZFj7lpbdxt7) | [Lulu Gainsbourg](https://open.spotify.com/artist/5W38lYXVLIEfyTFBQKTfmX) | [Le syndrome de Peter Pan](https://open.spotify.com/album/4L3x0WjVx8d6WDdLRRkpU7) | 2:37 | 2025-04-24 | 2025-06-06 |
 | [Le téléphone](https://open.spotify.com/track/3NAx8hW6fdM9Tyt8RqplNM) | [Jim Bauer](https://open.spotify.com/artist/77kjYcXMhJX87ZjtrlxbLo) | [Le téléphone](https://open.spotify.com/album/7xlJo76BopfAUd4rwiwDPv) | 2:42 | 2023-11-23 | 2023-12-01 |
+| [les adieux](https://open.spotify.com/track/5InmwOdtudXZMys1G2Uo09) | [billie](https://open.spotify.com/artist/5OlAhdgR13gu6r0MZU8eKj) | [les adieux](https://open.spotify.com/album/3kN893vmbtMas2NEwHiR1y) | 3:16 | 2026-04-30 |  |
 | [Les Chevaux Blancs](https://open.spotify.com/track/6y0yMswC3BLtp5VQ41lxJD) | [Mon cher Guy](https://open.spotify.com/artist/6KwKwfx3DSMOYDfHo1GcK2), [Alice et Moi](https://open.spotify.com/artist/1NcCVE1FRpBSlN3LcAfhn3) | [Cowboy Circus](https://open.spotify.com/album/0LeNAzIxVwsSVrvUq28HPD) | 2:38 | 2025-06-12 | 2025-11-07 |
 | [LES FRAMBOISES](https://open.spotify.com/track/4WL4dfBOxheHyOcgPtyaZF) | [Simia](https://open.spotify.com/artist/57dGH4c5aKHr46UJqCDEev) | [TÇPÇ!](https://open.spotify.com/album/2deUjrM2eyy0UQuImPJJlq) | 2:40 | 2025-10-10 | 2026-01-16 |
 | [Les garçons](https://open.spotify.com/track/5XGju7r47HMtg660vdkBSd) | [Lescop](https://open.spotify.com/artist/2KlDlqEMf0YyYW8rBKUx6W) | [Les garçons](https://open.spotify.com/album/6Yy55S5ELrJMIbGcdQ7qQK) | 3:40 | 2023-11-16 | 2024-09-13 |
@@ -330,7 +332,7 @@
 | [Pause Play](https://open.spotify.com/track/4yNgAVEPDXv5RmxOHMxKHM) | [Odezenne](https://open.spotify.com/artist/1FiWBzw15KbR9amOb1Xnxp) | [DOULA \(hypercouleurs\)](https://open.spotify.com/album/5MQ0mnvWM2yRD84eKzUCZv) | 4:33 | 2025-12-04 | 2026-03-20 |
 | [PAVILLON NOIR](https://open.spotify.com/track/1pNtWzjaaBtYTcMq1oiwik) | [Julius On The Wave](https://open.spotify.com/artist/3u8hEmcHdXJhkI0d6pHNId) | [PAVILLON NOIR](https://open.spotify.com/album/78cFIxaV7ZI8lWHpdatDXZ) | 2:22 | 2024-11-14 | 2025-02-28 |
 | [Pavillons résidentiels](https://open.spotify.com/track/15z178WCmCpGL5FaSDQokZ) | [Arca M](https://open.spotify.com/artist/4qVGCiHNMFQPWATwj7stKg) | [Pavillons résidentiels](https://open.spotify.com/album/3I6cKDIXLEYPuhOyXKbS9N) | 2:59 | 2025-10-16 | 2026-01-16 |
-| [Peaux Miroirs](https://open.spotify.com/track/7cxAjAFypLuTNZWLIQifAz) | [Frànçois & The Atlas Mountains](https://open.spotify.com/artist/1mHTS3stAYCszPZ2PRa8QU), [David Numwami](https://open.spotify.com/artist/2uKChU7eHSda8R79iR9rel) | [Peaux Miroirs](https://open.spotify.com/album/4Ej3dz9FNGG59gJUs3tDiF) | 2:54 | 2026-01-29 |  |
+| [Peaux Miroirs](https://open.spotify.com/track/7cxAjAFypLuTNZWLIQifAz) | [Frànçois & The Atlas Mountains](https://open.spotify.com/artist/1mHTS3stAYCszPZ2PRa8QU), [David Numwami](https://open.spotify.com/artist/2uKChU7eHSda8R79iR9rel) | [Peaux Miroirs](https://open.spotify.com/album/4Ej3dz9FNGG59gJUs3tDiF) | 2:54 | 2026-01-29 | 2026-05-01 |
 | [People Are Afraid](https://open.spotify.com/track/4ARZSaY13oxocIbvHBKoLi) | [Marlon Magnée](https://open.spotify.com/artist/0NscG1sENWBbNcF8Wj5yLs), [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [People Are Afraid](https://open.spotify.com/album/5lWUoBPPotqfkEZJ4P3Mnb) | 3:49 | 2026-01-23 | 2026-04-17 |
 | [petit escargot](https://open.spotify.com/track/0ixhSe9nDUyz89Jr36EU3C) | [Colas](https://open.spotify.com/artist/7gVIUgoWlvt4aXBkwqYIrc) | [petit escargot](https://open.spotify.com/album/06Nr7DJDtxzLQYrMNbnWjJ) | 3:22 | 2024-06-13 | 2025-01-31 |
 | [PIERROT LE FOU](https://open.spotify.com/track/7AkXjA1YDOG4YwXoJ4ZuXh) | [Marguerite Thiam](https://open.spotify.com/artist/0q8xRKBXrsCAzK5Ynq4U8B) | [PIERROT LE FOU](https://open.spotify.com/album/1gUOdwnfqdL8f97BS0j5kY) | 2:48 | 2025-09-11 | 2025-12-12 |
@@ -351,6 +353,7 @@
 | [Problèmes](https://open.spotify.com/track/1se9m5r5XhNKHYOA4XS0Yd) | [Cabale](https://open.spotify.com/artist/5raQmxMcTBUh8pMYU6ZOit) | [Cabale](https://open.spotify.com/album/3KdpOBLkuf70nhwTu1anQV) | 2:58 | 2023-10-19 | 2024-06-01 |
 | [Psycho](https://open.spotify.com/track/3WTRnRVdjj5RyddXkBkxQy) | [Tshegue](https://open.spotify.com/artist/3eEAELTLLkQc0PD2S2xAhN) | [Psycho](https://open.spotify.com/album/1QNGHLkRa7T5ltfZbnFGdc) | 3:07 | 2026-04-16 |  |
 | [PTSMR](https://open.spotify.com/track/3IwsDBOjSZ0IJa71mXjqRZ) | [THÉA](https://open.spotify.com/artist/6GGkEuZHoNpJsKYNZml2gL), [Rok.wav](https://open.spotify.com/artist/34AMiSMNdLIBS0NapVfzLz), [Dudu.wav](https://open.spotify.com/artist/2fyTjHpxa1sFTxYYIgV7YO) | [PTSMR](https://open.spotify.com/album/4rQL2TSwLZobwftESuhn5J) | 3:00 | 2024-06-20 | 2025-01-24 |
+| [PVTE GOTHIQUE](https://open.spotify.com/track/5n6lujGl8kRZrhdEgWLbFs) | [KALIKA](https://open.spotify.com/artist/0UgxFqJmwkpojz4mHBsRpD) | [PVTE GOTHIQUE](https://open.spotify.com/album/2Tg3whftOwtLH1OA0n7uz8) | 3:37 | 2026-04-30 |  |
 | [Pétasse en colère](https://open.spotify.com/track/5ri0ZiGJ9V5eUnsh7eYkKK) | [Yanka](https://open.spotify.com/artist/5yAgNwxoOxbPpKdgaY7Ro6), [King Doudou](https://open.spotify.com/artist/3aVceD1iZNjO7INFdXQaeZ) | [Pétasse en colère](https://open.spotify.com/album/0StKsoslzRofPvGsGhcxXn) | 2:25 | 2025-06-05 | 2025-10-03 |
 | [Que la biche soit en nous](https://open.spotify.com/track/37aTA1MjK5fCo4SNVmQ6WY) | [Astéréotypie](https://open.spotify.com/artist/1bPIphq90zexFcnUA7qILm) | [Que la biche soit en nous](https://open.spotify.com/album/3fy1GzRl5vpIMGYPwl09Yd) | 3:28 | 2024-06-20 | 2025-02-07 |
 | [Quel dommage](https://open.spotify.com/track/7tLhOs918gmnFelUpTkVgq) | [Nerlov](https://open.spotify.com/artist/0JFtb1jFwdVNr8MycYK2BI) | [Quel dommage](https://open.spotify.com/album/3QVyFLFsxzav6hfxRYADr4) | 3:23 | 2023-10-19 | 2023-12-08 |
@@ -415,7 +418,7 @@
 | [Summer Haze](https://open.spotify.com/track/3rtABcMpe2DK4YmlMzIiiH) | [Nina Versyp](https://open.spotify.com/artist/6MEkTyXq5nV6jeGlirVJjy) | [Summer Haze](https://open.spotify.com/album/4hRAVM14yLdj03nxpF3AIc) | 3:16 | 2025-09-18 | 2025-11-21 |
 | [Superstar](https://open.spotify.com/track/4yeQykjmOJeVxxfEoyPfiA) | [Johnny Jane](https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr) | [DÉSORDRES](https://open.spotify.com/album/6TGZoFUFnus52OtEXSmDEd) | 3:01 | 2023-09-28 | 2023-11-03 |
 | [SVP faites du bruit](https://open.spotify.com/track/1H73rbNesXp1PkkX5DoQzO) | [Neniu](https://open.spotify.com/artist/27JvDfZUHLn7JVt8pOJs1I) | [SVP faites du bruit](https://open.spotify.com/album/3qIYqEKukvK7pCQLr7UdTz) | 3:10 | 2026-03-05 |  |
-| [sympa](https://open.spotify.com/track/2cjBJ5UEWmzN4uy7VuuxWw) | [Dab Rozer](https://open.spotify.com/artist/33Mlo4xMrJsseOIv75xdfl) | [sympa](https://open.spotify.com/album/1CBmtnrlHIOqhMU7YQfiNd) | 3:20 | 2026-01-23 |  |
+| [sympa](https://open.spotify.com/track/2cjBJ5UEWmzN4uy7VuuxWw) | [Dab Rozer](https://open.spotify.com/artist/33Mlo4xMrJsseOIv75xdfl) | [sympa](https://open.spotify.com/album/1CBmtnrlHIOqhMU7YQfiNd) | 3:20 | 2026-01-23 | 2026-05-01 |
 | [t qu'un gros FDC](https://open.spotify.com/track/4URpzCq5Q2e3yjZtWC81RI) | [Citron Sucré](https://open.spotify.com/artist/4jdwrt4GxKV6buiNuwHSDp) | [t qu'un gros FDC](https://open.spotify.com/album/64pVg1o7OOdIgwX1a9Ilzt) | 5:17 | 2025-02-13 | 2025-05-16 |
 | [T'as les formes t'as les armes](https://open.spotify.com/track/4sOtdy0lt9vHnrF6OgbdhK) | [Akira & le Sabbat](https://open.spotify.com/artist/1beqcw5P0wds8IzLuuAxZp) | [T'as les formes t'as les armes](https://open.spotify.com/album/1etOZNIsJItzWO5GOMJWbk) | 3:10 | 2024-11-28 | 2025-04-25 |
 | [Ta Fiction](https://open.spotify.com/track/7gJWaS57o9JEdTddHAYGle) | [Chien Méchant](https://open.spotify.com/artist/3tGEmt91uOUsBANyfWmABd) | [Ta Fiction](https://open.spotify.com/album/0NHVDvucQ8dxh5OY3oG3X6) | 3:11 | 2024-11-14 | 2025-03-07 |

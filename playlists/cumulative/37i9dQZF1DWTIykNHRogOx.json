@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise avec ESTL",
+  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise avec Ys\u00e9",
   "name": "Exception Fran\u00e7aise",
   "tracks": [
     {
@@ -252,6 +252,24 @@
       "duration_ms": 137013,
       "name": "AMOUR IMMENSE",
       "url": "https://open.spotify.com/track/1MlRa0GirgpGJbCx9R6wsO"
+    },
+    {
+      "album": {
+        "name": "Amoureuse",
+        "url": "https://open.spotify.com/album/6KFiRdQ7SzYdVv1ro5UjaG"
+      },
+      "artists": [
+        {
+          "name": "Matild",
+          "url": "https://open.spotify.com/artist/556svfNK6nfvqu9F6N4Eok"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170442,
+      "name": "Amoureuse",
+      "url": "https://open.spotify.com/track/0trNGFUPuakolPntrUFQtc"
     },
     {
       "album": {
@@ -1187,6 +1205,24 @@
     },
     {
       "album": {
+        "name": "Encore un peu",
+        "url": "https://open.spotify.com/album/3PcCcn7Ux7l9xAT2v0XxKc"
+      },
+      "artists": [
+        {
+          "name": "Ronnie",
+          "url": "https://open.spotify.com/artist/6a8uf5LXFZ22BzKMpU9YFz"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161960,
+      "name": "Encore un peu",
+      "url": "https://open.spotify.com/track/5XftKlBfuqCdDQawQ2irNP"
+    },
+    {
+      "album": {
         "name": "Engag\u00e9 volon-Terre (feat. Ren\u00e9 Nunes)",
         "url": "https://open.spotify.com/album/00rcsuB0dL7fQmbf7a2Wjl"
       },
@@ -1202,7 +1238,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 187522,
       "name": "Engag\u00e9 volon-Terre (feat. Ren\u00e9 Nunes)",
       "url": "https://open.spotify.com/track/7CqiodjJF4h89XAAf4FTfN"
@@ -3109,6 +3145,24 @@
     },
     {
       "album": {
+        "name": "Le Train",
+        "url": "https://open.spotify.com/album/0bYRaNGPNyvFWKqOWQfGfS"
+      },
+      "artists": [
+        {
+          "name": "Laure Briard",
+          "url": "https://open.spotify.com/artist/01kBbtD0A37qtJ9EdA3Fm1"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153907,
+      "name": "Le Train",
+      "url": "https://open.spotify.com/track/0jlA2eeimEel4YhVm9FsUR"
+    },
+    {
+      "album": {
         "name": "Le V\u0153u",
         "url": "https://open.spotify.com/album/5EV5iAGebXLRmKklXiCEgo"
       },
@@ -3322,7 +3376,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 202292,
       "name": "Les gens",
       "url": "https://open.spotify.com/track/327aZ6FSyHbV6SYyb60ckk"
@@ -5618,7 +5672,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 174866,
       "name": "Une minute encore",
       "url": "https://open.spotify.com/track/1LpfdLXt8RjQKbjigw4mcx"

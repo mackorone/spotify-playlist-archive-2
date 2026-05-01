@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 
 > Chill r&b\. Cover: Kehlani
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,368,495 likes - 253 songs - 13 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,368,489 likes - 253 songs - 13 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

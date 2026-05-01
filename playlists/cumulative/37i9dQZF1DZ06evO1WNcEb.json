@@ -259,6 +259,28 @@
     },
     {
       "album": {
+        "name": "Continuarei Adorando (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1ABf8KziS6TFyUOHgBzwaH"
+      },
+      "artists": [
+        {
+          "name": "Alda C\u00e9lia",
+          "url": "https://open.spotify.com/artist/6UTqT9xxXAPjmyfNHDuNdv"
+        },
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 423652,
+      "name": "Continuarei Adorando - Ao Vivo",
+      "url": "https://open.spotify.com/track/4DoOGmh2eWxG9XxUWMtVT4"
+    },
+    {
+      "album": {
         "name": "De Manh\u00e3 (Ao Vivo)",
         "url": "https://open.spotify.com/album/1ZcC6cU12wzi4LP2VsEUL3"
       },
@@ -358,7 +380,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 256640,
       "name": "Deus dos Vales, Deus dos Montes + Tira-me do Vale (Ao Vivo)",
       "url": "https://open.spotify.com/track/6NKS2L2XXu6NV58fsmuKM3"

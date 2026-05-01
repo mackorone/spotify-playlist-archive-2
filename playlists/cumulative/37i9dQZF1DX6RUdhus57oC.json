@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "A Rose",
+        "url": "https://open.spotify.com/album/4uZB2x6Fnj3JznsdZY2tBA"
+      },
+      "artists": [
+        {
+          "name": "Natalee Marlowe",
+          "url": "https://open.spotify.com/artist/0xpi7Cnrj85a5mifMxgCfS"
+        }
+      ],
+      "date_added": "2026-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147810,
+      "name": "A Rose",
+      "url": "https://open.spotify.com/track/0XAHH61ykmd5UpOF7w7Ky8"
+    },
+    {
+      "album": {
         "name": "Across The Fields",
         "url": "https://open.spotify.com/album/68c3h4zAoaRybQloxoXHOk"
       },
@@ -430,7 +448,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 146591,
       "name": "carried by the wind",
       "url": "https://open.spotify.com/track/2AGqmUvz4fieLGPE18R7OL"

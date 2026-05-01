@@ -308,7 +308,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-18",
+      "date_removed": null,
       "duration_ms": 168103,
       "name": "Aquafina",
       "url": "https://open.spotify.com/track/59sAr7NvZDeH7oYrkiyZcQ"
@@ -410,7 +410,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-12",
+      "date_removed": null,
       "duration_ms": 210051,
       "name": "Back To You",
       "url": "https://open.spotify.com/track/3CyrVEkcaJdSh8cM8IcRdD"
@@ -464,7 +464,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-29",
+      "date_removed": null,
       "duration_ms": 176850,
       "name": "Bad To Me",
       "url": "https://open.spotify.com/track/2pUlBBWq8R10ylbBvZJV9j"
@@ -642,7 +642,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-01",
+      "date_removed": null,
       "duration_ms": 198039,
       "name": "Breaking The Yoke Of Love",
       "url": "https://open.spotify.com/track/4Qpilnxi20LRgYr3a9iOJA"
@@ -784,7 +784,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 190000,
       "name": "Chaos",
       "url": "https://open.spotify.com/track/43jWipklxg90r0zx3sLiSA"
@@ -828,7 +828,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-01",
+      "date_removed": null,
       "duration_ms": 222640,
       "name": "Cheat On Me (feat. Dave)",
       "url": "https://open.spotify.com/track/3p0LTDKv4scCJA6I2ArvJv"
@@ -1038,7 +1038,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 160000,
       "name": "Cry Me A River",
       "url": "https://open.spotify.com/track/2iDKmDDsETpmtAAThCrpph"
@@ -1315,12 +1315,12 @@
         },
         {
           "name": "Mayorkun",
-          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
+          "url": "https://open.spotify.com/artist/39CW71Je0OSO9DRBFkwxbs"
         }
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-15",
+      "date_removed": null,
       "duration_ms": 152241,
       "name": "Don't Call Me Back",
       "url": "https://open.spotify.com/track/4THTRhTTIcqJFTfjMGNqhv"
@@ -1454,7 +1454,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 211636,
       "name": "Emefa's Revenge",
       "url": "https://open.spotify.com/track/1BixnXufFnYkbhpToboElg"
@@ -1530,7 +1530,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-27",
+      "date_removed": null,
       "duration_ms": 134546,
       "name": "EX BOYFRIEND",
       "url": "https://open.spotify.com/track/3pcITc6cPAvj5JtOnXiB1X"
@@ -1578,7 +1578,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-21",
+      "date_removed": null,
       "duration_ms": 179454,
       "name": "Feel Different",
       "url": "https://open.spotify.com/track/0nTgtjFQzLhvU3VLciMPlN"
@@ -1676,7 +1676,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 123829,
       "name": "Fortified",
       "url": "https://open.spotify.com/track/72iZeHm8pPwJTuzMBhbU2A"
@@ -1920,7 +1920,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-18",
+      "date_removed": null,
       "duration_ms": 163437,
       "name": "Goodgirl",
       "url": "https://open.spotify.com/track/6adCGcQBhdqQbrb2b1aoGv"
@@ -1968,7 +1968,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 159183,
       "name": "Happier",
       "url": "https://open.spotify.com/track/0u87IwEXPIXL7p3Lcrc2U9"
@@ -2744,7 +2744,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 193000,
       "name": "Let Me Remind You",
       "url": "https://open.spotify.com/track/35yqMpB5Nwryf554COemzA"
@@ -2806,7 +2806,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-28",
+      "date_removed": null,
       "duration_ms": 155934,
       "name": "letting go",
       "url": "https://open.spotify.com/track/4VmZWEvWcmWFqg7GciQM88"
@@ -3816,7 +3816,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 153600,
       "name": "October",
       "url": "https://open.spotify.com/track/6BnfAEkQfViLev4GJnbDnO"
@@ -4120,7 +4120,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 172716,
       "name": "Pain Killer",
       "url": "https://open.spotify.com/track/1ZgdZC6apTnoccNzM7qkSm"
@@ -4164,7 +4164,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 155309,
       "name": "Pepper Me",
       "url": "https://open.spotify.com/track/6SBir05Tucy1GKt4yMWa2c"
@@ -4476,7 +4476,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-24",
+      "date_removed": null,
       "duration_ms": 181646,
       "name": "Ruin",
       "url": "https://open.spotify.com/track/3XloH0C8QYXgbYPmXlxf2x"
@@ -4724,7 +4724,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 163163,
       "name": "So So Bad",
       "url": "https://open.spotify.com/track/3qTDPMjG9CoyQEaxIPISg2"
@@ -5106,7 +5106,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 120000,
       "name": "Tolotolo",
       "url": "https://open.spotify.com/track/0r3Ih6qH8xMDzqJmErLSAN"

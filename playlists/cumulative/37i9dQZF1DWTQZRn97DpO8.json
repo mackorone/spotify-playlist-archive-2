@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "\ud83c\udf6f\ud83c\udf6f\ud83c\udf6f\nPhoto : aupinard",
+  "description": "\ud83c\udf6f\ud83c\udf6f\ud83c\udf6f\nPhoto : Lolo Zoua\u00ef",
   "name": "le miel",
   "tracks": [
     {
@@ -1366,7 +1366,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 219000,
       "name": "C'est nous",
       "url": "https://open.spotify.com/track/7zrntDj5tanqHDx6esLwYN"
@@ -2406,6 +2406,24 @@
       "duration_ms": 149840,
       "name": "Dis le moi",
       "url": "https://open.spotify.com/track/5Ccv0IrPdyWeLk0QGeNeP4"
+    },
+    {
+      "album": {
+        "name": "Dis moi",
+        "url": "https://open.spotify.com/album/5z26jrqZfA3niRiaGF4DRJ"
+      },
+      "artists": [
+        {
+          "name": "Nani",
+          "url": "https://open.spotify.com/artist/2CmX6l8HQbIlHCFiDUtE8r"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199594,
+      "name": "Dis moi",
+      "url": "https://open.spotify.com/track/2xXiAFb7l5ixf4V0CJoOXi"
     },
     {
       "album": {
@@ -3490,7 +3508,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 186086,
       "name": "French Kiss",
       "url": "https://open.spotify.com/track/3WmtfrPOWswNzcC64L0xev"
@@ -7087,6 +7105,24 @@
     },
     {
       "album": {
+        "name": "okbb",
+        "url": "https://open.spotify.com/album/6FgIR6F8Msa5apBKYnZpZ5"
+      },
+      "artists": [
+        {
+          "name": "Ellie Becker",
+          "url": "https://open.spotify.com/artist/7sk2rTrxeJHTBisizDA42q"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182062,
+      "name": "okbb",
+      "url": "https://open.spotify.com/track/2EYSZv5HvvAUKyFyXq5cke"
+    },
+    {
+      "album": {
         "name": "On God",
         "url": "https://open.spotify.com/album/3Noo1weiOv49QXhrf7fmmB"
       },
@@ -9485,6 +9521,24 @@
     },
     {
       "album": {
+        "name": "Suivre Mes Envies",
+        "url": "https://open.spotify.com/album/6y04m0ltLV5Qndur7Fohym"
+      },
+      "artists": [
+        {
+          "name": "M\u00c9LIA",
+          "url": "https://open.spotify.com/artist/3kouFWWAqYYaXWUX4gjIwA"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159483,
+      "name": "Suivre Mes Envies",
+      "url": "https://open.spotify.com/track/471DSK76YwXUSYCkKz6hca"
+    },
+    {
+      "album": {
         "name": "Pause",
         "url": "https://open.spotify.com/album/4LydZSdKsiddSZKUSAII46"
       },
@@ -9728,7 +9782,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 202000,
       "name": "Timide",
       "url": "https://open.spotify.com/track/7CgHjFMRl53Dgv6eDO2qAx"

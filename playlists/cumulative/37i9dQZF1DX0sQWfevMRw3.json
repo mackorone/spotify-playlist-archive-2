@@ -412,7 +412,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 181600,
       "name": "240",
       "url": "https://open.spotify.com/track/2CdxVjuzNqznIOWENEG2Ml"
@@ -842,7 +842,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 153630,
       "name": "AFTERSKI (Drick Upp)",
       "url": "https://open.spotify.com/track/6sZOQiyaLgPAuDznPGhxzc"
@@ -5517,6 +5517,24 @@
     },
     {
       "album": {
+        "name": "Digg",
+        "url": "https://open.spotify.com/album/6186N5x9c4MFouIFpKMvrw"
+      },
+      "artists": [
+        {
+          "name": "Carina Dahl",
+          "url": "https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147860,
+      "name": "Digg",
+      "url": "https://open.spotify.com/track/73QBUSZZDcC5o8CBr6dk4o"
+    },
+    {
+      "album": {
         "name": "DIMMAN",
         "url": "https://open.spotify.com/album/52xDzUZTbRUDWmuP1nTBC5"
       },
@@ -6698,7 +6716,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 132093,
       "name": "DUNK DUNK DUNK",
       "url": "https://open.spotify.com/track/2PrlR3FEpsE7Yc0YXF0AIJ"
@@ -7264,6 +7282,24 @@
       "duration_ms": 161932,
       "name": "Eat That",
       "url": "https://open.spotify.com/track/3wAZSNBuAlgA0fHELUvjMF"
+    },
+    {
+      "album": {
+        "name": "Economy PLUS",
+        "url": "https://open.spotify.com/album/35oWqxJND9YW6bM2Xu1Irf"
+      },
+      "artists": [
+        {
+          "name": "KAJ",
+          "url": "https://open.spotify.com/artist/4blbIMKwfzTxHGvN0Est1t"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180952,
+      "name": "Economy PLUS",
+      "url": "https://open.spotify.com/track/0QEasyD0inY0gmEMkXvHuV"
     },
     {
       "album": {
@@ -10212,7 +10248,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 129923,
       "name": "FUCKFRIEND",
       "url": "https://open.spotify.com/track/1MwJnEHigvwBX76pxkTAnB"
@@ -11248,6 +11284,24 @@
       "duration_ms": 179250,
       "name": "GABBA GABBA",
       "url": "https://open.spotify.com/track/6zfHBysknBGSTZRUU6Y2st"
+    },
+    {
+      "album": {
+        "name": "GALEN",
+        "url": "https://open.spotify.com/album/5pvXNR9xl7e8RVr1YlG84H"
+      },
+      "artists": [
+        {
+          "name": "BAKI$",
+          "url": "https://open.spotify.com/artist/5Cbn1PScGFcG2PlibZY65u"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136486,
+      "name": "GALEN",
+      "url": "https://open.spotify.com/track/0p8ZLtBVdfCjysRxwdCE1k"
     },
     {
       "album": {
@@ -13201,6 +13255,24 @@
     },
     {
       "album": {
+        "name": "Hela v\u00e4rlden sjunger",
+        "url": "https://open.spotify.com/album/1KKfgJfANIUpjgxhMerRJp"
+      },
+      "artists": [
+        {
+          "name": "Dom F\u00f6rsta",
+          "url": "https://open.spotify.com/artist/10uLT8GVnmWiYqegEwaO70"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179998,
+      "name": "Hela v\u00e4rlden sjunger",
+      "url": "https://open.spotify.com/track/6ZzZ6u7ue64raIPTwEUbB8"
+    },
+    {
+      "album": {
         "name": "HELAN G\u00c5R",
         "url": "https://open.spotify.com/album/4sJqw8dnkNombjj84qXhrb"
       },
@@ -13988,7 +14060,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 166714,
       "name": "Hos dig \u00e4r jag underbar",
       "url": "https://open.spotify.com/track/7GyCwSiH7pXQTPtMvs3vSz"
@@ -14434,6 +14506,28 @@
       "duration_ms": 121411,
       "name": "H\u00c5LLER UPP",
       "url": "https://open.spotify.com/track/0wnz4q3WnrTkJ79x458UzH"
+    },
+    {
+      "album": {
+        "name": "H\u00e5pl\u00f8s",
+        "url": "https://open.spotify.com/album/5qampg6B8BB77GrP433F6O"
+      },
+      "artists": [
+        {
+          "name": "Roc Boyz",
+          "url": "https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa"
+        },
+        {
+          "name": "vinni",
+          "url": "https://open.spotify.com/artist/2rvUlmaAfN7eKSVAcaRj9t"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181782,
+      "name": "H\u00e5pl\u00f8s",
+      "url": "https://open.spotify.com/track/4SbpGcPIMBFFwPO5B7cuvl"
     },
     {
       "album": {
@@ -15683,6 +15777,24 @@
     },
     {
       "album": {
+        "name": "JAG DRAR NU",
+        "url": "https://open.spotify.com/album/62VtCQjpzn0XEecHbLFcTs"
+      },
+      "artists": [
+        {
+          "name": "Sofie Svensson & Dom D\u00e4r",
+          "url": "https://open.spotify.com/artist/7LBwVPl8kIn3I949KmBVim"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171176,
+      "name": "JAG DRAR NU",
+      "url": "https://open.spotify.com/track/1WhSOYg6wbj1tHna5KeMZ8"
+    },
+    {
+      "album": {
         "name": "Jag Gillar Dig",
         "url": "https://open.spotify.com/album/3GJX0NsF7t5wOgdlhYLqn2"
       },
@@ -16134,7 +16246,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 164901,
       "name": "JAX TELLER",
       "url": "https://open.spotify.com/track/7E7raDs00o4D6VKsvtd4BD"
@@ -16182,6 +16294,28 @@
       "duration_ms": 123483,
       "name": "JH5GLIMPI",
       "url": "https://open.spotify.com/track/5sRmrySDs6LREVMmj32QM0"
+    },
+    {
+      "album": {
+        "name": "JIGGY",
+        "url": "https://open.spotify.com/album/0Khh1IS7m5yEyOGddsz7vk"
+      },
+      "artists": [
+        {
+          "name": "Kudos",
+          "url": "https://open.spotify.com/artist/2uz5pGGHltzQNOmxOd95g7"
+        },
+        {
+          "name": "Y2K",
+          "url": "https://open.spotify.com/artist/1rIHiWJNWxRES9XM09uBfm"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149543,
+      "name": "JIGGY",
+      "url": "https://open.spotify.com/track/4xD69C3ikfS93BRnFI6V3s"
     },
     {
       "album": {
@@ -18551,6 +18685,32 @@
     },
     {
       "album": {
+        "name": "Ljabrur Provisjon",
+        "url": "https://open.spotify.com/album/4L5OCh7lE0TIzE3slaSVNa"
+      },
+      "artists": [
+        {
+          "name": "Sleiken",
+          "url": "https://open.spotify.com/artist/0l2QmwUY1pWAjK8RcoXQ2v"
+        },
+        {
+          "name": "Rockmeister",
+          "url": "https://open.spotify.com/artist/5jTr3UTf79m3EPzMxIaNlP"
+        },
+        {
+          "name": "Busemannen",
+          "url": "https://open.spotify.com/artist/7GFo5trHkvdopEyIv5pQeQ"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175234,
+      "name": "Ljabrur Provisjon",
+      "url": "https://open.spotify.com/track/2HPJLOJc86dQ4TkdezsU4o"
+    },
+    {
+      "album": {
         "name": "Ljuger jag f\u00f6r mig sj\u00e4lv igen?",
         "url": "https://open.spotify.com/album/1ODJZ5v5iVTJsJ4VVrXUBC"
       },
@@ -19188,6 +19348,28 @@
       "duration_ms": 132624,
       "name": "MADAME",
       "url": "https://open.spotify.com/track/2oZTF2NgFwoxmGVImjUzG2"
+    },
+    {
+      "album": {
+        "name": "Madlib (feat. Sleiken)",
+        "url": "https://open.spotify.com/album/7juRrDZiPfMItt6zWfcFfS"
+      },
+      "artists": [
+        {
+          "name": "Hjorterud All\u00e9",
+          "url": "https://open.spotify.com/artist/1bimLJXbk003FxHablh4b7"
+        },
+        {
+          "name": "Sleiken",
+          "url": "https://open.spotify.com/artist/0l2QmwUY1pWAjK8RcoXQ2v"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126285,
+      "name": "Madlib (feat. Sleiken)",
+      "url": "https://open.spotify.com/track/1tzBKileZnI7Zbm0hEcmZT"
     },
     {
       "album": {
@@ -20393,6 +20575,28 @@
     },
     {
       "album": {
+        "name": "M\u00f6rkt",
+        "url": "https://open.spotify.com/album/5tpFWteao7KZEBhNS5an3d"
+      },
+      "artists": [
+        {
+          "name": "OKVH",
+          "url": "https://open.spotify.com/artist/2KlhZOYTfG8pidklQFSSRQ"
+        },
+        {
+          "name": "KYPARN",
+          "url": "https://open.spotify.com/artist/2p9OeruY0AAgWRu84YZMPw"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156975,
+      "name": "M\u00f6rkt",
+      "url": "https://open.spotify.com/track/2egNAMVxbWgsWnf8aAyafh"
+    },
+    {
+      "album": {
         "name": "M\u00f6ssens julafton",
         "url": "https://open.spotify.com/album/4iERReTkBLFBluK2dPXsB3"
       },
@@ -20742,6 +20946,24 @@
       "duration_ms": 217740,
       "name": "Nordic Invasion",
       "url": "https://open.spotify.com/track/6tFZX0gaddiXIgj5MUPY3I"
+    },
+    {
+      "album": {
+        "name": "Noreg",
+        "url": "https://open.spotify.com/album/771Xi1dBWsfNgMaxN2vM1n"
+      },
+      "artists": [
+        {
+          "name": "Ringnes-Ronny",
+          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212571,
+      "name": "Noreg",
+      "url": "https://open.spotify.com/track/2oWeiMKGzgd1ewM8XEGRQC"
     },
     {
       "album": {
@@ -22030,6 +22252,24 @@
       "duration_ms": 141050,
       "name": "Party Trick (Burp Song)",
       "url": "https://open.spotify.com/track/1pNEqaiH3SESSKbkmtpytA"
+    },
+    {
+      "album": {
+        "name": "Partyl\u00e5t",
+        "url": "https://open.spotify.com/album/4G3jSvEwmF4aDuMx07jifM"
+      },
+      "artists": [
+        {
+          "name": "Mange Makers",
+          "url": "https://open.spotify.com/artist/3h4mC2mtKfxToywPSrVPcC"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160601,
+      "name": "Partyl\u00e5t",
+      "url": "https://open.spotify.com/track/1QXbp74RttGXJDu2I4G56U"
     },
     {
       "album": {
@@ -26480,7 +26720,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 163041,
       "name": "Ski Resort",
       "url": "https://open.spotify.com/track/0OMt0APLoHjWHKdb4ARD0t"
@@ -28900,6 +29140,24 @@
       "duration_ms": 225179,
       "name": "Sun on the Ocean",
       "url": "https://open.spotify.com/track/0H38nMwD98B5d72ndJQkls"
+    },
+    {
+      "album": {
+        "name": "Sunnanvind",
+        "url": "https://open.spotify.com/album/2fYINDjJ1eX5g4GFACpyd2"
+      },
+      "artists": [
+        {
+          "name": "KaptenX",
+          "url": "https://open.spotify.com/artist/5m1kkyZcYNKkjeAh6o9XLp"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133652,
+      "name": "Sunnanvind",
+      "url": "https://open.spotify.com/track/4lBiRh68gJguY2GInzXb6I"
     },
     {
       "album": {

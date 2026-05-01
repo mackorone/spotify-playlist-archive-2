@@ -605,6 +605,24 @@
     },
     {
       "album": {
+        "name": "ASFALT",
+        "url": "https://open.spotify.com/album/0WmjnvRqQU6Pt4ZJ6cWPMF"
+      },
+      "artists": [
+        {
+          "name": "Hugo Tarres",
+          "url": "https://open.spotify.com/artist/6VaYrjshHIPyNBnmVdLdgQ"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153280,
+      "name": "ASFALT",
+      "url": "https://open.spotify.com/track/0Izx0GM7me01DxEZKLkRup"
+    },
+    {
+      "album": {
         "name": "Automatic",
         "url": "https://open.spotify.com/album/5WMQEzS5EBCPU5IYKSY7BM"
       },
@@ -1130,6 +1148,24 @@
       "duration_ms": 224594,
       "name": "BIA\u0141Y BEZ",
       "url": "https://open.spotify.com/track/5y2S26rk7wsJffWji7MUIp"
+    },
+    {
+      "album": {
+        "name": "Bieg",
+        "url": "https://open.spotify.com/album/010X5xCNCkmielvqtPvrLu"
+      },
+      "artists": [
+        {
+          "name": "Przebi\u015bniegi",
+          "url": "https://open.spotify.com/artist/19lOxXnatl3J8HHKIqHoqx"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205116,
+      "name": "Bieg",
+      "url": "https://open.spotify.com/track/7cwPrxZzaGIERfZyvOHFgC"
     },
     {
       "album": {
@@ -2230,7 +2266,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 190842,
       "name": "Cinnamon",
       "url": "https://open.spotify.com/track/7CxcxeNMisYRbiXULp7L0L"
@@ -2850,10 +2886,28 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-25",
+      "date_removed": null,
       "duration_ms": 208626,
       "name": "Darlin'",
       "url": "https://open.spotify.com/track/3lFVdFLQeBXLxqKxqwqIfS"
+    },
+    {
+      "album": {
+        "name": "The Great Divide",
+        "url": "https://open.spotify.com/album/2fnkyn9EybagIoFJ7a13oz"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230787,
+      "name": "Dashboard",
+      "url": "https://open.spotify.com/track/6rlU0kRQNjMZ7t5I92yCIi"
     },
     {
       "album": {
@@ -3944,7 +3998,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-30",
+      "date_removed": null,
       "duration_ms": 184481,
       "name": "Earth, Wind & California",
       "url": "https://open.spotify.com/track/18o7eKxV5q5vdj2Qa1hF0L"
@@ -4608,7 +4662,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 210927,
       "name": "Flora",
       "url": "https://open.spotify.com/track/4nt2VQt6uW3hfKISgx6rh4"
@@ -7314,7 +7368,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 162374,
       "name": "Lepiej mu sz\u0142o kiedy pi\u0142",
       "url": "https://open.spotify.com/track/44BCYQIk6rrX8vtxfvbej5"
@@ -8402,7 +8456,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 159000,
       "name": "mi\u0119kn\u0119&wi\u0119dn\u0119",
       "url": "https://open.spotify.com/track/5VGl9p1HU0lBGmyZtfitbG"
@@ -11134,7 +11188,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 234352,
       "name": "Pi\u0105tki",
       "url": "https://open.spotify.com/track/7hN6LIVSU8WlbZ383vtLPA"
@@ -11828,6 +11882,24 @@
       "duration_ms": 209733,
       "name": "Prizefighter",
       "url": "https://open.spotify.com/track/2cS7Mx24vjZQAPnWd2BwGK"
+    },
+    {
+      "album": {
+        "name": "Promise?",
+        "url": "https://open.spotify.com/album/4C0Jn8EWIX77dDQum3oNJO"
+      },
+      "artists": [
+        {
+          "name": "Bella Kay",
+          "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192100,
+      "name": "Promise?",
+      "url": "https://open.spotify.com/track/6Or4gNQC2EkixDGiufQ3F4"
     },
     {
       "album": {
@@ -16620,7 +16692,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 252933,
       "name": "Wi\u0119cej czasu na mi\u0142o\u015b\u0107",
       "url": "https://open.spotify.com/track/5o7X5kqohQgvHjKBd66338"
@@ -16852,6 +16924,24 @@
       "duration_ms": 183916,
       "name": "Wszystko jedno",
       "url": "https://open.spotify.com/track/3PwObD0w22aaIClsZVrWGH"
+    },
+    {
+      "album": {
+        "name": "pele-mele",
+        "url": "https://open.spotify.com/album/445NbCN6D81ShHmKjbmFiz"
+      },
+      "artists": [
+        {
+          "name": "Lor",
+          "url": "https://open.spotify.com/artist/0TwM0vzeyhAMTegVdIq8rx"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185250,
+      "name": "wszystko jedno, wszystko \u017ale",
+      "url": "https://open.spotify.com/track/1yXPUokqPGKcdzP7gsS6TZ"
     },
     {
       "album": {
@@ -17168,6 +17258,28 @@
       "duration_ms": 221889,
       "name": "Z KO\u0143CEM POCZ\u0104TEK",
       "url": "https://open.spotify.com/track/17Uztzz0OebGNpaO2aAe9L"
+    },
+    {
+      "album": {
+        "name": "Z Tob\u0105 by\u0107 (love u like that)",
+        "url": "https://open.spotify.com/album/1kvi0FLwY0569zzpDXppJP"
+      },
+      "artists": [
+        {
+          "name": "Maciej Skiba",
+          "url": "https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq"
+        },
+        {
+          "name": "Bletka",
+          "url": "https://open.spotify.com/artist/4QYitR7yrCaf5CLQ09hX1m"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161538,
+      "name": "Z Tob\u0105 by\u0107 (love u like that)",
+      "url": "https://open.spotify.com/track/08y6uLM8jQePtUOSEWJTuj"
     },
     {
       "album": {
@@ -17616,7 +17728,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 181759,
       "name": "Z\u0142ote dziecko",
       "url": "https://open.spotify.com/track/6pCuligFuNPC62FJRHZcNx"
@@ -17706,7 +17818,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 200820,
       "name": "\u015awietnie",
       "url": "https://open.spotify.com/track/2W9yJOkL3YoCS4cyWhw0gG"

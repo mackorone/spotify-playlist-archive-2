@@ -1,180 +1,96 @@
 {
   "description": "A new world of alternative electronic music.",
-  "num_followers": 129865,
+  "num_followers": 129854,
   "original_name": "Portal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOtZZ9mbCPihj03JI6z2Dh1Xm9IN",
+  "snapshot_id": "AAAAACaN9MwyoOP7WOTcsz6bui2upjhi",
   "tracks": [
     {
-      "added_at": "2026-04-10 04:01:08",
+      "added_at": "2026-04-30 13:09:03",
       "album": {
-        "name": "Ordinary Badman",
-        "url": "https://open.spotify.com/album/0G9GXFwO58VA6N5zuShJ90"
+        "name": "Leev Ur Mynd",
+        "url": "https://open.spotify.com/album/38ZR0xbQtEnmLi3SXfdvOX"
       },
       "artists": [
         {
-          "name": "Hugh B",
-          "url": "https://open.spotify.com/artist/0ccbE6uaLu9K9U1QTNvjzn"
+          "name": "Mr. Fingers",
+          "url": "https://open.spotify.com/artist/0dRiUTGvNV17AMIULRYsvn"
         }
       ],
-      "duration_ms": 282632,
-      "name": "Crush",
-      "url": "https://open.spotify.com/track/75KuWJNM0WaXnDlLBprBJV"
+      "duration_ms": 449302,
+      "name": "Plastic Nightmares",
+      "url": "https://open.spotify.com/track/5C7pRCrWI1KDx65uJGAd5M"
     },
     {
-      "added_at": "2026-04-10 04:01:08",
+      "added_at": "2026-04-30 13:09:03",
       "album": {
-        "name": "Left At Sunset",
-        "url": "https://open.spotify.com/album/0BqEGSrVCZaGd8HuILOlGX"
+        "name": "Kittens (r31_for2026)",
+        "url": "https://open.spotify.com/album/5s8Xug1JSFcE9fUuu24dXZ"
       },
       "artists": [
         {
-          "name": "Tornado Wallace",
-          "url": "https://open.spotify.com/artist/6GNWPphcJ5CtIwCJVV1lLT"
+          "name": "Underworld",
+          "url": "https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa"
         }
       ],
-      "duration_ms": 564702,
-      "name": "Plasticine",
-      "url": "https://open.spotify.com/track/1KubDxVPHalEloqDaGrepQ"
+      "duration_ms": 401760,
+      "name": "Kittens (r31_for2026)",
+      "url": "https://open.spotify.com/track/5xmG9Htf8XpJZ4h1kBtuCM"
     },
     {
-      "added_at": "2026-04-10 04:01:08",
+      "added_at": "2026-04-30 13:09:03",
       "album": {
-        "name": "Electronic Arts",
-        "url": "https://open.spotify.com/album/2Clka6a46Wgtzy8Cc15pZT"
+        "name": "50/50",
+        "url": "https://open.spotify.com/album/2u4dlmnEW2hdq7E2yv4V4p"
       },
       "artists": [
         {
-          "name": "Sleep D",
-          "url": "https://open.spotify.com/artist/7DSX8wua9P7LuGapEmftQc"
-        }
-      ],
-      "duration_ms": 450461,
-      "name": "Textile",
-      "url": "https://open.spotify.com/track/450d0Ms4qZ5nfOQPSNRXbE"
-    },
-    {
-      "added_at": "2026-04-10 04:01:08",
-      "album": {
-        "name": "Elastic (Phase I)",
-        "url": "https://open.spotify.com/album/29cHaiWLnZhffzoS5rEnWB"
-      },
-      "artists": [
-        {
-          "name": "Opal Sunn",
-          "url": "https://open.spotify.com/artist/78S74FaXeZ5e7JyMF8Axok"
-        }
-      ],
-      "duration_ms": 628184,
-      "name": "Elastic - Phase I",
-      "url": "https://open.spotify.com/track/3RO9b5KtpkOEbLIodiGUtf"
-    },
-    {
-      "added_at": "2026-04-10 04:01:08",
-      "album": {
-        "name": "Leave Your Life",
-        "url": "https://open.spotify.com/album/4qeik8tRjrndVWsaS7bRBS"
-      },
-      "artists": [
-        {
-          "name": "Alex Kassian",
-          "url": "https://open.spotify.com/artist/3YcfGOBLEsPKVZj5Ecu0QY"
-        }
-      ],
-      "duration_ms": 369473,
-      "name": "Leave Your Life - Lonely Hearts Mix",
-      "url": "https://open.spotify.com/track/4byAVCrUbP9O89nyIeclaL"
-    },
-    {
-      "added_at": "2026-04-10 04:01:08",
-      "album": {
-        "name": "Wrote For Luck (Mella Dee Remix)",
-        "url": "https://open.spotify.com/album/5YYuxw5V4rg9pZlwKujb3p"
-      },
-      "artists": [
-        {
-          "name": "Happy Mondays",
-          "url": "https://open.spotify.com/artist/339DNkQkuhHKEcHw6oK8f0"
+          "name": "Human Movement",
+          "url": "https://open.spotify.com/artist/37dubgexq6dhyB4eCM3PHZ"
         },
         {
-          "name": "Mella Dee",
-          "url": "https://open.spotify.com/artist/2iT8KIetokMHRjhj8dJuNn"
+          "name": "Soul Wun",
+          "url": "https://open.spotify.com/artist/1p8OhmCL3zTXnRRG9z97Fp"
         }
       ],
-      "duration_ms": 608484,
-      "name": "Wrote For Luck - Mella Dee Remix",
-      "url": "https://open.spotify.com/track/5ZQMgzZXt8rLf2UxUv4Hdn"
+      "duration_ms": 263035,
+      "name": "Phone Line Crew",
+      "url": "https://open.spotify.com/track/58XHrHAegxvlFjLMAh76vL"
     },
     {
-      "added_at": "2025-12-18 13:00:08",
+      "added_at": "2026-04-30 13:09:03",
       "album": {
-        "name": "132 TECHNO",
-        "url": "https://open.spotify.com/album/0aXbjkmx97z1wdTCbf79WY"
+        "name": "Sigils For Survival",
+        "url": "https://open.spotify.com/album/6DsMqtKy0VJlvcxRFozKw8"
       },
       "artists": [
         {
-          "name": "Kelly Lee Owens",
-          "url": "https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5"
+          "name": "Octo Octa",
+          "url": "https://open.spotify.com/artist/2GH8Mzo3Ur1AdOnGUUpt17"
         }
       ],
-      "duration_ms": 334584,
-      "name": "132 TECHNO",
-      "url": "https://open.spotify.com/track/13thxVYAfM7IGa4HLWGjI1"
+      "duration_ms": 499100,
+      "name": "First Intention (Right Here, Right Now)",
+      "url": "https://open.spotify.com/track/2cnRRxgxmTYIUwK06kNTJk"
     },
     {
-      "added_at": "2025-12-18 13:00:08",
+      "added_at": "2026-04-30 13:09:03",
       "album": {
-        "name": "Lazy Haze",
-        "url": "https://open.spotify.com/album/7ogyBA2ovnKRNOdSJnZ1Kt"
+        "name": "Track Six / Harmonic Eye",
+        "url": "https://open.spotify.com/album/5kvBA8Kycj14z5TY5jZrq1"
       },
       "artists": [
         {
-          "name": "Yere",
-          "url": "https://open.spotify.com/artist/4lzDszfgtJrnmeBfDu9dt7"
-        },
-        {
-          "name": "Bicycle Ride",
-          "url": "https://open.spotify.com/artist/1aEKpfW8sw5XryObAyPUFE"
+          "name": "Andy Rantzen",
+          "url": "https://open.spotify.com/artist/0JB0gu9r44nDQdov58H5sB"
         }
       ],
-      "duration_ms": 126998,
-      "name": "Lazy Haze",
-      "url": "https://open.spotify.com/track/4U3FH4HfSRtFyVhuRiDYuP"
-    },
-    {
-      "added_at": "2025-12-18 13:00:08",
-      "album": {
-        "name": "Imperfect Circuit",
-        "url": "https://open.spotify.com/album/6qyn5YEeah0tVxZONoEyvL"
-      },
-      "artists": [
-        {
-          "name": "Jon Sable",
-          "url": "https://open.spotify.com/artist/7fK4fTHz2dA1hlBe3ZhoRh"
-        }
-      ],
-      "duration_ms": 352500,
-      "name": "Imperfect Circuit",
-      "url": "https://open.spotify.com/track/4NbkQ2CViXL4orFuynWgV5"
-    },
-    {
-      "added_at": "2026-04-10 04:01:08",
-      "album": {
-        "name": "C'est Toi",
-        "url": "https://open.spotify.com/album/4q8j2pBnzDSR1wuKUPaqoF"
-      },
-      "artists": [
-        {
-          "name": "LNRT",
-          "url": "https://open.spotify.com/artist/3K6wMz8wZO3G0ffTAQeqgC"
-        }
-      ],
-      "duration_ms": 190080,
-      "name": "C'est Toi",
-      "url": "https://open.spotify.com/track/2Sr4AtddCOnpPcyJR1pKEW"
+      "duration_ms": 251915,
+      "name": "Harmonic Eye",
+      "url": "https://open.spotify.com/track/001vFsfpwFMz8sssCMBVrj"
     },
     {
       "added_at": "2025-10-16 13:00:01",
@@ -509,24 +425,20 @@
       "url": "https://open.spotify.com/track/4zI0wuANmj9DNkBOgXU5Wh"
     },
     {
-      "added_at": "2025-10-16 13:00:01",
+      "added_at": "2026-04-10 04:01:08",
       "album": {
-        "name": "What You Like (feat. yun\u00e8 pinku)",
-        "url": "https://open.spotify.com/album/5QOziDmjbHnDqZTUgajTub"
+        "name": "C'est Toi",
+        "url": "https://open.spotify.com/album/4q8j2pBnzDSR1wuKUPaqoF"
       },
       "artists": [
         {
-          "name": "Logic1000",
-          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
-        },
-        {
-          "name": "yun\u00e8 pinku",
-          "url": "https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD"
+          "name": "LNRT",
+          "url": "https://open.spotify.com/artist/3K6wMz8wZO3G0ffTAQeqgC"
         }
       ],
-      "duration_ms": 193893,
-      "name": "What You Like",
-      "url": "https://open.spotify.com/track/0h6ENY9kDXxfbbfnX3onPR"
+      "duration_ms": 190080,
+      "name": "C'est Toi",
+      "url": "https://open.spotify.com/track/2Sr4AtddCOnpPcyJR1pKEW"
     },
     {
       "added_at": "2025-10-16 13:00:01",
@@ -547,6 +459,26 @@
       "duration_ms": 158882,
       "name": "Now U Do - Edit",
       "url": "https://open.spotify.com/track/0fK4NmIDXetjIiZ2Oxz2tF"
+    },
+    {
+      "added_at": "2025-10-16 13:00:01",
+      "album": {
+        "name": "What You Like (feat. yun\u00e8 pinku)",
+        "url": "https://open.spotify.com/album/5QOziDmjbHnDqZTUgajTub"
+      },
+      "artists": [
+        {
+          "name": "Logic1000",
+          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
+        },
+        {
+          "name": "yun\u00e8 pinku",
+          "url": "https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD"
+        }
+      ],
+      "duration_ms": 193893,
+      "name": "What You Like",
+      "url": "https://open.spotify.com/track/0h6ENY9kDXxfbbfnX3onPR"
     },
     {
       "added_at": "2025-10-16 13:00:01",
@@ -589,22 +521,6 @@
       "url": "https://open.spotify.com/track/25E8dNd1xwaMRINstUPy1r"
     },
     {
-      "added_at": "2025-12-18 13:00:08",
-      "album": {
-        "name": "All Night Long",
-        "url": "https://open.spotify.com/album/3yhDHafqAFeWjbtpzP2Tfl"
-      },
-      "artists": [
-        {
-          "name": "LNRT",
-          "url": "https://open.spotify.com/artist/3K6wMz8wZO3G0ffTAQeqgC"
-        }
-      ],
-      "duration_ms": 179076,
-      "name": "All Night Long",
-      "url": "https://open.spotify.com/track/01PhbKK2jcCO8YCjTgIXhT"
-    },
-    {
       "added_at": "2025-10-16 13:00:01",
       "album": {
         "name": "Feel The Friction",
@@ -621,24 +537,20 @@
       "url": "https://open.spotify.com/track/3drghRAvtI2VrNDZsHsmlZ"
     },
     {
-      "added_at": "2025-10-16 13:00:01",
+      "added_at": "2025-12-18 13:00:08",
       "album": {
-        "name": "The Heads That Know",
-        "url": "https://open.spotify.com/album/5nCHAjDBoIwmtf8dKOvdB7"
+        "name": "All Night Long",
+        "url": "https://open.spotify.com/album/3yhDHafqAFeWjbtpzP2Tfl"
       },
       "artists": [
         {
-          "name": "Charlotte de Witte",
-          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
-        },
-        {
-          "name": "Comma Dee",
-          "url": "https://open.spotify.com/artist/2K2k6w3rhyifPmKC4U86VY"
+          "name": "LNRT",
+          "url": "https://open.spotify.com/artist/3K6wMz8wZO3G0ffTAQeqgC"
         }
       ],
-      "duration_ms": 423244,
-      "name": "The Heads That Know (feat. Comma Dee)",
-      "url": "https://open.spotify.com/track/5TH2FmWFED58bejTlKQXVi"
+      "duration_ms": 179076,
+      "name": "All Night Long",
+      "url": "https://open.spotify.com/track/01PhbKK2jcCO8YCjTgIXhT"
     },
     {
       "added_at": "2025-10-16 13:00:01",
@@ -659,6 +571,26 @@
       "duration_ms": 301933,
       "name": "better",
       "url": "https://open.spotify.com/track/7oNOKWpTqTnTJeyLwkwWqN"
+    },
+    {
+      "added_at": "2025-10-16 13:00:01",
+      "album": {
+        "name": "The Heads That Know",
+        "url": "https://open.spotify.com/album/5nCHAjDBoIwmtf8dKOvdB7"
+      },
+      "artists": [
+        {
+          "name": "Charlotte de Witte",
+          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+        },
+        {
+          "name": "Comma Dee",
+          "url": "https://open.spotify.com/artist/2K2k6w3rhyifPmKC4U86VY"
+        }
+      ],
+      "duration_ms": 423244,
+      "name": "The Heads That Know (feat. Comma Dee)",
+      "url": "https://open.spotify.com/track/5TH2FmWFED58bejTlKQXVi"
     },
     {
       "added_at": "2025-10-16 13:00:01",
@@ -697,6 +629,26 @@
       "url": "https://open.spotify.com/track/5LM5D4axlHlw25FSLB9yqN"
     },
     {
+      "added_at": "2025-12-18 13:00:08",
+      "album": {
+        "name": "Lazy Haze",
+        "url": "https://open.spotify.com/album/7ogyBA2ovnKRNOdSJnZ1Kt"
+      },
+      "artists": [
+        {
+          "name": "Yere",
+          "url": "https://open.spotify.com/artist/4lzDszfgtJrnmeBfDu9dt7"
+        },
+        {
+          "name": "Bicycle Ride",
+          "url": "https://open.spotify.com/artist/1aEKpfW8sw5XryObAyPUFE"
+        }
+      ],
+      "duration_ms": 126998,
+      "name": "Lazy Haze",
+      "url": "https://open.spotify.com/track/4U3FH4HfSRtFyVhuRiDYuP"
+    },
+    {
       "added_at": "2025-10-16 13:00:01",
       "album": {
         "name": "Back 2 Back",
@@ -715,6 +667,38 @@
       "duration_ms": 187411,
       "name": "Back 2 Back",
       "url": "https://open.spotify.com/track/13DIg33b655IuPHHdnlimm"
+    },
+    {
+      "added_at": "2026-04-10 04:01:08",
+      "album": {
+        "name": "Leave Your Life",
+        "url": "https://open.spotify.com/album/4qeik8tRjrndVWsaS7bRBS"
+      },
+      "artists": [
+        {
+          "name": "Alex Kassian",
+          "url": "https://open.spotify.com/artist/3YcfGOBLEsPKVZj5Ecu0QY"
+        }
+      ],
+      "duration_ms": 369473,
+      "name": "Leave Your Life - Lonely Hearts Mix",
+      "url": "https://open.spotify.com/track/4byAVCrUbP9O89nyIeclaL"
+    },
+    {
+      "added_at": "2025-10-16 13:00:01",
+      "album": {
+        "name": "Where You Need To Be",
+        "url": "https://open.spotify.com/album/5zuAaJ9wg60dc7UOVHVgRz"
+      },
+      "artists": [
+        {
+          "name": "Skin On Skin",
+          "url": "https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa"
+        }
+      ],
+      "duration_ms": 253478,
+      "name": "Where You Need To Be",
+      "url": "https://open.spotify.com/track/5wAxcO9N89pLKRo68vMqJL"
     },
     {
       "added_at": "2025-10-16 13:00:01",
@@ -743,22 +727,6 @@
       "duration_ms": 232984,
       "name": "Talk To Me",
       "url": "https://open.spotify.com/track/6PpeV9uHMHbY2pYPvMwCDv"
-    },
-    {
-      "added_at": "2025-10-16 13:00:01",
-      "album": {
-        "name": "Where You Need To Be",
-        "url": "https://open.spotify.com/album/5zuAaJ9wg60dc7UOVHVgRz"
-      },
-      "artists": [
-        {
-          "name": "Skin On Skin",
-          "url": "https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa"
-        }
-      ],
-      "duration_ms": 253478,
-      "name": "Where You Need To Be",
-      "url": "https://open.spotify.com/track/5wAxcO9N89pLKRo68vMqJL"
     },
     {
       "added_at": "2025-10-16 13:00:01",
@@ -895,6 +863,22 @@
     {
       "added_at": "2025-10-16 13:00:01",
       "album": {
+        "name": "Who Are They?",
+        "url": "https://open.spotify.com/album/12PEHRDDMkmP12U79JDaCM"
+      },
+      "artists": [
+        {
+          "name": "Hedonics",
+          "url": "https://open.spotify.com/artist/24rnH82g3EdeLwIl9BBGvS"
+        }
+      ],
+      "duration_ms": 294339,
+      "name": "Who Are They?",
+      "url": "https://open.spotify.com/track/49981XZ6QqcqRJ1LDQWDB2"
+    },
+    {
+      "added_at": "2025-10-16 13:00:01",
+      "album": {
         "name": "Badder",
         "url": "https://open.spotify.com/album/4xq8NcQXxBMezVM937XYHo"
       },
@@ -915,18 +899,34 @@
     {
       "added_at": "2025-10-16 13:00:01",
       "album": {
-        "name": "Who Are They?",
-        "url": "https://open.spotify.com/album/12PEHRDDMkmP12U79JDaCM"
+        "name": "Cascade",
+        "url": "https://open.spotify.com/album/4IYnAmZ8GvmNFF2ZxxKT8L"
       },
       "artists": [
         {
-          "name": "Hedonics",
-          "url": "https://open.spotify.com/artist/24rnH82g3EdeLwIl9BBGvS"
+          "name": "Floating Points",
+          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
         }
       ],
-      "duration_ms": 294339,
-      "name": "Who Are They?",
-      "url": "https://open.spotify.com/track/49981XZ6QqcqRJ1LDQWDB2"
+      "duration_ms": 286274,
+      "name": "Birth4000",
+      "url": "https://open.spotify.com/track/658gtQhSGDuPtIlpCSqNek"
+    },
+    {
+      "added_at": "2025-10-16 13:00:01",
+      "album": {
+        "name": "Wicked Rhythm EP",
+        "url": "https://open.spotify.com/album/6MRN1oX33WDwUf9fJGMxNj"
+      },
+      "artists": [
+        {
+          "name": "Sekta",
+          "url": "https://open.spotify.com/artist/06PMrOCpEXRYONKv8KlLXD"
+        }
+      ],
+      "duration_ms": 173801,
+      "name": "Wicked Sound",
+      "url": "https://open.spotify.com/track/6vITRyQ93GruFeNnR6OQ1U"
     }
   ],
   "unique_name": "Portal",

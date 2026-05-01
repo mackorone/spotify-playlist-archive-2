@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Fred De Palma, Anitta e Emis Killa  sulla cover della playlist pi\u00f9 grande in Italia \ud83d\udd25",
+  "description": "Madame e Marra sulla cover della playlist pi\u00f9 grande in Italia \ud83d\udd25",
   "name": "Hot Hits Italia",
   "tracks": [
     {
@@ -838,7 +838,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 199032,
       "name": "back to friends",
       "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
@@ -5099,6 +5099,24 @@
     },
     {
       "album": {
+        "name": "QUESTA INSENSATA VOGLIA DI TE",
+        "url": "https://open.spotify.com/album/6v8Dh5jr3ykfLoBPvZKrmj"
+      },
+      "artists": [
+        {
+          "name": "Ultimo",
+          "url": "https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208626,
+      "name": "QUESTA INSENSATA VOGLIA DI TE",
+      "url": "https://open.spotify.com/track/3M5e1yWYMKQPE0IUePwdBt"
+    },
+    {
+      "album": {
         "name": "QUI CON ME",
         "url": "https://open.spotify.com/album/4Uj5BnPpLHuF7VOaN71fr5"
       },
@@ -6282,6 +6300,14 @@
         {
           "name": "Sayf",
           "url": "https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB"
+        },
+        {
+          "name": "Dibla",
+          "url": "https://open.spotify.com/artist/01XCyobLTxOrswogL7YNIu"
+        },
+        {
+          "name": "Jiz",
+          "url": "https://open.spotify.com/artist/38CThoTDmXugNnfonW466d"
         }
       ],
       "date_added": "2026-02-25",

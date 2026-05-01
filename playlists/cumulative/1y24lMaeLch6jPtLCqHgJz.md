@@ -4,7 +4,7 @@
 
 > best festival music \- summer festival \- best festivals \- festival summer \- mainstage music \- tomorrowland festival \- awakenings festival \- zomer festivals \- festival vibes
 
-466 songs - 23 hr 26 min
+467 songs - 23 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -366,6 +366,7 @@
 | [Serenity](https://open.spotify.com/track/0SK8K3M1UCiU2wYHjcgEVA) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [Serenity](https://open.spotify.com/album/42LvHKQwNCugCjXFiEmlP4) | 3:39 | 2024-03-21 | 2024-10-23 |
 | [Set You Free](https://open.spotify.com/track/6fnUzzyNuW2oiOMifSXy53) | [Achilles](https://open.spotify.com/artist/1BgLi10FdtjQtMigV9Ddka), [MC Stretch](https://open.spotify.com/artist/6oIpax63yT9ajyekkcqv0L) | [Set You Free](https://open.spotify.com/album/0xSwrfdhoiHGUi9JTV2Cq8) | 3:01 | 2023-09-07 | 2024-09-26 |
 | [Setting Like The Sun](https://open.spotify.com/track/4NrQGc4bfqtuGphg1IC3k6) | [Leo Teran](https://open.spotify.com/artist/6mlMi2DC8c3GFdkL0vhIJz), [Robbie Rosen](https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM) | [Revealed Recordings presents Miami Sampler 2022](https://open.spotify.com/album/4hErAjGzfUodxqKgaxFkhi) | 3:09 | 2022-07-29 | 2023-09-09 |
+| [Shake That](https://open.spotify.com/track/6PLgcs3fPY83Nr8Nt92DLe) | [Henry Fong](https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH), [Fahjah](https://open.spotify.com/artist/7LjoOGD9rMWkR8clGUu2Id) | [Shake That](https://open.spotify.com/album/2074ucy9yG8d61p5iDlcIU) | 2:07 | 2026-04-30 |  |
 | [Shine](https://open.spotify.com/track/3UU5fQfVKlGBXaL4EVvdHr) | [NORII](https://open.spotify.com/artist/4I1nNVymsW8VCQpkkAiqn1), [dejinosuke](https://open.spotify.com/artist/3213sUe3B0Xpj9LbGFBB6P) | [Shine](https://open.spotify.com/album/6lNHtsEcVQlO6ZmSGW2xSj) | 3:14 | 2023-01-12 | 2023-12-09 |
 | [Shot In The Dark](https://open.spotify.com/track/3guu1NVq5cglm8yzIbUqAp) | [Castor & Pollux](https://open.spotify.com/artist/6fHUILCpBvfSHB48AEciPG), [Over Easy](https://open.spotify.com/artist/3T9HpHdBgLU9wcB1LUT0U9), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Shot In The Dark](https://open.spotify.com/album/7equroWORPg8TqJCFAM4so) | 3:20 | 2023-10-26 | 2025-02-01 |
 | [Sitting Down Here](https://open.spotify.com/track/1yjwPwIBoJJfBCPfeOwyBK) | [AXMO](https://open.spotify.com/artist/5QWt56OIzFSPRpD7VeRkbc) | [Sitting Down Here](https://open.spotify.com/album/667Bjun11jQGE0PdYbPSDZ) | 2:13 | 2024-08-16 | 2024-10-05 |

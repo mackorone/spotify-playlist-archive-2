@@ -2,9 +2,9 @@
 
 ### [rap dk](https://open.spotify.com/playlist/37i9dQZF1DXdhDukKQ88Cc)
 
-> 🔥 den nyeste rap i dk 🔥 cover: GUSTO
+> 🔥 den nyeste rap i dk 🔥 cover: Artigeardit
 
-530 songs - 22 hr 37 min
+532 songs - 22 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [BLING BLAW](https://open.spotify.com/track/11uBjAczlKEf00u19iS1ZN) | [Larry](https://open.spotify.com/artist/2ws8pkPraOgD2gzMM6hUsh) | [BLING BLAW](https://open.spotify.com/album/35oZ325EhPKXnVmv8AOfZq) | 2:08 | 2025-11-13 | 2026-03-06 |
 | [Bling Blow](https://open.spotify.com/track/7vvPtbWQ6cna3R9OXspTdG) | [wicky](https://open.spotify.com/artist/79ky6ZBdwtfcMNf2LqRzvP) | [Bling Blow](https://open.spotify.com/album/20E3eDgNBD57mnDQOkDhog) | 2:26 | 2025-01-09 | 2025-03-14 |
 | [Blomstre](https://open.spotify.com/track/5FtMd8nPM4ZYcpB9X5k6Bm) | [Milbo](https://open.spotify.com/artist/7hdXOb76rDsDAe3ZdDstT3) | [Blomstre](https://open.spotify.com/album/5obACcDnMly85XtfJqyt14) | 2:17 | 2025-07-17 | 2025-08-01 |
+| [Blåtone Freestyle](https://open.spotify.com/track/7LA6r6CFVaIJ0fuSpFCQ2j) | [Anton Westerlin](https://open.spotify.com/artist/5NYUb39ntjgN7cRtN4y25T), [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp) | [Bag Gardinerne S1+S2](https://open.spotify.com/album/5QIuBky3csmGXvocvp0Q0R) | 1:06 | 2026-04-30 |  |
 | [BOBBY WORLD](https://open.spotify.com/track/6lHbKNAZzgZo7hW0t7euw1) | [BobbyFRL](https://open.spotify.com/artist/1hdtK0dS0TRkuqfXH7GG7B) | [BOBBY WORLD](https://open.spotify.com/album/250Uaf0OHO0r50brY2ArJD) | 3:38 | 2025-12-04 | 2026-01-02 |
 | [Bobler](https://open.spotify.com/track/6zoMh03Bp5aAJhnb46ej03) | [PIND](https://open.spotify.com/artist/2feslzBLWgoLAT5PfH2V9q) | [Menneskelige Tendenser](https://open.spotify.com/album/7wb25FsDjGO0sL1BTNqVHd) | 3:16 | 2025-11-13 | 2026-01-23 |
 | [Bombay \(feat\. Belly\)](https://open.spotify.com/track/5XfLvZjDEwgOjpLNKS0Nv0) | [PAY](https://open.spotify.com/artist/3WreFZLJqFGK3VJbxYewaU), [Belly](https://open.spotify.com/artist/09Tr5rMM8oP3lN24JOnBW9) | [Bombay \(feat\. Belly\)](https://open.spotify.com/album/75anG1EjD6Ui4MV3wY1YXb) | 2:16 | 2024-07-11 | 2024-09-13 |
@@ -247,7 +248,7 @@
 | [HVA KA DE](https://open.spotify.com/track/0MAfswMT0Ait4OlVNAuF9e) | [ATYPISK](https://open.spotify.com/artist/3L1jDbMK9J4Rd6XVv0KDjS) | [HVA KA DE](https://open.spotify.com/album/0BlXLPofQ4KfoL8DeN6X06) | 2:24 | 2024-10-31 | 2024-11-08 |
 | [hva status](https://open.spotify.com/track/4uD38j8IHpg5g8LFOlV1XV) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [nu hvor vi er her](https://open.spotify.com/album/4V23js9gaPVRSmhcSSb0lc) | 2:57 | 2023-09-21 | 2024-02-23 |
 | [Hva' Chancen](https://open.spotify.com/track/6ZCU8onvUZgBl11AX92Pq6) | [Kundo](https://open.spotify.com/artist/2GGL93jyTZ4X7uidHSJhIr), [Thor Farlov](https://open.spotify.com/artist/0YF2oUwHHPo0VTGuqgYG0X) | [Hva' Chancen](https://open.spotify.com/album/0eTnh0LyOkN3FMbZRqKDyR) | 3:15 | 2025-09-11 | 2025-10-24 |
-| [Hvad Forventer De Freestyle](https://open.spotify.com/track/6RmGU9ICkzy6iE9gZf48yL) | [Anton Westerlin](https://open.spotify.com/artist/5NYUb39ntjgN7cRtN4y25T), [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [Hvad Forventer De Freestyle](https://open.spotify.com/album/4QAoPfSuW02X1wgDOqbkgq) | 2:12 | 2025-07-17 | 2025-08-29 |
+| [Hvad Forventer De Freestyle](https://open.spotify.com/track/6RmGU9ICkzy6iE9gZf48yL) | [Anton Westerlin](https://open.spotify.com/artist/5NYUb39ntjgN7cRtN4y25T), [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [Hvad Forventer De Freestyle](https://open.spotify.com/album/4QAoPfSuW02X1wgDOqbkgq) | 2:12 | 2025-07-17 |  |
 | [Hvad Vi Vil](https://open.spotify.com/track/0dH7vsh51sKniPT5H2kSCW) | [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD) | [Hvad Vi Vil](https://open.spotify.com/album/5GFIXuuthiNh3WbmuUoomk) | 3:31 | 2024-02-29 | 2024-05-14 |
 | [Hvem Har Stedet](https://open.spotify.com/track/7gA1XMv2BnRU6h1hjj5iUA) | [Kundo](https://open.spotify.com/artist/2GGL93jyTZ4X7uidHSJhIr) | [Hvem Har Stedet](https://open.spotify.com/album/6QxcuBWX5mHp4OiKp5g4xU) | 2:01 | 2025-03-27 | 2025-05-30 |
 | [Hver Dag](https://open.spotify.com/track/2oaR5QU69kcdbeQvJV3yLd) | [Kundo](https://open.spotify.com/artist/2GGL93jyTZ4X7uidHSJhIr) | [Hver Dag](https://open.spotify.com/album/5Dicwkd8fam4tqR6nCGyEL) | 2:32 | 2026-03-12 |  |
@@ -389,6 +390,7 @@
 | [Planet](https://open.spotify.com/track/2z8ren6BAtcW6VWKjy0aTu) | [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv), [Omar](https://open.spotify.com/artist/1GLzVjVa7bLnAcD1At98j3) | [Planet](https://open.spotify.com/album/0irkTGOgtcESdDAqcDmZdi) | 3:53 | 2026-03-26 |  |
 | [Pogba \(feat\. Gilli\)](https://open.spotify.com/track/5ORpbaU6L7qdSYoQg62JLi) | [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Guld & Grønne](https://open.spotify.com/album/0yPVI2sKoL49fCRCMgGhXT) | 2:47 | 2025-06-19 | 2026-04-10 |
 | [Poison Ivy](https://open.spotify.com/track/03dQMcWzjly8qC5Yd5hblh) | [Larry](https://open.spotify.com/artist/2ws8pkPraOgD2gzMM6hUsh) | [Poison Ivy](https://open.spotify.com/album/1ZDIBDL88klUFwKthupCm5) | 2:21 | 2024-03-07 | 2024-05-14 |
+| [Prime Khalifa](https://open.spotify.com/track/3nSLkNB9Ycru0hvnLvF041) | [AWADA](https://open.spotify.com/artist/08Mi8yWtTfL2aWlZIG135P), [Mikkel](https://open.spotify.com/artist/5lN5XWpbyLnauz0KN4Nsrg) | [Prime Khalifa](https://open.spotify.com/album/60wVW9typL3fLIXiuQYNCr) | 2:09 | 2026-04-30 |  |
 | [Problemer Med Staten](https://open.spotify.com/track/1fLjOQjzHITpaRkVyouKGA) | [Mowgli](https://open.spotify.com/artist/1dMKCVDiKj96gvK3Agana5) | [Problemer Med Staten](https://open.spotify.com/album/7CgCHtxQ8L7bfst8Y43tAM) | 2:03 | 2025-09-25 | 2025-10-10 |
 | [Præsident](https://open.spotify.com/track/6edMFU0G49Lhr1QKhAjXcm) | [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv) | [Præsident](https://open.spotify.com/album/5dM1hfCHPDlvvnYTE5iF66) | 2:15 | 2024-08-29 | 2025-02-28 |
 | [Psykosebarn](https://open.spotify.com/track/7ar1cv0qnLwodfUOIUx2Vh) | [Baloosh](https://open.spotify.com/artist/5IpqfN8Pqjy89nj1IfuOXC) | [Psykosebarn](https://open.spotify.com/album/1bVTGCNXPtNVjznVGYpCGx) | 2:10 | 2023-09-21 | 2024-09-13 |

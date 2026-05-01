@@ -1,6 +1,6 @@
 {
   "description": "Eletr\u00f4nico energ\u00e9tico para acompanhar a sua malha\u00e7\u00e3o di\u00e1ria. ",
-  "num_followers": 350323,
+  "num_followers": 350386,
   "original_name": "Treino Eletr\u00f4nico",
   "owner": {
     "name": "Spotify",
@@ -535,26 +535,6 @@
     {
       "added_at": "2026-04-17 16:22:13",
       "album": {
-        "name": "Put That Banger On Next",
-        "url": "https://open.spotify.com/album/1MNMB9fCDWKHW5bA4iSgCy"
-      },
-      "artists": [
-        {
-          "name": "Ahadadream",
-          "url": "https://open.spotify.com/artist/3SvsaUFZZNgVZYKrcFgzWW"
-        },
-        {
-          "name": "Capo Lee",
-          "url": "https://open.spotify.com/artist/4KKnsk3tGkfwChmUmmJ0kh"
-        }
-      ],
-      "duration_ms": 199384,
-      "name": "Put That Banger On Next",
-      "url": "https://open.spotify.com/track/3Telt6qNs0A3XaUTfG3p1e"
-    },
-    {
-      "added_at": "2026-04-17 16:22:13",
-      "album": {
         "name": "You & Me (Vintage Culture Remix)",
         "url": "https://open.spotify.com/album/1FOMConpwgbEszaYCh8O3y"
       },
@@ -571,6 +551,26 @@
       "duration_ms": 234461,
       "name": "You & Me - Vintage Culture Remix",
       "url": "https://open.spotify.com/track/4zedwYjb2LIdPBmfOeyXW5"
+    },
+    {
+      "added_at": "2026-04-17 16:22:13",
+      "album": {
+        "name": "Put That Banger On Next",
+        "url": "https://open.spotify.com/album/1MNMB9fCDWKHW5bA4iSgCy"
+      },
+      "artists": [
+        {
+          "name": "Ahadadream",
+          "url": "https://open.spotify.com/artist/3SvsaUFZZNgVZYKrcFgzWW"
+        },
+        {
+          "name": "Capo Lee",
+          "url": "https://open.spotify.com/artist/4KKnsk3tGkfwChmUmmJ0kh"
+        }
+      ],
+      "duration_ms": 199384,
+      "name": "Put That Banger On Next",
+      "url": "https://open.spotify.com/track/3Telt6qNs0A3XaUTfG3p1e"
     },
     {
       "added_at": "2026-04-17 16:22:13",
@@ -791,6 +791,22 @@
     {
       "added_at": "2026-04-17 16:22:13",
       "album": {
+        "name": "Night Taking Over",
+        "url": "https://open.spotify.com/album/3ktfqOPwFbxIJnTR8pkcDc"
+      },
+      "artists": [
+        {
+          "name": "CERES",
+          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
+        }
+      ],
+      "duration_ms": 128859,
+      "name": "Night Taking Over",
+      "url": "https://open.spotify.com/track/6dVJQ4bMyrtm1D7BHy5TU8"
+    },
+    {
+      "added_at": "2026-04-17 16:22:13",
+      "album": {
         "name": "Tigra & Bunny",
         "url": "https://open.spotify.com/album/7wQu3DEsumo94QDNuFnOkV"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 194655,
       "name": "New Memories",
       "url": "https://open.spotify.com/track/7C9SonafFzEtoheAQDQ2UW"
-    },
-    {
-      "added_at": "2026-04-17 16:22:13",
-      "album": {
-        "name": "Night Taking Over",
-        "url": "https://open.spotify.com/album/3ktfqOPwFbxIJnTR8pkcDc"
-      },
-      "artists": [
-        {
-          "name": "CERES",
-          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
-        }
-      ],
-      "duration_ms": 128859,
-      "name": "Night Taking Over",
-      "url": "https://open.spotify.com/track/6dVJQ4bMyrtm1D7BHy5TU8"
     },
     {
       "added_at": "2026-04-17 16:22:13",

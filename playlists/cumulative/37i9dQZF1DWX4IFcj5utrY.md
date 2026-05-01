@@ -2,9 +2,9 @@
 
 ### [mint Africa](https://open.spotify.com/playlist/37i9dQZF1DWX4IFcj5utrY)
 
-> The best dance hits in Africa\. Cover: Darque
+> The best dance hits in Africa\. Cover: Goldmax
 
-1,471 songs - 5 day 10 hr 22 min
+1,472 songs - 5 day 10 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -764,7 +764,7 @@
 | [Lucid Dreams](https://open.spotify.com/track/2V77cJ2FlFluiW0ORaLpbk) | [THEMBA](https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC), [Khenya](https://open.spotify.com/artist/7BZQl4ZJ1aaxuMY55qpIi8), [ABEL](https://open.spotify.com/artist/2EsYY7ZHoWaQgPFwWgbyMe) | [Lucid Dreams](https://open.spotify.com/album/5QXFNxxmBVJlHRbkBRh7B9) | 3:36 | 2025-04-29 | 2025-05-23 |
 | [Lungehlule](https://open.spotify.com/track/7gIQvOz2XIqAczG90mfFjq) | [Santiago Garcia](https://open.spotify.com/artist/4HTu4h0bTZratn5pTBqRjS), [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs), [Nomvula SA](https://open.spotify.com/artist/6DPIZZxzcwWmBiTMmVYbyY) | [Lungehlule](https://open.spotify.com/album/3dQTkrulKVVL7cJuHcl3Tf) | 5:16 | 2022-08-05 | 2022-08-19 |
 | [Lutar \- Chronical Deep Clap Back](https://open.spotify.com/track/3O1VFIfue3HJskTTPUou7g) | [Hypaphonik](https://open.spotify.com/artist/6UL6IL0VVbVeCtvcemX7Io), [Kali Mija](https://open.spotify.com/artist/6hMmznEAGabh8UiGkQIuvP), [Offkey](https://open.spotify.com/artist/6ufQp4V8xUqJphvbke0j97) | [Lutar](https://open.spotify.com/album/5bKM4dE8NKTYCg6bvWTYAl) | 7:22 | 2022-01-20 | 2022-02-11 |
-| [Ma Tnsani \(Yalla Habibi\)](https://open.spotify.com/track/01WFjqzUwrD4nfSQsHMVNm) | [Vanco](https://open.spotify.com/artist/2KShewLkb92FKEZ6N4cVP9), [AYA](https://open.spotify.com/artist/0HWD0Gp5nnU5zcDAc03f9q) | [Ma Tnsani \(Yalla Habibi\)](https://open.spotify.com/album/6MGyF6TkUOAW3g3ygaUn1n) | 3:40 | 2025-04-03 |  |
+| [Ma Tnsani \(Yalla Habibi\)](https://open.spotify.com/track/01WFjqzUwrD4nfSQsHMVNm) | [Vanco](https://open.spotify.com/artist/2KShewLkb92FKEZ6N4cVP9), [AYA](https://open.spotify.com/artist/0HWD0Gp5nnU5zcDAc03f9q) | [Ma Tnsani \(Yalla Habibi\)](https://open.spotify.com/album/6MGyF6TkUOAW3g3ygaUn1n) | 3:40 | 2025-04-03 | 2026-05-01 |
 | [Ma Tnsani \(Yalla Habibi\) \- Tiësto Remix](https://open.spotify.com/track/4VUEpBFCSO1Ro4J50O6hyZ) | [Vanco](https://open.spotify.com/artist/2KShewLkb92FKEZ6N4cVP9), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [AYA](https://open.spotify.com/artist/0HWD0Gp5nnU5zcDAc03f9q) | [Ma Tnsani \(Yalla Habibi\) \[Tiësto Remix\]](https://open.spotify.com/album/4Z6gMBluauoPBxIpXgXEYl) | 2:38 | 2025-09-12 | 2026-01-15 |
 | [Mabebuza](https://open.spotify.com/track/3HPgwat1jJCtrbtDZYMUVL) | [Maline Aura](https://open.spotify.com/artist/1LcX3ZFNBeGKxkpfCIr4cP), [Drega](https://open.spotify.com/artist/1Gj6W2RfGpl6ebJGle93VG) | [Mabebuza](https://open.spotify.com/album/5MwJllAjpaGazBZfP8CtCd) | 5:02 | 2022-09-22 | 2022-11-18 |
 | [Mabele](https://open.spotify.com/track/4YupfisjrO7n5pz2mk55pS) | [Tswex Malabola](https://open.spotify.com/artist/6cTBXiyGb4MACMv1WjgLKs) | [The Border Lands](https://open.spotify.com/album/53fLCJiZxbwAV9WYfEYXZZ) | 6:40 | 2021-12-29 | 2022-01-21 |
@@ -1276,6 +1276,7 @@
 | [Tonight](https://open.spotify.com/track/70rIvrzenju3C2A53M3cto) | [Ghost](https://open.spotify.com/artist/6tNHdlHpPDgZQp6fa3kbM8) | [Tonight](https://open.spotify.com/album/43Ivx6bjF4vKmjiuqMIb9a) | 3:16 | 2022-07-07 | 2022-07-29 |
 | [Too Much Information \- Laolu Remix \(Edit\)](https://open.spotify.com/track/1mHdnrcPMlhwFqMrsS9Kbx) | [Dele Sosimi Afrobeat Orchestra](https://open.spotify.com/artist/6QqfKF0FAhEq6AIKLpDkSb), [Laolu](https://open.spotify.com/artist/53PSeUFq8tMZc0zdd1oUTG) | [Too Much Information \(Remixes\)](https://open.spotify.com/album/4VAJVub0Ft9gCJmODhwThV) | 8:32 | 2025-03-13 | 2025-03-22 |
 | [Touch \- Extended Mix](https://open.spotify.com/track/3itypsvYnEdQpIP77edzsh) | [Milk & Sugar](https://open.spotify.com/artist/159cwGtgCzNpyHWY6tzihH), [Lazarusman](https://open.spotify.com/artist/4Sh3sUk5Pq69gqPHT89aCc) | [Touch](https://open.spotify.com/album/0OLTA9mEZfUrvsEoiZZ0xV) | 6:13 | 2025-02-14 | 2025-02-28 |
+| [Track 3](https://open.spotify.com/track/5Uv914VDC2yiPp0n2JBfX8) | [Goldmax](https://open.spotify.com/artist/3yWkz47Z8kE6z1xW6rjkAl) | [Ogesi](https://open.spotify.com/album/4nzUvHqFaxqlJhxqOvXQJN) | 0:00 | 2026-04-30 |  |
 | [Traffic](https://open.spotify.com/track/4Zsj1GkqCnMhDk8ARB6pju) | [Cinimin](https://open.spotify.com/artist/7x5rKYGYaTOSjr5B3EBAkC) | [Traffic](https://open.spotify.com/album/4eJvBTfzGNVz6LFCYgUTHf) | 2:59 | 2022-09-22 | 2022-10-14 |
 | [Train To Work](https://open.spotify.com/track/1pNyMl9Tj4uQgyW21yY95D) | [Dr Feel](https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq) | [Serengeti](https://open.spotify.com/album/4dACuW8u8dZA8k5U5ZFsOh) | 7:00 | 2022-03-24 | 2022-06-18 |
 | [Tribal Drums](https://open.spotify.com/track/0IVgGcimUhHhQroMmy78Zn) | [Dr Feel](https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq) | [Tribal Drums](https://open.spotify.com/album/6ZWXbOy4XasSJS7RFAz68n) | 7:14 | 2022-07-07 | 2022-07-15 |

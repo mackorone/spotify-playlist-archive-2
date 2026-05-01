@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WbnZpHWMaI.md) - [plain]
 
 > Celebrating women at the center of innovation in electronic music\. Featuring Ninajirachi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,094 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,104 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WbnZpHWMaI.md) - [plain]
 | 4 | [Baewatch](https://open.spotify.com/track/0WQanxyDKJltTrsp29co9T) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Piratebae](https://open.spotify.com/album/3zvIXXx4TxO7px4sUq3IrA) | 3:27 |
 | 5 | [Spirit Higher](https://open.spotify.com/track/5V1DrLET6vnoeerGE6ON25) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [EMJIE](https://open.spotify.com/artist/3RqdVnPEMwpv4EVX5J2lzh) | [Spirit Higher](https://open.spotify.com/album/5FidC368bZdJWTqRomYvy9) | 3:36 |
 | 6 | [Patchwork](https://open.spotify.com/track/3BxWLwl3xcFAN0Hk5X13JD) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [Paige Cavell](https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24) | [Patchwork](https://open.spotify.com/album/1jdPpk0cKJ4iQvsZfEXstU) | 3:07 |
-| 7 | [That Girl \(feat\. Julz Romwell\)](https://open.spotify.com/track/26NIdvq84Xr466gKTnwUX1) | [Billie\-Jean Blackett](https://open.spotify.com/artist/7DWh212YUZY1gdBsXDgMBe), [Julz Romwell](https://open.spotify.com/artist/2sNHabI4zdxVX5BDVNKpEF) | [That Girl \(feat\. Julz Romwell\)](https://open.spotify.com/album/0ftJeDt2MZ9P7HmEBm1Lyy) | 5:24 |
+| 7 | [That Girl \(feat\. Julz Romell\)](https://open.spotify.com/track/26NIdvq84Xr466gKTnwUX1) | [Billie\-Jean Blackett](https://open.spotify.com/artist/7DWh212YUZY1gdBsXDgMBe), [Julz Romell](https://open.spotify.com/artist/2JzjEnrJUhRngV0Zt35lX8) | [That Girl \(feat\. Julz Romell\)](https://open.spotify.com/album/0ftJeDt2MZ9P7HmEBm1Lyy) | 5:24 |
 | 8 | [Hooked On You](https://open.spotify.com/track/2GllUWKwoRXxL1Y3zMTLJ9) | [BETH](https://open.spotify.com/artist/3CoXOHEx4is85lgENqoO17) | [Hooked On You](https://open.spotify.com/album/4uSJXmyvOwQHEEb1C2pwHu) | 3:02 |
 | 9 | [Shake Down \- Regrette Rien Mix](https://open.spotify.com/track/70tSdH7QeLCoiEsq4gzxAk) | [Bella Boo](https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C), [KURT.](https://open.spotify.com/artist/3fuEM4uMji5Jt4aLtabj3F) | [Shake Down \(Regrette Rien Mix\)](https://open.spotify.com/album/1kFOuM0oYv7FgZwUtvazeS) | 3:39 |
 | 10 | [The Peace](https://open.spotify.com/track/6wm3t4VpTxSFfOUgTMlHZM) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [U](https://open.spotify.com/album/1qSS0T6Ffrb3rFVpizzOuk) | 2:49 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Les hits dancehall, shatta & bouyon du moment. Photo : N'Ken & Stony",
+  "description": "Les hits dancehall, shatta & bouyon du moment. Photo : Miimii KDS",
   "name": "Dancehall Station",
   "tracks": [
     {
@@ -2477,6 +2477,36 @@
     },
     {
       "album": {
+        "name": "Body Tuff",
+        "url": "https://open.spotify.com/album/2dp6mQ5x07scyIwS4nvlJy"
+      },
+      "artists": [
+        {
+          "name": "Puri",
+          "url": "https://open.spotify.com/artist/3ADyFy1orEwODaiHmRRMQp"
+        },
+        {
+          "name": "Tribal Kush",
+          "url": "https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD"
+        },
+        {
+          "name": "Fab!o",
+          "url": "https://open.spotify.com/artist/1zStD8XLqTBq6I4HvQVVFO"
+        },
+        {
+          "name": "M\u00f3zes",
+          "url": "https://open.spotify.com/artist/46FJ6ETl4UlCBVsHOEuFbR"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140571,
+      "name": "Body Tuff",
+      "url": "https://open.spotify.com/track/5lLEyQO1zpGLDbDbiKX7uP"
+    },
+    {
+      "album": {
         "name": "Bodycount",
         "url": "https://open.spotify.com/album/1baXYkA27qJSVC3F90qw6d"
       },
@@ -4520,7 +4550,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 173809,
       "name": "Criminal",
       "url": "https://open.spotify.com/track/5HJDoVd8mrxw8TzGozCJKN"
@@ -5044,6 +5074,24 @@
       "duration_ms": 137575,
       "name": "Demon Time",
       "url": "https://open.spotify.com/track/23IuFgCndsodlvirH5HEfJ"
+    },
+    {
+      "album": {
+        "name": "Den 2X / Timinik",
+        "url": "https://open.spotify.com/album/2B1M5AxcxtxcEckY89ehS6"
+      },
+      "artists": [
+        {
+          "name": "Denden",
+          "url": "https://open.spotify.com/artist/66YKNnSIqZwFDjrH0i9EAY"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131014,
+      "name": "Den 2X",
+      "url": "https://open.spotify.com/track/0uyXRciFcBD1DEv80grzqQ"
     },
     {
       "album": {
@@ -5640,7 +5688,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 202886,
       "name": "D\u00e9test\u00e9w",
       "url": "https://open.spotify.com/track/0HCKkHZzSQT5hqf1NficJU"
@@ -6424,7 +6472,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 88800,
       "name": "For Sure (Wyfl Riddim)",
       "url": "https://open.spotify.com/track/7eI0Srimak6rLHyTXaf985"
@@ -6998,7 +7046,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 108273,
       "name": "Get Busy",
       "url": "https://open.spotify.com/track/7Ioc66iWYGZPKcbFa3Pkto"
@@ -7457,6 +7505,32 @@
     },
     {
       "album": {
+        "name": "Cout Scrub Riddim",
+        "url": "https://open.spotify.com/album/0Ba3WtbAHc61WIrBLApQsg"
+      },
+      "artists": [
+        {
+          "name": "Natoxie",
+          "url": "https://open.spotify.com/artist/1Wqloe5S1i29Ff7YiWg0x5"
+        },
+        {
+          "name": "Kenjox",
+          "url": "https://open.spotify.com/artist/4bvZHBUa5gktSaxLRKAWaX"
+        },
+        {
+          "name": "Twinsizz",
+          "url": "https://open.spotify.com/artist/01ySoU3GMVhbDvMLfKYQ24"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139654,
+      "name": "Gr\u00e9goire",
+      "url": "https://open.spotify.com/track/5e0KBYJqbNWaFmEzs6zvLV"
+    },
+    {
+      "album": {
         "name": "Breakfast Titony",
         "url": "https://open.spotify.com/album/3UDW06GEOGJy676HBKQklU"
       },
@@ -7490,7 +7564,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 170400,
       "name": "Gunshot",
       "url": "https://open.spotify.com/track/4mD1XPHleoO8bG3rJk0Zjt"
@@ -7512,6 +7586,32 @@
       "duration_ms": 146468,
       "name": "GVNG - Gang",
       "url": "https://open.spotify.com/track/1kc8YZsa1BQ2OgrAKMsPfS"
+    },
+    {
+      "album": {
+        "name": "Gwan So",
+        "url": "https://open.spotify.com/album/0JUTmX8JSjLz3wbSrZe688"
+      },
+      "artists": [
+        {
+          "name": "Blaiz Fayah",
+          "url": "https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7"
+        },
+        {
+          "name": "Limitlezz",
+          "url": "https://open.spotify.com/artist/4ufyMlueg4tz0JcKNQFHCz"
+        },
+        {
+          "name": "Kybba",
+          "url": "https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138520,
+      "name": "Gwan So",
+      "url": "https://open.spotify.com/track/6usphpoSCVuYUVSMq8sHkt"
     },
     {
       "album": {
@@ -9167,6 +9267,32 @@
     },
     {
       "album": {
+        "name": "KALMAN",
+        "url": "https://open.spotify.com/album/008qY4XLBrw4o0bX04JeY8"
+      },
+      "artists": [
+        {
+          "name": "Vj Lou",
+          "url": "https://open.spotify.com/artist/4UVzZ2QgBMOIRqygmERMzL"
+        },
+        {
+          "name": "Shaydee's",
+          "url": "https://open.spotify.com/artist/7pRuKj6sGMBmDmmem653fg"
+        },
+        {
+          "name": "N'Ken",
+          "url": "https://open.spotify.com/artist/7CiDghduh4uqMn0zSkPx1p"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143054,
+      "name": "KALMAN",
+      "url": "https://open.spotify.com/track/55FdCoVTDOcWQ9VoK5HC4Z"
+    },
+    {
+      "album": {
         "name": "Kant\u00e9",
         "url": "https://open.spotify.com/album/57KYdGY8AjOqHx88nERWeR"
       },
@@ -10677,6 +10803,32 @@
     },
     {
       "album": {
+        "name": "Magnificent",
+        "url": "https://open.spotify.com/album/6jn4KFGPmmqubzuZ4BgE7r"
+      },
+      "artists": [
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        },
+        {
+          "name": "Supa Hype",
+          "url": "https://open.spotify.com/artist/7A3tlZNDIzuzFyOQdF0073"
+        },
+        {
+          "name": "Ram Jam",
+          "url": "https://open.spotify.com/artist/0pa7yKN25lWQtRiTKST8Mx"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170097,
+      "name": "Magnificent",
+      "url": "https://open.spotify.com/track/3Ps1SFOYOY4XzIc8de4EOc"
+    },
+    {
+      "album": {
         "name": "MAITRESSE EN DETRESSE",
         "url": "https://open.spotify.com/album/61LzDlCg7gvXxDSWiVJldS"
       },
@@ -12012,7 +12164,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 144112,
       "name": "Nervous",
       "url": "https://open.spotify.com/track/4eMJaUwMdpbl0mmW8wju9C"
@@ -12556,6 +12708,28 @@
       "duration_ms": 156000,
       "name": "NUMBA 1",
       "url": "https://open.spotify.com/track/37cfWnwQVm7vES4DrQOz9n"
+    },
+    {
+      "album": {
+        "name": "Ny\u00e8t",
+        "url": "https://open.spotify.com/album/72hoQ4b9ngGHTRLkILsf2l"
+      },
+      "artists": [
+        {
+          "name": "Rachelle Allison",
+          "url": "https://open.spotify.com/artist/5M0cj31cGkk0sbevwtSG52"
+        },
+        {
+          "name": "Aknose",
+          "url": "https://open.spotify.com/artist/1Lqc2Oqyciyq6uvTSNHlwg"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163251,
+      "name": "Ny\u00e8t",
+      "url": "https://open.spotify.com/track/7iZz7E7h3FkstwPRbaOI7l"
     },
     {
       "album": {
@@ -13652,7 +13826,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 131967,
       "name": "PING PONG",
       "url": "https://open.spotify.com/track/1MSmSDRkcOWrVZHT0cr2WT"
@@ -17296,7 +17470,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 156000,
       "name": "Tip",
       "url": "https://open.spotify.com/track/3Vmss3HuDLPmPi8mBpvgpY"
@@ -17720,6 +17894,24 @@
       "duration_ms": 155064,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/6ZSXbBz7FeFzxTKYCa18Rq"
+    },
+    {
+      "album": {
+        "name": "VALHALLA",
+        "url": "https://open.spotify.com/album/73dCbutyxgXwuu3IyOLLxn"
+      },
+      "artists": [
+        {
+          "name": "Yo Joshy",
+          "url": "https://open.spotify.com/artist/6nqbsvHdj0s0m3JVobStqm"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 7",
+      "url": "https://open.spotify.com/track/7o8YOKE4hL0jb9Cuqlbv8j"
     },
     {
       "album": {
@@ -18748,7 +18940,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 112000,
       "name": "Whine & Bubble",
       "url": "https://open.spotify.com/track/5OCDK1wy3hxC5SIWQMSG6u"
@@ -18936,6 +19128,28 @@
       "duration_ms": 113600,
       "name": "WOAW",
       "url": "https://open.spotify.com/track/3RYDmTmtYVR0M0YgtUJYN9"
+    },
+    {
+      "album": {
+        "name": "Wonm",
+        "url": "https://open.spotify.com/album/6ZN0MBoFA7XdDYJCnJpDZl"
+      },
+      "artists": [
+        {
+          "name": "Naamix",
+          "url": "https://open.spotify.com/artist/0mpw52i7RGRiSk9Ubh7oeG"
+        },
+        {
+          "name": "M4DI",
+          "url": "https://open.spotify.com/artist/7fZBlnr99oWjthmcyPFWFx"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128799,
+      "name": "Wonm",
+      "url": "https://open.spotify.com/track/5Sd2m4LEc7jo7HC9gCUkic"
     },
     {
       "album": {

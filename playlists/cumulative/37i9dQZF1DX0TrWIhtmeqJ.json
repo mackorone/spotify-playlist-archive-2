@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-10-28",
-  "description": "For the new generation of trendsetters coming through, we move. Cover: cikho",
+  "description": "For the new generation of trendsetters coming through, we move. Cover: IZCO",
   "name": "We Move",
   "tracks": [
     {
@@ -450,7 +450,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 140799,
       "name": "burnt",
       "url": "https://open.spotify.com/track/29feY2YJtQY6apgmDe7y7H"
@@ -1771,6 +1771,24 @@
     },
     {
       "album": {
+        "name": "Just A Man",
+        "url": "https://open.spotify.com/album/2YY0t01llll4deDIEPWc5A"
+      },
+      "artists": [
+        {
+          "name": "MOIO",
+          "url": "https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158882,
+      "name": "Just A Man",
+      "url": "https://open.spotify.com/track/0QsKXnj3R0vG9ldK4Y7dnm"
+    },
+    {
+      "album": {
         "name": "stone radio",
         "url": "https://open.spotify.com/album/3NI1FaapWxo9bLT20nsJOT"
       },
@@ -2160,6 +2178,24 @@
       "duration_ms": 178437,
       "name": "NVSTY",
       "url": "https://open.spotify.com/track/4JaLORR6H0fn5z8WWhUPvc"
+    },
+    {
+      "album": {
+        "name": "Oiii DJ",
+        "url": "https://open.spotify.com/album/2pAjAum20KgmBY3aCeTkII"
+      },
+      "artists": [
+        {
+          "name": "\u00a3MONZO",
+          "url": "https://open.spotify.com/artist/3cqU5Vi6bp8KZxwbJyZ6lv"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144857,
+      "name": "Oiii DJ",
+      "url": "https://open.spotify.com/track/4PnPLsW50W3AoX8gYf3e7i"
     },
     {
       "album": {
@@ -2554,7 +2590,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 118720,
       "name": "SHINIGAMI",
       "url": "https://open.spotify.com/track/4BpDKjq7lgHJs1PC69kpWh"
@@ -2692,6 +2728,24 @@
       "duration_ms": 178348,
       "name": "smbdy2u",
       "url": "https://open.spotify.com/track/2xTdxo49G9sWWH97zHE2bT"
+    },
+    {
+      "album": {
+        "name": "So LDN",
+        "url": "https://open.spotify.com/album/7v1RIDQubIyrZRm5nqNRaL"
+      },
+      "artists": [
+        {
+          "name": "Chy Cartier",
+          "url": "https://open.spotify.com/artist/4qxFzMJxrNzlv11J7pCY5q"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160416,
+      "name": "So LDN",
+      "url": "https://open.spotify.com/track/3fbvgXvMuGBY29RH3wvlt7"
     },
     {
       "album": {
@@ -3140,7 +3194,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 188480,
       "name": "The Instigator",
       "url": "https://open.spotify.com/track/06bKQmRJIh1WjuND2RxMku"
@@ -3158,7 +3212,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 123857,
       "name": "THE SURVEY - (JAY10! MIX)",
       "url": "https://open.spotify.com/track/5pVCiBlFLVoRdN8sGXw6RC"
@@ -3300,6 +3354,24 @@
       "duration_ms": 195325,
       "name": "Tough",
       "url": "https://open.spotify.com/track/5TmpaPaxP6DjvoGyets9sO"
+    },
+    {
+      "album": {
+        "name": "POWERSCROFT",
+        "url": "https://open.spotify.com/album/4vRMGZDyQrJfRxkIwlnPsR"
+      },
+      "artists": [
+        {
+          "name": "IZCO",
+          "url": "https://open.spotify.com/artist/4uqqEE1NaQBAa4wnDug9c1"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 5",
+      "url": "https://open.spotify.com/track/2nKlFEzbCrDTgHqledJn06"
     },
     {
       "album": {

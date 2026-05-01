@@ -45571,6 +45571,24 @@
     },
     {
       "album": {
+        "name": "Jezebel",
+        "url": "https://open.spotify.com/album/2wCruyJJvR1rEJcKYNhqgv"
+      },
+      "artists": [
+        {
+          "name": "Lithe",
+          "url": "https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118500,
+      "name": "Jezebel",
+      "url": "https://open.spotify.com/track/2ww5S3KQ6d73WAVbPXgCPC"
+    },
+    {
+      "album": {
         "name": "Job",
         "url": "https://open.spotify.com/album/6VVSZP5emclTDs5QLSGvnP"
       },

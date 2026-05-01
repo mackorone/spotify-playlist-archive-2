@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,800 likes - 99 songs - 6 hr 29 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,800 likes - 102 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,5 +107,8 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 97 | [Bendito Cordeiro](https://open.spotify.com/track/3H9TRT0NyJjJUL8WuiCveG) | [Sergio Sampaio](https://open.spotify.com/artist/7GpP0myxq1RPbCFNFefMuo) | [Bendito Cordeiro](https://open.spotify.com/album/4SarQR2GYrWQl7vcDLQysr) | 3:34 |
 | 98 | [Swamp Mother](https://open.spotify.com/track/5AMxT1InHsOVuaxW8qYaVF) | [Live Oak Sunburst](https://open.spotify.com/artist/4QHJTuyBl6eDWAikRZaAmB) | [Swamp Mother](https://open.spotify.com/album/7ncJaA6HNWg3GSFEa1abAc) | 3:42 |
 | 99 | [The Power of My Story \- Blues Rock Mix](https://open.spotify.com/track/3gQgx3NawULgk7MN09P7b8) | [In The Shadow](https://open.spotify.com/artist/6x6mfS5opin69p2aEGbJmT) | [A Devotional Worship Project V.1](https://open.spotify.com/album/1pebEPS01Uovvx5xVlKJ3E) | 3:32 |
+| 100 | [Juge Intérieur](https://open.spotify.com/track/0kaCY1PCDFVZ6X34ShqiM9) | [Slave To Sin](https://open.spotify.com/artist/7wj1eU7FmWZiBJqPziYtHl) | [Juge Intérieur](https://open.spotify.com/album/1vsDPffM48kqA5sUw9bOJm) | 3:18 |
+| 101 | [Chronicle](https://open.spotify.com/track/2biOIcSMHCulJrNV966WSO) | [Venerated By Frost](https://open.spotify.com/artist/7vjTD8pNHl35g6NvMakc0I) | [Chronicle](https://open.spotify.com/album/4AloOat16bPLmLO9jVzLnd) | 4:00 |
+| 102 | [Stay Back](https://open.spotify.com/track/02wm1989sxHOnZJK9IY0EU) | [Jenny Scara](https://open.spotify.com/artist/0F4yegE6Xa3vC2KvCoJTGw) | [I've Got a Story to Tell](https://open.spotify.com/album/5Ssz0Vi0rbAGXRkF4hhOoX) | 2:25 |
 
-Snapshot ID: `AAALNwB2GshzCE1vZfAGTxeB7Tw8vkJO`
+Snapshot ID: `AAALOuH8238TfUu8X24lHSI9RU0acyB9`

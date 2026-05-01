@@ -24,7 +24,7 @@
       ],
       "date_added": "2025-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 211393,
       "name": "2much - YCO Jay Remix",
       "url": "https://open.spotify.com/track/31c1ogOXzjQb0dVHly4UT4"
@@ -302,7 +302,7 @@
       ],
       "date_added": "2026-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 126858,
       "name": "balenci",
       "url": "https://open.spotify.com/track/14zwDWMLVDNOJV9HKbRBnD"
@@ -1819,6 +1819,24 @@
     },
     {
       "album": {
+        "name": "Therapeutic Deluxe (2nd Session)",
+        "url": "https://open.spotify.com/album/4RrFwR4RBdpchZbu34MwHn"
+      },
+      "artists": [
+        {
+          "name": "$t3PPA",
+          "url": "https://open.spotify.com/artist/3YkoJWMGUpspkflqRt8xUU"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104861,
+      "name": "Karl Malone (2nd Session)",
+      "url": "https://open.spotify.com/track/5qwtkIJSqZMrmmqXciVBDm"
+    },
+    {
+      "album": {
         "name": "keep no glock",
         "url": "https://open.spotify.com/album/20IEHOPAcmQp7MQcSxM1uN"
       },
@@ -1852,7 +1870,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 189231,
       "name": "king of the pumpkin patch",
       "url": "https://open.spotify.com/track/7yXA3nKDn6fZSj8IWpukUv"
@@ -2226,7 +2244,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-28",
+      "date_removed": null,
       "duration_ms": 109652,
       "name": "MORDERMAND",
       "url": "https://open.spotify.com/track/6necwqqASlZrchrUAUI02Y"
@@ -2884,6 +2902,24 @@
       "duration_ms": 212088,
       "name": "Purple Moncler",
       "url": "https://open.spotify.com/track/3PlxIlMXqw04F45yHM13mw"
+    },
+    {
+      "album": {
+        "name": "racist",
+        "url": "https://open.spotify.com/album/5SIIIDo1KMhRJduTnuns9L"
+      },
+      "artists": [
+        {
+          "name": "Hapes",
+          "url": "https://open.spotify.com/artist/67YTeu5GB7MfmwTooDX4qo"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96666,
+      "name": "racist",
+      "url": "https://open.spotify.com/track/2E9IBpAAmVJ4TT0qEs5yln"
     },
     {
       "album": {

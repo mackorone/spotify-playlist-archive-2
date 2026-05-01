@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 
 > Meet the future of music around the world\. Cover: dia
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,414 likes - 26 songs - 1 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,482 likes - 26 songs - 1 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,4 +35,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 25 | [i told chatgpt about you](https://open.spotify.com/track/0bFhKx00u59mp57ICYhwCM) | [Jaime Cheung](https://open.spotify.com/artist/0HlQqnAtrcPAXQcfdKqz5h) | [i told chatgpt about you](https://open.spotify.com/album/7jMn0C4Thymtq0OKKA5qlZ) | 3:14 |
 | 26 | [末日之戀](https://open.spotify.com/track/04IkgvVjxtp5YrWqNtNPUX) | [Forty 顏世琳](https://open.spotify.com/artist/1OkGOCTTKlEi1RBg9lsb9V) | [末日之戀](https://open.spotify.com/album/3tHQ6niOyfDc5rQ3hQVVUc) | 3:40 |
 
-Snapshot ID: `AAAAACUczGbl9Hr3KK1SIZ3wMehd/wkb`
+Snapshot ID: `AAAAAHC0d+po3FRCzIrTCVoTeAt+yPAf`

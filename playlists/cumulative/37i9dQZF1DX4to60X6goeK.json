@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": "Go hard or go home. Cover: Voltage",
+  "description": "Go hard or go home. Cover: Kanine",
   "name": "Jump Up!",
   "tracks": [
     {
@@ -4668,7 +4668,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 204137,
       "name": "OMG",
       "url": "https://open.spotify.com/track/4roXdtgxy29XQ8hSOaT8F7"
@@ -6758,6 +6758,32 @@
       "duration_ms": 234482,
       "name": "Too Lazy",
       "url": "https://open.spotify.com/track/20z8sOQkGiwos8mlmRfbnj"
+    },
+    {
+      "album": {
+        "name": "Touchdown",
+        "url": "https://open.spotify.com/album/2JbAFeht78XUXee4bk7w5F"
+      },
+      "artists": [
+        {
+          "name": "Kanine",
+          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
+        },
+        {
+          "name": "SOTA",
+          "url": "https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP"
+        },
+        {
+          "name": "Mila Falls",
+          "url": "https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160172,
+      "name": "Touchdown",
+      "url": "https://open.spotify.com/track/3NGj1FaMWLNorEcffTFV9U"
     },
     {
       "album": {

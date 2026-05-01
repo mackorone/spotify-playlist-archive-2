@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: Sexyy Red\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 457,684 likes - 100 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 457,683 likes - 100 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 99 | [Good Day to be in Harlem](https://open.spotify.com/track/5MQPXV1dmDIWqvcQONZ1OG) | [Fergie Baby](https://open.spotify.com/artist/4wFiOK5gZqg6tk4wvVansa), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [Good Day to be in Harlem](https://open.spotify.com/album/2o4ICnsEfXEro3okcsEUWK) | 3:54 |
 | 100 | [KAWASAKI \(with Big Sean\)](https://open.spotify.com/track/4WEhoTCK2Kxh4r6UQ2QYI1) | [ONE OR EIGHT](https://open.spotify.com/artist/5bIttAFRf7URUmuuI9w7XA), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [GATHER](https://open.spotify.com/album/1RqbXoQpUaeNNRFYrV0WZD) | 2:05 |
 
-Snapshot ID: `AAAAAAdeHMpvwoj3ZcOAILFm3y+cagBc`
+Snapshot ID: `AAAAAI+D4AtdqISKQN9VXEKptnOMt0Y3`

@@ -2,9 +2,9 @@
 
 ### [Exception Française](https://open.spotify.com/playlist/37i9dQZF1DWTIykNHRogOx)
 
-> Les  meilleures nouveautés de la chanson française avec ESTL
+> Les  meilleures nouveautés de la chanson française avec Ysé
 
-318 songs - 17 hr 22 min
+321 songs - 17 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Amnésie \- November Ultra Version](https://open.spotify.com/track/3qgaBkvgxkWscBdYQlkvQt) | [P.R2B](https://open.spotify.com/artist/6R6tuqCxJRopO4bE8nfLGk), [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [Amnésie \(November Ultra Version\)](https://open.spotify.com/album/5s4XbCLJIbcAxLBarsmmdH) | 3:51 | 2026-03-19 |  |
 | [Amor à mort](https://open.spotify.com/track/6K9CsKaZ17zb4oPdXeEz7W) | [Tessa B\. ](https://open.spotify.com/artist/2zHuN04qyNnz890Y2R0Nkr) | [\(Re\)commencement](https://open.spotify.com/album/66PFQJXeRUIBc9IiPYAKvg) | 2:59 | 2025-11-27 | 2026-03-27 |
 | [AMOUR IMMENSE](https://open.spotify.com/track/1MlRa0GirgpGJbCx9R6wsO) | [Alex Montembault](https://open.spotify.com/artist/7Fbx8FniPmKUR3MfZCzh9a) | [AMOUR IMMENSE](https://open.spotify.com/album/4LcZY5g6zmDp93dh5PFUkd) | 2:17 | 2026-03-19 |  |
+| [Amoureuse](https://open.spotify.com/track/0trNGFUPuakolPntrUFQtc) | [Matild](https://open.spotify.com/artist/556svfNK6nfvqu9F6N4Eok) | [Amoureuse](https://open.spotify.com/album/6KFiRdQ7SzYdVv1ro5UjaG) | 2:50 | 2026-04-30 |  |
 | [Amoureux](https://open.spotify.com/track/3JxtG6e9K7OXltofy3Z56G) | [Alain Chamfort](https://open.spotify.com/artist/79SJOUvbcH85tS57TH1f4H) | [Amoureux](https://open.spotify.com/album/6j14PbhFhETS2yt7yene9b) | 2:58 | 2025-10-09 | 2025-11-21 |
 | [AMOURFOU](https://open.spotify.com/track/6nNGuufca7lNkotjvIIkev) | [Martin Luminet](https://open.spotify.com/artist/3DziNI4JX4VMQQOkuAq24y) | [APRÈS DEUIL\(S\)](https://open.spotify.com/album/0ZpYSAaOfQvIo55zbEx4ly) | 3:36 | 2024-06-27 | 2024-09-20 |
 | [Après l'amour \- Session Théâtre de l'Atelier](https://open.spotify.com/track/2tCruedoOejBaJnsa4BLdP) | [Ben Mazué](https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou) | [Après l'amour \(Session Théâtre de l'Atelier\)](https://open.spotify.com/album/27uBY4WErYJ0GZ8YPhPMXJ) | 4:09 | 2024-06-27 | 2024-11-29 |
@@ -71,7 +72,8 @@
 | [Douce](https://open.spotify.com/track/5QQeluaiHf0b1wQ1RTI5Gi) | [Clara Ysé](https://open.spotify.com/artist/5resnspF60fUdkKmQHn8em) | [Douce](https://open.spotify.com/album/48cdzmZdWpG9INtGhh9jvg) | 3:03 | 2024-06-27 | 2024-08-30 |
 | [Déjà\-vu](https://open.spotify.com/track/1d21teYPebHp8P0ZalkS65) | [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5) | [Déjà\-vu](https://open.spotify.com/album/4AbQZtSEzo7gdk5puwWkww) | 3:22 | 2025-01-09 | 2025-05-23 |
 | [Empreinte](https://open.spotify.com/track/3rJNURh2fch9PTWeMMDQfV) | [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5) | [Tout de suite](https://open.spotify.com/album/05xpzYcfsrfR5asnH24pw5) | 3:17 | 2024-06-27 | 2024-12-06 |
-| [Engagé volon\-Terre \(feat\. René Nunes\)](https://open.spotify.com/track/7CqiodjJF4h89XAAf4FTfN) | [Charlelie Couture](https://open.spotify.com/artist/3iqmYVVSjUVWoeREwRf5a6), [Rene Nunes](https://open.spotify.com/artist/4eeh1QxWA2ZkbIsQpYqHzF) | [Engagé volon\-Terre \(feat\. René Nunes\)](https://open.spotify.com/album/00rcsuB0dL7fQmbf7a2Wjl) | 3:07 | 2026-02-19 |  |
+| [Encore un peu](https://open.spotify.com/track/5XftKlBfuqCdDQawQ2irNP) | [Ronnie](https://open.spotify.com/artist/6a8uf5LXFZ22BzKMpU9YFz) | [Encore un peu](https://open.spotify.com/album/3PcCcn7Ux7l9xAT2v0XxKc) | 2:41 | 2026-04-30 |  |
+| [Engagé volon\-Terre \(feat\. René Nunes\)](https://open.spotify.com/track/7CqiodjJF4h89XAAf4FTfN) | [Charlelie Couture](https://open.spotify.com/artist/3iqmYVVSjUVWoeREwRf5a6), [Rene Nunes](https://open.spotify.com/artist/4eeh1QxWA2ZkbIsQpYqHzF) | [Engagé volon\-Terre \(feat\. René Nunes\)](https://open.spotify.com/album/00rcsuB0dL7fQmbf7a2Wjl) | 3:07 | 2026-02-19 | 2026-05-01 |
 | [Ensemble](https://open.spotify.com/track/023aFxmqIq2u1M1VlIGcZF) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Ensemble](https://open.spotify.com/album/5Q7n8469T4aKLpQRvmSEy4) | 3:02 | 2024-06-27 | 2024-08-30 |
 | [Ensemble \- feat\. Charlotte Cardin](https://open.spotify.com/track/75pByJRPFcINx2q9wpv6nZ) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB), [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Aliocha Schneider \(Deluxe\)](https://open.spotify.com/album/1ttdXNBRHGq9ASHdeA36cI) | 2:52 | 2024-11-28 | 2025-04-25 |
 | [Envole\-toi](https://open.spotify.com/track/31CkkXtupjdTpHhZLJv8aF) | [ESTL](https://open.spotify.com/artist/06iezeOUHGb86SaoYTyexg) | [Envole\-toi](https://open.spotify.com/album/1nett9I4qlSeqnAmeUYhcu) | 3:48 | 2025-11-20 | 2026-03-27 |
@@ -172,6 +174,7 @@
 | [Le sud](https://open.spotify.com/track/2lVCyz2QzwLu3bcDzROnpY) | [Feu! Chatterton](https://open.spotify.com/artist/538TfjnJpRXI80MHYWfKlo) | [Le sud](https://open.spotify.com/album/3OvJOR3zCO335aro2CEPwW) | 3:45 | 2024-06-27 | 2024-08-30 |
 | [Le temps passe](https://open.spotify.com/track/7lKqPgebPZrZSDM3vGu92k) | [L \(Raphaële Lannadère\)](https://open.spotify.com/artist/6U11D7usLhid56o38NJVi8) | [Le temps passe](https://open.spotify.com/album/1jMasSdtdHzgmhGTjEL9Nw) | 2:09 | 2025-02-20 | 2025-05-16 |
 | [Le temps qui passe sans moi \- Version symphonique](https://open.spotify.com/track/4d4QtDnYE7wwiAHQcYDylg) | [Dominique A](https://open.spotify.com/artist/6IoS9ojtxKCL1tW5VL1buI) | [Le temps qui passe sans moi \- Version symphonique](https://open.spotify.com/album/4tlu9XTFmBkk10T2ZoLa1E) | 3:56 | 2024-06-27 | 2024-09-20 |
+| [Le Train](https://open.spotify.com/track/0jlA2eeimEel4YhVm9FsUR) | [Laure Briard](https://open.spotify.com/artist/01kBbtD0A37qtJ9EdA3Fm1) | [Le Train](https://open.spotify.com/album/0bYRaNGPNyvFWKqOWQfGfS) | 2:33 | 2026-04-30 |  |
 | [Le Vœu](https://open.spotify.com/track/41GX6q5XIhBslrEhzT8f8r) | [Marco Ferreira](https://open.spotify.com/artist/2eeWkCArv4Bxqqb82b7ona) | [Le Vœu](https://open.spotify.com/album/5EV5iAGebXLRmKklXiCEgo) | 1:57 | 2025-09-25 | 2026-02-13 |
 | [Les Anges](https://open.spotify.com/track/5qftMKQEhmvZTeP1zWXs1d) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Aliocha Schneider \(Deluxe\)](https://open.spotify.com/album/1ttdXNBRHGq9ASHdeA36cI) | 2:38 | 2024-11-08 | 2024-11-29 |
 | [Les années lumière](https://open.spotify.com/track/0rhFDz2X2OG5QLHi4SvrS1) | [Pépite](https://open.spotify.com/artist/0oA0cg7ajEwV0EXKCAlQ63), [Janie](https://open.spotify.com/artist/2WSFLb1izcqFnU9KakhCnU) | [Les années lumière](https://open.spotify.com/album/7nvZv8TiBjGjl6hJRckc5W) | 5:06 | 2024-10-03 | 2025-02-07 |
@@ -183,7 +186,7 @@
 | [Les derniers jours de pluies \- Edit Version](https://open.spotify.com/track/3DYKwNNBw82vXKTCvOuYGZ) | [Étienne Daho](https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk) | [Les derniers jours de pluies \(Edit version\)](https://open.spotify.com/album/31hyMyNSBb4Sc3qCvNPJwT) | 2:57 | 2024-10-03 | 2025-02-07 |
 | [Les désirs fatigués des navires d’argent](https://open.spotify.com/track/5yWjsQylhePlSIF14zcWvT) | [Keren Ann](https://open.spotify.com/artist/4v1YZL83eLyemlt32wWAoA) | [Paris Amour](https://open.spotify.com/album/3dvIlg1tuKOqYaAU8eYFJ5) | 3:37 | 2025-09-11 | 2026-01-16 |
 | [Les garçons](https://open.spotify.com/track/5R2vhB1BdBj517BCqGMncJ) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq) | [La symphonie des éclairs](https://open.spotify.com/album/5GoDO8a03bxSSxMCeYKfaW) | 2:50 | 2024-06-27 | 2024-09-27 |
-| [Les gens](https://open.spotify.com/track/327aZ6FSyHbV6SYyb60ckk) | [Matild](https://open.spotify.com/artist/556svfNK6nfvqu9F6N4Eok) | [Les gens](https://open.spotify.com/album/6hOJ1lPPsCDkFjQ4MFDmAX) | 3:22 | 2026-01-22 |  |
+| [Les gens](https://open.spotify.com/track/327aZ6FSyHbV6SYyb60ckk) | [Matild](https://open.spotify.com/artist/556svfNK6nfvqu9F6N4Eok) | [Les gens](https://open.spotify.com/album/6hOJ1lPPsCDkFjQ4MFDmAX) | 3:22 | 2026-01-22 | 2026-05-01 |
 | [Les inséparables](https://open.spotify.com/track/2mJInqoONdxGcDDdf2A5Hb) | [Steve Ibrahim](https://open.spotify.com/artist/0LO2e5fJCBLFn4Ua1IPszs) | [L'oiseau bleu](https://open.spotify.com/album/6KukxYYn4YtlJBQmbaHgvM) | 2:47 | 2026-01-29 | 2026-04-24 |
 | [les mots que j'aime](https://open.spotify.com/track/2qbFUOIda3e2w4VB6J0nZf) | [Lili Em](https://open.spotify.com/artist/4LjJmXmEJVACRkgQyMzPBk) | [les mots que j'aime](https://open.spotify.com/album/593xbuj1Sg2GRkylfyWFEt) | 2:44 | 2025-12-18 | 2026-04-10 |
 | [Les ogres](https://open.spotify.com/track/6313xKMuwpKqA2xP1Tl2wU) | [Solann](https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv) | [Les ogres](https://open.spotify.com/album/3lutBn9xqQgjOUpj88L8mf) | 2:54 | 2024-11-28 | 2025-04-18 |
@@ -307,7 +310,7 @@
 | [un coeur jamais venu](https://open.spotify.com/track/4eMiQDySyaA2VgVLKPvXkE) | [jenna](https://open.spotify.com/artist/50KuFTdbf6PbVjpvNuJALs) | [l'art de n'être pas](https://open.spotify.com/album/2OT9zY5adHDyXCBfY0XOjp) | 2:46 | 2025-04-10 | 2025-09-05 |
 | [Un homme heureux](https://open.spotify.com/track/6aFYcIEHx17g7tInOQFF3t) | [Arthur Teboul](https://open.spotify.com/artist/2Nx3N8Sumn7MX5kVyDT9Y6), [Baptiste Trotignon](https://open.spotify.com/artist/13hKwJWXAVm2hYLiJbM69R) | [Piano Voix Plus](https://open.spotify.com/album/2KV6vuCpm7D0stDWSwxcCr) | 3:04 | 2024-12-05 | 2025-05-02 |
 | [un thé?](https://open.spotify.com/track/0vfazLBkcqqyQHJEcdrQDP) | [aupinard](https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne) | [un thé?](https://open.spotify.com/album/5Ui4e36gPTGfjiER2wVsAI) | 2:32 | 2026-02-27 |  |
-| [Une minute encore](https://open.spotify.com/track/1LpfdLXt8RjQKbjigw4mcx) | [Ronnie](https://open.spotify.com/artist/6a8uf5LXFZ22BzKMpU9YFz), [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [Une minute encore](https://open.spotify.com/album/5nvDbyAcX6x095hsA1fnOO) | 2:54 | 2026-01-22 |  |
+| [Une minute encore](https://open.spotify.com/track/1LpfdLXt8RjQKbjigw4mcx) | [Ronnie](https://open.spotify.com/artist/6a8uf5LXFZ22BzKMpU9YFz), [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [Une minute encore](https://open.spotify.com/album/5nvDbyAcX6x095hsA1fnOO) | 2:54 | 2026-01-22 | 2026-05-01 |
 | [vestiaire](https://open.spotify.com/track/1l73TR0XQyd3UAPv1JritE) | [The Doug](https://open.spotify.com/artist/1AT7xbkG9hKbNlvGfZtA7S) | [vestiaire](https://open.spotify.com/album/26Slz1vGSAqtp6eW2z2Lzp) | 2:52 | 2025-05-01 | 2025-05-23 |
 | [Violette](https://open.spotify.com/track/7smDg0K71zHvU7w0qRiUOG) | [Manon Lisa](https://open.spotify.com/artist/2qzxrbVBGwJjYOay7mJmhf) | [Violette](https://open.spotify.com/album/100JcLvH3jFj7EvC3r4mNr) | 2:41 | 2024-11-28 | 2025-04-25 |
 | [Vivant](https://open.spotify.com/track/79WNuukBSoDzaem1LT4IZ4) | [Malik Djoudi](https://open.spotify.com/artist/5STTEE3TlZg9gb3xNC4RHF) | [Vivant](https://open.spotify.com/album/1Mf3XaYg2XWFDR5E0D2RCX) | 3:02 | 2024-06-27 | 2024-11-08 |

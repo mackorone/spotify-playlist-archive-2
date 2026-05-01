@@ -6,8 +6,28 @@
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAARUowqxEdDcD9NQQaZpkMo3s3PDJZs",
+  "snapshot_id": "AAARVpr1T+nIRhnGAYLlksASs07hr3Z2",
   "tracks": [
+    {
+      "added_at": "2026-04-30 22:00:02",
+      "album": {
+        "name": "Ready to Fly",
+        "url": "https://open.spotify.com/album/3ZtYDkyonSlzp6atr7LjEO"
+      },
+      "artists": [
+        {
+          "name": "Mode\u0101",
+          "url": "https://open.spotify.com/artist/6dsy10LVNALrvHyVEadrsJ"
+        },
+        {
+          "name": "Bryan Kearney",
+          "url": "https://open.spotify.com/artist/5fBbVsFxoa0jDCqocaEdBx"
+        }
+      ],
+      "duration_ms": 188811,
+      "name": "Ready to Fly",
+      "url": "https://open.spotify.com/track/4AUqJ9BYqjQO141t5qe4qC"
+    },
     {
       "added_at": "2026-04-23 22:00:03",
       "album": {
@@ -23,6 +43,30 @@
       "duration_ms": 211900,
       "name": "Another Night Without You",
       "url": "https://open.spotify.com/track/23gkaxfqOnOufnK5he7sTW"
+    },
+    {
+      "added_at": "2026-04-30 14:30:24",
+      "album": {
+        "name": "Bass Down Low (feat. DEV)",
+        "url": "https://open.spotify.com/album/4Uh4CwIOGDKCnYXEXoNInQ"
+      },
+      "artists": [
+        {
+          "name": "NIIKO X SWAE",
+          "url": "https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz"
+        },
+        {
+          "name": "KSHMR",
+          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
+        },
+        {
+          "name": "DEV",
+          "url": "https://open.spotify.com/artist/7Ip2u3e5Nv6fFb5xyIHxEE"
+        }
+      ],
+      "duration_ms": 139147,
+      "name": "Bass Down Low (feat. DEV)",
+      "url": "https://open.spotify.com/track/4ZOGujJtpygBRvPj8KZKFn"
     },
     {
       "added_at": "2026-04-09 14:44:16",
@@ -43,6 +87,42 @@
       "duration_ms": 172615,
       "name": "Turn Up The Dose",
       "url": "https://open.spotify.com/track/4IIb4DQxNBAowpUJmKYNMD"
+    },
+    {
+      "added_at": "2026-04-30 14:30:26",
+      "album": {
+        "name": "Feel Of The Night",
+        "url": "https://open.spotify.com/album/3mevSR4OsP6cfqHx51ulFv"
+      },
+      "artists": [
+        {
+          "name": "Borey",
+          "url": "https://open.spotify.com/artist/3WMYj2wWdxb150nAaf03Ru"
+        }
+      ],
+      "duration_ms": 181879,
+      "name": "Feel Of The Night",
+      "url": "https://open.spotify.com/track/5cEO6TVLoxYzWDrki8xQF6"
+    },
+    {
+      "added_at": "2026-04-30 14:30:25",
+      "album": {
+        "name": "Arrival (DAMEN Remix)",
+        "url": "https://open.spotify.com/album/6gPgqjAk7ak2Py8kDaTJ9Y"
+      },
+      "artists": [
+        {
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        },
+        {
+          "name": "DAMEN",
+          "url": "https://open.spotify.com/artist/6aW9vCCdBYNKQiXAztvGwQ"
+        }
+      ],
+      "duration_ms": 155625,
+      "name": "Arrival (DAMEN Remix)",
+      "url": "https://open.spotify.com/track/6L1HsaAFYQFBVAGxYHJnk8"
     },
     {
       "added_at": "2026-04-16 22:00:08",

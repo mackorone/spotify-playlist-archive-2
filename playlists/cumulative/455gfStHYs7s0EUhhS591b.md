@@ -4,7 +4,7 @@
 
 > Feel\-good summer throwbacks and chilled lounge mixes to bring the summer vibe all year round.
 
-273 songs - 16 hr 1 min
+274 songs - 16 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,6 +191,7 @@
 | [Perfect Night](https://open.spotify.com/track/5NfoWBGTG7KZMITHMN16Il) | [Rodg](https://open.spotify.com/artist/1kb9YssvADeiGvCUwJzbdT) | [Perfect Night](https://open.spotify.com/album/04fZ9HbeomAFpCjfadJ6LK) | 3:25 | 2025-07-18 | 2026-04-18 |
 | [PRAY](https://open.spotify.com/track/24rM9ZhG46LWAUSCXgZa2a) | [Cincity](https://open.spotify.com/artist/2JTUg3LgzJsqxzNnPB9hen), [Sunnery James & Ryan Marciano](https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt), [YAX.X](https://open.spotify.com/artist/0dPvgsYtDUI9Wcr0WREIJK) | [PRAY](https://open.spotify.com/album/0ADO0ypxJT4ujhHCTr77zQ) | 3:56 | 2025-09-05 |  |
 | [Prologue \- Beatless Mix](https://open.spotify.com/track/7hU3JYYtZT2J4eXqiSPFjt) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD) | [Trampolines \(Beatless Mixes\)](https://open.spotify.com/album/71B1Oh6qKM9n0dr4e7xEfw) | 2:14 | 2025-06-19 |  |
+| [Promised Land](https://open.spotify.com/track/6Akfd4lrYmvioYXfgZlkCS) | [Summer Is Calling](https://open.spotify.com/artist/34q9Zt0mBwYXGMeRq9m94u), [Joe Smooth](https://open.spotify.com/artist/4BIamAD25vwYldaOWTEsXd) | [Promised Land](https://open.spotify.com/album/4rANEGOy9fAxpEBVgReeAe) | 2:29 | 2026-05-01 |  |
 | [Pull Me](https://open.spotify.com/track/7tgixN5EH636zuS6FrIfUn) | [CEAUS](https://open.spotify.com/artist/16312wc5ERKYDDBVwRSAi4), [Belle Doron](https://open.spotify.com/artist/0vG28tQeh1adA0xHmdUTVQ) | [Pull Me](https://open.spotify.com/album/6akR5Aiyskz8Zr1ylggMSB) | 3:55 | 2025-06-19 |  |
 | [Radiance](https://open.spotify.com/track/26Ei09sNb2GAUlKhSMb6n4) | [Arodes](https://open.spotify.com/artist/4p2f8wUtltMAFuIJB4NR47), [PÆDE](https://open.spotify.com/artist/0q9ulkly0h5gV9BLdyQGnQ) | [Radiance](https://open.spotify.com/album/1YhHRHvLm1M7gb2vzrGgeQ) | 3:30 | 2025-06-19 |  |
 | [Rain Down On Me](https://open.spotify.com/track/2Sn8rMsZKVAKvJ9Glnu7mw) | [Joe Smooth](https://open.spotify.com/artist/4BIamAD25vwYldaOWTEsXd) | [Rain Down On Me](https://open.spotify.com/album/3gXO500qchumgblM82ztyJ) | 3:14 | 2025-06-19 |  |

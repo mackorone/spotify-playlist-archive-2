@@ -2,9 +2,9 @@
 
 ### [Fresh Flows](https://open.spotify.com/playlist/37i9dQZF1DX3TZP21TXsN6)
 
-> Nieuw: YGN KAMII, Wittie, Burkeys en meer..
+> Nieuw: Maycash, Kerron, Matarr en meer..
 
-545 songs - 23 hr 38 min
+550 songs - 23 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [9 Levens](https://open.spotify.com/track/0wiT37J4xtoVKgmFOFZvYh) | [Getit](https://open.spotify.com/artist/5Yc3rkj4Fs4slH5uGZaG8I) | [9 Levens](https://open.spotify.com/album/4Egqqu8HxrppaKDbGYjkZP) | 2:47 | 2026-04-16 |  |
 | [9 Straatjes](https://open.spotify.com/track/7EWlCJN36ukc2tUvYv9GZp) | [Mau](https://open.spotify.com/artist/1ESH6JWzVykbIYI4ew71eW) | [9 Straatjes](https://open.spotify.com/album/1MPaDbwT7ODJ7SKJ3B10ie) | 2:47 | 2025-07-17 | 2025-08-15 |
 | [911](https://open.spotify.com/track/3gScqpZMP4Tj2tEdrA3ihs) | [Brasco](https://open.spotify.com/artist/1oF9VGP4yn9vVu1sPDLAyr) | [911](https://open.spotify.com/album/5ev7F3pomSoUQEdGdlimaE) | 1:29 | 2025-11-13 | 2026-01-15 |
+| [99 COLUMBINE RAP](https://open.spotify.com/track/5nyfubQnWeNwqYmnT4b3mh) | [RAFTING GOODS](https://open.spotify.com/artist/6NzcpN9bENbuI2mLaC24Zl), [Tim Beumers](https://open.spotify.com/artist/3gWALRyQeQtkcTYxv2pi2x), [Jordy Simons](https://open.spotify.com/artist/6XeUXfhooIg4QjDnz30Evc) | [YESSIR](https://open.spotify.com/album/7hstoA0kLy3yJvlzGSmIuE) | 3:02 | 2026-04-30 |  |
 | [A.O.S](https://open.spotify.com/track/7KvYMNrZVhxH7KSRLDM4wF) | [WAWA](https://open.spotify.com/artist/71IGD79X5laXW6cmqehskJ) | [A.O.S](https://open.spotify.com/album/57FMRoDEXtDc8r7kPT1ekC) | 2:58 | 2026-02-26 | 2026-04-17 |
 | [Accepteren](https://open.spotify.com/track/0JbQOPFt4zdvDiphhWj1K4) | [HAYABUSA](https://open.spotify.com/artist/2qWVVGxTmT9ZQG2TXYuiVd), [Sepa](https://open.spotify.com/artist/5oBUDu4SFA4clHOLCrh2b7), [HB The Plug](https://open.spotify.com/artist/17fsAjYzpvI7C5M1D8T34T) | [Accepteren](https://open.spotify.com/album/57pWzRngl1rtK5b1hCYSpf) | 3:01 | 2025-11-27 | 2026-01-15 |
 | [Acey \- Freestyle](https://open.spotify.com/track/7zoKBGTGerWSihyAPg8bR4) | [Mtkid](https://open.spotify.com/artist/5m1NnuLrIKK0irIQfxrpvp) | [Acey \(Freestyle\)](https://open.spotify.com/album/2GMCaXP00o5ZIM8cjVexCR) | 2:02 | 2025-10-02 | 2025-11-07 |
@@ -74,6 +75,7 @@
 | [BCN > RAK](https://open.spotify.com/track/3R2n5h8ceesVR9zBkj151i) | [Ville](https://open.spotify.com/artist/0SAkDloGGtJFxAJ8b1KvCz), [SAYIN](https://open.spotify.com/artist/0QpVGfzLMkEL1aOibaZgX2), [Jetski](https://open.spotify.com/artist/4zo8UewZCDdI5AEuInMHUD) | [BCN > RAK](https://open.spotify.com/album/25L1RzBKyIH2n6ZXnUGk2X) | 2:14 | 2026-01-29 | 2026-02-20 |
 | [Beemsterstraat](https://open.spotify.com/track/41htoqaciyMHG4NELcoI6h) | [SKEEKS](https://open.spotify.com/artist/7f9oQiICipkyl9KuNHszHa) | [Beemsterstraat](https://open.spotify.com/album/4fIC1wHhQghmmJZS5QmFJT) | 2:20 | 2025-11-27 | 2025-12-05 |
 | [Begrafenis](https://open.spotify.com/track/1tOwpG5OVkVfemP7v6R53f) | [Sidney Shane](https://open.spotify.com/artist/32tHxdDs7eCpgjYPzWHyXA), [Sepa](https://open.spotify.com/artist/5oBUDu4SFA4clHOLCrh2b7) | [88](https://open.spotify.com/album/3UqophSkJ9MIEPdGIucF20) | 3:53 | 2025-09-18 | 2025-11-01 |
+| [Bellingham](https://open.spotify.com/track/3dZNrH75WqhNc2YwWGQ0mi) | [Maycash](https://open.spotify.com/artist/3XuZ73r4HTBo0C8rlGSCmD) | [Bellingham](https://open.spotify.com/album/4ANIT2uoiWAHLb8Zm1ibNq) | 1:52 | 2026-04-30 |  |
 | [Beseffen](https://open.spotify.com/track/6COOV7LnmZCWsLTyHEynRj) | [Ysavv](https://open.spotify.com/artist/1mloPWSzK1ktjXszZhg6Jn) | [Beseffen](https://open.spotify.com/album/0riyZIEq6DgVzFxlGGn9wK) | 2:26 | 2026-01-08 | 2026-02-13 |
 | [Beste Voor Jou](https://open.spotify.com/track/5B4hazJXJX68tYLO0aDItc) | [B4RKIE](https://open.spotify.com/artist/2MQ6TLWN9FQ5OqnsB9HNXs), [TB](https://open.spotify.com/artist/32dyZVtIJgvvGCLvCKD87s) | [Beste Voor Jou](https://open.spotify.com/album/6RcRiiZRb774Zi5erJi1SE) | 3:04 | 2025-07-17 | 2025-08-15 |
 | [Beter Zo](https://open.spotify.com/track/2ypLSnSq5by0JvEXvadgX2) | [Cappie](https://open.spotify.com/artist/0PC5oDSpWdRVQI9E6h2uhX) | [Beter Zo](https://open.spotify.com/album/7xKzouEH5bu5SN4E7QOxJF) | 2:05 | 2025-07-17 | 2025-08-15 |
@@ -138,6 +140,7 @@
 | [Deja Vu](https://open.spotify.com/track/4fttKLb5Y7RJHi18Q3rNpk) | [Vurr Flashy](https://open.spotify.com/artist/4HvrPyaGmNPeUEgBA4n6uh), [Maycash](https://open.spotify.com/artist/3XuZ73r4HTBo0C8rlGSCmD) | [Luxe problemen](https://open.spotify.com/album/4cHJVRvyiUPjYvz5w7YBpr) | 2:56 | 2026-03-26 |  |
 | [Deuren](https://open.spotify.com/track/42jy2xGOTW1w8zsSf9HKMZ) | [Homey](https://open.spotify.com/artist/0rUZZcbB1j3FJFvBvQ86UG), [DORTA](https://open.spotify.com/artist/5kvKtUiKqDtdvIRVj0iWlO) | [Deuren](https://open.spotify.com/album/5t07wAr09HD0LS0nEIPthD) | 2:30 | 2025-11-06 | 2025-12-12 |
 | [Deze Dagen](https://open.spotify.com/track/4LSccc1P5EA3qmgOZSeF1n) | [Meyrr](https://open.spotify.com/artist/6Fe4cI3PZcZFzxoMSVowWG), [Ralla](https://open.spotify.com/artist/4mLMkl774zwxOVGWfCUxj6) | [Deze Dagen](https://open.spotify.com/album/0cukgTEbJHdAEnYu5vGWkw) | 2:28 | 2026-01-29 | 2026-02-20 |
+| [Diamanten Ringen](https://open.spotify.com/track/6bcnWcmd5vcRnIhlpI3Uwl) | [Matarr](https://open.spotify.com/artist/73objEnuVYK9Kr3e3f6ciZ) | [Diamanten Ringen](https://open.spotify.com/album/41WUft0L4vsw7uba9rbYpZ) | 2:52 | 2026-04-30 |  |
 | [Die Life](https://open.spotify.com/track/3tHOrQbymHZgW49V2r5cky) | [Gior](https://open.spotify.com/artist/5cT3NUrkdYpSsAWLLlUaFA) | [Die Life](https://open.spotify.com/album/0ScDN58zAvkMyXqI83vQLi) | 3:28 | 2026-02-26 | 2026-04-17 |
 | [Diep in de nacht](https://open.spotify.com/track/3GiD07qriARMscbcrHJY36) | [Ries](https://open.spotify.com/artist/4JzWQoYWa4uI7iVJorKEtG), [Jordan River Banks](https://open.spotify.com/artist/6ko5cVXOFXsdk5yuH3Xfvs) | [Diep in de nacht](https://open.spotify.com/album/71vwzWgLiB0Hns54A1rLHA) | 2:49 | 2026-02-26 | 2026-04-03 |
 | [Discussies en Gezeik](https://open.spotify.com/track/7zSmRAYfMpmXBvhWhCtOVd) | [Rits](https://open.spotify.com/artist/0zjY4NHr3mdGq8Mn8btl3O), [Solid Circle](https://open.spotify.com/artist/21JzXYDy45yD5pzxnsEwrf) | [Discussies en Gezeik](https://open.spotify.com/album/12tRdUe3hbLocwt0AUyw31) | 3:23 | 2026-04-16 |  |
@@ -162,6 +165,7 @@
 | [EY BRO](https://open.spotify.com/track/1Y6owzjfqe2lIB5oFrvIBv) | [Freddie Konings](https://open.spotify.com/artist/2Gdf9LI423ukSgomDCxQI2) | [CHOSSELLONIË 3](https://open.spotify.com/album/03LTtkdezojLVi0eg59pNR) | 2:44 | 2025-10-09 | 2025-11-21 |
 | [Eén Van De Twee](https://open.spotify.com/track/7vObOT8fUxP8N8E3BTVtUZ) | [WOLF](https://open.spotify.com/artist/0Y04rGjtD2FVXwYdNpFUPt) | [Eén Van De Twee](https://open.spotify.com/album/5kxPP2lz5SJWbKV6KNQrxp) | 2:16 | 2025-07-17 | 2025-08-29 |
 | [F1](https://open.spotify.com/track/1UDDPcG1brXQnfORhqF6FJ) | [WAWA](https://open.spotify.com/artist/71IGD79X5laXW6cmqehskJ) | [F1](https://open.spotify.com/album/0SKhUMKR1oInVYGKzU04yO) | 2:41 | 2025-11-06 | 2025-12-12 |
+| [Fake](https://open.spotify.com/track/0gCa5i0qQKheZHtyL3RjbR) | [Kerron](https://open.spotify.com/artist/4aIg8t5vhciQx2Ez053cVf) | [Fake](https://open.spotify.com/album/1RMKxBxrdRPR3MZk73oSgE) | 2:05 | 2026-04-30 |  |
 | [Fall](https://open.spotify.com/track/5sug1YOaxIHjuuJLOGwUBL) | [Vinny](https://open.spotify.com/artist/4ZDIqLTT2TZuC199G4KwTD) | [Filantroop](https://open.spotify.com/album/2C6yXgjoNE7pmZpDmQwc8P) | 2:55 | 2025-10-02 | 2025-11-07 |
 | [FATBIK](https://open.spotify.com/track/3t6Xr0PXqrkvuaxtys7SEa) | [Deppie](https://open.spotify.com/artist/63NP9fFNPIMmCCvSkS5eNj), [Tim Beumers](https://open.spotify.com/artist/3gWALRyQeQtkcTYxv2pi2x) | [FATBIK](https://open.spotify.com/album/0tsUY9PoLviETLyaYj7TTc) | 2:22 | 2025-11-20 | 2025-12-12 |
 | [FEEG LEGIJK](https://open.spotify.com/track/1Ls0ikzMsdLUrXF7DYYx52) | [YB YB](https://open.spotify.com/artist/0BTt9oHCLaKlU9bK5gBqiR) | [FEEG LEGIJK](https://open.spotify.com/album/3pMWuTcZXTHX6WxlIjunOU) | 2:02 | 2025-11-27 | 2025-12-12 |
@@ -231,6 +235,7 @@
 | [Hoogwater](https://open.spotify.com/track/3oL34RUjavJXyCTVafn7Hz) | [Getit](https://open.spotify.com/artist/5Yc3rkj4Fs4slH5uGZaG8I) | [Omdat Het Kan](https://open.spotify.com/album/6i6EKiaER1rWdZl9CVS8Q6) | 2:27 | 2025-08-14 | 2025-09-26 |
 | [Huismuziek](https://open.spotify.com/track/2jyIoULidueBNoIaOAe0Uy) | [Marou](https://open.spotify.com/artist/787K0Q2xGqiAL0jcoo5kb5), [Massin](https://open.spotify.com/artist/7g8HFGXym7WNVPMsuAINQE), [Def](https://open.spotify.com/artist/7xSvzzpRGlGKyXVOI6IeWk) | [Huismuziek](https://open.spotify.com/album/0oB2M2lgv9YK4X2eRRmYk7) | 2:45 | 2025-07-17 | 2025-08-15 |
 | [HUNT VOOR DIE STACKS](https://open.spotify.com/track/3FMlpWtnv2cg33jeX0GPBp) | [$KEER&BOO$](https://open.spotify.com/artist/54AXOGACUgkWEWlIG07d6B), [Starvin Marv](https://open.spotify.com/artist/1G4mjanvIMscJ8JuNOAqik) | [HUNT VOOR DIE STACKS](https://open.spotify.com/album/6eIfWWt8IZEdRx36cEZ0Ph) | 2:44 | 2025-08-30 | 2025-09-26 |
+| [I Love It](https://open.spotify.com/track/6Dl7qOu72HDu9C78pQ1Lut) | [TJ](https://open.spotify.com/artist/2keg5CqgRIEtw0VUYU7TLu) | [Rand van de Wereld](https://open.spotify.com/album/2UE8DemU96wUHpnhJNcr8o) | 3:10 | 2026-04-30 |  |
 | [Ijskoud](https://open.spotify.com/track/42ReUeVEv0KibJOO1vf1S1) | [Kaascouse](https://open.spotify.com/artist/2lHCUCmz4hcAnc9mQBYa6Z), [Brandon Romeo](https://open.spotify.com/artist/0xblAxgKzyglBZkuyLb3CO), [RNDLF](https://open.spotify.com/artist/6fQzCASFAniQmsZvuGQ1LA) | [Ijskoud](https://open.spotify.com/album/6zJHNn27muvAYo5IOUHcJq) | 2:39 | 2026-04-02 | 2026-04-17 |
 | [IJskoud Affiliated](https://open.spotify.com/track/6Fdzhh2rgpGHC1HK3qOrBq) | [W19](https://open.spotify.com/artist/5016jZ4DoKPDuKy5xZyUpU), [PB](https://open.spotify.com/artist/2TnfeQKbvmQMhIb3XK0rkJ), [Gina](https://open.spotify.com/artist/0Uk9zTPdKWZxctyvybqRkI), [Jaïr](https://open.spotify.com/artist/6vG755giuevRw6BkA3ZQLB) | [IJskoud Affiliated](https://open.spotify.com/album/2eSiJDAIPajc0U3M78pYbP) | 3:04 | 2025-08-07 | 2025-09-19 |
 | [ik haat je](https://open.spotify.com/track/5WifmLmutp8N3iSoytpimH) | [Zeno](https://open.spotify.com/artist/3DzZYAqD6HAy1XVai7Udb8) | [ik haat je](https://open.spotify.com/album/5O0n7AXswglaVnJxDIYwB7) | 2:35 | 2025-11-27 | 2025-12-12 |

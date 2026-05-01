@@ -1,6 +1,6 @@
 {
   "description": "Beautifully dark, dramatic tracks.",
-  "num_followers": 860852,
+  "num_followers": 860876,
   "original_name": "Dark & Stormy",
   "owner": {
     "name": "Spotify",
@@ -323,6 +323,22 @@
     {
       "added_at": "2026-04-02 20:42:56",
       "album": {
+        "name": "9",
+        "url": "https://open.spotify.com/album/4B7O0E5V0ntVTz41tCfPdF"
+      },
+      "artists": [
+        {
+          "name": "Damien Rice",
+          "url": "https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ"
+        }
+      ],
+      "duration_ms": 219226,
+      "name": "9 Crimes",
+      "url": "https://open.spotify.com/track/08YEGpKt2LHJ0URCXKHEie"
+    },
+    {
+      "added_at": "2026-04-02 20:42:56",
+      "album": {
         "name": "boygenius",
         "url": "https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 251469,
       "name": "Salt In The Wound",
       "url": "https://open.spotify.com/track/7blNhlXimy77PduXyWtmcI"
-    },
-    {
-      "added_at": "2026-04-02 20:42:56",
-      "album": {
-        "name": "9",
-        "url": "https://open.spotify.com/album/4B7O0E5V0ntVTz41tCfPdF"
-      },
-      "artists": [
-        {
-          "name": "Damien Rice",
-          "url": "https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ"
-        }
-      ],
-      "duration_ms": 219226,
-      "name": "9 Crimes",
-      "url": "https://open.spotify.com/track/08YEGpKt2LHJ0URCXKHEie"
     },
     {
       "added_at": "2026-04-02 20:42:56",
@@ -563,22 +563,18 @@
     {
       "added_at": "2026-04-02 20:42:56",
       "album": {
-        "name": "Stolen Valor / Leash",
-        "url": "https://open.spotify.com/album/0bZNmJamdgaE43DEou6ms0"
+        "name": "The Crow Mother",
+        "url": "https://open.spotify.com/album/5hbE2sd26TIlxF6Yw65rDD"
       },
       "artists": [
         {
-          "name": "Hudson Freeman",
-          "url": "https://open.spotify.com/artist/6k3W2iGuRZrhUnfVZOMQo8"
-        },
-        {
-          "name": "The Bedroomer",
-          "url": "https://open.spotify.com/artist/40nN0AtXvLlPJMnUX7B7SB"
+          "name": "Wickerbird",
+          "url": "https://open.spotify.com/artist/5JnB0pjUaCDOuRKRzuS5ti"
         }
       ],
-      "duration_ms": 153250,
-      "name": "Stolen Valor",
-      "url": "https://open.spotify.com/track/0BTAdEtKSG7qtaeXqBBJTQ"
+      "duration_ms": 216493,
+      "name": "The Fold",
+      "url": "https://open.spotify.com/track/660D1KONP5QoayR5MUGGcK"
     },
     {
       "added_at": "2026-04-02 20:42:56",
@@ -599,18 +595,22 @@
     {
       "added_at": "2026-04-02 20:42:56",
       "album": {
-        "name": "The Crow Mother",
-        "url": "https://open.spotify.com/album/5hbE2sd26TIlxF6Yw65rDD"
+        "name": "Stolen Valor / Leash",
+        "url": "https://open.spotify.com/album/0bZNmJamdgaE43DEou6ms0"
       },
       "artists": [
         {
-          "name": "Wickerbird",
-          "url": "https://open.spotify.com/artist/5JnB0pjUaCDOuRKRzuS5ti"
+          "name": "Hudson Freeman",
+          "url": "https://open.spotify.com/artist/6k3W2iGuRZrhUnfVZOMQo8"
+        },
+        {
+          "name": "The Bedroomer",
+          "url": "https://open.spotify.com/artist/40nN0AtXvLlPJMnUX7B7SB"
         }
       ],
-      "duration_ms": 216493,
-      "name": "The Fold",
-      "url": "https://open.spotify.com/track/660D1KONP5QoayR5MUGGcK"
+      "duration_ms": 153250,
+      "name": "Stolen Valor",
+      "url": "https://open.spotify.com/track/0BTAdEtKSG7qtaeXqBBJTQ"
     },
     {
       "added_at": "2026-04-02 20:42:56",
@@ -647,18 +647,18 @@
     {
       "added_at": "2026-04-02 20:42:56",
       "album": {
-        "name": "Everyone Around Me Dancing",
-        "url": "https://open.spotify.com/album/0tJnP3ZtJfH3wObknhOhjW"
+        "name": "The Place I Left Behind",
+        "url": "https://open.spotify.com/album/7sdf7F7WFPdCZt20wHR9rU"
       },
       "artists": [
         {
-          "name": "Gia Margaret",
-          "url": "https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C"
+          "name": "The Deep Dark Woods",
+          "url": "https://open.spotify.com/artist/4ug92W02N1YsgX0t5wuXSl"
         }
       ],
-      "duration_ms": 185955,
-      "name": "Everyone Around Me Dancing",
-      "url": "https://open.spotify.com/track/4zAGDYOy1IXm2EX2QhJFWp"
+      "duration_ms": 244840,
+      "name": "The Place I Left Behind",
+      "url": "https://open.spotify.com/track/7BbAqle8lyB3S56Q9MPTZB"
     },
     {
       "added_at": "2026-04-02 20:42:56",
@@ -679,18 +679,18 @@
     {
       "added_at": "2026-04-02 20:42:56",
       "album": {
-        "name": "The Place I Left Behind",
-        "url": "https://open.spotify.com/album/7sdf7F7WFPdCZt20wHR9rU"
+        "name": "Everyone Around Me Dancing",
+        "url": "https://open.spotify.com/album/0tJnP3ZtJfH3wObknhOhjW"
       },
       "artists": [
         {
-          "name": "The Deep Dark Woods",
-          "url": "https://open.spotify.com/artist/4ug92W02N1YsgX0t5wuXSl"
+          "name": "Gia Margaret",
+          "url": "https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C"
         }
       ],
-      "duration_ms": 244840,
-      "name": "The Place I Left Behind",
-      "url": "https://open.spotify.com/track/7BbAqle8lyB3S56Q9MPTZB"
+      "duration_ms": 185955,
+      "name": "Everyone Around Me Dancing",
+      "url": "https://open.spotify.com/track/4zAGDYOy1IXm2EX2QhJFWp"
     },
     {
       "added_at": "2026-04-02 20:42:56",
@@ -875,6 +875,22 @@
     {
       "added_at": "2026-04-02 20:42:56",
       "album": {
+        "name": "Into the Glass - EP",
+        "url": "https://open.spotify.com/album/5ZH8smBHtaFy4NLDAOW7of"
+      },
+      "artists": [
+        {
+          "name": "Laura Doggett",
+          "url": "https://open.spotify.com/artist/2lFvv8FA5ersMzaJyvmeae"
+        }
+      ],
+      "duration_ms": 203360,
+      "name": "Beautiful Undone",
+      "url": "https://open.spotify.com/track/3v8V9sj0bGB4xNtAWvdyNO"
+    },
+    {
+      "added_at": "2026-04-02 20:42:56",
+      "album": {
         "name": "Somebody Desperate (From ''Cyrano'' Soundtrack)",
         "url": "https://open.spotify.com/album/1h6dh2TaMHS9uB9uYxJJCv"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 208546,
       "name": "Magnolia Blues",
       "url": "https://open.spotify.com/track/7piCuE6DVjnko9oTNTqVAO"
-    },
-    {
-      "added_at": "2026-04-02 20:42:56",
-      "album": {
-        "name": "Into the Glass - EP",
-        "url": "https://open.spotify.com/album/5ZH8smBHtaFy4NLDAOW7of"
-      },
-      "artists": [
-        {
-          "name": "Laura Doggett",
-          "url": "https://open.spotify.com/artist/2lFvv8FA5ersMzaJyvmeae"
-        }
-      ],
-      "duration_ms": 203360,
-      "name": "Beautiful Undone",
-      "url": "https://open.spotify.com/track/3v8V9sj0bGB4xNtAWvdyNO"
     },
     {
       "added_at": "2026-04-02 20:42:56",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2026-04-02 20:42:56",
       "album": {
+        "name": "Everything We Do Is Wrong",
+        "url": "https://open.spotify.com/album/28U4nmmCWwmJstiNkjKxMy"
+      },
+      "artists": [
+        {
+          "name": "Tuvaband",
+          "url": "https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT"
+        }
+      ],
+      "duration_ms": 247588,
+      "name": "Everything We Do Is Wrong",
+      "url": "https://open.spotify.com/track/46RSHHcMv3BhuXobfFfAAT"
+    },
+    {
+      "added_at": "2026-04-02 20:42:56",
+      "album": {
         "name": "Ain't No Grave",
         "url": "https://open.spotify.com/album/599qJxheGI6EVVZE2LD2nj"
       },
@@ -1155,18 +1171,18 @@
     {
       "added_at": "2026-04-02 20:42:56",
       "album": {
-        "name": "Everything We Do Is Wrong",
-        "url": "https://open.spotify.com/album/28U4nmmCWwmJstiNkjKxMy"
+        "name": "Oko",
+        "url": "https://open.spotify.com/album/5OPKOFs2I80ODdmHjXmD89"
       },
       "artists": [
         {
-          "name": "Tuvaband",
-          "url": "https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT"
+          "name": "Lena Fayre",
+          "url": "https://open.spotify.com/artist/2d59Uv1mu7Cc8EKdgeVGWQ"
         }
       ],
-      "duration_ms": 247588,
-      "name": "Everything We Do Is Wrong",
-      "url": "https://open.spotify.com/track/46RSHHcMv3BhuXobfFfAAT"
+      "duration_ms": 196160,
+      "name": "Every Man Is a Warrior",
+      "url": "https://open.spotify.com/track/1s7UcC1RY8w1DJMry3ETYD"
     },
     {
       "added_at": "2026-04-02 20:42:56",
@@ -1183,22 +1199,6 @@
       "duration_ms": 252080,
       "name": "House Of Saint Give Me",
       "url": "https://open.spotify.com/track/7qf5OcXb7UC6FHKWNxzxbJ"
-    },
-    {
-      "added_at": "2026-04-02 20:42:56",
-      "album": {
-        "name": "Oko",
-        "url": "https://open.spotify.com/album/5OPKOFs2I80ODdmHjXmD89"
-      },
-      "artists": [
-        {
-          "name": "Lena Fayre",
-          "url": "https://open.spotify.com/artist/2d59Uv1mu7Cc8EKdgeVGWQ"
-        }
-      ],
-      "duration_ms": 196160,
-      "name": "Every Man Is a Warrior",
-      "url": "https://open.spotify.com/track/1s7UcC1RY8w1DJMry3ETYD"
     },
     {
       "added_at": "2026-04-02 20:42:56",
@@ -1555,6 +1555,54 @@
     {
       "added_at": "2026-04-02 20:42:56",
       "album": {
+        "name": "Sirens",
+        "url": "https://open.spotify.com/album/2xXupTEc3wDkMcfp8zDwd4"
+      },
+      "artists": [
+        {
+          "name": "Fleurie",
+          "url": "https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4"
+        }
+      ],
+      "duration_ms": 266277,
+      "name": "Sirens",
+      "url": "https://open.spotify.com/track/31fhJR9Lop1IScpn1B86k6"
+    },
+    {
+      "added_at": "2026-04-02 20:42:56",
+      "album": {
+        "name": "The System Only Dreams in Total Darkness",
+        "url": "https://open.spotify.com/album/3pAiwtyDr7ovW1k9WVLqu9"
+      },
+      "artists": [
+        {
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        }
+      ],
+      "duration_ms": 236746,
+      "name": "The System Only Dreams in Total Darkness",
+      "url": "https://open.spotify.com/track/5t8OscU60DLybml2sjwhri"
+    },
+    {
+      "added_at": "2026-04-02 20:42:56",
+      "album": {
+        "name": "Crush (Stripped)",
+        "url": "https://open.spotify.com/album/1Z4jaVCQECJE5qeOafvWsw"
+      },
+      "artists": [
+        {
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+        }
+      ],
+      "duration_ms": 229565,
+      "name": "Crush - Stripped",
+      "url": "https://open.spotify.com/track/0pvUUXfn0avFTZYOFVjPX4"
+    },
+    {
+      "added_at": "2026-04-02 20:42:56",
+      "album": {
         "name": "Highwomen / Redesigning Women / Crowded Table",
         "url": "https://open.spotify.com/album/0Uwv4WEMv2lX0QDkVLGWg1"
       },
@@ -1591,54 +1639,6 @@
     {
       "added_at": "2026-04-02 20:42:56",
       "album": {
-        "name": "The System Only Dreams in Total Darkness",
-        "url": "https://open.spotify.com/album/3pAiwtyDr7ovW1k9WVLqu9"
-      },
-      "artists": [
-        {
-          "name": "The National",
-          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
-        }
-      ],
-      "duration_ms": 236746,
-      "name": "The System Only Dreams in Total Darkness",
-      "url": "https://open.spotify.com/track/5t8OscU60DLybml2sjwhri"
-    },
-    {
-      "added_at": "2026-04-02 20:42:56",
-      "album": {
-        "name": "Winter",
-        "url": "https://open.spotify.com/album/71K84GjeSWMtFT3sKv3Poz"
-      },
-      "artists": [
-        {
-          "name": "Vancouver Sleep Clinic",
-          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
-        }
-      ],
-      "duration_ms": 311025,
-      "name": "Stakes",
-      "url": "https://open.spotify.com/track/0MrCHY7OM8VjnsfwT3DSsw"
-    },
-    {
-      "added_at": "2026-04-02 20:42:56",
-      "album": {
-        "name": "Marked for Death",
-        "url": "https://open.spotify.com/album/6e5Hr71kvlsrTaNoiuqWu4"
-      },
-      "artists": [
-        {
-          "name": "Emma Ruth Rundle",
-          "url": "https://open.spotify.com/artist/34gLicNdz493863yZTanvC"
-        }
-      ],
-      "duration_ms": 219760,
-      "name": "Marked for Death",
-      "url": "https://open.spotify.com/track/1fLOvLE1XRpvHpLkRHzSym"
-    },
-    {
-      "added_at": "2026-04-02 20:42:56",
-      "album": {
         "name": "Killer + The Sound",
         "url": "https://open.spotify.com/album/4vkODa4y4DQzFOOYfAK8EV"
       },
@@ -1663,18 +1663,18 @@
     {
       "added_at": "2026-04-02 20:42:56",
       "album": {
-        "name": "Notion",
-        "url": "https://open.spotify.com/album/295QySTXTwWvjhah3XVHvg"
+        "name": "Beggin For Thread",
+        "url": "https://open.spotify.com/album/01M8H0qhr6KX78GZKtpHeg"
       },
       "artists": [
         {
-          "name": "Tash Sultana",
-          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
+          "name": "BANKS",
+          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
         }
       ],
-      "duration_ms": 341000,
-      "name": "Notion",
-      "url": "https://open.spotify.com/track/2DkRjzvzTxzeijk0pjSNBD"
+      "duration_ms": 249739,
+      "name": "Beggin For Thread",
+      "url": "https://open.spotify.com/track/0aPM4KDF9pYJSV2obIDTrk"
     }
   ],
   "unique_name": "Dark & Stormy",

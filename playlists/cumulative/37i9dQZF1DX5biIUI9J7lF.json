@@ -41,6 +41,28 @@
     },
     {
       "album": {
+        "name": "24 Karat",
+        "url": "https://open.spotify.com/album/3PCahgqJvo7FDL4rFQ47dA"
+      },
+      "artists": [
+        {
+          "name": "Logos olori",
+          "url": "https://open.spotify.com/artist/4UNUAstUhS75JruJEPeD0Z"
+        },
+        {
+          "name": "Morravey",
+          "url": "https://open.spotify.com/artist/7CIv1IE8oNZQwpeQGHDofV"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147857,
+      "name": "24 Karat",
+      "url": "https://open.spotify.com/track/4zaiuTaf9ZKSNl2uCABFBa"
+    },
+    {
+      "album": {
         "name": "Mahogany St",
         "url": "https://open.spotify.com/album/6abagto1R8w0tTgUCnDY2d"
       },
@@ -128,7 +150,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 148377,
       "name": "ART",
       "url": "https://open.spotify.com/track/40ds3xedbMkWhszkGnZwxi"
@@ -566,7 +588,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 155307,
       "name": "Can't Anymore",
       "url": "https://open.spotify.com/track/6zrZ7mVcznNd2Q6qB0iBrq"
@@ -2408,6 +2430,24 @@
     {
       "album": {
         "name": "Money",
+        "url": "https://open.spotify.com/album/5tL0Es1QypmSnTCRzx0SPJ"
+      },
+      "artists": [
+        {
+          "name": "Charmaine 'L A",
+          "url": "https://open.spotify.com/artist/0XbOSZeNvIJbqZrgdKypsP"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178064,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/1jEFxzaf8WWPcNrmU96gVN"
+    },
+    {
+      "album": {
+        "name": "Money",
         "url": "https://open.spotify.com/album/2HfRsmVTm9PFW7QDPoAtVj"
       },
       "artists": [
@@ -3156,7 +3196,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 155368,
       "name": "Que Sera",
       "url": "https://open.spotify.com/track/0JT39TP99M3D2sA1SdRmdK"
@@ -3302,6 +3342,24 @@
       "duration_ms": 196420,
       "name": "SAD GIRLZ LUV MONEY",
       "url": "https://open.spotify.com/track/2pgDBO0ZAgvye7joSmdDm8"
+    },
+    {
+      "album": {
+        "name": "Selo",
+        "url": "https://open.spotify.com/album/3YKfEmRoPx2Jk1iCdyLGb1"
+      },
+      "artists": [
+        {
+          "name": "Selo",
+          "url": "https://open.spotify.com/artist/2wkAm4lYAXUlTxnXNMx8m2"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164307,
+      "name": "Sade",
+      "url": "https://open.spotify.com/track/05jgKkghbZioBHXTauJqK0"
     },
     {
       "album": {

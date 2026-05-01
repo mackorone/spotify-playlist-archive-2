@@ -4,7 +4,7 @@
 
 > Just wanna Praise the Lord and chill\. Here is a perfect one! Cover: Sal Ly
 
-643 songs - 1 day 11 hr 50 min
+644 songs - 1 day 11 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,6 +154,7 @@
 | [EL GIBOR](https://open.spotify.com/track/6FfG8FIsrsDqMjvFY9bTno) | [Nuelzo](https://open.spotify.com/artist/6CPuXxiR9CqQ0d2irmAlnR), [Echow Clay](https://open.spotify.com/artist/6L3FtVc42qiH1J9PUtdUDu) | [EL GIBOR](https://open.spotify.com/album/03vsdpnVy3jTMRcduHDMEh) | 2:19 | 2024-03-21 | 2024-06-07 |
 | [El Roi](https://open.spotify.com/track/7Asby5UHS9Abm4M4UtSEF9) | [Kushim](https://open.spotify.com/artist/7ySTyvAPMU1SaCLo7fRvHX) | [El Roi](https://open.spotify.com/album/35GGIjcUikr8SU0fZUGIEm) | 2:10 | 2024-08-09 | 2024-11-08 |
 | [El Roi](https://open.spotify.com/track/3RdKxgOgfAgxie976HrBPy) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC) | [El Roi](https://open.spotify.com/album/2kdI0MtVhnJ8QKDTLdtMTG) | 2:48 | 2024-05-03 | 2024-07-05 |
+| [Eleazar](https://open.spotify.com/track/2Z1jbRoCdiCAOjH1hRFxsG) | [Ellie Scotte](https://open.spotify.com/artist/1f3shz4SYjpfZL1dCdinjM) | [Eleazar](https://open.spotify.com/album/1l9hBbuzaq8Dvu9IFKF8DX) | 3:32 | 2026-05-01 |  |
 | [Elijah Level \(with Limoblaze\)](https://open.spotify.com/track/1yEuEyMs30kbMfyEWlEk8h) | [Gaise Baba](https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Elijah Level \(with Limoblaze\)](https://open.spotify.com/album/6FT3RodFpDNE4R4cAhb5O9) | 2:53 | 2023-11-10 |  |
 | [Endless Love](https://open.spotify.com/track/3plpJnQfmj3jYESrMy0nkf) | [Ify Benson](https://open.spotify.com/artist/2KiXfF8UiD0qA7kqMvYKBl) | [Endless Love](https://open.spotify.com/album/0JOkvt0D0woJCdM9T7ZFyo) | 2:51 | 2024-03-29 | 2024-08-16 |
 | [Enough](https://open.spotify.com/track/3sTKNrsUuwIQ13DzlN0YR3) | [Char](https://open.spotify.com/artist/15qYBwVZ3s8UjqAOT8rxGf), [Takunda](https://open.spotify.com/artist/6euX8HpygCP19RCkGJbR6p), [Cleo Arie](https://open.spotify.com/artist/3kPnhC2DzfytfKwustsyqK) | [Enough](https://open.spotify.com/album/3nUA8EVKM3iMk21HFcGEQP) | 3:24 | 2025-05-16 | 2025-09-12 |

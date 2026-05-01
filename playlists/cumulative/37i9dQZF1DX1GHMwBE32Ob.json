@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "From the trenches. Through the streets.\nCover: Bella Shmurda",
+  "description": "From the trenches. Through the streets.\nCover: Asake",
   "name": "Street Energy ",
   "tracks": [
     {
@@ -1583,6 +1583,28 @@
     },
     {
       "album": {
+        "name": "Brother",
+        "url": "https://open.spotify.com/album/0GqNtIzGs7hIEYILcPunhs"
+      },
+      "artists": [
+        {
+          "name": "SuperWozzy",
+          "url": "https://open.spotify.com/artist/0HeYa1Xtc9SKOD6SsF43lS"
+        },
+        {
+          "name": "Barry Jhay",
+          "url": "https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169116,
+      "name": "Brother",
+      "url": "https://open.spotify.com/track/4ORCmAaIPGRAhtA83TXFP7"
+    },
+    {
+      "album": {
         "name": "Buga Won",
         "url": "https://open.spotify.com/album/19EmQRRM4aUj8prMyGNzvP"
       },
@@ -2206,7 +2228,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 168312,
       "name": "Coup\u00e9",
       "url": "https://open.spotify.com/track/7hyoqFb1SsoPW96pcOndPM"
@@ -4206,7 +4228,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 143232,
       "name": "Hot Hot",
       "url": "https://open.spotify.com/track/4Ivexy20vZiJUYq2R7fpP6"
@@ -6046,7 +6068,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 160043,
       "name": "My Amigo",
       "url": "https://open.spotify.com/track/06ANwmMgiOcgBtaxFiPuKk"
@@ -7059,6 +7081,28 @@
     },
     {
       "album": {
+        "name": "PAPASUPE",
+        "url": "https://open.spotify.com/album/08JmkwXWptboZiaC6ROKTL"
+      },
+      "artists": [
+        {
+          "name": "Straffitti",
+          "url": "https://open.spotify.com/artist/4mCGYkTmNnEsnTrIr3atNB"
+        },
+        {
+          "name": "HIGHONFI",
+          "url": "https://open.spotify.com/artist/6je6DxgdIm0CGZTgcIAHJW"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145874,
+      "name": "PAPASUPE",
+      "url": "https://open.spotify.com/track/4Q6crmHEICp46bmvfpBuMy"
+    },
+    {
+      "album": {
         "name": "Paper",
         "url": "https://open.spotify.com/album/1Zio0hgdWu8Ngc5q816ETl"
       },
@@ -7292,7 +7336,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-28",
+      "date_removed": null,
       "duration_ms": 153756,
       "name": "Popo",
       "url": "https://open.spotify.com/track/6bBQmflDHD8a35PeZjw44J"
@@ -7728,7 +7772,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 154285,
       "name": "Rover",
       "url": "https://open.spotify.com/track/6z3msNjyaN5nY0kDt7XCgs"
@@ -8154,6 +8198,24 @@
       "duration_ms": 147096,
       "name": "Sinner Remix (feat. Rybeena)",
       "url": "https://open.spotify.com/track/0MQRgZpFXFGeaXZNx7CSWr"
+    },
+    {
+      "album": {
+        "name": "M$NEY",
+        "url": "https://open.spotify.com/album/07iqzVICrgPFOpXem6MEpU"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183708,
+      "name": "Skilful",
+      "url": "https://open.spotify.com/track/15AxYgYTDLNHW0AuH7Ia0l"
     },
     {
       "album": {

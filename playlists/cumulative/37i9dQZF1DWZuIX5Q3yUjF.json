@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "najma in cover della playlist dell'R&B italiano \ud83e\udec0",
+  "description": "Primo Amore in cover della playlist dell'R&B italiano \ud83e\udec0",
   "name": "anima R&B",
   "tracks": [
     {
@@ -7879,6 +7879,24 @@
     },
     {
       "album": {
+        "name": "How Long Till I Know?",
+        "url": "https://open.spotify.com/album/750289wDSGpJyLGuc7ceRF"
+      },
+      "artists": [
+        {
+          "name": "Naima Adams",
+          "url": "https://open.spotify.com/artist/0uj0S7PeKD9mVamrqi6cRc"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210461,
+      "name": "How Long Till I Know?",
+      "url": "https://open.spotify.com/track/0KhSDWo1kgn0orQPlNvQJk"
+    },
+    {
+      "album": {
         "name": "I film non sono bastati",
         "url": "https://open.spotify.com/album/5WA8sgHBo43yXSqozRbkfS"
       },
@@ -14283,6 +14301,24 @@
     },
     {
       "album": {
+        "name": "Piangere",
+        "url": "https://open.spotify.com/album/7i6P99dIx7CnN1f4pd5d3t"
+      },
+      "artists": [
+        {
+          "name": "Primo Amore",
+          "url": "https://open.spotify.com/artist/6vqyGm4tSHrerJwKwQm7jo"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Piangere",
+      "url": "https://open.spotify.com/track/2ka2vN1xn4lnJx4JhKawBx"
+    },
+    {
+      "album": {
         "name": "Pic Nic",
         "url": "https://open.spotify.com/album/5QqQhhDElbQi9ceUofwYYY"
       },
@@ -14370,7 +14406,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 172235,
       "name": "Pi\u00f9 di te",
       "url": "https://open.spotify.com/track/5jYB5aVYmY8rNDDmhqgLUe"
@@ -16842,7 +16878,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 120000,
       "name": "Slow Down",
       "url": "https://open.spotify.com/track/0XHUZh1ycaZlbjFBIwv5kl"

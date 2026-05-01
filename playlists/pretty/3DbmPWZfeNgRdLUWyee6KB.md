@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,297 likes - 163 songs - 9 hr 22 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,297 likes - 164 songs - 9 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -171,5 +171,6 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 161 | [Show Must Go On](https://open.spotify.com/track/2M1zEJMy2pxdJZHbeIjCdO) | [Bruce Derby](https://open.spotify.com/artist/3L7v52f5rkuzgDWI2BIhJl) | [Show Must Go On](https://open.spotify.com/album/5JOKTzUqHL63Xr3OJ8YZO3) | 3:28 |
 | 162 | [Sono Un Miracolo](https://open.spotify.com/track/4yVD1mtrh1Qd99PJhgLxud) | [DIEGO SPICE](https://open.spotify.com/artist/4tTpREbU5DTxYItQPsSvjZ) | [Sono Un Miracolo](https://open.spotify.com/album/63clVpXhw1tsh2BByiGCFV) | 3:15 |
 | 163 | [Cornerstone](https://open.spotify.com/track/2qk4lvUK6ZUkZasxRuDRSm) | [Hertz Division](https://open.spotify.com/artist/1HzfE16q8XS5zRUvH2hav3) | [Cornerstone](https://open.spotify.com/album/24PJkdgfhDFkICS8YKQ1ml) | 9:39 |
+| 164 | [Tu Teri Baatein...](https://open.spotify.com/track/5W8haJYeMtvytreTyf6E3o) | [Kundan Agarwalla](https://open.spotify.com/artist/5Xyy1yRLlKiSVSgGUdqpHW) | [Tu Teri Baatein...](https://open.spotify.com/album/2Lf1m77LUrTrEo9k7a9nWv) | 3:06 |
 
-Snapshot ID: `AAATiZUs/Zx9mt2+idtshsJ5NutiC/V2`
+Snapshot ID: `AAATilWpJw3s8KzhrS3qkdAEBxxi8t3u`

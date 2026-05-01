@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Lagu-lagu yang wajib ada dalam playlist. Cover: Aufahanie",
+  "description": "Lagu-lagu yang wajib ada dalam playlist. Cover: Adira Suhaimi",
   "name": "Carta Malaysia 50",
   "tracks": [
     {
@@ -198,6 +198,28 @@
       "duration_ms": 305357,
       "name": "Ada titik-titik di ujung doa",
       "url": "https://open.spotify.com/track/1E7zLPDdqo0OvzVmGj5aoV"
+    },
+    {
+      "album": {
+        "name": "Adat Bercinta",
+        "url": "https://open.spotify.com/album/6N66Mn0rnhiTj5L7cx4MVw"
+      },
+      "artists": [
+        {
+          "name": "El Riss",
+          "url": "https://open.spotify.com/artist/198REvNUVAwWZc24QEUwA5"
+        },
+        {
+          "name": "Fana Ibrahim",
+          "url": "https://open.spotify.com/artist/2NHIkjmhEgWu2t46DjMNo5"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247998,
+      "name": "Adat Bercinta",
+      "url": "https://open.spotify.com/track/68zcCCLaQ2Z8PhbTSA3OBn"
     },
     {
       "album": {
@@ -788,7 +810,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 209040,
       "name": "Alamak",
       "url": "https://open.spotify.com/track/1vkwlZncsYqFukl2Q7M6Fe"
@@ -2385,6 +2407,24 @@
     },
     {
       "album": {
+        "name": "Berjauh-an",
+        "url": "https://open.spotify.com/album/3KzmZLoYZirjDqz1xniZCx"
+      },
+      "artists": [
+        {
+          "name": "Aina Abdul",
+          "url": "https://open.spotify.com/artist/48FNCGA8dKjcsfTO3TMcAV"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201917,
+      "name": "Berjauh-an",
+      "url": "https://open.spotify.com/track/2WnUAQPG6NjDDX19MeZlL1"
+    },
+    {
+      "album": {
         "name": "Berkunjung Di Hari Raya",
         "url": "https://open.spotify.com/album/7qhEWs5dLVxEv7jL6vy3aV"
       },
@@ -3114,7 +3154,7 @@
       ],
       "date_added": "2025-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 256500,
       "name": "Break",
       "url": "https://open.spotify.com/track/7fr4AUYWGcrzxJZJc7My4U"
@@ -4284,7 +4324,7 @@
       ],
       "date_added": "2025-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 222409,
       "name": "Dalam Sujudku (Acoustic Version) - From \"Dia Bukan Syurga\"",
       "url": "https://open.spotify.com/track/3pimczIIwVZsVGxSb1r8lc"
@@ -4956,7 +4996,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 240800,
       "name": "Dirimu Yang Dulu",
       "url": "https://open.spotify.com/track/3GIiXoibZNOxoB4QJ0b8UR"
@@ -6878,6 +6918,24 @@
       "duration_ms": 342098,
       "name": "Insan Ku Sayang Kini Menghilang",
       "url": "https://open.spotify.com/track/2GfYkX9TttUK1DkbZPOf48"
+    },
+    {
+      "album": {
+        "name": "Iqro'",
+        "url": "https://open.spotify.com/album/60e4PvVMY5S565Rt56dzHs"
+      },
+      "artists": [
+        {
+          "name": "Raim Laode",
+          "url": "https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234229,
+      "name": "Iqro'",
+      "url": "https://open.spotify.com/track/2YRHj7X19faZv4WZZ3JnZq"
     },
     {
       "album": {
@@ -9651,6 +9709,28 @@
     },
     {
       "album": {
+        "name": "Lemas",
+        "url": "https://open.spotify.com/album/2Do2byhff4CRf3biW4OpW5"
+      },
+      "artists": [
+        {
+          "name": "MC Syze",
+          "url": "https://open.spotify.com/artist/415RH1HJvYXcARc4o4CdBV"
+        },
+        {
+          "name": "Zynakal",
+          "url": "https://open.spotify.com/artist/3Cs5QQYz6pMhbEKaBNCtfi"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205968,
+      "name": "Lemas",
+      "url": "https://open.spotify.com/track/5CIlnvBjsB6pxib9zAsIHi"
+    },
+    {
+      "album": {
         "name": "Lembayung Tari",
         "url": "https://open.spotify.com/album/7CUfwo7Iqn5OUldvgyFo3w"
       },
@@ -10058,6 +10138,28 @@
       "duration_ms": 282692,
       "name": "Malam Semakin Dingin",
       "url": "https://open.spotify.com/track/5ChJqcOG8z9NgSlFwmfYql"
+    },
+    {
+      "album": {
+        "name": "Malam-Malam",
+        "url": "https://open.spotify.com/album/0p6yDqL3srZiEsJNT5pUVT"
+      },
+      "artists": [
+        {
+          "name": "Nuha Bahrin",
+          "url": "https://open.spotify.com/artist/23t2TA28fx4549a1P0Nl65"
+        },
+        {
+          "name": "mimpi.",
+          "url": "https://open.spotify.com/artist/2eeHSawIPcv45fDx6DJkKE"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237931,
+      "name": "Malam-Malam",
+      "url": "https://open.spotify.com/track/19I9vLd5zH7qwk69FGEp7o"
     },
     {
       "album": {
@@ -10512,7 +10614,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 196477,
       "name": "mejikuhibiniu",
       "url": "https://open.spotify.com/track/278PwGlIm7MxVTZud18Rx4"
@@ -10810,7 +10912,7 @@
       ],
       "date_added": "2025-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 228073,
       "name": "Menerima Luka",
       "url": "https://open.spotify.com/track/6Twf2B2IGXAN0YDJeTxkt2"
@@ -12651,6 +12753,24 @@
     },
     {
       "album": {
+        "name": "PERTAMA",
+        "url": "https://open.spotify.com/album/1hT9cvGjdb7hshjqfFn93X"
+      },
+      "artists": [
+        {
+          "name": "Syamel",
+          "url": "https://open.spotify.com/artist/5K7M6xiKbPlcekc5fjqbgx"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177608,
+      "name": "PERTAMA",
+      "url": "https://open.spotify.com/track/3IPcgnb6QeBhUfrzrmdUFM"
+    },
+    {
+      "album": {
         "name": "Pesan",
         "url": "https://open.spotify.com/album/3CiOJJgaP4FjsSTgID65Vi"
       },
@@ -14127,6 +14247,28 @@
     },
     {
       "album": {
+        "name": "Salah Apa",
+        "url": "https://open.spotify.com/album/2MkqThjrrLxqM4mHNCbRDg"
+      },
+      "artists": [
+        {
+          "name": "Sufian Suhaimi",
+          "url": "https://open.spotify.com/artist/6KEEEdAqmCL7PYOrjZCnEa"
+        },
+        {
+          "name": "Aina",
+          "url": "https://open.spotify.com/artist/3M36KGUt2RuwXQuxTDQIEY"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200549,
+      "name": "Salah Apa",
+      "url": "https://open.spotify.com/track/2UnCLMd8IUDDAOnSOz61lw"
+    },
+    {
+      "album": {
         "name": "Salah Hati",
         "url": "https://open.spotify.com/album/1Wc621PJ1RLgLaTuKaFgR9"
       },
@@ -14856,7 +14998,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 211636,
       "name": "Sebuah Puisi",
       "url": "https://open.spotify.com/track/6ruVNtweuLJKcjiS9N4kX7"

@@ -4,7 +4,7 @@
 
 > Aus der Schweiz für dich – musique suisse – musica svizzera 🇨🇭<br/>Cover: Eileen Alister
 
-530 songs - 1 day 3 hr 25 min
+531 songs - 1 day 3 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -276,7 +276,7 @@
 | [liam's intro](https://open.spotify.com/track/0H26CtlG20mYVfKUhUMHAW) | [Hotel Samar](https://open.spotify.com/artist/5hTdjvFe6LAe3J1bni2EmD) | [24 LOST](https://open.spotify.com/album/5Ztkfu449nYasWG1z4esui) | 2:13 | 2025-05-15 | 2025-05-23 |
 | [Liebi](https://open.spotify.com/track/35h8sAhirOlXAytzktfNfr) | [Stubete Gäng](https://open.spotify.com/artist/6NQtXhodb5tNerCDXaX3sN) | [Easy Muni](https://open.spotify.com/album/5P9LPLIdRO4Kx5j2AEMalf) | 2:46 | 2025-05-08 | 2025-05-16 |
 | [Life Of Lies](https://open.spotify.com/track/5wARQNVwaQW8ZeznRJu9UX) | [ZIAN](https://open.spotify.com/artist/0YQgIcmKel8h48AYxofu4J) | [Life Of Lies](https://open.spotify.com/album/3XSZsNcGRgEyEhMaSqdSTM) | 3:20 | 2024-06-27 | 2024-07-04 |
-| [Lighthouse](https://open.spotify.com/track/2Dq95ZPjYsVn3jKWZSY06p) | [Luca Hänni](https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ) | [Lighthouse](https://open.spotify.com/album/0kckDkW8FLWlkEEZOczaiH) | 2:31 | 2025-09-25 |  |
+| [Lighthouse](https://open.spotify.com/track/2Dq95ZPjYsVn3jKWZSY06p) | [Luca Hänni](https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ) | [Lighthouse](https://open.spotify.com/album/0kckDkW8FLWlkEEZOczaiH) | 2:31 | 2025-09-25 | 2026-05-01 |
 | [lights on](https://open.spotify.com/track/7gpGBUeWYmB3HP7hAoS94w) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb) | [lights on](https://open.spotify.com/album/4E9WgmKCjBxNtdYwYWJ6Vu) | 3:15 | 2024-12-20 | 2025-01-03 |
 | [Like You Do](https://open.spotify.com/track/2oSQklnarJ2KxcNBr5XB4e) | [Elena Flury](https://open.spotify.com/artist/3Qje1fgX9cfwugPCAG6Uuy) | [Like You Do](https://open.spotify.com/album/57sa9heTy5qcbLqML5Ubj9) | 3:13 | 2025-12-05 | 2026-04-03 |
 | [Linger](https://open.spotify.com/track/3ICWCYXPGnRLXS1iB0SzkR) | [Jamila](https://open.spotify.com/artist/2BvBcx9p9oqzuOzevudbic) | [Linger](https://open.spotify.com/album/2YX2p7h92C7d7ISvDiz5qG) | 4:04 | 2025-02-14 | 2025-04-02 |
@@ -304,7 +304,7 @@
 | [Mathilda](https://open.spotify.com/track/0WDdn12hdqiLZ0z51XhIk3) | [Lost in Lona](https://open.spotify.com/artist/6GpX7OGPoZNG1GMbtbiOPD) | [Mathilda](https://open.spotify.com/album/62aBfUsSWYtxGhnmIv3RbN) | 4:02 | 2025-03-14 | 2025-11-24 |
 | [Mayhem](https://open.spotify.com/track/0bTNqfjULSzLvDiqO38K4w) | [Nola Kin](https://open.spotify.com/artist/4rr8k0k3ZojhAxZuz1fJ9w) | [Mayhem](https://open.spotify.com/album/4B9uvunHpnqxAuie42u8t1) | 4:28 | 2025-04-17 | 2025-04-25 |
 | [Melody](https://open.spotify.com/track/5wZOJaNBQbOR4adcp4BDNU) | [To Athena](https://open.spotify.com/artist/3sdOf3sXS7uXLIaPQL33fl) | [Aquatic Ballet](https://open.spotify.com/album/5J8qlAxbu3hczWlNi0CuY8) | 4:12 | 2025-05-01 | 2025-05-09 |
-| [Meteoriti](https://open.spotify.com/track/5v97denncuVynKzc9bdhfD) | [Valentino Vivace](https://open.spotify.com/artist/0CHQ6qjh2bf79lPEE6zRUf) | [Meteoriti](https://open.spotify.com/album/3NKSQ3tHskF1jKbfhZgAmp) | 2:47 | 2025-04-24 | 2025-08-16 |
+| [Meteoriti](https://open.spotify.com/track/5v97denncuVynKzc9bdhfD) | [Valentino Vivace](https://open.spotify.com/artist/0CHQ6qjh2bf79lPEE6zRUf) | [Meteoriti](https://open.spotify.com/album/3NKSQ3tHskF1jKbfhZgAmp) | 2:47 | 2025-04-24 |  |
 | [MEXENDO OMBRIN](https://open.spotify.com/track/4q4vNgUjbtSCjUiHfSBLae) | [BAHIANO](https://open.spotify.com/artist/1Eak86FtlSJpUcBi7TXEXA), [Attlanta](https://open.spotify.com/artist/62sBXKsvsgkuSZ93cQHDzr), [Trembart](https://open.spotify.com/artist/4rncj8X31QBuSSXiT5XiIR) | [MEXENDO OMBRIN](https://open.spotify.com/album/76M7ENrL7ywPCi0Nxorryx) | 2:19 | 2025-04-24 | 2025-05-02 |
 | [Mi Mundo](https://open.spotify.com/track/7b52XqwbhEFvsMMqO7YWLT) | [Loco Escrito](https://open.spotify.com/artist/00UMLCX51uNiBzMhQKlwyQ) | [Mi Mundo](https://open.spotify.com/album/6g7qoedFwv2nEjuC05YDUq) | 2:56 | 2024-06-27 | 2024-07-18 |
 | [Migros oder Coop](https://open.spotify.com/track/7DK5IE6ynYeCFRWWqVh5zk) | [Fründe](https://open.spotify.com/artist/2wfimwYFeZLGY59D7cxc3c) | [Migros oder Coop](https://open.spotify.com/album/1cc3f0UR1Gk2L5C3GEEFxM) | 2:40 | 2025-05-08 | 2025-05-16 |
@@ -350,7 +350,7 @@
 | [On Top \(feat\. Leduc\)](https://open.spotify.com/track/38XCNgkiWtLj0Z6sjTHi8h) | [GLIMMERR](https://open.spotify.com/artist/14XQ2jMvDaRdt8wicnAdIA), [Leduc](https://open.spotify.com/artist/30YqOJ5A8rWyKSg2eeECU8) | [On Top \(feat\. Leduc\)](https://open.spotify.com/album/30see9nqvZqfVhEVTpwWGX) | 2:57 | 2026-02-19 | 2026-03-06 |
 | [One Day Will Be All I Have](https://open.spotify.com/track/19wPR7FOTGE51RNh9h5ze3) | [Black Sea Dahu](https://open.spotify.com/artist/5JrIBQLdYU5SkSdu0zrO70) | [One Day Will Be All I Have](https://open.spotify.com/album/6P51bLceVuWLrKxm4C0mIQ) | 5:29 | 2025-06-26 | 2026-03-13 |
 | [Only One I Need](https://open.spotify.com/track/3KjEAu1W14nGLCNA52ib3Q) | [Amaya Gloor](https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x) | [Only One I Need](https://open.spotify.com/album/5yjLnFizgrGtPGdzLjpOgz) | 2:26 | 2024-06-27 | 2024-12-22 |
-| [Only You \(All I Needed\)](https://open.spotify.com/track/4bxLyWVInV5RZkXSiiQtU1) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb), [Symon Hook](https://open.spotify.com/artist/3HilMVXeZFvgpljHR4XgDX) | [Only You \(All I Needed\)](https://open.spotify.com/album/5h3dy6enfXOQVluOduIN9w) | 4:37 | 2026-04-23 |  |
+| [Only You \(All I Needed\)](https://open.spotify.com/track/4bxLyWVInV5RZkXSiiQtU1) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb), [Symon Hook](https://open.spotify.com/artist/3HilMVXeZFvgpljHR4XgDX) | [Only You \(All I Needed\)](https://open.spotify.com/album/5h3dy6enfXOQVluOduIN9w) | 4:37 | 2026-04-23 | 2026-05-01 |
 | [Ordinary Life](https://open.spotify.com/track/1aQ80lTWOLrfLigNkF8ak4) | [Michael Benjamin](https://open.spotify.com/artist/2EczmcWYFrGxMwxxjNbc6r) | [Ordinary Life](https://open.spotify.com/album/0nDY27SVKOzvn063FgBcW5) | 3:15 | 2026-02-19 | 2026-03-06 |
 | [Over](https://open.spotify.com/track/6oblIFG6oGnTH2b1qeERnO) | [Anna Rossinelli](https://open.spotify.com/artist/6sRFCFH0UWtnfvKtzZk42X) | [Over](https://open.spotify.com/album/2D6qLRICcR35S5O2c6qCEp) | 3:02 | 2024-06-27 | 2024-08-20 |
 | [oxygen](https://open.spotify.com/track/2mi0tvl5H88Z7hVvQVA27T) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb) | [oxygen](https://open.spotify.com/album/4EDGkCx4podx97NEbColdz) | 3:04 | 2024-09-27 | 2026-04-24 |
@@ -449,6 +449,7 @@
 | [Telefone](https://open.spotify.com/track/71wA37ZBebeJG2ckJ9FsLv) | [Film 2](https://open.spotify.com/artist/7IVcyzxxgbupWxn6R2SFhZ) | [Telefone](https://open.spotify.com/album/2rzOpU8XegetRKR8Vstbrm) | 3:09 | 2025-04-24 | 2025-05-02 |
 | [Test Drive](https://open.spotify.com/track/5HRN0Lv27ah0HHpVqi6MXP) | [Gil Glaze](https://open.spotify.com/artist/6pNzdcgIaKQKsYNS5agP4V), [Milune](https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe) | [Test Drive](https://open.spotify.com/album/7sG18Qe8wSb1JFdq4a1R9W) | 2:22 | 2025-11-27 | 2026-03-04 |
 | [that life](https://open.spotify.com/track/2h380v9zZM6kaarDPvijMk) | [Benjamin Amaru](https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp) | [i always remember all of my dreams](https://open.spotify.com/album/5uul9EttWCRZtIkvxLwNwq) | 2:51 | 2024-07-19 | 2026-03-27 |
+| [the arrow](https://open.spotify.com/track/2RdFLhXHKs61WVR97Lhx0T) | [Mik Ivy](https://open.spotify.com/artist/2yu0SHmrIif1ZuHxX5s2TA) | [the arrow](https://open.spotify.com/album/5wYO5jRHCsUgzbkqj3F3Hy) | 3:41 | 2026-04-30 |  |
 | [The Code](https://open.spotify.com/track/1EjIXKhNHI00ZLMRpS8iz8) | [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [The Code](https://open.spotify.com/album/30euLVaktPWmngBsGDUYdA) | 3:00 | 2024-06-27 | 2024-10-04 |
 | [The Dragon](https://open.spotify.com/track/4A2iQZ1dpwLY5FGzQGf7tK) | [Black Sea Dahu](https://open.spotify.com/artist/5JrIBQLdYU5SkSdu0zrO70) | [Everything](https://open.spotify.com/album/1hqHsGeJ5dMwe4lPYqaDav) | 6:27 | 2026-02-19 | 2026-04-24 |
 | [The Feast](https://open.spotify.com/track/3zX3qdlhBdjSs0uE1mST8V) | [Mary Middlefield](https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs) | [The Feast](https://open.spotify.com/album/0eNHN1wdo7BA0kP0a2P7Gu) | 5:02 | 2025-10-09 |  |

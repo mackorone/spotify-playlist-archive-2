@@ -3386,7 +3386,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 162150,
       "name": "Low Earth Orbit",
       "url": "https://open.spotify.com/track/1LQ2oQqg55nVzadJouLAzZ"
@@ -4398,6 +4398,24 @@
       "duration_ms": 167994,
       "name": "Pink Aura of Calm",
       "url": "https://open.spotify.com/track/3OzoK27KV6oj7SE7ABx8fo"
+    },
+    {
+      "album": {
+        "name": "Rosefall Sleep",
+        "url": "https://open.spotify.com/album/0g5I60bI4iTerrLwvtSxPt"
+      },
+      "artists": [
+        {
+          "name": "Inscription",
+          "url": "https://open.spotify.com/artist/0MlpjV25yBPHGlsGnsWVYy"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140650,
+      "name": "Pink Baby Dreams",
+      "url": "https://open.spotify.com/track/6B6XrEpZPGjNT8ZsS1IAcw"
     },
     {
       "album": {

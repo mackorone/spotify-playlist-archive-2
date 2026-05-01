@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Discover your new favourite artists with a focus on Germany, Switzerland, Austria. Cover: Zo\u00eb M\u00eb",
+  "description": "Discover your new favourite artists with a focus on Germany, Switzerland, Austria. Cover: Dani Lia",
   "name": "RADAR GSA",
   "tracks": [
     {
@@ -658,7 +658,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 157006,
       "name": "arsch der welt",
       "url": "https://open.spotify.com/track/5Biw0sdkjcyNxBRdA2gkvy"
@@ -2102,6 +2102,24 @@
       "duration_ms": 125560,
       "name": "Daywalker",
       "url": "https://open.spotify.com/track/00daiXpq7Jb76fXCJZA6rN"
+    },
+    {
+      "album": {
+        "name": "baby T EP",
+        "url": "https://open.spotify.com/album/1cpx6JVPFV9fHA2RYbHxqC"
+      },
+      "artists": [
+        {
+          "name": "Dani Lia",
+          "url": "https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132800,
+      "name": "dein buhmann !!!",
+      "url": "https://open.spotify.com/track/5jJcmufdbaUJrG1UiLTKM2"
     },
     {
       "album": {
@@ -4428,6 +4446,28 @@
       "duration_ms": 150757,
       "name": "Isar",
       "url": "https://open.spotify.com/track/3GGRoEdpCINzqIGs9fSGZ8"
+    },
+    {
+      "album": {
+        "name": "isy",
+        "url": "https://open.spotify.com/album/61x7DkhtMaXab0Uu7VCZWL"
+      },
+      "artists": [
+        {
+          "name": "yola",
+          "url": "https://open.spotify.com/artist/6rLUiFCfqWOUPgrfHccwkF"
+        },
+        {
+          "name": "Dani Lia",
+          "url": "https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150199,
+      "name": "isy",
+      "url": "https://open.spotify.com/track/6VJV5UFZTIbVlsGfirZdXH"
     },
     {
       "album": {
@@ -8158,7 +8198,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 162162,
       "name": "Trajad\u00e3o",
       "url": "https://open.spotify.com/track/3C9dOOUF0nUTy1hSvBEe7H"

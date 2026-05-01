@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Cele mai noi hituri pop rom\u00e2ne\u0219ti. Cover: rares",
+  "description": "Cele mai noi hituri pop rom\u00e2ne\u0219ti. Cover: 3 Sud Est, Andra",
   "name": "Hiturile de azi",
   "tracks": [
     {
@@ -2043,6 +2043,28 @@
     },
     {
       "album": {
+        "name": "C\u00e2t s\u0103 te mai a\u0219tept",
+        "url": "https://open.spotify.com/album/6BPomOVyUqaopo1qQG1QMb"
+      },
+      "artists": [
+        {
+          "name": "Alessandra",
+          "url": "https://open.spotify.com/artist/70vx3HiFmZozTbVXsBoOiV"
+        },
+        {
+          "name": "VANILLA",
+          "url": "https://open.spotify.com/artist/1fofiypUoSWqYH2i4frmHn"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142040,
+      "name": "C\u00e2t s\u0103 te mai a\u0219tept",
+      "url": "https://open.spotify.com/track/2incNhwzfSRJ6Vf69PNiBp"
+    },
+    {
+      "album": {
         "name": "C\u00e2te pietre ai aruncat",
         "url": "https://open.spotify.com/album/6G2axtVpnFP3v4OJNgzpLc"
       },
@@ -3581,6 +3603,24 @@
     },
     {
       "album": {
+        "name": "F\u0103-m\u0103, f\u0103-m\u0103",
+        "url": "https://open.spotify.com/album/3G2tclwZPuDWBfu4Kpikii"
+      },
+      "artists": [
+        {
+          "name": "Florian Rus",
+          "url": "https://open.spotify.com/artist/0UPJKLFhLR0GuiBZBLNAsd"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151666,
+      "name": "F\u0103-m\u0103, f\u0103-m\u0103",
+      "url": "https://open.spotify.com/track/3UoPfnZCEO0BotORRdzQT2"
+    },
+    {
+      "album": {
         "name": "F\u0103-\u021bi num\u0103rul",
         "url": "https://open.spotify.com/album/1J2POqIj515c455uR3hkyP"
       },
@@ -3690,7 +3730,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 139416,
       "name": "Gura Lumii",
       "url": "https://open.spotify.com/track/0sxwD8XjQ9XisBvMKyCykm"
@@ -4122,6 +4162,28 @@
       "duration_ms": 197333,
       "name": "In felul meu",
       "url": "https://open.spotify.com/track/3MYQkomhXKVuK57InAhy73"
+    },
+    {
+      "album": {
+        "name": "In Inima E Vara",
+        "url": "https://open.spotify.com/album/5WvXbc0GsSytxh3yykpvU5"
+      },
+      "artists": [
+        {
+          "name": "Edward Sanda",
+          "url": "https://open.spotify.com/artist/2D8tuLHq2d4mctp2WTk62V"
+        },
+        {
+          "name": "BiBi",
+          "url": "https://open.spotify.com/artist/501jZ73SyTVmMX5oAPYwEX"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157263,
+      "name": "In Inima E Vara",
+      "url": "https://open.spotify.com/track/5VjfNK0tyw5EooP4mzYe9t"
     },
     {
       "album": {
@@ -5097,6 +5159,28 @@
     },
     {
       "album": {
+        "name": "Marile Lucruri Mici",
+        "url": "https://open.spotify.com/album/1S7cgoRgaQpcU72V3iYa1W"
+      },
+      "artists": [
+        {
+          "name": "MIRA",
+          "url": "https://open.spotify.com/artist/2nMFC7hWK0haX8ilvRpb59"
+        },
+        {
+          "name": "Sami G",
+          "url": "https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144642,
+      "name": "Marile Lucruri Mici",
+      "url": "https://open.spotify.com/track/65oJkLT7y2naYYZsJnpCCh"
+    },
+    {
+      "album": {
         "name": "Medicamentul",
         "url": "https://open.spotify.com/album/6E44cBbxqQQoDj0QIgLfL2"
       },
@@ -5108,7 +5192,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 146938,
       "name": "Medicamentul",
       "url": "https://open.spotify.com/track/1SSZMcLMahN5RY5tCOhcui"
@@ -5540,7 +5624,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 140869,
       "name": "Ne Suntem",
       "url": "https://open.spotify.com/track/5lQWydJG2xXix6glDujyXM"
@@ -6418,7 +6502,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 121750,
       "name": "Paradox",
       "url": "https://open.spotify.com/track/5OvZHY1nWNepnwMoflNQgf"

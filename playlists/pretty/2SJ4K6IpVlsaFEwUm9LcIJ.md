@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: march\-april 2026 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 24,300 likes - 54 songs - 3 hr 34 min
+[margeaux](https://open.spotify.com/user/1220511975) - 24,301 likes - 54 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 53 | [Weep No More](https://open.spotify.com/track/5gskcAhnBeAsGXf7iPNYFa) | [Dale Hawkins](https://open.spotify.com/artist/7kcPzHlsyJm5tDv7JMcr6T) | [Daredevil](https://open.spotify.com/album/47GBkmfpMMyBvbvkGXaEyR) | 2:48 |
 | 54 | [Andromeda Memories](https://open.spotify.com/track/2kn2qInHsJpYB5RGfYceNc) | [Kyle Gann](https://open.spotify.com/artist/3rMlFoNMznQsgxDW65g5Vi) | [Hyperchromatica](https://open.spotify.com/album/6ypBOzBduhEANZ1FvkPTxk) | 8:23 |
 
-Snapshot ID: `AAAOOd0v6/AuB2P0jvtMCmihPX2mjarC`
+Snapshot ID: `AAAOQDK89NP6p614vC4oA3QPt92jPgva`

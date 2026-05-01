@@ -1799,6 +1799,32 @@
     },
     {
       "album": {
+        "name": "Allondu Illondu (From \"Shrimathi Sindhoora\")",
+        "url": "https://open.spotify.com/album/514HS5Ogx2qMVLnj9l3Ns8"
+      },
+      "artists": [
+        {
+          "name": "Rajesh Ramnath",
+          "url": "https://open.spotify.com/artist/16LPsxS42glKWRU6GVoaTC"
+        },
+        {
+          "name": "Kaviraj",
+          "url": "https://open.spotify.com/artist/4QGaxjeQKdSWgWzzwUa1tM"
+        },
+        {
+          "name": "Hemanth",
+          "url": "https://open.spotify.com/artist/0qAzLiq8xpR9JbRRehpbja"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254874,
+      "name": "Allondu Illondu (From \"Shrimathi Sindhoora\")",
+      "url": "https://open.spotify.com/track/5CM14jcrvDDXcdoMIN9eZh"
+    },
+    {
+      "album": {
         "name": "Alohomora - The True Emperor (From \"The Devil\")",
         "url": "https://open.spotify.com/album/5Umjrn4HvRbsHGF7sLp8Ce"
       },
@@ -14176,7 +14202,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 197234,
       "name": "Gulabi Baby (From \"Alpha # Men Love Vengeance\")",
       "url": "https://open.spotify.com/track/22RUg8QPJe3Hfe4gRUKWTs"
@@ -27508,7 +27534,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 327520,
       "name": "Modala Notake (From \"Bayakegalu Beruridaga\")",
       "url": "https://open.spotify.com/track/5wNyoDsZzgnIKI89cquteq"
@@ -40834,6 +40860,36 @@
       "duration_ms": 99436,
       "name": "Shiva Gangadhara (From\"Apple Cut\")",
       "url": "https://open.spotify.com/track/3cy8YsyWyslgGhjYiiUWix"
+    },
+    {
+      "album": {
+        "name": "KD (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/52HB4F6DHU7Mxwyn1F03Ao"
+      },
+      "artists": [
+        {
+          "name": "Arjun Janya",
+          "url": "https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ"
+        },
+        {
+          "name": "Manjunath B S",
+          "url": "https://open.spotify.com/artist/18tf8gc9uQDYnlzhAR3Jwl"
+        },
+        {
+          "name": "Prem's",
+          "url": "https://open.spotify.com/artist/0gbdi05gJIGYtDMiQ5kbN5"
+        },
+        {
+          "name": "Kailash Kher",
+          "url": "https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208557,
+      "name": "Shiva Shiva",
+      "url": "https://open.spotify.com/track/2O7Y9WOk0WF7CnLJj1PCQM"
     },
     {
       "album": {

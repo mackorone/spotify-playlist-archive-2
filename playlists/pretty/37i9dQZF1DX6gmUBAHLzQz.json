@@ -1,6 +1,6 @@
 {
   "description": "Music from \"Aikatsu!\", a story of young girls dreaming of becoming a top idol. (C)BNP/BANDAI, DENTSU, TV TOKYO\n",
-  "num_followers": 41103,
+  "num_followers": 41114,
   "original_name": "Let's Aikatsu!",
   "owner": {
     "name": "Spotify",
@@ -159,22 +159,6 @@
     {
       "added_at": "2025-04-08 15:07:26",
       "album": {
-        "name": "TV\u30a2\u30cb\u30e1/\u30c7\u30fc\u30bf\u30ab\u30fc\u30c9\u30c0\u30b9\u300e\u30a2\u30a4\u30ab\u30c4!\u300f\u4e3b\u984c\u6b4c/\u633f\u5165\u6b4c 4\u5e74\u76ee",
-        "url": "https://open.spotify.com/album/33FEqBU7HvfqrWtpaOiHRT"
-      },
-      "artists": [
-        {
-          "name": "\u308b\u304b\u30fb\u3082\u306a\u30fb\u307f\u304d from AIKATSU\u2606STARS!",
-          "url": "https://open.spotify.com/artist/6SlV2XvL2mIbMC3AQKAvU6"
-        }
-      ],
-      "duration_ms": 282960,
-      "name": "START DASH SENSATION",
-      "url": "https://open.spotify.com/track/2im2OvKxt6aRnGVpY66o4u"
-    },
-    {
-      "added_at": "2025-04-08 15:07:26",
-      "album": {
         "name": "TV\u30a2\u30cb\u30e1/\u30c7\u30fc\u30bf\u30ab\u30fc\u30c9\u30c0\u30b9\u300e\u30a2\u30a4\u30ab\u30c4!\u300f\u4e3b\u984c\u6b4c/\u633f\u5165\u6b4c 2\u5e74\u76ee2",
         "url": "https://open.spotify.com/album/2HJdoqtoKMRUBkhFwHwXqX"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 237800,
       "name": "\u30aa\u30c8\u30ca\u30e2\u30fc\u30c9",
       "url": "https://open.spotify.com/track/5ejj8EIp3nXMWWzz4pg7iK"
+    },
+    {
+      "added_at": "2025-04-08 15:07:26",
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1/\u30c7\u30fc\u30bf\u30ab\u30fc\u30c9\u30c0\u30b9\u300e\u30a2\u30a4\u30ab\u30c4!\u300f\u4e3b\u984c\u6b4c/\u633f\u5165\u6b4c 4\u5e74\u76ee",
+        "url": "https://open.spotify.com/album/33FEqBU7HvfqrWtpaOiHRT"
+      },
+      "artists": [
+        {
+          "name": "\u308b\u304b\u30fb\u3082\u306a\u30fb\u307f\u304d from AIKATSU\u2606STARS!",
+          "url": "https://open.spotify.com/artist/6SlV2XvL2mIbMC3AQKAvU6"
+        }
+      ],
+      "duration_ms": 282960,
+      "name": "START DASH SENSATION",
+      "url": "https://open.spotify.com/track/2im2OvKxt6aRnGVpY66o4u"
     },
     {
       "added_at": "2025-04-08 15:07:26",
@@ -660,6 +660,22 @@
       },
       "artists": [
         {
+          "name": "\u308c\u307f\u30fb\u308f\u304b from STAR\u2606ANIS",
+          "url": "https://open.spotify.com/artist/00xJMFXojHoKnLRaLGcn3W"
+        }
+      ],
+      "duration_ms": 310106,
+      "name": "G\u7dda\u4e0a\u306eShining Sky",
+      "url": "https://open.spotify.com/track/4u90neOmnIf2dYHqSh5NV0"
+    },
+    {
+      "added_at": "2025-04-08 15:07:26",
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1/\u30c7\u30fc\u30bf\u30ab\u30fc\u30c9\u30c0\u30b9\u300e\u30a2\u30a4\u30ab\u30c4!\u300f\u4e3b\u984c\u6b4c/\u633f\u5165\u6b4c 1\u5e74\u76ee2",
+        "url": "https://open.spotify.com/album/1i7eKjaA0dNEBcKz3nisHZ"
+      },
+      "artists": [
+        {
           "name": "\u3059\u306a\u304a\u30fb\u308a\u3059\u3053from STAR\u2606ANIS",
           "url": "https://open.spotify.com/artist/3XmQQZyJfQs7F0IBjgrkx5"
         }
@@ -671,18 +687,18 @@
     {
       "added_at": "2025-04-08 15:07:26",
       "album": {
-        "name": "TV\u30a2\u30cb\u30e1/\u30c7\u30fc\u30bf\u30ab\u30fc\u30c9\u30c0\u30b9\u300e\u30a2\u30a4\u30ab\u30c4!\u300f\u4e3b\u984c\u6b4c/\u633f\u5165\u6b4c 1\u5e74\u76ee2",
-        "url": "https://open.spotify.com/album/1i7eKjaA0dNEBcKz3nisHZ"
+        "name": "TV\u30a2\u30cb\u30e1/\u30c7\u30fc\u30bf\u30ab\u30fc\u30c9\u30c0\u30b9\u300e\u30a2\u30a4\u30ab\u30c4!\u300f\u4e3b\u984c\u6b4c/\u633f\u5165\u6b4c 4\u5e74\u76ee",
+        "url": "https://open.spotify.com/album/33FEqBU7HvfqrWtpaOiHRT"
       },
       "artists": [
         {
-          "name": "\u308c\u307f\u30fb\u308f\u304b from STAR\u2606ANIS",
-          "url": "https://open.spotify.com/artist/00xJMFXojHoKnLRaLGcn3W"
+          "name": "\u307f\u304d from AIKATSU\u2606STARS!",
+          "url": "https://open.spotify.com/artist/2kcPrscgzChRgiXl9LeKMs"
         }
       ],
-      "duration_ms": 310106,
-      "name": "G\u7dda\u4e0a\u306eShining Sky",
-      "url": "https://open.spotify.com/track/4u90neOmnIf2dYHqSh5NV0"
+      "duration_ms": 225266,
+      "name": "\u30cf\u30ed\u30fc\u30cf\u30ed\u30fc",
+      "url": "https://open.spotify.com/track/0azGDvkKDmSU4J6Nk8KVHE"
     },
     {
       "added_at": "2025-04-08 15:07:26",
@@ -715,22 +731,6 @@
       "duration_ms": 233373,
       "name": "\u8584\u7d05\u30c7\u30a4\u30c8\u30ea\u30c3\u30d1\u30fc",
       "url": "https://open.spotify.com/track/6YiUwixptag2rVsU4DvTJz"
-    },
-    {
-      "added_at": "2025-04-08 15:07:26",
-      "album": {
-        "name": "TV\u30a2\u30cb\u30e1/\u30c7\u30fc\u30bf\u30ab\u30fc\u30c9\u30c0\u30b9\u300e\u30a2\u30a4\u30ab\u30c4!\u300f\u4e3b\u984c\u6b4c/\u633f\u5165\u6b4c 4\u5e74\u76ee",
-        "url": "https://open.spotify.com/album/33FEqBU7HvfqrWtpaOiHRT"
-      },
-      "artists": [
-        {
-          "name": "\u307f\u304d from AIKATSU\u2606STARS!",
-          "url": "https://open.spotify.com/artist/2kcPrscgzChRgiXl9LeKMs"
-        }
-      ],
-      "duration_ms": 225266,
-      "name": "\u30cf\u30ed\u30fc\u30cf\u30ed\u30fc",
-      "url": "https://open.spotify.com/track/0azGDvkKDmSU4J6Nk8KVHE"
     },
     {
       "added_at": "2025-04-08 15:07:26",

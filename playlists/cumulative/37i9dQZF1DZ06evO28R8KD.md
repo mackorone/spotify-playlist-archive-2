@@ -4,7 +4,7 @@
 
 > This is Emily A\. Sprague\. The essential tracks, all in one playlist.
 
-29 songs - 3 hr 9 min
+30 songs - 3 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Each Story](https://open.spotify.com/track/2lsGq0qsufQcmIM30Xfy2J) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Cloud Time](https://open.spotify.com/album/5iy3l3dbcmJUDgwLcb1I9D) | 7:15 | 2026-03-27 |  |
 | [Flew](https://open.spotify.com/track/12wrErlyRy9mocGIy3vgMJ) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Touchtheplants Presents: Breathing Instruments](https://open.spotify.com/album/6eLJW3hB8GMFBmGGw3dvBe) | 3:46 | 2026-03-27 |  |
 | [Friend Forest](https://open.spotify.com/track/7yTiL61OsCjCkHDA6MrDO6) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Friend Forest](https://open.spotify.com/album/1rwhU2oYPJ5lR7dewhMkHj) | 4:12 | 2026-03-27 |  |
+| [Hokkaido](https://open.spotify.com/track/3Ao36qzf7iisNWhJlnOK1z) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Cloud Time](https://open.spotify.com/album/5iy3l3dbcmJUDgwLcb1I9D) | 6:30 | 2026-05-01 |  |
 | [Horizon](https://open.spotify.com/track/28GQO7qa54ouDsWDjKtl0n) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Hill, Flower, Fog](https://open.spotify.com/album/4kUoHjxVlyhhTnmSwM47ol) | 6:24 | 2026-03-27 |  |
 | [Huckleberry](https://open.spotify.com/track/0jzmcBUTN9SqVrFed0NKFV) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Mount Vision](https://open.spotify.com/album/5Er0d89UQnCYtTBoQLZsSr) | 3:03 | 2026-03-27 |  |
 | [Matsumoto](https://open.spotify.com/track/59WgFlWjl0Wgt2D6BPY893) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Cloud Time](https://open.spotify.com/album/5iy3l3dbcmJUDgwLcb1I9D) | 10:10 | 2026-03-27 |  |
@@ -32,7 +33,7 @@
 | [Synth 2](https://open.spotify.com/track/4IMVzTPODkGzYYB1YlhPJ6) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Mount Vision](https://open.spotify.com/album/5Er0d89UQnCYtTBoQLZsSr) | 7:39 | 2026-03-27 |  |
 | [Synth 3](https://open.spotify.com/track/7F2oeHj1KjVGIyIpA8s1XQ) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Mount Vision](https://open.spotify.com/album/5Er0d89UQnCYtTBoQLZsSr) | 4:57 | 2026-03-27 |  |
 | [Tokyo 1](https://open.spotify.com/track/4fwNo9lp1v02Bhzu6CejN2) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Cloud Time](https://open.spotify.com/album/5iy3l3dbcmJUDgwLcb1I9D) | 4:42 | 2026-03-27 |  |
-| [Tokyo 2](https://open.spotify.com/track/5HwlciZrrOMhyAP0Fzdxlr) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Cloud Time](https://open.spotify.com/album/5iy3l3dbcmJUDgwLcb1I9D) | 4:52 | 2026-03-27 |  |
+| [Tokyo 2](https://open.spotify.com/track/5HwlciZrrOMhyAP0Fzdxlr) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Cloud Time](https://open.spotify.com/album/5iy3l3dbcmJUDgwLcb1I9D) | 4:52 | 2026-03-27 | 2026-05-01 |
 | [Water Memory 1](https://open.spotify.com/track/7x1ct7s9fVqkIWwbah9NO1) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Water Memory](https://open.spotify.com/album/7GFnprDHbH3BkxjCiOH0k6) | 7:28 | 2026-03-27 |  |
 | [Water Memory 2](https://open.spotify.com/track/7rlJ6MBVAhgZEPrw58Nuda) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Water Memory](https://open.spotify.com/album/7GFnprDHbH3BkxjCiOH0k6) | 9:01 | 2026-03-27 |  |
 | [Woven](https://open.spotify.com/track/70kQ67AxENqAghLsofvC8c) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Hill, Flower, Fog](https://open.spotify.com/album/4kUoHjxVlyhhTnmSwM47ol) | 5:51 | 2026-03-27 |  |

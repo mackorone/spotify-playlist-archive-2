@@ -3336,7 +3336,7 @@
       ],
       "date_added": "2026-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 152000,
       "name": "Ain't Enough",
       "url": "https://open.spotify.com/track/5ofK3wDpquraUzzoxD6imV"
@@ -12676,7 +12676,7 @@
       ],
       "date_added": "2026-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 191931,
       "name": "Boots on Fire",
       "url": "https://open.spotify.com/track/0npzYK1nkQAGJdRTSIrli6"
@@ -16242,6 +16242,24 @@
       "duration_ms": 193011,
       "name": "Car Door",
       "url": "https://open.spotify.com/track/76wAXKTEUkk9vwCw1BRHBu"
+    },
+    {
+      "album": {
+        "name": "CARAMELO",
+        "url": "https://open.spotify.com/album/34UMRjWrOGNsyzMEIYR289"
+      },
+      "artists": [
+        {
+          "name": "Valeria Mare",
+          "url": "https://open.spotify.com/artist/28N9wrQua2k9Z60P0XZ5fg"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241317,
+      "name": "CARAMELO",
+      "url": "https://open.spotify.com/track/09kUYHmTJDXCCdfw3WjsE7"
     },
     {
       "album": {
@@ -20937,6 +20955,24 @@
     },
     {
       "album": {
+        "name": "Tailgates & Tanlines",
+        "url": "https://open.spotify.com/album/5IyIjKnGkQbYGVpWenblSe"
+      },
+      "artists": [
+        {
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225560,
+      "name": "Country Girl (Shake It For Me)",
+      "url": "https://open.spotify.com/track/0JbSghVDghtFEurrSO8JrC"
+    },
+    {
+      "album": {
         "name": "Country in Me",
         "url": "https://open.spotify.com/album/4WEzBL2dKaXmRWxQFRGPxP"
       },
@@ -24866,6 +24902,24 @@
       "duration_ms": 247797,
       "name": "Directions",
       "url": "https://open.spotify.com/track/6qQMgHCGCm8QTMq1rzkpR3"
+    },
+    {
+      "album": {
+        "name": "California Sunrise",
+        "url": "https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ"
+      },
+      "artists": [
+        {
+          "name": "Jon Pardi",
+          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201893,
+      "name": "Dirt On My Boots",
+      "url": "https://open.spotify.com/track/7f08qp3HROTkfrtNpiYGGo"
     },
     {
       "album": {
@@ -61162,7 +61216,7 @@
       ],
       "date_added": "2026-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 157738,
       "name": "Mamacita",
       "url": "https://open.spotify.com/track/7mzV281D5QKOZ3zdOXickK"
@@ -67872,7 +67926,7 @@
       ],
       "date_added": "2026-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 191316,
       "name": "Night In The Country",
       "url": "https://open.spotify.com/track/24NiZ5a30cLJnZuiK6XrwL"
@@ -96079,6 +96133,24 @@
     },
     {
       "album": {
+        "name": "Traveller",
+        "url": "https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293293,
+      "name": "Tennessee Whiskey",
+      "url": "https://open.spotify.com/track/3fqwjXwUGN6vbzIwvyFMhx"
+    },
+    {
+      "album": {
         "name": "Tenth Street",
         "url": "https://open.spotify.com/album/0l313Ww6G1mfVfvmIOAOqb"
       },
@@ -98150,6 +98222,10 @@
         {
           "name": "A3",
           "url": "https://open.spotify.com/artist/5hQa99PDLWHdKY7xc90hcq"
+        },
+        {
+          "name": "Killawatts",
+          "url": "https://open.spotify.com/artist/0TQJy40YfM6LZWvs1P9xwe"
         },
         {
           "name": "350",
@@ -109120,7 +109196,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 164989,
       "name": "Whine for Me Baby",
       "url": "https://open.spotify.com/track/7FPDQLUrbCqWGguc09SQHZ"

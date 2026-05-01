@@ -1157,6 +1157,24 @@
     },
     {
       "album": {
+        "name": "Elliott",
+        "url": "https://open.spotify.com/album/3LTATpdZP4sE3UocHfEHit"
+      },
+      "artists": [
+        {
+          "name": "Blankass",
+          "url": "https://open.spotify.com/artist/1FSEVDIvXWHWPmPeCuka03"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226586,
+      "name": "Qui que tu sois",
+      "url": "https://open.spotify.com/track/6oS7ATqkkkuPH96EaUht4t"
+    },
+    {
+      "album": {
         "name": "Aston Villa",
         "url": "https://open.spotify.com/album/6JkbhM2APycjDSEV6e1vlm"
       },
@@ -1168,7 +1186,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 307440,
       "name": "Raisonne",
       "url": "https://open.spotify.com/track/7hSTh1YWoPGMlVnevO6Rev"

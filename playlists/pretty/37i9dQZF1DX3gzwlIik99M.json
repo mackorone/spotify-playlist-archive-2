@@ -1,6 +1,6 @@
 {
   "description": "Metal hecho en Iberoam\u00e9rica. Bandas que ya conoces y que est\u00e1s a punto de conocer. Foto: Sepultura",
-  "num_followers": 203929,
+  "num_followers": 203924,
   "original_name": "Metal del Nuestro",
   "owner": {
     "name": "Spotify",
@@ -695,6 +695,22 @@
     {
       "added_at": "2025-09-18 22:01:59",
       "album": {
+        "name": "Radix Nebul\u00e6",
+        "url": "https://open.spotify.com/album/5mIVWC2ZAcehl7Gv02jXzX"
+      },
+      "artists": [
+        {
+          "name": "SYRACUS\u00c6",
+          "url": "https://open.spotify.com/artist/3s5NSrjy5sXASsWsm55iPy"
+        }
+      ],
+      "duration_ms": 241333,
+      "name": "Exoplanets",
+      "url": "https://open.spotify.com/track/0XGjcnZsOeAcNILNBlo27t"
+    },
+    {
+      "added_at": "2025-09-18 22:01:59",
+      "album": {
         "name": "Death Based Illusions",
         "url": "https://open.spotify.com/album/3srYoLcpQ2m6oDMyvJQ5af"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 180773,
       "name": "Victimized",
       "url": "https://open.spotify.com/track/6OSb8LkFYX7kUSDzSmphxH"
-    },
-    {
-      "added_at": "2025-09-18 22:01:59",
-      "album": {
-        "name": "Radix Nebul\u00e6",
-        "url": "https://open.spotify.com/album/5mIVWC2ZAcehl7Gv02jXzX"
-      },
-      "artists": [
-        {
-          "name": "SYRACUS\u00c6",
-          "url": "https://open.spotify.com/artist/3s5NSrjy5sXASsWsm55iPy"
-        }
-      ],
-      "duration_ms": 241333,
-      "name": "Exoplanets",
-      "url": "https://open.spotify.com/track/0XGjcnZsOeAcNILNBlo27t"
     },
     {
       "added_at": "2025-09-18 22:01:59",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-[Lucciago](https://open.spotify.com/user/1217609118) - 568 likes - 2,579 songs - 6 day 6 hr 34 min
+[Lucciago](https://open.spotify.com/user/1217609118) - 568 likes - 2,586 songs - 6 day 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2587,5 +2587,12 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 | 2577 | [Nosebleed, Skinned Knees](https://open.spotify.com/track/24pmvgNvto2Xed5Dcbwwgd) | [you](https://open.spotify.com/artist/0kLi0duqyWyoRkfqBv4lja) | [Nosebleed, Skinned Knees](https://open.spotify.com/album/5HAMfPYtA7SxJYx65ua1Vf) | 4:43 |
 | 2578 | [Getting Better](https://open.spotify.com/track/51TnoMTgxnby8krQ5naJMp) | [MARIÁN](https://open.spotify.com/artist/2H1Jbja6SX4flZDRbhPIRY) | [Esperta, muller salvaxe](https://open.spotify.com/album/4a9uxwU0G2hlIdJGeuxPlJ) | 3:21 |
 | 2579 | [Swamp Mother](https://open.spotify.com/track/5AMxT1InHsOVuaxW8qYaVF) | [Live Oak Sunburst](https://open.spotify.com/artist/4QHJTuyBl6eDWAikRZaAmB) | [Swamp Mother](https://open.spotify.com/album/7ncJaA6HNWg3GSFEa1abAc) | 3:42 |
+| 2580 | [Again Please](https://open.spotify.com/track/1V5yJAm6tdr4u7WqSWipyL) | [Crumb Catcher](https://open.spotify.com/artist/5zAP2alk6lWFK14KVvKkgB) | [Big Crunch](https://open.spotify.com/album/6k0iGiN9qufQrIEP70PY0l) | 2:54 |
+| 2581 | [Heart of a Coward](https://open.spotify.com/track/7vmfuBMDV2eQsjFm2rLPLv) | [Starikova](https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA) | [Heart of a Coward / Maelstrom](https://open.spotify.com/album/2GFTJ5HJLN861GRR7jpwGB) | 4:30 |
+| 2582 | [Dust and Daydreams](https://open.spotify.com/track/2m9TT5WJzqtbfSEQAdIMzW) | [Georgia Lane](https://open.spotify.com/artist/4xxJa1Woe9hyXNNhcAKC7d) | [Somewhere Soft to Land](https://open.spotify.com/album/0S1cri4TgZKMK8t0B2brYO) | 4:24 |
+| 2583 | [Eleven](https://open.spotify.com/track/2EkUkbeiNt3NnzSxCFSeEO) | [SoulViolent](https://open.spotify.com/artist/5E0wQHVY3j0FxqvzRRMFL6) | [Eleven](https://open.spotify.com/album/4rIbX4RtmVmxmWSVJJC8ld) | 3:13 |
+| 2584 | [Another Day](https://open.spotify.com/track/2EDvPdNKvtYm7rHLfbryEm) | [Shot Country Music](https://open.spotify.com/artist/6SD9T39XbxmQ0U0fWkhiM7) | [Another Day](https://open.spotify.com/album/3MMdSh0seRTFxfKDRny8Jk) | 3:54 |
+| 2585 | [Ready for the Night](https://open.spotify.com/track/7Azpn8KM9E6N0atZ4QiCWE) | [9R4Y](https://open.spotify.com/artist/5n3xdPC0zbQqVSeDhmHXKi) | [Ready for the Night](https://open.spotify.com/album/0p3hnk7MLrndeUHYaseRY1) | 2:59 |
+| 2586 | [My Bet](https://open.spotify.com/track/1iGN1uof6nBX6QhLlm9TVL) | [Matt Vandenbosch](https://open.spotify.com/artist/7LqZeuirV62YpCrjusWckb) | [My Bet](https://open.spotify.com/album/2jbcRY4XlxOa9s29boIM8S) | 3:34 |
 
-Snapshot ID: `AAAKrKbmXDLEsqpDCw/Uajxx8e/MQUiz`
+Snapshot ID: `AAAKsyQtS9XEGa7Xz216ju/+EKYBHf5t`

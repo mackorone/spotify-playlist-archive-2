@@ -2300,7 +2300,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 131201,
       "name": "gar nichts//demo",
       "url": "https://open.spotify.com/track/50cKrXByzxnPS2mAymEicy"
@@ -3171,6 +3171,28 @@
     },
     {
       "album": {
+        "name": "isy",
+        "url": "https://open.spotify.com/album/61x7DkhtMaXab0Uu7VCZWL"
+      },
+      "artists": [
+        {
+          "name": "yola",
+          "url": "https://open.spotify.com/artist/6rLUiFCfqWOUPgrfHccwkF"
+        },
+        {
+          "name": "Dani Lia",
+          "url": "https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150199,
+      "name": "isy",
+      "url": "https://open.spotify.com/track/6VJV5UFZTIbVlsGfirZdXH"
+    },
+    {
+      "album": {
         "name": "Permanent Damage",
         "url": "https://open.spotify.com/album/60xQwaySMQP4FcCvUncGIF"
       },
@@ -3842,7 +3864,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 155291,
       "name": "LOVESICK",
       "url": "https://open.spotify.com/track/18ALUYjsSaLgLH8D6gcQ8t"
@@ -4290,7 +4312,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-29",
+      "date_removed": null,
       "duration_ms": 178893,
       "name": "Mother Nature",
       "url": "https://open.spotify.com/track/4kYfZeuXXmCWLvhnPIjyr1"
@@ -4796,7 +4818,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 167375,
       "name": "paarsekunden",
       "url": "https://open.spotify.com/track/5gGP2ULTc8ryfTI8tKa4s0"
@@ -5152,6 +5174,24 @@
       "duration_ms": 160600,
       "name": "Real Man",
       "url": "https://open.spotify.com/track/0OpC8hRrbsh24taKOsQBEX"
+    },
+    {
+      "album": {
+        "name": "Red Eyes",
+        "url": "https://open.spotify.com/album/5hwLvoCc9yBVa8Arvv44kW"
+      },
+      "artists": [
+        {
+          "name": "Loi",
+          "url": "https://open.spotify.com/artist/574qIjE9UTvfSvtnIrdLaE"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153027,
+      "name": "Red Eyes",
+      "url": "https://open.spotify.com/track/2GAsClEKgfAlU3lyIdCrUK"
     },
     {
       "album": {
@@ -6336,6 +6376,24 @@
       "duration_ms": 158205,
       "name": "Sundress",
       "url": "https://open.spotify.com/track/2aPTvyE09vUCRwVvj0I8WK"
+    },
+    {
+      "album": {
+        "name": "How Did I Get Here?",
+        "url": "https://open.spotify.com/album/5Ihp8gEWnduyUdUqcxqkzB"
+      },
+      "artists": [
+        {
+          "name": "Louis Tomlinson",
+          "url": "https://open.spotify.com/artist/57WHJIHrjOE3iAxpihhMnp"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239586,
+      "name": "Sunflowers",
+      "url": "https://open.spotify.com/track/7oM4Kb4yGpU2F12UFWJMcY"
     },
     {
       "album": {
@@ -7570,7 +7628,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 160000,
       "name": "You Make Me Feel Loved",
       "url": "https://open.spotify.com/track/4NUvU9yvJHA28kD3bND0y2"

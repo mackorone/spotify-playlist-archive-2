@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Du neuf, du bon, du franco! Roxane Bruneau, Jay Scott, SHAH Frank, Thierry Larose, et plus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,997 likes - 101 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,015 likes - 101 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 4 | [Buzzé \- Punk Rock](https://open.spotify.com/track/3smLsbmf4dgE4vSuZSlxeY) | [Jay Scøtt](https://open.spotify.com/artist/3G9XTWY09egHqHlbRcP5cx), [Son garage band](https://open.spotify.com/artist/6xsHGX8AE3OsgvHB8pVxSk) | [Buzzé Pack](https://open.spotify.com/album/3ifgCpBb6nVh76QEVGldnI) | 3:17 |
 | 5 | [On est toute pareils \(feat\. King Melrose, Marc Dupré\)](https://open.spotify.com/track/7nR7C9APStACbghBNx6ITX) | [Classe Moyenne](https://open.spotify.com/artist/4MStgkjCDOLFVmyMMmUo9v), [Gabriel Fredette](https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4), [Justin Roy](https://open.spotify.com/artist/0fQlhpsdr8Qg3w1PDQ7xIc), [Phil Rxcket](https://open.spotify.com/artist/6WvhHcxi6ddlrEoaeYrRVt), [Zach Chico](https://open.spotify.com/artist/3vBQx85S7A8c09r9FATr37), [Marc Dupré](https://open.spotify.com/artist/6JhWoD4lxBqIkSYfhrWMDx), [King Melrose](https://open.spotify.com/artist/2AQF1jj79zuIK0HFMSPn91) | [On est toute pareils](https://open.spotify.com/album/0PXh4i9KEnomQ5IV1QJ7Vp) | 2:48 |
 | 6 | [Volcan](https://open.spotify.com/track/3vjYyj1gX366reLyUQmktz) | [Laurence Castera](https://open.spotify.com/artist/4lBTYV3dOG4aAFKyKmeHsx) | [Les choses qui nous liaient](https://open.spotify.com/album/1U0LS6f7ZbiDsv9l3pjQco) | 3:12 |
-| 7 | [Jeûner](https://open.spotify.com/track/2H7jW4UN2PKU0iEwpsrorO) | [VioleTT Pi](https://open.spotify.com/artist/1kQY8Lg1LUIL23eT1DSGx7) | [Jeûner](https://open.spotify.com/album/0mESF8wP5W64W6r4sMtlvT) | 3:26 |
+| 7 | [Jeûner](https://open.spotify.com/track/2H7jW4UN2PKU0iEwpsrorO) | [VioleTT Pi](https://open.spotify.com/artist/1kQY8Lg1LUIL23eT1DSGx7), [Klô Pelgag](https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi) | [Jeûner](https://open.spotify.com/album/0mESF8wP5W64W6r4sMtlvT) | 3:26 |
 | 8 | [L'Année des Roses](https://open.spotify.com/track/5EJYOb3NmuxQ242lzQ51La) | [SHAH FRANK](https://open.spotify.com/artist/4NetfCwJqpbsV7dSihbDD5), [Naomi](https://open.spotify.com/artist/7kCkigPAOvUemaGziItnCo), [Zoey](https://open.spotify.com/artist/3N4ERrK5amfWXJ7WQ7hgba), [Nicole Musoni](https://open.spotify.com/artist/6EQpZICBwIPuX7vai52dPa) | [L'Année des Roses](https://open.spotify.com/album/5z4TRseMni86bpyvZ7Fpa9) | 2:49 |
 | 9 | [Je tombe](https://open.spotify.com/track/7tgij5FLOuvaCdiBSXqkRX) | [Täbï Yösha](https://open.spotify.com/artist/7mFQZ0JDq4jMjWXGyaU8EO) | [Je tombe](https://open.spotify.com/album/4CFAFCv7EOAQRBNJ024L8d) | 2:54 |
 | 10 | [Graal](https://open.spotify.com/track/6OrFwXW7Kp5Ql6M9S33PT8) | [Lydia Képinski](https://open.spotify.com/artist/6lqpzCZWhymonpvpAVKx0C) | [Graal](https://open.spotify.com/album/6wB0JxKWJVKMv70Zxm854a) | 3:00 |
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 37 | [Où sont passés mes rêves](https://open.spotify.com/track/1s0C6Fg6vqHBLJRLF4m86o) | [Vice du Nord](https://open.spotify.com/artist/4yJ5foa0Em55APjnvFE6qm) | [Où sont passés mes rêves](https://open.spotify.com/album/4vjRJyB147KrMbpTLeqaqI) | 3:25 |
 | 38 | [monstre](https://open.spotify.com/track/2dDIIRccwOvgxxPf9jIyNZ) | [Xavier Euphory](https://open.spotify.com/artist/0uHOElDo0UUKXn6LzLS2Wg) | [monstre](https://open.spotify.com/album/4I7cw7vvy3FbXDHpqvPgRL) | 2:18 |
 | 39 | [Vivre avec celui qu'on aime](https://open.spotify.com/track/4bnO2CdNQVwizYiT3sUzy2) | [Marie\-Chantal Toupin](https://open.spotify.com/artist/5uMfnmb3ObrjAIi7pNySQe) | [Vivre avec celui qu'on aime](https://open.spotify.com/album/2LaffsCYT3ZHW8HbX3E5WV) | 3:48 |
-| 40 | [ET Si DEMAiN \(feat\. TDH\)](https://open.spotify.com/track/3iQt9CJrNgD71YFsq0GdhC) | [ENOMIS](https://open.spotify.com/artist/7EBKk7SrOTPGHaLDh9nsiB), [TDH](https://open.spotify.com/artist/1pFYAdXD5dgTdJBa68uHfq) | [BULLE](https://open.spotify.com/album/7Jg9w3OAg6D3IAl3FYqWWq) | 3:31 |
+| 40 | [ET Si DEMAiN \(feat\. TDH\)](https://open.spotify.com/track/3iQt9CJrNgD71YFsq0GdhC) | [ENOMiS](https://open.spotify.com/artist/7EBKk7SrOTPGHaLDh9nsiB), [TDH](https://open.spotify.com/artist/1pFYAdXD5dgTdJBa68uHfq) | [BULLE](https://open.spotify.com/album/7Jg9w3OAg6D3IAl3FYqWWq) | 3:31 |
 | 41 | [le port des gens mal\-aimés](https://open.spotify.com/track/3bTlKuRgB2WqmpVTTdws55) | [aupinard](https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne) | [spleen\. social club](https://open.spotify.com/album/6zfiNo6nUuPrVoawomWkEK) | 2:38 |
 | 42 | [On ne reviendrait plus jamais](https://open.spotify.com/track/4bdM17vSfqpAvtz7YOrRYk) | [Vernis Rouge](https://open.spotify.com/artist/6Miu2EYSCD74K7VzDYostC) | [On ne reviendrait plus jamais](https://open.spotify.com/album/5drozBXtI9E3vm7woO5yxV) | 2:49 |
 | 43 | [Rien à carrer](https://open.spotify.com/track/2Z6pOBVtqEktMXd4jyLvHi) | [Lenaïg](https://open.spotify.com/artist/7LBRgobZF7IvkSKljcuGDb) | [Rien à carrer](https://open.spotify.com/album/23UB058w8VPfTSZRvx1Z6A) | 2:48 |

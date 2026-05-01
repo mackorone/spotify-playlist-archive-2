@@ -4,7 +4,7 @@
 
 > Classic Disney songs reimagined by your favorite popular artists.
 
-153 songs - 8 hr 11 min
+154 songs - 8 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Lost in the Woods \- Weezer Version](https://open.spotify.com/track/227zkOoNpqRrzEPxvVRiF5) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Frozen 2 \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz) | 3:05 | 2025-05-21 |  |
 | [Love Is an Open Door](https://open.spotify.com/track/68jg6wseZjKSJ0HUMjNS7C) | [DCappella](https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm) | [Love Is an Open Door](https://open.spotify.com/album/6slcWjDG8l1CKq02C8u2gQ) | 2:05 | 2025-05-21 |  |
 | [Mahna Mahna](https://open.spotify.com/track/1mxnywNGNeSYvMQdNJ4Fy7) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [Muppets: The Green Album](https://open.spotify.com/album/77klgRm6FxdgXYArYvXGYj) | 2:13 | 2025-05-21 |  |
+| [Mickey Mouse Clubhouse Theme \(Toddler Techno Remix\) \- From: "Mickey Mouse Clubhouse”](https://open.spotify.com/track/1zFsGb2xEcJUtclxJvGLRh) | [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H), [Lenny Pearce](https://open.spotify.com/artist/7uIJwRIdyBYonDeoFJCqh8) | [Mickey Mouse Clubhouse Theme \(Toddler Techno Remix\) \[From: "Mickey Mouse Clubhouse”\]](https://open.spotify.com/album/7iEIF90Rkwfm2tUNROIfI3) | 1:26 | 2026-04-30 |  |
 | [Movin' Right Along](https://open.spotify.com/track/3B9y94mviI5jHtjiSv6UyP) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN) | [Disney Peaceful Piano: Focus](https://open.spotify.com/album/2M12PscQNEqhVaKd2wu1d9) | 3:06 | 2025-05-21 |  |
 | [Muppet Show Theme Song](https://open.spotify.com/track/4C41MlLFkTTL5CwnshWgZF) | [OK Go](https://open.spotify.com/artist/3hozsZ9hqNq7CoBGYNlFTz) | [Muppets: The Green Album](https://open.spotify.com/album/77klgRm6FxdgXYArYvXGYj) | 2:36 | 2025-05-21 |  |
 | [Never Knew I Needed \- From "The Princess and the Frog"/Soundtrack Version](https://open.spotify.com/track/4LtNVbnOZK34t9mtLSRNe5) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [The Princess and the Frog](https://open.spotify.com/album/6zgvBxOmfWxrQi4Jxxki0P) | 3:37 | 2025-05-21 |  |

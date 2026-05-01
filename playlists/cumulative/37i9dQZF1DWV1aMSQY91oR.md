@@ -4,7 +4,7 @@
 
 > The latest in hip\-hop, updated weekly\. Cover: Cadence Weapon & Junia\-T
 
-4,836 songs - 9 day 14 hr 43 min
+4,837 songs - 9 day 14 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2167,6 +2167,7 @@
 | [Jet Lag](https://open.spotify.com/track/2qnRlW2WMLDYmr4jfySdaS) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S) | [Wiz Owens](https://open.spotify.com/album/4BSjZSAOEX6Gs4f8e1xatg) | 3:24 | 2024-08-02 | 2024-08-10 |
 | [JET\-LAGGED \(feat\. Dessy Hinds\)](https://open.spotify.com/track/3eb0YWYjZve514IGnh14FJ) | [Nyck Caution](https://open.spotify.com/artist/1ZyUXvaBXUsIZ3JD6jYGkt), [Chuck Strangers](https://open.spotify.com/artist/1o1szEyRkKUmDfqHOsU9b5), [Aaron Rose](https://open.spotify.com/artist/1IY0Lt7LmEXwWOrD4vpkxe), [Dessy Hinds](https://open.spotify.com/artist/6t1fFxQU1MsTjxteXhBNgl) | [JET\-LAGGED \(feat\. Dessy Hinds\)](https://open.spotify.com/album/200JG0yd1VQruQkuFK7tQV) | 2:12 | 2023-04-07 | 2023-04-15 |
 | [JEUX](https://open.spotify.com/track/318BY3JYjVlvn759oRWM12) | [Ms\. Bella](https://open.spotify.com/artist/75Y3RKposeHizzrQZyg6A7) | [JEUX](https://open.spotify.com/album/2FFqxetRyjLukRpc5TzuxC) | 2:34 | 2025-01-03 | 2025-01-11 |
+| [Jezebel](https://open.spotify.com/track/2ww5S3KQ6d73WAVbPXgCPC) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [Jezebel](https://open.spotify.com/album/2wCruyJJvR1rEJcKYNhqgv) | 1:58 | 2026-04-24 |  |
 | [Job](https://open.spotify.com/track/4pcKa72ZXndYzdMAhyh0AS) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Job](https://open.spotify.com/album/6VVSZP5emclTDs5QLSGvnP) | 3:21 | 2025-09-05 | 2025-09-13 |
 | [Job's Not Done \(feat\. ERA\)](https://open.spotify.com/track/2h6zYUzAGc6LNE0jLkazkm) | [Kidwild](https://open.spotify.com/artist/5IR3SxDdtCCw6KD1aoF6w9), [ERA](https://open.spotify.com/artist/4Aefs4DWkn6zjggzBiK7Gj) | [Job's Not Done \(feat\. ERA\)](https://open.spotify.com/album/07DLX06IuDYwIdrbu0K1bq) | 2:27 | 2026-02-06 | 2026-02-21 |
 | [John Daly](https://open.spotify.com/track/5YoLHC151z0wgVAqd30wLR) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw) | [John Daly](https://open.spotify.com/album/5pFHL2w0C60mksfXLlm73x) | 2:04 | 2025-05-23 | 2025-05-31 |

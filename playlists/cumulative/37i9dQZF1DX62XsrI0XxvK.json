@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-04-26",
-  "description": "Irama R&B tanah air yang merasuk jiwa. Cover: Dominique Adhadiaz",
+  "description": "Irama R&B tanah air yang merasuk jiwa. Cover: Canti",
   "name": "JIVVA",
   "tracks": [
     {
@@ -168,7 +168,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 214588,
       "name": "Again",
       "url": "https://open.spotify.com/track/1VyIAhJTXnOPH2tS0XmxTK"
@@ -212,6 +212,32 @@
       "duration_ms": 257846,
       "name": "All of Our Friends",
       "url": "https://open.spotify.com/track/5n04xhk5uLiRODhnms3eow"
+    },
+    {
+      "album": {
+        "name": "All U Want (feat. Keianka)",
+        "url": "https://open.spotify.com/album/4hGfIJEm3zbEZNNy2foyMR"
+      },
+      "artists": [
+        {
+          "name": "Jakarta Soul System",
+          "url": "https://open.spotify.com/artist/5twqzbPbyXbM4qrZejp5QP"
+        },
+        {
+          "name": "Bryan Renaldo",
+          "url": "https://open.spotify.com/artist/31cKcUefYLDo9XeNCPbWrR"
+        },
+        {
+          "name": "Keianka",
+          "url": "https://open.spotify.com/artist/5RTv9Js6nOCOPChuTA6bu9"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148474,
+      "name": "All U Want (feat. Keianka)",
+      "url": "https://open.spotify.com/track/2cVo56bYrdYPAvFq6IjU3B"
     },
     {
       "album": {
@@ -382,7 +408,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 181394,
       "name": "Back to You",
       "url": "https://open.spotify.com/track/3uPBDHYJPFo7ILVzShfwGS"
@@ -1588,7 +1614,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 174666,
       "name": "Handle It (feat. Fangtatis)",
       "url": "https://open.spotify.com/track/3m2ABv3l7QRwccPgN8XIb0"
@@ -1877,7 +1903,7 @@
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 228270,
+      "duration_ms": 198274,
       "name": "I DON'T WANNA (BE YOU)",
       "url": "https://open.spotify.com/track/2WCMo9QlX9wxYhMPNS7OiF"
     },
@@ -2478,6 +2504,24 @@
       "duration_ms": 219115,
       "name": "Lancang",
       "url": "https://open.spotify.com/track/4EOEKMXnS6XW3ArVKIAvTe"
+    },
+    {
+      "album": {
+        "name": "Lazy in Love",
+        "url": "https://open.spotify.com/album/2GV9QMfaQ2JTN6xl6QFc7K"
+      },
+      "artists": [
+        {
+          "name": "Inara",
+          "url": "https://open.spotify.com/artist/1qcKOcPdWe0cxQn9ZXCefL"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201898,
+      "name": "Lazy in Love",
+      "url": "https://open.spotify.com/track/5m1u64yULFnrZDJv3OxbUJ"
     },
     {
       "album": {
@@ -3204,7 +3248,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 203498,
       "name": "Ramu",
       "url": "https://open.spotify.com/track/2bGWVOJph2fsQMcuL04PrU"
@@ -3827,6 +3871,28 @@
     },
     {
       "album": {
+        "name": "Siren Song",
+        "url": "https://open.spotify.com/album/1BiUsd9jcyUGAPlJqyoPXZ"
+      },
+      "artists": [
+        {
+          "name": "Dennis Linggar",
+          "url": "https://open.spotify.com/artist/4Ht5zocCwfIenYeBolxXxt"
+        },
+        {
+          "name": "JPecs",
+          "url": "https://open.spotify.com/artist/2RaLCgWRwHSBJySoMVZi1U"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Siren Song",
+      "url": "https://open.spotify.com/track/5yYHvzPuaSHrzP6TncTjjD"
+    },
+    {
+      "album": {
         "name": "Slow Ride",
         "url": "https://open.spotify.com/album/0TydQJLAnqnm5rJzGbp640"
       },
@@ -4139,6 +4205,28 @@
     },
     {
       "album": {
+        "name": "Citrus",
+        "url": "https://open.spotify.com/album/70hWh3H1XXCDE6z4m70XVy"
+      },
+      "artists": [
+        {
+          "name": "Canti",
+          "url": "https://open.spotify.com/artist/58T2knDTjuxgJkxHH0mllQ"
+        },
+        {
+          "name": "Manutized",
+          "url": "https://open.spotify.com/artist/2shs60BW5cYC3a5tobSTdS"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184500,
+      "name": "Talk To Ya",
+      "url": "https://open.spotify.com/track/3MSyncAHpVp8qwbcvNNVLH"
+    },
+    {
+      "album": {
         "name": "Teach Me How To Love",
         "url": "https://open.spotify.com/album/0OMWABEZWBwe1dI5DQCkHd"
       },
@@ -4328,7 +4416,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 255618,
       "name": "Time Flies",
       "url": "https://open.spotify.com/track/5E3upQeg47ZTnpNkk7DjsM"
@@ -4420,7 +4508,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 239984,
       "name": "Untukmu",
       "url": "https://open.spotify.com/track/4coSx2yoUpzrADZ42ThwxH"

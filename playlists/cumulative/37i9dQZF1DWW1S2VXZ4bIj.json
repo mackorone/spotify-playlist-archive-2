@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e21\u0e32\u0e41\u0e23\u0e07 \u0e40\u0e1e\u0e25\u0e07\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Mirrr",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e21\u0e32\u0e41\u0e23\u0e07 \u0e40\u0e1e\u0e25\u0e07\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Potato",
   "name": "\u0e2e\u0e34\u0e15\u0e15\u0e34\u0e14\u0e01\u0e23\u0e30\u0e41\u0e2a",
   "tracks": [
     {
@@ -938,7 +938,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 166700,
       "name": "BU",
       "url": "https://open.spotify.com/track/3X5Kco6l9HuvtO9CLCtzzq"
@@ -3556,7 +3556,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 225410,
       "name": "Proud",
       "url": "https://open.spotify.com/track/2MuJCv3nCgHYlgOrAvCAT6"
@@ -4294,6 +4294,28 @@
       "duration_ms": 270304,
       "name": "SSAK (Feat. Loco) (Prod. By GRAY)",
       "url": "https://open.spotify.com/track/0FOReGSXypVBP1q3CLEbfN"
+    },
+    {
+      "album": {
+        "name": "STAR",
+        "url": "https://open.spotify.com/album/5qqqzU0AjtcLFdn5uGKz87"
+      },
+      "artists": [
+        {
+          "name": "URBOYTJ",
+          "url": "https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg"
+        },
+        {
+          "name": "Z9",
+          "url": "https://open.spotify.com/artist/4CuVt3p02OaWu4klQuJoDP"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213560,
+      "name": "STAR",
+      "url": "https://open.spotify.com/track/3WETUFdaYSkZQSNwlnPGkr"
     },
     {
       "album": {
@@ -7147,6 +7169,28 @@
     },
     {
       "album": {
+        "name": "\u0e0a\u0e35\u0e27\u0e34\u0e15\u0e27\u0e38\u0e48\u0e19\u0e27\u0e32\u0e22 (What the...) [feat. HEARTROCKER]",
+        "url": "https://open.spotify.com/album/4C2c3QyiwS11i6GoEMQozE"
+      },
+      "artists": [
+        {
+          "name": "Potato",
+          "url": "https://open.spotify.com/artist/6RQyog3L4JlA8t8Bf56otE"
+        },
+        {
+          "name": "HEARTROCKER",
+          "url": "https://open.spotify.com/artist/6IHQ0DIbderstwPg9alKXP"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "\u0e0a\u0e35\u0e27\u0e34\u0e15\u0e27\u0e38\u0e48\u0e19\u0e27\u0e32\u0e22 (What the...) [feat. HEARTROCKER]",
+      "url": "https://open.spotify.com/track/0y3CxY3NY7oA2KL0Jv6HX6"
+    },
+    {
+      "album": {
         "name": "\u0e0a\u0e38\u0e48\u0e21\u0e09\u0e48\u0e33 (ChumCham)",
         "url": "https://open.spotify.com/album/7I1EvufQ6FQYUluyHAFSKk"
       },
@@ -7871,6 +7915,50 @@
     },
     {
       "album": {
+        "name": "\u0e17\u0e19\u0e2d\u0e35\u0e01\u0e19\u0e34\u0e14 (feat. KHEM FREEHAND)",
+        "url": "https://open.spotify.com/album/54cxKQb85yrv96YnG6G8wI"
+      },
+      "artists": [
+        {
+          "name": "GOODMOOD",
+          "url": "https://open.spotify.com/artist/2obSYixUts1MEx2lJfNTCJ"
+        },
+        {
+          "name": "KHEM FREEHAND",
+          "url": "https://open.spotify.com/artist/5QkPxDQTObq1U2uSfpwhhN"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248802,
+      "name": "\u0e17\u0e19\u0e2d\u0e35\u0e01\u0e19\u0e34\u0e14 (feat. KHEM FREEHAND)",
+      "url": "https://open.spotify.com/track/6XARn0Eq1mOQZmuAArPNA6"
+    },
+    {
+      "album": {
+        "name": "\u0e17\u0e33\u0e43\u0e08\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49",
+        "url": "https://open.spotify.com/album/2xicB6qtsHd08BlgDtx3B8"
+      },
+      "artists": [
+        {
+          "name": "Z9",
+          "url": "https://open.spotify.com/artist/4CuVt3p02OaWu4klQuJoDP"
+        },
+        {
+          "name": "BLVCKHEART",
+          "url": "https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209605,
+      "name": "\u0e17\u0e33\u0e43\u0e08\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49",
+      "url": "https://open.spotify.com/track/1UeX4ufgrSzP70ZREmsgJO"
+    },
+    {
+      "album": {
         "name": "Only Monday",
         "url": "https://open.spotify.com/album/15CoMEQ6JmtEIz4uLoT7DY"
       },
@@ -8530,6 +8618,24 @@
       "duration_ms": 206000,
       "name": "\u0e1b\u0e35\u0e43\u0e2b\u0e21\u0e48\u0e1b\u0e35\u0e19\u0e35\u0e49",
       "url": "https://open.spotify.com/track/2ewrA9zGxvXrWSt6sLkqZx"
+    },
+    {
+      "album": {
+        "name": "\u0e1c\u0e34\u0e14\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e30 (Off Beat)",
+        "url": "https://open.spotify.com/album/1y9QFEwGrVNeni6D8XXgJS"
+      },
+      "artists": [
+        {
+          "name": "the ge",
+          "url": "https://open.spotify.com/artist/1h0iQlfKHiBlQsUsdzJ9l7"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174895,
+      "name": "\u0e1c\u0e34\u0e14\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e30 (Off Beat)",
+      "url": "https://open.spotify.com/track/0iLTFTrTcXlIO9EjSgPCGl"
     },
     {
       "album": {
@@ -12008,7 +12114,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 249615,
       "name": "\u0e40\u0e2b\u0e15\u0e38\u0e1c\u0e25 (feat. whateve)",
       "url": "https://open.spotify.com/track/71GcMzDsHM7HxbAnLxBKNH"
@@ -12424,7 +12530,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 207391,
       "name": "\u0e41\u0e2d\u0e1a\u0e23\u0e31\u0e01\u0e44\u0e14\u0e49\u0e2a\u0e21\u0e1a\u0e39\u0e23\u0e13\u0e4c\u0e41\u0e1a\u0e1a",
       "url": "https://open.spotify.com/track/01m0HHk6WUdTjYXyOqZ5p3"
@@ -12922,7 +13028,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 162000,
       "name": "\u0e44\u0e1b\u0e40\u0e08\u0e47\u0e1a\u0e01\u0e31\u0e1a\u0e40\u0e04\u0e49\u0e32\u0e0b\u0e30\u0e43\u0e2b\u0e49\u0e1e\u0e2d",
       "url": "https://open.spotify.com/track/13azF8EBod8DbyxOOmo4GN"

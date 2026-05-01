@@ -3705,6 +3705,32 @@
     },
     {
       "album": {
+        "name": "FEELIN",
+        "url": "https://open.spotify.com/album/5Uig3xMhqmo7uYb1bJI3BC"
+      },
+      "artists": [
+        {
+          "name": "NW.FRGVN",
+          "url": "https://open.spotify.com/artist/75hGaBbLe3tUa4CHSEB3mu"
+        },
+        {
+          "name": "Uno Genre",
+          "url": "https://open.spotify.com/artist/4Wj4wdjGep1CoCQThDn8KX"
+        },
+        {
+          "name": "Ealle",
+          "url": "https://open.spotify.com/artist/6JtxhjUJpk5f3RShUHxWU5"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136421,
+      "name": "FEELIN",
+      "url": "https://open.spotify.com/track/7G8r8DeL59ryZTT6ToMTeS"
+    },
+    {
+      "album": {
         "name": "Feels Good",
         "url": "https://open.spotify.com/album/6rdruiqR1RYqmURdMQFlcz"
       },
@@ -6210,7 +6236,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 191250,
       "name": "Jesu Ni",
       "url": "https://open.spotify.com/track/6tYErAAwdY1kXzdbAxLTpM"
@@ -7891,6 +7917,28 @@
     },
     {
       "album": {
+        "name": "My Daddy Loves Me",
+        "url": "https://open.spotify.com/album/3TIJApif55y5aPz885WiaL"
+      },
+      "artists": [
+        {
+          "name": "Olamiji Rasheed",
+          "url": "https://open.spotify.com/artist/797ilaBFnTzTvavwB225LX"
+        },
+        {
+          "name": "Sunmisola Agbebi",
+          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336585,
+      "name": "My Daddy Loves Me",
+      "url": "https://open.spotify.com/track/0h5LOYHokBrfBKHDd1S0Bf"
+    },
+    {
+      "album": {
         "name": "My Elshaddai",
         "url": "https://open.spotify.com/album/38CdwH27OsQF185txvPw1z"
       },
@@ -8078,7 +8126,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 207894,
       "name": "My Lovaa",
       "url": "https://open.spotify.com/track/6CMNOeLoFrtoLJ0tOyqjD4"
@@ -8636,6 +8684,28 @@
       "duration_ms": 203591,
       "name": "Odogwu",
       "url": "https://open.spotify.com/track/28KSf1gG77PI0gZpDHMaKr"
+    },
+    {
+      "album": {
+        "name": "Odogwu (feat. Prospa Ochimana)",
+        "url": "https://open.spotify.com/album/4OCdHRLhco7ZRdMpoUGeww"
+      },
+      "artists": [
+        {
+          "name": "Chidinma",
+          "url": "https://open.spotify.com/artist/3Wu4rnX6UKAMtTlUL2IAj4"
+        },
+        {
+          "name": "Prospa Ochimana",
+          "url": "https://open.spotify.com/artist/4tFkCYyWjDUXCHKqBpqw4g"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262242,
+      "name": "Odogwu (feat. Prospa Ochimana)",
+      "url": "https://open.spotify.com/track/5uVme5GQDbipGSnuz5kweE"
     },
     {
       "album": {
@@ -11738,7 +11808,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 188837,
       "name": "YAHWEH",
       "url": "https://open.spotify.com/track/5kcDXI5RsSfsM7HJCuOA74"

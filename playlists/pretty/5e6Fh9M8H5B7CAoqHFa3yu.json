@@ -1,12 +1,12 @@
 {
   "description": "forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify",
-  "num_followers": 310,
+  "num_followers": 311,
   "original_name": "forever young Playlist Spotify",
   "owner": {
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAJab7P5/UxYP+LI2wzY/DFJoawO3IQ",
+  "snapshot_id": "AAAJcu28unVh0M15AdglJA/D/CptD98G",
   "tracks": [
     {
       "added_at": "2026-04-28 22:21:45",
@@ -38091,6 +38091,150 @@
       "duration_ms": 209999,
       "name": "Running on Fumes and Regret",
       "url": "https://open.spotify.com/track/78LxePJ4LlJToM3OJqESqd"
+    },
+    {
+      "added_at": "2026-04-29 09:40:16",
+      "album": {
+        "name": "We were young in the late afternoon light",
+        "url": "https://open.spotify.com/album/0V41WLKvJPIUthBlXDXCks"
+      },
+      "artists": [
+        {
+          "name": "Funeral Letters",
+          "url": "https://open.spotify.com/artist/0cDgNx7GyU4qBNjuQ1Zy7H"
+        }
+      ],
+      "duration_ms": 191760,
+      "name": "We were young in the late afternoon light",
+      "url": "https://open.spotify.com/track/3K3YXpbYR8J64ISieik2ED"
+    },
+    {
+      "added_at": "2026-04-30 21:05:44",
+      "album": {
+        "name": "\u041c\u044b \u0431\u0443\u0434\u0435\u043c \u0440\u0430\u0434\u043e\u0432\u0430\u0442\u044c\u0441\u044f \u0436\u0438\u0437\u043d\u0438",
+        "url": "https://open.spotify.com/album/0bJ5TrgC7iAKatWzQtKH08"
+      },
+      "artists": [
+        {
+          "name": "the poet must die",
+          "url": "https://open.spotify.com/artist/2D0En2asmzvF1FGNiXEGqf"
+        }
+      ],
+      "duration_ms": 79638,
+      "name": "\u041c\u044b \u0431\u0443\u0434\u0435\u043c \u0440\u0430\u0434\u043e\u0432\u0430\u0442\u044c\u0441\u044f \u0436\u0438\u0437\u043d\u0438",
+      "url": "https://open.spotify.com/track/3Ixm23ATHd8yETGP7S4tOc"
+    },
+    {
+      "added_at": "2026-04-29 23:20:12",
+      "album": {
+        "name": "Bridges / Reason",
+        "url": "https://open.spotify.com/album/6rANUuV7L6tnNjTl4zn2Id"
+      },
+      "artists": [
+        {
+          "name": "The Hindmost",
+          "url": "https://open.spotify.com/artist/2XN8CGl8vgjXz9lEB9AGnB"
+        }
+      ],
+      "duration_ms": 191538,
+      "name": "Reason",
+      "url": "https://open.spotify.com/track/573E32bqni3NxWteCmjc9G"
+    },
+    {
+      "added_at": "2026-04-30 09:53:01",
+      "album": {
+        "name": "Jah Give The Power",
+        "url": "https://open.spotify.com/album/4O4vZRUQd9cTXjQHdln5Vm"
+      },
+      "artists": [
+        {
+          "name": "Anayah Roots Levi",
+          "url": "https://open.spotify.com/artist/2sYjFt5ayyIACrgzhcRLOO"
+        },
+        {
+          "name": "Costa Rebel",
+          "url": "https://open.spotify.com/artist/4Yg4PNWpQZ3O3dkp7iz4Rz"
+        }
+      ],
+      "duration_ms": 212857,
+      "name": "Jah Give The Power",
+      "url": "https://open.spotify.com/track/5VKiwgHeAvNI7KVZVOPUPV"
+    },
+    {
+      "added_at": "2026-04-30 12:44:48",
+      "album": {
+        "name": "One",
+        "url": "https://open.spotify.com/album/3N6OuWL8YXbAJTlHVDNmlu"
+      },
+      "artists": [
+        {
+          "name": "Sam Edwards",
+          "url": "https://open.spotify.com/artist/3SWbBPEKFKWXhms9t1S6VZ"
+        }
+      ],
+      "duration_ms": 146784,
+      "name": "Gloves Off",
+      "url": "https://open.spotify.com/track/3Y5vmBRSAwVMOownIyEaov"
+    },
+    {
+      "added_at": "2026-04-30 22:33:47",
+      "album": {
+        "name": "Me Rindo",
+        "url": "https://open.spotify.com/album/0saQU98ixtjrMD3M6EXQ73"
+      },
+      "artists": [
+        {
+          "name": "Michael Todd Brown",
+          "url": "https://open.spotify.com/artist/1UVbWulqbJhDEpYxvOmHJa"
+        },
+        {
+          "name": "Tuva Paloma",
+          "url": "https://open.spotify.com/artist/6uYz66bkpyYpokipvgIRrT"
+        }
+      ],
+      "duration_ms": 346587,
+      "name": "Me Rindo",
+      "url": "https://open.spotify.com/track/4T4Rx7ApdVoMyeteFglpJ1"
+    },
+    {
+      "added_at": "2026-04-30 22:33:50",
+      "album": {
+        "name": "Bermimpi",
+        "url": "https://open.spotify.com/album/7MxXY4vwu1EdoUiQRQ5Qpr"
+      },
+      "artists": [
+        {
+          "name": "Veyn Arcanstin",
+          "url": "https://open.spotify.com/artist/5jq2KvNMvKM3T3oOEMlzkl"
+        },
+        {
+          "name": "Nariya Blanche",
+          "url": "https://open.spotify.com/artist/2Nb59R0W7uEStoWIe4mpsp"
+        },
+        {
+          "name": "Gigih Prayogo",
+          "url": "https://open.spotify.com/artist/1Ayg3QEQWS3EfokPaCqccr"
+        }
+      ],
+      "duration_ms": 320533,
+      "name": "Bermimpi",
+      "url": "https://open.spotify.com/track/0jqb9Ob2VNIPDUYzznVMsp"
+    },
+    {
+      "added_at": "2026-04-30 22:34:02",
+      "album": {
+        "name": "Bluesman",
+        "url": "https://open.spotify.com/album/4pvGxzTyfc9TQpoE8BBrar"
+      },
+      "artists": [
+        {
+          "name": "Yunez",
+          "url": "https://open.spotify.com/artist/3WqoLbV8XYbKrXUTTScsKI"
+        }
+      ],
+      "duration_ms": 208894,
+      "name": "Incomparable (Bluesman)",
+      "url": "https://open.spotify.com/track/27yHVzY4ZoiVIYvpjcvhFq"
     }
   ],
   "unique_name": "forever young Playlist Spotify",

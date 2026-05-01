@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "Your shortcut to the best new Hip Hop. Cover: Hooligan Hefs",
+  "description": "Your shortcut to the best new Hip Hop. Cover: JPEGMAFIA",
   "name": "A1",
   "tracks": [
     {
@@ -723,6 +723,24 @@
     },
     {
       "album": {
+        "name": "Aim For The Stars",
+        "url": "https://open.spotify.com/album/0OIO6lbUompDlpKBKvcUwL"
+      },
+      "artists": [
+        {
+          "name": "Kobie Dee",
+          "url": "https://open.spotify.com/artist/3hjzcsAgsPSXyF6zuAM4tO"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163555,
+      "name": "Aim For The Stars",
+      "url": "https://open.spotify.com/track/4XYw3gJ3YUzRjQbGH7mFd5"
+    },
+    {
+      "album": {
         "name": "Don't Be Dumb",
         "url": "https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9"
       },
@@ -1290,6 +1308,24 @@
       "duration_ms": 230540,
       "name": "BABY I'M BACK - Remix",
       "url": "https://open.spotify.com/track/2vlUAb1FCGBt2hLKIOVjN7"
+    },
+    {
+      "album": {
+        "name": "babygirl",
+        "url": "https://open.spotify.com/album/31CPIp0vMvr5UNB0xvnMiL"
+      },
+      "artists": [
+        {
+          "name": "JPEGMAFIA",
+          "url": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147491,
+      "name": "babygirl",
+      "url": "https://open.spotify.com/track/5ouETFDqJv0SQMzwKlQLlP"
     },
     {
       "album": {
@@ -7885,6 +7921,24 @@
     },
     {
       "album": {
+        "name": "Jezebel",
+        "url": "https://open.spotify.com/album/2wCruyJJvR1rEJcKYNhqgv"
+      },
+      "artists": [
+        {
+          "name": "Lithe",
+          "url": "https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118500,
+      "name": "Jezebel",
+      "url": "https://open.spotify.com/track/2ww5S3KQ6d73WAVbPXgCPC"
+    },
+    {
+      "album": {
         "name": "Jing Jing",
         "url": "https://open.spotify.com/album/3ONXyMWOPaUKSajZbdZ7S1"
       },
@@ -8464,6 +8518,24 @@
       "duration_ms": 150559,
       "name": "Let It Spray",
       "url": "https://open.spotify.com/track/61VB5Z61QQmcERlHfgI4ze"
+    },
+    {
+      "album": {
+        "name": "LET ME BE!",
+        "url": "https://open.spotify.com/album/20BHqzA2Wr3gR5lYtXvv17"
+      },
+      "artists": [
+        {
+          "name": "thatboykwame",
+          "url": "https://open.spotify.com/artist/5ywIxMaX80lDjSzzj7wqto"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160381,
+      "name": "LET ME BE!",
+      "url": "https://open.spotify.com/track/2gwPZ1BnFssLqk5EOvd1JP"
     },
     {
       "album": {
@@ -11845,6 +11917,24 @@
     },
     {
       "album": {
+        "name": "Problems",
+        "url": "https://open.spotify.com/album/2wcAjd76Lqfa05twein279"
+      },
+      "artists": [
+        {
+          "name": "Chillinit",
+          "url": "https://open.spotify.com/artist/5TUXXyB6ZKCdd0vQx6yR2J"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195818,
+      "name": "Problems",
+      "url": "https://open.spotify.com/track/7dORj96n085LkNeFJcqpP4"
+    },
+    {
+      "album": {
         "name": "Sinning Winning Living",
         "url": "https://open.spotify.com/album/6cq7FuEXbkgunvfNfVBshk"
       },
@@ -12016,6 +12106,24 @@
       "duration_ms": 141472,
       "name": "Pussy Don't Lie (from the Netflix Series \"Big Mouth\")",
       "url": "https://open.spotify.com/track/1FOwWRFyJQh0EHthcdlcVE"
+    },
+    {
+      "album": {
+        "name": "Quaresma",
+        "url": "https://open.spotify.com/album/5BXNfTW8DFCsG2KQ8rlae9"
+      },
+      "artists": [
+        {
+          "name": "AJ Tracey",
+          "url": "https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74500,
+      "name": "Quaresma",
+      "url": "https://open.spotify.com/track/0dS6mvqzBRZ4X4jlEqQNv9"
     },
     {
       "album": {

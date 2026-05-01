@@ -3835,6 +3835,28 @@
     },
     {
       "album": {
+        "name": "Promised Land",
+        "url": "https://open.spotify.com/album/4rANEGOy9fAxpEBVgReeAe"
+      },
+      "artists": [
+        {
+          "name": "Summer Is Calling",
+          "url": "https://open.spotify.com/artist/34q9Zt0mBwYXGMeRq9m94u"
+        },
+        {
+          "name": "Joe Smooth",
+          "url": "https://open.spotify.com/artist/4BIamAD25vwYldaOWTEsXd"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149750,
+      "name": "Promised Land",
+      "url": "https://open.spotify.com/track/6Akfd4lrYmvioYXfgZlkCS"
+    },
+    {
+      "album": {
         "name": "Pull Me",
         "url": "https://open.spotify.com/album/6akR5Aiyskz8Zr1ylggMSB"
       },

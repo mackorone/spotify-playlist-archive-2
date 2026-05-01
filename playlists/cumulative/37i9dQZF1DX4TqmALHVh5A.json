@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : Zed Yun Pavarotti",
+  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : a6el",
   "name": "Courant Alternatif",
   "tracks": [
     {
@@ -406,7 +406,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 245520,
       "name": "Approximatif",
       "url": "https://open.spotify.com/track/0I5EAx0lrJ4cL4Dj21MoK4"
@@ -1330,6 +1330,24 @@
       "duration_ms": 192426,
       "name": "Chrom\u00e9 total",
       "url": "https://open.spotify.com/track/732rPfESdrlQjJoeqtSOgm"
+    },
+    {
+      "album": {
+        "name": "ch\u00e2teau en ruines",
+        "url": "https://open.spotify.com/album/61NSNVcFIOkpJfor0Xb4yJ"
+      },
+      "artists": [
+        {
+          "name": "NAEKO",
+          "url": "https://open.spotify.com/artist/0pyq140jTsiXoxlv1KKYzK"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123809,
+      "name": "ch\u00e2teau en ruines",
+      "url": "https://open.spotify.com/track/3L3WgfJLLHkFXbxB4BC7fi"
     },
     {
       "album": {
@@ -4475,6 +4493,24 @@
     },
     {
       "album": {
+        "name": "les adieux",
+        "url": "https://open.spotify.com/album/3kN893vmbtMas2NEwHiR1y"
+      },
+      "artists": [
+        {
+          "name": "billie",
+          "url": "https://open.spotify.com/artist/5OlAhdgR13gu6r0MZU8eKj"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196133,
+      "name": "les adieux",
+      "url": "https://open.spotify.com/track/5InmwOdtudXZMys1G2Uo09"
+    },
+    {
+      "album": {
         "name": "Cowboy Circus",
         "url": "https://open.spotify.com/album/0LeNAzIxVwsSVrvUq28HPD"
       },
@@ -5936,7 +5972,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 174241,
       "name": "Peaux Miroirs",
       "url": "https://open.spotify.com/track/7cxAjAFypLuTNZWLIQifAz"
@@ -6320,6 +6356,24 @@
       "duration_ms": 180091,
       "name": "PTSMR",
       "url": "https://open.spotify.com/track/3IwsDBOjSZ0IJa71mXjqRZ"
+    },
+    {
+      "album": {
+        "name": "PVTE GOTHIQUE",
+        "url": "https://open.spotify.com/album/2Tg3whftOwtLH1OA0n7uz8"
+      },
+      "artists": [
+        {
+          "name": "KALIKA",
+          "url": "https://open.spotify.com/artist/0UgxFqJmwkpojz4mHBsRpD"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217240,
+      "name": "PVTE GOTHIQUE",
+      "url": "https://open.spotify.com/track/5n6lujGl8kRZrhdEgWLbFs"
     },
     {
       "album": {
@@ -7530,7 +7584,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 200348,
       "name": "sympa",
       "url": "https://open.spotify.com/track/2cjBJ5UEWmzN4uy7VuuxWw"

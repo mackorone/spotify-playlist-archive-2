@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-14",
-  "description": "\ud83d\ude80 when ur love language is bpm \ud83d\ude80  Cover: Marlon Hoffstadt",
+  "description": "\ud83d\ude80 when ur love language is bpm \ud83d\ude80  Cover: Brutalismus 3000",
   "name": "rave",
   "tracks": [
     {
@@ -675,6 +675,28 @@
     },
     {
       "album": {
+        "name": "Amor EP",
+        "url": "https://open.spotify.com/album/6v50qNzxBH7PI4rHsamjVX"
+      },
+      "artists": [
+        {
+          "name": "Charlotte de Witte",
+          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+        },
+        {
+          "name": "CERES",
+          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372293,
+      "name": "Amor (feat. CERES)",
+      "url": "https://open.spotify.com/track/4UhxekskWFXSv9ik933yBv"
+    },
+    {
+      "album": {
         "name": "an apple a day",
         "url": "https://open.spotify.com/album/4MRBQyuMxJgao3Z96O7mPn"
       },
@@ -774,7 +796,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-24",
+      "date_removed": null,
       "duration_ms": 146250,
       "name": "Atlantis - Edit",
       "url": "https://open.spotify.com/track/4kPu9zuTvvBf8bE8Na53eg"
@@ -1650,7 +1672,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 212571,
       "name": "Breathing Underwater",
       "url": "https://open.spotify.com/track/0OuUxyKF6ncrVJO8mrN12J"
@@ -2570,10 +2592,36 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 216470,
       "name": "Dance With Me",
       "url": "https://open.spotify.com/track/5qxLfeqEBsAV6XrnfYPWkY"
+    },
+    {
+      "album": {
+        "name": "Dancin (feat. Luvli) [southstar Remix]",
+        "url": "https://open.spotify.com/album/3dWZnjwCr9m3yz2N1OYguT"
+      },
+      "artists": [
+        {
+          "name": "Aaron Smith",
+          "url": "https://open.spotify.com/artist/77qukKzmdI5BeMBR7WGUrN"
+        },
+        {
+          "name": "Luvli",
+          "url": "https://open.spotify.com/artist/6dqohi36avY0M9urnyhITr"
+        },
+        {
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173333,
+      "name": "Dancin (feat. Luvli) - southstar Remix",
+      "url": "https://open.spotify.com/track/5VGel8rVmBQrr7mSAtpW2u"
     },
     {
       "album": {
@@ -2764,7 +2812,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-24",
+      "date_removed": null,
       "duration_ms": 227612,
       "name": "Die Tonight",
       "url": "https://open.spotify.com/track/4y4NBmnV3QWygYpjLNDWOw"
@@ -3008,7 +3056,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 245000,
       "name": "Do You Love",
       "url": "https://open.spotify.com/track/7dcfWUKfkE9gV6sHNNt7NM"
@@ -3640,7 +3688,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 232038,
       "name": "El Sonido Del Destino",
       "url": "https://open.spotify.com/track/5AUrMZL40qqmBOaczHjvbJ"
@@ -4168,7 +4216,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 166206,
       "name": "Feel It",
       "url": "https://open.spotify.com/track/5FNCBisssbOECFN0Th2KHl"
@@ -4706,6 +4754,24 @@
       "duration_ms": 236916,
       "name": "Fuerteventura Forever",
       "url": "https://open.spotify.com/track/0NePTW4Zdn6GLW9CxLYe2B"
+    },
+    {
+      "album": {
+        "name": "Funk Star",
+        "url": "https://open.spotify.com/album/6zsDVmb87IDltvCSc9i1yQ"
+      },
+      "artists": [
+        {
+          "name": "GMOZ",
+          "url": "https://open.spotify.com/artist/5uULKNjEhHbE7DVVqX7qNK"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Funk Star",
+      "url": "https://open.spotify.com/track/1moKT6MaEdNRmWOZgb36wv"
     },
     {
       "album": {
@@ -5601,6 +5667,28 @@
     },
     {
       "album": {
+        "name": "I Bring My Gun To The Function (with Boys Noize)",
+        "url": "https://open.spotify.com/album/5v1raNmRS2QloeEe4TzbnA"
+      },
+      "artists": [
+        {
+          "name": "Brutalismus 3000",
+          "url": "https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j"
+        },
+        {
+          "name": "Boys Noize",
+          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190291,
+      "name": "I Bring My Gun To The Function (with Boys Noize)",
+      "url": "https://open.spotify.com/track/0f3P2kbpIvGdgfvXN7rIKG"
+    },
+    {
+      "album": {
         "name": "I Feel The Love",
         "url": "https://open.spotify.com/album/6JtIYFExLthQZE4mcACrh4"
       },
@@ -5986,7 +6074,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 135750,
       "name": "Ibiza (feat. Cassie Ann)",
       "url": "https://open.spotify.com/track/1WisQWTU2WwOsUlT9HUERf"
@@ -7616,7 +7704,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 223921,
       "name": "Love On Fire",
       "url": "https://open.spotify.com/track/417XM2guWLv0ItSGNCIByL"
@@ -7938,7 +8026,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 187894,
       "name": "Maximus",
       "url": "https://open.spotify.com/track/4Fv8i3UclMApElfQPTGpYi"
@@ -9072,7 +9160,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 207727,
       "name": "No Time To Waste",
       "url": "https://open.spotify.com/track/6ODBf7LcF4Z24V6u2GuLhk"
@@ -9222,7 +9310,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 223496,
       "name": "Ocean Park",
       "url": "https://open.spotify.com/track/0bjKZYenmovPbfhizDHnOs"
@@ -9284,7 +9372,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 219200,
       "name": "Oh Lord",
       "url": "https://open.spotify.com/track/0yMOIEN1QrDhmScQWt0wen"
@@ -10093,6 +10181,28 @@
     },
     {
       "album": {
+        "name": "Push It (Ueberrest Remix)",
+        "url": "https://open.spotify.com/album/5uLOMJab207RjQBtayElnE"
+      },
+      "artists": [
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        },
+        {
+          "name": "Ueberrest",
+          "url": "https://open.spotify.com/artist/7JipAMuZSlPJtbRVbi5vnS"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214952,
+      "name": "Push It - Ueberrest Remix",
+      "url": "https://open.spotify.com/track/6XZQXS0D9wwI24I3hQZFrw"
+    },
+    {
+      "album": {
         "name": "Push Up (Main Edit)",
         "url": "https://open.spotify.com/album/3v5BP6gPT1nNU9rjs57fF0"
       },
@@ -10400,7 +10510,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-24",
+      "date_removed": null,
       "duration_ms": 292693,
       "name": "Reality Check",
       "url": "https://open.spotify.com/track/4RB7S3C5A6ziH6Jni0Jlxv"
@@ -10972,7 +11082,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-24",
+      "date_removed": null,
       "duration_ms": 149612,
       "name": "SCHREI NACH LIEBE",
       "url": "https://open.spotify.com/track/3QNc1m52Gwrow7nAZf3raw"
@@ -11114,6 +11224,28 @@
       "duration_ms": 144081,
       "name": "Shake It",
       "url": "https://open.spotify.com/track/3N582gksyaFCe7EkyjJIcd"
+    },
+    {
+      "album": {
+        "name": "Shake That",
+        "url": "https://open.spotify.com/album/2074ucy9yG8d61p5iDlcIU"
+      },
+      "artists": [
+        {
+          "name": "Henry Fong",
+          "url": "https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH"
+        },
+        {
+          "name": "Fahjah",
+          "url": "https://open.spotify.com/artist/7LjoOGD9rMWkR8clGUu2Id"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127448,
+      "name": "Shake That",
+      "url": "https://open.spotify.com/track/6PLgcs3fPY83Nr8Nt92DLe"
     },
     {
       "album": {
@@ -11964,6 +12096,32 @@
       "duration_ms": 188108,
       "name": "Supersonic",
       "url": "https://open.spotify.com/track/01jx3vXwUaw9cfFeBk8sJQ"
+    },
+    {
+      "album": {
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/1IXhcZeZLOoj7MsV0XJ6bW"
+      },
+      "artists": [
+        {
+          "name": "RSCL",
+          "url": "https://open.spotify.com/artist/5pkU7zjIzHgfN1n91e51r3"
+        },
+        {
+          "name": "J\u00c4MO",
+          "url": "https://open.spotify.com/artist/5BatmKqX0n63qHXQTcKoPr"
+        },
+        {
+          "name": "KLP",
+          "url": "https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224571,
+      "name": "Surrender",
+      "url": "https://open.spotify.com/track/4NioEMZU2xoSIZ0a75zE6Z"
     },
     {
       "album": {
@@ -13165,6 +13323,32 @@
     },
     {
       "album": {
+        "name": "Vem Comigo",
+        "url": "https://open.spotify.com/album/324AIUKj8Q96Ir66ng7SmX"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Olive Anguz",
+          "url": "https://open.spotify.com/artist/3d0AuH83bH58zFUU7Z1hMk"
+        },
+        {
+          "name": "Project Zeitgeist",
+          "url": "https://open.spotify.com/artist/6Fryg7OCCsApuKUvkcGVg3"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207483,
+      "name": "Vem Comigo",
+      "url": "https://open.spotify.com/track/3zr7VbJvavpspJF2JipvQ1"
+    },
+    {
+      "album": {
         "name": "Venus (Boys Noize Rework)",
         "url": "https://open.spotify.com/album/0mALS96AIXJwbd7uNsemmJ"
       },
@@ -13922,7 +14106,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 224857,
       "name": "Windows",
       "url": "https://open.spotify.com/track/7fd8fqxSKiwcx4zIONjxnw"

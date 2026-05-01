@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Tracks popping off in the Afro scene. Cover: BNXN",
+  "description": "Tracks popping off in the Afro scene. Cover: Fally Ipupa",
   "name": "Afro Station",
   "tracks": [
     {
@@ -1589,6 +1589,24 @@
     },
     {
       "album": {
+        "name": "Attitude",
+        "url": "https://open.spotify.com/album/3io4IZuN9nU9dZJFnejXcD"
+      },
+      "artists": [
+        {
+          "name": "Youka",
+          "url": "https://open.spotify.com/artist/5dDL6ReckbbD5JBnZdobv6"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186868,
+      "name": "Attitude",
+      "url": "https://open.spotify.com/track/5oc7xFFJZkiap3h6eJcu9d"
+    },
+    {
+      "album": {
         "name": "ATWA",
         "url": "https://open.spotify.com/album/0XprF9oJKAknRqwrwB8Y6q"
       },
@@ -2674,6 +2692,24 @@
       "duration_ms": 148500,
       "name": "BB",
       "url": "https://open.spotify.com/track/1H0jg9oaxn6o1sY7EOZurD"
+    },
+    {
+      "album": {
+        "name": "BB BRINGUE",
+        "url": "https://open.spotify.com/album/0wEK1pl9QUkjkV1tYlkYyG"
+      },
+      "artists": [
+        {
+          "name": "D Juno",
+          "url": "https://open.spotify.com/artist/47NPZW7ZtxGEY1P8Pa4AzY"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149786,
+      "name": "BB BRINGUE",
+      "url": "https://open.spotify.com/track/5soAhRxbSV61OhWAc8l5xj"
     },
     {
       "album": {
@@ -4169,6 +4205,24 @@
     },
     {
       "album": {
+        "name": "Call Me Mommy",
+        "url": "https://open.spotify.com/album/2sBG76tbuxuhGgyb5dJqsu"
+      },
+      "artists": [
+        {
+          "name": "7iaa",
+          "url": "https://open.spotify.com/artist/753CpLj7OaZZbx5qLWHFpl"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199200,
+      "name": "Call Me Mommy",
+      "url": "https://open.spotify.com/track/3KSfHcdJF24FCiwY9W46bo"
+    },
+    {
+      "album": {
         "name": "Calm Down",
         "url": "https://open.spotify.com/album/37iaWiKMa9YBbEDlw5c3Qh"
       },
@@ -4990,6 +5044,32 @@
       "duration_ms": 224684,
       "name": "Colorado",
       "url": "https://open.spotify.com/track/7C2IUngL0Xp8MsD575v2cJ"
+    },
+    {
+      "album": {
+        "name": "Come Kulosa",
+        "url": "https://open.spotify.com/album/6rlEzxImXioBflFuoAsLBV"
+      },
+      "artists": [
+        {
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+        },
+        {
+          "name": "Billionboi",
+          "url": "https://open.spotify.com/artist/5OkssG2Pb7u2VGiRdYZtMz"
+        },
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144444,
+      "name": "Come Kulosa",
+      "url": "https://open.spotify.com/track/2OJtdCzSnQ1G9rMJ6eD1Wt"
     },
     {
       "album": {
@@ -10001,6 +10081,28 @@
     },
     {
       "album": {
+        "name": "Testimony of Grace",
+        "url": "https://open.spotify.com/album/74TYIwl4Eh09Er8iwJuxVx"
+      },
+      "artists": [
+        {
+          "name": "Ice Prince",
+          "url": "https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn"
+        },
+        {
+          "name": "Niniola",
+          "url": "https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181034,
+      "name": "High Class (feat. Niniola)",
+      "url": "https://open.spotify.com/track/4J9mUskFOGvBObAYpUyCEs"
+    },
+    {
+      "album": {
         "name": "Son Of The Soil",
         "url": "https://open.spotify.com/album/2bpVooaqPufHWqA4d414fX"
       },
@@ -10034,7 +10136,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 153600,
       "name": "High Me",
       "url": "https://open.spotify.com/track/4IYmtaYuTItLD9a1CHgy8C"
@@ -13479,6 +13581,24 @@
     },
     {
       "album": {
+        "name": "L\u00c9W\u00c9",
+        "url": "https://open.spotify.com/album/6WwthXnlTCy9mrCL85Jfab"
+      },
+      "artists": [
+        {
+          "name": "SAF",
+          "url": "https://open.spotify.com/artist/6Pr9pssRV0tD0jdh2Z84td"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209162,
+      "name": "L\u00c9W\u00c9",
+      "url": "https://open.spotify.com/track/7y8M0iafbbORhIqIsNhy4R"
+    },
+    {
+      "album": {
         "name": "Ma Cherie",
         "url": "https://open.spotify.com/album/3ByyPk478xVoajmKEHUFcr"
       },
@@ -16350,7 +16470,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 185142,
       "name": "NOUS DEUX",
       "url": "https://open.spotify.com/track/4885mbXb3Nku47lqtvKzr7"
@@ -18449,6 +18569,28 @@
     },
     {
       "album": {
+        "name": "POR TI",
+        "url": "https://open.spotify.com/album/0NnW0UN9DFuNIzJHgUdaJa"
+      },
+      "artists": [
+        {
+          "name": "Yapi",
+          "url": "https://open.spotify.com/artist/6dhhE0bRngFuvKe3vnzdKn"
+        },
+        {
+          "name": "SOUNDPLUG",
+          "url": "https://open.spotify.com/artist/3V27gyl5V5dvei7a0U8zuX"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115200,
+      "name": "POR TI",
+      "url": "https://open.spotify.com/track/3Ip1sc72P5uz8BUB9kb4QQ"
+    },
+    {
+      "album": {
         "name": "Posa na bina",
         "url": "https://open.spotify.com/album/1IP4dFk8PTKhyC2QUYBnw8"
       },
@@ -18802,7 +18944,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 184200,
       "name": "PYRAMIDE OF LOVE",
       "url": "https://open.spotify.com/track/2mJNsyf5TH4c3WEZyiu9pW"
@@ -19510,7 +19652,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 179277,
       "name": "Safe place",
       "url": "https://open.spotify.com/track/6M8l9eprbrVogC3V6MnO9d"
@@ -19620,6 +19762,28 @@
       "duration_ms": 209720,
       "name": "Sang",
       "url": "https://open.spotify.com/track/6AvvCpDQ5vi8FKVRtdrf61"
+    },
+    {
+      "album": {
+        "name": "Sans Forcer (feat. SenSey')",
+        "url": "https://open.spotify.com/album/4S04qJ8pWyspdEOzZ6FQKL"
+      },
+      "artists": [
+        {
+          "name": "Papi Del Sol",
+          "url": "https://open.spotify.com/artist/1seuCAgNtazhgOk3LaP68H"
+        },
+        {
+          "name": "SenSey'",
+          "url": "https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193531,
+      "name": "Sans Forcer (feat. SenSey')",
+      "url": "https://open.spotify.com/track/6ftgnU8hLEcdlFdfVcCQrw"
     },
     {
       "album": {
@@ -21814,7 +21978,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 155428,
       "name": "That Way",
       "url": "https://open.spotify.com/track/3xJToX5HgVTY3XC1Xvw9MF"
@@ -22728,7 +22892,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 145492,
       "name": "Turbulence",
       "url": "https://open.spotify.com/track/6b5aOjZh1szuKcbfSU8YdK"
@@ -24102,7 +24266,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 165984,
       "name": "Zizanie",
       "url": "https://open.spotify.com/track/6ef3J55fdcYAZfVNQBSXUw"

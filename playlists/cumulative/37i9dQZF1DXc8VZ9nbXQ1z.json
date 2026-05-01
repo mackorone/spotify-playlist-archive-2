@@ -2204,7 +2204,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 232868,
       "name": "Bare Earth",
       "url": "https://open.spotify.com/track/74oyFcS8W7oeoV3Ckf3HCV"
@@ -3557,6 +3557,28 @@
     },
     {
       "album": {
+        "name": "CARNAVAL DE SAO VICENTE",
+        "url": "https://open.spotify.com/album/0B181Y7mT4ltjpwV1esrwr"
+      },
+      "artists": [
+        {
+          "name": "Peppe Citarella",
+          "url": "https://open.spotify.com/artist/5DWjZ2hLuK8Mfdoua8lkJB"
+        },
+        {
+          "name": "Max Zotti",
+          "url": "https://open.spotify.com/artist/3po7iOEDHDHM8gnpoe7DY3"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163278,
+      "name": "CARNAVAL DE SAO VICENTE",
+      "url": "https://open.spotify.com/track/6C5uRIVb6FiovaHtL4lvXw"
+    },
+    {
+      "album": {
         "name": "Cascades Of Colour (Remixes)",
         "url": "https://open.spotify.com/album/42kJmZ8pCizaMqhVr7J8YY"
       },
@@ -4526,6 +4548,28 @@
       "duration_ms": 422500,
       "name": "Dancing Shadows",
       "url": "https://open.spotify.com/track/4PSYo17uzJYC8xTgxsWybx"
+    },
+    {
+      "album": {
+        "name": "Danger Zone",
+        "url": "https://open.spotify.com/album/3an661cIibMyR08LbUnTUj"
+      },
+      "artists": [
+        {
+          "name": "Rancido",
+          "url": "https://open.spotify.com/artist/0wtDZVdBWiPXM4gQt3ZNUq"
+        },
+        {
+          "name": "Dj Habias",
+          "url": "https://open.spotify.com/artist/6ehOjA4MWRhh7RHDxd8d12"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387770,
+      "name": "Danger Zone",
+      "url": "https://open.spotify.com/track/0EjhFpLSzjoMfV5uIAIuMH"
     },
     {
       "album": {
@@ -7232,7 +7276,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 248290,
       "name": "Four Women - DESIREE Remix",
       "url": "https://open.spotify.com/track/1cusd5LAzVfobD23bB2YdJ"
@@ -8747,6 +8791,36 @@
     },
     {
       "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/0sKcokipZAJ2pLC0ixAhlg"
+      },
+      "artists": [
+        {
+          "name": "RB\u00d8R",
+          "url": "https://open.spotify.com/artist/1FWrDSWQin78IrPIvPEaJr"
+        },
+        {
+          "name": "Tayllor",
+          "url": "https://open.spotify.com/artist/0Z4yZfeuvWVBh1U6vNeYbD"
+        },
+        {
+          "name": "CRAYA",
+          "url": "https://open.spotify.com/artist/2lFm60sGUYYl9sXEFbrNxO"
+        },
+        {
+          "name": "Mr. V",
+          "url": "https://open.spotify.com/artist/2duLFRaG8MhKAIsx4zT7of"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270425,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/4evs5hmj8J4cJzcMgylQzl"
+    },
+    {
+      "album": {
         "name": "Home (JAMIIE Remix)",
         "url": "https://open.spotify.com/album/38RJlLHQvbB0HmTqakiPah"
       },
@@ -10030,7 +10104,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 230243,
       "name": "Into The Light",
       "url": "https://open.spotify.com/track/5fYZKXkx70SaDPQ0FbJCn5"
@@ -10380,7 +10454,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 192108,
       "name": "It's My Life",
       "url": "https://open.spotify.com/track/5o79o5fhrP4a3uaDh28a9X"
@@ -11000,7 +11074,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 251612,
       "name": "Kabara",
       "url": "https://open.spotify.com/track/0JkEIVyvbow1jgpKQOIFl3"
@@ -12664,7 +12738,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 352000,
       "name": "Long Time - Extended Mix",
       "url": "https://open.spotify.com/track/2dOJOrURh0uJJ3I9mFqeq2"
@@ -13276,6 +13350,32 @@
       "duration_ms": 389628,
       "name": "Magnet",
       "url": "https://open.spotify.com/track/0AkkaMnOJ0Q8cEOwRVK371"
+    },
+    {
+      "album": {
+        "name": "Bohemian Opera, Pt. II",
+        "url": "https://open.spotify.com/album/2UcLDiDNPueNNDJOokMPlU"
+      },
+      "artists": [
+        {
+          "name": "40D",
+          "url": "https://open.spotify.com/artist/7uvCVtgyDcHAN5H0W1uF9x"
+        },
+        {
+          "name": "Wazimbo",
+          "url": "https://open.spotify.com/artist/6Lwh7TVOLyefH4psz80TjE"
+        },
+        {
+          "name": "ISABEL NOVELLA",
+          "url": "https://open.spotify.com/artist/1W9vCkA0UXH0BWL59SJixw"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244072,
+      "name": "Mahanyela",
+      "url": "https://open.spotify.com/track/795AqgMVrgk6iUtgsJq8AJ"
     },
     {
       "album": {
@@ -16875,6 +16975,32 @@
     },
     {
       "album": {
+        "name": "OTA (Dr Feel Remix)",
+        "url": "https://open.spotify.com/album/0fuWcyDE7uWtyhpIknmxwX"
+      },
+      "artists": [
+        {
+          "name": "Marks (LB)",
+          "url": "https://open.spotify.com/artist/6jkv67YcnwDa0gnDjah3Gv"
+        },
+        {
+          "name": "Nes Mburu",
+          "url": "https://open.spotify.com/artist/4eSWV55CmWTtNPVsNEp9dd"
+        },
+        {
+          "name": "Dr Feel",
+          "url": "https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226341,
+      "name": "OTA - Dr Feel Remix",
+      "url": "https://open.spotify.com/track/0APZcXHJ3D4tdBp0xzCTcA"
+    },
+    {
+      "album": {
         "name": "Other Side",
         "url": "https://open.spotify.com/album/1Za76dBbyPR4TniRoqLcDa"
       },
@@ -20297,6 +20423,24 @@
     },
     {
       "album": {
+        "name": "Socotra",
+        "url": "https://open.spotify.com/album/3BKIFIr4Fj7iqbbQJxo0aj"
+      },
+      "artists": [
+        {
+          "name": "DarkFace",
+          "url": "https://open.spotify.com/artist/52oppXor3ScSxtkwgmpEBm"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338605,
+      "name": "Socotra",
+      "url": "https://open.spotify.com/track/1TtIZIslAxydxswYqYYGTj"
+    },
+    {
+      "album": {
         "name": "Finally Famous Too",
         "url": "https://open.spotify.com/album/2fJHuylS0WyxccTNW1nwU9"
       },
@@ -23098,7 +23242,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 213000,
       "name": "Tribal Frequency - Dub Mix",
       "url": "https://open.spotify.com/track/4GAbrrA4yEavVJh5QweJSB"
@@ -25718,6 +25862,32 @@
       "duration_ms": 208617,
       "name": "ZANDA",
       "url": "https://open.spotify.com/track/6XviBbmG54BJuTaF6q81Rt"
+    },
+    {
+      "album": {
+        "name": "Zanmi Kanmarad (Extended)",
+        "url": "https://open.spotify.com/album/4XVdlyjVUgQ0rgnRdfWPjH"
+      },
+      "artists": [
+        {
+          "name": "Africanism",
+          "url": "https://open.spotify.com/artist/3E9XtGFNNweLtiR8y5aZO5"
+        },
+        {
+          "name": "Moonlight Benjamin",
+          "url": "https://open.spotify.com/artist/6LxshZzgK5fMF4K4yj7FPW"
+        },
+        {
+          "name": "Bob Sinclar",
+          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314146,
+      "name": "Zanmi Kanmarad - Extended",
+      "url": "https://open.spotify.com/track/5c9jbD53Sc1jlCbxCwWLuW"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "De nieuwste Hollands & Volkspop releases. Cover: Gerard Joling",
+  "description": "De nieuwste Hollands & Volkspop releases. Cover: Dries Roelvink",
   "name": "Liever Hollands",
   "tracks": [
     {
@@ -244,7 +244,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 152458,
       "name": "Al Heb Je Niets",
       "url": "https://open.spotify.com/track/6cKvr0voNpYVq9i577qxoW"
@@ -2377,6 +2377,24 @@
     },
     {
       "album": {
+        "name": "De Nacht Is Mijn Leven (2026)",
+        "url": "https://open.spotify.com/album/4Hisi2H261bzzzWEf6gwPg"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Hazes Jr.",
+          "url": "https://open.spotify.com/artist/5l2Xy4aUoJDRSpsYHyOumD"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196193,
+      "name": "De Nacht Is Mijn Leven - 2026",
+      "url": "https://open.spotify.com/track/1VBEhXmsOk839WvzgpvW5m"
+    },
+    {
+      "album": {
         "name": "De Prijs Van De Liefde",
         "url": "https://open.spotify.com/album/23WiRDArh1uSkkMcoufCs6"
       },
@@ -3846,7 +3864,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 188588,
       "name": "Gekkenhuis",
       "url": "https://open.spotify.com/track/6mbWCEF2EythgujAeKwE81"
@@ -3936,7 +3954,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 173423,
       "name": "Genieten zonder spijt",
       "url": "https://open.spotify.com/track/62hSdHFvbwINZpG611wfiu"
@@ -4062,7 +4080,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 175130,
       "name": "Gisteren Was Het Feest",
       "url": "https://open.spotify.com/track/3Ae5hDXfwS4QxwCGVnUx8i"
@@ -4528,6 +4546,28 @@
       "duration_ms": 152893,
       "name": "Hobbel Hobbel",
       "url": "https://open.spotify.com/track/1I3SaCDWwpP6ecFRv9URsW"
+    },
+    {
+      "album": {
+        "name": "Hoe de liefde gaat",
+        "url": "https://open.spotify.com/album/1rjIr84CoKQpiocgtqzhyW"
+      },
+      "artists": [
+        {
+          "name": "Rene Froger",
+          "url": "https://open.spotify.com/artist/5MvyMusqNikgVgkKHLc3pb"
+        },
+        {
+          "name": "Waylon",
+          "url": "https://open.spotify.com/artist/5iuXjsXsTXs8lwmqzsF6dZ"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191212,
+      "name": "Hoe de liefde gaat",
+      "url": "https://open.spotify.com/track/1ttwvoS4i4o69EgKQoP7T4"
     },
     {
       "album": {
@@ -9376,7 +9416,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 168000,
       "name": "Spijt",
       "url": "https://open.spotify.com/track/146feoWoNIhrAtPWfShQaS"
@@ -9564,6 +9604,24 @@
       "duration_ms": 151707,
       "name": "Taal Van De Liefde",
       "url": "https://open.spotify.com/track/1faubzmwlpvAyZU5MulK7C"
+    },
+    {
+      "album": {
+        "name": "Tante Jetje",
+        "url": "https://open.spotify.com/album/4d7e0D6oOIIlepqR2cJoSO"
+      },
+      "artists": [
+        {
+          "name": "Dries Roelvink",
+          "url": "https://open.spotify.com/artist/2eIeNd8ZrIkk8R4q3zud09"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194435,
+      "name": "Tante Jetje",
+      "url": "https://open.spotify.com/track/6jPFnEnuXaOtTsAXUCuhy5"
     },
     {
       "album": {
@@ -10265,6 +10323,24 @@
     },
     {
       "album": {
+        "name": "Vlam In De Pan",
+        "url": "https://open.spotify.com/album/4EXIEwAErM3OqO3G1S6VKK"
+      },
+      "artists": [
+        {
+          "name": "Jari Hellegers",
+          "url": "https://open.spotify.com/artist/2jPuZfXN0BcFiNowWQk4au"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160236,
+      "name": "Vlam In De Pan",
+      "url": "https://open.spotify.com/track/0X63JmpyxWMguhDLAjdN3V"
+    },
+    {
+      "album": {
         "name": "Voel je dan niet",
         "url": "https://open.spotify.com/album/0ymaiviYokdtanpbZN5IPk"
       },
@@ -10536,6 +10612,24 @@
       "duration_ms": 216890,
       "name": "Waarom Ben Jij Gegaan - Akoestisch",
       "url": "https://open.spotify.com/track/6f8Nda8vkpFrwsMX5l320t"
+    },
+    {
+      "album": {
+        "name": "Waarom Doe Je Dit Nou",
+        "url": "https://open.spotify.com/album/4XogwSFNWc1bMKZbWlK8YT"
+      },
+      "artists": [
+        {
+          "name": "Rob Van Daal",
+          "url": "https://open.spotify.com/artist/3TbeR2GLVYNQW7ohVIzSJ8"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155502,
+      "name": "Waarom Doe Je Dit Nou",
+      "url": "https://open.spotify.com/track/6mCGCSfBfmHW4mcSpmpeJW"
     },
     {
       "album": {

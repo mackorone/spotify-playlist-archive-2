@@ -1,6 +1,6 @@
 {
   "description": "pral\u00e9m de outfit. AURA. Foto: Nebrugg",
-  "num_followers": 148689,
+  "num_followers": 148691,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
@@ -419,26 +419,6 @@
     {
       "added_at": "2026-02-27 18:07:57",
       "album": {
-        "name": "Direto da Selva",
-        "url": "https://open.spotify.com/album/0BLV2fhIeGJmvzBxwz3NxV"
-      },
-      "artists": [
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        },
-        {
-          "name": "Neyriellen Ferreira",
-          "url": "https://open.spotify.com/artist/0FhGKwqvB6mvHxJB2n3fYl"
-        }
-      ],
-      "duration_ms": 200757,
-      "name": "Amanheceu",
-      "url": "https://open.spotify.com/track/2goHxXjG4BLibbnzapH8ow"
-    },
-    {
-      "added_at": "2026-02-27 18:07:57",
-      "album": {
         "name": "DESCE",
         "url": "https://open.spotify.com/album/2DZtqMtwHC5YCjB3htnGE0"
       },
@@ -455,6 +435,26 @@
       "duration_ms": 134400,
       "name": "DESCE",
       "url": "https://open.spotify.com/track/7Iw0FvlqtXjJaDMN68vMPs"
+    },
+    {
+      "added_at": "2026-02-27 18:07:57",
+      "album": {
+        "name": "Direto da Selva",
+        "url": "https://open.spotify.com/album/0BLV2fhIeGJmvzBxwz3NxV"
+      },
+      "artists": [
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "Neyriellen Ferreira",
+          "url": "https://open.spotify.com/artist/0FhGKwqvB6mvHxJB2n3fYl"
+        }
+      ],
+      "duration_ms": 200757,
+      "name": "Amanheceu",
+      "url": "https://open.spotify.com/track/2goHxXjG4BLibbnzapH8ow"
     },
     {
       "added_at": "2026-02-27 18:07:57",
@@ -1059,26 +1059,6 @@
     {
       "added_at": "2026-02-27 18:07:57",
       "album": {
-        "name": "placo no pulso",
-        "url": "https://open.spotify.com/album/13AXMnEcwvaKf37hrMgb2X"
-      },
-      "artists": [
-        {
-          "name": "Men\u00f3 Felps",
-          "url": "https://open.spotify.com/artist/0J1AS2d5WgvcAyNtxClutP"
-        },
-        {
-          "name": "Caio Shock",
-          "url": "https://open.spotify.com/artist/2izEQyLWlnMyweDkHfNrwp"
-        }
-      ],
-      "duration_ms": 176511,
-      "name": "placo no pulso",
-      "url": "https://open.spotify.com/track/58tNC9k8yZjqQoo7i11mbf"
-    },
-    {
-      "added_at": "2026-02-27 18:07:57",
-      "album": {
         "name": "Mr. Lupa Freestyle",
         "url": "https://open.spotify.com/album/69GPAtxzk4v0YXLfB8urkM"
       },
@@ -1095,6 +1075,26 @@
       "duration_ms": 147129,
       "name": "Mr. Lupa Freestyle",
       "url": "https://open.spotify.com/track/0QdnEAQtqSUgvc3yIvsxfg"
+    },
+    {
+      "added_at": "2026-02-27 18:07:57",
+      "album": {
+        "name": "placo no pulso",
+        "url": "https://open.spotify.com/album/13AXMnEcwvaKf37hrMgb2X"
+      },
+      "artists": [
+        {
+          "name": "Men\u00f3 Felps",
+          "url": "https://open.spotify.com/artist/0J1AS2d5WgvcAyNtxClutP"
+        },
+        {
+          "name": "Caio Shock",
+          "url": "https://open.spotify.com/artist/2izEQyLWlnMyweDkHfNrwp"
+        }
+      ],
+      "duration_ms": 176511,
+      "name": "placo no pulso",
+      "url": "https://open.spotify.com/track/58tNC9k8yZjqQoo7i11mbf"
     },
     {
       "added_at": "2026-02-27 18:07:57",

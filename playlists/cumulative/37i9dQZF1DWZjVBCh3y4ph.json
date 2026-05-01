@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Les hits zouk & kompa du moment. Photo : R Dydy x Senyss",
+  "description": "Les hits zouk & kompa du moment. Photo : Jo\u00e9 Dw\u00e8t Fil\u00e9",
   "name": "Zouk Station",
   "tracks": [
     {
@@ -2074,6 +2074,24 @@
       "duration_ms": 232378,
       "name": "Elle a dit oui",
       "url": "https://open.spotify.com/track/2ze27cIt328xJ4GmbduLWD"
+    },
+    {
+      "album": {
+        "name": "Elle voulait",
+        "url": "https://open.spotify.com/album/2UtiPQLm8NKbLIR8xRVyHF"
+      },
+      "artists": [
+        {
+          "name": "Lorenz",
+          "url": "https://open.spotify.com/artist/2EOc5l6ZIB5gygstmhE9eN"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180848,
+      "name": "Elle voulait",
+      "url": "https://open.spotify.com/track/5ZXttool9cUKnXlvx049FV"
     },
     {
       "album": {
@@ -5794,7 +5812,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 159937,
       "name": "Premi\u00e8re fois",
       "url": "https://open.spotify.com/track/6H7vZRmTPhi7wvSCaYCR53"

@@ -2,9 +2,9 @@
 
 ### [Jump Up!](https://open.spotify.com/playlist/37i9dQZF1DX4to60X6goeK)
 
-> Go hard or go home\. Cover: Voltage
+> Go hard or go home\. Cover: Kanine
 
-354 songs - 22 hr 34 min
+355 songs - 22 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -230,7 +230,7 @@
 | [Now Wait](https://open.spotify.com/track/6lIl5VaoIh9NnG73KJtiAm) | [Gino](https://open.spotify.com/artist/6xYGLouunUz3QAYt2aJF2E) | [Now Wait](https://open.spotify.com/album/29zLqmECn4j5RLalG5Mu1g) | 4:31 | 2022-08-12 | 2023-10-28 |
 | [Offender](https://open.spotify.com/track/39dkTH7uL26INRkJYxmPmz) | [Dimension](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S) | [Offender](https://open.spotify.com/album/0HGC8S4h6lsfrPw2lWWbZh) | 3:43 | 2022-05-06 | 2023-12-01 |
 | [OH SHIT](https://open.spotify.com/track/60IGX6fpv4uZZDcTuJm0IS) | [Turno](https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes), [Dreps](https://open.spotify.com/artist/0hBSt9EaV3JxjI2mjF0Nd2) | [OH SHIT](https://open.spotify.com/album/1lqPqWbQGmlyRffoU1twrv) | 2:13 | 2024-05-10 | 2025-01-31 |
-| [OMG](https://open.spotify.com/track/4roXdtgxy29XQ8hSOaT8F7) | [Disrupta](https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G), [Latte](https://open.spotify.com/artist/63RlEaEuJxvoGSoO7nBQK3), [B Live](https://open.spotify.com/artist/5Dyi0c3gAWXi520W10rX1U) | [OMG](https://open.spotify.com/album/12FRM8NELjqrOSdfuXxrfC) | 3:24 | 2024-07-25 |  |
+| [OMG](https://open.spotify.com/track/4roXdtgxy29XQ8hSOaT8F7) | [Disrupta](https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G), [Latte](https://open.spotify.com/artist/63RlEaEuJxvoGSoO7nBQK3), [B Live](https://open.spotify.com/artist/5Dyi0c3gAWXi520W10rX1U) | [OMG](https://open.spotify.com/album/12FRM8NELjqrOSdfuXxrfC) | 3:24 | 2024-07-25 | 2026-05-01 |
 | [Operator](https://open.spotify.com/track/252DtNX0Mg9a0ldYbxC1ru) | [A.M.C](https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ) | [VOID LP](https://open.spotify.com/album/3Yn9wGvgJowYJwKubPrEYv) | 4:27 | 2022-06-20 | 2023-10-16 |
 | [Operator](https://open.spotify.com/track/2ajRKo1dsleuWOj6ukRUqi) | [A.M.C](https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ) | [Operator](https://open.spotify.com/album/52YV9NRavLk76L9Pb3P3Wv) | 4:27 | 2022-05-06 | 2022-07-29 |
 | [Out & About](https://open.spotify.com/track/7ugaJNi3rhiiK9zKLd6l4j) | [Amplify](https://open.spotify.com/artist/64EuuwyWuF2bYlwwrLyN1n), [P Money](https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY) | [Out & About](https://open.spotify.com/album/1OVIX9HjSovZ8Cmot4YrDR) | 2:33 | 2024-05-10 | 2026-02-28 |
@@ -330,6 +330,7 @@
 | [Time Tripping](https://open.spotify.com/track/5CcT9KSH2IvTCtFg4frpFb) | [DJ Hazard](https://open.spotify.com/artist/04rhebO91K6xoiXE0XuDkh) | [Time Tripping / Digital Bumble Bees](https://open.spotify.com/album/2gvINmxlLLFyonA7af898S) | 5:17 | 2023-12-27 | 2024-01-12 |
 | [Told You \(Soundboy\)](https://open.spotify.com/track/2x79nmwPOZB3P9ObCa9QO1) | [Gray](https://open.spotify.com/artist/2Ve4sev1tC5CGEeP5fUb5Y) | [Told You \(Soundboy\)](https://open.spotify.com/album/2Ah95ZX9DuOmwzGv51rCBS) | 2:58 | 2025-01-31 |  |
 | [Too Lazy](https://open.spotify.com/track/20z8sOQkGiwos8mlmRfbnj) | [Document One](https://open.spotify.com/artist/70E0CLEf2H8hCo06gHJ7tu) | [Too Lazy](https://open.spotify.com/album/25EVRGSF2edbKo80nU9QKm) | 3:54 | 2023-12-01 | 2024-06-21 |
+| [Touchdown](https://open.spotify.com/track/3NGj1FaMWLNorEcffTFV9U) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV), [SOTA](https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP), [Mila Falls](https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve) | [Touchdown](https://open.spotify.com/album/2JbAFeht78XUXee4bk7w5F) | 2:40 | 2026-04-30 |  |
 | [Transcend](https://open.spotify.com/track/1kL6yPur8rCHOahU3KUWNb) | [Tsuki](https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7) | [Transcend](https://open.spotify.com/album/5EE5Ix18HkEAFFD5ZHJtxz) | 4:52 | 2022-05-06 | 2023-05-19 |
 | [Transcend](https://open.spotify.com/track/5XuOY9OxZCI8lqlgzGbpoX) | [Tsuki](https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7) | [Transcend](https://open.spotify.com/album/1Jzm2Nbc65Ti5k4bddNOn8) | 4:52 | 2022-08-12 | 2024-03-02 |
 | [Troubleshooter](https://open.spotify.com/track/0BkSrT3H0RJX1FAaFYIqd2) | [Annix](https://open.spotify.com/artist/0llNeW8Q52i2sxV7DsFASR) | [Troubleshooter](https://open.spotify.com/album/436YWIlx3PKjvrJkGIqpjz) | 3:21 | 2025-11-14 | 2026-04-10 |

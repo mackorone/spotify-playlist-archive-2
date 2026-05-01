@@ -4,7 +4,7 @@
 
 > Today's Hip\-Hop with Lil Tjay, BigXthaPlug\. Central Cee, Kanye West, J\. Cole and JT.
 
-1,545 songs - 3 day 4 hr 37 min
+1,546 songs - 3 day 4 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -718,6 +718,7 @@
 | [jane baby \(feat\. Cash Cobain\)](https://open.spotify.com/track/51ayPpFTx4d7P9Kn5kymXp) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [jane baby \(feat\. Cash Cobain\)](https://open.spotify.com/album/0Olav5Z1duvVGHvKTqBOmO) | 2:08 | 2024-09-27 | 2024-10-19 |
 | [JEALOUSY \(feat\. Cardi B\)](https://open.spotify.com/track/73S4fsK22WH929PLFNYgOj) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [JEALOUSY \(feat\. Cardi B\)](https://open.spotify.com/album/3PgS3nituPh4DDt5LT1cNL) | 2:54 | 2023-08-18 | 2023-10-14 |
 | [JEEZ \- Remix](https://open.spotify.com/track/6nCWbZi88y0yWa8Kz6wypT) | [Charmaine](https://open.spotify.com/artist/5cie6OioF2WHr2KflhcQGT), [Paris Richards](https://open.spotify.com/artist/2QKgfzDlgGJCv1hkfOovKH) | [JEEZ \(Remix\)](https://open.spotify.com/album/4rVLtPPxZBFcxgwIFDavU3) | 2:08 | 2023-03-17 | 2023-03-29 |
+| [Jezebel](https://open.spotify.com/track/2ww5S3KQ6d73WAVbPXgCPC) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [Jezebel](https://open.spotify.com/album/2wCruyJJvR1rEJcKYNhqgv) | 1:58 | 2026-04-24 |  |
 | [Jigsaw](https://open.spotify.com/track/3Wqs6XFKsKcTjaWhmB8VCP) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [PRE5L](https://open.spotify.com/album/50DbtjQmnPnB92Mf7yxQt4) | 2:32 | 2022-11-18 | 2023-02-18 |
 | [Jimmy Cooks \(feat\. 21 Savage\)](https://open.spotify.com/track/3F5CgOj3wFlRv51JsHbxhe) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 3:38 | 2022-06-17 | 2022-11-19 |
 | [Jimmy, Brian and Mike](https://open.spotify.com/track/7wtDXxRShBmxJAeXzE4H3p) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [The Eminem Show \(Expanded Edition\)](https://open.spotify.com/album/6EzbFdrwvWpnpUjzrR57aU) | 3:21 | 2022-05-27 | 2022-06-25 |

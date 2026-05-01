@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: \ubcfc\ube68\uac04\uc0ac\ucd98\uae30 (BOL4)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: Balming Tiger) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Indie Korea (\uc778\ub514 \ucf54\ub9ac\uc544)",
   "tracks": [
     {
@@ -8333,7 +8333,7 @@
     },
     {
       "album": {
-        "name": "HANRORO: Indie Korea Takeover",
+        "name": "HANRORO: Indie Korea",
         "url": "https://open.spotify.com/album/5eZwzHktMlMtn8xrwr2hxS"
       },
       "artists": [
@@ -8346,7 +8346,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 3000,
-      "name": "HANRORO Indie Korea Takeover",
+      "name": "HANRORO: Indie Korea",
       "url": "https://open.spotify.com/track/3rb7PFB21Qw7oZ5MOVxDyM"
     },
     {
@@ -8942,6 +8942,24 @@
       "duration_ms": 331000,
       "name": "Hollywood",
       "url": "https://open.spotify.com/track/5FqGmuM9LxaZGOMKLsGL1U"
+    },
+    {
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/2h3Si1lhGsmDycd5uLRtpO"
+      },
+      "artists": [
+        {
+          "name": "Balming Tiger",
+          "url": "https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235501,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/73ZXHRLk5zJEjyStIOex2F"
     },
     {
       "album": {
@@ -10530,6 +10548,28 @@
       "duration_ms": 150094,
       "name": "Ironic",
       "url": "https://open.spotify.com/track/0CpJtbDzgqFjfcckyJvyc5"
+    },
+    {
+      "album": {
+        "name": "is blue",
+        "url": "https://open.spotify.com/album/0Fw2Tih6KT6N3Ba3EfktiE"
+      },
+      "artists": [
+        {
+          "name": "blueberryclub",
+          "url": "https://open.spotify.com/artist/1dgj9mN2Tuy1gdPHn78gZC"
+        },
+        {
+          "name": "sido",
+          "url": "https://open.spotify.com/artist/4cr53OzLrX7pz6uB5AqUkn"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187908,
+      "name": "is blue",
+      "url": "https://open.spotify.com/track/0mPZqSKcck4JJY0R4x3FZR"
     },
     {
       "album": {
@@ -15192,7 +15232,7 @@
       ],
       "date_added": "2026-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 198586,
       "name": "Orange",
       "url": "https://open.spotify.com/track/3nrorWOmfweHzDtiCLZrJE"
@@ -17136,6 +17176,24 @@
       "duration_ms": 1121939,
       "name": "S G T A P E - 02",
       "url": "https://open.spotify.com/track/7jkdHQiiYHhBNAvZeKAeRA"
+    },
+    {
+      "album": {
+        "name": "S G T A P E - 03",
+        "url": "https://open.spotify.com/album/2T6AUhmFA2RTdjd1geBW0T"
+      },
+      "artists": [
+        {
+          "name": "Silica Gel",
+          "url": "https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1102737,
+      "name": "S G T A P E - 03",
+      "url": "https://open.spotify.com/track/0VELcxzskuExJTuqpiTPdk"
     },
     {
       "album": {
@@ -21140,7 +21198,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 249354,
       "name": "To Truth",
       "url": "https://open.spotify.com/track/02EGe74DUyiuQp76biMQ8i"
@@ -23282,7 +23340,7 @@
       ],
       "date_added": "2026-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 245000,
       "name": "With You",
       "url": "https://open.spotify.com/track/2IWqrZomXVc0YmcfDFyCXa"

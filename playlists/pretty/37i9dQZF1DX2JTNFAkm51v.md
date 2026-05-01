@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JTNFAkm51v.md) - [plain]
 
 > 5月5日\(火祝\)\~6日\(水祝\)に開催される「KOBE MELLOW CRUISE」公式プレイリスト。
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,356 likes - 95 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,373 likes - 95 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JTNFAkm51v.md) - [plain]
 | 94 | [RAP BOY pt2 \(feat\. MIKADO\)](https://open.spotify.com/track/6uj8PnaOd7y5Nxgld5MGWU) | [lj](https://open.spotify.com/artist/7bf8nSozw4GvGHRSGJ74ez), [MIKADO](https://open.spotify.com/artist/2snBLq7pgphB4ObS2otWiM) | [little junior](https://open.spotify.com/album/4n1jsN2JgXkEAmKLLRlHJp) | 2:42 |
 | 95 | [supanova](https://open.spotify.com/track/3pVCx5BUhT0ttGffkIeLg0) | [Neibiss](https://open.spotify.com/artist/0aTXphzBvPlvIirCBLEaTG) | [Seaside Club](https://open.spotify.com/album/3Z0oNlsaqAMEUTGWKI9bu0) | 2:28 |
 
-Snapshot ID: `AAAAAC9fm1qonts6d7fdkScevcRqmJ42`
+Snapshot ID: `AAAAANUIk+tkHDR+of5q5cwF4h2vfJEu`

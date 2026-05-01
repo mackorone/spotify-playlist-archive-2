@@ -1246,7 +1246,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 181495,
       "name": "Dat Is Love",
       "url": "https://open.spotify.com/track/0X55Iej9HbkjA92OsdWm7G"
@@ -1568,6 +1568,28 @@
       "duration_ms": 206510,
       "name": "Fersteri",
       "url": "https://open.spotify.com/track/45pXZ2l3wGs6WDzoohtx3s"
+    },
+    {
+      "album": {
+        "name": "Fever",
+        "url": "https://open.spotify.com/album/4gFRRJyYBZz1l6GshGU8oa"
+      },
+      "artists": [
+        {
+          "name": "J.A.D.E",
+          "url": "https://open.spotify.com/artist/286YnD3iVn80KxG43TyBHH"
+        },
+        {
+          "name": "Toluwa",
+          "url": "https://open.spotify.com/artist/4xtmLIFUpUopqHWjhECWUM"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191891,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/7JAi12L2lBze9oZGFCldig"
     },
     {
       "album": {
@@ -2614,6 +2636,28 @@
       "duration_ms": 159111,
       "name": "Je Maakt Me Gek",
       "url": "https://open.spotify.com/track/0XBkVcQuFE3kb6p9XdMDsM"
+    },
+    {
+      "album": {
+        "name": "Jij Hebt Mij",
+        "url": "https://open.spotify.com/album/4FxPsDCcI7HZFW4GPoDypr"
+      },
+      "artists": [
+        {
+          "name": "Kevin",
+          "url": "https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1"
+        },
+        {
+          "name": "Roxy Dekker",
+          "url": "https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125586,
+      "name": "Jij Hebt Mij",
+      "url": "https://open.spotify.com/track/5AIvCO5v2mYxM3EtkxKz4T"
     },
     {
       "album": {
@@ -5146,7 +5190,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 199131,
       "name": "Stap voor stap",
       "url": "https://open.spotify.com/track/5m9XaGwEfUcQoQTJ1rMY1z"
@@ -5999,6 +6043,24 @@
     },
     {
       "album": {
+        "name": "voel je dit ook?",
+        "url": "https://open.spotify.com/album/6oWrDIpQYTjxFn5vmvoWmq"
+      },
+      "artists": [
+        {
+          "name": "DOMINIQUE",
+          "url": "https://open.spotify.com/artist/64mHKQP2E5nzRCINX7E4Ak"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "voel je dit ook?",
+      "url": "https://open.spotify.com/track/6QLge0I13hI7TZ1kujbJGD"
+    },
+    {
+      "album": {
         "name": "VOOR DE FAMILY",
         "url": "https://open.spotify.com/album/2OAEEqmPyg6SvMI6kQ398p"
       },
@@ -6054,7 +6116,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 165625,
       "name": "WAIST",
       "url": "https://open.spotify.com/track/3ETeKkq3K4JnKUx0DXEsHS"

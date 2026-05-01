@@ -1,6 +1,6 @@
 {
   "description": "El futuro ya est\u00e1 aqu\u00ed, con nuestra nueva promoci\u00f3n. Foto: Gara Dur\u00e1n.",
-  "num_followers": 29738,
+  "num_followers": 29733,
   "original_name": "RADAR Espa\u00f1a",
   "owner": {
     "name": "Spotify",
@@ -331,18 +331,22 @@
     {
       "added_at": "2026-04-24 13:58:46",
       "album": {
-        "name": "Beatrice",
-        "url": "https://open.spotify.com/album/1eLk3Z1aBVgPaIMH3JhqDr"
+        "name": "Demian",
+        "url": "https://open.spotify.com/album/6FRwKu5JqXnUCQRcbfENI8"
       },
       "artists": [
         {
           "name": "Teo Planell",
           "url": "https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4"
+        },
+        {
+          "name": "TRIST\u00c1N!",
+          "url": "https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0"
         }
       ],
-      "duration_ms": 138150,
-      "name": "Beatrice",
-      "url": "https://open.spotify.com/track/60soEK2W8RM0Yo4mg9Arbm"
+      "duration_ms": 307000,
+      "name": "El Mundo Delante De Ti",
+      "url": "https://open.spotify.com/track/2Pk8xhJde8ueiR6OymzIov"
     },
     {
       "added_at": "2026-04-24 13:58:46",
@@ -423,22 +427,18 @@
     {
       "added_at": "2026-04-24 13:58:46",
       "album": {
-        "name": "Demian",
-        "url": "https://open.spotify.com/album/6FRwKu5JqXnUCQRcbfENI8"
+        "name": "Beatrice",
+        "url": "https://open.spotify.com/album/1eLk3Z1aBVgPaIMH3JhqDr"
       },
       "artists": [
         {
           "name": "Teo Planell",
           "url": "https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4"
-        },
-        {
-          "name": "TRIST\u00c1N!",
-          "url": "https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0"
         }
       ],
-      "duration_ms": 307000,
-      "name": "El Mundo Delante De Ti",
-      "url": "https://open.spotify.com/track/2Pk8xhJde8ueiR6OymzIov"
+      "duration_ms": 138150,
+      "name": "Beatrice",
+      "url": "https://open.spotify.com/track/60soEK2W8RM0Yo4mg9Arbm"
     },
     {
       "added_at": "2026-04-24 13:58:46",

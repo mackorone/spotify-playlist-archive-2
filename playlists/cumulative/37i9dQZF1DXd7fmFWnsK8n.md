@@ -4,7 +4,7 @@
 
 > アイドリッシュセブンの煌びやかな物語を彩る楽曲たちを1つのプレイリストに。Enjoy Music from the game & anime series of “IDOLiSH 7”!  ©アイドリッシュセブン
 
-167 songs - 11 hr 46 min
+168 songs - 11 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Endless](https://open.spotify.com/track/0MaUOlHsA98bDlw7AuF55i) | [狗丸トウマ \(CV.木村 昴\)](https://open.spotify.com/artist/3XV7Ak6OwcLFuNVEz0RRmM) | [Wonderful Octave](https://open.spotify.com/album/2k12KdVilVrmYeEl2zPsGP) | 4:20 | 2022-06-09 | 2022-07-29 |
 | [Endless](https://open.spotify.com/track/7EJ1STyq4i7Bj4bb7gVxPF) | [狗丸トウマ \(CV.木村 昴\)](https://open.spotify.com/artist/3XV7Ak6OwcLFuNVEz0RRmM) | [Endless](https://open.spotify.com/album/5MxwtisrEABkLAd8bYSzdk) | 4:21 | 2022-06-09 |  |
 | [ESCAPE FROM NOW](https://open.spotify.com/track/1dkh1PwgGlXfAPGk70rgsr) | [TRIGGER](https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH) | [ESCAPE FROM NOW](https://open.spotify.com/album/6htJSCESXHRJJUjiNPiIAz) | 4:22 | 2024-09-17 |  |
-| [Everyday Yeah!](https://open.spotify.com/track/392HE8tcR75B2L4tID259H) | [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH) | [DiSCOVER THE FUTURE](https://open.spotify.com/album/3T3IUShTLoWT6DCxs9U0dF) | 4:15 | 2022-06-09 |  |
+| [Everyday Yeah!](https://open.spotify.com/track/392HE8tcR75B2L4tID259H) | [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH) | [DiSCOVER THE FUTURE](https://open.spotify.com/album/3T3IUShTLoWT6DCxs9U0dF) | 4:15 | 2022-06-09 | 2026-05-01 |
 | [Everything is up to us](https://open.spotify.com/track/2ZFO0dgb5K5mEFsm9ln75Z) | [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH) | [Opus](https://open.spotify.com/album/6Z3MIv6zLb1bk2aOMGbGsi) | 3:37 | 2022-06-09 | 2024-07-10 |
 | [Fly away!](https://open.spotify.com/track/2OAEvzy1GXV40vszTJQtu4) | [和泉一織 \(CV.増田俊樹\)](https://open.spotify.com/artist/7bVbZHNFI8TkukUSoMcbGj), [七瀬 陸 \(CV.小野賢章\)](https://open.spotify.com/artist/63rbHQicCyyjZ5yTOuVu6H) | [i7](https://open.spotify.com/album/2oQz7bh0sPXcx92C1TKV05) | 4:29 | 2022-06-09 |  |
 | [Fly! More Liberty](https://open.spotify.com/track/2jCqpphA4thxYl3lfZBsq0) | [Re:vale](https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU) | [ミライノーツを奏でて](https://open.spotify.com/album/0IXeoD6RAPKrCKjPVspPEj) | 4:04 | 2022-06-09 | 2022-07-29 |
@@ -119,6 +119,7 @@
 | [Take my rose](https://open.spotify.com/track/3II5q9WqmuH8JbwbjRKmoQ) | [七瀬 陸 \(CV.小野賢章\)](https://open.spotify.com/artist/63rbHQicCyyjZ5yTOuVu6H), [八乙女 楽 \(CV.羽多野 渉\)](https://open.spotify.com/artist/1Zh7pStFEOzflunx2dOgJX), [百 \(CV.保志総一朗\)](https://open.spotify.com/artist/3pn6k1AxOtm76sgtZZbmk9), [御堂虎於 \(CV.近藤 隆\)](https://open.spotify.com/artist/4NuxWb2eGVkzb6AsN2sv8H) | [Take my rose](https://open.spotify.com/album/4nJyeH7cjJ0fIwNtRU3jf4) | 3:36 | 2024-04-16 |  |
 | [Tears Over \~この星の君と\~](https://open.spotify.com/track/2j1iEHt7rc5viU1NDiSVA0) | [MEZZO”](https://open.spotify.com/artist/2ya2zQtAJSzAiQEXLllxv0) | [Intermezzo](https://open.spotify.com/album/0usMI7YhKzGwU3SUp72XAx) | 3:52 | 2022-06-09 | 2022-07-29 |
 | [Tenuto](https://open.spotify.com/track/5GITkeU06Cn3mrFCz2eQ55) | [Re:vale](https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU) | [Tenuto](https://open.spotify.com/album/5zI76VBCBUciGGE2gErCYo) | 2:50 | 2025-04-15 |  |
+| [THANK YOU FOR YOUR EVERYTHING!](https://open.spotify.com/track/44vblN9O8AWiPplxx18FrN) | [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH) | [i7](https://open.spotify.com/album/2oQz7bh0sPXcx92C1TKV05) | 4:17 | 2026-03-10 |  |
 | [THE FUNKY UNIVERSE](https://open.spotify.com/track/0tJvlqFpeOfTSBHouFr3W5) | [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH) | [i7](https://open.spotify.com/album/2oQz7bh0sPXcx92C1TKV05) | 4:59 | 2022-06-09 | 2022-06-20 |
 | [THE POLiCY](https://open.spotify.com/track/0XFawxpWbJpymBtIOVhhou) | [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH) | [THE POLiCY](https://open.spotify.com/album/1ne9rypmcOkXuw251cVaAC) | 3:59 | 2022-06-09 | 2022-07-29 |
 | [TO MY DEAREST](https://open.spotify.com/track/7rfxc3WaLBRMoUHXJF9FDh) | [Re:vale](https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU) | [Re:al Axis](https://open.spotify.com/album/1GL2a2l2jLE3jPcFMn0zQT) | 4:20 | 2022-06-09 | 2022-07-10 |

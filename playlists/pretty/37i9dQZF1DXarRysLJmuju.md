@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 
 ### [Pop All Day](https://open.spotify.com/playlist/37i9dQZF1DXarRysLJmuju)
 
-> Today’s pop, plugged into the culture\. Cover: MICO
+> Today’s pop, plugged into the culture w/ MICO
 
-[Spotify](https://open.spotify.com/user/spotify) - 548,786 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 548,742 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 | 99 | [american idol](https://open.spotify.com/track/62TpAHZBiZCGcV4VG1lGLO) | [harper](https://open.spotify.com/artist/4N6xX91ZPlHR2YZ2RBOdPK) | [american idol](https://open.spotify.com/album/1eik4h2RQfqF5hlK37qEui) | 2:41 |
 | 100 | [Coming Up Roses](https://open.spotify.com/track/0QPdjsMOUhwouq1NS3HwfQ) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Kiss All The Time\. Disco, Occasionally.](https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR) | 4:08 |
 
-Snapshot ID: `AAAAAJsyxkIxgepBne+pd+jzqt1mLM/t`
+Snapshot ID: `AAAAAIUvrAMsG9dSHasl8cBdiovnsOcM`

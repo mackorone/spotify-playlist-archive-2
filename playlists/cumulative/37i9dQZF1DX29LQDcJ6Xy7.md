@@ -4,7 +4,7 @@
 
 > A collection of Industrial Metal \- fresh and old tunes\. Cover: Fear Factory
 
-227 songs - 16 hr 7 min
+228 songs - 16 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,9 +71,10 @@
 | [Don’t Know Zero \- Slighter Remix](https://open.spotify.com/track/07oj7iiZTd192Ehu0ADmaL) | [Angelspit](https://open.spotify.com/artist/7Coo58A8U3BCpCl4nQ3pda), [Miss Ballistic](https://open.spotify.com/artist/6tmwxgwbL2CGow7sWzOX9f), [Slighter](https://open.spotify.com/artist/2uwnOLxyzoQjJpqVfMLVZ0) | [Don't Know Zero \(Remixes\)](https://open.spotify.com/album/6cbSAt93f16nggfPxq0w8Y) | 4:50 | 2022-07-01 | 2022-07-27 |
 | [Dr\. Online](https://open.spotify.com/track/5hUXk4avvJ7a1vjbsS0Kiq) | [Zeromancer](https://open.spotify.com/artist/0tQn2q1TIEenLgodtb8Nhx) | [Eurotrash](https://open.spotify.com/album/3OCfNb8ssPOm4G2jNBxsnW) | 3:18 | 2022-07-01 | 2024-09-03 |
 | [Dragula](https://open.spotify.com/track/6Nm8h73ycDG2saCnZV8poF) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Hellbilly Deluxe](https://open.spotify.com/album/2B4lHoTCpWbxQPTZmCOjnH) | 3:42 | 2022-07-01 | 2025-02-11 |
+| [Drugged Dangerous & Damned \- Jagz Kooner Remix \- Edit](https://open.spotify.com/track/57RSLuRekrQmayp76jvrov) | [PIG](https://open.spotify.com/artist/5riS4sDqcjVAwvC37jxTP0), [Jagz Kooner](https://open.spotify.com/artist/3SN6EWQeA35CQctMefRkcd) | [Pain Killer \(Remixes\)](https://open.spotify.com/album/6VEbUccU7tPRKcObK26kwe) | 4:16 | 2025-02-10 |  |
 | [Du riechst so gut](https://open.spotify.com/track/1hNE737dkYD9ZM1J8H9chv) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Herzeleid](https://open.spotify.com/album/2AXNbmgbX2i21Niol6eYul) | 4:49 | 2022-07-01 | 2022-07-29 |
 | [Du riechst so gut](https://open.spotify.com/track/4yUcHLkHUwAPpKN0Uvdo8I) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Herzeleid \(XXV Anniversary Edition – Remastered\)](https://open.spotify.com/album/6HlDm9fzYxk4vkkr3YEvSv) | 4:51 | 2022-07-01 | 2024-04-19 |
-| [Empty](https://open.spotify.com/track/4B8GmkS7ONYQDcChJDguJ3) | [DUST IN MIND](https://open.spotify.com/artist/6i49PLA6jBtxQhb1nxGhM7) | [Ctrl](https://open.spotify.com/album/61ApFxJ0OBmGWVbfZiMeXi) | 3:54 | 2024-10-17 |  |
+| [Empty](https://open.spotify.com/track/4B8GmkS7ONYQDcChJDguJ3) | [DUST IN MIND](https://open.spotify.com/artist/6i49PLA6jBtxQhb1nxGhM7) | [Ctrl](https://open.spotify.com/album/61ApFxJ0OBmGWVbfZiMeXi) | 3:54 | 2024-10-17 | 2026-05-01 |
 | [End Of The Line](https://open.spotify.com/track/25gdaVFJL17lx7sysc8Pul) | [Pain](https://open.spotify.com/artist/0hGpZy6ws8FofByMkt0CV1) | [Rebirth](https://open.spotify.com/album/0KNQf80HEtQ4EXQKg0MSD6) | 4:03 | 2023-07-14 | 2024-04-19 |
 | [End Of The Line](https://open.spotify.com/track/7sOtLB5pwbLOa74X8g8BjK) | [Pain](https://open.spotify.com/artist/0hGpZy6ws8FofByMkt0CV1) | [Rebirth](https://open.spotify.com/album/1CThwFm5smJHLmHflckMkD) | 4:03 | 2022-07-01 | 2023-07-10 |
 | [Endzeit](https://open.spotify.com/track/3YwmrqN6NMxPL5HyjojEOi) | [Schwarzer Engel](https://open.spotify.com/artist/15g7I4KWNHNSPdcCtm6dpk) | [Sieben](https://open.spotify.com/album/3nnX9wWAHFLYun9ylDAhUJ) | 4:10 | 2022-07-01 |  |

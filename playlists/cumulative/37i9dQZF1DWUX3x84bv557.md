@@ -2,9 +2,9 @@
 
 ### [Je Moerstaal](https://open.spotify.com/playlist/37i9dQZF1DWUX3x84bv557)
 
-> Frisse Nederlandse pop\. Cover: Samuel Welten & Lil Kleine
+> Frisse Nederlandse pop\. Cover: Zoë Tauran
 
-1,297 songs - 2 day 13 hr 57 min
+1,302 songs - 2 day 14 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Abracadabra](https://open.spotify.com/track/3aQDbJ2tvQNRTQjwy9az2D) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [Twee Stappen Voor](https://open.spotify.com/album/6HwoP7y1vS2gtH2bMPdfHK) | 2:32 | 2024-10-24 | 2025-01-17 |
 | [Achtbaan](https://open.spotify.com/track/5x8PzeaVxkN8XFgJGlhXvG) | [Irene Hin](https://open.spotify.com/artist/1nn5bv6HhgES2y2qXam8ej) | [Achtbaan](https://open.spotify.com/album/7uMaP4UxEn8MkA1pf6I74s) | 3:20 | 2023-10-12 | 2024-02-09 |
 | [Achter De Regen](https://open.spotify.com/track/3lk6NH9MPrP9TriWNKTedu) | [Ana Luca](https://open.spotify.com/artist/1YdVJS9YSkFrrKDI388PsI) | [Achter De Regen](https://open.spotify.com/album/1mrmJX383QcaTEiHMtVa3d) | 3:12 | 2025-02-13 | 2025-05-23 |
+| [Achterbank](https://open.spotify.com/track/3BCCcJO19QKG54M2EAgGMT) | [Tessa June](https://open.spotify.com/artist/67UrL3cZJQ2WhwqdikarKk) | [Achterbank](https://open.spotify.com/album/0dUbHeTKK4QUnzuwShg4y0) | 2:48 | 2026-04-30 |  |
 | [Achterna](https://open.spotify.com/track/7uPCo7TJUYlMICfuCavnCf) | [Montana](https://open.spotify.com/artist/5JxBfSx4Hez2JQEqZy9xgb), [Della Fox](https://open.spotify.com/artist/76GFGvQ277N1FDxl4e9alb) | [Achterna](https://open.spotify.com/album/1oJbDRk9V70B1p0KMBVo0G) | 2:23 | 2023-12-21 | 2024-03-01 |
 | [Achterom](https://open.spotify.com/track/5nQXli1o0ryNQL741hvnqt) | [Hiigo](https://open.spotify.com/artist/49wmW9ZxLK5Fg0grFZl0iX) | [Achterom](https://open.spotify.com/album/3gp0RzfmWg56jN0ztJyv4Y) | 2:46 | 2024-08-29 | 2024-10-11 |
 | [ADD](https://open.spotify.com/track/0wintW8wGWiRuR0A7sV7qu) | [TIJN](https://open.spotify.com/artist/13cnCFcBgn9RdB5k0Skoc4) | [ADD](https://open.spotify.com/album/5NdeujZHuGj57BrSMLvo7Q) | 2:54 | 2023-09-14 | 2023-09-29 |
@@ -599,6 +600,7 @@
 | [Je Geeft Me Niets](https://open.spotify.com/track/0KKYgORHSuLfmKENVaA53y) | [Aarde aan Daan](https://open.spotify.com/artist/2vgN5rrQjTeLcQqoZcEQDf) | [Je Geeft Me Niets](https://open.spotify.com/album/5AzbWe7jSCrmcKOEMDQ0iE) | 2:33 | 2024-11-21 | 2024-12-13 |
 | [Je Hart Schreeuwt](https://open.spotify.com/track/7x6ZePcUaNscVjqrN76Uww) | [Big2](https://open.spotify.com/artist/3B1Z5CuKo6kA4NzitgWwWV) | [Je Hart Schreeuwt](https://open.spotify.com/album/5UeOpYMPhQF1wZ4yna5EKO) | 2:30 | 2025-12-11 | 2026-02-13 |
 | [Je Hebt Me](https://open.spotify.com/track/5SBIUbG9ksjffWW23BlxN2) | [Delany](https://open.spotify.com/artist/1XTd9ZCFzkRPUoO9yHQAYP) | [Je Hebt Me](https://open.spotify.com/album/2yi7y3OKpF8ckliYQJjbDG) | 2:52 | 2024-04-11 | 2024-06-14 |
+| [Je Hoort Nog Steeds Bij Mij](https://open.spotify.com/track/7ijzPwiRgNqNqa65zHnRD2) | [FLEUR](https://open.spotify.com/artist/5jE7YqOC3yRqDh0QsOmTV0) | [Je Hoort Nog Steeds Bij Mij](https://open.spotify.com/album/3O6Fegs8MtjUGwVzXAlFMm) | 2:51 | 2026-04-30 |  |
 | [Je Kan Een Hoop](https://open.spotify.com/track/6U1qyy4qXzs9VSazl0HAc0) | [Shary\-An](https://open.spotify.com/artist/4YJo8C4fQjZXRewIuH6rnc) | [Je Kan Een Hoop](https://open.spotify.com/album/23rbyKPTBlBY8O5fzqK5dr) | 2:54 | 2025-07-17 | 2025-10-29 |
 | [Je Kan Niet Kiezen](https://open.spotify.com/track/7ngXJjKQZLRLXwptWkuc3H) | [Stefania](https://open.spotify.com/artist/0HZUhj5PZHzHMWSI4s8rOQ) | [Je Kan Niet Kiezen](https://open.spotify.com/album/71255dpIMo5GKXA186q4AZ) | 2:34 | 2025-11-13 | 2026-02-20 |
 | [Je leeft maar 1 keer](https://open.spotify.com/track/6Q2TJRM3fR7E6uZfhmcUvw) | [Stef Bos](https://open.spotify.com/artist/4Rw9pvzG1NLs1RbB8cxBfW) | [Je leeft maar 1 keer](https://open.spotify.com/album/1EgjIzMkAbsoxMdaYKq5xz) | 2:54 | 2023-04-06 | 2023-06-30 |
@@ -965,6 +967,7 @@
 | [Rondjes](https://open.spotify.com/track/6cQWHhI9gJ44kZG0vNofsZ) | [jet van der steen](https://open.spotify.com/artist/60bPC311AlvVdIzqQZyeHo) | [Rondjes](https://open.spotify.com/album/0AOklMhFa8PHsfrdqzvLDk) | 3:10 | 2025-06-19 | 2025-08-15 |
 | [Rood Licht](https://open.spotify.com/track/26zU9nsY6hlPUAjb4PsRsb) | [ZWIJMEL](https://open.spotify.com/artist/7swrz956hjUaa1XUSXMdkd) | [Rood Licht](https://open.spotify.com/album/4rbf6xcKq8hya8XBAw9PWi) | 3:09 | 2023-03-16 | 2023-05-19 |
 | [Rotterdam](https://open.spotify.com/track/156a5itNldVPstH3WoFnFq) | [Huize Lucas](https://open.spotify.com/artist/5V8b23P7NLOVaB04lfb79b) | [Rotterdam](https://open.spotify.com/album/5RIOlXdqpsDkJNl2WLdgPC) | 3:07 | 2023-06-22 | 2023-09-15 |
+| [Roulette](https://open.spotify.com/track/7rZ40tv8wag9JkyQelJ4o9) | [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K) | [Roulette](https://open.spotify.com/album/0dD84yXv3JlqH49B0J34DW) | 2:17 | 2026-04-30 |  |
 | [Ruggengraat](https://open.spotify.com/track/0rLMwM9J5DkkucxXByncSZ) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD), [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q) | [Ruggengraat](https://open.spotify.com/album/3JVuWFwn71zVGhyMKyw85V) | 2:34 | 2023-05-18 | 2023-09-01 |
 | [ruimte voor mij](https://open.spotify.com/track/7Als8qnGuEMDJMxrXixIzo) | [ANNE](https://open.spotify.com/artist/7f3A2xHxiA9Zl8fIhdOoeS) | [ruimte voor mij](https://open.spotify.com/album/2cX6KxowGgmoe3mOiRizlN) | 2:22 | 2024-11-21 | 2025-01-17 |
 | [Ruis](https://open.spotify.com/track/54ZH5RRnVRgN3lYEviUjlf) | [Irene Hin](https://open.spotify.com/artist/1nn5bv6HhgES2y2qXam8ej) | [Achtbaan](https://open.spotify.com/album/4qhYNZ5tx0bXtk57J572mB) | 3:31 | 2023-11-09 | 2024-03-08 |
@@ -986,6 +989,7 @@
 | [Schijnbaar Niet Waar](https://open.spotify.com/track/1WITbzl4lGLokvRBIqKWVj) | [Kimberly Fransens](https://open.spotify.com/artist/4YvTZPiLAVdVA5VkCwyBWk) | [Schijnbaar Niet Waar](https://open.spotify.com/album/18SrsVBd4z2Y7duRaDdvVS) | 2:31 | 2024-05-06 | 2024-09-13 |
 | [Schreeuwen](https://open.spotify.com/track/2xn7cPoNGK74i52b5whZ7A) | [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2) | [Samen Één](https://open.spotify.com/album/0F2Oyz1BS2A5xTU7iCvzxf) | 2:55 | 2024-11-14 | 2025-02-21 |
 | [Schuil Maar Bij Mij](https://open.spotify.com/track/1eLUrmIBerTs30I6GcmGkU) | [Giorgio Sanches](https://open.spotify.com/artist/4czBYH5Cx0BFCXixmMsgyU) | [Schuil Maar Bij Mij](https://open.spotify.com/album/5751gUKj0HJ9ClWVeGLQQ7) | 3:02 | 2024-05-09 | 2024-09-13 |
+| [Schuilen](https://open.spotify.com/track/4HgOcLYz9T8jZLr3xyc40T) | [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2) | [Schuilen](https://open.spotify.com/album/5NhKivSjyoAOpvl4bMjPGg) | 3:29 | 2026-04-30 |  |
 | [Schuilen Voor De Regen](https://open.spotify.com/track/5HCYmzA1iJW9LNWPnbzbx6) | [Simon Keizer](https://open.spotify.com/artist/2dUSZq5IktJI18xdpIEjs2) | [Schuilen Voor De Regen](https://open.spotify.com/album/7zOzONIwavQbkRe9Uw9RfP) | 3:10 | 2026-02-19 |  |
 | [schuldgevoel.](https://open.spotify.com/track/2Ekml6t6JfU8e6UucTpYmo) | [YUKI](https://open.spotify.com/artist/612yT1I01LbUQMbc1kU9yw) | [schuldgevoel.](https://open.spotify.com/album/2JnedB5BL7t21Ppy3TfMyi) | 2:51 | 2026-02-19 |  |
 | [Secret \(Geheim\)](https://open.spotify.com/track/59TKLZBHtgqBDCDpduFW2P) | [Lisa Rose](https://open.spotify.com/artist/6Yd501ivYxC2FYhPiiWr6F), [Toby De Leeuw](https://open.spotify.com/artist/3EJUpTAIxAA9tVmfCvpdFD) | [Secret \(Geheim\)](https://open.spotify.com/album/3u8GssKZ5oTJuLy5z6zJfi) | 2:43 | 2025-05-29 | 2025-10-17 |
@@ -1178,6 +1182,7 @@
 | [Waar Ben Je Bang Voor](https://open.spotify.com/track/1N2qmVOdqt66SP0CT968G7) | [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee), [Lange Frans](https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE) | [Waar Ben Je Bang Voor](https://open.spotify.com/album/5HAfiOik2KpgQDhp8vzjWl) | 2:54 | 2024-04-11 | 2024-06-01 |
 | [Waar ben je?](https://open.spotify.com/track/0wZ25uWXbeZGicz6Wf77Jf) | [Sem van Dijk](https://open.spotify.com/artist/3d8u5GVopjyTpSDW3v534V) | [Waar ben je?](https://open.spotify.com/album/2ao9SVV6eo4fdgjNJfNj6t) | 2:25 | 2024-06-06 | 2024-06-28 |
 | [Waar Ben Jij](https://open.spotify.com/track/2oybR9LRXJ0ixXpNgNRXde) | [Nienke Leone](https://open.spotify.com/artist/1s26JLsXSP2wyCoywwPF46) | [Tegendraads](https://open.spotify.com/album/7k2fnz81WU5IPPNqkqNORj) | 2:48 | 2024-05-16 | 2024-08-30 |
+| [Waar Ben Jij](https://open.spotify.com/track/5MfppCV3LbvXdQV6UXx7Xp) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Waar Ben Jij](https://open.spotify.com/album/6hlHpnyjty0fwvPT3Ro7Fp) | 3:43 | 2026-04-30 |  |
 | [Waar Ben Jij Geweest](https://open.spotify.com/track/4ignFg2a7xfM4Glns0mzIM) | [LAUF](https://open.spotify.com/artist/5ZTKDvzvC98RpTs4TUbilD) | [Waar Ben Jij Geweest](https://open.spotify.com/album/2P2xSOgYCDEPi1n9fTQcT3) | 2:48 | 2026-02-05 |  |
 | [Waar De Ladies Zijn](https://open.spotify.com/track/1RBAmptvCgOBmUQorOiT31) | [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee), [Matthy](https://open.spotify.com/artist/0QHed4AjWDRonljqAa92EF) | [Waar De Ladies Zijn](https://open.spotify.com/album/7sItPhIOsuhFEqT9PyPRXq) | 2:20 | 2026-04-07 |  |
 | [Waar Ik Ben](https://open.spotify.com/track/5f8CxfFjYKpbZMPGenQMbG) | [Hiigo](https://open.spotify.com/artist/49wmW9ZxLK5Fg0grFZl0iX) | [Waar Ik Ben](https://open.spotify.com/album/6LLdzMTrHM0sez2nUM8rqo) | 3:37 | 2026-01-29 | 2026-04-17 |

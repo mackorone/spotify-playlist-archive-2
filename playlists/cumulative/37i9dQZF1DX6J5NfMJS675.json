@@ -1015,6 +1015,24 @@
     },
     {
       "album": {
+        "name": "Ahogar",
+        "url": "https://open.spotify.com/album/31XDTWFSluMZBsk2qytq7q"
+      },
+      "artists": [
+        {
+          "name": "Karla Blum",
+          "url": "https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193043,
+      "name": "Ahogar",
+      "url": "https://open.spotify.com/track/5LLiqyPHWYbomYMN0zAKkw"
+    },
+    {
+      "album": {
         "name": "Airway / Royal",
         "url": "https://open.spotify.com/album/4Ln3NJ0REFF1anVdO9nmaa"
       },
@@ -1280,6 +1298,28 @@
       "duration_ms": 381827,
       "name": "Amnesie",
       "url": "https://open.spotify.com/track/5I18136LcxEO2AfS5x5KIJ"
+    },
+    {
+      "album": {
+        "name": "Amor EP",
+        "url": "https://open.spotify.com/album/6v50qNzxBH7PI4rHsamjVX"
+      },
+      "artists": [
+        {
+          "name": "Charlotte de Witte",
+          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+        },
+        {
+          "name": "CERES",
+          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372293,
+      "name": "Amor (feat. CERES)",
+      "url": "https://open.spotify.com/track/4UhxekskWFXSv9ik933yBv"
     },
     {
       "album": {
@@ -6195,6 +6235,28 @@
     },
     {
       "album": {
+        "name": "Echoes In Motion",
+        "url": "https://open.spotify.com/album/0GTBnstBM7nLoTbHDNQgiV"
+      },
+      "artists": [
+        {
+          "name": "Popof",
+          "url": "https://open.spotify.com/artist/4f2K0RSYyxP4TUyZu1azYB"
+        },
+        {
+          "name": "Giorgia Angiuli",
+          "url": "https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144680,
+      "name": "Echoes In Motion",
+      "url": "https://open.spotify.com/track/2pX0UpPjo79AV70um6xDa4"
+    },
+    {
+      "album": {
         "name": "Echoes of Eternity",
         "url": "https://open.spotify.com/album/5dGOt3kM30Fb5N8XbgQhay"
       },
@@ -6290,7 +6352,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 293967,
       "name": "Ecstasy",
       "url": "https://open.spotify.com/track/0N2rAFxXncCtVpq5SX4NWK"
@@ -10741,6 +10803,24 @@
     },
     {
       "album": {
+        "name": "Jammer",
+        "url": "https://open.spotify.com/album/3ivts74sQpWa6sthon4gV5"
+      },
+      "artists": [
+        {
+          "name": "Jay Lumen",
+          "url": "https://open.spotify.com/artist/6rxmj7vNEofe96g84qMWoV"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326000,
+      "name": "Jammer",
+      "url": "https://open.spotify.com/track/5OGb1quuU0BZcDHPNyTUU1"
+    },
+    {
+      "album": {
         "name": "Janfry",
         "url": "https://open.spotify.com/album/0plksH63rz2lCRa4Im8w13"
       },
@@ -13876,7 +13956,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 336940,
       "name": "Never Slow Down",
       "url": "https://open.spotify.com/track/1ZUQvwz3rHGLZxB5d2OYcv"
@@ -15277,6 +15357,24 @@
     },
     {
       "album": {
+        "name": "Pegasus",
+        "url": "https://open.spotify.com/album/4wDZmVxCwqxpdKm2Wzah0s"
+      },
+      "artists": [
+        {
+          "name": "Bouras",
+          "url": "https://open.spotify.com/artist/5Lu7JOTiNvqjQswt0Uyms2"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162428,
+      "name": "Pegasus",
+      "url": "https://open.spotify.com/track/1LQM4mFcHk1GQFucPaaD2o"
+    },
+    {
+      "album": {
         "name": "People Are Strange",
         "url": "https://open.spotify.com/album/3FGoyELhn8ohJIfcviVxXe"
       },
@@ -15684,7 +15782,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 289852,
       "name": "Pneumatic",
       "url": "https://open.spotify.com/track/1AIKTi7DtQRBk5IglcplXw"
@@ -17396,6 +17494,28 @@
       "duration_ms": 285235,
       "name": "Roll the Dice - Konstantin Sibold Remix",
       "url": "https://open.spotify.com/track/6Sut2jMsmtx3ZFeJQP6jV4"
+    },
+    {
+      "album": {
+        "name": "Roll with Me",
+        "url": "https://open.spotify.com/album/12w2aSGl24fuKGVFJyBQCG"
+      },
+      "artists": [
+        {
+          "name": "Tonino",
+          "url": "https://open.spotify.com/artist/4ZBSaIXRwxv6jfG66bKUCH"
+        },
+        {
+          "name": "Jil Tanner",
+          "url": "https://open.spotify.com/artist/6S9C7LP9TXbeJhoV18RmEK"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173202,
+      "name": "Roll with Me",
+      "url": "https://open.spotify.com/track/25QshgtHhkRXbNVh16hkkm"
     },
     {
       "album": {
@@ -21258,7 +21378,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 189107,
       "name": "Time",
       "url": "https://open.spotify.com/track/5rFVJmACKepgJUOJXAQnjF"
@@ -21410,7 +21530,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 388235,
       "name": "Titan - Original Mix",
       "url": "https://open.spotify.com/track/0PryXxpPW2Q7Bov1i8aY7F"
@@ -23480,7 +23600,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 217750,
       "name": "You Need The Drugs - Kobosil Kartell Mix",
       "url": "https://open.spotify.com/track/4z4iPMgajQ2ZTQWpFyG6kE"

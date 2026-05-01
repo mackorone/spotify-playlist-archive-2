@@ -442,7 +442,7 @@
       ],
       "date_added": "2025-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 446004,
       "name": "I (Who Have Nothing) (with Martha Wash)",
       "url": "https://open.spotify.com/track/77Uzw2YBK5lL5jW6oUsYXU"
@@ -986,6 +986,28 @@
       "duration_ms": 315840,
       "name": "The Impossible Dream",
       "url": "https://open.spotify.com/track/6IJKQ0Qx44YypTSxOMc5AM"
+    },
+    {
+      "album": {
+        "name": "Duets (20th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/67TRGeFfMzq6ArsHrJkzya"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        },
+        {
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204186,
+      "name": "The Lady Is A Tramp",
+      "url": "https://open.spotify.com/track/0JjVhWJGDKHADulJ8EjVAL"
     },
     {
       "album": {

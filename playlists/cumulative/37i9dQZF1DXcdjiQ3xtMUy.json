@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u03a4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03c4\u03b7\u03c2 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae\u03c2 \u03c0\u03bf\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae\u03c2 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Ellize",
+  "description": "\u03a4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03c4\u03b7\u03c2 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae\u03c2 \u03c0\u03bf\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae\u03c2 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Stavento",
   "name": "Greek Pop",
   "tracks": [
     {
@@ -1328,7 +1328,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 179880,
       "name": "Dark Side Of The Moon",
       "url": "https://open.spotify.com/track/5XpEAg0ZT8OiJL2TDDDHlr"
@@ -1368,7 +1368,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 181052,
       "name": "Den Kano Ego Gia Spiti",
       "url": "https://open.spotify.com/track/0ZcakqLusdcGn9vmmCUdnD"
@@ -2483,6 +2483,28 @@
     },
     {
       "album": {
+        "name": "10 Lexeis",
+        "url": "https://open.spotify.com/album/7oBgIXyeaVOw2QkkDvAZz2"
+      },
+      "artists": [
+        {
+          "name": "Stavento",
+          "url": "https://open.spotify.com/artist/43LNzVQi3AUDm6NGSlg4BK"
+        },
+        {
+          "name": "Evangelia",
+          "url": "https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207666,
+      "name": "Gliko Methisi",
+      "url": "https://open.spotify.com/track/23dr3z6SEt87AKtts97vny"
+    },
+    {
+      "album": {
         "name": "DELTA",
         "url": "https://open.spotify.com/album/6BjCsULcWjZDbDcUmTlxfj"
       },
@@ -3579,6 +3601,24 @@
     },
     {
       "album": {
+        "name": "NAYA",
+        "url": "https://open.spotify.com/album/6Gb4SvqtyqT5JYSy4cvUQx"
+      },
+      "artists": [
+        {
+          "name": "CARLA",
+          "url": "https://open.spotify.com/artist/0efzWCTqpsoaTZNUn3ar4z"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155368,
+      "name": "NAYA",
+      "url": "https://open.spotify.com/track/7CoyoHJ9Nhlcl1MPwmUmsn"
+    },
+    {
+      "album": {
         "name": "Neon Sky",
         "url": "https://open.spotify.com/album/7bhgW6xg1uvqhDzlUD14Vg"
       },
@@ -4182,7 +4222,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 196666,
       "name": "Pros To Paron",
       "url": "https://open.spotify.com/track/0Gppi7bYjmxwovvnqRKc1n"

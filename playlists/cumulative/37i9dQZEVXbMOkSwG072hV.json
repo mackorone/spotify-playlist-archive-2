@@ -15860,7 +15860,7 @@
       ],
       "date_added": "2026-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 180000,
       "name": "Catch Catch (Chinese Ver.)",
       "url": "https://open.spotify.com/track/29rzWFatC5WwBw2YypQEzC"
@@ -29263,6 +29263,24 @@
     },
     {
       "album": {
+        "name": "Eu Te Seguro - Ja (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5XPZAo2eY9AumrhJL4teCb"
+      },
+      "artists": [
+        {
+          "name": "Banda Chap\u00e9u de Couro",
+          "url": "https://open.spotify.com/artist/2Hr37cs4w1W0cO6jPQUc4G"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173688,
+      "name": "Eu Te Seguro - Vers\u00e3o Vaquejada - Ao Vivo",
+      "url": "https://open.spotify.com/track/175fovsj0WdeoLntnTTiIf"
+    },
+    {
+      "album": {
         "name": "foto em grupo",
         "url": "https://open.spotify.com/album/302b3oa2S1hTgUHPWX9Iim"
       },
@@ -30508,7 +30526,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 217845,
       "name": "Famoso \u00cdm\u00e3 | O poderoso chat\u00e3o",
       "url": "https://open.spotify.com/track/22bl3LPkCHQSBhCAdw8Jwk"
@@ -73534,6 +73552,28 @@
       "duration_ms": 298933,
       "name": "Running Up That Hill (A Deal With God)",
       "url": "https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR"
+    },
+    {
+      "album": {
+        "name": "RUNWAY",
+        "url": "https://open.spotify.com/album/0WY1wVmchFYlH4f1yZMc90"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171010,
+      "name": "RUNWAY",
+      "url": "https://open.spotify.com/track/7BjcYqD0CqXnG45ezWSTYR"
     },
     {
       "album": {

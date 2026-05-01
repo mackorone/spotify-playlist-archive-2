@@ -4,7 +4,7 @@
 
 > Proudly South African Christian and Gospel music\. Cover: "<a href=https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4?si=glHBHJpWRtmJpm62ielH0w>Xolly Mncwango</a>"
 
-461 songs - 2 day 1 hr 7 min
+463 songs - 2 day 1 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Bow Down and Worship \(Live\)](https://open.spotify.com/track/4pwIlf5w1m2gZJ97o49fpJ) | [Benjamin Dube](https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2) | [Glory in His Presence](https://open.spotify.com/album/4H0LkLQqfqbryyNUmzDvoq) | 10:55 | 2023-03-17 |  |
 | [Bow Down and Worship \- Live](https://open.spotify.com/track/3Iw1xzERcMPz1zAN8O3O7C) | [Benjamin Dube](https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2) | [Glory in His Presence \(Live\)](https://open.spotify.com/album/61dyXejpR6WO0w4gBfHKcR) | 10:54 | 2019-09-26 | 2023-03-12 |
 | [Bulelani/Oh Give Thanks \(Psalm 107:1\) \- Live](https://open.spotify.com/track/6KGpgs31vrR8VA5OflfrQW) | [Ncebakazi Msomi](https://open.spotify.com/artist/51g9htpUzFdCV8GhceWMpX) | [The 37th Psalm \(Live at Emperors Palace\)](https://open.spotify.com/album/1qLHR4gDkXhHEkqnqYkoQ2) | 7:50 | 2025-10-31 | 2026-02-20 |
+| [Buya Jonah](https://open.spotify.com/track/1ytFtOdraWpdSCHfBoonEE) | [uShenge](https://open.spotify.com/artist/5yCiMUECKJoYQt9GPGCyQU) | [Buya Jonah](https://open.spotify.com/album/2fI00Z7sgsvnaqOjAQSznu) | 2:35 | 2026-05-01 |  |
 | [Certainly](https://open.spotify.com/track/4osmGMXeS9jri3GqAXACYt) | [Nqubeko Mbatha](https://open.spotify.com/artist/3WGpAjwdlhofFBmbpaWpKP), [Yousef T Gurupira](https://open.spotify.com/artist/2LtnT8DI2Ct5bPnIXwl2VZ) | [Certainly](https://open.spotify.com/album/7aNaGNekx5e2Px3LwExDKE) | 4:21 | 2025-03-07 | 2025-04-25 |
 | [Consistent God \- Live At Cedarwoods of Sandton, 2023 / Reprise](https://open.spotify.com/track/5B4t3Oj13oo2bZ86w92ZCg) | [Xolly Mncwango](https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4) | [Consistent God \(Live At Cedarwoods of Sandton, 2023 / Reprise\)](https://open.spotify.com/album/605drAootvO08Oed9ZdP1Z) | 2:23 | 2024-03-29 | 2024-04-05 |
 | [Difela Medley \- Live](https://open.spotify.com/track/3pTtLMiP1i8p8oXQGlehV7) | [Puleng March](https://open.spotify.com/artist/65cfvyR00rBULLtOhWfNTn) | [Difela Medley \(Live\)](https://open.spotify.com/album/3iAhZIF23Zv28o9LaXcu4z) | 11:05 | 2024-06-07 | 2024-08-16 |
@@ -186,6 +187,7 @@
 | [Khanimambo/Obrigado \- Live at Covenant House / 2023](https://open.spotify.com/track/25wWAnC4SPSyMD3pqw0s6f) | [Khana Mhlongo](https://open.spotify.com/artist/3jsZFkFbJCKZIR1SbbqiJj) | [Ta Mbilu Yanga \(Live at Covenant House / 2023\)](https://open.spotify.com/album/7D3T33Vkh8G0q6m94KbPrd) | 7:18 | 2024-07-26 | 2024-11-08 |
 | [Khona Manje \- Live](https://open.spotify.com/track/0cFHMKhfyX4z2ke0VebYgk) | [Busi Sibiya](https://open.spotify.com/artist/4Socq1uqmPOvJoneN5NiFe) | [Khona Manje \(Live\)](https://open.spotify.com/album/65da7LjChvizDlebOaZnvw) | 4:33 | 2024-11-22 | 2025-02-14 |
 | [Khuleka](https://open.spotify.com/track/39EpmzDoVvefX1XssjF5jx) | [Nhlanhla Dube](https://open.spotify.com/artist/4POG2vYRKNJB5gcA877Qcp), [MoloJazz](https://open.spotify.com/artist/5V3o6bBGtNacZHJ2wbHiSn) | [Khuleka](https://open.spotify.com/album/2S6MKMPIAnSbCXezzGrGIA) | 3:51 | 2023-07-14 | 2023-08-18 |
+| [Khunama \(Live\)](https://open.spotify.com/track/2ahaEYBYQBsNjQIzo3gufd) | [3C Live](https://open.spotify.com/artist/2KCFczA90zuWgvEfYDohBT), [Dr Tumi](https://open.spotify.com/artist/40wyqBgeUtnE26B5P4ajSJ) | [All Hail \(Live\)](https://open.spotify.com/album/0SkHWz3ijU4x1Qmbpp4w1e) | 7:35 | 2026-05-01 |  |
 | [King Jesus \(Live in Bryanston, 2022\) \(feat\. Siphelele Vundla & Awethu Namba\-Satsha\)](https://open.spotify.com/track/1aFilSkkqwbcDmwpBzIN6b) | [The Fellowship](https://open.spotify.com/artist/21fiKdzTbnSKNmYUnyggga), [Mthunzi Namba](https://open.spotify.com/artist/1MukIJ87BL0zO3LusoV8hv), [Siphelele Vundla](https://open.spotify.com/artist/3TFbyMSFzQ2pbJWd0O4KMD), [Awethu Namba\-Satsha](https://open.spotify.com/artist/1ZAmFaLTG6BjfD8NjStpqH) | [Come to Jesus \(Live in Bryanston, 2022\)](https://open.spotify.com/album/4VZzP0RuA5R7FXzQT1H499) | 5:37 | 2024-04-12 | 2024-08-23 |
 | [Kom Ons Verheerlik Sy Naam \(Live at the Durban Icc\)](https://open.spotify.com/track/7dUigjYJa7sZveOmigGO8f) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration 28 \(The First Set Live at the Durban Icc\)](https://open.spotify.com/album/3R2W3dCtfMfmRVBKjKFBAf) | 6:56 | 2024-06-29 | 2024-10-18 |
 | [Konyana ya Modimo \- Live](https://open.spotify.com/track/3k7yZ0KzbklXi4FwFkjPkW) | [David TheKing](https://open.spotify.com/artist/2U5BkItwy4iRjlDjemdAgi) | [Hymns of Faith \(Live\)](https://open.spotify.com/album/4P7hoE9mBHjwNgJTLtrlWo) | 10:18 | 2022-01-06 | 2024-02-02 |

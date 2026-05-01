@@ -1,12 +1,12 @@
 {
   "description": "This is Heroes Del Silencio. The essential tracks, all in one playlist.",
-  "num_followers": 214529,
+  "num_followers": 214554,
   "original_name": "This Is Heroes Del Silencio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ae/4gAAAAAApJz8cRtSD62XpnOQDg92h",
+  "snapshot_id": "afFKAAAAAADnagykA0T3bvWqvUygYP6x",
   "tracks": [
     {
       "added_at": null,
@@ -399,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Senderos De Traici\u00f3n",
-        "url": "https://open.spotify.com/album/6PsBAHuQ8mzQ0VNrTkXazg"
-      },
-      "artists": [
-        {
-          "name": "Heroes Del Silencio",
-          "url": "https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT"
-        }
-      ],
-      "duration_ms": 256253,
-      "name": "Decadencia",
-      "url": "https://open.spotify.com/track/5Uqw9M6tKMWka2pmMcWGoE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Esp\u00edritu Del Vino- Edici\u00f3n Especial",
         "url": "https://open.spotify.com/album/1HL69BuLCP5QTfz6pE0Qg3"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 359866,
       "name": "Bendecida",
       "url": "https://open.spotify.com/track/6VvWFKYrRyvlfz4ddteFqv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Senderos De Traici\u00f3n",
+        "url": "https://open.spotify.com/album/6PsBAHuQ8mzQ0VNrTkXazg"
+      },
+      "artists": [
+        {
+          "name": "Heroes Del Silencio",
+          "url": "https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT"
+        }
+      ],
+      "duration_ms": 256253,
+      "name": "Decadencia",
+      "url": "https://open.spotify.com/track/5Uqw9M6tKMWka2pmMcWGoE"
     },
     {
       "added_at": null,

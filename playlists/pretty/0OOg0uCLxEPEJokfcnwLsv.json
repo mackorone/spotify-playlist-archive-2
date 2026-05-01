@@ -1,12 +1,12 @@
 {
   "description": "These are some independent rock bands you need to hear.",
-  "num_followers": 958,
+  "num_followers": 960,
   "original_name": "Unsigned Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAF3p8nLUDD0hf8cwlU++Ho2SVXXOCz",
+  "snapshot_id": "AAAF4lqz/3FbRhax1nafX6vZOXgggPif",
   "tracks": [
     {
       "added_at": "2026-02-16 17:20:50",
@@ -1779,6 +1779,70 @@
       "duration_ms": 191946,
       "name": "SHARPEN",
       "url": "https://open.spotify.com/track/2Dfv6jg3y2YChiyeGXTOby"
+    },
+    {
+      "added_at": "2026-04-30 18:47:38",
+      "album": {
+        "name": "I've Got a Story to Tell",
+        "url": "https://open.spotify.com/album/5Ssz0Vi0rbAGXRkF4hhOoX"
+      },
+      "artists": [
+        {
+          "name": "Jenny Scara",
+          "url": "https://open.spotify.com/artist/0F4yegE6Xa3vC2KvCoJTGw"
+        }
+      ],
+      "duration_ms": 145157,
+      "name": "Stay Back",
+      "url": "https://open.spotify.com/track/02wm1989sxHOnZJK9IY0EU"
+    },
+    {
+      "added_at": "2026-04-30 18:55:09",
+      "album": {
+        "name": "My Own Bunker",
+        "url": "https://open.spotify.com/album/4XDTuocZ7RH6466RhNE2pB"
+      },
+      "artists": [
+        {
+          "name": "Fat Drive Factory",
+          "url": "https://open.spotify.com/artist/6JL7xnHim56hmMNyUDelFE"
+        }
+      ],
+      "duration_ms": 174374,
+      "name": "My Own Bunker",
+      "url": "https://open.spotify.com/track/2rLebuakIprXtEJYanD9mP"
+    },
+    {
+      "added_at": "2026-04-30 19:00:06",
+      "album": {
+        "name": "A Light On The Horizon",
+        "url": "https://open.spotify.com/album/6zRSgRECoeWvyG6UQq2Fdw"
+      },
+      "artists": [
+        {
+          "name": "Slackrr",
+          "url": "https://open.spotify.com/artist/17JbSCGvIPoMMl9xGcR8lu"
+        }
+      ],
+      "duration_ms": 199569,
+      "name": "Perspectives",
+      "url": "https://open.spotify.com/track/4E5vUYWAQPmRHDbVZriqt1"
+    },
+    {
+      "added_at": "2026-04-30 19:03:40",
+      "album": {
+        "name": "Haunted",
+        "url": "https://open.spotify.com/album/3OMhyOKxU8AxOMr6dOjJCd"
+      },
+      "artists": [
+        {
+          "name": "Follow Deep",
+          "url": "https://open.spotify.com/artist/0pi2JVymYDQ1helz6Z1AOg"
+        }
+      ],
+      "duration_ms": 217429,
+      "name": "Haunted",
+      "url": "https://open.spotify.com/track/7zoHmY3t1BKRyRADFjiK3P"
     }
   ],
   "unique_name": "Unsigned Rock",

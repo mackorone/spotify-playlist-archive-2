@@ -4,7 +4,7 @@
 
 > Tämän hetken kovimmat suomihitit.
 
-964 songs - 2 day 0 hr 5 min
+967 songs - 2 day 0 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Aurinkoon](https://open.spotify.com/track/1jyva7msC2LeaBA9jFCsLZ) | [HUGO](https://open.spotify.com/artist/3nKO9WbvsGZEwcCSQgwtxZ) | [Aurinkoon](https://open.spotify.com/album/2aiTG7ZgcwTxQobX1nScjj) | 2:27 | 2024-07-02 | 2024-09-06 |
 | [Autiomaa](https://open.spotify.com/track/2avr7NLad9D3g61P8V5fLL) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r) | [People's Champion](https://open.spotify.com/album/1tCNYS0XPcGlPvKhncQd6o) | 3:15 | 2024-10-31 | 2025-01-10 |
 | [Autiomaa \- Vain elämää kausi 16](https://open.spotify.com/track/2xMaGPMw5YroV8i32HAMX0) | [Johannes Brotherus](https://open.spotify.com/artist/5lFVRyMzIDJHW9Oy9vZpYo), [Behm](https://open.spotify.com/artist/3bAa4FKwIgwWYHdaUJicmE), [KUUMAA](https://open.spotify.com/artist/3YC5DVJDjyazvB8hxJSybr) | [Autiomaa \(Vain elämää kausi 16\)](https://open.spotify.com/album/7jLSDdDKjyVENj0chrbTh7) | 2:48 | 2025-09-11 | 2026-02-01 |
+| [Autobahn](https://open.spotify.com/track/4LVEvAnfjYuXn1RooKi5Mn) | [Kube](https://open.spotify.com/artist/56fNXc6wRoO6rkxs0mNtL4) | [Autobahn](https://open.spotify.com/album/38UgXLcxp7CY01IEcyZdzf) | 2:58 | 2026-04-30 |  |
 | [Avaimet mun kiesiin \- Unitas Sigma](https://open.spotify.com/track/2ztWfinagXMBSRTjaMCLX0) | [VJ](https://open.spotify.com/artist/4JdNUmnUaGFg9kX947oHg2), [Sara Bee](https://open.spotify.com/artist/5kvgJ8cZWc3pGpIHhksKTb), [Cheek](https://open.spotify.com/artist/5ZZqIQ25HQmufjjf2trwFO) | [Unitas Sigma](https://open.spotify.com/album/6E3Xyb8bfE4mwDM3tSi2Bt) | 2:05 | 2025-12-05 | 2026-02-22 |
 | [Baby mä oon back](https://open.spotify.com/track/28dIoMaKFcFZ6KNqGGuuQK) | [Isaac Sene](https://open.spotify.com/artist/227yfva6O3LBBYJWNJHC6a) | [Baby mä oon back](https://open.spotify.com/album/1P4Sdf8YLSE2UPK9E5WpvM) | 2:53 | 2024-09-12 | 2024-10-04 |
 | [Badabim \(My Kind Of Terapiaa\)](https://open.spotify.com/track/3KGwFCVwBAa54xwTaCdbJ1) | [Benjamin](https://open.spotify.com/artist/5FgAhHocNrSCn7Ox87uyef) | [Badabim \(My Kind Of Terapiaa\)](https://open.spotify.com/album/18TPXQgapyr0CqbeNCGle3) | 2:36 | 2026-04-23 |  |
@@ -794,6 +795,7 @@
 | [Taivaisiin \- Vain elämää kausi 15](https://open.spotify.com/track/7MSCTPlw8HlljZFheARdFF) | [Eini](https://open.spotify.com/artist/6yTTkPtwPo2PEkQF4SScwM), [Portion Boys](https://open.spotify.com/artist/04UpsyroM3wyQYwhYd9mSv) | [Taivaisiin \(Vain elämää kausi 15\)](https://open.spotify.com/album/5LG3lMMeNl7F9jnvVqJDG3) | 3:29 | 2024-10-10 | 2024-11-29 |
 | [Taivas maan päällä \(Vain elämää kausi 15\)](https://open.spotify.com/track/3KTHNZbs32k0NJCTxo59gA) | [Jussi Rainio](https://open.spotify.com/artist/3rOa6CkFm3mFJLGxvl9uDD), [Neon 2](https://open.spotify.com/artist/2hKALVwoWfBVYA8bcRBpcN) | [Taivas maan päällä \(Vain elämää kausi 15\)](https://open.spotify.com/album/5gfb0KdIcijSair3QHluPN) | 3:23 | 2024-10-24 | 2024-11-01 |
 | [Takatukka](https://open.spotify.com/track/4ZC9E410eX5fMNWI5ITnHd) | [Antti Paalanen](https://open.spotify.com/artist/04v74MPedb2oLX2pUbcC4V) | [Takatukka](https://open.spotify.com/album/5qH8rw6CAseeQMccOMHSWb) | 2:49 | 2026-01-22 |  |
+| [Talking Heads](https://open.spotify.com/track/5roZf9zbPUZ8n7c2kgfLBS) | [Olavi Uusivirta](https://open.spotify.com/artist/5LbUBFEG2qciScT9kwFqmV) | [Camouflage](https://open.spotify.com/album/6Y3KydMkPpUYGvhImvEASo) | 3:46 | 2026-04-30 |  |
 | [Talviklassikko](https://open.spotify.com/track/2IxGkiAebe0JvS83eW5gVE) | [Ville Veikka](https://open.spotify.com/artist/17I0wkPmYMfhZXSmWrWX4C) | [Talviklassikko](https://open.spotify.com/album/6IT9JzmJEqHNR7Xhzowu18) | 4:10 | 2024-12-05 | 2025-01-03 |
 | [Talviuni](https://open.spotify.com/track/1g1SPkB4o2RYpoHrD6TNjA) | [Aatulove](https://open.spotify.com/artist/68tgBoDueRzHJqVOHYSGVm) | [Talviuni](https://open.spotify.com/album/4MuUNi9HdZVMje4ivNSwmk) | 2:49 | 2024-11-28 | 2025-01-10 |
 | [Tapahtui elämä](https://open.spotify.com/track/3ts74b1mm3a1gIqPnVwJNy) | [Ida Paul & Kalle Lindroth](https://open.spotify.com/artist/1pbX4qbCZOyiRA0ih5jGfX), [Ida Paul](https://open.spotify.com/artist/69pjn3Oxt0azUYEw9NE4S0), [Kalle Lindroth](https://open.spotify.com/artist/49PPHx2WvBFfsk6RKE0lCi) | [Tapahtui elämä](https://open.spotify.com/album/47Ha0ca6mwGlBPmr2qjiPt) | 3:55 | 2024-09-26 | 2024-11-15 |
@@ -894,6 +896,7 @@
 | [Vamonos](https://open.spotify.com/track/4VlnaCqpQCs6HNLhIbzKzj) | [Pihlaja](https://open.spotify.com/artist/5XOFNBUv0d2HrBVyTcWCKi) | [Vamonos](https://open.spotify.com/album/6BmzHQGLwR7SANGEbYPWen) | 2:20 | 2025-05-01 | 2025-07-04 |
 | [Vanha minä vainaa](https://open.spotify.com/track/5L4gnmM9v20Rb6HhFZGrVi) | [Benjamin](https://open.spotify.com/artist/5FgAhHocNrSCn7Ox87uyef) | [Vanha minä vainaa](https://open.spotify.com/album/3ed0tanztixPImiSKTb1eA) | 2:39 | 2024-07-02 | 2024-08-10 |
 | [Vanhasta Uuteen](https://open.spotify.com/track/0UxaNxUNLleuXOPtnPnCTZ) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Vanhasta Uuteen](https://open.spotify.com/album/276dY1fRnOuBfSGA5w7Mfb) | 2:49 | 2025-03-27 | 2025-07-04 |
+| [Vanhoja muistellaan](https://open.spotify.com/track/28KgsaQJPjbYKTDltlE9gK) | [KAUKUA](https://open.spotify.com/artist/1B08DZQt5VNw92l8bm8jwZ) | [Vanhoja muistellaan](https://open.spotify.com/album/2dkIJyXn7PDW2P0GzcGtza) | 2:48 | 2026-04-30 |  |
 | [Vantaalainen \(Vain elämää kausi 16\)](https://open.spotify.com/track/1rn1Ln1GWJnmxn7oYyKQes) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r) | [Vantaalainen \(Vain elämää kausi 16\)](https://open.spotify.com/album/0IlkosgcmMdnAupG47k0mo) | 2:57 | 2025-10-30 | 2026-03-20 |
 | [Vapaus on suuri vankila \- Vain elämää kausi 16](https://open.spotify.com/track/55DSeUtrzQTXlBLCTdgWy3) | [Johannes Brotherus](https://open.spotify.com/artist/5lFVRyMzIDJHW9Oy9vZpYo), [KUUMAA](https://open.spotify.com/artist/3YC5DVJDjyazvB8hxJSybr) | [Vapaus on suuri vankila \(Vain elämää kausi 16\)](https://open.spotify.com/album/3a2NdIRAr6UDAwfCjitBhi) | 2:42 | 2025-09-26 | 2025-10-03 |
 | [Vappupallo](https://open.spotify.com/track/06HJQDA7MGlHrJliCrIL6D) | [Portion Boys](https://open.spotify.com/artist/04UpsyroM3wyQYwhYd9mSv) | [Vappupallo](https://open.spotify.com/album/64v95xssuHTheTem7R8ErP) | 3:11 | 2025-04-24 | 2025-06-13 |

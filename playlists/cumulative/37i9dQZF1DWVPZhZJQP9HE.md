@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Rudh
 
-780 songs - 1 day 21 hr 48 min
+781 songs - 1 day 21 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -678,6 +678,7 @@
 | [Theeradhey](https://open.spotify.com/track/5Iyw63IlOUriO02qaTkbGY) | [Sanah Moidutty](https://open.spotify.com/artist/5PRw7B1MlnXte2taK1ePlC), [rudh](https://open.spotify.com/artist/2Q3UCe0lQfw6yrq7EoOb4t), [Sambarsoru](https://open.spotify.com/artist/5QxWEtSLe8mDSSFpceEIvi), [Adesh Krishna](https://open.spotify.com/artist/30LwulQlfH8xE5Bf9P7QaK) | [Theeradhey](https://open.spotify.com/album/0aG1HkEZ1ZMQRC7ZiGO6zG) | 2:44 | 2025-07-30 | 2025-08-14 |
 | [Theeranadhi Polavey](https://open.spotify.com/track/1hN6ou4dvGsLerzS6tIAza) | [Ajith VO](https://open.spotify.com/artist/5XdXM2clDYRAW8PVlWFj8S), [Jithin Raj](https://open.spotify.com/artist/2GkBjSH85M2uKGVtFL5eua) | [Theeranadhi](https://open.spotify.com/album/2NDwwUE44pX5gxIfxWKnIZ) | 4:12 | 2024-08-16 | 2024-10-26 |
 | [Thelivu](https://open.spotify.com/track/5Sk756XS6iB7qdIeHp7Uzh) | [Suraj Jesudhan](https://open.spotify.com/artist/0a3I7hB89mJQc7nCxavrUr) | [Thelivu](https://open.spotify.com/album/6xNKcKLMuXDLDa6p1vuPaO) | 3:06 | 2022-02-18 | 2022-08-12 |
+| [Thendralil \(From "Loopd"\)](https://open.spotify.com/track/3pOTheMxTE43pjFS41Ks0r) | [Charulatha Mani](https://open.spotify.com/artist/5ttI5DDy5AJ8AQb35a9LKm) | [Thendralil \(From "Loopd"\)](https://open.spotify.com/album/0SeG4T0wqcCI5WrqOdjSnY) | 4:36 | 2026-04-30 |  |
 | [Thikki Thikki \(feat\. Sam Vishal\)](https://open.spotify.com/track/132C9FKUMjowhus183wY21) | [CJL](https://open.spotify.com/artist/3SYJxJLEwUw30kArVkoPUi), [Sam Vishal](https://open.spotify.com/artist/0uaYtkIY2nv1tWsigjcLnd) | [Thikki Thikki \(feat\. Sam Vishal\)](https://open.spotify.com/album/1aBDMrqmVeIk6vofRZNg8g) | 3:24 | 2022-06-07 | 2022-07-15 |
 | [Thirikilli \- From "Kaalame Kalipputhaan"](https://open.spotify.com/track/1jogMbJXUZLUOZ3khYM09P) | [Kaber Vasuki](https://open.spotify.com/artist/7dDSQfbUWrNvRqpNP92slb), [Atiium](https://open.spotify.com/artist/59FtOOdwOyFCBSRh7drSjU) | [Thirikilli \(From "Kaalame Kalipputhaan"\)](https://open.spotify.com/album/0fc7T8Lq1DMBHjbHRdmGLp) | 2:03 | 2024-11-08 | 2024-12-06 |
 | [Thiruppikkodu](https://open.spotify.com/track/5KsUy7me4MHo5wYBH1Od15) | [Thuva JB Chandran](https://open.spotify.com/artist/7jaNjjYdfdqOSC9VH7aEqq) | [Thiruppikkodu](https://open.spotify.com/album/1lQid4apjoCKWfhvLxi5oy) | 4:08 | 2023-03-23 | 2023-04-01 |

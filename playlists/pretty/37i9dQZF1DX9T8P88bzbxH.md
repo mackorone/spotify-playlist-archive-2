@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9T8P88bzbxH.md) - [plain]
 
 > One Night Only\. Cover: SIENNA SPIRO
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,315 likes - 16 songs - 53 min 38 sec
+[Spotify](https://open.spotify.com/user/spotify) - 54,304 likes - 16 songs - 53 min 38 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

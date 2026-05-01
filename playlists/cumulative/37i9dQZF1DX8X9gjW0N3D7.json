@@ -1123,6 +1123,24 @@
     },
     {
       "album": {
+        "name": "Check Engine",
+        "url": "https://open.spotify.com/album/3Fnp7iTfN3GYQoFxml9BG3"
+      },
+      "artists": [
+        {
+          "name": "Sunderloom",
+          "url": "https://open.spotify.com/artist/39RDCjWphLt3dcDb975MyX"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251926,
+      "name": "Chrysalide",
+      "url": "https://open.spotify.com/track/3FcXXAJGLHPRzSgGaAG6xH"
+    },
+    {
+      "album": {
         "name": "Ch\u00e2teau de sable",
         "url": "https://open.spotify.com/album/1mhXgb3EuFPMO58Pv3K4d2"
       },
@@ -1400,6 +1418,24 @@
       "duration_ms": 115344,
       "name": "Couche tard",
       "url": "https://open.spotify.com/track/2GMjBIujd8dNs5SpT1RQLd"
+    },
+    {
+      "album": {
+        "name": "coucou, comment \u00e7a va?",
+        "url": "https://open.spotify.com/album/0q5h1NuPKCjq06DSz5q9T7"
+      },
+      "artists": [
+        {
+          "name": "comment debord",
+          "url": "https://open.spotify.com/artist/6C16UJJjE6FE2VwenTrElQ"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253208,
+      "name": "coucou, comment \u00e7a va?",
+      "url": "https://open.spotify.com/track/2KFgHnjoIbI2xZZjbxQMWf"
     },
     {
       "album": {
@@ -4514,7 +4550,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 214522,
       "name": "Le Spectre",
       "url": "https://open.spotify.com/track/2nsfLmU40tquCtYY6dPnnb"
@@ -5994,7 +6030,7 @@
       ],
       "date_added": "2026-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 172706,
       "name": "Panne \u00e9lectrique - Version piano",
       "url": "https://open.spotify.com/track/7n6ndSC1Y0LRatyupnApF9"
@@ -6453,6 +6489,24 @@
     },
     {
       "album": {
+        "name": "QUAND JE ME NOiE",
+        "url": "https://open.spotify.com/album/1hgAKI85NnUKXLmJG8r0zV"
+      },
+      "artists": [
+        {
+          "name": "No\u00ebm",
+          "url": "https://open.spotify.com/artist/6fiZDVQvW1lOkWfH6PV30w"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203250,
+      "name": "QUAND JE ME NOiE",
+      "url": "https://open.spotify.com/track/1mjXmGHUKMOG5eYsbh0jgm"
+    },
+    {
+      "album": {
         "name": "Quand m\u00eame",
         "url": "https://open.spotify.com/album/5gUYflyaZi4JNtAkoJcRNJ"
       },
@@ -6883,6 +6937,24 @@
     },
     {
       "album": {
+        "name": "R\u00eave am\u00e9ricain",
+        "url": "https://open.spotify.com/album/3sdQCZN0xkMIFa8Baokdj0"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Personne",
+          "url": "https://open.spotify.com/artist/5Aw2a3f4H08TuXNR1OqtLy"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217879,
+      "name": "R\u00eave am\u00e9ricain",
+      "url": "https://open.spotify.com/track/24QonUF5uozUXhAnU8UA9B"
+    },
+    {
+      "album": {
         "name": "r\u00eaves en hd",
         "url": "https://open.spotify.com/album/04GXwso8ghTY0qJ148Wzoi"
       },
@@ -6952,7 +7024,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 208626,
       "name": "Sans moi",
       "url": "https://open.spotify.com/track/7rchRoGZyaW3cgULOqOjfy"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-28",
-  "description": "\u26a1\ufe0f qui un sacco di musica giovane \u26a1\ufe0f Cover: BLANCHITO BEBE",
+  "description": "\u26a1\ufe0f qui un sacco di musica giovane \u26a1\ufe0f Cover: Gaia",
   "name": "GENERAZIONE Z",
   "tracks": [
     {
@@ -346,7 +346,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 148387,
       "name": "7 VITE",
       "url": "https://open.spotify.com/track/7yIEmsWy8RuYo9KVJt5lWp"
@@ -704,7 +704,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 159360,
       "name": "Addio xx",
       "url": "https://open.spotify.com/track/5uqqtENVvjMHwJjwhA0ygT"
@@ -1142,7 +1142,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 153277,
       "name": "ANCORA",
       "url": "https://open.spotify.com/track/0wpHfNrcHhorXg5hAShozc"
@@ -2469,6 +2469,24 @@
     },
     {
       "album": {
+        "name": "Bossa Nostra",
+        "url": "https://open.spotify.com/album/3jCG9BHzeIC5m4ifWQozsS"
+      },
+      "artists": [
+        {
+          "name": "Gaia",
+          "url": "https://open.spotify.com/artist/3AVx3OBPIk4pJQllAXoVs1"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196846,
+      "name": "Bossa Nostra",
+      "url": "https://open.spotify.com/track/7EFFg3umzGzCnOIHG6Fr6V"
+    },
+    {
+      "album": {
         "name": "BOULEVARD",
         "url": "https://open.spotify.com/album/216MCmKzpLIcu8rMpCHWUZ"
       },
@@ -3224,7 +3242,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 208875,
       "name": "casa mia",
       "url": "https://open.spotify.com/track/4asnXnpnLxhaLyNpbqHLRA"
@@ -5576,7 +5594,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 171298,
       "name": "Dove Andare",
       "url": "https://open.spotify.com/track/2Poalx3D18sXaufZLom7AT"
@@ -6128,7 +6146,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 135983,
       "name": "everest (feat. thasup)",
       "url": "https://open.spotify.com/track/72BgqA4ZMpjTMdRYHtw3rc"
@@ -6375,6 +6393,28 @@
     },
     {
       "album": {
+        "name": "Femmina",
+        "url": "https://open.spotify.com/album/5iIq1lkDoEn2PauUyY6gf6"
+      },
+      "artists": [
+        {
+          "name": "Rhove",
+          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
+        },
+        {
+          "name": "Madfingerz",
+          "url": "https://open.spotify.com/artist/4VmOlyJsnQB93ZIGMO2XWo"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170816,
+      "name": "Femmina",
+      "url": "https://open.spotify.com/track/1zWyRMaIb2NqfCJMJBsfpf"
+    },
+    {
+      "album": {
         "name": "FENOMENALE",
         "url": "https://open.spotify.com/album/01RZOMwz4i2Zxbs4epnvO4"
       },
@@ -6502,7 +6542,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 147692,
       "name": "FIGLIO DI P",
       "url": "https://open.spotify.com/track/71PNIJca0wWxSeu43MT45E"
@@ -7290,6 +7330,24 @@
       "duration_ms": 186078,
       "name": "Giovane e triste",
       "url": "https://open.spotify.com/track/56WecW5HnWstqg0GvhseEP"
+    },
+    {
+      "album": {
+        "name": "GIRA",
+        "url": "https://open.spotify.com/album/54ILQvpwonFaIKD4yXtfkN"
+      },
+      "artists": [
+        {
+          "name": "Riccardo Stimolo",
+          "url": "https://open.spotify.com/artist/4EhjjoVdrX6UUIs7H95WJW"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164124,
+      "name": "GIRA",
+      "url": "https://open.spotify.com/track/46Ff4xuKRM7LmEXkYN290S"
     },
     {
       "album": {
@@ -9377,6 +9435,24 @@
     },
     {
       "album": {
+        "name": "LACRIME DI FANGO",
+        "url": "https://open.spotify.com/album/2zkVigtvazEvohgg886pkM"
+      },
+      "artists": [
+        {
+          "name": "Gard",
+          "url": "https://open.spotify.com/artist/25p6aXpMXAHmFj2jkukiVo"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165524,
+      "name": "LACRIME DI FANGO",
+      "url": "https://open.spotify.com/track/7wGScXI4MlpwzlryDDDGUN"
+    },
+    {
+      "album": {
         "name": "Innamorato",
         "url": "https://open.spotify.com/album/44iFvVtFduw0s4bPAk5skP"
       },
@@ -9830,7 +9906,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 171720,
       "name": "Lolita",
       "url": "https://open.spotify.com/track/67nAky0LRZBz5WCHBYwfi7"
@@ -9866,7 +9942,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 191748,
       "name": "Los Angeles",
       "url": "https://open.spotify.com/track/4gYmCnGEFv2rJ4L9eDsXhA"
@@ -10781,6 +10857,24 @@
     },
     {
       "album": {
+        "name": "Ma'",
+        "url": "https://open.spotify.com/album/2dSL2X3K3YoVwaKty2JYcE"
+      },
+      "artists": [
+        {
+          "name": "BLANCO",
+          "url": "https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215818,
+      "name": "Ma\u2019",
+      "url": "https://open.spotify.com/track/6SkyJe6R42VbKw16mH0a2v"
+    },
+    {
+      "album": {
         "name": "Me l'hai detto tu (feat. chiamamifaro)",
         "url": "https://open.spotify.com/album/20zDgmPugLaGTgXCMgU9oM"
       },
@@ -11662,6 +11756,24 @@
       "duration_ms": 153488,
       "name": "Mondo Fiorito",
       "url": "https://open.spotify.com/track/4N8drGsZx0X0vMyqgpE8GI"
+    },
+    {
+      "album": {
+        "name": "MORIRE DI ME",
+        "url": "https://open.spotify.com/album/0lTQnegcGdJiLW5l6FLja3"
+      },
+      "artists": [
+        {
+          "name": "Flaza",
+          "url": "https://open.spotify.com/artist/5jnf9se8FZG6U9NeP6r1fH"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181151,
+      "name": "MORIRE DI ME",
+      "url": "https://open.spotify.com/track/0zaHyWplrMOq51H7bShC4e"
     },
     {
       "album": {
@@ -13336,7 +13448,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 157781,
       "name": "ORA D'ARIA",
       "url": "https://open.spotify.com/track/5P5KsXmSZtSHCsLV2v6gMa"
@@ -15333,6 +15445,24 @@
     },
     {
       "album": {
+        "name": "QUESTA INSENSATA VOGLIA DI TE",
+        "url": "https://open.spotify.com/album/6v8Dh5jr3ykfLoBPvZKrmj"
+      },
+      "artists": [
+        {
+          "name": "Ultimo",
+          "url": "https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208626,
+      "name": "QUESTA INSENSATA VOGLIA DI TE",
+      "url": "https://open.spotify.com/track/3M5e1yWYMKQPE0IUePwdBt"
+    },
+    {
+      "album": {
         "name": "Questione di vibe",
         "url": "https://open.spotify.com/album/3Fo6sV29rMzUF1sczUYpSH"
       },
@@ -15750,6 +15880,28 @@
       "duration_ms": 144278,
       "name": "Ricordarmi di scordarti",
       "url": "https://open.spotify.com/track/7HfIA6XWVZWsLC7SSBdavy"
+    },
+    {
+      "album": {
+        "name": "Ma'",
+        "url": "https://open.spotify.com/album/2dSL2X3K3YoVwaKty2JYcE"
+      },
+      "artists": [
+        {
+          "name": "BLANCO",
+          "url": "https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH"
+        },
+        {
+          "name": "Elisa",
+          "url": "https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277611,
+      "name": "Ricordi (con Elisa)",
+      "url": "https://open.spotify.com/track/1FiQPrDtOkxBMuNYsJSPmW"
     },
     {
       "album": {
@@ -16957,6 +17109,24 @@
     },
     {
       "album": {
+        "name": "Signorina",
+        "url": "https://open.spotify.com/album/2rR4Aoym5eqv3WFOVRJK3O"
+      },
+      "artists": [
+        {
+          "name": "Angie",
+          "url": "https://open.spotify.com/artist/7vFaBCvPdgAsrWJiv5NI3Z"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156451,
+      "name": "Signorina",
+      "url": "https://open.spotify.com/track/3TGQMgdGYS4xeKxaZv9A8b"
+    },
+    {
+      "album": {
         "name": "Singapore - PLUTONE",
         "url": "https://open.spotify.com/album/16qvTf0x36VYD0ZkYfa2JP"
       },
@@ -17938,7 +18108,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 141270,
       "name": "STUPIDA",
       "url": "https://open.spotify.com/track/4NGPyafxftu7QwRoi7S8mt"
@@ -17978,6 +18148,24 @@
       "duration_ms": 182307,
       "name": "Stupida Vita",
       "url": "https://open.spotify.com/track/0nCcnpWjuC3Ti5I6Fqtkpv"
+    },
+    {
+      "album": {
+        "name": "STUPIDO",
+        "url": "https://open.spotify.com/album/7fRORWWqHH5bAssO8Y9WAS"
+      },
+      "artists": [
+        {
+          "name": "Elteep",
+          "url": "https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "STUPIDO",
+      "url": "https://open.spotify.com/track/3hj4cPJO3b2o1pm22H16jc"
     },
     {
       "album": {
@@ -18851,6 +19039,28 @@
     },
     {
       "album": {
+        "name": "TROPICALIA",
+        "url": "https://open.spotify.com/album/2r2CgFMHLQ3ydPRGMy8KR1"
+      },
+      "artists": [
+        {
+          "name": "SKT",
+          "url": "https://open.spotify.com/artist/6WRnYIPYh4mJIj6qHRmoZr"
+        },
+        {
+          "name": "Gaia",
+          "url": "https://open.spotify.com/artist/3AVx3OBPIk4pJQllAXoVs1"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192987,
+      "name": "TROPICALIA",
+      "url": "https://open.spotify.com/track/55DDSwtt08TC5zXReDycmR"
+    },
+    {
+      "album": {
         "name": "TTXTE",
         "url": "https://open.spotify.com/album/0XkK1MN64eJ5GI5r4Hs2H8"
       },
@@ -19174,7 +19384,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 170074,
       "name": "tuttocambia",
       "url": "https://open.spotify.com/track/6SRvwpn30CUU6UdmYBLTX6"
@@ -19264,7 +19474,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 275750,
       "name": "Un amore come il nostro - VENERE",
       "url": "https://open.spotify.com/track/2vyMb3lMiom9IHrUo3VhKp"
@@ -20632,7 +20842,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 161250,
       "name": "x love <3",
       "url": "https://open.spotify.com/track/5Ty4RD1GItfQX1Lvd4bZ8E"

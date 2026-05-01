@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Ocjwy96xTX.md) - [plain]
 
 > back up in the sky
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,579 likes - 121 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,599 likes - 121 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Ocjwy96xTX.md) - [plain]
 | 24 | [delulu](https://open.spotify.com/track/20APmzlrVuZ7dMl2nPlLJi) | [NESYA](https://open.spotify.com/artist/0P0siigmv3AUVmXnPaHUFp) | [Never Truly Happy](https://open.spotify.com/album/2rIOtKl8QJRs40MkZ84Unh) | 2:16 |
 | 25 | [Doll Hearts](https://open.spotify.com/track/7wTW7z3VFmUFAcIlCNboaq) | [Babyteeth](https://open.spotify.com/artist/5G4r8ljlfEd8oFcI2Fneax) | [Doll Hearts](https://open.spotify.com/album/2P2eSZkMoVLJ4xCoUbOlfz) | 2:23 |
 | 26 | [Green Edge](https://open.spotify.com/track/2VFnC7z1CCX0iWQZyAbOB9) | [Colle](https://open.spotify.com/artist/1Ntmc8ccjS54sdx3ZVqqPI) | [Montalvo](https://open.spotify.com/album/5hb0lF7BfVsxwkTP8W7Agr) | 3:32 |
-| 27 | [tanenbaum](https://open.spotify.com/track/72MV4bQVogXSY4nFRgJUY0) | [Mixed Matches](https://open.spotify.com/artist/7A2xUGz3Mbq2tJdMfILN34) | [a benevolent being has agreed to strike me down, thank god](https://open.spotify.com/album/6O4uyLJh9Ozi0WaiO5cyvl) | 1:31 |
+| 27 | [tanenbaum](https://open.spotify.com/track/72MV4bQVogXSY4nFRgJUY0) | [mixed matches](https://open.spotify.com/artist/7A2xUGz3Mbq2tJdMfILN34) | [a benevolent being has agreed to strike me down, thank god](https://open.spotify.com/album/6O4uyLJh9Ozi0WaiO5cyvl) | 1:31 |
 | 28 | [Apollon](https://open.spotify.com/track/4hyFwrL9rNfrk5sG8iKctd) | [Ghost Mountain](https://open.spotify.com/artist/5Hxx7FpVvps2OZLl6LUfJi) | [Apollon](https://open.spotify.com/album/0udUblWUl05uR1ELebTbra) | 3:13 |
 | 29 | [Toxoplasma](https://open.spotify.com/track/1Z525RBZrBwIqGBHKjxawa) | [Horse Vision](https://open.spotify.com/artist/28gAkTGnjn8QZllb4EU4OM) | [Toxoplasma](https://open.spotify.com/album/27orn2kKrM2nNd7JYjUnty) | 2:38 |
 | 30 | [Untitled](https://open.spotify.com/track/3ZS80IOKVp7d5sjNNZLa6G) | [Chakra Efendi](https://open.spotify.com/artist/3pFSlKAoVnaEycgIcPDctw) | [Untitled](https://open.spotify.com/album/4cZDjflHwCX5D5vWv0cpGL) | 2:29 |

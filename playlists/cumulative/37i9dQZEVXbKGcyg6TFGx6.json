@@ -19868,7 +19868,7 @@
       ],
       "date_added": "2026-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 174640,
       "name": "Experi\u00eancia - Ao Vivo",
       "url": "https://open.spotify.com/track/3T9MwSk2g9nXabFPjHE7SF"
@@ -22678,7 +22678,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 188852,
       "name": "Funk Town",
       "url": "https://open.spotify.com/track/5Z5QRhx4yXhqFOIul4Uimn"
@@ -23322,6 +23322,28 @@
       "duration_ms": 211141,
       "name": "get him back!",
       "url": "https://open.spotify.com/track/2gyxAWHebV7xPYVxqoi86f"
+    },
+    {
+      "album": {
+        "name": "Ghen Ghen",
+        "url": "https://open.spotify.com/album/1OIc2glUJMiQJqUonhztCR"
+      },
+      "artists": [
+        {
+          "name": "Big Smart",
+          "url": "https://open.spotify.com/artist/6g8gm81rvUz82cGB3Ry1tn"
+        },
+        {
+          "name": "Magnito",
+          "url": "https://open.spotify.com/artist/1u3Hw4LXhW2EeCR3Wanqan"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199513,
+      "name": "Ghen Ghen",
+      "url": "https://open.spotify.com/track/0MU4hOetDhQhEDPr3Q3dTF"
     },
     {
       "album": {
@@ -50549,6 +50571,24 @@
     },
     {
       "album": {
+        "name": "Saying Goodbye",
+        "url": "https://open.spotify.com/album/0tJBON9INOvIuB8GsFhZS0"
+      },
+      "artists": [
+        {
+          "name": "EasyYC",
+          "url": "https://open.spotify.com/artist/5YM8PDvQK4QDJOQzKq3eEE"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149000,
+      "name": "Saying Goodbye",
+      "url": "https://open.spotify.com/track/5in6m9lMoTwYYZB5U2A1q8"
+    },
+    {
+      "album": {
         "name": "Scared To Start",
         "url": "https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39"
       },
@@ -52142,7 +52182,7 @@
       ],
       "date_added": "2025-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-27",
+      "date_removed": null,
       "duration_ms": 195824,
       "name": "Si Antes Te Hubiera Conocido",
       "url": "https://open.spotify.com/track/73scB4Q4fcOmnsBVZPmk32"
@@ -53024,7 +53064,7 @@
       ],
       "date_added": "2025-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 169000,
       "name": "So Easy (To Fall In Love)",
       "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"

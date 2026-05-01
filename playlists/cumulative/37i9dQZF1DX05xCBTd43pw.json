@@ -5012,7 +5012,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 151500,
       "name": "Lighthouse",
       "url": "https://open.spotify.com/track/2Dq95ZPjYsVn3jKWZSY06p"
@@ -5524,7 +5524,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-16",
+      "date_removed": null,
       "duration_ms": 167340,
       "name": "Meteoriti",
       "url": "https://open.spotify.com/track/5v97denncuVynKzc9bdhfD"
@@ -6408,7 +6408,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 277693,
       "name": "Only You (All I Needed)",
       "url": "https://open.spotify.com/track/4bxLyWVInV5RZkXSiiQtU1"
@@ -8248,6 +8248,24 @@
       "duration_ms": 171800,
       "name": "that life",
       "url": "https://open.spotify.com/track/2h380v9zZM6kaarDPvijMk"
+    },
+    {
+      "album": {
+        "name": "the arrow",
+        "url": "https://open.spotify.com/album/5wYO5jRHCsUgzbkqj3F3Hy"
+      },
+      "artists": [
+        {
+          "name": "Mik Ivy",
+          "url": "https://open.spotify.com/artist/2yu0SHmrIif1ZuHxX5s2TA"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221245,
+      "name": "the arrow",
+      "url": "https://open.spotify.com/track/2RdFLhXHKs61WVR97Lhx0T"
     },
     {
       "album": {

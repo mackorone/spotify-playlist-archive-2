@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best new dance tracks from independent artists & labels. Featuring Collect 200. Curated by human Spotify editors. \n",
+  "description": "The best new dance tracks from independent artists & labels. Featuring Aki Oke. Curated by human Spotify editors. \n",
   "name": "Fresh Finds Dance",
   "tracks": [
     {
@@ -1326,6 +1326,24 @@
       "duration_ms": 151627,
       "name": "Act A Fool",
       "url": "https://open.spotify.com/track/21muZspAq0wIHfn2WvkMg8"
+    },
+    {
+      "album": {
+        "name": "Act Right",
+        "url": "https://open.spotify.com/album/4rZCqHjsh7qcJ6aoDRRwJT"
+      },
+      "artists": [
+        {
+          "name": "Randm",
+          "url": "https://open.spotify.com/artist/2zpgFk6YybybyMAcaIaUtY"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214600,
+      "name": "Act Right",
+      "url": "https://open.spotify.com/track/64cawGqiZJWzjZhfjcfubU"
     },
     {
       "album": {
@@ -9142,7 +9160,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 149835,
       "name": "BUSY",
       "url": "https://open.spotify.com/track/0ajlzNN3H0pXTRJQka10zQ"
@@ -9952,7 +9970,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 218536,
       "name": "Can\u2019t Take It",
       "url": "https://open.spotify.com/track/55cT6CQVoS4vsBo7sUcInf"
@@ -15799,6 +15817,24 @@
     },
     {
       "album": {
+        "name": "don't call",
+        "url": "https://open.spotify.com/album/3dnnal8WQr4Vcq7u0gRMx9"
+      },
+      "artists": [
+        {
+          "name": "bufr.",
+          "url": "https://open.spotify.com/artist/3hPYq7lt8frN2XwFbFQWI5"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110139,
+      "name": "don't call",
+      "url": "https://open.spotify.com/track/6p0HlaC4VdYZGxew0OLBP7"
+    },
+    {
+      "album": {
         "name": "Don't Call Me Up",
         "url": "https://open.spotify.com/album/1avNBD7EEiajvmTCdhQRid"
       },
@@ -16660,7 +16696,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 263978,
       "name": "DREAM",
       "url": "https://open.spotify.com/track/3Gv4iRTcFcDJ3n12vCyWst"
@@ -19536,6 +19572,24 @@
       "duration_ms": 116571,
       "name": "FALLING (breathing slowly)",
       "url": "https://open.spotify.com/track/0Pkwrelbc8cnzZoexCmVeT"
+    },
+    {
+      "album": {
+        "name": "Fanga",
+        "url": "https://open.spotify.com/album/71MjiX9HjfdP5Kf7WwnUtq"
+      },
+      "artists": [
+        {
+          "name": "Narasimha",
+          "url": "https://open.spotify.com/artist/2wzbr5OelMdawn7HrZRefV"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209769,
+      "name": "Fanga",
+      "url": "https://open.spotify.com/track/2DykxprHbMOi4HlOGVXBo3"
     },
     {
       "album": {
@@ -24820,7 +24874,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 205162,
       "name": "Grab Me Water",
       "url": "https://open.spotify.com/track/2aLzIJ1mikuw6xWuynqycG"
@@ -27568,7 +27622,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 220000,
       "name": "Hot 'N Heavy",
       "url": "https://open.spotify.com/track/14bmYLH9zFWXyR0wggKuKw"
@@ -29494,6 +29548,24 @@
       "duration_ms": 157434,
       "name": "i'll be there",
       "url": "https://open.spotify.com/track/2oRO0TDoMyhowADpRKqexD"
+    },
+    {
+      "album": {
+        "name": "Dubplate Style",
+        "url": "https://open.spotify.com/album/3RtBN6q0avFJBY5mYG8VdS"
+      },
+      "artists": [
+        {
+          "name": "Captain Wallop",
+          "url": "https://open.spotify.com/artist/1Q2WcEg1kdVTuRcGqrLBz5"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 391875,
+      "name": "I'm An Addict",
+      "url": "https://open.spotify.com/track/0oFMerkNr6VeCera8dHgqu"
     },
     {
       "album": {
@@ -33109,6 +33181,24 @@
     },
     {
       "album": {
+        "name": "Left & Right",
+        "url": "https://open.spotify.com/album/7BuykrHh9uz2TpqZsJE5Vw"
+      },
+      "artists": [
+        {
+          "name": "Modre",
+          "url": "https://open.spotify.com/artist/2EfUUK5fHryynO8DEpbhI8"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173333,
+      "name": "Left & Right",
+      "url": "https://open.spotify.com/track/24BqX41wztlosanKgkKvDX"
+    },
+    {
+      "album": {
         "name": "Left Foot Right Foot",
         "url": "https://open.spotify.com/album/2szB8PZLwss07ai7hy6GMz"
       },
@@ -35522,7 +35612,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 200761,
       "name": "Loverr",
       "url": "https://open.spotify.com/track/70Kh9erWe00Bvll9YKpIhu"
@@ -38792,6 +38882,24 @@
     {
       "album": {
         "name": "Motion",
+        "url": "https://open.spotify.com/album/7wjC3W81oIT2A6xqQ0t7NY"
+      },
+      "artists": [
+        {
+          "name": "MLE",
+          "url": "https://open.spotify.com/artist/4kwSji6cyVJyawitcYNC4S"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198181,
+      "name": "Motion",
+      "url": "https://open.spotify.com/track/4JXV5vJB64ysfRyrkaGcqh"
+    },
+    {
+      "album": {
+        "name": "Motion",
         "url": "https://open.spotify.com/album/4imX0iiv2joJetaqRHLvVO"
       },
       "artists": [
@@ -41004,7 +41112,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 178328,
       "name": "no pressure",
       "url": "https://open.spotify.com/track/6nvpyzjBJBCCaZE1TGBWCH"
@@ -48260,6 +48368,24 @@
       "duration_ms": 376000,
       "name": "Roads",
       "url": "https://open.spotify.com/track/1RsvHHDe5Pr7nhHBhm6xXt"
+    },
+    {
+      "album": {
+        "name": "No Lighter",
+        "url": "https://open.spotify.com/album/630RgKmNGET8OlOWM5qkBz"
+      },
+      "artists": [
+        {
+          "name": "Trustee",
+          "url": "https://open.spotify.com/artist/2CQcG802nBA6S3ILkvy3Mg"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291000,
+      "name": "Robbery",
+      "url": "https://open.spotify.com/track/4ELNuqfVRxKLwSl8dKLn4P"
     },
     {
       "album": {

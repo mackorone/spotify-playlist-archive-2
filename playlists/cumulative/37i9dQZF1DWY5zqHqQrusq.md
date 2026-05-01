@@ -4,7 +4,7 @@
 
 > Chill, take a long walk and clear your mind\. Cover: Iken
 
-142 songs - 8 hr 5 min
+143 songs - 8 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Blinding Blocks Incorporated \(BBI\)](https://open.spotify.com/track/5EMLJj0bq2bYeVW2UCd62D) | [Dorphanage](https://open.spotify.com/artist/0lLs1XSa8ZCeAkOz91UgnN), [Zawadi](https://open.spotify.com/artist/0qdTYFtnAgZVgZqKMX3jnQ) | [Blinding Blocks Incorporated \(BBI\)](https://open.spotify.com/album/4VhCyAOTmopRYaiJpKpEM5) | 5:55 | 2022-11-11 | 2023-09-02 |
 | [Bright Outside](https://open.spotify.com/track/1zUdoJf7QiUx9fvCDzz4Qq) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Elani Boshoff](https://open.spotify.com/artist/5suRdrTilj7Ufg7eAwMnB9) | [Bright Outside](https://open.spotify.com/album/66dHkOodHx6Bnm566qPrwx) | 2:12 | 2022-11-11 | 2025-01-10 |
 | [Bright Outside](https://open.spotify.com/track/4cuhSC70d2pVMkgiQXQNd9) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Elani Boshoff](https://open.spotify.com/artist/5suRdrTilj7Ufg7eAwMnB9) | [Bright Outside](https://open.spotify.com/album/0rTeZFpcIKYjfp3sMLsiDM) | 2:12 | 2022-11-11 | 2024-04-19 |
-| [Broken](https://open.spotify.com/track/1iHhmtZHmZCO24DmQoI6nh) | [Frank Ireri](https://open.spotify.com/artist/0O1bN5IbSQHpPT5MKXtoDu) | [Broken](https://open.spotify.com/album/0EFwVKrRg3s7oIxjQOHeao) | 2:48 | 2025-03-28 |  |
+| [Broken](https://open.spotify.com/track/1iHhmtZHmZCO24DmQoI6nh) | [Frank Ireri](https://open.spotify.com/artist/0O1bN5IbSQHpPT5MKXtoDu) | [Broken](https://open.spotify.com/album/0EFwVKrRg3s7oIxjQOHeao) | 2:48 | 2025-03-28 | 2026-05-01 |
 | [Buy Me Love](https://open.spotify.com/track/0HtzaW1nXWHygysm2ZNAnW) | [STACY KAMATU](https://open.spotify.com/artist/6l0EZy2duhAIJ97BaqRb6Y) | [Buy Me Love](https://open.spotify.com/album/3ONBzZLFS0hXpV4EsD5U7H) | 3:22 | 2024-05-09 |  |
 | [By My Side](https://open.spotify.com/track/6u7VACqPdv4CAqn3tkjxCG) | [Musyimi](https://open.spotify.com/artist/6pzPsbCzbTiOqNh89M587F), [B Mello](https://open.spotify.com/artist/3bpznfzN3rPViWQ8hRFW75), [Tipilda](https://open.spotify.com/artist/40L6k7x56LoB9hRwzD1Icp) | [By My Side](https://open.spotify.com/album/3uEfdYeEhqdnoyiUbusnZP) | 3:33 | 2026-02-19 |  |
 | [Can't Get Enough](https://open.spotify.com/track/553jHYX9KWMe4ww9XnQSb9) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H) | [Can't Get Enough](https://open.spotify.com/album/7EHk9suPUmKdravDqbzrb2) | 3:57 | 2022-11-11 | 2024-02-02 |
@@ -84,6 +84,7 @@
 | [Mpenzi Njoo](https://open.spotify.com/track/1gp4iCJLbB9ZewLTB2F0eF) | [Wanenaji Music](https://open.spotify.com/artist/5UAvPwo6bUCCUcMO9vFRXO) | [Humble Beginnings](https://open.spotify.com/album/62caMX8DGtBTjFCnnzKnRy) | 4:47 | 2025-02-14 | 2026-01-17 |
 | [Mtu Wangu](https://open.spotify.com/track/5S39kEDblIwK3jA7kRmOQf) | [Umoja Sounds](https://open.spotify.com/artist/6a8xnLQPDn7HANbZgT3tj9), [Emma Cheruto](https://open.spotify.com/artist/3vIVa24HAi5YMEWiyW4ve3) | [Mtu Wangu](https://open.spotify.com/album/009ubkOJUBR4dL5rXExUgc) | 4:00 | 2026-02-26 |  |
 | [New Lamp](https://open.spotify.com/track/50oZJpYzGdHBCFdzTGIavP) | [Maali](https://open.spotify.com/artist/0Bw2d3PrLLqnor0Y9tt9vk) | [Mellow Dramatic](https://open.spotify.com/album/61PXFedLFHdsDP2L8YWte4) | 3:54 | 2024-05-09 |  |
+| [Ni Fanye Nini](https://open.spotify.com/track/6lz3chIUOCrKRwH69meiz3) | [thee\_maura](https://open.spotify.com/artist/58cs7Txx8GiXAmKcPGwC81), [9th Records](https://open.spotify.com/artist/0CsQYpWeGLvd1LXrLSn74v) | [Ni Fanye Nini](https://open.spotify.com/album/5qyD1EHAN9erz5MRrFfV4U) | 3:06 | 2026-04-30 |  |
 | [Nipende](https://open.spotify.com/track/6DgMQzle107AN4oBX5Uhcz) | [Zaituni Wambui](https://open.spotify.com/artist/5SFfPUY3JPgaOzSiqdm4Me) | [Nipende](https://open.spotify.com/album/06DbgiBmUM7eSQiAk2cx55) | 5:15 | 2024-01-11 | 2025-04-05 |
 | [Nitangoja](https://open.spotify.com/track/21eRcBcsRtuHjL2jSeMu7A) | [Kinoti](https://open.spotify.com/artist/45KLKfGTZLK4BUZAv2l5sm) | [Nitangoja](https://open.spotify.com/album/1gKLgM7RsLrCf3rx3Vh2ex) | 2:38 | 2022-11-11 |  |
 | [Njia Moja](https://open.spotify.com/track/0G1vjYaNDUtntJF0hCq5YL) | [Rafiiki](https://open.spotify.com/artist/3RQugbKSKDSg8oHS1MdMXn) | [Njia Moja](https://open.spotify.com/album/0DhkCfovACaJcz26OjNtwp) | 3:32 | 2022-11-11 | 2025-02-15 |

@@ -4,7 +4,7 @@
 
 > 이별, 슬픔, 공허함\. 나의 우울에 공감해보세요
 
-369 songs - 23 hr 59 min
+370 songs - 1 day 0 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Farewell Poem](https://open.spotify.com/track/2vsQuyU24llVP5HD1cVx9s) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [Farewell Poem](https://open.spotify.com/album/6twPccXyMf8QcgyIQ7N6Z0) | 3:38 | 2022-05-11 | 2022-07-24 |
 | [Feel Better](https://open.spotify.com/track/630DurQdVH55GWLiCEv9CR) | [KYUL](https://open.spotify.com/artist/10LaysU4hUTEGtWwC0Zbrm) | [Things I Loved Most 2](https://open.spotify.com/album/1CNNBKUbcnnXkHdBERwwqf) | 3:30 | 2022-05-11 | 2023-01-15 |
 | [Feel Like Yesterday](https://open.spotify.com/track/2ioj4NoL5969kmWOuMnqQ4) | [HAEUN](https://open.spotify.com/artist/7BYHne6KtWNlbJnjZwLLRW), [YOSEP](https://open.spotify.com/artist/5QSVxGJPTXSltnLIdw0nKt) | [Feel Like Yesterday](https://open.spotify.com/album/04AQ6aQEXrEgoz2iZnhtmY) | 3:36 | 2026-03-30 | 2026-04-02 |
+| [First Love Is a Curse](https://open.spotify.com/track/6TW9ACpiJzS27WqiTQNN2T) | [YUJU](https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx) | [First Love Is a Curse](https://open.spotify.com/album/2iENz685ly97rfApjgS1cy) | 2:42 | 2026-04-29 |  |
 | [Flame](https://open.spotify.com/track/4x1FlPvty9bk1j73gkyYaK) | [Woo Ye Rin](https://open.spotify.com/artist/4fwMfZcOMGXSgZvw5F28UL) | [Flame](https://open.spotify.com/album/1VgqjntRzWONoGoa0M1dxR) | 3:17 | 2022-05-11 | 2022-07-28 |
 | [Forgetting You](https://open.spotify.com/track/59OFG0mm09ve4i3RcbmdwB) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Moonlovers \- Scarlet Heart Ryeo \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/2h1hXSJ9CtXJ3RJtCIMsYr) | 3:12 | 2022-05-11 | 2025-05-12 |
 | [Friend](https://open.spotify.com/track/2HrjeWdeVfsirD8koeg8yv) | [Herz Analog](https://open.spotify.com/artist/35qf2lYforklQasGTtc3Uw), [Mingyu Cho](https://open.spotify.com/artist/3zYE0PPOZSmJ14JkguaZp9) | [Friend](https://open.spotify.com/album/0oed3VSqXFkIZ3RFBd10mU) | 3:44 | 2022-05-11 | 2022-07-22 |
@@ -314,7 +315,7 @@
 | [The season of our beginning](https://open.spotify.com/track/103b4ZkHWGyGJtU4VbWjWF) | [Sondia](https://open.spotify.com/artist/18VQ59noY7aOj59UNMozHp) | [My Youth \(Original Television Soundtrack\), Pt\. 5](https://open.spotify.com/album/6V8zQCogf0Nxlwm9CakIJu) | 4:09 | 2025-11-06 | 2026-01-27 |
 | [The Snowman](https://open.spotify.com/track/5QBOylNG7y0dob40NZxF9p) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [Spring Again](https://open.spotify.com/album/2jb2k5LTycuATa7UjogpPg) | 3:56 | 2022-05-11 | 2022-07-29 |
 | [The Snowman](https://open.spotify.com/track/6HgeeiHqVpxxFCB0bjBRT6) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [Spring Again](https://open.spotify.com/album/1lyirN2uEAOt9M6CvkY9Rk) | 3:56 | 2022-07-08 | 2024-04-19 |
-| [The Walking Dead \(Feat\. Kim Feel\)](https://open.spotify.com/track/1LBNTcVnGw8eJ5oQQmmMZZ) | [Heize](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [HAPPEN](https://open.spotify.com/album/4xOOB79WcZuOoVwK06No1s) | 3:13 | 2022-05-11 |  |
+| [The Walking Dead \(Feat\. Kim Feel\)](https://open.spotify.com/track/1LBNTcVnGw8eJ5oQQmmMZZ) | [Heize](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [HAPPEN](https://open.spotify.com/album/4xOOB79WcZuOoVwK06No1s) | 3:13 | 2022-05-11 | 2026-05-01 |
 | [The Wave](https://open.spotify.com/track/3hIuJmjKWDwfYdMxVwNaFQ) | [Woohwa](https://open.spotify.com/artist/61x5EzMf1pIdgTZ2trJ0de) | [WORSE : Amstelpark vol.4](https://open.spotify.com/album/0DlQRuV72empclT5uRjXMQ) | 3:30 | 2022-05-11 | 2022-06-03 |
 | [The Work Of Erasing You](https://open.spotify.com/track/13XmTLlsQvX8glN5sM2gfL) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [The Work Of Erasing You](https://open.spotify.com/album/7w6PcIh2p6O2zPaymwCuXI) | 3:37 | 2023-03-29 | 2023-04-03 |
 | [These memories are like a movie \(2025\)](https://open.spotify.com/track/18igOz3pxDmwz9TPRkTNeG) | [Bily Acoustie](https://open.spotify.com/artist/5r7uTezbOPCO32i7RljvaA) | [These memories are like a movie \(2025\)](https://open.spotify.com/album/3doGgB8CupneS8US4D3EVH) | 5:06 | 2025-11-06 | 2025-12-04 |

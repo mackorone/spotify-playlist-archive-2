@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-10-28",
-  "description": "Proudly Kenyan gems made for the entire family. Cover: Khaligraph Jones",
+  "description": "Proudly Kenyan gems made for the entire family. Cover: Hildah Watiri",
   "name": "Made In Kenya",
   "tracks": [
     {
@@ -816,7 +816,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 189255,
       "name": "Fall",
       "url": "https://open.spotify.com/track/4vTj1RvJpxFu6QHRchAcQx"
@@ -2739,6 +2739,28 @@
     },
     {
       "album": {
+        "name": "Selfish",
+        "url": "https://open.spotify.com/album/0bjdSgH2f4dJtOl75VGBJ2"
+      },
+      "artists": [
+        {
+          "name": "malosh",
+          "url": "https://open.spotify.com/artist/5Cg5h5rAVMPxZyc4TWNNDu"
+        },
+        {
+          "name": "ashley gogo",
+          "url": "https://open.spotify.com/artist/0lNSM5zQUqcHtuHNJUFRO5"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185294,
+      "name": "Selfish",
+      "url": "https://open.spotify.com/track/6sJXgJybQEu5LmsiRVrUAq"
+    },
+    {
+      "album": {
         "name": "Sema",
         "url": "https://open.spotify.com/album/3upNBRjHjnJwkdWdSggeko"
       },
@@ -2908,7 +2930,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 224000,
       "name": "Show You Off - Remix",
       "url": "https://open.spotify.com/track/0krDd3i4kUZTMr9z6HB2UU"
@@ -3225,6 +3247,24 @@
     },
     {
       "album": {
+        "name": "Watiri's Trouble",
+        "url": "https://open.spotify.com/album/0fLdMoX6lwdeXwHOuUUj2i"
+      },
+      "artists": [
+        {
+          "name": "Hildah Watiri",
+          "url": "https://open.spotify.com/artist/4XTUHZbb6KmJJKUrdBAKDM"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 2",
+      "url": "https://open.spotify.com/track/5e8vMUSUiMuM7QmsEE6roD"
+    },
+    {
+      "album": {
         "name": "TRUE LOVE",
         "url": "https://open.spotify.com/album/3AWoNtSF6MCGBrJO1jrFR0"
       },
@@ -3236,7 +3276,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 152777,
       "name": "TRUE LOVE",
       "url": "https://open.spotify.com/track/7fYxFqeGTfr9IvVBrWAyvO"
@@ -3606,6 +3646,28 @@
       "duration_ms": 164318,
       "name": "We Don't Need Money to Be Rich",
       "url": "https://open.spotify.com/track/7vePbKLSXCGiz8Mx82PNs0"
+    },
+    {
+      "album": {
+        "name": "Weche Hera",
+        "url": "https://open.spotify.com/album/2AiTZmeO1rUN5pHhmajOSX"
+      },
+      "artists": [
+        {
+          "name": "Ila Nia",
+          "url": "https://open.spotify.com/artist/2BlTufGgupqEM4ITQAJhAp"
+        },
+        {
+          "name": "Ywaya Tajiri",
+          "url": "https://open.spotify.com/artist/6wf9RfrBquBd6Galoe5oQE"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152119,
+      "name": "Weche Hera",
+      "url": "https://open.spotify.com/track/6x5w3lfCGbc7sAuJxkxoiv"
     },
     {
       "album": {

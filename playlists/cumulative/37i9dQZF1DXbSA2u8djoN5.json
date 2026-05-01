@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Las\u0103-te inspirat pe ritmuri de hip-hop. Cover: Spike, MARIA",
+  "description": "Las\u0103-te inspirat pe ritmuri de hip-hop. O edi\u0163ie co-curat\u0103 cu Grasu XXL",
   "name": "Suflet + Sunet",
   "tracks": [
     {
@@ -192,7 +192,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 257259,
       "name": "Adam",
       "url": "https://open.spotify.com/track/6deXLFe1JUF7x76CNbBRiJ"
@@ -574,7 +574,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 216666,
       "name": "Azucar",
       "url": "https://open.spotify.com/track/3L2jpt61PTkME82X6oYMnZ"
@@ -1031,6 +1031,24 @@
     },
     {
       "album": {
+        "name": "Gioconda",
+        "url": "https://open.spotify.com/album/3VAJlaJqlmYqDDrhAzxseF"
+      },
+      "artists": [
+        {
+          "name": "BRUJA",
+          "url": "https://open.spotify.com/artist/6yoocPjo7xJwFxSvbZYUT9"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170293,
+      "name": "Cameleon",
+      "url": "https://open.spotify.com/track/2yvMPjPgzbf8unvMS0e8AV"
+    },
+    {
+      "album": {
         "name": "Cand Nimeni Nu Te Vede",
         "url": "https://open.spotify.com/album/1b5XlE2TsFyTPgGjaba7wz"
       },
@@ -1090,6 +1108,24 @@
       "duration_ms": 156083,
       "name": "Castigator",
       "url": "https://open.spotify.com/track/5kPFL28u3qN8kgQkrXPeBR"
+    },
+    {
+      "album": {
+        "name": "Direct din Tei",
+        "url": "https://open.spotify.com/album/4ugCVHF2BNK6Aj7W9RKCWr"
+      },
+      "artists": [
+        {
+          "name": "Petre Stefan",
+          "url": "https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159360,
+      "name": "Cateodata",
+      "url": "https://open.spotify.com/track/5zYHomneLIlzBbexs7coaY"
     },
     {
       "album": {
@@ -1637,6 +1673,24 @@
     },
     {
       "album": {
+        "name": "DON",
+        "url": "https://open.spotify.com/album/5fU3qeMPdeVVPLVeFH8V30"
+      },
+      "artists": [
+        {
+          "name": "Giovanni",
+          "url": "https://open.spotify.com/artist/47AvMC22jRN0dhoP1Lmk9o"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142978,
+      "name": "DESPRE",
+      "url": "https://open.spotify.com/track/1asTKI58uvKNixldJY62MV"
+    },
+    {
+      "album": {
         "name": "FTL MIXTAPE, Vol. 1",
         "url": "https://open.spotify.com/album/0zXRY2kumrxvQuYe5LVJpI"
       },
@@ -1846,7 +1900,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 148453,
       "name": "FACE DOWN",
       "url": "https://open.spotify.com/track/6i8vHHCDrN2KePIjsTP9XR"
@@ -2020,7 +2074,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 157557,
       "name": "FRACTAL",
       "url": "https://open.spotify.com/track/1MaUiJzcCGlU0o5WrfdYCs"
@@ -2060,7 +2114,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 188209,
       "name": "Frica",
       "url": "https://open.spotify.com/track/5zgMLbtWnOYRIbhO3znjFD"
@@ -2316,7 +2370,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 194000,
       "name": "Grinch",
       "url": "https://open.spotify.com/track/0RCOFsv0uaHhIwjZXJJ5yk"
@@ -2660,7 +2714,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 186383,
       "name": "Iubeste ce faci",
       "url": "https://open.spotify.com/track/1UE7ucYzOVUPwwSW6vKA3P"
@@ -2890,7 +2944,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 135000,
       "name": "Lumea toat\u0103",
       "url": "https://open.spotify.com/track/1H5ymY6zVPvz43md1qJnql"
@@ -3182,7 +3236,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 165714,
       "name": "Mintea Mea",
       "url": "https://open.spotify.com/track/0COYO76iJYm8yTch9UeAsq"
@@ -3389,6 +3443,28 @@
     },
     {
       "album": {
+        "name": "TULBURE",
+        "url": "https://open.spotify.com/album/6kKwg0KIa7HDv9MXl3eBSt"
+      },
+      "artists": [
+        {
+          "name": "Tussin",
+          "url": "https://open.spotify.com/artist/5DcOHhTZVih46OXGXHeSGb"
+        },
+        {
+          "name": "Aerozen",
+          "url": "https://open.spotify.com/artist/5RqcTk3xp9dW1BLsdQ0NE9"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141333,
+      "name": "O DOAMNE",
+      "url": "https://open.spotify.com/track/2Y4K1TIsy2lFlVWksDVpfZ"
+    },
+    {
+      "album": {
         "name": "O Mie de Ori",
         "url": "https://open.spotify.com/album/1xIRkMzL7v4NPaq2tVkTHB"
       },
@@ -3404,6 +3480,28 @@
       "duration_ms": 219354,
       "name": "O Mie de Ori",
       "url": "https://open.spotify.com/track/048y8xZzdbr484c9k0eeRA"
+    },
+    {
+      "album": {
+        "name": "Mixed Feelings",
+        "url": "https://open.spotify.com/album/7JBYVxFbTK3ppMZ2QB2hsc"
+      },
+      "artists": [
+        {
+          "name": "Marko Glass",
+          "url": "https://open.spotify.com/artist/07nCYoPlXkWlhC2FHm1INS"
+        },
+        {
+          "name": "Bvcovia",
+          "url": "https://open.spotify.com/artist/5CqmNRrmp3UP3NGccmlKHR"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172235,
+      "name": "O sa fim OK",
+      "url": "https://open.spotify.com/track/6oumHjnIBCqmT42OemJrCX"
     },
     {
       "album": {
@@ -3603,6 +3701,24 @@
     },
     {
       "album": {
+        "name": "paradyse",
+        "url": "https://open.spotify.com/album/1oc22ihfz3wp8AR4GfCV1e"
+      },
+      "artists": [
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211063,
+      "name": "paradyse",
+      "url": "https://open.spotify.com/track/0ub7PGAoZAeRiinkrRnlKh"
+    },
+    {
+      "album": {
         "name": "Parola",
         "url": "https://open.spotify.com/album/1l3Ei1vzDOSHONg4JhTXD2"
       },
@@ -3622,7 +3738,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 213281,
       "name": "Parola",
       "url": "https://open.spotify.com/track/5xwfZrKbwp65LnogR0Nruc"
@@ -4107,6 +4223,28 @@
     },
     {
       "album": {
+        "name": "Mixed Feelings",
+        "url": "https://open.spotify.com/album/7JBYVxFbTK3ppMZ2QB2hsc"
+      },
+      "artists": [
+        {
+          "name": "Marko Glass",
+          "url": "https://open.spotify.com/artist/07nCYoPlXkWlhC2FHm1INS"
+        },
+        {
+          "name": "Stefan Costea",
+          "url": "https://open.spotify.com/artist/3w8r8LEPG3zHNvRCj92b58"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296776,
+      "name": "Saint Levant",
+      "url": "https://open.spotify.com/track/5RMJ3nZM3g5NZvM4grURlM"
+    },
+    {
+      "album": {
         "name": "Salut Aparte",
         "url": "https://open.spotify.com/album/0Zglp8T8MKFT4VoDjLlnnb"
       },
@@ -4148,6 +4286,24 @@
       "duration_ms": 196250,
       "name": "Scandal",
       "url": "https://open.spotify.com/track/3zXbl7MWZJR7uyPwMqtRFU"
+    },
+    {
+      "album": {
+        "name": "SCHINDLER'S LIST",
+        "url": "https://open.spotify.com/album/3xFX8rN3YH9E5DRksDDK6q"
+      },
+      "artists": [
+        {
+          "name": "Aris & Edi",
+          "url": "https://open.spotify.com/artist/0FdLRLoI0r4yqlUPzKufFo"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123076,
+      "name": "SCHINDLER'S LIST",
+      "url": "https://open.spotify.com/track/0v985X0RLuuoma0yZjOhAQ"
     },
     {
       "album": {
@@ -4246,7 +4402,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 175695,
       "name": "Sfinte Algoritm",
       "url": "https://open.spotify.com/track/7ANrVC0dxLkdWrDFm6pigf"
@@ -4480,7 +4636,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-20",
+      "date_removed": null,
       "duration_ms": 185454,
       "name": "Sufletul t\u0103u",
       "url": "https://open.spotify.com/track/6KMoVF88KgKkiHaigqvU4K"
@@ -4502,6 +4658,24 @@
       "duration_ms": 159244,
       "name": "Sunt fratii tai",
       "url": "https://open.spotify.com/track/20OzxqFiZbojkPskuxZb5a"
+    },
+    {
+      "album": {
+        "name": "Gioconda",
+        "url": "https://open.spotify.com/album/3VAJlaJqlmYqDDrhAzxseF"
+      },
+      "artists": [
+        {
+          "name": "BRUJA",
+          "url": "https://open.spotify.com/artist/6yoocPjo7xJwFxSvbZYUT9"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153986,
+      "name": "Tata",
+      "url": "https://open.spotify.com/track/3dKyg3xl2AblfOXXQIzd9m"
     },
     {
       "album": {
@@ -4878,10 +5052,28 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 201541,
       "name": "Tu, M\u0103rie!",
       "url": "https://open.spotify.com/track/19kcHnQM6FN6Ck0gYEOwXO"
+    },
+    {
+      "album": {
+        "name": "Drumul spre succes (Edi\u021bie aniversar\u0103 10 ani)",
+        "url": "https://open.spotify.com/album/7cLDdIwPPLzqmWKkwaFuK2"
+      },
+      "artists": [
+        {
+          "name": "Grasu XXL",
+          "url": "https://open.spotify.com/artist/4BMSu3GY2lP8sH0nmrdgGG"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201541,
+      "name": "Tu, M\u0103rie! - Bonus Track",
+      "url": "https://open.spotify.com/track/7rwtcgArhNKG67BckqMXU6"
     },
     {
       "album": {
@@ -5035,6 +5227,24 @@
     },
     {
       "album": {
+        "name": "UNDERWORLD",
+        "url": "https://open.spotify.com/album/4WF1DWNA7o2cYJiON0d4B4"
+      },
+      "artists": [
+        {
+          "name": "Aris & Edi",
+          "url": "https://open.spotify.com/artist/0FdLRLoI0r4yqlUPzKufFo"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191111,
+      "name": "UNDERWORLD",
+      "url": "https://open.spotify.com/track/70e4bdqD2O9IGKIfXfupe7"
+    },
+    {
+      "album": {
         "name": "VA FI BINE",
         "url": "https://open.spotify.com/album/2zjHnqL5U885nzUtukCloi"
       },
@@ -5134,7 +5344,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 166153,
       "name": "Vise La Plic",
       "url": "https://open.spotify.com/track/4f5Vs65RAPuAOrNrRrKcgA"
@@ -5196,6 +5406,24 @@
       "duration_ms": 191418,
       "name": "Vremea Impostorilor",
       "url": "https://open.spotify.com/track/5DfvBOrqPyKMqddw1ae9Ur"
+    },
+    {
+      "album": {
+        "name": "WESTSIDE BUCURESTI",
+        "url": "https://open.spotify.com/album/04t7e6WP78wknRAtcRVMF8"
+      },
+      "artists": [
+        {
+          "name": "KYOTO",
+          "url": "https://open.spotify.com/artist/7HZEPyhE3YmdG74uLUB1VO"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255679,
+      "name": "WESTSIDE BUCURESTI",
+      "url": "https://open.spotify.com/track/1D5dtqN5tfLFLtexQs3K4p"
     },
     {
       "album": {
@@ -5446,7 +5674,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 156562,
       "name": "\u0218mecher",
       "url": "https://open.spotify.com/track/047EZz6lObOJGbisz9BQ1V"
@@ -5472,6 +5700,28 @@
       "duration_ms": 208060,
       "name": "\u0218TII\u2026",
       "url": "https://open.spotify.com/track/1BhxROmMZpykm6qlc670SR"
+    },
+    {
+      "album": {
+        "name": "TULBURE",
+        "url": "https://open.spotify.com/album/6kKwg0KIa7HDv9MXl3eBSt"
+      },
+      "artists": [
+        {
+          "name": "Tussin",
+          "url": "https://open.spotify.com/artist/5DcOHhTZVih46OXGXHeSGb"
+        },
+        {
+          "name": "Oscar",
+          "url": "https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208060,
+      "name": "\u0218TII\u2026",
+      "url": "https://open.spotify.com/track/1STGNUT5n8L4fNwi6kpIX0"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXbSA2u8djoN5"

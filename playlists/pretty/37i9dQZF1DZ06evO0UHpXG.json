@@ -1,12 +1,12 @@
 {
   "description": "This is Mot\u00f6rhead. The essential tracks, all in one playlist.",
-  "num_followers": 212287,
+  "num_followers": 212308,
   "original_name": "This Is Mot\u00f6rhead",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ae/4gAAAAACdeaR9oLfl8mwdGdPApFbc",
+  "snapshot_id": "afFKAAAAAADFPlAPEyOZhVlTvvPLlFf3",
   "tracks": [
     {
       "added_at": null,
@@ -515,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bomber (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/15GpLaEsWkRtrpbZ2l2eQP"
-      },
-      "artists": [
-        {
-          "name": "Mot\u00f6rhead",
-          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
-        }
-      ],
-      "duration_ms": 291840,
-      "name": "Stone Dead Forever",
-      "url": "https://open.spotify.com/track/1RQilPMMZilPmHvW2GEkxG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bad Magic",
         "url": "https://open.spotify.com/album/3yRGBNzOdNXmA8YR9hd37X"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 326800,
       "name": "Sympathy for the Devil",
       "url": "https://open.spotify.com/track/1OAn9H1K2SPLS5t8RSk9VR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bomber (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/15GpLaEsWkRtrpbZ2l2eQP"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "duration_ms": 291840,
+      "name": "Stone Dead Forever",
+      "url": "https://open.spotify.com/track/1RQilPMMZilPmHvW2GEkxG"
     },
     {
       "added_at": null,
@@ -659,8 +659,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "1916",
-        "url": "https://open.spotify.com/album/6mvrfjdgSvwcDXhxyVjWTx"
+        "name": "Under C\u00f6ver",
+        "url": "https://open.spotify.com/album/3WySQJqKii60CvvAYv8f0G"
       },
       "artists": [
         {
@@ -668,9 +668,9 @@
           "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
         }
       ],
-      "duration_ms": 224640,
-      "name": "1916",
-      "url": "https://open.spotify.com/track/5gp9UXTiUKw0EbKdmdln9O"
+      "duration_ms": 229506,
+      "name": "Whiplash",
+      "url": "https://open.spotify.com/track/0KPSGGqPDZfrMoyL8YOYgj"
     },
     {
       "added_at": null,
@@ -691,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Under C\u00f6ver",
-        "url": "https://open.spotify.com/album/3WySQJqKii60CvvAYv8f0G"
-      },
-      "artists": [
-        {
-          "name": "Mot\u00f6rhead",
-          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
-        }
-      ],
-      "duration_ms": 229506,
-      "name": "Whiplash",
-      "url": "https://open.spotify.com/track/0KPSGGqPDZfrMoyL8YOYgj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The W\u00f6rld Is Yours",
         "url": "https://open.spotify.com/album/4OF35G0P3UDRwomu15nIQL"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 315560,
       "name": "Brotherhood of Man",
       "url": "https://open.spotify.com/track/2ECIMo49jTC22wxTGG5MGm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "1916",
+        "url": "https://open.spotify.com/album/6mvrfjdgSvwcDXhxyVjWTx"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "duration_ms": 224640,
+      "name": "1916",
+      "url": "https://open.spotify.com/track/5gp9UXTiUKw0EbKdmdln9O"
     },
     {
       "added_at": null,

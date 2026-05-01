@@ -4,7 +4,7 @@
 
 > The best of Swahili gospel music\. Cover: Moses Luka
 
-330 songs - 1 day 4 hr 51 min
+331 songs - 1 day 4 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -218,6 +218,7 @@
 | [Niwe Ngwenda](https://open.spotify.com/track/57chzVhBuTUqixdfALG5ft) | [Grace Mwai](https://open.spotify.com/artist/3DY2UOhqxJUmaYW3yUgAIQ) | [Kirathimo](https://open.spotify.com/album/4ol5duZtTeX4gpDZZm2SWa) | 5:20 | 2022-06-24 | 2023-05-05 |
 | [Not Gonna Worry](https://open.spotify.com/track/6f8SSijW14hvnfbI66s8Id) | [Common Hymnal](https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN), [Kanjii Mbugua](https://open.spotify.com/artist/2x6rpLyqNPMMOyDgSvuMWY) | [Not Gonna Worry](https://open.spotify.com/album/0HmblulqcxTTRsFVXE8oLA) | 3:25 | 2024-05-03 | 2025-11-14 |
 | [Nothing](https://open.spotify.com/track/1cXe35isIgaErKaSyi1nP3) | [Nahash Mwathi](https://open.spotify.com/artist/76hAkhGlb3BipUcUL4thD1), [Jackson Saya](https://open.spotify.com/artist/7EFTCBaclOkenIPumLmGyn) | [Nothing](https://open.spotify.com/album/4Hl2UURqrZ88wlOolmc7Mv) | 4:31 | 2023-05-05 | 2024-05-03 |
+| [Number Moja](https://open.spotify.com/track/2CJ4148Frj191bX58vNNs3) | [Levixone](https://open.spotify.com/artist/25rO4hD9VXGMFFfK7zI5lW), [Winnie Nwagi](https://open.spotify.com/artist/6D2BPqCTzdBn26ficmaciD) | [Number Moja](https://open.spotify.com/album/3ReEtBb0JisCB2cwlaUBSd) | 3:24 | 2026-05-01 |  |
 | [Nyoka Wa Shaba](https://open.spotify.com/track/34U3RphRGFE3jcnxpPkAEc) | [BELLA KOMBO](https://open.spotify.com/artist/4fCg09CBWzbspIIuw8wfVk) | [Nyoka Wa Shaba](https://open.spotify.com/album/0LHypfPhG4D8umpFPEpzXp) | 8:32 | 2025-03-28 | 2025-05-02 |
 | [Olodumare](https://open.spotify.com/track/3SGAz5OZz0GpfGr5HG2zEd) | [Joel Lwaga](https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI) | [Olodumare](https://open.spotify.com/album/0iBH92HNjF5SLlzcRrIZXb) | 3:06 | 2024-10-11 |  |
 | [Oluwa](https://open.spotify.com/track/28YZkqInvmqbK711J1xVeZ) | [Joel Lwaga](https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI) | [Oluwa](https://open.spotify.com/album/4DJaOvhJfTkmZaMHLaihRz) | 2:55 | 2025-03-07 |  |
@@ -225,7 +226,7 @@
 | [On Top](https://open.spotify.com/track/4XaQh78CjGXkFFippDyuDY) | [Walter Chilambo](https://open.spotify.com/artist/45uMTYzfFVO9etu44SqcBO) | [On Top](https://open.spotify.com/album/4FyQPtWKABleYSM8JactGY) | 3:16 | 2025-07-11 | 2025-10-24 |
 | [Organize \(feat\. Moji Shortbabaa\)](https://open.spotify.com/track/2KpAGhLuf7SzVLHDOF4M1S) | [Boss MOG](https://open.spotify.com/artist/5bymobnzzgQnuh60dY84Ie), [Moji Shortbabaa](https://open.spotify.com/artist/75LES04hIh8qYY8Oqdp7rn) | [Organize \(feat\. Moji Shortbabaa\)](https://open.spotify.com/album/0yCHxjgEI4SqCDmye48Kvp) | 3:55 | 2023-07-14 | 2025-03-21 |
 | [Pale Ulipo](https://open.spotify.com/track/0csaw0BDKtHIaxb5HsPbRM) | [Pitson](https://open.spotify.com/artist/4eck3OWpx2oKPgHeSSgsMM), [Karura Voices](https://open.spotify.com/artist/1d5SkVdPJfoutTu1HdhpYT) | [Brand New Me](https://open.spotify.com/album/4PX1iirJp3PCFrrO5b5MZB) | 6:35 | 2025-03-07 |  |
-| [Papa Lai](https://open.spotify.com/track/7uvhttCAEGEvAh8fiHVA4Y) | [Rose Muhando](https://open.spotify.com/artist/43KbcDih4fGBiHXsdI5X87), [NEEMA KOYIAKI](https://open.spotify.com/artist/6OOYu89SjNoNJn3zGwYCC1) | [YU MWEMA](https://open.spotify.com/album/4qJJ224QBpuB6EqbSHOP5Q) | 3:45 | 2025-09-19 |  |
+| [Papa Lai](https://open.spotify.com/track/7uvhttCAEGEvAh8fiHVA4Y) | [Rose Muhando](https://open.spotify.com/artist/43KbcDih4fGBiHXsdI5X87), [NEEMA KOYIAKI](https://open.spotify.com/artist/6OOYu89SjNoNJn3zGwYCC1) | [YU MWEMA](https://open.spotify.com/album/4qJJ224QBpuB6EqbSHOP5Q) | 3:45 | 2025-09-19 | 2026-05-01 |
 | [Patakatifu Pako](https://open.spotify.com/track/0A5iR3HinWss1nwGvGn0hB) | [Erick Smith](https://open.spotify.com/artist/2DyY70tIr0laRzbYBA7bLg) | [Wewe Ni Zaidi](https://open.spotify.com/album/6twPp6yBQOTyAevVPbUZj1) | 5:03 | 2022-06-24 | 2023-05-12 |
 | [Pigana Na Mungu](https://open.spotify.com/track/3QymZqdK4eBa28lYKX4iRZ) | [Obby Alpha](https://open.spotify.com/artist/0PN2wNxxBHNUa4OQPb1ev6), [Gurdian Angel](https://open.spotify.com/artist/3OVE9fi88pyTKC5s95b5bk) | [Pigana Na Mungu](https://open.spotify.com/album/7KNyooPzokZIBMQ0KSbApP) | 4:02 | 2024-06-28 |  |
 | [Pombe](https://open.spotify.com/track/4W3Bm7G15aXGEFd9oNaJJu) | [Rose Muhando](https://open.spotify.com/artist/43KbcDih4fGBiHXsdI5X87) | [Pombe](https://open.spotify.com/album/7bS2N5Hr5tmTzf58oxwXn7) | 5:41 | 2023-12-15 | 2024-05-24 |

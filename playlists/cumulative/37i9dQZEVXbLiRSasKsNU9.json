@@ -10029,6 +10029,24 @@
     },
     {
       "album": {
+        "name": "Bang Bang Bang",
+        "url": "https://open.spotify.com/album/2zFrkINzgIXLOXMAiQQVP7"
+      },
+      "artists": [
+        {
+          "name": "BBpanzu",
+          "url": "https://open.spotify.com/artist/4h8eXe8mMUAVe2NthUKnek"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180451,
+      "name": "Bang Bang Bang",
+      "url": "https://open.spotify.com/track/6T80kNfM3iJMRO6uzeOzRG"
+    },
+    {
+      "album": {
         "name": "BANKAI",
         "url": "https://open.spotify.com/album/0M5a69FH1OBRpDXVZKPiCd"
       },
@@ -46674,10 +46692,28 @@
       ],
       "date_added": "2026-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 341761,
       "name": "Kicau Mania",
       "url": "https://open.spotify.com/track/5Os63jB9c350ZNkMlkAkrh"
+    },
+    {
+      "album": {
+        "name": "Kicau Mania",
+        "url": "https://open.spotify.com/album/2HWEzZJ50Zys0qC6I1kViC"
+      },
+      "artists": [
+        {
+          "name": "Bangsay",
+          "url": "https://open.spotify.com/artist/4jUQvGJYDmYEoLv0f61S3N"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341760,
+      "name": "Kicau Mania",
+      "url": "https://open.spotify.com/track/5ULdxGvJLwydoNt0J62ZIB"
     },
     {
       "album": {
@@ -76500,7 +76536,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 193294,
       "name": "SAME SH!T",
       "url": "https://open.spotify.com/track/0EOc1cP1zMmF9kR0w3AM5f"

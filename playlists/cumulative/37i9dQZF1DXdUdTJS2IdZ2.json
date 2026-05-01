@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Rising stars and new releases from sunny Singapore. Cover: LAYYI",
+  "description": "Rising stars and new releases from sunny Singapore. Cover: Shye",
   "name": "Rising 65",
   "tracks": [
     {
@@ -4154,7 +4154,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 174000,
       "name": "date urself",
       "url": "https://open.spotify.com/track/0wurfkUH1msNmqyPogdxdR"
@@ -5934,7 +5934,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 184096,
       "name": "Fool Me Twice",
       "url": "https://open.spotify.com/track/2LTpQKjv8odH6i0cE26XDR"
@@ -7170,7 +7170,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 146842,
       "name": "Halfway Happy",
       "url": "https://open.spotify.com/track/6lpsu2t4Ur1DpRClPKHwJb"
@@ -7592,7 +7592,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 195882,
       "name": "heaven",
       "url": "https://open.spotify.com/track/32ygL7hogsW5q8W6SLSnuL"
@@ -7628,7 +7628,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 167386,
       "name": "heaven!",
       "url": "https://open.spotify.com/track/0zXh8SNTYpzfqJPmgVmNgd"
@@ -8412,7 +8412,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 127651,
       "name": "How Can I Stop",
       "url": "https://open.spotify.com/track/5gUlYa8EWpY2nZaxCzzpcx"
@@ -9306,7 +9306,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 150810,
       "name": "I'm Tom, You're Summer",
       "url": "https://open.spotify.com/track/01uqj3hrdwTZq7IwWWhpHs"
@@ -10727,6 +10727,24 @@
     },
     {
       "album": {
+        "name": "Lady in Red",
+        "url": "https://open.spotify.com/album/4Pyg2zKwmpPIyOMKgnLWva"
+      },
+      "artists": [
+        {
+          "name": "Glen Wee",
+          "url": "https://open.spotify.com/artist/4ZG94GJYXCNKWxWSulbi17"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276630,
+      "name": "Lady In Red",
+      "url": "https://open.spotify.com/track/03tTzChMfmYu649nJ5HJNS"
+    },
+    {
+      "album": {
         "name": "LALANG",
         "url": "https://open.spotify.com/album/72s8tIR8tGi2vXjLc6L1dn"
       },
@@ -12133,6 +12151,24 @@
     },
     {
       "album": {
+        "name": "marigold magic",
+        "url": "https://open.spotify.com/album/1mRhP3pG9UTnitNAHAuRqs"
+      },
+      "artists": [
+        {
+          "name": "inch",
+          "url": "https://open.spotify.com/artist/0jcR2IFFsEtMra80c9Zaei"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239426,
+      "name": "marigold magic",
+      "url": "https://open.spotify.com/track/1N6ICgWxsghCNR51cQWlKX"
+    },
+    {
+      "album": {
         "name": "MARSEILLE",
         "url": "https://open.spotify.com/album/6K3MbnVX6XaASGnKzZ9k0E"
       },
@@ -12144,7 +12180,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 154160,
       "name": "MARSEILLE",
       "url": "https://open.spotify.com/track/2rNsGKKudjieBUAvpiz4dj"
@@ -13541,6 +13577,24 @@
     },
     {
       "album": {
+        "name": "nostalgia",
+        "url": "https://open.spotify.com/album/4TMbGssw6UFywO0canQfHR"
+      },
+      "artists": [
+        {
+          "name": "Charis",
+          "url": "https://open.spotify.com/artist/624di24HXgttjdzLB0MgNW"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181894,
+      "name": "nostalgia",
+      "url": "https://open.spotify.com/track/2147nxWB1N3r7Ahz3rn296"
+    },
+    {
+      "album": {
         "name": "Not Afraid",
         "url": "https://open.spotify.com/album/5gWXGGJNkUgshcOfbJ0CzZ"
       },
@@ -14316,6 +14370,46 @@
       "duration_ms": 205714,
       "name": "Our Vows",
       "url": "https://open.spotify.com/track/0JPrNVJzr6Tk6MVdvOpCaf"
+    },
+    {
+      "album": {
+        "name": "out of line",
+        "url": "https://open.spotify.com/album/2sBNrArs0cDg5WxW47hqJq"
+      },
+      "artists": [
+        {
+          "name": "KEAT",
+          "url": "https://open.spotify.com/artist/5lzooGwfNsjMjk96wHkZJg"
+        },
+        {
+          "name": "HANEY",
+          "url": "https://open.spotify.com/artist/7MOWIshPDPd4NnM9JziYlt"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184161,
+      "name": "out of line",
+      "url": "https://open.spotify.com/track/0TBfgg7K1RQOl3HOv9NteM"
+    },
+    {
+      "album": {
+        "name": "Out Of My Mind",
+        "url": "https://open.spotify.com/album/25f5EkrwtSGLhlbcfRFiwr"
+      },
+      "artists": [
+        {
+          "name": "Iman Fandi",
+          "url": "https://open.spotify.com/artist/2yv1QEWNbHyf6ErJzCNmlg"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197217,
+      "name": "Out Of My Mind",
+      "url": "https://open.spotify.com/track/32IelN4Pbc3iVROrBvIXoo"
     },
     {
       "album": {
@@ -17106,7 +17200,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 192857,
       "name": "SHOW YOUR LOVE",
       "url": "https://open.spotify.com/track/2gosyc6Y3NrVJiiE0eSP5D"
@@ -17659,6 +17753,24 @@
     },
     {
       "album": {
+        "name": "Someone, Always",
+        "url": "https://open.spotify.com/album/04BIj7DyRxrqdqjzDELljg"
+      },
+      "artists": [
+        {
+          "name": "Shye",
+          "url": "https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231851,
+      "name": "Someone, Always",
+      "url": "https://open.spotify.com/track/0CKK6O4jvzb2PmOCSpsCFU"
+    },
+    {
+      "album": {
         "name": "something about you",
         "url": "https://open.spotify.com/album/2K71LC57GwsdNQjuSoYYHh"
       },
@@ -17961,6 +18073,28 @@
     },
     {
       "album": {
+        "name": "Station",
+        "url": "https://open.spotify.com/album/0IDDxmCKMg8A49FPpft1yl"
+      },
+      "artists": [
+        {
+          "name": "Paper Citizen",
+          "url": "https://open.spotify.com/artist/2zSALa63iTFKkokeXw9O6r"
+        },
+        {
+          "name": "Roberto Del Raspado",
+          "url": "https://open.spotify.com/artist/6aVLayAXaoXI0BDAuhOdEm"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227280,
+      "name": "Station",
+      "url": "https://open.spotify.com/track/58YXlbfTDTOrz6aHgMRuVA"
+    },
+    {
+      "album": {
         "name": "baobao",
         "url": "https://open.spotify.com/album/5HENd6QxJpbdQHbpkonkQw"
       },
@@ -18034,6 +18168,24 @@
       "duration_ms": 238166,
       "name": "Stay With It",
       "url": "https://open.spotify.com/track/3NehMjtApc0LxsOz5IIf5U"
+    },
+    {
+      "album": {
+        "name": "STOMACH",
+        "url": "https://open.spotify.com/album/6cFiqJZGPZrrzx5KjbB0iU"
+      },
+      "artists": [
+        {
+          "name": "ALICIA DC",
+          "url": "https://open.spotify.com/artist/7zh84sU4kvNPzoqUjFrE9E"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75000,
+      "name": "STOMACH",
+      "url": "https://open.spotify.com/track/2op3wlyMsRgQzr7MeN91A3"
     },
     {
       "album": {
@@ -18574,7 +18726,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 124687,
       "name": "talk a lot",
       "url": "https://open.spotify.com/track/1nvOpEbbmq5nYxAPoh7d05"
@@ -18626,7 +18778,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 206174,
       "name": "TALK TOO MUCH",
       "url": "https://open.spotify.com/track/6u4gMHbB2u9Y3hp4CPbCAL"
@@ -20663,6 +20815,24 @@
     },
     {
       "album": {
+        "name": "U Wish!",
+        "url": "https://open.spotify.com/album/0k9f6pv4LZm92Ak1ZPzCcY"
+      },
+      "artists": [
+        {
+          "name": "Mary Sue",
+          "url": "https://open.spotify.com/artist/2vmWNXWLIWsf0mlVQoO251"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110222,
+      "name": "U Wish!",
+      "url": "https://open.spotify.com/track/2wM4WR4aOMWT9nlDFVbNc8"
+    },
+    {
+      "album": {
         "name": "Beauty Fades, Pain Lasts Forever",
         "url": "https://open.spotify.com/album/3tprJR7i3lu0eDawksmMP9"
       },
@@ -21628,7 +21798,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 200000,
       "name": "WHATNOW?",
       "url": "https://open.spotify.com/track/2bkdNME59oGBSMXuazqd3T"
@@ -24225,6 +24395,24 @@
     },
     {
       "album": {
+        "name": "\u6211\u4eec\u597d\u597d\u5b58\u5728",
+        "url": "https://open.spotify.com/album/3OkgIKWOMUFsLQrLgScFLn"
+      },
+      "artists": [
+        {
+          "name": "Lyla Ng",
+          "url": "https://open.spotify.com/artist/7wOQgkxfPi0YPCKzco63CC"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220851,
+      "name": "\u6211\u4eec\u597d\u597d\u5b58\u5728",
+      "url": "https://open.spotify.com/track/4WBDqNIqFglIpoZtty6JuK"
+    },
+    {
+      "album": {
         "name": "\u6211\u5011\u6709\u591a\u4e0d\u5feb\u6a02",
         "url": "https://open.spotify.com/album/2jqw7P6PGueXTEGSEbLjeo"
       },
@@ -24290,7 +24478,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 282320,
       "name": "\u6211\u5c0d\u7de3\u5206\u5c0f\u5fc3\u7ffc\u7ffc (\u5287\u96c6\u300a\u9010\u7389\u300b\u4e3b\u984c\u66f2)",
       "url": "https://open.spotify.com/track/72yIlZtNNS4i2b4FfVm619"
@@ -25098,7 +25286,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 123776,
       "name": "\u70ba\u4ec0\u9ebc:what is lov3",
       "url": "https://open.spotify.com/track/5MjDJeMbflYdDHeRFs0TLj"
@@ -25170,7 +25358,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 243157,
       "name": "\u7576\u4f60\u53ea\u662f\u505c\u5728\u8def\u53e3",
       "url": "https://open.spotify.com/track/2yQnYjMpGuEpLJJpBgQI9I"

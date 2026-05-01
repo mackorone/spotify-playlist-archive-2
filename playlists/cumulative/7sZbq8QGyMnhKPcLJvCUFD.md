@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-850 songs - 1 day 18 hr 10 min
+851 songs - 1 day 18 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [BANDIDO FUNK](https://open.spotify.com/track/5Q80DQEiCvzePZTgCb1MlS) | [Emin Nilsen](https://open.spotify.com/artist/59TVoD6bvD2JFs9xLZH9bX), [Kamran747](https://open.spotify.com/artist/2EecinNxCiwoxm8SaGdB4R) | [BANDIDO FUNK](https://open.spotify.com/album/3ho4KiO44oOR46s9SNwy2n) | 2:05 | 2024-06-19 | 2024-12-09 |
 | [BANE](https://open.spotify.com/track/0a5xYmF0xUfXlU6bwzeqPi) | [Emin Nilsen](https://open.spotify.com/artist/59TVoD6bvD2JFs9xLZH9bX) | [BANE](https://open.spotify.com/album/1dICirHlSGKgaaWyYvug3l) | 2:01 | 2024-05-16 | 2024-12-09 |
 | [Bass Face](https://open.spotify.com/track/5sRe8o0v1CV3p5gFLrGzeH) | [Jonth](https://open.spotify.com/artist/461fWLhyGb1giJaTUEPpWt) | [Bass Face](https://open.spotify.com/album/3sp5KnHFEln5c0nAWZD5kv) | 2:56 | 2024-02-13 | 2024-08-28 |
+| [BE THERE WITH U](https://open.spotify.com/track/4GvfP9onkP8DFWDaLxiltC) | [2frers](https://open.spotify.com/artist/2P1tiZhfy8OaqDo0TWAC3B) | [BE THERE WITH U](https://open.spotify.com/album/7G7yCi9VOyr6c6jXcNmQrd) | 2:49 | 2026-04-30 |  |
 | [Beam \(ft\. Gabriella\)](https://open.spotify.com/track/0rE2636V6lX6xqlqILnRzS) | [Zeneth](https://open.spotify.com/artist/1Q0zpcJr81syOnC7SnbEGe), [Knoir](https://open.spotify.com/artist/7Knv331TlVGpUA1vRMZxZW), [Gabriella](https://open.spotify.com/artist/6SqSiJfIdigfPGJFq0DW9m) | [Beam \(ft\. Gabriella\)](https://open.spotify.com/album/2AfmqAi8KIlIEDvp98lYcx) | 3:34 | 2022-04-05 | 2023-04-28 |
 | [Beautiful Disaster](https://open.spotify.com/track/10bqTwaXtewouFtNz7p7kC) | [Tyla Yaweh](https://open.spotify.com/artist/1MXZ0hsGic96dWRDKwAwdr), [Mason Musso](https://open.spotify.com/artist/4W9a2d2YNm0gNbt7y7ic2a), [Rarin](https://open.spotify.com/artist/3VhKwjUzCzgIJAzpjMBXmQ) | [Beautiful Disaster](https://open.spotify.com/album/1jZvUBWcgtdr4lrOWDk38V) | 2:34 | 2025-01-24 |  |
 | [Behind](https://open.spotify.com/track/6maXPePCZOGQQmwQurOOmG) | [Thorne](https://open.spotify.com/artist/03SaLEDbLBTYkO0sSyN791), [Andrew A](https://open.spotify.com/artist/01BNEFdzawMyAXoHVdtyPx) | [Behind](https://open.spotify.com/album/7w5XFHUG5e8dAjiwLyDfx9) | 3:05 | 2022-12-28 | 2023-04-28 |

@@ -4,7 +4,7 @@
 
 > ¡Lo más fresco del hip\-hop en español! Oblivion's Mighty Trash, Mañas Rufino y The Colombians en portada.
 
-1,260 songs - 2 day 20 hr 33 min
+1,261 songs - 2 day 20 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -617,6 +617,7 @@
 | [La Pesadilla](https://open.spotify.com/track/7vtpoyVfHql5tyi4JVwC8T) | [Tayrel](https://open.spotify.com/artist/3SSHYMpZjG2zWw5YfOUsFV) | [La Pesadilla](https://open.spotify.com/album/1Ig4Fa72wHohASpp5BcOU1) | 2:55 | 2023-06-30 | 2023-09-16 |
 | [LA PIPA DE LA PAZ](https://open.spotify.com/track/35k8oH1X7gfCyw2Bp3c1Yy) | [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C), [Inner Circle](https://open.spotify.com/artist/5os0Ltvz8Q8BvXOPOd1frx) | [LA PIPA DE LA PAZ](https://open.spotify.com/album/6Y7QL2YRsVOkFB2gxpnBEZ) | 2:30 | 2023-06-13 | 2023-07-01 |
 | [La Plata](https://open.spotify.com/track/4J5tVP18No1PCLSmmFPYji) | [Bipo Montana](https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk), [McKlopedia](https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [La Plata](https://open.spotify.com/album/4Xu3pbXJU8bhrfMDEhN3lI) | 4:07 | 2023-09-01 | 2023-12-08 |
+| [la playa](https://open.spotify.com/track/3nIRcwYiOBusWUOK4F5ZBq) | [Skisia2](https://open.spotify.com/artist/0i2AykTPNRZdh7qfCy8eor), [Underaiki](https://open.spotify.com/artist/55IzEzlyUcBFqGgyam2Seo), [turrobaby](https://open.spotify.com/artist/3ZZY9rHZxm8lmug0aoX3pB) | [la playa](https://open.spotify.com/album/52Zom0ubF0zDFLfsMplLpz) | 2:38 | 2026-04-24 |  |
 | [La Profecía \(The Eagle & The Condor\)](https://open.spotify.com/track/4gJD13mp8IhO7PtTkbmaaX) | [BIGG B](https://open.spotify.com/artist/3qFYbL5KyojWPNOp7jPNqK), [Eduardo Rico](https://open.spotify.com/artist/5nhTZIp9cOhQ1ArBJZwEPz) | [La Profecía \(The Eagle & The Condor\)](https://open.spotify.com/album/23oTd0d19ex5sQWEEt3xma) | 3:21 | 2023-06-13 | 2023-06-24 |
 | [La práctica](https://open.spotify.com/track/4SovKXdjENCdKchfYzxEp7) | [Horus](https://open.spotify.com/artist/4DO3YOE8E3NS1chgm6ZKxf), [Yakari.](https://open.spotify.com/artist/4fUkVU0iJ24G3nfCllwoWs), [Robert Tiamo](https://open.spotify.com/artist/7M4raOQ6EsBzMYM0oyKlTu) | [La práctica](https://open.spotify.com/album/6jTRyRI7EFAOHlQJNWdIeS) | 3:05 | 2024-05-10 | 2024-12-07 |
 | [La Pura Neta](https://open.spotify.com/track/48aan0qxFx1IEmS0OvbGyN) | [Negros De La Raza](https://open.spotify.com/artist/6kBv1ur7kpE0I0TTmNZe4y), [Sen Dog](https://open.spotify.com/artist/5CjSfZN385ZURm90nUeGsN), [Kemo The Blaxican](https://open.spotify.com/artist/3ARkK5SVTmR3IxAb7pBEyf) | [La Pura Neta](https://open.spotify.com/album/58Hm64TPxW7fWwQ2xk76db) | 4:15 | 2026-02-06 | 2026-03-21 |

@@ -24,6 +24,24 @@
     {
       "album": {
         "name": "",
+        "url": "https://open.spotify.com/album/4fNGuHIMtm4dYQD3udOjt9"
+      },
+      "artists": [
+        {
+          "name": "artist",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/3vL6n8Z9WtwHQOe6USgnps"
+    },
+    {
+      "album": {
+        "name": "",
         "url": "https://open.spotify.com/album/6fHscAZjiLaSsJss0qbgtq"
       },
       "artists": [
@@ -8503,6 +8521,24 @@
     },
     {
       "album": {
+        "name": "California",
+        "url": "https://open.spotify.com/album/2wWol41onuWeferQM2iEEy"
+      },
+      "artists": [
+        {
+          "name": "DIZZY CROSS",
+          "url": "https://open.spotify.com/artist/2VpA0ZcUECJpQuMiWrgNHq"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152976,
+      "name": "California",
+      "url": "https://open.spotify.com/track/3wC0nI7kvNCeXzNtSmwmG7"
+    },
+    {
+      "album": {
         "name": "Bewitched",
         "url": "https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO"
       },
@@ -10488,7 +10524,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 248133,
       "name": "Confident",
       "url": "https://open.spotify.com/track/3JsydWaf2Ev4ehaLUjj3SY"
@@ -13272,6 +13308,24 @@
       "duration_ms": 238800,
       "name": "Don't Shut Me Down",
       "url": "https://open.spotify.com/track/2AHnmlkyZbnxqSA66B7jK3"
+    },
+    {
+      "album": {
+        "name": "Off the Wall",
+        "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364441,
+      "name": "Don't Stop 'Til You Get Enough",
+      "url": "https://open.spotify.com/track/46eu3SBuFCXWsPT39Yg3tJ"
     },
     {
       "album": {
@@ -25390,7 +25444,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 165975,
       "name": "Hugsa alltof miki\u00f0 um \u00feig",
       "url": "https://open.spotify.com/track/2P9Q4Cnqe2XGkW4P6k0USl"
@@ -31605,6 +31659,24 @@
     },
     {
       "album": {
+        "name": "Let Me Ride",
+        "url": "https://open.spotify.com/album/3ja7BgzcqoZFBI4qGDTi6A"
+      },
+      "artists": [
+        {
+          "name": "Ace Drucci",
+          "url": "https://open.spotify.com/artist/2YYbjsNurMs7y98MaYPFqr"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91022,
+      "name": "Let Me Ride",
+      "url": "https://open.spotify.com/track/2KyTvpAxI4KDF7NpNVPHaR"
+    },
+    {
+      "album": {
         "name": "Let You Break My Heart Again",
         "url": "https://open.spotify.com/album/2YkyuQGoMV2FlG7mFprnRf"
       },
@@ -31921,6 +31993,28 @@
     },
     {
       "album": {
+        "name": "Life Na Hard",
+        "url": "https://open.spotify.com/album/4nOGu9RKFDG777SHPsuJH4"
+      },
+      "artists": [
+        {
+          "name": "Eddie King",
+          "url": "https://open.spotify.com/artist/2BhFiIrJr25ZfaeHUr00xV"
+        },
+        {
+          "name": "Yo B",
+          "url": "https://open.spotify.com/artist/1RmMQblxit6mqEcIW4UO4N"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148083,
+      "name": "Life Na Hard",
+      "url": "https://open.spotify.com/track/1pJIcsePOqmG7TqOz8AZWP"
+    },
+    {
+      "album": {
         "name": "Donda (Deluxe)",
         "url": "https://open.spotify.com/album/2Wiyo7LzdeBCsVZiRA6vVZ"
       },
@@ -31940,6 +32034,24 @@
       "duration_ms": 391656,
       "name": "Life Of The Party (with Andr\u00e9 3000)",
       "url": "https://open.spotify.com/track/2yBb1CRq98SSWRuDSn36SZ"
+    },
+    {
+      "album": {
+        "name": "LifeStyle",
+        "url": "https://open.spotify.com/album/28GmXJTsNvDGE6ofgZiz6B"
+      },
+      "artists": [
+        {
+          "name": "TB2",
+          "url": "https://open.spotify.com/artist/7q2bsuyzy5hJ3ntp6zUPsZ"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136698,
+      "name": "LifeStyle",
+      "url": "https://open.spotify.com/track/3RMN0pi9AZrVbizcWS6aWu"
     },
     {
       "album": {
@@ -40592,24 +40704,6 @@
       "duration_ms": 358237,
       "name": "Over",
       "url": "https://open.spotify.com/track/56ZChLuvQnZ1w76EP0fDot"
-    },
-    {
-      "album": {
-        "name": "Overdose",
-        "url": "https://open.spotify.com/album/4fNGuHIMtm4dYQD3udOjt9"
-      },
-      "artists": [
-        {
-          "name": "VVinchy",
-          "url": "https://open.spotify.com/artist/1crmh3YgaXLT7L0bPuWOrK"
-        }
-      ],
-      "date_added": "2026-04-27",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 189671,
-      "name": "Overdose",
-      "url": "https://open.spotify.com/track/3vL6n8Z9WtwHQOe6USgnps"
     },
     {
       "album": {
@@ -58954,7 +59048,7 @@
       ],
       "date_added": "2025-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 200106,
       "name": "Vopn",
       "url": "https://open.spotify.com/track/7fc5fotKDfgeD8v0NPEG3g"
@@ -63200,7 +63294,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 184970,
       "name": "\u00c9g lifi \u00ed draumi",
       "url": "https://open.spotify.com/track/2f8mEIh8Z0D7Unkk5CXU0R"
@@ -64666,7 +64760,7 @@
       ],
       "date_added": "2025-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 198437,
       "name": "\u00de\u00f3 l\u00ed\u00f0i \u00e1r og \u00f6ld",
       "url": "https://open.spotify.com/track/3H5wOmNYFMFbNrr14HQYWy"

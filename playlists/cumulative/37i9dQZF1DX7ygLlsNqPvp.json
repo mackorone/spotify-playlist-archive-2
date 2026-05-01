@@ -2463,6 +2463,32 @@
     },
     {
       "album": {
+        "name": "Geeking",
+        "url": "https://open.spotify.com/album/5Oce1ZPus8wESW3UqL5Af0"
+      },
+      "artists": [
+        {
+          "name": "Kawabanga",
+          "url": "https://open.spotify.com/artist/5VcDYvRgsmMRpklUZarFEh"
+        },
+        {
+          "name": "Yung NB",
+          "url": "https://open.spotify.com/artist/7cQQiXUacVNG0rFe5GHylS"
+        },
+        {
+          "name": "21 Kelly",
+          "url": "https://open.spotify.com/artist/7uozBRpWxw952UW2nMf9Qo"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135166,
+      "name": "Geeking",
+      "url": "https://open.spotify.com/track/0GjTn5yPi4Q1dbAB4eG58l"
+    },
+    {
+      "album": {
         "name": "GENG GENG (feat. City Boy, O'Kenneth, Jay Bahd & Sean Lifer)",
         "url": "https://open.spotify.com/album/0Km1oJSuuHnhZMpbpTPdO9"
       },
@@ -3382,7 +3408,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 134131,
       "name": "LABADI",
       "url": "https://open.spotify.com/track/6LRN0BxZWwTc8kgPK5XbBu"
@@ -3448,6 +3474,24 @@
       "duration_ms": 155204,
       "name": "Lavida Loca",
       "url": "https://open.spotify.com/track/6OOUQ6PiHVK5M63KEfpXUg"
+    },
+    {
+      "album": {
+        "name": "LIFE ON THE EDGE",
+        "url": "https://open.spotify.com/album/5cMlPN69fnDDpY5OcRpcf6"
+      },
+      "artists": [
+        {
+          "name": "Xlimkid",
+          "url": "https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "LIFE OF ECSTASY",
+      "url": "https://open.spotify.com/track/6Gy016CZdGzVASU8Ijxs9Q"
     },
     {
       "album": {
@@ -6688,7 +6732,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 190000,
       "name": "Yegye Yeni",
       "url": "https://open.spotify.com/track/6rXJ7UFomJLt8BnKGg4axr"

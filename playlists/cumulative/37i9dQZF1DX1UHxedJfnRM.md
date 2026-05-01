@@ -4,7 +4,7 @@
 
 > Los temas más sabrosos del momento suenan aquí\. Foto: Grupo Niche
 
-171 songs - 12 hr 24 min
+172 songs - 12 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Con Mi Amiga](https://open.spotify.com/track/2bIIQIXgi5blVkSZ7Y2uTh) | [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR) | [Esa Soy Yo](https://open.spotify.com/album/5qPa8E6bhoC1iCGaJOvhzW) | 3:49 | 2022-05-13 |  |
 | [Conteo Regresivo \- Salsa Version](https://open.spotify.com/track/37nXsqE1XW0cxOQvIMsmFc) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Contraste](https://open.spotify.com/album/00LOUiA5823qxkOcHiio0W) | 4:26 | 2022-08-12 |  |
 | [Corazón Embusteros](https://open.spotify.com/track/527sYZvnJbG8z5ScW2DAVU) | [N'Samble](https://open.spotify.com/artist/7Ksq8BTaGcbM7OgVQi3y8f) | [Y No Hay Más Na](https://open.spotify.com/album/3NfQpI1g7293zTjirDR73X) | 5:53 | 2022-05-13 |  |
+| [Cuando se Ama](https://open.spotify.com/track/1Rb7zYakaB0K0RVkz8IgPM) | [Masiel Malaga Y Su Salsa Red](https://open.spotify.com/artist/5YP9xkr9fmA28e2XWOrouc) | [Cuando se Ama](https://open.spotify.com/album/1qUU0srayb57EzXW5OSirW) | 4:22 | 2026-04-30 |  |
 | [Cómo Se Cura una Herida](https://open.spotify.com/track/08wrPjhluxqZ14lOkoZiel) | [Septeto Acarey](https://open.spotify.com/artist/5Vz74ibGHBQaUa2ALDOH0v) | [Cómo Se Cura una Herida](https://open.spotify.com/album/0mmyV7UsBA9DgZJurgWqqL) | 4:59 | 2023-04-21 | 2023-05-13 |
 | [De Qué Manera](https://open.spotify.com/track/3HMlb6Dh9OGr3CjV6IwjEP) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [De Qué Manera](https://open.spotify.com/album/6XBq5DhffYApT0TGZAQ9cH) | 3:13 | 2022-12-22 |  |
 | [De Vuelta Pa' La Vuelta](https://open.spotify.com/track/7AUhck1sPy11OExQmDDx4P) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [De Vuelta Pa' La Vuelta](https://open.spotify.com/album/1mFvOlraT4JKt4D7aGb9tc) | 3:51 | 2022-05-13 |  |
@@ -105,7 +106,7 @@
 | [Me Hace Daño Verte](https://open.spotify.com/track/4dyzxv5SsdBtunuU3qj7Ti) | [Fresto Music](https://open.spotify.com/artist/66q6iqbR9rh3jJNlGEnQvB) | [Trovando El Son](https://open.spotify.com/album/0fSaofDMk7H5ZUJ98SH5Uu) | 5:00 | 2023-09-12 |  |
 | [Me Vas A Extrañar](https://open.spotify.com/track/0SVlCv4gOgWohAdBZMBu3v) | [N'Samble](https://open.spotify.com/artist/7Ksq8BTaGcbM7OgVQi3y8f) | [Me Vas A Extranar](https://open.spotify.com/album/5COSv7B9FrpiPMJamXFTmp) | 5:10 | 2022-05-13 |  |
 | [Me Vas a Extrañar](https://open.spotify.com/track/10OXEEbtNRaeiHeKHj25XB) | [N'Samble](https://open.spotify.com/artist/7Ksq8BTaGcbM7OgVQi3y8f) | [Me Vas a Extrañar](https://open.spotify.com/album/6KSnZY5Af92l4E1K5XjYL8) | 5:10 | 2022-07-15 | 2024-04-19 |
-| [Mi Cali Bella \- Salsa](https://open.spotify.com/track/3RmOuFMb91bKOZOnCRb8Kv) | [Los Alfa 8](https://open.spotify.com/artist/3C9BF8bjoRWU14IkkAXGq2), [Marcelo Cezán](https://open.spotify.com/artist/6PwCDMNPqykd8swT8kidCF) | [Mi Cali Bella \(Salsa\)](https://open.spotify.com/album/0SdD0h12av21JUkOtN43gx) | 3:44 | 2026-03-02 |  |
+| [Mi Cali Bella \- Salsa](https://open.spotify.com/track/3RmOuFMb91bKOZOnCRb8Kv) | [Los Alfa 8](https://open.spotify.com/artist/3C9BF8bjoRWU14IkkAXGq2), [Marcelo Cezán](https://open.spotify.com/artist/6PwCDMNPqykd8swT8kidCF) | [Mi Cali Bella \(Salsa\)](https://open.spotify.com/album/0SdD0h12av21JUkOtN43gx) | 3:44 | 2026-03-02 | 2026-05-01 |
 | [Mi Propiedad Privada](https://open.spotify.com/track/3DAxwWtA3N41eNZ9pCsQnl) | [LA INDIA](https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck) | [Mi Propiedad Privada](https://open.spotify.com/album/5wzCExW5NvwRMvDRav2taR) | 4:12 | 2022-05-13 | 2023-03-04 |
 | [Misterio](https://open.spotify.com/track/5ANnot1kusksXvuHlmwYYT) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Mixteip](https://open.spotify.com/album/315R7c8EPwJiT11OS0t4Xk) | 3:48 | 2025-07-25 |  |
 | [MIX KAROL G: BICHOTA / SEJODIOTO / EL MAKINON](https://open.spotify.com/track/28BdtXblzpFirMnFIuMKFC) | [Combinacion De La Habana](https://open.spotify.com/artist/3hfczsQRbhO3io1UwQFM1y), [Yahaira Plasencia](https://open.spotify.com/artist/7GEHoJXxJ6wnS8dbgm0b1E) | [MIX KAROL G: BICHOTA / SEJODIOTO / EL MAKINON](https://open.spotify.com/album/3Bz9rTrpsFUF1OcALYiroo) | 5:37 | 2022-05-13 | 2023-02-04 |

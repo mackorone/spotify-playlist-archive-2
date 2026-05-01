@@ -3153,6 +3153,24 @@
     },
     {
       "album": {
+        "name": "Haunted",
+        "url": "https://open.spotify.com/album/3OMhyOKxU8AxOMr6dOjJCd"
+      },
+      "artists": [
+        {
+          "name": "Follow Deep",
+          "url": "https://open.spotify.com/artist/0pi2JVymYDQ1helz6Z1AOg"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217429,
+      "name": "Haunted",
+      "url": "https://open.spotify.com/track/7zoHmY3t1BKRyRADFjiK3P"
+    },
+    {
+      "album": {
         "name": "Hazy",
         "url": "https://open.spotify.com/album/3t9hfg84AKwgF8KA0T4K5w"
       },
@@ -4605,6 +4623,24 @@
     },
     {
       "album": {
+        "name": "My Own Bunker",
+        "url": "https://open.spotify.com/album/4XDTuocZ7RH6466RhNE2pB"
+      },
+      "artists": [
+        {
+          "name": "Fat Drive Factory",
+          "url": "https://open.spotify.com/artist/6JL7xnHim56hmMNyUDelFE"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174374,
+      "name": "My Own Bunker",
+      "url": "https://open.spotify.com/track/2rLebuakIprXtEJYanD9mP"
+    },
+    {
+      "album": {
         "name": "My Own World",
         "url": "https://open.spotify.com/album/38prmH5z5AS3n7yKCXig8m"
       },
@@ -5168,6 +5204,24 @@
       "duration_ms": 227333,
       "name": "Perilous Crests",
       "url": "https://open.spotify.com/track/0SjeRsyPzUfOWQgEfbtnNO"
+    },
+    {
+      "album": {
+        "name": "A Light On The Horizon",
+        "url": "https://open.spotify.com/album/6zRSgRECoeWvyG6UQq2Fdw"
+      },
+      "artists": [
+        {
+          "name": "Slackrr",
+          "url": "https://open.spotify.com/artist/17JbSCGvIPoMMl9xGcR8lu"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199569,
+      "name": "Perspectives",
+      "url": "https://open.spotify.com/track/4E5vUYWAQPmRHDbVZriqt1"
     },
     {
       "album": {
@@ -6414,6 +6468,24 @@
       "duration_ms": 197000,
       "name": "State of The Nation",
       "url": "https://open.spotify.com/track/2org02VczoJhxBLsQdtw4r"
+    },
+    {
+      "album": {
+        "name": "I've Got a Story to Tell",
+        "url": "https://open.spotify.com/album/5Ssz0Vi0rbAGXRkF4hhOoX"
+      },
+      "artists": [
+        {
+          "name": "Jenny Scara",
+          "url": "https://open.spotify.com/artist/0F4yegE6Xa3vC2KvCoJTGw"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145157,
+      "name": "Stay Back",
+      "url": "https://open.spotify.com/track/02wm1989sxHOnZJK9IY0EU"
     },
     {
       "album": {

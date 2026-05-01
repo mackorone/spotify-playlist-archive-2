@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain]
 
 > The Best Background Winter Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-[Intact Records](https://open.spotify.com/user/31lz25atk5q6vg7birxgadlagw7q) - 106,983 likes - 84 songs - 3 hr 53 min
+[Intact Records](https://open.spotify.com/user/31lz25atk5q6vg7birxgadlagw7q) - 106,977 likes - 84 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain]
 | 47 | [Golden Hour](https://open.spotify.com/track/5fhLAYW2Sc53Tyevrfq4rO) | [blaank](https://open.spotify.com/artist/1IvFHrfuRe7aySFJ5CpByS), [Idun Nicoline](https://open.spotify.com/artist/72QjpaY1mSltWRHfWXGmMr) | [Golden Hour](https://open.spotify.com/album/5xhtKAwzlpmRIyQAla6upK) | 2:40 |
 | 48 | [forest between thoughts](https://open.spotify.com/track/5kVAo9ANYqaIaUyYqdF0ys) | [lume](https://open.spotify.com/artist/7EJbZ0JGNjdgxYuQWnhFZT) | [forest between thoughts](https://open.spotify.com/album/4HmyoSZWFpcI1izqyJgT4s) | 2:36 |
 | 49 | [Makes Me Move](https://open.spotify.com/track/7e5vDprt0n0PM25JAU1TL6) | [TBx](https://open.spotify.com/artist/03U2hi0d2qahOADWNZAnhw) | [Makes Me Move](https://open.spotify.com/album/0L5ZEIvm0rmHNNJBGW82V4) | 2:38 |
-| 50 | [Daydream Fuel](https://open.spotify.com/track/7pi0Irlh7Rh65cvWQ96Ynh) | [Jay Baker](https://open.spotify.com/artist/6JLydxllGfvKTOv3QqfT1M), [Jasper](https://open.spotify.com/artist/30pAIxXwzo3i3ZgYnh59p1) | [Daydream Fuel](https://open.spotify.com/album/53dKAlrklQho53Ka7bOXLh) | 3:02 |
+| 50 | [Daydream Fuel](https://open.spotify.com/track/7pi0Irlh7Rh65cvWQ96Ynh) | [Jay Baker](https://open.spotify.com/artist/6JLydxllGfvKTOv3QqfT1M), [jasper.wav](https://open.spotify.com/artist/69H3w1KragVQijsuYudCor) | [Daydream Fuel](https://open.spotify.com/album/53dKAlrklQho53Ka7bOXLh) | 3:02 |
 | 51 | [Sad Love \(feat\. JAIKO\)](https://open.spotify.com/track/7ClzJE519FxZeSp2UoTZvt) | [Kayote](https://open.spotify.com/artist/5h9NCujJrwNVZz9bDIDbvn), [Bastyan](https://open.spotify.com/artist/3BJgrhhTMNGZn3ORwAlK9g), [JAIKO](https://open.spotify.com/artist/0Z18DUpbXTOfz077PDtmhT) | [Sad Love \(feat\. JAIKO\)](https://open.spotify.com/album/6AXjoYZ10gYz5Dax6KwR03) | 2:41 |
 | 52 | [Every Breath You Take \(feat\. Luciana Silva\)](https://open.spotify.com/track/10wjaTzN6ryJEwPowGby7E) | [Kayote](https://open.spotify.com/artist/5h9NCujJrwNVZz9bDIDbvn), [Slenderino](https://open.spotify.com/artist/1rX0UQ4xdtxlSP2MlP7wQb), [Gabriel Wittner](https://open.spotify.com/artist/6DitGfT7dcBLUsY5ETeuAj), [Luciana Silva](https://open.spotify.com/artist/5ntgWfc9qPsKU0yUQwDqUF) | [Every Breath You Take \(feat\. Luciana Silva\)](https://open.spotify.com/album/1AIHqyuiMXredm3CnRSWSS) | 2:15 |
 | 53 | [back to friends](https://open.spotify.com/track/2Dp4mSIpKt8v8PGu1TvYWk) | [Santi](https://open.spotify.com/artist/5hdmCzKYktqtLIUy9auFP7), [Moody Violet](https://open.spotify.com/artist/1KrQKZXgiWQtPmM9wcwp0A) | [back to friends](https://open.spotify.com/album/70hKBo3cY1pZtkJ7dpcG95) | 2:04 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 310 likes - 2,241 songs - 5 day 12 hr 48 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 311 likes - 2,249 songs - 5 day 13 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2249,5 +2249,13 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2239 | [Back Alive](https://open.spotify.com/track/1z1ajvtk8FG5kMZE9n0xHh) | [Marko B.](https://open.spotify.com/artist/36ZoiEANmbuP3Iob2va073) | [Back Alive](https://open.spotify.com/album/5yyGxU6VwAZkQ0FZSvDPzn) | 4:27 |
 | 2240 | [Baltazar \- 2026](https://open.spotify.com/track/1gHVY9ZGMoeB6OWsiOhtBy) | [Mr\. Mol](https://open.spotify.com/artist/0Pzhf2LTb0C0RJeAxaEBjx) | [Baltazar \(2026\)](https://open.spotify.com/album/0y45gNWOADiybkBja0i84Z) | 3:48 |
 | 2241 | [Running on Fumes and Regret](https://open.spotify.com/track/78LxePJ4LlJToM3OJqESqd) | [Apex89](https://open.spotify.com/artist/0jdPGIACeHmp89qaOUEsWZ) | [Running on Fumes and Regret](https://open.spotify.com/album/00mVQClS9CCm6C08Xq9RE6) | 3:29 |
+| 2242 | [We were young in the late afternoon light](https://open.spotify.com/track/3K3YXpbYR8J64ISieik2ED) | [Funeral Letters](https://open.spotify.com/artist/0cDgNx7GyU4qBNjuQ1Zy7H) | [We were young in the late afternoon light](https://open.spotify.com/album/0V41WLKvJPIUthBlXDXCks) | 3:11 |
+| 2243 | [Мы будем радоваться жизни](https://open.spotify.com/track/3Ixm23ATHd8yETGP7S4tOc) | [the poet must die](https://open.spotify.com/artist/2D0En2asmzvF1FGNiXEGqf) | [Мы будем радоваться жизни](https://open.spotify.com/album/0bJ5TrgC7iAKatWzQtKH08) | 1:19 |
+| 2244 | [Reason](https://open.spotify.com/track/573E32bqni3NxWteCmjc9G) | [The Hindmost](https://open.spotify.com/artist/2XN8CGl8vgjXz9lEB9AGnB) | [Bridges / Reason](https://open.spotify.com/album/6rANUuV7L6tnNjTl4zn2Id) | 3:11 |
+| 2245 | [Jah Give The Power](https://open.spotify.com/track/5VKiwgHeAvNI7KVZVOPUPV) | [Anayah Roots Levi](https://open.spotify.com/artist/2sYjFt5ayyIACrgzhcRLOO), [Costa Rebel](https://open.spotify.com/artist/4Yg4PNWpQZ3O3dkp7iz4Rz) | [Jah Give The Power](https://open.spotify.com/album/4O4vZRUQd9cTXjQHdln5Vm) | 3:32 |
+| 2246 | [Gloves Off](https://open.spotify.com/track/3Y5vmBRSAwVMOownIyEaov) | [Sam Edwards](https://open.spotify.com/artist/3SWbBPEKFKWXhms9t1S6VZ) | [One](https://open.spotify.com/album/3N6OuWL8YXbAJTlHVDNmlu) | 2:26 |
+| 2247 | [Me Rindo](https://open.spotify.com/track/4T4Rx7ApdVoMyeteFglpJ1) | [Michael Todd Brown](https://open.spotify.com/artist/1UVbWulqbJhDEpYxvOmHJa), [Tuva Paloma](https://open.spotify.com/artist/6uYz66bkpyYpokipvgIRrT) | [Me Rindo](https://open.spotify.com/album/0saQU98ixtjrMD3M6EXQ73) | 5:46 |
+| 2248 | [Bermimpi](https://open.spotify.com/track/0jqb9Ob2VNIPDUYzznVMsp) | [Veyn Arcanstin](https://open.spotify.com/artist/5jq2KvNMvKM3T3oOEMlzkl), [Nariya Blanche](https://open.spotify.com/artist/2Nb59R0W7uEStoWIe4mpsp), [Gigih Prayogo](https://open.spotify.com/artist/1Ayg3QEQWS3EfokPaCqccr) | [Bermimpi](https://open.spotify.com/album/7MxXY4vwu1EdoUiQRQ5Qpr) | 5:20 |
+| 2249 | [Incomparable \(Bluesman\)](https://open.spotify.com/track/27yHVzY4ZoiVIYvpjcvhFq) | [Yunez](https://open.spotify.com/artist/3WqoLbV8XYbKrXUTTScsKI) | [Bluesman](https://open.spotify.com/album/4pvGxzTyfc9TQpoE8BBrar) | 3:28 |
 
-Snapshot ID: `AAAJab7P5/UxYP+LI2wzY/DFJoawO3IQ`
+Snapshot ID: `AAAJcu28unVh0M15AdglJA/D/CptD98G`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Get your fill of vibes straight out of Tanzania. Cover: D Voice",
+  "description": "Get your fill of vibes straight out of Tanzania. Cover: Barnaba & Savara",
   "name": "Bongo Flava",
   "tracks": [
     {
@@ -1128,6 +1128,28 @@
       "duration_ms": 208195,
       "name": "Bestfriend remix",
       "url": "https://open.spotify.com/track/2Q5xL6g75mPeBOMSNjGP8l"
+    },
+    {
+      "album": {
+        "name": "Bhuju (feat. Mbosso)",
+        "url": "https://open.spotify.com/album/3YeYkTet5Z6gbB66868VcL"
+      },
+      "artists": [
+        {
+          "name": "Alikiba",
+          "url": "https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT"
+        },
+        {
+          "name": "Mbosso",
+          "url": "https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209196,
+      "name": "Bhuju (feat. Mbosso)",
+      "url": "https://open.spotify.com/track/43anMhnVk6EDjvxu3re25J"
     },
     {
       "album": {
@@ -4429,6 +4451,28 @@
     },
     {
       "album": {
+        "name": "Juju",
+        "url": "https://open.spotify.com/album/6a8IX1RjPdBZbTUzNFHiWj"
+      },
+      "artists": [
+        {
+          "name": "Barnaba",
+          "url": "https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks"
+        },
+        {
+          "name": "Savara",
+          "url": "https://open.spotify.com/artist/4FjLrdzDbqrP9E9FzERGap"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174701,
+      "name": "Juju",
+      "url": "https://open.spotify.com/track/7btk2D9MmqVZNuyQS8ghXH"
+    },
+    {
+      "album": {
         "name": "Juju (feat. Marioo)",
         "url": "https://open.spotify.com/album/0HOR2H0t3Ugp3PtzEuyOIk"
       },
@@ -6594,6 +6638,24 @@
       "duration_ms": 200000,
       "name": "Moja",
       "url": "https://open.spotify.com/track/6q3P3cfcEJHqNiPk01xH31"
+    },
+    {
+      "album": {
+        "name": "Mombasa",
+        "url": "https://open.spotify.com/album/2i6qYd2aQXtLuDmcyS5lWU"
+      },
+      "artists": [
+        {
+          "name": "Marioo",
+          "url": "https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163043,
+      "name": "Mombasa",
+      "url": "https://open.spotify.com/track/77yjMVDTTozcP5yyebGQ1F"
     },
     {
       "album": {
@@ -9829,6 +9891,24 @@
     },
     {
       "album": {
+        "name": "Raha",
+        "url": "https://open.spotify.com/album/08Nwvtgkvap3AGrtqg4kfr"
+      },
+      "artists": [
+        {
+          "name": "Kondela",
+          "url": "https://open.spotify.com/artist/5QSt7WdkvDgt6YNZbKyWG7"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248999,
+      "name": "Raha",
+      "url": "https://open.spotify.com/track/3ElRHHyivDOcADDlZFBXF8"
+    },
+    {
+      "album": {
         "name": "Raha (feat. Zuchu)",
         "url": "https://open.spotify.com/album/2gUTuqKYELrZnGbmKVuf4J"
       },
@@ -9964,7 +10044,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 166153,
       "name": "ROGER",
       "url": "https://open.spotify.com/track/2ZlAFI6Crfs2pURRxOeKHV"
@@ -11778,7 +11858,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 192681,
       "name": "Too Late - 2.0",
       "url": "https://open.spotify.com/track/2gLEqgFY9OGPLzNBEfOsp0"
@@ -12106,7 +12186,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 227329,
       "name": "Ubuyu",
       "url": "https://open.spotify.com/track/1mU5xiFnlk7E8cMT5hV0u2"
@@ -12186,7 +12266,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 298378,
       "name": "Uko Wapi",
       "url": "https://open.spotify.com/track/1j0UtHCxXqWzN43aPK1M64"

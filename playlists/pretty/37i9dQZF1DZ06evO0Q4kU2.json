@@ -1,12 +1,12 @@
 {
   "description": "This is Gabr\u00edel \u00d3lafs. The essential tracks, all in one playlist.",
-  "num_followers": 2451,
+  "num_followers": 2452,
   "original_name": "This Is Gabr\u00edel \u00d3lafs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ae/4gAAAAABoH4otpkTgZ4ZUVgbdK1ah",
+  "snapshot_id": "afFKAAAAAABovDQ3xXF11XBIVL+zeWyN",
   "tracks": [
     {
       "added_at": null,
@@ -348,9 +348,9 @@
           "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
         }
       ],
-      "duration_ms": 147774,
-      "name": "Cyclist Waltz Solo",
-      "url": "https://open.spotify.com/track/24wjI8OjrQdeLVLduvu8rl"
+      "duration_ms": 118347,
+      "name": "Mosi",
+      "url": "https://open.spotify.com/track/4RBLDWbV6cDTJj3ToejEED"
     },
     {
       "added_at": null,
@@ -416,9 +416,9 @@
           "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
         }
       ],
-      "duration_ms": 118347,
-      "name": "Mosi",
-      "url": "https://open.spotify.com/track/4RBLDWbV6cDTJj3ToejEED"
+      "duration_ms": 147774,
+      "name": "Cyclist Waltz Solo",
+      "url": "https://open.spotify.com/track/24wjI8OjrQdeLVLduvu8rl"
     },
     {
       "added_at": null,
@@ -787,8 +787,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Solon Islandus (Deluxe)",
-        "url": "https://open.spotify.com/album/70KIVTNVTj77svaPJ3C9za"
+        "name": "Polar (Ultimate)",
+        "url": "https://open.spotify.com/album/4rjesFoArMdjqT21cE56qn"
       },
       "artists": [
         {
@@ -796,9 +796,9 @@
           "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
         }
       ],
-      "duration_ms": 211821,
-      "name": "The Farewell - Voiceless",
-      "url": "https://open.spotify.com/track/7tuh2HILuGXDhscDsNPb1r"
+      "duration_ms": 82381,
+      "name": "Nightfall",
+      "url": "https://open.spotify.com/track/2Ko0USILw3ivKoPgUykx5P"
     },
     {
       "added_at": null,
@@ -839,8 +839,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Polar (Ultimate)",
-        "url": "https://open.spotify.com/album/4rjesFoArMdjqT21cE56qn"
+        "name": "Solon Islandus (Deluxe)",
+        "url": "https://open.spotify.com/album/70KIVTNVTj77svaPJ3C9za"
       },
       "artists": [
         {
@@ -848,9 +848,9 @@
           "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
         }
       ],
-      "duration_ms": 82381,
-      "name": "Nightfall",
-      "url": "https://open.spotify.com/track/2Ko0USILw3ivKoPgUykx5P"
+      "duration_ms": 211821,
+      "name": "The Farewell - Voiceless",
+      "url": "https://open.spotify.com/track/7tuh2HILuGXDhscDsNPb1r"
     }
   ],
   "unique_name": "This Is Gabr\u00edel \u00d3lafs",

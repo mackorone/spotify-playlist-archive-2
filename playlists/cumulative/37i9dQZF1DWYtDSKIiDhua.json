@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-09",
-  "description": "R&B and good vibe tracks for your current mood. Cover: rjtheweirdo",
+  "description": "R&B and good vibe tracks for your current mood. Cover: Jessie Reyez, Muni Long",
   "name": "mood. ",
   "tracks": [
     {
@@ -962,6 +962,28 @@
       "duration_ms": 165436,
       "name": "Ain't the Same",
       "url": "https://open.spotify.com/track/15KqGIpBfvccRhvtcPRRSU"
+    },
+    {
+      "album": {
+        "name": "AIN'T U TIRED? (with Muni Long)",
+        "url": "https://open.spotify.com/album/7n7FoM7nC98uihlxb87OUX"
+      },
+      "artists": [
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        },
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221000,
+      "name": "AIN'T U TIRED? (with Muni Long)",
+      "url": "https://open.spotify.com/track/2WJ0xtMr2AVWfBWFAmtxdd"
     },
     {
       "album": {
@@ -3345,6 +3367,24 @@
     },
     {
       "album": {
+        "name": "Boy in the Matrix",
+        "url": "https://open.spotify.com/album/60uMtz6oKaUg9aYpPy3AOL"
+      },
+      "artists": [
+        {
+          "name": "Deb Fan",
+          "url": "https://open.spotify.com/artist/7s1vLo9XJCtiFWWzidpl9m"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167773,
+      "name": "Boy in the Matrix",
+      "url": "https://open.spotify.com/track/6wZcPL2h8uFXXiSgxA2hSM"
+    },
+    {
+      "album": {
         "name": "to be honest",
         "url": "https://open.spotify.com/album/0qRlwYQIRtsqmQsRFYqOVi"
       },
@@ -3834,7 +3874,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 154458,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/2xFZUqIX9c0bLtRNN7deJ8"
@@ -4670,6 +4710,28 @@
       "duration_ms": 150000,
       "name": "Chemistry",
       "url": "https://open.spotify.com/track/3QOstENZ1cTwT4KAWf81Tk"
+    },
+    {
+      "album": {
+        "name": "Cherry Red - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/0JLuHTXu63n4gENkZQGR87"
+      },
+      "artists": [
+        {
+          "name": "Mack Keane",
+          "url": "https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO"
+        },
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237842,
+      "name": "Cherry Red - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/6qBZaDkzZxco9OjRog8jnl"
     },
     {
       "album": {
@@ -5836,6 +5898,24 @@
       "duration_ms": 209849,
       "name": "Dark Soul",
       "url": "https://open.spotify.com/track/42gOtqiPnqh2bMNjgBFOM2"
+    },
+    {
+      "album": {
+        "name": "Day One",
+        "url": "https://open.spotify.com/album/4jg8dWycV6IFL8kEUKVoCw"
+      },
+      "artists": [
+        {
+          "name": "FIG",
+          "url": "https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147746,
+      "name": "Day One",
+      "url": "https://open.spotify.com/track/6wldZLtGqvQ8vUiy11FtTt"
     },
     {
       "album": {
@@ -9616,7 +9696,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 147500,
       "name": "G.O.D.",
       "url": "https://open.spotify.com/track/2VUaCpFcrgpjMZiWvDncE7"
@@ -9952,7 +10032,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 194678,
       "name": "Girls (feat. Kid Milli)",
       "url": "https://open.spotify.com/track/1lLBCFBp6mQo2t1iY1kEGf"
@@ -12274,7 +12354,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 150613,
       "name": "I Did This To Myself",
       "url": "https://open.spotify.com/track/055T1TvSjL24CTUfTHSZs7"
@@ -17512,7 +17592,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 203857,
       "name": "Mother Tree",
       "url": "https://open.spotify.com/track/1cBwZeiOxWJFlTE3cXq0gd"
@@ -24571,6 +24651,24 @@
     },
     {
       "album": {
+        "name": "So\u2026",
+        "url": "https://open.spotify.com/album/0OzdBCnFDAXd02FELiFPuN"
+      },
+      "artists": [
+        {
+          "name": "Ama",
+          "url": "https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196631,
+      "name": "So\u2026",
+      "url": "https://open.spotify.com/track/1W31Osw7XybJ4YcS3NCOZ5"
+    },
+    {
+      "album": {
         "name": "Space",
         "url": "https://open.spotify.com/album/53yStBYbIQTT65ul6LXudf"
       },
@@ -28096,7 +28194,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 171764,
       "name": "Tres Uvas",
       "url": "https://open.spotify.com/track/3IStO64MYRwCj7eEsfUP6q"
@@ -29924,6 +30022,24 @@
       "duration_ms": 223663,
       "name": "Whatever",
       "url": "https://open.spotify.com/track/7FoHEr4j8y905vSLqSnCHt"
+    },
+    {
+      "album": {
+        "name": "Whatever Goes",
+        "url": "https://open.spotify.com/album/5aEqG3iU8IAAKOH7ZQIXmT"
+      },
+      "artists": [
+        {
+          "name": "Jeff Bernat",
+          "url": "https://open.spotify.com/artist/2vVT4qoxWje0gVD2FiWZ4u"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193134,
+      "name": "Whatever Goes",
+      "url": "https://open.spotify.com/track/43KUx6XabDeAoytQQvG10I"
     },
     {
       "album": {

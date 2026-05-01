@@ -1,12 +1,12 @@
 {
   "description": "This is Black Sabbath. The essential tracks, all in one playlist.",
-  "num_followers": 500469,
+  "num_followers": 500553,
   "original_name": "This Is Black Sabbath",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ae/4gAAAAABhbCfOgzIl8LTlPUlh9I+A",
+  "snapshot_id": "afFKAAAAAACddFWEEr9XqhrnaBj1rXqd",
   "tracks": [
     {
       "added_at": null,
@@ -715,8 +715,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vol. 4",
-        "url": "https://open.spotify.com/album/61j7phQkxuKzcoFsi0XtkQ"
+        "name": "Vol. 4 (2014 Remaster)",
+        "url": "https://open.spotify.com/album/3zNcigR9hAceoTJphnxg6f"
       },
       "artists": [
         {
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
         }
       ],
-      "duration_ms": 353240,
-      "name": "Under the Sun - 2009 Remaster",
-      "url": "https://open.spotify.com/track/3Ot5N9GGKyybaylaNUmESl"
+      "duration_ms": 350124,
+      "name": "Under the Sun - 2014 Remaster",
+      "url": "https://open.spotify.com/track/0T7zraoBpNHSqwyr40UrNN"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Harriet Jaxxon, Josie Man",
+  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Rudimental",
   "name": "Massive Drum & Bass",
   "tracks": [
     {
@@ -4759,6 +4759,28 @@
     },
     {
       "album": {
+        "name": "Come Find Me",
+        "url": "https://open.spotify.com/album/1nbAi4u1zGFug7cy9ID3tk"
+      },
+      "artists": [
+        {
+          "name": "CLIPZ",
+          "url": "https://open.spotify.com/artist/6b0TSaLAeLXilOPoId8udE"
+        },
+        {
+          "name": "DRIIA",
+          "url": "https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165803,
+      "name": "Come Find Me",
+      "url": "https://open.spotify.com/track/5MJldOtMYUi7LVQkMtCgPx"
+    },
+    {
+      "album": {
         "name": "Comedown",
         "url": "https://open.spotify.com/album/3GWl74uAhfuBmwx1de0YHW"
       },
@@ -4836,7 +4858,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 136551,
       "name": "Corner",
       "url": "https://open.spotify.com/track/6MQnpSXLfCmMcA9xfU3O2o"
@@ -5666,6 +5688,32 @@
       "duration_ms": 264288,
       "name": "Desanka",
       "url": "https://open.spotify.com/track/0OFrRjcEobUV3U0ifwGS6I"
+    },
+    {
+      "album": {
+        "name": "Detrimental",
+        "url": "https://open.spotify.com/album/2cbPBXtln8OSyB8GSxkE5d"
+      },
+      "artists": [
+        {
+          "name": "Nasser UK",
+          "url": "https://open.spotify.com/artist/0OKtqx9di2GqRpRqA3eFpD"
+        },
+        {
+          "name": "Limmz",
+          "url": "https://open.spotify.com/artist/4cm0e6rUO2nxaJjkbNqNwf"
+        },
+        {
+          "name": "Kreed",
+          "url": "https://open.spotify.com/artist/7FDqjelq6VOFQ1Twv8SjLh"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201379,
+      "name": "Detrimental",
+      "url": "https://open.spotify.com/track/51KpGM5O4gfSuU0xH7db5K"
     },
     {
       "album": {
@@ -6698,7 +6746,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 193103,
       "name": "Elevate",
       "url": "https://open.spotify.com/track/7jIIaLkLcxyn9z2GvQi1Se"
@@ -10878,7 +10926,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 200500,
       "name": "Hysteria",
       "url": "https://open.spotify.com/track/323rqeIcQxJCc0gZjYegUN"
@@ -13807,6 +13855,24 @@
     },
     {
       "album": {
+        "name": "Love You More",
+        "url": "https://open.spotify.com/album/1EBqFLhJnUal2RgyWmA5rf"
+      },
+      "artists": [
+        {
+          "name": "Rudimental",
+          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168988,
+      "name": "Love You More",
+      "url": "https://open.spotify.com/track/2JT8Ey1EajEe1VNgBzl9Ut"
+    },
+    {
+      "album": {
         "name": "Lunatics & Legends",
         "url": "https://open.spotify.com/album/3ykaR3X0wfsHG0JFxrmfFP"
       },
@@ -15713,6 +15779,32 @@
     },
     {
       "album": {
+        "name": "Night Is Gone",
+        "url": "https://open.spotify.com/album/0wrPEOht7VPrp6VJlYkKOF"
+      },
+      "artists": [
+        {
+          "name": "Freaks & Geeks",
+          "url": "https://open.spotify.com/artist/6Qcn4TflUyLRoA6w44IQSU"
+        },
+        {
+          "name": "Mugatu",
+          "url": "https://open.spotify.com/artist/7D9ngVaGtYtFIZUsPMNECh"
+        },
+        {
+          "name": "Alika",
+          "url": "https://open.spotify.com/artist/1U3n3wACHLjc8sS1obMEuf"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169292,
+      "name": "Night Is Gone",
+      "url": "https://open.spotify.com/track/7xh1GRHnE4VTwDSGHE6PtA"
+    },
+    {
+      "album": {
         "name": "Night Train",
         "url": "https://open.spotify.com/album/5LgCU9NNcj2V412ZKn3Sra"
       },
@@ -15808,7 +15900,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 124137,
       "name": "No Comment",
       "url": "https://open.spotify.com/track/3VkA16jPKWOs7BIU5AWjyb"
@@ -17742,7 +17834,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 204137,
       "name": "Power",
       "url": "https://open.spotify.com/track/0CTkAv7l5qL3jMCuKPybjE"
@@ -19191,6 +19283,36 @@
     },
     {
       "album": {
+        "name": "Roll it up (20 past 4 anthem)",
+        "url": "https://open.spotify.com/album/5dOFRR3B8QTYnD0XqTbolc"
+      },
+      "artists": [
+        {
+          "name": "Murkage",
+          "url": "https://open.spotify.com/artist/21UeLP0spDGXpRA6AUOIsN"
+        },
+        {
+          "name": "Vibe Chemistry",
+          "url": "https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi"
+        },
+        {
+          "name": "Devilman",
+          "url": "https://open.spotify.com/artist/73nEd2GvjMYNSsFnxKSDAK"
+        },
+        {
+          "name": "Jman",
+          "url": "https://open.spotify.com/artist/4yBjkJ6MdQUxHdWBwTavEm"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155862,
+      "name": "Roll it up (20 past 4 anthem)",
+      "url": "https://open.spotify.com/track/77YD079zdGquATTtu8VRiG"
+    },
+    {
+      "album": {
         "name": "Round To Ya Speaker",
         "url": "https://open.spotify.com/album/2Kxv5sZ3hrzF9xmXMlim3U"
       },
@@ -20426,7 +20548,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 247586,
       "name": "Silence - Dimension Remix",
       "url": "https://open.spotify.com/track/2AUVVfU9CmmbWcudIAJ5vD"
@@ -25440,6 +25562,28 @@
       "duration_ms": 187401,
       "name": "White Noise",
       "url": "https://open.spotify.com/track/5MsnXwlc53vv0ym7NPw5gh"
+    },
+    {
+      "album": {
+        "name": "White Wine",
+        "url": "https://open.spotify.com/album/1XdJUTKbn33RYcSlX2nHz8"
+      },
+      "artists": [
+        {
+          "name": "Brodie",
+          "url": "https://open.spotify.com/artist/7HvAimFUDbhD9XRv1dbJ9t"
+        },
+        {
+          "name": "goddard.",
+          "url": "https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195883,
+      "name": "White Wine",
+      "url": "https://open.spotify.com/track/1P6ixf80XyBAxYZe9mtE7U"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-[pma4real](https://open.spotify.com/user/jasonwaroff) - 776 likes - 105 songs - 5 hr 52 min
+[pma4real](https://open.spotify.com/user/jasonwaroff) - 778 likes - 106 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,5 +113,6 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 | 103 | [Enséñame](https://open.spotify.com/track/4FKBpzuDfY5W38nU1R9nAz) | [Kirke](https://open.spotify.com/artist/2DqLLxyfyxRUodLixvd306) | [Enséñame](https://open.spotify.com/album/2ZRX2YE4E5qB4q6fvrKTB9) | 3:27 |
 | 104 | [Heir To The Throne](https://open.spotify.com/track/3A0cKdejEnyr8wojgntQVH) | [Sweet Electric](https://open.spotify.com/artist/2I2JaAstxZhlU1fmnRZSEm) | [Heir To The Throne](https://open.spotify.com/album/3NekfNDmU7iDJbPqM5PzFB) | 4:09 |
 | 105 | [It's Cool](https://open.spotify.com/track/33gvSmXDDYTWGn3Y25GW0x) | [St.Arnaud](https://open.spotify.com/artist/320bGhRu3ZAem1ZWjXmRA5) | [St.Arnaud](https://open.spotify.com/album/2YdWz8Pzqj2f8jNS3EjIVV) | 4:23 |
+| 106 | [She Wants To Walk Away \(Distribution\)](https://open.spotify.com/track/4bzxN8X4P0vLf60nNOxeRn) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9) | [She Wants To Walk Away](https://open.spotify.com/album/2j7luFA0VH7aMbwF70JHCk) | 3:14 |
 
-Snapshot ID: `AAADlYqEYmm9Gs5YhzKHffoHtRJBT87t`
+Snapshot ID: `AAADli/pV7K+X+pMdc0xAgrWrWGI3qVh`

@@ -4,7 +4,7 @@
 
 > Naye Indie gaano ka khazana, featuring Paradox, Garvit\-Priyansh, Hansika Pareek and other exciting artists.
 
-1,427 songs - 3 day 6 hr 14 min
+1,428 songs - 3 day 6 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Ain't Like Me](https://open.spotify.com/track/11Ecuz9pbeML5CuluIw088) | [Clifr](https://open.spotify.com/artist/1o9ja4Dha8IqKI3e5DpH14), [RANJ](https://open.spotify.com/artist/1vR6C8xoVTgy9yVRsCsr7H) | [Ain't Like Me](https://open.spotify.com/album/0otiNZRoLLu0VLkBvdzpqj) | 2:02 | 2024-05-31 | 2024-07-06 |
 | [Aise Kaise](https://open.spotify.com/track/0Ug3KGOo5jybEXGhdkazWo) | [Dimple Saikia](https://open.spotify.com/artist/6xVlnKfRctFcRDOYhmkHFS), [Bily & Akarsh](https://open.spotify.com/artist/3MWboBp80iV9GpGCeGKs02) | [Aise Kaise](https://open.spotify.com/album/0vDEn6yEjp4AqUiQkab66W) | 3:08 | 2023-11-10 | 2023-12-02 |
 | [Aise Na Humko](https://open.spotify.com/track/5PZyPpc0GfYfMTx6KmFK5i) | [Swanand Kirkire](https://open.spotify.com/artist/4q7O0NIvhz0G1IgyfOmdcz), [Shrey Gupta](https://open.spotify.com/artist/34yBDo2076Osgm0GmlnzF7), [Bharath](https://open.spotify.com/artist/1zD9gVg8wPOmVfYxTjMHaT) | [Aise Na Humko](https://open.spotify.com/album/03B5hEkHkzXmE9nWaHWMZ3) | 3:16 | 2026-01-16 | 2026-04-04 |
+| [Aise Na Pagal Karo](https://open.spotify.com/track/0C5vCd4id8DxoDM9HSUpBh) | [Kalra Saab](https://open.spotify.com/artist/52wEoKNZk5QyZrVDFI3jWD), [Bharath](https://open.spotify.com/artist/1zD9gVg8wPOmVfYxTjMHaT) | [Aise Na Pagal Karo](https://open.spotify.com/album/4gIqTRB4791oE6xRKuXyFY) | 3:44 | 2026-04-24 |  |
 | [Aisi Dooriyaan](https://open.spotify.com/track/4UCjicdxXa8AukOAANRFfX) | [Himonshu Parikh](https://open.spotify.com/artist/0AHysaqWv1LHwqk5P5lTMX) | [CIRCLES](https://open.spotify.com/album/2D2JEphFbPsxbthC89eH1t) | 3:41 | 2025-03-27 | 2025-05-03 |
 | [Aitbaar](https://open.spotify.com/track/3FV4KyYTCRgt9SYhVqi9ss) | [Garvit \- Priyansh](https://open.spotify.com/artist/6pYc4P7IWYwWttTPzYkDV4), [Vision](https://open.spotify.com/artist/0SqdljKM9fqIV6fuxQOlUI) | [Aitbaar](https://open.spotify.com/album/0qS3hXrt4HizWoH0S6Icfq) | 2:38 | 2024-11-15 | 2024-12-21 |
 | [Ajnabee](https://open.spotify.com/track/7qH8uppXORP4UQvXGc9dNl) | [The Western Ghats](https://open.spotify.com/artist/3vX5K7r9Icdjsrlax4FzWv) | [Ajnabee](https://open.spotify.com/album/0iZDAWTdaX2HOk8J7CJ63i) | 2:54 | 2025-12-19 | 2026-02-07 |
@@ -1312,7 +1313,7 @@
 | [Tu Jaane Hai Kahan](https://open.spotify.com/track/4zZlZgX3sleF4h8XTnxY14) | [Lucky Ali](https://open.spotify.com/artist/2L16nDKTxhFGaDriR2AHTB) | [Tu Jaane Hai Kahan](https://open.spotify.com/album/7lc1T9K43NHibF0obXhmJD) | 4:06 | 2026-02-06 | 2026-04-25 |
 | [Tu Jae Jahan](https://open.spotify.com/track/1X0ZbfKmPJHNCy385PH7z9) | [Osho Jain](https://open.spotify.com/artist/41Sw7HsskHGbJOJXhLUTEK), [Sanchi](https://open.spotify.com/artist/6QxNIpuAHE6MqRUCHJdLt0) | [Tu Jae Jahan](https://open.spotify.com/album/1xi3ZzJ6rzFeTCvSaU1flo) | 2:55 | 2023-06-23 | 2023-07-29 |
 | [Tu Jaise Dariya](https://open.spotify.com/track/75983zLFgUzgjJM45aY0Mn) | [Parth Srivastava](https://open.spotify.com/artist/5xioqWZGO4JrB9daKgcreI), [Armaan Sharma](https://open.spotify.com/artist/5nn7leCI4A1Kfp5Q0un5Pi) | [Tu Jaise Dariya](https://open.spotify.com/album/2Q7Jd69YDCL2l0rAHLZjfa) | 3:47 | 2025-01-31 | 2025-06-07 |
-| [Tu Jo Mile](https://open.spotify.com/track/7BtqmdC0eLzFheoUM2Mumm) | [Aditya Barua](https://open.spotify.com/artist/2lrPj4KTQbDj36xEa74pvE) | [Tu Jo Mile](https://open.spotify.com/album/0wbT5KgEaL0rk9H7ERmyaN) | 3:40 | 2026-04-24 |  |
+| [Tu Jo Mile](https://open.spotify.com/track/7BtqmdC0eLzFheoUM2Mumm) | [Aditya Barua](https://open.spotify.com/artist/2lrPj4KTQbDj36xEa74pvE) | [Tu Jo Mile](https://open.spotify.com/album/0wbT5KgEaL0rk9H7ERmyaN) | 3:40 | 2026-04-24 | 2026-05-01 |
 | [Tu Jo Nahi Hai Yaha](https://open.spotify.com/track/79ImlhdjzPSbXdESIw138Z) | [Deepak Rathore Project](https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI) | [Tu Jo Nahi Hai Yaha](https://open.spotify.com/album/7pH6621CQVeD3vEpgtSF98) | 4:55 | 2023-04-14 | 2023-05-27 |
 | [Tu Kahaan 2.0](https://open.spotify.com/track/5lSNtOGrrLVUoeP7W67k8B) | [theajsound](https://open.spotify.com/artist/1q1ZpVz6cDExJVwYt2h3up), [Devil The Rhymer](https://open.spotify.com/artist/6jY7AmndF3ERV9UZNjjuoW), [Amit Kori](https://open.spotify.com/artist/3bHYsujLszCnB11e5c4Xe0) | [Tu Kahaan 2.0](https://open.spotify.com/album/1xtSQQY0XAxymHPmrvaJC5) | 2:52 | 2024-08-09 | 2024-09-07 |
 | [Tu Kahaan Hai?](https://open.spotify.com/track/2UmL7Lg9B1vpDQoopwfYcD) | [Akanksha Sethi](https://open.spotify.com/artist/70gqhziA790XfoUL5FWD16) | [Tu Kahaan Hai?](https://open.spotify.com/album/7wnywQW8a2YFp2gpsaiC19) | 3:11 | 2023-07-14 | 2023-08-25 |

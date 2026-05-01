@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Deretan musik Indonesia terpopuler saat ini.  Cover: Keisya Levronka",
+  "description": "Deretan musik Indonesia terpopuler saat ini.  Cover: Lyodra",
   "name": "Puncak Klasemen",
   "tracks": [
     {
@@ -830,7 +830,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 182253,
       "name": "Artificial Grass",
       "url": "https://open.spotify.com/track/3J5r1YebSC4fW4R14Zgf72"
@@ -2490,7 +2490,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 197637,
       "name": "Close to You",
       "url": "https://open.spotify.com/track/2G5ItTp6kepUVeJrsmFSbQ"
@@ -4502,7 +4502,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 201636,
       "name": "Jantung Samudra (Haya - Nyi Roro Kidul Theme Song)",
       "url": "https://open.spotify.com/track/3eTukrKJBaJZMemLVRycwJ"
@@ -5201,6 +5201,24 @@
     },
     {
       "album": {
+        "name": "Kepala, Pundak, Kerja Lagi (From \"Monster Pabrik Rambut\")",
+        "url": "https://open.spotify.com/album/0YuW2eFbnY4nNeFkrbzvXK"
+      },
+      "artists": [
+        {
+          "name": "Sal Priadi",
+          "url": "https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250285,
+      "name": "Kepala, Pundak, Kerja Lagi - From \"Monster Pabrik Rambut\"",
+      "url": "https://open.spotify.com/track/5UUols1KA2YqKMtnaRYgJA"
+    },
+    {
+      "album": {
         "name": "Hanya Figuran",
         "url": "https://open.spotify.com/album/7lhbsQ75nktdtQNlwa06Gy"
       },
@@ -5238,6 +5256,24 @@
       "duration_ms": 228578,
       "name": "Ketika Tangan Dan Kaki Berkata",
       "url": "https://open.spotify.com/track/14UEeMIQWbef1gfEYwu7NL"
+    },
+    {
+      "album": {
+        "name": "Kilometer",
+        "url": "https://open.spotify.com/album/2gObiuYWoaXwagEiOrGR4b"
+      },
+      "artists": [
+        {
+          "name": "Yovie & Nuno",
+          "url": "https://open.spotify.com/artist/3DHOtJqv0Bw65ENlK4FiSF"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257027,
+      "name": "Kilometer",
+      "url": "https://open.spotify.com/track/6S3JMRXaZXFj28IiIrIQxb"
     },
     {
       "album": {
@@ -8239,6 +8275,24 @@
     },
     {
       "album": {
+        "name": "Pura Pura",
+        "url": "https://open.spotify.com/album/1eIPkvtg72lhSTAWFflIOP"
+      },
+      "artists": [
+        {
+          "name": "Lyodra",
+          "url": "https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278100,
+      "name": "Pura Pura",
+      "url": "https://open.spotify.com/track/1FqoFlbDbeaq6Sy3watDVR"
+    },
+    {
+      "album": {
         "name": "Berbunga",
         "url": "https://open.spotify.com/album/7GICddTJ6Lyrm8IPSGtyXg"
       },
@@ -8636,7 +8690,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 213857,
       "name": "Saat Kubenci Dunia dan Seisinya",
       "url": "https://open.spotify.com/track/2O4uOOFADgrvYi2CVZUdhE"
@@ -9787,6 +9841,50 @@
     },
     {
       "album": {
+        "name": "Senandung Harapan",
+        "url": "https://open.spotify.com/album/4O1fc9YrMJZ6IZZIUrkJjz"
+      },
+      "artists": [
+        {
+          "name": "Feby Putri",
+          "url": "https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW"
+        },
+        {
+          "name": "Noh Salleh",
+          "url": "https://open.spotify.com/artist/4fVYwG8RsbJsREFFniszhf"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274565,
+      "name": "Senandung Harapan",
+      "url": "https://open.spotify.com/track/6IEpHWrwg0afF4Z1xeLxj6"
+    },
+    {
+      "album": {
+        "name": "senang dengar suaramu lagi (Original Soundtrack Dilan ITB 1997)",
+        "url": "https://open.spotify.com/album/4MsJMhOJAJMWqa6z7RseUK"
+      },
+      "artists": [
+        {
+          "name": "Ariel NOAH",
+          "url": "https://open.spotify.com/artist/5YrZrapAjJbpikrp3JEmMF"
+        },
+        {
+          "name": "Raisa",
+          "url": "https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257627,
+      "name": "senang dengar suaramu lagi - Original Soundtrack Dilan ITB 1997",
+      "url": "https://open.spotify.com/track/6WtShjwKjMasfkb6SyjRY4"
+    },
+    {
+      "album": {
         "name": "Imajinasi",
         "url": "https://open.spotify.com/album/7LJlbBAK1N8HwXgqwkwc8P"
       },
@@ -10062,6 +10160,24 @@
       "duration_ms": 220243,
       "name": "Setia",
       "url": "https://open.spotify.com/track/7aqMkjcUMFvv5cQIqnevts"
+    },
+    {
+      "album": {
+        "name": "setidaknya aku telah mencoba",
+        "url": "https://open.spotify.com/album/6g4AW1lAuD1jyQi2xGixLn"
+      },
+      "artists": [
+        {
+          "name": "Alisha Dira",
+          "url": "https://open.spotify.com/artist/7HGA1yaatBdtc7N7S7gPFi"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174473,
+      "name": "setidaknya aku telah mencoba",
+      "url": "https://open.spotify.com/track/4NhhEuSZb5uAj5mgIA5WJN"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Survival takes everything\. Listen to the music from Beauty in Black, now streaming on Netflix.
 
-152 songs - 7 hr 4 min
+153 songs - 7 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Hella Bandz](https://open.spotify.com/track/5wczjID12AjJdvFCGfkQV3) | [Hunnit](https://open.spotify.com/artist/1cRYeRzp53EbYDxqbtgirQ), [Mucho](https://open.spotify.com/artist/3YfNMbc4wYmEWug01GZGET) | [Famous No Where](https://open.spotify.com/album/3tJudQKnMacPG0oDEiIQmN) | 3:23 | 2024-10-24 |  |
 | [Hook It Up](https://open.spotify.com/track/4mfLnatRIFnG6FwF2qx0dZ) | [Ediblehead](https://open.spotify.com/artist/0HBKiIrzWD0KL9soS6dZOJ) | [Hook It Up](https://open.spotify.com/album/2aeguMTdaeFMqMYfHwfREz) | 3:13 | 2023-06-23 | 2024-10-25 |
 | [I Against I](https://open.spotify.com/track/5sNRPeIYoLJU5OSb7lSXPj) | [Bad Brains](https://open.spotify.com/artist/1oVj9JmPUPg4SQ2uerV2xc) | [I Against I](https://open.spotify.com/album/6xw5oNhHoLltpXCFONNnqs) | 2:50 | 2025-09-11 |  |
+| [I Don't Give A Fuck \(SBR Fuck\)](https://open.spotify.com/track/3kSM7uzWAb3B2WSR2Fi0vb) | [Sebastian Robertson](https://open.spotify.com/artist/4UZtbKvU38q0kujsIRtrLE), [Jacob Paul Turner](https://open.spotify.com/artist/4YJVBe5ofkmDnQGU8nd1uQ), [Marc Pueschl](https://open.spotify.com/artist/50cy8yHKtbENdO5ifQ2vu3) | [I Don't Give A Fuck \(SBR Fuck\)](https://open.spotify.com/album/5WASjOQBCDTp9fupW3KC7Q) | 2:57 | 2026-04-30 |  |
 | [I Don't Like](https://open.spotify.com/track/1h6kgem1ai8vUgO1rZOwfB) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P), [Lil Reese](https://open.spotify.com/artist/1bPxKZtCdjB1aj1csBJpdS) | [Finally Rich](https://open.spotify.com/album/2B4y3j02ho6XNF8BEzx3JF) | 4:53 | 2024-10-24 |  |
 | [I Fell In Love](https://open.spotify.com/track/5zwN1Rz1o2v4CDJuBUqSN0) | [Rxalu Loaded](https://open.spotify.com/artist/5W8VGhJmmDLnWIebrZ1Z8f) | [VIP](https://open.spotify.com/album/5YEaAkdVsRBCHyEOkiKZ0B) | 1:53 | 2025-03-06 |  |
 | [I'm Done](https://open.spotify.com/track/5OROt6Kq0NgDBk5t3A9ecs) | [Alyssa Bonagura](https://open.spotify.com/artist/31P1IMaJH0mI1pvB9jATHB) | [Love Wins](https://open.spotify.com/album/1SNPtq3qgNVzaAAA7P8cYx) | 2:48 | 2024-10-24 |  |

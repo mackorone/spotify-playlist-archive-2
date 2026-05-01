@@ -4,7 +4,7 @@
 
 > The perfect frequency for sleep or study – science tested, listener approved.
 
-644 songs - 1 day 9 hr 9 min
+645 songs - 1 day 9 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,7 +195,7 @@
 | [Loopable Pink Noise](https://open.spotify.com/track/2WSu2JLU7KUvVwmLf2Ehne) | [Granular](https://open.spotify.com/artist/1jfnMuDBl5OaAoU0VwLD8m) | [Loopable Noises](https://open.spotify.com/album/6K2IREweOrFhxWtbg4vwDv) | 2:10 | 2021-12-01 | 2022-12-16 |
 | [Loopable Pink Noise Flowing Waters](https://open.spotify.com/track/28Wnwp5FDBU0vzlU2BbKR0) | [Pink Noise](https://open.spotify.com/artist/3SwqynF0kqvqwKJX9EXEQ3) | [Pink Noise for Sleeping](https://open.spotify.com/album/20VDYEeMS9iB9XQ4M5Wrno) | 3:36 | 2021-12-01 | 2023-03-18 |
 | [Lost in Pink](https://open.spotify.com/track/1S4JG0vYlL1STp26Kpz9VL) | [Pink Orbit](https://open.spotify.com/artist/1OcOohHo7T54wkzZhIs6KA) | [Pink Noise Moment](https://open.spotify.com/album/5oHMW5JreJe8wRvZxkuBcL) | 3:24 | 2023-03-16 | 2023-10-28 |
-| [Low Earth Orbit](https://open.spotify.com/track/1LQ2oQqg55nVzadJouLAzZ) | [Mind & Ears](https://open.spotify.com/artist/2qENnTxR7p4FZM4ImXiOLN) | [Discrete Pink Noise](https://open.spotify.com/album/5S55bRvqqur38ufd9SQo4l) | 2:42 | 2023-03-16 |  |
+| [Low Earth Orbit](https://open.spotify.com/track/1LQ2oQqg55nVzadJouLAzZ) | [Mind & Ears](https://open.spotify.com/artist/2qENnTxR7p4FZM4ImXiOLN) | [Discrete Pink Noise](https://open.spotify.com/album/5S55bRvqqur38ufd9SQo4l) | 2:42 | 2023-03-16 | 2026-05-01 |
 | [Low Pink Noise](https://open.spotify.com/track/4LFqQzq8xlTZyhpDnvp0dG) | [Noise Spa](https://open.spotify.com/artist/3vlsMGwlLAgObvlGREIauw) | [Pink Noise Spa](https://open.spotify.com/album/4aYIfqzmBtOlgbWru6L09R) | 2:58 | 2021-12-01 | 2022-03-09 |
 | [Low Turbulence Pink Noise](https://open.spotify.com/track/4fbznolxv9dbvfnDqUYY96) | [NREM](https://open.spotify.com/artist/1pNPv0QPiEM6e7ITG8JcUm) | [Pink Noise for Restful Sleep](https://open.spotify.com/album/2JQpTr1MbtBZOJAUfBA243) | 2:38 | 2023-03-16 | 2023-10-28 |
 | [Lucid Pink Noise](https://open.spotify.com/track/20tHBOsTrEEbqVX1UytpYq) | [Likko Sol](https://open.spotify.com/artist/2Or8PQp1nSscZ2gnIkx17E) | [Lucid Pink Noise](https://open.spotify.com/album/3OcXv4J1AFYPeP9SMxPOFq) | 4:39 | 2025-02-04 |  |
@@ -252,6 +252,7 @@
 | [Pink Atmosphere](https://open.spotify.com/track/1hWxKCrr7xGRcIKcgMiMCB) | [Casper White](https://open.spotify.com/artist/4weaxjLzThghACmvjNt9JT) | [Pink Atmosphere](https://open.spotify.com/album/5qgEcp6C7PPTayUCDjL6wb) | 3:16 | 2023-03-16 |  |
 | [Pink Atoms](https://open.spotify.com/track/5y5L0fBVfqi0PClERKJMep) | [Sleeping Voyage](https://open.spotify.com/artist/7v3zY7R3YebusTme8ScaaX) | [Pink Atoms](https://open.spotify.com/album/64KvfDrtdvtL7K6PLBoFap) | 3:05 | 2022-12-16 | 2023-03-18 |
 | [Pink Aura of Calm](https://open.spotify.com/track/3OzoK27KV6oj7SE7ABx8fo) | [Audioable Noise](https://open.spotify.com/artist/6GSMXtegoAGXg4CvixzInT) | [Pink Aura of Calm](https://open.spotify.com/album/44qAzPkIBxOIeCnZA0B2oP) | 2:47 | 2025-12-09 |  |
+| [Pink Baby Dreams](https://open.spotify.com/track/6B6XrEpZPGjNT8ZsS1IAcw) | [Inscription](https://open.spotify.com/artist/0MlpjV25yBPHGlsGnsWVYy) | [Rosefall Sleep](https://open.spotify.com/album/0g5I60bI4iTerrLwvtSxPt) | 2:20 | 2026-03-31 |  |
 | [Pink Background Noise](https://open.spotify.com/track/0Cyu5QUCoVNXMFjcjyRBru) | [Auplaudios](https://open.spotify.com/artist/60ij1zmMyrIFCA09Md4xk4) | [Pink Background Noise](https://open.spotify.com/album/4TK2CQSaJYfDwE9HfpAp2Y) | 3:11 | 2026-03-31 |  |
 | [Pink Background Noise](https://open.spotify.com/track/0jruFQoRdRsgc94PkIqtVb) | [Daily Calm](https://open.spotify.com/artist/1RFbFQgjNdi8M4qM5gzgfj) | [Soft Pink Noise](https://open.spotify.com/album/26s1Hy0MO8kUBINOfESt7z) | 3:42 | 2021-12-01 | 2022-06-28 |
 | [Pink Balance](https://open.spotify.com/track/131x8wpmyVT6u81i2nB1Wl) | [Sky Travis](https://open.spotify.com/artist/5IkHDfUNRiqyATjgbDHuGy) | [Pink Balance](https://open.spotify.com/album/74r8EpKq7FldV3tc0cF7fJ) | 2:42 | 2025-12-09 |  |

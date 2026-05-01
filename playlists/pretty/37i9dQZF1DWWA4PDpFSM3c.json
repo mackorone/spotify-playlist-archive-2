@@ -1,6 +1,6 @@
 {
   "description": "Mellow down the mood with these Telugu tracks\nCover: Dear Comrade",
-  "num_followers": 104002,
+  "num_followers": 104042,
   "original_name": "Mellow Telugu",
   "owner": {
     "name": "Spotify",
@@ -83,6 +83,22 @@
     {
       "added_at": "2022-09-02 08:32:31",
       "album": {
+        "name": "Priyuraalu Pilichindi",
+        "url": "https://open.spotify.com/album/06ZpiZ28CpnSRitF4srJFc"
+      },
+      "artists": [
+        {
+          "name": "Shankar Mahadevan",
+          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
+        }
+      ],
+      "duration_ms": 362240,
+      "name": "Yemi Cheyamanduve",
+      "url": "https://open.spotify.com/track/6GgP6NTpwRaokozTVyC6Be"
+    },
+    {
+      "added_at": "2022-09-02 08:32:31",
+      "album": {
         "name": "Orange",
         "url": "https://open.spotify.com/album/4lydrnVdmsWCMMfk0S8Khj"
       },
@@ -103,22 +119,6 @@
       "duration_ms": 287823,
       "name": "Nenu Nuvvantu",
       "url": "https://open.spotify.com/track/0X0Y2AnYuIdn9arB8P6EB4"
-    },
-    {
-      "added_at": "2022-09-02 08:32:31",
-      "album": {
-        "name": "Priyuraalu Pilichindi",
-        "url": "https://open.spotify.com/album/06ZpiZ28CpnSRitF4srJFc"
-      },
-      "artists": [
-        {
-          "name": "Shankar Mahadevan",
-          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
-        }
-      ],
-      "duration_ms": 362240,
-      "name": "Yemi Cheyamanduve",
-      "url": "https://open.spotify.com/track/6GgP6NTpwRaokozTVyC6Be"
     },
     {
       "added_at": "2024-02-12 05:31:53",
@@ -521,30 +521,6 @@
       "url": "https://open.spotify.com/track/2CMAiXfdBTGKNXHSmdhGUm"
     },
     {
-      "added_at": "2023-03-03 17:11:01",
-      "album": {
-        "name": "Phalana Abbayi Phalana Ammayi",
-        "url": "https://open.spotify.com/album/3Vqgue7sXnuzKCjVyAVuIS"
-      },
-      "artists": [
-        {
-          "name": "Kalyani Mallik",
-          "url": "https://open.spotify.com/artist/5w6bUd0SJtvdQ99pZm83PJ"
-        },
-        {
-          "name": "Aabhas Joshi",
-          "url": "https://open.spotify.com/artist/59MBrXiDnBe2UHqpqUzuaI"
-        },
-        {
-          "name": "Lipsika Bhashyam",
-          "url": "https://open.spotify.com/artist/21dhDPAGZuoa1M2S60hFK1"
-        }
-      ],
-      "duration_ms": 261012,
-      "name": "Kanula Chatu Meghama",
-      "url": "https://open.spotify.com/track/6aptM1jYkNgayyLtLmvl3t"
-    },
-    {
       "added_at": "2024-08-28 12:46:30",
       "album": {
         "name": "Saripodhaa Sanivaaram (Original Motion Picture Soundtrack)",
@@ -567,6 +543,30 @@
       "duration_ms": 261314,
       "name": "Laalijo Raagam",
       "url": "https://open.spotify.com/track/4IXvddnjRVwgZ62EnWR6dy"
+    },
+    {
+      "added_at": "2023-03-03 17:11:01",
+      "album": {
+        "name": "Phalana Abbayi Phalana Ammayi",
+        "url": "https://open.spotify.com/album/3Vqgue7sXnuzKCjVyAVuIS"
+      },
+      "artists": [
+        {
+          "name": "Kalyani Mallik",
+          "url": "https://open.spotify.com/artist/5w6bUd0SJtvdQ99pZm83PJ"
+        },
+        {
+          "name": "Aabhas Joshi",
+          "url": "https://open.spotify.com/artist/59MBrXiDnBe2UHqpqUzuaI"
+        },
+        {
+          "name": "Lipsika Bhashyam",
+          "url": "https://open.spotify.com/artist/21dhDPAGZuoa1M2S60hFK1"
+        }
+      ],
+      "duration_ms": 261012,
+      "name": "Kanula Chatu Meghama",
+      "url": "https://open.spotify.com/track/6aptM1jYkNgayyLtLmvl3t"
     },
     {
       "added_at": "2026-01-05 05:30:29",
@@ -911,18 +911,22 @@
     {
       "added_at": "2022-09-02 08:32:31",
       "album": {
-        "name": "Pokiri",
-        "url": "https://open.spotify.com/album/4CO4EDT6CLK1TC6n4yJNUX"
+        "name": "Panjaa",
+        "url": "https://open.spotify.com/album/1yc1PhFxmSKD1tZtCWQirO"
       },
       "artists": [
         {
-          "name": "Nihal",
-          "url": "https://open.spotify.com/artist/7DX2CLnA9ajgQuNf5jqEXl"
+          "name": "Haricharan",
+          "url": "https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4"
+        },
+        {
+          "name": "Swetha",
+          "url": "https://open.spotify.com/artist/4LxLLrO6bFofvfXOcujJRv"
         }
       ],
-      "duration_ms": 273769,
-      "name": "Gala Gala Paruthunna",
-      "url": "https://open.spotify.com/track/6E2MIXNryG2WcVb9sh1I8L"
+      "duration_ms": 305925,
+      "name": "Ela Ela Naalo",
+      "url": "https://open.spotify.com/track/5RJb4ZBgdJBOZe5Fx2aDWo"
     },
     {
       "added_at": "2022-09-02 08:32:31",
@@ -943,22 +947,18 @@
     {
       "added_at": "2022-09-02 08:32:31",
       "album": {
-        "name": "Panjaa",
-        "url": "https://open.spotify.com/album/1yc1PhFxmSKD1tZtCWQirO"
+        "name": "Pokiri",
+        "url": "https://open.spotify.com/album/4CO4EDT6CLK1TC6n4yJNUX"
       },
       "artists": [
         {
-          "name": "Haricharan",
-          "url": "https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4"
-        },
-        {
-          "name": "Swetha",
-          "url": "https://open.spotify.com/artist/4LxLLrO6bFofvfXOcujJRv"
+          "name": "Nihal",
+          "url": "https://open.spotify.com/artist/7DX2CLnA9ajgQuNf5jqEXl"
         }
       ],
-      "duration_ms": 305925,
-      "name": "Ela Ela Naalo",
-      "url": "https://open.spotify.com/track/5RJb4ZBgdJBOZe5Fx2aDWo"
+      "duration_ms": 273769,
+      "name": "Gala Gala Paruthunna",
+      "url": "https://open.spotify.com/track/6E2MIXNryG2WcVb9sh1I8L"
     },
     {
       "added_at": "2022-09-02 08:32:31",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-23",
-  "description": "Eletr\u00f4nico do momento para curtir onde estiver. Foto: KVSH",
+  "description": "Eletr\u00f4nico do momento para curtir onde estiver. Foto: ENNE",
   "name": "Dance Paradise",
   "tracks": [
     {
@@ -1818,7 +1818,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 162461,
       "name": "Bang Bang!",
       "url": "https://open.spotify.com/track/1CxB3pq41FeSTAIhctsRC8"
@@ -3326,7 +3326,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 157927,
       "name": "Climb",
       "url": "https://open.spotify.com/track/4lmXPPcu9I1XNkCLVKCxdl"
@@ -4671,6 +4671,24 @@
     },
     {
       "album": {
+        "name": "Don't Say A Word",
+        "url": "https://open.spotify.com/album/106Yq2gfqvdYYxkmHu1HVz"
+      },
+      "artists": [
+        {
+          "name": "Malik Mustache",
+          "url": "https://open.spotify.com/artist/5FcXaC6DLXy2s4HFGqERWU"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Don't Say A Word",
+      "url": "https://open.spotify.com/track/7AZpp4D0ml8j2BMMFXqMut"
+    },
+    {
+      "album": {
         "name": "Don't Step On My Nikes",
         "url": "https://open.spotify.com/album/3IOrmd5uhcEwnLyWXEmM1d"
       },
@@ -4690,6 +4708,24 @@
       "duration_ms": 156190,
       "name": "Don't Step On My Nikes",
       "url": "https://open.spotify.com/track/60rwDygmXmbkD5OVc508y9"
+    },
+    {
+      "album": {
+        "name": "Nexus 002",
+        "url": "https://open.spotify.com/album/7A48CH1fN5LVSAvh9yyVTV"
+      },
+      "artists": [
+        {
+          "name": "Knorst",
+          "url": "https://open.spotify.com/artist/72VmJeabwbXWiHrJzZ5Htg"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241874,
+      "name": "Don't Stop",
+      "url": "https://open.spotify.com/track/5pLFOpNdud49iK0GHLgFbE"
     },
     {
       "album": {
@@ -6197,6 +6233,24 @@
     },
     {
       "album": {
+        "name": "Fendi",
+        "url": "https://open.spotify.com/album/6NHSVc4YDpLr6Ixnw9cTXp"
+      },
+      "artists": [
+        {
+          "name": "ENNE (BR)",
+          "url": "https://open.spotify.com/artist/4uUgP4DI2XclDn1LD6K8hP"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155076,
+      "name": "Fendi",
+      "url": "https://open.spotify.com/track/1vZaCYgIlaIIA7z5wuaCVW"
+    },
+    {
+      "album": {
         "name": "Fever",
         "url": "https://open.spotify.com/album/3FC9JSCOZxpqxishliyxby"
       },
@@ -6932,7 +6986,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 120362,
       "name": "Gaita Killa",
       "url": "https://open.spotify.com/track/2fCBVU0AAba9GgJ2PhkneC"
@@ -7594,7 +7648,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 191363,
       "name": "Hear It",
       "url": "https://open.spotify.com/track/4wEcWmgrx7ANAS1TVmaXe5"
@@ -7888,6 +7942,28 @@
       "duration_ms": 156204,
       "name": "High",
       "url": "https://open.spotify.com/track/5MJeH5zHjqEKQKlb7akgUl"
+    },
+    {
+      "album": {
+        "name": "High Tension",
+        "url": "https://open.spotify.com/album/4nqUNGIC4NiH17Va2vzMww"
+      },
+      "artists": [
+        {
+          "name": "Daddy Squad",
+          "url": "https://open.spotify.com/artist/7ILhSMHJML8HVt4GBi6LGj"
+        },
+        {
+          "name": "Renato Cohen",
+          "url": "https://open.spotify.com/artist/7C26wQyStqkNFW94iutvVD"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232320,
+      "name": "High Tension - Radio Edit",
+      "url": "https://open.spotify.com/track/58UVhz5CkCWcrRMsO6On15"
     },
     {
       "album": {
@@ -9038,7 +9114,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 255426,
       "name": "In My Mind",
       "url": "https://open.spotify.com/track/1UcSwc91w0QBondREndseA"
@@ -10869,6 +10945,28 @@
     },
     {
       "album": {
+        "name": "Loop (Remix)",
+        "url": "https://open.spotify.com/album/487jDM20fk53MZTErvdiy2"
+      },
+      "artists": [
+        {
+          "name": "Jerri",
+          "url": "https://open.spotify.com/artist/5nkSIrT61FtbpWyM2fWdmK"
+        },
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121889,
+      "name": "Loop - Remix",
+      "url": "https://open.spotify.com/track/2NV7tRSYQVJXYtmVb6QEpi"
+    },
+    {
+      "album": {
         "name": "The Next Parade, Vol. 2 (Pt. II)",
         "url": "https://open.spotify.com/album/38UOhOvJC7EISQioDn7QUF"
       },
@@ -10946,7 +11044,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 148292,
       "name": "Lotus 72D",
       "url": "https://open.spotify.com/track/3yNzOggdlDyZeUhLJS52nE"
@@ -11838,7 +11936,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 180480,
       "name": "Million Pieces - Malive Remix",
       "url": "https://open.spotify.com/track/5dZQ9RGVDCKxl4FwzKWFqV"
@@ -13493,6 +13591,32 @@
     },
     {
       "album": {
+        "name": "Ordinary World",
+        "url": "https://open.spotify.com/album/2gJMbRQcxXWeMHI0GHQuLc"
+      },
+      "artists": [
+        {
+          "name": "Cat Dealers",
+          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
+        },
+        {
+          "name": "HRRTZ",
+          "url": "https://open.spotify.com/artist/6VpuPMBN4oVa62K1wS9bGS"
+        },
+        {
+          "name": "Jem Cooke",
+          "url": "https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143955,
+      "name": "Ordinary World",
+      "url": "https://open.spotify.com/track/4ouNbIoOwPSaMfjaJfNKlo"
+    },
+    {
+      "album": {
         "name": "Plants",
         "url": "https://open.spotify.com/album/3nXABuiKY57Jk2nJKFqYZs"
       },
@@ -13654,7 +13778,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 284271,
       "name": "Over You",
       "url": "https://open.spotify.com/track/6m43tLKocZydaFrfu1lGXt"
@@ -13698,6 +13822,28 @@
       "duration_ms": 185625,
       "name": "Oxygen",
       "url": "https://open.spotify.com/track/7yhncpKK3TG7aoYcyjKKAc"
+    },
+    {
+      "album": {
+        "name": "Pa Ca",
+        "url": "https://open.spotify.com/album/4EBRbhLcGhOjIMfeMv5UoP"
+      },
+      "artists": [
+        {
+          "name": "Massano",
+          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
+        },
+        {
+          "name": "Silver Panda",
+          "url": "https://open.spotify.com/artist/310IX3ZzFSl14ZvY2dM8Da"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185859,
+      "name": "Pa Ca",
+      "url": "https://open.spotify.com/track/5CWPDL3gvV8xq3VBwjNrTR"
     },
     {
       "album": {
@@ -14590,7 +14736,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 230322,
       "name": "Raiz Brasileira",
       "url": "https://open.spotify.com/track/1PE2n13pbdv5GiSRibgfj3"
@@ -15110,6 +15256,24 @@
       "duration_ms": 353497,
       "name": "Run",
       "url": "https://open.spotify.com/track/1CptCgwaWniIYlqeM6SXmS"
+    },
+    {
+      "album": {
+        "name": "Run It Back",
+        "url": "https://open.spotify.com/album/4j4Zh9283Vp7BWNbWhaMHe"
+      },
+      "artists": [
+        {
+          "name": "Alex Stein",
+          "url": "https://open.spotify.com/artist/0SCFEgshN89tlgOPM7lbSB"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306492,
+      "name": "Run It Back",
+      "url": "https://open.spotify.com/track/3LQyg19W4JLwPZVtAT1E0g"
     },
     {
       "album": {
@@ -16042,7 +16206,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 143076,
       "name": "Sky",
       "url": "https://open.spotify.com/track/0TWQXZbG9dPz7xklS3EQtU"
@@ -16152,6 +16316,24 @@
       "duration_ms": 162914,
       "name": "So Far So Good",
       "url": "https://open.spotify.com/track/24T4v5Rzgo6I7YSymSIU8n"
+    },
+    {
+      "album": {
+        "name": "Solution",
+        "url": "https://open.spotify.com/album/2i0FUUGIVB57bQHrLG0Tut"
+      },
+      "artists": [
+        {
+          "name": "Barja",
+          "url": "https://open.spotify.com/artist/5uBR08vndaYNR50ZqRWthK"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189937,
+      "name": "Solution",
+      "url": "https://open.spotify.com/track/2YgRCkLRsdW2HbWw8qjB9H"
     },
     {
       "album": {
@@ -17166,6 +17348,32 @@
       "duration_ms": 200875,
       "name": "Te Quiero (Jade)",
       "url": "https://open.spotify.com/track/6l5mFr90VRhjAWkfRZruZK"
+    },
+    {
+      "album": {
+        "name": "Tease Me (feat. Nanda Broilo)",
+        "url": "https://open.spotify.com/album/2GpOVWswtnsJUE5bFFXcUv"
+      },
+      "artists": [
+        {
+          "name": "Sudden Heat",
+          "url": "https://open.spotify.com/artist/2CU5PamZ3s3V8ReKjrbRX6"
+        },
+        {
+          "name": "Pitros",
+          "url": "https://open.spotify.com/artist/1qoyJsbPjo0dpWnfSlRGLv"
+        },
+        {
+          "name": "Nanda Broilo",
+          "url": "https://open.spotify.com/artist/7De9OOtxiR8VXrdqj8SzLO"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212519,
+      "name": "Tease Me (feat. Nanda Broilo)",
+      "url": "https://open.spotify.com/track/48b1rb8YfDjdK4KioCo17T"
     },
     {
       "album": {
@@ -18724,7 +18932,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 166040,
       "name": "Vacay",
       "url": "https://open.spotify.com/track/1FIqS1VnJBF34hoAnKthik"
@@ -19376,6 +19584,28 @@
       "duration_ms": 218666,
       "name": "where is your pride?",
       "url": "https://open.spotify.com/track/5H8f92czIxzvXko1n7toHZ"
+    },
+    {
+      "album": {
+        "name": "Where U Go",
+        "url": "https://open.spotify.com/album/0LREfFtoY3yU2o9GQG4zNa"
+      },
+      "artists": [
+        {
+          "name": "Solardo",
+          "url": "https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ"
+        },
+        {
+          "name": "Gabe",
+          "url": "https://open.spotify.com/artist/0WoUrE9CjbROyWCMMdGMqu"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171875,
+      "name": "Where U Go",
+      "url": "https://open.spotify.com/track/7yzFmC4PBfAu50HgJbRlLg"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Birthh ha un nuovo album e ha anche la cover di Indie Italia \ud83d\udc9a ",
+  "description": "Un Frah freschissimo come un'aranciata in cover di Indie Italia \ud83c\udf4a",
   "name": "Indie Italia",
   "tracks": [
     {
@@ -284,7 +284,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 156480,
       "name": "A prescindere (feat. Colapesce)",
       "url": "https://open.spotify.com/track/4AXxucEnPOqjgsS7E4PFet"
@@ -903,6 +903,24 @@
     },
     {
       "album": {
+        "name": "Baciamoci",
+        "url": "https://open.spotify.com/album/242Zc9kOOYBpCaaTiLOvJj"
+      },
+      "artists": [
+        {
+          "name": "Eugenio In Via Di Gioia",
+          "url": "https://open.spotify.com/artist/1UtaXKnNyKhj0efXu2rD5t"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167880,
+      "name": "Baciamoci",
+      "url": "https://open.spotify.com/track/3S8vs3CYZDKEsh1WyJgr3f"
+    },
+    {
+      "album": {
         "name": "BALLA COI LUPI NELLA STALLA",
         "url": "https://open.spotify.com/album/4mF8RZSmhTnNujFm3YUIVH"
       },
@@ -1320,7 +1338,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 206103,
       "name": "Caramelle",
       "url": "https://open.spotify.com/track/7iVLTlay5gkbKbEOSywfwq"
@@ -1819,6 +1837,24 @@
     },
     {
       "album": {
+        "name": "Contemplare il cielo attraverso le dita",
+        "url": "https://open.spotify.com/album/6FSLkEQ6U6sxCscSjkNJHv"
+      },
+      "artists": [
+        {
+          "name": "Dimartino",
+          "url": "https://open.spotify.com/artist/1k3zqz5SgrYCE0wpcfJX3g"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292403,
+      "name": "Contemplare il cielo attraverso le dita",
+      "url": "https://open.spotify.com/track/1IKtSTo35LKb15zAGupcUh"
+    },
+    {
+      "album": {
         "name": "Contento",
         "url": "https://open.spotify.com/album/1dCU5gFInlqqcNG0riDPIH"
       },
@@ -2256,7 +2292,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 181615,
       "name": "Dove andiamo a ballare questa sera?",
       "url": "https://open.spotify.com/track/2mvoDitYZLiL2XarlaMSru"
@@ -2444,7 +2480,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 138475,
       "name": "Estate 2007",
       "url": "https://open.spotify.com/track/2qUoYjZYq4jtq52bowjwP1"
@@ -3212,6 +3248,24 @@
       "duration_ms": 135021,
       "name": "goodbye",
       "url": "https://open.spotify.com/track/6XQlNJwGwDqVhTZh8ccP82"
+    },
+    {
+      "album": {
+        "name": "Governatevi",
+        "url": "https://open.spotify.com/album/5ECmOUNDwtam7iaL8XEnHm"
+      },
+      "artists": [
+        {
+          "name": "Lamante",
+          "url": "https://open.spotify.com/artist/2xeeRKVa5SjYer8xeOMHgd"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189266,
+      "name": "Governatevi",
+      "url": "https://open.spotify.com/track/5cwrx8xX4bJwWupueLlvRi"
     },
     {
       "album": {
@@ -5112,7 +5166,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 167835,
       "name": "Mamma Mezzanotte",
       "url": "https://open.spotify.com/track/4pDdlC0APzRn8C9mcEUJk4"
@@ -5883,6 +5937,24 @@
     },
     {
       "album": {
+        "name": "Non ci si ama solo in primavera",
+        "url": "https://open.spotify.com/album/4O4w4WbUZvNxPZ2ijhHCdw"
+      },
+      "artists": [
+        {
+          "name": "Santamarea",
+          "url": "https://open.spotify.com/artist/016AD2neE2X7e0ChuREr4o"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200066,
+      "name": "Non ci si ama solo in primavera",
+      "url": "https://open.spotify.com/track/6P0Bmiv2zEEroMtD3cBrAk"
+    },
+    {
+      "album": {
         "name": "M\u0100Y\u0100",
         "url": "https://open.spotify.com/album/5wByaEbAmxIlQCDdicFJry"
       },
@@ -6640,6 +6712,24 @@
       "duration_ms": 157624,
       "name": "Penso Penso Penso",
       "url": "https://open.spotify.com/track/0Yx37LRuzSAWq3pfkWAh68"
+    },
+    {
+      "album": {
+        "name": "People of the Moon",
+        "url": "https://open.spotify.com/album/7b2loBX3KU66zmHk4UI30K"
+      },
+      "artists": [
+        {
+          "name": "Nu Genea",
+          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190258,
+      "name": "People of the Moon",
+      "url": "https://open.spotify.com/track/0hnet7s0hzoSWozISu4TQ8"
     },
     {
       "album": {
@@ -7606,7 +7696,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 228658,
       "name": "Ritorneremo a guardare il Cielo",
       "url": "https://open.spotify.com/track/1fTVs2Yk7n2YfcdaGTMt5b"
@@ -7650,6 +7740,24 @@
       "duration_ms": 169518,
       "name": "Riunione di condominio (feat. Assurdit\u00e8)",
       "url": "https://open.spotify.com/track/5EnzQ4P5HeIyJDG0p9SHEV"
+    },
+    {
+      "album": {
+        "name": "Robina",
+        "url": "https://open.spotify.com/album/7iofPm3WPwtrbdiwr7mMl0"
+      },
+      "artists": [
+        {
+          "name": "Rare\u0219",
+          "url": "https://open.spotify.com/artist/1Bma7GS3Si9l7IZEc3S5L8"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208507,
+      "name": "Robina",
+      "url": "https://open.spotify.com/track/2xxrn3RNEILOq300esEVXE"
     },
     {
       "album": {
@@ -8016,7 +8124,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 167481,
       "name": "SENTIMENTALE (feat. Levante)",
       "url": "https://open.spotify.com/track/2HlhALqwfp1umQn56FEGZO"
@@ -8158,6 +8266,28 @@
       "duration_ms": 167727,
       "name": "Sex and cocaine",
       "url": "https://open.spotify.com/track/0m6coZlkyDP9Th9v4q2mnS"
+    },
+    {
+      "album": {
+        "name": "People of the Moon",
+        "url": "https://open.spotify.com/album/7b2loBX3KU66zmHk4UI30K"
+      },
+      "artists": [
+        {
+          "name": "Nu Genea",
+          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
+        },
+        {
+          "name": "Celinatique",
+          "url": "https://open.spotify.com/artist/1KcayMdMfOmdGF1Lq11F3T"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213674,
+      "name": "Shway shway",
+      "url": "https://open.spotify.com/track/13S2diRuXwgWCnJrPkot6D"
     },
     {
       "album": {

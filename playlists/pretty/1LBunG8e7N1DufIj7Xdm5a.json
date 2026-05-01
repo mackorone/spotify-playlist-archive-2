@@ -6,7 +6,7 @@
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAIdgunKQiSmyrLL9arM+lHEEJnAyni",
+  "snapshot_id": "AAAIes7n0up5MGZ8mRxmssKqt8QqKh5d",
   "tracks": [
     {
       "added_at": "2026-04-14 21:44:21",
@@ -71473,6 +71473,22 @@
       "url": "https://open.spotify.com/track/5JUw6DpaNvb1BRf0q6XHJ5"
     },
     {
+      "added_at": "2026-04-30 04:39:23",
+      "album": {
+        "name": "More",
+        "url": "https://open.spotify.com/album/11uNZPo0TkJPvTaxftwkaX"
+      },
+      "artists": [
+        {
+          "name": "Mirror Vain",
+          "url": "https://open.spotify.com/artist/5492DtDN9DpYNYTNeRh3g7"
+        }
+      ],
+      "duration_ms": 280372,
+      "name": "More",
+      "url": "https://open.spotify.com/track/1X12Gbvf0p2OanuEMdTtYs"
+    },
+    {
       "added_at": "2026-04-29 19:27:24",
       "album": {
         "name": "Unfolding Joy",
@@ -71759,6 +71775,170 @@
       "duration_ms": 314520,
       "name": "Thank You God for the Stars",
       "url": "https://open.spotify.com/track/3IONN7D7JMLQEEBoFyWdT9"
+    },
+    {
+      "added_at": "2026-04-30 12:40:57",
+      "album": {
+        "name": "Reverie",
+        "url": "https://open.spotify.com/album/4dgvgT6dq2hQy5vg3C9jhh"
+      },
+      "artists": [
+        {
+          "name": "Next Day Shakes",
+          "url": "https://open.spotify.com/artist/3Hui4dXaUeoSTeAOYMP8FH"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "Reverie",
+      "url": "https://open.spotify.com/track/6vGIi3Q9QbHzg06Euz8reI"
+    },
+    {
+      "added_at": "2026-04-30 14:13:07",
+      "album": {
+        "name": "Coffee in London",
+        "url": "https://open.spotify.com/album/2OaaFpOndRjfF4HELPL3OR"
+      },
+      "artists": [
+        {
+          "name": "Prova MI",
+          "url": "https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb"
+        }
+      ],
+      "duration_ms": 198919,
+      "name": "Coffee in London",
+      "url": "https://open.spotify.com/track/42HKbul3bRLL5O6SSGRS7f"
+    },
+    {
+      "added_at": "2026-04-30 14:13:07",
+      "album": {
+        "name": "FIRE ON THE BLACK FLAGS",
+        "url": "https://open.spotify.com/album/5VwdBeek9VvCzaW449fm1e"
+      },
+      "artists": [
+        {
+          "name": "Prova MI",
+          "url": "https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb"
+        }
+      ],
+      "duration_ms": 169239,
+      "name": "FIRE ON THE BLACK FLAGS",
+      "url": "https://open.spotify.com/track/6NHwoy2BjpvkYL9Z6PzVUO"
+    },
+    {
+      "added_at": "2026-04-30 14:13:07",
+      "album": {
+        "name": "Tuko Pamoja",
+        "url": "https://open.spotify.com/album/6HvrHdtTFSvPV1kEVs42rt"
+      },
+      "artists": [
+        {
+          "name": "Prova MI",
+          "url": "https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb"
+        }
+      ],
+      "duration_ms": 177079,
+      "name": "Tuko Pamoja",
+      "url": "https://open.spotify.com/track/6pW2PSRYIQRMzeQikBTGct"
+    },
+    {
+      "added_at": "2026-04-30 14:13:07",
+      "album": {
+        "name": "Quiet Saloon",
+        "url": "https://open.spotify.com/album/2meMt3MT71KqnIDpNLYLqB"
+      },
+      "artists": [
+        {
+          "name": "Prova MI",
+          "url": "https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb"
+        }
+      ],
+      "duration_ms": 186279,
+      "name": "Quiet Saloon",
+      "url": "https://open.spotify.com/track/2aKqg2MIauQD7F4xbq4RRU"
+    },
+    {
+      "added_at": "2026-04-30 14:13:07",
+      "album": {
+        "name": "Baila Sin Final",
+        "url": "https://open.spotify.com/album/5vwVcXxmIBVLtxnB1IENtm"
+      },
+      "artists": [
+        {
+          "name": "Prova MI",
+          "url": "https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb"
+        }
+      ],
+      "duration_ms": 187879,
+      "name": "Baila Sin Final",
+      "url": "https://open.spotify.com/track/2Iqu1rqtEvm7q7N6sFXRUl"
+    },
+    {
+      "added_at": "2026-04-30 14:13:07",
+      "album": {
+        "name": "Golden Summer Wave",
+        "url": "https://open.spotify.com/album/72swxV7f8P4hJNuCN1p9Ei"
+      },
+      "artists": [
+        {
+          "name": "Prova MI",
+          "url": "https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb"
+        }
+      ],
+      "duration_ms": 169090,
+      "name": "Golden Summer Wave",
+      "url": "https://open.spotify.com/track/70GJMcoOV4yA1uJ5AVqaAS"
+    },
+    {
+      "added_at": "2026-04-30 14:13:07",
+      "album": {
+        "name": "GO, ASPES, GO!",
+        "url": "https://open.spotify.com/album/5v5VtoURQd0LyfEumtJwW9"
+      },
+      "artists": [
+        {
+          "name": "Prova MI",
+          "url": "https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb"
+        },
+        {
+          "name": "001 BEST",
+          "url": "https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn"
+        }
+      ],
+      "duration_ms": 133652,
+      "name": "GO, ASPES, GO!",
+      "url": "https://open.spotify.com/track/1mpuTkfVafb22RRsbyVYqm"
+    },
+    {
+      "added_at": "2026-04-30 14:13:07",
+      "album": {
+        "name": "Coniglietto DJ",
+        "url": "https://open.spotify.com/album/7xaHYTCnmu5LVmUVFyb1LA"
+      },
+      "artists": [
+        {
+          "name": "Prova MI",
+          "url": "https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb"
+        }
+      ],
+      "duration_ms": 159959,
+      "name": "Coniglietto DJ",
+      "url": "https://open.spotify.com/track/4I89YYb7dlVegs6RhnLeN8"
+    },
+    {
+      "added_at": "2026-04-30 14:13:07",
+      "album": {
+        "name": "Coffee in Barcelona",
+        "url": "https://open.spotify.com/album/1ykrKt162d6k4QYCYEUO58"
+      },
+      "artists": [
+        {
+          "name": "Prova MI",
+          "url": "https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb"
+        }
+      ],
+      "duration_ms": 228818,
+      "name": "Coffee in Barcelona",
+      "url": "https://open.spotify.com/track/1p6AI4YeYuTnQdiGRj5G8i"
     }
   ],
   "unique_name": "playlist spotify free",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52vakQNmxYD.md) - [plain]
 
 > Más que una moda, es un estilo de vida que trasciende\. Chalino Sánchez en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 112 likes - 163 songs - 8 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 161 likes - 163 songs - 8 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

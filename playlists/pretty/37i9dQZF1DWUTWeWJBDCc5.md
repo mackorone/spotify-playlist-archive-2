@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTWeWJBDCc5.md) - [plain]
 
 > 스포티파이 뮤직 에디터가 선정한 4월의 노래를 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,651 likes - 20 songs - 1 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,685 likes - 20 songs - 1 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTWeWJBDCc5.md) - [plain]
 | 8 | [front door](https://open.spotify.com/track/6WU5lafC33nPm39Qc81zlG) | [Ahfoné](https://open.spotify.com/artist/70UKnyT4wleidb805YDB7I) | [front door](https://open.spotify.com/album/24hvWPoPthO7PnckhSkGBd) | 1:55 |
 | 9 | [Tell Me What You Feel](https://open.spotify.com/track/1qTAsvpmYPWfM7nWHJtLDR) | [Sweet The Kid](https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq) | [Tell Me What You Feel](https://open.spotify.com/album/3HGSpxZWkWakhOX80hvhgP) | 3:07 |
 | 10 | [Find You](https://open.spotify.com/track/7lhuwwTReovk2mqGUNvy2M) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Find You](https://open.spotify.com/album/2qa2XETaR8FBmu1I4tH1Tz) | 2:55 |
-| 11 | [Bricks n’ Mortar Shop \(SKRR GANG\)](https://open.spotify.com/track/0NVAUSpnzRO4exqx5iT0AQ) | [BILL STAX](https://open.spotify.com/artist/459tVR1zPUmVwOROer0adD) | [LIVE FAST DIE SKRT](https://open.spotify.com/album/1MjbVCreOaE7j2f9gQG1dR) | 3:12 |
+| 11 | [Bricks n’ Mortar Shop \(SKRR GANG\)](https://open.spotify.com/track/0NVAUSpnzRO4exqx5iT0AQ) | [BILL STAX](https://open.spotify.com/artist/459tVR1zPUmVwOROer0adD) | [LIVE FAST DIE SKRT](https://open.spotify.com/album/1MjbVCreOaE7j2f9gQG1dR) | 3:14 |
 | 12 | [Labyrinth](https://open.spotify.com/track/2aLPTpA9zaLbGyNQM7UqIS) | [LEXXE](https://open.spotify.com/artist/0lDo9zbShSX0EXnxLpUZIU), [VÉRITÉ](https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc) | [Labyrinth](https://open.spotify.com/album/366bXWPlIg9V58s5GWCA1I) | 3:06 |
 | 13 | [The Great Divide](https://open.spotify.com/track/4ck9vo0gEmjVHWUb5q2rYe) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide](https://open.spotify.com/album/2fnkyn9EybagIoFJ7a13oz) | 5:17 |
 | 14 | [Home](https://open.spotify.com/track/73ZXHRLk5zJEjyStIOex2F) | [Balming Tiger](https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1) | [Home](https://open.spotify.com/album/2h3Si1lhGsmDycd5uLRtpO) | 3:55 |

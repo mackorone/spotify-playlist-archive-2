@@ -719,6 +719,24 @@
     },
     {
       "album": {
+        "name": "228235",
+        "url": "https://open.spotify.com/album/1IqMW0lYOj3NP81W5Ud7kI"
+      },
+      "artists": [
+        {
+          "name": "Alawee",
+          "url": "https://open.spotify.com/artist/1eAyilKA1p82m0SkoEZ8dB"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91200,
+      "name": "228235",
+      "url": "https://open.spotify.com/track/7rZeRGajrgPebYleNpZEhx"
+    },
+    {
+      "album": {
         "name": "24",
         "url": "https://open.spotify.com/album/5EifQxLUTYEksUteR7M0eP"
       },
@@ -3022,7 +3040,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 161680,
       "name": "ANDETAG",
       "url": "https://open.spotify.com/track/0zwfrmzsrb9nVEFuY9c1Hm"
@@ -4454,7 +4472,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 130007,
       "name": "Bad gyals & Bacardi",
       "url": "https://open.spotify.com/track/76vihN1O8ukirH94sX0lwS"
@@ -5322,6 +5340,24 @@
       "duration_ms": 125000,
       "name": "BEH\u00d6VER",
       "url": "https://open.spotify.com/track/1fH26NQsyesnEXj8BQYAF3"
+    },
+    {
+      "album": {
+        "name": "Beh\u00f6ver Dig",
+        "url": "https://open.spotify.com/album/71pMawQ7PKGebMpeGvaTL9"
+      },
+      "artists": [
+        {
+          "name": "Modo Banja",
+          "url": "https://open.spotify.com/artist/0RNweHFk8drHYKryYRpeB3"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178181,
+      "name": "Beh\u00f6ver Dig",
+      "url": "https://open.spotify.com/track/0b1ZubalARW0ac4dOaUcDh"
     },
     {
       "album": {
@@ -7056,7 +7092,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 185806,
       "name": "Brenda",
       "url": "https://open.spotify.com/track/6aF8Lfvf3aCxGyd0DluedF"
@@ -11406,7 +11442,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 126036,
       "name": "Du gamla du fria",
       "url": "https://open.spotify.com/track/0KiSZiPmGVBsQU205wrAnx"
@@ -12092,6 +12128,28 @@
       "duration_ms": 145040,
       "name": "Eget Bruk",
       "url": "https://open.spotify.com/track/1kJ9nVh9LjPYiCvcBSsPyz"
+    },
+    {
+      "album": {
+        "name": "EKAR",
+        "url": "https://open.spotify.com/album/4cpxmiVC9TWagacmHZ4WNy"
+      },
+      "artists": [
+        {
+          "name": "D4vvyy",
+          "url": "https://open.spotify.com/artist/2egcnbvvs5tjqsR7yYsfYl"
+        },
+        {
+          "name": "Maxxk",
+          "url": "https://open.spotify.com/artist/1j2hRbCetYwiQg71grVtcY"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133823,
+      "name": "EKAR",
+      "url": "https://open.spotify.com/track/7pE0wKNa5dkCEchtEhS1kx"
     },
     {
       "album": {
@@ -16806,6 +16864,24 @@
       "duration_ms": 160000,
       "name": "G\u00c5 VIDARE",
       "url": "https://open.spotify.com/track/4gudgbLU3o1tP1wnrMjigX"
+    },
+    {
+      "album": {
+        "name": "G\u00c5TT ETT TAG",
+        "url": "https://open.spotify.com/album/2ESR6Pwh27FU4sbkB9J6WF"
+      },
+      "artists": [
+        {
+          "name": "4yye",
+          "url": "https://open.spotify.com/artist/5mJaAw5lTHiVY6mxfCtz2X"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155000,
+      "name": "G\u00c5TT ETT TAG",
+      "url": "https://open.spotify.com/track/1J6L81PyjNuJZb3nAxA1SP"
     },
     {
       "album": {
@@ -23199,6 +23275,24 @@
     },
     {
       "album": {
+        "name": "LAY LOW",
+        "url": "https://open.spotify.com/album/0tPFfu9RO8sGtOocSv1t4w"
+      },
+      "artists": [
+        {
+          "name": "DANO",
+          "url": "https://open.spotify.com/artist/1qid2RAqbRe7NvZ8tCxbOS"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152260,
+      "name": "LAY LOW",
+      "url": "https://open.spotify.com/track/3nNOCCziZVELhgrA7sPrYK"
+    },
+    {
+      "album": {
         "name": "Lay Low",
         "url": "https://open.spotify.com/album/2S58a2nf12RarEUAwM5gzg"
       },
@@ -23418,6 +23512,24 @@
       "duration_ms": 205267,
       "name": "Lenad",
       "url": "https://open.spotify.com/track/31T9RWkdgq9RGZgjC0JIpC"
+    },
+    {
+      "album": {
+        "name": "LENG",
+        "url": "https://open.spotify.com/album/1sk9ipHt7r2ngdhWJpq75L"
+      },
+      "artists": [
+        {
+          "name": "Blizzy",
+          "url": "https://open.spotify.com/artist/4tSx9oXscGCVaVXEhH86qp"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98709,
+      "name": "LENG",
+      "url": "https://open.spotify.com/track/1PDjaOh7v1owm1RFowPCBi"
     },
     {
       "album": {
@@ -27338,10 +27450,28 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 130000,
       "name": "Million",
       "url": "https://open.spotify.com/track/7FvPT4irZlarSiKJkdlsNa"
+    },
+    {
+      "album": {
+        "name": "Million dollar man",
+        "url": "https://open.spotify.com/album/3C2xeJQHzUBd8wgMBMgiGL"
+      },
+      "artists": [
+        {
+          "name": "Romeo",
+          "url": "https://open.spotify.com/artist/3TSLK8NFrFC8KqFwZlM58D"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138932,
+      "name": "Million dollar man",
+      "url": "https://open.spotify.com/track/2RQd5UI8j9NbOQWN2PVILN"
     },
     {
       "album": {
@@ -31897,6 +32027,28 @@
     },
     {
       "album": {
+        "name": "Pimp",
+        "url": "https://open.spotify.com/album/5i4TFRJvUvsXtg5dGdyKCX"
+      },
+      "artists": [
+        {
+          "name": "Shacki",
+          "url": "https://open.spotify.com/artist/2PuGN7y0Lvx9ItrBKyutPU"
+        },
+        {
+          "name": "01an",
+          "url": "https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110769,
+      "name": "Pimp",
+      "url": "https://open.spotify.com/track/660TO98oRtW8Sky6qNDzL7"
+    },
+    {
+      "album": {
         "name": "PIMPIN",
         "url": "https://open.spotify.com/album/4m5WQV2hDW3cwxAwF52DkB"
       },
@@ -32672,7 +32824,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 154566,
       "name": "Priceless",
       "url": "https://open.spotify.com/track/6d1w0l1afodsaHwivuN9RV"
@@ -39381,6 +39533,24 @@
     },
     {
       "album": {
+        "name": "TARGET",
+        "url": "https://open.spotify.com/album/1ID3kRzdIajGfhU9oRl9Mn"
+      },
+      "artists": [
+        {
+          "name": "Mukki",
+          "url": "https://open.spotify.com/artist/3ajzLIlWCy0ypXarTE871Y"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110400,
+      "name": "TARGET",
+      "url": "https://open.spotify.com/track/4esPvN9uT4Bc2cFo1IK5Pd"
+    },
+    {
+      "album": {
         "name": "TBX",
         "url": "https://open.spotify.com/album/5He2p8riLLP9baO38RqzFB"
       },
@@ -41423,6 +41593,24 @@
     },
     {
       "album": {
+        "name": "TURN UP",
+        "url": "https://open.spotify.com/album/4RPW1CE45TU7ny9IakZsHv"
+      },
+      "artists": [
+        {
+          "name": "LILG",
+          "url": "https://open.spotify.com/artist/2IA4tK3AxwQLnyNz8JIg3N"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134857,
+      "name": "TURN UP",
+      "url": "https://open.spotify.com/track/7JBnEgpE1dAjxDOwtqINQT"
+    },
+    {
+      "album": {
         "name": "Tusen Och En Natt",
         "url": "https://open.spotify.com/album/6kpjKN7wkZG8yC0NU34992"
       },
@@ -42436,7 +42624,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 158390,
       "name": "Varf\u00f6r (feat. Simon Superti)",
       "url": "https://open.spotify.com/track/2v4g9JjZV2RnvWzGsntRCa"
@@ -44606,7 +44794,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 182222,
       "name": "Ya Dellali",
       "url": "https://open.spotify.com/track/0YMYxlW6StWKmHw4LFimb6"

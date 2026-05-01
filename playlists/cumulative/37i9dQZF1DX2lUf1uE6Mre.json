@@ -661,6 +661,28 @@
     },
     {
       "album": {
+        "name": "art attack",
+        "url": "https://open.spotify.com/album/3XbLYuBgtW5613hoxoOPUi"
+      },
+      "artists": [
+        {
+          "name": "YUNG SAINT PAUL",
+          "url": "https://open.spotify.com/artist/7KPX8F8F0fLE0sYMTU4p9R"
+        },
+        {
+          "name": "ana\u00efs",
+          "url": "https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166896,
+      "name": "art attack",
+      "url": "https://open.spotify.com/track/5BlflGhvAxyr8dC8eoJ97Y"
+    },
+    {
+      "album": {
         "name": "Auf dem Weg",
         "url": "https://open.spotify.com/album/5R4ufua6p5QmVsjiXXqCmU"
       },
@@ -2610,10 +2632,32 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 113140,
       "name": "DNA",
       "url": "https://open.spotify.com/track/4TAHfvAYHPaM4Sq0ms7A67"
+    },
+    {
+      "album": {
+        "name": "S\u00dcDDEUTSCHER TRAUM",
+        "url": "https://open.spotify.com/album/63MTsQycsoZruPgxHV5fb8"
+      },
+      "artists": [
+        {
+          "name": "FOURTY",
+          "url": "https://open.spotify.com/artist/1SnSPHBs8l5iAvoWF0aO05"
+        },
+        {
+          "name": "Jamule",
+          "url": "https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160527,
+      "name": "DO NOT DISTURB",
+      "url": "https://open.spotify.com/track/2DwcDfz4qgWrj4DhTtSKfb"
     },
     {
       "album": {
@@ -2755,6 +2799,32 @@
     },
     {
       "album": {
+        "name": "DRINNE",
+        "url": "https://open.spotify.com/album/3qMw3v7ShGsbIuszgZKExI"
+      },
+      "artists": [
+        {
+          "name": "Summer Cem",
+          "url": "https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg"
+        },
+        {
+          "name": "CANEY030",
+          "url": "https://open.spotify.com/artist/0ZqNAlpzFTJI4tyK4UwJE2"
+        },
+        {
+          "name": "JURI",
+          "url": "https://open.spotify.com/artist/6SGVQ8bD0Hab6BItkqWVuJ"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "DRINNE",
+      "url": "https://open.spotify.com/track/1QZ1Rm9H5ytBhukQbZpaXx"
+    },
+    {
+      "album": {
         "name": "drop body",
         "url": "https://open.spotify.com/album/699ao1hhKCVsnfnzlJKUmV"
       },
@@ -2770,7 +2840,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-12",
+      "date_removed": null,
       "duration_ms": 140138,
       "name": "drop body",
       "url": "https://open.spotify.com/track/3rVlMJrODgRKxoELRjgh4i"
@@ -3838,6 +3908,24 @@
       "duration_ms": 124093,
       "name": "Heartbreaks",
       "url": "https://open.spotify.com/track/3NC8Zs1B4RZijkvFzXEMAa"
+    },
+    {
+      "album": {
+        "name": "HEARTBROKE EYES",
+        "url": "https://open.spotify.com/album/6YnNHta9DutIqDRiaixSlc"
+      },
+      "artists": [
+        {
+          "name": "benno!",
+          "url": "https://open.spotify.com/artist/1EZIni3W4CmC2bTy75Q053"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144994,
+      "name": "HEARTBROKE EYES",
+      "url": "https://open.spotify.com/track/1hZc3X0BG1U4sKONViTxbr"
     },
     {
       "album": {
@@ -4916,7 +5004,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 123350,
       "name": "Lets Go",
       "url": "https://open.spotify.com/track/4MSTLAs5wtW6tNeKRZEJEY"
@@ -6300,7 +6388,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 168000,
       "name": "NRW",
       "url": "https://open.spotify.com/track/76G6Yr7tJmilbVaicG7kdP"
@@ -8094,7 +8182,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 136097,
       "name": "St\u00fcck im Puzzle",
       "url": "https://open.spotify.com/track/53QvLhkDWBHifD6fx3sZ0p"
@@ -8566,7 +8654,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 172500,
       "name": "Tr\u00e4nen",
       "url": "https://open.spotify.com/track/3SuV6AsyVr9FMWvJh4npGc"

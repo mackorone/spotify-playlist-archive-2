@@ -4,7 +4,7 @@
 
 > J\-Hip Hopの最新注目曲をまとめてチェック cover: Mall Boyz \*水曜更新。マイライブラリに保存して毎週チェックしよう
 
-2,482 songs - 5 day 4 hr 45 min
+2,484 songs - 5 day 4 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -954,6 +954,7 @@
 | [Island Flow](https://open.spotify.com/track/0xVdwG46vYzsq9EfaFsaXo) | [Deech](https://open.spotify.com/artist/1eQUclEDhda3ZCUzi8NQME), [Lil’Yukichi](https://open.spotify.com/artist/2ZTljlYtLNOOPlNzBptZmA), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9) | [Island Flow](https://open.spotify.com/album/3Qm9xaluHqqqmUvKXoNLiS) | 2:15 | 2024-08-28 | 2024-10-05 |
 | [ISM](https://open.spotify.com/track/0252QtynkU5VsnIoQKToOm) | [MÖSHI](https://open.spotify.com/artist/5eRdc4bAdvKiEs0lUT6UDi) | [ISM](https://open.spotify.com/album/4IdKDqJI4O4PXUiQNnClDi) | 3:46 | 2024-07-02 | 2024-07-10 |
 | [ISOGE \(feat\. YTG\)](https://open.spotify.com/track/2q61Ieldz5a0AMy8LfH7H9) | [Lunv Loyal](https://open.spotify.com/artist/7lud8HFr0WHko0Kg99Dj4M), [YTG](https://open.spotify.com/artist/3XYA9DdaDMDHEnB9XC4G4c) | [ISOGE \(feat\. YTG\)](https://open.spotify.com/album/157209PXE7CVKplgvus5ML) | 2:54 | 2026-04-14 | 2026-04-29 |
+| [ISOGE \(feat\. YTG\)](https://open.spotify.com/track/3iZwn7D6ugrZdysRd8bs06) | [Lunv Loyal](https://open.spotify.com/artist/7lud8HFr0WHko0Kg99Dj4M), [YTG](https://open.spotify.com/artist/3XYA9DdaDMDHEnB9XC4G4c) | [ISOGE \(feat\. YTG\)](https://open.spotify.com/album/4v6zkv3sI3l69w0OX131Fp) | 2:54 | 2026-04-30 |  |
 | [ISSUE](https://open.spotify.com/track/1OYV8eN3279Ou7FKTzLu0d) | [Taeyoung Boy](https://open.spotify.com/artist/6U9PA9nXDmzmlpSwR9KJ2n), [LYNN](https://open.spotify.com/artist/1JFuaT59kkQV8nNgsESbnA) | [ISSUE](https://open.spotify.com/album/4yVbYSuN3Rj8EHaTHrBckz) | 2:26 | 2024-08-21 | 2024-09-13 |
 | [It's Not A Bad Thing](https://open.spotify.com/track/1lYvnAXJ1lmnAHtFmyqzqa) | [B.I.G\. JOE](https://open.spotify.com/artist/6MmLC4AtBTepgbIEv9n0GH), [BES](https://open.spotify.com/artist/0eclqlcc0hJCIAeWj3nF1H) | [It's Not A Bad Thing](https://open.spotify.com/album/1Sm3MZeDvUc9BN7VNGn2Y5) | 3:16 | 2024-04-02 | 2024-04-17 |
 | [It's Not A Bad Thing](https://open.spotify.com/track/3usca0GHBr9VnlSF07Fzns) | [B.I.G\. JOE](https://open.spotify.com/artist/6MmLC4AtBTepgbIEv9n0GH), [BES](https://open.spotify.com/artist/0eclqlcc0hJCIAeWj3nF1H) | [It's Not A Bad Thing](https://open.spotify.com/album/1VvOUjap2TpjvFbRmpxNSX) | 3:16 | 2024-04-02 | 2024-04-04 |
@@ -1822,6 +1823,7 @@
 | [SPEEDY](https://open.spotify.com/track/76sz3jWPLEtOJaYPnfprAI) | [JNKMN](https://open.spotify.com/artist/3TAMa7XcdlVoUTc1giFv1L), [KVGGLV](https://open.spotify.com/artist/5OHEsmlG3h8uYCTi08UktJ) | [SPEEDY](https://open.spotify.com/album/1jZovh1yZtX2vN7fa7D50H) | 3:05 | 2025-10-14 | 2025-11-12 |
 | [Spent Time \(feat\. C.O.S.A\. & Campanella\)](https://open.spotify.com/track/2sfTF1IaeVnV2RpSbOf3WJ) | [DJ SCRATCH NICE](https://open.spotify.com/artist/0MfeTyPtbuue9oZFIMD2wY), [C.O.S.A.](https://open.spotify.com/artist/7kj57NIwoqvnBTSpSgrO3p), [Campanella](https://open.spotify.com/artist/1HCVppGB3oVA6Kt7pRVifZ) | [Let This Be The Healing](https://open.spotify.com/album/4kqxbNFQmIg1vncMonx8aS) | 3:17 | 2025-08-19 | 2025-11-05 |
 | [SPIDA](https://open.spotify.com/track/6jSADyfOL1xY1FXMm9TYDI) | [FNCY](https://open.spotify.com/artist/1ii9VZ3CKfTvlEZSoCFVvL) | [SPIDA](https://open.spotify.com/album/3yTd5jxDqTdNcqujjZEdcy) | 2:33 | 2023-09-21 | 2023-09-27 |
+| [Spit a Ballad \(feat\. ZEUS & $MOKE OG\)](https://open.spotify.com/track/52mMEEz1Hkwle4efQhMvZF) | [DJ TATSUKI](https://open.spotify.com/artist/22CyfYzF7NMyITy8gKIYT5), [ZEUS](https://open.spotify.com/artist/2RF6z5Ld3jaHNy6TJFiBJY), [$MOKE OG](https://open.spotify.com/artist/4mdCLBVUWqX7l01s8Olnjx) | [Spit a Ballad \(feat\. ZEUS & $MOKE OG\)](https://open.spotify.com/album/78BIzp3uimiGdKqJwR0z6s) | 3:16 | 2026-04-30 |  |
 | [Spit!](https://open.spotify.com/track/5x3wle4zQdhiSBu937UflS) | [Only U](https://open.spotify.com/artist/7p5yGL3yNq2pqUUKvt2vnt) | [The Only Way](https://open.spotify.com/album/2l09JWRW4xPi3J9kFHiSqp) | 2:49 | 2025-01-16 | 2025-01-22 |
 | [SpO2](https://open.spotify.com/track/2hOVMtUKCkMMZrlJimwhyH) | [Loota](https://open.spotify.com/artist/2i98we4ZId0tp9xtg2Vte7) | [SpO2](https://open.spotify.com/album/1KdDryYAPlTSz6lfwfmMIY) | 2:23 | 2026-04-21 | 2026-04-29 |
 | [Spotlight](https://open.spotify.com/track/1apk1NLMkVRJhTdUk1dV11) | [IO](https://open.spotify.com/artist/7wJbfRQ42OuzAQfXMVidTd) | [Spotlight](https://open.spotify.com/album/7nGI2OQ5jZosc6Ezew6Lye) | 2:58 | 2025-07-03 | 2025-09-12 |

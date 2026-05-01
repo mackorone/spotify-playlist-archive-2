@@ -360,7 +360,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 179284,
       "name": "444",
       "url": "https://open.spotify.com/track/7ry3vlrSmJrd4ezpmRSOFK"
@@ -1510,6 +1510,24 @@
       "duration_ms": 161150,
       "name": "Autiotalo",
       "url": "https://open.spotify.com/track/5dXWjpD4NPjB8csvnshuWu"
+    },
+    {
+      "album": {
+        "name": "Autobahn",
+        "url": "https://open.spotify.com/album/38UgXLcxp7CY01IEcyZdzf"
+      },
+      "artists": [
+        {
+          "name": "Kube",
+          "url": "https://open.spotify.com/artist/56fNXc6wRoO6rkxs0mNtL4"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178181,
+      "name": "Autobahn",
+      "url": "https://open.spotify.com/track/4LVEvAnfjYuXn1RooKi5Mn"
     },
     {
       "album": {
@@ -10519,6 +10537,28 @@
     },
     {
       "album": {
+        "name": "Like me",
+        "url": "https://open.spotify.com/album/6HMh7915qXzJjRK4grn0tI"
+      },
+      "artists": [
+        {
+          "name": "Bkay",
+          "url": "https://open.spotify.com/artist/03lH5XFElJAMvRzdsEgYwl"
+        },
+        {
+          "name": "Dw",
+          "url": "https://open.spotify.com/artist/15Z5mFdFBkUbtTZhI0DDVP"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152339,
+      "name": "Like me",
+      "url": "https://open.spotify.com/track/4RpA0lgGJh73ATR5WmmufM"
+    },
+    {
+      "album": {
         "name": "LIKSA",
         "url": "https://open.spotify.com/album/16wiTOUI4vJGcNFv2b2fes"
       },
@@ -11321,6 +11361,24 @@
     },
     {
       "album": {
+        "name": "MALIBU",
+        "url": "https://open.spotify.com/album/4kxfsGfEsTFutA8S78riAr"
+      },
+      "artists": [
+        {
+          "name": "Bojos",
+          "url": "https://open.spotify.com/artist/3HRZJD5TbCbhSPRVlhvFtM"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167415,
+      "name": "MALIBU",
+      "url": "https://open.spotify.com/track/2R28PFx1v4P3V2LBjRzzR3"
+    },
+    {
+      "album": {
         "name": "Malm\u00d6",
         "url": "https://open.spotify.com/album/5kbvYqnYAVx7Vd5TKBVGfv"
       },
@@ -12114,7 +12172,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 136082,
       "name": "MILF",
       "url": "https://open.spotify.com/track/6Y6Vw1Eo42FraZVuQoYwXT"
@@ -14524,7 +14582,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-27",
+      "date_removed": null,
       "duration_ms": 201187,
       "name": "OMG (feat. Evelina)",
       "url": "https://open.spotify.com/track/3Rvtvz0JuyKXEZ9A1ZTmbe"
@@ -16444,7 +16502,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 193689,
       "name": "P\u00e4\u00e4t\u00e4 P\u00e4\u00e4t\u00e4 P\u00e4\u00e4t\u00e4",
       "url": "https://open.spotify.com/track/2svYJOAWAVkCTd9oLu2iOE"
@@ -20976,7 +21034,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 142301,
       "name": "Turvasatama",
       "url": "https://open.spotify.com/track/3a44ANm1GszUeUDe3sDa7k"

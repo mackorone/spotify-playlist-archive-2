@@ -3093,6 +3093,24 @@
     },
     {
       "album": {
+        "name": "Eleazar",
+        "url": "https://open.spotify.com/album/1l9hBbuzaq8Dvu9IFKF8DX"
+      },
+      "artists": [
+        {
+          "name": "Ellie Scotte",
+          "url": "https://open.spotify.com/artist/1f3shz4SYjpfZL1dCdinjM"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212004,
+      "name": "Eleazar",
+      "url": "https://open.spotify.com/track/2Z1jbRoCdiCAOjH1hRFxsG"
+    },
+    {
+      "album": {
         "name": "Elijah Level (with Limoblaze)",
         "url": "https://open.spotify.com/album/6FT3RodFpDNE4R4cAhb5O9"
       },

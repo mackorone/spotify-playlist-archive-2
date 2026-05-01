@@ -211,6 +211,24 @@
     },
     {
       "album": {
+        "name": "DIRT ON MY HANDS",
+        "url": "https://open.spotify.com/album/46TbLLLUlWHrDCRlchF4ed"
+      },
+      "artists": [
+        {
+          "name": "Lilyisthatyou",
+          "url": "https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166285,
+      "name": "BRINGING TO THE TABLE",
+      "url": "https://open.spotify.com/track/2bBcpzGbc9Xe0oumISMarC"
+    },
+    {
+      "album": {
         "name": "Broken Healing",
         "url": "https://open.spotify.com/album/7v4EOQybwO4NYQCWNzVoyD"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 
 > تدوّر أجدد الأغاني الخليجية؟ وصلت خير
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,967 likes - 41 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,974 likes - 41 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 | 8 | [مها](https://open.spotify.com/track/5ELTuKnrGFyGdKdb5NLAF3) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj) | [مها](https://open.spotify.com/album/0Hirr68mkiPcztk86P5g5E) | 4:47 |
 | 9 | [سبع سعادات](https://open.spotify.com/track/56SrW6um9oCiv1VGbLeWS0) | [Rahma Riad](https://open.spotify.com/artist/1JrJQz0AlGYbLxBnOEWfLx) | [Sabeh Saadat](https://open.spotify.com/album/2dzJleLreTP2QDxVp9otvJ) | 3:28 |
 | 10 | [Sayedati Al Arab](https://open.spotify.com/track/7aEEyWk4tPuz78mC6Dx27v) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Sayedati Al Arab](https://open.spotify.com/album/6KojUAPJYWbkto1qSbnGfi) | 5:21 |
-| 11 | [عيون طبعه](https://open.spotify.com/track/5Pwo31TU96rueCTItC9f7v) | [Bandar Abdulaziz](https://open.spotify.com/artist/4QnEgid1Wuxlr1vHgyzUXw) | [عيون طبعه](https://open.spotify.com/album/5A5WIQitjOs9zw0OT9N7N7) | 3:27 |
+| 11 | [عيون طبعه](https://open.spotify.com/track/5Pwo31TU96rueCTItC9f7v) | [Bndr Abdulaziz](https://open.spotify.com/artist/4QnEgid1Wuxlr1vHgyzUXw) | [عيون طبعه](https://open.spotify.com/album/5A5WIQitjOs9zw0OT9N7N7) | 3:27 |
 | 12 | [وين قلبك](https://open.spotify.com/track/51w7NPC0rZaHixDItoaoGV) | [Mahmoud Al Turky](https://open.spotify.com/artist/1GVRoyErxhZGdvmOKGO7W7) | [وين قلبك](https://open.spotify.com/album/7paYp6SNBHD5klEnUVjx0H) | 3:23 |
 | 13 | [Ya Mobdaa](https://open.spotify.com/track/0f58OrUbfGpiF4q7lPMIuZ) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [Fouad 26](https://open.spotify.com/album/77qvt0BWKIxomLI9SQGCkQ) | 3:43 |
 | 14 | [Tefargna](https://open.spotify.com/track/3Gur7pDzhyNS0TUhVMW7NJ) | [Abdulaziz Louis](https://open.spotify.com/artist/45fXWSpX6WGHhSQVbkktUk) | [Tefargna](https://open.spotify.com/album/1GTj4sjpcYCT1HotLQ1fOj) | 4:10 |

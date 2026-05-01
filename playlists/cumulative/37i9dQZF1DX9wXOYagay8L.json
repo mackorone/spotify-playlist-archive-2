@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Proudly Southern African Afropop gems. Cover: Makhadzi",
+  "description": "Proudly Southern African Afropop gems. Cover: Big Zulu",
   "name": "Made In South Africa",
   "tracks": [
     {
@@ -13608,6 +13608,24 @@
       "duration_ms": 240000,
       "name": "Tholakuwe (feat. Young Stunna)",
       "url": "https://open.spotify.com/track/6Uf73Thps11shNFZs3yQa7"
+    },
+    {
+      "album": {
+        "name": "Umkhulu",
+        "url": "https://open.spotify.com/album/273v8UxutqNSUpK6FJU0K3"
+      },
+      "artists": [
+        {
+          "name": "Big Zulu",
+          "url": "https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 4",
+      "url": "https://open.spotify.com/track/3tn0HuHb3wTX0LCCgOFJZP"
     },
     {
       "album": {

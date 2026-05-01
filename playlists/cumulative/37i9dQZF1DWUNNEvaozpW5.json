@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "Lo mejor del rock de aqu\u00ed, como Bunbury.",
+  "description": "Lo mejor del rock de aqu\u00ed, como Ultraligera.",
   "name": "Rock Espa\u00f1ol",
   "tracks": [
     {
@@ -5291,6 +5291,28 @@
     },
     {
       "album": {
+        "name": "Es Una Ansiedad Tan Cool",
+        "url": "https://open.spotify.com/album/0aGMizLbLZYjnypR5YhfW7"
+      },
+      "artists": [
+        {
+          "name": "Maximiliano Calvo",
+          "url": "https://open.spotify.com/artist/0KMw0OgYPWlF3hgQGY0VTT"
+        },
+        {
+          "name": "I\u00f1igo Bregel",
+          "url": "https://open.spotify.com/artist/0sKXxZqcwKE7rYj5o737RS"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217799,
+      "name": "Es Una Ansiedad Tan Cool",
+      "url": "https://open.spotify.com/track/1xK7iqWqzc6wLQOYzTJE1J"
+    },
+    {
+      "album": {
         "name": "Esa Sombra y Yo",
         "url": "https://open.spotify.com/album/2I5k0s9GlUAkZPwjI7FZmP"
       },
@@ -9820,7 +9842,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 251890,
       "name": "Nada",
       "url": "https://open.spotify.com/track/5tnIkOu6Fyh4dYFUMX5fJu"
@@ -10438,7 +10460,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 230360,
       "name": "Noche Oscura (feat. Leiva)",
       "url": "https://open.spotify.com/track/5YHKrFUEX8aQJRPCS1Yl9W"
@@ -10514,6 +10536,24 @@
       "duration_ms": 213640,
       "name": "Nuestra Canci\u00f3n",
       "url": "https://open.spotify.com/track/2zsxsNcbo5Sr2fuquzwQDz"
+    },
+    {
+      "album": {
+        "name": "Nuestra revoluci\u00f3n",
+        "url": "https://open.spotify.com/album/7pY8tV8FQYR1w8Jdjq3xrm"
+      },
+      "artists": [
+        {
+          "name": "Los Acebos",
+          "url": "https://open.spotify.com/artist/5XHVcSAgMdrDfxw4WwsZB0"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130379,
+      "name": "Nuestra revoluci\u00f3n",
+      "url": "https://open.spotify.com/track/4musnu8MjnIu3UZuNwPf6U"
     },
     {
       "album": {
@@ -11325,6 +11365,24 @@
     },
     {
       "album": {
+        "name": "Por todas partes te veo",
+        "url": "https://open.spotify.com/album/75dors8MO9NsfcPLPg8Z6z"
+      },
+      "artists": [
+        {
+          "name": "Seguridad Social",
+          "url": "https://open.spotify.com/artist/5UbMQUFrcJdDstPCza7y0B"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168275,
+      "name": "Por todas partes te veo",
+      "url": "https://open.spotify.com/track/2txI4OcaB4h1b7ze47kuM6"
+    },
+    {
+      "album": {
         "name": "Mira",
         "url": "https://open.spotify.com/album/7EpE7UsapcAWKmuzWVNa18"
       },
@@ -11770,7 +11828,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 171787,
       "name": "Quiero vivir m\u00e1s lento",
       "url": "https://open.spotify.com/track/6v2viWx5nVei98893lY7oV"
@@ -12692,7 +12750,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 166073,
       "name": "Sin decir adi\u00f3s (BSO Despu\u00e9s de Kim)",
       "url": "https://open.spotify.com/track/4f4EeMfjsckRzjiwmcxm6A"
@@ -13832,6 +13890,24 @@
       "duration_ms": 192573,
       "name": "Tu mejor versi\u00f3n",
       "url": "https://open.spotify.com/track/4jcJAVg8tLaAI6bGZkQHCW"
+    },
+    {
+      "album": {
+        "name": "TU PROBLEMA",
+        "url": "https://open.spotify.com/album/3fFQHVyV7xs6GiusyTRavq"
+      },
+      "artists": [
+        {
+          "name": "Ultraligera",
+          "url": "https://open.spotify.com/artist/5Vv5llyiK1nlME2UNDzPBB"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224611,
+      "name": "TU PROBLEMA",
+      "url": "https://open.spotify.com/track/6nvfYRoa8TFba7G4T8wRFg"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 
 > Hand\-picked releases from the new wave in soul\. Cover: K.ZIA
 
-[Spotify](https://open.spotify.com/user/spotify) - 494,536 likes - 75 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 494,530 likes - 75 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 | 74 | [Leo](https://open.spotify.com/track/7GKiE4vRTWSpLT7JeRBjbQ) | [Ria Moran](https://open.spotify.com/artist/7sqPt1JYIkHzs8xIizhyXn) | [Cubico](https://open.spotify.com/album/6Y9aBxO0bz1f5vthYXJOP5) | 3:34 |
 | 75 | [Everlasting](https://open.spotify.com/track/0LjUKLciUAPkmBFx5vB9dr) | [Illnoledge](https://open.spotify.com/artist/6fm0ZSzd0zHjXjjLuEDXX5) | [Everlasting](https://open.spotify.com/album/4SPRyirXToSTtvWkBJsqrh) | 4:17 |
 
-Snapshot ID: `AAAAAILH3vaNxDQI1ZSSNL+OK+VmxNoR`
+Snapshot ID: `AAAAAKzYPsenK//3fahs35gba+oDc3/s`

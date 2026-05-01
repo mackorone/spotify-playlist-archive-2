@@ -2,9 +2,9 @@
 
 ### [le miel](https://open.spotify.com/playlist/37i9dQZF1DWTQZRn97DpO8)
 
-> 🍯🍯🍯<br/>Photo : aupinard
+> 🍯🍯🍯<br/>Photo : Lolo Zouaï
 
-576 songs - 1 day 4 hr 31 min
+579 songs - 1 day 4 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,7 @@
 | [BPM](https://open.spotify.com/track/5BQfrjvjXmzF6uaun5LERE) | [Vin's](https://open.spotify.com/artist/3kBOfwS7wKdNH41Zy8eJjx) | [BPM](https://open.spotify.com/album/12HN2SQs7ZSzbPio2LFLpP) | 3:01 | 2025-06-19 | 2025-08-15 |
 | [Bunker](https://open.spotify.com/track/2qmSxS5IBfXlNw9vIwJXKB) | [AFFA](https://open.spotify.com/artist/0owJTnrvYgiIYSXsvnsSQv) | [Echo](https://open.spotify.com/album/0JO5P9WMpfsqgdxL1H068R) | 2:27 | 2024-05-02 | 2024-06-07 |
 | [Bécane](https://open.spotify.com/track/5Ed32bcBySpGCF7g6EG8eh) | [Yamê](https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl) | [Bécane](https://open.spotify.com/album/3al3eFT8EIR0KRdUemEic7) | 3:06 | 2023-09-28 | 2024-06-28 |
-| [C'est nous](https://open.spotify.com/track/7zrntDj5tanqHDx6esLwYN) | [Will River](https://open.spotify.com/artist/6wsjq9U1AMV0sreuXa1pA9) | [C'est nous](https://open.spotify.com/album/0WSlch6aG5w0ha2TLk7aZP) | 3:39 | 2026-02-26 |  |
+| [C'est nous](https://open.spotify.com/track/7zrntDj5tanqHDx6esLwYN) | [Will River](https://open.spotify.com/artist/6wsjq9U1AMV0sreuXa1pA9) | [C'est nous](https://open.spotify.com/album/0WSlch6aG5w0ha2TLk7aZP) | 3:39 | 2026-02-26 | 2026-05-01 |
 | [C'est Quoi L'Amour \(Bonus Track\)](https://open.spotify.com/track/4QtdyYeurYaa6cI2EgRAUh) | [PabloSantana](https://open.spotify.com/artist/0Dm69cwhC8KXo5950bqTth) | [C'est Quoi L'Amour](https://open.spotify.com/album/3Mw8mbS3mtLfmjBg0lGRPj) | 1:05 | 2023-12-28 | 2024-04-19 |
 | [c'estfini? \- version acoustique](https://open.spotify.com/track/0dGvGeZlb7bd4D7tQCQ0U0) | [Haz.r](https://open.spotify.com/artist/27v9yUSHN9y7rMbX92unra) | [c'estfini? \(version acoustique\)](https://open.spotify.com/album/2s4UAo3BDg53TA60lQpnIv) | 2:50 | 2026-04-02 |  |
 | [Can't Get Enough](https://open.spotify.com/track/6gVdjBI6b1HhS5attOduzo) | [ANJXLXE](https://open.spotify.com/artist/6zoqIceCJJl2677ANvkmyb) | [Can't Get Enough](https://open.spotify.com/album/6TOMex8N8up0tfWqanuoKF) | 3:00 | 2025-05-08 | 2025-05-30 |
@@ -136,6 +136,7 @@
 | [DIAMANTS](https://open.spotify.com/track/0LakUthkyk4vEB4IIxBX8n) | [Ayvee](https://open.spotify.com/artist/0abpwgWh43SsFPq3uVRAae) | [CHRYSALIDE \(Phase II\)](https://open.spotify.com/album/3vroDa8eEutlVsQz2aYgz5) | 2:28 | 2025-03-20 | 2025-05-09 |
 | [Dimanche Soir](https://open.spotify.com/track/1s8fQVWLb7q8o4bQrLNnUr) | [LYNN](https://open.spotify.com/artist/2iKQgImU0tNvy43Qs0lfyX) | [Dimanche Soir](https://open.spotify.com/album/4lSVxSUbj5WchWl67HBwqX) | 3:09 | 2023-10-26 | 2024-02-23 |
 | [Dis le moi](https://open.spotify.com/track/5Ccv0IrPdyWeLk0QGeNeP4) | [Sev7en](https://open.spotify.com/artist/0XpWrR4q18M7bWY8Qp4jv9) | [Dis le moi](https://open.spotify.com/album/1U2GLdtNAjCKHQYAVSYe9Q) | 2:29 | 2025-03-13 | 2025-05-02 |
+| [Dis moi](https://open.spotify.com/track/2xXiAFb7l5ixf4V0CJoOXi) | [Nani](https://open.spotify.com/artist/2CmX6l8HQbIlHCFiDUtE8r) | [Dis moi](https://open.spotify.com/album/5z26jrqZfA3niRiaGF4DRJ) | 3:19 | 2026-04-30 |  |
 | [Dis moi oui](https://open.spotify.com/track/6ePE8sZIEQCImJeqaXi7cu) | [Sev7en](https://open.spotify.com/artist/0XpWrR4q18M7bWY8Qp4jv9) | [Dis moi oui](https://open.spotify.com/album/0K1NBzsvKksCdlMgSmLaC8) | 2:56 | 2025-05-29 | 2025-06-20 |
 | [Dis moi tout](https://open.spotify.com/track/7JvZIDp6nagn3R9hRqpykV) | [Axel Osange](https://open.spotify.com/artist/6JoUf29upHdcTmXIJ8lGsq) | [Dis moi tout](https://open.spotify.com/album/0uEW2SXwvGGyl4WbI9qIle) | 3:02 | 2026-04-16 |  |
 | [Dis\-moi](https://open.spotify.com/track/7Cs1QQ1hDfx4mVGvTGqljz) | [Brooxy](https://open.spotify.com/artist/3Y9j4vjfKyjLdloNBW1S6S) | [Dis\-moi](https://open.spotify.com/album/70EqwTYCmrlRbo1oJzHMOD) | 2:36 | 2024-11-28 | 2025-01-24 |
@@ -193,7 +194,7 @@
 | [FLOU](https://open.spotify.com/track/01czP9FzVqljP6GfZFkahU) | [Jeanne Bringtown](https://open.spotify.com/artist/7kMNbUyE46piIp8bZUSDVo) | [FLOU](https://open.spotify.com/album/2QkXoGwgxzcWssBE0Udg96) | 3:20 | 2026-01-22 | 2026-02-20 |
 | [FOLIE](https://open.spotify.com/track/5cK2OUsnaThmFpUKfnyHEA) | [Lisandro Cuxi](https://open.spotify.com/artist/18B188KE3gPEhXfx15XnhY) | [CUXI BOY PART II \(Réédition\)](https://open.spotify.com/album/3giyRav3BLrfm9zZG8gYCr) | 3:06 | 2025-06-26 | 2025-11-14 |
 | [FOMO](https://open.spotify.com/track/7c5rStQVZfWDOQUOD7KfEo) | [Ruthee](https://open.spotify.com/artist/43Lkhar9oQ9sIpFXzwhe0T) | [TOUT BRÛLE SAUF MOI](https://open.spotify.com/album/2gvFuE72tJBglPdowmjeLW) | 2:00 | 2025-06-12 | 2026-01-02 |
-| [French Kiss](https://open.spotify.com/track/3WmtfrPOWswNzcC64L0xev) | [Jaïa Rose](https://open.spotify.com/artist/3uwTDwvi4L9Zo18M5oiZ3Y) | [French Kiss](https://open.spotify.com/album/75xgd8zrkLuQZxLESPHjkp) | 3:06 | 2026-03-05 |  |
+| [French Kiss](https://open.spotify.com/track/3WmtfrPOWswNzcC64L0xev) | [Jaïa Rose](https://open.spotify.com/artist/3uwTDwvi4L9Zo18M5oiZ3Y) | [French Kiss](https://open.spotify.com/album/75xgd8zrkLuQZxLESPHjkp) | 3:06 | 2026-03-05 | 2026-05-01 |
 | [Gasoline](https://open.spotify.com/track/3Tg8DA339z6VPiPQqSqdf3) | [Haïlé Dästa](https://open.spotify.com/artist/38WuES2LwGfbLssRdC8TPG) | [Gasoline](https://open.spotify.com/album/6K4NNbnn8CtEouxyNLaXQp) | 3:14 | 2025-08-28 | 2025-10-17 |
 | [Get 2 Me](https://open.spotify.com/track/4Yqd4YMmG39RTkkOlxhFIn) | [Anna Kova](https://open.spotify.com/artist/286w6qp0xgPtlyggwQk6DL) | [Get 2 Me](https://open.spotify.com/album/1QBhscc5o7NPJY6yf75rtO) | 2:07 | 2025-09-04 | 2025-10-03 |
 | [Get out](https://open.spotify.com/track/2TmZvS9mrPnIAcd5OsEHAx) | [Jäde](https://open.spotify.com/artist/52CEzAtIDEJInO8yL0blFB), [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8) | [Get out](https://open.spotify.com/album/66wO4PPB1dAupIjGHCI4X5) | 2:41 | 2024-03-14 | 2024-08-30 |
@@ -385,6 +386,7 @@
 | [Oh Pardon](https://open.spotify.com/track/2mPxtgvLD2lBvcmHpeybZC) | [Erianne](https://open.spotify.com/artist/5IDv5kxCyUJSvIfwFqP77l) | [Oh Pardon](https://open.spotify.com/album/1U4mr5OGIWZYb4n0xgM7Fq) | 2:49 | 2025-06-19 | 2025-08-29 |
 | [Ok Melly](https://open.spotify.com/track/5u9xBRFAPu8KLiDtbpKplx) | [Mee Shel](https://open.spotify.com/artist/0fYdXlJTAY0baUS0YoHfTH) | [Ok Melly](https://open.spotify.com/album/1XPakW9mlapn3RWPsLOzoX) | 3:08 | 2026-01-29 | 2026-04-03 |
 | [OK.](https://open.spotify.com/track/1vE9QlPY6du7P63UNVsge5) | [Hind](https://open.spotify.com/artist/7hn0avwajECN2szcpBTBQr) | [OK.](https://open.spotify.com/album/1CGNBNbj4RIfBW2Lbi7PHK) | 3:09 | 2024-06-13 | 2024-09-13 |
+| [okbb](https://open.spotify.com/track/2EYSZv5HvvAUKyFyXq5cke) | [Ellie Becker](https://open.spotify.com/artist/7sk2rTrxeJHTBisizDA42q) | [okbb](https://open.spotify.com/album/6FgIR6F8Msa5apBKYnZpZ5) | 3:02 | 2026-04-30 |  |
 | [On God](https://open.spotify.com/track/1bgmZ3ogwDrdyUA7zdsYj4) | [Lukazam](https://open.spotify.com/artist/24xRWHfDxExMzAYbu2OPyD) | [On God](https://open.spotify.com/album/3Noo1weiOv49QXhrf7fmmB) | 3:09 | 2025-05-15 | 2025-06-13 |
 | [On le fait](https://open.spotify.com/track/2nEbFAyhu18ZbQyJMVI7Me) | [IZAYA](https://open.spotify.com/artist/41KYjgHKxKMEj7EDe0rn8q) | [On le fait](https://open.spotify.com/album/2gFIY2M1Lz1kFpEUKrIbxP) | 2:08 | 2025-10-02 | 2025-11-21 |
 | [On my mind](https://open.spotify.com/track/1UHJDgI62fA0j9Hp2uwWHo) | [Douda](https://open.spotify.com/artist/6y1aLMxP9vgLQzPuNwiSam) | [On my mind](https://open.spotify.com/album/1VfKIc5955g0RGxJHpJhdu) | 3:13 | 2025-11-27 | 2026-01-30 |
@@ -512,6 +514,7 @@
 | [Star](https://open.spotify.com/track/6ktldhDXKHDYsdvqjytEbA) | [IZAYA](https://open.spotify.com/artist/41KYjgHKxKMEj7EDe0rn8q) | [Tout est beau](https://open.spotify.com/album/2GER74vQidISJ9Jf6DFhnr) | 2:16 | 2025-12-04 | 2026-01-16 |
 | [Sublimation](https://open.spotify.com/track/3ovzms5fWVT3cayO5fGZN4) | [Legendes Industries](https://open.spotify.com/artist/0DJutzzjro4AISmIYnzQKZ), [Anaïs Cardot](https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU) | [Sublimation](https://open.spotify.com/album/6dA3Y7WIjixKFCqflFgkFk) | 2:54 | 2024-10-24 | 2025-04-18 |
 | [Sugar 2](https://open.spotify.com/track/2huuZfXgnyxgrZrUFHuDzH) | [LÜZLO](https://open.spotify.com/artist/019ufnK32dBUQLEHa8CUv5) | [Sugar 2](https://open.spotify.com/album/3McG36RSWgyihTrCjs2xIq) | 2:49 | 2025-04-17 | 2025-05-23 |
+| [Suivre Mes Envies](https://open.spotify.com/track/471DSK76YwXUSYCkKz6hca) | [MÉLIA](https://open.spotify.com/artist/3kouFWWAqYYaXWUX4gjIwA) | [Suivre Mes Envies](https://open.spotify.com/album/6y04m0ltLV5Qndur7Fohym) | 2:39 | 2026-04-30 |  |
 | [Sur la rive](https://open.spotify.com/track/01EU33zjVyNNaBK46wfD2X) | [Ehla](https://open.spotify.com/artist/5KXt8UHaa6JBSYltw052Cp), [Hedges](https://open.spotify.com/artist/4wIqXlUU7ManNDpURytYbJ) | [Pause](https://open.spotify.com/album/4LydZSdKsiddSZKUSAII46) | 3:11 | 2023-09-28 | 2024-01-19 |
 | [Sur mon mind](https://open.spotify.com/track/654OEnSg5uvz7t9tl1hzG2) | [Blynk](https://open.spotify.com/artist/5QudGDXQi1yGCjENRjMNeQ) | [Sur mon mind](https://open.spotify.com/album/6sbBp80z1a92DzqJ7EgRd2) | 2:21 | 2025-05-30 | 2025-10-24 |
 | [Surface](https://open.spotify.com/track/6q1V1oYiZsRtenvhdghdgz) | [Ayelya](https://open.spotify.com/artist/0ivvGPySFFiWS9fpWJzc6c) | [Surface](https://open.spotify.com/album/3QAs5l9UklqFIkqTQdbx2l) | 2:59 | 2024-02-29 | 2024-03-29 |
@@ -524,7 +527,7 @@
 | [Teach me](https://open.spotify.com/track/25bRKPXdFrDqL1c47cDQel) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [HÉRITAGE : DERNIÈRE EMPREINTE](https://open.spotify.com/album/1XockxgYy7jeOeYQ63qpHs) | 3:10 | 2025-02-20 | 2025-11-07 |
 | [The Love We Had](https://open.spotify.com/track/4ouj2691rumr0fq3htGx1G) | [Nu Linh](https://open.spotify.com/artist/3R0sHWu5AWsvgzjbPqovK1) | [The Love We Had](https://open.spotify.com/album/75rAbP2kp7LpcHbFz3uHBj) | 3:06 | 2023-11-30 | 2024-01-19 |
 | [Tila Tequila](https://open.spotify.com/track/4d1BYo3rR71gZjaXlRzGzv) | [KOKEÏNEJTD](https://open.spotify.com/artist/1QiNcFh9MLHHNvKxjntbsP) | [Tila Tequila](https://open.spotify.com/album/4gN8hvcJceBCKMYsNB3DUZ) | 3:30 | 2025-10-16 | 2025-12-12 |
-| [Timide](https://open.spotify.com/track/7CgHjFMRl53Dgv6eDO2qAx) | [Claire.](https://open.spotify.com/artist/2Oarfy9KYx29vnn9j8EjX7) | [ECHO](https://open.spotify.com/album/0jB50vjD8Mzeh3njdNiSvh) | 3:22 | 2026-02-26 |  |
+| [Timide](https://open.spotify.com/track/7CgHjFMRl53Dgv6eDO2qAx) | [Claire.](https://open.spotify.com/artist/2Oarfy9KYx29vnn9j8EjX7) | [ECHO](https://open.spotify.com/album/0jB50vjD8Mzeh3njdNiSvh) | 3:22 | 2026-02-26 | 2026-05-01 |
 | [Tkt je gère](https://open.spotify.com/track/5H8mXeOgpaZ1oWN8eK51X0) | [IPNDEGO](https://open.spotify.com/artist/1NnXEta54oioiS58v4Ahrj) | [Tkt je gère](https://open.spotify.com/album/0GnJqysICwsAkdEK7wDFup) | 3:15 | 2025-02-27 | 2025-04-18 |
 | [TOI QUI VOULAIS PARTIR](https://open.spotify.com/track/43Q1Em5TgITjsqHuuhJq4v) | [Pitt](https://open.spotify.com/artist/49ofPLQXico2N1N13l0h8m) | [TOI QUI VOULAIS PARTIR](https://open.spotify.com/album/6w2w4ERrrr8kEj2fvnV30h) | 2:45 | 2024-11-28 | 2025-02-07 |
 | [Tolérance zéro](https://open.spotify.com/track/4auOpoAanS3HYtHU6CwTYN) | [ANJXLXE](https://open.spotify.com/artist/6zoqIceCJJl2677ANvkmyb) | [ANJXLXE](https://open.spotify.com/album/4aW2uYeatysuq0vCfJgVrK) | 2:30 | 2025-05-29 | 2025-06-20 |

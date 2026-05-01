@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvIwPsyNnKl.md) - [plain]
 
 > The place for the very best of Pinoy hip\-hop\. Kalye Natin 'To\. Cover: SCOOP DOGG, Daarth
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,497,712 likes - 58 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,498,019 likes - 58 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

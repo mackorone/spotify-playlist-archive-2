@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "Este Flow tiene otro Flow. Foto: Sinaka & Marcianeke",
+  "description": "Este Flow tiene otro Flow. Foto: Katteyes",
   "name": "Reggaet\u00f3n Chileno",
   "tracks": [
     {
@@ -2454,7 +2454,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 170702,
       "name": "BAJEN PA KA",
       "url": "https://open.spotify.com/track/4H8I32VgK5PZ49inPukUhT"
@@ -14962,7 +14962,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 156969,
       "name": "MUE LO DE ATRA",
       "url": "https://open.spotify.com/track/1OcRSebUAMAPfnvo5kLpXV"
@@ -15600,6 +15600,32 @@
       "duration_ms": 298775,
       "name": "NO COOPERAMOS",
       "url": "https://open.spotify.com/track/3uI1I2juxVWkrjSHdd9mVh"
+    },
+    {
+      "album": {
+        "name": "no eres buena xika",
+        "url": "https://open.spotify.com/album/5dZh5a7gBRmZ1oklbwSoY8"
+      },
+      "artists": [
+        {
+          "name": "Harry Nach",
+          "url": "https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH"
+        },
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+        },
+        {
+          "name": "Swift 047",
+          "url": "https://open.spotify.com/artist/2dsPXjJl58yqBAtUQmnFOb"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228785,
+      "name": "no eres buena xika",
+      "url": "https://open.spotify.com/track/3Ek8M2HMNx4GPO37fOfaQL"
     },
     {
       "album": {
@@ -18447,6 +18473,24 @@
     },
     {
       "album": {
+        "name": "PONTE PONTE",
+        "url": "https://open.spotify.com/album/5HPIf5hs1fZwOBHMMqwzs7"
+      },
+      "artists": [
+        {
+          "name": "Katteyes",
+          "url": "https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164377,
+      "name": "PONTE PONTE",
+      "url": "https://open.spotify.com/track/5pmWnKBWCUazCzhwmKQ4yY"
+    },
+    {
+      "album": {
         "name": "POPPER!",
         "url": "https://open.spotify.com/album/4v0x0syzsxORqMTW3c88Zp"
       },
@@ -20338,6 +20382,28 @@
       "duration_ms": 195333,
       "name": "SCARFACE",
       "url": "https://open.spotify.com/track/2w57xJlMgcAbrjXWRpTSBz"
+    },
+    {
+      "album": {
+        "name": "Se Acab\u00f3",
+        "url": "https://open.spotify.com/album/1UnNlpTpA4ndanYRqXjuln"
+      },
+      "artists": [
+        {
+          "name": "Yael la Menor",
+          "url": "https://open.spotify.com/artist/40YdQz3LAr4axYbnSa2lbf"
+        },
+        {
+          "name": "Adan La Amenaza",
+          "url": "https://open.spotify.com/artist/0dQUkvpKTvHbsTxXKcIN0S"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "Se Acab\u00f3",
+      "url": "https://open.spotify.com/track/1xPbP3K2QLPzijX1e6iExG"
     },
     {
       "album": {
@@ -23458,7 +23524,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 161460,
       "name": "TU + YO = :)",
       "url": "https://open.spotify.com/track/551aDFvMIURi5ZWL2zbWWy"
@@ -23902,7 +23968,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 145102,
       "name": "TU Y YO",
       "url": "https://open.spotify.com/track/1AEygvMRexkwBPuJsbzxs2"
@@ -24226,7 +24292,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 225300,
       "name": "UA (feat. Bayriton, Lleflight, Alex Fer, Vishoko, King Savagge)",
       "url": "https://open.spotify.com/track/4UnGHY6DifIX1Fn7iauXxa"
@@ -24894,7 +24960,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 171176,
       "name": "VENTE CONMIGO",
       "url": "https://open.spotify.com/track/78dcaF6ZYb01TzEMKd0bXE"

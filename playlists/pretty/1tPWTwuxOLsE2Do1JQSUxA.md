@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1tPWTwuxOLsE2Do1JQSUxA.md) - [plain]
 
 > Get nostalgic with all the summer hits and bangers you'll need\. From Beyoncé, Alicia Keys, John Legend, Miley Cyrus, P!nk and many more....
 
-[Filtr UK](https://open.spotify.com/user/sonymusicuk) - 448,758 likes - 278 songs - 16 hr 58 min
+[Filtr UK](https://open.spotify.com/user/sonymusicuk) - 448,745 likes - 278 songs - 16 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -149,7 +149,7 @@ pretty - [cumulative](/playlists/cumulative/1tPWTwuxOLsE2Do1JQSUxA.md) - [plain]
 | 139 | [NEW MAGIC WAND](https://open.spotify.com/track/0fv2KH6hac06J86hBUTcSf) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [IGOR](https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE) | 3:15 |
 | 140 | [All of Me](https://open.spotify.com/track/3U4isOIWM3VvDubwSI3y7a) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Love In The Future \(Expanded Edition\)](https://open.spotify.com/album/4OTAx9un4e6NfoHuVRiOrC) | 4:29 |
 | 141 | [SICKO MODE](https://open.spotify.com/track/2xLMifQCjDGFmkHkpNLD9h) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ASTROWORLD](https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I) | 5:12 |
-| 142 | [Young Dumb & Broke](https://open.spotify.com/track/6XSdy0up7tD0Ffb2mYECne) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Viral Summer Hits 2022](https://open.spotify.com/album/5ORFZrSuaMxzv1rlDrItmo) | 3:22 |
+| 142 | [Young Dumb & Broke](https://open.spotify.com/track/6XSdy0up7tD0Ffb2mYECne) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Viral Summer Hits](https://open.spotify.com/album/5ORFZrSuaMxzv1rlDrItmo) | 3:22 |
 | 143 | [Crying in the Club](https://open.spotify.com/track/1SJtlNRJDeYHioymcvsqev) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Crying in the Club](https://open.spotify.com/album/7s5gKFHMzzMHyLE2KFXNkR) | 3:36 |
 | 144 | [Exchange](https://open.spotify.com/track/43PuMrRfbyyuz4QpZ3oAwN) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [T R A P S O U L](https://open.spotify.com/album/6eZdwrhB97A3EYx9QppGfl) | 3:14 |
 | 145 | [Streets](https://open.spotify.com/track/59yGnRXSGzaIMAv3fGDHJT) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Pop Internacional 2022](https://open.spotify.com/album/6Jk2bajjBqVizABmvB5CVo) | 3:46 |

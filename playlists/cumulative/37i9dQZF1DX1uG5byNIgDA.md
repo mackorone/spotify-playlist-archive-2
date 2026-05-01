@@ -4,7 +4,7 @@
 
 > 행복하고 신나는 음악들과 함께 갓생을 시작해보세요! 출퇴근 길에 들으시면 더욱 좋습니다\. \(Kickstart your day with high\-energy vibes, the ultimate soundtrack for your hustle and commute.\)
 
-483 songs - 1 day 2 hr 8 min
+484 songs - 1 day 2 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,7 +145,7 @@
 | [First Love Two](https://open.spotify.com/track/0WLVjvta2gELFIN5mqSFpa) | [SUNNYSIDEMJ](https://open.spotify.com/artist/50hc5LTdbu0RKvf8IuOrLq) | [Love Tape](https://open.spotify.com/album/6A8Dj6IhOrpOHfWwgh4YBw) | 3:27 | 2022-03-23 | 2022-04-17 |
 | [Flow and Flow](https://open.spotify.com/track/0xtFlh7zuV3MwwBVoiQuSf) | [WELOVE](https://open.spotify.com/artist/0NBHZ2ja7ejAMkL77afYGI), [Anandelight](https://open.spotify.com/artist/6C90qwntmfkpNXoEj7qMJp) | [To You, We Flow](https://open.spotify.com/album/2s5izSOE9U3Af3cCyM2EOJ) | 3:11 | 2022-03-08 | 2022-04-21 |
 | [FLOWER](https://open.spotify.com/track/69CrOS7vEHIrhC2ILyEi0s) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) | [ME](https://open.spotify.com/album/4QuczuzDZNzCDli5Gz6DQ0) | 2:53 | 2024-03-27 | 2024-04-19 |
-| [FLOWER](https://open.spotify.com/track/0bC7GKnxh9W9JIvJ6HVWxc) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) | [ME](https://open.spotify.com/album/2xvV55nQYyhozbXtbqwPql) | 2:54 | 2024-03-27 |  |
+| [FLOWER](https://open.spotify.com/track/0bC7GKnxh9W9JIvJ6HVWxc) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) | [ME](https://open.spotify.com/album/2xvV55nQYyhozbXtbqwPql) | 2:54 | 2024-03-27 | 2026-05-01 |
 | [Fly Up](https://open.spotify.com/track/61JHSyyzMfvBfcB2ZK0HLI) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [ODYSSEY \- The 1st Album](https://open.spotify.com/album/07cUjKdLcgmnABNKKb4rGQ) | 2:58 | 2025-05-30 | 2025-06-29 |
 | [FOCUS](https://open.spotify.com/track/6jYiHr12NVKLzn0X7K8aSK) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [FOCUS \- The 1st Mini Album](https://open.spotify.com/album/0SVlu6q116wFO1m4EZ088b) | 2:57 | 2025-10-21 |  |
 | [For Some Reason 왠지 그냥](https://open.spotify.com/track/4b4pXJlphTv6xkOAhnSCgY) | [DANWU](https://open.spotify.com/artist/3hqxXifdUAzAQIKdKqda6t), [KIMEUNJI 김은지](https://open.spotify.com/artist/04gKJbZ1iABO8Azq4C9aAt) | [For Some Reason 왠지 그냥](https://open.spotify.com/album/1zlxiFx9csY1rp7of7RIiV) | 3:58 | 2022-03-23 | 2022-03-31 |
@@ -297,6 +297,7 @@
 | [Not For Sale](https://open.spotify.com/track/3dG1jxbfBIZvzyFwAcsmS0) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [BORDER : CARNIVAL](https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv) | 3:01 | 2021-12-06 | 2024-03-28 |
 | [Not That We Are Strangers](https://open.spotify.com/track/4gdOUKluEORr4Pv07iJ7Hi) | [jujuland](https://open.spotify.com/artist/62rT4s8zGnb3qVvQvDNldP) | [Not That We Are Strangers](https://open.spotify.com/album/5PFY5kzxK18H8NUKf7ocCl) | 3:02 | 2022-04-19 | 2022-05-04 |
 | [Numbers \(feat\. CHANGMO\)](https://open.spotify.com/track/79r5vi5H3sYvnRNpkNylXP) | [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [Numbers \(feat\. CHANGMO\)](https://open.spotify.com/album/1u6pT9rNfRZrG0llsv8crN) | 2:56 | 2021-12-06 | 2022-06-16 |
+| [Ode to Love](https://open.spotify.com/track/08aIVRb9ucpxKdAJb50HAx) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [Ode to Love \- The 1st Album](https://open.spotify.com/album/2OYOvhfBYA43XD7nd366iX) | 3:11 | 2026-04-27 |  |
 | [Oh, Wait](https://open.spotify.com/track/6gI80gaNBHirDcPukAA25M) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [Oh, Wait](https://open.spotify.com/album/6D44NSk9skjR4cKykvvhPd) | 3:49 | 2022-03-23 | 2022-04-21 |
 | [OHIO](https://open.spotify.com/track/3fxIgoqvwprUbhV1XEHrG5) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [OHIO](https://open.spotify.com/album/2Ke29I5mu2kcbyPD9S9Q2M) | 3:14 | 2022-03-23 | 2022-04-18 |
 | [One and Only](https://open.spotify.com/track/7twsZBhfSJFeaDp2rFHP1d) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [WHO!](https://open.spotify.com/album/0wesgG3gMPRK5awyZFEPU2) | 2:47 | 2023-06-07 | 2025-06-15 |

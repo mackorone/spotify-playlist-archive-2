@@ -1830,7 +1830,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 222439,
       "name": "Astralis",
       "url": "https://open.spotify.com/track/1jaA1jV5jzNnmhxqmo2VrO"
@@ -7430,7 +7430,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 281311,
       "name": "Forever",
       "url": "https://open.spotify.com/track/4ofC30d8eYzGt8vMALEM4M"
@@ -9404,7 +9404,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-28",
+      "date_removed": null,
       "duration_ms": 205864,
       "name": "I'm Here",
       "url": "https://open.spotify.com/track/1JCzIYuucdoWIG7CDeAr79"
@@ -10892,6 +10892,32 @@
       "duration_ms": 324155,
       "name": "Kumeleli",
       "url": "https://open.spotify.com/track/5KSuwgDnzR9t7ld4cFMgyb"
+    },
+    {
+      "album": {
+        "name": "Kura",
+        "url": "https://open.spotify.com/album/1QQOpnwDdpK1pBqqH7P9Xu"
+      },
+      "artists": [
+        {
+          "name": "Maz",
+          "url": "https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn"
+        },
+        {
+          "name": "BAKKA (BR)",
+          "url": "https://open.spotify.com/artist/5VQhfKlaFyzx7Kz1VEF2u8"
+        },
+        {
+          "name": "Berimbouse",
+          "url": "https://open.spotify.com/artist/0WpRvbJzxiOH5NcOgOG9Zi"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270000,
+      "name": "Kura",
+      "url": "https://open.spotify.com/track/5h2IBXZRH8GYrA0LnQMYGb"
     },
     {
       "album": {

@@ -4036,7 +4036,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 170589,
       "name": "Idi Thaangidum Idhayam",
       "url": "https://open.spotify.com/track/77e85kLgLGrYvchzlzXZdw"
@@ -6869,6 +6869,28 @@
     },
     {
       "album": {
+        "name": "Komberi Mookan",
+        "url": "https://open.spotify.com/album/5KG0c8eWi2LGOYWWgxbXSZ"
+      },
+      "artists": [
+        {
+          "name": "Santhosh Arumugam",
+          "url": "https://open.spotify.com/artist/3arPP9VYEaY6BV2Ekw3McO"
+        },
+        {
+          "name": "V.M. Mahalingam",
+          "url": "https://open.spotify.com/artist/6mHtkNCvRoFV9XMzvjSF1u"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272000,
+      "name": "Komberi Mookan",
+      "url": "https://open.spotify.com/track/6MpnkvHePziltlQjyZFKzn"
+    },
+    {
+      "album": {
         "name": "Konji Pesa",
         "url": "https://open.spotify.com/album/3OT4puDbCCHSZwv0CXbdSL"
       },
@@ -8360,7 +8382,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 182937,
       "name": "Minnal",
       "url": "https://open.spotify.com/track/5LTPpvlqykXDlzVRO29BxV"
@@ -12090,7 +12112,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 234000,
       "name": "Radhiye - Reprise",
       "url": "https://open.spotify.com/track/4DCZY1F5CuYZTQN7MTQN03"
@@ -12818,7 +12840,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 144000,
       "name": "Simco Gili Gili",
       "url": "https://open.spotify.com/track/2K1VopotAsjOFfeuUUSanV"
@@ -13178,6 +13200,28 @@
       "duration_ms": 338291,
       "name": "Sundarakalebara",
       "url": "https://open.spotify.com/track/1AFbhDQlIishYtar4eQYyh"
+    },
+    {
+      "album": {
+        "name": "Sundari Sundari",
+        "url": "https://open.spotify.com/album/2IwAeJHtMkcSHi4RTra8Xp"
+      },
+      "artists": [
+        {
+          "name": "Keerthan",
+          "url": "https://open.spotify.com/artist/2LfvnRw9qJWb1Hr6ZxBOM1"
+        },
+        {
+          "name": "Abhilash Shet",
+          "url": "https://open.spotify.com/artist/4wFDd225kodWn0RMXeq57D"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184846,
+      "name": "Sundari Sundari",
+      "url": "https://open.spotify.com/track/6Lg938ZCEBYRxTFvkIfnmf"
     },
     {
       "album": {
@@ -14054,6 +14098,24 @@
       "duration_ms": 268017,
       "name": "Theera Irul",
       "url": "https://open.spotify.com/track/65WfHGYdwvBHc8RRKZJg77"
+    },
+    {
+      "album": {
+        "name": "Theera Kanaa",
+        "url": "https://open.spotify.com/album/5HOrdfyKr9dC8YT4DDkusb"
+      },
+      "artists": [
+        {
+          "name": "Anushya Murugesh",
+          "url": "https://open.spotify.com/artist/0nYWQV1UxFT7NgMv8vMaF8"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162782,
+      "name": "Theera Kanaa",
+      "url": "https://open.spotify.com/track/7fcwXQUAgodhZGsfG15TDt"
     },
     {
       "album": {
@@ -17054,7 +17116,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 182931,
       "name": "Zindagee",
       "url": "https://open.spotify.com/track/1jAZa1i50cEOuwP9lbQFpx"

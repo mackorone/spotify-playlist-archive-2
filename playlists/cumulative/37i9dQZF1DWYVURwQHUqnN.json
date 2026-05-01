@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Photo : Gradur",
+  "description": "Photo : Leto",
   "name": "Best Life",
   "tracks": [
     {
@@ -931,6 +931,28 @@
     },
     {
       "album": {
+        "name": "Besoin de temps",
+        "url": "https://open.spotify.com/album/7ggZYVBoVk8uvuOA2CeAAh"
+      },
+      "artists": [
+        {
+          "name": "Timar",
+          "url": "https://open.spotify.com/artist/4BUeuxQIWI69tEYuvzbv6D"
+        },
+        {
+          "name": "SativaMusic",
+          "url": "https://open.spotify.com/artist/6p46LxMXeRu3FRYN4tK5Lv"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Besoin de temps",
+      "url": "https://open.spotify.com/track/6FOiFBrIrINmWIaDvxf9Pd"
+    },
+    {
+      "album": {
         "name": "BEST LIFE",
         "url": "https://open.spotify.com/album/1PiRihgoNqGMv3XC7nbSvY"
       },
@@ -968,7 +990,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 188493,
       "name": "Bin Edek",
       "url": "https://open.spotify.com/track/5aC5rm1B1AX9472QmUxflW"
@@ -2598,7 +2620,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 128000,
       "name": "C\u00d4T\u00c9 PASSAGER",
       "url": "https://open.spotify.com/track/31ELH1fZZyryhGODyWkZGN"
@@ -2843,6 +2865,24 @@
     },
     {
       "album": {
+        "name": "Den 2X / Timinik",
+        "url": "https://open.spotify.com/album/2B1M5AxcxtxcEckY89ehS6"
+      },
+      "artists": [
+        {
+          "name": "Denden",
+          "url": "https://open.spotify.com/artist/66YKNnSIqZwFDjrH0i9EAY"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131014,
+      "name": "Den 2X",
+      "url": "https://open.spotify.com/track/0uyXRciFcBD1DEv80grzqQ"
+    },
+    {
+      "album": {
         "name": "Des choses \u00e0 f\u00eater (feat. Soprano)",
         "url": "https://open.spotify.com/album/6ni7sjISV5G5ifVOJenZax"
       },
@@ -3044,7 +3084,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 179554,
       "name": "Doser",
       "url": "https://open.spotify.com/track/1Jfm129mci3FMizdlXeMOs"
@@ -3266,6 +3306,24 @@
       "duration_ms": 145920,
       "name": "ELLE VOULAIT",
       "url": "https://open.spotify.com/track/3vU9V5EzwpsqI2zHbKmHi9"
+    },
+    {
+      "album": {
+        "name": "Emprise",
+        "url": "https://open.spotify.com/album/1jx3rNDBFNaMl0aiXmybXl"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175439,
+      "name": "Emprise",
+      "url": "https://open.spotify.com/track/1x6QQMG0G9jN8wPCMysBCr"
     },
     {
       "album": {
@@ -3604,7 +3662,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 183750,
       "name": "FOLIE",
       "url": "https://open.spotify.com/track/0DT5OCCGLa1aOv9RusHqch"
@@ -3880,7 +3938,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 152000,
       "name": "GUIDER",
       "url": "https://open.spotify.com/track/3xcwWfz7UruB01dCQCnDH3"
@@ -4376,6 +4434,24 @@
       "duration_ms": 177199,
       "name": "Juste une minute",
       "url": "https://open.spotify.com/track/2yiIfIO1JYMiXebaBEodWD"
+    },
+    {
+      "album": {
+        "name": "J\u2019revis",
+        "url": "https://open.spotify.com/album/5F7BcJu6eD5Lk8bZRRz4B9"
+      },
+      "artists": [
+        {
+          "name": "Jayel",
+          "url": "https://open.spotify.com/artist/5kKxz4PDHgrpIt8LX3PPiF"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141120,
+      "name": "J\u2019revis",
+      "url": "https://open.spotify.com/track/0vySnlHU5Djm9ALrh4L6YY"
     },
     {
       "album": {
@@ -5017,6 +5093,24 @@
     },
     {
       "album": {
+        "name": "L\u00c9W\u00c9",
+        "url": "https://open.spotify.com/album/6WwthXnlTCy9mrCL85Jfab"
+      },
+      "artists": [
+        {
+          "name": "SAF",
+          "url": "https://open.spotify.com/artist/6Pr9pssRV0tD0jdh2Z84td"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209162,
+      "name": "L\u00c9W\u00c9",
+      "url": "https://open.spotify.com/track/7y8M0iafbbORhIqIsNhy4R"
+    },
+    {
+      "album": {
         "name": "LES DENTS DU BONHEUR",
         "url": "https://open.spotify.com/album/4jvY8C0lsRWtbxtOEOtU00"
       },
@@ -5142,6 +5236,24 @@
       "duration_ms": 152626,
       "name": "Ma Life",
       "url": "https://open.spotify.com/track/7yIqiHZosw9LaQ2UHRjmuN"
+    },
+    {
+      "album": {
+        "name": "KAID",
+        "url": "https://open.spotify.com/album/1hLGGWyMJ4yJ84c7CITrWC"
+      },
+      "artists": [
+        {
+          "name": "Moha K",
+          "url": "https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148213,
+      "name": "Madame",
+      "url": "https://open.spotify.com/track/2yPmfXgxDh5uQt5F5p5AgA"
     },
     {
       "album": {
@@ -5288,6 +5400,28 @@
       "duration_ms": 233240,
       "name": "MAMI WATA",
       "url": "https://open.spotify.com/track/6yqwxY8qifBBhyryjZutxk"
+    },
+    {
+      "album": {
+        "name": "MANSORY",
+        "url": "https://open.spotify.com/album/0oBeMCpjd8FQqihlKnYtPP"
+      },
+      "artists": [
+        {
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+        },
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226480,
+      "name": "MANSORY",
+      "url": "https://open.spotify.com/track/0VsPGERCzao6a6Oo0QsD5Z"
     },
     {
       "album": {
@@ -8396,7 +8530,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 137493,
       "name": "Sans toi",
       "url": "https://open.spotify.com/track/7KfRE1FPh0HRsF4tTO1XFC"
@@ -8988,7 +9122,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 181083,
       "name": "T'avais raison",
       "url": "https://open.spotify.com/track/39zpVyhyhefIUTW8XXxv01"

@@ -1,13 +1,93 @@
 {
-  "description": "Irama R&B tanah air yang merasuk jiwa. Cover: Dominique Adhadiaz",
-  "num_followers": 14181,
+  "description": "Irama R&B tanah air yang merasuk jiwa. Cover: Canti",
+  "num_followers": 14179,
   "original_name": "JIVVA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABll3JwVvcSSoncPRwveP+ovntva",
+  "snapshot_id": "AAAAAJorz7U95NwRqvtQ5xhb2u3XnVkd",
   "tracks": [
+    {
+      "added_at": "2026-04-30 18:00:39",
+      "album": {
+        "name": "Citrus",
+        "url": "https://open.spotify.com/album/70hWh3H1XXCDE6z4m70XVy"
+      },
+      "artists": [
+        {
+          "name": "Canti",
+          "url": "https://open.spotify.com/artist/58T2knDTjuxgJkxHH0mllQ"
+        },
+        {
+          "name": "Manutized",
+          "url": "https://open.spotify.com/artist/2shs60BW5cYC3a5tobSTdS"
+        }
+      ],
+      "duration_ms": 184500,
+      "name": "Talk To Ya",
+      "url": "https://open.spotify.com/track/3MSyncAHpVp8qwbcvNNVLH"
+    },
+    {
+      "added_at": "2026-04-30 18:00:39",
+      "album": {
+        "name": "All U Want (feat. Keianka)",
+        "url": "https://open.spotify.com/album/4hGfIJEm3zbEZNNy2foyMR"
+      },
+      "artists": [
+        {
+          "name": "Jakarta Soul System",
+          "url": "https://open.spotify.com/artist/5twqzbPbyXbM4qrZejp5QP"
+        },
+        {
+          "name": "Bryan Renaldo",
+          "url": "https://open.spotify.com/artist/31cKcUefYLDo9XeNCPbWrR"
+        },
+        {
+          "name": "Keianka",
+          "url": "https://open.spotify.com/artist/5RTv9Js6nOCOPChuTA6bu9"
+        }
+      ],
+      "duration_ms": 148474,
+      "name": "All U Want (feat. Keianka)",
+      "url": "https://open.spotify.com/track/2cVo56bYrdYPAvFq6IjU3B"
+    },
+    {
+      "added_at": "2026-04-30 18:00:39",
+      "album": {
+        "name": "Lazy in Love",
+        "url": "https://open.spotify.com/album/2GV9QMfaQ2JTN6xl6QFc7K"
+      },
+      "artists": [
+        {
+          "name": "Inara",
+          "url": "https://open.spotify.com/artist/1qcKOcPdWe0cxQn9ZXCefL"
+        }
+      ],
+      "duration_ms": 201898,
+      "name": "Lazy in Love",
+      "url": "https://open.spotify.com/track/5m1u64yULFnrZDJv3OxbUJ"
+    },
+    {
+      "added_at": "2026-05-01 00:04:13",
+      "album": {
+        "name": "Siren Song",
+        "url": "https://open.spotify.com/album/1BiUsd9jcyUGAPlJqyoPXZ"
+      },
+      "artists": [
+        {
+          "name": "Dennis Linggar",
+          "url": "https://open.spotify.com/artist/4Ht5zocCwfIenYeBolxXxt"
+        },
+        {
+          "name": "JPecs",
+          "url": "https://open.spotify.com/artist/2RaLCgWRwHSBJySoMVZi1U"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Siren Song",
+      "url": "https://open.spotify.com/track/5yYHvzPuaSHrzP6TncTjjD"
+    },
     {
       "added_at": "2026-04-23 18:00:11",
       "album": {
@@ -72,7 +152,7 @@
           "url": "https://open.spotify.com/artist/3EMLBUicqUKN1tBFUj718w"
         }
       ],
-      "duration_ms": 228270,
+      "duration_ms": 198274,
       "name": "I DON'T WANNA (BE YOU)",
       "url": "https://open.spotify.com/track/2WCMo9QlX9wxYhMPNS7OiF"
     },
@@ -853,42 +933,6 @@
       "url": "https://open.spotify.com/track/3CpIWWHfWWqOuR8wnEPmLh"
     },
     {
-      "added_at": "2025-11-13 21:53:40",
-      "album": {
-        "name": "Ramu",
-        "url": "https://open.spotify.com/album/6Um3awxwOSoxLVVBn85UjA"
-      },
-      "artists": [
-        {
-          "name": "Rizki Jonathan",
-          "url": "https://open.spotify.com/artist/2Pc5nBssh59fUoQGWOb0KS"
-        }
-      ],
-      "duration_ms": 203498,
-      "name": "Ramu",
-      "url": "https://open.spotify.com/track/2bGWVOJph2fsQMcuL04PrU"
-    },
-    {
-      "added_at": "2025-11-06 17:30:33",
-      "album": {
-        "name": "Handle It (feat. Fangtatis)",
-        "url": "https://open.spotify.com/album/77YYFOxDJa6IYxQzS2B5q7"
-      },
-      "artists": [
-        {
-          "name": "Wizzy",
-          "url": "https://open.spotify.com/artist/3nFxNn6bmS2fT5WMgF87Ls"
-        },
-        {
-          "name": "Fangtatis",
-          "url": "https://open.spotify.com/artist/0nLDPz8ZYzbVSaR49Lo9LY"
-        }
-      ],
-      "duration_ms": 174666,
-      "name": "Handle It (feat. Fangtatis)",
-      "url": "https://open.spotify.com/track/3m2ABv3l7QRwccPgN8XIb0"
-    },
-    {
       "added_at": "2025-10-23 17:00:26",
       "album": {
         "name": "Pemula",
@@ -923,22 +967,6 @@
       "duration_ms": 168658,
       "name": "Fall Into You",
       "url": "https://open.spotify.com/track/6IpniKTQXAEjc2erLByfo2"
-    },
-    {
-      "added_at": "2025-10-16 17:00:27",
-      "album": {
-        "name": "Forevermore",
-        "url": "https://open.spotify.com/album/7MptRwuxpHHuUJtYFKzHuc"
-      },
-      "artists": [
-        {
-          "name": "Assia Keva",
-          "url": "https://open.spotify.com/artist/78rdZWsKiflQNcM4ecLyi8"
-        }
-      ],
-      "duration_ms": 181394,
-      "name": "Back to You",
-      "url": "https://open.spotify.com/track/3uPBDHYJPFo7ILVzShfwGS"
     },
     {
       "added_at": "2025-10-16 17:00:27",
@@ -1003,26 +1031,6 @@
       "duration_ms": 193452,
       "name": "Didadaku Ada Kamu",
       "url": "https://open.spotify.com/track/3uj8DR1LlANaJe0CixYzGc"
-    },
-    {
-      "added_at": "2025-09-25 17:05:13",
-      "album": {
-        "name": "Untukmu",
-        "url": "https://open.spotify.com/album/0z7axBDnepbUZ9l6Q318mp"
-      },
-      "artists": [
-        {
-          "name": "Rafi Muhammad",
-          "url": "https://open.spotify.com/artist/3OY1W74oTsOWz9iM2S8WcF"
-        },
-        {
-          "name": "Andien",
-          "url": "https://open.spotify.com/artist/75FhU39jo2xmyiObiDGXAo"
-        }
-      ],
-      "duration_ms": 239984,
-      "name": "Untukmu",
-      "url": "https://open.spotify.com/track/4coSx2yoUpzrADZ42ThwxH"
     },
     {
       "added_at": "2025-10-09 17:00:23",
@@ -1113,22 +1121,6 @@
       "url": "https://open.spotify.com/track/1IHGk33iYHS1m5yX6ucRyl"
     },
     {
-      "added_at": "2025-08-07 19:00:29",
-      "album": {
-        "name": "Again",
-        "url": "https://open.spotify.com/album/0Yea9WMntfl4PY8JdYfFqh"
-      },
-      "artists": [
-        {
-          "name": "Briellebeth",
-          "url": "https://open.spotify.com/artist/5HqBt0P2CVcVAsqJcQfBHu"
-        }
-      ],
-      "duration_ms": 214588,
-      "name": "Again",
-      "url": "https://open.spotify.com/track/1VyIAhJTXnOPH2tS0XmxTK"
-    },
-    {
       "added_at": "2025-07-31 19:00:19",
       "album": {
         "name": "Baby July",
@@ -1159,22 +1151,6 @@
       "duration_ms": 149743,
       "name": "ADDICTION",
       "url": "https://open.spotify.com/track/62yN59Z49wkOnPByz4VzWI"
-    },
-    {
-      "added_at": "2025-06-20 00:06:43",
-      "album": {
-        "name": "Time Flies",
-        "url": "https://open.spotify.com/album/6qE7AdkTHRdOh40JYZctFQ"
-      },
-      "artists": [
-        {
-          "name": "GRACE.",
-          "url": "https://open.spotify.com/artist/4RwYJRHnB3zCks3x2u3qHv"
-        }
-      ],
-      "duration_ms": 255618,
-      "name": "Time Flies",
-      "url": "https://open.spotify.com/track/5E3upQeg47ZTnpNkk7DjsM"
     },
     {
       "added_at": "2025-06-20 00:06:43",

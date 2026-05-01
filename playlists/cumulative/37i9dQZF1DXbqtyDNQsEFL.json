@@ -1926,7 +1926,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-30",
+      "date_removed": null,
       "duration_ms": 299013,
       "name": "Citizen",
       "url": "https://open.spotify.com/track/6NYcrgToyDj04al4ZMtHxz"
@@ -2880,7 +2880,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 156430,
       "name": "Ebenezer II",
       "url": "https://open.spotify.com/track/6Bn0kysMFUy3tGhubATm2L"
@@ -4810,7 +4810,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 199321,
       "name": "Happiness Is Free",
       "url": "https://open.spotify.com/track/37ArjRef4CfvDMuQgTs1fx"
@@ -5210,7 +5210,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 151699,
       "name": "HOLY",
       "url": "https://open.spotify.com/track/6D7K9PStuiKWTvn8CpyXdJ"
@@ -6298,7 +6298,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 180000,
       "name": "In God's Hand",
       "url": "https://open.spotify.com/track/5cGhKhAK0EQ7dKwrWlncCa"
@@ -7676,7 +7676,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 208065,
       "name": "Love",
       "url": "https://open.spotify.com/track/2Mvk3grorqiicB2Qo4IlXv"
@@ -9260,6 +9260,24 @@
       "duration_ms": 437345,
       "name": "No Other God",
       "url": "https://open.spotify.com/track/62u93O6E9BU8IEbTOPB5b0"
+    },
+    {
+      "album": {
+        "name": "No Pressure",
+        "url": "https://open.spotify.com/album/56zmZ77VgFYZ2iUMLpBnEA"
+      },
+      "artists": [
+        {
+          "name": "The membrane",
+          "url": "https://open.spotify.com/artist/0XaFHkogeaW0EN4jeO0qI5"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165624,
+      "name": "No Pressure",
+      "url": "https://open.spotify.com/track/1BJgbTphIqyS2IDe5L8gPY"
     },
     {
       "album": {
@@ -11214,7 +11232,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-23",
+      "date_removed": null,
       "duration_ms": 154588,
       "name": "Pretty Day",
       "url": "https://open.spotify.com/track/5MOzAAZUnH1sQXXI2Pu91W"
@@ -13108,6 +13126,24 @@
     {
       "album": {
         "name": "This Year",
+        "url": "https://open.spotify.com/album/4KCAVGCDc6aaAv2VcgZ2LE"
+      },
+      "artists": [
+        {
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310378,
+      "name": "This Year",
+      "url": "https://open.spotify.com/track/4omnYsoOhYFIVPg3a3H7f9"
+    },
+    {
+      "album": {
+        "name": "This Year",
         "url": "https://open.spotify.com/album/0rWtIG28QMeeELq5iefnXP"
       },
       "artists": [
@@ -14360,6 +14396,32 @@
       "duration_ms": 629497,
       "name": "Who Is on the Lord's Side",
       "url": "https://open.spotify.com/track/5pVeIe34S5rbP6FZAEahBS"
+    },
+    {
+      "album": {
+        "name": "Will Be Done",
+        "url": "https://open.spotify.com/album/4sRnToa2OmP7ciWdkBeUOd"
+      },
+      "artists": [
+        {
+          "name": "Trendsetter Sense",
+          "url": "https://open.spotify.com/artist/2zcu7rparMOCBU7ZaBMb4N"
+        },
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "Nathan Davis Jr",
+          "url": "https://open.spotify.com/artist/24p0hSTqoxNsy89rKNrSDj"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221874,
+      "name": "Will Be Done",
+      "url": "https://open.spotify.com/track/0xgqTe1zh9FZa1x8zpvs9H"
     },
     {
       "album": {

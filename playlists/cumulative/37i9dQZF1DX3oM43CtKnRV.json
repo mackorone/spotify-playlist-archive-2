@@ -2489,6 +2489,24 @@
     },
     {
       "album": {
+        "name": "A Beautiful Lie (20 Year Anniversary)",
+        "url": "https://open.spotify.com/album/7agt72GwSxZYPmx4Uu8S3U"
+      },
+      "artists": [
+        {
+          "name": "Thirty Seconds To Mars",
+          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231533,
+      "name": "The Kill",
+      "url": "https://open.spotify.com/track/4rRNDclay9ayn1iR1VpMMB"
+    },
+    {
+      "album": {
         "name": "A Beautiful Lie",
         "url": "https://open.spotify.com/album/2jPmk6qQzuY5AvKkZxMh7h"
       },
@@ -2500,7 +2518,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 231533,
       "name": "The Kill (Bury Me)",
       "url": "https://open.spotify.com/track/1p1nO35bbi4ZlQgjIA4oa4"

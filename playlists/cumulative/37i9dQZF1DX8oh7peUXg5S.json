@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "El don de cantar y componer, una playlist llena de talento. Foto: Joan Manuel Serrat.",
+  "description": "El don de cantar y componer, una playlist llena de talento. Foto: Joaqu\u00edn Sabina.",
   "name": "Cantautores",
   "tracks": [
+    {
+      "album": {
+        "name": "Hola y Adi\u00f3s (En Directo)",
+        "url": "https://open.spotify.com/album/7KSJmW2DZSoCixtv3jqWom"
+      },
+      "artists": [
+        {
+          "name": "Joaqu\u00edn Sabina",
+          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316440,
+      "name": "19 D\u00edas y 500 Noches - En Directo",
+      "url": "https://open.spotify.com/track/1nc8BtidrX9dfRdoA1PArc"
+    },
     {
       "album": {
         "name": "inCubando",
@@ -1352,7 +1370,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 274866,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/5yIVcrwQXdIlDgTMc8pa6z"
@@ -1924,7 +1942,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 274906,
       "name": "El Amor De Mi Vida",
       "url": "https://open.spotify.com/track/6Byf7nRNKYLuqXsWf80ahI"
@@ -4149,6 +4167,32 @@
     },
     {
       "album": {
+        "name": "Manuelita la Tortuga",
+        "url": "https://open.spotify.com/album/2cQ8KLidWHfmwVPxOIJT2O"
+      },
+      "artists": [
+        {
+          "name": "Rosa Leon",
+          "url": "https://open.spotify.com/artist/03ukvtQJzZmG7CEOmnkoMW"
+        },
+        {
+          "name": "Ana Bel\u00e9n",
+          "url": "https://open.spotify.com/artist/4NOZW7dBOmBMMAG9EGQd4t"
+        },
+        {
+          "name": "Alejo Stivel",
+          "url": "https://open.spotify.com/artist/7mGfdRd3PB4mRMPymFQM7n"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242991,
+      "name": "Manuelita la Tortuga",
+      "url": "https://open.spotify.com/track/2YK2dM2bGi8spBKaKmmKtN"
+    },
+    {
+      "album": {
         "name": "De Lo Perdido Y Otras Coplas",
         "url": "https://open.spotify.com/album/53XJCziWiXOOrBCmbVLXGC"
       },
@@ -4544,7 +4588,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 195308,
       "name": "Morna (con Buika)",
       "url": "https://open.spotify.com/track/09g1iDhRyOiK9q8yyTnw93"
@@ -5225,6 +5269,28 @@
     },
     {
       "album": {
+        "name": "papel mach\u00e9",
+        "url": "https://open.spotify.com/album/4OYk5FHxeQ4XxH2mqXIDcP"
+      },
+      "artists": [
+        {
+          "name": "Jaguayano",
+          "url": "https://open.spotify.com/artist/0XVsHyF9ofcEFttyOHXPYG"
+        },
+        {
+          "name": "Muerdo",
+          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214565,
+      "name": "papel mach\u00e9",
+      "url": "https://open.spotify.com/track/46E7G0KBbKsLCHm96dulv4"
+    },
+    {
+      "album": {
         "name": "Para Aute: Pasaba por Aqu\u00ed (feat. Abel Pintos, Carlos Rivera, Dani Martin, Estopa, Ismael Serrano, Jorge Drexler, Pedro Guerra, Silvio Rodr\u00edguez, Vanesa Martin & Xoel L\u00f3pez)",
         "url": "https://open.spotify.com/album/2952fTsJClZUWrkhXYDGRN"
       },
@@ -5284,7 +5350,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 178811,
       "name": "Para Aute: Pasaba por Aqu\u00ed (feat. Abel Pintos, Carlos Rivera, Dani Martin, Estopa, Ismael Serrano, Jorge Drexler, Pedro Guerra, Silvio Rodr\u00edguez, Vanesa Martin & Xoel L\u00f3pez)",
       "url": "https://open.spotify.com/track/7D9idjcIEbErDKK2vtUM2D"
@@ -5902,6 +5968,24 @@
       "duration_ms": 297120,
       "name": "Qui\u00e9n Me Ha Robado el Mes de Abril",
       "url": "https://open.spotify.com/track/1HX9kKDz6dG4fmLBuKVzOF"
+    },
+    {
+      "album": {
+        "name": "Hola y Adi\u00f3s (En Directo)",
+        "url": "https://open.spotify.com/album/7KSJmW2DZSoCixtv3jqWom"
+      },
+      "artists": [
+        {
+          "name": "Joaqu\u00edn Sabina",
+          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263813,
+      "name": "Qui\u00e9n Me Ha Robado el Mes de Abril - En Directo",
+      "url": "https://open.spotify.com/track/3n5gdJ7JwgzHyOwIo0aFy0"
     },
     {
       "album": {

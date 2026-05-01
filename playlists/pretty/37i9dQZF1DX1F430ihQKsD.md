@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 
 > 100 % chill, 100 % Montréal\. Photo: Thierry Larose
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,951 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,975 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 | 4 | [LFDM](https://open.spotify.com/track/2NeLSUa3bSjvyhkmU0WCTj) | [Tom Leger](https://open.spotify.com/artist/6ItAywuaMIvQ0BfETENUcK) | [LFDM](https://open.spotify.com/album/1OMxJOk8AfVNK115bPasye) | 3:17 |
 | 5 | [Viva la vida Aviva](https://open.spotify.com/track/09CYb1GdcPM2smNePTiLyC) | [fangs](https://open.spotify.com/artist/4hMzLL80aF5I6obBe0FXKW) | [Viva la vida Aviva](https://open.spotify.com/album/2qgynq21DyiBaIqrTK9YRd) | 2:11 |
 | 6 | [Cloudless Sky Of None](https://open.spotify.com/track/1TGT9DVmsPxmNpUpGyf90y) | [Korovo](https://open.spotify.com/artist/4sfnIK0CpZEovyUqHX3hE2) | [Cloudless Sky Of None](https://open.spotify.com/album/32ZEv6QQSFtC5NRAve0kFU) | 3:26 |
-| 7 | [Jeûner](https://open.spotify.com/track/2H7jW4UN2PKU0iEwpsrorO) | [VioleTT Pi](https://open.spotify.com/artist/1kQY8Lg1LUIL23eT1DSGx7) | [Jeûner](https://open.spotify.com/album/0mESF8wP5W64W6r4sMtlvT) | 3:26 |
+| 7 | [Jeûner](https://open.spotify.com/track/2H7jW4UN2PKU0iEwpsrorO) | [VioleTT Pi](https://open.spotify.com/artist/1kQY8Lg1LUIL23eT1DSGx7), [Klô Pelgag](https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi) | [Jeûner](https://open.spotify.com/album/0mESF8wP5W64W6r4sMtlvT) | 3:26 |
 | 8 | [Kicking & screaming](https://open.spotify.com/track/5ydb6mhv4W8e6mdWte91z9) | [kerri](https://open.spotify.com/artist/7mupgmN5rkDNGrqQt1tjcf), [Fraud Perry](https://open.spotify.com/artist/21bSNtXANYKKlrjo4RVTQm) | [Kicking & screaming](https://open.spotify.com/album/5qpj5EMpg80UMEd7jJPFvo) | 2:51 |
 | 9 | [Pensées sans calcul](https://open.spotify.com/track/73XJsoBcFhZhmglFhy9RUw) | [Jérôme Minière](https://open.spotify.com/artist/35QNxIS3w7AC2R2vrAlrhT), [Salomé Leclerc](https://open.spotify.com/artist/5gBtHbwwn0bBfrXvs6SY5I) | [Pensées sans calcul](https://open.spotify.com/album/7hcuk7kBvgFQ0Hsv6v8gvw) | 3:26 |
 | 10 | [rêves en hd](https://open.spotify.com/track/0YSTWkVtb5OBefIZSt5Xc5) | [Maddie Bay](https://open.spotify.com/artist/5l9YeES7fYai24xXRFeKgd) | [rêves en hd](https://open.spotify.com/album/04GXwso8ghTY0qJ148Wzoi) | 4:13 |

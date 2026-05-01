@@ -1,6 +1,6 @@
 {
   "description": "Les plus belles ballades de la chanson fran\u00e7aise d'hier et d'aujourd'hui.",
-  "num_followers": 111074,
+  "num_followers": 111099,
   "original_name": "Douce France",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "AAAAAJyKZB6G/hP8b9MjpZX9779myDWY",
   "tracks": [
-    {
-      "added_at": "2026-01-21 14:43:12",
-      "album": {
-        "name": "La symphonie des \u00e9clairs",
-        "url": "https://open.spotify.com/album/5GoDO8a03bxSSxMCeYKfaW"
-      },
-      "artists": [
-        {
-          "name": "Zaho de Sagazan",
-          "url": "https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq"
-        }
-      ],
-      "duration_ms": 198789,
-      "name": "La symphonie des \u00e9clairs",
-      "url": "https://open.spotify.com/track/4QIH0XYnCLoCl1WZIV08Pn"
-    },
     {
       "added_at": "2026-01-21 14:43:12",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 177426,
       "name": "Voil\u00e0",
       "url": "https://open.spotify.com/track/0UVlOQ3EEiTVOctUOnJ00w"
+    },
+    {
+      "added_at": "2026-01-21 14:43:12",
+      "album": {
+        "name": "La symphonie des \u00e9clairs",
+        "url": "https://open.spotify.com/album/5GoDO8a03bxSSxMCeYKfaW"
+      },
+      "artists": [
+        {
+          "name": "Zaho de Sagazan",
+          "url": "https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq"
+        }
+      ],
+      "duration_ms": 198789,
+      "name": "La symphonie des \u00e9clairs",
+      "url": "https://open.spotify.com/track/4QIH0XYnCLoCl1WZIV08Pn"
     },
     {
       "added_at": "2026-01-21 14:43:12",
@@ -399,6 +399,22 @@
     {
       "added_at": "2026-01-21 14:43:12",
       "album": {
+        "name": "Rose",
+        "url": "https://open.spotify.com/album/3ACdkFZ2IR9cXqeqWMz2V7"
+      },
+      "artists": [
+        {
+          "name": "Rose",
+          "url": "https://open.spotify.com/artist/3VI6nyKdPVIBxorjS5rYNd"
+        }
+      ],
+      "duration_ms": 193053,
+      "name": "La liste",
+      "url": "https://open.spotify.com/track/0GIRUl3YJAGBauaqe10oWm"
+    },
+    {
+      "added_at": "2026-01-21 14:43:12",
+      "album": {
         "name": "Toi + Moi",
         "url": "https://open.spotify.com/album/32VFugqdmRt8N8csnrlnZc"
       },
@@ -431,18 +447,18 @@
     {
       "added_at": "2026-01-21 14:43:12",
       "album": {
-        "name": "Rose",
-        "url": "https://open.spotify.com/album/3ACdkFZ2IR9cXqeqWMz2V7"
+        "name": "Fran\u00e7oise Hardy (Mon amie la rose)",
+        "url": "https://open.spotify.com/album/00r4Bh9aFIb7yHux1Kg0ub"
       },
       "artists": [
         {
-          "name": "Rose",
-          "url": "https://open.spotify.com/artist/3VI6nyKdPVIBxorjS5rYNd"
+          "name": "Fran\u00e7oise Hardy",
+          "url": "https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g"
         }
       ],
-      "duration_ms": 193053,
-      "name": "La liste",
-      "url": "https://open.spotify.com/track/0GIRUl3YJAGBauaqe10oWm"
+      "duration_ms": 137160,
+      "name": "Mon amie la rose",
+      "url": "https://open.spotify.com/track/1rMX4XuW4KzgYlAyEaDmpO"
     },
     {
       "added_at": "2026-01-21 14:43:12",
@@ -459,22 +475,6 @@
       "duration_ms": 236853,
       "name": "Sublime & Silence",
       "url": "https://open.spotify.com/track/5nOy1wbwjpGTXr3Bk5zI4T"
-    },
-    {
-      "added_at": "2026-01-21 14:43:12",
-      "album": {
-        "name": "Fran\u00e7oise Hardy (Mon amie la rose)",
-        "url": "https://open.spotify.com/album/00r4Bh9aFIb7yHux1Kg0ub"
-      },
-      "artists": [
-        {
-          "name": "Fran\u00e7oise Hardy",
-          "url": "https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g"
-        }
-      ],
-      "duration_ms": 137160,
-      "name": "Mon amie la rose",
-      "url": "https://open.spotify.com/track/1rMX4XuW4KzgYlAyEaDmpO"
     },
     {
       "added_at": "2026-01-21 14:43:12",
@@ -611,22 +611,6 @@
     {
       "added_at": "2026-01-21 14:43:12",
       "album": {
-        "name": "Tarentelle",
-        "url": "https://open.spotify.com/album/74ZWi5tnm2gY5ubaMMfSgu"
-      },
-      "artists": [
-        {
-          "name": "Yves Duteil",
-          "url": "https://open.spotify.com/artist/3LOaK3KF7jOJRsZ8J3aMSl"
-        }
-      ],
-      "duration_ms": 258826,
-      "name": "Prendre un enfant",
-      "url": "https://open.spotify.com/track/5ArboR4WpgNf6bClJA8Xiw"
-    },
-    {
-      "added_at": "2026-01-21 14:43:12",
-      "album": {
         "name": "\u00c0 TOUS LES B\u00c2TARDS",
         "url": "https://open.spotify.com/album/4RDBA4Eb8n6KDYzX3wBEeY"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 194280,
       "name": "Kiss",
       "url": "https://open.spotify.com/track/3yds1YFMJkj93vdCJuxsJS"
+    },
+    {
+      "added_at": "2026-01-21 14:43:12",
+      "album": {
+        "name": "Tarentelle",
+        "url": "https://open.spotify.com/album/74ZWi5tnm2gY5ubaMMfSgu"
+      },
+      "artists": [
+        {
+          "name": "Yves Duteil",
+          "url": "https://open.spotify.com/artist/3LOaK3KF7jOJRsZ8J3aMSl"
+        }
+      ],
+      "duration_ms": 258826,
+      "name": "Prendre un enfant",
+      "url": "https://open.spotify.com/track/5ArboR4WpgNf6bClJA8Xiw"
     },
     {
       "added_at": "2026-01-21 14:43:12",
@@ -883,22 +883,6 @@
     {
       "added_at": "2026-01-21 14:43:12",
       "album": {
-        "name": "On ne change pas",
-        "url": "https://open.spotify.com/album/5uIfKRSjRf70LnCTCw2jJO"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 214600,
-      "name": "S'il suffisait d'aimer",
-      "url": "https://open.spotify.com/track/5QsVz6hMVGPia0NOMQ8wOS"
-    },
-    {
-      "added_at": "2026-01-21 14:43:12",
-      "album": {
         "name": "Au Nom D'Une Femme",
         "url": "https://open.spotify.com/album/3uaw8NfCYdRLPLpslvQMzu"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 305493,
       "name": "Elle, tu l'aimes",
       "url": "https://open.spotify.com/track/08nsSNtxmSCCjq546wZ2E7"
+    },
+    {
+      "added_at": "2026-01-21 14:43:12",
+      "album": {
+        "name": "On ne change pas",
+        "url": "https://open.spotify.com/album/5uIfKRSjRf70LnCTCw2jJO"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 214600,
+      "name": "S'il suffisait d'aimer",
+      "url": "https://open.spotify.com/track/5QsVz6hMVGPia0NOMQ8wOS"
     },
     {
       "added_at": "2026-01-21 14:43:12",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2026-01-21 14:43:12",
       "album": {
-        "name": "Petite Amie (Edition D\u00e9lice)",
-        "url": "https://open.spotify.com/album/2aVn7kwlqc8OmtEqpmuf3N"
-      },
-      "artists": [
-        {
-          "name": "Juliette Armanet",
-          "url": "https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa"
-        }
-      ],
-      "duration_ms": 186026,
-      "name": "Manque d'Amour",
-      "url": "https://open.spotify.com/track/3AtdizIe78tjWmbyZbgIoV"
-    },
-    {
-      "added_at": "2026-01-21 14:43:12",
-      "album": {
         "name": "Les femmes id\u00e9ales",
         "url": "https://open.spotify.com/album/2cpyU2HuvpC3LyCHJn12XO"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 171480,
       "name": "Nous deux contre le reste du monde - Version Acoustique",
       "url": "https://open.spotify.com/track/7hwdkcVXdn0NjMJHWFtVl8"
+    },
+    {
+      "added_at": "2026-01-21 14:43:12",
+      "album": {
+        "name": "Petite Amie (Edition D\u00e9lice)",
+        "url": "https://open.spotify.com/album/2aVn7kwlqc8OmtEqpmuf3N"
+      },
+      "artists": [
+        {
+          "name": "Juliette Armanet",
+          "url": "https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa"
+        }
+      ],
+      "duration_ms": 186026,
+      "name": "Manque d'Amour",
+      "url": "https://open.spotify.com/track/3AtdizIe78tjWmbyZbgIoV"
     },
     {
       "added_at": "2026-01-21 14:43:12",
@@ -1115,18 +1115,18 @@
     {
       "added_at": "2026-01-21 14:43:12",
       "album": {
-        "name": "Les sunlights des tropiques",
-        "url": "https://open.spotify.com/album/1QvbWsfTt1L4EGUWJBzyd6"
+        "name": "Histoires vraies",
+        "url": "https://open.spotify.com/album/3WI5EDJiOFRxy29CfzPZbp"
       },
       "artists": [
         {
-          "name": "Janie",
-          "url": "https://open.spotify.com/artist/2WSFLb1izcqFnU9KakhCnU"
+          "name": "chien noir",
+          "url": "https://open.spotify.com/artist/2MdOIYu5xlRSog6P2i4uwP"
         }
       ],
-      "duration_ms": 220066,
-      "name": "Les sunlights des tropiques",
-      "url": "https://open.spotify.com/track/7uedDMiSQYvV2Ej1Ee6NDV"
+      "duration_ms": 213253,
+      "name": "Histoire vraie",
+      "url": "https://open.spotify.com/track/7FX0CUpcPXEQYp4tdeod4g"
     },
     {
       "added_at": "2026-01-21 14:43:12",
@@ -1155,18 +1155,18 @@
     {
       "added_at": "2026-01-21 14:43:12",
       "album": {
-        "name": "Histoires vraies",
-        "url": "https://open.spotify.com/album/3WI5EDJiOFRxy29CfzPZbp"
+        "name": "Les sunlights des tropiques",
+        "url": "https://open.spotify.com/album/1QvbWsfTt1L4EGUWJBzyd6"
       },
       "artists": [
         {
-          "name": "chien noir",
-          "url": "https://open.spotify.com/artist/2MdOIYu5xlRSog6P2i4uwP"
+          "name": "Janie",
+          "url": "https://open.spotify.com/artist/2WSFLb1izcqFnU9KakhCnU"
         }
       ],
-      "duration_ms": 213253,
-      "name": "Histoire vraie",
-      "url": "https://open.spotify.com/track/7FX0CUpcPXEQYp4tdeod4g"
+      "duration_ms": 220066,
+      "name": "Les sunlights des tropiques",
+      "url": "https://open.spotify.com/track/7uedDMiSQYvV2Ej1Ee6NDV"
     },
     {
       "added_at": "2026-01-21 14:43:12",

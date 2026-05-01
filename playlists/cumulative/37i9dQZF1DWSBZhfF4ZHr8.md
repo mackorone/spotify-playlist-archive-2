@@ -2,9 +2,9 @@
 
 ### [Fresh Variété](https://open.spotify.com/playlist/37i9dQZF1DWSBZhfF4ZHr8)
 
-> Les meilleures nouveautés de la variété française avec Marguerite
+> Les meilleures nouveautés de la variété française avec Lenaïg
 
-475 songs - 23 hr 24 min
+478 songs - 23 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Ames perdues](https://open.spotify.com/track/6u9B5hy3ylqnVWEZRCIHOq) | [P3GASE](https://open.spotify.com/artist/5gp2bynafc2IgEWzOBAbIe) | [r3ves](https://open.spotify.com/album/4Q4yf5tcrkFOKBQkUwBvap) | 3:06 | 2024-11-14 | 2025-01-10 |
 | [Amour cyclone](https://open.spotify.com/track/7BoQ3BKIGuJ7jNELvegsdb) | [Styleto](https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5) | [Fille lacrymale](https://open.spotify.com/album/0CUK4fhtoGwwjh18Q02LMd) | 2:58 | 2025-03-06 | 2025-05-09 |
 | [Amour Propre](https://open.spotify.com/track/2tJwgIuMmG0XsuJ9LOl732) | [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o) | [Amour Propre](https://open.spotify.com/album/6HBuRorkCC8wE32Ez5o9Zr) | 3:29 | 2025-10-23 | 2026-02-13 |
-| [Amoureuse](https://open.spotify.com/track/3PQmX1mupYapRFR57k7lea) | [Maheva](https://open.spotify.com/artist/7lh9dYePSSj2fkenGXAmuz) | [Nous deux \(Edition Deluxe\)](https://open.spotify.com/album/3L21t9BVqcJ8O49DlsCh3A) | 2:42 | 2026-02-19 |  |
+| [Amoureuse](https://open.spotify.com/track/3PQmX1mupYapRFR57k7lea) | [Maheva](https://open.spotify.com/artist/7lh9dYePSSj2fkenGXAmuz) | [Nous deux \(Edition Deluxe\)](https://open.spotify.com/album/3L21t9BVqcJ8O49DlsCh3A) | 2:42 | 2026-02-19 | 2026-05-01 |
 | [Amère](https://open.spotify.com/track/2LKcg2tRu36P7WnvSeZSnX) | [Vernis Rouge](https://open.spotify.com/artist/6Miu2EYSCD74K7VzDYostC) | [Amère](https://open.spotify.com/album/7D1iEGT0tmSrwX2e0tlqDa) | 2:27 | 2024-06-27 | 2024-10-04 |
 | [Après nous](https://open.spotify.com/track/29y8gwKrKe8ppXXFg3ILqY) | [Sab](https://open.spotify.com/artist/0Nvj3odmXbXYyAvkyF4Eal), [Stéphane](https://open.spotify.com/artist/1ONaDILNtXKICFlrBdmgif) | [Après nous](https://open.spotify.com/album/7pJ9mUBe8H10izh3hbbBV9) | 3:01 | 2025-09-18 | 2025-12-12 |
 | [Au dessus des nuages](https://open.spotify.com/track/6ioB8gvjuMsrLxdlwJpeC1) | [Geoffrey](https://open.spotify.com/artist/3kB7ObACEFRh7mKeB1RstK) | [Au dessus des nuages](https://open.spotify.com/album/2hUw8a8vbQOWFLSYRYpwaT) | 2:29 | 2024-09-05 | 2024-11-22 |
@@ -92,6 +92,7 @@
 | [Dancing with my monsters](https://open.spotify.com/track/4vVHUMwyDhZvpr1yQp2wlo) | [June The Girl](https://open.spotify.com/artist/5YAuSUk0Vn6sZBId4I9cni) | [Sweet Thérapie](https://open.spotify.com/album/0FmlJdxV7Zuoy4hkHn4d8u) | 3:07 | 2025-09-04 | 2025-10-17 |
 | [Dans mes bras](https://open.spotify.com/track/5wvaUSx5FPRzIklTsErxzc) | [Ycare](https://open.spotify.com/artist/0hNK6eH7pXpC1yvhnFXTWB) | [Dans mes bras](https://open.spotify.com/album/6nLAMAFs1J7P9PLlnV3EjC) | 3:08 | 2025-02-13 | 2025-04-18 |
 | [Dans tes yeux](https://open.spotify.com/track/7edwJhO0eZpCMtfj3wcXuv) | [Camille Lellouche](https://open.spotify.com/artist/6os4KQUfJoyJwjZ7y7Ec6Q) | [II](https://open.spotify.com/album/4bur9otz02TklVA57a7bYO) | 2:54 | 2024-12-05 | 2025-01-10 |
+| [Dans ton téléphone](https://open.spotify.com/track/2yFt80jvLcPcG6irkBNpgy) | [Linh](https://open.spotify.com/artist/15h1AB4jpLCdXLZNT7glWj) | [Boîte à musique](https://open.spotify.com/album/7kMC5ESC9RaLcdyPELApb3) | 2:37 | 2026-04-30 |  |
 | [Dans un autre monde](https://open.spotify.com/track/2FImV41l1nKv3gLzhT1BCs) | [Lisa Pariente](https://open.spotify.com/artist/2D15WFlWJuCeEGC1LGss6X) | [Dans un autre monde](https://open.spotify.com/album/5scTVjfrAmCWhFznxEAIRM) | 3:22 | 2025-07-24 | 2025-10-10 |
 | [De l'or sur tes doigts](https://open.spotify.com/track/2G6aZJ8ucftHam37rA16ln) | [RIDSA](https://open.spotify.com/artist/4TGltjqP0MQxdGeSIrM4es) | [De l'or sur tes doigts](https://open.spotify.com/album/2xndNSOprEsjyGoemVgo6D) | 3:42 | 2025-04-24 | 2025-07-11 |
 | [Demain](https://open.spotify.com/track/5fhU1hRABiGlPsX84Ufw4w) | [Alien](https://open.spotify.com/artist/5Y80Kn16d4undgMzx4SaYS) | [L'orage](https://open.spotify.com/album/3O6SXe2rtSvjVDWIx0EFHs) | 2:27 | 2025-01-16 | 2025-04-11 |
@@ -199,7 +200,7 @@
 | [L'idylle](https://open.spotify.com/track/4HTlF3wt5o9o4ltWczJXdD) | [Trois Cafés Gourmands](https://open.spotify.com/artist/4wngxtsP87ozrQh05D90dO) | [Des ondes et des reflets \(Réédition\)](https://open.spotify.com/album/3iJmOyrpxp8kXp5m2ChnwW) | 2:55 | 2025-11-13 | 2026-01-23 |
 | [la boss](https://open.spotify.com/track/6xrDSwUTjEbFDmEaAjUQab) | [marguerite](https://open.spotify.com/artist/4jF2P66DtNEficnixuIhKQ) | [la boss](https://open.spotify.com/album/7u74BHRRxw58frd6WU1995) | 2:46 | 2026-02-19 |  |
 | [La Camisa Negra](https://open.spotify.com/track/6YXzUdghHSq7ZboxgIUoPN) | [Elliott](https://open.spotify.com/artist/5wDLFAbBdYDPPwAVA9UONC) | [La Camisa Negra](https://open.spotify.com/album/2LhMTdlwGApT9EJZI6nygE) | 2:39 | 2025-12-11 | 2026-03-06 |
-| [La chanson d'amour](https://open.spotify.com/track/1Ylc7I9K1eShClEH1NLFBo) | [Mentissa](https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS) | [La chanson d'amour](https://open.spotify.com/album/71VvbsJXaYjuYienm7G1j7) | 3:27 | 2026-02-05 |  |
+| [La chanson d'amour](https://open.spotify.com/track/1Ylc7I9K1eShClEH1NLFBo) | [Mentissa](https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS) | [La chanson d'amour](https://open.spotify.com/album/71VvbsJXaYjuYienm7G1j7) | 3:27 | 2026-02-05 | 2026-05-01 |
 | [La couleur de la mer \- Edit](https://open.spotify.com/track/4Y85ePGohVZx7zmsyKeIPE) | [Petit K](https://open.spotify.com/artist/6YfkvtZmlYJ9nct7G37wY6) | [La couleur de la mer](https://open.spotify.com/album/3hGqqPnjxzG0SO1KCYHdqP) | 2:35 | 2024-06-27 | 2024-08-30 |
 | [La Différence](https://open.spotify.com/track/05zHKOB7aXxEKN5nVZC7E6) | [SANTA](https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo) | [RECOMMENCE\-MOI](https://open.spotify.com/album/30M4RbTzpc2lH3OdSwJTgu) | 4:32 | 2024-06-27 | 2024-08-30 |
 | [La Différence \- Single Version](https://open.spotify.com/track/5NsBf8z5M6YLphAMrDYc0O) | [SANTA](https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo) | [La Différence](https://open.spotify.com/album/4LSuwbFznF7oBfnSyyu2GX) | 3:36 | 2025-01-09 | 2025-03-07 |
@@ -256,6 +257,7 @@
 | [Les rues de Paris](https://open.spotify.com/track/5a5XnQJtLLWdvuNRh2ESBS) | [La Légende de Monte Cristo](https://open.spotify.com/artist/35D6E6OKfnIlcZxln0E7ZJ), [Philippine Lavrey](https://open.spotify.com/artist/2o7TjwrbU1Q3BpUbUnQ9CY) | [Les rues de Paris](https://open.spotify.com/album/5bImxJN65kT26IMFzFuN1f) | 2:44 | 2026-01-01 | 2026-03-27 |
 | [Les étoiles](https://open.spotify.com/track/0qhFivak96RXIyePqIWIWx) | [Léman](https://open.spotify.com/artist/2EnOL1ADehfBQB03ELa3QQ) | [Les étoiles](https://open.spotify.com/album/3p3XIEqXV37o6CCdCEa0W8) | 2:43 | 2025-01-23 | 2025-04-18 |
 | [Let Me Go](https://open.spotify.com/track/4M8a60X9qBfIjJ0rDfNQUc) | [Diva Faune](https://open.spotify.com/artist/39l75cUNbVMpHgykQLyOUT), [Stéphane](https://open.spotify.com/artist/1ONaDILNtXKICFlrBdmgif) | [Let Me Go](https://open.spotify.com/album/1PuCjuF1fBuuh6SwLclfns) | 2:50 | 2025-11-20 | 2026-02-27 |
+| [Libertà](https://open.spotify.com/track/0pAdIWqcWYbeQeYsSgitia) | [César](https://open.spotify.com/artist/29QLxgXz1rdMvaVK2aWFlU) | [Libertà](https://open.spotify.com/album/68bhRlQAHBfPvrFVFLiw1E) | 3:01 | 2026-04-30 |  |
 | [Lili](https://open.spotify.com/track/0T0R06h8bFxkg8hIkPLcK4) | [Maëlle](https://open.spotify.com/artist/5Ha8JdCWeJ8vdqEhzgiSU5) | [Lili](https://open.spotify.com/album/5HeBB6D3mwrrhQcDeDU5il) | 2:45 | 2026-03-12 |  |
 | [Loin de moi](https://open.spotify.com/track/6gFhvz16DS2v7MkyPe0Urr) | [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6), [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [à 2 à 3 \(Deluxe\)](https://open.spotify.com/album/3S8YZV8vEQCOkLtpy8a3TW) | 2:51 | 2024-11-21 | 2025-01-10 |
 | [Love Noir](https://open.spotify.com/track/3QSfWyXeGEpEoMpufPPtot) | [Zaoui](https://open.spotify.com/artist/5nrmuhl0AXvSLeoZgB3Tmr), [Stéphane](https://open.spotify.com/artist/1ONaDILNtXKICFlrBdmgif) | [Love Noir](https://open.spotify.com/album/4q3khzl3yEiqMcry65Q4ZW) | 2:51 | 2026-04-09 |  |
@@ -323,6 +325,7 @@
 | [Panique à Paris \(TimeMachine 1985 Remix\)](https://open.spotify.com/track/0BlzANbVeirejZbA531CM5) | [Lucille](https://open.spotify.com/artist/5GPmxu2WE6tusMcK0WQdS2), [TimeMachine1985](https://open.spotify.com/artist/2XgfAq6E80cypDmNZ5JXGv) | [Panique à Paris \(TimeMachine 1985 Remix\)](https://open.spotify.com/album/6BLMYvSZkyIvfZdp0psSsu) | 3:00 | 2025-02-06 | 2025-03-16 |
 | [Papa](https://open.spotify.com/track/4LXEefVm05vkHCF43zC8bJ) | [DAYSY](https://open.spotify.com/artist/6vorHF3qW6vODkQP51kGlk) | [Papa](https://open.spotify.com/album/093D26r87WUjIS9cPvSuOT) | 2:49 | 2024-06-27 | 2024-09-20 |
 | [Papa dis\-moi](https://open.spotify.com/track/5sij5devnFg3Uf5BhSLAZS) | [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1), [Luna](https://open.spotify.com/artist/6WoNc6jV6PQq1wtZLmGJDY) | [Freedom](https://open.spotify.com/album/4dRr6s3IPF9OWzr6qIBQEt) | 2:35 | 2024-06-27 | 2024-09-27 |
+| [Papillons](https://open.spotify.com/track/54GTl6q8VYEtd9FxvHcFqN) | [EMA](https://open.spotify.com/artist/5sBs3oeSyC5mNZimFy1QHY) | [Papillons](https://open.spotify.com/album/5wN17JXmD8stoZsVoWYPOf) | 2:26 | 2026-04-30 |  |
 | [Par coeur \(feat\. Joseph Kamel\)](https://open.spotify.com/track/1grONqhU4gXxscprACJbzW) | [DAYSY](https://open.spotify.com/artist/6vorHF3qW6vODkQP51kGlk), [Joseph Kamel](https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI) | [Par coeur \(feat\. Joseph Kamel\)](https://open.spotify.com/album/2hJlidZGq5ot2B9X6qEpze) | 2:55 | 2025-10-02 | 2026-01-23 |
 | [Pardon](https://open.spotify.com/track/3R5JeMirRv4nyLHcI9EkOG) | [DAYSY](https://open.spotify.com/artist/6vorHF3qW6vODkQP51kGlk) | [Pardon](https://open.spotify.com/album/11cA5542CyoY9LF0S5HYnY) | 2:37 | 2026-04-09 |  |
 | [Paris](https://open.spotify.com/track/1RF0JuRVgZTTlJ5plNE1Je) | [21 Juin Le Duo](https://open.spotify.com/artist/0UUuBtaLyglYTbgfjTw1vT) | [Paris](https://open.spotify.com/album/2gOfzHzdcsCfOpVlp2lqwd) | 2:53 | 2024-06-27 | 2024-07-27 |
@@ -348,7 +351,7 @@
 | [Poupée \- Edit](https://open.spotify.com/track/2ZNW7MBOtyghTTEmuNTfoD) | [Montemarco](https://open.spotify.com/artist/3A86WsWLl8c2VVUhIKbQHq) | [Poupée \(Edit\)](https://open.spotify.com/album/3AllFq7d0qGaXKaEfSDhTc) | 2:43 | 2025-06-19 | 2025-09-19 |
 | [Poupée Soldat](https://open.spotify.com/track/0HxEXFr7iZHIwOyCel7D9y) | [Laura Ferré](https://open.spotify.com/artist/0F01Y7t6Vim2IbJ2tSQnxa) | [Poupée Soldat](https://open.spotify.com/album/62SAM2R8nrAXUWoykkvC1n) | 2:58 | 2025-09-11 | 2025-12-05 |
 | [Pour de bon](https://open.spotify.com/track/2kmIpQXsWwIpvZJ8qr7pGJ) | [Mathieu Des Longchamps](https://open.spotify.com/artist/48wxYtSTJqSdqxsV1z473V) | [Pour de bon](https://open.spotify.com/album/15u1xo6nKkDazmuaiR9k1I) | 3:35 | 2024-12-12 | 2025-01-17 |
-| [Pour l'éternité](https://open.spotify.com/track/7c2G5O1aLTELM9U9UFroMR) | [Linh](https://open.spotify.com/artist/15h1AB4jpLCdXLZNT7glWj) | [Pour l'éternité](https://open.spotify.com/album/6v29dTzAAGyX5jXC65ujw4) | 2:59 | 2026-02-05 |  |
+| [Pour l'éternité](https://open.spotify.com/track/7c2G5O1aLTELM9U9UFroMR) | [Linh](https://open.spotify.com/artist/15h1AB4jpLCdXLZNT7glWj) | [Pour l'éternité](https://open.spotify.com/album/6v29dTzAAGyX5jXC65ujw4) | 2:59 | 2026-02-05 | 2026-05-01 |
 | [Pourquoi ?](https://open.spotify.com/track/58Pie8O9NHYEITXYzkqbLm) | [Patxi](https://open.spotify.com/artist/0gSwb8hjVjngaLSPYOcpy9), [Sylvain Duthu](https://open.spotify.com/artist/7mlvN5fTEjTUBLuUbUPpW6) | [Pourquoi ?](https://open.spotify.com/album/2tNEEMApXdjVjHbV3EzPcP) | 2:58 | 2026-01-22 | 2026-04-10 |
 | [Pourquoi c'est ma faute](https://open.spotify.com/track/0wBlKAIz4OHYOmqPgyr0D0) | [Camille LV](https://open.spotify.com/artist/73MUbbxCJGpiMBz0fFO8is) | [Pourquoi c'est ma faute](https://open.spotify.com/album/53PrOEpLchGMYxlFfUQs0a) | 2:26 | 2025-11-13 | 2026-02-06 |
 | [Pourquoi tu m'aimes ?](https://open.spotify.com/track/3QHijDVJc8IoanrBD1J2Ha) | [EMA](https://open.spotify.com/artist/5sBs3oeSyC5mNZimFy1QHY) | [Pourquoi tu m'aimes ?](https://open.spotify.com/album/4nzCs9Ub1F8BKG7aDwofdE) | 2:24 | 2026-03-26 |  |

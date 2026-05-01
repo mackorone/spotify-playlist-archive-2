@@ -1715,6 +1715,28 @@
     },
     {
       "album": {
+        "name": "Mickey Mouse Clubhouse Theme (Toddler Techno Remix) [From: \"Mickey Mouse Clubhouse\u201d]",
+        "url": "https://open.spotify.com/album/7iEIF90Rkwfm2tUNROIfI3"
+      },
+      "artists": [
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        },
+        {
+          "name": "Lenny Pearce",
+          "url": "https://open.spotify.com/artist/7uIJwRIdyBYonDeoFJCqh8"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86294,
+      "name": "Mickey Mouse Clubhouse Theme (Toddler Techno Remix) - From: \"Mickey Mouse Clubhouse\u201d",
+      "url": "https://open.spotify.com/track/1zFsGb2xEcJUtclxJvGLRh"
+    },
+    {
+      "album": {
         "name": "Disney Peaceful Piano: Focus",
         "url": "https://open.spotify.com/album/2M12PscQNEqhVaKd2wu1d9"
       },

@@ -308,7 +308,7 @@
       ],
       "date_added": "2025-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 177000,
       "name": "A Day",
       "url": "https://open.spotify.com/track/2D5oPboweT5vaFJ4JYUJ6W"
@@ -416,7 +416,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 232000,
       "name": "A Lie That Says I'm Fine",
       "url": "https://open.spotify.com/track/42UMF5PTrHF10go5IRzmFE"
@@ -1952,7 +1952,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 230000,
       "name": "Anytime anyhow",
       "url": "https://open.spotify.com/track/4HJrl12B8chdel9ihKbM6D"
@@ -2759,6 +2759,24 @@
     },
     {
       "album": {
+        "name": "Because It's Raining",
+        "url": "https://open.spotify.com/album/2yFpR6EV5X4faofOSWhhot"
+      },
+      "artists": [
+        {
+          "name": "RYU MIN HEE",
+          "url": "https://open.spotify.com/artist/0Le2D9d1fECvdS0fYWkyjg"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259846,
+      "name": "Because It\u2032s Raining",
+      "url": "https://open.spotify.com/track/0t2GFirVkkczyT5nBmjoVQ"
+    },
+    {
+      "album": {
         "name": "Because of love",
         "url": "https://open.spotify.com/album/6pfIavz40knR8l2TixGw5X"
       },
@@ -3514,6 +3532,24 @@
       "duration_ms": 179871,
       "name": "Bluebird",
       "url": "https://open.spotify.com/track/7JC9LqrsGddVUm1s1kkVtM"
+    },
+    {
+      "album": {
+        "name": "bluescreen",
+        "url": "https://open.spotify.com/album/6syQENwrbxw2L266pROpdn"
+      },
+      "artists": [
+        {
+          "name": "JI SUYEON",
+          "url": "https://open.spotify.com/artist/70iA690AZviTkQKgfjlSK6"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205000,
+      "name": "bluescreen",
+      "url": "https://open.spotify.com/track/3ZXW65JwQ2hwQab4dOSP9b"
     },
     {
       "album": {
@@ -6686,7 +6722,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 229000,
       "name": "Even If the World Ends",
       "url": "https://open.spotify.com/track/7kWZS3Xgz28xmkfEWFlvli"
@@ -8774,7 +8810,7 @@
       ],
       "date_added": "2025-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 213000,
       "name": "Gravity of You",
       "url": "https://open.spotify.com/track/2kbxOrQUGHjDzuFpIs8Hev"
@@ -9382,6 +9418,24 @@
       "duration_ms": 155546,
       "name": "her",
       "url": "https://open.spotify.com/track/3IrVcKEjHyqcqBUPz9ppjy"
+    },
+    {
+      "album": {
+        "name": "Her",
+        "url": "https://open.spotify.com/album/2SfEXtWabqXTW352s1xZ05"
+      },
+      "artists": [
+        {
+          "name": "Yang Da Il",
+          "url": "https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187000,
+      "name": "Her",
+      "url": "https://open.spotify.com/track/1ZAmtSyw4xcqnyhXgDWu0u"
     },
     {
       "album": {
@@ -19014,6 +19068,24 @@
     {
       "album": {
         "name": "On such a wonderful night",
+        "url": "https://open.spotify.com/album/4f2toQm38HkmoRDWKCM1s7"
+      },
+      "artists": [
+        {
+          "name": "Cha ga eul",
+          "url": "https://open.spotify.com/artist/4mSV7GdIFUByJJVxI4HyOi"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213529,
+      "name": "On such a wonderful night",
+      "url": "https://open.spotify.com/track/2nnIHyTZOnFvkYeKeebFvu"
+    },
+    {
+      "album": {
+        "name": "On such a wonderful night",
         "url": "https://open.spotify.com/album/5HpaXffkKOfi78iGPG656S"
       },
       "artists": [
@@ -23600,7 +23672,7 @@
       ],
       "date_added": "2025-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 212000,
       "name": "Still Here",
       "url": "https://open.spotify.com/track/2el8yRLvLFS5sxdcqjhDLS"
@@ -25146,6 +25218,28 @@
       "duration_ms": 232880,
       "name": "The garden of adverbs (feat. Lee Hi)",
       "url": "https://open.spotify.com/track/6wP9dxp1ZYIe9qrcpJhzko"
+    },
+    {
+      "album": {
+        "name": "The girl who resembles you",
+        "url": "https://open.spotify.com/album/5k5zP2tp6VoOWIlDcJWZpz"
+      },
+      "artists": [
+        {
+          "name": "Hwang In Wook",
+          "url": "https://open.spotify.com/artist/56U7IcfF1h54ZxOPqjEnjq"
+        },
+        {
+          "name": "Ha Yea Song",
+          "url": "https://open.spotify.com/artist/4Kw6Puq72YDjXvVBrBkdw3"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "The girl who resembles you (feat. Ha Yea Song)",
+      "url": "https://open.spotify.com/track/1851TpHKK4pmMVBsqZQZer"
     },
     {
       "album": {
@@ -27500,7 +27594,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 221000,
       "name": "Waiting For You (feat. Danny Koo)",
       "url": "https://open.spotify.com/track/2upF0nACk3Afl8njq0zunH"
@@ -29324,6 +29418,24 @@
       "duration_ms": 189000,
       "name": "With You",
       "url": "https://open.spotify.com/track/1x6WUoLbisdDYtJje4bFBN"
+    },
+    {
+      "album": {
+        "name": "With You (from Sold Out On You (Original Soundtrack) part 5)",
+        "url": "https://open.spotify.com/album/7rSG8qogZHS0vUk251fSRi"
+      },
+      "artists": [
+        {
+          "name": "Roy Kim",
+          "url": "https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196953,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/78kjGxSfPU6YV5Rjej6Ebt"
     },
     {
       "album": {
@@ -31414,6 +31526,24 @@
       "duration_ms": 285013,
       "name": "\uc0ac\ub791\ud588\uc9c0\ub9cc",
       "url": "https://open.spotify.com/track/53pfvWjnZVSLgp97QjsBPm"
+    },
+    {
+      "album": {
+        "name": "\uc11c\uc57d",
+        "url": "https://open.spotify.com/album/5f9DeqwWq7K8RgwMt0yKXO"
+      },
+      "artists": [
+        {
+          "name": "KIM KI TAE",
+          "url": "https://open.spotify.com/artist/1neQgeyH87u1WiArgIv0nI"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247000,
+      "name": "\uc11c\uc57d",
+      "url": "https://open.spotify.com/track/5RjcLRYWQsKi7KMTw4eGhp"
     },
     {
       "album": {

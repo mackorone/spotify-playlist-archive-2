@@ -1,28 +1,48 @@
 {
-  "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: Sliver",
-  "num_followers": 114603,
+  "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: Societeit de Harmonie, Natasya Elvira",
+  "num_followers": 114618,
   "original_name": "Jazz Anak Negeri",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAXUbsEUBQyu48IiYFVocYrplfAT",
+  "snapshot_id": "AAAAANnL8DixHdZz/oSyA7LnQKLgBaS9",
   "tracks": [
     {
-      "added_at": "2026-04-23 18:00:12",
+      "added_at": "2026-04-30 18:00:40",
       "album": {
-        "name": "Berubah",
-        "url": "https://open.spotify.com/album/1WB8OEzRWFp3AwuBQBj31P"
+        "name": "UNGKAPAN",
+        "url": "https://open.spotify.com/album/51MIrc6WAkPgBwFHj5Whnv"
       },
       "artists": [
         {
-          "name": "Sliver",
-          "url": "https://open.spotify.com/artist/1H205Qygv9rL8hwVlS1i8W"
+          "name": "Societeit de Harmonie",
+          "url": "https://open.spotify.com/artist/1KH1jCwChcxJG9GKUUfCt9"
+        },
+        {
+          "name": "Natasya Elvira",
+          "url": "https://open.spotify.com/artist/6lNWlJEtPCkkWE6P17fUIw"
         }
       ],
-      "duration_ms": 236334,
-      "name": "Berubah",
-      "url": "https://open.spotify.com/track/6P4dRibGfA4VRizaoPQOX7"
+      "duration_ms": 187668,
+      "name": "Rasa-Rasanya",
+      "url": "https://open.spotify.com/track/34lfGTcKx5HUff5WflAtY4"
+    },
+    {
+      "added_at": "2026-04-30 18:00:40",
+      "album": {
+        "name": "Ode to You",
+        "url": "https://open.spotify.com/album/0XDyPUaUHFP0QIBI3zsqYV"
+      },
+      "artists": [
+        {
+          "name": "Oele Pattiselanno",
+          "url": "https://open.spotify.com/artist/1ZJqx7fEe6VOVslpDvvCAp"
+        }
+      ],
+      "duration_ms": 319900,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/0nFukU7yysWlBffSCV6Vsp"
     },
     {
       "added_at": "2026-04-23 18:00:12",
@@ -59,6 +79,22 @@
       "duration_ms": 185002,
       "name": "Kasi Kasi Kasi",
       "url": "https://open.spotify.com/track/7hlngcokcrvJ3NQQdlHjli"
+    },
+    {
+      "added_at": "2026-04-23 18:00:12",
+      "album": {
+        "name": "Berubah",
+        "url": "https://open.spotify.com/album/1WB8OEzRWFp3AwuBQBj31P"
+      },
+      "artists": [
+        {
+          "name": "Sliver",
+          "url": "https://open.spotify.com/artist/1H205Qygv9rL8hwVlS1i8W"
+        }
+      ],
+      "duration_ms": 236334,
+      "name": "Berubah",
+      "url": "https://open.spotify.com/track/6P4dRibGfA4VRizaoPQOX7"
     },
     {
       "added_at": "2026-03-12 18:00:19",
@@ -107,6 +143,22 @@
       "duration_ms": 462000,
       "name": "Sleepless Light (Deluxe Version) - Live",
       "url": "https://open.spotify.com/track/0JBOJ6hCMnNx33C7b5BF43"
+    },
+    {
+      "added_at": "2026-04-30 18:00:40",
+      "album": {
+        "name": "DIALOG HARMONIC",
+        "url": "https://open.spotify.com/album/4zcRbIu4jESGno2d6PiQZN"
+      },
+      "artists": [
+        {
+          "name": "BASS3",
+          "url": "https://open.spotify.com/artist/699YFQDGdOETicov1Z7oSt"
+        }
+      ],
+      "duration_ms": 382736,
+      "name": "DIALOG HARMONIC",
+      "url": "https://open.spotify.com/track/4dSq50NNTNlNYuLEbKFRnq"
     },
     {
       "added_at": "2026-02-12 19:00:27",
@@ -1015,26 +1067,6 @@
     {
       "added_at": "2025-06-26 17:47:30",
       "album": {
-        "name": "Harmonia (feat. Desmond Amos)",
-        "url": "https://open.spotify.com/album/2wtfL0DRsq1rp5tzL7nSHO"
-      },
-      "artists": [
-        {
-          "name": "Nathania Jualim",
-          "url": "https://open.spotify.com/artist/3luT9sLplqCrraMvMDPRwK"
-        },
-        {
-          "name": "Desmond Amos",
-          "url": "https://open.spotify.com/artist/6tDcNMe4ou6JkX6TtaPabI"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "Harmonia (feat. Desmond Amos)",
-      "url": "https://open.spotify.com/track/3XPVJWfWP1DH1Ly3EX8xbw"
-    },
-    {
-      "added_at": "2025-06-26 17:47:30",
-      "album": {
         "name": "Feeling",
         "url": "https://open.spotify.com/album/2ZY2Kiukixr1VqBotNsTmf"
       },
@@ -1399,26 +1431,6 @@
       "duration_ms": 208194,
       "name": "Keriput",
       "url": "https://open.spotify.com/track/4GJiXb71ecPncdDcg0wMcP"
-    },
-    {
-      "added_at": "2025-06-26 17:47:30",
-      "album": {
-        "name": "Perjalanan",
-        "url": "https://open.spotify.com/album/0P74BQZP32tDrGbYaHHeeb"
-      },
-      "artists": [
-        {
-          "name": "5Petani",
-          "url": "https://open.spotify.com/artist/2gcy19PBJyMIGP5avLkzCp"
-        },
-        {
-          "name": "Adeavery",
-          "url": "https://open.spotify.com/artist/2LKa7eyIqxqTLgEvlzk1bl"
-        }
-      ],
-      "duration_ms": 267000,
-      "name": "Membumi",
-      "url": "https://open.spotify.com/track/0TvmXKdVpjJtqVRzDlG9UA"
     },
     {
       "added_at": "2025-06-26 17:47:30",

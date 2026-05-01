@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: FLY LO",
+  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Bossikan",
   "name": "Hot Greek Rap",
   "tracks": [
     {
@@ -432,7 +432,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 141333,
       "name": "50 CENT",
       "url": "https://open.spotify.com/track/27f62QDRVencjisrZxarp9"
@@ -1419,6 +1419,24 @@
     },
     {
       "album": {
+        "name": "Ergo 3",
+        "url": "https://open.spotify.com/album/25mlVZYFC2FTLJSjNoPLGt"
+      },
+      "artists": [
+        {
+          "name": "Bossikan",
+          "url": "https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125217,
+      "name": "Artistas",
+      "url": "https://open.spotify.com/track/5QHUBy0eDXgnTAbipq1hql"
+    },
+    {
+      "album": {
         "name": "ASPRO / PICASSO FREESTYLE",
         "url": "https://open.spotify.com/album/69uWZYlSUROhjH477Yk3ZK"
       },
@@ -1604,6 +1622,36 @@
       "duration_ms": 139510,
       "name": "Automatic",
       "url": "https://open.spotify.com/track/66lzDOj7nOuv3Au4O9LXC3"
+    },
+    {
+      "album": {
+        "name": "AVASIMA STOIXEIA",
+        "url": "https://open.spotify.com/album/4zBlFHNnuPZOuTwEJd6Nzm"
+      },
+      "artists": [
+        {
+          "name": "Dani Gambino",
+          "url": "https://open.spotify.com/artist/0JDrljGBQpzIKFIcZ4R1H4"
+        },
+        {
+          "name": "SIDARTA",
+          "url": "https://open.spotify.com/artist/3jPN2U65cMPzvozEBue5zp"
+        },
+        {
+          "name": "Th Mark",
+          "url": "https://open.spotify.com/artist/3ll1Oo6EwG4s6xrAapzUVm"
+        },
+        {
+          "name": "Grandbois",
+          "url": "https://open.spotify.com/artist/4Ke4cWvHCmm8sOlCcaeOlu"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250212,
+      "name": "AVASIMA STOIXEIA",
+      "url": "https://open.spotify.com/track/3Nb7cNFSCPpr8FAyNNxUq7"
     },
     {
       "album": {
@@ -5252,7 +5300,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 166666,
       "name": "Friday 13",
       "url": "https://open.spotify.com/track/0HFrdPNAuPtkVGTizWcJyT"
@@ -5388,6 +5436,32 @@
       "duration_ms": 281097,
       "name": "Fylla Dafnhs",
       "url": "https://open.spotify.com/track/0yxfVYUQZYeK3z67SzP9Ea"
+    },
+    {
+      "album": {
+        "name": "GAMATA",
+        "url": "https://open.spotify.com/album/0itRd5qcnS2FExwbJGqUoo"
+      },
+      "artists": [
+        {
+          "name": "TAFF",
+          "url": "https://open.spotify.com/artist/7sqEbHUwpaJTFqLv8e0W0J"
+        },
+        {
+          "name": "TORO",
+          "url": "https://open.spotify.com/artist/2WOOBiFlIFVqfzgr3zQhgd"
+        },
+        {
+          "name": "Ortiz",
+          "url": "https://open.spotify.com/artist/6nidPawoE1wPgAtFmeyXyR"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140869,
+      "name": "GAMATA",
+      "url": "https://open.spotify.com/track/3E2BHHIrNZV3O8B8V4HJ9I"
     },
     {
       "album": {
@@ -6192,6 +6266,24 @@
       "duration_ms": 119194,
       "name": "Gucci",
       "url": "https://open.spotify.com/track/2wEOegecPhTBtz8iEutO9P"
+    },
+    {
+      "album": {
+        "name": "Gucci Bag",
+        "url": "https://open.spotify.com/album/1BXZBS4RMQcRTTw7JbSsqu"
+      },
+      "artists": [
+        {
+          "name": "CHEKKIS",
+          "url": "https://open.spotify.com/artist/43eXh1mPvuHJJg8xRELhYO"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136363,
+      "name": "Gucci Bag",
+      "url": "https://open.spotify.com/track/2O8JAIWrhkO46ctsGbzQS3"
     },
     {
       "album": {
@@ -7487,6 +7579,24 @@
     },
     {
       "album": {
+        "name": "KIDNAP",
+        "url": "https://open.spotify.com/album/5W6ZNuZo41ttPZXIroor16"
+      },
+      "artists": [
+        {
+          "name": "YungKapa",
+          "url": "https://open.spotify.com/artist/23iVXbj5uK4e3MtRQLNPdG"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130285,
+      "name": "KIDNAP",
+      "url": "https://open.spotify.com/track/593IDXEqWzQXcIL2WzOycV"
+    },
+    {
+      "album": {
         "name": "CR3AM T3AM",
         "url": "https://open.spotify.com/album/79orVjEStHd1MvmlIoAblg"
       },
@@ -7584,6 +7694,32 @@
       "duration_ms": 164610,
       "name": "Kodikas",
       "url": "https://open.spotify.com/track/6jJ0iqIH1CBZgvGnzsFryX"
+    },
+    {
+      "album": {
+        "name": "KOMODINO",
+        "url": "https://open.spotify.com/album/7BrEgSBHjI7UE23G7or2Jj"
+      },
+      "artists": [
+        {
+          "name": "BTK 187",
+          "url": "https://open.spotify.com/artist/5oTpSJMk6So6QV9SDqBPpz"
+        },
+        {
+          "name": "Ladron",
+          "url": "https://open.spotify.com/artist/02m75wzH05XASeDlPQMuMZ"
+        },
+        {
+          "name": "BeTaf Beats",
+          "url": "https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161032,
+      "name": "KOMODINO",
+      "url": "https://open.spotify.com/track/6h35W32qi70UPoSY3xB4Iu"
     },
     {
       "album": {
@@ -9351,6 +9487,24 @@
     },
     {
       "album": {
+        "name": "SUMMER GETAWAY",
+        "url": "https://open.spotify.com/album/3ALkCTlPvj7HC3cw26EvcI"
+      },
+      "artists": [
+        {
+          "name": "Likeboss",
+          "url": "https://open.spotify.com/artist/5gw7flNXQt0oQ5taY1as73"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133894,
+      "name": "MONH SOU",
+      "url": "https://open.spotify.com/track/7w0AdTkXv0UU1Xbzyaj9c7"
+    },
+    {
+      "album": {
         "name": "MONO ESY",
         "url": "https://open.spotify.com/album/3gJ7HsKlhfaChj2TK86ZQM"
       },
@@ -9698,6 +9852,32 @@
       "duration_ms": 198400,
       "name": "Napalm",
       "url": "https://open.spotify.com/track/33drGybPLf91WVPj6dj2yx"
+    },
+    {
+      "album": {
+        "name": "OFFLINE",
+        "url": "https://open.spotify.com/album/4mMTbAfTguwKyfM5pKYkM6"
+      },
+      "artists": [
+        {
+          "name": "Ggreco",
+          "url": "https://open.spotify.com/artist/1xmg9v1H65Mxv8bprL3yMU"
+        },
+        {
+          "name": "Takanuva",
+          "url": "https://open.spotify.com/artist/2ciuV1nz063tai3NKwomQs"
+        },
+        {
+          "name": "_OTS",
+          "url": "https://open.spotify.com/artist/1duTYTeIWqrESenXtZ3a82"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101250,
+      "name": "Napoli",
+      "url": "https://open.spotify.com/track/2GCbAJVtQp9lp7CTq8cPXS"
     },
     {
       "album": {
@@ -10354,7 +10534,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 130000,
       "name": "Oloi",
       "url": "https://open.spotify.com/track/3vf4jc8eUcmsFxmsygVz6v"
@@ -10774,7 +10954,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 152550,
       "name": "OTI GOUSTARO",
       "url": "https://open.spotify.com/track/5JQGTdzN1x0ujVUDhnhDPI"
@@ -11568,7 +11748,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 123919,
       "name": "PIJAMA PARTY",
       "url": "https://open.spotify.com/track/5pl6cRutu98Be17Qg3l3rp"
@@ -12814,7 +12994,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 138857,
       "name": "RP",
       "url": "https://open.spotify.com/track/0eS4UksBnRsMsS3eRH1ALh"
@@ -13548,7 +13728,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 198041,
       "name": "SMASH",
       "url": "https://open.spotify.com/track/3WKplt05SBig4CXVfERLf1"
@@ -14340,7 +14520,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 156097,
       "name": "TE QUIERO",
       "url": "https://open.spotify.com/track/3vw2KhRx62NVY8cMPTLVsl"
@@ -15444,7 +15624,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 120959,
       "name": "Vgazeis Cafe",
       "url": "https://open.spotify.com/track/4jeAxO6RFFP04pcYgvxabz"

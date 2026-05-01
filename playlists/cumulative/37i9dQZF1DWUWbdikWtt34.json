@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Dendang dangdut ngetop Tanah Air. Cover: Eby, Zahra Sima",
+  "description": "Dendang dangdut ngetop Tanah Air. Cover: Afan",
   "name": "Dangdut Top",
   "tracks": [
     {
@@ -3396,6 +3396,24 @@
       "duration_ms": 258367,
       "name": "Obati Rinduku - Acoustic",
       "url": "https://open.spotify.com/track/67cxYPcbVFaHZlrPrIGPE0"
+    },
+    {
+      "album": {
+        "name": "Oey",
+        "url": "https://open.spotify.com/album/0s1qmw1uBh9Lj7YbQ7TUX9"
+      },
+      "artists": [
+        {
+          "name": "Afan",
+          "url": "https://open.spotify.com/artist/0861WHgbfpUBsvIbU1b1ZD"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199436,
+      "name": "Oey",
+      "url": "https://open.spotify.com/track/5OFFf5MNEEFhdDPWTrdcwf"
     },
     {
       "album": {

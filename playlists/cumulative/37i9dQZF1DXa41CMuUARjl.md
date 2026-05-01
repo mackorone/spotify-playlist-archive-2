@@ -4,7 +4,7 @@
 
 > This week's best new <a href="spotify:genre:edm\_dance">dance and electronic releases</a> from Baauer, Adam Port + SG Lewis, Duke Dumont, & more!
 
-34,831 songs - 87 day 18 hr 36 min
+34,831 songs - 87 day 18 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25761,7 +25761,7 @@
 | [Saint\-Tropez](https://open.spotify.com/track/1BOPwQHchofiNCatmYFw9k) | [Tep No](https://open.spotify.com/artist/7MlotYZhHjOlXcvmwrITj8) | [Saint\-Tropez](https://open.spotify.com/album/2YZz9KIChuYQStbz0sfWxx) | 4:14 | 2021-10-09 | 2021-10-16 |
 | [Saints](https://open.spotify.com/track/28QTqDLE9jeOHNiMRtkquc) | [ECHOSYSTEM](https://open.spotify.com/artist/4AjcqEPNEc1l4ak9Lnqstl), [Mak & Pasteman](https://open.spotify.com/artist/72D2yFt9Tjzt1ryReiggXG) | [Saints](https://open.spotify.com/album/5Dq54EcygmbUrMGbrRBK5N) | 2:55 | 2026-04-17 | 2026-04-25 |
 | [Saints & Sinners](https://open.spotify.com/track/0JHHFmQhjiDO0J7ll4BQmQ) | [Cristoph](https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG) | [FaCet, Vol\. 1](https://open.spotify.com/album/7eeGn6KMLa7NVWM1GdtCqU) | 6:55 | 2023-03-10 | 2023-03-18 |
-| [Saints Row](https://open.spotify.com/track/4zcbOc7esusI3lgp6CsJU1) | [Funk Cartel](https://open.spotify.com/artist/5CTZ9x42i9fZmlzm3AEyX0) | [Saints Row](https://open.spotify.com/album/4KiqqNxYhNyUbSwSc4hSTG) | 5:26 | 2026-04-24 |  |
+| [Saints Row](https://open.spotify.com/track/4zcbOc7esusI3lgp6CsJU1) | [Funk Cartel](https://open.spotify.com/artist/5CTZ9x42i9fZmlzm3AEyX0) | [Saints Row](https://open.spotify.com/album/4KiqqNxYhNyUbSwSc4hSTG) | 2:58 | 2026-04-24 |  |
 | [Sakamoto](https://open.spotify.com/track/781f36AloYHfc0EVZCsNe9) | [Daze Prism](https://open.spotify.com/artist/6a6Q7o6ExNdEiVRK86oWLV) | [Sakamoto](https://open.spotify.com/album/4cphWAy4mti3N3xUGwSUnG) | 6:34 | 2021-09-11 | 2021-09-18 |
 | [Sakila \(feat\. Mwamba & Fédération Internationale du Bruit\)](https://open.spotify.com/track/7gV8ucFxnU0VR37gDg9MdT) | [Moonshine](https://open.spotify.com/artist/6uZcG9ex8hJKEo3XUyMxEX), [Spilulu](https://open.spotify.com/artist/0JXiPfPtSuON62oSTp4w7j), [Gafacci](https://open.spotify.com/artist/72qc1S2CYJyPc1vpTBDJfG), [Mwamba](https://open.spotify.com/artist/5VpE9q71Ar80HR6OpqSpSJ), [Fédération Internationale du Bruit](https://open.spotify.com/artist/66hejf9UqC4CcRtxOrA3XV) | [Sakila \(feat\. Mwamba & Fédération Internationale du Bruit\)](https://open.spotify.com/album/3Rt6Hr5epP4lKXhLI802l6) | 3:21 | 2024-01-26 | 2024-02-03 |
 | [Saku](https://open.spotify.com/track/2h8OnhWZCRGNjptZ9IurZw) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga), [Clara La San](https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj) | [Saku](https://open.spotify.com/album/6COn93pmuLSlE66ajN3kbb) | 4:57 | 2020-11-20 | 2020-11-27 |

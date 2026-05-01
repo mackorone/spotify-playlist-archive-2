@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "I brani italiani di cui siamo ossessionati \ud83c\udfa7 Frah Quintale in cover",
+  "description": "I brani italiani di cui siamo ossessionati \ud83c\udfa7 Juli in cover",
   "name": "Alta Rotazione",
   "tracks": [
     {
@@ -1360,6 +1360,24 @@
       "duration_ms": 195555,
       "name": "BOOSTER",
       "url": "https://open.spotify.com/track/62UEDjQEgBx7GDKDiSoz3i"
+    },
+    {
+      "album": {
+        "name": "Bossa Nostra",
+        "url": "https://open.spotify.com/album/3jCG9BHzeIC5m4ifWQozsS"
+      },
+      "artists": [
+        {
+          "name": "Gaia",
+          "url": "https://open.spotify.com/artist/3AVx3OBPIk4pJQllAXoVs1"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196846,
+      "name": "Bossa Nostra",
+      "url": "https://open.spotify.com/track/7EFFg3umzGzCnOIHG6Fr6V"
     },
     {
       "album": {
@@ -2904,7 +2922,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 171298,
       "name": "Dove Andare",
       "url": "https://open.spotify.com/track/2Poalx3D18sXaufZLom7AT"
@@ -4710,7 +4728,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 166857,
       "name": "JURNATA 'E SOLE",
       "url": "https://open.spotify.com/track/7IqOqo9LfqTxzj174TETUH"
@@ -5366,7 +5384,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 204637,
       "name": "le cose che non sai di me",
       "url": "https://open.spotify.com/track/2XVaLBILDwmtR876otQkpg"
@@ -6100,7 +6118,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 215818,
       "name": "Ma\u2019",
       "url": "https://open.spotify.com/track/6SkyJe6R42VbKw16mH0a2v"
@@ -6910,6 +6928,24 @@
       "duration_ms": 160291,
       "name": "Non ci penso",
       "url": "https://open.spotify.com/track/7IYqWbceazrqnNhLaIt9Ig"
+    },
+    {
+      "album": {
+        "name": "Non ci si ama solo in primavera",
+        "url": "https://open.spotify.com/album/4O4w4WbUZvNxPZ2ijhHCdw"
+      },
+      "artists": [
+        {
+          "name": "Santamarea",
+          "url": "https://open.spotify.com/artist/016AD2neE2X7e0ChuREr4o"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200066,
+      "name": "Non ci si ama solo in primavera",
+      "url": "https://open.spotify.com/track/6P0Bmiv2zEEroMtD3cBrAk"
     },
     {
       "album": {
@@ -10570,6 +10606,14 @@
         {
           "name": "Sayf",
           "url": "https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB"
+        },
+        {
+          "name": "Dibla",
+          "url": "https://open.spotify.com/artist/01XCyobLTxOrswogL7YNIu"
+        },
+        {
+          "name": "Jiz",
+          "url": "https://open.spotify.com/artist/38CThoTDmXugNnfonW466d"
         }
       ],
       "date_added": "2026-02-25",
@@ -10842,6 +10886,24 @@
       "duration_ms": 240572,
       "name": "Un mondo a parte",
       "url": "https://open.spotify.com/track/5niBKNtMNJTSPLTCBTc3wr"
+    },
+    {
+      "album": {
+        "name": "Una donna non pu\u00f2",
+        "url": "https://open.spotify.com/album/76NmSDyvPyChJCNdPLiobL"
+      },
+      "artists": [
+        {
+          "name": "Francesca Michielin",
+          "url": "https://open.spotify.com/artist/4jFlmD92WULLlaRS8Cj6QS"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214943,
+      "name": "Una donna non pu\u00f2",
+      "url": "https://open.spotify.com/track/4bvtm8jaXlLpnGax1xJwqQ"
     },
     {
       "album": {

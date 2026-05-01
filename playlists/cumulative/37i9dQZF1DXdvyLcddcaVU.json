@@ -1723,6 +1723,24 @@
     },
     {
       "album": {
+        "name": "Tsuki",
+        "url": "https://open.spotify.com/album/5ougie7bdBOvz2fCwdH9bH"
+      },
+      "artists": [
+        {
+          "name": "So La Lune",
+          "url": "https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298592,
+      "name": "Balade",
+      "url": "https://open.spotify.com/track/0CO0WLMOiNwCuPonyekwAg"
+    },
+    {
+      "album": {
         "name": "Balafre",
         "url": "https://open.spotify.com/album/4PnoDtGAjjPzih66PwUg7R"
       },
@@ -2364,6 +2382,24 @@
       "duration_ms": 144626,
       "name": "Big mama",
       "url": "https://open.spotify.com/track/1TXuor1bUOZQnWrksFoccd"
+    },
+    {
+      "album": {
+        "name": "Loud",
+        "url": "https://open.spotify.com/album/3yk6eaVohNwQAXjcdfP0KV"
+      },
+      "artists": [
+        {
+          "name": "Marwa Loud",
+          "url": "https://open.spotify.com/artist/46wEUZyujVrFSrdCnTKQmV"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179537,
+      "name": "Billet",
+      "url": "https://open.spotify.com/track/0AYCidYCYS3NUcRCcMip1a"
     },
     {
       "album": {
@@ -3663,6 +3699,24 @@
     },
     {
       "album": {
+        "name": "Grandestino",
+        "url": "https://open.spotify.com/album/1w3b8GrDYwt0ipw3awaWjx"
+      },
+      "artists": [
+        {
+          "name": "Lartiste",
+          "url": "https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213576,
+      "name": "Catchu Catchu",
+      "url": "https://open.spotify.com/track/1Y1eE1YgbF60sHlWC89Uzd"
+    },
+    {
+      "album": {
         "name": "Album gratuit",
         "url": "https://open.spotify.com/album/32oDpPytCHLeldSnf84sS3"
       },
@@ -4266,7 +4320,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 200347,
       "name": "CIRO",
       "url": "https://open.spotify.com/track/03k3q2HNQoqTwWD4O0UItF"
@@ -4686,6 +4740,24 @@
       "duration_ms": 158667,
       "name": "Connect\u00e9s",
       "url": "https://open.spotify.com/track/3ToDaiD5To8CkHN75sn9GQ"
+    },
+    {
+      "album": {
+        "name": "NAKAMURA",
+        "url": "https://open.spotify.com/album/3jqQFIXUakuDXdhFVvI7Ko"
+      },
+      "artists": [
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171720,
+      "name": "Copines",
+      "url": "https://open.spotify.com/track/1Bhm5HNO1cq8olDbBmokyL"
     },
     {
       "album": {
@@ -5830,7 +5902,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 196160,
       "name": "Double je - Remix",
       "url": "https://open.spotify.com/track/1EDQN7WMV9En0OhQuLBO6P"
@@ -8720,7 +8792,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 155312,
       "name": "J'attends au Carrefour Market",
       "url": "https://open.spotify.com/track/7gmwFiZtsPyBT8wI2u6mGN"
@@ -9060,7 +9132,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 190746,
       "name": "Je survivrai",
       "url": "https://open.spotify.com/track/5y74lcKWh9u3F7NP1bcUXV"
@@ -9338,6 +9410,24 @@
       "duration_ms": 165400,
       "name": "Jump",
       "url": "https://open.spotify.com/track/685ut3k74gNgPaS47Tav6j"
+    },
+    {
+      "album": {
+        "name": "Just The Way You Are",
+        "url": "https://open.spotify.com/album/1fN8LTM10sYFZl5BCzIPlj"
+      },
+      "artists": [
+        {
+          "name": "Milky",
+          "url": "https://open.spotify.com/artist/5AvCP5qzxTmk4cQmh0SUEw"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210070,
+      "name": "Just The Way You Are",
+      "url": "https://open.spotify.com/track/7K3Lc3TfSR14aTOjIH7TUj"
     },
     {
       "album": {
@@ -11142,7 +11232,7 @@
       ],
       "date_added": "2025-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 147692,
       "name": "LOVE YOU",
       "url": "https://open.spotify.com/track/35eK52MQkpWLxwyIAGKKXT"
@@ -13990,7 +14080,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 146626,
       "name": "No Stress",
       "url": "https://open.spotify.com/track/5ihk7LYUhUcGVVvUAqViTt"
@@ -15870,6 +15960,28 @@
       "duration_ms": 64545,
       "name": "Pop Smoke",
       "url": "https://open.spotify.com/track/0a8EGtC7rANxO6sHx088Kr"
+    },
+    {
+      "album": {
+        "name": "POR TI",
+        "url": "https://open.spotify.com/album/0NnW0UN9DFuNIzJHgUdaJa"
+      },
+      "artists": [
+        {
+          "name": "Yapi",
+          "url": "https://open.spotify.com/artist/6dhhE0bRngFuvKe3vnzdKn"
+        },
+        {
+          "name": "SOUNDPLUG",
+          "url": "https://open.spotify.com/artist/3V27gyl5V5dvei7a0U8zuX"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115200,
+      "name": "POR TI",
+      "url": "https://open.spotify.com/track/3Ip1sc72P5uz8BUB9kb4QQ"
     },
     {
       "album": {
@@ -17919,6 +18031,36 @@
     },
     {
       "album": {
+        "name": "Six Seven",
+        "url": "https://open.spotify.com/album/7yXhf4bGlGkjA9mfJy5gPg"
+      },
+      "artists": [
+        {
+          "name": "Laurinha Costa",
+          "url": "https://open.spotify.com/artist/2gHai7NC9sxohnDRREYWMf"
+        },
+        {
+          "name": "Dj Cabello",
+          "url": "https://open.spotify.com/artist/5DIxbeHID0GVBPT07FHZC0"
+        },
+        {
+          "name": "Dj Tchouzen",
+          "url": "https://open.spotify.com/artist/2nRKgPUikjmFOJ1UBmh8Fy"
+        },
+        {
+          "name": "SoundMusic Original",
+          "url": "https://open.spotify.com/artist/7l3VDav1Nb5OZWUxMFiSqW"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100162,
+      "name": "Six Seven",
+      "url": "https://open.spotify.com/track/1tApKPSsMXfJf528fR1o93"
+    },
+    {
+      "album": {
         "name": "Skalape",
         "url": "https://open.spotify.com/album/0PS4jNR8LDKjMi10072S9d"
       },
@@ -18568,7 +18710,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 129597,
       "name": "Sugar Baklava",
       "url": "https://open.spotify.com/track/6CWDiUqCVoqJSvPXAsAr7z"

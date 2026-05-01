@@ -2,9 +2,9 @@
 
 ### [anima R&B](https://open.spotify.com/playlist/37i9dQZF1DWZuIX5Q3yUjF)
 
-> najma in cover della playlist dell'R&B italiano 🫀
+> Primo Amore in cover della playlist dell'R&B italiano 🫀
 
-1,039 songs - 2 day 3 hr 12 min
+1,041 songs - 2 day 3 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -407,6 +407,7 @@
 | [Hot Thing](https://open.spotify.com/track/1HigmdWZNe4G1K7KklpsDp) | [GIOIA](https://open.spotify.com/artist/6s9Kx6zOJ0jcVrmotijTuB) | [Hot Thing](https://open.spotify.com/album/6h0asJFNiWmM0tNapbJKyF) | 2:56 | 2022-06-02 | 2022-07-29 |
 | [HOTEL](https://open.spotify.com/track/5G9c3oLPYUFHAretfuV23Y) | [Emas](https://open.spotify.com/artist/1EbxSgFv77WhleBn6vYFNO) | [HOTEL](https://open.spotify.com/album/6WBC63cOBaWmPPzXgXjGpN) | 2:08 | 2024-03-21 | 2024-04-16 |
 | [Houdini](https://open.spotify.com/track/4tIQReYfn7HqUd2ngDUGeB) | [Livrea](https://open.spotify.com/artist/64fhIeqXVHuWtTrmoT8HG0), [Nubula](https://open.spotify.com/artist/7bGSYDi7LmU5F1wx8ITzIk) | [Houdini](https://open.spotify.com/album/2NfGUOifngHawKceRRzsn6) | 3:08 | 2022-05-05 | 2022-07-01 |
+| [How Long Till I Know?](https://open.spotify.com/track/0KhSDWo1kgn0orQPlNvQJk) | [Naima Adams](https://open.spotify.com/artist/0uj0S7PeKD9mVamrqi6cRc) | [How Long Till I Know?](https://open.spotify.com/album/750289wDSGpJyLGuc7ceRF) | 3:30 | 2026-04-30 |  |
 | [I film non sono bastati](https://open.spotify.com/track/4SSCJmAu1ApX5X0TCUjUJk) | [Babele](https://open.spotify.com/artist/6IDs1szGoCenQqszHvAkuD) | [I film non sono bastati](https://open.spotify.com/album/5WA8sgHBo43yXSqozRbkfS) | 2:40 | 2023-07-27 | 2023-10-06 |
 | [Idee Nuove](https://open.spotify.com/track/59xOU3UsquVrlJacUrNRlM) | [Adri](https://open.spotify.com/artist/6y985VEM5UDacD7lG3Zq9C) | [Idee Nuove](https://open.spotify.com/album/0RFPaMTo2gm6TWkAcVf13c) | 2:53 | 2025-09-25 | 2026-01-30 |
 | [ieri/oggi/domani](https://open.spotify.com/track/5bRgaTI1IKf0x1nVFWKRZn) | [Francesco Kairos](https://open.spotify.com/artist/3QBDBs8DuZaSAt9qj3b53M) | [ieri/oggi/domani](https://open.spotify.com/album/4r4q6jwhhoh3TGWcBrG3V4) | 3:01 | 2023-11-16 | 2024-04-05 |
@@ -731,11 +732,12 @@
 | [Phoenix](https://open.spotify.com/track/0AvKnMD5KaL2NVGwL93N12) | [TÄRA](https://open.spotify.com/artist/0ez4Y0vHwlRCrqGIkChC3Q) | [Phoenix](https://open.spotify.com/album/5h2LRZJExyO3ocA30p9PeG) | 2:53 | 2024-11-07 | 2025-09-05 |
 | [PIANETA](https://open.spotify.com/track/0vWMCUuWXL8tVaBhbd2Dfx) | [Ludia Venus](https://open.spotify.com/artist/7zYug21enFuajJ8DS6tp6r) | [PIANETA](https://open.spotify.com/album/3rxdgyUsoDpVNBJ4OaLbFd) | 3:26 | 2024-04-15 | 2024-07-27 |
 | [PIANETI \(feat\. Anna Carol, Caffellatte & Close Listen\)](https://open.spotify.com/track/3j3OwsJhMCmDLqlMl0LoWq) | [le medie](https://open.spotify.com/artist/3HcymkoePbCYw6KWA2yZph), [Caffellatte](https://open.spotify.com/artist/7xmNRoYqVgsIiyIwRxrlay), [Close Listen](https://open.spotify.com/artist/1nYewcxiLilP3ju14xOaov), [Anna Carol](https://open.spotify.com/artist/6BJWROUyan9xhxGKBcrT1I) | [PIANETI \(feat\. Anna Carol, Caffellatte & Close Listen\)](https://open.spotify.com/album/4azXeodCoDoC5pHkmdAo42) | 3:35 | 2025-06-05 | 2025-11-21 |
+| [Piangere](https://open.spotify.com/track/2ka2vN1xn4lnJx4JhKawBx) | [Primo Amore](https://open.spotify.com/artist/6vqyGm4tSHrerJwKwQm7jo) | [Piangere](https://open.spotify.com/album/7i6P99dIx7CnN1f4pd5d3t) | 3:24 | 2026-04-30 |  |
 | [Pic Nic](https://open.spotify.com/track/6awMgaOPQTE9fKpdXPjOUO) | [Alessandra Tumolillo](https://open.spotify.com/artist/0EMZSYF5FmVWRRtANDOuZt) | [Pic Nic](https://open.spotify.com/album/5QqQhhDElbQi9ceUofwYYY) | 3:35 | 2024-04-15 | 2024-04-26 |
 | [piedixterra](https://open.spotify.com/track/3pjRBRPgpLonKovRM3IEKe) | [Bravo, Bravissimo](https://open.spotify.com/artist/6st78j54gm9fHJfB9ZKdh4) | [piedixterra](https://open.spotify.com/album/1Idmo4y713JrQhFTNaWzEb) | 3:18 | 2023-03-02 | 2023-06-23 |
 | [PIPPY](https://open.spotify.com/track/5Ocx6CiUW0mmtMz6XYGyCE) | [FUME'](https://open.spotify.com/artist/6Nk9BAlTLsNmghkyTMnNBY), [DOD](https://open.spotify.com/artist/0LiaD3zWaTlh1ZUNjKYxAZ) | [PIPPY](https://open.spotify.com/album/5ZJrBy1fYOWhRDhIHW7bhQ) | 1:54 | 2026-01-08 | 2026-04-10 |
 | [Pita Gyros](https://open.spotify.com/track/6Ii2DpNzwECTaOMhjTPnOu) | [Emili Kasa](https://open.spotify.com/artist/3RjZIfNhuaISMsbzISGxvA) | [Pita Gyros](https://open.spotify.com/album/6ONKQXieAFJMMCGfMwA9UR) | 2:40 | 2025-10-30 |  |
-| [Più di te](https://open.spotify.com/track/5jYB5aVYmY8rNDDmhqgLUe) | [Barcaiolo](https://open.spotify.com/artist/3t2amaczWnIunE9srTy6E0) | [Più di te](https://open.spotify.com/album/7mawdyID6MDCWfSaRZBKr8) | 2:52 | 2026-04-02 |  |
+| [Più di te](https://open.spotify.com/track/5jYB5aVYmY8rNDDmhqgLUe) | [Barcaiolo](https://open.spotify.com/artist/3t2amaczWnIunE9srTy6E0) | [Più di te](https://open.spotify.com/album/7mawdyID6MDCWfSaRZBKr8) | 2:52 | 2026-04-02 | 2026-05-01 |
 | [Player \(feat\. Joshua & Silent Bob\)](https://open.spotify.com/track/2tXuKyeDQuCqZsOn5LQEsm) | [Sick Budd](https://open.spotify.com/artist/5h8RF4h6OhX1zIssiLPndr), [Joshua](https://open.spotify.com/artist/5MmLJMV7gqiV3RgmqTgAKO), [Silent Bob](https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI) | [BISTRO!](https://open.spotify.com/album/4TyK5OpO6xqUqnQNccWpSd) | 2:28 | 2025-09-18 | 2026-01-30 |
 | [Plenilunio](https://open.spotify.com/track/6IZBQhT4RNSTreDogeiCfa) | [Filippo Cattaneo Ponzoni](https://open.spotify.com/artist/7LPEM878eDKFvrV5JejDXr) | [Plenilunio](https://open.spotify.com/album/44715EEdXOjoBebHPBwoeh) | 2:58 | 2022-09-29 | 2022-10-14 |
 | [Poco da dire](https://open.spotify.com/track/7gCaqIrZr92YES8K7qiBiG) | [MAGENTA FLORA](https://open.spotify.com/artist/7H9GIU0D6O5oHYTTlKrsAs) | [Poco da dire](https://open.spotify.com/album/3ntgAUqPHCUmrqQUk1lCEL) | 2:31 | 2026-03-26 |  |
@@ -863,7 +865,7 @@
 | [Siberiana](https://open.spotify.com/track/4QlmhdJeIc1490DXIm614c) | [Rizzo](https://open.spotify.com/artist/2ALJBMyhbGODOEpstHfEqN) | [Siberiana](https://open.spotify.com/album/7AyBApLEQ2BOBiGlBEiFar) | 3:30 | 2022-05-05 | 2022-11-11 |
 | [Sinapsi](https://open.spotify.com/track/0uTtp0BOYYfLOXcoTnpoW1) | [Thoé](https://open.spotify.com/artist/6Ft5DoZtQ4aoquM97AjjBG), [Faffa](https://open.spotify.com/artist/712OERsh8L3Idtmq8paMNg) | [Sinapsi](https://open.spotify.com/album/6tBUkaBFnUxzPRnDu0GMuj) | 2:23 | 2024-04-04 | 2024-04-16 |
 | [SINCERO](https://open.spotify.com/track/1LLZBXC83e2qBZBSTdxyf5) | [HERMES](https://open.spotify.com/artist/7w59Z3nldYeBSD1E2eJRWm) | [SINCERO](https://open.spotify.com/album/5PF3YX0cZsjXPgBnELtsyB) | 2:58 | 2022-10-13 | 2023-03-10 |
-| [Slow Down](https://open.spotify.com/track/0XHUZh1ycaZlbjFBIwv5kl) | [Kay](https://open.spotify.com/artist/6XLj9BXn0pnWlFMVGk1utU) | [Slow Down](https://open.spotify.com/album/1MUfpMMyAvk25qY4HECFy9) | 2:00 | 2026-03-12 |  |
+| [Slow Down](https://open.spotify.com/track/0XHUZh1ycaZlbjFBIwv5kl) | [Kay](https://open.spotify.com/artist/6XLj9BXn0pnWlFMVGk1utU) | [Slow Down](https://open.spotify.com/album/1MUfpMMyAvk25qY4HECFy9) | 2:00 | 2026-03-12 | 2026-05-01 |
 | [So What](https://open.spotify.com/track/2SBKzqeS4JBGoUwGWdlIEj) | [STE](https://open.spotify.com/artist/16i7FBlZiqIoL0E5NzzLWz), [Vinz Turner](https://open.spotify.com/artist/1FCRctfZKE42NfXqfLVs89) | [So What](https://open.spotify.com/album/1wyODxvIhnI7vxS8BPksbC) | 2:32 | 2025-06-19 |  |
 | [Sobrio](https://open.spotify.com/track/6rBZMRl4WssrTFcmr8evTL) | [Thoé](https://open.spotify.com/artist/6Ft5DoZtQ4aoquM97AjjBG) | [Sobrio](https://open.spotify.com/album/3Cj25smMyT4TUkMhyyxVLP) | 2:55 | 2023-11-16 | 2024-07-05 |
 | [Sogni lucidi](https://open.spotify.com/track/3eEXsbKITTX3rxS6xan1nH) | [Malakiia](https://open.spotify.com/artist/0f86xQ9MwhbVSBpOaDc7mP) | [Komorebi](https://open.spotify.com/album/7CLiWGzgYlMEyqBUO966aI) | 3:50 | 2024-01-11 | 2024-02-02 |

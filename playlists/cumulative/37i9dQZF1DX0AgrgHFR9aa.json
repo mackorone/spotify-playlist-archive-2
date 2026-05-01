@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les plus belles plumes rap fran\u00e7ais du moment. Photo : ABSOLEM",
+  "description": "Les plus belles plumes rap fran\u00e7ais du moment. Photo : Soprano x Guizmo",
   "name": "Lyricistes",
   "tracks": [
     {
@@ -214,7 +214,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 330468,
       "name": "44D",
       "url": "https://open.spotify.com/track/2iqF4C3733rvJy0QL4WExS"
@@ -338,7 +338,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 159996,
       "name": "92100",
       "url": "https://open.spotify.com/track/1MPIIufKDHyPSg7tfYOVUa"
@@ -1476,7 +1476,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 196360,
       "name": "Chanson triste",
       "url": "https://open.spotify.com/track/2YhsSXzPhXPWYXIg4MehMA"
@@ -2068,6 +2068,32 @@
       "duration_ms": 176933,
       "name": "DIEU EST GRANDE",
       "url": "https://open.spotify.com/track/5OiJ0jwzjxTX0OhCx89RHl"
+    },
+    {
+      "album": {
+        "name": "Dis moi pourquoi",
+        "url": "https://open.spotify.com/album/7rgXo7QBjlwxbg0h7yPrrt"
+      },
+      "artists": [
+        {
+          "name": "Crown",
+          "url": "https://open.spotify.com/artist/3n3WhGxNxXpKbjhKuVTSEc"
+        },
+        {
+          "name": "Dragon Davy",
+          "url": "https://open.spotify.com/artist/1JEYKq5j5ibaa9MS9C0T7z"
+        },
+        {
+          "name": "Nozey",
+          "url": "https://open.spotify.com/artist/75HNjHvp7Pt8xUSz9jr4q3"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222762,
+      "name": "Dis moi pourquoi",
+      "url": "https://open.spotify.com/track/6wZCnXIWzUO0F20oujZwrL"
     },
     {
       "album": {
@@ -2686,7 +2712,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 181902,
       "name": "FREE JAZZ",
       "url": "https://open.spotify.com/track/0TicEEB5L5atDLj4u4ewGL"
@@ -3634,7 +3660,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 191868,
       "name": "JBL",
       "url": "https://open.spotify.com/track/2IQRGtv0VD59aDGppsvrjJ"
@@ -4938,6 +4964,28 @@
       "duration_ms": 259579,
       "name": "Les vivants qui s'enterrent",
       "url": "https://open.spotify.com/track/2v7ObR4MZtMiWjvGtFt8R8"
+    },
+    {
+      "album": {
+        "name": "Lettre \u00e0 ma m\u00e8re",
+        "url": "https://open.spotify.com/album/2xTfFho04fzVXCto1vIduP"
+      },
+      "artists": [
+        {
+          "name": "Youssef Swatt's",
+          "url": "https://open.spotify.com/artist/7Bc4N4SWkPWM9TipAmwj6q"
+        },
+        {
+          "name": "Emel",
+          "url": "https://open.spotify.com/artist/06MtOym27ALcfdtVOsRcaA"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149143,
+      "name": "Lettre \u00e0 ma m\u00e8re",
+      "url": "https://open.spotify.com/track/4oO2ynUVIg7Y3ta6FPTWXq"
     },
     {
       "album": {
@@ -6575,6 +6623,28 @@
     },
     {
       "album": {
+        "name": "Posca",
+        "url": "https://open.spotify.com/album/47xNYSBouZZeoYLlh3s2ip"
+      },
+      "artists": [
+        {
+          "name": "Mehdi Miklo",
+          "url": "https://open.spotify.com/artist/4ZKVDoSZmED2oG5XpABWeB"
+        },
+        {
+          "name": "Relo",
+          "url": "https://open.spotify.com/artist/5BFtEJBJahei6oC8llF8sf"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174469,
+      "name": "Posca",
+      "url": "https://open.spotify.com/track/4DxQQULfzevxCBpz6TqBvb"
+    },
+    {
+      "album": {
         "name": "MAGMA",
         "url": "https://open.spotify.com/album/2geoHqkmDMIJFFsL96liD7"
       },
@@ -6674,6 +6744,28 @@
       "duration_ms": 259882,
       "name": "Pourquoi tu m'aimes ? (feat. Potter Payper)",
       "url": "https://open.spotify.com/track/5beW2myVvNNIWgChfplO5G"
+    },
+    {
+      "album": {
+        "name": "La Sa\u00f4ne en crue",
+        "url": "https://open.spotify.com/album/4GvOQ4YRpgsa6lpsW9UYkm"
+      },
+      "artists": [
+        {
+          "name": "LUPI'O",
+          "url": "https://open.spotify.com/artist/43ACorf2gFD4DGnmCPmzG2"
+        },
+        {
+          "name": "okis",
+          "url": "https://open.spotify.com/artist/5Cu5db0NsK9CumDuby09cB"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200347,
+      "name": "Pourvu que les gones voyagent",
+      "url": "https://open.spotify.com/track/1JFgSvZklX8K9bZ2mv2W69"
     },
     {
       "album": {
@@ -7076,7 +7168,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 133208,
       "name": "Rage against the machine",
       "url": "https://open.spotify.com/track/4cTmqzPf2vrtEgEPVc9Q1I"
@@ -7997,6 +8089,24 @@
     },
     {
       "album": {
+        "name": "TAS2V\u00caTEMENTS",
+        "url": "https://open.spotify.com/album/3rXKJ5VZih6Ux43dx6mP7u"
+      },
+      "artists": [
+        {
+          "name": "samybrasco",
+          "url": "https://open.spotify.com/artist/0MgmkmQgNLynZJLJhXFYfa"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173173,
+      "name": "TAS2V\u00caTEMENTS",
+      "url": "https://open.spotify.com/track/0v5NOaVhkNxBq1JNU1uuMq"
+    },
+    {
+      "album": {
         "name": "DOM PERIGNON CRYING",
         "url": "https://open.spotify.com/album/6OnLV2MfyGb0H9SEEa8Slc"
       },
@@ -8508,6 +8618,28 @@
       "duration_ms": 192386,
       "name": "Vernissage",
       "url": "https://open.spotify.com/track/2yF364s6VEUTx1Hs4Nyytf"
+    },
+    {
+      "album": {
+        "name": "VIDA",
+        "url": "https://open.spotify.com/album/7ovTshNVU6lAc9tw7KYASN"
+      },
+      "artists": [
+        {
+          "name": "Guizmo",
+          "url": "https://open.spotify.com/artist/6sYR8JTRUUUzSD9IydLhfG"
+        },
+        {
+          "name": "Soprano",
+          "url": "https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187738,
+      "name": "VIDA",
+      "url": "https://open.spotify.com/track/1waEBfGF93P7REaNS5TCPK"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbycBFSWTh7.md) - [plain]
 
 > get into the groove with a selection of new underground deep house
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,806 likes - 134 songs - 12 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,835 likes - 134 songs - 12 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbycBFSWTh7.md) - [plain]
 | 63 | [Oakland](https://open.spotify.com/track/3chhbeaNkSKltKv6Nl41BF) | [MESA](https://open.spotify.com/artist/04LlvxeVWUoQsE9QU4IDPm) | [Spiritual Negligence](https://open.spotify.com/album/5eL92zuuazZpyE2X23ZSRw) | 3:15 |
 | 64 | [Thought B](https://open.spotify.com/track/6BANzzJGmnB9Km6sVgyyf6) | [Martin Iveson](https://open.spotify.com/artist/7zd9ymxLPver6TJ5qrhZe4) | [Thought B](https://open.spotify.com/album/5gaYilnpX8h8qKBDyoNP67) | 6:00 |
 | 65 | [Feel It Much?](https://open.spotify.com/track/5xqJymiqq4OCbo5akUSZJC) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU) | [Feel It Much?](https://open.spotify.com/album/3iG5dFTdjW3ytc2deeJqg1) | 4:35 |
-| 66 | [Too Soft To Be Loud \- Ian Pooley Remix](https://open.spotify.com/track/1llJ9Q8O3V7eWHVat7A1I9) | [Session Victim](https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX), [Ian Pooley](https://open.spotify.com/artist/1m4GViPjIy4T8Pd0Iz6hRS) | [Too Soft To Be Loud \(Ian Pooley Remix\)](https://open.spotify.com/album/1EKpFHlpIlFgeekMIPs8DV) | 7:15 |
+| 66 | [Too Soft To Be Loud \- Ian Pooley Remix](https://open.spotify.com/track/1llJ9Q8O3V7eWHVat7A1I9) | [Session Victim](https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX), [Ian Pooley](https://open.spotify.com/artist/1m4GViPjIy4T8Pd0Iz6hRS), [Viken Arman](https://open.spotify.com/artist/1xQVwAdSzsF8DO76NsZpMK) | [Too Soft To Be Loud \(Ian Pooley Remix\)](https://open.spotify.com/album/1EKpFHlpIlFgeekMIPs8DV) | 7:15 |
 | 67 | [This Is The House](https://open.spotify.com/track/6y6G7FEY4wXY5lqfFyB6Bp) | [Saison](https://open.spotify.com/artist/6AST5BAhARWnhaXlMnXGp7), [Black Widow](https://open.spotify.com/artist/7JVf9FTDK6N8wrVKBmutmv) | [Return 2 Jak EP](https://open.spotify.com/album/3SHrY8h7WlFqZs9jHJn9SQ) | 6:22 |
 | 68 | [Jutzjazz](https://open.spotify.com/track/3puUQAU9ffPQW0E4QuGi3w) | [Justin Harris](https://open.spotify.com/artist/196WEo1Qy7ajWXSTFPX6F7) | [Check Your Chains EP](https://open.spotify.com/album/7qHFWCic0X0Xhh9gw3WfO0) | 5:37 |
 | 69 | [Final Boss](https://open.spotify.com/track/5nuJd1d6PvGJFQmsqtJI3i) | [Sweatson Klank](https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT) | [Final Boss](https://open.spotify.com/album/06cyY7HVV04HrQM2KbGrWz) | 4:37 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise avec Marguerite\n\n",
+  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise avec Lena\u00efg\n\n",
   "name": "Fresh Vari\u00e9t\u00e9",
   "tracks": [
     {
@@ -286,7 +286,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 162089,
       "name": "Amoureuse",
       "url": "https://open.spotify.com/track/3PQmX1mupYapRFR57k7lea"
@@ -1550,6 +1550,24 @@
       "duration_ms": 174586,
       "name": "Dans tes yeux",
       "url": "https://open.spotify.com/track/7edwJhO0eZpCMtfj3wcXuv"
+    },
+    {
+      "album": {
+        "name": "Bo\u00eete \u00e0 musique",
+        "url": "https://open.spotify.com/album/7kMC5ESC9RaLcdyPELApb3"
+      },
+      "artists": [
+        {
+          "name": "Linh",
+          "url": "https://open.spotify.com/artist/15h1AB4jpLCdXLZNT7glWj"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157506,
+      "name": "Dans ton t\u00e9l\u00e9phone",
+      "url": "https://open.spotify.com/track/2yFt80jvLcPcG6irkBNpgy"
     },
     {
       "album": {
@@ -3642,7 +3660,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 207093,
       "name": "La chanson d'amour",
       "url": "https://open.spotify.com/track/1Ylc7I9K1eShClEH1NLFBo"
@@ -4770,6 +4788,24 @@
       "duration_ms": 170936,
       "name": "Let Me Go",
       "url": "https://open.spotify.com/track/4M8a60X9qBfIjJ0rDfNQUc"
+    },
+    {
+      "album": {
+        "name": "Libert\u00e0",
+        "url": "https://open.spotify.com/album/68bhRlQAHBfPvrFVFLiw1E"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9sar",
+          "url": "https://open.spotify.com/artist/29QLxgXz1rdMvaVK2aWFlU"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181721,
+      "name": "Libert\u00e0",
+      "url": "https://open.spotify.com/track/0pAdIWqcWYbeQeYsSgitia"
     },
     {
       "album": {
@@ -6027,6 +6063,24 @@
     },
     {
       "album": {
+        "name": "Papillons",
+        "url": "https://open.spotify.com/album/5wN17JXmD8stoZsVoWYPOf"
+      },
+      "artists": [
+        {
+          "name": "EMA",
+          "url": "https://open.spotify.com/artist/5sBs3oeSyC5mNZimFy1QHY"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "Papillons",
+      "url": "https://open.spotify.com/track/54GTl6q8VYEtd9FxvHcFqN"
+    },
+    {
+      "album": {
         "name": "Par coeur (feat. Joseph Kamel)",
         "url": "https://open.spotify.com/album/2hJlidZGq5ot2B9X6qEpze"
       },
@@ -6512,7 +6566,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 179534,
       "name": "Pour l'\u00e9ternit\u00e9",
       "url": "https://open.spotify.com/track/7c2G5O1aLTELM9U9UFroMR"

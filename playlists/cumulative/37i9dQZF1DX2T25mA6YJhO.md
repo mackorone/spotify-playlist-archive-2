@@ -2,9 +2,9 @@
 
 ### [Rock 2026](https://open.spotify.com/playlist/37i9dQZF1DX2T25mA6YJhO)
 
-> Súbete a la nueva ola del rock español\. Foto: Parquesvr.
+> Súbete a la nueva ola del rock español\. Foto: Dear Joanne.
 
-670 songs - 1 day 10 hr 36 min
+676 songs - 1 day 10 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Atea](https://open.spotify.com/track/7ewzTvhvVzmxK4VftnH0AZ) | [NIÑA COYOTE eta CHICO TORNADO](https://open.spotify.com/artist/4QlaoCIrTZjyl1M6TaDUEW) | [Atea](https://open.spotify.com/album/7aunMQw78a4Z5pllz06ken) | 3:39 | 2025-05-01 | 2025-06-06 |
 | [Aunque duela](https://open.spotify.com/track/5KNncw0fdPmtQm8BaM13xB) | [shego](https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33) | [Aunque duela](https://open.spotify.com/album/2FP6O9rK0nfVaHUBl7OLRl) | 3:06 | 2024-11-21 | 2025-01-24 |
 | [Autocine](https://open.spotify.com/track/3sn8PJGtBOpb4ktUgQJYMQ) | [Selvajes](https://open.spotify.com/artist/41Bkxd38yERewVUTQyOghu) | [Autocine](https://open.spotify.com/album/0I3rZBB5lbYlHEAGuPEokP) | 2:41 | 2025-03-20 | 2025-06-11 |
+| [AUTÓMATA](https://open.spotify.com/track/5oik3K9Zah7EUZkMMRZAim) | [Martes Mal](https://open.spotify.com/artist/55kgOTb4zLb5sHTZJ49mVR) | [LAS INCREÍBLES AVENTURAS DE TOÑO TERREMOTO](https://open.spotify.com/album/20CcwSEJkwFWqR7WATrpQl) | 2:31 | 2026-04-30 |  |
 | [Avril Lavigne](https://open.spotify.com/track/60bTk1SlT5iqTe8Ns7LKaW) | [Venga, Bea](https://open.spotify.com/artist/1FV2X3n9fruTFxyjLJA6cM) | [Tus Cosas En Una Caja \(Deluxe\)](https://open.spotify.com/album/5QObzw8RDkekcaheeUi8Rn) | 2:04 | 2025-09-25 | 2025-10-17 |
 | [Azul Oscuro Casi Negro](https://open.spotify.com/track/5WkLIlcbax45uOOoNqFacQ) | [Cora Yako](https://open.spotify.com/artist/09un4iSHi0vAwjGBwvWiDm), [Diamante Negro](https://open.spotify.com/artist/51WUBWxuW4MAoBwuYraA4v) | [Azul Oscuro Casi Negro](https://open.spotify.com/album/6wRuSSafJuAgVM61XEStGj) | 2:40 | 2024-06-27 | 2024-11-15 |
 | [Año de mierda](https://open.spotify.com/track/16BpiZ2fRf0pCPlnmuJ9HI) | [Jordi Ganchitos](https://open.spotify.com/artist/5844W7yidUo05iQtYOZreA) | [Año de mierda](https://open.spotify.com/album/57TbzhJvUA8wPs5PwQIWWe) | 2:40 | 2024-12-19 | 2025-01-24 |
@@ -101,6 +102,7 @@
 | [Cerrar los ojos](https://open.spotify.com/track/6we4xaVKPTV2NgRuyf839y) | [Repion](https://open.spotify.com/artist/15o4xwiKZWJ6jOFp9LeP24) | [201](https://open.spotify.com/album/6V17fWLu2a57Qc5PyeLBSV) | 3:31 | 2025-11-20 | 2026-02-20 |
 | [cerveza o café ???¿?](https://open.spotify.com/track/2wSUef8f65ZkuLHtpthKpU) | [arrecí0](https://open.spotify.com/artist/7q8u6C6inUWxNOA4ZPPxHT), [Las Dianas](https://open.spotify.com/artist/5jTPdO06h2aTkDtHCYMAIm) | [cerveza o café ???¿?](https://open.spotify.com/album/1S9pIgej877u81J5OzYgcN) | 3:20 | 2026-03-19 |  |
 | [Charcos!](https://open.spotify.com/track/375loMv2gMBtRXB01AKqeo) | [Ghouljaboy](https://open.spotify.com/artist/00a2IOlewyt2Xk4702wg5d) | [Charcos!](https://open.spotify.com/album/5G2TAPBjjSWPb7cqLtSCmr) | 2:58 | 2025-03-27 | 2025-04-18 |
+| [Chocolate con churros](https://open.spotify.com/track/0f72l5yzchl8b3RQn9yJUr) | [The Patos](https://open.spotify.com/artist/3Xk9UO4CGub2pd4l9G8Srw) | [Chocolate con churros](https://open.spotify.com/album/3gZ6SpSzhk9cqDedQq7Zmq) | 2:05 | 2026-04-30 |  |
 | [Chándal Amarillo](https://open.spotify.com/track/3fNinLoXXHdaS4Vrmsuug4) | [Marina Domínguez](https://open.spotify.com/artist/3kheYglVYKfR3TCT7oy0lO) | [Todas a chica](https://open.spotify.com/album/68unEZepTJeLoIfOLyOVGf) | 2:26 | 2025-05-08 | 2025-07-11 |
 | [Ciegos](https://open.spotify.com/track/5aCUsb2JPQl8RFl2VVzqXs) | [Nuevo Berlín](https://open.spotify.com/artist/1yx6TpkZhtrOHefx2nZxBI) | [Manual para perderse](https://open.spotify.com/album/6XqXcDfhF7udWZNKLzC4OV) | 3:49 | 2025-09-25 | 2026-02-20 |
 | [Cierra la puerta](https://open.spotify.com/track/4QYMXL9ytzRrmvHs2MHbuc) | [LA MILAGROSA](https://open.spotify.com/artist/2zfICaZaVlooSb1GFh6ZiP) | [Cierra la puerta](https://open.spotify.com/album/5DA4ALes4Z3cEO7ekZeWMh) | 2:37 | 2024-06-27 | 2024-08-02 |
@@ -217,6 +219,7 @@
 | [Este instante](https://open.spotify.com/track/3qgW3LiiIBFCyCuSvwzNpD) | [Periferia](https://open.spotify.com/artist/0XrH6ldTNnTtaIRILHcbkI), [Cala Vento](https://open.spotify.com/artist/6QpQ7WsYLIpTV3yRa0fJo1) | [Lo que queda por sentir](https://open.spotify.com/album/02bRYhdWR1Q5qsUcG1UCkq) | 3:07 | 2026-03-05 | 2026-04-17 |
 | [Esto que vivimos](https://open.spotify.com/track/3F8ATT8KoqmDFFNEpca49z) | [Parquesvr](https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy) | [Esto que vivimos](https://open.spotify.com/album/0S99gKU7tKgoRGGO7oRJ2j) | 4:19 | 2025-12-18 | 2026-03-27 |
 | [Estrellas Místicas](https://open.spotify.com/track/4X9qOnPh2rxJJIgLzGgV4U) | [Triángulo de Amor Bizarro](https://open.spotify.com/artist/6A6B4fkbxVlQtNASPk5e2e), [Viva Belgrado](https://open.spotify.com/artist/37gLE2S4JxurgPNf1sx6HK) | [Estrellas Místicas](https://open.spotify.com/album/0Piw9H1sb484XKgiNX5sqt) | 3:47 | 2025-10-23 | 2025-12-12 |
+| [Eterno Parque Galván](https://open.spotify.com/track/3VwZGDYYeLuMylza01f9Iq) | [Anabel Lee](https://open.spotify.com/artist/5RUY9JzWtxRY6oRqH3xTIW), [Despistaos](https://open.spotify.com/artist/0QE9iXPzgSaBq34OqIZ4n2) | [Eterno Parque Galván](https://open.spotify.com/album/1CS1f8w0vLgd0CiNWTY8ir) | 3:00 | 2026-04-30 |  |
 | [EVA\-03](https://open.spotify.com/track/6z9SOKob9QhoYueCLZUcYN) | [BALONCESTO](https://open.spotify.com/artist/37KpgwJAlQfKRRwdEkv1CO) | [EVA\-03](https://open.spotify.com/album/4LoECPpOESUBRJiWctlqSk) | 2:11 | 2026-03-19 |  |
 | [Fake Glasses](https://open.spotify.com/track/7IwbzcK6oZz2UGXE2TaP1s) | [San Tosielo](https://open.spotify.com/artist/1Vp0zKCF6r1aut8Emx7CHH) | [Fake Glasses](https://open.spotify.com/album/5XB41iVD4AhapPg77W0tQs) | 2:43 | 2024-09-12 | 2024-10-04 |
 | [Familia S.L.](https://open.spotify.com/track/6CJue4k0mzZbe0jquaU06N) | [CARLANGAS](https://open.spotify.com/artist/3R86hCl02kzzvB48oIyEVs) | [Familia S.L.](https://open.spotify.com/album/6BAH4s6nSJhWAtr8okkX1w) | 3:02 | 2026-04-23 |  |
@@ -314,6 +317,7 @@
 | [La ropa ancha](https://open.spotify.com/track/4yfFxNgrdPrYPJZRzrq4RY) | [Go Cactus](https://open.spotify.com/artist/73Xp0FH6ZuSdhEcq5kcXbE) | [Vidas Modelo](https://open.spotify.com/album/6z9TIyTVz0vTAb8rvq0572) | 3:36 | 2026-03-05 | 2026-04-24 |
 | [La Salvación](https://open.spotify.com/track/0txzIz1WcoAn6m07xypcD5) | [Arde Bogotá](https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH) | [COWBOYS DE LA A3](https://open.spotify.com/album/0VgV2hz9fHoJBLKbqtj9cn) | 4:23 | 2024-06-27 | 2024-10-11 |
 | [La Torre Picasso](https://open.spotify.com/track/2Czaw41IWZLz5JxwLueamL) | [Arde Bogotá](https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH) | [La Torre Picasso](https://open.spotify.com/album/090Jo9iBjpgrcBwezLFTYq) | 8:04 | 2024-09-12 | 2025-08-22 |
+| [La Trinidad No Paga Traidores](https://open.spotify.com/track/1pPDwSfFzRJCjL9xrOcOMC) | [La Trinidad](https://open.spotify.com/artist/15KUuOUuBqWGiInJr8dZah) | [La Trinidad No Paga Traidores](https://open.spotify.com/album/1BoXNKQyGWzZYCu3j1myIT) | 4:03 | 2026-04-30 |  |
 | [La Vida Cañón](https://open.spotify.com/track/6ou443eT6aXOCxcX9Jrnee) | [Alcalá Norte](https://open.spotify.com/artist/7raVfIwIqNjj5OGBbBQNDR) | [Alcalá Norte](https://open.spotify.com/album/7C2RrxAFNTX0qklJnrHXTj) | 2:32 | 2024-06-27 | 2025-10-03 |
 | [LAPSUS](https://open.spotify.com/track/5gaHUShVDYB2kn5s0xzIAi) | [Ultraligera](https://open.spotify.com/artist/5Vv5llyiK1nlME2UNDzPBB) | [LAPSUS](https://open.spotify.com/album/50MmSo6jaCpsBd585e4oOP) | 4:20 | 2026-02-26 |  |
 | [Las Colinas Van A Ciegas](https://open.spotify.com/track/4QQE9hgpoFqNhNon1QYrf7) | [Wet Iguanas](https://open.spotify.com/artist/5Nh9UxAQ4Pf2e68ZPZHQHC) | [Alas De Piedra](https://open.spotify.com/album/3eyb8TYEES1GrS4KBFetMI) | 2:30 | 2026-03-12 | 2026-03-20 |
@@ -524,6 +528,7 @@
 | [Rosquilla de canela](https://open.spotify.com/track/5W7u9wTj93pOYcxea9orOF) | [Marta Movidas](https://open.spotify.com/artist/59NswlApCpxmZbKSNQg0i5) | [Rosquilla de canela](https://open.spotify.com/album/5j3euieoInLiYr65q5nEgh) | 3:37 | 2024-06-27 | 2024-08-02 |
 | [Ruido Blanco](https://open.spotify.com/track/3EraDTviXLjFiv4lCqqVR5) | [La Plata](https://open.spotify.com/artist/3oD0OVwOhvLSTvd2fOFCuS) | [Ruido Blanco](https://open.spotify.com/album/6vHK4Aw6Do2slwN7DXtGSz) | 2:18 | 2024-10-17 | 2024-10-25 |
 | [RÁPIDO, RÁPIDO, RÁPIDO!](https://open.spotify.com/track/6q9RCwnXBS98HEzp33DqbY) | [Nadie Patín](https://open.spotify.com/artist/1EVcueF5J7XTuYH0nTGJsB) | [RÁPIDO, RÁPIDO, RÁPIDO!](https://open.spotify.com/album/5lhXcAG65oMRJqcEoDEg9o) | 3:27 | 2024-09-19 | 2024-12-20 |
+| [Sabalenka](https://open.spotify.com/track/6IZUskjG7bR12G0MPo4IfN) | [Dear Joanne](https://open.spotify.com/artist/2JIPw69fHWYALCdZDDphpa) | [Sabalenka](https://open.spotify.com/album/77c1RrvOjAp3oNu8dKk5yX) | 2:31 | 2026-04-30 |  |
 | [sabes tan bien](https://open.spotify.com/track/32weZn2PvlMTSdyXpALOqF) | [Candela Gómez](https://open.spotify.com/artist/0jIhz2FFQmwcjj63SJh63h) | [sabes tan bien](https://open.spotify.com/album/6t2sNuqTraTxLV1vksycyj) | 2:39 | 2026-01-08 | 2026-01-23 |
 | [Sacrificio](https://open.spotify.com/track/6cusjflubCLgOuxR6Ogc4q) | [Triángulo de Amor Bizarro](https://open.spotify.com/artist/6A6B4fkbxVlQtNASPk5e2e) | [Sacrificio](https://open.spotify.com/album/5OGtMiZnXvV6SEyXQTjfrB) | 3:04 | 2026-03-05 | 2026-03-20 |
 | [Sale El Sol](https://open.spotify.com/track/0BQFZPFrkAs2UQR1THPqtI) | [La Paloma](https://open.spotify.com/artist/6poevqCIGOy8886WKNTHkv) | [Sale El Sol](https://open.spotify.com/album/07Y07bcpTjF3DXowlf9zrD) | 3:41 | 2025-10-02 | 2026-04-17 |
@@ -605,6 +610,7 @@
 | [Tu desdén](https://open.spotify.com/track/15F604J9wmdF5nqgCrnkYs) | [Joven Dolores](https://open.spotify.com/artist/6SNJAvWSF0KZJbt3T162RH) | [Tu desdén](https://open.spotify.com/album/7qLqRKGoHrsxGdIJ8MTfhG) | 3:48 | 2025-03-06 |  |
 | [Tu No Te Quieres Matar](https://open.spotify.com/track/6cFITamYQzo5D47zmXgw2O) | [Arena Polar](https://open.spotify.com/artist/537HRWUPUPU5q4uUM3bZ3s) | [Tu No Te Quieres Matar](https://open.spotify.com/album/2HhH3TO0zHIUxw33rhfFXk) | 3:06 | 2025-05-08 | 2025-05-28 |
 | [Tu nombre es una puerta por cerrar](https://open.spotify.com/track/7fnlGpqyZ8KPATE5HXHrke) | [Parquesvr](https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy) | [Tu nombre es una puerta por cerrar](https://open.spotify.com/album/0eaZ0bCEMRU1WmduCGiyKH) | 4:04 | 2024-06-27 | 2025-08-22 |
+| [TU PROBLEMA](https://open.spotify.com/track/6nvfYRoa8TFba7G4T8wRFg) | [Ultraligera](https://open.spotify.com/artist/5Vv5llyiK1nlME2UNDzPBB) | [TU PROBLEMA](https://open.spotify.com/album/3fFQHVyV7xs6GiusyTRavq) | 3:44 | 2026-04-30 |  |
 | [TURBO TRUCAO](https://open.spotify.com/track/4cTx7rnYuc0YAFZs5dd2lA) | [Only](https://open.spotify.com/artist/0hTpzLejwiEa2ClxGbVvty), [Travv](https://open.spotify.com/artist/4ZtGg3jRJlcs9XyvNsgLRO) | [TURBO TRUCAO](https://open.spotify.com/album/29SZyGMLneDwEvmxWzvQJ5) | 2:30 | 2025-04-24 | 2025-05-18 |
 | [TURISTA](https://open.spotify.com/track/3YUOzmeXftEYkcEKMjctDQ) | [Wet Iguanas](https://open.spotify.com/artist/5Nh9UxAQ4Pf2e68ZPZHQHC) | [TURISTA](https://open.spotify.com/album/3PywphFNNtfKzSwWDFRpW4) | 2:32 | 2025-08-28 |  |
 | [Tú Crees](https://open.spotify.com/track/6qTCDNZq0LUbq1XGmlMait) | [Joven Dolores](https://open.spotify.com/artist/6SNJAvWSF0KZJbt3T162RH) | [Tú Crees](https://open.spotify.com/album/3PBDRxRIbpuu1PoXX9yAVC) | 3:33 | 2025-02-27 | 2025-03-16 |

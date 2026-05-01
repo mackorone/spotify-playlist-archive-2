@@ -4,7 +4,7 @@
 
 > Suomi\-indien tuoreimpia helmiä.
 
-1,152 songs - 2 day 21 hr 11 min
+1,154 songs - 2 day 21 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -968,6 +968,7 @@
 | [Taikapoika](https://open.spotify.com/track/3f5LXwrlbNb3CvihQ5TPGU) | [Saaga](https://open.spotify.com/artist/3qDwZXi3BD5dXRq5aAkpjn) | [Taikapoika](https://open.spotify.com/album/5z6FCDjdXU1i030uVVNQih) | 3:05 | 2025-09-25 | 2026-03-06 |
 | [Taivas](https://open.spotify.com/track/2LUVh9OPFsU0RzuD9DwyN5) | [Ingrid Yö](https://open.spotify.com/artist/2l7Rq7855OXri8OKVJG16z) | [Taivas](https://open.spotify.com/album/1vTab6HyRUGMtMuGHw3GCo) | 3:49 | 2025-10-23 |  |
 | [Takaisin kotiin](https://open.spotify.com/track/4tuph92sQPUpQ12G0glAj7) | [Lahtine](https://open.spotify.com/artist/4MkafptO9S9Fj4gvZEyWiS) | [Takaisin kotiin](https://open.spotify.com/album/4yrXXYyk6tKeIJLPxz2bfs) | 4:10 | 2024-07-11 | 2024-09-06 |
+| [Takas kotiin](https://open.spotify.com/track/11zeVaZbLC6B7z26mp0H1D) | [Samuli Heimo](https://open.spotify.com/artist/0y9v1aZtpENgyB9VlYoBeW) | [Takas kotiin](https://open.spotify.com/album/3DRyHlOSA8YDEEMoIjnZxs) | 3:42 | 2026-04-30 |  |
 | [Takas yöjunalla](https://open.spotify.com/track/7KCbiaL6vTSp627W6bLfOe) | [Juhlat](https://open.spotify.com/artist/01D2EFqqME5IHfIUEuU4el) | [Yöllä taivas kaatuu](https://open.spotify.com/album/5WjZ1a4LyLCULMVVH0YJLT) | 4:11 | 2025-01-30 | 2025-03-28 |
 | [Take me home](https://open.spotify.com/track/7ypfkoZYDgOtmi5zNSzKVr) | [EMILII](https://open.spotify.com/artist/2M0VwEmmAc3g48xPiFtFCN) | [Take me home](https://open.spotify.com/album/2nWutii7JA5tCJadv9NrpM) | 3:55 | 2025-04-17 | 2025-05-23 |
 | [Tanssi](https://open.spotify.com/track/6IBhsOWLN5bElT0BmmPfln) | [JULES](https://open.spotify.com/artist/2a5xwKSq5F53lSTlKBgcT6) | [Tanssi](https://open.spotify.com/album/4GI2UbOWDGWx46eJ80GiKz) | 2:18 | 2025-02-06 | 2025-03-14 |
@@ -976,6 +977,7 @@
 | [Tarinoita](https://open.spotify.com/track/1pbHITDVUJ6prDobLK77tg) | [Juhlat](https://open.spotify.com/artist/01D2EFqqME5IHfIUEuU4el), [Ty Roxy](https://open.spotify.com/artist/4FT8sPqLTd7Eoqdi8i5oJt) | [Tarinoita](https://open.spotify.com/album/50ro4O8EMrK0xIgbco7Myt) | 2:58 | 2024-10-03 | 2024-11-22 |
 | [Tarviin](https://open.spotify.com/track/4NNZjH7qQNDABudl4RKHyd) | [Vimma](https://open.spotify.com/artist/26vvDMY0SNr27F2CiWTxLa) | [Tarviin](https://open.spotify.com/album/0BlDrUFzyjsBp7yliFnGXz) | 3:15 | 2025-03-13 | 2025-04-11 |
 | [Tarviin uuden jumalan](https://open.spotify.com/track/7jEI5zhyD6glS2DTI3Ds3y) | [Maria Lentonen](https://open.spotify.com/artist/5gUPJleui0oVWN7lUT7TPt) | [Tarviin uuden jumalan](https://open.spotify.com/album/4YqkpHyU9sJ87Pexw8alIy) | 3:20 | 2024-07-02 | 2024-07-09 |
+| [Tasaraha](https://open.spotify.com/track/0hYe5ePzcUt1li2dFYALWB) | [Arppa](https://open.spotify.com/artist/7BLe6O1Q3UbUsAUh5x6wuv), [Jiri\-serkku](https://open.spotify.com/artist/4071MXoALZwLZM1v2c3JFM) | [Iltamat Pihlajassa](https://open.spotify.com/album/4dbp4uwC8pFC0G3Xu0DsTe) | 3:44 | 2026-04-30 |  |
 | [Tattoo](https://open.spotify.com/track/4UmTTQy6avnw4iIiHrj3B5) | [Lilith & The Wildflowers](https://open.spotify.com/artist/1zPLtlP6AxUpj0nQXFr9FL) | [Tattoo](https://open.spotify.com/album/4b05cZ7ot54FWc7FCcpbVk) | 3:28 | 2025-02-13 | 2025-04-04 |
 | [teenagestylez](https://open.spotify.com/track/1OlZdNudtDZdkRCZykhZVK) | [ROSLUV](https://open.spotify.com/artist/1sbXkDP4cbaek1FKJhAHRN) | [teenagestylez](https://open.spotify.com/album/61jqDAJzmyqG4mFGDTT4U8) | 2:35 | 2025-01-02 | 2025-02-07 |
 | [Teknologia](https://open.spotify.com/track/7coOG4HNKUPvqh0ok6K6Ms) | [HELKA](https://open.spotify.com/artist/37M2Vpf9z3CeBBhxfSTZ2r) | [Teknologia](https://open.spotify.com/album/6Bwq30Thzn3GE0pgG0TmRm) | 3:10 | 2024-07-18 | 2024-09-06 |

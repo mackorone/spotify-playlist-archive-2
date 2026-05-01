@@ -586,7 +586,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 156981,
       "name": "3:33",
       "url": "https://open.spotify.com/track/0DLpdlnRQhqj2Pk3jU9fIO"
@@ -2022,6 +2022,32 @@
       "duration_ms": 150852,
       "name": "Aria Tesa",
       "url": "https://open.spotify.com/track/7qzSl2SluU0mRPWpDWouH9"
+    },
+    {
+      "album": {
+        "name": "Nerissima",
+        "url": "https://open.spotify.com/album/4aVP5OanDJz1dXGV1Y0TER"
+      },
+      "artists": [
+        {
+          "name": "Nerissima Serpe",
+          "url": "https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB"
+        },
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        },
+        {
+          "name": "Fritu",
+          "url": "https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205307,
+      "name": "Armato (feat. Kid Yugi)",
+      "url": "https://open.spotify.com/track/6fgLw0VwPmQtjSmvfCVC6u"
     },
     {
       "album": {
@@ -7500,7 +7526,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 171932,
       "name": "FACE TO FACE 3 (feat. LINDA)",
       "url": "https://open.spotify.com/track/02PObrpGaGPLP5ttlCjyiw"
@@ -13886,7 +13912,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 228570,
       "name": "MONEY MACHINE (feat. Lazza & Tony Effe)",
       "url": "https://open.spotify.com/track/4txJR7LWq7AQYNYoBCf0gB"
@@ -15520,6 +15546,32 @@
       "duration_ms": 167900,
       "name": "Oppio (feat. Simba La Rue)",
       "url": "https://open.spotify.com/track/0Jnatpmn5qwvwUC4FSUXMq"
+    },
+    {
+      "album": {
+        "name": "Nerissima",
+        "url": "https://open.spotify.com/album/4aVP5OanDJz1dXGV1Y0TER"
+      },
+      "artists": [
+        {
+          "name": "Nerissima Serpe",
+          "url": "https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB"
+        },
+        {
+          "name": "Night Skinny",
+          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
+        },
+        {
+          "name": "Fritu",
+          "url": "https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162606,
+      "name": "Oppl\u00e1",
+      "url": "https://open.spotify.com/track/0JbMHZYJhPBqn4gkyurRUR"
     },
     {
       "album": {
@@ -17691,6 +17743,28 @@
     },
     {
       "album": {
+        "name": "RAGAZZiNi ETERO 2 (feat. Macello)",
+        "url": "https://open.spotify.com/album/5Msu54GzFJbqV4tuaLr8So"
+      },
+      "artists": [
+        {
+          "name": "Pitta",
+          "url": "https://open.spotify.com/artist/33KV7opyVMdhw1rHHckMDT"
+        },
+        {
+          "name": "Macello",
+          "url": "https://open.spotify.com/artist/3DzlFEEKyk4jj7FuYnJSZZ"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154750,
+      "name": "RAGAZZiNi ETERO 2 (feat. Macello)",
+      "url": "https://open.spotify.com/track/7tspQe2hRlg1Z8bBoQT45x"
+    },
+    {
+      "album": {
         "name": "MARIO III",
         "url": "https://open.spotify.com/album/7aAe08RqsSDaQrcAjbqWLX"
       },
@@ -18264,6 +18338,28 @@
       "duration_ms": 175133,
       "name": "Rocket (feat. Artie 5ive)",
       "url": "https://open.spotify.com/track/0mBodlmNGZMVHCjv58MbBC"
+    },
+    {
+      "album": {
+        "name": "Nerissima",
+        "url": "https://open.spotify.com/album/4aVP5OanDJz1dXGV1Y0TER"
+      },
+      "artists": [
+        {
+          "name": "Nerissima Serpe",
+          "url": "https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB"
+        },
+        {
+          "name": "Fritu",
+          "url": "https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121138,
+      "name": "Rocky",
+      "url": "https://open.spotify.com/track/4bc7nEBkSHWz3Vf9KyiAtE"
     },
     {
       "album": {
@@ -21102,7 +21198,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 190539,
       "name": "Tinky Winky (feat. Pitta & Macello)",
       "url": "https://open.spotify.com/track/0CcRHkvHChzo9wJDDtzR2L"
@@ -21334,7 +21430,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 116926,
       "name": "TOP BOY",
       "url": "https://open.spotify.com/track/7dONqMIllUjN1VztWTWvHf"
@@ -22014,6 +22110,24 @@
       "duration_ms": 173333,
       "name": "Una Chance",
       "url": "https://open.spotify.com/track/5brevnJdMxziQov6zyaQ1f"
+    },
+    {
+      "album": {
+        "name": "UNABOMBER",
+        "url": "https://open.spotify.com/album/4e4E7oylKuCR4zXuadL0N3"
+      },
+      "artists": [
+        {
+          "name": "Lito",
+          "url": "https://open.spotify.com/artist/3Es16vmqYL43ifHZR4YjbO"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128017,
+      "name": "UNABOMBER",
+      "url": "https://open.spotify.com/track/4BEmfcN2xWbPxsPSlsu37B"
     },
     {
       "album": {

@@ -606,7 +606,7 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 178677,
       "name": "Four White Walls",
       "url": "https://open.spotify.com/track/2040q4zSC7ipniAuswCWqe"
@@ -808,6 +808,28 @@
       "duration_ms": 199753,
       "name": "I Will Follow You into the Dark",
       "url": "https://open.spotify.com/track/2M4mARhsnvqaDpE42JUJLH"
+    },
+    {
+      "album": {
+        "name": "Nine Reasons To Say Goodbye",
+        "url": "https://open.spotify.com/album/3r203Kg2OfitDSvIWv8vSx"
+      },
+      "artists": [
+        {
+          "name": "A Day In The Life",
+          "url": "https://open.spotify.com/artist/07xLcyDwfSZmCv7V3jr4tr"
+        },
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155173,
+      "name": "I'm Not Crying, My Eyeballs Are Sweating",
+      "url": "https://open.spotify.com/track/1DfUSYZzZ2S1e1aD6JzAD8"
     },
     {
       "album": {

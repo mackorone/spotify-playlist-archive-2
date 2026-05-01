@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 
 > FREE SUBMISSIONS \- Got unreleased music in 2025 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 5,413 likes - 335 songs - 17 hr 41 min
+[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 5,415 likes - 341 songs - 17 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -343,5 +343,11 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 | 333 | [Don't Forget Me](https://open.spotify.com/track/1RwNwMXERLZ3B7IBdkscv8) | [Retro\~Genesis](https://open.spotify.com/artist/0spJVl6JjiIh484jjlScHL) | [Don't Forget Me](https://open.spotify.com/album/3umy5P5Z8lc168eDWQwuS0) | 3:58 |
 | 334 | [Pulse](https://open.spotify.com/track/7s2KVLvcukEffhFNvWnjhO) | [Strathearn](https://open.spotify.com/artist/5ai6TUTcjUUXmB3WfeFqW4) | [Line 1](https://open.spotify.com/album/7hfFL1T5p0vYoCmNaabST5) | 5:25 |
 | 335 | [Água Viva](https://open.spotify.com/track/2GGf3fne4G1MZB8WlZaRri) | [Custódio Rezende](https://open.spotify.com/artist/5HIRp9osuBwibxJi1ovlRQ) | [Quartzo Rosa](https://open.spotify.com/album/1FuL9Lsf48JnyB1i1i07Ta) | 6:32 |
+| 336 | [A Spring of Bleak Midwinter](https://open.spotify.com/track/2uzY9Isy91887tzQNarisi) | [Morten Tellegen](https://open.spotify.com/artist/4dkwkBp0E7JaRbQpX803yV) | [A Spring of Bleak Midwinter / Kindness Mistaken for Weakness](https://open.spotify.com/album/05NptC9RydjKwKmZLVhhmA) | 3:04 |
+| 337 | [my medication](https://open.spotify.com/track/2UkTzHwSSLcFof1muj3XHz) | [Blooming Cellar](https://open.spotify.com/artist/3vP2BcyNwoVMEsi1bBy5A6) | [my medication](https://open.spotify.com/album/3ywRW5ajgw9LG7hGDVo0eL) | 3:08 |
+| 338 | [Club Vibes](https://open.spotify.com/track/2OWX1eiKWgWpkQgrUqGiMk) | [Lil Nucleus](https://open.spotify.com/artist/23xK07bovUynQY9LDP6foQ) | [BEAT TAPE VOL\. 3](https://open.spotify.com/album/1SQdP7EQDxoELOzaH3fIoX) | 1:29 |
+| 339 | [Almost There](https://open.spotify.com/track/1zocYcw3ujfDX6uvUnRIFa) | [BAKER BLUE](https://open.spotify.com/artist/7dt7lQfsLAEYe9Mgk4OP0b) | [Almost There](https://open.spotify.com/album/7EXjeN8AqYSEpsAvGPAQdi) | 4:04 |
+| 340 | [if i had you](https://open.spotify.com/track/5pPCbLQ1trQ56fzPrO2qpb) | [Logisrotting](https://open.spotify.com/artist/7g7f7dg6KSajgtY7lPctND) | [if i had you](https://open.spotify.com/album/6uvYHI1DjDiupU6zLVYEKl) | 3:38 |
+| 341 | [I Find My Song](https://open.spotify.com/track/1M0qYTLT54tub1POGPqpxq) | [Lisa Jo](https://open.spotify.com/artist/0dvzAmfBa1sWZUbowP6VPH), [SoundPulse Record Label LLC](https://open.spotify.com/artist/66zjIq3yG58uTzqyiTFHbn) | [I Find My Song](https://open.spotify.com/album/4mX4VMQAJZDFt0j25pU9Fg) | 2:18 |
 
-Snapshot ID: `AAA3t1JTqfaqDOwPyvgIYMP80ITJE1wR`
+Snapshot ID: `AAA3vf0NRjAVME+YJAOWyvyeHGQ/xo+J`

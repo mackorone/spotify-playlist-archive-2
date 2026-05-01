@@ -4,7 +4,7 @@
 
 > The hottest Anime hits of the 90s\. Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-89 songs - 6 hr 20 min
+90 songs - 6 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,12 +47,13 @@
 | [あなただけ見つめてる](https://open.spotify.com/track/0e4jGLY8dwOnhniy2Hdtzc) | [Maki Ohguro](https://open.spotify.com/artist/2iTndWRSbuvR1tQkXzT59b) | [Greatest Hits 1991\-2016 ～All Singles + ～](https://open.spotify.com/album/7H21cTv0viuP7vGAbPu5wA) | 4:42 | 2022-04-10 |  |
 | [いとおしい人のために](https://open.spotify.com/track/3ox8aLcTppZcXw0vD0kytx) | [佐藤朱美](https://open.spotify.com/artist/0b4NaVu4HHtkMPNPJPMWGz) | [いとおしい人のために](https://open.spotify.com/album/5x8WJ0ilQQbkmdLeYiy8Z0) | 3:14 | 2022-04-10 |  |
 | [うれしい予感](https://open.spotify.com/track/1q7nKN4Wk4es12GY8aPz5W) | [Marina Watanabe](https://open.spotify.com/artist/7fECFlpIoo88jHc85cD642) | [GOLDEN☆BEST 渡辺満里奈](https://open.spotify.com/album/0CqxsTkpI9Xbhit7unaZRl) | 4:11 | 2022-05-27 | 2024-04-19 |
-| [うれしい予感](https://open.spotify.com/track/24NgUiLBVjMQai0qKgvraZ) | [Marina Watanabe](https://open.spotify.com/artist/7fECFlpIoo88jHc85cD642) | [GOLDEN☆BEST 渡辺満里奈](https://open.spotify.com/album/068zocVA2NemLrj7LdYqL9) | 4:11 | 2022-04-10 |  |
+| [うれしい予感](https://open.spotify.com/track/24NgUiLBVjMQai0qKgvraZ) | [Marina Watanabe](https://open.spotify.com/artist/7fECFlpIoo88jHc85cD642) | [GOLDEN☆BEST 渡辺満里奈](https://open.spotify.com/album/068zocVA2NemLrj7LdYqL9) | 4:11 | 2022-04-10 | 2026-05-01 |
+| [おどるポンポコリン](https://open.spotify.com/track/3e5u2LOu6wlUTjMpUICCP3) | [B.B.QUEENS](https://open.spotify.com/artist/4JqWbQDxluABEUVJ3bLVQ1) | [おどるポンポコリン](https://open.spotify.com/album/3djI1lk2H3dD6cvnQ90Q8T) | 3:14 | 2026-04-30 |  |
 | [おジャ魔女カーニバル!!](https://open.spotify.com/track/63CbmTcrmJlFYSehryyG48) | [MAHO堂](https://open.spotify.com/artist/4iaXf3pKcpKpWrIaPDg2li) | [おジャ魔女どれみ Select Best](https://open.spotify.com/album/4IKaNqQcDMuRkfpTGU1HIT) | 3:35 | 2022-04-10 |  |
 | [さぁ](https://open.spotify.com/track/72zujXU2gjddcwOw48spLR) | [Surface](https://open.spotify.com/artist/7c3NwFEgdzvFdGIa7wku5K) | [Phase](https://open.spotify.com/album/46ZYjyPcLKOIVG6ckePek9) | 3:14 | 2022-04-10 |  |
 | [さよなら文明](https://open.spotify.com/track/6JHRrDBuYq0cmOmVLo4urS) | [Bakufu Slump](https://open.spotify.com/artist/38S2jSY9Fr0AcZZWMrKuqC) | [SINGLES](https://open.spotify.com/album/5NpqHrBLsy5higgDkTnrZY) | 3:14 | 2022-08-30 | 2022-11-13 |
 | [さよなら文明](https://open.spotify.com/track/5CpSCK9dXdDOOvQsC861HN) | [Bakufu Slump](https://open.spotify.com/artist/38S2jSY9Fr0AcZZWMrKuqC) | [決定版！ 爆風スランプ大全集](https://open.spotify.com/album/22KV3uWwIq9IcM3j5USuo0) | 3:15 | 2022-05-27 | 2024-04-19 |
-| [さよなら文明](https://open.spotify.com/track/5P5sWf8z8yvVS81BpNKYHx) | [Bakufu Slump](https://open.spotify.com/artist/38S2jSY9Fr0AcZZWMrKuqC) | [決定版！ 爆風スランプ大全集](https://open.spotify.com/album/1cEp9b0ylPPPxkgCD0W3Kd) | 3:15 | 2022-04-10 |  |
+| [さよなら文明](https://open.spotify.com/track/5P5sWf8z8yvVS81BpNKYHx) | [Bakufu Slump](https://open.spotify.com/artist/38S2jSY9Fr0AcZZWMrKuqC) | [決定版！ 爆風スランプ大全集](https://open.spotify.com/album/1cEp9b0ylPPPxkgCD0W3Kd) | 3:15 | 2022-04-10 | 2026-05-01 |
 | [そばかす](https://open.spotify.com/track/0IL7LGrnYObWYyYaJ3GzWr) | [JUDY AND MARY](https://open.spotify.com/artist/7unNuvk3OEqGmegHTaxRA9) | [そばかす](https://open.spotify.com/album/5Vl05dEPdeLwUXc6OIcrrT) | 4:15 | 2022-05-27 | 2024-04-19 |
 | [そばかす](https://open.spotify.com/track/0y0lQ10KHJCZqRQtXIvh1T) | [JUDY AND MARY](https://open.spotify.com/artist/7unNuvk3OEqGmegHTaxRA9) | [THE POWER SOURCE](https://open.spotify.com/album/6WOs9qwCv99wCa8rI0hkMr) | 4:15 | 2022-04-10 |  |
 | [めざせポケモンマスター \-20th Anniversary\-](https://open.spotify.com/track/3ELgk6SEzS1e1BKqdIh252) | [Rica Matsumoto](https://open.spotify.com/artist/72GURBGvhqtUrJctxI6tE9) | [めざせポケモンマスター \-20th Anniversary\-](https://open.spotify.com/album/3KBzzDchZ4hNeBngIHASeu) | 4:19 | 2022-04-10 |  |

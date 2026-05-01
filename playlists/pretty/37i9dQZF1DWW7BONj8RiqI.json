@@ -1,6 +1,6 @@
 {
   "description": "The Soca hits we all love from back then til right now. Cover: Voice",
-  "num_followers": 246057,
+  "num_followers": 246078,
   "original_name": "Massive Soca Hits",
   "owner": {
     "name": "Spotify",
@@ -243,22 +243,6 @@
     {
       "added_at": "2026-04-23 15:16:37",
       "album": {
-        "name": "Encore",
-        "url": "https://open.spotify.com/album/04d8oF9KBLQrUgNXhMNa2l"
-      },
-      "artists": [
-        {
-          "name": "Machel Montano",
-          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
-        }
-      ],
-      "duration_ms": 257921,
-      "name": "Encore",
-      "url": "https://open.spotify.com/track/0HNiawjUbdLlOaPtbiXxYY"
-    },
-    {
-      "added_at": "2026-04-23 15:16:37",
-      "album": {
         "name": "Last Train",
         "url": "https://open.spotify.com/album/0yFAOpoi7SAzwDmx3zAEX5"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 192601,
       "name": "Doux Doux Darlin",
       "url": "https://open.spotify.com/track/77efykPXrKPWQUVN7CTvPa"
+    },
+    {
+      "added_at": "2026-04-23 15:16:37",
+      "album": {
+        "name": "Encore",
+        "url": "https://open.spotify.com/album/04d8oF9KBLQrUgNXhMNa2l"
+      },
+      "artists": [
+        {
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+        }
+      ],
+      "duration_ms": 257921,
+      "name": "Encore",
+      "url": "https://open.spotify.com/track/0HNiawjUbdLlOaPtbiXxYY"
     },
     {
       "added_at": "2026-04-23 15:16:37",
@@ -383,26 +383,6 @@
     {
       "added_at": "2026-04-23 15:16:37",
       "album": {
-        "name": "CAPITAL",
-        "url": "https://open.spotify.com/album/7fYU36Z3zAiDrhWsDlObyw"
-      },
-      "artists": [
-        {
-          "name": "Mical Teja",
-          "url": "https://open.spotify.com/artist/3hAEV7AsItFtYdftNNxSMu"
-        },
-        {
-          "name": "Patrice Roberts",
-          "url": "https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt"
-        }
-      ],
-      "duration_ms": 196500,
-      "name": "CAPITAL",
-      "url": "https://open.spotify.com/track/2nxS7kXeWZmbYltXuIV14k"
-    },
-    {
-      "added_at": "2026-04-23 15:16:37",
-      "album": {
         "name": "Same 24 Riddim",
         "url": "https://open.spotify.com/album/67TEiUfvHYKELLyVKQGgjB"
       },
@@ -419,6 +399,26 @@
       "duration_ms": 158250,
       "name": "Payroll",
       "url": "https://open.spotify.com/track/3XTjtCEfZ34xMua70IK01m"
+    },
+    {
+      "added_at": "2026-04-23 15:16:37",
+      "album": {
+        "name": "CAPITAL",
+        "url": "https://open.spotify.com/album/7fYU36Z3zAiDrhWsDlObyw"
+      },
+      "artists": [
+        {
+          "name": "Mical Teja",
+          "url": "https://open.spotify.com/artist/3hAEV7AsItFtYdftNNxSMu"
+        },
+        {
+          "name": "Patrice Roberts",
+          "url": "https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt"
+        }
+      ],
+      "duration_ms": 196500,
+      "name": "CAPITAL",
+      "url": "https://open.spotify.com/track/2nxS7kXeWZmbYltXuIV14k"
     },
     {
       "added_at": "2026-04-23 15:16:37",
@@ -527,18 +527,22 @@
     {
       "added_at": "2026-04-23 15:16:37",
       "album": {
-        "name": "Too Own Way",
-        "url": "https://open.spotify.com/album/3YPl9L6cgb4vKNiNgDeg9t"
+        "name": "Dear Promoter",
+        "url": "https://open.spotify.com/album/3fiMNWUuR76Xj38ugSEIHe"
       },
       "artists": [
         {
           "name": "Voice",
           "url": "https://open.spotify.com/artist/61buXyJGplh38VDpEaB2ds"
+        },
+        {
+          "name": "Kes",
+          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
         }
       ],
-      "duration_ms": 201807,
-      "name": "Too Own Way",
-      "url": "https://open.spotify.com/track/0HSfp7t9CTBjWXDAzMIqt3"
+      "duration_ms": 244578,
+      "name": "Dear Promoter",
+      "url": "https://open.spotify.com/track/74F3DNzHUSrJ6sNz4YkFWe"
     },
     {
       "added_at": "2026-04-23 15:16:37",
@@ -607,22 +611,18 @@
     {
       "added_at": "2026-04-23 15:16:37",
       "album": {
-        "name": "Dear Promoter",
-        "url": "https://open.spotify.com/album/3fiMNWUuR76Xj38ugSEIHe"
+        "name": "Too Own Way",
+        "url": "https://open.spotify.com/album/3YPl9L6cgb4vKNiNgDeg9t"
       },
       "artists": [
         {
           "name": "Voice",
           "url": "https://open.spotify.com/artist/61buXyJGplh38VDpEaB2ds"
-        },
-        {
-          "name": "Kes",
-          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
         }
       ],
-      "duration_ms": 244578,
-      "name": "Dear Promoter",
-      "url": "https://open.spotify.com/track/74F3DNzHUSrJ6sNz4YkFWe"
+      "duration_ms": 201807,
+      "name": "Too Own Way",
+      "url": "https://open.spotify.com/track/0HSfp7t9CTBjWXDAzMIqt3"
     },
     {
       "added_at": "2026-04-23 15:16:37",
@@ -647,18 +647,22 @@
     {
       "added_at": "2026-04-23 15:16:37",
       "album": {
-        "name": "Funky Business",
-        "url": "https://open.spotify.com/album/6irDQgYw7nObjqROUl9hoj"
+        "name": "In the Water",
+        "url": "https://open.spotify.com/album/4sgxQbY0FtG7Jy9bCmosmo"
       },
       "artists": [
         {
-          "name": "Fimba",
-          "url": "https://open.spotify.com/artist/6JHTiWS70od5zHsU5QcEqM"
+          "name": "Suhrawh",
+          "url": "https://open.spotify.com/artist/4ZEqhMBy6fKoOnzhlaMqSL"
+        },
+        {
+          "name": "Chow Minister",
+          "url": "https://open.spotify.com/artist/54d47JyqvGpK5nfJEnvwaM"
         }
       ],
-      "duration_ms": 173426,
-      "name": "Funky Business",
-      "url": "https://open.spotify.com/track/58TSNfyz3elrAG90rUKbvu"
+      "duration_ms": 159873,
+      "name": "In the Water",
+      "url": "https://open.spotify.com/track/13VEio7HfObBKUtYUDAp42"
     },
     {
       "added_at": "2026-04-23 15:16:37",
@@ -683,22 +687,18 @@
     {
       "added_at": "2026-04-23 15:16:37",
       "album": {
-        "name": "In the Water",
-        "url": "https://open.spotify.com/album/4sgxQbY0FtG7Jy9bCmosmo"
+        "name": "Funky Business",
+        "url": "https://open.spotify.com/album/6irDQgYw7nObjqROUl9hoj"
       },
       "artists": [
         {
-          "name": "Suhrawh",
-          "url": "https://open.spotify.com/artist/4ZEqhMBy6fKoOnzhlaMqSL"
-        },
-        {
-          "name": "Chow Minister",
-          "url": "https://open.spotify.com/artist/54d47JyqvGpK5nfJEnvwaM"
+          "name": "Fimba",
+          "url": "https://open.spotify.com/artist/6JHTiWS70od5zHsU5QcEqM"
         }
       ],
-      "duration_ms": 159873,
-      "name": "In the Water",
-      "url": "https://open.spotify.com/track/13VEio7HfObBKUtYUDAp42"
+      "duration_ms": 173426,
+      "name": "Funky Business",
+      "url": "https://open.spotify.com/track/58TSNfyz3elrAG90rUKbvu"
     },
     {
       "added_at": "2026-04-23 15:16:37",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2026-04-23 15:16:37",
       "album": {
-        "name": "Vagabond",
-        "url": "https://open.spotify.com/album/2onJp2lhpNNcQgThvC6uLz"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Drue",
-          "url": "https://open.spotify.com/artist/1YxLPEyDduTjPEBWKA2BmF"
-        }
-      ],
-      "duration_ms": 238032,
-      "name": "Vagabond",
-      "url": "https://open.spotify.com/track/6STKwZQQ0da003b3KHTlEL"
-    },
-    {
-      "added_at": "2026-04-23 15:16:37",
-      "album": {
         "name": "Anxiety",
         "url": "https://open.spotify.com/album/6W7sCrkEdeoBuiZOdL0Fzq"
       },
@@ -1055,18 +1039,18 @@
     {
       "added_at": "2026-04-23 15:16:37",
       "album": {
-        "name": "Carnival Contract",
-        "url": "https://open.spotify.com/album/0ehNONKKSjqOHAywRrgU2J"
+        "name": "Vagabond",
+        "url": "https://open.spotify.com/album/2onJp2lhpNNcQgThvC6uLz"
       },
       "artists": [
         {
-          "name": "Bunji Garlin",
-          "url": "https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54"
+          "name": "Ricardo Drue",
+          "url": "https://open.spotify.com/artist/1YxLPEyDduTjPEBWKA2BmF"
         }
       ],
-      "duration_ms": 238400,
-      "name": "Carnival Contract",
-      "url": "https://open.spotify.com/track/4YkuP5Y0dOighZCxkoOtg2"
+      "duration_ms": 238032,
+      "name": "Vagabond",
+      "url": "https://open.spotify.com/track/6STKwZQQ0da003b3KHTlEL"
     },
     {
       "added_at": "2026-04-23 15:16:37",
@@ -1087,6 +1071,22 @@
     {
       "added_at": "2026-04-23 15:16:37",
       "album": {
+        "name": "Carnival Contract",
+        "url": "https://open.spotify.com/album/0ehNONKKSjqOHAywRrgU2J"
+      },
+      "artists": [
+        {
+          "name": "Bunji Garlin",
+          "url": "https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54"
+        }
+      ],
+      "duration_ms": 238400,
+      "name": "Carnival Contract",
+      "url": "https://open.spotify.com/track/4YkuP5Y0dOighZCxkoOtg2"
+    },
+    {
+      "added_at": "2026-04-23 15:16:37",
+      "album": {
         "name": "Engine Room",
         "url": "https://open.spotify.com/album/5rPvmGPFkDqEfHlRg6AqBO"
       },
@@ -1099,22 +1099,6 @@
       "duration_ms": 201594,
       "name": "Engine Room",
       "url": "https://open.spotify.com/track/34PxcvkeNjwzad9j08HkYC"
-    },
-    {
-      "added_at": "2026-04-23 15:16:37",
-      "album": {
-        "name": "Blessing",
-        "url": "https://open.spotify.com/album/5VDx9lhAQoXcOojXClAncN"
-      },
-      "artists": [
-        {
-          "name": "Blaka Dan",
-          "url": "https://open.spotify.com/artist/5Ni4JcnD21yTIewzA94Q1s"
-        }
-      ],
-      "duration_ms": 187560,
-      "name": "Blessing",
-      "url": "https://open.spotify.com/track/1HOPBqlGgQfICLMDyQl0hR"
     },
     {
       "added_at": "2026-04-23 15:16:37",
@@ -1147,6 +1131,22 @@
       "duration_ms": 295106,
       "name": "Trini 2 De Bone",
       "url": "https://open.spotify.com/track/37U6SWpjdUNLmdbneCeVSP"
+    },
+    {
+      "added_at": "2026-04-23 15:16:37",
+      "album": {
+        "name": "Blessing",
+        "url": "https://open.spotify.com/album/5VDx9lhAQoXcOojXClAncN"
+      },
+      "artists": [
+        {
+          "name": "Blaka Dan",
+          "url": "https://open.spotify.com/artist/5Ni4JcnD21yTIewzA94Q1s"
+        }
+      ],
+      "duration_ms": 187560,
+      "name": "Blessing",
+      "url": "https://open.spotify.com/track/1HOPBqlGgQfICLMDyQl0hR"
     },
     {
       "added_at": "2026-04-23 15:16:37",
@@ -1219,6 +1219,26 @@
     {
       "added_at": "2026-04-23 15:16:37",
       "album": {
+        "name": "One Degree Hotter",
+        "url": "https://open.spotify.com/album/0XOSA0PmBmFqChJNipYAQG"
+      },
+      "artists": [
+        {
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 158413,
+      "name": "Fling It Up",
+      "url": "https://open.spotify.com/track/23NyOI3LyPTddD5kZRpO9b"
+    },
+    {
+      "added_at": "2026-04-23 15:16:37",
+      "album": {
         "name": "ESKIMO (Remix)",
         "url": "https://open.spotify.com/album/6nyKtPtSwlci3g0BeQDvqt"
       },
@@ -1235,26 +1255,6 @@
       "duration_ms": 181153,
       "name": "ESKIMO - Remix",
       "url": "https://open.spotify.com/track/5g3FsL8VeeCMt3rlFhEqw6"
-    },
-    {
-      "added_at": "2026-04-23 15:16:37",
-      "album": {
-        "name": "EUPHORIA",
-        "url": "https://open.spotify.com/album/3pEALunB4gXhOUfAuP0Z5g"
-      },
-      "artists": [
-        {
-          "name": "Certified Sampson",
-          "url": "https://open.spotify.com/artist/7Er5Bbp9JMbSzapxQ77Ygm"
-        },
-        {
-          "name": "Sekon Sta",
-          "url": "https://open.spotify.com/artist/6Jkbr7HmDNtlnBjWL3BdNk"
-        }
-      ],
-      "duration_ms": 204223,
-      "name": "EUPHORIA",
-      "url": "https://open.spotify.com/track/6PvhVJuL4TN3NJN0RWa4WA"
     },
     {
       "added_at": "2026-04-23 15:16:37",
@@ -1299,22 +1299,22 @@
     {
       "added_at": "2026-04-23 15:16:37",
       "album": {
-        "name": "One Degree Hotter",
-        "url": "https://open.spotify.com/album/0XOSA0PmBmFqChJNipYAQG"
+        "name": "EUPHORIA",
+        "url": "https://open.spotify.com/album/3pEALunB4gXhOUfAuP0Z5g"
       },
       "artists": [
         {
-          "name": "Machel Montano",
-          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+          "name": "Certified Sampson",
+          "url": "https://open.spotify.com/artist/7Er5Bbp9JMbSzapxQ77Ygm"
         },
         {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+          "name": "Sekon Sta",
+          "url": "https://open.spotify.com/artist/6Jkbr7HmDNtlnBjWL3BdNk"
         }
       ],
-      "duration_ms": 158413,
-      "name": "Fling It Up",
-      "url": "https://open.spotify.com/track/23NyOI3LyPTddD5kZRpO9b"
+      "duration_ms": 204223,
+      "name": "EUPHORIA",
+      "url": "https://open.spotify.com/track/6PvhVJuL4TN3NJN0RWa4WA"
     },
     {
       "added_at": "2026-04-23 15:16:37",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2026-04-23 15:16:37",
       "album": {
-        "name": "Origins",
-        "url": "https://open.spotify.com/album/0WtzfApehqHSyiSlSJ6RuQ"
-      },
-      "artists": [
-        {
-          "name": "Nailah Blackman",
-          "url": "https://open.spotify.com/artist/1K23l3n63BTCtIMm0TyS4c"
-        }
-      ],
-      "duration_ms": 201818,
-      "name": "Origins",
-      "url": "https://open.spotify.com/track/5YxAC8B9ZqMAar0WLH3m1F"
-    },
-    {
-      "added_at": "2026-04-23 15:16:37",
-      "album": {
         "name": "Planet Jab Riddim",
         "url": "https://open.spotify.com/album/4VUnJWciCgLZP3Wsf3jCGq"
       },
@@ -1463,18 +1447,18 @@
     {
       "added_at": "2026-04-23 15:16:37",
       "album": {
-        "name": "Find Yuh",
-        "url": "https://open.spotify.com/album/65LMGAUePq5Aepr6sCz3XL"
+        "name": "Origins",
+        "url": "https://open.spotify.com/album/0WtzfApehqHSyiSlSJ6RuQ"
       },
       "artists": [
         {
-          "name": "Problem Child",
-          "url": "https://open.spotify.com/artist/1lE1SGLNabSpBbJB9A9qtU"
+          "name": "Nailah Blackman",
+          "url": "https://open.spotify.com/artist/1K23l3n63BTCtIMm0TyS4c"
         }
       ],
-      "duration_ms": 202434,
-      "name": "Find Yuh",
-      "url": "https://open.spotify.com/track/5X80Zpf1G1jXKpoHxobsbc"
+      "duration_ms": 201818,
+      "name": "Origins",
+      "url": "https://open.spotify.com/track/5YxAC8B9ZqMAar0WLH3m1F"
     },
     {
       "added_at": "2026-04-23 15:16:37",
@@ -1495,22 +1479,6 @@
     {
       "added_at": "2026-04-23 15:16:37",
       "album": {
-        "name": "Bam Bam",
-        "url": "https://open.spotify.com/album/5AdNVvhnCuLZgPbqfmZU2W"
-      },
-      "artists": [
-        {
-          "name": "Lil Rick",
-          "url": "https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0"
-        }
-      ],
-      "duration_ms": 167019,
-      "name": "Bam Bam",
-      "url": "https://open.spotify.com/track/3TP4bqNjBsCma8WJvkhYtP"
-    },
-    {
-      "added_at": "2026-04-23 15:16:37",
-      "album": {
         "name": "Darkseid Riddim",
         "url": "https://open.spotify.com/album/6jCLEXGfOXFLggNEXuSfpX"
       },
@@ -1527,6 +1495,22 @@
     {
       "added_at": "2026-04-23 15:16:37",
       "album": {
+        "name": "Bam Bam",
+        "url": "https://open.spotify.com/album/5AdNVvhnCuLZgPbqfmZU2W"
+      },
+      "artists": [
+        {
+          "name": "Lil Rick",
+          "url": "https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0"
+        }
+      ],
+      "duration_ms": 167019,
+      "name": "Bam Bam",
+      "url": "https://open.spotify.com/track/3TP4bqNjBsCma8WJvkhYtP"
+    },
+    {
+      "added_at": "2026-04-23 15:16:37",
+      "album": {
         "name": "Sit on My Face",
         "url": "https://open.spotify.com/album/6ASsV15On3lnOIRSMFapBg"
       },
@@ -1539,6 +1523,38 @@
       "duration_ms": 87086,
       "name": "Sit on My Face",
       "url": "https://open.spotify.com/track/0uXePy8d0vmDmhrZgUhGrc"
+    },
+    {
+      "added_at": "2026-04-23 15:16:37",
+      "album": {
+        "name": "Lambadas Internacionais - As Melhores",
+        "url": "https://open.spotify.com/album/0Hzrm8zIwjHMLFDKj7PUr7"
+      },
+      "artists": [
+        {
+          "name": "Carlos Santos",
+          "url": "https://open.spotify.com/artist/4eoSXFwVd27qPVU0DKOsRB"
+        }
+      ],
+      "duration_ms": 258666,
+      "name": "Hot-Hot-Hot",
+      "url": "https://open.spotify.com/track/1jX39MCEaLx0Ikt4eJiXSj"
+    },
+    {
+      "added_at": "2026-04-23 15:16:37",
+      "album": {
+        "name": "Find Yuh",
+        "url": "https://open.spotify.com/album/65LMGAUePq5Aepr6sCz3XL"
+      },
+      "artists": [
+        {
+          "name": "Problem Child",
+          "url": "https://open.spotify.com/artist/1lE1SGLNabSpBbJB9A9qtU"
+        }
+      ],
+      "duration_ms": 202434,
+      "name": "Find Yuh",
+      "url": "https://open.spotify.com/track/5X80Zpf1G1jXKpoHxobsbc"
     },
     {
       "added_at": "2026-04-23 15:16:37",
@@ -1579,38 +1595,6 @@
     {
       "added_at": "2026-04-23 15:16:37",
       "album": {
-        "name": "Lambadas Internacionais - As Melhores",
-        "url": "https://open.spotify.com/album/0Hzrm8zIwjHMLFDKj7PUr7"
-      },
-      "artists": [
-        {
-          "name": "Carlos Santos",
-          "url": "https://open.spotify.com/artist/4eoSXFwVd27qPVU0DKOsRB"
-        }
-      ],
-      "duration_ms": 258666,
-      "name": "Hot-Hot-Hot",
-      "url": "https://open.spotify.com/track/1jX39MCEaLx0Ikt4eJiXSj"
-    },
-    {
-      "added_at": "2026-04-23 15:16:37",
-      "album": {
-        "name": "The Carnival Jumbies Experiment",
-        "url": "https://open.spotify.com/album/1NfQNys9lc4W2uARBNPPga"
-      },
-      "artists": [
-        {
-          "name": "Problem Child",
-          "url": "https://open.spotify.com/artist/1lE1SGLNabSpBbJB9A9qtU"
-        }
-      ],
-      "duration_ms": 158917,
-      "name": "Carnival Jumbie",
-      "url": "https://open.spotify.com/track/6zFjWcBpe9N4mzD6AWp2pQ"
-    },
-    {
-      "added_at": "2026-04-23 15:16:37",
-      "album": {
         "name": "Charge",
         "url": "https://open.spotify.com/album/15Kfg4oI8XNt0FRRzPvcxo"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 182125,
       "name": "Soak It Good",
       "url": "https://open.spotify.com/track/0wfBV1srBNO2dRyWL1BxS9"
+    },
+    {
+      "added_at": "2026-04-23 15:16:37",
+      "album": {
+        "name": "The Carnival Jumbies Experiment",
+        "url": "https://open.spotify.com/album/1NfQNys9lc4W2uARBNPPga"
+      },
+      "artists": [
+        {
+          "name": "Problem Child",
+          "url": "https://open.spotify.com/artist/1lE1SGLNabSpBbJB9A9qtU"
+        }
+      ],
+      "duration_ms": 158917,
+      "name": "Carnival Jumbie",
+      "url": "https://open.spotify.com/track/6zFjWcBpe9N4mzD6AWp2pQ"
     },
     {
       "added_at": "2026-04-23 15:16:37",
@@ -1699,26 +1699,6 @@
     {
       "added_at": "2026-04-23 15:16:37",
       "album": {
-        "name": "Lose Weight",
-        "url": "https://open.spotify.com/album/3jHQ2GrFQlLS71PoqIpIRF"
-      },
-      "artists": [
-        {
-          "name": "Sackie",
-          "url": "https://open.spotify.com/artist/2fZJnsBgeBQfyjpdLAa6yh"
-        },
-        {
-          "name": "System32",
-          "url": "https://open.spotify.com/artist/7otiKgm5qrgugGPiW4by20"
-        }
-      ],
-      "duration_ms": 167999,
-      "name": "Lose Weight",
-      "url": "https://open.spotify.com/track/4ZxNX6lwbBJjOY3cg57L46"
-    },
-    {
-      "added_at": "2026-04-23 15:16:37",
-      "album": {
         "name": "Front Yard Wet",
         "url": "https://open.spotify.com/album/4w4NeTusrat5zotDuEzYOk"
       },
@@ -1755,6 +1735,26 @@
     {
       "added_at": "2026-04-23 15:16:37",
       "album": {
+        "name": "Lose Weight",
+        "url": "https://open.spotify.com/album/3jHQ2GrFQlLS71PoqIpIRF"
+      },
+      "artists": [
+        {
+          "name": "Sackie",
+          "url": "https://open.spotify.com/artist/2fZJnsBgeBQfyjpdLAa6yh"
+        },
+        {
+          "name": "System32",
+          "url": "https://open.spotify.com/artist/7otiKgm5qrgugGPiW4by20"
+        }
+      ],
+      "duration_ms": 167999,
+      "name": "Lose Weight",
+      "url": "https://open.spotify.com/track/4ZxNX6lwbBJjOY3cg57L46"
+    },
+    {
+      "added_at": "2026-04-23 15:16:37",
+      "album": {
         "name": "Energy",
         "url": "https://open.spotify.com/album/6QjEZHqkpf3tCCEO4384zk"
       },
@@ -1771,18 +1771,18 @@
     {
       "added_at": "2026-04-23 15:16:37",
       "album": {
-        "name": "Blind",
-        "url": "https://open.spotify.com/album/2vBIHd56g3B7who55PVxqS"
+        "name": "Spoil You",
+        "url": "https://open.spotify.com/album/05O8Va1zg6YGzpSv6jHBsb"
       },
       "artists": [
         {
-          "name": "Hey Choppi",
-          "url": "https://open.spotify.com/artist/27GA6NMM69byd5ankSWsXw"
+          "name": "Shemmy J",
+          "url": "https://open.spotify.com/artist/4FqeF4EINBD7lE3ulmExh2"
         }
       ],
-      "duration_ms": 196557,
-      "name": "Blind",
-      "url": "https://open.spotify.com/track/7bErUZsA8PjlWoubWJOAZr"
+      "duration_ms": 188842,
+      "name": "Spoil You",
+      "url": "https://open.spotify.com/track/1PR6TnBCQncxQPtUC3o0ZE"
     }
   ],
   "unique_name": "Massive Soca Hits",

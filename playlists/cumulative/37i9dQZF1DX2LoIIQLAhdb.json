@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Singuila x Monsieur Nov",
+  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Wejdene",
   "name": "R&Bae",
   "tracks": [
     {
@@ -1698,6 +1698,24 @@
       "duration_ms": 96981,
       "name": "CADILLAC",
       "url": "https://open.spotify.com/track/4eQ2L4muTCOHID7hQ7Tm7N"
+    },
+    {
+      "album": {
+        "name": "Call Me Mommy",
+        "url": "https://open.spotify.com/album/2sBG76tbuxuhGgyb5dJqsu"
+      },
+      "artists": [
+        {
+          "name": "7iaa",
+          "url": "https://open.spotify.com/artist/753CpLj7OaZZbx5qLWHFpl"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199200,
+      "name": "Call Me Mommy",
+      "url": "https://open.spotify.com/track/3KSfHcdJF24FCiwY9W46bo"
     },
     {
       "album": {
@@ -4442,7 +4460,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 156763,
       "name": "Gal\u00e8re sur gal\u00e8re",
       "url": "https://open.spotify.com/track/56mPwjp8KFY0fFJyaRbKoQ"
@@ -4666,7 +4684,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 142574,
       "name": "Go Mama",
       "url": "https://open.spotify.com/track/3yfkPZM7wbkFilcFDYoezF"
@@ -4754,6 +4772,24 @@
       "duration_ms": 188953,
       "name": "Grand Spectacle",
       "url": "https://open.spotify.com/track/19ugVSsCGrQFSR6YAkH78k"
+    },
+    {
+      "album": {
+        "name": "Unmade",
+        "url": "https://open.spotify.com/album/5iS20v4owMyFzmBx2T05AQ"
+      },
+      "artists": [
+        {
+          "name": "Wejdene",
+          "url": "https://open.spotify.com/artist/1SxuyHZnLUFyFHGzdGaxZk"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150866,
+      "name": "GT",
+      "url": "https://open.spotify.com/track/6QrJfDLVv1FwcdS4bIfcns"
     },
     {
       "album": {
@@ -5102,7 +5138,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 177328,
       "name": "Illusion",
       "url": "https://open.spotify.com/track/06vQqSLwVuosC5dAupBAbT"
@@ -5602,7 +5638,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 168157,
       "name": "Jamais",
       "url": "https://open.spotify.com/track/4VHOpYHGOgjVWyRLqKnfXv"
@@ -5740,6 +5776,24 @@
       "duration_ms": 205080,
       "name": "Je t\u2019aime n\u2019est pas assez fort",
       "url": "https://open.spotify.com/track/4hkDLIDklIRQiJEHQouKJu"
+    },
+    {
+      "album": {
+        "name": "Jena",
+        "url": "https://open.spotify.com/album/4TCNi6CjPPXaDgAvGG3cbb"
+      },
+      "artists": [
+        {
+          "name": "Ayvee",
+          "url": "https://open.spotify.com/artist/0abpwgWh43SsFPq3uVRAae"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124675,
+      "name": "Jena",
+      "url": "https://open.spotify.com/track/4rSYypyADMDC12pVtH99Gb"
     },
     {
       "album": {
@@ -5888,7 +5942,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 183829,
       "name": "jusqu'au matin",
       "url": "https://open.spotify.com/track/1VhEnpyFC5VDjzgO8QAPJS"
@@ -7370,6 +7424,24 @@
       "duration_ms": 130084,
       "name": "mariela",
       "url": "https://open.spotify.com/track/0vmUVKqZkplRRBPlPUGlzc"
+    },
+    {
+      "album": {
+        "name": "Maudit",
+        "url": "https://open.spotify.com/album/0plg7WbsZyvn01Y0g4CtiC"
+      },
+      "artists": [
+        {
+          "name": "Nej",
+          "url": "https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172107,
+      "name": "Maudit",
+      "url": "https://open.spotify.com/track/5BthTKwBobneeWl7LYiZTK"
     },
     {
       "album": {
@@ -11262,6 +11334,24 @@
       "duration_ms": 201902,
       "name": "Shot",
       "url": "https://open.spotify.com/track/4Gybxap5JBdHDa8Kjsd3NM"
+    },
+    {
+      "album": {
+        "name": "Si demain tout s'arr\u00eate",
+        "url": "https://open.spotify.com/album/3iua8smtZwCCgS8rKOmURm"
+      },
+      "artists": [
+        {
+          "name": "Oussama",
+          "url": "https://open.spotify.com/artist/473J09XfjAXYQPbYQQS9Ml"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123584,
+      "name": "Si demain tout s'arr\u00eate",
+      "url": "https://open.spotify.com/track/1LMogSFHB12uY3o1Sh7m1N"
     },
     {
       "album": {

@@ -2085,6 +2085,24 @@
     },
     {
       "album": {
+        "name": "Yang No.1",
+        "url": "https://open.spotify.com/album/5rlPkZwe6EZ019sAoGadne"
+      },
+      "artists": [
+        {
+          "name": "D'Bagindas",
+          "url": "https://open.spotify.com/artist/6IVfG2b4I86tYdigTdpWUa"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218106,
+      "name": "Maafkan",
+      "url": "https://open.spotify.com/track/2zZZQM87GupPuk78UofvFr"
+    },
+    {
+      "album": {
         "name": "Satu Hati Sejuta Cinta",
         "url": "https://open.spotify.com/album/78rrGhb8kb4g0P8ewToKIo"
       },

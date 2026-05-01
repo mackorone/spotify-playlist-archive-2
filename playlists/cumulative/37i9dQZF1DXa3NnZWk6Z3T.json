@@ -1454,7 +1454,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 202770,
       "name": "Capul\u00ed",
       "url": "https://open.spotify.com/track/5yoQCiZjwoAKqBzqKlDdh5"
@@ -3642,6 +3642,24 @@
       "duration_ms": 267456,
       "name": "La Sanadora",
       "url": "https://open.spotify.com/track/0GxzmQ5sE5Uq50LkQB3DO4"
+    },
+    {
+      "album": {
+        "name": "La Sonrisa M\u00e1s Grande",
+        "url": "https://open.spotify.com/album/20xIzkBvQb8Y3BQNKG4Zc3"
+      },
+      "artists": [
+        {
+          "name": "Alex Solio",
+          "url": "https://open.spotify.com/artist/2CONUUVGLQfkk6TdDEH3Ce"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212250,
+      "name": "La Sonrisa M\u00e1s Grande",
+      "url": "https://open.spotify.com/track/1lgmuYOs0U9kHXqPgJ61Fb"
     },
     {
       "album": {

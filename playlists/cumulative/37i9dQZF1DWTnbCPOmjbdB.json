@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Najlepsze polskie piosenki na czasie. Cover: Maciej Musia\u0142owski",
+  "description": "Najlepsze polskie piosenki na czasie. Cover: Maciej Skiba, Bletka",
   "name": "Polskie hity",
   "tracks": [
     {
@@ -651,6 +651,24 @@
     },
     {
       "album": {
+        "name": "Bal",
+        "url": "https://open.spotify.com/album/4kWaASaF31abOC7j5QhMVP"
+      },
+      "artists": [
+        {
+          "name": "Robert Wiewi\u00f3ra",
+          "url": "https://open.spotify.com/artist/2maqo0I7n0YWoX1332xVCN"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167111,
+      "name": "Bal",
+      "url": "https://open.spotify.com/track/6UmVdXJ3mg0uPWnEyRzfRQ"
+    },
+    {
+      "album": {
         "name": "Dziewczyna Pop",
         "url": "https://open.spotify.com/album/6tHc8WdUmPmU8HnQPNubkB"
       },
@@ -812,7 +830,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 163000,
       "name": "BEZ OBAW",
       "url": "https://open.spotify.com/track/7iIaD7kw9gsILDIEMb6hNy"
@@ -5369,6 +5387,44 @@
     },
     {
       "album": {
+        "name": "Jedziemy na domki",
+        "url": "https://open.spotify.com/album/2dvHmFzqCfd8HQ9zyVgrv1"
+      },
+      "artists": [
+        {
+          "name": "Ekipa",
+          "url": "https://open.spotify.com/artist/4rneSQYWhgIT9pMX2NwpeM"
+        },
+        {
+          "name": "\u015awie\u017cy",
+          "url": "https://open.spotify.com/artist/1EIiX3fde2dGnFkYH3527s"
+        },
+        {
+          "name": "Michu Kontrabas",
+          "url": "https://open.spotify.com/artist/1IC954ehnIxfV7Ek4sW9Uj"
+        },
+        {
+          "name": "Asia Marcinik",
+          "url": "https://open.spotify.com/artist/1qooF2LGQbl1ReJzYY6Eys"
+        },
+        {
+          "name": "Postirol",
+          "url": "https://open.spotify.com/artist/2MdRJ4qSgSQk9uA95FITj3"
+        },
+        {
+          "name": "Kwolczi",
+          "url": "https://open.spotify.com/artist/2ixtjqXDvLMk4FzMoQQK6C"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120333,
+      "name": "Jedziemy na domki",
+      "url": "https://open.spotify.com/track/1k6UKqqaN8YmJJzTp0gyCw"
+    },
+    {
+      "album": {
         "name": "Jenga",
         "url": "https://open.spotify.com/album/6tU2xyoMM6SDb8O2Ava3E6"
       },
@@ -6168,7 +6224,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 155000,
       "name": "kto jak nie my",
       "url": "https://open.spotify.com/track/5rNlHvLzdWxWUPX2oPGv0B"
@@ -6976,7 +7032,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 199186,
       "name": "Lustro",
       "url": "https://open.spotify.com/track/5oX4vOfPBdUu43mO8gtv8o"
@@ -7791,6 +7847,24 @@
     },
     {
       "album": {
+        "name": "Moja Pani",
+        "url": "https://open.spotify.com/album/2OXGhXjyJnVacNCaAY4rAr"
+      },
+      "artists": [
+        {
+          "name": "Vixen",
+          "url": "https://open.spotify.com/artist/5XKQ8fa0WdWBmgMFDmctCO"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143138,
+      "name": "Moja Pani",
+      "url": "https://open.spotify.com/track/0EDjVUr4AhNISqIs6Vc4Tb"
+    },
+    {
+      "album": {
         "name": "Moje miejsce",
         "url": "https://open.spotify.com/album/4HMZ6GzdJtUNIxxhdTNHnu"
       },
@@ -8100,7 +8174,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 156832,
       "name": "M\u0142odo\u015b\u0107",
       "url": "https://open.spotify.com/track/6xas8rCvndrb5qGPOnPSQ9"
@@ -8212,7 +8286,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 141913,
       "name": "Na drog\u0119",
       "url": "https://open.spotify.com/track/3sX1kLGx9yCt4yiT4z12GC"
@@ -10084,7 +10158,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 170526,
       "name": "OCH MAMA",
       "url": "https://open.spotify.com/track/4o57q3MdpFK1sQfFfbPJDD"
@@ -11790,6 +11864,24 @@
       "duration_ms": 186315,
       "name": "Presja",
       "url": "https://open.spotify.com/track/5PaZC5nA3HLHHI2Q7w4jIR"
+    },
+    {
+      "album": {
+        "name": "PRICE TAG",
+        "url": "https://open.spotify.com/album/4zLvUo0kxF4ULzX0XL3bui"
+      },
+      "artists": [
+        {
+          "name": "Sara James",
+          "url": "https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190660,
+      "name": "PRICE TAG",
+      "url": "https://open.spotify.com/track/6ea45jrg9LYFUapPi4B0sC"
     },
     {
       "album": {
@@ -16037,6 +16129,28 @@
     },
     {
       "album": {
+        "name": "WSZYSTKO",
+        "url": "https://open.spotify.com/album/3GrbrV75vsH22JdIHRzScV"
+      },
+      "artists": [
+        {
+          "name": "DZIARMA",
+          "url": "https://open.spotify.com/artist/6LwJ1zgqEFyIwXzDD44Qsn"
+        },
+        {
+          "name": "Miroff",
+          "url": "https://open.spotify.com/artist/6BanFN5Xaq11YYRogYOtnD"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "WSZYSTKO",
+      "url": "https://open.spotify.com/track/2GPQ8HjBA9KvQcsGduVOUX"
+    },
+    {
+      "album": {
         "name": "Wszystko co mam",
         "url": "https://open.spotify.com/album/57JaHawAaX7K2tdQmqAFU3"
       },
@@ -16066,7 +16180,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-20",
+      "date_removed": null,
       "duration_ms": 185250,
       "name": "wszystko jedno, wszystko \u017ale",
       "url": "https://open.spotify.com/track/1yXPUokqPGKcdzP7gsS6TZ"
@@ -16216,7 +16330,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 202295,
       "name": "Z cukrem myl\u0119 l\u00f3d",
       "url": "https://open.spotify.com/track/335yWRhRBaHbyzmPyFJ0nj"
@@ -16286,6 +16400,28 @@
       "duration_ms": 156004,
       "name": "Z TOB\u0104 BIEC",
       "url": "https://open.spotify.com/track/6a3WL3AOgvNX8RGTZPxuhG"
+    },
+    {
+      "album": {
+        "name": "Z Tob\u0105 by\u0107 (love u like that)",
+        "url": "https://open.spotify.com/album/1kvi0FLwY0569zzpDXppJP"
+      },
+      "artists": [
+        {
+          "name": "Maciej Skiba",
+          "url": "https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq"
+        },
+        {
+          "name": "Bletka",
+          "url": "https://open.spotify.com/artist/4QYitR7yrCaf5CLQ09hX1m"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161538,
+      "name": "Z Tob\u0105 by\u0107 (love u like that)",
+      "url": "https://open.spotify.com/track/08y6uLM8jQePtUOSEWJTuj"
     },
     {
       "album": {

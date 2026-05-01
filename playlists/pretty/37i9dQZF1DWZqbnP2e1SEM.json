@@ -1,6 +1,6 @@
 {
   "description": "From Ayia Napa to Ibiza, the biggest anthems from your favourite holiday hotspots.",
-  "num_followers": 325301,
+  "num_followers": 325305,
   "original_name": "Island Anthems",
   "owner": {
     "name": "Spotify",
@@ -1291,26 +1291,6 @@
     {
       "added_at": "2026-04-16 23:00:23",
       "album": {
-        "name": "On A Wave",
-        "url": "https://open.spotify.com/album/1Dt7fCJPdgPrJtxeJuW2dK"
-      },
-      "artists": [
-        {
-          "name": "East End Dubs",
-          "url": "https://open.spotify.com/artist/5nw8Cj9x9XXKDuuNhl5mF7"
-        },
-        {
-          "name": "Jazzy",
-          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
-        }
-      ],
-      "duration_ms": 199384,
-      "name": "On A Wave",
-      "url": "https://open.spotify.com/track/3muLFpPgteeIB5djrsEjk6"
-    },
-    {
-      "added_at": "2026-04-16 23:00:23",
-      "album": {
         "name": "Sippin",
         "url": "https://open.spotify.com/album/78Dma8F2gORqPspfYEunqu"
       },
@@ -1327,6 +1307,26 @@
       "duration_ms": 158075,
       "name": "Sippin",
       "url": "https://open.spotify.com/track/60pHhvyWNIHvjIUWOKBUg6"
+    },
+    {
+      "added_at": "2026-04-16 23:00:23",
+      "album": {
+        "name": "On A Wave",
+        "url": "https://open.spotify.com/album/1Dt7fCJPdgPrJtxeJuW2dK"
+      },
+      "artists": [
+        {
+          "name": "East End Dubs",
+          "url": "https://open.spotify.com/artist/5nw8Cj9x9XXKDuuNhl5mF7"
+        },
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        }
+      ],
+      "duration_ms": 199384,
+      "name": "On A Wave",
+      "url": "https://open.spotify.com/track/3muLFpPgteeIB5djrsEjk6"
     },
     {
       "added_at": "2026-04-16 23:00:23",
@@ -1479,26 +1479,6 @@
     {
       "added_at": "2026-04-16 23:00:23",
       "album": {
-        "name": "Satisfaction (Benny Benassi Presents The Biz)",
-        "url": "https://open.spotify.com/album/4fQC9i9e9rDI7MwoY0M0HX"
-      },
-      "artists": [
-        {
-          "name": "Benny Benassi",
-          "url": "https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6"
-        },
-        {
-          "name": "The Biz",
-          "url": "https://open.spotify.com/artist/1jQDgp9Fak4WYVZedWLF4G"
-        }
-      ],
-      "duration_ms": 143933,
-      "name": "Satisfaction - Uk Radio Edit",
-      "url": "https://open.spotify.com/track/2mRNUz2RbAFf0AkPeQWelt"
-    },
-    {
-      "added_at": "2026-04-16 23:00:23",
-      "album": {
         "name": "Here In Your Arms",
         "url": "https://open.spotify.com/album/7gpwvr3MB0ZMVEQsF2vR13"
       },
@@ -1515,6 +1495,26 @@
       "duration_ms": 152561,
       "name": "Here In Your Arms",
       "url": "https://open.spotify.com/track/177kCDBuL5HQwdi6peCaUx"
+    },
+    {
+      "added_at": "2026-04-16 23:00:23",
+      "album": {
+        "name": "Satisfaction (Benny Benassi Presents The Biz)",
+        "url": "https://open.spotify.com/album/4fQC9i9e9rDI7MwoY0M0HX"
+      },
+      "artists": [
+        {
+          "name": "Benny Benassi",
+          "url": "https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6"
+        },
+        {
+          "name": "The Biz",
+          "url": "https://open.spotify.com/artist/1jQDgp9Fak4WYVZedWLF4G"
+        }
+      ],
+      "duration_ms": 143933,
+      "name": "Satisfaction - Uk Radio Edit",
+      "url": "https://open.spotify.com/track/2mRNUz2RbAFf0AkPeQWelt"
     },
     {
       "added_at": "2026-04-16 23:00:23",

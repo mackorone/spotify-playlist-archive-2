@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "A Place I'm Calling Home",
+        "url": "https://open.spotify.com/album/1tHho6tUs0s5M51ttytCMv"
+      },
+      "artists": [
+        {
+          "name": "Dennis Lloyd",
+          "url": "https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "A Place I'm Calling Home",
+      "url": "https://open.spotify.com/track/1CwW44IAG8c3n0A7uCvysN"
+    },
+    {
+      "album": {
         "name": "A Thousand Times",
         "url": "https://open.spotify.com/album/0KoAvYIp3jyn8XrFnxCqaF"
       },
@@ -808,7 +826,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 191516,
       "name": "GODMOTHER (feat. Eden Ben Zaken)",
       "url": "https://open.spotify.com/track/72yhMb8kkkzWxM4UEPywPC"
@@ -1392,6 +1410,24 @@
       "duration_ms": 191420,
       "name": "Match",
       "url": "https://open.spotify.com/track/20eHfZYjCdmDG3MgGTRB0u"
+    },
+    {
+      "album": {
+        "name": "GOING INTO THE HOUSE",
+        "url": "https://open.spotify.com/album/4UJ6QZimZToaBVwcuU4RBF"
+      },
+      "artists": [
+        {
+          "name": "Allan Tune",
+          "url": "https://open.spotify.com/artist/0XCcXANyEqw44WsvKKuqQc"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172661,
+      "name": "Met_A_Girl",
+      "url": "https://open.spotify.com/track/2VaxzejJWeSMRn1HL3lMmd"
     },
     {
       "album": {
@@ -2038,6 +2074,24 @@
       "duration_ms": 197546,
       "name": "Spinnin'",
       "url": "https://open.spotify.com/track/2xWPDIps7ger8WRUE84bg9"
+    },
+    {
+      "album": {
+        "name": "Stuck In Heaven (AATM) [Live]",
+        "url": "https://open.spotify.com/album/29041H9UFjzxE1zrVEQ7Km"
+      },
+      "artists": [
+        {
+          "name": "Noga Erez",
+          "url": "https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170845,
+      "name": "Stuck In Heaven (AATM) - Live",
+      "url": "https://open.spotify.com/track/2thCcR8O7YwgUTIjrIQBuX"
     },
     {
       "album": {
@@ -2762,6 +2816,24 @@
       "duration_ms": 184488,
       "name": "\u05d0\u05de\u05d0",
       "url": "https://open.spotify.com/track/0wcHxrcvKCB0xDHNLYBB5j"
+    },
+    {
+      "album": {
+        "name": "\u05d0\u05de\u05d0 \u05de\u05dc\u05db\u05d4",
+        "url": "https://open.spotify.com/album/43bmpGe2SlYeCxfaAOv5Ek"
+      },
+      "artists": [
+        {
+          "name": "\u05e8\u05d5\u05e0\u05d9 \u05d1\u05e8 \u05d4\u05d3\u05e1",
+          "url": "https://open.spotify.com/artist/5OZeMBvHIGYKnOg3WfBQ44"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159346,
+      "name": "\u05d0\u05de\u05d0 \u05de\u05dc\u05db\u05d4",
+      "url": "https://open.spotify.com/track/6vgDCsnMfOI4L0XZA0TbER"
     },
     {
       "album": {
@@ -4712,7 +4784,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 238016,
       "name": "\u05d8\u05d9\u05e4\u05d4 \u05e2\u05dc \u05d4\u05de\u05e6\u05d5\u05e7",
       "url": "https://open.spotify.com/track/0V1icYN4vcDt1HZh4eIVQ7"
@@ -6450,7 +6522,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 282000,
       "name": "\u05e0\u05e8\u05d3\u05dd \u05de\u05ea\u05e2\u05d5\u05e8\u05e8",
       "url": "https://open.spotify.com/track/7B8v7WXQITLcJrG7UX2bND"
@@ -7690,7 +7762,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 202719,
       "name": "\u05ea\u05e9\u05d0\u05d9\u05e8\u05d9 \u05dc\u05d9 \u05de\u05e7\u05d5\u05dd \u05dc\u05d7\u05d1\u05e7 \u05d0\u05d5\u05ea\u05da",
       "url": "https://open.spotify.com/track/0efR0PG8ZOC3QUEgb2IzOJ"

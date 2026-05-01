@@ -2,9 +2,9 @@
 
 ### [Zouk Station](https://open.spotify.com/playlist/37i9dQZF1DWZjVBCh3y4ph)
 
-> Les hits zouk & kompa du moment\. Photo : R Dydy x Senyss
+> Les hits zouk & kompa du moment\. Photo : Joé Dwèt Filé
 
-399 songs - 20 hr 58 min
+400 songs - 21 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Effort](https://open.spotify.com/track/0qUAcMqe3voelZveN75MDN) | [Algéric](https://open.spotify.com/artist/6V788FEftK2VvhtleSaPwY) | [Effort](https://open.spotify.com/album/0y6C7alW7UrijgYpYw4mDV) | 3:38 | 2024-09-19 | 2024-12-06 |
 | [ELLE](https://open.spotify.com/track/7xcqynYznD97rxPIY02BOd) | [Barth](https://open.spotify.com/artist/3EOmhPYfT8BhZEy3Vdfhno) | [ELLE](https://open.spotify.com/album/7AVOnr53a9QZ3LLN4y4Mdj) | 3:18 | 2026-02-05 |  |
 | [Elle a dit oui](https://open.spotify.com/track/2ze27cIt328xJ4GmbduLWD) | [Dasha](https://open.spotify.com/artist/4Sax4M4m7npP5miYc4T8vd) | [Elle a dit oui](https://open.spotify.com/album/7JHfYRMqgopUq7VA9qiRX7) | 3:52 | 2024-07-18 | 2024-10-04 |
+| [Elle voulait](https://open.spotify.com/track/5ZXttool9cUKnXlvx049FV) | [Lorenz](https://open.spotify.com/artist/2EOc5l6ZIB5gygstmhE9eN) | [Elle voulait](https://open.spotify.com/album/2UtiPQLm8NKbLIR8xRVyHF) | 3:00 | 2026-04-30 |  |
 | [Emilie](https://open.spotify.com/track/0Jy2GTFnl7dtdC2viWzELO) | [Yena Blue](https://open.spotify.com/artist/0JqXT1KmVtZ4VdGtprB2b4) | [BLUE](https://open.spotify.com/album/2dCRQHfjbwOEfgCiuN7Z5J) | 4:06 | 2025-03-27 | 2025-06-27 |
 | [Emilie part.2](https://open.spotify.com/track/5fUUf6oOLjmRZLHovp5TSb) | [Yena Blue](https://open.spotify.com/artist/0JqXT1KmVtZ4VdGtprB2b4) | [Emilie part.2](https://open.spotify.com/album/4Plk2UqDvY8vwG6B2ZMWuy) | 4:20 | 2026-04-23 |  |
 | [En Boucle](https://open.spotify.com/track/4NTxdNnlRL5tPwmYS95Xl3) | [R Dydy](https://open.spotify.com/artist/5jdXOizrMwWDhvYvtFWs0m), [Senyss](https://open.spotify.com/artist/41yZRhcJMRMFWihPbLxGkM) | [En Boucle](https://open.spotify.com/album/0PohFZGjz9lbtg0S5wsp6S) | 3:15 | 2026-04-23 |  |
@@ -289,7 +290,7 @@
 | [POUR TOI](https://open.spotify.com/track/37vFjnnKrdm07M4sjEWyyr) | [Barth](https://open.spotify.com/artist/3EOmhPYfT8BhZEy3Vdfhno) | [POUR TOI](https://open.spotify.com/album/1yCFNhAeny1C006YsfPuQu) | 3:20 | 2024-06-27 | 2024-10-25 |
 | [Pour toi](https://open.spotify.com/track/0zLCsykR0dy4EjdTnwkCzL) | [Kipili](https://open.spotify.com/artist/6xZr3qhSDTiUTuYt49khaJ) | [Pour toi](https://open.spotify.com/album/7iMyrdcy774JOLW4qD3rNb) | 2:42 | 2026-01-22 | 2026-03-06 |
 | [Pozisyon \- Fem voyé 2](https://open.spotify.com/track/2P4qGmPuDFJb7zBiI5L4aK) | [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [Daddy 9](https://open.spotify.com/album/7myGxTlSrRIav4gOCybgsa) | 4:19 | 2023-09-28 | 2024-06-21 |
-| [Première fois](https://open.spotify.com/track/6H7vZRmTPhi7wvSCaYCR53) | [Rashel](https://open.spotify.com/artist/6qtBdBdgQ74RTfQ7VEwCrh), [Magical Nrick](https://open.spotify.com/artist/57C1xJXu10Mi0X3toUb8Ig) | [Première fois](https://open.spotify.com/album/6eVXFgGVMGfa7z7YE72L6q) | 2:39 | 2026-02-26 |  |
+| [Première fois](https://open.spotify.com/track/6H7vZRmTPhi7wvSCaYCR53) | [Rashel](https://open.spotify.com/artist/6qtBdBdgQ74RTfQ7VEwCrh), [Magical Nrick](https://open.spotify.com/artist/57C1xJXu10Mi0X3toUb8Ig) | [Première fois](https://open.spotify.com/album/6eVXFgGVMGfa7z7YE72L6q) | 2:39 | 2026-02-26 | 2026-05-01 |
 | [Projecteurs](https://open.spotify.com/track/71hpwv9B7Ncwfw6BrZN2nE) | [Stony](https://open.spotify.com/artist/1gfXNiyfLEKouLvNPmrvLk) | [Projecteurs](https://open.spotify.com/album/5I0ZrO1lILQ5kVCbucDHHD) | 3:00 | 2024-05-09 | 2024-06-21 |
 | [Péché mignon](https://open.spotify.com/track/12wOWWHCtlD1EFf6BrQp8w) | [Were\-vana](https://open.spotify.com/artist/1f1DjtYgH6yBzBSiGteBJl) | [Péché mignon](https://open.spotify.com/album/6jXh6WdZAf7sD1LHXM2fD0) | 2:14 | 2026-03-26 |  |
 | [QUI A TORT](https://open.spotify.com/track/1StxifllxFqab42xT62Bw2) | [Nesly](https://open.spotify.com/artist/7mlT0u4rarQ2SkRMEWme8L), [Mik L](https://open.spotify.com/artist/7aLBaAtUjEwZSUIr3S2BtR) | [ALCHIMIE](https://open.spotify.com/album/41sRzlYeZ4mEaQ0yStVhNC) | 2:58 | 2025-11-27 | 2026-02-27 |

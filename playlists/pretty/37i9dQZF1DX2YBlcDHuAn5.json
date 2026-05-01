@@ -1,6 +1,6 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 33918,
+  "num_followers": 33916,
   "original_name": "Country & Americana",
   "owner": {
     "name": "Spotify",
@@ -627,6 +627,22 @@
     {
       "added_at": "2026-04-24 12:46:33",
       "album": {
+        "name": "For Tomorrow's Sake",
+        "url": "https://open.spotify.com/album/4lfYG6Fr9gMrNRZ1wOUmLi"
+      },
+      "artists": [
+        {
+          "name": "Tim Knol",
+          "url": "https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K"
+        }
+      ],
+      "duration_ms": 204253,
+      "name": "For Tomorrow's Sake",
+      "url": "https://open.spotify.com/track/6noc42qHS5k4qFjYjHAfCz"
+    },
+    {
+      "added_at": "2026-04-24 12:46:33",
+      "album": {
         "name": "Nashville Dreaming",
         "url": "https://open.spotify.com/album/6G9a3scmgICG59VxLBj82P"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 234584,
       "name": "Nashville Dreaming",
       "url": "https://open.spotify.com/track/5kGwMLgKd2INKw2pIA52f6"
-    },
-    {
-      "added_at": "2026-04-24 12:46:33",
-      "album": {
-        "name": "For Tomorrow's Sake",
-        "url": "https://open.spotify.com/album/4lfYG6Fr9gMrNRZ1wOUmLi"
-      },
-      "artists": [
-        {
-          "name": "Tim Knol",
-          "url": "https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K"
-        }
-      ],
-      "duration_ms": 204253,
-      "name": "For Tomorrow's Sake",
-      "url": "https://open.spotify.com/track/6noc42qHS5k4qFjYjHAfCz"
     },
     {
       "added_at": "2026-04-24 12:46:33",
@@ -719,54 +719,6 @@
     {
       "added_at": "2026-04-24 12:46:33",
       "album": {
-        "name": "For Once",
-        "url": "https://open.spotify.com/album/4JFKpD8x7FPol9wdWnHnOf"
-      },
-      "artists": [
-        {
-          "name": "A\u00e4ron Koch",
-          "url": "https://open.spotify.com/artist/5SJoC7NQtJbwyCOm8ebQ21"
-        }
-      ],
-      "duration_ms": 237467,
-      "name": "For Once",
-      "url": "https://open.spotify.com/track/5TzvfVBJkKqHKYcVyKlSDB"
-    },
-    {
-      "added_at": "2026-04-24 12:46:33",
-      "album": {
-        "name": "Buckle Down",
-        "url": "https://open.spotify.com/album/39YthQpPlhl9T1w28OS8f2"
-      },
-      "artists": [
-        {
-          "name": "Melanie Ryan",
-          "url": "https://open.spotify.com/artist/1ReNCqNlGVnBM4RGOWkUK4"
-        }
-      ],
-      "duration_ms": 166957,
-      "name": "Buckle Down",
-      "url": "https://open.spotify.com/track/2B0dpsOLbVaofyXuHBhxsY"
-    },
-    {
-      "added_at": "2026-04-24 12:46:33",
-      "album": {
-        "name": "Wanderings",
-        "url": "https://open.spotify.com/album/5drfnFk0N0p4J4gN9spx5l"
-      },
-      "artists": [
-        {
-          "name": "Tim Knol",
-          "url": "https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K"
-        }
-      ],
-      "duration_ms": 221080,
-      "name": "This Night's Alright",
-      "url": "https://open.spotify.com/track/75Mp2Ww9Ni8GLRa8u69yYU"
-    },
-    {
-      "added_at": "2026-04-24 12:46:33",
-      "album": {
         "name": "By The Bay",
         "url": "https://open.spotify.com/album/7LtOrnQ2x5JQFzoSN2PZvC"
       },
@@ -791,6 +743,54 @@
       "duration_ms": 204328,
       "name": "By The Bay",
       "url": "https://open.spotify.com/track/5afcgRprK5Ind4L5Dk6ZuI"
+    },
+    {
+      "added_at": "2026-04-24 12:46:33",
+      "album": {
+        "name": "For Once",
+        "url": "https://open.spotify.com/album/4JFKpD8x7FPol9wdWnHnOf"
+      },
+      "artists": [
+        {
+          "name": "A\u00e4ron Koch",
+          "url": "https://open.spotify.com/artist/5SJoC7NQtJbwyCOm8ebQ21"
+        }
+      ],
+      "duration_ms": 237467,
+      "name": "For Once",
+      "url": "https://open.spotify.com/track/5TzvfVBJkKqHKYcVyKlSDB"
+    },
+    {
+      "added_at": "2026-04-24 12:46:33",
+      "album": {
+        "name": "Wanderings",
+        "url": "https://open.spotify.com/album/5drfnFk0N0p4J4gN9spx5l"
+      },
+      "artists": [
+        {
+          "name": "Tim Knol",
+          "url": "https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K"
+        }
+      ],
+      "duration_ms": 221080,
+      "name": "This Night's Alright",
+      "url": "https://open.spotify.com/track/75Mp2Ww9Ni8GLRa8u69yYU"
+    },
+    {
+      "added_at": "2026-04-24 12:46:33",
+      "album": {
+        "name": "Buckle Down",
+        "url": "https://open.spotify.com/album/39YthQpPlhl9T1w28OS8f2"
+      },
+      "artists": [
+        {
+          "name": "Melanie Ryan",
+          "url": "https://open.spotify.com/artist/1ReNCqNlGVnBM4RGOWkUK4"
+        }
+      ],
+      "duration_ms": 166957,
+      "name": "Buckle Down",
+      "url": "https://open.spotify.com/track/2B0dpsOLbVaofyXuHBhxsY"
     },
     {
       "added_at": "2026-04-24 12:46:33",
@@ -875,18 +875,18 @@
     {
       "added_at": "2026-04-24 12:46:33",
       "album": {
-        "name": "The Fire Inside",
-        "url": "https://open.spotify.com/album/0IcuQe8xyjgDFN22o5jcBp"
+        "name": "Joyride",
+        "url": "https://open.spotify.com/album/23UG1n839vfkWKbciCBIyA"
       },
       "artists": [
         {
-          "name": "Marcel Kapteijn",
-          "url": "https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp"
+          "name": "MISTER & MRS",
+          "url": "https://open.spotify.com/artist/5FO3joAbAp6AwuaTlEAnmS"
         }
       ],
-      "duration_ms": 215483,
-      "name": "The Fire Inside",
-      "url": "https://open.spotify.com/track/7fUIsy72KNco1BUC5LqtSc"
+      "duration_ms": 157302,
+      "name": "Joyride",
+      "url": "https://open.spotify.com/track/7ow3RLEhU7vpiGAq26BFkN"
     }
   ],
   "unique_name": "Country & Americana",

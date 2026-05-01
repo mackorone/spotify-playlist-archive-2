@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "365 (Running Back To You)",
+        "url": "https://open.spotify.com/album/1oavB3nVgvzxtargDMnPuD"
+      },
+      "artists": [
+        {
+          "name": "The Uprising",
+          "url": "https://open.spotify.com/artist/4xemZhqiaGcE8slg7MQTD0"
+        },
+        {
+          "name": "AndyG",
+          "url": "https://open.spotify.com/artist/2br4jMqV5zeEWuwZALYqw3"
+        }
+      ],
+      "date_added": "2026-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196291,
+      "name": "365 (Running Back To You)",
+      "url": "https://open.spotify.com/track/6kGBUzKcc4ij9hbHx5tXUZ"
+    },
+    {
+      "album": {
         "name": "[close to me]",
         "url": "https://open.spotify.com/album/4zJOypBETBxz0mt8jOXh1d"
       },
@@ -8918,7 +8940,7 @@
       ],
       "date_added": "2025-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 166862,
       "name": "Thankful",
       "url": "https://open.spotify.com/track/6rGoI3PrGO9swDjo4CGHLs"

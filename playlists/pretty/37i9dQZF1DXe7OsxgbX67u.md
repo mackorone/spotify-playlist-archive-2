@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe7OsxgbX67u.md) - [plain]
 
 > Listen to the music from Invincible, streaming only on Prime Video.
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,808 likes - 88 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,631 likes - 88 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe7OsxgbX67u.md) - [plain]
 | 87 | [Invincible](https://open.spotify.com/track/6WQJBaBfM1Ow66RIlc43SK) | [John Paesano](https://open.spotify.com/artist/3MhnTc9AODdRGMrtntEqIz) | [Invincible: Vol\. 1 \(Prime Video Original Series Soundtrack\)](https://open.spotify.com/album/2YqLtiozpeFoScLa7vMCRy) | 4:55 |
 | 88 | [Mr\. Ten Times Worse](https://open.spotify.com/track/3yK5GeQQu7crbX38UPw6kn) | [John Paesano](https://open.spotify.com/artist/3MhnTc9AODdRGMrtntEqIz) | [Invincible: Vol\. 1 \(Prime Video Original Series Soundtrack\)](https://open.spotify.com/album/2YqLtiozpeFoScLa7vMCRy) | 4:04 |
 
-Snapshot ID: `AAAAAFhED9R6lbyEL2DrtmX1BbfLti11`
+Snapshot ID: `AAAAAOU9DR5AkqlyePU0r4G8xg2Pin9S`

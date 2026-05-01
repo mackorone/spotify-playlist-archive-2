@@ -1175,6 +1175,28 @@
     },
     {
       "album": {
+        "name": "Pain Killer (Remixes)",
+        "url": "https://open.spotify.com/album/6VEbUccU7tPRKcObK26kwe"
+      },
+      "artists": [
+        {
+          "name": "PIG",
+          "url": "https://open.spotify.com/artist/5riS4sDqcjVAwvC37jxTP0"
+        },
+        {
+          "name": "Jagz Kooner",
+          "url": "https://open.spotify.com/artist/3SN6EWQeA35CQctMefRkcd"
+        }
+      ],
+      "date_added": "2025-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256298,
+      "name": "Drugged Dangerous & Damned - Jagz Kooner Remix - Edit",
+      "url": "https://open.spotify.com/track/57RSLuRekrQmayp76jvrov"
+    },
+    {
+      "album": {
         "name": "Herzeleid",
         "url": "https://open.spotify.com/album/2AXNbmgbX2i21Niol6eYul"
       },
@@ -1222,7 +1244,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 234826,
       "name": "Empty",
       "url": "https://open.spotify.com/track/4B8GmkS7ONYQDcChJDguJ3"

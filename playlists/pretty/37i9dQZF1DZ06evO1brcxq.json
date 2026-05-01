@@ -1,12 +1,12 @@
 {
   "description": "This is Charli xcx. The essential tracks, all in one playlist.",
-  "num_followers": 221316,
+  "num_followers": 221343,
   "original_name": "This Is Charli xcx",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ae/4gAAAAAAyWcYHJkXm5cKJaaeu76YJ",
+  "snapshot_id": "afFKAAAAAAA3sf5p0zP6QJn8bmvGgjBM",
   "tracks": [
     {
       "added_at": null,
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
         }
       ],
-      "duration_ms": 150042,
-      "name": "Seeing Things",
-      "url": "https://open.spotify.com/track/41UuruzhR2WLb917UbbcqS"
+      "duration_ms": 86944,
+      "name": "Open up",
+      "url": "https://open.spotify.com/track/732AeYEiilADr0WSHFV9of"
     },
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "True Romance",
-        "url": "https://open.spotify.com/album/5t7Bn5XfE7yj2rqydVq0Ue"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 187878,
-      "name": "You (Ha Ha Ha)",
-      "url": "https://open.spotify.com/track/5cghqtgljxpGJ1XeXAIK4p"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SUCKER",
         "url": "https://open.spotify.com/album/2fGpw56D35My0c82eNfKJF"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 203907,
       "name": "Break the Rules",
       "url": "https://open.spotify.com/track/70ebKSMHvkUSg7JXgUz74Q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "True Romance",
+        "url": "https://open.spotify.com/album/5t7Bn5XfE7yj2rqydVq0Ue"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 187878,
+      "name": "You (Ha Ha Ha)",
+      "url": "https://open.spotify.com/track/5cghqtgljxpGJ1XeXAIK4p"
     },
     {
       "added_at": null,

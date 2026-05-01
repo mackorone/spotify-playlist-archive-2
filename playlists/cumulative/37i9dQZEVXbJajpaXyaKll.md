@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Argentina.
 
-2,334 songs - 5 day 3 hr 51 min
+2,335 songs - 5 day 3 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1518,7 +1518,7 @@
 | [OLIMPO](https://open.spotify.com/track/6tt6JnKerLnOL0oez9QPqS) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [166 \(DELUXE\) retirada](https://open.spotify.com/album/2nDhATJ9VM5VucmhlSdPpm) | 2:49 | 2025-03-04 | 2025-04-04 |
 | [Olvidarte \(feat\. Emilia\)](https://open.spotify.com/track/7yif9yIhSCxhcPExFOktCp) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Olvidarte \(feat\. Emilia\)](https://open.spotify.com/album/6uanfipX4dnLaQ0PIvaj5K) | 2:37 | 2024-12-31 | 2025-02-14 |
 | [ONE CALL](https://open.spotify.com/track/69phA1R4gmQsBFRQ3INW8C) | [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd) | [Ghetto Fabulous](https://open.spotify.com/album/2D1j7mjB55lvygjMmYgTYT) | 2:01 | 2024-02-09 | 2024-02-28 |
-| [One Less Lonely Girl](https://open.spotify.com/track/69ghzc538EQSVon2Gm3wrr) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [My World](https://open.spotify.com/album/1rG5TDs3jYh6OU753I54CI) | 3:49 | 2026-04-23 |  |
+| [One Less Lonely Girl](https://open.spotify.com/track/69ghzc538EQSVon2Gm3wrr) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [My World](https://open.spotify.com/album/1rG5TDs3jYh6OU753I54CI) | 3:49 | 2026-04-23 | 2026-05-01 |
 | [One Of The Girlz](https://open.spotify.com/track/7JNlM7gnYUVaEFHsMzgQin) | [Jesp7Tearz](https://open.spotify.com/artist/2hKzSNbt10rdDMtede2Gbi), [1717177x](https://open.spotify.com/artist/5uIvZ6y0SpfMHObdzv5FMp) | [One Of The Girlz](https://open.spotify.com/album/1G2BNJagFpIO9Uzmv1J64O) | 2:21 | 2026-04-15 | 2026-04-18 |
 | [one of the girlz \- Remastered](https://open.spotify.com/track/5osBOAKiBt8Fr8YDZM1lN7) | [1717177x](https://open.spotify.com/artist/5uIvZ6y0SpfMHObdzv5FMp) | [one of the girlz \(Remastered\)](https://open.spotify.com/album/210DRFTES1Mm4oNwOItQnx) | 2:21 | 2026-04-14 | 2026-04-16 |
 | [ONLINE](https://open.spotify.com/track/66ChRTsE2NVt5wQ1XbEQzQ) | [ARIA BELA](https://open.spotify.com/artist/7Gh928bdEU69S9D6ur5wJz) | [ONLINE](https://open.spotify.com/album/1yBBV8Gozmhg1xS6AjZ5nV) | 3:32 | 2025-06-03 | 2025-06-18 |
@@ -1768,6 +1768,7 @@
 | [Ruina](https://open.spotify.com/track/1k9ehVSjlGY0GZFhrHavnH) | [Xiyo](https://open.spotify.com/artist/2FzRIRtYVDBIJBvTqh7xzQ), [Fernandezz](https://open.spotify.com/artist/7mVQGK5j4VKkAvdOhUotB1), [Yung Beef](https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Ruina](https://open.spotify.com/album/0pdvMmMdvKRIkms1KjpX0W) | 3:54 | 2025-10-14 | 2025-10-21 |
 | [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/track/1PtQJZVZIdWIYdARpZRDFO) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh) | 4:58 | 2025-11-28 | 2026-01-21 |
 | [Running Wild](https://open.spotify.com/track/50zAEIE4B1QqhPjRMK2Xmh) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Happy \- :'\) \(Remixes\)](https://open.spotify.com/album/3nRmQ70bczWCLWyj1aRbt6) | 2:31 | 2024-12-03 | 2024-12-11 |
+| [RUNWAY](https://open.spotify.com/track/7BjcYqD0CqXnG45ezWSTYR) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [RUNWAY](https://open.spotify.com/album/0WY1wVmchFYlH4f1yZMc90) | 2:51 | 2026-04-30 |  |
 | [S.O.S](https://open.spotify.com/track/4qVFJdnzV5xhdGpD6RBvEr) | [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN), [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [S.O.S](https://open.spotify.com/album/6EyvfUT1Fw4ibKocckl5DE) | 3:02 | 2024-06-18 | 2024-06-26 |
 | [SABOR](https://open.spotify.com/track/4AZ8xNHhY4mN0sAHntOzhp) | [Knak](https://open.spotify.com/artist/3IYKcXI1sFqT1ZtfyoW55C), [Ramma](https://open.spotify.com/artist/7b0pdDyPV9f9hyDXAhk4Sg), [Sixto Yegros](https://open.spotify.com/artist/2mddrRrlMf3ykcKyh1jlSs), [Davus](https://open.spotify.com/artist/2Gxaf60UDXKrmcIhEjULSk), [Tadu Vázquez](https://open.spotify.com/artist/71scL1K5Nu1Z7FgBkg3Gjk), [Lonzo](https://open.spotify.com/artist/23a4GHE8SXM3a5sX6oDQNM) | [SABOR](https://open.spotify.com/album/6jZfuiXL1ZyQjLfpHzMQLE) | 3:17 | 2025-03-11 | 2025-03-19 |
 | [Sailor Song](https://open.spotify.com/track/0UYnhUfnUj5adChuAXvLUB) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Sailor Song](https://open.spotify.com/album/4DWrYvfGXRE8ko5ZxlIpit) | 3:31 | 2024-09-10 | 2024-09-26 |

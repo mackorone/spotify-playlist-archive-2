@@ -4,7 +4,7 @@
 
 > Sounds of birds, rain, and forest ambience.
 
-244 songs - 11 hr 38 min
+245 songs - 11 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,7 +125,7 @@
 | [Mori no Tori](https://open.spotify.com/track/5brFjtlGhCNhDXkfquy4qY) | [Shiroma Rin](https://open.spotify.com/artist/6vmqYwwLNH5NtbQzMSKDV9) | [Mori no Tori](https://open.spotify.com/album/382q3YGgFS4MfQ7PPoeODm) | 2:13 | 2023-03-03 |  |
 | [Morning Bird Symphony](https://open.spotify.com/track/2DG4GclEMtxZEFbXixAGxq) | [Himalaya Nature](https://open.spotify.com/artist/7IlmN5ipzDWqSbLNsjDMU8) | [Himalaya Bird Sounds](https://open.spotify.com/album/5SfxNMY6MyEfia4wV0vv7x) | 4:36 | 2022-03-25 |  |
 | [Morning Calm Water Stream](https://open.spotify.com/track/31wvp2QgO981pppVCALAdu) | [Nicolas Gutierrez G.](https://open.spotify.com/artist/5blyFWCmmsbLdxQVRARv6x) | [Morning Calm Water Stream](https://open.spotify.com/album/0zZf1uBvtd8UoQSRoy60wO) | 4:32 | 2025-11-11 |  |
-| [Morning in Scotland](https://open.spotify.com/track/3wNGiwpHA6AMTSlLN71IjW) | [Hermelo](https://open.spotify.com/artist/0sJWDshSokRwvOqYo7W3iV) | [Morning in Scotland](https://open.spotify.com/album/176L5jSWsdkfgou23TPydl) | 1:53 | 2023-09-20 | 2026-04-28 |
+| [Morning in Scotland](https://open.spotify.com/track/3wNGiwpHA6AMTSlLN71IjW) | [Hermelo](https://open.spotify.com/artist/0sJWDshSokRwvOqYo7W3iV) | [Morning in Scotland](https://open.spotify.com/album/176L5jSWsdkfgou23TPydl) | 1:53 | 2023-09-20 |  |
 | [Morning Rain](https://open.spotify.com/track/4rOmpvrIMLau6Hig9GSmp1) | [Worldwide Nature Studios](https://open.spotify.com/artist/2SIcjOzNioSRtl2lQVEQyx) | [Rain Sounds Vol\. 1](https://open.spotify.com/album/5qyBJ814BTtn20m8dXbTxj) | 2:10 | 2022-03-25 | 2026-03-25 |
 | [Mouth of The River](https://open.spotify.com/track/0sEHRKdgUZzSoxttsSEmf0) | [Watertowers](https://open.spotify.com/artist/7DcNhZNSWzYyhuDm2SyQnt) | [Mouth of The River](https://open.spotify.com/album/5nwPIjgH93pkBDsoAeeg51) | 2:59 | 2025-11-11 |  |
 | [Multiple birds at dawn](https://open.spotify.com/track/031M3L3hN4j19SKjYuRo1i) | [Watertowers](https://open.spotify.com/artist/7DcNhZNSWzYyhuDm2SyQnt) | [Multiple birds at dawn](https://open.spotify.com/album/6xdKRRuxNPQGGNv74XTD2p) | 4:03 | 2025-11-11 | 2025-12-13 |
@@ -178,7 +178,7 @@
 | [River Close with Birds \- River](https://open.spotify.com/track/2KdUMPBKthc1lz3DascPlE) | [Dozy Sounds](https://open.spotify.com/artist/6GjywyZ0Qtsu0f95gL5CDG) | [Nature's Rain, Oceans, Rivers](https://open.spotify.com/album/6nHdYuYYtvfDSRIBP7TCGo) | 2:17 | 2022-03-25 | 2026-04-18 |
 | [River Creek with Birds](https://open.spotify.com/track/5CK7gGerbMibYcXaifKK27) | [Deep Sleep FX](https://open.spotify.com/artist/52ZkV6bSNDshzq9BGTudae) | [River Creek with Birds](https://open.spotify.com/album/7D8W0fJf9Fbv2mNb2ytf8F) | 2:23 | 2023-03-03 |  |
 | [River Rain](https://open.spotify.com/track/1XGH1AZ0JONwKKkYuNEPdE) | [Out & About](https://open.spotify.com/artist/0asBrm3wPU6SWrI7OzrnFX) | [When It Rains...](https://open.spotify.com/album/5nKNpp7Rax9q5yyQITZhyF) | 5:55 | 2022-03-25 |  |
-| [River Shore](https://open.spotify.com/track/1yRUymHNlI4HnyhFXqou8r) | [Earth Science](https://open.spotify.com/artist/6uVNYr50zFJFtp3R1LYaab) | [Marymere Falls](https://open.spotify.com/album/4RD2hBbd6fz0clfEssVrct) | 3:19 | 2022-03-25 |  |
+| [River Shore](https://open.spotify.com/track/1yRUymHNlI4HnyhFXqou8r) | [Earth Science](https://open.spotify.com/artist/6uVNYr50zFJFtp3R1LYaab) | [Marymere Falls](https://open.spotify.com/album/4RD2hBbd6fz0clfEssVrct) | 3:19 | 2022-03-25 | 2026-05-01 |
 | [Riverlight Through Leaves](https://open.spotify.com/track/08WqDRfDIHCroRHoYuAP66) | [Nature's Essence](https://open.spotify.com/artist/0JklQwIpSXSIxaSP1IbT8j) | [Riverlight Through Leaves](https://open.spotify.com/album/4eO9Q2g6EAwyvvkN4JtqQV) | 3:01 | 2026-04-02 |  |
 | [Rustling Leaves and Chirping Birds](https://open.spotify.com/track/6btXfDfFdOvw1G42xscQHP) | [Forest Sounds FX](https://open.spotify.com/artist/2S9zyoMbNGC3091mDUa7jF) | [Serene Forest Ambience](https://open.spotify.com/album/3c2hy7hLvWrYylWdIjkewS) | 2:56 | 2023-09-20 |  |
 | [Scandinavian Forest Rain Sound](https://open.spotify.com/track/0U72R7eOGDPit3iw1Wg0mh) | [Baltic Nature Sounds](https://open.spotify.com/artist/6IENn857P9qlwyafl6Xzy3) | [Rain Sounds Vol\. 3](https://open.spotify.com/album/6PaBSB3g4H0XmRaZvTDqkE) | 2:37 | 2022-03-25 |  |
@@ -198,9 +198,10 @@
 | [Smoothe Suburban Forest Rain 2](https://open.spotify.com/track/2BhG0szLZb5rqpIdXu0hGh) | [Mori Desu](https://open.spotify.com/artist/3pocUa48FP2N3zVmIKRYxv) | [Smoothe Suburban Forest Rain](https://open.spotify.com/album/0Dk4VKHbpAqFAxntBbiAwG) | 2:34 | 2022-03-25 | 2025-10-27 |
 | [Soft & Crispy Rain](https://open.spotify.com/track/6bhxAE1z4FCDkJJKQBkV6f) | [Morgonkvist](https://open.spotify.com/artist/65IKDKBIpATr65zcLhiUvw) | [Droppar](https://open.spotify.com/album/7wr1YeA4KKJaH4aD7tzGTh) | 1:58 | 2022-03-25 | 2023-06-20 |
 | [Soft Rain](https://open.spotify.com/track/1fBxbZ4Lt76i1ZRyrhTi4D) | [Rain In Spain](https://open.spotify.com/artist/5eDzrKBgV4C8kovSd9vup9) | [Part 1](https://open.spotify.com/album/20wvLsO0wBMd2L2bLGHSUK) | 2:55 | 2022-03-25 |  |
+| [Soft Stream](https://open.spotify.com/track/1eC6Wmq37JseUSUILFrHTS) | [Lake Nebula](https://open.spotify.com/artist/2vrz4UIWYTyVEKZ3DubfRU) | [Soft Stream](https://open.spotify.com/album/0JxcMY0Ayx8FFAzvOcLhqA) | 3:06 | 2026-04-02 |  |
 | [Songbirds at Dawn](https://open.spotify.com/track/6fdR2xhj9S7xZ46U8cw9H1) | [Brontology](https://open.spotify.com/artist/2wV6tmD1aCH03G6uBqVOMp) | [Songbirds at Dawn](https://open.spotify.com/album/6Lx76KJ6upyFHgFGgumCgq) | 2:49 | 2026-04-02 |  |
 | [Songs of the Forest](https://open.spotify.com/track/5DE0Jb0lxBWz5d73FyFqJL) | [Experience Nature](https://open.spotify.com/artist/5cyMbzcbIkbyMlkJ4cy1ax) | [The Wind in the Woods](https://open.spotify.com/album/7G4BDFTsFB6Zq8XvhrCwwJ) | 4:11 | 2023-06-20 | 2026-04-22 |
-| [Soothing Birdsong by the River](https://open.spotify.com/track/1c7KLz2RGsDoW58JiTT2L1) | [El Naturel](https://open.spotify.com/artist/2OSqVGR0G4PUJkOskabGEX) | [Soothing Birdsong by the River](https://open.spotify.com/album/5Lf0jb8zb9ylmubTVx6xtf) | 3:04 | 2022-03-25 |  |
+| [Soothing Birdsong by the River](https://open.spotify.com/track/1c7KLz2RGsDoW58JiTT2L1) | [El Naturel](https://open.spotify.com/artist/2OSqVGR0G4PUJkOskabGEX) | [Soothing Birdsong by the River](https://open.spotify.com/album/5Lf0jb8zb9ylmubTVx6xtf) | 3:04 | 2022-03-25 | 2026-05-01 |
 | [Soothing Rain](https://open.spotify.com/track/5B7KrnudyvVieOvbrXG9Gs) | [Nuwan](https://open.spotify.com/artist/5Ntegr8o61PSRvEl9sazRU) | [Umbrella Sounds](https://open.spotify.com/album/4QzTCRjIsx21xIL0L8JaHi) | 2:39 | 2022-03-25 |  |
 | [Soul Healing Birds](https://open.spotify.com/track/2xDAhRpg274IdUlSwrUKeG) | [Soul Healer](https://open.spotify.com/artist/1QptpPG5DCnj1GVwooQpAi) | [Soul Healing Birds](https://open.spotify.com/album/4NPlWnO0Q7j8rk6CyosvKo) | 2:25 | 2022-03-25 |  |
 | [Soulful Rainforest](https://open.spotify.com/track/5n8BELPdmR9WR6HLygp13j) | [Nature Advisor](https://open.spotify.com/artist/49v15Biw9XvZRUShSgK2aQ) | [Soulful Rainforest](https://open.spotify.com/album/4A95IxKKlF7XwtOW6asfSW) | 2:34 | 2024-12-03 |  |

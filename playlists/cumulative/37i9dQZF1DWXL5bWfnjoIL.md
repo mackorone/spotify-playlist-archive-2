@@ -4,7 +4,7 @@
 
 > Enjoy music from "CHIBI MARUKO CHAN"! ©SAKURA PRODUCTION/NIPPON ANIMATION
 
-26 songs - 1 hr 30 min
+28 songs - 1 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [いつもの風景](https://open.spotify.com/track/4ilNUFDHaVK2E15lAu1oxO) | [Kazuyoshi Saito](https://open.spotify.com/artist/7sl3PZyhzAqUpL3M6WVD8G) | [いつもの風景](https://open.spotify.com/album/3rIXryMxj6TUnzHgavrIRw) | 3:49 | 2026-03-29 |  |
 | [うれしい予感](https://open.spotify.com/track/1q7nKN4Wk4es12GY8aPz5W) | [Marina Watanabe](https://open.spotify.com/artist/7fECFlpIoo88jHc85cD642) | [GOLDEN☆BEST 渡辺満里奈](https://open.spotify.com/album/0CqxsTkpI9Xbhit7unaZRl) | 4:11 | 2026-03-29 |  |
 | [おどるポンポコリン](https://open.spotify.com/track/4TLPjY3Gf0xcfF8ZtgrQ42) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [おどるポンポコリン](https://open.spotify.com/album/4rlhpR801c5YsQTaJeJnDH) | 3:14 | 2026-03-29 |  |
+| [おどるポンポコリン](https://open.spotify.com/track/3e5u2LOu6wlUTjMpUICCP3) | [B.B.QUEENS](https://open.spotify.com/artist/4JqWbQDxluABEUVJ3bLVQ1) | [おどるポンポコリン](https://open.spotify.com/album/3djI1lk2H3dD6cvnQ90Q8T) | 3:14 | 2026-04-30 |  |
 | [おどるポンポコリン](https://open.spotify.com/track/5bONEqxORd0jLZqBGpz1pC) | [E\-girls](https://open.spotify.com/artist/6CKN3GUiWMrESH1RKn3ecz) | [おどるポンポコリン](https://open.spotify.com/album/3R2zX1N6BqK5YKNP1ZbDIG) | 3:20 | 2026-03-29 |  |
 | [おどるポンポコリン](https://open.spotify.com/track/7fVKm1pcGylPfzKqRLyrHg) | [GOLDEN BOMBER](https://open.spotify.com/artist/2BHobTrfUdKWd84nLdMViA) | [おどるポンポコリン](https://open.spotify.com/album/2stz6xLK1Rv6aL0SD9BA0D) | 3:08 | 2026-03-29 |  |
 | [おどるポンポコリン](https://open.spotify.com/track/4jed23I3IGAZW3aAqpkSq3) | [Kaela Kimura](https://open.spotify.com/artist/56Eer6ASRcE4aJHJwejTuN) | [おどるポンポコリン](https://open.spotify.com/album/7rvYbIj3JMCfHnQaBuqMnA) | 3:09 | 2026-03-29 |  |
@@ -26,6 +27,7 @@
 | [すすめナンセンス](https://open.spotify.com/track/2Stxh7iuFT8Y2mFEqYr235) | [Puffy AmiYumi](https://open.spotify.com/artist/2wPaW7JIZGyM16donpyBmW) | [すすめナンセンス](https://open.spotify.com/album/6EiCvUnkaBlswYGgumQOpo) | 4:12 | 2026-03-29 |  |
 | [ずっと ともだち](https://open.spotify.com/track/0e3bzmVGDbaHeuJIixJ3hW) | [アンドレア・シン・ネプ・ジュリア・シンニー](https://open.spotify.com/artist/7cYIhH8BQK6lw2gHc9qHuP) | [「映画ちびまる子ちゃん　イタリアから来た少年」ミュージックアルバム](https://open.spotify.com/album/7al5UXDqg31Wfd8HIOc3tO) | 1:21 | 2026-03-29 |  |
 | [ちびまる子音頭](https://open.spotify.com/track/4pIuIrio4Lpyk4ndMcV580) | [ManaKana](https://open.spotify.com/artist/5ygZ5IlxuBaEHI85qfNRqw) | [おどるポンポコリン / ちびまる子音頭](https://open.spotify.com/album/0OERhAMHFiYRpkw4G9M2Pl) | 2:58 | 2026-04-09 |  |
+| [ゆめいっぱい](https://open.spotify.com/track/3pdLPBx8VWM93CNiKa4AzD) | [関ゆみ子](https://open.spotify.com/artist/0YEuTRm0MLbt6OIhGWNZ67) | [ゆめいっぱい](https://open.spotify.com/album/09bz9u8PNyEInZPgUNy5NX) | 3:14 | 2026-04-30 |  |
 | [ゆめいっぱい \- Cover](https://open.spotify.com/track/6LBsaxjOkXIkzliEt4YFid) | [有馬ゆみこ](https://open.spotify.com/artist/1oSTnOvEeh8zxbSBvtUYbw) | [ゆめいっぱい \(Cover\)](https://open.spotify.com/album/51AxOHsHEfEOlk9QfXl9GU) | 3:13 | 2026-03-29 |  |
 | [アララの呪文/ちびまる子ちゃんwith爆チュー問題](https://open.spotify.com/track/0qrXfYnBlM5evgPlZXsMW2) | [Chibi Maruko Chan](https://open.spotify.com/artist/6MINhV2wjwirRk4iMcIN4A) | [お笑い芸人★SONG STYLE](https://open.spotify.com/album/3EgBn5cW6LEWWlOMxeSBe3) | 3:10 | 2026-03-29 |  |
 | [キミを忘れないよ](https://open.spotify.com/track/4ClDTyw9XakQONBFENhdar) | [Sakurako Ohara](https://open.spotify.com/artist/5TS11vZTUaDP4maTjFCcBU) | [V](https://open.spotify.com/album/5EMbywoRGYkMs5JKQNxC1Y) | 4:36 | 2026-03-29 |  |

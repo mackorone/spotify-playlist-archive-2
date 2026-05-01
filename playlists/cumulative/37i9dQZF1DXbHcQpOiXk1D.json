@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "The best from Britain's vibrant scene. Cover: Jordan Rakei",
+  "description": "The best from Britain's vibrant scene. Cover: Knats",
   "name": "Jazz UK",
   "tracks": [
     {
@@ -2133,6 +2133,28 @@
     },
     {
       "album": {
+        "name": "A Great Day In Newcastle",
+        "url": "https://open.spotify.com/album/5XtH8sRhkHf0TOCM0E5ful"
+      },
+      "artists": [
+        {
+          "name": "Knats",
+          "url": "https://open.spotify.com/artist/0l2OFUKz7eXLlPfO1LrGt7"
+        },
+        {
+          "name": "Geordie Greep",
+          "url": "https://open.spotify.com/artist/65Msz2E34NUtbjEbsrsJlJ"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294071,
+      "name": "Carpet Doctor",
+      "url": "https://open.spotify.com/track/0Lci5APIpJjwtCt8AMLlvp"
+    },
+    {
+      "album": {
         "name": "Carry Me",
         "url": "https://open.spotify.com/album/2wQ82L31Pd99UVfS4wJs7H"
       },
@@ -3235,6 +3257,24 @@
     },
     {
       "album": {
+        "name": "Dawn Patrol",
+        "url": "https://open.spotify.com/album/5BPZwwJTfD90jBlE9I8Wic"
+      },
+      "artists": [
+        {
+          "name": "Yazz Ahmed",
+          "url": "https://open.spotify.com/artist/1srvW9AP2k4GLhS3hlC3IN"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 420630,
+      "name": "Dawn Patrol",
+      "url": "https://open.spotify.com/track/0k0iArgkcuCIbug49dhrzR"
+    },
+    {
+      "album": {
         "name": "Day x2 (feat. MIKE & Marco Bernardis)",
         "url": "https://open.spotify.com/album/11BEsLzTeQyffuSXa3W6Fe"
       },
@@ -3404,7 +3444,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 286733,
       "name": "Deep Space",
       "url": "https://open.spotify.com/track/1xZztngs1PHjcqWVo2ftiQ"
@@ -3764,6 +3804,24 @@
       "duration_ms": 228523,
       "name": "Dream Chaser",
       "url": "https://open.spotify.com/track/05bXcmbz6iAJ5tM9WgdOqX"
+    },
+    {
+      "album": {
+        "name": "Dream State",
+        "url": "https://open.spotify.com/album/1OunxWOEOvaPWLgH4awgKu"
+      },
+      "artists": [
+        {
+          "name": "Raffy Bushman",
+          "url": "https://open.spotify.com/artist/4xX2QeWsypmEv9w4u9P6xC"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233152,
+      "name": "Dream State",
+      "url": "https://open.spotify.com/track/4Bh2G7uXuQfbRgPx5UKnUV"
     },
     {
       "album": {
@@ -4230,7 +4288,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 224834,
       "name": "Eyes Lowered",
       "url": "https://open.spotify.com/track/4tlvJc74uAN61eG23u5E7k"
@@ -9004,7 +9062,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 248432,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/5NLxA4kDzcKlKgYLpQ3DSZ"
@@ -9495,6 +9553,24 @@
     },
     {
       "album": {
+        "name": "Never Gonna Be A Boxer",
+        "url": "https://open.spotify.com/album/7rtY9Btpo8FbCMtKhCocNs"
+      },
+      "artists": [
+        {
+          "name": "Knats",
+          "url": "https://open.spotify.com/artist/0l2OFUKz7eXLlPfO1LrGt7"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372644,
+      "name": "Never Gonna Be A Boxer",
+      "url": "https://open.spotify.com/track/38d90hGqh10VeQXDmlbYcE"
+    },
+    {
+      "album": {
         "name": "Never Let Me Go",
         "url": "https://open.spotify.com/album/4pU5Fe1cVJLRj8BqDyRSJx"
       },
@@ -9560,7 +9636,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 185366,
       "name": "New Life",
       "url": "https://open.spotify.com/track/0YS4B8EE07YEjJG8nS1QZj"

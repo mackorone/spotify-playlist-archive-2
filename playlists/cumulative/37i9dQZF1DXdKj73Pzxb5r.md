@@ -2,9 +2,9 @@
 
 ### [Skena Gres](https://open.spotify.com/playlist/37i9dQZF1DXdKj73Pzxb5r)
 
-> Rilisan mutakhir dari para musisi arus pinggir tanah air\. Cover: Jugo Djarot
+> Rilisan mutakhir dari para musisi arus pinggir tanah air\. Cover: Sunwich
 
-520 songs - 1 day 9 hr 11 min
+525 songs - 1 day 9 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Berlalu \- Demo](https://open.spotify.com/track/0bJsVv49d5F0zqNARXdoux) | [Derai](https://open.spotify.com/artist/5sCGE57PAwZPpH4c2sNCwn), [Feby Putri](https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW) | [Berlalu \(Demo\)](https://open.spotify.com/album/5mEQuTI0GBmCxkAqXXEowr) | 3:14 | 2024-08-01 | 2025-06-20 |
 | [Berlayar](https://open.spotify.com/track/0c2YQlgz5zrTTjzfoxaje9) | [Manjakani](https://open.spotify.com/artist/6bITofkrePxaLEJf90JjvX) | [Berlayar](https://open.spotify.com/album/1DtzSEb3F7QHw7nkwAIhCT) | 4:09 | 2024-11-07 | 2025-04-11 |
 | [Bermekaran dan Mewangi](https://open.spotify.com/track/66sMzBAgVVLsyZvJ3pYasC) | [Pendarra](https://open.spotify.com/artist/0azPQZGt11gedg5Le9hjC2), [Dere](https://open.spotify.com/artist/3IvlMYb5AvKRfNt7vR8PNP) | [Ode Matahari](https://open.spotify.com/album/6BtjSzF583B56ZvqFb7Oah) | 3:19 | 2024-06-27 | 2025-02-21 |
+| [Bermusik Sampai Mati \- 2018 Demo](https://open.spotify.com/track/5PB5m6REEF93mahAacFcby) | [Bangkutaman](https://open.spotify.com/artist/241HQhMPjYIvEBJgh78302) | [Bermusik: Arsip Rekaman 2005–2020](https://open.spotify.com/album/6JBhSPzpxbi372ZRDeevBS) | 3:56 | 2026-05-01 |  |
 | [Bernafas Panjanglah](https://open.spotify.com/track/0BZSrug6R49jIlFC9uCIJC) | [Fajar Merah](https://open.spotify.com/artist/6uTtVUX353OX0mOyuk0zhh), [Budi Pasadena](https://open.spotify.com/artist/6Tw7JeRgpGbAWH48Yurhjn) | [Bernafas Panjanglah](https://open.spotify.com/album/7mjziyhO6ig1jSFl3zlkBT) | 5:47 | 2024-09-13 | 2025-03-28 |
 | [Bersama Lagi](https://open.spotify.com/track/0af5NEGjg4mLCOaOqhBBCv) | [Kathleen Ivanka](https://open.spotify.com/artist/5ExQXrBc4BWeoYrLDwKskF) | [Bersama Lagi](https://open.spotify.com/album/7MoR88Za93o77ecSCFw2XT) | 4:24 | 2024-08-01 | 2024-10-11 |
 | [Bersepah](https://open.spotify.com/track/32Ws16l1zR7H8bpc9XiezS) | [Reruntuh](https://open.spotify.com/artist/3TXx6cyIVfjddsP6Vygy7a), [Gulf of Meru](https://open.spotify.com/artist/4Qj1DeSCA9enWHj4oh10ao) | [Jenjam](https://open.spotify.com/album/4vSgTJIrvaPulmGygOZCB0) | 6:00 | 2024-07-24 | 2024-08-30 |
@@ -144,6 +145,7 @@
 | [Fana](https://open.spotify.com/track/26s9aTmkOYRzSAQfNOFJkD) | [Bank](https://open.spotify.com/artist/7GYuuWp775MTtjWkK4N5CF) | [Fana](https://open.spotify.com/album/4hvZXIyD1dcy1EAr5G6CcS) | 4:14 | 2024-06-27 | 2024-07-12 |
 | [Fantasi](https://open.spotify.com/track/2gd4rxTdI3eDWJDJO55dQj) | [Crayon Cosmos](https://open.spotify.com/artist/22iWhjjaX8kiL2HcPEwdvt) | [Fantasi](https://open.spotify.com/album/4s9KCrpNlQoEJ1WG1qHuqw) | 2:33 | 2025-07-17 | 2025-10-24 |
 | [Fatamorgana](https://open.spotify.com/track/4rqEnEq8CQzOzjwU2iCHxn) | [Yudis Dwiko](https://open.spotify.com/artist/5Ud9VCmLavle5o180t45fZ) | [Fatamorgana](https://open.spotify.com/album/7IyIwRaq66irZCv1n8sdEo) | 3:37 | 2024-09-13 | 2024-11-29 |
+| [February Ends](https://open.spotify.com/track/4cVwMS4jnuLRFvmEc3O5b6) | [aditt](https://open.spotify.com/artist/7cFuwo3V3uBt5FT62ap6gj) | [Trilogy of Gratitude](https://open.spotify.com/album/62fTJGjNItIoxe4p18KTRm) | 2:59 | 2026-05-01 |  |
 | [Feeling for You](https://open.spotify.com/track/0NA1nlCQ9BlRbbY8F6UTN9) | [LONE](https://open.spotify.com/artist/5HeBFZyF0fqXHw7SU1xZHF) | [Feeling for You](https://open.spotify.com/album/49FXRUWF9fMNgV5BF8vAyk) | 4:13 | 2024-06-27 | 2024-07-05 |
 | [Fell 4 U](https://open.spotify.com/track/2NW2dhhqVi2zyWWrht0Yxh) | [Alika](https://open.spotify.com/artist/3cOIvAvtcVtmNwwfrjNLv5) | [Fell 4 U](https://open.spotify.com/album/4sMOy7wGvjBKFurJBcfa5F) | 3:24 | 2026-03-26 |  |
 | [Fermeture](https://open.spotify.com/track/7gwmbKdpNWwFQrr7554mnF) | [Dreane](https://open.spotify.com/artist/3jGBrkfigCO8a21DpyiOMa) | [Take Me](https://open.spotify.com/album/31yx6tPI7RvMRN0yvDqf4r) | 1:04 | 2024-07-16 | 2024-08-30 |
@@ -173,6 +175,7 @@
 | [Harapan, Pt\. 3](https://open.spotify.com/track/42stYHbwsVEe8hpgoiHozN) | [The Cottons](https://open.spotify.com/artist/4q6wWCZAcdPF5cjP3AhOBy) | [Harapan](https://open.spotify.com/album/5Me8TkPJQLbJGt1WzOizpQ) | 4:26 | 2024-06-27 | 2024-09-06 |
 | [Hari Hari Musik](https://open.spotify.com/track/33CQlRUmCOYQS7dQCMHpDw) | [Jason Ranti](https://open.spotify.com/artist/06x5hKHmGzMggWmRK833nv) | [Hari Hari Musik](https://open.spotify.com/album/43MqWpLfqpeVs6EBYmhEwi) | 4:46 | 2024-06-27 | 2024-08-02 |
 | [Hari Ini](https://open.spotify.com/track/29QfJ5teye2vtL5nmMWM2V) | [Araji](https://open.spotify.com/artist/2zb2UOYEJ5NkqK7hJeT9Rj) | [Hari Ini](https://open.spotify.com/album/7vsQ0aGXPAnKBqXZxJrGDL) | 3:47 | 2024-06-27 | 2024-07-27 |
+| [Hassled Out!](https://open.spotify.com/track/5BGKmoJMcFM5uK0HgiYuY9) | [Sunwich](https://open.spotify.com/artist/45KFMEB3QETjFvFME86vYO) | [Laras / Hassled Out!](https://open.spotify.com/album/6qwMfMW8OJwcdfQpFasjB0) | 2:23 | 2026-05-01 |  |
 | [heart:burn](https://open.spotify.com/track/45vUOPII1WGdcLbBZOuDGl) | [The Backdoor Hours](https://open.spotify.com/artist/3u5XGIc6oD5ZdoyidlX39q) | [heart:burn](https://open.spotify.com/album/2tKJWI9aI9MQdBYklfAdpi) | 3:16 | 2025-01-31 | 2025-04-11 |
 | [Heartless Man](https://open.spotify.com/track/7dRxFgqHCL0q3BlA9Er4J5) | [Morad](https://open.spotify.com/artist/5vxULw4cTsiMYOvH0jrbfj) | [Heartless Man](https://open.spotify.com/album/3ckyt87YZBksANQhtJGeyU) | 1:50 | 2024-06-27 | 2024-07-05 |
 | [Helpless](https://open.spotify.com/track/3PNY3KOBwCWoMlgcZqhblh) | [ATSEA](https://open.spotify.com/artist/29YMwt7N0OV3oG5nw2NmeI) | [Helpless](https://open.spotify.com/album/6x5ROoQjb8aG1uLhvFt6sn) | 2:30 | 2024-08-01 | 2024-09-20 |
@@ -397,6 +400,7 @@
 | [Rufus](https://open.spotify.com/track/4K1ZDFZFRXEA0t97xTrPUC) | [The High Temples](https://open.spotify.com/artist/36ku8N2i3yWGUZlp1Zm3Wh) | [Rufus/Odyssey](https://open.spotify.com/album/3Ru1lWqR5bT9AhxZJRsgcb) | 4:44 | 2024-07-11 | 2024-09-06 |
 | [Rumah Terakhir](https://open.spotify.com/track/2RYTOchHmp7oqhUva7wpvD) | [Aldy Amis](https://open.spotify.com/artist/1cH4Kfu1QYyTnmAgEt1j8V), [eńau](https://open.spotify.com/artist/0agUNq8PH1QSgm88EuhM1u) | [Rumah Terakhir](https://open.spotify.com/album/20cjU6B2kkUlLY0Rw7MCYo) | 4:21 | 2025-08-28 | 2026-02-13 |
 | [Sabda Alam \(Ost\. Possession "Kerasukan"\)](https://open.spotify.com/track/5UKYIox4ovOf0mWjqDXJU0) | [Danilla](https://open.spotify.com/artist/3jAIDtaFDAHtuP5qU6Hgny), [Rahara](https://open.spotify.com/artist/48RPzUPIqKTqfx3LE2VthB) | [Sabda Alam \(Ost\. Possession "Kerasukan"\)](https://open.spotify.com/album/0CDj4xAP2fHJe6YTVqg6tu) | 3:45 | 2024-06-27 | 2025-02-21 |
+| [Sailing](https://open.spotify.com/track/67v2T3Iqy9BCtithhU3tur) | [Scalopoly](https://open.spotify.com/artist/1FtD73pyc7tiDG1WSLc6qh) | [Sailing](https://open.spotify.com/album/2Zg02Ya2RASXCiPefRZQzd) | 4:30 | 2026-05-01 |  |
 | [Salah](https://open.spotify.com/track/2u5tz3X8WN5SLJMUVKoVvP) | [Domestique Club](https://open.spotify.com/artist/2MsAZb3nzWesXFJ0NwVNcN) | [Salah](https://open.spotify.com/album/1tyGKn3ddpRAcTYwP2t1nA) | 5:03 | 2024-06-27 | 2024-07-19 |
 | [Salah Kostum](https://open.spotify.com/track/64JQLPpK276q0f7pvfw8L5) | [Kathleen Ivanka](https://open.spotify.com/artist/5ExQXrBc4BWeoYrLDwKskF) | [Salah Kostum](https://open.spotify.com/album/7h22KAx3YKmdta47HYp9VU) | 4:44 | 2026-04-24 |  |
 | [Salahkah](https://open.spotify.com/track/2M1fu2RYxPGZ0jwogMR0UX) | [TANJUNG](https://open.spotify.com/artist/3ak1W9Pqd8qzBllVATA3Du), [Matter Mos](https://open.spotify.com/artist/3BdGivzytiHhSHQ7VF58jL) | [LEVITASI](https://open.spotify.com/album/12y9mwCN7sJaQmcQlyS5V2) | 3:31 | 2026-01-16 | 2026-02-06 |
@@ -480,6 +484,7 @@
 | [Tentang Dunia dan Masa Muda](https://open.spotify.com/track/4gHRbKrk17CxWEEvEMLNpV) | [Turbokidz](https://open.spotify.com/artist/0X2LJsREqS5E4iFZTStLum) | [Tentang Dunia dan Masa Muda](https://open.spotify.com/album/6OIxujlnQ7BUq9q1J4zEqJ) | 4:15 | 2026-04-17 |  |
 | [Tentang Mimpi Berupa Pelangi](https://open.spotify.com/track/7oi973e6bB0mgi6vszLdKN) | [Pendarra](https://open.spotify.com/artist/0azPQZGt11gedg5Le9hjC2) | [Semburat](https://open.spotify.com/album/3mhN7GdnANPCYy3Jh7HgFC) | 4:21 | 2026-03-05 |  |
 | [Terdiasi](https://open.spotify.com/track/1UZKEWCeZ2Zv3BanLxDFD6) | [The Paperplane](https://open.spotify.com/artist/00MqgOUf6FeJBMHpmGAozh), [Koembang Terbang](https://open.spotify.com/artist/6G92HLtl4eLGTiqFrHIDxw) | [Terdiasi](https://open.spotify.com/album/71cVGV0wdx9cO8JVDGNkwg) | 3:56 | 2024-06-27 | 2024-07-05 |
+| [Tertulis Bertemu](https://open.spotify.com/track/1uLCPdQk71DOjtnr9uT4ip) | [Hunian](https://open.spotify.com/artist/2QEhkMZR5scUNW4imElFjz) | [Untuk Perjalanan](https://open.spotify.com/album/6AE169q33vWjdHEW8puk0h) | 3:32 | 2026-05-01 |  |
 | [Text Me \(When It's Over\)](https://open.spotify.com/track/6JjHBg0GsvwjpnczvBhtbv) | [Cassette Tape](https://open.spotify.com/artist/45d9rjxmTAPHleESx39ao2) | [Text Me \(When It's Over\)](https://open.spotify.com/album/1ERnC3W3zKYuepZvBvBemw) | 3:04 | 2025-07-24 | 2025-10-24 |
 | [The Art of Chasing You](https://open.spotify.com/track/7HwHo4TOJzqcX9scDN7YCB) | [Magnolia Celebration](https://open.spotify.com/artist/3YfBnmHPOhPA3uEb0BxIHK), [Ade Paloh](https://open.spotify.com/artist/1WNds1Ueo0rd6XUigI9DPZ) | [Too Shy, Too Blind](https://open.spotify.com/album/6MVkNSm87gfSg4rG8728ii) | 5:06 | 2024-06-27 | 2024-12-06 |
 | [The Bigfoot Trademark Logo](https://open.spotify.com/track/1KSIC277cn81q0Kr4ylv7E) | [Bedchamber](https://open.spotify.com/artist/2cWNrggFURoSaRS97IobZ0) | [The Bigfoot Trademark Logo](https://open.spotify.com/album/2Th9GgqSdUCJFBgv5pI6Dn) | 2:52 | 2024-09-26 | 2025-01-18 |

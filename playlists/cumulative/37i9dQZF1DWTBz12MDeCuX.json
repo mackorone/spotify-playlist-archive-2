@@ -432,7 +432,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 120491,
       "name": "1000 Tage",
       "url": "https://open.spotify.com/track/5No65rZdw7efFpH5Ax6F6Z"
@@ -872,7 +872,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 166200,
       "name": "20 & Irgendwas",
       "url": "https://open.spotify.com/track/4XGTVDCdhr59bBX8CGtlTG"
@@ -978,6 +978,28 @@
       "duration_ms": 158358,
       "name": "2016",
       "url": "https://open.spotify.com/track/2pm9DcicKhfolnXZq4dUnk"
+    },
+    {
+      "album": {
+        "name": "2017",
+        "url": "https://open.spotify.com/album/08ABK18t2XWh2obdkL6N8n"
+      },
+      "artists": [
+        {
+          "name": "CARAMELLA",
+          "url": "https://open.spotify.com/artist/3bzLLgN7vDyZeokKXrCQAJ"
+        },
+        {
+          "name": "YDRA",
+          "url": "https://open.spotify.com/artist/6AEAVlgzkJWaHO9nOGA91T"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157466,
+      "name": "2017",
+      "url": "https://open.spotify.com/track/1dRFvQo08nHAKRqIhnrSHA"
     },
     {
       "album": {
@@ -3260,7 +3282,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 118201,
       "name": "Allein",
       "url": "https://open.spotify.com/track/6maoQQLiU03P7A5CKZGgRT"
@@ -8002,6 +8024,28 @@
       "duration_ms": 190666,
       "name": "Big Dawgs",
       "url": "https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW"
+    },
+    {
+      "album": {
+        "name": "Big Dick Energy (mit Baran Kok)",
+        "url": "https://open.spotify.com/album/02pvdqgt26HAIvU4nX2H3C"
+      },
+      "artists": [
+        {
+          "name": "KITSCHKRIEG",
+          "url": "https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4"
+        },
+        {
+          "name": "Baran Kok",
+          "url": "https://open.spotify.com/artist/0h5l8UYxSk3xeGGlSXgpIZ"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165333,
+      "name": "Big Dick Energy (mit Baran Kok)",
+      "url": "https://open.spotify.com/track/48T8hv2evF6yn5p12w3DCn"
     },
     {
       "album": {
@@ -13032,7 +13076,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 182014,
       "name": "das gr\u00f6\u00dfte was es gibt",
       "url": "https://open.spotify.com/track/7pFnKfsvuZZ1kKbkKVSw1f"
@@ -13876,6 +13920,24 @@
       "duration_ms": 177108,
       "name": "die first",
       "url": "https://open.spotify.com/track/21szgNA72iLwvBxHQLgwBh"
+    },
+    {
+      "album": {
+        "name": "young forever",
+        "url": "https://open.spotify.com/album/4uoeBpJ631QyWNHw9GqTEn"
+      },
+      "artists": [
+        {
+          "name": "Nessa Barrett",
+          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177108,
+      "name": "die first",
+      "url": "https://open.spotify.com/track/3TfDUStpnEVIlsNlgcKQgJ"
     },
     {
       "album": {
@@ -21579,6 +21641,24 @@
     },
     {
       "album": {
+        "name": "Gar nichts",
+        "url": "https://open.spotify.com/album/1xForWYTWk81EussUNnTIK"
+      },
+      "artists": [
+        {
+          "name": "Nalya",
+          "url": "https://open.spotify.com/artist/28pXf135fQ3E5AJixrjd4O"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141000,
+      "name": "Gar nichts",
+      "url": "https://open.spotify.com/track/2YkxFSMwunJ7V5tzpctFRR"
+    },
+    {
+      "album": {
         "name": "Gar nichts sagen",
         "url": "https://open.spotify.com/album/2mm7b3T1gqZhrKu1lMzYhP"
       },
@@ -22696,6 +22776,28 @@
       "duration_ms": 122349,
       "name": "Gib mir deine Luv",
       "url": "https://open.spotify.com/track/2lxkMOd1RwRKwEzSphOR7I"
+    },
+    {
+      "album": {
+        "name": "Gib mir mehr Du",
+        "url": "https://open.spotify.com/album/03ub248yWebL0kbqooEzpM"
+      },
+      "artists": [
+        {
+          "name": "Paul",
+          "url": "https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg"
+        },
+        {
+          "name": "01099",
+          "url": "https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163575,
+      "name": "Gib mir mehr Du",
+      "url": "https://open.spotify.com/track/6w0eHk8No2d9hAn9xym7Se"
     },
     {
       "album": {
@@ -25010,7 +25112,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-24",
+      "date_removed": null,
       "duration_ms": 153200,
       "name": "hat nicht jeder schon mal angst gehabt?",
       "url": "https://open.spotify.com/track/4HbQ8ZielIoSYhD56ReyHN"
@@ -30080,7 +30182,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 160706,
       "name": "irgendwann",
       "url": "https://open.spotify.com/track/0K6ovr0D8RzwNnhGs03hzr"
@@ -30496,6 +30598,28 @@
       "duration_ms": 169013,
       "name": "JACKIE BROWN",
       "url": "https://open.spotify.com/track/2IlT65thKQQw248mhk2PjQ"
+    },
+    {
+      "album": {
+        "name": "Jamaican (Bam Bam)",
+        "url": "https://open.spotify.com/album/5ZX3Zdp20YCGI4ruAfZlMj"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "SOLTO (FR)",
+          "url": "https://open.spotify.com/artist/0F3tUZeb9dLNEpxCpzEBQt"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156393,
+      "name": "Jamaican (Bam Bam)",
+      "url": "https://open.spotify.com/track/7e4zDInS6tA2jwzphvs2Ay"
     },
     {
       "album": {
@@ -31506,7 +31630,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 219845,
       "name": "kalender",
       "url": "https://open.spotify.com/track/1Yg7BRQvrOXKJAiLogfh9e"
@@ -32832,6 +32956,28 @@
       "duration_ms": 163902,
       "name": "Kokain",
       "url": "https://open.spotify.com/track/2lUQLa5vK0k6l8YT8cWlNT"
+    },
+    {
+      "album": {
+        "name": "KOKO BRAUN",
+        "url": "https://open.spotify.com/album/5WXm0wemHefxOO4KyENH7T"
+      },
+      "artists": [
+        {
+          "name": "Tream",
+          "url": "https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp"
+        },
+        {
+          "name": "treamiboii",
+          "url": "https://open.spotify.com/artist/4jsmk00NuPR1FfXqUCF1ac"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154432,
+      "name": "KOKO BRAUN",
+      "url": "https://open.spotify.com/track/1tIdM2hlXTftWoh4Nb7Ztg"
     },
     {
       "album": {
@@ -39407,6 +39553,24 @@
     },
     {
       "album": {
+        "name": "okay.",
+        "url": "https://open.spotify.com/album/2EJayrUBkSaqDSNBy8KLAJ"
+      },
+      "artists": [
+        {
+          "name": "c4rl",
+          "url": "https://open.spotify.com/artist/72UhalaIOck67xEkd5G07c"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "Moment",
+      "url": "https://open.spotify.com/track/5dXYibifKJIQ4sAaHWByXk"
+    },
+    {
+      "album": {
         "name": "Moment",
         "url": "https://open.spotify.com/album/5l4IBxY3EZwenZLXqzFCDV"
       },
@@ -42550,7 +42714,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 136800,
       "name": "Nightmare",
       "url": "https://open.spotify.com/track/4mGjBB9Kfn0Znah2TIlYNG"
@@ -45590,7 +45754,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 154134,
       "name": "Paris",
       "url": "https://open.spotify.com/track/0o20WKpl9Y8Ps3c4qrC9HP"
@@ -46536,7 +46700,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 144615,
       "name": "Piano Jazz",
       "url": "https://open.spotify.com/track/2wJJRihzDqIA3V7HmBVhrl"
@@ -47676,7 +47840,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 136562,
       "name": "Prom Queen",
       "url": "https://open.spotify.com/track/04nVCPqCJTIrJ1O3NKHVZO"
@@ -48008,6 +48172,24 @@
       "duration_ms": 138461,
       "name": "Radar",
       "url": "https://open.spotify.com/track/2kkAjht9Fu0vUbmGRIGgGE"
+    },
+    {
+      "album": {
+        "name": "RADAR.WAV",
+        "url": "https://open.spotify.com/album/11hMH4z1ypiHCq22ZheFQE"
+      },
+      "artists": [
+        {
+          "name": "yamii.",
+          "url": "https://open.spotify.com/artist/3lkfeAyjkPLPZKOy0M9Ck5"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169180,
+      "name": "RADAR.WAV",
+      "url": "https://open.spotify.com/track/3V8ITjEnVB69EsrdyS3q4U"
     },
     {
       "album": {
@@ -48372,7 +48554,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 195680,
       "name": "Rave On",
       "url": "https://open.spotify.com/track/2U3q3hrMWOTRDqPTTqrfHw"
@@ -51942,6 +52124,24 @@
       "duration_ms": 229800,
       "name": "Shmunk (feat. YoungBoy Never Broke Again)",
       "url": "https://open.spotify.com/track/2fpTRcMLt4aKlqULOwuXUP"
+    },
+    {
+      "album": {
+        "name": "SHOOK",
+        "url": "https://open.spotify.com/album/4lSYuGsPUTHGel906TJCqZ"
+      },
+      "artists": [
+        {
+          "name": "H33RA",
+          "url": "https://open.spotify.com/artist/1NHGoS1F3ejgcKg5sE95LM"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183743,
+      "name": "SHOOK",
+      "url": "https://open.spotify.com/track/0wdSmyHGxoNaJmLENqcaUj"
     },
     {
       "album": {

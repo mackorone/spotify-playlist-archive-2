@@ -37564,7 +37564,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 192984,
       "name": "Paatha Edathila",
       "url": "https://open.spotify.com/track/1CaDbj95jdxRh0Tl0CXPDQ"
@@ -38936,6 +38936,32 @@
       "duration_ms": 241176,
       "name": "Pennin Nilai Idhu Dhaana (From \"Banaras\")",
       "url": "https://open.spotify.com/track/6rzywbloxqgI7lg6II3ooi"
+    },
+    {
+      "album": {
+        "name": "Ek Din - Tamil (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/02AU64r2AkOdGIoEhJfAcJ"
+      },
+      "artists": [
+        {
+          "name": "Adithya RK",
+          "url": "https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm"
+        },
+        {
+          "name": "Ram Sampath",
+          "url": "https://open.spotify.com/artist/3PpjqSKBer3obW6lDflOBx"
+        },
+        {
+          "name": "Madhan Karky",
+          "url": "https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261818,
+      "name": "Peraasayo - From \"Ek Din - Tamil\"",
+      "url": "https://open.spotify.com/track/3fc3ZiN2gxpCUB5IFPWDzf"
     },
     {
       "album": {
@@ -50242,7 +50268,7 @@
       ],
       "date_added": "2026-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 237048,
       "name": "Theeraa Dhooram (From \"Anomie - The Equation Of Death\") [TAMIL]",
       "url": "https://open.spotify.com/track/7ngNud94AQMZepfYrssMOp"
@@ -56058,6 +56084,24 @@
       "duration_ms": 276416,
       "name": "Varaha Roopam",
       "url": "https://open.spotify.com/track/2W0rC9WPKkyqa6pRvlUv3k"
+    },
+    {
+      "album": {
+        "name": "Vari Vari",
+        "url": "https://open.spotify.com/album/3f2c0mrTvbNj50xM6o6Vbe"
+      },
+      "artists": [
+        {
+          "name": "Dhee",
+          "url": "https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201756,
+      "name": "Vari Vari",
+      "url": "https://open.spotify.com/track/1KJ8JKkGayN6BJ2kX3FGUj"
     },
     {
       "album": {

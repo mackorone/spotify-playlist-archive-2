@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-06-24",
-  "description": "The heartbeat of Afro House from Africa and around the globe. Cover: Zee Nxumalo",
+  "description": "The heartbeat of Afro House from Africa and around the globe. Cover: SIO",
   "name": "Afro House Pulse",
   "tracks": [
     {
@@ -4587,6 +4587,28 @@
     },
     {
       "album": {
+        "name": "Njururi",
+        "url": "https://open.spotify.com/album/59vwhG5i2FYnbcncmdXXfL"
+      },
+      "artists": [
+        {
+          "name": "Trekkah",
+          "url": "https://open.spotify.com/artist/3YTAXxEhKGNPtxjYgSl92V"
+        },
+        {
+          "name": "Tina Ardor",
+          "url": "https://open.spotify.com/artist/6PfUzWVHGENDyfBVEYNIZD"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225600,
+      "name": "Njururi",
+      "url": "https://open.spotify.com/track/7tuyoCLrqLDKBWq1Wdxsge"
+    },
+    {
+      "album": {
         "name": "Nkosi",
         "url": "https://open.spotify.com/album/4ux0G0cVZIN98vXThCv9J4"
       },
@@ -5632,6 +5654,28 @@
       "duration_ms": 394078,
       "name": "The Bing Bang",
       "url": "https://open.spotify.com/track/3ZSnzvXfcRsu6TCUtBBbVg"
+    },
+    {
+      "album": {
+        "name": "The Drum",
+        "url": "https://open.spotify.com/album/6NmhZ8znJbCvIg3N2zEqYp"
+      },
+      "artists": [
+        {
+          "name": "IDRIS",
+          "url": "https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS"
+        },
+        {
+          "name": "Sio",
+          "url": "https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197829,
+      "name": "The Drum",
+      "url": "https://open.spotify.com/track/6kidZ88sGNXXFI1GzOlUL0"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Zizzu in cover della playlist con il futuro del rap italiano \ud83d\udcc8",
+  "description": "G. Mineiro in cover della playlist con il futuro del rap italiano \ud83d\udcc8",
   "name": "Raptopia",
   "tracks": [
     {
@@ -56,7 +56,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 159676,
       "name": "#ennyp",
       "url": "https://open.spotify.com/track/5i1Fzs7ylTdu2uoUujL5D1"
@@ -326,7 +326,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 176471,
       "name": "1 quore",
       "url": "https://open.spotify.com/track/1Ztjs0XzgoDRZE1PwFB7M4"
@@ -1334,7 +1334,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 156981,
       "name": "3:33",
       "url": "https://open.spotify.com/track/0DLpdlnRQhqj2Pk3jU9fIO"
@@ -3176,7 +3176,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 121154,
       "name": "ALL IN",
       "url": "https://open.spotify.com/track/1ycn9FKyoyjQseu6lbFfPN"
@@ -5476,7 +5476,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 132998,
       "name": "BBL (feat. Gojardi)",
       "url": "https://open.spotify.com/track/50tvWz1CqRBtIE0Keezavo"
@@ -11031,6 +11031,32 @@
     },
     {
       "album": {
+        "name": "COST TO COST",
+        "url": "https://open.spotify.com/album/3nXP7A8UFgdNPDJi7cGnAN"
+      },
+      "artists": [
+        {
+          "name": "Cosse",
+          "url": "https://open.spotify.com/artist/0LDESJcgTtM2KjhzIIFnq1"
+        },
+        {
+          "name": "Gale",
+          "url": "https://open.spotify.com/artist/0MLdj7ABckNxmKWlrxBuUL"
+        },
+        {
+          "name": "goon!",
+          "url": "https://open.spotify.com/artist/433ELfo0sY6Bp9KxbCIJbW"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172175,
+      "name": "COST TO COST",
+      "url": "https://open.spotify.com/track/0n8b3Gs5t0KehJhsezOik4"
+    },
+    {
+      "album": {
         "name": "Cos\u00ec Ghiacciato Tony",
         "url": "https://open.spotify.com/album/3N93FlcPvFKrGhQx81K5Uh"
       },
@@ -14558,6 +14584,28 @@
       "duration_ms": 216056,
       "name": "Estorsione",
       "url": "https://open.spotify.com/track/2GRi9N2LVatxmdwHekDxpX"
+    },
+    {
+      "album": {
+        "name": "Euphon",
+        "url": "https://open.spotify.com/album/4ZCPCeyc8OG2MGOPd9RB31"
+      },
+      "artists": [
+        {
+          "name": "tretreaura",
+          "url": "https://open.spotify.com/artist/1EhU56ndTtTBZjoo77GscN"
+        },
+        {
+          "name": "Olli",
+          "url": "https://open.spotify.com/artist/6TjVxYjWKkg9kI8tsg8zDi"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99884,
+      "name": "Euphon",
+      "url": "https://open.spotify.com/track/55zeosblxcVqvOjYUbLymx"
     },
     {
       "album": {
@@ -21330,6 +21378,24 @@
       "duration_ms": 165111,
       "name": "J (feat. Nayt)",
       "url": "https://open.spotify.com/track/2JwXWydDD5ASONulGVLzHJ"
+    },
+    {
+      "album": {
+        "name": "J'adore",
+        "url": "https://open.spotify.com/album/5meIFRSYjwHsMUKbi9tRq9"
+      },
+      "artists": [
+        {
+          "name": "lildombaby",
+          "url": "https://open.spotify.com/artist/2zC7nA8SJ0qHEBFyJFYjc4"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174203,
+      "name": "J'adore",
+      "url": "https://open.spotify.com/track/16uKRfbYS5cN8d7ZBzIsRU"
     },
     {
       "album": {
@@ -37155,6 +37221,28 @@
     },
     {
       "album": {
+        "name": "RAGAZZiNi ETERO 2 (feat. Macello)",
+        "url": "https://open.spotify.com/album/5Msu54GzFJbqV4tuaLr8So"
+      },
+      "artists": [
+        {
+          "name": "Pitta",
+          "url": "https://open.spotify.com/artist/33KV7opyVMdhw1rHHckMDT"
+        },
+        {
+          "name": "Macello",
+          "url": "https://open.spotify.com/artist/3DzlFEEKyk4jj7FuYnJSZZ"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154750,
+      "name": "RAGAZZiNi ETERO 2 (feat. Macello)",
+      "url": "https://open.spotify.com/track/7tspQe2hRlg1Z8bBoQT45x"
+    },
+    {
+      "album": {
         "name": "Crash Out",
         "url": "https://open.spotify.com/album/2OSYIvhAF22cJtRFSLEr6g"
       },
@@ -42661,6 +42749,24 @@
     },
     {
       "album": {
+        "name": "STATUS",
+        "url": "https://open.spotify.com/album/6KkO2UGw98cNIrwL4WOs36"
+      },
+      "artists": [
+        {
+          "name": "Helmi",
+          "url": "https://open.spotify.com/artist/2mvMdmcLoPwfaUHlgwRJlj"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170467,
+      "name": "STATUS",
+      "url": "https://open.spotify.com/track/1XLqcDXCO9c1WO6V8jNUOP"
+    },
+    {
+      "album": {
         "name": "STAVAMO A ZERO",
         "url": "https://open.spotify.com/album/7LOyKUp6ixUOiVzl1HIX2s"
       },
@@ -43266,7 +43372,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 94736,
       "name": "Stressato",
       "url": "https://open.spotify.com/track/7iaFvQMnT7Wc8l5kBDHORQ"
@@ -45958,7 +46064,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 174736,
       "name": "TU SEI CHI?",
       "url": "https://open.spotify.com/track/30oDC8qf58RXeSsBp2KjnO"
@@ -46528,7 +46634,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 151461,
       "name": "UCCIDERMI/DROGARMI",
       "url": "https://open.spotify.com/track/0Etfd7TbF5fxwN6wH32E8H"
@@ -46882,6 +46988,24 @@
       "duration_ms": 200470,
       "name": "Una Stella",
       "url": "https://open.spotify.com/track/4ab3fZ01ENaIEuasOZ2KRf"
+    },
+    {
+      "album": {
+        "name": "UNABOMBER",
+        "url": "https://open.spotify.com/album/4e4E7oylKuCR4zXuadL0N3"
+      },
+      "artists": [
+        {
+          "name": "Lito",
+          "url": "https://open.spotify.com/artist/3Es16vmqYL43ifHZR4YjbO"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128017,
+      "name": "UNABOMBER",
+      "url": "https://open.spotify.com/track/4BEmfcN2xWbPxsPSlsu37B"
     },
     {
       "album": {
@@ -47496,6 +47620,24 @@
       "duration_ms": 112026,
       "name": "Vendetta Freestyle",
       "url": "https://open.spotify.com/track/7LfcI5izfeDK5wFSSpbgtz"
+    },
+    {
+      "album": {
+        "name": "VENE BLU",
+        "url": "https://open.spotify.com/album/6xT8MJmuAQ9RnYIt2oQxjG"
+      },
+      "artists": [
+        {
+          "name": "Flaco G",
+          "url": "https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157714,
+      "name": "VENE BLU",
+      "url": "https://open.spotify.com/track/7IyE1wahFtQTg2YTAXqia1"
     },
     {
       "album": {

@@ -5,6 +5,40 @@
   "tracks": [
     {
       "album": {
+        "name": "Sesame Street (Songs from Season 56, Vol. 2)",
+        "url": "https://open.spotify.com/album/3gqnzTjR3GuGgB5saUvxK8"
+      },
+      "artists": [
+        {
+          "name": "Elmo",
+          "url": "https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R"
+        },
+        {
+          "name": "Abby Cadabby",
+          "url": "https://open.spotify.com/artist/6aFmZaY3ydeUcYFXIJqzAT"
+        },
+        {
+          "name": "Cookie Monster",
+          "url": "https://open.spotify.com/artist/0KUfoAHP20vQHuDhiEAa8r"
+        },
+        {
+          "name": "Rosita",
+          "url": "https://open.spotify.com/artist/2wxve9scaPJQnUUKE3Q4Sf"
+        },
+        {
+          "name": "Sesame Street",
+          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 65413,
+      "name": "Abby's Bedtime Bop",
+      "url": "https://open.spotify.com/track/6sBw2x4cYRoBPMz3g8jgx0"
+    },
+    {
+      "album": {
         "name": "Action Pack Theme Song (Music from the Netflix Series)",
         "url": "https://open.spotify.com/album/5024rnCJURx7qI6ZSzEwsi"
       },
@@ -439,6 +473,58 @@
     },
     {
       "album": {
+        "name": "Sesame Street (Songs from Season 56)",
+        "url": "https://open.spotify.com/album/2ArY4gOlvaLvIM5GTZoSf5"
+      },
+      "artists": [
+        {
+          "name": "Cookie Monster",
+          "url": "https://open.spotify.com/artist/0KUfoAHP20vQHuDhiEAa8r"
+        },
+        {
+          "name": "Sesame Street",
+          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103280,
+      "name": "Cookie Cart",
+      "url": "https://open.spotify.com/track/4vyFHKZuBKAK6rbaTOBfM5"
+    },
+    {
+      "album": {
+        "name": "Furry Friends Forever: Elmo Gets a Puppy (Original Songs from the Sesame Street Special)",
+        "url": "https://open.spotify.com/album/2nru2uASj7e51meWzgX3H3"
+      },
+      "artists": [
+        {
+          "name": "Cookie Monster",
+          "url": "https://open.spotify.com/artist/0KUfoAHP20vQHuDhiEAa8r"
+        },
+        {
+          "name": "Elmo",
+          "url": "https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R"
+        },
+        {
+          "name": "Grover",
+          "url": "https://open.spotify.com/artist/0BQ8l7C4ooQ9YqqnXsi4Vn"
+        },
+        {
+          "name": "Sesame Street",
+          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93644,
+      "name": "Cookie Monster Doggie Treats",
+      "url": "https://open.spotify.com/track/4Aw92EshYI0h1s6N5ww6FY"
+    },
+    {
+      "album": {
         "name": "Courage In Me (From Miraculous: Ladybug & Cat Noir, The Movie Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7FZYfXFTDr3kMm4OTAXsUp"
       },
@@ -498,6 +584,78 @@
       "duration_ms": 131649,
       "name": "Danger, Danger",
       "url": "https://open.spotify.com/track/0ie7SrEYQQ8KXvgS6VuKX4"
+    },
+    {
+      "album": {
+        "name": "Sesame Street (Songs from Season 56, Vol. 2)",
+        "url": "https://open.spotify.com/album/3gqnzTjR3GuGgB5saUvxK8"
+      },
+      "artists": [
+        {
+          "name": "Elmo",
+          "url": "https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R"
+        },
+        {
+          "name": "Sesame Street",
+          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 65906,
+      "name": "Elmo's Awesome Bike",
+      "url": "https://open.spotify.com/track/3P5Bq6VYZVP4v6jAnCTb1M"
+    },
+    {
+      "album": {
+        "name": "Happy Dance",
+        "url": "https://open.spotify.com/album/7M6NyPARixmFv74BbgUFFg"
+      },
+      "artists": [
+        {
+          "name": "Elmo",
+          "url": "https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R"
+        },
+        {
+          "name": "Abby Cadabby",
+          "url": "https://open.spotify.com/artist/6aFmZaY3ydeUcYFXIJqzAT"
+        },
+        {
+          "name": "Cookie Monster",
+          "url": "https://open.spotify.com/artist/0KUfoAHP20vQHuDhiEAa8r"
+        },
+        {
+          "name": "Big Bird",
+          "url": "https://open.spotify.com/artist/0iDC0DDdk9WL7W8OdBSmtE"
+        },
+        {
+          "name": "Bert",
+          "url": "https://open.spotify.com/artist/1T8DNeUI0R8aw3GNwvqeax"
+        },
+        {
+          "name": "Ernie",
+          "url": "https://open.spotify.com/artist/1qkEx9YPevCOQhazUZK1bJ"
+        },
+        {
+          "name": "Grover",
+          "url": "https://open.spotify.com/artist/0BQ8l7C4ooQ9YqqnXsi4Vn"
+        },
+        {
+          "name": "Rosita",
+          "url": "https://open.spotify.com/artist/2wxve9scaPJQnUUKE3Q4Sf"
+        },
+        {
+          "name": "Sesame Street",
+          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131907,
+      "name": "Elmo\u2019s Letter of the Day: A!",
+      "url": "https://open.spotify.com/track/0xui0ty6djXgUytRjA26L9"
     },
     {
       "album": {
@@ -1289,6 +1447,36 @@
     },
     {
       "album": {
+        "name": "Furry Friends Forever: Elmo Gets a Puppy (Original Songs from the Sesame Street Special)",
+        "url": "https://open.spotify.com/album/2nru2uASj7e51meWzgX3H3"
+      },
+      "artists": [
+        {
+          "name": "Abby Cadabby",
+          "url": "https://open.spotify.com/artist/6aFmZaY3ydeUcYFXIJqzAT"
+        },
+        {
+          "name": "Elmo",
+          "url": "https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R"
+        },
+        {
+          "name": "Grover",
+          "url": "https://open.spotify.com/artist/0BQ8l7C4ooQ9YqqnXsi4Vn"
+        },
+        {
+          "name": "Sesame Street",
+          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81063,
+      "name": "Hooray for Getting Clean (Puppy Bath Time)",
+      "url": "https://open.spotify.com/track/4SyFjFG5ml7a6uOLAvX6XY"
+    },
+    {
+      "album": {
         "name": "Dr. Seuss's Horton! (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/2dhJMHvT5yW6L6IczsgQoq"
       },
@@ -1562,6 +1750,58 @@
       "duration_ms": 206559,
       "name": "Just As You Are - From the Netflix Film \"Thelma the Unicorn\"",
       "url": "https://open.spotify.com/track/5DuSa5TfSngmuL0Z8qFvts"
+    },
+    {
+      "album": {
+        "name": "Sesame Street (Songs from Season 56)",
+        "url": "https://open.spotify.com/album/2ArY4gOlvaLvIM5GTZoSf5"
+      },
+      "artists": [
+        {
+          "name": "Elmo",
+          "url": "https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R"
+        },
+        {
+          "name": "Sesame Street",
+          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83333,
+      "name": "Just Imagine",
+      "url": "https://open.spotify.com/track/5DPH4YKfftGNfi6G2KfgQT"
+    },
+    {
+      "album": {
+        "name": "Sesame Street (Songs from Season 56, Vol. 2)",
+        "url": "https://open.spotify.com/album/3gqnzTjR3GuGgB5saUvxK8"
+      },
+      "artists": [
+        {
+          "name": "Elmo",
+          "url": "https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R"
+        },
+        {
+          "name": "Cookie Monster",
+          "url": "https://open.spotify.com/artist/0KUfoAHP20vQHuDhiEAa8r"
+        },
+        {
+          "name": "Abby Cadabby",
+          "url": "https://open.spotify.com/artist/6aFmZaY3ydeUcYFXIJqzAT"
+        },
+        {
+          "name": "Sesame Street",
+          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84386,
+      "name": "Just Imagine a Cookie Tower",
+      "url": "https://open.spotify.com/track/660vjHrURxcwdcersUZV7c"
     },
     {
       "album": {
@@ -1854,6 +2094,28 @@
       "duration_ms": 209863,
       "name": "Meet Me at the Top - feat. Journi",
       "url": "https://open.spotify.com/track/4caOw0lZ0Kujg9lEZJgXz3"
+    },
+    {
+      "album": {
+        "name": "Sesame Street (Songs from Season 56)",
+        "url": "https://open.spotify.com/album/2ArY4gOlvaLvIM5GTZoSf5"
+      },
+      "artists": [
+        {
+          "name": "Abby Cadabby",
+          "url": "https://open.spotify.com/artist/6aFmZaY3ydeUcYFXIJqzAT"
+        },
+        {
+          "name": "Sesame Street",
+          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88346,
+      "name": "Meet My Beasties",
+      "url": "https://open.spotify.com/track/4EGZNr1Zsr1h2ot7xHFVsp"
     },
     {
       "album": {
@@ -2377,6 +2639,24 @@
     },
     {
       "album": {
+        "name": "Dr. Seuss's Red Fish, Blue Fish (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/2ALnLhNczfzTqJGu1Ob2UR"
+      },
+      "artists": [
+        {
+          "name": "Earl St. Clair",
+          "url": "https://open.spotify.com/artist/0h9IuyuhaLBJWOpebvgTk5"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 36449,
+      "name": "Red Fish, Blue Fish Main Title Theme",
+      "url": "https://open.spotify.com/track/4nklZ8ttc2wdXAdJQOc1DS"
+    },
+    {
+      "album": {
         "name": "Ridley Jones (Music From The Netflix Series)",
         "url": "https://open.spotify.com/album/58pamZsxVwehcxN6Yiwcwn"
       },
@@ -2601,6 +2881,24 @@
     },
     {
       "album": {
+        "name": "Sesame Street (Songs from Season 56)",
+        "url": "https://open.spotify.com/album/2ArY4gOlvaLvIM5GTZoSf5"
+      },
+      "artists": [
+        {
+          "name": "Sesame Street",
+          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 31666,
+      "name": "Sesame Street Theme (Sunny Day 2025 Version)",
+      "url": "https://open.spotify.com/track/591j3dYGW6D2wzCedaYpQx"
+    },
+    {
+      "album": {
         "name": "Silly Bad Guys",
         "url": "https://open.spotify.com/album/3UBytlscm3YF53uF6mKUE8"
       },
@@ -2749,6 +3047,88 @@
     },
     {
       "album": {
+        "name": "Sesame Street (Songs from Season 56)",
+        "url": "https://open.spotify.com/album/2ArY4gOlvaLvIM5GTZoSf5"
+      },
+      "artists": [
+        {
+          "name": "Grover",
+          "url": "https://open.spotify.com/artist/0BQ8l7C4ooQ9YqqnXsi4Vn"
+        },
+        {
+          "name": "Sesame Street",
+          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92093,
+      "name": "Super Suitycase",
+      "url": "https://open.spotify.com/track/2ZkHWER12bzVLLffvI2B34"
+    },
+    {
+      "album": {
+        "name": "Take Me Out to the Ball Game!",
+        "url": "https://open.spotify.com/album/3DkifXNkw86UmS614BGO1X"
+      },
+      "artists": [
+        {
+          "name": "Elmo",
+          "url": "https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R"
+        },
+        {
+          "name": "Cookie Monster",
+          "url": "https://open.spotify.com/artist/0KUfoAHP20vQHuDhiEAa8r"
+        },
+        {
+          "name": "Abby Cadabby",
+          "url": "https://open.spotify.com/artist/6aFmZaY3ydeUcYFXIJqzAT"
+        },
+        {
+          "name": "Sesame Street",
+          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93826,
+      "name": "Take Me Out to the Ball Game!",
+      "url": "https://open.spotify.com/track/65UdHWLSMLEzz1yJtXAswi"
+    },
+    {
+      "album": {
+        "name": "Furry Friends Forever: Elmo Gets a Puppy (Original Songs from the Sesame Street Special)",
+        "url": "https://open.spotify.com/album/2nru2uASj7e51meWzgX3H3"
+      },
+      "artists": [
+        {
+          "name": "Elmo",
+          "url": "https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R"
+        },
+        {
+          "name": "Big Bird",
+          "url": "https://open.spotify.com/artist/0iDC0DDdk9WL7W8OdBSmtE"
+        },
+        {
+          "name": "Oscar the Grouch",
+          "url": "https://open.spotify.com/artist/2dX0vdWogRhm7Jz8DuB9t9"
+        },
+        {
+          "name": "Sesame Street",
+          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93195,
+      "name": "That's Home",
+      "url": "https://open.spotify.com/track/1pqQvqfSTEpk6BDclppkHN"
+    },
+    {
+      "album": {
         "name": "Netflix Jr. Jams: Vol. 3",
         "url": "https://open.spotify.com/album/543rbtvsbqEQY2AIynQQC6"
       },
@@ -2836,6 +3216,60 @@
       "duration_ms": 121533,
       "name": "The Kid (Kid Cosmic Theme)",
       "url": "https://open.spotify.com/track/7FcW4LbjumvTOqVlsXULIS"
+    },
+    {
+      "album": {
+        "name": "ABC 123",
+        "url": "https://open.spotify.com/album/0QXCIagcYSnzr59Gp0C4fr"
+      },
+      "artists": [
+        {
+          "name": "Abby Cadabby",
+          "url": "https://open.spotify.com/artist/6aFmZaY3ydeUcYFXIJqzAT"
+        },
+        {
+          "name": "Elmo",
+          "url": "https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R"
+        },
+        {
+          "name": "Cookie Monster",
+          "url": "https://open.spotify.com/artist/0KUfoAHP20vQHuDhiEAa8r"
+        },
+        {
+          "name": "Grover",
+          "url": "https://open.spotify.com/artist/0BQ8l7C4ooQ9YqqnXsi4Vn"
+        },
+        {
+          "name": "Big Bird",
+          "url": "https://open.spotify.com/artist/0iDC0DDdk9WL7W8OdBSmtE"
+        },
+        {
+          "name": "Bert",
+          "url": "https://open.spotify.com/artist/1T8DNeUI0R8aw3GNwvqeax"
+        },
+        {
+          "name": "Ernie",
+          "url": "https://open.spotify.com/artist/1qkEx9YPevCOQhazUZK1bJ"
+        },
+        {
+          "name": "Rosita",
+          "url": "https://open.spotify.com/artist/2wxve9scaPJQnUUKE3Q4Sf"
+        },
+        {
+          "name": "Zoe",
+          "url": "https://open.spotify.com/artist/7fwvBtJJavkIB34vf73p8V"
+        },
+        {
+          "name": "Sesame Street",
+          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93755,
+      "name": "The Letter of the Day \"B\"",
+      "url": "https://open.spotify.com/track/6lxyDrQ5HDvEPieUNL9IO3"
     },
     {
       "album": {

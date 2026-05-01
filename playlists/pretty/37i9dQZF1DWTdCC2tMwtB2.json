@@ -1,6 +1,6 @@
 {
   "description": "Your escape to the world of chill Indian pop. Cover - Thoda Thoda Pyaar",
-  "num_followers": 128755,
+  "num_followers": 128808,
   "original_name": "I-Pop Chill",
   "owner": {
     "name": "Spotify",
@@ -403,42 +403,6 @@
     {
       "added_at": "2026-04-28 09:22:39",
       "album": {
-        "name": "Ghost",
-        "url": "https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        },
-        {
-          "name": "thiarajxtt",
-          "url": "https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD"
-        }
-      ],
-      "duration_ms": 213344,
-      "name": "Kinni Kinni",
-      "url": "https://open.spotify.com/track/3F3ZuXYFXGM1V6pk3b3zmi"
-    },
-    {
-      "added_at": "2026-04-28 09:22:39",
-      "album": {
-        "name": "Champagne Talk",
-        "url": "https://open.spotify.com/album/15CyNDuGY5fsG0Hn9rjnpG"
-      },
-      "artists": [
-        {
-          "name": "King",
-          "url": "https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU"
-        }
-      ],
-      "duration_ms": 194653,
-      "name": "Maan Meri Jaan",
-      "url": "https://open.spotify.com/track/1418IuVKQPTYqt7QNJ9RXN"
-    },
-    {
-      "added_at": "2026-04-28 09:22:39",
-      "album": {
         "name": "Bheegi Bheegi",
         "url": "https://open.spotify.com/album/3gSamGzuaJypB6V9z6CvrX"
       },
@@ -459,6 +423,42 @@
       "duration_ms": 219818,
       "name": "Bheegi Bheegi",
       "url": "https://open.spotify.com/track/3KYbbE5Yje5IcqJmNNbbkS"
+    },
+    {
+      "added_at": "2026-04-28 09:22:39",
+      "album": {
+        "name": "Champagne Talk",
+        "url": "https://open.spotify.com/album/15CyNDuGY5fsG0Hn9rjnpG"
+      },
+      "artists": [
+        {
+          "name": "King",
+          "url": "https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU"
+        }
+      ],
+      "duration_ms": 194653,
+      "name": "Maan Meri Jaan",
+      "url": "https://open.spotify.com/track/1418IuVKQPTYqt7QNJ9RXN"
+    },
+    {
+      "added_at": "2026-04-28 09:22:39",
+      "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "thiarajxtt",
+          "url": "https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD"
+        }
+      ],
+      "duration_ms": 213344,
+      "name": "Kinni Kinni",
+      "url": "https://open.spotify.com/track/3F3ZuXYFXGM1V6pk3b3zmi"
     },
     {
       "added_at": "2026-04-28 09:22:39",
@@ -495,30 +495,6 @@
       "duration_ms": 227962,
       "name": "Rang Lageya",
       "url": "https://open.spotify.com/track/7mSzDKajY2wUtstQSLdzMK"
-    },
-    {
-      "added_at": "2026-04-28 09:22:39",
-      "album": {
-        "name": "AURA",
-        "url": "https://open.spotify.com/album/1qP2ICZGtjDGBayZ7JuQcT"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        },
-        {
-          "name": "Avvy Sra",
-          "url": "https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN"
-        },
-        {
-          "name": "Raj Ranjodh",
-          "url": "https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF"
-        }
-      ],
-      "duration_ms": 175200,
-      "name": "Charmer",
-      "url": "https://open.spotify.com/track/1F2sn8iJA607Xfz1K3d9dJ"
     },
     {
       "added_at": "2026-04-28 09:22:39",
@@ -567,26 +543,26 @@
     {
       "added_at": "2026-04-28 09:22:39",
       "album": {
-        "name": "RAINA",
-        "url": "https://open.spotify.com/album/75clQ7n29rQkzvGxrW1Btw"
+        "name": "AURA",
+        "url": "https://open.spotify.com/album/1qP2ICZGtjDGBayZ7JuQcT"
       },
       "artists": [
         {
-          "name": "Shekhar Ravjiani",
-          "url": "https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw"
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
         },
         {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+          "name": "Avvy Sra",
+          "url": "https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN"
         },
         {
-          "name": "Priya Saraiya",
-          "url": "https://open.spotify.com/artist/6q29t5RuXxlBuqIZsOMQss"
+          "name": "Raj Ranjodh",
+          "url": "https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF"
         }
       ],
-      "duration_ms": 217192,
-      "name": "RAINA",
-      "url": "https://open.spotify.com/track/3Hmfcqxxy8OCPhaLJT9QaQ"
+      "duration_ms": 175200,
+      "name": "Charmer",
+      "url": "https://open.spotify.com/track/1F2sn8iJA607Xfz1K3d9dJ"
     },
     {
       "added_at": "2026-04-28 09:22:39",
@@ -631,6 +607,30 @@
       "duration_ms": 208943,
       "name": "Yeh Raaten Yeh Mausam",
       "url": "https://open.spotify.com/track/1ApfHqjOoBmJZ0SjdjzVyA"
+    },
+    {
+      "added_at": "2026-04-28 09:22:39",
+      "album": {
+        "name": "RAINA",
+        "url": "https://open.spotify.com/album/75clQ7n29rQkzvGxrW1Btw"
+      },
+      "artists": [
+        {
+          "name": "Shekhar Ravjiani",
+          "url": "https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Priya Saraiya",
+          "url": "https://open.spotify.com/artist/6q29t5RuXxlBuqIZsOMQss"
+        }
+      ],
+      "duration_ms": 217192,
+      "name": "RAINA",
+      "url": "https://open.spotify.com/track/3Hmfcqxxy8OCPhaLJT9QaQ"
     },
     {
       "added_at": "2026-04-28 09:22:39",
@@ -703,6 +703,30 @@
     {
       "added_at": "2026-04-28 09:22:39",
       "album": {
+        "name": "Aaya Na Tu",
+        "url": "https://open.spotify.com/album/2ZGzoWXjfWxRwepEbS0H1b"
+      },
+      "artists": [
+        {
+          "name": "Arjun Kanungo",
+          "url": "https://open.spotify.com/artist/3bAFvRjPZrpRz9Ox1sElQa"
+        },
+        {
+          "name": "Momina Mustehsan",
+          "url": "https://open.spotify.com/artist/7J2gs5q2wLq6lU4q4wkyuV"
+        },
+        {
+          "name": "Kunaal Vermaa",
+          "url": "https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Aaya Na Tu",
+      "url": "https://open.spotify.com/track/3T0oPETOdddxJ2xTt2qJe4"
+    },
+    {
+      "added_at": "2026-04-28 09:22:39",
+      "album": {
         "name": "Chandni",
         "url": "https://open.spotify.com/album/4NoXfpBsI0EbAgYk3hLNav"
       },
@@ -727,30 +751,6 @@
       "duration_ms": 248048,
       "name": "Chandni",
       "url": "https://open.spotify.com/track/0t8qUG81HRAzlCpftm8Hlk"
-    },
-    {
-      "added_at": "2026-04-28 09:22:39",
-      "album": {
-        "name": "Aaya Na Tu",
-        "url": "https://open.spotify.com/album/2ZGzoWXjfWxRwepEbS0H1b"
-      },
-      "artists": [
-        {
-          "name": "Arjun Kanungo",
-          "url": "https://open.spotify.com/artist/3bAFvRjPZrpRz9Ox1sElQa"
-        },
-        {
-          "name": "Momina Mustehsan",
-          "url": "https://open.spotify.com/artist/7J2gs5q2wLq6lU4q4wkyuV"
-        },
-        {
-          "name": "Kunaal Vermaa",
-          "url": "https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Aaya Na Tu",
-      "url": "https://open.spotify.com/track/3T0oPETOdddxJ2xTt2qJe4"
     },
     {
       "added_at": "2026-04-28 09:22:39",
@@ -815,22 +815,6 @@
     {
       "added_at": "2026-04-28 09:22:39",
       "album": {
-        "name": "NEW LIFE",
-        "url": "https://open.spotify.com/album/1ERhZcW27LyJkW1w0hy8Tt"
-      },
-      "artists": [
-        {
-          "name": "King",
-          "url": "https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU"
-        }
-      ],
-      "duration_ms": 226029,
-      "name": "Tu Jaana Na Piya",
-      "url": "https://open.spotify.com/track/4u0D2jZ20wQaEMHBSqsDnZ"
-    },
-    {
-      "added_at": "2026-04-28 09:22:39",
-      "album": {
         "name": "Baarish Ban Jaana",
         "url": "https://open.spotify.com/album/4iKug0MTkj0wulrZ33t310"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 200250,
       "name": "Baarish Ban Jaana",
       "url": "https://open.spotify.com/track/3sFlG5sYt712TtjvWM8Ocb"
+    },
+    {
+      "added_at": "2026-04-28 09:22:39",
+      "album": {
+        "name": "NEW LIFE",
+        "url": "https://open.spotify.com/album/1ERhZcW27LyJkW1w0hy8Tt"
+      },
+      "artists": [
+        {
+          "name": "King",
+          "url": "https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU"
+        }
+      ],
+      "duration_ms": 226029,
+      "name": "Tu Jaana Na Piya",
+      "url": "https://open.spotify.com/track/4u0D2jZ20wQaEMHBSqsDnZ"
     },
     {
       "added_at": "2026-04-28 09:22:39",
@@ -911,30 +911,6 @@
     {
       "added_at": "2026-04-28 09:22:39",
       "album": {
-        "name": "Raja Hindustani",
-        "url": "https://open.spotify.com/album/6xUlvwWAmelBN0VLU4KYGd"
-      },
-      "artists": [
-        {
-          "name": "King",
-          "url": "https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU"
-        },
-        {
-          "name": "Aditya Dev",
-          "url": "https://open.spotify.com/artist/2IX6xq1cVcBoD4obUsT5xs"
-        },
-        {
-          "name": "Kumar Sanu",
-          "url": "https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn"
-        }
-      ],
-      "duration_ms": 212713,
-      "name": "Maza Pyaar Karne Mein (feat. Kumar Sanu)",
-      "url": "https://open.spotify.com/track/3ndIeDXqi9MDgxu0HuSBg7"
-    },
-    {
-      "added_at": "2026-04-28 09:22:39",
-      "album": {
         "name": "Tu Ru Ruu",
         "url": "https://open.spotify.com/album/036AwFKcee9b7rLriwBHPG"
       },
@@ -955,6 +931,30 @@
       "duration_ms": 185156,
       "name": "Tu Ru Ruu",
       "url": "https://open.spotify.com/track/3y7WECxvtou36AS4rhwgYO"
+    },
+    {
+      "added_at": "2026-04-28 09:22:39",
+      "album": {
+        "name": "Raja Hindustani",
+        "url": "https://open.spotify.com/album/6xUlvwWAmelBN0VLU4KYGd"
+      },
+      "artists": [
+        {
+          "name": "King",
+          "url": "https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU"
+        },
+        {
+          "name": "Aditya Dev",
+          "url": "https://open.spotify.com/artist/2IX6xq1cVcBoD4obUsT5xs"
+        },
+        {
+          "name": "Kumar Sanu",
+          "url": "https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn"
+        }
+      ],
+      "duration_ms": 212713,
+      "name": "Maza Pyaar Karne Mein (feat. Kumar Sanu)",
+      "url": "https://open.spotify.com/track/3ndIeDXqi9MDgxu0HuSBg7"
     },
     {
       "added_at": "2026-04-28 09:22:39",

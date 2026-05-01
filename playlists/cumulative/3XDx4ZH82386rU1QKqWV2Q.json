@@ -1060,7 +1060,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 245142,
       "name": "Back It Up",
       "url": "https://open.spotify.com/track/4qjfug1qgRCq65BJUgoUHz"
@@ -3884,6 +3884,32 @@
       "duration_ms": 131428,
       "name": "DON'T KNOW ME",
       "url": "https://open.spotify.com/track/5VXBT5kzlGQMDUyNxbUWGz"
+    },
+    {
+      "album": {
+        "name": "Don't Let Me Go",
+        "url": "https://open.spotify.com/album/0XK5AdXHmzk558ZXWqKaid"
+      },
+      "artists": [
+        {
+          "name": "Le Castle Vania",
+          "url": "https://open.spotify.com/artist/2KrXlzpSX4wWvJ2555FWLv"
+        },
+        {
+          "name": "One True God",
+          "url": "https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp"
+        },
+        {
+          "name": "Cxssidy",
+          "url": "https://open.spotify.com/artist/3Y3lbzoi0F8wQIiTnIbDXq"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196363,
+      "name": "Don't Let Me Go",
+      "url": "https://open.spotify.com/track/7qKkHYGRoI8VNxHE0f0oWQ"
     },
     {
       "album": {
@@ -13907,6 +13933,28 @@
     },
     {
       "album": {
+        "name": "Still Here",
+        "url": "https://open.spotify.com/album/6ynrxVhHafnYY5s3ldPMcE"
+      },
+      "artists": [
+        {
+          "name": "Skyh\u00ebx",
+          "url": "https://open.spotify.com/artist/4OE3ij7jD35i3j2Yio6xzo"
+        },
+        {
+          "name": "Neo BeatZ",
+          "url": "https://open.spotify.com/artist/41OMMgwaUCQOdowZ0o7TkB"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230399,
+      "name": "Still Here",
+      "url": "https://open.spotify.com/track/1syl6TmGhDNSWc23jltDso"
+    },
+    {
+      "album": {
         "name": "Go Be Great",
         "url": "https://open.spotify.com/album/5VhPCYhxoMPieiJ6irWce3"
       },
@@ -14441,6 +14489,24 @@
     },
     {
       "album": {
+        "name": "The Original Treason (Instrumental)",
+        "url": "https://open.spotify.com/album/6Dz1Lh3MUncKC4hTx2bHhn"
+      },
+      "artists": [
+        {
+          "name": "Divine Seven Official",
+          "url": "https://open.spotify.com/artist/5qoLt9S0DtVZ4qBm5mzH3R"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260097,
+      "name": "The Original Treason - Instrumental",
+      "url": "https://open.spotify.com/track/5sdXt9F3Gu39pXp0uAaxYD"
+    },
+    {
+      "album": {
         "name": "Lust For Life",
         "url": "https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz"
       },
@@ -14874,6 +14940,24 @@
       "duration_ms": 193027,
       "name": "Trap",
       "url": "https://open.spotify.com/track/2toKCghubrFGSVvW8cAaoC"
+    },
+    {
+      "album": {
+        "name": "TRAP HOUSE",
+        "url": "https://open.spotify.com/album/42Ow1bxuqKwN3Keo9ERM0X"
+      },
+      "artists": [
+        {
+          "name": "Adi T",
+          "url": "https://open.spotify.com/artist/2j7LhKK7NqAGgtvDZN5LZG"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205213,
+      "name": "TRAP HOUSE",
+      "url": "https://open.spotify.com/track/718NPd5xJIhECmTsaa1fE2"
     },
     {
       "album": {

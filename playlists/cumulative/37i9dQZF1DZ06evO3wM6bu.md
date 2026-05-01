@@ -4,7 +4,7 @@
 
 > This is Westlife\. The essential tracks, all in one playlist.
 
-50 songs - 3 hr 11 min
+51 songs - 3 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Hard to Say I'm Sorry](https://open.spotify.com/track/4QTIkK8161b0A8wvXWZo8D) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [B\-Sides, Rarities and Remixes](https://open.spotify.com/album/3Ln53Tw9oXf3PKhYBusTAD) | 3:59 | 2025-10-28 |  |
 | [Hello My Love](https://open.spotify.com/track/4EtIza2cKMmR2XP7idebXG) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Hello My Love](https://open.spotify.com/album/319h1Lrxw9Xmx4TDoPG2Hk) | 3:34 | 2025-10-28 |  |
 | [Home](https://open.spotify.com/track/7BbZiTZdEF7enOkY6BmUV2) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Back Home](https://open.spotify.com/album/0K3igCblJjDIJcFbaOHlxD) | 3:26 | 2025-10-28 |  |
+| [How to Break a Heart](https://open.spotify.com/track/6k0AzDwTLJhMgkuYzhzSzJ) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Where We Are](https://open.spotify.com/album/3PKeOrW72DQ3QB6FZvn18F) | 4:04 | 2026-05-01 |  |
 | [I Lay My Love on You \- Remix](https://open.spotify.com/track/0V82wcNlunw76nvvmPL9tk) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Coast To Coast \(Expanded Edition\)](https://open.spotify.com/album/6P1sBa0T1fRooA0UTAQfOu) | 3:28 | 2025-10-28 |  |
 | [I Wanna Grow Old with You](https://open.spotify.com/track/1CNj54KmvgzHzDy7QGzrRt) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [World of Our Own \(Expanded Edition\)](https://open.spotify.com/album/5FECTGZ9UdITzeo7o0AhUZ) | 4:07 | 2025-10-28 |  |
 | [I'm Already There](https://open.spotify.com/track/70DYBBLSo10FpIYjc6Cl7A) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Back Home](https://open.spotify.com/album/0K3igCblJjDIJcFbaOHlxD) | 4:18 | 2025-10-28 |  |

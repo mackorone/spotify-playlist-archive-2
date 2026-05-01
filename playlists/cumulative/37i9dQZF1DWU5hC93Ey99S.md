@@ -4,7 +4,7 @@
 
 > all the stutter, all the feels.
 
-1,010 songs - 2 day 5 hr 46 min
+1,014 songs - 2 day 5 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,6 +150,7 @@
 | [Closer](https://open.spotify.com/track/4Xl9qi7Z0KTU6aVWkNGETU) | [Genius Of Time](https://open.spotify.com/artist/1PyOgBv0gb5p75Y6iS6uM2) | [Closer](https://open.spotify.com/album/37qEBYJEhwnBgG9fC8Omwz) | 4:40 | 2024-09-05 | 2025-08-13 |
 | [Closer 2 U](https://open.spotify.com/track/3xp2L2gLP6PVUzCXYr2e1M) | [Tyron Hapi](https://open.spotify.com/artist/5aSBbBUbArJfyNKDg4KS1I) | [Closer 2 U](https://open.spotify.com/album/730M409X13uOR3uGtX2vZY) | 3:26 | 2024-12-12 | 2025-08-13 |
 | [Closer To My Dreams](https://open.spotify.com/track/6Ci2jTX3usJfA9GP3tkSk6) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco) | [Closer To My Dreams](https://open.spotify.com/album/5EOgqtgOgcCuQgN7nCsIAS) | 4:58 | 2025-03-27 |  |
+| [Closure](https://open.spotify.com/track/6aynKW70w06W8LyZaKpdAX) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Hayley May](https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued) | [Closure](https://open.spotify.com/album/1PyUm9Ez6uKvsWNn7bEJbD) | 2:27 | 2026-04-30 |  |
 | [Cloud Surf](https://open.spotify.com/track/5vYEP4fVYC4VwimS2L3J21) | [GALAFUNK](https://open.spotify.com/artist/5cBXHUwPEFHePvKdQqFYzb) | [Cloud Surf](https://open.spotify.com/album/1aXEnX1VBrPzxXUmG0KbcO) | 3:19 | 2024-05-30 | 2025-08-13 |
 | [Clouds](https://open.spotify.com/track/2lWc1iJlz2NVcStV5fbtPG) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Nate Traveller](https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc) | [Clouds](https://open.spotify.com/album/2ArRQNLxf9t0O0gvmG5Vsj) | 2:38 | 2023-04-13 | 2026-01-27 |
 | [Coexistence](https://open.spotify.com/track/5tD5TkJ6LxyIqqI9TGUvCc) | [munro](https://open.spotify.com/artist/2g9CpiC5J4Rwl38OsLholH), [MarMar](https://open.spotify.com/artist/1329gf1qT2Yhh6vh8PJ5Xr) | [Coexistence](https://open.spotify.com/album/67kLWA4NECjGwFQKm6J4ML) | 2:46 | 2023-12-08 | 2024-01-06 |
@@ -249,6 +250,7 @@
 | [Falling \(D'Opera\)](https://open.spotify.com/track/3xh3vEtbV8AVFpWKqfK3b7) | [ROYA](https://open.spotify.com/artist/6OxEmD1kV3B1OhVjqWO9Zh) | [Falling \(D'Opera\)](https://open.spotify.com/album/42hsP1tzWAXNo4kpD24csQ) | 2:36 | 2024-10-24 | 2025-08-13 |
 | [Falling for You](https://open.spotify.com/track/06QGDM31PNF0MBD2WOBfef) | [Wacomo](https://open.spotify.com/artist/3QCB7sHyeE8BM8G5JqA1Z4) | [Falling for You](https://open.spotify.com/album/1j4s6sv6WFu86u052hrpTh) | 2:44 | 2024-08-15 | 2025-08-13 |
 | [Falling Into You](https://open.spotify.com/track/3ZHKnaw6nJCXGYVY1h63lK) | [Lynnic](https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT), [ItsArius](https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27), [Kezano](https://open.spotify.com/artist/0Le6TvnuhTKjcrNYENXDX4) | [Falling Into You](https://open.spotify.com/album/5sLop69oN5zrq9KzVgEunR) | 3:09 | 2024-07-05 | 2025-05-02 |
+| [Fantasy](https://open.spotify.com/track/65zFScdofCOueq6XRLH1gt) | [Chris Stussy](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So), [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Lost, Found & Forgotten...](https://open.spotify.com/album/168x0ASrmQOKhL5dMWmGw2) | 4:07 | 2026-04-30 |  |
 | [Faster](https://open.spotify.com/track/32wWoepx8MRN4zf2rzIZEK) | [HUMS](https://open.spotify.com/artist/5QjAqXjrOtaLmrUuT2U1CE) | [Faster](https://open.spotify.com/album/2GF8ON7y9f8dhs3aGGVHNY) | 3:21 | 2024-02-15 | 2025-08-13 |
 | [Favorite Sound](https://open.spotify.com/track/2YoKWnMwaPaBtHrJ0Mpunm) | [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO), [SILK](https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a) | [Favorite Sound](https://open.spotify.com/album/2RbAX9xPMDbBukM2YYAJh3) | 2:47 | 2024-08-22 | 2025-08-13 |
 | [Fear Me](https://open.spotify.com/track/62QKkCiulzm9UA877jP7wW) | [Killen.](https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt), [Izza Gara](https://open.spotify.com/artist/2ZYmbV91kG11F6WGuuuZov) | [Fear Me](https://open.spotify.com/album/5JBBbhfRmaTMdXHGoPmoML) | 2:46 | 2026-01-08 |  |
@@ -548,6 +550,7 @@
 | [Meant To Be](https://open.spotify.com/track/3qYjAxjvzzlGinGsOV8RWu) | [Leondis](https://open.spotify.com/artist/0wxqz8uaPaewwCEqsYQHn8) | [Meant To Be](https://open.spotify.com/album/2EYjefWs2a5hdQqrr0rE9E) | 2:50 | 2023-04-13 | 2025-08-13 |
 | [Meet Me at the Bottom](https://open.spotify.com/track/11qe0DyXUBbs8uQR16u4dG) | [Lyrah](https://open.spotify.com/artist/5JyKQ4MQ2HkU1n1BYiKMWW) | [Meet Me at the Bottom](https://open.spotify.com/album/0Pq4pKQ6WSXxxS6vcchJzt) | 2:13 | 2025-03-06 |  |
 | [Meet You There \- Vall Remix](https://open.spotify.com/track/1rXVach7i7Iywa91TtWcd5) | [A R I Z O N A](https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt), [Vall](https://open.spotify.com/artist/1nn5V08qmK0rKqWX5tFBac) | [A R I Z O N A \(R E M I X E D\)](https://open.spotify.com/album/3ab2NFkx4nCfOmgh8VFz7P) | 4:17 | 2023-11-16 | 2024-01-06 |
+| [midnight moon](https://open.spotify.com/track/5fu8pfEsXXA9mY0F9grAce) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [HOME WAS ALWAYS ME](https://open.spotify.com/album/3LjjkS2s2b2RdluM00NWLD) | 2:17 | 2026-04-30 |  |
 | [Mind Still \(feat\. blythe\)](https://open.spotify.com/track/5698qx5K7VmYzeJ6O4WR7v) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [blythe](https://open.spotify.com/artist/3a6XMXgL5f92tw3wX42kOC) | [Mind Still \(feat\. blythe\)](https://open.spotify.com/album/5vQgixmnyYGp53WtWEfBtQ) | 2:36 | 2024-04-04 | 2024-04-26 |
 | [Minute by Day](https://open.spotify.com/track/55wdL1VMU5irTZf3rbyKXF) | [Peace Bringa](https://open.spotify.com/artist/6lNuZfZqCWUtNZJtoiHfqM) | [Minute by Day](https://open.spotify.com/album/5BTiYThaDPEtH3QkS1pcxg) | 2:31 | 2024-02-15 | 2025-08-13 |
 | [Miracle](https://open.spotify.com/track/5OlArCCMZ8Jxs30WSQYFRv) | [Lavern](https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO), [SIR NOTCH](https://open.spotify.com/artist/4SLZm8YYu6KrPjowQigjCQ) | [Miracle](https://open.spotify.com/album/00YXA8GPG3GBofUoM6C9Dp) | 2:16 | 2023-11-16 | 2024-01-06 |
@@ -889,6 +892,7 @@
 | [Too Much](https://open.spotify.com/track/2EphCkHwxnplLCvPslzS74) | [Jess Ball](https://open.spotify.com/artist/5HjbKQXMhybveoJOsOXS07) | [Too Much](https://open.spotify.com/album/41p1g2DoL55ttVaqfQ9mpM) | 2:33 | 2023-08-24 | 2024-01-06 |
 | [touch](https://open.spotify.com/track/1nvVFpD9LRMnwxIOijLwVH) | [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ) | [touch](https://open.spotify.com/album/0vdN4m4wVVyqoWpbqU2onR) | 1:54 | 2024-05-08 | 2025-08-13 |
 | [Touch \(feat\. Franky\)](https://open.spotify.com/track/2bvUB6bUZdUqLWAEtK4vMs) | [LittGloss](https://open.spotify.com/artist/4pGKT0bADpfN9VOZvGlSz0), [Franky](https://open.spotify.com/artist/2pcPNkJ8zVDA2SBDeHW0gW) | [Touch \(feat\. Franky\)](https://open.spotify.com/album/6FYOzfKvTJK9MWO88AQep2) | 2:48 | 2023-09-07 | 2025-08-13 |
+| [Toy](https://open.spotify.com/track/02Jfe2Wl9MGcKPVfFZyj4K) | [ilysm](https://open.spotify.com/artist/0pRVWdcqtwZ1QI1Tlw3Ehq) | [Toy](https://open.spotify.com/album/4RWuhq0MXjCZeJvJVnFfno) | 1:55 | 2026-04-30 |  |
 | [Trapped In Silence](https://open.spotify.com/track/19WZpaTrUb0oMnU7A8XhAP) | [Junior Simba](https://open.spotify.com/artist/0Tr6RBtxQ5DzImZISTfSKn) | [Trapped In Silence](https://open.spotify.com/album/64DSi1YElrV0lkr5gxgt4X) | 2:55 | 2025-06-19 |  |
 | [TRIPPIN](https://open.spotify.com/track/4ml1Eq4wmcdfN0Q6pNEly7) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Mapei](https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz) | [TRIPPIN](https://open.spotify.com/album/6csFTPBuceEsBcSHGzQTaJ) | 3:22 | 2024-07-02 | 2025-08-13 |
 | [True](https://open.spotify.com/track/2pw12Ta8UfYKesE52ldUFm) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [True](https://open.spotify.com/album/5w8japF2UnvsfCGcoNn2Oo) | 2:05 | 2024-08-08 | 2025-08-13 |

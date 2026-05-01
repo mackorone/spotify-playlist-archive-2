@@ -304,7 +304,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 188750,
       "name": "Cloud 9",
       "url": "https://open.spotify.com/track/2PunFfwQmub6lKMmLe0H3w"
@@ -574,6 +574,24 @@
       "duration_ms": 216017,
       "name": "Flowers Flow",
       "url": "https://open.spotify.com/track/3kuzlLj2v5WhOpbVR4lavX"
+    },
+    {
+      "album": {
+        "name": "Galahad",
+        "url": "https://open.spotify.com/album/721nvr0OG4VoFIm7TBHLVC"
+      },
+      "artists": [
+        {
+          "name": "French The Kid",
+          "url": "https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186428,
+      "name": "Galahad",
+      "url": "https://open.spotify.com/track/2EafSuRnstn5xtJXO9adat"
     },
     {
       "album": {

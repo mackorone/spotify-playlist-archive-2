@@ -4,7 +4,7 @@
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-2,298 songs - 5 day 14 hr 15 min
+2,305 songs - 5 day 14 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Aeroplane](https://open.spotify.com/track/7DGumlswgE91MBaKtv0fY2) | [Double Wish](https://open.spotify.com/artist/1p3ZXIrJk5siJQowDwBxU7), [ARK IDENTITY](https://open.spotify.com/artist/569UPpViTfeKYYJRjggAz8) | [Aeroplane](https://open.spotify.com/album/541XcpYaYSoATMuPMHvE0g) | 4:34 | 2025-01-29 |  |
 | [After Later](https://open.spotify.com/track/3jCvRqVJikhHZXlPWvQXxx) | [Brock Geiger](https://open.spotify.com/artist/6Xmt051DPbfYbbBO7L2efg), [Sam Gendel](https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk) | [After Later](https://open.spotify.com/album/7kePzTFTrj8vofokbAnJ4D) | 3:23 | 2025-01-20 |  |
 | [After the Rain](https://open.spotify.com/track/7xyXxXZOy9wk70XOfGfREU) | [The Marica Frequency](https://open.spotify.com/artist/0s9He55onisVMQR4FVMWm0) | [Lifelike Figures](https://open.spotify.com/album/2eRVXNj2T29DPJqFsB7A7H) | 2:00 | 2025-10-13 |  |
+| [Again Please](https://open.spotify.com/track/1V5yJAm6tdr4u7WqSWipyL) | [Crumb Catcher](https://open.spotify.com/artist/5zAP2alk6lWFK14KVvKkgB) | [Big Crunch](https://open.spotify.com/album/6k0iGiN9qufQrIEP70PY0l) | 2:54 | 2026-04-30 |  |
 | [Against The Breeze](https://open.spotify.com/track/2zo1S2ptbBhtBVNW4Wh0J2) | [A Better Life](https://open.spotify.com/artist/6fSSDJG0JfyXJ09oUJA5xd), [Herica](https://open.spotify.com/artist/1il0piZajT0wcFsNPdD3Wu) | [Take A Deep Breath](https://open.spotify.com/album/2juHXaKgkswC8erGpTvF9w) | 5:14 | 2025-09-24 |  |
 | [AGUA MARINA](https://open.spotify.com/track/7a5w3b912T18cW29n8SEt8) | [R.G.](https://open.spotify.com/artist/4CBxJXOeb9HocUO88359wO) | [AGUA MARINA](https://open.spotify.com/album/39dBJP9btzGNUGk8SC8SWh) | 3:32 | 2025-02-27 |  |
 | [AI Love](https://open.spotify.com/track/3XajeOjltFwJluGcDwGiad) | [Max Fury](https://open.spotify.com/artist/19xPGw8PW8UEuL6bFg6psg) | [AI Love](https://open.spotify.com/album/3pFVTHcbCP9OK7sziCDyfO) | 3:20 | 2024-08-26 |  |
@@ -115,6 +116,7 @@
 | [Animo](https://open.spotify.com/track/3xC1vBGHBZxOxDveY0MYJP) | [Gust Fernandez](https://open.spotify.com/artist/5xGxpEIpAZTEjbSyrhf17R), [Pablo Pastor](https://open.spotify.com/artist/22LX0GIeZSiIMBpOJB29TG) | [Animo](https://open.spotify.com/album/5H2tz8Y71I7PpGujL2aRY2) | 3:54 | 2025-04-21 |  |
 | [Anniversary](https://open.spotify.com/track/1yhipUehqA9JeGciUa7663) | [Blister Soul](https://open.spotify.com/artist/3S5y0rfL05mwwT0RwoIbLZ) | [Seasons](https://open.spotify.com/album/2mC7ZRxQckh8OUns75zeAF) | 6:21 | 2025-03-06 |  |
 | [Another Day](https://open.spotify.com/track/1SREr3Hg5w7tc2cDj91SgK) | [S.O.S](https://open.spotify.com/artist/4ovLj8UgslXe1lWvaaSZ5w) | [Another Day](https://open.spotify.com/album/6dxtqZ6wTUByUTf0xTkSQn) | 2:50 | 2025-07-18 |  |
+| [Another Day](https://open.spotify.com/track/2EDvPdNKvtYm7rHLfbryEm) | [Shot Country Music](https://open.spotify.com/artist/6SD9T39XbxmQ0U0fWkhiM7) | [Another Day](https://open.spotify.com/album/3MMdSh0seRTFxfKDRny8Jk) | 3:54 | 2026-04-30 |  |
 | [Another Mile of Pain](https://open.spotify.com/track/4fLyZ46nySmdogmA476KBc) | [Raised by Clowns](https://open.spotify.com/artist/4VT6GVYiJ0EiXL3QY8vReC) | [Another Mile of Pain](https://open.spotify.com/album/5icNjlNpIo78W2qoxZM3Wu) | 2:45 | 2024-08-28 |  |
 | [ANTIFREEZE](https://open.spotify.com/track/6kDPMixv9i79sc2X0bxcUI) | [Grand Chef Bandit](https://open.spotify.com/artist/3atkGj8Cu30coOd6uraow4) | [SALOON](https://open.spotify.com/album/4LC7xW4c5ggyCS2ROdHb3f) | 2:07 | 2026-04-23 |  |
 | [Anxiety](https://open.spotify.com/track/2r2UYTxeSHutVFcH7KO5mA) | [Lauren Minear](https://open.spotify.com/artist/5nnohGTyoGL4ZCcudNki7A) | [Boxing Day \(Deluxe\)](https://open.spotify.com/album/09jVFVWEuvz7mq4GSvgi2h) | 2:56 | 2026-03-04 |  |
@@ -515,6 +517,7 @@
 | [Duped](https://open.spotify.com/track/2sBzcDPhe4V9mKGkQaqIfp) | [Mark Hussey](https://open.spotify.com/artist/0zn2NKBaPgxiMqs6FsYVKF), [Sofia Castillo](https://open.spotify.com/artist/0rOgtitBk4SX1IfqlWO8PY) | [Nomad](https://open.spotify.com/album/0k9GmUDS4nmNf4KTcWzm8M) | 3:08 | 2025-04-16 |  |
 | [durch Berlin](https://open.spotify.com/track/4cyY1zJjGwDy9YvKxmmPyt) | [T\-Jay](https://open.spotify.com/artist/1bzNvfIBg2TF644EixbESM), [Jakob Haut](https://open.spotify.com/artist/0cXU1720t3HPGnEbqAk2lQ) | [durch Berlin](https://open.spotify.com/album/3uIAzZVTpTjo4lqVB7NMSr) | 2:44 | 2025-09-01 |  |
 | [DURIAN DREAMS](https://open.spotify.com/track/44pTVgaqXdjuy1NPXo0dXe) | [Swataa](https://open.spotify.com/artist/5kalhevVNeX2xzmh1DW6VH) | [DURIAN DREAMS](https://open.spotify.com/album/3UMVc6AcrQLFGvGX6nKdKT) | 3:20 | 2024-07-26 |  |
+| [Dust and Daydreams](https://open.spotify.com/track/2m9TT5WJzqtbfSEQAdIMzW) | [Georgia Lane](https://open.spotify.com/artist/4xxJa1Woe9hyXNNhcAKC7d) | [Somewhere Soft to Land](https://open.spotify.com/album/0S1cri4TgZKMK8t0B2brYO) | 4:24 | 2026-04-30 |  |
 | [Dying Breed](https://open.spotify.com/track/3HhTAl39Mbxph7umYLj4T6) | [Dead End Drive\-In](https://open.spotify.com/artist/5ywrInSkiDhOqKX8cXeWiM) | [A Worthwhile Endeavour](https://open.spotify.com/album/4zvMXGxIkdIaYeJp8qCyiK) | 4:49 | 2024-11-12 |  |
 | [Dying Breed](https://open.spotify.com/track/57HnJtu4USQTPnf4G8hgZc) | [Jayden Travis](https://open.spotify.com/artist/7erjcafPBWtnlKxlXoTWjk) | [Dying Breed](https://open.spotify.com/album/1kiOJy3dOQzUyyl752zRUx) | 3:14 | 2024-09-23 |  |
 | [Dying Light](https://open.spotify.com/track/0OyOfXXATsC8DYlP82S23V) | [Tangerine Shades](https://open.spotify.com/artist/2bfjaoxFEKzpxIsBWd1K22) | [Dying Light](https://open.spotify.com/album/6qYpoxmilfQCrRlADWFBDM) | 4:35 | 2025-04-04 |  |
@@ -539,6 +542,7 @@
 | [El viaje \(Clipper\)](https://open.spotify.com/track/7H4wda7uOkHSLYBl1Pc1oR) | [Amiga500](https://open.spotify.com/artist/6EcinsFopS47JxIjEGfyzZ) | [El viaje \(Clipper\)](https://open.spotify.com/album/2HogwqsSOKLGqd1vaoGGtd) | 3:32 | 2024-10-18 |  |
 | [Eleni](https://open.spotify.com/track/5uIcectRndAwTTKMRFVOjU) | [Panic Man Dan](https://open.spotify.com/artist/3hpLPLyt4SQxIDKtbUdPU3) | [Eleni](https://open.spotify.com/album/4Fem11eMJyAZdcE4vDIyr7) | 4:36 | 2024-06-03 |  |
 | [Elephant](https://open.spotify.com/track/7IArSy4R7SblfJUg5RfG1X) | [The Fallow Years](https://open.spotify.com/artist/1MhYLziziNyGAHYJHcUvth) | [Winter](https://open.spotify.com/album/0D01kR1XKrrt12sRNpKhpn) | 5:31 | 2024-04-29 |  |
+| [Eleven](https://open.spotify.com/track/2EkUkbeiNt3NnzSxCFSeEO) | [SoulViolent](https://open.spotify.com/artist/5E0wQHVY3j0FxqvzRRMFL6) | [Eleven](https://open.spotify.com/album/4rIbX4RtmVmxmWSVJJC8ld) | 3:13 | 2026-04-30 |  |
 | [Eliza](https://open.spotify.com/track/32JjgWkNFsHvnpkTw9HjkJ) | [If by Whiskey](https://open.spotify.com/artist/2BN3IyVjJZIgTjYeK2FEu5) | [Eliza](https://open.spotify.com/album/1fdfeMzHPdAI4JmFlslw7W) | 3:09 | 2024-08-28 |  |
 | [Elsewhere Forever](https://open.spotify.com/track/4uGHOg0kxmKgALso98QJ11) | [Draumr](https://open.spotify.com/artist/2sdnhtPKM43ggzO4vvvUyi) | [Drawn\-Out Daydream](https://open.spotify.com/album/5DjMAXfrTr34bn3N9RH2Ka) | 3:19 | 2024-07-26 |  |
 | [Elsinore](https://open.spotify.com/track/1NoPirG77XN3zj7GlTCyzg) | [Local Kin](https://open.spotify.com/artist/3vq4Y0KYGSp3Yowdgw9YgB) | [Elsinore](https://open.spotify.com/album/3Smz6yPk6zc59BoFeijJSY) | 3:25 | 2025-11-29 |  |
@@ -775,6 +779,7 @@
 | [Heads Carolina, Tails California](https://open.spotify.com/track/71I7kVOofp3kBk5D2G9wvJ) | [Ian Humphreys\-graham](https://open.spotify.com/artist/0rFTdiKjelXhmGDfPDrrF6) | [Heads Carolina, Tails California](https://open.spotify.com/album/3xHtcn676RfMnGyn1kioB2) | 4:02 | 2025-10-04 |  |
 | [healing](https://open.spotify.com/track/2PvcQ9Ko5UCBqSoVran8ns) | [CerVon Campbell](https://open.spotify.com/artist/11BE68QWC1UePwPs7clKa5) | [LA sessions](https://open.spotify.com/album/2WGR0RlUeEEN3iod51iYYX) | 2:50 | 2024-12-04 |  |
 | [Heard](https://open.spotify.com/track/5tLvNgShXJlHc5XoA8gqs4) | [orkopolo](https://open.spotify.com/artist/77CvD64H5WdfuhZT1UzJVW) | [Prizefighter](https://open.spotify.com/album/0SfIYY2pmwuy27PKhTyT33) | 4:42 | 2025-12-01 |  |
+| [Heart of a Coward](https://open.spotify.com/track/7vmfuBMDV2eQsjFm2rLPLv) | [Starikova](https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA) | [Heart of a Coward / Maelstrom](https://open.spotify.com/album/2GFTJ5HJLN861GRR7jpwGB) | 4:30 | 2026-04-30 |  |
 | [Heart vs Mind](https://open.spotify.com/track/0KwOLyGgjvaTeohm5f2flL) | [Soulshocked](https://open.spotify.com/artist/3gzOzMZbjidNTYezPYXVEr) | [Heart vs Mind](https://open.spotify.com/album/0WhHdeI172j08SWRkCU2Lh) | 3:28 | 2026-04-22 |  |
 | [Heartbreak at Innslake](https://open.spotify.com/track/1dODv1bQOGJEaAcYmW57MT) | [Lidius](https://open.spotify.com/artist/2iHUu6PnM4MWJFx04jVcq5) | [Heartbreak At Innslake](https://open.spotify.com/album/2SwZhVpmU2Llep6y6XNDpZ) | 2:59 | 2025-06-10 |  |
 | [Heartbroken Man](https://open.spotify.com/track/7l57ry05lNA0Jp0QpduGdE) | [Angelyn](https://open.spotify.com/artist/5gSs08Gv3s8pNgAlni5yDR) | [Heartbroken Man](https://open.spotify.com/album/5caDxausvNsEo33iKP8RIS) | 3:12 | 2025-03-26 |  |
@@ -1286,6 +1291,7 @@
 | [Must've Done Something Right](https://open.spotify.com/track/6LcLNOgfgyXVua0voe33m2) | [Nelson Sobral](https://open.spotify.com/artist/5SJdiCQhJ6FdXxbMjn6try) | [três!](https://open.spotify.com/album/7wmA28UwOcqu6N57DNvBpD) | 4:39 | 2025-03-18 |  |
 | [Muy Caliente](https://open.spotify.com/track/0A0zkYRUDtAST39FEnLGgd) | [La Seduçion](https://open.spotify.com/artist/4enMoBINKiDyX5Z2F1QJqy) | [Sangre Sudor Y Cumbiabilly](https://open.spotify.com/album/630WNRz4lyRfZ9BJ9OSODg) | 2:19 | 2025-03-12 |  |
 | [My Asylum](https://open.spotify.com/track/77zikp3CK29xb4j8ND2bIr) | [Harry Bertora](https://open.spotify.com/artist/0V13wPjbDVmeAOrHYo8zlw) | [My Asylum](https://open.spotify.com/album/305kclRi45ibtT8Udp0jjj) | 3:50 | 2024-04-24 |  |
+| [My Bet](https://open.spotify.com/track/1iGN1uof6nBX6QhLlm9TVL) | [Matt Vandenbosch](https://open.spotify.com/artist/7LqZeuirV62YpCrjusWckb) | [My Bet](https://open.spotify.com/album/2jbcRY4XlxOa9s29boIM8S) | 3:34 | 2026-04-30 |  |
 | [My Blonde Italian Girl](https://open.spotify.com/track/7rKhFg4gwRfYPlTxy41uJd) | [Bruce Sudano](https://open.spotify.com/artist/603Q8uOwTjPYqTTBfwF8pZ) | [My Blonde Italian Girl](https://open.spotify.com/album/75aw1gTfVcH6VWSGFtXW8y) | 2:58 | 2024-10-22 |  |
 | [My Body Says](https://open.spotify.com/track/6h0BrrBxPrdQzgwQGol7HZ) | [Pink Cliffs](https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR) | [My Body Says](https://open.spotify.com/album/2MhAQxt52HGrv0ExsdLFcE) | 3:55 | 2025-05-29 |  |
 | [My Call](https://open.spotify.com/track/3lbskdUv1tafctMNV5scjB) | [Bouchard](https://open.spotify.com/artist/4QA3rzpSDuDJsTdVLbHquV) | [Playmate](https://open.spotify.com/album/0EP50dNslbP8BKCzLTBYej) | 3:36 | 2025-02-05 |  |
@@ -1562,6 +1568,7 @@
 | [RAÍCES](https://open.spotify.com/track/40OebVBVuglvyBlNx3rWic) | [Javier Molina](https://open.spotify.com/artist/56zfVrdsD2tLSM2vdCcV1v), [gustavo pajon](https://open.spotify.com/artist/7IGMIXWqZwH6VIjaeoGsfl) | [RAÍCES](https://open.spotify.com/album/6iHYG042ybfC9CTfSuevL7) | 4:18 | 2025-08-09 |  |
 | [Reach Out \(Intro\)](https://open.spotify.com/track/7Lv5lo5gKkM3p3T7GPHjn8) | [XIV Ash](https://open.spotify.com/artist/0Uza79K0BV2haG8oZ6VIyG) | [Dissatisfied](https://open.spotify.com/album/7nEEwsCu4M2tsJZSPa5ZjT) | 2:41 | 2025-02-19 |  |
 | [Ready For Some Rock'n'Roll](https://open.spotify.com/track/1O8B00F3LC8juK9gI9qQC8) | [Little South](https://open.spotify.com/artist/0smwu04kMlybxO205h4D8G) | [Ready For Some Rock'n'Roll](https://open.spotify.com/album/7uVQbpVBBj1z1CrmPHCfTj) | 2:20 | 2025-05-22 |  |
+| [Ready for the Night](https://open.spotify.com/track/7Azpn8KM9E6N0atZ4QiCWE) | [9R4Y](https://open.spotify.com/artist/5n3xdPC0zbQqVSeDhmHXKi) | [Ready for the Night](https://open.spotify.com/album/0p3hnk7MLrndeUHYaseRY1) | 2:59 | 2026-04-30 |  |
 | [Real Life](https://open.spotify.com/track/3FojwWjjrD3z7WBHG10Nxu) | [Only\_Good\_Wave](https://open.spotify.com/artist/64Hco66Bw7tF4KJnbbmnne) | [Real Life](https://open.spotify.com/album/1XqBDeeBp35hdNhYGOcyoa) | 2:24 | 2026-04-29 |  |
 | [Reality](https://open.spotify.com/track/1wYyN8ju8CNLwYBXVJYkIJ) | [Indi Faulkner](https://open.spotify.com/artist/7AETAXt2VZjJIf8axgm6GZ) | [Reality](https://open.spotify.com/album/6QbfxAZK1HsMH63Ipxgna5) | 2:46 | 2025-08-04 |  |
 | [Rebuild](https://open.spotify.com/track/3FdXkEjKCsfj3clRLLd5gF) | [Synthetic Broadcast](https://open.spotify.com/artist/16H0ape8xiGKFnqUoU6AWQ) | [Nomads](https://open.spotify.com/album/3poDscUob4x5S9Gu9RlTlm) | 2:40 | 2026-02-07 |  |

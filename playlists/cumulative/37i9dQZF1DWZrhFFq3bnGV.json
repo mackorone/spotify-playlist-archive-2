@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-09",
-  "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: Sliver",
+  "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: Societeit de Harmonie, Natasya Elvira",
   "name": "Jazz Anak Negeri",
   "tracks": [
     {
@@ -1371,6 +1371,24 @@
     },
     {
       "album": {
+        "name": "DIALOG HARMONIC",
+        "url": "https://open.spotify.com/album/4zcRbIu4jESGno2d6PiQZN"
+      },
+      "artists": [
+        {
+          "name": "BASS3",
+          "url": "https://open.spotify.com/artist/699YFQDGdOETicov1Z7oSt"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382736,
+      "name": "DIALOG HARMONIC",
+      "url": "https://open.spotify.com/track/4dSq50NNTNlNYuLEbKFRnq"
+    },
+    {
+      "album": {
         "name": "Diantara Kata",
         "url": "https://open.spotify.com/album/1dgr7AUFb8kbP45M6dhpBe"
       },
@@ -2358,7 +2376,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 191000,
       "name": "Harmonia (feat. Desmond Amos)",
       "url": "https://open.spotify.com/track/3XPVJWfWP1DH1Ly3EX8xbw"
@@ -3627,6 +3645,24 @@
     },
     {
       "album": {
+        "name": "Ode to You",
+        "url": "https://open.spotify.com/album/0XDyPUaUHFP0QIBI3zsqYV"
+      },
+      "artists": [
+        {
+          "name": "Oele Pattiselanno",
+          "url": "https://open.spotify.com/artist/1ZJqx7fEe6VOVslpDvvCAp"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319900,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/0nFukU7yysWlBffSCV6Vsp"
+    },
+    {
+      "album": {
         "name": "Main-Main",
         "url": "https://open.spotify.com/album/6ENAT4ust37xJcEYuNyVSg"
       },
@@ -3812,7 +3848,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 267000,
       "name": "Membumi",
       "url": "https://open.spotify.com/track/0TvmXKdVpjJtqVRzDlG9UA"
@@ -4532,6 +4568,28 @@
       "duration_ms": 198837,
       "name": "Pulang Membawa Cinta",
       "url": "https://open.spotify.com/track/3DMlbCTiE4T1cYD6zXxavh"
+    },
+    {
+      "album": {
+        "name": "UNGKAPAN",
+        "url": "https://open.spotify.com/album/51MIrc6WAkPgBwFHj5Whnv"
+      },
+      "artists": [
+        {
+          "name": "Societeit de Harmonie",
+          "url": "https://open.spotify.com/artist/1KH1jCwChcxJG9GKUUfCt9"
+        },
+        {
+          "name": "Natasya Elvira",
+          "url": "https://open.spotify.com/artist/6lNWlJEtPCkkWE6P17fUIw"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187668,
+      "name": "Rasa-Rasanya",
+      "url": "https://open.spotify.com/track/34lfGTcKx5HUff5WflAtY4"
     },
     {
       "album": {

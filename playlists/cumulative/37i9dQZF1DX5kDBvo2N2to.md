@@ -4,7 +4,7 @@
 
 > låtarna som inte går att få nog av.
 
-598 songs - 1 day 7 hr 52 min
+600 songs - 1 day 7 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -323,6 +323,7 @@
 | [Kom ihåg mig](https://open.spotify.com/track/67yxmfL9tjrE6IflP8Z74P) | [MELVIN](https://open.spotify.com/artist/2eepQKh5byG0hRhmy6U0I4) | [Kom ihåg mig](https://open.spotify.com/album/3SF7f8EspsQ7KZNd1Jy6CR) | 3:01 | 2025-05-08 | 2025-06-13 |
 | [Kontakt](https://open.spotify.com/track/0JNzY6AqndqZS9I3q2iHYg) | [Christian Nanou](https://open.spotify.com/artist/2BQUPbMBCJF16dUMMnaVQu) | [Kontakt](https://open.spotify.com/album/1gFh0wZIlYt6R3AeBnDOqL) | 2:44 | 2024-06-28 | 2024-08-16 |
 | [Kransen](https://open.spotify.com/track/14iMujU8chd9Vac9vpjuVe) | [Felicia Takman](https://open.spotify.com/artist/3KdFzFHhUFCRdbllsQ1lZd) | [Kransen](https://open.spotify.com/album/1fzz8Ae1OyMwuh5mcnISbr) | 3:43 | 2025-06-12 | 2025-10-19 |
+| [Kyss mig](https://open.spotify.com/track/5d2CjJmYY7wzHosBe0HUo1) | [JULIETT](https://open.spotify.com/artist/2bF6WnPOya736x0kgmfjrH) | [Kyss mig](https://open.spotify.com/album/3a8qdAft2SHaVtj5Z2Bx3b) | 3:02 | 2026-04-30 |  |
 | [Känner du som jag](https://open.spotify.com/track/5kUFLSWuw22NJ6JDHOloGQ) | [MELVIN](https://open.spotify.com/artist/2eepQKh5byG0hRhmy6U0I4) | [Känner du som jag](https://open.spotify.com/album/4ZF61pqBugl8Ep78uBeq7h) | 2:46 | 2025-06-19 | 2025-06-27 |
 | [Känner ni igen er](https://open.spotify.com/track/7CfHRQgFH52hn9gcj5d8Wq) | [Peder Stenberg](https://open.spotify.com/artist/2MKru4ipTJZbssZpyKwtB2) | [Känner ni igen er](https://open.spotify.com/album/5AOSs0BRjVjAZNvIshnVIj) | 4:39 | 2025-03-20 | 2025-10-19 |
 | [Känslostyrd](https://open.spotify.com/track/2uehAVAiwspd3OlukIw100) | [Sebastian Lara](https://open.spotify.com/artist/1gK6bR7fr8AfgfdZfGPyB0) | [Känslostyrd](https://open.spotify.com/album/1XBacOnNOR4BkbBRAPCxoe) | 2:28 | 2026-01-12 | 2026-04-03 |
@@ -439,6 +440,7 @@
 | [Pussycat.](https://open.spotify.com/track/3hYukOigwKrMYWsBdsbLR2) | [Ängie](https://open.spotify.com/artist/3pgtze01npIBY3DCDD5flw), [Skoj](https://open.spotify.com/artist/4uzSrpMGBFoDhRzprCuP5E) | [Pussycat.](https://open.spotify.com/album/3SkhxORgSxmzQ4t9d4vrQs) | 3:56 | 2024-08-15 | 2024-09-24 |
 | [På sommaren](https://open.spotify.com/track/4zcVspiimgdU7VOGCNBLLB) | [Gustaf Rasch](https://open.spotify.com/artist/5M0IE8KpXEtuW3tu6clYdh) | [På sommaren](https://open.spotify.com/album/2pqShugX6VXlHKMENACUAF) | 3:11 | 2024-08-15 | 2024-11-07 |
 | [På väg](https://open.spotify.com/track/7GRJpXiYXZe4JXoUB29BzQ) | [PYK](https://open.spotify.com/artist/317eF06yGGhg5YgcNxDqvm) | [På väg](https://open.spotify.com/album/7mcVMcxukeuxXEKbKf1ijG) | 3:09 | 2024-09-19 | 2025-03-08 |
+| [Raindance \(feat\. Tems\)](https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [The Boy Who Played the Harp](https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl) | 3:39 | 2026-04-30 |  |
 | [Ramlar jag så faller allt](https://open.spotify.com/track/7x9s3qBALHJSuo87RNL4OW) | [Juliett](https://open.spotify.com/artist/2bF6WnPOya736x0kgmfjrH) | [Ramlar jag så faller allt](https://open.spotify.com/album/59TJFFQFmjUzzKaFHXw3l6) | 2:29 | 2024-09-13 | 2025-04-27 |
 | [REAL](https://open.spotify.com/track/7eorbMGNa05rVo2v6d7SQD) | [total tommy](https://open.spotify.com/artist/2dbSR7CwWSGsMkuKVITKRc) | [REAL](https://open.spotify.com/album/6vtQu8WfdKOpN14pOHoa9g) | 3:23 | 2024-08-08 | 2025-03-08 |
 | [Red Light](https://open.spotify.com/track/0OSrRgvrRmmWyCQPeJa6XI) | [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd) | [Red Light](https://open.spotify.com/album/70rzzUTCO7zObGgNl4tkvA) | 2:41 | 2024-06-28 | 2024-08-16 |

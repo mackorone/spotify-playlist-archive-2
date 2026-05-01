@@ -947,6 +947,32 @@
     },
     {
       "album": {
+        "name": "Alaye Remix",
+        "url": "https://open.spotify.com/album/2gWLnmlJoAkLCQ82DwzxyZ"
+      },
+      "artists": [
+        {
+          "name": "Nimix",
+          "url": "https://open.spotify.com/artist/3A51ku0vUmDlGshRgD7TPe"
+        },
+        {
+          "name": "Nolly",
+          "url": "https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM"
+        },
+        {
+          "name": "Gospel Wills",
+          "url": "https://open.spotify.com/artist/41LRL6GwikpOFVPAcCBDGr"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223406,
+      "name": "Alaye Remix",
+      "url": "https://open.spotify.com/track/3GDmMRwwACHTvRviLADB47"
+    },
+    {
+      "album": {
         "name": "Alive",
         "url": "https://open.spotify.com/album/7hQTCJrXZTRFUqjSMndW67"
       },
@@ -980,7 +1006,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 140707,
       "name": "Alive",
       "url": "https://open.spotify.com/track/3MwLu7gPqB81ql2AecxkFn"
@@ -4244,7 +4270,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 214882,
       "name": "BRAND NEW",
       "url": "https://open.spotify.com/track/2l6sGpjkd43k894sneTj5Y"
@@ -4540,7 +4566,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 181104,
       "name": "c O V E R E d",
       "url": "https://open.spotify.com/track/2EAHK91XArMpRFo7DBZZHl"
@@ -6448,6 +6474,24 @@
       "duration_ms": 188367,
       "name": "Cover me",
       "url": "https://open.spotify.com/track/2XeZVmhkVS03hMrRgLr1tA"
+    },
+    {
+      "album": {
+        "name": "Cover Me",
+        "url": "https://open.spotify.com/album/433usXUP0Es13XKXVTj9iG"
+      },
+      "artists": [
+        {
+          "name": "Krisirie",
+          "url": "https://open.spotify.com/artist/6YbnHs5DVZuxFOQVktt95m"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174714,
+      "name": "Cover Me",
+      "url": "https://open.spotify.com/track/5vQ2L2e6drXryyQBi0KhXz"
     },
     {
       "album": {
@@ -8400,6 +8444,32 @@
     {
       "album": {
         "name": "ELEDUMARE",
+        "url": "https://open.spotify.com/album/37LNqrGNTvJoLmoJ1aBhwl"
+      },
+      "artists": [
+        {
+          "name": "Big_win",
+          "url": "https://open.spotify.com/artist/0UfU8L42bpBy3KMCvwckjU"
+        },
+        {
+          "name": "S.O.N Music",
+          "url": "https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T"
+        },
+        {
+          "name": "ISDMUSIC",
+          "url": "https://open.spotify.com/artist/3XcH6LY2crH77fmOHoaEjC"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148808,
+      "name": "ELEDUMARE",
+      "url": "https://open.spotify.com/track/4Y22GgnpN6ll5lcxv2F0Uy"
+    },
+    {
+      "album": {
+        "name": "ELEDUMARE",
         "url": "https://open.spotify.com/album/2X760iaFYqziVJQaztVj4W"
       },
       "artists": [
@@ -9188,7 +9258,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 149931,
       "name": "Evidence",
       "url": "https://open.spotify.com/track/1VYEybZfDKpsMYxdMqQCcu"
@@ -9817,6 +9887,28 @@
     },
     {
       "album": {
+        "name": "Favour",
+        "url": "https://open.spotify.com/album/39VLSEQvKiiSBdNkhUOPN7"
+      },
+      "artists": [
+        {
+          "name": "Johnyjune",
+          "url": "https://open.spotify.com/artist/658iJcPBWp0q5DfPf1dzhy"
+        },
+        {
+          "name": "Tkeyz",
+          "url": "https://open.spotify.com/artist/6MRNiMCUDv9mDmMcaXhjgI"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153602,
+      "name": "Favour",
+      "url": "https://open.spotify.com/track/1vKqDQJreu7uF3WSOuvupu"
+    },
+    {
+      "album": {
         "name": "Fear Of God",
         "url": "https://open.spotify.com/album/4okOlln6a3ZLVjODMppfJI"
       },
@@ -9854,6 +9946,32 @@
       "duration_ms": 131136,
       "name": "Feel So Good",
       "url": "https://open.spotify.com/track/7daG2xOKoua7f3nmvbsjyW"
+    },
+    {
+      "album": {
+        "name": "FEELIN",
+        "url": "https://open.spotify.com/album/5Uig3xMhqmo7uYb1bJI3BC"
+      },
+      "artists": [
+        {
+          "name": "NW.FRGVN",
+          "url": "https://open.spotify.com/artist/75hGaBbLe3tUa4CHSEB3mu"
+        },
+        {
+          "name": "Uno Genre",
+          "url": "https://open.spotify.com/artist/4Wj4wdjGep1CoCQThDn8KX"
+        },
+        {
+          "name": "Ealle",
+          "url": "https://open.spotify.com/artist/6JtxhjUJpk5f3RShUHxWU5"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136421,
+      "name": "FEELIN",
+      "url": "https://open.spotify.com/track/7G8r8DeL59ryZTT6ToMTeS"
     },
     {
       "album": {
@@ -11410,7 +11528,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 198654,
       "name": "Give Myself Away",
       "url": "https://open.spotify.com/track/2t8CRj7Stst5iWK5f4JuhT"
@@ -14294,7 +14412,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 184615,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/1YQaqPM7tiqSmg4l1kseWq"
@@ -15109,6 +15227,24 @@
     },
     {
       "album": {
+        "name": "I have escaped (Main Version)",
+        "url": "https://open.spotify.com/album/2p4SUaDgsEcPFE08Ju0yg0"
+      },
+      "artists": [
+        {
+          "name": "Lawrence Oyor",
+          "url": "https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200640,
+      "name": "I have escaped",
+      "url": "https://open.spotify.com/track/7JlAAEib1TABwxSEGU1c4K"
+    },
+    {
+      "album": {
         "name": "I Have Jesus in My Life",
         "url": "https://open.spotify.com/album/6dxRQErxVIVOx1FzQ7knV8"
       },
@@ -15846,7 +15982,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 440000,
       "name": "IFE - Live",
       "url": "https://open.spotify.com/track/2VcXj5HyOvhkXpb7aLOHPd"
@@ -16944,7 +17080,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 139694,
       "name": "Jabez's Prayer",
       "url": "https://open.spotify.com/track/3Zrt7CSH0wcRez0Q9Sjq6i"
@@ -19462,7 +19598,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 208065,
       "name": "Love",
       "url": "https://open.spotify.com/track/2Mvk3grorqiicB2Qo4IlXv"
@@ -21368,7 +21504,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 253348,
       "name": "More Life - CRWN \u00d8F THRNZ Remix",
       "url": "https://open.spotify.com/track/6zkOlIRQ63PszTKt8TXRHS"
@@ -23152,6 +23288,24 @@
       "duration_ms": 154285,
       "name": "NO PRESSURE",
       "url": "https://open.spotify.com/track/4qJlOy7AZzDG4hD8gGOLfV"
+    },
+    {
+      "album": {
+        "name": "No Pressure",
+        "url": "https://open.spotify.com/album/56zmZ77VgFYZ2iUMLpBnEA"
+      },
+      "artists": [
+        {
+          "name": "The membrane",
+          "url": "https://open.spotify.com/artist/0XaFHkogeaW0EN4jeO0qI5"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165624,
+      "name": "No Pressure",
+      "url": "https://open.spotify.com/track/1BJgbTphIqyS2IDe5L8gPY"
     },
     {
       "album": {
@@ -24992,7 +25146,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 136633,
       "name": "On the Cross",
       "url": "https://open.spotify.com/track/6G8gLBqfP1z82MY2fjfJiQ"
@@ -25657,6 +25811,24 @@
     },
     {
       "album": {
+        "name": "Oshe",
+        "url": "https://open.spotify.com/album/7r5Pyu1cLDlTXyzlMlLP0S"
+      },
+      "artists": [
+        {
+          "name": "Treasure Music",
+          "url": "https://open.spotify.com/artist/3IB4G9sjyGDgP7CCoCvbRF"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155593,
+      "name": "Oshe",
+      "url": "https://open.spotify.com/track/5ON74nqAjZj9Arbp29GZdd"
+    },
+    {
+      "album": {
         "name": "Oshey II",
         "url": "https://open.spotify.com/album/2b3KRX9Xmjhh8PlbNtEzEr"
       },
@@ -25808,6 +25980,28 @@
       "duration_ms": 168000,
       "name": "Over",
       "url": "https://open.spotify.com/track/5w53DU4ZVdIn5J7iHP18gT"
+    },
+    {
+      "album": {
+        "name": "Over Di World",
+        "url": "https://open.spotify.com/album/6GlWkRSbIYWePFfG6fSOy4"
+      },
+      "artists": [
+        {
+          "name": "DJ Shunz",
+          "url": "https://open.spotify.com/artist/4sdmybQDV7C8YyX8movAdY"
+        },
+        {
+          "name": "Perry InChrist",
+          "url": "https://open.spotify.com/artist/1OO8YgSdKyUD0XzgWTflzC"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227146,
+      "name": "Over Di World",
+      "url": "https://open.spotify.com/track/4bkdT1JmH1QwRWp3ogesse"
     },
     {
       "album": {
@@ -26428,7 +26622,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 201005,
       "name": "Pharaoh",
       "url": "https://open.spotify.com/track/5LaMgVNwe9RlaoplkbdSFS"
@@ -29254,7 +29448,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 217939,
       "name": "Soldier for Christ",
       "url": "https://open.spotify.com/track/3X3FH0gB1MkEjvceqXVHuc"
@@ -30970,7 +31164,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 188000,
       "name": "Teach Me",
       "url": "https://open.spotify.com/track/37vfiHVsdmfJ9YYpvQn7w8"
@@ -31630,7 +31824,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 186504,
       "name": "The Reason",
       "url": "https://open.spotify.com/track/2BUwLEvVRroAzf4YIZi7Uu"
@@ -31954,6 +32148,24 @@
     {
       "album": {
         "name": "This Year",
+        "url": "https://open.spotify.com/album/4KCAVGCDc6aaAv2VcgZ2LE"
+      },
+      "artists": [
+        {
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310378,
+      "name": "This Year",
+      "url": "https://open.spotify.com/track/4omnYsoOhYFIVPg3a3H7f9"
+    },
+    {
+      "album": {
+        "name": "This Year",
         "url": "https://open.spotify.com/album/0rWtIG28QMeeELq5iefnXP"
       },
       "artists": [
@@ -32095,6 +32307,32 @@
     },
     {
       "album": {
+        "name": "Thy Word",
+        "url": "https://open.spotify.com/album/6wSjhLCIdDG13aJ2GDPvGn"
+      },
+      "artists": [
+        {
+          "name": "Clinton Flames",
+          "url": "https://open.spotify.com/artist/3LEYSk47eQzeiwihi4f1Ye"
+        },
+        {
+          "name": "Baron Jay",
+          "url": "https://open.spotify.com/artist/3I92MLYQY4V30w9jXnKhbv"
+        },
+        {
+          "name": "CXB",
+          "url": "https://open.spotify.com/artist/20I36sF24lOQyI50K3YiIP"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158675,
+      "name": "Thy Word",
+      "url": "https://open.spotify.com/track/4WhzWyNylvYB37wPPkqbCA"
+    },
+    {
+      "album": {
         "name": "Time for You",
         "url": "https://open.spotify.com/album/6CUZHvfCGAPlo8Q7fsJlz0"
       },
@@ -32106,7 +32344,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 219750,
       "name": "Time for You",
       "url": "https://open.spotify.com/track/54IR8l2bqqj5CLlgAZ8mRO"
@@ -32732,7 +32970,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 168631,
       "name": "Undefeated",
       "url": "https://open.spotify.com/track/7o1jxTxRAzKpAKHz6EVYMg"
@@ -33918,6 +34156,32 @@
       "duration_ms": 179700,
       "name": "Who Goes That Man",
       "url": "https://open.spotify.com/track/0tMKAOXphAtH2qia9Nm9C7"
+    },
+    {
+      "album": {
+        "name": "Will Be Done",
+        "url": "https://open.spotify.com/album/4sRnToa2OmP7ciWdkBeUOd"
+      },
+      "artists": [
+        {
+          "name": "Trendsetter Sense",
+          "url": "https://open.spotify.com/artist/2zcu7rparMOCBU7ZaBMb4N"
+        },
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "Nathan Davis Jr",
+          "url": "https://open.spotify.com/artist/24p0hSTqoxNsy89rKNrSDj"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221874,
+      "name": "Will Be Done",
+      "url": "https://open.spotify.com/track/0xgqTe1zh9FZa1x8zpvs9H"
     },
     {
       "album": {

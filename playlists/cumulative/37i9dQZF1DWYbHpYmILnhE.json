@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Drilling through Naij. Cover: Wizard Chan",
+  "description": "Drilling through Naij. Cover: Reeplay",
   "name": "Naija Drill ",
   "tracks": [
     {
@@ -170,7 +170,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 138028,
       "name": "Ayinke",
       "url": "https://open.spotify.com/track/23xgil89P4Rf02OaHqOvgV"
@@ -1711,6 +1711,32 @@
     },
     {
       "album": {
+        "name": "NNA (New National Anthem)",
+        "url": "https://open.spotify.com/album/3lhqKsksuP6CKHpLd0QHUE"
+      },
+      "artists": [
+        {
+          "name": "Zoro Swagbag",
+          "url": "https://open.spotify.com/artist/3S3T7zQ5vPdxH6vvh4ipxm"
+        },
+        {
+          "name": "Sparkle T",
+          "url": "https://open.spotify.com/artist/0UCb8sjEsbGms7ePMyJuwo"
+        },
+        {
+          "name": "Ibquake",
+          "url": "https://open.spotify.com/artist/71MYTepnDCNyybHqdcr40u"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157647,
+      "name": "NNA (New National Anthem)",
+      "url": "https://open.spotify.com/track/2bW3qn062loP8qjOdZiieQ"
+    },
+    {
+      "album": {
         "name": "MILITANT MINDSET",
         "url": "https://open.spotify.com/album/6ieLnbH2PWN2DPyLHWJPbk"
       },
@@ -2105,6 +2131,28 @@
     },
     {
       "album": {
+        "name": "Pick 2",
+        "url": "https://open.spotify.com/album/4KkP6qfBV2UbZWXYtORZp7"
+      },
+      "artists": [
+        {
+          "name": "Reeplay",
+          "url": "https://open.spotify.com/artist/2UausQcu26M23zEr5rUODB"
+        },
+        {
+          "name": "Dremo",
+          "url": "https://open.spotify.com/artist/47fErV0VDIx6PmuhtWGTYu"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199147,
+      "name": "Orishirishi",
+      "url": "https://open.spotify.com/track/17OusDSt07Pg76wxPbE25r"
+    },
+    {
+      "album": {
         "name": "Out the Mud",
         "url": "https://open.spotify.com/album/6Gj0e4m1LwALsd3iI8vI1q"
       },
@@ -2460,7 +2508,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 159242,
       "name": "Reaching For My Soul",
       "url": "https://open.spotify.com/track/33A63DvS0Es8XmDv9sIMlS"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 
 > 音楽におけるジェンダーの公平性促進を目指し、女性の持つパワーや可能性を最大限に引き出していくプログラム。cover: Litty
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,817 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,819 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 | 49 | [大天使](https://open.spotify.com/track/63CIZ0tTu7yMITpADiXaGU) | [GLIM SPANKY](https://open.spotify.com/artist/4sWyw0OrBKwmiaPOAuTuig) | [大天使](https://open.spotify.com/album/09mRL8wto1qjr4YGBHqIPn) | 3:34 |
 | 50 | [夜にテーマソング](https://open.spotify.com/track/7z7FODHRp6SyCO3K43rVtN) | [FINLANDS](https://open.spotify.com/artist/5A3KcZGxH4Ej7MIwJLweb9) | [夜にテーマソング](https://open.spotify.com/album/3JpFK8eS5EqxZDTj21QXnI) | 4:27 |
 
-Snapshot ID: `AAAAAGLcE9PCXTpZXlihZWyQHpg/BjWg`
+Snapshot ID: `AAAAAKUkRRmxRy+NlFSuzHL6ObADQH2B`

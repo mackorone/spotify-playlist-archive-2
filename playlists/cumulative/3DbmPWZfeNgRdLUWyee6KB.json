@@ -17285,6 +17285,24 @@
     },
     {
       "album": {
+        "name": "Tu Teri Baatein...",
+        "url": "https://open.spotify.com/album/2Lf1m77LUrTrEo9k7a9nWv"
+      },
+      "artists": [
+        {
+          "name": "Kundan Agarwalla",
+          "url": "https://open.spotify.com/artist/5Xyy1yRLlKiSVSgGUdqpHW"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186788,
+      "name": "Tu Teri Baatein...",
+      "url": "https://open.spotify.com/track/5W8haJYeMtvytreTyf6E3o"
+    },
+    {
+      "album": {
         "name": "Tu \u00faltimo trofeo",
         "url": "https://open.spotify.com/album/1WKho2AuLC6z9jeFdjhkPt"
       },

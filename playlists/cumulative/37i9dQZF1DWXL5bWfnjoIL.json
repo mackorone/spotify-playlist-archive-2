@@ -114,6 +114,24 @@
     {
       "album": {
         "name": "\u304a\u3069\u308b\u30dd\u30f3\u30dd\u30b3\u30ea\u30f3",
+        "url": "https://open.spotify.com/album/3djI1lk2H3dD6cvnQ90Q8T"
+      },
+      "artists": [
+        {
+          "name": "B.B.QUEENS",
+          "url": "https://open.spotify.com/artist/4JqWbQDxluABEUVJ3bLVQ1"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194133,
+      "name": "\u304a\u3069\u308b\u30dd\u30f3\u30dd\u30b3\u30ea\u30f3",
+      "url": "https://open.spotify.com/track/3e5u2LOu6wlUTjMpUICCP3"
+    },
+    {
+      "album": {
+        "name": "\u304a\u3069\u308b\u30dd\u30f3\u30dd\u30b3\u30ea\u30f3",
         "url": "https://open.spotify.com/album/3R2zX1N6BqK5YKNP1ZbDIG"
       },
       "artists": [
@@ -330,6 +348,24 @@
       "duration_ms": 178240,
       "name": "\u3061\u3073\u307e\u308b\u5b50\u97f3\u982d",
       "url": "https://open.spotify.com/track/4pIuIrio4Lpyk4ndMcV580"
+    },
+    {
+      "album": {
+        "name": "\u3086\u3081\u3044\u3063\u3071\u3044",
+        "url": "https://open.spotify.com/album/09bz9u8PNyEInZPgUNy5NX"
+      },
+      "artists": [
+        {
+          "name": "\u95a2\u3086\u307f\u5b50",
+          "url": "https://open.spotify.com/artist/0YEuTRm0MLbt6OIhGWNZ67"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194293,
+      "name": "\u3086\u3081\u3044\u3063\u3071\u3044",
+      "url": "https://open.spotify.com/track/3pdLPBx8VWM93CNiKa4AzD"
     },
     {
       "album": {

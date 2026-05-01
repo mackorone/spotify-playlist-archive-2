@@ -1,6 +1,6 @@
 {
   "description": "Embrace the spirit of the season your favorite Americana artists.",
-  "num_followers": 7882,
+  "num_followers": 7886,
   "original_name": "Americana Christmas",
   "owner": {
     "name": "Spotify",
@@ -287,22 +287,6 @@
     {
       "added_at": "2025-12-12 05:00:29",
       "album": {
-        "name": "Old Fashioned Holiday",
-        "url": "https://open.spotify.com/album/2gx97ElmSHY6Gxd1NZxxz9"
-      },
-      "artists": [
-        {
-          "name": "Andrea von Kampen",
-          "url": "https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY"
-        }
-      ],
-      "duration_ms": 186833,
-      "name": "Old Fashioned Holiday",
-      "url": "https://open.spotify.com/track/1C2K4D4zaLK4luIaIc6r6t"
-    },
-    {
-      "added_at": "2025-12-12 05:00:29",
-      "album": {
         "name": "Sings Simple Gifts",
         "url": "https://open.spotify.com/album/6qJppr7oqTTuVM5EczORlg"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 72000,
       "name": "Simple Gifts",
       "url": "https://open.spotify.com/track/3MxWNyKwx7NNFmYDfMZPg6"
+    },
+    {
+      "added_at": "2025-12-12 05:00:29",
+      "album": {
+        "name": "Old Fashioned Holiday",
+        "url": "https://open.spotify.com/album/2gx97ElmSHY6Gxd1NZxxz9"
+      },
+      "artists": [
+        {
+          "name": "Andrea von Kampen",
+          "url": "https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY"
+        }
+      ],
+      "duration_ms": 186833,
+      "name": "Old Fashioned Holiday",
+      "url": "https://open.spotify.com/track/1C2K4D4zaLK4luIaIc6r6t"
     },
     {
       "added_at": "2025-12-12 05:00:29",
@@ -451,22 +451,6 @@
     {
       "added_at": "2025-12-12 05:00:29",
       "album": {
-        "name": "To: Kate - A Benefit for Kate's Sake",
-        "url": "https://open.spotify.com/album/6aXfgnD3oYwtjtINBzWUJX"
-      },
-      "artists": [
-        {
-          "name": "John Prine",
-          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
-        }
-      ],
-      "duration_ms": 225053,
-      "name": "I'll Be Home for Christmas",
-      "url": "https://open.spotify.com/track/7yQwAOhxlXmvYLrwc8HMfT"
-    },
-    {
-      "added_at": "2025-12-12 05:00:29",
-      "album": {
         "name": "White Winter Hymnal",
         "url": "https://open.spotify.com/album/75LK4pXWhnMMt5hWhlZgNI"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 150563,
       "name": "White Winter Hymnal",
       "url": "https://open.spotify.com/track/6vvQPyBTCABvVeD7sipPdt"
+    },
+    {
+      "added_at": "2025-12-12 05:00:29",
+      "album": {
+        "name": "Rockin' Around The Christmas Tree / Jingle Bell Rock",
+        "url": "https://open.spotify.com/album/0g4mDVf9xNJzzL6stSLRAN"
+      },
+      "artists": [
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+        }
+      ],
+      "duration_ms": 143909,
+      "name": "Jingle Bell Rock",
+      "url": "https://open.spotify.com/track/5J4d2HZ7MN8l8ue83VTiGS"
     },
     {
       "added_at": "2025-12-12 05:00:29",
@@ -499,18 +499,18 @@
     {
       "added_at": "2025-12-12 05:00:29",
       "album": {
-        "name": "Rockin' Around The Christmas Tree / Jingle Bell Rock",
-        "url": "https://open.spotify.com/album/0g4mDVf9xNJzzL6stSLRAN"
+        "name": "To: Kate - A Benefit for Kate's Sake",
+        "url": "https://open.spotify.com/album/6aXfgnD3oYwtjtINBzWUJX"
       },
       "artists": [
         {
-          "name": "Sierra Ferrell",
-          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
         }
       ],
-      "duration_ms": 143909,
-      "name": "Jingle Bell Rock",
-      "url": "https://open.spotify.com/track/5J4d2HZ7MN8l8ue83VTiGS"
+      "duration_ms": 225053,
+      "name": "I'll Be Home for Christmas",
+      "url": "https://open.spotify.com/track/7yQwAOhxlXmvYLrwc8HMfT"
     },
     {
       "added_at": "2025-12-12 05:00:29",
@@ -551,6 +551,22 @@
     {
       "added_at": "2025-12-12 05:00:29",
       "album": {
+        "name": "River",
+        "url": "https://open.spotify.com/album/4fb2OzG3Eq0Xp9bwl6HycJ"
+      },
+      "artists": [
+        {
+          "name": "Margo Price",
+          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
+        }
+      ],
+      "duration_ms": 245922,
+      "name": "River",
+      "url": "https://open.spotify.com/track/72ZnJg7SjGkcMhsF3scV73"
+    },
+    {
+      "added_at": "2025-12-12 05:00:29",
+      "album": {
         "name": "Merry Christmas Darling",
         "url": "https://open.spotify.com/album/0QcwV6O3vAsYZZirkEccE4"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 191959,
       "name": "Merry Christmas Darling",
       "url": "https://open.spotify.com/track/00J60e6s8QVW5cbhjBzYgk"
-    },
-    {
-      "added_at": "2025-12-12 05:00:29",
-      "album": {
-        "name": "River",
-        "url": "https://open.spotify.com/album/4fb2OzG3Eq0Xp9bwl6HycJ"
-      },
-      "artists": [
-        {
-          "name": "Margo Price",
-          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
-        }
-      ],
-      "duration_ms": 245922,
-      "name": "River",
-      "url": "https://open.spotify.com/track/72ZnJg7SjGkcMhsF3scV73"
     },
     {
       "added_at": "2025-12-12 05:00:29",
@@ -657,6 +657,22 @@
       "url": "https://open.spotify.com/track/73HWCVxHIAnbjkuFDrJ67b"
     },
     {
+      "added_at": "2025-12-18 16:35:14",
+      "album": {
+        "name": "Everybody Knows It's Christmas",
+        "url": "https://open.spotify.com/album/6tLo95XYo6NLecEzFehsdG"
+      },
+      "artists": [
+        {
+          "name": "Chris Isaak",
+          "url": "https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx"
+        }
+      ],
+      "duration_ms": 224760,
+      "name": "Wrapping Presents For Myself",
+      "url": "https://open.spotify.com/track/0nNgXiEP3evrfy8bMGV09V"
+    },
+    {
       "added_at": "2025-12-12 05:00:29",
       "album": {
         "name": "For Christmas",
@@ -687,22 +703,6 @@
       "duration_ms": 159784,
       "name": "Christmas Is All Around",
       "url": "https://open.spotify.com/track/2EIymobQ6HOrO4gcOtQpiV"
-    },
-    {
-      "added_at": "2025-12-18 16:35:14",
-      "album": {
-        "name": "Everybody Knows It's Christmas",
-        "url": "https://open.spotify.com/album/6tLo95XYo6NLecEzFehsdG"
-      },
-      "artists": [
-        {
-          "name": "Chris Isaak",
-          "url": "https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx"
-        }
-      ],
-      "duration_ms": 224760,
-      "name": "Wrapping Presents For Myself",
-      "url": "https://open.spotify.com/track/0nNgXiEP3evrfy8bMGV09V"
     },
     {
       "added_at": "2025-12-12 05:00:29",
@@ -743,6 +743,22 @@
     {
       "added_at": "2025-12-12 05:00:29",
       "album": {
+        "name": "Santa Man / Hot Christmas",
+        "url": "https://open.spotify.com/album/7x65DcvdHpNES1QBQCXqhN"
+      },
+      "artists": [
+        {
+          "name": "The Sheepdogs",
+          "url": "https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN"
+        }
+      ],
+      "duration_ms": 126409,
+      "name": "Santa Man",
+      "url": "https://open.spotify.com/track/7ueoX68YqWgb8GQzDuHpdr"
+    },
+    {
+      "added_at": "2025-12-12 05:00:29",
+      "album": {
         "name": "I Heard the Bells",
         "url": "https://open.spotify.com/album/3inmUzW5uliXu4hNQdpDUl"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 149853,
       "name": "I Heard the Bells on Christmas Day",
       "url": "https://open.spotify.com/track/3u7aseV74piywxb3SeFtWt"
-    },
-    {
-      "added_at": "2025-12-12 05:00:29",
-      "album": {
-        "name": "Santa Man / Hot Christmas",
-        "url": "https://open.spotify.com/album/7x65DcvdHpNES1QBQCXqhN"
-      },
-      "artists": [
-        {
-          "name": "The Sheepdogs",
-          "url": "https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN"
-        }
-      ],
-      "duration_ms": 126409,
-      "name": "Santa Man",
-      "url": "https://open.spotify.com/track/7ueoX68YqWgb8GQzDuHpdr"
     },
     {
       "added_at": "2025-12-12 05:00:29",
@@ -831,22 +831,6 @@
     {
       "added_at": "2025-12-12 05:00:29",
       "album": {
-        "name": "Kid On Christmas",
-        "url": "https://open.spotify.com/album/70dq1feEPWzESCayzL0DMW"
-      },
-      "artists": [
-        {
-          "name": "Madi Diaz",
-          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
-        }
-      ],
-      "duration_ms": 245293,
-      "name": "Kid On Christmas",
-      "url": "https://open.spotify.com/track/3BDlXhWvdcymPm5eMIwtXm"
-    },
-    {
-      "added_at": "2025-12-12 05:00:29",
-      "album": {
         "name": "Under the Mistletoe!",
         "url": "https://open.spotify.com/album/7JIwLbalAQ20uJEjbMf8aZ"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 162333,
       "name": "Under the Mistletoe!",
       "url": "https://open.spotify.com/track/74YpSfHQSct8wznkHopETX"
+    },
+    {
+      "added_at": "2025-12-12 05:00:29",
+      "album": {
+        "name": "Kid On Christmas",
+        "url": "https://open.spotify.com/album/70dq1feEPWzESCayzL0DMW"
+      },
+      "artists": [
+        {
+          "name": "Madi Diaz",
+          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
+        }
+      ],
+      "duration_ms": 245293,
+      "name": "Kid On Christmas",
+      "url": "https://open.spotify.com/track/3BDlXhWvdcymPm5eMIwtXm"
     }
   ],
   "unique_name": "Americana Christmas",

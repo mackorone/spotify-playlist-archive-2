@@ -4,7 +4,7 @@
 
 > The latest of R&B rising in the UK\. Cover: Finn Askew
 
-599 songs - 1 day 7 hr 2 min
+601 songs - 1 day 7 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,7 +147,7 @@
 | [downtime](https://open.spotify.com/track/38bkkPgAZUCL6VgiswFFCU) | [TYLER LEWIS](https://open.spotify.com/artist/6GYUZI5gXIfKpZ3xJtTv7p) | [downtime](https://open.spotify.com/album/3YdXanlid6mJC5xhsMW8va) | 3:12 | 2024-02-02 | 2024-04-19 |
 | [Dreamer Too](https://open.spotify.com/track/2RmS9jVUAVRH5dm02SYsVk) | [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl) | [Dreamer Too](https://open.spotify.com/album/1xTqo5gfVw2TfD4djfavZA) | 4:31 | 2025-07-24 | 2026-03-20 |
 | [Drive](https://open.spotify.com/track/506Zj8Qav140YTT7HOW7SI) | [MATTII](https://open.spotify.com/artist/1tCd8DCTFUYDclgcwuL1A6) | [Drive](https://open.spotify.com/album/3yf9U0CrTtqFqWHUTjhyJZ) | 2:52 | 2026-02-27 |  |
-| [Drive Me Crazy](https://open.spotify.com/track/02moFsWJxRYeZbBD2pLzUa) | [MADEINPARRIS](https://open.spotify.com/artist/2UiZpyNlTfTf1TX5pQ0cnU) | [Drive Me Crazy](https://open.spotify.com/album/3PKrp0nvg2v8Fs9zIgbgMF) | 3:01 | 2025-11-07 |  |
+| [Drive Me Crazy](https://open.spotify.com/track/02moFsWJxRYeZbBD2pLzUa) | [MADEINPARRIS](https://open.spotify.com/artist/2UiZpyNlTfTf1TX5pQ0cnU) | [Drive Me Crazy](https://open.spotify.com/album/3PKrp0nvg2v8Fs9zIgbgMF) | 3:01 | 2025-11-07 | 2026-05-01 |
 | [Easy](https://open.spotify.com/track/0y97dz8upW8GtUMzRACY5o) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I), [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [Easy](https://open.spotify.com/album/775f99vvSk9KnPqFmyxhuB) | 2:27 | 2025-09-25 | 2026-03-27 |
 | [Eating out](https://open.spotify.com/track/3HPJLLqf4qdKm6xbXiW979) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR), [Rae Khalil](https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq) | [Eating out](https://open.spotify.com/album/3biafmyFPcKBz7DY2hfKys) | 2:53 | 2024-01-26 | 2024-11-15 |
 | [Ebbs & Flows](https://open.spotify.com/track/3i3YsmD5wrtjeE9qunmgu6) | [Shae Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N) | [Love's Letter \(Deluxe\)](https://open.spotify.com/album/1wmUwj9AEOuWtq9eyZjvy2) | 3:15 | 2024-10-03 | 2025-05-09 |
@@ -397,6 +397,7 @@
 | [Not Us](https://open.spotify.com/track/5J2XkHNffLaVS3usFYQDWk) | [Shola Ama](https://open.spotify.com/artist/1XCorAp4vtEceWjPgyiiw6) | [Not Us](https://open.spotify.com/album/1n1hwtUmUMLu0ZTuTXZeLe) | 4:19 | 2023-03-10 | 2023-05-15 |
 | [Nothing On You](https://open.spotify.com/track/7u8fLctZzIhiiavPuXXwF7) | [Marie Dahlstrom](https://open.spotify.com/artist/49NfOTfSPhrb0sJBVYS1iM), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Nothing On You](https://open.spotify.com/album/3wN5twfbZoolIBd9GgQyBV) | 3:45 | 2024-02-16 | 2024-11-22 |
 | [November \(feat\. Stormzy\)](https://open.spotify.com/track/7xkHbITyunC0rn47Gs8hS4) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [IRL](https://open.spotify.com/album/7bKq4j24ElIraQgGgitmTh) | 3:34 | 2023-07-21 | 2024-08-06 |
+| [Novocaine](https://open.spotify.com/track/36L3J6S4ioS6m5WXomaIcW) | [Kané](https://open.spotify.com/artist/1cG38HpSvnldVHb8fUt3rj) | [Entertain Him](https://open.spotify.com/album/7IRkb8R6tyBpkdr1NSkoWX) | 3:07 | 2026-04-30 |  |
 | [NOW OR NEVER](https://open.spotify.com/track/5uQHlxJYKPGJRHQfjDia0w) | [Temptress](https://open.spotify.com/artist/5I39KEsxUpLOVrWe1IYToI) | [NOW OR NEVER](https://open.spotify.com/album/5aLa51aqtXLkOx5hlQi3Tq) | 4:11 | 2025-07-24 | 2025-09-05 |
 | [Off White](https://open.spotify.com/track/7IMQKLcncSjYiBLR1XmmRP) | [Benny Atlas](https://open.spotify.com/artist/6IXnkjY4xozfLmaA0DxuoS) | [Off White](https://open.spotify.com/album/36WVLiccJpmwSY8x1knuW8) | 2:27 | 2024-01-26 | 2024-02-17 |
 | [Officer, Pt\. 2](https://open.spotify.com/track/1wmJ47pSNRkxsyMyfemUPJ) | [AMARIA BB](https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5) | [Officer, Pt\. 2](https://open.spotify.com/album/51rx6zehMft3Ud6HNw1MbR) | 3:04 | 2025-11-21 |  |
@@ -452,7 +453,7 @@
 | [RERUN](https://open.spotify.com/track/6sU5Psf8N5Aq4517Sc9g24) | [JEDSOUL](https://open.spotify.com/artist/1d31pvQ23phSKJISEqXQLO) | [RERUN](https://open.spotify.com/album/6gKn5nH8qm3hXkLtEkcK8M) | 2:23 | 2026-04-16 |  |
 | [Riot \- PRGRSHN Mix](https://open.spotify.com/track/4022YvBU2rdez0sVa6dXmr) | [Grace Carter](https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC) | [A Little Lost, A Little Found](https://open.spotify.com/album/60vFu4HyCBEE5YgIIMZaEg) | 3:21 | 2023-07-21 | 2023-08-19 |
 | [Roadside \(feat\. AJ Tracey\)](https://open.spotify.com/track/3ARhN1R7vBVTEtN7ldAZvn) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [Roadside \(feat\. AJ Tracey\)](https://open.spotify.com/album/6VDecxKGHUwHtGv8kKj3lm) | 3:26 | 2022-07-17 | 2023-07-22 |
-| [Rocky](https://open.spotify.com/track/3vtnL1iTgAL0ZBxgVkKFrs) | [cikho](https://open.spotify.com/artist/3K5lshiZhzx2bvme3n4hTz) | [Rocky](https://open.spotify.com/album/4OpT4b3qqq8pxu5urbFCPB) | 2:23 | 2025-10-09 |  |
+| [Rocky](https://open.spotify.com/track/3vtnL1iTgAL0ZBxgVkKFrs) | [cikho](https://open.spotify.com/artist/3K5lshiZhzx2bvme3n4hTz) | [Rocky](https://open.spotify.com/album/4OpT4b3qqq8pxu5urbFCPB) | 2:23 | 2025-10-09 | 2026-05-01 |
 | [Roses](https://open.spotify.com/track/48WrzCOskXcN8QLUZo9Phd) | [Carrie Baxter](https://open.spotify.com/artist/052GxJJYMQVVqXRsZfORK1) | [Roses](https://open.spotify.com/album/26WbEJQTHilXOjVwG8Ngz0) | 2:54 | 2024-08-06 | 2024-08-24 |
 | [round, round](https://open.spotify.com/track/3udUpLCl78125UkbwtSNIE) | [Raelle](https://open.spotify.com/artist/6ryr8CPNOimXJHnbtyZKtc) | [round, round](https://open.spotify.com/album/2x2WXC5PAPfkB0XFsRhexd) | 2:23 | 2026-02-20 |  |
 | [Ruins](https://open.spotify.com/track/0cSoj3kRRqkXRnzf2e0NsF) | [Sipprell](https://open.spotify.com/artist/065qyjvmeguYcKpAln7buu) | [Ruins](https://open.spotify.com/album/2La4Ejq0aVPrThoLGJOj79) | 3:49 | 2024-03-22 | 2024-04-19 |
@@ -492,6 +493,7 @@
 | [Somewhere You Can Fly](https://open.spotify.com/track/5Nmmrv8DBGlGw59yQMOwwl) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Sipprell](https://open.spotify.com/artist/065qyjvmeguYcKpAln7buu) | [Archives Mixtape](https://open.spotify.com/album/0PZn9YuIkbAEj4iJQOt6ni) | 2:37 | 2025-07-24 | 2025-09-19 |
 | [sore loser \- Acoustic](https://open.spotify.com/track/4BLMoyEr9bR8RxnyCSCcEx) | [SOLOMON](https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4) | [sore loser \(Acoustic\)](https://open.spotify.com/album/6S7b3klRES1CF1Ldmplfam) | 2:11 | 2023-05-15 | 2024-09-13 |
 | [Sorry for Me](https://open.spotify.com/track/0YLOAFElqNxIl1YxerXBQu) | [Sunkissed Child](https://open.spotify.com/artist/61hgmGkN3BNk2umSvUZBBw) | [Sorry for Me](https://open.spotify.com/album/2iDGaGsNMSdtenLxFAz542) | 3:56 | 2025-07-24 | 2025-08-29 |
+| [So…](https://open.spotify.com/track/1W31Osw7XybJ4YcS3NCOZ5) | [Ama](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L) | [So…](https://open.spotify.com/album/0OzdBCnFDAXd02FELiFPuN) | 3:16 | 2026-04-30 |  |
 | [Special Feeling](https://open.spotify.com/track/5PFwsxWhzsjb3Yfi8U9XdM) | [Noxz](https://open.spotify.com/artist/4gQHI7uYzGmbD7BRBtFLO2), [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2) | [Special Feeling](https://open.spotify.com/album/5CuVwOalisvrfvgvgvFAgx) | 3:15 | 2024-04-26 | 2024-05-11 |
 | [Spend It](https://open.spotify.com/track/290eKCMBc9f9CcSLFuQrim) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Spend It](https://open.spotify.com/album/1bbRn3bCzOPvjbShgj26K9) | 2:45 | 2025-06-26 | 2025-07-24 |
 | [SPLINTER](https://open.spotify.com/track/3jjIOrKthJeLRtjwTKROfj) | [F3miii](https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s) | [Splinter](https://open.spotify.com/album/7n9d1Se8KSPWQUjED4hkOB) | 2:53 | 2026-04-16 |  |

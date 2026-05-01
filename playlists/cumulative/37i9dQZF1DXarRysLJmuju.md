@@ -2,7 +2,7 @@
 
 ### [Pop All Day](https://open.spotify.com/playlist/37i9dQZF1DXarRysLJmuju)
 
-> Today’s pop, plugged into the culture\. Cover: MICO
+> Today’s pop, plugged into the culture w/ MICO
 
 2,986 songs - 6 day 7 hr 31 min
 

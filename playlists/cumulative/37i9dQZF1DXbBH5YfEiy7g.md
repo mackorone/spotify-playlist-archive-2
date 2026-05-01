@@ -4,7 +4,7 @@
 
 > Praise and Worship your way with the best South African Gospel music\.  Cover: Dumi Mkokstad
 
-237 songs - 1 day 1 hr 52 min
+239 songs - 1 day 2 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Consistent God \- Live At Cedarwoods of Sandton, 2023 / Reprise](https://open.spotify.com/track/77o0qLD9RE8sLkpbaPECLO) | [Xolly Mncwango](https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4) | [Unusual \(Live At Cedarwoods of Sandton, 2023\)](https://open.spotify.com/album/07HmJ29ItAdV707SqVoc6D) | 2:23 | 2025-08-01 | 2025-08-06 |
 | [Dibe Tsa Ka](https://open.spotify.com/track/3yoOd0mfYPoqhPlwGdRJ4Y) | [Sechaba](https://open.spotify.com/artist/1Dag9YPYj8w9Q67pn9qDa4) | [Jeso Oa Mamela](https://open.spotify.com/album/0yhYq8O1SAM2DnzYz9jDTn) | 4:55 | 2025-04-18 | 2025-06-06 |
 | [Dikgoro \- Live](https://open.spotify.com/track/4Zn1bgOiW8pCJ5K9tCbIDd) | [Kgaogelo Kekana](https://open.spotify.com/artist/5llKM2eYcbjemHTK9Nrew1) | [Dikgoro \(Live\)](https://open.spotify.com/album/5ex6ETHd1obPFwZ892s8Ki) | 8:48 | 2025-06-06 |  |
+| [Dzina Lau \(Yahweh\) \- Live](https://open.spotify.com/track/0pNHl233SlEV7I8AcbspkQ) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL), [Brenton Brown](https://open.spotify.com/artist/3oZR0tAkfIn1YmLe1faQST) | [Dzina Lau \(Yahweh\) \[Live\]](https://open.spotify.com/album/76VQmBJ3M9JYlmQam36rl1) | 9:25 | 2026-05-01 |  |
 | [Ebenezer](https://open.spotify.com/track/66cf5Aufw5GxRauvzVdli7) | [Busi Sibiya](https://open.spotify.com/artist/4Socq1uqmPOvJoneN5NiFe), [Oncemore Six](https://open.spotify.com/artist/2dvNUHcfNDLyItfiAB40Rd) | [Ebenezer](https://open.spotify.com/album/0MQ00rMj7eBh6vsbNbqZFj) | 9:28 | 2025-02-07 | 2025-11-07 |
 | [Ebenezer \(feat\. Yanga Sobetwa\)](https://open.spotify.com/track/7IOiIVkaEVSHK03Dy8vzXe) | [Mmuso Worship](https://open.spotify.com/artist/5r5sBwAXxOibX4NHzP6j9s), [Yanga Sobetwa](https://open.spotify.com/artist/1T2eBbz7Lx7N24h9VJGKt7) | [Ebenezer \(feat\. Yanga Sobetwa\)](https://open.spotify.com/album/133DKG44TGVY2vVw1c8VuU) | 6:36 | 2025-04-11 | 2025-08-08 |
 | [eJordan](https://open.spotify.com/track/5aZBAwCnBvjSgUJP8o1FGV) | [Kelly Khumalo](https://open.spotify.com/artist/2MhYuOM0iHfOwQ0HeLa0no), [Dr Winnie Mashaba](https://open.spotify.com/artist/5ZUpkkYxKKwQbd8uNBvw2F) | [eJordan](https://open.spotify.com/album/22kQ8BQShrU9NhhJnwZ65b) | 6:16 | 2025-03-14 | 2025-12-05 |
@@ -89,6 +90,7 @@
 | [Keep On Blessing Me](https://open.spotify.com/track/0L3u3AoYEr91lbZZBiVKOa) | [Artwork Sounds](https://open.spotify.com/artist/0OxQiJ0uuDuuQ3dqkIbjwR), [Hypaphonik](https://open.spotify.com/artist/6UL6IL0VVbVeCtvcemX7Io), [Brenden Praise](https://open.spotify.com/artist/3jzpHftM6t86BxqayyUWiU), [Mr Shane SA](https://open.spotify.com/artist/59ktOxkRezipbkRhjsDCHZ) | [The Revival](https://open.spotify.com/album/0DrlDMHiJR1LVUGIVMQs8g) | 6:00 | 2025-08-01 | 2025-08-06 |
 | [Khona Manje \- Live](https://open.spotify.com/track/0cFHMKhfyX4z2ke0VebYgk) | [Busi Sibiya](https://open.spotify.com/artist/4Socq1uqmPOvJoneN5NiFe) | [Khona Manje \(Live\)](https://open.spotify.com/album/65da7LjChvizDlebOaZnvw) | 4:33 | 2024-11-22 |  |
 | [Khulul'Ugcobo \- Live](https://open.spotify.com/track/4IhhLPlOJB57QSp3DRoke7) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Nothando Hlophe](https://open.spotify.com/artist/252fChrCEm5fhuaMTnowg9) | [Spirit of Praise, Vol\. 6 \(Live\)](https://open.spotify.com/album/1HcsuCBcgQOZs96LGKO9Ba) | 7:07 | 2024-10-11 |  |
+| [Khunama \(Live\)](https://open.spotify.com/track/2ahaEYBYQBsNjQIzo3gufd) | [3C Live](https://open.spotify.com/artist/2KCFczA90zuWgvEfYDohBT), [Dr Tumi](https://open.spotify.com/artist/40wyqBgeUtnE26B5P4ajSJ) | [All Hail \(Live\)](https://open.spotify.com/album/0SkHWz3ijU4x1Qmbpp4w1e) | 7:35 | 2026-05-01 |  |
 | [Kubo Bonke](https://open.spotify.com/track/0IYhhvnxRCq7FBj38qnbJP) | [Musa Yende](https://open.spotify.com/artist/04lvbGgTkiM8PjDktWQehd) | [Kubo Bonke](https://open.spotify.com/album/5bFvuAE3jqndFsNkkfvRyn) | 6:42 | 2026-01-23 | 2026-03-13 |
 | [Kubobonke Othixo \- Live](https://open.spotify.com/track/6y6MKYvUGbGB90eKz0UUlu) | [Ntokozo Mbambo](https://open.spotify.com/artist/3neEMGDQjPZ0DBCPKgW4og) | [Filled \(Live\)](https://open.spotify.com/album/4WNEixgWBG6heUWA0tPYsh) | 2:37 | 2024-10-04 | 2025-12-05 |
 | [Kukhona Amadlelo](https://open.spotify.com/track/2yA0xKOletqDtaQQ0ObC9H) | [Ayanda Ntanzi](https://open.spotify.com/artist/3NXb9zGCEqzY4iDccRB3Hw) | [Kukhona Amadlelo](https://open.spotify.com/album/6HWuys9MfBcqWYlPU4aIV8) | 8:29 | 2024-10-04 |  |

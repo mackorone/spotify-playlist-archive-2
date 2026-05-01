@@ -13755,6 +13755,32 @@
     },
     {
       "album": {
+        "name": "la playa",
+        "url": "https://open.spotify.com/album/52Zom0ubF0zDFLfsMplLpz"
+      },
+      "artists": [
+        {
+          "name": "Skisia2",
+          "url": "https://open.spotify.com/artist/0i2AykTPNRZdh7qfCy8eor"
+        },
+        {
+          "name": "Underaiki",
+          "url": "https://open.spotify.com/artist/55IzEzlyUcBFqGgyam2Seo"
+        },
+        {
+          "name": "turrobaby",
+          "url": "https://open.spotify.com/artist/3ZZY9rHZxm8lmug0aoX3pB"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158896,
+      "name": "la playa",
+      "url": "https://open.spotify.com/track/3nIRcwYiOBusWUOK4F5ZBq"
+    },
+    {
+      "album": {
         "name": "La Profec\u00eda (The Eagle & The Condor)",
         "url": "https://open.spotify.com/album/23oTd0d19ex5sQWEEt3xma"
       },

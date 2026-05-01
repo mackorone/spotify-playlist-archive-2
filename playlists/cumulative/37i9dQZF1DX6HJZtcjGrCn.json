@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "M\u00fasica independente. A tua alternativa ao mainstream. Foto: In\u00eas Marques Lucas",
+  "description": "M\u00fasica independente. A tua alternativa ao mainstream. Foto: Benjamim",
   "name": "Cena Indie",
   "tracks": [
     {
@@ -2039,6 +2039,24 @@
     },
     {
       "album": {
+        "name": "Deixo O N\u00famero Aqui",
+        "url": "https://open.spotify.com/album/647QHegxrIETljFMZsroyh"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Reinas",
+          "url": "https://open.spotify.com/artist/1VoHN6ujtwrR8qbiYqijo8"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182817,
+      "name": "Deixo O N\u00famero Aqui",
+      "url": "https://open.spotify.com/track/7KzLBexOVgg6eIVsVMe2k3"
+    },
+    {
+      "album": {
         "name": "Delete Ya",
         "url": "https://open.spotify.com/album/3UJpgWYwRE9ctZEBmHZeVK"
       },
@@ -2371,6 +2389,24 @@
     },
     {
       "album": {
+        "name": "DROPSHIPPING",
+        "url": "https://open.spotify.com/album/5Y3g3fZKKKnRtBGhyTEGkc"
+      },
+      "artists": [
+        {
+          "name": "Tiago Mob",
+          "url": "https://open.spotify.com/artist/2ZofXidyiv06uNdUqIFiht"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169411,
+      "name": "DROPSHIPPING",
+      "url": "https://open.spotify.com/track/1HKL1iKrIrX0bHAcZGSobG"
+    },
+    {
+      "album": {
         "name": "SO MUCH HAS CHANGED",
         "url": "https://open.spotify.com/album/6jzDn8rtuoRiFattZv8lXA"
       },
@@ -2382,7 +2418,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 233287,
       "name": "DROWN",
       "url": "https://open.spotify.com/track/4iyzWWLC4TOn5FqoyatMxp"
@@ -3476,7 +3512,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 221405,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/5reWe6VIloY1CNYhzdApCl"
@@ -5013,6 +5049,28 @@
     },
     {
       "album": {
+        "name": "Mil Euros Por M\u00eas",
+        "url": "https://open.spotify.com/album/2vDwjVQlxQpx8HgTOjt2IO"
+      },
+      "artists": [
+        {
+          "name": "PZ",
+          "url": "https://open.spotify.com/artist/6c9SE6fHc4wrrmvXlx21OE"
+        },
+        {
+          "name": "M\u00e3o Morta",
+          "url": "https://open.spotify.com/artist/65q3jOsehtX9q8E5m9FRpQ"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223266,
+      "name": "Mil Euros Por M\u00eas",
+      "url": "https://open.spotify.com/track/6TdkUCWvYS0shfFXnn6nzi"
+    },
+    {
+      "album": {
         "name": "Mind Loaded (feat. Caroline Polachek, Lorde & Mustafa)",
         "url": "https://open.spotify.com/album/7eD4M0bxUGIFRCi0wWhkbt"
       },
@@ -5040,6 +5098,24 @@
       "duration_ms": 217901,
       "name": "Mind Loaded (feat. Caroline Polachek, Lorde & Mustafa)",
       "url": "https://open.spotify.com/track/4gVsKMMK0f8dweHL7Vm9HC"
+    },
+    {
+      "album": {
+        "name": "miragem",
+        "url": "https://open.spotify.com/album/6ZFqDYgVGJZLguTZZ6EK22"
+      },
+      "artists": [
+        {
+          "name": "MATILDA",
+          "url": "https://open.spotify.com/artist/5U8hoiuIiFuhKQoiTCXPcS"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169124,
+      "name": "miragem",
+      "url": "https://open.spotify.com/track/0rxeyQvhmuddEygTenGT9m"
     },
     {
       "album": {
@@ -6004,7 +6080,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 169814,
       "name": "outro fim",
       "url": "https://open.spotify.com/track/7AdFZaaQbSzJdpU0JtnRMm"
@@ -6022,7 +6098,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 190944,
       "name": "Palomino - From the Netflix Series \"Nobody Wants This\" Season 2",
       "url": "https://open.spotify.com/track/6OsVtmvOG3m3SZuXZHGpvz"
@@ -6120,7 +6196,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 222440,
       "name": "Pedra e Cal",
       "url": "https://open.spotify.com/track/7o5wovj2AW5zA4vFju7iO0"
@@ -6146,6 +6222,24 @@
       "duration_ms": 171626,
       "name": "Pedra e cal",
       "url": "https://open.spotify.com/track/5uSGKQbMG7oc2b6V4BPqqj"
+    },
+    {
+      "album": {
+        "name": "People of the Moon",
+        "url": "https://open.spotify.com/album/7b2loBX3KU66zmHk4UI30K"
+      },
+      "artists": [
+        {
+          "name": "Nu Genea",
+          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190258,
+      "name": "People of the Moon",
+      "url": "https://open.spotify.com/track/0hnet7s0hzoSWozISu4TQ8"
     },
     {
       "album": {
@@ -6398,7 +6492,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 209733,
       "name": "Prizefighter",
       "url": "https://open.spotify.com/track/2cS7Mx24vjZQAPnWd2BwGK"
@@ -6580,6 +6674,24 @@
       "duration_ms": 195426,
       "name": "Quero Ficar",
       "url": "https://open.spotify.com/track/6D6L8OTG8uJOS22rAmHvlZ"
+    },
+    {
+      "album": {
+        "name": "Recursos Humanos",
+        "url": "https://open.spotify.com/album/3mr0OJ3KuOuZkJ4KVQtdjz"
+      },
+      "artists": [
+        {
+          "name": "Benjamim",
+          "url": "https://open.spotify.com/artist/1Il7ZCAkjBtdsg9skLwlOc"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196190,
+      "name": "Recursos Humanos",
+      "url": "https://open.spotify.com/track/4sTpLBAzQTepzCVrJEEvmx"
     },
     {
       "album": {

@@ -1336,7 +1336,7 @@
       ],
       "date_added": "2026-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-29",
+      "date_removed": null,
       "duration_ms": 240968,
       "name": "Bridgit",
       "url": "https://open.spotify.com/track/2SFezc3ZdEZ6sihka3olW9"
@@ -1658,7 +1658,7 @@
       ],
       "date_added": "2026-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 211027,
       "name": "Capabilities",
       "url": "https://open.spotify.com/track/1CXN41nejqYRaIKve3Y7vA"
@@ -1698,7 +1698,7 @@
       ],
       "date_added": "2026-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 206868,
       "name": "castleclash",
       "url": "https://open.spotify.com/track/0qoqBR8nLn28KQTBqQcgco"
@@ -2106,7 +2106,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-25",
+      "date_removed": null,
       "duration_ms": 257091,
       "name": "Contain",
       "url": "https://open.spotify.com/track/4HLd3nCtsvfoETEr2FtWr9"
@@ -2746,6 +2746,24 @@
       "duration_ms": 214080,
       "name": "Decorating Hope",
       "url": "https://open.spotify.com/track/3LcfWLlkFIlfvmF7xfAaiG"
+    },
+    {
+      "album": {
+        "name": "Delusion",
+        "url": "https://open.spotify.com/album/2QGiE0BorTmlLtzCIIc9Ti"
+      },
+      "artists": [
+        {
+          "name": "Tempers",
+          "url": "https://open.spotify.com/artist/0yIDrFWDGrnVk3FPLJmsX2"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258683,
+      "name": "Deep Fake Heaven",
+      "url": "https://open.spotify.com/track/4Kpl7vYWPBb4upHb9nkvY4"
     },
     {
       "album": {
@@ -3536,7 +3554,7 @@
       ],
       "date_added": "2025-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 248956,
       "name": "Falling Stars",
       "url": "https://open.spotify.com/track/1h89xz80g5LZIvnteTPHpS"
@@ -3590,7 +3608,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 132250,
       "name": "Fear Of extinction",
       "url": "https://open.spotify.com/track/2HF3Ro2XlnqP1S5iFzxSQd"
@@ -6432,7 +6450,7 @@
       ],
       "date_added": "2026-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-30",
+      "date_removed": null,
       "duration_ms": 155506,
       "name": "Madman",
       "url": "https://open.spotify.com/track/40rw1mdhxy8sIxFoN1a83O"
@@ -6670,7 +6688,7 @@
       ],
       "date_added": "2026-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-30",
+      "date_removed": null,
       "duration_ms": 224000,
       "name": "Mess",
       "url": "https://open.spotify.com/track/43ShbaOkJ6OrATJcqHe0Dp"
@@ -7450,7 +7468,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 246413,
       "name": "Old Friend",
       "url": "https://open.spotify.com/track/0CA8XgSRKkaiBa0OzmqS7b"
@@ -7576,7 +7594,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 305393,
       "name": "Outside",
       "url": "https://open.spotify.com/track/2rEjcfaK9qYB2JLgbTB31Y"
@@ -8512,7 +8530,7 @@
       ],
       "date_added": "2026-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 204800,
       "name": "Sacrifice",
       "url": "https://open.spotify.com/track/1CQhrUOPvwuhgbH3ut1ZaS"
@@ -8660,7 +8678,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 207719,
       "name": "Save Me From Myself",
       "url": "https://open.spotify.com/track/6b33R3VZm5QjqiKZ91z0cy"
@@ -9798,7 +9816,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-30",
+      "date_removed": null,
       "duration_ms": 208793,
       "name": "Street",
       "url": "https://open.spotify.com/track/5oNPKMYx14cj8XqQPe6ahN"
@@ -9838,7 +9856,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 210500,
       "name": "Struggle",
       "url": "https://open.spotify.com/track/0LufHqU1K0M08WNNxc5XhG"
@@ -10182,6 +10200,24 @@
       "duration_ms": 158964,
       "name": "Tearing Apart",
       "url": "https://open.spotify.com/track/07otU0SuiNKqe68UKg7ptt"
+    },
+    {
+      "album": {
+        "name": "Teenage Dark Love",
+        "url": "https://open.spotify.com/album/3tqZfgZWLVRYXWfKAWYIdn"
+      },
+      "artists": [
+        {
+          "name": "Ezekiel Gauthier",
+          "url": "https://open.spotify.com/artist/0TzFoWgKN1A0XLCR9s4ZdQ"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169217,
+      "name": "Teenage Dark Love",
+      "url": "https://open.spotify.com/track/6CtyUN9Q1itXkFaWKGHKnT"
     },
     {
       "album": {
@@ -10720,7 +10756,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 173338,
       "name": "The Secret of the Future",
       "url": "https://open.spotify.com/track/7uuwXkk4WloEcCsB4DsUFZ"
@@ -10778,6 +10814,24 @@
       "duration_ms": 153199,
       "name": "The Void",
       "url": "https://open.spotify.com/track/1tzTUX3w3V9pYntggNL8Ej"
+    },
+    {
+      "album": {
+        "name": "The Wasting",
+        "url": "https://open.spotify.com/album/2QreVY8vvNrS2XmJyDhAWA"
+      },
+      "artists": [
+        {
+          "name": "Lovepet Horror",
+          "url": "https://open.spotify.com/artist/1VOZzQDszbr5r1KNLMmzh6"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153272,
+      "name": "The Wasting",
+      "url": "https://open.spotify.com/track/2IxRSijjC9XJFOqPKx4oJn"
     },
     {
       "album": {
@@ -11038,6 +11092,24 @@
       "duration_ms": 174000,
       "name": "Thrive",
       "url": "https://open.spotify.com/track/4GUZCVqPJAcH0qDkkAWEoT"
+    },
+    {
+      "album": {
+        "name": "One I and Two Es",
+        "url": "https://open.spotify.com/album/6K7Dt9PgjUQXpmaO9wGnEF"
+      },
+      "artists": [
+        {
+          "name": "2nd Brightest Object",
+          "url": "https://open.spotify.com/artist/0aPb07sJWsxglm6mKBtu2Q"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206857,
+      "name": "Through the Glass",
+      "url": "https://open.spotify.com/track/4YAJwhrDUeu9PPohOU3Z6D"
     },
     {
       "album": {
@@ -11506,7 +11578,7 @@
       ],
       "date_added": "2026-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 220081,
       "name": "Two People Running in the Rain",
       "url": "https://open.spotify.com/track/1UmiXfiSbQW6w8q0fbl3ps"
@@ -11708,7 +11780,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-27",
+      "date_removed": null,
       "duration_ms": 214909,
       "name": "Vibe",
       "url": "https://open.spotify.com/track/0CcjAsFdi3wMukU6Yfnrkl"
@@ -12190,7 +12262,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-01",
+      "date_removed": null,
       "duration_ms": 171000,
       "name": "When You're Down",
       "url": "https://open.spotify.com/track/35eCarWbCxKpJD3im0JO65"

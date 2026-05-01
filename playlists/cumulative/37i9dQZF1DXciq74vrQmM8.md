@@ -4,10 +4,11 @@
 
 > welcome to our universe ft\. show me the body
 
-1,285 songs - 2 day 15 hr 21 min
+1,288 songs - 2 day 15 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [\#N0rth4evr](https://open.spotify.com/track/7sBX5hbKBg2uN3bQoZ2prv) | [North West](https://open.spotify.com/artist/5NTFOMIZSgupSw6yfnD4E2) | [N0rth4evr](https://open.spotify.com/album/1jkEEeWKAJiR0LQyOvtM7b) | 1:43 | 2026-04-30 |  |
 | [\(1\) incoming message from EVE:](https://open.spotify.com/track/0fR62OlYiett164jDMMs3I) | [Spotify](https://open.spotify.com/artist/5UUG83KSlqPhrBssrducWV) | [\(1\) incoming message from EVE:](https://open.spotify.com/album/2R8LKi4p4fqOFmgb4Bjmjz) | 0:33 | 2024-05-28 | 2024-06-07 |
 | [\(WHAT DID YOU EXPECT FROM\) SEX WITH A STRANGER](https://open.spotify.com/track/2h15hDIwg3c0ojcpob5eHI) | [Lynks](https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD) | [\(WHAT DID YOU EXPECT FROM\) SEX WITH A STRANGER](https://open.spotify.com/album/4vLrXibV3kr91I2deh6GUp) | 3:21 | 2023-12-08 | 2024-02-23 |
 | [000memories](https://open.spotify.com/track/74pXDAWB08mft6AscgfYFZ) | [Ayleen Valentine](https://open.spotify.com/artist/3wLL9m1pBbRnLsjrtqEiWc) | [000memories](https://open.spotify.com/album/687mZ8VJg6fMZxV912KdeU) | 2:28 | 2024-04-11 | 2024-09-21 |
@@ -974,6 +975,7 @@
 | [Rose McGowan \(feat\. Rose McGowan\)](https://open.spotify.com/track/2wBOj5gZNwdWovgtoJQ3fy) | [Kid Bookie](https://open.spotify.com/artist/7DiLiJ8nji6DslsFSzx0IV), [Rose McGowan](https://open.spotify.com/artist/1yDbYpDeRwaDeGA8e2WRXb) | [Rose McGowan \(feat\. Rose McGowan\)](https://open.spotify.com/album/1JJqPjgxDl2eDslEVTQAVi) | 3:44 | 2026-01-23 | 2026-03-28 |
 | [rosier/punk2](https://open.spotify.com/track/5fr1gqzvwrPrGS76ltBsFK) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [punk2](https://open.spotify.com/album/0BAmcZfsraNVyG6rj782Og) | 3:42 | 2022-04-19 | 2022-04-29 |
 | [RUDEBOY](https://open.spotify.com/track/6zewICx5nFMLM9GxCr0zNT) | [NOISY](https://open.spotify.com/artist/5bt1iZVk3VV1LxRL4wzZ9F) | [RUDEBOY](https://open.spotify.com/album/0bbIAvjGn9LtCUJNKvwQ0H) | 3:20 | 2023-01-13 | 2023-02-03 |
+| [RUIN](https://open.spotify.com/track/2st4vlXAwO2CkbselM90Hw) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth) | [ADDENDUM](https://open.spotify.com/album/1UaramdOq4gCYt4PW3mQgB) | 3:23 | 2026-04-30 |  |
 | [Run](https://open.spotify.com/track/2DZ45B4hVwD6XoQ7gJE8ag) | [PENGSHUi](https://open.spotify.com/artist/7F8CwvvwIi7GJvZ7qD2ybR) | [EP iii](https://open.spotify.com/album/2PIWW0DFCG6MJl96s6gFYR) | 3:01 | 2024-03-09 | 2024-05-17 |
 | [Run Rabbit](https://open.spotify.com/track/1znGDCclMTeWASFVF8tj2N) | [ALT BLK ERA](https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25) | [Run Rabbit](https://open.spotify.com/album/5FUeeX24CzLG40MorWm1zK) | 3:06 | 2025-01-17 | 2026-02-21 |
 | [Ry Ry's Song \- 2009 Remaster](https://open.spotify.com/track/0FaL1Zoii3CVQtNx3QvDQ3) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Everything You Ever Wanted To Know About Silence Remaster](https://open.spotify.com/album/1fUuTc7d6COMx8rR1qAmr8) | 3:32 | 2024-05-28 | 2024-06-07 |
@@ -1008,6 +1010,7 @@
 | [Shinra Dark Pop](https://open.spotify.com/track/1EcQCDJGRTbUyGHhAvyRvT) | [星熊南巫](https://open.spotify.com/artist/4QHRf4j0MXjcghBBXhKE2U) | [Shinra Dark Pop](https://open.spotify.com/album/1pD3UcDc6DNbzkYNl9yehf) | 2:10 | 2023-08-17 | 2023-11-18 |
 | [Shit Show](https://open.spotify.com/track/090hszohQB1ibgEYfY2KVJ) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [Traumatic Livelihood](https://open.spotify.com/album/2bJSnPuFrikBDE4F6SxNC4) | 3:26 | 2024-02-23 | 2024-05-24 |
 | [Shockwave](https://open.spotify.com/track/19xegamOXWHUg3YdibYfRi) | [Gurldoll](https://open.spotify.com/artist/5Z7kHNbidvMGfdngueATFE) | [Shockwave](https://open.spotify.com/album/39YL5TUKANLWh4s5QtuSU0) | 3:17 | 2022-01-12 | 2022-01-29 |
+| [Shoplifting](https://open.spotify.com/track/4DnfluGk0mleygfT9clm0v) | [Lip Critic](https://open.spotify.com/artist/4ABuKdLlVyzLztIFR8ETX9) | [Theft World](https://open.spotify.com/album/6UQvKJID9tTP81IIFRt9Dk) | 3:02 | 2026-04-30 |  |
 | [shut up!](https://open.spotify.com/track/4ynDEgatB1rZTDN0AxoaVB) | [LIA LIA](https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR) | [shut up!](https://open.spotify.com/album/5wF8Hszo6VWcMrX3m5AspW) | 1:43 | 2024-08-04 | 2025-03-07 |
 | [SICK](https://open.spotify.com/track/3vcOUlqLMGJ64Y0h8npVxq) | [Marged](https://open.spotify.com/artist/0o9HylUqkQAHeqKtW9TCy0) | [SICK](https://open.spotify.com/album/746TmWT3VFT0Y7wDbueXgG) | 3:46 | 2025-04-24 | 2025-05-16 |
 | [SICK OF IT\*](https://open.spotify.com/track/1G9Eww7gxSowO1RkcPXjmE) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [SICK OF IT\*](https://open.spotify.com/album/0XQgGJpCDg08WjWbciFtMf) | 2:09 | 2022-09-29 | 2022-10-11 |

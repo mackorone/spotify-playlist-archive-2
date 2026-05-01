@@ -4662,7 +4662,7 @@
       ],
       "date_added": "2026-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 189725,
       "name": "Body to Body",
       "url": "https://open.spotify.com/track/2rKkfc4VZ74FQDc1FF1Zo6"
@@ -7736,7 +7736,7 @@
       ],
       "date_added": "2026-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 126216,
       "name": "Cualto x Pila",
       "url": "https://open.spotify.com/track/0PCDwAeEgmO4of2YXzfyvR"
@@ -9162,6 +9162,24 @@
       "duration_ms": 232124,
       "name": "DE LA CALLE",
       "url": "https://open.spotify.com/track/4kTcJQj1drXzf0pkylO4AJ"
+    },
+    {
+      "album": {
+        "name": "De La Nena",
+        "url": "https://open.spotify.com/album/09QdDE9UtAgdYPXZQl1WeT"
+      },
+      "artists": [
+        {
+          "name": "Treintisiete",
+          "url": "https://open.spotify.com/artist/1ZbuFVK9SeRYrZfQLkNzah"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169811,
+      "name": "De La Nena",
+      "url": "https://open.spotify.com/track/0D87twvn2IkN4gbdKPfHGJ"
     },
     {
       "album": {
@@ -13102,6 +13120,28 @@
       "duration_ms": 181500,
       "name": "End as Friends",
       "url": "https://open.spotify.com/track/172huCxCHWHJB1BVNgZRwa"
+    },
+    {
+      "album": {
+        "name": "Enemiguito",
+        "url": "https://open.spotify.com/album/71rgs3pLfYhtg6xrFI6gHo"
+      },
+      "artists": [
+        {
+          "name": "IQ Tunes",
+          "url": "https://open.spotify.com/artist/6UDxGqQb3mR7RvOZAGE0xC"
+        },
+        {
+          "name": "Carlityn DR",
+          "url": "https://open.spotify.com/artist/5Vsqvnsgkg75ZkMqa0nZT8"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133384,
+      "name": "Enemiguito",
+      "url": "https://open.spotify.com/track/5xgzrNQWXsWqCzQl3HtwtD"
     },
     {
       "album": {
@@ -17856,6 +17896,24 @@
       "duration_ms": 90352,
       "name": "Invencible",
       "url": "https://open.spotify.com/track/4Vc16xSZRb0t7V8A22akHH"
+    },
+    {
+      "album": {
+        "name": "iPhone",
+        "url": "https://open.spotify.com/album/1BMROVgR3wYiKLAajLwCIt"
+      },
+      "artists": [
+        {
+          "name": "Luis Brown",
+          "url": "https://open.spotify.com/artist/1f7FtdbdaRjeeOr0gK9f3L"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136470,
+      "name": "iPhone",
+      "url": "https://open.spotify.com/track/7aD32QMkp3Tku0XDuekyMY"
     },
     {
       "album": {
@@ -35013,6 +35071,36 @@
     },
     {
       "album": {
+        "name": "Saca Punta",
+        "url": "https://open.spotify.com/album/5yumEAaRSoDMJURfxg12U3"
+      },
+      "artists": [
+        {
+          "name": "Arlene MC",
+          "url": "https://open.spotify.com/artist/0NKPXJIczNSqh5iILn8LET"
+        },
+        {
+          "name": "Alofoke Music",
+          "url": "https://open.spotify.com/artist/0UvglCoh34HxaRZP1DWhjY"
+        },
+        {
+          "name": "Jey One",
+          "url": "https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw"
+        },
+        {
+          "name": "La Mas Doll",
+          "url": "https://open.spotify.com/artist/0PPgD3dY7wrxsMe021mByK"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129396,
+      "name": "Saca Punta",
+      "url": "https://open.spotify.com/track/2AkFXWCoc8jdzXTu1Itoz7"
+    },
+    {
+      "album": {
         "name": "Dawn FM",
         "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
       },
@@ -36442,7 +36530,7 @@
       ],
       "date_added": "2026-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 100269,
       "name": "Shorty",
       "url": "https://open.spotify.com/track/5SfpF8yQCo9C2DINN9jrzl"
@@ -36648,7 +36736,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 251360,
       "name": "SI EST\u00c1S CON ALGUIEN",
       "url": "https://open.spotify.com/track/7nyk5uxevcijIfl1FlJgmA"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "unearthing music that makes life feel interesting, featuring basht.",
+  "description": "unearthing music that makes life feel interesting, featuring pigeon.",
   "name": "melomania",
   "tracks": [
     {
@@ -168,6 +168,24 @@
       "duration_ms": 300648,
       "name": "40 Winks to Wyoming",
       "url": "https://open.spotify.com/track/0heKN9q8HreJrLPuOGdnOK"
+    },
+    {
+      "album": {
+        "name": "Childhood",
+        "url": "https://open.spotify.com/album/72YRWuIhjRNUOtXD7eAzGj"
+      },
+      "artists": [
+        {
+          "name": "ashnymph",
+          "url": "https://open.spotify.com/artist/1zVKP29Wt1d7hF2yRpZV5o"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231814,
+      "name": "47",
+      "url": "https://open.spotify.com/track/3FAfq6Yqy5b04vRo19PIke"
     },
     {
       "album": {
@@ -1286,7 +1304,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 184373,
       "name": "Blankspace",
       "url": "https://open.spotify.com/track/0y4l286JVQCzFf2mC1esgl"
@@ -2570,7 +2588,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 107000,
       "name": "Don't Cheese Me Off",
       "url": "https://open.spotify.com/track/27uWMEs9zo3Yc2ZfgNvRKR"
@@ -2992,7 +3010,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 251040,
       "name": "ENDLESS DEATHLESS",
       "url": "https://open.spotify.com/track/6TmdbHXUuwNbO7gOeuRmVG"
@@ -3136,7 +3154,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 123166,
       "name": "Face Off",
       "url": "https://open.spotify.com/track/43jkw2oItyUiYcspEIZ5YZ"
@@ -3557,6 +3575,24 @@
     },
     {
       "album": {
+        "name": "OUTTANATIONAL",
+        "url": "https://open.spotify.com/album/7tWb0AVdGiPIYGvJ1iC8Yq"
+      },
+      "artists": [
+        {
+          "name": "Pigeon",
+          "url": "https://open.spotify.com/artist/2BQ03tTneAqHqm6qWjFKBU"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190346,
+      "name": "Future Country",
+      "url": "https://open.spotify.com/track/3xwx5rXTZTvlHzqcqQxII5"
+    },
+    {
+      "album": {
         "name": "Gallic Shrug",
         "url": "https://open.spotify.com/album/22sXxVWML2bXvQik1Mz6ci"
       },
@@ -3792,6 +3828,24 @@
       "duration_ms": 195999,
       "name": "Gown",
       "url": "https://open.spotify.com/track/2qDjzlewG9Dx3rC1M2OWXh"
+    },
+    {
+      "album": {
+        "name": "grapevine",
+        "url": "https://open.spotify.com/album/1qHcE3ty5vL6pzzAkLw1HX"
+      },
+      "artists": [
+        {
+          "name": "lots of hands",
+          "url": "https://open.spotify.com/artist/6sNcyjEVdNlZ0dpgr7EcT9"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267560,
+      "name": "grapevine",
+      "url": "https://open.spotify.com/track/37x7bNCSFxzYXoyrDZXQZd"
     },
     {
       "album": {
@@ -4638,7 +4692,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 378240,
       "name": "Isn't It Always",
       "url": "https://open.spotify.com/track/6ZRhWdp6cDPg7AJPr5bqrn"
@@ -4764,7 +4818,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 204080,
       "name": "jamie xx",
       "url": "https://open.spotify.com/track/319e5sMbCe9WOZgfPm3c7S"
@@ -5131,6 +5185,28 @@
     },
     {
       "album": {
+        "name": "Lazy Dreams",
+        "url": "https://open.spotify.com/album/1AfMfdbzcWXW4FW5zUkmwq"
+      },
+      "artists": [
+        {
+          "name": "Daniel Avery",
+          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
+        },
+        {
+          "name": "yun\u00e8 pinku",
+          "url": "https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196926,
+      "name": "Lazy Dreams",
+      "url": "https://open.spotify.com/track/7fjRfwPl4Ay7o70O5eaRIp"
+    },
+    {
+      "album": {
         "name": "Leftovers",
         "url": "https://open.spotify.com/album/7ixgUDVWX1nNha4emipIJF"
       },
@@ -5160,7 +5236,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 156000,
       "name": "Let it breathe",
       "url": "https://open.spotify.com/track/4zgkG52A1xy6xITCKXA1Vq"
@@ -5682,7 +5758,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 216725,
       "name": "milk, blue",
       "url": "https://open.spotify.com/track/03ONwPHpyDhDhacV8U6DnJ"
@@ -6154,6 +6230,24 @@
       "duration_ms": 176768,
       "name": "Neptune Girl",
       "url": "https://open.spotify.com/track/5OLQKfOEmxAa9qVNhQygra"
+    },
+    {
+      "album": {
+        "name": "I Don't Know Either",
+        "url": "https://open.spotify.com/album/4N0s6Ki0hOmuP2A09gFu0g"
+      },
+      "artists": [
+        {
+          "name": "Truthpaste",
+          "url": "https://open.spotify.com/artist/1jX7jSANud3GSSMfs41KPs"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259591,
+      "name": "Never Gonna Give",
+      "url": "https://open.spotify.com/track/2FmKeSugXWcZMlhynAgONf"
     },
     {
       "album": {
@@ -6784,7 +6878,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 173493,
       "name": "Petals",
       "url": "https://open.spotify.com/track/03wsGqokGoNDJNEkkwoaQ3"
@@ -7468,7 +7562,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 278001,
       "name": "Seabird",
       "url": "https://open.spotify.com/track/5aYo4nBVtlglkUQwpa9f8P"
@@ -7688,6 +7782,24 @@
       "duration_ms": 165626,
       "name": "Shine",
       "url": "https://open.spotify.com/track/5kGXSHROs8MdVVBVBkX8d4"
+    },
+    {
+      "album": {
+        "name": "Theft World",
+        "url": "https://open.spotify.com/album/6UQvKJID9tTP81IIFRt9Dk"
+      },
+      "artists": [
+        {
+          "name": "Lip Critic",
+          "url": "https://open.spotify.com/artist/4ABuKdLlVyzLztIFR8ETX9"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182665,
+      "name": "Shoplifting",
+      "url": "https://open.spotify.com/track/4DnfluGk0mleygfT9clm0v"
     },
     {
       "album": {
@@ -8084,6 +8196,24 @@
       "duration_ms": 160448,
       "name": "Something New",
       "url": "https://open.spotify.com/track/1KkZL7Iw1Rh0qUBTlnJnWS"
+    },
+    {
+      "album": {
+        "name": "Song for the Messenger",
+        "url": "https://open.spotify.com/album/5qp010KtWhsUNURCNH8o1c"
+      },
+      "artists": [
+        {
+          "name": "Chanel Beads",
+          "url": "https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182880,
+      "name": "Song for the Messenger",
+      "url": "https://open.spotify.com/track/1Ap75Wv20tVqTA8cAJXqq3"
     },
     {
       "album": {
@@ -9510,7 +9640,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 252100,
       "name": "Twin Fawn",
       "url": "https://open.spotify.com/track/01cPurkJQF6S258RJiHp0y"
@@ -10126,7 +10256,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 220990,
       "name": "\u2060The Ghost of Her Smile",
       "url": "https://open.spotify.com/track/56Q8UTxYRhMu1YaF3wW9GG"

@@ -1954,7 +1954,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 97960,
       "name": "Babydoll",
       "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
@@ -4070,7 +4070,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-29",
+      "date_removed": null,
       "duration_ms": 171720,
       "name": "Cbat",
       "url": "https://open.spotify.com/track/1JGGsCZ9zhgPJIsPy0pwt9"
@@ -4088,7 +4088,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 171720,
       "name": "Cbat",
       "url": "https://open.spotify.com/track/7Ek68mnhTBdhdgy3hXbugu"
@@ -6420,7 +6420,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-01",
+      "date_removed": null,
       "duration_ms": 275102,
       "name": "Doomed",
       "url": "https://open.spotify.com/track/6uG3lOMamTpecbrxkihC1j"
@@ -6656,7 +6656,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 209720,
       "name": "Dracula - JENNIE Remix",
       "url": "https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM"
@@ -7636,6 +7636,28 @@
       "duration_ms": 51857,
       "name": "EU SOU U FUNKY BEAR",
       "url": "https://open.spotify.com/track/1WIRB0fRRWJwO4vKqLyvp6"
+    },
+    {
+      "album": {
+        "name": "EUROMOLLY",
+        "url": "https://open.spotify.com/album/2XaAw88gLtzof57sxJJokn"
+      },
+      "artists": [
+        {
+          "name": "erikkaspi",
+          "url": "https://open.spotify.com/artist/5K4Smnw53LRbt4U16tnLk0"
+        },
+        {
+          "name": "elmora",
+          "url": "https://open.spotify.com/artist/7F6mcTLLOnqPTTBWqZHKbz"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138046,
+      "name": "EUROMOLLY",
+      "url": "https://open.spotify.com/track/6YAZNGCUhA8TKbN9bA3RNv"
     },
     {
       "album": {
@@ -25202,7 +25224,7 @@
       ],
       "date_added": "2026-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 202626,
       "name": "Take Me There",
       "url": "https://open.spotify.com/track/05zHAkeiaKLn4Vs8bPgrqv"
@@ -27050,7 +27072,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-07",
+      "date_removed": null,
       "duration_ms": 98149,
       "name": "unhappy",
       "url": "https://open.spotify.com/track/2wa1o5Qnt8aqMcoIB471oY"
@@ -39964,7 +39986,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 233105,
       "name": "\u043d\u0435\u043f\u0440\u043e\u0438\u0437\u043e\u0448\u043b\u043e",
       "url": "https://open.spotify.com/track/27lAsV0qBBAtIb8Nom4SON"
@@ -43854,7 +43876,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-24",
+      "date_removed": null,
       "duration_ms": 99242,
       "name": "\u0440\u0435\u0432\u043e\u043b\u044c\u0432\u0435\u0440",
       "url": "https://open.spotify.com/track/3Xi9rHIxWYdX0N0gxtlT3t"

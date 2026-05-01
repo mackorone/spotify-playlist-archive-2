@@ -1,12 +1,12 @@
 {
   "description": "This is Ali Farka Tour\u00e9. The essential tracks, all in one playlist.",
-  "num_followers": 22196,
+  "num_followers": 22195,
   "original_name": "This Is Ali Farka Tour\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ae/4gAAAAADM3ipx7adCz2PjEvNWXPgm",
+  "snapshot_id": "afFKAAAAAACO3/n9MHAx+oS0Ca5srKNE",
   "tracks": [
     {
       "added_at": null,
@@ -312,9 +312,9 @@
           "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
         }
       ],
-      "duration_ms": 295573,
-      "name": "Debe",
-      "url": "https://open.spotify.com/track/6V38ujp28AfvPkHV10xi1s"
+      "duration_ms": 240186,
+      "name": "Simbo",
+      "url": "https://open.spotify.com/track/4Uipoz8YOr1ryiYm4omdF4"
     },
     {
       "added_at": null,
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
         }
       ],
-      "duration_ms": 240186,
-      "name": "Simbo",
-      "url": "https://open.spotify.com/track/4Uipoz8YOr1ryiYm4omdF4"
+      "duration_ms": 295573,
+      "name": "Debe",
+      "url": "https://open.spotify.com/track/6V38ujp28AfvPkHV10xi1s"
     },
     {
       "added_at": null,

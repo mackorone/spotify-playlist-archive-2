@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Uma playlist de pura alma pop! Foto: Nuno Ribeiro, Soraia Ramos",
+  "description": "Uma playlist de pura alma pop! Foto: Mariana Pereira, Murta",
   "name": "Pop PT",
   "tracks": [
     {
@@ -3401,6 +3401,24 @@
     },
     {
       "album": {
+        "name": "F*ck Up & Make Up",
+        "url": "https://open.spotify.com/album/4VmxeumcBJlbpSCEvNs97a"
+      },
+      "artists": [
+        {
+          "name": "Richie Campbell",
+          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161825,
+      "name": "F*ck Up & Make Up",
+      "url": "https://open.spotify.com/track/1FEzeoaYDpolu8pYZAnqpg"
+    },
+    {
+      "album": {
         "name": "Faz Bem",
         "url": "https://open.spotify.com/album/1TW06h2SedE0SrfFXK7QHo"
       },
@@ -3648,7 +3666,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 215677,
       "name": "Foi Assim",
       "url": "https://open.spotify.com/track/6frDxyg5KyEYoP8Q9d9LF2"
@@ -3746,6 +3764,24 @@
       "duration_ms": 215077,
       "name": "francisco",
       "url": "https://open.spotify.com/track/5NYioJMw5k6b4yY88l2c3m"
+    },
+    {
+      "album": {
+        "name": "Fr\u00e1gil",
+        "url": "https://open.spotify.com/album/2tzqCysWdWkhpnv43W9kCz"
+      },
+      "artists": [
+        {
+          "name": "Maninho",
+          "url": "https://open.spotify.com/artist/0c1Tiu4dJze8OTzxJ7Yowr"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174141,
+      "name": "Fr\u00e1gil",
+      "url": "https://open.spotify.com/track/33HDU3Q5lCaimzcGjXaAJp"
     },
     {
       "album": {
@@ -5150,7 +5186,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 188300,
       "name": "Menina (Do Alto Da Serra)",
       "url": "https://open.spotify.com/track/1sZbO41eKwugkoqnmv3uNA"
@@ -5670,7 +5706,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 189500,
       "name": "No Meu Tempo de Escola",
       "url": "https://open.spotify.com/track/5FtjPXgQF57T6H9hM8CJck"
@@ -7809,6 +7845,28 @@
     },
     {
       "album": {
+        "name": "Se Eu Fosse a Ti",
+        "url": "https://open.spotify.com/album/1NU178xk4sfnHGTw3rIZPf"
+      },
+      "artists": [
+        {
+          "name": "Mariana Pereira",
+          "url": "https://open.spotify.com/artist/6OFJLqSjsWsigPp8MTcNHm"
+        },
+        {
+          "name": "Murta",
+          "url": "https://open.spotify.com/artist/1i3LAyYIXtdsYVUkIgIkjx"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190597,
+      "name": "Se Eu Fosse a Ti",
+      "url": "https://open.spotify.com/track/7nOyzGWCyciv7BWBoVtzuQ"
+    },
+    {
+      "album": {
         "name": "Se Fores ao Alentejo",
         "url": "https://open.spotify.com/album/2zi4M7CSOFzL79PODIonEx"
       },
@@ -8288,7 +8346,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 160993,
       "name": "SOU GRANDE NO AMOR",
       "url": "https://open.spotify.com/track/3bzIVbkYTGFP3pfbjojdG0"
@@ -8706,6 +8764,24 @@
       "duration_ms": 188893,
       "name": "Teus Beijos",
       "url": "https://open.spotify.com/track/46RHN6flgxqHoCiAMxIkB0"
+    },
+    {
+      "album": {
+        "name": "Soy Louco",
+        "url": "https://open.spotify.com/album/5JO8EJ1LOaz6z8PYqgaggJ"
+      },
+      "artists": [
+        {
+          "name": "Nininho Vaz Maia",
+          "url": "https://open.spotify.com/artist/7bMt24fjCeUulKxEUyLdL6"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193255,
+      "name": "Ti Marinho",
+      "url": "https://open.spotify.com/track/5lR7fJk4zXaPy8do9bNXgr"
     },
     {
       "album": {

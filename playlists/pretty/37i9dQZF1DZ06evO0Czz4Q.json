@@ -1,12 +1,12 @@
 {
   "description": "This is Luther Vandross. The essential tracks, all in one playlist.",
-  "num_followers": 139054,
+  "num_followers": 139083,
   "original_name": "This Is Luther Vandross",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ae/4gAAAAAA1oRrBye0hztQwGXha+nC5",
+  "snapshot_id": "afFKAAAAAACyVZKQAejg+XSl9ZuremCl",
   "tracks": [
     {
       "added_at": null,
@@ -839,22 +839,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Power Of Love",
-        "url": "https://open.spotify.com/album/4mSFu3YmqIHfPngFDqZl4f"
+        "name": "Duets (20th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/67TRGeFfMzq6ArsHrJkzya"
       },
       "artists": [
         {
-          "name": "Luther Vandross",
-          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         },
         {
-          "name": "Martha Wash",
-          "url": "https://open.spotify.com/artist/7htVGwGw3uAa7Axft4MTnx"
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
         }
       ],
-      "duration_ms": 446004,
-      "name": "I (Who Have Nothing) (with Martha Wash)",
-      "url": "https://open.spotify.com/track/77Uzw2YBK5lL5jW6oUsYXU"
+      "duration_ms": 204186,
+      "name": "The Lady Is A Tramp",
+      "url": "https://open.spotify.com/track/0JjVhWJGDKHADulJ8EjVAL"
     }
   ],
   "unique_name": "This Is Luther Vandross",

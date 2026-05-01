@@ -4,7 +4,7 @@
 
 > All the New Joints featuring Shoreline Mafia, Latto, Luh Tyler and more!
 
-9,900 songs - 18 day 23 hr 24 min
+9,901 songs - 18 day 23 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4531,6 +4531,7 @@
 | [Jewelry Duty \(with T\-Pain\)](https://open.spotify.com/track/7DSqGWatwo13yjAIgKx8g8) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Jewelry Duty \(with T\-Pain\)](https://open.spotify.com/album/2fBT3VgUrM7S3HVfZiqjbJ) | 3:07 | 2026-03-27 | 2026-04-04 |
 | [Jewels](https://open.spotify.com/track/7izvftpzPaPH5wSSUu2PF1) | [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap) | [Jewels](https://open.spotify.com/album/61053kbDho41CYM6UpzYxr) | 2:30 | 2026-04-10 | 2026-04-18 |
 | [JEZEBEL](https://open.spotify.com/track/4BdxCn4Hlo0YvHsI9bmRQM) | [Kee Nola](https://open.spotify.com/artist/4v5hbcPtrVfLlI011eQrER) | [JEZEBEL](https://open.spotify.com/album/36cZCEafXc711zZ18Jizch) | 1:55 | 2025-08-22 | 2025-08-30 |
+| [Jezebel](https://open.spotify.com/track/2ww5S3KQ6d73WAVbPXgCPC) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [Jezebel](https://open.spotify.com/album/2wCruyJJvR1rEJcKYNhqgv) | 1:58 | 2026-04-24 |  |
 | [JIGGA DAME](https://open.spotify.com/track/5XZu7BrTTyjzqOzr38sGg3) | [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv) | [JIGGA DAME](https://open.spotify.com/album/4za5Cq5ARxUp6sCtegfJFm) | 1:44 | 2022-05-20 | 2022-06-04 |
 | [Jigsaw](https://open.spotify.com/track/3Wqs6XFKsKcTjaWhmB8VCP) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [PRE5L](https://open.spotify.com/album/50DbtjQmnPnB92Mf7yxQt4) | 2:32 | 2022-11-18 | 2022-12-03 |
 | [Jimmy Cooks \(feat\. 21 Savage\)](https://open.spotify.com/track/3F5CgOj3wFlRv51JsHbxhe) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 3:38 | 2022-06-17 | 2022-07-02 |

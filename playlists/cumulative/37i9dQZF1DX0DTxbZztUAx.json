@@ -1021,6 +1021,32 @@
     },
     {
       "album": {
+        "name": "I Don't Give A Fuck (SBR Fuck)",
+        "url": "https://open.spotify.com/album/5WASjOQBCDTp9fupW3KC7Q"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Robertson",
+          "url": "https://open.spotify.com/artist/4UZtbKvU38q0kujsIRtrLE"
+        },
+        {
+          "name": "Jacob Paul Turner",
+          "url": "https://open.spotify.com/artist/4YJVBe5ofkmDnQGU8nd1uQ"
+        },
+        {
+          "name": "Marc Pueschl",
+          "url": "https://open.spotify.com/artist/50cy8yHKtbENdO5ifQ2vu3"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177600,
+      "name": "I Don't Give A Fuck (SBR Fuck)",
+      "url": "https://open.spotify.com/track/3kSM7uzWAb3B2WSR2Fi0vb"
+    },
+    {
+      "album": {
         "name": "Finally Rich",
         "url": "https://open.spotify.com/album/2B4y3j02ho6XNF8BEzx3JF"
       },

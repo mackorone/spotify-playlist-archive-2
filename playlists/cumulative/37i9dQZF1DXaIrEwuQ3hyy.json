@@ -1905,6 +1905,24 @@
     },
     {
       "album": {
+        "name": "Good Together (10 Years)",
+        "url": "https://open.spotify.com/album/285yitXhNPrXZ3uWovk3Cp"
+      },
+      "artists": [
+        {
+          "name": "HONNE",
+          "url": "https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224600,
+      "name": "Good Together (10 Years)",
+      "url": "https://open.spotify.com/track/0zvDTgOLARbSkRbMLuqBn3"
+    },
+    {
+      "album": {
         "name": "Greed",
         "url": "https://open.spotify.com/album/6Ve1hXgzBAID5x42Ipfhpm"
       },
@@ -2810,7 +2828,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 207036,
       "name": "Like a Song",
       "url": "https://open.spotify.com/track/4ZCvntQK1mmnQIHUEj9OEl"
@@ -3076,7 +3094,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 199006,
       "name": "Make me think of you",
       "url": "https://open.spotify.com/track/2VAjQDNPTToTFUVrjFy7Mw"
@@ -3780,6 +3798,24 @@
       "duration_ms": 190866,
       "name": "One Less Question",
       "url": "https://open.spotify.com/track/1lPOg6A053ay6AAUOh3mij"
+    },
+    {
+      "album": {
+        "name": "One More Cowboy",
+        "url": "https://open.spotify.com/album/7d9wSGVYv5r8c8z5yv74zc"
+      },
+      "artists": [
+        {
+          "name": "Jensen McRae",
+          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219973,
+      "name": "One More Cowboy",
+      "url": "https://open.spotify.com/track/1qzPQtya0Pb4IoQyYhzj2n"
     },
     {
       "album": {
@@ -4578,7 +4614,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 218786,
       "name": "Slow It Down",
       "url": "https://open.spotify.com/track/3BCA5KOKE7RRcrx0tK7kDK"
@@ -5908,6 +5944,24 @@
       "duration_ms": 135866,
       "name": "Welcome to the Mood",
       "url": "https://open.spotify.com/track/1zaVcXWNLLL4sgLg8q9uvD"
+    },
+    {
+      "album": {
+        "name": "well, well, well",
+        "url": "https://open.spotify.com/album/57SCkw6m1ClHrYpHoXvJ5y"
+      },
+      "artists": [
+        {
+          "name": "Orange Oak",
+          "url": "https://open.spotify.com/artist/622vfvXmIK16EfIZszsVYy"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250038,
+      "name": "well, well, well",
+      "url": "https://open.spotify.com/track/6HKWq6r4OedN1Ey33G07qi"
     },
     {
       "album": {

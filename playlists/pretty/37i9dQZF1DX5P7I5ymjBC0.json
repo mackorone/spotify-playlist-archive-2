@@ -1,6 +1,6 @@
 {
   "description": "Fusion music for the soul. ",
-  "num_followers": 84511,
+  "num_followers": 84526,
   "original_name": "Fusion Finds",
   "owner": {
     "name": "Spotify",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2026-04-28 09:43:28",
       "album": {
+        "name": "Classic Love",
+        "url": "https://open.spotify.com/album/773Wui9AbfWwm72VYM8Bjs"
+      },
+      "artists": [
+        {
+          "name": "Shubha Mudgal",
+          "url": "https://open.spotify.com/artist/1cXjeY6DeuvHqOLioXcHZk"
+        }
+      ],
+      "duration_ms": 355266,
+      "name": "Seekho Na",
+      "url": "https://open.spotify.com/track/1Ar5Yq6mg57nt6w5vgiUgu"
+    },
+    {
+      "added_at": "2026-04-28 09:43:28",
+      "album": {
         "name": "Aye Na Baalam",
         "url": "https://open.spotify.com/album/6puODOC1EE1pJBbFAVq5q4"
       },
@@ -1027,18 +1043,22 @@
     {
       "added_at": "2026-04-28 09:43:28",
       "album": {
-        "name": "Classic Love",
-        "url": "https://open.spotify.com/album/773Wui9AbfWwm72VYM8Bjs"
+        "name": "Rhydhun - Nothing But Voice (25th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/1AVJRAtklKdSeNhrxpQzMJ"
       },
       "artists": [
         {
-          "name": "Shubha Mudgal",
-          "url": "https://open.spotify.com/artist/1cXjeY6DeuvHqOLioXcHZk"
+          "name": "Taufiq Qureshi",
+          "url": "https://open.spotify.com/artist/5pHGolVxp4QTvcuSnLCo2X"
+        },
+        {
+          "name": "Shankar Mahadevan",
+          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
         }
       ],
-      "duration_ms": 355266,
-      "name": "Seekho Na",
-      "url": "https://open.spotify.com/track/1Ar5Yq6mg57nt6w5vgiUgu"
+      "duration_ms": 228062,
+      "name": "Rhydhun - Nothing But Voice (25th Anniversary Edition)",
+      "url": "https://open.spotify.com/track/2yjfILYBWMiMFFZEie0nH3"
     },
     {
       "added_at": "2026-04-28 09:43:28",
@@ -1083,26 +1103,6 @@
       "duration_ms": 214640,
       "name": "We Are One (Raghupati Raghava)",
       "url": "https://open.spotify.com/track/0fE8GmOwbZXl6s6jH0W2TA"
-    },
-    {
-      "added_at": "2026-04-28 09:43:28",
-      "album": {
-        "name": "Rhydhun - Nothing But Voice (25th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/1AVJRAtklKdSeNhrxpQzMJ"
-      },
-      "artists": [
-        {
-          "name": "Taufiq Qureshi",
-          "url": "https://open.spotify.com/artist/5pHGolVxp4QTvcuSnLCo2X"
-        },
-        {
-          "name": "Shankar Mahadevan",
-          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
-        }
-      ],
-      "duration_ms": 228062,
-      "name": "Rhydhun - Nothing But Voice (25th Anniversary Edition)",
-      "url": "https://open.spotify.com/track/2yjfILYBWMiMFFZEie0nH3"
     },
     {
       "added_at": "2026-04-28 09:43:28",

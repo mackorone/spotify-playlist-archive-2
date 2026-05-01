@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03FBMYrWi0n.md) - [plain]
 
 > L’alternatif québécois à plein volume\. Photo: Klô Pelgag
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,184 likes - 102 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,195 likes - 102 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03FBMYrWi0n.md) - [plain]
 | 5 | [Poupées russes](https://open.spotify.com/track/2QYKJDsjhcqvTKkx4FQfvA) | [Laëtitia](https://open.spotify.com/artist/09LSf6sv7gE3xckSZDEzmc) | [Poupées russes](https://open.spotify.com/album/6Qhe9X87WQPN0E38rseWGD) | 2:37 |
 | 6 | [Nos ombres longues](https://open.spotify.com/track/0YK4RPmzNxjFnNSnNCdui9) | [Phil Murray](https://open.spotify.com/artist/4esf0eEKQfSIStYwJh5tCN) | [Nos ombres longues](https://open.spotify.com/album/7zloF486zsxscm7fOyhu1V) | 3:51 |
 | 7 | [mon chat doma](https://open.spotify.com/track/67YryEjrB7N61WxcQX0SHo) | [Kougan](https://open.spotify.com/artist/2GqwbBnNZavsdxQe3TlyEA) | [mon chat doma](https://open.spotify.com/album/0ejCO9lq8NEai7ZoVH86qh) | 2:52 |
-| 8 | [Jeûner](https://open.spotify.com/track/2H7jW4UN2PKU0iEwpsrorO) | [VioleTT Pi](https://open.spotify.com/artist/1kQY8Lg1LUIL23eT1DSGx7) | [Jeûner](https://open.spotify.com/album/0mESF8wP5W64W6r4sMtlvT) | 3:26 |
+| 8 | [Jeûner](https://open.spotify.com/track/2H7jW4UN2PKU0iEwpsrorO) | [VioleTT Pi](https://open.spotify.com/artist/1kQY8Lg1LUIL23eT1DSGx7), [Klô Pelgag](https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi) | [Jeûner](https://open.spotify.com/album/0mESF8wP5W64W6r4sMtlvT) | 3:26 |
 | 9 | [Shrala](https://open.spotify.com/track/0za6Bjao6YFkxIOc6pT6fx) | [Ping Pong Go](https://open.spotify.com/artist/5C3BsAXPHbkUKm3wi8GUMG), [Dolphin Hyperspace](https://open.spotify.com/artist/6tTZ6fX5qsm8Alc9GLwJ9q) | [Smash Combat](https://open.spotify.com/album/3wb0gR13hzmsFExK0AWCEG) | 3:33 |
 | 10 | [Correct](https://open.spotify.com/track/3rePvNyj1VwHKnlMngBrUk) | [Les Louanges](https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l) | [Correct](https://open.spotify.com/album/3FyxSOLf5zrWgC7Osw3peU) | 4:46 |
 | 11 | [buttons](https://open.spotify.com/track/0LFNBiDtOFKhSWWPUi0avw) | [Hockitay](https://open.spotify.com/artist/7bOmAhV9TyYNu90JKLiVGI) | [buttons](https://open.spotify.com/album/5ievaFZh2WoAvzxDdwzc9l) | 3:24 |

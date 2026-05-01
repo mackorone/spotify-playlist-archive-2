@@ -1941,6 +1941,24 @@
     },
     {
       "album": {
+        "name": "Vantablack",
+        "url": "https://open.spotify.com/album/32ArIIVyHw8jC7mQLFrH7f"
+      },
+      "artists": [
+        {
+          "name": "Maisy Kay",
+          "url": "https://open.spotify.com/artist/1O9EVVcpg2FOQ0vAQ7LqiT"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158624,
+      "name": "Vantablack",
+      "url": "https://open.spotify.com/track/6QT8QItj34UnuSw3fzZ4KZ"
+    },
+    {
+      "album": {
         "name": "V\u00e5ran s\u00e5ng (Sveriges Officiella VM-l\u00e5t 2023)",
         "url": "https://open.spotify.com/album/18j2FMjXGeb0FAlaA89Nme"
       },

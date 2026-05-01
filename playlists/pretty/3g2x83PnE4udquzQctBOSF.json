@@ -1,13 +1,229 @@
 {
   "description": "Our weekly selection is here \u26a1\ufe0f",
-  "num_followers": 2751,
+  "num_followers": 2754,
   "original_name": "AGLF Playlist",
   "owner": {
     "name": "AGLF",
     "url": "https://open.spotify.com/user/due850omgu70ns7dyg7n7jf12"
   },
-  "snapshot_id": "AAAScNpoH0SObKwgZYC+NlbehulqMXir",
+  "snapshot_id": "AAASfIj0/dK91FdsoTvFX/aYFXnDLL9o",
   "tracks": [
+    {
+      "added_at": "2026-05-01 02:05:20",
+      "album": {
+        "name": "Sunset Circuit (Radio Edit)",
+        "url": "https://open.spotify.com/album/7lNl4OhARq9tlNVnWqLaAu"
+      },
+      "artists": [
+        {
+          "name": "Dj Stan Holland",
+          "url": "https://open.spotify.com/artist/6AqmIywL7QXOVO2Nwyanuc"
+        }
+      ],
+      "duration_ms": 199199,
+      "name": "Sunset Circuit - Radio Edit",
+      "url": "https://open.spotify.com/track/6uijispJEnlaYRc7zd0LEf"
+    },
+    {
+      "added_at": "2026-05-01 00:39:39",
+      "album": {
+        "name": "Pasandola Bien",
+        "url": "https://open.spotify.com/album/09g6FAdgd9lEmX2LsEq52r"
+      },
+      "artists": [
+        {
+          "name": "Ares A\u00b4p",
+          "url": "https://open.spotify.com/artist/5cMc4EqZq0Ig26R0G6G8j0"
+        },
+        {
+          "name": "MC Alienn",
+          "url": "https://open.spotify.com/artist/3JXUj3WSKJE1McelsYU2Jc"
+        }
+      ],
+      "duration_ms": 156112,
+      "name": "Pasandola Bien",
+      "url": "https://open.spotify.com/track/6gmTUpKY1HNkQW9GUKmvmo"
+    },
+    {
+      "added_at": "2026-04-30 23:09:55",
+      "album": {
+        "name": "You Are You",
+        "url": "https://open.spotify.com/album/7D3cpz1HiLnBElzGKzSdX0"
+      },
+      "artists": [
+        {
+          "name": "ARTechno Recording",
+          "url": "https://open.spotify.com/artist/47XywQkmeRo2i35XpJiBeX"
+        },
+        {
+          "name": "You Are You",
+          "url": "https://open.spotify.com/artist/2pr07lr3faRAYekizOgIhR"
+        }
+      ],
+      "duration_ms": 395809,
+      "name": "[Ominous music playing]",
+      "url": "https://open.spotify.com/track/5JH7WPUER00euDtlxG0Btq"
+    },
+    {
+      "added_at": "2026-04-30 19:38:19",
+      "album": {
+        "name": "Hazard",
+        "url": "https://open.spotify.com/album/4kUvY48mHzo6ihdQvs4cBn"
+      },
+      "artists": [
+        {
+          "name": "You Are You",
+          "url": "https://open.spotify.com/artist/2pr07lr3faRAYekizOgIhR"
+        }
+      ],
+      "duration_ms": 303750,
+      "name": "Hazard",
+      "url": "https://open.spotify.com/track/5JkLpG0ofRaCIHWYj6fMbH"
+    },
+    {
+      "added_at": "2026-04-30 19:17:41",
+      "album": {
+        "name": "Cold Inside",
+        "url": "https://open.spotify.com/album/6DFGo7opkDYDqJabOQfZly"
+      },
+      "artists": [
+        {
+          "name": "Rafxel",
+          "url": "https://open.spotify.com/artist/6PlXXzsks2YQmAjJkGxtNB"
+        }
+      ],
+      "duration_ms": 195265,
+      "name": "Cold Inside",
+      "url": "https://open.spotify.com/track/0j0d2nOuVAXWPHobPPZ6Tl"
+    },
+    {
+      "added_at": "2026-04-30 18:27:21",
+      "album": {
+        "name": "Hazard (Remix)",
+        "url": "https://open.spotify.com/album/2KEXAWJWY30y5RAzJyrg4K"
+      },
+      "artists": [
+        {
+          "name": "You Are You",
+          "url": "https://open.spotify.com/artist/2pr07lr3faRAYekizOgIhR"
+        }
+      ],
+      "duration_ms": 399082,
+      "name": "Hazard - Remix",
+      "url": "https://open.spotify.com/track/6Mwme5Gwv5vaZfzGrFP4ch"
+    },
+    {
+      "added_at": "2026-04-30 16:08:29",
+      "album": {
+        "name": "On The Move EP",
+        "url": "https://open.spotify.com/album/3pA7XwGwJDyuOicLtJPu9V"
+      },
+      "artists": [
+        {
+          "name": "Marco Basile",
+          "url": "https://open.spotify.com/artist/4bwZB4AuA5cKWSqvh2ti6B"
+        },
+        {
+          "name": "ALEX NEURET",
+          "url": "https://open.spotify.com/artist/1Yd4LQK4Efy0H2Ui6SdtTV"
+        }
+      ],
+      "duration_ms": 326400,
+      "name": "On The Move",
+      "url": "https://open.spotify.com/track/6aQxsYzsQZWWMLIepo6XRU"
+    },
+    {
+      "added_at": "2026-04-30 11:27:04",
+      "album": {
+        "name": "A Tale to Tell",
+        "url": "https://open.spotify.com/album/5QczHB21D3GCWaVKNnettm"
+      },
+      "artists": [
+        {
+          "name": "You Are You",
+          "url": "https://open.spotify.com/artist/2pr07lr3faRAYekizOgIhR"
+        }
+      ],
+      "duration_ms": 386227,
+      "name": "A Tale to Tell",
+      "url": "https://open.spotify.com/track/2L7VFNo2zQaxsXWAYrRRy4"
+    },
+    {
+      "added_at": "2026-04-30 09:07:18",
+      "album": {
+        "name": "Selected Worldwide Vol. 1",
+        "url": "https://open.spotify.com/album/37KaZTrsy2fecUvsi584hM"
+      },
+      "artists": [
+        {
+          "name": "Jody Vukas",
+          "url": "https://open.spotify.com/artist/0Gvy6CNrkTHkLq71TilQAa"
+        }
+      ],
+      "duration_ms": 376544,
+      "name": "Flicker - Extended Mix",
+      "url": "https://open.spotify.com/track/5cAJBpNgc2K32Pz01A1iLA"
+    },
+    {
+      "added_at": "2026-04-30 08:50:06",
+      "album": {
+        "name": "Amas sin pensar",
+        "url": "https://open.spotify.com/album/0y6SazYSdSbssFDdHJeDyK"
+      },
+      "artists": [
+        {
+          "name": "DJ Phiil",
+          "url": "https://open.spotify.com/artist/35znlAHDErseuKLFWNbM0E"
+        },
+        {
+          "name": "Raffaele Poggio",
+          "url": "https://open.spotify.com/artist/6dEtb6SpHIndSpHWJQj6Vr"
+        }
+      ],
+      "duration_ms": 204375,
+      "name": "Amas sin pensar",
+      "url": "https://open.spotify.com/track/2JGbIGfD5kdzURi75neMQf"
+    },
+    {
+      "added_at": "2026-04-30 08:45:47",
+      "album": {
+        "name": "Echoes",
+        "url": "https://open.spotify.com/album/0j1DrvgF4yZjHcLBkdyZlt"
+      },
+      "artists": [
+        {
+          "name": "B1",
+          "url": "https://open.spotify.com/artist/3NGN7d3tz6k6o6yn0RI0bY"
+        },
+        {
+          "name": "Roby Giordana",
+          "url": "https://open.spotify.com/artist/3U0FKyaXeR2C6TpEKZW0px"
+        },
+        {
+          "name": "Nacoa",
+          "url": "https://open.spotify.com/artist/61HmDgMFS306f9tS7vuAoA"
+        }
+      ],
+      "duration_ms": 212298,
+      "name": "Echoes - Radio Edit",
+      "url": "https://open.spotify.com/track/11zoWlyI6ehCvUExpLVLED"
+    },
+    {
+      "added_at": "2026-04-30 08:17:32",
+      "album": {
+        "name": "Dust in the Room",
+        "url": "https://open.spotify.com/album/338j0m2h8jLHBIAR2UinDn"
+      },
+      "artists": [
+        {
+          "name": "Ira Math",
+          "url": "https://open.spotify.com/artist/66H8aEE5Qipre5Wsqc8TCO"
+        }
+      ],
+      "duration_ms": 218307,
+      "name": "Dust in the Room",
+      "url": "https://open.spotify.com/track/2ULiW8r0snqSpRuwBmKKI2"
+    },
     {
       "added_at": "2026-04-30 02:09:07",
       "album": {

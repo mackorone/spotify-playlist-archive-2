@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Rock, indie e punk dall'Italia \ud83c\udfb8 Glazyhaze in cover",
+  "description": "Rock, indie e punk dall'Italia \ud83c\udfb8 ALLERTA! in cover",
   "name": "Rock Italia",
   "tracks": [
     {
@@ -2124,7 +2124,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 215636,
       "name": "AQUARIUM",
       "url": "https://open.spotify.com/track/4BsR5IA9iuyiXYY8eac7oZ"
@@ -3488,6 +3488,24 @@
       "duration_ms": 150857,
       "name": "BLACKOUT",
       "url": "https://open.spotify.com/track/4R7sGPaCIVnT5d6EOms23W"
+    },
+    {
+      "album": {
+        "name": "Blender",
+        "url": "https://open.spotify.com/album/1FzJAYGpnxo3jgz5iZoWMO"
+      },
+      "artists": [
+        {
+          "name": "Komarov Magnificent Backflip",
+          "url": "https://open.spotify.com/artist/5NlTrC804MPqTXwy3CX7fx"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219608,
+      "name": "Blender",
+      "url": "https://open.spotify.com/track/2q5DvlyEWtnIsHtyG2NQST"
     },
     {
       "album": {
@@ -10045,6 +10063,24 @@
     },
     {
       "album": {
+        "name": "Fantasmi",
+        "url": "https://open.spotify.com/album/2v9CVGP8tQkU3WbIfbQ3sY"
+      },
+      "artists": [
+        {
+          "name": "reemo",
+          "url": "https://open.spotify.com/artist/6xK3oqbRDvwUNAnwOjBO1p"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232125,
+      "name": "Fantasmi",
+      "url": "https://open.spotify.com/track/15yUuYLDAIUbaGsXoXHzAx"
+    },
+    {
+      "album": {
         "name": "Far tremare il corpo",
         "url": "https://open.spotify.com/album/6MKZrpg6YXvSCANmb9NuuD"
       },
@@ -14482,7 +14518,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 2306408,
       "name": "Il sangue \u00e8 pronto",
       "url": "https://open.spotify.com/track/0MEStrSyGJTRNv2OiPEJFO"
@@ -14536,7 +14572,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 248256,
       "name": "Il Tempo in Me - Radio Edit",
       "url": "https://open.spotify.com/track/3gEiSGfcgXtKKGmfIkUGbX"
@@ -14818,6 +14854,24 @@
       "duration_ms": 208122,
       "name": "In questo",
       "url": "https://open.spotify.com/track/4Up7N5Vy1iVHxkoKTVHGkp"
+    },
+    {
+      "album": {
+        "name": "In The Solstice Sun Pt. 2",
+        "url": "https://open.spotify.com/album/0KAZTZDtq4bmrhAyJXtvO2"
+      },
+      "artists": [
+        {
+          "name": "Upupay\u0101ma",
+          "url": "https://open.spotify.com/artist/6XKIrLfoLnp3EXNrp5AcwD"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248629,
+      "name": "In The Solstice Sun Pt. 2",
+      "url": "https://open.spotify.com/track/4hD14heaJ9KbJZcZ50tirm"
     },
     {
       "album": {
@@ -25514,7 +25568,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 184000,
       "name": "PRODUCI CONSUMA CREA",
       "url": "https://open.spotify.com/track/4i2OMoKKsRhaHSMi4hXYUh"
@@ -29780,6 +29834,24 @@
       "duration_ms": 170520,
       "name": "Squot",
       "url": "https://open.spotify.com/track/3whB7yrWRqFixDAIOHqhSd"
+    },
+    {
+      "album": {
+        "name": "Stachanov",
+        "url": "https://open.spotify.com/album/3u3Ebu9k7lTtndkl4YMipJ"
+      },
+      "artists": [
+        {
+          "name": "ALLERTA!",
+          "url": "https://open.spotify.com/artist/0hKvP3aJhzfrFwABgGJHUI"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148484,
+      "name": "Stachanov",
+      "url": "https://open.spotify.com/track/6bh2DArEwMAZe1YAYgLfE6"
     },
     {
       "album": {

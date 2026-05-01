@@ -4,7 +4,7 @@
 
 > Lagu\-lagu terpopuler dari dekade 2010an\. Cover: Fatin
 
-210 songs - 14 hr 23 min
+211 songs - 14 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [LDR](https://open.spotify.com/track/6WIgm0evaMly8GH6VzdAo8) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [Heart To Heart](https://open.spotify.com/album/3ooYP9owXIGTAzOFLisMwB) | 4:54 | 2024-11-22 |  |
 | [Lebih Indah](https://open.spotify.com/track/66V6QeI1Y9PQO4J7p7JGJO) | [Adera](https://open.spotify.com/artist/5puPe9ODwSfnmqy5cx90TC) | [Lebih Indah](https://open.spotify.com/album/0Gxnglx23wEe59QoWMux3x) | 4:18 | 2024-01-05 |  |
 | [Lekas](https://open.spotify.com/track/76dalAQTO59VXaVmOHeLV7) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Monokrom](https://open.spotify.com/album/4szhn3xPmOJklFAcqNvTnQ) | 3:14 | 2024-08-22 |  |
+| [Maafkan](https://open.spotify.com/track/2zZZQM87GupPuk78UofvFr) | [D'Bagindas](https://open.spotify.com/artist/6IVfG2b4I86tYdigTdpWUa) | [Yang No.1](https://open.spotify.com/album/5rlPkZwe6EZ019sAoGadne) | 3:38 | 2026-05-01 |  |
 | [Mabuk Cinta](https://open.spotify.com/track/7gWcfdZVM1uunqG6trmQVG) | [Armada](https://open.spotify.com/artist/6H857CtcaYMSxOB4jvSIZf) | [Satu Hati Sejuta Cinta](https://open.spotify.com/album/78rrGhb8kb4g0P8ewToKIo) | 3:59 | 2024-01-05 |  |
 | [Magic](https://open.spotify.com/track/5qp8vPqA5Vbz9VqKQ8stCN) | [Lyla](https://open.spotify.com/artist/3GheatPWdVzxqmRXOKxHTb) | [Lebih Dari Bintang](https://open.spotify.com/album/6Pgmq2CRu66fYZK74b9c6C) | 3:50 | 2024-10-14 |  |
 | [Malaikat Juga Tahu](https://open.spotify.com/track/01NxFtuXZ30sDVfdErskKl) | [Dee Lestari](https://open.spotify.com/artist/1mCcTwpEABnSVB4D8rXfRN) | [Rectoverso](https://open.spotify.com/album/5NEQMtVC3NuKMOZbPgXLal) | 4:26 | 2025-02-07 |  |

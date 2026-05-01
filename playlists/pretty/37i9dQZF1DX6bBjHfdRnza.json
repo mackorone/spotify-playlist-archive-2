@@ -1,13 +1,141 @@
 {
-  "description": "The best new dance tracks from independent artists & labels. Featuring Collect 200. Curated by human Spotify editors. \n",
-  "num_followers": 212401,
+  "description": "The best new dance tracks from independent artists & labels. Featuring Aki Oke. Curated by human Spotify editors. \n",
+  "num_followers": 212471,
   "original_name": "Fresh Finds Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJ4xCxefNyiEDSTqc5+Qr1kfTJ8d",
+  "snapshot_id": "AAAAANlFIMHPCNd7XQuCoGn1u4fTeKkm",
   "tracks": [
+    {
+      "added_at": "2026-04-24 04:02:15",
+      "album": {
+        "name": "C'MON",
+        "url": "https://open.spotify.com/album/28KVyJE1pHcXRmE9jfHRIW"
+      },
+      "artists": [
+        {
+          "name": "Aki Oke",
+          "url": "https://open.spotify.com/artist/7d76hQbV3M2NOwec3e16bv"
+        }
+      ],
+      "duration_ms": 217249,
+      "name": "C'MON",
+      "url": "https://open.spotify.com/track/1UdhMXlrK5xeH7cKEdIvRA"
+    },
+    {
+      "added_at": "2026-04-30 03:41:26",
+      "album": {
+        "name": "Left & Right",
+        "url": "https://open.spotify.com/album/7BuykrHh9uz2TpqZsJE5Vw"
+      },
+      "artists": [
+        {
+          "name": "Modre",
+          "url": "https://open.spotify.com/artist/2EfUUK5fHryynO8DEpbhI8"
+        }
+      ],
+      "duration_ms": 173333,
+      "name": "Left & Right",
+      "url": "https://open.spotify.com/track/24BqX41wztlosanKgkKvDX"
+    },
+    {
+      "added_at": "2026-04-30 03:41:26",
+      "album": {
+        "name": "Fanga",
+        "url": "https://open.spotify.com/album/71MjiX9HjfdP5Kf7WwnUtq"
+      },
+      "artists": [
+        {
+          "name": "Narasimha",
+          "url": "https://open.spotify.com/artist/2wzbr5OelMdawn7HrZRefV"
+        }
+      ],
+      "duration_ms": 209769,
+      "name": "Fanga",
+      "url": "https://open.spotify.com/track/2DykxprHbMOi4HlOGVXBo3"
+    },
+    {
+      "added_at": "2026-03-18 17:43:09",
+      "album": {
+        "name": "GTFU",
+        "url": "https://open.spotify.com/album/5jLlh1dm37OduWtv69Ouam"
+      },
+      "artists": [
+        {
+          "name": "Wal",
+          "url": "https://open.spotify.com/artist/349ZnULvoYVFB1lIOedjkc"
+        }
+      ],
+      "duration_ms": 230551,
+      "name": "What Ya Got",
+      "url": "https://open.spotify.com/track/0HzRiWAopxgrlMkYnUD055"
+    },
+    {
+      "added_at": "2026-04-03 04:02:29",
+      "album": {
+        "name": "TU",
+        "url": "https://open.spotify.com/album/4Jne5XEYDgjWiYF2GQxEOI"
+      },
+      "artists": [
+        {
+          "name": "fromclay",
+          "url": "https://open.spotify.com/artist/0EwNsbQywFna5Y83fmTwpu"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "TU",
+      "url": "https://open.spotify.com/track/4RkzOCoUtFzfjLv8JbeZcN"
+    },
+    {
+      "added_at": "2026-04-30 03:41:26",
+      "album": {
+        "name": "don't call",
+        "url": "https://open.spotify.com/album/3dnnal8WQr4Vcq7u0gRMx9"
+      },
+      "artists": [
+        {
+          "name": "bufr.",
+          "url": "https://open.spotify.com/artist/3hPYq7lt8frN2XwFbFQWI5"
+        }
+      ],
+      "duration_ms": 110139,
+      "name": "don't call",
+      "url": "https://open.spotify.com/track/6p0HlaC4VdYZGxew0OLBP7"
+    },
+    {
+      "added_at": "2026-04-30 03:41:26",
+      "album": {
+        "name": "No Lighter",
+        "url": "https://open.spotify.com/album/630RgKmNGET8OlOWM5qkBz"
+      },
+      "artists": [
+        {
+          "name": "Trustee",
+          "url": "https://open.spotify.com/artist/2CQcG802nBA6S3ILkvy3Mg"
+        }
+      ],
+      "duration_ms": 291000,
+      "name": "Robbery",
+      "url": "https://open.spotify.com/track/4ELNuqfVRxKLwSl8dKLn4P"
+    },
+    {
+      "added_at": "2026-04-10 04:02:22",
+      "album": {
+        "name": "Snakebite Boogie EP",
+        "url": "https://open.spotify.com/album/65kPQwCvSFLJndDg9zJTOv"
+      },
+      "artists": [
+        {
+          "name": "Mellizos",
+          "url": "https://open.spotify.com/artist/58aKkaiVZkoeZNeHTz36Gi"
+        }
+      ],
+      "duration_ms": 211355,
+      "name": "Snakebite Boogie",
+      "url": "https://open.spotify.com/track/3Tokd2H9xxDzkvKVahm6tc"
+    },
     {
       "added_at": "2026-04-15 17:24:57",
       "album": {
@@ -25,36 +153,36 @@
       "url": "https://open.spotify.com/track/2Zk7GbM6pfouSACjW1gtcE"
     },
     {
-      "added_at": "2026-04-22 17:32:04",
+      "added_at": "2026-04-30 03:41:26",
       "album": {
-        "name": "finest girl",
-        "url": "https://open.spotify.com/album/1Pk4rkbCOiI8CuVtVul5tu"
+        "name": "Dubplate Style",
+        "url": "https://open.spotify.com/album/3RtBN6q0avFJBY5mYG8VdS"
       },
       "artists": [
         {
-          "name": "Aki Oke",
-          "url": "https://open.spotify.com/artist/7d76hQbV3M2NOwec3e16bv"
+          "name": "Captain Wallop",
+          "url": "https://open.spotify.com/artist/1Q2WcEg1kdVTuRcGqrLBz5"
         }
       ],
-      "duration_ms": 154232,
-      "name": "finest girl",
-      "url": "https://open.spotify.com/track/2hoksN8fT30jKOYqVeqCth"
+      "duration_ms": 391875,
+      "name": "I'm An Addict",
+      "url": "https://open.spotify.com/track/0oFMerkNr6VeCera8dHgqu"
     },
     {
-      "added_at": "2026-04-03 04:02:29",
+      "added_at": "2026-03-18 17:43:09",
       "album": {
-        "name": "TU",
-        "url": "https://open.spotify.com/album/4Jne5XEYDgjWiYF2GQxEOI"
+        "name": "All This Love",
+        "url": "https://open.spotify.com/album/2LxV8acLKGaFMWwKKgpsV3"
       },
       "artists": [
         {
-          "name": "fromclay",
-          "url": "https://open.spotify.com/artist/0EwNsbQywFna5Y83fmTwpu"
+          "name": "Ben Van Kuringen",
+          "url": "https://open.spotify.com/artist/26l6VHwzbStlQFOsGqS0s2"
         }
       ],
-      "duration_ms": 160000,
-      "name": "TU",
-      "url": "https://open.spotify.com/track/4RkzOCoUtFzfjLv8JbeZcN"
+      "duration_ms": 195692,
+      "name": "All This Love",
+      "url": "https://open.spotify.com/track/47z7oDHkBMIkaRBhU8lEuW"
     },
     {
       "added_at": "2026-04-22 17:32:04",
@@ -81,20 +209,20 @@
       "url": "https://open.spotify.com/track/19kFxiDnQNbXLIXMQ2RDva"
     },
     {
-      "added_at": "2026-03-18 17:43:09",
+      "added_at": "2026-04-30 03:41:26",
       "album": {
-        "name": "GTFU",
-        "url": "https://open.spotify.com/album/5jLlh1dm37OduWtv69Ouam"
+        "name": "Act Right",
+        "url": "https://open.spotify.com/album/4rZCqHjsh7qcJ6aoDRRwJT"
       },
       "artists": [
         {
-          "name": "Wal",
-          "url": "https://open.spotify.com/artist/349ZnULvoYVFB1lIOedjkc"
+          "name": "Randm",
+          "url": "https://open.spotify.com/artist/2zpgFk6YybybyMAcaIaUtY"
         }
       ],
-      "duration_ms": 230551,
-      "name": "What Ya Got",
-      "url": "https://open.spotify.com/track/0HzRiWAopxgrlMkYnUD055"
+      "duration_ms": 214600,
+      "name": "Act Right",
+      "url": "https://open.spotify.com/track/64cawGqiZJWzjZhfjcfubU"
     },
     {
       "added_at": "2026-04-18 00:48:32",
@@ -117,6 +245,22 @@
       "url": "https://open.spotify.com/track/5B0XGW3FOwqAPiXMWBOiYC"
     },
     {
+      "added_at": "2026-04-30 03:41:26",
+      "album": {
+        "name": "Motion",
+        "url": "https://open.spotify.com/album/7wjC3W81oIT2A6xqQ0t7NY"
+      },
+      "artists": [
+        {
+          "name": "MLE",
+          "url": "https://open.spotify.com/artist/4kwSji6cyVJyawitcYNC4S"
+        }
+      ],
+      "duration_ms": 198181,
+      "name": "Motion",
+      "url": "https://open.spotify.com/track/4JXV5vJB64ysfRyrkaGcqh"
+    },
+    {
       "added_at": "2026-04-24 04:02:15",
       "album": {
         "name": "mind be so numb",
@@ -135,6 +279,38 @@
       "duration_ms": 195428,
       "name": "mind be so numb",
       "url": "https://open.spotify.com/track/3ePwGn599lcCF9Hxpfw7Iw"
+    },
+    {
+      "added_at": "2026-04-17 04:02:50",
+      "album": {
+        "name": "Fix It",
+        "url": "https://open.spotify.com/album/7qXPopiabkvOGzyUKHowgq"
+      },
+      "artists": [
+        {
+          "name": "Nat Kara",
+          "url": "https://open.spotify.com/artist/45JSk7XvIJijTo2Kc8Nzfj"
+        }
+      ],
+      "duration_ms": 180117,
+      "name": "Fix It",
+      "url": "https://open.spotify.com/track/2P2hfZzVcEv3bUjC2E3AZX"
+    },
+    {
+      "added_at": "2026-04-22 17:32:04",
+      "album": {
+        "name": "finest girl",
+        "url": "https://open.spotify.com/album/1Pk4rkbCOiI8CuVtVul5tu"
+      },
+      "artists": [
+        {
+          "name": "Aki Oke",
+          "url": "https://open.spotify.com/artist/7d76hQbV3M2NOwec3e16bv"
+        }
+      ],
+      "duration_ms": 154232,
+      "name": "finest girl",
+      "url": "https://open.spotify.com/track/2hoksN8fT30jKOYqVeqCth"
     },
     {
       "added_at": "2026-04-15 17:24:57",
@@ -185,38 +361,6 @@
       "url": "https://open.spotify.com/track/5L1jMPd94KbotvZRtA7dJH"
     },
     {
-      "added_at": "2026-04-17 04:02:50",
-      "album": {
-        "name": "Fix It",
-        "url": "https://open.spotify.com/album/7qXPopiabkvOGzyUKHowgq"
-      },
-      "artists": [
-        {
-          "name": "Nat Kara",
-          "url": "https://open.spotify.com/artist/45JSk7XvIJijTo2Kc8Nzfj"
-        }
-      ],
-      "duration_ms": 180117,
-      "name": "Fix It",
-      "url": "https://open.spotify.com/track/2P2hfZzVcEv3bUjC2E3AZX"
-    },
-    {
-      "added_at": "2026-03-18 17:43:09",
-      "album": {
-        "name": "All This Love",
-        "url": "https://open.spotify.com/album/2LxV8acLKGaFMWwKKgpsV3"
-      },
-      "artists": [
-        {
-          "name": "Ben Van Kuringen",
-          "url": "https://open.spotify.com/artist/26l6VHwzbStlQFOsGqS0s2"
-        }
-      ],
-      "duration_ms": 195692,
-      "name": "All This Love",
-      "url": "https://open.spotify.com/track/47z7oDHkBMIkaRBhU8lEuW"
-    },
-    {
       "added_at": "2026-04-22 17:32:04",
       "album": {
         "name": "Can You Feel The Heat",
@@ -247,38 +391,6 @@
       "duration_ms": 228934,
       "name": "Mic Killa",
       "url": "https://open.spotify.com/track/61qPPslPbFPgCxyKHg0hVk"
-    },
-    {
-      "added_at": "2026-04-10 04:02:22",
-      "album": {
-        "name": "Snakebite Boogie EP",
-        "url": "https://open.spotify.com/album/65kPQwCvSFLJndDg9zJTOv"
-      },
-      "artists": [
-        {
-          "name": "Mellizos",
-          "url": "https://open.spotify.com/artist/58aKkaiVZkoeZNeHTz36Gi"
-        }
-      ],
-      "duration_ms": 211355,
-      "name": "Snakebite Boogie",
-      "url": "https://open.spotify.com/track/3Tokd2H9xxDzkvKVahm6tc"
-    },
-    {
-      "added_at": "2026-04-24 04:02:15",
-      "album": {
-        "name": "C'MON",
-        "url": "https://open.spotify.com/album/28KVyJE1pHcXRmE9jfHRIW"
-      },
-      "artists": [
-        {
-          "name": "Aki Oke",
-          "url": "https://open.spotify.com/artist/7d76hQbV3M2NOwec3e16bv"
-        }
-      ],
-      "duration_ms": 217249,
-      "name": "C'MON",
-      "url": "https://open.spotify.com/track/1UdhMXlrK5xeH7cKEdIvRA"
     },
     {
       "added_at": "2026-04-08 16:58:31",
@@ -599,30 +711,6 @@
     {
       "added_at": "2026-04-01 16:59:55",
       "album": {
-        "name": "Grab Me Water",
-        "url": "https://open.spotify.com/album/13c41UsdcLme5PJh6L7J5G"
-      },
-      "artists": [
-        {
-          "name": "Stresshead",
-          "url": "https://open.spotify.com/artist/1ilfLz2z62VTtvKJmxYPzs"
-        },
-        {
-          "name": "Ancona",
-          "url": "https://open.spotify.com/artist/177HU6uNxKwrQIFvmmkFqR"
-        },
-        {
-          "name": "Eddie Caine",
-          "url": "https://open.spotify.com/artist/0Z2wIXTdaJbZWCzrfNREWl"
-        }
-      ],
-      "duration_ms": 205162,
-      "name": "Grab Me Water",
-      "url": "https://open.spotify.com/track/2aLzIJ1mikuw6xWuynqycG"
-    },
-    {
-      "added_at": "2026-04-01 16:59:55",
-      "album": {
         "name": "1, 2, KICK!",
         "url": "https://open.spotify.com/album/7at6p7RvkCMbNqNugnLALE"
       },
@@ -669,22 +757,6 @@
       "url": "https://open.spotify.com/track/7IP9P1jnYnvEBa2FcEDDSd"
     },
     {
-      "added_at": "2026-03-25 16:00:36",
-      "album": {
-        "name": "Hot 'N Heavy",
-        "url": "https://open.spotify.com/album/1mRWJ7HcS8cxSz9L7bOX60"
-      },
-      "artists": [
-        {
-          "name": "Lenny Delicious",
-          "url": "https://open.spotify.com/artist/2MBDmFDbGZLXblS3AnXsqh"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Hot 'N Heavy",
-      "url": "https://open.spotify.com/track/14bmYLH9zFWXyR0wggKuKw"
-    },
-    {
       "added_at": "2026-03-20 04:00:52",
       "album": {
         "name": "HOLD BACK",
@@ -699,38 +771,6 @@
       "duration_ms": 133000,
       "name": "HOLD BACK",
       "url": "https://open.spotify.com/track/4Rp88QaQ5jSzT1MXkHFtm7"
-    },
-    {
-      "added_at": "2026-03-18 17:43:09",
-      "album": {
-        "name": "star scum city",
-        "url": "https://open.spotify.com/album/0T5M2ccVJg6rJZaLAp5xmZ"
-      },
-      "artists": [
-        {
-          "name": "2charm",
-          "url": "https://open.spotify.com/artist/7HKUxdZeGZQHLE7vFG4Syr"
-        }
-      ],
-      "duration_ms": 178328,
-      "name": "no pressure",
-      "url": "https://open.spotify.com/track/6nvpyzjBJBCCaZE1TGBWCH"
-    },
-    {
-      "added_at": "2026-02-18 20:21:45",
-      "album": {
-        "name": "Loverr",
-        "url": "https://open.spotify.com/album/1IAifM8CYCpNvG45SIUMHt"
-      },
-      "artists": [
-        {
-          "name": "Human Family",
-          "url": "https://open.spotify.com/artist/3rAmqzzZzmxAbxPyi3liyH"
-        }
-      ],
-      "duration_ms": 200761,
-      "name": "Loverr",
-      "url": "https://open.spotify.com/track/70Kh9erWe00Bvll9YKpIhu"
     },
     {
       "added_at": "2026-03-13 04:00:43",
@@ -889,22 +929,6 @@
       "url": "https://open.spotify.com/track/2H6CCiKG6pEQm6mPEmNSsf"
     },
     {
-      "added_at": "2026-03-05 04:25:05",
-      "album": {
-        "name": "DREAM",
-        "url": "https://open.spotify.com/album/6eY2K479XOyF57yyf7u4wl"
-      },
-      "artists": [
-        {
-          "name": "V. Christie",
-          "url": "https://open.spotify.com/artist/63sAE1NYTAlj2Oi77mMDmm"
-        }
-      ],
-      "duration_ms": 263978,
-      "name": "DREAM",
-      "url": "https://open.spotify.com/track/3Gv4iRTcFcDJ3n12vCyWst"
-    },
-    {
       "added_at": "2026-02-26 18:54:06",
       "album": {
         "name": "333 dance songs",
@@ -939,22 +963,6 @@
       "duration_ms": 228750,
       "name": "Nothing Left to Say - Radio Edit",
       "url": "https://open.spotify.com/track/2gP0oGwwCef1i4lOQesUj2"
-    },
-    {
-      "added_at": "2026-02-11 21:59:45",
-      "album": {
-        "name": "Can\u2019t Take It",
-        "url": "https://open.spotify.com/album/4jTPnIWT3aECDKSz4J0pcE"
-      },
-      "artists": [
-        {
-          "name": "Fonz",
-          "url": "https://open.spotify.com/artist/47CaqIJXmQWmsH6AC5YyHg"
-        }
-      ],
-      "duration_ms": 218536,
-      "name": "Can\u2019t Take It",
-      "url": "https://open.spotify.com/track/55cT6CQVoS4vsBo7sUcInf"
     },
     {
       "added_at": "2026-02-18 20:21:45",
@@ -995,26 +1003,6 @@
       "duration_ms": 239119,
       "name": "Heart",
       "url": "https://open.spotify.com/track/2woJDJD5c1smpFdkWa4kpu"
-    },
-    {
-      "added_at": "2026-02-06 05:00:44",
-      "album": {
-        "name": "BUSY",
-        "url": "https://open.spotify.com/album/74wkNGfmzqnkZHMmz04ZR1"
-      },
-      "artists": [
-        {
-          "name": "Sentimento",
-          "url": "https://open.spotify.com/artist/3jCZxcHy73RLlHU5WWZDqa"
-        },
-        {
-          "name": "Nadia Rose",
-          "url": "https://open.spotify.com/artist/0Nc09HuPN9ELmbTCLyNKnO"
-        }
-      ],
-      "duration_ms": 149835,
-      "name": "BUSY",
-      "url": "https://open.spotify.com/track/0ajlzNN3H0pXTRJQka10zQ"
     },
     {
       "added_at": "2026-01-23 05:00:26",

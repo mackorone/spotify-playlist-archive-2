@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tjzQw0If3c.md) - [plain]
 
 ### [RADAR SG & MY](https://open.spotify.com/playlist/37i9dQZF1DX8tjzQw0If3c)
 
-> Introducing RADAR Singapore & Malaysia Class of 2026\. Cover: Mohsein Kush
+> Introducing RADAR Singapore & Malaysia Class of 2026\. Cover: supercatkei
 
 [Spotify](https://open.spotify.com/user/spotify) - 11,454 likes - 38 songs - 1 hr 59 min
 

@@ -2,9 +2,9 @@
 
 ### [ฮิปฮอป R.E.A.L\. ](https://open.spotify.com/playlist/37i9dQZF1DX7ccGNvU862z)
 
-> เพลย์ลิสต์ฮิปฮอปของจริง ฮิปฮอป R.E.A.L\. ศิลปิน: ZENTYARB, Kakagoesbackhome
+> เพลย์ลิสต์ฮิปฮอปของจริง ฮิปฮอป R.E.A.L\. ศิลปิน: Z9, BLVCKHEART
 
-856 songs - 1 day 23 hr 11 min
+857 songs - 1 day 23 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -526,6 +526,7 @@
 | [ทนหนาว](https://open.spotify.com/track/05NazNNMIKuS0DtZ9Qq5FF) | [.pxt](https://open.spotify.com/artist/4Vm7tH1sePouTXM3v3mMns) | [ทนหนาว](https://open.spotify.com/album/4Qj2KdswCdnDk3lVO37krT) | 2:18 | 2023-11-10 | 2023-11-18 |
 | [ทางชัน](https://open.spotify.com/track/24pDCzPUPoD3wYjpynpo2n) | [DIAMOND MQT](https://open.spotify.com/artist/0O6y1pr1YIKq65c6N3sI9c) | [ทางชัน](https://open.spotify.com/album/1PPs8UbsmKpo2GDxWYOyY7) | 3:11 | 2024-03-22 | 2024-07-20 |
 | [ทำต่อไป](https://open.spotify.com/track/60GopMaMfhEElfHmiuqNTd) | [kwanriam](https://open.spotify.com/artist/27apo6ShJWloO0Fe1WMTnI) | [ทำต่อไป](https://open.spotify.com/album/0KmAzuklZ7BDnVTq319R9q) | 4:00 | 2023-10-06 | 2023-10-13 |
+| [ทำใจไม่ได้](https://open.spotify.com/track/1UeX4ufgrSzP70ZREmsgJO) | [Z9](https://open.spotify.com/artist/4CuVt3p02OaWu4klQuJoDP), [BLVCKHEART](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV) | [ทำใจไม่ได้](https://open.spotify.com/album/2xicB6qtsHd08BlgDtx3B8) | 3:29 | 2026-04-30 |  |
 | [ทำไมไม่พูด \- Why Didn't You Tell Me?](https://open.spotify.com/track/0CBHWAKsrhtmbWFIz2h7o3) | [SAMBLACK](https://open.spotify.com/artist/39iFHReRQ9ZJnzbe3yhl4C) | [ทำไมไม่พูด \(Why Didn't You Tell Me?\)](https://open.spotify.com/album/67fO7oNZdjYYraPQ8ZkLNl) | 3:46 | 2025-12-07 | 2025-12-27 |
 | [ทิ้งเพื่อทิ้ง](https://open.spotify.com/track/6JtY6i9LS6TEl2ScgLv1d4) | [Maiyarap](https://open.spotify.com/artist/4QLlbZcntdcWpm40NooC2M) | [ทิ้งเพื่อทิ้ง](https://open.spotify.com/album/1TGxo7Ps1QMJIWOGzXqmEx) | 3:04 | 2023-09-22 | 2023-10-13 |
 | [ที่ที่ฉันมีความสุข](https://open.spotify.com/track/5dVOgmch2D7wIAjHKiibSb) | [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5), [THAOWANZ](https://open.spotify.com/artist/2oWR5K3i3LCNx5e7DI1wdQ) | [ที่ที่ฉันมีความสุข](https://open.spotify.com/album/4YJdO4cFNoYZSiGqylZGQk) | 3:18 | 2023-11-17 | 2023-12-02 |
@@ -677,7 +678,7 @@
 | [หัวใจว้าวุ่น](https://open.spotify.com/track/7bPl0qB6bEIXFOnGdWDWPV) | [Pondering](https://open.spotify.com/artist/5vzCTzMec4uL6JCNkOFcZ2) | [หัวใจว้าวุ่น](https://open.spotify.com/album/5YoNKdpE9Q3eWlS5qfCwLM) | 2:37 | 2023-12-08 | 2023-12-30 |
 | [หัวใจสีดำ](https://open.spotify.com/track/5gbEGJJXjbF73DQQa2UQQE) | [YOUNGOHM](https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S) | [ไฟกลางคืน](https://open.spotify.com/album/31eKAtKWWzdhzSn2PG21up) | 3:04 | 2025-12-07 |  |
 | [หายหนาว](https://open.spotify.com/track/4Jq4ECRqYjZby7Gl754iJy) | [SURE](https://open.spotify.com/artist/4VDgBH42C8INx6Oqw6WuPB), [Z9](https://open.spotify.com/artist/4CuVt3p02OaWu4klQuJoDP) | [หายหนาว](https://open.spotify.com/album/7mehJkkfvnR6YECGdLPRAZ) | 3:36 | 2025-10-10 | 2025-10-28 |
-| [หินก้อนใหญ่](https://open.spotify.com/track/4dPV33yLqctqGq0uvpFomv) | [Mega Perk](https://open.spotify.com/artist/3CceQVvpPpeUJ0qQlHGHRY) | [หินก้อนใหญ่](https://open.spotify.com/album/3uRNJ1J3wSE59kfoLOTcbJ) | 3:36 | 2026-04-16 |  |
+| [หินก้อนใหญ่](https://open.spotify.com/track/4dPV33yLqctqGq0uvpFomv) | [Mega Perk](https://open.spotify.com/artist/3CceQVvpPpeUJ0qQlHGHRY) | [หินก้อนใหญ่](https://open.spotify.com/album/3uRNJ1J3wSE59kfoLOTcbJ) | 3:36 | 2026-04-16 | 2026-05-01 |
 | [ห่างเหิน \(Distance\) \(feat\. BLVCKHEART\)](https://open.spotify.com/track/1et01NEUFBrE8rK7p01nEk) | [The BESTS](https://open.spotify.com/artist/6e8TDjcAEEGD0yhbhKocWE), [BLVCKHEART](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV) | [ห่างเหิน \(Distance\) \(feat\. BLVCKHEART\)](https://open.spotify.com/album/3K4FGhG4qYdvaCJwDp0fUE) | 4:09 | 2025-12-26 | 2026-01-15 |
 | [ห้องกาลเวลา](https://open.spotify.com/track/2Q3Qz9Q7ax7ZIcCSa9Clls) | [Young J](https://open.spotify.com/artist/5nYImteGVIjH7sXrD9quLp) | [ห้องกาลเวลา](https://open.spotify.com/album/54go6kWCfi8cERPwngCE0c) | 2:30 | 2026-02-06 | 2026-02-19 |
 | [ห้องชั่วคราว \(Motel\)](https://open.spotify.com/track/36lfPTcsWLOTUDrDeOdeZT) | [Hunsick](https://open.spotify.com/artist/2wst2I06kgWhcA7DIhsVTv) | [ห้องชั่วคราว \(Motel\)](https://open.spotify.com/album/4U4p947uTk2cTvDkMCwQMX) | 3:12 | 2025-09-05 | 2025-09-20 |

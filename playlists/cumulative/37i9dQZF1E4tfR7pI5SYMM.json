@@ -114,7 +114,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 291866,
       "name": "A Solitary Future",
       "url": "https://open.spotify.com/track/0ShB8rlcQF9yL01mUmAuLx"
@@ -410,7 +410,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 178000,
       "name": "Astronaut",
       "url": "https://open.spotify.com/track/4szCcgfvoz89xloFDOdgUS"
@@ -652,7 +652,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-29",
+      "date_removed": null,
       "duration_ms": 240000,
       "name": "Beyond the Mirrors",
       "url": "https://open.spotify.com/track/5kl6kB7l36sDkOfestcW0e"
@@ -1268,7 +1268,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 353686,
       "name": "Close Is Just Another Word for Nothing",
       "url": "https://open.spotify.com/track/0nqIdGCOuf09bI5OII97cE"
@@ -1412,7 +1412,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-28",
+      "date_removed": null,
       "duration_ms": 221679,
       "name": "contact",
       "url": "https://open.spotify.com/track/4huCxiN2GsEG6mY6yb73ih"
@@ -1830,7 +1830,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-26",
+      "date_removed": null,
       "duration_ms": 185442,
       "name": "Der Jugend Beraubt",
       "url": "https://open.spotify.com/track/5wn8CR7S0aHUmMqonqIoXt"
@@ -2166,7 +2166,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 174269,
       "name": "dose",
       "url": "https://open.spotify.com/track/4W20hsjRf54J0cM8oNY78A"
@@ -2454,10 +2454,32 @@
       ],
       "date_added": "2026-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 352720,
       "name": "Ein Stern",
       "url": "https://open.spotify.com/track/1gb9zmaAAv5ZPvl7XUNxZO"
+    },
+    {
+      "album": {
+        "name": "Ekko",
+        "url": "https://open.spotify.com/album/6AOo3HVJ52tbgpaQNWv3BO"
+      },
+      "artists": [
+        {
+          "name": "Anton Ruud",
+          "url": "https://open.spotify.com/artist/38fPYODGR3UgCG199ZdIYw"
+        },
+        {
+          "name": "Onkel Overdrive",
+          "url": "https://open.spotify.com/artist/7dFWsQC1S2LjcyMpFRcUDr"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280625,
+      "name": "Ekko",
+      "url": "https://open.spotify.com/track/31mgiH8koyfFT4hl0tpNMf"
     },
     {
       "album": {
@@ -3153,6 +3175,42 @@
     },
     {
       "album": {
+        "name": "Palpita, Coraz\u00f3n, Palpita!",
+        "url": "https://open.spotify.com/album/5TGYFZ6Hs1hJjq9S075bTW"
+      },
+      "artists": [
+        {
+          "name": "CALVA Y NADA",
+          "url": "https://open.spotify.com/artist/6zwf73nGhXYFan9NZ1adRU"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307226,
+      "name": "Fernes Leid",
+      "url": "https://open.spotify.com/track/0yaAJDch8IuLEbvBMY88ji"
+    },
+    {
+      "album": {
+        "name": "Fight (Neo Tokio Chronicles Main Theme)",
+        "url": "https://open.spotify.com/album/6nLDPHctBHkQkLG8BeQYub"
+      },
+      "artists": [
+        {
+          "name": "Operation Chaos",
+          "url": "https://open.spotify.com/artist/0LKMJzmFZm97tgrfk6Ltg8"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277200,
+      "name": "Fight (Neo Tokio Chronicles Main Theme)",
+      "url": "https://open.spotify.com/track/4LGDFArm0bZRDgNrQJRenX"
+    },
+    {
+      "album": {
         "name": "Fire Dances",
         "url": "https://open.spotify.com/album/6e5k5g411e2zSZq9JHTLB0"
       },
@@ -3532,7 +3590,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 208661,
       "name": "Greetings From The Half Life",
       "url": "https://open.spotify.com/track/5r89EqCofA1SbES6otsK4Z"
@@ -3550,7 +3608,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 303464,
       "name": "Grief",
       "url": "https://open.spotify.com/track/36oVY58DO6phaiLLdVOyjh"
@@ -4098,7 +4156,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 300386,
       "name": "I'm not going home",
       "url": "https://open.spotify.com/track/4C0OtEuP48EI4VLJLpGkgR"
@@ -4296,7 +4354,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-30",
+      "date_removed": null,
       "duration_ms": 248165,
       "name": "Intention",
       "url": "https://open.spotify.com/track/3q1xGTBDoR35bV7kfHRi9e"
@@ -4870,7 +4928,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-30",
+      "date_removed": null,
       "duration_ms": 340000,
       "name": "Life Whisper & New Life - Reprise",
       "url": "https://open.spotify.com/track/6FhnVWokFfKBvsW33H5HCA"
@@ -5834,7 +5892,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 180250,
       "name": "Murci\u00e9lagos",
       "url": "https://open.spotify.com/track/7iHa188lPGmeEjffPgjUAR"
@@ -6072,7 +6130,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-24",
+      "date_removed": null,
       "duration_ms": 299311,
       "name": "Never the Same",
       "url": "https://open.spotify.com/track/37RaDHuCzwcZeRzgqhf3Dv"
@@ -7188,7 +7246,7 @@
       ],
       "date_added": "2026-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 197696,
       "name": "Psychosis",
       "url": "https://open.spotify.com/track/5m3IIhS42ekHuyc3acP3nE"
@@ -7884,7 +7942,7 @@
       ],
       "date_added": "2026-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-29",
+      "date_removed": null,
       "duration_ms": 390967,
       "name": "Skyward Bound",
       "url": "https://open.spotify.com/track/5fcBPscU64w3Q0wb6nTfZJ"
@@ -8028,7 +8086,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 210679,
       "name": "Solitary Stranger",
       "url": "https://open.spotify.com/track/3nwhGi5sAf8xKEtd8CnV8f"
@@ -8280,7 +8338,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 365902,
       "name": "Station To Station - 50th Anniversary",
       "url": "https://open.spotify.com/track/1TRnxAoUZWXLUHH2jYeXq7"
@@ -9208,7 +9266,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-30",
+      "date_removed": null,
       "duration_ms": 237176,
       "name": "The Party Is Over",
       "url": "https://open.spotify.com/track/5O69OUizv8L6SElL2O7bjx"
@@ -11090,7 +11148,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-30",
+      "date_removed": null,
       "duration_ms": 208660,
       "name": "Zerrissen",
       "url": "https://open.spotify.com/track/6ZUbmwyM3p0YGQLZcq59Yw"

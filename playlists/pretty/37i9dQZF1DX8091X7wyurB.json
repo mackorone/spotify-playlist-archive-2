@@ -1,12 +1,12 @@
 {
   "description": "Praise and Worship the Almighty God with the best songs. A mix of both African and International songs. ",
-  "num_followers": 305600,
+  "num_followers": 305756,
   "original_name": "Praise and Worship",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGzM+X3XzlO9HwiUpy/o9qHMAS+A",
+  "snapshot_id": "AAAAABGm+Nsz5dglHQNphvbYZV/Zpsbg",
   "tracks": [
     {
       "added_at": "2024-02-16 00:01:00",
@@ -53,6 +53,42 @@
       "url": "https://open.spotify.com/track/7r9kOxiNDnkAg5QKqtyjVk"
     },
     {
+      "added_at": "2026-05-01 00:02:04",
+      "album": {
+        "name": "I have escaped (Main Version)",
+        "url": "https://open.spotify.com/album/2p4SUaDgsEcPFE08Ju0yg0"
+      },
+      "artists": [
+        {
+          "name": "Lawrence Oyor",
+          "url": "https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI"
+        }
+      ],
+      "duration_ms": 200640,
+      "name": "I have escaped",
+      "url": "https://open.spotify.com/track/7JlAAEib1TABwxSEGU1c4K"
+    },
+    {
+      "added_at": "2026-05-01 00:02:04",
+      "album": {
+        "name": "Odogwu (feat. Prospa Ochimana)",
+        "url": "https://open.spotify.com/album/4OCdHRLhco7ZRdMpoUGeww"
+      },
+      "artists": [
+        {
+          "name": "Chidinma",
+          "url": "https://open.spotify.com/artist/3Wu4rnX6UKAMtTlUL2IAj4"
+        },
+        {
+          "name": "Prospa Ochimana",
+          "url": "https://open.spotify.com/artist/4tFkCYyWjDUXCHKqBpqw4g"
+        }
+      ],
+      "duration_ms": 262242,
+      "name": "Odogwu (feat. Prospa Ochimana)",
+      "url": "https://open.spotify.com/track/5uVme5GQDbipGSnuz5kweE"
+    },
+    {
       "added_at": "2025-08-22 00:01:27",
       "album": {
         "name": "Move Your Heart",
@@ -79,46 +115,6 @@
       "duration_ms": 337152,
       "name": "Rest on Us (feat. Brandon Lake & Eniola Abioye)",
       "url": "https://open.spotify.com/track/0A402ZdxwQzaVdyH5Zav5X"
-    },
-    {
-      "added_at": "2026-04-24 00:01:06",
-      "album": {
-        "name": "My Elshaddai",
-        "url": "https://open.spotify.com/album/38CdwH27OsQF185txvPw1z"
-      },
-      "artists": [
-        {
-          "name": "Evans Ogboi",
-          "url": "https://open.spotify.com/artist/2atv3xZ8TKAZoDUWES3ho0"
-        },
-        {
-          "name": "Eben",
-          "url": "https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm"
-        },
-        {
-          "name": "Purist Ogboi",
-          "url": "https://open.spotify.com/artist/4XDbxHH7eeR8BTf0OnkMvE"
-        }
-      ],
-      "duration_ms": 276083,
-      "name": "My Elshaddai",
-      "url": "https://open.spotify.com/track/7z81J8HgIVSpyeF2996zDy"
-    },
-    {
-      "added_at": "2026-04-17 00:01:34",
-      "album": {
-        "name": "Oranmonise",
-        "url": "https://open.spotify.com/album/5rH2z6G9wONmPLzbBNPJsd"
-      },
-      "artists": [
-        {
-          "name": "Sunmisola Agbebi",
-          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
-        }
-      ],
-      "duration_ms": 576341,
-      "name": "Oranmonise",
-      "url": "https://open.spotify.com/track/17rXiC1IuXGJ0FBDrzSMKN"
     },
     {
       "added_at": "2024-09-20 00:01:00",
@@ -157,36 +153,44 @@
       "url": "https://open.spotify.com/track/24nHidYHfPkAkdhFvv9tKL"
     },
     {
-      "added_at": "2025-04-18 00:01:29",
+      "added_at": "2026-05-01 00:02:04",
       "album": {
-        "name": "YOUR WAY'S BETTER",
-        "url": "https://open.spotify.com/album/6BDk028UnxaR4py1gf8Vtk"
+        "name": "Dzina Lau (Yahweh) [Live]",
+        "url": "https://open.spotify.com/album/76VQmBJ3M9JYlmQam36rl1"
       },
       "artists": [
         {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+          "name": "Kingdmusic",
+          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
+        },
+        {
+          "name": "Brenton Brown",
+          "url": "https://open.spotify.com/artist/3oZR0tAkfIn1YmLe1faQST"
         }
       ],
-      "duration_ms": 198082,
-      "name": "YOUR WAY'S BETTER",
-      "url": "https://open.spotify.com/track/4qrbjoNP9NZwe79Rg9IlFU"
+      "duration_ms": 565250,
+      "name": "Dzina Lau (Yahweh) - Live",
+      "url": "https://open.spotify.com/track/0pNHl233SlEV7I8AcbspkQ"
     },
     {
-      "added_at": "2024-09-20 00:01:00",
+      "added_at": "2026-05-01 00:02:04",
       "album": {
-        "name": "10,000 Reasons (Live)",
-        "url": "https://open.spotify.com/album/0av22wHGgPZRC0BkGrnVVJ"
+        "name": "My Daddy Loves Me",
+        "url": "https://open.spotify.com/album/3TIJApif55y5aPz885WiaL"
       },
       "artists": [
         {
-          "name": "Matt Redman",
-          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
+          "name": "Olamiji Rasheed",
+          "url": "https://open.spotify.com/artist/797ilaBFnTzTvavwB225LX"
+        },
+        {
+          "name": "Sunmisola Agbebi",
+          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
         }
       ],
-      "duration_ms": 342493,
-      "name": "10,000 Reasons (Bless The Lord) - Live",
-      "url": "https://open.spotify.com/track/0fxpHpK3aw2nFWII6yveDD"
+      "duration_ms": 336585,
+      "name": "My Daddy Loves Me",
+      "url": "https://open.spotify.com/track/0h5LOYHokBrfBKHDd1S0Bf"
     },
     {
       "added_at": "2026-04-24 00:01:06",
@@ -225,20 +229,36 @@
       "url": "https://open.spotify.com/track/7qqtTPQIMXAFubamFBPHG5"
     },
     {
-      "added_at": "2026-04-10 09:18:02",
+      "added_at": "2025-04-18 00:01:29",
       "album": {
-        "name": "Baruch Hashem Adonai (Live)",
-        "url": "https://open.spotify.com/album/4PnkwMHqeLtZDwSQUaLQkG"
+        "name": "YOUR WAY'S BETTER",
+        "url": "https://open.spotify.com/album/6BDk028UnxaR4py1gf8Vtk"
       },
       "artists": [
         {
-          "name": "Moses Akoh",
-          "url": "https://open.spotify.com/artist/6mUEeS22r3xn9ksKKgENrT"
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
         }
       ],
-      "duration_ms": 769365,
-      "name": "Baruch Hashem Adonai - Live",
-      "url": "https://open.spotify.com/track/3GFYW7LOG61JgKWG7b5GOQ"
+      "duration_ms": 198082,
+      "name": "YOUR WAY'S BETTER",
+      "url": "https://open.spotify.com/track/4qrbjoNP9NZwe79Rg9IlFU"
+    },
+    {
+      "added_at": "2024-09-20 00:01:00",
+      "album": {
+        "name": "10,000 Reasons (Live)",
+        "url": "https://open.spotify.com/album/0av22wHGgPZRC0BkGrnVVJ"
+      },
+      "artists": [
+        {
+          "name": "Matt Redman",
+          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
+        }
+      ],
+      "duration_ms": 342493,
+      "name": "10,000 Reasons (Bless The Lord) - Live",
+      "url": "https://open.spotify.com/track/0fxpHpK3aw2nFWII6yveDD"
     },
     {
       "added_at": "2024-02-16 00:01:00",
@@ -257,36 +277,20 @@
       "url": "https://open.spotify.com/track/1bfRXeYRGJF8aCxUpQ4yOq"
     },
     {
-      "added_at": "2026-04-24 00:01:06",
+      "added_at": "2024-09-20 00:01:00",
       "album": {
-        "name": "Izililo (Live on Freedom Day)",
-        "url": "https://open.spotify.com/album/3HQXFddTqWqHoE9lBfi2KN"
+        "name": "Casting Crowns",
+        "url": "https://open.spotify.com/album/0OET3Pft2RKmDxzpP3FcGc"
       },
       "artists": [
         {
-          "name": "We Will Worship",
-          "url": "https://open.spotify.com/artist/1GDdTeLX9EAledKnHJaZ7i"
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
         }
       ],
-      "duration_ms": 205877,
-      "name": "Pray Pray Pray - Live on Freedom Day",
-      "url": "https://open.spotify.com/track/4LBA3NfC5bTyqeiarMIqkg"
-    },
-    {
-      "added_at": "2026-04-17 00:01:34",
-      "album": {
-        "name": "Living Water (Live)",
-        "url": "https://open.spotify.com/album/4WVc8QgPdL4HX9v3ijsBY7"
-      },
-      "artists": [
-        {
-          "name": "LaKendria Ujah",
-          "url": "https://open.spotify.com/artist/6W9EZhC63QLxDCmOYmDYzb"
-        }
-      ],
-      "duration_ms": 384093,
-      "name": "Living Water - Live",
-      "url": "https://open.spotify.com/track/1qzGNhKEjKDqZuK5IO5gyp"
+      "duration_ms": 335906,
+      "name": "Who Am I",
+      "url": "https://open.spotify.com/track/5VUQsLff8A3ruAyCdTxqzg"
     },
     {
       "added_at": "2026-01-09 00:01:27",
@@ -377,20 +381,24 @@
       "url": "https://open.spotify.com/track/1a5o3ggaPXvJQ4jpJse1G7"
     },
     {
-      "added_at": "2026-04-03 00:01:44",
+      "added_at": "2026-05-01 00:02:04",
       "album": {
-        "name": "I KNOW A GOD (LIVE)",
-        "url": "https://open.spotify.com/album/6N02fLeSWLoq2ECDib0dGr"
+        "name": "Ko Le Baje II",
+        "url": "https://open.spotify.com/album/3tolOQi728XdH4e4SZVK6R"
       },
       "artists": [
         {
-          "name": "Richy Okechukwu",
-          "url": "https://open.spotify.com/artist/1xx5Qcso7kYFgcZgnfoqGW"
+          "name": "John Cohen",
+          "url": "https://open.spotify.com/artist/2FtfAArq8K0ErCdNtzwK4T"
+        },
+        {
+          "name": "Paul Tomisin",
+          "url": "https://open.spotify.com/artist/5lFNvgjjW0gug2hAG5RPrQ"
         }
       ],
-      "duration_ms": 416389,
-      "name": "I KNOW A GOD (LIVE)",
-      "url": "https://open.spotify.com/track/4mpSOJVupkJ6LKr1BVVhs6"
+      "duration_ms": 232500,
+      "name": "Ko Le Baje II",
+      "url": "https://open.spotify.com/track/20z25vY1zdO2VqOSYsRpoU"
     },
     {
       "added_at": "2026-03-20 00:01:37",
@@ -429,48 +437,20 @@
       "url": "https://open.spotify.com/track/3l6ek8A46LHzqPDSbWfBXw"
     },
     {
-      "added_at": "2026-04-17 00:01:34",
+      "added_at": "2026-05-01 00:02:04",
       "album": {
-        "name": "Jesu O (Live)",
-        "url": "https://open.spotify.com/album/5oISUI4BzFdWp7qwe1UEjB"
+        "name": "This Year",
+        "url": "https://open.spotify.com/album/4KCAVGCDc6aaAv2VcgZ2LE"
       },
       "artists": [
         {
-          "name": "Minstrel John Leke",
-          "url": "https://open.spotify.com/artist/4Y9c0hrqtHikpZFb7lif8o"
-        },
-        {
-          "name": "Shiloh-JewEl Idoko",
-          "url": "https://open.spotify.com/artist/4X05DqwYWzocKj5vpmzfGa"
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
         }
       ],
-      "duration_ms": 676848,
-      "name": "Jesu O (Live)",
-      "url": "https://open.spotify.com/track/4hN0MbGDinXaKHVyHiddwr"
-    },
-    {
-      "added_at": "2026-04-03 00:01:44",
-      "album": {
-        "name": "Worthy",
-        "url": "https://open.spotify.com/album/1Ye2PTve8bZ4ooIkiPTy6S"
-      },
-      "artists": [
-        {
-          "name": "Pv Idemudia",
-          "url": "https://open.spotify.com/artist/0iE6uT4YVh808x9A2iWJ9D"
-        },
-        {
-          "name": "Kolawole Bekes",
-          "url": "https://open.spotify.com/artist/7tLyiCHrnIe6aEsEDoAybu"
-        },
-        {
-          "name": "YYC Worship",
-          "url": "https://open.spotify.com/artist/4Kd2x5UzbYmB9icNKsYIzc"
-        }
-      ],
-      "duration_ms": 722000,
-      "name": "Worthy",
-      "url": "https://open.spotify.com/track/7A9tLnXKOViEouTjNuAPpS"
+      "duration_ms": 310378,
+      "name": "This Year",
+      "url": "https://open.spotify.com/track/4omnYsoOhYFIVPg3a3H7f9"
     },
     {
       "added_at": "2024-09-20 00:01:00",
@@ -499,22 +479,6 @@
     {
       "added_at": "2024-09-20 00:01:00",
       "album": {
-        "name": "Casting Crowns",
-        "url": "https://open.spotify.com/album/0OET3Pft2RKmDxzpP3FcGc"
-      },
-      "artists": [
-        {
-          "name": "Casting Crowns",
-          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
-        }
-      ],
-      "duration_ms": 335906,
-      "name": "Who Am I",
-      "url": "https://open.spotify.com/track/5VUQsLff8A3ruAyCdTxqzg"
-    },
-    {
-      "added_at": "2024-09-20 00:01:00",
-      "album": {
         "name": "And If Our God Is For Us...",
         "url": "https://open.spotify.com/album/2xwFfH8fO1MRmWZbNKZVqt"
       },
@@ -527,6 +491,38 @@
       "duration_ms": 285160,
       "name": "Our God",
       "url": "https://open.spotify.com/track/40lKptao1hxVqA7fd1OOGp"
+    },
+    {
+      "added_at": "2026-05-01 00:02:04",
+      "album": {
+        "name": "Hallelujah (My song forever)",
+        "url": "https://open.spotify.com/album/6UgiLt6pBAO7zYE6ZobtAQ"
+      },
+      "artists": [
+        {
+          "name": "Hallel Community Choir",
+          "url": "https://open.spotify.com/artist/6txrzyX5bSbN3ccS7PDvWH"
+        },
+        {
+          "name": "Manus Akpanke",
+          "url": "https://open.spotify.com/artist/3z8JjgzStBjRJWeX0MzYCL"
+        },
+        {
+          "name": "CJ Nonso",
+          "url": "https://open.spotify.com/artist/5xZ3TZKzgqhGpJ65skKK8F"
+        },
+        {
+          "name": "Oluwapelumi",
+          "url": "https://open.spotify.com/artist/7zoB4wcPhhtJx1UVzNvKAE"
+        },
+        {
+          "name": "Joshua Ekpenyong",
+          "url": "https://open.spotify.com/artist/7a8htg4PeSTDKXdY3wZwy5"
+        }
+      ],
+      "duration_ms": 500661,
+      "name": "Hallelujah (My song forever)",
+      "url": "https://open.spotify.com/track/2AUFfb517wmHQoDxxGg3TU"
     },
     {
       "added_at": "2023-04-21 00:01:00",
@@ -551,6 +547,22 @@
       "duration_ms": 524757,
       "name": "Firm Foundation (He Won't)[Feat. Chandler Moore]",
       "url": "https://open.spotify.com/track/16UFXi7IGVGG1mUSBMHfh2"
+    },
+    {
+      "added_at": "2024-07-05 00:01:00",
+      "album": {
+        "name": "Believe For It",
+        "url": "https://open.spotify.com/album/5UXG9YjxHZu7l4tTNjwIYX"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 297693,
+      "name": "Goodness Of God - Live",
+      "url": "https://open.spotify.com/track/59uuKDpLFhHtCWwMudospF"
     },
     {
       "added_at": "2026-04-03 00:01:44",
@@ -589,22 +601,6 @@
       "url": "https://open.spotify.com/track/7keSeJsCKZCTGq2bv03jnN"
     },
     {
-      "added_at": "2024-07-05 00:01:00",
-      "album": {
-        "name": "Believe For It",
-        "url": "https://open.spotify.com/album/5UXG9YjxHZu7l4tTNjwIYX"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 297693,
-      "name": "Goodness Of God - Live",
-      "url": "https://open.spotify.com/track/59uuKDpLFhHtCWwMudospF"
-    },
-    {
       "added_at": "2024-09-20 00:01:00",
       "album": {
         "name": "How Great Is Our God: The Essential Collection",
@@ -639,6 +635,22 @@
       "duration_ms": 646239,
       "name": "Promises (feat. Joe L Barnes, Naomi Raine)",
       "url": "https://open.spotify.com/track/5suRrn5N4HNeRXOpBTdmZt"
+    },
+    {
+      "added_at": "2026-05-01 00:02:04",
+      "album": {
+        "name": "In Christ",
+        "url": "https://open.spotify.com/album/5ybMjgv2x3TL1Ewfls9gLT"
+      },
+      "artists": [
+        {
+          "name": "Obongama Jacobs",
+          "url": "https://open.spotify.com/artist/1Qs0QVUr4IIelaB0MfqqZx"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "In Christ",
+      "url": "https://open.spotify.com/track/3QmrSorHWKEqGWaQW79CuN"
     },
     {
       "added_at": "2026-04-03 00:01:44",
@@ -1253,6 +1265,22 @@
       "url": "https://open.spotify.com/track/5v5njFL7J6kb2ncCsgXszl"
     },
     {
+      "added_at": "2024-02-16 00:01:00",
+      "album": {
+        "name": "Spirit Chant",
+        "url": "https://open.spotify.com/album/7FzNCkKKqToJjJGXFhWkrf"
+      },
+      "artists": [
+        {
+          "name": "Victoria Orenze",
+          "url": "https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso"
+        }
+      ],
+      "duration_ms": 610103,
+      "name": "Spirit Chant",
+      "url": "https://open.spotify.com/track/6SmLWZs2HkAX17zcvFGcln"
+    },
+    {
       "added_at": "2025-11-14 00:01:35",
       "album": {
         "name": "Anchor of My Strength",
@@ -1271,22 +1299,6 @@
       "duration_ms": 190293,
       "name": "Anchor of My Strength",
       "url": "https://open.spotify.com/track/4TEFKBeXAE20j69TpHFFK7"
-    },
-    {
-      "added_at": "2024-02-16 00:01:00",
-      "album": {
-        "name": "Spirit Chant",
-        "url": "https://open.spotify.com/album/7FzNCkKKqToJjJGXFhWkrf"
-      },
-      "artists": [
-        {
-          "name": "Victoria Orenze",
-          "url": "https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso"
-        }
-      ],
-      "duration_ms": 610103,
-      "name": "Spirit Chant",
-      "url": "https://open.spotify.com/track/6SmLWZs2HkAX17zcvFGcln"
     },
     {
       "added_at": "2025-03-28 00:01:10",

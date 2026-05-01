@@ -1,6 +1,6 @@
 {
   "description": "Nagrody rozdane! Pos\u0142uchaj zwyci\u0119zc\u00f3w i  nominowanych utwor\u00f3w w kategorii singiel roku. ",
-  "num_followers": 11828,
+  "num_followers": 11825,
   "original_name": "Popkillery 2026: Singiel Roku",
   "owner": {
     "name": "Spotify",
@@ -279,6 +279,22 @@
     {
       "added_at": "2026-04-09 22:12:46",
       "album": {
+        "name": "Hit 'Em Up",
+        "url": "https://open.spotify.com/album/2suN9YZB6olORWdNYAvCxZ"
+      },
+      "artists": [
+        {
+          "name": "Bedoes 2115",
+          "url": "https://open.spotify.com/artist/0LX2VNf5w4iOHW1yyIqb74"
+        }
+      ],
+      "duration_ms": 250785,
+      "name": "Hit 'Em Up",
+      "url": "https://open.spotify.com/track/4nqAUn2LswZDBTq6Eewevy"
+    },
+    {
+      "added_at": "2026-04-09 22:12:46",
+      "album": {
         "name": "NEXT",
         "url": "https://open.spotify.com/album/2WO3Kt3oLo4ApWcy6nFkQo"
       },
@@ -319,22 +335,6 @@
       "duration_ms": 219566,
       "name": "Tenten",
       "url": "https://open.spotify.com/track/6EifQP3TYilOa16wDKFyqR"
-    },
-    {
-      "added_at": "2026-04-09 22:12:46",
-      "album": {
-        "name": "Hit 'Em Up",
-        "url": "https://open.spotify.com/album/2suN9YZB6olORWdNYAvCxZ"
-      },
-      "artists": [
-        {
-          "name": "Bedoes 2115",
-          "url": "https://open.spotify.com/artist/0LX2VNf5w4iOHW1yyIqb74"
-        }
-      ],
-      "duration_ms": 250785,
-      "name": "Hit 'Em Up",
-      "url": "https://open.spotify.com/track/4nqAUn2LswZDBTq6Eewevy"
     },
     {
       "added_at": "2026-04-09 22:12:46",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2026-04-09 22:12:46",
       "album": {
+        "name": "RAPUJ KURWO (BEDOES DISS)",
+        "url": "https://open.spotify.com/album/6cdw3VdG2rPjpRx7VNcy9R"
+      },
+      "artists": [
+        {
+          "name": "Eripe",
+          "url": "https://open.spotify.com/artist/2E2h76dKcZsiyHgrQqEeyL"
+        }
+      ],
+      "duration_ms": 178723,
+      "name": "RAPUJ KURWO (BEDOES DISS)",
+      "url": "https://open.spotify.com/track/0vXFqNThA5L4SPGvdda9xq"
+    },
+    {
+      "added_at": "2026-04-09 22:12:46",
+      "album": {
         "name": "Czwarta Rano",
         "url": "https://open.spotify.com/album/6U5SqvclMhXUaI0lWlJxgp"
       },
@@ -1335,22 +1351,6 @@
       "duration_ms": 160851,
       "name": "Czwarta Rano",
       "url": "https://open.spotify.com/track/3GMbyrZOt6OsEq8id8jU4h"
-    },
-    {
-      "added_at": "2026-04-09 22:12:46",
-      "album": {
-        "name": "RAPUJ KURWO (BEDOES DISS)",
-        "url": "https://open.spotify.com/album/6cdw3VdG2rPjpRx7VNcy9R"
-      },
-      "artists": [
-        {
-          "name": "Eripe",
-          "url": "https://open.spotify.com/artist/2E2h76dKcZsiyHgrQqEeyL"
-        }
-      ],
-      "duration_ms": 178723,
-      "name": "RAPUJ KURWO (BEDOES DISS)",
-      "url": "https://open.spotify.com/track/0vXFqNThA5L4SPGvdda9xq"
     },
     {
       "added_at": "2026-04-09 22:12:46",

@@ -1,6 +1,6 @@
 {
   "description": "Your frequency for today's hottest pop tracks in Mzansi. Cover: Tyla & Zara Larsson",
-  "num_followers": 6140,
+  "num_followers": 6141,
   "original_name": "pop fm",
   "owner": {
     "name": "Spotify",
@@ -411,22 +411,6 @@
     {
       "added_at": "2026-04-23 23:59:16",
       "album": {
-        "name": "Aperture",
-        "url": "https://open.spotify.com/album/0pLJCdOvfghIEinnPXIqIx"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 311733,
-      "name": "Aperture",
-      "url": "https://open.spotify.com/track/45Z3m6yazmAi4jZuW0tzW0"
-    },
-    {
-      "added_at": "2026-04-23 23:59:16",
-      "album": {
         "name": "Cassie (U.S. Version)",
         "url": "https://open.spotify.com/album/0j1qzjaJmsF1FkcICf3hRu"
       },
@@ -443,18 +427,34 @@
     {
       "added_at": "2026-04-23 23:59:16",
       "album": {
-        "name": "What You Saying",
-        "url": "https://open.spotify.com/album/1prQBN9FUobW9g4xDDKSly"
+        "name": "Aperture",
+        "url": "https://open.spotify.com/album/0pLJCdOvfghIEinnPXIqIx"
       },
       "artists": [
         {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
         }
       ],
-      "duration_ms": 131729,
-      "name": "What You Saying",
-      "url": "https://open.spotify.com/track/7cjoZVmWe2xsGR4wcXiV2v"
+      "duration_ms": 311733,
+      "name": "Aperture",
+      "url": "https://open.spotify.com/track/45Z3m6yazmAi4jZuW0tzW0"
+    },
+    {
+      "added_at": "2026-04-23 23:59:16",
+      "album": {
+        "name": "Mu\u00e9velo",
+        "url": "https://open.spotify.com/album/6tKu7fGPGQyKD1nbSMWTje"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 127366,
+      "name": "Mu\u00e9velo",
+      "url": "https://open.spotify.com/track/7N3mR4WnEuq1MUQlxb6JWH"
     },
     {
       "added_at": "2026-04-23 23:59:16",
@@ -475,18 +475,18 @@
     {
       "added_at": "2026-04-23 23:59:16",
       "album": {
-        "name": "Mu\u00e9velo",
-        "url": "https://open.spotify.com/album/6tKu7fGPGQyKD1nbSMWTje"
+        "name": "What You Saying",
+        "url": "https://open.spotify.com/album/1prQBN9FUobW9g4xDDKSly"
       },
       "artists": [
         {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
         }
       ],
-      "duration_ms": 127366,
-      "name": "Mu\u00e9velo",
-      "url": "https://open.spotify.com/track/7N3mR4WnEuq1MUQlxb6JWH"
+      "duration_ms": 131729,
+      "name": "What You Saying",
+      "url": "https://open.spotify.com/track/7cjoZVmWe2xsGR4wcXiV2v"
     },
     {
       "added_at": "2026-04-23 23:59:16",
@@ -615,22 +615,6 @@
     {
       "added_at": "2026-04-23 23:59:16",
       "album": {
-        "name": "Waist",
-        "url": "https://open.spotify.com/album/4aRqZD1I60EoU85eNCVAil"
-      },
-      "artists": [
-        {
-          "name": "OMAH LAY",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 165625,
-      "name": "Waist",
-      "url": "https://open.spotify.com/track/3sW9XZW5xK95CXBHrwNFiK"
-    },
-    {
-      "added_at": "2026-04-23 23:59:16",
-      "album": {
         "name": "Brat and it\u2019s completely different but also still brat",
         "url": "https://open.spotify.com/album/36P07bti6xD99o7S1acmin"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 203945,
       "name": "Everything is romantic featuring caroline polachek",
       "url": "https://open.spotify.com/track/1RGidCmtrqER8GBs8TnG9C"
+    },
+    {
+      "added_at": "2026-04-23 23:59:16",
+      "album": {
+        "name": "Waist",
+        "url": "https://open.spotify.com/album/4aRqZD1I60EoU85eNCVAil"
+      },
+      "artists": [
+        {
+          "name": "OMAH LAY",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 165625,
+      "name": "Waist",
+      "url": "https://open.spotify.com/track/3sW9XZW5xK95CXBHrwNFiK"
     },
     {
       "added_at": "2026-04-23 23:59:16",
@@ -803,6 +803,22 @@
     {
       "added_at": "2026-04-23 23:59:16",
       "album": {
+        "name": "BAD ASS F*CKING KID",
+        "url": "https://open.spotify.com/album/2j74DNrJ8TgnMEukERqnnm"
+      },
+      "artists": [
+        {
+          "name": "Nettspend",
+          "url": "https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA"
+        }
+      ],
+      "duration_ms": 123783,
+      "name": "Tyla",
+      "url": "https://open.spotify.com/track/71ntODiMqKLIyFFmw1Kj5M"
+    },
+    {
+      "added_at": "2026-04-23 23:59:16",
+      "album": {
         "name": "Ola Sbali",
         "url": "https://open.spotify.com/album/7bZcVI4cbAVAfUFweMvnHh"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 188971,
       "name": "Ola Sbali",
       "url": "https://open.spotify.com/track/391opnl1D5Br9GaTmRHcjv"
-    },
-    {
-      "added_at": "2026-04-23 23:59:16",
-      "album": {
-        "name": "BAD ASS F*CKING KID",
-        "url": "https://open.spotify.com/album/2j74DNrJ8TgnMEukERqnnm"
-      },
-      "artists": [
-        {
-          "name": "Nettspend",
-          "url": "https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA"
-        }
-      ],
-      "duration_ms": 123783,
-      "name": "Tyla",
-      "url": "https://open.spotify.com/track/71ntODiMqKLIyFFmw1Kj5M"
     },
     {
       "added_at": "2026-04-23 23:59:16",
@@ -907,22 +907,6 @@
     {
       "added_at": "2026-04-23 23:59:16",
       "album": {
-        "name": "Feel Something",
-        "url": "https://open.spotify.com/album/21S9OMKqLkJdLjNHRzGYH0"
-      },
-      "artists": [
-        {
-          "name": "Baby Queen",
-          "url": "https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd"
-        }
-      ],
-      "duration_ms": 189898,
-      "name": "Feel Something",
-      "url": "https://open.spotify.com/track/0Rdt95TmRN3kzIesX6mUl4"
-    },
-    {
-      "added_at": "2026-04-23 23:59:16",
-      "album": {
         "name": "A Matter of Time",
         "url": "https://open.spotify.com/album/3ZWIfcV7tylRzVh6amRaDv"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 164400,
       "name": "Lover Girl",
       "url": "https://open.spotify.com/track/3E619cvUK3bgsm4xH9A34H"
+    },
+    {
+      "added_at": "2026-04-23 23:59:16",
+      "album": {
+        "name": "Feel Something",
+        "url": "https://open.spotify.com/album/21S9OMKqLkJdLjNHRzGYH0"
+      },
+      "artists": [
+        {
+          "name": "Baby Queen",
+          "url": "https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd"
+        }
+      ],
+      "duration_ms": 189898,
+      "name": "Feel Something",
+      "url": "https://open.spotify.com/track/0Rdt95TmRN3kzIesX6mUl4"
     },
     {
       "added_at": "2026-04-23 23:59:16",
@@ -975,6 +975,22 @@
     {
       "added_at": "2026-04-23 23:59:16",
       "album": {
+        "name": "All The Things",
+        "url": "https://open.spotify.com/album/2RGi75eKSdLPC99WnzMggs"
+      },
+      "artists": [
+        {
+          "name": "Joya Mooi",
+          "url": "https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "All The Things",
+      "url": "https://open.spotify.com/track/0Wknp7wThnRkNl2xw4h19g"
+    },
+    {
+      "added_at": "2026-04-23 23:59:16",
+      "album": {
         "name": "I Was Never Alone",
         "url": "https://open.spotify.com/album/5B1XzMm6IQwGvHKKkVAchY"
       },
@@ -1007,22 +1023,6 @@
     {
       "added_at": "2026-04-23 23:59:16",
       "album": {
-        "name": "All The Things",
-        "url": "https://open.spotify.com/album/2RGi75eKSdLPC99WnzMggs"
-      },
-      "artists": [
-        {
-          "name": "Joya Mooi",
-          "url": "https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "All The Things",
-      "url": "https://open.spotify.com/track/0Wknp7wThnRkNl2xw4h19g"
-    },
-    {
-      "added_at": "2026-04-23 23:59:16",
-      "album": {
         "name": "About U",
         "url": "https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY"
       },
@@ -1035,22 +1035,6 @@
       "duration_ms": 254115,
       "name": "If U Love Me Now",
       "url": "https://open.spotify.com/track/7ejMPghq8mBbo6QzIAWWmi"
-    },
-    {
-      "added_at": "2026-04-23 23:59:16",
-      "album": {
-        "name": "Popstar Party",
-        "url": "https://open.spotify.com/album/5qbv9ptUdlcivvSSOXc7UG"
-      },
-      "artists": [
-        {
-          "name": "taves",
-          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
-        }
-      ],
-      "duration_ms": 188764,
-      "name": "Popstar Party",
-      "url": "https://open.spotify.com/track/6ijobO5xJ1NgPGiC7evca8"
     },
     {
       "added_at": "2026-04-23 23:59:16",
@@ -1071,18 +1055,34 @@
     {
       "added_at": "2026-04-23 23:59:16",
       "album": {
-        "name": "Ted Mosby",
-        "url": "https://open.spotify.com/album/3eEH6dpJaarICwy9yp2vKC"
+        "name": "Popstar Party",
+        "url": "https://open.spotify.com/album/5qbv9ptUdlcivvSSOXc7UG"
       },
       "artists": [
         {
-          "name": "Sir Silly",
-          "url": "https://open.spotify.com/artist/0HwrBLxXMAzq5e7hfYgHcO"
+          "name": "taves",
+          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
         }
       ],
-      "duration_ms": 171000,
-      "name": "Ted Mosby",
-      "url": "https://open.spotify.com/track/0MEHbAg96M5HJMsRYPVDeU"
+      "duration_ms": 188764,
+      "name": "Popstar Party",
+      "url": "https://open.spotify.com/track/6ijobO5xJ1NgPGiC7evca8"
+    },
+    {
+      "added_at": "2026-04-23 23:59:16",
+      "album": {
+        "name": "My Sweet Lullaby",
+        "url": "https://open.spotify.com/album/2ajFNHtrid9V6L7xpJArQ5"
+      },
+      "artists": [
+        {
+          "name": "Anacy",
+          "url": "https://open.spotify.com/artist/2oXqSYj1115os7ZUoEAEd0"
+        }
+      ],
+      "duration_ms": 205677,
+      "name": "My Sweet Lullaby",
+      "url": "https://open.spotify.com/track/3BDgGxMhSXgN09ZoePXBp4"
     },
     {
       "added_at": "2026-04-23 23:59:16",
@@ -1107,18 +1107,18 @@
     {
       "added_at": "2026-04-23 23:59:16",
       "album": {
-        "name": "My Sweet Lullaby",
-        "url": "https://open.spotify.com/album/2ajFNHtrid9V6L7xpJArQ5"
+        "name": "Ted Mosby",
+        "url": "https://open.spotify.com/album/3eEH6dpJaarICwy9yp2vKC"
       },
       "artists": [
         {
-          "name": "Anacy",
-          "url": "https://open.spotify.com/artist/2oXqSYj1115os7ZUoEAEd0"
+          "name": "Sir Silly",
+          "url": "https://open.spotify.com/artist/0HwrBLxXMAzq5e7hfYgHcO"
         }
       ],
-      "duration_ms": 205677,
-      "name": "My Sweet Lullaby",
-      "url": "https://open.spotify.com/track/3BDgGxMhSXgN09ZoePXBp4"
+      "duration_ms": 171000,
+      "name": "Ted Mosby",
+      "url": "https://open.spotify.com/track/0MEHbAg96M5HJMsRYPVDeU"
     },
     {
       "added_at": "2026-04-23 23:59:16",
@@ -1191,26 +1191,18 @@
     {
       "added_at": "2026-04-23 23:59:16",
       "album": {
-        "name": "Elementary 2",
-        "url": "https://open.spotify.com/album/0EfX9usYFZFjFP0c6vW50y"
+        "name": "180\u00b0",
+        "url": "https://open.spotify.com/album/42lKdcpikEyCPO87oOHAc9"
       },
       "artists": [
         {
-          "name": "Rhedi",
-          "url": "https://open.spotify.com/artist/6i90MGejsqG2b8XgqDlTUI"
-        },
-        {
-          "name": "Chiddy Bang",
-          "url": "https://open.spotify.com/artist/40giwFcTQtv9ezxW8yqxJU"
-        },
-        {
-          "name": "Young Chux",
-          "url": "https://open.spotify.com/artist/0Wb7p2SqDf9Efet2UUhvjb"
+          "name": "Addison Dean",
+          "url": "https://open.spotify.com/artist/76q2t3ghKRSAyWww2LZ9Kk"
         }
       ],
-      "duration_ms": 164204,
-      "name": "Late Adolescence",
-      "url": "https://open.spotify.com/track/5gewN6F0jBrEkvwVz8C2ac"
+      "duration_ms": 169671,
+      "name": "180\u00b0",
+      "url": "https://open.spotify.com/track/7ckom0ejIcK5XxdoY39iAL"
     },
     {
       "added_at": "2026-04-23 23:59:16",
@@ -1231,18 +1223,42 @@
     {
       "added_at": "2026-04-23 23:59:16",
       "album": {
-        "name": "180\u00b0",
-        "url": "https://open.spotify.com/album/42lKdcpikEyCPO87oOHAc9"
+        "name": "THIRTY THR33",
+        "url": "https://open.spotify.com/album/6nWpLB3vPx87yFsRxTf8tz"
       },
       "artists": [
         {
-          "name": "Addison Dean",
-          "url": "https://open.spotify.com/artist/76q2t3ghKRSAyWww2LZ9Kk"
+          "name": "Erin Elliot",
+          "url": "https://open.spotify.com/artist/7rDA3BljVoWImjvRZ1wEa1"
         }
       ],
-      "duration_ms": 169671,
-      "name": "180\u00b0",
-      "url": "https://open.spotify.com/track/7ckom0ejIcK5XxdoY39iAL"
+      "duration_ms": 176656,
+      "name": "THIRTY THR33",
+      "url": "https://open.spotify.com/track/72ENQ88U6QPVJKjeco45lW"
+    },
+    {
+      "added_at": "2026-04-23 23:59:16",
+      "album": {
+        "name": "Elementary 2",
+        "url": "https://open.spotify.com/album/0EfX9usYFZFjFP0c6vW50y"
+      },
+      "artists": [
+        {
+          "name": "Rhedi",
+          "url": "https://open.spotify.com/artist/6i90MGejsqG2b8XgqDlTUI"
+        },
+        {
+          "name": "Chiddy Bang",
+          "url": "https://open.spotify.com/artist/40giwFcTQtv9ezxW8yqxJU"
+        },
+        {
+          "name": "Young Chux",
+          "url": "https://open.spotify.com/artist/0Wb7p2SqDf9Efet2UUhvjb"
+        }
+      ],
+      "duration_ms": 164204,
+      "name": "Late Adolescence",
+      "url": "https://open.spotify.com/track/5gewN6F0jBrEkvwVz8C2ac"
     },
     {
       "added_at": "2026-04-23 23:59:16",
@@ -1275,22 +1291,6 @@
       "duration_ms": 166230,
       "name": "THE GOOD LIFE",
       "url": "https://open.spotify.com/track/7hnNvjDcXTTf7Jx2Z9bB2S"
-    },
-    {
-      "added_at": "2026-04-23 23:59:16",
-      "album": {
-        "name": "THIRTY THR33",
-        "url": "https://open.spotify.com/album/6nWpLB3vPx87yFsRxTf8tz"
-      },
-      "artists": [
-        {
-          "name": "Erin Elliot",
-          "url": "https://open.spotify.com/artist/7rDA3BljVoWImjvRZ1wEa1"
-        }
-      ],
-      "duration_ms": 176656,
-      "name": "THIRTY THR33",
-      "url": "https://open.spotify.com/track/72ENQ88U6QPVJKjeco45lW"
     },
     {
       "added_at": "2026-04-23 23:59:16",

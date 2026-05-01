@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Toxic",
-  "num_followers": 69194,
+  "num_followers": 69211,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGYHlClzUWZx6ct+SOBajOpFfOGu",
+  "snapshot_id": "AAAAAMoTfTAz0UZwQ2b0VlO6IQNF53jw",
   "tracks": [
     {
       "added_at": "2026-03-02 07:46:32",
@@ -53,6 +53,34 @@
       "url": "https://open.spotify.com/track/2MK6NIxLfVPwfjd3RMRbVz"
     },
     {
+      "added_at": "2026-04-30 09:33:19",
+      "album": {
+        "name": "KD (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/52HB4F6DHU7Mxwyn1F03Ao"
+      },
+      "artists": [
+        {
+          "name": "Arjun Janya",
+          "url": "https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ"
+        },
+        {
+          "name": "Manjunath B S",
+          "url": "https://open.spotify.com/artist/18tf8gc9uQDYnlzhAR3Jwl"
+        },
+        {
+          "name": "Prem's",
+          "url": "https://open.spotify.com/artist/0gbdi05gJIGYtDMiQ5kbN5"
+        },
+        {
+          "name": "Kailash Kher",
+          "url": "https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4"
+        }
+      ],
+      "duration_ms": 208557,
+      "name": "Shiva Shiva",
+      "url": "https://open.spotify.com/track/2O7Y9WOk0WF7CnLJj1PCQM"
+    },
+    {
       "added_at": "2026-04-16 14:47:26",
       "album": {
         "name": "Bengaluru Inn Title Track (From \"Bengaluru Inn\")",
@@ -79,6 +107,30 @@
       "duration_ms": 272903,
       "name": "Bengaluru Inn Title Track (From \"Bengaluru Inn\")",
       "url": "https://open.spotify.com/track/02B3FwkxcHWv4oShA8pnoS"
+    },
+    {
+      "added_at": "2026-04-30 09:32:32",
+      "album": {
+        "name": "Allondu Illondu (From \"Shrimathi Sindhoora\")",
+        "url": "https://open.spotify.com/album/514HS5Ogx2qMVLnj9l3Ns8"
+      },
+      "artists": [
+        {
+          "name": "Rajesh Ramnath",
+          "url": "https://open.spotify.com/artist/16LPsxS42glKWRU6GVoaTC"
+        },
+        {
+          "name": "Kaviraj",
+          "url": "https://open.spotify.com/artist/4QGaxjeQKdSWgWzzwUa1tM"
+        },
+        {
+          "name": "Hemanth",
+          "url": "https://open.spotify.com/artist/0qAzLiq8xpR9JbRRehpbja"
+        }
+      ],
+      "duration_ms": 254874,
+      "name": "Allondu Illondu (From \"Shrimathi Sindhoora\")",
+      "url": "https://open.spotify.com/track/5CM14jcrvDDXcdoMIN9eZh"
     },
     {
       "added_at": "2026-04-22 06:56:53",
@@ -1673,34 +1725,6 @@
       "url": "https://open.spotify.com/track/0EoRM5UoXS4VXVdjzDDgFx"
     },
     {
-      "added_at": "2026-01-30 08:51:49",
-      "album": {
-        "name": "Gulabi Baby (From \"Alpha # Men Love Vengeance\")",
-        "url": "https://open.spotify.com/album/2nFMjzz1SQ1RStlE7PXOz2"
-      },
-      "artists": [
-        {
-          "name": "Rahul Nambiar",
-          "url": "https://open.spotify.com/artist/5a2WF7juQ5oilpZCqikRtP"
-        },
-        {
-          "name": "Ankita Kundu",
-          "url": "https://open.spotify.com/artist/0AyBrWlYwDQOsrN1xxOmkG"
-        },
-        {
-          "name": "J. Anoop Seelin",
-          "url": "https://open.spotify.com/artist/6ALy9cwte5hjLcjAjCxu4R"
-        },
-        {
-          "name": "Nagarjun Sharma",
-          "url": "https://open.spotify.com/artist/0uXY8mYhnn5FqdsmxYbKbk"
-        }
-      ],
-      "duration_ms": 197234,
-      "name": "Gulabi Baby (From \"Alpha # Men Love Vengeance\")",
-      "url": "https://open.spotify.com/track/22RUg8QPJe3Hfe4gRUKWTs"
-    },
-    {
       "added_at": "2026-02-02 11:07:54",
       "album": {
         "name": "Tulasi",
@@ -1747,38 +1771,6 @@
       "duration_ms": 197173,
       "name": "Kanaso Nanaso (From \"Bayakegalu Beruridaga\")",
       "url": "https://open.spotify.com/track/0wVH8wvWv2qfZTGQx5CUVT"
-    },
-    {
-      "added_at": "2026-01-27 12:14:26",
-      "album": {
-        "name": "Modala Notake (From \"Bayakegalu Beruridaga\")",
-        "url": "https://open.spotify.com/album/3a8TFQbhKXOfjJ7V18fXE2"
-      },
-      "artists": [
-        {
-          "name": "Ajay Warrier",
-          "url": "https://open.spotify.com/artist/3fm9JRsdbk49ZolYmobgeC"
-        },
-        {
-          "name": "Manasa Holla",
-          "url": "https://open.spotify.com/artist/1y81jcpvokCJQXfGs8HWTL"
-        },
-        {
-          "name": "Karthik Venkatesh",
-          "url": "https://open.spotify.com/artist/4eMDiDZnpRf8NhkIYjo2VN"
-        },
-        {
-          "name": "Yatish John Kumar",
-          "url": "https://open.spotify.com/artist/1yQN8nCulZtOxgOGzHnqND"
-        },
-        {
-          "name": "Akarsh Aditya",
-          "url": "https://open.spotify.com/artist/7AGh6O4t1N9IbGLxx56jMo"
-        }
-      ],
-      "duration_ms": 327520,
-      "name": "Modala Notake (From \"Bayakegalu Beruridaga\")",
-      "url": "https://open.spotify.com/track/5wNyoDsZzgnIKI89cquteq"
     },
     {
       "added_at": "2026-01-28 14:37:12",

@@ -2,9 +2,9 @@
 
 ### [最Hit華語榜](https://open.spotify.com/playlist/37i9dQZF1DWWqC43bGTcPc)
 
-> 最新最 HITO 的華語流行歌曲就在這立即收聽！Cover: 周杰倫
+> 最新最 HITO 的華語流行歌曲就在這立即收聽！Cover: 陳華
 
-1,189 songs - 3 day 2 hr 0 min
+1,191 songs - 3 day 2 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -627,7 +627,7 @@
 | [愛人啊](https://open.spotify.com/track/25xNOTRruhGpcypJRYn33l) | [Jerry Yan](https://open.spotify.com/artist/2WkfI6UZfc7Ohpyba7d086), [Ashin Chen](https://open.spotify.com/artist/6H93wOohK6r1MwGh41Z4Nb) | [愛人啊](https://open.spotify.com/album/0x8MMtvpmQ8GhO3u1FgtPL) | 3:43 | 2026-01-12 | 2026-01-27 |
 | [愛人啊](https://open.spotify.com/track/7dkMy9Ghz23ZZYMS4u5DXX) | [Princess Ai](https://open.spotify.com/artist/71l6Wfk7PaTVPAOH7ln56V) | [愛人啊](https://open.spotify.com/album/2KJIjqUFgYJEpvg4vdoLps) | 4:00 | 2025-05-05 | 2025-05-13 |
 | [愛人與被愛的姿態](https://open.spotify.com/track/0JSVc8Y0twd0sUGTZOThyY) | [Sweet John](https://open.spotify.com/artist/78UcIEW1VFh2WOgNk0E7mm) | [GOOD AFTERNIGHT](https://open.spotify.com/album/1VUk2a1DJkLjRuUt5WaC27) | 3:17 | 2025-11-03 | 2025-11-11 |
-| [愛你但說不出口](https://open.spotify.com/track/5CCV2xxYnI7b1wFkP1gElh) | [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK) | [愛你但說不出口](https://open.spotify.com/album/4pFJjjZj3N3MV20Em5DX3a) | 2:59 | 2024-07-29 | 2025-03-11 |
+| [愛你但說不出口](https://open.spotify.com/track/5CCV2xxYnI7b1wFkP1gElh) | [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK) | [愛你但說不出口](https://open.spotify.com/album/4pFJjjZj3N3MV20Em5DX3a) | 2:59 | 2024-07-29 |  |
 | [愛你只能默默的守護你](https://open.spotify.com/track/7dNQEfAvdlp9zY4ysXa0ML) | [Lai](https://open.spotify.com/artist/7tbfeiO8CyfySSll1zFmqB) | [愛你只能默默的守護你](https://open.spotify.com/album/4PmbD6vqjk2E3sHo2wPMtV) | 4:14 | 2024-10-07 | 2024-10-15 |
 | [愛你愛到忘了自己](https://open.spotify.com/track/0Z6e232knPa5DMlic07MgX) | [郭家瑋](https://open.spotify.com/artist/5EZkv9iiDdCJvhSQaRMj2X) | [愛你愛到忘了自己](https://open.spotify.com/album/0T7wpc2b2IQyrX9t3X0spK) | 3:27 | 2024-06-03 | 2024-06-11 |
 | [愛你的兩個我](https://open.spotify.com/track/0O8Oi6BdJN7DVCx7f2p5cB) | [郭家瑋](https://open.spotify.com/artist/5EZkv9iiDdCJvhSQaRMj2X) | [愛你的兩個我](https://open.spotify.com/album/1OuGTXCkVZbZKQNY1yazaC) | 3:59 | 2024-04-29 | 2024-05-07 |
@@ -793,6 +793,7 @@
 | [更值得的人](https://open.spotify.com/track/09cBtEcuRDwYEgT1OvtUJ4) | [Princess Ai](https://open.spotify.com/artist/71l6Wfk7PaTVPAOH7ln56V) | [更值得的人](https://open.spotify.com/album/3yg1UZX6rhx0B6AUnN8BZW) | 3:50 | 2024-05-20 | 2024-05-28 |
 | [曾經如今](https://open.spotify.com/track/2JJt6Htt2idNEPrypw46MZ) | [Della](https://open.spotify.com/artist/1EUq1MC4vfYYxcVK9aJnXf) | [《愛了100萬次的我》新歌經典自選輯](https://open.spotify.com/album/2wylLEXuNZqCmhleC9UoUa) | 4:05 | 2026-02-09 |  |
 | [曾經見過太陽 \- \(Netflix影集《如果我不曾見過太陽》片頭曲\)](https://open.spotify.com/track/6QAC2kPQOI51fMHZIqJhWi) | [Shi Shi](https://open.spotify.com/artist/4XKp9GFAQfsh2NflSRnHQi) | [曾經見過太陽 \(Netflix影集《如果我不曾見過太陽》片頭曲\)](https://open.spotify.com/album/09wivwo5tBQ8NiaBGAAJVM) | 3:39 | 2025-11-24 | 2026-02-03 |
+| [替我照顧她](https://open.spotify.com/track/0pLEJ55q0wgUSCQ4PpWoHq) | [ANGIE安吉](https://open.spotify.com/artist/4FtbSiZ7Ev2pCRnowp1WIU) | [替我照顧她](https://open.spotify.com/album/0vxcXv12JOfdEehcHNwdau) | 3:56 | 2026-04-30 |  |
 | [最后一页](https://open.spotify.com/track/1UdN0Q7RQedNECy1izum9N) | [王赫野](https://open.spotify.com/artist/1qkZMxvqHgNoJICJEFbgff), [姚晓棠](https://open.spotify.com/artist/0uUPgjOKvpBpxxZ4ujS2Iu) | [最后一页](https://open.spotify.com/album/1UddZWYXlhuMz7JQ0fn3mG) | 4:30 | 2024-05-20 | 2024-06-04 |
 | [最后一页 \- Live](https://open.spotify.com/track/2v7cmOj2GzxM01yMEk4qhD) | [王赫野](https://open.spotify.com/artist/5vKiHjA85LuM37NgpA9cdO), [姚晓棠](https://open.spotify.com/artist/38tuZsH8q1PdrSybN2YeHh) | [最后一页 \- Live](https://open.spotify.com/album/7Ah1nVNWwadt7EGVITCPFA) | 4:35 | 2024-07-08 | 2024-09-10 |
 | [最后一页 \- Live](https://open.spotify.com/track/0ahuxmprOO8tfKpG5Sgkt2) | [王赫野](https://open.spotify.com/artist/2sAy0e2cL6jbo0ukxlxWNJ), [姚晓棠](https://open.spotify.com/artist/011UpPnnyUWchmKVyFFByL) | [天赐的声音第五季 第1期 \(Live\)](https://open.spotify.com/album/0915EFjJnl3w6S1XuRrmIG) | 4:40 | 2024-09-09 | 2025-02-18 |
@@ -1147,6 +1148,7 @@
 | [關於失去](https://open.spotify.com/track/6kEjkdBEIdgFBiZPHxTe0y) | [Maggie Chiang](https://open.spotify.com/artist/1BZg1ebq8ftAkalzJoGq7u) | [關於失去](https://open.spotify.com/album/2PcEWs5apUV7cQIcMGye3k) | 5:03 | 2024-07-01 | 2024-07-09 |
 | [间距](https://open.spotify.com/track/3M2qCHNoAPgb1N2zhicpXk) | [于冬然](https://open.spotify.com/artist/7mJv2vnmyEbD8eyI7tMLKs) | [间距](https://open.spotify.com/album/0Nl3kLtg6NBb3BUVzHnrBR) | 3:28 | 2025-12-15 | 2025-12-23 |
 | [阿福羅火山](https://open.spotify.com/track/5aViecsXqCUW7zJwxDhiSy) | [比莉](https://open.spotify.com/artist/50PlAIy0jv3INiwksQtCeh) | [阿福羅火山](https://open.spotify.com/album/7LFfYKMc1UAPNmxjCzEB5G) | 2:23 | 2026-02-02 | 2026-02-10 |
+| [陪你到這](https://open.spotify.com/track/26zxMDfNVe4lAfx1VRmqSt) | [陳華](https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um) | [陪你到這](https://open.spotify.com/album/5k6Q1TKIjCaiXl6hd0jMhz) | 3:52 | 2026-04-30 |  |
 | [隐形人（电视剧《难哄》等待曲）](https://open.spotify.com/track/11Vu9Zo7P4JXdrDRWVyrem) | [白敬亭](https://open.spotify.com/artist/7wAeyk4fSkYVf7BPiLPkda) | [电视剧《难哄》影视原声带·只喜欢你Love Moments](https://open.spotify.com/album/7hcotSWQZpoxnAmA04vCOr) | 4:45 | 2025-03-10 | 2025-08-19 |
 | [隔著螢幕想念你](https://open.spotify.com/track/2UG57mASKdND4iQaS8EH1y) | [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM) | [隔著螢幕想念你](https://open.spotify.com/album/14X0jLPKuLpJUa3YH8wpeC) | 3:04 | 2025-05-12 | 2025-10-14 |
 | [隔著螢幕想念你](https://open.spotify.com/track/4DH5hwWBqaOHlNLJQ9muhg) | [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM) | [隔著螢幕想念你](https://open.spotify.com/album/5wA2OjoG2jgoMrk4DcSi52) | 3:04 | 2025-10-13 | 2025-12-02 |

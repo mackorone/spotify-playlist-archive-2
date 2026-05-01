@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto:CADU",
+  "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Dbraz, CADU, ROCHA.SNJ, Simba.",
   "name": "Seda",
   "tracks": [
     {
@@ -364,6 +364,24 @@
       "duration_ms": 156620,
       "name": "A MINHA VIDA DEPOIS DE TI",
       "url": "https://open.spotify.com/track/65k5sXY8UHFxNqHj0W3Hj3"
+    },
+    {
+      "album": {
+        "name": "A2",
+        "url": "https://open.spotify.com/album/0wd6LRW2h9wMbn4m4WMXMC"
+      },
+      "artists": [
+        {
+          "name": "Catarina Filipe",
+          "url": "https://open.spotify.com/artist/4OhowqCgfvzq9Fc2qcSbc8"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151100,
+      "name": "A2",
+      "url": "https://open.spotify.com/track/45gLD9Ws5GxmHHkLXlbjAy"
     },
     {
       "album": {
@@ -870,7 +888,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 165333,
       "name": "Amar De Cor",
       "url": "https://open.spotify.com/track/7lpqxqXjVuOQz6LAJLsLFw"
@@ -1780,7 +1798,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 216556,
       "name": "Barco",
       "url": "https://open.spotify.com/track/6f3wQcpYZUjnakdFmriRbF"
@@ -3260,6 +3278,36 @@
       "duration_ms": 176425,
       "name": "Clima",
       "url": "https://open.spotify.com/track/4WlMcUCtmXRHncPULo3wmK"
+    },
+    {
+      "album": {
+        "name": "Coca Cola",
+        "url": "https://open.spotify.com/album/6mxgIkGMNOlKIncNA5pX2G"
+      },
+      "artists": [
+        {
+          "name": "Dbraz",
+          "url": "https://open.spotify.com/artist/4GtbhrPCLhHRVvpMrxClZl"
+        },
+        {
+          "name": "CADU",
+          "url": "https://open.spotify.com/artist/632Kw78b8XGotuWxpKV2A3"
+        },
+        {
+          "name": "ROCHA.SNJ",
+          "url": "https://open.spotify.com/artist/1uuOueXqHji2ugV1Ky1TF8"
+        },
+        {
+          "name": "Simba.",
+          "url": "https://open.spotify.com/artist/0mYtvNRxZxXxPTkl0A1W4v"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219175,
+      "name": "Coca Cola",
+      "url": "https://open.spotify.com/track/0kyuMrg9R6hXjgE1sNcDKT"
     },
     {
       "album": {
@@ -5596,6 +5644,24 @@
       "duration_ms": 186146,
       "name": "EYES NEVER LIE",
       "url": "https://open.spotify.com/track/4t1wuqoPdoaDMd9gZNJt01"
+    },
+    {
+      "album": {
+        "name": "F*ck Up & Make Up",
+        "url": "https://open.spotify.com/album/4VmxeumcBJlbpSCEvNs97a"
+      },
+      "artists": [
+        {
+          "name": "Richie Campbell",
+          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161825,
+      "name": "F*ck Up & Make Up",
+      "url": "https://open.spotify.com/track/1FEzeoaYDpolu8pYZAnqpg"
     },
     {
       "album": {
@@ -9559,6 +9625,24 @@
     },
     {
       "album": {
+        "name": "Minha Boo",
+        "url": "https://open.spotify.com/album/3iAeRlAEkiigDqLbhmLLig"
+      },
+      "artists": [
+        {
+          "name": "Satiro",
+          "url": "https://open.spotify.com/artist/2s0vdOp4RtF3VBYH6wxxbM"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207272,
+      "name": "Minha Boo",
+      "url": "https://open.spotify.com/track/2yvqRPQaQeGt1C46p6kVc1"
+    },
+    {
+      "album": {
         "name": "MOXI",
         "url": "https://open.spotify.com/album/5zyXkcLivSXfP68Bd1NDSH"
       },
@@ -10889,6 +10973,24 @@
     },
     {
       "album": {
+        "name": "N\u00c3O D\u00c1",
+        "url": "https://open.spotify.com/album/5Eq9OGs1dupKf85rnOsVOV"
+      },
+      "artists": [
+        {
+          "name": "MUN",
+          "url": "https://open.spotify.com/artist/0XWmIDUMxka9p2aayQ9MOr"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194117,
+      "name": "N\u00c3O D\u00c1",
+      "url": "https://open.spotify.com/track/7mKQ0XtCP5QBPF1r8wHmoO"
+    },
+    {
+      "album": {
         "name": "N\u00e3o d\u00e1 pa parar",
         "url": "https://open.spotify.com/album/4Y3s0dztnVJB2l05OclX2H"
       },
@@ -10904,7 +11006,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 193700,
       "name": "N\u00e3o d\u00e1 pa parar",
       "url": "https://open.spotify.com/track/5xIjSTfo5vK70n17mD0BNG"
@@ -11862,7 +11964,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 162211,
       "name": "Partir Cora\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/0mHTeaDy95c90zuiYQVWUG"
@@ -12868,7 +12970,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 164000,
       "name": "Quem Tem O Teu <3",
       "url": "https://open.spotify.com/track/43ncSBC0ZlkmPJqB8nfoZP"
@@ -13978,6 +14080,28 @@
       "duration_ms": 155361,
       "name": "Sdds",
       "url": "https://open.spotify.com/track/2fmLeOt97ihNkRwkRv6uek"
+    },
+    {
+      "album": {
+        "name": "Se Eu Fosse a Ti",
+        "url": "https://open.spotify.com/album/1NU178xk4sfnHGTw3rIZPf"
+      },
+      "artists": [
+        {
+          "name": "Mariana Pereira",
+          "url": "https://open.spotify.com/artist/6OFJLqSjsWsigPp8MTcNHm"
+        },
+        {
+          "name": "Murta",
+          "url": "https://open.spotify.com/artist/1i3LAyYIXtdsYVUkIgIkjx"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190597,
+      "name": "Se Eu Fosse a Ti",
+      "url": "https://open.spotify.com/track/7nOyzGWCyciv7BWBoVtzuQ"
     },
     {
       "album": {
@@ -15150,7 +15274,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 170723,
       "name": "SWEET LIKE SUGAR",
       "url": "https://open.spotify.com/track/02Z5w9818U2uGmdCf2RasX"
@@ -16518,7 +16642,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-01",
       "duration_ms": 193800,
       "name": "UNIVERSO",
       "url": "https://open.spotify.com/track/4Hf1fvy3UbgAAYDiV1kp9A"
@@ -17598,6 +17722,24 @@
       "duration_ms": 131126,
       "name": "\u00daltimo Rom\u00e2ntico do Mundo",
       "url": "https://open.spotify.com/track/1vcGNRmxiPiiFDq5QkOCqX"
+    },
+    {
+      "album": {
+        "name": "\u00daltimo Som",
+        "url": "https://open.spotify.com/album/1jgxucct98b35wJmPZnEnW"
+      },
+      "artists": [
+        {
+          "name": "Guga",
+          "url": "https://open.spotify.com/artist/5bHp05UXAArdXldRyU8lJP"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264349,
+      "name": "\u00daltimo Som",
+      "url": "https://open.spotify.com/track/29N97G4aN0GBPh5qIHNZTa"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXcLnINu2mUk0"

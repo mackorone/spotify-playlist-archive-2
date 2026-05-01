@@ -1,6 +1,6 @@
 {
   "description": "Nieuwe R&B releases | Cover: Neema Nekesa",
-  "num_followers": 294864,
+  "num_followers": 294859,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
@@ -279,22 +279,6 @@
     {
       "added_at": "2026-04-23 22:00:39",
       "album": {
-        "name": "Out The Window",
-        "url": "https://open.spotify.com/album/4FdvzXXXWgv3YxkUuW2307"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 256615,
-      "name": "Out The Window",
-      "url": "https://open.spotify.com/track/5MqzNAzRgVj2dfp30LJ6s1"
-    },
-    {
-      "added_at": "2026-04-23 22:00:39",
-      "album": {
         "name": "with all due respect",
         "url": "https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 273684,
       "name": "back of the club",
       "url": "https://open.spotify.com/track/6svat6LhQXRAnALB7CkUg5"
+    },
+    {
+      "added_at": "2026-04-23 22:00:39",
+      "album": {
+        "name": "Out The Window",
+        "url": "https://open.spotify.com/album/4FdvzXXXWgv3YxkUuW2307"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 256615,
+      "name": "Out The Window",
+      "url": "https://open.spotify.com/track/5MqzNAzRgVj2dfp30LJ6s1"
     },
     {
       "added_at": "2026-04-23 22:00:39",
@@ -419,22 +419,6 @@
     {
       "added_at": "2026-04-23 22:00:39",
       "album": {
-        "name": "BELOVED",
-        "url": "https://open.spotify.com/album/7pcBXbl1g198PNAxt44bHQ"
-      },
-      "artists": [
-        {
-          "name": "GIV\u0112ON",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
-        }
-      ],
-      "duration_ms": 195869,
-      "name": "I CAN TELL",
-      "url": "https://open.spotify.com/track/18wmUghxdWxTgFsW4leZnt"
-    },
-    {
-      "added_at": "2026-04-23 22:00:39",
-      "album": {
         "name": "Let Me",
         "url": "https://open.spotify.com/album/7H0zJ2YjvitbNFGqwmTbgu"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 291513,
       "name": "Let Me",
       "url": "https://open.spotify.com/track/27PPzQyuNkGn8YRNtuPx0X"
+    },
+    {
+      "added_at": "2026-04-23 22:00:39",
+      "album": {
+        "name": "BELOVED",
+        "url": "https://open.spotify.com/album/7pcBXbl1g198PNAxt44bHQ"
+      },
+      "artists": [
+        {
+          "name": "GIV\u0112ON",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "duration_ms": 195869,
+      "name": "I CAN TELL",
+      "url": "https://open.spotify.com/track/18wmUghxdWxTgFsW4leZnt"
     },
     {
       "added_at": "2026-04-23 22:00:39",
@@ -631,26 +631,6 @@
     {
       "added_at": "2026-04-23 22:00:39",
       "album": {
-        "name": "Finally Over It",
-        "url": "https://open.spotify.com/album/5X1Y5kGtPQyu4UhjSuTRhx"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 148277,
-      "name": "Baby (with Chris Brown)",
-      "url": "https://open.spotify.com/track/1LxGpGxyFmIwYPP61Tzaho"
-    },
-    {
-      "added_at": "2026-04-23 22:00:39",
-      "album": {
         "name": "Forever Ends Someday",
         "url": "https://open.spotify.com/album/7GVpOkI5do8Hb8NOtqb39y"
       },
@@ -667,6 +647,26 @@
       "duration_ms": 152493,
       "name": "July",
       "url": "https://open.spotify.com/track/7LwR08L58CiifSFw7tqdOl"
+    },
+    {
+      "added_at": "2026-04-23 22:00:39",
+      "album": {
+        "name": "Finally Over It",
+        "url": "https://open.spotify.com/album/5X1Y5kGtPQyu4UhjSuTRhx"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 148277,
+      "name": "Baby (with Chris Brown)",
+      "url": "https://open.spotify.com/track/1LxGpGxyFmIwYPP61Tzaho"
     },
     {
       "added_at": "2026-04-23 22:00:39",
@@ -727,22 +727,6 @@
     {
       "added_at": "2026-04-23 22:00:39",
       "album": {
-        "name": "Spend It",
-        "url": "https://open.spotify.com/album/1bbRn3bCzOPvjbShgj26K9"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Spend It",
-      "url": "https://open.spotify.com/track/290eKCMBc9f9CcSLFuQrim"
-    },
-    {
-      "added_at": "2026-04-23 22:00:39",
-      "album": {
         "name": "The Fall That Saved Us",
         "url": "https://open.spotify.com/album/0xMQR9PD1M0Y70uP3VpyBl"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 156826,
       "name": "Pretty Girls",
       "url": "https://open.spotify.com/track/1RFEkrUcDABHjy7fhCeeNd"
+    },
+    {
+      "added_at": "2026-04-23 22:00:39",
+      "album": {
+        "name": "Spend It",
+        "url": "https://open.spotify.com/album/1bbRn3bCzOPvjbShgj26K9"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Spend It",
+      "url": "https://open.spotify.com/track/290eKCMBc9f9CcSLFuQrim"
     },
     {
       "added_at": "2026-04-23 22:00:39",
@@ -931,22 +931,6 @@
     {
       "added_at": "2026-04-23 22:00:39",
       "album": {
-        "name": "100",
-        "url": "https://open.spotify.com/album/5uzvHxfiPAcQncCnaqOMZr"
-      },
-      "artists": [
-        {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        }
-      ],
-      "duration_ms": 234608,
-      "name": "100",
-      "url": "https://open.spotify.com/track/1nD3K6W0atK00pbJXS6JRa"
-    },
-    {
-      "added_at": "2026-04-23 22:00:39",
-      "album": {
         "name": "A Mile In My Mind",
         "url": "https://open.spotify.com/album/4x3vraA41P4FIGKwYiAbWF"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 167195,
       "name": "A Mile In My Mind",
       "url": "https://open.spotify.com/track/4xWpwTyRHboUA6GnVPqltx"
+    },
+    {
+      "added_at": "2026-04-23 22:00:39",
+      "album": {
+        "name": "100",
+        "url": "https://open.spotify.com/album/5uzvHxfiPAcQncCnaqOMZr"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "duration_ms": 234608,
+      "name": "100",
+      "url": "https://open.spotify.com/track/1nD3K6W0atK00pbJXS6JRa"
     },
     {
       "added_at": "2026-04-23 22:00:39",
@@ -979,18 +979,18 @@
     {
       "added_at": "2026-04-23 22:00:39",
       "album": {
-        "name": "Overrated",
-        "url": "https://open.spotify.com/album/5ehxxi3VjaQ825YmJrFHxL"
+        "name": "Playdoh",
+        "url": "https://open.spotify.com/album/7uVB9tRYHBjMyUHqqyhMN1"
       },
       "artists": [
         {
-          "name": "Tink",
-          "url": "https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v"
+          "name": "B Young",
+          "url": "https://open.spotify.com/artist/7JMwO9tyFPMsb2KnsJqZlp"
         }
       ],
-      "duration_ms": 191437,
-      "name": "Overrated",
-      "url": "https://open.spotify.com/track/2NN4IYo4XsCPn0jcl8n12K"
+      "duration_ms": 138343,
+      "name": "Playdoh",
+      "url": "https://open.spotify.com/track/5q4BwNIFR4n5d2vGMbyg6Q"
     },
     {
       "added_at": "2026-04-23 22:00:39",
@@ -1011,34 +1011,18 @@
     {
       "added_at": "2026-04-23 22:00:39",
       "album": {
-        "name": "Playdoh",
-        "url": "https://open.spotify.com/album/7uVB9tRYHBjMyUHqqyhMN1"
+        "name": "Overrated",
+        "url": "https://open.spotify.com/album/5ehxxi3VjaQ825YmJrFHxL"
       },
       "artists": [
         {
-          "name": "B Young",
-          "url": "https://open.spotify.com/artist/7JMwO9tyFPMsb2KnsJqZlp"
+          "name": "Tink",
+          "url": "https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v"
         }
       ],
-      "duration_ms": 138343,
-      "name": "Playdoh",
-      "url": "https://open.spotify.com/track/5q4BwNIFR4n5d2vGMbyg6Q"
-    },
-    {
-      "added_at": "2026-04-23 22:00:39",
-      "album": {
-        "name": "Tricks Are For Kids",
-        "url": "https://open.spotify.com/album/1OuyXG6n4qbD91SUPss8pO"
-      },
-      "artists": [
-        {
-          "name": "rjtheweirdo",
-          "url": "https://open.spotify.com/artist/5XWVWbQiBVEEXZSFyEsUcW"
-        }
-      ],
-      "duration_ms": 140259,
-      "name": "Tricks Are For Kids",
-      "url": "https://open.spotify.com/track/4G59GzF7Enxx2XiGKbYkVw"
+      "duration_ms": 191437,
+      "name": "Overrated",
+      "url": "https://open.spotify.com/track/2NN4IYo4XsCPn0jcl8n12K"
     },
     {
       "added_at": "2026-04-23 22:00:39",
@@ -1071,6 +1055,22 @@
       "duration_ms": 155000,
       "name": "SA NA SAN",
       "url": "https://open.spotify.com/track/1YQ7UbplDV4LGXeLvWVwRj"
+    },
+    {
+      "added_at": "2026-04-23 22:00:39",
+      "album": {
+        "name": "Tricks Are For Kids",
+        "url": "https://open.spotify.com/album/1OuyXG6n4qbD91SUPss8pO"
+      },
+      "artists": [
+        {
+          "name": "rjtheweirdo",
+          "url": "https://open.spotify.com/artist/5XWVWbQiBVEEXZSFyEsUcW"
+        }
+      ],
+      "duration_ms": 140259,
+      "name": "Tricks Are For Kids",
+      "url": "https://open.spotify.com/track/4G59GzF7Enxx2XiGKbYkVw"
     },
     {
       "added_at": "2026-04-23 22:00:39",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2026-04-23 22:00:39",
       "album": {
-        "name": "Desire - Spotify Singles",
-        "url": "https://open.spotify.com/album/19ubPXvzp96eqKKH905E3i"
-      },
-      "artists": [
-        {
-          "name": "Isaia Huron",
-          "url": "https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6"
-        }
-      ],
-      "duration_ms": 225800,
-      "name": "Desire - Spotify Singles",
-      "url": "https://open.spotify.com/track/1CfHEKb7RO3qSlcFxXCsnv"
-    },
-    {
-      "added_at": "2026-04-23 22:00:39",
-      "album": {
         "name": "SOAP",
         "url": "https://open.spotify.com/album/7LnaNERJs0GUwZvnHrxiQ9"
       },
@@ -1143,6 +1127,38 @@
       "duration_ms": 156750,
       "name": "SOAP",
       "url": "https://open.spotify.com/track/0SsQlBx10cCgIZIV2SH9wq"
+    },
+    {
+      "added_at": "2026-04-23 22:00:39",
+      "album": {
+        "name": "Hold of Me",
+        "url": "https://open.spotify.com/album/2DWEwljuTE9nyq1Z65aCsN"
+      },
+      "artists": [
+        {
+          "name": "K.ZIA",
+          "url": "https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY"
+        }
+      ],
+      "duration_ms": 213555,
+      "name": "Hold of Me",
+      "url": "https://open.spotify.com/track/7KY1unDGI0vtiHlvgPUwn6"
+    },
+    {
+      "added_at": "2026-04-23 22:00:39",
+      "album": {
+        "name": "Desire - Spotify Singles",
+        "url": "https://open.spotify.com/album/19ubPXvzp96eqKKH905E3i"
+      },
+      "artists": [
+        {
+          "name": "Isaia Huron",
+          "url": "https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6"
+        }
+      ],
+      "duration_ms": 225800,
+      "name": "Desire - Spotify Singles",
+      "url": "https://open.spotify.com/track/1CfHEKb7RO3qSlcFxXCsnv"
     },
     {
       "added_at": "2026-04-23 22:00:39",
@@ -1199,22 +1215,6 @@
     {
       "added_at": "2026-04-23 22:00:39",
       "album": {
-        "name": "Hold of Me",
-        "url": "https://open.spotify.com/album/2DWEwljuTE9nyq1Z65aCsN"
-      },
-      "artists": [
-        {
-          "name": "K.ZIA",
-          "url": "https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY"
-        }
-      ],
-      "duration_ms": 213555,
-      "name": "Hold of Me",
-      "url": "https://open.spotify.com/track/7KY1unDGI0vtiHlvgPUwn6"
-    },
-    {
-      "added_at": "2026-04-23 22:00:39",
-      "album": {
         "name": "HIATUS",
         "url": "https://open.spotify.com/album/4Xhpn4XMjaoKTuWJ7YDWcE"
       },
@@ -1227,6 +1227,22 @@
       "duration_ms": 214488,
       "name": "SPEECHLESS",
       "url": "https://open.spotify.com/track/3QG7ScQMjttBGhEQWM3tEf"
+    },
+    {
+      "added_at": "2026-04-23 22:00:39",
+      "album": {
+        "name": "Slow Down",
+        "url": "https://open.spotify.com/album/7aSJHePqF7bfzQRVozwj4a"
+      },
+      "artists": [
+        {
+          "name": "K.ZIA",
+          "url": "https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY"
+        }
+      ],
+      "duration_ms": 140769,
+      "name": "Slow Down",
+      "url": "https://open.spotify.com/track/2SlLZusHiwJ7sl18O4BssR"
     },
     {
       "added_at": "2026-04-23 22:00:39",
@@ -1283,22 +1299,6 @@
     {
       "added_at": "2026-04-23 22:00:39",
       "album": {
-        "name": "Slow Down",
-        "url": "https://open.spotify.com/album/7aSJHePqF7bfzQRVozwj4a"
-      },
-      "artists": [
-        {
-          "name": "K.ZIA",
-          "url": "https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY"
-        }
-      ],
-      "duration_ms": 140769,
-      "name": "Slow Down",
-      "url": "https://open.spotify.com/track/2SlLZusHiwJ7sl18O4BssR"
-    },
-    {
-      "added_at": "2026-04-23 22:00:39",
-      "album": {
         "name": "MEET THE SUN",
         "url": "https://open.spotify.com/album/0Mff6DYflCDBNvAaahjB3w"
       },
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2026-04-23 22:00:39",
       "album": {
+        "name": "Cutesy",
+        "url": "https://open.spotify.com/album/2fhVt4ZypAk6u1S4nMxDp6"
+      },
+      "artists": [
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 181589,
+      "name": "Cutesy",
+      "url": "https://open.spotify.com/track/04Np3EvsIBgaDLriPvfxQn"
+    },
+    {
+      "added_at": "2026-04-23 22:00:39",
+      "album": {
         "name": "Not Fair",
         "url": "https://open.spotify.com/album/5TgCn2rZ8FIHsmqhzrmQDi"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 205160,
       "name": "Not Fair",
       "url": "https://open.spotify.com/track/5mCQKLDgoMndWXm6DOdrve"
-    },
-    {
-      "added_at": "2026-04-23 22:00:39",
-      "album": {
-        "name": "Cutesy",
-        "url": "https://open.spotify.com/album/2fhVt4ZypAk6u1S4nMxDp6"
-      },
-      "artists": [
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 181589,
-      "name": "Cutesy",
-      "url": "https://open.spotify.com/track/04Np3EvsIBgaDLriPvfxQn"
     },
     {
       "added_at": "2026-04-23 22:00:39",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2026-04-23 22:00:39",
       "album": {
+        "name": "The Only Love We Know",
+        "url": "https://open.spotify.com/album/32yofsJDutpcH21hGOLslE"
+      },
+      "artists": [
+        {
+          "name": "Naomi Sharon",
+          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
+        }
+      ],
+      "duration_ms": 274951,
+      "name": "The Only Love We Know",
+      "url": "https://open.spotify.com/track/16h8BuxfNtEqGI1C8WNo1z"
+    },
+    {
+      "added_at": "2026-04-23 22:00:39",
+      "album": {
         "name": "CAMPILATION",
         "url": "https://open.spotify.com/album/3ZvwuyvY78GsvVFkYk0wXD"
       },
@@ -1451,22 +1467,6 @@
       "duration_ms": 190090,
       "name": "LOVE ME (feat. Stevie Wonder)",
       "url": "https://open.spotify.com/track/5HPvBWjFHAO01Zt22uDU27"
-    },
-    {
-      "added_at": "2026-04-23 22:00:39",
-      "album": {
-        "name": "The Only Love We Know",
-        "url": "https://open.spotify.com/album/32yofsJDutpcH21hGOLslE"
-      },
-      "artists": [
-        {
-          "name": "Naomi Sharon",
-          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
-        }
-      ],
-      "duration_ms": 274951,
-      "name": "The Only Love We Know",
-      "url": "https://open.spotify.com/track/16h8BuxfNtEqGI1C8WNo1z"
     },
     {
       "added_at": "2026-04-23 22:00:39",
@@ -1575,22 +1575,18 @@
     {
       "added_at": "2026-04-23 22:00:39",
       "album": {
-        "name": "All I Know",
-        "url": "https://open.spotify.com/album/4G3WyqUTLiI7xYL163RvXU"
+        "name": "All Over Again",
+        "url": "https://open.spotify.com/album/4KTFquepUgJCVIXSCr93wm"
       },
       "artists": [
         {
-          "name": "Asiah",
-          "url": "https://open.spotify.com/artist/3cAWgw5dy6A1OheKZx0uZX"
-        },
-        {
-          "name": "RAIN",
-          "url": "https://open.spotify.com/artist/0rroNFYF82HohpQTsJE39j"
+          "name": "Maya Mae",
+          "url": "https://open.spotify.com/artist/3Rf9Szpp2LkKOc3SffGinv"
         }
       ],
-      "duration_ms": 174232,
-      "name": "All I Know",
-      "url": "https://open.spotify.com/track/5g4UWtNXfBZjnnUqLwDqMp"
+      "duration_ms": 184354,
+      "name": "All Over Again",
+      "url": "https://open.spotify.com/track/1aP6pXcywghOGPo6RcPWxa"
     },
     {
       "added_at": "2026-04-23 22:00:39",
@@ -1611,6 +1607,26 @@
     {
       "added_at": "2026-04-23 22:00:39",
       "album": {
+        "name": "All I Know",
+        "url": "https://open.spotify.com/album/4G3WyqUTLiI7xYL163RvXU"
+      },
+      "artists": [
+        {
+          "name": "Asiah",
+          "url": "https://open.spotify.com/artist/3cAWgw5dy6A1OheKZx0uZX"
+        },
+        {
+          "name": "RAIN",
+          "url": "https://open.spotify.com/artist/0rroNFYF82HohpQTsJE39j"
+        }
+      ],
+      "duration_ms": 174232,
+      "name": "All I Know",
+      "url": "https://open.spotify.com/track/5g4UWtNXfBZjnnUqLwDqMp"
+    },
+    {
+      "added_at": "2026-04-23 22:00:39",
+      "album": {
         "name": "From A Distance",
         "url": "https://open.spotify.com/album/3KndyzgemjdDrIL5VRIphG"
       },
@@ -1623,22 +1639,6 @@
       "duration_ms": 183463,
       "name": "From A Distance",
       "url": "https://open.spotify.com/track/1VW6rRYpdTRJ3WCgLovnOe"
-    },
-    {
-      "added_at": "2026-04-23 22:00:39",
-      "album": {
-        "name": "All Over Again",
-        "url": "https://open.spotify.com/album/4KTFquepUgJCVIXSCr93wm"
-      },
-      "artists": [
-        {
-          "name": "Maya Mae",
-          "url": "https://open.spotify.com/artist/3Rf9Szpp2LkKOc3SffGinv"
-        }
-      ],
-      "duration_ms": 184354,
-      "name": "All Over Again",
-      "url": "https://open.spotify.com/track/1aP6pXcywghOGPo6RcPWxa"
     },
     {
       "added_at": "2026-04-23 22:00:39",
