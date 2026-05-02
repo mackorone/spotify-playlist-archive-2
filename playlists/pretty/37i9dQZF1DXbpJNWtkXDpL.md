@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 
 > Descubre el futuro de las música en México en compañía de iza tkm
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,323 likes - 51 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,331 likes - 51 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 | 25 | [Encuéntrame en Tokio](https://open.spotify.com/track/73tjbiUCCJjmhKOxIpE5eh) | [Sofia Thompson](https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK) | [ETHEREA](https://open.spotify.com/album/0hKkNYEMGdm5Zee2cItOZY) | 3:44 |
 | 26 | [Pingüinos](https://open.spotify.com/track/6vmzWzScqJ70yumSCoNa3y) | [Agris](https://open.spotify.com/artist/29ZfC3Kiw2GkCo5IMI7m9q) | [Pingüinos](https://open.spotify.com/album/3V79Llwk7Lb9EUbsYd3wiG) | 3:16 |
 | 27 | [AYER \- Plugg conciencia](https://open.spotify.com/track/2cmGC5QRB7mNufvsGwwaZM) | [Mikeanyway](https://open.spotify.com/artist/5WFfC7WtTF7DrbqSpc2A7M), [Young Dune](https://open.spotify.com/artist/2O6WxYXVduRSokMq8JHHkT), [Tzunami](https://open.spotify.com/artist/2cBbmcVOi87IB5bpl05Hv8), [Glazzz](https://open.spotify.com/artist/2LptcTnQCzCsnlSVr8sEbz) | [AYER \(Plugg conciencia\)](https://open.spotify.com/album/0WwrrFr6K8BBUgyjjuA2FR) | 3:13 |
-| 28 | [SOLA](https://open.spotify.com/track/7Em8Ee0KGibwIr5smqk1TJ) | [DENNA LA PORRI](https://open.spotify.com/artist/0xc9ZT3PSktJFx0N96FJQG), [Moodjaas](https://open.spotify.com/artist/2LdZfa7wgy3DhUcyBgg1Y3) | [PEKORITAS VOL.1](https://open.spotify.com/album/62NyBs8dQmOtKYZUmdex6A) | 2:27 |
-| 29 | [Llegan Y Se Van](https://open.spotify.com/track/1Yuie40vJy35rA62TaVSAB) | [Low Clika](https://open.spotify.com/artist/2Jye6qmyi4e4IMmnb2KHXV), [Santiago Martell](https://open.spotify.com/artist/05Z9RnHGEZ1iXrK4PDAtQl) | [Llegan Y Se Van](https://open.spotify.com/album/06Wlr8IqqlIz3v0f2XfHs7) | 2:29 |
+| 28 | [Llegan Y Se Van](https://open.spotify.com/track/1Yuie40vJy35rA62TaVSAB) | [Low Clika](https://open.spotify.com/artist/2Jye6qmyi4e4IMmnb2KHXV), [Santiago Martell](https://open.spotify.com/artist/05Z9RnHGEZ1iXrK4PDAtQl) | [Llegan Y Se Van](https://open.spotify.com/album/06Wlr8IqqlIz3v0f2XfHs7) | 2:29 |
+| 29 | [SOLA](https://open.spotify.com/track/7Em8Ee0KGibwIr5smqk1TJ) | [DENNA LA PORRI](https://open.spotify.com/artist/0xc9ZT3PSktJFx0N96FJQG), [Moodjaas](https://open.spotify.com/artist/2LdZfa7wgy3DhUcyBgg1Y3) | [PEKORITAS VOL.1](https://open.spotify.com/album/62NyBs8dQmOtKYZUmdex6A) | 2:27 |
 | 30 | [Cuenta mis pasos](https://open.spotify.com/track/7HrVWuwDDCbOk5tTryM3tE) | [The Space Ocean](https://open.spotify.com/artist/2ayaTHAzCLG5bNjYhGofYb) | [Cuenta mis pasos](https://open.spotify.com/album/6OKxHgWUqC6BBwb8w8LHVg) | 3:37 |
 | 31 | [Se Va Se Va](https://open.spotify.com/track/7A3vj4M64VDkcxzPkziR5s) | [Dylan Coronel](https://open.spotify.com/artist/3oBZXbSQHXnxp9sWJcUT7j), [8Uno](https://open.spotify.com/artist/1gU9Z8jrVFnrCBauoWv2Eh) | [Se Va Se Va](https://open.spotify.com/album/4ZfqMbCFTpljyPoVxDQseE) | 3:15 |
 | 32 | [buttermilk 2](https://open.spotify.com/track/6SQgtVsmwZMIluNxdFICeM) | [GRLS](https://open.spotify.com/artist/6hH7QHJ88Vy6KKiWANlIam), [RIVVAA](https://open.spotify.com/artist/1EJ9teYCbzR1V2uGOaqzK5) | [buttermilk 2](https://open.spotify.com/album/0GccnfPFtt5X1bmGlKUNZR) | 3:30 |

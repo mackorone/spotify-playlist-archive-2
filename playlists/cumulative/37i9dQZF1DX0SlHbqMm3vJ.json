@@ -1995,6 +1995,24 @@
     },
     {
       "album": {
+        "name": "Ball",
+        "url": "https://open.spotify.com/album/46AbMXJHKRj8UfFIzPOUOn"
+      },
+      "artists": [
+        {
+          "name": "Crayon",
+          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176727,
+      "name": "Ball",
+      "url": "https://open.spotify.com/track/4C0SSSbwyxGSCxoEOUnXa2"
+    },
+    {
+      "album": {
         "name": "Baptism",
         "url": "https://open.spotify.com/album/4h9VjF7wTiY9TifniiYxT4"
       },
@@ -11418,7 +11436,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 187037,
       "name": "Memories",
       "url": "https://open.spotify.com/track/4zMoZEkWSHb5NXuflbLHNI"

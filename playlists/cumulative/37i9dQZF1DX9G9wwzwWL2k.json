@@ -297,6 +297,24 @@
     },
     {
       "album": {
+        "name": "A Spark",
+        "url": "https://open.spotify.com/album/13cFBSV1zihLkW3Hv72aUl"
+      },
+      "artists": [
+        {
+          "name": "Adri\u00e1n Berenguer",
+          "url": "https://open.spotify.com/artist/7rIUiy8qJEFQ5oooWdnhQv"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162471,
+      "name": "A Spark",
+      "url": "https://open.spotify.com/track/29t6mTp5wmoWyHK3f4pKGX"
+    },
+    {
+      "album": {
         "name": "Barber: Cello Concerto - Medea Suite - Adagio for Strings",
         "url": "https://open.spotify.com/album/683fpZHH6R0BAjSWxc84LH"
       },

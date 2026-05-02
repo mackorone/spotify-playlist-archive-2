@@ -2,7 +2,7 @@
 
 ### [Deep Dive: Jersey Club's Resurgence](https://open.spotify.com/playlist/37i9dQZF1DX0nXgf9G5C41)
 
-> A dive into Jersey Club's ascension from regional to mainstream heights
+> A dive into Jersey Club's rise from regional to mainstream heights
 
 100 songs - 5 hr 27 min
 

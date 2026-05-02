@@ -4,7 +4,7 @@
 
 > Endelig fredag og ny musikk fra Karpe, Madonna & Sabrina Carpenter og GOLF!! ♥️
 
-10,618 songs - 22 day 23 hr 23 min
+10,618 songs - 22 day 23 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1688,6 +1688,7 @@
 | [Clean](https://open.spotify.com/track/0tBXqaYjAqaQp55uRdhgAt) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Love & Hyperbole \(Deluxe\)](https://open.spotify.com/album/6rBEtMQZsYPe9xtPpP9QdC) | 3:12 | 2025-10-23 | 2025-10-31 |
 | [Clean Fit, Fin Anledning](https://open.spotify.com/track/7qky42Br09C4K93lYdAXAs) | [Metropolen](https://open.spotify.com/artist/2veUQvo0k7rk3TI5l0EnIi) | [Clean Fit, Fin Anledning](https://open.spotify.com/album/1CfrrqDKpfZbU2rVn2DoaA) | 2:33 | 2024-11-07 | 2024-11-15 |
 | [Clean Up Your Act, Sunshine!](https://open.spotify.com/track/5wHmohZkeApAOPIj280lHa) | [Fred Soila](https://open.spotify.com/artist/7ngrF0C7lWTaTI8Ei0ja8E) | [Clean Up Your Act, Sunshine!](https://open.spotify.com/album/77tjV3cTZ526yctYPkZUXJ) | 3:30 | 2025-12-04 | 2025-12-12 |
+| [clear blue!](https://open.spotify.com/track/1BMWubB3BOhlqnq3kuFuRI) | [Jahson Paynter](https://open.spotify.com/artist/73SbrIktK3Na0OTmhZpMy8) | [is anybody home!?](https://open.spotify.com/album/686HK68mvUb5V6Cm7OFQJX) | 4:17 | 2026-04-30 |  |
 | [Cleats](https://open.spotify.com/track/7HWONeQrWpcjflAPGbH5L3) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Cleats](https://open.spotify.com/album/0VZGFBmqzdTFhMgMl7rsxB) | 3:41 | 2024-09-12 | 2024-09-20 |
 | [Clementine](https://open.spotify.com/track/5wPI9EcZ30sT0b68kdAXBP) | [Yannis & The Yaw](https://open.spotify.com/artist/398DRY2p9x2q0XOU3gkkYH), [Yannis](https://open.spotify.com/artist/6CFQDzNLNcuK5lVZ766Yxt) | [Lagos Paris London](https://open.spotify.com/album/489nt0VZ9DLPB4r9movvdL) | 4:00 | 2024-08-29 | 2024-09-06 |
 | [cliché](https://open.spotify.com/track/3aD33slymVwdEcdbKUBnDu) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [cliché](https://open.spotify.com/album/2zCyRKoQozz3iTdTi3o8mi) | 2:56 | 2025-05-22 | 2025-05-30 |
@@ -2354,7 +2355,7 @@
 | [Don't Wanna Go Home Tonight](https://open.spotify.com/track/3I3FSs3C05QUs3r8fSdSeQ) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [Alienation](https://open.spotify.com/album/3qNCqYQyWvvgTapGWLTQsk) | 3:31 | 2025-08-21 | 2025-08-30 |
 | [Don't Wanna Know](https://open.spotify.com/track/0DtOOAZTnTgejC0e6tfXSR) | [MARSAW](https://open.spotify.com/artist/1c92H7lIxtyREQAZoNDCDd) | [Don't Wanna Know](https://open.spotify.com/album/75qL004y1xDtDaMvAvJlo5) | 2:43 | 2024-04-26 | 2024-05-03 |
 | [Don't Want Your Love](https://open.spotify.com/track/0ddLd0n19FHwawkSmhXwgg) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [ODYSSEY](https://open.spotify.com/album/1Y2uYmUgox5SpSMHXu8iPC) | 3:12 | 2026-02-05 | 2026-02-13 |
-| [Don't Worry Baby](https://open.spotify.com/track/0uFffwji3muqn5MEe7hiYw) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Tiga](https://open.spotify.com/artist/6dfbRE1slg9q6xXbMiB9Rn) | [Don't Worry Baby](https://open.spotify.com/album/1F3Ph8gHm2aCnMJbNvmo5f) | 3:27 | 2026-04-30 |  |
+| [Don't Worry Baby](https://open.spotify.com/track/0uFffwji3muqn5MEe7hiYw) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC) | [Don't Worry Baby](https://open.spotify.com/album/1F3Ph8gHm2aCnMJbNvmo5f) | 3:27 | 2026-04-30 |  |
 | [Don't You Cry](https://open.spotify.com/track/4BZ2Gjl3ZDRMRVqF2pUAQa) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [Förstår om du inte förstår](https://open.spotify.com/album/3LWrSMN9jOXgiy5Xl4vmCz) | 1:55 | 2025-05-01 | 2025-05-09 |
 | [Dondi \- Bonus](https://open.spotify.com/track/6sY8dIy1gaP43Yw2QjYOXJ) | [Gjenfødt Kultur](https://open.spotify.com/artist/1nebg8vKeaq8WqjOccMWxg) | [Dondi \(Bonus\)](https://open.spotify.com/album/3KPAic24yVvGpuPSxwkcxP) | 4:27 | 2026-01-01 | 2026-01-15 |
 | [Done Searching](https://open.spotify.com/track/7zVGrJKv5WEDW23z2qvmLR) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU), [Anna Reusch](https://open.spotify.com/artist/0BMS6AqoDN4Fu7QOruxHjh) | [Done Searching](https://open.spotify.com/album/6yiWE718oOyYfQqxPl16Ol) | 2:48 | 2025-10-30 | 2025-11-07 |
@@ -9580,7 +9581,6 @@
 | [Toxic](https://open.spotify.com/track/6bavRPbVF9voNZ4r6hTgVO) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Ragie Ban](https://open.spotify.com/artist/7lz52Oe1rAo5DwfSRwFsQL) | [Toxic](https://open.spotify.com/album/1dHYU7DWo9jAW6gphowkRn) | 2:44 | 2025-03-27 | 2025-04-04 |
 | [TOXIC](https://open.spotify.com/track/5dbj94Sk7A3tiq5awhSzDH) | [Montana](https://open.spotify.com/artist/2RmwY9PuyhQF6SrNAZJwQG), [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy), [Y4ska](https://open.spotify.com/artist/6E4YKq2KF72sNDThe2TaE8), [ROMANOS](https://open.spotify.com/artist/5GT8ltnqVPe7Zf8Ynrb5mV) | [TOXIC](https://open.spotify.com/album/5phpifxo3Je9yiWse9tiIC) | 2:36 | 2024-10-31 | 2024-11-08 |
 | [toxic till the end](https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:36 | 2024-12-05 | 2024-12-13 |
-| [Track 6](https://open.spotify.com/track/1BMWubB3BOhlqnq3kuFuRI) | [Jahson Paynter](https://open.spotify.com/artist/73SbrIktK3Na0OTmhZpMy8) | [is anybody home!?](https://open.spotify.com/album/686HK68mvUb5V6Cm7OFQJX) | 0:00 | 2026-04-30 |  |
 | [Trade Places](https://open.spotify.com/track/3yBI1IVune0k7Tsmcy8BVh) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Monica](https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES) | 3:02 | 2026-03-12 | 2026-03-20 |
 | [Trails](https://open.spotify.com/track/37drBnXJEDVWIZqvHctE03) | [Mike Perry](https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c) | [Trails](https://open.spotify.com/album/1EgHatheLbD86h4mfgO4ri) | 2:30 | 2024-05-09 | 2024-05-17 |
 | [TRAIN](https://open.spotify.com/track/1OjxxcblPHnMnlvqm2Hdru) | [Subwoolfer](https://open.spotify.com/artist/633Va8wlM3hrqQ4xjqRfOf), [Subkids](https://open.spotify.com/artist/0iUw1MYUcH380yiuoHC8nw), [DJ ASTRONAUT](https://open.spotify.com/artist/1NPY1gsf6rwz8D1BTVZ1ZC) | [TRAIN](https://open.spotify.com/album/506OoFlHQiBsJ1IWgGyjUq) | 2:17 | 2024-10-10 | 2024-10-18 |

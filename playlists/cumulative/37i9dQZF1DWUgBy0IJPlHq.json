@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "A new shade of Country. Cover: Benjamin Tod",
+  "description": "A new shade of Country. Cover: Lily Fitts",
   "name": "Indigo",
   "tracks": [
     {
@@ -1318,7 +1318,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 188988,
       "name": "Best of Our Possible Lives",
       "url": "https://open.spotify.com/track/1KVdGIfXjx0AfFqyVIMXAX"
@@ -1782,7 +1782,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 179400,
       "name": "Bound to Rain",
       "url": "https://open.spotify.com/track/0gO4tO1nr113Z1UuQDErJw"
@@ -3151,6 +3151,24 @@
     },
     {
       "album": {
+        "name": "Damn In Love",
+        "url": "https://open.spotify.com/album/42jcnj1eXOdD1bE6IAKdVk"
+      },
+      "artists": [
+        {
+          "name": "Anna Graves",
+          "url": "https://open.spotify.com/artist/4j9vFTGkTHf54MjcZvedcT"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160235,
+      "name": "Damn In Love",
+      "url": "https://open.spotify.com/track/07sI89bsMQfWjKxLzvRY8D"
+    },
+    {
+      "album": {
         "name": "Dancing in the Sky",
         "url": "https://open.spotify.com/album/7yesav1UJgVC74RFifnzM9"
       },
@@ -4162,6 +4180,28 @@
       "duration_ms": 177200,
       "name": "Everybody Else",
       "url": "https://open.spotify.com/track/70WAxgKcmPb9z48YwxIpvT"
+    },
+    {
+      "album": {
+        "name": "Middle of Nowhere",
+        "url": "https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        },
+        {
+          "name": "Billy Strings",
+          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219357,
+      "name": "Everybody Wants To Be A Cowboy (feat. Billy Strings)",
+      "url": "https://open.spotify.com/track/6ULjjAbwB2BoTZthQKv1Q2"
     },
     {
       "album": {
@@ -5275,6 +5315,28 @@
     },
     {
       "album": {
+        "name": "Darling Blue / No Room For Blue",
+        "url": "https://open.spotify.com/album/0nq24Tm4sSHQo9s8yn0OTz"
+      },
+      "artists": [
+        {
+          "name": "Marcus King",
+          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
+        },
+        {
+          "name": "The Marcus King Band",
+          "url": "https://open.spotify.com/artist/0tgaHqkU1p7QhBUIzKXVU9"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198096,
+      "name": "Good Run",
+      "url": "https://open.spotify.com/track/13K0cNKd6iASvcoXuA5Mnx"
+    },
+    {
+      "album": {
         "name": "Goodbye to Goodbye",
         "url": "https://open.spotify.com/album/2KbqG5h2YXacTVaDHSqlqG"
       },
@@ -5442,7 +5504,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 189750,
       "name": "Haunted",
       "url": "https://open.spotify.com/track/3tAlLNiWMKRSmf2dE3ghwF"
@@ -6006,7 +6068,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 185389,
       "name": "Hollow Bones",
       "url": "https://open.spotify.com/track/1eh2tAcADq2JwY5IMqLRiI"
@@ -8405,6 +8467,24 @@
     },
     {
       "album": {
+        "name": "Mess of Me",
+        "url": "https://open.spotify.com/album/46JFJGCzC0dQorrEOHlyU2"
+      },
+      "artists": [
+        {
+          "name": "Lily Fitts",
+          "url": "https://open.spotify.com/artist/1mY66135CEOJg0KTwDIk4N"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201613,
+      "name": "Mess of Me",
+      "url": "https://open.spotify.com/track/3u4DrwbtucduFIMaUZtgwk"
+    },
+    {
+      "album": {
         "name": "White Trash Revelry",
         "url": "https://open.spotify.com/album/2GlHvIfPIhJCgpqimu1mTP"
       },
@@ -8926,7 +9006,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 176158,
       "name": "No Direction",
       "url": "https://open.spotify.com/track/7v2nfYwLfuGkjyjp4RY2B4"
@@ -10218,7 +10298,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 233799,
       "name": "Regret It",
       "url": "https://open.spotify.com/track/4jAmxujHkxjywXL1SKnLcl"
@@ -10996,6 +11076,24 @@
       "duration_ms": 229799,
       "name": "Sincerely, Your Son",
       "url": "https://open.spotify.com/track/4Avhm4TheMNptgXdaQN52O"
+    },
+    {
+      "album": {
+        "name": "Sink Like A Stone",
+        "url": "https://open.spotify.com/album/1chfiUcqRhn3X5kx0IgBSE"
+      },
+      "artists": [
+        {
+          "name": "Joe Jordan",
+          "url": "https://open.spotify.com/artist/3agUzpPCDynMkXCQkZYVIv"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185566,
+      "name": "Sink Like A Stone",
+      "url": "https://open.spotify.com/track/5Lh4Jegm6wKQ6cudAx8IbN"
     },
     {
       "album": {
@@ -12229,6 +12327,24 @@
     },
     {
       "album": {
+        "name": "The End of Me",
+        "url": "https://open.spotify.com/album/2Z7UIFpJnDpAuvIL668X41"
+      },
+      "artists": [
+        {
+          "name": "Ike Dweck",
+          "url": "https://open.spotify.com/artist/6LNBNRvlMbL0Zv73aqQKSS"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174032,
+      "name": "The End of Me",
+      "url": "https://open.spotify.com/track/5WBkotUrzSA5oK0WGIRvZ0"
+    },
+    {
+      "album": {
         "name": "The Fight Song (feat. Caitlin Rose)",
         "url": "https://open.spotify.com/album/59iB9eRGpm0UhGRrSiJX6D"
       },
@@ -12566,6 +12682,24 @@
       "duration_ms": 211321,
       "name": "The Worst I Ever Had",
       "url": "https://open.spotify.com/track/6ukH7HaBF08keigApMwLO0"
+    },
+    {
+      "album": {
+        "name": "These Days",
+        "url": "https://open.spotify.com/album/3uzJcjGjrBD4LnIfm63BCV"
+      },
+      "artists": [
+        {
+          "name": "Kindred Valley",
+          "url": "https://open.spotify.com/artist/7jc85d1zr5kt3aBXYJ0OZy"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214719,
+      "name": "These Days",
+      "url": "https://open.spotify.com/track/5LQfUtk8NtTxeMZNsQGXNr"
     },
     {
       "album": {
@@ -14078,7 +14212,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 150668,
       "name": "Windy City",
       "url": "https://open.spotify.com/track/13dPOEUDNyvOv8iKY9bxjq"

@@ -1,12 +1,12 @@
 {
   "description": "This is Danna Paola. The essential tracks, all in one playlist.",
-  "num_followers": 235774,
+  "num_followers": 235753,
   "original_name": "This Is Danna Paola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afFKAAAAAACna4uKZLhxB8nMzR+FYA2U",
+  "snapshot_id": "afKbgAAAAADmFRA1HHSPiqhqzg8L4Hx2",
   "tracks": [
     {
       "added_at": null,
@@ -91,22 +91,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "tqum",
-        "url": "https://open.spotify.com/album/6ZOjII4udSTX8ooN3BRBjC"
+        "name": "El Doble",
+        "url": "https://open.spotify.com/album/6tcjrCQj5gp2Tae9WMcCkS"
       },
       "artists": [
         {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+          "name": "Abraham Mateo",
+          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
         },
         {
           "name": "Danna Paola",
           "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
         }
       ],
-      "duration_ms": 149589,
-      "name": "tqum",
-      "url": "https://open.spotify.com/track/3zR2iyPKGtAVyvAYZH1YUr"
+      "duration_ms": 198766,
+      "name": "El Doble",
+      "url": "https://open.spotify.com/track/7bo4UV0Jf987r03w3UMJFi"
     },
     {
       "added_at": null,
@@ -131,22 +131,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Doble",
-        "url": "https://open.spotify.com/album/6tcjrCQj5gp2Tae9WMcCkS"
+        "name": "tqum",
+        "url": "https://open.spotify.com/album/6ZOjII4udSTX8ooN3BRBjC"
       },
       "artists": [
         {
-          "name": "Abraham Mateo",
-          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
         },
         {
           "name": "Danna Paola",
           "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
         }
       ],
-      "duration_ms": 198766,
-      "name": "El Doble",
-      "url": "https://open.spotify.com/track/7bo4UV0Jf987r03w3UMJFi"
+      "duration_ms": 149589,
+      "name": "tqum",
+      "url": "https://open.spotify.com/track/3zR2iyPKGtAVyvAYZH1YUr"
     },
     {
       "added_at": null,
@@ -395,26 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "IDIOTA (Real Magic)",
-        "url": "https://open.spotify.com/album/5fuZD1Yv8ypB8ir1yJ9EGo"
-      },
-      "artists": [
-        {
-          "name": "J\u00e3o",
-          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
-        },
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 205454,
-      "name": "IDIOTA (Real Magic)",
-      "url": "https://open.spotify.com/track/6oCieauXPhRe9kNLw1UF2F"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Paranoia",
         "url": "https://open.spotify.com/album/3yJW0HcMSssOheVWwXiOkq"
       },
@@ -431,6 +411,26 @@
       "duration_ms": 180000,
       "name": "Paranoia",
       "url": "https://open.spotify.com/track/2JJ9q46qjWALmWy9vjBTnD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "IDIOTA (Real Magic)",
+        "url": "https://open.spotify.com/album/5fuZD1Yv8ypB8ir1yJ9EGo"
+      },
+      "artists": [
+        {
+          "name": "J\u00e3o",
+          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
+        },
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 205454,
+      "name": "IDIOTA (Real Magic)",
+      "url": "https://open.spotify.com/track/6oCieauXPhRe9kNLw1UF2F"
     },
     {
       "added_at": null,
@@ -555,78 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Atr\u00e9vete A So\u00f1ar",
-        "url": "https://open.spotify.com/album/571Z1f9GtauZi0OmKUyPu6"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        },
-        {
-          "name": "Las Divinas",
-          "url": "https://open.spotify.com/artist/5GsCDlhZrJrmJi3EaSS5oY"
-        },
-        {
-          "name": "Las Populares",
-          "url": "https://open.spotify.com/artist/2DUNKEtgbgyBJA7TdX3bcX"
-        },
-        {
-          "name": "Los Klasicos",
-          "url": "https://open.spotify.com/artist/3zE35VTA8dJXtbx8YTHzBq"
-        },
-        {
-          "name": "Los Basikos",
-          "url": "https://open.spotify.com/artist/2tDH13R8KOOQlWh3qnNOC2"
-        }
-      ],
-      "duration_ms": 158040,
-      "name": "Quiero, Quiero",
-      "url": "https://open.spotify.com/track/1x9JnlRBGxftp0okw81go2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Atrevete A So\u00f1ar (Original Sountrack)",
-        "url": "https://open.spotify.com/album/2xxdR4FrSukKWJ18NuKfgu"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        },
-        {
-          "name": "Las Populares",
-          "url": "https://open.spotify.com/artist/2DUNKEtgbgyBJA7TdX3bcX"
-        }
-      ],
-      "duration_ms": 184906,
-      "name": "Es Mejor",
-      "url": "https://open.spotify.com/track/6qkkJK72CeO1SQ17WnHNdk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rescue Me (From The Original Television Soundtrack Blade Runner Black Lotus)",
-        "url": "https://open.spotify.com/album/5by805i64TKLSsy47zjlP0"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 172320,
-      "name": "Rescue Me - From The Original Television Soundtrack Blade Runner Black Lotus",
-      "url": "https://open.spotify.com/track/6FdTVq8ly0NVSli7Xl9z2p"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amy La Ni\u00f1a De La Mochila Azul Vol.1",
         "url": "https://open.spotify.com/album/2ERfJwem9i66Ax0b1is8Iw"
       },
@@ -663,6 +591,78 @@
       "duration_ms": 183320,
       "name": "Yo Soy Tu Amigo Fiel",
       "url": "https://open.spotify.com/track/7nWhw9snsn5PLstV1Wz7Qm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Atr\u00e9vete A So\u00f1ar",
+        "url": "https://open.spotify.com/album/571Z1f9GtauZi0OmKUyPu6"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        },
+        {
+          "name": "Las Divinas",
+          "url": "https://open.spotify.com/artist/5GsCDlhZrJrmJi3EaSS5oY"
+        },
+        {
+          "name": "Las Populares",
+          "url": "https://open.spotify.com/artist/2DUNKEtgbgyBJA7TdX3bcX"
+        },
+        {
+          "name": "Los Klasicos",
+          "url": "https://open.spotify.com/artist/3zE35VTA8dJXtbx8YTHzBq"
+        },
+        {
+          "name": "Los Basikos",
+          "url": "https://open.spotify.com/artist/2tDH13R8KOOQlWh3qnNOC2"
+        }
+      ],
+      "duration_ms": 158040,
+      "name": "Quiero, Quiero",
+      "url": "https://open.spotify.com/track/1x9JnlRBGxftp0okw81go2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rescue Me (From The Original Television Soundtrack Blade Runner Black Lotus)",
+        "url": "https://open.spotify.com/album/5by805i64TKLSsy47zjlP0"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 172320,
+      "name": "Rescue Me - From The Original Television Soundtrack Blade Runner Black Lotus",
+      "url": "https://open.spotify.com/track/6FdTVq8ly0NVSli7Xl9z2p"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Atrevete A So\u00f1ar (Original Sountrack)",
+        "url": "https://open.spotify.com/album/2xxdR4FrSukKWJ18NuKfgu"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        },
+        {
+          "name": "Las Populares",
+          "url": "https://open.spotify.com/artist/2DUNKEtgbgyBJA7TdX3bcX"
+        }
+      ],
+      "duration_ms": 184906,
+      "name": "Es Mejor",
+      "url": "https://open.spotify.com/track/6qkkJK72CeO1SQ17WnHNdk"
     },
     {
       "added_at": null,
@@ -743,26 +743,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Movida",
-        "url": "https://open.spotify.com/album/7JX96Ff9zr74IvC1qGyBvM"
+        "name": "A Kind Of Magic (Coke Studio Mix for the FIFA World Cup 2022\u2122)",
+        "url": "https://open.spotify.com/album/2KtBif02TzJqevLk0ApO4J"
       },
       "artists": [
-        {
-          "name": "Joey Montana",
-          "url": "https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX"
-        },
         {
           "name": "Danna Paola",
           "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
         },
         {
-          "name": "NASRI",
-          "url": "https://open.spotify.com/artist/7uQh7z7DSuo5DSDLenv1hz"
+          "name": "Felukah",
+          "url": "https://open.spotify.com/artist/0nmukaO2zzwRPEevPJph1F"
+        },
+        {
+          "name": "Tamtam",
+          "url": "https://open.spotify.com/artist/0L8dLj3QGxHctqkzapPfio"
         }
       ],
-      "duration_ms": 183786,
-      "name": "Everything",
-      "url": "https://open.spotify.com/track/0fx9L2QDi387TQQOVnm91O"
+      "duration_ms": 140356,
+      "name": "A Kind Of Magic (Coke Studio Mix for the FIFA World Cup 2022\u2122)",
+      "url": "https://open.spotify.com/track/07CDjBvpGNoTosJS7zcvnq"
     },
     {
       "added_at": null,
@@ -791,26 +791,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Kind Of Magic (Coke Studio Mix for the FIFA World Cup 2022\u2122)",
-        "url": "https://open.spotify.com/album/2KtBif02TzJqevLk0ApO4J"
+        "name": "La Movida",
+        "url": "https://open.spotify.com/album/7JX96Ff9zr74IvC1qGyBvM"
       },
       "artists": [
+        {
+          "name": "Joey Montana",
+          "url": "https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX"
+        },
         {
           "name": "Danna Paola",
           "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
         },
         {
-          "name": "Felukah",
-          "url": "https://open.spotify.com/artist/0nmukaO2zzwRPEevPJph1F"
-        },
-        {
-          "name": "Tamtam",
-          "url": "https://open.spotify.com/artist/0L8dLj3QGxHctqkzapPfio"
+          "name": "NASRI",
+          "url": "https://open.spotify.com/artist/7uQh7z7DSuo5DSDLenv1hz"
         }
       ],
-      "duration_ms": 140356,
-      "name": "A Kind Of Magic (Coke Studio Mix for the FIFA World Cup 2022\u2122)",
-      "url": "https://open.spotify.com/track/07CDjBvpGNoTosJS7zcvnq"
+      "duration_ms": 183786,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/0fx9L2QDi387TQQOVnm91O"
     },
     {
       "added_at": null,
@@ -831,8 +831,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Atrevete A So\u00f1ar (Original Sountrack)",
-        "url": "https://open.spotify.com/album/2xxdR4FrSukKWJ18NuKfgu"
+        "name": "Verano Latino Hits 2020",
+        "url": "https://open.spotify.com/album/7Dqw6ZqR7FvCzaJ3CfvNOm"
       },
       "artists": [
         {
@@ -840,13 +840,13 @@
           "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
         },
         {
-          "name": "Mateo",
-          "url": "https://open.spotify.com/artist/3ZSqOgN2W2NrJ0kDoMj2g0"
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
         }
       ],
-      "duration_ms": 162440,
-      "name": "Quiero Quedarme Aqui",
-      "url": "https://open.spotify.com/track/5NbKBvXnw5YhkHbzMkfJSM"
+      "duration_ms": 182813,
+      "name": "No Bailes Sola",
+      "url": "https://open.spotify.com/track/6srXZHeR5caq4doQSD1ULn"
     },
     {
       "added_at": null,
@@ -883,8 +883,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Verano Latino Hits 2020",
-        "url": "https://open.spotify.com/album/7Dqw6ZqR7FvCzaJ3CfvNOm"
+        "name": "Atrevete A So\u00f1ar (Original Sountrack)",
+        "url": "https://open.spotify.com/album/2xxdR4FrSukKWJ18NuKfgu"
       },
       "artists": [
         {
@@ -892,13 +892,13 @@
           "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
         },
         {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+          "name": "Mateo",
+          "url": "https://open.spotify.com/artist/3ZSqOgN2W2NrJ0kDoMj2g0"
         }
       ],
-      "duration_ms": 182813,
-      "name": "No Bailes Sola",
-      "url": "https://open.spotify.com/track/6srXZHeR5caq4doQSD1ULn"
+      "duration_ms": 162440,
+      "name": "Quiero Quedarme Aqui",
+      "url": "https://open.spotify.com/track/5NbKBvXnw5YhkHbzMkfJSM"
     },
     {
       "added_at": null,

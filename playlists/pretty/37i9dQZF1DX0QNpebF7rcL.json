@@ -1,13 +1,69 @@
 {
   "description": "The best in blues right now. Cover: Joe Bonamassa",
-  "num_followers": 150938,
+  "num_followers": 150985,
   "original_name": "Got Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKcIUKa326gUNvqpzeGO1T5E5KND",
+  "snapshot_id": "AAAAADgAbiehlbvzYpV/gO3t+cfQyOnQ",
   "tracks": [
+    {
+      "added_at": "2026-05-01 04:00:41",
+      "album": {
+        "name": "Time",
+        "url": "https://open.spotify.com/album/3aZOmejxZ6WmTMvLoGY39p"
+      },
+      "artists": [
+        {
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+        },
+        {
+          "name": "Phantom Blues Band",
+          "url": "https://open.spotify.com/artist/1Pi5tK3cAz6VxVKqzMWTTi"
+        }
+      ],
+      "duration_ms": 198118,
+      "name": "You Put The Whammy On Me",
+      "url": "https://open.spotify.com/track/4XlNoEYn3C5o4o44B3PCe5"
+    },
+    {
+      "added_at": "2026-05-01 04:00:41",
+      "album": {
+        "name": "Sideways Thru Time",
+        "url": "https://open.spotify.com/album/3iiePPL0vgb1ami7FO05xY"
+      },
+      "artists": [
+        {
+          "name": "Amani Burnham",
+          "url": "https://open.spotify.com/artist/32dCeVCZ26g53CDEETZOLD"
+        }
+      ],
+      "duration_ms": 182200,
+      "name": "Sideways Thru Time",
+      "url": "https://open.spotify.com/track/5LpsFUdIjEKmee8OOH3r4e"
+    },
+    {
+      "added_at": "2026-05-01 04:00:41",
+      "album": {
+        "name": "Crazy Love",
+        "url": "https://open.spotify.com/album/0yd7wMbdiJMsgiv3XXrJTy"
+      },
+      "artists": [
+        {
+          "name": "GA-20",
+          "url": "https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT"
+        },
+        {
+          "name": "Charlie Musselwhite",
+          "url": "https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc"
+        }
+      ],
+      "duration_ms": 195119,
+      "name": "Crazy Love",
+      "url": "https://open.spotify.com/track/4COHCCcZAdeVCnnK36kUNS"
+    },
     {
       "added_at": "2026-04-24 04:03:28",
       "album": {
@@ -25,20 +81,20 @@
       "url": "https://open.spotify.com/track/1yGDaTh6EdR2UhQIjnokBK"
     },
     {
-      "added_at": "2026-04-17 04:00:59",
+      "added_at": "2026-05-01 04:00:41",
       "album": {
-        "name": "Roots & Wings",
-        "url": "https://open.spotify.com/album/31VSvPpkcluGFzHwBWP9uL"
+        "name": "Wolf Blues",
+        "url": "https://open.spotify.com/album/4ryAF6ruhzLlLaqUirm24o"
       },
       "artists": [
         {
-          "name": "Amani Burnham",
-          "url": "https://open.spotify.com/artist/32dCeVCZ26g53CDEETZOLD"
+          "name": "Mike Stocksdale",
+          "url": "https://open.spotify.com/artist/5hBlYNHQa69ayImuzihy8a"
         }
       ],
-      "duration_ms": 226240,
-      "name": "Roots & Wings",
-      "url": "https://open.spotify.com/track/7eGKkTJGAjTHckLuIEsmjG"
+      "duration_ms": 177181,
+      "name": "Wolf Blues - Single Version",
+      "url": "https://open.spotify.com/track/2rEj96qkmn8a4foUERYUpb"
     },
     {
       "added_at": "2026-04-03 04:00:19",
@@ -71,26 +127,6 @@
       "duration_ms": 420280,
       "name": "Mean Ole Man Of Mine",
       "url": "https://open.spotify.com/track/6JWZuNFOSLRwcGAW82GQEp"
-    },
-    {
-      "added_at": "2026-04-10 04:00:40",
-      "album": {
-        "name": "Wild About My Lovin'",
-        "url": "https://open.spotify.com/album/0xxvug41aaDdUaFWmWs0t7"
-      },
-      "artists": [
-        {
-          "name": "Taj Mahal",
-          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
-        },
-        {
-          "name": "Phantom Blues Band",
-          "url": "https://open.spotify.com/artist/1Pi5tK3cAz6VxVKqzMWTTi"
-        }
-      ],
-      "duration_ms": 343988,
-      "name": "Wild About My Lovin'",
-      "url": "https://open.spotify.com/track/0iuq567Xa1XqYa0zP8gbGq"
     },
     {
       "added_at": "2026-03-27 04:00:07",
@@ -407,22 +443,6 @@
       "duration_ms": 180810,
       "name": "Tougher Now",
       "url": "https://open.spotify.com/track/747VrxQK7vVawAP6EDdB9f"
-    },
-    {
-      "added_at": "2025-11-07 05:00:37",
-      "album": {
-        "name": "Just One More Time",
-        "url": "https://open.spotify.com/album/2b63qU8xnvBoRiYJGoLKFF"
-      },
-      "artists": [
-        {
-          "name": "GA-20",
-          "url": "https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT"
-        }
-      ],
-      "duration_ms": 169626,
-      "name": "Just One More Time",
-      "url": "https://open.spotify.com/track/4dXyMNpMEEKs0ihnj6XnVE"
     },
     {
       "added_at": "2025-10-24 04:00:05",
@@ -1729,22 +1749,6 @@
       "url": "https://open.spotify.com/track/0MqspCptOa5mhL1HJwUmfW"
     },
     {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Shut Up & Play!",
-        "url": "https://open.spotify.com/album/2gW9afujHnMJH3XSKullg1"
-      },
-      "artists": [
-        {
-          "name": "Toronzo Cannon",
-          "url": "https://open.spotify.com/artist/0zqygsU5SAxzfK5hop7As6"
-        }
-      ],
-      "duration_ms": 267102,
-      "name": "I Hate Love",
-      "url": "https://open.spotify.com/track/7FPgVDH2V3uIX61q6Au8yN"
-    },
-    {
       "added_at": "2024-06-28 04:00:00",
       "album": {
         "name": "About Time",
@@ -1811,22 +1815,6 @@
       "duration_ms": 122266,
       "name": "A Flat City",
       "url": "https://open.spotify.com/track/590BnlG9y6C0f9UivPq4qt"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "Running Away",
-        "url": "https://open.spotify.com/album/33lwlkjQC8xLyI4W7YgCTI"
-      },
-      "artists": [
-        {
-          "name": "Julian Taylor",
-          "url": "https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6"
-        }
-      ],
-      "duration_ms": 294960,
-      "name": "Running Away",
-      "url": "https://open.spotify.com/track/6hGu0MWwR53eJbHCAZgWii"
     },
     {
       "added_at": "2024-06-07 04:00:00",

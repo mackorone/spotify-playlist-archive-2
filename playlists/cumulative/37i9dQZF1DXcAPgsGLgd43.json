@@ -352,7 +352,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-11",
+      "date_removed": null,
       "duration_ms": 192701,
       "name": "Alicante",
       "url": "https://open.spotify.com/track/5TqvSIrg2JO71XuWEDCwJj"
@@ -2450,7 +2450,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-25",
+      "date_removed": null,
       "duration_ms": 207804,
       "name": "Chimba",
       "url": "https://open.spotify.com/track/4P043YdrPKrNrF8aqRgGrB"
@@ -4681,6 +4681,28 @@
     },
     {
       "album": {
+        "name": "Gado",
+        "url": "https://open.spotify.com/album/6EZCCzJYH3wxoF63TPOS6K"
+      },
+      "artists": [
+        {
+          "name": "Angelo Morello",
+          "url": "https://open.spotify.com/artist/7kP0ofp2uwyxcf70L4tJmy"
+        },
+        {
+          "name": "vio.",
+          "url": "https://open.spotify.com/artist/1xj27oXPEOGWFrfJLsieaP"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179091,
+      "name": "Gado",
+      "url": "https://open.spotify.com/track/34PMtD6uhx4cr6U3LvMvzW"
+    },
+    {
+      "album": {
         "name": "Get Me There",
         "url": "https://open.spotify.com/album/2hzVqM5sd94DRVzzMUjjFk"
       },
@@ -5310,7 +5332,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-24",
+      "date_removed": null,
       "duration_ms": 137963,
       "name": "La Buena Vida (feat. Tayson Kryss)",
       "url": "https://open.spotify.com/track/0VpQieuQ6vS00yknO16eGy"
@@ -6524,7 +6546,7 @@
       ],
       "date_added": "2025-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 131250,
       "name": "Marinheiro",
       "url": "https://open.spotify.com/track/1dg1QWMMuLsYNa9hVsoqzq"
@@ -6918,7 +6940,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 182075,
       "name": "Monta\u00f1as Oscuras",
       "url": "https://open.spotify.com/track/4uTtTT2d2zAzshVuAN4F9R"
@@ -7830,7 +7852,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 186341,
       "name": "Patadas de Ahogado / LAT\u00cdN MAFIA, HUMBE - Rework",
       "url": "https://open.spotify.com/track/14S2VMZRhekYGluotZ4pqg"
@@ -8176,7 +8198,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 178604,
       "name": "Poco Poco",
       "url": "https://open.spotify.com/track/04N9V07H365hcJSytxYstU"
@@ -8432,6 +8454,24 @@
       "duration_ms": 214959,
       "name": "Que Pasa",
       "url": "https://open.spotify.com/track/7CN0ZjQErfJD4wJatYcpH9"
+    },
+    {
+      "album": {
+        "name": "Que Rico",
+        "url": "https://open.spotify.com/album/2gd4uwQqAh8ptmGo8sVK5p"
+      },
+      "artists": [
+        {
+          "name": "RDL.wav",
+          "url": "https://open.spotify.com/artist/1t0p4O6zk4K1YFqlblfWiC"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377000,
+      "name": "Que Rico",
+      "url": "https://open.spotify.com/track/4d0EQg1pramdmWPKcIaGWh"
     },
     {
       "album": {
@@ -10564,7 +10604,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 190099,
       "name": "Tumba La Casa - Mr. Pauer Remix",
       "url": "https://open.spotify.com/track/7lqWfd2NyIbxmXoyRcVa72"

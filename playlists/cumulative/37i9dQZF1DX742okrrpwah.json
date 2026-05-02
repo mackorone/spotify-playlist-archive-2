@@ -43155,7 +43155,7 @@
         },
         {
           "name": "Tiga",
-          "url": "https://open.spotify.com/artist/6dfbRE1slg9q6xXbMiB9Rn"
+          "url": "https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC"
         }
       ],
       "date_added": "2026-04-30",
@@ -68835,7 +68835,7 @@
         },
         {
           "name": "GLZ",
-          "url": "https://open.spotify.com/artist/3lF9IQbanf5Gc0ewSq1wYn"
+          "url": "https://open.spotify.com/artist/3xpY5gjKMCT54sR2NoXJsr"
         }
       ],
       "date_added": "2026-04-30",
@@ -164993,24 +164993,6 @@
     },
     {
       "album": {
-        "name": "TRUE FORM",
-        "url": "https://open.spotify.com/album/7zhcYEHSJgJEtTWRRvG5hx"
-      },
-      "artists": [
-        {
-          "name": "Kerchak",
-          "url": "https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332"
-        }
-      ],
-      "date_added": "2026-04-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/0dF5kHxB1lKB1mH7fdEM7K"
-    },
-    {
-      "album": {
         "name": "Monica",
         "url": "https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES"
       },
@@ -165920,6 +165902,24 @@
       "duration_ms": 274000,
       "name": "True Believer",
       "url": "https://open.spotify.com/track/6RRYgdkCmVTYHGmId3LpqW"
+    },
+    {
+      "album": {
+        "name": "TRUE FORM",
+        "url": "https://open.spotify.com/album/7zhcYEHSJgJEtTWRRvG5hx"
+      },
+      "artists": [
+        {
+          "name": "Kerchak",
+          "url": "https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167392,
+      "name": "TRUE FORM",
+      "url": "https://open.spotify.com/track/0dF5kHxB1lKB1mH7fdEM7K"
     },
     {
       "album": {

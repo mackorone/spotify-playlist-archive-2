@@ -4,7 +4,7 @@
 
 > Eladio Carrión, Manuel Carrasco, Zara Larsson & Shakira y el resto de novedades de la semana.
 
-5,366 songs - 11 day 11 hr 3 min
+5,366 songs - 11 day 11 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4046,6 +4046,7 @@
 | [Regu](https://open.spotify.com/track/4wlcS37iL0p5UVUG6edsqW) | [Siloé](https://open.spotify.com/artist/5q3atpVIFpXkHlcOKyK0H4) | [Regu](https://open.spotify.com/album/7smTr8I3rF2syaHp2SInhc) | 3:37 | 2026-02-26 | 2026-03-06 |
 | [Regálame la silla donde te esperé](https://open.spotify.com/track/07312EhKNZ17roQox9e3Pg) | [Marta Santos](https://open.spotify.com/artist/2NeFajzkAQ4UfviWdzf0pK) | [Abril](https://open.spotify.com/album/1vBgO63FkRHtDjsVa1YeyJ) | 3:25 | 2026-04-16 | 2026-04-24 |
 | [Reina y soldado](https://open.spotify.com/track/51tXdLA296fXk8bBx7coim) | [Israel B](https://open.spotify.com/artist/16M8fuShcwX8uBDdmFZH9B), [LOWLIGHT](https://open.spotify.com/artist/7LHU5Uga349zOVMpDPf4ij) | [Mi propio peor enemigo](https://open.spotify.com/album/1rdiQu3AiYJAGI1VlYtTXB) | 1:41 | 2024-11-28 | 2024-12-06 |
+| [Reiniciar](https://open.spotify.com/track/3Cd2ZwQy5fmrayFSMN7u8Q) | [Ivan Ferreiro](https://open.spotify.com/artist/3qUrABCNqnkb5gc2YmPVzP) | [Hoy por ayer](https://open.spotify.com/album/46B8dr0mR3NA6CKQgBOhe6) | 4:24 | 2026-05-01 |  |
 | [Release The Pressure](https://open.spotify.com/track/7Dev2VJdJKwIIUdj3lcQl9) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [Release The Pressure](https://open.spotify.com/album/3mFlg0trNYSCnTd0RcN0wx) | 3:23 | 2026-02-05 | 2026-02-13 |
 | [Religión](https://open.spotify.com/track/44Q6j0VouHOJV7EY1JG6Yg) | [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec) | [Religión](https://open.spotify.com/album/5pNBy7P93HLwNQKJK952Gf) | 2:10 | 2024-12-19 | 2025-01-03 |
 | [Relámpago](https://open.spotify.com/track/5pk1xWDgQgcDacfatoYmZ0) | [Victoria Goytea](https://open.spotify.com/artist/6obhy4JV9P9XaDmUjrIuNw), [Xavibo](https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7) | [Relámpago](https://open.spotify.com/album/1FRjrx4OzwGlW3zngD5BSS) | 2:09 | 2024-10-24 | 2024-11-01 |
@@ -4824,8 +4825,6 @@
 | [TOY PERDIO](https://open.spotify.com/track/3JXGcoxUTyBU7AYdpsLdH6) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [TOY PERDIO](https://open.spotify.com/album/41Fx3xFa1msZKkLGXVgm4t) | 2:55 | 2024-10-24 | 2024-11-01 |
 | [Toy Story](https://open.spotify.com/track/6sECmHwUS9n548OI13gbuz) | [Oktoba](https://open.spotify.com/artist/7iF9N7YIpnJGJ5aPfeWO7n), [Lupita's Friends](https://open.spotify.com/artist/7gGKjAXKRyDUhSUhFDIaAW) | [Malice](https://open.spotify.com/album/6HLImqUBoibcVAjMxHoQyn) | 2:36 | 2025-07-10 | 2025-07-18 |
 | [TRABAJAR EN VERANO](https://open.spotify.com/track/6lTJGk4VIeMViR74OiCzsT) | [HORROCRUX](https://open.spotify.com/artist/1voKh33KLw9EzZHBms3NzW) | [AMARILLO VERANO](https://open.spotify.com/album/2HLAjP0WXLbYbWCFF03TZP) | 2:40 | 2025-08-07 | 2025-08-15 |
-| [Track 1](https://open.spotify.com/track/6TqRBg4yCqS1G0tVYaVbM9) | [Salistre](https://open.spotify.com/artist/7cwETpw63qjveV8UjEHds0) | [VAIVÉN](https://open.spotify.com/album/1C41EPQfvbBY7W6nzGpYPB) | 0:00 | 2026-05-01 |  |
-| [Track 3](https://open.spotify.com/track/3Cd2ZwQy5fmrayFSMN7u8Q) | [Ivan Ferreiro](https://open.spotify.com/artist/3qUrABCNqnkb5gc2YmPVzP) | [Hoy por ayer](https://open.spotify.com/album/46B8dr0mR3NA6CKQgBOhe6) | 0:00 | 2026-05-01 |  |
 | [Trade Places](https://open.spotify.com/track/3yBI1IVune0k7Tsmcy8BVh) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Monica](https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES) | 3:02 | 2026-03-13 | 2026-03-20 |
 | [Traficando Rap](https://open.spotify.com/track/0jTEOIQZUr9915RLWVMNh1) | [J Noa](https://open.spotify.com/artist/4gknAwZk7sfjge8Bho6xre), [LOWLIGHT](https://open.spotify.com/artist/7LHU5Uga349zOVMpDPf4ij) | [Traficando Rap](https://open.spotify.com/album/6AVwplC1dMqFzAt2tGm7g5) | 2:44 | 2025-02-28 | 2025-03-07 |
 | [TRAGO \#1 LOLOLO](https://open.spotify.com/track/4hwdIStMgDWTkFBoNSwlM8) | [Dímelo Flow](https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Altafulla](https://open.spotify.com/artist/0Tr6PMUYJ3MupljA0MS4Dy), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [TRAGO \#1 LOLOLO](https://open.spotify.com/album/1ASpVS2RnpVQ3PdBh2rhd8) | 3:05 | 2025-08-15 | 2025-08-22 |
@@ -5039,6 +5038,7 @@
 | [UYUNI](https://open.spotify.com/track/1Hq9DR1s1DZIlpNZMEFA0v) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [afroLOVA 25'](https://open.spotify.com/album/6j8S3AOIOXBR1qfd3n2wHm) | 2:37 | 2025-06-19 | 2025-06-27 |
 | [V1V3](https://open.spotify.com/track/3NX9uZgyjqZ4MFnbbUXqfZ) | [KYR4](https://open.spotify.com/artist/1nm61H1nuw0QZ86AuH0wv2), [Vnder](https://open.spotify.com/artist/0PRBVwG0LpcKJzvrP5oNRb), [SLOWMXBEATZ](https://open.spotify.com/artist/1r1zyjf5wMrGc37Zn4JLhH) | [V1V3](https://open.spotify.com/album/5ysw4tLG7YhdryzPrvzgko) | 3:11 | 2025-10-16 | 2025-10-24 |
 | [Vacas y Lobos](https://open.spotify.com/track/5wJBwxnoAs1BmxZivpFqup) | [Juancho Marqués](https://open.spotify.com/artist/5JcO3FHEBbWTQMUHmWtU2g), [Juan Arance](https://open.spotify.com/artist/7zVa1nAsArJxi8DCQa3NAB) | [Vacas y Lobos](https://open.spotify.com/album/4Nxn6GYBsoZ4cCe3UvWUj8) | 3:18 | 2025-01-16 | 2025-01-24 |
+| [VAIVÉN](https://open.spotify.com/track/6TqRBg4yCqS1G0tVYaVbM9) | [Salistre](https://open.spotify.com/artist/7cwETpw63qjveV8UjEHds0) | [VAIVÉN](https://open.spotify.com/album/1C41EPQfvbBY7W6nzGpYPB) | 2:28 | 2026-05-01 |  |
 | [Valentina](https://open.spotify.com/track/3sGbNEGNSHh6zYYrXGtb9O) | [Ale Acosta](https://open.spotify.com/artist/1tqvdpL1WYZ7js010M2AJx) | [Valentina](https://open.spotify.com/album/68HwA2OfTBT3WH1NFt0mcI) | 3:34 | 2025-05-08 | 2025-05-16 |
 | [VALENTINO](https://open.spotify.com/track/5xkD169LHyEmpZAdoQOaMN) | [Aissa](https://open.spotify.com/artist/6RWMnZmXs8Ob715qLr4374), [Nake](https://open.spotify.com/artist/6hJnrA58ELi64NP1TDyzQG) | [VALENTINO](https://open.spotify.com/album/1cVIr15MqnIYUrmBMA0W8j) | 2:17 | 2025-04-04 | 2025-04-11 |
 | [Valentino](https://open.spotify.com/track/7hoN2c2hCP8Q97Okt7M5p4) | [Suave](https://open.spotify.com/artist/0b4DkhqzNopg5GYxYU4tJ9), [J.Moods](https://open.spotify.com/artist/7q3hzOFspDedtkyBi1Azc8), [D\-Jong](https://open.spotify.com/artist/58cWA46aG1S9BcBlDgKuvr) | [Valentino](https://open.spotify.com/album/5Zli2ss5VHOTFCS926kqog) | 2:38 | 2025-03-07 | 2025-03-14 |

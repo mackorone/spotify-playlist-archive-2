@@ -5023,6 +5023,24 @@
     },
     {
       "album": {
+        "name": "False Prophet",
+        "url": "https://open.spotify.com/album/29bErY1NGaYrHjmNIMvX7x"
+      },
+      "artists": [
+        {
+          "name": "Holy Island",
+          "url": "https://open.spotify.com/artist/4mDskLBS4JOyI52mzQ9H5m"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250000,
+      "name": "False Prophet",
+      "url": "https://open.spotify.com/track/3wE5xlV9u7L91aa7KfknwG"
+    },
+    {
+      "album": {
         "name": "Fama Drama",
         "url": "https://open.spotify.com/album/6QiMD6Cfr3QmcpLezXr5YD"
       },
@@ -10153,6 +10171,24 @@
     },
     {
       "album": {
+        "name": "Mediocre Men",
+        "url": "https://open.spotify.com/album/7ePV736XzcdtRWSeOKuPcm"
+      },
+      "artists": [
+        {
+          "name": "Jay Moussa-Mann",
+          "url": "https://open.spotify.com/artist/2aSlAzC15sb0NojtkwfsYz"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207500,
+      "name": "Mediocre Men",
+      "url": "https://open.spotify.com/track/1f8fJND1Iy4Qw87rPvUYIC"
+    },
+    {
+      "album": {
         "name": "No Jardim dos Acasos",
         "url": "https://open.spotify.com/album/4C7QeFe3HpzJ1tNlY9fd9i"
       },
@@ -13280,6 +13316,24 @@
       "duration_ms": 156862,
       "name": "Right guy wrong mouth",
       "url": "https://open.spotify.com/track/6JjW4HuSCbEjr8l3svYlH2"
+    },
+    {
+      "album": {
+        "name": "RISE",
+        "url": "https://open.spotify.com/album/2YaB8Qf03MLpRVAGZopKaO"
+      },
+      "artists": [
+        {
+          "name": "The Pleasure Merchants",
+          "url": "https://open.spotify.com/artist/0HLhZJBnQ6Sz23PW4cIyHF"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251872,
+      "name": "RISE",
+      "url": "https://open.spotify.com/track/0ibRgMJrrNUvPDmtYyBkmQ"
     },
     {
       "album": {

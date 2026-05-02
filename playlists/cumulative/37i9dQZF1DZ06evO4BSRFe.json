@@ -81,6 +81,24 @@
     },
     {
       "album": {
+        "name": "Adi\u00f3s, Adi\u00f3s Amor",
+        "url": "https://open.spotify.com/album/2LQjVbEhDW7ozDdP94mMRV"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215692,
+      "name": "Adi\u00f3s, Adi\u00f3s Amor",
+      "url": "https://open.spotify.com/track/0jOm2sXW94ygQsznYwSg8i"
+    },
+    {
+      "album": {
         "name": "Sangre de indio",
         "url": "https://open.spotify.com/album/5nUqvx6cvJkT78iAqnU6dY"
       },
@@ -294,7 +312,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 190226,
       "name": "El mandilon",
       "url": "https://open.spotify.com/track/6jLka2PiSCyGNpSTLiVB1l"

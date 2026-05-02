@@ -1,6 +1,6 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 158829,
+  "num_followers": 158816,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
@@ -83,30 +83,6 @@
     {
       "added_at": "2026-04-20 14:17:08",
       "album": {
-        "name": "IMAGINA",
-        "url": "https://open.spotify.com/album/7DBsfSTZ1XAUlZaKWokAVK"
-      },
-      "artists": [
-        {
-          "name": "DAY LIMNS",
-          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
-        },
-        {
-          "name": "Giana Mello",
-          "url": "https://open.spotify.com/artist/2z4LMq3xuAqNh0gNIicsVi"
-        },
-        {
-          "name": "Los Brasileros",
-          "url": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW"
-        }
-      ],
-      "duration_ms": 133846,
-      "name": "IMAGINA",
-      "url": "https://open.spotify.com/track/7o7rLBI5mkdpnrDbKi6HrN"
-    },
-    {
-      "added_at": "2026-04-20 14:17:08",
-      "album": {
         "name": "Praia do Rosa (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/0ZctkhWjiHRZ4t20iKd2Ql"
       },
@@ -127,6 +103,30 @@
       "duration_ms": 256523,
       "name": "Praia do Rosa - Ac\u00fastico",
       "url": "https://open.spotify.com/track/5lYKob6hewwt3dcy5kWMfF"
+    },
+    {
+      "added_at": "2026-04-20 14:17:08",
+      "album": {
+        "name": "IMAGINA",
+        "url": "https://open.spotify.com/album/7DBsfSTZ1XAUlZaKWokAVK"
+      },
+      "artists": [
+        {
+          "name": "DAY LIMNS",
+          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
+        },
+        {
+          "name": "Giana Mello",
+          "url": "https://open.spotify.com/artist/2z4LMq3xuAqNh0gNIicsVi"
+        },
+        {
+          "name": "Los Brasileros",
+          "url": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW"
+        }
+      ],
+      "duration_ms": 133846,
+      "name": "IMAGINA",
+      "url": "https://open.spotify.com/track/7o7rLBI5mkdpnrDbKi6HrN"
     },
     {
       "added_at": "2026-04-20 14:17:08",
@@ -671,6 +671,26 @@
     {
       "added_at": "2026-04-20 14:17:08",
       "album": {
+        "name": "Garotas s\u00e3o Confusas (Deluxe)",
+        "url": "https://open.spotify.com/album/5aQcD7w6t6fWkwgbSvU1A7"
+      },
+      "artists": [
+        {
+          "name": "Chase",
+          "url": "https://open.spotify.com/artist/7oOpwEg9o9LWn0xWdCwMXo"
+        },
+        {
+          "name": "Dudu",
+          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
+        }
+      ],
+      "duration_ms": 139780,
+      "name": "A Festa",
+      "url": "https://open.spotify.com/track/77bOpmfngV5UKOWBtKluRf"
+    },
+    {
+      "added_at": "2026-04-20 14:17:08",
+      "album": {
         "name": "Ravi",
         "url": "https://open.spotify.com/album/6cQ9MrRLvyqXj30x3jTctL"
       },
@@ -691,26 +711,6 @@
       "duration_ms": 166440,
       "name": "Ravi",
       "url": "https://open.spotify.com/track/2MZpemTUrTTyOrX5VIkhix"
-    },
-    {
-      "added_at": "2026-04-20 14:17:08",
-      "album": {
-        "name": "Garotas s\u00e3o Confusas (Deluxe)",
-        "url": "https://open.spotify.com/album/5aQcD7w6t6fWkwgbSvU1A7"
-      },
-      "artists": [
-        {
-          "name": "Chase",
-          "url": "https://open.spotify.com/artist/7oOpwEg9o9LWn0xWdCwMXo"
-        },
-        {
-          "name": "Dudu",
-          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
-        }
-      ],
-      "duration_ms": 139780,
-      "name": "A Festa",
-      "url": "https://open.spotify.com/track/77bOpmfngV5UKOWBtKluRf"
     },
     {
       "added_at": "2026-04-20 14:17:08",
@@ -775,6 +775,22 @@
     {
       "added_at": "2026-04-20 14:17:08",
       "album": {
+        "name": "Ac\u00fastico: Sem Perceber + 4 da Manh\u00e3",
+        "url": "https://open.spotify.com/album/6wInOtdqAA15z0ZK6v0AjR"
+      },
+      "artists": [
+        {
+          "name": "Vitinho",
+          "url": "https://open.spotify.com/artist/09djLPsTydbIFC9duW5mQp"
+        }
+      ],
+      "duration_ms": 208485,
+      "name": "4 da Manh\u00e3 - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/57bo2W60Td9nuMYvwCCty2"
+    },
+    {
+      "added_at": "2026-04-20 14:17:08",
+      "album": {
         "name": "Bateu Saudade",
         "url": "https://open.spotify.com/album/2NKKvnmha3O6zdVbqRz621"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 230581,
       "name": "Bateu Saudade",
       "url": "https://open.spotify.com/track/7ADV6H8YX1nIjj10EwBIsT"
-    },
-    {
-      "added_at": "2026-04-20 14:17:08",
-      "album": {
-        "name": "Ac\u00fastico: Sem Perceber + 4 da Manh\u00e3",
-        "url": "https://open.spotify.com/album/6wInOtdqAA15z0ZK6v0AjR"
-      },
-      "artists": [
-        {
-          "name": "Vitinho",
-          "url": "https://open.spotify.com/artist/09djLPsTydbIFC9duW5mQp"
-        }
-      ],
-      "duration_ms": 208485,
-      "name": "4 da Manh\u00e3 - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/57bo2W60Td9nuMYvwCCty2"
     },
     {
       "added_at": "2026-04-20 14:17:08",

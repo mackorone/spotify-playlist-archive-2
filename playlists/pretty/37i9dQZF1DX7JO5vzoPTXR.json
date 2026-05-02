@@ -1,13 +1,113 @@
 {
-  "description": "Songs that are 100% written, produced, and performed by Women! Co-Curated this month by:  <a href=\"spotify:playlist:37i9dQZF1EFxFD4d1Adk5m\">Maegan Cottone</a> ",
-  "num_followers": 88353,
+  "description": "Songs that are 100% written, produced, and performed by Women! Co-Curated this month by:  <a href=\"spotify:playlist:37i9dQZF1EFO7Uzjunmbbs\">Emily Weisband</a> ",
+  "num_followers": 88390,
   "original_name": "Created by Women",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKtc+MLfQhBC96c2+cl4M0xt4fx+",
+  "snapshot_id": "AAAAAIfjyDNUtYUAg9ZKsQ70Z/sJVG3v",
   "tracks": [
+    {
+      "added_at": "2026-05-01 04:00:37",
+      "album": {
+        "name": "Mount Pleasant",
+        "url": "https://open.spotify.com/album/1yaXyTC6w78QNjlYURpqEa"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 130053,
+      "name": "I Sit In Parks",
+      "url": "https://open.spotify.com/track/7fOUziomHCNuN5PmAHgLsm"
+    },
+    {
+      "added_at": "2026-05-01 04:00:37",
+      "album": {
+        "name": "The Women of Cheatham County",
+        "url": "https://open.spotify.com/album/1kRhe9DcLYQFBOhRZpI4Zm"
+      },
+      "artists": [
+        {
+          "name": "Summer Overstreet",
+          "url": "https://open.spotify.com/artist/73z6hYt1jsBWSbm2irWqlz"
+        },
+        {
+          "name": "Savana Santos",
+          "url": "https://open.spotify.com/artist/4319F2mBye7whEKPHX8pSm"
+        }
+      ],
+      "duration_ms": 211666,
+      "name": "Good Little Industry Girl",
+      "url": "https://open.spotify.com/track/6P5hi8WoUP9mjrYgJAZrir"
+    },
+    {
+      "added_at": "2026-05-01 04:00:37",
+      "album": {
+        "name": "Turns Out I'm Amazing",
+        "url": "https://open.spotify.com/album/641tMgvBwVOhW7HzaisxHS"
+      },
+      "artists": [
+        {
+          "name": "Carol Ades",
+          "url": "https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr"
+        }
+      ],
+      "duration_ms": 207336,
+      "name": "Turns Out I'm Amazing",
+      "url": "https://open.spotify.com/track/362gyXf96N1s6Zir6oM6vM"
+    },
+    {
+      "added_at": "2026-05-01 04:00:37",
+      "album": {
+        "name": "Speak for Yourself (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5DuihGAcuJdwyktx3EmncM"
+      },
+      "artists": [
+        {
+          "name": "Imogen Heap",
+          "url": "https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz"
+        }
+      ],
+      "duration_ms": 268488,
+      "name": "Hide and Seek",
+      "url": "https://open.spotify.com/track/2tej1KSqNuxwywIpY1rDRc"
+    },
+    {
+      "added_at": "2026-04-03 17:14:05",
+      "album": {
+        "name": "The Tree",
+        "url": "https://open.spotify.com/album/2Jv8rT6pudH0eIlgu90zKm"
+      },
+      "artists": [
+        {
+          "name": "Lori McKenna",
+          "url": "https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl"
+        }
+      ],
+      "duration_ms": 193798,
+      "name": "You Can't Break a Woman",
+      "url": "https://open.spotify.com/track/48UVtNxqaWy9PpOhfJXwnu"
+    },
+    {
+      "added_at": "2026-04-03 17:14:05",
+      "album": {
+        "name": "Triple Shooting Star",
+        "url": "https://open.spotify.com/album/1aKpJBuspv01k8rfpD4wqR"
+      },
+      "artists": [
+        {
+          "name": "Annika Bennett",
+          "url": "https://open.spotify.com/artist/6p6WfcngzvbVPbmV9HMb5l"
+        }
+      ],
+      "duration_ms": 238641,
+      "name": "Fuck Up",
+      "url": "https://open.spotify.com/track/2VqTaE9U6JIbOMXuHYyCYT"
+    },
     {
       "added_at": "2026-04-03 17:14:05",
       "album": {
@@ -155,22 +255,6 @@
       "duration_ms": 215789,
       "name": "Summer Fling",
       "url": "https://open.spotify.com/track/0370DYqDziz7hpwlMBKRx5"
-    },
-    {
-      "added_at": "2026-04-03 17:14:05",
-      "album": {
-        "name": "Triple Shooting Star",
-        "url": "https://open.spotify.com/album/1aKpJBuspv01k8rfpD4wqR"
-      },
-      "artists": [
-        {
-          "name": "Annika Bennett",
-          "url": "https://open.spotify.com/artist/6p6WfcngzvbVPbmV9HMb5l"
-        }
-      ],
-      "duration_ms": 238641,
-      "name": "Fuck Up",
-      "url": "https://open.spotify.com/track/2VqTaE9U6JIbOMXuHYyCYT"
     },
     {
       "added_at": "2026-04-03 17:14:05",
@@ -427,22 +511,6 @@
       "duration_ms": 208420,
       "name": "Whether You Love Me or Not",
       "url": "https://open.spotify.com/track/6zi7wW6xFHIMwMdpRAu2VH"
-    },
-    {
-      "added_at": "2026-04-03 17:14:05",
-      "album": {
-        "name": "The Tree",
-        "url": "https://open.spotify.com/album/2Jv8rT6pudH0eIlgu90zKm"
-      },
-      "artists": [
-        {
-          "name": "Lori McKenna",
-          "url": "https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl"
-        }
-      ],
-      "duration_ms": 193798,
-      "name": "You Can't Break a Woman",
-      "url": "https://open.spotify.com/track/48UVtNxqaWy9PpOhfJXwnu"
     },
     {
       "added_at": "2026-04-03 17:14:05",
@@ -747,70 +815,6 @@
       "duration_ms": 195424,
       "name": "The Greatest",
       "url": "https://open.spotify.com/track/1oiD5zGVKxlMNCxSUXGL9g"
-    },
-    {
-      "added_at": "2026-04-03 17:14:05",
-      "album": {
-        "name": "We Are KING",
-        "url": "https://open.spotify.com/album/3FYKiMNG19UUdbs8xhpZc7"
-      },
-      "artists": [
-        {
-          "name": "We Are KING",
-          "url": "https://open.spotify.com/artist/0FPWyyf6MD4QZTj3aypD3O"
-        }
-      ],
-      "duration_ms": 286004,
-      "name": "The Right One",
-      "url": "https://open.spotify.com/track/4v36nWrqRSwPlCQgQsb7Wx"
-    },
-    {
-      "added_at": "2026-04-03 17:14:05",
-      "album": {
-        "name": "Speak for Yourself (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5DuihGAcuJdwyktx3EmncM"
-      },
-      "artists": [
-        {
-          "name": "Imogen Heap",
-          "url": "https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz"
-        }
-      ],
-      "duration_ms": 215338,
-      "name": "Headlock",
-      "url": "https://open.spotify.com/track/63Pi2NAx5yCgeLhCTOrEou"
-    },
-    {
-      "added_at": "2026-04-03 17:14:05",
-      "album": {
-        "name": "Devotion",
-        "url": "https://open.spotify.com/album/15GocbF7ybkkPP03YXtLqv"
-      },
-      "artists": [
-        {
-          "name": "Tirzah",
-          "url": "https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd"
-        }
-      ],
-      "duration_ms": 199733,
-      "name": "Holding On",
-      "url": "https://open.spotify.com/track/4RjwMyr4D2W4py79Heop9l"
-    },
-    {
-      "added_at": "2026-04-03 17:14:05",
-      "album": {
-        "name": "SERiAL KiLLER",
-        "url": "https://open.spotify.com/album/0izQeMP2SyIqsD8vH3s3bi"
-      },
-      "artists": [
-        {
-          "name": "Ella Boh",
-          "url": "https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11"
-        }
-      ],
-      "duration_ms": 172317,
-      "name": "SERiAL KiLLER",
-      "url": "https://open.spotify.com/track/5hAKpqv7L2bhzzQr4XDN6z"
     }
   ],
   "unique_name": "Created by Women",

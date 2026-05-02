@@ -1,15 +1,31 @@
 {
-  "description": "100% rock brasileiro. Foto: Fresno",
-  "num_followers": 477446,
+  "description": "100% rock brasileiro. Foto: Tangolo Mangos",
+  "num_followers": 477398,
   "original_name": "P\u00e1tria Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPGvGcwA3jU68wClWqyu8jU0O4I+",
+  "snapshot_id": "AAAAAIlLF1HnvpI0lOIxIbR0frIKrTKw",
   "tracks": [
     {
-      "added_at": "2026-04-24 03:03:01",
+      "added_at": "2026-05-01 03:03:21",
+      "album": {
+        "name": "DOMIN\u00d3 (Cita\u00e7\u00e3o: \"Falando Nisso\")",
+        "url": "https://open.spotify.com/album/2f4LrmNqeE8LKWxDmAhRuu"
+      },
+      "artists": [
+        {
+          "name": "Tangolo Mangos",
+          "url": "https://open.spotify.com/artist/5i8xf9hZ3c5aXFO5WdrO6o"
+        }
+      ],
+      "duration_ms": 243442,
+      "name": "DOMIN\u00d3 (Cita\u00e7\u00e3o: \"Falando Nisso\")",
+      "url": "https://open.spotify.com/track/0GWEX9n7SctqXZ8qpUmZga"
+    },
+    {
+      "added_at": "2026-05-01 03:03:21",
       "album": {
         "name": "Carta de Adeus",
         "url": "https://open.spotify.com/album/33vakWPP6Ze0sxf8A5kcss"
@@ -25,7 +41,23 @@
       "url": "https://open.spotify.com/track/4x7OZJzLzYfPCir3PvND29"
     },
     {
-      "added_at": "2026-04-24 03:03:01",
+      "added_at": "2026-05-01 03:03:21",
+      "album": {
+        "name": "BRIO",
+        "url": "https://open.spotify.com/album/0mUcHag1CtYrJ2EC8BpB80"
+      },
+      "artists": [
+        {
+          "name": "RANCORE",
+          "url": "https://open.spotify.com/artist/3KR4M3bAqWbADfTTDdfMDM"
+        }
+      ],
+      "duration_ms": 191354,
+      "name": "CORD\u00c3O DE OURO",
+      "url": "https://open.spotify.com/track/4iQFYw9jAh2xascHyHH9eX"
+    },
+    {
+      "added_at": "2026-05-01 03:03:21",
       "album": {
         "name": "Pressa",
         "url": "https://open.spotify.com/album/5HqSXsBNn1o7WDs1MPZM9A"
@@ -45,7 +77,7 @@
       "url": "https://open.spotify.com/track/6SUcH8xNGo9P4pop5WuWXG"
     },
     {
-      "added_at": "2026-04-24 03:03:01",
+      "added_at": "2026-05-01 03:03:21",
       "album": {
         "name": "20 Anos - Ac\u00fastico",
         "url": "https://open.spotify.com/album/16okUPvniGJp4tXjeLBgLw"
@@ -73,23 +105,7 @@
       "url": "https://open.spotify.com/track/4bsZ1px2MlpkIviocF4qFv"
     },
     {
-      "added_at": "2026-04-24 03:03:01",
-      "album": {
-        "name": "Cola (Ao Vivo no Circo Voador)",
-        "url": "https://open.spotify.com/album/4LzoC30pP6yFjavPrULNtE"
-      },
-      "artists": [
-        {
-          "name": "Black Pantera",
-          "url": "https://open.spotify.com/artist/2PftOgEPewb4XsaeE4567t"
-        }
-      ],
-      "duration_ms": 126448,
-      "name": "Cola - Ao Vivo no Circo Voador",
-      "url": "https://open.spotify.com/track/3RIaUfQVP9ibjO8aQM3Dar"
-    },
-    {
-      "added_at": "2026-04-24 03:03:01",
+      "added_at": "2026-05-01 03:03:21",
       "album": {
         "name": "Beyond the Dream",
         "url": "https://open.spotify.com/album/4RbdRqdEwnWjcTGeYKUNz1"
@@ -105,7 +121,7 @@
       "url": "https://open.spotify.com/track/2TJn2Jgac1U5a2gIb66gKL"
     },
     {
-      "added_at": "2026-04-24 03:03:01",
+      "added_at": "2026-05-01 03:03:21",
       "album": {
         "name": "Acelera\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/49V35LbDrHrmGgqModSxwF"
@@ -121,7 +137,7 @@
       "url": "https://open.spotify.com/track/1ytWr2DLv9xdTxc1vJQsd1"
     },
     {
-      "added_at": "2026-04-24 03:03:01",
+      "added_at": "2026-05-01 03:03:21",
       "album": {
         "name": "ACNXX Ao Vivo em Salvador",
         "url": "https://open.spotify.com/album/6gNktSnoD3M0KFIecwOBeJ"
@@ -137,27 +153,7 @@
       "url": "https://open.spotify.com/track/0xOLW52lNZdUssAMxgcTn5"
     },
     {
-      "added_at": "2026-04-24 03:03:01",
-      "album": {
-        "name": "Estilha\u00e7o",
-        "url": "https://open.spotify.com/album/6XTzJFIffJxyzmDATDHx1K"
-      },
-      "artists": [
-        {
-          "name": "Procurando Kalu",
-          "url": "https://open.spotify.com/artist/36jrB7eq6KlOLWJQ7Lp0Yx"
-        },
-        {
-          "name": "BUHR",
-          "url": "https://open.spotify.com/artist/02aXPl7xsSoWlV77cUXtbm"
-        }
-      ],
-      "duration_ms": 302333,
-      "name": "Estilha\u00e7o",
-      "url": "https://open.spotify.com/track/4yWWKYMnxHZQJEPh7RPcLQ"
-    },
-    {
-      "added_at": "2026-04-24 03:03:01",
+      "added_at": "2026-05-01 03:03:21",
       "album": {
         "name": "Quem Sou Eu?",
         "url": "https://open.spotify.com/album/7zrIW55BwrhgiRjB9rszrS"
@@ -177,7 +173,23 @@
       "url": "https://open.spotify.com/track/2Le0PY8DyyaJ0vGLGtEUK4"
     },
     {
-      "added_at": "2026-04-24 03:03:01",
+      "added_at": "2026-05-01 03:03:21",
+      "album": {
+        "name": "Para Com Essa Parada",
+        "url": "https://open.spotify.com/album/3sz7PnDy5UPaglxsAhbHzb"
+      },
+      "artists": [
+        {
+          "name": "Melton Sello",
+          "url": "https://open.spotify.com/artist/7AUp5xRntoLX5IjNuV7B1i"
+        }
+      ],
+      "duration_ms": 205500,
+      "name": "Para Com Essa Parada",
+      "url": "https://open.spotify.com/track/10BRDD6QG8yIWYxNEAd6ZM"
+    },
+    {
+      "added_at": "2026-05-01 03:03:21",
       "album": {
         "name": "R\u00e1dio Love Nacional",
         "url": "https://open.spotify.com/album/1xkaz4CYpvhnsHAHBlmqRv"
@@ -193,7 +205,7 @@
       "url": "https://open.spotify.com/track/4FvLxCjHYdTUKlCPRtXhrc"
     },
     {
-      "added_at": "2026-04-24 03:03:01",
+      "added_at": "2026-05-01 03:03:21",
       "album": {
         "name": "Frut\u00edfero",
         "url": "https://open.spotify.com/album/5NjD5I7YZ5DTYuTNN0QkGK"
@@ -209,23 +221,31 @@
       "url": "https://open.spotify.com/track/2SZ2QCsVtttTB4jNX9oOJX"
     },
     {
-      "added_at": "2026-04-24 03:03:01",
+      "added_at": "2026-05-01 03:03:21",
       "album": {
-        "name": "Circo dos Horrores",
-        "url": "https://open.spotify.com/album/3JVYhzCchZFfX0g9vA73qk"
+        "name": "Garra",
+        "url": "https://open.spotify.com/album/2BuDLfmFs4r59bm6zdmZ7X"
       },
       "artists": [
         {
-          "name": "Playmoboys",
-          "url": "https://open.spotify.com/artist/0s8qjO7TpmquR2AvmtjTzw"
+          "name": "Al\u00e9xia",
+          "url": "https://open.spotify.com/artist/0gghUo9m1hdkVA1LA2rwCE"
+        },
+        {
+          "name": "Mi Vieira",
+          "url": "https://open.spotify.com/artist/0oTNhookvQmxv8kIWry5Bi"
+        },
+        {
+          "name": "Gloria",
+          "url": "https://open.spotify.com/artist/7IvxX9RKB0Tal8lE7LZxXN"
         }
       ],
-      "duration_ms": 159051,
-      "name": "Circo dos Horrores",
-      "url": "https://open.spotify.com/track/2z855f6w15tkhaVpQcqgeM"
+      "duration_ms": 173091,
+      "name": "I Don't Wanna Die",
+      "url": "https://open.spotify.com/track/76fkjJ43JhSYfiMyO7Bc03"
     },
     {
-      "added_at": "2026-04-24 03:03:01",
+      "added_at": "2026-05-01 03:03:21",
       "album": {
         "name": "XXX",
         "url": "https://open.spotify.com/album/7hblqnTE9JBown6OuvVJNh"
@@ -241,23 +261,27 @@
       "url": "https://open.spotify.com/track/6S71HoKuRv0DkUseOwBWwl"
     },
     {
-      "added_at": "2026-04-24 03:03:01",
+      "added_at": "2026-05-01 03:03:21",
       "album": {
-        "name": "Perspectiva",
-        "url": "https://open.spotify.com/album/7MVLwQzkCwiVraGaEHpw1h"
+        "name": "Estilha\u00e7o",
+        "url": "https://open.spotify.com/album/6XTzJFIffJxyzmDATDHx1K"
       },
       "artists": [
         {
-          "name": "Botoneck",
-          "url": "https://open.spotify.com/artist/2ZISsBhQQkOcCLAa4OEBYM"
+          "name": "Procurando Kalu",
+          "url": "https://open.spotify.com/artist/36jrB7eq6KlOLWJQ7Lp0Yx"
+        },
+        {
+          "name": "BUHR",
+          "url": "https://open.spotify.com/artist/02aXPl7xsSoWlV77cUXtbm"
         }
       ],
-      "duration_ms": 234413,
-      "name": "Rel\u00f3gio",
-      "url": "https://open.spotify.com/track/10ehnUrR5Hbuu2LV2TGN4C"
+      "duration_ms": 302333,
+      "name": "Estilha\u00e7o",
+      "url": "https://open.spotify.com/track/4yWWKYMnxHZQJEPh7RPcLQ"
     },
     {
-      "added_at": "2026-04-24 03:03:01",
+      "added_at": "2026-05-01 03:03:21",
       "album": {
         "name": "Loka",
         "url": "https://open.spotify.com/album/36C4Fni5sI7h3NF3WWcbQz"
@@ -273,23 +297,23 @@
       "url": "https://open.spotify.com/track/39PbGKDVJ1rYgaLnaTuBz1"
     },
     {
-      "added_at": "2026-04-24 03:03:01",
+      "added_at": "2026-05-01 03:03:21",
       "album": {
-        "name": "Artificial Intelligence",
-        "url": "https://open.spotify.com/album/1JikgcE16texZRuhRy5Aht"
+        "name": "Champs",
+        "url": "https://open.spotify.com/album/64v9LnK6y9kcVQruiMXZvm"
       },
       "artists": [
         {
-          "name": "Nasi",
-          "url": "https://open.spotify.com/artist/7HJkYWzMCiXIJEHserfc0Z"
+          "name": "Supla",
+          "url": "https://open.spotify.com/artist/7F0xfkXz1ucZLGi6ktLelR"
         }
       ],
-      "duration_ms": 170880,
-      "name": "Perigoso",
-      "url": "https://open.spotify.com/track/2S5RlUF5a1A6dLOJdWzvrr"
+      "duration_ms": 147447,
+      "name": "Champs",
+      "url": "https://open.spotify.com/track/7pZvDhII3FYfTb5RtKhxcD"
     },
     {
-      "added_at": "2026-04-24 03:03:01",
+      "added_at": "2026-05-01 03:03:21",
       "album": {
         "name": "Potinho de Veneno",
         "url": "https://open.spotify.com/album/0FEy7NRnyMSxHF0GSl1Ifw"
@@ -305,55 +329,7 @@
       "url": "https://open.spotify.com/track/3smgMtxQbgUXzNCVxWaIeX"
     },
     {
-      "added_at": "2026-04-24 03:03:01",
-      "album": {
-        "name": "O Sal da Terra",
-        "url": "https://open.spotify.com/album/7D9zor8ZneQBDcGVrquD0h"
-      },
-      "artists": [
-        {
-          "name": "Paulo Miklos",
-          "url": "https://open.spotify.com/artist/4GIB9MiZTggcpRXOPXRSJe"
-        }
-      ],
-      "duration_ms": 191100,
-      "name": "O Sal da Terra",
-      "url": "https://open.spotify.com/track/47OlYFYl49Sr1rSFagwpyY"
-    },
-    {
-      "added_at": "2026-04-24 03:03:01",
-      "album": {
-        "name": "EU QUERO VIVER",
-        "url": "https://open.spotify.com/album/39qkzFsGJOgOtuwY5ujpLy"
-      },
-      "artists": [
-        {
-          "name": "RANCORE",
-          "url": "https://open.spotify.com/artist/3KR4M3bAqWbADfTTDdfMDM"
-        }
-      ],
-      "duration_ms": 193429,
-      "name": "EU QUERO VIVER",
-      "url": "https://open.spotify.com/track/18Vb9R5RB7dQuHwcFQ7EBB"
-    },
-    {
-      "added_at": "2026-04-24 03:03:01",
-      "album": {
-        "name": "Colosso",
-        "url": "https://open.spotify.com/album/1ht6qLZZZFxUao4gjP8ZN8"
-      },
-      "artists": [
-        {
-          "name": "Papangu",
-          "url": "https://open.spotify.com/artist/0Ubo1fKmsKmf8A8D2kh16r"
-        }
-      ],
-      "duration_ms": 395213,
-      "name": "Colosso",
-      "url": "https://open.spotify.com/track/1KdlRw0cywui4V05yaDsxg"
-    },
-    {
-      "added_at": "2026-04-24 03:03:01",
+      "added_at": "2026-05-01 03:03:21",
       "album": {
         "name": "Agora (Mixagem 2023)",
         "url": "https://open.spotify.com/album/6DtTX1ZvNBhN15LTYBhuYz"
@@ -369,51 +345,7 @@
       "url": "https://open.spotify.com/track/1QAtLoN3Pz2P5mWqbWMs4L"
     },
     {
-      "added_at": "2026-04-24 03:03:01",
-      "album": {
-        "name": "Perif\u00e9rica",
-        "url": "https://open.spotify.com/album/0wHUkC47kUthXsyYEXD0Rz"
-      },
-      "artists": [
-        {
-          "name": "Luana Camarah",
-          "url": "https://open.spotify.com/artist/6xm9J4N1mGbGydqfeRZH7G"
-        },
-        {
-          "name": "Bruno Mokado",
-          "url": "https://open.spotify.com/artist/0x0XjDxU254sx7AxvpRkqO"
-        }
-      ],
-      "duration_ms": 204615,
-      "name": "Perif\u00e9rica",
-      "url": "https://open.spotify.com/track/5aKakUGgL6zXeiJUj0Y2Fp"
-    },
-    {
-      "added_at": "2026-04-24 03:03:01",
-      "album": {
-        "name": "Amor",
-        "url": "https://open.spotify.com/album/31cdOaeEbzQO8yLI8w8xip"
-      },
-      "artists": [
-        {
-          "name": "Lupe De Lupe",
-          "url": "https://open.spotify.com/artist/6yz8H2Aks1bHaKNiHCutaR"
-        },
-        {
-          "name": "Vitor Brauer",
-          "url": "https://open.spotify.com/artist/0LgGTp6dIjvLJ8Lx750VY8"
-        },
-        {
-          "name": "Ricardo De Carli",
-          "url": "https://open.spotify.com/artist/56xLp8CvZ6aJ6HChFsynWD"
-        }
-      ],
-      "duration_ms": 736844,
-      "name": "Se Nosso Nome Fosse Um Verbo (Canibalismo Como Forma de Amor)",
-      "url": "https://open.spotify.com/track/3KxipU1Yi6wRpI8h9NvdEU"
-    },
-    {
-      "added_at": "2026-04-24 03:03:01",
+      "added_at": "2026-05-01 03:03:21",
       "album": {
         "name": "Capital Inicial 4.0 (Deluxe)",
         "url": "https://open.spotify.com/album/2Hd7jdiY7jTatb7DGiQZuv"
@@ -433,39 +365,23 @@
       "url": "https://open.spotify.com/track/3IBGVjbsGYQxkpY9oNNpyG"
     },
     {
-      "added_at": "2026-04-24 03:03:01",
+      "added_at": "2026-05-01 03:03:21",
       "album": {
-        "name": "abatido mas n\u00e3o derrotado",
-        "url": "https://open.spotify.com/album/0KQMepeez8i64E4P965nFc"
+        "name": "Cola (Ao Vivo no Circo Voador)",
+        "url": "https://open.spotify.com/album/4LzoC30pP6yFjavPrULNtE"
       },
       "artists": [
         {
-          "name": "LVCAS",
-          "url": "https://open.spotify.com/artist/0P9pI1DLcVTkobNcZ7Tb1N"
+          "name": "Black Pantera",
+          "url": "https://open.spotify.com/artist/2PftOgEPewb4XsaeE4567t"
         }
       ],
-      "duration_ms": 236307,
-      "name": "ref\u00e9m",
-      "url": "https://open.spotify.com/track/2Sqc8PZC5j2w31BTt0MjEi"
+      "duration_ms": 126448,
+      "name": "Cola - Ao Vivo no Circo Voador",
+      "url": "https://open.spotify.com/track/3RIaUfQVP9ibjO8aQM3Dar"
     },
     {
-      "added_at": "2026-04-24 03:03:01",
-      "album": {
-        "name": "XXX",
-        "url": "https://open.spotify.com/album/7hblqnTE9JBown6OuvVJNh"
-      },
-      "artists": [
-        {
-          "name": "Raimundos",
-          "url": "https://open.spotify.com/artist/3CfJckVRuukdJSvK3r89yJ"
-        }
-      ],
-      "duration_ms": 195786,
-      "name": "Um Doce",
-      "url": "https://open.spotify.com/track/1GxuSylGuKOmvwZjB30XZe"
-    },
-    {
-      "added_at": "2026-04-24 03:03:01",
+      "added_at": "2026-05-01 03:03:21",
       "album": {
         "name": "Can\u00e7\u00e3o da Despedida",
         "url": "https://open.spotify.com/album/6tJVfCUBxlD6FODRlNqhXT"
@@ -481,7 +397,7 @@
       "url": "https://open.spotify.com/track/6X4TqBLTfYj11DLzEmWOi6"
     },
     {
-      "added_at": "2026-04-24 03:03:01",
+      "added_at": "2026-05-01 03:03:21",
       "album": {
         "name": "Ao Vivo Em Paranava\u00ed - Vol. 1",
         "url": "https://open.spotify.com/album/4jgS1WLCGvyeCtxQjJB2Ob"
@@ -501,23 +417,7 @@
       "url": "https://open.spotify.com/track/2yHsmCovu6tuaq2avIKcz2"
     },
     {
-      "added_at": "2026-04-24 03:03:01",
-      "album": {
-        "name": "Vampira",
-        "url": "https://open.spotify.com/album/5cQ3ATb7h1qkPhHu15jKhP"
-      },
-      "artists": [
-        {
-          "name": "Detonautas",
-          "url": "https://open.spotify.com/artist/5AlUDdksfPP7l4Qm22MJA9"
-        }
-      ],
-      "duration_ms": 127877,
-      "name": "Vampira",
-      "url": "https://open.spotify.com/track/4Jxn2gmc5uWV18hwUzDzlB"
-    },
-    {
-      "added_at": "2026-04-24 03:03:01",
+      "added_at": "2026-05-01 03:03:21",
       "album": {
         "name": "Bar\u00e3o 40 (Cl\u00e1ssicos)",
         "url": "https://open.spotify.com/album/1Q1yWO18Uc16tYa9jNd3la"
@@ -537,23 +437,7 @@
       "url": "https://open.spotify.com/track/6r5MJTD9mUworfbzTS1Riz"
     },
     {
-      "added_at": "2026-04-24 03:03:01",
-      "album": {
-        "name": "Ep\u00edlogo",
-        "url": "https://open.spotify.com/album/2XUjEwa7MVRKyMVh4DLx7z"
-      },
-      "artists": [
-        {
-          "name": "Raphael Ota",
-          "url": "https://open.spotify.com/artist/71pX95QqMGfZ2D5P81nW0Q"
-        }
-      ],
-      "duration_ms": 152886,
-      "name": "Ep\u00edlogo",
-      "url": "https://open.spotify.com/track/36kAc7GnlSDxDcXEQYpdQo"
-    },
-    {
-      "added_at": "2026-04-24 03:03:01",
+      "added_at": "2026-05-01 03:03:21",
       "album": {
         "name": "N\u00e3o V\u00e1",
         "url": "https://open.spotify.com/album/67iqFpAbgZ1MjWKqCx9zR4"
@@ -577,7 +461,7 @@
       "url": "https://open.spotify.com/track/6hurdo0fzNhApT20XVDAoV"
     },
     {
-      "added_at": "2026-04-24 03:03:01",
+      "added_at": "2026-05-01 03:03:21",
       "album": {
         "name": "A NASCENTE",
         "url": "https://open.spotify.com/album/72ux7Fr72430bcA4Dnw5L2"
@@ -593,7 +477,39 @@
       "url": "https://open.spotify.com/track/6bcFUcHsSV1N5ZNdY5y2HL"
     },
     {
-      "added_at": "2026-04-24 03:03:01",
+      "added_at": "2026-05-01 03:03:21",
+      "album": {
+        "name": "Colosso",
+        "url": "https://open.spotify.com/album/1ht6qLZZZFxUao4gjP8ZN8"
+      },
+      "artists": [
+        {
+          "name": "Papangu",
+          "url": "https://open.spotify.com/artist/0Ubo1fKmsKmf8A8D2kh16r"
+        }
+      ],
+      "duration_ms": 395213,
+      "name": "Colosso",
+      "url": "https://open.spotify.com/track/1KdlRw0cywui4V05yaDsxg"
+    },
+    {
+      "added_at": "2026-05-01 03:03:21",
+      "album": {
+        "name": "Perspectiva",
+        "url": "https://open.spotify.com/album/7MVLwQzkCwiVraGaEHpw1h"
+      },
+      "artists": [
+        {
+          "name": "Botoneck",
+          "url": "https://open.spotify.com/artist/2ZISsBhQQkOcCLAa4OEBYM"
+        }
+      ],
+      "duration_ms": 234413,
+      "name": "Rel\u00f3gio",
+      "url": "https://open.spotify.com/track/10ehnUrR5Hbuu2LV2TGN4C"
+    },
+    {
+      "added_at": "2026-05-01 03:03:21",
       "album": {
         "name": "Tempo de Tela",
         "url": "https://open.spotify.com/album/3pK1obFYj3IV7HgEDhww6g"
@@ -609,7 +525,7 @@
       "url": "https://open.spotify.com/track/2kHdQMiVVY3rlYo6H3x2Np"
     },
     {
-      "added_at": "2026-04-24 03:03:01",
+      "added_at": "2026-05-01 03:03:21",
       "album": {
         "name": "Helena",
         "url": "https://open.spotify.com/album/0lcLoM63dT3VY1elCHRBwE"
@@ -625,7 +541,23 @@
       "url": "https://open.spotify.com/track/60uJAwRPVW7rmTY7lBO1CS"
     },
     {
-      "added_at": "2026-04-24 03:03:01",
+      "added_at": "2026-05-01 03:03:21",
+      "album": {
+        "name": "EU QUERO VIVER",
+        "url": "https://open.spotify.com/album/39qkzFsGJOgOtuwY5ujpLy"
+      },
+      "artists": [
+        {
+          "name": "RANCORE",
+          "url": "https://open.spotify.com/artist/3KR4M3bAqWbADfTTDdfMDM"
+        }
+      ],
+      "duration_ms": 193429,
+      "name": "EU QUERO VIVER",
+      "url": "https://open.spotify.com/track/18Vb9R5RB7dQuHwcFQ7EBB"
+    },
+    {
+      "added_at": "2026-05-01 03:03:21",
       "album": {
         "name": "Microfonado",
         "url": "https://open.spotify.com/album/4PooNcpHa9bDZwTWwegRg6"
@@ -645,7 +577,7 @@
       "url": "https://open.spotify.com/track/1A5Sem3ctjc99sj8vz7MrI"
     },
     {
-      "added_at": "2026-04-24 03:03:01",
+      "added_at": "2026-05-01 03:03:21",
       "album": {
         "name": "S\u00f3 Rezo (Ao Vivo)",
         "url": "https://open.spotify.com/album/5XiMlXl3eURkSVUdxydgwB"
@@ -661,7 +593,7 @@
       "url": "https://open.spotify.com/track/2Iq5ySiuuWu8E00Pee22Rb"
     },
     {
-      "added_at": "2026-04-24 03:03:01",
+      "added_at": "2026-05-01 03:03:21",
       "album": {
         "name": "Malandragem (Ao Vivo)",
         "url": "https://open.spotify.com/album/4nOyvI1MmLYEFmh31m95Ne"
@@ -677,7 +609,7 @@
       "url": "https://open.spotify.com/track/2AnFF6VJTemksxNOuqrtV4"
     },
     {
-      "added_at": "2026-04-24 03:03:01",
+      "added_at": "2026-05-01 03:03:21",
       "album": {
         "name": "Me Odeie",
         "url": "https://open.spotify.com/album/6mdnqJZWtDLD6XzCeBmhvH"
@@ -693,7 +625,7 @@
       "url": "https://open.spotify.com/track/19tvvbb1Y5yRgsdPwmzZjG"
     },
     {
-      "added_at": "2026-04-24 03:03:01",
+      "added_at": "2026-05-01 03:03:21",
       "album": {
         "name": "Sele\u00e7\u00e3o Natural",
         "url": "https://open.spotify.com/album/47hOPiDMmvkefR8GS02HaZ"
@@ -709,7 +641,7 @@
       "url": "https://open.spotify.com/track/7rqlfTEYb189hzMLm4PN3y"
     },
     {
-      "added_at": "2026-04-24 03:03:01",
+      "added_at": "2026-05-01 03:03:21",
       "album": {
         "name": "A Vida Come\u00e7a Agora",
         "url": "https://open.spotify.com/album/0Kxejo9QpudJg4ntHbAhhx"
@@ -725,7 +657,7 @@
       "url": "https://open.spotify.com/track/7iYEnF8fvgq4gOygATtSQg"
     },
     {
-      "added_at": "2026-04-24 03:03:01",
+      "added_at": "2026-05-01 03:03:21",
       "album": {
         "name": "Pouso",
         "url": "https://open.spotify.com/album/4N15xqOQMEsZFLMZ5r0dBy"
@@ -741,7 +673,23 @@
       "url": "https://open.spotify.com/track/6HSeZkMOD0wS2keT3Lg888"
     },
     {
-      "added_at": "2026-04-24 03:03:01",
+      "added_at": "2026-05-01 03:03:21",
+      "album": {
+        "name": "O Sal da Terra",
+        "url": "https://open.spotify.com/album/7D9zor8ZneQBDcGVrquD0h"
+      },
+      "artists": [
+        {
+          "name": "Paulo Miklos",
+          "url": "https://open.spotify.com/artist/4GIB9MiZTggcpRXOPXRSJe"
+        }
+      ],
+      "duration_ms": 191100,
+      "name": "O Sal da Terra",
+      "url": "https://open.spotify.com/track/47OlYFYl49Sr1rSFagwpyY"
+    },
+    {
+      "added_at": "2026-05-01 03:03:21",
       "album": {
         "name": "Porta-Malas",
         "url": "https://open.spotify.com/album/4ZncdiiEK9GwarUR9ZeiAD"
@@ -757,7 +705,7 @@
       "url": "https://open.spotify.com/track/23dCpE0mEQQ4s6IzX3rkdh"
     },
     {
-      "added_at": "2026-04-24 03:03:01",
+      "added_at": "2026-05-01 03:03:21",
       "album": {
         "name": "Liga\u00e7\u00e3o (Ao Vivo)",
         "url": "https://open.spotify.com/album/2FDKOWcytcGKosuqBzqAMq"
@@ -773,7 +721,7 @@
       "url": "https://open.spotify.com/track/5d9D5hm2xXvgnyUVNMvXLK"
     },
     {
-      "added_at": "2026-04-24 03:03:01",
+      "added_at": "2026-05-01 03:03:21",
       "album": {
         "name": "PERP\u00c9TUO",
         "url": "https://open.spotify.com/album/1jq6ILT0x3Rrx9gHpUGplW"
@@ -789,7 +737,47 @@
       "url": "https://open.spotify.com/track/2OIkwlfcRxzsAAX6CbIyYx"
     },
     {
-      "added_at": "2026-04-24 03:03:01",
+      "added_at": "2026-05-01 03:03:21",
+      "album": {
+        "name": "Amor",
+        "url": "https://open.spotify.com/album/31cdOaeEbzQO8yLI8w8xip"
+      },
+      "artists": [
+        {
+          "name": "Lupe De Lupe",
+          "url": "https://open.spotify.com/artist/6yz8H2Aks1bHaKNiHCutaR"
+        },
+        {
+          "name": "Vitor Brauer",
+          "url": "https://open.spotify.com/artist/0LgGTp6dIjvLJ8Lx750VY8"
+        },
+        {
+          "name": "Ricardo De Carli",
+          "url": "https://open.spotify.com/artist/56xLp8CvZ6aJ6HChFsynWD"
+        }
+      ],
+      "duration_ms": 736844,
+      "name": "Se Nosso Nome Fosse Um Verbo (Canibalismo Como Forma de Amor)",
+      "url": "https://open.spotify.com/track/3KxipU1Yi6wRpI8h9NvdEU"
+    },
+    {
+      "added_at": "2026-05-01 03:03:21",
+      "album": {
+        "name": "Circo dos Horrores",
+        "url": "https://open.spotify.com/album/3JVYhzCchZFfX0g9vA73qk"
+      },
+      "artists": [
+        {
+          "name": "Playmoboys",
+          "url": "https://open.spotify.com/artist/0s8qjO7TpmquR2AvmtjTzw"
+        }
+      ],
+      "duration_ms": 159051,
+      "name": "Circo dos Horrores",
+      "url": "https://open.spotify.com/track/2z855f6w15tkhaVpQcqgeM"
+    },
+    {
+      "added_at": "2026-05-01 03:03:21",
       "album": {
         "name": "Roque Marciano (Ao Vivo)",
         "url": "https://open.spotify.com/album/3wfEBgPs5sbkqQonQH2ce4"
@@ -805,7 +793,7 @@
       "url": "https://open.spotify.com/track/6tIH2jWM5ty5xxJDVsWcPj"
     },
     {
-      "added_at": "2026-04-24 03:03:01",
+      "added_at": "2026-05-01 03:03:21",
       "album": {
         "name": "O Ver\u00e3o Passou, Mas O Sol Continua Aqui",
         "url": "https://open.spotify.com/album/01b9ock8wNdadj9h2L53t3"
@@ -821,7 +809,7 @@
       "url": "https://open.spotify.com/track/2wIwKAvMEcdA5oKYwX16ta"
     },
     {
-      "added_at": "2026-04-24 03:03:01",
+      "added_at": "2026-05-01 03:03:21",
       "album": {
         "name": "O Verso",
         "url": "https://open.spotify.com/album/22y2h1DtG2jmYXD9LFQI2C"
@@ -837,44 +825,52 @@
       "url": "https://open.spotify.com/track/1mSQL3MqWKAMLioKgzlt4T"
     },
     {
-      "added_at": "2026-04-24 03:03:01",
+      "added_at": "2026-05-01 03:03:21",
       "album": {
-        "name": "QUEM NUNCA??",
-        "url": "https://open.spotify.com/album/5jOmOMFV9BbNxKHvmrddtV"
+        "name": "Ep\u00edlogo",
+        "url": "https://open.spotify.com/album/2XUjEwa7MVRKyMVh4DLx7z"
       },
       "artists": [
         {
-          "name": "Ci\u00e7a Moreira",
-          "url": "https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt"
-        },
-        {
-          "name": "Egypcio",
-          "url": "https://open.spotify.com/artist/6RvFkY3SiqssdttuI7bpH6"
+          "name": "Raphael Ota",
+          "url": "https://open.spotify.com/artist/71pX95QqMGfZ2D5P81nW0Q"
         }
       ],
-      "duration_ms": 216255,
-      "name": "QUEM NUNCA??",
-      "url": "https://open.spotify.com/track/3LhSiMorC6IntBm252H00W"
+      "duration_ms": 152886,
+      "name": "Ep\u00edlogo",
+      "url": "https://open.spotify.com/track/36kAc7GnlSDxDcXEQYpdQo"
     },
     {
-      "added_at": "2026-04-24 03:03:01",
+      "added_at": "2026-05-01 03:03:21",
       "album": {
-        "name": "Camadas",
-        "url": "https://open.spotify.com/album/3CiqBBWdpsCeEOpUIPE3yz"
+        "name": "Artificial Intelligence",
+        "url": "https://open.spotify.com/album/1JikgcE16texZRuhRy5Aht"
       },
       "artists": [
         {
-          "name": "Fresno",
-          "url": "https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f"
-        },
-        {
-          "name": "Chit\u00e3ozinho & Xoror\u00f3",
-          "url": "https://open.spotify.com/artist/7gfkYbxpguEc9bm6m8TpAr"
+          "name": "Nasi",
+          "url": "https://open.spotify.com/artist/7HJkYWzMCiXIJEHserfc0Z"
         }
       ],
-      "duration_ms": 228000,
-      "name": "Camadas",
-      "url": "https://open.spotify.com/track/1FJcwfMjSB0HAbSgiv4LJW"
+      "duration_ms": 170880,
+      "name": "Perigoso",
+      "url": "https://open.spotify.com/track/2S5RlUF5a1A6dLOJdWzvrr"
+    },
+    {
+      "added_at": "2026-05-01 03:03:21",
+      "album": {
+        "name": "XXX",
+        "url": "https://open.spotify.com/album/7hblqnTE9JBown6OuvVJNh"
+      },
+      "artists": [
+        {
+          "name": "Raimundos",
+          "url": "https://open.spotify.com/artist/3CfJckVRuukdJSvK3r89yJ"
+        }
+      ],
+      "duration_ms": 195786,
+      "name": "Um Doce",
+      "url": "https://open.spotify.com/track/1GxuSylGuKOmvwZjB30XZe"
     }
   ],
   "unique_name": "P\u00e1tria Rock",

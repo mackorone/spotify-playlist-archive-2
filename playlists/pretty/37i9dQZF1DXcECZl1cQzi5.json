@@ -1,6 +1,6 @@
 {
   "description": "Calming music accompanied by the waves of the ocean. Breathe with the ebb and flow of the sea. ",
-  "num_followers": 68532,
+  "num_followers": 68563,
   "original_name": "Serene Ocean Music",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,6 @@
     {
       "added_at": "2026-02-27 13:21:37",
       "album": {
-        "name": "Eclipse",
-        "url": "https://open.spotify.com/album/1miJHX1yvb8kITGSeTV8a0"
-      },
-      "artists": [
-        {
-          "name": "Ember Rivera",
-          "url": "https://open.spotify.com/artist/7uaOI3LlQMP255X8hMQeYS"
-        }
-      ],
-      "duration_ms": 224641,
-      "name": "Eclipse",
-      "url": "https://open.spotify.com/track/6ZWNlKcUAsFfjT6uQTVO4F"
-    },
-    {
-      "added_at": "2026-02-27 13:21:37",
-      "album": {
         "name": "S\u00e1lmur (Sound Bath)",
         "url": "https://open.spotify.com/album/0ouaxJpx3JvdUdMkjKbZFM"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 195428,
       "name": "S\u00e1lmur (Sound Bath)",
       "url": "https://open.spotify.com/track/5KASAZ937O4CSKQ3hYAMaB"
+    },
+    {
+      "added_at": "2026-02-27 13:21:37",
+      "album": {
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/1miJHX1yvb8kITGSeTV8a0"
+      },
+      "artists": [
+        {
+          "name": "Ember Rivera",
+          "url": "https://open.spotify.com/artist/7uaOI3LlQMP255X8hMQeYS"
+        }
+      ],
+      "duration_ms": 224641,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/6ZWNlKcUAsFfjT6uQTVO4F"
     },
     {
       "added_at": "2026-02-27 13:21:37",
@@ -763,22 +763,6 @@
     {
       "added_at": "2026-02-27 13:21:37",
       "album": {
-        "name": "Walk Along The Ocean",
-        "url": "https://open.spotify.com/album/28ODbPuwRuIQr5RZOL3GFp"
-      },
-      "artists": [
-        {
-          "name": "Esmay Gouin",
-          "url": "https://open.spotify.com/artist/7FmXiPBaufqqZHoBmGEiCx"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Walk Along The Ocean",
-      "url": "https://open.spotify.com/track/5ABusCPxzgAShqK5wkInOo"
-    },
-    {
-      "added_at": "2026-02-27 13:21:37",
-      "album": {
         "name": "Briongl\u00f3id (Sound Bath)",
         "url": "https://open.spotify.com/album/59lt6zR15MfN9LUnMpTD1Y"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 165112,
       "name": "Briongl\u00f3id (Sound Bath)",
       "url": "https://open.spotify.com/track/6Kvv8jjMQzOROquokHQ2FF"
+    },
+    {
+      "added_at": "2026-02-27 13:21:37",
+      "album": {
+        "name": "Walk Along The Ocean",
+        "url": "https://open.spotify.com/album/28ODbPuwRuIQr5RZOL3GFp"
+      },
+      "artists": [
+        {
+          "name": "Esmay Gouin",
+          "url": "https://open.spotify.com/artist/7FmXiPBaufqqZHoBmGEiCx"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Walk Along The Ocean",
+      "url": "https://open.spotify.com/track/5ABusCPxzgAShqK5wkInOo"
     },
     {
       "added_at": "2026-02-27 13:21:37",
@@ -859,22 +859,6 @@
     {
       "added_at": "2026-02-27 13:21:37",
       "album": {
-        "name": "Ocean's Rest",
-        "url": "https://open.spotify.com/album/6Vz8sDcOZBtl4xI87nBC3S"
-      },
-      "artists": [
-        {
-          "name": "IntoVerted",
-          "url": "https://open.spotify.com/artist/7KPMTEva2Ul6kWl0ddz7kT"
-        }
-      ],
-      "duration_ms": 204785,
-      "name": "Ocean's Rest",
-      "url": "https://open.spotify.com/track/133m9xVMTdOifqyohjzby9"
-    },
-    {
-      "added_at": "2026-02-27 13:21:37",
-      "album": {
         "name": "Ocean",
         "url": "https://open.spotify.com/album/4Tsi6BstEJGnmDAD5B4sr2"
       },
@@ -891,18 +875,18 @@
     {
       "added_at": "2026-02-27 13:21:37",
       "album": {
-        "name": "Harmonic Waters",
-        "url": "https://open.spotify.com/album/0ZTRxSUMZ98J5tPLunOBob"
+        "name": "Ocean's Rest",
+        "url": "https://open.spotify.com/album/6Vz8sDcOZBtl4xI87nBC3S"
       },
       "artists": [
         {
-          "name": "Quiet Point",
-          "url": "https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR"
+          "name": "IntoVerted",
+          "url": "https://open.spotify.com/artist/7KPMTEva2Ul6kWl0ddz7kT"
         }
       ],
-      "duration_ms": 142000,
-      "name": "Harmonic Waters",
-      "url": "https://open.spotify.com/track/61RzOrfTur4MbHfXv1QRxN"
+      "duration_ms": 204785,
+      "name": "Ocean's Rest",
+      "url": "https://open.spotify.com/track/133m9xVMTdOifqyohjzby9"
     },
     {
       "added_at": "2026-02-27 13:21:37",
@@ -923,6 +907,22 @@
     {
       "added_at": "2026-02-27 13:21:37",
       "album": {
+        "name": "Harmonic Waters",
+        "url": "https://open.spotify.com/album/0ZTRxSUMZ98J5tPLunOBob"
+      },
+      "artists": [
+        {
+          "name": "Quiet Point",
+          "url": "https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR"
+        }
+      ],
+      "duration_ms": 142000,
+      "name": "Harmonic Waters",
+      "url": "https://open.spotify.com/track/61RzOrfTur4MbHfXv1QRxN"
+    },
+    {
+      "added_at": "2026-02-27 13:21:37",
+      "album": {
         "name": "Shoreline Serenity",
         "url": "https://open.spotify.com/album/5tlda8TQsXWnCNf2isVNxg"
       },
@@ -935,6 +935,22 @@
       "duration_ms": 168000,
       "name": "Shoreline Serenity",
       "url": "https://open.spotify.com/track/4pJ0qiET0w17eYIangFjDo"
+    },
+    {
+      "added_at": "2026-02-27 13:21:37",
+      "album": {
+        "name": "Night Waves",
+        "url": "https://open.spotify.com/album/5NgyNsumFkI0Hziflb4vlV"
+      },
+      "artists": [
+        {
+          "name": "Dreamscaper",
+          "url": "https://open.spotify.com/artist/1TGL84E8oiiO2ygE0a2Ml6"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Night Waves",
+      "url": "https://open.spotify.com/track/3uWgFGPTWRm5lENQngePls"
     },
     {
       "added_at": "2026-02-27 13:21:37",
@@ -967,22 +983,6 @@
       "duration_ms": 151254,
       "name": "Ocean Mist",
       "url": "https://open.spotify.com/track/7v7QlWId44VVGz455UMXmE"
-    },
-    {
-      "added_at": "2026-02-27 13:21:37",
-      "album": {
-        "name": "Night Waves",
-        "url": "https://open.spotify.com/album/5NgyNsumFkI0Hziflb4vlV"
-      },
-      "artists": [
-        {
-          "name": "Dreamscaper",
-          "url": "https://open.spotify.com/artist/1TGL84E8oiiO2ygE0a2Ml6"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Night Waves",
-      "url": "https://open.spotify.com/track/3uWgFGPTWRm5lENQngePls"
     },
     {
       "added_at": "2026-02-27 13:21:37",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2026-02-27 13:21:37",
       "album": {
-        "name": "Ocean Air",
-        "url": "https://open.spotify.com/album/47JNKaAOWcUKr7FeiJtM1y"
-      },
-      "artists": [
-        {
-          "name": "Omiophyllus",
-          "url": "https://open.spotify.com/artist/6qgzkp2OY1uBlebnJxfOlx"
-        }
-      ],
-      "duration_ms": 155813,
-      "name": "Ocean Air",
-      "url": "https://open.spotify.com/track/3c2e4IbJUSTrV0QlH3MXWS"
-    },
-    {
-      "added_at": "2026-02-27 13:21:37",
-      "album": {
         "name": "Ocean Dynamics",
         "url": "https://open.spotify.com/album/5Aq52DANigWA8C0nCbYIeo"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 176250,
       "name": "Ocean Miracle",
       "url": "https://open.spotify.com/track/6s4d29YLuiRLjFXznEzhoi"
+    },
+    {
+      "added_at": "2026-02-27 13:21:37",
+      "album": {
+        "name": "Ocean Air",
+        "url": "https://open.spotify.com/album/47JNKaAOWcUKr7FeiJtM1y"
+      },
+      "artists": [
+        {
+          "name": "Omiophyllus",
+          "url": "https://open.spotify.com/artist/6qgzkp2OY1uBlebnJxfOlx"
+        }
+      ],
+      "duration_ms": 155813,
+      "name": "Ocean Air",
+      "url": "https://open.spotify.com/track/3c2e4IbJUSTrV0QlH3MXWS"
     },
     {
       "added_at": "2026-02-27 13:21:37",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2026-02-27 13:21:37",
       "album": {
-        "name": "Moonlit River",
-        "url": "https://open.spotify.com/album/3ccZR5HufZ2RAiuBY5uyr5"
-      },
-      "artists": [
-        {
-          "name": "Sol Reya",
-          "url": "https://open.spotify.com/artist/1WOC51A3fmT0ONyhUtH1G8"
-        }
-      ],
-      "duration_ms": 147500,
-      "name": "Moonlit River",
-      "url": "https://open.spotify.com/track/77C0BJ02fJKdp5YGGzwgzY"
-    },
-    {
-      "added_at": "2026-02-27 13:21:37",
-      "album": {
         "name": "Lavender Bloom",
         "url": "https://open.spotify.com/album/3OjLzJRWJb1SpXUxLUVlVD"
       },
@@ -1227,18 +1211,18 @@
     {
       "added_at": "2026-02-27 13:21:37",
       "album": {
-        "name": "saltlakes",
-        "url": "https://open.spotify.com/album/3UZPGU96FGS0ODZBia0bbK"
+        "name": "Moonlit River",
+        "url": "https://open.spotify.com/album/3ccZR5HufZ2RAiuBY5uyr5"
       },
       "artists": [
         {
-          "name": "Fred Russ",
-          "url": "https://open.spotify.com/artist/6pUnNnSTbIgI6sUe9QhF7K"
+          "name": "Sol Reya",
+          "url": "https://open.spotify.com/artist/1WOC51A3fmT0ONyhUtH1G8"
         }
       ],
-      "duration_ms": 170875,
-      "name": "saltlakes",
-      "url": "https://open.spotify.com/track/3g6fliPxqUQpSoLw9wvGWb"
+      "duration_ms": 147500,
+      "name": "Moonlit River",
+      "url": "https://open.spotify.com/track/77C0BJ02fJKdp5YGGzwgzY"
     },
     {
       "added_at": "2026-02-27 13:21:37",
@@ -1259,18 +1243,18 @@
     {
       "added_at": "2026-02-27 13:21:37",
       "album": {
-        "name": "heart wave",
-        "url": "https://open.spotify.com/album/37Wa0x4R7jqoZ4x8HocvxC"
+        "name": "saltlakes",
+        "url": "https://open.spotify.com/album/3UZPGU96FGS0ODZBia0bbK"
       },
       "artists": [
         {
-          "name": "Aquas",
-          "url": "https://open.spotify.com/artist/7HgUx5Ns8oY9OIJitDRnej"
+          "name": "Fred Russ",
+          "url": "https://open.spotify.com/artist/6pUnNnSTbIgI6sUe9QhF7K"
         }
       ],
-      "duration_ms": 174600,
-      "name": "heart wave",
-      "url": "https://open.spotify.com/track/4jOCxSraETXlNjHz4m0r1k"
+      "duration_ms": 170875,
+      "name": "saltlakes",
+      "url": "https://open.spotify.com/track/3g6fliPxqUQpSoLw9wvGWb"
     },
     {
       "added_at": "2026-02-27 13:21:37",
@@ -1291,6 +1275,22 @@
     {
       "added_at": "2026-02-27 13:21:37",
       "album": {
+        "name": "heart wave",
+        "url": "https://open.spotify.com/album/37Wa0x4R7jqoZ4x8HocvxC"
+      },
+      "artists": [
+        {
+          "name": "Aquas",
+          "url": "https://open.spotify.com/artist/7HgUx5Ns8oY9OIJitDRnej"
+        }
+      ],
+      "duration_ms": 174600,
+      "name": "heart wave",
+      "url": "https://open.spotify.com/track/4jOCxSraETXlNjHz4m0r1k"
+    },
+    {
+      "added_at": "2026-02-27 13:21:37",
+      "album": {
         "name": "Sapphire Reflection",
         "url": "https://open.spotify.com/album/5bF5LLZdoRDRfrdaKozJHa"
       },
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2026-02-27 13:21:37",
       "album": {
-        "name": "Ocean Dive",
-        "url": "https://open.spotify.com/album/5Ck9ina89LcfFVMej8G4ti"
-      },
-      "artists": [
-        {
-          "name": "Livrunna",
-          "url": "https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz"
-        }
-      ],
-      "duration_ms": 213472,
-      "name": "Ocean Dive",
-      "url": "https://open.spotify.com/track/2r4NivF3SETTKXKvhp1mYm"
-    },
-    {
-      "added_at": "2026-02-27 13:21:37",
-      "album": {
         "name": "Another World",
         "url": "https://open.spotify.com/album/0HnGZ4yQPFXqPFU6EtrGYn"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 164637,
       "name": "Another World",
       "url": "https://open.spotify.com/track/2SOGbt8MlCF9d7h3ZGbRVh"
+    },
+    {
+      "added_at": "2026-02-27 13:21:37",
+      "album": {
+        "name": "Ocean Dive",
+        "url": "https://open.spotify.com/album/5Ck9ina89LcfFVMej8G4ti"
+      },
+      "artists": [
+        {
+          "name": "Livrunna",
+          "url": "https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz"
+        }
+      ],
+      "duration_ms": 213472,
+      "name": "Ocean Dive",
+      "url": "https://open.spotify.com/track/2r4NivF3SETTKXKvhp1mYm"
     },
     {
       "added_at": "2026-02-27 13:21:37",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2026-02-27 13:21:37",
       "album": {
-        "name": "Lighthouse",
-        "url": "https://open.spotify.com/album/3FIb3pRNm5Y3jQZaV0Awf6"
-      },
-      "artists": [
-        {
-          "name": "Time Sphere",
-          "url": "https://open.spotify.com/artist/7f0RAiYJa5Qrf8EmM6zLaT"
-        }
-      ],
-      "duration_ms": 216804,
-      "name": "Lighthouse",
-      "url": "https://open.spotify.com/track/5vpgqLPc6SFZU9R2Tok6Uj"
-    },
-    {
-      "added_at": "2026-02-27 13:21:37",
-      "album": {
         "name": "Sunayama Waves",
         "url": "https://open.spotify.com/album/1P1b2rr8ePh6iGxy2brHv7"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 166000,
       "name": "Sunayama Waves",
       "url": "https://open.spotify.com/track/5CDCVLx37JUz3TNkmzxxZk"
+    },
+    {
+      "added_at": "2026-02-27 13:21:37",
+      "album": {
+        "name": "Lighthouse",
+        "url": "https://open.spotify.com/album/3FIb3pRNm5Y3jQZaV0Awf6"
+      },
+      "artists": [
+        {
+          "name": "Time Sphere",
+          "url": "https://open.spotify.com/artist/7f0RAiYJa5Qrf8EmM6zLaT"
+        }
+      ],
+      "duration_ms": 216804,
+      "name": "Lighthouse",
+      "url": "https://open.spotify.com/track/5vpgqLPc6SFZU9R2Tok6Uj"
     },
     {
       "added_at": "2026-02-27 13:21:37",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2026-02-27 13:21:37",
       "album": {
-        "name": "Wellness",
-        "url": "https://open.spotify.com/album/7nANqw6xoXuhWKJSCKf50f"
-      },
-      "artists": [
-        {
-          "name": "Yuio Zah",
-          "url": "https://open.spotify.com/artist/3LZJYvCAKjkOsPGlWj6oTf"
-        }
-      ],
-      "duration_ms": 165500,
-      "name": "Wellness",
-      "url": "https://open.spotify.com/track/2zZU66wuVfbgSIguPh7bRs"
-    },
-    {
-      "added_at": "2026-02-27 13:21:37",
-      "album": {
         "name": "Night Skies",
         "url": "https://open.spotify.com/album/4QkLYljbujJ9WyPwMxDAlx"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 170304,
       "name": "Night Skies",
       "url": "https://open.spotify.com/track/1nERsyf5ID8i9SlopTV9FC"
+    },
+    {
+      "added_at": "2026-02-27 13:21:37",
+      "album": {
+        "name": "Wellness",
+        "url": "https://open.spotify.com/album/7nANqw6xoXuhWKJSCKf50f"
+      },
+      "artists": [
+        {
+          "name": "Yuio Zah",
+          "url": "https://open.spotify.com/artist/3LZJYvCAKjkOsPGlWj6oTf"
+        }
+      ],
+      "duration_ms": 165500,
+      "name": "Wellness",
+      "url": "https://open.spotify.com/track/2zZU66wuVfbgSIguPh7bRs"
     },
     {
       "added_at": "2026-02-27 13:21:37",
@@ -1675,18 +1675,18 @@
     {
       "added_at": "2026-02-27 13:21:37",
       "album": {
-        "name": "Enlightened Adrift",
-        "url": "https://open.spotify.com/album/3cA59rCXHo1nQETme2Musp"
+        "name": "Finca Meditation (Ocean)",
+        "url": "https://open.spotify.com/album/0j5S8R99pYMmgsJDewmkHu"
       },
       "artists": [
         {
-          "name": "J. Cartwright",
-          "url": "https://open.spotify.com/artist/4DQYUQ3tze2DqQtZUkXdcC"
+          "name": "Evezen",
+          "url": "https://open.spotify.com/artist/3QRgMXguML5DCWsaO3h1Yi"
         }
       ],
-      "duration_ms": 150625,
-      "name": "Enlightened Adrift",
-      "url": "https://open.spotify.com/track/2qnd80g4Q2voFJONxPEZff"
+      "duration_ms": 157345,
+      "name": "Finca Meditation (Ocean)",
+      "url": "https://open.spotify.com/track/6sy0MDeFP39YJJslIhA2TL"
     }
   ],
   "unique_name": "Serene Ocean Music",

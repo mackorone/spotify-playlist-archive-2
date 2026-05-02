@@ -4,7 +4,7 @@
 
 > The Mandalorian and the Child continue their journey, facing enemies and rallying allies as they make their way through a dangerous galaxy in the tumultuous era after the collapse of the Galactic Empire\. Now streaming on Disney+!
 
-119 songs - 6 hr 17 min
+120 songs - 6 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [The Living Waters](https://open.spotify.com/track/3N36jOce9atAdjFViwGg5k) | [Joseph Shirley](https://open.spotify.com/artist/6QeQA8W6WZNwHfDU1mOA2e), [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [The Mandalorian: Season 3 \- Vol\. 1 \(Chapters 17\-20\) \[Original Score\]](https://open.spotify.com/album/2JtB7K4gMmfC7Ow9Y4pz4b) | 3:27 | 2023-04-25 |  |
 | [The Mandalorian](https://open.spotify.com/track/6tJFtthY0rI1x06qb8NjK0) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [The Mandalorian: Chapter 1 \(Original Score\)](https://open.spotify.com/album/4xFmHg5dYvaqmn9ZNQpjWL) | 3:18 | 2023-04-25 |  |
 | [The Mandalorian \- Orchestral Version](https://open.spotify.com/track/4mgVPwEtvXLPhmxCPFNKSi) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [The Mandalorian: Chapter 7 \(Original Score\)](https://open.spotify.com/album/4PMsqnolvUGyj1ZRxE1aki) | 2:20 | 2023-04-25 |  |
+| [The Mandalorian and Grogu \(Boys Noize Remix\) \- From "Star Wars: The Mandalorian and Grogu"](https://open.spotify.com/track/6V1xKmyXJaXbZu2NXBYRrW) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [The Mandalorian and Grogu \(Boys Noize Remix\) \[From "Star Wars: The Mandalorian and Grogu"\]](https://open.spotify.com/album/3fpVPuogIVyXmsQa3c5Gpu) | 5:54 | 2026-05-01 |  |
 | [The Marshal's Tale](https://open.spotify.com/track/5hxY2k2aaplLilxSiGgVvp) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [The Mandalorian: Season 2 \- Vol\. 1 \(Chapters 9\-12\) \[Original Score\]](https://open.spotify.com/album/2NxNzw1ohPc2Hhjaq2j3tW) | 6:05 | 2023-04-25 |  |
 | [The Mudhorn](https://open.spotify.com/track/1wryoL3WWf6xcDkf3YUvR7) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [The Mandalorian: Chapter 2 \(Original Score\)](https://open.spotify.com/album/4AOyNiCYswORQsTLxyGYQ4) | 3:00 | 2023-04-25 |  |
 | [The Next Journey](https://open.spotify.com/track/3ltztJwjb9fXKPBqJ59OoC) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [The Mandalorian: Chapter 2 \(Original Score\)](https://open.spotify.com/album/4AOyNiCYswORQsTLxyGYQ4) | 2:35 | 2023-04-25 |  |

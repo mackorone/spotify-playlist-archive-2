@@ -4,7 +4,7 @@
 
 > Proudly Kenyan gems made for the entire family\. Cover: Hildah Watiri
 
-180 songs - 10 hr 6 min
+180 songs - 10 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [PIA MI NATAKA](https://open.spotify.com/track/2TtisfcyZIyTfilAnhlwpl) | [Tipsy Gee](https://open.spotify.com/artist/2gZ9Qtzq8vrqLkR5EUSJy5), [Watendawili](https://open.spotify.com/artist/0q5lwUUiJEjoNVtHQv1jdn), [Fathermoh](https://open.spotify.com/artist/7nzWhKIO0MuVrFR69jQxTA) | [PIA MI NATAKA](https://open.spotify.com/album/2hFiclR4HK5L3sAaKQs2OW) | 3:47 | 2025-10-23 | 2026-01-30 |
 | [PLUMBER](https://open.spotify.com/track/0mjU0BM1MM7HCzvfkMGSio) | [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE), [Tipsy Gee](https://open.spotify.com/artist/2gZ9Qtzq8vrqLkR5EUSJy5), [Vic West](https://open.spotify.com/artist/6vxLy2Ac6bCYJMz1Y2fKaO) | [ALL HANDS ON DEC](https://open.spotify.com/album/2Mi9zYMvL4iDHR3UE537pR) | 3:30 | 2025-12-18 | 2026-04-24 |
 | [Pokunena](https://open.spotify.com/track/3niv4M3KmdQ1DofhMAGXS7) | [Fancy Fingers](https://open.spotify.com/artist/6GKFK8rXiyBshmwi6CMm0y), [Winyo](https://open.spotify.com/artist/0xYZnLkJHs6y9Ts7Yq2C1C) | [Pokunena](https://open.spotify.com/album/1XP8nQhrRjru8omigfrvX3) | 5:25 | 2025-11-21 | 2025-11-28 |
+| [Pole Pole](https://open.spotify.com/track/5e8vMUSUiMuM7QmsEE6roD) | [Hildah Watiri](https://open.spotify.com/artist/4XTUHZbb6KmJJKUrdBAKDM), [FEMI ONE](https://open.spotify.com/artist/1Kg4nxeTD9wP3082jp1nkH) | [Watiri's Trouble](https://open.spotify.com/album/0fLdMoX6lwdeXwHOuUUj2i) | 2:52 | 2026-04-30 |  |
 | [Pombe Kidogo](https://open.spotify.com/track/6AAbRA7KT6kklXLBrpIatZ) | [Modest Chabari](https://open.spotify.com/artist/6lIgY6GFEW514NQ6bqafIm) | [Rockstar](https://open.spotify.com/album/17yI0MjQVUsqKlx5fkfFaM) | 3:28 | 2025-10-23 | 2025-11-15 |
 | [Pretty Whine](https://open.spotify.com/track/4vbcjVBD0JrwndFVxcOmFV) | [Brandy Maina](https://open.spotify.com/artist/7miUm4PxOWQDIPIcqKDfT4), [Lafayette Pwaguzi](https://open.spotify.com/artist/6TiZKAvTyNttA4DDKbEZQG) | [Pretty Whine](https://open.spotify.com/album/4WEK0bhve3Sf5TSoCXtq63) | 3:18 | 2026-03-26 |  |
 | [Relax](https://open.spotify.com/track/3UDmYYUAqUVaPRJ6Dni0qS) | [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo) | [Live and Die in Afrika](https://open.spotify.com/album/0VHxZXfjGP0KuIBFxsWTTZ) | 3:20 | 2025-11-21 | 2025-11-28 |
@@ -163,7 +164,6 @@
 | [Tell Nobody](https://open.spotify.com/track/1r8IHxVIlMDvq2BNJjsLLy) | [Mūmbi](https://open.spotify.com/artist/0rFgn9BBsW8nHbsp3A4kDF) | [Tell Nobody](https://open.spotify.com/album/2kaT0i6Rp9VvQ5AlpnOekR) | 2:49 | 2026-04-23 |  |
 | [TIKI TAKO](https://open.spotify.com/track/2gJRqeN8Q9Yg5jpx6WKm7h) | [Matata](https://open.spotify.com/artist/7imj8fIllhgGJqvKUVrdgV), [Mejja](https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u) | [TIKI TAKO](https://open.spotify.com/album/5qBMXffGoDp4pPe9S7niXJ) | 3:52 | 2025-10-23 | 2026-04-17 |
 | [Time Flies \(feat\. Sauti Sol\)](https://open.spotify.com/track/1taXjBXUnhPCPunwB6xOgp) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo) | [Twice As Tall](https://open.spotify.com/album/2pANu4qucnliJuRR94eZSV) | 3:44 | 2025-11-21 | 2025-11-28 |
-| [Track 2](https://open.spotify.com/track/5e8vMUSUiMuM7QmsEE6roD) | [Hildah Watiri](https://open.spotify.com/artist/4XTUHZbb6KmJJKUrdBAKDM) | [Watiri's Trouble](https://open.spotify.com/album/0fLdMoX6lwdeXwHOuUUj2i) | 0:00 | 2026-04-30 |  |
 | [TRUE LOVE](https://open.spotify.com/track/7fYxFqeGTfr9IvVBrWAyvO) | [Charisma](https://open.spotify.com/artist/34FqcraaOV85NJMLNb4JQu) | [TRUE LOVE](https://open.spotify.com/album/3AWoNtSF6MCGBrJO1jrFR0) | 2:32 | 2025-10-23 | 2026-05-01 |
 | [Trust No 1](https://open.spotify.com/track/4Nfq2CziIZHDzVP8A6llUF) | [Brandy Maina](https://open.spotify.com/artist/7miUm4PxOWQDIPIcqKDfT4), [X.O](https://open.spotify.com/artist/2zu7sut23i4vR8OZPAxWyJ) | [Trust No 1](https://open.spotify.com/album/5g5q1Ixr9A5kyxW6F3GXWQ) | 3:16 | 2026-01-29 |  |
 | [Tumewaka \(feat\. Watendawili\)](https://open.spotify.com/track/2U3JPdRdWygADeO36alrJU) | [Arrow Bwoy](https://open.spotify.com/artist/7jHbsm6yjbct2wbuvzBEKr), [Watendawili](https://open.spotify.com/artist/0q5lwUUiJEjoNVtHQv1jdn) | [Tumewaka \(feat\. Watendawili\)](https://open.spotify.com/album/5EnhsYf7p2yFdhqd1ReGDG) | 3:29 | 2025-12-04 | 2026-04-03 |

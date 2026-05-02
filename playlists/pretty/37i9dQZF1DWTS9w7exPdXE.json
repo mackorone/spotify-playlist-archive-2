@@ -1,6 +1,6 @@
 {
   "description": "Nederpop en Volkspop meezingers. Cover: Samuel Welten (<a href=\"spotify:artist:37i9dQZF1DXaxwXKCsImRe\">RADAR BNLX</a>-artiest)",
-  "num_followers": 161836,
+  "num_followers": 161958,
   "original_name": "Hollandse Meezingers",
   "owner": {
     "name": "Spotify",
@@ -331,26 +331,6 @@
     {
       "added_at": "2026-04-08 22:00:13",
       "album": {
-        "name": "Duurt Te Lang (Beste Zangers Seizoen 2018)",
-        "url": "https://open.spotify.com/album/4F7ekZ78rrfhl9GvTYXQYB"
-      },
-      "artists": [
-        {
-          "name": "Davina Michelle",
-          "url": "https://open.spotify.com/artist/6OG9fZ1LKXyL0hShRmmnq1"
-        },
-        {
-          "name": "Beste Zangers",
-          "url": "https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa"
-        }
-      ],
-      "duration_ms": 153527,
-      "name": "Duurt Te Lang",
-      "url": "https://open.spotify.com/track/2rzZ0IGxgrGUAPwrWn80z7"
-    },
-    {
-      "added_at": "2026-04-08 22:00:13",
-      "album": {
         "name": "Van Goes Tot Purmerend",
         "url": "https://open.spotify.com/album/4Kc9vHk2XB9tGNcyikgNpm"
       },
@@ -367,6 +347,26 @@
       "duration_ms": 201363,
       "name": "Van Goes Tot Purmerend",
       "url": "https://open.spotify.com/track/6dgkHkbtXg4mGwRPJiE1LV"
+    },
+    {
+      "added_at": "2026-04-08 22:00:13",
+      "album": {
+        "name": "Duurt Te Lang (Beste Zangers Seizoen 2018)",
+        "url": "https://open.spotify.com/album/4F7ekZ78rrfhl9GvTYXQYB"
+      },
+      "artists": [
+        {
+          "name": "Davina Michelle",
+          "url": "https://open.spotify.com/artist/6OG9fZ1LKXyL0hShRmmnq1"
+        },
+        {
+          "name": "Beste Zangers",
+          "url": "https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa"
+        }
+      ],
+      "duration_ms": 153527,
+      "name": "Duurt Te Lang",
+      "url": "https://open.spotify.com/track/2rzZ0IGxgrGUAPwrWn80z7"
     },
     {
       "added_at": "2026-04-08 22:00:13",
@@ -479,6 +479,26 @@
     {
       "added_at": "2026-04-08 22:00:13",
       "album": {
+        "name": "(Die Man Is) Verliefd",
+        "url": "https://open.spotify.com/album/6MYXtFqWqatgAk5U91a3J2"
+      },
+      "artists": [
+        {
+          "name": "Jan Smit",
+          "url": "https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq"
+        },
+        {
+          "name": "3JS",
+          "url": "https://open.spotify.com/artist/2ZulgXPozVBLNaJPXR8MnV"
+        }
+      ],
+      "duration_ms": 186799,
+      "name": "(Die Man Is) Verliefd",
+      "url": "https://open.spotify.com/track/3Sk76R83fWHlAO89n1IXgs"
+    },
+    {
+      "added_at": "2026-04-08 22:00:13",
+      "album": {
         "name": "Als Jij Kon Voelen",
         "url": "https://open.spotify.com/album/3LHhCRB5WunMqbvQXemVlw"
       },
@@ -507,26 +527,6 @@
       "duration_ms": 210530,
       "name": "Drink Rode Wijn",
       "url": "https://open.spotify.com/track/4dfcAShEiezY5K2IP33iOn"
-    },
-    {
-      "added_at": "2026-04-08 22:00:13",
-      "album": {
-        "name": "(Die Man Is) Verliefd",
-        "url": "https://open.spotify.com/album/6MYXtFqWqatgAk5U91a3J2"
-      },
-      "artists": [
-        {
-          "name": "Jan Smit",
-          "url": "https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq"
-        },
-        {
-          "name": "3JS",
-          "url": "https://open.spotify.com/artist/2ZulgXPozVBLNaJPXR8MnV"
-        }
-      ],
-      "duration_ms": 186799,
-      "name": "(Die Man Is) Verliefd",
-      "url": "https://open.spotify.com/track/3Sk76R83fWHlAO89n1IXgs"
     },
     {
       "added_at": "2026-04-08 22:00:13",
@@ -815,6 +815,22 @@
     {
       "added_at": "2026-04-08 22:00:13",
       "album": {
+        "name": "Gewoon Jannes",
+        "url": "https://open.spotify.com/album/0PzS61l1kAX6RF8nxNGPrV"
+      },
+      "artists": [
+        {
+          "name": "Jannes",
+          "url": "https://open.spotify.com/artist/02ydjJPvRKpejxRzZyHdaq"
+        }
+      ],
+      "duration_ms": 207546,
+      "name": "Adio Amore Adio",
+      "url": "https://open.spotify.com/track/53AddGhMgfIE85Az2Ipovu"
+    },
+    {
+      "added_at": "2026-04-08 22:00:13",
+      "album": {
         "name": "GAP",
         "url": "https://open.spotify.com/album/3TYzIE13Fda0FGmTNLCspz"
       },
@@ -835,22 +851,6 @@
     {
       "added_at": "2026-04-08 22:00:13",
       "album": {
-        "name": "Gewoon Jannes",
-        "url": "https://open.spotify.com/album/0PzS61l1kAX6RF8nxNGPrV"
-      },
-      "artists": [
-        {
-          "name": "Jannes",
-          "url": "https://open.spotify.com/artist/02ydjJPvRKpejxRzZyHdaq"
-        }
-      ],
-      "duration_ms": 207546,
-      "name": "Adio Amore Adio",
-      "url": "https://open.spotify.com/track/53AddGhMgfIE85Az2Ipovu"
-    },
-    {
-      "added_at": "2026-04-08 22:00:13",
-      "album": {
         "name": "Zij Weet Het (Studio Versie)",
         "url": "https://open.spotify.com/album/45DK1JElovyDUaa1VtnMMs"
       },
@@ -867,22 +867,6 @@
     {
       "added_at": "2026-04-08 22:00:13",
       "album": {
-        "name": "Gina",
-        "url": "https://open.spotify.com/album/3OO7avslFyhPayBU2Ev1vi"
-      },
-      "artists": [
-        {
-          "name": "Robert Pater",
-          "url": "https://open.spotify.com/artist/4F9stJgctKH0bQc4JPmgfd"
-        }
-      ],
-      "duration_ms": 218890,
-      "name": "Gina",
-      "url": "https://open.spotify.com/track/5meI025SYNIsanGc3NpCAs"
-    },
-    {
-      "added_at": "2026-04-08 22:00:13",
-      "album": {
         "name": "De Jonge Jaren van Toontje Lager - 50 Jaar Nederpop",
         "url": "https://open.spotify.com/album/2aTTEiGgwrBkwXbJmlZYTr"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 214975,
       "name": "Stiekem Gedanst",
       "url": "https://open.spotify.com/track/1tU5J8aMqCQe7WtqTkFLQL"
+    },
+    {
+      "added_at": "2026-04-08 22:00:13",
+      "album": {
+        "name": "Gina",
+        "url": "https://open.spotify.com/album/3OO7avslFyhPayBU2Ev1vi"
+      },
+      "artists": [
+        {
+          "name": "Robert Pater",
+          "url": "https://open.spotify.com/artist/4F9stJgctKH0bQc4JPmgfd"
+        }
+      ],
+      "duration_ms": 218890,
+      "name": "Gina",
+      "url": "https://open.spotify.com/track/5meI025SYNIsanGc3NpCAs"
     },
     {
       "added_at": "2026-04-08 22:00:13",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2026-04-08 22:00:13",
       "album": {
-        "name": "Wesly Bronkhorst",
-        "url": "https://open.spotify.com/album/4Sl1xNSD1vGfoseOGy9wYc"
-      },
-      "artists": [
-        {
-          "name": "Wesly Bronkhorst",
-          "url": "https://open.spotify.com/artist/6PBYhsdRwm1WbQC4GvNiCp"
-        }
-      ],
-      "duration_ms": 201786,
-      "name": "Kom Allemaal Maar In Mijn Armen",
-      "url": "https://open.spotify.com/track/3iNkLhEIArpx8TcQjDO4bR"
-    },
-    {
-      "added_at": "2026-04-08 22:00:13",
-      "album": {
         "name": "Vlinders Van De Nacht",
         "url": "https://open.spotify.com/album/13XX8pIrS5dG6fymhvzOsC"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 226000,
       "name": "Vrijgezel",
       "url": "https://open.spotify.com/track/5Z2aHuXBpwMnTpWZMwHkmr"
+    },
+    {
+      "added_at": "2026-04-08 22:00:13",
+      "album": {
+        "name": "Wesly Bronkhorst",
+        "url": "https://open.spotify.com/album/4Sl1xNSD1vGfoseOGy9wYc"
+      },
+      "artists": [
+        {
+          "name": "Wesly Bronkhorst",
+          "url": "https://open.spotify.com/artist/6PBYhsdRwm1WbQC4GvNiCp"
+        }
+      ],
+      "duration_ms": 201786,
+      "name": "Kom Allemaal Maar In Mijn Armen",
+      "url": "https://open.spotify.com/track/3iNkLhEIArpx8TcQjDO4bR"
     },
     {
       "added_at": "2026-04-08 22:00:13",

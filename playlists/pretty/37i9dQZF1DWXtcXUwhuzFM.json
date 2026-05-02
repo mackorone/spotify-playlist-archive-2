@@ -1,12 +1,12 @@
 {
   "description": "Uutta musaa tarjoilevat Olavi Uusivirta, Madonna ja Sabrina Carpenter, KAJ... ja moni muu  \ud83c\udfb6",
-  "num_followers": 106632,
+  "num_followers": 106709,
   "original_name": "New Music Friday Suomi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAM8LXp2W82W3nKnR0H+aypUoaGO9",
+  "snapshot_id": "AAAAALqHlMDQb1mjrlhjuMl0/RMYlnNu",
   "tracks": [
     {
       "added_at": "2026-04-30 21:00:21",
@@ -23,6 +23,22 @@
       "duration_ms": 226200,
       "name": "Talking Heads",
       "url": "https://open.spotify.com/track/5roZf9zbPUZ8n7c2kgfLBS"
+    },
+    {
+      "added_at": "2026-05-01 07:37:32",
+      "album": {
+        "name": "Mummo",
+        "url": "https://open.spotify.com/album/6GCJ7qLA0hYIK3TdIUa8wy"
+      },
+      "artists": [
+        {
+          "name": "Samuell",
+          "url": "https://open.spotify.com/artist/6McHq84vR6u1UNTdBiMKvV"
+        }
+      ],
+      "duration_ms": 196030,
+      "name": "Mummo",
+      "url": "https://open.spotify.com/track/3JSWW7XZiRUggZiQpZsxPe"
     },
     {
       "added_at": "2026-04-30 21:00:21",
@@ -549,7 +565,7 @@
         },
         {
           "name": "Tiga",
-          "url": "https://open.spotify.com/artist/6dfbRE1slg9q6xXbMiB9Rn"
+          "url": "https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC"
         }
       ],
       "duration_ms": 207272,

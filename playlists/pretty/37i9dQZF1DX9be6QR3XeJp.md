@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 
 > Discover your new favourite artists from UK&IE\. Cover: IZCO
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,438 likes - 278 songs - 14 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,439 likes - 278 songs - 14 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Track 5](https://open.spotify.com/track/2nKlFEzbCrDTgHqledJn06) | [IZCO](https://open.spotify.com/artist/4uqqEE1NaQBAa4wnDug9c1) | [POWERSCROFT](https://open.spotify.com/album/4vRMGZDyQrJfRxkIwlnPsR) | 0:00 |
+| 1 | [Down 4 \(feat\. Osquello\)](https://open.spotify.com/track/2nKlFEzbCrDTgHqledJn06) | [IZCO](https://open.spotify.com/artist/4uqqEE1NaQBAa4wnDug9c1), [Osquello](https://open.spotify.com/artist/6ScAPpYnDsH3Cu3TKmhUJr) | [POWERSCROFT](https://open.spotify.com/album/4vRMGZDyQrJfRxkIwlnPsR) | 4:41 |
 | 2 | [Woman I Am](https://open.spotify.com/track/7JDJimCnfNpiReuMNPXIVJ) | [Skye Newman](https://open.spotify.com/artist/4UoEzpWZrFWvlGYOzTEn1M) | [Woman I Am](https://open.spotify.com/album/2sgEblpbAegLtRuCpHJl70) | 3:31 |
 | 3 | [DON'T ASK!](https://open.spotify.com/track/47Z2SkqckoCdJiUgCs46jA) | [Natanya](https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp) | [DON'T ASK!](https://open.spotify.com/album/5rqi3IpAQc4QgQoO6LadFU) | 3:02 |
 | 4 | [waste your pain](https://open.spotify.com/track/3dwJ7YOq1ypxSZrh5GkZas) | [Cruz Beckham](https://open.spotify.com/artist/3ZPOiGqgEbfNlKFFKxXVsD) | [waste your pain](https://open.spotify.com/album/7xZM9auwP97hBo51OSYZ29) | 2:23 |

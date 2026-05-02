@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKXUMvNszVK.md) - [plain]
 
 > <a href="spotify:artist:5YFS41yoX0YuFY39fq21oN">Bob Sinclar</a>'s favourite tracks\. Updated regularly\. Curated by Bob Sinclar\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,902 likes - 70 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,941 likes - 70 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKXUMvNszVK.md) - [plain]
 | 21 | [Tropical Soundclash](https://open.spotify.com/track/0oAUQzRSH6nJwAFHXYOoNV) | [DJ Gregory](https://open.spotify.com/artist/08P7D5oQ3HUmQ0Gjbw6nzR) | [Tropical Soundclash](https://open.spotify.com/album/4aHOTHJZQ04Dm1oHKuxLvG) | 8:33 |
 | 22 | [Premier Gaou \- Bob Sinclar Radio Edit \- Le Bisou Edit](https://open.spotify.com/track/2IWLXQrMszvlBPzh06JT5I) | [Magic System](https://open.spotify.com/artist/6MvRVq0CtpQQlwnIiszV8F), [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN) | [Premier Gaou, The Remixes](https://open.spotify.com/album/3x0yojxFwkpfpGIp6FCI0a) | 3:41 |
 | 23 | [Antigua](https://open.spotify.com/track/17j4AjclS5hbnfy8BThMMi) | [Tom & Joy](https://open.spotify.com/artist/2lU3bCw5ymI4QHqkGY2yUv) | [Antigua](https://open.spotify.com/album/5eyD8JkBHbzNgnbQL7GbLq) | 5:06 |
-| 24 | [The Boss](https://open.spotify.com/track/5kfQK1Vb1mKSwzVn32Tarj) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [The Boss \(Expanded Edition\)](https://open.spotify.com/album/7jqe6yQ9qtHqahli8WSYH4) | 4:01 |
+| 24 | [The Boss \- Single Version](https://open.spotify.com/track/5kfQK1Vb1mKSwzVn32Tarj) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [The Boss \(Expanded Edition\)](https://open.spotify.com/album/7jqe6yQ9qtHqahli8WSYH4) | 4:01 |
 | 25 | [Let's Start The Dance](https://open.spotify.com/track/5kzro4mOcjwXuugRc6nzm7) | [Bohannon](https://open.spotify.com/artist/3opvWF0Koer2VPIJVOqnU6) | [Summertime Groove](https://open.spotify.com/album/5bAjY7MUnLDqp563OZVInB) | 5:52 |
 | 26 | [At Midnight](https://open.spotify.com/track/2UNREXVQxVGR3jJbbXOtRB) | [T\-Connection](https://open.spotify.com/artist/4zLYrCC0iBYDV8QmEYzUFS) | [T\-Connection \(Expanded Edition\)](https://open.spotify.com/album/5jTdQq8HHeiUXLOpKtXoGa) | 5:07 |
 | 27 | [The Glow of Love \- Single Version](https://open.spotify.com/track/6oOtua2Bx9jqVqEm9a1e7t) | [Change](https://open.spotify.com/artist/2fJ2vi4PUSxyvYaeq0FTbE) | [The Glow of Love \(Original Album and Rare Tracks\)](https://open.spotify.com/album/5AWDEEdFf7ab4X6HpfxLye) | 4:34 |

@@ -5825,6 +5825,24 @@
     },
     {
       "album": {
+        "name": "Kara\u00e7al\u0131",
+        "url": "https://open.spotify.com/album/1YRuxJZXAB0FlGttTgb1bL"
+      },
+      "artists": [
+        {
+          "name": "Baran Meng\u00fc\u00e7",
+          "url": "https://open.spotify.com/artist/07eEGn8bSAJF9sUqeTtAmN"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134399,
+      "name": "Kara\u00e7al\u0131",
+      "url": "https://open.spotify.com/track/2K5xsa4rFQtECBSIJR046V"
+    },
+    {
+      "album": {
         "name": "Karma",
         "url": "https://open.spotify.com/album/6yWY1X3IAyi6IIuTY5Li3v"
       },
@@ -10154,7 +10172,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 226666,
       "name": "Yalan",
       "url": "https://open.spotify.com/track/4QaCneYjuoaTwxu0NoU6hU"

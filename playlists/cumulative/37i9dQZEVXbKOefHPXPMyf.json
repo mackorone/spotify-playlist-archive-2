@@ -13088,7 +13088,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-24",
+      "date_removed": null,
       "duration_ms": 114023,
       "name": "CAMA KING",
       "url": "https://open.spotify.com/track/69U6KVEP1eJsEIz2r4mpIM"
@@ -14158,7 +14158,7 @@
       ],
       "date_added": "2026-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 180000,
       "name": "Catch Catch (Chinese Ver.)",
       "url": "https://open.spotify.com/track/29rzWFatC5WwBw2YypQEzC"
@@ -17186,7 +17186,7 @@
       ],
       "date_added": "2026-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-29",
+      "date_removed": null,
       "duration_ms": 178144,
       "name": "CONFESIONES",
       "url": "https://open.spotify.com/track/7aGPjKEMlhq3W4QzOFoiFi"
@@ -26832,6 +26832,24 @@
     {
       "album": {
         "name": "Entre t\u00fa y yo",
+        "url": "https://open.spotify.com/album/015qWLIFXhFMx1lkb01A2v"
+      },
+      "artists": [
+        {
+          "name": "baektowo",
+          "url": "https://open.spotify.com/artist/3oeGRVD8DcZWhciWnRry89"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210011,
+      "name": "Entre t\u00fa y yo",
+      "url": "https://open.spotify.com/track/6tSrqArEVl1sFUc7p1zuIt"
+    },
+    {
+      "album": {
+        "name": "Entre t\u00fa y yo",
         "url": "https://open.spotify.com/album/2W5yGu6abXNhtny9ersYok"
       },
       "artists": [
@@ -26896,7 +26914,7 @@
       ],
       "date_added": "2026-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 210024,
       "name": "Entre t\u00fa y yo",
       "url": "https://open.spotify.com/track/7bOlsO6AH0aH3GI3JQ5Zwf"
@@ -37236,6 +37254,24 @@
       "duration_ms": 181677,
       "name": "I'll Be There",
       "url": "https://open.spotify.com/track/2Qcbspnftnon37jibwyvMU"
+    },
+    {
+      "album": {
+        "name": "Third Album",
+        "url": "https://open.spotify.com/album/5d6X8oegJmu9XKn9UBAswG"
+      },
+      "artists": [
+        {
+          "name": "The Jackson 5",
+          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237760,
+      "name": "I'll Be There",
+      "url": "https://open.spotify.com/track/5RdhBLmB4DyFHLglRrfx63"
     },
     {
       "album": {
@@ -56356,7 +56392,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 204321,
       "name": "Noche Perfecta",
       "url": "https://open.spotify.com/track/3DEPnIQZWIcpRUwH5O0J6O"
@@ -82322,7 +82358,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 243951,
       "name": "Tus Ojitos",
       "url": "https://open.spotify.com/track/4J9LyFADr1h76FVyVW0TXQ"

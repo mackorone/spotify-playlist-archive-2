@@ -2,9 +2,9 @@
 
 ### [Bass Drop](https://open.spotify.com/playlist/3h2IgKtlJYBhfbxPRuHMEG)
 
-> The best Bass, EDM, Trap, Electronic, Drum&amp;Bass\. Cover: Rezz
+> The best Bass, EDM, Trap, Electronic, Drum&amp;Bass\. Cover: EDDIE
 
-199 songs - 11 hr 6 min
+200 songs - 11 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,6 +169,7 @@
 | [Smoak & Sip](https://open.spotify.com/track/48abYOiPEloRHZ4XsMmVDA) | [Smoakland](https://open.spotify.com/artist/6409kgOB4tZEkNZci6BiUs), [SIPPY](https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S), [ProbCause](https://open.spotify.com/artist/1ZcfGrGrm9aHnUNVQz3sCY) | [Smoak & Sip](https://open.spotify.com/album/7wc12zgtkHjbtZ7EoFgQrb) | 3:42 | 2024-02-23 | 2024-11-09 |
 | [Smoke & Ones](https://open.spotify.com/track/1Ozd6d7lNxRvQxGrmMmE37) | [Blunts & Blondes](https://open.spotify.com/artist/4XxIRZXk8xgrBmt0SNq7E3), [Jmo Let Em Know](https://open.spotify.com/artist/0j6m0No9ZFEawNFJbsurSa) | [Smoke & Ones](https://open.spotify.com/album/2mt1IX4WofBVkmuptuPJmX) | 3:28 | 2023-12-01 | 2025-04-20 |
 | [Snake Charmer](https://open.spotify.com/track/3VLkTbSGvFDTEBjq1Hh8bx) | [Axel Boy](https://open.spotify.com/artist/4DabGEOrvBxxta0YlaaJpJ) | [Snake Charmer](https://open.spotify.com/album/3XA3MN6qE5wzVHTnI3kHti) | 3:39 | 2025-08-08 |  |
+| [Step On It](https://open.spotify.com/track/7B7zomZj3lfYxQc8WqLh7z) | [EDDIE](https://open.spotify.com/artist/0LgrViZrCyMgg5MfTc33bd) | [Step On It](https://open.spotify.com/album/2DDKyJJoR5p3ZXdzuSXFJT) | 3:08 | 2026-05-01 |  |
 | [Stupid](https://open.spotify.com/track/1kyuxFtixkhsXW7lPJMO2s) | [Effin](https://open.spotify.com/artist/6l0u1oM2imxw0isrGcXpmH) | [Descent \- EP](https://open.spotify.com/album/0MIZlwrMURKrCp7taVFzyC) | 3:08 | 2023-12-01 | 2025-05-03 |
 | [SUNSHiNE OF YOUR WUB](https://open.spotify.com/track/413ir53trC0Nfh4Mhdmgws) | [YOOKiE](https://open.spotify.com/artist/26RHyTSsP5JoS4udf8txU5) | [SUNSHiNE OF YOUR WUB](https://open.spotify.com/album/5tght1mFiO2ezt5lz9L2IS) | 1:33 | 2024-02-16 | 2024-11-09 |
 | [Superstars](https://open.spotify.com/track/7FbdXyyZOknEfjHxGmdQVp) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL) | [Superstars](https://open.spotify.com/album/6dvGmNFspBMuwkM09pJqkj) | 2:52 | 2023-12-01 | 2024-11-30 |

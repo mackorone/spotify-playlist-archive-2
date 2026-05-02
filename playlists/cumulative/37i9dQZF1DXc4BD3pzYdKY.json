@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best of Christian Hip Hop today.  Cover: Hulvey",
+  "description": "The best of Christian Hip Hop today.  Cover: 1K Phew",
   "name": "The Flow",
   "tracks": [
     {
@@ -10457,6 +10457,24 @@
     },
     {
       "album": {
+        "name": "Havin'",
+        "url": "https://open.spotify.com/album/0VaOrpBKz0ObZaI74wuV2n"
+      },
+      "artists": [
+        {
+          "name": "1K Phew",
+          "url": "https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169531,
+      "name": "Havin'",
+      "url": "https://open.spotify.com/track/1PwIBzaWVTzourrHRw6FTm"
+    },
+    {
+      "album": {
         "name": "HE BACK!",
         "url": "https://open.spotify.com/album/6YONIZy4O4CSen2cbqhfn4"
       },
@@ -15620,7 +15638,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 164129,
       "name": "masterpiece",
       "url": "https://open.spotify.com/track/3KfzwglHt2AS1UB9bZgagk"
@@ -16648,6 +16666,28 @@
       "duration_ms": 256000,
       "name": "Necessary Endings",
       "url": "https://open.spotify.com/track/64jmvlOtgbKIXtGYRvp7Up"
+    },
+    {
+      "album": {
+        "name": "CULT CLASSIC VOL. 1",
+        "url": "https://open.spotify.com/album/1oyf5vVZtHUJHgVKCnsk6r"
+      },
+      "artists": [
+        {
+          "name": "Marty",
+          "url": "https://open.spotify.com/artist/5BfKKSmpGmj2moMNlaWeJK"
+        },
+        {
+          "name": "Brenno",
+          "url": "https://open.spotify.com/artist/7lBcEp7abNiq3WyHT3RRqV"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140487,
+      "name": "NED FLANDERS",
+      "url": "https://open.spotify.com/track/2W6PC29zRbBuJwI3G8eBzB"
     },
     {
       "album": {
@@ -24048,7 +24088,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 137150,
       "name": "take the wheel",
       "url": "https://open.spotify.com/track/2H6Xw9IKbZirY1camQHot3"

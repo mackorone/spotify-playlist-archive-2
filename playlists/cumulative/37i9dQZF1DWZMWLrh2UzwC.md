@@ -4,7 +4,7 @@
 
 > New music from Noh Salleh, Lady Gaga, Ajai, Nadeera, Aziz Harun, ILLIT, and more!
 
-21,088 songs - 48 day 12 hr 8 min
+21,090 songs - 48 day 12 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2288,6 +2288,7 @@
 | [BOY CRAZY.](https://open.spotify.com/track/5CiPDLxXmUG7Fk5yjlNy9n) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [BOY CRAZY.](https://open.spotify.com/album/5vbKk8Ki7HxcDUCYh5EUZc) | 2:28 | 2025-05-15 | 2025-05-23 |
 | [Boy from Carolina](https://open.spotify.com/track/2ZAqDuU6rBiZhWIfngM8Ca) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Boy From Carolina](https://open.spotify.com/album/2adTi2GIqAnmt7SxppjWzN) | 4:02 | 2023-06-29 | 2023-07-07 |
 | [Boy In Love](https://open.spotify.com/track/19TlagHWD2YdNCOoZc1Fjp) | [Elliot James Reay](https://open.spotify.com/artist/2PI9HrzzMTN7E5poWl4QX5) | [Boy In Love](https://open.spotify.com/album/4SoPcHKJ7s4XnNZtLbpJ9Y) | 2:37 | 2024-11-21 | 2024-11-29 |
+| [BOY IN RED](https://open.spotify.com/track/7B2ygRXyWZulEpO4G1CHZf) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [IT'S BEEN AWFUL](https://open.spotify.com/album/2ZDgH9uDdjRFNdjEyQCZtH) | 3:09 | 2026-05-01 |  |
 | [Boy in the Matrix](https://open.spotify.com/track/6wZcPL2h8uFXXiSgxA2hSM) | [Deb Fan](https://open.spotify.com/artist/7s1vLo9XJCtiFWWzidpl9m) | [Boy in the Matrix](https://open.spotify.com/album/60uMtz6oKaUg9aYpPy3AOL) | 2:47 | 2026-04-30 |  |
 | [Boy Problems](https://open.spotify.com/track/3HflSAiRSzyDrAuMsewh3i) | [Hippie Sabotage](https://open.spotify.com/artist/4dM6NDYSfLcspt8GLoT5aE), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [Boy Problems](https://open.spotify.com/album/0wKiBnh7sl2OYVy66s8O69) | 4:57 | 2023-11-09 | 2023-11-17 |
 | [boy that's loving you](https://open.spotify.com/track/3zuhn8OqdMQFjrQdlZJ5Hw) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [boy that's loving you](https://open.spotify.com/album/1wjkQnmMpbXyNkMJjmmLgW) | 3:04 | 2026-04-23 | 2026-05-01 |
@@ -8996,6 +8997,7 @@
 | [Kabarku](https://open.spotify.com/track/3KwNTJNkIKvOf94AZC88Go) | [Dee Lestari](https://open.spotify.com/artist/1mCcTwpEABnSVB4D8rXfRN) | [Kabarku](https://open.spotify.com/album/1PulUqw2J7Ikjf1b4GPIrv) | 4:14 | 2026-04-09 | 2026-04-17 |
 | [Kabus](https://open.spotify.com/track/2Aw0txY7PooHJGldht1046) | [Achey](https://open.spotify.com/artist/2w3pEU3DbPptoLrT45usqN), [Baby Feaaa](https://open.spotify.com/artist/2ij5Q5SeRq5o9ZOd8EZfiD) | [Kabus](https://open.spotify.com/album/5SYfwBGFVf6v29hdXA1lHj) | 3:45 | 2024-02-22 | 2024-03-01 |
 | [Kacamata](https://open.spotify.com/track/3f3eUkY1fLK7hqqtByAhUm) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [Kacamata](https://open.spotify.com/album/7A28H5rQ3TaREoMvcqJZqP) | 3:16 | 2025-10-09 | 2025-10-17 |
+| [Kadaya Saathu](https://open.spotify.com/track/75Evj1BuXZ1wFrvqyYjzap) | [ofRO](https://open.spotify.com/artist/3sZ8UlybnehTap4i1B3Wts), [Vaasi](https://open.spotify.com/artist/5vlliAPuYaEl9AC4AzO8eJ) | [Kadaya Saathu](https://open.spotify.com/album/0IHCidk3LUuQEFzClZpxvs) | 2:39 | 2026-04-30 |  |
 | [Kahlua](https://open.spotify.com/track/5N02Th5pGOdtkxkJCjiNM4) | [JAIE](https://open.spotify.com/artist/74Zk4BaTpscIf6k04UoCds) | [Kahlua](https://open.spotify.com/album/5PgfK9TLOnxbfpVUNtBsR3) | 3:06 | 2023-03-09 | 2023-03-18 |
 | [Kahwin Dua](https://open.spotify.com/track/6ol3Og9vDeAURONM1ujJ4D) | [Haqiem Rusli](https://open.spotify.com/artist/0J1gUosYaFbrSG6FkbE4c7) | [Kahwin Dua](https://open.spotify.com/album/1NjJeKWyPopztgDaaRoT9g) | 4:15 | 2025-02-27 | 2025-03-07 |
 | [Kaiju](https://open.spotify.com/track/7sMRDjjwsB7wQEBOkdfg0i) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [Kaiju](https://open.spotify.com/album/1DiL7gwSuEhg2y0SvgQhlS) | 4:12 | 2025-02-20 | 2025-02-28 |
@@ -18920,7 +18922,7 @@
 | [Wife](https://open.spotify.com/track/6hWU8LrnjLyYHShDyNWFZj) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Wife](https://open.spotify.com/album/0C8qSTYZDkVcfnY6tIHIzK) | 2:01 | 2024-01-25 | 2024-02-02 |
 | [Wifey](https://open.spotify.com/track/7uo4KrmeIGBcEweHpDxcEx) | [ERIKA](https://open.spotify.com/artist/3cuZA22vz0nToT0LAcecup) | [雙魚宮](https://open.spotify.com/album/4TU6G9NOrsjWBRxg3GTTNb) | 2:35 | 2025-08-28 | 2025-09-05 |
 | [Wifey \- Ft\. Lil Keed](https://open.spotify.com/track/4Yjo12QGT1gErSYngJMHK4) | [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj), [Lil Keed](https://open.spotify.com/artist/3uJx5SnOM59Li7lCxA3b29) | [Wifey \(Ft\. Lil Keed\)](https://open.spotify.com/album/2SjTxAjGMkRDRNpsNEqB5s) | 3:05 | 2022-07-07 | 2022-07-15 |
-| [WIL:D](https://open.spotify.com/track/67Z4nAGa3KOKw7h9eLbCUz) | [babyMINT](https://open.spotify.com/artist/3QBGARmgMgRi08atqAWAV2), [babyMINT粼粼](https://open.spotify.com/artist/2AfDGAOUPXeleCgCWqRTvu), [babyMINT Vikky](https://open.spotify.com/artist/3WvOCbEjwaHhNtUP7I1XUv), [babyMINT Siena](https://open.spotify.com/artist/7IpLos6pimazUel2iQTVpP), [JUD](https://open.spotify.com/artist/0TLFuIkzBCZUHQ38oeK11R) | [WIL:D](https://open.spotify.com/album/17SqnuWR3giTcQ3npVOQ1U) | 2:43 | 2026-04-30 |  |
+| [WIL:D](https://open.spotify.com/track/67Z4nAGa3KOKw7h9eLbCUz) | [babyMINT](https://open.spotify.com/artist/3QBGARmgMgRi08atqAWAV2), [babyMINT粼粼](https://open.spotify.com/artist/2AfDGAOUPXeleCgCWqRTvu), [babyMINT Vikky](https://open.spotify.com/artist/3WvOCbEjwaHhNtUP7I1XUv), [babyMINT熙妍](https://open.spotify.com/artist/4EWIF2ypb6ULu7YNzzuQjc), [JUD 陳泳希](https://open.spotify.com/artist/12oXAua3nGur2Ma3WHyCro) | [WIL:D](https://open.spotify.com/album/17SqnuWR3giTcQ3npVOQ1U) | 2:43 | 2026-04-30 |  |
 | [Wild](https://open.spotify.com/track/0yBZ0uyGRXehekIIadZ3Cd) | [Dixie](https://open.spotify.com/artist/3DKkhRCGOG4e8IUPYFPfWs) | [Wild](https://open.spotify.com/album/3Q7vRXzztzgiUf5ANcr8fI) | 2:19 | 2022-05-26 | 2022-06-03 |
 | [Wild Child](https://open.spotify.com/track/0ncdLrRwDcIULjIwyrOoB3) | [Shin Sakiura](https://open.spotify.com/artist/43NKdJzrtzg9rAzmbIUdW8), [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [Wild Child](https://open.spotify.com/album/6IAjg2q4PYkbq6ZvnATP29) | 3:40 | 2022-08-25 | 2022-09-02 |
 | [Wild Child](https://open.spotify.com/track/0dgAZ1j5irH1FlA5WrpHW4) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Wild Child](https://open.spotify.com/album/3qq1cgY9TrPmzscvmON5Vb) | 2:44 | 2022-03-10 | 2022-03-18 |

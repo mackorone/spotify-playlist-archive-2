@@ -4,7 +4,7 @@
 
 > All the biggest House, Tech House &amp; Techno anthems right now! Follow us on <a href="https://www.instagram.com/toolroomrecords/">Instagram</a>
 
-250 songs - 12 hr 46 min
+252 songs - 12 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Confession](https://open.spotify.com/track/1KFhH40ZSpyrUijzmCOXpr) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Confession](https://open.spotify.com/album/6WuivseYo5zD3KcEiaQ39T) | 2:35 | 2026-02-06 |  |
 | [Count On You](https://open.spotify.com/track/7v9mYX2KjcQQtunwVbaKx4) | [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1), [Sian\-Lee](https://open.spotify.com/artist/0JiqigemaoIuLScw1UNRr0) | [Count On You](https://open.spotify.com/album/0Dgjg1kL5gX4bfvQrzujvH) | 2:45 | 2025-04-11 | 2025-11-26 |
 | [D.A.N.C.E \- From F1® The Movie](https://open.spotify.com/track/15cIdgwfMw0YRunjzxtui9) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [D.A.N.C.E \(From F1® The Movie\)](https://open.spotify.com/album/2AgQHiCnhTpiOwZ29rrZ6v) | 3:15 | 2025-06-27 | 2026-01-17 |
+| [Danca](https://open.spotify.com/track/1bSEok2LJmdLzaIYAj14bk) | [KC Lights](https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ) | [Danca](https://open.spotify.com/album/4q7vgxW9x6ySjuYTb9IeGh) | 2:49 | 2026-05-01 |  |
 | [Dance To The Music](https://open.spotify.com/track/0izF9lgQMFggcKXaia48Xa) | [Low Steppa](https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob), [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5) | [Dance To The Music](https://open.spotify.com/album/6zcnuO88B7AClFIH7kB9Vq) | 2:38 | 2025-03-28 | 2025-11-26 |
 | [Deep Down](https://open.spotify.com/track/2eDT61AnxqoMv63FoT9pEg) | [CHANEY](https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX) | [UNCHANED VOL.1](https://open.spotify.com/album/2JyDHxShDVPQnlLFCXcN8o) | 3:26 | 2025-12-05 |  |
 | [Deep Down](https://open.spotify.com/track/3oABXSV2rnraVr5vhusLdG) | [Illyus Barrientos ](https://open.spotify.com/artist/6n5ccknvteaKfN4WA2qf3C), [Aden Rémai](https://open.spotify.com/artist/5U3Av6ofccuxkUHYtCbfXn) | [Deep Down](https://open.spotify.com/album/5DoiCmPGUBTIww7OPeJ1Ip) | 3:23 | 2026-01-05 |  |
@@ -105,6 +106,7 @@
 | [Gotta Have Your Love](https://open.spotify.com/track/5Ly0zRp3UFDKsULP6Vkbas) | [Ethan James](https://open.spotify.com/artist/5qkqZBIInFV7BJoZFlMNMW) | [Gotta Have Your Love](https://open.spotify.com/album/4R5RYusMmJDk99DSkkKXeW) | 2:12 | 2025-10-24 | 2026-03-21 |
 | [Gypsy Woman](https://open.spotify.com/track/2nto3uwHdsC2XQIBePrpDT) | [Darius Syrossian](https://open.spotify.com/artist/6PDUdAoMV9dMy0wOt09Rsf), [Holly Jaz](https://open.spotify.com/artist/7ARY5Ps825SlBAjXJKHp0J) | [Gypsy Woman](https://open.spotify.com/album/7fQL0HY8oDcUQJU1O1TRnL) | 2:58 | 2025-12-01 |  |
 | [H2DAIZZO](https://open.spotify.com/track/4Z4FundUbHXd31UDSZ0G4c) | [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU) | [H2DAIZZO](https://open.spotify.com/album/3lAzVR1ZomRbfuXwsxHlWg) | 6:34 | 2025-05-30 | 2025-08-23 |
+| [Hause Muzica](https://open.spotify.com/track/2LLX5En5Wnpc2gWMEU2Ola) | [Marco Lys](https://open.spotify.com/artist/5WiohqjMNs7MtChjoHE9D1), [Thomas Newson](https://open.spotify.com/artist/66MrdPDHTjnnMOTBmC81q5), [David LeSal](https://open.spotify.com/artist/1KB7YVSkBmXdNoOJEMkDAa) | [Hause Muzica](https://open.spotify.com/album/6zB5vx2vd40tYEn3MHigOr) | 2:54 | 2026-05-01 |  |
 | [Heat](https://open.spotify.com/track/3jh6cmf9fEdPafOPQvNACj) | [Siege](https://open.spotify.com/artist/3Y7jEjvZAosFRghJl62VNd), [Dario Nunez](https://open.spotify.com/artist/2xjAjRLHCAgqazA88wwDLh), [I Jah](https://open.spotify.com/artist/2zoDXV6Ko316CBoCnGLDoS) | [Heat](https://open.spotify.com/album/6vSWseGGfTHt2dhzmEBIVY) | 3:19 | 2026-04-03 |  |
 | [High \(Pasilda\)](https://open.spotify.com/track/6kUcrshUDUKXkcFLydyBiA) | [Tyler West](https://open.spotify.com/artist/165bIKzQkxaVQfgrDFsncH) | [High \(Pasilda\)](https://open.spotify.com/album/17GnRWpr6B8NxKI2IgrpwO) | 3:36 | 2025-06-27 | 2025-08-23 |
 | [High On Me](https://open.spotify.com/track/3Z23sDc2J9ZkmFiMStRoIp) | [Rossi.](https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [High On Me](https://open.spotify.com/album/2fpKAar1kXe4bWkzZSX88J) | 3:09 | 2025-06-20 | 2025-11-08 |

@@ -1,13 +1,29 @@
 {
   "description": "Jazz, but make it funky. Cover: Skinny Hightower",
-  "num_followers": 414334,
+  "num_followers": 414418,
   "original_name": "Jazz-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIg1XM4xfV/2gc7b1f/j96oCeimF",
+  "snapshot_id": "AAAAALpXZfV9fiXowQhf9FHs91Bin01h",
   "tracks": [
+    {
+      "added_at": "2026-05-01 04:01:07",
+      "album": {
+        "name": "Chain Reaction",
+        "url": "https://open.spotify.com/album/1vwmnBEUOKa04GmwDA61jE"
+      },
+      "artists": [
+        {
+          "name": "Skinny Hightower",
+          "url": "https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx"
+        }
+      ],
+      "duration_ms": 487845,
+      "name": "Chain Reaction",
+      "url": "https://open.spotify.com/track/0srUKiOtd4K2GmAETtqRDQ"
+    },
     {
       "added_at": "2026-03-27 04:00:06",
       "album": {
@@ -23,22 +39,6 @@
       "duration_ms": 191753,
       "name": "Respond to Sound",
       "url": "https://open.spotify.com/track/06RocQbgd52XlaWaX3haRK"
-    },
-    {
-      "added_at": "2026-03-06 05:00:02",
-      "album": {
-        "name": "Devotion",
-        "url": "https://open.spotify.com/album/04yzrf8Eda4ydshQ2N28X7"
-      },
-      "artists": [
-        {
-          "name": "Skinny Hightower",
-          "url": "https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx"
-        }
-      ],
-      "duration_ms": 329571,
-      "name": "Devotion",
-      "url": "https://open.spotify.com/track/322s1Mr5j33uwYVgjfGGFl"
     },
     {
       "added_at": "2026-03-27 04:00:06",

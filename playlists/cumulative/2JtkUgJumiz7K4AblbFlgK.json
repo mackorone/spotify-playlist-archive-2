@@ -225,6 +225,24 @@
     },
     {
       "album": {
+        "name": "Break a Leg",
+        "url": "https://open.spotify.com/album/3ToVIHBEkms2XoiioW54J3"
+      },
+      "artists": [
+        {
+          "name": "Dexter Fawcett",
+          "url": "https://open.spotify.com/artist/74JMTeIPtqqJYPLL2eySlp"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233176,
+      "name": "Break a Leg",
+      "url": "https://open.spotify.com/track/3nhgFIvdNn6r0y31rrKY6D"
+    },
+    {
+      "album": {
         "name": "Bridge Over Troubled Water (feat. John Legend & Tori Kelly)",
         "url": "https://open.spotify.com/album/1Zo8V5bfUxTiLPQRO99FK5"
       },

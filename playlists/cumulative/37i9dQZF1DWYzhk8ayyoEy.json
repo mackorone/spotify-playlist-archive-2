@@ -416,7 +416,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 189142,
       "name": "Better Man",
       "url": "https://open.spotify.com/track/7i4YoswtDTbiLd6AWc0Ep0"
@@ -1095,6 +1095,24 @@
     },
     {
       "album": {
+        "name": "Good Morning California",
+        "url": "https://open.spotify.com/album/4XjfT1UqrMeaGvr38Io8WI"
+      },
+      "artists": [
+        {
+          "name": "Fitz and The Tantrums",
+          "url": "https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127594,
+      "name": "Good Morning California",
+      "url": "https://open.spotify.com/track/5SPgaiQqRj4PqW1fLL3M24"
+    },
+    {
+      "album": {
         "name": "Good To Be",
         "url": "https://open.spotify.com/album/6lVzd7PgdTCzmN8P9rOA0o"
       },
@@ -1436,6 +1454,28 @@
       "duration_ms": 160679,
       "name": "Holy Shuffle (feat. Billy Porter)",
       "url": "https://open.spotify.com/track/4Y6x385r5gUr5Ey57Mp9z6"
+    },
+    {
+      "album": {
+        "name": "Hope (Remix)",
+        "url": "https://open.spotify.com/album/50FQvTPT3n9wrQdxiA3Gtz"
+      },
+      "artists": [
+        {
+          "name": "Nick Jonas",
+          "url": "https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196738,
+      "name": "Hope (Remix) (feat. Brandon Lake)",
+      "url": "https://open.spotify.com/track/7IR8hkU4oKXHFkzuwFxc01"
     },
     {
       "album": {
@@ -2726,7 +2766,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 223403,
       "name": "Something I Could Never Be (feat. Wrabel)",
       "url": "https://open.spotify.com/track/76xRTCRN9TqfvkEfRtz9Kk"

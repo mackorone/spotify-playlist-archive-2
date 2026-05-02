@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "Bien Argento \ud83d\udcf8 Deyco & JCKC",
+  "description": "Bien Argento \ud83d\udcf8 AFTER & Cerounno",
   "name": "Hip Hop Argento",
   "tracks": [
     {
@@ -1797,6 +1797,28 @@
     },
     {
       "album": {
+        "name": "CIVIC 07",
+        "url": "https://open.spotify.com/album/5WZHOuLQmZKWiVDFT8G3sj"
+      },
+      "artists": [
+        {
+          "name": "AFTER",
+          "url": "https://open.spotify.com/artist/6RGri3BX7P64gUBuf6uU7p"
+        },
+        {
+          "name": "Cerounno",
+          "url": "https://open.spotify.com/artist/5KpmLKI7ktzNzQL13J95Pf"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "CIVIC 07",
+      "url": "https://open.spotify.com/track/1OlKgZZDRE3eUexoSulpa8"
+    },
+    {
+      "album": {
         "name": "Clandestino",
         "url": "https://open.spotify.com/album/4znDf5sa8TygYv4Ypabebx"
       },
@@ -2698,7 +2720,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 107712,
       "name": "Dichos",
       "url": "https://open.spotify.com/track/5mWgrvAr7MJUGYeMmjXrJA"
@@ -4569,6 +4591,32 @@
     },
     {
       "album": {
+        "name": "Ignorante",
+        "url": "https://open.spotify.com/album/5MTuUHaIss1OCbxdMXYpa8"
+      },
+      "artists": [
+        {
+          "name": "Doly Flackko",
+          "url": "https://open.spotify.com/artist/6Mo5LUenVqXbaxeWw91lAH"
+        },
+        {
+          "name": "OldPurp",
+          "url": "https://open.spotify.com/artist/1h0hHYHR3rv8Ol5yudY5Vi"
+        },
+        {
+          "name": "yvngrobv",
+          "url": "https://open.spotify.com/artist/5rI5ur55JszQ9Nm9s0nDy4"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Ignorante",
+      "url": "https://open.spotify.com/track/4NQtTzutNTU3mJFQGErBmN"
+    },
+    {
+      "album": {
         "name": "Imposible",
         "url": "https://open.spotify.com/album/0WHVZ4w8mOWhbBDOi3DSks"
       },
@@ -5410,7 +5458,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 121008,
       "name": "LUNES PM",
       "url": "https://open.spotify.com/track/5ZMVoeESUk5zl0sfENea0O"
@@ -5976,6 +6024,28 @@
       "duration_ms": 219598,
       "name": "MELASA",
       "url": "https://open.spotify.com/track/6UDjDA42sPWeJTADqdS2ON"
+    },
+    {
+      "album": {
+        "name": "melodia drumless",
+        "url": "https://open.spotify.com/album/3d4esjE67PYmvRIiAl2K00"
+      },
+      "artists": [
+        {
+          "name": "JCKC",
+          "url": "https://open.spotify.com/artist/6Sf9Y7eQWVeAioiBobktSu"
+        },
+        {
+          "name": "tomas metrikf",
+          "url": "https://open.spotify.com/artist/6GGrlen6P3MTTUSCO2pX7T"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196750,
+      "name": "melodia drumless",
+      "url": "https://open.spotify.com/track/4htyv1WeJj43JkTWgu2LbX"
     },
     {
       "album": {
@@ -6848,7 +6918,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 129000,
       "name": "PAULINA",
       "url": "https://open.spotify.com/track/0nxvB50oTssriM7Cq9D8vk"
@@ -8396,7 +8466,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 171951,
       "name": "Sin Drama",
       "url": "https://open.spotify.com/track/12GYDIfcTO5fEbWuU9kgCZ"
@@ -9458,6 +9528,24 @@
       "duration_ms": 145031,
       "name": "Viernes 16 B",
       "url": "https://open.spotify.com/track/1Mlxxu0LJZobNjeupYqCEG"
+    },
+    {
+      "album": {
+        "name": "Villa Fiorito - Cap\u00edtulo 2",
+        "url": "https://open.spotify.com/album/51wqRgsG3tf5GLmPKM6RjM"
+      },
+      "artists": [
+        {
+          "name": "Homer El Mero Mero",
+          "url": "https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164821,
+      "name": "Villa Fiorito - Cap\u00edtulo 2",
+      "url": "https://open.spotify.com/track/7zFFX6KfPnK09Kv93zzEbN"
     },
     {
       "album": {

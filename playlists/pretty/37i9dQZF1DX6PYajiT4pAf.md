@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Eladio Carrión, Manuel Carrasco, Zara Larsson & Shakira y el resto de novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 400,625 likes - 60 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 401,121 likes - 60 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 30 | [KENDALL](https://open.spotify.com/track/3onqvNsB6GmwUNueWsk9sh) | [Samueliyo Baby](https://open.spotify.com/artist/4LuezDRPeENhjIphng4u15) | [KENDALL](https://open.spotify.com/album/5SiZqe1UKxkYLVxkk2KQO0) | 2:14 |
 | 31 | [8 COSITAS](https://open.spotify.com/track/4WjiBeHpFKHJnqvAJLdcCb) | [Daniela Garsal](https://open.spotify.com/artist/5UA1oMfQ2oISh5SaZiVjXe), [D3llano](https://open.spotify.com/artist/2op8AnWkI11yZAv1KwS9Ck) | [8 COSITAS](https://open.spotify.com/album/2bRPMigCfmKjWIW0AF7sh1) | 2:26 |
 | 32 | [TU PROBLEMA](https://open.spotify.com/track/6nvfYRoa8TFba7G4T8wRFg) | [Ultraligera](https://open.spotify.com/artist/5Vv5llyiK1nlME2UNDzPBB) | [TU PROBLEMA](https://open.spotify.com/album/3fFQHVyV7xs6GiusyTRavq) | 3:44 |
-| 33 | [Track 3](https://open.spotify.com/track/3Cd2ZwQy5fmrayFSMN7u8Q) | [Ivan Ferreiro](https://open.spotify.com/artist/3qUrABCNqnkb5gc2YmPVzP) | [Hoy por ayer](https://open.spotify.com/album/46B8dr0mR3NA6CKQgBOhe6) | 0:00 |
-| 34 | [Track 1](https://open.spotify.com/track/6TqRBg4yCqS1G0tVYaVbM9) | [Salistre](https://open.spotify.com/artist/7cwETpw63qjveV8UjEHds0) | [VAIVÉN](https://open.spotify.com/album/1C41EPQfvbBY7W6nzGpYPB) | 0:00 |
+| 33 | [Reiniciar](https://open.spotify.com/track/3Cd2ZwQy5fmrayFSMN7u8Q) | [Ivan Ferreiro](https://open.spotify.com/artist/3qUrABCNqnkb5gc2YmPVzP) | [Hoy por ayer](https://open.spotify.com/album/46B8dr0mR3NA6CKQgBOhe6) | 4:24 |
+| 34 | [VAIVÉN](https://open.spotify.com/track/6TqRBg4yCqS1G0tVYaVbM9) | [Salistre](https://open.spotify.com/artist/7cwETpw63qjveV8UjEHds0) | [VAIVÉN](https://open.spotify.com/album/1C41EPQfvbBY7W6nzGpYPB) | 2:28 |
 | 35 | [De Nuevo Apareciste](https://open.spotify.com/track/3SLZB2hQUAkygdUaDoa3OJ) | [Álvaro García](https://open.spotify.com/artist/3xuiqNVeSn3hpnWlAto2eq) | [De Nuevo Apareciste](https://open.spotify.com/album/4v0J97NFmJyB9ETczTlOTX) | 3:41 |
 | 36 | [PIRINEOS](https://open.spotify.com/track/3oSSoUOigmLhsVvfwZUanZ) | [L'haine](https://open.spotify.com/artist/7tXH4uI7BOE7hFBazlah0q), [Hoke](https://open.spotify.com/artist/2x6kZekpNZMll7Uq3M6ar5) | [PIRINEOS](https://open.spotify.com/album/2Kl9CYbfn9SExmhgDooD5p) | 2:25 |
 | 37 | [Yo quiero un affaire](https://open.spotify.com/track/3z9X4FONGlgEjttQHW2gLV) | [Jimena Amarillo](https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm) | [Yo quiero un affaire](https://open.spotify.com/album/4xZJ0Ak8kZS4XdDVJOxkmj) | 3:04 |

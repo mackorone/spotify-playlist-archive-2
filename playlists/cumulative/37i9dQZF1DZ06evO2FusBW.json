@@ -723,6 +723,24 @@
     },
     {
       "album": {
+        "name": "Be Love",
+        "url": "https://open.spotify.com/album/25PtUTrtPiAFlgTxHBFZ3L"
+      },
+      "artists": [
+        {
+          "name": "RIOPY",
+          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247240,
+      "name": "Let's Be Love",
+      "url": "https://open.spotify.com/track/2E0WRWiMM4zOI68fbn7SmN"
+    },
+    {
+      "album": {
         "name": "Lily\u2019s Lullaby",
         "url": "https://open.spotify.com/album/42F0b6Sj5NZ7QzRhhHRMAC"
       },

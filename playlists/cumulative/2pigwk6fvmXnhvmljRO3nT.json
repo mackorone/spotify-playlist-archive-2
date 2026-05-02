@@ -24671,6 +24671,28 @@
     },
     {
       "album": {
+        "name": "The Lion King",
+        "url": "https://open.spotify.com/album/3YA5DdB3wSz4pdfEXoMyRd"
+      },
+      "artists": [
+        {
+          "name": "Carmen Twillie",
+          "url": "https://open.spotify.com/artist/6O3ZB5Cz5CNT3wQWouKcNJ"
+        },
+        {
+          "name": "Lebo M.",
+          "url": "https://open.spotify.com/artist/0zp9qNDSeYi3QEodhcKAAA"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239146,
+      "name": "Circle of Life",
+      "url": "https://open.spotify.com/track/0HU5JnVaKNTWf6GykV9Zn8"
+    },
+    {
+      "album": {
         "name": "Circles (Deluxe)",
         "url": "https://open.spotify.com/album/1YZ3k65Mqw3G8FzYlW1mmp"
       },
@@ -52376,7 +52398,7 @@
       ],
       "date_added": "2025-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 309800,
       "name": "Hail Mary",
       "url": "https://open.spotify.com/track/6sCtddSFg3foJn4K2pIhfQ"
@@ -144094,7 +144116,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 181428,
       "name": "Wick Man",
       "url": "https://open.spotify.com/track/4ASBfwBwwo7DTT2zq9YSLP"
@@ -162900,6 +162922,24 @@
       "duration_ms": 294453,
       "name": "\u9006\u8ee2\u30b9\u30da\u30af\u30c8\u30eb",
       "url": "https://open.spotify.com/track/1PqikIjOpCZ3X3mtWouKjy"
+    },
+    {
+      "album": {
+        "name": "\u9006\u8ee2\u88c1\u5224 \u8607\u308b\u9006\u8ee2 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/5Db8h9SP9VRMpcigzbnXSS"
+      },
+      "artists": [
+        {
+          "name": "Masakazu Sugimori",
+          "url": "https://open.spotify.com/artist/6bE2VRSPWx2v3l25ZNSmLq"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108866,
+      "name": "\u9006\u8ee2\u88c1\u5224\u30fb\u958b\u5ef7",
+      "url": "https://open.spotify.com/track/2zUohndREVlL7heWLMXuMo"
     },
     {
       "album": {

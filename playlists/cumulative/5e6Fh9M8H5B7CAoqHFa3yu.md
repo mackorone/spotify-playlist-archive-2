@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,175 songs - 5 day 8 hr 54 min
+2,177 songs - 5 day 8 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -569,6 +569,7 @@
 | [Endless Summer](https://open.spotify.com/track/21uZSg6TxNJHpbCO1ciDKY) | [Bruno S](https://open.spotify.com/artist/4c5rMVTHu7llZIxlX0OfVK) | [Endless Summer](https://open.spotify.com/album/3NvGRhHHSZBtCqEkdSBvYm) | 4:53 | 2025-05-30 |  |
 | [Energy](https://open.spotify.com/track/61IRHgTF3YRfeTSfvFtXWd) | [Radio\-Activity](https://open.spotify.com/artist/4xGqrEzme9UDHKeX4r7xbq) | [Energy](https://open.spotify.com/album/3cCoFwt1OBAudWSENtZtcB) | 8:57 | 2024-06-21 |  |
 | [Enigmas](https://open.spotify.com/track/2Wya6iAvu5GmToZh9xioDY) | [Lenoise](https://open.spotify.com/artist/1zbtdItCDLhQLlyL3ASTZG) | [Tornasol](https://open.spotify.com/album/0LPohpqvg6wkGEioAs7aaC) | 3:26 | 2025-12-28 |  |
+| [ennui](https://open.spotify.com/track/70xCHfTbqEDUYiX28pNvQo) | [LadyBoy](https://open.spotify.com/artist/3EyEQIrSwLWmL5WikGao8Q) | [ennui](https://open.spotify.com/album/6Be5YT4sy6M8FjaJaILcGS) | 3:13 | 2026-05-01 |  |
 | [Entre o Sol e a Lua](https://open.spotify.com/track/3Fb8mF2B2noR4Qmyinlo2R) | [Nine Angel](https://open.spotify.com/artist/1Lc1Ou5z78fgizSFbUlj8Y) | [Entre o Sol e a Lua](https://open.spotify.com/album/5RaWM9AHhqkUcl8Ty5jskQ) | 2:51 | 2025-08-11 |  |
 | [Era Mio Nonno](https://open.spotify.com/track/6Ve493O4HaGXhM9E0LMFVw) | [SerJo](https://open.spotify.com/artist/2g8FSG3mP5OQIL9kJ4qe48) | [Era Mio Nonno](https://open.spotify.com/album/2PLsxA89imSEVDygyB7rYq) | 5:08 | 2025-07-22 |  |
 | [Erre](https://open.spotify.com/track/6XiSGjgMN2XHI3oqSxDgW9) | [Proyecto VTK](https://open.spotify.com/artist/4Sjjd7GLD7xgroQkOg3Vxb) | [Erre](https://open.spotify.com/album/3NN7ahka8MpJVz4mnv1s1L) | 3:57 | 2025-07-20 |  |
@@ -1887,6 +1888,7 @@
 | [The Mother of Crime](https://open.spotify.com/track/47jduf1OUGAOOoJvVH7UPd) | [Ensemble Ex Materia](https://open.spotify.com/artist/3KsZjnoUK5ubNOJ3EaGQbr), [Peter Vukmirovic Stevens](https://open.spotify.com/artist/3MMqZNe5oDJDMg5PF3SVs6), [Strotter Inst.](https://open.spotify.com/artist/1cyD9LFZOUVGNUT7Bfyl6i), [Victoria Jordanova](https://open.spotify.com/artist/4wmvQrkLiTNQNcWrBGGO9M), [Jérôme Descamps](https://open.spotify.com/artist/0BVDk3RPAi2OMzeHlHYy8s) | [Ensemble Ex Materia](https://open.spotify.com/album/0CK8EbM5zLsONav7UnLbYe) | 7:35 | 2025-08-16 |  |
 | [The Ones Who Never Cried](https://open.spotify.com/track/6BLHIgf0SfCQMrkhW2VscI) | [Fra](https://open.spotify.com/artist/7bbemKBpCgvwVPn8dF4kct) | [The Ones Who Never Cried](https://open.spotify.com/album/3HlS45p0wcW2dLFSnU7JXx) | 3:39 | 2025-08-11 |  |
 | [The Only One](https://open.spotify.com/track/1FIa3ox06ehPePdtqDkPdT) | [Alex Gabriel](https://open.spotify.com/artist/42d97fn8MuX8haj1vzuWeH) | [In the Mood](https://open.spotify.com/album/7roJ1tKgqS4cd7YrEewO0b) | 3:34 | 2026-04-10 |  |
+| [The Rush](https://open.spotify.com/track/0PBz4H0I5zQOon1fKZbTiU) | [Gardening Club](https://open.spotify.com/artist/4tVR6UmVssdtcN2BY6fbmg) | [Gardening Club](https://open.spotify.com/album/2Ij0ymbmxaUSdEbWCjgJhW) | 1:36 | 2026-05-01 |  |
 | [the same \- jersey club remix](https://open.spotify.com/track/4GBWvxSQkTXJDbywwIw8J7) | [Ni$ha Da Chef](https://open.spotify.com/artist/6mbzGJFvDEgJKGCWFSMEQB) | [the same \(jersey club remix\)](https://open.spotify.com/album/0aMKGY5QRIyR2Cdrhnal0N) | 2:05 | 2026-03-23 |  |
 | [The Search](https://open.spotify.com/track/2OKo7g3KfmCt3kyLvUAL0g) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz) | [The Search](https://open.spotify.com/album/6w8mGg73sQl4QJEhpDUvpI) | 4:08 | 2025-02-15 |  |
 | [the sleeppin dead](https://open.spotify.com/track/7kCk3ACL37w1qHkFJkNjxv) | [AEROFAGIA](https://open.spotify.com/artist/6eVRVwalD8ZWo66MNxT1UA) | [At the down of the sleepindead](https://open.spotify.com/album/36dQNlJRtZQbZvBsaMxDmK) | 4:22 | 2025-10-02 |  |

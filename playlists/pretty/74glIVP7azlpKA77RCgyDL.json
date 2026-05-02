@@ -1,13 +1,113 @@
 {
   "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure.",
-  "num_followers": 9117,
+  "num_followers": 9118,
   "original_name": "Best New Songs Right Now",
   "owner": {
     "name": "revolvermagazine",
     "url": "https://open.spotify.com/user/revolvermagazine"
   },
-  "snapshot_id": "AAAP/s7pVLLhpVBG+eyeFT7TvHRReOyO",
+  "snapshot_id": "AAAQBy81J9+jIfFeaPLKUxmHtg/d73pt",
   "tracks": [
+    {
+      "added_at": "2026-05-01 19:12:43",
+      "album": {
+        "name": "Revenant",
+        "url": "https://open.spotify.com/album/7Cb7gWgJmePlHHhO7WAyKH"
+      },
+      "artists": [
+        {
+          "name": "Loathe",
+          "url": "https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd"
+        },
+        {
+          "name": "NOWHERE2RUN",
+          "url": "https://open.spotify.com/artist/3ARwlqMR3e96RXdxpAhx4s"
+        }
+      ],
+      "duration_ms": 211746,
+      "name": "Revenant",
+      "url": "https://open.spotify.com/track/7Lt57VWFV2MRbn9fzY0kp9"
+    },
+    {
+      "added_at": "2026-05-01 19:12:17",
+      "album": {
+        "name": "Protected Names",
+        "url": "https://open.spotify.com/album/4hvHgvkNr9WTZdI8kKt7z0"
+      },
+      "artists": [
+        {
+          "name": "Grommet",
+          "url": "https://open.spotify.com/artist/0fXjvXTc3xf5JC6a6peB20"
+        }
+      ],
+      "duration_ms": 202758,
+      "name": "Protected Names",
+      "url": "https://open.spotify.com/track/0UqO1j46DW7r8ZeCRKcMCU"
+    },
+    {
+      "added_at": "2026-05-01 19:12:30",
+      "album": {
+        "name": "Never Been Yours",
+        "url": "https://open.spotify.com/album/7dYEJXDxOHhLXV73p8Y3T1"
+      },
+      "artists": [
+        {
+          "name": "KILL CHAIN",
+          "url": "https://open.spotify.com/artist/2QuHGhj6IM2sbEbcDmGcUS"
+        }
+      ],
+      "duration_ms": 195280,
+      "name": "Never Been Yours",
+      "url": "https://open.spotify.com/track/0ZvejZkcvVGKF68KCp3Pix"
+    },
+    {
+      "added_at": "2026-05-01 19:13:01",
+      "album": {
+        "name": "Evian",
+        "url": "https://open.spotify.com/album/68WNy1c7yNaKv0vDK3FVjP"
+      },
+      "artists": [
+        {
+          "name": "Northlane",
+          "url": "https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9"
+        }
+      ],
+      "duration_ms": 302322,
+      "name": "Evian",
+      "url": "https://open.spotify.com/track/0VPMvHXO7K1Ukj0DAmtvPs"
+    },
+    {
+      "added_at": "2026-05-01 19:13:13",
+      "album": {
+        "name": "ONE",
+        "url": "https://open.spotify.com/album/3CMKNAUoer9LhVbc5pc7a3"
+      },
+      "artists": [
+        {
+          "name": "Sevendust",
+          "url": "https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2"
+        }
+      ],
+      "duration_ms": 230482,
+      "name": "The Drop",
+      "url": "https://open.spotify.com/track/0WBajGf8FzhanFbB8bS19t"
+    },
+    {
+      "added_at": "2026-05-01 19:13:24",
+      "album": {
+        "name": "TORN THE FUCK OPEN, Vol. 2",
+        "url": "https://open.spotify.com/album/47SQW1dYzHHGJoN2Agy4fM"
+      },
+      "artists": [
+        {
+          "name": "Torn Open",
+          "url": "https://open.spotify.com/artist/1XLYwoarb8vwv77W7UxGgX"
+        }
+      ],
+      "duration_ms": 178794,
+      "name": "Denial (And So It Begins)",
+      "url": "https://open.spotify.com/track/5tCWUP1iIHsWmrh9qxVy6a"
+    },
     {
       "added_at": "2026-04-24 19:29:20",
       "album": {

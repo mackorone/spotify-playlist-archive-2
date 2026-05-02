@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Nuovi brani di Nu Genea, Lady Gaga, Ultimo, Madonna e Sabrina Carpenter, Nerissima Serpe e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 361,191 likes - 80 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 361,574 likes - 80 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 18 | [Signorina](https://open.spotify.com/track/3TGQMgdGYS4xeKxaZv9A8b) | [Angie](https://open.spotify.com/artist/7vFaBCvPdgAsrWJiv5NI3Z) | [Signorina](https://open.spotify.com/album/2rR4Aoym5eqv3WFOVRJK3O) | 2:36 |
 | 19 | [LACRIME DI FANGO](https://open.spotify.com/track/7wGScXI4MlpwzlryDDDGUN) | [Gard](https://open.spotify.com/artist/25p6aXpMXAHmFj2jkukiVo) | [LACRIME DI FANGO](https://open.spotify.com/album/2zkVigtvazEvohgg886pkM) | 2:45 |
 | 20 | [Carry the Weight](https://open.spotify.com/track/7p3oJMceNz5skGLw52ZOjY) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [The Great Impersonator \(Deluxe\)](https://open.spotify.com/album/6ehD64XkegXwfsA2hYhkKr) | 3:09 |
-| 21 | [Track 1](https://open.spotify.com/track/3fLX6yRLD2IkWQUxDJEQ0S) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [Victory Garden](https://open.spotify.com/album/70ch2R18v3Zho0SlcN4CAN) | 0:00 |
+| 21 | [Evergreen](https://open.spotify.com/track/3fLX6yRLD2IkWQUxDJEQ0S) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [Victory Garden](https://open.spotify.com/album/70ch2R18v3Zho0SlcN4CAN) | 3:41 |
 | 22 | [VENE BLU](https://open.spotify.com/track/7IyE1wahFtQTg2YTAXqia1) | [Flaco G](https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9) | [VENE BLU](https://open.spotify.com/album/6xT8MJmuAQ9RnYIt2oQxjG) | 2:37 |
 | 23 | [STATUS](https://open.spotify.com/track/1XLqcDXCO9c1WO6V8jNUOP) | [Helmi](https://open.spotify.com/artist/2mvMdmcLoPwfaUHlgwRJlj) | [STATUS](https://open.spotify.com/album/6KkO2UGw98cNIrwL4WOs36) | 2:50 |
 | 24 | [TXT](https://open.spotify.com/track/7GHXHYge4hcLsUGwxHwygw) | [Vegas Jones](https://open.spotify.com/artist/4b3MWJACM6T1QwGKoFe7pp) | [TXT](https://open.spotify.com/album/4F4CP1xAwlDthC4bMd8TUP) | 3:21 |
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 50 | [PRICE TAG](https://open.spotify.com/track/6ea45jrg9LYFUapPi4B0sC) | [Sara James](https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV) | [PRICE TAG](https://open.spotify.com/album/4zLvUo0kxF4ULzX0XL3bui) | 3:10 |
 | 51 | [In Da Jungle](https://open.spotify.com/track/1Dya7Lh8cLYg6t1q100xpY) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR) | [In Da Jungle](https://open.spotify.com/album/6dplcmwBqhMrO1dKJw1qyz) | 2:44 |
 | 52 | [Another World](https://open.spotify.com/track/7Ky4Cj8IhPxSYSl5nvka8B) | [Mind Enterprises](https://open.spotify.com/artist/5pN1DJhPFDKso4OtC0QhnB) | [Another World](https://open.spotify.com/album/2s0nIaX5wcdvzuLj3ZWVnp) | 4:41 |
-| 53 | [Track 1](https://open.spotify.com/track/641hz8g6Sb6ng14V1we78Y) | [Marco Faraone](https://open.spotify.com/artist/00IUMN7pWAU2jYWcdOt5c3) | [Inside Of Me](https://open.spotify.com/album/0qRVckLxIAPUxv3XmgDOHY) | 0:00 |
+| 53 | [Inside of Me](https://open.spotify.com/track/641hz8g6Sb6ng14V1we78Y) | [Marco Faraone](https://open.spotify.com/artist/00IUMN7pWAU2jYWcdOt5c3), [Ejeca](https://open.spotify.com/artist/0tSC9Vot7WlR1MsLBqQ9HX) | [Inside Of Me](https://open.spotify.com/album/0qRVckLxIAPUxv3XmgDOHY) | 2:33 |
 | 54 | [She Does It Right](https://open.spotify.com/track/1pO3dqvwGvCQzRQV67xfZd) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Peaches!](https://open.spotify.com/album/4wl0lStE236Kc7pJ7eTpgq) | 3:43 |
 | 55 | [Irish Goodbye \(feat\. Kae Tempest\)](https://open.spotify.com/track/6Qyvf0qxn2TDOxHLdsfhUw) | [KNEECAP](https://open.spotify.com/artist/1ZVACPeq7ccGCoUXwtafUU), [Kae Tempest](https://open.spotify.com/artist/1YcprGtF13BYCZQK9jYPEw) | [Irish Goodbye](https://open.spotify.com/album/5RozyWyrAciRz9ldUZXCAE) | 3:34 |
 | 56 | [calvin klein \(feat\. 18K\)](https://open.spotify.com/track/0gg9yQqsXD0neiYoXJdXTS) | [Theø](https://open.spotify.com/artist/46zGU1FOSsPBXb1csAeMJd), [18K](https://open.spotify.com/artist/5PVCzkHVhVLRLadPdJUdXB) | [sadboy](https://open.spotify.com/album/6RVitAXKbPVUXWMJ87GPlm) | 3:00 |
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 60 | [Wake Her Up](https://open.spotify.com/track/0DvVy1XSbcRatqCTxs4yWK) | [American Football](https://open.spotify.com/artist/5FwydyGVcsQllnM4xM6jw4), [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [American Football \(LP4\)](https://open.spotify.com/album/3fhKJU3nUfduKj9YhEAoGf) | 5:20 |
 | 61 | [Yogen](https://open.spotify.com/track/68xerRWgQrWYhVaojwmOXe) | [Mathame](https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS) | [Yogen](https://open.spotify.com/album/6lV6E5nP31wVp6lIO2qiqu) | 2:38 |
 | 62 | [How Do We Know](https://open.spotify.com/track/4qIGGsMBScUbTodzn0k47j) | [Giuseppe Ottaviani](https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv), [Andrew Rayel](https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr), [Alessia Labate](https://open.spotify.com/artist/3znJOYi3CDM5ZQkbo6kmjd) | [How Do We Know](https://open.spotify.com/album/1yvUoAtQCOSTmRi7NazEPt) | 3:06 |
-| 63 | [Hot Sauce](https://open.spotify.com/track/4NQfTDDQ6NshgWnGz3YZeF) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR), [Kapuchon](https://open.spotify.com/artist/1x8zJjYRYiDgXA8J4uopMt), [GLZ](https://open.spotify.com/artist/3lF9IQbanf5Gc0ewSq1wYn) | [Hot Sauce](https://open.spotify.com/album/00neYxTPTssvxMgKtWVofX) | 2:17 |
+| 63 | [Hot Sauce](https://open.spotify.com/track/4NQfTDDQ6NshgWnGz3YZeF) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR), [Kapuchon](https://open.spotify.com/artist/1x8zJjYRYiDgXA8J4uopMt), [GLZ](https://open.spotify.com/artist/3xpY5gjKMCT54sR2NoXJsr) | [Hot Sauce](https://open.spotify.com/album/00neYxTPTssvxMgKtWVofX) | 2:17 |
 | 64 | [Angelico](https://open.spotify.com/track/4a0emwqhna7Mkp49AbtysM) | [NZIRIA](https://open.spotify.com/artist/4bt8JAxE4tksg2VBgMCvIe) | [Angelico](https://open.spotify.com/album/1zH9MrWRknyxPkywpWntko) | 5:40 |
 | 65 | [RAGAZZiNi ETERO 2 \(feat\. Macello\)](https://open.spotify.com/track/7tspQe2hRlg1Z8bBoQT45x) | [Pitta](https://open.spotify.com/artist/33KV7opyVMdhw1rHHckMDT), [Macello](https://open.spotify.com/artist/3DzlFEEKyk4jj7FuYnJSZZ) | [RAGAZZiNi ETERO 2 \(feat\. Macello\)](https://open.spotify.com/album/5Msu54GzFJbqV4tuaLr8So) | 2:34 |
 | 66 | [MILLY](https://open.spotify.com/track/48lm5xfaxqzjNrbLKTNcXX) | [Coco93](https://open.spotify.com/artist/37eCNK8NWywqpPMGPBDKvf), [Keyone](https://open.spotify.com/artist/2TkKn78OSOnL27lul8B6Kx) | [MILLY](https://open.spotify.com/album/63oPt3QFNUyePMZ94SPqpf) | 1:07 |

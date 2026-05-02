@@ -4,7 +4,7 @@
 
 > Música brasileira fora da curva\. Foto: Exclusive Os Cabides
 
-882 songs - 2 day 2 hr 11 min
+883 songs - 2 day 2 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -449,6 +449,7 @@
 | [Maya](https://open.spotify.com/track/2mW0xozZwF3JFpgYEUivRv) | [Tagore](https://open.spotify.com/artist/6jesZl7rJFJZ8d5i9pX5q8) | [Maya](https://open.spotify.com/album/4AdLRxbgubWzeTQZVz8ed6) | 3:24 | 2022-01-14 | 2022-03-18 |
 | [Me Beija Na Rua](https://open.spotify.com/track/3cvB4ZKg8uHaRrgFGt3zCr) | [Bruna Alimonda](https://open.spotify.com/artist/44RE6rRGC9GinmWmlStjng) | [Estado Febril](https://open.spotify.com/album/7DTS7m1xp1PFlOQwZ0HLyd) | 3:02 | 2024-05-10 | 2024-08-24 |
 | [Me chama pra dançar](https://open.spotify.com/track/5hDaaCG21ULMZ6Ar4vjm2X) | [IVYSON](https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu), [Mathias](https://open.spotify.com/artist/2HzSGi7gfIwWf25UmgFe28) | [QNHMN / MCPD](https://open.spotify.com/album/5U5KGKrvKAyFrgF6UlvUgT) | 3:14 | 2022-05-06 | 2022-06-04 |
+| [Me Diz Que Vai Ficar Tudo Bem](https://open.spotify.com/track/0odwNQkRJs4vrvPfovvOHl) | [Império Contra\-Ataca!](https://open.spotify.com/artist/0QnOQjCqk1WORFuEPAK6nT) | [Me Diz Que Vai Ficar Tudo Bem](https://open.spotify.com/album/777j9m7iXB8jagtOqxPqIR) | 1:44 | 2026-05-01 |  |
 | [me encontra lá :\)](https://open.spotify.com/track/5XuiOzDconwEtJcBUfNHXf) | [Gab Ferreira](https://open.spotify.com/artist/70DRYhcYN1cmMFUjDLf9FU) | [visions](https://open.spotify.com/album/244lG8X2MPejtq1lKFBqa9) | 2:04 | 2022-04-22 | 2022-06-18 |
 | [Me Ensina a Te Castigar](https://open.spotify.com/track/18xESEQ3S72VgyMLW2anKK) | [Negro Leo](https://open.spotify.com/artist/6UKn12Sg5H3SyiFX5GalB6) | [RELA](https://open.spotify.com/album/2iKXexPwdJ0t7ndiG2GPBk) | 3:24 | 2024-11-29 | 2025-06-21 |
 | [Me Faça Bem](https://open.spotify.com/track/4R8XqARC4exOYsilfwkoyC) | [Ellefante](https://open.spotify.com/artist/18iXcPpChCj7xOVTHRrqkx), [saudade](https://open.spotify.com/artist/5vjVK0Y2CBuicKqg4BgryA) | [Me Faça Bem](https://open.spotify.com/album/3JDhhRgxGEyCCXq9COXc6e) | 3:22 | 2023-10-06 | 2023-10-28 |

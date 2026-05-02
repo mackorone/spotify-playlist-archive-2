@@ -4,7 +4,7 @@
 
 > Chilled out, mellow pop from your favourite artists right now\. Cover: Dylan Gossett
 
-116 songs - 6 hr 35 min
+117 songs - 6 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Blessed \- Acoustic](https://open.spotify.com/track/1XXcZCGoVVoksrGpLuFt4i) | [NADINE](https://open.spotify.com/artist/6CEOuTo05m32akhKybOgid) | [Blessed \(Acoustic\)](https://open.spotify.com/album/2JOoUZgxEdFvne0FP3AY2u) | 2:48 | 2023-06-09 |  |
 | [blue](https://open.spotify.com/track/7pt64sepCy5QmDrgy9wOJS) | [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [blue](https://open.spotify.com/album/3GsV8bdcTiMKRlrRlnnHvo) | 3:04 | 2023-02-02 |  |
 | [Boys Make Promises \- Acoustic](https://open.spotify.com/track/3NP6fQjNXoeawUI9l5CzI0) | [Issey Cross](https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U) | [Mirrors Don't Lie](https://open.spotify.com/album/2s1JhohKR2Zv8u29m1Qt2r) | 3:02 | 2023-02-02 |  |
+| [Break a Leg](https://open.spotify.com/track/3nhgFIvdNn6r0y31rrKY6D) | [Dexter Fawcett](https://open.spotify.com/artist/74JMTeIPtqqJYPLL2eySlp) | [Break a Leg](https://open.spotify.com/album/3ToVIHBEkms2XoiioW54J3) | 3:53 | 2026-05-01 |  |
 | [Bridge Over Troubled Water \(feat\. John Legend & Tori Kelly\)](https://open.spotify.com/track/4FG5dNlurEtZ84kCTg5YLA) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Bridge Over Troubled Water \(feat\. John Legend & Tori Kelly\)](https://open.spotify.com/album/1Zo8V5bfUxTiLPQRO99FK5) | 5:52 | 2024-03-19 |  |
 | [Call My Name \- Acoustic](https://open.spotify.com/track/6ltQk3mpwfvJ0pIohcihU9) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Call My Name \(Acoustic & Gospel\)](https://open.spotify.com/album/2OAnZwS2OT9PkzLkrifU8A) | 3:53 | 2023-02-02 |  |
 | [Chasing/Wasting Time](https://open.spotify.com/track/6QxsV3pAt6b4W4YlASULt8) | [KAWALA](https://open.spotify.com/artist/58bHgbHOExsHSOGlf0uUkL) | [Chasing/Wasting Time](https://open.spotify.com/album/0EP83FLSLol542yJEAtsg8) | 2:38 | 2023-02-02 |  |

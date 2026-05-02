@@ -10082,7 +10082,7 @@
       ],
       "date_added": "2026-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 180000,
       "name": "Catch Catch (Chinese Ver.)",
       "url": "https://open.spotify.com/track/29rzWFatC5WwBw2YypQEzC"
@@ -14576,7 +14576,7 @@
       ],
       "date_added": "2026-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-01",
+      "date_removed": null,
       "duration_ms": 116940,
       "name": "done done done",
       "url": "https://open.spotify.com/track/4pGMZRqLZtqrQe4ehY4lCQ"
@@ -46354,7 +46354,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 275599,
       "name": "Sarniezz",
       "url": "https://open.spotify.com/track/6iDKiCR13L8Ba6bkK6cqqt"
@@ -59728,6 +59728,24 @@
       "duration_ms": 194735,
       "name": "Wichsen Im Wald",
       "url": "https://open.spotify.com/track/5ODgruSsMzC0jUvHOCoYZV"
+    },
+    {
+      "album": {
+        "name": "wie du",
+        "url": "https://open.spotify.com/album/2UZml0QrcPd0qrQJVGCUAO"
+      },
+      "artists": [
+        {
+          "name": "PAMO",
+          "url": "https://open.spotify.com/artist/7qf2XcdJFubvVknccluf2r"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133989,
+      "name": "wie du",
+      "url": "https://open.spotify.com/track/4FcrUYHEDwtmG316OHWdmW"
     },
     {
       "album": {

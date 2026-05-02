@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-02-08",
-  "description": "late night vibes \u2013 notifications off. cover: Don Toliver",
+  "description": "late night vibes \u2013 notifications off. cover: Isaiah Kaleo",
   "name": "DND.",
   "tracks": [
     {
@@ -620,7 +620,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 122033,
       "name": "Bet",
       "url": "https://open.spotify.com/track/0enY45J98M1RzRd01DaQDP"
@@ -842,6 +842,24 @@
       "duration_ms": 184143,
       "name": "C.G.E.",
       "url": "https://open.spotify.com/track/4OzCgOuJgrfqaPWGIZkQlu"
+    },
+    {
+      "album": {
+        "name": "Don\u2019t Come Home",
+        "url": "https://open.spotify.com/album/36ROdch6cCh1N0doNGFKQo"
+      },
+      "artists": [
+        {
+          "name": "Pimmie",
+          "url": "https://open.spotify.com/artist/30AbYddXmSkDXhnW6lB0ll"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131189,
+      "name": "Call Me When You Can",
+      "url": "https://open.spotify.com/track/6AODvwD0OtfmsZJKiU6ptW"
     },
     {
       "album": {
@@ -3002,6 +3020,28 @@
       "duration_ms": 193681,
       "name": "Late Nite Slider Music",
       "url": "https://open.spotify.com/track/1D4VYPt5J1znGmzeMGgHHx"
+    },
+    {
+      "album": {
+        "name": "lead me on",
+        "url": "https://open.spotify.com/album/0su818CRHaJGnAdmfFb7k0"
+      },
+      "artists": [
+        {
+          "name": "Isaiah Kaleo",
+          "url": "https://open.spotify.com/artist/13b0dupEOyYPm8dZqbqtb5"
+        },
+        {
+          "name": "ROME",
+          "url": "https://open.spotify.com/artist/4hrz9OhxBfTmyNTZmqxm2q"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219226,
+      "name": "lead me on",
+      "url": "https://open.spotify.com/track/0JxPtwbOOU2SQNjQZU3zAW"
     },
     {
       "album": {

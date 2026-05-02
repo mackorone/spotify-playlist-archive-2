@@ -4,7 +4,7 @@
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Alisha Dira
 
-897 songs - 2 day 10 hr 26 min
+899 songs - 2 day 10 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -466,6 +466,7 @@
 | [Malam Mingguku](https://open.spotify.com/track/6eFkVyh3eh8rrn99PhdrXM) | [Shakirra Vier](https://open.spotify.com/artist/25EadvOKROXy52Cn1BF6QI), [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp) | [Malam Mingguku](https://open.spotify.com/album/7gH0RtOJGhglEkxQWSRAZ4) | 3:19 | 2025-06-05 | 2026-02-13 |
 | [Malam Rawan](https://open.spotify.com/track/6JBojdxAPtcPNfhFqmZEBt) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku) | [Malam Rawan](https://open.spotify.com/album/6K3f48VhTPIz9wFO1iQFOH) | 3:40 | 2025-06-19 | 2025-09-26 |
 | [Malam Tolong Sampaikan](https://open.spotify.com/track/6SgC81ohpNeR4Mxne8B3Oh) | [Langit Sore](https://open.spotify.com/artist/2p8EGJCCavN09PyTOKY9Lj) | [Malam Tolong Sampaikan](https://open.spotify.com/album/5roabvYPq1EIjBRoBXlPu8) | 3:33 | 2024-06-27 | 2024-09-13 |
+| [Malu](https://open.spotify.com/track/0XT1eIQ04pRmwt87w03TFi) | [Obbie Messakh](https://open.spotify.com/artist/6S40FdKeiCsGHth3mulKl6) | [Malu](https://open.spotify.com/album/0M3fIUJhwsiG6yn8FIaUs2) | 4:35 | 2026-05-01 |  |
 | [Mampu Tanpamu](https://open.spotify.com/track/1z49jujlAN8qOAa1edC2Qx) | [Ongky Muntazar](https://open.spotify.com/artist/3kaNdtI2vRruVrlUxtJPnc) | [Mampu Tanpamu](https://open.spotify.com/album/6h7LAAl1qoL3gO94ewlEHP) | 4:17 | 2024-09-19 | 2024-12-13 |
 | [Mantra Uang](https://open.spotify.com/track/0uw354IeZNXlCQXHYc5pPU) | [AVIWKILA](https://open.spotify.com/artist/5wZoqr9DBLE7BYXUC1PhSs) | [Mantra Uang](https://open.spotify.com/album/2h2XuTJMCi7Ss2DKyZD9bR) | 2:36 | 2024-06-27 | 2024-10-11 |
 | [Manusia Paling Menyebalkan](https://open.spotify.com/track/3xqrjVYB6lRmewHX9ePnIr) | [BIANCADIMAS](https://open.spotify.com/artist/2p3vbgeu0Y7v7EVJ41Hu9M) | [Manusia Paling Menyebalkan](https://open.spotify.com/album/4HwBlvQNOVmYPontLGdwCz) | 3:09 | 2024-07-11 | 2025-01-10 |
@@ -834,6 +835,7 @@
 | [Teman Saja \- Acoustic](https://open.spotify.com/track/1DkBhhifKFstqd5VU0Zxna) | [Giant Jay](https://open.spotify.com/artist/4m82DgDdkBu9cc55yndlQI) | [Teman Saja \(Acoustic\)](https://open.spotify.com/album/2L1MY1TZh4uHvgyrR6wXHK) | 3:12 | 2025-01-09 | 2025-03-07 |
 | [Teman Sejati?](https://open.spotify.com/track/10qVFqWJA9FtQgtGTmQWdr) | [Jenaka Mahila](https://open.spotify.com/artist/0LzKbHMqaSXiX8qfhcGLTS) | [Teman Sejati?](https://open.spotify.com/album/3RJcUjsVszBWTIz4MhYSxO) | 3:42 | 2025-06-19 | 2025-08-09 |
 | [Teman Tapi Mesra](https://open.spotify.com/track/24g0FpFV0hew9pPdAM1FYx) | [Andre Taulany](https://open.spotify.com/artist/0k51o3WzFXBLeVadcP8uNw), [Andre Taulany & Friends](https://open.spotify.com/artist/3JTjh7ogm45QH8r62NjEIt) | [Teman Tapi Mesra](https://open.spotify.com/album/0nTS0YslRD2OfkMT6OXevM) | 4:19 | 2024-09-27 | 2025-01-10 |
+| [Temani Gelapku](https://open.spotify.com/track/2m5xhe9BKjaVGgT1Qe0sCX) | [James Adam](https://open.spotify.com/artist/1mp6xNxsLku50JEMGvJx1o) | [Temani Gelapku](https://open.spotify.com/album/2rrJe99T18NeCXg853cXiF) | 3:48 | 2026-04-30 |  |
 | [Tempat Bercerita](https://open.spotify.com/track/6OtJBSqTlc2cPGDcijNutb) | [Nathaniel Rivan](https://open.spotify.com/artist/47SU5nCBLVOef6cIthAmII) | [Tempat Bercerita](https://open.spotify.com/album/55oqvPYAmWa0XTH96IrLqh) | 3:30 | 2024-06-27 | 2024-07-05 |
 | [Tempat Bersandar](https://open.spotify.com/track/1wl8Ebwaxy89mjVjtFLPpw) | [Bagas Ran](https://open.spotify.com/artist/1Pbl7RMzFNdbX0a7wDMN5i) | [Tempat Bersandar](https://open.spotify.com/album/4ggw3MKcFEIaBpVTuNnkiZ) | 3:49 | 2024-10-10 | 2024-12-13 |
 | [Tenang](https://open.spotify.com/track/1TMvBhqekWmWJSxpmUMgFz) | [Judika](https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd), [Andi Rianto](https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0) | [Tenang](https://open.spotify.com/album/0AjNJcgo36wOxQzmvra3Zi) | 4:57 | 2025-08-21 |  |

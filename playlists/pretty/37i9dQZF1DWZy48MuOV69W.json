@@ -1,6 +1,6 @@
 {
   "description": "Cozy and jazzy interpretations of all your favourite Christmas songs.",
-  "num_followers": 112474,
+  "num_followers": 112462,
   "original_name": "Fireside Christmas Jazz",
   "owner": {
     "name": "Spotify",
@@ -63,22 +63,6 @@
     {
       "added_at": "2025-12-15 09:00:30",
       "album": {
-        "name": "Merry Christmas, Darling",
-        "url": "https://open.spotify.com/album/3E5JNzJzArNy4krXW8xHxd"
-      },
-      "artists": [
-        {
-          "name": "Stella Cole",
-          "url": "https://open.spotify.com/artist/1JV6ZltofPUo3j5CTALYRR"
-        }
-      ],
-      "duration_ms": 234486,
-      "name": "Merry Christmas, Darling",
-      "url": "https://open.spotify.com/track/2vKFpLFbcnOXNpWGvQibqE"
-    },
-    {
-      "added_at": "2025-12-15 09:00:30",
-      "album": {
         "name": "A Joyful Holiday",
         "url": "https://open.spotify.com/album/2VEsXkmIycyL3VL2vvbneU"
       },
@@ -91,6 +75,22 @@
       "duration_ms": 206026,
       "name": "The Christmas Song",
       "url": "https://open.spotify.com/track/6XXMs8hRg0KSvopUMSOqzh"
+    },
+    {
+      "added_at": "2025-12-15 09:00:30",
+      "album": {
+        "name": "Merry Christmas, Darling",
+        "url": "https://open.spotify.com/album/3E5JNzJzArNy4krXW8xHxd"
+      },
+      "artists": [
+        {
+          "name": "Stella Cole",
+          "url": "https://open.spotify.com/artist/1JV6ZltofPUo3j5CTALYRR"
+        }
+      ],
+      "duration_ms": 234486,
+      "name": "Merry Christmas, Darling",
+      "url": "https://open.spotify.com/track/2vKFpLFbcnOXNpWGvQibqE"
     },
     {
       "added_at": "2025-12-15 09:00:30",
@@ -147,6 +147,26 @@
     {
       "added_at": "2025-12-15 09:00:30",
       "album": {
+        "name": "Christmas Songs",
+        "url": "https://open.spotify.com/album/6jo4NImjVrEduySw2QJ2cO"
+      },
+      "artists": [
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+        },
+        {
+          "name": "Clayton-Hamilton Jazz Orchestra",
+          "url": "https://open.spotify.com/artist/3BDNDjVtAxrIqFDIO5cUgy"
+        }
+      ],
+      "duration_ms": 187200,
+      "name": "I'll Be Home For Christmas",
+      "url": "https://open.spotify.com/track/5R9NaAk7bp624MbMyhcoBZ"
+    },
+    {
+      "added_at": "2025-12-15 09:00:30",
+      "album": {
         "name": "Snow!",
         "url": "https://open.spotify.com/album/0a805poEESIyC6G5KjrFDK"
       },
@@ -175,26 +195,6 @@
       "duration_ms": 278626,
       "name": "Christmas Time Is Here",
       "url": "https://open.spotify.com/track/1LGpzgmVBF47TBDqOxTHRA"
-    },
-    {
-      "added_at": "2025-12-15 09:00:30",
-      "album": {
-        "name": "Christmas Songs",
-        "url": "https://open.spotify.com/album/6jo4NImjVrEduySw2QJ2cO"
-      },
-      "artists": [
-        {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
-        },
-        {
-          "name": "Clayton-Hamilton Jazz Orchestra",
-          "url": "https://open.spotify.com/artist/3BDNDjVtAxrIqFDIO5cUgy"
-        }
-      ],
-      "duration_ms": 187200,
-      "name": "I'll Be Home For Christmas",
-      "url": "https://open.spotify.com/track/5R9NaAk7bp624MbMyhcoBZ"
     },
     {
       "added_at": "2025-12-15 09:00:30",

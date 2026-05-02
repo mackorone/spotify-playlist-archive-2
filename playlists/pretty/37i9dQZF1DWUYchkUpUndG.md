@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: Lawrence Oyor
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,958 likes - 90 songs - 7 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,117 likes - 90 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 14 | [Dzina Lau \(Yahweh\) \- Live](https://open.spotify.com/track/0pNHl233SlEV7I8AcbspkQ) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL), [Brenton Brown](https://open.spotify.com/artist/3oZR0tAkfIn1YmLe1faQST) | [Dzina Lau \(Yahweh\) \[Live\]](https://open.spotify.com/album/76VQmBJ3M9JYlmQam36rl1) | 9:25 |
 | 15 | [Hosanna](https://open.spotify.com/track/0vBnlrJN3FmRWV9U8GB9iV) | [Abel Assifah](https://open.spotify.com/artist/6JYEysrMHXu1GtMBu7EcuQ) | [Hosanna](https://open.spotify.com/album/4ocbLfyenUeZfYMnrN34qQ) | 2:56 |
 | 16 | [Oshe](https://open.spotify.com/track/5ON74nqAjZj9Arbp29GZdd) | [Treasure Music](https://open.spotify.com/artist/3IB4G9sjyGDgP7CCoCvbRF) | [Oshe](https://open.spotify.com/album/7r5Pyu1cLDlTXyzlMlLP0S) | 2:35 |
-| 17 | [Track 2](https://open.spotify.com/track/2zfFQptLsHN1CMSlKSE3h2) | [De Stanley Brothers](https://open.spotify.com/artist/5QcpMCOrA4nVxileunNZD3) | [ON MY SIDE \(world edition\)](https://open.spotify.com/album/6Nfphxl7fEW62SS8ha1ETr) | 0:00 |
+| 17 | [ON MY SIDE \- Swedish](https://open.spotify.com/track/2zfFQptLsHN1CMSlKSE3h2) | [De Stanley Brothers](https://open.spotify.com/artist/5QcpMCOrA4nVxileunNZD3), [Jennifer Ahohen](https://open.spotify.com/artist/1NU6PSMZin0oMPG1nEXdIa) | [ON MY SIDE \(world edition\)](https://open.spotify.com/album/6Nfphxl7fEW62SS8ha1ETr) | 3:12 |
 | 18 | [Nana\-Owei Mbana \- Live](https://open.spotify.com/track/2i96rQ7m2wbNViszpMPOj3) | [Mera Owili](https://open.spotify.com/artist/6ViX2ccBiy3D2ZZ6u58PmV) | [Nana\-Owei Mbana \(Live\)](https://open.spotify.com/album/4KNGV9MIjWGuxiQOvUFOhU) | 8:08 |
 | 19 | [Fire in My Praise](https://open.spotify.com/track/1M0SEfZwriCsT2zveixfF8) | [Amazing Praize](https://open.spotify.com/artist/4HbOcO4aQwRzFFqrkBVWYN), [Streams Of Joy](https://open.spotify.com/artist/74EHjGp4ALyk5ObLRfjyGK), [Pastor Jerry Eze](https://open.spotify.com/artist/5UpWOLAQgVUxzukbqKX3hn) | [Fire in My Praise](https://open.spotify.com/album/6hc12t7J6G38Yj7faj5oTA) | 3:06 |
 | 20 | [Aanu Ni](https://open.spotify.com/track/0kFtMvrf7qRcaxqxWXLLXl) | [BisiManuel](https://open.spotify.com/artist/0Amnqd5gvxgxmuRx1cPzAO) | [AANU NI](https://open.spotify.com/album/1GcWy102O42FboFwqRdkCG) | 3:42 |

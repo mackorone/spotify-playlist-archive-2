@@ -5861,6 +5861,28 @@
     },
     {
       "album": {
+        "name": "silence",
+        "url": "https://open.spotify.com/album/6DuizayZub5oQuWOkUZJem"
+      },
+      "artists": [
+        {
+          "name": "True World",
+          "url": "https://open.spotify.com/artist/4i9aYXlAVPDCxi0xdSkPzI"
+        },
+        {
+          "name": "OSTAVITSLED",
+          "url": "https://open.spotify.com/artist/4147ocIQFlHvnHD5L5s9zy"
+        }
+      ],
+      "date_added": "2026-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109400,
+      "name": "silence",
+      "url": "https://open.spotify.com/track/6aclR4VMjPb51YJrqbglp0"
+    },
+    {
+      "album": {
         "name": "Silenza",
         "url": "https://open.spotify.com/album/3uDagiNfU5Z5MEUC6Tjtwk"
       },
@@ -6688,7 +6710,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 218000,
       "name": "The Distance - Slowed",
       "url": "https://open.spotify.com/track/4EME3335xHgRETXiT0wYKE"

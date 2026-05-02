@@ -4,7 +4,7 @@
 
 > Jazz voices of today\. Cover: Gabrielle Cavassa
 
-908 songs - 2 day 14 hr 55 min
+909 songs - 2 day 14 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Amuleto](https://open.spotify.com/track/6PftjjaTz5fhrBe2AJvTW4) | [Lauren Henderson](https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l), [Eric Wheeler](https://open.spotify.com/artist/1TvIn0DgifSGnkJL6VTEF5), [Joe Dyson](https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS), [Joel Ross](https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l), [Sean Mason](https://open.spotify.com/artist/1M58n49ePEbvVICvpKXB5Z) | [Amuleto](https://open.spotify.com/album/0DtBUOYQneksvhpLL4yLje) | 3:34 | 2022-10-28 | 2022-11-27 |
 | [Angel City](https://open.spotify.com/track/5qLeANvmyow2ToeiVRVGof) | [Spencer Day](https://open.spotify.com/artist/0vzxJvDfnwbniaBt97Ylw6) | [Angel City](https://open.spotify.com/album/4xeDr0FipAjGOJMORXMCSe) | 3:55 | 2020-10-09 | 2022-02-16 |
 | [Angel Eyes](https://open.spotify.com/track/3k9o6akjp2ZnKipCG9VPw4) | [Boz Scaggs](https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh) | [Angel Eyes](https://open.spotify.com/album/5xEQG4xagkE1zCBIHcG9CO) | 4:46 | 2025-09-26 | 2025-10-18 |
-| [Angelo](https://open.spotify.com/track/32ThkhTL1UraEj9OluuBuP) | [Gabrielle Cavassa](https://open.spotify.com/artist/6V9mKint0pfZjIbeFF9vQk) | [Angelo](https://open.spotify.com/album/4fgGigtdkhRo5guam2XUGu) | 4:21 | 2026-03-13 |  |
+| [Angelo](https://open.spotify.com/track/32ThkhTL1UraEj9OluuBuP) | [Gabrielle Cavassa](https://open.spotify.com/artist/6V9mKint0pfZjIbeFF9vQk) | [Angelo](https://open.spotify.com/album/4fgGigtdkhRo5guam2XUGu) | 4:21 | 2026-03-13 | 2026-05-02 |
 | [Another Country](https://open.spotify.com/track/3mj0k9ZcgluVhku8LjHIhO) | [Cassandra Wilson](https://open.spotify.com/artist/6TZ5t4kclsmGWHqb3mGyha), [Fabrizio Sotti](https://open.spotify.com/artist/38cpDv3QaKLvDnNE54Oh0p) | [Another Country](https://open.spotify.com/album/2ZbxyblgaXN0hcVfZ7nFbE) | 4:08 | 2022-11-04 | 2024-03-30 |
 | [Another Round](https://open.spotify.com/track/14x0olxuhl7Q2e5Fx3lEYN) | [Philip Labes](https://open.spotify.com/artist/2gzXe1MitsMjpK7NudXNZf), [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa) | [Autumn](https://open.spotify.com/album/2opLhMoweetJdxKceCQqyE) | 3:58 | 2022-10-14 | 2024-01-13 |
 | [Another Standard](https://open.spotify.com/track/4gOvXQKjEc6kEsEJwK6LvB) | [Jason Fabus Trio](https://open.spotify.com/artist/2ssVOXhT1kSm9RdQweLwyk) | [Another Standard](https://open.spotify.com/album/0eHXJcPOnyzttx4MQHU5Ut) | 3:18 | 2022-04-22 | 2022-07-14 |
@@ -104,6 +104,7 @@
 | [Bold](https://open.spotify.com/track/1PF5Kj3iGZNoR12xBZDxC1) | [Lauren Henderson](https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l), [Sullivan Fortner](https://open.spotify.com/artist/2kQZjl1wnD42U6rKhAHmz5), [Joel Ross](https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l), [Dezron Douglas](https://open.spotify.com/artist/3HtyiTNRFO5HOPU5Cj3at7), [Joe Dyson](https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS) | [Bold](https://open.spotify.com/album/7FqikX3fErogVsxKNsGg04) | 3:27 | 2025-01-10 | 2025-04-12 |
 | [Bonita](https://open.spotify.com/track/2n6S7qcF89GMd1frle6MWG) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi), [Art Hirahara](https://open.spotify.com/artist/408lP4P33XEirDvYHxq8Ib) | [Bonita](https://open.spotify.com/album/2SlyYuhpJZ6iQiiR08NG00) | 4:13 | 2021-03-26 | 2022-07-29 |
 | [Bonita \- Special Edition](https://open.spotify.com/track/2tfYHSW4tSX38ng3GLiv0H) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi), [Art Hirahara](https://open.spotify.com/artist/408lP4P33XEirDvYHxq8Ib) | [Songs From Other Places \(Special Edition\)](https://open.spotify.com/album/4HZ7gRidkAp1iL8qDgtJy1) | 4:12 | 2021-03-26 | 2022-10-08 |
+| [Bossy Nova](https://open.spotify.com/track/6Ol78Z5mqB1bIcNmfqupIn) | [Gabrielle Cavassa](https://open.spotify.com/artist/6V9mKint0pfZjIbeFF9vQk) | [Diavola](https://open.spotify.com/album/4lQriMCxFMyor9TIJlvOxU) | 3:52 | 2026-05-01 |  |
 | [Break in the Clouds](https://open.spotify.com/track/7osYYu7FG5FVeqWG6oNCL1) | [Emmaline](https://open.spotify.com/artist/4qCLr26rRwbXkdhcEBKjc5) | [Break in the Clouds](https://open.spotify.com/album/5V0LwDqawJdWHZaUhxRypb) | 3:25 | 2024-07-12 | 2025-02-08 |
 | [Breathe](https://open.spotify.com/track/0es0xpOnqscchL7Ff1uAgu) | [Karmen Rõivassepp Quartet](https://open.spotify.com/artist/4KbNp9UenaZlT5eUOjoisO) | [Breathe](https://open.spotify.com/album/1hrsBXyhMYSeA4clm1nBqU) | 9:01 | 2022-02-18 | 2022-07-25 |
 | [Brighter Sun](https://open.spotify.com/track/0XxabEZXVU40LCFIieeLvJ) | [Connie Lansberg](https://open.spotify.com/artist/4qLq0MatI5KT1xG49JK84A), [Mark Fitzgibbon](https://open.spotify.com/artist/6pGS8ODz3Vpeg4b6XOj2jB), [Ben Robertson](https://open.spotify.com/artist/5Oc8E5NEXYp98fctQhH1po), [Danny Fischer](https://open.spotify.com/artist/2yzTBNWC2oYud1uy2PJRni) | [Brighter Sun](https://open.spotify.com/album/1Jz0RNEbIiIBJdwTPEKw1N) | 4:06 | 2023-05-08 | 2024-01-06 |

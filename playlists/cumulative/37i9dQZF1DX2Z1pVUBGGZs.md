@@ -4,7 +4,7 @@
 
 > a playlist without boundaries 🪐<br/>cover: Olivia Dean
 
-952 songs - 2 day 0 hr 34 min
+953 songs - 2 day 0 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -320,7 +320,7 @@
 | [Getting Clear](https://open.spotify.com/track/2bZQiLRMHEbwZXAi1VkJWP) | [Bradley Simpson](https://open.spotify.com/artist/3zvWY9gE8cITnJz7vJeDDE) | [The Panic Years](https://open.spotify.com/album/0M3xqVe90FoHmnvTOrn02W) | 2:30 | 2025-02-28 | 2025-04-11 |
 | [Getting It Together](https://open.spotify.com/track/64VoiWNhq0HEoPSTyNHm1G) | [chameleon](https://open.spotify.com/artist/46lv0U33sExwKvxwCwaDKK) | [Getting It Together](https://open.spotify.com/album/5oeEaZmmvDNMBTOvG7k79F) | 3:56 | 2025-08-01 | 2025-09-19 |
 | [GHOST \- y u flexin'](https://open.spotify.com/track/6gpEZhq4aTT8EG407wU7Lr) | [YAII](https://open.spotify.com/artist/7MvPAMS30HN4K095Vm4N30), [PLUTO](https://open.spotify.com/artist/5fJfVzNyYHCgtMSDolHQT0) | [GHOST \(y u flexin'\)](https://open.spotify.com/album/2Ex9zwFWAdtohYRrpqnn9u) | 2:42 | 2026-02-20 | 2026-03-13 |
-| [Ghosts](https://open.spotify.com/track/7BItTSeYIe9XNP9Z7b92m9) | [Oliver Malcolm](https://open.spotify.com/artist/5ut4VhaCRPsEjAZ93jpPfK) | [Ghosts](https://open.spotify.com/album/5MO6DsF9EtUMjOZuD9uVs5) | 3:27 | 2026-04-02 |  |
+| [Ghosts](https://open.spotify.com/track/7BItTSeYIe9XNP9Z7b92m9) | [Oliver Malcolm](https://open.spotify.com/artist/5ut4VhaCRPsEjAZ93jpPfK) | [Ghosts](https://open.spotify.com/album/5MO6DsF9EtUMjOZuD9uVs5) | 3:27 | 2026-04-02 | 2026-05-02 |
 | [giovana](https://open.spotify.com/track/24euHPmRZBVUSl2BtAbTW2) | [kin](https://open.spotify.com/artist/19sYKBPHKVkIz8bHKOPOHO), [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq) | [giovana](https://open.spotify.com/album/0CeXo9JKyxn1UztyoWk7dv) | 2:46 | 2025-12-12 | 2026-04-10 |
 | [GIRLLIKEU](https://open.spotify.com/track/72QiRRe7SdZMwrGuqCXQ0E) | [3ee](https://open.spotify.com/artist/0MOQB6FzT4cx60yzXhtj9h), [aria.](https://open.spotify.com/artist/4s0zZ7VotaEphcKIdUDnX8), [karinovvaa](https://open.spotify.com/artist/6Mc3hAT0TdyWCvvPjzaa5n) | [GIRLLIKEU](https://open.spotify.com/album/3YNoW85W3nuwZr9ZQIwrYk) | 3:08 | 2026-01-09 | 2026-02-28 |
 | [Girls](https://open.spotify.com/track/71YIkTYcNzEfQKq4E3CImH) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Girls](https://open.spotify.com/album/6dXVpOLGM4QJPLCPiY3QLG) | 3:13 | 2025-02-14 | 2025-05-16 |
@@ -788,6 +788,7 @@
 | [stick](https://open.spotify.com/track/0BMiAWhG8u5JZ9GeDCFxu5) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [stick](https://open.spotify.com/album/0DCxiHGqRaq1HuIcaSVBRq) | 2:19 | 2025-04-11 | 2025-07-04 |
 | [Stick Fight](https://open.spotify.com/track/1ASiGhAE5VkYHBGYDKxVkQ) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [Stick Fight](https://open.spotify.com/album/6W6TbVxDoqdETkx3zvHbzU) | 3:22 | 2025-11-14 | 2026-03-06 |
 | [sticky](https://open.spotify.com/track/0k8CJ2q7P9uNT1vh23bJVf) | [SOFY](https://open.spotify.com/artist/34TRRbxNJYpDV7VJ7kBzQd) | [Another Day In Paradise](https://open.spotify.com/album/6qkrUuqvTFKdLfJurM8jAJ) | 3:26 | 2025-03-07 | 2025-06-27 |
+| [STORM II](https://open.spotify.com/track/0FZd4IaxB12sUTKSUUGwWq) | [GENER8ION](https://open.spotify.com/artist/5xXSrTidFvVRJmiam2Zh1o), [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [STORM](https://open.spotify.com/album/6QaIcWWsEpkU9ybIP8mMZA) | 2:53 | 2026-05-01 |  |
 | [stranger](https://open.spotify.com/track/5xxh3JM4y3zboVTFK5Exzf) | [SOLOMON](https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4) | [HONEYCOATED](https://open.spotify.com/album/6eBLl4owVt3F2oK3vnnLAv) | 1:55 | 2025-07-10 | 2025-08-29 |
 | [Stranger to love](https://open.spotify.com/track/2fTwwi7auLy8zP38eOhvGy) | [dexter in the newsagent](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Time Flies](https://open.spotify.com/album/1oyZdZsqs3ag7LriorKTVq) | 2:32 | 2025-11-07 | 2026-02-27 |
 | [Strawberry Milkshake](https://open.spotify.com/track/3uRc7RFR66inRX92K0cVYR) | [Charlie Bennett](https://open.spotify.com/artist/0tvXkCpAjbDBWXXnYBE9wG) | [Strawberry Milkshake](https://open.spotify.com/album/7tCPyppaufymUBNnPePsX7) | 3:00 | 2024-07-25 | 2024-08-30 |

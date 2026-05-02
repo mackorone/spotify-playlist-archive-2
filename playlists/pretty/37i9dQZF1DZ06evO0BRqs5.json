@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afFKAAAAAADBoLRLZmhfEX1JT1arR1Ug",
+  "snapshot_id": "afKbgAAAAABVLuezDSlyAaC43rJejJrS",
   "tracks": [
     {
       "added_at": null,
@@ -27,22 +27,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MONSTER",
-        "url": "https://open.spotify.com/album/3EdsvSe5Kat47RB7PHeRQ4"
-      },
-      "artists": [
-        {
-          "name": "Eir Aoi",
-          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
-        }
-      ],
-      "duration_ms": 230115,
-      "name": "MONSTER",
-      "url": "https://open.spotify.com/track/7qXVWyhV26OV0yEFtIoZXU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u7d75\u7a7a\u4e8b",
         "url": "https://open.spotify.com/album/2HaGgGBHHrlLjBg8X7pIBR"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 250484,
       "name": "\u7d75\u7a7a\u4e8b",
       "url": "https://open.spotify.com/track/1mblggzEWNTu31ttjPLsj6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MONSTER",
+        "url": "https://open.spotify.com/album/3EdsvSe5Kat47RB7PHeRQ4"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "duration_ms": 230115,
+      "name": "MONSTER",
+      "url": "https://open.spotify.com/track/7qXVWyhV26OV0yEFtIoZXU"
     },
     {
       "added_at": null,
@@ -487,8 +487,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "HELLO HELLO HELLO",
-        "url": "https://open.spotify.com/album/5gAsDpWG0nCLBdJSVkGXs7"
+        "name": "MONSTER / \u7d75\u7a7a\u4e8b",
+        "url": "https://open.spotify.com/album/2LyeCsCc3N4qH0u6AwCdRu"
       },
       "artists": [
         {
@@ -496,9 +496,9 @@
           "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
         }
       ],
-      "duration_ms": 243730,
-      "name": "HELLO HELLO HELLO",
-      "url": "https://open.spotify.com/track/2CR2wXrrSqyAIegVOl8IzF"
+      "duration_ms": 247091,
+      "name": "DRUM",
+      "url": "https://open.spotify.com/track/3z81WD6YBsBq3QBzm5YrVG"
     },
     {
       "added_at": null,
@@ -519,8 +519,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "MONSTER / \u7d75\u7a7a\u4e8b",
-        "url": "https://open.spotify.com/album/2LyeCsCc3N4qH0u6AwCdRu"
+        "name": "HELLO HELLO HELLO",
+        "url": "https://open.spotify.com/album/5gAsDpWG0nCLBdJSVkGXs7"
       },
       "artists": [
         {
@@ -528,9 +528,9 @@
           "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
         }
       ],
-      "duration_ms": 247091,
-      "name": "DRUM",
-      "url": "https://open.spotify.com/track/3z81WD6YBsBq3QBzm5YrVG"
+      "duration_ms": 243730,
+      "name": "HELLO HELLO HELLO",
+      "url": "https://open.spotify.com/track/2CR2wXrrSqyAIegVOl8IzF"
     },
     {
       "added_at": null,
@@ -663,22 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u9f13\u52d5",
-        "url": "https://open.spotify.com/album/3ScfmGFBtfyu9Gsj3yWDU3"
-      },
-      "artists": [
-        {
-          "name": "Eir Aoi",
-          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
-        }
-      ],
-      "duration_ms": 243133,
-      "name": "\u9f13\u52d5",
-      "url": "https://open.spotify.com/track/6QDyiZyiQjRL02PIiJo2bq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BEST -E-",
         "url": "https://open.spotify.com/album/6rjMSW0RSSr82ferEWoA3A"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 236066,
       "name": "HaNaZaKaRi",
       "url": "https://open.spotify.com/track/5m4gR2VFdKCu9L9Hzw7fH9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u9f13\u52d5",
+        "url": "https://open.spotify.com/album/3ScfmGFBtfyu9Gsj3yWDU3"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "duration_ms": 243133,
+      "name": "\u9f13\u52d5",
+      "url": "https://open.spotify.com/track/6QDyiZyiQjRL02PIiJo2bq"
     },
     {
       "added_at": null,
@@ -711,22 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "KALEIDOSCOPE",
-        "url": "https://open.spotify.com/album/1Ugh0hoPOsNnwfYnKX9Ibh"
-      },
-      "artists": [
-        {
-          "name": "Eir Aoi",
-          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
-        }
-      ],
-      "duration_ms": 209066,
-      "name": "\u30ed\u30bc",
-      "url": "https://open.spotify.com/track/2Je51HC5BEKT6xJEzS4iHt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u30a2\u30a4\u30ea\u30b9",
         "url": "https://open.spotify.com/album/1YBe42P8dq3C7kcb07y328"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 252106,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/3QUcxSheSRbPD6mI91VwST"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KALEIDOSCOPE",
+        "url": "https://open.spotify.com/album/1Ugh0hoPOsNnwfYnKX9Ibh"
+      },
+      "artists": [
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        }
+      ],
+      "duration_ms": 209066,
+      "name": "\u30ed\u30bc",
+      "url": "https://open.spotify.com/track/2Je51HC5BEKT6xJEzS4iHt"
     },
     {
       "added_at": null,

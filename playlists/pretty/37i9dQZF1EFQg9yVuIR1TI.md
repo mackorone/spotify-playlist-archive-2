@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQg9yVuIR1TI.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1BkowoKkLINp2xB2EQKAKG">Dorothy Fields</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 640 likes - 56 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 639 likes - 56 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQg9yVuIR1TI.md) - [plain]
 | 4 | [Silent Night \- Remastered](https://open.spotify.com/track/1gjBcw4TFnVl2GyLoAD8q8) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [Old Classic Christmas Songs \(Remastered\)](https://open.spotify.com/album/11wSR3IfNrsnaINIqVdodt) | 2:27 |
 | 5 | [I Won't Dance](https://open.spotify.com/track/4Sps76IJpIyyZqRTj7HCEi) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Cheek To Cheek \(Deluxe\)](https://open.spotify.com/album/2VX9rp6NAC19TQN4IgkmYu) | 3:56 |
 | 6 | [Big Spender](https://open.spotify.com/track/3YO0RMWVBJRmzwKVGAgSLF) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [Big Spender](https://open.spotify.com/album/5UGnhlHoDzkuMBLp24ylfv) | 2:07 |
-| 7 | [Pick Yourself Up](https://open.spotify.com/track/14gEDPQtsTcbZOWs7EXg4V) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7), [George Shearing](https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn) | [Nat King Cole Sings George Shearing Plays](https://open.spotify.com/album/4jBiAQDfhcRFyH52ry6rZr) | 3:11 |
+| 7 | [Pick Yourself Up](https://open.spotify.com/track/4v6UlOv5BNgXeVA44DYAbC) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [When I Look In Your Eyes](https://open.spotify.com/album/6NqwpeiAjwYAppRNA7F3yD) | 3:01 |
 | 8 | [You Couldn't Be Cuter](https://open.spotify.com/track/5wK0I2nGDosuttrhkVHZnO) | [Margaret Whiting](https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87) | [Sings The Jerome Kern Song Book, Vol.1 & 2](https://open.spotify.com/album/7lK3JDdKHJGdKZcTFodGcd) | 2:02 |
 | 9 | [Diga Diga Doo](https://open.spotify.com/track/6VLxbR9RT9KFOAEgwqvoii) | [Big Bad Voodoo Daddy](https://open.spotify.com/artist/6ROyXB8NDG0fA78S46JdTB) | [Rattle Them Bones \(Deluxe Edition\)](https://open.spotify.com/album/3YDH2JTlzj1Rv34nmaMfhz) | 4:15 |
 | 10 | [If My Friends Could See Me Now](https://open.spotify.com/track/0I27tCo8rexgdYnhkSaL7k) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Harlequin](https://open.spotify.com/album/6eKdAMXNBlXNtPy7OdBL50) | 2:41 |
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQg9yVuIR1TI.md) - [plain]
 | 13 | [Zenophile](https://open.spotify.com/track/3jEq5wdDxv0EK1I8HH24LO) | [Mylo](https://open.spotify.com/artist/5YjEVrNMrIRw2xGbjTN6Ti) | [Destroy Rock & Roll](https://open.spotify.com/album/4bmRs1mbIqoZXpxAzCRQ7E) | 4:10 |
 | 14 | [Baby Dream Your Dream](https://open.spotify.com/track/1sEY6wuPDneYXTS9xLzQsg) | [Tony DeSare](https://open.spotify.com/artist/6JooBP4BtY7tY6YPJnSYhI) | [Want You \(Deluxe Edition\)](https://open.spotify.com/album/1uD9FC7PbIPI2TAj82JYlI) | 3:35 |
 | 15 | [Rich Man's Frug](https://open.spotify.com/track/6yAQwGdje2w3SvDNmMFfvV) | [Fosse Ensemble](https://open.spotify.com/artist/4B4CWMfBiIeLcXZaEko9iS) | [Fosse \(Original Broadway Cast Recording\)](https://open.spotify.com/album/5CPeU2H0BhLOowigxlAYUU) | 3:38 |
-| 16 | [April Fooled Me](https://open.spotify.com/track/5mQrITejERpSEWTAvbdUmf) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa), [Mark Limacher](https://open.spotify.com/artist/2FyolspKay4voViiywFNFs) | [You're Alike, You Two](https://open.spotify.com/album/7d6bFLcHMa6ExxlPjzuAkz) | 3:51 |
-| 17 | [Roc\-A\-Fella Billionaires](https://open.spotify.com/track/2UcsiQ7VGbPDDXbVRjcug0) | [Freeway](https://open.spotify.com/artist/2Jwr7hGoSNK3S3QBxh3T0z), [JAŸ\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Free At Last](https://open.spotify.com/album/6rXcz7FY8DhXLBcJycI93s) | 3:41 |
+| 16 | [Roc\-A\-Fella Billionaires](https://open.spotify.com/track/2UcsiQ7VGbPDDXbVRjcug0) | [Freeway](https://open.spotify.com/artist/2Jwr7hGoSNK3S3QBxh3T0z), [JAŸ\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Free At Last](https://open.spotify.com/album/6rXcz7FY8DhXLBcJycI93s) | 3:41 |
+| 17 | [April Fooled Me](https://open.spotify.com/track/5mQrITejERpSEWTAvbdUmf) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa), [Mark Limacher](https://open.spotify.com/artist/2FyolspKay4voViiywFNFs) | [You're Alike, You Two](https://open.spotify.com/album/7d6bFLcHMa6ExxlPjzuAkz) | 3:51 |
 | 18 | [Finale \(Peace on Earth\) \- From "Lady and the Tramp"/Soundtrack Version](https://open.spotify.com/track/5dCKkEykQP1VyFBDn6jBkk) | [Disney Studio Chorus](https://open.spotify.com/artist/0uxCcs6uoQy6StkrWS1QjW) | [Lady and the Tramp](https://open.spotify.com/album/5lUCB0rKp3TTIongCN7gvk) | 0:31 |
 | 19 | [Lovely To Look At](https://open.spotify.com/track/2H0ktBNfFXSTJGOg8yPinH) | [Fred Astaire](https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX) | [The Astaire Story](https://open.spotify.com/album/48u8T69QYtvg6edsQtgYXV) | 3:26 |
 | 20 | [Nobody Does It Like Me](https://open.spotify.com/track/6VOlq6d5FTCG8NsEIIBzkD) | [Soundtrack/Cast Album](https://open.spotify.com/artist/56E5XajgEQr7pQNK4C10RF) | [Seesaw \- Music By Cy Coleman; Lyrics By Dorothy Fields](https://open.spotify.com/album/1IKUwKTuLihCE8tFk8eJdp) | 2:10 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQg9yVuIR1TI.md) - [plain]
 | 55 | [Pink Taffeta Sample Size 10](https://open.spotify.com/track/7xm3CNFW6dOfLdZIT8myJu) | [Sylvia Syms](https://open.spotify.com/artist/3U3Pzj2ZtG3hOSd4iDaqsT) | [Lovingly](https://open.spotify.com/album/4VppiWo9CeOdL26mEdsdHH) | 4:13 |
 | 56 | [When Did You Know](https://open.spotify.com/track/3aSljBcDfbccnNVjhu1VrP) | [Skitch Henderson And His Orchestra](https://open.spotify.com/artist/5gSeSvP3kg6zA7rma5WhVX) | [Play Music from "Sweet Charity"](https://open.spotify.com/album/3U2cFufzgQ0A3TvUGMbZMx) | 3:27 |
 
-Snapshot ID: `AcQRfgAAAAAHJwzvxlI8tSf0F6W1GrcH`
+Snapshot ID: `AcQXHgAAAABf3sa+0ItQqEa3q/TXPF4b`

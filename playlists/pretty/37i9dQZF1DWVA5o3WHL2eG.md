@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume! Cover: Josi
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,681 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,673 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,10 +23,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 13 | [Dunkel](https://open.spotify.com/track/2UCO6MiyQaUz0ZNAmFppnO) | [Mine](https://open.spotify.com/artist/2jmpnuwn52LqrQASBlyQGJ) | [Dunkel](https://open.spotify.com/album/4VV2sUq22alaFYBTLL68Us) | 2:18 |
 | 14 | [It\-girl](https://open.spotify.com/track/6UJ71rHZh9EfgrAuFRR1q0) | [Mieze](https://open.spotify.com/artist/7M4NzPON3JqwE3GRfdg7eU) | [It\-girl](https://open.spotify.com/album/0vmb9sVh34aVdNL1UVyfo7) | 2:04 |
 | 15 | [YOU&ME](https://open.spotify.com/track/5Lsf972OLKx5LbJyvyoXJ2) | [Josi](https://open.spotify.com/artist/5vQXzZjy86ijQhMjMb1ke4) | [DON'T STOP](https://open.spotify.com/album/75d1zgNLvFKDRx6uwNBwZ2) | 2:04 |
-| 16 | [Dog Bite](https://open.spotify.com/track/4oMfYG01Heyeqkdxfq9Z3D) | [Philine Sonny](https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t) | [Virgin Lake](https://open.spotify.com/album/5hjXrxckG7e4f8IDw8Czcs) | 4:25 |
-| 17 | [wasserfarben](https://open.spotify.com/track/1VlhIy2S6cqPXMIlTxkkXb) | [Caro Schaeffler](https://open.spotify.com/artist/0HOgHNCucycZ7DUyWjFhNB) | [wasserfarben](https://open.spotify.com/album/5anq9Pq1u3YXlbpi94VF3N) | 3:05 |
-| 18 | [GEN Z LUV](https://open.spotify.com/track/0HLqEQQmoWswlR2sxYQlCI) | [Rubi](https://open.spotify.com/artist/0VlrorDSkEbLK1D6VvMgd2) | [GEN Z LUV](https://open.spotify.com/album/2Lg8iJMdSJOa3jlo0nMMvQ) | 1:48 |
-| 19 | [sommerwind](https://open.spotify.com/track/3puY290XhaYRHxebmg9NvN) | [lovehead](https://open.spotify.com/artist/66RYRcCpcfJqF3TwqCbUce) | [sommerwind](https://open.spotify.com/album/1h0xn8lP2tnxtUm8HitWbz) | 2:48 |
+| 16 | [wasserfarben](https://open.spotify.com/track/1VlhIy2S6cqPXMIlTxkkXb) | [Caro Schaeffler](https://open.spotify.com/artist/0HOgHNCucycZ7DUyWjFhNB) | [wasserfarben](https://open.spotify.com/album/5anq9Pq1u3YXlbpi94VF3N) | 3:05 |
+| 17 | [Dog Bite](https://open.spotify.com/track/4oMfYG01Heyeqkdxfq9Z3D) | [Philine Sonny](https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t) | [Virgin Lake](https://open.spotify.com/album/5hjXrxckG7e4f8IDw8Czcs) | 4:25 |
+| 18 | [sommerwind](https://open.spotify.com/track/3puY290XhaYRHxebmg9NvN) | [lovehead](https://open.spotify.com/artist/66RYRcCpcfJqF3TwqCbUce) | [sommerwind](https://open.spotify.com/album/1h0xn8lP2tnxtUm8HitWbz) | 2:48 |
+| 19 | [GEN Z LUV](https://open.spotify.com/track/0HLqEQQmoWswlR2sxYQlCI) | [Rubi](https://open.spotify.com/artist/0VlrorDSkEbLK1D6VvMgd2) | [GEN Z LUV](https://open.spotify.com/album/2Lg8iJMdSJOa3jlo0nMMvQ) | 1:48 |
 | 20 | [Chemical Love](https://open.spotify.com/track/4ir6iIZhasIqi7idrxPaP9) | [FILLY](https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f) | [Chemical Love](https://open.spotify.com/album/2uJvfX269T6v4hdexZMnRv) | 2:44 |
 | 21 | [Beiss mich fest](https://open.spotify.com/track/4qBd4iG9kqOIiRNS56r125) | [SOFFIE](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Beiss mich fest](https://open.spotify.com/album/6OQaolEPGCprA6DZeckT2f) | 2:00 |
 | 22 | [Girls support Girls](https://open.spotify.com/track/1PmUzmxrYajlmPpn2QmPkQ) | [Anna Grey](https://open.spotify.com/artist/5SFwozJTdBZNUFYYrAqH4q) | [DNA](https://open.spotify.com/album/2MJnPfsVwCbyBmcvaG2e2l) | 1:57 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 32 | [Summer In The Woods](https://open.spotify.com/track/2oMVZc7fzqNy6iq9ugUmrV) | [lùisa](https://open.spotify.com/artist/0we7IYHF0G5i1j934KBxUa) | [Summer In The Woods](https://open.spotify.com/album/4yQ3hrlA3RsYy4CXlXmDP6) | 3:04 |
 | 33 | [Sniper](https://open.spotify.com/track/52KhmZdOWIk02dwffldHMu) | [Josi](https://open.spotify.com/artist/5vQXzZjy86ijQhMjMb1ke4) | [Sniper](https://open.spotify.com/album/06JWbSUX77An10BejKN9C0) | 1:56 |
 | 34 | [Jenny](https://open.spotify.com/track/1MJV6Q7cYQEOEwwgNwRcJ7) | [LOTTE](https://open.spotify.com/artist/3gqabzO7zvHVzAIT0Nxqa3) | [Jenny](https://open.spotify.com/album/3BQWnI0Gg22LnYTsN2ksJp) | 4:33 |
-| 35 | [wieviele Tage](https://open.spotify.com/track/3AfgaomsUEosFavo59d5Ki) | [fiora](https://open.spotify.com/artist/757EH7oogI3l10jrOicVzE) | [wieviele Tage](https://open.spotify.com/album/6SaXHsxV1SFbQgULjEfUmw) | 2:24 |
-| 36 | [Primapulsa](https://open.spotify.com/track/5TJjKFnwFmnejKyzDLdUoq) | [Suena](https://open.spotify.com/artist/3ZCy1ehzbzEAcpcHnHJYXd) | [Primapulsa](https://open.spotify.com/album/6yK3S6RhA6tSIef0epie7D) | 2:27 |
+| 35 | [Primapulsa](https://open.spotify.com/track/5TJjKFnwFmnejKyzDLdUoq) | [Suena](https://open.spotify.com/artist/3ZCy1ehzbzEAcpcHnHJYXd) | [Primapulsa](https://open.spotify.com/album/6yK3S6RhA6tSIef0epie7D) | 2:27 |
+| 36 | [wieviele Tage](https://open.spotify.com/track/3AfgaomsUEosFavo59d5Ki) | [fiora](https://open.spotify.com/artist/757EH7oogI3l10jrOicVzE) | [wieviele Tage](https://open.spotify.com/album/6SaXHsxV1SFbQgULjEfUmw) | 2:24 |
 | 37 | [BEBII](https://open.spotify.com/track/6YocybQAUDMGdSgU9d2pXp) | [Miss Marla](https://open.spotify.com/artist/3MtJzCQCzp6r1oEqAifuDJ), [Prod Gordon](https://open.spotify.com/artist/0xj2xEx3aLor6lFSGgP0iv) | [YOUNG BARBIE LIFE](https://open.spotify.com/album/0mFfkucO2ccQ40IvOoGyCo) | 1:54 |
 | 38 | [double L](https://open.spotify.com/track/7jAX6V6DdTRETOP4Zekrby) | [Anna Ullrich](https://open.spotify.com/artist/50KbwRJgMFxSmT50FamuDN) | [double L](https://open.spotify.com/album/2NffmfK2kiciEDLg7JY71Z) | 3:32 |
 | 39 | [Little Me](https://open.spotify.com/track/2tczW8Sc81tavxVcpxSC87) | [Mira Taylor](https://open.spotify.com/artist/4gjxiBSKlUuAJwltoX1v2r) | [Little Me](https://open.spotify.com/album/4n6YwmEsm6ZSee8sGR8ygb) | 3:12 |

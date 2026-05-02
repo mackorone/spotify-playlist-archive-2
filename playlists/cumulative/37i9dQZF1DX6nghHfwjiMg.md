@@ -4,7 +4,7 @@
 
 > Descubrí nuevos artistas, nueva música todas las semanas 📸 Little Boggie
 
-291 songs - 14 hr 55 min
+291 songs - 14 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [FC](https://open.spotify.com/track/69FdDBCt7D7LFJrupeujMz) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [FC](https://open.spotify.com/album/2hea6PJnjJvM6QG3vjCscG) | 2:59 | 2022-08-04 | 2023-06-02 |
 | [Federico](https://open.spotify.com/track/5vHufHC11jJb37ChBg2aqe) | [Trucha](https://open.spotify.com/artist/5fsk587VCGq4VWwPyCW9rW) | [Federico](https://open.spotify.com/album/2UhkIha5ZUIx02k54KLtQF) | 3:39 | 2026-04-20 |  |
 | [Fin de Año](https://open.spotify.com/track/0Rfu3GCteqD7TUBi3E2N4X) | [Niña Lobo](https://open.spotify.com/artist/4NQaMMaowd4aBdyCHewlZi), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [Fin de Año](https://open.spotify.com/album/62gcadq4Av5tnPUngu4c0K) | 3:21 | 2023-06-01 | 2024-05-08 |
+| [FK4 2.0](https://open.spotify.com/track/1YgIa9m3ZlcImBMghTfNWr) | [Faus K](https://open.spotify.com/artist/4Dp9S8ukWAo7FOIloXG2mp) | [Sobredimensión](https://open.spotify.com/album/7DMMjxxwcmsVjDp6cPFShq) | 3:41 | 2026-05-01 |  |
 | [FLOR ALVAREZ \| DJ TAO Turreo Sessions \#23](https://open.spotify.com/track/2gaRESK3Gi4hEumz8oThJz) | [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [Flor Alvarez](https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa) | [FLOR ALVAREZ \| DJ TAO Turreo Sessions \#23](https://open.spotify.com/album/6B2yceSshBoqkEDo8hY0F0) | 2:28 | 2024-05-10 | 2025-05-10 |
 | [FLOTANDO](https://open.spotify.com/track/40OkDypNOibhDLHZ94bKQc) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [FLOTANDO](https://open.spotify.com/album/2P2zEMA1YeWmLGNrxGvHBY) | 2:42 | 2021-11-11 | 2023-06-02 |
 | [Frutillas con Crema](https://open.spotify.com/track/593wo8qHVfasps1XCO0Xht) | [un muerto mas](https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0) | [Verano en Invierno](https://open.spotify.com/album/54NK5gk2Gx0fkycE2hUiM5) | 2:42 | 2023-08-23 | 2024-05-08 |
@@ -275,7 +276,6 @@
 | [Todo el Tiempo](https://open.spotify.com/track/0u1Ng1yrU52juwW92L7yB8) | [Abril Olivera](https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg) | [Todo el Tiempo](https://open.spotify.com/album/64cLuVI6XFdGcbEyas3J4E) | 3:14 | 2023-10-05 | 2024-05-08 |
 | [TODO LO QUE TENGO](https://open.spotify.com/track/4yqJO6BAS9YgiYKUviFwU9) | [BLAIR](https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ) | [BAR SCORPIOS](https://open.spotify.com/album/6Rtfa37o0kuhuso3RwimZQ) | 3:31 | 2025-05-09 | 2026-04-15 |
 | [TOLKIN YIT](https://open.spotify.com/track/37yI1sQRX7xmdrp4RfTmK1) | [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN) | [TOLKIN YIT](https://open.spotify.com/album/4t00wtgmOwZwhv562woUPp) | 2:21 | 2021-11-11 | 2023-06-02 |
-| [Track 4](https://open.spotify.com/track/1YgIa9m3ZlcImBMghTfNWr) | [Faus K](https://open.spotify.com/artist/4Dp9S8ukWAo7FOIloXG2mp) | [Sobredimensión](https://open.spotify.com/album/7DMMjxxwcmsVjDp6cPFShq) | 0:00 | 2026-05-01 |  |
 | [TRAN.KILO](https://open.spotify.com/track/559RjQCoHUvl7wuXU0PFms) | [Baketha](https://open.spotify.com/artist/5EnlVsNjGwBWWexlQoO1sX), [Pushi](https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn) | [TRAN.KILO](https://open.spotify.com/album/4FwpDti3pS1BpcSyBOd6VX) | 3:05 | 2024-05-07 | 2025-05-10 |
 | [Tres Viernes](https://open.spotify.com/track/1VWSXYPCYrZ7e1gJzlk81f) | [Radicäl](https://open.spotify.com/artist/4JyGBDOEYSDmMphGEacNAC) | [Tres Viernes](https://open.spotify.com/album/5lBRbfueJUu2GoikRpzSxl) | 2:37 | 2025-05-09 | 2026-04-15 |
 | [Tu Bar](https://open.spotify.com/track/0iP5B6MjWzyCD7r7idZZqb) | [Jero Jones](https://open.spotify.com/artist/4Tk06wQxbCfPYcxqxGE8yJ) | [¿De Qué Hablamos Cuando Hablamos de Amor?](https://open.spotify.com/album/4erCBs27VUtGcGFkN7XBly) | 5:09 | 2026-04-14 |  |

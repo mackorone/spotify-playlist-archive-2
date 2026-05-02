@@ -68777,6 +68777,28 @@
     },
     {
       "album": {
+        "name": "Society's Face pt. II",
+        "url": "https://open.spotify.com/album/6sZvNzhJDj1g2QiaQhBhWe"
+      },
+      "artists": [
+        {
+          "name": "Steven Charlot",
+          "url": "https://open.spotify.com/artist/6i7OOTSy7DyayuRf6vDcqV"
+        },
+        {
+          "name": "Eva Valery",
+          "url": "https://open.spotify.com/artist/0K95TlYJ2SvJbL3CZ3ui3p"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258742,
+      "name": "Dive (feat. Eva Valery)",
+      "url": "https://open.spotify.com/track/6Rm6wlcvUMmoewgqT6HtGp"
+    },
+    {
+      "album": {
         "name": "Synergy",
         "url": "https://open.spotify.com/album/77nBglD9sGkrHzLY7od26x"
       },
@@ -72387,7 +72409,7 @@
         },
         {
           "name": "Tiga",
-          "url": "https://open.spotify.com/artist/6dfbRE1slg9q6xXbMiB9Rn"
+          "url": "https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC"
         }
       ],
       "date_added": "2026-04-30",
@@ -118533,6 +118555,28 @@
     },
     {
       "album": {
+        "name": "Honderdduizend graden",
+        "url": "https://open.spotify.com/album/5nfUTRn1vBDuKVOQVKNmlZ"
+      },
+      "artists": [
+        {
+          "name": "Willem",
+          "url": "https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds"
+        },
+        {
+          "name": "Sef",
+          "url": "https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167381,
+      "name": "Honderdduizend graden",
+      "url": "https://open.spotify.com/track/0X4S1jLylEDhgRW0SMHlzi"
+    },
+    {
+      "album": {
         "name": "Honest",
         "url": "https://open.spotify.com/album/3KnAcqhkltzD7qQ1SDF0AU"
       },
@@ -136682,6 +136726,28 @@
       "duration_ms": 139413,
       "name": "Irish Goodbye",
       "url": "https://open.spotify.com/track/7ERPDzFA20PGO1KEyXAM0K"
+    },
+    {
+      "album": {
+        "name": "FENIAN",
+        "url": "https://open.spotify.com/album/0z5uyAUrflFAnjBR2EhW9J"
+      },
+      "artists": [
+        {
+          "name": "KNEECAP",
+          "url": "https://open.spotify.com/artist/1ZVACPeq7ccGCoUXwtafUU"
+        },
+        {
+          "name": "Kae Tempest",
+          "url": "https://open.spotify.com/artist/1YcprGtF13BYCZQK9jYPEw"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214400,
+      "name": "Irish Goodbye (feat. Kae Tempest)",
+      "url": "https://open.spotify.com/track/3xJi1yQWl06YXO3NS39HR8"
     },
     {
       "album": {
@@ -198018,12 +198084,12 @@
       },
       "artists": [
         {
-          "name": "Groove Theory",
-          "url": "https://open.spotify.com/artist/7opRqRgF9lvnVraBFCMvIj"
-        },
-        {
           "name": "Cloonee",
           "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        },
+        {
+          "name": "Groove Theory",
+          "url": "https://open.spotify.com/artist/7opRqRgF9lvnVraBFCMvIj"
         }
       ],
       "date_added": "2026-04-30",
@@ -272106,24 +272172,6 @@
       "duration_ms": 194395,
       "name": "Tra",
       "url": "https://open.spotify.com/track/5M2RXimSt8334s6eLz5ueo"
-    },
-    {
-      "album": {
-        "name": "Society's Face pt. II",
-        "url": "https://open.spotify.com/album/6sZvNzhJDj1g2QiaQhBhWe"
-      },
-      "artists": [
-        {
-          "name": "Steven Charlot",
-          "url": "https://open.spotify.com/artist/6i7OOTSy7DyayuRf6vDcqV"
-        }
-      ],
-      "date_added": "2026-04-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 3",
-      "url": "https://open.spotify.com/track/6Rm6wlcvUMmoewgqT6HtGp"
     },
     {
       "album": {

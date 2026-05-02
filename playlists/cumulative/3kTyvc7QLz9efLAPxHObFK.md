@@ -4,7 +4,7 @@
 
 > 
 
-3,003 songs - 6 day 11 hr 12 min
+3,004 songs - 6 day 11 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -665,6 +665,7 @@
 | [Disrupt The Fight](https://open.spotify.com/track/14RnhHjFJ04AjHXar3hpUQ) | [GridKiller](https://open.spotify.com/artist/7njBiH1Uy0qNA8VvPPtEG7), [Restrained](https://open.spotify.com/artist/2ym6Gwn7qNzgiAm6VA3nsV) | [Disrupt The Fight](https://open.spotify.com/album/0znZT0sbDHRDWglCjc3PBq) | 3:18 | 2023-06-24 |  |
 | [Dissed](https://open.spotify.com/track/0ythUESDl2CKq70h3M5YkK) | [D\-Fence](https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv) | [Dissed](https://open.spotify.com/album/5MRLgWp4wjCZM7KUCNmJmX) | 4:03 | 2022-11-29 |  |
 | [Distorted](https://open.spotify.com/track/1xHiunYidwC1t9FWkbtygW) | [Jackro](https://open.spotify.com/artist/2DmEO1qBeq9jc3HPI7V3H5) | [Distorted](https://open.spotify.com/album/7qQV8c2wMcL9amW6nl7qSn) | 3:12 | 2024-07-26 |  |
+| [Disturbia](https://open.spotify.com/track/46kQj1YYd94k6SgEh7QdRR) | [Yoshiko](https://open.spotify.com/artist/4lSE8OyTMhErkE7OshR2Hq) | [Disturbia](https://open.spotify.com/album/31XmeUVGwLuxPYfa0ObiMQ) | 2:44 | 2026-05-01 |  |
 | [Dive High](https://open.spotify.com/track/7qPwi7OBzvtpJQ2w1xDF2b) | [t+pazolite](https://open.spotify.com/artist/4Y345wfGiorcB2NXcsJxOt) | [Refactoring Travel](https://open.spotify.com/album/4zSmaQSBXo9BPsrttSGNgI) | 3:22 | 2022-08-11 |  |
 | [Dive With Me](https://open.spotify.com/track/6WqhzAfTZmQsXhpUuJeTTx) | [Quickdrop](https://open.spotify.com/artist/5zwFj25Ky9akUZjQHuaDDa) | [Dive With Me](https://open.spotify.com/album/3PiPJYgdGpZpAshiUhtv6n) | 3:15 | 2022-02-14 |  |
 | [DMT](https://open.spotify.com/track/063YSXc8E2MUCermhiW0Te) | [Technikore](https://open.spotify.com/artist/45mQUJrPyctvf2IhkVE0ym) | [DMT](https://open.spotify.com/album/39qEWfBRftbceehLGfHAcC) | 2:31 | 2023-10-19 |  |

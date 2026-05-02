@@ -7865,6 +7865,28 @@
     },
     {
       "album": {
+        "name": "Joy",
+        "url": "https://open.spotify.com/album/5W6WSCQoQHjNgwN5EkOMY3"
+      },
+      "artists": [
+        {
+          "name": "Housefires",
+          "url": "https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD"
+        },
+        {
+          "name": "Ariel Campbell",
+          "url": "https://open.spotify.com/artist/2JUzPjWvPNqiQmYvRYpAdX"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375940,
+      "name": "Joy",
+      "url": "https://open.spotify.com/track/3ABBmyAEPeQ567PpgVxjlx"
+    },
+    {
+      "album": {
         "name": "Crowns Down (Live / Deluxe)",
         "url": "https://open.spotify.com/album/6Mh3CQITw07mEI0JJ0YIP9"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32oVqaQE8BM.md) - [plain]
 
 > The ultimate chill out playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 966,248 likes - 176 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 966,472 likes - 176 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -185,4 +185,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32oVqaQE8BM.md) - [plain]
 | 175 | [An Afternoon Outside](https://open.spotify.com/track/5iAPCfJzHWC3IIMVX1b0xW) | [PRFCT BLU3](https://open.spotify.com/artist/4noR7KqhMB2raZYyC0FHen) | [An Afternoon Outside](https://open.spotify.com/album/3biNvw06IJuPShheTwnqZV) | 2:53 |
 | 176 | [Brief City](https://open.spotify.com/track/3dKJr5umYNA02xDlS76B6W) | [Alex R](https://open.spotify.com/artist/0UF2hegc0QcgMzZYI6bYB2) | [Brief City](https://open.spotify.com/album/1GL1UZWjdNNzW8qRvrZ9Tc) | 2:19 |
 
-Snapshot ID: `AAAAAMMz2BnSr6Shgw/TRieEVLW/dFi6`
+Snapshot ID: `AAAAALBrJt9O5U3Hmmel91I0fkhOs4Tx`

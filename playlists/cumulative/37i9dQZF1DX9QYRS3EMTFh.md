@@ -4,7 +4,7 @@
 
 > Les hits dancehall, shatta & bouyon du moment\. Photo : Miimii KDS
 
-886 songs - 1 day 13 hr 45 min
+886 songs - 1 day 13 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -820,7 +820,6 @@
 | [Tous Les Ken](https://open.spotify.com/track/1u3w1tpTUY108bIC4rLDvE) | [Gold Up](https://open.spotify.com/artist/5ht4EDZMGo7d1K4czZTUYa), [Elji](https://open.spotify.com/artist/6RwdeEwhjswv5OxNK5Dq0s) | [Tous Les Ken](https://open.spotify.com/album/2PMQ5myw3W0f5lRA5aZDDK) | 2:41 | 2023-12-08 | 2024-01-05 |
 | [Tout Koté](https://open.spotify.com/track/5DLNMwPxp2kpgzT6RMyDLe) | [Cocotteland](https://open.spotify.com/artist/16KiWnLK09KYEBwztGTMF7), [Natoxie](https://open.spotify.com/artist/1Wqloe5S1i29Ff7YiWg0x5), [MJTX](https://open.spotify.com/artist/5oYrabnj98r8zzsTsD5PbP) | [Tout Koté](https://open.spotify.com/album/1h8jKCAibB11m46mbcFPCN) | 2:06 | 2025-08-28 | 2025-09-25 |
 | [Toxic](https://open.spotify.com/track/6ZSXbBz7FeFzxTKYCa18Rq) | [Kima](https://open.spotify.com/artist/0hp836fJ9Dleva1XuehHiS) | [Baby project](https://open.spotify.com/album/1blVOUqpdw9FH1RAuNSynO) | 2:35 | 2023-06-08 | 2024-05-17 |
-| [Track 7](https://open.spotify.com/track/7o8YOKE4hL0jb9Cuqlbv8j) | [Yo Joshy](https://open.spotify.com/artist/6nqbsvHdj0s0m3JVobStqm) | [VALHALLA](https://open.spotify.com/album/73dCbutyxgXwuu3IyOLLxn) | 0:00 | 2026-04-30 |  |
 | [Tremor](https://open.spotify.com/track/3PXtntjqL9xJxtW270fDQX) | [Lu City](https://open.spotify.com/artist/5UoVuwjRIYT6WGDUJjT1Se) | [Tremor](https://open.spotify.com/album/3rD9fNOvN2Pi90kgBnDPfU) | 2:06 | 2023-02-23 | 2023-05-26 |
 | [Tropics](https://open.spotify.com/track/4a2RUg8Jwp3bLl5eh7ZYJ0) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57), [P Skinna](https://open.spotify.com/artist/2vGSsUbRGtgfwCvGyJCJSV), [Liondub](https://open.spotify.com/artist/7HuGtUW71ocVHeaeasyFlB) | [Tropics](https://open.spotify.com/album/0Gi5mHgVkU5YKS48OMkriL) | 2:57 | 2022-01-06 | 2022-04-29 |
 | [Trouble](https://open.spotify.com/track/0V1QS3ISdTKr2zIashgVcO) | [Chinese Man](https://open.spotify.com/artist/6vgw0jwJkUnW2NR1rzsQU3), [Stylo G](https://open.spotify.com/artist/7qPISKHhhKDLZTmYcX7bWd) | [Trouble](https://open.spotify.com/album/6wtD4C6KoazckwXVcUNquC) | 3:02 | 2024-02-01 | 2024-03-01 |
@@ -843,6 +842,7 @@
 | [Updown](https://open.spotify.com/track/5YpUq5yJ9VXeEEkGPoQYsU) | [Yelsha](https://open.spotify.com/artist/5i7fohl7VTuGVVn5o9BXQo), [GO GO GO](https://open.spotify.com/artist/4LahtNGtJiYUVUTw6yjR8f) | [Fluide+](https://open.spotify.com/album/3IaE3CdbwJa2gFuRtX7ql6) | 2:35 | 2023-06-01 | 2023-07-07 |
 | [V.I.P.](https://open.spotify.com/track/3JS8amcXIpq51ZEpfziQOb) | [DJ MAC](https://open.spotify.com/artist/3EC3CDEkhHY70vYFBVasZc), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [V.I.P.](https://open.spotify.com/album/1yBU6Ro4hKtAoLxrRuVu1j) | 2:08 | 2025-04-17 | 2025-05-02 |
 | [V6](https://open.spotify.com/track/7aBd8qMooFYZtQQwQJFAdX) | [Ireland Boss](https://open.spotify.com/artist/3JoZVMSSVzYhhMQ5dthRuT), [Malie Donn](https://open.spotify.com/artist/0sP79Bq6zJj6EskteStNBW) | [V6](https://open.spotify.com/album/1VtkkjbqEL8STeBQmpy1Fp) | 2:42 | 2023-09-21 | 2023-12-08 |
+| [VALHALLA](https://open.spotify.com/track/7o8YOKE4hL0jb9Cuqlbv8j) | [Yo Joshy](https://open.spotify.com/artist/6nqbsvHdj0s0m3JVobStqm) | [VALHALLA](https://open.spotify.com/album/73dCbutyxgXwuu3IyOLLxn) | 2:18 | 2026-04-30 |  |
 | [Vibe \(feat\. Popcaan\)](https://open.spotify.com/track/4VFk3eto9JaRlOQokHWZZB) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Vibe](https://open.spotify.com/album/4vY5bGXeYLqW2gQqADFMty) | 3:15 | 2021-12-22 | 2022-04-01 |
 | [Vibes Weekend](https://open.spotify.com/track/0Vx37NnFDCBLjTn1TmOq1Y) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [Vibes Weekend](https://open.spotify.com/album/5xLNwO9hSAWMEQN1fNcIsK) | 2:53 | 2023-05-11 | 2023-06-23 |
 | [Vieux clébard](https://open.spotify.com/track/4gIMsglbc74V6os6lsRap6) | [TKD](https://open.spotify.com/artist/0MzR7uO3295wLWGYILYKLV), [Natoxie](https://open.spotify.com/artist/1Wqloe5S1i29Ff7YiWg0x5) | [Vieux clébard](https://open.spotify.com/album/0zBnTN1UNpWxNyVJVLpcZ8) | 3:07 | 2024-06-06 | 2025-03-28 |

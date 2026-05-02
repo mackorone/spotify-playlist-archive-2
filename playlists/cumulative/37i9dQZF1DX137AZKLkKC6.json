@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-07",
-  "description": "Las grandes del Despecho y el G\u00e9nero Popular. Con Yeison Jimenez en portada \ud83e\udd0d",
+  "description": "Las grandes del Despecho y el G\u00e9nero Popular. Con Sebasti\u00e1n Ayala y Jhonny Rivera en portada.",
   "name": "La + Popular",
   "tracks": [
     {
@@ -570,6 +570,24 @@
       "duration_ms": 190165,
       "name": "As\u00ed Es La Vida",
       "url": "https://open.spotify.com/track/6ZMXWQmqoPXDpQIZb8Ek7L"
+    },
+    {
+      "album": {
+        "name": "As\u00ed es nuestro amor",
+        "url": "https://open.spotify.com/album/1kVY3Ge9M04L65RT6uqXQb"
+      },
+      "artists": [
+        {
+          "name": "Luis Alfonso",
+          "url": "https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169750,
+      "name": "As\u00ed es nuestro amor",
+      "url": "https://open.spotify.com/track/3OjVagLjye1BVTSEPeC0et"
     },
     {
       "album": {
@@ -2058,7 +2076,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 204608,
       "name": "El Mozo",
       "url": "https://open.spotify.com/track/3JneBHxVFNoys9wYrOg4cM"
@@ -2756,6 +2774,28 @@
       "duration_ms": 199761,
       "name": "Herida",
       "url": "https://open.spotify.com/track/6k2jVfXd9EQudNdOFmazSi"
+    },
+    {
+      "album": {
+        "name": "Despecho a 2 Voces",
+        "url": "https://open.spotify.com/album/65OKqVsg03YaIul5cSlvDY"
+      },
+      "artists": [
+        {
+          "name": "Paola Jara",
+          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
+        },
+        {
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153103,
+      "name": "Infidelidad",
+      "url": "https://open.spotify.com/track/21TwmbukrZe8iJ6rwwZdoA"
     },
     {
       "album": {
@@ -3712,7 +3752,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 124302,
       "name": "Me Retir\u00e9",
       "url": "https://open.spotify.com/track/2VtmkxL1Fif90UxVdFIxI7"
@@ -5970,7 +6010,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 181557,
       "name": "Te Quiero Ver Campe\u00f3n (feat. Paola Jara, Jhonny Rivera, Jhon Alex Casta\u00f1o, LUISITO MU\u00d1OZ, Ciro Qui\u00f1onez, Francy & Arelys Henao)",
       "url": "https://open.spotify.com/track/2xqZZ53IEGNM0W6aSG2Z4U"
@@ -6424,6 +6464,28 @@
       "duration_ms": 189025,
       "name": "Vete",
       "url": "https://open.spotify.com/track/6cZcn282SIMmuO8FHN8634"
+    },
+    {
+      "album": {
+        "name": "Vive Tu Vida",
+        "url": "https://open.spotify.com/album/1b4CTfE2CODXCgSIW0nXSY"
+      },
+      "artists": [
+        {
+          "name": "Sebasti\u00e1n Ayala",
+          "url": "https://open.spotify.com/artist/2lMpNav4JbeQ3XuPp6yNPv"
+        },
+        {
+          "name": "Jhonny Rivera",
+          "url": "https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157103,
+      "name": "Vive Tu Vida",
+      "url": "https://open.spotify.com/track/3DzNgv4wLRfR90ZKl5raAZ"
     },
     {
       "album": {

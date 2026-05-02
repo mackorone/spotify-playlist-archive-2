@@ -2959,6 +2959,24 @@
     },
     {
       "album": {
+        "name": "Blackbird Rising & Blackbird Returns",
+        "url": "https://open.spotify.com/album/33uiWiMlb1R43RQXCg6NLp"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144610,
+      "name": "Blackbird Rising",
+      "url": "https://open.spotify.com/track/0G8jjCezXWuDCLx4fXzBxN"
+    },
+    {
+      "album": {
         "name": "blood orange",
         "url": "https://open.spotify.com/album/37yvnkCIap1MxePjR7RSF9"
       },
@@ -10577,6 +10595,32 @@
     },
     {
       "album": {
+        "name": "Minuet Variation (After String Quintet in E Major, G.275/Op.11 No.5: III. Minuet)",
+        "url": "https://open.spotify.com/album/12EqQFLhAs8dM9KM7g9cdS"
+      },
+      "artists": [
+        {
+          "name": "Luigi Boccherini",
+          "url": "https://open.spotify.com/artist/2l4vGfFV7e46yO8lxfxR76"
+        },
+        {
+          "name": "Jan-Peter Kl\u00f6pfel",
+          "url": "https://open.spotify.com/artist/7fpQh1lgdWnKPcAVJHsl4h"
+        },
+        {
+          "name": "Gabriele Bagnati",
+          "url": "https://open.spotify.com/artist/0OG7Jsxh29ESIeAHlElBOj"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132212,
+      "name": "Minuet Variation (After String Quintet in E Major, G.275/Op.11 No.5: III. Minuet)",
+      "url": "https://open.spotify.com/track/6HYXPAw83ByEFgrfJAQunD"
+    },
+    {
+      "album": {
         "name": "Mirando",
         "url": "https://open.spotify.com/album/4vt1yOVU6drO7rCYArTjej"
       },
@@ -15380,6 +15424,28 @@
       "duration_ms": 181920,
       "name": "Schumann: Kinderszenen, Op. 15: VII. Tr\u00e4umerei",
       "url": "https://open.spotify.com/track/09TW4n0avALTSmPsnmFoxc"
+    },
+    {
+      "album": {
+        "name": "Schubert: Piano Sonata No. 17 in D Major, D. 850 - Schumann: Kinderszenen, Op. 15",
+        "url": "https://open.spotify.com/album/6Nb9x9fEXhJaq6iG9dwoKR"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Arcadi Volodos",
+          "url": "https://open.spotify.com/artist/2DG9aIMzcln3w7SIVGGnmg"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150413,
+      "name": "Schumann: Kinderszenen, Op. 15: XII. Kind im Einschlummern",
+      "url": "https://open.spotify.com/track/3orIBTIo0Co7tcfX13vZ2Q"
     },
     {
       "album": {

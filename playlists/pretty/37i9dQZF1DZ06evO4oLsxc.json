@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afFKAAAAAAAo5VASq3af07z3fSrsLbS4",
+  "snapshot_id": "afKbgAAAAACzTxnwxLwg/UCwKyaB9IZT",
   "tracks": [
     {
       "added_at": null,
@@ -427,22 +427,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "nag champa",
-        "url": "https://open.spotify.com/album/5l8rGjeehGlrv6nxrRAvkj"
+        "name": "VENOLOGY",
+        "url": "https://open.spotify.com/album/1s8xKntAE2o35KgQnkSKje"
       },
       "artists": [
         {
-          "name": "agajon",
-          "url": "https://open.spotify.com/artist/5ZqhVXS0lKksMwTqFTBY3k"
-        },
-        {
           "name": "Venna",
           "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        },
+        {
+          "name": "Marco Bernardis",
+          "url": "https://open.spotify.com/artist/2paaQ0WHxSynDwZkcBtdbv"
         }
       ],
-      "duration_ms": 172190,
-      "name": "so simple",
-      "url": "https://open.spotify.com/track/6cxiPW3AEDukD6zBwlyRw5"
+      "duration_ms": 254333,
+      "name": "The Last Poets",
+      "url": "https://open.spotify.com/track/2VHMxsaWF7okBa3fKuRqP8"
     },
     {
       "added_at": null,
@@ -463,22 +463,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "VENOLOGY",
-        "url": "https://open.spotify.com/album/1s8xKntAE2o35KgQnkSKje"
+        "name": "nag champa",
+        "url": "https://open.spotify.com/album/5l8rGjeehGlrv6nxrRAvkj"
       },
       "artists": [
         {
-          "name": "Venna",
-          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+          "name": "agajon",
+          "url": "https://open.spotify.com/artist/5ZqhVXS0lKksMwTqFTBY3k"
         },
         {
-          "name": "Marco Bernardis",
-          "url": "https://open.spotify.com/artist/2paaQ0WHxSynDwZkcBtdbv"
+          "name": "Venna",
+          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
         }
       ],
-      "duration_ms": 254333,
-      "name": "The Last Poets",
-      "url": "https://open.spotify.com/track/2VHMxsaWF7okBa3fKuRqP8"
+      "duration_ms": 172190,
+      "name": "so simple",
+      "url": "https://open.spotify.com/track/6cxiPW3AEDukD6zBwlyRw5"
     },
     {
       "added_at": null,
@@ -523,6 +523,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "VENOLOGY",
+        "url": "https://open.spotify.com/album/1s8xKntAE2o35KgQnkSKje"
+      },
+      "artists": [
+        {
+          "name": "Venna",
+          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        }
+      ],
+      "duration_ms": 144746,
+      "name": "Aroma",
+      "url": "https://open.spotify.com/track/7yS7PlmXpEQGGcJInMMuow"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Can't Get Enough (feat. Rachel Chinouriri & Venna)",
         "url": "https://open.spotify.com/album/4XwNMKpClzhYVnhvHuT3QM"
       },
@@ -547,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "VENOLOGY",
-        "url": "https://open.spotify.com/album/1s8xKntAE2o35KgQnkSKje"
-      },
-      "artists": [
-        {
-          "name": "Venna",
-          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
-        }
-      ],
-      "duration_ms": 144746,
-      "name": "Aroma",
-      "url": "https://open.spotify.com/track/7yS7PlmXpEQGGcJInMMuow"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Patience (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1QEyTusbAcW5xMGGvWQkyC"
       },
@@ -583,26 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Showbiz!",
-        "url": "https://open.spotify.com/album/3M1PhSsHmAlh79bAz9jBZs"
-      },
-      "artists": [
-        {
-          "name": "MIKE",
-          "url": "https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU"
-        },
-        {
-          "name": "Venna",
-          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
-        }
-      ],
-      "duration_ms": 173021,
-      "name": "Artist of the Century",
-      "url": "https://open.spotify.com/track/0IRtsYqlZrATSdxuRS90Ip"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tam Tam",
         "url": "https://open.spotify.com/album/0RICZt0FIkBcLYZ9Z9Mqhx"
       },
@@ -619,6 +599,26 @@
       "duration_ms": 212933,
       "name": "Tam Tam",
       "url": "https://open.spotify.com/track/7FSDdDPjsoZKdTXDyK8vm6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Showbiz!",
+        "url": "https://open.spotify.com/album/3M1PhSsHmAlh79bAz9jBZs"
+      },
+      "artists": [
+        {
+          "name": "MIKE",
+          "url": "https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU"
+        },
+        {
+          "name": "Venna",
+          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        }
+      ],
+      "duration_ms": 173021,
+      "name": "Artist of the Century",
+      "url": "https://open.spotify.com/track/0IRtsYqlZrATSdxuRS90Ip"
     },
     {
       "added_at": null,
@@ -715,30 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ambrosia",
-        "url": "https://open.spotify.com/album/02HL5yDyMnfyhw1Wgi45xj"
-      },
-      "artists": [
-        {
-          "name": "EMIL",
-          "url": "https://open.spotify.com/artist/0qcYzMPOCqc66SyT0hyfQb"
-        },
-        {
-          "name": "King Kay",
-          "url": "https://open.spotify.com/artist/5QS58BjJTzNzvVsUiFR4zB"
-        },
-        {
-          "name": "Venna",
-          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
-        }
-      ],
-      "duration_ms": 181935,
-      "name": "Perfect Peace",
-      "url": "https://open.spotify.com/track/0taUesXNdcrBxJBUR4FXYg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BARE SUGAR",
         "url": "https://open.spotify.com/album/1FEv4lzzX2jNBvFpWX8InD"
       },
@@ -759,6 +735,30 @@
       "duration_ms": 164045,
       "name": "july (feat. Tiana Major9 & Venna)",
       "url": "https://open.spotify.com/track/2eRYY2aDP2VOWwL6bIcakY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ambrosia",
+        "url": "https://open.spotify.com/album/02HL5yDyMnfyhw1Wgi45xj"
+      },
+      "artists": [
+        {
+          "name": "EMIL",
+          "url": "https://open.spotify.com/artist/0qcYzMPOCqc66SyT0hyfQb"
+        },
+        {
+          "name": "King Kay",
+          "url": "https://open.spotify.com/artist/5QS58BjJTzNzvVsUiFR4zB"
+        },
+        {
+          "name": "Venna",
+          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        }
+      ],
+      "duration_ms": 181935,
+      "name": "Perfect Peace",
+      "url": "https://open.spotify.com/track/0taUesXNdcrBxJBUR4FXYg"
     },
     {
       "added_at": null,

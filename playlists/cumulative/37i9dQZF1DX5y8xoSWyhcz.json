@@ -560,7 +560,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 203640,
       "name": "95",
       "url": "https://open.spotify.com/track/6YPKnFbLT4i08pAbeCjus1"
@@ -596,7 +596,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 202823,
       "name": "A Brand New Color",
       "url": "https://open.spotify.com/track/1kzKqrPUHH7F8mCKouDapV"
@@ -4708,7 +4708,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 180523,
       "name": "Chasing a Thread",
       "url": "https://open.spotify.com/track/0VOUG1FnZ3Kbb81fIzQ7rz"
@@ -9142,6 +9142,24 @@
       "duration_ms": 174622,
       "name": "Forevermore",
       "url": "https://open.spotify.com/track/4r4uSdJJKV8RIcNKH7pX54"
+    },
+    {
+      "album": {
+        "name": "forget him",
+        "url": "https://open.spotify.com/album/7c1tTnLalgefGACri3F4dB"
+      },
+      "artists": [
+        {
+          "name": "josh conway",
+          "url": "https://open.spotify.com/artist/7Fg3bk6FxiFhFnrtXxJNR7"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203000,
+      "name": "forget him",
+      "url": "https://open.spotify.com/track/5C2i3yvlxw6qy1AQD8R08N"
     },
     {
       "album": {
@@ -14394,7 +14412,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 212699,
       "name": "Juna",
       "url": "https://open.spotify.com/track/1IAwBNAULjZsqB2SHZAkw0"
@@ -15887,6 +15905,28 @@
     },
     {
       "album": {
+        "name": "losing my mind",
+        "url": "https://open.spotify.com/album/0fbCDBQeLCLmKhInYPkWPI"
+      },
+      "artists": [
+        {
+          "name": "distantiate",
+          "url": "https://open.spotify.com/artist/5b6MSXdOA8tITIBpGwlmej"
+        },
+        {
+          "name": "summa",
+          "url": "https://open.spotify.com/artist/5VrWodNh7FoTg2DEaA8eHS"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90952,
+      "name": "losing my mind",
+      "url": "https://open.spotify.com/track/7rE64MnXWjRl6m3lMQDwR1"
+    },
+    {
+      "album": {
         "name": "channel ORANGE",
         "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
       },
@@ -16158,7 +16198,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 302214,
       "name": "Lover's Spit",
       "url": "https://open.spotify.com/track/6nFGQShM8Ft76agBl8hNjI"
@@ -16748,7 +16788,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 185793,
       "name": "Medusa's Song",
       "url": "https://open.spotify.com/track/1paCFFB86R4cUSACf8Q52T"
@@ -17972,7 +18012,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 166716,
       "name": "NEXT TO YOU",
       "url": "https://open.spotify.com/track/2hkvQvD6X5Q9zUhSdouTx3"
@@ -18160,6 +18200,24 @@
       "duration_ms": 161536,
       "name": "no song without you",
       "url": "https://open.spotify.com/track/3KKUf8F2hktFscLgbH4YwR"
+    },
+    {
+      "album": {
+        "name": "No Sudden Movements",
+        "url": "https://open.spotify.com/album/3Uhs3ZLIzEpJMx91CXlO2S"
+      },
+      "artists": [
+        {
+          "name": "Fraud Perry",
+          "url": "https://open.spotify.com/artist/21bSNtXANYKKlrjo4RVTQm"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156572,
+      "name": "No Sudden Movements",
+      "url": "https://open.spotify.com/track/3JE3FICmxG25cuwblbIeaz"
     },
     {
       "album": {
@@ -19076,7 +19134,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 183866,
       "name": "Otherside",
       "url": "https://open.spotify.com/track/1xXwHbCF1Vm9DHxxQkef4i"
@@ -20477,6 +20535,24 @@
     },
     {
       "album": {
+        "name": "Promise?",
+        "url": "https://open.spotify.com/album/4C0Jn8EWIX77dDQum3oNJO"
+      },
+      "artists": [
+        {
+          "name": "Bella Kay",
+          "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192100,
+      "name": "Promise?",
+      "url": "https://open.spotify.com/track/6Or4gNQC2EkixDGiufQ3F4"
+    },
+    {
+      "album": {
         "name": "flounder",
         "url": "https://open.spotify.com/album/3AmWQhIXHawKYgthdEJSLJ"
       },
@@ -21293,6 +21369,28 @@
     },
     {
       "album": {
+        "name": "Romantic Comedy",
+        "url": "https://open.spotify.com/album/0ryj5m8ucwFdyPLlNiM6dp"
+      },
+      "artists": [
+        {
+          "name": "Jacky Levare",
+          "url": "https://open.spotify.com/artist/5t2gTSWJpowupj19yONvpy"
+        },
+        {
+          "name": "Siibii",
+          "url": "https://open.spotify.com/artist/5xIv9tG1tb1tBj3PsjIqgi"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169451,
+      "name": "Romantic Comedy",
+      "url": "https://open.spotify.com/track/2j0cx1SiGTEZyjVxLpX4Tl"
+    },
+    {
+      "album": {
         "name": "Thunderhead",
         "url": "https://open.spotify.com/album/75vEyuCyUQKUwjL97t8xed"
       },
@@ -21888,7 +21986,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 192173,
       "name": "Say My Name In Your Sleep",
       "url": "https://open.spotify.com/track/12zzqWVkgNwlMf8BJ577I7"
@@ -23290,6 +23388,24 @@
       "duration_ms": 256671,
       "name": "Someone Special",
       "url": "https://open.spotify.com/track/59JRqDcEQi6o3ZLZKvqo12"
+    },
+    {
+      "album": {
+        "name": "someone to hold",
+        "url": "https://open.spotify.com/album/5MiK6upOI21rT068x7zj9I"
+      },
+      "artists": [
+        {
+          "name": "WIMY",
+          "url": "https://open.spotify.com/artist/5KOmVrCheNYiqcB974SI3Z"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161086,
+      "name": "someone to hold",
+      "url": "https://open.spotify.com/track/1OzVgesO7hRNH4uZKzVkZR"
     },
     {
       "album": {
@@ -26343,6 +26459,24 @@
     },
     {
       "album": {
+        "name": "the view",
+        "url": "https://open.spotify.com/album/64R9mhhsWv5mRBk0g8h2gn"
+      },
+      "artists": [
+        {
+          "name": "camille blackman",
+          "url": "https://open.spotify.com/artist/5jswcyyCL6uoFlF9TaEtHc"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233048,
+      "name": "the view",
+      "url": "https://open.spotify.com/track/3BmYd9pir9KlD2uSd0KPmF"
+    },
+    {
+      "album": {
         "name": "the way that you see me (feat. Ayleen Valentine)",
         "url": "https://open.spotify.com/album/4V0khjs7JiKzbJdYMukRhm"
       },
@@ -28190,6 +28324,24 @@
       "duration_ms": 158974,
       "name": "Warnings",
       "url": "https://open.spotify.com/track/2Uv26CPjDY9vBaJq3LID0q"
+    },
+    {
+      "album": {
+        "name": "Wash You Out",
+        "url": "https://open.spotify.com/album/6iX4dOEqWg6YgKCfgzSItF"
+      },
+      "artists": [
+        {
+          "name": "Born At Midnite",
+          "url": "https://open.spotify.com/artist/3ejfr3ZL4rEFokdVb33dPa"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136800,
+      "name": "Wash You Out",
+      "url": "https://open.spotify.com/track/7yupAV8AOHwAecLb0Cnnnq"
     },
     {
       "album": {

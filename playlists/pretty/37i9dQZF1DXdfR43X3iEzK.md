@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfR43X3iEzK.md) - [plain]
 
 > my alt/pop could mean anything ⚔️<br/>cover: Nxdia
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,468 likes - 80 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,477 likes - 80 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfR43X3iEzK.md) - [plain]
 | 7 | [OLD TECHNOLOGY](https://open.spotify.com/track/02rYuBEPjNLm74mN9IxH0v) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [OLD TECHNOLOGY](https://open.spotify.com/album/6GkFvjqAuoIXk1SoAmG6Iw) | 2:39 |
 | 8 | [Fall with Me](https://open.spotify.com/track/2vylf7rmqNdkIQkwTeAjnc) | [Phoebe Ryan](https://open.spotify.com/artist/4N874uPqBka1QiCvnCVOtr) | [Fall with Me](https://open.spotify.com/album/1odX9n5o8CmZyuG1pANrHv) | 2:35 |
 | 9 | [Piece of Your Love](https://open.spotify.com/track/51vU8qy0LN1SD8wf1U6WLp) | [GRESLEY](https://open.spotify.com/artist/3jH7tPNd2gFLXAekbpUCOf) | [Songs I Wrote Since She Left](https://open.spotify.com/album/3aNf0dE1084J6qV0NvLbQP) | 3:25 |
-| 10 | [Track 1](https://open.spotify.com/track/6HjceZQpyeZgwbvPhikh6I) | [White Flowers](https://open.spotify.com/artist/3Rge2zrmllt5FBUahfoX8J) | [Dreams For Somebody Else](https://open.spotify.com/album/4t0LiNXBlTuPifRvLivsDU) | 0:00 |
+| 10 | [Spinning](https://open.spotify.com/track/6HjceZQpyeZgwbvPhikh6I) | [White Flowers](https://open.spotify.com/artist/3Rge2zrmllt5FBUahfoX8J) | [Dreams For Somebody Else](https://open.spotify.com/album/4t0LiNXBlTuPifRvLivsDU) | 4:16 |
 | 11 | [2515](https://open.spotify.com/track/6oJRAA2pF2VK8fmxTncqiG) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [2515](https://open.spotify.com/album/4n98iy8MVJkh2cELKgazOR) | 4:01 |
 | 12 | [Berghain](https://open.spotify.com/track/6V4ntlX6608rd3Ec5SpVhj) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Berghain](https://open.spotify.com/album/0avVU24xBfXW7ItE0xtzN2) | 2:58 |
 | 13 | [Nowhere Tonight](https://open.spotify.com/track/0XDeOMHaHFlJr6VbyfVAn1) | [COSIMA](https://open.spotify.com/artist/2BccVcXzmwMB2b2mDEPuQH) | [Nowhere Tonight](https://open.spotify.com/album/4rzoqUunz8fSmmPJMUFU20) | 2:51 |

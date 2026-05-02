@@ -2183,6 +2183,24 @@
     },
     {
       "album": {
+        "name": "Andromeda",
+        "url": "https://open.spotify.com/album/6nUR3QC705LwJ23xe3xGou"
+      },
+      "artists": [
+        {
+          "name": "Simon Phillips",
+          "url": "https://open.spotify.com/artist/6pPx8jYe1vzHuQea1st8Iy"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 407552,
+      "name": "Andromeda",
+      "url": "https://open.spotify.com/track/0A1BAZGroEdUY7XiokOuWe"
+    },
+    {
+      "album": {
         "name": "New Dawn",
         "url": "https://open.spotify.com/album/2p4gmjaB8Ny6bsuaDeZtIN"
       },
@@ -9111,6 +9129,24 @@
     },
     {
       "album": {
+        "name": "Dawn Patrol",
+        "url": "https://open.spotify.com/album/5BPZwwJTfD90jBlE9I8Wic"
+      },
+      "artists": [
+        {
+          "name": "Yazz Ahmed",
+          "url": "https://open.spotify.com/artist/1srvW9AP2k4GLhS3hlC3IN"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 420630,
+      "name": "Dawn Patrol",
+      "url": "https://open.spotify.com/track/0k0iArgkcuCIbug49dhrzR"
+    },
+    {
+      "album": {
         "name": "Day Glow",
         "url": "https://open.spotify.com/album/08AVQmJWvNES8OO0eqSYzD"
       },
@@ -10350,6 +10386,24 @@
       "duration_ms": 519603,
       "name": "Dream State",
       "url": "https://open.spotify.com/track/1nLU0aUyHaza8hZm1Jp6lu"
+    },
+    {
+      "album": {
+        "name": "Dream State",
+        "url": "https://open.spotify.com/album/1OunxWOEOvaPWLgH4awgKu"
+      },
+      "artists": [
+        {
+          "name": "Raffy Bushman",
+          "url": "https://open.spotify.com/artist/4xX2QeWsypmEv9w4u9P6xC"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233152,
+      "name": "Dream State",
+      "url": "https://open.spotify.com/track/4Bh2G7uXuQfbRgPx5UKnUV"
     },
     {
       "album": {
@@ -16989,6 +17043,24 @@
     },
     {
       "album": {
+        "name": "I. Eternal Glimpse",
+        "url": "https://open.spotify.com/album/0yiN2cYvcVSc7tW1o5OsXk"
+      },
+      "artists": [
+        {
+          "name": "Emmet Cohen",
+          "url": "https://open.spotify.com/artist/3kyGmsyTEpjopA521SSlLT"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328773,
+      "name": "I. Eternal Glimpse",
+      "url": "https://open.spotify.com/track/0p3dbo6jAN3ZDrkE5HPfQf"
+    },
+    {
+      "album": {
         "name": "Ibiza",
         "url": "https://open.spotify.com/album/2S8dRCPQLDWoRyfslTLivw"
       },
@@ -17730,7 +17802,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 267880,
       "name": "Infant Eyes",
       "url": "https://open.spotify.com/track/45hxUyJyJHO7rucki6bxGD"
@@ -20040,6 +20112,24 @@
       "duration_ms": 272535,
       "name": "Las Rosas No Hablan (feat. C\u00e9cile McLorin Salvant)",
       "url": "https://open.spotify.com/track/0K8VCnJbsWEAyq0cW33OkN"
+    },
+    {
+      "album": {
+        "name": "LAS TROMPETAS DE NAEL",
+        "url": "https://open.spotify.com/album/3qiuYL6XZVmj9mCT4XECqu"
+      },
+      "artists": [
+        {
+          "name": "Ibrahim Maalouf",
+          "url": "https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "LAS TROMPETAS DE NAEL",
+      "url": "https://open.spotify.com/track/333HTubjaxlX6lrTHytGS8"
     },
     {
       "album": {
@@ -28444,7 +28534,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 336026,
       "name": "Point Of View",
       "url": "https://open.spotify.com/track/27MWj3buZO5OOZYpXJgAkx"
@@ -38138,7 +38228,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 280616,
       "name": "The White Lady Loves You More",
       "url": "https://open.spotify.com/track/4sXssVKPjxK0RBo27apLpu"
@@ -41624,7 +41714,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 710880,
       "name": "We would lift our Voice...",
       "url": "https://open.spotify.com/track/7b5NdyLajyNB2KT5oKx4hm"
@@ -41658,7 +41748,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 189135,
       "name": "Wear and Tear",
       "url": "https://open.spotify.com/track/4oGAWdRWgD0F5WGytn12JI"
@@ -41720,7 +41810,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 332706,
       "name": "Well You Needn\u2019t",
       "url": "https://open.spotify.com/track/2TsL3igKYonyDXrypi9Bni"
@@ -42464,6 +42554,32 @@
       "duration_ms": 273190,
       "name": "Wisdom Is Eternal (For Barry Harris)",
       "url": "https://open.spotify.com/track/4N2yukzkAEVo5vRlVsaHZ7"
+    },
+    {
+      "album": {
+        "name": "With Every Breath I Take",
+        "url": "https://open.spotify.com/album/5IzHaM5J7zgHk7GMBEnXDb"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9cile McLorin Salvant",
+          "url": "https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn"
+        },
+        {
+          "name": "Metropole Orkest",
+          "url": "https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI"
+        },
+        {
+          "name": "Jules Buckley",
+          "url": "https://open.spotify.com/artist/5gGbAKDXhDoBXIJe8SuBvX"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224466,
+      "name": "With Every Breath I Take",
+      "url": "https://open.spotify.com/track/70VMUCYO8Q0pjnXlGB7pCW"
     },
     {
       "album": {
@@ -43796,7 +43912,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 179000,
       "name": "\u66f4\u65b0\u3068\u62e1\u5f35",
       "url": "https://open.spotify.com/track/3KdTiKfG5R6kLHsb6Amtcu"
@@ -43854,6 +43970,24 @@
       "duration_ms": 273000,
       "name": "\u6b8b\u9177\u306a\u5929\u4f7f\u306e\u30c6\u30fc\u30bc",
       "url": "https://open.spotify.com/track/32LhqU8umTrPAKN95z51d0"
+    },
+    {
+      "album": {
+        "name": "\u6eb6\u3051\u306a\u3044\u3067\uff01\u30a2\u30a4\u30b9\u30af\u30ea\u30fc\u30e0\uff01",
+        "url": "https://open.spotify.com/album/0frgi4ydJP5pw3woINwu4H"
+      },
+      "artists": [
+        {
+          "name": "H ZETTRIO",
+          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235000,
+      "name": "\u6eb6\u3051\u306a\u3044\u3067\uff01\u30a2\u30a4\u30b9\u30af\u30ea\u30fc\u30e0\uff01",
+      "url": "https://open.spotify.com/track/2FXNIk6Y5CLWCFevVUevsX"
     },
     {
       "album": {

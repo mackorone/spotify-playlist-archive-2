@@ -56,7 +56,7 @@
 | [Wake Me Up Before You Go\-Go](https://open.spotify.com/track/0ikz6tENMONtK6qGkOrU3c) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [Make It Big](https://open.spotify.com/album/02f3y3NTsddjdUMoNiBppI) | 3:51 | 2024-03-18 |  |
 | [Who Am I](https://open.spotify.com/track/74l0jBScdgJr6guky8aMXS) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [Keep On](https://open.spotify.com/album/7G7cYqdhZqAivcQbvOtHUH) | 4:27 | 2024-03-18 |  |
 | [You Have Been Loved](https://open.spotify.com/track/1W19bowAmX4WJusclbWIbM) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Older](https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF) | 5:30 | 2024-03-18 |  |
-| [You Make Me Feel \(Mighty Real\)](https://open.spotify.com/track/3lwNHGO5yJLNpHsMlvL9IF) | [Jimmy Somerville](https://open.spotify.com/artist/6LQeBFIfD4C22RJVVjQ6S7) | [The Very Best Of Jimmy Somerville, Bronski Beat & The Communards](https://open.spotify.com/album/1B167z084g8Q52jRazKLVZ) | 3:55 | 2024-03-18 |  |
+| [You Make Me Feel \(Mighty Real\)](https://open.spotify.com/track/3lwNHGO5yJLNpHsMlvL9IF) | [Jimmy Somerville](https://open.spotify.com/artist/6LQeBFIfD4C22RJVVjQ6S7) | [The Very Best Of Jimmy Somerville, Bronski Beat & The Communards](https://open.spotify.com/album/1B167z084g8Q52jRazKLVZ) | 3:57 | 2024-03-18 |  |
 | [You Make Me Feel \(Mighty Real\)](https://open.spotify.com/track/3j1fs2X0ibiihnM4Fd4A2D) | [Sylvester](https://open.spotify.com/artist/5TGTpu4g8siFOIctZuQO7y) | [Step II](https://open.spotify.com/album/0yltJZ7nTGw97P0Fm7VhX8) | 6:35 | 2024-03-18 |  |
 
 \*This playlist was first scraped on 2025-10-28. Prior content cannot be recovered.

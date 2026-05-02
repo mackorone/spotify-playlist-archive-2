@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "\u00a1En este punto tropical, se encuentra un poco de todo! Foto: Kany Garc\u00eda y Juan Luis Guerra. ",
+  "description": "\u00a1En este punto tropical, se encuentra un poco de todo! Foto: Kany Garc\u00eda y Juan Luis Guerra.",
   "name": "Punto Tropical",
   "tracks": [
     {
@@ -384,6 +384,24 @@
       "duration_ms": 214080,
       "name": "Amor Sincero",
       "url": "https://open.spotify.com/track/2ay6PrLaK03kYDh7EZIi7y"
+    },
+    {
+      "album": {
+        "name": "Salsa de Barrio Cale\u00f1o",
+        "url": "https://open.spotify.com/album/1P5ucLHjWjrfYEYULtGWX0"
+      },
+      "artists": [
+        {
+          "name": "Guayac\u00e1n Orquesta",
+          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320946,
+      "name": "Am\u00e9 a Mi Manera",
+      "url": "https://open.spotify.com/track/0ixOWBxBHVjEgukprnmEp9"
     },
     {
       "album": {
@@ -2240,7 +2258,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 195000,
       "name": "El Valle Es El Valle",
       "url": "https://open.spotify.com/track/5ONQwSGPEnlVJTsXqTXCqu"
@@ -5872,6 +5890,24 @@
       "duration_ms": 192452,
       "name": "Tuki Tuki",
       "url": "https://open.spotify.com/track/0jtuFuZNhMV142OIXPonEO"
+    },
+    {
+      "album": {
+        "name": "El \u00daltimo Disco Vol. 1",
+        "url": "https://open.spotify.com/album/5AxmSsnsKHfxZeTU2n1vOk"
+      },
+      "artists": [
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152711,
+      "name": "Tuyo y Nada M\u00e1s",
+      "url": "https://open.spotify.com/track/45mOAFri9j18zW3PbJvJ19"
     },
     {
       "album": {

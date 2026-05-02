@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Canada.
 
-4,977 songs - 11 day 0 hr 35 min
+4,979 songs - 11 day 0 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -773,7 +773,7 @@
 | [Casper](https://open.spotify.com/track/1B4gJRq61xTs6r1O0Uq2iY) | [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J) | [The Last Rocket](https://open.spotify.com/album/5XRCcUfwtLNQflDd9cfz4U) | 3:17 | 2022-11-03 | 2022-11-11 |
 | [Casual](https://open.spotify.com/track/3WSOUb3U7tqURbBSgZTrZX) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:52 | 2024-03-17 | 2024-07-16 |
 | [Catch Catch](https://open.spotify.com/track/2O9bMJticxbQ8FH3NiQ7Xh) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) | [LOVE CATCHER](https://open.spotify.com/album/1IxQnpYIIFY9F2IVVsD27F) | 3:00 | 2026-03-31 | 2026-04-27 |
-| [Catch Catch \(Chinese Ver.\)](https://open.spotify.com/track/29rzWFatC5WwBw2YypQEzC) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) | [Catch Catch \(Chinese Ver.\)](https://open.spotify.com/album/1AI7g5WoesGtM3c5BROUoQ) | 3:00 | 2026-04-26 |  |
+| [Catch Catch \(Chinese Ver.\)](https://open.spotify.com/track/29rzWFatC5WwBw2YypQEzC) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) | [Catch Catch \(Chinese Ver.\)](https://open.spotify.com/album/1AI7g5WoesGtM3c5BROUoQ) | 3:00 | 2026-04-26 | 2026-05-02 |
 | [Catch Me Outside 2](https://open.spotify.com/track/000zYgBirXxgFkpAXOt0EB) | [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [Catch Me Outside 2](https://open.spotify.com/album/3NBaHOQq0oj586RZBMkxQG) | 2:06 | 2025-07-22 | 2025-07-24 |
 | [CATFISH](https://open.spotify.com/track/3QQvSQKV8YmQxGolwwWe59) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal](https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc) | 2:14 | 2024-12-19 | 2025-02-18 |
 | [Cause We've Ended as Lovers](https://open.spotify.com/track/4zoQ3EqopTIGmK2c2rPV5t) | [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Blow By Blow](https://open.spotify.com/album/6fhTDVBs7qeoP3254hMu6u) | 5:42 | 2023-01-15 | 2023-01-21 |
@@ -2132,7 +2132,7 @@
 | [Imagínate](https://open.spotify.com/track/4zbEItKoaRId1vRZkoO0Uh) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Imagínate](https://open.spotify.com/album/3kzUHIIJdOeP7mwyfT3qJ8) | 2:50 | 2025-01-17 | 2025-01-22 |
 | [IMMACULATE](https://open.spotify.com/track/5Txeau6Fi96zS4THXUJ4w7) | [VISXGE](https://open.spotify.com/artist/6kLsCQ1gKvJmjmC8XbfqFE) | [IMMACULATE](https://open.spotify.com/album/4dWpLZBzW0M5FG3H3nbtTt) | 2:20 | 2022-07-27 | 2022-08-17 |
 | [Impose](https://open.spotify.com/track/3kMc83bWNdcaX1dmARQIII) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [Impose](https://open.spotify.com/album/0WGyY2UCxFPryMrmYYVIzR) | 4:23 | 2025-09-30 | 2025-10-03 |
-| [Impostor Syndrome](https://open.spotify.com/track/33KU9huHP1Lv1UWWVkuTYd) | [Sidney Gish](https://open.spotify.com/artist/2orBKFyc84jo9AZH5jarhI) | [No Dogs Allowed](https://open.spotify.com/album/7mXf592qrnsQ7qAvV7Aluz) | 4:54 | 2026-04-06 |  |
+| [Impostor Syndrome](https://open.spotify.com/track/33KU9huHP1Lv1UWWVkuTYd) | [Sidney Gish](https://open.spotify.com/artist/2orBKFyc84jo9AZH5jarhI) | [No Dogs Allowed](https://open.spotify.com/album/7mXf592qrnsQ7qAvV7Aluz) | 4:54 | 2026-04-06 | 2026-05-02 |
 | [Impostor Syndrome](https://open.spotify.com/track/3bpGAsjsCIMTz98E7injb2) | [Sidney Gish](https://open.spotify.com/artist/2orBKFyc84jo9AZH5jarhI) | [No Dogs Allowed](https://open.spotify.com/album/3jgktTCGathax8HKW4aGfg) | 4:54 | 2026-03-16 | 2026-04-07 |
 | [Impostor Syndrome](https://open.spotify.com/track/3fYHsokGq9RpDHzKjFfB5D) | [Sidney Gish](https://open.spotify.com/artist/2orBKFyc84jo9AZH5jarhI) | [No Dogs Allowed](https://open.spotify.com/album/1RbfvnXTISZJR42nZQSfb8) | 4:54 | 2026-03-09 | 2026-03-11 |
 | [Impurities](https://open.spotify.com/track/7F0MuIk5glqtowCUjbn9es) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [ANTIFRAGILE](https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9) | 3:16 | 2022-11-18 | 2022-12-02 |
@@ -2439,6 +2439,7 @@
 | [Lately](https://open.spotify.com/track/6nqBOGRwYdwOOHTie3fx1K) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Lately](https://open.spotify.com/album/0GKovrT0pFuXb4FhM1Wf3O) | 4:09 | 2024-08-20 | 2024-08-28 |
 | [Lay It On The Line](https://open.spotify.com/track/29CJGwJt5wyo7Sjje87Cy8) | [Triumph](https://open.spotify.com/artist/4YfnJEbTz8QLD5FusYFwV6) | [Greatest Hits Remixed](https://open.spotify.com/album/4hLsNEMUYcvDhdISewsE3j) | 4:06 | 2025-05-20 | 2025-05-23 |
 | [LDR \- Sped Up](https://open.spotify.com/track/14Vsn26hOxfbgVb4etM9jd) | [Shoti](https://open.spotify.com/artist/68URuxUxsFzcPp2y3j0kjW) | [Shoti Sped Up](https://open.spotify.com/album/2EOonF7VdwCRgRgEEQvyO9) | 2:45 | 2023-06-08 | 2023-07-05 |
+| [Le but \- Version CH](https://open.spotify.com/track/373ZGWf421SNGD4xh4WqJM) | [Loco Locass](https://open.spotify.com/artist/27n0OqRGBxVZWoQMkf3QHD) | [Le but](https://open.spotify.com/album/2dteg9SlN9kCSE5v6Z8GHM) | 1:44 | 2026-05-01 |  |
 | [Le chat du café des artistes](https://open.spotify.com/track/43LPmTp1zMpA53CyFq5oNO) | [Jean\-Pierre Ferland](https://open.spotify.com/artist/6ztZs0FOUv1FqwSxsj11R3) | [Jaune \(Version originale remasterisée\)](https://open.spotify.com/album/69OtZSaKCtNJawhqenAJ0U) | 4:39 | 2024-05-01 | 2024-05-07 |
 | [Le Monde](https://open.spotify.com/track/424DkevE18QJazwlljiTD4) | [Richard Carter](https://open.spotify.com/artist/6jlwBcuB3gOuSR4Hb6MmVU) | [Talk to Me \(Original Soundtrack\)](https://open.spotify.com/album/1d1ZEmPwvPZXIOQRqjDBkw) | 2:14 | 2023-09-09 | 2023-09-16 |
 | [Le Monde \- From Talk to Me](https://open.spotify.com/track/4mOMTUl8XiaqILHwh8zm4H) | [Richard Carter](https://open.spotify.com/artist/6jlwBcuB3gOuSR4Hb6MmVU) | [Le Monde \(From Talk to Me\)](https://open.spotify.com/album/0RBFL7NYfHslFXlYrVwtir) | 2:14 | 2023-09-15 | 2023-10-25 |
@@ -2738,6 +2739,7 @@
 | [Maui Wowie](https://open.spotify.com/track/7uJUDd92ZfawO5clVSY0dq) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [The Boy Who Flew To The Moon \(Vol\. 1\)](https://open.spotify.com/album/4AOuaSsHC7Y0R7ovt98aEo) | 2:23 | 2025-10-17 | 2025-11-04 |
 | [Maxed Out](https://open.spotify.com/track/3DnsQ5O4uJw3MlYgvBJSCq) | [Bayker Blankenship](https://open.spotify.com/artist/1iP8yKbscxGv4Yzysz7XLr) | [Maxed Out](https://open.spotify.com/album/1SX8oq1sameXhpTKtZ3gOt) | 2:52 | 2024-05-25 | 2024-08-21 |
 | [MAYBE](https://open.spotify.com/track/1PS9AXcHyldKbcRWhNgjOq) | [Gabriela Bee](https://open.spotify.com/artist/4z0EquFxDCtiHuPGiWDCq1) | [MAYBE](https://open.spotify.com/album/3oAlz9200fyoVPB3t1Tcfo) | 3:14 | 2024-11-08 | 2024-11-13 |
+| [MAYBE \- UKG / SPEED GARAGE](https://open.spotify.com/track/3OTZPHuI58oQixbk6FojWE) | [SAiiLOR](https://open.spotify.com/artist/5q7VoDTI2lyelmWLangje7) | [MAYBE \(UKG / SPEED GARAGE\)](https://open.spotify.com/album/6hKZcIC1Li3KO6BnTGQaqa) | 4:08 | 2026-05-01 |  |
 | [Maybe My Soulmate Died](https://open.spotify.com/track/7N1bEUVuQo8HHuikDgJ10c) | [iamnotshane](https://open.spotify.com/artist/3jN7f9X0EmFnsbRS6nl6as) | [Maybe My Soulmate Died](https://open.spotify.com/album/0sCKHcwHvwtLYuaBNfE6BL) | 1:54 | 2022-07-13 | 2022-08-26 |
 | [Maybe This Time \- From "Maybe This Time"](https://open.spotify.com/track/1uwg7BqqCx60EUA24WPB6c) | [Sarah Geronimo](https://open.spotify.com/artist/6aiCKnIN68hohzU3ZzNq48) | [Maybe This Time \(From "Maybe This Time"\)](https://open.spotify.com/album/27fFIXHvegHJjowS6uQ2a4) | 4:15 | 2024-08-24 | 2024-08-28 |
 | [MAYBE.](https://open.spotify.com/track/2SirJ3tf8AIjX8zBEKAGfe) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [BACK TO BLONDE](https://open.spotify.com/album/059SwPQ4t5vYxB4hOq4mLl) | 3:55 | 2024-11-20 | 2024-11-24 |

@@ -6,7 +6,7 @@
     "name": "deet",
     "url": "https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh"
   },
-  "snapshot_id": "AAALtbFN2tNVhIkLQ0wBAbcxXpEPcyDh",
+  "snapshot_id": "AAALuexn8T5yTbbQ7smNfgjie45sYPAa",
   "tracks": [
     {
       "added_at": "2024-12-05 07:59:22",
@@ -25463,22 +25463,6 @@
       "duration_ms": 374025,
       "name": "The Shoe Fits",
       "url": "https://open.spotify.com/track/2Mph2Rvl5kVg0MYtfV60wZ"
-    },
-    {
-      "added_at": "2025-01-03 01:06:22",
-      "album": {
-        "name": "For All The Dogs Scary Hours Edition",
-        "url": "https://open.spotify.com/album/4Q7cRXio6mF2ImVUCcezPO"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 181428,
-      "name": "Wick Man",
-      "url": "https://open.spotify.com/track/4ASBfwBwwo7DTT2zq9YSLP"
     },
     {
       "added_at": "2025-01-03 01:06:22",
@@ -65615,22 +65599,6 @@
       "duration_ms": 176561,
       "name": "Lean On",
       "url": "https://open.spotify.com/track/01aTsQoKoeXofSTvKuunzv"
-    },
-    {
-      "added_at": "2025-01-04 20:24:57",
-      "album": {
-        "name": "The Don Killuminati: The 7 Day Theory",
-        "url": "https://open.spotify.com/album/2gWrUaBkh1uQARjbjvUGNp"
-      },
-      "artists": [
-        {
-          "name": "Makaveli",
-          "url": "https://open.spotify.com/artist/4pmNqFu71wEmFXSsYAiWK8"
-        }
-      ],
-      "duration_ms": 309800,
-      "name": "Hail Mary",
-      "url": "https://open.spotify.com/track/6sCtddSFg3foJn4K2pIhfQ"
     },
     {
       "added_at": "2025-01-04 20:24:57",
@@ -150063,6 +150031,42 @@
       "duration_ms": 208693,
       "name": "\u9375\u76e4\u306f\u8e8d\u308b",
       "url": "https://open.spotify.com/track/7cEHnfDAIOsqLafENSAsG5"
+    },
+    {
+      "added_at": "2026-05-02 00:16:21",
+      "album": {
+        "name": "\u9006\u8ee2\u88c1\u5224 \u8607\u308b\u9006\u8ee2 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/5Db8h9SP9VRMpcigzbnXSS"
+      },
+      "artists": [
+        {
+          "name": "Masakazu Sugimori",
+          "url": "https://open.spotify.com/artist/6bE2VRSPWx2v3l25ZNSmLq"
+        }
+      ],
+      "duration_ms": 108866,
+      "name": "\u9006\u8ee2\u88c1\u5224\u30fb\u958b\u5ef7",
+      "url": "https://open.spotify.com/track/2zUohndREVlL7heWLMXuMo"
+    },
+    {
+      "added_at": "2026-05-02 01:05:12",
+      "album": {
+        "name": "The Lion King",
+        "url": "https://open.spotify.com/album/3YA5DdB3wSz4pdfEXoMyRd"
+      },
+      "artists": [
+        {
+          "name": "Carmen Twillie",
+          "url": "https://open.spotify.com/artist/6O3ZB5Cz5CNT3wQWouKcNJ"
+        },
+        {
+          "name": "Lebo M.",
+          "url": "https://open.spotify.com/artist/0zp9qNDSeYi3QEodhcKAAA"
+        }
+      ],
+      "duration_ms": 239146,
+      "name": "Circle of Life",
+      "url": "https://open.spotify.com/track/0HU5JnVaKNTWf6GykV9Zn8"
     }
   ],
   "unique_name": "Purge",

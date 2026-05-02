@@ -4,7 +4,7 @@
 
 > For the new generation of trendsetters coming through, we move\. Cover: IZCO
 
-197 songs - 8 hr 32 min
+197 songs - 8 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [DON'T ASK!](https://open.spotify.com/track/47Z2SkqckoCdJiUgCs46jA) | [Natanya](https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp) | [DON'T ASK!](https://open.spotify.com/album/5rqi3IpAQc4QgQoO6LadFU) | 3:02 | 2026-04-16 |  |
 | [DON'T TOUCH THE CDJ](https://open.spotify.com/track/7H5qoxsQ0nzAgF1bHi1Qoq) | [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp), [Aki Oke](https://open.spotify.com/artist/7d76hQbV3M2NOwec3e16bv) | [DON'T TOUCH THE CDJ](https://open.spotify.com/album/6AtBMCTUBlu8w8NPqpe8xz) | 2:48 | 2025-10-23 | 2026-02-06 |
 | [Double face](https://open.spotify.com/track/3oNiGykgeauc44UGPaXmIV) | [TEZZ](https://open.spotify.com/artist/5WHEWmX2mtWPpTudevPTzp) | [Double face](https://open.spotify.com/album/57jScL4OqvUDCnTU3ImwtP) | 1:26 | 2025-12-12 | 2026-03-20 |
+| [Down 4 \(feat\. Osquello\)](https://open.spotify.com/track/2nKlFEzbCrDTgHqledJn06) | [IZCO](https://open.spotify.com/artist/4uqqEE1NaQBAa4wnDug9c1), [Osquello](https://open.spotify.com/artist/6ScAPpYnDsH3Cu3TKmhUJr) | [POWERSCROFT](https://open.spotify.com/album/4vRMGZDyQrJfRxkIwlnPsR) | 4:41 | 2026-04-30 |  |
 | [E.V.O.L](https://open.spotify.com/track/3QFe7h2cN5WkkNeKxs1T10) | [bib sama.](https://open.spotify.com/artist/5CSb8UNFfwDv80vbAIPEtu), [TayoLoxs](https://open.spotify.com/artist/4D1gckOVE54GdYpS7J4noB) | [GAIAAAAAAAAAA˚](https://open.spotify.com/album/2ADlAbG9esTnNb7ygXGsTe) | 3:02 | 2026-04-02 |  |
 | [elephant roundabout](https://open.spotify.com/track/3Uaf0Ds7eYrMtTgJumzziS) | [afrosurrealist](https://open.spotify.com/artist/5CZZuhKwFNQG11PsquAuiR), [Saiming](https://open.spotify.com/artist/7iIrU7sHGT5yo0TOKIe6D9), [Awaiting Kvng](https://open.spotify.com/artist/4kzXgdwAgZoKXO8GNMgvFc), [BexBlu](https://open.spotify.com/artist/5pXt1B1htTEbkBbQrgNbhy) | [BUYBRITISH](https://open.spotify.com/album/0k85ODnPYnA3pfdsWu1aaa) | 2:20 | 2025-11-14 | 2026-02-27 |
 | [entitled](https://open.spotify.com/track/7jn7SOuYxnrAoz3QSmhIgQ) | [kwes e](https://open.spotify.com/artist/6bfEL2kyoh9XtiYtpVNozy) | [fingers crossed](https://open.spotify.com/album/6pG7gONWECHILHBqd0t6OA) | 2:20 | 2025-10-23 | 2026-03-13 |
@@ -180,7 +181,6 @@
 | [Touch bby](https://open.spotify.com/track/4Ksyqz0rioYK0DJnuXp888) | [Essosa](https://open.spotify.com/artist/6fn7JM8daBvCxpTkYyqtGY) | [Touch bby](https://open.spotify.com/album/1vSKPb1LckjSJSGKVeQ5gd) | 2:05 | 2026-02-20 |  |
 | [Touch me \(feat\. Ya Levis\)](https://open.spotify.com/track/2mYS9GGRZANA3SyzKDtRGk) | [AMARIA BB](https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5), [Ya Levis](https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu) | [9PM IN PARIS](https://open.spotify.com/album/4bgCdzu5K57RiKxvMM1om9) | 2:39 | 2025-10-23 | 2025-11-07 |
 | [Tough](https://open.spotify.com/track/5TmpaPaxP6DjvoGyets9sO) | [Nia Smith](https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [Tough](https://open.spotify.com/album/7kAuTCG3RtuNsILTvuMGms) | 3:15 | 2026-03-06 |  |
-| [Track 5](https://open.spotify.com/track/2nKlFEzbCrDTgHqledJn06) | [IZCO](https://open.spotify.com/artist/4uqqEE1NaQBAa4wnDug9c1) | [POWERSCROFT](https://open.spotify.com/album/4vRMGZDyQrJfRxkIwlnPsR) | 0:00 | 2026-04-30 |  |
 | [Trippin'](https://open.spotify.com/track/22sUkuhndJu54imupWXb6p) | [Taifunds](https://open.spotify.com/artist/1C76b7OjUUW3Jqqk4PMkMr) | [Trippin'](https://open.spotify.com/album/42HmHOPTR9tLzYm5pM7Uib) | 2:53 | 2025-10-23 | 2026-02-06 |
 | [twenty four](https://open.spotify.com/track/6AUtLIZhas25QbUrkV9qhM) | [Taylr](https://open.spotify.com/artist/5OI8f36YWTxeJVfICzIW5X), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [twenty four](https://open.spotify.com/album/7FCgA0AwJ4ve322KQGjh4g) | 2:43 | 2025-11-14 | 2026-02-27 |
 | [twoblaccbois](https://open.spotify.com/track/3A6z7lhMM5popptpx3G5Wm) | [Rome](https://open.spotify.com/artist/1Aa5jZ6PiMpSNLqfHGMWmd), [Floetic](https://open.spotify.com/artist/65DpzULsU41SimkMyFx72v) | [twoblaccbois](https://open.spotify.com/album/5IMFe2Zw4GgTqOFNU4jxfA) | 2:34 | 2025-10-23 | 2026-02-27 |

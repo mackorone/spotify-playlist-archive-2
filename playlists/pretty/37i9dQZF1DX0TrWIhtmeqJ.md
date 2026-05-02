@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0TrWIhtmeqJ.md) - [plain]
 
 > For the new generation of trendsetters coming through, we move\. Cover: IZCO
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,793 likes - 70 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,806 likes - 70 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Track 5](https://open.spotify.com/track/2nKlFEzbCrDTgHqledJn06) | [IZCO](https://open.spotify.com/artist/4uqqEE1NaQBAa4wnDug9c1) | [POWERSCROFT](https://open.spotify.com/album/4vRMGZDyQrJfRxkIwlnPsR) | 0:00 |
+| 1 | [Down 4 \(feat\. Osquello\)](https://open.spotify.com/track/2nKlFEzbCrDTgHqledJn06) | [IZCO](https://open.spotify.com/artist/4uqqEE1NaQBAa4wnDug9c1), [Osquello](https://open.spotify.com/artist/6ScAPpYnDsH3Cu3TKmhUJr) | [POWERSCROFT](https://open.spotify.com/album/4vRMGZDyQrJfRxkIwlnPsR) | 4:41 |
 | 2 | [Oiii DJ](https://open.spotify.com/track/4PnPLsW50W3AoX8gYf3e7i) | [£MONZO](https://open.spotify.com/artist/3cqU5Vi6bp8KZxwbJyZ6lv) | [Oiii DJ](https://open.spotify.com/album/2pAjAum20KgmBY3aCeTkII) | 2:24 |
 | 3 | [DEM MAN](https://open.spotify.com/track/1oHfbYJxiJ87kidsNiuBmY) | [TR Gobrazy](https://open.spotify.com/artist/2bWovm0DNeEkCevemRHN0C) | [DEM MAN](https://open.spotify.com/album/2tbTYKRjQigIvWaAZAXoge) | 1:58 |
 | 4 | [Fell Again](https://open.spotify.com/track/6S86CLAoA7S19wk8WeQjRs) | [cikho](https://open.spotify.com/artist/3K5lshiZhzx2bvme3n4hTz) | [Fell Again / Stranger What's Your Name?](https://open.spotify.com/album/5ug1JL9PFc1gCxokrSh1yo) | 2:41 |

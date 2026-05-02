@@ -2,9 +2,9 @@
 
 ### [The Flow](https://open.spotify.com/playlist/37i9dQZF1DXc4BD3pzYdKY)
 
-> The best of Christian Hip Hop today\.  Cover: Hulvey
+> The best of Christian Hip Hop today\.  Cover: 1K Phew
 
-1,371 songs - 2 day 18 hr 20 min
+1,373 songs - 2 day 18 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -502,6 +502,7 @@
 | [Hardest Thing I Did](https://open.spotify.com/track/4d5yV7BJmrhYwmJl1KBQ9u) | [Xay Hill](https://open.spotify.com/artist/6e7kIHb5oTfOJY5IzLyzR6) | [DELUXE: But Im Redeemed](https://open.spotify.com/album/5AQ82eN4TyO98hUCAY7ozO) | 3:16 | 2023-12-15 | 2024-01-20 |
 | [haters hate\. \- original version](https://open.spotify.com/track/1pU647a4qBFuZopQiDGyUM) | [tylerhateslife](https://open.spotify.com/artist/4z85Glof8wylJsLi93ukHm) | [haters hate\. \(original version\)](https://open.spotify.com/album/5nWdF1gL5bKwN7kYANHhvH) | 3:13 | 2022-10-07 | 2022-10-17 |
 | [Have Me](https://open.spotify.com/track/6Z1f1hRzEp9ysuprxhNdc5) | [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO) | [Have Me](https://open.spotify.com/album/07aeUxGzUanC8MPZ5Syw7k) | 2:48 | 2022-09-11 | 2023-08-26 |
+| [Havin'](https://open.spotify.com/track/1PwIBzaWVTzourrHRw6FTm) | [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl) | [Havin'](https://open.spotify.com/album/0VaOrpBKz0ObZaI74wuV2n) | 2:49 | 2026-05-01 |  |
 | [HE BACK!](https://open.spotify.com/track/3Rbab48znK9UXKteEzmyeu) | [808 BEEZY](https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k) | [HE BACK!](https://open.spotify.com/album/6YONIZy4O4CSen2cbqhfn4) | 1:55 | 2024-02-09 | 2024-06-08 |
 | [He Can](https://open.spotify.com/track/3En8bMeRZ8s3HkYCDAX75P) | [Pastor Mike Jr.](https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS) | [He Can](https://open.spotify.com/album/1zMaAbWlOY7x7YbC4eROar) | 3:09 | 2026-03-20 |  |
 | [He's Been Good](https://open.spotify.com/track/0cUvWCEqiqkNxmD43DJ0Kw) | [Anike](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0) | [He's Been Good](https://open.spotify.com/album/2uu1cAcIPeM5hQl2HerECS) | 3:34 | 2026-01-16 | 2026-04-04 |
@@ -748,7 +749,7 @@
 | [Manifest](https://open.spotify.com/track/2AsgM1cgy6lhb22ndAvGd7) | [Kelo](https://open.spotify.com/artist/1vqpLv0kaTCxTjWFhM7Mxv), [Xay Hill](https://open.spotify.com/artist/6e7kIHb5oTfOJY5IzLyzR6), [Rapzilla](https://open.spotify.com/artist/2fWSzxY0pvctdhX3Vk2Fav) | [Manifest](https://open.spotify.com/album/6hjQyP8Cy9YeKqtq0utXW2) | 2:33 | 2021-12-11 | 2022-02-05 |
 | [Marty Mcfly](https://open.spotify.com/track/0VEWtaWmA0ATE9KlL4ifOF) | [Lj the Messenger](https://open.spotify.com/artist/1wxZ1Mv6pAQbaqh30Nq6hB) | [Marty Mcfly](https://open.spotify.com/album/5Avq3HMzjkuIRm85VpqpQ0) | 2:11 | 2022-08-06 | 2022-10-06 |
 | [Marvelous](https://open.spotify.com/track/59F2Wpzbsv3PZEb1ngr4TZ) | [Mission](https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba) | [Marvelous](https://open.spotify.com/album/6oN7cV6Q5o1FyvUBVeLKdt) | 2:22 | 2023-08-25 | 2024-06-08 |
-| [masterpiece](https://open.spotify.com/track/3KfzwglHt2AS1UB9bZgagk) | [gio.](https://open.spotify.com/artist/5GevjOibFX6uwZ1mTYfhbn), [Dell Mac](https://open.spotify.com/artist/1EswPCHgI3tydeJlDVMEFl), [LOGE](https://open.spotify.com/artist/30Qk0xWOa5BOa4ARg9gY1x) | [JERICHO](https://open.spotify.com/album/5LaHM5d5fvjRJ97GQhBdvf) | 2:44 | 2025-04-04 |  |
+| [masterpiece](https://open.spotify.com/track/3KfzwglHt2AS1UB9bZgagk) | [gio.](https://open.spotify.com/artist/5GevjOibFX6uwZ1mTYfhbn), [Dell Mac](https://open.spotify.com/artist/1EswPCHgI3tydeJlDVMEFl), [LOGE](https://open.spotify.com/artist/30Qk0xWOa5BOa4ARg9gY1x) | [JERICHO](https://open.spotify.com/album/5LaHM5d5fvjRJ97GQhBdvf) | 2:44 | 2025-04-04 | 2026-05-02 |
 | [Matthew 18:20](https://open.spotify.com/track/2CQNa8WplamGGPnMpSlFt6) | [Alex Jean](https://open.spotify.com/artist/5qSM9F3Ei58tG08tXrJjSi), [De La Cruz](https://open.spotify.com/artist/6U4TcvAHuizFqLcWXiMkRD) | [Matthew 18:20](https://open.spotify.com/album/2axk8Nh8qkD8cj7gx6vGgh) | 2:48 | 2025-02-07 | 2026-03-21 |
 | [MAYBACH DREAMS](https://open.spotify.com/track/02A7EPAAXMUes29ey5FBBJ) | [BigBreeze](https://open.spotify.com/artist/7wrWSJHfACjw7s7gYXOXTt) | [MAYBACH DREAMS](https://open.spotify.com/album/0muWX84K9dVZkoOqCOAaww) | 2:30 | 2022-10-07 | 2022-10-15 |
 | [ME VS ME](https://open.spotify.com/track/3rOfhtBKOJ24iFcLyrYTmq) | [808 BEEZY](https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k), [Toyalove](https://open.spotify.com/artist/5OoxlokuJXx0MIk9GyR1f6) | [ME VS ME](https://open.spotify.com/album/5zQDF50GuLGKsOCieanQ28) | 3:09 | 2024-06-07 | 2024-07-06 |
@@ -799,6 +800,7 @@
 | [Nah Nah Nah.](https://open.spotify.com/track/0zFjqg0DUmzJ66eAhrDNE1) | [Jay Violet](https://open.spotify.com/artist/3aIRiwMJuj4Ax11Dlr3ZEL) | [Nah Nah Nah.](https://open.spotify.com/album/5LyeM79KptLjhgxa7Ppfto) | 2:35 | 2022-04-29 | 2022-05-27 |
 | [Narcoleptik \(feat\. KMO Shamaal\)](https://open.spotify.com/track/7r9MGAOe3wW8RBZ6X5MLTt) | [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq), [Poetics](https://open.spotify.com/artist/6sdgbah9YMIS5jSYdyzpBP), [KMO Shamaal](https://open.spotify.com/artist/5vUfgLjBf86CYCg2WH9X9Q) | [Narcoleptik](https://open.spotify.com/album/5BJxFfMmrOxvdVjdrpJxRw) | 2:30 | 2021-12-11 | 2022-05-26 |
 | [Necessary Endings](https://open.spotify.com/track/64jmvlOtgbKIXtGYRvp7Up) | [Cory Ard](https://open.spotify.com/artist/0qFRHDlLguiugbuuCInOCb), [QIRS](https://open.spotify.com/artist/5U4ihDcHfPCz1PzcSqRMPY) | [Necessary Endings](https://open.spotify.com/album/2BM7qaqLNYJ0UWV9HROJ1z) | 4:16 | 2024-06-07 | 2025-02-01 |
+| [NED FLANDERS](https://open.spotify.com/track/2W6PC29zRbBuJwI3G8eBzB) | [Marty](https://open.spotify.com/artist/5BfKKSmpGmj2moMNlaWeJK), [Brenno](https://open.spotify.com/artist/7lBcEp7abNiq3WyHT3RRqV) | [CULT CLASSIC VOL\. 1](https://open.spotify.com/album/1oyf5vVZtHUJHgVKCnsk6r) | 2:20 | 2026-05-01 |  |
 | [Need You](https://open.spotify.com/track/3VBrgyMHg6OMZsma32Hevu) | [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV), [KMO Shamaal](https://open.spotify.com/artist/3IZpU8rUESdWsLRyfyHZqF) | [Need You](https://open.spotify.com/album/6ILaidt9jDAme4TVSOMDnF) | 2:55 | 2024-07-05 | 2025-03-25 |
 | [Never Be the Same](https://open.spotify.com/track/3Fxxsx248FVmrQXUwNhVoD) | [Vic Lucas](https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG) | [Never Be the Same](https://open.spotify.com/album/2pi1Q19Ktl2hoyBJH6QkRH) | 2:33 | 2022-08-06 | 2022-09-12 |
 | [Never Change](https://open.spotify.com/track/2nGr6tipAPJNYZbnShEB1y) | [Patrick McMillan](https://open.spotify.com/artist/4NrPW4DGb9D94qqZFam4NC), [Xay Hill](https://open.spotify.com/artist/6e7kIHb5oTfOJY5IzLyzR6) | [Never Change](https://open.spotify.com/album/5RWc74ZeXbwi0xMYyg8Elc) | 3:01 | 2021-12-11 | 2022-04-29 |
@@ -1144,7 +1146,7 @@
 | [Switch](https://open.spotify.com/track/5KCw2qJmUgquvJ9ggomSLX) | [Red Tips](https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7) | [Switch](https://open.spotify.com/album/6oK5JjSPrkBYfCN5J8TLh9) | 3:08 | 2025-08-22 | 2026-03-21 |
 | [Tables Turned](https://open.spotify.com/track/29JdRQohqfWj35j4p6tzCZ) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Signing Bonus](https://open.spotify.com/album/6qHMc5xzKuR1Yz4Imf4RWj) | 2:39 | 2024-02-09 | 2024-03-16 |
 | [Take It There](https://open.spotify.com/track/703eoQkxytsRX5J5g5yG8x) | [Mitch Darrell](https://open.spotify.com/artist/4CBgmRY3dI7ToptTHIxvj3), [Wayne Klassik](https://open.spotify.com/artist/3rmqwsgWN75pX6EzDK5xTv) | [Take It There](https://open.spotify.com/album/68piPNslmbtvlRh5i3cTUt) | 1:40 | 2024-06-07 | 2024-08-03 |
-| [take the wheel](https://open.spotify.com/track/2H6Xw9IKbZirY1camQHot3) | [GRAHAM](https://open.spotify.com/artist/662lI9CXPZ0a6ou4CkLr0G) | [take the wheel](https://open.spotify.com/album/7sWUex3pzMhcKIvx5Kx3Ig) | 2:17 | 2025-05-09 |  |
+| [take the wheel](https://open.spotify.com/track/2H6Xw9IKbZirY1camQHot3) | [GRAHAM](https://open.spotify.com/artist/662lI9CXPZ0a6ou4CkLr0G) | [take the wheel](https://open.spotify.com/album/7sWUex3pzMhcKIvx5Kx3Ig) | 2:17 | 2025-05-09 | 2026-05-02 |
 | [Talk & Do](https://open.spotify.com/track/2PXulTyeJgq6204kpwpzVM) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [Talk & Do](https://open.spotify.com/album/4lqNta0wM1DiICK7PORqx9) | 2:45 | 2023-12-15 | 2024-06-08 |
 | [TALK SPICY](https://open.spotify.com/track/2nuQeMvwn2uiiCm3w5vCzB) | [DKG KIE](https://open.spotify.com/artist/1eeYg6dFkaRT5GA0lsCVHA) | [TALK SPICY](https://open.spotify.com/album/3EJphzwiHE5sC4GFSLHntd) | 1:52 | 2025-05-09 |  |
 | [Tango](https://open.spotify.com/track/3H1N26BJurmyEaPMUFTf0o) | [DaShawn Shauntá](https://open.spotify.com/artist/5c0sCqEmXd6T0uWWcAyis9) | [Tango](https://open.spotify.com/album/4eao7ZzLO34e3W2NYDgxxa) | 3:07 | 2022-03-05 | 2022-04-29 |

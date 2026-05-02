@@ -4,7 +4,7 @@
 
 > Hottest indie sounds from Asia\. Cover: Balming Tiger \(Korea\)
 
-2,544 songs - 6 day 10 hr 44 min
+2,545 songs - 6 day 10 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -787,6 +787,7 @@
 | [grandma's song](https://open.spotify.com/track/7p73xPXGoroEEVSL6HxK0s) | [blackvelvetz](https://open.spotify.com/artist/3LM41UKgiR9khIkg8FS1k3) | [grandma's song](https://open.spotify.com/album/2xTM1Jy7mLkAy5n5nqPWIQ) | 3:01 | 2023-03-09 | 2023-04-21 |
 | [Grape Soda](https://open.spotify.com/track/5KJAvewEPVPOU3OnL6bhwH) | [Gabe Watkins](https://open.spotify.com/artist/2GtFIN8b3SolBC7mmCPAAA) | [Grape Soda](https://open.spotify.com/album/6skFJuskZ23J7NXBNfFR8z) | 3:35 | 2023-11-23 | 2024-06-22 |
 | [Green Car](https://open.spotify.com/track/3IAYRWhwoMwi7CUCDLEX1f) | [Nadia Kadek](https://open.spotify.com/artist/6BWCmhv7pJu4PDZDRnoIKw) | [Green Car](https://open.spotify.com/album/6F4ZNnHNbuNMUFLV3yduKD) | 3:15 | 2025-10-16 | 2026-01-30 |
+| [Green Mango](https://open.spotify.com/track/7HI3dV26p9W8S19RwwCIzc) | [jisokuryClub](https://open.spotify.com/artist/4CIo3JKWdZi41ZKLlSjlyO) | [Green Mango](https://open.spotify.com/album/52TzRhG6P7aq24ZHCsKgrf) | 4:34 | 2026-05-01 |  |
 | [grey matter](https://open.spotify.com/track/1EGjwu8X5Y7tCeGCj9UaYd) | [buko boys](https://open.spotify.com/artist/3PTYbD85yltYmaEDe45nSa) | [Float](https://open.spotify.com/album/1aMKyNS3natZanyhwjJkEY) | 3:18 | 2025-06-26 | 2025-08-29 |
 | [GRIPPIN’THEGREEN](https://open.spotify.com/track/6hHjsUiAuUcTtsvDXFvPFk) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [Jannabi’s small pieces ll : GRIPPIN’THEGREEN](https://open.spotify.com/album/1JKiz2WDaNak1fPjmNG1Vt) | 3:24 | 2022-06-02 | 2022-07-15 |
 | [Grocery Store](https://open.spotify.com/track/54UL1uHVV9xnr6hd8CtmK1) | [TY:DEL](https://open.spotify.com/artist/2hPhnwoTrcoFeuP9pwdClH) | [Grocery Store](https://open.spotify.com/album/74LtPk1nTf4JvxwibkD7Zm) | 3:12 | 2023-02-16 | 2023-04-14 |
@@ -1991,7 +1992,7 @@
 | [The Reason Why](https://open.spotify.com/track/7pI7fujsmn0lauSjuiKoTw) | [Sunwich](https://open.spotify.com/artist/45KFMEB3QETjFvFME86vYO) | [Apophenia](https://open.spotify.com/album/7Hk0apxk6HGCsWilqNyJvm) | 3:06 | 2024-02-23 | 2024-03-01 |
 | [the river](https://open.spotify.com/track/7fenr5zdjkJKH50czhtBnq) | [Sun Cell](https://open.spotify.com/artist/2FkruVc167pPQ7FYtjmPef) | [the river](https://open.spotify.com/album/0nUlCvIFEo4qVhYhueTEYL) | 3:14 | 2026-03-06 |  |
 | [The song](https://open.spotify.com/track/6pGsgwyFpvVI1FAZ3bGMN3) | [jorud](https://open.spotify.com/artist/5JMQj1bV7aGuYol4oIkKur), [The Purest Blue](https://open.spotify.com/artist/4gLOH9QcvymfFLcsiPuf7G) | [The song](https://open.spotify.com/album/2Up4sVWTWY8Y3vRe2BrIDW) | 3:36 | 2025-07-18 | 2025-09-05 |
-| [The Story of Bike Dan from Alabama](https://open.spotify.com/track/5grntKqcDrbPN7754uqwER) | [Daniel Ryn](https://open.spotify.com/artist/3lhyP7Pddt6ks3s0TL7blV) | [The Story of Bike Dan from Alabama](https://open.spotify.com/album/2HGACkPwcaY7THTFLGg0gB) | 4:22 | 2026-02-26 |  |
+| [The Story of Bike Dan from Alabama](https://open.spotify.com/track/5grntKqcDrbPN7754uqwER) | [Daniel Ryn](https://open.spotify.com/artist/3lhyP7Pddt6ks3s0TL7blV) | [The Story of Bike Dan from Alabama](https://open.spotify.com/album/2HGACkPwcaY7THTFLGg0gB) | 4:22 | 2026-02-26 | 2026-05-02 |
 | [The Sun Will Cry](https://open.spotify.com/track/2qxVwFicRzUA71ftfrQUfY) | [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [The Sun Will Cry](https://open.spotify.com/album/1gxcOXXdPP7W8vafVmJhIX) | 3:19 | 2024-12-05 | 2025-01-24 |
 | [The Trip](https://open.spotify.com/track/0UUwjvjJpPglNiGjJzk5dn) | [liesl\-mae](https://open.spotify.com/artist/2PSBYmtNWEm9f8VOSCFFX0) | [The Trip](https://open.spotify.com/album/0OUuOt452BNPn74et9Iqnr) | 3:46 | 2022-06-23 | 2022-07-29 |
 | [The Waves](https://open.spotify.com/track/6o7asrLKX5790FmXkCuqTN) | [Dru Chen](https://open.spotify.com/artist/0n1n8JVg3vec8svJHivjnf), [Will Beale](https://open.spotify.com/artist/7GjoDFouaoWc8el1oOsKHD) | [The Waves](https://open.spotify.com/album/7LEBAiVChoAbppg4AOd8Nh) | 2:15 | 2025-04-10 | 2025-05-02 |

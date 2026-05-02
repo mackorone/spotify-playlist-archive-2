@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "Unicos",
+        "url": "https://open.spotify.com/album/6gC2vyoqyoqElP8rHDiqbY"
+      },
+      "artists": [
+        {
+          "name": "Los Gigantes Del Vallenato",
+          "url": "https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262191,
+      "name": "A Donde Ir\u00e9 Sin Ti",
+      "url": "https://open.spotify.com/track/1TYPgjaOTvBaNL7FrGOxxk"
+    },
+    {
+      "album": {
         "name": "Vallenato Fest",
         "url": "https://open.spotify.com/album/0ewlJ0aYyI7OfcqICyuP06"
       },
@@ -176,7 +194,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 268042,
       "name": "Acu\u00e9rdate",
       "url": "https://open.spotify.com/track/7sjRnSohHSVBK6Ii3hrvd7"
@@ -1435,6 +1453,24 @@
     },
     {
       "album": {
+        "name": "30 Mejores: Binomio de Oro de Am\u00e9rica",
+        "url": "https://open.spotify.com/album/1aHXwZk5TZGIxmELnmrFyq"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297453,
+      "name": "Lejos de Ti",
+      "url": "https://open.spotify.com/track/4WxOWzdg7q1kR9CDhh7BN3"
+    },
+    {
+      "album": {
         "name": "Ave Libre",
         "url": "https://open.spotify.com/album/0Wx044oRIRg2kvaJ6H9rsn"
       },
@@ -1732,7 +1768,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 266573,
       "name": "Me Tiraste Al Mar",
       "url": "https://open.spotify.com/track/6dqxQhRZG8bsBfJBQft24Y"
@@ -2432,7 +2468,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 304560,
       "name": "Olv\u00eddala",
       "url": "https://open.spotify.com/track/0QUnzLeB2USzFv8OqJe8S8"
@@ -2974,7 +3010,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-27",
+      "date_removed": null,
       "duration_ms": 307304,
       "name": "Se Me Salen las Lagrimas",
       "url": "https://open.spotify.com/track/7b55Rm9igzfmSO68M7msjG"

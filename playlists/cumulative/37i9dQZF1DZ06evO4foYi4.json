@@ -74,7 +74,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-29",
+      "date_removed": null,
       "duration_ms": 179920,
       "name": "Bad Believer",
       "url": "https://open.spotify.com/track/1VxW8LraxdE168OWaytqrC"
@@ -392,7 +392,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 222986,
       "name": "Dinner for Two",
       "url": "https://open.spotify.com/track/5cu7cJCwwfP9dNFuLnsH7L"
@@ -1398,7 +1398,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 281578,
       "name": "The Nowhere Inn (Live)",
       "url": "https://open.spotify.com/track/5puEAUQFnOr5JeGfNbAhjo"
@@ -1594,6 +1594,28 @@
       "duration_ms": 70520,
       "name": "We Put a Pearl in the Ground",
       "url": "https://open.spotify.com/track/07MmQh3ypVM1SrIISzm8fd"
+    },
+    {
+      "album": {
+        "name": "LIVE IN LONDON! (BBC Proms at the Royal Albert Hall)",
+        "url": "https://open.spotify.com/album/2xdIxgu25l6fXk1OTjSobC"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        },
+        {
+          "name": "Jules Buckley",
+          "url": "https://open.spotify.com/artist/5gGbAKDXhDoBXIJe8SuBvX"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88024,
+      "name": "We Put A Pearl In the Ground (Live)",
+      "url": "https://open.spotify.com/track/3lk3HVxUJYCErXukieewbV"
     },
     {
       "album": {

@@ -414,7 +414,7 @@
       ],
       "date_added": "2026-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 254303,
       "name": "Akasya",
       "url": "https://open.spotify.com/track/3fi76S7u928Dd2YKv8lsZu"
@@ -2188,6 +2188,24 @@
     {
       "album": {
         "name": "Boomerang",
+        "url": "https://open.spotify.com/album/1V9EIE6OVXaT0RdXdn8IpM"
+      },
+      "artists": [
+        {
+          "name": "Billy Crawford",
+          "url": "https://open.spotify.com/artist/43CiK1548VVp2DT95joswS"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Boomerang",
+      "url": "https://open.spotify.com/track/545ac5xiggy2Wy6tefoT5I"
+    },
+    {
+      "album": {
+        "name": "Boomerang",
         "url": "https://open.spotify.com/album/10SCAVdi1ZYBKDQvVK51zB"
       },
       "artists": [
@@ -2849,6 +2867,40 @@
     },
     {
       "album": {
+        "name": "DANCE WITH ME",
+        "url": "https://open.spotify.com/album/63EnT6IyINg2wXeove6VaV"
+      },
+      "artists": [
+        {
+          "name": "Ron David",
+          "url": "https://open.spotify.com/artist/2Be24H7MmbWqAAlo283VNa"
+        },
+        {
+          "name": "Elh\u00e9",
+          "url": "https://open.spotify.com/artist/2cISyyoc7B4kws6seWRzao"
+        },
+        {
+          "name": "SJ Maglana",
+          "url": "https://open.spotify.com/artist/28lD6fIj7acTZNQHr7UIqc"
+        },
+        {
+          "name": "Cozyivy",
+          "url": "https://open.spotify.com/artist/3x8luodoKaUDBXV4xnXWdS"
+        },
+        {
+          "name": "$NPRD",
+          "url": "https://open.spotify.com/artist/1bHNpzVQ7bDb9arASspvu6"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "DANCE WITH ME",
+      "url": "https://open.spotify.com/track/5q6J1vJEa0hEvVi2x0CYLe"
+    },
+    {
+      "album": {
         "name": "Dance With My Mistakes",
         "url": "https://open.spotify.com/album/6dHu65n9dIQZyXaFtaSehO"
       },
@@ -3117,6 +3169,24 @@
     },
     {
       "album": {
+        "name": "DI NA MULI",
+        "url": "https://open.spotify.com/album/0BUYyQSaEDGGwRfwPlTnfd"
+      },
+      "artists": [
+        {
+          "name": "Jnske",
+          "url": "https://open.spotify.com/artist/0uD1WQbTE0pNDiJe0iGEaU"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277500,
+      "name": "DI NA MULI",
+      "url": "https://open.spotify.com/track/5x01QSVJ6VEGWb39ol8Ha2"
+    },
+    {
+      "album": {
         "name": "Di Na Natuto",
         "url": "https://open.spotify.com/album/7xJz5lH1yckwUYaauGiIj1"
       },
@@ -3186,7 +3256,7 @@
       ],
       "date_added": "2026-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 210428,
       "name": "Diskoberi",
       "url": "https://open.spotify.com/track/0bfDUjgYbmW5IcJs17ckI5"
@@ -4239,6 +4309,32 @@
     },
     {
       "album": {
+        "name": "GILIW (feat. Al James, Kyla)",
+        "url": "https://open.spotify.com/album/3ELseqL4Ws30hN6gk3OFyd"
+      },
+      "artists": [
+        {
+          "name": "Fern.",
+          "url": "https://open.spotify.com/artist/7KoTRIhjkIQy2L8RjWDpfF"
+        },
+        {
+          "name": "Al James",
+          "url": "https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm"
+        },
+        {
+          "name": "Kyla",
+          "url": "https://open.spotify.com/artist/2vTbuBRo7ACOZ3JsCnaL7S"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229894,
+      "name": "GILIW (feat. Al James, Kyla)",
+      "url": "https://open.spotify.com/track/06VvXeS5F4B66Cwq7RvBtb"
+    },
+    {
+      "album": {
         "name": "Gitna",
         "url": "https://open.spotify.com/album/052lYoydf0M5IFm6I7dkn8"
       },
@@ -5032,6 +5128,24 @@
       "duration_ms": 216711,
       "name": "hindi mo dapat",
       "url": "https://open.spotify.com/track/1TdpAIyqK8WMkmrJx40axG"
+    },
+    {
+      "album": {
+        "name": "Hinga / Iisa",
+        "url": "https://open.spotify.com/album/1UuDSRE9d3rpDkSsCYFBvI"
+      },
+      "artists": [
+        {
+          "name": "Janine",
+          "url": "https://open.spotify.com/artist/09Xydf4dlkr29dH99DmsvQ"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242777,
+      "name": "Hinga",
+      "url": "https://open.spotify.com/track/3kyCL9iWjdYDhkEQboYeJN"
     },
     {
       "album": {
@@ -5929,6 +6043,24 @@
     },
     {
       "album": {
+        "name": "Sandali",
+        "url": "https://open.spotify.com/album/7g503Az15P1vYvOH7QnaUk"
+      },
+      "artists": [
+        {
+          "name": "Cup of Joe",
+          "url": "https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269568,
+      "name": "Isang Daan",
+      "url": "https://open.spotify.com/track/0lA5Q2kpsOiJ7VR3Umgo4t"
+    },
+    {
+      "album": {
         "name": "Suyen Imnida",
         "url": "https://open.spotify.com/album/4kxnCX8C9V6A5Xptnlq9oA"
       },
@@ -5958,7 +6090,7 @@
       ],
       "date_added": "2026-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 205013,
       "name": "Isang Sandali Pa",
       "url": "https://open.spotify.com/track/48SAJX6sI7Xaeb3XH3jp84"
@@ -6677,6 +6809,28 @@
     },
     {
       "album": {
+        "name": "Kay Dali Mong Ibigin",
+        "url": "https://open.spotify.com/album/3MpLAAJELMBdXUzKcMVnN3"
+      },
+      "artists": [
+        {
+          "name": "Noah Alejandre",
+          "url": "https://open.spotify.com/artist/3XGlotxI2yAE3RV0DX6oD2"
+        },
+        {
+          "name": "Scottie Doesn't Know",
+          "url": "https://open.spotify.com/artist/4UYwHmdpsxRJtM9HrOn0Bg"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360000,
+      "name": "Kay Dali Mong Ibigin",
+      "url": "https://open.spotify.com/track/1u1Kinh1tU3i5JDXbnnbfb"
+    },
+    {
+      "album": {
         "name": "KAYA",
         "url": "https://open.spotify.com/album/6orgKZ9bVEiQU6unyNX1Gg"
       },
@@ -7002,7 +7156,7 @@
       ],
       "date_added": "2026-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 294565,
       "name": "Kung Para Lang Sa'yo",
       "url": "https://open.spotify.com/track/2ywDF48BJy7cb9KblyPuOl"
@@ -8096,7 +8250,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 220352,
       "name": "Maging Sino Ka Man",
       "url": "https://open.spotify.com/track/2ylw78O3bu32JW0qm7mOod"
@@ -9340,7 +9494,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 361126,
       "name": "Naghihilom",
       "url": "https://open.spotify.com/track/6pm5eFo0aUQapVVmtitNLm"
@@ -9950,7 +10104,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 188852,
       "name": "ngunit hindi sapat",
       "url": "https://open.spotify.com/track/1xusvBFG2P3CjqQi7Ez4rb"
@@ -11415,6 +11569,24 @@
     },
     {
       "album": {
+        "name": "Parusa",
+        "url": "https://open.spotify.com/album/7vO4LZoqDoZ6ConfaWBZgY"
+      },
+      "artists": [
+        {
+          "name": "Bert Symoun",
+          "url": "https://open.spotify.com/artist/1WeeTm0Wd9QYP65MGIsUgz"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198592,
+      "name": "Parusa",
+      "url": "https://open.spotify.com/track/1ZFm8rrGePRbFPwNAw5OJJ"
+    },
+    {
+      "album": {
         "name": "Pasado",
         "url": "https://open.spotify.com/album/44PsVipyfXXv1s3jDG4TwE"
       },
@@ -11538,7 +11710,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 257026,
       "name": "Paumanhin",
       "url": "https://open.spotify.com/track/6HDoqnXexzBfY2GTYtvRWC"
@@ -11614,6 +11786,24 @@
       "duration_ms": 204000,
       "name": "perfect view",
       "url": "https://open.spotify.com/track/0GEvhEoA1jY1PB7JAoGICF"
+    },
+    {
+      "album": {
+        "name": "Kung Ano Ano",
+        "url": "https://open.spotify.com/album/0Ox1lJbsHwAYaRc4O1JmAu"
+      },
+      "artists": [
+        {
+          "name": "Sean Archer",
+          "url": "https://open.spotify.com/artist/19SziRzo0hKaQCP037qnkz"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228387,
+      "name": "Photobooth",
+      "url": "https://open.spotify.com/track/1fJI9TI91aInC1vBjBt04H"
     },
     {
       "album": {
@@ -12802,7 +12992,7 @@
       ],
       "date_added": "2026-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 218804,
       "name": "Sana",
       "url": "https://open.spotify.com/track/5RrDA3olSgav14H16vEmcg"
@@ -13372,7 +13562,7 @@
       ],
       "date_added": "2026-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 183517,
       "name": "Sigurado Ka Na Ba?",
       "url": "https://open.spotify.com/track/354wrewBvU6ZhZVZhEzhYS"
@@ -13546,7 +13736,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 267443,
       "name": "Sinong Magmamahal Sa \u2018Kin?",
       "url": "https://open.spotify.com/track/6Zkmj8E8aAmejhDTSys4rN"
@@ -13787,6 +13977,28 @@
     },
     {
       "album": {
+        "name": "Stronger Than Before",
+        "url": "https://open.spotify.com/album/6lthtEP5QO1stqXAFDRtqe"
+      },
+      "artists": [
+        {
+          "name": "Jessica Sanchez",
+          "url": "https://open.spotify.com/artist/3xBbmWwDPhEaGcwWgBarkI"
+        },
+        {
+          "name": "Morissette",
+          "url": "https://open.spotify.com/artist/62WbvkXqQGvXQvw74GU3kQ"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247269,
+      "name": "Stronger Than Before",
+      "url": "https://open.spotify.com/track/3E3MNqDZuF62vgjqrnbC4h"
+    },
+    {
+      "album": {
         "name": "substack girl",
         "url": "https://open.spotify.com/album/21DkCT5JXgHgaVWPoaDGTl"
       },
@@ -13990,6 +14202,24 @@
       "duration_ms": 180000,
       "name": "Sunny When I'm With You",
       "url": "https://open.spotify.com/track/28ZIuMr3gGVhdZO12SvAvB"
+    },
+    {
+      "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/4iRSye7s8dsuJs9HXccIme"
+      },
+      "artists": [
+        {
+          "name": "Calein",
+          "url": "https://open.spotify.com/artist/0DpLoyGVbhOHNR3ht2oO9y"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251666,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/66PmY8JTnohjmLeV17jOvU"
     },
     {
       "album": {
@@ -14414,7 +14644,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 243270,
       "name": "Take Me Home",
       "url": "https://open.spotify.com/track/5L0vMWiX4YMOZKs3fCwofx"
@@ -15126,7 +15356,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 256153,
       "name": "Tongue Tied",
       "url": "https://open.spotify.com/track/6bseBp8dlZo5GuO2cd52XC"
@@ -15300,6 +15530,28 @@
       "duration_ms": 206250,
       "name": "Tulala",
       "url": "https://open.spotify.com/track/1h4HjBPTY2crZXkfyh86EU"
+    },
+    {
+      "album": {
+        "name": "Tuloy",
+        "url": "https://open.spotify.com/album/0GaFJZjvscRZmA3LcaBpm6"
+      },
+      "artists": [
+        {
+          "name": "DEMI",
+          "url": "https://open.spotify.com/artist/1bvOB4esBO2VFoCnaEheBO"
+        },
+        {
+          "name": "Illest Morena",
+          "url": "https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141935,
+      "name": "Tuloy",
+      "url": "https://open.spotify.com/track/0Go0F1vhgj2MANHRKoGJGd"
     },
     {
       "album": {
@@ -16326,6 +16578,24 @@
       "duration_ms": 186039,
       "name": "You Deserve It!",
       "url": "https://open.spotify.com/track/4G4BPh9ESJ6qFQLcrzghic"
+    },
+    {
+      "album": {
+        "name": "Young Stunna",
+        "url": "https://open.spotify.com/album/7J6ME0skoV6wkpWKHtaqsF"
+      },
+      "artists": [
+        {
+          "name": "Sandwich",
+          "url": "https://open.spotify.com/artist/6baezjDaGyBqrW8xGqw3a5"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135246,
+      "name": "Young Stunna",
+      "url": "https://open.spotify.com/track/277r2K987DGP10pPO7U1Er"
     },
     {
       "album": {

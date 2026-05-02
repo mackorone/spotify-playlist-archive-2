@@ -4,7 +4,7 @@
 
 > The best dance hits in Africa\. Cover: Goldmax
 
-1,472 songs - 5 day 10 hr 22 min
+1,472 songs - 5 day 10 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -991,6 +991,7 @@
 | [Pick Me Up](https://open.spotify.com/track/3BFrpPrHG0jNvD7x5JjaJh) | [Kyle Watson](https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ) | [Pick Me Up](https://open.spotify.com/album/3XnIqkiFZfVKH0D0nZnfcx) | 3:41 | 2022-04-07 | 2022-06-10 |
 | [Pieces](https://open.spotify.com/track/15ZvZhkA572y7OoSgGzvqu) | [Tebza De SouL](https://open.spotify.com/artist/32vL21CG5wHt2GTj0flFyG) | [Pieces](https://open.spotify.com/album/1jhBxTHC12iy5qZ3z9Cg0m) | 6:05 | 2024-06-13 | 2024-09-21 |
 | [Piki Piki \(feat\. Moonchild Sanelly\)](https://open.spotify.com/track/5ZSrFbnolk0Jm7iebXYNlQ) | [KMAT](https://open.spotify.com/artist/4GugIMfUFCc3IJM7jD2C5d), [Shaunmusiq](https://open.spotify.com/artist/1rz8BeoVHWRTcj2253dM85), [Khalil Harrison](https://open.spotify.com/artist/2zq3Zm57y4TxZRbMZ05CGp), [Moonchild Sanelly](https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw) | [Piki Piki \(feat\. Moonchild Sanelly\)](https://open.spotify.com/album/1ZmW2tZpIj9JwhcKcK4TZh) | 5:05 | 2025-07-17 | 2025-07-25 |
+| [Ping Pong](https://open.spotify.com/track/5Uv914VDC2yiPp0n2JBfX8) | [Goldmax](https://open.spotify.com/artist/3yWkz47Z8kE6z1xW6rjkAl), [Campmasters](https://open.spotify.com/artist/6b2HMbnP4SmYcpOL19fFmr) | [Ogesi](https://open.spotify.com/album/4nzUvHqFaxqlJhxqOvXQJN) | 4:45 | 2026-04-30 |  |
 | [Places](https://open.spotify.com/track/2YiczArWQL4ScWgYrX7AXw) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Shimza](https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX) | [Places](https://open.spotify.com/album/0ztVQzAWvrm8HBVwebIsyM) | 3:31 | 2024-07-18 | 2025-05-09 |
 | [Play Me](https://open.spotify.com/track/70mLvxrqMjzIjZYLIYFErg) | [Sabrina](https://open.spotify.com/artist/5xJfSowQoxaxY4DCVLTfr5), [HyperSOUL\-X](https://open.spotify.com/artist/5dUiC3SlfbKnbLW7hXq4Os) | [Play Me](https://open.spotify.com/album/2FnzVBrjHR7wconylpTIGh) | 5:22 | 2022-04-07 | 2022-04-15 |
 | [Please Call](https://open.spotify.com/track/6LGv1ApJjNM9C8BhDPeJeE) | [Lazarusman](https://open.spotify.com/artist/4Sh3sUk5Pq69gqPHT89aCc), [Franck Valat](https://open.spotify.com/artist/1JXCRSEtuyVojNvkrg8xys) | [Please Call](https://open.spotify.com/album/7tIEnM2tCvjjXUr9eZ893j) | 6:48 | 2025-12-11 | 2026-03-20 |
@@ -1276,7 +1277,6 @@
 | [Tonight](https://open.spotify.com/track/70rIvrzenju3C2A53M3cto) | [Ghost](https://open.spotify.com/artist/6tNHdlHpPDgZQp6fa3kbM8) | [Tonight](https://open.spotify.com/album/43Ivx6bjF4vKmjiuqMIb9a) | 3:16 | 2022-07-07 | 2022-07-29 |
 | [Too Much Information \- Laolu Remix \(Edit\)](https://open.spotify.com/track/1mHdnrcPMlhwFqMrsS9Kbx) | [Dele Sosimi Afrobeat Orchestra](https://open.spotify.com/artist/6QqfKF0FAhEq6AIKLpDkSb), [Laolu](https://open.spotify.com/artist/53PSeUFq8tMZc0zdd1oUTG) | [Too Much Information \(Remixes\)](https://open.spotify.com/album/4VAJVub0Ft9gCJmODhwThV) | 8:32 | 2025-03-13 | 2025-03-22 |
 | [Touch \- Extended Mix](https://open.spotify.com/track/3itypsvYnEdQpIP77edzsh) | [Milk & Sugar](https://open.spotify.com/artist/159cwGtgCzNpyHWY6tzihH), [Lazarusman](https://open.spotify.com/artist/4Sh3sUk5Pq69gqPHT89aCc) | [Touch](https://open.spotify.com/album/0OLTA9mEZfUrvsEoiZZ0xV) | 6:13 | 2025-02-14 | 2025-02-28 |
-| [Track 3](https://open.spotify.com/track/5Uv914VDC2yiPp0n2JBfX8) | [Goldmax](https://open.spotify.com/artist/3yWkz47Z8kE6z1xW6rjkAl) | [Ogesi](https://open.spotify.com/album/4nzUvHqFaxqlJhxqOvXQJN) | 0:00 | 2026-04-30 |  |
 | [Traffic](https://open.spotify.com/track/4Zsj1GkqCnMhDk8ARB6pju) | [Cinimin](https://open.spotify.com/artist/7x5rKYGYaTOSjr5B3EBAkC) | [Traffic](https://open.spotify.com/album/4eJvBTfzGNVz6LFCYgUTHf) | 2:59 | 2022-09-22 | 2022-10-14 |
 | [Train To Work](https://open.spotify.com/track/1pNyMl9Tj4uQgyW21yY95D) | [Dr Feel](https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq) | [Serengeti](https://open.spotify.com/album/4dACuW8u8dZA8k5U5ZFsOh) | 7:00 | 2022-03-24 | 2022-06-18 |
 | [Tribal Drums](https://open.spotify.com/track/0IVgGcimUhHhQroMmy78Zn) | [Dr Feel](https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq) | [Tribal Drums](https://open.spotify.com/album/6ZWXbOy4XasSJS7RFAz68n) | 7:14 | 2022-07-07 | 2022-07-15 |

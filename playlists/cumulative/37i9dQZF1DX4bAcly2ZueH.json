@@ -451,6 +451,24 @@
     },
     {
       "album": {
+        "name": "Diavola",
+        "url": "https://open.spotify.com/album/4lQriMCxFMyor9TIJlvOxU"
+      },
+      "artists": [
+        {
+          "name": "Gabrielle Cavassa",
+          "url": "https://open.spotify.com/artist/6V9mKint0pfZjIbeFF9vQk"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232866,
+      "name": "Bossy Nova",
+      "url": "https://open.spotify.com/track/6Ol78Z5mqB1bIcNmfqupIn"
+    },
+    {
+      "album": {
         "name": "Connection",
         "url": "https://open.spotify.com/album/3iFigjuA451SneLjONrGiK"
       },
@@ -1056,7 +1074,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 182000,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/5DZQlseBlIL18VLqFklHLC"

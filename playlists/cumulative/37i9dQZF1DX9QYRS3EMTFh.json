@@ -17897,24 +17897,6 @@
     },
     {
       "album": {
-        "name": "VALHALLA",
-        "url": "https://open.spotify.com/album/73dCbutyxgXwuu3IyOLLxn"
-      },
-      "artists": [
-        {
-          "name": "Yo Joshy",
-          "url": "https://open.spotify.com/artist/6nqbsvHdj0s0m3JVobStqm"
-        }
-      ],
-      "date_added": "2026-04-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 7",
-      "url": "https://open.spotify.com/track/7o8YOKE4hL0jb9Cuqlbv8j"
-    },
-    {
-      "album": {
         "name": "Tremor",
         "url": "https://open.spotify.com/album/3rD9fNOvN2Pi90kgBnDPfU"
       },
@@ -18388,6 +18370,24 @@
       "duration_ms": 162666,
       "name": "V6",
       "url": "https://open.spotify.com/track/7aBd8qMooFYZtQQwQJFAdX"
+    },
+    {
+      "album": {
+        "name": "VALHALLA",
+        "url": "https://open.spotify.com/album/73dCbutyxgXwuu3IyOLLxn"
+      },
+      "artists": [
+        {
+          "name": "Yo Joshy",
+          "url": "https://open.spotify.com/artist/6nqbsvHdj0s0m3JVobStqm"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138883,
+      "name": "VALHALLA",
+      "url": "https://open.spotify.com/track/7o8YOKE4hL0jb9Cuqlbv8j"
     },
     {
       "album": {

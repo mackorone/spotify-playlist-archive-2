@@ -4,7 +4,7 @@
 
 > Best of Desi Hip\-Hop! Cover: Shubh
 
-509 songs - 1 day 3 hr 55 min
+510 songs - 1 day 3 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Bombay](https://open.spotify.com/track/0wbCFh6oz5RRywuV2rFkXI) | [ST MAN](https://open.spotify.com/artist/7FkwKgrWfjYJ3sgAFgGr31) | [Bombay](https://open.spotify.com/album/3uFYTqyJjHzgT2uzPdvOMV) | 3:06 | 2025-08-29 | 2025-09-13 |
 | [Bombay to Punjab](https://open.spotify.com/track/1xoQjCAP6a63tZXbsMziXk) | [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3), [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Down to Earth](https://open.spotify.com/album/5q3xcIxiEhCrxwSaiiAqQ3) | 4:03 | 2022-07-18 | 2024-01-06 |
 | [Bonnona](https://open.spotify.com/track/6ahGShWSkIHVoBd278gYnC) | [DJ JNK](https://open.spotify.com/artist/0cw03AoYoYH79oBa0L0hoT), [SHAN PUTHA](https://open.spotify.com/artist/5xniI4GjmLsnYzG7WXkGEQ), [Moniyo](https://open.spotify.com/artist/1QcBHj8ZwJZVHVRp61NSAo) | [Bonnona](https://open.spotify.com/album/1kNmagm39NTOGvTI7Hrzfg) | 3:57 | 2021-12-03 | 2022-02-25 |
+| [Boom Shaka](https://open.spotify.com/track/1g6nQTE5x7eLJX7tXCTiSz) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Boom Shaka](https://open.spotify.com/album/30WCmigi6kMczGUKjmtqxb) | 3:38 | 2026-05-01 |  |
 | [Borrowed Time](https://open.spotify.com/track/2c8Zgbc9RBI7rw1Pk3e3Py) | [Jokhay](https://open.spotify.com/artist/0Nl4kTPLk2ucrARvaf55zQ), [Talhah Yunus](https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5) | [Borrowed Time](https://open.spotify.com/album/538jMaH0TFW08ER9Ey5KVS) | 3:41 | 2025-04-11 |  |
 | [Bt Ho Gayi](https://open.spotify.com/track/1guV4vXt4fnnwALAdxy5hq) | [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui) | [Mtv Hustle 2.0](https://open.spotify.com/album/2WbTyQKy64ReQPkxN4pR8R) | 2:36 | 2024-01-05 | 2024-04-19 |
 | [Bt Ho Gayi](https://open.spotify.com/track/0TzpHT6hJ5pb3P6CqIduh3) | [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui) | [Hustle 2.0](https://open.spotify.com/album/0eNoZ7pnoeiq2iF7scY3ss) | 2:40 | 2022-10-10 | 2024-08-10 |
@@ -212,7 +213,7 @@
 | [Haryana Hood](https://open.spotify.com/track/1RdrAqXa2fUj2XytsKaUwl) | [Irshad Khan](https://open.spotify.com/artist/6fzmobEykeKCwfhH6EsZh4) | [Haryana Hood](https://open.spotify.com/album/4x2HtG6BCrYlok67vSgxjj) | 3:31 | 2023-10-03 |  |
 | [HAWA ANEY DE](https://open.spotify.com/track/4CrU2QRv3leVXjHuExztm4) | [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [HAWA ANEY DE](https://open.spotify.com/album/0UDFjW4d0QPRZ5OuNNjn1U) | 3:18 | 2025-12-05 | 2026-04-25 |
 | [Heartbreak Kid](https://open.spotify.com/track/1ktAfHym69UrvWIgx2qPPm) | [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [My Terrible Mind](https://open.spotify.com/album/6s8fMxJ4ujl75R9ptKwltE) | 4:04 | 2024-12-12 | 2025-01-14 |
-| [Hello Kitty](https://open.spotify.com/track/1rOmmK1ev34M7DKuJJleQM) | [Talhah Yunus](https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5), [Jokhay](https://open.spotify.com/artist/0Nl4kTPLk2ucrARvaf55zQ), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [Hello Kitty](https://open.spotify.com/album/2ShVLQWrcqmk6kTprcQ8AR) | 4:25 | 2026-01-09 |  |
+| [Hello Kitty](https://open.spotify.com/track/1rOmmK1ev34M7DKuJJleQM) | [Talhah Yunus](https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5), [Jokhay](https://open.spotify.com/artist/0Nl4kTPLk2ucrARvaf55zQ), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [Hello Kitty](https://open.spotify.com/album/2ShVLQWrcqmk6kTprcQ8AR) | 4:25 | 2026-01-09 | 2026-05-02 |
 | [HHS FREEVERSE](https://open.spotify.com/track/0F0wM49lO5MttGj9coJMTc) | [Shia](https://open.spotify.com/artist/036I1961YmToKsWyQaP9Ic) | [HHS FREEVERSE](https://open.spotify.com/album/1MpmSMnjbb4pateD0uGB6q) | 2:44 | 2026-02-06 | 2026-02-21 |
 | [Hisaab](https://open.spotify.com/track/1yRBYvgibg7JVS6uGvbDGU) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Street Dreams](https://open.spotify.com/album/3UFq6P2Qu3yNM2hMZqfZ1Y) | 3:26 | 2024-08-09 | 2025-02-08 |
 | [HITMAN](https://open.spotify.com/track/0W73h0cijRWf00Oy0kKWiX) | [Rozeo](https://open.spotify.com/artist/0mojEh0eM7WmhBI4WBCmE0), [ASHIR](https://open.spotify.com/artist/1GRnzlBtgvTJsk4G3gdn9L), [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY) | [HITMAN](https://open.spotify.com/album/043jiEqeRfP5t4DYSj3rFU) | 3:00 | 2022-10-10 | 2022-12-01 |

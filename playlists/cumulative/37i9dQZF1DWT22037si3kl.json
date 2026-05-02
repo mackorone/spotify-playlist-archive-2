@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "pral\u00e9m de outfit. AURA. Foto: Nebrugg",
+  "description": "pral\u00e9m de outfit. AURA. Foto: Brand\u00e3o85",
   "name": "O Drip",
   "tracks": [
     {
@@ -1294,6 +1294,24 @@
       "duration_ms": 151489,
       "name": "BLOCKO",
       "url": "https://open.spotify.com/track/34Tg2hUpJ0KfHktOEOmv8G"
+    },
+    {
+      "album": {
+        "name": "ISSO \u00c9 TRAP VOL.2",
+        "url": "https://open.spotify.com/album/5jiPp1YPjyhcWqU6jYQxlv"
+      },
+      "artists": [
+        {
+          "name": "Brand\u00e3o85",
+          "url": "https://open.spotify.com/artist/2KwQkyJzT9r6Hh56jtfuse"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125217,
+      "name": "BLUNT DE GOIABA",
+      "url": "https://open.spotify.com/track/7cLt8S1uKvo41gRyRaaivR"
     },
     {
       "album": {
@@ -7149,6 +7167,24 @@
     },
     {
       "album": {
+        "name": "ISSO \u00c9 DRILL",
+        "url": "https://open.spotify.com/album/7796v5MTB3eTFUyrYG794c"
+      },
+      "artists": [
+        {
+          "name": "Nebrugg",
+          "url": "https://open.spotify.com/artist/2UD8upUvL1eqllSlMpDIeC"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114162,
+      "name": "MONCLER",
+      "url": "https://open.spotify.com/track/4QM34h26nHRBQO9VifXflJ"
+    },
+    {
+      "album": {
         "name": "Moncler",
         "url": "https://open.spotify.com/album/2XF19VjIrDG2p59lh3OSBc"
       },
@@ -7350,7 +7386,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 127916,
       "name": "MULIERES",
       "url": "https://open.spotify.com/track/4hXsF7dAII2A4YW1Jtg2zc"
@@ -9958,7 +9994,7 @@
       ],
       "date_added": "2025-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 168960,
       "name": "Reuni\u00e3o De Matuto",
       "url": "https://open.spotify.com/track/2Gy5gOqRd5gKlYGszVcckO"

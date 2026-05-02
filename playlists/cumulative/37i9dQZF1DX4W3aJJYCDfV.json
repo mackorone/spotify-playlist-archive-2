@@ -98423,7 +98423,7 @@
         },
         {
           "name": "Tiga",
-          "url": "https://open.spotify.com/artist/6dfbRE1slg9q6xXbMiB9Rn"
+          "url": "https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC"
         }
       ],
       "date_added": "2026-04-30",
@@ -99928,6 +99928,28 @@
       "duration_ms": 234549,
       "name": "DOWN (feat. Malevolence)",
       "url": "https://open.spotify.com/track/3oGNDHK33fp1GMqU9e4HQ7"
+    },
+    {
+      "album": {
+        "name": "POWERSCROFT",
+        "url": "https://open.spotify.com/album/4vRMGZDyQrJfRxkIwlnPsR"
+      },
+      "artists": [
+        {
+          "name": "IZCO",
+          "url": "https://open.spotify.com/artist/4uqqEE1NaQBAa4wnDug9c1"
+        },
+        {
+          "name": "Osquello",
+          "url": "https://open.spotify.com/artist/6ScAPpYnDsH3Cu3TKmhUJr"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281655,
+      "name": "Down 4 (feat. Osquello)",
+      "url": "https://open.spotify.com/track/2nKlFEzbCrDTgHqledJn06"
     },
     {
       "album": {
@@ -270814,12 +270836,12 @@
       },
       "artists": [
         {
-          "name": "Groove Theory",
-          "url": "https://open.spotify.com/artist/7opRqRgF9lvnVraBFCMvIj"
-        },
-        {
           "name": "Cloonee",
           "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        },
+        {
+          "name": "Groove Theory",
+          "url": "https://open.spotify.com/artist/7opRqRgF9lvnVraBFCMvIj"
         }
       ],
       "date_added": "2026-04-30",
@@ -294140,6 +294162,24 @@
       "duration_ms": 197075,
       "name": "put me in a letter",
       "url": "https://open.spotify.com/track/0hIpPG3fQP9CZfxf2cx60Q"
+    },
+    {
+      "album": {
+        "name": "Put On A Record Tommy",
+        "url": "https://open.spotify.com/album/505GPhLVVEmbneKz9dewvW"
+      },
+      "artists": [
+        {
+          "name": "Tom A. Smith",
+          "url": "https://open.spotify.com/artist/6haZIHZVYI79wKvp6FCFML"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188287,
+      "name": "Put On A Record Tommy",
+      "url": "https://open.spotify.com/track/3ltV7o6cES5QLAOnudIRl1"
     },
     {
       "album": {
@@ -380056,42 +380096,6 @@
       "duration_ms": 246078,
       "name": "Tracing Lines",
       "url": "https://open.spotify.com/track/3HD4vh1AGcy0ub2OMfzPJL"
-    },
-    {
-      "album": {
-        "name": "Put On A Record Tommy",
-        "url": "https://open.spotify.com/album/505GPhLVVEmbneKz9dewvW"
-      },
-      "artists": [
-        {
-          "name": "Tom A. Smith",
-          "url": "https://open.spotify.com/artist/6haZIHZVYI79wKvp6FCFML"
-        }
-      ],
-      "date_added": "2026-04-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 4",
-      "url": "https://open.spotify.com/track/3ltV7o6cES5QLAOnudIRl1"
-    },
-    {
-      "album": {
-        "name": "POWERSCROFT",
-        "url": "https://open.spotify.com/album/4vRMGZDyQrJfRxkIwlnPsR"
-      },
-      "artists": [
-        {
-          "name": "IZCO",
-          "url": "https://open.spotify.com/artist/4uqqEE1NaQBAa4wnDug9c1"
-        }
-      ],
-      "date_added": "2026-04-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 5",
-      "url": "https://open.spotify.com/track/2nKlFEzbCrDTgHqledJn06"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks!
 
-1,127 songs - 2 day 10 hr 4 min
+1,128 songs - 2 day 10 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -783,6 +783,7 @@
 | [Prada](https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i) | [cassö](https://open.spotify.com/artist/5wCmhq5J2hPwL2r0eKurxn), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Prada](https://open.spotify.com/album/5MU0RmBSpoSxOPYBfcobDc) | 2:12 | 2023-08-11 | 2023-12-14 |
 | [Praise Me \(feat\. Stefi Novo\) \[Andrew Mathers Remix\]](https://open.spotify.com/track/2JuyIzF2w2rZcwJa0pcO6G) | [Jack Wins](https://open.spotify.com/artist/5v8ZROs9c26k4yGMxUkebt), [Stefi Novo](https://open.spotify.com/artist/3key79uXViuXxdyOgRfoTo), [Andrew Mathers](https://open.spotify.com/artist/5rjFsTXq2iEMk09Pxtz2U0) | [Praise Me \(feat\. Stefi Novo\) \[Andrew Mathers Remix\]](https://open.spotify.com/album/3FUywAIGufavK8LqT5SitE) | 2:50 | 2023-05-18 | 2023-12-14 |
 | [Prayer in C](https://open.spotify.com/track/2uzpANEcgIt4jXpeGcpCwb) | [John Skyfield](https://open.spotify.com/artist/6G8Vv979uOK1e7ZBIX2rzp), [YKATI](https://open.spotify.com/artist/2FOTwZJ9lsI3mpT68nqc10) | [Prayer in C](https://open.spotify.com/album/1TuBztbB5bYSp3wN5EynFu) | 2:19 | 2024-12-05 |  |
+| [Pressure](https://open.spotify.com/track/7CQNd8MKfv1CDDgn3JH8xk) | [Lahox](https://open.spotify.com/artist/5aePNdleZnrAJYwd6zv1LR) | [Pressure](https://open.spotify.com/album/5BTu8yBKhjZWwxzVt5cAAH) | 2:33 | 2026-05-01 |  |
 | [Pretending](https://open.spotify.com/track/7JPG3ljp5px1ocLYO4EmNr) | [DEBO](https://open.spotify.com/artist/3EznjIn5ZWWsgVtljYDd7Y) | [Pretending](https://open.spotify.com/album/4VOnowpY0wQgluSSeJa706) | 2:05 | 2023-04-12 | 2023-05-02 |
 | [Problems](https://open.spotify.com/track/6gKKGDO4JlrJDf9EYzBk7J) | [ODJO](https://open.spotify.com/artist/0PTMBIPah6TbcefoTsEkUn) | [Problems](https://open.spotify.com/album/5QtbFLSTAwiBSd9WJS1pTm) | 2:52 | 2023-02-12 | 2023-03-25 |
 | [Pump It](https://open.spotify.com/track/7K0bmMQyro8sd5NEpEqq6n) | [Damien N\-Drix](https://open.spotify.com/artist/5728TFNG2bx7GzacEAz3yU) | [Pump It](https://open.spotify.com/album/31nJohTPaHhZcfzthYgbRb) | 2:22 | 2023-02-12 | 2023-03-25 |

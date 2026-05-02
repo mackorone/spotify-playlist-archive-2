@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "The new wave of Latin pop \ud83c\udf0a Cover: nic",
+  "description": "The new wave of Latin pop \ud83c\udf0a Cover: Marcelo Rubio",
   "name": "el nuevo pop",
   "tracks": [
     {
@@ -334,7 +334,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 182016,
       "name": "2023",
       "url": "https://open.spotify.com/track/7qGEx91lcThz9i0WJkuj39"
@@ -3504,7 +3504,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 182000,
       "name": "cari\u00f1o",
       "url": "https://open.spotify.com/track/4R8grinJeW7qnUxpoMx3CI"
@@ -5078,6 +5078,24 @@
       "duration_ms": 198813,
       "name": "cuerpo",
       "url": "https://open.spotify.com/track/5VLXFC7eczhehufGijWPC0"
+    },
+    {
+      "album": {
+        "name": "CULE POCO (sirena_besarico_coste\u00f1a)",
+        "url": "https://open.spotify.com/album/2AjV3IQ9rioKsjNPW2JiPC"
+      },
+      "artists": [
+        {
+          "name": "ARIA VEGA",
+          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140461,
+      "name": "CULE POCO (sirena_besarico_coste\u00f1a)",
+      "url": "https://open.spotify.com/track/3j0avHj4G5EPk6sCCj8NdQ"
     },
     {
       "album": {
@@ -7162,7 +7180,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 174406,
       "name": "Encima De La Mesa",
       "url": "https://open.spotify.com/track/1bXqMSi9Qzg11PvZDjPdoe"
@@ -7184,6 +7202,28 @@
       "duration_ms": 134446,
       "name": "ENCONTREMOS UNA MANERA",
       "url": "https://open.spotify.com/track/7vB1xkHbYIC6pLavmhMJjb"
+    },
+    {
+      "album": {
+        "name": "Encubiertos",
+        "url": "https://open.spotify.com/album/4Ykjfr35jOU2EQnFwYz9ui"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        },
+        {
+          "name": "Corina Smith",
+          "url": "https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155226,
+      "name": "Encubiertos",
+      "url": "https://open.spotify.com/track/3AShwV9UQ0K0xXB83zAwZi"
     },
     {
       "album": {
@@ -8942,7 +8982,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 204194,
       "name": "grillos",
       "url": "https://open.spotify.com/track/7A9cJvJvTynNe4yjcHS30A"
@@ -9235,6 +9275,24 @@
     },
     {
       "album": {
+        "name": "Himno Nacional",
+        "url": "https://open.spotify.com/album/6XIWWHP4vkWz0TFm2vekBp"
+      },
+      "artists": [
+        {
+          "name": "LAGOS",
+          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144423,
+      "name": "Himno Nacional",
+      "url": "https://open.spotify.com/track/3GJGNWgJgQN6xaftJQsBFd"
+    },
+    {
+      "album": {
         "name": "Home Alone",
         "url": "https://open.spotify.com/album/0Bfeaf1WqowUo8XndE8YC4"
       },
@@ -9366,6 +9424,24 @@
       "duration_ms": 150742,
       "name": "H\u00e1blame Claro",
       "url": "https://open.spotify.com/track/5zMbxpqETt0qsKL1lXgiVJ"
+    },
+    {
+      "album": {
+        "name": "I N T E N S I D A D",
+        "url": "https://open.spotify.com/album/60w9jb6QvamAWBUzY3xYeL"
+      },
+      "artists": [
+        {
+          "name": "Zulia",
+          "url": "https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166336,
+      "name": "I N T E N S I D A D",
+      "url": "https://open.spotify.com/track/0h8dF0FcFb8DEz668vlpxZ"
     },
     {
       "album": {
@@ -11394,7 +11470,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 221179,
       "name": "Llueve tu nombre",
       "url": "https://open.spotify.com/track/4Y7OdHmdC0lrSnA0sKK2bb"
@@ -12434,6 +12510,28 @@
       "duration_ms": 192320,
       "name": "Ma\u00f1ana",
       "url": "https://open.spotify.com/track/2CGhzWArXQZG86V1Ztv4Q2"
+    },
+    {
+      "album": {
+        "name": "Vulnerable, m\u00e1s de lo normal",
+        "url": "https://open.spotify.com/album/5xNjZLAqvQXVnxg3Guwl8s"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Rubio",
+          "url": "https://open.spotify.com/artist/5Nk0ZytxbTmln7pHwEEVYG"
+        },
+        {
+          "name": "ROBI",
+          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171050,
+      "name": "Ma\u00f1ana nos volvemos a odiar",
+      "url": "https://open.spotify.com/track/7d5JPlh0sQynmCPSWAIZS9"
     },
     {
       "album": {
@@ -14950,7 +15048,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 142576,
       "name": "Noches por madrid <3",
       "url": "https://open.spotify.com/track/3u8yzpUXRzMWGV0LOcdXVV"
@@ -16248,7 +16346,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 211084,
       "name": "pelinegra",
       "url": "https://open.spotify.com/track/1L2cHRExPDjaUpMaHa4j5x"
@@ -21359,6 +21457,28 @@
     },
     {
       "album": {
+        "name": "AMOR, QUI\u00c9N ERES?",
+        "url": "https://open.spotify.com/album/5EwAecivTZp1yYcXpbHq8h"
+      },
+      "artists": [
+        {
+          "name": "Leslie Grace",
+          "url": "https://open.spotify.com/artist/6BeO1KuAWBqFriL1mLHtNc"
+        },
+        {
+          "name": "Martox",
+          "url": "https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185832,
+      "name": "TU SUPITE?",
+      "url": "https://open.spotify.com/track/0sYxmetxv0rmnLB1epKWUu"
+    },
+    {
+      "album": {
         "name": "ESENCIA",
         "url": "https://open.spotify.com/album/39dBODVnnDV4ZB1TtPeMTj"
       },
@@ -21986,6 +22106,28 @@
       "duration_ms": 218823,
       "name": "VAIV\u00c9N",
       "url": "https://open.spotify.com/track/7lU2NQ7kjK3TiNepbf2upU"
+    },
+    {
+      "album": {
+        "name": "Vaiv\u00e9n",
+        "url": "https://open.spotify.com/album/1CSS09cVRbXw2ot0l9tfBc"
+      },
+      "artists": [
+        {
+          "name": "Raquel Sof\u00eda",
+          "url": "https://open.spotify.com/artist/0J9JLJmiTXJFvvyHS3Qzn4"
+        },
+        {
+          "name": "Gonza Silva",
+          "url": "https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177605,
+      "name": "Vaiv\u00e9n",
+      "url": "https://open.spotify.com/track/346d226RJrXm7dQc448i0l"
     },
     {
       "album": {

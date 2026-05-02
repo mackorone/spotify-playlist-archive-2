@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTKDs2aOkxu.md) - [plain]
 
 > The best indie music of the moment\. Cover: MOIO
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,166,034 likes - 80 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,166,064 likes - 80 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTKDs2aOkxu.md) - [plain]
 | 44 | [One Thing At A Time](https://open.spotify.com/track/1KuW8u6AAPmCzpSCfWbq4I) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [One Thing At A Time](https://open.spotify.com/album/0iGHI45DWOOb5QG7aDlzvm) | 4:42 |
 | 45 | [Tractor Beam](https://open.spotify.com/track/3SCe8EBhzxVx5Tqhv9cYqi) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Tractor Beam](https://open.spotify.com/album/4ZkRrdsD1RP5UdCmDP6s8Q) | 3:34 |
 | 46 | [Florence](https://open.spotify.com/track/4vNf1qqBHno9dM6PcgVBHj) | [Ea Othilde](https://open.spotify.com/artist/1pwHSyOp1lppPxASOG0J99) | [Florence](https://open.spotify.com/album/0GAuzNrkQcaZyNezFjNDSB) | 4:31 |
-| 47 | [Track 4](https://open.spotify.com/track/3ltV7o6cES5QLAOnudIRl1) | [Tom A\. Smith](https://open.spotify.com/artist/6haZIHZVYI79wKvp6FCFML) | [Put On A Record Tommy](https://open.spotify.com/album/505GPhLVVEmbneKz9dewvW) | 0:00 |
+| 47 | [Put On A Record Tommy](https://open.spotify.com/track/3ltV7o6cES5QLAOnudIRl1) | [Tom A\. Smith](https://open.spotify.com/artist/6haZIHZVYI79wKvp6FCFML) | [Put On A Record Tommy](https://open.spotify.com/album/505GPhLVVEmbneKz9dewvW) | 3:08 |
 | 48 | [Kick The Curb](https://open.spotify.com/track/0VjvyzMoleGvCVtGnJQI6O) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Kick The Curb](https://open.spotify.com/album/5mr4cqipb96XwX12Flio21) | 4:11 |
 | 49 | [haven't seen you in a while](https://open.spotify.com/track/7JL6PmKndly4X7jODvh1d9) | [Bottle Rockets](https://open.spotify.com/artist/1bFphh6DSkuYX0mjTxAxgK) | [haven't seen you in a while](https://open.spotify.com/album/3jliCbDDzo2YMZuamfbVgQ) | 3:13 |
 | 50 | [Take me as i am](https://open.spotify.com/track/2XQW9PF9na8qextnDmjg9K) | [Mary Middlefield](https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs) | [Will You Take Me As I Am?](https://open.spotify.com/album/5ozgfuDI2e1vjcSKwXkRaF) | 3:19 |

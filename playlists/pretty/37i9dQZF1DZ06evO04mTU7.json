@@ -1,12 +1,12 @@
 {
   "description": "This is AJULLIACOSTA. The essential tracks, all in one playlist.",
-  "num_followers": 14747,
+  "num_followers": 14768,
   "original_name": "This Is AJULLIACOSTA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afFKAAAAAABaj6quaPjJKNTdK/Ag4+W5",
+  "snapshot_id": "afKbgAAAAABVYNqNXbL6mdZH2hTXZU0O",
   "tracks": [
     {
       "added_at": null,
@@ -443,6 +443,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "AJULLIACOSTA: WE4Sessions",
+        "url": "https://open.spotify.com/album/4hlz09t1ElUNWchQPwLo6W"
+      },
+      "artists": [
+        {
+          "name": "AJULLIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "WE4Sessions",
+          "url": "https://open.spotify.com/artist/22Rda48vM8L5smeaNuP54Y"
+        }
+      ],
+      "duration_ms": 260976,
+      "name": "Part The Box / Quero Saber",
+      "url": "https://open.spotify.com/track/2tmZzbGfZDkbEreOzTZBEI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ai Caralh*",
         "url": "https://open.spotify.com/album/2BguUcLv11qrIymhG7zonv"
       },
@@ -463,26 +483,6 @@
       "duration_ms": 169655,
       "name": "Ai Caralh*",
       "url": "https://open.spotify.com/track/3U2jpqcfhA9vpy2jwEQqYr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AJULLIACOSTA: WE4Sessions",
-        "url": "https://open.spotify.com/album/4hlz09t1ElUNWchQPwLo6W"
-      },
-      "artists": [
-        {
-          "name": "AJULLIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "WE4Sessions",
-          "url": "https://open.spotify.com/artist/22Rda48vM8L5smeaNuP54Y"
-        }
-      ],
-      "duration_ms": 260976,
-      "name": "Part The Box / Quero Saber",
-      "url": "https://open.spotify.com/track/2tmZzbGfZDkbEreOzTZBEI"
     },
     {
       "added_at": null,

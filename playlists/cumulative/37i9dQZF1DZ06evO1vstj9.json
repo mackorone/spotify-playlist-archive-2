@@ -500,10 +500,32 @@
       ],
       "date_added": "2026-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 250152,
       "name": "Honour",
       "url": "https://open.spotify.com/track/6slVYLrJprL3ayBNhSgd5r"
+    },
+    {
+      "album": {
+        "name": "Honour (feat. Baby Rose)",
+        "url": "https://open.spotify.com/album/4wuPuMG4g7JHwhTopjBPwG"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        },
+        {
+          "name": "Baby Rose",
+          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251011,
+      "name": "Honour (feat. Baby Rose)",
+      "url": "https://open.spotify.com/track/6hVfkxD7h8aQtmSgmPlMM5"
     },
     {
       "album": {

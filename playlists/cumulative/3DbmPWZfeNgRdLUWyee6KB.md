@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-1,004 songs - 2 day 10 hr 47 min
+1,007 songs - 2 day 10 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -267,6 +267,7 @@
 | [Falling in Love](https://open.spotify.com/track/2MKPa3GKO45HF0r2HXYISS) | [FreeRider X](https://open.spotify.com/artist/6SWiYmuroeOupS9tZDSsy2) | [Falling in Love](https://open.spotify.com/album/4i4RbGOEc9CHtqN0vR9BBq) | 2:45 | 2025-12-09 | 2026-01-05 |
 | [Falling into the Void](https://open.spotify.com/track/78cIrudzqU1eQGHoKG1ELh) | [Beyond the touch](https://open.spotify.com/artist/7lhZrZDGFVZFlw86EmXo93) | [Strange Illusions](https://open.spotify.com/album/2mUj79wj2jdhbk3744NgG7) | 3:56 | 2025-12-04 | 2026-01-05 |
 | [Falling Overboard](https://open.spotify.com/track/6AfWBqiJuRf4dlphj8lshD) | [Cormac O Caoimh](https://open.spotify.com/artist/5tTI635bEYNCY5PDx79cvt) | [Falling Overboard](https://open.spotify.com/album/7jELmunE3P5jU0JmzF0EcG) | 2:33 | 2025-09-23 | 2025-12-21 |
+| [False Prophet](https://open.spotify.com/track/3wE5xlV9u7L91aa7KfknwG) | [Holy Island](https://open.spotify.com/artist/4mDskLBS4JOyI52mzQ9H5m) | [False Prophet](https://open.spotify.com/album/29bErY1NGaYrHjmNIMvX7x) | 4:10 | 2026-05-01 |  |
 | [Fama Drama](https://open.spotify.com/track/1z9ix3duj6QUsB8Q9g7QaJ) | [Tiago Amorim](https://open.spotify.com/artist/1blXm9FViuataPse8jKebH) | [Fama Drama](https://open.spotify.com/album/6QiMD6Cfr3QmcpLezXr5YD) | 3:10 | 2026-04-10 |  |
 | [Farewell](https://open.spotify.com/track/5GdjvwCtofhDovXaAHFl2y) | [Gregg Lindor](https://open.spotify.com/artist/6objSyYBvfA8DCERGN7ukc) | [Farewell](https://open.spotify.com/album/2e7IZdBUvJnb325fR5S1V2) | 4:23 | 2025-12-09 | 2026-01-05 |
 | [Favara \(Remastered\)](https://open.spotify.com/track/1SZwGBCsnyA346nh8i31Ws) | [Milagro Acustico](https://open.spotify.com/artist/3DGNC89jMak25ZrNzdfnjs), [Carlo Cossu](https://open.spotify.com/artist/6L8CiWpUGlQwWVS63LMiQE) | [Sicilia Araba: Arabic Poets of Sicily 827\-1091 \(Remastered\)](https://open.spotify.com/album/5d75AmGNOpM2U2hBrPuFeA) | 4:25 | 2023-04-20 | 2025-11-29 |
@@ -538,6 +539,7 @@
 | [Maybe Tomorrow](https://open.spotify.com/track/0ARCZiCkfh5zKlNN3IvOp7) | [Paul Marturano](https://open.spotify.com/artist/4ErK966kYcXS7y7s4e3MLA) | [Bucks County](https://open.spotify.com/album/5CwcyeEYyhy2pYlJhZnKTL) | 4:12 | 2025-12-22 | 2026-01-24 |
 | [Maçã](https://open.spotify.com/track/0rydRbJCbrTugZjGkAZZWm) | [Salvatore Nanè](https://open.spotify.com/artist/2OyUGRvXMkmSHMSjacXjNZ), [Andrea Maia](https://open.spotify.com/artist/0GKHbfqyqJ3ViQi45PopsQ), [Luca Segala](https://open.spotify.com/artist/6J49zCELs85KDUCsgXa3X7) | [Maçã](https://open.spotify.com/album/4I6amNqmfeoBtegDw9yrJu) | 3:50 | 2023-04-27 | 2025-11-29 |
 | [Medio lleno el vaso](https://open.spotify.com/track/62xTr4b4oXgrbMWHV5qHgU) | [Sebastián Emilio Alvarez Parafita](https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j) | [Todo le di](https://open.spotify.com/album/0hBx33VEllkcMu4KYo3Po4) | 2:55 | 2025-11-25 | 2026-01-05 |
+| [Mediocre Men](https://open.spotify.com/track/1f8fJND1Iy4Qw87rPvUYIC) | [Jay Moussa\-Mann](https://open.spotify.com/artist/2aSlAzC15sb0NojtkwfsYz) | [Mediocre Men](https://open.spotify.com/album/7ePV736XzcdtRWSeOKuPcm) | 3:27 | 2026-05-01 |  |
 | [Mel](https://open.spotify.com/track/2Yd5UTCFANcqxDxEV29VKm) | [LAVOLTA](https://open.spotify.com/artist/225mMwfH1uWmpEb60eyM7i), [1LUM3](https://open.spotify.com/artist/01JSyuJJh1WCHIuM3Zx7hn) | [No Jardim dos Acasos](https://open.spotify.com/album/4C7QeFe3HpzJ1tNlY9fd9i) | 2:42 | 2026-04-06 |  |
 | [Melissa](https://open.spotify.com/track/5RNBeRzkoHY6Dlv4pEl39n) | [Julian Kancepolski](https://open.spotify.com/artist/6DDqxjhbPR5KUwZ6TomVYE) | [Estantes](https://open.spotify.com/album/4NUa8r6wjIix0KCQZpvQtn) | 3:03 | 2026-03-09 | 2026-04-12 |
 | [Memento](https://open.spotify.com/track/0Nm7ZIm2GgvWBoDktEn8eC) | [De Santtis](https://open.spotify.com/artist/2HnzHLy6N3v8egi2chpYmN) | [Memento](https://open.spotify.com/album/5DAYPurXKBVwVvC1wdLEPv) | 3:59 | 2025-10-17 | 2025-12-21 |
@@ -701,6 +703,7 @@
 | [Restiamo nemici](https://open.spotify.com/track/1OCFBrSkGhaZVR1k858Bst) | [kreio](https://open.spotify.com/artist/3kRclwJ3uJqLsAYwLLjcZK) | [Restiamo nemici](https://open.spotify.com/album/1KOrCzajSDTCz2vsY1cMIw) | 3:27 | 2026-04-21 |  |
 | [Rewind](https://open.spotify.com/track/5SoFyOYhxezOJUihbnccUl) | [Cyfnos](https://open.spotify.com/artist/14ywOW1zA8u5jYhABPTkDr) | [Coda](https://open.spotify.com/album/0zE11JuqyTk2HdGeyhIGHZ) | 2:29 | 2026-01-05 | 2026-02-20 |
 | [Right guy wrong mouth](https://open.spotify.com/track/6JjW4HuSCbEjr8l3svYlH2) | [Phantom goblin king](https://open.spotify.com/artist/25cK0rP6WVJgpZ9H1iVzC9) | [Right guy wrong mouth](https://open.spotify.com/album/3wWsfQ2gBeAmUZezSe2m7I) | 2:36 | 2025-11-17 | 2025-12-21 |
+| [RISE](https://open.spotify.com/track/0ibRgMJrrNUvPDmtYyBkmQ) | [The Pleasure Merchants](https://open.spotify.com/artist/0HLhZJBnQ6Sz23PW4cIyHF) | [RISE](https://open.spotify.com/album/2YaB8Qf03MLpRVAGZopKaO) | 4:11 | 2026-05-01 |  |
 | [Rising Sun](https://open.spotify.com/track/0P6x0ReQrQHHpl88QOMAHZ) | [Raida M](https://open.spotify.com/artist/0Daw8dqrPbm3kyvk3XN4em) | [Rising Sun](https://open.spotify.com/album/3DJOo5uHEAiXdbgLYzAZwk) | 3:14 | 2026-01-26 | 2026-02-28 |
 | [Ritorno dove sei](https://open.spotify.com/track/6OMcPolvYS6yR3PldGmJV9) | [Olda](https://open.spotify.com/artist/02Yce6Eg1kyRM4c20hNQac) | [Ritorno dove sei](https://open.spotify.com/album/5kLBuU4Hf2x0TYRBFem4TD) | 2:32 | 2026-02-19 | 2026-03-25 |
 | [Ritual](https://open.spotify.com/track/2Si2i7LLkGIl1PSm2MEXov) | [Phantom Heart](https://open.spotify.com/artist/5BRfIfZqBuKXYbG3b9Errd) | [Phantom Heart](https://open.spotify.com/album/4DarEB0vxOHFVTDUnKWXi8) | 5:50 | 2026-01-14 | 2026-02-20 |

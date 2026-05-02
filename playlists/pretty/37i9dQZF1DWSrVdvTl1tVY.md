@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrVdvTl1tVY.md) - [plain]
 
 > The biggest house bangers popping off in the UK, let's go! Cover: Chris Lorenzo, aMo \(um\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 746,823 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 746,852 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [One Question](https://open.spotify.com/track/7JvaT4FTTF0aYyacmfbHRY) | [Groove Theory](https://open.spotify.com/artist/7opRqRgF9lvnVraBFCMvIj), [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [One Question](https://open.spotify.com/album/6TCTJ5ZlutXnHBbVtPk5VU) | 3:04 |
+| 1 | [One Question](https://open.spotify.com/track/7JvaT4FTTF0aYyacmfbHRY) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Groove Theory](https://open.spotify.com/artist/7opRqRgF9lvnVraBFCMvIj) | [One Question](https://open.spotify.com/album/6TCTJ5ZlutXnHBbVtPk5VU) | 3:04 |
 | 2 | [Million Things](https://open.spotify.com/track/5LfXCy5ZJXdztuu5ophHzm) | [Tommy Phillips](https://open.spotify.com/artist/3Z1hS6haFjSDvQc8TORkIW) | [Million Things](https://open.spotify.com/album/4EDiQsBlwDTJkquzyOcymi) | 2:40 |
 | 3 | [HOTS 4 U](https://open.spotify.com/track/5nMrR3Ed99WcQ4Vv0wy8Bf) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [aMo \(um\)](https://open.spotify.com/artist/4XVAZbKq64Z3Q0LPpCmoo0) | [HOTS 4 U](https://open.spotify.com/album/3zib9bQNuFbaBs1hsOAfY9) | 3:34 |
 | 4 | [The Connection](https://open.spotify.com/track/3dlkgNR829PMYY7yM9fMlP) | [SOSA](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [The Connection](https://open.spotify.com/album/02N1bq4nfLRE1cfIBLOfnn) | 2:46 |

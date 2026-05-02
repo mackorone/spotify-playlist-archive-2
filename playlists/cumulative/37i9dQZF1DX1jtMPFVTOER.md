@@ -4,7 +4,7 @@
 
 > Explore a genre bending universe centered around jazz\. Cover: Butcher Brown
 
-617 songs - 1 day 12 hr 54 min
+618 songs - 1 day 12 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -488,6 +488,7 @@
 | [Southend Baby](https://open.spotify.com/track/1ve2lB4TYaLEqNnkjZlewo) | [KingTrey](https://open.spotify.com/artist/5dMrRJRJsvS36Mp8u2i7kv) | [Almost Home](https://open.spotify.com/album/22mpXTrMJEfIsdPxVlq3k8) | 2:05 | 2023-01-06 | 2023-07-31 |
 | [Spirit Speak](https://open.spotify.com/track/1d5iBVkBll0xhKH0jk9qaj) | [The Merk](https://open.spotify.com/artist/6ne0qgRZ2nlQMQssYhi6uE) | [Spirit Speak](https://open.spotify.com/album/3YVEw99qlwubma2ysL1rFL) | 3:26 | 2022-01-21 | 2022-02-19 |
 | [stages](https://open.spotify.com/track/7myaznBiseByhlshLINZY2) | [namesbliss](https://open.spotify.com/artist/69NBSJxkHyagyCv9K902iM), [Parkland](https://open.spotify.com/artist/4XbBH4j7yy6wK4VNDB2voR) | [stages](https://open.spotify.com/album/2WknuPmwC4O32U20tfZlFZ) | 1:44 | 2023-11-17 | 2024-07-13 |
+| [Stand Still](https://open.spotify.com/track/1867RP4RmHjiGnBlpk0f3w) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2) | [Stand Still](https://open.spotify.com/album/4oabzSr5LNJ049MLW6iH37) | 2:24 | 2026-05-01 |  |
 | [Statistics](https://open.spotify.com/track/4MhO110MAsJJfTqwv5EVKY) | [Braxton Cook](https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1) | [Black Mona Lisa](https://open.spotify.com/album/1FFEcyvXKJQEJ78DK2knZg) | 3:29 | 2022-09-16 | 2023-09-23 |
 | [Still Dreaming](https://open.spotify.com/track/4hPnhxuP6drBamrjLmXlqw) | [Allysha Joy](https://open.spotify.com/artist/3CzYPWEnpaODw56A53qxh3), [Rara Zulu](https://open.spotify.com/artist/28M1tRkdJtcEpDkWQd7MRI) | [Still Dreaming](https://open.spotify.com/album/0c5hzI9bUtIpae4BNC9Yq6) | 4:24 | 2022-04-08 | 2022-09-03 |
 | [STOP CALLING ME](https://open.spotify.com/track/314r69preySjrl67vpaEI8) | [Blaque Dynamite](https://open.spotify.com/artist/1sJVowZOn1El5JK5HCfcL2) | [Stop Calling Me](https://open.spotify.com/album/2ku6Q6qXy6gjUSYZnXuk6B) | 5:27 | 2024-03-08 |  |
@@ -594,7 +595,7 @@
 | [What You Wanted \- Kiefer Remix](https://open.spotify.com/track/39c1ZzzwH9gYSuYOKjcSbw) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t), [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [What You Wanted \(Kiefer Remix\)](https://open.spotify.com/album/7BcuMGhRuT0IkfP3Amm2ep) | 3:26 | 2022-05-06 | 2022-07-29 |
 | [What You Wanted \- Kiefer Remix](https://open.spotify.com/track/7cQ361jbfRRRelelIHH31m) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t), [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [What You Wanted \(Kiefer Remix\)](https://open.spotify.com/album/3EhKYINR2s3XAiwyfHjEFp) | 3:26 | 2022-05-06 | 2022-11-12 |
 | [Whatcha Know](https://open.spotify.com/track/50xfWsLVNNvXYdeLbdT0lz) | [Bobby Oroza](https://open.spotify.com/artist/7DIW7zcnjQFBTMxhK6V2VQ), [El Michels Affair](https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc) | [Whatcha Know](https://open.spotify.com/album/0w7NTBLYYYWY5fabjAUyhZ) | 3:54 | 2023-06-16 | 2024-01-13 |
-| [When I Close My Eyes](https://open.spotify.com/track/7mBOLmvSFKkELJvI7CJpgi) | [Ferris](https://open.spotify.com/artist/0kxKR9utzILx97Vjj6bA4r) | [When I Close My Eyes](https://open.spotify.com/album/1AT90cAQhj74ZTF0kXuxvI) | 2:57 | 2023-07-21 |  |
+| [When I Close My Eyes](https://open.spotify.com/track/7mBOLmvSFKkELJvI7CJpgi) | [Ferris](https://open.spotify.com/artist/0kxKR9utzILx97Vjj6bA4r) | [When I Close My Eyes](https://open.spotify.com/album/1AT90cAQhj74ZTF0kXuxvI) | 2:57 | 2023-07-21 | 2026-05-02 |
 | [When We Get By](https://open.spotify.com/track/1DNkxLaGqAIU43kHQkunoE) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Brown Sugar](https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4) | 5:44 | 2021-11-12 | 2022-02-19 |
 | [Where You Are](https://open.spotify.com/track/1wkmKVGBLk4A1jblaKVQ3h) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [Where You Are](https://open.spotify.com/album/3bv9unehQKvqOAChCAZcoD) | 3:37 | 2021-11-12 | 2022-03-12 |
 | [Wherever You Are](https://open.spotify.com/track/7JcykXZ7KhEe5hvv1Rt7A1) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [World Music Radio](https://open.spotify.com/album/0cX1ODY38Nd2LuijmfuSjF) | 4:51 | 2023-08-18 |  |

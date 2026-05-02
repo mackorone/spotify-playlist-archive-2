@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Asake, Shoday, Chris Brown, KiDi and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,570 likes - 84 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,773 likes - 84 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 11 | [Keep on Rocking](https://open.spotify.com/track/45zEXK2pGjbpD19Gkq8lC4) | [Numie](https://open.spotify.com/artist/69PdRVeTO6z9bdr3lZKBpN), [Alpha P](https://open.spotify.com/artist/3dUPwMGYAsymFv80wkqEKl) | [Keep on Rocking](https://open.spotify.com/album/1cJzV1g6TSUB55A6wpkOGT) | 3:15 |
 | 12 | [SOWETO](https://open.spotify.com/track/0bSkVdQd3KWWfQf8u0BZHL) | [Siraheem](https://open.spotify.com/artist/1FAkIUZ8pw9AncpmPhhmuh) | [By The Order Of The City](https://open.spotify.com/album/1iihLsQquHsfLgBhPIOgI5) | 2:21 |
 | 13 | [Follow Follow \(feat\. Deela & Paxslim\)](https://open.spotify.com/track/7mJACMFhTNQHae48V6L6g4) | [Somadina](https://open.spotify.com/artist/4C9EX8d2FnWMV2yQZqeG8U), [Le Mav](https://open.spotify.com/artist/59MU62wyOLf8FlV7l8fewL), [DEELA](https://open.spotify.com/artist/10yLOgKTy2iAtvIqkow5l4), [Paxslim](https://open.spotify.com/artist/4XE6eLUu1pp5rcI1cpDpWy) | [Follow Follow \(feat\. Deela & Paxslim\)](https://open.spotify.com/album/3PjgNY7sOacUiwYQhEabxB) | 2:54 |
-| 14 | [Track 1](https://open.spotify.com/track/0zGx4JuFITnZggFoEWuXUh) | [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [CAME OF AGE](https://open.spotify.com/album/1WEt6ZRsPzCTQqmRGgaRID) | 0:00 |
+| 14 | [EASY](https://open.spotify.com/track/0zGx4JuFITnZggFoEWuXUh) | [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [CAME OF AGE](https://open.spotify.com/album/1WEt6ZRsPzCTQqmRGgaRID) | 2:47 |
 | 15 | [Genie Baby](https://open.spotify.com/track/3uI4pCvoglYfqg0kmlSaOb) | [Mellissa](https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW), [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV) | [Diamond Baby](https://open.spotify.com/album/0G9kMkpwJPvgSBHmiHTFdh) | 2:28 |
 | 16 | [Egwu Ogene](https://open.spotify.com/track/7La5cdhplIi4NGxtZqsrYS) | [SoundsofAce](https://open.spotify.com/artist/6KolhxQoubaGZ0kadc85N9) | [SOLAR VOL 2.](https://open.spotify.com/album/0e4qCQjZJZjIQa66TSVNUc) | 2:55 |
 | 17 | [Genesis 2 Revelation \(Shatta Music\)](https://open.spotify.com/track/2LN77vL94QO4VixjDpqY89) | [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [Genesis 2 Revelation \(Shatta Music\)](https://open.spotify.com/album/4A6r0SnmhQPRvXV9Vgbmyr) | 2:09 |

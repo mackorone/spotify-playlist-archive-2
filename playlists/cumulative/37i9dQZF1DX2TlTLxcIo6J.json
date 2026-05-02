@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-17",
-  "description": "New songwriters on the horizon from around the world. Cover: Maria Fernanda Diaz Ju\u00e1rez",
+  "description": "New songwriters on the horizon from around the world. Cover: Shorae Moore",
   "name": "RADAR Songwriters",
   "tracks": [
     {
@@ -114,7 +114,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 159586,
       "name": "Al\u0131\u015ft\u0131m Zehrine",
       "url": "https://open.spotify.com/track/0QH13vxepuaLmJvBFRwDDD"
@@ -410,7 +410,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 189493,
       "name": "Body Better",
       "url": "https://open.spotify.com/track/6q0xuMnc64pDLSE67pQy7e"
@@ -544,7 +544,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 166573,
       "name": "Como Antes",
       "url": "https://open.spotify.com/track/1dyDEkhjJ0T3Qmbio4LpqX"
@@ -606,7 +606,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 175058,
       "name": "Cosas Que Dijimos De Hacer",
       "url": "https://open.spotify.com/track/4vmRgsol9d9ktaY5aoNFUf"
@@ -668,6 +668,24 @@
       "duration_ms": 240065,
       "name": "Crocodiles",
       "url": "https://open.spotify.com/track/3S83qk7cILQeQhguBaWi7x"
+    },
+    {
+      "album": {
+        "name": "Celia",
+        "url": "https://open.spotify.com/album/0v0pKqegGprcnGYUGitYvO"
+      },
+      "artists": [
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193340,
+      "name": "Dangerous Love",
+      "url": "https://open.spotify.com/track/0HLFdqAJZ3sUlICbZeLbYf"
     },
     {
       "album": {
@@ -805,6 +823,32 @@
     },
     {
       "album": {
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/14QJPbKM4KFGbWxUVGcAao"
+      },
+      "artists": [
+        {
+          "name": "DJ Latitude",
+          "url": "https://open.spotify.com/artist/0x8oMbjl1nKuz6Ya0L2UmC"
+        },
+        {
+          "name": "Timi Martins",
+          "url": "https://open.spotify.com/artist/0eQrfPUjzTCTeDfZ7dca4I"
+        },
+        {
+          "name": "Shorae Moore",
+          "url": "https://open.spotify.com/artist/03VxcWyc7o8aYGyiePMYWJ"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203157,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/51rvvMRMCARD0AuSmR2Twg"
+    },
+    {
+      "album": {
         "name": "Favourite Song",
         "url": "https://open.spotify.com/album/1TWDDWs0gQV3YKnQSCbOgh"
       },
@@ -892,7 +936,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 209454,
       "name": "Found (feat. Brent Faiyaz)",
       "url": "https://open.spotify.com/track/0GGfGINoVYiSFXPOjg3RHj"
@@ -1062,7 +1106,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 150560,
       "name": "hard feelings",
       "url": "https://open.spotify.com/track/5sZyB7g56Oy6bs7WLLHZwU"
@@ -1196,6 +1240,28 @@
       "duration_ms": 150386,
       "name": "I Like Me",
       "url": "https://open.spotify.com/track/03e6kd5Gye4OAK0ANM0neZ"
+    },
+    {
+      "album": {
+        "name": "I Pray",
+        "url": "https://open.spotify.com/album/2gfJWeRGqTnAxIft7WB8Ow"
+      },
+      "artists": [
+        {
+          "name": "KCee",
+          "url": "https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG"
+        },
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165663,
+      "name": "I Pray",
+      "url": "https://open.spotify.com/track/1Xlna9IA6XldZqXOjSpAcv"
     },
     {
       "album": {
@@ -1644,7 +1710,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 222096,
       "name": "NE SENLE NE SENS\u0130Z",
       "url": "https://open.spotify.com/track/5bqI4hBdL3OOW0wMtjA9Fn"
@@ -1796,7 +1862,7 @@
       ],
       "date_added": "2025-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 158896,
       "name": "okokok",
       "url": "https://open.spotify.com/track/4qxoOkUtMcTzY3S0eHUziY"
@@ -1854,6 +1920,28 @@
       "duration_ms": 170026,
       "name": "Only Have Eyes 42",
       "url": "https://open.spotify.com/track/6kIgzGx7gH0qAKTFTF5GsU"
+    },
+    {
+      "album": {
+        "name": "Stubborn",
+        "url": "https://open.spotify.com/album/1dfsKiTgOKzA8sLHCNMuKc"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "Shorae Moore",
+          "url": "https://open.spotify.com/artist/03VxcWyc7o8aYGyiePMYWJ"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189897,
+      "name": "Oshaprapra",
+      "url": "https://open.spotify.com/track/3bXRzbErrzDdcMCWX3139p"
     },
     {
       "album": {
@@ -2012,7 +2100,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 207474,
       "name": "Playboy",
       "url": "https://open.spotify.com/track/1Cg51Jk6EoXBQ0KiwzWJfm"
@@ -2296,7 +2384,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 215650,
       "name": "Still Strangers",
       "url": "https://open.spotify.com/track/0w2xc98HHlWQlwuPeKcmu4"
@@ -2546,7 +2634,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 203140,
       "name": "Things You Said",
       "url": "https://open.spotify.com/track/6CJQts0D5UNDV1i2Q7Vdso"
@@ -2568,6 +2656,24 @@
       "duration_ms": 198040,
       "name": "Tiempo Fuera",
       "url": "https://open.spotify.com/track/01gAbqtPWVRLzHKZjqbtwM"
+    },
+    {
+      "album": {
+        "name": "Morayo",
+        "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187346,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/0d1rbxaODhWDBLJ7ywooEj"
     },
     {
       "album": {
@@ -2694,7 +2800,7 @@
       ],
       "date_added": "2024-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 144949,
       "name": "Voglia di vivere",
       "url": "https://open.spotify.com/track/7x4JF2p31MBdOv922q7ClU"
@@ -2774,7 +2880,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 146341,
       "name": "Whole Package (feat. Flo Milli)",
       "url": "https://open.spotify.com/track/3W8LZctsNYqn2DQCJTrLB4"
@@ -2792,7 +2898,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 165157,
       "name": "WISH U PICKED ME\u2026",
       "url": "https://open.spotify.com/track/1jL1WlEx5i1mLxrNpYxN8Y"
@@ -2914,7 +3020,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 183900,
       "name": "yine bana kal",
       "url": "https://open.spotify.com/track/5XXXU9Nx21Klm3vZwyC9V2"

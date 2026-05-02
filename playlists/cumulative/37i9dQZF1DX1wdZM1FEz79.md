@@ -2,9 +2,9 @@
 
 ### [K\-Folk/Acoustic](https://open.spotify.com/playlist/37i9dQZF1DX1wdZM1FEz79)
 
-> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: 볼빨간사춘기 \(BOL4\)\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
+> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: 장범준\(Jang Beom June\)\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
-675 songs - 1 day 15 hr 39 min
+676 songs - 1 day 15 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -326,7 +326,7 @@
 | [Love as much as you can](https://open.spotify.com/track/57WU98fXrRDWzLvTP5Iy43) | [PARK HAE WON](https://open.spotify.com/artist/0to2hcxkSnDl5Td9jEkzel) | [Love as much as you can](https://open.spotify.com/album/4E1EiIC42wfeuxeei2u7GF) | 4:29 | 2024-09-23 | 2024-10-16 |
 | [Love Game❤️](https://open.spotify.com/track/7qN4XytpczA1ndx5q050Kp) | [RIPLEY](https://open.spotify.com/artist/226NgMhCe19mK7xFekn3TZ) | [Love Game❤️](https://open.spotify.com/album/3OTJkQvTdUeImiTgp4zXYy) | 2:22 | 2025-10-02 | 2025-10-14 |
 | [Love is Strange \- 2024 Ver.](https://open.spotify.com/track/32weX7nGizR7hwUArWu2lD) | [Lee Yerin](https://open.spotify.com/artist/1cDDtQ75Yz5Xi9sA16wl3N) | [Love is Strange \(2024 Ver.\)](https://open.spotify.com/album/0InIhRC767qCTVqsTrQvw5) | 3:05 | 2024-08-05 | 2024-08-13 |
-| [Love Is You](https://open.spotify.com/track/6DjDyzhoqpOQJ5ABAtZD3a) | [KIM PUREUM](https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ) | [Undercover High School OST Part.2 \(Soundtrack\)](https://open.spotify.com/album/1NvuWEGKtO8uOGYaf7ufKD) | 2:59 | 2025-04-08 |  |
+| [Love Is You](https://open.spotify.com/track/6DjDyzhoqpOQJ5ABAtZD3a) | [KIM PUREUM](https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ) | [Undercover High School OST Part.2 \(Soundtrack\)](https://open.spotify.com/album/1NvuWEGKtO8uOGYaf7ufKD) | 2:59 | 2025-04-08 | 2026-05-02 |
 | [Love me](https://open.spotify.com/track/1ewt1JR6dMET5S7CBFp7IH) | [A Ryun](https://open.spotify.com/artist/5gqQWX4PzkGSDG54UeA1Hh) | [Love me](https://open.spotify.com/album/5In36LpLXoQ56LmJReMcER) | 3:21 | 2024-06-07 | 2024-07-17 |
 | [Love Me Like That](https://open.spotify.com/track/1lhm29o3syw122xynSKaAK) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Nevertheless, \(Original Television Soundtrack, Pt\. 6\)](https://open.spotify.com/album/4MLxdCgljBck6ddj3BKFTi) | 3:31 | 2021-12-10 |  |
 | [love me only](https://open.spotify.com/track/5pIB8r2aa5tHBXUYZFWT0p) | [Gawon](https://open.spotify.com/artist/5HlsOSLKz3NaCFAjpizas1) | [love me only](https://open.spotify.com/album/02HlmAqrwEu8OmD1nYzL1q) | 3:01 | 2022-06-18 | 2022-07-05 |
@@ -393,6 +393,7 @@
 | [On the Trail](https://open.spotify.com/track/7qBkFGmE3VOPHiKcgFs3Bk) | [Seo Ja Yeong](https://open.spotify.com/artist/21MtEORMs0VrLY1Gy4JXIN) | [On the Trail](https://open.spotify.com/album/2jNmDTt7yiAuF1FOeXdpbF) | 4:01 | 2025-04-01 | 2025-05-26 |
 | [Once again](https://open.spotify.com/track/0397OJPbHsKQVMYK7P34vI) | [Haeun Jang](https://open.spotify.com/artist/2qYrryru6IIfZVMN8HyGnn) | [Once again](https://open.spotify.com/album/2N2GWrRzPjpcEr6Ihy6tpB) | 3:59 | 2022-12-21 | 2023-01-11 |
 | [One Day](https://open.spotify.com/track/1HaOaDNfC9O5gwOKN8Gbvs) | [Vincent Blue](https://open.spotify.com/artist/2AZgVjkPB4a4ULepFyPPgZ) | [Terius Behind Me Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/0h1PAe69zzMZqbOvYMhLo5) | 3:16 | 2022-03-31 | 2022-04-20 |
+| [One day by chance](https://open.spotify.com/track/4ZePtFgXzPDwsaEqIe0bsY) | [Jang Beom June](https://open.spotify.com/artist/529ZdRwFoSKtQ0LPwKxGiu) | [End of the Month, Jang Beom June \(April 2026\) \- One day by chance](https://open.spotify.com/album/2ZxYQ4DTbT3Iu3NnE66hcD) | 3:29 | 2026-05-01 |  |
 | [Only if](https://open.spotify.com/track/1RIYFSubxDnlLuK3LeilyC) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [Roy Kim Live in Begin Again 2](https://open.spotify.com/album/3G2sZtxuU89eVp2npTP4RQ) | 3:33 | 2022-04-12 | 2022-04-15 |
 | [Only in the evening](https://open.spotify.com/track/2o87KX4RWcjQbikKl7MZIA) | [Mackelli](https://open.spotify.com/artist/3U1caC0cdwaoCO94Kj38C7) | [aftersunset](https://open.spotify.com/album/3P7ArYxQfuMfjL9eF122Ka) | 3:10 | 2022-04-12 | 2022-04-16 |
 | [Only Then](https://open.spotify.com/track/7mFigNlS2dsKMhcmJyfpeg) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [Only Then](https://open.spotify.com/album/4erAMXv1Uin2wnf1vW4Eqq) | 4:08 | 2021-12-10 |  |

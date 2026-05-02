@@ -4,7 +4,7 @@
 
 > Let go and let God.
 
-408 songs - 1 day 3 hr 9 min
+409 songs - 1 day 3 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,7 @@
 | [Have My Heart](https://open.spotify.com/track/1x5wCRfjkvBtsWEWO0uBSc) | [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp), [BINDANG](https://open.spotify.com/artist/3TFW2ZeRoCbbx7SrS3rcNW) | [Have My Heart](https://open.spotify.com/album/0VYPJJVnnlaarZXaQFWsu1) | 2:56 | 2024-06-23 | 2025-04-05 |
 | [He Will Hold Me Fast](https://open.spotify.com/track/4weqRLQumuxDEpFVZR3jgu) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx) | [Facing A Task Unfinished](https://open.spotify.com/album/4iaznzAVvJg550xaOBDKOz) | 5:15 | 2024-06-23 | 2026-04-18 |
 | [Heal My Heart \- Live](https://open.spotify.com/track/7EbF54zVBIs1mGRMgbsDPz) | [Brandin Reed](https://open.spotify.com/artist/7oi3qhC7S5XIXYz15C4JHt) | [Heal My Heart](https://open.spotify.com/album/44wEi5xZec7SL5ukLKeYam) | 7:38 | 2024-06-23 | 2025-04-05 |
-| [HEART AND MIND](https://open.spotify.com/track/2rTOQ61GqSMPtxCgboHor1) | [TEMITOPE](https://open.spotify.com/artist/2YrmP8ksRyeEVkzYp5to25), [Zahriya Zachary](https://open.spotify.com/artist/4yKfjUNdXjRX2fHUEgoL5L) | [HEART AND MIND](https://open.spotify.com/album/7lpLhrtvLdWUNh6fA5DYek) | 3:47 | 2025-12-13 |  |
+| [HEART AND MIND](https://open.spotify.com/track/2rTOQ61GqSMPtxCgboHor1) | [TEMITOPE](https://open.spotify.com/artist/2YrmP8ksRyeEVkzYp5to25), [Zahriya Zachary](https://open.spotify.com/artist/4yKfjUNdXjRX2fHUEgoL5L) | [HEART AND MIND](https://open.spotify.com/album/7lpLhrtvLdWUNh6fA5DYek) | 3:47 | 2025-12-13 | 2026-05-02 |
 | [Heartbroken Hallelujah](https://open.spotify.com/track/4FoZKksS4Z9WvNNu9MkgjZ) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [Heartbroken Hallelujah](https://open.spotify.com/album/4fM2CMxvgLQLt2WujJKGy3) | 4:17 | 2025-08-08 | 2025-12-23 |
 | [Heaven's Eyes](https://open.spotify.com/track/5NT4xU0yoihXlVFK5UqXP9) | [Jillian Edwards](https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp) | [Heaven's Eyes](https://open.spotify.com/album/17togDwr6kxfxkVJZupMJt) | 4:33 | 2021-10-31 | 2024-07-27 |
 | [Heavenly Places](https://open.spotify.com/track/008RdIQfWtoSKt1xs4VwrC) | [Ethan Nathaniel](https://open.spotify.com/artist/5tGobqZ8J0XMtFl3H589Sv) | [Heavenly Places](https://open.spotify.com/album/7IMLyMMCKYXfQvlkJfvB5n) | 3:14 | 2025-08-08 |  |
@@ -163,6 +163,7 @@
 | [I Surrender All](https://open.spotify.com/track/01IvkF4SZD8Obe2rg9H9aK) | [Love & The Outcome](https://open.spotify.com/artist/1xU1V8I8pFrMOjtuSmjPBs) | [I Surrender All](https://open.spotify.com/album/6Y2tqC4bqSLFn39x15YFTb) | 3:44 | 2025-12-13 |  |
 | [I Thank God](https://open.spotify.com/track/7ImIqqZ1Fmz0hMo5cu298d) | [Genavieve Linkowski](https://open.spotify.com/artist/3ZTcBbm31RFUaoTeFAuiJF) | [I Thank God](https://open.spotify.com/album/5WM4v69Mjz5u9aqT5bFpcU) | 3:41 | 2025-04-05 | 2026-03-24 |
 | [I Will Sing](https://open.spotify.com/track/1hp6XGO7kEyHhswy8ivk5y) | [Sandra McCracken](https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN) | [I Will Sing](https://open.spotify.com/album/190lL6QopbCPkkch1Y1cl8) | 4:14 | 2023-02-07 | 2024-07-27 |
+| [I've Got the Joy, Joy, Joy](https://open.spotify.com/track/5P1nvpBthudTq8frKVtKBu) | [LoFi Hymnal](https://open.spotify.com/artist/1ItKyEP0abW4czYh7txAaN) | [I've Got the Joy, Joy, Joy](https://open.spotify.com/album/3G6kX2s3giA8XEbc27pohl) | 2:59 | 2026-04-17 |  |
 | [If I Had Stayed](https://open.spotify.com/track/5wWQWPXrFhGcs1qCZtSA8D) | [Gatton](https://open.spotify.com/artist/09wV1iFg4DBtreMGzepTaE) | [If I Had Stayed](https://open.spotify.com/album/6LyuOSTe7Igm3efNqvOn4J) | 2:11 | 2021-10-31 | 2024-04-19 |
 | [If it wasn't for Jesus](https://open.spotify.com/track/7FVckXqUw0kkUU00TxCvV4) | [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [If it wasn't for Jesus](https://open.spotify.com/album/1ZL9ejiRgiehK2F65ywwQ4) | 3:49 | 2025-04-05 |  |
 | [In Christ Alone](https://open.spotify.com/track/781KXCX8oa31Rldiq8at2l) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Jenge](https://open.spotify.com/artist/7u3MaCiypw3nu7mhEvFtdT) | [In Christ Alone](https://open.spotify.com/album/18GgBg1cy64vPbAMB074DH) | 2:12 | 2025-12-13 | 2026-04-05 |

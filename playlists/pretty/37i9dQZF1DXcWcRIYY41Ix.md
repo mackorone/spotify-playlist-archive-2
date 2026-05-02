@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 
 > La nueva ola de trovadores del siglo XXI\. En portada: Sofía Comas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,693 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,704 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 | 99 | [Sin Rosas \- 10 Años de Canciones](https://open.spotify.com/track/1dXkR5gtvEQEmlPk8uMnmn) | [María Ruiz](https://open.spotify.com/artist/0AFj9y8WKAlLA0s0om6NaI), [Pedro Pastor](https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP) | [Sin Rosas \(10 Años de Canciones\)](https://open.spotify.com/album/3zDoOqW1AmX4Z0XI2R0wRN) | 3:15 |
 | 100 | [PRIEGO MÍO](https://open.spotify.com/track/62L8xzFC8mlq8PZ2HPmNCV) | [Raquel Vega](https://open.spotify.com/artist/3fUZwaxrlEZgiwMDuwx5yx) | [PRIEGO MÍO](https://open.spotify.com/album/17SFHbLeUi0rLUfW2g6bWs) | 4:45 |
 
-Snapshot ID: `AAAAAJBU0Vjrdk/ghAJfRwMRsmMK4xrL`
+Snapshot ID: `AAAAAGyYLgDJdODEZRr9frZSfh9Wly/f`

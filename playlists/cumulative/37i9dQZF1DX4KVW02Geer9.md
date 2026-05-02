@@ -2,9 +2,9 @@
 
 ### [X\-Over ジャズ!](https://open.spotify.com/playlist/37i9dQZF1DX4KVW02Geer9)
 
-> クロスオーバー・ジャズの先駆者、更に次世代のシーンの最先端に立つアーティストの曲を、まとめてお届けします。Cover: N.S\. DANCEMBLE
+> クロスオーバー・ジャズの先駆者、更に次世代のシーンの最先端に立つアーティストの曲を、まとめてお届けします。Cover: BIGYUKI
 
-549 songs - 1 day 15 hr 25 min
+550 songs - 1 day 15 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -281,6 +281,7 @@
 | [Lights \(feat\. Blu\)](https://open.spotify.com/track/0ivm0kmxQLyp6njZ7QerWn) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [Blu](https://open.spotify.com/artist/1KeJhR0ENFviw187pD4LPT) | [Orbit](https://open.spotify.com/album/3qjoOf3C7LHzNJz9xJOF6p) | 3:17 | 2024-06-27 | 2024-11-15 |
 | [Lights Out](https://open.spotify.com/track/52qi04bO7emYkJH6lhA4sk) | [Nubiyan Twist](https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Lights Out](https://open.spotify.com/album/5Tu4ytCjEMSDx04f1TwGYf) | 4:01 | 2024-06-27 | 2024-08-09 |
 | [Lion](https://open.spotify.com/track/2JnMEz1aD9m6bZAXUXFliU) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Lotus](https://open.spotify.com/album/0ofdTvYtx4LpsVjemJt71X) | 2:57 | 2025-06-05 | 2025-08-01 |
+| [Lithium](https://open.spotify.com/track/3z6bcFNsj7eZNzMuYgCYDV) | [BIGYUKI](https://open.spotify.com/artist/5bQhICu3eC2RFDr4OPRQHq) | [Lithium](https://open.spotify.com/album/2FT4ZcvJeEJbhDGWdpoS4f) | 3:58 | 2026-05-01 |  |
 | [Little Ghost \- feat.Ayana](https://open.spotify.com/track/5lRvtSHfQtZAc7Z3sCVVs4) | [Takeshi Kurihara](https://open.spotify.com/artist/6FUT8hb16X6z0LD0HUeEyK), [彩菜](https://open.spotify.com/artist/7i4sDrUnoJZK5brWXdx0HS) | [Little Ghost \(feat.Ayana\)](https://open.spotify.com/album/2l2zImOdGQ77OqhqrPVLc2) | 7:17 | 2024-07-18 | 2024-11-08 |
 | [looping second](https://open.spotify.com/track/0m3dCqF4PD3t2cu3Wl3bgb) | [Fuki Kitamura](https://open.spotify.com/artist/0fOvbTCWRCSvYnOIFMiiX9) | [Spira1oop](https://open.spotify.com/album/5vFrH1kauZ2tb0dKt81lDx) | 4:48 | 2025-11-27 |  |
 | [Lost Souls](https://open.spotify.com/track/0MaSu2qUbdaP52OsRCKPyK) | [Chip Wickham](https://open.spotify.com/artist/62MkXCxcZ345tVUHsD9NK0) | [Lost Souls](https://open.spotify.com/album/2JVOuF5RUd94hA6g1rYFyY) | 4:42 | 2025-08-14 | 2025-11-07 |
@@ -322,7 +323,7 @@
 | [Must Have Known](https://open.spotify.com/track/3TlVcT7gmTbwB3607URmTL) | [Takuya Kuroda](https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP), [Corey King](https://open.spotify.com/artist/4QpFZwYNSqn212bHXtpDrc) | [EVERYDAY](https://open.spotify.com/album/7MGQ30eNUS8DqLKQdH2zTi) | 3:43 | 2025-02-27 | 2025-06-27 |
 | [my friend](https://open.spotify.com/track/3uWcSECdnlt0KkOWGFJY9x) | [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm), [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Sector 202](https://open.spotify.com/artist/4wZcgsw8OsO3gxRkbSQ5dP) | [my friend](https://open.spotify.com/album/06f11n0nawAhdN7Tuy3KFQ) | 4:04 | 2025-08-29 | 2026-04-24 |
 | [My Ideal](https://open.spotify.com/track/2B8BmgVUQKTWIOwWGr13Mh) | [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR) | [My Ideal](https://open.spotify.com/album/4SfFruFJG1n6riQqC9FVT4) | 4:43 | 2025-07-24 | 2025-10-03 |
-| [My Life Matters](https://open.spotify.com/track/399lk3KeNdL1DUOpGF1Lky) | [Johnathan Blake](https://open.spotify.com/artist/5FzOdzC3xUlGuFNNOQ4Xms) | [My Life Matters](https://open.spotify.com/album/2xBXyOee7dECjSo657sXeL) | 6:23 | 2025-09-18 |  |
+| [My Life Matters](https://open.spotify.com/track/399lk3KeNdL1DUOpGF1Lky) | [Johnathan Blake](https://open.spotify.com/artist/5FzOdzC3xUlGuFNNOQ4Xms) | [My Life Matters](https://open.spotify.com/album/2xBXyOee7dECjSo657sXeL) | 6:23 | 2025-09-18 | 2026-05-02 |
 | [My people](https://open.spotify.com/track/5LugbTIL82nL9ZxOzRUyrN) | [Shingo Suzuki](https://open.spotify.com/artist/2hiVnoopm3zYugUEwZBuTf), [Nenashi](https://open.spotify.com/artist/675S7vvHTkabWlPQinidmX), [渡辺翔太](https://open.spotify.com/artist/6v8wDyIrJSvfY7lFIX4Byr), [守真人](https://open.spotify.com/artist/7gtghq8vuSIih3yaQHgrbB), [寺久保伶矢](https://open.spotify.com/artist/5p9vfpKQ32WYNdtyt6oSlE) | [My people](https://open.spotify.com/album/0PaQXhs5b80k8iGUkTcQZg) | 3:56 | 2025-12-11 |  |
 | [My Samba \(feat\. Skaai\)](https://open.spotify.com/track/22vlyrI5cI6bnyCg2suFFs) | [寺久保伶矢](https://open.spotify.com/artist/5p9vfpKQ32WYNdtyt6oSlE), [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [My Samba \(feat\. Skaai\)](https://open.spotify.com/album/53Y6SKRMpcTFjHDavqEyV6) | 3:15 | 2026-01-30 |  |
 | [Música Faz Parte de Mim](https://open.spotify.com/track/4RpBzgNoIYrDibKbbHF6yH) | [Dom Salvador](https://open.spotify.com/artist/2ETJpexAxlTPCT6BXHJG1w), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt) | [Música Faz Parte de Mim](https://open.spotify.com/album/0B4DHob4rw3y7E0HKq2w6u) | 5:14 | 2025-06-05 | 2025-07-25 |

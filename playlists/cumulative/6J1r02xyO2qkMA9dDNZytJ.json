@@ -943,6 +943,24 @@
     },
     {
       "album": {
+        "name": "Danca",
+        "url": "https://open.spotify.com/album/4q7vgxW9x6ySjuYTb9IeGh"
+      },
+      "artists": [
+        {
+          "name": "KC Lights",
+          "url": "https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169250,
+      "name": "Danca",
+      "url": "https://open.spotify.com/track/1bSEok2LJmdLzaIYAj14bk"
+    },
+    {
+      "album": {
         "name": "Dance To The Music",
         "url": "https://open.spotify.com/album/6zcnuO88B7AClFIH7kB9Vq"
       },
@@ -1956,6 +1974,32 @@
       "duration_ms": 394223,
       "name": "H2DAIZZO",
       "url": "https://open.spotify.com/track/4Z4FundUbHXd31UDSZ0G4c"
+    },
+    {
+      "album": {
+        "name": "Hause Muzica",
+        "url": "https://open.spotify.com/album/6zB5vx2vd40tYEn3MHigOr"
+      },
+      "artists": [
+        {
+          "name": "Marco Lys",
+          "url": "https://open.spotify.com/artist/5WiohqjMNs7MtChjoHE9D1"
+        },
+        {
+          "name": "Thomas Newson",
+          "url": "https://open.spotify.com/artist/66MrdPDHTjnnMOTBmC81q5"
+        },
+        {
+          "name": "David LeSal",
+          "url": "https://open.spotify.com/artist/1KB7YVSkBmXdNoOJEMkDAa"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174633,
+      "name": "Hause Muzica",
+      "url": "https://open.spotify.com/track/2LLX5En5Wnpc2gWMEU2Ola"
     },
     {
       "album": {

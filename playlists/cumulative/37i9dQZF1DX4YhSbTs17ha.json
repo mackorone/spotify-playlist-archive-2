@@ -1610,7 +1610,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 232153,
       "name": "Aplauso",
       "url": "https://open.spotify.com/track/3CYxoFeymojAvh8TzgwmOR"
@@ -3018,7 +3018,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 254713,
       "name": "CANCI\u00d3N PARA REGRESAR",
       "url": "https://open.spotify.com/track/5dyDJ04aqWFuguQd6uWYWG"
@@ -7542,6 +7542,24 @@
       "duration_ms": 196600,
       "name": "Hey Mor",
       "url": "https://open.spotify.com/track/6Rpbzk2LC8xWZI93RyodAq"
+    },
+    {
+      "album": {
+        "name": "Himno Nacional",
+        "url": "https://open.spotify.com/album/6XIWWHP4vkWz0TFm2vekBp"
+      },
+      "artists": [
+        {
+          "name": "LAGOS",
+          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144423,
+      "name": "Himno Nacional",
+      "url": "https://open.spotify.com/track/3GJGNWgJgQN6xaftJQsBFd"
     },
     {
       "album": {
@@ -13595,6 +13613,24 @@
     },
     {
       "album": {
+        "name": "Perd\u00f3n si no te llam\u00e9",
+        "url": "https://open.spotify.com/album/4ZU0IrkV79sXI6RmXlshbX"
+      },
+      "artists": [
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169656,
+      "name": "Perd\u00f3n si no te llam\u00e9",
+      "url": "https://open.spotify.com/track/6ro7G0r7NwAGpg1ooa8hIi"
+    },
+    {
+      "album": {
         "name": "Perfecta",
         "url": "https://open.spotify.com/album/5ON2micjtMSXspIHMxh5gc"
       },
@@ -13930,7 +13966,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 194018,
       "name": "Poema",
       "url": "https://open.spotify.com/track/0R4jt27SnKZ4Z4zGHJF36E"
@@ -14440,7 +14476,7 @@
       ],
       "date_added": "2025-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 222348,
       "name": "Quiero Decirte",
       "url": "https://open.spotify.com/track/4Oc1qHsjM4kM0AARvlwSs3"
@@ -14934,6 +14970,24 @@
       "duration_ms": 220634,
       "name": "Rosa del Desierto",
       "url": "https://open.spotify.com/track/5Kv5VXkQU88hzz3W12CFTt"
+    },
+    {
+      "album": {
+        "name": "Ruca",
+        "url": "https://open.spotify.com/album/6fsNOWfqMS95siXiT0XSQn"
+      },
+      "artists": [
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181451,
+      "name": "Ruca",
+      "url": "https://open.spotify.com/track/73Iis0jeK8GvqybSakXRHd"
     },
     {
       "album": {
@@ -15500,6 +15554,24 @@
       "duration_ms": 155693,
       "name": "Si Me Dieras Tu Amor",
       "url": "https://open.spotify.com/track/4mvZLxHvtO1sdXQrF06nJA"
+    },
+    {
+      "album": {
+        "name": "Si Me Hubieras Llamado Ayer",
+        "url": "https://open.spotify.com/album/3SdSs4hTNoepKLHTr1p2ml"
+      },
+      "artists": [
+        {
+          "name": "Ha*Ash",
+          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199252,
+      "name": "Si Me Hubieras Llamado Ayer",
+      "url": "https://open.spotify.com/track/6qUGOHOwgPlS8V4Dpx8CTm"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > This is Bear McCreary\. The essential tracks, all in one playlist.
 
-133 songs - 8 hr 0 min
+134 songs - 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [As Long as We Both Shall Live](https://open.spotify.com/track/0NbIAlLKDucvQNtH5Jutny) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [Outlander: Season 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/3MzysgDbqZa3o1eEklNe4r) | 7:45 | 2023-07-09 | 2023-08-26 |
 | [Ashes \(From "God of War" Soundtrack\) \(feat\. Eivør\)](https://open.spotify.com/track/0bNt9DVNAQi8CeMGSP7mQr) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Eivør](https://open.spotify.com/artist/2dB4ya2W1Gvng8gjWSPu2H) | [God of War \(PlayStation Soundtrack\)](https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez) | 6:09 | 2022-12-01 |  |
 | [Aunty Em](https://open.spotify.com/track/4RUWhQIRILXRYGRGFqjuRK) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Sparks & Shadows](https://open.spotify.com/artist/2c6YNJWnwaVHRxWC4jHrZZ) | [Percy Jackson and the Olympians \(Original Series Soundtrack\)](https://open.spotify.com/album/3QgBafkEM8gwLgayprkVY8) | 2:44 | 2024-01-12 | 2024-01-25 |
+| [Black Box](https://open.spotify.com/track/2RmTYt5AVVu9ZeSCvMtxNZ) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Joe Duplantier](https://open.spotify.com/artist/3d7Cj6RL5bQjEiH4EkQZQA), [The Mystery Of The Bulgarian Voices](https://open.spotify.com/artist/5cgPZA9muODieZY2hEkDN7) | [Black Box](https://open.spotify.com/album/6bl6ShO6l8whtwwkC5CuK7) | 4:56 | 2026-05-02 |  |
 | [Black Flags](https://open.spotify.com/track/2JDiNTQYlq0ok8ZI0G9S3M) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [The Lord of the Rings: The Rings of Power \(Season One, Episode Eight: Alloyed \- Amazon Original Series Soundtrack\)](https://open.spotify.com/album/6ZqOU4HF77DpP42vXG09rP) | 3:29 | 2024-03-06 |  |
 | [Blood of My Blood](https://open.spotify.com/track/3VeVlnHMRhrUIpX9SvFu59) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [Outlander: Season 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/3MzysgDbqZa3o1eEklNe4r) | 2:17 | 2023-06-22 | 2023-11-11 |
 | [Blood of my Blood \- For My Love That's Lost \(feat\. Julie Fowlis\)](https://open.spotify.com/track/237cC7Nrcs6DiT7MACH5Xh) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Julie Fowlis](https://open.spotify.com/artist/3IqWMVFksTbtL2EaFi5o8k) | [Outlander: Blood of my Blood \(Season 1 Original Series Soundtrack\)](https://open.spotify.com/album/0Fcsq7NjnNNe8pAi9qVGd6) | 1:33 | 2025-08-10 |  |
@@ -140,6 +141,6 @@
 | [We Two Might Be One](https://open.spotify.com/track/5hkKbu2LAMapCRA2wAMZa4) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [Outlander: Blood of my Blood \(Season 1 Original Series Soundtrack\)](https://open.spotify.com/album/0Fcsq7NjnNNe8pAi9qVGd6) | 7:33 | 2025-08-16 | 2025-12-16 |
 | [White Roses of Scotland](https://open.spotify.com/track/7e2Js9jadB6eTuNesmeIxh) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [Outlander: Season 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/4ucaiMJlT2G3FCDObTbTsI) | 4:30 | 2025-12-02 | 2026-04-20 |
 | [Willoughby](https://open.spotify.com/track/3KMjkO1uOIZBPG20qjW8ej) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [Outlander: Season 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/0XRd6sQYF5t6oCd3oQd8Dn) | 2:46 | 2024-01-09 | 2025-01-25 |
-| [Witch of the Woods \(From "God of War" Soundtrack\)](https://open.spotify.com/track/4w0ZGptbkHLkKZhLVTg5He) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [God of War \(PlayStation Soundtrack\)](https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez) | 3:02 | 2023-05-20 |  |
+| [Witch of the Woods \(From "God of War" Soundtrack\)](https://open.spotify.com/track/4w0ZGptbkHLkKZhLVTg5He) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [God of War \(PlayStation Soundtrack\)](https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez) | 3:02 | 2023-05-20 | 2026-05-02 |
 
 \*This playlist was first scraped on 2022-12-02. Prior content cannot be recovered.

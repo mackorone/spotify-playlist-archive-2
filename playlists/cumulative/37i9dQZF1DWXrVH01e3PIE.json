@@ -1323,6 +1323,28 @@
     },
     {
       "album": {
+        "name": "Bambas",
+        "url": "https://open.spotify.com/album/6owNptYHUMhD49e5E17fOy"
+      },
+      "artists": [
+        {
+          "name": "kerse",
+          "url": "https://open.spotify.com/artist/6iz6r1o9PKEXp845ZQ1Tgx"
+        },
+        {
+          "name": "WEST DUBAI",
+          "url": "https://open.spotify.com/artist/0ThxHJx0ElqLD8h2Compyq"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142222,
+      "name": "Bambas",
+      "url": "https://open.spotify.com/track/4bUjZudk3eBD4N8JCfdJko"
+    },
+    {
+      "album": {
         "name": "Bando",
         "url": "https://open.spotify.com/album/61SFJyZpNmvtOb32mtROrD"
       },
@@ -5502,7 +5524,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 131515,
       "name": "hott",
       "url": "https://open.spotify.com/track/2bveQ1Uw2uBX5oQdbAkrXP"
@@ -7092,6 +7114,60 @@
       "duration_ms": 305333,
       "name": "Medusa",
       "url": "https://open.spotify.com/track/3qM0vBxIe4VUbK0Z0smuVP"
+    },
+    {
+      "album": {
+        "name": "MEDUSA REMIX",
+        "url": "https://open.spotify.com/album/7BWBf3xfzSPsDTxSwsbbSh"
+      },
+      "artists": [
+        {
+          "name": "Neo Pistea",
+          "url": "https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        },
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        },
+        {
+          "name": "C.R.O",
+          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
+        },
+        {
+          "name": "enzocerobulto",
+          "url": "https://open.spotify.com/artist/50AgI9ZGvGksnc7XcVmpSx"
+        },
+        {
+          "name": "Malandro",
+          "url": "https://open.spotify.com/artist/6Gsh7oJoJ5EQUuQk0EhfWL"
+        },
+        {
+          "name": "JuicyNise",
+          "url": "https://open.spotify.com/artist/0MSw8gYA4pujLZst10Zve8"
+        },
+        {
+          "name": "0600eneltrack",
+          "url": "https://open.spotify.com/artist/6cQOeMxNUamTP5B92HZC92"
+        },
+        {
+          "name": "CLUB HATS",
+          "url": "https://open.spotify.com/artist/3Nk2mAv4k4ZOzrP5tpXL2G"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 401606,
+      "name": "MEDUSA REMIX",
+      "url": "https://open.spotify.com/track/3whoNOYqaUJeDNfisAIojI"
     },
     {
       "album": {

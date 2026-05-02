@@ -1,13 +1,49 @@
 {
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every Tuesday and Friday!",
-  "num_followers": 43474,
+  "num_followers": 43475,
   "original_name": "Dim Mak New Releases",
   "owner": {
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "AAAarEgmgtQcwmB3RVPdWExY8Okjo2Zk",
+  "snapshot_id": "AAAarpqCWW3V9mW+EXdQaNXKy7M83rAq",
   "tracks": [
+    {
+      "added_at": "2026-05-01 04:00:46",
+      "album": {
+        "name": "We Came We Saw We Conquered",
+        "url": "https://open.spotify.com/album/2fJyBezZ06FQxJaZEloN7F"
+      },
+      "artists": [
+        {
+          "name": "Marnik",
+          "url": "https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "We Came We Saw We Conquered",
+      "url": "https://open.spotify.com/track/1PF39JDTtc63dDvJ1KwJUQ"
+    },
+    {
+      "added_at": "2026-05-01 04:00:46",
+      "album": {
+        "name": "Rebel",
+        "url": "https://open.spotify.com/album/6ShMX20b0dAz1eymNXGfz8"
+      },
+      "artists": [
+        {
+          "name": "Thomas Gold",
+          "url": "https://open.spotify.com/artist/1XLjkBxFokuDTlHt0mQkRe"
+        },
+        {
+          "name": "Barmuda",
+          "url": "https://open.spotify.com/artist/5SoTfJZxWxfm9TkVEkvcLM"
+        }
+      ],
+      "duration_ms": 165230,
+      "name": "Rebel",
+      "url": "https://open.spotify.com/track/2Iy9lNbtDPhHn6mmk9EGRS"
+    },
     {
       "added_at": "2026-04-24 04:00:47",
       "album": {

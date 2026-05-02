@@ -810,7 +810,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 180000,
       "name": "Common Coffin",
       "url": "https://open.spotify.com/track/5eOMtsu5okb1yFtlBqAIn7"
@@ -1376,7 +1376,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 226153,
       "name": "Easy",
       "url": "https://open.spotify.com/track/47i8p3nhMLK0HDlOUVwJku"
@@ -1585,6 +1585,28 @@
     },
     {
       "album": {
+        "name": "Faceless",
+        "url": "https://open.spotify.com/album/4HJRvSf9ZqpPZ0P1yw3Lcj"
+      },
+      "artists": [
+        {
+          "name": "RudyWade",
+          "url": "https://open.spotify.com/artist/5wPHD9nWphKcikUhKUzIdY"
+        },
+        {
+          "name": "Dr\u00e9 Tamash\u012b",
+          "url": "https://open.spotify.com/artist/1gIQdQrJBoDYIMuRWVD4GC"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Faceless",
+      "url": "https://open.spotify.com/track/66MOYDHKNj8iu8FafNJIOc"
+    },
+    {
+      "album": {
         "name": "Syndicate Shadow",
         "url": "https://open.spotify.com/album/016dMPf9Jjpu8unSQMl4by"
       },
@@ -1766,7 +1788,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 348750,
       "name": "Flinch Awake",
       "url": "https://open.spotify.com/track/7KT3QK1mTErOIeXyBwsnA8"
@@ -1802,7 +1824,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 147796,
       "name": "FRENCH TIPS",
       "url": "https://open.spotify.com/track/2XvsjccIW6F1ZHRcc8rxdU"
@@ -2389,6 +2411,24 @@
     },
     {
       "album": {
+        "name": "ROMP",
+        "url": "https://open.spotify.com/album/1aVH41SAin716xpep2O53d"
+      },
+      "artists": [
+        {
+          "name": "LAUSBUB",
+          "url": "https://open.spotify.com/artist/1nK2FcujOkjFDDAr1EMo2M"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259333,
+      "name": "I SYNC",
+      "url": "https://open.spotify.com/track/51aSWkFg6MHg2ciLjcnFRw"
+    },
+    {
+      "album": {
         "name": "I THINK IM LOSING MY MIND",
         "url": "https://open.spotify.com/album/3o68MTMJCZCmiiDzLxzVI7"
       },
@@ -2480,6 +2520,24 @@
       "duration_ms": 169973,
       "name": "If Love Is Just a Word",
       "url": "https://open.spotify.com/track/3QVLxtGbyrzWDPdqlDNIo0"
+    },
+    {
+      "album": {
+        "name": "Ignore The Static",
+        "url": "https://open.spotify.com/album/5GiWPhoyh9KxTo0TxopbgD"
+      },
+      "artists": [
+        {
+          "name": "Kill Instinct",
+          "url": "https://open.spotify.com/artist/14xJ3VCRr3tJM3mTrpCLVD"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263529,
+      "name": "Ignore The Static",
+      "url": "https://open.spotify.com/track/2Rf1VKlFjf0oXgVkoeC2hZ"
     },
     {
       "album": {
@@ -2798,6 +2856,24 @@
       "duration_ms": 211629,
       "name": "kisses - Daniel Avery Remix",
       "url": "https://open.spotify.com/track/1Pk3nzbEP2iYN6Qn10PIAw"
+    },
+    {
+      "album": {
+        "name": "KHAZNA",
+        "url": "https://open.spotify.com/album/1e6TOfQPLEkZG03XHkY3s3"
+      },
+      "artists": [
+        {
+          "name": "Kiss Facility",
+          "url": "https://open.spotify.com/artist/5gHuonqo1YwbLPKQAl7jD5"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237500,
+      "name": "Kotshena",
+      "url": "https://open.spotify.com/track/3qaV5Tj4wYD6PYPbDDehv1"
     },
     {
       "album": {
@@ -3180,6 +3256,28 @@
       "duration_ms": 180326,
       "name": "Me Porto Bonito - (Post-Punk)",
       "url": "https://open.spotify.com/track/2xu9l5l3fm8noWonuDf3Cn"
+    },
+    {
+      "album": {
+        "name": "MEAN",
+        "url": "https://open.spotify.com/album/0A6z8JM3YdXnqbdK5snV3o"
+      },
+      "artists": [
+        {
+          "name": "HEALTH",
+          "url": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
+        },
+        {
+          "name": "Chelsea Wolfe",
+          "url": "https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199435,
+      "name": "MEAN",
+      "url": "https://open.spotify.com/track/2chUwJ0OfRFtOLbKuIUpTZ"
     },
     {
       "album": {
@@ -4322,7 +4420,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 137142,
       "name": "Sigma",
       "url": "https://open.spotify.com/track/5XReWBk5t6LvxuO8SMJ7eq"
@@ -4366,6 +4464,24 @@
       "duration_ms": 212500,
       "name": "Sleepy",
       "url": "https://open.spotify.com/track/5e20l8hl7vcF96rYn9FxAM"
+    },
+    {
+      "album": {
+        "name": "Sometimes He Comes Back",
+        "url": "https://open.spotify.com/album/7voi3vQaDnQLjcWuvNlHJl"
+      },
+      "artists": [
+        {
+          "name": "Daniel Deluxe",
+          "url": "https://open.spotify.com/artist/0OTY72l7CC7ynKzp6N2o5b"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256333,
+      "name": "Sometimes He Comes Back",
+      "url": "https://open.spotify.com/track/7fLygrHW5mxwwo06x0ArjW"
     },
     {
       "album": {
@@ -4751,6 +4867,24 @@
     },
     {
       "album": {
+        "name": "This Love",
+        "url": "https://open.spotify.com/album/4bQqCTyZTng6pqZagtuoTD"
+      },
+      "artists": [
+        {
+          "name": "Hallows",
+          "url": "https://open.spotify.com/artist/4pw10fTRjfQtjRhy25G5W6"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224381,
+      "name": "This Love",
+      "url": "https://open.spotify.com/track/11WExd5tfFgg31WPNHNQnm"
+    },
+    {
+      "album": {
         "name": "DREAMER",
         "url": "https://open.spotify.com/album/1Jr7mHRUgVIbdnbC6LI07M"
       },
@@ -4816,7 +4950,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 247076,
       "name": "Too Soon to Tell",
       "url": "https://open.spotify.com/track/25rY3GbeeHIBRwyouz9jZT"
@@ -4928,7 +5062,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 156000,
       "name": "Vampiros",
       "url": "https://open.spotify.com/track/4xHULZdhJa6v59tNSWagsh"

@@ -34,7 +34,7 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 351493,
       "name": "19 Bullets - 1999 Original Mix",
       "url": "https://open.spotify.com/track/53WbAeZAiZ7s5HrgZWrzQM"
@@ -704,7 +704,7 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 269370,
       "name": "Body Drill",
       "url": "https://open.spotify.com/track/5jtcbFHaU4mlZJrQQPozGB"
@@ -1868,7 +1868,7 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 408560,
       "name": "Frenzy (Penthouse Dub Remix)",
       "url": "https://open.spotify.com/track/2n75g1c1KUh4Hcind24c2N"
@@ -2397,6 +2397,36 @@
     },
     {
       "album": {
+        "name": "Houston (We Have A Problem)",
+        "url": "https://open.spotify.com/album/7CRqTmizRUcmpAGjttFqP4"
+      },
+      "artists": [
+        {
+          "name": "DJB510",
+          "url": "https://open.spotify.com/artist/5ZxwbmxhmS9ReczzSGf1ox"
+        },
+        {
+          "name": "DJ Spen",
+          "url": "https://open.spotify.com/artist/4kr94nr7SzBRas5Cb3krFZ"
+        },
+        {
+          "name": "Thommy Davis",
+          "url": "https://open.spotify.com/artist/2xPooxXsKv4dqHK9abZN2T"
+        },
+        {
+          "name": "Greg Lewis",
+          "url": "https://open.spotify.com/artist/3Zz5Z0cDYgHEalfSlXHibZ"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 421935,
+      "name": "Houston (We Have A Problem) - DJ Spen, Thommy Davis & Greg Lewis 411 Remix",
+      "url": "https://open.spotify.com/track/0QzMdqtJdC45WSN0poqnq5"
+    },
+    {
+      "album": {
         "name": "Secure the Bag",
         "url": "https://open.spotify.com/album/5Hy3N4N8sUWeI23ksUR2Q7"
       },
@@ -2748,7 +2778,7 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 423862,
       "name": "In the Dark We Live (Thee Lite) [Dave Clarke Remix]",
       "url": "https://open.spotify.com/track/6KYvvdTQGzqlR0XCKUbFFp"
@@ -3506,7 +3536,7 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 290822,
       "name": "Memories with You",
       "url": "https://open.spotify.com/track/3CmEZiaZukIV8Ck9HIx9fu"
@@ -3622,6 +3652,28 @@
       "duration_ms": 377484,
       "name": "Never Thought [Printworks] - 623 Again Vocal",
       "url": "https://open.spotify.com/track/7FOwVHT3jfr2upIFLPwkxp"
+    },
+    {
+      "album": {
+        "name": "The Nightlife",
+        "url": "https://open.spotify.com/album/4wTgu0ne0ihggsMbAOGX8x"
+      },
+      "artists": [
+        {
+          "name": "Honey Dijon",
+          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
+        },
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212463,
+      "name": "New Wave Groove",
+      "url": "https://open.spotify.com/track/5VtnOTbLAysyQAq8qzLTSp"
     },
     {
       "album": {
@@ -4271,6 +4323,28 @@
     },
     {
       "album": {
+        "name": "The Nightlife",
+        "url": "https://open.spotify.com/album/4wTgu0ne0ihggsMbAOGX8x"
+      },
+      "artists": [
+        {
+          "name": "Honey Dijon",
+          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
+        },
+        {
+          "name": "Jacob Lusk",
+          "url": "https://open.spotify.com/artist/6dm2qCTCfqv1fqrow7UOcj"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244708,
+      "name": "Satisfied",
+      "url": "https://open.spotify.com/track/4J40gFNhRlukzy1MgLjeNt"
+    },
+    {
+      "album": {
         "name": "Sauce (Manoo Remixes)",
         "url": "https://open.spotify.com/album/2NcBxxI4KSaaBZ4rifx1hT"
       },
@@ -4502,6 +4576,28 @@
       "duration_ms": 169622,
       "name": "Slow For Me",
       "url": "https://open.spotify.com/track/0tMfEwY1LtVWFj9Qobaas3"
+    },
+    {
+      "album": {
+        "name": "So Sheik",
+        "url": "https://open.spotify.com/album/0Q0YyKjZt8L09V2vdHpBsC"
+      },
+      "artists": [
+        {
+          "name": "DJ 3000",
+          "url": "https://open.spotify.com/artist/6lUCztMmroaWEX8zvAKW0V"
+        },
+        {
+          "name": "Los Hermanos",
+          "url": "https://open.spotify.com/artist/5gmYIZpH1l8t94NoRZRB5x"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 391400,
+      "name": "So Sheik - Los Hermanos Remix",
+      "url": "https://open.spotify.com/track/4C3LwkWXO9dhpclBGLGZXB"
     },
     {
       "album": {

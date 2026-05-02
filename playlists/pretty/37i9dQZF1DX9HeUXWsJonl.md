@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9HeUXWsJonl.md) - [plain]
 
 > KASO en tête de la playlist numéro un en Tunisie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,793 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,795 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Asafi](https://open.spotify.com/track/0THk1G8NT9kVwSDnAN4x0m) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [Asafi](https://open.spotify.com/album/7irm0G92iH6aeC2sME9VF7) | 2:52 |
-| 2 | [Wlidi \| وليدي \(من مسلسل “خطيفة”\)](https://open.spotify.com/track/6hDBmEDjgqGgkBHml6EIrL) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Wlidi \| وليدي \(من مسلسل “خطيفة”\)](https://open.spotify.com/album/1qPennzXzfnFI2QPhiKrNB) | 2:34 |
+| 2 | [وليدي \(من مسلسل “خطيفة”\)](https://open.spotify.com/track/6hDBmEDjgqGgkBHml6EIrL) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [وليدي \(من مسلسل “خطيفة”\)](https://open.spotify.com/album/1qPennzXzfnFI2QPhiKrNB) | 2:34 |
 | 3 | [Makina](https://open.spotify.com/track/32j2p5cS0LKbQNigM6boyy) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX), [MOOTJEYEK](https://open.spotify.com/artist/4VxyE4jGlkGfceluWCWZvH) | [Makina](https://open.spotify.com/album/3FGfO500bnSkqX0r1bvqeZ) | 3:47 |
 | 4 | [اكسيدون](https://open.spotify.com/track/5BD1SaWWhLChuv9zZi8iLT) | [Mortadha Ftiti](https://open.spotify.com/artist/1JKD6r1BHHPW5UjN9JKwia) | [Accident](https://open.spotify.com/album/7EoYEx2E4lmBuJLnnN9HQH) | 2:25 |
 | 5 | [YAMA](https://open.spotify.com/track/1GBn2lt8KfovKFP5gHPgMt) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [YAMA](https://open.spotify.com/album/2fJsYrtbfo02Pe5Dp18TW5) | 2:39 |

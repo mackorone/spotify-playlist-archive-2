@@ -2,7 +2,7 @@
 
 ### [Gold Beats](https://open.spotify.com/playlist/37i9dQZF1DXcPGEMJEYxNg)
 
-> In partnership with <a href="https://goldhouse.org/">Gold House</a>, we are excited to announce our third Gold House Future Music Accelerator artists:  Mikayla Geier, Joyce Wrice, and Karri
+> In partnership with <a href="https://goldhouse.org/">Gold House</a>, we are excited to announce our fifth Gold House Future Music Accelerator artists:  Mikayla Geier, Joyce Wrice, and Karri
 
 269 songs - 14 hr 11 min
 

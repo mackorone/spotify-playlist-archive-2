@@ -4,7 +4,7 @@
 
 > Zeki Arkun x Simge ve haftanın en iyi çıkışları!
 
-7,407 songs - 15 day 19 hr 10 min
+7,408 songs - 15 day 19 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4371,8 +4371,9 @@
 | [Mi Amor](https://open.spotify.com/track/20QVNp2pqcm6EjmeXwmh4t) | [Kuty](https://open.spotify.com/artist/1spo5AJ302sAMnRXUPlSy1) | [Mi Amor](https://open.spotify.com/album/1r4Nhpvilj31bfpxufuO8W) | 2:16 | 2026-01-08 | 2026-01-16 |
 | [MI AMOR](https://open.spotify.com/track/0Fp91RLQckI4QkZQtjcCNC) | [Lia Shine](https://open.spotify.com/artist/5G3OUmDl3R4rEn9zSWZTpw) | [MI AMOR](https://open.spotify.com/album/0LIz3jMkXG41FRhXWfdleu) | 2:32 | 2025-12-11 | 2025-12-19 |
 | [Midemi Bulandıran Dünya](https://open.spotify.com/track/2zxIxC2BOLIe0KZlldGBVJ) | [Emre Çetinberk](https://open.spotify.com/artist/5BI8nCbrCbnbePspU1dgwB) | [Midemi Bulandıran Dünya](https://open.spotify.com/album/70BMJiXzc9M5U2sSUiXTIS) | 4:18 | 2025-11-27 | 2025-12-05 |
-| [Midnight Sun](https://open.spotify.com/track/1qRV1dKLOfH1s00b9J2LUQ) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/2IdHrETl3jsOYQRsF0nV16) | 3:09 | 2026-04-30 |  |
+| [Midnight Sun](https://open.spotify.com/track/1qRV1dKLOfH1s00b9J2LUQ) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/2IdHrETl3jsOYQRsF0nV16) | 3:09 | 2026-04-30 | 2026-05-02 |
 | [Midnight Sun](https://open.spotify.com/track/37UCSVSqiPGdR1DijOFyYY) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/014U2yqVgeCNqykPGzgyki) | 3:09 | 2025-06-12 | 2025-06-20 |
+| [Midnight Sun \- Girls Trip](https://open.spotify.com/track/7AXjrKBk1TbYjm3xcVPCvC) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Midnight Sun: Girls Trip](https://open.spotify.com/album/3SJU0Tncb0yXItHnxRWzY6) | 2:51 | 2026-05-01 |  |
 | [Mihman](https://open.spotify.com/track/4dL91YXXbLZG2qbmicYyqR) | [Güler Duman](https://open.spotify.com/artist/56TBrBN0rtJxZfvKcGtfDS), [Ahmet Gültekin](https://open.spotify.com/artist/2bfx9GYBxeXZ6hkxJiHOgi) | [Mihman](https://open.spotify.com/album/2F1B49bW880GnThdqTE8PF) | 4:35 | 2026-03-19 | 2026-03-27 |
 | [Mil Barcos](https://open.spotify.com/track/0TWQ6nYHagbk8T7zrQtQ6b) | [Elif Sanchez](https://open.spotify.com/artist/74v3N39tiIzpUsDLpHGz2B) | [Stages of Love](https://open.spotify.com/album/0V3GtKgK6xXxqEdGYFTlWa) | 2:38 | 2025-02-20 | 2025-02-28 |
 | [Milagros](https://open.spotify.com/track/1B1maIpcMpPDZ8GT0WHT0V) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Milagros](https://open.spotify.com/album/3k0FgbH2hF3R59J1Fwzd66) | 3:55 | 2025-05-08 | 2025-05-16 |

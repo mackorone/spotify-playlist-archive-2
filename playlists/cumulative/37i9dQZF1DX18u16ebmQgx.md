@@ -2,14 +2,15 @@
 
 ### [Salsa Colombiana](https://open.spotify.com/playlist/37i9dQZF1DX18u16ebmQgx)
 
-> ¡Brillando baldosa! Foto: La\-33
+> ¡Brillando baldosa! Foto: Guayacán Orquesta
 
-142 songs - 10 hr 36 min
+143 songs - 10 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Amantes \- Versión Salsa](https://open.spotify.com/track/30UA08ePK3varU1cNX2Owt) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Amantes \(Versión Salsa\)](https://open.spotify.com/album/1H1HjzU8EqJNAdSJgAVAmN) | 4:04 | 2022-06-24 | 2022-11-29 |
 | [Amor A Mitad](https://open.spotify.com/track/5yyfFBIoO5KwYd5yJ90VKf) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [CALIDOSA](https://open.spotify.com/album/6ZvMDzwfQlizWJG1H1q0VQ) | 3:11 | 2024-11-29 |  |
+| [Amé a Mi Manera](https://open.spotify.com/track/7j0G6jPJGeI2JDHhOIiOqg) | [Guayacán Orquesta](https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE) | [Amé a Mi Manera](https://open.spotify.com/album/6wErcTCOsuPrVRzXVKCMGl) | 5:20 | 2026-05-01 |  |
 | [Antioqueña](https://open.spotify.com/track/0q9gWhv4K5GKzkJW80PYgS) | [Herencia de Timbiqui](https://open.spotify.com/artist/3aeY1LxKK63GRg7tmI8UVa) | [Antioqueña](https://open.spotify.com/album/6XC3sy2ZJvlDj6ezJLx8eb) | 4:29 | 2023-08-04 |  |
 | [Ayúdame Inspiración](https://open.spotify.com/track/4t3ZKcUdZkASycS1nixIgL) | [Maite Hontelé](https://open.spotify.com/artist/1Pe4MoTbike2NZeexUUBrU), [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [Cuba Linda](https://open.spotify.com/album/5XhWe2O6ZHYu33IE67buw7) | 4:07 | 2022-06-24 | 2024-07-13 |
 | [Barranquillero Arrebatao](https://open.spotify.com/track/78ntwzvjylG0NiEaoe6cKl) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob) | [Intimamente, Lo Mejor De...](https://open.spotify.com/album/7yddc8i6I8nFoDs8lDCHnk) | 4:20 | 2023-08-04 |  |
@@ -96,7 +97,7 @@
 | [Manyoma](https://open.spotify.com/track/2MGT7BNwjf3c6DbhXqBaW9) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob), [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg) | [Fruko el Grande](https://open.spotify.com/album/4VwcUaZ0yWCHp9hEDue09C) | 4:08 | 2022-12-02 | 2023-03-04 |
 | [Margie](https://open.spotify.com/track/4ALuTupX7toAc7rZRgQGaD) | [Anddy Caicedo](https://open.spotify.com/artist/0Emz7Y7utBVunAblbfCdrC) | [Margie](https://open.spotify.com/album/0A9INqN4aDvTOOd7BwrgWE) | 3:31 | 2023-09-15 |  |
 | [Maria Canela](https://open.spotify.com/track/2AzJDIs4hDFvARTcTRGj0a) | [Cesar Mora](https://open.spotify.com/artist/0xR68AyQA5b3scD6PB8RPS) | [Hacerlo Bien](https://open.spotify.com/album/2hBVT5RuHoYHdfBAhxhPdd) | 5:02 | 2022-06-24 |  |
-| [Mi Cali Bella \- Salsa](https://open.spotify.com/track/3RmOuFMb91bKOZOnCRb8Kv) | [Los Alfa 8](https://open.spotify.com/artist/3C9BF8bjoRWU14IkkAXGq2), [Marcelo Cezán](https://open.spotify.com/artist/6PwCDMNPqykd8swT8kidCF) | [Mi Cali Bella \(Salsa\)](https://open.spotify.com/album/0SdD0h12av21JUkOtN43gx) | 3:44 | 2026-03-02 |  |
+| [Mi Cali Bella \- Salsa](https://open.spotify.com/track/3RmOuFMb91bKOZOnCRb8Kv) | [Los Alfa 8](https://open.spotify.com/artist/3C9BF8bjoRWU14IkkAXGq2), [Marcelo Cezán](https://open.spotify.com/artist/6PwCDMNPqykd8swT8kidCF) | [Mi Cali Bella \(Salsa\)](https://open.spotify.com/album/0SdD0h12av21JUkOtN43gx) | 3:44 | 2026-03-02 | 2026-05-02 |
 | [Micaela](https://open.spotify.com/track/6cFecmNzTj6MSV4aIYcCHg) | [Sonora Carruseles](https://open.spotify.com/artist/34qU0b0yRjEzRJtknerEDS) | [Viejoteca en Tiempo de Salsa, Vol\. 6](https://open.spotify.com/album/02uyPWSIRRXGLmhsm6t5xR) | 4:44 | 2023-08-04 |  |
 | [Micaela](https://open.spotify.com/track/1m3paVx65imhvCjPx505Oy) | [Sonora Carruseles](https://open.spotify.com/artist/34qU0b0yRjEzRJtknerEDS), [Luis Florez](https://open.spotify.com/artist/125qXSgsP3irn2SEE6rpor) | [The Best](https://open.spotify.com/album/6HTMGKWidJzcm9IHP4iolu) | 4:44 | 2022-06-24 | 2024-04-19 |
 | [Micaela](https://open.spotify.com/track/4fMzopYZnezYVCOADldvq7) | [Sonora Carruseles](https://open.spotify.com/artist/34qU0b0yRjEzRJtknerEDS), [Luis Florez](https://open.spotify.com/artist/125qXSgsP3irn2SEE6rpor) | [Boogaloo Is Here](https://open.spotify.com/album/1SemOW7b7Wz8yEyQTmZ6p6) | 4:44 | 2022-06-24 | 2022-11-13 |

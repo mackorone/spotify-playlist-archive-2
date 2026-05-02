@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "The best of every corner of modern punk rock. Cover: Show Me The Body",
+  "description": "The best of every corner of modern punk rock. Cover: Show Me the Body",
   "name": "Today's Punk",
   "tracks": [
     {
@@ -16,10 +16,28 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 131482,
       "name": "\"Isn't It Fun?\"",
       "url": "https://open.spotify.com/track/20uw7cpPiacV4u9l5HWR36"
+    },
+    {
+      "album": {
+        "name": "...hospice",
+        "url": "https://open.spotify.com/album/4b3RL8jcpg4Un9fpHAgxhf"
+      },
+      "artists": [
+        {
+          "name": "Static Dress",
+          "url": "https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253174,
+      "name": "...hospice",
+      "url": "https://open.spotify.com/track/2s8S6JBYD4plEJUkkMzLSW"
     },
     {
       "album": {
@@ -1545,6 +1563,24 @@
     },
     {
       "album": {
+        "name": "Blame It On The Youth",
+        "url": "https://open.spotify.com/album/2QVW72PmqC1a96v2qIcDie"
+      },
+      "artists": [
+        {
+          "name": "Mayday Parade",
+          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191461,
+      "name": "Blame It On The Youth",
+      "url": "https://open.spotify.com/track/1qsYl35llY6dKDUpkNbKDL"
+    },
+    {
+      "album": {
         "name": "Death Hilarious",
         "url": "https://open.spotify.com/album/3ayehNLPtO03kFwPnkOhgx"
       },
@@ -2230,6 +2266,24 @@
       "duration_ms": 134309,
       "name": "Cause and Effect",
       "url": "https://open.spotify.com/track/4ZrmK8wrGLBdkEp1qgDVRc"
+    },
+    {
+      "album": {
+        "name": "Chance Encounters",
+        "url": "https://open.spotify.com/album/2p9dDcg1LhBXNLzgg2IKM5"
+      },
+      "artists": [
+        {
+          "name": "The Menzingers",
+          "url": "https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204819,
+      "name": "Chance Encounters",
+      "url": "https://open.spotify.com/track/6EJacGvBPzfnkt1AqwKaX2"
     },
     {
       "album": {
@@ -3028,7 +3082,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 286272,
       "name": "Delicate",
       "url": "https://open.spotify.com/track/2vbSolhCUDzOJ8nNaK2UKa"
@@ -3244,7 +3298,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 67700,
       "name": "Dim",
       "url": "https://open.spotify.com/track/2aQOhBdbVnbmMGv7XmTNxc"
@@ -3482,7 +3536,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 185060,
       "name": "Dream Bigger",
       "url": "https://open.spotify.com/track/6ubLkNovtzOSFKvG9e02pE"
@@ -3796,6 +3850,24 @@
       "duration_ms": 221347,
       "name": "Elster Stares the Desert Down",
       "url": "https://open.spotify.com/track/4k8niudrwjId0AvxxhqJVb"
+    },
+    {
+      "album": {
+        "name": "Emergency Contact",
+        "url": "https://open.spotify.com/album/2O9aJFA4WjSBIQnscMW3JG"
+      },
+      "artists": [
+        {
+          "name": "Swiss Army Wife",
+          "url": "https://open.spotify.com/artist/6oO6omp7KVcpUx8cHov0uI"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198440,
+      "name": "Emergency Contact",
+      "url": "https://open.spotify.com/track/1OdxcrMq0y4OLX0jSwEapn"
     },
     {
       "album": {
@@ -4456,7 +4528,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 180746,
       "name": "Four",
       "url": "https://open.spotify.com/track/4aXP57iyfp7ApVMc9pu3md"
@@ -5463,6 +5535,24 @@
     },
     {
       "album": {
+        "name": "Highs and Lows",
+        "url": "https://open.spotify.com/album/4QmqM5vTpq5TTljgWKd4Ld"
+      },
+      "artists": [
+        {
+          "name": "Citizen",
+          "url": "https://open.spotify.com/artist/0znuUIjvP0LXEslfaq0Nor"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223416,
+      "name": "Highs and Lows",
+      "url": "https://open.spotify.com/track/69jRxSLeXXM0jDq5EFMc5O"
+    },
+    {
+      "album": {
         "name": "Horizons/West",
         "url": "https://open.spotify.com/album/5ntbH8ZQsmgZELd2zWCRCs"
       },
@@ -5762,7 +5852,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 173698,
       "name": "I Hate the Internet",
       "url": "https://open.spotify.com/track/0vXSs7BK3FIRtBoys2u502"
@@ -5888,7 +5978,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 185280,
       "name": "I THINK I LIKE YOU",
       "url": "https://open.spotify.com/track/3GTydboUO6maQvndeR0oF2"
@@ -6408,7 +6498,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 196394,
       "name": "Junebug",
       "url": "https://open.spotify.com/track/1WyzPXw5x8wdEssO2cS0aW"
@@ -6722,7 +6812,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 194538,
       "name": "Legs In A Snare",
       "url": "https://open.spotify.com/track/4SARwD24Cqn9M5CYBWCkYq"
@@ -6956,7 +7046,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 155254,
       "name": "Look Up",
       "url": "https://open.spotify.com/track/5ctd0rOQS8Xzl7QKwvBrVN"
@@ -7306,7 +7396,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 159653,
       "name": "Makes No Sense At All",
       "url": "https://open.spotify.com/track/2cCwxLtL8HvvRR3vyRJDxX"
@@ -7909,6 +7999,28 @@
     },
     {
       "album": {
+        "name": "Never Alone",
+        "url": "https://open.spotify.com/album/376ZC8whCIAiEIbT3pgPGw"
+      },
+      "artists": [
+        {
+          "name": "Dead Pioneers",
+          "url": "https://open.spotify.com/artist/3t0cq15eUtB2wvb1wJARsv"
+        },
+        {
+          "name": "The Interrupters",
+          "url": "https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181162,
+      "name": "Never Alone",
+      "url": "https://open.spotify.com/track/7gN2poKbj3R3CJD9HCkv4i"
+    },
+    {
+      "album": {
         "name": "Nevermind",
         "url": "https://open.spotify.com/album/4ZDYV3mQ4Pu0y0BFTYT6ye"
       },
@@ -8282,7 +8394,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 219715,
       "name": "Nobody's Heroes",
       "url": "https://open.spotify.com/track/3OEImZroksYhkQYVV6b8GE"
@@ -8426,7 +8538,7 @@
       ],
       "date_added": "2025-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 192603,
       "name": "Oblivion",
       "url": "https://open.spotify.com/track/02bj1hZGIwwTYG6z1bJG1M"
@@ -8876,7 +8988,7 @@
       ],
       "date_added": "2025-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 187815,
       "name": "Pockets",
       "url": "https://open.spotify.com/track/4JUmLb7NjUuF5Dkd63m5Fy"
@@ -8948,7 +9060,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 154653,
       "name": "Pride",
       "url": "https://open.spotify.com/track/4mObwU7hJwG1rJWsuAQPhp"
@@ -9226,7 +9338,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 163315,
       "name": "Rain",
       "url": "https://open.spotify.com/track/0TkAD1a7uXJkt7HqDbp6YT"
@@ -9829,6 +9941,24 @@
     },
     {
       "album": {
+        "name": "Shadows",
+        "url": "https://open.spotify.com/album/0GMTrpJfT9tGbL4sfeyptj"
+      },
+      "artists": [
+        {
+          "name": "Bike Routes",
+          "url": "https://open.spotify.com/artist/0sBN7TbbFmFYH29xxa6VGA"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197627,
+      "name": "Shadows",
+      "url": "https://open.spotify.com/track/5pf9ubEtF0feNcDK50En35"
+    },
+    {
+      "album": {
         "name": "Persona",
         "url": "https://open.spotify.com/album/7iSh8UZLiaaxaxi6H8BRjc"
       },
@@ -9862,6 +9992,24 @@
       "duration_ms": 154857,
       "name": "Sharp Teeth",
       "url": "https://open.spotify.com/track/1GkQDxx88mdMSbAx37Kumh"
+    },
+    {
+      "album": {
+        "name": "Theft World",
+        "url": "https://open.spotify.com/album/6UQvKJID9tTP81IIFRt9Dk"
+      },
+      "artists": [
+        {
+          "name": "Lip Critic",
+          "url": "https://open.spotify.com/artist/4ABuKdLlVyzLztIFR8ETX9"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182665,
+      "name": "Shoplifting",
+      "url": "https://open.spotify.com/track/4DnfluGk0mleygfT9clm0v"
     },
     {
       "album": {
@@ -10384,7 +10532,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 203853,
       "name": "Spineless",
       "url": "https://open.spotify.com/track/4DIL3Xgnb9PAqewEf9FRZa"
@@ -10438,7 +10586,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 205274,
       "name": "Star",
       "url": "https://open.spotify.com/track/3PdE19PCcon8iVW9KXtRWl"
@@ -10932,7 +11080,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 217753,
       "name": "Talon",
       "url": "https://open.spotify.com/track/5JuFnIY3ubCXfViw7L247G"
@@ -11650,7 +11798,7 @@
       ],
       "date_added": "2025-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 160163,
       "name": "Throw Yourself to the Sword",
       "url": "https://open.spotify.com/track/5EoE0FBnhcJ4rP6kyIkMx1"
@@ -11704,7 +11852,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 154554,
       "name": "tiptoeing",
       "url": "https://open.spotify.com/track/6QpxpFbtZUWapawqVDufDX"
@@ -12644,7 +12792,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 198457,
       "name": "Who's Laughing Now",
       "url": "https://open.spotify.com/track/1Rwn5PAnp6YrRGg93F5pj1"
@@ -12752,7 +12900,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 292907,
       "name": "Wisteria",
       "url": "https://open.spotify.com/track/7q5j5GjFRsu5C8udZqjrKO"

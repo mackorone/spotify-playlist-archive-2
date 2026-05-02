@@ -4,7 +4,7 @@
 
 > Editor's picks of freshest Pakistani discoveries you need to listen to\. Cover: Hamzay
 
-1,271 songs - 2 day 19 hr 48 min
+1,272 songs - 2 day 19 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -379,6 +379,7 @@
 | [Faraway](https://open.spotify.com/track/0AKU8waQvgOkhjawagkahs) | [Z4NE](https://open.spotify.com/artist/2td2YE8f304mP6oNBip6dZ) | [Faraway](https://open.spotify.com/album/7bcedUnCq3H0yX8Kf8G9rJ) | 2:43 | 2023-07-14 | 2023-12-09 |
 | [Farzi](https://open.spotify.com/track/7gPW8y7DH08zvh1hlppkPe) | [danish roomi](https://open.spotify.com/artist/719laN9dZ4QG7Q2F2vOwcP), [Hussain Ajani](https://open.spotify.com/artist/4TZi2SKhuNXEyRa7sOLa9H) | [Farzi](https://open.spotify.com/album/74MsCeAfiK6697UL8n6yiH) | 3:07 | 2024-01-04 | 2024-02-24 |
 | [FATAFAT](https://open.spotify.com/track/2qrxjFWMbxRiq6rytnPfg2) | [Saad Shah](https://open.spotify.com/artist/2SWv5AV8zWOW6QAtzXmF3u) | [FATAFAT](https://open.spotify.com/album/1MkBtq5nT1eqdX8oMounNs) | 2:26 | 2022-10-26 | 2023-01-11 |
+| [Fayda](https://open.spotify.com/track/28CgqEgrrzneWi1DjDZNmp) | [Muheet Khan](https://open.spotify.com/artist/7JJ5y1QW0tDTlc3ZjKbcE9), [Illuminhadi](https://open.spotify.com/artist/5XAv2ZKaRm5PHhWAMFFkSf), [NVY](https://open.spotify.com/artist/1NcRcMDkVhDDwtHF53VfSa) | [Fayda](https://open.spotify.com/album/7aJXXrwEZBOAOkpzOkjspL) | 3:30 | 2026-05-01 |  |
 | [Fazed](https://open.spotify.com/track/7yEPxetQe6p0gjfjHCoag9) | [Umer Anjum](https://open.spotify.com/artist/1mpkZnWbtXXPB5QitvCnMV), [superdupersultan](https://open.spotify.com/artist/04ENOEpTQgKEVWrvlHwdzN) | [Fazed](https://open.spotify.com/album/04Vw3vJtHfYZW8m7GKMQiU) | 3:13 | 2024-01-04 | 2024-01-27 |
 | [ferozi sham](https://open.spotify.com/track/3i8xmV2RnzXtVP6jj1F9PG) | [Talha & Anas](https://open.spotify.com/artist/34Tf2bt0J6u3ZnZk6yUUCC) | [ferozi sham](https://open.spotify.com/album/5ZvA9AlyFTrYq4MbF03t6h) | 2:03 | 2022-11-30 | 2023-01-11 |
 | [Fida](https://open.spotify.com/track/4ik6OIbP08w9YFQBMAqXK1) | [Boss Menn](https://open.spotify.com/artist/6l3Cv46bf92QuX8VaIqdXz), [Ali Pervez Mehdi](https://open.spotify.com/artist/3HLmrqEDEHkQ7VFXwdKdKa), [Arham Mufti](https://open.spotify.com/artist/7bYLyFD6k8LFP3HGqBr3V0) | [Fida](https://open.spotify.com/album/3MgyMpaQgKwry5GNodQSx3) | 3:32 | 2023-05-19 | 2024-01-27 |

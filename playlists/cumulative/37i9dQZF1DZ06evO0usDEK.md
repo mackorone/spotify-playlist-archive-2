@@ -4,7 +4,7 @@
 
 > This is Roberta Flack\. The essential tracks, all in one playlist.
 
-70 songs - 5 hr 10 min
+71 songs - 5 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [I Just Came Here To Dance](https://open.spotify.com/track/0uNqTYH6znvlSHEBkGBVnL) | [Peabo Bryson](https://open.spotify.com/artist/49iKbKGqgn8OESkW5WduX0), [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Born To Love](https://open.spotify.com/album/2tM4mgvIwXse9Ty1i59yVE) | 4:03 | 2025-02-25 | 2025-12-03 |
 | [I Told Jesus](https://open.spotify.com/track/7bmtqJ0psGM3x27hkyAC8E) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [First Take](https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F) | 6:09 | 2025-02-25 |  |
 | [I Wanted It Too](https://open.spotify.com/track/1gVFAOjp9U176pxyCGAfAR) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Feel Like Makin' Love](https://open.spotify.com/album/3eOdBKYQ2w2eCvz2FxEmBA) | 2:49 | 2025-02-25 |  |
+| [I'd Like to Be Baby to You \- Live at Montreux, 1990](https://open.spotify.com/track/4T8PXhGjWvTrVsMGDHcacd) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [I'd Like to Be Baby to You \(Live at Montreux, 1990\)](https://open.spotify.com/album/0AueXBAtxaEaGDTFqa3YXR) | 4:42 | 2026-05-02 |  |
 | [I'm the Girl](https://open.spotify.com/track/09qgbK845V0zWKwXmhviR5) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Killing Me Softly](https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA) | 4:55 | 2025-06-04 | 2025-10-26 |
 | [I'm the One](https://open.spotify.com/track/7pYNO8ICFBgPwqRQ7hSo2Q) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [I'm the One](https://open.spotify.com/album/5A00qXuqxWrO4NvSkBZfq4) | 4:05 | 2025-03-13 | 2025-10-29 |
 | [If Ever I See You Again](https://open.spotify.com/track/39bhKSzFTN3eo7eRDDZgKC) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Roberta Flack](https://open.spotify.com/album/1YkxsrN4Jmp1jx6fE3MbAY) | 3:40 | 2025-02-25 |  |
@@ -44,7 +45,7 @@
 | [Killing Me Softly With His Song](https://open.spotify.com/track/3gsCAGsWr6pUm1Vy7CPPob) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Killing Me Softly](https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA) | 4:46 | 2025-02-25 |  |
 | [Killing Me Softly With His Song \- 2006 Remaster](https://open.spotify.com/track/3WnyL57IzjD9nbSg293vTF) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [The Very Best of Roberta Flack](https://open.spotify.com/album/4zgWZypmvsNzjNSsDRqxQq) | 4:47 | 2025-02-25 |  |
 | [Let It Be Me](https://open.spotify.com/track/3JQhucHpNxG2iDwFYHUwur) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Chapter Two](https://open.spotify.com/album/3IOY0CeApn7qAjL6k5pRz4) | 4:59 | 2025-02-25 |  |
-| [Let Them Talk](https://open.spotify.com/track/47jAgpZzxxJn0L4RhmnJnf) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Quiet Fire](https://open.spotify.com/album/3WX5irfC09UH39CFRf8jme) | 3:54 | 2025-12-27 |  |
+| [Let Them Talk](https://open.spotify.com/track/47jAgpZzxxJn0L4RhmnJnf) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Quiet Fire](https://open.spotify.com/album/3WX5irfC09UH39CFRf8jme) | 3:54 | 2025-12-27 | 2026-05-02 |
 | [Making Love](https://open.spotify.com/track/1UpKK7U9ow2K1G6qNw9wnW) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [I'm the One](https://open.spotify.com/album/5A00qXuqxWrO4NvSkBZfq4) | 3:44 | 2025-02-25 |  |
 | [Maybe](https://open.spotify.com/track/2RcwUh5tvQz9VcDrmhp9fV) | [Peabo Bryson](https://open.spotify.com/artist/49iKbKGqgn8OESkW5WduX0), [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Born To Love](https://open.spotify.com/album/2tM4mgvIwXse9Ty1i59yVE) | 3:21 | 2025-02-25 |  |
 | [Mr\. Magic](https://open.spotify.com/track/64grNxhhW3VOIMPjkqw7R0) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Feel Like Makin' Love](https://open.spotify.com/album/3eOdBKYQ2w2eCvz2FxEmBA) | 3:58 | 2025-02-25 |  |

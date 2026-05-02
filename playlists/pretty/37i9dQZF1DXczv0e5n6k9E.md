@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 
 > Η ελληνική ραπ σκηνή στα καλύτερά της\. Εξώφυλλο: Bossikan
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,165 likes - 59 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,199 likes - 59 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Artistas](https://open.spotify.com/track/5QHUBy0eDXgnTAbipq1hql) | [Bossikan](https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM) | [Ergo 3](https://open.spotify.com/album/25mlVZYFC2FTLJSjNoPLGt) | 2:05 |
+| 1 | [Artistas](https://open.spotify.com/track/5QHUBy0eDXgnTAbipq1hql) | [Bossikan](https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM), [Fuzy](https://open.spotify.com/artist/1AFkGjh07arcwjnUNGZ6Yy) | [Ergo 3](https://open.spotify.com/album/25mlVZYFC2FTLJSjNoPLGt) | 2:05 |
 | 2 | [JALAPENOS](https://open.spotify.com/track/1SRW4kHjz0DcjnSfnLHbAs) | [FLY LO](https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu), [BLVD](https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR) | [VEGANZE](https://open.spotify.com/album/3gCixeUQEUORowiAA5zVqp) | 2:09 |
 | 3 | [AVASIMA STOIXEIA](https://open.spotify.com/track/3Nb7cNFSCPpr8FAyNNxUq7) | [Dani Gambino](https://open.spotify.com/artist/0JDrljGBQpzIKFIcZ4R1H4), [SIDARTA](https://open.spotify.com/artist/3jPN2U65cMPzvozEBue5zp), [Th Mark](https://open.spotify.com/artist/3ll1Oo6EwG4s6xrAapzUVm), [Grandbois](https://open.spotify.com/artist/4Ke4cWvHCmm8sOlCcaeOlu) | [AVASIMA STOIXEIA](https://open.spotify.com/album/4zBlFHNnuPZOuTwEJd6Nzm) | 4:10 |
 | 4 | [YING YANG](https://open.spotify.com/track/06yhYC3DfAAlnNc1jYj9td) | [SNIK](https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl), [FLY LO](https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu) | [VRD](https://open.spotify.com/album/0rKLeeNlCA1fjZiqQS8f6y) | 2:35 |

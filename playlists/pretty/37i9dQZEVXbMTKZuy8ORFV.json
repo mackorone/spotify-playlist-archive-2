@@ -6,10 +6,10 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MYbKUAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MYgXIAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2026-04-30 15:03:12",
+      "added_at": "2026-05-01 13:56:09",
       "album": {
         "name": "TGLG",
         "url": "https://open.spotify.com/album/3MYvpfMQHd6Xrd08K23IwR"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/6bTX3SCrDCa6oO65e7tpew"
     },
     {
-      "added_at": "2026-04-30 15:03:12",
+      "added_at": "2026-05-01 13:56:09",
       "album": {
         "name": "Just The Way You Are",
         "url": "https://open.spotify.com/album/1fN8LTM10sYFZl5BCzIPlj"
@@ -41,7 +41,23 @@
       "url": "https://open.spotify.com/track/7K3Lc3TfSR14aTOjIH7TUj"
     },
     {
-      "added_at": "2026-04-30 15:03:12",
+      "added_at": "2026-05-01 13:56:09",
+      "album": {
+        "name": "Self Aware",
+        "url": "https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M"
+      },
+      "artists": [
+        {
+          "name": "Temper City",
+          "url": "https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz"
+        }
+      ],
+      "duration_ms": 180740,
+      "name": "Self Aware",
+      "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
+    },
+    {
+      "added_at": "2026-05-01 13:56:09",
       "album": {
         "name": "Six Seven",
         "url": "https://open.spotify.com/album/7yXhf4bGlGkjA9mfJy5gPg"
@@ -69,23 +85,7 @@
       "url": "https://open.spotify.com/track/1tApKPSsMXfJf528fR1o93"
     },
     {
-      "added_at": "2026-04-30 15:03:12",
-      "album": {
-        "name": "Self Aware",
-        "url": "https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M"
-      },
-      "artists": [
-        {
-          "name": "Temper City",
-          "url": "https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz"
-        }
-      ],
-      "duration_ms": 180740,
-      "name": "Self Aware",
-      "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
-    },
-    {
-      "added_at": "2026-04-30 15:03:12",
+      "added_at": "2026-05-01 13:56:09",
       "album": {
         "name": "Te Queda Bonito",
         "url": "https://open.spotify.com/album/3ILCK72uKph88pEX1nS46D"
@@ -101,7 +101,7 @@
       "url": "https://open.spotify.com/track/1z6rqCTdKSwBVxKny3zA95"
     },
     {
-      "added_at": "2026-04-30 15:03:12",
+      "added_at": "2026-05-01 13:56:09",
       "album": {
         "name": "Parceiros, Vol. 2",
         "url": "https://open.spotify.com/album/1oy3mhMpi30ZMrliavZ4rF"
@@ -121,7 +121,7 @@
       "url": "https://open.spotify.com/track/26LELuiC7gAN0IjILbam2I"
     },
     {
-      "added_at": "2026-04-30 15:03:12",
+      "added_at": "2026-05-01 13:56:09",
       "album": {
         "name": "Somoneitor",
         "url": "https://open.spotify.com/album/2SnYEm4Mv0bWhdGb0QO1jc"
@@ -137,7 +137,7 @@
       "url": "https://open.spotify.com/track/7Ip5CQ9at91lpkzInHY2L4"
     },
     {
-      "added_at": "2026-04-30 15:03:12",
+      "added_at": "2026-05-01 13:56:09",
       "album": {
         "name": "Dichavate",
         "url": "https://open.spotify.com/album/4yRbCIuNyOezf81L8yR3jF"
@@ -169,7 +169,7 @@
       "url": "https://open.spotify.com/track/6Ab2trdJulkRRhaJ9zVGQa"
     },
     {
-      "added_at": "2026-04-30 15:03:12",
+      "added_at": "2026-05-01 13:56:09",
       "album": {
         "name": "Muyu Muyurispa",
         "url": "https://open.spotify.com/album/17cJJNpusne1j93BJU57go"
@@ -185,7 +185,7 @@
       "url": "https://open.spotify.com/track/5yAz8qHtK81mlABK3GYBUA"
     },
     {
-      "added_at": "2026-04-30 15:03:12",
+      "added_at": "2026-05-01 13:56:09",
       "album": {
         "name": "Buena Vida Mala Fama Slow Reverb (Instrumental)",
         "url": "https://open.spotify.com/album/2TNxKZVni39nf2MZ6xseW2"
@@ -201,7 +201,7 @@
       "url": "https://open.spotify.com/track/64Xn3iBgudzd91Q4AsE6pV"
     },
     {
-      "added_at": "2026-04-30 15:03:12",
+      "added_at": "2026-05-01 13:56:09",
       "album": {
         "name": "66 am",
         "url": "https://open.spotify.com/album/295kpcatqizxstrU8Dx2RX"
@@ -221,7 +221,7 @@
       "url": "https://open.spotify.com/track/4QlKoM0Oxt5I6UvvkDT3MG"
     },
     {
-      "added_at": "2026-04-30 15:03:12",
+      "added_at": "2026-05-01 13:56:09",
       "album": {
         "name": "Jane!",
         "url": "https://open.spotify.com/album/03HZu3A0gz8fPjrGfDKAsu"
@@ -237,7 +237,7 @@
       "url": "https://open.spotify.com/track/0IjdXwCEhZR7JIwq6Za8j5"
     },
     {
-      "added_at": "2026-04-30 15:03:12",
+      "added_at": "2026-05-01 13:56:09",
       "album": {
         "name": "FREE SPIRITS",
         "url": "https://open.spotify.com/album/2lbCB2zwGvqqn7IkRQGaEo"
@@ -257,7 +257,7 @@
       "url": "https://open.spotify.com/track/5XI7KiPx9gsgG0QkWlwUfz"
     },
     {
-      "added_at": "2026-04-30 15:03:12",
+      "added_at": "2026-05-01 13:56:09",
       "album": {
         "name": "Nothing But Thieves (Track by Track)",
         "url": "https://open.spotify.com/album/0vBxqUHwetFn5jCwAKX7Uk"
@@ -273,7 +273,23 @@
       "url": "https://open.spotify.com/track/15I2gq8Nill5zwxabTFD6f"
     },
     {
-      "added_at": "2026-04-30 15:03:12",
+      "added_at": "2026-05-01 13:56:09",
+      "album": {
+        "name": "la_pochi.wav",
+        "url": "https://open.spotify.com/album/5eFFaspUxNozQ2ZQ8zTmGD"
+      },
+      "artists": [
+        {
+          "name": "tomas metrikf",
+          "url": "https://open.spotify.com/artist/6GGrlen6P3MTTUSCO2pX7T"
+        }
+      ],
+      "duration_ms": 155710,
+      "name": "la_pochi.wav",
+      "url": "https://open.spotify.com/track/7GJnrBhGb4c09CM9blGV6v"
+    },
+    {
+      "added_at": "2026-05-01 13:56:09",
       "album": {
         "name": "PECADO Y CONDENA",
         "url": "https://open.spotify.com/album/6a5JYJhGLfq6RAVpkFzTAU"
@@ -289,7 +305,39 @@
       "url": "https://open.spotify.com/track/3EGVLPxMSFbDViH14877A0"
     },
     {
-      "added_at": "2026-04-30 15:03:12",
+      "added_at": "2026-05-01 13:56:09",
+      "album": {
+        "name": "Ayer Hable Con Dios",
+        "url": "https://open.spotify.com/album/3kzwAO9Ra7CGc0Hn7Eu7TV"
+      },
+      "artists": [
+        {
+          "name": "Corridos del Rey",
+          "url": "https://open.spotify.com/artist/608Psavm7YdzNX9Izrx40A"
+        }
+      ],
+      "duration_ms": 143300,
+      "name": "Ayer Hable Con Dios",
+      "url": "https://open.spotify.com/track/59JHSgCS2nbh0GqusOLQjS"
+    },
+    {
+      "added_at": "2026-05-01 13:56:09",
+      "album": {
+        "name": "Skokka",
+        "url": "https://open.spotify.com/album/7zMvvxOXqVcXJDGQahGVEX"
+      },
+      "artists": [
+        {
+          "name": "Huan62",
+          "url": "https://open.spotify.com/artist/08yYd8o1CrOjIpGHP2I6zU"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Skokka",
+      "url": "https://open.spotify.com/track/2wzrS1Y8Oy4NvUw8bnOfKi"
+    },
+    {
+      "added_at": "2026-05-01 13:56:09",
       "album": {
         "name": "T\u00fa y Yo",
         "url": "https://open.spotify.com/album/3NBtZ9VPHWnacGBY6NMJCN"
@@ -309,7 +357,23 @@
       "url": "https://open.spotify.com/track/186TsI9P8IO0WTcqD5LhdP"
     },
     {
-      "added_at": "2026-04-30 15:03:12",
+      "added_at": "2026-05-01 13:56:09",
+      "album": {
+        "name": "Sin Aviso",
+        "url": "https://open.spotify.com/album/0gQsh0HdmuM37Y78WsaC0y"
+      },
+      "artists": [
+        {
+          "name": "G\u00fcero Banks",
+          "url": "https://open.spotify.com/artist/18v14AqUUBNlYU6gvfpx9x"
+        }
+      ],
+      "duration_ms": 191879,
+      "name": "Sin Aviso",
+      "url": "https://open.spotify.com/track/5gyN4TuLCoC6NMmOSITONE"
+    },
+    {
+      "added_at": "2026-05-01 13:56:09",
       "album": {
         "name": "SOBERBIO (REMIX)",
         "url": "https://open.spotify.com/album/4WW12q2UYl5z55pmA1WovI"
@@ -333,39 +397,7 @@
       "url": "https://open.spotify.com/track/31YmJA87Y1LS2SFKGbHNzT"
     },
     {
-      "added_at": "2026-04-30 15:03:12",
-      "album": {
-        "name": "la_pochi.wav",
-        "url": "https://open.spotify.com/album/5eFFaspUxNozQ2ZQ8zTmGD"
-      },
-      "artists": [
-        {
-          "name": "tomas metrikf",
-          "url": "https://open.spotify.com/artist/6GGrlen6P3MTTUSCO2pX7T"
-        }
-      ],
-      "duration_ms": 155710,
-      "name": "la_pochi.wav",
-      "url": "https://open.spotify.com/track/7GJnrBhGb4c09CM9blGV6v"
-    },
-    {
-      "added_at": "2026-04-30 15:03:12",
-      "album": {
-        "name": "Sin Aviso",
-        "url": "https://open.spotify.com/album/0gQsh0HdmuM37Y78WsaC0y"
-      },
-      "artists": [
-        {
-          "name": "G\u00fcero Banks",
-          "url": "https://open.spotify.com/artist/18v14AqUUBNlYU6gvfpx9x"
-        }
-      ],
-      "duration_ms": 191879,
-      "name": "Sin Aviso",
-      "url": "https://open.spotify.com/track/5gyN4TuLCoC6NMmOSITONE"
-    },
-    {
-      "added_at": "2026-04-30 15:03:12",
+      "added_at": "2026-05-01 13:56:09",
       "album": {
         "name": "Moonlight #jerseyclub",
         "url": "https://open.spotify.com/album/1UQBSTQuvCsZTBzAgpuOow"
@@ -381,55 +413,7 @@
       "url": "https://open.spotify.com/track/5Hj9G0qW99mb6asdixw9vF"
     },
     {
-      "added_at": "2026-04-30 15:03:12",
-      "album": {
-        "name": "Ayer Hable Con Dios",
-        "url": "https://open.spotify.com/album/3kzwAO9Ra7CGc0Hn7Eu7TV"
-      },
-      "artists": [
-        {
-          "name": "Corridos del Rey",
-          "url": "https://open.spotify.com/artist/608Psavm7YdzNX9Izrx40A"
-        }
-      ],
-      "duration_ms": 143300,
-      "name": "Ayer Hable Con Dios",
-      "url": "https://open.spotify.com/track/59JHSgCS2nbh0GqusOLQjS"
-    },
-    {
-      "added_at": "2026-04-30 15:03:12",
-      "album": {
-        "name": "Skokka",
-        "url": "https://open.spotify.com/album/7zMvvxOXqVcXJDGQahGVEX"
-      },
-      "artists": [
-        {
-          "name": "Huan62",
-          "url": "https://open.spotify.com/artist/08yYd8o1CrOjIpGHP2I6zU"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Skokka",
-      "url": "https://open.spotify.com/track/2wzrS1Y8Oy4NvUw8bnOfKi"
-    },
-    {
-      "added_at": "2026-04-30 15:03:12",
-      "album": {
-        "name": "Buena Vida Mala Fama Slowed (Instrumental)",
-        "url": "https://open.spotify.com/album/3P3vhOVmK0u5zjfGQJfMGe"
-      },
-      "artists": [
-        {
-          "name": "Crish Ramirez",
-          "url": "https://open.spotify.com/artist/2xy5blO4FNPLVE7xpP5CO5"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Buena Vida Mala Fama Slowed - Instrumental",
-      "url": "https://open.spotify.com/track/49QgPaXki9sEh5ClYTCLAz"
-    },
-    {
-      "added_at": "2026-04-30 15:03:12",
+      "added_at": "2026-05-01 13:56:09",
       "album": {
         "name": "Pu\u00f1aladas",
         "url": "https://open.spotify.com/album/5S8mx5C6D6jj6l7ESqqrXD"
@@ -453,23 +437,23 @@
       "url": "https://open.spotify.com/track/4AL4EamHEBKPpdcFRkYdXN"
     },
     {
-      "added_at": "2026-04-30 15:03:12",
+      "added_at": "2026-05-01 13:56:09",
       "album": {
-        "name": "No Me Rompiste, Me Despertaste",
-        "url": "https://open.spotify.com/album/3rENp4lLRLJkdG6CO21QLL"
+        "name": "Buena Vida Mala Fama Slowed (Instrumental)",
+        "url": "https://open.spotify.com/album/3P3vhOVmK0u5zjfGQJfMGe"
       },
       "artists": [
         {
-          "name": "Vidal Labadie",
-          "url": "https://open.spotify.com/artist/0KAfjG5Q3nHDkByHw9qSyL"
+          "name": "Crish Ramirez",
+          "url": "https://open.spotify.com/artist/2xy5blO4FNPLVE7xpP5CO5"
         }
       ],
-      "duration_ms": 206657,
-      "name": "No Me Rompiste, Me Despertaste",
-      "url": "https://open.spotify.com/track/7anUaWKP8wYGU0MPZbWVV2"
+      "duration_ms": 192000,
+      "name": "Buena Vida Mala Fama Slowed - Instrumental",
+      "url": "https://open.spotify.com/track/49QgPaXki9sEh5ClYTCLAz"
     },
     {
-      "added_at": "2026-04-30 15:03:12",
+      "added_at": "2026-05-01 13:56:09",
       "album": {
         "name": "So Much To Tell You",
         "url": "https://open.spotify.com/album/28JEdFG4Mk0D0QGkL5vUxG"
@@ -485,23 +469,23 @@
       "url": "https://open.spotify.com/track/6DKSK32WwzBMZ0qAq28Zon"
     },
     {
-      "added_at": "2026-04-30 15:03:12",
+      "added_at": "2026-05-01 13:56:09",
       "album": {
-        "name": "Sabor Caramelo",
-        "url": "https://open.spotify.com/album/7rHYbHNneJYoYlR8hYm08c"
+        "name": "No Me Rompiste, Me Despertaste",
+        "url": "https://open.spotify.com/album/3rENp4lLRLJkdG6CO21QLL"
       },
       "artists": [
         {
-          "name": "hoodchad",
-          "url": "https://open.spotify.com/artist/42L0YOiZcb3PqtLq5NE7AO"
+          "name": "Vidal Labadie",
+          "url": "https://open.spotify.com/artist/0KAfjG5Q3nHDkByHw9qSyL"
         }
       ],
-      "duration_ms": 244073,
-      "name": "Sabor Caramelo",
-      "url": "https://open.spotify.com/track/4MjGQq5BNhN9g01lZwcRk8"
+      "duration_ms": 206657,
+      "name": "No Me Rompiste, Me Despertaste",
+      "url": "https://open.spotify.com/track/7anUaWKP8wYGU0MPZbWVV2"
     },
     {
-      "added_at": "2026-04-30 15:03:12",
+      "added_at": "2026-05-01 13:56:09",
       "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/5cxMa6oLINJzmZ8lF7wWQN"
@@ -521,7 +505,7 @@
       "url": "https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7"
     },
     {
-      "added_at": "2026-04-30 15:03:12",
+      "added_at": "2026-05-01 13:56:09",
       "album": {
         "name": "PUERTA ABIERTA",
         "url": "https://open.spotify.com/album/6WxZB5gxWmzRvKVzG2Pu9P"
@@ -537,71 +521,7 @@
       "url": "https://open.spotify.com/track/1QOIgb4mC4s5nYc6cWNWI0"
     },
     {
-      "added_at": "2026-04-30 15:03:12",
-      "album": {
-        "name": "DUAL",
-        "url": "https://open.spotify.com/album/5y3kJTo3x5PBOK6aJSKWMD"
-      },
-      "artists": [
-        {
-          "name": "SANTOS BRAVOS",
-          "url": "https://open.spotify.com/artist/24Vjp1gvnNuNSWJ0vFMZ6G"
-        }
-      ],
-      "duration_ms": 133746,
-      "name": "VELOCIDADE",
-      "url": "https://open.spotify.com/track/3J8uUvHttFs8zlYxoiPVe3"
-    },
-    {
-      "added_at": "2026-04-30 15:03:12",
-      "album": {
-        "name": "Don't Forget About Me, Demos",
-        "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 97960,
-      "name": "Babydoll",
-      "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
-    },
-    {
-      "added_at": "2026-04-30 15:03:12",
-      "album": {
-        "name": "White Trails (Expanded)",
-        "url": "https://open.spotify.com/album/4ZCCd0IZB5RizC5sz5IguU"
-      },
-      "artists": [
-        {
-          "name": "Chris Rainbow",
-          "url": "https://open.spotify.com/artist/0CnHF3fzueVi59nz8fdwcl"
-        }
-      ],
-      "duration_ms": 255946,
-      "name": "Be Like a Woman",
-      "url": "https://open.spotify.com/track/5Ctzx0mMiUPAu9JqbAOY9n"
-    },
-    {
-      "added_at": "2026-04-30 15:03:12",
-      "album": {
-        "name": "In The Palm Of Your Hand",
-        "url": "https://open.spotify.com/album/7pfb8J6I3C3jfJvagjLaYk"
-      },
-      "artists": [
-        {
-          "name": "Buck Owens",
-          "url": "https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu"
-        }
-      ],
-      "duration_ms": 164546,
-      "name": "Made In Japan",
-      "url": "https://open.spotify.com/track/5vHs45P0mSuzl9rDRcliLK"
-    },
-    {
-      "added_at": "2026-04-30 15:03:12",
+      "added_at": "2026-05-01 13:56:09",
       "album": {
         "name": "De Lejitos",
         "url": "https://open.spotify.com/album/4LsQOT9fxqBpZLVLV9Ib55"
@@ -617,7 +537,103 @@
       "url": "https://open.spotify.com/track/3r2ZoCWlf9RewWlxxozfQ8"
     },
     {
-      "added_at": "2026-04-30 15:03:12",
+      "added_at": "2026-05-01 13:56:09",
+      "album": {
+        "name": "Don't Forget About Me, Demos",
+        "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 97960,
+      "name": "Babydoll",
+      "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
+    },
+    {
+      "added_at": "2026-05-01 13:56:09",
+      "album": {
+        "name": "Sabor Caramelo",
+        "url": "https://open.spotify.com/album/7rHYbHNneJYoYlR8hYm08c"
+      },
+      "artists": [
+        {
+          "name": "hoodchad",
+          "url": "https://open.spotify.com/artist/42L0YOiZcb3PqtLq5NE7AO"
+        }
+      ],
+      "duration_ms": 244073,
+      "name": "Sabor Caramelo",
+      "url": "https://open.spotify.com/track/4MjGQq5BNhN9g01lZwcRk8"
+    },
+    {
+      "added_at": "2026-05-01 13:56:09",
+      "album": {
+        "name": "Manual para arreglarme",
+        "url": "https://open.spotify.com/album/22uavYaxKxVOrfsLQsM0zN"
+      },
+      "artists": [
+        {
+          "name": "Novax452",
+          "url": "https://open.spotify.com/artist/1mlSKOnjG2Pa9vKFgnEfMk"
+        }
+      ],
+      "duration_ms": 219839,
+      "name": "Despu\u00e9s de llover",
+      "url": "https://open.spotify.com/track/3PN02nVVND1Qg1rbqRycPA"
+    },
+    {
+      "added_at": "2026-05-01 13:56:09",
+      "album": {
+        "name": "In The Palm Of Your Hand",
+        "url": "https://open.spotify.com/album/7pfb8J6I3C3jfJvagjLaYk"
+      },
+      "artists": [
+        {
+          "name": "Buck Owens",
+          "url": "https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu"
+        }
+      ],
+      "duration_ms": 164546,
+      "name": "Made In Japan",
+      "url": "https://open.spotify.com/track/5vHs45P0mSuzl9rDRcliLK"
+    },
+    {
+      "added_at": "2026-05-01 13:56:09",
+      "album": {
+        "name": "Thriller",
+        "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 245837,
+      "name": "Human Nature",
+      "url": "https://open.spotify.com/track/4cgjA7B4fJBHyB9Ya2bu0t"
+    },
+    {
+      "added_at": "2026-05-01 13:56:09",
+      "album": {
+        "name": "La Llave",
+        "url": "https://open.spotify.com/album/4i8ArLgUOqyNALPqmSamqz"
+      },
+      "artists": [
+        {
+          "name": "Caroolnayhe",
+          "url": "https://open.spotify.com/artist/4RbIY9ViAhDsCKeKFQYDJ6"
+        }
+      ],
+      "duration_ms": 182857,
+      "name": "La Llave",
+      "url": "https://open.spotify.com/track/6U1k2jq73p8C8AWMX0pMUZ"
+    },
+    {
+      "added_at": "2026-05-01 13:56:09",
       "album": {
         "name": "POR SI MA\u00d1ANA NO ESTOY",
         "url": "https://open.spotify.com/album/6A7uWpBb4nHbiBHWRlZi5f"
@@ -633,7 +649,7 @@
       "url": "https://open.spotify.com/track/595wwjQiad6e6lSTScmXvz"
     },
     {
-      "added_at": "2026-04-30 15:03:12",
+      "added_at": "2026-05-01 13:56:09",
       "album": {
         "name": "IMU",
         "url": "https://open.spotify.com/album/1UlPDOw93Ja26s9aEvba7i"
@@ -653,39 +669,7 @@
       "url": "https://open.spotify.com/track/5RGqgYKLBrLMgE2zPI600I"
     },
     {
-      "added_at": "2026-04-30 15:03:12",
-      "album": {
-        "name": "Todo lo perd\u00ed por t\u00ed",
-        "url": "https://open.spotify.com/album/6PHrMyWjMS9gsBpWeRjKdh"
-      },
-      "artists": [
-        {
-          "name": "Agrupaci\u00f3n Son Di Luz",
-          "url": "https://open.spotify.com/artist/6bvGJMUsS3HWWUvZUWIqWj"
-        }
-      ],
-      "duration_ms": 193763,
-      "name": "Todo lo perd\u00ed por t\u00ed",
-      "url": "https://open.spotify.com/track/4E3Qk4lLjIQ9NzwBINqoAG"
-    },
-    {
-      "added_at": "2026-04-30 15:03:12",
-      "album": {
-        "name": "THE MVP OF THE YEAR",
-        "url": "https://open.spotify.com/album/1NDIUPPPe1e55wi9JTnEfY"
-      },
-      "artists": [
-        {
-          "name": "Lil Naay",
-          "url": "https://open.spotify.com/artist/3hfWiirwdO1ijoZQwj7uzZ"
-        }
-      ],
-      "duration_ms": 165738,
-      "name": "UNA BABY EN SANTIAGO",
-      "url": "https://open.spotify.com/track/7CGUgOBXrfaXXvY73GzOXE"
-    },
-    {
-      "added_at": "2026-04-30 15:03:12",
+      "added_at": "2026-05-01 13:56:09",
       "album": {
         "name": "DUAL",
         "url": "https://open.spotify.com/album/5y3kJTo3x5PBOK6aJSKWMD"
@@ -696,48 +680,80 @@
           "url": "https://open.spotify.com/artist/24Vjp1gvnNuNSWJ0vFMZ6G"
         }
       ],
-      "duration_ms": 139400,
-      "name": "MHM",
-      "url": "https://open.spotify.com/track/4gHWdRP5ocZkEhq1iDStoI"
+      "duration_ms": 133746,
+      "name": "VELOCIDADE",
+      "url": "https://open.spotify.com/track/3J8uUvHttFs8zlYxoiPVe3"
     },
     {
-      "added_at": "2026-04-30 15:03:12",
+      "added_at": "2026-05-01 13:56:09",
       "album": {
-        "name": "BAD ENDING FUNK",
-        "url": "https://open.spotify.com/album/6DXAME0qmi8HAWK3HERzIB"
+        "name": "White Trails (Expanded)",
+        "url": "https://open.spotify.com/album/4ZCCd0IZB5RizC5sz5IguU"
       },
       "artists": [
         {
-          "name": "Shimuda",
-          "url": "https://open.spotify.com/artist/1MsdlVAjUybrhVKrn0bo55"
+          "name": "Chris Rainbow",
+          "url": "https://open.spotify.com/artist/0CnHF3fzueVi59nz8fdwcl"
+        }
+      ],
+      "duration_ms": 255946,
+      "name": "Be Like a Woman",
+      "url": "https://open.spotify.com/track/5Ctzx0mMiUPAu9JqbAOY9n"
+    },
+    {
+      "added_at": "2026-05-01 13:56:09",
+      "album": {
+        "name": "Termonuclear",
+        "url": "https://open.spotify.com/album/1aU9LfVj9CTTM55COYuroW"
+      },
+      "artists": [
+        {
+          "name": "Perfecto Miserable",
+          "url": "https://open.spotify.com/artist/48z3nG28oOK5eXgDOCjcon"
+        }
+      ],
+      "duration_ms": 211022,
+      "name": "Termonuclear",
+      "url": "https://open.spotify.com/track/7AvyWxJDbrAjR3G50RBW3b"
+    },
+    {
+      "added_at": "2026-05-01 13:56:09",
+      "album": {
+        "name": "Jermaine Jackson (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1v5pm51ep8nTVpKPkhsvIR"
+      },
+      "artists": [
+        {
+          "name": "Jermaine Jackson",
+          "url": "https://open.spotify.com/artist/1VDurPMbOKrNU8mcMP4X1P"
         },
         {
-          "name": "SlowlyDying",
-          "url": "https://open.spotify.com/artist/56bcrcgSJpGW0sg7mRZFHM"
+          "name": "Pia Zadora",
+          "url": "https://open.spotify.com/artist/4xOk8sG1KBfhKhR4BOq7Mc"
         }
       ],
-      "duration_ms": 70212,
-      "name": "BAD ENDING FUNK",
-      "url": "https://open.spotify.com/track/6eC8U3G5GCK7R5LFF1MOr6"
+      "duration_ms": 250000,
+      "name": "When the Rain Begins to Fall",
+      "url": "https://open.spotify.com/track/4BNgHaHriMcnpeR7qdkojU"
     },
     {
-      "added_at": "2026-04-30 15:03:12",
+      "added_at": "2026-05-01 13:56:09",
       "album": {
-        "name": "Manual para arreglarme",
-        "url": "https://open.spotify.com/album/22uavYaxKxVOrfsLQsM0zN"
+        "name": "Nuestra Casa",
+        "url": "https://open.spotify.com/album/32fF4N6NziEurvlun5ut92"
       },
       "artists": [
         {
-          "name": "Novax452",
-          "url": "https://open.spotify.com/artist/1mlSKOnjG2Pa9vKFgnEfMk"
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
         }
       ],
-      "duration_ms": 219839,
-      "name": "Despu\u00e9s de llover",
-      "url": "https://open.spotify.com/track/3PN02nVVND1Qg1rbqRycPA"
+      "duration_ms": 228535,
+      "name": "Nuestra Casa",
+      "url": "https://open.spotify.com/track/32PLngqOwuA7jZzfZVk6Wb"
     },
     {
-      "added_at": "2026-04-30 15:03:12",
+      "added_at": "2026-05-01 13:56:09",
       "album": {
         "name": "worry (ultra slowed)",
         "url": "https://open.spotify.com/album/0xd4fBjTXCHxOrRCs9r6UU"
@@ -757,39 +773,39 @@
       "url": "https://open.spotify.com/track/18j6GCxt5aFKbYqdvksL7N"
     },
     {
-      "added_at": "2026-04-30 15:03:12",
+      "added_at": "2026-05-01 13:56:09",
       "album": {
-        "name": "La Llave",
-        "url": "https://open.spotify.com/album/4i8ArLgUOqyNALPqmSamqz"
+        "name": "Mi gran amor",
+        "url": "https://open.spotify.com/album/35PM69zUdeLkVOvwsl8zWx"
       },
       "artists": [
         {
-          "name": "Caroolnayhe",
-          "url": "https://open.spotify.com/artist/4RbIY9ViAhDsCKeKFQYDJ6"
+          "name": "Jorge Cuellar",
+          "url": "https://open.spotify.com/artist/1QeeSvpw3S59dmsfFAgvGB"
         }
       ],
-      "duration_ms": 182857,
-      "name": "La Llave",
-      "url": "https://open.spotify.com/track/6U1k2jq73p8C8AWMX0pMUZ"
+      "duration_ms": 165081,
+      "name": "Mi gran amor",
+      "url": "https://open.spotify.com/track/0h9OowuDE24mx1dZPCFo7c"
     },
     {
-      "added_at": "2026-04-30 15:03:12",
+      "added_at": "2026-05-01 13:56:09",
       "album": {
-        "name": "Thriller",
-        "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
+        "name": "THE MVP OF THE YEAR",
+        "url": "https://open.spotify.com/album/1NDIUPPPe1e55wi9JTnEfY"
       },
       "artists": [
         {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+          "name": "Lil Naay",
+          "url": "https://open.spotify.com/artist/3hfWiirwdO1ijoZQwj7uzZ"
         }
       ],
-      "duration_ms": 245837,
-      "name": "Human Nature",
-      "url": "https://open.spotify.com/track/4cgjA7B4fJBHyB9Ya2bu0t"
+      "duration_ms": 165738,
+      "name": "UNA BABY EN SANTIAGO",
+      "url": "https://open.spotify.com/track/7CGUgOBXrfaXXvY73GzOXE"
     },
     {
-      "added_at": "2026-04-30 15:03:12",
+      "added_at": "2026-05-01 13:56:09",
       "album": {
         "name": "POR SI MA\u00d1ANA NO ESTOY",
         "url": "https://open.spotify.com/album/6A7uWpBb4nHbiBHWRlZi5f"
@@ -805,7 +821,7 @@
       "url": "https://open.spotify.com/track/1tz7RZirwiuaJw2p0jbdHb"
     },
     {
-      "added_at": "2026-04-30 15:03:12",
+      "added_at": "2026-05-01 13:56:09",
       "album": {
         "name": "G Class",
         "url": "https://open.spotify.com/album/2wiRE73FcbUPvxEaeDOYyk"
@@ -825,72 +841,56 @@
       "url": "https://open.spotify.com/track/2L5RTUYYrsVmtiRjrieGKf"
     },
     {
-      "added_at": "2026-04-30 15:03:12",
+      "added_at": "2026-05-01 13:56:09",
       "album": {
-        "name": "Suena!!",
-        "url": "https://open.spotify.com/album/04JVtalba8TkCMcteCgf17"
+        "name": "BAD ENDING FUNK",
+        "url": "https://open.spotify.com/album/6DXAME0qmi8HAWK3HERzIB"
       },
       "artists": [
         {
-          "name": "La Misma Gente",
-          "url": "https://open.spotify.com/artist/4q3sKRFsDPs82sKriW34mJ"
-        }
-      ],
-      "duration_ms": 286320,
-      "name": "T\u00fa y Yo - Original",
-      "url": "https://open.spotify.com/track/2WvSzsDOhSpZSqRdHwFAQD"
-    },
-    {
-      "added_at": "2026-04-30 15:03:12",
-      "album": {
-        "name": "Akasa",
-        "url": "https://open.spotify.com/album/4K3ElDlZqPtwtWZbQJFwO5"
-      },
-      "artists": [
-        {
-          "name": "Lou-Kass",
-          "url": "https://open.spotify.com/artist/3t8mzc4McRkE2bbnrQi3cV"
-        }
-      ],
-      "duration_ms": 308813,
-      "name": "No Reces al Sol",
-      "url": "https://open.spotify.com/track/3lqDnDat1ygA4XASuhpatI"
-    },
-    {
-      "added_at": "2026-04-30 15:03:12",
-      "album": {
-        "name": "Mi gran amor",
-        "url": "https://open.spotify.com/album/35PM69zUdeLkVOvwsl8zWx"
-      },
-      "artists": [
-        {
-          "name": "Jorge Cuellar",
-          "url": "https://open.spotify.com/artist/1QeeSvpw3S59dmsfFAgvGB"
-        }
-      ],
-      "duration_ms": 165081,
-      "name": "Mi gran amor",
-      "url": "https://open.spotify.com/track/0h9OowuDE24mx1dZPCFo7c"
-    },
-    {
-      "added_at": "2026-04-30 15:03:12",
-      "album": {
-        "name": "Jermaine Jackson (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1v5pm51ep8nTVpKPkhsvIR"
-      },
-      "artists": [
-        {
-          "name": "Jermaine Jackson",
-          "url": "https://open.spotify.com/artist/1VDurPMbOKrNU8mcMP4X1P"
+          "name": "Shimuda",
+          "url": "https://open.spotify.com/artist/1MsdlVAjUybrhVKrn0bo55"
         },
         {
-          "name": "Pia Zadora",
-          "url": "https://open.spotify.com/artist/4xOk8sG1KBfhKhR4BOq7Mc"
+          "name": "SlowlyDying",
+          "url": "https://open.spotify.com/artist/56bcrcgSJpGW0sg7mRZFHM"
         }
       ],
-      "duration_ms": 250000,
-      "name": "When the Rain Begins to Fall",
-      "url": "https://open.spotify.com/track/4BNgHaHriMcnpeR7qdkojU"
+      "duration_ms": 70212,
+      "name": "BAD ENDING FUNK",
+      "url": "https://open.spotify.com/track/6eC8U3G5GCK7R5LFF1MOr6"
+    },
+    {
+      "added_at": "2026-05-01 13:56:09",
+      "album": {
+        "name": "The Romantic",
+        "url": "https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 204068,
+      "name": "Risk It All",
+      "url": "https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD"
+    },
+    {
+      "added_at": "2026-05-01 13:56:09",
+      "album": {
+        "name": "DUAL",
+        "url": "https://open.spotify.com/album/5y3kJTo3x5PBOK6aJSKWMD"
+      },
+      "artists": [
+        {
+          "name": "SANTOS BRAVOS",
+          "url": "https://open.spotify.com/artist/24Vjp1gvnNuNSWJ0vFMZ6G"
+        }
+      ],
+      "duration_ms": 139400,
+      "name": "MHM",
+      "url": "https://open.spotify.com/track/4gHWdRP5ocZkEhq1iDStoI"
     }
   ],
   "unique_name": "Viral 50 - Bolivia",

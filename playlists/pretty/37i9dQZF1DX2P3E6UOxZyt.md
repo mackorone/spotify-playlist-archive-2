@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 
 ### [RADAR 新勢力](https://open.spotify.com/playlist/37i9dQZF1DX2P3E6UOxZyt)
 
-> 他們就是本年度的重點雷達及力推星人！Let's meet the future！Cover: E1and
+> 他們就是本年度的重點雷達及力推星人！Let's meet the future！Cover: LAWA
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,731 likes - 26 songs - 1 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,751 likes - 26 songs - 1 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -731,6 +731,28 @@
     },
     {
       "album": {
+        "name": "All I Think About",
+        "url": "https://open.spotify.com/album/5oh9IASJx7TMRiLNBwsjF5"
+      },
+      "artists": [
+        {
+          "name": "Sam Silver",
+          "url": "https://open.spotify.com/artist/1hhCo32XBkw8H0iqTSnkx0"
+        },
+        {
+          "name": "Yona",
+          "url": "https://open.spotify.com/artist/6ySw3ZAhiHirmHhaHV8TsJ"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177313,
+      "name": "All I Think About",
+      "url": "https://open.spotify.com/track/3ZHjhEqK1Nq03a0c3DELG4"
+    },
+    {
+      "album": {
         "name": "All I Wanna Do",
         "url": "https://open.spotify.com/album/3X8cM72cVFMPwRDZjDQLDF"
       },
@@ -2414,6 +2436,32 @@
       "duration_ms": 273779,
       "name": "Bass Down Low",
       "url": "https://open.spotify.com/track/2VNQtsFq7rG0JTf7pnAIeP"
+    },
+    {
+      "album": {
+        "name": "Bass Down Low (feat. DEV)",
+        "url": "https://open.spotify.com/album/4Uh4CwIOGDKCnYXEXoNInQ"
+      },
+      "artists": [
+        {
+          "name": "NIIKO X SWAE",
+          "url": "https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz"
+        },
+        {
+          "name": "KSHMR",
+          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
+        },
+        {
+          "name": "DEV",
+          "url": "https://open.spotify.com/artist/7Ip2u3e5Nv6fFb5xyIHxEE"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139147,
+      "name": "Bass Down Low (feat. DEV)",
+      "url": "https://open.spotify.com/track/4ZOGujJtpygBRvPj8KZKFn"
     },
     {
       "album": {
@@ -5857,6 +5905,32 @@
     },
     {
       "album": {
+        "name": "Cruise Control",
+        "url": "https://open.spotify.com/album/4chbByDEJiI0FemneRlnOy"
+      },
+      "artists": [
+        {
+          "name": "NXSTY",
+          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
+        },
+        {
+          "name": "RYA",
+          "url": "https://open.spotify.com/artist/64TQUhovZNp3Vt3N49yGTZ"
+        },
+        {
+          "name": "Delaino",
+          "url": "https://open.spotify.com/artist/34F3CNF3gS2LVir6FuPqX2"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162399,
+      "name": "Cruise Control",
+      "url": "https://open.spotify.com/track/5deXnyAyuJ4fyRIFEtAwIC"
+    },
+    {
+      "album": {
         "name": "D.I.S.C.O.",
         "url": "https://open.spotify.com/album/6Ue9biQDhdLypEIsPxTpCP"
       },
@@ -8492,7 +8566,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 156428,
       "name": "Fear My Name (feat. Barmuda)",
       "url": "https://open.spotify.com/track/7D46r85p07LcPPvGoyWeHC"
@@ -10606,6 +10680,28 @@
       "duration_ms": 251811,
       "name": "Godspeed",
       "url": "https://open.spotify.com/track/4NnLO3LzdT7vKxY1b6KTdK"
+    },
+    {
+      "album": {
+        "name": "Godzilla",
+        "url": "https://open.spotify.com/album/0n8I49rtExzhlmOXuLcqYz"
+      },
+      "artists": [
+        {
+          "name": "KENZ",
+          "url": "https://open.spotify.com/artist/4hG14VdUeZMYHmKwXjGv2L"
+        },
+        {
+          "name": "ESSE",
+          "url": "https://open.spotify.com/artist/4PFWrk1gURzx5KuGSSLO19"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212307,
+      "name": "Godzilla",
+      "url": "https://open.spotify.com/track/3Gt8OyQ4R7zElVCQmY29OT"
     },
     {
       "album": {
@@ -15347,6 +15443,24 @@
     },
     {
       "album": {
+        "name": "Mamacita",
+        "url": "https://open.spotify.com/album/6EuwGP9akonTTd1PuzK5IS"
+      },
+      "artists": [
+        {
+          "name": "BIJOU",
+          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136615,
+      "name": "Mamacita",
+      "url": "https://open.spotify.com/track/6Mu844BcA9aRfwlsFxKGtj"
+    },
+    {
+      "album": {
         "name": "MAMI",
         "url": "https://open.spotify.com/album/5PZzF9O1Q0dsrzixb6DGIu"
       },
@@ -15366,6 +15480,28 @@
       "duration_ms": 110769,
       "name": "MAMI",
       "url": "https://open.spotify.com/track/4UqHeg01SyTG6YiamDGKkT"
+    },
+    {
+      "album": {
+        "name": "Man Up",
+        "url": "https://open.spotify.com/album/3fvgU096kuavgpmdcz76oC"
+      },
+      "artists": [
+        {
+          "name": "Martial Simon",
+          "url": "https://open.spotify.com/artist/72twbwIUSRjha4AnJdNMbs"
+        },
+        {
+          "name": "ASH3R",
+          "url": "https://open.spotify.com/artist/0j7Yv9REL1Nc6lAa3t9BPR"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138716,
+      "name": "Man Up",
+      "url": "https://open.spotify.com/track/59cw0bgS0NB2DKEaUtZCP7"
     },
     {
       "album": {
@@ -15916,7 +16052,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 158570,
       "name": "More",
       "url": "https://open.spotify.com/track/0lxaE62v5sW1FtSfN3qFGd"
@@ -16831,6 +16967,24 @@
     },
     {
       "album": {
+        "name": "Night & Day",
+        "url": "https://open.spotify.com/album/5fntuEso27V8mz6wBYiNeX"
+      },
+      "artists": [
+        {
+          "name": "Mosimann",
+          "url": "https://open.spotify.com/artist/7sAqpkrQBaOkddsv1Tz1XK"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178261,
+      "name": "Night & Day",
+      "url": "https://open.spotify.com/track/70emOt10n88XGHzJzG8qIB"
+    },
+    {
+      "album": {
         "name": "Night Heater",
         "url": "https://open.spotify.com/album/0hutpZuwa1zFNmpVxQLSRH"
       },
@@ -17226,6 +17380,32 @@
       "duration_ms": 169523,
       "name": "No Good",
       "url": "https://open.spotify.com/track/0gtMx0Y0pkjuLYvmmCkyGE"
+    },
+    {
+      "album": {
+        "name": "NO ID",
+        "url": "https://open.spotify.com/album/7AIwwQ4XKzcZve8c7DGZ1L"
+      },
+      "artists": [
+        {
+          "name": "Control Room",
+          "url": "https://open.spotify.com/artist/0tLJ8fk8oulNkMQRAj4Toi"
+        },
+        {
+          "name": "Broken Future",
+          "url": "https://open.spotify.com/artist/4uRey4s58J44Hw796OCZQ1"
+        },
+        {
+          "name": "Lovlee",
+          "url": "https://open.spotify.com/artist/0cPmf8oWIjuDXYrzsNFjj8"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225346,
+      "name": "NO ID",
+      "url": "https://open.spotify.com/track/0BlU2gwg8AhtqYFweasXss"
     },
     {
       "album": {
@@ -18528,7 +18708,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 135652,
       "name": "Overload",
       "url": "https://open.spotify.com/track/5m7BovDgHbS2enUXCl7Y0I"
@@ -22848,7 +23028,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 196576,
       "name": "Strip",
       "url": "https://open.spotify.com/track/5CzGZ3cUdWFB8xxd6C7Shi"
@@ -24544,7 +24724,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 177500,
       "name": "The Grind",
       "url": "https://open.spotify.com/track/4enmdfVbfaArrN3m6hQSyx"
@@ -25430,7 +25610,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 220150,
       "name": "Transformation",
       "url": "https://open.spotify.com/track/0Xs0qrz4NuxtwbJ5bUQ4Zp"
@@ -27396,7 +27576,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 136384,
       "name": "XTC",
       "url": "https://open.spotify.com/track/7n175Z4J9iHMsxRxQ76imr"
@@ -27708,7 +27888,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 186240,
       "name": "ZERO200",
       "url": "https://open.spotify.com/track/3Mm90uj8UhWcUzHTE9ohQ1"

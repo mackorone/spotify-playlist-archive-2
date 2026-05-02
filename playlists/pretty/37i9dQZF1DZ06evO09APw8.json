@@ -1,12 +1,12 @@
 {
   "description": "This is Leon Thomas. The essential tracks, all in one playlist.",
-  "num_followers": 22436,
+  "num_followers": 22465,
   "original_name": "This Is Leon Thomas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afFKAAAAAAD2lgcYUW/H1F7HQPhgdxc4",
+  "snapshot_id": "afKbgAAAAABU3tbXro+VF9PydXBYRoGd",
   "tracks": [
     {
       "added_at": null,
@@ -471,6 +471,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Electric Dusk",
+        "url": "https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 147096,
+      "name": "Crash & Burn",
+      "url": "https://open.spotify.com/track/2fHKzcFXMme56EJMgFsudr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Deeper",
         "url": "https://open.spotify.com/album/3lcEjL8STyQO8JipxsnIqP"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 190863,
       "name": "5MoreMinutes",
       "url": "https://open.spotify.com/track/5mf4gJaGjD5VAjOHDOo3mU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Electric Dusk",
-        "url": "https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT"
-      },
-      "artists": [
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 147096,
-      "name": "Crash & Burn",
-      "url": "https://open.spotify.com/track/2fHKzcFXMme56EJMgFsudr"
     },
     {
       "added_at": null,
@@ -559,6 +559,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Genesis",
+        "url": "https://open.spotify.com/album/6RXMHSqYlYAEpDsNYYBj6B"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 111539,
+      "name": "Blessing",
+      "url": "https://open.spotify.com/track/45zrnAiNUXD7MgDoKgfG8V"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "13 Months of Sunshine",
         "url": "https://open.spotify.com/album/5B4zpYhcIOJXQO7YWBh0LE"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 208147,
       "name": "New Flower! (feat. Leon Thomas)",
       "url": "https://open.spotify.com/track/3q8mXT1racKde1h8zHY1ko"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Genesis",
-        "url": "https://open.spotify.com/album/6RXMHSqYlYAEpDsNYYBj6B"
-      },
-      "artists": [
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 111539,
-      "name": "Blessing",
-      "url": "https://open.spotify.com/track/45zrnAiNUXD7MgDoKgfG8V"
     },
     {
       "added_at": null,
@@ -615,6 +615,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Catching Feelings (feat. Leon Thomas) [Remix]",
+        "url": "https://open.spotify.com/album/4XwwREVubuF8cJFJ7U9rIS"
+      },
+      "artists": [
+        {
+          "name": "Annie Tracy",
+          "url": "https://open.spotify.com/artist/6tNKVWwIt2i6K7GoWIsycF"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 224001,
+      "name": "Catching Feelings (feat. Leon Thomas) - Remix",
+      "url": "https://open.spotify.com/track/2CTvSuX8S3XhbIYZ2SRiZ4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Genesis",
+        "url": "https://open.spotify.com/album/6RXMHSqYlYAEpDsNYYBj6B"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 234809,
+      "name": "PLW",
+      "url": "https://open.spotify.com/track/6IWCYw5tcnEZfX5HPa8O5Z"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "FRANCIS",
         "url": "https://open.spotify.com/album/4tIEFaeXJpNVw53d4AJwBs"
       },
@@ -631,6 +667,26 @@
       "duration_ms": 230936,
       "name": "dangerous game",
       "url": "https://open.spotify.com/track/1Qq1TDdMo7UjRP6nlSog2q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Why Not More? (MORE!)",
+        "url": "https://open.spotify.com/album/6mG2LhKSQ8H5DxmaC1vZ8M"
+      },
+      "artists": [
+        {
+          "name": "Coco Jones",
+          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 216507,
+      "name": "Here We Go (Uh Oh) [Remix] (feat. Leon Thomas)",
+      "url": "https://open.spotify.com/track/2QDNxaKybJGJaZ0ZLoZbxf"
     },
     {
       "added_at": null,
@@ -660,49 +716,9 @@
           "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
         }
       ],
-      "duration_ms": 234809,
-      "name": "PLW",
-      "url": "https://open.spotify.com/track/6IWCYw5tcnEZfX5HPa8O5Z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Why Not More? (MORE!)",
-        "url": "https://open.spotify.com/album/6mG2LhKSQ8H5DxmaC1vZ8M"
-      },
-      "artists": [
-        {
-          "name": "Coco Jones",
-          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
-        },
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 216507,
-      "name": "Here We Go (Uh Oh) [Remix] (feat. Leon Thomas)",
-      "url": "https://open.spotify.com/track/2QDNxaKybJGJaZ0ZLoZbxf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Catching Feelings (feat. Leon Thomas) [Remix]",
-        "url": "https://open.spotify.com/album/4XwwREVubuF8cJFJ7U9rIS"
-      },
-      "artists": [
-        {
-          "name": "Annie Tracy",
-          "url": "https://open.spotify.com/artist/6tNKVWwIt2i6K7GoWIsycF"
-        },
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 224001,
-      "name": "Catching Feelings (feat. Leon Thomas) - Remix",
-      "url": "https://open.spotify.com/track/2CTvSuX8S3XhbIYZ2SRiZ4"
+      "duration_ms": 207572,
+      "name": "Sunken Place",
+      "url": "https://open.spotify.com/track/6QcSxvbao47AlbYOPv9nqv"
     },
     {
       "added_at": null,
@@ -727,18 +743,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Genesis",
-        "url": "https://open.spotify.com/album/6RXMHSqYlYAEpDsNYYBj6B"
+        "name": "Conductor We Have a Problem, Pt. 3",
+        "url": "https://open.spotify.com/album/5SSe6FWQ6wnj7ktYdoXbXF"
       },
       "artists": [
+        {
+          "name": "Conductor Williams",
+          "url": "https://open.spotify.com/artist/1VuBGdfqq86BQyiDactQAC"
+        },
         {
           "name": "Leon Thomas",
           "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
         }
       ],
-      "duration_ms": 207572,
-      "name": "Sunken Place",
-      "url": "https://open.spotify.com/track/6QcSxvbao47AlbYOPv9nqv"
+      "duration_ms": 223818,
+      "name": "Guilty",
+      "url": "https://open.spotify.com/track/5DNeFRR7NLBz1Pz0LE6IP3"
     },
     {
       "added_at": null,
@@ -763,22 +783,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Conductor We Have a Problem, Pt. 3",
-        "url": "https://open.spotify.com/album/5SSe6FWQ6wnj7ktYdoXbXF"
+        "name": "Genesis",
+        "url": "https://open.spotify.com/album/6RXMHSqYlYAEpDsNYYBj6B"
       },
       "artists": [
-        {
-          "name": "Conductor Williams",
-          "url": "https://open.spotify.com/artist/1VuBGdfqq86BQyiDactQAC"
-        },
         {
           "name": "Leon Thomas",
           "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
         }
       ],
-      "duration_ms": 223818,
-      "name": "Guilty",
-      "url": "https://open.spotify.com/track/5DNeFRR7NLBz1Pz0LE6IP3"
+      "duration_ms": 202971,
+      "name": "Moments After",
+      "url": "https://open.spotify.com/track/5DrPVWMUapjGznorkXTi24"
     },
     {
       "added_at": null,
@@ -799,22 +815,6 @@
       "duration_ms": 179461,
       "name": "LOVERS OR FRIENDS",
       "url": "https://open.spotify.com/track/3maNWrDSF4ZpBH5lLg0PyF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Genesis",
-        "url": "https://open.spotify.com/album/6RXMHSqYlYAEpDsNYYBj6B"
-      },
-      "artists": [
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 202971,
-      "name": "Moments After",
-      "url": "https://open.spotify.com/track/5DrPVWMUapjGznorkXTi24"
     },
     {
       "added_at": null,

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 
 > Chillout hip\-hop vibes\. Cover: J\. Cole
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,400,193 likes - 105 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,400,256 likes - 105 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The Villest \(with Erykah Badu\)](https://open.spotify.com/track/1lYM9PgB0QOk3pDo8h0UiN) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [The Fall\-Off](https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7) | 4:30 |
 | 2 | [Give It All 4 My B\*\*\*\*\_PINK](https://open.spotify.com/track/38HOBD25hhwDTJABkyB1cG) | [REASON](https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o) | [Moving Towards Love\_PINK](https://open.spotify.com/album/4nvIE4mJRIPMeYSFB3rbGM) | 3:42 |
-| 3 | [SAME SH!T](https://open.spotify.com/track/0EOc1cP1zMmF9kR0w3AM5f) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM) | [SAME SH!T](https://open.spotify.com/album/34v3zMWlkxsKbaYnERZV6d) | 3:13 |
+| 3 | [SCARED 2 LOOK DOWN](https://open.spotify.com/track/74erZoYgTPz3zkrqH1eAxz) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM) | [IT'S BEEN AWFUL](https://open.spotify.com/album/2ZDgH9uDdjRFNdjEyQCZtH) | 3:36 |
 | 4 | [Sunday Again \(with 2 Chainz\)](https://open.spotify.com/track/0jqIclUdaqiwYEi4FLUBOc) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Sunday Again \(with 2 Chainz\)](https://open.spotify.com/album/1b3dLmOwWOyyqsUtT0NrBv) | 3:40 |
 | 5 | [Reconsider](https://open.spotify.com/track/68s4qX9mitS8d3u1UY7SDj) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [ADHD 2 Reloaded](https://open.spotify.com/album/61MEzXrdKxuTvken9N1C7g) | 3:37 |
 | 6 | [Belly](https://open.spotify.com/track/7MYypH9VM4e2Ai05LhhyDE) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Belly](https://open.spotify.com/album/6xkDEPFBEVdWcOF42JEbYP) | 3:08 |
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 17 | [Highway 95 pt.2](https://open.spotify.com/track/5OUtx1HW0cLbt1bCuSHlw8) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [Ca$ino](https://open.spotify.com/album/21xGzx6HTydCnvfZTvLf6b) | 3:48 |
 | 18 | [Clink](https://open.spotify.com/track/60eUWIGVnOBdVOs14dz0UP) | [See You Next Year](https://open.spotify.com/artist/6NV0b1K9BhoZYSBk9ZPnWv), [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed) | [SYNY 3 ACT III](https://open.spotify.com/album/4HGO4xsnxiXdUylihPjTUB) | 2:40 |
 | 19 | [Buckets](https://open.spotify.com/track/30MUedNNzzTVTFEg76XXz8) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [LOCAL ART DEALER, Vol\. 1](https://open.spotify.com/album/56lgO3adqzjPejVWsPgsSf) | 3:23 |
-| 20 | [Reminders](https://open.spotify.com/track/4LGl61eELLpzdyWLqizDwF) | [Deante' Hitchcock](https://open.spotify.com/artist/5REHfa3YDopGOzrxwTsPvH), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [Childish Major](https://open.spotify.com/artist/4bMNzAopkqYTwkBLwMKsF1), [Anna Field](https://open.spotify.com/artist/79Xtc3AxtVKZiItuc9Xioo) | [Reminders](https://open.spotify.com/album/0tGuXDZD9eHvn5b7HXHomz) | 4:23 |
+| 20 | [Reminders \(feat\. 6lack, Childish Major, & Anna Field\)](https://open.spotify.com/track/4LGl61eELLpzdyWLqizDwF) | [Deante' Hitchcock](https://open.spotify.com/artist/5REHfa3YDopGOzrxwTsPvH), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [Childish Major](https://open.spotify.com/artist/4bMNzAopkqYTwkBLwMKsF1), [Anna Field](https://open.spotify.com/artist/79Xtc3AxtVKZiItuc9Xioo) | [Reminders \(feat\. 6lack, Childish Major, & Anna Field\)](https://open.spotify.com/album/0tGuXDZD9eHvn5b7HXHomz) | 4:23 |
 | 21 | [JANKY moral COMPASS \(feat\. Samara Cyn & Sydney Leona\)](https://open.spotify.com/track/4Sfl1Hhi7adLW7IsHP4itc) | [Ray Vaughn](https://open.spotify.com/artist/4yYYCSCDUTypErQMZv5iSg), [Sydney Leona](https://open.spotify.com/artist/4sWc3NPfHM8tgq3C1gASa4), [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [The Good The Bad The Dollar Menu](https://open.spotify.com/album/3Uh6x05rLt3AIQJMzA50vw) | 5:09 |
 | 22 | [Pray For A Blessing](https://open.spotify.com/track/6cSdSRrXIExY2T7FgPZzEb) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ), [Jay Rock](https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3) | [Simmie Sims III](https://open.spotify.com/album/27CufK7Chv4FrKdvsob35j) | 1:43 |
 | 23 | [Both Eyes Closed](https://open.spotify.com/track/4iOCGZfwBA3opybMoqtqQT) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Highest 2 Lowest \(Original Soundtrack\)](https://open.spotify.com/album/7DCxpT85T64nNsvhuIbY58) | 4:13 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 104 | [Norbit](https://open.spotify.com/track/20NVTKQQ5CBmHG4l2MzmQU) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [The Hics](https://open.spotify.com/artist/2XHJ36WzMJKpDk6fLl6lMo), [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW) | [Norbit](https://open.spotify.com/album/4q2WD6bxDAh5YfeXUWUCSO) | 3:14 |
 | 105 | [HOP OUT CHO FEELINS](https://open.spotify.com/track/0kTaVR84OJ6jb8tDw4wj35) | [Kal Banx](https://open.spotify.com/artist/2TYRz7cFNZNPLUWRijsJNL), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [HOP OUT CHO FEELINS](https://open.spotify.com/album/1IcdpXhLeRuXHo363pYL8F) | 3:48 |
 
-Snapshot ID: `AAAAAB1eh87Be9ZCPF8tZgzKyHlkoe2l`
+Snapshot ID: `AAAAAIeYILyQnBLagI/vg4SvX77KY2gC`

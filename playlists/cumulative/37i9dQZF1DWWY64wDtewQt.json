@@ -6105,6 +6105,24 @@
     },
     {
       "album": {
+        "name": "FUNK ABNORMAL",
+        "url": "https://open.spotify.com/album/1L2kODY4rShKP0phbzgys3"
+      },
+      "artists": [
+        {
+          "name": "DJ V12",
+          "url": "https://open.spotify.com/artist/0PEgH2YVz5tadElsDE8ZpD"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101410,
+      "name": "FUNK ABNORMAL - SLOWED",
+      "url": "https://open.spotify.com/track/1BoDSjzUW6Bjf8JjHmY6D2"
+    },
+    {
+      "album": {
         "name": "FUNK BAD DO BAD",
         "url": "https://open.spotify.com/album/1b3XLbn2sqvcr8nyl1Oq0U"
       },
@@ -6364,7 +6382,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 115348,
       "name": "FUNKED UP - SLOWED",
       "url": "https://open.spotify.com/track/4VL5XwfATZuAVTW471Wpro"

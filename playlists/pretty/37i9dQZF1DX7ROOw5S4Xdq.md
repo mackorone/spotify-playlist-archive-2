@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: André e Felipe
 
-[Spotify](https://open.spotify.com/user/spotify) - 372,663 likes - 50 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 372,839 likes - 50 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Foi Por Mim](https://open.spotify.com/track/6lm90XjvjKEoD82WNksOMs) | [André e Felipe](https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb) | [Foi Por Mim](https://open.spotify.com/album/5hUQyCFzADBlT82RdDlULE) | 5:41 |
 | 2 | [Se Deus é Por Nós \- Ao Vivo](https://open.spotify.com/track/5ApqboIuxy9Vc1sWb899go) | [Leandro Soares](https://open.spotify.com/artist/5QiowaqBJe5wxa8S1c2Xhr), [Felipe Rodrigues](https://open.spotify.com/artist/2Fg24GlhFBtqn2c9FxzFrS), [Abdiel Arsenio](https://open.spotify.com/artist/1OHfsmuZJgX0cVLGvwxGZP), [BRASAS](https://open.spotify.com/artist/5PNsJHfFejQHph4pQPGENg), [Salvaon](https://open.spotify.com/artist/1YbTEvDgGkTuBpMFtHDbgG), [Jhonas Serra](https://open.spotify.com/artist/0WsTM0BMHTqJM5M7EGX4EH) | [Se Deus é Por Nós \(Ao Vivo\)](https://open.spotify.com/album/7Ix1tdIK7KUMEW4EMyaEuS) | 5:59 |
 | 3 | [Isaias 6 \- Ao Vivo](https://open.spotify.com/track/7lSqjqTSrnWwVu8iubwIjP) | [Sued Silva](https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2), [Anna Clara Rocha](https://open.spotify.com/artist/1oI7Zkry0NMleoFSQoTVsI), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Isaias 6 \(Ao Vivo\)](https://open.spotify.com/album/5MTVHMwXBKbIaK7vzGAkWV) | 10:09 |
-| 4 | [Track 1](https://open.spotify.com/track/1CfUw1RCMxj7V1vhLG9gyD) | [Marcados Pagode Gospel](https://open.spotify.com/artist/1cyFEihCjqmV3ymkewYSAK) | [Resenha de Crente \(Ao Vivo\)](https://open.spotify.com/album/3IpmIOGxz8vsjsuNhVNYQk) | 0:00 |
+| 4 | [Porque Ele Vive \- Ao Vivo](https://open.spotify.com/track/1CfUw1RCMxj7V1vhLG9gyD) | [Marcados Pagode Gospel](https://open.spotify.com/artist/1cyFEihCjqmV3ymkewYSAK), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Resenha de Crente \(Ao Vivo\)](https://open.spotify.com/album/3IpmIOGxz8vsjsuNhVNYQk) | 4:08 |
 | 5 | [Não Vou Calar Meus Lábios \- Acústico](https://open.spotify.com/track/50egfQs22j9dkGUEBjgPyj) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [VERSÕES VOL\. 3: Fernandinho e Paula \(Acústico\)](https://open.spotify.com/album/5IZMV2dW87j5I2zQZNlRBL) | 4:48 |
 | 6 | [Deus do Secreto \- Ao Vivo](https://open.spotify.com/track/5TxCZw9dPlmgiSxgYdRpeE) | [Esther Lays](https://open.spotify.com/artist/4AxeJoaFfdbhi4MrhoGFB9), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Deus do Secreto \(Ao Vivo\)](https://open.spotify.com/album/3Tq72LHJiyPBsovoChpXoV) | 5:14 |
 | 7 | [Vamos Cantar \- Ao Vivo](https://open.spotify.com/track/28dhutzL2etPxNHo0nMWvp) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [Marcelo Markes](https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2) | [Vamos Cantar \(Ao Vivo\)](https://open.spotify.com/album/1xRXkUoEPB87tro7NXcAAe) | 6:08 |

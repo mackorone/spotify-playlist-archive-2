@@ -4,7 +4,7 @@
 
 > time\-stretching granular synthesis
 
-589 songs - 1 day 23 hr 5 min
+591 songs - 1 day 23 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [Conga Album](https://open.spotify.com/track/0jKm3XkCLqhgdIqQO1HG3P) | [Nathan Micay](https://open.spotify.com/artist/6U7MOIhacysUEnfJ41WfhC) | [Conga Album](https://open.spotify.com/album/5JJdTc1ylNmtt0JISC9ZUX) | 4:10 | 2021-10-06 | 2025-07-17 |
 | [Contato](https://open.spotify.com/track/3d9lSEuj72Nng9RSiBCJMK) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn), [Marcela Días](https://open.spotify.com/artist/0lRTbC1mev61p4iqZJFsOh) | [Contato](https://open.spotify.com/album/2Ijl7748cet44nbXZNx29K) | 4:03 | 2022-09-02 | 2022-11-13 |
 | [Contours \- Steven Weston Remix](https://open.spotify.com/track/3YAsdtrx9ahhRmF40lKgEa) | [Cephas Azariah](https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG), [Steven Weston](https://open.spotify.com/artist/7zxRSonZpfxzpY2S4Cse4U) | [Contours \(Steven Weston Remix\)](https://open.spotify.com/album/0t4X9kaICRhAkbXtcqbfKe) | 4:00 | 2025-06-06 | 2025-10-11 |
+| [Control](https://open.spotify.com/track/3Wesx48x9hpkJRDtJp7fdZ) | [Eden FM](https://open.spotify.com/artist/27UKaWqi4fjaBFY0sNmvNT) | [Ataxia](https://open.spotify.com/album/5WebisF7O14pdbTWdbq4TU) | 3:50 | 2026-05-01 |  |
 | [Cops de Cap](https://open.spotify.com/track/51AQ51yZDNWDPv14cNFFwY) | [Pedro Vian](https://open.spotify.com/artist/6ZauMzEw3kvDr7fqK3CbjE) | [Black Toms](https://open.spotify.com/album/3Zd9orgVaWayWFOjGMjN2l) | 5:39 | 2021-10-06 | 2025-07-17 |
 | [Coral Jazz](https://open.spotify.com/track/5o3FOmZJPxN4hfLlaFR6hM) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Coral Jazz](https://open.spotify.com/album/5vK2QLhligjEJXejUhKLLi) | 3:03 | 2021-10-06 | 2024-07-03 |
 | [Cosplayer \(export per Guido\)](https://open.spotify.com/track/0C0VnUtQ9OMDyp9pt1bZf3) | [Mofw](https://open.spotify.com/artist/0SEWdriPzbyDyT38BWWxiH) | [Cosplayer \(export per Guido\)](https://open.spotify.com/album/3vx7q5z7zSCyZt6ghyAYiO) | 3:58 | 2025-09-19 |  |
@@ -139,6 +140,7 @@
 | [CV／Gate](https://open.spotify.com/track/77VMqdtUogf2xrCGrZkGdZ) | [Long Island Sound](https://open.spotify.com/artist/3pjD8ZnuS0MDfx5nVGDDws) | [CV／Gate](https://open.spotify.com/album/0gU1TsXv072udsyYjZ4n8V) | 4:17 | 2025-09-19 | 2026-01-31 |
 | [D.I.S.](https://open.spotify.com/track/3az9Ir2Qd2JBHxT9wfGLoV) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [D.I.S.](https://open.spotify.com/album/3GKiNeF8efgPVOIijAeCZn) | 3:32 | 2025-11-10 |  |
 | [daydream](https://open.spotify.com/track/7F8DbKBW1nZdhNU66jrsOK) | [nextdimensional](https://open.spotify.com/artist/3zDlEDZXauNcVpmq9FUrUD) | [daydream](https://open.spotify.com/album/2Ffq3guztfuDOY4adOEu5P) | 3:02 | 2026-02-18 |  |
+| [Deception Dance](https://open.spotify.com/track/2zDZE2b8jnciI2rnMmPlwD) | [Gigi Masin](https://open.spotify.com/artist/0dCVhSVXD9JhJh2bTySJZx) | [Deception Dance](https://open.spotify.com/album/7zKlprmx58m3HJxQnhfaHK) | 7:36 | 2026-05-01 |  |
 | [Deipkier](https://open.spotify.com/track/1XqNsMxAq5hHpr35djllcJ) | [Craven Faults](https://open.spotify.com/artist/3pAxHOmaTLiUnC9WoXdsyN) | [Erratics & Unconformities](https://open.spotify.com/album/3froV8878RfT1ClZYjyxBI) | 7:55 | 2021-10-06 | 2024-04-19 |
 | [Deipkier](https://open.spotify.com/track/1hZawUg1APIr7nw6MOhyVf) | [Craven Faults](https://open.spotify.com/artist/3pAxHOmaTLiUnC9WoXdsyN) | [Erratics & Unconformities](https://open.spotify.com/album/2BsxDJWcmm9iFH1BFdXO6V) | 7:55 | 2021-10-06 | 2025-06-10 |
 | [denon](https://open.spotify.com/track/0l2azF8wxLAcJIQq5ZwgAr) | [Deru](https://open.spotify.com/artist/4GolrXXRODq7bAGCod4JoV) | [denon](https://open.spotify.com/album/0EzTFUj1ERlNOhZFELTc8N) | 5:45 | 2025-09-19 | 2025-11-30 |
@@ -387,7 +389,7 @@
 | [Promise](https://open.spotify.com/track/28NaP6iuy1B4on1UJKw7vs) | [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [Promise](https://open.spotify.com/album/1zeLCQaCe1WudTjd1Dr4a9) | 3:29 | 2021-10-06 | 2025-07-17 |
 | [Promise](https://open.spotify.com/track/7tasS3I1UPfb4i1YsNiLst) | [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [Promise](https://open.spotify.com/album/6a6QDSVW69j9RM5o0VqwTv) | 3:29 | 2021-10-06 | 2024-04-19 |
 | [Promise You'll Haunt Me](https://open.spotify.com/track/3ZNoKpRGsNc2xK7yPbg5aI) | [Auscultation](https://open.spotify.com/artist/5KlOanD5FKL6qWZ8auNVKQ) | [L'étreinte Imaginaire](https://open.spotify.com/album/1E5qllAtZJmSI94vHGMdGn) | 6:33 | 2021-10-06 | 2025-05-31 |
-| [Prone](https://open.spotify.com/track/6H6ot03lTH7LPsquYg73wv) | [Nic As Well](https://open.spotify.com/artist/1CimlrFEuX0nZOd4aq7nKu) | [Prone](https://open.spotify.com/album/5F1OYNtW4BLdsCtU0HZTIi) | 5:55 | 2025-10-21 |  |
+| [Prone](https://open.spotify.com/track/6H6ot03lTH7LPsquYg73wv) | [Nic As Well](https://open.spotify.com/artist/1CimlrFEuX0nZOd4aq7nKu) | [Prone](https://open.spotify.com/album/5F1OYNtW4BLdsCtU0HZTIi) | 5:55 | 2025-10-21 | 2026-05-02 |
 | [Psiconomimesis](https://open.spotify.com/track/5aOuxIDd4hLHnwkYB8gWrc) | [Niño Árbol](https://open.spotify.com/artist/5m0sadWkszdehCnCpa2HYI) | [Psiconomimesis](https://open.spotify.com/album/3bRuhKtTj8AY2DYW5SsJpb) | 6:04 | 2025-08-12 | 2025-11-22 |
 | [Qat](https://open.spotify.com/track/2KczCgTKhkBWpmJz4PKpao) | [Minotaur Shock](https://open.spotify.com/artist/0th6kjDjrhxTcb8vytnH30) | [Qat](https://open.spotify.com/album/0ZoheaNPsZsrT7ghPunX0c) | 6:16 | 2021-10-06 | 2025-06-07 |
 | [Qatidiq](https://open.spotify.com/track/0dWw6EOCJSuMIMKfab6POv) | [\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|](https://open.spotify.com/artist/2i9OpWjVeuDPilnZ0mgM1L) | [Qatidiq](https://open.spotify.com/album/4joQGA8INvAg2UPH88sBvY) | 4:12 | 2021-10-06 | 2022-07-19 |
@@ -416,7 +418,7 @@
 | [Rotating In Unison](https://open.spotify.com/track/38x5k5FN5X7rtrN3WyxcA1) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Put Your Head Above The Parakeets](https://open.spotify.com/album/6d1CSnZChE0mkkVvRFlKVH) | 5:01 | 2021-10-06 | 2025-07-17 |
 | [Rotterdambi](https://open.spotify.com/track/7amYhgypF2tsCax09u80oF) | [Dubokaj](https://open.spotify.com/artist/4LpipxyhaUntlQyGXKmsQL) | [Daydreamflix](https://open.spotify.com/album/0lTJ1VWKgf6fhDiHvoQ7fq) | 2:17 | 2022-03-30 | 2025-07-17 |
 | [Routine](https://open.spotify.com/track/001AtqHBv2Pmnfkd4D1fDe) | [Skee Mask](https://open.spotify.com/artist/2qwi0hBvI2GrbkurOnw3hZ) | [ISS002](https://open.spotify.com/album/56PPeakEYsp9N44Hb1RcdU) | 5:44 | 2021-10-06 | 2022-07-23 |
-| [running \- mndsgn remix](https://open.spotify.com/track/3ULD5tEJRJ8bDndnVuBS7I) | [Sparklmami](https://open.spotify.com/artist/50NGgQQCV0QLrOefzyuNh0), [Mndsgn](https://open.spotify.com/artist/4GcpBLY8g8NrmimWbssM26) | [running \(remix/live\)](https://open.spotify.com/album/7ew5PPmw9Ic6FXPIGJIRoe) | 3:27 | 2026-02-27 |  |
+| [running \- mndsgn remix](https://open.spotify.com/track/3ULD5tEJRJ8bDndnVuBS7I) | [Sparklmami](https://open.spotify.com/artist/50NGgQQCV0QLrOefzyuNh0), [Mndsgn](https://open.spotify.com/artist/4GcpBLY8g8NrmimWbssM26) | [running \(remix/live\)](https://open.spotify.com/album/7ew5PPmw9Ic6FXPIGJIRoe) | 3:27 | 2026-02-27 | 2026-05-02 |
 | [Russian Oscillator](https://open.spotify.com/track/4pA4anx90egS5Tc8zwfKwI) | [Adrian Sherwood](https://open.spotify.com/artist/4vZIz0gG5DD3Qj9MB6kclW) | [The Grand Designer](https://open.spotify.com/album/59gBsijmqHF1tP6UfiYbVl) | 3:30 | 2025-06-13 | 2025-10-22 |
 | [Ryso](https://open.spotify.com/track/1TdtpAUTwx99XeEDULGVkE) | [Psychic Health](https://open.spotify.com/artist/6VZPTy7odAe8Xgy95gkie2) | [Exclusion](https://open.spotify.com/album/0TuFV0X2zr2zwS6qoSp8h3) | 4:25 | 2021-10-06 | 2022-07-20 |
 | [Rápido & Lento ;\)](https://open.spotify.com/track/1Q8l9OpEHChZbkBdJoJmn3) | [Brenda](https://open.spotify.com/artist/6bbLScfhLt3Q5QeIQYiQM9), [Verraco](https://open.spotify.com/artist/4GfEnw0dFSSzB9M65k0dA1) | [Húmedo](https://open.spotify.com/album/2dxKs1bSNZS7f4zFi3K8Kv) | 5:27 | 2025-09-15 |  |

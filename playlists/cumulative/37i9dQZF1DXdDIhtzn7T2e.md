@@ -4,7 +4,7 @@
 
 > Let these country tunes light up your day
 
-102 songs - 6 hr 16 min
+105 songs - 6 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Don't Bogart Me \(aka Don't Bogart That Joint\)](https://open.spotify.com/track/68vd5D5TdaWui3lN9WBkXS) | [The Fraternity Of Man](https://open.spotify.com/artist/1e3oBLWpiu34xzdzOIdNzS) | [Easy Rider \(Music From The Soundtrack\)](https://open.spotify.com/album/53Eub84MQoBDpOV1KVNQaf) | 3:06 | 2021-04-20 | 2023-03-04 |
 | [Doobie Like U Do](https://open.spotify.com/track/6KPERXy14OLEL1kFpunnvo) | [Cannabis Cowboys](https://open.spotify.com/artist/736mRxct30Z9fNH5Ya9bbB) | [Doobie Like U Do](https://open.spotify.com/album/7An5o2NItPc19K3PsgtdSg) | 3:47 | 2022-07-08 |  |
 | [Down to Seeds and Stems Again Blues](https://open.spotify.com/track/5lo3R8FXLTjtDPRwrPvZl1) | [Commander Cody And His Lost Planet Airman](https://open.spotify.com/artist/5EuQzrjffQlDTKObrN5tbY) | [Hot to Trot](https://open.spotify.com/album/4PcDJDCi5hMiH7l7v4T1qh) | 4:03 | 2021-04-20 |  |
+| [Drag, Queen](https://open.spotify.com/track/6d9D2MSdnxha0mkcJxXb1w) | [Abbie Callahan](https://open.spotify.com/artist/6XwNHIhBOIQCoD7zAR2Xhm) | [Drag, Queen](https://open.spotify.com/album/40yQOWxxcJla2npcVSiBLP) | 2:31 | 2026-05-01 |  |
 | [Easy on the Trigger](https://open.spotify.com/track/1MG6WgoUuXCaPIWMqOQqn6) | [Raleigh Keegan](https://open.spotify.com/artist/1mDIaHzalOaN9oX7hHnpXV) | [Easy on the Trigger](https://open.spotify.com/album/3ZyvR4UtdxgvNx9gllISB9) | 2:33 | 2021-11-26 |  |
 | [Electric Bill](https://open.spotify.com/track/61euBDYvR2Pp9pjggyeLTc) | [Jason Boland & The Stragglers](https://open.spotify.com/artist/1sX1MkGoDKuMzzhaALPFyZ) | [Dark & Dirty Mile](https://open.spotify.com/album/21iBaD9BflnoP75s2bP0MO) | 3:15 | 2021-04-20 | 2023-03-04 |
 | [Follow Your Arrow](https://open.spotify.com/track/4CLPNURPcKztF9RRdcWLGP) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Same Trailer Different Park](https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6) | 3:19 | 2021-04-20 |  |
@@ -57,6 +58,7 @@
 | [Just Breathe](https://open.spotify.com/track/3rIgqH7rTzpB7Gtvo6oDsA) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Lukas Nelson](https://open.spotify.com/artist/1oK57qVDixqM7no13U1mK9) | [Heroes](https://open.spotify.com/album/4pwOr5WCJyqrFxwYLFB2nT) | 4:03 | 2021-04-20 |  |
 | [Let It Run \(feat\. Snoop Dogg\)](https://open.spotify.com/track/7L97L0MsB68t9JhPJiqgTe) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Let It Run \(feat\. Snoop Dogg\)](https://open.spotify.com/album/7rNpIRoKgQitAtM27keUh1) | 2:58 | 2025-07-18 |  |
 | [Let's Get Stoned](https://open.spotify.com/track/0MeanTS4mXhady8sMcX8XB) | [Clay Street Unit](https://open.spotify.com/artist/0HmpQ609wnu7isR6i96CWb) | [Sin & Squalor](https://open.spotify.com/album/2VN26a6OZ8bIDacwlpkq5S) | 3:09 | 2026-03-20 |  |
+| [Marry Jane](https://open.spotify.com/track/1E6XRmQ1Tu0YrLJ7gm6pXc) | [Abbie Callahan](https://open.spotify.com/artist/6XwNHIhBOIQCoD7zAR2Xhm) | [Grossly Aware](https://open.spotify.com/album/1i8zIVZoRTC5GEM2ZG1UWE) | 2:25 | 2026-05-01 |  |
 | [Mary Jane & Chardonnay](https://open.spotify.com/track/1Oa10qvMw6KP7VYtJUcsLi) | [Meg McRee](https://open.spotify.com/artist/2XXRe7XAVLJZUUOjlEdssy) | [Is It Just Me?](https://open.spotify.com/album/0wlwXhATsyfP9ZjqOCkTqi) | 3:21 | 2023-03-03 |  |
 | [Mary Wanna](https://open.spotify.com/track/4WmvcM6v7pfQ4dauJDjya2) | [Jason Nix](https://open.spotify.com/artist/168GW0NjbTxHxlDnY4B798) | [Mary Wanna](https://open.spotify.com/album/4qUwU9k2NjD5rzwpbUo6x0) | 2:56 | 2022-07-29 |  |
 | [Might As Well Get Stoned](https://open.spotify.com/track/0DBYW9lHjTTz55gIt63IB9) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Traveller](https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7) | 4:37 | 2021-04-20 |  |
@@ -71,6 +73,7 @@
 | [Paid My Dues \(feat\. Jack Ingram\)](https://open.spotify.com/track/6zEdC244iXLmU9JfQzidAU) | [Bruce Robison](https://open.spotify.com/artist/5cqtplMyw7hPLjW47Jr7Uq), [Jack Ingram](https://open.spotify.com/artist/6VQGYwqcmPDtqfVTSDqBgp) | [Bruce Robison & the Back Porch Band](https://open.spotify.com/album/63OvteRfdrITCzn2km5Yln) | 3:22 | 2021-11-26 | 2023-08-21 |
 | [Pass It On](https://open.spotify.com/track/4NPQb5305qkdRARfAEaOle) | [Ryan Hurd](https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw) | [Pelago](https://open.spotify.com/album/0vlxtyaep2FkkVidYC49PA) | 2:59 | 2021-11-26 |  |
 | [Ready to Roll](https://open.spotify.com/track/5nw7N4ipO6Y75DXMdBpS5p) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Red River Blue \(Deluxe Edition\)](https://open.spotify.com/album/1WXCjIDp84rJN6Sa1Um9kJ) | 3:34 | 2021-04-20 | 2023-08-21 |
+| [Rhinestoned](https://open.spotify.com/track/30CgEnmJ31CIrRtTEhX41I) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Middle of Nowhere](https://open.spotify.com/album/269NuTU0YVTRAmvI8uW6Vr) | 3:33 | 2026-05-01 |  |
 | [Roll Me Up](https://open.spotify.com/track/4FphdrrHaX3vXpT1eOrTHR) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX), [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8) | [Heroes](https://open.spotify.com/album/4pwOr5WCJyqrFxwYLFB2nT) | 3:26 | 2021-04-20 |  |
 | [Sitting In Limbo](https://open.spotify.com/track/5kkT3J5trC533eXfZRxcaI) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Countryman](https://open.spotify.com/album/77pIdRuNu9xRYk6BB6l9nI) | 2:41 | 2021-04-20 |  |
 | [Smoke A Little Smoke](https://open.spotify.com/track/1ESipSqVefdknPg5IBKFND) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Carolina](https://open.spotify.com/album/37iovsHz9HV9PPR2DLbNnC) | 3:11 | 2022-04-20 | 2024-04-19 |

@@ -4,7 +4,7 @@
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-7,844 songs - 18 day 2 hr 52 min
+7,844 songs - 18 day 2 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5683,6 +5683,7 @@
 | [Reina de mis males](https://open.spotify.com/track/52zHswTCEornNfxCumHiEU) | [JUVENTUDE](https://open.spotify.com/artist/5OCKp8oCaWmsqkc7lfRDJC) | [Reina de mis males](https://open.spotify.com/album/5YR8sbRHU1I9tD4CEJW3dj) | 2:07 | 2025-05-30 | 2025-06-07 |
 | [REINAS](https://open.spotify.com/track/4UICvc2H3rrcTKleNC3c9Q) | [Sonia Y Selena](https://open.spotify.com/artist/0wWRxCuyckZOJQVEGqE1f8) | [REINAS](https://open.spotify.com/album/2TvQuekUEIeFUjBNYLh2x6) | 3:03 | 2024-12-20 | 2025-01-11 |
 | [Reincarnation Of A Lovebird](https://open.spotify.com/track/2p1KIho5pmRtjX9zEwtWx3) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Portrait](https://open.spotify.com/album/7sH4icMotSET9zBcbR5Gz4) | 6:28 | 2024-10-11 | 2024-10-19 |
+| [Reiniciar](https://open.spotify.com/track/3Cd2ZwQy5fmrayFSMN7u8Q) | [Ivan Ferreiro](https://open.spotify.com/artist/3qUrABCNqnkb5gc2YmPVzP) | [Hoy por ayer](https://open.spotify.com/album/46B8dr0mR3NA6CKQgBOhe6) | 4:24 | 2026-04-30 |  |
 | [Reino](https://open.spotify.com/track/4XJXXft9i6VDL9IFQUUeNc) | [Margarita Siempre Viva](https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH) | [Reino](https://open.spotify.com/album/685cK2chuSLNCF5FjYUCFi) | 4:10 | 2025-08-06 | 2025-08-16 |
 | [Rejects](https://open.spotify.com/track/3I09R9N2WwbP0B1SExxkWq) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [Rejects](https://open.spotify.com/album/78grezRlmscONkCdIIvkQa) | 2:54 | 2025-06-27 | 2025-07-05 |
 | [Relationships](https://open.spotify.com/track/3QBNfI9ZyLVSgWoF9xw413) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Relationships](https://open.spotify.com/album/1suyd6SSJJq9yOu1tH4LB1) | 3:22 | 2025-03-13 | 2025-03-22 |
@@ -7066,7 +7067,6 @@
 | [Townies](https://open.spotify.com/track/2deA4WXDrTa7jAZuaIAeqo) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Bleeds](https://open.spotify.com/album/29HKbQ2pgXgElTnH66mFXK) | 3:15 | 2025-09-19 | 2025-09-27 |
 | [toxic till the end](https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:36 | 2024-12-06 | 2024-12-14 |
 | [Toyota Camry](https://open.spotify.com/track/1xkHI7u9Pt5CGFoeppAcKA) | [Abby Cates](https://open.spotify.com/artist/2LwlPBOoq9EqTOmKi4lJ2n) | [Toyota Camry](https://open.spotify.com/album/4JEj7jRQAfmWlRBvMcgD3O) | 4:06 | 2025-11-28 | 2025-12-06 |
-| [Track 3](https://open.spotify.com/track/3Cd2ZwQy5fmrayFSMN7u8Q) | [Ivan Ferreiro](https://open.spotify.com/artist/3qUrABCNqnkb5gc2YmPVzP) | [Hoy por ayer](https://open.spotify.com/album/46B8dr0mR3NA6CKQgBOhe6) | 0:00 | 2026-04-30 |  |
 | [Tractor Beam](https://open.spotify.com/track/3SCe8EBhzxVx5Tqhv9cYqi) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Tractor Beam](https://open.spotify.com/album/4ZkRrdsD1RP5UdCmDP6s8Q) | 3:34 | 2026-03-27 | 2026-04-04 |
 | [Traditions](https://open.spotify.com/track/5gNIazUozCTvY69WmoD8c7) | [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9), [Spencer Zahn](https://open.spotify.com/artist/7Besl9VdibJqiIjJ40fphx) | [Traditions](https://open.spotify.com/album/6qGqWXejiUIOMEQ9q6PxNW) | 3:21 | 2024-08-08 | 2024-08-20 |
 | [Trae ese cú](https://open.spotify.com/track/0UARIfOGNUq1dmdlFo810R) | [Boyanka Kostova](https://open.spotify.com/artist/1t9FF9ollviXoPRU4aMi4B) | [Trae ese cú](https://open.spotify.com/album/3JSWph4NqhUhK71prakiva) | 2:36 | 2026-01-30 | 2026-02-06 |

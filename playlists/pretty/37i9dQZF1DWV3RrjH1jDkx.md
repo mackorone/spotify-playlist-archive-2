@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Endelig fredag og ny musikk fra Karpe, Madonna & Sabrina Carpenter og GOLF!! ♥️
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,494 likes - 102 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,704 likes - 102 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 82 | [i'm not joking](https://open.spotify.com/track/06v2x2dttlLFyF2JaBROpF) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [i'm not joking](https://open.spotify.com/album/6kn0sKYNf2rnfk0Gr9lxUP) | 3:54 |
 | 83 | [Pull Me In](https://open.spotify.com/track/1GpAssP204ev62tDLwjFIn) | [Vilja Östgård](https://open.spotify.com/artist/2wtTBrTXbdP6I5fwwfGSFW), [Mar By](https://open.spotify.com/artist/4hAid2cnCenkKWaYM5S0Wg) | [Pull Me In](https://open.spotify.com/album/5DYrzKcHxDO4zcfW1iovBb) | 3:06 |
 | 84 | [1999](https://open.spotify.com/track/3EUnADrdowestMKtQhriJd) | [Babel Fish](https://open.spotify.com/artist/5Je0QjgmxLgPaCIqjbfvHo) | [1999](https://open.spotify.com/album/3uhYlshmuw1letaslMAWsD) | 3:04 |
-| 85 | [Track 6](https://open.spotify.com/track/1BMWubB3BOhlqnq3kuFuRI) | [Jahson Paynter](https://open.spotify.com/artist/73SbrIktK3Na0OTmhZpMy8) | [is anybody home!?](https://open.spotify.com/album/686HK68mvUb5V6Cm7OFQJX) | 0:00 |
+| 85 | [clear blue!](https://open.spotify.com/track/1BMWubB3BOhlqnq3kuFuRI) | [Jahson Paynter](https://open.spotify.com/artist/73SbrIktK3Na0OTmhZpMy8) | [is anybody home!?](https://open.spotify.com/album/686HK68mvUb5V6Cm7OFQJX) | 4:17 |
 | 86 | [Would You Come to Me](https://open.spotify.com/track/6pU37yYI9cIlG62DDpWYpM) | [Malin Pettersen](https://open.spotify.com/artist/3kVhFap6wa2EN5yrMZIupm) | [Just When I Thought I Didn't Know What to Say](https://open.spotify.com/album/0w07u4mDb6dR1kbXc37Cbt) | 3:09 |
 | 87 | [One on One](https://open.spotify.com/track/00AdnLQexne2adipm3n8Ip) | [Europe](https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz) | [One on One](https://open.spotify.com/album/6589BDSLHBG8zCDWanKDxW) | 3:41 |
 | 88 | [Boys In Blue](https://open.spotify.com/track/0R3sddzRt8fbbY9GKmv1lw) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Boys In Blue](https://open.spotify.com/album/4Gc4rNpM6O60fm6seAbhqH) | 2:33 |
@@ -107,7 +107,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 97 | [Hold It Close](https://open.spotify.com/track/4WjALE9YKVoypR6O1RFSs2) | [MALUGI](https://open.spotify.com/artist/50udUOTR7dQUgyPwPuCLM6), [TAET](https://open.spotify.com/artist/5hQmpI9StixOlzdd5ogQ3f) | [Hold It Close](https://open.spotify.com/album/3naYUsuLnSavrbbW2PFGcd) | 2:37 |
 | 98 | [La\-La Love](https://open.spotify.com/track/0rnHAjyjXfpQLS1rSOgmwy) | [TR3NACRIA](https://open.spotify.com/artist/1gFiEIH4TiLrNeoq7rktTH), [Kazhi](https://open.spotify.com/artist/5GTYEYJqmYH3VlaRRnkaWj) | [La\-La Love](https://open.spotify.com/album/6i6VVfatQqsRvpJy5HgX2B) | 2:45 |
 | 99 | [MANSORY](https://open.spotify.com/track/0VsPGERCzao6a6Oo0QsD5Z) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [MANSORY](https://open.spotify.com/album/0oBeMCpjd8FQqihlKnYtPP) | 3:46 |
-| 100 | [Don't Worry Baby](https://open.spotify.com/track/0uFffwji3muqn5MEe7hiYw) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Tiga](https://open.spotify.com/artist/6dfbRE1slg9q6xXbMiB9Rn) | [Don't Worry Baby](https://open.spotify.com/album/1F3Ph8gHm2aCnMJbNvmo5f) | 3:27 |
+| 100 | [Don't Worry Baby](https://open.spotify.com/track/0uFffwji3muqn5MEe7hiYw) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC) | [Don't Worry Baby](https://open.spotify.com/album/1F3Ph8gHm2aCnMJbNvmo5f) | 3:27 |
 | 101 | [ZWAG](https://open.spotify.com/track/4cLkFSY7cAsdteAGeclNbU) | [Kaoroo](https://open.spotify.com/artist/3CvCpt8lUeZRf1OnYs252b) | [ZWAG](https://open.spotify.com/album/2mJb5d7QT2UD3uL07FGJm6) | 3:31 |
 | 102 | [I Bring My Gun To The Function \(with Boys Noize\)](https://open.spotify.com/track/0f3P2kbpIvGdgfvXN7rIKG) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [I Bring My Gun To The Function \(with Boys Noize\)](https://open.spotify.com/album/5v1raNmRS2QloeEe4TzbnA) | 3:10 |
 

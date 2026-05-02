@@ -779,6 +779,28 @@
     },
     {
       "album": {
+        "name": "Smog (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5v9yUH4MkbT7Wovdz8Y54o"
+      },
+      "artists": [
+        {
+          "name": "Piero Umiliani",
+          "url": "https://open.spotify.com/artist/5sD7Cf3SaTVcrg81GQi1Xk"
+        },
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234000,
+      "name": "Neapolitan Phantasy",
+      "url": "https://open.spotify.com/track/20xmXGsOL7nGsFyUxHszm2"
+    },
+    {
+      "album": {
         "name": "Night Bird (Live)",
         "url": "https://open.spotify.com/album/0XIixPRJecpUcD4QeLmYij"
       },

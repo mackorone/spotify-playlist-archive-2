@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。Madonna & Sabrina Carpenter, Lady Gaga, Maroon 5, Zara Larsson and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,231 likes - 76 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,792 likes - 76 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 11 | [I DON'T WANNA DIE!](https://open.spotify.com/track/6wfgtLGaf3CRNHUrl27OdF) | [Tempalay](https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP) | [I DON'T WANNA DIE!](https://open.spotify.com/album/48811XY5WEWKtkPZZK6JEk) | 3:15 |
 | 12 | [睡る君](https://open.spotify.com/track/44IRqjfSa15d8E6URV3WO0) | [OddRe:](https://open.spotify.com/artist/2bBPaMYH2SDOH3jBRjU8fr) | [睡る君](https://open.spotify.com/album/2z9WuGKhNHOqhi1SH0dnZD) | 4:08 |
 | 13 | [Fallin' \(feat\. Leon Thomas\)](https://open.spotify.com/track/5XFwDMO60LntXrFSWHPopc) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Fallin' \(feat\. Leon Thomas\)](https://open.spotify.com/album/36084xkxfgcSMnaeWphBOY) | 4:26 |
-| 14 | [BOY IN RED](https://open.spotify.com/track/7B2ygRXyWZulEpO4G1CHZf) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [IT'S BEEN AWFUL](https://open.spotify.com/album/2ZDgH9uDdjRFNdjEyQCZtH) | 3:09 |
+| 14 | [BOY IN RED](https://open.spotify.com/track/3MgZMXtodXhGzKtdwVCU9y) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [BOY IN RED](https://open.spotify.com/album/3wL2XkG72RlS17lxbESDBX) | 3:09 |
 | 15 | [BITCH](https://open.spotify.com/track/53OEjS6e0dH9PGgrkr0sH4) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [BITCH](https://open.spotify.com/album/6QIxClpRlI72nsM3TwfGUR) | 2:42 |
 | 16 | [IT'S OK](https://open.spotify.com/track/7uADhlog5IlihImt0ypJq6) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [IT'S OK](https://open.spotify.com/album/58ESrwQBQHLys9cC5qd6uE) | 2:19 |
 | 17 | [CLASSIC](https://open.spotify.com/track/2N2XEwITqsohA2mP6DtjCy) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [CLASSIC](https://open.spotify.com/album/2ggGckx5SDKJhSjUAO5S4T) | 3:18 |
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 19 | [Echo](https://open.spotify.com/track/2jPYazutYa3HCyxbsLgdw1) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [Echo \(FIFA World Cup 2026™\)](https://open.spotify.com/album/7k1aRcg1pB0wDlOyB3HwrH) | 2:15 |
 | 20 | [Smoke](https://open.spotify.com/track/2KFJYXqd3fVEHfWSNhlTEp) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav), [Cristale](https://open.spotify.com/artist/6U1hXHFTV27cbQVXZvnX27), [TeeZandos](https://open.spotify.com/artist/0aDlKdF22vK6yut113KJix) | [Smoke](https://open.spotify.com/album/5NZawJNAy7ntRWNKlArhOe) | 2:30 |
 | 21 | [Two Steppin’ \(feat\. Adrien Nunez\)](https://open.spotify.com/track/6fOMrE0rA2XMbSaO3Wku0h) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Adrien Nunez](https://open.spotify.com/artist/6R2UojZrKYDr0RiP9jROAJ) | [Two Steppin’ \(feat\. Adrien Nunez\)](https://open.spotify.com/album/3TFX3h1hQwlkMoQ0ZCH16W) | 2:19 |
-| 22 | [Don't Worry Baby](https://open.spotify.com/track/0uFffwji3muqn5MEe7hiYw) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Tiga](https://open.spotify.com/artist/6dfbRE1slg9q6xXbMiB9Rn) | [Don't Worry Baby](https://open.spotify.com/album/1F3Ph8gHm2aCnMJbNvmo5f) | 3:27 |
+| 22 | [Don't Worry Baby](https://open.spotify.com/track/0uFffwji3muqn5MEe7hiYw) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC) | [Don't Worry Baby](https://open.spotify.com/album/1F3Ph8gHm2aCnMJbNvmo5f) | 3:27 |
 | 23 | [>>>hands on me<<<](https://open.spotify.com/track/3g6l32hAD99c9SFQRAZutd) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [>>>hands on me<<<](https://open.spotify.com/album/0F588VeJ3cyYy6AnZFcXMv) | 2:17 |
 | 24 | [PROSTITUTE](https://open.spotify.com/track/3xlYPnKHDeZvsmWIFvWP1H) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [PROSTITUTE](https://open.spotify.com/album/22We2HMdk4hkYZVSfm1Jrk) | 2:44 |
 | 25 | [Promise?](https://open.spotify.com/track/6Or4gNQC2EkixDGiufQ3F4) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [Promise?](https://open.spotify.com/album/4C0Jn8EWIX77dDQum3oNJO) | 3:12 |
@@ -79,10 +79,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 69 | [Imaginando](https://open.spotify.com/track/2uujBN16HbypNHXSv7lIJS) | [Dr\. Ryo](https://open.spotify.com/artist/70pGSyjPtM1XYHV4T5zOAp), [Koora](https://open.spotify.com/artist/3mWID7rld1CKPADQLJnqQI) | [Imaginando](https://open.spotify.com/album/0ToCIiNY9dzsewugfrPGoI) | 2:34 |
 | 70 | [mailman](https://open.spotify.com/track/7idTksaN3JHW4hIxucaUv9) | [Evan Fong](https://open.spotify.com/artist/74pDNLCBUxYeDepGvZP2KP) | [speed](https://open.spotify.com/album/4D2i96fOirLLCHYAbf8lA0) | 3:25 |
 | 71 | [Bossy Nova](https://open.spotify.com/track/6Ol78Z5mqB1bIcNmfqupIn) | [Gabrielle Cavassa](https://open.spotify.com/artist/6V9mKint0pfZjIbeFF9vQk) | [Diavola](https://open.spotify.com/album/4lQriMCxFMyor9TIJlvOxU) | 3:52 |
-| 72 | [Track 6](https://open.spotify.com/track/1BMWubB3BOhlqnq3kuFuRI) | [Jahson Paynter](https://open.spotify.com/artist/73SbrIktK3Na0OTmhZpMy8) | [is anybody home!?](https://open.spotify.com/album/686HK68mvUb5V6Cm7OFQJX) | 0:00 |
+| 72 | [clear blue!](https://open.spotify.com/track/1BMWubB3BOhlqnq3kuFuRI) | [Jahson Paynter](https://open.spotify.com/artist/73SbrIktK3Na0OTmhZpMy8) | [is anybody home!?](https://open.spotify.com/album/686HK68mvUb5V6Cm7OFQJX) | 4:17 |
 | 73 | [Golden Chain](https://open.spotify.com/track/7gwDV78DGbiCzEuA5foUgU) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Golden Chain](https://open.spotify.com/album/5dHNcyLX9WwAcHm2lQtp53) | 2:49 |
 | 74 | [Soto wa kirei \(Outside is beautiful\)](https://open.spotify.com/track/26wqfXw1yFRoPfph7vYSiO) | [buoy](https://open.spotify.com/artist/0SoIfZImEkbzedoaM9AsPv) | [watashi](https://open.spotify.com/album/79VmQVWFpmvcTQBjK6HInh) | 3:19 |
 | 75 | [A Swallow in March](https://open.spotify.com/track/0P27BDwGseK4BF5TegIR6G) | [Kanata yukino](https://open.spotify.com/artist/1kiSclwSQ9GYt5WOSL1kCl) | [A Swallow in March](https://open.spotify.com/album/2SM0bqIn5oK27lYdHmG7qf) | 3:12 |
 | 76 | [Scapegoats](https://open.spotify.com/track/6GHFq6UiN8BeGSL2SWKJ49) | [The Breaks](https://open.spotify.com/artist/50tcO1ZwIQWp67PHjhu4kZ), [Robert Walter](https://open.spotify.com/artist/4vqJywDSqxaNITMBlTRGER), [Eddie Roberts](https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI), [Stanton Moore](https://open.spotify.com/artist/7bOHiKCHJ7mPMrSIiLMOIj) | [The Breaks](https://open.spotify.com/album/3Mgqej3KdlyyYgPGY2GFTT) | 2:43 |
 
-Snapshot ID: `AAAAABZiBbNzSaCSysT7xnBUaben8pq2`
+Snapshot ID: `AAAAADxLjI+g2pUVV6dBU7HhEM4r9UTg`

@@ -4,7 +4,7 @@
 
 > A full deck of country wild cards\. Bass\-heavy, up\-to\-no\-good anthems where the rules don’t apply\. Cover: Graham Barham
 
-525 songs - 1 day 2 hr 2 min
+526 songs - 1 day 2 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -259,6 +259,7 @@
 | [I Wish You Would](https://open.spotify.com/track/0FOMpHsaQZwmotamMWYWYi) | [Ross Ellis](https://open.spotify.com/artist/3aUXK61VCf5255a0LqhuPQ) | [I Wish You Would](https://open.spotify.com/album/7hhLvB1Q6h1z6rVaglBrX6) | 3:22 | 2021-12-10 | 2022-02-26 |
 | [I'd Be You](https://open.spotify.com/track/3Yach59menOOaF34Qdfiuh) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [I'd Be You](https://open.spotify.com/album/4hPICUHhNOwxjcMlNlbzLE) | 2:58 | 2022-06-10 |  |
 | [I'll Be A Bartender](https://open.spotify.com/track/5amuqAOkKdHenSjPaAUQXA) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [I'll Be A Bartender](https://open.spotify.com/album/4fnYR5Po3N0OsBpaCaKmKE) | 3:17 | 2023-10-06 | 2024-08-03 |
+| [I'M THE ONE](https://open.spotify.com/track/0UnhlJtbjRve2U3iAFbOcI) | [Graham Barham](https://open.spotify.com/artist/3WHWgx8Dh0IqQT1BMDTeE3) | [I'M THE ONE](https://open.spotify.com/album/1sU26HAr47MPgZxHUSv1gH) | 2:36 | 2026-05-01 |  |
 | [I'm The One](https://open.spotify.com/track/1oX0dEo74asYCL9sBVPec3) | [Justin Champagne](https://open.spotify.com/artist/7Db8AKNMsmpj2CN9H8lVxH) | [I'm The One](https://open.spotify.com/album/4qn0GauE7JcVX5WlzYv9UD) | 2:24 | 2022-02-04 | 2024-10-19 |
 | [Icing](https://open.spotify.com/track/2RVt7eNsTP8XC63vEtg8Nj) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Icing](https://open.spotify.com/album/6SiYJpe4huq9wMn2otDJmk) | 2:28 | 2024-10-18 | 2025-06-30 |
 | [If You Were My Girl](https://open.spotify.com/track/4lJHWJx0QXiQO4bwLGJEft) | [Austin Tolliver](https://open.spotify.com/artist/3mJzTRR6NlyNWYkZ946WgC) | [If You Were My Girl](https://open.spotify.com/album/1ne7atFrKKogLQ2SVvk4by) | 2:59 | 2023-02-24 |  |

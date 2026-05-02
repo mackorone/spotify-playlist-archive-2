@@ -29397,7 +29397,7 @@
         },
         {
           "name": "Tiga",
-          "url": "https://open.spotify.com/artist/6dfbRE1slg9q6xXbMiB9Rn"
+          "url": "https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC"
         }
       ],
       "date_added": "2026-04-30",
@@ -42889,6 +42889,32 @@
     },
     {
       "album": {
+        "name": "Glamour Snobby",
+        "url": "https://open.spotify.com/album/6SdzDTajeYhKnWhASidjfM"
+      },
+      "artists": [
+        {
+          "name": "Miss Bashful",
+          "url": "https://open.spotify.com/artist/5skHU2PrWHKFfSTpq9y56C"
+        },
+        {
+          "name": "Princess Superstar",
+          "url": "https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM"
+        },
+        {
+          "name": "Luca Eck",
+          "url": "https://open.spotify.com/artist/7FvEqUihbJfx5vpfGd1OLz"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156504,
+      "name": "Girlz On Tour",
+      "url": "https://open.spotify.com/track/2IM3xmhrJWWa2v7TjoirvK"
+    },
+    {
+      "album": {
         "name": "Give It to Me",
         "url": "https://open.spotify.com/album/6uuKUqOoXBTttANgKXdfHA"
       },
@@ -48376,12 +48402,12 @@
       },
       "artists": [
         {
-          "name": "The Rocketman",
-          "url": "https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V"
-        },
-        {
           "name": "Showtek",
           "url": "https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7"
+        },
+        {
+          "name": "The Rocketman",
+          "url": "https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V"
         }
       ],
       "date_added": "2026-04-30",
@@ -51457,7 +51483,7 @@
         },
         {
           "name": "GLZ",
-          "url": "https://open.spotify.com/artist/3lF9IQbanf5Gc0ewSq1wYn"
+          "url": "https://open.spotify.com/artist/3xpY5gjKMCT54sR2NoXJsr"
         }
       ],
       "date_added": "2026-04-30",
@@ -118666,24 +118692,6 @@
       "duration_ms": 162580,
       "name": "Toxic Symphony",
       "url": "https://open.spotify.com/track/5sf7RuZBQftrEfrK76uiGx"
-    },
-    {
-      "album": {
-        "name": "Glamour Snobby",
-        "url": "https://open.spotify.com/album/6SdzDTajeYhKnWhASidjfM"
-      },
-      "artists": [
-        {
-          "name": "Miss Bashful",
-          "url": "https://open.spotify.com/artist/5skHU2PrWHKFfSTpq9y56C"
-        }
-      ],
-      "date_added": "2026-04-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 5",
-      "url": "https://open.spotify.com/track/2IM3xmhrJWWa2v7TjoirvK"
     },
     {
       "album": {

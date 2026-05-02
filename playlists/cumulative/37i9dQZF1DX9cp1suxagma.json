@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-18",
-  "description": "Pop de los mejores artistas colombianos. \u00a1Dale play! Foto: Fonseca",
+  "description": "Pop de los mejores artistas colombianos. \u00a1Dale play! Foto: Monsieur Perin\u00e9",
   "name": "Pop Colombia",
   "tracks": [
     {
@@ -1060,7 +1060,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 162804,
       "name": "Cosas buenas",
       "url": "https://open.spotify.com/track/4RnysSVeHxlfW11HanYr0q"
@@ -1162,6 +1162,24 @@
       "duration_ms": 153903,
       "name": "CUCARACHEO",
       "url": "https://open.spotify.com/track/5NMexEjiw22qnc3GxKtJuW"
+    },
+    {
+      "album": {
+        "name": "CULE POCO (sirena_besarico_coste\u00f1a)",
+        "url": "https://open.spotify.com/album/2AjV3IQ9rioKsjNPW2JiPC"
+      },
+      "artists": [
+        {
+          "name": "ARIA VEGA",
+          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140461,
+      "name": "CULE POCO (sirena_besarico_coste\u00f1a)",
+      "url": "https://open.spotify.com/track/3j0avHj4G5EPk6sCCj8NdQ"
     },
     {
       "album": {
@@ -1418,7 +1436,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 139763,
       "name": "Despi\u00e9rtate",
       "url": "https://open.spotify.com/track/22MQ0pbfNdWPBtHJXU4Eml"
@@ -2014,6 +2032,28 @@
       "duration_ms": 247333,
       "name": "ENCONTRARME",
       "url": "https://open.spotify.com/track/1SoOx2S1miIIq8eanJpzdU"
+    },
+    {
+      "album": {
+        "name": "Encubiertos",
+        "url": "https://open.spotify.com/album/4Ykjfr35jOU2EQnFwYz9ui"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        },
+        {
+          "name": "Corina Smith",
+          "url": "https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155226,
+      "name": "Encubiertos",
+      "url": "https://open.spotify.com/track/3AShwV9UQ0K0xXB83zAwZi"
     },
     {
       "album": {
@@ -2704,7 +2744,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 158533,
       "name": "La Dif\u00edcil",
       "url": "https://open.spotify.com/track/0PaNKfwdqHjmW7hVEQ0lbu"
@@ -2964,7 +3004,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 145373,
       "name": "Llamada",
       "url": "https://open.spotify.com/track/4hPaJPc5kH10oVGkEMFmX4"
@@ -3776,6 +3816,28 @@
       "duration_ms": 161160,
       "name": "Nadie Me Vuelve A Joder",
       "url": "https://open.spotify.com/track/4ysIQ2AalFEvYMBN7XgtDv"
+    },
+    {
+      "album": {
+        "name": "Instrucciones Para Ser Feliz",
+        "url": "https://open.spotify.com/album/3ZtTmeeKnDUWqlQRMmjUtV"
+      },
+      "artists": [
+        {
+          "name": "Monsieur Perin\u00e9",
+          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
+        },
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179478,
+      "name": "Natural",
+      "url": "https://open.spotify.com/track/3TjJq3dLUien8DfEpxr52i"
     },
     {
       "album": {
@@ -5998,6 +6060,24 @@
       "duration_ms": 201471,
       "name": "Tus Mejores D\u00edas",
       "url": "https://open.spotify.com/track/5lommDP2j9oFKKEaaoLzc1"
+    },
+    {
+      "album": {
+        "name": "Tuyo y Nada M\u00e1s",
+        "url": "https://open.spotify.com/album/6BFSBJifn0sDMyzHhSvaBV"
+      },
+      "artists": [
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152711,
+      "name": "Tuyo y Nada M\u00e1s",
+      "url": "https://open.spotify.com/track/1sNQKWNNmxY0gaAuKK8RlM"
     },
     {
       "album": {

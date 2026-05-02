@@ -11587,6 +11587,24 @@
     },
     {
       "album": {
+        "name": "We Came We Saw We Conquered",
+        "url": "https://open.spotify.com/album/2fJyBezZ06FQxJaZEloN7F"
+      },
+      "artists": [
+        {
+          "name": "Marnik",
+          "url": "https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "We Came We Saw We Conquered",
+      "url": "https://open.spotify.com/track/1PF39JDTtc63dDvJ1KwJUQ"
+    },
+    {
+      "album": {
         "name": "Welcome to the Playhouse",
         "url": "https://open.spotify.com/album/6hhEQkw3cuI1HQ61Xma7Cy"
       },

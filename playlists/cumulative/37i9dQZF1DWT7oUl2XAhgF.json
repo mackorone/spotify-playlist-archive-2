@@ -6911,6 +6911,24 @@
     },
     {
       "album": {
+        "name": "Only You Do",
+        "url": "https://open.spotify.com/album/3oDfAN8EieUpee7kMbSJUr"
+      },
+      "artists": [
+        {
+          "name": "GoldFord",
+          "url": "https://open.spotify.com/artist/4I2QW85rkIhCRRZt1kuBqS"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208327,
+      "name": "Only You Do",
+      "url": "https://open.spotify.com/track/12Qf5UTb75Dg3g0mY3KmV0"
+    },
+    {
+      "album": {
         "name": "Oo Baby",
         "url": "https://open.spotify.com/album/5KmiOydl3O3vGKR5OrfLlF"
       },
@@ -7798,7 +7816,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 229886,
       "name": "Runnin'",
       "url": "https://open.spotify.com/track/0uGAuUzVvLEigxaK9rC7Mp"
@@ -8874,7 +8892,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 239628,
       "name": "Stay",
       "url": "https://open.spotify.com/track/4ldN4hSrc7tK7t0FKeLNOf"
@@ -9816,7 +9834,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 199965,
       "name": "Together",
       "url": "https://open.spotify.com/track/196CykfquyUe0B4zGkG2GZ"
@@ -10683,6 +10701,24 @@
     },
     {
       "album": {
+        "name": "When You're Around",
+        "url": "https://open.spotify.com/album/6xllDwr0Kh9uRcDDYdeKJU"
+      },
+      "artists": [
+        {
+          "name": "Charlie Bereal",
+          "url": "https://open.spotify.com/artist/2uMEr7c0zWQrtoAzebTMsa"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219000,
+      "name": "When You're Around",
+      "url": "https://open.spotify.com/track/4hPUbNpY11rYOlsDcIEvTU"
+    },
+    {
+      "album": {
         "name": "Where Is the Peace",
         "url": "https://open.spotify.com/album/3Yv75Tv8dMqxt6uHWsXikC"
       },
@@ -11158,6 +11194,28 @@
       "duration_ms": 175104,
       "name": "You Belong to Me",
       "url": "https://open.spotify.com/track/6aiO3yDfoyrK29s5Ks3dqe"
+    },
+    {
+      "album": {
+        "name": "You Bring Me Joy",
+        "url": "https://open.spotify.com/album/3ZWCU07aShb3rpvBk6Cp8Q"
+      },
+      "artists": [
+        {
+          "name": "Pratt & Moody",
+          "url": "https://open.spotify.com/artist/1gz7rv5Nn1PgNg755QP2G6"
+        },
+        {
+          "name": "Cold Diamond & Mink",
+          "url": "https://open.spotify.com/artist/47eOrmm0M2qY5atzSNNt2b"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231496,
+      "name": "You Bring Me Joy",
+      "url": "https://open.spotify.com/track/1FkP9zQJAPKJaW2RCR9LLg"
     },
     {
       "album": {

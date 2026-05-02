@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 
 > Hottest bars coming live from the 233\.  Cover: O'Kenneth
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,252 likes - 91 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,286 likes - 91 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Track 1](https://open.spotify.com/track/0zGx4JuFITnZggFoEWuXUh) | [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [CAME OF AGE](https://open.spotify.com/album/1WEt6ZRsPzCTQqmRGgaRID) | 0:00 |
+| 1 | [EASY](https://open.spotify.com/track/0zGx4JuFITnZggFoEWuXUh) | [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [CAME OF AGE](https://open.spotify.com/album/1WEt6ZRsPzCTQqmRGgaRID) | 2:47 |
 | 2 | [LIFE OF ECSTASY](https://open.spotify.com/track/6Gy016CZdGzVASU8Ijxs9Q) | [Xlimkid](https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c) | [LIFE ON THE EDGE](https://open.spotify.com/album/5cMlPN69fnDDpY5OcRpcf6) | 3:36 |
 | 3 | [Geeking](https://open.spotify.com/track/0GjTn5yPi4Q1dbAB4eG58l) | [Kawabanga](https://open.spotify.com/artist/5VcDYvRgsmMRpklUZarFEh), [Yung NB](https://open.spotify.com/artist/7cQQiXUacVNG0rFe5GHylS), [21 Kelly](https://open.spotify.com/artist/7uozBRpWxw952UW2nMf9Qo) | [Geeking](https://open.spotify.com/album/5Oce1ZPus8wESW3UqL5Af0) | 2:15 |
 | 4 | [ODO PA](https://open.spotify.com/track/4XyamF81pJyWkC8Q1ps1Ff) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Kweku Flick](https://open.spotify.com/artist/2lSLuh2H1mtsxFBNm9ZbKF) | [ODO PA](https://open.spotify.com/album/4B2Bs2cX0e7mhEeHyogBiz) | 2:36 |

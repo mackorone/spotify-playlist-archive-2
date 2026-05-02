@@ -4,7 +4,7 @@
 
 > Fresh Punjabi Hip\-Hop Tracks by Karan Aujla, Sidhu Moosewala & more!
 
-1,110 songs - 2 day 3 hr 13 min
+1,111 songs - 2 day 3 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -858,7 +858,7 @@
 | [RIP](https://open.spotify.com/track/3OMzjr15qtkAEW6fZN9y4B) | [Amrit Badesha](https://open.spotify.com/artist/5dumXbVlVHNY5ntMYCPiP9), [Kinda Pooni](https://open.spotify.com/artist/5YvDxFuUsDHuIMt3rR7aKu), [Vansh DX](https://open.spotify.com/artist/2sO8oRYnSaKKBRjavZRpE3) | [RIP](https://open.spotify.com/album/0UKqAaZccOpVbSqZ4YaA1t) | 2:31 | 2026-04-10 |  |
 | [Rishta](https://open.spotify.com/track/55cfAVkcEdk3UFs1m3GcDC) | [Gopi Longia](https://open.spotify.com/artist/11xVQwDq4SMw5791vgJNRE) | [Rishta](https://open.spotify.com/album/1VSNr8QMD2FQpsl2NMYxuI) | 4:05 | 2024-11-19 | 2025-01-18 |
 | [Robber](https://open.spotify.com/track/20sQBEL3UF1aVq8ruH0bXT) | [Gopi Manku](https://open.spotify.com/artist/7jiMu1k8LKNzrGJiruGeqZ), [Bhallwaan](https://open.spotify.com/artist/3FxW0tkjSNrYa2RvxqNKMG), [N Vee](https://open.spotify.com/artist/4O58hOXQfK7tmXXhg5i1BL) | [Robber](https://open.spotify.com/album/4r7JV46zsATLnw4iJFGdXn) | 2:44 | 2026-03-03 | 2026-04-11 |
-| [Rog](https://open.spotify.com/track/53YGcrlws1pvAcf3OEpmu5) | [Kozz](https://open.spotify.com/artist/2S4ECecT0HShQdackSplAy), [Mc Nawaab](https://open.spotify.com/artist/4gGXwybufBJlpZv11Pj1En) | [Rog](https://open.spotify.com/album/2UFXjW47nbfSQ9FHMg7Jy3) | 2:28 | 2026-03-24 |  |
+| [Rog](https://open.spotify.com/track/53YGcrlws1pvAcf3OEpmu5) | [Kozz](https://open.spotify.com/artist/2S4ECecT0HShQdackSplAy), [Mc Nawaab](https://open.spotify.com/artist/4gGXwybufBJlpZv11Pj1En) | [Rog](https://open.spotify.com/album/2UFXjW47nbfSQ9FHMg7Jy3) | 2:28 | 2026-03-24 | 2026-05-02 |
 | [Role Model](https://open.spotify.com/track/51qHIj1Xr5FbXUDx6lHNNH) | [Jeet](https://open.spotify.com/artist/6IJNSJqNAZeRupt3fcmz0e), [CHEETAH](https://open.spotify.com/artist/48jxktLmsxYggMW9XpdI15), [Muskan Verma](https://open.spotify.com/artist/5MtIfIFFq82jk2C8BzGaon) | [Role Model](https://open.spotify.com/album/0mfA57bf0M0VxS6MKqfHrt) | 3:21 | 2026-01-30 | 2026-03-07 |
 | [Roley](https://open.spotify.com/track/2E2BT9ZBw8sIp4fbWAlJgy) | [Rana 22](https://open.spotify.com/artist/5THIsd5vnDJpBwnWoFgMZ0), [Haji Springer](https://open.spotify.com/artist/6gklEOXgUcoqD4CGjcE6ze), [ZNAAB KANDERA](https://open.spotify.com/artist/5DSAeRF68KUn9L59pKTkSe) | [Roley](https://open.spotify.com/album/24bjUxFAxpiAbF9VLy7SjA) | 2:44 | 2026-04-17 |  |
 | [Rollin Hits](https://open.spotify.com/track/1hrx9Mw5tWofE6AoaLinNk) | [Jp Hunjan](https://open.spotify.com/artist/7yvfDUNwiiNoQDSs4beKQ3) | [Rollin Hits](https://open.spotify.com/album/4FWDfkF69uN5GOprv9tWxX) | 2:09 | 2026-01-16 | 2026-01-31 |
@@ -878,6 +878,7 @@
 | [SAHI AYY](https://open.spotify.com/track/5S2OJfK1aYRbA5tIT49hkb) | [Asim Riaz](https://open.spotify.com/artist/0uPcaDPyjSJPlCiYTZWQ1V), [Bohemia](https://open.spotify.com/artist/0SWOtgI95g7oVrP9halrmP), [Showkidd](https://open.spotify.com/artist/0lqjRojARBHXCBYVOm16CC) | [SAHI AYY](https://open.spotify.com/album/4dnPS1bsrf5d1ATwQH5sgm) | 2:54 | 2025-11-04 | 2025-12-20 |
 | [Samaa](https://open.spotify.com/track/5EEeZoD49sHYfRtY9ElnwU) | [Rishab Raino](https://open.spotify.com/artist/0JS3L5h6W8ZsB8qpJVE8os), [Ahmer](https://open.spotify.com/artist/0EAfS9gQe5SCtQp1R6hJqG), [Tufail](https://open.spotify.com/artist/4cReWmyHav2T4Oi3YuElua), [30KEY!](https://open.spotify.com/artist/2OEwo5rQBQRKtbIWxb1Y8Y) | [Samaa](https://open.spotify.com/album/1AeTDG6TiUIsSq8PuzKpDf) | 3:32 | 2025-10-24 | 2025-12-06 |
 | [Samaj \(feat\. Harkiirat\)](https://open.spotify.com/track/7a2dWdnLGnkIhpK4pvAAS0) | [Fateh](https://open.spotify.com/artist/1t44XSPiW7z8PebleCo7uP) | [Don't Forget To Call](https://open.spotify.com/album/4NDQwpAA6rB7Y6X3e8LMxm) | 2:43 | 2025-11-28 | 2026-01-24 |
+| [Same](https://open.spotify.com/track/5Fn6awgTbYBwMq2fqfKejl) | [Saabi Bhinder](https://open.spotify.com/artist/7balJhYEvDHAshA39peuCr), [Hukam](https://open.spotify.com/artist/70WmQLMY0YOyPHO4MLW8Pj) | [Same](https://open.spotify.com/album/4dGKcIPNG4L6Cvw1KXHLxH) | 2:30 | 2026-05-01 |  |
 | [Sanghastyle](https://open.spotify.com/track/0HYEmFPFusPRA8YmiM4eAA) | [Harkirat Sangha](https://open.spotify.com/artist/1fhomnuqkIYFeXNoJB5DjT), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [Interstellar](https://open.spotify.com/album/6ZKnxmNE5nuLHa4mtwZfRF) | 3:16 | 2025-11-07 | 2026-01-17 |
 | [SARKAR](https://open.spotify.com/track/3fBxEIkrv1smnbPrPpvnLu) | [Chinna](https://open.spotify.com/artist/33saytE0qGBD96vkPj4ALw), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [UNSOLVED](https://open.spotify.com/album/1eEpwU2TSgM5yJFGfoCdBi) | 2:23 | 2026-01-09 | 2026-02-25 |
 | [Sarkar](https://open.spotify.com/track/60suOlM8VpTVITPFeqth8r) | [Jaura Phagwara](https://open.spotify.com/artist/2NV7RSOqlCvigkJ9xMBxDW) | [Sarkar](https://open.spotify.com/album/231Z0iuk1T5XtEIFAnRil0) | 3:30 | 2023-03-18 | 2024-09-10 |

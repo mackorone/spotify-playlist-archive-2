@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Fresh Latin Indie you should know. Cover: Sparklmami",
+  "description": "Fresh Latin Indie you should know. Cover: Marc Segu\u00ed & Pimp Flaco",
   "name": "el nuevo indie",
   "tracks": [
     {
@@ -787,6 +787,24 @@
     },
     {
       "album": {
+        "name": "El Acabose/Ah! Ah! Ah!",
+        "url": "https://open.spotify.com/album/5NGL9X3A5pkuTqezrMoatB"
+      },
+      "artists": [
+        {
+          "name": "TRIST\u00c1N!",
+          "url": "https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109977,
+      "name": "Ah! Ah! Ah!",
+      "url": "https://open.spotify.com/track/0mwnRupwX7ep5ODNbi7feR"
+    },
+    {
+      "album": {
         "name": "Alej\u00e9monos",
         "url": "https://open.spotify.com/album/3ptNF4zl1sec0fViprKxCK"
       },
@@ -954,7 +972,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 170805,
       "name": "ALIENS",
       "url": "https://open.spotify.com/track/3XqtFjnJGnFd7S6ItomaZ7"
@@ -1463,6 +1481,24 @@
     },
     {
       "album": {
+        "name": "Quiero Habitarme",
+        "url": "https://open.spotify.com/album/2LhfFRIeIQByxX28IxUkfI"
+      },
+      "artists": [
+        {
+          "name": "The Space Ocean",
+          "url": "https://open.spotify.com/artist/2ayaTHAzCLG5bNjYhGofYb"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189584,
+      "name": "Anestesia",
+      "url": "https://open.spotify.com/track/6sq9dpQPWpConDT9nYEvLW"
+    },
+    {
+      "album": {
         "name": "El Jard\u00edn de L\u00e1grimas",
         "url": "https://open.spotify.com/album/4wazbgH5FuhlMDjGeSG52G"
       },
@@ -1680,6 +1716,28 @@
       "duration_ms": 135133,
       "name": "aqu\u00ed andamos",
       "url": "https://open.spotify.com/track/1rmqCneDbQBz3V0HMntNyY"
+    },
+    {
+      "album": {
+        "name": "Aqu\u00ed nadie se puede morir (feat. Santi Balmes)",
+        "url": "https://open.spotify.com/album/0riOpdR8KGCIVCpZXkq3i0"
+      },
+      "artists": [
+        {
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+        },
+        {
+          "name": "Santi Balmes",
+          "url": "https://open.spotify.com/artist/4ZvaqTTKRSOdPsuNBU9kSO"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302080,
+      "name": "Aqu\u00ed nadie se puede morir (feat. Santi Balmes)",
+      "url": "https://open.spotify.com/track/53GtlAClp7NMb0KrDEq766"
     },
     {
       "album": {
@@ -4469,6 +4527,28 @@
     },
     {
       "album": {
+        "name": "dame luz",
+        "url": "https://open.spotify.com/album/4rxpOM6DZEs3W21Q758omg"
+      },
+      "artists": [
+        {
+          "name": "Marc Segu\u00ed",
+          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
+        },
+        {
+          "name": "Pimp Flaco",
+          "url": "https://open.spotify.com/artist/3UZFWMkyLElpRsLPdButSC"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189038,
+      "name": "dame luz",
+      "url": "https://open.spotify.com/track/0neuCXxllFo1Vw4kfd5PIP"
+    },
+    {
+      "album": {
         "name": "DAMN!",
         "url": "https://open.spotify.com/album/6ISGikUMrS710I2NF5Ityr"
       },
@@ -6129,6 +6209,24 @@
     },
     {
       "album": {
+        "name": "Ella",
+        "url": "https://open.spotify.com/album/0xCZ4O9TWu76HZX5Ganux2"
+      },
+      "artists": [
+        {
+          "name": "Bodine",
+          "url": "https://open.spotify.com/artist/3l0RaT1QvO3sAHccHxZgy1"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170008,
+      "name": "Ella",
+      "url": "https://open.spotify.com/track/35wMZ6rRS7MOo327osImdn"
+    },
+    {
+      "album": {
         "name": "EME",
         "url": "https://open.spotify.com/album/7LNPWPlfY52Lfip0mubSNx"
       },
@@ -6318,7 +6416,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 211435,
       "name": "En Tercera Persona",
       "url": "https://open.spotify.com/track/3qCHZJdMbtIzyQiTqClp4n"
@@ -7042,7 +7140,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 207750,
       "name": "Eternamente ni\u00f1os",
       "url": "https://open.spotify.com/track/7y3C4FmCa2rqWL2O6zbhGt"
@@ -7828,7 +7926,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 191765,
       "name": "Goo Goo Ga Ga",
       "url": "https://open.spotify.com/track/1OshrLJk7kar0EoabLbEOo"
@@ -11890,7 +11988,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 168750,
       "name": "MENTIRNOS HOY",
       "url": "https://open.spotify.com/track/0zkSyPNlEyKQetyLi4Plxb"
@@ -18026,7 +18124,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 147169,
       "name": "Sola Esta",
       "url": "https://open.spotify.com/track/5HQlVdA27m9XIYoEWdwaTu"
@@ -19007,6 +19105,32 @@
     },
     {
       "album": {
+        "name": "Te Marqu\u00e9 Pedo con Sabino",
+        "url": "https://open.spotify.com/album/3C99BE7bMUVdNcOsB4UnKu"
+      },
+      "artists": [
+        {
+          "name": "Alex Luna",
+          "url": "https://open.spotify.com/artist/0lxgtTr0rNyTf3j6smPBp2"
+        },
+        {
+          "name": "DAAZ",
+          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
+        },
+        {
+          "name": "Sabino",
+          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235555,
+      "name": "Te Marqu\u00e9 Pedo con Sabino",
+      "url": "https://open.spotify.com/track/6xSoVFn9vY7R3oikFFSAHq"
+    },
+    {
+      "album": {
         "name": "Te necesito everywhere",
         "url": "https://open.spotify.com/album/3ehqz79yp50mzuawG3lqmG"
       },
@@ -19196,6 +19320,24 @@
       "duration_ms": 174253,
       "name": "Te Vi Mudar",
       "url": "https://open.spotify.com/track/7Akzl1WkuD75hZzmr0oJxU"
+    },
+    {
+      "album": {
+        "name": "Aunque esto se acabe",
+        "url": "https://open.spotify.com/album/1IZJvzbypr0q3u6g38gpX8"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 y el Toro",
+          "url": "https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "Te voy a perdonar",
+      "url": "https://open.spotify.com/track/6uxRQlD0UTGDH1jZgVQs8u"
     },
     {
       "album": {
@@ -21001,6 +21143,24 @@
     },
     {
       "album": {
+        "name": "venus & romeo",
+        "url": "https://open.spotify.com/album/2nKTInQL5qoLf11ZXXBHnb"
+      },
+      "artists": [
+        {
+          "name": "aLex vs aLex",
+          "url": "https://open.spotify.com/artist/5faWaRmwlvIin04bFM0tfM"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123045,
+      "name": "venus & romeo",
+      "url": "https://open.spotify.com/track/7xPYhm2jFGzO6dZBjlS58n"
+    },
+    {
+      "album": {
         "name": "veo luces",
         "url": "https://open.spotify.com/album/4fscuZRhvbb7O0qgPFODlf"
       },
@@ -21366,7 +21526,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 141789,
       "name": "Vol\u00e1ndose De Ti",
       "url": "https://open.spotify.com/track/4lBcbMwhoZG14ia29oiVPP"
@@ -22180,7 +22340,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 183681,
       "name": "\u00dasame",
       "url": "https://open.spotify.com/track/1TYqggFVoo2ILv5leZRFpE"

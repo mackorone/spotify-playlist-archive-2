@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: LYKN",
+  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: PERSES, Tobii",
   "name": "T-Pop Now",
   "tracks": [
     {
@@ -1154,7 +1154,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 210000,
       "name": "Dangerous",
       "url": "https://open.spotify.com/track/6wzi8plTTF8LHkruWOmCQS"
@@ -1518,7 +1518,7 @@
       ],
       "date_added": "2024-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 224565,
       "name": "Golden Hour",
       "url": "https://open.spotify.com/track/72Jc8BV2cEQAOuVoHVTJy3"
@@ -2553,6 +2553,24 @@
     },
     {
       "album": {
+        "name": "Love Feels So Fast",
+        "url": "https://open.spotify.com/album/6hi9CCZNpKGqn31ULAd1gJ"
+      },
+      "artists": [
+        {
+          "name": "\u0e23\u0e27\u0e21\u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19 LOL FANFEST 2026",
+          "url": "https://open.spotify.com/artist/5imDBIDdr8j2qPS20dpRpq"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201950,
+      "name": "Love Feels So Fast",
+      "url": "https://open.spotify.com/track/74bbA8Uq9Chdce7bzUXH4o"
+    },
+    {
+      "album": {
         "name": "LOVEGELS (From GELBOYS \u0e2a\u0e16\u0e32\u0e19\u0e30\u0e01\u0e31\u0e4a\u0e01\u0e43\u0e08)",
         "url": "https://open.spotify.com/album/5FYwC7iJcRbdbmAIY7W3wi"
       },
@@ -2978,6 +2996,24 @@
       "duration_ms": 205161,
       "name": "New Season (\u0e24\u0e14\u0e39\u0e43\u0e2b\u0e21\u0e48)",
       "url": "https://open.spotify.com/track/3VcmuNLcc2sH1ZrFh2njnp"
+    },
+    {
+      "album": {
+        "name": "NO PACER",
+        "url": "https://open.spotify.com/album/3ComYol2Ps23u1Sg5TjkiV"
+      },
+      "artists": [
+        {
+          "name": "JAYLERR",
+          "url": "https://open.spotify.com/artist/72eVco16BxQJe5nE1vY72F"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168485,
+      "name": "NO PACER",
+      "url": "https://open.spotify.com/track/4LAF4voeCtLqHkZJAErRLU"
     },
     {
       "album": {
@@ -3552,7 +3588,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 210000,
       "name": "SEASON",
       "url": "https://open.spotify.com/track/5CSLorshBm7YRm1mvpaYSP"
@@ -4460,6 +4496,28 @@
       "duration_ms": 212100,
       "name": "TRY",
       "url": "https://open.spotify.com/track/7BKE7q7IPJMrWke7zo2ISS"
+    },
+    {
+      "album": {
+        "name": "TURN ME ON (feat. Tobii)",
+        "url": "https://open.spotify.com/album/2sVAmfSBfpzVqAXq2CHm6V"
+      },
+      "artists": [
+        {
+          "name": "PERSES",
+          "url": "https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY"
+        },
+        {
+          "name": "Tobii",
+          "url": "https://open.spotify.com/artist/2Q1Qzlhorq7idKOcZwsGeg"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229000,
+      "name": "TURN ME ON (feat. Tobii)",
+      "url": "https://open.spotify.com/track/71Rfu3RiFdbEPcU2PpslhQ"
     },
     {
       "album": {
@@ -5988,7 +6046,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 281933,
       "name": "\u0e04\u0e25\u0e31\u0e48\u0e07\u0e40\u0e18\u0e2d (Dopamine)",
       "url": "https://open.spotify.com/track/7mKWZhB6AdIPqRMuzuiRsO"
@@ -7996,7 +8054,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 180182,
       "name": "\u0e16\u0e39\u0e01\u0e2a\u0e40\u0e1b\u0e01 (Let\u2019s Go)",
       "url": "https://open.spotify.com/track/7p5yG8VirRCXPCzCNdj38Y"
@@ -9099,6 +9157,24 @@
     },
     {
       "album": {
+        "name": "\u0e1c\u0e34\u0e14\u0e21\u0e32\u0e01\u0e44\u0e2b\u0e21 (What\u2019s Wrong?)",
+        "url": "https://open.spotify.com/album/5o5NnghjlYYDVxwog4gEvw"
+      },
+      "artists": [
+        {
+          "name": "NANON",
+          "url": "https://open.spotify.com/artist/15A3eJ05XZObM0QEh1zfTo"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "\u0e1c\u0e34\u0e14\u0e21\u0e32\u0e01\u0e44\u0e2b\u0e21 (What\u2019s Wrong?)",
+      "url": "https://open.spotify.com/track/3p3HF2N54aO12iJTADcmEF"
+    },
+    {
+      "album": {
         "name": "\u0e1c\u0e34\u0e14\u0e2b\u0e19\u0e49\u0e32\u0e17\u0e35\u0e48 (Responsibility) - Single",
         "url": "https://open.spotify.com/album/6Sult4isw1GLJ5ezxOVd2p"
       },
@@ -9212,6 +9288,24 @@
       "duration_ms": 259285,
       "name": "\u0e1d\u0e32\u0e01\u0e43\u0e08",
       "url": "https://open.spotify.com/track/0WmHAw7c5LppZdca1amE6f"
+    },
+    {
+      "album": {
+        "name": "\u0e1e\u0e1a\u0e1f\u0e49\u0e32 (My Sky) [\u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e0b\u0e35\u0e23\u0e35\u0e2a\u0e4c \"\u0e23\u0e31\u0e01\u0e04\u0e23\u0e39\u0e40\u0e17\u0e48\u0e32\u0e42\u0e25\u0e01\u0e40\u0e25\u0e22 Love you Teacher\"]",
+        "url": "https://open.spotify.com/album/5uZBskwR06lyUFBVMInCFC"
+      },
+      "artists": [
+        {
+          "name": "Santa Pongsapak",
+          "url": "https://open.spotify.com/artist/6Mk1NxLVTY1jZWCVjKZJxN"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229099,
+      "name": "\u0e1e\u0e1a\u0e1f\u0e49\u0e32 (My Sky) - \u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e0b\u0e35\u0e23\u0e35\u0e2a\u0e4c \"\u0e23\u0e31\u0e01\u0e04\u0e23\u0e39\u0e40\u0e17\u0e48\u0e32\u0e42\u0e25\u0e01\u0e40\u0e25\u0e22 Love you Teacher\"",
+      "url": "https://open.spotify.com/track/5s4KTNOW4AdfCYBQKVUJIf"
     },
     {
       "album": {
@@ -10542,7 +10636,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 217109,
       "name": "\u0e23\u0e31\u0e01\u0e44\u0e14\u0e49\u0e41\u0e25\u0e49\u0e27 (NEXT STATUS) (From \"\u0e14\u0e49\u0e27\u0e07\u0e01\u0e31\u0e1a\u0e40\u0e18\u0e2d Duang With You\")",
       "url": "https://open.spotify.com/track/1rJceKkVcWiRrvclYG5CQr"
@@ -13686,6 +13780,24 @@
       "duration_ms": 240740,
       "name": "\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e19\u0e01\u0e31\u0e19\u0e44\u0e21\u0e48\u0e40\u0e25\u0e34\u0e01\u0e01\u0e31\u0e19 (Close Friend)",
       "url": "https://open.spotify.com/track/7xfqTNAUFmbM1wlmCPxRmQ"
+    },
+    {
+      "album": {
+        "name": "\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e19\u0e04\u0e19\u0e2a\u0e33\u0e04\u0e31\u0e0d (VIP)",
+        "url": "https://open.spotify.com/album/3kYf3euqNyROdY1Bewzxte"
+      },
+      "artists": [
+        {
+          "name": "MEEPOOH",
+          "url": "https://open.spotify.com/artist/6m6obXYeSAepfEH0nwGhHa"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234461,
+      "name": "\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e19\u0e04\u0e19\u0e2a\u0e33\u0e04\u0e31\u0e0d (VIP)",
+      "url": "https://open.spotify.com/track/2FkPSpog3Nes4Ymdx98E4R"
     },
     {
       "album": {

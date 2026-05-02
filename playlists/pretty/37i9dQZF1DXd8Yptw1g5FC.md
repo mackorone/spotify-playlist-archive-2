@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Zeki Arkun x Simge ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 311,898 likes - 117 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 312,483 likes - 117 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 8 | [Yok Öyle Bir Dünya](https://open.spotify.com/track/6crqBm4GlneFo96LjG39A0) | [Derya Bedavacı](https://open.spotify.com/artist/6eBKQVpzyvlMoQaR7buvX8) | [Yok Öyle Bir Dünya](https://open.spotify.com/album/1H0zEr5hpQLheRJBsVjUq9) | 3:15 |
 | 9 | [Geliyorlar Gidiyorlar](https://open.spotify.com/track/2VkvE3U8G92P47oLI3jPLF) | [Zerrin Özer](https://open.spotify.com/artist/2CleFSxMoxkm2RduyMwcrm) | [Geliyorlar Gidiyorlar](https://open.spotify.com/album/0izpjMu2fWVA3Z8xUjC6KG) | 3:22 |
 | 10 | [Senden Gayrısına](https://open.spotify.com/track/2DVIv6bCWqzZITASJ5hT4s) | [Cem Adrian](https://open.spotify.com/artist/2AWUCT9xtcvkjpFq1ZgpPj), [DERBEND](https://open.spotify.com/artist/5HUa70pmGqPiOSu0lmT5mM) | [DERBEND](https://open.spotify.com/album/2ZTnOtYJJySjGERJTdBHpq) | 3:46 |
-| 11 | [Midnight Sun](https://open.spotify.com/track/1qRV1dKLOfH1s00b9J2LUQ) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/2IdHrETl3jsOYQRsF0nV16) | 3:09 |
+| 11 | [Midnight Sun \- Girls Trip](https://open.spotify.com/track/7AXjrKBk1TbYjm3xcVPCvC) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Midnight Sun: Girls Trip](https://open.spotify.com/album/3SJU0Tncb0yXItHnxRWzY6) | 2:51 |
 | 12 | [Yoktu](https://open.spotify.com/track/60ElzXtShuFeEEvNrLsEsd) | [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja), [ALIZADE](https://open.spotify.com/artist/1EPZusBDP8yewhsaKtwktz) | [Yoktu](https://open.spotify.com/album/3WpXJvWZCPVs1H4WlqTl0y) | 2:18 |
 | 13 | [Yalan](https://open.spotify.com/track/052gEUAn9upBEIGcAvx5uo) | [Gökhan Türkmen](https://open.spotify.com/artist/4uGB0nZ5d1iCXS3sHR3pzm) | [Yalan](https://open.spotify.com/album/1ybTXpoyDQlR9g1ENgyMQf) | 4:19 |
 | 14 | [Biterse Hatıran](https://open.spotify.com/track/0rbs1Jz0apqH5tmGyAcmoS) | [Mert Demir](https://open.spotify.com/artist/1Zj4GtouAnxHq4qw7ooLfm) | [Biterse Hatıran](https://open.spotify.com/album/40LB8yRjfn3KCyRZSNs6mo) | 3:43 |
@@ -126,4 +126,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 116 | [YALLAH](https://open.spotify.com/track/2HJN9lLoi01QqzfyC9gZ45) | [Cihangrey](https://open.spotify.com/artist/6x9evbgYMKSdykqL741hKh), [Tamer Erten](https://open.spotify.com/artist/1aCKefPZFpKfviBQv7AnaZ), [Acnatro](https://open.spotify.com/artist/50ZNmrQ6aYDoAQVjjLX3HS) | [YALLAH](https://open.spotify.com/album/7lzh0VlluUnrhHpncAQYS1) | 2:02 |
 | 117 | [Sesi Aç](https://open.spotify.com/track/3c3Nr7q6hQwe5aVFAMNHOE) | [Babakonda](https://open.spotify.com/artist/3jIHW5EpxtnMYgpUUmffYz), [NELLIE](https://open.spotify.com/artist/6GBQJMWv06Q5Vt6QQ1RWC3) | [Sesi Aç](https://open.spotify.com/album/2PnNXBkErhJFi82vbrQDld) | 2:44 |
 
-Snapshot ID: `AAAAAKLeJBxUSxRpYxiTZb4X0WdP3U1p`
+Snapshot ID: `AAAAAFbWDYGviXDQZlZsqdD85FlXmg4/`

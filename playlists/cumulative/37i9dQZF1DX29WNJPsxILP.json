@@ -176,7 +176,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 156520,
       "name": "Aai Bo",
       "url": "https://open.spotify.com/track/7L9Um3qwrdu01waYwxjVOi"
@@ -748,7 +748,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 163384,
       "name": "Badshah",
       "url": "https://open.spotify.com/track/1hfRfTfumpDvDtMtXMRY81"
@@ -1246,6 +1246,36 @@
       "duration_ms": 160851,
       "name": "Bt Ho Gayi",
       "url": "https://open.spotify.com/track/1boqva32nCghdoWiKLm5rX"
+    },
+    {
+      "album": {
+        "name": "Lukkhe (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/7MwKD3kEFMov4LQqyhnmzL"
+      },
+      "artists": [
+        {
+          "name": "King",
+          "url": "https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU"
+        },
+        {
+          "name": "Amira Gill",
+          "url": "https://open.spotify.com/artist/3ZW8Uj45dj58KkgqkFBLIS"
+        },
+        {
+          "name": "Karan Kanchan",
+          "url": "https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs"
+        },
+        {
+          "name": "Manreet Khara",
+          "url": "https://open.spotify.com/artist/5IbqlFtFzlcqZW0KlnyVkq"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189717,
+      "name": "Bulletproof (From \"Lukkhe\")",
+      "url": "https://open.spotify.com/track/2vDKx0f8l8pP2o0Xln1Nv2"
     },
     {
       "album": {
@@ -1970,6 +2000,24 @@
       "duration_ms": 198117,
       "name": "Dream Girl",
       "url": "https://open.spotify.com/track/4cbN08AlbNtanvMNhPVcPe"
+    },
+    {
+      "album": {
+        "name": "DREAMS",
+        "url": "https://open.spotify.com/album/53whAruHjkjwubdjPIWMJs"
+      },
+      "artists": [
+        {
+          "name": "Emiway Bantai",
+          "url": "https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192500,
+      "name": "DREAMS",
+      "url": "https://open.spotify.com/track/4YNoJ57umeUGKPwzV2cQF9"
     },
     {
       "album": {
@@ -2921,6 +2969,24 @@
     },
     {
       "album": {
+        "name": "JAANE JAA",
+        "url": "https://open.spotify.com/album/2BirRj76HwJSkwTqkZi1bC"
+      },
+      "artists": [
+        {
+          "name": "Emiway Bantai",
+          "url": "https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "JAANE JAA",
+      "url": "https://open.spotify.com/track/59UjekP5VpkJBxVkWIeOaW"
+    },
+    {
+      "album": {
         "name": "JAANEJAANA",
         "url": "https://open.spotify.com/album/3QU9SPkAgpuBQMAGnuAPwN"
       },
@@ -3616,7 +3682,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 225230,
       "name": "Kya Mai Yaha",
       "url": "https://open.spotify.com/track/5ZLmECGuQqlxFBxnQHuTES"

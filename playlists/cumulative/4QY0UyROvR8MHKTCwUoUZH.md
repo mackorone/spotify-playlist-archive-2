@@ -4,7 +4,7 @@
 
 > Rustige achtergrond muziek voor tijdens je werk, studeren of relaxen \| Morning coffee 2026 \| Koffie Chill \| Café Music
 
-247 songs - 13 hr 37 min
+248 songs - 13 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Die Happy](https://open.spotify.com/track/3EVLd2B0qKPCGItoVz9onn) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Cruel World](https://open.spotify.com/album/43TBVIMYFCJNsKSJK6H6TU) | 3:49 | 2026-04-17 |  |
 | [Die Light](https://open.spotify.com/track/0QzB4LiVyEA1yvvt4Ll2mR) | [Sven Ross](https://open.spotify.com/artist/2WiTb3ZPchkTg0JjH6MlBJ) | [Die Light](https://open.spotify.com/album/5zKU8JHJgD8DBU7whj7K5K) | 2:55 | 2025-07-18 | 2025-08-23 |
 | [Dinosaur](https://open.spotify.com/track/6bJyGzdTAeUm5MUBJRQowK) | [Soft Launch](https://open.spotify.com/artist/4hq1lrK8XlrErNZ3xs3586) | [Dinosaur](https://open.spotify.com/album/6jWXZ0gJSVxUppa1zEsn6C) | 4:02 | 2025-07-18 | 2025-10-18 |
+| [Dive \(feat\. Eva Valery\)](https://open.spotify.com/track/6Rm6wlcvUMmoewgqT6HtGp) | [Steven Charlot](https://open.spotify.com/artist/6i7OOTSy7DyayuRf6vDcqV), [Eva Valery](https://open.spotify.com/artist/0K95TlYJ2SvJbL3CZ3ui3p) | [Society's Face pt\. II](https://open.spotify.com/album/6sZvNzhJDj1g2QiaQhBhWe) | 4:18 | 2026-05-01 |  |
 | [Dolce Vita](https://open.spotify.com/track/49HmAScfsg98wibVSsYMlA) | [Adriano Selva](https://open.spotify.com/artist/3Ea3kpFCrzlHXh4Q8ieAXE) | [Amour Moderne](https://open.spotify.com/album/7iuLdd4y2yUxoafRMHRsGg) | 2:13 | 2026-02-06 |  |
 | [Don't Know Why](https://open.spotify.com/track/1zNXF2svmdlNxfS5XeNUgr) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me \(Super Deluxe Edition\)](https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl) | 3:06 | 2026-04-10 |  |
 | [Don't Leave Me Now](https://open.spotify.com/track/7huLG5ST9vhXuxSFsYyxbH) | [Lucas Hamming](https://open.spotify.com/artist/4iDpNIlF0YzksZ35iQf196) | [Moodswings](https://open.spotify.com/album/0oJlmRx6Xnbwy9uwJy7EnA) | 3:52 | 2026-02-06 |  |

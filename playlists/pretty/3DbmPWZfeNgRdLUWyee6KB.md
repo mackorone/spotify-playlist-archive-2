@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,297 likes - 164 songs - 9 hr 25 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,298 likes - 167 songs - 9 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -172,5 +172,8 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 162 | [Sono Un Miracolo](https://open.spotify.com/track/4yVD1mtrh1Qd99PJhgLxud) | [DIEGO SPICE](https://open.spotify.com/artist/4tTpREbU5DTxYItQPsSvjZ) | [Sono Un Miracolo](https://open.spotify.com/album/63clVpXhw1tsh2BByiGCFV) | 3:15 |
 | 163 | [Cornerstone](https://open.spotify.com/track/2qk4lvUK6ZUkZasxRuDRSm) | [Hertz Division](https://open.spotify.com/artist/1HzfE16q8XS5zRUvH2hav3) | [Cornerstone](https://open.spotify.com/album/24PJkdgfhDFkICS8YKQ1ml) | 9:39 |
 | 164 | [Tu Teri Baatein...](https://open.spotify.com/track/5W8haJYeMtvytreTyf6E3o) | [Kundan Agarwalla](https://open.spotify.com/artist/5Xyy1yRLlKiSVSgGUdqpHW) | [Tu Teri Baatein...](https://open.spotify.com/album/2Lf1m77LUrTrEo9k7a9nWv) | 3:06 |
+| 165 | [False Prophet](https://open.spotify.com/track/3wE5xlV9u7L91aa7KfknwG) | [Holy Island](https://open.spotify.com/artist/4mDskLBS4JOyI52mzQ9H5m) | [False Prophet](https://open.spotify.com/album/29bErY1NGaYrHjmNIMvX7x) | 4:10 |
+| 166 | [Mediocre Men](https://open.spotify.com/track/1f8fJND1Iy4Qw87rPvUYIC) | [Jay Moussa\-Mann](https://open.spotify.com/artist/2aSlAzC15sb0NojtkwfsYz) | [Mediocre Men](https://open.spotify.com/album/7ePV736XzcdtRWSeOKuPcm) | 3:27 |
+| 167 | [RISE](https://open.spotify.com/track/0ibRgMJrrNUvPDmtYyBkmQ) | [The Pleasure Merchants](https://open.spotify.com/artist/0HLhZJBnQ6Sz23PW4cIyHF) | [RISE](https://open.spotify.com/album/2YaB8Qf03MLpRVAGZopKaO) | 4:11 |
 
-Snapshot ID: `AAATilWpJw3s8KzhrS3qkdAEBxxi8t3u`
+Snapshot ID: `AAATjWMNs041XQB2QeOxZAD+3rslteUY`

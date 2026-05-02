@@ -1,13 +1,197 @@
 {
-  "description": "CRi gifts us volume 1 of his AMi project \ud83e\udd32 metropolis is your home for the best indie dance",
-  "num_followers": 872442,
+  "description": "No mixed emotions here, we love Collect 200's debut album \ud83c\udf1e metropolis is your home for the best indie dance",
+  "num_followers": 872403,
   "original_name": "metropolis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALueLkuuTndc+zJxNtfNSg7jK47V",
+  "snapshot_id": "AAAAAK77WiEDwsujsEzgfAXu4gybuSMH",
   "tracks": [
+    {
+      "added_at": "2026-05-01 04:01:44",
+      "album": {
+        "name": "Everything Will Be Alright",
+        "url": "https://open.spotify.com/album/3VW3rR8BFAITqgT45WX3Cv"
+      },
+      "artists": [
+        {
+          "name": "Collect 200",
+          "url": "https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE"
+        }
+      ],
+      "duration_ms": 205161,
+      "name": "Mixed Emotions",
+      "url": "https://open.spotify.com/track/27A97G7jTpRWeX3E4LpQEs"
+    },
+    {
+      "added_at": "2026-04-10 04:02:28",
+      "album": {
+        "name": "Magnetic / Addicted To Your Love",
+        "url": "https://open.spotify.com/album/5spP5OwikL076tVBuw7gb8"
+      },
+      "artists": [
+        {
+          "name": "The Bausa",
+          "url": "https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg"
+        }
+      ],
+      "duration_ms": 181384,
+      "name": "Magnetic",
+      "url": "https://open.spotify.com/track/4hFDFmMnSYZ32ssqNUOCjt"
+    },
+    {
+      "added_at": "2026-04-10 04:02:28",
+      "album": {
+        "name": "\u00d6",
+        "url": "https://open.spotify.com/album/4RrsgnUbZIFTw42Apa8lXO"
+      },
+      "artists": [
+        {
+          "name": "Fcukers",
+          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
+        }
+      ],
+      "duration_ms": 178280,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/2hCM8z2UlTDQV9yXjga8Ox"
+    },
+    {
+      "added_at": "2026-05-01 04:01:44",
+      "album": {
+        "name": "Fold",
+        "url": "https://open.spotify.com/album/3c3SAUJ4LrCHGvAOySzfW1"
+      },
+      "artists": [
+        {
+          "name": "Jump Source",
+          "url": "https://open.spotify.com/artist/6fUBDklw2cffzrVU4phRKc"
+        },
+        {
+          "name": "Patrick Holland",
+          "url": "https://open.spotify.com/artist/0dns940bo2pILe1Flk0WH3"
+        },
+        {
+          "name": "Priori",
+          "url": "https://open.spotify.com/artist/76UMzIcqhjgf2Xr8gPdKO1"
+        },
+        {
+          "name": "BEA1991",
+          "url": "https://open.spotify.com/artist/6F93aFbWjhUtjRKXYmtr1Z"
+        }
+      ],
+      "duration_ms": 357466,
+      "name": "Endlessly (feat. BEA1991)",
+      "url": "https://open.spotify.com/track/7ugmWtCmv1AlUFhtb69m3v"
+    },
+    {
+      "added_at": "2026-04-10 04:02:28",
+      "album": {
+        "name": "Be Loved",
+        "url": "https://open.spotify.com/album/6AqdBFxzWYGO0OSeU8AnJG"
+      },
+      "artists": [
+        {
+          "name": "Kuzco",
+          "url": "https://open.spotify.com/artist/41gAwOVRxPXax5jUQ3Ub6Q"
+        }
+      ],
+      "duration_ms": 253214,
+      "name": "Be Loved",
+      "url": "https://open.spotify.com/track/0Wnq7CivkLqb2nBtgej9m0"
+    },
+    {
+      "added_at": "2026-05-01 04:01:44",
+      "album": {
+        "name": "Face to Face with You",
+        "url": "https://open.spotify.com/album/089Qn23B9Xbsw9MQ3J5efI"
+      },
+      "artists": [
+        {
+          "name": "Alex Bone",
+          "url": "https://open.spotify.com/artist/2iL6iQOjN0zrskyJHksaEJ"
+        },
+        {
+          "name": "Allegra Miles",
+          "url": "https://open.spotify.com/artist/2b5HdZgVQ0DhkHrajBgcxu"
+        }
+      ],
+      "duration_ms": 187695,
+      "name": "Face to Face with You",
+      "url": "https://open.spotify.com/track/41gQlJxSCJ87c3M5ycS1jh"
+    },
+    {
+      "added_at": "2026-04-10 04:02:28",
+      "album": {
+        "name": "I Don't Wanna Stop",
+        "url": "https://open.spotify.com/album/1oMTheMSsGJrmkGr2NbrnZ"
+      },
+      "artists": [
+        {
+          "name": "Cosmo's Midnight",
+          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
+        },
+        {
+          "name": "The Bamboos",
+          "url": "https://open.spotify.com/artist/1QVWN3ebl1dVgVbMgQPG8K"
+        }
+      ],
+      "duration_ms": 218941,
+      "name": "I Don't Wanna Stop",
+      "url": "https://open.spotify.com/track/5mLybISpqBigKI2dXM3Yl5"
+    },
+    {
+      "added_at": "2026-04-24 04:02:18",
+      "album": {
+        "name": "C'MON",
+        "url": "https://open.spotify.com/album/28KVyJE1pHcXRmE9jfHRIW"
+      },
+      "artists": [
+        {
+          "name": "Aki Oke",
+          "url": "https://open.spotify.com/artist/7d76hQbV3M2NOwec3e16bv"
+        }
+      ],
+      "duration_ms": 217249,
+      "name": "C'MON",
+      "url": "https://open.spotify.com/track/1UdhMXlrK5xeH7cKEdIvRA"
+    },
+    {
+      "added_at": "2026-05-01 04:01:44",
+      "album": {
+        "name": "Softskin",
+        "url": "https://open.spotify.com/album/6uqPtb7hQIcZeWpjz9TytF"
+      },
+      "artists": [
+        {
+          "name": "Kid Francescoli",
+          "url": "https://open.spotify.com/artist/2G7QgTep5IsJHGHm1hXygD"
+        },
+        {
+          "name": "Andr\u00e9a",
+          "url": "https://open.spotify.com/artist/0wAy4Wrv599H4LN56EurR3"
+        }
+      ],
+      "duration_ms": 184040,
+      "name": "Softskin",
+      "url": "https://open.spotify.com/track/5bFIeyLczKP7BADj3z6Mst"
+    },
+    {
+      "added_at": "2026-04-10 04:02:28",
+      "album": {
+        "name": "Kelsier",
+        "url": "https://open.spotify.com/album/083Q8p1eQrtQgmsVYyOD7E"
+      },
+      "artists": [
+        {
+          "name": "O'Flynn",
+          "url": "https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo"
+        }
+      ],
+      "duration_ms": 232131,
+      "name": "Kelsier",
+      "url": "https://open.spotify.com/track/5W8vqZAZF41QpYXckXlrlz"
+    },
     {
       "added_at": "2026-04-24 04:02:18",
       "album": {
@@ -29,20 +213,20 @@
       "url": "https://open.spotify.com/track/2Eb6bBgGcVm83xjI2IaTlr"
     },
     {
-      "added_at": "2026-04-10 04:02:28",
+      "added_at": "2026-04-17 04:02:52",
       "album": {
-        "name": "Magnetic / Addicted To Your Love",
-        "url": "https://open.spotify.com/album/5spP5OwikL076tVBuw7gb8"
+        "name": "Everything U",
+        "url": "https://open.spotify.com/album/6u6pP0iEfqlP1fJPTyrkWi"
       },
       "artists": [
         {
-          "name": "The Bausa",
-          "url": "https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg"
+          "name": "DJ Seinfeld",
+          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
         }
       ],
-      "duration_ms": 181384,
-      "name": "Magnetic",
-      "url": "https://open.spotify.com/track/4hFDFmMnSYZ32ssqNUOCjt"
+      "duration_ms": 210294,
+      "name": "Everything U",
+      "url": "https://open.spotify.com/track/6i2H5Guogjwx2ALTACHmTY"
     },
     {
       "added_at": "2026-04-10 04:02:28",
@@ -63,86 +247,6 @@
     {
       "added_at": "2026-04-24 04:02:18",
       "album": {
-        "name": "C'MON",
-        "url": "https://open.spotify.com/album/28KVyJE1pHcXRmE9jfHRIW"
-      },
-      "artists": [
-        {
-          "name": "Aki Oke",
-          "url": "https://open.spotify.com/artist/7d76hQbV3M2NOwec3e16bv"
-        }
-      ],
-      "duration_ms": 217249,
-      "name": "C'MON",
-      "url": "https://open.spotify.com/track/1UdhMXlrK5xeH7cKEdIvRA"
-    },
-    {
-      "added_at": "2026-04-10 04:02:28",
-      "album": {
-        "name": "\u00d6",
-        "url": "https://open.spotify.com/album/4RrsgnUbZIFTw42Apa8lXO"
-      },
-      "artists": [
-        {
-          "name": "Fcukers",
-          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
-        }
-      ],
-      "duration_ms": 178280,
-      "name": "Lonely",
-      "url": "https://open.spotify.com/track/2hCM8z2UlTDQV9yXjga8Ox"
-    },
-    {
-      "added_at": "2026-04-10 04:02:28",
-      "album": {
-        "name": "Be Loved",
-        "url": "https://open.spotify.com/album/6AqdBFxzWYGO0OSeU8AnJG"
-      },
-      "artists": [
-        {
-          "name": "Kuzco",
-          "url": "https://open.spotify.com/artist/41gAwOVRxPXax5jUQ3Ub6Q"
-        }
-      ],
-      "duration_ms": 253214,
-      "name": "Be Loved",
-      "url": "https://open.spotify.com/track/0Wnq7CivkLqb2nBtgej9m0"
-    },
-    {
-      "added_at": "2026-04-17 04:02:52",
-      "album": {
-        "name": "Everything U",
-        "url": "https://open.spotify.com/album/6u6pP0iEfqlP1fJPTyrkWi"
-      },
-      "artists": [
-        {
-          "name": "DJ Seinfeld",
-          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
-        }
-      ],
-      "duration_ms": 210294,
-      "name": "Everything U",
-      "url": "https://open.spotify.com/track/6i2H5Guogjwx2ALTACHmTY"
-    },
-    {
-      "added_at": "2026-04-10 04:02:28",
-      "album": {
-        "name": "Kelsier",
-        "url": "https://open.spotify.com/album/083Q8p1eQrtQgmsVYyOD7E"
-      },
-      "artists": [
-        {
-          "name": "O'Flynn",
-          "url": "https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo"
-        }
-      ],
-      "duration_ms": 232131,
-      "name": "Kelsier",
-      "url": "https://open.spotify.com/track/5W8vqZAZF41QpYXckXlrlz"
-    },
-    {
-      "added_at": "2026-04-24 04:02:18",
-      "album": {
         "name": "We Go So Good Together",
         "url": "https://open.spotify.com/album/20BCMVFQWe0uvjXCOOnyHI"
       },
@@ -157,24 +261,28 @@
       "url": "https://open.spotify.com/track/5u60vtj3BIty91oZw2xUVF"
     },
     {
-      "added_at": "2026-04-10 04:02:28",
+      "added_at": "2026-05-01 04:01:44",
       "album": {
-        "name": "I Don't Wanna Stop",
-        "url": "https://open.spotify.com/album/1oMTheMSsGJrmkGr2NbrnZ"
+        "name": "Devoted / Curve",
+        "url": "https://open.spotify.com/album/19Ssa02PsG2lbPYSEoVc32"
       },
       "artists": [
         {
-          "name": "Cosmo's Midnight",
-          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
+          "name": "Verses GT",
+          "url": "https://open.spotify.com/artist/4iJE0jzx9tLd3JE9TGhcpC"
         },
         {
-          "name": "The Bamboos",
-          "url": "https://open.spotify.com/artist/1QVWN3ebl1dVgVbMgQPG8K"
+          "name": "Jacques Greene",
+          "url": "https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9"
+        },
+        {
+          "name": "Nosaj Thing",
+          "url": "https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT"
         }
       ],
-      "duration_ms": 218941,
-      "name": "I Don't Wanna Stop",
-      "url": "https://open.spotify.com/track/5mLybISpqBigKI2dXM3Yl5"
+      "duration_ms": 241000,
+      "name": "Devoted",
+      "url": "https://open.spotify.com/track/4yOEO615mUhaovlWTI8hQc"
     },
     {
       "added_at": "2026-04-24 04:02:18",
@@ -219,6 +327,22 @@
       "duration_ms": 200156,
       "name": "Orange Wine - Retrowaves Remix",
       "url": "https://open.spotify.com/track/29g7fBTBY3OblBNFcfvS1G"
+    },
+    {
+      "added_at": "2026-05-01 04:01:44",
+      "album": {
+        "name": "Her Eyes",
+        "url": "https://open.spotify.com/album/1NGSNi1qumOz2ioRd4pvni"
+      },
+      "artists": [
+        {
+          "name": "ZAINAB",
+          "url": "https://open.spotify.com/artist/4FzIDBCmkaXaPkGzJLG0M9"
+        }
+      ],
+      "duration_ms": 185266,
+      "name": "Her Eyes",
+      "url": "https://open.spotify.com/track/2GVil5jFuIJAIrGgVXJnN7"
     },
     {
       "added_at": "2026-04-17 04:02:52",
@@ -951,26 +1075,6 @@
     {
       "added_at": "2026-04-10 04:02:28",
       "album": {
-        "name": "Of Joy",
-        "url": "https://open.spotify.com/album/54A3tApoB5vr52YinrOeV7"
-      },
-      "artists": [
-        {
-          "name": "DJ Seinfeld",
-          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
-        },
-        {
-          "name": "ARY",
-          "url": "https://open.spotify.com/artist/4FLA7MpTdP5nNUQfiaA3WM"
-        }
-      ],
-      "duration_ms": 199636,
-      "name": "Of Joy",
-      "url": "https://open.spotify.com/track/3mcbuLRA6q4MO3KJZiARXQ"
-    },
-    {
-      "added_at": "2026-04-10 04:02:28",
-      "album": {
         "name": "Space Invaders",
         "url": "https://open.spotify.com/album/6yO08nZGr6OS1b1Wh2VjEs"
       },
@@ -1335,38 +1439,6 @@
     {
       "added_at": "2026-04-10 04:02:28",
       "album": {
-        "name": "Fell So Out",
-        "url": "https://open.spotify.com/album/7kqCL8iWoPfyjx8XheSEur"
-      },
-      "artists": [
-        {
-          "name": "From Dave",
-          "url": "https://open.spotify.com/artist/0mZidOoBt44GjnhNMUr9F6"
-        }
-      ],
-      "duration_ms": 173171,
-      "name": "Fell So Out",
-      "url": "https://open.spotify.com/track/1vsA7hZEn4XKdvRkxDz9ov"
-    },
-    {
-      "added_at": "2026-04-10 04:02:28",
-      "album": {
-        "name": "Always With Me",
-        "url": "https://open.spotify.com/album/4E3yDqnMgUfLxRYH3LDkiE"
-      },
-      "artists": [
-        {
-          "name": "TEED",
-          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
-        }
-      ],
-      "duration_ms": 217513,
-      "name": "In Darkness",
-      "url": "https://open.spotify.com/track/7hqtAz51uS84jjOKfjgdIL"
-    },
-    {
-      "added_at": "2026-04-10 04:02:28",
-      "album": {
         "name": "Feel So Good Around U",
         "url": "https://open.spotify.com/album/5jQDO3r5tVB7t0H6ipp9vO"
       },
@@ -1439,46 +1511,6 @@
       "duration_ms": 230196,
       "name": "Cave",
       "url": "https://open.spotify.com/track/5ZG8XLuJNLysbMv0TrqmeX"
-    },
-    {
-      "added_at": "2026-04-10 04:02:28",
-      "album": {
-        "name": "When You Know",
-        "url": "https://open.spotify.com/album/1sbGuAdZa45lveOTQsOJFl"
-      },
-      "artists": [
-        {
-          "name": "Fabich",
-          "url": "https://open.spotify.com/artist/1mwP5J1kB8clYx0SoNL0uh"
-        },
-        {
-          "name": "Elise Elvira",
-          "url": "https://open.spotify.com/artist/4UgJMtggKFjXHMoTDS5KjU"
-        }
-      ],
-      "duration_ms": 174193,
-      "name": "When You Know (feat. Elise Elvira)",
-      "url": "https://open.spotify.com/track/6liSKmKGY8mj9i52esqSNF"
-    },
-    {
-      "added_at": "2026-04-10 04:02:28",
-      "album": {
-        "name": "Orange Wine",
-        "url": "https://open.spotify.com/album/2AGeeGiuL9Sxs3ZWpnq9o1"
-      },
-      "artists": [
-        {
-          "name": "Sonan",
-          "url": "https://open.spotify.com/artist/5qfTG0UpxeQQHzGJ3oCvSb"
-        },
-        {
-          "name": "Lynden",
-          "url": "https://open.spotify.com/artist/5q6iGOspbddquMKyvxKQYv"
-        }
-      ],
-      "duration_ms": 190458,
-      "name": "Orange Wine",
-      "url": "https://open.spotify.com/track/7gZWypmpJYDJB7DV8p0Vjk"
     },
     {
       "added_at": "2026-04-10 04:02:28",
@@ -1639,22 +1671,6 @@
       "duration_ms": 223824,
       "name": "The Bay - Purple Disco Machine Edit",
       "url": "https://open.spotify.com/track/20yAG2AZyb8zneVpOib7Vm"
-    },
-    {
-      "added_at": "2026-04-10 04:02:28",
-      "album": {
-        "name": "Treat Yourself",
-        "url": "https://open.spotify.com/album/5TKfzVDjwXFBEQCbD3F81I"
-      },
-      "artists": [
-        {
-          "name": "Franc Moody",
-          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
-        }
-      ],
-      "duration_ms": 184167,
-      "name": "Treat Yourself",
-      "url": "https://open.spotify.com/track/55yBtybjHTl4criqkcwdZf"
     },
     {
       "added_at": "2026-04-10 04:02:28",

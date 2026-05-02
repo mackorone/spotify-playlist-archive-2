@@ -12997,6 +12997,24 @@
     },
     {
       "album": {
+        "name": "Do It Like Me",
+        "url": "https://open.spotify.com/album/7gvWFQOcRrnd6zFxgxf1da"
+      },
+      "artists": [
+        {
+          "name": "Nova Blue",
+          "url": "https://open.spotify.com/artist/64wwBeRlMZenhRspSoRSqR"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164155,
+      "name": "Do It Like Me",
+      "url": "https://open.spotify.com/track/1bhQ6C0jhlZ9uPTyVyC9gS"
+    },
+    {
+      "album": {
         "name": "Do It Right",
         "url": "https://open.spotify.com/album/4ZGhXqzoSNBnzvxRB2NALr"
       },
@@ -47476,6 +47494,24 @@
       "duration_ms": 180000,
       "name": "Signal - Basstrick Remix",
       "url": "https://open.spotify.com/track/5yb2A3wwHck88WhcbASZEq"
+    },
+    {
+      "album": {
+        "name": "Silence",
+        "url": "https://open.spotify.com/album/5418J3PsbbQxXqHUZTFYwr"
+      },
+      "artists": [
+        {
+          "name": "BUTTER",
+          "url": "https://open.spotify.com/artist/5SOSqzQyhsHTTuxAMGPkaO"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158095,
+      "name": "Silence",
+      "url": "https://open.spotify.com/track/4ji17rMLAU854Plh8Hx5D9"
     },
     {
       "album": {

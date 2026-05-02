@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Alternative indie music etc. Cover: Daniel Caesar",
+  "description": "Alternative indie music etc. Cover: JPEGMAFIA",
   "name": "anti pop",
   "tracks": [
     {
@@ -2243,6 +2243,24 @@
     },
     {
       "album": {
+        "name": "babygirl",
+        "url": "https://open.spotify.com/album/31CPIp0vMvr5UNB0xvnMiL"
+      },
+      "artists": [
+        {
+          "name": "JPEGMAFIA",
+          "url": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147491,
+      "name": "babygirl",
+      "url": "https://open.spotify.com/track/5ouETFDqJv0SQMzwKlQLlP"
+    },
+    {
+      "album": {
         "name": "Avian",
         "url": "https://open.spotify.com/album/5Jbk5XyOqZL6Eji4vQDDdY"
       },
@@ -3900,7 +3918,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 215258,
       "name": "body to you",
       "url": "https://open.spotify.com/track/1xBQafV1iMGpZotqgAExHe"
@@ -4574,6 +4592,24 @@
       "duration_ms": 136500,
       "name": "buttercup 2",
       "url": "https://open.spotify.com/track/2bRxQbAQ2OsPKSNc1bllEl"
+    },
+    {
+      "album": {
+        "name": "buttons",
+        "url": "https://open.spotify.com/album/5ievaFZh2WoAvzxDdwzc9l"
+      },
+      "artists": [
+        {
+          "name": "Hockitay",
+          "url": "https://open.spotify.com/artist/7bOmAhV9TyYNu90JKLiVGI"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204266,
+      "name": "buttons",
+      "url": "https://open.spotify.com/track/0LFNBiDtOFKhSWWPUi0avw"
     },
     {
       "album": {
@@ -5504,7 +5540,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 209798,
       "name": "Changes",
       "url": "https://open.spotify.com/track/4kCQBniDnYszCKJYYPcH4c"
@@ -5700,7 +5736,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 130244,
       "name": "Chip Away",
       "url": "https://open.spotify.com/track/41FG0ltB7fBq2gS4eoFeKC"
@@ -7660,7 +7696,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 155180,
       "name": "De Guerre",
       "url": "https://open.spotify.com/track/21uORftqCAkZWbqLzjpnPy"
@@ -8673,6 +8709,24 @@
     },
     {
       "album": {
+        "name": "draggin' my feet!",
+        "url": "https://open.spotify.com/album/5vEzSFTbG1LKzP8He9NTAQ"
+      },
+      "artists": [
+        {
+          "name": "Jahson Paynter",
+          "url": "https://open.spotify.com/artist/73SbrIktK3Na0OTmhZpMy8"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132587,
+      "name": "draggin' my feet!",
+      "url": "https://open.spotify.com/track/75rjpPPUrJoFcuVoAkkImF"
+    },
+    {
+      "album": {
         "name": "dreamin'",
         "url": "https://open.spotify.com/album/4OVHuaHyH9KpFwgbJTdSS1"
       },
@@ -8760,7 +8814,7 @@
       ],
       "date_added": "2024-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 150193,
       "name": "Drive Me Crazy",
       "url": "https://open.spotify.com/track/4Ipwmp9ToGuOsTQwZrde7e"
@@ -8782,6 +8836,28 @@
       "duration_ms": 165989,
       "name": "Driver",
       "url": "https://open.spotify.com/track/1D0JQnRvAP5vsEg3eKNTPy"
+    },
+    {
+      "album": {
+        "name": "Driver Idle",
+        "url": "https://open.spotify.com/album/0NkvhwzA8UOOfEvi36swRT"
+      },
+      "artists": [
+        {
+          "name": "C'mon Tigre",
+          "url": "https://open.spotify.com/artist/1ntP294de9KGcB3pTfpGfJ"
+        },
+        {
+          "name": "Perry Maysun",
+          "url": "https://open.spotify.com/artist/7F4201ESA6AFfxjHpb9Bc0"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254163,
+      "name": "Driver Idle",
+      "url": "https://open.spotify.com/track/4NDaB0Q9jOL0DnyfI346SA"
     },
     {
       "album": {
@@ -12663,6 +12739,24 @@
     },
     {
       "album": {
+        "name": "Gorgone",
+        "url": "https://open.spotify.com/album/5QVCAOKiBikNLZRmlsvLdX"
+      },
+      "artists": [
+        {
+          "name": "Carpetman",
+          "url": "https://open.spotify.com/artist/3zzOs4npAwsNSmwFYDzdHx"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302989,
+      "name": "Gorgone",
+      "url": "https://open.spotify.com/track/4a4NSZqnAJMyizWczuRnlV"
+    },
+    {
+      "album": {
         "name": "NO THANK YOU",
         "url": "https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm"
       },
@@ -13538,7 +13632,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 229453,
       "name": "Heart of a Child",
       "url": "https://open.spotify.com/track/7qBRZlD9CyeR1IzhqGKnvC"
@@ -15482,6 +15576,24 @@
       "duration_ms": 104975,
       "name": "i wonder",
       "url": "https://open.spotify.com/track/5NAQ94nrCj0b62rdhVxKnf"
+    },
+    {
+      "album": {
+        "name": "I'll be fine",
+        "url": "https://open.spotify.com/album/1OTyEOKorSdUAzTpgIWKOP"
+      },
+      "artists": [
+        {
+          "name": "fangs",
+          "url": "https://open.spotify.com/artist/4hMzLL80aF5I6obBe0FXKW"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105501,
+      "name": "I'll be fine",
+      "url": "https://open.spotify.com/track/7GuokCJjuZrbal30hn9XsI"
     },
     {
       "album": {
@@ -17480,7 +17592,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 185374,
       "name": "Lay Lo",
       "url": "https://open.spotify.com/track/2zttOF7t7fHcXS9vt3q7dD"
@@ -18378,6 +18490,28 @@
       "duration_ms": 154821,
       "name": "Losers",
       "url": "https://open.spotify.com/track/33JYOYXiB9HjAlXx6VZgFb"
+    },
+    {
+      "album": {
+        "name": "losing my mind",
+        "url": "https://open.spotify.com/album/0fbCDBQeLCLmKhInYPkWPI"
+      },
+      "artists": [
+        {
+          "name": "distantiate",
+          "url": "https://open.spotify.com/artist/5b6MSXdOA8tITIBpGwlmej"
+        },
+        {
+          "name": "summa",
+          "url": "https://open.spotify.com/artist/5VrWodNh7FoTg2DEaA8eHS"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90952,
+      "name": "losing my mind",
+      "url": "https://open.spotify.com/track/7rE64MnXWjRl6m3lMQDwR1"
     },
     {
       "album": {
@@ -20598,7 +20732,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 133550,
       "name": "My Darling, My Angel",
       "url": "https://open.spotify.com/track/4S65LZ1l0ateIDSlmcxwNi"
@@ -21610,6 +21744,24 @@
       "duration_ms": 170765,
       "name": "no sense",
       "url": "https://open.spotify.com/track/0TSyYtpSnQrLqsnbSTALTP"
+    },
+    {
+      "album": {
+        "name": "No Sudden Movements",
+        "url": "https://open.spotify.com/album/3Uhs3ZLIzEpJMx91CXlO2S"
+      },
+      "artists": [
+        {
+          "name": "Fraud Perry",
+          "url": "https://open.spotify.com/artist/21bSNtXANYKKlrjo4RVTQm"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156572,
+      "name": "No Sudden Movements",
+      "url": "https://open.spotify.com/track/3JE3FICmxG25cuwblbIeaz"
     },
     {
       "album": {
@@ -25472,7 +25624,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 142660,
       "name": "Rhododendron",
       "url": "https://open.spotify.com/track/6SzR4MPLsXUmS1QwJz5SIj"
@@ -27180,7 +27332,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 229109,
       "name": "SHOOT THE MESSENGER",
       "url": "https://open.spotify.com/track/2oVW220Ey4dQDaj4SfNHGl"
@@ -27250,6 +27402,28 @@
       "duration_ms": 187058,
       "name": "Show Me The Money (with Tkay Maidza)",
       "url": "https://open.spotify.com/track/7EA2tzWnu6i0Nai8PMUZgp"
+    },
+    {
+      "album": {
+        "name": "Smash Combat",
+        "url": "https://open.spotify.com/album/3wb0gR13hzmsFExK0AWCEG"
+      },
+      "artists": [
+        {
+          "name": "Ping Pong Go",
+          "url": "https://open.spotify.com/artist/5C3BsAXPHbkUKm3wi8GUMG"
+        },
+        {
+          "name": "Dolphin Hyperspace",
+          "url": "https://open.spotify.com/artist/6tTZ6fX5qsm8Alc9GLwJ9q"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213011,
+      "name": "Shrala",
+      "url": "https://open.spotify.com/track/0za6Bjao6YFkxIOc6pT6fx"
     },
     {
       "album": {
@@ -28430,6 +28604,24 @@
       "duration_ms": 207946,
       "name": "Someone Else",
       "url": "https://open.spotify.com/track/43tQOLiTfoVwURdx5Ei7yr"
+    },
+    {
+      "album": {
+        "name": "Song for the Messenger",
+        "url": "https://open.spotify.com/album/5qp010KtWhsUNURCNH8o1c"
+      },
+      "artists": [
+        {
+          "name": "Chanel Beads",
+          "url": "https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182880,
+      "name": "Song for the Messenger",
+      "url": "https://open.spotify.com/track/1Ap75Wv20tVqTA8cAJXqq3"
     },
     {
       "album": {
@@ -33262,7 +33454,7 @@
       ],
       "date_added": "2024-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 152253,
       "name": "UMPA",
       "url": "https://open.spotify.com/track/470IhQSaAri29VEf2BZq7s"
@@ -34232,6 +34424,24 @@
       "duration_ms": 181051,
       "name": "Was I Supposed To Care?",
       "url": "https://open.spotify.com/track/7rzjNar4ySQgXroswykQsH"
+    },
+    {
+      "album": {
+        "name": "Wash You Out",
+        "url": "https://open.spotify.com/album/6iX4dOEqWg6YgKCfgzSItF"
+      },
+      "artists": [
+        {
+          "name": "Born At Midnite",
+          "url": "https://open.spotify.com/artist/3ejfr3ZL4rEFokdVb33dPa"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136800,
+      "name": "Wash You Out",
+      "url": "https://open.spotify.com/track/7yupAV8AOHwAecLb0Cnnnq"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-558 songs - 1 day 2 hr 38 min
+559 songs - 1 day 2 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -549,6 +549,7 @@
 | [Wat U Want](https://open.spotify.com/track/06mJKi1dNqdCOSz89Z8wNv) | [Bok Nero](https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V), [Gold Lemonade](https://open.spotify.com/artist/7FRrxvFEPbNCEJt0E7O7UD) | [Wat U Want](https://open.spotify.com/album/6i0zG01d98dJPcq6EuFNoi) | 2:24 | 2023-03-02 | 2023-05-21 |
 | [Watch Me](https://open.spotify.com/track/2EhEhgPbTatJFlmKIcTbA0) | [4B](https://open.spotify.com/artist/0LIl9fjMPEZp8UDiL8Yuo4) | [Watch Me](https://open.spotify.com/album/6RRZb7gBUFhXJYBywCZhm2) | 1:50 | 2025-02-28 |  |
 | [We Are One \(feat\. Bryn Christopher\)](https://open.spotify.com/track/2yy8PDe1d2TnWQYjjhvMke) | [3 Are Legend](https://open.spotify.com/artist/6w0JXd2nT27GXVTbsuQ2II), [Bryn Christopher](https://open.spotify.com/artist/7mWMzxN6IAIQ1tfFFtAiQv) | [We Are One \(feat\. Bryn Christopher\)](https://open.spotify.com/album/3rrJdd0PtwPwsweuuNUJaJ) | 3:22 | 2024-02-23 | 2025-04-27 |
+| [We Came We Saw We Conquered](https://open.spotify.com/track/1PF39JDTtc63dDvJ1KwJUQ) | [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc) | [We Came We Saw We Conquered](https://open.spotify.com/album/2fJyBezZ06FQxJaZEloN7F) | 2:24 | 2026-05-01 |  |
 | [Welcome to the Playhouse](https://open.spotify.com/track/1qXTtWP0sNcePb3tT2eHWL) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Shaquille O'Neal](https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7) | [Welcome to the Playhouse](https://open.spotify.com/album/6hhEQkw3cuI1HQ61Xma7Cy) | 3:08 | 2022-05-06 | 2023-04-09 |
 | [We’re Falling \(feat\. sapientdream\)](https://open.spotify.com/track/3kaVh7zUaVT87qnHngdnCF) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Hook N Sling](https://open.spotify.com/artist/3iN9k8uvm4WrgdlOigOH8D), [sapientdream](https://open.spotify.com/artist/4wOqWyXZiVMLchDC2H9CyP) | [We’re Falling \(feat\. sapientdream\)](https://open.spotify.com/album/1rrrcWXR4L1LPOaDgAg1ks) | 2:54 | 2022-08-19 | 2023-04-09 |
 | [Wild](https://open.spotify.com/track/6HziIqUKIzfSAHOpVtALrL) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy) | [Wild](https://open.spotify.com/album/2nYb1jBuzoEsHYIrh7ueL9) | 2:15 | 2023-03-24 | 2025-04-27 |

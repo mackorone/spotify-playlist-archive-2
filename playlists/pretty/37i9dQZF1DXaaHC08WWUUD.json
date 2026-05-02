@@ -1,6 +1,6 @@
 {
   "description": "me quiero mucho ",
-  "num_followers": 154882,
+  "num_followers": 154905,
   "original_name": "amor propio <3",
   "owner": {
     "name": "Spotify",
@@ -847,6 +847,22 @@
     {
       "added_at": "2025-05-09 06:00:11",
       "album": {
+        "name": "Creo en Mi",
+        "url": "https://open.spotify.com/album/1xNMuh0Swat8gcuKh09rs1"
+      },
+      "artists": [
+        {
+          "name": "Natalia Jim\u00e9nez",
+          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
+        }
+      ],
+      "duration_ms": 229373,
+      "name": "Creo en Mi",
+      "url": "https://open.spotify.com/track/4fSar1liXyxCK3lOcWHUE1"
+    },
+    {
+      "added_at": "2025-05-09 06:00:11",
+      "album": {
         "name": "Electricity",
         "url": "https://open.spotify.com/album/429B3se6xtZuvblNnS2iy7"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 238173,
       "name": "Electricity",
       "url": "https://open.spotify.com/track/5N4erncE7kuUccm7zEmwzk"
-    },
-    {
-      "added_at": "2025-05-09 06:00:11",
-      "album": {
-        "name": "Creo en Mi",
-        "url": "https://open.spotify.com/album/1xNMuh0Swat8gcuKh09rs1"
-      },
-      "artists": [
-        {
-          "name": "Natalia Jim\u00e9nez",
-          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
-        }
-      ],
-      "duration_ms": 229373,
-      "name": "Creo en Mi",
-      "url": "https://open.spotify.com/track/4fSar1liXyxCK3lOcWHUE1"
     },
     {
       "added_at": "2025-05-09 06:00:11",

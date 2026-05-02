@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-20",
-  "description": "\u207a\u2027\u208a\u02da \u0f50\u0f72A curated space for the avant-garde\u22c6\u0f4b\u0f80 \u02da\u208a\u2027\u207a Cover: IDHEM",
+  "description": "\u207a\u2027\u208a\u02da \u0f50\u0f72A curated space for the avant-garde\u22c6\u0f4b\u0f80 \u02da\u208a\u2027\u207a Cover: Jump Source",
   "name": "Proto-",
   "tracks": [
     {
@@ -1831,6 +1831,24 @@
     },
     {
       "album": {
+        "name": "All, i have,,,",
+        "url": "https://open.spotify.com/album/5CnJar5bY1ML8Ui2FuWVuH"
+      },
+      "artists": [
+        {
+          "name": "crxw",
+          "url": "https://open.spotify.com/artist/4fq1mvRMw3uj6YixUCDauv"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 529175,
+      "name": "All, i have,,,",
+      "url": "https://open.spotify.com/track/3THlNjQMTLqMqnLJ5y7aEt"
+    },
+    {
+      "album": {
         "name": "Alone",
         "url": "https://open.spotify.com/album/4jJbffKcrNxEqpruOmOKcJ"
       },
@@ -2943,6 +2961,24 @@
     },
     {
       "album": {
+        "name": "babygirl",
+        "url": "https://open.spotify.com/album/31CPIp0vMvr5UNB0xvnMiL"
+      },
+      "artists": [
+        {
+          "name": "JPEGMAFIA",
+          "url": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147491,
+      "name": "babygirl",
+      "url": "https://open.spotify.com/track/5ouETFDqJv0SQMzwKlQLlP"
+    },
+    {
+      "album": {
         "name": "Babylon",
         "url": "https://open.spotify.com/album/23A8uhcRtjZienf3cNLc0l"
       },
@@ -4030,7 +4066,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 209946,
       "name": "Bingo",
       "url": "https://open.spotify.com/track/1RgoyUyNhlDMX9FCb3f3Nt"
@@ -7261,6 +7297,24 @@
     },
     {
       "album": {
+        "name": "Ataxia",
+        "url": "https://open.spotify.com/album/5WebisF7O14pdbTWdbq4TU"
+      },
+      "artists": [
+        {
+          "name": "Eden FM",
+          "url": "https://open.spotify.com/artist/27UKaWqi4fjaBFY0sNmvNT"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230386,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/3Wesx48x9hpkJRDtJp7fdZ"
+    },
+    {
+      "album": {
         "name": "Coochie (a bedtime story)",
         "url": "https://open.spotify.com/album/2cQKZRfGU3kSnxyNCHZuiZ"
       },
@@ -8622,6 +8676,32 @@
       "duration_ms": 170827,
       "name": "DESPECH\u00c1 RMX",
       "url": "https://open.spotify.com/track/4CD623yLJVvKJxUyzaTqtC"
+    },
+    {
+      "album": {
+        "name": "Devoted / Curve",
+        "url": "https://open.spotify.com/album/19Ssa02PsG2lbPYSEoVc32"
+      },
+      "artists": [
+        {
+          "name": "Verses GT",
+          "url": "https://open.spotify.com/artist/4iJE0jzx9tLd3JE9TGhcpC"
+        },
+        {
+          "name": "Jacques Greene",
+          "url": "https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9"
+        },
+        {
+          "name": "Nosaj Thing",
+          "url": "https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241000,
+      "name": "Devoted",
+      "url": "https://open.spotify.com/track/4yOEO615mUhaovlWTI8hQc"
     },
     {
       "album": {
@@ -24041,6 +24121,24 @@
     },
     {
       "album": {
+        "name": "For Phonkz",
+        "url": "https://open.spotify.com/album/4RzcQTQigd92HrwyfGnON2"
+      },
+      "artists": [
+        {
+          "name": "Boston Jack",
+          "url": "https://open.spotify.com/artist/31igAAxYWBbCqghJpLGTIR"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 70400,
+      "name": "One Life",
+      "url": "https://open.spotify.com/track/5Oh4Eh39rwLzHlkuysaty7"
+    },
+    {
+      "album": {
         "name": "One Night/All Night",
         "url": "https://open.spotify.com/album/3ISYaclw23kCz3IZtn7koK"
       },
@@ -24821,6 +24919,32 @@
     },
     {
       "album": {
+        "name": "paradize (popo, Madior, ACHEL)",
+        "url": "https://open.spotify.com/album/6C4ImvAmDoRJYOexf1S0jM"
+      },
+      "artists": [
+        {
+          "name": "popo",
+          "url": "https://open.spotify.com/artist/58IlpGhEdlo7YPzyBW0BYF"
+        },
+        {
+          "name": "Madior",
+          "url": "https://open.spotify.com/artist/3cdwLYdGtZInbXDeKrFy2b"
+        },
+        {
+          "name": "ACHEL",
+          "url": "https://open.spotify.com/artist/6in022Z3USh3c6g4gTaljW"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172173,
+      "name": "paradize (popo, Madior, ACHEL)",
+      "url": "https://open.spotify.com/track/5w0O9KOCNuFHAged9JhBMo"
+    },
+    {
+      "album": {
         "name": "PRAYERS & PARANOIA",
         "url": "https://open.spotify.com/album/5l1Amt0Ll7yqnKEwxTE49R"
       },
@@ -25056,7 +25180,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 158000,
       "name": "PAYG",
       "url": "https://open.spotify.com/track/0lgxvRcbVVylxN9cli3WSi"
@@ -28794,6 +28918,40 @@
       "duration_ms": 205287,
       "name": "Shame On The Devil",
       "url": "https://open.spotify.com/track/6nEikEkWTXZ4SiZvUOAqND"
+    },
+    {
+      "album": {
+        "name": "Shattered / Affect",
+        "url": "https://open.spotify.com/album/56Zl1w8nl4BVYKoHddaq6H"
+      },
+      "artists": [
+        {
+          "name": "Jump Source",
+          "url": "https://open.spotify.com/artist/6fUBDklw2cffzrVU4phRKc"
+        },
+        {
+          "name": "Patrick Holland",
+          "url": "https://open.spotify.com/artist/0dns940bo2pILe1Flk0WH3"
+        },
+        {
+          "name": "Priori",
+          "url": "https://open.spotify.com/artist/76UMzIcqhjgf2Xr8gPdKO1"
+        },
+        {
+          "name": "Helena Deland",
+          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
+        },
+        {
+          "name": "Ross Meen",
+          "url": "https://open.spotify.com/artist/7CXbFIOsm6PhB8gVtLXdbM"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331346,
+      "name": "Shattered (feat. Helena Deland & Ross Meen)",
+      "url": "https://open.spotify.com/track/00wXAYLSualHDbHXFtf1uG"
     },
     {
       "album": {
@@ -33447,6 +33605,28 @@
     },
     {
       "album": {
+        "name": "THRILL OF IT",
+        "url": "https://open.spotify.com/album/2Aum1VLewyn7h7XOedOWlm"
+      },
+      "artists": [
+        {
+          "name": "GUTTA",
+          "url": "https://open.spotify.com/artist/4qWWBqcNfhynsJRbZz5CRG"
+        },
+        {
+          "name": "DJ Sliink",
+          "url": "https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144888,
+      "name": "THRILL OF IT",
+      "url": "https://open.spotify.com/track/2iB9QoYc0KfVQa01UzjMU2"
+    },
+    {
+      "album": {
         "name": "Through The Pain (feat. Pozer)",
         "url": "https://open.spotify.com/album/10jaP6iO7YACKWJrrChMm2"
       },
@@ -33618,6 +33798,28 @@
       "duration_ms": 188002,
       "name": "Tiptoeing - Tommy Villiers Remix",
       "url": "https://open.spotify.com/track/55FIIN6xVEjOIEheCmdV9K"
+    },
+    {
+      "album": {
+        "name": "Tiroteo",
+        "url": "https://open.spotify.com/album/0mNAQrOqBedUsrgonzxGmp"
+      },
+      "artists": [
+        {
+          "name": "Daniela Lalita",
+          "url": "https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds"
+        },
+        {
+          "name": "Mura Masa",
+          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137480,
+      "name": "Tiroteo",
+      "url": "https://open.spotify.com/track/1KaBfgt21SXIoIdkmCVSvH"
     },
     {
       "album": {
@@ -33826,6 +34028,24 @@
       "duration_ms": 163310,
       "name": "Touch\u00e9",
       "url": "https://open.spotify.com/track/3kjBpFB5bLhWWC1OTJhMMU"
+    },
+    {
+      "album": {
+        "name": "toute ma life",
+        "url": "https://open.spotify.com/album/0OyUYXUdXu7veuRMXDL0XI"
+      },
+      "artists": [
+        {
+          "name": "HALO",
+          "url": "https://open.spotify.com/artist/7xWSJDc5wUpKp4jxGEKNSk"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "toute ma life",
+      "url": "https://open.spotify.com/track/0KFFURrevth6HVSyFPUrEE"
     },
     {
       "album": {
@@ -34322,6 +34542,24 @@
       "duration_ms": 191286,
       "name": "U R MINE",
       "url": "https://open.spotify.com/track/4YEO6mWhEWenkXqbLL0ZIy"
+    },
+    {
+      "album": {
+        "name": "dorndom",
+        "url": "https://open.spotify.com/album/0kyiFctjx0VzZd64QS8G0U"
+      },
+      "artists": [
+        {
+          "name": "Ivan Dorn",
+          "url": "https://open.spotify.com/artist/1VZ1TofaV3kj90QJSdg6NG"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289072,
+      "name": "Ulichnaya Percussiya",
+      "url": "https://open.spotify.com/track/4Jv7g0vgkMS02nFgPoPK8A"
     },
     {
       "album": {

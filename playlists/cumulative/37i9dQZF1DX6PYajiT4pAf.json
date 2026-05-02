@@ -82749,6 +82749,24 @@
     },
     {
       "album": {
+        "name": "Hoy por ayer",
+        "url": "https://open.spotify.com/album/46B8dr0mR3NA6CKQgBOhe6"
+      },
+      "artists": [
+        {
+          "name": "Ivan Ferreiro",
+          "url": "https://open.spotify.com/artist/3qUrABCNqnkb5gc2YmPVzP"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264093,
+      "name": "Reiniciar",
+      "url": "https://open.spotify.com/track/3Cd2ZwQy5fmrayFSMN7u8Q"
+    },
+    {
+      "album": {
         "name": "Release The Pressure",
         "url": "https://open.spotify.com/album/3mFlg0trNYSCnTd0RcN0wx"
       },
@@ -98545,42 +98563,6 @@
     },
     {
       "album": {
-        "name": "VAIV\u00c9N",
-        "url": "https://open.spotify.com/album/1C41EPQfvbBY7W6nzGpYPB"
-      },
-      "artists": [
-        {
-          "name": "Salistre",
-          "url": "https://open.spotify.com/artist/7cwETpw63qjveV8UjEHds0"
-        }
-      ],
-      "date_added": "2026-05-01",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/6TqRBg4yCqS1G0tVYaVbM9"
-    },
-    {
-      "album": {
-        "name": "Hoy por ayer",
-        "url": "https://open.spotify.com/album/46B8dr0mR3NA6CKQgBOhe6"
-      },
-      "artists": [
-        {
-          "name": "Ivan Ferreiro",
-          "url": "https://open.spotify.com/artist/3qUrABCNqnkb5gc2YmPVzP"
-        }
-      ],
-      "date_added": "2026-05-01",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 3",
-      "url": "https://open.spotify.com/track/3Cd2ZwQy5fmrayFSMN7u8Q"
-    },
-    {
-      "album": {
         "name": "Monica",
         "url": "https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES"
       },
@@ -102936,6 +102918,24 @@
       "duration_ms": 198621,
       "name": "Vacas y Lobos",
       "url": "https://open.spotify.com/track/5wJBwxnoAs1BmxZivpFqup"
+    },
+    {
+      "album": {
+        "name": "VAIV\u00c9N",
+        "url": "https://open.spotify.com/album/1C41EPQfvbBY7W6nzGpYPB"
+      },
+      "artists": [
+        {
+          "name": "Salistre",
+          "url": "https://open.spotify.com/artist/7cwETpw63qjveV8UjEHds0"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148017,
+      "name": "VAIV\u00c9N",
+      "url": "https://open.spotify.com/track/6TqRBg4yCqS1G0tVYaVbM9"
     },
     {
       "album": {

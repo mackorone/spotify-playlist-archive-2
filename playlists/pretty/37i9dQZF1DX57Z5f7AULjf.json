@@ -1,6 +1,6 @@
 {
   "description": "we outside all summer 2026!",
-  "num_followers": 10597,
+  "num_followers": 10613,
   "original_name": "We Outside!",
   "owner": {
     "name": "Spotify",
@@ -321,6 +321,22 @@
       "url": "https://open.spotify.com/track/3XgGQ1wjo5khvq2UImjyNF"
     },
     {
+      "added_at": "2024-05-16 21:55:50",
+      "album": {
+        "name": "Whatever She Wants",
+        "url": "https://open.spotify.com/album/60s0PMYFJhe34io9HuyUXf"
+      },
+      "artists": [
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "duration_ms": 161342,
+      "name": "Whatever She Wants",
+      "url": "https://open.spotify.com/track/57wp7VFnV8X0pSVnYArGeJ"
+    },
+    {
       "added_at": "2023-06-16 05:16:25",
       "album": {
         "name": "Made In Lagos",
@@ -339,22 +355,6 @@
       "duration_ms": 249033,
       "name": "Essence (feat. Tems)",
       "url": "https://open.spotify.com/track/5FG7Tl93LdH117jEKYl3Cm"
-    },
-    {
-      "added_at": "2024-05-16 21:55:50",
-      "album": {
-        "name": "Whatever She Wants",
-        "url": "https://open.spotify.com/album/60s0PMYFJhe34io9HuyUXf"
-      },
-      "artists": [
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
-        }
-      ],
-      "duration_ms": 161342,
-      "name": "Whatever She Wants",
-      "url": "https://open.spotify.com/track/57wp7VFnV8X0pSVnYArGeJ"
     },
     {
       "added_at": "2023-10-21 17:22:38",
@@ -885,20 +885,36 @@
       "url": "https://open.spotify.com/track/3yKgOMlm0LFpm9T2AhGWJJ"
     },
     {
-      "added_at": "2023-10-21 17:22:38",
+      "added_at": "2025-08-01 02:12:09",
       "album": {
-        "name": "Ayo",
-        "url": "https://open.spotify.com/album/3K4CaKaEcLuJkJZ3lATzrq"
+        "name": "Gang Gang (feat. Rosecrans HopOut, YS, PhoPho8ight & Hitta J3)",
+        "url": "https://open.spotify.com/album/6ZV8jcdIqNa0py7I6w1UzT"
       },
       "artists": [
         {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+          "name": "Chef Boy",
+          "url": "https://open.spotify.com/artist/0y9JScMVVW8sk3UoLZA3hj"
+        },
+        {
+          "name": "YS",
+          "url": "https://open.spotify.com/artist/40jihEUOTuy5WTQDUTsZCN"
+        },
+        {
+          "name": "Hitta J3",
+          "url": "https://open.spotify.com/artist/50DchbKTiJU56SYmIRSJCI"
+        },
+        {
+          "name": "Rosecrans HopOut",
+          "url": "https://open.spotify.com/artist/7AUJ5xjiZaLesT26mrZG8M"
+        },
+        {
+          "name": "PHOPHO8IGHT",
+          "url": "https://open.spotify.com/artist/43exFSfUqMqp3nlCLSQVwu"
         }
       ],
-      "duration_ms": 216242,
-      "name": "Ojuelegba",
-      "url": "https://open.spotify.com/track/1AtBzcUzKLh4BGwXhFA9K6"
+      "duration_ms": 227184,
+      "name": "Gang Gang (feat. Rosecrans HopOut, YS, PhoPho8ight & Hitta J3)",
+      "url": "https://open.spotify.com/track/05LySLBjyDruvbSPL3K7Gb"
     },
     {
       "added_at": "2025-07-11 07:49:15",

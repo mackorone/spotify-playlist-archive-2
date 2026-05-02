@@ -1225,6 +1225,28 @@
     },
     {
       "album": {
+        "name": "EL BAIFO",
+        "url": "https://open.spotify.com/album/7a8QhNYgKmcaulK82zQjR5"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        },
+        {
+          "name": "Nueva L\u00ednea",
+          "url": "https://open.spotify.com/artist/0znHeiocrsC2Bj33L7FBzM"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207734,
+      "name": "AL GOLPITO",
+      "url": "https://open.spotify.com/track/6LD1tYOKReFqZh5ZdCdxIz"
+    },
+    {
+      "album": {
         "name": "ALAMBRE P\u00faA",
         "url": "https://open.spotify.com/album/2Pw1HHDNXsOhHnhcRc6TwM"
       },
@@ -20026,7 +20048,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 146460,
       "name": "QLOO*",
       "url": "https://open.spotify.com/track/7CMj1OOS1ho4CPEQTFKzcN"
@@ -21534,6 +21556,28 @@
       "duration_ms": 181354,
       "name": "Salimo en Caravana",
       "url": "https://open.spotify.com/track/7aPZrVHFSZrcWakHCNn9Fx"
+    },
+    {
+      "album": {
+        "name": "Sal\u00ed a Robarte Corazones",
+        "url": "https://open.spotify.com/album/7tGolNAewn8Gt1XM1wcYRX"
+      },
+      "artists": [
+        {
+          "name": "Lauta",
+          "url": "https://open.spotify.com/artist/5ELYwDwhy00ecTXhfsKWci"
+        },
+        {
+          "name": "Tote",
+          "url": "https://open.spotify.com/artist/4JvhKLSrtJy7jAWYaatd64"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148635,
+      "name": "Sal\u00ed a Robarte Corazones",
+      "url": "https://open.spotify.com/track/1bPLxk9QsQqczKkJZJ7Inj"
     },
     {
       "album": {
@@ -25384,7 +25428,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 153127,
       "name": "Tus Ojos No Me Ven | Variet\u00e9 #6",
       "url": "https://open.spotify.com/track/1cEfhLQvKy9n02yhmK076x"

@@ -2,9 +2,9 @@
 
 ### [Christian Rock Hits](https://open.spotify.com/playlist/37i9dQZF1DX06wYNNUR5t6)
 
-> Recent hits from all your favorite Christian Rock artists!  Cover: Emerson Day
+> Recent hits from all your favorite Christian Rock artists!  Cover: Seventh Day Slumber
 
-108 songs - 6 hr 51 min
+109 songs - 6 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [DARKNESS BEFORE THE DAWN!](https://open.spotify.com/track/7fYPGeh5sIKyH2LXTZBTP6) | [Caleb Hyles](https://open.spotify.com/artist/6jDwZUFYUH1dC4xWzOd8QU), [Lacey Sturm](https://open.spotify.com/artist/09LCTrVGnMsGbxexUFJoap), [Wolves At The Gate](https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6), [Judge & Jury](https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB) | [DARKNESS BEFORE THE DAWN!](https://open.spotify.com/album/2ZwtqxX23LK900g6vu1p3H) | 3:11 | 2024-07-04 |  |
 | [Deep Waters](https://open.spotify.com/track/2qEla8ZQF3FN5l5ay89J9m) | [Adelaide](https://open.spotify.com/artist/69GrMdd7iMIjeRJxxJJ1nl) | [Strong and Brave](https://open.spotify.com/album/2qqoxqSsHfSYeKf3VzYdWM) | 3:24 | 2021-04-10 |  |
 | [Driftwood](https://open.spotify.com/track/2qLPxnOjFHilVIrZXZtMWQ) | [The Classic Crime](https://open.spotify.com/artist/4Y2ImQoh83EyhkbaJXmJr1) | [How to Be Human](https://open.spotify.com/album/6J9gRf2PpJL4pDsV5XwANi) | 4:21 | 2021-04-10 | 2024-11-30 |
-| [Drive](https://open.spotify.com/track/1TBujZFt2bUwq7Vy7AsiUK) | [Archers Rise](https://open.spotify.com/artist/6ApaGLSpdoD84Z3g7pKIi4) | [Drive](https://open.spotify.com/album/6EDV8HpxLYt7LWbqFMr6th) | 4:40 | 2021-04-10 |  |
+| [Drive](https://open.spotify.com/track/1TBujZFt2bUwq7Vy7AsiUK) | [Archers Rise](https://open.spotify.com/artist/6ApaGLSpdoD84Z3g7pKIi4) | [Drive](https://open.spotify.com/album/6EDV8HpxLYt7LWbqFMr6th) | 4:40 | 2021-04-10 | 2026-05-02 |
 | [Drown](https://open.spotify.com/track/7gZyVkRZKKmouF54ccQ5Pi) | [Zahna](https://open.spotify.com/artist/0HvsF5I55057H9hTIkn60F) | [Red For War](https://open.spotify.com/album/4N8Wt08zGOXDRC9wyoTm1Z) | 3:27 | 2021-04-10 |  |
 | [Echoes](https://open.spotify.com/track/0iQa0axJxOqA5vlCSV3app) | [Ignite the Fire](https://open.spotify.com/artist/4xqGhP2gUWyaMMHqPU3UHj) | [Between Shadow and Solace](https://open.spotify.com/album/2IF2CZ13oq1wK51AXr0Lt6) | 4:24 | 2021-04-10 | 2025-04-05 |
 | [End of Days](https://open.spotify.com/track/40H69bQi9Mdu6TMGPXYreU) | [Stryper](https://open.spotify.com/artist/6lE1ly8K8H7u8k2ej2plvv) | [End of Days](https://open.spotify.com/album/4K5N1UTXyYcrFPmRwM9wqc) | 4:20 | 2024-07-04 | 2024-11-30 |
@@ -106,6 +106,7 @@
 | [Too Late](https://open.spotify.com/track/2HdXs8oiSI2I3K65sPg1WS) | [Amongst the Giants](https://open.spotify.com/artist/12rJfJCwHnKC7VuuLk9xtJ) | [Obscene](https://open.spotify.com/album/0lzEISCPcYEJ78E1qxWGQm) | 3:08 | 2021-04-10 |  |
 | [Victory](https://open.spotify.com/track/3tiumLzoEO3girnNu45ohv) | [DaysEye](https://open.spotify.com/artist/5xXNSdXlFulKXyuOxHeIwW) | [Victory](https://open.spotify.com/album/16G3IromCnZSKdlOsdttXe) | 3:25 | 2021-04-10 | 2024-04-19 |
 | [Victory](https://open.spotify.com/track/5ddlzv2lJ7jCNfkVbqVtfc) | [DaysEye](https://open.spotify.com/artist/5xXNSdXlFulKXyuOxHeIwW) | [Victory](https://open.spotify.com/album/5tKOZ7U2T3ELxL5v1NLmJx) | 3:25 | 2021-04-10 | 2025-10-07 |
+| [Wake Up, Mr\. Crow](https://open.spotify.com/track/0grUF97drgnU62EI7jpN4x) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu) | [Wake Up, Mr\. Crow](https://open.spotify.com/album/41Q8Mjdp8pXFoYmJItNgFb) | 4:05 | 2026-05-01 |  |
 | [Watched You Fall](https://open.spotify.com/track/7rKUQ1D1k7T3jVg6rZ8nTn) | [Collision of Innocence](https://open.spotify.com/artist/35wkX6HAVNXCsDF79SnoGc) | [Watched You Fall](https://open.spotify.com/album/2Z6QJuv2hBn7AwUDepHTPs) | 3:33 | 2021-04-10 |  |
 | [What Are You Waiting For](https://open.spotify.com/track/0Nu0KWmS8h2QRV2vhCzE3S) | [Futur](https://open.spotify.com/artist/4Z9WYkdvygjmT03fH7syx9) | [What Are You Waiting For](https://open.spotify.com/album/5FFS881QSIWbv9oxbAMFK9) | 3:19 | 2025-08-04 |  |
 | [When Everything Means Nothing](https://open.spotify.com/track/20dil44lFapp6oNBfCQlif) | [Fit For A King](https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx) | [Dark Skies](https://open.spotify.com/album/73AvGSgwYiht6qw4p7LmLc) | 3:51 | 2021-04-10 | 2024-07-04 |

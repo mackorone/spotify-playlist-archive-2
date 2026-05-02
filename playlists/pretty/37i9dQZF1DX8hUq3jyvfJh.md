@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Ouça Maria Bethânia e mais mulheres incríveis no volume máximo! Co\-curado por <a href="spotify:artist:3f5VCwd57gZsqMad28jyLV">Maria Bethânia</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,160 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,180 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 24 | [Saudade](https://open.spotify.com/track/5in3nRFCJm8bUV8Twa561Z) | [Bruna Black](https://open.spotify.com/artist/4XT8kTR1AgQzXS7ggdYPDX), [Juliana Linhares](https://open.spotify.com/artist/2TYSLpy17fec9NRzbtfsof) | [Fulorá](https://open.spotify.com/album/4QUe4PqEDYYiK21Z7Kwu3v) | 3:53 |
 | 25 | [Meu Poeta](https://open.spotify.com/track/5KUKKu3icCNFq4VnzxC0hH) | [Marina Lima](https://open.spotify.com/artist/28IcRPf399RPv4TUiZ7uol) | [Ópera Grunkie](https://open.spotify.com/album/1W3vMj7OmKb8SwdiHwpHfK) | 3:43 |
 | 26 | [Xote Destino](https://open.spotify.com/track/6T1CDe3leBfSnWK1fvr1Bx) | [Mariana Aydar](https://open.spotify.com/artist/3rE82NMVBb5C5tQ83o8u8N) | [Xote Destino](https://open.spotify.com/album/48k0NmZpRSAlrqgcMeFHbn) | 3:42 |
-| 27 | [Tatuagem](https://open.spotify.com/track/2vmXFXcr44JSrZ1MpgWLRa) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8) | [Falso Brilhante](https://open.spotify.com/album/18p3b48JyIK5XY90JmWxET) | 4:22 |
-| 28 | [Manha De Carnaval](https://open.spotify.com/track/1IF4NYiVd71yfaPicrYkMn) | [Elizeth Cardoso](https://open.spotify.com/artist/5w4qi7KMTWcV7sgXgVoPwW) | [Black Orpheus \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5b2ozEvPDWvXiq98K3whfc) | 2:57 |
+| 27 | [Manha De Carnaval](https://open.spotify.com/track/1IF4NYiVd71yfaPicrYkMn) | [Elizeth Cardoso](https://open.spotify.com/artist/5w4qi7KMTWcV7sgXgVoPwW) | [Black Orpheus \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5b2ozEvPDWvXiq98K3whfc) | 2:57 |
+| 28 | [Tatuagem](https://open.spotify.com/track/2vmXFXcr44JSrZ1MpgWLRa) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8) | [Falso Brilhante](https://open.spotify.com/album/18p3b48JyIK5XY90JmWxET) | 4:22 |
 | 29 | [Outra Ladeira](https://open.spotify.com/track/5gIgIaEdMyjICEGdPQMUMT) | [Letícia Fialho](https://open.spotify.com/artist/31ZnPMG6ywDdaBMnn1qkpN) | [Outra Ladeira](https://open.spotify.com/album/20BXK1rBXqmb43DSFfR3Im) | 3:48 |
 | 30 | [Modinha Para Gabriela](https://open.spotify.com/track/5b1lbWCyBEL3u0tSmgvkUb) | [Alice Caymmi](https://open.spotify.com/artist/3ExGkIKgqWpIr2hr0nepRp) | [Modinha Para Gabriela](https://open.spotify.com/album/584hYWVxQ6cb94MFXKWkxv) | 3:51 |
 | 31 | [Coração Melão](https://open.spotify.com/track/5samMlRFxbQbnYhSGEw5r1) | [Iuna Falcão](https://open.spotify.com/artist/3j3isTW06zLzcrST7xWt9N), [Núbia](https://open.spotify.com/artist/3CdN4b9reGAZYsPlbB3pTW) | [Umami](https://open.spotify.com/album/0DyNe2AEPsriNVpY5YGjDG) | 4:18 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 40 | [Voltei](https://open.spotify.com/track/6mPPoDXnKWGTXz5e7VI0s7) | [Alulu Paranhos](https://open.spotify.com/artist/2MgLL5LN6URJwfdr0NGDrW) | [Põe Esperança Nisso](https://open.spotify.com/album/6CC7VWHHDS4sPvo9f60zNA) | 2:09 |
 | 41 | [Lá Vem Você](https://open.spotify.com/track/3zzcfYi62uc81Vkoc89kbD) | [Magi](https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy), [Bruna Magalhães](https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p) | [Lá Vem Você](https://open.spotify.com/album/0dSPkm4Rd4YwrMt8f75yiv) | 2:25 |
 | 42 | [Louca Me Chamam \(Crazy He Call's Me\)](https://open.spotify.com/track/1PRgQsAd2MJaCKuD3bUhUz) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Caras E Bocas](https://open.spotify.com/album/73gyxoh7akWRRrv78uJC1o) | 3:29 |
-| 43 | [Na Linha Do Mar](https://open.spotify.com/track/3z230YvqImYt9p39Vc7Mkp) | [Clementina De Jesus](https://open.spotify.com/artist/0tWtrXx0eO52k40JMojM0j) | [Marinheiro So](https://open.spotify.com/album/5KLXL6l0NXxoqmVTvzaFyU) | 3:17 |
-| 44 | [Besta](https://open.spotify.com/track/1OsiHpk6nTYGHMPRhwfAud) | [Bruna Alimonda](https://open.spotify.com/artist/44RE6rRGC9GinmWmlStjng) | [Besta](https://open.spotify.com/album/4AJK2ki88LpMNnUcTJoIEK) | 3:01 |
+| 43 | [Besta](https://open.spotify.com/track/1OsiHpk6nTYGHMPRhwfAud) | [Bruna Alimonda](https://open.spotify.com/artist/44RE6rRGC9GinmWmlStjng) | [Besta](https://open.spotify.com/album/4AJK2ki88LpMNnUcTJoIEK) | 3:01 |
+| 44 | [Na Linha Do Mar](https://open.spotify.com/track/3z230YvqImYt9p39Vc7Mkp) | [Clementina De Jesus](https://open.spotify.com/artist/0tWtrXx0eO52k40JMojM0j) | [Marinheiro So](https://open.spotify.com/album/5KLXL6l0NXxoqmVTvzaFyU) | 3:17 |
 | 45 | [Jurema do Mar](https://open.spotify.com/track/1MgxzC2nIvg5yn7r4ZUp8U) | [Elisa de Sena](https://open.spotify.com/artist/33l16BPoMAO3bgHH54VLaq), [Luísa de Paula](https://open.spotify.com/artist/3gOX962N98bUrNldMPsb5r) | [Orgânica](https://open.spotify.com/album/1REY8480gnFg0pxEDocOL2) | 3:49 |
 | 46 | [Trocando Em Miúdos](https://open.spotify.com/track/2AMts0GdmjrYkEGDmYOql9) | [Nara Leão](https://open.spotify.com/artist/64KVQ4YupSZYrGNLduVtj3) | [Com Açúcar Com Afeto](https://open.spotify.com/album/0zUlPiXAZDYDJiirhBr4MR) | 2:16 |
 | 47 | [Há Um Deus](https://open.spotify.com/track/1TdEwIEm1vXjws74SWjyr6) | [Dalva De Oliveira](https://open.spotify.com/artist/5dwu0jLFd2fRnlY8UUJIVk) | [Grossas Nuvens De Amor](https://open.spotify.com/album/3ity1YDXey1PBfyNRden12) | 2:45 |

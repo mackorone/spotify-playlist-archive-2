@@ -1,6 +1,6 @@
 {
   "description": "Editor's picks of freshest Pakistani discoveries you need to listen to. Cover: Hamzay",
-  "num_followers": 11236,
+  "num_followers": 11241,
   "original_name": "Fresh Finds Pakistan",
   "owner": {
     "name": "Spotify",
@@ -39,6 +39,30 @@
       "duration_ms": 179294,
       "name": "Uraan",
       "url": "https://open.spotify.com/track/0IblAZHmyWiE86j452xiJf"
+    },
+    {
+      "added_at": "2026-05-01 03:00:03",
+      "album": {
+        "name": "Fayda",
+        "url": "https://open.spotify.com/album/7aJXXrwEZBOAOkpzOkjspL"
+      },
+      "artists": [
+        {
+          "name": "Muheet Khan",
+          "url": "https://open.spotify.com/artist/7JJ5y1QW0tDTlc3ZjKbcE9"
+        },
+        {
+          "name": "Illuminhadi",
+          "url": "https://open.spotify.com/artist/5XAv2ZKaRm5PHhWAMFFkSf"
+        },
+        {
+          "name": "NVY",
+          "url": "https://open.spotify.com/artist/1NcRcMDkVhDDwtHF53VfSa"
+        }
+      ],
+      "duration_ms": 210955,
+      "name": "Fayda",
+      "url": "https://open.spotify.com/track/28CgqEgrrzneWi1DjDZNmp"
     },
     {
       "added_at": "2026-05-01 03:00:03",

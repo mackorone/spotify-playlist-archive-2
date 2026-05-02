@@ -4,7 +4,7 @@
 
 > Hot & new K\-Drama OSTs are here! \(Cover: 21세기 대군부인 \(Perfect Crown\)\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\)
 
-1,204 songs - 3 day 0 hr 47 min
+1,205 songs - 3 day 0 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -687,6 +687,7 @@
 | [My Dream, My Love](https://open.spotify.com/track/2XU6mwelJymDUz2WfYv6xi) | [Onestar](https://open.spotify.com/artist/6EmgTIhhXGtfAmYYTfdtlz) | [The Queen Who Crowns OST Part.3](https://open.spotify.com/album/2R22prFpAEhkn5unRy3buY) | 4:43 | 2025-01-31 | 2025-08-06 |
 | [My Everyday Is You](https://open.spotify.com/track/4qoWXxOGpV2DjxHyT6kpJ6) | [Kim Sung Kyu](https://open.spotify.com/artist/56mV6FhCrg12O6mOTLxo73) | [Stock Struck \(Original Television Soundtrack\), Pt.1](https://open.spotify.com/album/2Tcyhy7lWJUettMvfD43VJ) | 3:14 | 2022-08-25 | 2023-01-04 |
 | [My Everything \(No tail to tell : Original Television Soundtrack\)](https://open.spotify.com/track/1negzVGIRghZywPVjet800) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [No tail to tell, Pt\. 5 \(Original Soundtrack\)](https://open.spotify.com/album/4aCGiE1wFdwmArcZPrZc9g) | 4:36 | 2026-02-10 |  |
+| [My Favorite Part](https://open.spotify.com/track/5dIOCXso34DrUcMSYl9oCc) | [So Soo Bin](https://open.spotify.com/artist/5ghNwcHNesKq0Q3zfK39ic) | [Perfect Crown OST Part.7](https://open.spotify.com/album/6CvlT4A9KaR3R9lEsBrIf2) | 2:43 | 2026-05-01 |  |
 | [My finale](https://open.spotify.com/track/5SaJdsKgDB7WxEDIETLuic) | [SeungHee](https://open.spotify.com/artist/1kTabwjnM8SrHC9SNQRjZU) | [The Fabulous, Pt\. 3 \(Original Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1sQk4dmcMGYk4OskjgQlPe) | 3:15 | 2023-01-03 | 2023-03-28 |
 | [My Flower My Love](https://open.spotify.com/track/32XAGLYqJuX0T4LbQBxlyY) | [Yun DDanDDan](https://open.spotify.com/artist/0fnx3yyvXH5E0UATpygzzt) | [Sing in the Green Part 2](https://open.spotify.com/album/6odMFbITebQbEDoU7VYmad) | 4:17 | 2022-09-05 | 2023-01-04 |
 | [My Heart](https://open.spotify.com/track/62DVr5HPrKmJCK4kgBHQjw) | [Say Sue Me](https://open.spotify.com/artist/4tvbo17gXpYgSr8sTlkaby) | [YUMI's Cells, Pt\. 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/5Q2z3imJ8bbrXqeV7y7wEx) | 3:30 | 2021-12-19 | 2022-01-15 |

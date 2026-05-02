@@ -254,7 +254,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 244000,
       "name": "AIN'T NOBODY",
       "url": "https://open.spotify.com/track/5WikCHR54A4ZJBkUOwgiMm"
@@ -696,7 +696,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 200124,
       "name": "Any Kind Of Music (I Love)",
       "url": "https://open.spotify.com/track/5mqMbGUrqPn4dEEHiK5Loy"
@@ -1716,6 +1716,24 @@
       "duration_ms": 186666,
       "name": "BONKERS",
       "url": "https://open.spotify.com/track/0xttlPnsPJBbasq9fzDlzH"
+    },
+    {
+      "album": {
+        "name": "boogie",
+        "url": "https://open.spotify.com/album/6elevxZuIgbz2X4yseumaT"
+      },
+      "artists": [
+        {
+          "name": "ROLCAT",
+          "url": "https://open.spotify.com/artist/2EhTu0Kp5obWKAVNPbCe7W"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240937,
+      "name": "boogie",
+      "url": "https://open.spotify.com/track/4w6sqj4tT3bJJCjSomJj9m"
     },
     {
       "album": {
@@ -5465,6 +5483,44 @@
     },
     {
       "album": {
+        "name": "Groovejet (If This Ain\u2019t Love) [not without friends Remix]",
+        "url": "https://open.spotify.com/album/5eQfhNNii4T8pMQebfhrpF"
+      },
+      "artists": [
+        {
+          "name": "Spiller",
+          "url": "https://open.spotify.com/artist/4bmymFwDu9zLCiTRUmrewb"
+        },
+        {
+          "name": "not without friends",
+          "url": "https://open.spotify.com/artist/2KAgMiCIqPHTA04WRNrhWg"
+        },
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        },
+        {
+          "name": "Luke Alessi",
+          "url": "https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp"
+        },
+        {
+          "name": "Jordan Brando",
+          "url": "https://open.spotify.com/artist/1LvEV4mvbTOdntchECXeAO"
+        },
+        {
+          "name": "William Kiss",
+          "url": "https://open.spotify.com/artist/2AI2RMWWeOAhkMhrQgxyNx"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180362,
+      "name": "Groovejet (If This Ain\u2019t Love) - not without friends Remix",
+      "url": "https://open.spotify.com/track/6yb14tUTLWfBStXgcQJbPV"
+    },
+    {
+      "album": {
         "name": "Hands",
         "url": "https://open.spotify.com/album/44xvwDapMZ387AQbNoBSGW"
       },
@@ -7149,6 +7205,28 @@
     },
     {
       "album": {
+        "name": "Inside Of Me",
+        "url": "https://open.spotify.com/album/0qRVckLxIAPUxv3XmgDOHY"
+      },
+      "artists": [
+        {
+          "name": "Marco Faraone",
+          "url": "https://open.spotify.com/artist/00IUMN7pWAU2jYWcdOt5c3"
+        },
+        {
+          "name": "Ejeca",
+          "url": "https://open.spotify.com/artist/0tSC9Vot7WlR1MsLBqQ9HX"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153461,
+      "name": "Inside of Me",
+      "url": "https://open.spotify.com/track/641hz8g6Sb6ng14V1we78Y"
+    },
+    {
+      "album": {
         "name": "Int'l Swayers Anthem",
         "url": "https://open.spotify.com/album/3c3zrwLoOqY2god9LfWWaU"
       },
@@ -8058,6 +8136,24 @@
       "duration_ms": 174000,
       "name": "Let's Go!",
       "url": "https://open.spotify.com/track/6MomDISbOEnUQARwoiBPgF"
+    },
+    {
+      "album": {
+        "name": "Let's Start The Dance",
+        "url": "https://open.spotify.com/album/6U7hHAxmlpEW9PvCph6Awu"
+      },
+      "artists": [
+        {
+          "name": "Lenny Fontana",
+          "url": "https://open.spotify.com/artist/521nTtJSsyAThC14TGE1DF"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191903,
+      "name": "Let's Start The Dance",
+      "url": "https://open.spotify.com/track/1rXxfCI9nrQ0vAvQjmxO3x"
     },
     {
       "album": {
@@ -9510,7 +9606,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 205518,
       "name": "Missin You (feat. Nicollette Sullivan)",
       "url": "https://open.spotify.com/track/3hAbw6kMPCd1x5KC1lvGsF"
@@ -14536,7 +14632,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 171923,
       "name": "Time Never Stops (with Yung Bae)",
       "url": "https://open.spotify.com/track/3KsqGmLA8hPcf143S7DP5T"
@@ -15699,6 +15795,24 @@
     },
     {
       "album": {
+        "name": "You",
+        "url": "https://open.spotify.com/album/4yER0vsw16uiqz6BcUzhaB"
+      },
+      "artists": [
+        {
+          "name": "Max Tyler",
+          "url": "https://open.spotify.com/artist/4D3wGBskmwUOYEPdiYD88I"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151368,
+      "name": "You",
+      "url": "https://open.spotify.com/track/6YEIN71cZQa8u2Lt9AYcHc"
+    },
+    {
+      "album": {
         "name": "You Ain't Breakin' My Heart",
         "url": "https://open.spotify.com/album/4qL5uXQEy6yuUK33mbCMIL"
       },
@@ -15970,7 +16084,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 163593,
       "name": "Your Lovin'",
       "url": "https://open.spotify.com/track/0o0tw9hDkFLvgwu25iXGIx"

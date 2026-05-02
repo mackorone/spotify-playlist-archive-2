@@ -4,7 +4,7 @@
 
 > Chill techno, melodic house and tech house.
 
-780 songs - 3 day 0 hr 54 min
+781 songs - 3 day 0 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Arena](https://open.spotify.com/track/76CKJfYgZ17WZn6HQHszxT) | [Teho](https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO) | [Polytone](https://open.spotify.com/album/0LSCZqG1dAwWKeBqDvmiTh) | 6:15 | 2020-02-29 | 2021-10-14 |
 | [Articulation](https://open.spotify.com/track/1yVxLul2a4s6icKnMJsb93) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Articulation](https://open.spotify.com/album/5gI4vXb0TDc2vW0VVZIELj) | 6:30 | 2020-06-12 | 2021-05-28 |
 | [As We Roll](https://open.spotify.com/track/0wtVKPi0ctiZTlntlHjxLM) | [Peer Kusiv](https://open.spotify.com/artist/0yTV2etph4xN8PXPLPeEG5), [Diana Miro](https://open.spotify.com/artist/7HKB2dr6EceAJM8xRlXYlK) | [As We Roll](https://open.spotify.com/album/4L6AsmCj0aKipkcfA4Ug1d) | 6:52 | 2021-12-17 | 2022-07-28 |
-| [Ascension](https://open.spotify.com/track/6Gi53jMV1JLVFYOS2iywxA) | [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp), [Volen Sentir](https://open.spotify.com/artist/7scXA3hBD8JyGGajVR9q9l) | [Ascension](https://open.spotify.com/album/6mhiuF8VWrCnXFyX8UpPVS) | 4:04 | 2024-10-25 |  |
+| [Ascension](https://open.spotify.com/track/6Gi53jMV1JLVFYOS2iywxA) | [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp), [Volen Sentir](https://open.spotify.com/artist/7scXA3hBD8JyGGajVR9q9l) | [Ascension](https://open.spotify.com/album/6mhiuF8VWrCnXFyX8UpPVS) | 4:04 | 2024-10-25 | 2026-05-02 |
 | [Ashes in Paradise](https://open.spotify.com/track/2aa3mL5s2oZ5Z8irf9lDoI) | [Lauren Mia](https://open.spotify.com/artist/5HWKpmCYAFYybu5WKtxnnq) | [Ashes in Paradise](https://open.spotify.com/album/0GTW43ocEzYd18jSbdNU8z) | 6:30 | 2023-11-27 | 2024-06-22 |
 | [Asiri](https://open.spotify.com/track/4bdbWkbYxmGDOA7jLq5DdA) | [Joep Mencke](https://open.spotify.com/artist/0GapyFJVUjxdA2a4NlnhRm) | [Asiri](https://open.spotify.com/album/77PSTw3UsjsWTcxfgnDw72) | 9:38 | 2019-08-06\* | 2019-12-07 |
 | [Assaya \- Original Mix](https://open.spotify.com/track/13mciLwmOHd3gPWoHxwwuS) | [TH;EN](https://open.spotify.com/artist/6UbcuFp6HP6InTAbPASxff) | [Assaya](https://open.spotify.com/album/54FKQZNSDsGKTBG5X6MfI4) | 6:32 | 2019-08-06\* | 2019-08-15 |
@@ -567,6 +567,7 @@
 | [Ride](https://open.spotify.com/track/2DimMk00BsDm19bbxTzY03) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo) | [Petrichor](https://open.spotify.com/album/2lti3xxEJ9Yta59kUAq0Eg) | 3:46 | 2025-11-14 | 2026-05-01 |
 | [Rise](https://open.spotify.com/track/2T6HSzlpifC3xI3KrGH5qW) | [Stil & Bense](https://open.spotify.com/artist/5nuJOwgBqKBIWyCr0dQgEH) | [Rise](https://open.spotify.com/album/70DoinQcYKdnaWSIxpQP3F) | 6:40 | 2020-04-15 | 2020-08-08 |
 | [Risky Business](https://open.spotify.com/track/75N5R8CeZDyJurQJsoRTx1) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2) | [Risky Business](https://open.spotify.com/album/11dna2TSKlOcxUgMuhPT0k) | 5:20 | 2020-10-03 | 2022-10-01 |
+| [Rivers and Homes Retake](https://open.spotify.com/track/27yxfXtOHaPkytNz0P2HoL) | [Adam Ten](https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S), [J.Views](https://open.spotify.com/artist/54l5FjSx6OSPe2Qv9g4LjQ) | [Rivers and Homes Retake](https://open.spotify.com/album/2E2yEEkQgFrHpYubtzTICD) | 4:25 | 2026-05-01 |  |
 | [Roth \(feat\. Mohna\)](https://open.spotify.com/track/3cHeh5OWgYyWI8xz8ndOeW) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO), [Mohna](https://open.spotify.com/artist/3azqDB8c8zEOTBscxif1gU) | [Lys](https://open.spotify.com/album/5yssg2eFopmzstxvyFbrBT) | 5:57 | 2020-03-25 | 2021-10-12 |
 | [Run Away](https://open.spotify.com/track/4l8fwDaGkOWJqvNacpcBTo) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Felix Raphael](https://open.spotify.com/artist/4nknUpUYu4baxWwkunq81Z) | [Run Away](https://open.spotify.com/album/3KP04xsSyd236fx8GJPfxK) | 4:22 | 2021-06-20 | 2023-07-01 |
 | [Running Up That Hill](https://open.spotify.com/track/6FPZOmgqrLVDO9eCocyUY8) | [Disfreq](https://open.spotify.com/artist/2r6S8dhE6TLxyYJndSd345), [mOat](https://open.spotify.com/artist/5cwcCt2XL9QIC0yZy33Fds) | [Running Up That Hill](https://open.spotify.com/album/18vln26XLOG633FiGZ0GLF) | 3:29 | 2025-08-08 | 2025-11-12 |

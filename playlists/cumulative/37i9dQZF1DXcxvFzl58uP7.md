@@ -2,9 +2,9 @@
 
 ### [Bedroom Pop](https://open.spotify.com/playlist/37i9dQZF1DXcxvFzl58uP7)
 
-> Dreamy melodies and hushed vocals\. Cover: Men I Trust
+> Dreamy melodies and hushed vocals\. Cover: girlsweetvoiced
 
-1,029 songs - 2 day 5 hr 20 min
+1,031 songs - 2 day 5 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,6 +216,7 @@
 | [Crazy4luvinU](https://open.spotify.com/track/6Dw7rNYiTWUXpcQHUHPwuw) | [Katzù Oso](https://open.spotify.com/artist/4tSzEOfCj6LXhaf0jtk4XO) | [Crazy4luvinU](https://open.spotify.com/album/5nVqYXRnyXUt5ivHLh1NKk) | 4:00 | 2019-07-30\* | 2021-03-21 |
 | [Credit Cards & Broken Hearts](https://open.spotify.com/track/52XS88338FZguGxpNrnhXP) | [Miko](https://open.spotify.com/artist/5asP5PYlJdyHHpFdVAw9kn) | [Credit Cards & Broken Hearts](https://open.spotify.com/album/2MumBrLTZY6ZFJXQamIyok) | 2:57 | 2021-02-24 | 2021-05-24 |
 | [Crushes](https://open.spotify.com/track/64Cto2O2ZZuGObczMYnSrK) | [Miko](https://open.spotify.com/artist/5asP5PYlJdyHHpFdVAw9kn) | [Crushes](https://open.spotify.com/album/1sezJQ3BzHaoIrCTLHBEJC) | 2:31 | 2020-04-26 | 2021-05-25 |
+| [Crutch](https://open.spotify.com/track/35mvYlF92JzRqB2PYA9DIU) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Crutch](https://open.spotify.com/album/1jWZ7cC58wnlEfuknDCwoq) | 3:31 | 2026-05-01 |  |
 | [Crying on the Subway](https://open.spotify.com/track/6dbAKM5iS4ZrdIxuGY5wuT) | [Hana Vu](https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO) | [Crying on the Subway](https://open.spotify.com/album/1A6NdHTHLt06XCoOanr2sl) | 2:44 | 2019-07-30\* | 2021-05-25 |
 | [Cure](https://open.spotify.com/track/5Y9Yt65EIE3sgfT2cCQqQV) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [Cure](https://open.spotify.com/album/5b6ynO9hFN6QShLHxjs2Xc) | 2:39 | 2021-03-29 | 2021-06-03 |
 | [Cut Me Out](https://open.spotify.com/track/1YihSDAg3p8sWmncpIShkS) | [BOYO](https://open.spotify.com/artist/1puLsaxX9EwudKrNBUVFe4) | [Cut Me Out](https://open.spotify.com/album/6AWBNB0ZQ9OGEy6ZbaFyTa) | 2:57 | 2019-07-30\* | 2019-08-09 |
@@ -408,6 +409,7 @@
 | [Hold Me Down](https://open.spotify.com/track/7j3F83W8dkm10ujNwC0wRJ) | [The Simps](https://open.spotify.com/artist/1jsT4oqnLcCax2grWbuhL6), [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [zzzahara](https://open.spotify.com/artist/26j38hvhD7PjC0a4EqdaSn) | [Hold Me Down](https://open.spotify.com/album/4F3OWtzqKabuavxA3rzEAA) | 3:23 | 2022-03-04 | 2022-07-19 |
 | [hold me, never let go](https://open.spotify.com/track/6JfcUgZqHbb20KTfHayS9j) | [Rocco](https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq) | [Her Favorite Flowers](https://open.spotify.com/album/3ZtwVDikRanGqN17IGpWgh) | 3:13 | 2023-09-29 | 2024-04-19 |
 | [hold me, never let go](https://open.spotify.com/track/6QC5Dtp38M05T536UONe6J) | [Rocco](https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq) | [Her Favorite Flowers](https://open.spotify.com/album/5rFnAfQqhy7sFGSq15gN7g) | 3:13 | 2023-09-22 | 2024-04-24 |
+| [hollow pt\. 2](https://open.spotify.com/track/6G5SawxjxKwPa35933d67p) | [parallel](https://open.spotify.com/artist/57GHGjRVnM7JTTXI7vXq7d) | [frail \(deluxe\)](https://open.spotify.com/album/3RY8gscNso1T3xESGH1JvQ) | 2:49 | 2026-05-01 |  |
 | [Homage](https://open.spotify.com/track/7DcJ6fEBb7BaKuYKTwiDxK) | [Mild High Club](https://open.spotify.com/artist/5J81VungUjSVHxlPpTI9KG) | [Skiptracing](https://open.spotify.com/album/6O9YDn12I4WQxUBQE9tpnN) | 2:57 | 2021-02-27 | 2023-06-10 |
 | [Homage](https://open.spotify.com/track/7pegxVesMmE2qK0o58xoFG) | [Mild High Club](https://open.spotify.com/artist/5J81VungUjSVHxlPpTI9KG) | [Skiptracing](https://open.spotify.com/album/1qMDN9zRQreK81cJ9G1hed) | 2:57 | 2020-05-15 | 2022-07-27 |
 | [Home](https://open.spotify.com/track/6zuvB7LsseXwZX5uPg85NP) | [Somni](https://open.spotify.com/artist/7qFssj4KoOxd1IOPfv9iT7) | [Home](https://open.spotify.com/album/7I9rSYvAxc5lcyriRGAG0T) | 2:01 | 2020-05-17 | 2021-06-27 |
@@ -539,7 +541,7 @@
 | [Lil Baby Crush](https://open.spotify.com/track/6nXiaXqSZAJuOG6q66mZV1) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [Lil Baby Crush](https://open.spotify.com/album/7xp9foM1WZspt8ypJD3aLf) | 2:21 | 2021-09-10 | 2022-04-18 |
 | [Lily](https://open.spotify.com/track/4vl9dAQphgp3kWPLg2gUXB) | [Francisco Martin](https://open.spotify.com/artist/1L0Ma0IvvAlshDIUBxoOGE) | [Lily](https://open.spotify.com/album/4isNJyjkK265rBCya1Zl5W) | 3:24 | 2023-06-09 | 2023-09-22 |
 | [Listen](https://open.spotify.com/track/0CIkEjigreAi3b1YCLBqzW) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Listen](https://open.spotify.com/album/48XJBOBdPzvV2zIZQsQjn7) | 2:30 | 2019-08-01 | 2021-05-25 |
-| [Little One](https://open.spotify.com/track/25CDamD1ROTPzl0sxP3rqs) | [Surely Shirley](https://open.spotify.com/artist/1X6Wtc4LhhMVsG78I869pB) | [Little One](https://open.spotify.com/album/4xD7rx6VteQLcL4F59Tr5t) | 3:37 | 2024-05-31 |  |
+| [Little One](https://open.spotify.com/track/25CDamD1ROTPzl0sxP3rqs) | [Surely Shirley](https://open.spotify.com/artist/1X6Wtc4LhhMVsG78I869pB) | [Little One](https://open.spotify.com/album/4xD7rx6VteQLcL4F59Tr5t) | 3:37 | 2024-05-31 | 2026-05-02 |
 | [lived to love](https://open.spotify.com/track/0WtSBij3WrxbY7BNnWJcqH) | [808vic](https://open.spotify.com/artist/0kzNGCruksB28DRbqhEfPM) | [lived to love](https://open.spotify.com/album/6vdc6p5GTtE9knNhNpXWVD) | 4:15 | 2022-09-14 | 2022-12-17 |
 | [lived to love](https://open.spotify.com/track/2m9N5pZkg7wkgLadlvWcpj) | [808vic](https://open.spotify.com/artist/0kzNGCruksB28DRbqhEfPM) | [lived to love](https://open.spotify.com/album/0zNnPMSDTJqoOrO75pCIvk) | 4:15 | 2021-10-08 | 2022-07-29 |
 | [Locura](https://open.spotify.com/track/2xukDcihOVcK9cBvpR25we) | [Juan Wauters](https://open.spotify.com/artist/7CKkZZW3XtnPmqlwaElmoV) | [Real Life Situations](https://open.spotify.com/album/3VnXrco4kkeesTPtAmVP2j) | 2:44 | 2021-05-01 | 2022-04-17 |
@@ -682,7 +684,7 @@
 | [Pendant](https://open.spotify.com/track/45iJnPjul5yDYefM6GEYZB) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Pendant](https://open.spotify.com/album/5Byl3llMQRhBj88mYrEbGS) | 3:55 | 2022-12-14 |  |
 | [pending](https://open.spotify.com/track/7E0ujGThqMNLeZwSBNFikr) | [Palmertrees](https://open.spotify.com/artist/52VT62cropnSSiAZXtU8ho) | [pending](https://open.spotify.com/album/0kpMsYLAuFtRnZVgZOEB3z) | 2:41 | 2021-06-25 | 2022-04-21 |
 | [People Need People](https://open.spotify.com/track/1hya0KkB4N71gtH5pg1wtl) | [JOBA](https://open.spotify.com/artist/3vKT7DifMxpG9CWR7c8eC8) | [People Need People](https://open.spotify.com/album/7rgbbPHQj4XNYh22XBmit6) | 2:31 | 2024-08-30 | 2024-10-13 |
-| [Peppermint Halo](https://open.spotify.com/track/5ZWUrad3rXeK08HY8EN458) | [Chic Chameleon](https://open.spotify.com/artist/5lktVcGmBRNYbI7janrAeB) | [Peppermint Halo](https://open.spotify.com/album/4VDeMhjfg6RrXuu0Ht9pqX) | 3:38 | 2026-03-27 |  |
+| [Peppermint Halo](https://open.spotify.com/track/5ZWUrad3rXeK08HY8EN458) | [Chic Chameleon](https://open.spotify.com/artist/5lktVcGmBRNYbI7janrAeB) | [Peppermint Halo](https://open.spotify.com/album/4VDeMhjfg6RrXuu0Ht9pqX) | 3:38 | 2026-03-27 | 2026-05-02 |
 | [Perks of Being a Sunflower](https://open.spotify.com/track/6CCgo4BGBNpsUFUm1PngK9) | [Soft Glas](https://open.spotify.com/artist/64YO6kjOrspjCGA2GQwsT0) | [Orange Earth](https://open.spotify.com/album/7baGumqw9hgkjYIrizNnK8) | 2:57 | 2019-07-31 | 2021-08-28 |
 | [Personal Branding](https://open.spotify.com/track/4TpM8w0OZgRBGoXRKp6XRh) | [Delorians](https://open.spotify.com/artist/3veLkV7PryzEQXJnFxDhON) | [Personal Branding](https://open.spotify.com/album/7jeJz3WYBZiAxlGOKVdAGL) | 3:19 | 2021-06-25 | 2022-04-21 |
 | [Petrichor](https://open.spotify.com/track/3NtZN06GD0xEbjDO95qyL8) | [V!ctoria](https://open.spotify.com/artist/1TIGLYKA8kApefnVSPuhWS) | [Petrichor](https://open.spotify.com/album/3iAe4ODQa4WmFQLA9oDwP8) | 3:00 | 2021-06-25 | 2022-04-21 |

@@ -1,13 +1,97 @@
 {
   "description": "So fresh, so smooth. Cover: Boney James",
-  "num_followers": 86801,
+  "num_followers": 86832,
   "original_name": "New Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAENQ5oi0KsNjKOVNcJz7GGMLYoIj",
+  "snapshot_id": "AAAAAKHWAaCl6WqxcJi8aHfoiANcXIw4",
   "tracks": [
+    {
+      "added_at": "2026-05-01 04:00:53",
+      "album": {
+        "name": "Tonight",
+        "url": "https://open.spotify.com/album/7b63rr9zQ7NHUdqQEnMjPp"
+      },
+      "artists": [
+        {
+          "name": "Nathan Allen",
+          "url": "https://open.spotify.com/artist/6IRnIHHQ6Fj5bEsGkHH2Ce"
+        }
+      ],
+      "duration_ms": 225184,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/4gYkaBgTNeAHKEvUok58ls"
+    },
+    {
+      "added_at": "2026-05-01 04:00:53",
+      "album": {
+        "name": "Electric",
+        "url": "https://open.spotify.com/album/0w2BF1FPa9NJvDH5w7GU4h"
+      },
+      "artists": [
+        {
+          "name": "Adam Hawley",
+          "url": "https://open.spotify.com/artist/1lWqhDiZ2OtpsJsQFtXsKX"
+        },
+        {
+          "name": "Everette Harp",
+          "url": "https://open.spotify.com/artist/7LQBzOrln4d4D5EVAKK7LZ"
+        }
+      ],
+      "duration_ms": 271133,
+      "name": "Electric",
+      "url": "https://open.spotify.com/track/00ClgtOtzSYITRgyYuTK2S"
+    },
+    {
+      "added_at": "2026-05-01 04:00:53",
+      "album": {
+        "name": "Ventura",
+        "url": "https://open.spotify.com/album/3EEJtLuKdRjN0AaLfoV9EI"
+      },
+      "artists": [
+        {
+          "name": "Andy Snitzer",
+          "url": "https://open.spotify.com/artist/6FaR0vA7ulJTJ1a4BRlJt7"
+        }
+      ],
+      "duration_ms": 227470,
+      "name": "Ventura",
+      "url": "https://open.spotify.com/track/7yN2EpncCSUH8bUdXcHep7"
+    },
+    {
+      "added_at": "2026-05-01 04:00:53",
+      "album": {
+        "name": "Knock Out",
+        "url": "https://open.spotify.com/album/6byxMiZfKh37vdUBMPfGuB"
+      },
+      "artists": [
+        {
+          "name": "Steve Cole",
+          "url": "https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb"
+        }
+      ],
+      "duration_ms": 306373,
+      "name": "Knock Out",
+      "url": "https://open.spotify.com/track/4lvSXlzf2fmTlhOLZFsOg4"
+    },
+    {
+      "added_at": "2026-05-01 04:00:53",
+      "album": {
+        "name": "Brazilian Night",
+        "url": "https://open.spotify.com/album/0KQerobBYAAMshXm3iucPY"
+      },
+      "artists": [
+        {
+          "name": "Tim Bowman",
+          "url": "https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5"
+        }
+      ],
+      "duration_ms": 316084,
+      "name": "Brazilian Night",
+      "url": "https://open.spotify.com/track/63up8vVjcjeY9A4EhP8V4T"
+    },
     {
       "added_at": "2026-04-24 04:03:16",
       "album": {
@@ -27,26 +111,6 @@
       "duration_ms": 293799,
       "name": "We've Got All Night",
       "url": "https://open.spotify.com/track/0ZBdFqrIRaganUcJeLaWAv"
-    },
-    {
-      "added_at": "2026-04-24 04:03:16",
-      "album": {
-        "name": "Electric",
-        "url": "https://open.spotify.com/album/0w2BF1FPa9NJvDH5w7GU4h"
-      },
-      "artists": [
-        {
-          "name": "Adam Hawley",
-          "url": "https://open.spotify.com/artist/1lWqhDiZ2OtpsJsQFtXsKX"
-        },
-        {
-          "name": "Marion Meadows",
-          "url": "https://open.spotify.com/artist/46PWlvjKg5zNakteW1CJkG"
-        }
-      ],
-      "duration_ms": 269840,
-      "name": "New Jack",
-      "url": "https://open.spotify.com/track/6D9R0kcbX190RJZXufg8Wk"
     },
     {
       "added_at": "2026-04-24 04:03:16",
@@ -705,22 +769,6 @@
       "url": "https://open.spotify.com/track/3wy86KLR6VKyuBVHeyaM6b"
     },
     {
-      "added_at": "2025-01-24 05:00:25",
-      "album": {
-        "name": "It Might Be You",
-        "url": "https://open.spotify.com/album/4zGVWJjoJdMwivsNR0hi01"
-      },
-      "artists": [
-        {
-          "name": "Nathan Allen",
-          "url": "https://open.spotify.com/artist/6IRnIHHQ6Fj5bEsGkHH2Ce"
-        }
-      ],
-      "duration_ms": 283981,
-      "name": "It Might Be You",
-      "url": "https://open.spotify.com/track/5WXX5DBrFmHox6CrI1BZUI"
-    },
-    {
       "added_at": "2025-01-17 05:00:27",
       "album": {
         "name": "Vibes (Radio Edit)",
@@ -1237,22 +1285,6 @@
       "url": "https://open.spotify.com/track/3Sc0gxmKAs6WoVtuGZqts6"
     },
     {
-      "added_at": "2024-02-23 05:01:00",
-      "album": {
-        "name": "Ocean Breeze",
-        "url": "https://open.spotify.com/album/2nE1n1tx0levn1VJmS7VMe"
-      },
-      "artists": [
-        {
-          "name": "Tim Bowman",
-          "url": "https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5"
-        }
-      ],
-      "duration_ms": 252992,
-      "name": "Ocean Breeze",
-      "url": "https://open.spotify.com/track/4Le65jSJtaXIPNDG9RE5wK"
-    },
-    {
       "added_at": "2024-03-01 05:01:00",
       "album": {
         "name": "Glow",
@@ -1437,22 +1469,6 @@
       "url": "https://open.spotify.com/track/3TskladYjEgSqIZyrUCcTW"
     },
     {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
-        "name": "Without a Doubt",
-        "url": "https://open.spotify.com/album/72AWHYj9AguRbu2x7VzxY9"
-      },
-      "artists": [
-        {
-          "name": "Steve Cole",
-          "url": "https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb"
-        }
-      ],
-      "duration_ms": 279266,
-      "name": "Echoes",
-      "url": "https://open.spotify.com/track/2IfPxItRt1NwJDeAZOQRck"
-    },
-    {
       "added_at": "2024-01-19 05:01:00",
       "album": {
         "name": "Stargazer",
@@ -1587,22 +1603,6 @@
       "duration_ms": 233333,
       "name": "Please Mr. Groove",
       "url": "https://open.spotify.com/track/4t6HSsIeDTF8Iis2JTSHP5"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
-        "name": "A Beautiful Dream",
-        "url": "https://open.spotify.com/album/3OLBqYv0Tv6QAlRdcpxQsl"
-      },
-      "artists": [
-        {
-          "name": "Andy Snitzer",
-          "url": "https://open.spotify.com/artist/6FaR0vA7ulJTJ1a4BRlJt7"
-        }
-      ],
-      "duration_ms": 240840,
-      "name": "A Beautiful Dream",
-      "url": "https://open.spotify.com/track/54q9Z3bppcAviIX7cX5mXB"
     },
     {
       "added_at": "2023-10-13 04:01:00",

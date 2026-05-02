@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 311 likes - 2,249 songs - 5 day 13 hr 17 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 310 likes - 2,252 songs - 5 day 13 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2257,5 +2257,8 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2247 | [Me Rindo](https://open.spotify.com/track/4T4Rx7ApdVoMyeteFglpJ1) | [Michael Todd Brown](https://open.spotify.com/artist/1UVbWulqbJhDEpYxvOmHJa), [Tuva Paloma](https://open.spotify.com/artist/6uYz66bkpyYpokipvgIRrT) | [Me Rindo](https://open.spotify.com/album/0saQU98ixtjrMD3M6EXQ73) | 5:46 |
 | 2248 | [Bermimpi](https://open.spotify.com/track/0jqb9Ob2VNIPDUYzznVMsp) | [Veyn Arcanstin](https://open.spotify.com/artist/5jq2KvNMvKM3T3oOEMlzkl), [Nariya Blanche](https://open.spotify.com/artist/2Nb59R0W7uEStoWIe4mpsp), [Gigih Prayogo](https://open.spotify.com/artist/1Ayg3QEQWS3EfokPaCqccr) | [Bermimpi](https://open.spotify.com/album/7MxXY4vwu1EdoUiQRQ5Qpr) | 5:20 |
 | 2249 | [Incomparable \(Bluesman\)](https://open.spotify.com/track/27yHVzY4ZoiVIYvpjcvhFq) | [Yunez](https://open.spotify.com/artist/3WqoLbV8XYbKrXUTTScsKI) | [Bluesman](https://open.spotify.com/album/4pvGxzTyfc9TQpoE8BBrar) | 3:28 |
+| 2250 | [The Rush](https://open.spotify.com/track/0PBz4H0I5zQOon1fKZbTiU) | [Gardening Club](https://open.spotify.com/artist/4tVR6UmVssdtcN2BY6fbmg) | [Gardening Club](https://open.spotify.com/album/2Ij0ymbmxaUSdEbWCjgJhW) | 1:36 |
+| 2251 | [ennui](https://open.spotify.com/track/70xCHfTbqEDUYiX28pNvQo) | [LadyBoy](https://open.spotify.com/artist/3EyEQIrSwLWmL5WikGao8Q) | [ennui](https://open.spotify.com/album/6Be5YT4sy6M8FjaJaILcGS) | 3:13 |
+| 2252 | [Мы будем радоваться жизни](https://open.spotify.com/track/3Ixm23ATHd8yETGP7S4tOc) | [the poet must die](https://open.spotify.com/artist/2D0En2asmzvF1FGNiXEGqf) | [Мы будем радоваться жизни](https://open.spotify.com/album/0bJ5TrgC7iAKatWzQtKH08) | 1:19 |
 
-Snapshot ID: `AAAJcu28unVh0M15AdglJA/D/CptD98G`
+Snapshot ID: `AAAJdUJHp6cYNW1+BsPVtkmtiEkRdUvb`

@@ -1,12 +1,12 @@
 {
   "description": "This is blink-182. The essential tracks, all in one playlist.",
-  "num_followers": 622957,
+  "num_followers": 623014,
   "original_name": "This Is blink-182",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afFKAAAAAABqhES8zIzdJVOO7j+2lK5c",
+  "snapshot_id": "afKbgAAAAABgEkzi05XYtGrywapu3M5x",
   "tracks": [
     {
       "added_at": null,
@@ -660,41 +660,9 @@
           "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
         }
       ],
-      "duration_ms": 178785,
-      "name": "IF YOU NEVER LEFT",
-      "url": "https://open.spotify.com/track/6QJE092f2CYzFskOrBgSrN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dogs Eating Dogs",
-        "url": "https://open.spotify.com/album/3Jpdv1X5cweLrcebtM1tar"
-      },
-      "artists": [
-        {
-          "name": "blink-182",
-          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
-        }
-      ],
-      "duration_ms": 222866,
-      "name": "Disaster",
-      "url": "https://open.spotify.com/track/5bEDnPCC90lizjjpxx2Gs9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "California (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0fmq1b2T3bjRyTsigDWUP6"
-      },
-      "artists": [
-        {
-          "name": "blink-182",
-          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
-        }
-      ],
-      "duration_ms": 201480,
-      "name": "Home Is Such a Lonely Place",
-      "url": "https://open.spotify.com/track/6OSb3O57uj7GCavzdjcXHg"
+      "duration_ms": 219389,
+      "name": "TAKE ME IN",
+      "url": "https://open.spotify.com/track/2EKpybTASGXP5DdTA3r6aP"
     },
     {
       "added_at": null,
@@ -715,6 +683,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "California (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0fmq1b2T3bjRyTsigDWUP6"
+      },
+      "artists": [
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "duration_ms": 201480,
+      "name": "Home Is Such a Lonely Place",
+      "url": "https://open.spotify.com/track/6OSb3O57uj7GCavzdjcXHg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dogs Eating Dogs",
+        "url": "https://open.spotify.com/album/3Jpdv1X5cweLrcebtM1tar"
+      },
+      "artists": [
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "duration_ms": 222866,
+      "name": "Disaster",
+      "url": "https://open.spotify.com/track/5bEDnPCC90lizjjpxx2Gs9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "ONE MORE TIME... PART-2",
         "url": "https://open.spotify.com/album/3wU2wXacpwqetSRloR0nMX"
       },
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
         }
       ],
-      "duration_ms": 219389,
-      "name": "TAKE ME IN",
-      "url": "https://open.spotify.com/track/2EKpybTASGXP5DdTA3r6aP"
+      "duration_ms": 178785,
+      "name": "IF YOU NEVER LEFT",
+      "url": "https://open.spotify.com/track/6QJE092f2CYzFskOrBgSrN"
     },
     {
       "added_at": null,

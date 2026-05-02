@@ -2,20 +2,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVnX01c6gE6x.md) - [plain]
 
 ### [RADAR Creadores México](https://open.spotify.com/playlist/37i9dQZF1DWVnX01c6gE6x)
 
-> Creadores que necesitas tener en el RADAR\. En la portada: <a href="sspotify:show:6GqaBGrJau17NofsIw9R1J">Ideas de Altura Podcast</a>
+> Creadores que necesitas tener en el RADAR\. En la portada: <a href="spotify:show:1Rd6XqtD2PNcs599lgCaqn">Las Desencantadas</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,995 likes - 9 songs - 9 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,995 likes - 9 songs - 10 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [2x6 \- “No hemos hablado en meses” \- Pirámides de Zirahuato, Michoacán](https://open.spotify.com/episode/4nGQ06tUWTwzjaerWbCITP) | [Ideas de Altura Podcast](https://open.spotify.com/show/6GqaBGrJau17NofsIw9R1J) | [Ideas de Altura Podcast](https://open.spotify.com/album/6GqaBGrJau17NofsIw9R1J) | 1:11:55 |
-| 2 | [2x3 Jamás pensé llegar a ser presidente de México Vicente Fox León Gto](https://open.spotify.com/episode/7lsQ2JttpKzbIJc4NvgcgW) | [Ideas de Altura Podcast](https://open.spotify.com/show/6GqaBGrJau17NofsIw9R1J) | [Ideas de Altura Podcast](https://open.spotify.com/album/6GqaBGrJau17NofsIw9R1J) | 55:19 |
-| 3 | [ 2x2 \- Supositorios en la vida adulta \- Kayko \- Puerto la Camotera.](https://open.spotify.com/episode/580Yz0V1atmbENWt9ZCmEK) | [Ideas de Altura Podcast](https://open.spotify.com/show/6GqaBGrJau17NofsIw9R1J) | [Ideas de Altura Podcast](https://open.spotify.com/album/6GqaBGrJau17NofsIw9R1J) | 1:18:45 |
-| 4 | [EP27: IA nos cargó el payaso: El lado oscuro de la IA](https://open.spotify.com/episode/5NH0f3858s4Fz2smpWFbmm) | [El Sindicato de Inexpertos](https://open.spotify.com/show/0us1YJIMLmRSwTmm3Z1jAF) | [El Sindicato de Inexpertos](https://open.spotify.com/album/0us1YJIMLmRSwTmm3Z1jAF) | 2:09:29 |
-| 5 | [EP32: ¿Pensamos distinto según nuestra cultura?](https://open.spotify.com/episode/2nBSmjwj3QOpcFR6JfcbsF) | [El Sindicato de Inexpertos](https://open.spotify.com/show/0us1YJIMLmRSwTmm3Z1jAF) | [El Sindicato de Inexpertos](https://open.spotify.com/album/0us1YJIMLmRSwTmm3Z1jAF) | 1:09:27 |
-| 6 | [EP34: Cuando México bebió leche radiactiva en los años 80](https://open.spotify.com/episode/177dzOFPIr8GduoHckHnQn) | [El Sindicato de Inexpertos](https://open.spotify.com/show/0us1YJIMLmRSwTmm3Z1jAF) | [El Sindicato de Inexpertos](https://open.spotify.com/album/0us1YJIMLmRSwTmm3Z1jAF) | 1:17:54 |
-| 7 | [Los de pueblo también podemos soñar en grande\| Cachorritas Podcast\| Ep 23](https://open.spotify.com/episode/5mePPlJgkz9HkKz5KV4xkZ) | [Cachorritas Podcast](https://open.spotify.com/show/33otctvlvENqmean7uvNWH) | [Cachorritas Podcast](https://open.spotify.com/album/33otctvlvENqmean7uvNWH) | 33:38 |
-| 8 | [Privilegios ¿Son los mismos para todos?\| Cachorritas Podcast\| Ep 14](https://open.spotify.com/episode/3iBz68NFj1DRi4TdW7WYDH) | [Cachorritas Podcast](https://open.spotify.com/show/33otctvlvENqmean7uvNWH) | [Cachorritas Podcast](https://open.spotify.com/album/33otctvlvENqmean7uvNWH) | 44:04 |
+| 1 | [storytimes de NARCISISTAS \(ego ego egoístaaaa\) \| Las Desencantadas Podcast Ep\. 06](https://open.spotify.com/episode/4lmwtFowLAxSyf0pMXBXBi) | [Las Desencantadas](https://open.spotify.com/show/1Rd6XqtD2PNcs599lgCaqn) | [Las Desencantadas](https://open.spotify.com/album/1Rd6XqtD2PNcs599lgCaqn) | 1:31:22 |
+| 2 | [INFIDELIDADES \(es intuición o estamos delulu?\)](https://open.spotify.com/episode/0hBXa54Su6Mq7AmVe6Qoqd) | [Las Desencantadas](https://open.spotify.com/show/1Rd6XqtD2PNcs599lgCaqn) | [Las Desencantadas](https://open.spotify.com/album/1Rd6XqtD2PNcs599lgCaqn) | 1:33:32 |
+| 3 | [storytimes de AMISTADES TÓXICAS 💔💥 \(las extrañamos 😭\) \| Las Desencantadas Podcast Ep\. 06](https://open.spotify.com/episode/02Y2Jy2wrxcUU7tNm889zT) | [Las Desencantadas](https://open.spotify.com/show/1Rd6XqtD2PNcs599lgCaqn) | [Las Desencantadas](https://open.spotify.com/album/1Rd6XqtD2PNcs599lgCaqn) | 1:20:43 |
+| 4 | [Podcast acostados en una cama a 20 metros de caída \- La Huasteca \- 2x11](https://open.spotify.com/episode/02Cwt7QpmJ6tS7Tg8sKVUx) | [Ideas de Altura Podcast](https://open.spotify.com/show/6GqaBGrJau17NofsIw9R1J) | [Ideas de Altura Podcast](https://open.spotify.com/album/6GqaBGrJau17NofsIw9R1J) | 1:18:56 |
+| 5 | [Podcast en el Volcán más joven del mundo \- Michoacán, Volcán Paricutín \- 2x8](https://open.spotify.com/episode/0wMAgybpeWQFv4NPkDXZjd) | [Ideas de Altura Podcast](https://open.spotify.com/show/6GqaBGrJau17NofsIw9R1J) | [Ideas de Altura Podcast](https://open.spotify.com/album/6GqaBGrJau17NofsIw9R1J) | 53:43 |
+| 6 | [ 2x2 \- Supositorios en la vida adulta \- Kayko \- Puerto la Camotera.](https://open.spotify.com/episode/580Yz0V1atmbENWt9ZCmEK) | [Ideas de Altura Podcast](https://open.spotify.com/show/6GqaBGrJau17NofsIw9R1J) | [Ideas de Altura Podcast](https://open.spotify.com/album/6GqaBGrJau17NofsIw9R1J) | 1:18:45 |
+| 7 | [Palabras de Pueblo: No reconocidas por la RAE \| Cachorritas Podcast \| Ep 35](https://open.spotify.com/episode/6962xzNmJpfTmab4O6L91A) | [Cachorritas Podcast](https://open.spotify.com/show/33otctvlvENqmean7uvNWH) | [Cachorritas Podcast](https://open.spotify.com/album/33otctvlvENqmean7uvNWH) | 47:40 |
+| 8 | [La infancia de antes era mejor que la de ahora l Cachorritas Podcast l Ep 33](https://open.spotify.com/episode/6CTgrAua0zQ61dFpbSrYEO) | [Cachorritas Podcast](https://open.spotify.com/show/33otctvlvENqmean7uvNWH) | [Cachorritas Podcast](https://open.spotify.com/album/33otctvlvENqmean7uvNWH) | 45:21 |
 | 9 | [Noviazgos de Pueblo \| Cachorritas Podcast \| Ep 02](https://open.spotify.com/episode/6fM5cok1ukGOOWUX06KQe3) | [Cachorritas Podcast](https://open.spotify.com/show/33otctvlvENqmean7uvNWH) | [Cachorritas Podcast](https://open.spotify.com/album/33otctvlvENqmean7uvNWH) | 29:56 |
 
-Snapshot ID: `AAAAAD+LT2pJipcgRKznvDY3fP0IbrDr`
+Snapshot ID: `AAAAAG5daAe0Jo3nIoumuc79WkHLyOTS`

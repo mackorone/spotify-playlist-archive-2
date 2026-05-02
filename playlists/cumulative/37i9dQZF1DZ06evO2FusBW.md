@@ -4,7 +4,7 @@
 
 > This is RIOPY\. The essential tracks, all in one playlist.
 
-84 songs - 5 hr 48 min
+85 songs - 5 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Law of One](https://open.spotify.com/track/337cxMW9sAm2WNXBQjjoKF) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Law of One](https://open.spotify.com/album/6jIyLWwtDkNFt3BpR47ohN) | 5:39 | 2025-12-07 | 2026-02-07 |
 | [Law of One](https://open.spotify.com/track/6F49Fonv14f9GaCLCmLNk3) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Be Love](https://open.spotify.com/album/25PtUTrtPiAFlgTxHBFZ3L) | 5:39 | 2026-02-07 |  |
 | [Le rêve d'une note](https://open.spotify.com/track/2xDBwhsdKnawySo4jswvjT) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Le Rêve d'une note](https://open.spotify.com/album/3kaHw48zUVcXBK5wCsWITY) | 3:09 | 2025-01-03 |  |
+| [Let's Be Love](https://open.spotify.com/track/2E0WRWiMM4zOI68fbn7SmN) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Be Love](https://open.spotify.com/album/25PtUTrtPiAFlgTxHBFZ3L) | 4:07 | 2026-05-02 |  |
 | [Lily’s Lullaby](https://open.spotify.com/track/3oXl4DnBBGeGhXjHmSSMpU) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Lily’s Lullaby](https://open.spotify.com/album/42F0b6Sj5NZ7QzRhhHRMAC) | 3:59 | 2025-01-03 | 2025-09-21 |
 | [Lily’s Lullaby](https://open.spotify.com/track/7sximELhhshAcurlFEDhU5) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Thrive](https://open.spotify.com/album/67VF7jEe2ivz5kMPyXgI4T) | 3:59 | 2025-09-21 |  |
 | [Long Way Home](https://open.spotify.com/track/1vl2d65bqG02ulgSbntzFP) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Long Way Home](https://open.spotify.com/album/583m7Q5bZOEvgyZbiunXDj) | 4:10 | 2025-10-26 | 2025-12-10 |

@@ -4,7 +4,7 @@
 
 > 
 
-1,444 songs - 3 day 4 hr 47 min
+1,445 songs - 3 day 4 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1375,6 +1375,7 @@
 | [Walk In Faith](https://open.spotify.com/track/6DmE1MkutuNgNZN72bF4Px) | [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [GOLDFISH](https://open.spotify.com/album/6EXDkyvi5H3Ys8KCYDkE6g) | 2:43 | 2026-03-07 | 2026-03-18 |
 | [Walk On By](https://open.spotify.com/track/6fkL9CjWmjeV6vfDxTp9OZ) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Drunk](https://open.spotify.com/album/7vHBQDqwzB7uDvoE5bncMM) | 3:19 | 2024-05-23 | 2025-05-21 |
 | [Walkin \- Key Glock remix](https://open.spotify.com/track/5GJS3CY3aqbT9j2lv434aQ) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Walkin \(Key Glock remix\)](https://open.spotify.com/album/4eaBgTvANMYXbm9i1Vyx3q) | 3:46 | 2022-06-26 |  |
+| [Walking on the Moon](https://open.spotify.com/track/2qwMuXIRXJSrwrAiHeBVPJ) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Distracted](https://open.spotify.com/album/4DkVTJfU9qyNWKbjLoTENL) | 3:25 | 2026-05-02 |  |
 | [Walnut Grove](https://open.spotify.com/track/2WHhenw4jhle7mtCGK0WWy) | [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Criminally Attached](https://open.spotify.com/album/1StqUa5W8ZyphBT3GHQBHs) | 2:51 | 2026-03-05 |  |
 | [Wanderer \(feat\. Tay Walker\)](https://open.spotify.com/track/7KoX0myQwA6dc6yCX8R1wS) | [Domo Genesis](https://open.spotify.com/artist/6vHBuUxrcpn1do5UaEJ7g6), [Tay Walker](https://open.spotify.com/artist/31RaitnNW0bVhYgLl01rRw) | [Genesis](https://open.spotify.com/album/3mhZHDmHvIUAeAYH7MrXBW) | 2:54 | 2023-10-26 | 2024-04-24 |
 | [Wanna Be The Goat](https://open.spotify.com/track/1wYjNgCPqF1Ze5v8MfUtUc) | [Izaya Tiji Archive](https://open.spotify.com/artist/6f84QAdro9etUHHnUWgvAL) | [Wanna Be The Goat](https://open.spotify.com/album/3o6EBePKAZjyr774l0ioC3) | 3:05 | 2023-02-09 | 2023-05-09 |

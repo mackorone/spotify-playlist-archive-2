@@ -4,7 +4,7 @@
 
 > Las canciones de fe que más se escuchan en Latinoamérica\. Foto: Vaes
 
-911 songs - 2 day 23 hr 49 min
+912 songs - 3 day 0 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -465,7 +465,7 @@
 | [León](https://open.spotify.com/track/3pt0tMzHZQOY473maaT5sW) | [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3) | [León](https://open.spotify.com/album/0pOrbTQTON7qWYZZbdyt1q) | 6:12 | 2024-06-21 | 2024-08-10 |
 | [LEÓN \(LION\)](https://open.spotify.com/track/4gWEajZcRRCSbxkfkmesA5) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [LEÓN](https://open.spotify.com/album/1PFy3At4783o15yGZQleWZ) | 5:43 | 2022-10-07 | 2023-09-23 |
 | [Libre](https://open.spotify.com/track/4A9skme3Jq3bpXoMJx1oYd) | [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR), [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Libre](https://open.spotify.com/album/47QUXdsNTNcn2eL65d6yWV) | 4:19 | 2024-06-21 | 2024-08-24 |
-| [Libre \- Versión Español](https://open.spotify.com/track/3CRtdQVwTgWs0D9Nwfqlm8) | [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR), [Cales Louima](https://open.spotify.com/artist/5n47pUB4lGWnSuxGkX0UpP) | [Libre \(Versión Español\)](https://open.spotify.com/album/6WGjrHQ1DU491pVUPT5anm) | 4:19 | 2024-11-22 |  |
+| [Libre \- Versión Español](https://open.spotify.com/track/3CRtdQVwTgWs0D9Nwfqlm8) | [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR), [Cales Louima](https://open.spotify.com/artist/5n47pUB4lGWnSuxGkX0UpP) | [Libre \(Versión Español\)](https://open.spotify.com/album/6WGjrHQ1DU491pVUPT5anm) | 4:19 | 2024-11-22 | 2026-05-02 |
 | [Llegaste Tú](https://open.spotify.com/track/5luYTHjsdvio9nY3zwgUWp) | [Omy Alka](https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh), [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz), [Townix](https://open.spotify.com/artist/4iSbdQ17ULxAugOFOC5Bx2) | [Llegaste Tú](https://open.spotify.com/album/6GBHEIWKGd5YNz3z3wkDKi) | 4:01 | 2022-03-25 | 2022-04-02 |
 | [Llegó el Culto](https://open.spotify.com/track/6j2T3mVAa68sKQnjxggNse) | [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz) | [Ekklesia](https://open.spotify.com/album/39PA7ewpida2ND7xoS4jaP) | 2:40 | 2022-02-25 | 2022-05-07 |
 | [Lo de Adentro](https://open.spotify.com/track/5IbengZi8118xmuhu67cAy) | [Vaes](https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu) | [Lo de Adentro](https://open.spotify.com/album/1VuVEJ4ezS8IjdLhs7RB5R) | 2:25 | 2022-08-26 | 2022-10-29 |
@@ -663,6 +663,7 @@
 | [Que Mi Vida Te Adore](https://open.spotify.com/track/0SMlfgAWLBFc2GOmBOzCMw) | [Art Aguilera](https://open.spotify.com/artist/6pQ4IIxtXkJpN1wwuYZjTn), [Jaz Jacob](https://open.spotify.com/artist/7wxEfNSLam1iBAyIhdpSUh) | [Que Mi Vida Te Adore](https://open.spotify.com/album/1pZaOFeTieHpwpZ1rsyZZW) | 7:30 | 2024-02-09 | 2024-07-06 |
 | [Que Ruja El León](https://open.spotify.com/track/4M7hm9mlfnZPuXyC1HYMAr) | [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ), [Enoc Parra](https://open.spotify.com/artist/2dXm6Fjb3OP6YKDyaF09jM) | [Que Ruja El León](https://open.spotify.com/album/22QBYTgN3FIcpEGokgllmm) | 11:23 | 2025-09-26 | 2025-10-18 |
 | [QUE TIENE DE MALO](https://open.spotify.com/track/2XkZoV77TGMaAF8IR5w4I4) | [Madiel Lara](https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42) | [VEINTITRES \(Deluxe\)](https://open.spotify.com/album/77cKQFZipHsTUGlJUCzCe8) | 2:22 | 2024-01-19 | 2024-07-19 |
+| [Que Vuelva Lo Santo Al Altar](https://open.spotify.com/track/4CaukGrux3GEkAss6N96hM) | [Grupo Grace](https://open.spotify.com/artist/6toUclayfnCvKyLtLSmyqb), [Montesanto](https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ) | [Que Vuelva Lo Santo Al Altar](https://open.spotify.com/album/5oeomYwC5YkGONqoqKV9Vr) | 11:05 | 2026-05-01 |  |
 | [Quema Por Dentro](https://open.spotify.com/track/1v4W0ZcFhPNUlEoOc2deVM) | [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Entre Nubes](https://open.spotify.com/album/0xJK9fV0Kj0D5LQsVFOtbK) | 3:23 | 2022-02-25 | 2022-03-26 |
 | [Quien Diría \- Acústico](https://open.spotify.com/track/2grpLKWPOjeaRHU58cMh5G) | [Paulina Rojas](https://open.spotify.com/artist/54gfW1m0rJBh56fKihR53z), [Kiki Troia](https://open.spotify.com/artist/33kpEmYD45fssbeMMPDNzK) | [Quien Diría \(Acústico\)](https://open.spotify.com/album/1ybLkJTkMCMfXtsJwzZMDn) | 4:21 | 2022-09-16 | 2022-11-05 |
 | [Quien Nos da la Luz del Sol](https://open.spotify.com/track/3s4HWqzLA8zMv41gN41i7s) | [Jaime Murrell](https://open.spotify.com/artist/52UuWTjtPwZTQ4Y0lL8F5k) | [Quien Nos da la Luz del Sol](https://open.spotify.com/album/1juy964a32L3bqjYFlv8Gl) | 4:08 | 2022-02-25 | 2022-04-02 |

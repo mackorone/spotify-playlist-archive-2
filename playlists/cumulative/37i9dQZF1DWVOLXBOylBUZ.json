@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "Latinoam\u00e9rica baila al ritmo de Rauw Alejandro.",
+  "description": "Latinoam\u00e9rica baila al ritmo de Sech.",
   "name": "El Ritmo",
   "tracks": [
     {
@@ -2984,6 +2984,28 @@
       "duration_ms": 188850,
       "name": "Bandolero",
       "url": "https://open.spotify.com/track/2rbSD7wz9KiUEGtktagvdy"
+    },
+    {
+      "album": {
+        "name": "Bapesta",
+        "url": "https://open.spotify.com/album/73MIqqG30l6HVioROtyBMN"
+      },
+      "artists": [
+        {
+          "name": "R\u00e9gulo Molina",
+          "url": "https://open.spotify.com/artist/6sbrrDwFdWvTLiq8NUykqm"
+        },
+        {
+          "name": "Jorsshh",
+          "url": "https://open.spotify.com/artist/3HJq88k0us5XSJ4tD3J8RG"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147333,
+      "name": "Bapesta",
+      "url": "https://open.spotify.com/track/6FQ9JqyUJ1kGMAX4NMspE9"
     },
     {
       "album": {
@@ -7148,7 +7170,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 164280,
       "name": "CU\u00c1L NOSOTROS",
       "url": "https://open.spotify.com/track/74jGIxaHC0z3AAvItuHmU2"
@@ -8786,6 +8808,24 @@
       "duration_ms": 170894,
       "name": "Dolido y Borracho",
       "url": "https://open.spotify.com/track/7rZQGOwPL8GucEl09jZg9R"
+    },
+    {
+      "album": {
+        "name": "DONDE FUE FELIZ",
+        "url": "https://open.spotify.com/album/5jdkmNEk1SQgBJlebymokk"
+      },
+      "artists": [
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176774,
+      "name": "DONDE FUE FELIZ",
+      "url": "https://open.spotify.com/track/4E0v4fnHojKxinvglaufJy"
     },
     {
       "album": {
@@ -15718,7 +15758,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 200606,
       "name": "LOKENECESITAS",
       "url": "https://open.spotify.com/track/58DGexVv1NdVbkiudUNi1Z"
@@ -23252,7 +23292,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 188387,
       "name": "Princesa",
       "url": "https://open.spotify.com/track/0CyZIh9olFTztxvyHJ4LwP"
@@ -25972,7 +26012,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 169478,
       "name": "Sirenita",
       "url": "https://open.spotify.com/track/2nUWADb8oS9q6sa3cZn9zx"
@@ -27036,6 +27076,32 @@
       "duration_ms": 185608,
       "name": "Te Entiendo",
       "url": "https://open.spotify.com/track/03E9tKV8v3R1YQIz3MWlMU"
+    },
+    {
+      "album": {
+        "name": "Te Entiendo (Remix)",
+        "url": "https://open.spotify.com/album/05OMViCaav7QFZig4FJJOB"
+      },
+      "artists": [
+        {
+          "name": "Maisak",
+          "url": "https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335104,
+      "name": "Te Entiendo - Remix",
+      "url": "https://open.spotify.com/track/1VvliZHnsUj177MnuSY8G2"
     },
     {
       "album": {
@@ -28630,6 +28696,32 @@
       "duration_ms": 186013,
       "name": "Tu Boca",
       "url": "https://open.spotify.com/track/4wtOpbBoX1O3ClP6W7OEPz"
+    },
+    {
+      "album": {
+        "name": "YNTRO",
+        "url": "https://open.spotify.com/album/2Kie1bHmEHO470UxUmKwKD"
+      },
+      "artists": [
+        {
+          "name": "Jose Alatorre",
+          "url": "https://open.spotify.com/artist/2elQouERAEbISjxoAO3cPy"
+        },
+        {
+          "name": "Josa El Menor",
+          "url": "https://open.spotify.com/artist/2G2JiOdyGfRsEWqFs4hKUo"
+        },
+        {
+          "name": "Viglezz",
+          "url": "https://open.spotify.com/artist/1LJ9q30BIBFwaTDrJ5BZu5"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230421,
+      "name": "tu eres lo q pido",
+      "url": "https://open.spotify.com/track/0UaLB8eAXmBboZOxp6Bxa4"
     },
     {
       "album": {

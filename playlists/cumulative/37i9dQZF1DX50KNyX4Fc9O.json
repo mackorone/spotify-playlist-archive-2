@@ -10583,6 +10583,24 @@
     },
     {
       "album": {
+        "name": "Do Me Right",
+        "url": "https://open.spotify.com/album/66WDukXJAZwF71EeVW64rJ"
+      },
+      "artists": [
+        {
+          "name": "MR. FANTASY",
+          "url": "https://open.spotify.com/artist/34te8NejkffLcYjn9kiAiH"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250471,
+      "name": "Do Me Right",
+      "url": "https://open.spotify.com/track/0ATVg2CdySLs6ruXm6D6hr"
+    },
+    {
+      "album": {
         "name": "Do Or Die",
         "url": "https://open.spotify.com/album/3sSdSbnrHbVHNVPyU3CFsA"
       },

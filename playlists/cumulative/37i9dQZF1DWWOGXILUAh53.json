@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The hottest new pop with all the drops. Cover: Demi Lovato",
+  "description": "The hottest new pop with all the drops. Cover: Becky Hill ",
   "name": "New Dance Pop",
   "tracks": [
     {
@@ -698,6 +698,24 @@
       "duration_ms": 155000,
       "name": "9-5",
       "url": "https://open.spotify.com/track/4ECDmDKk1h0JmNqNQL6Aiw"
+    },
+    {
+      "album": {
+        "name": ">>>hands on me<<<",
+        "url": "https://open.spotify.com/album/0F588VeJ3cyYy6AnZFcXMv"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137560,
+      "name": ">>>hands on me<<<",
+      "url": "https://open.spotify.com/track/3g6l32hAD99c9SFQRAZutd"
     },
     {
       "album": {
@@ -3050,7 +3068,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 163506,
       "name": "Bad Love",
       "url": "https://open.spotify.com/track/6INyqCPYlGF06UD2sf9MdU"
@@ -4971,6 +4989,28 @@
     },
     {
       "album": {
+        "name": "Bring Your Love",
+        "url": "https://open.spotify.com/album/2lZVlp5shY7TufyMXOuACy"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        },
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216400,
+      "name": "Bring Your Love",
+      "url": "https://open.spotify.com/track/7rAr4Ai9dysthnfNRRC55Q"
+    },
+    {
+      "album": {
         "name": "Bringing Me Back (feat. Rosie Darling)",
         "url": "https://open.spotify.com/album/7Hqvaswo0b3gVHavCpOaIu"
       },
@@ -5004,7 +5044,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 224319,
       "name": "BRITTANY MURPHY.",
       "url": "https://open.spotify.com/track/4oUrl0RyDqr1DvNDvPNdRL"
@@ -5520,7 +5560,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 166557,
       "name": "Calvin Klein",
       "url": "https://open.spotify.com/track/6V8q2p3HdAi7YKwzoNXxhi"
@@ -5967,6 +6007,24 @@
     },
     {
       "album": {
+        "name": "Ceasefire",
+        "url": "https://open.spotify.com/album/6UISk0EXFfBXqhTN6KRfjC"
+      },
+      "artists": [
+        {
+          "name": "Lilly Ahlberg",
+          "url": "https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151515,
+      "name": "Ceasefire",
+      "url": "https://open.spotify.com/track/4RIw1uiwQ1dnr8hXUB8Hpy"
+    },
+    {
+      "album": {
         "name": "Celebrate",
         "url": "https://open.spotify.com/album/6cZLiA8VFwNkTyHRc0esUm"
       },
@@ -6292,7 +6350,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 164755,
       "name": "Chemical Love",
       "url": "https://open.spotify.com/track/4ir6iIZhasIqi7idrxPaP9"
@@ -6634,6 +6692,28 @@
     {
       "album": {
         "name": "Closure",
+        "url": "https://open.spotify.com/album/1PyUm9Ez6uKvsWNn7bEJbD"
+      },
+      "artists": [
+        {
+          "name": "D.O.D",
+          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+        },
+        {
+          "name": "Hayley May",
+          "url": "https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147522,
+      "name": "Closure",
+      "url": "https://open.spotify.com/track/6aynKW70w06W8LyZaKpdAX"
+    },
+    {
+      "album": {
+        "name": "Closure",
         "url": "https://open.spotify.com/album/2BjsNLTrPTRAZT9H4xAmq5"
       },
       "artists": [
@@ -6644,7 +6724,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 188496,
       "name": "Closure",
       "url": "https://open.spotify.com/track/5NjbTzanvYvN3xxDUmSy4b"
@@ -6896,7 +6976,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 178933,
       "name": "Coming Close",
       "url": "https://open.spotify.com/track/64uIpEA5lQruLaWkLBe1gD"
@@ -8182,6 +8262,24 @@
       "duration_ms": 151578,
       "name": "DANSE",
       "url": "https://open.spotify.com/track/3CTlN5zEni6m26Wwkc3voS"
+    },
+    {
+      "album": {
+        "name": "Dark Love",
+        "url": "https://open.spotify.com/album/2GNCMmvymEw8GW4e3MBsmt"
+      },
+      "artists": [
+        {
+          "name": "Sevek",
+          "url": "https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192230,
+      "name": "Dark Love",
+      "url": "https://open.spotify.com/track/272zNOGMxYSxDP9kAaCnPn"
     },
     {
       "album": {
@@ -9588,7 +9686,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 175238,
       "name": "Don't Stop",
       "url": "https://open.spotify.com/track/2JgqwzlOSIxq5WmXKJdnVp"
@@ -10328,6 +10426,24 @@
       "duration_ms": 169717,
       "name": "Drum (feat. Lena Sue)",
       "url": "https://open.spotify.com/track/0PaxddTF3iYgbPBHitXX6V"
+    },
+    {
+      "album": {
+        "name": "Sweat",
+        "url": "https://open.spotify.com/album/2ZrlQz1UiDn1pCThyICAeD"
+      },
+      "artists": [
+        {
+          "name": "Melanie C",
+          "url": "https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196968,
+      "name": "Drum Machine",
+      "url": "https://open.spotify.com/track/1nKvzyWhcP4KYAXeOMrul5"
     },
     {
       "album": {
@@ -12375,6 +12491,28 @@
     },
     {
       "album": {
+        "name": "Fire Away (feat. Slayyyter)",
+        "url": "https://open.spotify.com/album/1PneNeTJUTq8ueNrXhjwQR"
+      },
+      "artists": [
+        {
+          "name": "Madeon",
+          "url": "https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc"
+        },
+        {
+          "name": "Slayyyter",
+          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207868,
+      "name": "Fire Away (feat. Slayyyter)",
+      "url": "https://open.spotify.com/track/2un4EaIKXxdVtQbO6cdYM4"
+    },
+    {
+      "album": {
         "name": "Fire! (feat. YUQI ((G)I-DLE), JVKE)",
         "url": "https://open.spotify.com/album/5uI3nK40uWp8fRu9Cvk71w"
       },
@@ -13701,6 +13839,46 @@
     },
     {
       "album": {
+        "name": "GIMME LOVE",
+        "url": "https://open.spotify.com/album/6IQurEKKVwB02dp7UbuKLO"
+      },
+      "artists": [
+        {
+          "name": "\u0141aszewo",
+          "url": "https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169545,
+      "name": "GIMME LOVE",
+      "url": "https://open.spotify.com/track/2z8xRuTyWedWWAKSWvI9O2"
+    },
+    {
+      "album": {
+        "name": "Midnight Sun: Girls Trip",
+        "url": "https://open.spotify.com/album/4WMcRlbt7NvpKrrqO8ykQf"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        },
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195913,
+      "name": "Girl's Girl - Girls Trip",
+      "url": "https://open.spotify.com/track/1eA6Uh2q01uLdV8aXupWtY"
+    },
+    {
+      "album": {
         "name": "Girlfriend",
         "url": "https://open.spotify.com/album/0q4Y4pXndd7NxFIwG5yInO"
       },
@@ -13883,6 +14061,28 @@
     },
     {
       "album": {
+        "name": "give me a call (someday)",
+        "url": "https://open.spotify.com/album/7xHyZooexQ6W1Yyj5Ey6sO"
+      },
+      "artists": [
+        {
+          "name": "AUGIS",
+          "url": "https://open.spotify.com/artist/2UlsuMqDGywuSw0FT1rfbb"
+        },
+        {
+          "name": "Emilia Ali",
+          "url": "https://open.spotify.com/artist/4k5j2KkfsE7yGO46C0Hm1G"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150697,
+      "name": "give me a call (someday)",
+      "url": "https://open.spotify.com/track/72iJoeTxwgvntBgDK9JhVl"
+    },
+    {
+      "album": {
         "name": "Give That Wolf A Banana",
         "url": "https://open.spotify.com/album/0GPnAl0Q0GMPgFbmScP5as"
       },
@@ -14026,7 +14226,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 186461,
       "name": "Go Home With A Stranger",
       "url": "https://open.spotify.com/track/6bQGjCqJLedU9x6ZAmIKE8"
@@ -16868,7 +17068,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 163091,
       "name": "Hot Pink Baby",
       "url": "https://open.spotify.com/track/7cBadBYT0YMaWv8yA6uMZm"
@@ -16988,7 +17188,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 164000,
       "name": "How Do You Know",
       "url": "https://open.spotify.com/track/4hRFcF6Ck7ng8cD8O14A9u"
@@ -19424,7 +19624,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 228044,
       "name": "Intentions",
       "url": "https://open.spotify.com/track/7hCslhjJhNF5jZQANmqx3l"
@@ -21612,7 +21812,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 156860,
       "name": "Living Life",
       "url": "https://open.spotify.com/track/2Ohsc9IuacQeX7B8Ha05V3"
@@ -22936,7 +23136,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 181976,
       "name": "Lush Life - Spotify Singles",
       "url": "https://open.spotify.com/track/19vcdecWhQfCqf4KzEnlRj"
@@ -23542,7 +23742,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 172323,
       "name": "Me and my",
       "url": "https://open.spotify.com/track/0yV7V1mQ3yQZL1Gp3jNggW"
@@ -26370,6 +26570,28 @@
     {
       "album": {
         "name": "No Sleep",
+        "url": "https://open.spotify.com/album/4PxjS1j0oU4kMgPTRTeSfy"
+      },
+      "artists": [
+        {
+          "name": "Alexandra Stan",
+          "url": "https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL"
+        },
+        {
+          "name": "FAULHABER",
+          "url": "https://open.spotify.com/artist/49T8i1paijMAK9rYtjO4lu"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145846,
+      "name": "No Sleep",
+      "url": "https://open.spotify.com/track/6HKNYBGRBvofWjSHmfkVvE"
+    },
+    {
+      "album": {
+        "name": "No Sleep",
         "url": "https://open.spotify.com/album/6mf8HZ3jitYeIlejz9Lq9p"
       },
       "artists": [
@@ -27890,7 +28112,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 228947,
       "name": "Opalite - Chris Lake Remix",
       "url": "https://open.spotify.com/track/0ttGLmxI0mAkMblE6iRm2S"
@@ -28004,7 +28226,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 129828,
       "name": "OUT LATE.",
       "url": "https://open.spotify.com/track/7tIkEd5g0uw5AaFkPbdqJE"
@@ -29668,7 +29890,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 155538,
       "name": "Pull Up",
       "url": "https://open.spotify.com/track/2Zk7GbM6pfouSACjW1gtcE"
@@ -30545,6 +30767,28 @@
     },
     {
       "album": {
+        "name": "Replay (What You Say)",
+        "url": "https://open.spotify.com/album/7kKyHRO9UmCRtUlhKVFJBH"
+      },
+      "artists": [
+        {
+          "name": "Merk & Kremont",
+          "url": "https://open.spotify.com/artist/5rRcnWrevHgbuWjl7Lhft7"
+        },
+        {
+          "name": "Alessia Labate",
+          "url": "https://open.spotify.com/artist/3znJOYi3CDM5ZQkbo6kmjd"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148421,
+      "name": "Replay (What You Say)",
+      "url": "https://open.spotify.com/track/1wT6sMqf0Ek3LAbPogJPMy"
+    },
+    {
+      "album": {
         "name": "Rescue Me",
         "url": "https://open.spotify.com/album/7JtDBdtxIwotN87YmFy579"
       },
@@ -30796,7 +31040,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 176000,
       "name": "Right here...",
       "url": "https://open.spotify.com/track/7JxufZObN8xKDnEUmd1uK5"
@@ -34769,6 +35013,28 @@
     },
     {
       "album": {
+        "name": "COMPASS",
+        "url": "https://open.spotify.com/album/19PEiRF9SAXbXk07dGWcPc"
+      },
+      "artists": [
+        {
+          "name": "MC4D",
+          "url": "https://open.spotify.com/artist/2MbY32LPINIi9P6PCkrOJI"
+        },
+        {
+          "name": "Clara Mae",
+          "url": "https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203086,
+      "name": "Still Got Time",
+      "url": "https://open.spotify.com/track/2GWb0DqliHspGntujeOCvP"
+    },
+    {
+      "album": {
         "name": "Still Into You",
         "url": "https://open.spotify.com/album/12AGcC8vmuGnxLIoyJDrj5"
       },
@@ -36136,7 +36402,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 151935,
       "name": "Take It",
       "url": "https://open.spotify.com/track/7MEGnPUY4dLQz3gvY212jM"
@@ -37616,7 +37882,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 243517,
       "name": "The Way",
       "url": "https://open.spotify.com/track/0NXwndCm4AUpMyvgr5LRzT"
@@ -37958,7 +38224,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 152000,
       "name": "THONG",
       "url": "https://open.spotify.com/track/5r1D9DtMEElNntJiidxjHG"
@@ -38158,7 +38424,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 146142,
       "name": "to be honest",
       "url": "https://open.spotify.com/track/3SnPe12kpzkBH65CHn0Zq6"
@@ -40054,7 +40320,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 158839,
       "name": "Wanna Love Me (Like You Do)",
       "url": "https://open.spotify.com/track/6abRH1A5JIC3EYhvUa7Msw"
@@ -40976,7 +41242,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 184203,
       "name": "when the party's over",
       "url": "https://open.spotify.com/track/18FFF8WK84eJXvg1xlXJjV"
@@ -41386,6 +41652,28 @@
       "duration_ms": 178400,
       "name": "White Wine & Adderall",
       "url": "https://open.spotify.com/track/1AApldBkudH6jZAE9ucdUF"
+    },
+    {
+      "album": {
+        "name": "who could love you like i do?",
+        "url": "https://open.spotify.com/album/6GQtcmkArttG2r4dtPYI3w"
+      },
+      "artists": [
+        {
+          "name": "kammy",
+          "url": "https://open.spotify.com/artist/4f90kqu2ZdLTFLCXPDsAG6"
+        },
+        {
+          "name": "kamille",
+          "url": "https://open.spotify.com/artist/0XSz7OqyhKBKRq4ZU8WpAo"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192563,
+      "name": "who could love you like i do?",
+      "url": "https://open.spotify.com/track/2HpGcpYIElLexIf8dwH8Kn"
     },
     {
       "album": {

@@ -2332,7 +2332,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 174801,
       "name": "DISCOTEKA",
       "url": "https://open.spotify.com/track/4NkJeL16uUJJJFuZPvR1DC"
@@ -8870,6 +8870,24 @@
       "duration_ms": 207632,
       "name": "Yo Te Dir\u00e9",
       "url": "https://open.spotify.com/track/2K6QTldAHBRFk3c6BHWYr5"
+    },
+    {
+      "album": {
+        "name": "\u00c1ngel Ca\u00eddo",
+        "url": "https://open.spotify.com/album/6tWk3CScCYmtpiABKdxkDy"
+      },
+      "artists": [
+        {
+          "name": "Trucha",
+          "url": "https://open.spotify.com/artist/5fsk587VCGq4VWwPyCW9rW"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265605,
+      "name": "\u00c1ngel Ca\u00eddo",
+      "url": "https://open.spotify.com/track/7jUm9qwlA75HLx27RDKkWS"
     },
     {
       "album": {

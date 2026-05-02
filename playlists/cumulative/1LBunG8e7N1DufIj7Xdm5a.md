@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,346 songs - 9 day 15 hr 50 min
+4,348 songs - 9 day 15 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2010,6 +2010,7 @@
 | [Kick In The Teeth](https://open.spotify.com/track/1a9VSlfqljmvA6eS8o8nIl) | [Hexe](https://open.spotify.com/artist/3WZaW8fkkvGju9kFx4FeoN) | [Kick In The Teeth](https://open.spotify.com/album/0qteBQwyHGA0xex6lcnZQe) | 3:39 | 2025-12-31 |  |
 | [Kickflip Dreams](https://open.spotify.com/track/16iIzHXUsrqGXXhZkuFpQu) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Skate punk](https://open.spotify.com/album/4SRDpSExvdGd0QXK9E5UTI) | 2:08 | 2025-09-13 |  |
 | [Kickflip Dreams \(another\)](https://open.spotify.com/track/3Imf3dHfe1X66M0RnkJmpG) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Skate punk](https://open.spotify.com/album/4SRDpSExvdGd0QXK9E5UTI) | 1:49 | 2025-09-13 |  |
+| [Kikiri](https://open.spotify.com/track/0Ph4ZM6ALp60ee0QLYqIhb) | [HOZATHEBOSS](https://open.spotify.com/artist/5qlQBBPsnIsx0UxLSVotFj), [Quobo blessing](https://open.spotify.com/artist/7EHMTSkPqZTNMIpFE2vR4q) | [Kikiri](https://open.spotify.com/album/6k3FPD6wqHQ61hNGb2eQIE) | 2:09 | 2026-05-01 |  |
 | [Kilimanjaro](https://open.spotify.com/track/0o2v8uvzdaNdKhl50rz0z0) | [Jack Vultur](https://open.spotify.com/artist/4UIDVuQxTCzkVVNP2YAMf8) | [Kilimanjaro](https://open.spotify.com/album/0dr2X1NMkee0OV2og9fbik) | 3:24 | 2025-08-10 |  |
 | [Kinfølk](https://open.spotify.com/track/6lgBD3xdcyFDxmOqa6DYaR) | [Nøyre](https://open.spotify.com/artist/3VM5a2nh6VEXEW7FpLHwEz) | [Kinfølk](https://open.spotify.com/album/1M1JCVztOBDv7W12JSEBTI) | 2:20 | 2025-03-31 |  |
 | [King of Carrot Flowers Pt\. 1](https://open.spotify.com/track/5CU1bbfY1wUPm7fU255Dhf) | [Neutral Milk Hotel](https://open.spotify.com/artist/2ooIqOf4X2uz4mMptXCtie) | [In the Aeroplane Over the Sea](https://open.spotify.com/album/0vVekV45lOaVKs6RZQQNob) | 2:00 | 2025-11-05 |  |
@@ -2075,7 +2076,7 @@
 | [La Tasca](https://open.spotify.com/track/1RKrSxUUhzrnUHtF11MHVu) | [Puerto Mariel](https://open.spotify.com/artist/4RYkqvK3dICXDfPhGaQa1C) | [La Tasca](https://open.spotify.com/album/6mYck7yQ1nq9ybLGRSiTVz) | 3:56 | 2026-02-06 |  |
 | [La verità sul tennis](https://open.spotify.com/track/6t5STR5BEGnNjK0jxrBANJ) | [Virginiana Miller](https://open.spotify.com/artist/6NGMOEzlFqBGNk3dfsRphx) | [La verità sul tennis](https://open.spotify.com/album/7B4ndOk9TGBy0dIubHuEFV) | 3:47 | 2025-11-12 |  |
 | [La vie en blues](https://open.spotify.com/track/6Gd4NfShOmGF3dxNJXpJZJ) | [Mannerdogs](https://open.spotify.com/artist/4YuMVFtgou6wWvx2dVEVj3) | [La vie en blues](https://open.spotify.com/album/7eLBoGkM5EF2JTMj6LAZEn) | 4:58 | 2025-03-17 |  |
-| [La Voce del Guerriero](https://open.spotify.com/track/3Qz2eWyknAOgOQp0eV1B6K) | [La voce del Guerriero](https://open.spotify.com/artist/7M5QXFQwcwIqzeuYJ0T6q6) | [La Voce del Guerriero](https://open.spotify.com/album/1QOCJwdtFf0omgQYkLwhAI) | 3:01 | 2025-06-01 |  |
+| [La Voce del Guerriero](https://open.spotify.com/track/3Qz2eWyknAOgOQp0eV1B6K) | [Jacopo Bettarello](https://open.spotify.com/artist/0tAVAXmULUK2GFWGsMwEsQ) | [La Voce del Guerriero](https://open.spotify.com/album/1QOCJwdtFf0omgQYkLwhAI) | 3:01 | 2025-06-01 |  |
 | [Laberinto](https://open.spotify.com/track/6fSvVwotOPr57E5Xl8X9sY) | [JaNNus](https://open.spotify.com/artist/6UzFYM28tp9IjqbjVdnmTb), [Cristian Argonz](https://open.spotify.com/artist/1tvPKCfCxBoYEpbd0VjCVR) | [Nueva Era](https://open.spotify.com/album/6aBPq0mvfWPYuSv1OzPhL5) | 5:49 | 2025-06-20 |  |
 | [Lacrime di Rabbia](https://open.spotify.com/track/77b1C04AKHffjBle4f0doC) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Hard Rock Italiano](https://open.spotify.com/album/7KUGkABGedkgcAuKtoeTtk) | 2:51 | 2025-09-18 |  |
 | [Lacrime di Rabbia \(another\)](https://open.spotify.com/track/3AiEtG45epqR2ryKmOWryf) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Hard Rock Italiano](https://open.spotify.com/album/7KUGkABGedkgcAuKtoeTtk) | 4:00 | 2025-09-18 |  |
@@ -3699,6 +3700,7 @@
 | [Tempo](https://open.spotify.com/track/2ogOjb9fV4ATfEeydD68Hw) | [Fra](https://open.spotify.com/artist/7bbemKBpCgvwVPn8dF4kct) | [Tempo](https://open.spotify.com/album/1j5Wlbx7lrxfhkfOH8Ahv0) | 3:38 | 2025-05-27 |  |
 | [ten](https://open.spotify.com/track/6ntNw1LfWqrlzY1SnM8VhG) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Relaxing songs](https://open.spotify.com/album/0vvgdvru0enjJknJVwKloZ) | 4:03 | 2025-08-20 |  |
 | [Ten thousand men](https://open.spotify.com/track/33moAVjq9JRu0mUgSGMT6V) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [80's music inspired](https://open.spotify.com/album/52EpTauHULa82DwbMx0Pdh) | 3:18 | 2025-08-28 |  |
+| [TENDENCIA](https://open.spotify.com/track/2JLopiOtCfUzma7nCqrW6R) | [The Samu](https://open.spotify.com/artist/1hyzQSk08cK1aPlEKx5dOP) | [TENDENCIA](https://open.spotify.com/album/0FUyjX0GbIMMsZi9DUPLQR) | 2:12 | 2026-05-01 |  |
 | [Tendría Que Decirte](https://open.spotify.com/track/5xxlSg1ABlurLa6uXWQn7n) | [Los Crushers](https://open.spotify.com/artist/65xNr7wwwRFXt9oq6DsN8q) | [Tendría Que Decirte](https://open.spotify.com/album/6hDuIOmX3jcGjKRBQUnewx) | 3:25 | 2025-05-26 |  |
 | [Tequila](https://open.spotify.com/track/604J1W36qY6kexnBe2rEzC) | [highcoast](https://open.spotify.com/artist/5ArAMeGDul8czOO8rcomzy) | [Tequila](https://open.spotify.com/album/1elTFLJPDWsv1QIFtYpkGz) | 2:28 | 2025-05-22 |  |
 | [Tera Naam Le Ke](https://open.spotify.com/track/7pBhg5NmWtOBPDApUhLZhn) | [Digital Pandit](https://open.spotify.com/artist/2bvkbJhJKy40qcIipIbPjT) | [Tera Naam Le Ke](https://open.spotify.com/album/4kAcdiaFhqUQ0h4DayLBdj) | 4:16 | 2026-04-29 |  |

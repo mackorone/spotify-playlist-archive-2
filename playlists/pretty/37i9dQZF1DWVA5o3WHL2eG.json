@@ -1,6 +1,6 @@
 {
   "description": "Women at full volume! Cover: Josi",
-  "num_followers": 48681,
+  "num_followers": 48673,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
@@ -279,22 +279,6 @@
     {
       "added_at": "2026-04-07 22:00:18",
       "album": {
-        "name": "Virgin Lake",
-        "url": "https://open.spotify.com/album/5hjXrxckG7e4f8IDw8Czcs"
-      },
-      "artists": [
-        {
-          "name": "Philine Sonny",
-          "url": "https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t"
-        }
-      ],
-      "duration_ms": 265906,
-      "name": "Dog Bite",
-      "url": "https://open.spotify.com/track/4oMfYG01Heyeqkdxfq9Z3D"
-    },
-    {
-      "added_at": "2026-04-07 22:00:18",
-      "album": {
         "name": "wasserfarben",
         "url": "https://open.spotify.com/album/5anq9Pq1u3YXlbpi94VF3N"
       },
@@ -311,18 +295,18 @@
     {
       "added_at": "2026-04-07 22:00:18",
       "album": {
-        "name": "GEN Z LUV",
-        "url": "https://open.spotify.com/album/2Lg8iJMdSJOa3jlo0nMMvQ"
+        "name": "Virgin Lake",
+        "url": "https://open.spotify.com/album/5hjXrxckG7e4f8IDw8Czcs"
       },
       "artists": [
         {
-          "name": "Rubi",
-          "url": "https://open.spotify.com/artist/0VlrorDSkEbLK1D6VvMgd2"
+          "name": "Philine Sonny",
+          "url": "https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t"
         }
       ],
-      "duration_ms": 108503,
-      "name": "GEN Z LUV",
-      "url": "https://open.spotify.com/track/0HLqEQQmoWswlR2sxYQlCI"
+      "duration_ms": 265906,
+      "name": "Dog Bite",
+      "url": "https://open.spotify.com/track/4oMfYG01Heyeqkdxfq9Z3D"
     },
     {
       "added_at": "2026-04-07 22:00:18",
@@ -339,6 +323,22 @@
       "duration_ms": 168712,
       "name": "sommerwind",
       "url": "https://open.spotify.com/track/3puY290XhaYRHxebmg9NvN"
+    },
+    {
+      "added_at": "2026-04-07 22:00:18",
+      "album": {
+        "name": "GEN Z LUV",
+        "url": "https://open.spotify.com/album/2Lg8iJMdSJOa3jlo0nMMvQ"
+      },
+      "artists": [
+        {
+          "name": "Rubi",
+          "url": "https://open.spotify.com/artist/0VlrorDSkEbLK1D6VvMgd2"
+        }
+      ],
+      "duration_ms": 108503,
+      "name": "GEN Z LUV",
+      "url": "https://open.spotify.com/track/0HLqEQQmoWswlR2sxYQlCI"
     },
     {
       "added_at": "2026-04-07 22:00:18",
@@ -583,22 +583,6 @@
     {
       "added_at": "2026-04-07 22:00:18",
       "album": {
-        "name": "wieviele Tage",
-        "url": "https://open.spotify.com/album/6SaXHsxV1SFbQgULjEfUmw"
-      },
-      "artists": [
-        {
-          "name": "fiora",
-          "url": "https://open.spotify.com/artist/757EH7oogI3l10jrOicVzE"
-        }
-      ],
-      "duration_ms": 144946,
-      "name": "wieviele Tage",
-      "url": "https://open.spotify.com/track/3AfgaomsUEosFavo59d5Ki"
-    },
-    {
-      "added_at": "2026-04-07 22:00:18",
-      "album": {
         "name": "Primapulsa",
         "url": "https://open.spotify.com/album/6yK3S6RhA6tSIef0epie7D"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 147728,
       "name": "Primapulsa",
       "url": "https://open.spotify.com/track/5TJjKFnwFmnejKyzDLdUoq"
+    },
+    {
+      "added_at": "2026-04-07 22:00:18",
+      "album": {
+        "name": "wieviele Tage",
+        "url": "https://open.spotify.com/album/6SaXHsxV1SFbQgULjEfUmw"
+      },
+      "artists": [
+        {
+          "name": "fiora",
+          "url": "https://open.spotify.com/artist/757EH7oogI3l10jrOicVzE"
+        }
+      ],
+      "duration_ms": 144946,
+      "name": "wieviele Tage",
+      "url": "https://open.spotify.com/track/3AfgaomsUEosFavo59d5Ki"
     },
     {
       "added_at": "2026-04-07 22:00:18",

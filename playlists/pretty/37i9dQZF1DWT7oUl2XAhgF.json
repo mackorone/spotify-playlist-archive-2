@@ -1,13 +1,45 @@
 {
   "description": "A new take on a classic sound. Cover: Jalen Ngonda",
-  "num_followers": 395590,
+  "num_followers": 395648,
   "original_name": "Retro Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJb395mMC9GGOHcWRw0sFIQAurCI",
+  "snapshot_id": "AAAAAMhjyULE3lmqUm43Zj9E9R/5QCUO",
   "tracks": [
+    {
+      "added_at": "2026-05-01 04:00:17",
+      "album": {
+        "name": "When You're Around",
+        "url": "https://open.spotify.com/album/6xllDwr0Kh9uRcDDYdeKJU"
+      },
+      "artists": [
+        {
+          "name": "Charlie Bereal",
+          "url": "https://open.spotify.com/artist/2uMEr7c0zWQrtoAzebTMsa"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "When You're Around",
+      "url": "https://open.spotify.com/track/4hPUbNpY11rYOlsDcIEvTU"
+    },
+    {
+      "added_at": "2026-05-01 04:00:17",
+      "album": {
+        "name": "Only You Do",
+        "url": "https://open.spotify.com/album/3oDfAN8EieUpee7kMbSJUr"
+      },
+      "artists": [
+        {
+          "name": "GoldFord",
+          "url": "https://open.spotify.com/artist/4I2QW85rkIhCRRZt1kuBqS"
+        }
+      ],
+      "duration_ms": 208327,
+      "name": "Only You Do",
+      "url": "https://open.spotify.com/track/12Qf5UTb75Dg3g0mY3KmV0"
+    },
     {
       "added_at": "2026-04-17 04:01:03",
       "album": {
@@ -39,6 +71,26 @@
       "duration_ms": 184700,
       "name": "Any Old Fool",
       "url": "https://open.spotify.com/track/6HNpTTwnQHo5JSrWQETLwg"
+    },
+    {
+      "added_at": "2026-05-01 04:00:17",
+      "album": {
+        "name": "You Bring Me Joy",
+        "url": "https://open.spotify.com/album/3ZWCU07aShb3rpvBk6Cp8Q"
+      },
+      "artists": [
+        {
+          "name": "Pratt & Moody",
+          "url": "https://open.spotify.com/artist/1gz7rv5Nn1PgNg755QP2G6"
+        },
+        {
+          "name": "Cold Diamond & Mink",
+          "url": "https://open.spotify.com/artist/47eOrmm0M2qY5atzSNNt2b"
+        }
+      ],
+      "duration_ms": 231496,
+      "name": "You Bring Me Joy",
+      "url": "https://open.spotify.com/track/1FkP9zQJAPKJaW2RCR9LLg"
     },
     {
       "added_at": "2026-03-27 04:00:06",
@@ -541,38 +593,6 @@
       "url": "https://open.spotify.com/track/5juAS6AmOceMjFnlUaJQr2"
     },
     {
-      "added_at": "2025-10-03 04:00:47",
-      "album": {
-        "name": "Together",
-        "url": "https://open.spotify.com/album/4nd5WNhqkFX7CWuJbS2Hpq"
-      },
-      "artists": [
-        {
-          "name": "Charlie Bereal",
-          "url": "https://open.spotify.com/artist/2uMEr7c0zWQrtoAzebTMsa"
-        }
-      ],
-      "duration_ms": 199965,
-      "name": "Together",
-      "url": "https://open.spotify.com/track/196CykfquyUe0B4zGkG2GZ"
-    },
-    {
-      "added_at": "2025-09-26 04:00:43",
-      "album": {
-        "name": "Space of the Heart",
-        "url": "https://open.spotify.com/album/30OIr0GbwJAi9nXBlFB8ki"
-      },
-      "artists": [
-        {
-          "name": "GoldFord",
-          "url": "https://open.spotify.com/artist/4I2QW85rkIhCRRZt1kuBqS"
-        }
-      ],
-      "duration_ms": 239628,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/4ldN4hSrc7tK7t0FKeLNOf"
-    },
-    {
       "added_at": "2025-09-12 04:00:29",
       "album": {
         "name": "Silver Lining",
@@ -1043,22 +1063,6 @@
       "duration_ms": 178081,
       "name": "It's Been Too Long (Since I've Loved Someone)",
       "url": "https://open.spotify.com/track/25Mf214vqBqOxgTgXevqZp"
-    },
-    {
-      "added_at": "2025-07-18 04:00:12",
-      "album": {
-        "name": "Runnin'",
-        "url": "https://open.spotify.com/album/0t1tbrvYOZhB3ANSUuCzt0"
-      },
-      "artists": [
-        {
-          "name": "GoldFord",
-          "url": "https://open.spotify.com/artist/4I2QW85rkIhCRRZt1kuBqS"
-        }
-      ],
-      "duration_ms": 229886,
-      "name": "Runnin'",
-      "url": "https://open.spotify.com/track/0uGAuUzVvLEigxaK9rC7Mp"
     },
     {
       "added_at": "2025-05-16 04:00:18",

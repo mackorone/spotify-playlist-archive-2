@@ -1,6 +1,6 @@
 {
   "description": "Listen to women at full volume. Cover: bambi",
-  "num_followers": 1040987,
+  "num_followers": 1040892,
   "original_name": "EQUAL",
   "owner": {
     "name": "Spotify",
@@ -815,6 +815,22 @@
     {
       "added_at": "2026-04-24 04:00:41",
       "album": {
+        "name": "IS IT FUN OR IS IT OVER?",
+        "url": "https://open.spotify.com/album/74WPtnFgpaweZt8wSqcfQd"
+      },
+      "artists": [
+        {
+          "name": "Mercer Henderson",
+          "url": "https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L"
+        }
+      ],
+      "duration_ms": 154131,
+      "name": "Kiss Me Better",
+      "url": "https://open.spotify.com/track/1NxInf8oAuifXyT8Umkblf"
+    },
+    {
+      "added_at": "2026-04-24 04:00:41",
+      "album": {
         "name": "Mix Poco Yo: S\u00e9 Que Te Amo / Tu Traici\u00f3n / Otra Ocupa Mi Lugar / Te He Prometido (En Vivo)",
         "url": "https://open.spotify.com/album/3ijH4T7QFQuueB1sQJeQNB"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 173637,
       "name": "Salam",
       "url": "https://open.spotify.com/track/2Q0Ulx1pR8gTJoCfxOOVCZ"
-    },
-    {
-      "added_at": "2026-04-24 04:00:41",
-      "album": {
-        "name": "IS IT FUN OR IS IT OVER?",
-        "url": "https://open.spotify.com/album/74WPtnFgpaweZt8wSqcfQd"
-      },
-      "artists": [
-        {
-          "name": "Mercer Henderson",
-          "url": "https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L"
-        }
-      ],
-      "duration_ms": 154131,
-      "name": "Kiss Me Better",
-      "url": "https://open.spotify.com/track/1NxInf8oAuifXyT8Umkblf"
     },
     {
       "added_at": "2026-04-24 04:00:41",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2026-04-24 04:00:41",
       "album": {
-        "name": "Fluturi",
-        "url": "https://open.spotify.com/album/21ylqkjzBLno60czMwYYle"
-      },
-      "artists": [
-        {
-          "name": "EMAA",
-          "url": "https://open.spotify.com/artist/4j4xD0oanPaJMB0BVqsRGE"
-        }
-      ],
-      "duration_ms": 155412,
-      "name": "Fluturi",
-      "url": "https://open.spotify.com/track/3SWHzg17hqXGkiOdox5jkS"
-    },
-    {
-      "added_at": "2026-04-24 04:00:41",
-      "album": {
         "name": "X AMOR",
         "url": "https://open.spotify.com/album/67pDqlELzfg5FNceBAd8Vc"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 174260,
       "name": "X AMOR",
       "url": "https://open.spotify.com/track/3VmbHemGYprg5fYFG6ZEdh"
+    },
+    {
+      "added_at": "2026-04-24 04:00:41",
+      "album": {
+        "name": "Fluturi",
+        "url": "https://open.spotify.com/album/21ylqkjzBLno60czMwYYle"
+      },
+      "artists": [
+        {
+          "name": "EMAA",
+          "url": "https://open.spotify.com/artist/4j4xD0oanPaJMB0BVqsRGE"
+        }
+      ],
+      "duration_ms": 155412,
+      "name": "Fluturi",
+      "url": "https://open.spotify.com/track/3SWHzg17hqXGkiOdox5jkS"
     },
     {
       "added_at": "2026-04-24 04:00:41",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2026-04-24 04:00:41",
       "album": {
-        "name": "Sun-Kissed",
-        "url": "https://open.spotify.com/album/5UzL6zf0GmyjtKuqlGoJNT"
-      },
-      "artists": [
-        {
-          "name": "Sugar 'N Spice",
-          "url": "https://open.spotify.com/artist/19QSRQEb3DVrOHPiExaZSl"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "Sun-Kissed",
-      "url": "https://open.spotify.com/track/5zKu2kbKSpzr5QvINZswOy"
-    },
-    {
-      "added_at": "2026-04-24 04:00:41",
-      "album": {
         "name": "Kiss u goodnight",
         "url": "https://open.spotify.com/album/0no5KOn0MFnit0HXQr8M9S"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 194198,
       "name": "Kiss u goodnight",
       "url": "https://open.spotify.com/track/4Vz6slkVySutvsUxegFupk"
+    },
+    {
+      "added_at": "2026-04-24 04:00:41",
+      "album": {
+        "name": "Sun-Kissed",
+        "url": "https://open.spotify.com/album/5UzL6zf0GmyjtKuqlGoJNT"
+      },
+      "artists": [
+        {
+          "name": "Sugar 'N Spice",
+          "url": "https://open.spotify.com/artist/19QSRQEb3DVrOHPiExaZSl"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "Sun-Kissed",
+      "url": "https://open.spotify.com/track/5zKu2kbKSpzr5QvINZswOy"
     },
     {
       "added_at": "2026-04-24 04:00:41",

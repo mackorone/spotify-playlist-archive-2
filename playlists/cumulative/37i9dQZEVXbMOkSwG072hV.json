@@ -7954,7 +7954,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 97960,
       "name": "Babydoll",
       "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
@@ -68022,7 +68022,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 192796,
       "name": "Pouca ideia toque dezz",
       "url": "https://open.spotify.com/track/38YU548wIKcTnofznY9p6x"
@@ -75216,6 +75216,44 @@
       "duration_ms": 69360,
       "name": "Se Paciente Funk",
       "url": "https://open.spotify.com/track/2f0ICQHa6q8hr5HjeFmDJO"
+    },
+    {
+      "album": {
+        "name": "Se Sabe Que Eu To Gostando",
+        "url": "https://open.spotify.com/album/5BqPv9V2BlIC1yCGduadEE"
+      },
+      "artists": [
+        {
+          "name": "Dj careca",
+          "url": "https://open.spotify.com/artist/0P7sCVsfonlM8gpFnddZkl"
+        },
+        {
+          "name": "Paulista DJ",
+          "url": "https://open.spotify.com/artist/3PcISbpznT2unEdjAD1fPB"
+        },
+        {
+          "name": "DJ BIELL DN",
+          "url": "https://open.spotify.com/artist/5OEWt3AxoZkPPW18ut86WT"
+        },
+        {
+          "name": "FreesTyle Sounds",
+          "url": "https://open.spotify.com/artist/2220tqsEJ1MrEmNhf7q3MI"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        },
+        {
+          "name": "CACAU CHUU",
+          "url": "https://open.spotify.com/artist/6jlrg5vTnraLDDXILE77BE"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193031,
+      "name": "Se Sabe Que Eu To Gostando",
+      "url": "https://open.spotify.com/track/6I8i2AglOaSpxBbczeCoQi"
     },
     {
       "album": {
@@ -94036,6 +94074,24 @@
       "duration_ms": 213373,
       "name": "Who Is She ?",
       "url": "https://open.spotify.com/track/1QxcWlk8PivolUaWcpAoNq"
+    },
+    {
+      "album": {
+        "name": "Diana Ross Presents The Jackson 5",
+        "url": "https://open.spotify.com/album/51uoKRa8vT5SULrlF8s2t1"
+      },
+      "artists": [
+        {
+          "name": "The Jackson 5",
+          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235640,
+      "name": "Who's Lovin' You",
+      "url": "https://open.spotify.com/track/6cZrsaNb4Zo9E5KHk7gcz5"
     },
     {
       "album": {

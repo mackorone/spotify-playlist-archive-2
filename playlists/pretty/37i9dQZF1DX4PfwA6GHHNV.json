@@ -1,6 +1,6 @@
 {
   "description": "afrobeats daqui, de fora, de todos os cantos",
-  "num_followers": 23162,
+  "num_followers": 23164,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
@@ -631,6 +631,26 @@
     {
       "added_at": "2026-04-20 14:18:08",
       "album": {
+        "name": "Mar de Rosas",
+        "url": "https://open.spotify.com/album/3ZWi0l4tbZgHmIt4vhrPxN"
+      },
+      "artists": [
+        {
+          "name": "Vit\u00e3o",
+          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
+        },
+        {
+          "name": "Paiva Prod",
+          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Mar de Rosas",
+      "url": "https://open.spotify.com/track/0jqfLFMPSPXpWWDyJaErVP"
+    },
+    {
+      "added_at": "2026-04-20 14:18:08",
+      "album": {
         "name": "Energy",
         "url": "https://open.spotify.com/album/2AkCaeXRWht0pyc4SHzGGr"
       },
@@ -651,26 +671,6 @@
       "duration_ms": 188400,
       "name": "Energy",
       "url": "https://open.spotify.com/track/50eUngFZAVXR5jbjoO4INk"
-    },
-    {
-      "added_at": "2026-04-20 14:18:08",
-      "album": {
-        "name": "Mar de Rosas",
-        "url": "https://open.spotify.com/album/3ZWi0l4tbZgHmIt4vhrPxN"
-      },
-      "artists": [
-        {
-          "name": "Vit\u00e3o",
-          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
-        },
-        {
-          "name": "Paiva Prod",
-          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Mar de Rosas",
-      "url": "https://open.spotify.com/track/0jqfLFMPSPXpWWDyJaErVP"
     },
     {
       "added_at": "2026-04-20 14:18:08",
@@ -715,42 +715,6 @@
     {
       "added_at": "2026-04-20 14:18:08",
       "album": {
-        "name": "PELE ESCURA",
-        "url": "https://open.spotify.com/album/4wkmiVQFi3CRV1nXEHWVEH"
-      },
-      "artists": [
-        {
-          "name": "Yumee",
-          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
-        },
-        {
-          "name": "Leonok",
-          "url": "https://open.spotify.com/artist/6wXZ4MpqeqQybIustnLsta"
-        }
-      ],
-      "duration_ms": 188615,
-      "name": "PELE ESCURA",
-      "url": "https://open.spotify.com/track/1Z99gpCrrTm7BW3Mwns9zO"
-    },
-    {
-      "added_at": "2026-04-20 14:18:08",
-      "album": {
-        "name": "Fiona",
-        "url": "https://open.spotify.com/album/6ytRAacYIXoohTPj6RshfF"
-      },
-      "artists": [
-        {
-          "name": "BENSH47",
-          "url": "https://open.spotify.com/artist/4zS8Ddu7VyywBFvx8ki7qw"
-        }
-      ],
-      "duration_ms": 172615,
-      "name": "Fiona",
-      "url": "https://open.spotify.com/track/3SM5bLdiELoAWycAy7dD2J"
-    },
-    {
-      "added_at": "2026-04-20 14:18:08",
-      "album": {
         "name": "CORTAVENTO",
         "url": "https://open.spotify.com/album/7nyXHb7J8I4piuHtHodwKF"
       },
@@ -783,6 +747,42 @@
       "duration_ms": 230580,
       "name": "AYE O",
       "url": "https://open.spotify.com/track/2XiCGFrIxDm7PhOTCRbtm2"
+    },
+    {
+      "added_at": "2026-04-20 14:18:08",
+      "album": {
+        "name": "PELE ESCURA",
+        "url": "https://open.spotify.com/album/4wkmiVQFi3CRV1nXEHWVEH"
+      },
+      "artists": [
+        {
+          "name": "Yumee",
+          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
+        },
+        {
+          "name": "Leonok",
+          "url": "https://open.spotify.com/artist/6wXZ4MpqeqQybIustnLsta"
+        }
+      ],
+      "duration_ms": 188615,
+      "name": "PELE ESCURA",
+      "url": "https://open.spotify.com/track/1Z99gpCrrTm7BW3Mwns9zO"
+    },
+    {
+      "added_at": "2026-04-20 14:18:08",
+      "album": {
+        "name": "Fiona",
+        "url": "https://open.spotify.com/album/6ytRAacYIXoohTPj6RshfF"
+      },
+      "artists": [
+        {
+          "name": "BENSH47",
+          "url": "https://open.spotify.com/artist/4zS8Ddu7VyywBFvx8ki7qw"
+        }
+      ],
+      "duration_ms": 172615,
+      "name": "Fiona",
+      "url": "https://open.spotify.com/track/3SM5bLdiELoAWycAy7dD2J"
     },
     {
       "added_at": "2026-04-20 14:18:08",

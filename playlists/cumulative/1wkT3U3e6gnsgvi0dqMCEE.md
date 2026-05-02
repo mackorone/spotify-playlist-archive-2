@@ -4,7 +4,7 @@
 
 > All of your favourites, new favourites, live favourites and unearthed soon to be favourites\.  <a href="https://www.umusic.ca/collections/rediscover">here</a>
 
-416 songs - 1 day 3 hr 26 min
+418 songs - 1 day 3 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Are You Gonna Go My Way \- Live](https://open.spotify.com/track/3yx0sYXl3ZncypCDBdjzAl) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Circus \(Deluxe\)](https://open.spotify.com/album/1V4I2ePRIjgcxuGDJ3YF9G) | 4:01 | 2025-09-19 |  |
 | [As Alive As You Need Me To Be](https://open.spotify.com/track/1xsEHo7mtGZLEG94vFX11z) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [As Alive As You Need Me To Be](https://open.spotify.com/album/6KWRGQeL4dzohXRiSwJHK0) | 3:53 | 2025-07-18 |  |
 | [Atlas](https://open.spotify.com/track/1Ys7tQV4mNK3BbjLdZX18B) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Atlas](https://open.spotify.com/album/0P33keaKPaDJ86EtpbaqFb) | 3:58 | 2025-12-06 |  |
+| [Baby Got Back \- Ruby J Remix](https://open.spotify.com/track/0aP1mGdtnlSMXc2JY00Soy) | [Sir Mix\-A\-Lot](https://open.spotify.com/artist/3TQ9JTBI2n2hfo7aRONEYV), [Ruby J](https://open.spotify.com/artist/3Ll3RDumygunKMHjZfCkZd) | [Baby Got Back \(Ruby J Remix\)](https://open.spotify.com/album/2b0sjPFY83LJ1TkpmcKzZk) | 2:35 | 2026-05-01 |  |
 | [Back To Black](https://open.spotify.com/track/3FAclTFfvUuQYnEsptbK8w) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black \(Deluxe Edition\)](https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG) | 4:01 | 2024-05-23 |  |
 | [Band On The Run \- 2010 Remaster](https://open.spotify.com/track/1H4idkmruFoJBg1DvUv2tY) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [Band On The Run](https://open.spotify.com/album/257oomaawruFknt5wYCPDh) | 5:13 | 2025-09-12 |  |
 | [bandaids](https://open.spotify.com/track/7vlkotgJCvYzVrmRqDYNYh) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [bandaids](https://open.spotify.com/album/5JvfHXiAioipSTjXAHMXrX) | 3:08 | 2025-11-07 |  |
@@ -328,6 +329,7 @@
 | [Sugar, We're Goin Down \- TLA Radio Edit](https://open.spotify.com/track/5kHeFRQK81hToSOtfr7z36) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [From Under The Cork Tree \(20th Anniversary Deluxe\)](https://open.spotify.com/album/3mcEMwTAA2eJUDsUgsdCbc) | 3:38 | 2025-10-17 |  |
 | [Suit And Jacket](https://open.spotify.com/track/2ZYBwkmtYhgUj1A7teYAZ7) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [Folk Hop N' Roll \(Deluxe\)](https://open.spotify.com/album/7vLmY8rLjLvOTQ0wk7Hqeh) | 3:42 | 2023-10-16 | 2024-05-24 |
 | [Summertime Blue](https://open.spotify.com/track/4slSMptXdIoALxZEkSXwts) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Summertime Blue](https://open.spotify.com/album/5idegdSAakRkQhgs0fy5dW) | 3:30 | 2025-06-27 |  |
+| [Sunday \- 2026 Stephen Street Stereo Mix](https://open.spotify.com/track/6LNcgZ6P1XdLr8Lovg3tlC) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9), [Stephen Street](https://open.spotify.com/artist/5pmh5AcbKZIme0p4riO6Kb) | [Sunday \(2026 Stephen Street Stereo Mix\) / Linger \(Spanish Mix \(2026\)](https://open.spotify.com/album/2m0LaVx2taZpoamB4EBJ24) | 3:30 | 2026-05-01 |  |
 | [Sunday Morning \- Block Party Mix](https://open.spotify.com/track/3awbbtBEgCsuw9xLwZ96Kq) | [K\-OS](https://open.spotify.com/artist/3EZWlSBWlPsC8lCI2Y36Gl) | [Atlantis+](https://open.spotify.com/album/43tdaB534UJweOvbCsq1zU) | 3:54 | 2024-05-23 |  |
 | [Sweet Caroline \- Two Friends Remix](https://open.spotify.com/track/3uF7MjzSrXFKP9HshWg1ar) | [Neil Diamond](https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes), [Two Friends](https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh) | [Sweet Caroline \(Two Friends Remix\)](https://open.spotify.com/album/2EL5piIRbiG2BtBAOEzZfS) | 2:59 | 2025-04-11 |  |
 | [Sweet Child O' Mine](https://open.spotify.com/track/7snQQk1zcKl8gZ92AnueZW) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction](https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW) | 5:56 | 2024-05-23 |  |

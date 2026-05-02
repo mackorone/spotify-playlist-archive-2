@@ -2360,7 +2360,7 @@
       ],
       "date_added": "2025-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 227085,
       "name": "HEART AND MIND",
       "url": "https://open.spotify.com/track/2rTOQ61GqSMPtxCgboHor1"
@@ -3016,6 +3016,24 @@
       "duration_ms": 254488,
       "name": "I Will Sing",
       "url": "https://open.spotify.com/track/1hp6XGO7kEyHhswy8ivk5y"
+    },
+    {
+      "album": {
+        "name": "I've Got the Joy, Joy, Joy",
+        "url": "https://open.spotify.com/album/3G6kX2s3giA8XEbc27pohl"
+      },
+      "artists": [
+        {
+          "name": "LoFi Hymnal",
+          "url": "https://open.spotify.com/artist/1ItKyEP0abW4czYh7txAaN"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179253,
+      "name": "I've Got the Joy, Joy, Joy",
+      "url": "https://open.spotify.com/track/5P1nvpBthudTq8frKVtKBu"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "your honky tonk meets club playlist \ud83e\udd20\ud83e\udea9 featuring Diplo\n",
+  "description": "your honky tonk meets club playlist \ud83e\udd20\ud83e\udea9 featuring Diplo and Adrien Nunez\n",
   "name": "Country EDM",
   "tracks": [
     {
@@ -2274,7 +2274,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 169226,
       "name": "Heartless (feat. Morgan Wallen)",
       "url": "https://open.spotify.com/track/3FU6urUVsgXa6RBuV2PdRk"
@@ -5138,6 +5138,28 @@
       "duration_ms": 252333,
       "name": "Two Black Cadillacs / Jolene (Dee Jay Silver Edit) (feat. Dolly Parton)",
       "url": "https://open.spotify.com/track/3H0JQLCfWoVvPGfQvzDT42"
+    },
+    {
+      "album": {
+        "name": "Two Steppin\u2019 (feat. Adrien Nunez)",
+        "url": "https://open.spotify.com/album/3TFX3h1hQwlkMoQ0ZCH16W"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Adrien Nunez",
+          "url": "https://open.spotify.com/artist/6R2UojZrKYDr0RiP9jROAJ"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139459,
+      "name": "Two Steppin\u2019 (feat. Adrien Nunez)",
+      "url": "https://open.spotify.com/track/6fOMrE0rA2XMbSaO3Wku0h"
     },
     {
       "album": {

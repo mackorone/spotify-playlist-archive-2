@@ -3069,6 +3069,24 @@
     },
     {
       "album": {
+        "name": "Booyah",
+        "url": "https://open.spotify.com/album/7MuBc6xFMZFEEAV3MpYv0g"
+      },
+      "artists": [
+        {
+          "name": "Primate",
+          "url": "https://open.spotify.com/artist/37C3qTCakuZc3EjTari9lU"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175172,
+      "name": "Booyah",
+      "url": "https://open.spotify.com/track/5uXm1c71ygZ9aJtALZKMbS"
+    },
+    {
+      "album": {
         "name": "Woodwinds",
         "url": "https://open.spotify.com/album/5fwI8h7ryeNmmi1xs0qSyZ"
       },

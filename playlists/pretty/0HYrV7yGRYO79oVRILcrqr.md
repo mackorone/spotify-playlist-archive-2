@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,800 likes - 102 songs - 6 hr 39 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,805 likes - 104 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,5 +110,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 100 | [Juge Intérieur](https://open.spotify.com/track/0kaCY1PCDFVZ6X34ShqiM9) | [Slave To Sin](https://open.spotify.com/artist/7wj1eU7FmWZiBJqPziYtHl) | [Juge Intérieur](https://open.spotify.com/album/1vsDPffM48kqA5sUw9bOJm) | 3:18 |
 | 101 | [Chronicle](https://open.spotify.com/track/2biOIcSMHCulJrNV966WSO) | [Venerated By Frost](https://open.spotify.com/artist/7vjTD8pNHl35g6NvMakc0I) | [Chronicle](https://open.spotify.com/album/4AloOat16bPLmLO9jVzLnd) | 4:00 |
 | 102 | [Stay Back](https://open.spotify.com/track/02wm1989sxHOnZJK9IY0EU) | [Jenny Scara](https://open.spotify.com/artist/0F4yegE6Xa3vC2KvCoJTGw) | [I've Got a Story to Tell](https://open.spotify.com/album/5Ssz0Vi0rbAGXRkF4hhOoX) | 2:25 |
+| 103 | [Seu Amor, Meu Paraíso](https://open.spotify.com/track/6kMQPeh5LOHJCHXysXk0zv) | [Breno Villares](https://open.spotify.com/artist/2wd82MEjOwoSa4FZkF8fdr) | [Seu Amor, Meu Paraíso](https://open.spotify.com/album/7KUk4FX7KjN3XxaQiHaYPC) | 4:30 |
+| 104 | [Quem Sou](https://open.spotify.com/track/05fXrnIC22Iz0lpg09jv0r) | [Rafael Zeferino](https://open.spotify.com/artist/31BZHZqE0MHlmHUSSxKQ9V) | [Quem Sou](https://open.spotify.com/album/2TeFatHS72Xv2zd1caUT0S) | 3:06 |
 
-Snapshot ID: `AAALOuH8238TfUu8X24lHSI9RU0acyB9`
+Snapshot ID: `AAALPNMTk0AFADs2u4Z0ZQ+OR7z/POdF`

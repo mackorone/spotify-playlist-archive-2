@@ -4,7 +4,7 @@
 
 > Loksins New Music Friday! Ný tónlist Of Madonna & Sabrina Carpenter, Zara Larsson og mörgum fleiri!
 
-10,617 songs - 23 day 18 hr 32 min
+10,617 songs - 23 day 18 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2427,7 +2427,7 @@
 | [Don't Want None](https://open.spotify.com/track/5HDMa2OmaEQht0QpQ9XRgk) | [AYYBO](https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV), [Dale Move](https://open.spotify.com/artist/6F3eahZ7vKboOqmPMIoGoh) | [Don't Want None](https://open.spotify.com/album/5sBW99TgrdXm3NPbvLjnzS) | 3:30 | 2026-03-27 | 2026-04-03 |
 | [Don't Waste My Time](https://open.spotify.com/track/2Mpbc0ciNa7nFIctbJJDRX) | [Lost In Reveries](https://open.spotify.com/artist/1Elez1o6G0sxPQaG9t4fOT), [One Trick Pony](https://open.spotify.com/artist/4xxlgFFZpjIrQr9FiFttBG), [NEA EINI](https://open.spotify.com/artist/5d9OWj9gEcEXkTsILdZg0S) | [Don't Waste My Time](https://open.spotify.com/album/6JD71V9kfkWeA7K9h5Ajy7) | 2:18 | 2024-09-27 | 2024-10-04 |
 | [Don't Worry](https://open.spotify.com/track/57byShO7NhqiVlRLvmbPyM) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Don't Worry](https://open.spotify.com/album/0OmxbEqS8d7KT9lEOVAHrK) | 2:19 | 2025-10-17 | 2025-10-25 |
-| [Don't Worry Baby](https://open.spotify.com/track/0uFffwji3muqn5MEe7hiYw) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Tiga](https://open.spotify.com/artist/6dfbRE1slg9q6xXbMiB9Rn) | [Don't Worry Baby](https://open.spotify.com/album/1F3Ph8gHm2aCnMJbNvmo5f) | 3:27 | 2026-05-01 |  |
+| [Don't Worry Baby](https://open.spotify.com/track/0uFffwji3muqn5MEe7hiYw) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC) | [Don't Worry Baby](https://open.spotify.com/album/1F3Ph8gHm2aCnMJbNvmo5f) | 3:27 | 2026-05-01 |  |
 | [Don't You Leave](https://open.spotify.com/track/12e3jjH2mTSIITNrLSvIRj) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Don't You Leave](https://open.spotify.com/album/1ezePOQ5Y2HXQKBWWgI3tO) | 3:15 | 2024-12-06 | 2024-12-14 |
 | [Done With U](https://open.spotify.com/track/5wbyw0GApqrGeuOFULRiOL) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E) | [Done With U](https://open.spotify.com/album/25y70xiGHzBL9BcACgz8hW) | 2:14 | 2025-11-21 | 2025-11-28 |
 | [Done With You](https://open.spotify.com/track/613Db7CIngP03SE2pAqTwg) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [God Said No](https://open.spotify.com/album/4zP3lXg6RHEiUDOtUkr5yh) | 2:38 | 2024-06-28 | 2024-07-05 |
@@ -2806,6 +2806,7 @@
 | [Ever Seen](https://open.spotify.com/track/7pMEJEVSjQBuUAqWOupJk6) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Ever Seen](https://open.spotify.com/album/6XgxDhkbWJy6FsLkwGgk9d) | 3:23 | 2024-07-05 | 2024-07-12 |
 | [Everglow](https://open.spotify.com/track/1TRws8b5PyKtxw4tXPDVp1) | [Foínix](https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO), [Mason](https://open.spotify.com/artist/4jXbk5gQsWSBWL8HGnIcoh), [THNK](https://open.spotify.com/artist/1JkAomV4XsVMKOGzWdgqnD) | [Everglow](https://open.spotify.com/album/0J25AMgNoGv2AvaM0J7wU8) | 2:10 | 2026-01-09 | 2026-01-16 |
 | [Evergreen](https://open.spotify.com/track/5vu14M9hnK6ltoSYUPk40z) | [Thor Sigurdsson](https://open.spotify.com/artist/1qcIxkK4rbJ5YhK9cYZdcH) | [Evergreen](https://open.spotify.com/album/5OzDoyFTjHzlFk5lcTOXzz) | 3:36 | 2025-06-06 | 2025-06-13 |
+| [Evergreen](https://open.spotify.com/track/3fLX6yRLD2IkWQUxDJEQ0S) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [Victory Garden](https://open.spotify.com/album/70ch2R18v3Zho0SlcN4CAN) | 3:41 | 2026-05-01 |  |
 | [Evergreen \(feat\. Caamp\)](https://open.spotify.com/track/0BzTjRJQjOxMZpCAGnPXhp) | [Richy Mitch & The Coal Miners](https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau), [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Evergreen \(feat\. Caamp\)](https://open.spotify.com/album/4fzAuOHpDdUDAdIHYbaVjW) | 2:57 | 2024-08-09 | 2024-08-16 |
 | [Evergreen \(feat\. Ilsey\)](https://open.spotify.com/track/05CX3lk010anf94Wq3NBIa) | [Deyaz](https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc), [Ilsey](https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j) | [Evergreen \(feat\. Ilsey\)](https://open.spotify.com/album/4UADiMaIhp97xjobxzamyJ) | 2:46 | 2024-04-26 | 2024-05-03 |
 | [Everlasting Things](https://open.spotify.com/track/3E259dCEcaT9FmmAxgUpsL) | [Sonic Løland](https://open.spotify.com/artist/3g4SAPEqsPhWUsAzRqnu8o) | [Everlasting Things](https://open.spotify.com/album/4EMGFfBfcVnSYIxXpUlG9G) | 3:58 | 2024-06-14 | 2024-06-17 |
@@ -9513,7 +9514,6 @@
 | [Toxins](https://open.spotify.com/track/5MarKAwrQvOEGlCOKEeIw3) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Toxins](https://open.spotify.com/album/7lKTFbEOfMHcZ0xMzPB9md) | 2:22 | 2024-06-21 | 2024-06-28 |
 | [TOYBOY](https://open.spotify.com/track/0pu0wYSfAss9bofagK1A5T) | [Angela](https://open.spotify.com/artist/7eT4IZXb7W1FCsWO7u4l65) | [TOYBOY](https://open.spotify.com/album/1R7baT8Vnn3OTP4yl2fJg9) | 2:39 | 2026-05-01 |  |
 | [Toys](https://open.spotify.com/track/4lBLNOs6Mm5PRrg6cbsA5o) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Toys](https://open.spotify.com/album/63r0qTkNROkVH1pYnoMzFB) | 4:26 | 2025-03-28 | 2025-04-04 |
-| [Track 1](https://open.spotify.com/track/3fLX6yRLD2IkWQUxDJEQ0S) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [Victory Garden](https://open.spotify.com/album/70ch2R18v3Zho0SlcN4CAN) | 0:00 | 2026-05-01 |  |
 | [Tractor Beam](https://open.spotify.com/track/3SCe8EBhzxVx5Tqhv9cYqi) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Tractor Beam](https://open.spotify.com/album/4ZkRrdsD1RP5UdCmDP6s8Q) | 3:34 | 2026-03-27 | 2026-04-03 |
 | [Trailer In The Sky](https://open.spotify.com/track/0L0JLgaFwuPhCs7W9CzwRb) | [Yelawolf](https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Trailer In The Sky](https://open.spotify.com/album/5qcgrJD0LkQ9UoRTlKljJ9) | 2:45 | 2024-05-17 | 2024-05-24 |
 | [Trailers after dark](https://open.spotify.com/track/2Tr7s79xvkh70uA1pW2z1a) | [Finn Wolfhard](https://open.spotify.com/artist/2nmWcAqQtfgNp8Kpixa2CG) | [Trailers after dark](https://open.spotify.com/album/46s1sq3nEJiTRq3okup3N4) | 3:18 | 2025-04-11 | 2025-04-18 |

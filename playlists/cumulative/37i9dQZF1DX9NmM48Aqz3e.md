@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX9NmM48Aqz3e.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9NmM48Aqz3e) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX9NmM48Aqz3e)
 
-### [All Out Canadian 1990s](https://open.spotify.com/playlist/37i9dQZF1DX9NmM48Aqz3e)
+### [Canadian Gold: 1990s](https://open.spotify.com/playlist/37i9dQZF1DX9NmM48Aqz3e)
 
 > Favourites from Canadians who dominated the 1990s\. Cover: Céline Dion
 

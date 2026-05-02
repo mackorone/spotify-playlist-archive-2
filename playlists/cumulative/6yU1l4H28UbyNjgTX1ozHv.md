@@ -4,7 +4,7 @@
 
 > Driving songs acoustic style! Sit back and enjoy the ride!
 
-322 songs - 16 hr 28 min
+323 songs - 16 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Africa \- Acoustic](https://open.spotify.com/track/2oUb1OhVJ4JusGBn3qqFWU) | [Tyler Ward](https://open.spotify.com/artist/5Hc9oDGvStNGmnj44m8sHg), [Lisa Cimorelli](https://open.spotify.com/artist/3LnKjRAWZqaSyJnHqc05Rq) | [he said\. she said.](https://open.spotify.com/album/2fPoRKXtIhmc70zJlDrTY2) | 3:18 | 2021-08-01 |  |
 | [Against All Odds \- Acoustic](https://open.spotify.com/track/0Y1KPA4rxDDgbupSjHJyGe) | [Kevin Simm](https://open.spotify.com/artist/1CuoMwkIXKILoyW9dIXziU) | [Against All Odds \(Acoustic\)](https://open.spotify.com/album/1eE0hgn59NGe5auS2kRQO0) | 3:17 | 2025-01-10 |  |
 | [Ain't Nobody \- Acoustic](https://open.spotify.com/track/5WjvEQDGeckLD5BfsE3QnR) | [Kevin Simm](https://open.spotify.com/artist/1CuoMwkIXKILoyW9dIXziU), [Jae Hall](https://open.spotify.com/artist/1rxN6Kd4PGaLmhhW8ktW3d) | [Ain't Nobody \(Acoustic\)](https://open.spotify.com/album/43zIXrsyryxFsZhrTQooND) | 3:04 | 2023-02-10 | 2023-02-28 |
+| [Ain’t No Mountain High Enough \- Acoustic](https://open.spotify.com/track/05bTEGk3kR3FypCFQGaEyX) | [Plamina](https://open.spotify.com/artist/7x6A8huMVnPZ5wAzlw6HSp) | [Ain’t No Mountain High Enough \(Acoustic\)](https://open.spotify.com/album/0xSBm9FknspuADy5Uequ7k) | 3:19 | 2026-05-01 |  |
 | [All I Have to Do Is Dream \- Acoustic](https://open.spotify.com/track/1ZInn6dKkIyQv8YFDgmsBD) | [Mysha Didi](https://open.spotify.com/artist/69XUUcGUrO85U9pCZGcWgI) | [All I Have to Do Is Dream \(Acoustic\)](https://open.spotify.com/album/0kG9UJ3SqUt8vAq7g9jRcs) | 2:12 | 2023-01-06 |  |
 | [All I Want](https://open.spotify.com/track/10MfRY0BlY64cFKsmNWbzw) | [Tanaë](https://open.spotify.com/artist/5a4jgwRzY0q9KopqjYrIe1), [Damien McFly](https://open.spotify.com/artist/2ft7APiBr9l00FbsSnu92x) | [All I Want](https://open.spotify.com/album/2CCjWEsPiaGoFrlTJUruCc) | 3:37 | 2019-10-13 |  |
 | [All the Small Things \- Acoustic](https://open.spotify.com/track/6k0ypm2d1pK54eO4QmpwPv) | [Adam Christopher](https://open.spotify.com/artist/22QkuOmdRnasuuVgUjhrVw) | [All the Small Things \(Acoustic\)](https://open.spotify.com/album/61Ksn6jZJhZvhDktHwSYFW) | 2:25 | 2024-10-04 |  |

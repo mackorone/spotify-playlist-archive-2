@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves in South Africa and the world\. Cover: Novatron
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,208,817 likes - 50 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,209,533 likes - 50 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 | 49 | [Jola Bani](https://open.spotify.com/track/3t2frrM2pTU2xscNXCHiEO) | [Scotts Maphuma](https://open.spotify.com/artist/3S4T8XtipStwl34odXn1YS), [Shaunmusiq](https://open.spotify.com/artist/1rz8BeoVHWRTcj2253dM85) | [Jola Bani](https://open.spotify.com/album/2SFt4Pp5ZS80GOl1e1mDas) | 6:17 |
 | 50 | [Coke Water](https://open.spotify.com/track/3ELcYge9PNSTfJQcxnCdKb) | [Spirit\-Boyz](https://open.spotify.com/artist/6AJbgTSjqsI3NP6rGcGNbh), [Sedii\_M](https://open.spotify.com/artist/2lHtmiMXL6I6WpJsFvAP8Z), [Malemon](https://open.spotify.com/artist/6cs1bOgbQNCeY9fxkkUcRq) | [Coke Water](https://open.spotify.com/album/4CYUTilHveCYEczzUgtkqZ) | 5:45 |
 
-Snapshot ID: `AAAAALcV4U1hHRNFqdGBNpAz9dXOx9J2`
+Snapshot ID: `AAAAACyvsTnHKNBgeU/EbpTI++LM8Jjb`

@@ -944,7 +944,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 117988,
       "name": "archive 2001",
       "url": "https://open.spotify.com/track/1A3x3nkAF2EJ61fR1tpGT3"
@@ -1802,7 +1802,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 184148,
       "name": "BLOOD/INK",
       "url": "https://open.spotify.com/track/47wnepGsS8fdwmeUgCGrcQ"
@@ -2593,6 +2593,24 @@
     },
     {
       "album": {
+        "name": "Check Engine",
+        "url": "https://open.spotify.com/album/3Fnp7iTfN3GYQoFxml9BG3"
+      },
+      "artists": [
+        {
+          "name": "Sunderloom",
+          "url": "https://open.spotify.com/artist/39RDCjWphLt3dcDb975MyX"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251926,
+      "name": "Chrysalide",
+      "url": "https://open.spotify.com/track/3FcXXAJGLHPRzSgGaAG6xH"
+    },
+    {
+      "album": {
         "name": "Ch\u00e2teau de sable (Piano Edit)",
         "url": "https://open.spotify.com/album/44jGCF4P32PtjxQy6ybDKt"
       },
@@ -3082,6 +3100,24 @@
       "duration_ms": 380386,
       "name": "Corde \u00e0 linge",
       "url": "https://open.spotify.com/track/5Caw8YAzPooXtitP0IzNwJ"
+    },
+    {
+      "album": {
+        "name": "coucou, comment \u00e7a va?",
+        "url": "https://open.spotify.com/album/0q5h1NuPKCjq06DSz5q9T7"
+      },
+      "artists": [
+        {
+          "name": "comment debord",
+          "url": "https://open.spotify.com/artist/6C16UJJjE6FE2VwenTrElQ"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253208,
+      "name": "coucou, comment \u00e7a va?",
+      "url": "https://open.spotify.com/track/2KFgHnjoIbI2xZZjbxQMWf"
     },
     {
       "album": {
@@ -12797,6 +12833,24 @@
     },
     {
       "album": {
+        "name": "R\u00eave am\u00e9ricain",
+        "url": "https://open.spotify.com/album/3sdQCZN0xkMIFa8Baokdj0"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Personne",
+          "url": "https://open.spotify.com/artist/5Aw2a3f4H08TuXNR1OqtLy"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217879,
+      "name": "R\u00eave am\u00e9ricain",
+      "url": "https://open.spotify.com/track/24QonUF5uozUXhAnU8UA9B"
+    },
+    {
+      "album": {
         "name": "R\u00eave le fun",
         "url": "https://open.spotify.com/album/5C7d50ode6n6laOBx2w775"
       },
@@ -13676,7 +13730,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 225675,
       "name": "Sortie de secours",
       "url": "https://open.spotify.com/track/1cTE0B3UAdUeKvq9ni5aSC"
@@ -15084,7 +15138,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 175378,
       "name": "Type",
       "url": "https://open.spotify.com/track/1wlABGWT6u3CCHCMuFSKAH"
@@ -15692,6 +15746,24 @@
       "duration_ms": 158974,
       "name": "Warnings",
       "url": "https://open.spotify.com/track/2Uv26CPjDY9vBaJq3LID0q"
+    },
+    {
+      "album": {
+        "name": "Wash You Out",
+        "url": "https://open.spotify.com/album/6iX4dOEqWg6YgKCfgzSItF"
+      },
+      "artists": [
+        {
+          "name": "Born At Midnite",
+          "url": "https://open.spotify.com/artist/3ejfr3ZL4rEFokdVb33dPa"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136800,
+      "name": "Wash You Out",
+      "url": "https://open.spotify.com/track/7yupAV8AOHwAecLb0Cnnnq"
     },
     {
       "album": {

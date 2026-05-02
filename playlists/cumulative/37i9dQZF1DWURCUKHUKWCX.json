@@ -5003,6 +5003,24 @@
     },
     {
       "album": {
+        "name": "Temporary Coexistence of Humans",
+        "url": "https://open.spotify.com/album/2ob168pec2r2ZtuSjzbgtz"
+      },
+      "artists": [
+        {
+          "name": "Peter Sandberg",
+          "url": "https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173614,
+      "name": "Temporary Coexistence",
+      "url": "https://open.spotify.com/track/44UULCqmzqSuT4FzNoALZl"
+    },
+    {
+      "album": {
         "name": "That Feeling, Though",
         "url": "https://open.spotify.com/album/0KApkc3q8azy74RibeRkb1"
       },

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 
 > Jazz, but make it funky\. Cover: Skinny Hightower
 
-[Spotify](https://open.spotify.com/user/spotify) - 414,334 likes - 200 songs - 15 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 414,418 likes - 200 songs - 15 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Respond to Sound](https://open.spotify.com/track/06RocQbgd52XlaWaX3haRK) | [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [Respond to Sound](https://open.spotify.com/album/5cce7khO3pymis7LZ4kuoR) | 3:11 |
-| 2 | [Devotion](https://open.spotify.com/track/322s1Mr5j33uwYVgjfGGFl) | [Skinny Hightower](https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx) | [Devotion](https://open.spotify.com/album/04yzrf8Eda4ydshQ2N28X7) | 5:29 |
+| 1 | [Chain Reaction](https://open.spotify.com/track/0srUKiOtd4K2GmAETtqRDQ) | [Skinny Hightower](https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx) | [Chain Reaction](https://open.spotify.com/album/1vwmnBEUOKa04GmwDA61jE) | 8:07 |
+| 2 | [Respond to Sound](https://open.spotify.com/track/06RocQbgd52XlaWaX3haRK) | [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [Respond to Sound](https://open.spotify.com/album/5cce7khO3pymis7LZ4kuoR) | 3:11 |
 | 3 | [MF AF](https://open.spotify.com/track/0lbv0rx3b5SOFlEYkqpHRa) | [Adrian Quesada](https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv), [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA) | [Trio Asesino](https://open.spotify.com/album/3LuLM488LxdVh6nVAcRcxz) | 3:27 |
 | 4 | [Func and Sync](https://open.spotify.com/track/2HdQikKS2fg54LTLZdYEl6) | [DEZOLVE](https://open.spotify.com/artist/69bAmAy4oS266wXyJiColS) | [Biblion](https://open.spotify.com/album/3WyrqB5eaj7SntTwHwz5Yj) | 5:38 |
 | 5 | [Flame Keeper](https://open.spotify.com/track/1i0Qw2NzM4wCLWpGcoKsEj) | [Lakecia Benjamin](https://open.spotify.com/artist/6hvjxbUASJd6bHds2Teaul), [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc), [Chris Potter](https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB) | [Flame Keeper](https://open.spotify.com/album/49FD9U3KdMEUWMqe7gMXiV) | 6:25 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 | 199 | [Feel The Bern \- Alt Take](https://open.spotify.com/track/5GejWU6QiLcFJZ8Ix3S9cr) | [Mike Casey](https://open.spotify.com/artist/33KVH120xKsKhJncJcaoe2) | [Outtakes: 'Law of Attraction' Session](https://open.spotify.com/album/32CGaiQQg3wSczmFF3qcYo) | 2:00 |
 | 200 | [So Cold](https://open.spotify.com/track/6vv87FsmQpbakkEQUm3G3n) | [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx), [David Mrakpor](https://open.spotify.com/artist/7JNCmuOVO13j5XNE8s1Bvr) | [So Cold](https://open.spotify.com/album/72P2ODRJFb2O2THMjfXAlb) | 4:12 |
 
-Snapshot ID: `AAAAAIg1XM4xfV/2gc7b1f/j96oCeimF`
+Snapshot ID: `AAAAALpXZfV9fiXowQhf9FHs91Bin01h`

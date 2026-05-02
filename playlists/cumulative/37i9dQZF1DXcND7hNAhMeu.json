@@ -864,7 +864,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 166000,
       "name": "JWYA",
       "url": "https://open.spotify.com/track/3U0LzzKYeZYjQGX3gP2aY4"
@@ -1142,7 +1142,7 @@
       ],
       "date_added": "2025-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 186260,
       "name": "neden",
       "url": "https://open.spotify.com/track/0xLUenokW0efdVZoxtRI3s"
@@ -1691,6 +1691,24 @@
     },
     {
       "album": {
+        "name": "YARINIMIZ OLMAYACAK",
+        "url": "https://open.spotify.com/album/3vVSHVhbyBvY9TdlnFGt1b"
+      },
+      "artists": [
+        {
+          "name": "\u00d6yk\u00fc D\u00f6rter",
+          "url": "https://open.spotify.com/artist/610R56u4V2V2kVtyLenbFA"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154054,
+      "name": "YARINIMIZ OLMAYACAK",
+      "url": "https://open.spotify.com/track/3cbMUX9OhGmAFeLybYcaMn"
+    },
+    {
+      "album": {
         "name": "Yaz",
         "url": "https://open.spotify.com/album/364wiw9JbgcKX5FQMTcAqK"
       },
@@ -1724,6 +1742,28 @@
       "duration_ms": 170224,
       "name": "yaz\u0131k ettin",
       "url": "https://open.spotify.com/track/2bdngNxumON7IUnZe6Wada"
+    },
+    {
+      "album": {
+        "name": "YEN\u0130 B\u0130R\u0130",
+        "url": "https://open.spotify.com/album/14ZzDyIYf5mBua5zRnIldK"
+      },
+      "artists": [
+        {
+          "name": "Zeki Arkun",
+          "url": "https://open.spotify.com/artist/0o370GMjPTWUz6gv8lasfs"
+        },
+        {
+          "name": "Simge",
+          "url": "https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153796,
+      "name": "YEN\u0130 B\u0130R\u0130",
+      "url": "https://open.spotify.com/track/0wx08CQnNntQhnkhEq9h2r"
     },
     {
       "album": {

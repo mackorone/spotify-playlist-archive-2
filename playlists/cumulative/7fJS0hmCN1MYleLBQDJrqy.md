@@ -4,7 +4,7 @@
 
 > De beste studentenbangers in één playlist 🍺🔥  \| Cover: Roxy Dekker
 
-145 songs - 6 hr 30 min
+147 songs - 6 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [Sugardaddy](https://open.spotify.com/track/2hIFhSltVcRU1oJ3kf8Zy4) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Sugardaddy](https://open.spotify.com/album/5YHwXc1VQepi38h0kutggf) | 2:11 | 2025-07-18 |  |
 | [Superman](https://open.spotify.com/track/2QEPdAKf9AKhp6W5Atg4D5) | [Luca St](https://open.spotify.com/artist/0UUJ3EwkYGvjoIaVlnF6CN), [JAH](https://open.spotify.com/artist/5Mtx1K2I4k44IIlsCSf659) | [Superman](https://open.spotify.com/album/7f8QLkGiCPSRL3asvjOQGO) | 2:12 | 2025-10-24 | 2026-02-11 |
 | [Swag](https://open.spotify.com/track/2nBHlYOewYmTU5QioWXBVC) | [Daaf](https://open.spotify.com/artist/04rlEGOdxYkuwXsjB9SlnZ) | [Swag](https://open.spotify.com/album/6DNviqjktPvGirSvIoe6i4) | 2:31 | 2026-01-30 | 2026-02-11 |
+| [Tante Jetje](https://open.spotify.com/track/6jPFnEnuXaOtTsAXUCuhy5) | [Dries Roelvink](https://open.spotify.com/artist/2eIeNd8ZrIkk8R4q3zud09) | [Tante Jetje](https://open.spotify.com/album/4d7e0D6oOIIlepqR2cJoSO) | 3:14 | 2026-05-01 |  |
 | [Temperature](https://open.spotify.com/track/0k2GOhqsrxDTAbFFSdNJjT) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [The Trinity](https://open.spotify.com/album/32Bu3ETQhR1PFCj3ndDlYf) | 3:36 | 2026-02-10 |  |
 | [terms and conditions](https://open.spotify.com/track/1NPfiTCBjiYUya7npwzbAY) | [BL3SS](https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI) | [terms and conditions](https://open.spotify.com/album/6i1OPAnr4QVZGwOI7jYGj8) | 2:31 | 2026-04-24 |  |
 | [That's What I Like](https://open.spotify.com/track/0KKkJNfGyhkQ5aFogxQAPU) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [24K Magic](https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA) | 3:26 | 2026-02-10 |  |
@@ -136,6 +137,7 @@
 | [Ushuaia](https://open.spotify.com/track/2AeMy7dwvoPuof6xDmncUP) | [Turfy Gang](https://open.spotify.com/artist/7DOOGHZ6CXsF8bvNrnDE6W), [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee) | [Ushuaia](https://open.spotify.com/album/69HpOZiGi9xDwEYjMgPrv6) | 2:37 | 2025-07-18 |  |
 | [Van Niemand](https://open.spotify.com/track/1vr262SFQ3qXJi7ZkMAC3u) | [Jasmijn Torrico](https://open.spotify.com/artist/5SIrXx5lWESWersjGYRywZ) | [Van Niemand](https://open.spotify.com/album/6sp13atziZPC4XqN61Z17o) | 2:29 | 2025-07-18 | 2025-08-30 |
 | [Vieze Dingen](https://open.spotify.com/track/3GzsVvah7WHhzTAxUVEB3Y) | [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee) | [Vieze Dingen](https://open.spotify.com/album/4nNsZ3SwBtAcyUFzCwWrMg) | 2:11 | 2025-07-18 | 2026-02-11 |
+| [Vlam In De Pan](https://open.spotify.com/track/0X63JmpyxWMguhDLAjdN3V) | [Jari Hellegers](https://open.spotify.com/artist/2jPuZfXN0BcFiNowWQk4au) | [Vlam In De Pan](https://open.spotify.com/album/4EXIEwAErM3OqO3G1S6VKK) | 2:40 | 2026-05-01 |  |
 | [Vleugels](https://open.spotify.com/track/2jzoUbapZfmBkO04gDIkUi) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG), [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Vleugels](https://open.spotify.com/album/2Ne7XmgzY57nwx3wchw1iZ) | 2:40 | 2025-07-18 | 2026-02-11 |
 | [Vlindertuin](https://open.spotify.com/track/1K2jmC1sKRZb3J7Pxdmrff) | [Luca St](https://open.spotify.com/artist/0UUJ3EwkYGvjoIaVlnF6CN), [VALLI.](https://open.spotify.com/artist/71jK6lJH0vSSEtpLk0lTUP), [Benji](https://open.spotify.com/artist/10Pv95LS94sBKzpIGXRTlG) | [Vlindertuin](https://open.spotify.com/album/4k2dHgjRP9U56Xr7l4Kc22) | 2:13 | 2025-08-29 | 2026-02-11 |
 | [Vluchtstrook](https://open.spotify.com/track/2IV6ArKIuTpNxqXCCHd0mG) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG), [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [Vluchtstrook](https://open.spotify.com/album/3ROg8rapFYVq5IJmOwDHlq) | 2:28 | 2026-02-10 |  |

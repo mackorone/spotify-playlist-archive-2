@@ -2,7 +2,7 @@
 
 ### [Worship Hits](https://open.spotify.com/playlist/37i9dQZF1DWVlWpJblBvap)
 
-> All of your recent Worship hits in one place!  Cover: Charity Gayle
+> All of your recent Worship hits in one place!  Cover: Elevation Worship
 
 221 songs - 20 hr 18 min
 

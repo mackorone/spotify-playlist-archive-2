@@ -3276,7 +3276,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 162600,
       "name": "Enchant\u00e9",
       "url": "https://open.spotify.com/track/10wbN21d8FXT0cFIaCw1yV"
@@ -4889,6 +4889,24 @@
     },
     {
       "album": {
+        "name": "Hostile",
+        "url": "https://open.spotify.com/album/3qmYB5EylPiA11qQurpXsC"
+      },
+      "artists": [
+        {
+          "name": "Bluprint",
+          "url": "https://open.spotify.com/artist/4wCBSh6bVNDGxOfnem1F5Z"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175668,
+      "name": "Hostile",
+      "url": "https://open.spotify.com/track/4mcdzq5UbUOIsu35CVSPbG"
+    },
+    {
+      "album": {
         "name": "When Will We Land?",
         "url": "https://open.spotify.com/album/5LASDBDtLLEt3QqVtgOoaM"
       },
@@ -5884,6 +5902,24 @@
       "duration_ms": 164510,
       "name": "Keep On Moving (All Night Long)",
       "url": "https://open.spotify.com/track/35G2b6JZTfvSE7RxVCyM1s"
+    },
+    {
+      "album": {
+        "name": "Keep On Running",
+        "url": "https://open.spotify.com/album/5xnxBqiUjnkWqesxKC12T5"
+      },
+      "artists": [
+        {
+          "name": "Geo Jordan",
+          "url": "https://open.spotify.com/artist/6k11DSLFQUOXSROSDqQwBy"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254829,
+      "name": "Keep On Running",
+      "url": "https://open.spotify.com/track/3aeimmyRJ6j2vEpWxS8jZZ"
     },
     {
       "album": {
@@ -7396,6 +7432,24 @@
       "duration_ms": 212931,
       "name": "Mirage - Anoraak Remix",
       "url": "https://open.spotify.com/track/0ouN2uVklDjmE7Aclo3JHR"
+    },
+    {
+      "album": {
+        "name": "Everything Will Be Alright",
+        "url": "https://open.spotify.com/album/3VW3rR8BFAITqgT45WX3Cv"
+      },
+      "artists": [
+        {
+          "name": "Collect 200",
+          "url": "https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205161,
+      "name": "Mixed Emotions",
+      "url": "https://open.spotify.com/track/27A97G7jTpRWeX3E4LpQEs"
     },
     {
       "album": {
@@ -9284,7 +9338,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 220150,
       "name": "Pullin'",
       "url": "https://open.spotify.com/track/20WQJASER0SwoV5SmHQzIa"
@@ -12028,7 +12082,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 273971,
       "name": "UFO",
       "url": "https://open.spotify.com/track/7pA7CZIJUpcD5X0QpLlESx"

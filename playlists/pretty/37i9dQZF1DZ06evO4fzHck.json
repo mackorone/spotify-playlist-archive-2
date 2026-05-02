@@ -1,12 +1,12 @@
 {
   "description": "This is The Cure. The essential tracks, all in one playlist.",
-  "num_followers": 600312,
+  "num_followers": 600366,
   "original_name": "This Is The Cure",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afFKAAAAAACHnhIYhxQvWM11iK02RalE",
+  "snapshot_id": "afKbgAAAAACG96LpwM/3ZnVK8q6CgoJr",
   "tracks": [
     {
       "added_at": null,
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
         }
       ],
-      "duration_ms": 279826,
-      "name": "To Wish Impossible Things",
-      "url": "https://open.spotify.com/track/69MyxFlOm2ennzuE2FqeM1"
+      "duration_ms": 261959,
+      "name": "Doing The Unstuck",
+      "url": "https://open.spotify.com/track/5QhM82aoKuEdqbMHcI617o"
     },
     {
       "added_at": null,
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
         }
       ],
-      "duration_ms": 261959,
-      "name": "Doing The Unstuck",
-      "url": "https://open.spotify.com/track/5QhM82aoKuEdqbMHcI617o"
+      "duration_ms": 279826,
+      "name": "To Wish Impossible Things",
+      "url": "https://open.spotify.com/track/69MyxFlOm2ennzuE2FqeM1"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "All the new music you need to hear right now. Cover: Zara Larsson",
-  "num_followers": 605035,
+  "num_followers": 605693,
   "original_name": "All New All Now",
   "owner": {
     "name": "Spotify",
@@ -316,12 +316,12 @@
       },
       "artists": [
         {
-          "name": "Groove Theory",
-          "url": "https://open.spotify.com/artist/7opRqRgF9lvnVraBFCMvIj"
-        },
-        {
           "name": "Cloonee",
           "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        },
+        {
+          "name": "Groove Theory",
+          "url": "https://open.spotify.com/artist/7opRqRgF9lvnVraBFCMvIj"
         }
       ],
       "duration_ms": 184019,

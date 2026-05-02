@@ -8,7 +8,7 @@ pretty - [cumulative](/playlists/cumulative/40VxbK9NqccdUDUpiUXmbp.md) - [plain]
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [ILYSB](https://open.spotify.com/track/3BwR5psKNxcyqWoc80eOuq) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Make Out](https://open.spotify.com/album/4sldmS76FbpIaO2sEsZlBh) | 3:31 |
+| 1 | [ILYSB](https://open.spotify.com/track/3BwR5psKNxcyqWoc80eOuq) | [LANY](https://open.spotify.com/artist/4OIC40XKlNmY1AKu1l5EPZ) | [Make Out](https://open.spotify.com/album/4sldmS76FbpIaO2sEsZlBh) | 3:31 |
 | 2 | [Stole the Show](https://open.spotify.com/track/0uf2MtrLg2WUWYrs1rltpY) | [Parson James](https://open.spotify.com/artist/48sLioddyaXkuhyHXSkpsB) | [Stole the Show](https://open.spotify.com/album/2dOL5ZOIyLkNjy7sDBCfOI) | 3:51 |
 | 3 | [Shiver](https://open.spotify.com/track/0Wv9Ckm088qsVkMKPH170C) | [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Like I Used To](https://open.spotify.com/album/2WYwG9H90bEhcHdyeUdA3h) | 3:53 |
 | 4 | [Katie Queen Of Tennessee](https://open.spotify.com/track/5iXuX70Sxp6sKdumBcQQW7) | [The Apache Relay](https://open.spotify.com/artist/62pBNClOEZJEyRXrzC2CtI) | [Apache Relay](https://open.spotify.com/album/239UV8PJLsEaJfcNM4T7rb) | 3:24 |

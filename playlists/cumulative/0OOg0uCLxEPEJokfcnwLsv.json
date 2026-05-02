@@ -2721,6 +2721,24 @@
     },
     {
       "album": {
+        "name": "FREAKS",
+        "url": "https://open.spotify.com/album/1H6e90sxK6XJWm3F8Qm0vR"
+      },
+      "artists": [
+        {
+          "name": "YESLA",
+          "url": "https://open.spotify.com/artist/7CbFOx3il5PpL5FJQVxvle"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147486,
+      "name": "FREAKS",
+      "url": "https://open.spotify.com/track/1ZtQmNimRvDM35hqQO3QHa"
+    },
+    {
+      "album": {
         "name": "Full Sway",
         "url": "https://open.spotify.com/album/6sSBHo3QJj5BRTlGNFSXgX"
       },
@@ -4086,6 +4104,24 @@
       "duration_ms": 288196,
       "name": "Lighthouse",
       "url": "https://open.spotify.com/track/6D66W9Yl8NEqZvs67ucryx"
+    },
+    {
+      "album": {
+        "name": "Line Them Up",
+        "url": "https://open.spotify.com/album/7xXnNyCNRY0vortmzd7shM"
+      },
+      "artists": [
+        {
+          "name": "The Ratskins",
+          "url": "https://open.spotify.com/artist/6ge5wjSR7ea1mgxcodIF8V"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167205,
+      "name": "Line Them Up",
+      "url": "https://open.spotify.com/track/1qpnSa87IPUX0u5xl0JIMx"
     },
     {
       "album": {

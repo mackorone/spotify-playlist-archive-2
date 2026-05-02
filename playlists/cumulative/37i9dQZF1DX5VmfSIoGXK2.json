@@ -117,6 +117,28 @@
     },
     {
       "album": {
+        "name": "as the world turns",
+        "url": "https://open.spotify.com/album/3byD2sN44BAjh9PDe6uhP6"
+      },
+      "artists": [
+        {
+          "name": "KALLITECHNIS",
+          "url": "https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl"
+        },
+        {
+          "name": "mango heist",
+          "url": "https://open.spotify.com/artist/0oYE6kpwZgMzyOj7zIebWs"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292500,
+      "name": "as the world turns",
+      "url": "https://open.spotify.com/track/2AXSrt5iuhT4iPb6piVIp1"
+    },
+    {
+      "album": {
         "name": "at first",
         "url": "https://open.spotify.com/album/7xtmLluiM3xIaAGY3fBXe0"
       },
@@ -872,7 +894,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 147226,
       "name": "De Vere",
       "url": "https://open.spotify.com/track/5QBuldX6YpnOtKfuQPlamh"
@@ -3550,7 +3572,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 177931,
       "name": "Standby",
       "url": "https://open.spotify.com/track/3g022LEZWUTyQm6lqbXaRh"
@@ -4210,6 +4232,28 @@
       "duration_ms": 187631,
       "name": "What a Mess - Milan93 Remix",
       "url": "https://open.spotify.com/track/6xMJBgV703zfA2Qh9h47sJ"
+    },
+    {
+      "album": {
+        "name": "What Is Jazz?",
+        "url": "https://open.spotify.com/album/4cKXSrS6RrOwyr1orYvIuU"
+      },
+      "artists": [
+        {
+          "name": "Jdr",
+          "url": "https://open.spotify.com/artist/1PYEdJGazkqBGTZqTPROmh"
+        },
+        {
+          "name": "notdanilo",
+          "url": "https://open.spotify.com/artist/2waW9QAXwhOAhjhNjxFYrE"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "What Is Jazz?",
+      "url": "https://open.spotify.com/track/7xe0WBLvzLk51qwp1cFlMO"
     },
     {
       "album": {

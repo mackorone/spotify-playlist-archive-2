@@ -1,12 +1,12 @@
 {
   "description": "Fuego y Pasi\u00f3n. Pasi\u00f3n Cordobesa, pasi\u00f3n Argentina. \nFoto: Q\u00b4Lokura, Lauta & Amigo de Artistas",
-  "num_followers": 819015,
+  "num_followers": 819098,
   "original_name": "100% Cuarteto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEWWZ6V6dOgiSIhAY2St6MEMc+up",
+  "snapshot_id": "AAAAAM6EAwupMjQwH5zO6hejUMX9UUlX",
   "tracks": [
     {
       "added_at": "2026-04-24 03:00:44",
@@ -1599,26 +1599,6 @@
     {
       "added_at": "2026-04-24 03:00:44",
       "album": {
-        "name": "Son De Amores",
-        "url": "https://open.spotify.com/album/6B40uzVRSU2ms7KUuLJGdd"
-      },
-      "artists": [
-        {
-          "name": "Simon Aguirre",
-          "url": "https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M"
-        },
-        {
-          "name": "Jean Carlos",
-          "url": "https://open.spotify.com/artist/3zkbEQouXdzjcD4cxoFuO9"
-        }
-      ],
-      "duration_ms": 181600,
-      "name": "Son De Amores",
-      "url": "https://open.spotify.com/track/5C7TEWAPPjqb99qGSsMiN4"
-    },
-    {
-      "added_at": "2026-04-24 03:00:44",
-      "album": {
         "name": "Esto Se Acab\u00f3",
         "url": "https://open.spotify.com/album/1usW30QraosvadgKpteABF"
       },
@@ -1655,6 +1635,26 @@
     {
       "added_at": "2026-04-24 03:00:44",
       "album": {
+        "name": "Son De Amores",
+        "url": "https://open.spotify.com/album/6B40uzVRSU2ms7KUuLJGdd"
+      },
+      "artists": [
+        {
+          "name": "Simon Aguirre",
+          "url": "https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M"
+        },
+        {
+          "name": "Jean Carlos",
+          "url": "https://open.spotify.com/artist/3zkbEQouXdzjcD4cxoFuO9"
+        }
+      ],
+      "duration_ms": 181600,
+      "name": "Son De Amores",
+      "url": "https://open.spotify.com/track/5C7TEWAPPjqb99qGSsMiN4"
+    },
+    {
+      "added_at": "2026-04-24 03:00:44",
+      "album": {
         "name": "Confesi\u00f3n",
         "url": "https://open.spotify.com/album/0nSpGWF4jK7RXdHcNZiCjr"
       },
@@ -1667,26 +1667,6 @@
       "duration_ms": 201876,
       "name": "Confesi\u00f3n",
       "url": "https://open.spotify.com/track/0OGoyUj8cRX6hP0iItmNmN"
-    },
-    {
-      "added_at": "2026-04-24 03:00:44",
-      "album": {
-        "name": "Que Te Vuelva Amor",
-        "url": "https://open.spotify.com/album/2TiQN4ZPday9QtHELjhqtB"
-      },
-      "artists": [
-        {
-          "name": "Bauti Mascia",
-          "url": "https://open.spotify.com/artist/4cV73y9UlkKTCIWbuP2hbG"
-        },
-        {
-          "name": "DesaKTa2",
-          "url": "https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0"
-        }
-      ],
-      "duration_ms": 150764,
-      "name": "Que Te Vuelva Amor",
-      "url": "https://open.spotify.com/track/5Y2hlEF263cIINL3UItXCi"
     },
     {
       "added_at": "2026-04-24 03:00:44",
@@ -1711,6 +1691,42 @@
     {
       "added_at": "2026-04-24 03:00:44",
       "album": {
+        "name": "Que Te Vuelva Amor",
+        "url": "https://open.spotify.com/album/2TiQN4ZPday9QtHELjhqtB"
+      },
+      "artists": [
+        {
+          "name": "Bauti Mascia",
+          "url": "https://open.spotify.com/artist/4cV73y9UlkKTCIWbuP2hbG"
+        },
+        {
+          "name": "DesaKTa2",
+          "url": "https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0"
+        }
+      ],
+      "duration_ms": 150764,
+      "name": "Que Te Vuelva Amor",
+      "url": "https://open.spotify.com/track/5Y2hlEF263cIINL3UItXCi"
+    },
+    {
+      "added_at": "2026-04-24 03:00:44",
+      "album": {
+        "name": "Baby Nueva",
+        "url": "https://open.spotify.com/album/2PIFBB0XSEQnP5k3Cg97JB"
+      },
+      "artists": [
+        {
+          "name": "DesaKTa2",
+          "url": "https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0"
+        }
+      ],
+      "duration_ms": 167450,
+      "name": "Baby Nueva",
+      "url": "https://open.spotify.com/track/4YTEBvMH7uuUhwcRpiLNVW"
+    },
+    {
+      "added_at": "2026-04-24 03:00:44",
+      "album": {
         "name": "No Cambi\u00e9",
         "url": "https://open.spotify.com/album/5WSf0tR685VljhMi3uJGux"
       },
@@ -1731,22 +1747,6 @@
       "duration_ms": 184782,
       "name": "No Cambi\u00e9",
       "url": "https://open.spotify.com/track/7aXdVp1XeibjbKj679y9pX"
-    },
-    {
-      "added_at": "2026-04-24 03:00:44",
-      "album": {
-        "name": "Baby Nueva",
-        "url": "https://open.spotify.com/album/2PIFBB0XSEQnP5k3Cg97JB"
-      },
-      "artists": [
-        {
-          "name": "DesaKTa2",
-          "url": "https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0"
-        }
-      ],
-      "duration_ms": 167450,
-      "name": "Baby Nueva",
-      "url": "https://open.spotify.com/track/4YTEBvMH7uuUhwcRpiLNVW"
     },
     {
       "added_at": "2026-04-24 03:00:44",

@@ -10791,6 +10791,24 @@
     },
     {
       "album": {
+        "name": "ennui",
+        "url": "https://open.spotify.com/album/6Be5YT4sy6M8FjaJaILcGS"
+      },
+      "artists": [
+        {
+          "name": "LadyBoy",
+          "url": "https://open.spotify.com/artist/3EyEQIrSwLWmL5WikGao8Q"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193734,
+      "name": "ennui",
+      "url": "https://open.spotify.com/track/70xCHfTbqEDUYiX28pNvQo"
+    },
+    {
+      "album": {
         "name": "Entre o Sol e a Lua",
         "url": "https://open.spotify.com/album/5RaWM9AHhqkUcl8Ty5jskQ"
       },
@@ -35768,6 +35786,24 @@
       "duration_ms": 214934,
       "name": "The Only One",
       "url": "https://open.spotify.com/track/1FIa3ox06ehPePdtqDkPdT"
+    },
+    {
+      "album": {
+        "name": "Gardening Club",
+        "url": "https://open.spotify.com/album/2Ij0ymbmxaUSdEbWCjgJhW"
+      },
+      "artists": [
+        {
+          "name": "Gardening Club",
+          "url": "https://open.spotify.com/artist/4tVR6UmVssdtcN2BY6fbmg"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96000,
+      "name": "The Rush",
+      "url": "https://open.spotify.com/track/0PBz4H0I5zQOon1fKZbTiU"
     },
     {
       "album": {

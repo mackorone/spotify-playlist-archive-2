@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PSDDh80gxI.md) - [plain]
 
 > Un Frah freschissimo come un'aranciata in cover di Indie Italia 🍊
 
-[Spotify](https://open.spotify.com/user/spotify) - 454,541 likes - 84 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 454,630 likes - 84 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PSDDh80gxI.md) - [plain]
 | 28 | [Io](https://open.spotify.com/track/4rhwdSzWu9U9deLwG6Ho3O) | [Ditonellapiaga](https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l) | [Miss Italia](https://open.spotify.com/album/2UNSUlpESFHb4nVMzTZDbV) | 3:24 |
 | 29 | [Cip Cip](https://open.spotify.com/track/765v05EkFFIAgyeeDrTyu7) | [Dov'è Liana](https://open.spotify.com/artist/0iZfB56PLEsG9T03C2hjhK) | [Cip Cip](https://open.spotify.com/album/51DtXMdWyTTW7QU5Go6ixD) | 3:27 |
 | 30 | [Amaro](https://open.spotify.com/track/3OewdIjWctx4TH6jswXRrc) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Hello World](https://open.spotify.com/album/6O4eR8oKckFf9eDfFS9kkc) | 3:33 |
-| 31 | [Shway shway](https://open.spotify.com/track/13S2diRuXwgWCnJrPkot6D) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ), [Celinatique](https://open.spotify.com/artist/1KcayMdMfOmdGF1Lq11F3T) | [People of the Moon](https://open.spotify.com/album/7b2loBX3KU66zmHk4UI30K) | 3:33 |
+| 31 | [Shway Shway](https://open.spotify.com/track/13S2diRuXwgWCnJrPkot6D) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ), [Celinatique](https://open.spotify.com/artist/1KcayMdMfOmdGF1Lq11F3T) | [People of the Moon](https://open.spotify.com/album/7b2loBX3KU66zmHk4UI30K) | 3:33 |
 | 32 | [Baciamoci](https://open.spotify.com/track/3S8vs3CYZDKEsh1WyJgr3f) | [Eugenio In Via Di Gioia](https://open.spotify.com/artist/1UtaXKnNyKhj0efXu2rD5t) | [Baciamoci](https://open.spotify.com/album/242Zc9kOOYBpCaaTiLOvJj) | 2:47 |
 | 33 | [Miez o' viento](https://open.spotify.com/track/5yWGi8r9zK8epjpmMD4VIF) | [Anna and Vulkan](https://open.spotify.com/artist/338OK54trmorxC1704hKpD) | [Miez o' viento](https://open.spotify.com/album/5Vjfcc0am2Wg1vQ9eI27HW) | 3:26 |
 | 34 | [Quelli come me](https://open.spotify.com/track/0rpUylGGF9tPRgilGzvgSK) | [Juli](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf), [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [Quelli come me](https://open.spotify.com/album/6Stq5rzanrAivV37ueldaS) | 3:20 |

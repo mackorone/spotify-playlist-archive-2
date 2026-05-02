@@ -1,12 +1,12 @@
 {
   "description": "Menemani akhir pekanmu dengan lagu-lagu terbaru. Cover: Alisha Dira ",
-  "num_followers": 169509,
+  "num_followers": 169561,
   "original_name": "Musik Akhir Pekan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGHVR2FGidKnCR4qltV0750x6XsH",
+  "snapshot_id": "AAAAAAxlsTIRLrkhHRmCLwA89TruP0lp",
   "tracks": [
     {
       "added_at": "2026-04-30 17:00:32",
@@ -231,6 +231,38 @@
       "duration_ms": 278700,
       "name": "Cahaya",
       "url": "https://open.spotify.com/track/6EMlXPVTw72DhuBr3lmuHk"
+    },
+    {
+      "added_at": "2026-05-01 05:22:26",
+      "album": {
+        "name": "Malu",
+        "url": "https://open.spotify.com/album/0M3fIUJhwsiG6yn8FIaUs2"
+      },
+      "artists": [
+        {
+          "name": "Obbie Messakh",
+          "url": "https://open.spotify.com/artist/6S40FdKeiCsGHth3mulKl6"
+        }
+      ],
+      "duration_ms": 275050,
+      "name": "Malu",
+      "url": "https://open.spotify.com/track/0XT1eIQ04pRmwt87w03TFi"
+    },
+    {
+      "added_at": "2026-04-30 17:00:32",
+      "album": {
+        "name": "Temani Gelapku",
+        "url": "https://open.spotify.com/album/2rrJe99T18NeCXg853cXiF"
+      },
+      "artists": [
+        {
+          "name": "James Adam",
+          "url": "https://open.spotify.com/artist/1mp6xNxsLku50JEMGvJx1o"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Temani Gelapku",
+      "url": "https://open.spotify.com/track/2m5xhe9BKjaVGgT1Qe0sCX"
     },
     {
       "added_at": "2026-04-30 17:00:32",

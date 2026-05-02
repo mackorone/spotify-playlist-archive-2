@@ -4,7 +4,7 @@
 
 > håll det 100.
 
-2,284 songs - 4 day 1 hr 16 min
+2,286 songs - 4 day 1 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1861,6 +1861,7 @@
 | [SOVA](https://open.spotify.com/track/3p0WsdmgVU2ZNIufdYFBDt) | [Ant Wan](https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy) | [FOR THOSE WHO BELIEVED](https://open.spotify.com/album/2AkCxCyJMIoMe07c3dUnkv) | 3:23 | 2024-02-08 | 2024-07-27 |
 | [SPACEKIDZ](https://open.spotify.com/track/7dWo7PUXrKnvcFBZ5unJof) | [Robbz x Brookz](https://open.spotify.com/artist/28Yka7aPiP0TcDk7TYH14h), [Aden](https://open.spotify.com/artist/4DC3zLbfVrTZo2WmvjMMls), [takenoelz](https://open.spotify.com/artist/16U51AjPH40zvPxDA8FjVT) | [SPACEKIDZ](https://open.spotify.com/album/22yiSZUDXuL8WHxgUOLfcm) | 3:18 | 2022-03-17 | 2022-04-22 |
 | [Span](https://open.spotify.com/track/7zZKjXmvQXRl17gzd15Lb2) | [25](https://open.spotify.com/artist/0LVDX2sdKpfXwVmy52HLAc), [Kayen](https://open.spotify.com/artist/3ntW47aiIFFvi4glmmP8a1) | [Span](https://open.spotify.com/album/2S5n4V0A35bSnBoIG4SqG1) | 2:23 | 2025-04-17 | 2025-07-25 |
+| [Span](https://open.spotify.com/track/2YTyG2NLCd6gFJjAXlgHuU) | [N1cho](https://open.spotify.com/artist/2oYxnEf9p7RUIeDVo3y13y), [Le Bandit](https://open.spotify.com/artist/2TZHEsA6cWPgEVUsrEt4IQ) | [PRODUKT AV MIN MILJÖ](https://open.spotify.com/album/2YgtSLQO3tqBBCdlKOBDUQ) | 3:03 | 2026-05-01 |  |
 | [SPECIAL ONE](https://open.spotify.com/track/1jCWjKtICzrHLDpZGuw7VP) | [JB](https://open.spotify.com/artist/6Xln2zf2OkGDhFKUQcw1yB) | [SPECIAL ONE](https://open.spotify.com/album/5VNxBrD1An7QPjPsEdGxAS) | 3:14 | 2022-06-14 | 2022-07-15 |
 | [SPEKTAKEL](https://open.spotify.com/track/5QizKrIc1qjmjBjUnyay6b) | [Adel](https://open.spotify.com/artist/3vHwJg9XHrACvX9ZlwV8pT) | [SPEKTAKEL](https://open.spotify.com/album/5unmWAe4XiZbABeYnrkpR2) | 2:06 | 2024-07-11 | 2024-10-25 |
 | [Spelet](https://open.spotify.com/track/7HxDD3FRuif5caSLhdPsss) | [Awave](https://open.spotify.com/artist/2zrzhtWVPEcj1btFiRDQlF), [Philippe](https://open.spotify.com/artist/23yPgzwt35lJyA3f8ayMfW) | [VÅGA \(Extended\)](https://open.spotify.com/album/7lYrFVT8gn54SkP4AhIXos) | 2:03 | 2024-11-28 | 2025-01-10 |
@@ -2152,6 +2153,7 @@
 | [Vente vad](https://open.spotify.com/track/7H4ilcNKc4bZHAwW9cgTTi) | [Zius](https://open.spotify.com/artist/2fuavXGFyYPgM3UrbCnBKA), [SHYDE](https://open.spotify.com/artist/45lkyvZqssTcpM1bX5O5Cv) | [Vente vad](https://open.spotify.com/album/2DvVni5UD3SRIRLYV1SO9B) | 2:06 | 2023-05-08 | 2023-05-26 |
 | [Ventilation \- Freestyle](https://open.spotify.com/track/4bImkuZ8ovZUak0sEVGEAm) | [DAN](https://open.spotify.com/artist/0nBco1iBK1g1CJVrJWQUlp), [Sweyway](https://open.spotify.com/artist/1fdprbukg7bIAoBzdP667C) | [Ventilation \(Freestyle\)](https://open.spotify.com/album/1I8EO7hQMouArXFOBwh8na) | 1:41 | 2026-02-05 | 2026-04-10 |
 | [Vera](https://open.spotify.com/track/3GC1xZ2h920Wk75nb3w2QW) | [Donzo x Mitchi](https://open.spotify.com/artist/6vyyCB5qh4EXjfz9Rpo2iv) | [Vera](https://open.spotify.com/album/63HMi5aTveYqJdPEX1p2kt) | 2:50 | 2022-06-09 | 2022-06-24 |
+| [Veratti](https://open.spotify.com/track/4ulLpuM2eDcCyyRGISLUMY) | [N1cho](https://open.spotify.com/artist/2oYxnEf9p7RUIeDVo3y13y), [P.J](https://open.spotify.com/artist/26SfC2rUkcGiSpZfLtla29) | [PRODUKT AV MIN MILJÖ](https://open.spotify.com/album/2YgtSLQO3tqBBCdlKOBDUQ) | 2:24 | 2026-05-01 |  |
 | [Verklighetsförfattare](https://open.spotify.com/track/1fxlgsXuhm2SXApQxFkqLo) | [Lelo](https://open.spotify.com/artist/4GeZOI31ZG8C6PvdAk8Lbw) | [SEE WITH US YOU BE SMILING](https://open.spotify.com/album/2VzoWQFrv0EYBCNJjVlJQm) | 3:04 | 2021-12-16 | 2021-12-24 |
 | [Verratti](https://open.spotify.com/track/4dFAn9EvYwN2qQQjZaCRB2) | [La Rosy](https://open.spotify.com/artist/1pBol2ATUI6hXWOzZQnrcP) | [Verratti](https://open.spotify.com/album/0sWkIwKoRKTvUIXte760he) | 2:34 | 2023-02-23 | 2023-03-18 |
 | [Versailles](https://open.spotify.com/track/2eJLHBo8Jlh0bbrY6b3S4M) | [Gas](https://open.spotify.com/artist/2Uto5OzT6T7DacclzYKvq3) | [Versailles](https://open.spotify.com/album/4qG8i6BahSsNxDQ2Z8DZof) | 2:23 | 2022-06-17 | 2022-07-01 |

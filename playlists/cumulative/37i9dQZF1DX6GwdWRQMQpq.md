@@ -2,9 +2,9 @@
 
 ### [Feelin' Myself](https://open.spotify.com/playlist/37i9dQZF1DX6GwdWRQMQpq)
 
-> The hip\-hop playlist that's a whole mood\. Art By Laci Jordan; Cover: Latto & GloRilla
+> The hip\-hop playlist that's a whole mood\. Art By Laci Jordan; Cover: Trim
 
-815 songs - 1 day 12 hr 13 min
+816 songs - 1 day 12 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -592,6 +592,7 @@
 | [Pop Ya Shit \(Freestyle\)](https://open.spotify.com/track/26JsQSJmZPZb0XpNqaGUht) | [Lady London](https://open.spotify.com/artist/44qqbgojo0P8r68CuRbSN4) | [Pop Ya Shit \(Freestyle\)](https://open.spotify.com/album/2Z8qn8JdWL7AWdwvwLIGhc) | 1:38 | 2023-02-24 | 2023-03-04 |
 | [Pop Yo Shi Twin](https://open.spotify.com/track/4Mvmd5TuSeLMizeGXPMykD) | [NextYoungin](https://open.spotify.com/artist/2e7a6ZMxkwltCzbxHq8b3t) | [Pop Yo Shi Twin](https://open.spotify.com/album/7hhJ46dOGgfFWqPGxeuBly) | 2:01 | 2022-09-02 | 2022-09-24 |
 | [Poppin' Them Tags](https://open.spotify.com/track/22eJd4RvbMXBf7aYVhI92h) | [SMITH](https://open.spotify.com/artist/4XOIQF9cT5At4H0qcjhVL7), [Tay Money](https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7), [Erica Banks](https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM) | [Poppin' Them Tags](https://open.spotify.com/album/44LfR2QnA8kybYssWYnkf4) | 3:17 | 2022-10-21 | 2022-11-12 |
+| [Popular](https://open.spotify.com/track/74RED1gaWYRnb2AgEFh3ES) | [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3) | [Popular](https://open.spotify.com/album/7xck6NTRqumFEIvd7ganZZ) | 2:58 | 2026-05-01 |  |
 | [Pound Town \(and Tay Keith\)](https://open.spotify.com/track/4KSRdah26ypIXVNZPHmzO3) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Pound Town \(and Tay Keith\)](https://open.spotify.com/album/0xN8AKSa1FlAKuKe6BdD6A) | 2:09 | 2023-03-24 | 2023-05-27 |
 | [Pound Town 2 \(feat\. Nicki Minaj & Tay Keith\)](https://open.spotify.com/track/6IEXjer2qbXhRLFv99NQQv) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Pound Town 2 \(feat\. Nicki Minaj & Tay Keith\)](https://open.spotify.com/album/7GfHTwHGoDzOEDInYlnR25) | 3:14 | 2023-05-26 | 2024-04-19 |
 | [PPA](https://open.spotify.com/track/6hdQpybU08u1k4AJvNtKq8) | [Chelsea Pastel](https://open.spotify.com/artist/1rpz8zkZaj3UKDPk2NxV7F) | [Pastelevision](https://open.spotify.com/album/3Fw3gOj3UVlNJUclaOqLK2) | 2:39 | 2021-12-03 | 2022-01-08 |
@@ -787,7 +788,7 @@
 | [Whatever](https://open.spotify.com/track/0YcZT9SjPgmylWUfJSFtm3) | [Bri3](https://open.spotify.com/artist/2nQ17oZU3rP09w7d17VK8H) | [Whatever](https://open.spotify.com/album/5x83UB3DpZleH2mUFJwOa8) | 2:29 | 2026-04-17 |  |
 | [Wheelie \(feat\. 21 Savage\)](https://open.spotify.com/track/2BxboWjnfktO1E9HGfPXq1) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Wheelie \(feat\. 21 Savage\)](https://open.spotify.com/album/5gwTtcUw2dHvT1x9ad49ag) | 2:50 | 2022-03-11 | 2022-07-23 |
 | [Wheelie \(feat\. 21 Savage\)](https://open.spotify.com/track/5lrAnzvRBQSgAkpo0WkMjB) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [777](https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O) | 2:50 | 2022-07-22 | 2023-01-21 |
-| [Whenever](https://open.spotify.com/track/4oVUfLx1BVgXbPXc0MlPkr) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Whenever](https://open.spotify.com/album/72PmiHAfjlwVxpWWgiHowx) | 2:45 | 2025-04-25 |  |
+| [Whenever](https://open.spotify.com/track/4oVUfLx1BVgXbPXc0MlPkr) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Whenever](https://open.spotify.com/album/72PmiHAfjlwVxpWWgiHowx) | 2:45 | 2025-04-25 | 2026-05-02 |
 | [Where the Fun Niggas At?](https://open.spotify.com/track/36jKiym1viZatX0tHDGDxM) | [Asian Doll](https://open.spotify.com/artist/4guK7U9J36z76E1tWecJ0J) | [Where the Fun Niggas At?](https://open.spotify.com/album/7BWW9riDewdKvAh0pz1Tza) | 2:44 | 2023-06-23 | 2023-07-15 |
 | [Where Them Girls At](https://open.spotify.com/track/2OUK5td58k4BV2GvFdfdzr) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [MEGAN](https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8) | 3:11 | 2024-06-28 | 2024-07-13 |
 | [WHIM WHAMIEE](https://open.spotify.com/track/4eULTkHVLAhn5J5DOSNbdP) | [PLUTO](https://open.spotify.com/artist/4uqHgaeBynLBQgfhMEIm1G), [YKNIECE](https://open.spotify.com/artist/0W1zQBUWnDofTkc0APdaog) | [WHIM WHAMIEE](https://open.spotify.com/album/0cU7tn9mTCW4cDQWsxrbWO) | 2:21 | 2025-06-27 |  |

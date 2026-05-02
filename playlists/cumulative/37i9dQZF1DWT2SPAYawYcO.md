@@ -2,9 +2,9 @@
 
 ### [New Music Friday AU & NZ](https://open.spotify.com/playlist/37i9dQZF1DWT2SPAYawYcO)
 
-> Brand new music from Dom Dolla, Tiga, Te Wehi, Kacey Musgraves, Miranda Lambert, Madonna, Sabrina Carpenter + more
+> Brand new music from Dom Dolla,  Tiga, Te Wehi, Kacey Musgraves, Miranda Lambert, Madonna, Sabrina Carpenter + more
 
-12,826 songs - 29 day 2 hr 21 min
+12,827 songs - 29 day 2 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1582,6 +1582,7 @@
 | [BOXCUTTER](https://open.spotify.com/track/00LYEmkSq6l0p1ZwKTGJI6) | [King Roman](https://open.spotify.com/artist/1mKApP2dgCtGbvKssYpJaq) | [BOXCUTTER](https://open.spotify.com/album/5h62A2c7IO91TFDkinz52Z) | 3:04 | 2025-03-27 | 2025-04-04 |
 | [Boy](https://open.spotify.com/track/4ZbD7hoqAVz7y4LjKesosW) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Boy](https://open.spotify.com/album/6haJhYWiaQebv4nZjpXB58) | 3:21 | 2025-06-05 | 2025-06-13 |
 | [BOY CRAZY.](https://open.spotify.com/track/5CiPDLxXmUG7Fk5yjlNy9n) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [BOY CRAZY.](https://open.spotify.com/album/5vbKk8Ki7HxcDUCYh5EUZc) | 2:28 | 2025-05-15 | 2025-05-23 |
+| [BOY IN RED](https://open.spotify.com/track/7B2ygRXyWZulEpO4G1CHZf) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [IT'S BEEN AWFUL](https://open.spotify.com/album/2ZDgH9uDdjRFNdjEyQCZtH) | 3:09 | 2026-05-01 |  |
 | [Boy Problems](https://open.spotify.com/track/47gFpgYwaoYvNDbnuMv1vA) | [ASTON](https://open.spotify.com/artist/6z4NUKuKEzIzo28BPOjVof) | [Boy Problems](https://open.spotify.com/album/2uODyDSjNyo8lKAomPoM8R) | 2:47 | 2023-08-10 | 2023-08-18 |
 | [Boy Scout](https://open.spotify.com/track/0rJltghxX2Ene77FGVYxdL) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [Boy Scout](https://open.spotify.com/album/5IyUVUACxYS7DE1URy80jv) | 3:20 | 2023-09-07 | 2023-09-15 |
 | [boy that's loving you](https://open.spotify.com/track/3zuhn8OqdMQFjrQdlZJ5Hw) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [boy that's loving you](https://open.spotify.com/album/1wjkQnmMpbXyNkMJjmmLgW) | 3:04 | 2026-04-24 | 2026-05-01 |
@@ -3169,6 +3170,7 @@
 | [Dreaming \(Feelings\)](https://open.spotify.com/track/03fBbF1Y6uNdC4v7RhBCrH) | [Fish56Octagon](https://open.spotify.com/artist/46Ro78dkP2X0XUKmiovwL3), [Issey Cross](https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U) | [Dreaming \(Feelings\)](https://open.spotify.com/album/0VhInKrXGDFPWZFSy2VOY4) | 2:31 | 2025-10-16 | 2025-10-24 |
 | [Dreaming \- Acoustic](https://open.spotify.com/track/1GR5q5MvrcAmwpIlJfJzDC) | [Royston Noell](https://open.spotify.com/artist/3ihMQzxAZJ6vjqNPdDn25O) | [Dreaming \(Acoustic\)](https://open.spotify.com/album/3ptbb1KQTXI7wNTp3anA3a) | 3:09 | 2023-12-21 | 2024-01-12 |
 | [Dreaming Of You](https://open.spotify.com/track/5MMCASojxp6pTNlXzb6mmG) | [STÜM](https://open.spotify.com/artist/2voP6uZbMR9fJ49e8HE9Fd) | [Dreaming Of You](https://open.spotify.com/album/2hrzs0FBo5l2KH6WSoOpWM) | 4:19 | 2023-07-27 | 2023-08-04 |
+| [Dreams](https://open.spotify.com/track/7N2whR0gRwhqosKDTO9Xog) | [Te Wehi](https://open.spotify.com/artist/2DkCh3TikVqqOAKrbMNIVc) | [I'm Home](https://open.spotify.com/album/6ew4NmrkKoIU62pNp48WGT) | 3:15 | 2026-04-30 |  |
 | [Dreams Don’t Die](https://open.spotify.com/track/2ZiIL3VpkHlZ6tfNIfQU6q) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Dreams Don’t Die](https://open.spotify.com/album/0kS7VkeLcJrWUwLUIMfP7Z) | 3:01 | 2025-04-10 | 2025-04-18 |
 | [Dreamstate](https://open.spotify.com/track/6jpMHF5tzxRdWExRDoDG87) | [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5) | [Dreamstate](https://open.spotify.com/album/4OL7O0xoj0xjyRrTA3clwd) | 5:30 | 2024-10-17 | 2024-10-25 |
 | [Dreamteam](https://open.spotify.com/track/1UNYQXk8b0GPbupETN4IHL) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [Neon Trees](https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy) | [Dreamteam](https://open.spotify.com/album/15YushxelouREDwAN3cdV1) | 3:01 | 2023-10-26 | 2023-11-03 |
@@ -3904,6 +3906,7 @@
 | [Follow \- Edit](https://open.spotify.com/track/0Yk626XsjnFmt6PkjBxa4C) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [Follow \- Edit](https://open.spotify.com/album/5UT1bolboHeifFrzuqeLBy) | 2:37 | 2024-09-26 | 2024-10-04 |
 | [Follow Me](https://open.spotify.com/track/3tYy5DX20Bd3SO4UABc3Xt) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [Sumner](https://open.spotify.com/artist/3MkvptiOUwlGj7DyNbJfrY) | [Follow Me](https://open.spotify.com/album/3kichZUBPRawFSLkhPzFtB) | 2:47 | 2025-06-12 | 2025-06-20 |
 | [Follow Me in the Ocean](https://open.spotify.com/track/1mqIXvshRM1IGh6tlzzjDm) | [Salt Tree](https://open.spotify.com/artist/4xNez1q78QXUBq6zvKuNrU) | [Follow Me in the Ocean](https://open.spotify.com/album/39H2sodDFMJN3EesXYzIgv) | 3:18 | 2024-04-11 | 2024-04-19 |
+| [Follow Me to Forever](https://open.spotify.com/track/05EHYfAmnOgwnP5FkjdOao) | [Dream on Dreamer](https://open.spotify.com/artist/1dgKyJ17rujJe8wpFaX67v) | [Heavens](https://open.spotify.com/album/3ESMqDWN2XoJ4vEoYmfYEg) | 4:09 | 2026-04-30 |  |
 | [Follow On](https://open.spotify.com/track/3Qlk110ZID5OoWwjv5eUcj) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [Follow On](https://open.spotify.com/album/1ulTuIbasaEcvtUs9BBBKq) | 3:48 | 2025-01-02 | 2025-01-10 |
 | [Follow the Sound of My Voice](https://open.spotify.com/track/1QXNrX8FDJtjygjZesvEwv) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Follow the Sound of My Voice](https://open.spotify.com/album/1o1Ox39kLfKMc90x9yYSLu) | 5:50 | 2024-03-28 | 2024-04-05 |
 | [Follow the Sound of My Voice](https://open.spotify.com/track/1ysFmPR5LRj24sdeZ0rGSa) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Follow the Sound of My Voice](https://open.spotify.com/album/66vgzxaWLcJmDt6kd12mlM) | 5:50 | 2024-03-28 | 2024-03-30 |
@@ -11603,8 +11606,6 @@
 | [Toxic Trait](https://open.spotify.com/track/49NAdUsRKTFK3Lz8k0yQNy) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Fredo](https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z) | [Toxic Trait](https://open.spotify.com/album/7LLdvA94DikzoIqvFpgW1S) | 3:14 | 2023-06-23 | 2023-06-30 |
 | [Toyota Camry](https://open.spotify.com/track/7xAgpLgXL0Hi1q2pW48zNa) | [Radio Free Alice](https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj) | [Toyota Camry](https://open.spotify.com/album/1iabNMrVo9EZjQdWvJkwHB) | 3:10 | 2025-07-31 | 2025-08-08 |
 | [TRA TRA](https://open.spotify.com/track/7DKTwjcVcO3ZZOkws1WzOJ) | [Jalmar](https://open.spotify.com/artist/48cWJwip5jzPIDK9kL2KYb) | [TRA TRA](https://open.spotify.com/album/7vCrjOeymEEaGg8LLDkqih) | 2:28 | 2024-05-16 | 2024-05-24 |
-| [Track 3](https://open.spotify.com/track/05EHYfAmnOgwnP5FkjdOao) | [Dream on Dreamer](https://open.spotify.com/artist/1dgKyJ17rujJe8wpFaX67v) | [Heavens](https://open.spotify.com/album/3ESMqDWN2XoJ4vEoYmfYEg) | 0:00 | 2026-04-30 |  |
-| [Track 4](https://open.spotify.com/track/7N2whR0gRwhqosKDTO9Xog) | [Te Wehi](https://open.spotify.com/artist/2DkCh3TikVqqOAKrbMNIVc) | [I'm Home](https://open.spotify.com/album/6ew4NmrkKoIU62pNp48WGT) | 0:00 | 2026-04-30 |  |
 | [Tractor Beam](https://open.spotify.com/track/3SCe8EBhzxVx5Tqhv9cYqi) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Tractor Beam](https://open.spotify.com/album/4ZkRrdsD1RP5UdCmDP6s8Q) | 3:34 | 2026-03-27 | 2026-04-03 |
 | [Trade Places](https://open.spotify.com/track/3yBI1IVune0k7Tsmcy8BVh) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Monica](https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES) | 3:02 | 2026-03-13 | 2026-03-20 |
 | [TRAFFIC](https://open.spotify.com/track/5lVNQLvr89qXZFu2CyyLX4) | [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5), [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [TRAFFIC](https://open.spotify.com/album/76FsZpoyeFy6sH4nccj2HL) | 4:00 | 2026-01-29 | 2026-02-06 |

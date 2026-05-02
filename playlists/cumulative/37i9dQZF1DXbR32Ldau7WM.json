@@ -2260,7 +2260,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 231250,
       "name": "Burning",
       "url": "https://open.spotify.com/track/0DCUrM5omLum9e4UXCKhEM"
@@ -3830,6 +3830,32 @@
       "duration_ms": 273160,
       "name": "Enchanted",
       "url": "https://open.spotify.com/track/4Qt59YsDr0umqWYiQ8OowQ"
+    },
+    {
+      "album": {
+        "name": "Ender Ember",
+        "url": "https://open.spotify.com/album/0FBJr6Rz092FvYzkqsVhT4"
+      },
+      "artists": [
+        {
+          "name": "MYTH & ROID",
+          "url": "https://open.spotify.com/artist/1NRrtMvT3o1TI6I8XCuweq"
+        },
+        {
+          "name": "TK from Ling tosite sigure",
+          "url": "https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS"
+        },
+        {
+          "name": "Re:ZERO Music",
+          "url": "https://open.spotify.com/artist/78oRR9sySF2gaUSNJMADAJ"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241653,
+      "name": "Ender Ember",
+      "url": "https://open.spotify.com/track/5US7QZzPMx25DnA2SW0jAW"
     },
     {
       "album": {

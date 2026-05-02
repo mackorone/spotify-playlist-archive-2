@@ -4,7 +4,7 @@
 
 > Explore Pakistan's thriving independent scene 🔥 Cover: Natasha Humera Ejaz
 
-450 songs - 1 day 0 hr 48 min
+451 songs - 1 day 0 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,6 +211,7 @@
 | [KBN](https://open.spotify.com/track/0v1qcgapKPPy1qH5vJGuAH) | [Double Major](https://open.spotify.com/artist/02Bw7T1RJ4ruuzsGk9AXnV) | [KBN](https://open.spotify.com/album/49B6l3ZFK7jGKec5sS9rkf) | 2:28 | 2025-07-24 | 2025-09-25 |
 | [Keh Diya](https://open.spotify.com/track/4lSaV0o7ldXV2NnF54xNhT) | [Zoha Zuberi](https://open.spotify.com/artist/7q7OAPH7UHoaTYL4DXe1LK), [Ammad Khan](https://open.spotify.com/artist/5PpEspfoLJFO9gaOUSsmUV) | [Keh Diya](https://open.spotify.com/album/3hExwvMIq8njfR2CPTbjlw) | 2:48 | 2026-01-23 | 2026-02-07 |
 | [Kehdena](https://open.spotify.com/track/6o8tuwVDjGn3fUoiFsNNba) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW), [ChillBazaar](https://open.spotify.com/artist/2NAjKl5QHznzsMfHy6cGOJ) | [Kehdena](https://open.spotify.com/album/3apaPtqSwlQoQBiWFmWZu1) | 3:49 | 2023-05-26 |  |
+| [Kehdo Na](https://open.spotify.com/track/1Wj5vKeO5q8M9YEBsWA1Ft) | [Mudabbir Azeez Jamall](https://open.spotify.com/artist/7HX5PwfHdsoLD7dDdY0f7l), [The Hashtags](https://open.spotify.com/artist/2I98zL3Q63jrawDI778pmV) | [Kehdo Na](https://open.spotify.com/album/2WNCUv362cuWXZXAz3ANKz) | 3:14 | 2026-05-01 |  |
 | [Khataa](https://open.spotify.com/track/6ysZDePWB7PJkGPclwdVeB) | [Belaal](https://open.spotify.com/artist/43yRI94YNMeWDCF0FLX8m2), [Bilal Ali](https://open.spotify.com/artist/1qJck1RgMGzqJyzvIJuOuX) | [Khataa](https://open.spotify.com/album/7ep6Huprsc2uWwMhQ35Pr5) | 2:37 | 2025-10-03 |  |
 | [Khayal](https://open.spotify.com/track/2AHlAZJS2tTnhDqqlIm6O3) | [Shamoon Ismail](https://open.spotify.com/artist/5bxVbtf4t5k1QPmy0XDvgv) | [Cookie](https://open.spotify.com/album/5JkjCmyossmwy8kL2FRxgP) | 3:06 | 2023-09-15 | 2024-12-13 |
 | [Khirki](https://open.spotify.com/track/0I4ViThIJrFKDWvKclQcv5) | [Taha G](https://open.spotify.com/artist/4sqyi6AnMdNtF5H0UD1Nv5) | [Khirki](https://open.spotify.com/album/0jHoXjcxySVoXdDkY0NXjw) | 3:27 | 2024-10-18 | 2025-11-08 |
@@ -218,7 +219,7 @@
 | [Khushboo](https://open.spotify.com/track/3c3GiH4agOLLtZazX7czYh) | [Natasha Baig](https://open.spotify.com/artist/2R8t8JuhekewFBqE8OhBq8), [Parveen Shakir](https://open.spotify.com/artist/4sSaA096BL94U4rkcqK4Jc) | [Khushboo](https://open.spotify.com/album/493fKLr1Pe5JeupPQTxiSL) | 3:45 | 2026-03-20 |  |
 | [Khushbu](https://open.spotify.com/track/3vKIFR23DPK4lyzqxZOa01) | [RFB](https://open.spotify.com/artist/6xWVbaQjA2OO1ejFPyKhjp) | [Khushbu](https://open.spotify.com/album/23PwR2OGh9FecmW32AVmOa) | 3:26 | 2021-12-06 | 2022-09-06 |
 | [Khushnaseebi](https://open.spotify.com/track/6pnSZHW0QYr6OYd3oXLXL5) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1) | [Khushnaseebi](https://open.spotify.com/album/6UFJPoceIxfmjOMeodyGFu) | 2:35 | 2024-08-16 | 2024-12-13 |
-| [Khuwaab Si](https://open.spotify.com/track/338aAwWf3NKg3UZ5MhOQFz) | [The Tamaashbeens](https://open.spotify.com/artist/6dArdZ3NhrB1sbyo2s5poV) | [Khuwaab Si](https://open.spotify.com/album/7u8QXXiU4newYYpuhYfCQj) | 3:32 | 2026-01-23 |  |
+| [Khuwaab Si](https://open.spotify.com/track/338aAwWf3NKg3UZ5MhOQFz) | [The Tamaashbeens](https://open.spotify.com/artist/6dArdZ3NhrB1sbyo2s5poV) | [Khuwaab Si](https://open.spotify.com/album/7u8QXXiU4newYYpuhYfCQj) | 3:32 | 2026-01-23 | 2026-05-02 |
 | [Khwaab](https://open.spotify.com/track/2gVuB5FLzYU46N3CPmBRyN) | [Kashmir](https://open.spotify.com/artist/3BaXohQuxIv7oZGuHEBuLt) | [Khwaab](https://open.spotify.com/album/653VDLcUT6H1wGtxdEd8Bl) | 5:27 | 2021-12-06 | 2023-02-13 |
 | [Khwaab](https://open.spotify.com/track/5l1TyIIMmF9dl9xKqTwZjr) | [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY), [Mujju](https://open.spotify.com/artist/2SfEGrMv3AQ7D6WhY62BIm) | [Khwaab](https://open.spotify.com/album/5JqeFHuEs0NapdjBs9cqTn) | 4:02 | 2021-12-06 | 2022-11-24 |
 | [Khwabeeda](https://open.spotify.com/track/0dxX0XyoYAc9BtEvGgBdpk) | [Shayan](https://open.spotify.com/artist/198gd3Lh4ZCFuabsyn7jM3) | [Khwabeeda](https://open.spotify.com/album/3EsrLMbFaBPmSwtDzJ2AFp) | 3:00 | 2025-09-09 | 2025-10-04 |

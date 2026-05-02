@@ -2,7 +2,7 @@
 
 ### [Gospel Hits](https://open.spotify.com/playlist/37i9dQZF1DX7OIddoQVdRt)
 
-> Experience the powerful messages and sounds of recent hits in Gospel music\.  Cover: Tasha Cobbs Leonard
+> Experience the powerful messages and sounds of recent hits in Gospel music\.  Cover: Tamela Mann
 
 307 songs - 1 day 2 hr 52 min
 

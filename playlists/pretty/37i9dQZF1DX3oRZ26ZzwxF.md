@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3oRZ26ZzwxF.md) - [plain]
 
 > Le meilleur du rap africain francophone\. Photo : Ameka Zrai
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,777 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,888 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3oRZ26ZzwxF.md) - [plain]
 | 34 | [TANTINE](https://open.spotify.com/track/4mG3gwyKd9f1sKtSak6RlX) | [Waza no limite](https://open.spotify.com/artist/0J285nKY53u8GAlvywTPQb), [Elgor Beatz](https://open.spotify.com/artist/4AtBPAJFtolERPERU23kOr) | [TANTINE](https://open.spotify.com/album/3N0RPDXIALceLrVLs6JwZB) | 2:19 |
 | 35 | [Recommence](https://open.spotify.com/track/3ELmcYIi0PXmFXrnLeKwIt) | [Ameka Zrai](https://open.spotify.com/artist/2PG1Fj7Mp49NqxNtjZdMsv), [Emma'a](https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx) | [Flâ Ni](https://open.spotify.com/album/338CpWJ2T8WYv1ABjLEp5j) | 2:12 |
 | 36 | [Eliminé](https://open.spotify.com/track/7wbtGmNYsHRH0nWqRLje0X) | [Diesel Gucci](https://open.spotify.com/artist/3ZTd2WDHj0fn67xpiQ9DEi), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Eliminé](https://open.spotify.com/album/4H8jp47Allzo8anDKynAeM) | 3:58 |
-| 37 | [ICI BAS](https://open.spotify.com/track/0hUN28dCmieC5vupzznOxT) | [Philipayne](https://open.spotify.com/artist/4yqT8sbLpKfUkQX64ujh8D) | [ICI BAS](https://open.spotify.com/album/4KJM2SjzoiywefTP8MJAz6) | 3:09 |
+| 37 | [ICI BAS](https://open.spotify.com/track/0hUN28dCmieC5vupzznOxT) | [Philipayne](https://open.spotify.com/artist/4yqT8sbLpKfUkQX64ujh8D) | [ICI BAS](https://open.spotify.com/album/4KJM2SjzoiywefTP8MJAz6) | 3:10 |
 | 38 | [Carré VIP](https://open.spotify.com/track/6ruPUqKQpGvk8kkKoJlHzp) | [Lil Jay Bingerack](https://open.spotify.com/artist/5v1lkZbpgPYKmyDzqc4Klu) | [Carré VIP](https://open.spotify.com/album/5rm9gVo6kT1RXftD3G9P4I) | 2:26 |
 | 39 | [Praise the Lord](https://open.spotify.com/track/3IvprOUbcFgjfFFeh37doB) | [Toofan](https://open.spotify.com/artist/5BfpzKNakWiXUNm1RfBgUi) | [Praise the Lord](https://open.spotify.com/album/2xUK7mW9ZsZoHHZTpqomy6) | 2:22 |
 | 40 | [FOCUS](https://open.spotify.com/track/1icjvmGAFl865h1w5LV4Ji) | [Benzolamelo](https://open.spotify.com/artist/03BQDdUudnaUqRp45kAcM7) | [FOCUS](https://open.spotify.com/album/0qLMJlbiKZHwEBqRIiEi1V) | 2:22 |

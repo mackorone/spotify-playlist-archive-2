@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/53OigPFP7tBPmzkAH3n1rw.md) - [plain]
 
 > Listen to the Ginny &amp; Georgia Official Playlist\. <a href="https://www.netflix.com/title/81025696">Watch only on Netflix</a>
 
-[Netflix](https://open.spotify.com/user/netflixmusic) - 132,676 likes - 404 songs - 21 hr 17 min
+[Netflix](https://open.spotify.com/user/netflixmusic) - 132,686 likes - 404 songs - 21 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -187,7 +187,7 @@ pretty - [cumulative](/playlists/cumulative/53OigPFP7tBPmzkAH3n1rw.md) - [plain]
 | 177 | [Austin Hides In The Closet](https://open.spotify.com/track/6wvW5uKKd0aybOgyz0b9yw) | [Lili Haydn](https://open.spotify.com/artist/19wVkkHXBiTMrlEJ3vWKIm), [Ben Bromfield](https://open.spotify.com/artist/3hz2vronPvlcXVnUASpQlT) | [Ginny & Georgia: Season 2 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/02HsINt1u1cLio90RMpVJe) | 0:54 |
 | 178 | [Zanzibar](https://open.spotify.com/track/0czEIxZg628LnldJfm7usx) | [Kamaliza](https://open.spotify.com/artist/6YUQJ6WF4FGDqqBQ1LTjL6) | [Zanzibar](https://open.spotify.com/album/0fJE1fcPOjUcfQv8niTGbW) | 3:48 |
 | 179 | [The Best](https://open.spotify.com/track/5Lah3COBS2EBA5djBu9RGC) | [Erica Banks](https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM) | [Diary of The Flow Queen](https://open.spotify.com/album/03CKGhq7xh22fxkhHGJxp2) | 2:32 |
-| 180 | [Love Somebody](https://open.spotify.com/track/0kTrROPSEOxajpYuKDmMhe) | [Justin Caruso](https://open.spotify.com/artist/1NyxTiCivDmzgFWYD1V01m), [Chris Lee Artiste](https://open.spotify.com/artist/02VPWD8AZ7qSuug0dM4Hk1) | [Love Somebody](https://open.spotify.com/album/4sQi2B30DayWuOIzlZayO9) | 3:03 |
+| 180 | [Love Somebody](https://open.spotify.com/track/0kTrROPSEOxajpYuKDmMhe) | [Justin Caruso](https://open.spotify.com/artist/1NyxTiCivDmzgFWYD1V01m), [Chris Lee](https://open.spotify.com/artist/02VPWD8AZ7qSuug0dM4Hk1) | [Love Somebody](https://open.spotify.com/album/4sQi2B30DayWuOIzlZayO9) | 3:03 |
 | 181 | [I'd Never Love Someone \(Bracia's Ballad\)](https://open.spotify.com/track/0H9QK5FuZ9oDS4E6sMXnJ6) | [Ginny & Georgia Cast](https://open.spotify.com/artist/2dbIN8yOmyKAKSsS7WC78R), [Lili Haydn](https://open.spotify.com/artist/19wVkkHXBiTMrlEJ3vWKIm), [Ben Bromfield](https://open.spotify.com/artist/3hz2vronPvlcXVnUASpQlT), [Tameka Griffiths](https://open.spotify.com/artist/3vtO1P0jNkb1uIAq862mwW) | [Ginny & Georgia: Season 2 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/02HsINt1u1cLio90RMpVJe) | 2:36 |
 | 182 | [Blondes](https://open.spotify.com/track/3rahfnBg8S2nWnyoc3gCyy) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Blondes](https://open.spotify.com/album/4ftxjAuwdSH3g22vwBrthc) | 3:00 |
 | 183 | [Cross My Heart I Hope U Die](https://open.spotify.com/track/3TSRH5IgWTHc8QZSAmo4bz) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Cross My Heart I Hope U Die](https://open.spotify.com/album/5AQdr3EeYdMHLTTXNEwfWO) | 2:48 |

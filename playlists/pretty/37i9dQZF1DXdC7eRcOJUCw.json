@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Las mujeres de la M\u00fasica Mexicana! Rosalia Le\u00f3n en portada \ud83c\udf39",
-  "num_followers": 188266,
+  "num_followers": 188276,
   "original_name": "Reinas del Mariachi",
   "owner": {
     "name": "Spotify",
@@ -975,6 +975,22 @@
     {
       "added_at": "2026-02-13 06:00:00",
       "album": {
+        "name": "Piel Azteca",
+        "url": "https://open.spotify.com/album/0zQpkq8x29yyopEtA5ownZ"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 115537,
+      "name": "Piel Azteca",
+      "url": "https://open.spotify.com/track/7wLHic0DluPeQslKdbgvYm"
+    },
+    {
+      "added_at": "2026-02-13 06:00:00",
+      "album": {
         "name": "Tengo Ganas De Olvidarte",
         "url": "https://open.spotify.com/album/2VTuVSJ6mock6liZb5NuD0"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 218061,
       "name": "Tengo Ganas De Olvidarte",
       "url": "https://open.spotify.com/track/7EJzVmKWei8WNDRkqmPWrE"
-    },
-    {
-      "added_at": "2026-02-13 06:00:00",
-      "album": {
-        "name": "Piel Azteca",
-        "url": "https://open.spotify.com/album/0zQpkq8x29yyopEtA5ownZ"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 115537,
-      "name": "Piel Azteca",
-      "url": "https://open.spotify.com/track/7wLHic0DluPeQslKdbgvYm"
     },
     {
       "added_at": "2026-02-13 06:00:00",

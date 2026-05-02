@@ -108325,6 +108325,28 @@
     },
     {
       "album": {
+        "name": "ON MY SIDE (world edition)",
+        "url": "https://open.spotify.com/album/6Nfphxl7fEW62SS8ha1ETr"
+      },
+      "artists": [
+        {
+          "name": "De Stanley Brothers",
+          "url": "https://open.spotify.com/artist/5QcpMCOrA4nVxileunNZD3"
+        },
+        {
+          "name": "Jennifer Ahohen",
+          "url": "https://open.spotify.com/artist/1NU6PSMZin0oMPG1nEXdIa"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "ON MY SIDE - Swedish",
+      "url": "https://open.spotify.com/track/2zfFQptLsHN1CMSlKSE3h2"
+    },
+    {
+      "album": {
         "name": "On My Way",
         "url": "https://open.spotify.com/album/60RGm56EKCNspvo6xu43XI"
       },
@@ -142198,24 +142220,6 @@
       "duration_ms": 228240,
       "name": "TPC",
       "url": "https://open.spotify.com/track/4NeAVZAhCl8c2AX7Cwr5zL"
-    },
-    {
-      "album": {
-        "name": "ON MY SIDE (world edition)",
-        "url": "https://open.spotify.com/album/6Nfphxl7fEW62SS8ha1ETr"
-      },
-      "artists": [
-        {
-          "name": "De Stanley Brothers",
-          "url": "https://open.spotify.com/artist/5QcpMCOrA4nVxileunNZD3"
-        }
-      ],
-      "date_added": "2026-05-01",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/2zfFQptLsHN1CMSlKSE3h2"
     },
     {
       "album": {

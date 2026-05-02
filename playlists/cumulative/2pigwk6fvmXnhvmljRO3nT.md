@@ -4,7 +4,7 @@
 
 > 
 
-8,615 songs - 21 day 22 hr 51 min
+8,617 songs - 21 day 22 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1239,6 +1239,7 @@
 | [Cinderella \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/2lpygKqzPFtItQ4ss3cgfb) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [The Divine Feminine](https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ) | 8:00 | 2025-01-04 |  |
 | [Cinema](https://open.spotify.com/track/5Xjh7Ew2mqrajmvTTZN231) | [Kero Kero Bonito](https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT) | [TOTEP](https://open.spotify.com/album/1JRe4BK6irt43VvOESllLv) | 2:06 | 2026-02-11 |  |
 | [Circle Of Bosses \(feat\. Quavo\)](https://open.spotify.com/track/5UmRDaMPkV6g2HVMWoKx8u) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [So Much Fun](https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh) | 2:59 | 2025-01-15 |  |
+| [Circle of Life](https://open.spotify.com/track/0HU5JnVaKNTWf6GykV9Zn8) | [Carmen Twillie](https://open.spotify.com/artist/6O3ZB5Cz5CNT3wQWouKcNJ), [Lebo M.](https://open.spotify.com/artist/0zp9qNDSeYi3QEodhcKAAA) | [The Lion King](https://open.spotify.com/album/3YA5DdB3wSz4pdfEXoMyRd) | 3:59 | 2026-05-02 |  |
 | [Circles](https://open.spotify.com/track/0xE4LEFzSNGsz1F6kvXsHU) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Circles \(Deluxe\)](https://open.spotify.com/album/1YZ3k65Mqw3G8FzYlW1mmp) | 2:50 | 2025-01-04 |  |
 | [Circles](https://open.spotify.com/track/21jGcNKet2qwijlDFuPiPb) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Hollywood's Bleeding](https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi) | 3:35 | 2025-01-15 |  |
 | [Circo Loco](https://open.spotify.com/track/7GeTsDIc5ykNB6lORO6Cee) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 3:56 | 2025-01-03 |  |
@@ -2614,7 +2615,7 @@
 | [Hadal Ahbek](https://open.spotify.com/track/0UdZzUSOLhqIFCU7wHWkgp) | [Issam Alnajjar](https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r) | [Hadal Ahbek](https://open.spotify.com/album/4mpBiBTgBbGdgmw6nh22Tk) | 3:29 | 2026-03-08 |  |
 | [Haikei Shounenyo](https://open.spotify.com/track/1zuJhvTWKLWmfJk6vIPPVT) | [Hump Back](https://open.spotify.com/artist/0zgpYPDY3hFaK1DqbWgCjI) | [Haikei Shounenyo](https://open.spotify.com/album/4oha0F6Ng0LUQL7zm6nkCE) | 3:08 | 2025-03-31 |  |
 | [Haikei Shounenyo \- 2020.11.23 Live at Osaka\-Jo Hall](https://open.spotify.com/track/22j8HQKqUvGtsw3tNEFHZ5) | [Hump Back](https://open.spotify.com/artist/0zgpYPDY3hFaK1DqbWgCjI) | [“Haikei Shounen Shoujo tachiyo”Osaka\-Jo Hall One\-man Live](https://open.spotify.com/album/1n6ZMBkYjIWkii6wmVnFFa) | 5:28 | 2025-01-03 | 2025-04-15 |
-| [Hail Mary](https://open.spotify.com/track/6sCtddSFg3foJn4K2pIhfQ) | [Makaveli](https://open.spotify.com/artist/4pmNqFu71wEmFXSsYAiWK8) | [The Don Killuminati: The 7 Day Theory](https://open.spotify.com/album/2gWrUaBkh1uQARjbjvUGNp) | 5:09 | 2025-01-04 |  |
+| [Hail Mary](https://open.spotify.com/track/6sCtddSFg3foJn4K2pIhfQ) | [Makaveli](https://open.spotify.com/artist/4pmNqFu71wEmFXSsYAiWK8) | [The Don Killuminati: The 7 Day Theory](https://open.spotify.com/album/2gWrUaBkh1uQARjbjvUGNp) | 5:09 | 2025-01-04 | 2026-05-02 |
 | [Hair Salon \(with Cozz feat\. G Perico & Reason\)](https://open.spotify.com/track/7eheBzQNeMd0ZxU3HoXltE) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [Cozz](https://open.spotify.com/artist/5oFkj1qSlyBUmV5d6Edgtq), [G Perico](https://open.spotify.com/artist/4Q2hTDZYFCohf17D5GvkIb), [REASON](https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o) | [D\-Day: A Gangsta Grillz Mixtape](https://open.spotify.com/album/3tFjhFPqGhhLrCULnPu7Wy) | 3:13 | 2025-01-03 |  |
 | [Hairdryer](https://open.spotify.com/track/3Pcc8lL4JEXtKvyCfh3bsB) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [?depacse ohw](https://open.spotify.com/album/0srUbfZOMUBwUitQGQeUca) | 3:04 | 2025-04-19 |  |
 | [Hakushin's Lullaby](https://open.spotify.com/track/0FVFRx0dv4xfBHp5VRkt5m) | [Yu\-Peng Chen](https://open.spotify.com/artist/6CY7WNJfd5uZclcS3WeEjx), [HOYO\-MiX](https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg) | [Genshin Impact \- Realm of Tranquil Eternity \(Original Game Soundtrack\)](https://open.spotify.com/album/2S4UIiVgsFwV2e1vElIMjq) | 2:08 | 2025-11-29 |  |
@@ -7227,7 +7228,7 @@
 | [Why Sky is](https://open.spotify.com/track/5fLRJ4cPKyNIfHGuLw8K8x) | [Lee Ji Hoon](https://open.spotify.com/artist/01mxKVvfRfQ4mL1ddf6Lrb) | [Rhythm Paradise](https://open.spotify.com/album/2ToZOOpZgu1lx2wcjUtfmS) | 4:35 | 2025-01-03 |  |
 | [Why You Wanna Treat Me So Bad?](https://open.spotify.com/track/0zTQgz6eXA2vxrj8Z9TXNx) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Prince](https://open.spotify.com/album/0j711DtV8bOSMZRCbphtPC) | 3:50 | 2025-01-15 |  |
 | [Wi Ing Wi Ing](https://open.spotify.com/track/66UcQu5LBo2A7AC0A5r0lI) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [20](https://open.spotify.com/album/6bzkEKKOMT3I3jaIrUtEaO) | 3:14 | 2025-03-24 |  |
-| [Wick Man](https://open.spotify.com/track/4ASBfwBwwo7DTT2zq9YSLP) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [For All The Dogs Scary Hours Edition](https://open.spotify.com/album/4Q7cRXio6mF2ImVUCcezPO) | 3:01 | 2025-01-03 |  |
+| [Wick Man](https://open.spotify.com/track/4ASBfwBwwo7DTT2zq9YSLP) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [For All The Dogs Scary Hours Edition](https://open.spotify.com/album/4Q7cRXio6mF2ImVUCcezPO) | 3:01 | 2025-01-03 | 2026-05-02 |
 | [Wicked](https://open.spotify.com/track/6BbINUfGabVyiNFJpQXn3x) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [EVOL](https://open.spotify.com/album/3jJKDKdlwRS584zUlHV2Ly) | 2:53 | 2025-01-03 |  |
 | [Wicked Games](https://open.spotify.com/track/6VwBbL8CzPiC4QV66ay7oR) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Trilogy](https://open.spotify.com/album/5EbpxRwbbpCJUepbqVTZ1U) | 5:23 | 2025-01-15 |  |
 | [Wicked Games](https://open.spotify.com/track/00aqkszH1FdUiJJWvX6iEl) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [House Of Balloons \(Original\)](https://open.spotify.com/album/7zCODUHkfuRxsUjtuzNqbd) | 5:25 | 2025-01-15 |  |
@@ -8217,6 +8218,7 @@
 | [逆さまの蝶](https://open.spotify.com/track/0kAnEtoVEwx2jT3nGMJaSh) | [SNoW](https://open.spotify.com/artist/6xmxPrejTuDCgGzgLNp9sp) | [逆さまの蝶](https://open.spotify.com/album/2V3v3cBdaBWP9o96W03mei) | 4:33 | 2025-01-15 |  |
 | [逆夢](https://open.spotify.com/track/6ZiEWet0uFRwWBCEKCQ8rY) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [逆夢](https://open.spotify.com/album/4ViuBpPF350uPP6bVoDmQ2) | 5:07 | 2025-01-03 |  |
 | [逆転スペクトル](https://open.spotify.com/track/1PqikIjOpCZ3X3mtWouKjy) | [yanaginagi](https://open.spotify.com/artist/15MlyDyZofFYpLb5MrLKVo) | [ポリオミノ](https://open.spotify.com/album/35ijDKtupCmE4RDQlukKet) | 4:54 | 2025-01-15 |  |
+| [逆転裁判・開廷](https://open.spotify.com/track/2zUohndREVlL7heWLMXuMo) | [Masakazu Sugimori](https://open.spotify.com/artist/6bE2VRSPWx2v3l25ZNSmLq) | [逆転裁判 蘇る逆転 オリジナル・サウンドトラック](https://open.spotify.com/album/5Db8h9SP9VRMpcigzbnXSS) | 1:48 | 2026-05-02 |  |
 | [通り恋](https://open.spotify.com/track/72lrebaqFNOZt8GMS32gvZ) | [indigo la End](https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU) | [濡れゆく私小説](https://open.spotify.com/album/7fWU9HyW6Ukh8ajJNJAuOI) | 3:55 | 2025-01-03 |  |
 | [金木犀 \(feat\. 小豆沢こはね&白石杏&東雲彰人&青柳冬弥&鏡音レン\)](https://open.spotify.com/track/45NEwW3OoBymHXoL6CNwxn) | [Vivid BAD SQUAD](https://open.spotify.com/artist/6mEgpqXA4yzhhncW4cBHlh) | [Vivid BAD SQUAD SEKAI ALBUM vol.3](https://open.spotify.com/album/3TZPSylPSelxKLmxRlLYmb) | 2:19 | 2025-12-08 |  |
 | [金木犀の夜](https://open.spotify.com/track/27udJcfu06TvbbOpgfxIlw) | [Kinokoteikoku](https://open.spotify.com/artist/61H9d7hbIfFNxJJQmIL9AJ) | [タイム・ラプス](https://open.spotify.com/album/3g010J7Tee9KgJEjzBb2TX) | 4:05 | 2025-01-03 |  |

@@ -1,15 +1,15 @@
 {
   "description": "the party is where u.r.",
-  "num_followers": 499870,
+  "num_followers": 499952,
   "original_name": "hyperpop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAClbFVm0kxoLVvR1grywP5oN/mOz",
+  "snapshot_id": "AAAAAKArznGIHSz80RrhJAmvIFTZDTOg",
   "tracks": [
     {
-      "added_at": "2026-04-24 04:26:21",
+      "added_at": "2026-04-24 14:28:02",
       "album": {
         "name": "the party is where u.r.",
         "url": "https://open.spotify.com/album/38eEn74m041DEzCWT3eTDf"
@@ -20,13 +20,13 @@
           "url": "https://open.spotify.com/artist/5bGQtNvk4LrSUTZGzBiZq5"
         },
         {
-          "name": "Petit",
-          "url": "https://open.spotify.com/artist/6oRiu0bfsqGiMV63TDJV2h"
+          "name": "BEA1991",
+          "url": "https://open.spotify.com/artist/6F93aFbWjhUtjRKXYmtr1Z"
         }
       ],
-      "duration_ms": 241148,
-      "name": "no alternative",
-      "url": "https://open.spotify.com/track/7BS39Y3RRp4PJRr53Xdk0q"
+      "duration_ms": 195428,
+      "name": "mind be so numb",
+      "url": "https://open.spotify.com/track/77or3GdYRr8n0Vzmupf02n"
     },
     {
       "added_at": "2026-03-27 04:00:20",
@@ -43,6 +43,78 @@
       "duration_ms": 224661,
       "name": "SAME LA",
       "url": "https://open.spotify.com/track/6dycPSQglCA4tZEU2UdLf8"
+    },
+    {
+      "added_at": "2026-04-24 04:02:28",
+      "album": {
+        "name": "Need For Speed",
+        "url": "https://open.spotify.com/album/6SBOaYOprgqWNIMA5vN22n"
+      },
+      "artists": [
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "duration_ms": 195154,
+      "name": "Need For Speed",
+      "url": "https://open.spotify.com/track/1b104gnwd0zxCIhZPNLyf8"
+    },
+    {
+      "added_at": "2026-05-01 04:02:14",
+      "album": {
+        "name": "how to be content :",
+        "url": "https://open.spotify.com/album/1gi8EM8ivbw0TdU9vw5hab"
+      },
+      "artists": [
+        {
+          "name": "Intentions",
+          "url": "https://open.spotify.com/artist/0Naa1nD2BZ3Rvjj73sYyxR"
+        },
+        {
+          "name": "halide",
+          "url": "https://open.spotify.com/artist/17H5uNmdHlEpKe5Hg38m7J"
+        }
+      ],
+      "duration_ms": 294593,
+      "name": "how to be content :",
+      "url": "https://open.spotify.com/track/1UzjeYE8X7fTgWAofd00sX"
+    },
+    {
+      "added_at": "2026-04-24 04:02:28",
+      "album": {
+        "name": "The Troubles",
+        "url": "https://open.spotify.com/album/6xXCPQaky7QKVnJea96Nl1"
+      },
+      "artists": [
+        {
+          "name": "glaive",
+          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
+        },
+        {
+          "name": "kurtains",
+          "url": "https://open.spotify.com/artist/7b2FbxYmnpGMPqDe04QmyP"
+        }
+      ],
+      "duration_ms": 116619,
+      "name": "The Troubles",
+      "url": "https://open.spotify.com/track/7tqpFCQNkitXkddXaPHYwc"
+    },
+    {
+      "added_at": "2026-03-27 04:00:20",
+      "album": {
+        "name": "Bad Love",
+        "url": "https://open.spotify.com/album/0XOXWwZShooU7jQqST7rFB"
+      },
+      "artists": [
+        {
+          "name": "Namasenda",
+          "url": "https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX"
+        }
+      ],
+      "duration_ms": 163506,
+      "name": "Bad Love",
+      "url": "https://open.spotify.com/track/6INyqCPYlGF06UD2sf9MdU"
     },
     {
       "added_at": "2026-03-27 04:00:20",
@@ -93,6 +165,42 @@
       "url": "https://open.spotify.com/track/0iX9RT9NmaeX9yEflLXTzc"
     },
     {
+      "added_at": "2026-04-24 04:02:28",
+      "album": {
+        "name": "wakeup(crazy) [feat. Angst]",
+        "url": "https://open.spotify.com/album/7lm1i1YAKTD4La9WRkGXak"
+      },
+      "artists": [
+        {
+          "name": "Juelz",
+          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
+        },
+        {
+          "name": "Angst",
+          "url": "https://open.spotify.com/artist/1nFcEfO5iLptFlrBCiDztw"
+        }
+      ],
+      "duration_ms": 195517,
+      "name": "wakeup(crazy) [feat. Angst]",
+      "url": "https://open.spotify.com/track/3IR1kOzcLjPbSipZyp1o30"
+    },
+    {
+      "added_at": "2026-04-10 04:02:39",
+      "album": {
+        "name": "Bounce",
+        "url": "https://open.spotify.com/album/2h9BYQl9c0oxsxwkvh5OIl"
+      },
+      "artists": [
+        {
+          "name": "Tommy Fleece",
+          "url": "https://open.spotify.com/artist/4vv1Y8dwByLcOJ8Wdsxrfg"
+        }
+      ],
+      "duration_ms": 120705,
+      "name": "Bounce",
+      "url": "https://open.spotify.com/track/5HVJP7mmAjZ5NyMpA6nSas"
+    },
+    {
       "added_at": "2026-04-10 04:02:39",
       "album": {
         "name": "ELECTRIC (Olswel Remix)",
@@ -113,22 +221,6 @@
       "url": "https://open.spotify.com/track/4w77ahaIzhDDF26LDsxsQ2"
     },
     {
-      "added_at": "2026-04-24 04:02:28",
-      "album": {
-        "name": "Need For Speed",
-        "url": "https://open.spotify.com/album/6SBOaYOprgqWNIMA5vN22n"
-      },
-      "artists": [
-        {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
-        }
-      ],
-      "duration_ms": 195154,
-      "name": "Need For Speed",
-      "url": "https://open.spotify.com/track/1b104gnwd0zxCIhZPNLyf8"
-    },
-    {
       "added_at": "2026-03-27 04:00:20",
       "album": {
         "name": "U",
@@ -145,23 +237,7 @@
       "url": "https://open.spotify.com/track/3TpzJRU45jUPloLx6LKWcj"
     },
     {
-      "added_at": "2026-03-27 04:00:20",
-      "album": {
-        "name": "Bad Love",
-        "url": "https://open.spotify.com/album/0XOXWwZShooU7jQqST7rFB"
-      },
-      "artists": [
-        {
-          "name": "Namasenda",
-          "url": "https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX"
-        }
-      ],
-      "duration_ms": 163506,
-      "name": "Bad Love",
-      "url": "https://open.spotify.com/track/6INyqCPYlGF06UD2sf9MdU"
-    },
-    {
-      "added_at": "2026-04-24 14:28:02",
+      "added_at": "2026-04-24 04:26:21",
       "album": {
         "name": "the party is where u.r.",
         "url": "https://open.spotify.com/album/38eEn74m041DEzCWT3eTDf"
@@ -172,49 +248,29 @@
           "url": "https://open.spotify.com/artist/5bGQtNvk4LrSUTZGzBiZq5"
         },
         {
-          "name": "BEA1991",
-          "url": "https://open.spotify.com/artist/6F93aFbWjhUtjRKXYmtr1Z"
+          "name": "Petit",
+          "url": "https://open.spotify.com/artist/6oRiu0bfsqGiMV63TDJV2h"
         }
       ],
-      "duration_ms": 195428,
-      "name": "mind be so numb",
-      "url": "https://open.spotify.com/track/77or3GdYRr8n0Vzmupf02n"
+      "duration_ms": 241148,
+      "name": "no alternative",
+      "url": "https://open.spotify.com/track/7BS39Y3RRp4PJRr53Xdk0q"
     },
     {
-      "added_at": "2026-04-10 04:02:39",
+      "added_at": "2026-05-01 04:02:14",
       "album": {
-        "name": "Bounce",
-        "url": "https://open.spotify.com/album/2h9BYQl9c0oxsxwkvh5OIl"
+        "name": "24/7",
+        "url": "https://open.spotify.com/album/0JuwhEZwLWHXKznuby5moE"
       },
       "artists": [
         {
-          "name": "Tommy Fleece",
-          "url": "https://open.spotify.com/artist/4vv1Y8dwByLcOJ8Wdsxrfg"
+          "name": "Sam Short",
+          "url": "https://open.spotify.com/artist/0lhNnj2stuzFCs8ihzu0mz"
         }
       ],
-      "duration_ms": 120705,
-      "name": "Bounce",
-      "url": "https://open.spotify.com/track/5HVJP7mmAjZ5NyMpA6nSas"
-    },
-    {
-      "added_at": "2026-04-24 04:02:28",
-      "album": {
-        "name": "The Troubles",
-        "url": "https://open.spotify.com/album/6xXCPQaky7QKVnJea96Nl1"
-      },
-      "artists": [
-        {
-          "name": "glaive",
-          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
-        },
-        {
-          "name": "kurtains",
-          "url": "https://open.spotify.com/artist/7b2FbxYmnpGMPqDe04QmyP"
-        }
-      ],
-      "duration_ms": 116619,
-      "name": "The Troubles",
-      "url": "https://open.spotify.com/track/7tqpFCQNkitXkddXaPHYwc"
+      "duration_ms": 133941,
+      "name": "24/7",
+      "url": "https://open.spotify.com/track/3XJseRquEY7iBYLSvDIl5Q"
     },
     {
       "added_at": "2026-03-27 04:00:20",
@@ -265,24 +321,20 @@
       "url": "https://open.spotify.com/track/1xQMe8qRq31Sklgh9CukHd"
     },
     {
-      "added_at": "2026-04-24 04:02:28",
+      "added_at": "2026-05-01 04:02:14",
       "album": {
-        "name": "wakeup(crazy) [feat. Angst]",
-        "url": "https://open.spotify.com/album/7lm1i1YAKTD4La9WRkGXak"
+        "name": "SKYLINE",
+        "url": "https://open.spotify.com/album/1sA1OSqtWxiEtKHsuBWcnh"
       },
       "artists": [
         {
-          "name": "Juelz",
-          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
-        },
-        {
-          "name": "Angst",
-          "url": "https://open.spotify.com/artist/1nFcEfO5iLptFlrBCiDztw"
+          "name": "vi0let",
+          "url": "https://open.spotify.com/artist/3ZzSaEjPW9zwhYfvId1l0Q"
         }
       ],
-      "duration_ms": 195517,
-      "name": "wakeup(crazy) [feat. Angst]",
-      "url": "https://open.spotify.com/track/3IR1kOzcLjPbSipZyp1o30"
+      "duration_ms": 179176,
+      "name": "SKYLINE",
+      "url": "https://open.spotify.com/track/05Ce3PPdmyJR7HjdzMpSMn"
     },
     {
       "added_at": "2026-04-03 17:24:19",
@@ -399,6 +451,26 @@
       "duration_ms": 127843,
       "name": "Heels broke = died",
       "url": "https://open.spotify.com/track/1nVg0Xk8QSIQZQHuHRrTaU"
+    },
+    {
+      "added_at": "2026-05-01 04:02:14",
+      "album": {
+        "name": "BADBOYS",
+        "url": "https://open.spotify.com/album/1iuzMKM1q5ENMjwdEwvzL5"
+      },
+      "artists": [
+        {
+          "name": "Zorza",
+          "url": "https://open.spotify.com/artist/3aAo0qwTvgRwURTzzQ3frr"
+        },
+        {
+          "name": "Promis3",
+          "url": "https://open.spotify.com/artist/67klEFn7sTV209voBTSZB8"
+        }
+      ],
+      "duration_ms": 185678,
+      "name": "BADBOYS",
+      "url": "https://open.spotify.com/track/6gE0hWifnVfErc3XdJAbSk"
     },
     {
       "added_at": "2026-03-27 04:00:20",
@@ -599,22 +671,6 @@
       "duration_ms": 147692,
       "name": "walk you home",
       "url": "https://open.spotify.com/track/1MjBG4QNBd6L1MRhivTNw2"
-    },
-    {
-      "added_at": "2026-04-03 17:24:19",
-      "album": {
-        "name": "let you go",
-        "url": "https://open.spotify.com/album/0Bc94zjMjJv16Fc4cy0ks1"
-      },
-      "artists": [
-        {
-          "name": "fyl",
-          "url": "https://open.spotify.com/artist/40VJ0ejUdeu8sKeW6cR38T"
-        }
-      ],
-      "duration_ms": 165790,
-      "name": "let you go",
-      "url": "https://open.spotify.com/track/7scbOLfXpWNXjuSzNecZ9K"
     },
     {
       "added_at": "2026-03-27 04:00:20",
@@ -883,22 +939,6 @@
     {
       "added_at": "2026-03-27 04:00:20",
       "album": {
-        "name": "Coalesce",
-        "url": "https://open.spotify.com/album/1FfsPl5gTyviERVIuBUvlT"
-      },
-      "artists": [
-        {
-          "name": "heffy",
-          "url": "https://open.spotify.com/artist/00YJFmTkMloy3dYPLExyRr"
-        }
-      ],
-      "duration_ms": 191428,
-      "name": "Coalesce",
-      "url": "https://open.spotify.com/track/38YqVXNfWVssWOVfklkOhW"
-    },
-    {
-      "added_at": "2026-03-27 04:00:20",
-      "album": {
         "name": "YUM-ME (Big Softy Remix)",
         "url": "https://open.spotify.com/album/5givvfq7JorHlh6vIffJjK"
       },
@@ -1011,22 +1051,6 @@
       "duration_ms": 211500,
       "name": "It's You - underscores' \"It\u2019s U\" Remix",
       "url": "https://open.spotify.com/track/3YQoG8Ey0eYsLS9yAmeHK1"
-    },
-    {
-      "added_at": "2026-03-27 04:00:20",
-      "album": {
-        "name": "Get Used To Me",
-        "url": "https://open.spotify.com/album/7wVujmQw1lbNN2uqq1HobP"
-      },
-      "artists": [
-        {
-          "name": "Sorisa",
-          "url": "https://open.spotify.com/artist/5aHJ7mcBAI9x0Hv28IzNV8"
-        }
-      ],
-      "duration_ms": 201919,
-      "name": "Get Used To Me",
-      "url": "https://open.spotify.com/track/5r8yYNy65zjzKVHLbXm04j"
     },
     {
       "added_at": "2026-03-27 04:00:20",
@@ -1159,22 +1183,6 @@
       "duration_ms": 126468,
       "name": "SEE SEE WHERE WE GO",
       "url": "https://open.spotify.com/track/4JFjab7UnaNLkr5JLyR7nc"
-    },
-    {
-      "added_at": "2026-03-27 04:00:20",
-      "album": {
-        "name": "THESE CORPORATE BITCHES TRYNA KILL ME!!!",
-        "url": "https://open.spotify.com/album/6ZpNl0ucqdp0rRFn3AZdYq"
-      },
-      "artists": [
-        {
-          "name": "Sorana",
-          "url": "https://open.spotify.com/artist/1PnnRNGfichOAfPOn5mVyx"
-        }
-      ],
-      "duration_ms": 159187,
-      "name": "THESE CORPORATE BITCHES TRYNA KILL ME!!!",
-      "url": "https://open.spotify.com/track/5WX0xRJtM4Hyt1HQGx2sgU"
     },
     {
       "added_at": "2026-03-27 04:00:20",
@@ -1399,22 +1407,6 @@
       "duration_ms": 167441,
       "name": "27a Pitfield St",
       "url": "https://open.spotify.com/track/53uhTsdGotEgrDAJydRSov"
-    },
-    {
-      "added_at": "2026-03-27 04:00:20",
-      "album": {
-        "name": "\\(\u314e\u3161\u314e\u201d)",
-        "url": "https://open.spotify.com/album/0yQmOwFpUWFUopM3jsjzGr"
-      },
-      "artists": [
-        {
-          "name": "kimj",
-          "url": "https://open.spotify.com/artist/2DwWHe8gOHsUzMn1saNYjw"
-        }
-      ],
-      "duration_ms": 154153,
-      "name": "Mother of Hard (Y U Got Myy SWAG ON)",
-      "url": "https://open.spotify.com/track/4sTv0cQg3bimCXGiEEn8hW"
     },
     {
       "added_at": "2026-03-27 04:00:20",

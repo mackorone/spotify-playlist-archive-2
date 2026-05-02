@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Argentina.
 
-2,335 songs - 5 day 3 hr 54 min
+2,336 songs - 5 day 3 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -343,7 +343,7 @@
 | [Casi Extraños](https://open.spotify.com/track/7naPTVNgsAApx8BflqUd7m) | [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G) | [Casi Extraños](https://open.spotify.com/album/5WXpA7EHSaSDjOWg45CetC) | 3:47 | 2025-02-14 | 2025-03-12 |
 | [Casual](https://open.spotify.com/track/3WSOUb3U7tqURbBSgZTrZX) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:52 | 2024-06-30 | 2024-07-17 |
 | [Catch Catch](https://open.spotify.com/track/2O9bMJticxbQ8FH3NiQ7Xh) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) | [LOVE CATCHER](https://open.spotify.com/album/1IxQnpYIIFY9F2IVVsD27F) | 3:00 | 2026-04-01 | 2026-04-27 |
-| [Catch Catch \(Chinese Ver.\)](https://open.spotify.com/track/29rzWFatC5WwBw2YypQEzC) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) | [Catch Catch \(Chinese Ver.\)](https://open.spotify.com/album/1AI7g5WoesGtM3c5BROUoQ) | 3:00 | 2026-04-26 |  |
+| [Catch Catch \(Chinese Ver.\)](https://open.spotify.com/track/29rzWFatC5WwBw2YypQEzC) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) | [Catch Catch \(Chinese Ver.\)](https://open.spotify.com/album/1AI7g5WoesGtM3c5BROUoQ) | 3:00 | 2026-04-26 | 2026-05-02 |
 | [CATFISH](https://open.spotify.com/track/3QQvSQKV8YmQxGolwwWe59) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal](https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc) | 2:14 | 2025-02-07 | 2025-02-20 |
 | [Celine \(with Kidd Keo\)](https://open.spotify.com/track/5ER5Fr1Cv7N3chJhAapt66) | [Ghost Killer Track](https://open.spotify.com/artist/37S0GFsBW73uqxGXNFeADJ), [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km) | [Celine \(with Kidd Keo\)](https://open.spotify.com/album/4Uew91PetBzYYnSg83m3HT) | 2:56 | 2024-10-07 | 2024-10-15 |
 | [CEREMONY](https://open.spotify.com/track/62xU1NllqWBCbkZFTXEqzF) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [KARMA](https://open.spotify.com/album/3wqskwruUGJHC4yHbo7nxc) | 2:44 | 2025-09-10 | 2025-09-17 |
@@ -2198,6 +2198,7 @@
 | [Vaquero](https://open.spotify.com/track/2ooKgNKvmTKxqkQUdyX7Mz) | [La Dinastia](https://open.spotify.com/artist/4HUY0hELnxz4RC6VvJzRyc), [Andres Castillo](https://open.spotify.com/artist/6swtbYCVvjJIjCb5MWaIT2) | [100 % Mexicano](https://open.spotify.com/album/1mlBiMy6nLtiqMsFdjD73K) | 4:05 | 2024-02-03 | 2024-02-25 |
 | [Vas a Quedarte](https://open.spotify.com/track/5OMeVljlJ5H6vX4v6ArGLb) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh), [Manuel Carrasco](https://open.spotify.com/artist/7qAoXV4U0qDxQAUqhszjAA) | [Mi Norte & Mi Sur](https://open.spotify.com/album/051zeHA45MBAZR0iqp1gyB) | 3:19 | 2025-12-02 | 2025-12-15 |
 | [VeLDÁ](https://open.spotify.com/track/7d6yK8v8J484SWH5prIQiE) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:55 | 2025-01-21 | 2025-02-12 |
+| [VELOCIDADE](https://open.spotify.com/track/3J8uUvHttFs8zlYxoiPVe3) | [SANTOS BRAVOS](https://open.spotify.com/artist/24Vjp1gvnNuNSWJ0vFMZ6G) | [DUAL](https://open.spotify.com/album/5y3kJTo3x5PBOK6aJSKWMD) | 2:13 | 2026-05-01 |  |
 | [Vem Novinha pro Cafofo](https://open.spotify.com/track/2XB2Mq2J3695WoYrIOljUZ) | [Trovão no Beat](https://open.spotify.com/artist/6kS3lGSFbGHJbvsnD4MRl1), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [Vem Novinha pro Cafofo](https://open.spotify.com/album/3jQam6Zyvx5hR1HRllI4vm) | 2:38 | 2025-03-08 | 2025-04-07 |
 | [Vem Vem](https://open.spotify.com/track/2FnkrCrbXJuebXxnVtXiHI) | [Jmilton](https://open.spotify.com/artist/2q5vFLZus8uaVSzmIwH4Tz), [MC Xangai](https://open.spotify.com/artist/67PBOFpTBFaNkhz5IouBwi) | [Vem Vem](https://open.spotify.com/album/5fvUS8yHMCkTZj4sJ0FHDV) | 1:23 | 2025-06-17 | 2025-07-25 |
 | [Vem Vem \- Super Slowed](https://open.spotify.com/track/7mQIech9npezF8pBoHpCi3) | [Jmilton](https://open.spotify.com/artist/2q5vFLZus8uaVSzmIwH4Tz), [MC Xangai](https://open.spotify.com/artist/67PBOFpTBFaNkhz5IouBwi) | [Vem Vem](https://open.spotify.com/album/5fvUS8yHMCkTZj4sJ0FHDV) | 1:44 | 2025-06-23 | 2025-07-02 |

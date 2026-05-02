@@ -1,6 +1,6 @@
 {
   "description": "Get the chill vibes going and flowing \u2728 Las vibras tranqui que ocupas en tu vida.",
-  "num_followers": 897336,
+  "num_followers": 897320,
   "original_name": "chill latino",
   "owner": {
     "name": "Spotify",
@@ -639,26 +639,6 @@
     {
       "added_at": "2026-03-27 04:00:22",
       "album": {
-        "name": "Astra",
-        "url": "https://open.spotify.com/album/4OAUrKQYGBtbThIVRIAVQx"
-      },
-      "artists": [
-        {
-          "name": "Mit\u00fa",
-          "url": "https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k"
-        },
-        {
-          "name": "Loyal Lobos",
-          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
-        }
-      ],
-      "duration_ms": 313198,
-      "name": "Sin Freno",
-      "url": "https://open.spotify.com/track/24drvQN3WTdQE2wzR37GAb"
-    },
-    {
-      "added_at": "2026-03-27 04:00:22",
-      "album": {
         "name": "cuarto pa' las doce",
         "url": "https://open.spotify.com/album/2ReN9ssYYTNOW3irKf5XB1"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 144255,
       "name": "cuarto pa' las doce",
       "url": "https://open.spotify.com/track/7ueobUrOSSrdjS8Jdjx5rx"
+    },
+    {
+      "added_at": "2026-03-27 04:00:22",
+      "album": {
+        "name": "Astra",
+        "url": "https://open.spotify.com/album/4OAUrKQYGBtbThIVRIAVQx"
+      },
+      "artists": [
+        {
+          "name": "Mit\u00fa",
+          "url": "https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k"
+        },
+        {
+          "name": "Loyal Lobos",
+          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
+        }
+      ],
+      "duration_ms": 313198,
+      "name": "Sin Freno",
+      "url": "https://open.spotify.com/track/24drvQN3WTdQE2wzR37GAb"
     },
     {
       "added_at": "2026-03-27 04:00:22",
@@ -975,22 +975,6 @@
     {
       "added_at": "2026-03-27 04:00:22",
       "album": {
-        "name": "m\u00fasica para una pel\u00edcula que no existe",
-        "url": "https://open.spotify.com/album/3h972ADORDAR4Dptn2koMd"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        }
-      ],
-      "duration_ms": 214292,
-      "name": "jap\u00f3n",
-      "url": "https://open.spotify.com/track/2diEP69UZV3N8vuRiLyHvR"
-    },
-    {
-      "added_at": "2026-03-27 04:00:22",
-      "album": {
         "name": "Hoy",
         "url": "https://open.spotify.com/album/5rHEepmaS9qXal1O1uLfrz"
       },
@@ -1007,22 +991,18 @@
     {
       "added_at": "2026-03-27 04:00:22",
       "album": {
-        "name": "MACARRONES CON QUESO",
-        "url": "https://open.spotify.com/album/1AWJf0i44FZsMwVC1hy6d7"
+        "name": "m\u00fasica para una pel\u00edcula que no existe",
+        "url": "https://open.spotify.com/album/3h972ADORDAR4Dptn2koMd"
       },
       "artists": [
         {
-          "name": "BORJA",
-          "url": "https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw"
-        },
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
         }
       ],
-      "duration_ms": 147400,
-      "name": "MACARRONES CON QUESO",
-      "url": "https://open.spotify.com/track/5wI6KisgI3ZaFdbIzTxSjs"
+      "duration_ms": 214292,
+      "name": "jap\u00f3n",
+      "url": "https://open.spotify.com/track/2diEP69UZV3N8vuRiLyHvR"
     },
     {
       "added_at": "2026-03-27 04:00:22",
@@ -1075,6 +1055,26 @@
       "duration_ms": 191671,
       "name": "Pastelitos De Guayaba",
       "url": "https://open.spotify.com/track/11gz6Jgn8aAOmAmBnnIqYF"
+    },
+    {
+      "added_at": "2026-03-27 04:00:22",
+      "album": {
+        "name": "MACARRONES CON QUESO",
+        "url": "https://open.spotify.com/album/1AWJf0i44FZsMwVC1hy6d7"
+      },
+      "artists": [
+        {
+          "name": "BORJA",
+          "url": "https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw"
+        },
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "duration_ms": 147400,
+      "name": "MACARRONES CON QUESO",
+      "url": "https://open.spotify.com/track/5wI6KisgI3ZaFdbIzTxSjs"
     },
     {
       "added_at": "2026-03-27 04:00:22",
@@ -1411,26 +1411,6 @@
     {
       "added_at": "2026-03-27 04:00:22",
       "album": {
-        "name": "D\u00e9jame Decir Te Quiero",
-        "url": "https://open.spotify.com/album/3BxYz7JYPTS8LIIWkTvdhF"
-      },
-      "artists": [
-        {
-          "name": "David Velasco",
-          "url": "https://open.spotify.com/artist/2lrPjlojnpUIuxFpGg7lAL"
-        },
-        {
-          "name": "Dromedarios M\u00e1gicos",
-          "url": "https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9"
-        }
-      ],
-      "duration_ms": 185610,
-      "name": "D\u00e9jame Decir Te Quiero",
-      "url": "https://open.spotify.com/track/3ZUtWP2fCW6WptxdsbaOTi"
-    },
-    {
-      "added_at": "2026-03-27 04:00:22",
-      "album": {
         "name": "WADGYMAR",
         "url": "https://open.spotify.com/album/5DT4QkZPyAjo5s2f1Rtz4p"
       },
@@ -1447,6 +1427,26 @@
       "duration_ms": 139833,
       "name": "WADGYMAR",
       "url": "https://open.spotify.com/track/5EckFDDZ79K3PbEJBeVyLX"
+    },
+    {
+      "added_at": "2026-03-27 04:00:22",
+      "album": {
+        "name": "D\u00e9jame Decir Te Quiero",
+        "url": "https://open.spotify.com/album/3BxYz7JYPTS8LIIWkTvdhF"
+      },
+      "artists": [
+        {
+          "name": "David Velasco",
+          "url": "https://open.spotify.com/artist/2lrPjlojnpUIuxFpGg7lAL"
+        },
+        {
+          "name": "Dromedarios M\u00e1gicos",
+          "url": "https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9"
+        }
+      ],
+      "duration_ms": 185610,
+      "name": "D\u00e9jame Decir Te Quiero",
+      "url": "https://open.spotify.com/track/3ZUtWP2fCW6WptxdsbaOTi"
     },
     {
       "added_at": "2026-03-27 04:00:22",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2026-03-27 04:00:22",
       "album": {
-        "name": "robusta",
-        "url": "https://open.spotify.com/album/04UNh2Lb7c5RYDcQMEe7dP"
-      },
-      "artists": [
-        {
-          "name": "iced latte",
-          "url": "https://open.spotify.com/artist/5WT2j29ajCAxsK10dqksg2"
-        }
-      ],
-      "duration_ms": 138757,
-      "name": "robusta",
-      "url": "https://open.spotify.com/track/22B3ckVP0ELBQUdAhHySEe"
-    },
-    {
-      "added_at": "2026-03-27 04:00:22",
-      "album": {
         "name": "Indirecta",
         "url": "https://open.spotify.com/album/7bDYJcet4ezQInDdEUTe4o"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 200727,
       "name": "Indirecta",
       "url": "https://open.spotify.com/track/3LHFIfINcMHX7LmiaI9mn3"
+    },
+    {
+      "added_at": "2026-03-27 04:00:22",
+      "album": {
+        "name": "robusta",
+        "url": "https://open.spotify.com/album/04UNh2Lb7c5RYDcQMEe7dP"
+      },
+      "artists": [
+        {
+          "name": "iced latte",
+          "url": "https://open.spotify.com/artist/5WT2j29ajCAxsK10dqksg2"
+        }
+      ],
+      "duration_ms": 138757,
+      "name": "robusta",
+      "url": "https://open.spotify.com/track/22B3ckVP0ELBQUdAhHySEe"
     },
     {
       "added_at": "2026-03-27 04:00:22",

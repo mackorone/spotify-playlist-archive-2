@@ -4,7 +4,7 @@
 
 > Uutta musaa tarjoilevat Olavi Uusivirta, Madonna ja Sabrina Carpenter, KAJ..\. ja moni muu  🎶
 
-10,913 songs - 24 day 1 hr 44 min
+10,914 songs - 24 day 1 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2019,7 +2019,7 @@
 | [Don't Wait For Summer](https://open.spotify.com/track/62AWMWX41acCZ259kuU1Hr) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ) | [Away From This Dream](https://open.spotify.com/album/5bKVm5ADPdEAnwaSqh5Uwv) | 3:11 | 2024-06-06 | 2024-06-14 |
 | [Don't Want Your Love](https://open.spotify.com/track/0ddLd0n19FHwawkSmhXwgg) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [ODYSSEY](https://open.spotify.com/album/1Y2uYmUgox5SpSMHXu8iPC) | 3:12 | 2026-02-05 | 2026-02-13 |
 | [Don't Worry](https://open.spotify.com/track/57byShO7NhqiVlRLvmbPyM) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Don't Worry](https://open.spotify.com/album/0OmxbEqS8d7KT9lEOVAHrK) | 2:19 | 2025-10-16 | 2025-10-24 |
-| [Don't Worry Baby](https://open.spotify.com/track/0uFffwji3muqn5MEe7hiYw) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Tiga](https://open.spotify.com/artist/6dfbRE1slg9q6xXbMiB9Rn) | [Don't Worry Baby](https://open.spotify.com/album/1F3Ph8gHm2aCnMJbNvmo5f) | 3:27 | 2026-04-30 |  |
+| [Don't Worry Baby](https://open.spotify.com/track/0uFffwji3muqn5MEe7hiYw) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC) | [Don't Worry Baby](https://open.spotify.com/album/1F3Ph8gHm2aCnMJbNvmo5f) | 3:27 | 2026-04-30 |  |
 | [Don't you cry](https://open.spotify.com/track/4iUuDqnM4m2MonI8Gkh333) | [MICO](https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG), [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB) | [Internet hometown hero \(+DLC\)](https://open.spotify.com/album/5ToWb2TDTU64ET2iAH1gIH) | 2:57 | 2025-05-01 | 2025-05-09 |
 | [Don't you say I didn't warn you](https://open.spotify.com/track/6aKMgFfuDfGrTRZ8Mp2T2n) | [Cyan Kicks](https://open.spotify.com/artist/6nA097TpH4DgdzRYFXAXry) | [Don't you say I didn't warn you](https://open.spotify.com/album/28wJZ8CEiYBeuLxXC74Hrg) | 3:12 | 2024-09-05 | 2024-09-13 |
 | [DON'T!](https://open.spotify.com/track/6oIW5g7RHZtok3cjF2nePu) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [DON'T!](https://open.spotify.com/album/0ybgOat40TvYvG3iLc2O20) | 2:38 | 2024-10-17 | 2024-10-25 |
@@ -6171,6 +6171,7 @@
 | [Mulle riittää yks](https://open.spotify.com/track/1uo81rXi7lKlT9dI7ZeSyz) | [Asa](https://open.spotify.com/artist/0rHtbK2pK4r67coo9EsT7D) | [Mulle riittää yks](https://open.spotify.com/album/3b3VdVgdMxspknuFuXJLR3) | 3:31 | 2024-12-12 | 2024-12-20 |
 | [Multicolor](https://open.spotify.com/track/5OWI9J06tPRpg1IpEBKy98) | [Yael Naim](https://open.spotify.com/artist/32aFdXARUiqP81SXqIPD4w) | [Multicolor](https://open.spotify.com/album/2Ww9xmOzbhV8JeA9RirgXT) | 2:58 | 2025-11-13 | 2025-11-21 |
 | [Multiply](https://open.spotify.com/track/0d8qNWRwQafcOXAyw6FxiB) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Multiply](https://open.spotify.com/album/0aniMlLzu8HCWo6wXDgh75) | 2:28 | 2024-05-30 | 2024-06-07 |
+| [Mummo](https://open.spotify.com/track/3JSWW7XZiRUggZiQpZsxPe) | [Samuell](https://open.spotify.com/artist/6McHq84vR6u1UNTdBiMKvV) | [Mummo](https://open.spotify.com/album/6GCJ7qLA0hYIK3TdIUa8wy) | 3:16 | 2026-05-01 |  |
 | [Mun enkelit](https://open.spotify.com/track/3tPPtIHegUguY81qmktWfA) | [Kah Pao](https://open.spotify.com/artist/4r6Y0yVM0qCN4B4EAgXytt) | [Poika Perkele](https://open.spotify.com/album/4bW3MjFIiAsOvE8WQnxER3) | 3:03 | 2025-06-05 | 2025-06-13 |
 | [Mun ihminen](https://open.spotify.com/track/3VEV0SQHNl533SrB6bbIPY) | [ELLIMEI](https://open.spotify.com/artist/6rPI72mU3VRYb9YCKGi3ra) | [Mun ihminen](https://open.spotify.com/album/4f3ETbbOr26nV6wlK4KoNl) | 2:33 | 2025-04-10 | 2025-04-18 |
 | [mun kitarat ei oo puhunu](https://open.spotify.com/track/2T2O2AR2DQt6M1HlHoxpCi) | [Bhaly](https://open.spotify.com/artist/1gYtfdcFJj1BBGlWSJHCkM) | [mun kitarat ei oo puhunu](https://open.spotify.com/album/73mIwzqVZ7UBreoerMrTw6) | 2:02 | 2026-04-23 | 2026-05-01 |

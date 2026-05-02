@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Celebrating women at the center of innovation in electronic music. Featuring Ninajirachi.",
+  "description": "Celebrating women at the center of innovation in electronic music. Featuring Azzecca.",
   "name": "Women of Electronic",
   "tracks": [
     {
@@ -486,7 +486,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 290571,
       "name": "Airglow",
       "url": "https://open.spotify.com/track/1vczvREfjA7ZVXpdpthnoE"
@@ -1300,7 +1300,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 191836,
       "name": "Beef",
       "url": "https://open.spotify.com/track/1y5FxSOLw9KbmxSYxY0OH0"
@@ -1448,6 +1448,24 @@
       "duration_ms": 224142,
       "name": "BIPP",
       "url": "https://open.spotify.com/track/5HuOQHBDbb0UJjEE2fw6Uq"
+    },
+    {
+      "album": {
+        "name": "Bitches Talk Shit",
+        "url": "https://open.spotify.com/album/7qpKgKDoZQhrvnZIeIaRKq"
+      },
+      "artists": [
+        {
+          "name": "Sophia Stel",
+          "url": "https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219969,
+      "name": "Bitches Talk Shit",
+      "url": "https://open.spotify.com/track/2zeOTTt5w7lSwKtbUXcnTQ"
     },
     {
       "album": {
@@ -1696,6 +1714,24 @@
       "duration_ms": 292968,
       "name": "BOUND",
       "url": "https://open.spotify.com/track/2ygzmgkDWkxJ3pTlwqpWpj"
+    },
+    {
+      "album": {
+        "name": "Boys In Blue",
+        "url": "https://open.spotify.com/album/4Gc4rNpM6O60fm6seAbhqH"
+      },
+      "artists": [
+        {
+          "name": "Nia Archives",
+          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153045,
+      "name": "Boys In Blue",
+      "url": "https://open.spotify.com/track/0R3sddzRt8fbbY9GKmv1lw"
     },
     {
       "album": {
@@ -3280,7 +3316,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 157556,
       "name": "Dog",
       "url": "https://open.spotify.com/track/5eBhs4ethVM65azitjNAFv"
@@ -3658,7 +3694,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 202000,
       "name": "Edges",
       "url": "https://open.spotify.com/track/6rCOPBfIps93Z7PsgFStDA"
@@ -3860,7 +3896,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 200640,
       "name": "Est\u00e1tica",
       "url": "https://open.spotify.com/track/3iMIztug9kz3iggyIl2Nl5"
@@ -5448,6 +5484,24 @@
       "duration_ms": 205897,
       "name": "Girls",
       "url": "https://open.spotify.com/track/5XWwqKNVlQO07sdngDh8iL"
+    },
+    {
+      "album": {
+        "name": "Girls first",
+        "url": "https://open.spotify.com/album/0G3hx74DdbIhleZNgkuML6"
+      },
+      "artists": [
+        {
+          "name": "Effy",
+          "url": "https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258500,
+      "name": "Girls first",
+      "url": "https://open.spotify.com/track/4m6NR1LOz8wo6OmAHcgCwc"
     },
     {
       "album": {
@@ -8080,7 +8134,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 242500,
       "name": "Light",
       "url": "https://open.spotify.com/track/2wlfdPFMhk5I53yP1H2Uj4"
@@ -8769,6 +8823,24 @@
     },
     {
       "album": {
+        "name": "make your move",
+        "url": "https://open.spotify.com/album/6oRqzKDM33wGQqY2XZLUmV"
+      },
+      "artists": [
+        {
+          "name": "Azzecca",
+          "url": "https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221439,
+      "name": "make your move",
+      "url": "https://open.spotify.com/track/5DLDirJKT4feWxCH686VM1"
+    },
+    {
+      "album": {
         "name": "Manifest",
         "url": "https://open.spotify.com/album/5ARU30fyKwQHgo21ELyPAF"
       },
@@ -8904,6 +8976,24 @@
       "duration_ms": 159493,
       "name": "Miami Crest",
       "url": "https://open.spotify.com/track/5BWL1daZx8NkFETSMAWm4q"
+    },
+    {
+      "album": {
+        "name": "HOME WAS ALWAYS ME",
+        "url": "https://open.spotify.com/album/3LjjkS2s2b2RdluM00NWLD"
+      },
+      "artists": [
+        {
+          "name": "WHIPPED CREAM",
+          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137538,
+      "name": "midnight moon",
+      "url": "https://open.spotify.com/track/5fu8pfEsXXA9mY0F9grAce"
     },
     {
       "album": {
@@ -9874,7 +9964,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 292564,
       "name": "No Heart",
       "url": "https://open.spotify.com/track/2PT2YgnWt40cdlVWHINqiu"
@@ -10359,6 +10449,24 @@
     },
     {
       "album": {
+        "name": "Panda",
+        "url": "https://open.spotify.com/album/6wbhTQJ8dzn90wvd6puPuO"
+      },
+      "artists": [
+        {
+          "name": "Sel",
+          "url": "https://open.spotify.com/artist/0IHp9IbFZ9x8YFdDi2oriS"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Panda",
+      "url": "https://open.spotify.com/track/7pa1a7s1TRHBI01cllS5j2"
+    },
+    {
+      "album": {
         "name": "Patchwork",
         "url": "https://open.spotify.com/album/1jdPpk0cKJ4iQvsZfEXstU"
       },
@@ -10682,7 +10790,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 179142,
       "name": "Pop",
       "url": "https://open.spotify.com/track/0TgoIKzHyU2zysMf12KuJD"
@@ -13079,6 +13187,24 @@
     },
     {
       "album": {
+        "name": "takeme2",
+        "url": "https://open.spotify.com/album/0WIRi1STaiGqv2vxF35y32"
+      },
+      "artists": [
+        {
+          "name": "Saidah",
+          "url": "https://open.spotify.com/artist/18ddrVSTx9Y6FZIiXFG7IU"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215922,
+      "name": "takeme2",
+      "url": "https://open.spotify.com/track/5lF0OMA2GNEDe1OVuaM0tb"
+    },
+    {
+      "album": {
         "name": "TAKIN PICTURES",
         "url": "https://open.spotify.com/album/3mWmTY0nqpjXBsOtemOAVC"
       },
@@ -14722,6 +14848,24 @@
       "duration_ms": 185142,
       "name": "Vroom Vroom Vroom",
       "url": "https://open.spotify.com/track/45rPDJj8SKfBUXkknYvavd"
+    },
+    {
+      "album": {
+        "name": "Waaalk",
+        "url": "https://open.spotify.com/album/2jDwGQw9Xi02RkNuTquVuV"
+      },
+      "artists": [
+        {
+          "name": "Kuzco",
+          "url": "https://open.spotify.com/artist/41gAwOVRxPXax5jUQ3Ub6Q"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323440,
+      "name": "Waaalk",
+      "url": "https://open.spotify.com/track/5ZzxwSEbO6BSyJtOtdAs7w"
     },
     {
       "album": {

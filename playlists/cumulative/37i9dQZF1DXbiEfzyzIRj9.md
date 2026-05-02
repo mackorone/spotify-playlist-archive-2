@@ -4,7 +4,7 @@
 
 > 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\.   Cover: Verses GT
 
-2,146 songs - 6 day 13 hr 18 min
+2,147 songs - 6 day 13 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -541,6 +541,7 @@
 | [Earth](https://open.spotify.com/track/7dx5DbxkhVWt8KsW8kePNM) | [Kiimi](https://open.spotify.com/artist/3EMzfV9nhsrQWF7Ww8M74S) | [Earth](https://open.spotify.com/album/4tEySm30Wxlad1GJSkky3J) | 4:01 | 2023-06-09 | 2023-07-21 |
 | [Earth Over Us](https://open.spotify.com/track/0Qy5uY4PaJmsKDeaGqDCtm) | [Tea White](https://open.spotify.com/artist/4MpPHRxgfWKnBUoAGCBx45) | [4LTERNVTE](https://open.spotify.com/album/715lSmE5jlClQQ1kQ1ichM) | 7:45 | 2025-11-20 | 2025-11-28 |
 | [Earth Steps \- Stones Taro Remix](https://open.spotify.com/track/64Fw1IBthfBnZdp3cMUNd6) | [Pee J Anderson](https://open.spotify.com/artist/338O4TkgrWM4mq1hkYEItx), [Stones Taro](https://open.spotify.com/artist/2lVqmVhV77js7wdmzUVdyB) | [Earth Steps Remixes](https://open.spotify.com/album/1Hgj4xit7jwAruS3eNkOO0) | 5:22 | 2023-11-17 | 2024-05-10 |
+| [East 2 West](https://open.spotify.com/track/4QJc48i3nF3fU3DxFq3fUs) | [Catarrh Nisin](https://open.spotify.com/artist/2e9JzJnQ0tYXmQt2GI66kI), [Jacotanu](https://open.spotify.com/artist/0eWrRwbeLfOkcmIYwbA09T), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [East 2 West](https://open.spotify.com/album/1e8ZIzEgBIfTX2E7Rd0TxS) | 3:38 | 2026-05-01 |  |
 | [Easy To Love](https://open.spotify.com/track/7nDdoz7NIXvWArl6a0XhN0) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS), [Kabusa Oriental Choir](https://open.spotify.com/artist/4YrSRLOhFdbVvToiE2nlpj) | [Easy To Love](https://open.spotify.com/album/04asBtmK3GCvnjDvEVKefV) | 4:00 | 2025-03-29 | 2025-05-09 |
 | [Eat Your Man \(with Nelly Furtado\)](https://open.spotify.com/track/6Ea2oEzysv4UECGNxL1IEW) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Eat Your Man \(with Nelly Furtado\)](https://open.spotify.com/album/6UC9oEbksP0m0Sfl1sgVEQ) | 3:17 | 2023-06-09 | 2023-09-22 |
 | [Eau](https://open.spotify.com/track/24CWJllf7PtborXpEyBx8z) | [Lhinen](https://open.spotify.com/artist/0aSQdFssHjHDdc4tevu5RC) | [Cusp](https://open.spotify.com/album/3PTxC8a2qG3UXkp9KSkavv) | 5:13 | 2025-11-20 | 2025-11-28 |

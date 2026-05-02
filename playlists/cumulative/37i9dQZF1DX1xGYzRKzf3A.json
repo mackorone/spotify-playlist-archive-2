@@ -1637,6 +1637,28 @@
     },
     {
       "album": {
+        "name": "La Fern\u00e1ndez",
+        "url": "https://open.spotify.com/album/7r6l3aKLwvcAH8Ouw4CRIa"
+      },
+      "artists": [
+        {
+          "name": "Camila Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
+        },
+        {
+          "name": "El Mimoso Luis Antonio L\u00f3pez",
+          "url": "https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g"
+        }
+      ],
+      "date_added": "2025-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190384,
+      "name": "Culpa M\u00eda",
+      "url": "https://open.spotify.com/track/4qJvYWDmhlb8grLoa6EKMH"
+    },
+    {
+      "album": {
         "name": "A D\u00edos Le Pido",
         "url": "https://open.spotify.com/album/0O6hHTzapyPoPcn09EVQN3"
       },
@@ -3602,6 +3624,24 @@
       "duration_ms": 365795,
       "name": "Inmortales Medley: Celoso / Dulcemente Enamorada / Cosas del Amor / C\u00f3mo Est\u00e1s T\u00fa - En Vivo Desde Monterrey",
       "url": "https://open.spotify.com/track/3B8XAAB1j59uwrCfXntXcO"
+    },
+    {
+      "album": {
+        "name": "Pacific Jam At My Apartment",
+        "url": "https://open.spotify.com/album/2U1uNbCDt2jDhZpd6bM4wn"
+      },
+      "artists": [
+        {
+          "name": "PJAMA",
+          "url": "https://open.spotify.com/artist/6rEnCeFGwNGiOuBhjOPMVH"
+        }
+      ],
+      "date_added": "2025-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185950,
+      "name": "Insatisfecho",
+      "url": "https://open.spotify.com/track/0QfPd5Z46l1bkDhl9ABV2x"
     },
     {
       "album": {
@@ -6108,7 +6148,7 @@
       ],
       "date_added": "2025-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 254537,
       "name": "Que Lloro - En Vivo",
       "url": "https://open.spotify.com/track/3xgbyHmM087foQxOfJQuI4"
@@ -6414,7 +6454,7 @@
       ],
       "date_added": "2025-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 213333,
       "name": "Ramo Buch\u00f3n",
       "url": "https://open.spotify.com/track/4Td2A1bW1NP1Utc9WZDfWr"

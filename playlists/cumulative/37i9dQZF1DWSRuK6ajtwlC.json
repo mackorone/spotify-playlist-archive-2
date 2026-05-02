@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-11",
-  "description": "A levantar polvadera con lo mejor de la m\u00fasica de sax \ud83c\udfb7 Los Pescadores del R\u00edo Conchos en portada \ud83d\udcf8",
+  "description": "A levantar polvadera con lo mejor de la m\u00fasica de sax \ud83c\udfb7 La Reuni\u00f3n Norte\u00f1a en portada \ud83d\udcf8",
   "name": "Norte\u00f1o Sax",
   "tracks": [
     {
@@ -1201,6 +1201,24 @@
     },
     {
       "album": {
+        "name": "Como Se Supone",
+        "url": "https://open.spotify.com/album/0SuUEUTdenq6GjciOYR51S"
+      },
+      "artists": [
+        {
+          "name": "DISTINTO NORTE",
+          "url": "https://open.spotify.com/artist/54Ip38xHxjz2EJOksZx31L"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191123,
+      "name": "Como Se Supone",
+      "url": "https://open.spotify.com/track/3HzNIyT39VtoK2ZBqsxH4A"
+    },
+    {
+      "album": {
         "name": "Como Te Extra\u00f1o",
         "url": "https://open.spotify.com/album/5YZKmb0BjulcKw2MqyqQNO"
       },
@@ -1994,6 +2012,24 @@
       "duration_ms": 186514,
       "name": "El Amor De Mi Vida",
       "url": "https://open.spotify.com/track/4WhJcfnu0CaLHcYJsX2Xmt"
+    },
+    {
+      "album": {
+        "name": "El Amor De Mis D\u00edas",
+        "url": "https://open.spotify.com/album/5xmh73wg0NO6uosVMYVzeo"
+      },
+      "artists": [
+        {
+          "name": "La Reunion Nortena",
+          "url": "https://open.spotify.com/artist/554Ew2NdutSKKljCiK3s3n"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162718,
+      "name": "El Amor De Mis D\u00edas",
+      "url": "https://open.spotify.com/track/1llIfS2tjg70ndfKmRE78b"
     },
     {
       "album": {
@@ -2858,7 +2894,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 172322,
       "name": "Hoy",
       "url": "https://open.spotify.com/track/46OPS0nqKv4RqXZaBtOosO"
@@ -3082,6 +3118,24 @@
       "duration_ms": 164650,
       "name": "La Boca Les Callamos",
       "url": "https://open.spotify.com/track/6bXfM7zpnRP5qkyYWzHjWO"
+    },
+    {
+      "album": {
+        "name": "La Charola",
+        "url": "https://open.spotify.com/album/21VKO3zVJdHA6zob8irZtr"
+      },
+      "artists": [
+        {
+          "name": "La Nueva Estrategia",
+          "url": "https://open.spotify.com/artist/6KrsPUXRtIKhTla4QfuRW0"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201333,
+      "name": "La Charola",
+      "url": "https://open.spotify.com/track/4P1e0dWh3XE3kZlkPtRHMA"
     },
     {
       "album": {
@@ -3444,7 +3498,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 178090,
       "name": "La Reina",
       "url": "https://open.spotify.com/track/2qmUxCaT4RjLzaZSyTaWbW"
@@ -3690,6 +3744,24 @@
       "duration_ms": 173826,
       "name": "Lo Mejor De Lo Mejor",
       "url": "https://open.spotify.com/track/5gpgYBVx8DAXwW4T6kFqc5"
+    },
+    {
+      "album": {
+        "name": "Lo Que Nunca Ser\u00e1",
+        "url": "https://open.spotify.com/album/30XOU5h85vA2z7AF18dP2Z"
+      },
+      "artists": [
+        {
+          "name": "La Humildad De La Musica Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/0fMwbTSqDbGyg0QgpijRoE"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154610,
+      "name": "Lo Que Nunca Ser\u00e1",
+      "url": "https://open.spotify.com/track/19E1TxQmNeyzsnsP2BOamR"
     },
     {
       "album": {
@@ -4228,7 +4300,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 212568,
       "name": "Mi\u00e9nteme",
       "url": "https://open.spotify.com/track/1Uku6MXoEjO0U7PMlmlPpQ"
@@ -5546,7 +5618,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 172408,
       "name": "Reset",
       "url": "https://open.spotify.com/track/0wVQnSDDisORLSLlpZQaDf"

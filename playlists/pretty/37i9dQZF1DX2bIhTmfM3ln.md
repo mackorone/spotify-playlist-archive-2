@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2bIhTmfM3ln.md) - [plain]
 
 > love is in the air...breathe in
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,258 likes - 80 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,285 likes - 80 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2bIhTmfM3ln.md) - [plain]
 | 12 | [Come Kulosa](https://open.spotify.com/track/2OJtdCzSnQ1G9rMJ6eD1Wt) | [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW), [Billionboi](https://open.spotify.com/artist/5OkssG2Pb7u2VGiRdYZtMz), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Come Kulosa](https://open.spotify.com/album/6rlEzxImXioBflFuoAsLBV) | 2:24 |
 | 13 | [Oh No](https://open.spotify.com/track/19nmeU0aNGfXHzIpfKUQB2) | [Oberz](https://open.spotify.com/artist/1URhWT4bXKGpVkfDFe1R1v), [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [Oh No](https://open.spotify.com/album/6KvaVWRLV9UA9fc8xy5sEb) | 2:40 |
 | 14 | [Available](https://open.spotify.com/track/7dxIRBHniuTu8lKYJsTcM5) | [Lovn](https://open.spotify.com/artist/7yzmckMWwaSZdJQC5QZ7ws) | [Available](https://open.spotify.com/album/4Zm9Uo3atRc7urLrzvudn0) | 2:39 |
-| 15 | [THEY LOVE ME](https://open.spotify.com/track/1o5VvBFyTVgRrDjbU82tpo) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [THEY LOVE ME](https://open.spotify.com/album/714pPrNDFoet1I8ETjYH3L) | 2:14 |
-| 16 | [you](https://open.spotify.com/track/28sqVp9vMKEuVHWnmknj7l) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [you](https://open.spotify.com/album/4ewH5bNprFllcPxYmz43CR) | 2:45 |
+| 15 | [you](https://open.spotify.com/track/28sqVp9vMKEuVHWnmknj7l) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [you](https://open.spotify.com/album/4ewH5bNprFllcPxYmz43CR) | 2:45 |
+| 16 | [THEY LOVE ME](https://open.spotify.com/track/1o5VvBFyTVgRrDjbU82tpo) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [THEY LOVE ME](https://open.spotify.com/album/714pPrNDFoet1I8ETjYH3L) | 2:14 |
 | 17 | [AMA](https://open.spotify.com/track/5lSDdHPmeqsDJcqiMYtUHN) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [FUJI MOTO](https://open.spotify.com/album/0hFlRO0BYOF3WySD9jEhMT) | 2:37 |
 | 18 | [All Over You](https://open.spotify.com/track/6EzsUkZqhkXet4vVTc7kKv) | [Deobi](https://open.spotify.com/artist/2VFjhFAJd6PHcwVG4eo9EI) | [All Over You](https://open.spotify.com/album/7m2pHHLujtRpWFnz3aLSdb) | 2:25 |
 | 19 | [Julie](https://open.spotify.com/track/3YUXWidbrFVf2NiIWz6j70) | [Kunmie](https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF) | [Julie](https://open.spotify.com/album/77AHedVp8CXClI0vfI0gu2) | 2:58 |
@@ -64,11 +64,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2bIhTmfM3ln.md) - [plain]
 | 54 | [Screaming Beauty](https://open.spotify.com/track/1m3I5mR9B5P6y4wVSk7HIT) | [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW), [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Screaming Beauty](https://open.spotify.com/album/3So6KWy66vCHStRf64ouQP) | 2:41 |
 | 55 | [Anini \(Thief\)](https://open.spotify.com/track/5CUw1nny9nrGDefmlOYFJv) | [Lil Kesh](https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT) | [Anini \(Thief\)](https://open.spotify.com/album/0bbfArdfhJsr0oL9qcMj82) | 3:09 |
 | 56 | [Holy Romance](https://open.spotify.com/track/4dsxF6UWyzVM7lutvZkyca) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Holy Romance](https://open.spotify.com/album/3F3rEgznhfUMH925IUKc2v) | 2:35 |
-| 57 | [Namipa](https://open.spotify.com/track/3Seq53VDoEMol2gwIroF1U) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG), [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Namipa](https://open.spotify.com/album/2O6QjA5omcQkQqL3WRXm95) | 2:21 |
-| 58 | [I'm Available](https://open.spotify.com/track/0OBUEQiL8nzKcOg80cgGke) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [I'm Available](https://open.spotify.com/album/0ZHpEgfNlcyqDCqVTrkMZ8) | 3:16 |
+| 57 | [I'm Available](https://open.spotify.com/track/0OBUEQiL8nzKcOg80cgGke) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [I'm Available](https://open.spotify.com/album/0ZHpEgfNlcyqDCqVTrkMZ8) | 3:16 |
+| 58 | [Namipa](https://open.spotify.com/track/3Seq53VDoEMol2gwIroF1U) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG), [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Namipa](https://open.spotify.com/album/2O6QjA5omcQkQqL3WRXm95) | 2:21 |
 | 59 | [A1 \(feat\. Kizz Daniel\)](https://open.spotify.com/track/3kBjs166DWzq9vvxKgRtlw) | [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [A1 \(feat\. Kizz Daniel\)](https://open.spotify.com/album/5Z5Uwng7e3a0sdvzX4oMdB) | 2:11 |
-| 60 | [Blame On Me](https://open.spotify.com/track/03FQZWe6qCPqeHPIExAIjr) | [Majeeed](https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk) | [Blame On Me](https://open.spotify.com/album/4SMLSrqBkE01ysiHQ3kV6z) | 2:35 |
-| 61 | [Phony](https://open.spotify.com/track/7nrJHvsmJqtN6Ue41GJX88) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi) | [Phony](https://open.spotify.com/album/5rYGaTEsuw5HzbvhgguHLx) | 2:30 |
+| 60 | [Phony](https://open.spotify.com/track/7nrJHvsmJqtN6Ue41GJX88) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi) | [Phony](https://open.spotify.com/album/5rYGaTEsuw5HzbvhgguHLx) | 2:30 |
+| 61 | [Blame On Me](https://open.spotify.com/track/03FQZWe6qCPqeHPIExAIjr) | [Majeeed](https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk) | [Blame On Me](https://open.spotify.com/album/4SMLSrqBkE01ysiHQ3kV6z) | 2:35 |
 | 62 | [US III](https://open.spotify.com/track/1HHNy0QJKUL8uO6G750zp5) | [Swayvee](https://open.spotify.com/artist/3cPgRGBJymiZW5BdA1K6es), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [US III](https://open.spotify.com/album/2Dh75FbXSEiP3zs58Gf1KO) | 2:36 |
 | 63 | [Over The Moon](https://open.spotify.com/track/5CHi28woINyyaqdi1t7FZM) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Over The Moon](https://open.spotify.com/album/34FtA5y3NfmDleizvsjiWD) | 2:45 |
 | 64 | [Dive In](https://open.spotify.com/track/4Ws9OfmKBzjw7FaJV0Xp1A) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p) | [Dive In](https://open.spotify.com/album/4sYyq8J4gHzzTIoYg2Bxos) | 3:15 |

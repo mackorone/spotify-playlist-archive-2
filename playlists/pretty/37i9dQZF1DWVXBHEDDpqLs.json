@@ -1,13 +1,29 @@
 {
   "description": "the best club-ready cuts from the global underground \ud83c\udf00 featuring Baalti \ud83c\udf00",
-  "num_followers": 60502,
+  "num_followers": 60508,
   "original_name": "Club Culture",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHSBLKcHXWTcIeZmMYAm2qKLrngN",
+  "snapshot_id": "AAAAAMQjzsBuuLbZbxQSnJMSN9tVdSVn",
   "tracks": [
+    {
+      "added_at": "2026-05-01 04:02:28",
+      "album": {
+        "name": "Sigils For Survival",
+        "url": "https://open.spotify.com/album/6DsMqtKy0VJlvcxRFozKw8"
+      },
+      "artists": [
+        {
+          "name": "Octo Octa",
+          "url": "https://open.spotify.com/artist/2GH8Mzo3Ur1AdOnGUUpt17"
+        }
+      ],
+      "duration_ms": 499100,
+      "name": "First Intention (Right Here, Right Now)",
+      "url": "https://open.spotify.com/track/2cnRRxgxmTYIUwK06kNTJk"
+    },
     {
       "added_at": "2026-02-13 05:00:42",
       "album": {
@@ -39,6 +55,62 @@
       "duration_ms": 458878,
       "name": "FRIED",
       "url": "https://open.spotify.com/track/1i527ye8rzBUSsb6o5OFpZ"
+    },
+    {
+      "added_at": "2026-05-01 04:02:28",
+      "album": {
+        "name": "Untitled 13",
+        "url": "https://open.spotify.com/album/3ROotvLiEaR5vOTvn0fyym"
+      },
+      "artists": [
+        {
+          "name": "Leod",
+          "url": "https://open.spotify.com/artist/60s9PC0pLdn1j1fz6PjUT1"
+        }
+      ],
+      "duration_ms": 282989,
+      "name": "Untitled 13",
+      "url": "https://open.spotify.com/track/22om0XF65M87SwlOvx2Xj5"
+    },
+    {
+      "added_at": "2026-04-03 04:02:26",
+      "album": {
+        "name": "Threads",
+        "url": "https://open.spotify.com/album/5ITKx2dBSjk5jV6ZxTFe62"
+      },
+      "artists": [
+        {
+          "name": "Baalti",
+          "url": "https://open.spotify.com/artist/2CtpjGWvsq4QnUIx9PHDAN"
+        },
+        {
+          "name": "Lapgan",
+          "url": "https://open.spotify.com/artist/2qpOejyNXBdBfLQh9OO22P"
+        }
+      ],
+      "duration_ms": 208173,
+      "name": "Naaz",
+      "url": "https://open.spotify.com/track/44UpPGRE0YKOT1J3bwt0ju"
+    },
+    {
+      "added_at": "2026-05-01 04:02:28",
+      "album": {
+        "name": "Pyrexia",
+        "url": "https://open.spotify.com/album/5bXY8a7X1GPtI01b4NCV4s"
+      },
+      "artists": [
+        {
+          "name": "Ehua",
+          "url": "https://open.spotify.com/artist/6mmklLsukQYQBIfS7WJw50"
+        },
+        {
+          "name": "Flore",
+          "url": "https://open.spotify.com/artist/14LfGaytRuKLzIjUP6SXMM"
+        }
+      ],
+      "duration_ms": 338277,
+      "name": "Helix",
+      "url": "https://open.spotify.com/track/4CDLVSZvQ2pEj3xreFWns6"
     },
     {
       "added_at": "2026-04-17 04:02:26",
@@ -97,26 +169,6 @@
       "url": "https://open.spotify.com/track/4FYsslPSB0RlJzbGVLLKZe"
     },
     {
-      "added_at": "2026-04-03 04:02:26",
-      "album": {
-        "name": "Threads",
-        "url": "https://open.spotify.com/album/5ITKx2dBSjk5jV6ZxTFe62"
-      },
-      "artists": [
-        {
-          "name": "Baalti",
-          "url": "https://open.spotify.com/artist/2CtpjGWvsq4QnUIx9PHDAN"
-        },
-        {
-          "name": "Lapgan",
-          "url": "https://open.spotify.com/artist/2qpOejyNXBdBfLQh9OO22P"
-        }
-      ],
-      "duration_ms": 208173,
-      "name": "Naaz",
-      "url": "https://open.spotify.com/track/44UpPGRE0YKOT1J3bwt0ju"
-    },
-    {
       "added_at": "2026-04-10 04:02:28",
       "album": {
         "name": "Plastic Camelia / Laurel",
@@ -149,6 +201,22 @@
       "url": "https://open.spotify.com/track/2cdx2u1EO1BtPaWrWyvPpn"
     },
     {
+      "added_at": "2026-05-01 04:02:28",
+      "album": {
+        "name": "Shook Hands EP",
+        "url": "https://open.spotify.com/album/43F26nefGZ6iClppyJzXOE"
+      },
+      "artists": [
+        {
+          "name": "DPRTNDRP",
+          "url": "https://open.spotify.com/artist/1OsyLdBrbBzicSLMOKUUEH"
+        }
+      ],
+      "duration_ms": 257309,
+      "name": "Cortado",
+      "url": "https://open.spotify.com/track/5YPUD0ypRs2tLRnGtkHUpx"
+    },
+    {
       "added_at": "2026-04-17 04:02:26",
       "album": {
         "name": "no me quiero dormir",
@@ -167,6 +235,30 @@
       "duration_ms": 162000,
       "name": "no me quiero dormir",
       "url": "https://open.spotify.com/track/6pLKe1SzXJexj7VpBleAL4"
+    },
+    {
+      "added_at": "2026-05-01 04:02:28",
+      "album": {
+        "name": "FIESTA",
+        "url": "https://open.spotify.com/album/04cR0wP3saPJ7rBlI96V9h"
+      },
+      "artists": [
+        {
+          "name": "Coffintexts",
+          "url": "https://open.spotify.com/artist/4OMHnyekp6Sv6BdGxDcmK1"
+        },
+        {
+          "name": "Ale Acosta",
+          "url": "https://open.spotify.com/artist/5LXcik8l0rAkVuFe1vI3JM"
+        },
+        {
+          "name": "PAYME AMY",
+          "url": "https://open.spotify.com/artist/1mvSJJESoqtyg1HP0k9kfa"
+        }
+      ],
+      "duration_ms": 329552,
+      "name": "FIESTA",
+      "url": "https://open.spotify.com/track/1Cs9MMnozQQUYUyxAQlbVD"
     },
     {
       "added_at": "2026-04-10 04:02:28",
@@ -247,6 +339,26 @@
       "duration_ms": 274565,
       "name": "Pez",
       "url": "https://open.spotify.com/track/5QvvtpGUlrEedXvberu01w"
+    },
+    {
+      "added_at": "2026-05-01 04:02:28",
+      "album": {
+        "name": "TVNKVNTVN",
+        "url": "https://open.spotify.com/album/0GH61kIFR6vpFHHz2l1e9y"
+      },
+      "artists": [
+        {
+          "name": "AMANTRA",
+          "url": "https://open.spotify.com/artist/3iFlEeHFzJ6kyvQiBg58vc"
+        },
+        {
+          "name": "Genosidra",
+          "url": "https://open.spotify.com/artist/6Y3JaYmXupDH2NZHSyQjUB"
+        }
+      ],
+      "duration_ms": 240610,
+      "name": "Chambapie",
+      "url": "https://open.spotify.com/track/2cyW4j1MdpPBQaPkiD4vgK"
     },
     {
       "added_at": "2026-04-24 04:02:12",
@@ -459,6 +571,22 @@
       "duration_ms": 295890,
       "name": "Chromey",
       "url": "https://open.spotify.com/track/2XaLjJl6vZblI2CPXOkbzf"
+    },
+    {
+      "added_at": "2026-05-01 04:02:28",
+      "album": {
+        "name": "BANGOUT EP",
+        "url": "https://open.spotify.com/album/6hEac1VFPadQxwKw8laizs"
+      },
+      "artists": [
+        {
+          "name": "DJ Manny",
+          "url": "https://open.spotify.com/artist/5whJkWAzwCYfeetVpUJKn7"
+        }
+      ],
+      "duration_ms": 174954,
+      "name": "After Party",
+      "url": "https://open.spotify.com/track/3Q84cw7R6i4fU2Ve7vJ8HH"
     },
     {
       "added_at": "2026-04-10 04:02:28",
@@ -1217,22 +1345,6 @@
       "url": "https://open.spotify.com/track/4vi5YhHWRex3ATSIMT0G3j"
     },
     {
-      "added_at": "2026-03-13 16:03:56",
-      "album": {
-        "name": "FOREVER",
-        "url": "https://open.spotify.com/album/6qKauCLTHGe0ZEu5MhIEuw"
-      },
-      "artists": [
-        {
-          "name": "DJ MELL G",
-          "url": "https://open.spotify.com/artist/2b7aFZjD6tpoR3fSDB9AoX"
-        }
-      ],
-      "duration_ms": 330586,
-      "name": "FOREVER",
-      "url": "https://open.spotify.com/track/6MH5a7SRJnZcrsIB2OoUFV"
-    },
-    {
       "added_at": "2026-02-07 21:02:24",
       "album": {
         "name": "Club Groove (Groove McDoodle)",
@@ -1531,38 +1643,6 @@
     {
       "added_at": "2026-01-23 23:00:05",
       "album": {
-        "name": "Home Is True",
-        "url": "https://open.spotify.com/album/5sCZV4unPO5Hme36JC0ZFH"
-      },
-      "artists": [
-        {
-          "name": "Skin On Skin",
-          "url": "https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa"
-        }
-      ],
-      "duration_ms": 252393,
-      "name": "Let Me Say This",
-      "url": "https://open.spotify.com/track/19iQuyF5zc3zT1LdY3y5G7"
-    },
-    {
-      "added_at": "2026-02-20 05:00:48",
-      "album": {
-        "name": "5am Operator",
-        "url": "https://open.spotify.com/album/2myKdAMaR73V9s5wAVmqOS"
-      },
-      "artists": [
-        {
-          "name": "Scarlett O'Malley",
-          "url": "https://open.spotify.com/artist/3M9nSw4sBZae8JV6uEefMq"
-        }
-      ],
-      "duration_ms": 373244,
-      "name": "5am Operator",
-      "url": "https://open.spotify.com/track/42MOFsTMMvEkX9cdLcxsFr"
-    },
-    {
-      "added_at": "2026-01-23 23:00:05",
-      "album": {
         "name": "Orbita",
         "url": "https://open.spotify.com/album/5HnYvgThbYkmhWM2rA4tlV"
       },
@@ -1615,30 +1695,6 @@
       "duration_ms": 168931,
       "name": "Broody",
       "url": "https://open.spotify.com/track/6qR8sW1nzI8qmPgEdlSx1s"
-    },
-    {
-      "added_at": "2026-02-13 05:00:42",
-      "album": {
-        "name": "BIG CHOON",
-        "url": "https://open.spotify.com/album/5BUD7KiN2tjgq8o21e9xYz"
-      },
-      "artists": [
-        {
-          "name": "HALF OFFF",
-          "url": "https://open.spotify.com/artist/5D4GKmOnRbn5nOM1qT3OOb"
-        },
-        {
-          "name": "Half Queen",
-          "url": "https://open.spotify.com/artist/1HQZ9UiiEh6w7sDu3G9fP7"
-        },
-        {
-          "name": "STATE OFFF",
-          "url": "https://open.spotify.com/artist/4NHX5R0Td6ooWh1a34AhtB"
-        }
-      ],
-      "duration_ms": 272634,
-      "name": "BIG CHOON",
-      "url": "https://open.spotify.com/track/3IdJOBj2sVfQrjSVyOwkdu"
     },
     {
       "added_at": "2026-02-07 21:02:24",
@@ -1765,22 +1821,6 @@
       "url": "https://open.spotify.com/track/0go8KhcgV8ok4R9DKlwXf4"
     },
     {
-      "added_at": "2026-01-23 23:00:05",
-      "album": {
-        "name": "Suave",
-        "url": "https://open.spotify.com/album/5B24NGqifYfUdaQST9g6SS"
-      },
-      "artists": [
-        {
-          "name": "N\u00f8rbak",
-          "url": "https://open.spotify.com/artist/0TwXWZcwzGVVOa1Vdu3UEj"
-        }
-      ],
-      "duration_ms": 315111,
-      "name": "Suave",
-      "url": "https://open.spotify.com/track/5aJQgv8FJIcFIjWlwp8Uj0"
-    },
-    {
       "added_at": "2026-01-30 05:01:05",
       "album": {
         "name": "Off World Vehicles (Ben Gomori Remix)",
@@ -1867,22 +1907,6 @@
       "duration_ms": 291500,
       "name": "Business",
       "url": "https://open.spotify.com/track/3B7DEjXs1lyFLHGqtxjSbq"
-    },
-    {
-      "added_at": "2026-01-23 23:00:05",
-      "album": {
-        "name": "REALITIES",
-        "url": "https://open.spotify.com/album/7mIvyWVR3rGx4o3Vr8rdVx"
-      },
-      "artists": [
-        {
-          "name": "MoMa Ready",
-          "url": "https://open.spotify.com/artist/5X6LaznpXYDwhSt5eirvRV"
-        }
-      ],
-      "duration_ms": 308608,
-      "name": "TRAVELERS",
-      "url": "https://open.spotify.com/track/0E5YfHjYfK5PLD8bq3N4fk"
     },
     {
       "added_at": "2026-01-23 23:00:05",
@@ -2015,22 +2039,6 @@
       "duration_ms": 227897,
       "name": "What's a Girl to Do (Ineffekt's Glow Mix)",
       "url": "https://open.spotify.com/track/3RnutgOQBOWMyK7ySRgI3r"
-    },
-    {
-      "added_at": "2026-01-23 23:00:05",
-      "album": {
-        "name": "i can\u2019t remember the name of this, but that's ok",
-        "url": "https://open.spotify.com/album/5QhQi6ShBaqc7PX4XfOwKJ"
-      },
-      "artists": [
-        {
-          "name": "Surusinghe",
-          "url": "https://open.spotify.com/artist/7m5jnraNhVbxMZ7B8FvCSe"
-        }
-      ],
-      "duration_ms": 249596,
-      "name": "All Night",
-      "url": "https://open.spotify.com/track/3dB92Il79UajUxaHzA3VBA"
     }
   ],
   "unique_name": "Club Culture",

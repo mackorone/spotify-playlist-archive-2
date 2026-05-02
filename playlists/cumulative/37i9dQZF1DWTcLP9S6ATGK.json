@@ -8609,6 +8609,24 @@
     },
     {
       "album": {
+        "name": "Malu",
+        "url": "https://open.spotify.com/album/0M3fIUJhwsiG6yn8FIaUs2"
+      },
+      "artists": [
+        {
+          "name": "Obbie Messakh",
+          "url": "https://open.spotify.com/artist/6S40FdKeiCsGHth3mulKl6"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275050,
+      "name": "Malu",
+      "url": "https://open.spotify.com/track/0XT1eIQ04pRmwt87w03TFi"
+    },
+    {
+      "album": {
         "name": "Mampu Tanpamu",
         "url": "https://open.spotify.com/album/6h7LAAl1qoL3gO94ewlEHP"
       },
@@ -15598,6 +15616,24 @@
       "duration_ms": 259315,
       "name": "Teman Tapi Mesra",
       "url": "https://open.spotify.com/track/24g0FpFV0hew9pPdAM1FYx"
+    },
+    {
+      "album": {
+        "name": "Temani Gelapku",
+        "url": "https://open.spotify.com/album/2rrJe99T18NeCXg853cXiF"
+      },
+      "artists": [
+        {
+          "name": "James Adam",
+          "url": "https://open.spotify.com/artist/1mp6xNxsLku50JEMGvJx1o"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "Temani Gelapku",
+      "url": "https://open.spotify.com/track/2m5xhe9BKjaVGgT1Qe0sCX"
     },
     {
       "album": {

@@ -5735,6 +5735,24 @@
     },
     {
       "album": {
+        "name": "Put On A Record Tommy",
+        "url": "https://open.spotify.com/album/505GPhLVVEmbneKz9dewvW"
+      },
+      "artists": [
+        {
+          "name": "Tom A. Smith",
+          "url": "https://open.spotify.com/artist/6haZIHZVYI79wKvp6FCFML"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188287,
+      "name": "Put On A Record Tommy",
+      "url": "https://open.spotify.com/track/3ltV7o6cES5QLAOnudIRl1"
+    },
+    {
+      "album": {
         "name": "Quality Pints",
         "url": "https://open.spotify.com/album/6xDXc50MhkzkXi3rEDlocd"
       },
@@ -7371,42 +7389,6 @@
     },
     {
       "album": {
-        "name": "Coming of Age",
-        "url": "https://open.spotify.com/album/6H8ULONWvrMzKel3GgVExV"
-      },
-      "artists": [
-        {
-          "name": "the north",
-          "url": "https://open.spotify.com/artist/2DOGRYfLhyYwjyBNeYIM6v"
-        }
-      ],
-      "date_added": "2026-05-01",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 4",
-      "url": "https://open.spotify.com/track/07jXAPRXGV5ZeXHXaMV3mo"
-    },
-    {
-      "album": {
-        "name": "Put On A Record Tommy",
-        "url": "https://open.spotify.com/album/505GPhLVVEmbneKz9dewvW"
-      },
-      "artists": [
-        {
-          "name": "Tom A. Smith",
-          "url": "https://open.spotify.com/artist/6haZIHZVYI79wKvp6FCFML"
-        }
-      ],
-      "date_added": "2026-05-01",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 4",
-      "url": "https://open.spotify.com/track/3ltV7o6cES5QLAOnudIRl1"
-    },
-    {
-      "album": {
         "name": "Troubled Son",
         "url": "https://open.spotify.com/album/3hapFmR8CqczqZH3uWly35"
       },
@@ -7422,6 +7404,24 @@
       "duration_ms": 200482,
       "name": "Troubled Son",
       "url": "https://open.spotify.com/track/1NuOxTkp5SwxkT1K3yqcpm"
+    },
+    {
+      "album": {
+        "name": "Coming of Age",
+        "url": "https://open.spotify.com/album/6H8ULONWvrMzKel3GgVExV"
+      },
+      "artists": [
+        {
+          "name": "the north",
+          "url": "https://open.spotify.com/artist/2DOGRYfLhyYwjyBNeYIM6v"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169466,
+      "name": "Tubes",
+      "url": "https://open.spotify.com/track/07jXAPRXGV5ZeXHXaMV3mo"
     },
     {
       "album": {

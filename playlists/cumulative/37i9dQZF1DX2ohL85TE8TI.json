@@ -12435,6 +12435,24 @@
     },
     {
       "album": {
+        "name": "Perfect Crown OST Part.7",
+        "url": "https://open.spotify.com/album/6CvlT4A9KaR3R9lEsBrIf2"
+      },
+      "artists": [
+        {
+          "name": "So Soo Bin",
+          "url": "https://open.spotify.com/artist/5ghNwcHNesKq0Q3zfK39ic"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163000,
+      "name": "My Favorite Part",
+      "url": "https://open.spotify.com/track/5dIOCXso34DrUcMSYl9oCc"
+    },
+    {
+      "album": {
         "name": "The Fabulous, Pt. 3 (Original Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/1sQk4dmcMGYk4OskjgQlPe"
       },

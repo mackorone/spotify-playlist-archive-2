@@ -1,12 +1,12 @@
 {
   "description": "the beat of your drift",
-  "num_followers": 11618660,
+  "num_followers": 11622206,
   "original_name": "phonk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAG+3RA8dNnUhKYUR/NdrD7GcjpDj",
+  "snapshot_id": "AAAAALkNRuKnPv+IctzFTXjGctr23TPD",
   "tracks": [
     {
       "added_at": "2026-02-13 15:58:36",
@@ -133,6 +133,30 @@
       "url": "https://open.spotify.com/track/026OJSwDl3UOP4T8puJXj9"
     },
     {
+      "added_at": "2026-04-17 10:47:02",
+      "album": {
+        "name": "MONTAGEM PEGADORA",
+        "url": "https://open.spotify.com/album/4TAUgrPMoySQAGKignMCbL"
+      },
+      "artists": [
+        {
+          "name": "Rubikdice",
+          "url": "https://open.spotify.com/artist/6l3xqTokYcPPqrFhTlq9qQ"
+        },
+        {
+          "name": "Chilx",
+          "url": "https://open.spotify.com/artist/1kqRQGby2asyPEdtliZYOG"
+        },
+        {
+          "name": "WAA",
+          "url": "https://open.spotify.com/artist/1hh8WeCk9LjfJBUaEPS643"
+        }
+      ],
+      "duration_ms": 102048,
+      "name": "MONTAGEM PEGADORA - Slowed",
+      "url": "https://open.spotify.com/track/1xKMSHgGIQ26RhDDxmIjan"
+    },
+    {
       "added_at": "2025-07-25 18:46:04",
       "album": {
         "name": "MONTAGEM XONADA",
@@ -235,30 +259,6 @@
       "duration_ms": 61269,
       "name": "ACELERADA",
       "url": "https://open.spotify.com/track/5R9FQXymzyhxjAYAkdbq5Q"
-    },
-    {
-      "added_at": "2026-04-17 10:47:02",
-      "album": {
-        "name": "MONTAGEM PEGADORA",
-        "url": "https://open.spotify.com/album/4TAUgrPMoySQAGKignMCbL"
-      },
-      "artists": [
-        {
-          "name": "Rubikdice",
-          "url": "https://open.spotify.com/artist/6l3xqTokYcPPqrFhTlq9qQ"
-        },
-        {
-          "name": "Chilx",
-          "url": "https://open.spotify.com/artist/1kqRQGby2asyPEdtliZYOG"
-        },
-        {
-          "name": "WAA",
-          "url": "https://open.spotify.com/artist/1hh8WeCk9LjfJBUaEPS643"
-        }
-      ],
-      "duration_ms": 102048,
-      "name": "MONTAGEM PEGADORA - Slowed",
-      "url": "https://open.spotify.com/track/1xKMSHgGIQ26RhDDxmIjan"
     },
     {
       "added_at": "2026-03-22 01:21:26",
@@ -577,6 +577,22 @@
       "url": "https://open.spotify.com/track/1RnPdd7EKKhKN3E4o4DRsh"
     },
     {
+      "added_at": "2026-05-01 15:50:01",
+      "album": {
+        "name": "FUNK ABNORMAL",
+        "url": "https://open.spotify.com/album/1L2kODY4rShKP0phbzgys3"
+      },
+      "artists": [
+        {
+          "name": "DJ V12",
+          "url": "https://open.spotify.com/artist/0PEgH2YVz5tadElsDE8ZpD"
+        }
+      ],
+      "duration_ms": 101410,
+      "name": "FUNK ABNORMAL - SLOWED",
+      "url": "https://open.spotify.com/track/1BoDSjzUW6Bjf8JjHmY6D2"
+    },
+    {
       "added_at": "2025-02-28 15:27:21",
       "album": {
         "name": "PASSO BEM SOLTO",
@@ -783,26 +799,6 @@
       "duration_ms": 103495,
       "name": "DOORS LIGHT FUNK - SLOWED",
       "url": "https://open.spotify.com/track/3sRLayspROqc62YZ0DhEdR"
-    },
-    {
-      "added_at": "2024-02-09 15:25:18",
-      "album": {
-        "name": "FUNKED UP",
-        "url": "https://open.spotify.com/album/4FRxgE6LA2UGJ5yz8diaI9"
-      },
-      "artists": [
-        {
-          "name": "xxanteria",
-          "url": "https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp"
-        },
-        {
-          "name": "isq",
-          "url": "https://open.spotify.com/artist/6JjQbtAO09K7qBEW2pdX5s"
-        }
-      ],
-      "duration_ms": 115348,
-      "name": "FUNKED UP - SLOWED",
-      "url": "https://open.spotify.com/track/4VL5XwfATZuAVTW471Wpro"
     },
     {
       "added_at": "2024-05-17 14:03:55",

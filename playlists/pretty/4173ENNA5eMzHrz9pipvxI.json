@@ -1,12 +1,12 @@
 {
-  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: Jude York",
-  "num_followers": 118359,
+  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: Alexandra Stan x FAULHABER",
+  "num_followers": 118352,
   "original_name": "Spinnin' Records Brand New",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAAhBV6T3u0QdNxwY5CDpaHwH1gp72sg",
+  "snapshot_id": "AAAhCUdiYzdlQJItf45DulLAjnJ0m/x0",
   "tracks": [
     {
       "added_at": "2026-04-30 14:30:21",
@@ -27,22 +27,6 @@
       "duration_ms": 145846,
       "name": "No Sleep",
       "url": "https://open.spotify.com/track/6HKNYBGRBvofWjSHmfkVvE"
-    },
-    {
-      "added_at": "2026-04-23 22:00:04",
-      "album": {
-        "name": "Another Night Without You",
-        "url": "https://open.spotify.com/album/6QchvniTJsy6Je3qpzmXvJ"
-      },
-      "artists": [
-        {
-          "name": "Fideles",
-          "url": "https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs"
-        }
-      ],
-      "duration_ms": 211900,
-      "name": "Another Night Without You",
-      "url": "https://open.spotify.com/track/23gkaxfqOnOufnK5he7sTW"
     },
     {
       "added_at": "2026-04-30 22:00:01",
@@ -149,6 +133,22 @@
       "url": "https://open.spotify.com/track/5cEO6TVLoxYzWDrki8xQF6"
     },
     {
+      "added_at": "2026-04-23 22:00:04",
+      "album": {
+        "name": "Another Night Without You",
+        "url": "https://open.spotify.com/album/6QchvniTJsy6Je3qpzmXvJ"
+      },
+      "artists": [
+        {
+          "name": "Fideles",
+          "url": "https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs"
+        }
+      ],
+      "duration_ms": 211900,
+      "name": "Another Night Without You",
+      "url": "https://open.spotify.com/track/23gkaxfqOnOufnK5he7sTW"
+    },
+    {
       "added_at": "2026-04-16 22:00:02",
       "album": {
         "name": "Filhos de Zambi",
@@ -183,6 +183,26 @@
       "duration_ms": 212903,
       "name": "Camilla",
       "url": "https://open.spotify.com/track/6fsVL2HeSgQrciFJg4gkqT"
+    },
+    {
+      "added_at": "2026-04-16 22:00:04",
+      "album": {
+        "name": "D\u00e9senchant\u00e9e 3000",
+        "url": "https://open.spotify.com/album/4Av5NxZsaLYPkFTqdJJ4TZ"
+      },
+      "artists": [
+        {
+          "name": "Blasterjaxx",
+          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
+        },
+        {
+          "name": "Kate Ryan",
+          "url": "https://open.spotify.com/artist/47BNWfpngeFHYvBlPPyraM"
+        }
+      ],
+      "duration_ms": 184965,
+      "name": "D\u00e9senchant\u00e9e 3000",
+      "url": "https://open.spotify.com/track/7kKk5e4iAABsp1LM02SBBc"
     },
     {
       "added_at": "2026-04-23 15:59:11",
@@ -247,26 +267,6 @@
       "duration_ms": 183936,
       "name": "On Your Mind (SLESS Remix)",
       "url": "https://open.spotify.com/track/7woxbN1vVvfxhC3p4k0em1"
-    },
-    {
-      "added_at": "2026-04-16 22:00:04",
-      "album": {
-        "name": "D\u00e9senchant\u00e9e 3000",
-        "url": "https://open.spotify.com/album/4Av5NxZsaLYPkFTqdJJ4TZ"
-      },
-      "artists": [
-        {
-          "name": "Blasterjaxx",
-          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
-        },
-        {
-          "name": "Kate Ryan",
-          "url": "https://open.spotify.com/artist/47BNWfpngeFHYvBlPPyraM"
-        }
-      ],
-      "duration_ms": 184965,
-      "name": "D\u00e9senchant\u00e9e 3000",
-      "url": "https://open.spotify.com/track/7kKk5e4iAABsp1LM02SBBc"
     },
     {
       "added_at": "2026-04-16 22:00:07",

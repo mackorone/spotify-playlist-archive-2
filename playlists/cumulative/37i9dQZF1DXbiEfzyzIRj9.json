@@ -10967,6 +10967,32 @@
     },
     {
       "album": {
+        "name": "East 2 West",
+        "url": "https://open.spotify.com/album/1e8ZIzEgBIfTX2E7Rd0TxS"
+      },
+      "artists": [
+        {
+          "name": "Catarrh Nisin",
+          "url": "https://open.spotify.com/artist/2e9JzJnQ0tYXmQt2GI66kI"
+        },
+        {
+          "name": "Jacotanu",
+          "url": "https://open.spotify.com/artist/0eWrRwbeLfOkcmIYwbA09T"
+        },
+        {
+          "name": "Scrufizzer",
+          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218000,
+      "name": "East 2 West",
+      "url": "https://open.spotify.com/track/4QJc48i3nF3fU3DxFq3fUs"
+    },
+    {
+      "album": {
         "name": "Easy To Love",
         "url": "https://open.spotify.com/album/04asBtmK3GCvnjDvEVKefV"
       },

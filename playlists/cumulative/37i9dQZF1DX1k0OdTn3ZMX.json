@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "N0rth4evr",
+        "url": "https://open.spotify.com/album/1jkEEeWKAJiR0LQyOvtM7b"
+      },
+      "artists": [
+        {
+          "name": "North West",
+          "url": "https://open.spotify.com/artist/5NTFOMIZSgupSw6yfnD4E2"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103000,
+      "name": "#N0rth4evr",
+      "url": "https://open.spotify.com/track/7sBX5hbKBg2uN3bQoZ2prv"
+    },
+    {
+      "album": {
         "name": "$wing",
         "url": "https://open.spotify.com/album/24nqMPW9CLAZj0rIZL2tB7"
       },
@@ -2032,7 +2050,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 191347,
       "name": "DYING SUN",
       "url": "https://open.spotify.com/track/1loAa1QPNjuz04PErY4Evx"
@@ -4548,6 +4566,24 @@
       "duration_ms": 241854,
       "name": "No Way Out",
       "url": "https://open.spotify.com/track/6YfWZraEqW5CDfGGlo69sa"
+    },
+    {
+      "album": {
+        "name": "Not My Time",
+        "url": "https://open.spotify.com/album/4uYauG5rEBnPQEdG8XnjyE"
+      },
+      "artists": [
+        {
+          "name": "Hotbox",
+          "url": "https://open.spotify.com/artist/1K3l1jGn0tUAQhwrKkv1MR"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155480,
+      "name": "Not My Time",
+      "url": "https://open.spotify.com/track/1T7QjB899NIUZl6RM8lkBs"
     },
     {
       "album": {

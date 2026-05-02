@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2026-03-19",
-  "description": "time to strike a couple of poses. cover: BINI",
+  "description": "time to strike a couple of poses. cover: Deb Fan",
   "name": "poses",
   "tracks": [
     {
@@ -77,6 +77,28 @@
     },
     {
       "album": {
+        "name": "Bestie Baby",
+        "url": "https://open.spotify.com/album/4HtiqIahZ2XUr6pXu6hqKo"
+      },
+      "artists": [
+        {
+          "name": "Valentina Ploy",
+          "url": "https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e"
+        },
+        {
+          "name": "SILVY",
+          "url": "https://open.spotify.com/artist/5m8lmgqE3WYbGqmYKVNJSA"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157446,
+      "name": "Bestie Baby",
+      "url": "https://open.spotify.com/track/7zlbtIbBizYYt6urW0hc0m"
+    },
+    {
+      "album": {
         "name": "Blue Jeans",
         "url": "https://open.spotify.com/album/0VAZse9RXTDM3rOavD1tw6"
       },
@@ -131,6 +153,24 @@
     },
     {
       "album": {
+        "name": "Boy in the Matrix",
+        "url": "https://open.spotify.com/album/60uMtz6oKaUg9aYpPy3AOL"
+      },
+      "artists": [
+        {
+          "name": "Deb Fan",
+          "url": "https://open.spotify.com/artist/7s1vLo9XJCtiFWWzidpl9m"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167773,
+      "name": "Boy in the Matrix",
+      "url": "https://open.spotify.com/track/6wZcPL2h8uFXXiSgxA2hSM"
+    },
+    {
+      "album": {
         "name": "Bubee",
         "url": "https://open.spotify.com/album/1Tisomh3VWj3TeI8bFG5Tr"
       },
@@ -178,7 +218,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 194094,
       "name": "Buzzin",
       "url": "https://open.spotify.com/track/2zbNNWI53q6yRi6jdYfwX1"
@@ -275,6 +315,24 @@
     },
     {
       "album": {
+        "name": "Day One",
+        "url": "https://open.spotify.com/album/4jg8dWycV6IFL8kEUKVoCw"
+      },
+      "artists": [
+        {
+          "name": "FIG",
+          "url": "https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147746,
+      "name": "Day One",
+      "url": "https://open.spotify.com/track/6wldZLtGqvQ8vUiy11FtTt"
+    },
+    {
+      "album": {
         "name": "ENEMY",
         "url": "https://open.spotify.com/album/1aHlLZFaxponNaGJMTWRUt"
       },
@@ -286,7 +344,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-10",
+      "date_removed": null,
       "duration_ms": 161949,
       "name": "ENEMY",
       "url": "https://open.spotify.com/track/4Cv1YTkESvHPWnQAtVNoBF"
@@ -493,6 +551,24 @@
     },
     {
       "album": {
+        "name": "MAMIHLAPINATAPAI",
+        "url": "https://open.spotify.com/album/5VIt2dA2StboE900mllWdJ"
+      },
+      "artists": [
+        {
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138284,
+      "name": "It's Me",
+      "url": "https://open.spotify.com/track/1D5L58KLBbceOynTP4DQnY"
+    },
+    {
+      "album": {
         "name": "JUMP",
         "url": "https://open.spotify.com/album/2L5mYNO7vicA2geMVVY7QN"
       },
@@ -534,7 +610,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 190515,
       "name": "KARMA",
       "url": "https://open.spotify.com/track/6L23msZhO3PhVhnzImb0M1"
@@ -613,6 +689,24 @@
     },
     {
       "album": {
+        "name": "marigold magic",
+        "url": "https://open.spotify.com/album/1mRhP3pG9UTnitNAHAuRqs"
+      },
+      "artists": [
+        {
+          "name": "inch",
+          "url": "https://open.spotify.com/artist/0jcR2IFFsEtMra80c9Zaei"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239426,
+      "name": "marigold magic",
+      "url": "https://open.spotify.com/track/1N6ICgWxsghCNR51cQWlKX"
+    },
+    {
+      "album": {
         "name": "MEXE",
         "url": "https://open.spotify.com/album/3pqOt29EZkGpqPHBfpPskX"
       },
@@ -682,7 +776,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 222127,
       "name": "Moon Or Stars",
       "url": "https://open.spotify.com/track/2ZrMjuzyRQwuAprkYknTYo"
@@ -736,7 +830,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-10",
+      "date_removed": null,
       "duration_ms": 206493,
       "name": "Not a Goodbye",
       "url": "https://open.spotify.com/track/4s91z1CjRTXnehoFfmIA4E"
@@ -772,10 +866,28 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 192527,
       "name": "Ok Not To Be Ok",
       "url": "https://open.spotify.com/track/6kCA2XMmaMhbXzvZC2MzBn"
+    },
+    {
+      "album": {
+        "name": "Out Of My Mind",
+        "url": "https://open.spotify.com/album/25f5EkrwtSGLhlbcfRFiwr"
+      },
+      "artists": [
+        {
+          "name": "Iman Fandi",
+          "url": "https://open.spotify.com/artist/2yv1QEWNbHyf6ErJzCNmlg"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197217,
+      "name": "Out Of My Mind",
+      "url": "https://open.spotify.com/track/32IelN4Pbc3iVROrBvIXoo"
     },
     {
       "album": {
@@ -808,7 +920,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 128031,
       "name": "PICKY PICKY",
       "url": "https://open.spotify.com/track/1rXkRz2Kq0OPtUCbYl1FnR"
@@ -848,7 +960,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-10",
+      "date_removed": null,
       "duration_ms": 160919,
       "name": "PS118 - feat. Rapsody",
       "url": "https://open.spotify.com/track/1X5BMHJoKkVlf9Vo2YYsJz"
@@ -942,7 +1054,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 192000,
       "name": "Shake!",
       "url": "https://open.spotify.com/track/6wdKMBPEUhdIE7Xhxb8ynP"
@@ -1022,7 +1134,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 223416,
       "name": "Stranger's Funeral",
       "url": "https://open.spotify.com/track/0xsKzUbzpcqQ9kGLV1tZ16"
@@ -1040,7 +1152,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 160000,
       "name": "substack girl",
       "url": "https://open.spotify.com/track/1KtQOlLH1dKEYVys18V3Fz"
@@ -1171,6 +1283,24 @@
     },
     {
       "album": {
+        "name": "Trust",
+        "url": "https://open.spotify.com/album/7mtTyacJQq8pgXRYtLb1Vr"
+      },
+      "artists": [
+        {
+          "name": "Mika Yusay",
+          "url": "https://open.spotify.com/artist/530rrIDcbLButvwlbJoDBx"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223000,
+      "name": "Trust",
+      "url": "https://open.spotify.com/track/2XViHDPiTaggc3PxTt53vz"
+    },
+    {
+      "album": {
         "name": "TUNNEL VISION",
         "url": "https://open.spotify.com/album/7CD7NdEDOMY5Owl9MEzgRw"
       },
@@ -1218,7 +1348,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 248400,
       "name": "Walk Out The Door",
       "url": "https://open.spotify.com/track/7dUOHVWJTCs0EF6VlK4Hks"
@@ -1236,7 +1366,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 185994,
       "name": "wasteland",
       "url": "https://open.spotify.com/track/4nU7tSVX06D8JOZ08oUecQ"

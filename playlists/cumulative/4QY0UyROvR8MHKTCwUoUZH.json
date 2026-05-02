@@ -925,6 +925,28 @@
     },
     {
       "album": {
+        "name": "Society's Face pt. II",
+        "url": "https://open.spotify.com/album/6sZvNzhJDj1g2QiaQhBhWe"
+      },
+      "artists": [
+        {
+          "name": "Steven Charlot",
+          "url": "https://open.spotify.com/artist/6i7OOTSy7DyayuRf6vDcqV"
+        },
+        {
+          "name": "Eva Valery",
+          "url": "https://open.spotify.com/artist/0K95TlYJ2SvJbL3CZ3ui3p"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258742,
+      "name": "Dive (feat. Eva Valery)",
+      "url": "https://open.spotify.com/track/6Rm6wlcvUMmoewgqT6HtGp"
+    },
+    {
+      "album": {
         "name": "Amour Moderne",
         "url": "https://open.spotify.com/album/7iuLdd4y2yUxoafRMHRsGg"
       },

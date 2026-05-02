@@ -1,12 +1,12 @@
 {
   "description": "Los \u00e9xitos m\u00e1s POPulares en espa\u00f1ol los encuentras aqu\u00ed. Foto: Maca y Gero",
-  "num_followers": 68240,
+  "num_followers": 68230,
   "original_name": "Frecuencia Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIXoItrJVK6nSKsBG1CpVmZI/mjs",
+  "snapshot_id": "AAAAAHRfyZn62vc/xzh9SEKhXeuayYYZ",
   "tracks": [
     {
       "added_at": "2026-04-17 04:59:27",
@@ -45,52 +45,24 @@
       "url": "https://open.spotify.com/track/6Og7yuXfE5KyE8dSHU8yap"
     },
     {
-      "added_at": "2026-04-17 15:14:49",
+      "added_at": "2026-05-01 04:59:36",
       "album": {
-        "name": "Las Flores",
-        "url": "https://open.spotify.com/album/4rYkjbia1gDi2BUi4dIY01"
+        "name": "Instrucciones Para Ser Feliz",
+        "url": "https://open.spotify.com/album/3ZtTmeeKnDUWqlQRMmjUtV"
       },
       "artists": [
         {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        }
-      ],
-      "duration_ms": 179980,
-      "name": "Las Flores",
-      "url": "https://open.spotify.com/track/4uRYuPIcuRedAHptdTaF3L"
-    },
-    {
-      "added_at": "2026-03-13 15:22:43",
-      "album": {
-        "name": "Mon Laferte (Spotify Sessions)",
-        "url": "https://open.spotify.com/album/25QXSN5ubMJcqEfMVoOi0x"
-      },
-      "artists": [
+          "name": "Monsieur Perin\u00e9",
+          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
+        },
         {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
         }
       ],
-      "duration_ms": 258967,
-      "name": "Femme Fatale - Spotify Sessions",
-      "url": "https://open.spotify.com/track/5T9WsAmro0KoNqdGE8a19f"
-    },
-    {
-      "added_at": "2026-04-17 04:59:27",
-      "album": {
-        "name": "(enamorada)",
-        "url": "https://open.spotify.com/album/1IMEV21sysi2IQjjOaarS7"
-      },
-      "artists": [
-        {
-          "name": "nic",
-          "url": "https://open.spotify.com/artist/3wvB1waB73AEUljz3Gl5Ph"
-        }
-      ],
-      "duration_ms": 241704,
-      "name": "(ENAMORADA)",
-      "url": "https://open.spotify.com/track/2KUW8OQ0zoE6zTCXx2bYpk"
+      "duration_ms": 179478,
+      "name": "Natural",
+      "url": "https://open.spotify.com/track/3TjJq3dLUien8DfEpxr52i"
     },
     {
       "added_at": "2026-04-21 23:32:30",
@@ -147,26 +119,6 @@
       "duration_ms": 219221,
       "name": "Brinca (Acuario)",
       "url": "https://open.spotify.com/track/7rdgssw9cq1TloP5HbopVx"
-    },
-    {
-      "added_at": "2026-03-26 18:25:59",
-      "album": {
-        "name": "Nunca Me Lo Esper\u00e9",
-        "url": "https://open.spotify.com/album/1PWDNAdAcDUbyMPUHMHGoa"
-      },
-      "artists": [
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        },
-        {
-          "name": "Lasso",
-          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
-        }
-      ],
-      "duration_ms": 165194,
-      "name": "Nunca Me Lo Esper\u00e9",
-      "url": "https://open.spotify.com/track/7gtowQfLM1t2nlS1ZKG6uk"
     },
     {
       "added_at": "2026-03-26 18:25:59",
@@ -327,42 +279,6 @@
       "duration_ms": 175299,
       "name": "Rayo - Spotify Singles",
       "url": "https://open.spotify.com/track/1tz2VG0dWIDy6kTvgwewZA"
-    },
-    {
-      "added_at": "2026-03-26 18:25:59",
-      "album": {
-        "name": "Por Toda la Vida (feat. Jhonathan Chavez, Alejandro Torres, Kenny y Kiara, Ra\u00fal Aparicio & Anarkelys Arias) [Versi\u00f3n Tipiquero]",
-        "url": "https://open.spotify.com/album/0BilFXP1xS9EaZRH6C9DBl"
-      },
-      "artists": [
-        {
-          "name": "Fonseca",
-          "url": "https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP"
-        },
-        {
-          "name": "Jhonathan Chavez",
-          "url": "https://open.spotify.com/artist/6gCY0XIwk511IezQOER1yI"
-        },
-        {
-          "name": "Alejandro Torres",
-          "url": "https://open.spotify.com/artist/2tZQPPO8wMmZXZCcAciMla"
-        },
-        {
-          "name": "Kenny y Kiara",
-          "url": "https://open.spotify.com/artist/02UcRPddRYQDqU44x3Vhcq"
-        },
-        {
-          "name": "Ra\u00fal Aparicio",
-          "url": "https://open.spotify.com/artist/75PGDKvW32YSiTcSHcJmzL"
-        },
-        {
-          "name": "Anarkelys Arias",
-          "url": "https://open.spotify.com/artist/6ZvrytRw1D6iDdKG4fOWyV"
-        }
-      ],
-      "duration_ms": 221935,
-      "name": "Por Toda la Vida (feat. Jhonathan Chavez, Alejandro Torres, Kenny y Kiara, Ra\u00fal Aparicio & Anarkelys Arias) - Versi\u00f3n Tipiquero",
-      "url": "https://open.spotify.com/track/6BVwjfkHaq3oxomEvu1kET"
     },
     {
       "added_at": "2026-03-26 18:25:59",
@@ -673,26 +589,6 @@
       "url": "https://open.spotify.com/track/40Ne4Y9gf5fdZyy7WDZhQu"
     },
     {
-      "added_at": "2026-01-30 04:59:23",
-      "album": {
-        "name": "El Tiempo Que Paso Contigo",
-        "url": "https://open.spotify.com/album/3HUdg4OZNjJAlgYRxrg31A"
-      },
-      "artists": [
-        {
-          "name": "\u00cd\u00f1igo Quintero",
-          "url": "https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm"
-        },
-        {
-          "name": "Besmaya",
-          "url": "https://open.spotify.com/artist/1yk1KXKWdvXVUC1TLAnO97"
-        }
-      ],
-      "duration_ms": 190205,
-      "name": "El Tiempo Que Paso Contigo",
-      "url": "https://open.spotify.com/track/48ikKqBYGbNApD8bEJCamc"
-    },
-    {
       "added_at": "2026-03-26 18:25:59",
       "album": {
         "name": "Maldito Reggaeton",
@@ -783,6 +679,22 @@
       "duration_ms": 192167,
       "name": "Pa\u2019 Qu\u00e9 Volviste?",
       "url": "https://open.spotify.com/track/0CgLpsgOmE0h1M7ILiwAnV"
+    },
+    {
+      "added_at": "2026-05-01 04:59:36",
+      "album": {
+        "name": "KG0516",
+        "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 203506,
+      "name": "EL BARCO",
+      "url": "https://open.spotify.com/track/0MT6qJd7wKlWjH7tP7oWHi"
     },
     {
       "added_at": "2026-01-30 04:59:23",

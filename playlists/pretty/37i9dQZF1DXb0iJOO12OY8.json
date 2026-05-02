@@ -1,6 +1,6 @@
 {
   "description": "\ud83e\udd1d",
-  "num_followers": 210952,
+  "num_followers": 210945,
   "original_name": "ung, dum & lovende",
   "owner": {
     "name": "Spotify",
@@ -515,22 +515,6 @@
     {
       "added_at": "2026-03-26 23:00:13",
       "album": {
-        "name": "En million",
-        "url": "https://open.spotify.com/album/6sfIY03kMNBfCOdyncQnbu"
-      },
-      "artists": [
-        {
-          "name": "Streetboys",
-          "url": "https://open.spotify.com/artist/6R3OPXyzteMubaNClGZZDW"
-        }
-      ],
-      "duration_ms": 146918,
-      "name": "En million",
-      "url": "https://open.spotify.com/track/3g6rsowrMVbPmCtuelXhjR"
-    },
-    {
-      "added_at": "2026-03-26 23:00:13",
-      "album": {
         "name": "La meg leve",
         "url": "https://open.spotify.com/album/6oTl6TkEuWOesP1lM8NDqj"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 125091,
       "name": "La meg leve",
       "url": "https://open.spotify.com/track/14JwY1qZ2Y7AP9OsYb18DO"
+    },
+    {
+      "added_at": "2026-03-26 23:00:13",
+      "album": {
+        "name": "En million",
+        "url": "https://open.spotify.com/album/6sfIY03kMNBfCOdyncQnbu"
+      },
+      "artists": [
+        {
+          "name": "Streetboys",
+          "url": "https://open.spotify.com/artist/6R3OPXyzteMubaNClGZZDW"
+        }
+      ],
+      "duration_ms": 146918,
+      "name": "En million",
+      "url": "https://open.spotify.com/track/3g6rsowrMVbPmCtuelXhjR"
     },
     {
       "added_at": "2026-03-26 23:00:13",
@@ -795,22 +795,6 @@
     {
       "added_at": "2026-03-26 23:00:13",
       "album": {
-        "name": "I Wanna",
-        "url": "https://open.spotify.com/album/3UC6CrM4dVIp8cC2FuGlhx"
-      },
-      "artists": [
-        {
-          "name": "S\u00f8te & Rare",
-          "url": "https://open.spotify.com/artist/2gmup32OWc65WVKSoP4rD8"
-        }
-      ],
-      "duration_ms": 129450,
-      "name": "I Wanna",
-      "url": "https://open.spotify.com/track/6HFHQkAnQrH6noWrDAqCfl"
-    },
-    {
-      "added_at": "2026-03-26 23:00:13",
-      "album": {
         "name": "Gode Tider (feat. Streetboys)",
         "url": "https://open.spotify.com/album/6zQAGKTuKJZ9NfOIV61AjW"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 169142,
       "name": "Gode Tider (feat. Streetboys)",
       "url": "https://open.spotify.com/track/5ZJ79oTFwwaMivX7kJwoJL"
+    },
+    {
+      "added_at": "2026-03-26 23:00:13",
+      "album": {
+        "name": "I Wanna",
+        "url": "https://open.spotify.com/album/3UC6CrM4dVIp8cC2FuGlhx"
+      },
+      "artists": [
+        {
+          "name": "S\u00f8te & Rare",
+          "url": "https://open.spotify.com/artist/2gmup32OWc65WVKSoP4rD8"
+        }
+      ],
+      "duration_ms": 129450,
+      "name": "I Wanna",
+      "url": "https://open.spotify.com/track/6HFHQkAnQrH6noWrDAqCfl"
     },
     {
       "added_at": "2026-03-26 23:00:13",

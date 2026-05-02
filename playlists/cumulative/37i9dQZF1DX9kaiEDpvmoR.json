@@ -3314,7 +3314,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 202453,
       "name": "Give and Take",
       "url": "https://open.spotify.com/track/7vfRnx1IvMPBjL0EqRGaGk"
@@ -3962,6 +3962,28 @@
       "duration_ms": 220346,
       "name": "Hometown",
       "url": "https://open.spotify.com/track/1xk71Mxe7bkdB5kFLJk3x8"
+    },
+    {
+      "album": {
+        "name": "Hon steg p\u00e5 finlandsb\u00e5ten",
+        "url": "https://open.spotify.com/album/2NWC30QTZOUGAbbuBhChfI"
+      },
+      "artists": [
+        {
+          "name": "Anastas\u00eda",
+          "url": "https://open.spotify.com/artist/6mbTUwFJv0MEIhxbkG47JM"
+        },
+        {
+          "name": "Valter Nilsson",
+          "url": "https://open.spotify.com/artist/2MFXMIAlMW2pAyybxRNMln"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197454,
+      "name": "Hon steg p\u00e5 finlandsb\u00e5ten",
+      "url": "https://open.spotify.com/track/1L5gRcjdOBZVrvf9eMr74t"
     },
     {
       "album": {

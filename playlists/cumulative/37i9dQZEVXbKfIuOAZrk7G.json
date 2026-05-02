@@ -15438,7 +15438,7 @@
       ],
       "date_added": "2026-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 180000,
       "name": "Catch Catch (Chinese Ver.)",
       "url": "https://open.spotify.com/track/29rzWFatC5WwBw2YypQEzC"
@@ -42776,7 +42776,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 294260,
       "name": "Impostor Syndrome",
       "url": "https://open.spotify.com/track/33KU9huHP1Lv1UWWVkuTYd"
@@ -48835,6 +48835,24 @@
     },
     {
       "album": {
+        "name": "Le but",
+        "url": "https://open.spotify.com/album/2dteg9SlN9kCSE5v6Z8GHM"
+      },
+      "artists": [
+        {
+          "name": "Loco Locass",
+          "url": "https://open.spotify.com/artist/27n0OqRGBxVZWoQMkf3QHD"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104594,
+      "name": "Le but - Version CH",
+      "url": "https://open.spotify.com/track/373ZGWf421SNGD4xh4WqJM"
+    },
+    {
+      "album": {
         "name": "Jaune (Version originale remasteris\u00e9e)",
         "url": "https://open.spotify.com/album/69OtZSaKCtNJawhqenAJ0U"
       },
@@ -54702,6 +54720,24 @@
       "duration_ms": 194304,
       "name": "MAYBE",
       "url": "https://open.spotify.com/track/1PS9AXcHyldKbcRWhNgjOq"
+    },
+    {
+      "album": {
+        "name": "MAYBE (UKG / SPEED GARAGE)",
+        "url": "https://open.spotify.com/album/6hKZcIC1Li3KO6BnTGQaqa"
+      },
+      "artists": [
+        {
+          "name": "SAiiLOR",
+          "url": "https://open.spotify.com/artist/5q7VoDTI2lyelmWLangje7"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248307,
+      "name": "MAYBE - UKG / SPEED GARAGE",
+      "url": "https://open.spotify.com/track/3OTZPHuI58oQixbk6FojWE"
     },
     {
       "album": {

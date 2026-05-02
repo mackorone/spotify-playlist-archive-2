@@ -867,6 +867,24 @@
     },
     {
       "album": {
+        "name": "64BINKS",
+        "url": "https://open.spotify.com/album/2cpLJdBuFDyaGOYFoRagby"
+      },
+      "artists": [
+        {
+          "name": "NANII",
+          "url": "https://open.spotify.com/artist/1Srwnwnweg4tOoujcFXD1W"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148004,
+      "name": "64BINKS",
+      "url": "https://open.spotify.com/track/24kmCgHeEreDw16npFBbBE"
+    },
+    {
+      "album": {
         "name": "7 Life",
         "url": "https://open.spotify.com/album/63WZ9XBAmdcJtW4P0kuOcv"
       },
@@ -1024,7 +1042,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 152166,
       "name": "Abyssal",
       "url": "https://open.spotify.com/track/1zB8L4MoDYsW8QORNs9ATy"
@@ -1940,7 +1958,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 185960,
       "name": "B!Tch",
       "url": "https://open.spotify.com/track/48Ppng6VGGGJ9WxZgI9Ksi"
@@ -2058,6 +2076,28 @@
       "duration_ms": 195813,
       "name": "Backstage",
       "url": "https://open.spotify.com/track/20Wh8z88uZ2WdySpKxQrl5"
+    },
+    {
+      "album": {
+        "name": "BackupBlessed",
+        "url": "https://open.spotify.com/album/4Fg8UTx8RuA8LFWrALLXwh"
+      },
+      "artists": [
+        {
+          "name": "Monsi",
+          "url": "https://open.spotify.com/artist/0ibqn4D8ETh0ZSmdqGw002"
+        },
+        {
+          "name": "Monzo!",
+          "url": "https://open.spotify.com/artist/3TEuxSjKu6jSSVxB2uroC6"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96000,
+      "name": "BackupBlessed",
+      "url": "https://open.spotify.com/track/6oNK9Uxc9KtUsBKeSo5oY4"
     },
     {
       "album": {
@@ -2298,7 +2338,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 133138,
       "name": "Barillet",
       "url": "https://open.spotify.com/track/63xD9tULBmh4Z4OXHp8SZ5"
@@ -2346,6 +2386,24 @@
       "duration_ms": 205479,
       "name": "Barri\u00e8res",
       "url": "https://open.spotify.com/track/3C4wnKdUcRx0grFcZtuB0K"
+    },
+    {
+      "album": {
+        "name": "BASSE COUTURE",
+        "url": "https://open.spotify.com/album/2zd2bhbTdKdICkMGg3wZLc"
+      },
+      "artists": [
+        {
+          "name": "Koriass",
+          "url": "https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171106,
+      "name": "BASSE COUTURE",
+      "url": "https://open.spotify.com/track/3aCa5AuUlH73Zie9nCcbbO"
     },
     {
       "album": {
@@ -2486,6 +2544,24 @@
       "duration_ms": 194475,
       "name": "Belle",
       "url": "https://open.spotify.com/track/1XBTbrFqzkb8eQpnqcYGsm"
+    },
+    {
+      "album": {
+        "name": "Ben 10",
+        "url": "https://open.spotify.com/album/03HGNS80T6JcVYZiRtMm2y"
+      },
+      "artists": [
+        {
+          "name": "SMS",
+          "url": "https://open.spotify.com/artist/4j63HnohVGYEDn2K8HmhcW"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144071,
+      "name": "Ben 10",
+      "url": "https://open.spotify.com/track/57ug8uW3nsqvYpdws0I1Xp"
     },
     {
       "album": {
@@ -3358,7 +3434,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 150532,
       "name": "Broski",
       "url": "https://open.spotify.com/track/3r14bBQoLhnbiWPjki1QEa"
@@ -6496,7 +6572,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 129523,
       "name": "DONT KNOW",
       "url": "https://open.spotify.com/track/7ER3cWs3Mi99H5CCVHCdNv"
@@ -6616,7 +6692,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 108224,
       "name": "DOUBLE CERISE",
       "url": "https://open.spotify.com/track/02pI6SP5dx2gEC6qg3nduF"
@@ -8596,7 +8672,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 90352,
       "name": "Frozen Freestyle",
       "url": "https://open.spotify.com/track/7G6YnAwpd7rRuci2BUTVlm"
@@ -9194,7 +9270,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 117928,
       "name": "Gofundme",
       "url": "https://open.spotify.com/track/1eW1HkYGLpwqQ3CW1aa9Of"
@@ -9576,7 +9652,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 107664,
       "name": "HIER",
       "url": "https://open.spotify.com/track/5RYU3VYtWqoG6apobXQmZR"
@@ -10698,7 +10774,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 129943,
       "name": "J'AI L'DOUA",
       "url": "https://open.spotify.com/track/4i0SH8pklpullK5hz0RImf"
@@ -11472,7 +11548,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 152639,
       "name": "Khalass",
       "url": "https://open.spotify.com/track/3i6wxSnFxndFdbUlckaUBv"
@@ -11648,6 +11724,32 @@
       "duration_ms": 194597,
       "name": "KX (avec Souldia)",
       "url": "https://open.spotify.com/track/7FJ4bogwvTEa9SqTEV5LV2"
+    },
+    {
+      "album": {
+        "name": "L'Am\u00e9rique pleure encore",
+        "url": "https://open.spotify.com/album/4fb3C18Z675ZCTbAOHlMNd"
+      },
+      "artists": [
+        {
+          "name": "DJ White Socks",
+          "url": "https://open.spotify.com/artist/0j0eSYnIP4NmdBRRMRvdUf"
+        },
+        {
+          "name": "KaMa",
+          "url": "https://open.spotify.com/artist/3rblgHbQPHtt6CKgR9ykrH"
+        },
+        {
+          "name": "Nawfal",
+          "url": "https://open.spotify.com/artist/0YTJRguouZtIVP0xFGLfkr"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "L'Am\u00e9rique pleure encore",
+      "url": "https://open.spotify.com/track/1Nh8FoOIkARxmIgU7gOLsP"
     },
     {
       "album": {
@@ -12809,6 +12911,28 @@
     },
     {
       "album": {
+        "name": "LITT\u00c9RALEMENT",
+        "url": "https://open.spotify.com/album/4R6wuwQ5uyII8CTAZSfS9C"
+      },
+      "artists": [
+        {
+          "name": "Woody",
+          "url": "https://open.spotify.com/artist/1YhXudDeTVvPrnuHaXiUDy"
+        },
+        {
+          "name": "Guessmi",
+          "url": "https://open.spotify.com/artist/1iPrqRhbEuH0BRuIv16zv2"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "LITT\u00c9RALEMENT",
+      "url": "https://open.spotify.com/track/2he65BbozStaAsrV6XBTg2"
+    },
+    {
+      "album": {
         "name": "LIVIN IT",
         "url": "https://open.spotify.com/album/3KNDEnwXpBuTM92uKUak4F"
       },
@@ -13308,7 +13432,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 134118,
       "name": "Ma r\u00e9alit\u00e9",
       "url": "https://open.spotify.com/track/2fIukPQSldwrBlzwACakSX"
@@ -13326,7 +13450,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 177857,
       "name": "mabad",
       "url": "https://open.spotify.com/track/1Hn57cjATQkdDQUfOsVj2Q"
@@ -13660,7 +13784,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 174576,
       "name": "MASERATI",
       "url": "https://open.spotify.com/track/38PVzMNGHpSE0Ttj7JSNiA"
@@ -14146,7 +14270,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 142093,
       "name": "MOCCIONE",
       "url": "https://open.spotify.com/track/58xbUCkduFUh5spKOVOTfc"
@@ -15110,6 +15234,24 @@
       "duration_ms": 263333,
       "name": "Nervous 2",
       "url": "https://open.spotify.com/track/6flgYzj4xcc59TV5aXOxvo"
+    },
+    {
+      "album": {
+        "name": "Never Ever",
+        "url": "https://open.spotify.com/album/0AZSnbgPcIwA535ttKPMKm"
+      },
+      "artists": [
+        {
+          "name": "Basics",
+          "url": "https://open.spotify.com/artist/7IrQ9vyhsrVnka6Q9svwqD"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105909,
+      "name": "Never Ever",
+      "url": "https://open.spotify.com/track/2YLANbWfsNfeX4wYilTN4l"
     },
     {
       "album": {
@@ -16246,7 +16388,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 228373,
       "name": "P.O.V",
       "url": "https://open.spotify.com/track/5UJuviLO86xENvj0LynnZo"
@@ -17812,7 +17954,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 178448,
       "name": "PSILOCYBINE",
       "url": "https://open.spotify.com/track/5YKDkZKHrWF2AjVEhaH8EC"
@@ -19284,7 +19426,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 164571,
       "name": "Rush",
       "url": "https://open.spotify.com/track/3eDJwfuOTkoKhAJ9iKlEhn"

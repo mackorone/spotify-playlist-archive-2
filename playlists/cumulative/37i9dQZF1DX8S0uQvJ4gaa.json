@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "Break them in, wear them out. Cover: Shaboozey",
+  "description": "Break them in, wear them out. Cover: ERNEST",
   "name": "New Boots",
   "tracks": [
     {
@@ -1192,7 +1192,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 166357,
       "name": "After Midnight - feat. Tyler Hubbard",
       "url": "https://open.spotify.com/track/6SDWFQJxKnwjYZuxWp2bFj"
@@ -4275,6 +4275,24 @@
     },
     {
       "album": {
+        "name": "Bet On That",
+        "url": "https://open.spotify.com/album/3FHP2epbEekzQgGe3jHegf"
+      },
+      "artists": [
+        {
+          "name": "Blake Whiten",
+          "url": "https://open.spotify.com/artist/1BjlNhp6EsDG0UMroeJbRM"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190282,
+      "name": "Bet On That",
+      "url": "https://open.spotify.com/track/7DOqRPa9Z5jEHRdo3zyLPo"
+    },
+    {
+      "album": {
         "name": "Bet This Town",
         "url": "https://open.spotify.com/album/3DDnpckmUdeYwQZtoMeZDF"
       },
@@ -4968,7 +4986,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 192026,
       "name": "Blame Texas",
       "url": "https://open.spotify.com/track/7qhItbDMoTlq3Dyh1Qh1Ch"
@@ -5404,7 +5422,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 165597,
       "name": "Born To Die",
       "url": "https://open.spotify.com/track/2OYL3iPdImeS7qMmV2gOsX"
@@ -5982,7 +6000,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 182124,
       "name": "Break Me",
       "url": "https://open.spotify.com/track/3HBmNiiElO4RBDESItNwgi"
@@ -8498,7 +8516,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 176301,
       "name": "Colorblind",
       "url": "https://open.spotify.com/track/07EXZbuHqjEYo9qXzENOLS"
@@ -10488,7 +10506,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 197986,
       "name": "Deep Blue",
       "url": "https://open.spotify.com/track/19z7vqa3x0LOGPCFRIv6QF"
@@ -12480,6 +12498,24 @@
       "duration_ms": 240173,
       "name": "Drive",
       "url": "https://open.spotify.com/track/5d6CGmi7gCLHVkd8njXwKB"
+    },
+    {
+      "album": {
+        "name": "Drive All Night",
+        "url": "https://open.spotify.com/album/2lqhjwk4dHRasmw7eZfh0c"
+      },
+      "artists": [
+        {
+          "name": "Wyatt Flores",
+          "url": "https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170620,
+      "name": "Drive All Night",
+      "url": "https://open.spotify.com/track/2PJ6KvI5cnxVfSoNZ4hvUy"
     },
     {
       "album": {
@@ -20287,6 +20323,24 @@
     },
     {
       "album": {
+        "name": "Middle of Nowhere",
+        "url": "https://open.spotify.com/album/269NuTU0YVTRAmvI8uW6Vr"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188767,
+      "name": "Hell On Me",
+      "url": "https://open.spotify.com/track/3VeiX8rGAwlFMcqV0ScviA"
+    },
+    {
+      "album": {
         "name": "Hell or High Water (From Twisters: The Album)",
         "url": "https://open.spotify.com/album/75bF2ZeHewzInYro8m5IYE"
       },
@@ -20342,6 +20396,24 @@
       "duration_ms": 175840,
       "name": "Hell Yeah",
       "url": "https://open.spotify.com/track/0BkzrrQUzJhCAFk3Pq7g29"
+    },
+    {
+      "album": {
+        "name": "Hello Lonesome",
+        "url": "https://open.spotify.com/album/5Pgw3QdJQwEcMeNVUWeh0g"
+      },
+      "artists": [
+        {
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178733,
+      "name": "Hello Lonesome",
+      "url": "https://open.spotify.com/track/47qfqPgCVKvQ7QEn34uK59"
     },
     {
       "album": {
@@ -23605,6 +23677,24 @@
     },
     {
       "album": {
+        "name": "I Know I Know",
+        "url": "https://open.spotify.com/album/6vt7I2vcCWzmo8ExiTahAA"
+      },
+      "artists": [
+        {
+          "name": "STELLA LEFTY",
+          "url": "https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159210,
+      "name": "I Know I Know",
+      "url": "https://open.spotify.com/track/1Ot6QuJzCY66UdLK1ci3sc"
+    },
+    {
+      "album": {
         "name": "I Know What I Want",
         "url": "https://open.spotify.com/album/2bZA4YU0fIB2XZ1NBXfnxR"
       },
@@ -23800,6 +23890,24 @@
       "duration_ms": 204560,
       "name": "I Love You More",
       "url": "https://open.spotify.com/track/31KrrOzf8FgoTJa7djzdol"
+    },
+    {
+      "album": {
+        "name": "i loved you then",
+        "url": "https://open.spotify.com/album/7nocSTYeEUYkOXtHu5EIcf"
+      },
+      "artists": [
+        {
+          "name": "Alana Springsteen",
+          "url": "https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222933,
+      "name": "i loved you then",
+      "url": "https://open.spotify.com/track/6VT52WzaQT5oeZpFWv2q1H"
     },
     {
       "album": {
@@ -29158,7 +29266,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 189253,
       "name": "love me anyway",
       "url": "https://open.spotify.com/track/1EX7CuGAobscBmXtQej5nO"
@@ -31190,7 +31298,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 156973,
       "name": "Middle of Nowhere",
       "url": "https://open.spotify.com/track/0qWoHKyJU7xA29CYkeq6ME"
@@ -33242,7 +33350,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 237679,
       "name": "Never Comin' Back",
       "url": "https://open.spotify.com/track/1wQaPoRJ0Ip6MtNxTlA3SY"
@@ -41222,7 +41330,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 124001,
       "name": "Slow Dancin'",
       "url": "https://open.spotify.com/track/647YdG7a4EkucGiyDkfBRY"
@@ -49229,6 +49337,28 @@
     },
     {
       "album": {
+        "name": "Two Steppin\u2019 (feat. Adrien Nunez)",
+        "url": "https://open.spotify.com/album/3TFX3h1hQwlkMoQ0ZCH16W"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Adrien Nunez",
+          "url": "https://open.spotify.com/artist/6R2UojZrKYDr0RiP9jROAJ"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139459,
+      "name": "Two Steppin\u2019 (feat. Adrien Nunez)",
+      "url": "https://open.spotify.com/track/6fOMrE0rA2XMbSaO3Wku0h"
+    },
+    {
+      "album": {
         "name": "Two Things",
         "url": "https://open.spotify.com/album/2zsmwdFND80TtWAYkrN6SA"
       },
@@ -49908,6 +50038,24 @@
       "duration_ms": 150133,
       "name": "Wannabe",
       "url": "https://open.spotify.com/track/0JeY4GvsnwccrpxqPbdnqC"
+    },
+    {
+      "album": {
+        "name": "Wannabe",
+        "url": "https://open.spotify.com/album/34gdi3XOhjwXejLBO4ldJ8"
+      },
+      "artists": [
+        {
+          "name": "Gavin Adcock",
+          "url": "https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167017,
+      "name": "Wannabe",
+      "url": "https://open.spotify.com/track/3aLpfXqpQPUAVvlvxJhFnD"
     },
     {
       "album": {
@@ -51385,6 +51533,24 @@
     },
     {
       "album": {
+        "name": "What Took You So Long",
+        "url": "https://open.spotify.com/album/44OwZLCNWVGImANHMiTt6C"
+      },
+      "artists": [
+        {
+          "name": "Jacob Hackworth",
+          "url": "https://open.spotify.com/artist/4uXRM5wXBQkzYXPannKV66"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187916,
+      "name": "What Took You So Long",
+      "url": "https://open.spotify.com/track/25pkSzUe55sUuzelBa70jD"
+    },
+    {
+      "album": {
         "name": "What Would You Do?",
         "url": "https://open.spotify.com/album/1moDPEq3gWL5V2WDsFydS4"
       },
@@ -51566,6 +51732,24 @@
       "duration_ms": 175652,
       "name": "Whatever You Do",
       "url": "https://open.spotify.com/track/355tAo2nEqL74FFvTlwXAR"
+    },
+    {
+      "album": {
+        "name": "Deep Blue",
+        "url": "https://open.spotify.com/album/39W050byCSpi9veysN3gax"
+      },
+      "artists": [
+        {
+          "name": "ERNEST",
+          "url": "https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217493,
+      "name": "What\u2019s A Little Rain",
+      "url": "https://open.spotify.com/track/36yr7OTy3SyecMbSIYWlPC"
     },
     {
       "album": {

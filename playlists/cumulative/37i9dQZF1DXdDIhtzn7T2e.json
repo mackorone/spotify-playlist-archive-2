@@ -291,6 +291,24 @@
     },
     {
       "album": {
+        "name": "Drag, Queen",
+        "url": "https://open.spotify.com/album/40yQOWxxcJla2npcVSiBLP"
+      },
+      "artists": [
+        {
+          "name": "Abbie Callahan",
+          "url": "https://open.spotify.com/artist/6XwNHIhBOIQCoD7zAR2Xhm"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151946,
+      "name": "Drag, Queen",
+      "url": "https://open.spotify.com/track/6d9D2MSdnxha0mkcJxXb1w"
+    },
+    {
+      "album": {
         "name": "Easy on the Trigger",
         "url": "https://open.spotify.com/album/3ZyvR4UtdxgvNx9gllISB9"
       },
@@ -947,6 +965,24 @@
     },
     {
       "album": {
+        "name": "Grossly Aware",
+        "url": "https://open.spotify.com/album/1i8zIVZoRTC5GEM2ZG1UWE"
+      },
+      "artists": [
+        {
+          "name": "Abbie Callahan",
+          "url": "https://open.spotify.com/artist/6XwNHIhBOIQCoD7zAR2Xhm"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145933,
+      "name": "Marry Jane",
+      "url": "https://open.spotify.com/track/1E6XRmQ1Tu0YrLJ7gm6pXc"
+    },
+    {
+      "album": {
         "name": "Is It Just Me?",
         "url": "https://open.spotify.com/album/0wlwXhATsyfP9ZjqOCkTqi"
       },
@@ -1200,6 +1236,24 @@
       "duration_ms": 214973,
       "name": "Ready to Roll",
       "url": "https://open.spotify.com/track/5nw7N4ipO6Y75DXMdBpS5p"
+    },
+    {
+      "album": {
+        "name": "Middle of Nowhere",
+        "url": "https://open.spotify.com/album/269NuTU0YVTRAmvI8uW6Vr"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213801,
+      "name": "Rhinestoned",
+      "url": "https://open.spotify.com/track/30CgEnmJ31CIrRtTEhX41I"
     },
     {
       "album": {

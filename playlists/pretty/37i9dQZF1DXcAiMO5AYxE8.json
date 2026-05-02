@@ -1,6 +1,6 @@
 {
   "description": "All the best soul disco sounds for getting down.",
-  "num_followers": 547825,
+  "num_followers": 547876,
   "original_name": "Soulful Disco",
   "owner": {
     "name": "Spotify",
@@ -481,6 +481,22 @@
       "url": "https://open.spotify.com/track/7AswIMJtp31Y62pgWFoQJI"
     },
     {
+      "added_at": "2020-04-14 18:41:41",
+      "album": {
+        "name": "Roy Ayers - Universal Masters",
+        "url": "https://open.spotify.com/album/5xO3QmYfDvMSR5UQtlXmy5"
+      },
+      "artists": [
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        }
+      ],
+      "duration_ms": 237533,
+      "name": "Running Away",
+      "url": "https://open.spotify.com/track/42kFGNfCDZQWnql4rSiKhT"
+    },
+    {
       "added_at": "2021-07-04 17:34:32",
       "album": {
         "name": "Time Is Slipping Away",
@@ -499,22 +515,6 @@
       "duration_ms": 274226,
       "name": "I'll Never Forget (My Favorite Disco)",
       "url": "https://open.spotify.com/track/7KOS9ptdLAdy3hJxuvpHfc"
-    },
-    {
-      "added_at": "2020-04-14 18:41:41",
-      "album": {
-        "name": "Roy Ayers - Universal Masters",
-        "url": "https://open.spotify.com/album/5xO3QmYfDvMSR5UQtlXmy5"
-      },
-      "artists": [
-        {
-          "name": "Roy Ayers",
-          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
-        }
-      ],
-      "duration_ms": 237533,
-      "name": "Running Away",
-      "url": "https://open.spotify.com/track/42kFGNfCDZQWnql4rSiKhT"
     },
     {
       "added_at": "2020-04-14 18:41:41",
@@ -695,22 +695,6 @@
     {
       "added_at": "2020-04-14 18:41:41",
       "album": {
-        "name": "Disco Party",
-        "url": "https://open.spotify.com/album/7Kneel529obA7Qd9glamb4"
-      },
-      "artists": [
-        {
-          "name": "Eruption",
-          "url": "https://open.spotify.com/artist/3R6f1aBWwde7ZqGv7hf4dY"
-        }
-      ],
-      "duration_ms": 185733,
-      "name": "I Can't Stand the Rain",
-      "url": "https://open.spotify.com/track/7n6c2YLAejUpmfuXAVWIQR"
-    },
-    {
-      "added_at": "2020-04-14 18:41:41",
-      "album": {
         "name": "The Best Year Of My Life: 1981G010004775674D",
         "url": "https://open.spotify.com/album/34psLr9vLAgw49ehAgo6SJ"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 233040,
       "name": "Funkin' for Jamaica",
       "url": "https://open.spotify.com/track/1es1B258zAVeXx6uzksrJd"
+    },
+    {
+      "added_at": "2020-04-14 18:41:41",
+      "album": {
+        "name": "Disco Party",
+        "url": "https://open.spotify.com/album/7Kneel529obA7Qd9glamb4"
+      },
+      "artists": [
+        {
+          "name": "Eruption",
+          "url": "https://open.spotify.com/artist/3R6f1aBWwde7ZqGv7hf4dY"
+        }
+      ],
+      "duration_ms": 185733,
+      "name": "I Can't Stand the Rain",
+      "url": "https://open.spotify.com/track/7n6c2YLAejUpmfuXAVWIQR"
     },
     {
       "added_at": "2020-04-14 18:41:41",

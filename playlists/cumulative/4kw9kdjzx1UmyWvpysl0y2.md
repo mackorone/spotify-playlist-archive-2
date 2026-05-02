@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,221 songs - 2 day 19 hr 57 min
+1,222 songs - 2 day 20 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [Bones](https://open.spotify.com/track/1OfVQ5LYzgpTahnGlLoZti) | [Mr\. Bill](https://open.spotify.com/artist/5JJclMMPi2YgEKjJY9AjbB), [Dirt Monkey](https://open.spotify.com/artist/5dNqUwGTZcQQ09ecTKkCGH), [Ellika](https://open.spotify.com/artist/1GStVlUvAf7VkKbQ616ht0) | [Bones](https://open.spotify.com/album/10xKXdt2akO3PWSAaaQ9mb) | 4:26 | 2024-01-22 | 2024-04-11 |
 | [bones](https://open.spotify.com/track/0zfVNW3Uh0tNgZY2YEKhYB) | [oncor](https://open.spotify.com/artist/63xSD9oz9Y7hM7HXCSEydX), [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [bones](https://open.spotify.com/album/035rVrXDB5G9Lv2isRtqeT) | 2:32 | 2025-08-12 | 2025-11-01 |
 | [BOOMBA](https://open.spotify.com/track/5LHRP4KmkSMCqrGbLUGaTo) | [Psy Trance Mafia](https://open.spotify.com/artist/6AJiVMljdDi2Z1GF43m60q), [Infected Mushroom](https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI), [Blastoyz](https://open.spotify.com/artist/6WLP1sraOcF3Gaxp7xBa4p) | [Breathe Underwater](https://open.spotify.com/album/3w08iS8VSt0YarhcDW0lNq) | 6:33 | 2024-12-06 | 2025-03-19 |
+| [Booyah](https://open.spotify.com/track/5uXm1c71ygZ9aJtALZKMbS) | [Primate](https://open.spotify.com/artist/37C3qTCakuZc3EjTari9lU) | [Booyah](https://open.spotify.com/album/7MuBc6xFMZFEEAV3MpYv0g) | 2:55 | 2026-05-01 |  |
 | [BOUNCE](https://open.spotify.com/track/1lkkzUXh0SNetgRf7YHu42) | [SPORTMODE](https://open.spotify.com/artist/1kp5El0IY8pR8AGgVtgFhK) | [Woodwinds](https://open.spotify.com/album/5fwI8h7ryeNmmi1xs0qSyZ) | 3:29 | 2025-09-15 | 2025-12-13 |
 | [BOUNCE](https://open.spotify.com/track/0x4k0Zc1XDU3bJj5zuxRUi) | [THIRST](https://open.spotify.com/artist/48jyKugtgYM5RdzwF7zKde) | [BOUNCE](https://open.spotify.com/album/60HooEaxdydmVDo1QALKX9) | 1:44 | 2024-01-10 | 2024-04-03 |
 | [Brain Busta](https://open.spotify.com/track/4Oi1APaShpeAtvue5f3VAK) | [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP), [Cyclops](https://open.spotify.com/artist/1vOTVnnyLvVTeuwrZLghCN) | [Brain Busta](https://open.spotify.com/album/3wSDZ6NTXZXwnf7PToXHP1) | 2:48 | 2024-12-04 | 2025-03-13 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "De la musique qu\u00e9b\u00e9coise pour tous les go\u00fbts.  Photo: H\u00e9ron",
+  "description": "De la musique qu\u00e9b\u00e9coise pour tous les go\u00fbts.  Photo: La Bronze",
   "name": "Qu\u00e9b\u00e9cois Contemporain",
   "tracks": [
     {
@@ -319,6 +319,24 @@
     },
     {
       "album": {
+        "name": "Je ne t'aime plus",
+        "url": "https://open.spotify.com/album/6yKbg6bRr8Aj3m4GzQwAhp"
+      },
+      "artists": [
+        {
+          "name": "Junes",
+          "url": "https://open.spotify.com/artist/7gVX2tLip13N0qGifgsWQl"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143493,
+      "name": "Attends-moi pas",
+      "url": "https://open.spotify.com/track/5UV95aJxscC7hP62Hrlvat"
+    },
+    {
+      "album": {
         "name": "Treize miniatures",
         "url": "https://open.spotify.com/album/06All3BqxHCltO0QXzF55F"
       },
@@ -454,6 +472,24 @@
       "duration_ms": 160013,
       "name": "Avant qu'il soit trop tard",
       "url": "https://open.spotify.com/track/2y5sRb7a6wTo2pw3QCEbv8"
+    },
+    {
+      "album": {
+        "name": "xx",
+        "url": "https://open.spotify.com/album/3V2SqXAVuFh6pgDgulqcnt"
+      },
+      "artists": [
+        {
+          "name": "Bonne nuit, ch\u00e9rie",
+          "url": "https://open.spotify.com/artist/7ug7YjtHvqyA1QY2tRfjC9"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188546,
+      "name": "Avant que l'encre",
+      "url": "https://open.spotify.com/track/4VChC77Uu7EGDYpPmfykiu"
     },
     {
       "album": {
@@ -820,6 +856,24 @@
       "duration_ms": 196572,
       "name": "C'est pire et c'est mieux",
       "url": "https://open.spotify.com/track/2nQSmjPsB6EmGUSTGf5AlF"
+    },
+    {
+      "album": {
+        "name": "C'est trooo0O0oooop",
+        "url": "https://open.spotify.com/album/2iyNPqGdwgvwRDgtjPZMLi"
+      },
+      "artists": [
+        {
+          "name": "La Bronze",
+          "url": "https://open.spotify.com/artist/3yxkBjohRhCuyo2sn9IjwK"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249132,
+      "name": "C'est trooo0O0oooop",
+      "url": "https://open.spotify.com/track/2p8gElh8kx1SvCbr3SHZmT"
     },
     {
       "album": {
@@ -2308,7 +2362,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 176000,
       "name": "Fame and Fortune",
       "url": "https://open.spotify.com/track/4Dc2wdGDO4qFwxzWYV0DkP"
@@ -2748,7 +2802,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 255951,
       "name": "Hope/Home",
       "url": "https://open.spotify.com/track/2JPx92xJ8ezddJz4gueCZO"
@@ -3773,6 +3827,24 @@
     },
     {
       "album": {
+        "name": "La femme invisible",
+        "url": "https://open.spotify.com/album/0feoCmQi4EcOsX9aXRYqMh"
+      },
+      "artists": [
+        {
+          "name": "Victorella",
+          "url": "https://open.spotify.com/artist/5aKOpGunZT9FMzufHYekUW"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282490,
+      "name": "La femme invisible",
+      "url": "https://open.spotify.com/track/7mwY0cqyfGdNvAQyvFvBb6"
+    },
+    {
+      "album": {
         "name": "Pub Royal",
         "url": "https://open.spotify.com/album/2aQeozGyIhuzJo1q0RHF6U"
       },
@@ -4361,6 +4433,24 @@
     },
     {
       "album": {
+        "name": "Les fleurs pr\u00e9f\u00e9r\u00e9es de ma m\u00e8re",
+        "url": "https://open.spotify.com/album/1czJ4asb8TyiIBkt3pf1mb"
+      },
+      "artists": [
+        {
+          "name": "Mantisse",
+          "url": "https://open.spotify.com/artist/20iPdUZMRpNULtRfv9mJP7"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248055,
+      "name": "Le nom d'un chien",
+      "url": "https://open.spotify.com/track/7ismMqSHoT0ARvSKO7e8sc"
+    },
+    {
+      "album": {
         "name": "Le pied cass\u00e9",
         "url": "https://open.spotify.com/album/5wi8duwtaVvcnVHgkzlk3C"
       },
@@ -4676,7 +4766,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 162016,
       "name": "Les grands espaces",
       "url": "https://open.spotify.com/track/3nzEEdWjKtlHCz4xKWZFfa"
@@ -5062,7 +5152,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 207333,
       "name": "Magicienne, Vol. 2",
       "url": "https://open.spotify.com/track/4vpjHwMigWK8RcF80poTuS"
@@ -5138,7 +5228,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 291034,
       "name": "mauvais sort",
       "url": "https://open.spotify.com/track/1UXX5CQZNYE46PUkTpYTh2"
@@ -5720,7 +5810,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 180205,
       "name": "November",
       "url": "https://open.spotify.com/track/5KvvoUGjQbhvxXcy4uGv92"
@@ -7031,6 +7121,24 @@
     },
     {
       "album": {
+        "name": "Sans se retourner",
+        "url": "https://open.spotify.com/album/3lzRccjwAm2FEWW3vSoGvO"
+      },
+      "artists": [
+        {
+          "name": "\u00c9mile Dub\u00e9",
+          "url": "https://open.spotify.com/artist/5Qa7xj31koSb4yYlSaVz8z"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174653,
+      "name": "Sans se retourner",
+      "url": "https://open.spotify.com/track/17cIgW5aZocFMlkDGauBPH"
+    },
+    {
+      "album": {
         "name": "Sarah",
         "url": "https://open.spotify.com/album/6Pctlav5tWkidNJ9nOvYiU"
       },
@@ -7338,6 +7446,24 @@
       "duration_ms": 211928,
       "name": "Sought",
       "url": "https://open.spotify.com/track/36N1P6noHNFK42IOh6YqnH"
+    },
+    {
+      "album": {
+        "name": "Sourire \u00e0 la mort",
+        "url": "https://open.spotify.com/album/2iRdOvRf7DZj4Zy7e9VrkX"
+      },
+      "artists": [
+        {
+          "name": "Charles Antoine",
+          "url": "https://open.spotify.com/artist/38H3UjkRnbNjPVPZhH8LCi"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205077,
+      "name": "Sourire \u00e0 la mort",
+      "url": "https://open.spotify.com/track/6dIfDJO9njww2V7YCz5X7p"
     },
     {
       "album": {

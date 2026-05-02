@@ -1,13 +1,29 @@
 {
-  "description": "The best of modern blues rock. Cover: The Sheepdogs",
-  "num_followers": 263094,
+  "description": "The best of modern blues rock. Cover: The Black Keys",
+  "num_followers": 263164,
   "original_name": "Modern Blues Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAExrqyqXgtPgG71r7uFn8yK50gIg",
+  "snapshot_id": "AAAAAAdMdDKb2t2tAXD7fjVZA31gAap6",
   "tracks": [
+    {
+      "added_at": "2026-05-01 04:00:44",
+      "album": {
+        "name": "Peaches!",
+        "url": "https://open.spotify.com/album/4wl0lStE236Kc7pJ7eTpgq"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 223325,
+      "name": "She Does It Right",
+      "url": "https://open.spotify.com/track/1pO3dqvwGvCQzRQV67xfZd"
+    },
     {
       "added_at": "2026-04-17 04:01:02",
       "album": {
@@ -183,22 +199,6 @@
       "duration_ms": 200026,
       "name": "When the Love is Gone",
       "url": "https://open.spotify.com/track/5iRv1aH4eNai45KfhjtJ6n"
-    },
-    {
-      "added_at": "2026-03-20 15:56:34",
-      "album": {
-        "name": "You Got to Lose",
-        "url": "https://open.spotify.com/album/5SZ3YBfMXtsMI81OZiXJz1"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 197646,
-      "name": "You Got to Lose",
-      "url": "https://open.spotify.com/track/5YrYpEPqwBymz2VgbIYGik"
     },
     {
       "added_at": "2026-03-20 15:56:34",

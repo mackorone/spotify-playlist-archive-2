@@ -2,7 +2,7 @@
 
 ### [Every UK Number One: 2026](https://open.spotify.com/playlist/37i9dQZF1DXdc6Ams1C6tL)
 
-> Olivia Rodrigo scores her 4th UK number one single ❤️‍🩹
+> Sam Fender and Olivia Dean are back at \#1 🐎
 
 48 songs - 2 hr 52 min
 

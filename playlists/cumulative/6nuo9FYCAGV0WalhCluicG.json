@@ -110,7 +110,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 171914,
       "name": "Active",
       "url": "https://open.spotify.com/track/0p5VYm5cWWMpn34C0lSG4T"
@@ -306,7 +306,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 176000,
       "name": "Belly",
       "url": "https://open.spotify.com/track/3vn014QextPOcH3jyhfFiE"
@@ -328,7 +328,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 113142,
       "name": "Better Days (feat. JUMADIBA)",
       "url": "https://open.spotify.com/track/0vBoj1HfKDyB4SGQJPPUEK"
@@ -643,6 +643,24 @@
     },
     {
       "album": {
+        "name": "CHAMPIONSHIP",
+        "url": "https://open.spotify.com/album/5J8utB63Rkul1ziqsgjK2q"
+      },
+      "artists": [
+        {
+          "name": "M Huncho",
+          "url": "https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122159,
+      "name": "CHAMPIONSHIP",
+      "url": "https://open.spotify.com/track/5oBW8J1xSX50w6yKWQGRql"
+    },
+    {
+      "album": {
         "name": "The Boy Who Played the Harp",
         "url": "https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl"
       },
@@ -833,6 +851,24 @@
     },
     {
       "album": {
+        "name": "DEM MAN",
+        "url": "https://open.spotify.com/album/2tbTYKRjQigIvWaAZAXoge"
+      },
+      "artists": [
+        {
+          "name": "TR Gobrazy",
+          "url": "https://open.spotify.com/artist/2bWovm0DNeEkCevemRHN0C"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118356,
+      "name": "DEM MAN",
+      "url": "https://open.spotify.com/track/1oHfbYJxiJ87kidsNiuBmY"
+    },
+    {
+      "album": {
         "name": "Dope Boyz",
         "url": "https://open.spotify.com/album/4QdUOiBbK2FXMhYw6NhJwK"
       },
@@ -1012,7 +1048,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 181500,
       "name": "FIRST CLASS LANDING.",
       "url": "https://open.spotify.com/track/3wS3axElohYztqGgvwxJX3"
@@ -1060,7 +1096,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 155883,
       "name": "Forever (feat. Shallipopi)",
       "url": "https://open.spotify.com/track/0MAUM5bJIV77liYMlLLf08"
@@ -1729,6 +1765,32 @@
     },
     {
       "album": {
+        "name": "Rebel",
+        "url": "https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug"
+      },
+      "artists": [
+        {
+          "name": "EsDeeKid",
+          "url": "https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy"
+        },
+        {
+          "name": "fakemink",
+          "url": "https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi"
+        },
+        {
+          "name": "Rico Ace",
+          "url": "https://open.spotify.com/artist/4sY0lTSkfDMMt27cVvFT6o"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111157,
+      "name": "LV Sandals",
+      "url": "https://open.spotify.com/track/5uz5v1hRZLjNGatcPtOWUv"
+    },
+    {
+      "album": {
         "name": "MEGAN",
         "url": "https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8"
       },
@@ -1762,7 +1824,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 188387,
       "name": "Manny",
       "url": "https://open.spotify.com/track/3Eecd74H22V1TPURmJ6Xm3"
@@ -1934,6 +1996,28 @@
       "duration_ms": 145661,
       "name": "NKITA (feat. Fimiguerrero)",
       "url": "https://open.spotify.com/track/0ZTM2WCM4fAOwmYtG9pbnm"
+    },
+    {
+      "album": {
+        "name": "SOUTH LDN LOVER GIRL",
+        "url": "https://open.spotify.com/album/6NgizYchTMIgAtm5UU5zqm"
+      },
+      "artists": [
+        {
+          "name": "Ms Banks",
+          "url": "https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC"
+        },
+        {
+          "name": "Tiggs Da Author",
+          "url": "https://open.spotify.com/artist/0S2dfczvN0sOxEw559snHT"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202502,
+      "name": "NO LOVE",
+      "url": "https://open.spotify.com/track/6TFk7Htqf0AauDfeFhCLIo"
     },
     {
       "album": {
@@ -2200,7 +2284,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 109759,
       "name": "Phantom",
       "url": "https://open.spotify.com/track/57Z6TJCTMACXxdrcwZ3Zvf"
@@ -2244,6 +2328,24 @@
       "duration_ms": 168157,
       "name": "Pull Up (feat. Backroad Gee)",
       "url": "https://open.spotify.com/track/0t9kZenG9DPNMyo2eBKwFY"
+    },
+    {
+      "album": {
+        "name": "Quaresma",
+        "url": "https://open.spotify.com/album/5BXNfTW8DFCsG2KQ8rlae9"
+      },
+      "artists": [
+        {
+          "name": "AJ Tracey",
+          "url": "https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74500,
+      "name": "Quaresma",
+      "url": "https://open.spotify.com/track/0dS6mvqzBRZ4X4jlEqQNv9"
     },
     {
       "album": {
@@ -2426,7 +2528,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 298076,
       "name": "SOUTH LDN LOVER GIRL",
       "url": "https://open.spotify.com/track/4wZvxvi0hUvIZuWrdz2pA0"
@@ -2455,6 +2557,24 @@
     },
     {
       "album": {
+        "name": "Job's Not Done",
+        "url": "https://open.spotify.com/album/26wnCS2ge003UaGJ19XqLO"
+      },
+      "artists": [
+        {
+          "name": "Kidwild",
+          "url": "https://open.spotify.com/artist/5IR3SxDdtCCw6KD1aoF6w9"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162162,
+      "name": "Still Indecisive",
+      "url": "https://open.spotify.com/track/44savWJVTUS8rbYvFdvOKA"
+    },
+    {
+      "album": {
         "name": "Studio Fit Riddim",
         "url": "https://open.spotify.com/album/0uxSyHjE8eS5ng2poPpgEv"
       },
@@ -2470,6 +2590,24 @@
       "duration_ms": 102765,
       "name": "Studio Fit Riddim",
       "url": "https://open.spotify.com/track/5WIA9zkaaOuAKW0JOO36di"
+    },
+    {
+      "album": {
+        "name": "Job's Still Not Done",
+        "url": "https://open.spotify.com/album/30PhAtPiYPW8roxkSYjA0J"
+      },
+      "artists": [
+        {
+          "name": "Kidwild",
+          "url": "https://open.spotify.com/artist/5IR3SxDdtCCw6KD1aoF6w9"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140800,
+      "name": "Survival",
+      "url": "https://open.spotify.com/track/0IHOkJ0NcDJRPBoCJJbyij"
     },
     {
       "album": {
@@ -2660,6 +2798,28 @@
       "duration_ms": 197429,
       "name": "TRIPLE THREAT",
       "url": "https://open.spotify.com/track/2URQXBVDvENWHvUodr5ScN"
+    },
+    {
+      "album": {
+        "name": "Trouble",
+        "url": "https://open.spotify.com/album/013oyxu6GZfmFsjsDGIlNO"
+      },
+      "artists": [
+        {
+          "name": "ArrDee",
+          "url": "https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk"
+        },
+        {
+          "name": "Mazza_l20",
+          "url": "https://open.spotify.com/artist/00IiVt687EdR9JnSoJN7IA"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187186,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/1kvHfHpoqF3zm3bGgjUoYh"
     },
     {
       "album": {

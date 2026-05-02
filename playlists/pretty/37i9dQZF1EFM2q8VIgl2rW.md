@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFM2q8VIgl2rW.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4sOuCZZM60YHkWWZVqZPXn">Robert Lopez</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 242 likes - 179 songs - 7 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 241 likes - 179 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -143,8 +143,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFM2q8VIgl2rW.md) - [plain]
 | 133 | [Thank You for Coming](https://open.spotify.com/track/5z7HmV7F65C8p6LyH1ONCq) | [Christophe Beck](https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw) | [WandaVision: Episode 1 \(Original Soundtrack\)](https://open.spotify.com/album/7cT5OHwrPtilc4Mf7hBU6N) | 0:44 |
 | 134 | [All Along](https://open.spotify.com/track/2WiPuk5paFC7cVvleWp5Iz) | [Christophe Beck](https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw), [Michael Paraskevas](https://open.spotify.com/artist/4fIXHW5d4kdlUQq5NWqi84) | [Agatha All Along: Vol\. 1 \(Episodes 1\-5\) \[Original Soundtrack\]](https://open.spotify.com/album/0mGccmUOGqeiISKtiTcBWX) | 3:34 |
 | 135 | [Exit Stage Left](https://open.spotify.com/track/2XkAf8hwlCCYTKCBH0RHgc) | [Christophe Beck](https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw) | [WandaVision: Episode 2 \(Original Soundtrack\)](https://open.spotify.com/album/6hHldbhX0IFxXx8v9Ja4Xr) | 1:44 |
-| 136 | [Giddy Up](https://open.spotify.com/track/1CfjLaygV2A21jBEXgWS9a) | [Christophe Beck](https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw) | [WandaVision: Episode 2 \(Original Soundtrack\)](https://open.spotify.com/album/6hHldbhX0IFxXx8v9Ja4Xr) | 0:32 |
-| 137 | [Frozen](https://open.spotify.com/track/7y1IC8pSewIIZ19fEG99YU) | [Jedha](https://open.spotify.com/artist/0Or21qKW8Eml80bEKPPCIC), [Tim Heintz](https://open.spotify.com/artist/1HMXyEp2udhHB4gt2PcF5D) | [Music from Disney Starlight](https://open.spotify.com/album/6K3lw78IwRoSe9ZKqoKAdQ) | 1:54 |
+| 136 | [Frozen](https://open.spotify.com/track/7y1IC8pSewIIZ19fEG99YU) | [Jedha](https://open.spotify.com/artist/0Or21qKW8Eml80bEKPPCIC), [Tim Heintz](https://open.spotify.com/artist/1HMXyEp2udhHB4gt2PcF5D) | [Music from Disney Starlight](https://open.spotify.com/album/6K3lw78IwRoSe9ZKqoKAdQ) | 1:54 |
+| 137 | [Giddy Up](https://open.spotify.com/track/1CfjLaygV2A21jBEXgWS9a) | [Christophe Beck](https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw) | [WandaVision: Episode 2 \(Original Soundtrack\)](https://open.spotify.com/album/6hHldbhX0IFxXx8v9Ja4Xr) | 0:32 |
 | 138 | [The Strangest Thing](https://open.spotify.com/track/634d9jNSkP1ffkh2lTJUhQ) | [Christophe Beck](https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw) | [WandaVision: Episode 3 \(Original Soundtrack\)](https://open.spotify.com/album/130DD1WPUCsr30RKqAmiQI) | 1:17 |
 | 139 | [One Door Opens](https://open.spotify.com/track/5xd7ghH7y4GJPiXkxsAHHZ) | [Christophe Beck](https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw), [Michael Paraskevas](https://open.spotify.com/artist/4fIXHW5d4kdlUQq5NWqi84) | [Agatha All Along: Vol\. 2 \(Episodes 6\-9\) \[Original Soundtrack\]](https://open.spotify.com/album/4CTFlBZWLxB4qjG0RTAbTQ) | 3:34 |
 | 140 | [Coco](https://open.spotify.com/track/668nh735jn48EkkpXlDA03) | [Jedha](https://open.spotify.com/artist/0Or21qKW8Eml80bEKPPCIC), [Tim Heintz](https://open.spotify.com/artist/1HMXyEp2udhHB4gt2PcF5D) | [Music from Disney Starlight](https://open.spotify.com/album/6K3lw78IwRoSe9ZKqoKAdQ) | 1:49 |
@@ -188,4 +188,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFM2q8VIgl2rW.md) - [plain]
 | 178 | [You Don't Belong](https://open.spotify.com/track/25cxwxkIgXBD5HtdBWd4aH) | [Up Here \- Cast](https://open.spotify.com/artist/69aGXX2T28iQOy1teJy61L), [Emilia Suárez](https://open.spotify.com/artist/63N2LyprPztDL4WwgiZ7L5), [MaKena Jackson](https://open.spotify.com/artist/5BAHeUrDhy4RUC55ZLYeaC), [Maya Sistruck](https://open.spotify.com/artist/2AgDl5kTDamgT6g5EeJAXQ) | [Up Here \(Original Series Soundtrack\)](https://open.spotify.com/album/4ytsQEFFvWKALIRLkMBZxx) | 0:24 |
 | 179 | [Wonders of Animation Music: D100 Animation Beloved Medley](https://open.spotify.com/track/7ejDfZmn3aQNizsCfvvVun) | [Zhou Shen](https://open.spotify.com/artist/0BezPR1Hn38i8qShQKunSD) | [Wonders of Animation Music: D100 Animation Beloved Medley](https://open.spotify.com/album/2EOMWbfgnAsuJNDtGBsEGF) | 6:34 |
 
-Snapshot ID: `AcQRnAAAAACCfz6xfWlb+x+STtTN0dyX`
+Snapshot ID: `AcQXPAAAAAAUG5K4Vu4Gbny08m75JL0M`

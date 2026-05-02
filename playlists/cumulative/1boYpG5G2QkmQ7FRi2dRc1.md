@@ -4,7 +4,7 @@
 
 > A weekly selection of tracks that I love to listen to at home or play out at a party.
 
-2,916 songs - 7 day 8 hr 54 min
+2,918 songs - 7 day 8 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -628,6 +628,7 @@
 | [Do It Again \- Massano Remix](https://open.spotify.com/track/02f2n3usAnFXyRejWROsHs) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo), [Massano](https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ) | [Do It Again \(Massano Remix\)](https://open.spotify.com/album/2EDBQsqGzhECP0x0QX8Qin) | 3:20 | 2025-07-25 | 2025-08-16 |
 | [Do It For Yourself](https://open.spotify.com/track/1yzkhlrLNcdU2eRrZDiWLW) | [Gilligan Moss](https://open.spotify.com/artist/2fo0F81pRzdXjmWP6MkQqB), [Pollena](https://open.spotify.com/artist/6jLF65ZDRDiQCnTvs7O7CF) | [Do It For Yourself](https://open.spotify.com/album/6U4C3vRyX3b7mXiprunQmL) | 3:40 | 2025-04-26 | 2025-05-04 |
 | [Do It Like Me](https://open.spotify.com/track/114iWDfL5lVgqJabeSwnRF) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [Creek](https://open.spotify.com/album/4wFyqyU8erSQITJyyoUOhk) | 3:15 | 2025-03-22 | 2025-04-27 |
+| [Do It Like Me](https://open.spotify.com/track/1bhQ6C0jhlZ9uPTyVyC9gS) | [Nova Blue](https://open.spotify.com/artist/64wwBeRlMZenhRspSoRSqR) | [Do It Like Me](https://open.spotify.com/album/7gvWFQOcRrnd6zFxgxf1da) | 2:44 | 2026-05-01 |  |
 | [Do It Right](https://open.spotify.com/track/0revALbfswvbw3zURpu4eE) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ) | [Do It Right](https://open.spotify.com/album/4ZGhXqzoSNBnzvxRB2NALr) | 6:12 | 2026-01-16 | 2026-03-14 |
 | [Do Me Right \- Crackazat Remix](https://open.spotify.com/track/7s9M6esGDliRqtWDJTkxae) | [Ben Westbeech](https://open.spotify.com/artist/0qP3Irw4a8UFvXv6KQf3XM), [RAHH](https://open.spotify.com/artist/1WR2sls6n0N1usqywvysnX), [Crackazat](https://open.spotify.com/artist/2PagBkTVHoKFjuxtCJp3As), [Dames Brown](https://open.spotify.com/artist/7Hgnu346InP2IcZoMGGT8B) | [Do Me Right \(Crackazat Remix\)](https://open.spotify.com/album/3gZXBPM98yaMyv211nF1HW) | 3:42 | 2025-04-26 | 2025-05-04 |
 | [do my own thing](https://open.spotify.com/track/1CfvEQYk2EB4dh1qtkQ1CG) | [warner case](https://open.spotify.com/artist/106OuakzOxxbXTuigEEf01), [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L) | [do my own thing](https://open.spotify.com/album/4eUxdYUG7eRZ8agcu1o6QC) | 3:42 | 2023-02-19 | 2023-02-25 |
@@ -2263,6 +2264,7 @@
 | [Side To Side](https://open.spotify.com/track/29OC90AImALwo1LTvh5Zhf) | [Gabss](https://open.spotify.com/artist/7KMvse80vFnyE3fsoGWjaq) | [Side To Side](https://open.spotify.com/album/5rjewwF7ZdawgIuO2zmJZU) | 3:05 | 2026-03-13 | 2026-04-18 |
 | [Sidewindah \(feat\. Flirta D\)](https://open.spotify.com/track/3NGC2t1KnSOFcDQv8EI2Pl) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Flirta D](https://open.spotify.com/artist/2G9VTaPA12WZVovEImUtsR) | [Sidewindah \(feat\. Flirta D\)](https://open.spotify.com/album/43sQLpO0FFy5wfXcWyyXCm) | 3:33 | 2022-11-12 | 2022-11-19 |
 | [Signal \- Basstrick Remix](https://open.spotify.com/track/5yb2A3wwHck88WhcbASZEq) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Ray Volpe](https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb), [Basstrick](https://open.spotify.com/artist/2g6IRi1Nu7TGzm2WhSggta) | [Gud Vibrations: Volume 4](https://open.spotify.com/album/4zPy6MIX4q7BLsYrS6rQ7A) | 3:00 | 2023-01-13 | 2023-01-22 |
+| [Silence](https://open.spotify.com/track/4ji17rMLAU854Plh8Hx5D9) | [BUTTER](https://open.spotify.com/artist/5SOSqzQyhsHTTuxAMGPkaO) | [Silence](https://open.spotify.com/album/5418J3PsbbQxXqHUZTFYwr) | 2:38 | 2026-05-01 |  |
 | [Silence](https://open.spotify.com/track/0HbbE73TL7J1ARbn0KvdiP) | [MBP](https://open.spotify.com/artist/6HknNgSM0qwhMbumje0g5o), [Citadelle](https://open.spotify.com/artist/6Mek67pKmBw5N3FZnAc2J8) | [Silence](https://open.spotify.com/album/6RKjZZWhq1rr9Ltp79u2tp) | 3:01 | 2025-10-17 | 2025-11-02 |
 | [Silence Of Love](https://open.spotify.com/track/4oqrBk9A3WoouuMTDKGERh) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb), [Jesse Boykins III](https://open.spotify.com/artist/7N3L5HZxQqxWSfhrrTNI29) | [Silence Of Love](https://open.spotify.com/album/00UQmxp15bECetcjau5hTO) | 4:10 | 2023-11-17 | 2023-11-27 |
 | [Silence of Love \- Reznik Remix](https://open.spotify.com/track/5PhLhmZG1r1R1YAAUbl2hx) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb), [Reznik](https://open.spotify.com/artist/702smBYudOzBmjHChanIuZ), [Jesse Boykins III](https://open.spotify.com/artist/7N3L5HZxQqxWSfhrrTNI29) | [Silence of Love \(Reznik Remix\)](https://open.spotify.com/album/0vSvPP21Ijfo3czy4QIaq3) | 7:05 | 2024-10-05 | 2024-10-13 |

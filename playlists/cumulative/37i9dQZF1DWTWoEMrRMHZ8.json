@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "As belas novidades da MPB. Foto: Tuyo",
+  "description": "As belas novidades da MPB. Foto: Z\u00e9lia Duncan",
   "name": "Divina MPB",
   "tracks": [
     {
@@ -542,7 +542,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 119702,
       "name": "a natureza das coisas",
       "url": "https://open.spotify.com/track/2XOWOM7ljx20baKe6dGdLy"
@@ -1116,6 +1116,24 @@
       "duration_ms": 270000,
       "name": "Agora",
       "url": "https://open.spotify.com/track/1hBC2o7TjAN6unETxqcBgZ"
+    },
+    {
+      "album": {
+        "name": "Agudo Grave",
+        "url": "https://open.spotify.com/album/1gAuuKvvJk52MwUD5VMcIv"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9lia Duncan",
+          "url": "https://open.spotify.com/artist/2zDJszdrISx9K4L5hvWT33"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190873,
+      "name": "Agudo Grave",
+      "url": "https://open.spotify.com/track/4TCgBRQyeMEpG7nM7uuk5v"
     },
     {
       "album": {
@@ -6725,6 +6743,32 @@
     },
     {
       "album": {
+        "name": "dois brilhantes",
+        "url": "https://open.spotify.com/album/1jpHvCEDg2UnrNbn3AElPc"
+      },
+      "artists": [
+        {
+          "name": "Dado Villa-Lobos",
+          "url": "https://open.spotify.com/artist/5hmsETFK65bzCg0ORAboDr"
+        },
+        {
+          "name": "Lucas Vasconcellos",
+          "url": "https://open.spotify.com/artist/5GzNsZINw8YeKmtfstbZtb"
+        },
+        {
+          "name": "TIAGO IORC",
+          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203311,
+      "name": "dois brilhantes",
+      "url": "https://open.spotify.com/track/0xWu1OB0Enu0ijsQevX9FF"
+    },
+    {
+      "album": {
         "name": "Dois S\u00f3is",
         "url": "https://open.spotify.com/album/5xgzzzXFpaNky59cV0kCXf"
       },
@@ -8640,7 +8684,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 189589,
       "name": "FOI NO S\u00c3O JO\u00c3O",
       "url": "https://open.spotify.com/track/6m0CIXMK7LkUMQuiDWg8JC"
@@ -12848,7 +12892,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 283293,
       "name": "Nada Mais",
       "url": "https://open.spotify.com/track/2sG4JlM2fO3RzXoXffRYyX"
@@ -14524,7 +14568,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 240301,
       "name": "O Que Ser\u00e1 N\u00f3s Dois - Ao Vivo",
       "url": "https://open.spotify.com/track/5rbRRSmZVA0SyduyHyltJt"
@@ -15876,6 +15920,32 @@
       "duration_ms": 200428,
       "name": "Perto de Mim",
       "url": "https://open.spotify.com/track/2Kw52vEmPePbbJALpaJawB"
+    },
+    {
+      "album": {
+        "name": "FLOR DA PELE",
+        "url": "https://open.spotify.com/album/4RBRXwprXLVZJ5pMRrcbcG"
+      },
+      "artists": [
+        {
+          "name": "Flavio Ferrari",
+          "url": "https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x"
+        },
+        {
+          "name": "Lucas Mamede",
+          "url": "https://open.spotify.com/artist/6pbg3DywWNPejXsXkx3iKD"
+        },
+        {
+          "name": "CANETARIA",
+          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163637,
+      "name": "PESSOA PREFERIDA",
+      "url": "https://open.spotify.com/track/5bsrJWraAOL6pHpZ9khD6N"
     },
     {
       "album": {
@@ -18282,6 +18352,28 @@
       "duration_ms": 237234,
       "name": "Retalhos De Cetim",
       "url": "https://open.spotify.com/track/7cyFv6ZvrP45UN16w4Zotp"
+    },
+    {
+      "album": {
+        "name": "Reticente",
+        "url": "https://open.spotify.com/album/16T8n1POOMmKUrVycoSKlR"
+      },
+      "artists": [
+        {
+          "name": "Pedro Em\u00edlio",
+          "url": "https://open.spotify.com/artist/7ksllq82eO4mTbz0dKvQ5N"
+        },
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205997,
+      "name": "Reticente",
+      "url": "https://open.spotify.com/track/1a0Cfrm86I4nbyk9osnUTF"
     },
     {
       "album": {

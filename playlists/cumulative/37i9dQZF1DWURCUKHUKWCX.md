@@ -4,7 +4,7 @@
 
 > Atmospheric and emotional piano pieces.
 
-317 songs - 16 hr 44 min
+318 songs - 16 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -273,6 +273,7 @@
 | [Suspire](https://open.spotify.com/track/2zKqrmNdj8oIgzBnLWBumi) | [Garreth Broke](https://open.spotify.com/artist/2VfNXBb3vlgXHEzQci1btx) | [Suspire](https://open.spotify.com/album/6nhSCmmNv2XicER2xdJlv9) | 2:13 | 2021-12-10 |  |
 | [Tale of the Enchanted Pear Tree](https://open.spotify.com/track/7uclkHQm0yOMutUlk8dnUq) | [Polly Carter](https://open.spotify.com/artist/0GZHuvPr2iFDH4BQFLOrEp) | [Tale of the Enchanted Pear Tree](https://open.spotify.com/album/0dfh1vW5PgoMjubTKiYxRw) | 1:48 | 2025-12-01 |  |
 | [Tamina's Lullaby](https://open.spotify.com/track/5yhjbDdE9IxBzsYE0FlZ9r) | [Triosence](https://open.spotify.com/artist/2NxFqOk7uZCe0hxfohdWJX) | [Tamina's Lullaby](https://open.spotify.com/album/7GkH1u6Ng1VROB0ixnc5xp) | 1:45 | 2025-12-01 |  |
+| [Temporary Coexistence](https://open.spotify.com/track/44UULCqmzqSuT4FzNoALZl) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [Temporary Coexistence of Humans](https://open.spotify.com/album/2ob168pec2r2ZtuSjzbgtz) | 2:53 | 2026-05-01 |  |
 | [That Feeling, Though](https://open.spotify.com/track/5W7cnjrNZcv1ITMv3xyvkV) | [Fabrizio Paterlini](https://open.spotify.com/artist/0jrFMgW018F1XVnLtCXOKi) | [That Feeling, Though](https://open.spotify.com/album/0KApkc3q8azy74RibeRkb1) | 1:31 | 2021-12-10 | 2026-04-03 |
 | [The Art of Falling](https://open.spotify.com/track/4xmWnJpazNxLLxDJcCKgeG) | [Dardust](https://open.spotify.com/artist/6JhUHne9H09NdkTI5E9GSt) | [Urban Impressionism](https://open.spotify.com/album/2HwoFNovpqusvem2csYBU4) | 4:09 | 2024-11-08 |  |
 | [The Arts and the Hours](https://open.spotify.com/track/1G3QPQkoXvpChjNUhd6Tfs) | [Jean\-Philippe Rameau](https://open.spotify.com/artist/4JSWO1Pf2zV991fq64uAce), [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Rameau, Ólafsson: The Arts and the Hours](https://open.spotify.com/album/4omnRCjOvnHa3ETQlqZpd1) | 4:45 | 2021-12-10 | 2025-08-09 |

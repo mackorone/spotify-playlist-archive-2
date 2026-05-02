@@ -5764,7 +5764,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 168275,
       "name": "El Alma Pide Tregua",
       "url": "https://open.spotify.com/track/0pmAzbt5oo1IA1QkzWSNXN"
@@ -12256,7 +12256,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 180250,
       "name": "Modo Toro",
       "url": "https://open.spotify.com/track/26yka8uT2cvtDaCQX4By1z"
@@ -13044,6 +13044,28 @@
       "duration_ms": 141187,
       "name": "No me retracto",
       "url": "https://open.spotify.com/track/06F1xerME9zW3bZMP4RweE"
+    },
+    {
+      "album": {
+        "name": "No Molestar",
+        "url": "https://open.spotify.com/album/2oOn1vvS5zFJvoq64VMAw4"
+      },
+      "artists": [
+        {
+          "name": "Remik Gonzalez",
+          "url": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
+        },
+        {
+          "name": "Kalako Parga Oficial",
+          "url": "https://open.spotify.com/artist/65tKh5isRC3fRYblBAdHHt"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212571,
+      "name": "No Molestar",
+      "url": "https://open.spotify.com/track/4JHofT7nIvc68RdwlZ8gM4"
     },
     {
       "album": {
@@ -15384,6 +15406,24 @@
       "duration_ms": 388235,
       "name": "QUERIDO LUCAS",
       "url": "https://open.spotify.com/track/3ZCmOKJLMzmZk7BXKBVNiJ"
+    },
+    {
+      "album": {
+        "name": "Botellas En La Banqueta y Un Coraz\u00f3n Herido",
+        "url": "https://open.spotify.com/album/37TRdrlnuAOvMxUOur1ILs"
+      },
+      "artists": [
+        {
+          "name": "Toser One",
+          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Quiz\u00e1s",
+      "url": "https://open.spotify.com/track/0Q0QgkuN6QE4ryU4wvlMLy"
     },
     {
       "album": {

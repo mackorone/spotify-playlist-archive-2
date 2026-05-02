@@ -1,6 +1,6 @@
 {
   "description": "Die hei\u00dfesten neuen Dance Tracks in einer Playlist. Cover: Ueberrest",
-  "num_followers": 347075,
+  "num_followers": 347270,
   "original_name": "Dance Brandneu",
   "owner": {
     "name": "Spotify",
@@ -41,7 +41,7 @@
         },
         {
           "name": "Tiga",
-          "url": "https://open.spotify.com/artist/6dfbRE1slg9q6xXbMiB9Rn"
+          "url": "https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC"
         }
       ],
       "duration_ms": 207272,
@@ -598,10 +598,18 @@
         {
           "name": "Miss Bashful",
           "url": "https://open.spotify.com/artist/5skHU2PrWHKFfSTpq9y56C"
+        },
+        {
+          "name": "Princess Superstar",
+          "url": "https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM"
+        },
+        {
+          "name": "Luca Eck",
+          "url": "https://open.spotify.com/artist/7FvEqUihbJfx5vpfGd1OLz"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 5",
+      "duration_ms": 156504,
+      "name": "Girlz On Tour",
       "url": "https://open.spotify.com/track/2IM3xmhrJWWa2v7TjoirvK"
     },
     {
@@ -1272,12 +1280,12 @@
       },
       "artists": [
         {
-          "name": "The Rocketman",
-          "url": "https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V"
-        },
-        {
           "name": "Showtek",
           "url": "https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7"
+        },
+        {
+          "name": "The Rocketman",
+          "url": "https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V"
         }
       ],
       "duration_ms": 173600,
@@ -1549,7 +1557,7 @@
         },
         {
           "name": "GLZ",
-          "url": "https://open.spotify.com/artist/3lF9IQbanf5Gc0ewSq1wYn"
+          "url": "https://open.spotify.com/artist/3xpY5gjKMCT54sR2NoXJsr"
         }
       ],
       "duration_ms": 137699,

@@ -1,6 +1,6 @@
 {
   "description": "Mellow down the mood with these Telugu tracks\nCover: Dear Comrade",
-  "num_followers": 104042,
+  "num_followers": 104074,
   "original_name": "Mellow Telugu",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,26 @@
   },
   "snapshot_id": "AAAAAC1KGddQMgCRXoqrTsIphHXwyiQS",
   "tracks": [
+    {
+      "added_at": "2022-09-02 08:32:31",
+      "album": {
+        "name": "Darling (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/13J2XQOZo0I8ZAufTXFvyd"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Anantha Sriram",
+          "url": "https://open.spotify.com/artist/5wE0KHIPasAq9oKW3PkDpq"
+        }
+      ],
+      "duration_ms": 281520,
+      "name": "Neeve",
+      "url": "https://open.spotify.com/track/4QMZ6gwFTLk9qOhaQsGIxf"
+    },
     {
       "added_at": "2022-09-02 08:32:31",
       "album": {
@@ -31,26 +51,6 @@
       "duration_ms": 301500,
       "name": "Arerey Manasa (From \"Falaknuma Das\")",
       "url": "https://open.spotify.com/track/61fXT6uwJ2THPkbmxa65OI"
-    },
-    {
-      "added_at": "2022-09-02 08:32:31",
-      "album": {
-        "name": "Darling (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/13J2XQOZo0I8ZAufTXFvyd"
-      },
-      "artists": [
-        {
-          "name": "G. V. Prakash",
-          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
-        },
-        {
-          "name": "Anantha Sriram",
-          "url": "https://open.spotify.com/artist/5wE0KHIPasAq9oKW3PkDpq"
-        }
-      ],
-      "duration_ms": 281520,
-      "name": "Neeve",
-      "url": "https://open.spotify.com/track/4QMZ6gwFTLk9qOhaQsGIxf"
     },
     {
       "added_at": "2022-09-02 08:32:31",
@@ -999,18 +999,22 @@
     {
       "added_at": "2022-09-02 08:32:31",
       "album": {
-        "name": "Mahanati",
-        "url": "https://open.spotify.com/album/0Inb1EOqKno7hCcv9q5tP1"
+        "name": "Nuvvu Nenu Prema",
+        "url": "https://open.spotify.com/album/7wzrO24y9VOsAd5P4FjdxP"
       },
       "artists": [
         {
-          "name": "Charulatha Mani",
-          "url": "https://open.spotify.com/artist/5ttI5DDy5AJ8AQb35a9LKm"
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Naresh Ayar",
+          "url": "https://open.spotify.com/artist/1khqNmFNMQ1SME1rAV4ZCl"
         }
       ],
-      "duration_ms": 197589,
-      "name": "Sada Nannu",
-      "url": "https://open.spotify.com/track/2vhQo1YVhZVFTohJIlHg3v"
+      "duration_ms": 354368,
+      "name": "Preminche Premava",
+      "url": "https://open.spotify.com/track/1FtRJTH2uCemK3N2qUOb3U"
     }
   ],
   "unique_name": "Mellow Telugu",

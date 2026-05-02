@@ -1,13 +1,109 @@
 {
-  "description": "New songwriters on the horizon from around the world. Cover: Maria Fernanda Diaz Ju\u00e1rez",
-  "num_followers": 17000,
+  "description": "New songwriters on the horizon from around the world. Cover: Shorae Moore",
+  "num_followers": 17004,
   "original_name": "RADAR Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADqRH4aqEmSLAhnrinp+PaKuKey6",
+  "snapshot_id": "AAAAAIR2NBTJxUsn+nhhqJKdUzGiHPFJ",
   "tracks": [
+    {
+      "added_at": "2026-05-01 04:00:27",
+      "album": {
+        "name": "Stubborn",
+        "url": "https://open.spotify.com/album/1dfsKiTgOKzA8sLHCNMuKc"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "Shorae Moore",
+          "url": "https://open.spotify.com/artist/03VxcWyc7o8aYGyiePMYWJ"
+        }
+      ],
+      "duration_ms": 189897,
+      "name": "Oshaprapra",
+      "url": "https://open.spotify.com/track/3bXRzbErrzDdcMCWX3139p"
+    },
+    {
+      "added_at": "2026-05-01 04:00:27",
+      "album": {
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/14QJPbKM4KFGbWxUVGcAao"
+      },
+      "artists": [
+        {
+          "name": "DJ Latitude",
+          "url": "https://open.spotify.com/artist/0x8oMbjl1nKuz6Ya0L2UmC"
+        },
+        {
+          "name": "Timi Martins",
+          "url": "https://open.spotify.com/artist/0eQrfPUjzTCTeDfZ7dca4I"
+        },
+        {
+          "name": "Shorae Moore",
+          "url": "https://open.spotify.com/artist/03VxcWyc7o8aYGyiePMYWJ"
+        }
+      ],
+      "duration_ms": 203157,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/51rvvMRMCARD0AuSmR2Twg"
+    },
+    {
+      "added_at": "2026-05-01 04:00:27",
+      "album": {
+        "name": "Morayo",
+        "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 187346,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/0d1rbxaODhWDBLJ7ywooEj"
+    },
+    {
+      "added_at": "2026-05-01 04:00:27",
+      "album": {
+        "name": "Celia",
+        "url": "https://open.spotify.com/album/0v0pKqegGprcnGYUGitYvO"
+      },
+      "artists": [
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "duration_ms": 193340,
+      "name": "Dangerous Love",
+      "url": "https://open.spotify.com/track/0HLFdqAJZ3sUlICbZeLbYf"
+    },
+    {
+      "added_at": "2026-05-01 04:00:27",
+      "album": {
+        "name": "I Pray",
+        "url": "https://open.spotify.com/album/2gfJWeRGqTnAxIft7WB8Ow"
+      },
+      "artists": [
+        {
+          "name": "KCee",
+          "url": "https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG"
+        },
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "duration_ms": 165663,
+      "name": "I Pray",
+      "url": "https://open.spotify.com/track/1Xlna9IA6XldZqXOjSpAcv"
+    },
     {
       "added_at": "2026-02-06 05:00:28",
       "album": {
@@ -1399,254 +1495,6 @@
       "duration_ms": 170026,
       "name": "Only Have Eyes 42",
       "url": "https://open.spotify.com/track/6kIgzGx7gH0qAKTFTF5GsU"
-    },
-    {
-      "added_at": "2024-09-12 10:00:00",
-      "album": {
-        "name": "NE SENLE NE SENS\u0130Z",
-        "url": "https://open.spotify.com/album/67KVsFKWwM07Xeg3WOXFCU"
-      },
-      "artists": [
-        {
-          "name": "Selin",
-          "url": "https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf"
-        }
-      ],
-      "duration_ms": 222096,
-      "name": "NE SENLE NE SENS\u0130Z",
-      "url": "https://open.spotify.com/track/5bqI4hBdL3OOW0wMtjA9Fn"
-    },
-    {
-      "added_at": "2024-09-12 10:00:00",
-      "album": {
-        "name": "Voglia di vivere",
-        "url": "https://open.spotify.com/album/43JfFH8IVf0q2jRzzE9JNG"
-      },
-      "artists": [
-        {
-          "name": "Angelina Mango",
-          "url": "https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f"
-        }
-      ],
-      "duration_ms": 144949,
-      "name": "Voglia di vivere",
-      "url": "https://open.spotify.com/track/7x4JF2p31MBdOv922q7ClU"
-    },
-    {
-      "added_at": "2024-09-12 10:00:00",
-      "album": {
-        "name": "yine bana kal",
-        "url": "https://open.spotify.com/album/59ACJKAX7mYDjX8lwIXCTX"
-      },
-      "artists": [
-        {
-          "name": "\u00c7odur",
-          "url": "https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg"
-        }
-      ],
-      "duration_ms": 183900,
-      "name": "yine bana kal",
-      "url": "https://open.spotify.com/track/5XXXU9Nx21Klm3vZwyC9V2"
-    },
-    {
-      "added_at": "2024-09-12 10:00:00",
-      "album": {
-        "name": "Al\u0131\u015ft\u0131m Zehrine",
-        "url": "https://open.spotify.com/album/6xL4FouxMMHxeQjbMJZNn0"
-      },
-      "artists": [
-        {
-          "name": "\u0130rem Derici",
-          "url": "https://open.spotify.com/artist/5h2jTdwf4p0dM34aBykPzZ"
-        }
-      ],
-      "duration_ms": 159586,
-      "name": "Al\u0131\u015ft\u0131m Zehrine",
-      "url": "https://open.spotify.com/track/0QH13vxepuaLmJvBFRwDDD"
-    },
-    {
-      "added_at": "2024-09-12 10:00:00",
-      "album": {
-        "name": "The Coldest",
-        "url": "https://open.spotify.com/album/0V2BZLpJjyk4eey1BOC9st"
-      },
-      "artists": [
-        {
-          "name": "Skilla Baby",
-          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
-        },
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        }
-      ],
-      "duration_ms": 146341,
-      "name": "Whole Package (feat. Flo Milli)",
-      "url": "https://open.spotify.com/track/3W8LZctsNYqn2DQCJTrLB4"
-    },
-    {
-      "added_at": "2025-06-04 18:15:42",
-      "album": {
-        "name": "okokok",
-        "url": "https://open.spotify.com/album/4zP1fNxeLTQrG5usaotiPg"
-      },
-      "artists": [
-        {
-          "name": "okgiorgio",
-          "url": "https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg"
-        }
-      ],
-      "duration_ms": 158896,
-      "name": "okokok",
-      "url": "https://open.spotify.com/track/4qxoOkUtMcTzY3S0eHUziY"
-    },
-    {
-      "added_at": "2024-09-12 10:00:00",
-      "album": {
-        "name": "Forest in the City",
-        "url": "https://open.spotify.com/album/7ijzh3hVmlwWRxuJGPSoeR"
-      },
-      "artists": [
-        {
-          "name": "UMI",
-          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
-        }
-      ],
-      "duration_ms": 150560,
-      "name": "hard feelings",
-      "url": "https://open.spotify.com/track/5sZyB7g56Oy6bs7WLLHZwU"
-    },
-    {
-      "added_at": "2024-09-12 10:00:00",
-      "album": {
-        "name": "Based On A Feeling",
-        "url": "https://open.spotify.com/album/3PdyuqyxiDFTujJ8e2U2E2"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Claudio",
-          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
-        }
-      ],
-      "duration_ms": 215650,
-      "name": "Still Strangers",
-      "url": "https://open.spotify.com/track/0w2xc98HHlWQlwuPeKcmu4"
-    },
-    {
-      "added_at": "2025-06-04 18:15:42",
-      "album": {
-        "name": "Weak Teeth",
-        "url": "https://open.spotify.com/album/1vRRpWjoj8bSCOY28wGWDy"
-      },
-      "artists": [
-        {
-          "name": "gglum",
-          "url": "https://open.spotify.com/artist/3AYjDTXEMqJP0h1iXq8eYO"
-        }
-      ],
-      "duration_ms": 203140,
-      "name": "Things You Said",
-      "url": "https://open.spotify.com/track/6CJQts0D5UNDV1i2Q7Vdso"
-    },
-    {
-      "added_at": "2024-09-12 10:00:00",
-      "album": {
-        "name": "19 MASTERS",
-        "url": "https://open.spotify.com/album/71XSXeqU8507mW0raHyeUN"
-      },
-      "artists": [
-        {
-          "name": "Saya Gray",
-          "url": "https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl"
-        }
-      ],
-      "duration_ms": 165157,
-      "name": "WISH U PICKED ME\u2026",
-      "url": "https://open.spotify.com/track/1jL1WlEx5i1mLxrNpYxN8Y"
-    },
-    {
-      "added_at": "2024-09-12 10:00:00",
-      "album": {
-        "name": "The Good Witch",
-        "url": "https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo"
-      },
-      "artists": [
-        {
-          "name": "Maisie Peters",
-          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
-        }
-      ],
-      "duration_ms": 189493,
-      "name": "Body Better",
-      "url": "https://open.spotify.com/track/6q0xuMnc64pDLSE67pQy7e"
-    },
-    {
-      "added_at": "2024-09-12 10:00:00",
-      "album": {
-        "name": "Playboy",
-        "url": "https://open.spotify.com/album/1H60asyrMtrrOlieQIPtrI"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 207474,
-      "name": "Playboy",
-      "url": "https://open.spotify.com/track/1Cg51Jk6EoXBQ0KiwzWJfm"
-    },
-    {
-      "added_at": "2025-11-07 22:33:34",
-      "album": {
-        "name": "Found (feat. Brent Faiyaz)",
-        "url": "https://open.spotify.com/album/6nuNgD841boUffjDiI8et4"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        },
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        }
-      ],
-      "duration_ms": 209454,
-      "name": "Found (feat. Brent Faiyaz)",
-      "url": "https://open.spotify.com/track/0GGfGINoVYiSFXPOjg3RHj"
-    },
-    {
-      "added_at": "2024-09-12 10:00:00",
-      "album": {
-        "name": "Como Antes",
-        "url": "https://open.spotify.com/album/4dXvaYgS1eGbZCMa41lSrr"
-      },
-      "artists": [
-        {
-          "name": "Nathan Galante",
-          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
-        }
-      ],
-      "duration_ms": 166573,
-      "name": "Como Antes",
-      "url": "https://open.spotify.com/track/1dyDEkhjJ0T3Qmbio4LpqX"
-    },
-    {
-      "added_at": "2024-09-12 10:00:00",
-      "album": {
-        "name": "Cosas Que Dijimos De Hacer",
-        "url": "https://open.spotify.com/album/5iINJtcXFVeqb4FuYl2pXH"
-      },
-      "artists": [
-        {
-          "name": "Marmi",
-          "url": "https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx"
-        }
-      ],
-      "duration_ms": 175058,
-      "name": "Cosas Que Dijimos De Hacer",
-      "url": "https://open.spotify.com/track/4vmRgsol9d9ktaY5aoNFUf"
     }
   ],
   "unique_name": "RADAR Songwriters",

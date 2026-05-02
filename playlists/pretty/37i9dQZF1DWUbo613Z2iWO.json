@@ -1,13 +1,33 @@
 {
-  "description": "R&B of the moment by the artists of the future. Cover: Girlfriend and Jaymin",
-  "num_followers": 59185,
+  "description": "R&B of the moment by the artists of the future. Cover: Chxrry and Mariah The Scientist",
+  "num_followers": 59196,
   "original_name": "R&B Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACqakB+uwSnVg1hnFwThnQdgd1K0",
+  "snapshot_id": "AAAAAIAYr3jXEO3KMAg8pnqY6p6Ul53G",
   "tracks": [
+    {
+      "added_at": "2026-05-01 04:52:34",
+      "album": {
+        "name": "Bottles & Lights",
+        "url": "https://open.spotify.com/album/5Wvm7Co0vhdyPk5Ac0uZk6"
+      },
+      "artists": [
+        {
+          "name": "Chxrry",
+          "url": "https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ"
+        },
+        {
+          "name": "Mariah the Scientist",
+          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "Bottles & Lights",
+      "url": "https://open.spotify.com/track/1it6w7qVrXo10od5OMjn7H"
+    },
     {
       "added_at": "2026-04-24 04:03:03",
       "album": {
@@ -27,6 +47,22 @@
       "duration_ms": 185807,
       "name": "All U Need (with Jaymin)",
       "url": "https://open.spotify.com/track/3prJRFb6nICR3uC7mqhkjs"
+    },
+    {
+      "added_at": "2026-05-01 04:52:34",
+      "album": {
+        "name": "So\u2026",
+        "url": "https://open.spotify.com/album/0OzdBCnFDAXd02FELiFPuN"
+      },
+      "artists": [
+        {
+          "name": "Ama",
+          "url": "https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L"
+        }
+      ],
+      "duration_ms": 196631,
+      "name": "So\u2026",
+      "url": "https://open.spotify.com/track/1W31Osw7XybJ4YcS3NCOZ5"
     },
     {
       "added_at": "2026-03-13 04:59:14",
@@ -61,36 +97,36 @@
       "url": "https://open.spotify.com/track/2UKa3EzviDMvdcAvlVNUo6"
     },
     {
-      "added_at": "2026-04-10 05:59:36",
+      "added_at": "2026-05-01 04:52:34",
       "album": {
-        "name": "100 Years",
-        "url": "https://open.spotify.com/album/1cV9ozXqqcJFyhPAIBRGyw"
+        "name": "Crush!",
+        "url": "https://open.spotify.com/album/2vYfzTygsyLw8By3V3Auup"
       },
       "artists": [
         {
-          "name": "James Savage",
-          "url": "https://open.spotify.com/artist/0NJU41dLwF6OcBPRZwhAV5"
+          "name": "Essosa",
+          "url": "https://open.spotify.com/artist/6fn7JM8daBvCxpTkYyqtGY"
         }
       ],
-      "duration_ms": 234398,
-      "name": "100 Years",
-      "url": "https://open.spotify.com/track/3uDh0n0ReOkofTm8zdg1EN"
+      "duration_ms": 154809,
+      "name": "Missing U",
+      "url": "https://open.spotify.com/track/0agEB0xxyWYZFkXptUcOQI"
     },
     {
-      "added_at": "2026-04-17 07:13:10",
+      "added_at": "2026-05-01 04:52:34",
       "album": {
-        "name": "Splinter",
-        "url": "https://open.spotify.com/album/7n9d1Se8KSPWQUjED4hkOB"
+        "name": "Subject To Change",
+        "url": "https://open.spotify.com/album/1qcVJ1Bp9CmACPIj0jmbmr"
       },
       "artists": [
         {
-          "name": "F3miii",
-          "url": "https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s"
+          "name": "India Shawn",
+          "url": "https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL"
         }
       ],
-      "duration_ms": 173538,
-      "name": "SPLINTER",
-      "url": "https://open.spotify.com/track/3jjIOrKthJeLRtjwTKROfj"
+      "duration_ms": 183423,
+      "name": "Marmalade",
+      "url": "https://open.spotify.com/track/2Ph4qrjAKjD3qDu7z5znjF"
     },
     {
       "added_at": "2026-04-24 04:03:03",
@@ -109,7 +145,7 @@
       "url": "https://open.spotify.com/track/5stCKPzR4uSF3Sr5aJS60Y"
     },
     {
-      "added_at": "2026-04-24 04:03:03",
+      "added_at": "2026-05-01 04:52:34",
       "album": {
         "name": "Beautiful Tragedy",
         "url": "https://open.spotify.com/album/6ngm8ZaLfhxy5HEZAqqLQb"
@@ -118,15 +154,63 @@
         {
           "name": "Ebony Riley",
           "url": "https://open.spotify.com/artist/44uizbRKRAdJglzWQKBReo"
-        },
-        {
-          "name": "Skilla Baby",
-          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
         }
       ],
-      "duration_ms": 193379,
-      "name": "You Better Know (feat. Skilla Baby)",
-      "url": "https://open.spotify.com/track/4ozEPYKJne0z9DS0MUSMpY"
+      "duration_ms": 170780,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/637vQG5nrmJkfbPDApSskv"
+    },
+    {
+      "added_at": "2026-05-01 04:52:34",
+      "album": {
+        "name": "PATINA",
+        "url": "https://open.spotify.com/album/3M2itoN7Z2CeqEc82SLTJk"
+      },
+      "artists": [
+        {
+          "name": "Casper Sage",
+          "url": "https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE"
+        },
+        {
+          "name": "DERBY",
+          "url": "https://open.spotify.com/artist/5WFUn8WTVNDiOHZCEzxIQZ"
+        }
+      ],
+      "duration_ms": 193725,
+      "name": "Arthur (feat. DERBY)",
+      "url": "https://open.spotify.com/track/0jr6HPls0E2oy8fY4Cn4JD"
+    },
+    {
+      "added_at": "2026-05-01 04:52:34",
+      "album": {
+        "name": "Higher Power",
+        "url": "https://open.spotify.com/album/5Idywy5cDCM5PO1N0ork1x"
+      },
+      "artists": [
+        {
+          "name": "James Savage",
+          "url": "https://open.spotify.com/artist/0NJU41dLwF6OcBPRZwhAV5"
+        }
+      ],
+      "duration_ms": 173743,
+      "name": "Higher Power",
+      "url": "https://open.spotify.com/track/4E6p9AY52g3h1A4eGD2YmF"
+    },
+    {
+      "added_at": "2026-04-17 07:13:10",
+      "album": {
+        "name": "Splinter",
+        "url": "https://open.spotify.com/album/7n9d1Se8KSPWQUjED4hkOB"
+      },
+      "artists": [
+        {
+          "name": "F3miii",
+          "url": "https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s"
+        }
+      ],
+      "duration_ms": 173538,
+      "name": "SPLINTER",
+      "url": "https://open.spotify.com/track/3jjIOrKthJeLRtjwTKROfj"
     },
     {
       "added_at": "2026-04-17 07:13:10",
@@ -177,6 +261,22 @@
       "url": "https://open.spotify.com/track/2UnBCuQtiwlV6oMuix8vi5"
     },
     {
+      "added_at": "2026-05-01 04:52:34",
+      "album": {
+        "name": "is anybody home!?",
+        "url": "https://open.spotify.com/album/686HK68mvUb5V6Cm7OFQJX"
+      },
+      "artists": [
+        {
+          "name": "Jahson Paynter",
+          "url": "https://open.spotify.com/artist/73SbrIktK3Na0OTmhZpMy8"
+        }
+      ],
+      "duration_ms": 257561,
+      "name": "clear blue!",
+      "url": "https://open.spotify.com/track/1BMWubB3BOhlqnq3kuFuRI"
+    },
+    {
       "added_at": "2026-04-24 04:03:03",
       "album": {
         "name": "Second Hand",
@@ -191,6 +291,22 @@
       "duration_ms": 204311,
       "name": "Second Hand",
       "url": "https://open.spotify.com/track/2QyBcS4FwJAnqyG4jDpfF5"
+    },
+    {
+      "added_at": "2026-05-01 04:52:34",
+      "album": {
+        "name": "Make It Make Sense",
+        "url": "https://open.spotify.com/album/1XiUEcOilmHXGhaVH91cyw"
+      },
+      "artists": [
+        {
+          "name": "Tiara Thomas",
+          "url": "https://open.spotify.com/artist/69FykkhiqpzqeSNYRxc8BI"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Distractions",
+      "url": "https://open.spotify.com/track/786vHPC8tgisnEKHCCLBXt"
     },
     {
       "added_at": "2026-04-17 07:13:10",
@@ -281,6 +397,22 @@
       "url": "https://open.spotify.com/track/5HUqlNEKgLwBiPfpK9wBaX"
     },
     {
+      "added_at": "2026-04-10 05:59:36",
+      "album": {
+        "name": "100 Years",
+        "url": "https://open.spotify.com/album/1cV9ozXqqcJFyhPAIBRGyw"
+      },
+      "artists": [
+        {
+          "name": "James Savage",
+          "url": "https://open.spotify.com/artist/0NJU41dLwF6OcBPRZwhAV5"
+        }
+      ],
+      "duration_ms": 234398,
+      "name": "100 Years",
+      "url": "https://open.spotify.com/track/3uDh0n0ReOkofTm8zdg1EN"
+    },
+    {
       "added_at": "2026-04-17 07:13:10",
       "album": {
         "name": "DON'T ASK!",
@@ -327,6 +459,22 @@
       "duration_ms": 184275,
       "name": "Have You Ever",
       "url": "https://open.spotify.com/track/5Mogdwnc8pMXwCzNqXJ5dg"
+    },
+    {
+      "added_at": "2026-05-01 05:12:40",
+      "album": {
+        "name": "Don\u2019t Come Home",
+        "url": "https://open.spotify.com/album/36ROdch6cCh1N0doNGFKQo"
+      },
+      "artists": [
+        {
+          "name": "Pimmie",
+          "url": "https://open.spotify.com/artist/30AbYddXmSkDXhnW6lB0ll"
+        }
+      ],
+      "duration_ms": 131189,
+      "name": "Call Me When You Can",
+      "url": "https://open.spotify.com/track/6AODvwD0OtfmsZJKiU6ptW"
     },
     {
       "added_at": "2026-04-03 06:54:20",
@@ -411,6 +559,22 @@
       "duration_ms": 172571,
       "name": "Endure",
       "url": "https://open.spotify.com/track/5HoTh3edTpbvLIkTvJwcPA"
+    },
+    {
+      "added_at": "2026-05-01 05:12:40",
+      "album": {
+        "name": "Fall Short",
+        "url": "https://open.spotify.com/album/4os1vlAQZarDJKzfQ8GmtN"
+      },
+      "artists": [
+        {
+          "name": "nyan",
+          "url": "https://open.spotify.com/artist/7G7jG8dvAGtnvRlLNvssfr"
+        }
+      ],
+      "duration_ms": 164745,
+      "name": "Fall Short",
+      "url": "https://open.spotify.com/track/6rMWA9rnobnMm68zka6UwC"
     },
     {
       "added_at": "2026-04-17 07:13:10",

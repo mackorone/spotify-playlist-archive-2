@@ -4,7 +4,7 @@
 
 > Jazz, but make it funky\. Cover: Skinny Hightower
 
-457 songs - 1 day 10 hr 38 min
+458 songs - 1 day 10 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Capture This](https://open.spotify.com/track/6qGx9ikckPPtDbD9L3gdmq) | [Gianni Brezzo](https://open.spotify.com/artist/3JJR0ExBP5G8uyhcViM14W) | [Tutto Passa](https://open.spotify.com/album/1OGUuP0QHICwXrX8GtNp4y) | 3:45 | 2022-04-01 | 2024-04-19 |
 | [CATS GROOVE](https://open.spotify.com/track/6UY4Eml6zaSVZpjbuhBQAk) | [Kaelin Ellis](https://open.spotify.com/artist/0QalUUx2C9F1PGbfQVcHAd), [Tony Rosenberg](https://open.spotify.com/artist/7vXgs3BMJ1MWJU2HBjtKxh) | [THE FUNK WILL PREVAIL](https://open.spotify.com/album/4ZEbJk4ytV7Y9BAJm7pqqd) | 1:31 | 2022-04-01 | 2025-02-08 |
 | [Celestial Blues](https://open.spotify.com/track/0YEZzOR61QvNc6w8SUFLcg) | [Gary Bartz Ntu Troop](https://open.spotify.com/artist/1vaNGxPiwE1mrIZvU7fOSN) | [Harlem Bush Music \- Uhuru](https://open.spotify.com/album/031Ay5otjVJvC6OLAkT23D) | 7:36 | 2020-10-09 |  |
+| [Chain Reaction](https://open.spotify.com/track/0srUKiOtd4K2GmAETtqRDQ) | [Skinny Hightower](https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx) | [Chain Reaction](https://open.spotify.com/album/1vwmnBEUOKa04GmwDA61jE) | 8:07 | 2026-05-01 |  |
 | [Chameleon](https://open.spotify.com/track/4YsxaxfAA1dwsFy237azXq) | [Huntertones](https://open.spotify.com/artist/3tv8xMO0AkcqN9Th8KHyGd), [Justin Stanton](https://open.spotify.com/artist/51SBwyi6EsedCxohTMWQN5) | [Chameleon](https://open.spotify.com/album/7Maxr67eS8mA5JVjZHBjfJ) | 4:42 | 2021-04-23 | 2024-03-16 |
 | [Chank](https://open.spotify.com/track/0xCGbO3PTLLivhIkt47d0q) | [John Scofield](https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK) | [A Go Go](https://open.spotify.com/album/08JMKtDS0StcwDUgdxKIw3) | 6:46 | 2020-10-09 | 2025-02-15 |
 | [Channel Your Anger \- Lightship 95 Sessions](https://open.spotify.com/track/025UVgaWxqK2g7bUgOghTk) | [Oscar Jerome](https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh) | [Lightship 95 Sessions](https://open.spotify.com/album/0M0Nt895LgfpiRcWlWYkQp) | 5:28 | 2023-02-24 |  |
@@ -107,7 +108,7 @@
 | [Desert Rain](https://open.spotify.com/track/077KnQCjOyA2qCDcECZ72T) | [Doug Carn](https://open.spotify.com/artist/1PWbiGBEBaiLJI0Lvhnoha), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [Desert Rain](https://open.spotify.com/album/7dZPZfRTKe4IFnfZxfRGV6) | 3:47 | 2020-10-30 |  |
 | [Desert Rain](https://open.spotify.com/track/3BhIyhUaz8s4QeJqyWc6R5) | [Doug Carn](https://open.spotify.com/artist/1PWbiGBEBaiLJI0Lvhnoha), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [Doug Carn JID005](https://open.spotify.com/album/2NECEnZwEaR6at7uEP8Kmj) | 3:47 | 2021-04-09 | 2023-04-29 |
 | [Desert Rain](https://open.spotify.com/track/3KfBhRPQ7AaxQYh6r1CAXw) | [Doug Carn](https://open.spotify.com/artist/1PWbiGBEBaiLJI0Lvhnoha), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [Doug Carn JID005](https://open.spotify.com/album/7KGmy3wpG6ofn4ZC79Ih7W) | 3:47 | 2021-04-09 | 2024-02-29 |
-| [Devotion](https://open.spotify.com/track/322s1Mr5j33uwYVgjfGGFl) | [Skinny Hightower](https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx) | [Devotion](https://open.spotify.com/album/04yzrf8Eda4ydshQ2N28X7) | 5:29 | 2026-03-06 |  |
+| [Devotion](https://open.spotify.com/track/322s1Mr5j33uwYVgjfGGFl) | [Skinny Hightower](https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx) | [Devotion](https://open.spotify.com/album/04yzrf8Eda4ydshQ2N28X7) | 5:29 | 2026-03-06 | 2026-05-02 |
 | [Diamond Ring](https://open.spotify.com/track/0lmy3IKmljVgfvGB11T3Az) | [Jonah Nilsson](https://open.spotify.com/artist/3kjUc2BfNgd4fBUZf1Tkw5), [Steve Vai](https://open.spotify.com/artist/32Jb1X3wSmmoHj2epZReZA) | [Diamond Ring](https://open.spotify.com/album/0MqCJJBWl1gVwgz2jeNK6G) | 5:08 | 2021-08-06 | 2023-04-22 |
 | [Dick Cavett](https://open.spotify.com/track/197JI3tYRtPb4Ehr8FgsAy) | [Tabloid](https://open.spotify.com/artist/5rcnMGND7eyKJRbVGpIjOG) | [Dick Cavett](https://open.spotify.com/album/7srtYYAjwKxJHR01YQTZMB) | 5:04 | 2024-04-12 |  |
 | [Dinky Doinky](https://open.spotify.com/track/201ZmH4WWYflWBpg2CJ8uc) | [Sam Greenfield](https://open.spotify.com/artist/03ZdbEBsbFHG3uJC6gYiOY) | [Dinky Doinky](https://open.spotify.com/album/3ua0yfjr5aZfh7kOaEHja7) | 3:48 | 2023-09-29 | 2023-11-18 |

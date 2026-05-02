@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > Ny fredag, ny musik fra Anton Westerlin, Madonna, Zara Larsson og maaange flere  ❤️‍🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,034 likes - 95 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,131 likes - 95 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 60 | [Aftertaste](https://open.spotify.com/track/2v6LycQIDcAnWI41msk7MI) | [Mollý](https://open.spotify.com/artist/140BL4TUquU2SJmEEST3fw) | [Aftertaste](https://open.spotify.com/album/247RTQ6zr1gzZdWgxhu67D) | 2:35 |
 | 61 | [The World Is A Fine Place](https://open.spotify.com/track/151a1ZldhYb6AUwLxP3d8g) | [Bárður Johannesen](https://open.spotify.com/artist/1ykx76vUoDz2JKmGOS4DhD) | [The World Is A Fine Place](https://open.spotify.com/album/2MBpAJcOnA7gSqReIBVbS0) | 4:11 |
 | 62 | [Should've Known Better](https://open.spotify.com/track/5W5d518pSKjB8JtscaU3ZL) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Should've Known Better](https://open.spotify.com/album/5YejHoJ2w4gXBsdhwQ2wQt) | 3:16 |
-| 63 | [Don't Worry Baby](https://open.spotify.com/track/0uFffwji3muqn5MEe7hiYw) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Tiga](https://open.spotify.com/artist/6dfbRE1slg9q6xXbMiB9Rn) | [Don't Worry Baby](https://open.spotify.com/album/1F3Ph8gHm2aCnMJbNvmo5f) | 3:27 |
+| 63 | [Don't Worry Baby](https://open.spotify.com/track/0uFffwji3muqn5MEe7hiYw) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC) | [Don't Worry Baby](https://open.spotify.com/album/1F3Ph8gHm2aCnMJbNvmo5f) | 3:27 |
 | 64 | [Fire Away \(feat\. Slayyyter\)](https://open.spotify.com/track/2un4EaIKXxdVtQbO6cdYM4) | [Madeon](https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc), [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [Fire Away \(feat\. Slayyyter\)](https://open.spotify.com/album/1PneNeTJUTq8ueNrXhjwQR) | 3:27 |
 | 65 | [LAY LOW](https://open.spotify.com/track/3nNOCCziZVELhgrA7sPrYK) | [DANO](https://open.spotify.com/artist/1qid2RAqbRe7NvZ8tCxbOS) | [LAY LOW](https://open.spotify.com/album/0tPFfu9RO8sGtOocSv1t4w) | 2:32 |
 | 66 | [Easy Target](https://open.spotify.com/track/4B5ejSy7fxXoCNDLREH6bK) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [Easy Target](https://open.spotify.com/album/6UM9Sbe6T1UmBaJyzbUAJA) | 3:09 |
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 85 | [MUTT](https://open.spotify.com/track/2hk1qsUurNhymuTIQKoCws) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [MUTT](https://open.spotify.com/album/0KfsQmnXet0Ne5V8c7Nnrm) | 1:59 |
 | 86 | [Golden Chain](https://open.spotify.com/track/7gwDV78DGbiCzEuA5foUgU) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Golden Chain](https://open.spotify.com/album/5dHNcyLX9WwAcHm2lQtp53) | 2:49 |
 | 87 | [Kasper fra Køge](https://open.spotify.com/track/50ENzAGozNKYcTkF8kFx7n) | [Martin Brygmann](https://open.spotify.com/artist/1mEjxHmV73X8Nr3HY47n17) | [Kasper fra Køge](https://open.spotify.com/album/1ZMo1fjCbeb4fe8ghO9UnW) | 3:32 |
-| 88 | [Track 1](https://open.spotify.com/track/3fLX6yRLD2IkWQUxDJEQ0S) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [Victory Garden](https://open.spotify.com/album/70ch2R18v3Zho0SlcN4CAN) | 0:00 |
+| 88 | [Evergreen](https://open.spotify.com/track/3fLX6yRLD2IkWQUxDJEQ0S) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [Victory Garden](https://open.spotify.com/album/70ch2R18v3Zho0SlcN4CAN) | 3:41 |
 | 89 | [PRICE TAG](https://open.spotify.com/track/6ea45jrg9LYFUapPi4B0sC) | [Sara James](https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV) | [PRICE TAG](https://open.spotify.com/album/4zLvUo0kxF4ULzX0XL3bui) | 3:10 |
 | 90 | [Meclis\-i Cem](https://open.spotify.com/track/7JObibKssAlxeApHTIRRSt) | [Cem Yıldız](https://open.spotify.com/artist/3SASCp3Mzy7lT50cZn11yr) | [Alemane](https://open.spotify.com/album/0SAkA44AqVt90f5BRlZ966) | 3:13 |
 | 91 | [Boys Don't Cry](https://open.spotify.com/track/0TDWLRlQZolhApIkNePfNp) | [Bormin’](https://open.spotify.com/artist/2DCCeNy7EIhIt2TceZELw5), [Skinny Days](https://open.spotify.com/artist/4Q8IIlsZsXY1BgPzaz4DYq) | [Boys Don't Cry](https://open.spotify.com/album/3eUdaXbeIq9JGh3nBsyGX0) | 2:13 |

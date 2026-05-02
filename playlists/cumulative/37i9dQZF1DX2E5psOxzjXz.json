@@ -4243,6 +4243,28 @@
     },
     {
       "album": {
+        "name": "Kehdo Na",
+        "url": "https://open.spotify.com/album/2WNCUv362cuWXZXAz3ANKz"
+      },
+      "artists": [
+        {
+          "name": "Mudabbir Azeez Jamall",
+          "url": "https://open.spotify.com/artist/7HX5PwfHdsoLD7dDdY0f7l"
+        },
+        {
+          "name": "The Hashtags",
+          "url": "https://open.spotify.com/artist/2I98zL3Q63jrawDI778pmV"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194770,
+      "name": "Kehdo Na",
+      "url": "https://open.spotify.com/track/1Wj5vKeO5q8M9YEBsWA1Ft"
+    },
+    {
+      "album": {
         "name": "Khataa",
         "url": "https://open.spotify.com/album/7ep6Huprsc2uWwMhQ35Pr5"
       },
@@ -4396,7 +4418,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 212400,
       "name": "Khuwaab Si",
       "url": "https://open.spotify.com/track/338aAwWf3NKg3UZ5MhOQFz"

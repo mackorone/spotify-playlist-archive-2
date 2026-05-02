@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of pop\. Cover: Jack Gray
 
-2,706 songs - 5 day 19 hr 56 min
+2,707 songs - 5 day 20 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -577,6 +577,7 @@
 | [Do It](https://open.spotify.com/track/56Fu41EhpsPqqfDZsj3eaN) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [DO IT](https://open.spotify.com/album/1Cw6UG5nVm6967rVKe0ciw) | 2:39 | 2025-11-20 | 2026-01-15 |
 | [Do It 'Til I'm Dead](https://open.spotify.com/track/5Bb8S0AmCSPDgKWxbQnuJu) | [ETHAN](https://open.spotify.com/artist/5oqtu58F4NZtVlCamsdmdq) | [Do It 'Til I'm Dead](https://open.spotify.com/album/1wdtPmJrklKEIvFB5VnuX3) | 2:35 | 2025-06-26 | 2025-07-25 |
 | [Do It Like That](https://open.spotify.com/track/7kaFsQygyiCqRboWCXztxZ) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Do It Like That](https://open.spotify.com/album/0Z1ebaoFTQDDzebTh3fD2P) | 2:25 | 2023-07-06 | 2023-08-18 |
+| [Do Me Right](https://open.spotify.com/track/0ATVg2CdySLs6ruXm6D6hr) | [MR\. FANTASY](https://open.spotify.com/artist/34te8NejkffLcYjn9kiAiH) | [Do Me Right](https://open.spotify.com/album/66WDukXJAZwF71EeVW64rJ) | 4:10 | 2026-04-30 |  |
 | [Do Or Die](https://open.spotify.com/track/0zkJYIMrWBrbHRBMQZS6AD) | [Grace Davies](https://open.spotify.com/artist/55VbVrjmAWcvCknVFfPzvK) | [Do Or Die](https://open.spotify.com/album/3sSdSbnrHbVHNVPyU3CFsA) | 2:59 | 2025-02-13 | 2025-04-11 |
 | [Do Re Mi](https://open.spotify.com/track/2UYzGoyIdiTM4oYLi550qE) | [Lucy Lucy](https://open.spotify.com/artist/7uYoEtXQoNAmnvOkIPjwcs) | [Do Re Mi](https://open.spotify.com/album/4XGpbDovHYppZKNq4KVq23) | 3:04 | 2023-09-21 | 2023-10-20 |
 | [Do You Hate Me Now](https://open.spotify.com/track/34qYoMxmCRJL19n0nnJEA2) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [Do You Hate Me Now](https://open.spotify.com/album/5ShprgDId2y63ncajPVS8s) | 3:27 | 2025-11-06 | 2026-01-15 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-06-15",
-  "description": "\u00a1Lo m\u00e1s fresco del hip-hop en espa\u00f1ol! Oblivion's Mighty Trash, Ma\u00f1as Rufino y The Colombians en portada. ",
+  "description": "\u00a1Lo m\u00e1s fresco del hip-hop en espa\u00f1ol! Akapellah en portada. ",
   "name": "Rimas Frescas ",
   "tracks": [
     {
@@ -88,7 +88,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 277572,
       "name": "#5 Sanaci\u00f3n",
       "url": "https://open.spotify.com/track/0soQHMPF3L3VmGemyKFaAf"
@@ -1278,7 +1278,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 158241,
       "name": "Agaraweicap",
       "url": "https://open.spotify.com/track/59JnU4CVg2b7ywJt014S6s"
@@ -1526,7 +1526,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 208617,
       "name": "AirForce",
       "url": "https://open.spotify.com/track/7pUYW8lypYiA4XoC0Ty2Ih"
@@ -5707,6 +5707,24 @@
     },
     {
       "album": {
+        "name": "Con Usted",
+        "url": "https://open.spotify.com/album/2EI5cB51OnmvZcFXoQIukA"
+      },
+      "artists": [
+        {
+          "name": "Teo LB",
+          "url": "https://open.spotify.com/artist/0HwtulWF8xZD2g2IMhNXwo"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155294,
+      "name": "Con Usted",
+      "url": "https://open.spotify.com/track/5CUGu94Rlr4wnILUt8PEzB"
+    },
+    {
+      "album": {
         "name": "Conexi\u00f3n",
         "url": "https://open.spotify.com/album/3EfRXjDxv4DcybfywCr657"
       },
@@ -5916,6 +5934,28 @@
       "duration_ms": 194500,
       "name": "Cosa Seria",
       "url": "https://open.spotify.com/track/6hGeEptIAuhbyG54LBMsGm"
+    },
+    {
+      "album": {
+        "name": "Costra",
+        "url": "https://open.spotify.com/album/0FMyMmdM0GvgKZwKd4F7kb"
+      },
+      "artists": [
+        {
+          "name": "Afromak",
+          "url": "https://open.spotify.com/artist/00QZMNWkHo1k4dFLQVpqHK"
+        },
+        {
+          "name": "Selene",
+          "url": "https://open.spotify.com/artist/3hk133tFNlWGS6SKHSeE7j"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152727,
+      "name": "Costra",
+      "url": "https://open.spotify.com/track/1KPPXNEFBj6lA6uujiJXlE"
     },
     {
       "album": {
@@ -8459,6 +8499,24 @@
     },
     {
       "album": {
+        "name": "El Pana Deiby",
+        "url": "https://open.spotify.com/album/6ugV5SZ0KALBO8BAt1vYXr"
+      },
+      "artists": [
+        {
+          "name": "Akapellah",
+          "url": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251773,
+      "name": "El Pana Deiby",
+      "url": "https://open.spotify.com/track/0p5vebYEqSahFULjaYB8LY"
+    },
+    {
+      "album": {
         "name": "El Penal",
         "url": "https://open.spotify.com/album/71dslCrmtsRxeKHxtm1XWk"
       },
@@ -10410,6 +10468,28 @@
       "duration_ms": 234513,
       "name": "Fuego",
       "url": "https://open.spotify.com/track/6obryFs2LMB2kwLPaoH8sO"
+    },
+    {
+      "album": {
+        "name": "Fuego Azul",
+        "url": "https://open.spotify.com/album/4AKAJlQMHgAp2eqrbGhyp7"
+      },
+      "artists": [
+        {
+          "name": "Under Side 821",
+          "url": "https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1"
+        },
+        {
+          "name": "Richard Ahumada",
+          "url": "https://open.spotify.com/artist/4oR06FdpsOJTcTnOkSzUsC"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360031,
+      "name": "Fuego Azul",
+      "url": "https://open.spotify.com/track/1qBXIowcVO9kZ0C4cD8CLK"
     },
     {
       "album": {
@@ -16688,7 +16768,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 115247,
       "name": "Mi Vida Parece Pel\u00edcula",
       "url": "https://open.spotify.com/track/5AjMmKDirHu4dIIW7ljci1"
@@ -17584,7 +17664,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 166226,
       "name": "N.D. State Of Mind",
       "url": "https://open.spotify.com/track/5KxMcIwEMVypmQYALXMQ0A"
@@ -21731,6 +21811,24 @@
     },
     {
       "album": {
+        "name": "Botellas En La Banqueta y Un Coraz\u00f3n Herido",
+        "url": "https://open.spotify.com/album/37TRdrlnuAOvMxUOur1ILs"
+      },
+      "artists": [
+        {
+          "name": "Toser One",
+          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Quiz\u00e1s",
+      "url": "https://open.spotify.com/track/0Q0QgkuN6QE4ryU4wvlMLy"
+    },
+    {
+      "album": {
         "name": "quiz\u00e1s algo en m\u00ed est\u00e1 mal",
         "url": "https://open.spotify.com/album/3dkXWJh3RWxTpqiB6ssrxm"
       },
@@ -25059,6 +25157,24 @@
     },
     {
       "album": {
+        "name": "Te Est\u00e1s Soltando",
+        "url": "https://open.spotify.com/album/1yqrrS9618BUnLtyaK5vHq"
+      },
+      "artists": [
+        {
+          "name": "Tino El Ping\u00fcino",
+          "url": "https://open.spotify.com/artist/3BbLQNj5OTxm4AZcwyREFF"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291453,
+      "name": "Te Est\u00e1s Soltando",
+      "url": "https://open.spotify.com/track/6mf6ajqQxNQ0LiDp7NhkSX"
+    },
+    {
+      "album": {
         "name": "TE IMAGINO (para mi kryptonita <3)",
         "url": "https://open.spotify.com/album/64Vng5YGgJIhnkg8eNY0ZR"
       },
@@ -28226,7 +28342,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 142300,
       "name": "\u00bfCu\u00e1nto Cuesta?",
       "url": "https://open.spotify.com/track/1ICJirkUVeYaoH1HpNrIZy"

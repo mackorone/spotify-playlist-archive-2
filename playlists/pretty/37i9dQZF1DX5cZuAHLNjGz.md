@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cZuAHLNjGz.md) - [plain]
 
 > Ultimate 101 Punjabi Hits with Arjan Dhillon
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,439,156 likes - 101 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,439,226 likes - 101 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cZuAHLNjGz.md) - [plain]
 | 100 | [Vaari Jaavan](https://open.spotify.com/track/1I7yw0J5KpUaWhdBviGlON) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Jyoti Nooran](https://open.spotify.com/artist/7ezZ4ix4QBrKkvxanGClFB), [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c), [Reble](https://open.spotify.com/artist/3MsxNLVtDVGxjEaxgKAoi0) | [Dhurandhar The Revenge](https://open.spotify.com/album/4jlyYLklV3kTBA6trX3bpj) | 4:10 |
 | 101 | [Hawawan](https://open.spotify.com/track/2jh0PkYbStyXpz3YC4Srjg) | [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN), [Ezu](https://open.spotify.com/artist/2r3HmBK84dHpMW5WFNdWNP) | [Hawawan](https://open.spotify.com/album/6k0CzXHcxMIYu1DdARFD2w) | 2:07 |
 
-Snapshot ID: `AAAAAMD9GSz6kJueLICXQYkWUllQx7R9`
+Snapshot ID: `AAAAAGgBr0LkE75dRqwjTbtxRtDraF2d`

@@ -4,7 +4,7 @@
 
 > Electrified jazz, complex rhythms and virtuosic playing\. Cover: CASIOPEA
 
-173 songs - 16 hr 36 min
+174 songs - 16 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [9mm](https://open.spotify.com/track/6kpFlaIqCSmq6SlAnuVJdO) | [Zoocrü](https://open.spotify.com/artist/6SfbOmjyTe87v7Wgzib1aV) | [9mm](https://open.spotify.com/album/67ZNEbV7U3AyvMgrK5D7vu) | 5:28 | 2021-02-12 |  |
 | [All Roads Lead To Los Angeles](https://open.spotify.com/track/1PHkwus4CNhHE17xM8k5Fx) | [High Pulp](https://open.spotify.com/artist/7mcmohD0Iz3xqKHaMXt5Cf), [Jaleel Shaw](https://open.spotify.com/artist/6z1JfePZKsClonbknZiSKv) | [Pursuit of Ends](https://open.spotify.com/album/5Q0Kom2EPm69MaXhUfizN2) | 4:42 | 2022-02-11 | 2024-04-19 |
 | [All Roads Lead To Los Angeles](https://open.spotify.com/track/4lAZgA07GReOs9Vf1rpcbl) | [High Pulp](https://open.spotify.com/artist/7mcmohD0Iz3xqKHaMXt5Cf), [Jaleel Shaw](https://open.spotify.com/artist/6z1JfePZKsClonbknZiSKv) | [All Roads Lead To Los Angeles](https://open.spotify.com/album/4ikNxWCnCYNwBg2c8BwQgn) | 4:42 | 2022-02-11 |  |
+| [Andromeda](https://open.spotify.com/track/0A1BAZGroEdUY7XiokOuWe) | [Simon Phillips](https://open.spotify.com/artist/6pPx8jYe1vzHuQea1st8Iy) | [Andromeda](https://open.spotify.com/album/6nUR3QC705LwJ23xe3xGou) | 6:47 | 2026-05-01 |  |
 | [Armageddon Blues](https://open.spotify.com/track/55y7Cb9dPLPWBLonVy3iCB) | [Gary Willis](https://open.spotify.com/artist/3w2fcE7mWqTmgRkNKn6gKJ) | [Bent](https://open.spotify.com/album/3sojlfyt5Ej9rI8Yi3QliK) | 6:11 | 2021-02-12 |  |
 | [As the Spirit Sings](https://open.spotify.com/track/4qpKhfmO5O46ljDGSWR2vc) | [John McLaughlin](https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY) | [Liberation Time](https://open.spotify.com/album/0cf89uYaI7ceahwv3Zm4d6) | 5:21 | 2021-07-16 |  |
 | [As the Spirit Sings](https://open.spotify.com/track/7nFjBk5Ads8vihepgdOHoJ) | [John McLaughlin](https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY) | [Liberation Time](https://open.spotify.com/album/1e34TNabxm7UvTL1dNNpr9) | 5:21 | 2021-07-16 | 2024-04-19 |

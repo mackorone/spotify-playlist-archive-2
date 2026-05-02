@@ -2,9 +2,9 @@
 
 ### [alt.rock](https://open.spotify.com/playlist/37i9dQZF1DX309NIG5AnQn)
 
-> rock alternativo argentino\. <br/>📷 RYAN
+> rock alternativo argentino\. <br/>📷 Señorita Novio & Shitstem
 
-326 songs - 18 hr 26 min
+330 songs - 18 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [El Buen Fantasma](https://open.spotify.com/track/7iLbWqKcFMp5uCxXqDjihM) | [Tigre Ulli](https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v) | [El Buen Fantasma](https://open.spotify.com/album/48hbGU7bm2fKzJhoYfI0fA) | 2:59 | 2024-07-19 | 2024-09-28 |
 | [El Canto De Las Ranas](https://open.spotify.com/track/6cGrk0pu2xrhKq10ITS8F6) | [Cabeza Flotante](https://open.spotify.com/artist/0iF7OWW10dBklfM0Hsc0VH) | [El Canto De Las Ranas](https://open.spotify.com/album/1Dv4i4xkh9X0esjdZMyMvm) | 5:05 | 2022-03-25 | 2023-03-25 |
 | [El Deseo](https://open.spotify.com/track/2lI9tqrNU63R4WTzgR3kZ8) | [Revistas](https://open.spotify.com/artist/7awcB0RMHO3U7R0u8AKkNp) | [El Deseo](https://open.spotify.com/album/63cy2g9SzS6wii2kdyl35W) | 2:44 | 2023-06-30 | 2024-07-27 |
+| [EL DISFRAZ](https://open.spotify.com/track/3UK2hBCwv0fz97poNNotJr) | [Señorita Novio](https://open.spotify.com/artist/2HCy7IPI79aGrEYSWfjwaF), [Shitstem](https://open.spotify.com/artist/1gYX86oU6Db846X9wHkjyo) | [EL DISFRAZ](https://open.spotify.com/album/1tntKA0GreRjlGyYpJHaE1) | 3:30 | 2026-05-01 |  |
 | [El Festejo](https://open.spotify.com/track/6jIwfnFqOCPlv7u8YizGpy) | [Club de Haters](https://open.spotify.com/artist/5ViQWU29kpydoCB1UPAvRC), [Tigre Ulli](https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v) | [El Festejo](https://open.spotify.com/album/0KluUJ3EAbghN32vEO7l7S) | 3:17 | 2022-03-25 | 2023-03-25 |
 | [El Fin](https://open.spotify.com/track/1KQ9arIyVcyvbixRfog2NB) | [Riel](https://open.spotify.com/artist/4ys8P86LOOHUoO954p2Ciu) | [Principio del Fin](https://open.spotify.com/album/0I1uNlrv0RNdmWoUOIXe0m) | 4:09 | 2023-05-12 | 2024-04-19 |
 | [El Fin](https://open.spotify.com/track/7jBGohc4ZTA8QFfz9QL9JS) | [Riel](https://open.spotify.com/artist/4ys8P86LOOHUoO954p2Ciu) | [Principio del Fin](https://open.spotify.com/album/3sMBBet6Pvyq5cRK1uXQiA) | 4:09 | 2024-04-19 | 2026-02-28 |
@@ -141,6 +142,7 @@
 | [Fantasmas](https://open.spotify.com/track/161UJ1aTjzHXcI1J9sAV7S) | [Los Jardines De Bruselas](https://open.spotify.com/artist/2F4tyujNuSw8UiWfwujwP8) | [Fantasmas](https://open.spotify.com/album/7z8TypbmxIssYjPmB1yDsc) | 3:29 | 2022-03-25 | 2023-03-25 |
 | [Fax](https://open.spotify.com/track/5SODEL6YnaJqng9sIiiTjx) | [Dum Chica](https://open.spotify.com/artist/31fWtiCtU07AlqZ5drzplX) | [Fax](https://open.spotify.com/album/2coynF5NZJ4v9qa1XLZELQ) | 3:11 | 2024-04-26 | 2024-08-13 |
 | [febrero](https://open.spotify.com/track/48htFaGFraVtzHSv3YeB4O) | [montegrande](https://open.spotify.com/artist/662HirrjZdhmvAZseAOOZT) | [aeropuerto](https://open.spotify.com/album/3ugKv9ex4bNGJAEsBs8Igu) | 3:33 | 2023-03-31 | 2025-10-25 |
+| [Frikidadidou](https://open.spotify.com/track/1sZs4kFiJhCxLXNGHSxYdx) | [NIKKÖ](https://open.spotify.com/artist/59pyzOYQlRJx8z1gzrN2ai), [Mariana Enriquez](https://open.spotify.com/artist/01NAGA1oV4Pbp9VW0E0u69) | [Frikidadidou](https://open.spotify.com/album/7hOpzL3rbfcLBLuQUfOsno) | 3:22 | 2026-05-01 |  |
 | [GENERA\-VIT](https://open.spotify.com/track/2ogBuIpn7gakuffUdj31hd) | [Melanie Williams](https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31) | [TReSMO](https://open.spotify.com/album/2EoKazFQaT7LSvR55Nsr2s) | 1:51 | 2023-05-05 | 2025-10-25 |
 | [Gracias a Vos](https://open.spotify.com/track/76VjyP6ZghLdYKSg1HINbN) | [Marina Fages](https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3) | [Gracias a Vos](https://open.spotify.com/album/3xz4R5OjrGatQdKv3lBrbw) | 3:15 | 2026-02-27 | 2026-04-04 |
 | [Gualicho](https://open.spotify.com/track/4T19ysiQ1owalfXXXcWZK5) | [Gativideo](https://open.spotify.com/artist/4syvKWgnIigkaQdgF4NNZM) | [Gualicho](https://open.spotify.com/album/2NeIHG0JddnTE6hAd5XzGM) | 3:32 | 2022-03-25 | 2023-03-25 |
@@ -260,6 +262,7 @@
 | [PUNKY PLAYERO](https://open.spotify.com/track/27ItPouIzWP5i4bPasTR8N) | [Marki](https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J) | [MIXTAPE DE VERANO](https://open.spotify.com/album/0PxeMQT4VFstgaEdpPjRqV) | 1:23 | 2022-03-25 | 2023-03-25 |
 | [Pussy Pancake](https://open.spotify.com/track/0EGe09LoBpYKRXQaoOltXM) | [Kill Flora](https://open.spotify.com/artist/618OuvXwIUhB0xE7XnCiwe) | [Pussy Pancake](https://open.spotify.com/album/22gi3ijlL33ge8zqEBV6F0) | 2:36 | 2023-08-18 | 2024-08-24 |
 | [Pájaros](https://open.spotify.com/track/40r8exebu3RCPZsM8CGUly) | [Suarez](https://open.spotify.com/artist/3UmO1Acb6OVGSfiLnYe69n), [Julieta Salas](https://open.spotify.com/artist/3hD02itkArv5tzcKIZYpgt) | [Por última vez](https://open.spotify.com/album/6551YKhH5mVEgrJhLIWTar) | 2:57 | 2022-03-25 | 2023-03-25 |
+| [Páramo](https://open.spotify.com/track/4weH787j8LRxnSfCC9HGgB) | [Mujer Cebra](https://open.spotify.com/artist/6UZQzfJ09W8Dqmr0UoU5HL) | [Páramo](https://open.spotify.com/album/55sbDjtpxbSQwC7kpfqEho) | 4:27 | 2026-05-01 |  |
 | [que se la banquen](https://open.spotify.com/track/1SDALVQe638r5X8r0NfAaJ) | [reybruja](https://open.spotify.com/artist/1w9Zl7p0JQAYAf9lmDGMYz) | [que se la banquen](https://open.spotify.com/album/2RggQwKLfVqYbNM06FDQam) | 2:26 | 2025-03-14 |  |
 | [Querido chico](https://open.spotify.com/track/3jyCGPvVavcRnvOMvlJOOO) | [Nina Suárez](https://open.spotify.com/artist/1NQmLvlEcg6hE8CQ0r31GV) | [Querido chico](https://open.spotify.com/album/3Qh9uYKdwMnhZLXdI0BZsu) | 2:50 | 2025-11-21 |  |
 | [Qué me importa](https://open.spotify.com/track/24h868TwxJicgv2geeijAv) | [Pelopincho](https://open.spotify.com/artist/14V8tDnnDCXIVaJctOamBG) | [Loop Adolescente](https://open.spotify.com/album/1OGDMGGnVTOkj8NxpvMMMb) | 2:33 | 2022-03-25 | 2023-03-25 |
@@ -313,6 +316,7 @@
 | [Un Cactus](https://open.spotify.com/track/04N3z5dU6x4eITjDuvlENM) | [Leandro Lacerna](https://open.spotify.com/artist/5VpPGxW9y2vvqD0PAsnqZ9), [Alejo y Valentin](https://open.spotify.com/artist/18e0X2rB92SDmDYGCFTGum) | [SUPERSAD](https://open.spotify.com/album/0yRGn3oGpSAi41lV9RVBnP) | 2:16 | 2022-03-25 | 2023-03-25 |
 | [Un Documental Sobre Mí](https://open.spotify.com/track/1zaSe09Z9HQQBSj3SjzSZj) | [Bestia Bebé](https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp) | [Gracias Por Nada](https://open.spotify.com/album/3nPaS8oCr3C0ttEL1vdAte) | 4:40 | 2022-03-25 | 2023-03-25 |
 | [UN PLAN B](https://open.spotify.com/track/5YKlZSo139XFVe5IWTXKcK) | [SIN DATOS](https://open.spotify.com/artist/6nR7tpxkxQxYjiYXMoETcj) | [UN PLAN B](https://open.spotify.com/album/2qsupLRpOKW6oUcFCp84BG) | 1:40 | 2025-04-25 |  |
+| [Un poco triste](https://open.spotify.com/track/7pdxm9LvnfOWE0Vr8wibJz) | [Sakatumba](https://open.spotify.com/artist/205zSqF4seFuqDGmmQEMad) | [Un poco triste](https://open.spotify.com/album/0JhTvPGfVl8RU9rYjRjHrC) | 2:09 | 2026-05-01 |  |
 | [Un Rayo de Sol](https://open.spotify.com/track/0oAJBvPkXfLcA1Gh01jcdi) | [Suarez](https://open.spotify.com/artist/3UmO1Acb6OVGSfiLnYe69n) | [29:09:00](https://open.spotify.com/album/0jS4ed8WizhMKAqpafgrJf) | 4:54 | 2023-03-23 | 2024-11-30 |
 | [Una Canción](https://open.spotify.com/track/6uEZio7p3zHhIPSUiTFnLC) | [El Club Audiovisual](https://open.spotify.com/artist/1YZnktJjGKEbhQBcpQQjQ7), [ODD MAMI](https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6) | [Una Canción](https://open.spotify.com/album/4AR7pIVOrcS7KYeVJF9BpG) | 2:42 | 2023-03-23 | 2023-07-29 |
 | [Una Temporada en el Invierno](https://open.spotify.com/track/1UjHRALJEtjgXd3uKC6MnF) | [Fin del Mundo](https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn) | [Una Temporada en el Invierno](https://open.spotify.com/album/7uzp6jDrNGd5BCQGHmQVIy) | 3:56 | 2024-08-12 |  |

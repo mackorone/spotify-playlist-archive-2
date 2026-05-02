@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Los \u00e9xitos de banda que necesitas! COSME TADEO \ud83d\udcf8",
-  "num_followers": 1301607,
+  "num_followers": 1301601,
   "original_name": "Banda 2026",
   "owner": {
     "name": "Spotify",
@@ -547,6 +547,22 @@
     {
       "added_at": "2026-04-24 17:33:13",
       "album": {
+        "name": "En Coma Inducido",
+        "url": "https://open.spotify.com/album/79YqRvx0jBW7Jju1jUbPmo"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "duration_ms": 159929,
+      "name": "En Coma Inducido",
+      "url": "https://open.spotify.com/track/7cqzVh8WGPqFdF0MvUuU1j"
+    },
+    {
+      "added_at": "2026-04-24 17:33:13",
+      "album": {
         "name": "Te Amo",
         "url": "https://open.spotify.com/album/6J5nDuL7cgp9igdUn9cR7L"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 209548,
       "name": "Te Amo",
       "url": "https://open.spotify.com/track/2g16Okw0KYkvewS8TShk24"
-    },
-    {
-      "added_at": "2026-04-24 17:33:13",
-      "album": {
-        "name": "En Coma Inducido",
-        "url": "https://open.spotify.com/album/79YqRvx0jBW7Jju1jUbPmo"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Recoditos",
-          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
-        }
-      ],
-      "duration_ms": 159929,
-      "name": "En Coma Inducido",
-      "url": "https://open.spotify.com/track/7cqzVh8WGPqFdF0MvUuU1j"
     },
     {
       "added_at": "2026-04-24 17:33:13",
@@ -643,22 +643,6 @@
     {
       "added_at": "2026-04-24 17:33:13",
       "album": {
-        "name": "Le Va A Doler",
-        "url": "https://open.spotify.com/album/3FEbPL9ApdttYUsPOq083K"
-      },
-      "artists": [
-        {
-          "name": "Josi Cuen",
-          "url": "https://open.spotify.com/artist/5nhpUbjd9KtuE0vi67czgY"
-        }
-      ],
-      "duration_ms": 160258,
-      "name": "Le Va A Doler",
-      "url": "https://open.spotify.com/track/5NAtdcJlfRoBrSTkFutxCd"
-    },
-    {
-      "added_at": "2026-04-24 17:33:13",
-      "album": {
         "name": "Que Bonita Mujer",
         "url": "https://open.spotify.com/album/2BtZH6xEnUZ9FVoi9DXLdN"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 203720,
       "name": "Que Bonita Mujer",
       "url": "https://open.spotify.com/track/2vXiRUDuwj8dGaEE8MbiRB"
+    },
+    {
+      "added_at": "2026-04-24 17:33:13",
+      "album": {
+        "name": "Le Va A Doler",
+        "url": "https://open.spotify.com/album/3FEbPL9ApdttYUsPOq083K"
+      },
+      "artists": [
+        {
+          "name": "Josi Cuen",
+          "url": "https://open.spotify.com/artist/5nhpUbjd9KtuE0vi67czgY"
+        }
+      ],
+      "duration_ms": 160258,
+      "name": "Le Va A Doler",
+      "url": "https://open.spotify.com/track/5NAtdcJlfRoBrSTkFutxCd"
     },
     {
       "added_at": "2026-04-24 17:33:13",
@@ -847,6 +847,22 @@
     {
       "added_at": "2026-04-24 17:33:13",
       "album": {
+        "name": "Me Las Dijo El Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/4b5ybbaw11AIMgYWq2JOvf"
+      },
+      "artists": [
+        {
+          "name": "Giovanny Ayala",
+          "url": "https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j"
+        }
+      ],
+      "duration_ms": 175872,
+      "name": "Se Cancela",
+      "url": "https://open.spotify.com/track/60Rg94sunanVgdeJB9rkPC"
+    },
+    {
+      "added_at": "2026-04-24 17:33:13",
+      "album": {
         "name": "Me Esta Doliendo",
         "url": "https://open.spotify.com/album/4LhEN8VedFG9EMBdZKoDXB"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 215068,
       "name": "Como Este Loco",
       "url": "https://open.spotify.com/track/6x7953w9X48ERFGN2QpEqN"
-    },
-    {
-      "added_at": "2026-04-24 17:33:13",
-      "album": {
-        "name": "Me Las Dijo El Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/4b5ybbaw11AIMgYWq2JOvf"
-      },
-      "artists": [
-        {
-          "name": "Giovanny Ayala",
-          "url": "https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j"
-        }
-      ],
-      "duration_ms": 175872,
-      "name": "Se Cancela",
-      "url": "https://open.spotify.com/track/60Rg94sunanVgdeJB9rkPC"
     },
     {
       "added_at": "2026-04-24 17:33:13",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2026-04-24 17:33:13",
       "album": {
-        "name": "B\u00e1ilame",
-        "url": "https://open.spotify.com/album/3ytGy2IgkK0jrTWXESoDGn"
-      },
-      "artists": [
-        {
-          "name": "Banda Renovacion",
-          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
-        }
-      ],
-      "duration_ms": 164153,
-      "name": "B\u00e1ilame",
-      "url": "https://open.spotify.com/track/1RKnDFvsPrPwpSdXKFKtEl"
-    },
-    {
-      "added_at": "2026-04-24 17:33:13",
-      "album": {
         "name": "Sonri\u00e9ndole A La Vida (En Vivo)",
         "url": "https://open.spotify.com/album/6uTfMJlT4CO62cQrrGKWhn"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 209000,
       "name": "Sonri\u00e9ndole A La Vida - En Vivo",
       "url": "https://open.spotify.com/track/0rVWmNE47AvPDTqtfHXbIA"
+    },
+    {
+      "added_at": "2026-04-24 17:33:13",
+      "album": {
+        "name": "B\u00e1ilame",
+        "url": "https://open.spotify.com/album/3ytGy2IgkK0jrTWXESoDGn"
+      },
+      "artists": [
+        {
+          "name": "Banda Renovacion",
+          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
+        }
+      ],
+      "duration_ms": 164153,
+      "name": "B\u00e1ilame",
+      "url": "https://open.spotify.com/track/1RKnDFvsPrPwpSdXKFKtEl"
     },
     {
       "added_at": "2026-04-24 17:33:13",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2026-04-24 17:33:13",
       "album": {
-        "name": "Los Que Amo",
-        "url": "https://open.spotify.com/album/1Rsjp6wljeukexzkdP1plW"
-      },
-      "artists": [
-        {
-          "name": "Nicolas Garcia",
-          "url": "https://open.spotify.com/artist/6lT5Srr5Jw3bVDyEeCMaaD"
-        }
-      ],
-      "duration_ms": 206878,
-      "name": "Los Que Amo",
-      "url": "https://open.spotify.com/track/09AIKcdNoyFIiM5hQ3p4aK"
-    },
-    {
-      "added_at": "2026-04-24 17:33:13",
-      "album": {
         "name": "Pedo No Cuenta",
         "url": "https://open.spotify.com/album/6WmW0TfNDMqS3jUUn61mKZ"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 144000,
       "name": "Pedo No Cuenta",
       "url": "https://open.spotify.com/track/1ICxx5XxqQdtCwed5WDA0D"
+    },
+    {
+      "added_at": "2026-04-24 17:33:13",
+      "album": {
+        "name": "Los Que Amo",
+        "url": "https://open.spotify.com/album/1Rsjp6wljeukexzkdP1plW"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Garcia",
+          "url": "https://open.spotify.com/artist/6lT5Srr5Jw3bVDyEeCMaaD"
+        }
+      ],
+      "duration_ms": 206878,
+      "name": "Los Que Amo",
+      "url": "https://open.spotify.com/track/09AIKcdNoyFIiM5hQ3p4aK"
     },
     {
       "added_at": "2026-04-24 17:33:13",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2026-04-24 17:33:13",
       "album": {
-        "name": "Armando Aguirre",
-        "url": "https://open.spotify.com/album/1byarWQ4cUypN9fu5vW9ZC"
-      },
-      "artists": [
-        {
-          "name": "Nicolas Garcia",
-          "url": "https://open.spotify.com/artist/6lT5Srr5Jw3bVDyEeCMaaD"
-        }
-      ],
-      "duration_ms": 161228,
-      "name": "Armando Aguirre",
-      "url": "https://open.spotify.com/track/62VbQIzls3Tg16odpZ4paF"
-    },
-    {
-      "added_at": "2026-04-24 17:33:13",
-      "album": {
         "name": "Pa' Adelante Voy",
         "url": "https://open.spotify.com/album/78e7lUBppt7mwXzXcuYrV6"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 164684,
       "name": "Pa' Adelante Voy",
       "url": "https://open.spotify.com/track/3YHnfff6ZchUGF1icPkg0p"
+    },
+    {
+      "added_at": "2026-04-24 17:33:13",
+      "album": {
+        "name": "Armando Aguirre",
+        "url": "https://open.spotify.com/album/1byarWQ4cUypN9fu5vW9ZC"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Garcia",
+          "url": "https://open.spotify.com/artist/6lT5Srr5Jw3bVDyEeCMaaD"
+        }
+      ],
+      "duration_ms": 161228,
+      "name": "Armando Aguirre",
+      "url": "https://open.spotify.com/track/62VbQIzls3Tg16odpZ4paF"
     },
     {
       "added_at": "2026-04-24 17:33:13",

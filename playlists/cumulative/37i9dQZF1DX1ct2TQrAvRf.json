@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "India's Rap Scene. Cover - Shubh",
+  "description": "India's Rap Scene. Cover - KR$NA & Dhanda Nyoliwala",
   "name": "RAP 91",
   "tracks": [
     {
@@ -658,7 +658,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 129251,
       "name": "Aura 10/10 (From \"Meesaya Murukku 2\")",
       "url": "https://open.spotify.com/track/0xYYUicaDPp0VPyL0z7xzB"
@@ -1465,6 +1465,28 @@
     },
     {
       "album": {
+        "name": "Boom Shaka",
+        "url": "https://open.spotify.com/album/30WCmigi6kMczGUKjmtqxb"
+      },
+      "artists": [
+        {
+          "name": "KR$NA",
+          "url": "https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t"
+        },
+        {
+          "name": "Dhanda Nyoliwala",
+          "url": "https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218769,
+      "name": "Boom Shaka",
+      "url": "https://open.spotify.com/track/1g6nQTE5x7eLJX7tXCTiSz"
+    },
+    {
+      "album": {
         "name": "Street Knowledge",
         "url": "https://open.spotify.com/album/4atfMjGwk0GMXIvGvqyNqC"
       },
@@ -2080,7 +2102,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 168481,
       "name": "Deadly Zone",
       "url": "https://open.spotify.com/track/68LtGqZ3Ulvy1nMcdhEEht"
@@ -2338,6 +2360,28 @@
       "duration_ms": 146301,
       "name": "Dil Lena Khel",
       "url": "https://open.spotify.com/track/0rikQXyHCK7fpkrCjO0FDz"
+    },
+    {
+      "album": {
+        "name": "DINOSAUR",
+        "url": "https://open.spotify.com/album/6rA0EdOuLyA1DpOBYj7Wvf"
+      },
+      "artists": [
+        {
+          "name": "Krish Rao",
+          "url": "https://open.spotify.com/artist/0iwEynjG3vgrTK0dj5QHxl"
+        },
+        {
+          "name": "ICon",
+          "url": "https://open.spotify.com/artist/5nVC0lWDXqCHm0WX9BgjXg"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141333,
+      "name": "DINOSAUR",
+      "url": "https://open.spotify.com/track/7E39PKJyPRbwnzmFI1h8ur"
     },
     {
       "album": {

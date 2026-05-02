@@ -7643,6 +7643,32 @@
     },
     {
       "album": {
+        "name": "Fayda",
+        "url": "https://open.spotify.com/album/7aJXXrwEZBOAOkpzOkjspL"
+      },
+      "artists": [
+        {
+          "name": "Muheet Khan",
+          "url": "https://open.spotify.com/artist/7JJ5y1QW0tDTlc3ZjKbcE9"
+        },
+        {
+          "name": "Illuminhadi",
+          "url": "https://open.spotify.com/artist/5XAv2ZKaRm5PHhWAMFFkSf"
+        },
+        {
+          "name": "NVY",
+          "url": "https://open.spotify.com/artist/1NcRcMDkVhDDwtHF53VfSa"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210955,
+      "name": "Fayda",
+      "url": "https://open.spotify.com/track/28CgqEgrrzneWi1DjDZNmp"
+    },
+    {
+      "album": {
         "name": "Fazed",
         "url": "https://open.spotify.com/album/04Vw3vJtHfYZW8m7GKMQiU"
       },

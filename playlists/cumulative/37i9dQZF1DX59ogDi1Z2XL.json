@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "The coldest sounds in hip-hop, coming out of Canada. Cover: Drake \ud83e\uddca",
+  "description": "The coldest sounds in hip-hop, coming out of Canada. Cover: NAV & Quavo",
   "name": "Northern Bars",
   "tracks": [
     {
@@ -2636,6 +2636,28 @@
       "duration_ms": 119484,
       "name": "Amen",
       "url": "https://open.spotify.com/track/3ZbRv2jti9a7scAJtDm0qb"
+    },
+    {
+      "album": {
+        "name": "american IDOL (feat. Ben Reilly)",
+        "url": "https://open.spotify.com/album/59IFe26PQx1EOCVuRUMZD7"
+      },
+      "artists": [
+        {
+          "name": "Skip Waiters",
+          "url": "https://open.spotify.com/artist/4VarNqx7kH5tBCBQwtixav"
+        },
+        {
+          "name": "Ben Reilly",
+          "url": "https://open.spotify.com/artist/4lrP5UPxljRj14uzlXgZgv"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172307,
+      "name": "american IDOL (feat. Ben Reilly)",
+      "url": "https://open.spotify.com/track/0INdkTHE4CnWPKDLRwwL4I"
     },
     {
       "album": {
@@ -10918,7 +10940,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 129523,
       "name": "DONT KNOW",
       "url": "https://open.spotify.com/track/7ER3cWs3Mi99H5CCVHCdNv"
@@ -24761,6 +24783,28 @@
     },
     {
       "album": {
+        "name": "MUTT",
+        "url": "https://open.spotify.com/album/0KfsQmnXet0Ne5V8c7Nnrm"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119965,
+      "name": "MUTT",
+      "url": "https://open.spotify.com/track/2hk1qsUurNhymuTIQKoCws"
+    },
+    {
+      "album": {
         "name": "MVP",
         "url": "https://open.spotify.com/album/5oCCfkVCpkSUhBUXe0pyJF"
       },
@@ -25742,7 +25786,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 171789,
       "name": "NNT",
       "url": "https://open.spotify.com/track/6RJ5RBEdQUdzAuLMRbeNqm"
@@ -35049,6 +35093,24 @@
     },
     {
       "album": {
+        "name": "Spring Bling",
+        "url": "https://open.spotify.com/album/3d3wu0DXBLjUPMKF43QQOz"
+      },
+      "artists": [
+        {
+          "name": "DVBLM",
+          "url": "https://open.spotify.com/artist/2MUXp2OoYU1py0PRSxbn7B"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139316,
+      "name": "Spring Bling",
+      "url": "https://open.spotify.com/track/1F4AIQIVBthPKvXvnRb4Y2"
+    },
+    {
+      "album": {
         "name": "SSII.",
         "url": "https://open.spotify.com/album/24odUgXWSYdsGrC2ogiBm1"
       },
@@ -38020,10 +38082,36 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 190383,
       "name": "The Market",
       "url": "https://open.spotify.com/track/1RLj2wSCWUemxpldfjaDWn"
+    },
+    {
+      "album": {
+        "name": "The Market Remix (feat. A Boogie Wit da Hoodie)",
+        "url": "https://open.spotify.com/album/7bg5wEjbiAcVKmpixEfmrx"
+      },
+      "artists": [
+        {
+          "name": "Casper TNG",
+          "url": "https://open.spotify.com/artist/2YqKOT955onYp7NLWySVZ6"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "100Bandplan",
+          "url": "https://open.spotify.com/artist/54gXMsMsoa0quu4bwTms8v"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207374,
+      "name": "The Market Remix (feat. A Boogie Wit da Hoodie)",
+      "url": "https://open.spotify.com/track/1OsVaHQgD0x4q8byl0yXcF"
     },
     {
       "album": {
@@ -39722,7 +39810,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 182673,
       "name": "Trimski",
       "url": "https://open.spotify.com/track/6ApfK0ChvyLJcG4lyA3LbW"

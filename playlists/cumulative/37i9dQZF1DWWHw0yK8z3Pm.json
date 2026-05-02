@@ -2453,6 +2453,24 @@
     },
     {
       "album": {
+        "name": "Cabin Fever",
+        "url": "https://open.spotify.com/album/42Rgj6WUXd5iTaJ76TXqQs"
+      },
+      "artists": [
+        {
+          "name": "John Shambles",
+          "url": "https://open.spotify.com/artist/06I4xBSxNsS6WHTINcKEwl"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257816,
+      "name": "Concrete Cowboys",
+      "url": "https://open.spotify.com/track/5psdsH70eLJRu198sLYNrD"
+    },
+    {
+      "album": {
         "name": "Constellations",
         "url": "https://open.spotify.com/album/64tEZ5dQGzLVV9pGkWnebY"
       },
@@ -2792,7 +2810,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 219030,
       "name": "Dance On Thru",
       "url": "https://open.spotify.com/track/5IN1bAiqeVW8Xb7ZV2pWBj"
@@ -6581,7 +6599,7 @@
     },
     {
       "album": {
-        "name": "Knew It All Along (With Nic D)",
+        "name": "Knew It All Along (feat. Nic D)",
         "url": "https://open.spotify.com/album/2P0Z4uOfgIjpRFT0qn86nA"
       },
       "artists": [
@@ -6598,7 +6616,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 183321,
-      "name": "Knew It All Along (With Nic D)",
+      "name": "Knew It All Along (feat. Nic D)",
       "url": "https://open.spotify.com/track/0RyBS230wl5kjuqxutK5KL"
     },
     {

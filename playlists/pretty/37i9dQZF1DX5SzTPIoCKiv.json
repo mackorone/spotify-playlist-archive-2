@@ -1,15 +1,47 @@
 {
-  "description": "Recent hits from your favorite Christian Contemporary artists.  Cover: Jamie MacDonald",
-  "num_followers": 825927,
+  "description": "Recent hits from your favorite Christian Contemporary artists.  Cover: Phil Wickham",
+  "num_followers": 826236,
   "original_name": "Christian Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAN/prSISAivmqC/mPXAE4MDsS//b",
+  "snapshot_id": "AAAAABEVPUcPyFCUpgdIcWXjBasJEWhJ",
   "tracks": [
     {
-      "added_at": "2026-04-03 04:00:56",
+      "added_at": "2026-05-01 21:43:40",
+      "album": {
+        "name": "What An Awesome God",
+        "url": "https://open.spotify.com/album/19rQaj9WUt61x4kiFOGRlc"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 211866,
+      "name": "What An Awesome God",
+      "url": "https://open.spotify.com/track/2fKnX8RINrl4eOG5klOhcZ"
+    },
+    {
+      "added_at": "2026-05-01 21:43:40",
+      "album": {
+        "name": "demons",
+        "url": "https://open.spotify.com/album/6KAkZgA0rnazv1gQKLcOyW"
+      },
+      "artists": [
+        {
+          "name": "Josiah Queen",
+          "url": "https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2"
+        }
+      ],
+      "duration_ms": 190126,
+      "name": "demons",
+      "url": "https://open.spotify.com/track/5HXFe0eb5lCfJpsqoqIbRS"
+    },
+    {
+      "added_at": "2026-05-01 21:43:40",
       "album": {
         "name": "Jamie MacDonald",
         "url": "https://open.spotify.com/album/0y3pWJZ5j2JPYI2K3vPzZp"
@@ -25,7 +57,7 @@
       "url": "https://open.spotify.com/track/7pE8ZqTCkioWUkdjh7W27u"
     },
     {
-      "added_at": "2026-04-03 04:00:56",
+      "added_at": "2026-05-01 21:43:40",
       "album": {
         "name": "King Of Hearts",
         "url": "https://open.spotify.com/album/39sqUPX1iGhkoubpTi9ORw"
@@ -45,39 +77,7 @@
       "url": "https://open.spotify.com/track/0ZWQT5FqDfSmpYXqhJ1nhA"
     },
     {
-      "added_at": "2026-04-03 04:00:56",
-      "album": {
-        "name": "What An Awesome God",
-        "url": "https://open.spotify.com/album/19rQaj9WUt61x4kiFOGRlc"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 211866,
-      "name": "What An Awesome God",
-      "url": "https://open.spotify.com/track/2fKnX8RINrl4eOG5klOhcZ"
-    },
-    {
-      "added_at": "2026-04-03 04:00:56",
-      "album": {
-        "name": "Let It Be A Hallelujah",
-        "url": "https://open.spotify.com/album/0UvsYiQ89EzZCxNTijAYcc"
-      },
-      "artists": [
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Let It Be A Hallelujah",
-      "url": "https://open.spotify.com/track/5AghoJrCWnWgT9bFhNXjcs"
-    },
-    {
-      "added_at": "2026-04-03 04:00:56",
+      "added_at": "2026-05-01 21:43:40",
       "album": {
         "name": "Honest Conversations",
         "url": "https://open.spotify.com/album/3qGiq0le8CJHSjclrv7TW0"
@@ -93,7 +93,23 @@
       "url": "https://open.spotify.com/track/27wpOVposNwYnFAQ8c4mSo"
     },
     {
-      "added_at": "2026-04-03 04:00:56",
+      "added_at": "2026-05-01 21:43:40",
+      "album": {
+        "name": "The Truth",
+        "url": "https://open.spotify.com/album/0TuG9SXIiyZ2JkuqGVNMXd"
+      },
+      "artists": [
+        {
+          "name": "Megan Woods",
+          "url": "https://open.spotify.com/artist/5FCdZItP2SRoMCb3QNVFIl"
+        }
+      ],
+      "duration_ms": 222295,
+      "name": "The Truth",
+      "url": "https://open.spotify.com/track/7hEIWnAlHZSROV8CPiL3UN"
+    },
+    {
+      "added_at": "2026-05-01 21:43:40",
       "album": {
         "name": "YOUR WAY'S BETTER",
         "url": "https://open.spotify.com/album/6BDk028UnxaR4py1gf8Vtk"
@@ -109,27 +125,39 @@
       "url": "https://open.spotify.com/track/4qrbjoNP9NZwe79Rg9IlFU"
     },
     {
-      "added_at": "2026-04-03 04:00:56",
+      "added_at": "2026-05-01 21:43:40",
       "album": {
-        "name": "WORLD ON FIRE",
-        "url": "https://open.spotify.com/album/1QIEg8d4MhQVhzFDe1QZdn"
+        "name": "Still Waters",
+        "url": "https://open.spotify.com/album/32qFN5Usk7h9t1AJLwXJ2p"
       },
       "artists": [
         {
-          "name": "for KING & COUNTRY",
-          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
-        },
-        {
-          "name": "Taylor Hill",
-          "url": "https://open.spotify.com/artist/5enXh7VYtH8x63M7coq9tJ"
+          "name": "Leanna Crawford",
+          "url": "https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf"
         }
       ],
-      "duration_ms": 196555,
-      "name": "WORLD ON FIRE",
-      "url": "https://open.spotify.com/track/7FMXUt0JW9tPhvjqZWZPvE"
+      "duration_ms": 236941,
+      "name": "Still Waters (Psalm 23)",
+      "url": "https://open.spotify.com/track/10Bowyu24Jwksr2UhYcRYc"
     },
     {
-      "added_at": "2026-04-03 04:00:56",
+      "added_at": "2026-05-01 21:43:40",
+      "album": {
+        "name": "Song Of The Saints",
+        "url": "https://open.spotify.com/album/2GjcuR58pe1bVWC68eSKHv"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 250066,
+      "name": "Homesick For Heaven",
+      "url": "https://open.spotify.com/track/0kXFgZwytz0ig8q2ONYYjq"
+    },
+    {
+      "added_at": "2026-05-01 21:43:40",
       "album": {
         "name": "Take It All Back",
         "url": "https://open.spotify.com/album/0CmaxOquxepYKzJjDJCmvt"
@@ -153,23 +181,7 @@
       "url": "https://open.spotify.com/track/3ojnCCs5izqgJlRMIBfENI"
     },
     {
-      "added_at": "2026-04-03 04:00:56",
-      "album": {
-        "name": "Still Waters",
-        "url": "https://open.spotify.com/album/32qFN5Usk7h9t1AJLwXJ2p"
-      },
-      "artists": [
-        {
-          "name": "Leanna Crawford",
-          "url": "https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf"
-        }
-      ],
-      "duration_ms": 236941,
-      "name": "Still Waters (Psalm 23)",
-      "url": "https://open.spotify.com/track/10Bowyu24Jwksr2UhYcRYc"
-    },
-    {
-      "added_at": "2026-04-03 04:00:56",
+      "added_at": "2026-05-01 21:43:40",
       "album": {
         "name": "Mt. Zion",
         "url": "https://open.spotify.com/album/0AF1OmlS1oYlymcUNCmmKd"
@@ -185,55 +197,43 @@
       "url": "https://open.spotify.com/track/1GvJ35amuk7oGjcnoYSKFA"
     },
     {
-      "added_at": "2026-04-03 04:00:56",
+      "added_at": "2026-05-01 21:43:40",
       "album": {
-        "name": "Song Of The Saints",
-        "url": "https://open.spotify.com/album/2GjcuR58pe1bVWC68eSKHv"
+        "name": "WORLD ON FIRE",
+        "url": "https://open.spotify.com/album/1QIEg8d4MhQVhzFDe1QZdn"
       },
       "artists": [
         {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+          "name": "for KING & COUNTRY",
+          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
+        },
+        {
+          "name": "Taylor Hill",
+          "url": "https://open.spotify.com/artist/5enXh7VYtH8x63M7coq9tJ"
         }
       ],
-      "duration_ms": 250066,
-      "name": "Homesick For Heaven",
-      "url": "https://open.spotify.com/track/0kXFgZwytz0ig8q2ONYYjq"
+      "duration_ms": 196555,
+      "name": "WORLD ON FIRE",
+      "url": "https://open.spotify.com/track/7FMXUt0JW9tPhvjqZWZPvE"
     },
     {
-      "added_at": "2026-04-03 04:00:56",
+      "added_at": "2026-05-01 21:43:40",
       "album": {
-        "name": "The Truth",
-        "url": "https://open.spotify.com/album/0TuG9SXIiyZ2JkuqGVNMXd"
+        "name": "Let It Be A Hallelujah",
+        "url": "https://open.spotify.com/album/0UvsYiQ89EzZCxNTijAYcc"
       },
       "artists": [
         {
-          "name": "Megan Woods",
-          "url": "https://open.spotify.com/artist/5FCdZItP2SRoMCb3QNVFIl"
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
         }
       ],
-      "duration_ms": 222295,
-      "name": "The Truth",
-      "url": "https://open.spotify.com/track/7hEIWnAlHZSROV8CPiL3UN"
+      "duration_ms": 238000,
+      "name": "Let It Be A Hallelujah",
+      "url": "https://open.spotify.com/track/5AghoJrCWnWgT9bFhNXjcs"
     },
     {
-      "added_at": "2026-04-03 04:00:56",
-      "album": {
-        "name": "Counting My Blessings",
-        "url": "https://open.spotify.com/album/3qr0raAjkRZfT881l6a2uz"
-      },
-      "artists": [
-        {
-          "name": "Seph Schlueter",
-          "url": "https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4"
-        }
-      ],
-      "duration_ms": 204560,
-      "name": "Running Back To You",
-      "url": "https://open.spotify.com/track/5sHxub0cRMuQTqMUurF8tE"
-    },
-    {
-      "added_at": "2026-04-03 04:00:56",
+      "added_at": "2026-05-01 21:43:40",
       "album": {
         "name": "Deeper Waters",
         "url": "https://open.spotify.com/album/6UsQegGmzA4l3CGihGaWRo"
@@ -249,7 +249,7 @@
       "url": "https://open.spotify.com/track/14OspenVFI42NxSwtLFWyF"
     },
     {
-      "added_at": "2026-04-03 04:00:56",
+      "added_at": "2026-05-01 21:43:40",
       "album": {
         "name": "My Jesus",
         "url": "https://open.spotify.com/album/5ZwIIiWOaDiCIE9mNaAoWG"
@@ -265,27 +265,23 @@
       "url": "https://open.spotify.com/track/0KNvJzxdbslBddN27BEhfm"
     },
     {
-      "added_at": "2026-04-03 04:00:56",
+      "added_at": "2026-05-01 21:43:40",
       "album": {
-        "name": "When A Cowboy Prays (with Cody Johnson)",
-        "url": "https://open.spotify.com/album/0Zg3LS5rv9rbbK1uJwaBnn"
+        "name": "FEAR",
+        "url": "https://open.spotify.com/album/6KLrnVqUhPpX4IzgHgsJTg"
       },
       "artists": [
         {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
-        },
-        {
-          "name": "Cody Johnson",
-          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+          "name": "NF",
+          "url": "https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz"
         }
       ],
-      "duration_ms": 237000,
-      "name": "When A Cowboy Prays - with Cody Johnson",
-      "url": "https://open.spotify.com/track/6c40Bt52lBQOEKgaJRPpHo"
+      "duration_ms": 268519,
+      "name": "FEAR",
+      "url": "https://open.spotify.com/track/3HfKlhohNNTLIv2t9uvmzz"
     },
     {
-      "added_at": "2026-04-03 04:00:56",
+      "added_at": "2026-05-01 21:43:40",
       "album": {
         "name": "Black Sheep",
         "url": "https://open.spotify.com/album/1HXCaQmQea8GL5FXUze8oI"
@@ -301,7 +297,23 @@
       "url": "https://open.spotify.com/track/42AQxbRCvwfGg9L0oRDUR5"
     },
     {
-      "added_at": "2026-04-03 04:00:56",
+      "added_at": "2026-05-01 21:43:40",
+      "album": {
+        "name": "Counting My Blessings",
+        "url": "https://open.spotify.com/album/3qr0raAjkRZfT881l6a2uz"
+      },
+      "artists": [
+        {
+          "name": "Seph Schlueter",
+          "url": "https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4"
+        }
+      ],
+      "duration_ms": 204560,
+      "name": "Running Back To You",
+      "url": "https://open.spotify.com/track/5sHxub0cRMuQTqMUurF8tE"
+    },
+    {
+      "added_at": "2026-05-01 21:43:40",
       "album": {
         "name": "Up + Up",
         "url": "https://open.spotify.com/album/6q5zDjRliJ0Soj8XDnZlVU"
@@ -317,27 +329,7 @@
       "url": "https://open.spotify.com/track/4pyIuEQo27lFOEMBJagRAv"
     },
     {
-      "added_at": "2026-04-03 04:00:56",
-      "album": {
-        "name": "Jesus Changed My Life (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1DaO9r3sgudFiiBYVPGrSo"
-      },
-      "artists": [
-        {
-          "name": "Katy Nichole",
-          "url": "https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC"
-        },
-        {
-          "name": "Naomi Raine",
-          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
-        }
-      ],
-      "duration_ms": 193253,
-      "name": "My God Can",
-      "url": "https://open.spotify.com/track/1ySdxDrt5kh9MiEM8doZLL"
-    },
-    {
-      "added_at": "2026-04-03 04:00:56",
+      "added_at": "2026-05-01 21:43:40",
       "album": {
         "name": "GOODBYE YESTERDAY",
         "url": "https://open.spotify.com/album/1J0DrdF8UCZGZo8YYAKiNE"
@@ -357,39 +349,27 @@
       "url": "https://open.spotify.com/track/2Ek6vXzVHY9qWvkAy4OUQR"
     },
     {
-      "added_at": "2026-04-03 04:00:56",
+      "added_at": "2026-05-01 21:43:40",
       "album": {
-        "name": "FEAR",
-        "url": "https://open.spotify.com/album/6KLrnVqUhPpX4IzgHgsJTg"
+        "name": "When A Cowboy Prays (with Cody Johnson)",
+        "url": "https://open.spotify.com/album/0Zg3LS5rv9rbbK1uJwaBnn"
       },
       "artists": [
         {
-          "name": "NF",
-          "url": "https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz"
-        }
-      ],
-      "duration_ms": 268519,
-      "name": "FEAR",
-      "url": "https://open.spotify.com/track/3HfKlhohNNTLIv2t9uvmzz"
-    },
-    {
-      "added_at": "2026-04-03 04:00:56",
-      "album": {
-        "name": "Don't Stop Praying",
-        "url": "https://open.spotify.com/album/1nV08vXokWpBYEkd1Mjdmz"
-      },
-      "artists": [
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        },
         {
-          "name": "Matthew West",
-          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
         }
       ],
-      "duration_ms": 233586,
-      "name": "Don't Stop Praying",
-      "url": "https://open.spotify.com/track/0TH9LO1qmuXMtMYHZhT5gP"
+      "duration_ms": 237000,
+      "name": "When A Cowboy Prays - with Cody Johnson",
+      "url": "https://open.spotify.com/track/6c40Bt52lBQOEKgaJRPpHo"
     },
     {
-      "added_at": "2026-04-03 04:00:56",
+      "added_at": "2026-05-01 21:43:40",
       "album": {
         "name": "Brighter Days / Tin Roof",
         "url": "https://open.spotify.com/album/5yuElBwZWNM9LfC3X8CbdX"
@@ -405,7 +385,43 @@
       "url": "https://open.spotify.com/track/7yfo4vBrhxBDO9IkJz8zkV"
     },
     {
-      "added_at": "2026-04-03 04:00:56",
+      "added_at": "2026-05-01 21:43:40",
+      "album": {
+        "name": "God Of Wonders",
+        "url": "https://open.spotify.com/album/5VLJAD7494p0RAXn1zITDT"
+      },
+      "artists": [
+        {
+          "name": "Alive City",
+          "url": "https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5"
+        },
+        {
+          "name": "Mac Powell",
+          "url": "https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa"
+        }
+      ],
+      "duration_ms": 161129,
+      "name": "God Of Wonders",
+      "url": "https://open.spotify.com/track/3SQ0Ki7UnQ6CkqWzonOl6I"
+    },
+    {
+      "added_at": "2026-05-01 21:43:40",
+      "album": {
+        "name": "WASHED",
+        "url": "https://open.spotify.com/album/0aAvDYoVGC7FjtZ16oiYqn"
+      },
+      "artists": [
+        {
+          "name": "ELEVATION RHYTHM",
+          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
+        }
+      ],
+      "duration_ms": 244840,
+      "name": "WASHED",
+      "url": "https://open.spotify.com/track/1w7teeq2bQ0N3JzIUUrvV0"
+    },
+    {
+      "added_at": "2026-05-01 21:43:40",
       "album": {
         "name": "CAN YOU IMAGINE?",
         "url": "https://open.spotify.com/album/58ufb71YaU1PetJKQGqSd2"
@@ -433,59 +449,23 @@
       "url": "https://open.spotify.com/track/7Ee6XgP8EHKDhTMYLIndu9"
     },
     {
-      "added_at": "2026-04-03 04:00:56",
+      "added_at": "2026-05-01 21:43:40",
       "album": {
-        "name": "God Of Wonders",
-        "url": "https://open.spotify.com/album/5VLJAD7494p0RAXn1zITDT"
+        "name": "Don't Stop Praying",
+        "url": "https://open.spotify.com/album/1nV08vXokWpBYEkd1Mjdmz"
       },
       "artists": [
         {
-          "name": "Alive City",
-          "url": "https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5"
-        },
-        {
-          "name": "Mac Powell",
-          "url": "https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa"
+          "name": "Matthew West",
+          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
         }
       ],
-      "duration_ms": 161129,
-      "name": "God Of Wonders",
-      "url": "https://open.spotify.com/track/3SQ0Ki7UnQ6CkqWzonOl6I"
+      "duration_ms": 233586,
+      "name": "Don't Stop Praying",
+      "url": "https://open.spotify.com/track/0TH9LO1qmuXMtMYHZhT5gP"
     },
     {
-      "added_at": "2026-04-03 04:00:56",
-      "album": {
-        "name": "Friend in High Places",
-        "url": "https://open.spotify.com/album/02TKrtw9EhjijCjcXt6qEJ"
-      },
-      "artists": [
-        {
-          "name": "Zach Williams",
-          "url": "https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ"
-        }
-      ],
-      "duration_ms": 202392,
-      "name": "Friend in High Places",
-      "url": "https://open.spotify.com/track/4igavBpduLQqg7GviGAyEe"
-    },
-    {
-      "added_at": "2026-04-03 04:00:56",
-      "album": {
-        "name": "The King Is Still The King",
-        "url": "https://open.spotify.com/album/2ieE6Mqwu3aMWflIdIbNkS"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 231026,
-      "name": "How Good It Is",
-      "url": "https://open.spotify.com/track/0vd7dFgdILWR8nqXS6QIEi"
-    },
-    {
-      "added_at": "2026-04-03 04:00:56",
+      "added_at": "2026-05-01 21:43:40",
       "album": {
         "name": "Lifesongs: A Celebration of the First 20 Years",
         "url": "https://open.spotify.com/album/4CMr6grYkY2l24pEJY6PV8"
@@ -505,7 +485,27 @@
       "url": "https://open.spotify.com/track/6FW1HQDSZViaX37fyOFL57"
     },
     {
-      "added_at": "2026-04-03 04:00:56",
+      "added_at": "2026-05-01 21:43:40",
+      "album": {
+        "name": "Jesus Changed My Life (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1DaO9r3sgudFiiBYVPGrSo"
+      },
+      "artists": [
+        {
+          "name": "Katy Nichole",
+          "url": "https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        }
+      ],
+      "duration_ms": 193253,
+      "name": "My God Can",
+      "url": "https://open.spotify.com/track/1ySdxDrt5kh9MiEM8doZLL"
+    },
+    {
+      "added_at": "2026-05-01 21:43:40",
       "album": {
         "name": "The Blessing",
         "url": "https://open.spotify.com/album/2vdGtEIX7BYmmruQ7UbEFL"
@@ -525,23 +525,7 @@
       "url": "https://open.spotify.com/track/2lIB1TU0Cqnc6RuYDjc92z"
     },
     {
-      "added_at": "2026-04-03 04:00:56",
-      "album": {
-        "name": "WASHED",
-        "url": "https://open.spotify.com/album/0aAvDYoVGC7FjtZ16oiYqn"
-      },
-      "artists": [
-        {
-          "name": "ELEVATION RHYTHM",
-          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
-        }
-      ],
-      "duration_ms": 244840,
-      "name": "WASHED",
-      "url": "https://open.spotify.com/track/1w7teeq2bQ0N3JzIUUrvV0"
-    },
-    {
-      "added_at": "2026-04-03 04:00:56",
+      "added_at": "2026-05-01 21:43:40",
       "album": {
         "name": "Come Jesus Come (Radio Version)",
         "url": "https://open.spotify.com/album/7GOKgIxyfzPwmUyF1Mxjec"
@@ -557,39 +541,7 @@
       "url": "https://open.spotify.com/track/5SUQktBU6pgsvPSgG3uiLA"
     },
     {
-      "added_at": "2026-04-03 04:00:56",
-      "album": {
-        "name": "For God Is With Us",
-        "url": "https://open.spotify.com/album/21RhfabPs3qGYmz3DRtNdn"
-      },
-      "artists": [
-        {
-          "name": "for KING & COUNTRY",
-          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
-        }
-      ],
-      "duration_ms": 196846,
-      "name": "For God Is With Us",
-      "url": "https://open.spotify.com/track/3H5ly2nTpUNUdbg1X9dHWJ"
-    },
-    {
-      "added_at": "2026-04-03 04:00:56",
-      "album": {
-        "name": "If I Got Jesus",
-        "url": "https://open.spotify.com/album/3VPe5UV652wUXh56MN9eSH"
-      },
-      "artists": [
-        {
-          "name": "Ben Fuller",
-          "url": "https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d"
-        }
-      ],
-      "duration_ms": 231320,
-      "name": "If I Got Jesus",
-      "url": "https://open.spotify.com/track/3WmxRZz8xq4jNJW2kVusQc"
-    },
-    {
-      "added_at": "2026-04-03 04:00:56",
+      "added_at": "2026-05-01 21:43:40",
       "album": {
         "name": "The EXILE",
         "url": "https://open.spotify.com/album/3Z5eTl8JjXIWoMx3M8GRsN"
@@ -605,55 +557,55 @@
       "url": "https://open.spotify.com/track/4Za9hSqVpFWXyavYoaFIo9"
     },
     {
-      "added_at": "2026-04-03 04:00:56",
+      "added_at": "2026-05-01 21:43:40",
       "album": {
-        "name": "I LOVE JESUS",
-        "url": "https://open.spotify.com/album/3spuKcoEfckg0uxMR9LoUe"
+        "name": "If I Got Jesus",
+        "url": "https://open.spotify.com/album/3VPe5UV652wUXh56MN9eSH"
       },
       "artists": [
         {
-          "name": "Mac Powell",
-          "url": "https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa"
+          "name": "Ben Fuller",
+          "url": "https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d"
         }
       ],
-      "duration_ms": 201106,
-      "name": "The 99",
-      "url": "https://open.spotify.com/track/7pFwbwpCAvkDsuXxI604Td"
+      "duration_ms": 231320,
+      "name": "If I Got Jesus",
+      "url": "https://open.spotify.com/track/3WmxRZz8xq4jNJW2kVusQc"
     },
     {
-      "added_at": "2026-04-03 04:00:56",
+      "added_at": "2026-05-01 21:43:40",
       "album": {
-        "name": "More Than This",
-        "url": "https://open.spotify.com/album/0zvZ25UkgLXQDZLQDxpwPw"
+        "name": "Friend in High Places",
+        "url": "https://open.spotify.com/album/02TKrtw9EhjijCjcXt6qEJ"
       },
       "artists": [
         {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+          "name": "Zach Williams",
+          "url": "https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ"
         }
       ],
-      "duration_ms": 251155,
-      "name": "That's My King",
-      "url": "https://open.spotify.com/track/7HyTL3DCYAjRiPwWcWaT8x"
+      "duration_ms": 202392,
+      "name": "Friend in High Places",
+      "url": "https://open.spotify.com/track/4igavBpduLQqg7GviGAyEe"
     },
     {
-      "added_at": "2026-04-03 04:00:56",
+      "added_at": "2026-05-01 21:43:40",
       "album": {
-        "name": "You Are My King (Amazing Love) [Spotify Singles]",
-        "url": "https://open.spotify.com/album/7h8KQPYyfseCnFQJJm7BGl"
+        "name": "For God Is With Us",
+        "url": "https://open.spotify.com/album/21RhfabPs3qGYmz3DRtNdn"
       },
       "artists": [
         {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+          "name": "for KING & COUNTRY",
+          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
         }
       ],
-      "duration_ms": 254443,
-      "name": "You Are My King (Amazing Love) - Spotify Singles",
-      "url": "https://open.spotify.com/track/4LEGdbJ3sb6P1IAMfOBrEN"
+      "duration_ms": 196846,
+      "name": "For God Is With Us",
+      "url": "https://open.spotify.com/track/3H5ly2nTpUNUdbg1X9dHWJ"
     },
     {
-      "added_at": "2026-04-03 04:00:56",
+      "added_at": "2026-05-01 21:43:40",
       "album": {
         "name": "Honestly, We Just Need Jesus",
         "url": "https://open.spotify.com/album/1fWPYlF3KjkU0snPtPk2Hz"
@@ -669,7 +621,39 @@
       "url": "https://open.spotify.com/track/18QDUhYX0DYLHueTr1Wzz7"
     },
     {
-      "added_at": "2026-04-03 04:00:56",
+      "added_at": "2026-05-01 21:43:40",
+      "album": {
+        "name": "Heart of the Father",
+        "url": "https://open.spotify.com/album/6eg9VkQpbxdVpgh3iwPkxR"
+      },
+      "artists": [
+        {
+          "name": "Ryan Ellis",
+          "url": "https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C"
+        }
+      ],
+      "duration_ms": 243476,
+      "name": "Heart of the Father",
+      "url": "https://open.spotify.com/track/1TmLe4cOUoLjEiON85AOQF"
+    },
+    {
+      "added_at": "2026-05-01 21:43:40",
+      "album": {
+        "name": "I LOVE JESUS",
+        "url": "https://open.spotify.com/album/3spuKcoEfckg0uxMR9LoUe"
+      },
+      "artists": [
+        {
+          "name": "Mac Powell",
+          "url": "https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa"
+        }
+      ],
+      "duration_ms": 201106,
+      "name": "The 99",
+      "url": "https://open.spotify.com/track/7pFwbwpCAvkDsuXxI604Td"
+    },
+    {
+      "added_at": "2026-05-01 21:43:40",
       "album": {
         "name": "Let The Church Sing",
         "url": "https://open.spotify.com/album/7pAwBOLjE8lWRZ0TZgpdHx"
@@ -685,7 +669,39 @@
       "url": "https://open.spotify.com/track/7Anygo62MNwOsASBpIzWYr"
     },
     {
-      "added_at": "2026-04-03 04:00:56",
+      "added_at": "2026-05-01 21:43:40",
+      "album": {
+        "name": "The King Is Still The King",
+        "url": "https://open.spotify.com/album/2ieE6Mqwu3aMWflIdIbNkS"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 231026,
+      "name": "How Good It Is",
+      "url": "https://open.spotify.com/track/0vd7dFgdILWR8nqXS6QIEi"
+    },
+    {
+      "added_at": "2026-05-01 21:43:40",
+      "album": {
+        "name": "Peace Be Still",
+        "url": "https://open.spotify.com/album/6DijVs6K0pynequruoG3o2"
+      },
+      "artists": [
+        {
+          "name": "Hope Darst",
+          "url": "https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36"
+        }
+      ],
+      "duration_ms": 320173,
+      "name": "Peace Be Still",
+      "url": "https://open.spotify.com/track/0ZpJVWYW5hJKGbpStrsCdD"
+    },
+    {
+      "added_at": "2026-05-01 21:43:40",
       "album": {
         "name": "Lead On Good Shepherd",
         "url": "https://open.spotify.com/album/0kU2cgMwYC02qZ9YigsHBO"
@@ -705,7 +721,7 @@
       "url": "https://open.spotify.com/track/4pamu1hc1av1c4BhY8Wh3j"
     },
     {
-      "added_at": "2026-04-03 04:00:56",
+      "added_at": "2026-05-01 21:43:40",
       "album": {
         "name": "Jericho",
         "url": "https://open.spotify.com/album/0WXK1Cn2WFzxoPv1USlIbR"
@@ -721,55 +737,23 @@
       "url": "https://open.spotify.com/track/5pTpq4JWJHkZtcO2BjBN4V"
     },
     {
-      "added_at": "2026-04-03 04:00:56",
+      "added_at": "2026-05-01 21:43:40",
       "album": {
-        "name": "Heart of the Father",
-        "url": "https://open.spotify.com/album/6eg9VkQpbxdVpgh3iwPkxR"
+        "name": "You Are My King (Amazing Love) [Spotify Singles]",
+        "url": "https://open.spotify.com/album/7h8KQPYyfseCnFQJJm7BGl"
       },
       "artists": [
         {
-          "name": "Ryan Ellis",
-          "url": "https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C"
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
         }
       ],
-      "duration_ms": 243476,
-      "name": "Heart of the Father",
-      "url": "https://open.spotify.com/track/1TmLe4cOUoLjEiON85AOQF"
+      "duration_ms": 254443,
+      "name": "You Are My King (Amazing Love) - Spotify Singles",
+      "url": "https://open.spotify.com/track/4LEGdbJ3sb6P1IAMfOBrEN"
     },
     {
-      "added_at": "2026-04-03 04:00:56",
-      "album": {
-        "name": "Where The Joy Is",
-        "url": "https://open.spotify.com/album/4zuIzG6tqt3ovxM1BC5Yyc"
-      },
-      "artists": [
-        {
-          "name": "We Are Messengers",
-          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
-        }
-      ],
-      "duration_ms": 219879,
-      "name": "A Thousand Times",
-      "url": "https://open.spotify.com/track/1hmvM542L5jSQ6ZJjB7jTc"
-    },
-    {
-      "added_at": "2026-04-03 04:00:56",
-      "album": {
-        "name": "Peace Be Still",
-        "url": "https://open.spotify.com/album/6DijVs6K0pynequruoG3o2"
-      },
-      "artists": [
-        {
-          "name": "Hope Darst",
-          "url": "https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36"
-        }
-      ],
-      "duration_ms": 320173,
-      "name": "Peace Be Still",
-      "url": "https://open.spotify.com/track/0ZpJVWYW5hJKGbpStrsCdD"
-    },
-    {
-      "added_at": "2026-04-03 04:00:56",
+      "added_at": "2026-05-01 21:43:40",
       "album": {
         "name": "Looking Up",
         "url": "https://open.spotify.com/album/4CEwuoCsM4xHjnJ2nX5KDm"
@@ -789,7 +773,7 @@
       "url": "https://open.spotify.com/track/4f6bHNxoWKbRw1qhmwv5e8"
     },
     {
-      "added_at": "2026-04-03 04:00:56",
+      "added_at": "2026-05-01 21:43:40",
       "album": {
         "name": "Find You",
         "url": "https://open.spotify.com/album/6xCw4dK6PgNA26EEux2Phu"
@@ -805,23 +789,39 @@
       "url": "https://open.spotify.com/track/3YziXpvMKC74a9bVF7EDsY"
     },
     {
-      "added_at": "2026-04-03 04:00:56",
+      "added_at": "2026-05-01 21:43:40",
       "album": {
-        "name": "Tell Me How",
-        "url": "https://open.spotify.com/album/7f7XapnIRg9QxbWZyvA4mw"
+        "name": "More Than This",
+        "url": "https://open.spotify.com/album/0zvZ25UkgLXQDZLQDxpwPw"
       },
       "artists": [
         {
-          "name": "Ryan Stevenson",
-          "url": "https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97"
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
         }
       ],
-      "duration_ms": 183197,
-      "name": "Tell Me How",
-      "url": "https://open.spotify.com/track/1TOfC4ETDk63tpMRmzMj2n"
+      "duration_ms": 251155,
+      "name": "That's My King",
+      "url": "https://open.spotify.com/track/7HyTL3DCYAjRiPwWcWaT8x"
     },
     {
-      "added_at": "2026-04-03 04:00:56",
+      "added_at": "2026-05-01 21:43:40",
+      "album": {
+        "name": "Where The Joy Is",
+        "url": "https://open.spotify.com/album/4zuIzG6tqt3ovxM1BC5Yyc"
+      },
+      "artists": [
+        {
+          "name": "We Are Messengers",
+          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
+        }
+      ],
+      "duration_ms": 219879,
+      "name": "A Thousand Times",
+      "url": "https://open.spotify.com/track/1hmvM542L5jSQ6ZJjB7jTc"
+    },
+    {
+      "added_at": "2026-05-01 21:43:40",
       "album": {
         "name": "I Got You",
         "url": "https://open.spotify.com/album/70oL8RgGaLCkwEyMXBEmGu"
@@ -837,23 +837,7 @@
       "url": "https://open.spotify.com/track/0jbludNUb0EqbuTsnRpRmE"
     },
     {
-      "added_at": "2026-04-03 04:00:56",
-      "album": {
-        "name": "My Hope Is Jesus",
-        "url": "https://open.spotify.com/album/0suKwr6W4OBe14hvXCTFpS"
-      },
-      "artists": [
-        {
-          "name": "Big Daddy Weave",
-          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
-        }
-      ],
-      "duration_ms": 242455,
-      "name": "My Hope Is Jesus",
-      "url": "https://open.spotify.com/track/3Wqc6im6bBdgm1ppqPKRbr"
-    },
-    {
-      "added_at": "2026-04-03 04:00:56",
+      "added_at": "2026-05-01 21:43:40",
       "album": {
         "name": "My Foundation",
         "url": "https://open.spotify.com/album/5aHy0vrK4u7BtrGkUwMa0q"
@@ -867,6 +851,22 @@
       "duration_ms": 200596,
       "name": "To Save My Life",
       "url": "https://open.spotify.com/track/3ztqayRkNjhDgsJ3fKwu3P"
+    },
+    {
+      "added_at": "2026-05-01 21:43:40",
+      "album": {
+        "name": "My Hope Is Jesus",
+        "url": "https://open.spotify.com/album/0suKwr6W4OBe14hvXCTFpS"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "duration_ms": 242455,
+      "name": "My Hope Is Jesus",
+      "url": "https://open.spotify.com/track/3Wqc6im6bBdgm1ppqPKRbr"
     }
   ],
   "unique_name": "Christian Hits",

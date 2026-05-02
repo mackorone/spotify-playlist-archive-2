@@ -1,12 +1,12 @@
 {
   "description": "forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify",
-  "num_followers": 311,
+  "num_followers": 310,
   "original_name": "forever young Playlist Spotify",
   "owner": {
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAJcu28unVh0M15AdglJA/D/CptD98G",
+  "snapshot_id": "AAAJdUJHp6cYNW1+BsPVtkmtiEkRdUvb",
   "tracks": [
     {
       "added_at": "2026-04-28 22:21:45",
@@ -38235,6 +38235,54 @@
       "duration_ms": 208894,
       "name": "Incomparable (Bluesman)",
       "url": "https://open.spotify.com/track/27yHVzY4ZoiVIYvpjcvhFq"
+    },
+    {
+      "added_at": "2026-05-01 08:04:29",
+      "album": {
+        "name": "Gardening Club",
+        "url": "https://open.spotify.com/album/2Ij0ymbmxaUSdEbWCjgJhW"
+      },
+      "artists": [
+        {
+          "name": "Gardening Club",
+          "url": "https://open.spotify.com/artist/4tVR6UmVssdtcN2BY6fbmg"
+        }
+      ],
+      "duration_ms": 96000,
+      "name": "The Rush",
+      "url": "https://open.spotify.com/track/0PBz4H0I5zQOon1fKZbTiU"
+    },
+    {
+      "added_at": "2026-05-01 14:59:57",
+      "album": {
+        "name": "ennui",
+        "url": "https://open.spotify.com/album/6Be5YT4sy6M8FjaJaILcGS"
+      },
+      "artists": [
+        {
+          "name": "LadyBoy",
+          "url": "https://open.spotify.com/artist/3EyEQIrSwLWmL5WikGao8Q"
+        }
+      ],
+      "duration_ms": 193734,
+      "name": "ennui",
+      "url": "https://open.spotify.com/track/70xCHfTbqEDUYiX28pNvQo"
+    },
+    {
+      "added_at": "2026-05-01 20:47:45",
+      "album": {
+        "name": "\u041c\u044b \u0431\u0443\u0434\u0435\u043c \u0440\u0430\u0434\u043e\u0432\u0430\u0442\u044c\u0441\u044f \u0436\u0438\u0437\u043d\u0438",
+        "url": "https://open.spotify.com/album/0bJ5TrgC7iAKatWzQtKH08"
+      },
+      "artists": [
+        {
+          "name": "the poet must die",
+          "url": "https://open.spotify.com/artist/2D0En2asmzvF1FGNiXEGqf"
+        }
+      ],
+      "duration_ms": 79638,
+      "name": "\u041c\u044b \u0431\u0443\u0434\u0435\u043c \u0440\u0430\u0434\u043e\u0432\u0430\u0442\u044c\u0441\u044f \u0436\u0438\u0437\u043d\u0438",
+      "url": "https://open.spotify.com/track/3Ixm23ATHd8yETGP7S4tOc"
     }
   ],
   "unique_name": "forever young Playlist Spotify",

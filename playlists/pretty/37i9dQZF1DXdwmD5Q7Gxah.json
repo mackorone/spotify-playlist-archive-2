@@ -1,13 +1,29 @@
 {
-  "description": "quiet light album hallelujah \ud83e\ude75\ud83e\udebd\u2728  <a href=\"https://docs.google.com/forms/d/e/1FAIpQLScMF3Bk85sf0Q8EtivfX-sCFgsgIpORHNyGB28r1NujobZdmw/viewform?usp=header \">talk to us about music<3 </a>",
-  "num_followers": 1186616,
+  "description": "love spells \u2728 <a href=\"https://loremandfriends.substack.com/p/post-hyperpop-rockie-rode-arima-ederra\">read our substack \ud83e\udee7  </a>   ",
+  "num_followers": 1186644,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKUVNRm+JDwIrVMdx+kAf1LxoGqc",
+  "snapshot_id": "AAAAADn8dKfTEpPopBM4wv28B54eFkXl",
   "tracks": [
+    {
+      "added_at": "2026-05-01 04:03:30",
+      "album": {
+        "name": "Crutch",
+        "url": "https://open.spotify.com/album/1jWZ7cC58wnlEfuknDCwoq"
+      },
+      "artists": [
+        {
+          "name": "Love Spells",
+          "url": "https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW"
+        }
+      ],
+      "duration_ms": 211537,
+      "name": "Crutch",
+      "url": "https://open.spotify.com/track/35mvYlF92JzRqB2PYA9DIU"
+    },
     {
       "added_at": "2026-04-24 04:02:45",
       "album": {
@@ -89,20 +105,20 @@
       "url": "https://open.spotify.com/track/3cLBx0lEWPKSM99hx5RVcx"
     },
     {
-      "added_at": "2026-04-17 04:02:59",
+      "added_at": "2026-05-01 04:03:30",
       "album": {
-        "name": "Ambiguous Desire",
-        "url": "https://open.spotify.com/album/2l7Qtf3Mffx6ZIDTpyaMtS"
+        "name": "Just A Man",
+        "url": "https://open.spotify.com/album/2YY0t01llll4deDIEPWc5A"
       },
       "artists": [
         {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+          "name": "MOIO",
+          "url": "https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Blue Disco",
-      "url": "https://open.spotify.com/track/2cMWLXuEm6ggAaUKT2oJmD"
+      "duration_ms": 158882,
+      "name": "Just A Man",
+      "url": "https://open.spotify.com/track/0QsKXnj3R0vG9ldK4Y7dnm"
     },
     {
       "added_at": "2026-04-28 16:19:11",
@@ -123,6 +139,26 @@
       "duration_ms": 173433,
       "name": "STORM II",
       "url": "https://open.spotify.com/track/0FZd4IaxB12sUTKSUUGwWq"
+    },
+    {
+      "added_at": "2026-05-01 04:03:30",
+      "album": {
+        "name": "PATINA",
+        "url": "https://open.spotify.com/album/3M2itoN7Z2CeqEc82SLTJk"
+      },
+      "artists": [
+        {
+          "name": "Casper Sage",
+          "url": "https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE"
+        },
+        {
+          "name": "DERBY",
+          "url": "https://open.spotify.com/artist/5WFUn8WTVNDiOHZCEzxIQZ"
+        }
+      ],
+      "duration_ms": 193725,
+      "name": "Arthur (feat. DERBY)",
+      "url": "https://open.spotify.com/track/0jr6HPls0E2oy8fY4Cn4JD"
     },
     {
       "added_at": "2026-04-03 04:05:13",
@@ -177,6 +213,38 @@
       "url": "https://open.spotify.com/track/3TFteVg7d3VCHrRv0ASyOo"
     },
     {
+      "added_at": "2026-04-17 04:02:59",
+      "album": {
+        "name": "Ambiguous Desire",
+        "url": "https://open.spotify.com/album/2l7Qtf3Mffx6ZIDTpyaMtS"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Blue Disco",
+      "url": "https://open.spotify.com/track/2cMWLXuEm6ggAaUKT2oJmD"
+    },
+    {
+      "added_at": "2026-05-01 04:03:30",
+      "album": {
+        "name": "Centipede",
+        "url": "https://open.spotify.com/album/306oi8APNwiekj6ui6baLH"
+      },
+      "artists": [
+        {
+          "name": "Tiffi M",
+          "url": "https://open.spotify.com/artist/6HT5E0pCWG22FzBr6Wdlp5"
+        }
+      ],
+      "duration_ms": 175500,
+      "name": "Centipede",
+      "url": "https://open.spotify.com/track/36BjBIofJXDQZ0zm3dAIO4"
+    },
+    {
       "added_at": "2026-04-06 19:48:05",
       "album": {
         "name": "WOR$T GIRL IN AMERICA",
@@ -207,6 +275,22 @@
       "duration_ms": 241100,
       "name": "2515",
       "url": "https://open.spotify.com/track/6oJRAA2pF2VK8fmxTncqiG"
+    },
+    {
+      "added_at": "2026-05-01 04:03:30",
+      "album": {
+        "name": "forget him",
+        "url": "https://open.spotify.com/album/7c1tTnLalgefGACri3F4dB"
+      },
+      "artists": [
+        {
+          "name": "josh conway",
+          "url": "https://open.spotify.com/artist/7Fg3bk6FxiFhFnrtXxJNR7"
+        }
+      ],
+      "duration_ms": 203000,
+      "name": "forget him",
+      "url": "https://open.spotify.com/track/5C2i3yvlxw6qy1AQD8R08N"
     },
     {
       "added_at": "2026-04-24 04:02:45",
@@ -257,6 +341,22 @@
       "url": "https://open.spotify.com/track/2vd3HbaEqhEJpvVNHEago8"
     },
     {
+      "added_at": "2026-05-01 04:03:30",
+      "album": {
+        "name": "untitled.jpeg",
+        "url": "https://open.spotify.com/album/67y4FE0buC45wGLltGEi25"
+      },
+      "artists": [
+        {
+          "name": "Jessie Mazin",
+          "url": "https://open.spotify.com/artist/61Yb6Hi8nlwDwR3GJ7VAnx"
+        }
+      ],
+      "duration_ms": 232758,
+      "name": "the precipice",
+      "url": "https://open.spotify.com/track/7HFA3UBP3nUyjZtDtQ4ml7"
+    },
+    {
       "added_at": "2026-04-03 04:02:59",
       "album": {
         "name": "Carry On",
@@ -287,6 +387,22 @@
       "duration_ms": 176453,
       "name": "DAISIES",
       "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb"
+    },
+    {
+      "added_at": "2026-05-01 04:03:30",
+      "album": {
+        "name": "BLUE SASHIKO",
+        "url": "https://open.spotify.com/album/6CcwhUSslJAm2B7SHul1Ms"
+      },
+      "artists": [
+        {
+          "name": "Lucy Park",
+          "url": "https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF"
+        }
+      ],
+      "duration_ms": 166733,
+      "name": "BLUE SASHIKO",
+      "url": "https://open.spotify.com/track/48q6ydWwv9T8To52lHrkzL"
     },
     {
       "added_at": "2026-04-10 04:01:50",
@@ -399,6 +515,22 @@
       "duration_ms": 227521,
       "name": "Star v",
       "url": "https://open.spotify.com/track/3Wo5cXSG9DdFkbYruZgBmh"
+    },
+    {
+      "added_at": "2026-03-20 04:00:55",
+      "album": {
+        "name": "Memory Be a Blade",
+        "url": "https://open.spotify.com/album/2uKRAKkX0mcEevPuaE18rK"
+      },
+      "artists": [
+        {
+          "name": "waterbaby",
+          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
+        }
+      ],
+      "duration_ms": 221066,
+      "name": "Memory Be a Blade",
+      "url": "https://open.spotify.com/track/35P80VDIPyFqmoBcMuL4Li"
     },
     {
       "added_at": "2026-04-03 04:02:59",
@@ -937,22 +1069,6 @@
       "url": "https://open.spotify.com/track/2mr1Sm2SOzIhaEXyzpd6II"
     },
     {
-      "added_at": "2026-04-03 04:02:59",
-      "album": {
-        "name": "Beams",
-        "url": "https://open.spotify.com/album/6Gjsdtw3nw3GV5IrwFmT4G"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 219570,
-      "name": "Beams",
-      "url": "https://open.spotify.com/track/7AieCEz0Kpv2c8L63LXcWw"
-    },
-    {
       "added_at": "2026-03-20 04:00:55",
       "album": {
         "name": "Kiss All The Time. Disco, Occasionally.",
@@ -1015,26 +1131,6 @@
       "duration_ms": 235429,
       "name": "I got god",
       "url": "https://open.spotify.com/track/19LhmxhZyk5LrMWCMMMF0I"
-    },
-    {
-      "added_at": "2026-03-20 04:00:55",
-      "album": {
-        "name": "Strong",
-        "url": "https://open.spotify.com/album/3M9w4YSLJbRKaBITj8OqNd"
-      },
-      "artists": [
-        {
-          "name": "Momo Boyd",
-          "url": "https://open.spotify.com/artist/5gqxLVfjWfNZ6dsKL05NKd"
-        },
-        {
-          "name": "Infinity Song",
-          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
-        }
-      ],
-      "duration_ms": 156764,
-      "name": "Strong",
-      "url": "https://open.spotify.com/track/336Ear6GlKMVrwgshhf6CH"
     },
     {
       "added_at": "2026-03-20 04:00:55",
@@ -1179,38 +1275,6 @@
       "duration_ms": 119741,
       "name": "where did everybody go after the show",
       "url": "https://open.spotify.com/track/3TQNYcQpNk68ANvFCkodeM"
-    },
-    {
-      "added_at": "2026-03-20 04:00:55",
-      "album": {
-        "name": "Memory Be a Blade",
-        "url": "https://open.spotify.com/album/2uKRAKkX0mcEevPuaE18rK"
-      },
-      "artists": [
-        {
-          "name": "waterbaby",
-          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
-        }
-      ],
-      "duration_ms": 221066,
-      "name": "Memory Be a Blade",
-      "url": "https://open.spotify.com/track/35P80VDIPyFqmoBcMuL4Li"
-    },
-    {
-      "added_at": "2026-03-20 04:00:55",
-      "album": {
-        "name": "Berlin",
-        "url": "https://open.spotify.com/album/7fWswbqrYkq5epwUQAJtFU"
-      },
-      "artists": [
-        {
-          "name": "Quiet Light",
-          "url": "https://open.spotify.com/artist/6Uy2IwBjxdF0MxQVIN18n9"
-        }
-      ],
-      "duration_ms": 203076,
-      "name": "Berlin",
-      "url": "https://open.spotify.com/track/17XxoRBKPgZqSzYLFW3gto"
     },
     {
       "added_at": "2026-03-20 04:00:55",

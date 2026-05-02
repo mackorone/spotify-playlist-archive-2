@@ -4,7 +4,7 @@
 
 > Hymns for darker hours.
 
-409 songs - 1 day 8 hr 1 min
+410 songs - 1 day 8 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -312,6 +312,7 @@
 | [Seeing Past What Things Seem](https://open.spotify.com/track/2sgqTahUU0PBwKcgRhqRDN) | [Aidan Baker](https://open.spotify.com/artist/7wPBSl15ddi9mRCgIllOa9) | [Seeing Past What Things Seem](https://open.spotify.com/album/7km6d7bH6SLfaaB52JuuoT) | 11:33 | 2022-01-21 |  |
 | [sentient](https://open.spotify.com/track/2JaBzgwkxZ2TVfCPZOlNOo) | [Etsu](https://open.spotify.com/artist/1KevMNL4UNuuESpeV7iVrk), [.diedlonely](https://open.spotify.com/artist/2LbjW13j6rNtFgYcPjR2ur) | [sentient](https://open.spotify.com/album/029RejYltCG6Nv6PmhDAg5) | 3:24 | 2023-10-02 | 2026-03-14 |
 | [Serpentine](https://open.spotify.com/track/0plMWuZSwX65585sUIUdd5) | [Úlfur](https://open.spotify.com/artist/4MdxCuKlnNvOXnVSWN7aLi) | [Arborescence](https://open.spotify.com/album/118CEJliIg47Jcr70y7Kww) | 3:41 | 2022-01-21 | 2025-10-10 |
+| [silence](https://open.spotify.com/track/6aclR4VMjPb51YJrqbglp0) | [True World](https://open.spotify.com/artist/4i9aYXlAVPDCxi0xdSkPzI), [OSTAVITSLED](https://open.spotify.com/artist/4147ocIQFlHvnHD5L5s9zy) | [silence](https://open.spotify.com/album/6DuizayZub5oQuWOkUZJem) | 1:49 | 2026-04-03 |  |
 | [Silenza](https://open.spotify.com/track/4cccSnVY2dVRwnTAXEUb4y) | [David Cordero](https://open.spotify.com/artist/5yE5AG06GxRrh6Hw9qSJOQ) | [Silenza](https://open.spotify.com/album/3uDagiNfU5Z5MEUC6Tjtwk) | 6:48 | 2026-04-03 |  |
 | [Silkworms](https://open.spotify.com/track/31Vk1L8CuFKyBH86bx8owb) | [Hannu Karjalainen](https://open.spotify.com/artist/1jrtEzcK5ERQoXAFVcQV00) | [Silkworms](https://open.spotify.com/album/2mdi7sz4i7gVr4cg8lD5MY) | 9:35 | 2022-01-28 |  |
 | [Sista Dagen](https://open.spotify.com/track/1JVvm4PkGTT3ppDBKCBEuA) | [Född Död](https://open.spotify.com/artist/7rjm7DC7c6sTKPmqGgQHFs) | [Studie I Närhet, Längtan & Besvikelse](https://open.spotify.com/album/1EPI6cKlZnQE6NzuS8Iy3M) | 6:20 | 2022-01-21 | 2025-07-04 |
@@ -354,7 +355,7 @@
 | [The Church](https://open.spotify.com/track/4F7ezw5Lid54Yo7xQ5v4U0) | [Ben Salisbury](https://open.spotify.com/artist/3WifYZsO8WO6hGlWIDM4Zq), [Geoff Barrow](https://open.spotify.com/artist/53b2a4ytPlelgBJYLLocWh) | [Men \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3EoXQyNGzvmUFgVkIMnidn) | 4:25 | 2023-10-06 | 2023-10-26 |
 | [The Church \- From The "Men" Original Motion Picture Soundtrack](https://open.spotify.com/track/0fQkf9YaBHEzdT0SpsdCVx) | [Ben Salisbury](https://open.spotify.com/artist/3WifYZsO8WO6hGlWIDM4Zq), [Geoff Barrow](https://open.spotify.com/artist/53b2a4ytPlelgBJYLLocWh) | [The Church \(From The "Men" Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2GnIduqIk7FJKEDgKLfLmr) | 4:25 | 2022-05-06 | 2022-07-28 |
 | [the day she was born](https://open.spotify.com/track/3CJ9LWONrGZf5dJd4CwT1l) | [fauxe.](https://open.spotify.com/artist/681FiFPQPUSRknJn11zylo) | [the day she was born](https://open.spotify.com/album/4uFAjHWFl5sHlKzH9r5KEa) | 1:50 | 2026-04-03 |  |
-| [The Distance \- Slowed](https://open.spotify.com/track/4EME3335xHgRETXiT0wYKE) | [Warmth](https://open.spotify.com/artist/687UOpjghQt4KG3gfqJy5d) | [The Distance \(Slowed\)](https://open.spotify.com/album/0ganyllgclUc8rdKBqDQW9) | 3:38 | 2023-10-06 |  |
+| [The Distance \- Slowed](https://open.spotify.com/track/4EME3335xHgRETXiT0wYKE) | [Warmth](https://open.spotify.com/artist/687UOpjghQt4KG3gfqJy5d) | [The Distance \(Slowed\)](https://open.spotify.com/album/0ganyllgclUc8rdKBqDQW9) | 3:38 | 2023-10-06 | 2026-05-02 |
 | [the distance between us](https://open.spotify.com/track/2QN2myMPxIyn2rsqU3FpFR) | [monosleep](https://open.spotify.com/artist/2rHHKIugCALDXcAaYryNCt) | [a world of possibility](https://open.spotify.com/album/6w6EdQV1km9T25x209Q4sx) | 2:30 | 2022-08-17 |  |
 | [The Edges](https://open.spotify.com/track/2x4K92FhxeJAmTiptxMijO) | [Rachika Nayar](https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ) | [Our Hands Against the Dusk](https://open.spotify.com/album/0m89bXpdmBFJzyIA4j6ZWH) | 5:07 | 2022-01-21 | 2023-04-30 |
 | [The Edges](https://open.spotify.com/track/6TFOEo0xcW0GhpVrubea9k) | [Rachika Nayar](https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ) | [Our Hands Against the Dusk](https://open.spotify.com/album/6mtOF3M7pLQTQZlPtAFwn9) | 5:07 | 2023-06-29 | 2024-04-19 |

@@ -634,7 +634,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 193166,
       "name": "Ba\u015frol Sensin - 1. Y\u0131l \u00d6zel",
       "url": "https://open.spotify.com/track/7JOZ88jJbmx9TIzpPJBCqi"
@@ -3219,6 +3219,28 @@
     },
     {
       "album": {
+        "name": "Kar\u0131\u015f\u0131k Kaset 2",
+        "url": "https://open.spotify.com/album/22dJRNVTVUfGQzbMCNMuJq"
+      },
+      "artists": [
+        {
+          "name": "Semicenk",
+          "url": "https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp"
+        },
+        {
+          "name": "B\u00fcken",
+          "url": "https://open.spotify.com/artist/5xvFmfo6COwVZoN8GHaBLs"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138947,
+      "name": "Kutupta Yaz Gibi",
+      "url": "https://open.spotify.com/track/28wSrbbf6vnix8F6vcHGFZ"
+    },
+    {
+      "album": {
         "name": "K\u00f6m\u00fcr",
         "url": "https://open.spotify.com/album/1Cbcf1YvsNrMZs3pxYLHoD"
       },
@@ -3831,6 +3853,24 @@
     },
     {
       "album": {
+        "name": "RUH HASSASI",
+        "url": "https://open.spotify.com/album/2s8crPj9fbE1ErzejEj1gE"
+      },
+      "artists": [
+        {
+          "name": "Ersay \u00dcner",
+          "url": "https://open.spotify.com/artist/6kf7koRM31Dgsj2WbByZpB"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189061,
+      "name": "Olacak Gibi De\u011fil",
+      "url": "https://open.spotify.com/track/0TWf33C7t2ljNcTJ8VoQ8v"
+    },
+    {
+      "album": {
         "name": "Olacak Gibi De\u011fil",
         "url": "https://open.spotify.com/album/61qpQymIvcAuM8s5zIsguo"
       },
@@ -3868,6 +3908,24 @@
       "duration_ms": 217000,
       "name": "Olmazlara Vuruluyorum",
       "url": "https://open.spotify.com/track/72Zc1OvPqpZUqxArlAS0QW"
+    },
+    {
+      "album": {
+        "name": "ON NUMARA",
+        "url": "https://open.spotify.com/album/03XaOdXeTAdCl6KHKrxtoJ"
+      },
+      "artists": [
+        {
+          "name": "Yung Ouzo",
+          "url": "https://open.spotify.com/artist/3VooEK5HkkcSc4Tv7FCBzb"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116129,
+      "name": "ON NUMARA",
+      "url": "https://open.spotify.com/track/3zXcj2N8bLNRXwYHLaSjrL"
     },
     {
       "album": {
@@ -3998,7 +4056,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 219374,
       "name": "PERDE",
       "url": "https://open.spotify.com/track/7xYtgtwlgXvpiTnXUAkceF"
@@ -4666,7 +4724,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 150000,
       "name": "SONBAHAR",
       "url": "https://open.spotify.com/track/1YrEoI9Cn6pmCXuiUGQ0Kf"

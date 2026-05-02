@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "100% ska en espa\u00f1ol. Kapanga y Milo J en portada.",
+  "description": "100% ska en espa\u00f1ol. Vicente Cifuentes y Joselo Osses en portada.",
   "name": "Ska Latino ",
   "tracks": [
     {
@@ -1182,6 +1182,24 @@
       "duration_ms": 254145,
       "name": "Como Te Voy a Olvidar - Edit",
       "url": "https://open.spotify.com/track/1vNuHEbQONnN0DJUBKeUXJ"
+    },
+    {
+      "album": {
+        "name": "Con este fuego",
+        "url": "https://open.spotify.com/album/5oCetYb611zC4UyfzpdZ5g"
+      },
+      "artists": [
+        {
+          "name": "La Pegatina",
+          "url": "https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189845,
+      "name": "Con este fuego",
+      "url": "https://open.spotify.com/track/5Z2zDXfObJAd0vucnS30dR"
     },
     {
       "album": {
@@ -2510,7 +2528,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 167128,
       "name": "Este Ritmo",
       "url": "https://open.spotify.com/track/4xVhnIGR1UUjnTIBDs5EOX"
@@ -2536,6 +2554,24 @@
       "duration_ms": 176747,
       "name": "Estoy aqu\u00ed (feat. La Pegatina)",
       "url": "https://open.spotify.com/track/6BZyZKGieV83gE9IZcNZCz"
+    },
+    {
+      "album": {
+        "name": "Estoy en Paz",
+        "url": "https://open.spotify.com/album/2rAz4h0MvhaX1dScUuBGmM"
+      },
+      "artists": [
+        {
+          "name": "Los Estramboticos",
+          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172285,
+      "name": "Estoy en Paz",
+      "url": "https://open.spotify.com/track/0VXeUMWXIGIE6uOtPzlk7Z"
     },
     {
       "album": {
@@ -2637,6 +2673,28 @@
     },
     {
       "album": {
+        "name": "Fiesta (Liechtenteiner Polka)",
+        "url": "https://open.spotify.com/album/6gABWxKUA5ZRU1xFdJqczp"
+      },
+      "artists": [
+        {
+          "name": "Goy Karamelo",
+          "url": "https://open.spotify.com/artist/6ivDKC9j7KCZ6vYb9syvcC"
+        },
+        {
+          "name": "Karamelo Santo",
+          "url": "https://open.spotify.com/artist/609ifGTYnL9iOfPI5KIzq1"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126233,
+      "name": "Fiesta (Liechtenteiner Polka)",
+      "url": "https://open.spotify.com/track/21BA0AWh7v9DXtZC8VOEW2"
+    },
+    {
+      "album": {
         "name": "Fina",
         "url": "https://open.spotify.com/album/51q8PUxJC1ts5fgEFyRR5A"
       },
@@ -2710,7 +2768,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 241306,
       "name": "Fuera de Control - En Vivo",
       "url": "https://open.spotify.com/track/1XRXgTDztVIYcgGY6iwEzd"
@@ -2947,6 +3005,28 @@
     },
     {
       "album": {
+        "name": "Fuegos del barrio",
+        "url": "https://open.spotify.com/album/4Xq4HVyPAewLj2LnKAY0WB"
+      },
+      "artists": [
+        {
+          "name": "La Pegatina",
+          "url": "https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK"
+        },
+        {
+          "name": "Eskorzo",
+          "url": "https://open.spotify.com/artist/766jwjrI3TM0rZvmNdzNx8"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218623,
+      "name": "Impura",
+      "url": "https://open.spotify.com/track/6nzYm2iQKGrui6A1k5GVok"
+    },
+    {
+      "album": {
         "name": "Infiernos",
         "url": "https://open.spotify.com/album/2VZbdgo7xM6fdY9PFlqnqm"
       },
@@ -3042,6 +3122,24 @@
       "duration_ms": 165173,
       "name": "Jaque Mate",
       "url": "https://open.spotify.com/track/1X3Ry0jCUS7oqH3WqedtOm"
+    },
+    {
+      "album": {
+        "name": "Juntos",
+        "url": "https://open.spotify.com/album/38DiXVpaDu8xDofJE3xJHd"
+      },
+      "artists": [
+        {
+          "name": "Los Calzones",
+          "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199565,
+      "name": "Juntos",
+      "url": "https://open.spotify.com/track/3zJizV0VAlItx99aOKEtLo"
     },
     {
       "album": {
@@ -3146,7 +3244,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 196018,
       "name": "La Bacha",
       "url": "https://open.spotify.com/track/0uoCp44J9zDIp0YiU3Q9Gu"
@@ -3510,7 +3608,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 171693,
       "name": "La Manifestacion",
       "url": "https://open.spotify.com/track/1eQ9gQAcNDVSNqVHREotR9"
@@ -4016,7 +4114,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 232921,
       "name": "Maldita Sea",
       "url": "https://open.spotify.com/track/1KV5PNt8p3P0BN6VjL5vfE"
@@ -4038,6 +4136,24 @@
       "duration_ms": 189480,
       "name": "Maldita Soledad",
       "url": "https://open.spotify.com/track/2BjVggYx8BZc5xjZGVB4Gd"
+    },
+    {
+      "album": {
+        "name": "Mandar Obedeciendo",
+        "url": "https://open.spotify.com/album/57q4YukTgibWMPUN3mw0DP"
+      },
+      "artists": [
+        {
+          "name": "Rude Boys",
+          "url": "https://open.spotify.com/artist/4o3k1NXafCHBNUROdhaK3Z"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193493,
+      "name": "Mandar Obedeciendo",
+      "url": "https://open.spotify.com/track/3cHjMYDl0nBEL940bTxxcO"
     },
     {
       "album": {
@@ -4576,6 +4692,28 @@
       "duration_ms": 184219,
       "name": "Ni Un Segundo M\u00e1s",
       "url": "https://open.spotify.com/track/4UnXfxtpUp5TRgYiWLBB2W"
+    },
+    {
+      "album": {
+        "name": "No Eres Para Mi",
+        "url": "https://open.spotify.com/album/1mIAzoKLHHfGCfkpknVX2A"
+      },
+      "artists": [
+        {
+          "name": "Vicente Cifuentes",
+          "url": "https://open.spotify.com/artist/3b06h05NjiPizwnTeGybfG"
+        },
+        {
+          "name": "Joselo Osses",
+          "url": "https://open.spotify.com/artist/61vEn9mndXCZpborSO45uP"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192949,
+      "name": "No Eres Para Mi",
+      "url": "https://open.spotify.com/track/6eCfZFbIMzhSbCgllrr0xa"
     },
     {
       "album": {
@@ -5289,6 +5427,24 @@
     },
     {
       "album": {
+        "name": "PEINADOS QUE GOBIERNAN EL MUNDO",
+        "url": "https://open.spotify.com/album/1ht0CjJ5aYj6uCt9ibAJPH"
+      },
+      "artists": [
+        {
+          "name": "Maria Raquel Bonifacino",
+          "url": "https://open.spotify.com/artist/5OBLTR4GvaD43DPkZvRnKs"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196240,
+      "name": "PEINADOS QUE GOBIERNAN EL MUNDO",
+      "url": "https://open.spotify.com/track/4VbHDO3pdKx4PyMNCAH8qi"
+    },
+    {
+      "album": {
         "name": "Pero Qu\u00e9 Necesidad",
         "url": "https://open.spotify.com/album/2vaIJEvfeaTJpEemwKFcpC"
       },
@@ -5592,7 +5748,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 151500,
       "name": "Que Se Joda el Amor",
       "url": "https://open.spotify.com/track/1V8NAzFN4MsVo1mOcHOOYO"
@@ -7504,7 +7660,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 175434,
       "name": "Todo Crazy",
       "url": "https://open.spotify.com/track/00xO4aLAM1baaX7HX3y1Dw"
@@ -8416,7 +8572,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 192262,
       "name": "\u00a1Hey T\u00fa!",
       "url": "https://open.spotify.com/track/06JUg2MqByeWM31ac7dLba"

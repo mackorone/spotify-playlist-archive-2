@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Shawty lo que necesitas es darle flow. Quevedo en portada",
+  "description": "Shawty lo que necesitas es darle flow. Joss ML y  Loyaltty en portada",
   "name": "Dale Flow",
   "tracks": [
     {
@@ -5213,6 +5213,24 @@
     },
     {
       "album": {
+        "name": "DONDE FUE FELIZ",
+        "url": "https://open.spotify.com/album/5jdkmNEk1SQgBJlebymokk"
+      },
+      "artists": [
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176774,
+      "name": "DONDE FUE FELIZ",
+      "url": "https://open.spotify.com/track/4E0v4fnHojKxinvglaufJy"
+    },
+    {
+      "album": {
         "name": "Donde Quieres",
         "url": "https://open.spotify.com/album/05by0gAUjosa1Hr1TRZUfp"
       },
@@ -7436,7 +7454,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 159157,
       "name": "GATA SENSUAL",
       "url": "https://open.spotify.com/track/5NjTcWpLUloHUiXUn64E0v"
@@ -11600,7 +11618,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 160851,
       "name": "ME LA PASO REBOTANDO",
       "url": "https://open.spotify.com/track/69tjfJOEQPhoPloTYvu6rq"
@@ -14026,7 +14044,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 203108,
       "name": "Orcasitas",
       "url": "https://open.spotify.com/track/5vvuVPE95GvnU1KXKlhvWo"
@@ -15862,6 +15880,32 @@
       "duration_ms": 135319,
       "name": "P\u00f3rtate Mal",
       "url": "https://open.spotify.com/track/3SyHka4ECN3LWJvzrziAU3"
+    },
+    {
+      "album": {
+        "name": "QHP PI\u00d1ATA",
+        "url": "https://open.spotify.com/album/4bEPyt76DUgLvsQsZ2czkf"
+      },
+      "artists": [
+        {
+          "name": "Sky Rompiendo",
+          "url": "https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW"
+        },
+        {
+          "name": "Kris R.",
+          "url": "https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218666,
+      "name": "QHP PI\u00d1ATA",
+      "url": "https://open.spotify.com/track/39PTRADxy0eQrK2CBTmyeG"
     },
     {
       "album": {
@@ -18684,7 +18728,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 159475,
       "name": "SU su SU",
       "url": "https://open.spotify.com/track/3CsV3o4DS5zoRRlLDj8dHc"
@@ -18824,6 +18868,32 @@
       "duration_ms": 239797,
       "name": "S\u00fabelo",
       "url": "https://open.spotify.com/track/3fHEwAssCgM4wJYdjT5Ch0"
+    },
+    {
+      "album": {
+        "name": "T T T",
+        "url": "https://open.spotify.com/album/0TquGN9fpiEHQqcsAgE2C9"
+      },
+      "artists": [
+        {
+          "name": "Joss ML",
+          "url": "https://open.spotify.com/artist/1iwzxDCn3LikHvzTC3OFZA"
+        },
+        {
+          "name": "Loyaltty",
+          "url": "https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf"
+        },
+        {
+          "name": "Enayy",
+          "url": "https://open.spotify.com/artist/6NxJgAQlIO7Tgs0AKGkMXZ"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159157,
+      "name": "T T T",
+      "url": "https://open.spotify.com/track/3IKxbI6tQV2cAiheQqt410"
     },
     {
       "album": {
@@ -19080,6 +19150,32 @@
       "duration_ms": 180618,
       "name": "Te Conviene",
       "url": "https://open.spotify.com/track/6SYcT9BykBSNLVYbpEemT4"
+    },
+    {
+      "album": {
+        "name": "Te Entiendo (Remix)",
+        "url": "https://open.spotify.com/album/05OMViCaav7QFZig4FJJOB"
+      },
+      "artists": [
+        {
+          "name": "Maisak",
+          "url": "https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335104,
+      "name": "Te Entiendo - Remix",
+      "url": "https://open.spotify.com/track/1VvliZHnsUj177MnuSY8G2"
     },
     {
       "album": {

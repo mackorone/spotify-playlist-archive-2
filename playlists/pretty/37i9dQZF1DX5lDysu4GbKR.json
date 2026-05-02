@@ -1,13 +1,29 @@
 {
-  "description": "Stripped back vibes. Cover:  Arima Ederra",
-  "num_followers": 613257,
+  "description": "Stripped back vibes. Cover:  James Savage",
+  "num_followers": 613232,
   "original_name": "Acoustic Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABRyaducbJQYdwLv75kbb716BQRy",
+  "snapshot_id": "AAAAAIN17Wi9X+WL2/vW2KYCCUBwcD5x",
   "tracks": [
+    {
+      "added_at": "2026-05-01 05:42:52",
+      "album": {
+        "name": "Higher Power",
+        "url": "https://open.spotify.com/album/5Idywy5cDCM5PO1N0ork1x"
+      },
+      "artists": [
+        {
+          "name": "James Savage",
+          "url": "https://open.spotify.com/artist/0NJU41dLwF6OcBPRZwhAV5"
+        }
+      ],
+      "duration_ms": 173743,
+      "name": "Higher Power",
+      "url": "https://open.spotify.com/track/4E6p9AY52g3h1A4eGD2YmF"
+    },
     {
       "added_at": "2026-03-13 07:56:14",
       "album": {

@@ -4,7 +4,7 @@
 
 > a little indie, a little pop, soda featuring Daniel Seavey
 
-1,586 songs - 3 day 7 hr 16 min
+1,589 songs - 3 day 7 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -426,7 +426,7 @@
 | [DUMP HIM](https://open.spotify.com/track/3uCz1ghL2RM8rDWDKSbH0Z) | [Haiden](https://open.spotify.com/artist/79xvSUqngetd6CbJ1bgb4p) | [DUMP HIM](https://open.spotify.com/album/1i4qNVq9Bjr5Zu58J1BIw0) | 2:35 | 2022-09-16 | 2022-10-29 |
 | [Dumpster Fire](https://open.spotify.com/track/3x0TCFsVKE5utRnqYiG0c2) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Dumpster Fire](https://open.spotify.com/album/556wDyg1w9UwoivJ3bg3TI) | 3:16 | 2022-10-21 | 2023-02-18 |
 | [DYWTYLM](https://open.spotify.com/track/4hjJtKO5SdpfVRwP4FZeKI) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [DYWTYLM](https://open.spotify.com/album/0xLXYxkjjIPfVFhbPWvCwy) | 4:00 | 2023-04-24 | 2023-07-01 |
-| [Earrings](https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Sweet Boy](https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ) | 2:31 | 2026-01-16 |  |
+| [Earrings](https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Sweet Boy](https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ) | 2:31 | 2026-01-16 | 2026-05-02 |
 | [easier said](https://open.spotify.com/track/4gyOWF9N3bPBTpZj2a0F0R) | [elijah woods](https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu) | [what if it was great?](https://open.spotify.com/album/45ppTSZcqg0tzMhoVx1kWG) | 3:17 | 2023-06-09 | 2023-07-22 |
 | [East End Girls](https://open.spotify.com/track/34oA9agkYSp4RgzoHYODbc) | [PASH](https://open.spotify.com/artist/3jEgbW70PXxv993symSK35) | [East End Girls](https://open.spotify.com/album/6sYmd0zjCOp4UFsQqCxjEz) | 3:13 | 2026-04-10 |  |
 | [eighteen](https://open.spotify.com/track/37ZOqyxz7B7bmIa2sq5odC) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [eighteen](https://open.spotify.com/album/5X37ePjevJgwrKDzk9S3mY) | 3:09 | 2023-04-07 | 2023-07-01 |
@@ -554,6 +554,7 @@
 | [Good Day](https://open.spotify.com/track/0FEXQUgIG0X2rhdT3nuQ3M) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [Good Day](https://open.spotify.com/album/1HSgWrfiiWkMNUr8abCu1c) | 2:53 | 2022-10-14 | 2023-03-04 |
 | [Good Grief!](https://open.spotify.com/track/2NM1xnjA3rV2vVlbRobkIH) | [Haiden](https://open.spotify.com/artist/79xvSUqngetd6CbJ1bgb4p) | [Good Grief!](https://open.spotify.com/album/014sDuoL5qu3jviq8vBi63) | 3:00 | 2022-10-21 | 2022-11-19 |
 | [Good Life](https://open.spotify.com/track/3FeyEh29dmM6pAtR90GJC7) | [Ryan Mack](https://open.spotify.com/artist/5LGo1zHegJTWzqVXgeNplt) | [Good Life](https://open.spotify.com/album/2xeDfVoQUkCVvVLwDHqOzy) | 2:53 | 2024-04-26 | 2024-06-22 |
+| [Good Morning California](https://open.spotify.com/track/5SPgaiQqRj4PqW1fLL3M24) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [Good Morning California](https://open.spotify.com/album/4XjfT1UqrMeaGvr38Io8WI) | 2:07 | 2026-05-01 |  |
 | [Good Not Great](https://open.spotify.com/track/5K6VtWfjGkk1ahcVmPKbL9) | [JORDY](https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E) | [BOY](https://open.spotify.com/album/75Cps520layAjj3UTUMC9v) | 2:12 | 2023-04-21 | 2023-09-16 |
 | [Good Side](https://open.spotify.com/track/7cnHoTyQeLnJvoPTbapzuv) | [Crash Adams](https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5) | [Good Side](https://open.spotify.com/album/68gHvyYLpz3rQvl5GJe8ii) | 2:44 | 2024-01-12 | 2024-04-19 |
 | [Good Swimmer](https://open.spotify.com/track/5xWgfHXQe1avZembVFmbiN) | [Carol Ades](https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr) | [Good Swimmer](https://open.spotify.com/album/3BgOy8QjXE5ADJ9QmLVRfl) | 2:14 | 2025-07-18 | 2025-09-21 |
@@ -869,6 +870,7 @@
 | [Loser](https://open.spotify.com/track/4m0Dp2qytwtESPIUT7id1L) | [Max Bennett Kelly](https://open.spotify.com/artist/5DrrFAKP5lAFBaDw9oKZel) | [Loser](https://open.spotify.com/album/49LCvh9JcUTrqwT2jhCFAN) | 2:43 | 2025-02-07 | 2025-04-12 |
 | [Loserz](https://open.spotify.com/track/5RQiw6eBSeARgg9tSdW3Qb) | [Jordan Stephens](https://open.spotify.com/artist/0SVz62vUjHKkbVOgoTK4Ze) | [Let Me Die Inside You](https://open.spotify.com/album/6tBjeKusAd1fYNxZsjojmb) | 4:08 | 2022-02-25 | 2022-03-12 |
 | [lost](https://open.spotify.com/track/73hvoZggXDE0TGl0qqj1zo) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [lost](https://open.spotify.com/album/1FU8yl2KBTgZITcuQFlzSp) | 3:01 | 2025-10-03 | 2026-02-14 |
+| [Lost and Found](https://open.spotify.com/track/0SYktSP2XOX3OipKS9W5vJ) | [Junior Varsity](https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp) | [Ready](https://open.spotify.com/album/1e50AHM2FkCz5SLww9qFzT) | 2:52 | 2026-05-01 |  |
 | [Lost Boy](https://open.spotify.com/track/0VzHwYlPuWHjyaq6HLB9UV) | [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [Kids](https://open.spotify.com/album/7DZuN9XYdWLa2l4huvH3jy) | 4:37 | 2022-04-01 | 2022-04-09 |
 | [Lost In Space](https://open.spotify.com/track/1PIBxfR4k67snh0hUSgzPs) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Lost In Space](https://open.spotify.com/album/02lrMtGj1XXii9azaaBtPl) | 4:18 | 2024-05-31 | 2024-07-19 |
 | [Lost In The Moment](https://open.spotify.com/track/3nF5FjUP4W0QBxW4JCyUoa) | [Blanks](https://open.spotify.com/artist/7geo7fjTQyp13Wf2ALTZCF) | [Lost In The Moment](https://open.spotify.com/album/68WmmsPnVwG3ltUQaDY0JJ) | 2:33 | 2022-03-18 | 2022-08-27 |
@@ -990,6 +992,7 @@
 | [Nightmares](https://open.spotify.com/track/4F1YTJm19T5uYAO7yyGhZJ) | [No Love For The Middle Child](https://open.spotify.com/artist/7HWfshpjlGldmRa4gymvjX), [MASN](https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE), [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Nightmares](https://open.spotify.com/album/5bHn0vh1WADdaPiBxiTQz2) | 2:49 | 2022-08-12 | 2022-08-17 |
 | [no excuses](https://open.spotify.com/track/0fL0C37F64Ufzi2kHRql5Y) | [Virginia To Vegas](https://open.spotify.com/artist/3v9wPA58IVrX2dg6AjSPgi) | [it's a little complicated, but i'm okay.](https://open.spotify.com/album/4nrSgAxs8tzf8RPIN9lc4Q) | 3:17 | 2022-02-04 | 2022-07-16 |
 | [No Longer Bound](https://open.spotify.com/track/08HjPPTP1GWkiIpVZKw2E3) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO) | [California Cowboy](https://open.spotify.com/album/2a9qafMKqGnx33ScYB8nbp) | 3:00 | 2023-07-28 | 2023-09-30 |
+| [no more regrets](https://open.spotify.com/track/7lgx7t5ZLkdOjiOAjSx9d6) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [no more regrets](https://open.spotify.com/album/5cdZLcELt79qq6zxd0oFkA) | 2:58 | 2026-05-01 |  |
 | [No Strings Attached](https://open.spotify.com/track/6lhrM7uDelkZn1VKmmO9BT) | [Mercer Henderson](https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L) | [No Strings Attached](https://open.spotify.com/album/05Sln0YCdhy8SpX4x4uvoi) | 2:59 | 2024-08-02 | 2024-09-07 |
 | [No Ties](https://open.spotify.com/track/3c55CwwJyauL7tUHMoVyn7) | [Fiji Blue](https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe) | [I Loved You, What Happened? \(Deluxe\)](https://open.spotify.com/album/1yVrwIy3icKDiyMDBLbJDr) | 2:30 | 2022-08-19 | 2022-09-17 |
 | [NO WAY!](https://open.spotify.com/track/6mh1v2YKd7cMe7ra7m37SB) | [Clubhouse](https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX) | [NO WAY!](https://open.spotify.com/album/2SruOoc4NUXuErLO3zDKbC) | 2:27 | 2021-10-29 | 2022-01-08 |
@@ -1480,7 +1483,7 @@
 | [W4NNA DO](https://open.spotify.com/track/11sA5C9rqjatq2eXzL8y33) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE) | [W4NNA DO](https://open.spotify.com/album/0eOYz7FB11TFzjlbdJRL4h) | 2:19 | 2023-06-30 | 2023-07-29 |
 | [Wait Until Tomorrow](https://open.spotify.com/track/753YTuoNXuJjBcUo6yW9R6) | [Wilmah](https://open.spotify.com/artist/3alzUqwOo4TgcCuzQKME9J) | [Wait Until Tomorrow](https://open.spotify.com/album/3AmSSmr8GhByvmWa3VYUEF) | 3:06 | 2021-11-19 | 2022-01-29 |
 | [Waiting For The Dawn](https://open.spotify.com/track/7ICTrKc2uZHhppHRygXf0b) | [SUM SUN](https://open.spotify.com/artist/3Rkl3UpmEVgW3vEoISzJUT) | [Waiting For The Dawn](https://open.spotify.com/album/2MfBbml4vlNl67SrvjEtQ7) | 3:55 | 2026-03-27 |  |
-| [Wake Up](https://open.spotify.com/track/49t87UaGyvXM2CJVXNwOsQ) | [thebandfriday](https://open.spotify.com/artist/4GYuunIaiS9R8sPS6hzhFs) | [Wake Up](https://open.spotify.com/album/2WARgPafAX7Taehcpwmi0z) | 3:46 | 2026-02-06 |  |
+| [Wake Up](https://open.spotify.com/track/49t87UaGyvXM2CJVXNwOsQ) | [thebandfriday](https://open.spotify.com/artist/4GYuunIaiS9R8sPS6hzhFs) | [Wake Up](https://open.spotify.com/album/2WARgPafAX7Taehcpwmi0z) | 3:46 | 2026-02-06 | 2026-05-02 |
 | [Walk Walk Walk](https://open.spotify.com/track/38Uu9WTMaVKOGW6LXxt6rK) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Blue Sky Mentality](https://open.spotify.com/album/0FOIHe5RLulAgBq3HMV4wd) | 2:56 | 2025-10-03 | 2026-02-14 |
 | [wannabe!](https://open.spotify.com/track/1GRm70qZVH8GAjyPIZcpV4) | [Kevian Kraemer](https://open.spotify.com/artist/4YuuDwJsOgciB2sYUvmo4a) | [wannabe!](https://open.spotify.com/album/0oDjFPkkSXX2xRYvAiyZDN) | 2:12 | 2025-10-31 | 2026-02-14 |
 | [Want Want](https://open.spotify.com/track/5fmaigGNZqMUv3bW6FCs2L) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Want Want](https://open.spotify.com/album/4hHUyNuLV7kIyHh4pBQNCE) | 3:08 | 2022-06-03 | 2022-08-27 |
@@ -1535,7 +1538,7 @@
 | [WHERE I WANNA BE FOUND](https://open.spotify.com/track/4AFBCemec0cYa2JLXqvH9M) | [NEEVE](https://open.spotify.com/artist/6Ais7UkieGvrmSxQ8eAull) | [WHERE I WANNA BE FOUND](https://open.spotify.com/album/1E8LLpuaE6VXqq9Ca59ASc) | 2:59 | 2022-07-19 | 2022-08-09 |
 | [WHERE I WANNA BE FOUND](https://open.spotify.com/track/73UaWNjVzf8Q3Q50UMNv5m) | [NEEVE](https://open.spotify.com/artist/6Ais7UkieGvrmSxQ8eAull) | [WHERE I WANNA BE FOUND](https://open.spotify.com/album/3g0IKAkUpz49gyxDV6C6HD) | 2:59 | 2022-07-19 | 2022-08-27 |
 | [where tf have you been?](https://open.spotify.com/track/7LtN3QdIRFlSyZXLOv2LQW) | [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB) | [where tf have you been?](https://open.spotify.com/album/7h4jQ9Kbr0wx9R71ydGj1X) | 2:50 | 2024-01-26 | 2024-03-16 |
-| [White Keys](https://open.spotify.com/track/5ViLKrbyL3HD6wsq3AB9eI) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [White Keys](https://open.spotify.com/album/0PRccyeXfXZBxi8dkIv17c) | 2:24 | 2026-01-30 |  |
+| [White Keys](https://open.spotify.com/track/5ViLKrbyL3HD6wsq3AB9eI) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [White Keys](https://open.spotify.com/album/0PRccyeXfXZBxi8dkIv17c) | 2:24 | 2026-01-30 | 2026-05-02 |
 | [WHO HURT YOU?](https://open.spotify.com/track/4HCsFCmFZBxBuLasSvD9p8) | [Benicio Bryant](https://open.spotify.com/artist/4qs1nF5ED0DZKyxFwNCyMC) | [WHO HURT YOU?](https://open.spotify.com/album/3DFbl7qb3fUiZ91kDNyf3p) | 2:22 | 2022-04-29 | 2022-06-25 |
 | [Who’s In Control](https://open.spotify.com/track/1GosSlFMwNOZ3tpb5LY3pW) | [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k) | [Who's In Control](https://open.spotify.com/album/67FaNxCIc8ZSzeZffbm69l) | 3:05 | 2022-02-18 | 2022-02-26 |
 | [Why Am I Here](https://open.spotify.com/track/5BaG5aMYeyOCfix0eTJXKz) | [Presley Regier](https://open.spotify.com/artist/7AAHfakMQan4p04ozZhhwc) | [Sensitive to the room](https://open.spotify.com/album/2HD4BmFejncyUP0fhoes6Q) | 3:17 | 2026-04-24 |  |

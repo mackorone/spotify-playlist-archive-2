@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Recent hits from all your favorite Christian Rock artists!  Cover: Emerson Day",
+  "description": "Recent hits from all your favorite Christian Rock artists!  Cover: Seventh Day Slumber",
   "name": "Christian Rock Hits",
   "tracks": [
     {
@@ -490,7 +490,7 @@
       ],
       "date_added": "2021-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 280579,
       "name": "Drive",
       "url": "https://open.spotify.com/track/1TBujZFt2bUwq7Vy7AsiUK"
@@ -1830,6 +1830,24 @@
       "duration_ms": 205177,
       "name": "Victory",
       "url": "https://open.spotify.com/track/5ddlzv2lJ7jCNfkVbqVtfc"
+    },
+    {
+      "album": {
+        "name": "Wake Up, Mr. Crow",
+        "url": "https://open.spotify.com/album/41Q8Mjdp8pXFoYmJItNgFb"
+      },
+      "artists": [
+        {
+          "name": "Switchfoot",
+          "url": "https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245000,
+      "name": "Wake Up, Mr. Crow",
+      "url": "https://open.spotify.com/track/0grUF97drgnU62EI7jpN4x"
     },
     {
       "album": {

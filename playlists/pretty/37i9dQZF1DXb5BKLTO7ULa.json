@@ -1,12 +1,12 @@
 {
   "description": "Nieuw: Kevin & Roxy Dekker, Madonna & Sabrina Carpenter, Alex Warren, Zo\u00eb Tauran, MEROL en meer..",
-  "num_followers": 293925,
+  "num_followers": 294452,
   "original_name": "New Music Friday NL",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAP14GE2c1Nn5r1m0XJsHQZm3dfoo",
+  "snapshot_id": "AAAAAOseCJmwbSWdb8TZvRWZv8hruOAJ",
   "tracks": [
     {
       "added_at": "2026-04-30 22:03:36",
@@ -441,6 +441,26 @@
       "url": "https://open.spotify.com/track/4HgOcLYz9T8jZLr3xyc40T"
     },
     {
+      "added_at": "2026-05-01 09:48:26",
+      "album": {
+        "name": "FENIAN",
+        "url": "https://open.spotify.com/album/0z5uyAUrflFAnjBR2EhW9J"
+      },
+      "artists": [
+        {
+          "name": "KNEECAP",
+          "url": "https://open.spotify.com/artist/1ZVACPeq7ccGCoUXwtafUU"
+        },
+        {
+          "name": "Kae Tempest",
+          "url": "https://open.spotify.com/artist/1YcprGtF13BYCZQK9jYPEw"
+        }
+      ],
+      "duration_ms": 214400,
+      "name": "Irish Goodbye (feat. Kae Tempest)",
+      "url": "https://open.spotify.com/track/3xJi1yQWl06YXO3NS39HR8"
+    },
+    {
       "added_at": "2026-04-30 22:03:36",
       "album": {
         "name": "PROSTITUTE",
@@ -464,12 +484,12 @@
       },
       "artists": [
         {
-          "name": "Groove Theory",
-          "url": "https://open.spotify.com/artist/7opRqRgF9lvnVraBFCMvIj"
-        },
-        {
           "name": "Cloonee",
           "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        },
+        {
+          "name": "Groove Theory",
+          "url": "https://open.spotify.com/artist/7opRqRgF9lvnVraBFCMvIj"
         }
       ],
       "duration_ms": 184019,
@@ -731,6 +751,26 @@
       "duration_ms": 170254,
       "name": "The Observer",
       "url": "https://open.spotify.com/track/4CZMQE6ygZXVD74FVjtziM"
+    },
+    {
+      "added_at": "2026-05-01 09:48:26",
+      "album": {
+        "name": "Honderdduizend graden",
+        "url": "https://open.spotify.com/album/5nfUTRn1vBDuKVOQVKNmlZ"
+      },
+      "artists": [
+        {
+          "name": "Willem",
+          "url": "https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds"
+        },
+        {
+          "name": "Sef",
+          "url": "https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0"
+        }
+      ],
+      "duration_ms": 167381,
+      "name": "Honderdduizend graden",
+      "url": "https://open.spotify.com/track/0X4S1jLylEDhgRW0SMHlzi"
     },
     {
       "added_at": "2026-04-30 22:03:36",
@@ -1054,10 +1094,14 @@
         {
           "name": "Steven Charlot",
           "url": "https://open.spotify.com/artist/6i7OOTSy7DyayuRf6vDcqV"
+        },
+        {
+          "name": "Eva Valery",
+          "url": "https://open.spotify.com/artist/0K95TlYJ2SvJbL3CZ3ui3p"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 3",
+      "duration_ms": 258742,
+      "name": "Dive (feat. Eva Valery)",
       "url": "https://open.spotify.com/track/6Rm6wlcvUMmoewgqT6HtGp"
     },
     {
@@ -1193,7 +1237,7 @@
         },
         {
           "name": "Tiga",
-          "url": "https://open.spotify.com/artist/6dfbRE1slg9q6xXbMiB9Rn"
+          "url": "https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC"
         }
       ],
       "duration_ms": 207272,

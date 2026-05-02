@@ -1749,6 +1749,24 @@
     },
     {
       "album": {
+        "name": "No Tears Left To Cry",
+        "url": "https://open.spotify.com/album/0HfM6K5msQ7kW7TUFDJ1C2"
+      },
+      "artists": [
+        {
+          "name": "Lalu",
+          "url": "https://open.spotify.com/artist/3EeikbdxXtVV1PsTiXQbLs"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204786,
+      "name": "No Tears Left To Cry",
+      "url": "https://open.spotify.com/track/3vk2CnW3F4ZCDlQT0D2DrR"
+    },
+    {
+      "album": {
         "name": "On the Weekend",
         "url": "https://open.spotify.com/album/3Is1jufEUK7Nb3yeJ09i85"
       },

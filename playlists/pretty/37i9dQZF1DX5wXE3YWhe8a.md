@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wXE3YWhe8a.md) - [plain]
 
 > bright and cozy beats to watch the world bloom, focus, study, or chill to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,660 likes - 67 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,693 likes - 67 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wXE3YWhe8a.md) - [plain]
 | 66 | [by the sea](https://open.spotify.com/track/3bfXF2RYQVlsZfIMDs5iZQ) | [skyshapes](https://open.spotify.com/artist/6MMiMw3WzWnkSwK9KcvcD2) | [by the sea](https://open.spotify.com/album/66iscn3W2RDIKkOkvPWwkg) | 2:03 |
 | 67 | [i love u](https://open.spotify.com/track/2USao3lvvIv7SqWjxmImyV) | [G Sounds](https://open.spotify.com/artist/0C7tVaY5qlP5YgYh7DSUoJ) | [i love u](https://open.spotify.com/album/0UY0O01qnUYVIl3j2Yj9or) | 1:47 |
 
-Snapshot ID: `AAAAAMoQBiH/omNbFOa8lnrfn+2Jd9Ko`
+Snapshot ID: `AAAAAAfIMXIUW3nZqWKGDK2qqkx4HjJx`

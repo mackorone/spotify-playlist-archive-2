@@ -1,6 +1,6 @@
 {
   "description": "a hardcore home for slowcore fans.",
-  "num_followers": 212284,
+  "num_followers": 212286,
   "original_name": "slowcore",
   "owner": {
     "name": "Spotify",
@@ -667,22 +667,6 @@
     {
       "added_at": "2025-08-07 23:00:59",
       "album": {
-        "name": "Because I Was In Love",
-        "url": "https://open.spotify.com/album/3r8mKxg4RO934B6fksLCqN"
-      },
-      "artists": [
-        {
-          "name": "Sharon Van Etten",
-          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
-        }
-      ],
-      "duration_ms": 243800,
-      "name": "Consolation Prize",
-      "url": "https://open.spotify.com/track/1rvsWurvB8VkqYT63XmJLD"
-    },
-    {
-      "added_at": "2025-08-07 23:00:59",
-      "album": {
         "name": "Day And Night",
         "url": "https://open.spotify.com/album/64SmrtVEj2HwkQyz2Z9GXf"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 237973,
       "name": "Sun Drawing",
       "url": "https://open.spotify.com/track/6AtRvRFkhSiP9518S48WBj"
+    },
+    {
+      "added_at": "2025-08-07 23:00:59",
+      "album": {
+        "name": "Because I Was In Love",
+        "url": "https://open.spotify.com/album/3r8mKxg4RO934B6fksLCqN"
+      },
+      "artists": [
+        {
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+        }
+      ],
+      "duration_ms": 243800,
+      "name": "Consolation Prize",
+      "url": "https://open.spotify.com/track/1rvsWurvB8VkqYT63XmJLD"
     },
     {
       "added_at": "2025-08-07 23:00:59",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYWhpF8H0HO.md) - [plain]
 
 > Talenta tanah air yang dapat menyeberang lintas negara\. Cover: Arash Buana
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,310 likes - 93 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,336 likes - 93 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYWhpF8H0HO.md) - [plain]
 | 92 | [BACK 2 YOU](https://open.spotify.com/track/7sFjAaWSZDrUsxSxALlA09) | [Rahmania Astrini](https://open.spotify.com/artist/0e5blBgpur3Y18wS1bzXQC) | [BACK 2 YOU](https://open.spotify.com/album/2c7Osih348dWoitmLUvVAh) | 3:41 |
 | 93 | [Let Me Be Your Man](https://open.spotify.com/track/4cm2ZdTcIwNhn0ZnEnkf8s) | [Voxxes](https://open.spotify.com/artist/0GgS2KBIslAgdZu0XYzSTG) | [Let Me Be Your Man](https://open.spotify.com/album/2zhlUYDJZuHyZVaqjrgYjB) | 3:38 |
 
-Snapshot ID: `AAAAAMQ6nBUQC4sSpEouZsQySSvRv8ZD`
+Snapshot ID: `AAAAAN7eqq3CK8xxztvyuYiDPo8l5WbK`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Reggaeton pero al sabor de Cristo! Foto: Madiel Lara",
+  "description": "Reggaeton pero al sabor de Cristo! Foto: Niko Eme",
   "name": "Reggaeton Cristiano",
   "tracks": [
     {
@@ -163,6 +163,28 @@
     },
     {
       "album": {
+        "name": "A Qui\u00e9n Ir\u00e9?",
+        "url": "https://open.spotify.com/album/2WZrS8JYc6E8hev0lKO0gR"
+      },
+      "artists": [
+        {
+          "name": "Real ZK",
+          "url": "https://open.spotify.com/artist/0invR0zUSTnYFzslPwQzPr"
+        },
+        {
+          "name": "Lirikeo Music",
+          "url": "https://open.spotify.com/artist/2iKfgNOLo2q4pJxFN6aesS"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179368,
+      "name": "A Qui\u00e9n Ir\u00e9?",
+      "url": "https://open.spotify.com/track/2jTWq7acxLJQdHEV3At2y2"
+    },
+    {
+      "album": {
         "name": "LAMENTO EN BAILE",
         "url": "https://open.spotify.com/album/3jAzXWlEKBUw3eJvrXM74t"
       },
@@ -222,7 +244,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 259986,
       "name": "Ac\u00e1 Entre Nos",
       "url": "https://open.spotify.com/track/7HFJu4FWtVHNW1kSCCA5YK"
@@ -320,10 +342,28 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 208791,
       "name": "ALGORITMO",
       "url": "https://open.spotify.com/track/4kEDNOrwbgG7WChg8b6oXT"
+    },
+    {
+      "album": {
+        "name": "ALMA ENCENDIDA",
+        "url": "https://open.spotify.com/album/2KT7Matoj1OVdC0Ccrihaw"
+      },
+      "artists": [
+        {
+          "name": "Liaz",
+          "url": "https://open.spotify.com/artist/0gT1I8icNvTAd7KBPmSWXJ"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163723,
+      "name": "ALMA ENCENDIDA",
+      "url": "https://open.spotify.com/track/2dhUA3sQUglSROt1QD5jmH"
     },
     {
       "album": {
@@ -1451,6 +1491,24 @@
     },
     {
       "album": {
+        "name": "Demasiado",
+        "url": "https://open.spotify.com/album/1U8QXZ7JrExeFYjQMoDsFy"
+      },
+      "artists": [
+        {
+          "name": "Omy Alka",
+          "url": "https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195523,
+      "name": "Demasiado",
+      "url": "https://open.spotify.com/track/4KIUGowU0SyDdLPd1jm2j3"
+    },
+    {
+      "album": {
         "name": "Demasiado Amor",
         "url": "https://open.spotify.com/album/5NES5Et2zjK1Yk6tEXDfyW"
       },
@@ -2202,6 +2260,32 @@
       "duration_ms": 198504,
       "name": "Gone",
       "url": "https://open.spotify.com/track/3f2bvBnCadayg3R9nUNBKM"
+    },
+    {
+      "album": {
+        "name": "GoPro",
+        "url": "https://open.spotify.com/album/7CrpeddJPgNGJv1BuJnoKC"
+      },
+      "artists": [
+        {
+          "name": "Niko Eme",
+          "url": "https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL"
+        },
+        {
+          "name": "Diamnd El Cientifico",
+          "url": "https://open.spotify.com/artist/6cO9lHBHUhwyLxcEuasjWe"
+        },
+        {
+          "name": "Elikemusic",
+          "url": "https://open.spotify.com/artist/1hBJVDA61cu2Svqxm2nMor"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142105,
+      "name": "GoPro",
+      "url": "https://open.spotify.com/track/3bzuNTwr2K3f6hC0IfCNS9"
     },
     {
       "album": {
@@ -3058,7 +3142,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 199204,
       "name": "Me Llamas (Remix)",
       "url": "https://open.spotify.com/track/7p4I6CdGqTVmYXVIsv7MVV"
@@ -3262,6 +3346,28 @@
       "duration_ms": 170169,
       "name": "Mi Paz",
       "url": "https://open.spotify.com/track/52h10vin2OjmF8kflH8kZD"
+    },
+    {
+      "album": {
+        "name": "MI VERDAD",
+        "url": "https://open.spotify.com/album/6n7oykX2jg4yr7v22CDaGq"
+      },
+      "artists": [
+        {
+          "name": "Nick The Prodigy",
+          "url": "https://open.spotify.com/artist/4sjBX1hPjHxSz5BBGizOby"
+        },
+        {
+          "name": "DECLET",
+          "url": "https://open.spotify.com/artist/3VaYAD1KbRZxTGctZvdj47"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163711,
+      "name": "MI VERDAD",
+      "url": "https://open.spotify.com/track/08DC6yJCeNDTsn2b1GvwPw"
     },
     {
       "album": {
@@ -4492,7 +4598,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 264826,
       "name": "Sin Ti",
       "url": "https://open.spotify.com/track/57ogj5vevbzdRtC8Ng2Rtx"
@@ -4514,7 +4620,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 183054,
       "name": "Sin Tu Amor",
       "url": "https://open.spotify.com/track/7zoaxuyAARzX2SqkiHQQqD"
@@ -5191,6 +5297,24 @@
     },
     {
       "album": {
+        "name": "Una Relaci\u00f3n",
+        "url": "https://open.spotify.com/album/4P1RKI70pI7ESRSwhlOzeI"
+      },
+      "artists": [
+        {
+          "name": "Andrez Babii",
+          "url": "https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141348,
+      "name": "Una Relaci\u00f3n",
+      "url": "https://open.spotify.com/track/5vrvE33c5uhVEa0h6v3BdP"
+    },
+    {
+      "album": {
         "name": "Vamos a Ganar",
         "url": "https://open.spotify.com/album/0tPCKR5VkqDVX8ifUeEnCr"
       },
@@ -5308,7 +5432,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 221935,
       "name": "Vitamina",
       "url": "https://open.spotify.com/track/2lieDq6yRePGNBKLTcKe39"

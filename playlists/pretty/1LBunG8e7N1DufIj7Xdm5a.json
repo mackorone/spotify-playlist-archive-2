@@ -1,12 +1,12 @@
 {
   "description": "playlist spotify free",
-  "num_followers": 280,
+  "num_followers": 279,
   "original_name": "playlist spotify free",
   "owner": {
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAIes7n0up5MGZ8mRxmssKqt8QqKh5d",
+  "snapshot_id": "AAAIfChqzzw7xsOIY86EikhdwRXHWpsG",
   "tracks": [
     {
       "added_at": "2026-04-14 21:44:21",
@@ -14924,8 +14924,8 @@
       },
       "artists": [
         {
-          "name": "La voce del Guerriero",
-          "url": "https://open.spotify.com/artist/7M5QXFQwcwIqzeuYJ0T6q6"
+          "name": "Jacopo Bettarello",
+          "url": "https://open.spotify.com/artist/0tAVAXmULUK2GFWGsMwEsQ"
         }
       ],
       "duration_ms": 181580,
@@ -71939,6 +71939,42 @@
       "duration_ms": 228818,
       "name": "Coffee in Barcelona",
       "url": "https://open.spotify.com/track/1p6AI4YeYuTnQdiGRj5G8i"
+    },
+    {
+      "added_at": "2026-05-01 20:34:02",
+      "album": {
+        "name": "Kikiri",
+        "url": "https://open.spotify.com/album/6k3FPD6wqHQ61hNGb2eQIE"
+      },
+      "artists": [
+        {
+          "name": "HOZATHEBOSS",
+          "url": "https://open.spotify.com/artist/5qlQBBPsnIsx0UxLSVotFj"
+        },
+        {
+          "name": "Quobo blessing",
+          "url": "https://open.spotify.com/artist/7EHMTSkPqZTNMIpFE2vR4q"
+        }
+      ],
+      "duration_ms": 129192,
+      "name": "Kikiri",
+      "url": "https://open.spotify.com/track/0Ph4ZM6ALp60ee0QLYqIhb"
+    },
+    {
+      "added_at": "2026-05-01 22:48:06",
+      "album": {
+        "name": "TENDENCIA",
+        "url": "https://open.spotify.com/album/0FUyjX0GbIMMsZi9DUPLQR"
+      },
+      "artists": [
+        {
+          "name": "The Samu",
+          "url": "https://open.spotify.com/artist/1hyzQSk08cK1aPlEKx5dOP"
+        }
+      ],
+      "duration_ms": 132425,
+      "name": "TENDENCIA",
+      "url": "https://open.spotify.com/track/2JLopiOtCfUzma7nCqrW6R"
     }
   ],
   "unique_name": "playlist spotify free",

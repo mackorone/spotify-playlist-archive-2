@@ -4,7 +4,7 @@
 
 > J\-Hip Hopの最新注目曲をまとめてチェック cover: Mall Boyz \*水曜更新。マイライブラリに保存して毎週チェックしよう
 
-2,484 songs - 5 day 4 hr 51 min
+2,486 songs - 5 day 4 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -638,6 +638,7 @@
 | [F\*ck School](https://open.spotify.com/track/7E7y5zIrk60pb7wrypa9gU) | [JETG](https://open.spotify.com/artist/6FaSoiqFCltldCA2mhk5cr) | [F\*ck School](https://open.spotify.com/album/3260XjsZgdJjJc8Hz3kc5v) | 1:47 | 2023-12-20 | 2024-01-17 |
 | [F.N.A.P.](https://open.spotify.com/track/2hvHJKYzUulhYtSauN0U6l) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [F.N.A.P.](https://open.spotify.com/album/0uIapDw7UWY2omzVtBGUfE) | 2:51 | 2023-09-21 | 2023-10-04 |
 | [Face Time](https://open.spotify.com/track/5cFRLH85pxJZMeHa9RFSwo) | [bizu](https://open.spotify.com/artist/4r2ms0f6NetZmWhszck5xd), [Sitissy luvit](https://open.spotify.com/artist/7aYDI4vH01zznjy69ze9X5) | [Face Time](https://open.spotify.com/album/0IWD3rnFfoMINrIDFXjJWH) | 2:56 | 2024-11-06 | 2024-11-13 |
+| [FACTORY \(feat\. HARKA, lj, Hezron & MIKADO\)](https://open.spotify.com/track/4Qg8aEcCCpODHKNQNl1e2d) | [SICK ON PRAY](https://open.spotify.com/artist/499L1CfOgCZn5t9Cizm9RC), [Harka](https://open.spotify.com/artist/0NLHo8KJfXFnDFeynigUze), [lj](https://open.spotify.com/artist/7bf8nSozw4GvGHRSGJ74ez), [Hezron](https://open.spotify.com/artist/1f9ZbrwYAXYyFCf3PGDWfq), [MIKADO](https://open.spotify.com/artist/2snBLq7pgphB4ObS2otWiM) | [FACTORY \(feat\. HARKA, lj, Hezron & MIKADO\)](https://open.spotify.com/album/5xXNcCE2Kd3sXFbdXuQf3j) | 3:20 | 2026-05-01 |  |
 | [FAFJUNK](https://open.spotify.com/track/3yH1cPk86ZJXyIptRBNgIr) | [BIG FAF](https://open.spotify.com/artist/0zFJWYlu5kGl6TOeJnu52I), [ILLJUNK](https://open.spotify.com/artist/7IV6cDdnJGSd0kgaGNckHo) | [FAFJUNK](https://open.spotify.com/album/6NwUKjHHOKexOfOpsbqRS7) | 2:56 | 2025-01-14 | 2025-01-22 |
 | [Faith](https://open.spotify.com/track/7sqwJzIs9H5wPVPnqKur9J) | [CFN MALIK](https://open.spotify.com/artist/3uX4LhOfuyc2waeiEr2GjX), [M3R](https://open.spotify.com/artist/0YjscyVinO9rRbTTRSHIUm), [IO](https://open.spotify.com/artist/7wJbfRQ42OuzAQfXMVidTd) | [Faith](https://open.spotify.com/album/25eKwymy6EyUyRbPjOzVPM) | 3:27 | 2024-08-15 | 2024-10-02 |
 | [FALL FORWARD](https://open.spotify.com/track/4G345Ti233JJTI0sE8PfrB) | [MIKI](https://open.spotify.com/artist/0pOa1ha7P61nwkJRedUjVj), [Hannya](https://open.spotify.com/artist/42ptkP1SS9arSLyX0ECcQF), [PAX](https://open.spotify.com/artist/6ald1niy8OkAEUGvm50aOh) | [FALL FORWARD](https://open.spotify.com/album/7rlEn21UsQIl7WvXuXeHvT) | 2:48 | 2025-01-16 | 2025-01-29 |
@@ -1725,6 +1726,7 @@
 | [Seasons](https://open.spotify.com/track/39aDJ3buphIA6rgM651eX2) | [J1rock](https://open.spotify.com/artist/0nuCtZ6ZHTKzQAI21HNh74) | [Seasons](https://open.spotify.com/album/7sQk8qfCFzxffBRIPnYGsC) | 1:10 | 2024-04-18 | 2024-05-29 |
 | [Seasons](https://open.spotify.com/track/6EXuxQV8wJVvIohejXwbPD) | [J1rock](https://open.spotify.com/artist/0nuCtZ6ZHTKzQAI21HNh74) | [Seasons](https://open.spotify.com/album/4B0qLdyNSpZc9lK7CsMdTn) | 1:10 | 2024-01-18 | 2024-04-19 |
 | [Seasons](https://open.spotify.com/track/0jOFKglRHghXaYmPT0ys01) | [OKAMOTO'S](https://open.spotify.com/artist/3X1afU2VL6MV0AJacARH7T), [KEIJU](https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL) | [Seasons](https://open.spotify.com/album/7MeKYsRWWQHQE8PKUJauNZ) | 3:38 | 2026-02-10 |  |
+| [SECRET](https://open.spotify.com/track/1vYIg87F6bCuz9SaF2Px7N) | [ShowyVICTOR](https://open.spotify.com/artist/7wBFVrT9qEIi4FRjgqgPXA) | [SECRET](https://open.spotify.com/album/2F0GW8vk4Pk4UEEu573CtQ) | 1:58 | 2026-05-01 |  |
 | [Secret Idea](https://open.spotify.com/track/2YEMCKz8DFrxL7uRVhte5r) | [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK), [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [Secret Idea](https://open.spotify.com/album/11yxJKJwnpPLHVzRwYg2YB) | 2:58 | 2024-06-04 | 2024-07-31 |
 | [Secure '' Outro ''](https://open.spotify.com/track/32bpgwGYMZKGu8PnPkL1bN) | [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd) | [Secure '' Outro ''](https://open.spotify.com/album/3xKbrKuH4XLyX9kk1N2YsS) | 1:46 | 2025-12-16 | 2026-02-11 |
 | [See, Saw](https://open.spotify.com/track/0QUniQsyXZwtkaEBLw29Qg) | [Sweet William](https://open.spotify.com/artist/43eSnxk6MsmXsLOlbYo8VQ), [Gagle](https://open.spotify.com/artist/7EEGSEHvuzEc2x4dhZPb50) | [See, Saw](https://open.spotify.com/album/7bx3h1AxJ7yfXiIFi0SfQy) | 4:08 | 2024-01-16 | 2024-04-03 |

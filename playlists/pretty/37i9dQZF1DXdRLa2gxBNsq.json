@@ -1,6 +1,6 @@
 {
   "description": "No, el punk espa\u00f1ol NO EST\u00c1 MUERTO. Foto: Non Servium.",
-  "num_followers": 115470,
+  "num_followers": 115487,
   "original_name": "Punk Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -735,6 +735,22 @@
     {
       "added_at": "2026-04-09 22:00:22",
       "album": {
+        "name": "Camino hacia la ruina",
+        "url": "https://open.spotify.com/album/7z6A7KRuF72XBB8VcvUbIh"
+      },
+      "artists": [
+        {
+          "name": "Comando 9mm",
+          "url": "https://open.spotify.com/artist/4ysg7aP5WvMZge41OoKKHa"
+        }
+      ],
+      "duration_ms": 285640,
+      "name": "Amor frenop\u00e1tico",
+      "url": "https://open.spotify.com/track/6YjmFAhmoUJydfvpDj0PMT"
+    },
+    {
+      "added_at": "2026-04-09 22:00:22",
+      "album": {
         "name": "Mi \u00fanica salida",
         "url": "https://open.spotify.com/album/2m91Eba2vl5OSLCpJejcIy"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 200168,
       "name": "Mi \u00fanica salida",
       "url": "https://open.spotify.com/track/1Iq05aiCe4fPyJXDiSsHIW"
-    },
-    {
-      "added_at": "2026-04-09 22:00:22",
-      "album": {
-        "name": "Camino hacia la ruina",
-        "url": "https://open.spotify.com/album/7z6A7KRuF72XBB8VcvUbIh"
-      },
-      "artists": [
-        {
-          "name": "Comando 9mm",
-          "url": "https://open.spotify.com/artist/4ysg7aP5WvMZge41OoKKHa"
-        }
-      ],
-      "duration_ms": 285640,
-      "name": "Amor frenop\u00e1tico",
-      "url": "https://open.spotify.com/track/6YjmFAhmoUJydfvpDj0PMT"
     },
     {
       "added_at": "2026-04-09 22:00:22",
@@ -803,22 +803,6 @@
     {
       "added_at": "2026-04-09 22:00:22",
       "album": {
-        "name": "La Buena M\u00fasica",
-        "url": "https://open.spotify.com/album/4MsDjFy2xpRc7t7Iakglr6"
-      },
-      "artists": [
-        {
-          "name": "Kaos Et\u00edliko",
-          "url": "https://open.spotify.com/artist/5y9aHzw345UfAGA1Db5BPy"
-        }
-      ],
-      "duration_ms": 177421,
-      "name": "La Buena M\u00fasica",
-      "url": "https://open.spotify.com/track/09Y2rADdCOBtv7N1LBRNTx"
-    },
-    {
-      "added_at": "2026-04-09 22:00:22",
-      "album": {
         "name": "Putos Nazis",
         "url": "https://open.spotify.com/album/5GjkNvM0gCulaXudP2BDZO"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 137963,
       "name": "Putos Nazis",
       "url": "https://open.spotify.com/track/5JG9QWTdBjfjJnXSDRWP1h"
+    },
+    {
+      "added_at": "2026-04-09 22:00:22",
+      "album": {
+        "name": "La Buena M\u00fasica",
+        "url": "https://open.spotify.com/album/4MsDjFy2xpRc7t7Iakglr6"
+      },
+      "artists": [
+        {
+          "name": "Kaos Et\u00edliko",
+          "url": "https://open.spotify.com/artist/5y9aHzw345UfAGA1Db5BPy"
+        }
+      ],
+      "duration_ms": 177421,
+      "name": "La Buena M\u00fasica",
+      "url": "https://open.spotify.com/track/09Y2rADdCOBtv7N1LBRNTx"
     },
     {
       "added_at": "2026-04-09 22:00:22",
@@ -943,6 +943,22 @@
     {
       "added_at": "2026-04-09 22:00:22",
       "album": {
+        "name": "Figurante",
+        "url": "https://open.spotify.com/album/09lLkyUYYdWGTfaDm6qiSt"
+      },
+      "artists": [
+        {
+          "name": "Hijos De Nacho Vidal",
+          "url": "https://open.spotify.com/artist/0C4EXE8J4wocwa1rVzMmVz"
+        }
+      ],
+      "duration_ms": 150701,
+      "name": "Figurante",
+      "url": "https://open.spotify.com/track/2Ond4SI9sIodW3sRZs9Ynm"
+    },
+    {
+      "added_at": "2026-04-09 22:00:22",
+      "album": {
         "name": "Ana Curra y los 13 Ap\u00f3stoles Presentan: La \u00daltima Cena de Par\u00e1lisis Permanente",
         "url": "https://open.spotify.com/album/0COz15FUuwBr02ogUbGdJA"
       },
@@ -963,18 +979,18 @@
     {
       "added_at": "2026-04-09 22:00:22",
       "album": {
-        "name": "Figurante",
-        "url": "https://open.spotify.com/album/09lLkyUYYdWGTfaDm6qiSt"
+        "name": "Ni una Sola Palabra",
+        "url": "https://open.spotify.com/album/3cCGlsL0rcQXpASb4Lqeka"
       },
       "artists": [
         {
-          "name": "Hijos De Nacho Vidal",
-          "url": "https://open.spotify.com/artist/0C4EXE8J4wocwa1rVzMmVz"
+          "name": "Me Fritos and the Gimme Cheetos",
+          "url": "https://open.spotify.com/artist/29Ur1r8tVRPLl6TcppRLkr"
         }
       ],
-      "duration_ms": 150701,
-      "name": "Figurante",
-      "url": "https://open.spotify.com/track/2Ond4SI9sIodW3sRZs9Ynm"
+      "duration_ms": 148000,
+      "name": "Ni una Sola Palabra",
+      "url": "https://open.spotify.com/track/1rDoB0YlZ6V3V9xEoJoRnN"
     },
     {
       "added_at": "2026-04-09 22:00:22",
@@ -991,22 +1007,6 @@
       "duration_ms": 105386,
       "name": "Jubilaci\u00f3n a los 18",
       "url": "https://open.spotify.com/track/3LGK9ODTGbdAkgeD6ZOOp5"
-    },
-    {
-      "added_at": "2026-04-09 22:00:22",
-      "album": {
-        "name": "Ni una Sola Palabra",
-        "url": "https://open.spotify.com/album/3cCGlsL0rcQXpASb4Lqeka"
-      },
-      "artists": [
-        {
-          "name": "Me Fritos and the Gimme Cheetos",
-          "url": "https://open.spotify.com/artist/29Ur1r8tVRPLl6TcppRLkr"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "Ni una Sola Palabra",
-      "url": "https://open.spotify.com/track/1rDoB0YlZ6V3V9xEoJoRnN"
     },
     {
       "added_at": "2026-04-09 22:00:22",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2026-04-09 22:00:22",
       "album": {
+        "name": "Molestar",
+        "url": "https://open.spotify.com/album/1WNGYIGYF0NdeFAZBIAoa8"
+      },
+      "artists": [
+        {
+          "name": "Segismundo Toxic\u00f3mano",
+          "url": "https://open.spotify.com/artist/0sKBEhvr6hz7Wpptw0fY8U"
+        }
+      ],
+      "duration_ms": 158074,
+      "name": "Molestar",
+      "url": "https://open.spotify.com/track/5YH279sUHUCdS8puzhq7ag"
+    },
+    {
+      "added_at": "2026-04-09 22:00:22",
+      "album": {
         "name": "CABE\u00c7A",
         "url": "https://open.spotify.com/album/2sA1DJhkHm3hxPZOcEL1c3"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 182160,
       "name": "CABE\u00c7A",
       "url": "https://open.spotify.com/track/0u5uK4KlYcKuqstlOeBI41"
-    },
-    {
-      "added_at": "2026-04-09 22:00:22",
-      "album": {
-        "name": "Molestar",
-        "url": "https://open.spotify.com/album/1WNGYIGYF0NdeFAZBIAoa8"
-      },
-      "artists": [
-        {
-          "name": "Segismundo Toxic\u00f3mano",
-          "url": "https://open.spotify.com/artist/0sKBEhvr6hz7Wpptw0fY8U"
-        }
-      ],
-      "duration_ms": 158074,
-      "name": "Molestar",
-      "url": "https://open.spotify.com/track/5YH279sUHUCdS8puzhq7ag"
     },
     {
       "added_at": "2026-04-09 22:00:22",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2026-04-09 22:00:22",
       "album": {
-        "name": "Asesinos",
-        "url": "https://open.spotify.com/album/795sm61CeAsygXN9TlRnNc"
-      },
-      "artists": [
-        {
-          "name": "Manifa",
-          "url": "https://open.spotify.com/artist/7ynFnXnaMHYbTeT4JQ97tc"
-        }
-      ],
-      "duration_ms": 176117,
-      "name": "Asesinos",
-      "url": "https://open.spotify.com/track/0CRt6D5Rvprkc7ldCixcSJ"
-    },
-    {
-      "added_at": "2026-04-09 22:00:22",
-      "album": {
         "name": "Borratxos y Orgullosos",
         "url": "https://open.spotify.com/album/5ID6tz1P5QOQlS6z2ht7IE"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 223950,
       "name": "Borratxos y Orgullosos",
       "url": "https://open.spotify.com/track/3pcyr7HKRhEAf6RZ9UFLdc"
+    },
+    {
+      "added_at": "2026-04-09 22:00:22",
+      "album": {
+        "name": "Asesinos",
+        "url": "https://open.spotify.com/album/795sm61CeAsygXN9TlRnNc"
+      },
+      "artists": [
+        {
+          "name": "Manifa",
+          "url": "https://open.spotify.com/artist/7ynFnXnaMHYbTeT4JQ97tc"
+        }
+      ],
+      "duration_ms": 176117,
+      "name": "Asesinos",
+      "url": "https://open.spotify.com/track/0CRt6D5Rvprkc7ldCixcSJ"
     },
     {
       "added_at": "2026-04-09 22:00:22",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2026-04-09 22:00:22",
       "album": {
-        "name": "El Mutante del Barrio Chino",
-        "url": "https://open.spotify.com/album/0IzirXfpxJt753nbjyMV7j"
-      },
-      "artists": [
-        {
-          "name": "El \u00daltimo Ke Zierre",
-          "url": "https://open.spotify.com/artist/0sT70rawlW3M0BbnKdxdJC"
-        }
-      ],
-      "duration_ms": 192946,
-      "name": "Empacho de Orfidal",
-      "url": "https://open.spotify.com/track/6vbkhHC2YifNfPZFgRTmfs"
-    },
-    {
-      "added_at": "2026-04-09 22:00:22",
-      "album": {
         "name": "Pura dinamita",
         "url": "https://open.spotify.com/album/40FbSqsn2UaGp9n58PPZs9"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 236888,
       "name": "Pura dinamita",
       "url": "https://open.spotify.com/track/4HTiRTeezS06D5LkLrNkKC"
+    },
+    {
+      "added_at": "2026-04-09 22:00:22",
+      "album": {
+        "name": "El Mutante del Barrio Chino",
+        "url": "https://open.spotify.com/album/0IzirXfpxJt753nbjyMV7j"
+      },
+      "artists": [
+        {
+          "name": "El \u00daltimo Ke Zierre",
+          "url": "https://open.spotify.com/artist/0sT70rawlW3M0BbnKdxdJC"
+        }
+      ],
+      "duration_ms": 192946,
+      "name": "Empacho de Orfidal",
+      "url": "https://open.spotify.com/track/6vbkhHC2YifNfPZFgRTmfs"
     },
     {
       "added_at": "2026-04-09 22:00:22",

@@ -1,6 +1,6 @@
 {
   "description": "Instrumentals from the North Indian school of music.",
-  "num_followers": 57969,
+  "num_followers": 57977,
   "original_name": "Hindustani Instrumental",
   "owner": {
     "name": "Spotify",
@@ -395,26 +395,6 @@
     {
       "added_at": "2026-04-06 06:56:48",
       "album": {
-        "name": "Synergy",
-        "url": "https://open.spotify.com/album/4SnossBXBAwj2DtVPNH2jt"
-      },
-      "artists": [
-        {
-          "name": "Nayan Ghosh",
-          "url": "https://open.spotify.com/artist/5kk5TShwoM4mlhJWFqGeCF"
-        },
-        {
-          "name": "Ishaan Ghosh",
-          "url": "https://open.spotify.com/artist/6wyqjy0sSEo1nosRslokLL"
-        }
-      ],
-      "duration_ms": 835312,
-      "name": "Komal Rishabh Asavari - Jhaptaal",
-      "url": "https://open.spotify.com/track/3j01dFrZ4yHMlwBwXDbc7d"
-    },
-    {
-      "added_at": "2026-04-06 06:56:48",
-      "album": {
         "name": "Jugalbandi II",
         "url": "https://open.spotify.com/album/5shZ28NNUrgvj8bsSuAo40"
       },
@@ -435,6 +415,26 @@
       "duration_ms": 1309209,
       "name": "Raag Mishra Shirvranjani Taal Deepchandi",
       "url": "https://open.spotify.com/track/1pvvfWnFF3va8LrjbUDx8S"
+    },
+    {
+      "added_at": "2026-04-06 06:56:48",
+      "album": {
+        "name": "Synergy",
+        "url": "https://open.spotify.com/album/4SnossBXBAwj2DtVPNH2jt"
+      },
+      "artists": [
+        {
+          "name": "Nayan Ghosh",
+          "url": "https://open.spotify.com/artist/5kk5TShwoM4mlhJWFqGeCF"
+        },
+        {
+          "name": "Ishaan Ghosh",
+          "url": "https://open.spotify.com/artist/6wyqjy0sSEo1nosRslokLL"
+        }
+      ],
+      "duration_ms": 835312,
+      "name": "Komal Rishabh Asavari - Jhaptaal",
+      "url": "https://open.spotify.com/track/3j01dFrZ4yHMlwBwXDbc7d"
     },
     {
       "added_at": "2026-04-06 06:56:48",
@@ -684,9 +684,9 @@
           "url": "https://open.spotify.com/artist/6wyqjy0sSEo1nosRslokLL"
         }
       ],
-      "duration_ms": 768704,
-      "name": "Bhairavi",
-      "url": "https://open.spotify.com/track/41qRjfa7Lpxs9nN0RdFAfZ"
+      "duration_ms": 1236085,
+      "name": "Tilak Kamod",
+      "url": "https://open.spotify.com/track/1B9Y1TJJYIqtdCZcMXIEv0"
     },
     {
       "added_at": "2026-04-06 06:56:48",
@@ -768,9 +768,9 @@
           "url": "https://open.spotify.com/artist/6wyqjy0sSEo1nosRslokLL"
         }
       ],
-      "duration_ms": 1236085,
-      "name": "Tilak Kamod",
-      "url": "https://open.spotify.com/track/1B9Y1TJJYIqtdCZcMXIEv0"
+      "duration_ms": 768704,
+      "name": "Bhairavi",
+      "url": "https://open.spotify.com/track/41qRjfa7Lpxs9nN0RdFAfZ"
     },
     {
       "added_at": "2026-04-06 06:56:48",

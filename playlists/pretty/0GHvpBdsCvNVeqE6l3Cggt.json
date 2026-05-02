@@ -6,7 +6,7 @@
     "name": "Chris",
     "url": "https://open.spotify.com/user/qd38drw5g9rgll0cnljr34tpg"
   },
-  "snapshot_id": "AAAkMzcaG4MVE+p+3TbjosTIeYBXqQz7",
+  "snapshot_id": "AAAkNOOdJpo/Dem4yx0BBsT038DWu9cT",
   "tracks": [
     {
       "added_at": "2021-03-29 15:46:58",
@@ -747,6 +747,22 @@
       "duration_ms": 140142,
       "name": "Deeper",
       "url": "https://open.spotify.com/track/13qCoS5QuZEbWjfw7C9H5F"
+    },
+    {
+      "added_at": "2026-05-01 07:29:38",
+      "album": {
+        "name": "Belong",
+        "url": "https://open.spotify.com/album/5LZXl2Sjauj5xRcZz2j8Wv"
+      },
+      "artists": [
+        {
+          "name": "HEIGHTS",
+          "url": "https://open.spotify.com/artist/5EdogtWIzqFv45sdk6ePZH"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Belong",
+      "url": "https://open.spotify.com/track/5V1oOuWqO7t0xBT01pmzWa"
     }
   ],
   "unique_name": "Alternative Pop Archive",

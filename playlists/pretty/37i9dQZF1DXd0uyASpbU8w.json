@@ -1,6 +1,6 @@
 {
   "description": "New music from Asake, Kabza De Small, Tyla, Zara Larsson and more.",
-  "num_followers": 176601,
+  "num_followers": 177046,
   "original_name": "New Music Friday South Africa",
   "owner": {
     "name": "Spotify",
@@ -162,10 +162,14 @@
         {
           "name": "Big Zulu",
           "url": "https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A"
+        },
+        {
+          "name": "Boohle",
+          "url": "https://open.spotify.com/artist/6fHE8xZBCxzwer9DIbOmv4"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 4",
+      "duration_ms": 273761,
+      "name": "Bengifisa",
       "url": "https://open.spotify.com/track/3tn0HuHb3wTX0LCCgOFJZP"
     },
     {
@@ -618,10 +622,14 @@
         {
           "name": "Goldmax",
           "url": "https://open.spotify.com/artist/3yWkz47Z8kE6z1xW6rjkAl"
+        },
+        {
+          "name": "Campmasters",
+          "url": "https://open.spotify.com/artist/6b2HMbnP4SmYcpOL19fFmr"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 3",
+      "duration_ms": 285176,
+      "name": "Ping Pong",
       "url": "https://open.spotify.com/track/5Uv914VDC2yiPp0n2JBfX8"
     },
     {
@@ -636,8 +644,8 @@
           "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 1",
+      "duration_ms": 167067,
+      "name": "EASY",
       "url": "https://open.spotify.com/track/0zGx4JuFITnZggFoEWuXUh"
     },
     {
@@ -805,7 +813,7 @@
         },
         {
           "name": "Tiga",
-          "url": "https://open.spotify.com/artist/6dfbRE1slg9q6xXbMiB9Rn"
+          "url": "https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC"
         }
       ],
       "duration_ms": 207272,
@@ -967,6 +975,22 @@
     {
       "added_at": "2026-05-01 01:00:09",
       "album": {
+        "name": "Proud of Me",
+        "url": "https://open.spotify.com/album/1f9GnVMV2y9TrVptBCCXRf"
+      },
+      "artists": [
+        {
+          "name": "Toosii",
+          "url": "https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1"
+        }
+      ],
+      "duration_ms": 162297,
+      "name": "Proud of Me",
+      "url": "https://open.spotify.com/track/5PhvAivtQwcAImv8JPPGg3"
+    },
+    {
+      "added_at": "2026-05-01 01:00:09",
+      "album": {
         "name": "N'ditila",
         "url": "https://open.spotify.com/album/6291QelmQy4owc37wz71qH"
       },
@@ -1024,16 +1048,16 @@
       },
       "artists": [
         {
+          "name": "Jesse Clegg",
+          "url": "https://open.spotify.com/artist/4UDaVZj9eMOfZFEGrcrwqv"
+        },
+        {
           "name": "Sminofu",
           "url": "https://open.spotify.com/artist/7lpGctutZNeN7UKIyEFbPg"
         },
         {
           "name": "Johnny Clegg",
           "url": "https://open.spotify.com/artist/7idPv1alc0mcEhEsKlMV2O"
-        },
-        {
-          "name": "Jesse Clegg",
-          "url": "https://open.spotify.com/artist/4UDaVZj9eMOfZFEGrcrwqv"
         }
       ],
       "duration_ms": 265267,
@@ -1638,10 +1662,14 @@
         {
           "name": "Hildah Watiri",
           "url": "https://open.spotify.com/artist/4XTUHZbb6KmJJKUrdBAKDM"
+        },
+        {
+          "name": "Umzulu Phaqa",
+          "url": "https://open.spotify.com/artist/3HRGnul96WGyVjYPoQZiyo"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 4",
+      "duration_ms": 178529,
+      "name": "Lies",
       "url": "https://open.spotify.com/track/0GsROCn2UWcakhn9qTv1Jx"
     }
   ],

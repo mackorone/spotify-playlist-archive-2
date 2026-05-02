@@ -779,6 +779,28 @@
     },
     {
       "album": {
+        "name": "Amor Bandido V3",
+        "url": "https://open.spotify.com/album/0LD3dOzQxAbzALzdvKCH9a"
+      },
+      "artists": [
+        {
+          "name": "FLVCKKA",
+          "url": "https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN"
+        },
+        {
+          "name": "Jan Glack",
+          "url": "https://open.spotify.com/artist/0Vg3WP6VS3IuKYwvnGsJFh"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166320,
+      "name": "Amor Bandido V3",
+      "url": "https://open.spotify.com/track/2ctz5dNdgBbSRlEHOaFxyf"
+    },
+    {
+      "album": {
         "name": "Eso Si Es De Gangster",
         "url": "https://open.spotify.com/album/5DyoeBkxYOgCrA2TpCvJKL"
       },
@@ -1154,7 +1176,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 159526,
       "name": "bb t\u00fa y yo",
       "url": "https://open.spotify.com/track/4q8FQzcMM3fwS7OrXVfJ4S"
@@ -1788,6 +1810,28 @@
       "duration_ms": 178000,
       "name": "CAPRICORNIO",
       "url": "https://open.spotify.com/track/5MmVblaDHYwGLcYZRtaL7u"
+    },
+    {
+      "album": {
+        "name": "Caro",
+        "url": "https://open.spotify.com/album/2efOpUXtj3svkrZmqsHTpL"
+      },
+      "artists": [
+        {
+          "name": "R$P",
+          "url": "https://open.spotify.com/artist/1Jv5GTCQ7K2llni4ysZHpf"
+        },
+        {
+          "name": "Uroom",
+          "url": "https://open.spotify.com/artist/1QsIAWRazbwQThw4Lmaps8"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Caro",
+      "url": "https://open.spotify.com/track/2hK9U3dHcGi4ogJHGLmnNJ"
     },
     {
       "album": {
@@ -2798,6 +2842,24 @@
       "duration_ms": 120000,
       "name": "Descascan",
       "url": "https://open.spotify.com/track/0PUNUSOwyWyhtcMp7wIkvI"
+    },
+    {
+      "album": {
+        "name": "Desde El 9-7",
+        "url": "https://open.spotify.com/album/4LO4lNQ1lw87FwNSGwoOEz"
+      },
+      "artists": [
+        {
+          "name": "Diablo 868",
+          "url": "https://open.spotify.com/artist/0z5rDk0aERPmeBSyeQEzfC"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252413,
+      "name": "Desde El 9-7",
+      "url": "https://open.spotify.com/track/5tH8zfO70hIaomf8L6BavS"
     },
     {
       "album": {
@@ -4306,7 +4368,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 225000,
       "name": "GATITA",
       "url": "https://open.spotify.com/track/75mgySqwE7mrX2YlVISaPs"
@@ -5124,7 +5186,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 125142,
       "name": "Kidsuper",
       "url": "https://open.spotify.com/track/2uI5MxLcyasZ9jjlZPRYXy"
@@ -5328,6 +5390,24 @@
       "duration_ms": 155675,
       "name": "La Gama",
       "url": "https://open.spotify.com/track/4P11mDVAgbUrG60DLeiciD"
+    },
+    {
+      "album": {
+        "name": "La Mera V",
+        "url": "https://open.spotify.com/album/6d0utnIPthhFGScqH5k6hN"
+      },
+      "artists": [
+        {
+          "name": "Momor\u00e1n",
+          "url": "https://open.spotify.com/artist/3spQy19QaH019mVXKyPWUT"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154371,
+      "name": "La Mera V",
+      "url": "https://open.spotify.com/track/6AJyzxlhjxt2WeLSFwM67X"
     },
     {
       "album": {
@@ -6472,7 +6552,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 165298,
       "name": "MITOTE",
       "url": "https://open.spotify.com/track/0hE7e0EJMAWgC2KHVqD1Yk"
@@ -7256,7 +7336,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 204999,
       "name": "Noches de Aventura",
       "url": "https://open.spotify.com/track/08wKL8RtPBGBkYaR0CmNKh"
@@ -7496,6 +7576,28 @@
       "duration_ms": 179250,
       "name": "Ola Como Estas? - Remix",
       "url": "https://open.spotify.com/track/3VuEmalCwS7P897bgbx8AK"
+    },
+    {
+      "album": {
+        "name": "Ugly Boyz Club Vol. 1",
+        "url": "https://open.spotify.com/album/5UTLQSQRKQ2wMJmfvFwKux"
+      },
+      "artists": [
+        {
+          "name": "Mecsa Sosa",
+          "url": "https://open.spotify.com/artist/5x9iG7pyWDCNFgfKsxKZRv"
+        },
+        {
+          "name": "Zeta Uno",
+          "url": "https://open.spotify.com/artist/1GybYOecaoK4DX6WdgtQf0"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131223,
+      "name": "Ora Ke",
+      "url": "https://open.spotify.com/track/2CEPvHmxMRywoifRxtxPgo"
     },
     {
       "album": {
@@ -8949,6 +9051,28 @@
     },
     {
       "album": {
+        "name": "Run Run",
+        "url": "https://open.spotify.com/album/0LBBvzX5izZrd749LYrY1o"
+      },
+      "artists": [
+        {
+          "name": "$leepyM4G",
+          "url": "https://open.spotify.com/artist/3Tgpra4a2ymuVpOM5IQkZ1"
+        },
+        {
+          "name": "Uroom",
+          "url": "https://open.spotify.com/artist/1QsIAWRazbwQThw4Lmaps8"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120050,
+      "name": "Run Run",
+      "url": "https://open.spotify.com/track/7wYBKIivlR9ZGGKuSSLDKi"
+    },
+    {
+      "album": {
         "name": "Run run",
         "url": "https://open.spotify.com/album/107ErCZ7a5OTfZoJTwmNgS"
       },
@@ -9850,7 +9974,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 154289,
       "name": "Tirando Flow Session #25",
       "url": "https://open.spotify.com/track/2nz7hsaBqxtDRBduNk7mep"

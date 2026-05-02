@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Songs that are 100% written, produced, and performed by Women! Co-Curated this month by:  <a href=\"spotify:playlist:37i9dQZF1EFxFD4d1Adk5m\">Maegan Cottone</a> ",
+  "description": "Songs that are 100% written, produced, and performed by Women! Co-Curated this month by:  <a href=\"spotify:playlist:37i9dQZF1EFO7Uzjunmbbs\">Emily Weisband</a> ",
   "name": "Created by Women",
   "tracks": [
     {
@@ -6145,6 +6145,28 @@
     },
     {
       "album": {
+        "name": "The Women of Cheatham County",
+        "url": "https://open.spotify.com/album/1kRhe9DcLYQFBOhRZpI4Zm"
+      },
+      "artists": [
+        {
+          "name": "Summer Overstreet",
+          "url": "https://open.spotify.com/artist/73z6hYt1jsBWSbm2irWqlz"
+        },
+        {
+          "name": "Savana Santos",
+          "url": "https://open.spotify.com/artist/4319F2mBye7whEKPHX8pSm"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211666,
+      "name": "Good Little Industry Girl",
+      "url": "https://open.spotify.com/track/6P5hi8WoUP9mjrYgJAZrir"
+    },
+    {
+      "album": {
         "name": "Good Mourning",
         "url": "https://open.spotify.com/album/3r0Jf1SNCTIAEVPBkriBz0"
       },
@@ -6502,7 +6524,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 215338,
       "name": "Headlock",
       "url": "https://open.spotify.com/track/63Pi2NAx5yCgeLhCTOrEou"
@@ -6632,7 +6654,7 @@
       ],
       "date_added": "2025-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-08",
+      "date_removed": null,
       "duration_ms": 268488,
       "name": "Hide and Seek",
       "url": "https://open.spotify.com/track/2tej1KSqNuxwywIpY1rDRc"
@@ -6848,7 +6870,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 199733,
       "name": "Holding On",
       "url": "https://open.spotify.com/track/4RjwMyr4D2W4py79Heop9l"
@@ -7774,6 +7796,24 @@
       "duration_ms": 239706,
       "name": "I Should Be a Bird",
       "url": "https://open.spotify.com/track/0ZRZeLNAKPHBwkalUqW1xz"
+    },
+    {
+      "album": {
+        "name": "Mount Pleasant",
+        "url": "https://open.spotify.com/album/1yaXyTC6w78QNjlYURpqEa"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130053,
+      "name": "I Sit In Parks",
+      "url": "https://open.spotify.com/track/7fOUziomHCNuN5PmAHgLsm"
     },
     {
       "album": {
@@ -13830,7 +13870,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 172317,
       "name": "SERiAL KiLLER",
       "url": "https://open.spotify.com/track/5hAKpqv7L2bhzzQr4XDN6z"
@@ -15562,7 +15602,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 286004,
       "name": "The Right One",
       "url": "https://open.spotify.com/track/4v36nWrqRSwPlCQgQsb7Wx"
@@ -16282,6 +16322,24 @@
       "duration_ms": 189750,
       "name": "Tuluz",
       "url": "https://open.spotify.com/track/7DMZkhNsMnkLzgo0dZ6xE9"
+    },
+    {
+      "album": {
+        "name": "Turns Out I'm Amazing",
+        "url": "https://open.spotify.com/album/641tMgvBwVOhW7HzaisxHS"
+      },
+      "artists": [
+        {
+          "name": "Carol Ades",
+          "url": "https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207336,
+      "name": "Turns Out I'm Amazing",
+      "url": "https://open.spotify.com/track/362gyXf96N1s6Zir6oM6vM"
     },
     {
       "album": {

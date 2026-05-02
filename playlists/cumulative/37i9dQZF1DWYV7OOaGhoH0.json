@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best in folk & acoustic today featuring music from Gia Margaret",
+  "description": "The best in folk & acoustic today featuring music from Noah Kahan",
   "name": "Roots Rising",
   "tracks": [
     {
@@ -8831,6 +8831,24 @@
     },
     {
       "album": {
+        "name": "Wendy Eisenberg",
+        "url": "https://open.spotify.com/album/461pbwQf3k7oOQ43DZjzf5"
+      },
+      "artists": [
+        {
+          "name": "Wendy Eisenberg",
+          "url": "https://open.spotify.com/artist/7HrVZurdKyYpQamwyD1gBi"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258537,
+      "name": "Meaning Business",
+      "url": "https://open.spotify.com/track/7b8Q7CPNLqnsHj8jwJKQ2x"
+    },
+    {
+      "album": {
         "name": "Mecca",
         "url": "https://open.spotify.com/album/0diLOQUXoO0jIWMmC4S4KV"
       },
@@ -10098,6 +10116,24 @@
       "duration_ms": 329980,
       "name": "One Day Will Be All I Have",
       "url": "https://open.spotify.com/track/6s8PTCV47fqb6RSFgkMTLy"
+    },
+    {
+      "album": {
+        "name": "One More Cowboy",
+        "url": "https://open.spotify.com/album/7d9wSGVYv5r8c8z5yv74zc"
+      },
+      "artists": [
+        {
+          "name": "Jensen McRae",
+          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219973,
+      "name": "One More Cowboy",
+      "url": "https://open.spotify.com/track/1qzPQtya0Pb4IoQyYhzj2n"
     },
     {
       "album": {

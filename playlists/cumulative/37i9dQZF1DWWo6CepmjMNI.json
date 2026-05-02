@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e43\u0e2b\u0e21\u0e48\u0e41\u0e25\u0e30\u0e14\u0e35\u0e17\u0e35\u0e48\u0e2d\u0e22\u0e32\u0e01\u0e41\u0e19\u0e30\u0e19\u0e33. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: The Publish",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e43\u0e2b\u0e21\u0e48\u0e41\u0e25\u0e30\u0e14\u0e35\u0e17\u0e35\u0e48\u0e2d\u0e22\u0e32\u0e01\u0e41\u0e19\u0e30\u0e19\u0e33. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: SOBBOY",
   "name": "\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49 \u0e40\u0e17\u0e2a\u0e14\u0e35 Indie Tasty",
   "tracks": [
     {
@@ -338,7 +338,7 @@
       ],
       "date_added": "2025-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 282583,
       "name": "Greed",
       "url": "https://open.spotify.com/track/5kD32fiZ5b6HiQOQDkM9wf"
@@ -946,6 +946,24 @@
       "duration_ms": 220799,
       "name": "Summer",
       "url": "https://open.spotify.com/track/3xiQdmur1QcU1ZV52A0QTc"
+    },
+    {
+      "album": {
+        "name": "Summer sui",
+        "url": "https://open.spotify.com/album/1uVYT0anDaVkfYAuvM5qn1"
+      },
+      "artists": [
+        {
+          "name": "PLASUI PLASUI",
+          "url": "https://open.spotify.com/artist/5sL9SQbnub24DHQ2gITtEX"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372000,
+      "name": "Summer sui",
+      "url": "https://open.spotify.com/track/5xJcNCTFrBYAtvbBmAErws"
     },
     {
       "album": {
@@ -1590,7 +1608,7 @@
       ],
       "date_added": "2026-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 219718,
       "name": "\u0e04\u0e19\u0e40\u0e2b\u0e47\u0e19\u0e41\u0e01\u0e48\u0e15\u0e31\u0e27 (DOPE)",
       "url": "https://open.spotify.com/track/2iSIPjNJqQHbPBqVU9seP9"
@@ -1979,6 +1997,24 @@
     },
     {
       "album": {
+        "name": "\u0e08\u0e34\u0e19\u0e15\u0e19\u0e32",
+        "url": "https://open.spotify.com/album/7uLjWHE8zBSFuWv74BgoEl"
+      },
+      "artists": [
+        {
+          "name": "SOBBOY",
+          "url": "https://open.spotify.com/artist/2GUEPge6Xp2rqQgsfKhbkj"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201176,
+      "name": "\u0e08\u0e34\u0e19\u0e15\u0e19\u0e32",
+      "url": "https://open.spotify.com/track/1rF2kZAft86ltiycfqR2mr"
+    },
+    {
+      "album": {
         "name": "\u0e09\u0e31\u0e19\u0e04\u0e07\u0e40\u0e01\u0e25\u0e35\u0e22\u0e14\u0e14\u0e32\u0e27\u0e17\u0e35\u0e48\u0e40\u0e2d\u0e32\u0e40\u0e18\u0e2d\u0e44\u0e1b",
         "url": "https://open.spotify.com/album/3zoG07vJeEHMowMwUiK6eZ"
       },
@@ -2170,7 +2206,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 264995,
       "name": "\u0e14\u0e32\u0e27\u0e19\u0e33\u0e17\u0e32\u0e07 (Quiet Night)",
       "url": "https://open.spotify.com/track/2DO84xSr9XGDGAIwWbHCnd"
@@ -3118,6 +3154,24 @@
       "duration_ms": 325890,
       "name": "\u0e1d\u0e31\u0e19\u0e44\u0e1b",
       "url": "https://open.spotify.com/track/2VP1vuiq8XKnOVyiwctD7h"
+    },
+    {
+      "album": {
+        "name": "\u0e1e\u0e1a\u0e01\u0e31\u0e19 (Other Side)",
+        "url": "https://open.spotify.com/album/78XqnXjci1RJ8VikYAnPce"
+      },
+      "artists": [
+        {
+          "name": "whimp",
+          "url": "https://open.spotify.com/artist/6dt1IwUXvGH1NvA7C1K8cG"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247621,
+      "name": "\u0e1e\u0e1a\u0e01\u0e31\u0e19 - Other Side",
+      "url": "https://open.spotify.com/track/0mHEr0RxeC51sigzX0bUDP"
     },
     {
       "album": {
@@ -4167,6 +4221,24 @@
     },
     {
       "album": {
+        "name": "\u0e2a\u0e38\u0e14\u0e17\u0e49\u0e32\u0e22\u0e1b\u0e25\u0e32\u0e22\u0e17\u0e32\u0e07",
+        "url": "https://open.spotify.com/album/6Dg2N2TbeR35swCnHr0rRd"
+      },
+      "artists": [
+        {
+          "name": "Cheyada",
+          "url": "https://open.spotify.com/artist/2Stl1HvZpyNM5qnCI5O87G"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193082,
+      "name": "\u0e2a\u0e38\u0e14\u0e17\u0e49\u0e32\u0e22\u0e1b\u0e25\u0e32\u0e22\u0e17\u0e32\u0e07",
+      "url": "https://open.spotify.com/track/74w5x0i1kMIlVDv1D4puQE"
+    },
+    {
+      "album": {
         "name": "\u0e2b\u0e19\u0e35 (run again)",
         "url": "https://open.spotify.com/album/1EwGe8ID4l7iEG95HPwCCG"
       },
@@ -4362,6 +4434,24 @@
       "duration_ms": 301333,
       "name": "\u0e2b\u0e32\u0e01\u0e04\u0e33\u0e19\u0e27\u0e13\u0e04\u0e27\u0e32\u0e21\u0e19\u0e48\u0e32\u0e08\u0e30\u0e40\u0e1b\u0e47\u0e19 \u0e04\u0e07\u0e44\u0e14\u0e49\u0e41\u0e04\u0e48 0 \u0e40\u0e1b\u0e2d\u0e23\u0e4c\u0e40\u0e0b\u0e47\u0e19\u0e40\u0e17\u0e48\u0e32\u0e19\u0e31\u0e49\u0e19",
       "url": "https://open.spotify.com/track/0jivjpX81Baork8Sc1qXMr"
+    },
+    {
+      "album": {
+        "name": "\u0e2b\u0e32\u0e01\u0e40\u0e18\u0e2d\u0e08\u0e30\u0e22\u0e2d\u0e21\u0e23\u0e31\u0e1a\u0e21\u0e31\u0e19 (YOURS)",
+        "url": "https://open.spotify.com/album/6vRogRMbe9A090xSSACu9s"
+      },
+      "artists": [
+        {
+          "name": "Varis",
+          "url": "https://open.spotify.com/artist/53DTvTbpR2jK1KUrR13431"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258888,
+      "name": "\u0e2b\u0e32\u0e01\u0e40\u0e18\u0e2d\u0e08\u0e30\u0e22\u0e2d\u0e21\u0e23\u0e31\u0e1a\u0e21\u0e31\u0e19 (YOURS)",
+      "url": "https://open.spotify.com/track/3jLrDEEe2JdqTiikceqhGi"
     },
     {
       "album": {
@@ -4970,7 +5060,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 276000,
       "name": "\u0e40\u0e1b\u0e47\u0e19\u0e40\u0e1e\u0e23\u0e32\u0e30 (Sorrow)",
       "url": "https://open.spotify.com/track/6CVFCsrnNIuoEz8bMMSY1r"
@@ -6008,7 +6098,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 422375,
       "name": "\u0e44\u0e23\u0e49\u0e0b\u0e36\u0e48\u0e07\u0e2a\u0e34\u0e48\u0e07\u0e43\u0e14 \u0e43\u0e2b\u0e49\u0e08\u0e14\u0e08\u0e33 (Injured)",
       "url": "https://open.spotify.com/track/4EE9RLGDSwAZbPkU2hfckb"

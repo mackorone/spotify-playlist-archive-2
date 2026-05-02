@@ -48085,6 +48085,28 @@
     },
     {
       "album": {
+        "name": "Resenha de Crente (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3IpmIOGxz8vsjsuNhVNYQk"
+      },
+      "artists": [
+        {
+          "name": "Marcados Pagode Gospel",
+          "url": "https://open.spotify.com/artist/1cyFEihCjqmV3ymkewYSAK"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248897,
+      "name": "Porque Ele Vive - Ao Vivo",
+      "url": "https://open.spotify.com/track/1CfUw1RCMxj7V1vhLG9gyD"
+    },
+    {
+      "album": {
         "name": "Ao Vivo em S\u00e3o Paulo",
         "url": "https://open.spotify.com/album/6ZzhQCv8baiF4NWMqQM6zy"
       },
@@ -61572,24 +61594,6 @@
       "duration_ms": 206786,
       "name": "Trabalho Duro - Deluxe",
       "url": "https://open.spotify.com/track/4GmyRRbamtB2G39PK7jhk7"
-    },
-    {
-      "album": {
-        "name": "Resenha de Crente (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3IpmIOGxz8vsjsuNhVNYQk"
-      },
-      "artists": [
-        {
-          "name": "Marcados Pagode Gospel",
-          "url": "https://open.spotify.com/artist/1cyFEihCjqmV3ymkewYSAK"
-        }
-      ],
-      "date_added": "2026-05-01",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/1CfUw1RCMxj7V1vhLG9gyD"
     },
     {
       "album": {

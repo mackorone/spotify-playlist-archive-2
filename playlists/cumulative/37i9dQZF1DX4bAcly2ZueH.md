@@ -4,7 +4,7 @@
 
 > 例えば、部屋で猫と昼寝をするように、ゆったりとしたエレクトロチルで小休憩しませんか？？
 
-206 songs - 10 hr 44 min
+207 songs - 10 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Blue Moon](https://open.spotify.com/track/4TMDacsp7J4oQfZHNSY22V) | [Alex Lustig](https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB), [Akacia](https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5) | [Dreamwave](https://open.spotify.com/album/1McCmCfd1TPUq5iWBUqZxb) | 2:25 | 2022-10-11 |  |
 | [Blue Notes](https://open.spotify.com/track/6tzQ5fqJVqEnw36qwdliJs) | [Sol Rising](https://open.spotify.com/artist/1BdgyHJZID1ceLLg31KyAv), [Max Ribner](https://open.spotify.com/artist/3JI64aAbPeMcRPJOYHR1fY) | [Blue Notes](https://open.spotify.com/album/7v1n7XIcKDaYLFOTZwyNVf) | 3:18 | 2022-10-11 |  |
 | [Boardwalk](https://open.spotify.com/track/1zmVh7dWFDF5SLgRhGEzzI) | [Animal Collective](https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj) | [Jetty \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1Ia7tMgfKYEGdYi7yWpHfD) | 1:09 | 2025-11-19 |  |
+| [Bossy Nova](https://open.spotify.com/track/6Ol78Z5mqB1bIcNmfqupIn) | [Gabrielle Cavassa](https://open.spotify.com/artist/6V9mKint0pfZjIbeFF9vQk) | [Diavola](https://open.spotify.com/album/4lQriMCxFMyor9TIJlvOxU) | 3:52 | 2026-04-30 |  |
 | [Breezy](https://open.spotify.com/track/6SIm7CDSu8rzx0TajGOJXx) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF) | [Connection](https://open.spotify.com/album/3iFigjuA451SneLjONrGiK) | 1:42 | 2024-09-25 |  |
 | [C.itosakura f.ascendens \- synfilums rework](https://open.spotify.com/track/7gRHZIYvTLIRqVWRbjinjr) | [synfilums](https://open.spotify.com/artist/5YQHHzgCxtQyfGzmrlfHgi) | [C.itosakura f.ascendens \(synfilums rework\)](https://open.spotify.com/album/1DXkYyB68FntNvBlqZPHDu) | 2:11 | 2025-09-18 |  |
 | [Calm Current](https://open.spotify.com/track/6TndWcfnrvsSoBHKLrDxFE) | [Watasino](https://open.spotify.com/artist/4gblEuW5hn0GK6ZkrcquRw), [Lonely Girl](https://open.spotify.com/artist/0oNkYl0JGIr9hFJHQlakdw) | [Calm Current](https://open.spotify.com/album/3E2EJAj5HQGlk1CebBOyFR) | 2:57 | 2025-04-02 |  |
@@ -62,7 +63,7 @@
 | [Fade \(feat\. Rachel Lim\)](https://open.spotify.com/track/5P9fLyX3VPJm3VOr50RObx) | [JIDA](https://open.spotify.com/artist/0Yr4WTbWPoSarkxhU1eS5b), [Rachel Lim](https://open.spotify.com/artist/4LY4Kd3wNEZxMwZygueoqc) | [FADE AWAY \(feat\. Rachel Lim\)](https://open.spotify.com/album/53MPVjP9shFQ43mrBekika) | 3:33 | 2022-10-11 | 2024-04-19 |
 | [falling asleep.](https://open.spotify.com/track/0X88c8pOrPZhuwBYe1lgWl) | [アツムワンダフル](https://open.spotify.com/artist/5bSP4BWuxMm8IaUdgLg1qW), [一服track](https://open.spotify.com/artist/0C2tFTcfwbzUujsItAj7Ed) | [falling asleep.](https://open.spotify.com/album/4tKFwi75AtxxN1EaGC87gK) | 3:14 | 2025-07-16 |  |
 | [Fantastic](https://open.spotify.com/track/28tdrDdSAkaQdf0EP7UAX6) | [Oowets](https://open.spotify.com/artist/69Sz50VcHwDhkDqqYawJDo) | [Fantastic](https://open.spotify.com/album/0wbQoBc4b2zu8dCHnl9ou0) | 3:15 | 2024-12-19 |  |
-| [Flowers](https://open.spotify.com/track/5DZQlseBlIL18VLqFklHLC) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3) | [Flowers](https://open.spotify.com/album/5YFn9uTuVwi7jvsXaMkYVM) | 3:02 | 2024-03-05 |  |
+| [Flowers](https://open.spotify.com/track/5DZQlseBlIL18VLqFklHLC) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3) | [Flowers](https://open.spotify.com/album/5YFn9uTuVwi7jvsXaMkYVM) | 3:02 | 2024-03-05 | 2026-05-02 |
 | [Flowers](https://open.spotify.com/track/6pYLdl855Ul8ckKKWzCrig) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3) | [Flowers](https://open.spotify.com/album/3OJMNgLFpxJLgTPw3YmNTx) | 3:02 | 2022-10-11 | 2024-04-19 |
 | [fresh](https://open.spotify.com/track/4j4zVQJTlAiyUgrHeWSEHm) | [sukima](https://open.spotify.com/artist/14UDG7R7vy6OLbND3Va4Rc) | [fresh](https://open.spotify.com/album/1jPDEpX44oh4LSGLGq7Ba6) | 4:23 | 2023-09-26 |  |
 | [Frontin' Me](https://open.spotify.com/track/6HwA2kWbv4EAZPs8iLNJgP) | [Harry Nathan](https://open.spotify.com/artist/2Sr0UVpJdu6joEkH10koQ9) | [Frontin' Me](https://open.spotify.com/album/02yLoxWto2ItmAvBHg8ACV) | 3:29 | 2024-03-05 | 2025-07-16 |

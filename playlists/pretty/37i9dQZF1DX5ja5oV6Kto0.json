@@ -1,6 +1,6 @@
 {
   "description": "The new wave of alternative, genre-bending and creative afro-fusion music. Cover: Siraheem",
-  "num_followers": 111503,
+  "num_followers": 111511,
   "original_name": "Alt\u00e9 Cruise",
   "owner": {
     "name": "Spotify",
@@ -395,6 +395,22 @@
     {
       "added_at": "2026-05-01 00:01:40",
       "album": {
+        "name": "OLORIN PACK",
+        "url": "https://open.spotify.com/album/4sWFA2NbXUPfbvuK3rjtiQ"
+      },
+      "artists": [
+        {
+          "name": "scottyolorin",
+          "url": "https://open.spotify.com/artist/3CyKLwlqtYmQxNt4cWflKx"
+        }
+      ],
+      "duration_ms": 114461,
+      "name": "DEELA",
+      "url": "https://open.spotify.com/track/5rsXxjz8FQ1SZMjj7QZiYG"
+    },
+    {
+      "added_at": "2026-05-01 00:01:40",
+      "album": {
         "name": "Caterpillar",
         "url": "https://open.spotify.com/album/5fuqTYBeqn9qfQvOcIzO7h"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 140011,
       "name": "Caterpillar",
       "url": "https://open.spotify.com/track/0UYnnfZV0qVoYspA88nYSi"
-    },
-    {
-      "added_at": "2026-05-01 00:01:40",
-      "album": {
-        "name": "OLORIN PACK",
-        "url": "https://open.spotify.com/album/4sWFA2NbXUPfbvuK3rjtiQ"
-      },
-      "artists": [
-        {
-          "name": "scottyolorin",
-          "url": "https://open.spotify.com/artist/3CyKLwlqtYmQxNt4cWflKx"
-        }
-      ],
-      "duration_ms": 114461,
-      "name": "DEELA",
-      "url": "https://open.spotify.com/track/5rsXxjz8FQ1SZMjj7QZiYG"
     },
     {
       "added_at": "2026-05-01 00:01:40",
@@ -487,22 +487,6 @@
     {
       "added_at": "2026-05-01 00:01:40",
       "album": {
-        "name": "PRETTY WOMAN (WICKED)",
-        "url": "https://open.spotify.com/album/34G6OJqIpUFe3aU1SjD3xj"
-      },
-      "artists": [
-        {
-          "name": "THEHONESTGUY",
-          "url": "https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt"
-        }
-      ],
-      "duration_ms": 199487,
-      "name": "PRETTY WOMAN (WICKED)",
-      "url": "https://open.spotify.com/track/747fcCBqT47Mx2V40WFQOd"
-    },
-    {
-      "added_at": "2026-05-01 00:01:40",
-      "album": {
         "name": "OLORIN PACK",
         "url": "https://open.spotify.com/album/4sWFA2NbXUPfbvuK3rjtiQ"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 113776,
       "name": "TRABAYE",
       "url": "https://open.spotify.com/track/3w3oJEFGDUDHQ0tM6M5SWS"
+    },
+    {
+      "added_at": "2026-05-01 00:01:40",
+      "album": {
+        "name": "PRETTY WOMAN (WICKED)",
+        "url": "https://open.spotify.com/album/34G6OJqIpUFe3aU1SjD3xj"
+      },
+      "artists": [
+        {
+          "name": "THEHONESTGUY",
+          "url": "https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt"
+        }
+      ],
+      "duration_ms": 199487,
+      "name": "PRETTY WOMAN (WICKED)",
+      "url": "https://open.spotify.com/track/747fcCBqT47Mx2V40WFQOd"
     },
     {
       "added_at": "2026-05-01 00:01:40",
@@ -595,6 +595,26 @@
     {
       "added_at": "2026-05-01 00:01:40",
       "album": {
+        "name": "Modern Fantasy",
+        "url": "https://open.spotify.com/album/0GAEfooM5nj6r9JoHW3ERy"
+      },
+      "artists": [
+        {
+          "name": "Sut\u00e9 Iwar",
+          "url": "https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu"
+        },
+        {
+          "name": "Raytheboffin",
+          "url": "https://open.spotify.com/artist/0Z7d6NoIt6baFGelxJyy1r"
+        }
+      ],
+      "duration_ms": 212903,
+      "name": "Modern man",
+      "url": "https://open.spotify.com/track/15aVkIio1Y8GHcSubtql0y"
+    },
+    {
+      "added_at": "2026-05-01 00:01:40",
+      "album": {
         "name": "LUCKY UU",
         "url": "https://open.spotify.com/album/7jyadlhqz4EylDsyD77vwx"
       },
@@ -655,26 +675,6 @@
       "duration_ms": 171205,
       "name": "Sex on the Beach",
       "url": "https://open.spotify.com/track/1Sf8Ze5NuNkqbO8QtkpFzd"
-    },
-    {
-      "added_at": "2026-05-01 00:01:40",
-      "album": {
-        "name": "Modern Fantasy",
-        "url": "https://open.spotify.com/album/0GAEfooM5nj6r9JoHW3ERy"
-      },
-      "artists": [
-        {
-          "name": "Sut\u00e9 Iwar",
-          "url": "https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu"
-        },
-        {
-          "name": "Raytheboffin",
-          "url": "https://open.spotify.com/artist/0Z7d6NoIt6baFGelxJyy1r"
-        }
-      ],
-      "duration_ms": 212903,
-      "name": "Modern man",
-      "url": "https://open.spotify.com/track/15aVkIio1Y8GHcSubtql0y"
     },
     {
       "added_at": "2026-05-01 00:01:40",
@@ -807,22 +807,6 @@
     {
       "added_at": "2026-05-01 00:01:40",
       "album": {
-        "name": "MOSQUITOES",
-        "url": "https://open.spotify.com/album/7CudWV8gnBMZx9v3wfDjnS"
-      },
-      "artists": [
-        {
-          "name": "Amanya",
-          "url": "https://open.spotify.com/artist/3aCNLoqUdxHi5ZXSmlOsHh"
-        }
-      ],
-      "duration_ms": 107368,
-      "name": "MOSQUITOES",
-      "url": "https://open.spotify.com/track/2FIlgyfaaE6jL3o19pB1V0"
-    },
-    {
-      "added_at": "2026-05-01 00:01:40",
-      "album": {
         "name": "UPGRADE",
         "url": "https://open.spotify.com/album/71h63m5gl6FlM1dSba1sXv"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 148397,
       "name": "UPGRADE",
       "url": "https://open.spotify.com/track/6H2VwCcdNHRZIvmvUVb6aQ"
+    },
+    {
+      "added_at": "2026-05-01 00:01:40",
+      "album": {
+        "name": "MOSQUITOES",
+        "url": "https://open.spotify.com/album/7CudWV8gnBMZx9v3wfDjnS"
+      },
+      "artists": [
+        {
+          "name": "Amanya",
+          "url": "https://open.spotify.com/artist/3aCNLoqUdxHi5ZXSmlOsHh"
+        }
+      ],
+      "duration_ms": 107368,
+      "name": "MOSQUITOES",
+      "url": "https://open.spotify.com/track/2FIlgyfaaE6jL3o19pB1V0"
     },
     {
       "added_at": "2026-05-01 00:01:40",
@@ -1067,6 +1067,30 @@
     {
       "added_at": "2026-05-01 00:01:40",
       "album": {
+        "name": "Pasta",
+        "url": "https://open.spotify.com/album/7FXNVVtmIMGcqCyhOq67Ro"
+      },
+      "artists": [
+        {
+          "name": "Mamuzo",
+          "url": "https://open.spotify.com/artist/1igmgiNroMhNQQx9Rp4uoI"
+        },
+        {
+          "name": "scottyolorin",
+          "url": "https://open.spotify.com/artist/3CyKLwlqtYmQxNt4cWflKx"
+        },
+        {
+          "name": "Blaqdee",
+          "url": "https://open.spotify.com/artist/1ngLIjM1swqQ0EbSSZvusX"
+        }
+      ],
+      "duration_ms": 151052,
+      "name": "Pasta",
+      "url": "https://open.spotify.com/track/3viqMJokehxGl9bfvwRRaC"
+    },
+    {
+      "added_at": "2026-05-01 00:01:40",
+      "album": {
         "name": "DUA PA",
         "url": "https://open.spotify.com/album/1kNArpDMACRIn6AcsfE4Or"
       },
@@ -1131,30 +1155,6 @@
       "duration_ms": 202500,
       "name": "STYLO",
       "url": "https://open.spotify.com/track/3IAPorNgZ8uAr7pfmMYfZO"
-    },
-    {
-      "added_at": "2026-05-01 00:01:40",
-      "album": {
-        "name": "Pasta",
-        "url": "https://open.spotify.com/album/7FXNVVtmIMGcqCyhOq67Ro"
-      },
-      "artists": [
-        {
-          "name": "Mamuzo",
-          "url": "https://open.spotify.com/artist/1igmgiNroMhNQQx9Rp4uoI"
-        },
-        {
-          "name": "scottyolorin",
-          "url": "https://open.spotify.com/artist/3CyKLwlqtYmQxNt4cWflKx"
-        },
-        {
-          "name": "Blaqdee",
-          "url": "https://open.spotify.com/artist/1ngLIjM1swqQ0EbSSZvusX"
-        }
-      ],
-      "duration_ms": 151052,
-      "name": "Pasta",
-      "url": "https://open.spotify.com/track/3viqMJokehxGl9bfvwRRaC"
     },
     {
       "added_at": "2026-05-01 00:01:40",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2026-05-01 00:01:40",
       "album": {
+        "name": "Candies",
+        "url": "https://open.spotify.com/album/2rgFM5NLjLSEbp4CjUUFzR"
+      },
+      "artists": [
+        {
+          "name": "Sante SVM",
+          "url": "https://open.spotify.com/artist/7azRGJNhemWWnc0pN4Q0w1"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Candies",
+      "url": "https://open.spotify.com/track/4PgMQUAzazUkjLu8QwujNG"
+    },
+    {
+      "added_at": "2026-05-01 00:01:40",
+      "album": {
         "name": "Real One",
         "url": "https://open.spotify.com/album/7351sYtk4c8YGx2ZZRC0MW"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 170680,
       "name": "Real One",
       "url": "https://open.spotify.com/track/2YpJDMZrgfqUFNOn9ocJHe"
-    },
-    {
-      "added_at": "2026-05-01 00:01:40",
-      "album": {
-        "name": "Candies",
-        "url": "https://open.spotify.com/album/2rgFM5NLjLSEbp4CjUUFzR"
-      },
-      "artists": [
-        {
-          "name": "Sante SVM",
-          "url": "https://open.spotify.com/artist/7azRGJNhemWWnc0pN4Q0w1"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Candies",
-      "url": "https://open.spotify.com/track/4PgMQUAzazUkjLu8QwujNG"
     },
     {
       "added_at": "2026-05-01 00:01:40",
@@ -1367,6 +1367,22 @@
       "duration_ms": 128494,
       "name": "Supreme Dee",
       "url": "https://open.spotify.com/track/4JEkyWx4exs9TAmeV4e06P"
+    },
+    {
+      "added_at": "2026-05-01 00:01:40",
+      "album": {
+        "name": "Honey, I Love You",
+        "url": "https://open.spotify.com/album/0a9wo8ZZsUCy4XoeDEAs69"
+      },
+      "artists": [
+        {
+          "name": "Anendlessocean",
+          "url": "https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau"
+        }
+      ],
+      "duration_ms": 238026,
+      "name": "Honey, I Love You",
+      "url": "https://open.spotify.com/track/46qrlJPMBoYpdBxZmneY3z"
     },
     {
       "added_at": "2026-05-01 00:01:40",
@@ -1439,6 +1455,22 @@
     {
       "added_at": "2026-05-01 00:01:40",
       "album": {
+        "name": "infrunayou",
+        "url": "https://open.spotify.com/album/4xQp8J3Yzvu13vTsQEJ9Yf"
+      },
+      "artists": [
+        {
+          "name": "Baves O",
+          "url": "https://open.spotify.com/artist/42tS8RFwfqTZFuyW0FrPIs"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "infrunayou",
+      "url": "https://open.spotify.com/track/13nDtpeYtIelDBrniTD7Z3"
+    },
+    {
+      "added_at": "2026-05-01 00:01:40",
+      "album": {
         "name": "It Ends With Me",
         "url": "https://open.spotify.com/album/5pvCQS2zCKjSWXDVIzDuBw"
       },
@@ -1451,58 +1483,6 @@
       "duration_ms": 168408,
       "name": "It ends with me",
       "url": "https://open.spotify.com/track/6B1WlH8M9hkQy3DjO8NboN"
-    },
-    {
-      "added_at": "2026-05-01 00:01:40",
-      "album": {
-        "name": "Follow Follow (feat. Deela & Paxslim)",
-        "url": "https://open.spotify.com/album/3PjgNY7sOacUiwYQhEabxB"
-      },
-      "artists": [
-        {
-          "name": "Somadina",
-          "url": "https://open.spotify.com/artist/4C9EX8d2FnWMV2yQZqeG8U"
-        },
-        {
-          "name": "Le Mav",
-          "url": "https://open.spotify.com/artist/59MU62wyOLf8FlV7l8fewL"
-        },
-        {
-          "name": "DEELA",
-          "url": "https://open.spotify.com/artist/10yLOgKTy2iAtvIqkow5l4"
-        },
-        {
-          "name": "Paxslim",
-          "url": "https://open.spotify.com/artist/4XE6eLUu1pp5rcI1cpDpWy"
-        }
-      ],
-      "duration_ms": 174466,
-      "name": "Follow Follow (feat. Deela & Paxslim)",
-      "url": "https://open.spotify.com/track/7mJACMFhTNQHae48V6L6g4"
-    },
-    {
-      "added_at": "2026-05-01 00:01:40",
-      "album": {
-        "name": "Formula & Vim/Strangers in Accra",
-        "url": "https://open.spotify.com/album/0gxmM3YdxrWLiEHRpTLBrp"
-      },
-      "artists": [
-        {
-          "name": "Juma Mufasa",
-          "url": "https://open.spotify.com/artist/1qqHchzlrR4QtN0HW0sDIs"
-        },
-        {
-          "name": "KwesiSoul",
-          "url": "https://open.spotify.com/artist/2zaQxkROhBUJAyLyNnUuWr"
-        },
-        {
-          "name": "Papa Atey",
-          "url": "https://open.spotify.com/artist/0me8eXuhZpWe142kwN8SjB"
-        }
-      ],
-      "duration_ms": 312819,
-      "name": "Formula & Vim/Strangers in Accra",
-      "url": "https://open.spotify.com/track/4rZOmXA1vGT1KRg3zVcDKq"
     },
     {
       "added_at": "2026-05-01 00:01:40",

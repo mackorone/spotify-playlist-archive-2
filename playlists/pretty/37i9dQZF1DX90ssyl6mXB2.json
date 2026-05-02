@@ -1,13 +1,33 @@
 {
-  "description": "late night vibes \u2013 notifications off. cover: Don Toliver",
-  "num_followers": 176301,
+  "description": "late night vibes \u2013 notifications off. cover: Isaiah Kaleo",
+  "num_followers": 176315,
   "original_name": "DND.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHkWtNTxILrTTnTtV/qICX0o1sgM",
+  "snapshot_id": "AAAAAFzclSkNVtIHbDxBimS5jzrcYpu3",
   "tracks": [
+    {
+      "added_at": "2026-05-01 05:33:09",
+      "album": {
+        "name": "lead me on",
+        "url": "https://open.spotify.com/album/0su818CRHaJGnAdmfFb7k0"
+      },
+      "artists": [
+        {
+          "name": "Isaiah Kaleo",
+          "url": "https://open.spotify.com/artist/13b0dupEOyYPm8dZqbqtb5"
+        },
+        {
+          "name": "ROME",
+          "url": "https://open.spotify.com/artist/4hrz9OhxBfTmyNTZmqxm2q"
+        }
+      ],
+      "duration_ms": 219226,
+      "name": "lead me on",
+      "url": "https://open.spotify.com/track/0JxPtwbOOU2SQNjQZU3zAW"
+    },
     {
       "added_at": "2026-02-06 07:46:38",
       "album": {
@@ -49,7 +69,7 @@
       "url": "https://open.spotify.com/track/2Xi5XcyDAq39wRcbxSHMqo"
     },
     {
-      "added_at": "2026-03-13 06:41:19",
+      "added_at": "2026-05-01 05:33:09",
       "album": {
         "name": "Don\u2019t Come Home",
         "url": "https://open.spotify.com/album/36ROdch6cCh1N0doNGFKQo"
@@ -60,9 +80,9 @@
           "url": "https://open.spotify.com/artist/30AbYddXmSkDXhnW6lB0ll"
         }
       ],
-      "duration_ms": 122033,
-      "name": "Bet",
-      "url": "https://open.spotify.com/track/0enY45J98M1RzRd01DaQDP"
+      "duration_ms": 131189,
+      "name": "Call Me When You Can",
+      "url": "https://open.spotify.com/track/6AODvwD0OtfmsZJKiU6ptW"
     },
     {
       "added_at": "2026-03-13 06:41:19",
@@ -79,22 +99,6 @@
       "duration_ms": 165558,
       "name": "TABOO",
       "url": "https://open.spotify.com/track/17NLXL91ilTSQWEBRVbBGY"
-    },
-    {
-      "added_at": "2026-02-27 19:28:08",
-      "album": {
-        "name": "fiftyfive",
-        "url": "https://open.spotify.com/album/5X0pDpzylW7su4SfhFX8SF"
-      },
-      "artists": [
-        {
-          "name": "Devin Donnell",
-          "url": "https://open.spotify.com/artist/6HL912h0I4WSdVWuArkUSc"
-        }
-      ],
-      "duration_ms": 131895,
-      "name": "fiftyfive",
-      "url": "https://open.spotify.com/track/5IpZBiClRFZ61ue19PWbp5"
     },
     {
       "added_at": "2026-04-17 05:16:39",
@@ -147,6 +151,22 @@
       "duration_ms": 164574,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/0hRGRX8FoVM6QiastWeO8u"
+    },
+    {
+      "added_at": "2026-02-27 19:28:08",
+      "album": {
+        "name": "fiftyfive",
+        "url": "https://open.spotify.com/album/5X0pDpzylW7su4SfhFX8SF"
+      },
+      "artists": [
+        {
+          "name": "Devin Donnell",
+          "url": "https://open.spotify.com/artist/6HL912h0I4WSdVWuArkUSc"
+        }
+      ],
+      "duration_ms": 131895,
+      "name": "fiftyfive",
+      "url": "https://open.spotify.com/track/5IpZBiClRFZ61ue19PWbp5"
     },
     {
       "added_at": "2025-08-22 04:00:28",

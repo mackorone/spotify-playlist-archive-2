@@ -4,7 +4,7 @@
 
 > The newest arrivals\. Cover: Asake
 
-763 songs - 1 day 13 hr 15 min
+763 songs - 1 day 13 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,6 +210,7 @@
 | [Dot Dot \(feat\. Interplanetary Criminal & Flowdan\)](https://open.spotify.com/track/7vePS1uTLA4iENtOldQVLt) | [Kwengface](https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [Dot Dot \(feat\. Interplanetary Criminal & Flowdan\)](https://open.spotify.com/album/38XV0JAqCJk6RRyrB1JIU0) | 3:01 | 2025-11-07 | 2025-11-14 |
 | [Double face](https://open.spotify.com/track/3oNiGykgeauc44UGPaXmIV) | [TEZZ](https://open.spotify.com/artist/5WHEWmX2mtWPpTudevPTzp) | [Double face](https://open.spotify.com/album/57jScL4OqvUDCnTU3ImwtP) | 1:26 | 2025-11-14 | 2025-11-21 |
 | [Down](https://open.spotify.com/track/29ICJGKOCsxqhw0nmEu5m2) | [Yung Saber](https://open.spotify.com/artist/2e3qEeLCBtEqsbsgYDtrO0) | [Down](https://open.spotify.com/album/2jH0Z7D3mW0HQLafDTaEwf) | 2:25 | 2025-12-19 | 2026-01-15 |
+| [Down 4 \(feat\. Osquello\)](https://open.spotify.com/track/2nKlFEzbCrDTgHqledJn06) | [IZCO](https://open.spotify.com/artist/4uqqEE1NaQBAa4wnDug9c1), [Osquello](https://open.spotify.com/artist/6ScAPpYnDsH3Cu3TKmhUJr) | [POWERSCROFT](https://open.spotify.com/album/4vRMGZDyQrJfRxkIwlnPsR) | 4:41 | 2026-04-30 |  |
 | [DPMO](https://open.spotify.com/track/6rf4KX0dLAeA9YOLf2kPR0) | [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw) | [DPMO](https://open.spotify.com/album/3xufC9z1KXYbBVWO66rG2Y) | 1:51 | 2025-11-07 | 2025-11-21 |
 | [Drive](https://open.spotify.com/track/506Zj8Qav140YTT7HOW7SI) | [MATTII](https://open.spotify.com/artist/1tCd8DCTFUYDclgcwuL1A6) | [Drive](https://open.spotify.com/album/3yf9U0CrTtqFqWHUTjhyJZ) | 2:52 | 2026-02-27 | 2026-03-06 |
 | [Drive Me Crazy](https://open.spotify.com/track/02moFsWJxRYeZbBD2pLzUa) | [MADEINPARRIS](https://open.spotify.com/artist/2UiZpyNlTfTf1TX5pQ0cnU) | [Drive Me Crazy](https://open.spotify.com/album/3PKrp0nvg2v8Fs9zIgbgMF) | 3:01 | 2025-11-07 | 2025-11-14 |
@@ -698,7 +699,6 @@
 | [Touch bby](https://open.spotify.com/track/4Ksyqz0rioYK0DJnuXp888) | [Essosa](https://open.spotify.com/artist/6fn7JM8daBvCxpTkYyqtGY) | [Touch bby](https://open.spotify.com/album/1vSKPb1LckjSJSGKVeQ5gd) | 2:05 | 2026-02-20 | 2026-02-27 |
 | [Touched](https://open.spotify.com/track/3YfTRQJUSvq6Ri3DzuDG3n) | [sbk](https://open.spotify.com/artist/1SDlOEGpzLuqjC74p6GK85) | [Touched](https://open.spotify.com/album/2PeniNPiOgKpiFWEHNongC) | 2:58 | 2025-12-19 | 2026-01-15 |
 | [Tough](https://open.spotify.com/track/5TmpaPaxP6DjvoGyets9sO) | [Nia Smith](https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [Tough](https://open.spotify.com/album/7kAuTCG3RtuNsILTvuMGms) | 3:15 | 2026-03-06 | 2026-03-20 |
-| [Track 5](https://open.spotify.com/track/2nKlFEzbCrDTgHqledJn06) | [IZCO](https://open.spotify.com/artist/4uqqEE1NaQBAa4wnDug9c1) | [POWERSCROFT](https://open.spotify.com/album/4vRMGZDyQrJfRxkIwlnPsR) | 0:00 | 2026-04-30 |  |
 | [Trade Places](https://open.spotify.com/track/3yBI1IVune0k7Tsmcy8BVh) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Monica](https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES) | 3:02 | 2026-03-13 | 2026-03-27 |
 | [Tralala \(feat\. JayO\)](https://open.spotify.com/track/56tncmDMcu6CdGfUmE6FSc) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [Destinée](https://open.spotify.com/album/33V05j22TgtWOJ5OvREj1p) | 2:48 | 2025-11-21 | 2025-12-12 |
 | [Treading Water](https://open.spotify.com/track/2vy2VwvIHGUowBOvyTb9gg) | [Quinn Oulton](https://open.spotify.com/artist/2lqAPLmP9BsHPymfa6UFO7) | [Treading Water](https://open.spotify.com/album/48TTmFUOAmJNVUSNzdiMjr) | 3:04 | 2026-04-24 |  |

@@ -1,12 +1,12 @@
 {
   "description": "A <a href=\"http://www.digster.fm/decades\">classic playlist</a> with the best hits of the 90s featuring No Doubt, Nirvana, and more.",
-  "num_followers": 144144,
+  "num_followers": 144129,
   "original_name": "90s",
   "owner": {
     "name": "uDiscover Playlists",
     "url": "https://open.spotify.com/user/digster.fm"
   },
-  "snapshot_id": "AAAFR1thhmhDFZP//ZvsIEeQ1pWNKzQl",
+  "snapshot_id": "AAAFSGdkz34gBuy9Nf+RTmT8M7DmICzd",
   "tracks": [
     {
       "added_at": "2026-04-03 17:27:16",
@@ -41,22 +41,6 @@
       "url": "https://open.spotify.com/track/6VnpKLtfNH4Dk09YSGPSyR"
     },
     {
-      "added_at": "2026-04-17 17:37:16",
-      "album": {
-        "name": "Blurring The Edges",
-        "url": "https://open.spotify.com/album/56viTB3cu7FbFwAWDctRz1"
-      },
-      "artists": [
-        {
-          "name": "Meredith Brooks",
-          "url": "https://open.spotify.com/artist/2QmLFuIDtNDmmJY3OtvinN"
-        }
-      ],
-      "duration_ms": 252760,
-      "name": "Bitch",
-      "url": "https://open.spotify.com/track/3i6qNxyVgIdUZTTi5m25EM"
-    },
-    {
       "added_at": "2026-03-27 19:20:54",
       "album": {
         "name": "No Need To Argue (2025 Remastered)",
@@ -71,6 +55,22 @@
       "duration_ms": 270600,
       "name": "Ode To My Family - 2025 Remastered",
       "url": "https://open.spotify.com/track/3k8qSv5e8ALW6tA9cpY9mm"
+    },
+    {
+      "added_at": "2026-04-17 17:37:16",
+      "album": {
+        "name": "Blurring The Edges",
+        "url": "https://open.spotify.com/album/56viTB3cu7FbFwAWDctRz1"
+      },
+      "artists": [
+        {
+          "name": "Meredith Brooks",
+          "url": "https://open.spotify.com/artist/2QmLFuIDtNDmmJY3OtvinN"
+        }
+      ],
+      "duration_ms": 252760,
+      "name": "Bitch",
+      "url": "https://open.spotify.com/track/3i6qNxyVgIdUZTTi5m25EM"
     },
     {
       "added_at": "2026-04-17 17:38:56",

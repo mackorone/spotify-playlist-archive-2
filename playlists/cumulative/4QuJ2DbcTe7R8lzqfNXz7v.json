@@ -2659,6 +2659,24 @@
     },
     {
       "album": {
+        "name": "Hold Me (Mantra)",
+        "url": "https://open.spotify.com/album/6DofcBKOe3Cf4Z0wgdkWdC"
+      },
+      "artists": [
+        {
+          "name": "Eloi Youssef",
+          "url": "https://open.spotify.com/artist/4y0egYlrx2v3IzeciScO2A"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333800,
+      "name": "Hold Me (Mantra)",
+      "url": "https://open.spotify.com/track/4531KTSpDcgxSWksAYKQhg"
+    },
+    {
+      "album": {
         "name": "The Best Of Johnny Logan",
         "url": "https://open.spotify.com/album/5GlpiY5o7gbgAJQrVnYduA"
       },
@@ -2970,7 +2988,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 189569,
       "name": "I Saw Your Face",
       "url": "https://open.spotify.com/track/3cLBx0lEWPKSM99hx5RVcx"

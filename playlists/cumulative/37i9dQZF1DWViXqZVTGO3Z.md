@@ -2,7 +2,7 @@
 
 ### [Christmas Spirit](https://open.spotify.com/playlist/37i9dQZF1DWViXqZVTGO3Z)
 
-> Get in the Christmas spirit while listening to some of your favorite Christian artists sing and celebrate the birth of Jesus\. Cover: Katy Nichole
+> Get in the Christmas spirit while listening to some of your favorite Christian artists sing and celebrate the birth of Jesus\. Cover: CeCe Winans
 
 518 songs - 1 day 9 hr 32 min
 
@@ -151,7 +151,7 @@
 | [Go, Tell It On The Mountain](https://open.spotify.com/track/4RMsFcF3jHkdri4rwfZH0F) | [Chris Blue](https://open.spotify.com/artist/4urap4WzzvxwW5cC12CBGv) | [Go, Tell It On The Mountain](https://open.spotify.com/album/3JJyeLpB7Oa6Y5jf1dTQIc) | 2:47 | 2025-11-05 | 2026-04-17 |
 | [God Made A Way](https://open.spotify.com/track/6FRr6Qo9MGvJIPUo15a4ax) | [Brandon Heath](https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj), [Tasha Layton](https://open.spotify.com/artist/571iV6vHz7IO6ZBPi0JM9y) | [God Made A Way](https://open.spotify.com/album/1sHDvHOITzgodxNW43WUtR) | 3:30 | 2022-11-26 |  |
 | [God Rest](https://open.spotify.com/track/0EEztnoPFhtd5SlfbS6qeJ) | [Awaken Music](https://open.spotify.com/artist/1QcT7Zc5PsF36V3cEe7ws9) | [What A Beautiful Night](https://open.spotify.com/album/0EeEx2laes67i5MaTKmvNf) | 3:50 | 2023-12-15 | 2024-08-01 |
-| [God Rest Ye Merry Gentlemen](https://open.spotify.com/track/2wqo9k9fUsx4L3HePw7BDl) | [Jars Of Clay](https://open.spotify.com/artist/1lMaDSraU3oiNUsVWJLHdF) | [Drummer Boy](https://open.spotify.com/album/0qTbB09vNXRSsguZlNVZHU) | 3:03 | 2021-12-24 |  |
+| [God Rest Ye Merry Gentlemen](https://open.spotify.com/track/2wqo9k9fUsx4L3HePw7BDl) | [Jars Of Clay](https://open.spotify.com/artist/1lMaDSraU3oiNUsVWJLHdF) | [Drummer Boy](https://open.spotify.com/album/0qTbB09vNXRSsguZlNVZHU) | 3:03 | 2021-12-24 | 2026-05-02 |
 | [God Rest Ye Merry Gentlemen](https://open.spotify.com/track/0ReTcEous3qIW3iihuCHX4) | [The Kingdom Choir](https://open.spotify.com/artist/3OZZeMIZnTvQKjfQEEqx6C) | [Together Again](https://open.spotify.com/album/3vRgpU0STMNzI1B2em1Rnk) | 2:53 | 2021-12-24 | 2022-07-29 |
 | [God Rest Ye Merry Gentlemen \(feat\. Sarah Reeves\)](https://open.spotify.com/track/5y5pMlMKwHKD8T2Q9Jx6B0) | [Tenth Avenue North](https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0), [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Decade the Halls, Vol\. 1](https://open.spotify.com/album/7gEn3KzXsT2odUlIKtsGd2) | 3:46 | 2021-12-11 | 2023-12-16 |
 | [God Rest Ye Merry Gentlemen \(Joy\)](https://open.spotify.com/track/0b6mSmQyQeZDdtnvjeMPvh) | [Blanca](https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO) | [God Rest Ye Merry Gentlemen \(Joy\)](https://open.spotify.com/album/3uulBIvr3d9zRVrSCoTcah) | 3:25 | 2023-11-03 |  |
@@ -288,7 +288,7 @@
 | [Little Drummer Boy](https://open.spotify.com/track/6UReHZ02sbXyeRSzAlXDZG) | [Alive City](https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5) | [Little Drummer Boy](https://open.spotify.com/album/3VSVkehmJeEWZEUsAZy4PV) | 4:03 | 2025-11-16 |  |
 | [Little Drummer Boy](https://open.spotify.com/track/6MtecozqUbilB5qbVARrUH) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [A Drummer Boy Christmas](https://open.spotify.com/album/3mzFzJI8WYQ7Szerr4zLzT) | 4:48 | 2021-12-11 | 2024-11-18 |
 | [Little Drummer Boy](https://open.spotify.com/track/0yS3skL5mFKSiWXQU2OCrM) | [Jars Of Clay](https://open.spotify.com/artist/1lMaDSraU3oiNUsVWJLHdF) | [Drummer Boy](https://open.spotify.com/album/0qTbB09vNXRSsguZlNVZHU) | 4:23 | 2021-12-24 |  |
-| [Little Drummer Boy](https://open.spotify.com/track/24aU7xjRrQPYiH0GwkUvFa) | [Jordan Hart](https://open.spotify.com/artist/2NuHJNDBd9Vq4k09qrXibo), [Emily Schultz](https://open.spotify.com/artist/1QxBK9B8Dzq72wd4f5Nlba) | [Little Drummer Boy](https://open.spotify.com/album/78azCxU0zgCpkQKSpVX35m) | 3:05 | 2022-12-11 | 2026-04-07 |
+| [Little Drummer Boy](https://open.spotify.com/track/24aU7xjRrQPYiH0GwkUvFa) | [Jordan Hart](https://open.spotify.com/artist/2NuHJNDBd9Vq4k09qrXibo), [Emily Schultz](https://open.spotify.com/artist/1QxBK9B8Dzq72wd4f5Nlba) | [Little Drummer Boy](https://open.spotify.com/album/78azCxU0zgCpkQKSpVX35m) | 3:05 | 2022-12-11 |  |
 | [Little Drummer Boy](https://open.spotify.com/track/7EeV1otijbcvoHqnvIwBn2) | [Josh Wright](https://open.spotify.com/artist/0okSx9dxCq2J9CYuAQalp2) | [Little Drummer Boy](https://open.spotify.com/album/7eJDZVgQGNFqGFIgL7hBJj) | 2:45 | 2023-11-27 | 2024-08-01 |
 | [Little Drummer Boy \(What Can I Give\)](https://open.spotify.com/track/6uktJXU43r6GZT3fGhiQ1F) | [Tommee Profitt](https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU), [Stephen Stanley](https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX) | [Little Drummer Boy \(What Can I Give\)](https://open.spotify.com/album/4Wht5Vj63ZyGjy8BEdfARw) | 4:51 | 2025-11-08 |  |
 | [Lo, How a Rose E'er Blooming](https://open.spotify.com/track/0MRgBqz9WuTIOlY2ybB87l) | [The Gray Havens](https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC), [Joel Ansett](https://open.spotify.com/artist/49IjdVEbQcukWy36sdRMzl) | [Lo, How a Rose E'er Blooming](https://open.spotify.com/album/0S1x9TKC6K43OR90zzaBVt) | 2:52 | 2024-11-23 |  |

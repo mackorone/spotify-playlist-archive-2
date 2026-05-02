@@ -2,9 +2,9 @@
 
 ### [BUTTER](https://open.spotify.com/playlist/37i9dQZF1DWVzZlRWgqAGH)
 
-> THEHONESTGUY and music for your soul.
+> Dayo Bello and music for your soul.
 
-1,755 songs - 4 day 7 hr 4 min
+1,756 songs - 4 day 7 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1431,6 +1431,7 @@
 | [Spin The Block](https://open.spotify.com/track/28iI7pOj51BlKlEwhmplaT) | [Rhyan Douglas](https://open.spotify.com/artist/7axjaaukpvCevGVNWKpYL2) | [Spin The Block](https://open.spotify.com/album/7AjozjGfrhjIgdgWvd7pg2) | 4:12 | 2024-03-01 | 2024-03-16 |
 | [Spirit 2.0](https://open.spotify.com/track/3JKRuo3KhL39T6XWAXPohj) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Spirit 2.0](https://open.spotify.com/album/6idz4m2nMbiHsx3QjHhdcv) | 4:49 | 2023-06-30 | 2023-09-09 |
 | [SRS](https://open.spotify.com/track/6eARmBRQqt4BkuRsDt87zZ) | [KeepVibesNear](https://open.spotify.com/artist/1DjFYTQJksL0kkw9VABxdU) | [SRS](https://open.spotify.com/album/22SxX9KWtygUdQNnnqfr73) | 3:36 | 2021-10-12 | 2022-04-20 |
+| [Stand Still](https://open.spotify.com/track/1867RP4RmHjiGnBlpk0f3w) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2) | [Stand Still](https://open.spotify.com/album/4oabzSr5LNJ049MLW6iH37) | 2:24 | 2026-05-01 |  |
 | [Stand Up](https://open.spotify.com/track/51jCJS1mfR552iwoqKa9Ss) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [Richie Garrison](https://open.spotify.com/artist/6N509XbcG29Nb73k7TtuyD), [Kaidi Akinnibi](https://open.spotify.com/artist/37dGQu2K8lXncPDUxfuhEJ), [Ms MAURICE](https://open.spotify.com/artist/71de3PbzhhP5sSKhcWgNdo) | [Stand Up](https://open.spotify.com/album/3Er6INyfEk1z31YcWG2MqV) | 4:27 | 2019-09-29\* | 2019-10-17 |
 | [Stare at Me](https://open.spotify.com/track/5OQGljb4oGPYojBFpNrQ4a) | [JANE HANDCOCK](https://open.spotify.com/artist/2wgW0CiQRwbWlkT6nM8suD), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Stare at Me](https://open.spotify.com/album/5wWZ3Kdg4ZCQdFd3vwjiYu) | 3:55 | 2025-06-27 | 2025-12-13 |
 | [Starlife](https://open.spotify.com/track/2oo5LFn3wUCvgFEdTWmEAp) | [Cassowary](https://open.spotify.com/artist/3T3Ta5gL9MFTQ9xuZ0h9Dy), [Roc Marciano](https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri), [Stove God Cooks](https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv) | [Starlife](https://open.spotify.com/album/4ZMwN6AxHqHBeQObpMbpGW) | 3:05 | 2020-10-30 | 2020-12-01 |

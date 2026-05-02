@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 
 > Go hard or go home\. Cover: Kanine
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,463 likes - 55 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,475 likes - 55 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 | 20 | [Do U Feel It Now?](https://open.spotify.com/track/6y83sQah0y3Zgc6XyHCjma) | [SOTA](https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP) | [Do U Feel It Now?](https://open.spotify.com/album/7va8M0Y0BPQTDR93pJw5GL) | 3:51 |
 | 21 | [Corner](https://open.spotify.com/track/6MQnpSXLfCmMcA9xfU3O2o) | [Riko Dan](https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y), [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC) | [Corner](https://open.spotify.com/album/7LIdJo9owJofjVeNaF8ig4) | 2:16 |
 | 22 | [Axiom](https://open.spotify.com/track/0mfWwsSnGt4mED2vz3CBUB) | [Simula](https://open.spotify.com/artist/2KCmoJZgpL6hNFdT4l9PTl), [Kasra](https://open.spotify.com/artist/3W1ubrHvNSMltB1l7zo6xt) | [Axiom / Intuition](https://open.spotify.com/album/34WMLUUQVe28cku9U7rRO4) | 4:27 |
-| 23 | [Reaper \(feat\. Comma Dee\)](https://open.spotify.com/track/1utY88WOs4rOugVwhNQvi2) | [Rendah](https://open.spotify.com/artist/2DD20dIAwiGrP8DFKoFGdX), [Comma Dee](https://open.spotify.com/artist/2K2k6w3rhyifPmKC4U86VY) | [Reaper \(feat\. Comma Dee\)](https://open.spotify.com/album/6ZbwTsAcuOWAnN3gbyS807) | 3:33 |
-| 24 | [Feel The Pulse](https://open.spotify.com/track/6l0VAs8qEzsGh1mqusoQQx) | [Mozey](https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0) | [Feel The Pulse](https://open.spotify.com/album/11EmKfSdfbhFslAWgr9EAQ) | 3:20 |
+| 23 | [Feel The Pulse](https://open.spotify.com/track/6l0VAs8qEzsGh1mqusoQQx) | [Mozey](https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0) | [Feel The Pulse](https://open.spotify.com/album/11EmKfSdfbhFslAWgr9EAQ) | 3:20 |
+| 24 | [Reaper \(feat\. Comma Dee\)](https://open.spotify.com/track/1utY88WOs4rOugVwhNQvi2) | [Rendah](https://open.spotify.com/artist/2DD20dIAwiGrP8DFKoFGdX), [Comma Dee](https://open.spotify.com/artist/2K2k6w3rhyifPmKC4U86VY) | [Reaper \(feat\. Comma Dee\)](https://open.spotify.com/album/6ZbwTsAcuOWAnN3gbyS807) | 3:33 |
 | 25 | [Round + Round](https://open.spotify.com/track/5EMKhf5HieDSJHbVuaucd4) | [SOTA](https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP), [Disrupta](https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G), [Mila Falls](https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve) | [Round + Round](https://open.spotify.com/album/7gc1xnYMRQAuyc9Gnq2mr9) | 2:38 |
 | 26 | [Yapa Yapa \(Shut It Pls\) \- Serum Remix](https://open.spotify.com/track/2eUomHlhqjWsSEJiYS9dJk) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3), [Big Shaq](https://open.spotify.com/artist/7mnAzEmgquhrVtGob81SmO), [Dr Ofori](https://open.spotify.com/artist/4jsOeCZLQG1ygXCF2pMqvp), [Serum](https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m) | [Yapa Yapa \(Shut It Pls\) \[Serum Remix\]](https://open.spotify.com/album/3nxtYIeazKAFjJncFCPrAs) | 3:18 |
 | 27 | [Step Back \(Break Remix\)](https://open.spotify.com/track/40GDOmJfjUvX17B9UMlEF9) | [Mefjus](https://open.spotify.com/artist/54qqaSH6byJIb8eFWxe3Pj), [Break](https://open.spotify.com/artist/7FtCGMC0pcHPlrZWmYe9XM) | [Step Back](https://open.spotify.com/album/4D443YrT0kpFSJzHFkMdfo) | 3:23 |

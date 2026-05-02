@@ -4,7 +4,7 @@
 
 > New Music from Asake, Shoday, Chris Brown, KiDi and more
 
-5,718 songs - 12 day 0 hr 34 min
+5,718 songs - 12 day 0 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1381,6 +1381,7 @@
 | [EAST2HWOOD](https://open.spotify.com/track/7nsQGkE4LbDnGCp9lDs83t) | [Ukweli](https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [EAST2HWOOD](https://open.spotify.com/album/2hpKS3D3i4J0UK9vkGmuVV) | 3:28 | 2025-10-10 | 2025-10-17 |
 | [Easy](https://open.spotify.com/track/0y97dz8upW8GtUMzRACY5o) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I), [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [Easy](https://open.spotify.com/album/775f99vvSk9KnPqFmyxhuB) | 2:27 | 2025-09-26 | 2025-10-03 |
 | [Easy](https://open.spotify.com/track/3enIVGgMGl7OCRZXytWHzQ) | [Niyi](https://open.spotify.com/artist/3P6XhIOLjmq0i5SUEq6qH9), [Hotkeed](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj) | [Easy](https://open.spotify.com/album/7c69EqQLbojXYEBnpxWPAr) | 2:54 | 2024-10-25 | 2024-11-01 |
+| [EASY](https://open.spotify.com/track/0zGx4JuFITnZggFoEWuXUh) | [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [CAME OF AGE](https://open.spotify.com/album/1WEt6ZRsPzCTQqmRGgaRID) | 2:47 | 2026-05-01 |  |
 | [Easy for You](https://open.spotify.com/track/12dlZQSXjy7uxsEKbTONl3) | [Kotrell](https://open.spotify.com/artist/1k3uh1cWemPuWEYV2lcMPS), [Amaeya](https://open.spotify.com/artist/7LBhTlMPyB6xjAr8muuR56) | [Easy for You](https://open.spotify.com/album/6mKaXXQ6gPXhGdJCu2LcDj) | 2:19 | 2026-03-20 | 2026-03-27 |
 | [Easy Lover](https://open.spotify.com/track/2OBzYCYMNsD6yhBZZSs0xg) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Something Beautiful](https://open.spotify.com/album/7h7smPzBYx8LOLI3ncM3vQ) | 3:06 | 2025-05-30 | 2025-06-06 |
 | [Easy To Love](https://open.spotify.com/track/7nDdoz7NIXvWArl6a0XhN0) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS), [Kabusa Oriental Choir](https://open.spotify.com/artist/4YrSRLOhFdbVvToiE2nlpj) | [Easy To Love](https://open.spotify.com/album/04asBtmK3GCvnjDvEVKefV) | 4:00 | 2025-03-28 | 2025-04-04 |
@@ -5203,7 +5204,6 @@
 | [Trabaye](https://open.spotify.com/track/08e0A9k3bZHg1ayABWHt6o) | [VASA](https://open.spotify.com/artist/2TQT9f1Kn5DhKVULYFBq8Q), [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb) | [Trabaye](https://open.spotify.com/album/4EEt8kNnWUVTqXgnUF7Kw5) | 2:56 | 2024-06-14 | 2024-06-21 |
 | [TRABZ](https://open.spotify.com/track/37q6nr9zUrFCyBCcoKdaMJ) | [Candy Bleakz](https://open.spotify.com/artist/2QPpxx2U3qEeZZsF3uaXn0) | [TRABZ](https://open.spotify.com/album/5b9bt1fofoZKmzGnPrcnPd) | 2:22 | 2026-02-27 | 2026-03-06 |
 | [Track 1](https://open.spotify.com/track/61j282lTW0Q2F2Zl7MDQZ9) | [Killervybez](https://open.spotify.com/artist/2dQ0P9Tlnf3S8fz7gVne4l) | [](https://open.spotify.com/album/null) | 0:00 | 2026-02-13 | 2026-02-14 |
-| [Track 1](https://open.spotify.com/track/0zGx4JuFITnZggFoEWuXUh) | [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [CAME OF AGE](https://open.spotify.com/album/1WEt6ZRsPzCTQqmRGgaRID) | 0:00 | 2026-05-01 |  |
 | [Trade Places](https://open.spotify.com/track/3yBI1IVune0k7Tsmcy8BVh) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Monica](https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES) | 3:02 | 2026-03-13 | 2026-03-20 |
 | [Tranchées](https://open.spotify.com/track/1WFV0xsjOvvoXh8J1ygmAr) | [La Fouine](https://open.spotify.com/artist/6QS84S3i4gwdEKqWoTtDLd), [Himra](https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS) | [CAPITALE DU CRIME RADIO, vol\. 3](https://open.spotify.com/album/0XHAPZhoDyPzMnigsKZeej) | 2:47 | 2026-01-30 | 2026-02-06 |
 | [Tranquility](https://open.spotify.com/track/7xFM6FkWpeBajNWVQBQFuL) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Tranquility](https://open.spotify.com/album/6vOSzSW8OtfTZChRzqUng6) | 2:30 | 2025-01-10 | 2025-01-11 |

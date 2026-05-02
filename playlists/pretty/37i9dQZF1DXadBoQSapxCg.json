@@ -1,6 +1,6 @@
 {
   "description": "Apaga a luz e deixa rolar.",
-  "num_followers": 319678,
+  "num_followers": 319683,
   "original_name": "Rala e Rola",
   "owner": {
     "name": "Spotify",
@@ -527,26 +527,6 @@
     {
       "added_at": "2025-10-31 16:26:13",
       "album": {
-        "name": "Portugal 2",
-        "url": "https://open.spotify.com/album/7c2hDvJCFSSVOqj7DezOEp"
-      },
-      "artists": [
-        {
-          "name": "Ananda",
-          "url": "https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5"
-        },
-        {
-          "name": "Kawe",
-          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
-        }
-      ],
-      "duration_ms": 191290,
-      "name": "Portugal 2",
-      "url": "https://open.spotify.com/track/4iYvo1lywiLYPUxP8MN34g"
-    },
-    {
-      "added_at": "2025-10-31 16:26:13",
-      "album": {
         "name": "Tamb\u00e9m Quero",
         "url": "https://open.spotify.com/album/6kW0t87Zimh1JKs91xnc2J"
       },
@@ -563,6 +543,26 @@
       "duration_ms": 216935,
       "name": "Tamb\u00e9m Quero",
       "url": "https://open.spotify.com/track/3bIVh3GF7hNqPpJYxzCcxU"
+    },
+    {
+      "added_at": "2025-10-31 16:26:13",
+      "album": {
+        "name": "Portugal 2",
+        "url": "https://open.spotify.com/album/7c2hDvJCFSSVOqj7DezOEp"
+      },
+      "artists": [
+        {
+          "name": "Ananda",
+          "url": "https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5"
+        },
+        {
+          "name": "Kawe",
+          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
+        }
+      ],
+      "duration_ms": 191290,
+      "name": "Portugal 2",
+      "url": "https://open.spotify.com/track/4iYvo1lywiLYPUxP8MN34g"
     },
     {
       "added_at": "2025-10-31 16:26:13",

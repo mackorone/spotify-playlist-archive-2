@@ -40743,7 +40743,7 @@
         },
         {
           "name": "Tiga",
-          "url": "https://open.spotify.com/artist/6dfbRE1slg9q6xXbMiB9Rn"
+          "url": "https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC"
         }
       ],
       "date_added": "2026-04-30",
@@ -59368,6 +59368,32 @@
       "duration_ms": 141660,
       "name": "GIRLZ",
       "url": "https://open.spotify.com/track/7EAbixDAOVcSb73tEKTqyU"
+    },
+    {
+      "album": {
+        "name": "Glamour Snobby",
+        "url": "https://open.spotify.com/album/6SdzDTajeYhKnWhASidjfM"
+      },
+      "artists": [
+        {
+          "name": "Miss Bashful",
+          "url": "https://open.spotify.com/artist/5skHU2PrWHKFfSTpq9y56C"
+        },
+        {
+          "name": "Princess Superstar",
+          "url": "https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM"
+        },
+        {
+          "name": "Luca Eck",
+          "url": "https://open.spotify.com/artist/7FvEqUihbJfx5vpfGd1OLz"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156504,
+      "name": "Girlz On Tour",
+      "url": "https://open.spotify.com/track/2IM3xmhrJWWa2v7TjoirvK"
     },
     {
       "album": {
@@ -142931,6 +142957,24 @@
     },
     {
       "album": {
+        "name": "Still Going",
+        "url": "https://open.spotify.com/album/0DR1uKmPb9KX0F0rE7SSOm"
+      },
+      "artists": [
+        {
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154656,
+      "name": "Still Going",
+      "url": "https://open.spotify.com/track/0NMdNrX2cmKTtLMlTmeMhf"
+    },
+    {
+      "album": {
         "name": "STILL IN THE PAINT (with LAZER DIM 700 & Bktherula)",
         "url": "https://open.spotify.com/album/2xOT5KaLwXnsOVBZbyordn"
       },
@@ -154960,24 +155004,6 @@
       "duration_ms": 200722,
       "name": "Traces",
       "url": "https://open.spotify.com/track/02K9rGknqp9ZPLVCHLs2X4"
-    },
-    {
-      "album": {
-        "name": "Glamour Snobby",
-        "url": "https://open.spotify.com/album/6SdzDTajeYhKnWhASidjfM"
-      },
-      "artists": [
-        {
-          "name": "Miss Bashful",
-          "url": "https://open.spotify.com/artist/5skHU2PrWHKFfSTpq9y56C"
-        }
-      ],
-      "date_added": "2026-04-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 5",
-      "url": "https://open.spotify.com/track/2IM3xmhrJWWa2v7TjoirvK"
     },
     {
       "album": {

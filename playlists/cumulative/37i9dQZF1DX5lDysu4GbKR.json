@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Stripped back vibes. Cover:  Arima Ederra",
+  "description": "Stripped back vibes. Cover:  James Savage",
   "name": "Acoustic Soul",
   "tracks": [
     {
@@ -2132,6 +2132,24 @@
       "duration_ms": 120935,
       "name": "High Stakes",
       "url": "https://open.spotify.com/track/1aGkUVrkbCU0VsbhMtDA9D"
+    },
+    {
+      "album": {
+        "name": "Higher Power",
+        "url": "https://open.spotify.com/album/5Idywy5cDCM5PO1N0ork1x"
+      },
+      "artists": [
+        {
+          "name": "James Savage",
+          "url": "https://open.spotify.com/artist/0NJU41dLwF6OcBPRZwhAV5"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173743,
+      "name": "Higher Power",
+      "url": "https://open.spotify.com/track/4E6p9AY52g3h1A4eGD2YmF"
     },
     {
       "album": {

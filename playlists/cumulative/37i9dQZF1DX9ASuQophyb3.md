@@ -4,7 +4,7 @@
 
 > Türkçe pop'un hit şarkıları ve zirveye oynayanlar\.  Kapak: Serdar Ortaç
 
-619 songs - 1 day 8 hr 8 min
+620 songs - 1 day 8 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -312,6 +312,7 @@
 | [kapkara](https://open.spotify.com/track/17ZlQdhdC3h3bkzfNdWrGr) | [Sıla](https://open.spotify.com/artist/5gFPi3KWXEwA9bLEO47Ow0) | [kapkara](https://open.spotify.com/album/3gHChYYRQh3K9U2Waz87xZ) | 4:03 | 2024-10-31 | 2024-11-08 |
 | [Kara Gözlüm](https://open.spotify.com/track/54Gn2xKANJ0TsEnnlRGvgI) | [Tuğçe Kandemir](https://open.spotify.com/artist/50z4meqYMvVCXEv2jDneDN) | [Kara Gözlüm](https://open.spotify.com/album/2M352Yf7ymjex8FYfVgszh) | 3:21 | 2026-01-15 | 2026-01-30 |
 | [Karalım](https://open.spotify.com/track/35VOiGpgQgPv2EJJYZaZ8H) | [Kubilay Karça](https://open.spotify.com/artist/2pbct1ni3yLLAfzrSXQDrH) | [Karalım](https://open.spotify.com/album/6Dz4jZGoLAlUuSbVIqPAoe) | 3:26 | 2025-03-27 | 2025-04-18 |
+| [Karaçalı](https://open.spotify.com/track/2K5xsa4rFQtECBSIJR046V) | [Baran Mengüç](https://open.spotify.com/artist/07eEGn8bSAJF9sUqeTtAmN) | [Karaçalı](https://open.spotify.com/album/1YRuxJZXAB0FlGttTgb1bL) | 2:14 | 2026-05-01 |  |
 | [Karma](https://open.spotify.com/track/2itq7IbKoWjhEsLTaHkI7g) | [Bengü](https://open.spotify.com/artist/6wxh9aTFgTS4OiyYlnQBq6) | [Karma](https://open.spotify.com/album/6yWY1X3IAyi6IIuTY5Li3v) | 3:12 | 2025-07-17 | 2025-08-09 |
 | [Karıştırıcam O Uykularını](https://open.spotify.com/track/7uUtowgQK3CVBN4BFvWRJp) | [Demet Akalın](https://open.spotify.com/artist/1U449OOb70EZlElNjLMwCM) | [Karıştırıcam O Uykularını](https://open.spotify.com/album/7mXPzLgQeTzUsw4c7RySNy) | 3:07 | 2024-07-02 | 2024-11-29 |
 | [Kasım Yağmurları](https://open.spotify.com/track/0ZWcAIUTkccr5aPVDUwXeB) | [Kalben](https://open.spotify.com/artist/4sldxVDeyb0J8OMoYApqfV) | [Kasım Yağmurları](https://open.spotify.com/album/3kfJ6gODA7UPqZqc8Fz8Mi) | 3:51 | 2025-11-06 | 2025-11-21 |
@@ -533,7 +534,7 @@
 | [Yaban Çiçeğim](https://open.spotify.com/track/13R7NdClDXi78isqTa5rGz) | [Mavi Gri](https://open.spotify.com/artist/4otJVkrLLqDF8OxFJOigme), [Serkan Tınmaz](https://open.spotify.com/artist/4G9rX9BsjllB6a5s9uCiEC) | [Yaban Çiçeğim](https://open.spotify.com/album/3XlCLUB5N1pxPq7AgnGkCW) | 2:43 | 2024-09-05 | 2024-11-01 |
 | [Yakamazsın](https://open.spotify.com/track/0hWEjMQMbnPEH6s2jSvaMD) | [Berkay Altunyay](https://open.spotify.com/artist/7DDrfx7EEOeHSZUkpTIn59) | [Yakamazsın](https://open.spotify.com/album/3R4fFO170XDRfOSZYsolWD) | 2:58 | 2025-08-28 | 2025-09-12 |
 | [Yakışıklı](https://open.spotify.com/track/40IbMWcOQ3eTkyYcdFSEjM) | [KÖFN](https://open.spotify.com/artist/3ZKkHPTZTq8z8pokwZiInd), [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu), [Salman Tin](https://open.spotify.com/artist/539RbtR2AVUYdmHQZjLL6m), [BKE](https://open.spotify.com/artist/51VogrGKLinkrSwYToAW1C) | [Yakışıklı](https://open.spotify.com/album/67pOirdhu43id4Ck9iYyae) | 2:26 | 2024-07-02 | 2025-02-07 |
-| [Yalan](https://open.spotify.com/track/4QaCneYjuoaTwxu0NoU6hU) | [Dedublüman](https://open.spotify.com/artist/5PRW6j58xEEWL4DDVEITKT) | [Yalan](https://open.spotify.com/album/6BUu1VknyMLsBhamWTliol) | 3:46 | 2026-01-15 |  |
+| [Yalan](https://open.spotify.com/track/4QaCneYjuoaTwxu0NoU6hU) | [Dedublüman](https://open.spotify.com/artist/5PRW6j58xEEWL4DDVEITKT) | [Yalan](https://open.spotify.com/album/6BUu1VknyMLsBhamWTliol) | 3:46 | 2026-01-15 | 2026-05-02 |
 | [Yalan](https://open.spotify.com/track/052gEUAn9upBEIGcAvx5uo) | [Gökhan Türkmen](https://open.spotify.com/artist/4uGB0nZ5d1iCXS3sHR3pzm) | [Yalan](https://open.spotify.com/album/1ybTXpoyDQlR9g1ENgyMQf) | 4:19 | 2026-04-30 |  |
 | [Yalancı Şahidim \- Live](https://open.spotify.com/track/6zQZla6Gu8FBPUVpWHGQdX) | [EDIS](https://open.spotify.com/artist/1AM52XHXnWAEqnQwpxTLWm) | [Yalancı Şahidim \(Live\)](https://open.spotify.com/album/3qMNGwXXt31nA7k9jllSw9) | 3:58 | 2026-04-02 | 2026-04-24 |
 | [Yalnızlık Korosu](https://open.spotify.com/track/1odUxY4Am3G91NtAo8iqjg) | [Tuğçe Kandemir](https://open.spotify.com/artist/50z4meqYMvVCXEv2jDneDN) | [Yalnızlık Korosu](https://open.spotify.com/album/4Wv4HLvmY6s79RIoyVQtcH) | 2:29 | 2025-12-18 | 2026-01-16 |

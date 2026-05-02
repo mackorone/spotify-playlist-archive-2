@@ -2,9 +2,9 @@
 
 ### [Acoustic Soul](https://open.spotify.com/playlist/37i9dQZF1DX5lDysu4GbKR)
 
-> Stripped back vibes\. Cover:  Arima Ederra
+> Stripped back vibes\. Cover:  James Savage
 
-314 songs - 18 hr 12 min
+315 songs - 18 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [Hiding](https://open.spotify.com/track/3TtaRCNXoXdILzYfhtBxmu) | [JELISA](https://open.spotify.com/artist/0KaC2z2SJoxk3vCDdl1AKx) | [Hiding](https://open.spotify.com/album/3bUCBkQCU0nxwbwiwqZ1K0) | 3:17 | 2023-06-08 |  |
 | [High \- Acoustic](https://open.spotify.com/track/4UeocJu8WARqFFkuLEdvXa) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [High \(Acoustic\)](https://open.spotify.com/album/3KH3NMGd1bUD1aKWAEQxeL) | 2:33 | 2025-01-24 |  |
 | [High Stakes](https://open.spotify.com/track/1aGkUVrkbCU0VsbhMtDA9D) | [Mars Today](https://open.spotify.com/artist/60jVpPkp3hgECctyeE9gWH) | [High Stakes](https://open.spotify.com/album/3jRhDfVPGPSw7A8jODjbLB) | 2:00 | 2021-12-09 | 2022-01-14 |
+| [Higher Power](https://open.spotify.com/track/4E6p9AY52g3h1A4eGD2YmF) | [James Savage](https://open.spotify.com/artist/0NJU41dLwF6OcBPRZwhAV5) | [Higher Power](https://open.spotify.com/album/5Idywy5cDCM5PO1N0ork1x) | 2:53 | 2026-05-01 |  |
 | [Hills](https://open.spotify.com/track/2PCdovP3wSlSS73NOtopJI) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Hills](https://open.spotify.com/album/6vbnNu3cvLpiYLNxDnQYi0) | 3:01 | 2023-02-17 |  |
 | [Hit And Run \(Acoustic Version\)](https://open.spotify.com/track/2lYzTx7NDIUxF4yMHLzozs) | [Helen](https://open.spotify.com/artist/2z2l9z2yioLWSoCECNIyEl) | [Hit And Run \(Acoustic Version\)](https://open.spotify.com/album/0KE0S54WCmXk139uyrQjmz) | 3:11 | 2021-12-09 | 2023-11-10 |
 | [Hold On](https://open.spotify.com/track/0yE2VIVUryAQDUmhkFc7oB) | [Kamaal Williams](https://open.spotify.com/artist/01mXk9IDlVczWwZvVHAiIS), [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [Hold On](https://open.spotify.com/album/6VTfE25P75bAiJWUUKWd3J) | 3:20 | 2021-12-09 | 2022-07-29 |

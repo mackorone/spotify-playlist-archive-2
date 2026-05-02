@@ -4,7 +4,7 @@
 
 > The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeats playlist\. Cover: Asake
 
-1,773 songs - 3 day 16 hr 49 min
+1,774 songs - 3 day 16 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1102,6 +1102,7 @@
 | [No Sleep](https://open.spotify.com/track/3jIH50Mi1ch3XtHvXcAPtn) | [Lil Pino](https://open.spotify.com/artist/5rY5e6BPOIfWJI1LsR8DCl) | [No Sleep](https://open.spotify.com/album/4HEGO2kaQCPHJ0iMNBaMOz) | 3:05 | 2023-01-13 | 2023-02-25 |
 | [No Wahala](https://open.spotify.com/track/6DUVkJa50QyFebstc2AQpb) | [Groundworks](https://open.spotify.com/artist/56CfSlwdtBBEfzMuIDMhUc), [Potter Payper](https://open.spotify.com/artist/7bZpYWk0ZZN7CkOeXbAY0Z) | [The G Tape: Volume 3](https://open.spotify.com/album/47dTquqJGybvtfnV4I3x5q) | 2:31 | 2024-01-26 | 2024-02-23 |
 | [No.1 \(feat\. Tems\)](https://open.spotify.com/track/3qeMtqV38UWPZfps7mPTUE) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [TYLA](https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE) | 2:27 | 2024-03-22 | 2024-04-26 |
+| [NOBLE](https://open.spotify.com/track/2LSmH4vxyRhkJ2pPqcmkXw) | [F3miii](https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s) | [NOBLE](https://open.spotify.com/album/0g2so560PUSwl895vWwaQK) | 3:05 | 2026-05-01 |  |
 | [nobody has to know \(with Ronald Isley\)](https://open.spotify.com/track/3CpYc8sEJUAgusqSZZKzi3) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Ronald Isley](https://open.spotify.com/artist/6W9RUw7xnNRYtgh8dimg7L) | [nobody has to know \(with Ronald Isley\)](https://open.spotify.com/album/1dLxVKDkwe9nALHF5ErQEd) | 3:17 | 2026-03-06 |  |
 | [NOKIA](https://open.spotify.com/track/2u9S9JJ6hTZS3Vf22HOZKg) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 4:01 | 2025-02-21 | 2025-11-07 |
 | [Normal](https://open.spotify.com/track/7rWUc4LuZ081oZ9VBZd6JK) | [Skrapz](https://open.spotify.com/artist/67R8l2OLqGwA9V4BKllYQY) | [Normal](https://open.spotify.com/album/7jrM2dAzQWlu8WYTGnyhHo) | 2:38 | 2023-09-08 | 2023-11-11 |
@@ -1564,7 +1565,7 @@
 | [Thrill](https://open.spotify.com/track/2Nr0XHZuIGd9EwhdM3FojG) | [Dide](https://open.spotify.com/artist/29ifbSKLZbyWgfRoduS7S4) | [Thrill](https://open.spotify.com/album/6ZYo0HNaQFPlFGLZacnOXD) | 3:32 | 2023-04-21 | 2023-06-17 |
 | [Thug Affection](https://open.spotify.com/track/5f6t2fFJqHeFvrA5eIiGEj) | [ShaSimone](https://open.spotify.com/artist/0R9Z8Eu8CF5KN4zLJSRFJw) | [Thug Affection](https://open.spotify.com/album/15hdZlgPNQ8q6JvdmlMbtM) | 3:23 | 2023-03-08 | 2023-03-09 |
 | [Thug With Me \(feat\. Mozzy\)](https://open.spotify.com/track/6FwxOkqxFE4jfdlhwZHQee) | [Tunde](https://open.spotify.com/artist/0sOjyMhtDzH1DSvcPjVXsi), [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO) | [Thug With Me \(feat\. Mozzy\)](https://open.spotify.com/album/07RvxP2fujZX30ogCsHPel) | 2:53 | 2024-02-22 | 2024-03-16 |
-| [TikTok](https://open.spotify.com/track/3QQJIDLkXedm4tYj8oWmEA) | [Kwengface](https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV), [Carns Hill](https://open.spotify.com/artist/0BKkDZjC4e9k36ZvLM3DAm) | [TikTok](https://open.spotify.com/album/1DTngTdpHT7bjtoOVlAICY) | 2:28 | 2026-02-13 |  |
+| [TikTok](https://open.spotify.com/track/3QQJIDLkXedm4tYj8oWmEA) | [Kwengface](https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV), [Carns Hill](https://open.spotify.com/artist/0BKkDZjC4e9k36ZvLM3DAm) | [TikTok](https://open.spotify.com/album/1DTngTdpHT7bjtoOVlAICY) | 2:28 | 2026-02-13 | 2026-05-02 |
 | [Time](https://open.spotify.com/track/21b8gyn3RP0bHWtiylT4oj) | [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip) | [Time](https://open.spotify.com/album/6glVQprJySU1PtEh1XERab) | 3:12 | 2022-10-27 | 2022-12-16 |
 | [Time](https://open.spotify.com/track/3tPYn1ZloX3n0CgIrQ2eQR) | [SL](https://open.spotify.com/artist/0wY1K9SgxbaRfoFRmSR5x5) | [Last Time](https://open.spotify.com/album/1mdW99tJ6hs7YyPFaO11mI) | 2:41 | 2026-03-06 |  |
 | [Time](https://open.spotify.com/track/7yOV3TWqCHTVNJIpaxVCbm) | [Strandz](https://open.spotify.com/artist/33X2jfLSVyDevoksJjRZoS), [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip) | [Time](https://open.spotify.com/album/6N5ZIKMR78KHLpKaHAfG9U) | 3:09 | 2025-01-31 | 2025-05-23 |

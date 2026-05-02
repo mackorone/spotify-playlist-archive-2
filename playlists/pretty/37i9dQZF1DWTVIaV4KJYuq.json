@@ -1,6 +1,6 @@
 {
   "description": "All the classic songs you love\u2014covered. Cover: Brandi Carlile",
-  "num_followers": 708981,
+  "num_followers": 709003,
   "original_name": "Classic Covers",
   "owner": {
     "name": "Spotify",
@@ -431,22 +431,6 @@
     {
       "added_at": "2026-03-03 17:21:11",
       "album": {
-        "name": "I Can Help",
-        "url": "https://open.spotify.com/album/5pDNnHHXe81EWs39cvhSjk"
-      },
-      "artists": [
-        {
-          "name": "Charley Crockett",
-          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
-        }
-      ],
-      "duration_ms": 218225,
-      "name": "I Can Help",
-      "url": "https://open.spotify.com/track/6jA2i54oeB8cq1c3YF2YQG"
-    },
-    {
-      "added_at": "2026-03-03 17:21:11",
-      "album": {
         "name": "Love Goes: Live at Abbey Road Studios",
         "url": "https://open.spotify.com/album/77jibxIYj4UGL2QAaN4j37"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 232128,
       "name": "Time After Time - Live At Abbey Road Studios",
       "url": "https://open.spotify.com/track/2EI5lZg5rjvmlpQG45L0lU"
+    },
+    {
+      "added_at": "2026-03-03 17:21:11",
+      "album": {
+        "name": "I Can Help",
+        "url": "https://open.spotify.com/album/5pDNnHHXe81EWs39cvhSjk"
+      },
+      "artists": [
+        {
+          "name": "Charley Crockett",
+          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
+        }
+      ],
+      "duration_ms": 218225,
+      "name": "I Can Help",
+      "url": "https://open.spotify.com/track/6jA2i54oeB8cq1c3YF2YQG"
     },
     {
       "added_at": "2026-03-03 17:21:11",
@@ -611,22 +611,6 @@
     {
       "added_at": "2026-03-03 17:21:11",
       "album": {
-        "name": "The Band",
-        "url": "https://open.spotify.com/album/7utn5Qzh3LrvtCmt3FjKq0"
-      },
-      "artists": [
-        {
-          "name": "Rachel Brown",
-          "url": "https://open.spotify.com/artist/5Dj1Ruham8HvIYJHDPTnhE"
-        }
-      ],
-      "duration_ms": 219960,
-      "name": "I Wanna Dance with Somebody",
-      "url": "https://open.spotify.com/track/550Wn0mCBgXSnTNouQA2fY"
-    },
-    {
-      "added_at": "2026-03-03 17:21:11",
-      "album": {
         "name": "The Things We Do for Love",
         "url": "https://open.spotify.com/album/019FOSKZXxS56quC2Wmb1K"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 225053,
       "name": "Wild World - Acoustic Version",
       "url": "https://open.spotify.com/track/0ZWSpn7UgqAp4exbKEUD5g"
+    },
+    {
+      "added_at": "2026-03-03 17:21:11",
+      "album": {
+        "name": "The Band",
+        "url": "https://open.spotify.com/album/7utn5Qzh3LrvtCmt3FjKq0"
+      },
+      "artists": [
+        {
+          "name": "Rachel Brown",
+          "url": "https://open.spotify.com/artist/5Dj1Ruham8HvIYJHDPTnhE"
+        }
+      ],
+      "duration_ms": 219960,
+      "name": "I Wanna Dance with Somebody",
+      "url": "https://open.spotify.com/track/550Wn0mCBgXSnTNouQA2fY"
     },
     {
       "added_at": "2026-03-03 17:21:11",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2026-03-03 17:21:11",
       "album": {
-        "name": "The Moon And Stars: Prescriptions For Dreamers (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1zShXPlRJNXANZolct3VzL"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 145280,
-      "name": "Pink Moon",
-      "url": "https://open.spotify.com/track/5SW6BhWTAJenEneGruiijj"
-    },
-    {
-      "added_at": "2026-03-03 17:21:11",
-      "album": {
         "name": "Have A Little Faith In Me",
         "url": "https://open.spotify.com/album/1PtoVjKtDnOq817SFuQtY3"
       },
@@ -1395,18 +1379,18 @@
     {
       "added_at": "2026-03-03 17:21:11",
       "album": {
-        "name": "The Way You Make Me Feel",
-        "url": "https://open.spotify.com/album/5tI48knArncrNzkCFFxoLp"
+        "name": "The Moon And Stars: Prescriptions For Dreamers (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1zShXPlRJNXANZolct3VzL"
       },
       "artists": [
         {
-          "name": "Tom Bailey",
-          "url": "https://open.spotify.com/artist/2oazmaA42Jf78TZeTsUIDU"
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
         }
       ],
-      "duration_ms": 232200,
-      "name": "The Way You Make Me Feel",
-      "url": "https://open.spotify.com/track/5d7TnPB7XplPTFV919uXYv"
+      "duration_ms": 145280,
+      "name": "Pink Moon",
+      "url": "https://open.spotify.com/track/5SW6BhWTAJenEneGruiijj"
     },
     {
       "added_at": "2026-03-03 17:21:11",
@@ -1427,6 +1411,22 @@
       "duration_ms": 243750,
       "name": "Common People",
       "url": "https://open.spotify.com/track/0RA1JKkRycZg27V6o70lf7"
+    },
+    {
+      "added_at": "2026-03-03 17:21:11",
+      "album": {
+        "name": "The Way You Make Me Feel",
+        "url": "https://open.spotify.com/album/5tI48knArncrNzkCFFxoLp"
+      },
+      "artists": [
+        {
+          "name": "Tom Bailey",
+          "url": "https://open.spotify.com/artist/2oazmaA42Jf78TZeTsUIDU"
+        }
+      ],
+      "duration_ms": 232200,
+      "name": "The Way You Make Me Feel",
+      "url": "https://open.spotify.com/track/5d7TnPB7XplPTFV919uXYv"
     },
     {
       "added_at": "2026-03-03 17:21:11",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2026-03-03 17:21:11",
       "album": {
-        "name": "Bell Bottom Blues",
-        "url": "https://open.spotify.com/album/3dvynRPvKrgZWuNHzhzQ55"
-      },
-      "artists": [
-        {
-          "name": "Wesley Schultz",
-          "url": "https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX"
-        }
-      ],
-      "duration_ms": 218893,
-      "name": "Bell Bottom Blues",
-      "url": "https://open.spotify.com/track/2bo2FJBYgcNCfs2NZcVZuN"
-    },
-    {
-      "added_at": "2026-03-03 17:21:11",
-      "album": {
         "name": "Here Comes Your Man",
         "url": "https://open.spotify.com/album/7amyXS0aB3cRAmgVii9MMK"
       },
@@ -1535,6 +1519,22 @@
     {
       "added_at": "2026-03-03 17:21:11",
       "album": {
+        "name": "Bell Bottom Blues",
+        "url": "https://open.spotify.com/album/3dvynRPvKrgZWuNHzhzQ55"
+      },
+      "artists": [
+        {
+          "name": "Wesley Schultz",
+          "url": "https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX"
+        }
+      ],
+      "duration_ms": 218893,
+      "name": "Bell Bottom Blues",
+      "url": "https://open.spotify.com/track/2bo2FJBYgcNCfs2NZcVZuN"
+    },
+    {
+      "added_at": "2026-03-03 17:21:11",
+      "album": {
         "name": "Born To Run",
         "url": "https://open.spotify.com/album/6JTj9IVdUqDd39M7UZLfGX"
       },
@@ -1547,22 +1547,6 @@
       "duration_ms": 184386,
       "name": "Born To Run",
       "url": "https://open.spotify.com/track/0JHBf66hHh8N3Cj3uiTPYE"
-    },
-    {
-      "added_at": "2026-03-03 17:21:11",
-      "album": {
-        "name": "Lunafied",
-        "url": "https://open.spotify.com/album/1r5Y5fQ6X7qgnYYcRfG4Of"
-      },
-      "artists": [
-        {
-          "name": "Luna",
-          "url": "https://open.spotify.com/artist/2AACqFGo8offvHCKGvrWxq"
-        }
-      ],
-      "duration_ms": 320693,
-      "name": "Season of the Witch",
-      "url": "https://open.spotify.com/track/2GaQr1kOxgrzcfHWuDLIqu"
     },
     {
       "added_at": "2026-03-03 17:21:11",
@@ -1595,22 +1579,18 @@
     {
       "added_at": "2026-03-03 17:21:11",
       "album": {
-        "name": "When The Levee Breaks",
-        "url": "https://open.spotify.com/album/3IEVZmB4jiRhirv2VVMuSL"
+        "name": "Lunafied",
+        "url": "https://open.spotify.com/album/1r5Y5fQ6X7qgnYYcRfG4Of"
       },
       "artists": [
         {
-          "name": "Robert Plant",
-          "url": "https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y"
-        },
-        {
-          "name": "Alison Krauss",
-          "url": "https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG"
+          "name": "Luna",
+          "url": "https://open.spotify.com/artist/2AACqFGo8offvHCKGvrWxq"
         }
       ],
-      "duration_ms": 242884,
-      "name": "When The Levee Breaks",
-      "url": "https://open.spotify.com/track/5YIFfBRujaS2EwF5GCJv0u"
+      "duration_ms": 320693,
+      "name": "Season of the Witch",
+      "url": "https://open.spotify.com/track/2GaQr1kOxgrzcfHWuDLIqu"
     },
     {
       "added_at": "2026-03-03 17:21:11",
@@ -1627,6 +1607,26 @@
       "duration_ms": 210914,
       "name": "More Than This",
       "url": "https://open.spotify.com/track/7FU341yLQyBaWMWHk4hxuR"
+    },
+    {
+      "added_at": "2026-03-03 17:21:11",
+      "album": {
+        "name": "When The Levee Breaks",
+        "url": "https://open.spotify.com/album/3IEVZmB4jiRhirv2VVMuSL"
+      },
+      "artists": [
+        {
+          "name": "Robert Plant",
+          "url": "https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y"
+        },
+        {
+          "name": "Alison Krauss",
+          "url": "https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG"
+        }
+      ],
+      "duration_ms": 242884,
+      "name": "When The Levee Breaks",
+      "url": "https://open.spotify.com/track/5YIFfBRujaS2EwF5GCJv0u"
     },
     {
       "added_at": "2026-03-03 17:21:11",

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1BkowoKkLINp2xB2EQKAKG">Dorothy Fields</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-72 songs - 3 hr 25 min
+73 songs - 3 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,8 @@
 | [My Personal Property](https://open.spotify.com/track/1kFjd8pEF6h7Cu2LHTcvGT) | [Sammy Davis Jr.](https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D) | [I've Gotta Be Me](https://open.spotify.com/album/1DNtn7Fsu6oxk4rhPktUma) | 2:26 | 2024-07-26 |  |
 | [Nobody Does It Like Me](https://open.spotify.com/track/6VOlq6d5FTCG8NsEIIBzkD) | [Soundtrack/Cast Album](https://open.spotify.com/artist/56E5XajgEQr7pQNK4C10RF) | [Seesaw \- Music By Cy Coleman; Lyrics By Dorothy Fields](https://open.spotify.com/album/1IKUwKTuLihCE8tFk8eJdp) | 2:10 | 2024-07-26 |  |
 | [On The Sunny Side Of The Street \- Remastered](https://open.spotify.com/track/6Q4m72Zmjc28NUgqOTcBoT) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Come Swing With Me! \(Remastered\)](https://open.spotify.com/album/4iKRtw8U5nIwGP1A5TBevR) | 2:42 | 2026-02-12 |  |
-| [Pick Yourself Up](https://open.spotify.com/track/14gEDPQtsTcbZOWs7EXg4V) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7), [George Shearing](https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn) | [Nat King Cole Sings George Shearing Plays](https://open.spotify.com/album/4jBiAQDfhcRFyH52ry6rZr) | 3:11 | 2024-07-26 |  |
+| [Pick Yourself Up](https://open.spotify.com/track/4v6UlOv5BNgXeVA44DYAbC) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [When I Look In Your Eyes](https://open.spotify.com/album/6NqwpeiAjwYAppRNA7F3yD) | 3:01 | 2026-05-01 |  |
+| [Pick Yourself Up](https://open.spotify.com/track/14gEDPQtsTcbZOWs7EXg4V) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7), [George Shearing](https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn) | [Nat King Cole Sings George Shearing Plays](https://open.spotify.com/album/4jBiAQDfhcRFyH52ry6rZr) | 3:11 | 2024-07-26 | 2026-05-02 |
 | [Pink Taffeta Sample Size 10](https://open.spotify.com/track/7xm3CNFW6dOfLdZIT8myJu) | [Sylvia Syms](https://open.spotify.com/artist/3U3Pzj2ZtG3hOSd4iDaqsT) | [Lovingly](https://open.spotify.com/album/4VppiWo9CeOdL26mEdsdHH) | 4:13 | 2024-07-26 |  |
 | [Poor Everybody Else](https://open.spotify.com/track/07z4OnLBzX8sBdAfrGAX4U) | [Soundtrack/Cast Album](https://open.spotify.com/artist/56E5XajgEQr7pQNK4C10RF) | [Seesaw \- Music By Cy Coleman; Lyrics By Dorothy Fields](https://open.spotify.com/album/1IKUwKTuLihCE8tFk8eJdp) | 2:51 | 2024-07-26 |  |
 | [Porgy And Bess: Overture](https://open.spotify.com/track/159pOXfbpvaeyjsxKM37i6) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Porgy And Bess](https://open.spotify.com/album/1vvnTmmNWnGmqvVFjVIINf) | 10:50 | 2024-07-26 |  |

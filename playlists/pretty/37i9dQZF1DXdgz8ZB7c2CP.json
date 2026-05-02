@@ -1,13 +1,161 @@
 {
-  "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a> \ud83c\udf17 featuring Fabian Mazur & Snavs",
-  "num_followers": 844529,
+  "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a> \ud83e\uddd1\u200d\ud83e\ude70 featuring jigitz",
+  "num_followers": 844561,
   "original_name": "creamy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALBK2ncTY6vkPH3CJAVYtVPpIPxt",
+  "snapshot_id": "AAAAAAuiCKz6OtLt8rdggbqB4yOb4XVC",
   "tracks": [
+    {
+      "added_at": "2026-04-24 04:02:20",
+      "album": {
+        "name": "car crash",
+        "url": "https://open.spotify.com/album/1lP8AhonyWZZKNgnEcjSV0"
+      },
+      "artists": [
+        {
+          "name": "jigitz",
+          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
+        },
+        {
+          "name": "Charlotte Plank",
+          "url": "https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO"
+        }
+      ],
+      "duration_ms": 160626,
+      "name": "car crash",
+      "url": "https://open.spotify.com/track/47z8JPQCgjtRcFqt1kUyoA"
+    },
+    {
+      "added_at": "2026-01-16 19:10:38",
+      "album": {
+        "name": "Runaway",
+        "url": "https://open.spotify.com/album/2614C9Zlno0BXCSO0KokfL"
+      },
+      "artists": [
+        {
+          "name": "Jkyl & Hyde",
+          "url": "https://open.spotify.com/artist/23AH13eC6V0NB0QCkV6206"
+        }
+      ],
+      "duration_ms": 185142,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/6cl01mVeSioV2jTHRcGe0l"
+    },
+    {
+      "added_at": "2026-03-27 04:00:17",
+      "album": {
+        "name": "Overkill (Dance Remix)",
+        "url": "https://open.spotify.com/album/26l7zXHw6BafV3xu5FCBio"
+      },
+      "artists": [
+        {
+          "name": "Lamb",
+          "url": "https://open.spotify.com/artist/6mzQRecVBUMepkVGAhn6io"
+        },
+        {
+          "name": "Badger",
+          "url": "https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3"
+        }
+      ],
+      "duration_ms": 154596,
+      "name": "Overkill - Dance Remix",
+      "url": "https://open.spotify.com/track/1qbBwytmeuiZTxm1APaVcn"
+    },
+    {
+      "added_at": "2026-05-01 04:02:39",
+      "album": {
+        "name": "Gloss (feat. y3kfae)",
+        "url": "https://open.spotify.com/album/1oJVbraMcDsSslBon72fUP"
+      },
+      "artists": [
+        {
+          "name": "Daniel Allan",
+          "url": "https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra"
+        },
+        {
+          "name": "y3kfae",
+          "url": "https://open.spotify.com/artist/1JJj74IKp1MHqtxuVz3ZXP"
+        }
+      ],
+      "duration_ms": 112325,
+      "name": "Gloss (feat. y3kfae)",
+      "url": "https://open.spotify.com/track/6Q7WM5xVcgXIy9qd41EqyZ"
+    },
+    {
+      "added_at": "2026-04-17 04:04:00",
+      "album": {
+        "name": "Eyes Cut Deeper (feat. In\u00e9z)",
+        "url": "https://open.spotify.com/album/2g487gVxjRBjBwhMVJ4Ldn"
+      },
+      "artists": [
+        {
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        },
+        {
+          "name": "In\u00e9z",
+          "url": "https://open.spotify.com/artist/6zBax4hSAI1BJYgwF61EP5"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Eyes Cut Deeper (feat. In\u00e9z)",
+      "url": "https://open.spotify.com/track/3E8WZzcp6nscGt9YvBX9MW"
+    },
+    {
+      "added_at": "2026-05-01 04:02:39",
+      "album": {
+        "name": "don't call",
+        "url": "https://open.spotify.com/album/3dnnal8WQr4Vcq7u0gRMx9"
+      },
+      "artists": [
+        {
+          "name": "bufr.",
+          "url": "https://open.spotify.com/artist/3hPYq7lt8frN2XwFbFQWI5"
+        }
+      ],
+      "duration_ms": 110139,
+      "name": "don't call",
+      "url": "https://open.spotify.com/track/6p0HlaC4VdYZGxew0OLBP7"
+    },
+    {
+      "added_at": "2026-03-20 15:46:35",
+      "album": {
+        "name": "TAKIN PICTURES",
+        "url": "https://open.spotify.com/album/3mWmTY0nqpjXBsOtemOAVC"
+      },
+      "artists": [
+        {
+          "name": "MAYV",
+          "url": "https://open.spotify.com/artist/2YIJohIuJuZhepoKOaO0yt"
+        }
+      ],
+      "duration_ms": 171696,
+      "name": "TAKIN PICTURES",
+      "url": "https://open.spotify.com/track/2Z0VrKLEa761B4pKJJFgJW"
+    },
+    {
+      "added_at": "2026-04-24 04:02:20",
+      "album": {
+        "name": "wakeup(crazy) [feat. Angst]",
+        "url": "https://open.spotify.com/album/7lm1i1YAKTD4La9WRkGXak"
+      },
+      "artists": [
+        {
+          "name": "Juelz",
+          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
+        },
+        {
+          "name": "Angst",
+          "url": "https://open.spotify.com/artist/1nFcEfO5iLptFlrBCiDztw"
+        }
+      ],
+      "duration_ms": 195517,
+      "name": "wakeup(crazy) [feat. Angst]",
+      "url": "https://open.spotify.com/track/3IR1kOzcLjPbSipZyp1o30"
+    },
     {
       "added_at": "2026-04-24 04:02:20",
       "album": {
@@ -33,136 +181,24 @@
       "url": "https://open.spotify.com/track/6PuGfVM0DCgX04vyZ2RFwz"
     },
     {
-      "added_at": "2026-01-16 19:10:38",
+      "added_at": "2026-05-01 04:02:39",
       "album": {
-        "name": "Runaway",
-        "url": "https://open.spotify.com/album/2614C9Zlno0BXCSO0KokfL"
+        "name": "Do It",
+        "url": "https://open.spotify.com/album/35CJIlK6xiJeBKL5Aourb5"
       },
       "artists": [
         {
-          "name": "Jkyl & Hyde",
-          "url": "https://open.spotify.com/artist/23AH13eC6V0NB0QCkV6206"
-        }
-      ],
-      "duration_ms": 185142,
-      "name": "Runaway",
-      "url": "https://open.spotify.com/track/6cl01mVeSioV2jTHRcGe0l"
-    },
-    {
-      "added_at": "2026-04-24 04:02:20",
-      "album": {
-        "name": "Feelin' This Way",
-        "url": "https://open.spotify.com/album/4Yz7yqvMw1zmB6vjj1hce8"
-      },
-      "artists": [
-        {
-          "name": "Brookes Brothers",
-          "url": "https://open.spotify.com/artist/2FPeVdIIXD9Wb9Kbn1Hyz6"
+          "name": "Phrva",
+          "url": "https://open.spotify.com/artist/2gUjbFSv34ZRVw5qkwKTO7"
         },
         {
-          "name": "Danny Byrd",
-          "url": "https://open.spotify.com/artist/7iczgrgAFILjQVGzLsUzbG"
+          "name": "Jiqui",
+          "url": "https://open.spotify.com/artist/4Kf9ZowsOBySwBkaUNh2ut"
         }
       ],
-      "duration_ms": 270455,
-      "name": "Feelin' This Way",
-      "url": "https://open.spotify.com/track/5INHtXHAYKhHurNAM2DMjT"
-    },
-    {
-      "added_at": "2026-03-27 04:00:17",
-      "album": {
-        "name": "Overkill (Dance Remix)",
-        "url": "https://open.spotify.com/album/26l7zXHw6BafV3xu5FCBio"
-      },
-      "artists": [
-        {
-          "name": "Lamb",
-          "url": "https://open.spotify.com/artist/6mzQRecVBUMepkVGAhn6io"
-        },
-        {
-          "name": "Badger",
-          "url": "https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3"
-        }
-      ],
-      "duration_ms": 154596,
-      "name": "Overkill - Dance Remix",
-      "url": "https://open.spotify.com/track/1qbBwytmeuiZTxm1APaVcn"
-    },
-    {
-      "added_at": "2026-04-24 04:02:20",
-      "album": {
-        "name": "wakeup(crazy) [feat. Angst]",
-        "url": "https://open.spotify.com/album/7lm1i1YAKTD4La9WRkGXak"
-      },
-      "artists": [
-        {
-          "name": "Juelz",
-          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
-        },
-        {
-          "name": "Angst",
-          "url": "https://open.spotify.com/artist/1nFcEfO5iLptFlrBCiDztw"
-        }
-      ],
-      "duration_ms": 195517,
-      "name": "wakeup(crazy) [feat. Angst]",
-      "url": "https://open.spotify.com/track/3IR1kOzcLjPbSipZyp1o30"
-    },
-    {
-      "added_at": "2026-04-17 04:04:00",
-      "album": {
-        "name": "Eyes Cut Deeper (feat. In\u00e9z)",
-        "url": "https://open.spotify.com/album/2g487gVxjRBjBwhMVJ4Ldn"
-      },
-      "artists": [
-        {
-          "name": "Subtronics",
-          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
-        },
-        {
-          "name": "In\u00e9z",
-          "url": "https://open.spotify.com/artist/6zBax4hSAI1BJYgwF61EP5"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Eyes Cut Deeper (feat. In\u00e9z)",
-      "url": "https://open.spotify.com/track/3E8WZzcp6nscGt9YvBX9MW"
-    },
-    {
-      "added_at": "2026-04-24 04:02:20",
-      "album": {
-        "name": "car crash",
-        "url": "https://open.spotify.com/album/1lP8AhonyWZZKNgnEcjSV0"
-      },
-      "artists": [
-        {
-          "name": "jigitz",
-          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
-        },
-        {
-          "name": "Charlotte Plank",
-          "url": "https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO"
-        }
-      ],
-      "duration_ms": 160626,
-      "name": "car crash",
-      "url": "https://open.spotify.com/track/47z8JPQCgjtRcFqt1kUyoA"
-    },
-    {
-      "added_at": "2026-03-20 15:46:35",
-      "album": {
-        "name": "TAKIN PICTURES",
-        "url": "https://open.spotify.com/album/3mWmTY0nqpjXBsOtemOAVC"
-      },
-      "artists": [
-        {
-          "name": "MAYV",
-          "url": "https://open.spotify.com/artist/2YIJohIuJuZhepoKOaO0yt"
-        }
-      ],
-      "duration_ms": 171696,
-      "name": "TAKIN PICTURES",
-      "url": "https://open.spotify.com/track/2Z0VrKLEa761B4pKJJFgJW"
+      "duration_ms": 178285,
+      "name": "Do It",
+      "url": "https://open.spotify.com/track/2QVDRuSI5SWMmmQBdSAUYy"
     },
     {
       "added_at": "2026-04-10 04:03:08",
@@ -219,6 +255,30 @@
       "duration_ms": 218181,
       "name": "Shining",
       "url": "https://open.spotify.com/track/3Jfh9DydVhNpob2rYxbtOD"
+    },
+    {
+      "added_at": "2026-05-01 04:02:39",
+      "album": {
+        "name": "BEAUTIFUL COLORS",
+        "url": "https://open.spotify.com/album/7kr0ghVL1UPK98LX7hOnJw"
+      },
+      "artists": [
+        {
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+        },
+        {
+          "name": "Big Gigantic",
+          "url": "https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r"
+        },
+        {
+          "name": "Evalyn",
+          "url": "https://open.spotify.com/artist/68WwJXWrpo1yVOOIZjLSeT"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "BEAUTIFUL COLORS",
+      "url": "https://open.spotify.com/track/7dcWYju9Kv7WpdNx3oTi8L"
     },
     {
       "added_at": "2026-04-10 04:03:08",
@@ -383,6 +443,26 @@
     {
       "added_at": "2026-04-24 04:02:20",
       "album": {
+        "name": "Feelin' This Way",
+        "url": "https://open.spotify.com/album/4Yz7yqvMw1zmB6vjj1hce8"
+      },
+      "artists": [
+        {
+          "name": "Brookes Brothers",
+          "url": "https://open.spotify.com/artist/2FPeVdIIXD9Wb9Kbn1Hyz6"
+        },
+        {
+          "name": "Danny Byrd",
+          "url": "https://open.spotify.com/artist/7iczgrgAFILjQVGzLsUzbG"
+        }
+      ],
+      "duration_ms": 270455,
+      "name": "Feelin' This Way",
+      "url": "https://open.spotify.com/track/5INHtXHAYKhHurNAM2DMjT"
+    },
+    {
+      "added_at": "2026-04-24 04:02:20",
+      "album": {
         "name": "HOUDINI",
         "url": "https://open.spotify.com/album/2NWnBiOCWHTJMn84rOQnSz"
       },
@@ -427,6 +507,46 @@
       "duration_ms": 116691,
       "name": "KILL EM WITH THE",
       "url": "https://open.spotify.com/track/5xiyaIuaorB1QzpemFKvD1"
+    },
+    {
+      "added_at": "2026-05-01 04:02:39",
+      "album": {
+        "name": "close your eyes",
+        "url": "https://open.spotify.com/album/1YuOYJ7WHrrX889nLy70Xb"
+      },
+      "artists": [
+        {
+          "name": "k?d",
+          "url": "https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf"
+        },
+        {
+          "name": "Jazara",
+          "url": "https://open.spotify.com/artist/7didXxc5oXHa2VLDXPxNag"
+        }
+      ],
+      "duration_ms": 234666,
+      "name": "close your eyes",
+      "url": "https://open.spotify.com/track/0GY3VN7i3hElhqhIqSHKQi"
+    },
+    {
+      "added_at": "2026-05-01 04:02:39",
+      "album": {
+        "name": "Everything For You",
+        "url": "https://open.spotify.com/album/58ZrfiPUYFvExKFhG9zlym"
+      },
+      "artists": [
+        {
+          "name": "Khamsin",
+          "url": "https://open.spotify.com/artist/3SArT8JtWehqNmycXIZren"
+        },
+        {
+          "name": "purpl",
+          "url": "https://open.spotify.com/artist/0qLq938YLoXapahHpnzVSO"
+        }
+      ],
+      "duration_ms": 116000,
+      "name": "Everything For You",
+      "url": "https://open.spotify.com/track/0qox46l3lrHNQHvazjSjYJ"
     },
     {
       "added_at": "2026-01-16 19:10:38",
@@ -989,42 +1109,6 @@
       "url": "https://open.spotify.com/track/115vPHfuBdih0Mbu09a7V5"
     },
     {
-      "added_at": "2026-04-03 04:37:00",
-      "album": {
-        "name": "lmk",
-        "url": "https://open.spotify.com/album/0jXllH4l79vW3QJFQODJal"
-      },
-      "artists": [
-        {
-          "name": "juuku",
-          "url": "https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl"
-        }
-      ],
-      "duration_ms": 155833,
-      "name": "lmk",
-      "url": "https://open.spotify.com/track/7i1qaIN30H4yoOTJKeqFoQ"
-    },
-    {
-      "added_at": "2026-04-10 04:03:08",
-      "album": {
-        "name": "Prediction Affliction",
-        "url": "https://open.spotify.com/album/5s736AwUUpc1a65IvdCf1b"
-      },
-      "artists": [
-        {
-          "name": "Leotrix",
-          "url": "https://open.spotify.com/artist/3mVL1qynaYs31rgyDTytkS"
-        },
-        {
-          "name": "Dassim",
-          "url": "https://open.spotify.com/artist/4xQmnt9Hb7O21o31jkS8Sg"
-        }
-      ],
-      "duration_ms": 185142,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/5IAgFwzXYCSxoHKS0SdvjW"
-    },
-    {
       "added_at": "2026-02-20 05:00:53",
       "album": {
         "name": "ON MY OWN",
@@ -1055,22 +1139,6 @@
       "duration_ms": 208005,
       "name": "Asking 4",
       "url": "https://open.spotify.com/track/4qOY0IbeP5l2GaL7r2a4g1"
-    },
-    {
-      "added_at": "2026-03-13 04:00:47",
-      "album": {
-        "name": "How I Feel",
-        "url": "https://open.spotify.com/album/3rcamD8ni3II0ZyEQonm66"
-      },
-      "artists": [
-        {
-          "name": "Montell2099",
-          "url": "https://open.spotify.com/artist/47MGg5VHBSS5yHRuMGt6b0"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "How I Feel",
-      "url": "https://open.spotify.com/track/19nkBDPqRSsd2N1z8iqSLv"
     },
     {
       "added_at": "2026-03-06 05:00:25",
@@ -1151,26 +1219,6 @@
       "duration_ms": 216976,
       "name": "Wanted",
       "url": "https://open.spotify.com/track/5QGbeS1xV5JGXv8VPAy0rL"
-    },
-    {
-      "added_at": "2026-02-13 05:00:47",
-      "album": {
-        "name": "Moonglade Park",
-        "url": "https://open.spotify.com/album/4wkiD8YFP3BFJRiyAcFZut"
-      },
-      "artists": [
-        {
-          "name": "Of The Trees",
-          "url": "https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c"
-        },
-        {
-          "name": "Sophie Marks",
-          "url": "https://open.spotify.com/artist/6spwry8r7pCSX6cY2Y7bSk"
-        }
-      ],
-      "duration_ms": 339333,
-      "name": "I See A Fire",
-      "url": "https://open.spotify.com/track/0vDo2dD4qWyZ3ulNaydHLx"
     },
     {
       "added_at": "2026-03-06 05:00:25",
@@ -1255,26 +1303,6 @@
       "duration_ms": 208378,
       "name": "Innuendo (I Get U)",
       "url": "https://open.spotify.com/track/1D84CoKziCbQw6NWVxorq4"
-    },
-    {
-      "added_at": "2026-02-27 05:00:26",
-      "album": {
-        "name": "Touch",
-        "url": "https://open.spotify.com/album/6S19rfBuAOHCkUkk9pYtCv"
-      },
-      "artists": [
-        {
-          "name": "Aures",
-          "url": "https://open.spotify.com/artist/39xkt555pu4TqjWuwdDl3E"
-        },
-        {
-          "name": "NOGE",
-          "url": "https://open.spotify.com/artist/4X6TZPjwVwLKCjLdnRX5NI"
-        }
-      ],
-      "duration_ms": 244965,
-      "name": "Touch",
-      "url": "https://open.spotify.com/track/4kBK0q8pXP41R1GczinXq9"
     },
     {
       "added_at": "2026-02-20 05:00:53",
@@ -1703,26 +1731,6 @@
       "duration_ms": 217000,
       "name": "Always",
       "url": "https://open.spotify.com/track/5BAmp1eGsIdMCL3CvE5IXB"
-    },
-    {
-      "added_at": "2026-02-06 05:00:48",
-      "album": {
-        "name": "Talk About It",
-        "url": "https://open.spotify.com/album/5iKZvUKvmB4aBQu5YRrVff"
-      },
-      "artists": [
-        {
-          "name": "Fabian Mazur",
-          "url": "https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG"
-        },
-        {
-          "name": "Snavs",
-          "url": "https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM"
-        }
-      ],
-      "duration_ms": 142500,
-      "name": "Talk About It",
-      "url": "https://open.spotify.com/track/0VSHd6qTcMaBg2wXfCoHDJ"
     },
     {
       "added_at": "2026-01-30 05:01:12",

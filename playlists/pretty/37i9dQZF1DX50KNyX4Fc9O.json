@@ -1,6 +1,6 @@
 {
   "description": "Keep your finger on the pulse of pop. Cover: Jack Gray",
-  "num_followers": 130490,
+  "num_followers": 130501,
   "original_name": "Pop n' Fresh",
   "owner": {
     "name": "Spotify",
@@ -519,6 +519,22 @@
       "duration_ms": 174222,
       "name": "I LIKE IT",
       "url": "https://open.spotify.com/track/55tsXXzVHZGpKTe885hbei"
+    },
+    {
+      "added_at": "2026-04-30 18:55:11",
+      "album": {
+        "name": "Do Me Right",
+        "url": "https://open.spotify.com/album/66WDukXJAZwF71EeVW64rJ"
+      },
+      "artists": [
+        {
+          "name": "MR. FANTASY",
+          "url": "https://open.spotify.com/artist/34te8NejkffLcYjn9kiAiH"
+        }
+      ],
+      "duration_ms": 250471,
+      "name": "Do Me Right",
+      "url": "https://open.spotify.com/track/0ATVg2CdySLs6ruXm6D6hr"
     },
     {
       "added_at": "2026-04-30 18:55:11",

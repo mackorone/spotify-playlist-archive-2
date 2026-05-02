@@ -10702,7 +10702,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 169000,
       "name": "No Laughing Matter",
       "url": "https://open.spotify.com/track/5pK31mO2YGqgJ4B1vcOgET"
@@ -13520,6 +13520,24 @@
       "duration_ms": 250290,
       "name": "Shadow Work",
       "url": "https://open.spotify.com/track/69MmMIiowe4ZK1wu9dX1yc"
+    },
+    {
+      "album": {
+        "name": "Shake",
+        "url": "https://open.spotify.com/album/7JdbsYo6DFOfMTrBZS0wUL"
+      },
+      "artists": [
+        {
+          "name": "Sully",
+          "url": "https://open.spotify.com/artist/1bFUHThVEOIixkg7pKJ6VK"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166665,
+      "name": "Shake",
+      "url": "https://open.spotify.com/track/6L9dTqUK7bDCTHkLoi6GkS"
     },
     {
       "album": {

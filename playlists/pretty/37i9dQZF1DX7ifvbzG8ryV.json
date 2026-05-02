@@ -1,13 +1,117 @@
 {
-  "description": "From the LGBTQIA+ songwriters that make the music happen. This month's cover: Harry Paynter",
-  "num_followers": 5463,
+  "description": "From the LGBTQIA+ songwriters that make the music happen. This month's cover: <a href=\"spotify:playlist:37i9dQZF1DZ06evO4xDYrO\">Luca Eck</a>",
+  "num_followers": 5466,
   "original_name": "GLOW Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAACnpj2Jco7YB+yf0LhlHm7cew8T",
+  "snapshot_id": "AAAAAP1k7xmbByOWbIz8vpiaXrJgQs3d",
   "tracks": [
+    {
+      "added_at": "2026-05-01 04:00:39",
+      "album": {
+        "name": "hypnotic",
+        "url": "https://open.spotify.com/album/2DSQ0te0oy0njroeUylqyu"
+      },
+      "artists": [
+        {
+          "name": "Cannelle",
+          "url": "https://open.spotify.com/artist/0wBhtCF5VHSgXPGm7xfDtg"
+        },
+        {
+          "name": "RADA",
+          "url": "https://open.spotify.com/artist/4Mt29F9smgR7ghycaf5fI5"
+        }
+      ],
+      "duration_ms": 139636,
+      "name": "hypnotic",
+      "url": "https://open.spotify.com/track/4jai4V2swDZweF6fl36jVV"
+    },
+    {
+      "added_at": "2026-05-01 04:00:39",
+      "album": {
+        "name": "U&ME",
+        "url": "https://open.spotify.com/album/3dY9oVxZ48j0pMXdZMisf7"
+      },
+      "artists": [
+        {
+          "name": "Six Sex",
+          "url": "https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr"
+        },
+        {
+          "name": "Dauner",
+          "url": "https://open.spotify.com/artist/2E5bmPbkiGhZ3ZK798zFIb"
+        },
+        {
+          "name": "Luca Eck",
+          "url": "https://open.spotify.com/artist/7FvEqUihbJfx5vpfGd1OLz"
+        }
+      ],
+      "duration_ms": 159402,
+      "name": "U&ME",
+      "url": "https://open.spotify.com/track/6NbXVdpQep2wNcmVzWYOSt"
+    },
+    {
+      "added_at": "2026-05-01 04:00:39",
+      "album": {
+        "name": "Fake Designer Bitch",
+        "url": "https://open.spotify.com/album/5hCQ243LVAFWKqK7i0IfTg"
+      },
+      "artists": [
+        {
+          "name": "Miss Bashful",
+          "url": "https://open.spotify.com/artist/5skHU2PrWHKFfSTpq9y56C"
+        },
+        {
+          "name": "CHRIST DILLINGER",
+          "url": "https://open.spotify.com/artist/5wtRHmD5xeAYuwxiteR5t3"
+        },
+        {
+          "name": "Luca Eck",
+          "url": "https://open.spotify.com/artist/7FvEqUihbJfx5vpfGd1OLz"
+        }
+      ],
+      "duration_ms": 187086,
+      "name": "Fake Designer Bitch",
+      "url": "https://open.spotify.com/track/00qZqbXKAiR9TAQyW7FTPx"
+    },
+    {
+      "added_at": "2026-05-01 04:00:39",
+      "album": {
+        "name": "THONG",
+        "url": "https://open.spotify.com/album/0vVInRXzDq970OkAn1GMZg"
+      },
+      "artists": [
+        {
+          "name": "AMARA ctk100",
+          "url": "https://open.spotify.com/artist/6g40AmE4t6z5wPuFbytdsy"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "THONG",
+      "url": "https://open.spotify.com/track/5r1D9DtMEElNntJiidxjHG"
+    },
+    {
+      "added_at": "2026-05-01 04:00:39",
+      "album": {
+        "name": "boy you turn me",
+        "url": "https://open.spotify.com/album/0yYcF3WuWkHIYpsyWUpRfA"
+      },
+      "artists": [
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        },
+        {
+          "name": "Cascada",
+          "url": "https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp"
+        }
+      ],
+      "duration_ms": 192331,
+      "name": "boy you turn me",
+      "url": "https://open.spotify.com/track/5xM6Saib7CixujU8BFW2eN"
+    },
     {
       "added_at": "2026-04-03 17:39:53",
       "album": {
@@ -791,98 +895,6 @@
       "duration_ms": 255586,
       "name": "Forest",
       "url": "https://open.spotify.com/track/30mNJGEEHxCMJxGVor9zTc"
-    },
-    {
-      "added_at": "2026-04-03 17:39:53",
-      "album": {
-        "name": "American Spirit: The Last Drag",
-        "url": "https://open.spotify.com/album/5hSvIpAkDp9nH2ER2vUoXP"
-      },
-      "artists": [
-        {
-          "name": "Fancy Hagood",
-          "url": "https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF"
-        },
-        {
-          "name": "Michelle Branch",
-          "url": "https://open.spotify.com/artist/5rScKX1Sh1U67meeUyTGwk"
-        }
-      ],
-      "duration_ms": 213830,
-      "name": "Isn\u2019t That Life",
-      "url": "https://open.spotify.com/track/1iIRaQjzWaDql3e52JNWU9"
-    },
-    {
-      "added_at": "2026-04-03 17:39:53",
-      "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 181080,
-      "name": "Low",
-      "url": "https://open.spotify.com/track/2GAhgAjOhEmItWLfgisyOn"
-    },
-    {
-      "added_at": "2026-04-03 17:39:53",
-      "album": {
-        "name": "HEROES & VILLAINS",
-        "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
-      },
-      "artists": [
-        {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        },
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        }
-      ],
-      "duration_ms": 168920,
-      "name": "On Time (with John Legend)",
-      "url": "https://open.spotify.com/track/0YFqKxV9uNu6LUeYkLOKRS"
-    },
-    {
-      "added_at": "2026-04-03 17:39:53",
-      "album": {
-        "name": "HEAVY",
-        "url": "https://open.spotify.com/album/26678sDHO3Xg8g6q3Fo1WX"
-      },
-      "artists": [
-        {
-          "name": "SiR",
-          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 184888,
-      "name": "IGNORANT",
-      "url": "https://open.spotify.com/track/01gpd8j9gKFtLFfoZOaIms"
-    },
-    {
-      "added_at": "2026-04-03 17:39:53",
-      "album": {
-        "name": "The Giver",
-        "url": "https://open.spotify.com/album/7GicDmV1udDFss8K0QY1v1"
-      },
-      "artists": [
-        {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        }
-      ],
-      "duration_ms": 202768,
-      "name": "The Giver",
-      "url": "https://open.spotify.com/track/5xHgo5JN0wfsV41HnRaos5"
     }
   ],
   "unique_name": "GLOW Songwriters",

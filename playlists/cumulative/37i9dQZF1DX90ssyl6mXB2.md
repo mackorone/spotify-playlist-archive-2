@@ -2,9 +2,9 @@
 
 ### [DND.](https://open.spotify.com/playlist/37i9dQZF1DX90ssyl6mXB2)
 
-> late night vibes – notifications off\. cover: Don Toliver
+> late night vibes – notifications off\. cover: Isaiah Kaleo
 
-326 songs - 15 hr 0 min
+328 songs - 15 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Bad Bchs](https://open.spotify.com/track/5LyklsZHoMhct1WaX7DGhV) | [Artie J](https://open.spotify.com/artist/1DUdW31m7wIqrcSYTaT4zp) | [Bad Bchs](https://open.spotify.com/album/1T1T3ftHa3uSa2CISNnIaD) | 2:38 | 2024-02-02 | 2025-09-20 |
 | [Be Your Man](https://open.spotify.com/track/6Y8fg2jrxBDzMijRIUCSoL) | [Isco Cruz](https://open.spotify.com/artist/3SUjoT9mCuAOBjAYVtzB9b) | [BYM / FLL](https://open.spotify.com/album/7xVSUkpX7nyID4dYBWGNa3) | 2:46 | 2024-10-18 | 2025-12-13 |
 | [Belong to the City](https://open.spotify.com/track/5c3luoCub1Z1Gg74NdNtuq) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR TWO](https://open.spotify.com/album/1xwhNJCfTwuRia7Cpo7IbJ) | 1:38 | 2024-02-02 |  |
-| [Bet](https://open.spotify.com/track/0enY45J98M1RzRd01DaQDP) | [Pimmie](https://open.spotify.com/artist/30AbYddXmSkDXhnW6lB0ll) | [Don’t Come Home](https://open.spotify.com/album/36ROdch6cCh1N0doNGFKQo) | 2:02 | 2026-03-13 |  |
+| [Bet](https://open.spotify.com/track/0enY45J98M1RzRd01DaQDP) | [Pimmie](https://open.spotify.com/artist/30AbYddXmSkDXhnW6lB0ll) | [Don’t Come Home](https://open.spotify.com/album/36ROdch6cCh1N0doNGFKQo) | 2:02 | 2026-03-13 | 2026-05-02 |
 | [Blame U](https://open.spotify.com/track/6F5oCt8Y9I96qiJyXVHl83) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Lustropolis](https://open.spotify.com/album/4mFLlS3vDHSxAtnLRMmOrq) | 2:49 | 2024-11-15 |  |
 | [blind side](https://open.spotify.com/track/15YcOL6ddhowfTU165l46C) | [Tyde](https://open.spotify.com/artist/72uF0XGKFzegXDiUcUwwM1) | [kame 'n left](https://open.spotify.com/album/0y4FkBE422R6D9C5VWeEh7) | 2:56 | 2024-10-18 |  |
 | [BLUSH](https://open.spotify.com/track/2SijVGKbuJtVcifspmfthM) | [Samuel Petra](https://open.spotify.com/artist/4nU8lYVaehPFBOgeZcIZr3) | [BLUSH](https://open.spotify.com/album/2IhUGTXGBSgQr9VDOQ5n1K) | 1:46 | 2024-08-30 | 2025-11-08 |
@@ -52,6 +52,7 @@
 | [Burnout \(feat\. Bun B\)](https://open.spotify.com/track/5iUi6YOwdomq32Mb7NqyR9) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs), [Bun B](https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO) | [Burnout \(feat\. Bun B\)](https://open.spotify.com/album/2Zah0QAuMPidjOXuGrQyWE) | 2:46 | 2025-08-08 | 2026-04-18 |
 | [BUTTERFLIES](https://open.spotify.com/track/0quwQM9YgpwBsNnCyZ8aaA) | [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT), [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum) | [LUCKY ME](https://open.spotify.com/album/5vmtaTVrBuTpRnRgLWKcCP) | 2:43 | 2024-10-18 | 2025-11-08 |
 | [C.G.E.](https://open.spotify.com/track/4OzCgOuJgrfqaPWGIZkQlu) | [NateTaylorr](https://open.spotify.com/artist/6FaeHLNz3ISxqrVJCprURb), [Flyy Armani](https://open.spotify.com/artist/1zpQUYwOMrhBBHfzgdr2n9), [Cheyanne](https://open.spotify.com/artist/7MyeL5jQbjxa25kBHiYz10) | [C.G.E.](https://open.spotify.com/album/4biTgC8YhL1o6llmh7osdD) | 3:04 | 2025-06-20 |  |
+| [Call Me When You Can](https://open.spotify.com/track/6AODvwD0OtfmsZJKiU6ptW) | [Pimmie](https://open.spotify.com/artist/30AbYddXmSkDXhnW6lB0ll) | [Don’t Come Home](https://open.spotify.com/album/36ROdch6cCh1N0doNGFKQo) | 2:11 | 2026-05-01 |  |
 | [Cannonball \(feat\. Don Toliver\)](https://open.spotify.com/track/57yu1WujridphAAkPgpkhC) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Cannonball \(feat\. Don Toliver\)](https://open.spotify.com/album/3bUCIjSqiFKhRGAnb59VC8) | 2:02 | 2025-07-25 | 2026-04-18 |
 | [cdg.wav](https://open.spotify.com/track/5ALKIpWqLIYSo7GZoB41nW) | [Kelz2busy](https://open.spotify.com/artist/7rk80kubaj220eDZQvFYU6) | [cdg.wav](https://open.spotify.com/album/5G8ojetyWQ1ZQLkcDBSL2B) | 2:21 | 2024-03-22 | 2025-11-08 |
 | [Ciao!](https://open.spotify.com/track/0oMlowcYGs70fDAfRf8eKJ) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Bryson Tiller](https://open.spotify.com/album/0frVQ5nctt6zS9ZR1g5HMX) | 2:05 | 2024-04-05 | 2024-11-02 |
@@ -166,6 +167,7 @@
 | [lame](https://open.spotify.com/track/34wbAs21eGvtDENb3h0QEn) | [Tyde](https://open.spotify.com/artist/72uF0XGKFzegXDiUcUwwM1) | [lame](https://open.spotify.com/album/3uUsEtTwHfAud7DVXuNjIF) | 2:22 | 2025-10-10 | 2025-11-08 |
 | [LASERS](https://open.spotify.com/track/2vjFTjmvpFjFM01cNdG2ik) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 3:18 | 2025-02-14 | 2025-09-20 |
 | [Late Nite Slider Music](https://open.spotify.com/track/1D4VYPt5J1znGmzeMGgHHx) | [Karri](https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME) | [Late Nite Slider Music](https://open.spotify.com/album/3xhkpLspxHrvkZQ9nPUTJZ) | 3:13 | 2024-11-22 | 2025-09-20 |
+| [lead me on](https://open.spotify.com/track/0JxPtwbOOU2SQNjQZU3zAW) | [Isaiah Kaleo](https://open.spotify.com/artist/13b0dupEOyYPm8dZqbqtb5), [ROME](https://open.spotify.com/artist/4hrz9OhxBfTmyNTZmqxm2q) | [lead me on](https://open.spotify.com/album/0su818CRHaJGnAdmfFb7k0) | 3:39 | 2026-05-01 |  |
 | [Let it Go](https://open.spotify.com/track/3VRHouNm2rxSWm8IThc5YF) | [Reuben Aziz](https://open.spotify.com/artist/7si4D4nUA1Z9WKUV58hhnh) | [Let it Go](https://open.spotify.com/album/670MmC6oFMJXOzKPQyWR7p) | 2:36 | 2024-11-08 |  |
 | [Let Me Down Slow](https://open.spotify.com/track/01Posy6lTFjJShK8UffWi9) | [Zacari](https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI) | [Let Me Down Slow](https://open.spotify.com/album/51cYBBrQJNRTpwFXzxg7Pi) | 2:32 | 2025-06-27 |  |
 | [Let Me Go](https://open.spotify.com/track/3KSy31qPrTqOcPXnebceQN) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Let Me Go](https://open.spotify.com/album/27csXPVTW3PLguY6vbGoH7) | 2:20 | 2024-04-19 | 2025-11-08 |

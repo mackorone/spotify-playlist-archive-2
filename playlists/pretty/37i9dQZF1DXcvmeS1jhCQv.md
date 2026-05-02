@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvmeS1jhCQv.md) - [plain]
 
 > New tunes from Ireland for your discovery\. Cover: F3miii
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,752 likes - 70 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,798 likes - 70 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvmeS1jhCQv.md) - [plain]
 | 69 | [Moved On](https://open.spotify.com/track/1j7tAy1YjVd5pNwQDqU9pc) | [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp) | [Moved On](https://open.spotify.com/album/3hzx6bvmFZq9GQGFu4bNWT) | 1:51 |
 | 70 | [Incandescent](https://open.spotify.com/track/6m7qDYkdwKaSyMe3jwhGas) | [Ezra Williams](https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48) | [Incandescent](https://open.spotify.com/album/09ZJJ4mzhrjpIcdWSnTktx) | 3:07 |
 
-Snapshot ID: `AAAAAAXkSu6dYKiobtydbV6/K6WZPasc`
+Snapshot ID: `AAAAAIq7uFqX73o5QaRscPfw6zVyy3TO`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-24",
-  "description": "Lo m\u00e1s fresco de los corridones. EL DE LA TINTA, Angel Cervantes, Sahir Montoya en portada.",
+  "description": "Lo m\u00e1s fresco de los corridones. Chuy Montana en portada.",
   "name": "Corridos 2026",
   "tracks": [
     {
@@ -5445,6 +5445,24 @@
     },
     {
       "album": {
+        "name": "STAR",
+        "url": "https://open.spotify.com/album/5YH266XRF5JlrgqzvwIiGX"
+      },
+      "artists": [
+        {
+          "name": "Tombochio",
+          "url": "https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184320,
+      "name": "COMO MI AP\u00c1",
+      "url": "https://open.spotify.com/track/3Ji32OMnLSkWcxTg8eL6VU"
+    },
+    {
+      "album": {
         "name": "Como Pancho Villa",
         "url": "https://open.spotify.com/album/7tTzvgXlpz8SjQMe89ZEob"
       },
@@ -6640,6 +6658,32 @@
       "duration_ms": 151946,
       "name": "De LM a GVE",
       "url": "https://open.spotify.com/track/2qHfvwACkkNTFFPOyLPoma"
+    },
+    {
+      "album": {
+        "name": "De Los Dientes Pa Fuera",
+        "url": "https://open.spotify.com/album/3rGviY23qfCvsHXiauzv19"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres Del Barranco",
+          "url": "https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        },
+        {
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168664,
+      "name": "De Los Dientes Pa Fuera",
+      "url": "https://open.spotify.com/track/6U4MQb60Hkvv4ZS2Qwg3Lo"
     },
     {
       "album": {
@@ -7843,6 +7887,24 @@
     },
     {
       "album": {
+        "name": "AFTERAFTER",
+        "url": "https://open.spotify.com/album/5SF4i0tWsZqNQ8wymtauRZ"
+      },
+      "artists": [
+        {
+          "name": "Clave Especial",
+          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162415,
+      "name": "EA EA EA",
+      "url": "https://open.spotify.com/track/4tz67i4hMleL46wToRT1Ak"
+    },
+    {
+      "album": {
         "name": "East LA",
         "url": "https://open.spotify.com/album/6JlC1SjixfN5Vhz3LbrQWt"
       },
@@ -8402,6 +8464,24 @@
       "duration_ms": 222743,
       "name": "EL AGUACATE",
       "url": "https://open.spotify.com/track/55mYirvdiqvqyqqyoN2u5s"
+    },
+    {
+      "album": {
+        "name": "EL AJEDREZ",
+        "url": "https://open.spotify.com/album/4pIS2Rz7K1RklXRjpurjw3"
+      },
+      "artists": [
+        {
+          "name": "Ra\u00fal Beltran",
+          "url": "https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200160,
+      "name": "EL AJEDREZ",
+      "url": "https://open.spotify.com/track/3HanlVK75Ufrp19iUUNJ7b"
     },
     {
       "album": {
@@ -13155,6 +13235,24 @@
     },
     {
       "album": {
+        "name": "El Monstruo Mexicano",
+        "url": "https://open.spotify.com/album/3n9rUwPpVN8jSMWB6P2wLL"
+      },
+      "artists": [
+        {
+          "name": "Anakin Larios",
+          "url": "https://open.spotify.com/artist/4odik7BzbLv2khRorJG2Lh"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201515,
+      "name": "El Monstruo Mexicano",
+      "url": "https://open.spotify.com/track/7gum3gJdoxhHQHd6oIJxgO"
+    },
+    {
+      "album": {
         "name": "El More\u00f1o (En Vivo)",
         "url": "https://open.spotify.com/album/1HKHwVUcfGBs8ByW06cNOf"
       },
@@ -13516,6 +13614,24 @@
       "duration_ms": 351627,
       "name": "El NI\u00d1O INFELIZ",
       "url": "https://open.spotify.com/track/7l9fieU5w29DyKrHOgAWkn"
+    },
+    {
+      "album": {
+        "name": "El Ni\u00f1o Sicario",
+        "url": "https://open.spotify.com/album/0W5kQdEH12c6YAjoCYse2K"
+      },
+      "artists": [
+        {
+          "name": "El De Las R's",
+          "url": "https://open.spotify.com/artist/6LRccuxVVYoqRQif85sG9j"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263111,
+      "name": "El Ni\u00f1o Sicario",
+      "url": "https://open.spotify.com/track/1bDQbuDh588gw9zxRaQzWI"
     },
     {
       "album": {
@@ -15983,6 +16099,28 @@
     },
     {
       "album": {
+        "name": "En La Monta\u00f1a",
+        "url": "https://open.spotify.com/album/7bjL6OcyAcozeOwwBNCfUc"
+      },
+      "artists": [
+        {
+          "name": "Nueva H",
+          "url": "https://open.spotify.com/artist/0AY6tq934rmw7zSFRl6e6S"
+        },
+        {
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143031,
+      "name": "En La Monta\u00f1a",
+      "url": "https://open.spotify.com/track/3Yv8rH6g6OElRW8dLyLN9q"
+    },
+    {
+      "album": {
         "name": "En La Nube",
         "url": "https://open.spotify.com/album/3Yp5rJMjwdlHTb2AFjgIyZ"
       },
@@ -16311,6 +16449,24 @@
     },
     {
       "album": {
+        "name": "Entre Hierba, Polvo Y Plomo",
+        "url": "https://open.spotify.com/album/0P8AeewF82Wz5Kyet1oVwY"
+      },
+      "artists": [
+        {
+          "name": "Sahir Montoya",
+          "url": "https://open.spotify.com/artist/7x5TwK8zGLmVk8k8zIEIrX"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207250,
+      "name": "Entre Hierba, Polvo Y Plomo",
+      "url": "https://open.spotify.com/track/2qjxDegrKCtS7754yRnpA3"
+    },
+    {
+      "album": {
         "name": "Entre las sombras",
         "url": "https://open.spotify.com/album/3xp9sk81bQeCvXLsBGNGAB"
       },
@@ -16420,6 +16576,28 @@
       "duration_ms": 257812,
       "name": "Entre Pl\u00e1ticas y Dudas - En Vivo",
       "url": "https://open.spotify.com/track/2ET3m3fQV47RK29sS2xSph"
+    },
+    {
+      "album": {
+        "name": "Entre Ranchos",
+        "url": "https://open.spotify.com/album/3rxF6iIyXXO2rIWUnOgcWw"
+      },
+      "artists": [
+        {
+          "name": "JR Dominguez",
+          "url": "https://open.spotify.com/artist/3JjJR6WCS72ccKfkLzXaAC"
+        },
+        {
+          "name": "Clase Personal",
+          "url": "https://open.spotify.com/artist/3kDOmAncFcuVzkQBY6zevg"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187178,
+      "name": "Entre Ranchos",
+      "url": "https://open.spotify.com/track/3KnLCs9QhSlhex5tbvOk3y"
     },
     {
       "album": {
@@ -17134,6 +17312,24 @@
       "duration_ms": 304553,
       "name": "Fiesta En La Sierra - En Vivo",
       "url": "https://open.spotify.com/track/0c3DUDq57IkEAx39hxbzul"
+    },
+    {
+      "album": {
+        "name": "Fin De Semana",
+        "url": "https://open.spotify.com/album/1GBuuYtkHBUXxY2j1XrLff"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180197,
+      "name": "Fin De Semana",
+      "url": "https://open.spotify.com/track/4N5Qpos9bnbTFOXHBHANJQ"
     },
     {
       "album": {
@@ -22325,6 +22521,46 @@
     },
     {
       "album": {
+        "name": "La Soluci\u00f3n",
+        "url": "https://open.spotify.com/album/19E4ufXA3L3OWneXKxqSSC"
+      },
+      "artists": [
+        {
+          "name": "Grupo Clasificado",
+          "url": "https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9"
+        },
+        {
+          "name": "Grupo Maximo Grado",
+          "url": "https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146474,
+      "name": "La Soluci\u00f3n",
+      "url": "https://open.spotify.com/track/7My7ANjRIKAcoavRGchP25"
+    },
+    {
+      "album": {
+        "name": "La Sombra Del Se\u00f1or",
+        "url": "https://open.spotify.com/album/49TJy3BEEXR4GHRMrF1PIT"
+      },
+      "artists": [
+        {
+          "name": "Ian Cordova",
+          "url": "https://open.spotify.com/artist/69DtJEq8LQ02KB06wynzuh"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192168,
+      "name": "La Sombra Del Se\u00f1or",
+      "url": "https://open.spotify.com/track/724dIJhrcAv5vOtQuDsm4w"
+    },
+    {
+      "album": {
         "name": "La Sombra M\u00e1s Grande",
         "url": "https://open.spotify.com/album/0Y9WQ6UYOCGCvhbWKGXYTj"
       },
@@ -25038,6 +25274,28 @@
       "duration_ms": 151957,
       "name": "Mala Leche",
       "url": "https://open.spotify.com/track/2eZmL5cT6dapzGGiJURZxT"
+    },
+    {
+      "album": {
+        "name": "Mala Leche",
+        "url": "https://open.spotify.com/album/3Fy3gRGvcmmPZPexQo8tkA"
+      },
+      "artists": [
+        {
+          "name": "Herencia De Grandes",
+          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
+        },
+        {
+          "name": "Clase Personal",
+          "url": "https://open.spotify.com/artist/3kDOmAncFcuVzkQBY6zevg"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145539,
+      "name": "Mala Leche",
+      "url": "https://open.spotify.com/track/2SSy3kctsdQ7PfPRvPnsAL"
     },
     {
       "album": {
@@ -28780,7 +29038,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 165641,
       "name": "OTRO WHISKY",
       "url": "https://open.spotify.com/track/5TWvv3OwTeMkzSt038TBxB"
@@ -29836,6 +30094,24 @@
       "duration_ms": 159786,
       "name": "Polvo Rosita",
       "url": "https://open.spotify.com/track/2wFr4kDAHG9Q3BeetDRpqU"
+    },
+    {
+      "album": {
+        "name": "Polvos De Colores",
+        "url": "https://open.spotify.com/album/6vNpRan7GWQcaVWrsapMOp"
+      },
+      "artists": [
+        {
+          "name": "Chuy Montana",
+          "url": "https://open.spotify.com/artist/12KipYva9312KrSBekytFE"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144821,
+      "name": "Polvos De Colores",
+      "url": "https://open.spotify.com/track/3cvLKaix1M4N7HPlXWibtJ"
     },
     {
       "album": {
@@ -32298,6 +32574,24 @@
       "duration_ms": 177044,
       "name": "Sencillito Y Serenito",
       "url": "https://open.spotify.com/track/5KbFSWl5CJ1CtV7Tq95xlp"
+    },
+    {
+      "album": {
+        "name": "Ser Como Soy",
+        "url": "https://open.spotify.com/album/6bsxKsZXYkRgSc8WTFo9f1"
+      },
+      "artists": [
+        {
+          "name": "Los Hnos Rodriguez",
+          "url": "https://open.spotify.com/artist/4pLBsWSdyApz2k5JtPnmGU"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187817,
+      "name": "Ser Como Soy",
+      "url": "https://open.spotify.com/track/1ohkmxIuzVWCs7sHvSSG62"
     },
     {
       "album": {
@@ -34778,6 +35072,28 @@
       "duration_ms": 192463,
       "name": "Traigo Una 40",
       "url": "https://open.spotify.com/track/0R0PKsDGwRX4uU2T5rTbKw"
+    },
+    {
+      "album": {
+        "name": "TRAJE DIOR",
+        "url": "https://open.spotify.com/album/0AeunG5npw5Yj62RWOBON7"
+      },
+      "artists": [
+        {
+          "name": "Agushto Papa",
+          "url": "https://open.spotify.com/artist/1v04yGSzSyXhmxR1SD5hfS"
+        },
+        {
+          "name": "Los Ahijados 815",
+          "url": "https://open.spotify.com/artist/3OdLrpXRZN2cy2I9B19gPY"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116033,
+      "name": "TRAJE DIOR",
+      "url": "https://open.spotify.com/track/562ELgkIE21EumNa5u2PMK"
     },
     {
       "album": {

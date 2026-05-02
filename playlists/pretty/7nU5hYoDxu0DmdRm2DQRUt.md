@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/7nU5hYoDxu0DmdRm2DQRUt.md) - [plain]
 
 > New Arrivals keeps you posted on the latest records arriving in our record store and online shop &\#x2F; kompakt.fm
 
-[Kompakt Records](https://open.spotify.com/user/kompaktrecords) - 7,949 likes - 231 songs - 21 hr 25 min
+[Kompakt Records](https://open.spotify.com/user/kompaktrecords) - 7,953 likes - 231 songs - 21 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Rivers and Homes Retake \- Edit](https://open.spotify.com/track/27yxfXtOHaPkytNz0P2HoL) | [Adam Ten](https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S), [J.Views](https://open.spotify.com/artist/54l5FjSx6OSPe2Qv9g4LjQ) | [Rivers and Homes Retake](https://open.spotify.com/album/2E2yEEkQgFrHpYubtzTICD) | 4:25 |
+| 1 | [Rivers and Homes Retake](https://open.spotify.com/track/27yxfXtOHaPkytNz0P2HoL) | [Adam Ten](https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S), [J.Views](https://open.spotify.com/artist/54l5FjSx6OSPe2Qv9g4LjQ) | [Rivers and Homes Retake](https://open.spotify.com/album/2E2yEEkQgFrHpYubtzTICD) | 4:25 |
 | 2 | [Phobia \- Original](https://open.spotify.com/track/4PAOF7C1H3Viy5ekCn3w4V) | [Joachim Spieth](https://open.spotify.com/artist/2EwAX9aQZtKjs0EmZ1LrQJ) | [Lurk](https://open.spotify.com/album/2wIOfIOoEi1t3HVYeTMhmZ) | 6:29 |
 | 3 | [Dominus](https://open.spotify.com/track/000cvWxObL9QPOqGwKOpD4) | [Parallel 9](https://open.spotify.com/artist/5VWshOLeHwzhDjFl3HrbMG) | [Dominus](https://open.spotify.com/album/36rHlMdZnjAc7bp2NHaddG) | 7:45 |
 | 4 | [Virton](https://open.spotify.com/track/4qH4qZnaKhucSVKh9KiVun) | [Ignacio](https://open.spotify.com/artist/1nROvklQGtPA1ZssB6OJMb) | [Virton](https://open.spotify.com/album/77pz7iks2dLTGM7qg6myug) | 8:17 |

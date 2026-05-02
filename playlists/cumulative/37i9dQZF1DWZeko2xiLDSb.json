@@ -434,7 +434,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 223207,
       "name": "Challenger",
       "url": "https://open.spotify.com/track/18E1JTva63dkwEtgRSQiEp"
@@ -1186,6 +1186,24 @@
       "duration_ms": 211140,
       "name": "Heart To Heart",
       "url": "https://open.spotify.com/track/7EAMXbLcL0qXmciM5SwMh2"
+    },
+    {
+      "album": {
+        "name": "I Can Wonder What You Did With Your Day",
+        "url": "https://open.spotify.com/album/6L9fsxsnt4HjSMjBY7NHzn"
+      },
+      "artists": [
+        {
+          "name": "Julie Doiron",
+          "url": "https://open.spotify.com/artist/1sjeOeIPG7quxVgmNspYyT"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180253,
+      "name": "Heavy Snow",
+      "url": "https://open.spotify.com/track/4KkTT6zm7CIYIPUIceNtgM"
     },
     {
       "album": {

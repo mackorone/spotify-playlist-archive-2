@@ -2,7 +2,7 @@
 
 ### [Country Gold](https://open.spotify.com/playlist/37i9dQZF1DWYnwbYQ5HnZU)
 
-> Spotify country fan favorites\. Cover: Brothers Osborne
+> Spotify country fan favorites\. Cover: Jon Pardi
 
 242 songs - 13 hr 53 min
 

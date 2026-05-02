@@ -2092,7 +2092,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-25",
+      "date_removed": null,
       "duration_ms": 247980,
       "name": "Beatriz",
       "url": "https://open.spotify.com/track/3RDv5uDgHJS8wBdPkoCXUF"
@@ -2294,6 +2294,24 @@
       "duration_ms": 169842,
       "name": "Bigode",
       "url": "https://open.spotify.com/track/38RpsPwe9sEDzldwBWsMUg"
+    },
+    {
+      "album": {
+        "name": "Thriller",
+        "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293802,
+      "name": "Billie Jean",
+      "url": "https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj"
     },
     {
       "album": {
@@ -2568,7 +2586,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 199379,
       "name": "Calcinha de Renda - Ao Vivo",
       "url": "https://open.spotify.com/track/2a9WkloaIu64sryr4JTdTi"
@@ -3222,7 +3240,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 131555,
       "name": "Choka Choka",
       "url": "https://open.spotify.com/track/5WNTWK6ISkfnkth9JwxvCp"
@@ -6634,7 +6652,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-28",
+      "date_removed": null,
       "duration_ms": 179504,
       "name": "Ilus\u00e3o De \u00d3tica - Ao Vivo",
       "url": "https://open.spotify.com/track/44CTudFZ0kbaIF9n0jk7oU"
@@ -8068,7 +8086,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 146708,
       "name": "Meia Noite",
       "url": "https://open.spotify.com/track/0PdE8XqWrtlWxDG8FEjvy0"
@@ -9558,10 +9576,32 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 135925,
       "name": "N\u00e3o Namora - Ao Vivo",
       "url": "https://open.spotify.com/track/1YyQcX3oM8YsMTKeYFpoKx"
+    },
+    {
+      "album": {
+        "name": "Por Voc\u00eas (Vol. 1) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/1DhyCGWTjpk2WX7DaBJek2"
+      },
+      "artists": [
+        {
+          "name": "Clayton & Rom\u00e1rio",
+          "url": "https://open.spotify.com/artist/1tKrZaph4cLsnEdqC5BNEQ"
+        },
+        {
+          "name": "Z\u00e9 Neto & Cristiano",
+          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135925,
+      "name": "N\u00e3o Namora - Ao Vivo",
+      "url": "https://open.spotify.com/track/7DO7aEQDT3nqPOHlyrFB7X"
     },
     {
       "album": {
@@ -11032,6 +11072,36 @@
       "duration_ms": 187562,
       "name": "Posturado E Calmo",
       "url": "https://open.spotify.com/track/15nTZqWfpXZk9Xh043Ognh"
+    },
+    {
+      "album": {
+        "name": "Pra N\u00e3o Esquecer De Mim",
+        "url": "https://open.spotify.com/album/0Kb7GeuzMK4sS45zb3O06h"
+      },
+      "artists": [
+        {
+          "name": "Aaron Modesto",
+          "url": "https://open.spotify.com/artist/48yaM25WLHmQZXx5NN3DYH"
+        },
+        {
+          "name": "Mc Magal",
+          "url": "https://open.spotify.com/artist/2FDaBZt51fOXh2rbHL8Afr"
+        },
+        {
+          "name": "MC Meno K",
+          "url": "https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK"
+        },
+        {
+          "name": "DJ Glenner",
+          "url": "https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192755,
+      "name": "Pra N\u00e3o Esquecer De Mim",
+      "url": "https://open.spotify.com/track/7dLw4FM0rYgwJEzkbwRVr1"
     },
     {
       "album": {
@@ -12520,7 +12590,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 192034,
       "name": "Seja Ex (Ao Vivo)",
       "url": "https://open.spotify.com/track/5jP9oqulg2Dz6yLwLYj5KO"
@@ -14260,7 +14330,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 156923,
       "name": "Toma Gostosona",
       "url": "https://open.spotify.com/track/7G8V8LiyyqwzSlsQLiaitN"
@@ -15182,7 +15252,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-25",
+      "date_removed": null,
       "duration_ms": 335999,
       "name": "Vai Tomando Pock Pock",
       "url": "https://open.spotify.com/track/2WYuivMCuOQbxhaatuWUCN"

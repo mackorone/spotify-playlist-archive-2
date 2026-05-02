@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2025-11-29",
-  "description": "With Yeat, Cuo Zay, Autumn! and more",
+  "description": "With Cuo Zay, Yeat, Autumn! and more",
   "name": "Taewitdak Radio",
   "tracks": [
+    {
+      "album": {
+        "name": "Therapeutic Deluxe (2nd Session)",
+        "url": "https://open.spotify.com/album/4RrFwR4RBdpchZbu34MwHn"
+      },
+      "artists": [
+        {
+          "name": "$t3PPA",
+          "url": "https://open.spotify.com/artist/3YkoJWMGUpspkflqRt8xUU"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112616,
+      "name": "21 Years (2nd Session)",
+      "url": "https://open.spotify.com/track/59aWOlDOMAjKAPELfEqqTh"
+    },
     {
       "album": {
         "name": "2much (YCO Jay Remix)",
@@ -354,6 +372,24 @@
       "duration_ms": 138310,
       "name": "Barney",
       "url": "https://open.spotify.com/track/3Z1MunMxvhyk6l36QiyTop"
+    },
+    {
+      "album": {
+        "name": "Barricade Tape",
+        "url": "https://open.spotify.com/album/5mzcsXGpcKTzuoHc6VHYC4"
+      },
+      "artists": [
+        {
+          "name": "Cuo Zay",
+          "url": "https://open.spotify.com/artist/6yFzNwvuceOObkopessurR"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108158,
+      "name": "Barricade Tape",
+      "url": "https://open.spotify.com/track/3JAv0p8M0kPoyOIZnMt9Ou"
     },
     {
       "album": {
@@ -1431,6 +1467,28 @@
     },
     {
       "album": {
+        "name": "Blak Amerika 0.5",
+        "url": "https://open.spotify.com/album/5vhfiGkD34WJLIhV65PK1L"
+      },
+      "artists": [
+        {
+          "name": "LOOK KILLA",
+          "url": "https://open.spotify.com/artist/4VJIWtFR6cPbxNSWEgkqxf"
+        },
+        {
+          "name": "user00xman",
+          "url": "https://open.spotify.com/artist/4YkU1TtBH2NqSJC7QQzaQj"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144055,
+      "name": "Hannah Montana",
+      "url": "https://open.spotify.com/track/2JegRQblXBHcGA6oGpoxrn"
+    },
+    {
+      "album": {
         "name": "Hardy Boyz (feat. Bloodhound Lil Jeff)",
         "url": "https://open.spotify.com/album/3tzKkC8md0MnmsWVAcFhhz"
       },
@@ -2244,7 +2302,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 109652,
       "name": "MORDERMAND",
       "url": "https://open.spotify.com/track/6necwqqASlZrchrUAUI02Y"
@@ -2328,6 +2386,24 @@
       "duration_ms": 125860,
       "name": "Neck",
       "url": "https://open.spotify.com/track/7cf1ajZuGKZA0tj7RxB8xs"
+    },
+    {
+      "album": {
+        "name": "SKURF'd UP",
+        "url": "https://open.spotify.com/album/01q9AI0Pg94t9bK96yGLik"
+      },
+      "artists": [
+        {
+          "name": "Oodaredevil",
+          "url": "https://open.spotify.com/artist/1yj1u1EEoD0kmQuthHP6nf"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133391,
+      "name": "NEED DAT",
+      "url": "https://open.spotify.com/track/0CkmV66jmr4APBOJlG6e3h"
     },
     {
       "album": {
@@ -2898,7 +2974,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-12",
+      "date_removed": null,
       "duration_ms": 212088,
       "name": "Purple Moncler",
       "url": "https://open.spotify.com/track/3PlxIlMXqw04F45yHM13mw"
@@ -2916,7 +2992,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 96666,
       "name": "racist",
       "url": "https://open.spotify.com/track/2E9IBpAAmVJ4TT0qEs5yln"
@@ -3318,7 +3394,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 156815,
       "name": "Straight Forward",
       "url": "https://open.spotify.com/track/5QFebQipvG6fMprVVWlmvo"
@@ -3348,7 +3424,7 @@
       ],
       "date_added": "2026-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 120963,
       "name": "Strawberry Rum",
       "url": "https://open.spotify.com/track/6bhhgoqvwKpjMgGlQdggxa"
@@ -3688,7 +3764,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 211931,
       "name": "Trifling",
       "url": "https://open.spotify.com/track/3wMUXSD6foKvnl9asEbEA4"

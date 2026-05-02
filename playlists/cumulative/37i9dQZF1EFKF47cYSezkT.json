@@ -673,6 +673,24 @@
     },
     {
       "album": {
+        "name": "Off Hours",
+        "url": "https://open.spotify.com/album/6i9BLGR16gdGMCJGpN8clh"
+      },
+      "artists": [
+        {
+          "name": "SOYOU",
+          "url": "https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Girl",
+      "url": "https://open.spotify.com/track/4vKESbCDvQW5Ih9JZ3Erzt"
+    },
+    {
+      "album": {
         "name": "Go",
         "url": "https://open.spotify.com/album/27P7sXxqMPDsX9fypwvIg3"
       },

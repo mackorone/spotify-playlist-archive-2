@@ -2087,6 +2087,24 @@
     },
     {
       "album": {
+        "name": "circus act",
+        "url": "https://open.spotify.com/album/5yIZmrKdiKg2ZO7vXxwnbF"
+      },
+      "artists": [
+        {
+          "name": "Le Youth",
+          "url": "https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235023,
+      "name": "circus act",
+      "url": "https://open.spotify.com/track/79uww3T09nEeA4eGzdM4yx"
+    },
+    {
+      "album": {
         "name": "Close To The Sun",
         "url": "https://open.spotify.com/album/5ErVm5hwFMNbF8eWWQz4EL"
       },
@@ -4410,7 +4428,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 132396,
       "name": "haunted",
       "url": "https://open.spotify.com/track/5G1DsGxeQDFwTz0GzcOBtj"
@@ -4516,7 +4534,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 273442,
       "name": "Heal",
       "url": "https://open.spotify.com/track/5NX2oe1rMMAprjsbKbWEGS"
@@ -7868,6 +7886,24 @@
       "duration_ms": 291461,
       "name": "Metropolis (feat. NATURE)",
       "url": "https://open.spotify.com/track/2eisqIatF58br1F2BA6b3N"
+    },
+    {
+      "album": {
+        "name": "HOME WAS ALWAYS ME",
+        "url": "https://open.spotify.com/album/3LjjkS2s2b2RdluM00NWLD"
+      },
+      "artists": [
+        {
+          "name": "WHIPPED CREAM",
+          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137538,
+      "name": "midnight moon",
+      "url": "https://open.spotify.com/track/5fu8pfEsXXA9mY0F9grAce"
     },
     {
       "album": {

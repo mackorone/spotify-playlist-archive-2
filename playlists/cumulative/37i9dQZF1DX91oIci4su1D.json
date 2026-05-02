@@ -5536,7 +5536,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 203928,
       "name": "Deep Shadow",
       "url": "https://open.spotify.com/track/2eNLBMdI2bfkRxB8Lb5l9f"
@@ -10949,6 +10949,32 @@
     },
     {
       "album": {
+        "name": "How Do We Know",
+        "url": "https://open.spotify.com/album/1yvUoAtQCOSTmRi7NazEPt"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Ottaviani",
+          "url": "https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv"
+        },
+        {
+          "name": "Andrew Rayel",
+          "url": "https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr"
+        },
+        {
+          "name": "Alessia Labate",
+          "url": "https://open.spotify.com/artist/3znJOYi3CDM5ZQkbo6kmjd"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186940,
+      "name": "How Do We Know",
+      "url": "https://open.spotify.com/track/4qIGGsMBScUbTodzn0k47j"
+    },
+    {
+      "album": {
         "name": "How Does It Feel",
         "url": "https://open.spotify.com/album/0rn3JcTCtYffK0hBvEvYFc"
       },
@@ -15945,6 +15971,24 @@
     },
     {
       "album": {
+        "name": "NEON DUSK PROTOCOL",
+        "url": "https://open.spotify.com/album/50vghDLBK8nJvYu5Cae1Dx"
+      },
+      "artists": [
+        {
+          "name": "SUPERSTRINGS",
+          "url": "https://open.spotify.com/artist/0WDwBVGmUjf7eJUKDpecYz"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202437,
+      "name": "NEON DUSK PROTOCOL",
+      "url": "https://open.spotify.com/track/3vLLB4uWZC1xOOcyx4NlYj"
+    },
+    {
+      "album": {
         "name": "Neva Let You Go",
         "url": "https://open.spotify.com/album/5VPM2uEYCdsIrQONoeQMAL"
       },
@@ -17324,7 +17368,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 212903,
       "name": "Origins",
       "url": "https://open.spotify.com/track/7qBNcYFqCEKFsxxICaaxqO"
@@ -17468,6 +17512,24 @@
       "duration_ms": 240249,
       "name": "Our Anthem",
       "url": "https://open.spotify.com/track/26GPA87X5jDpB203bFCMW1"
+    },
+    {
+      "album": {
+        "name": "CLUB 808",
+        "url": "https://open.spotify.com/album/1NCDhhhltrJHbedPCTONge"
+      },
+      "artists": [
+        {
+          "name": "Cody Wong",
+          "url": "https://open.spotify.com/artist/67JxELHA2es0ei0TSpGoSL"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276950,
+      "name": "OUSADIA",
+      "url": "https://open.spotify.com/track/2XMS2nwo6ixbg6dNX1a2j7"
     },
     {
       "album": {
@@ -27174,7 +27236,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 158869,
       "name": "Your Fantasy",
       "url": "https://open.spotify.com/track/5dwfo5go6ijUJoTekFaI9D"

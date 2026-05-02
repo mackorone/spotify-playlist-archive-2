@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3ivSu20CWXjveS2h2qZ54K.md) - [plain]
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-[Jenesaispop](https://open.spotify.com/user/jenesaispop) - 6,883 likes - 54 songs - 2 hr 52 min
+[Jenesaispop](https://open.spotify.com/user/jenesaispop) - 6,884 likes - 54 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/3ivSu20CWXjveS2h2qZ54K.md) - [plain]
 | 43 | [melancolía](https://open.spotify.com/track/3QVpxsECaQCR1D7lM3gUHi) | [Çantamarta](https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln) | [melancolía](https://open.spotify.com/album/3oCU7COgD4FGaVOxUMgekN) | 2:57 |
 | 44 | [Acelera](https://open.spotify.com/track/075hYqnX7FLHxDX15rkVqq) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ), [María José Llergo](https://open.spotify.com/artist/70GBRlKEGjfueop2lfdQ4Q) | [People of the Moon](https://open.spotify.com/album/7b2loBX3KU66zmHk4UI30K) | 3:44 |
 | 45 | [TU PROBLEMA](https://open.spotify.com/track/6nvfYRoa8TFba7G4T8wRFg) | [Ultraligera](https://open.spotify.com/artist/5Vv5llyiK1nlME2UNDzPBB) | [TU PROBLEMA](https://open.spotify.com/album/3fFQHVyV7xs6GiusyTRavq) | 3:44 |
-| 46 | [Track 3](https://open.spotify.com/track/3Cd2ZwQy5fmrayFSMN7u8Q) | [Ivan Ferreiro](https://open.spotify.com/artist/3qUrABCNqnkb5gc2YmPVzP) | [Hoy por ayer](https://open.spotify.com/album/46B8dr0mR3NA6CKQgBOhe6) | 0:00 |
+| 46 | [Reiniciar](https://open.spotify.com/track/3Cd2ZwQy5fmrayFSMN7u8Q) | [Ivan Ferreiro](https://open.spotify.com/artist/3qUrABCNqnkb5gc2YmPVzP) | [Hoy por ayer](https://open.spotify.com/album/46B8dr0mR3NA6CKQgBOhe6) | 4:24 |
 | 47 | [Yo quiero un affaire](https://open.spotify.com/track/3z9X4FONGlgEjttQHW2gLV) | [Jimena Amarillo](https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm) | [Yo quiero un affaire](https://open.spotify.com/album/4xZJ0Ak8kZS4XdDVJOxkmj) | 3:04 |
 | 48 | [Si lo callo muero](https://open.spotify.com/track/2vQTSPelGFnyQN8OiURRxr) | [La Plazuela](https://open.spotify.com/artist/3iNrNJ38T7OEaI1UofQcIB) | [Si lo callo muero](https://open.spotify.com/album/6TzszeuDZHMyg9GBGX9Vvh) | 3:04 |
 | 49 | [Tiene Que Ser Él](https://open.spotify.com/track/2Mu8zezIpcDOGKWZx84yqi) | [NIA](https://open.spotify.com/artist/6pWfZsh4oMfM4lRITDxtfw) | [Tiene Que Ser Él](https://open.spotify.com/album/1bbYY5JTm4S0VuVyaKOBGS) | 2:40 |

@@ -1,12 +1,12 @@
 {
   "description": "Mielenkiintoisimmat biisit ensisoitossa. Kannessa Olivia Rodrigo.",
-  "num_followers": 26760,
+  "num_followers": 26763,
   "original_name": "Ensisoitossa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAC3/h2qEJU5wdacYKmAcxnHMIj9q",
+  "snapshot_id": "AAAAACawOWy7Vc5CwM5PO2TDaYgkAnb2",
   "tracks": [
     {
       "added_at": "2026-04-23 21:00:04",
@@ -455,18 +455,22 @@
     {
       "added_at": "2026-04-23 21:00:04",
       "album": {
-        "name": "Baby Blue / When It Comes To Loving You",
-        "url": "https://open.spotify.com/album/4d0QJmAw0Yjs6soAwmVyHm"
+        "name": "Liekinheitin",
+        "url": "https://open.spotify.com/album/63W9IfvbNFYvIa1zswHqvL"
       },
       "artists": [
         {
-          "name": "Cody Simpson",
-          "url": "https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K"
+          "name": "Linda Lampenius",
+          "url": "https://open.spotify.com/artist/177ZOBPSU9yqO6IdomgK3T"
+        },
+        {
+          "name": "Pete Parkkonen",
+          "url": "https://open.spotify.com/artist/7zX44fpv6srJt3HfBv0GCn"
         }
       ],
-      "duration_ms": 171630,
-      "name": "Baby Blue",
-      "url": "https://open.spotify.com/track/0zTcYZot5zfBwOQkdv02ls"
+      "duration_ms": 180479,
+      "name": "Liekinheitin",
+      "url": "https://open.spotify.com/track/0k2NxIVax5tnGSCeruFyEL"
     },
     {
       "added_at": "2026-04-23 21:00:04",
@@ -487,22 +491,18 @@
     {
       "added_at": "2026-04-23 21:00:04",
       "album": {
-        "name": "Liekinheitin",
-        "url": "https://open.spotify.com/album/63W9IfvbNFYvIa1zswHqvL"
+        "name": "Baby Blue / When It Comes To Loving You",
+        "url": "https://open.spotify.com/album/4d0QJmAw0Yjs6soAwmVyHm"
       },
       "artists": [
         {
-          "name": "Linda Lampenius",
-          "url": "https://open.spotify.com/artist/177ZOBPSU9yqO6IdomgK3T"
-        },
-        {
-          "name": "Pete Parkkonen",
-          "url": "https://open.spotify.com/artist/7zX44fpv6srJt3HfBv0GCn"
+          "name": "Cody Simpson",
+          "url": "https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K"
         }
       ],
-      "duration_ms": 180479,
-      "name": "Liekinheitin",
-      "url": "https://open.spotify.com/track/0k2NxIVax5tnGSCeruFyEL"
+      "duration_ms": 171630,
+      "name": "Baby Blue",
+      "url": "https://open.spotify.com/track/0zTcYZot5zfBwOQkdv02ls"
     },
     {
       "added_at": "2026-04-23 21:00:04",
@@ -767,22 +767,18 @@
     {
       "added_at": "2026-04-23 21:00:04",
       "album": {
-        "name": "No Haav No Love",
-        "url": "https://open.spotify.com/album/06SWD7zsvxo9yJHy50sk2q"
+        "name": "CEO (Rich Man)",
+        "url": "https://open.spotify.com/album/5WNtdO6Oog8CfGcAkh4aRy"
       },
       "artists": [
         {
-          "name": "Lauri Haav",
-          "url": "https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV"
-        },
-        {
-          "name": "Rajaton",
-          "url": "https://open.spotify.com/artist/3ZfVp9mvvJt4Zly7lxgcaR"
+          "name": "Sara Bee",
+          "url": "https://open.spotify.com/artist/5kvgJ8cZWc3pGpIHhksKTb"
         }
       ],
-      "duration_ms": 277174,
-      "name": "Monsteri (feat. Rajaton)",
-      "url": "https://open.spotify.com/track/0l9pXT5uurCBaUBjiCSwnr"
+      "duration_ms": 149634,
+      "name": "CEO (Rich Man)",
+      "url": "https://open.spotify.com/track/5zedIU1wMTkKLbHky1Twg1"
     },
     {
       "added_at": "2026-04-23 21:00:04",
@@ -807,34 +803,22 @@
     {
       "added_at": "2026-04-23 21:00:04",
       "album": {
-        "name": "CEO (Rich Man)",
-        "url": "https://open.spotify.com/album/5WNtdO6Oog8CfGcAkh4aRy"
+        "name": "No Haav No Love",
+        "url": "https://open.spotify.com/album/06SWD7zsvxo9yJHy50sk2q"
       },
       "artists": [
         {
-          "name": "Sara Bee",
-          "url": "https://open.spotify.com/artist/5kvgJ8cZWc3pGpIHhksKTb"
-        }
-      ],
-      "duration_ms": 149634,
-      "name": "CEO (Rich Man)",
-      "url": "https://open.spotify.com/track/5zedIU1wMTkKLbHky1Twg1"
-    },
-    {
-      "added_at": "2026-04-23 21:00:04",
-      "album": {
-        "name": "Syd\u00e4n on rikki",
-        "url": "https://open.spotify.com/album/5jcfKaqf0aEMasIpDoxpp2"
-      },
-      "artists": [
+          "name": "Lauri Haav",
+          "url": "https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV"
+        },
         {
-          "name": "Aliisa Syrj\u00e4",
-          "url": "https://open.spotify.com/artist/22MRXgWTSxSeQG9NLCMezd"
+          "name": "Rajaton",
+          "url": "https://open.spotify.com/artist/3ZfVp9mvvJt4Zly7lxgcaR"
         }
       ],
-      "duration_ms": 181360,
-      "name": "Syd\u00e4n on rikki",
-      "url": "https://open.spotify.com/track/4ekyr5DV8ZUBQjA25ux0co"
+      "duration_ms": 277174,
+      "name": "Monsteri (feat. Rajaton)",
+      "url": "https://open.spotify.com/track/0l9pXT5uurCBaUBjiCSwnr"
     },
     {
       "added_at": "2026-04-23 21:00:04",
@@ -859,6 +843,22 @@
       "duration_ms": 186628,
       "name": "MMG",
       "url": "https://open.spotify.com/track/78F5qg3GeuvulXePGIL3vJ"
+    },
+    {
+      "added_at": "2026-04-23 21:00:04",
+      "album": {
+        "name": "Syd\u00e4n on rikki",
+        "url": "https://open.spotify.com/album/5jcfKaqf0aEMasIpDoxpp2"
+      },
+      "artists": [
+        {
+          "name": "Aliisa Syrj\u00e4",
+          "url": "https://open.spotify.com/artist/22MRXgWTSxSeQG9NLCMezd"
+        }
+      ],
+      "duration_ms": 181360,
+      "name": "Syd\u00e4n on rikki",
+      "url": "https://open.spotify.com/track/4ekyr5DV8ZUBQjA25ux0co"
     },
     {
       "added_at": "2026-04-23 21:00:04",
@@ -935,6 +935,22 @@
     {
       "added_at": "2026-04-23 21:00:04",
       "album": {
+        "name": "SHOTIT",
+        "url": "https://open.spotify.com/album/7ICfYQtWxs54jhJ1D0qUcQ"
+      },
+      "artists": [
+        {
+          "name": "OLGA",
+          "url": "https://open.spotify.com/artist/5lrrAnWHek9LEQgB3MCfub"
+        }
+      ],
+      "duration_ms": 154659,
+      "name": "SHOTIT",
+      "url": "https://open.spotify.com/track/72S4WLsyHM9dj4eIZd3zPc"
+    },
+    {
+      "added_at": "2026-04-23 21:00:04",
+      "album": {
         "name": "Ihan kohta ohi",
         "url": "https://open.spotify.com/album/6U6Q04ZNy889fOio6lHgME"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 185920,
       "name": "Ihan kohta ohi",
       "url": "https://open.spotify.com/track/77FxknEqTRfHKO27zirjFO"
-    },
-    {
-      "added_at": "2026-04-23 21:00:04",
-      "album": {
-        "name": "SHOTIT",
-        "url": "https://open.spotify.com/album/7ICfYQtWxs54jhJ1D0qUcQ"
-      },
-      "artists": [
-        {
-          "name": "OLGA",
-          "url": "https://open.spotify.com/artist/5lrrAnWHek9LEQgB3MCfub"
-        }
-      ],
-      "duration_ms": 154659,
-      "name": "SHOTIT",
-      "url": "https://open.spotify.com/track/72S4WLsyHM9dj4eIZd3zPc"
     },
     {
       "added_at": "2026-04-23 21:00:04",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2026-04-23 21:00:04",
       "album": {
-        "name": "Kun tulee pimee",
-        "url": "https://open.spotify.com/album/11F1C9T1fQ4jxh69ThhDFt"
-      },
-      "artists": [
-        {
-          "name": "KAUKUA",
-          "url": "https://open.spotify.com/artist/1B08DZQt5VNw92l8bm8jwZ"
-        }
-      ],
-      "duration_ms": 165269,
-      "name": "Kun tulee pimee",
-      "url": "https://open.spotify.com/track/6OXlDwwI4SGHnbCbpfY6Io"
-    },
-    {
-      "added_at": "2026-04-23 21:00:04",
-      "album": {
         "name": "\u00c4l\u00e4 sano sua rumaksi",
         "url": "https://open.spotify.com/album/6Dq6bC1xg4O3awxY3xAKJc"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 153135,
       "name": "\u00c4l\u00e4 sano sua rumaksi",
       "url": "https://open.spotify.com/track/6pV8EIckMcd64Fwz0bsu6b"
+    },
+    {
+      "added_at": "2026-04-23 21:00:04",
+      "album": {
+        "name": "Kun tulee pimee",
+        "url": "https://open.spotify.com/album/11F1C9T1fQ4jxh69ThhDFt"
+      },
+      "artists": [
+        {
+          "name": "KAUKUA",
+          "url": "https://open.spotify.com/artist/1B08DZQt5VNw92l8bm8jwZ"
+        }
+      ],
+      "duration_ms": 165269,
+      "name": "Kun tulee pimee",
+      "url": "https://open.spotify.com/track/6OXlDwwI4SGHnbCbpfY6Io"
     },
     {
       "added_at": "2026-04-23 21:00:04",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2026-04-23 21:00:04",
       "album": {
-        "name": "L\u00e4nsipuoli",
-        "url": "https://open.spotify.com/album/0RJultAynFlzZXE708nEPz"
-      },
-      "artists": [
-        {
-          "name": "Pyrythekid",
-          "url": "https://open.spotify.com/artist/2HvnW7Cp9P0d3lX5HIKNXW"
-        }
-      ],
-      "duration_ms": 156250,
-      "name": "L\u00e4nsipuoli",
-      "url": "https://open.spotify.com/track/7n8Nyy6JFgXWwGSLoCVi1t"
-    },
-    {
-      "added_at": "2026-04-23 21:00:04",
-      "album": {
         "name": "Bier over hier",
         "url": "https://open.spotify.com/album/7m4dugOqXzutm1YMtWBHSl"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 179122,
       "name": "Bier over hier",
       "url": "https://open.spotify.com/track/75nsJUP0YQRaU0dOBbzAXJ"
+    },
+    {
+      "added_at": "2026-04-23 21:00:04",
+      "album": {
+        "name": "L\u00e4nsipuoli",
+        "url": "https://open.spotify.com/album/0RJultAynFlzZXE708nEPz"
+      },
+      "artists": [
+        {
+          "name": "Pyrythekid",
+          "url": "https://open.spotify.com/artist/2HvnW7Cp9P0d3lX5HIKNXW"
+        }
+      ],
+      "duration_ms": 156250,
+      "name": "L\u00e4nsipuoli",
+      "url": "https://open.spotify.com/track/7n8Nyy6JFgXWwGSLoCVi1t"
     },
     {
       "added_at": "2026-04-23 21:00:04",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2026-04-23 21:00:04",
       "album": {
-        "name": "Apnea",
-        "url": "https://open.spotify.com/album/0shNaOLJloTHlX1iDlXd7t"
-      },
-      "artists": [
-        {
-          "name": "Stam1na",
-          "url": "https://open.spotify.com/artist/41nB823nb3wxEI25UeGHqG"
-        }
-      ],
-      "duration_ms": 353915,
-      "name": "Lahja",
-      "url": "https://open.spotify.com/track/25y42iO1Bpjh3Rg1sBftzR"
-    },
-    {
-      "added_at": "2026-04-23 21:00:04",
-      "album": {
         "name": "Yhteysvikoja",
         "url": "https://open.spotify.com/album/5q6WD4dR25MUPLewM5SD0Z"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 139137,
       "name": "Yhteysvikoja",
       "url": "https://open.spotify.com/track/2LjvFtrvepZG394zVmGTqJ"
+    },
+    {
+      "added_at": "2026-04-23 21:00:04",
+      "album": {
+        "name": "Apnea",
+        "url": "https://open.spotify.com/album/0shNaOLJloTHlX1iDlXd7t"
+      },
+      "artists": [
+        {
+          "name": "Stam1na",
+          "url": "https://open.spotify.com/artist/41nB823nb3wxEI25UeGHqG"
+        }
+      ],
+      "duration_ms": 353915,
+      "name": "Lahja",
+      "url": "https://open.spotify.com/track/25y42iO1Bpjh3Rg1sBftzR"
     },
     {
       "added_at": "2026-04-23 21:00:04",

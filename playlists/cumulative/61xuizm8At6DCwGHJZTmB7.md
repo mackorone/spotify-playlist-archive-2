@@ -4,7 +4,7 @@
 
 > Top Christian Worship 2026 \| Praise and Worship with today's top Worship tracks\. From Bible study to Sunday Morning Worship\. Featuring artist's like Chris Tomlin, Kari Jobe, Cody Carnes and Tauren Wells! Soaking worship music \| Jelly Roll gospel songs \. teddy swims gospel songs jelly roll christian
 
-748 songs - 2 day 23 hr 59 min
+749 songs - 3 day 0 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -376,6 +376,7 @@
 | [Jesus Saves](https://open.spotify.com/track/5iYVUZBotocsuCDhGE9cwp) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Jesus Saves](https://open.spotify.com/album/5hktiLlQJKnUHrUOJaVznq) | 3:08 | 2025-09-05 | 2026-01-15 |
 | [Jesus Saves \(with The Birmingham Youth & Young Adult Fellowship Choir\)](https://open.spotify.com/track/3yJEDyVr6QptXTIwAZdLOD) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Birmingham Youth & Young Adult Fellowship Choir](https://open.spotify.com/artist/04ND5vIo82KiV5MBMWzVwI) | [Jesus Saves](https://open.spotify.com/album/14rWgMAATwa7uGuoCFeZwa) | 3:04 | 2026-01-09 | 2026-04-15 |
 | [Jesus The Beloved \- Live](https://open.spotify.com/track/6cFEzhqJWdz1PIp3522ZWD) | [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I), [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D), [Laura Hackett Park](https://open.spotify.com/artist/6ScYoRIa2PsNj7YZd030BV) | [I Saw The Lord \(Live\)](https://open.spotify.com/album/7Hm28jY9rPa1xCX8vpvAYw) | 9:49 | 2022-07-22 | 2023-12-14 |
+| [Joy](https://open.spotify.com/track/3ABBmyAEPeQ567PpgVxjlx) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD), [Ariel Campbell](https://open.spotify.com/artist/2JUzPjWvPNqiQmYvRYpAdX) | [Joy](https://open.spotify.com/album/5W6WSCQoQHjNgwN5EkOMY3) | 6:15 | 2026-05-01 |  |
 | [Joy \(What The World Calls Foolish\) \- Live](https://open.spotify.com/track/59XvMohAPJxOYI2qNnsJ6w) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [Martin Smith](https://open.spotify.com/artist/7ISMNhe95QNLqHgsCHAVeu) | [Crowns Down \(Live / Deluxe\)](https://open.spotify.com/album/6Mh3CQITw07mEI0JJ0YIP9) | 7:28 | 2024-03-15 | 2025-03-21 |
 | [Joy In The Morning](https://open.spotify.com/track/6VorEVnu2fEEk6dcG9vb5v) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Joy In The Morning](https://open.spotify.com/album/170FUziX94zYLzcV7arINC) | 8:48 | 2023-01-20 | 2025-03-21 |
 | [Joy Of The Lord \- Live](https://open.spotify.com/track/0zInQgPtJbNqznwPtyvliJ) | [29:11 Worship](https://open.spotify.com/artist/2PNEy4Ho4xAIAkX63GBULX), [Avery Chisenski](https://open.spotify.com/artist/5q7zA45p1JBVegMjnKIAUc) | [Joy Of The Lord \(Live\)](https://open.spotify.com/album/580aLsN0oEckC2G4yfbHSQ) | 6:01 | 2024-06-14 | 2025-03-21 |

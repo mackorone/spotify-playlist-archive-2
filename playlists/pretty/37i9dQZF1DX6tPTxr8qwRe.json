@@ -1,12 +1,12 @@
 {
   "description": "sweet. sharp. unbothered - Whee In on the cover",
-  "num_followers": 525917,
+  "num_followers": 525937,
   "original_name": "SALT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGb0AfpQxXV9D6tOOwKX5teyoMFe",
+  "snapshot_id": "AAAAADxY5V/3a4HvWmxouW5nMK7DO/UN",
   "tracks": [
     {
       "added_at": "2026-04-17 04:02:49",
@@ -25,6 +25,38 @@
       "url": "https://open.spotify.com/track/52KygGkyBwayKKdv7gDAdP"
     },
     {
+      "added_at": "2026-05-01 04:43:50",
+      "album": {
+        "name": "Ribcage",
+        "url": "https://open.spotify.com/album/50FnWAYiSqpqwXkE7aQEDt"
+      },
+      "artists": [
+        {
+          "name": "Bella Poarch",
+          "url": "https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm"
+        }
+      ],
+      "duration_ms": 180347,
+      "name": "Ribcage",
+      "url": "https://open.spotify.com/track/7d89dqmZGIqYmybxPEYywJ"
+    },
+    {
+      "added_at": "2026-05-01 04:43:50",
+      "album": {
+        "name": "Hallucination",
+        "url": "https://open.spotify.com/album/3yMcy9pftiW6sPrscdImlT"
+      },
+      "artists": [
+        {
+          "name": "Isabel LaRosa",
+          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
+        }
+      ],
+      "duration_ms": 202585,
+      "name": "Hallucination",
+      "url": "https://open.spotify.com/track/3Fcnn90rR3xPYf1yluDyhu"
+    },
+    {
       "added_at": "2026-04-24 04:01:30",
       "album": {
         "name": "BLURRY",
@@ -41,6 +73,26 @@
       "url": "https://open.spotify.com/track/445swxbKlkXgrIbRPpPYrL"
     },
     {
+      "added_at": "2026-05-01 04:43:50",
+      "album": {
+        "name": "American Apparel",
+        "url": "https://open.spotify.com/album/1PkDBmpEGEshxH1oteOZLy"
+      },
+      "artists": [
+        {
+          "name": "panicbaby",
+          "url": "https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA"
+        },
+        {
+          "name": "Baby Nova",
+          "url": "https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf"
+        }
+      ],
+      "duration_ms": 136397,
+      "name": "American Apparel",
+      "url": "https://open.spotify.com/track/1k9D2S8JBdGxrOe3UYNLCI"
+    },
+    {
       "added_at": "2026-04-03 04:02:22",
       "album": {
         "name": "Night at the Opera",
@@ -55,6 +107,22 @@
       "duration_ms": 184788,
       "name": "Night at the Opera",
       "url": "https://open.spotify.com/track/4ikhbKiw9pKYkWitSR7M7u"
+    },
+    {
+      "added_at": "2026-05-01 04:43:50",
+      "album": {
+        "name": "PRICE TAG",
+        "url": "https://open.spotify.com/album/4zLvUo0kxF4ULzX0XL3bui"
+      },
+      "artists": [
+        {
+          "name": "Sara James",
+          "url": "https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV"
+        }
+      ],
+      "duration_ms": 190660,
+      "name": "PRICE TAG",
+      "url": "https://open.spotify.com/track/6ea45jrg9LYFUapPi4B0sC"
     },
     {
       "added_at": "2026-04-17 04:02:49",
@@ -87,6 +155,22 @@
       "duration_ms": 229659,
       "name": "Lovemesick",
       "url": "https://open.spotify.com/track/49lewRjU3Hv6OfGCbEZBZN"
+    },
+    {
+      "added_at": "2026-05-01 04:43:50",
+      "album": {
+        "name": "24/7",
+        "url": "https://open.spotify.com/album/0JuwhEZwLWHXKznuby5moE"
+      },
+      "artists": [
+        {
+          "name": "Sam Short",
+          "url": "https://open.spotify.com/artist/0lhNnj2stuzFCs8ihzu0mz"
+        }
+      ],
+      "duration_ms": 133941,
+      "name": "24/7",
+      "url": "https://open.spotify.com/track/3XJseRquEY7iBYLSvDIl5Q"
     },
     {
       "added_at": "2026-04-17 04:02:49",
@@ -743,86 +827,6 @@
       "duration_ms": 179493,
       "name": "Ur Girlfriend\u2019s a Lawyer",
       "url": "https://open.spotify.com/track/0lD4Mt5cjFM6ul4NxxgFau"
-    },
-    {
-      "added_at": "2026-01-06 17:55:42",
-      "album": {
-        "name": "moisturizer",
-        "url": "https://open.spotify.com/album/3YVnHpyms4rLr3fXS0ROQy"
-      },
-      "artists": [
-        {
-          "name": "Wet Leg",
-          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
-        }
-      ],
-      "duration_ms": 204475,
-      "name": "mangetout",
-      "url": "https://open.spotify.com/track/5UW4tA4j23YL6kDfRw3rWT"
-    },
-    {
-      "added_at": "2025-11-21 05:00:31",
-      "album": {
-        "name": "HOUNDSOFHELL",
-        "url": "https://open.spotify.com/album/27hbVCgSKy5AQxv1yykYwJ"
-      },
-      "artists": [
-        {
-          "name": "Mad Tsai",
-          "url": "https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB"
-        }
-      ],
-      "duration_ms": 184559,
-      "name": "HOUNDSOFHELL",
-      "url": "https://open.spotify.com/track/0mWAqUgHBubNf7phC3hjA0"
-    },
-    {
-      "added_at": "2025-11-28 05:00:21",
-      "album": {
-        "name": "kira",
-        "url": "https://open.spotify.com/album/5rmc5LHFzb8v69KTdNfoeX"
-      },
-      "artists": [
-        {
-          "name": "Shakira Jasmine",
-          "url": "https://open.spotify.com/artist/18nKUAfNnowoqfqDhwI3X3"
-        }
-      ],
-      "duration_ms": 172263,
-      "name": "mR.mELoDramAtiC",
-      "url": "https://open.spotify.com/track/6rMO78nXjFtwI5s83OSqUb"
-    },
-    {
-      "added_at": "2025-11-28 05:00:21",
-      "album": {
-        "name": "Claws",
-        "url": "https://open.spotify.com/album/0w7WFXa2rHkGhXcfyCFSlc"
-      },
-      "artists": [
-        {
-          "name": "MAY-A",
-          "url": "https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN"
-        }
-      ],
-      "duration_ms": 167122,
-      "name": "Claws",
-      "url": "https://open.spotify.com/track/4lOAlq0GpCLH7VqlFOmCVJ"
-    },
-    {
-      "added_at": "2025-11-21 05:00:31",
-      "album": {
-        "name": "UNHINGED",
-        "url": "https://open.spotify.com/album/1HS3pbvrFKsK0pkM7UQApo"
-      },
-      "artists": [
-        {
-          "name": "Sizzy Rocket",
-          "url": "https://open.spotify.com/artist/2CBvbVxhd3ZJXRTCl88H7E"
-        }
-      ],
-      "duration_ms": 132244,
-      "name": "UNHINGED",
-      "url": "https://open.spotify.com/track/03pMmhhwBbSoUuKdGpj9PG"
     }
   ],
   "unique_name": "SALT",

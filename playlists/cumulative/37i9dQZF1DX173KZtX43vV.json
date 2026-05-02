@@ -3965,6 +3965,28 @@
     },
     {
       "album": {
+        "name": "POWERSCROFT",
+        "url": "https://open.spotify.com/album/4vRMGZDyQrJfRxkIwlnPsR"
+      },
+      "artists": [
+        {
+          "name": "IZCO",
+          "url": "https://open.spotify.com/artist/4uqqEE1NaQBAa4wnDug9c1"
+        },
+        {
+          "name": "Osquello",
+          "url": "https://open.spotify.com/artist/6ScAPpYnDsH3Cu3TKmhUJr"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281655,
+      "name": "Down 4 (feat. Osquello)",
+      "url": "https://open.spotify.com/track/2nKlFEzbCrDTgHqledJn06"
+    },
+    {
+      "album": {
         "name": "DPMO",
         "url": "https://open.spotify.com/album/3xufC9z1KXYbBVWO66rG2Y"
       },
@@ -13622,24 +13644,6 @@
       "duration_ms": 195325,
       "name": "Tough",
       "url": "https://open.spotify.com/track/5TmpaPaxP6DjvoGyets9sO"
-    },
-    {
-      "album": {
-        "name": "POWERSCROFT",
-        "url": "https://open.spotify.com/album/4vRMGZDyQrJfRxkIwlnPsR"
-      },
-      "artists": [
-        {
-          "name": "IZCO",
-          "url": "https://open.spotify.com/artist/4uqqEE1NaQBAa4wnDug9c1"
-        }
-      ],
-      "date_added": "2026-04-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 5",
-      "url": "https://open.spotify.com/track/2nKlFEzbCrDTgHqledJn06"
     },
     {
       "album": {

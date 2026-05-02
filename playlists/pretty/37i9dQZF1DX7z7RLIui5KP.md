@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7z7RLIui5KP.md) - [plain]
 
 > Proudly Kenyan gems made for the entire family\. Cover: Hildah Watiri
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,663 likes - 60 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,676 likes - 60 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7z7RLIui5KP.md) - [plain]
 | 2 | [Siaka](https://open.spotify.com/track/0aJb7gWWz2HbI0GB3kq6vP) | [Mejja](https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u), [Fik Fameica](https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5) | [Mtoto wa Khadija](https://open.spotify.com/album/2K7N2vaEzwGlz8TX91cFfn) | 2:16 |
 | 3 | [Hallelujah \(Washwash\)](https://open.spotify.com/track/4l43H3GIY1HQ9gMOArHPpj) | [Khaligraph Jones](https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az), [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE) | [Hallelujah \(Washwash\)](https://open.spotify.com/album/6Q9LLJEQ2HRWbyzJO73MER) | 4:05 |
 | 4 | [NaEnjoy](https://open.spotify.com/track/5HYDoscfBYwQhLxkMY2dXs) | [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE), [Watendawili](https://open.spotify.com/artist/0q5lwUUiJEjoNVtHQv1jdn) | [NaEnjoy](https://open.spotify.com/album/3X0ByBetVJ3YDL5tSTgjRt) | 3:30 |
-| 5 | [Track 2](https://open.spotify.com/track/5e8vMUSUiMuM7QmsEE6roD) | [Hildah Watiri](https://open.spotify.com/artist/4XTUHZbb6KmJJKUrdBAKDM) | [Watiri's Trouble](https://open.spotify.com/album/0fLdMoX6lwdeXwHOuUUj2i) | 0:00 |
+| 5 | [Pole Pole](https://open.spotify.com/track/5e8vMUSUiMuM7QmsEE6roD) | [Hildah Watiri](https://open.spotify.com/artist/4XTUHZbb6KmJJKUrdBAKDM), [FEMI ONE](https://open.spotify.com/artist/1Kg4nxeTD9wP3082jp1nkH) | [Watiri's Trouble](https://open.spotify.com/album/0fLdMoX6lwdeXwHOuUUj2i) | 2:52 |
 | 6 | [Wi Muthaka](https://open.spotify.com/track/27fREfR29KgpnCGHQa658H) | [Tuku Kantu](https://open.spotify.com/artist/4XOkxpgkjiajWy1yEb1o24), [Muthaka](https://open.spotify.com/artist/1y2NzUCGrOaUPBZhhyUPcQ) | [Wi Muthaka](https://open.spotify.com/album/5We2OdnmfsWmIa3gw4gJAj) | 3:08 |
 | 7 | [FREAKY](https://open.spotify.com/track/3BWjPv9oGKmmQxST6ygltl) | [Genes1s](https://open.spotify.com/artist/2bHzI3U1oGyLK5OvIFdq2e), [X.O](https://open.spotify.com/artist/2zu7sut23i4vR8OZPAxWyJ) | [FREAKY](https://open.spotify.com/album/0sF7WtY3jzo2CHUlNWNOsK) | 2:22 |
 | 8 | [Weche Hera](https://open.spotify.com/track/6x5w3lfCGbc7sAuJxkxoiv) | [Ila Nia](https://open.spotify.com/artist/2BlTufGgupqEM4ITQAJhAp), [Ywaya Tajiri](https://open.spotify.com/artist/6wf9RfrBquBd6Galoe5oQE) | [Weche Hera](https://open.spotify.com/album/2AiTZmeO1rUN5pHhmajOSX) | 2:32 |

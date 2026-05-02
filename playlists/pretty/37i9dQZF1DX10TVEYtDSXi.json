@@ -6,10 +6,30 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGrBN1DF9EimcmtxdfAkSVlQXCcN",
+  "snapshot_id": "AAAAABrPQ0b7sDDcSA2G74krzgFJt8qG",
   "tracks": [
     {
-      "added_at": "2026-04-23 22:01:13",
+      "added_at": "2026-05-01 20:43:28",
+      "album": {
+        "name": "Stopp",
+        "url": "https://open.spotify.com/album/0jxRKNAaXKXxE2jusA5Pfl"
+      },
+      "artists": [
+        {
+          "name": "Birnir",
+          "url": "https://open.spotify.com/artist/7FRQP6Ivwv3DQCLxpR3I6Z"
+        },
+        {
+          "name": "tatjana",
+          "url": "https://open.spotify.com/artist/291ohykNwzL3QugnbCf4Ju"
+        }
+      ],
+      "duration_ms": 190480,
+      "name": "Stopp",
+      "url": "https://open.spotify.com/track/5B6HbortdKqmO6fnR1LqSV"
+    },
+    {
+      "added_at": "2026-05-01 20:43:28",
       "album": {
         "name": "T\u00d3NLIST TIL A\u00d0 SIGRA VI\u00d0",
         "url": "https://open.spotify.com/album/2yqwaUL7NiAtvNGYRTlWCW"
@@ -29,7 +49,31 @@
       "url": "https://open.spotify.com/track/7dx6iDysKE7LuFXvXoatcr"
     },
     {
-      "added_at": "2026-04-23 22:01:13",
+      "added_at": "2026-05-01 20:43:28",
+      "album": {
+        "name": "Naggar",
+        "url": "https://open.spotify.com/album/0SMScaF88wMBN08ZGvA6vz"
+      },
+      "artists": [
+        {
+          "name": "S\u00e9ra Bj\u00f6ssi",
+          "url": "https://open.spotify.com/artist/2Gnn51iidR6UIRSFc8vkHF"
+        },
+        {
+          "name": "H\u00e1ski",
+          "url": "https://open.spotify.com/artist/4sFpLVLUs2JUcRucrWxnVE"
+        },
+        {
+          "name": "REA",
+          "url": "https://open.spotify.com/artist/2A2rwKj9sRgbaB8r3cXcFx"
+        }
+      ],
+      "duration_ms": 161133,
+      "name": "Naggar",
+      "url": "https://open.spotify.com/track/0yHR1QnAjAsSC8WAJIWXSS"
+    },
+    {
+      "added_at": "2026-05-01 20:43:28",
       "album": {
         "name": "T\u00fdnda kynsl\u00f3\u00f0in",
         "url": "https://open.spotify.com/album/3w7xfxhGm57qXcOAlClmty"
@@ -53,7 +97,7 @@
       "url": "https://open.spotify.com/track/3XggbP91AwAoSsVHpwS0FV"
     },
     {
-      "added_at": "2026-04-23 22:01:13",
+      "added_at": "2026-05-01 20:43:28",
       "album": {
         "name": "N\u00f3tt fyrir tv\u00f6",
         "url": "https://open.spotify.com/album/7yxUvKXXilACkhRV268BFP"
@@ -73,7 +117,7 @@
       "url": "https://open.spotify.com/track/260kBvXEfpfUGscmnSY787"
     },
     {
-      "added_at": "2026-04-23 22:01:13",
+      "added_at": "2026-05-01 20:43:28",
       "album": {
         "name": "MEIRA.",
         "url": "https://open.spotify.com/album/0ULKuGYiKOjKKd98bn3bgS"
@@ -97,7 +141,7 @@
       "url": "https://open.spotify.com/track/6sjvA7JuGIGDNRWDAeZhsK"
     },
     {
-      "added_at": "2026-04-23 22:01:13",
+      "added_at": "2026-05-01 20:43:28",
       "album": {
         "name": "100&EINN",
         "url": "https://open.spotify.com/album/7CPUbHHNkEsGLZ9WJ5Lq97"
@@ -117,7 +161,7 @@
       "url": "https://open.spotify.com/track/2P9Q4Cnqe2XGkW4P6k0USl"
     },
     {
-      "added_at": "2026-04-23 22:01:13",
+      "added_at": "2026-05-01 20:43:28",
       "album": {
         "name": "Don't Forget About Me, Demos",
         "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
@@ -133,7 +177,7 @@
       "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
     },
     {
-      "added_at": "2026-04-23 22:01:13",
+      "added_at": "2026-05-01 20:43:28",
       "album": {
         "name": "Alveg farinn",
         "url": "https://open.spotify.com/album/49yLYuCIvr9OsEAfpv8D1f"
@@ -149,7 +193,7 @@
       "url": "https://open.spotify.com/track/1jGqqFrSgtknDJCcrpeyBz"
     },
     {
-      "added_at": "2026-04-23 22:01:13",
+      "added_at": "2026-05-01 20:43:28",
       "album": {
         "name": "I Just Might",
         "url": "https://open.spotify.com/album/2YOfpbW6kCd2XHW2Ln2Uih"
@@ -165,7 +209,7 @@
       "url": "https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G"
     },
     {
-      "added_at": "2026-04-23 22:01:13",
+      "added_at": "2026-05-01 20:43:28",
       "album": {
         "name": "Aperture",
         "url": "https://open.spotify.com/album/0pLJCdOvfghIEinnPXIqIx"
@@ -181,7 +225,7 @@
       "url": "https://open.spotify.com/track/45Z3m6yazmAi4jZuW0tzW0"
     },
     {
-      "added_at": "2026-04-23 22:01:13",
+      "added_at": "2026-05-01 20:43:28",
       "album": {
         "name": "Fancy Some More?",
         "url": "https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF"
@@ -201,7 +245,7 @@
       "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt"
     },
     {
-      "added_at": "2026-04-23 22:01:13",
+      "added_at": "2026-05-01 20:43:28",
       "album": {
         "name": "BULLY",
         "url": "https://open.spotify.com/album/5poA9SAx0Xiz1cf17fWBLS"
@@ -225,7 +269,7 @@
       "url": "https://open.spotify.com/track/2SjnvpedDUU0Ga69bxnoCa"
     },
     {
-      "added_at": "2026-04-23 22:01:13",
+      "added_at": "2026-05-01 20:43:28",
       "album": {
         "name": "MEIRA.",
         "url": "https://open.spotify.com/album/0ULKuGYiKOjKKd98bn3bgS"
@@ -245,7 +289,7 @@
       "url": "https://open.spotify.com/track/3SFBKbYnK6bW0GJCCicGT6"
     },
     {
-      "added_at": "2026-04-23 22:01:13",
+      "added_at": "2026-05-01 20:43:28",
       "album": {
         "name": "THIS MUSIC MAY CONTAIN HOPE.",
         "url": "https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9"
@@ -261,7 +305,7 @@
       "url": "https://open.spotify.com/track/7eYzn1CuiJK6VvUhf8zA6k"
     },
     {
-      "added_at": "2026-04-23 22:01:13",
+      "added_at": "2026-05-01 20:43:28",
       "album": {
         "name": "T\u00d3NLIST TIL A\u00d0 SIGRA VI\u00d0",
         "url": "https://open.spotify.com/album/2yqwaUL7NiAtvNGYRTlWCW"
@@ -277,7 +321,7 @@
       "url": "https://open.spotify.com/track/5x5co4f7pHOWzYcnponeMk"
     },
     {
-      "added_at": "2026-04-23 22:01:13",
+      "added_at": "2026-05-01 20:43:28",
       "album": {
         "name": "Man I Need",
         "url": "https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a"
@@ -293,7 +337,7 @@
       "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
     },
     {
-      "added_at": "2026-04-23 22:01:13",
+      "added_at": "2026-05-01 20:43:28",
       "album": {
         "name": "MEIRA.",
         "url": "https://open.spotify.com/album/0ULKuGYiKOjKKd98bn3bgS"
@@ -317,7 +361,7 @@
       "url": "https://open.spotify.com/track/2VlHnGdXiVYsgWPVqV92Pt"
     },
     {
-      "added_at": "2026-04-23 22:01:13",
+      "added_at": "2026-05-01 20:43:28",
       "album": {
         "name": "The Life of a Showgirl",
         "url": "https://open.spotify.com/album/1W57oNaAkGObOQKBTxg4e9"
@@ -333,7 +377,7 @@
       "url": "https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m"
     },
     {
-      "added_at": "2026-04-23 22:01:13",
+      "added_at": "2026-05-01 20:43:28",
       "album": {
         "name": "Die On This Hill",
         "url": "https://open.spotify.com/album/7GS4aKISJ2KgAm4aBhkzng"
@@ -349,7 +393,7 @@
       "url": "https://open.spotify.com/track/2gYTC8DsplN3RNdpdBcCOQ"
     },
     {
-      "added_at": "2026-04-23 22:01:13",
+      "added_at": "2026-05-01 20:43:28",
       "album": {
         "name": "iloveitiloveitiloveit",
         "url": "https://open.spotify.com/album/6XxrC3tz3EuqoW5RMbYzaF"
@@ -365,7 +409,7 @@
       "url": "https://open.spotify.com/track/5IMpnpD0tQVcqWlVIgtAtV"
     },
     {
-      "added_at": "2026-04-23 22:01:13",
+      "added_at": "2026-05-01 20:43:28",
       "album": {
         "name": "L\u00edfsst\u00edll",
         "url": "https://open.spotify.com/album/7uRDOkOFG2fm5ATQBOkNGg"
@@ -385,7 +429,7 @@
       "url": "https://open.spotify.com/track/62QdlgpmodJ6D5hSm5ZTrd"
     },
     {
-      "added_at": "2026-04-23 22:01:13",
+      "added_at": "2026-05-01 20:43:28",
       "album": {
         "name": "KBE kynnir: Legend \u00ed Leiknum",
         "url": "https://open.spotify.com/album/5hoR5fg75A1FiQMjOLgpj3"
@@ -401,7 +445,7 @@
       "url": "https://open.spotify.com/track/6dqtXAD7TqlhZVroaUigVC"
     },
     {
-      "added_at": "2026-04-23 22:01:13",
+      "added_at": "2026-05-01 20:43:28",
       "album": {
         "name": "Joey 3",
         "url": "https://open.spotify.com/album/6cdZW1zQQd5jwQPAyf1tZZ"
@@ -417,7 +461,7 @@
       "url": "https://open.spotify.com/track/0TbjheMOqpbTXuUWcL3bBt"
     },
     {
-      "added_at": "2026-04-23 22:01:13",
+      "added_at": "2026-05-01 20:43:28",
       "album": {
         "name": "Cowboy Killer",
         "url": "https://open.spotify.com/album/6278k7rRmZDDcpyd2h1phT"
@@ -433,7 +477,7 @@
       "url": "https://open.spotify.com/track/2gNZ7vl4Leb6IQ1UUHMJKb"
     },
     {
-      "added_at": "2026-04-23 22:01:13",
+      "added_at": "2026-05-01 20:43:28",
       "album": {
         "name": "bararara",
         "url": "https://open.spotify.com/album/3FH7CWfONspUH95avG1TNA"
@@ -449,7 +493,7 @@
       "url": "https://open.spotify.com/track/24wNSeNXxSruy3iDu9OSD5"
     },
     {
-      "added_at": "2026-04-23 22:01:13",
+      "added_at": "2026-05-01 20:43:28",
       "album": {
         "name": "No Broke Boys",
         "url": "https://open.spotify.com/album/520FALYwo6yPbp5kBchA8N"
@@ -469,7 +513,7 @@
       "url": "https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj"
     },
     {
-      "added_at": "2026-04-23 22:01:13",
+      "added_at": "2026-05-01 20:43:28",
       "album": {
         "name": "Hristu rassinn \u00e1 \u00fe\u00e9r baby (Ma\u00f0urinn)",
         "url": "https://open.spotify.com/album/6dCTeUp59t3PBfO3mjdzcP"
@@ -489,7 +533,7 @@
       "url": "https://open.spotify.com/track/7JVWBFTXb8NJ8i5foL6E10"
     },
     {
-      "added_at": "2026-04-23 22:01:13",
+      "added_at": "2026-05-01 20:43:28",
       "album": {
         "name": "MEIRA.",
         "url": "https://open.spotify.com/album/0ULKuGYiKOjKKd98bn3bgS"
@@ -513,7 +557,7 @@
       "url": "https://open.spotify.com/track/47EtQZ3hh5FTwMapLxtDLm"
     },
     {
-      "added_at": "2026-04-23 22:01:13",
+      "added_at": "2026-05-01 20:43:28",
       "album": {
         "name": "Superman",
         "url": "https://open.spotify.com/album/3hEYZuqFOChckFGcfRkT59"
@@ -533,7 +577,7 @@
       "url": "https://open.spotify.com/track/3mQsB2BR4o4kASOsN3LhuX"
     },
     {
-      "added_at": "2026-04-23 22:01:13",
+      "added_at": "2026-05-01 20:43:28",
       "album": {
         "name": "Efsta h\u00e6\u00f0",
         "url": "https://open.spotify.com/album/2XdtY47S7DL7fAVBQ30Hv1"
@@ -553,7 +597,7 @@
       "url": "https://open.spotify.com/track/12vTFmfkpkN14LxUX4c4FS"
     },
     {
-      "added_at": "2026-04-23 22:01:13",
+      "added_at": "2026-05-01 20:43:28",
       "album": {
         "name": "People Watching (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4gwfCCNRxAB1P62hlDCelM"
@@ -573,7 +617,7 @@
       "url": "https://open.spotify.com/track/0MUXBhPUDF8or0kfQ0EHwV"
     },
     {
-      "added_at": "2026-04-23 22:01:13",
+      "added_at": "2026-05-01 20:43:28",
       "album": {
         "name": "Aftur og aftur",
         "url": "https://open.spotify.com/album/59h7JLzOu4WQ1ia5Yn8MO7"
@@ -593,7 +637,7 @@
       "url": "https://open.spotify.com/track/3yCVOAJiYB5rjTjSCHhPhf"
     },
     {
-      "added_at": "2026-04-23 22:01:13",
+      "added_at": "2026-05-01 20:43:28",
       "album": {
         "name": "HOME",
         "url": "https://open.spotify.com/album/0EaAIP9mPmRm99Vfq7X34D"
@@ -613,27 +657,7 @@
       "url": "https://open.spotify.com/track/6CNQLgGqOSpXpzGtru1JHx"
     },
     {
-      "added_at": "2026-04-23 22:01:13",
-      "album": {
-        "name": "G\u00f3\u00f0ur Dagur",
-        "url": "https://open.spotify.com/album/5Tsagzg7fXWf71fbQQ4bnV"
-      },
-      "artists": [
-        {
-          "name": "Daniil",
-          "url": "https://open.spotify.com/artist/734Ea35ORu5chErtoqMMtU"
-        },
-        {
-          "name": "P\u00e1ll \u00d3skar",
-          "url": "https://open.spotify.com/artist/4YnmlfVdziLiqFQtQ4zTcq"
-        }
-      ],
-      "duration_ms": 144165,
-      "name": "G\u00f3\u00f0ur Dagur",
-      "url": "https://open.spotify.com/track/7Bj9cK1Ak0onwKx4U7vvWv"
-    },
-    {
-      "added_at": "2026-04-23 22:01:13",
+      "added_at": "2026-05-01 20:43:28",
       "album": {
         "name": "Einhver \u00dearf A\u00f0 Segja \u00dea\u00f0 (\u00c1ram\u00f3taskaup 2025)",
         "url": "https://open.spotify.com/album/0BGoMdErMw8XYnQjOYfTIP"
@@ -653,7 +677,7 @@
       "url": "https://open.spotify.com/track/6oZYrEXAuscQTISSKCJQaf"
     },
     {
-      "added_at": "2026-04-23 22:01:13",
+      "added_at": "2026-05-01 20:43:28",
       "album": {
         "name": "WHERE IS MY HUSBAND!",
         "url": "https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw"
@@ -669,7 +693,7 @@
       "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"
     },
     {
-      "added_at": "2026-04-23 22:01:13",
+      "added_at": "2026-05-01 20:43:28",
       "album": {
         "name": "\u00deessum bar",
         "url": "https://open.spotify.com/album/3zGBuDlBdtIvt5DIlZK0Sd"
@@ -685,7 +709,7 @@
       "url": "https://open.spotify.com/track/5wAqnybeSKhZtxPkMgDwzU"
     },
     {
-      "added_at": "2026-04-23 22:01:13",
+      "added_at": "2026-05-01 20:43:28",
       "album": {
         "name": "SO CLOSE TO WHAT??? (deluxe)",
         "url": "https://open.spotify.com/album/4AIX5TN8oT656mgxRwDevJ"
@@ -701,7 +725,7 @@
       "url": "https://open.spotify.com/track/2oPCpj9ezVq5D6IJNAGkL2"
     },
     {
-      "added_at": "2026-04-23 22:01:13",
+      "added_at": "2026-05-01 20:43:28",
       "album": {
         "name": "Dracula (Remix)",
         "url": "https://open.spotify.com/album/6KFq3hJB6JnNvDbEHRvPoK"
@@ -721,7 +745,7 @@
       "url": "https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM"
     },
     {
-      "added_at": "2026-04-23 22:01:13",
+      "added_at": "2026-05-01 20:43:28",
       "album": {
         "name": "ST\u00c9TTIN",
         "url": "https://open.spotify.com/album/6qzgkTBLS0dfa2LmykFoJa"
@@ -741,27 +765,7 @@
       "url": "https://open.spotify.com/track/2bCo33ql9gC0sUvhnObICz"
     },
     {
-      "added_at": "2026-04-23 22:01:13",
-      "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/5IQKGkAnpXcXkvJKyj1yvM"
-      },
-      "artists": [
-        {
-          "name": "Birnir",
-          "url": "https://open.spotify.com/artist/7FRQP6Ivwv3DQCLxpR3I6Z"
-        },
-        {
-          "name": "Alaska1867",
-          "url": "https://open.spotify.com/artist/2yyLYHJEdPcHJyfvn7OWHk"
-        }
-      ],
-      "duration_ms": 209248,
-      "name": "SOS",
-      "url": "https://open.spotify.com/track/2jM6zqj9nOrMac175qUesR"
-    },
-    {
-      "added_at": "2026-04-23 22:01:13",
+      "added_at": "2026-05-01 20:43:28",
       "album": {
         "name": "Dopamine",
         "url": "https://open.spotify.com/album/3k63fb9eki4aVFPzU3Ptvw"
@@ -777,7 +781,7 @@
       "url": "https://open.spotify.com/track/168GHxsiJyT9tlJN74ZO11"
     },
     {
-      "added_at": "2026-04-23 22:01:13",
+      "added_at": "2026-05-01 20:43:28",
       "album": {
         "name": "Ferris Wheel",
         "url": "https://open.spotify.com/album/3PBgZgV4CjAeBSTMvC5rkp"
@@ -793,7 +797,7 @@
       "url": "https://open.spotify.com/track/63HPIbP11nHHlcC2gKxLcA"
     },
     {
-      "added_at": "2026-04-23 22:01:13",
+      "added_at": "2026-05-01 20:43:28",
       "album": {
         "name": "Harry Styles",
         "url": "https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV"
@@ -809,7 +813,7 @@
       "url": "https://open.spotify.com/track/5Ohxk2dO5COHF1krpoPigN"
     },
     {
-      "added_at": "2026-04-23 22:01:13",
+      "added_at": "2026-05-01 20:43:28",
       "album": {
         "name": "F\u00f6studagurinn langi",
         "url": "https://open.spotify.com/album/3Njj4OSymSFbEYxshHrtU2"
@@ -825,7 +829,7 @@
       "url": "https://open.spotify.com/track/78WfDuDCfJzUhOiD9vzsIf"
     },
     {
-      "added_at": "2026-04-23 22:01:13",
+      "added_at": "2026-05-01 20:43:28",
       "album": {
         "name": "OCTANE",
         "url": "https://open.spotify.com/album/131x9G87mD0hP0hGZc9qYN"
@@ -841,7 +845,7 @@
       "url": "https://open.spotify.com/track/3B4cjvGlPvyBLNG3AzEgkZ"
     },
     {
-      "added_at": "2026-04-23 22:01:13",
+      "added_at": "2026-05-01 20:43:28",
       "album": {
         "name": "I Barely Know Her",
         "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
@@ -857,7 +861,7 @@
       "url": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe"
     },
     {
-      "added_at": "2026-04-23 22:01:13",
+      "added_at": "2026-05-01 20:43:28",
       "album": {
         "name": "\u00dearft a\u00f0 vita",
         "url": "https://open.spotify.com/album/2dmWvkkqgLoU5s5LjiPBBD"
@@ -877,7 +881,7 @@
       "url": "https://open.spotify.com/track/6PtlJ55rxv8mI1YHC9Y7M9"
     },
     {
-      "added_at": "2026-04-23 22:01:13",
+      "added_at": "2026-05-01 20:43:28",
       "album": {
         "name": "FEVER DREAM",
         "url": "https://open.spotify.com/album/1tJQ5Mp1XSf7waZzH6KhlJ"
@@ -893,7 +897,7 @@
       "url": "https://open.spotify.com/track/7ogpGbKc4Io6NCU6ydxXwZ"
     },
     {
-      "added_at": "2026-04-23 22:01:13",
+      "added_at": "2026-05-01 20:43:28",
       "album": {
         "name": "Komdu til baka",
         "url": "https://open.spotify.com/album/6kjNxLt16geko9ZI6GYH43"
@@ -913,7 +917,7 @@
       "url": "https://open.spotify.com/track/02CIbA3JKDCyi5Pa79mjfT"
     },
     {
-      "added_at": "2026-04-23 22:01:13",
+      "added_at": "2026-05-01 20:43:28",
       "album": {
         "name": "The Art of Loving",
         "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"

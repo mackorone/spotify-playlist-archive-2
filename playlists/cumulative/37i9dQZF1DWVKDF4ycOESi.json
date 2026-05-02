@@ -49825,6 +49825,24 @@
     },
     {
       "album": {
+        "name": "Victory Garden",
+        "url": "https://open.spotify.com/album/70ch2R18v3Zho0SlcN4CAN"
+      },
+      "artists": [
+        {
+          "name": "Young the Giant",
+          "url": "https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221026,
+      "name": "Evergreen",
+      "url": "https://open.spotify.com/track/3fLX6yRLD2IkWQUxDJEQ0S"
+    },
+    {
+      "album": {
         "name": "Everlight",
         "url": "https://open.spotify.com/album/1n96zLen6gmcOjXLI6FGE6"
       },
@@ -68061,7 +68079,7 @@
         },
         {
           "name": "GLZ",
-          "url": "https://open.spotify.com/artist/3lF9IQbanf5Gc0ewSq1wYn"
+          "url": "https://open.spotify.com/artist/3xpY5gjKMCT54sR2NoXJsr"
         }
       ],
       "date_added": "2026-04-30",
@@ -75336,6 +75354,28 @@
       "duration_ms": 195106,
       "name": "Insecure",
       "url": "https://open.spotify.com/track/3tLVfEh8kJhMkDaxvOzK1M"
+    },
+    {
+      "album": {
+        "name": "Inside Of Me",
+        "url": "https://open.spotify.com/album/0qRVckLxIAPUxv3XmgDOHY"
+      },
+      "artists": [
+        {
+          "name": "Marco Faraone",
+          "url": "https://open.spotify.com/artist/00IUMN7pWAU2jYWcdOt5c3"
+        },
+        {
+          "name": "Ejeca",
+          "url": "https://open.spotify.com/artist/0tSC9Vot7WlR1MsLBqQ9HX"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153461,
+      "name": "Inside of Me",
+      "url": "https://open.spotify.com/track/641hz8g6Sb6ng14V1we78Y"
     },
     {
       "album": {
@@ -158814,42 +158854,6 @@
       "duration_ms": 118651,
       "name": "tra parentesi",
       "url": "https://open.spotify.com/track/1FVGtE2nAqIR22ial5EbHo"
-    },
-    {
-      "album": {
-        "name": "Inside Of Me",
-        "url": "https://open.spotify.com/album/0qRVckLxIAPUxv3XmgDOHY"
-      },
-      "artists": [
-        {
-          "name": "Marco Faraone",
-          "url": "https://open.spotify.com/artist/00IUMN7pWAU2jYWcdOt5c3"
-        }
-      ],
-      "date_added": "2026-04-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/641hz8g6Sb6ng14V1we78Y"
-    },
-    {
-      "album": {
-        "name": "Victory Garden",
-        "url": "https://open.spotify.com/album/70ch2R18v3Zho0SlcN4CAN"
-      },
-      "artists": [
-        {
-          "name": "Young the Giant",
-          "url": "https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT"
-        }
-      ],
-      "date_added": "2026-04-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/3fLX6yRLD2IkWQUxDJEQ0S"
     },
     {
       "album": {

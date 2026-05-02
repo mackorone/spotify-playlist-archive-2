@@ -4,7 +4,7 @@
 
 > The Finest In Jazz Since 1939
 
-155 songs - 16 hr 20 min
+156 songs - 16 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,8 @@
 | [Please Set Me At Ease](https://open.spotify.com/track/5emxS2ghZWuPnRFOe10vdq) | [Bobbi Humphrey](https://open.spotify.com/artist/0JbqyQSsMK7TavqlR0yNON) | [Fancy Dancer \(Reissue\)](https://open.spotify.com/album/1pT80BtTp6pzTvX3PFUHpb) | 6:09 | 2023-01-06 |  |
 | [Punjab \- Remastered 2003 / Rudy Van Gelder Edition](https://open.spotify.com/track/64EpFQnk4OlbMl3fitdrp6) | [Joe Henderson](https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt) | [In 'n Out \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/4KI0kC5rANmc5YeXyNshDr) | 9:07 | 2023-01-06 |  |
 | [Queen Of The South](https://open.spotify.com/track/7lOwjT4RAvA8DQAnt0uIUH) | [Ron Miles](https://open.spotify.com/artist/1FTPaN9v2BFiu2LglOdZKP) | [Rainbow Sign](https://open.spotify.com/album/38R6cFBDMpVGvwx7Vuz4D5) | 4:20 | 2023-01-06 |  |
-| [Raindrops Keep Falling On My Head](https://open.spotify.com/track/0KA5ATfEnvljL6RS14WRnR) | [Gabrielle Cavassa](https://open.spotify.com/artist/6V9mKint0pfZjIbeFF9vQk) | [Raindrops Keep Falling On My Head](https://open.spotify.com/album/48cJa1wLsIoujpLuKYklXG) | 4:32 | 2026-04-28 |  |
+| [Raindrops Keep Falling On My Head](https://open.spotify.com/track/0KA5ATfEnvljL6RS14WRnR) | [Gabrielle Cavassa](https://open.spotify.com/artist/6V9mKint0pfZjIbeFF9vQk) | [Raindrops Keep Falling On My Head](https://open.spotify.com/album/48cJa1wLsIoujpLuKYklXG) | 4:32 | 2026-04-28 | 2026-05-02 |
+| [Raindrops Keep Falling On My Head](https://open.spotify.com/track/2wf3Pnl5dzZVEwazL9MmHR) | [Gabrielle Cavassa](https://open.spotify.com/artist/6V9mKint0pfZjIbeFF9vQk) | [Diavola](https://open.spotify.com/album/4lQriMCxFMyor9TIJlvOxU) | 4:32 | 2026-05-01 |  |
 | [Red River Revel](https://open.spotify.com/track/0obAe4GiBcoLJo33hzKAzH) | [Brian Blade](https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu) | [Brian Blade Fellowship](https://open.spotify.com/album/4zR22xnwshsV7Muly7KDLl) | 9:31 | 2023-01-06 |  |
 | [Reflections \(Looking Back\)](https://open.spotify.com/track/0E5pTlH09CN6Z1JfFYWbcq) | [Dianne Reeves](https://open.spotify.com/artist/7nwrblOf59ulOiB6djwPVh) | [A Little Moonlight](https://open.spotify.com/album/2kI3zicMFYrMlRDHOLXJ7s) | 5:12 | 2023-01-06 |  |
 | [Rejuvenation Agenda \- Live](https://open.spotify.com/track/1atkWGZTTHjsiR4jJ8bAeV) | [Gerald Clayton](https://open.spotify.com/artist/5mYw31MXiGnqTMliAcl7m8) | [Happening: Live At The Village Vanguard](https://open.spotify.com/album/3LESItMfXvwTo1F7rXYRr1) | 7:21 | 2023-01-06 | 2026-04-29 |

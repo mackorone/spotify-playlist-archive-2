@@ -297,6 +297,24 @@
     },
     {
       "album": {
+        "name": "A Message From Your CEO",
+        "url": "https://open.spotify.com/album/0fmz9MTlaq5jnQOaDrDP7N"
+      },
+      "artists": [
+        {
+          "name": "TIRED",
+          "url": "https://open.spotify.com/artist/26Fypj1nYvaqMCLeqEiIMO"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179728,
+      "name": "A Message From Your CEO",
+      "url": "https://open.spotify.com/track/3lKx37ScGCP5bmFRbXYnHU"
+    },
+    {
+      "album": {
         "name": "A Perfect Lie",
         "url": "https://open.spotify.com/album/2rvHji4MrQC3S397HaUIRc"
       },
@@ -946,6 +964,24 @@
       "duration_ms": 151241,
       "name": "Amigos",
       "url": "https://open.spotify.com/track/5I8Mi2vG1U8t1jvf9gcnb7"
+    },
+    {
+      "album": {
+        "name": "Gardening Club",
+        "url": "https://open.spotify.com/album/2Ij0ymbmxaUSdEbWCjgJhW"
+      },
+      "artists": [
+        {
+          "name": "Gardening Club",
+          "url": "https://open.spotify.com/artist/4tVR6UmVssdtcN2BY6fbmg"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Amuse Bouche",
+      "url": "https://open.spotify.com/track/44SmE9KkzszhX0OoZygPWn"
     },
     {
       "album": {
@@ -2620,7 +2656,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 110571,
       "name": "BORN 2 ROT",
       "url": "https://open.spotify.com/track/2VMotXyDfDjZDxwxxfThtv"
@@ -4537,6 +4573,24 @@
     },
     {
       "album": {
+        "name": "Creeping Offence",
+        "url": "https://open.spotify.com/album/16kbuRpDJx42H9qRnI0Pef"
+      },
+      "artists": [
+        {
+          "name": "Dead Stilettos",
+          "url": "https://open.spotify.com/artist/6KGeS9on2ykpqmQh3L7t7y"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250754,
+      "name": "Creeping Offence",
+      "url": "https://open.spotify.com/track/3YKWasEdCEL48xFml10l4J"
+    },
+    {
+      "album": {
         "name": "Genesis",
         "url": "https://open.spotify.com/album/3xd0zTXVjCZO3HF2MyMSW9"
       },
@@ -4620,7 +4674,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 120000,
       "name": "Crustaccato",
       "url": "https://open.spotify.com/track/2dF0qR3yZVNudzmPtuEw9m"
@@ -5510,6 +5564,24 @@
       "duration_ms": 202285,
       "name": "Dictators",
       "url": "https://open.spotify.com/track/4UHP30FNADwdL4PyfojcaK"
+    },
+    {
+      "album": {
+        "name": "Dig Me Up",
+        "url": "https://open.spotify.com/album/3hObzcuG4bzf0arkWh2guf"
+      },
+      "artists": [
+        {
+          "name": "Jonny Amoral",
+          "url": "https://open.spotify.com/artist/6NwioT96GnLXqYSS814noa"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162857,
+      "name": "Dig Me Up",
+      "url": "https://open.spotify.com/track/5hgmGyUFX0YzophIIgAuxM"
     },
     {
       "album": {
@@ -7093,6 +7165,24 @@
     },
     {
       "album": {
+        "name": "A Violent Phenomenon",
+        "url": "https://open.spotify.com/album/00oDEbz2icsIehvpXeYHF9"
+      },
+      "artists": [
+        {
+          "name": "Choke Me",
+          "url": "https://open.spotify.com/artist/5Ji5zIC9jDr563Yk1S2vrv"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170117,
+      "name": "Everything Is Forever Until It Ends",
+      "url": "https://open.spotify.com/track/50pDOdKch7VKkPlxfV2wNf"
+    },
+    {
+      "album": {
         "name": "Ex Girlfriend",
         "url": "https://open.spotify.com/album/3fBtsmbds3SVUBxnNhs9Tm"
       },
@@ -8351,6 +8441,24 @@
     },
     {
       "album": {
+        "name": "Game On",
+        "url": "https://open.spotify.com/album/2WZO3qXyrePj8OD7zkbI9k"
+      },
+      "artists": [
+        {
+          "name": "OLD DOG",
+          "url": "https://open.spotify.com/artist/4RrIE5h8LeyXyNvhrCyHYS"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213603,
+      "name": "Game On",
+      "url": "https://open.spotify.com/track/37DiClRdv3tq6fZT4BQPcd"
+    },
+    {
+      "album": {
         "name": "Garbage",
         "url": "https://open.spotify.com/album/0RbOdSuAFOwDIxWhqG3UN5"
       },
@@ -9298,7 +9406,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-24",
+      "date_removed": null,
       "duration_ms": 217429,
       "name": "Haunted",
       "url": "https://open.spotify.com/track/7zoHmY3t1BKRyRADFjiK3P"
@@ -11299,6 +11407,24 @@
     },
     {
       "album": {
+        "name": "And So It Begins",
+        "url": "https://open.spotify.com/album/3x30Cvm7Ovhuu3gxjPwDp6"
+      },
+      "artists": [
+        {
+          "name": "Six by Georgia",
+          "url": "https://open.spotify.com/artist/2S8OFByHHLsgxLCKMB3XC2"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181108,
+      "name": "Isn't That Worth Something",
+      "url": "https://open.spotify.com/track/74nMFpHYca1nN75CjwYfkx"
+    },
+    {
+      "album": {
         "name": "Genesis",
         "url": "https://open.spotify.com/album/3xd0zTXVjCZO3HF2MyMSW9"
       },
@@ -11624,6 +11750,24 @@
       "duration_ms": 318500,
       "name": "JinXXX",
       "url": "https://open.spotify.com/track/2grH4gOFNCt6mbV1e2TVyt"
+    },
+    {
+      "album": {
+        "name": "Joe and Serena",
+        "url": "https://open.spotify.com/album/5pJ71EgFY8Y9m773J3RAbx"
+      },
+      "artists": [
+        {
+          "name": "AG Session",
+          "url": "https://open.spotify.com/artist/2cG7L3KAgqNIDuR8Te8bGy"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140017,
+      "name": "Joe and Serena",
+      "url": "https://open.spotify.com/track/6vWhD2MWGD5kcGzPmssBTx"
     },
     {
       "album": {
@@ -12312,6 +12456,24 @@
       "duration_ms": 164086,
       "name": "Lessons Learned",
       "url": "https://open.spotify.com/track/3ej3Rt0fKiSNps79l6bpda"
+    },
+    {
+      "album": {
+        "name": "Let Me Breathe",
+        "url": "https://open.spotify.com/album/0tI4bZ9HInCthVtsUYGoIM"
+      },
+      "artists": [
+        {
+          "name": "7 Seconds Later",
+          "url": "https://open.spotify.com/artist/23sO4cYkyuwZmUuQC7o57N"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257741,
+      "name": "Let Me Breathe",
+      "url": "https://open.spotify.com/track/0q0MMaOaEXFwzemhLZWuCI"
     },
     {
       "album": {
@@ -14995,6 +15157,24 @@
     },
     {
       "album": {
+        "name": "No Regrets",
+        "url": "https://open.spotify.com/album/56B3wP3xRivlsnJQN8oa9j"
+      },
+      "artists": [
+        {
+          "name": "All Coasted",
+          "url": "https://open.spotify.com/artist/5v3VyJ81s4oLEqTPnHEtD6"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219000,
+      "name": "No Regrets",
+      "url": "https://open.spotify.com/track/4l3ukeCLGfZuILXGyLcvbt"
+    },
+    {
+      "album": {
         "name": "NO Saints )",
         "url": "https://open.spotify.com/album/1b2dL9lAfIkvJe6oCl4wWN"
       },
@@ -15926,7 +16106,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 177552,
       "name": "over you",
       "url": "https://open.spotify.com/track/4v8of4HI3TgV8ssm2DzUic"
@@ -16124,7 +16304,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 170891,
       "name": "Part of Me",
       "url": "https://open.spotify.com/track/5tfIhhM5zuqjuLwgKotbTX"
@@ -19531,6 +19711,24 @@
     },
     {
       "album": {
+        "name": "Slow Decay",
+        "url": "https://open.spotify.com/album/30ZS1zI0vezy2rHCOnhQxq"
+      },
+      "artists": [
+        {
+          "name": "Hollowblades",
+          "url": "https://open.spotify.com/artist/6e7RH4eLVsJuoj5eUnzEH6"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227335,
+      "name": "Slow Decay",
+      "url": "https://open.spotify.com/track/7nudERiLDcFllat8Qflx4c"
+    },
+    {
+      "album": {
         "name": "Psychic Surfing",
         "url": "https://open.spotify.com/album/0CgCUmORGOjJddPC1LMu1F"
       },
@@ -22001,6 +22199,24 @@
     },
     {
       "album": {
+        "name": "The Luge",
+        "url": "https://open.spotify.com/album/2Ihewiydstnhs5QvDU6xOc"
+      },
+      "artists": [
+        {
+          "name": "Luna Rosa",
+          "url": "https://open.spotify.com/artist/5tBIpe6b4WNOLFMnZsvuGL"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228501,
+      "name": "The Luge",
+      "url": "https://open.spotify.com/track/0LFBLhgHho67qvzexB2NpV"
+    },
+    {
+      "album": {
         "name": "The Mechanist",
         "url": "https://open.spotify.com/album/2F2vCeIevNNyK8IgDimbT7"
       },
@@ -22088,6 +22304,24 @@
       "duration_ms": 234500,
       "name": "The More I Know You (The Less I Feel Being a Part of It)",
       "url": "https://open.spotify.com/track/3Ge205IaMXPiODIjpFpaUF"
+    },
+    {
+      "album": {
+        "name": "The More, The Less",
+        "url": "https://open.spotify.com/album/4FrP86DkD0LqGf9pL3u86f"
+      },
+      "artists": [
+        {
+          "name": "Old Sparky",
+          "url": "https://open.spotify.com/artist/7bZmxm2fsWsb8vkDKXK44O"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141478,
+      "name": "The More, The Less",
+      "url": "https://open.spotify.com/track/5aokvsaDoaPn7czbDWujLy"
     },
     {
       "album": {
@@ -23868,7 +24102,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 312500,
       "name": "Vol",
       "url": "https://open.spotify.com/track/7DHcBXahtXoUNx2W3QK1cV"
@@ -24200,7 +24434,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 136544,
       "name": "Watch Your Mouth",
       "url": "https://open.spotify.com/track/7iJjMFwGWY5Ju0i8nMg4mk"

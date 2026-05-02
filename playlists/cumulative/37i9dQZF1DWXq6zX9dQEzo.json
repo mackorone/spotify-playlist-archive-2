@@ -162,7 +162,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 138857,
       "name": "2 Major",
       "url": "https://open.spotify.com/track/1OFAjnS59a3QKIZD7ovz5h"
@@ -320,7 +320,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 159635,
       "name": "ADDING TO HEAVEN",
       "url": "https://open.spotify.com/track/2TfAm9h1trIPclh7BrxIyp"
@@ -770,7 +770,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 152307,
       "name": "ALLRIGHTYTHEN",
       "url": "https://open.spotify.com/track/3mzsBxurkkBrfEVVMR3S8Y"
@@ -1730,6 +1730,28 @@
       "duration_ms": 161208,
       "name": "Big Brother",
       "url": "https://open.spotify.com/track/041UtdcWXo5RObALfbphb4"
+    },
+    {
+      "album": {
+        "name": "Big Brother (Remix)",
+        "url": "https://open.spotify.com/album/7k5oIQc1ZTtpL1Y5v03UJC"
+      },
+      "artists": [
+        {
+          "name": "EGR",
+          "url": "https://open.spotify.com/artist/4EJIkbig1thbV3C3B68c56"
+        },
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187912,
+      "name": "Big Brother - Remix",
+      "url": "https://open.spotify.com/track/2EVJ3XFbgJUYpr6EHGuDaG"
     },
     {
       "album": {
@@ -3919,6 +3941,24 @@
     },
     {
       "album": {
+        "name": "DEAD & GONE",
+        "url": "https://open.spotify.com/album/5RSkjZ7rCI1hQ1rYrRiwrN"
+      },
+      "artists": [
+        {
+          "name": "808 BEEZY",
+          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112500,
+      "name": "DEAD & GONE",
+      "url": "https://open.spotify.com/track/37HlxhHP6oao4h6csKPEvk"
+    },
+    {
+      "album": {
         "name": "DEAD OR ALIVE",
         "url": "https://open.spotify.com/album/17F4eTY0xjfaJPXgjlxEQx"
       },
@@ -6068,7 +6108,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 118260,
       "name": "GLOOM",
       "url": "https://open.spotify.com/track/6jKDPBLRv0O9tJtJQHQlAN"
@@ -7123,6 +7163,24 @@
     },
     {
       "album": {
+        "name": "Havin'",
+        "url": "https://open.spotify.com/album/0VaOrpBKz0ObZaI74wuV2n"
+      },
+      "artists": [
+        {
+          "name": "1K Phew",
+          "url": "https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169531,
+      "name": "Havin'",
+      "url": "https://open.spotify.com/track/1PwIBzaWVTzourrHRw6FTm"
+    },
+    {
+      "album": {
         "name": "HE BACK!",
         "url": "https://open.spotify.com/album/6YONIZy4O4CSen2cbqhfn4"
       },
@@ -7138,6 +7196,28 @@
       "duration_ms": 115434,
       "name": "HE BACK!",
       "url": "https://open.spotify.com/track/3Rbab48znK9UXKteEzmyeu"
+    },
+    {
+      "album": {
+        "name": "He Did It",
+        "url": "https://open.spotify.com/album/4CiIwyMjh4kqP97DqFfbfT"
+      },
+      "artists": [
+        {
+          "name": "Aklesso",
+          "url": "https://open.spotify.com/artist/7r3HxO330lmabOprT2MMFK"
+        },
+        {
+          "name": "Ty Brasel",
+          "url": "https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157323,
+      "name": "He Did It",
+      "url": "https://open.spotify.com/track/1ZcHAmuAnQV85tGMlpHqfZ"
     },
     {
       "album": {
@@ -8684,7 +8764,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 148282,
       "name": "In Your Presence",
       "url": "https://open.spotify.com/track/1bsf0zU9fDzxEBkAm72Ba5"
@@ -8760,6 +8840,28 @@
       "duration_ms": 144021,
       "name": "It Could Be Worse",
       "url": "https://open.spotify.com/track/1pn9N05evZd09npQBnsC31"
+    },
+    {
+      "album": {
+        "name": "IT MUST BE GOD",
+        "url": "https://open.spotify.com/album/0pvczMkTlBcCCppVeF5EVw"
+      },
+      "artists": [
+        {
+          "name": "Don Ready",
+          "url": "https://open.spotify.com/artist/5kQnpfa9Qp5lNSOThWVnFl"
+        },
+        {
+          "name": "Brenno",
+          "url": "https://open.spotify.com/artist/7lBcEp7abNiq3WyHT3RRqV"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169927,
+      "name": "IT MUST BE GOD",
+      "url": "https://open.spotify.com/track/1RHKtupiSDNQgVaYZKNbbf"
     },
     {
       "album": {
@@ -9644,6 +9746,28 @@
       "duration_ms": 129843,
       "name": "Legendary",
       "url": "https://open.spotify.com/track/7jBZrY5Em6uhlNIrS8tazh"
+    },
+    {
+      "album": {
+        "name": "Lemon",
+        "url": "https://open.spotify.com/album/68NOwnYrKKslcPUgKIHoTP"
+      },
+      "artists": [
+        {
+          "name": "LANELL GRANT",
+          "url": "https://open.spotify.com/artist/5HEhEhQL9w4ofcJ9kURFNQ"
+        },
+        {
+          "name": "nobigdyl.",
+          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243428,
+      "name": "Lemon",
+      "url": "https://open.spotify.com/track/7K4gCXiX6xOSrKGjbZExCS"
     },
     {
       "album": {
@@ -11122,6 +11246,28 @@
       "duration_ms": 240952,
       "name": "my year",
       "url": "https://open.spotify.com/track/29xxP6mLTIadUao1NHMj9x"
+    },
+    {
+      "album": {
+        "name": "CULT CLASSIC VOL. 1",
+        "url": "https://open.spotify.com/album/1oyf5vVZtHUJHgVKCnsk6r"
+      },
+      "artists": [
+        {
+          "name": "Marty",
+          "url": "https://open.spotify.com/artist/5BfKKSmpGmj2moMNlaWeJK"
+        },
+        {
+          "name": "Brenno",
+          "url": "https://open.spotify.com/artist/7lBcEp7abNiq3WyHT3RRqV"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140487,
+      "name": "NED FLANDERS",
+      "url": "https://open.spotify.com/track/2W6PC29zRbBuJwI3G8eBzB"
     },
     {
       "album": {
@@ -12718,7 +12864,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 151176,
       "name": "Pick Me",
       "url": "https://open.spotify.com/track/1ePbMmR7JB9kR6rM2FZx6B"
@@ -15220,7 +15366,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 134250,
       "name": "STILL 30 FOR 30",
       "url": "https://open.spotify.com/track/2BdoZ2JJPGKmBaECewlQ6q"
@@ -16056,7 +16202,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 171974,
       "name": "TAPPED",
       "url": "https://open.spotify.com/track/0tj5Q3TeKqT82NykN7BThU"
@@ -16570,7 +16716,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 187272,
       "name": "Theme Music",
       "url": "https://open.spotify.com/track/51ItXztk5BlHYMP7As4nmp"
@@ -17066,6 +17212,24 @@
       "duration_ms": 132635,
       "name": "Tricky",
       "url": "https://open.spotify.com/track/1X6R3SpHPB4ySRMF5kzdtw"
+    },
+    {
+      "album": {
+        "name": "TRIMMM",
+        "url": "https://open.spotify.com/album/6qc1n2yD40KBgKNv7iD6Cv"
+      },
+      "artists": [
+        {
+          "name": "1K Phew",
+          "url": "https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123583,
+      "name": "TRIMMM",
+      "url": "https://open.spotify.com/track/7IcGDdR0ysA9GNTE9rpWu4"
     },
     {
       "album": {
@@ -18204,6 +18368,24 @@
       "duration_ms": 173945,
       "name": "What I Like",
       "url": "https://open.spotify.com/track/5Yd20D9Kt282CO1ANW0QXI"
+    },
+    {
+      "album": {
+        "name": "What We Doin",
+        "url": "https://open.spotify.com/album/27k1JCUiLEGiGxzVYNShWO"
+      },
+      "artists": [
+        {
+          "name": "Mission",
+          "url": "https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131976,
+      "name": "What We Doin",
+      "url": "https://open.spotify.com/track/4UZCxYQRrpuytqVUwEf0oC"
     },
     {
       "album": {

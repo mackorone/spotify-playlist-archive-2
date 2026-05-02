@@ -4,7 +4,7 @@
 
 > Summer has a way of slowing us down and bringing us together\. This playlist is a mix of new favorites and familiar sounds — songs for long drives, late afternoons, and evenings that stretch a little longer than planned.Hope you find something here that makes the season feel just right.
 
-5,979 songs - 13 day 22 hr 4 min
+5,982 songs - 13 day 22 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -438,6 +438,7 @@
 | [Back Up](https://open.spotify.com/track/0wAK1EVuMhyz9QyEDDZ1GE) | [Freakonamics](https://open.spotify.com/artist/3Q3uTDE77tN1o0Mjpm7TAk) | [Back Up](https://open.spotify.com/album/4sXfkZc0cUvZ1iM01emOFu) | 2:46 | 2021-03-19 | 2021-04-04 |
 | [Backseat](https://open.spotify.com/track/5omexKXswmpwcF8pqt7kJz) | [Lauren Waller](https://open.spotify.com/artist/1dfsoRdxexXO4hVr8XY6Y8) | [Talking to Myself](https://open.spotify.com/album/4gTc7VIUtcCNVJywAoSNko) | 2:52 | 2023-05-26 | 2023-06-17 |
 | [Backseat](https://open.spotify.com/track/0IDmpYvVJyQgYVVxf8TEMg) | [Louise Goffin](https://open.spotify.com/artist/03sAQYI6xlXSc3bsFU9RCC) | [Backseat](https://open.spotify.com/album/3BIgrmbVxsVjsfL0d5a0WW) | 3:09 | 2025-02-26 | 2025-03-10 |
+| [Backseat Look](https://open.spotify.com/track/6Ic3VfFr7kx01QUgSf58mB) | [Mila June](https://open.spotify.com/artist/0xUhvgsTn6OLTIqZj4CHpg) | [Poolside Bad Manners](https://open.spotify.com/album/3Lv9iQ2fe36Q13dFgM7LEf) | 2:10 | 2026-05-01 |  |
 | [Backwards](https://open.spotify.com/track/12vILCUH2YjOF6vK102dpj) | [Joy Bogat](https://open.spotify.com/artist/4W9ZAgvkctnqPK6BftsaQg) | [Backwards](https://open.spotify.com/album/74B74aZj2BjNFdRNCYOZu7) | 4:35 | 2023-06-23 | 2023-07-21 |
 | [Backyard Birds](https://open.spotify.com/track/2W1snJzirJKgPHQ6TRbouS) | [PASSIFLORA](https://open.spotify.com/artist/7tQTfUcvBtAbPZUIpnMPjT) | [Backyard Birds](https://open.spotify.com/album/79GwEvcbqeUrpWZPinJvYS) | 4:22 | 2024-07-11 | 2024-07-23 |
 | [Bad 4 Me](https://open.spotify.com/track/4DlHHiJUxmuFS6pPXgIwy6) | [JP Carrasco](https://open.spotify.com/artist/6xinEgWeFNuE4M9wH9d7aV) | [Bad 4 Me](https://open.spotify.com/album/70NbNhdo31g7WTDtQMUeS8) | 2:25 | 2024-04-06 | 2024-04-20 |
@@ -3867,6 +3868,7 @@
 | [Oversized Sweater](https://open.spotify.com/track/5IfvcgCQJhU6kjbxj5wjcf) | [Shamir](https://open.spotify.com/artist/7JgXEHI1oEiQICAMeCsKTj) | [Oversized Sweater](https://open.spotify.com/album/2VdV8oZPmNe0K4PsJcEMyB) | 3:54 | 2023-06-23 | 2023-07-14 |
 | [OVERTAKE](https://open.spotify.com/track/1NovfWWLFMVrj8ie4NnsWR) | [Charlie Flo](https://open.spotify.com/artist/1GLJGQodGXkPRFLCRnII4I), [Jordan Arena](https://open.spotify.com/artist/2rk95jBKmexFtkdgNLX3DX), [Ricky Bustamove](https://open.spotify.com/artist/0EA5w5dWtgQVMLXpfcazJU) | [ULTRAVIOLET RIOT](https://open.spotify.com/album/09rHNIkg3DEzAeYEQgpaob) | 3:33 | 2024-06-18 | 2024-06-30 |
 | [Overthinker](https://open.spotify.com/track/0HewxPGtFmZIeoCsyyK2na) | [Robine](https://open.spotify.com/artist/3aOOs1Fpat1irkpL0o2weU) | [Overthinker](https://open.spotify.com/album/649JaaO61K5jFB8KlSDBUS) | 2:51 | 2024-10-03 | 2024-10-16 |
+| [Overthinking](https://open.spotify.com/track/5YzfPsuG66dfz7oGpY90mv) | [Kimani](https://open.spotify.com/artist/59i7EZjgHlVzoxZvvCRWiX) | [Doing Well](https://open.spotify.com/album/4qHGNsnhHiQCuOYDXEjbSd) | 2:31 | 2026-05-01 |  |
 | [Overthinking](https://open.spotify.com/track/3JGlL8TbpPngdvo2JHowof) | [Self Made Davion](https://open.spotify.com/artist/7g6wmwFUNfjUWZWmZcRDOo) | [Overthinking](https://open.spotify.com/album/6pSXZIagV8pNRW7mqcVwcZ) | 1:37 | 2024-08-07 | 2024-08-19 |
 | [Overtime](https://open.spotify.com/track/1U24a4WyDqFhB9Fvsh9l6w) | [Merger](https://open.spotify.com/artist/6ibRf7SDr5Vj50Wny4XCV7), [Zachary Staines](https://open.spotify.com/artist/1zwl21nkg38BwnO5VhlLsk) | [Overtime](https://open.spotify.com/album/2EVMOlSvtwmXNWz8Prt5E7) | 3:07 | 2021-01-29 | 2021-02-13 |
 | [Owe Me Money](https://open.spotify.com/track/0PGCHyGkisSIn2e0Fllwzi) | [Tolliver](https://open.spotify.com/artist/0wOGyFuFZwtEqyLdFC0FlZ) | [Owe Me Money](https://open.spotify.com/album/76rkWiMkX5BoXEuHDGLSoJ) | 2:57 | 2020-06-29 | 2020-07-13 |
@@ -4045,6 +4047,7 @@
 | [Prayer for the Hour](https://open.spotify.com/track/5UQS22l4gFYUD4TEdi62sm) | [SayReal](https://open.spotify.com/artist/4miKVbMX9wD7jUg89RPeSM) | [Prayer for the Hour](https://open.spotify.com/album/7L1hL6eSTqRmlXVcVs4SLF) | 4:00 | 2025-04-07 | 2025-04-25 |
 | [Preach](https://open.spotify.com/track/108RyMYug0hkC4awLjqjqo) | [Sir Jude](https://open.spotify.com/artist/1okdhcXCnhCsMGzPmDmDzG), [Maxim](https://open.spotify.com/artist/4u9qdvmpsHXYqL6PIxu9Dd) | [Preach](https://open.spotify.com/album/2D8gvmZO1Wtw2VLqqIzWMd) | 4:10 | 2022-09-16 | 2022-10-04 |
 | [Precipice](https://open.spotify.com/track/5njvrCwgVM3Sj45LgHPw17) | [Free Whenever](https://open.spotify.com/artist/3bSsyMPujHM45QOvf6M6he) | [Precipice](https://open.spotify.com/album/3DSZxmXYojfIviKRdizGld) | 3:42 | 2024-03-06 | 2024-03-21 |
+| [Premium Silence](https://open.spotify.com/track/0eAPQVjF2ThkBhY6ZJuxBp) | [Oshuné](https://open.spotify.com/artist/2ymc38pq3BmDJPJLObPWXH) | [Premium Silence](https://open.spotify.com/album/1CBAv2VqKa5gd1bT94u3UJ) | 2:36 | 2026-05-01 |  |
 | [Premonitions](https://open.spotify.com/track/5hwKr4PVjKMNv8nle0NVWr) | [Jorj Sabio](https://open.spotify.com/artist/39b2ZUCY5oOcDQFFkwbrKs), [Graver](https://open.spotify.com/artist/38wcGG4YmXZlt5mbqU2Yxf) | [Premonitions](https://open.spotify.com/album/0DS8i2rqo6QADdDNXNbzNE) | 4:11 | 2023-08-24 | 2023-09-26 |
 | [Prendi](https://open.spotify.com/track/76lRiuueIDR2WBAAlkPp0D) | [Easy](https://open.spotify.com/artist/1CjM05OWsJKFj4hDxIHzx3) | [Prendi](https://open.spotify.com/album/25Hk4a5zQNW4jrCYBhvvvC) | 2:35 | 2024-12-27 | 2025-01-08 |
 | [preshure](https://open.spotify.com/track/6Hvh3BG1CXohwLlp1CTpJx) | [Annie Omalley](https://open.spotify.com/artist/0TEaL7Y50jr7N3mjxqFGBK) | [preshure](https://open.spotify.com/album/6GQyE6jbtClKvRZEdGFhsY) | 3:34 | 2022-09-09 | 2022-09-25 |

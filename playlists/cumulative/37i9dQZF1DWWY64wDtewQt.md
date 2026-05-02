@@ -4,7 +4,7 @@
 
 > the beat of your drift
 
-879 songs - 1 day 7 hr 40 min
+880 songs - 1 day 7 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -302,6 +302,7 @@
 | [Fuck Your Mind](https://open.spotify.com/track/2fxTylxOAfxV0R2YVNWWy7) | [Bad Smith](https://open.spotify.com/artist/5ENi6vIaG2GiuMP9ykUcMw) | [Homicide](https://open.spotify.com/album/2bq7fho2th0ny1eGeo2fDN) | 2:18 | 2021-06-24 | 2022-05-14 |
 | [Fuku](https://open.spotify.com/track/0OKLYzwOn92tx0QCE6QVIQ) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54), [ZWE1HVNDXR](https://open.spotify.com/artist/33rnQWadiG2aauIwIxPxfB) | [Fuku](https://open.spotify.com/album/1Av8SASgUHygkOKLy3WqRo) | 1:55 | 2024-04-19 | 2024-05-11 |
 | [FULL SEND](https://open.spotify.com/track/7LZ5kABpaC3XiXQEOlJ6LA) | [BLXCKBUSTA](https://open.spotify.com/artist/2iXMIbkem6Ca1oq3Jgjgfs) | [FULL SEND](https://open.spotify.com/album/1eOwNN7Bltds0VRlwrzeOl) | 1:54 | 2021-09-01 | 2022-07-30 |
+| [FUNK ABNORMAL \- SLOWED](https://open.spotify.com/track/1BoDSjzUW6Bjf8JjHmY6D2) | [DJ V12](https://open.spotify.com/artist/0PEgH2YVz5tadElsDE8ZpD) | [FUNK ABNORMAL](https://open.spotify.com/album/1L2kODY4rShKP0phbzgys3) | 1:41 | 2026-05-01 |  |
 | [FUNK BAD DO BAD](https://open.spotify.com/track/2SFZ5FXYoEYnz0LmXN52vD) | [DJ VTTT77](https://open.spotify.com/artist/7shWhQM6jbjhxG7TF6ae8X), [DJ VYZ](https://open.spotify.com/artist/7cIqiNrqyr9yAGv7e1WJ8F), [VORTEX](https://open.spotify.com/artist/3Chj7A59w4vWBa4fdSN27E) | [FUNK BAD DO BAD](https://open.spotify.com/album/1b3XLbn2sqvcr8nyl1Oq0U) | 1:45 | 2025-07-14 | 2025-09-07 |
 | [FUNK CRIMINAL \- SLOWED](https://open.spotify.com/track/0orvncykYQy4mPnIAdhhKM) | [ICEDMANE](https://open.spotify.com/artist/4cM6xcafBAbS9bOa8kAjRj), [DYSMANE](https://open.spotify.com/artist/1pFLuMBwabtFITLNJlEZ9z) | [FUNK CRIMINAL](https://open.spotify.com/album/4Y55pjcGWAW8kLIWCHay6F) | 1:32 | 2025-11-17 |  |
 | [Funk de Beleza \- Slowed](https://open.spotify.com/track/43jExF2HeZ6cJIGrWF0ie4) | [Nateki](https://open.spotify.com/artist/3g0UoyvaTaHUrfpHiRqsD1), [Scythermane](https://open.spotify.com/artist/5dDNNq04RjKXFOADdHd6VX), [MC MAYAH](https://open.spotify.com/artist/10mKIVPFtg42JIvttHQrzr) | [Funk de Beleza](https://open.spotify.com/album/4s7LxMlh6RxgdMhldfMe8u) | 2:25 | 2025-02-28 |  |
@@ -314,7 +315,7 @@
 | [FUNK SIGILO \- SLOWED](https://open.spotify.com/track/1ZPszVMluDbqsEx9MJTjJd) | [h6itam](https://open.spotify.com/artist/0exQbKNFd9pLmdIGycwmlf) | [FUNK SIGILO](https://open.spotify.com/album/3gciIH7IvN83uLz6Ay983i) | 1:43 | 2025-06-30 | 2026-02-14 |
 | [FUNK SIGILO \- ULTRA SLOWED](https://open.spotify.com/track/4kyDzE3UwJLoT3iImSh9Tj) | [h6itam](https://open.spotify.com/artist/0exQbKNFd9pLmdIGycwmlf) | [FUNK SIGILO](https://open.spotify.com/album/3gciIH7IvN83uLz6Ay983i) | 2:18 | 2025-07-25 |  |
 | [FUNK UNIVERSO](https://open.spotify.com/track/466x7CJlVwiFdNTLvIXwZl) | [Irokz](https://open.spotify.com/artist/2vKxv2oKVSEJZ1VmuLUOvY) | [FUNK UNIVERSO](https://open.spotify.com/album/1kmsUHDC0n611meNgzRkuw) | 2:07 | 2024-08-30 |  |
-| [FUNKED UP \- SLOWED](https://open.spotify.com/track/4VL5XwfATZuAVTW471Wpro) | [xxanteria](https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp), [isq](https://open.spotify.com/artist/6JjQbtAO09K7qBEW2pdX5s) | [FUNKED UP](https://open.spotify.com/album/4FRxgE6LA2UGJ5yz8diaI9) | 1:55 | 2024-02-09 |  |
+| [FUNKED UP \- SLOWED](https://open.spotify.com/track/4VL5XwfATZuAVTW471Wpro) | [xxanteria](https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp), [isq](https://open.spotify.com/artist/6JjQbtAO09K7qBEW2pdX5s) | [FUNKED UP](https://open.spotify.com/album/4FRxgE6LA2UGJ5yz8diaI9) | 1:55 | 2024-02-09 | 2026-05-02 |
 | [FXRGET MY NAME](https://open.spotify.com/track/1NrjzzDwftfYSsqigTLYNb) | [KUTE](https://open.spotify.com/artist/0S1mAPM0pgJZil5FCqhQTX), [Scarlxrd](https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr) | [FXRGET MY NAME](https://open.spotify.com/album/6CnLG7VZVZMPeovuHhhJUP) | 2:15 | 2023-01-20 | 2023-03-04 |
 | [G TECHNOLOGY](https://open.spotify.com/track/1sxi6NBCohfoz1RItDG46W) | [XHNORT](https://open.spotify.com/artist/23vwxJA0kYYvK0iwe06MAd) | [G TECHNOLOGY](https://open.spotify.com/album/341cwUJV2UrG47lLkMIphH) | 1:59 | 2022-01-06 | 2022-02-05 |
 | [Game Changer](https://open.spotify.com/track/5UqKldTxFyoJG6Nnj9Swtp) | [BRAN](https://open.spotify.com/artist/44CMqAkutKvmCaE2OxyCbd), [Rabblica](https://open.spotify.com/artist/2P5ncbo3eU5qqEUrVjW3iJ), [Phonkomorph](https://open.spotify.com/artist/5l9ZDO0scWY7nRZDFvwp42) | [Game Changer](https://open.spotify.com/album/3MD6jqMjXHiNMaNNdZZSZ6) | 2:41 | 2022-10-14 | 2022-11-19 |

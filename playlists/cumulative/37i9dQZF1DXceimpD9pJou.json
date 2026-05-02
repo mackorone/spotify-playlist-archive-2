@@ -1053,6 +1053,24 @@
     },
     {
       "album": {
+        "name": "A tu ritmo",
+        "url": "https://open.spotify.com/album/6va1MUP4CbhF4XgkEJ36Bo"
+      },
+      "artists": [
+        {
+          "name": "Paola Pablo",
+          "url": "https://open.spotify.com/artist/4OgKEU8REaur4PyaUb7Guu"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "A tu ritmo",
+      "url": "https://open.spotify.com/track/5OEs62VqtkuBHXjEDVVjnb"
+    },
+    {
+      "album": {
         "name": "A Tus Pies",
         "url": "https://open.spotify.com/album/0VyOeftma8SjkbCfMV1BoO"
       },
@@ -1912,6 +1930,28 @@
       "duration_ms": 512831,
       "name": "Adoraci\u00f3n en Londres (Medley)",
       "url": "https://open.spotify.com/track/0TOqehSpH3mvn2vRXq0G5j"
+    },
+    {
+      "album": {
+        "name": "Adorado En La Cruz (Live)",
+        "url": "https://open.spotify.com/album/7iEBVdDyqLeabiGJThD8dB"
+      },
+      "artists": [
+        {
+          "name": "Nico Cabrera",
+          "url": "https://open.spotify.com/artist/5wxATPJa84XY8v3jEfrZOF"
+        },
+        {
+          "name": "Javier Portela",
+          "url": "https://open.spotify.com/artist/39HWmzeoxeHJITyCK5orph"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287717,
+      "name": "Adorado En La Cruz - Live",
+      "url": "https://open.spotify.com/track/6w4FSXL5lIJacJr0ohzKFW"
     },
     {
       "album": {
@@ -6216,7 +6256,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 251162,
       "name": "Aqu\u00ed y Arriba",
       "url": "https://open.spotify.com/track/0wvAwfHWiKHEBsfMFcVcXC"
@@ -9469,6 +9509,24 @@
     },
     {
       "album": {
+        "name": "Calle 9 (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/1k8A6JPhf5AaVa4cqo20QU"
+      },
+      "artists": [
+        {
+          "name": "Jay Kalyl",
+          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Calle 9 - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/5Wik5Qtn0rmIqhlWtIxkIR"
+    },
+    {
+      "album": {
         "name": "Calle sin Salida",
         "url": "https://open.spotify.com/album/77BzZKbA7w8Y0X4II7qCyr"
       },
@@ -11292,7 +11350,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 269125,
       "name": "Cinderella - Espa\u00f1ol",
       "url": "https://open.spotify.com/track/78eg2otOHRAr7F9N6NYTv6"
@@ -13694,7 +13752,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 345805,
       "name": "Cordero",
       "url": "https://open.spotify.com/track/1b0a4asSsnWFtCn9YAIKZu"
@@ -18700,7 +18758,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 483000,
       "name": "Dios de Poder",
       "url": "https://open.spotify.com/track/4O7Nx0RwpzSKFyQw4NSpiE"
@@ -22525,6 +22583,24 @@
     },
     {
       "album": {
+        "name": "Nada lo Detiene (En Vivo Desde Vorterix)",
+        "url": "https://open.spotify.com/album/6K3Bf1tubXndj95f9Geyrc"
+      },
+      "artists": [
+        {
+          "name": "Rescate",
+          "url": "https://open.spotify.com/artist/1yIESehTCkR9hPmGFKxuV5"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 426750,
+      "name": "El Veneno / Yo No Abandono / Soy Jos\u00e9 - En Vivo",
+      "url": "https://open.spotify.com/track/08iobZHW4ubsnYjfc1sRiU"
+    },
+    {
+      "album": {
         "name": "El Verbo",
         "url": "https://open.spotify.com/album/7bc1EWe4XQQSvS7pfsvYJc"
       },
@@ -22734,6 +22810,24 @@
       "duration_ms": 242666,
       "name": "Emanuel - Spotify Singles Holiday",
       "url": "https://open.spotify.com/track/7vy407HYIESM2x9c0xzasm"
+    },
+    {
+      "album": {
+        "name": "EMMANUEL (En Vivo)",
+        "url": "https://open.spotify.com/album/33ctyXNQg47H7WS0nF2yGv"
+      },
+      "artists": [
+        {
+          "name": "Emi Valenzuela",
+          "url": "https://open.spotify.com/artist/0GJt3brt5lgw3o9bmeD0Ux"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 478615,
+      "name": "EMMANUEL - En Vivo",
+      "url": "https://open.spotify.com/track/6uL6MBfJTBfvjjYUZukul3"
     },
     {
       "album": {
@@ -23048,6 +23142,28 @@
       "duration_ms": 124090,
       "name": "En el lugar Equivocado",
       "url": "https://open.spotify.com/track/5pSoB6kXkCpMCpZBq0fC8U"
+    },
+    {
+      "album": {
+        "name": "En El Nombre De Jes\u00fas",
+        "url": "https://open.spotify.com/album/1sCqm0bXvobSkvE4G9sqVI"
+      },
+      "artists": [
+        {
+          "name": "YADAH",
+          "url": "https://open.spotify.com/artist/3Ah5V56kXoarxe5HfnRUl1"
+        },
+        {
+          "name": "Tony P\u00e9rez",
+          "url": "https://open.spotify.com/artist/1guiKPfkZCVKA8GoFQS4oJ"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158760,
+      "name": "En El Nombre De Jes\u00fas",
+      "url": "https://open.spotify.com/track/7ccEqJjhq6MMR29NPrZCMg"
     },
     {
       "album": {
@@ -29260,7 +29376,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 281000,
       "name": "Getseman\u00ed - Live",
       "url": "https://open.spotify.com/track/1sZ00eWebyUcizmDMPRldm"
@@ -29592,6 +29708,28 @@
       "duration_ms": 181732,
       "name": "Glory",
       "url": "https://open.spotify.com/track/4cNUbTFJ1WnVLPu4j8qRHR"
+    },
+    {
+      "album": {
+        "name": "Glory Down",
+        "url": "https://open.spotify.com/album/6o5H1yIsjIUS9mqjw3a09R"
+      },
+      "artists": [
+        {
+          "name": "Tommy Royale",
+          "url": "https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179673,
+      "name": "Glory Down",
+      "url": "https://open.spotify.com/track/2pSdPuESQIDrCOtAmTvqeY"
     },
     {
       "album": {
@@ -31340,6 +31478,28 @@
       "duration_ms": 237667,
       "name": "Guarda Tu Coraz\u00f3n",
       "url": "https://open.spotify.com/track/30QzcMG2SxcOCtMNgU9mXJ"
+    },
+    {
+      "album": {
+        "name": "Guarda Tu Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/4IG1HZSQ4PWNssjb4K5JAe"
+      },
+      "artists": [
+        {
+          "name": "Sion Naci\u00f3n Santa",
+          "url": "https://open.spotify.com/artist/18n57MJEZA9cqdZVYQr1db"
+        },
+        {
+          "name": "Daniela Mej\u00eda",
+          "url": "https://open.spotify.com/artist/0Cl5Oi3B8Lkjk84vthYkG5"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187118,
+      "name": "Guarda Tu Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/65z3scf5JqYLsawkRxYv3N"
     },
     {
       "album": {
@@ -41307,6 +41467,24 @@
     },
     {
       "album": {
+        "name": "JUGANDO A SER ARTISTA",
+        "url": "https://open.spotify.com/album/3FLsfxj1vwEMgQac5MC3Hd"
+      },
+      "artists": [
+        {
+          "name": "Niko La F\u00e1brica",
+          "url": "https://open.spotify.com/artist/77gpdl9ket58wQczszbrno"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133500,
+      "name": "LUZ",
+      "url": "https://open.spotify.com/track/7aCG8C6hwhXmj5aetuaQGL"
+    },
+    {
+      "album": {
         "name": "Luz A Mi Camino",
         "url": "https://open.spotify.com/album/1KoGyXi07aVL2gX6FEqgcC"
       },
@@ -41562,7 +41740,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 363883,
       "name": "L\u00edbranos del mal",
       "url": "https://open.spotify.com/track/3QXGa4DRM6uwQzOhsTp4dX"
@@ -45526,7 +45704,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 188142,
       "name": "Mi Oracion - Ac\u00fastico",
       "url": "https://open.spotify.com/track/12WvzRWjQQ9MCW4S09BpUh"
@@ -50464,7 +50642,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 374488,
       "name": "No parare",
       "url": "https://open.spotify.com/track/4iLs0AMro1LZA2iBBXWtI5"
@@ -51302,7 +51480,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 257577,
       "name": "Nombre Sobre Todo Nombre",
       "url": "https://open.spotify.com/track/6VeLpF7MhRnZcpmzQTMf7z"
@@ -52330,7 +52508,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 294058,
       "name": "Oh Jehov\u00e1",
       "url": "https://open.spotify.com/track/5maQd6knupzuKlaWdPkX1x"
@@ -53104,6 +53282,28 @@
       "duration_ms": 680000,
       "name": "O\u00edr Tu Voz",
       "url": "https://open.spotify.com/track/3zUEsNUYHwzBHLMZPXNgkr"
+    },
+    {
+      "album": {
+        "name": "O\u00edr Tu Voz (En vivo)",
+        "url": "https://open.spotify.com/album/1Q8BLpmfJjCSwZYUvkoknN"
+      },
+      "artists": [
+        {
+          "name": "Chris Armand",
+          "url": "https://open.spotify.com/artist/3HCLfuxaMWLOTBaAa0LLYX"
+        },
+        {
+          "name": "G\u00e9nesis Col\u00f3n",
+          "url": "https://open.spotify.com/artist/0kMN6WLuNDVrhRH88IMCzE"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 827910,
+      "name": "O\u00edr Tu Voz - En vivo",
+      "url": "https://open.spotify.com/track/3tLBj8tz4MzrueIbZOR91Q"
     },
     {
       "album": {
@@ -54536,6 +54736,36 @@
       "duration_ms": 213636,
       "name": "Perdona a tu Hermano",
       "url": "https://open.spotify.com/track/0XU375H0ujpDhezyHdblrH"
+    },
+    {
+      "album": {
+        "name": "Perdona nuestras deudas, como tambi\u00e9n nosotros perdonamos",
+        "url": "https://open.spotify.com/album/15PJLso5xM0Xv7x83X57uJ"
+      },
+      "artists": [
+        {
+          "name": "M\u00fasica M\u00e1s Vida",
+          "url": "https://open.spotify.com/artist/6UhhJKLSxxAPmFQ6j8wY1c"
+        },
+        {
+          "name": "Kelly Spyker",
+          "url": "https://open.spotify.com/artist/4bpeZo2d9Ey0VS2FbgkmJL"
+        },
+        {
+          "name": "PRISMA M\u00e1s Vida",
+          "url": "https://open.spotify.com/artist/2UHFb8SvTwloYRgoPz8umM"
+        },
+        {
+          "name": "Adeliz Spyker",
+          "url": "https://open.spotify.com/artist/6DC7chZwDQay07EhXaQslH"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303558,
+      "name": "Perdona nuestras deudas, como tambi\u00e9n nosotros perdonamos",
+      "url": "https://open.spotify.com/track/6VKlpmA1RSZO7j528zZrEY"
     },
     {
       "album": {
@@ -57817,6 +58047,28 @@
     },
     {
       "album": {
+        "name": "Que Vuelva Lo Santo Al Altar",
+        "url": "https://open.spotify.com/album/5oeomYwC5YkGONqoqKV9Vr"
+      },
+      "artists": [
+        {
+          "name": "Grupo Grace",
+          "url": "https://open.spotify.com/artist/6toUclayfnCvKyLtLSmyqb"
+        },
+        {
+          "name": "Montesanto",
+          "url": "https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 665454,
+      "name": "Que Vuelva Lo Santo Al Altar",
+      "url": "https://open.spotify.com/track/4CaukGrux3GEkAss6N96hM"
+    },
+    {
+      "album": {
         "name": "Quebranta Mi Corazon",
         "url": "https://open.spotify.com/album/63aRge1g4rfnl02J9iY0TK"
       },
@@ -59788,7 +60040,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 262466,
       "name": "RESUCIT\u00d3",
       "url": "https://open.spotify.com/track/0JHF91AC5uRDwB6sPjC4y6"
@@ -62938,6 +63190,54 @@
       "duration_ms": 220911,
       "name": "Si Me Acompa\u00f1as",
       "url": "https://open.spotify.com/track/5uKaFXdVaMJPsukmGmJxCY"
+    },
+    {
+      "album": {
+        "name": "Si me ven",
+        "url": "https://open.spotify.com/album/1PO6fEQV4MBgTuDegEHAM7"
+      },
+      "artists": [
+        {
+          "name": "La Cuarta Tribu",
+          "url": "https://open.spotify.com/artist/53PHZJeh2gWISiEJs7wtz7"
+        },
+        {
+          "name": "Jony Oz Praus",
+          "url": "https://open.spotify.com/artist/7hxWpKQ67C5PEwxYTP8joj"
+        },
+        {
+          "name": "Junior The Lion",
+          "url": "https://open.spotify.com/artist/1wXoAXyFg2FkoF8URLQ9KF"
+        },
+        {
+          "name": "Cefas MX",
+          "url": "https://open.spotify.com/artist/75d5XK30nhAIKgLUyLRPDD"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196590,
+      "name": "Si me ven",
+      "url": "https://open.spotify.com/track/5cikVTo4mgnyVLxrf37hCg"
+    },
+    {
+      "album": {
+        "name": "Si Mi Amor",
+        "url": "https://open.spotify.com/album/5NyNhm4bQKlyUewT1cI4fF"
+      },
+      "artists": [
+        {
+          "name": "Belu Rodriguez Kuhn",
+          "url": "https://open.spotify.com/artist/4bl02S6pPimhORndqVx5bN"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Si Mi Amor",
+      "url": "https://open.spotify.com/track/5cQrOnVDaja4WD5n84ACep"
     },
     {
       "album": {
@@ -66564,7 +66864,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 343018,
       "name": "Sublime Amor (Digno es el Se\u00f1or)",
       "url": "https://open.spotify.com/track/1gCliEOlpESToPvRqCpsXM"
@@ -70648,7 +70948,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 301651,
       "name": "Todo Se Trata de Ti",
       "url": "https://open.spotify.com/track/04XSl6w9hMugTlUeg2aFBa"
@@ -72598,6 +72898,24 @@
       "duration_ms": 156097,
       "name": "TU PODER - LIVE SESSION",
       "url": "https://open.spotify.com/track/5j2faSDkKww9erztG7jsSC"
+    },
+    {
+      "album": {
+        "name": "Tu Poder Se Manifiesta",
+        "url": "https://open.spotify.com/album/3gzCaCKxoKPkg9sgHHVwPg"
+      },
+      "artists": [
+        {
+          "name": "Daniela Galeano",
+          "url": "https://open.spotify.com/artist/5iBuQW2ANJlj4eqhEv43Be"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356666,
+      "name": "Tu Poder Se Manifiesta",
+      "url": "https://open.spotify.com/track/1Wp1zKEyl6A3VLo0bzfwTV"
     },
     {
       "album": {
@@ -74738,7 +75056,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 182826,
       "name": "Una Palabra",
       "url": "https://open.spotify.com/track/4TEg35zL6tPwvz31kVSuSN"
@@ -78549,6 +78867,24 @@
     },
     {
       "album": {
+        "name": "WORK trabajando y Joseando",
+        "url": "https://open.spotify.com/album/04Rj75y7QLdFOiGUE9vyqk"
+      },
+      "artists": [
+        {
+          "name": "Madiel Lara",
+          "url": "https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136800,
+      "name": "WORK trabajando y Joseando",
+      "url": "https://open.spotify.com/track/7kbGPxLZnMBp1SJJY8xFkC"
+    },
+    {
+      "album": {
         "name": "Libres (En Vivo)",
         "url": "https://open.spotify.com/album/3LZMKk7H5NC7SET0WtlfF8"
       },
@@ -80222,7 +80558,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 241575,
       "name": "\u00a1Alabo!",
       "url": "https://open.spotify.com/track/0VgvkabPTPWJGc08ct1tE4"
@@ -80500,7 +80836,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 200164,
       "name": "\u00bfQu\u00e9 es lo que ves?",
       "url": "https://open.spotify.com/track/2mLLX02XVGxgPorNyP0Mn0"
@@ -80890,7 +81226,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 264000,
       "name": "\u00cdMPETU (la potencia de tu amor)",
       "url": "https://open.spotify.com/track/5w4jRnhpq1CE6OMU28kBTF"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9T8P88bzbxH.md) - [plain]
 
 > One Night Only\. Cover: SIENNA SPIRO
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,304 likes - 16 songs - 53 min 38 sec
+[Spotify](https://open.spotify.com/user/spotify) - 54,296 likes - 16 songs - 53 min 38 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,4 +25,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9T8P88bzbxH.md) - [plain]
 | 15 | [MAYBE\. \(Live from The Mews\)](https://open.spotify.com/track/2bBI7ueQ283hFipaREeXKM) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [MAYBE\. \(Live from The Mews\)](https://open.spotify.com/album/3Ki1UjZ39pE7SzER7LBj5u) | 3:59 |
 | 16 | [Dream Police \- A COLORS SHOW](https://open.spotify.com/track/5QyMmN69liMooUXqLCGnlv) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Dream Police \- A COLORS SHOW](https://open.spotify.com/album/3t17AlL92gAdEO0gjbZdJn) | 3:10 |
 
-Snapshot ID: `AAAAAEGbOPIB0RKpFJTLCAJa0Ow/B4/C`
+Snapshot ID: `AAAAADFvy+9xplj3yFwwol9eBuT3h2pM`

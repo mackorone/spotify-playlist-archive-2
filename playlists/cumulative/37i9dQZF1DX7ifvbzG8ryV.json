@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-03-28",
-  "description": "From the LGBTQIA+ songwriters that make the music happen. This month's cover: Harry Paynter",
+  "description": "From the LGBTQIA+ songwriters that make the music happen. This month's cover: <a href=\"spotify:playlist:37i9dQZF1DZ06evO4xDYrO\">Luca Eck</a>",
   "name": "GLOW Songwriters",
   "tracks": [
     {
@@ -689,6 +689,28 @@
     },
     {
       "album": {
+        "name": "boy you turn me",
+        "url": "https://open.spotify.com/album/0yYcF3WuWkHIYpsyWUpRfA"
+      },
+      "artists": [
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        },
+        {
+          "name": "Cascada",
+          "url": "https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192331,
+      "name": "boy you turn me",
+      "url": "https://open.spotify.com/track/5xM6Saib7CixujU8BFW2eN"
+    },
+    {
+      "album": {
         "name": "Bring Me Up",
         "url": "https://open.spotify.com/album/5YKinGGDEUTC2L89mfCODi"
       },
@@ -1247,6 +1269,32 @@
     },
     {
       "album": {
+        "name": "Fake Designer Bitch",
+        "url": "https://open.spotify.com/album/5hCQ243LVAFWKqK7i0IfTg"
+      },
+      "artists": [
+        {
+          "name": "Miss Bashful",
+          "url": "https://open.spotify.com/artist/5skHU2PrWHKFfSTpq9y56C"
+        },
+        {
+          "name": "CHRIST DILLINGER",
+          "url": "https://open.spotify.com/artist/5wtRHmD5xeAYuwxiteR5t3"
+        },
+        {
+          "name": "Luca Eck",
+          "url": "https://open.spotify.com/artist/7FvEqUihbJfx5vpfGd1OLz"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187086,
+      "name": "Fake Designer Bitch",
+      "url": "https://open.spotify.com/track/00qZqbXKAiR9TAQyW7FTPx"
+    },
+    {
+      "album": {
         "name": "The Wishing, The Wanting, The Longing",
         "url": "https://open.spotify.com/album/4Fks75uJTwftRTJRFlBRkl"
       },
@@ -1655,6 +1703,28 @@
     },
     {
       "album": {
+        "name": "hypnotic",
+        "url": "https://open.spotify.com/album/2DSQ0te0oy0njroeUylqyu"
+      },
+      "artists": [
+        {
+          "name": "Cannelle",
+          "url": "https://open.spotify.com/artist/0wBhtCF5VHSgXPGm7xfDtg"
+        },
+        {
+          "name": "RADA",
+          "url": "https://open.spotify.com/artist/4Mt29F9smgR7ghycaf5fI5"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139636,
+      "name": "hypnotic",
+      "url": "https://open.spotify.com/track/4jai4V2swDZweF6fl36jVV"
+    },
+    {
+      "album": {
         "name": "Ta-Dah",
         "url": "https://open.spotify.com/album/3YIdZQ7UbWoTxPgznAYVOC"
       },
@@ -1818,7 +1888,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 184888,
       "name": "IGNORANT",
       "url": "https://open.spotify.com/track/01gpd8j9gKFtLFfoZOaIms"
@@ -1894,7 +1964,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 213830,
       "name": "Isn\u2019t That Life",
       "url": "https://open.spotify.com/track/1iIRaQjzWaDql3e52JNWU9"
@@ -2146,7 +2216,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 181080,
       "name": "Low",
       "url": "https://open.spotify.com/track/2GAhgAjOhEmItWLfgisyOn"
@@ -2446,7 +2516,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 168920,
       "name": "On Time (with John Legend)",
       "url": "https://open.spotify.com/track/0YFqKxV9uNu6LUeYkLOKRS"
@@ -3278,7 +3348,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 202768,
       "name": "The Giver",
       "url": "https://open.spotify.com/track/5xHgo5JN0wfsV41HnRaos5"
@@ -3340,6 +3410,24 @@
       "duration_ms": 236626,
       "name": "This Hell (feat. CHANMINA - Gyarupi Remix - Spotify Singles)",
       "url": "https://open.spotify.com/track/7fjPGuy2gOewuexxESLnZI"
+    },
+    {
+      "album": {
+        "name": "THONG",
+        "url": "https://open.spotify.com/album/0vVInRXzDq970OkAn1GMZg"
+      },
+      "artists": [
+        {
+          "name": "AMARA ctk100",
+          "url": "https://open.spotify.com/artist/6g40AmE4t6z5wPuFbytdsy"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "THONG",
+      "url": "https://open.spotify.com/track/5r1D9DtMEElNntJiidxjHG"
     },
     {
       "album": {
@@ -3544,6 +3632,32 @@
       "duration_ms": 223933,
       "name": "U Move, I Move (feat. Jhene Aiko)",
       "url": "https://open.spotify.com/track/7wfDCDfhVe2tFxIkQEJp35"
+    },
+    {
+      "album": {
+        "name": "U&ME",
+        "url": "https://open.spotify.com/album/3dY9oVxZ48j0pMXdZMisf7"
+      },
+      "artists": [
+        {
+          "name": "Six Sex",
+          "url": "https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr"
+        },
+        {
+          "name": "Dauner",
+          "url": "https://open.spotify.com/artist/2E5bmPbkiGhZ3ZK798zFIb"
+        },
+        {
+          "name": "Luca Eck",
+          "url": "https://open.spotify.com/artist/7FvEqUihbJfx5vpfGd1OLz"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159402,
+      "name": "U&ME",
+      "url": "https://open.spotify.com/track/6NbXVdpQep2wNcmVzWYOSt"
     },
     {
       "album": {

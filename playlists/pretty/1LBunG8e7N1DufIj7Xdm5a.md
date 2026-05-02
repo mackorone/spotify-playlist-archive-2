@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 280 likes - 4,412 songs - 9 day 19 hr 14 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 279 likes - 4,414 songs - 9 day 19 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -918,7 +918,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 908 | [Sapore di Sale](https://open.spotify.com/track/58CCZxQi37FMlZZgcHbS6y) | [Alan](https://open.spotify.com/artist/4pCnnAarSOFMmTPeVlEEHC) | [Canzoni dal mare](https://open.spotify.com/album/1m6WEPOibn4fuVrzY7AnGN) | 3:16 |
 | 909 | [Via Da Me](https://open.spotify.com/track/0CyihkMcscks26TkL0fbx0) | [Cow Lee](https://open.spotify.com/artist/3WM2c0I49ITR5o3BeXeBQe) | [Via Da Me](https://open.spotify.com/album/2izmZV5MGnh9fv0YZ0D7wi) | 3:55 |
 | 910 | [Strana Storia](https://open.spotify.com/track/2JINzBqm2P2x0TQb6hcy7L) | [Dario Corso](https://open.spotify.com/artist/2UKPaa2TFpjhsquHhmT4wS) | [Strana Storia](https://open.spotify.com/album/3KqIfVReFBVu6Pyop3hHkF) | 3:22 |
-| 911 | [La Voce del Guerriero](https://open.spotify.com/track/3Qz2eWyknAOgOQp0eV1B6K) | [La voce del Guerriero](https://open.spotify.com/artist/7M5QXFQwcwIqzeuYJ0T6q6) | [La Voce del Guerriero](https://open.spotify.com/album/1QOCJwdtFf0omgQYkLwhAI) | 3:01 |
+| 911 | [La Voce del Guerriero](https://open.spotify.com/track/3Qz2eWyknAOgOQp0eV1B6K) | [Jacopo Bettarello](https://open.spotify.com/artist/0tAVAXmULUK2GFWGsMwEsQ) | [La Voce del Guerriero](https://open.spotify.com/album/1QOCJwdtFf0omgQYkLwhAI) | 3:01 |
 | 912 | [Contratto Sociale](https://open.spotify.com/track/6ZJa46jYozr63nAC9hwmOn) | [Guida Galattica](https://open.spotify.com/artist/6dALgmDuM8lbsYjTRh7xlv) | [Contratto Sociale](https://open.spotify.com/album/54a1IfFEuW4ggpQASC1mcJ) | 3:15 |
 | 913 | [IO SONO QUI](https://open.spotify.com/track/0OLOmMmkbfMY3c39PtjXqy) | [Alex Loffredi](https://open.spotify.com/artist/7nKYP4LvatBevQFhAwysHa) | [IO SONO QUI](https://open.spotify.com/album/3nrsk9jpePUmSKLpti0HoO) | 4:16 |
 | 914 | [Somewhere I Used to Know \- Initial Version](https://open.spotify.com/track/7f6rfp7aXoVAkw4TybTL7j) | [oitavosounds](https://open.spotify.com/artist/6KuxuULcCuhHl7wn5LYbM8) | [Somewhere I Used to Know \(Initial Version\)](https://open.spotify.com/album/3CPKtNKfxolxLfij1rfoas) | 4:04 |
@@ -4420,5 +4420,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4410 | [GO, ASPES, GO!](https://open.spotify.com/track/1mpuTkfVafb22RRsbyVYqm) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb), [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [GO, ASPES, GO!](https://open.spotify.com/album/5v5VtoURQd0LyfEumtJwW9) | 2:13 |
 | 4411 | [Coniglietto DJ](https://open.spotify.com/track/4I89YYb7dlVegs6RhnLeN8) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Coniglietto DJ](https://open.spotify.com/album/7xaHYTCnmu5LVmUVFyb1LA) | 2:39 |
 | 4412 | [Coffee in Barcelona](https://open.spotify.com/track/1p6AI4YeYuTnQdiGRj5G8i) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Coffee in Barcelona](https://open.spotify.com/album/1ykrKt162d6k4QYCYEUO58) | 3:48 |
+| 4413 | [Kikiri](https://open.spotify.com/track/0Ph4ZM6ALp60ee0QLYqIhb) | [HOZATHEBOSS](https://open.spotify.com/artist/5qlQBBPsnIsx0UxLSVotFj), [Quobo blessing](https://open.spotify.com/artist/7EHMTSkPqZTNMIpFE2vR4q) | [Kikiri](https://open.spotify.com/album/6k3FPD6wqHQ61hNGb2eQIE) | 2:09 |
+| 4414 | [TENDENCIA](https://open.spotify.com/track/2JLopiOtCfUzma7nCqrW6R) | [The Samu](https://open.spotify.com/artist/1hyzQSk08cK1aPlEKx5dOP) | [TENDENCIA](https://open.spotify.com/album/0FUyjX0GbIMMsZi9DUPLQR) | 2:12 |
 
-Snapshot ID: `AAAIes7n0up5MGZ8mRxmssKqt8QqKh5d`
+Snapshot ID: `AAAIfChqzzw7xsOIY86EikhdwRXHWpsG`

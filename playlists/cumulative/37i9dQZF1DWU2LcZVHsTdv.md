@@ -4,7 +4,7 @@
 
 > The country way of testifying.
 
-301 songs - 18 hr 15 min
+303 songs - 18 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -245,10 +245,12 @@
 | [Tell Somebody 'Bout You](https://open.spotify.com/track/4L4wkF5VyUrFXVSp5TPt1T) | [Adam Sanders](https://open.spotify.com/artist/17ewtqMhsRUPRdhpYLzMxg) | [Tell Somebody 'Bout You](https://open.spotify.com/album/3nYkJBH8aukTHcj3AacU22) | 3:56 | 2022-11-18 |  |
 | [Tell Somebody 'bout You](https://open.spotify.com/track/7Cf1zlZsFA2JzlbcDkEacw) | [Adam Sanders](https://open.spotify.com/artist/17ewtqMhsRUPRdhpYLzMxg) | [Tell Somebody 'bout You](https://open.spotify.com/album/3NPimD4mtfgvqJ0x1PLVqa) | 3:56 | 2024-02-16 | 2024-04-19 |
 | [Thank God](https://open.spotify.com/track/1brnLTvarI9D1hLP6z2Ar8) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Katelyn Brown](https://open.spotify.com/artist/2GB8NPGTvSHk3KwmxtVvaB) | [Different Man](https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1) | 2:54 | 2022-09-09 |  |
+| [Thank God](https://open.spotify.com/track/0AnnD87PGRDF7RnLAmZvkN) | [Leanna Crawford](https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf) | [Thank God](https://open.spotify.com/album/6h98A5KHmYsGsL4S52GeMo) | 3:49 | 2026-05-01 |  |
 | [That Bible](https://open.spotify.com/track/7oZVzSu7nxiutgT0K3xnEf) | [Kaleb Kaps](https://open.spotify.com/artist/7nywTovJnYpiT6i91WaCTv) | [That Bible](https://open.spotify.com/album/1ZbZwBqAQc7CJJUGGkEh5X) | 3:25 | 2026-01-16 |  |
 | [That Old King James](https://open.spotify.com/track/5NacrWDvEXJzqO2FyT3Wpe) | [Scotty McCreery](https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29) | [Clear As Day](https://open.spotify.com/album/0molQ0VuhniiiYNZ1iAJrc) | 3:28 | 2021-12-10 |  |
 | [That's What I Love About Sunday](https://open.spotify.com/track/7vxRD4BOqSU2Lh7QAoE5ru) | [Craig Morgan](https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD) | [The Journey \(Livin' Hits\)](https://open.spotify.com/album/3q3vQKnkRSqCjjTAc6I5ai) | 3:17 | 2021-12-10 | 2025-06-30 |
 | [That’s God](https://open.spotify.com/track/32RsPGjvELIqW3TjPKVF3a) | [Jo Dee Messina](https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3) | [Unmistakable Inspiration](https://open.spotify.com/album/4TyigJCY5sR7QXp7xo1MJ1) | 4:42 | 2022-03-04 |  |
+| [The Author](https://open.spotify.com/track/49pVTawHCdwER1Y5w7Mgeb) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi) | [The Author](https://open.spotify.com/album/0dZEIWwlJsgywXmbYl8cd5) | 4:36 | 2026-05-01 |  |
 | [The Distance](https://open.spotify.com/track/0i9dhJF6YyvsREsnlLIxtt) | [Gary LeVox](https://open.spotify.com/artist/6daR4Ec3o6K4VJnRcPM6w6) | [God Only Knows](https://open.spotify.com/album/6GMwNEyEG5qDOS0Oe5uVlQ) | 3:24 | 2022-11-04 | 2022-11-13 |
 | [The Distance](https://open.spotify.com/track/2y4pN2wraqU3JOJbv68EiR) | [Gary LeVox](https://open.spotify.com/artist/6daR4Ec3o6K4VJnRcPM6w6) | [The Distance](https://open.spotify.com/album/4LCkyZl9VAaO2TBjpnvtxO) | 3:24 | 2021-12-10 | 2025-06-30 |
 | [The Distance](https://open.spotify.com/track/6j5M0J8g1pfRnJ9wWwrvFP) | [Gary LeVox](https://open.spotify.com/artist/6daR4Ec3o6K4VJnRcPM6w6) | [One On One](https://open.spotify.com/album/5UGVoX8a8k9bh46FWaVWcr) | 3:24 | 2022-07-15 | 2024-04-19 |

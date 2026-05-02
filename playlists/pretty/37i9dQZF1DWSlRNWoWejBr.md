@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlRNWoWejBr.md) - [plain]
 
 > ginga y balança
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,055,137 likes - 55 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,055,448 likes - 55 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlRNWoWejBr.md) - [plain]
 | 54 | [Meu Carro nao tem Porta Luva \- Remastered 2024](https://open.spotify.com/track/0vYrfm0eUQyi6fWbYnBiDc) | [DJ NATAN 22](https://open.spotify.com/artist/1IOofxVTB3jFgrfUpufZgF), [Mc Rodrigo do CN](https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC) | [Meu Carro nao tem Porta Luva \(Remastered 2024\)](https://open.spotify.com/album/2lspGbGOU0Bz2ZH4sfhN5b) | 2:39 |
 | 55 | [MEC MEC MTG](https://open.spotify.com/track/0xzi8vNqlHPU0crfB8jLCg) | [Zairon](https://open.spotify.com/artist/4OsPs4eirSwu3F4jB1bL0B), [MC Marlon PH](https://open.spotify.com/artist/3uSPe0aATQvPSLWin1kZsQ) | [MEC MEC MTG](https://open.spotify.com/album/3GW4o5DEdCx2AcO6heMW9h) | 4:16 |
 
-Snapshot ID: `AAAAAENlfYmbEXx/jqVeiQMS6s3G2dsz`
+Snapshot ID: `AAAAANUe8oLC0+mZsDukCpzvJ1LXPVil`

@@ -4,7 +4,7 @@
 
 > This is Rev\. Gary Davis\. The essential tracks, all in one playlist.
 
-361 songs - 23 hr 13 min
+362 songs - 23 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,7 +140,7 @@
 | [I'm Glad I'm In That Number](https://open.spotify.com/track/4NP3osK3ATVaosyWXVZxvN) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Have A Little Faith](https://open.spotify.com/album/0hy4BlhOVL04C5h3Rj6hHK) | 3:00 | 2022-11-18 | 2026-04-11 |
 | [I'm Going Back to Jesus](https://open.spotify.com/track/2xPFvDlbBDekEfzOonWBnb) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [At Home and Church, 1962 \- 1967](https://open.spotify.com/album/7soKwEe8T3oGaA0k59LzFU) | 2:06 | 2024-07-03 | 2024-07-12 |
 | [I'm Going Down To The Banks Of The River \- Live](https://open.spotify.com/track/35JxXNUXfVK0PUpuNOte1Y) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Rev\. Gary Davis \- The Best of \(Live\)](https://open.spotify.com/album/5ZPJN0s0Fp8KR0ZQsaVqNT) | 3:25 | 2023-01-05 | 2025-10-13 |
-| [I'm Going to Sit Down at the Banks of the River](https://open.spotify.com/track/0a8Fw5dc1PKPfTmX0wtVov) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Demons & Angels \- the Music of Rev\. Gary Davis](https://open.spotify.com/album/5uMHd9vl0MbLLW0dSeoiox) | 3:41 | 2025-08-18 |  |
+| [I'm Going to Sit Down at the Banks of the River](https://open.spotify.com/track/0a8Fw5dc1PKPfTmX0wtVov) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Demons & Angels \- the Music of Rev\. Gary Davis](https://open.spotify.com/album/5uMHd9vl0MbLLW0dSeoiox) | 3:41 | 2025-08-18 | 2026-05-02 |
 | [I'm Going To Sit Down On The Banks Of The River](https://open.spotify.com/track/0RjpjcpgTSVl4PLVOYY56y) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Demons & Angels: The Ultimate Collection, Pt\. 3](https://open.spotify.com/album/7ujee14gIzKCnCCb0N2lSd) | 3:41 | 2022-08-22 | 2022-08-24 |
 | [I'm Gonna Meet You At The Station](https://open.spotify.com/track/5cAFPKZ6KUXPTdtrzRfO66) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Rev\. Blind Gary Davis 1935 \- 1949](https://open.spotify.com/album/6d9OIAdRyHLbwwblrIplW2) | 2:39 | 2023-01-09 | 2023-02-16 |
 | [I'm Gonna Sit Down On The Banks Of The River \- Live in Seattle, WA](https://open.spotify.com/track/1FxKwDmltwsby7JiyETbsv) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Let Us Get Together](https://open.spotify.com/album/5isJaTPlAr6VIv9z24DYF3) | 2:43 | 2022-10-21 | 2023-04-30 |
@@ -295,6 +295,7 @@
 | [Teaching The Audience The Next Song \- Live in Seattle, WA](https://open.spotify.com/track/3gHermfYjYNnjhUTyMgtpV) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Let Us Get Together](https://open.spotify.com/album/5isJaTPlAr6VIv9z24DYF3) | 1:38 | 2022-11-04 | 2022-11-09 |
 | [Teaching The Audience The Next Song \- Live in Seattle, WA](https://open.spotify.com/track/75BCBXpg4Rfn3gNbl44oS1) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Let Us Get Together](https://open.spotify.com/album/4OPoyVzXoRk0B4d8J3dYPu) | 1:38 | 2024-01-03 | 2024-07-06 |
 | [That'll Never Happen No More](https://open.spotify.com/track/6bhGBsUTqZ3WXGJAGA4KST) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [See What the Lord Has Done for Me](https://open.spotify.com/album/5uzA87eKTQ5p9pYbnptf8x) | 5:27 | 2025-11-11 | 2025-11-16 |
+| [The Angel's Message To Me](https://open.spotify.com/track/3btVRMmF1BJKdaS9LaKzBr) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Rev\. Blind Gary Davis 1935 \- 1949](https://open.spotify.com/album/6d9OIAdRyHLbwwblrIplW2) | 3:07 | 2026-05-02 |  |
 | [The Angel's Message To Me](https://open.spotify.com/track/4ERDmgImi44amVKVAfKg7J) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [The Complete Early Recordings Of Reverend Gary Davis](https://open.spotify.com/album/07iVLo7HJnTG7NllteS0FA) | 3:09 | 2022-05-25 | 2026-01-23 |
 | [The Boy Was Kissing The Girl \(And Playing Guitar At The Same Time\) \- Instrumental](https://open.spotify.com/track/6qFJtlL73HIEh0maFhyQ6Z) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [The Guitar And Banjo Of Reverend Gary Davis](https://open.spotify.com/album/53QsjgEDlXH9TwIamS0xGJ) | 2:40 | 2022-05-25 |  |
 | [The Coon Hunt \- Instrumental](https://open.spotify.com/track/699dNhyPOOfnmNVSBvDize) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [The Guitar And Banjo Of Reverend Gary Davis](https://open.spotify.com/album/53QsjgEDlXH9TwIamS0xGJ) | 3:30 | 2022-05-25 | 2023-01-17 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Jon Onabowu\. Artwork: Joy Yamusangie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,799 likes - 50 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,822 likes - 50 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 49 | [Free Walk](https://open.spotify.com/track/46x2cgaUSfRaSq23m7X3DW) | [VLADKO](https://open.spotify.com/artist/6ftomcXSADOmmYxdiIdZZq) | [Synergy](https://open.spotify.com/album/3K4whjVMfA0ASwE95cdwQC) | 3:32 |
 | 50 | [III](https://open.spotify.com/track/1ugfBj9fsGT5biFc05KraW) | [Glass Museum](https://open.spotify.com/artist/0bq8ZdJxUOXswye4qT4zzU) | [III](https://open.spotify.com/album/3msKt0mDyAL1aTYthJeKQp) | 6:05 |
 
-Snapshot ID: `AAAAAC+/pHw/2+MnLRnl2+K/A1y90M5P`
+Snapshot ID: `AAAAAMhTfZ8OnHPeg6XaOoN+mjKdFtb0`

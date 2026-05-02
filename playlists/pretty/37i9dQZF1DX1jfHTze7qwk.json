@@ -1,0 +1,834 @@
+{
+  "description": "\u0e1f\u0e31\u0e07\u0e41\u0e25\u0e30\u0e14\u0e39\u0e40\u0e2d\u0e47\u0e21\u0e27\u0e35\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e17\u0e22\u0e08\u0e32\u0e01\u0e17\u0e38\u0e01\u0e0a\u0e48\u0e27\u0e07\u0e40\u0e27\u0e25\u0e32 \u0e14\u0e39\u0e40\u0e2d\u0e47\u0e21\u0e27\u0e35\u0e44\u0e14\u0e49\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a\u0e1c\u0e39\u0e49\u0e43\u0e0a\u0e49\u0e07\u0e32\u0e19\u0e41\u0e1a\u0e1a\u0e1e\u0e23\u0e35\u0e40\u0e21\u0e35\u0e48\u0e22\u0e21. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Polycat",
+  "num_followers": 2819,
+  "original_name": "\u0e40\u0e2d\u0e47\u0e21\u0e27\u0e35\u0e40\u0e01\u0e48\u0e32\u0e17\u0e35\u0e48\u0e40\u0e23\u0e32\u0e0a\u0e2d\u0e1a",
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "AAAAAAxtrAKfhj42Bvfw9mbqIxD3Ofk0",
+  "tracks": [
+    {
+      "added_at": "2026-03-13 04:04:28",
+      "album": {
+        "name": "Fate \u03a9mega",
+        "url": "https://open.spotify.com/album/1vnKkFW0EK0ihTX5Z912ca"
+      },
+      "artists": [
+        {
+          "name": "Cocktail",
+          "url": "https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb"
+        },
+        {
+          "name": "\u0e1e\u0e07\u0e28\u0e4c \u0e1e\u0e31\u0e17\u0e25\u0e38\u0e07",
+          "url": "https://open.spotify.com/artist/5qNjSZ0y0Z9qqP1DFC5fnc"
+        },
+        {
+          "name": "\u0e1b\u0e39\u0e48\u0e08\u0e4b\u0e32\u0e19 \u0e25\u0e2d\u0e07\u0e44\u0e21\u0e04\u0e4c",
+          "url": "https://open.spotify.com/artist/23YWwPEvaO5HLqEMgiUXJa"
+        },
+        {
+          "name": "Lamyai Haitongkam",
+          "url": "https://open.spotify.com/artist/2JERRcsJmtVhbc9uTH7h4t"
+        }
+      ],
+      "duration_ms": 263013,
+      "name": "\u0e04\u0e19\u0e08\u0e23\u0e34\u0e07\u0e43\u0e08 (feat. \u0e1e\u0e07\u0e28\u0e4c \u0e1e\u0e31\u0e17\u0e25\u0e38\u0e07, \u0e1b\u0e39\u0e48\u0e08\u0e4b\u0e32\u0e19 \u0e25\u0e2d\u0e07\u0e44\u0e21\u0e04\u0e4c & Lamyai Haitongkam)",
+      "url": "https://open.spotify.com/track/3PRRNMQUjnFbZhvtPd37F3"
+    },
+    {
+      "added_at": "2026-03-13 04:04:28",
+      "album": {
+        "name": "\u0e0a\u0e38\u0e14\u0e17\u0e35\u0e48 8 \u0e08\u0e07\u0e40\u0e1e\u0e23\u0e32\u0e30",
+        "url": "https://open.spotify.com/album/7x31VHMG8eicd8iYQzx0L9"
+      },
+      "artists": [
+        {
+          "name": "Tattoo Colour",
+          "url": "https://open.spotify.com/artist/5pxvW2nJ0a77b9oX24Unwi"
+        }
+      ],
+      "duration_ms": 201706,
+      "name": "\u0e02\u0e32\u0e2b\u0e21\u0e39",
+      "url": "https://open.spotify.com/track/3ZONf2dg0q1KvTIebUI0GG"
+    },
+    {
+      "added_at": "2026-03-13 04:04:28",
+      "album": {
+        "name": "80 Kisses",
+        "url": "https://open.spotify.com/album/4z8dyovQ2XGFESeEeRam95"
+      },
+      "artists": [
+        {
+          "name": "Polycat",
+          "url": "https://open.spotify.com/artist/1ssEwBiz4ZKrbgR6o8vOeg"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "\u0e21\u0e31\u0e19\u0e40\u0e1b\u0e47\u0e19\u0e43\u0e04\u0e23 (Alright)",
+      "url": "https://open.spotify.com/track/4PXdOchDL7aUZghQobIlhX"
+    },
+    {
+      "added_at": "2026-03-13 04:04:28",
+      "album": {
+        "name": "Cell",
+        "url": "https://open.spotify.com/album/2kldPQZzNeNjRyK8tt9Qne"
+      },
+      "artists": [
+        {
+          "name": "Slot Machine",
+          "url": "https://open.spotify.com/artist/6TNTFjkJA8PhP16Ds7CZnz"
+        }
+      ],
+      "duration_ms": 250613,
+      "name": "\u0e08\u0e31\u0e19\u0e17\u0e23\u0e4c\u0e40\u0e08\u0e49\u0e32 (Goodbye)",
+      "url": "https://open.spotify.com/track/5J3arLZL7OgQ4yvLDfatxW"
+    },
+    {
+      "added_at": "2026-03-13 04:04:28",
+      "album": {
+        "name": "Your Girl",
+        "url": "https://open.spotify.com/album/0CmKGlxb5Te6ENFWPjwUtN"
+      },
+      "artists": [
+        {
+          "name": "Violette Wautier",
+          "url": "https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu"
+        }
+      ],
+      "duration_ms": 239279,
+      "name": "\u0e15\u0e31\u0e49\u0e07\u0e41\u0e15\u0e48\u0e21\u0e35\u0e40\u0e18\u0e2d\u0e09\u0e31\u0e19\u0e21\u0e35\u0e04\u0e27\u0e32\u0e21\u0e2a\u0e38\u0e02 (This Time)",
+      "url": "https://open.spotify.com/track/4rmspWmdoJIjw6Rm3cEvGm"
+    },
+    {
+      "added_at": "2026-03-13 04:04:28",
+      "album": {
+        "name": "\u0e19\u0e31\u0e01\u0e27\u0e34\u0e17\u0e22\u0e32\u0e28\u0e32\u0e2a\u0e15\u0e23\u0e4c",
+        "url": "https://open.spotify.com/album/6TEWpUfEA5MsTJK2xhyqFn"
+      },
+      "artists": [
+        {
+          "name": "D Gerrard",
+          "url": "https://open.spotify.com/artist/1k7MP2tMC43vM0b0wg8HHg"
+        }
+      ],
+      "duration_ms": 211328,
+      "name": "\u0e19\u0e31\u0e01\u0e27\u0e34\u0e17\u0e22\u0e32\u0e28\u0e32\u0e2a\u0e15\u0e23\u0e4c",
+      "url": "https://open.spotify.com/track/3cZP6wSDNl9i2PgrXo4Zk5"
+    },
+    {
+      "added_at": "2026-03-13 04:04:28",
+      "album": {
+        "name": "\u0e15\u0e23\u0e07\u0e41\u0e19\u0e27\u0e46",
+        "url": "https://open.spotify.com/album/39oCGotLzMIqGf8gLuUrwg"
+      },
+      "artists": [
+        {
+          "name": "Tattoo Colour",
+          "url": "https://open.spotify.com/artist/5pxvW2nJ0a77b9oX24Unwi"
+        }
+      ],
+      "duration_ms": 255720,
+      "name": "\u0e40\u0e18\u0e2d\u0e44\u0e21\u0e48\u0e2d\u0e32\u0e08\u0e40\u0e2d\u0e32\u0e23\u0e31\u0e01\u0e44\u0e1b\u0e08\u0e32\u0e01\u0e2b\u0e31\u0e27\u0e43\u0e08",
+      "url": "https://open.spotify.com/track/2osoiXSQrConE7kKdIlxin"
+    },
+    {
+      "added_at": "2026-03-13 04:04:28",
+      "album": {
+        "name": "Pillow War",
+        "url": "https://open.spotify.com/album/6sYl8jS1YLFwKoYCxvsgmP"
+      },
+      "artists": [
+        {
+          "name": "Polycat",
+          "url": "https://open.spotify.com/artist/1ssEwBiz4ZKrbgR6o8vOeg"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "\u0e14\u0e39\u0e14\u0e35",
+      "url": "https://open.spotify.com/track/7oTnTfFLo4t1xbPb009oBI"
+    },
+    {
+      "added_at": "2026-03-13 04:04:28",
+      "album": {
+        "name": "Mutation",
+        "url": "https://open.spotify.com/album/4T035mSyykuyKHF1l0SEdz"
+      },
+      "artists": [
+        {
+          "name": "Slot Machine",
+          "url": "https://open.spotify.com/artist/6TNTFjkJA8PhP16Ds7CZnz"
+        }
+      ],
+      "duration_ms": 241986,
+      "name": "\u0e1c\u0e48\u0e32\u0e19",
+      "url": "https://open.spotify.com/track/7BIfruOxdmV47pZ8beTNqS"
+    },
+    {
+      "added_at": "2026-03-13 04:04:28",
+      "album": {
+        "name": "Club",
+        "url": "https://open.spotify.com/album/3FIStO0Jqw4wX6aXbvDd6L"
+      },
+      "artists": [
+        {
+          "name": "SCRUBB",
+          "url": "https://open.spotify.com/artist/3zSMaWnvUzyNlOW0Tj2s4N"
+        }
+      ],
+      "duration_ms": 257640,
+      "name": "\u0e43\u0e01\u0e25\u0e49",
+      "url": "https://open.spotify.com/track/4r3UvwePMdXPJrqFautgTq"
+    },
+    {
+      "added_at": "2026-03-13 04:04:28",
+      "album": {
+        "name": "\u0e42\u0e25\u0e01\u0e04\u0e39\u0e48\u0e02\u0e19\u0e32\u0e19",
+        "url": "https://open.spotify.com/album/1ax89fjEDQYz5ukVXpjCFk"
+      },
+      "artists": [
+        {
+          "name": "D Gerrard",
+          "url": "https://open.spotify.com/artist/1k7MP2tMC43vM0b0wg8HHg"
+        }
+      ],
+      "duration_ms": 280625,
+      "name": "\u0e42\u0e25\u0e01\u0e04\u0e39\u0e48\u0e02\u0e19\u0e32\u0e19",
+      "url": "https://open.spotify.com/track/3A1tAv6J87HqjFhUZ3LHNi"
+    },
+    {
+      "added_at": "2026-03-13 04:04:28",
+      "album": {
+        "name": "\u0e0a\u0e38\u0e14\u0e17\u0e35\u0e48 8 \u0e08\u0e07\u0e40\u0e1e\u0e23\u0e32\u0e30",
+        "url": "https://open.spotify.com/album/7x31VHMG8eicd8iYQzx0L9"
+      },
+      "artists": [
+        {
+          "name": "Tattoo Colour",
+          "url": "https://open.spotify.com/artist/5pxvW2nJ0a77b9oX24Unwi"
+        }
+      ],
+      "duration_ms": 192706,
+      "name": "\u0e42\u0e01\u0e2b\u0e01",
+      "url": "https://open.spotify.com/track/13OtbwiqeUt7M5VtbSTtvK"
+    },
+    {
+      "added_at": "2026-03-13 04:04:28",
+      "album": {
+        "name": "\u0e04\u0e19\u0e44\u0e01\u0e25",
+        "url": "https://open.spotify.com/album/1Xe1DZBK5eVnfAhtK4RBbO"
+      },
+      "artists": [
+        {
+          "name": "Patrickananda",
+          "url": "https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx"
+        }
+      ],
+      "duration_ms": 212571,
+      "name": "\u0e04\u0e19\u0e44\u0e01\u0e25",
+      "url": "https://open.spotify.com/track/63VOJDNJ3a5dve74kzWVcF"
+    },
+    {
+      "added_at": "2026-03-13 04:04:28",
+      "album": {
+        "name": "Vanilla",
+        "url": "https://open.spotify.com/album/3LzffCii1IuPCPN50ZqNNu"
+      },
+      "artists": [
+        {
+          "name": "Flure",
+          "url": "https://open.spotify.com/artist/3Y1IqMgKZTXjsMyWOuxPPj"
+        }
+      ],
+      "duration_ms": 262933,
+      "name": "\u0e24\u0e14\u0e39\u0e17\u0e35\u0e48\u0e09\u0e31\u0e19\u0e40\u0e2b\u0e07\u0e32",
+      "url": "https://open.spotify.com/track/0JAkZ44a75QTFXXsB2c7Ol"
+    },
+    {
+      "added_at": "2026-03-13 04:04:28",
+      "album": {
+        "name": "Club",
+        "url": "https://open.spotify.com/album/3FIStO0Jqw4wX6aXbvDd6L"
+      },
+      "artists": [
+        {
+          "name": "SCRUBB",
+          "url": "https://open.spotify.com/artist/3zSMaWnvUzyNlOW0Tj2s4N"
+        }
+      ],
+      "duration_ms": 266893,
+      "name": "\u0e04\u0e39\u0e48\u0e01\u0e31\u0e19 (Soulmate)",
+      "url": "https://open.spotify.com/track/2SewBThepvNfjZ6fyBhGYT"
+    },
+    {
+      "added_at": "2026-03-13 04:04:28",
+      "album": {
+        "name": "\u0e2d\u0e22\u0e39\u0e48\u0e14\u0e35\u0e46\u0e01\u0e47\u2026 (feat. Youngohm)",
+        "url": "https://open.spotify.com/album/4h7UhLWDZk2vOafrnijTta"
+      },
+      "artists": [
+        {
+          "name": "Wonderframe",
+          "url": "https://open.spotify.com/artist/5bzFXP4FjQKAwuiHJTsNp9"
+        },
+        {
+          "name": "YOUNGOHM",
+          "url": "https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S"
+        }
+      ],
+      "duration_ms": 235294,
+      "name": "\u0e2d\u0e22\u0e39\u0e48\u0e14\u0e35\u0e46\u0e01\u0e47\u2026 (feat. Youngohm)",
+      "url": "https://open.spotify.com/track/0b9JDLbAgCazIwPSWj6DNL"
+    },
+    {
+      "added_at": "2026-03-13 04:04:28",
+      "album": {
+        "name": "\u0e2a\u0e31\u0e15\u0e27\u0e4c\u0e08\u0e23\u0e34\u0e07",
+        "url": "https://open.spotify.com/album/3DZPF3HO5rVZO3V8Ja902E"
+      },
+      "artists": [
+        {
+          "name": "Tattoo Colour",
+          "url": "https://open.spotify.com/artist/5pxvW2nJ0a77b9oX24Unwi"
+        }
+      ],
+      "duration_ms": 208640,
+      "name": "No.1",
+      "url": "https://open.spotify.com/track/4L6PI5chD4KigRsrhOsnDx"
+    },
+    {
+      "added_at": "2026-03-13 04:04:28",
+      "album": {
+        "name": "Lavender",
+        "url": "https://open.spotify.com/album/2rtLGvRaYgmrI3zbcIq5LM"
+      },
+      "artists": [
+        {
+          "name": "Patrickananda",
+          "url": "https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx"
+        }
+      ],
+      "duration_ms": 253141,
+      "name": "Lavender",
+      "url": "https://open.spotify.com/track/3BV2YcwoVRxK4dXxyaHpZU"
+    },
+    {
+      "added_at": "2026-03-13 04:04:28",
+      "album": {
+        "name": "Moderndog",
+        "url": "https://open.spotify.com/album/4bvXOiaVeWqSbvyCk24QkA"
+      },
+      "artists": [
+        {
+          "name": "Moderndog",
+          "url": "https://open.spotify.com/artist/2xuN796lJ8Oj4vsx2XiJqj"
+        }
+      ],
+      "duration_ms": 288666,
+      "name": "\u0e1a\u0e38\u0e29\u0e1a\u0e32 (Busaba)",
+      "url": "https://open.spotify.com/track/0MWvyoCkBa93EJa4HnGBoG"
+    },
+    {
+      "added_at": "2026-03-13 04:04:28",
+      "album": {
+        "name": "SSSSS..!",
+        "url": "https://open.spotify.com/album/5e5fZ4jZiIhh5rfsuFhfCN"
+      },
+      "artists": [
+        {
+          "name": "SCRUBB",
+          "url": "https://open.spotify.com/artist/3zSMaWnvUzyNlOW0Tj2s4N"
+        }
+      ],
+      "duration_ms": 256133,
+      "name": "\u0e17\u0e38\u0e01\u0e2d\u0e22\u0e48\u0e32\u0e07",
+      "url": "https://open.spotify.com/track/4BoGFJUkeQ67PvkIfHhT65"
+    },
+    {
+      "added_at": "2026-03-13 04:04:28",
+      "album": {
+        "name": "Second Chance",
+        "url": "https://open.spotify.com/album/0AZurgshWlyyrnBvRqQ3zY"
+      },
+      "artists": [
+        {
+          "name": "Crescendo",
+          "url": "https://open.spotify.com/artist/7omCr5aMOZAR4rL580d2kk"
+        }
+      ],
+      "duration_ms": 223293,
+      "name": "\u0e14\u0e34\u0e19\u0e41\u0e14\u0e19\u0e41\u0e2b\u0e48\u0e07\u0e04\u0e27\u0e32\u0e21\u0e23\u0e31\u0e01",
+      "url": "https://open.spotify.com/track/3WrSuURIdtaffgHBANSyWC"
+    },
+    {
+      "added_at": "2026-03-13 04:04:28",
+      "album": {
+        "name": "Mild",
+        "url": "https://open.spotify.com/album/5UEBDg1sx03ah3jfU5U8no"
+      },
+      "artists": [
+        {
+          "name": "Pause",
+          "url": "https://open.spotify.com/artist/1pTiPuAABytFjsXsUwgsNE"
+        }
+      ],
+      "duration_ms": 188226,
+      "name": "\u0e04\u0e27\u0e32\u0e21\u0e25\u0e31\u0e1a",
+      "url": "https://open.spotify.com/track/3JRW8QzgWLrenspiUEqE1B"
+    },
+    {
+      "added_at": "2026-03-13 04:04:28",
+      "album": {
+        "name": "The White Room",
+        "url": "https://open.spotify.com/album/3F4FahVAunMLCSbnLdoXiQ"
+      },
+      "artists": [
+        {
+          "name": "Singular",
+          "url": "https://open.spotify.com/artist/5uxiKslHBfPTjs7RigWrL8"
+        }
+      ],
+      "duration_ms": 243346,
+      "name": "\u0e40\u0e1a\u0e32\u0e40\u0e1a\u0e32 (Tender)",
+      "url": "https://open.spotify.com/track/1D82eR1hzKmiujw4fk0EYj"
+    },
+    {
+      "added_at": "2026-03-13 04:04:28",
+      "album": {
+        "name": "\u0e41\u0e14\u0e14\u0e2a\u0e48\u0e2d\u0e07",
+        "url": "https://open.spotify.com/album/67i2hh9vivLArE9XdVbm2B"
+      },
+      "artists": [
+        {
+          "name": "Moderndog",
+          "url": "https://open.spotify.com/artist/2xuN796lJ8Oj4vsx2XiJqj"
+        }
+      ],
+      "duration_ms": 324440,
+      "name": "\u0e15\u0e32\u0e2a\u0e27\u0e48\u0e32\u0e07 (Found)",
+      "url": "https://open.spotify.com/track/2xnAn7xxR2Ohxt1UuQudpC"
+    },
+    {
+      "added_at": "2026-03-13 04:04:28",
+      "album": {
+        "name": "Mood",
+        "url": "https://open.spotify.com/album/4gyC8WZwj9Kt0jgkt99Al6"
+      },
+      "artists": [
+        {
+          "name": "SCRUBB",
+          "url": "https://open.spotify.com/artist/3zSMaWnvUzyNlOW0Tj2s4N"
+        }
+      ],
+      "duration_ms": 231440,
+      "name": "\u0e40\u0e02\u0e49\u0e32\u0e01\u0e31\u0e19\u0e14\u0e35",
+      "url": "https://open.spotify.com/track/1zbuNx8aZ9xesAjy4ZDvH4"
+    },
+    {
+      "added_at": "2026-03-13 04:04:28",
+      "album": {
+        "name": "\u0e08\u0e31\u0e19\u0e17\u0e23\u0e4c\u0e2d\u0e31\u0e07\u0e04\u0e32\u0e23\u0e1e\u0e38\u0e18\u0e1e\u0e24\u0e2b\u0e31\u0e2a\u0e28\u0e38\u0e01\u0e23\u0e4c\u0e40\u0e2a\u0e32\u0e23\u0e4c\u0e2d\u0e32\u0e17\u0e34\u0e15\u0e22\u0e4c (Everyday)",
+        "url": "https://open.spotify.com/album/636T1GeuPpgrtj9qcULq3I"
+      },
+      "artists": [
+        {
+          "name": "Patrickananda",
+          "url": "https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx"
+        }
+      ],
+      "duration_ms": 182666,
+      "name": "\u0e08\u0e31\u0e19\u0e17\u0e23\u0e4c\u0e2d\u0e31\u0e07\u0e04\u0e32\u0e23\u0e1e\u0e38\u0e18\u0e1e\u0e24\u0e2b\u0e31\u0e2a\u0e28\u0e38\u0e01\u0e23\u0e4c\u0e40\u0e2a\u0e32\u0e23\u0e4c\u0e2d\u0e32\u0e17\u0e34\u0e15\u0e22\u0e4c (Everyday)",
+      "url": "https://open.spotify.com/track/5l3HFThm3Xlv8c9mmiTUgT"
+    },
+    {
+      "added_at": "2026-03-13 04:04:28",
+      "album": {
+        "name": "\u0e40\u0e04\u0e23\u0e2a\u0e40\u0e0a\u0e19\u0e42\u0e14\u0e49",
+        "url": "https://open.spotify.com/album/4eRAe2yUAxzbbPC0f9QCUk"
+      },
+      "artists": [
+        {
+          "name": "Crescendo",
+          "url": "https://open.spotify.com/artist/7omCr5aMOZAR4rL580d2kk"
+        }
+      ],
+      "duration_ms": 244373,
+      "name": "\u0e04\u0e27\u0e32\u0e21\u0e08\u0e23\u0e34\u0e07\u0e43\u0e19\u0e43\u0e08",
+      "url": "https://open.spotify.com/track/4db90A1wSLdfFjh0JXe4NI"
+    },
+    {
+      "added_at": "2026-03-13 04:04:28",
+      "album": {
+        "name": "B",
+        "url": "https://open.spotify.com/album/38rKe9bpwRTzQx80DvsFBl"
+      },
+      "artists": [
+        {
+          "name": "Slur",
+          "url": "https://open.spotify.com/artist/7G4qd0NlBQf4AxC0klpuDY"
+        }
+      ],
+      "duration_ms": 293700,
+      "name": "\u0e2b\u0e23\u0e37\u0e2d",
+      "url": "https://open.spotify.com/track/0ogLgVg1RY7IGyrp1B8g4X"
+    },
+    {
+      "added_at": "2026-03-13 04:04:28",
+      "album": {
+        "name": "\u0e04\u0e38\u0e13\u0e40\u0e01\u0e47\u0e1a\u0e04\u0e27\u0e32\u0e21\u0e25\u0e31\u0e1a\u0e44\u0e14\u0e49\u0e44\u0e2b\u0e21",
+        "url": "https://open.spotify.com/album/0vyHVuW90UueeOcOhiAaEl"
+      },
+      "artists": [
+        {
+          "name": "Armchair",
+          "url": "https://open.spotify.com/artist/12WQ39HU6t5eDvwjK0GFzT"
+        }
+      ],
+      "duration_ms": 279453,
+      "name": "\u0e04\u0e38\u0e13\u0e40\u0e01\u0e47\u0e1a\u0e04\u0e27\u0e32\u0e21\u0e25\u0e31\u0e1a\u0e44\u0e14\u0e49\u0e44\u0e2b\u0e21",
+      "url": "https://open.spotify.com/track/1HfQcqDwV3UASZUOpMp9A9"
+    },
+    {
+      "added_at": "2026-03-13 04:04:28",
+      "album": {
+        "name": "Mood",
+        "url": "https://open.spotify.com/album/4gyC8WZwj9Kt0jgkt99Al6"
+      },
+      "artists": [
+        {
+          "name": "SCRUBB",
+          "url": "https://open.spotify.com/artist/3zSMaWnvUzyNlOW0Tj2s4N"
+        }
+      ],
+      "duration_ms": 261799,
+      "name": "\u0e40\u0e01\u0e47\u0e1a\u0e44\u0e27\u0e49\u0e01\u0e31\u0e1a\u0e40\u0e18\u0e2d",
+      "url": "https://open.spotify.com/track/6lfcGcG1yE2Sor8j6iE8vN"
+    },
+    {
+      "added_at": "2026-03-13 04:04:28",
+      "album": {
+        "name": "\u0e2a\u0e31\u0e15\u0e27\u0e4c\u0e08\u0e23\u0e34\u0e07",
+        "url": "https://open.spotify.com/album/3DZPF3HO5rVZO3V8Ja902E"
+      },
+      "artists": [
+        {
+          "name": "Tattoo Colour",
+          "url": "https://open.spotify.com/artist/5pxvW2nJ0a77b9oX24Unwi"
+        }
+      ],
+      "duration_ms": 187519,
+      "name": "\u0e40\u0e1c\u0e14\u0e47\u0e08\u0e40\u0e01\u0e34\u0e23\u0e4c\u0e25",
+      "url": "https://open.spotify.com/track/6dnXdI7OhOJYvVjlT6pR03"
+    },
+    {
+      "added_at": "2026-03-13 04:04:28",
+      "album": {
+        "name": "4 Days",
+        "url": "https://open.spotify.com/album/0gamElnT7ranqjnxSpjeWi"
+      },
+      "artists": [
+        {
+          "name": "Crescendo",
+          "url": "https://open.spotify.com/artist/7omCr5aMOZAR4rL580d2kk"
+        }
+      ],
+      "duration_ms": 328013,
+      "name": "\u0e43\u0e08\u0e01\u0e25\u0e32\u0e07\u0e04\u0e27\u0e32\u0e21\u0e40\u0e08\u0e47\u0e1a\u0e1b\u0e27\u0e14",
+      "url": "https://open.spotify.com/track/28s9lZvryGHS4XOJVwwQMZ"
+    },
+    {
+      "added_at": "2026-03-13 04:04:28",
+      "album": {
+        "name": "\u0e40\u0e14\u0e2d\u0e30 \u0e1e\u0e35\u0e17 \u0e41\u0e1a\u0e19\u0e14\u0e4c",
+        "url": "https://open.spotify.com/album/6SXhTlaKDGKdPJauonN00p"
+      },
+      "artists": [
+        {
+          "name": "The Peach Band",
+          "url": "https://open.spotify.com/artist/1EyFHLShIbVJnSjLT6tea1"
+        }
+      ],
+      "duration_ms": 289960,
+      "name": "\u0e27\u0e2d\u0e19",
+      "url": "https://open.spotify.com/track/6UVmRlDqKESmrA6CpqF48U"
+    },
+    {
+      "added_at": "2026-03-13 04:04:28",
+      "album": {
+        "name": "Mutation",
+        "url": "https://open.spotify.com/album/4T035mSyykuyKHF1l0SEdz"
+      },
+      "artists": [
+        {
+          "name": "Slot Machine",
+          "url": "https://open.spotify.com/artist/6TNTFjkJA8PhP16Ds7CZnz"
+        }
+      ],
+      "duration_ms": 252826,
+      "name": "\u0e04\u0e33\u0e2a\u0e38\u0e14\u0e17\u0e49\u0e32\u0e22",
+      "url": "https://open.spotify.com/track/1XQoEt32xoOLaQMz6NGj3n"
+    },
+    {
+      "added_at": "2026-03-13 04:04:28",
+      "album": {
+        "name": "The White Room",
+        "url": "https://open.spotify.com/album/3F4FahVAunMLCSbnLdoXiQ"
+      },
+      "artists": [
+        {
+          "name": "Singular",
+          "url": "https://open.spotify.com/artist/5uxiKslHBfPTjs7RigWrL8"
+        }
+      ],
+      "duration_ms": 230973,
+      "name": "\u0e25\u0e2d\u0e07 (Try)",
+      "url": "https://open.spotify.com/track/3uokib5yaVbbHSQIpQWLw6"
+    },
+    {
+      "added_at": "2026-03-13 04:04:28",
+      "album": {
+        "name": "Evo. & Nova",
+        "url": "https://open.spotify.com/album/3S274uqfTRsJXEUpFYouVl"
+      },
+      "artists": [
+        {
+          "name": "Pause",
+          "url": "https://open.spotify.com/artist/1pTiPuAABytFjsXsUwgsNE"
+        }
+      ],
+      "duration_ms": 362160,
+      "name": "\u0e23\u0e31\u0e01\u0e40\u0e18\u0e2d\u0e17\u0e31\u0e49\u0e07\u0e2b\u0e21\u0e14\u0e02\u0e2d\u0e07\u0e2b\u0e31\u0e27\u0e43\u0e08 (For My Brother)",
+      "url": "https://open.spotify.com/track/7sZxRSdexu3IYDcUW7jXMQ"
+    },
+    {
+      "added_at": "2026-03-13 04:04:28",
+      "album": {
+        "name": "Better Than Looks",
+        "url": "https://open.spotify.com/album/0zOyD7jWHv8gO8KBgTpu06"
+      },
+      "artists": [
+        {
+          "name": "Better Weather",
+          "url": "https://open.spotify.com/artist/6dHHmu92q47xdwVxV6W7Fu"
+        }
+      ],
+      "duration_ms": 286226,
+      "name": "\u0e22\u0e31\u0e07\u0e44\u0e21\u0e48\u0e23\u0e39\u0e49 (I Don't Know)",
+      "url": "https://open.spotify.com/track/2OQQPlUlrSKu2nOPMwTS2c"
+    },
+    {
+      "added_at": "2026-03-13 04:04:28",
+      "album": {
+        "name": "Era",
+        "url": "https://open.spotify.com/album/0x9zDqUqgOWtAFq643OWb1"
+      },
+      "artists": [
+        {
+          "name": "P.O.P",
+          "url": "https://open.spotify.com/artist/0xM940CrwiH7wrqx3hedal"
+        }
+      ],
+      "duration_ms": 305960,
+      "name": "\u0e23\u0e31\u0e01\u0e02\u0e2d\u0e07\u0e40\u0e18\u0e2d\u0e21\u0e35\u0e08\u0e23\u0e34\u0e07\u0e2b\u0e23\u0e37\u0e2d\u0e40\u0e1b\u0e25\u0e48\u0e32 (Real Love?)",
+      "url": "https://open.spotify.com/track/0HRPNiA04po4Ckw4dmP89g"
+    },
+    {
+      "added_at": "2026-03-13 04:04:28",
+      "album": {
+        "name": "Pillow War",
+        "url": "https://open.spotify.com/album/6sYl8jS1YLFwKoYCxvsgmP"
+      },
+      "artists": [
+        {
+          "name": "Polycat",
+          "url": "https://open.spotify.com/artist/1ssEwBiz4ZKrbgR6o8vOeg"
+        }
+      ],
+      "duration_ms": 227750,
+      "name": "\u0e02\u0e48\u0e32\u0e27\u0e14\u0e35",
+      "url": "https://open.spotify.com/track/0ZfxuArCbDRjJbEPI93ao2"
+    },
+    {
+      "added_at": "2026-03-13 04:04:28",
+      "album": {
+        "name": "\u0e41\u0e14\u0e14\u0e2a\u0e48\u0e2d\u0e07",
+        "url": "https://open.spotify.com/album/67i2hh9vivLArE9XdVbm2B"
+      },
+      "artists": [
+        {
+          "name": "Moderndog",
+          "url": "https://open.spotify.com/artist/2xuN796lJ8Oj4vsx2XiJqj"
+        }
+      ],
+      "duration_ms": 282893,
+      "name": "\u0e01\u0e31\u0e19\u0e41\u0e25\u0e30\u0e01\u0e31\u0e19 (Us)",
+      "url": "https://open.spotify.com/track/4Cz21VKsqHnAt20Z1eQwhM"
+    },
+    {
+      "added_at": "2026-03-13 04:04:28",
+      "album": {
+        "name": "\u0e2d\u0e22\u0e39\u0e48\u0e04\u0e19\u0e40\u0e14\u0e35\u0e22\u0e27 (Loner)",
+        "url": "https://open.spotify.com/album/5CdkLPijMS29YG9gfHSIZm"
+      },
+      "artists": [
+        {
+          "name": "WANYAi",
+          "url": "https://open.spotify.com/artist/3yLZtAIGm6Eq4WSfnimZad"
+        }
+      ],
+      "duration_ms": 255207,
+      "name": "\u0e2d\u0e22\u0e39\u0e48\u0e04\u0e19\u0e40\u0e14\u0e35\u0e22\u0e27 (Loner)",
+      "url": "https://open.spotify.com/track/2N3yIGC0Lpv5kPAchqBeSa"
+    },
+    {
+      "added_at": "2026-03-13 04:04:28",
+      "album": {
+        "name": "Better Than Looks",
+        "url": "https://open.spotify.com/album/0zOyD7jWHv8gO8KBgTpu06"
+      },
+      "artists": [
+        {
+          "name": "Better Weather",
+          "url": "https://open.spotify.com/artist/6dHHmu92q47xdwVxV6W7Fu"
+        }
+      ],
+      "duration_ms": 291626,
+      "name": "\u0e44\u0e21\u0e48\u0e40\u0e04\u0e22\u0e44\u0e21\u0e48\u0e23\u0e31\u0e01\u0e40\u0e18\u0e2d (Never)",
+      "url": "https://open.spotify.com/track/5dnUVOtziaHI5kAHVUTZQY"
+    },
+    {
+      "added_at": "2026-03-13 04:04:28",
+      "album": {
+        "name": "Tales",
+        "url": "https://open.spotify.com/album/21f2pmFCn07w2y8w96X65t"
+      },
+      "artists": [
+        {
+          "name": "Flure",
+          "url": "https://open.spotify.com/artist/3Y1IqMgKZTXjsMyWOuxPPj"
+        }
+      ],
+      "duration_ms": 229373,
+      "name": "\u0e43\u0e04\u0e23\u0e1a\u0e32\u0e07\u0e04\u0e19\u0e08\u0e32\u0e01\u0e1a\u0e19\u0e1f\u0e49\u0e32",
+      "url": "https://open.spotify.com/track/0tEl0D4fMH5bfeegwW4gWY"
+    },
+    {
+      "added_at": "2026-03-13 04:04:28",
+      "album": {
+        "name": "Twice TK (Triumphs Xmas Kingdom)",
+        "url": "https://open.spotify.com/album/15LHBV3LqkBoOGRDabgJ2C"
+      },
+      "artists": [
+        {
+          "name": "Triumphs Kingdom",
+          "url": "https://open.spotify.com/artist/6uJn2MQOmrIy2NBdFyMdG1"
+        }
+      ],
+      "duration_ms": 272960,
+      "name": "\u0e1c\u0e49\u0e32\u0e40\u0e0a\u0e47\u0e14\u0e2b\u0e19\u0e49\u0e32 (Handkerchief)",
+      "url": "https://open.spotify.com/track/16RK1gjfUh7rHyCysMbIsp"
+    },
+    {
+      "added_at": "2026-03-13 04:04:28",
+      "album": {
+        "name": "Living In C Major",
+        "url": "https://open.spotify.com/album/6PlzDyEvcDJfFQ4MqUiqvB"
+      },
+      "artists": [
+        {
+          "name": "TOR Saksit",
+          "url": "https://open.spotify.com/artist/0dpiMnuJcfuvZFlGWaQ7tR"
+        }
+      ],
+      "duration_ms": 270946,
+      "name": "\u0e23\u0e31\u0e01\u0e40\u0e18\u0e2d",
+      "url": "https://open.spotify.com/track/0vdr1c1Yk5BBfghJbDz2bj"
+    },
+    {
+      "added_at": "2026-03-13 04:04:28",
+      "album": {
+        "name": "Mild",
+        "url": "https://open.spotify.com/album/5UEBDg1sx03ah3jfU5U8no"
+      },
+      "artists": [
+        {
+          "name": "Pause",
+          "url": "https://open.spotify.com/artist/1pTiPuAABytFjsXsUwgsNE"
+        }
+      ],
+      "duration_ms": 317026,
+      "name": "\u0e2a\u0e31\u0e21\u0e1e\u0e31\u0e19\u0e18\u0e4c",
+      "url": "https://open.spotify.com/track/0LGL4db0abssZ4RicaoiJh"
+    },
+    {
+      "added_at": "2026-03-13 04:04:28",
+      "album": {
+        "name": "How To Love (feat. GRAY)",
+        "url": "https://open.spotify.com/album/2UrGn1oGOn91IGG2TdNbvn"
+      },
+      "artists": [
+        {
+          "name": "ALLY",
+          "url": "https://open.spotify.com/artist/4dkCB7FJeRXK6OWpal7zpw"
+        },
+        {
+          "name": "GRAY",
+          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
+        }
+      ],
+      "duration_ms": 201800,
+      "name": "How To Love (feat. GRAY)",
+      "url": "https://open.spotify.com/track/1miAQyBEMvHJ62JFuERLyr"
+    },
+    {
+      "added_at": "2026-03-13 04:04:28",
+      "album": {
+        "name": "Flure",
+        "url": "https://open.spotify.com/album/5K3IPYs9pO1ugzNQ4uk4OI"
+      },
+      "artists": [
+        {
+          "name": "Flure",
+          "url": "https://open.spotify.com/artist/3Y1IqMgKZTXjsMyWOuxPPj"
+        }
+      ],
+      "duration_ms": 318720,
+      "name": "\u0e1b\u0e25\u0e48\u0e2d\u0e22\u0e44\u0e1b\u0e15\u0e32\u0e21\u0e2b\u0e31\u0e27\u0e43\u0e08 (Let It Flow)",
+      "url": "https://open.spotify.com/track/1uR2ubwRuhaYyy7P98tlma"
+    },
+    {
+      "added_at": "2026-03-13 04:04:28",
+      "album": {
+        "name": "The First Mile",
+        "url": "https://open.spotify.com/album/2pzyOcKvdFFRwPgV7QP7AJ"
+      },
+      "artists": [
+        {
+          "name": "60Miles",
+          "url": "https://open.spotify.com/artist/30QomnySAioA1rWq4ul2bO"
+        }
+      ],
+      "duration_ms": 307026,
+      "name": "\u0e08\u0e31\u0e01\u0e23\u0e27\u0e32\u0e25 - Radio Edit",
+      "url": "https://open.spotify.com/track/3DM2s6zdNdauNJU4GYSuhr"
+    },
+    {
+      "added_at": "2026-03-13 04:04:28",
+      "album": {
+        "name": "Era",
+        "url": "https://open.spotify.com/album/0x9zDqUqgOWtAFq643OWb1"
+      },
+      "artists": [
+        {
+          "name": "P.O.P",
+          "url": "https://open.spotify.com/artist/0xM940CrwiH7wrqx3hedal"
+        }
+      ],
+      "duration_ms": 393506,
+      "name": "\u0e44\u0e21\u0e48\u0e21\u0e35 (Tomorrow With Nobody)",
+      "url": "https://open.spotify.com/track/0a9MtfsKXwJbejt3OcXd0U"
+    }
+  ],
+  "unique_name": "\u0e40\u0e2d\u0e47\u0e21\u0e27\u0e35\u0e40\u0e01\u0e48\u0e32\u0e17\u0e35\u0e48\u0e40\u0e23\u0e32\u0e0a\u0e2d\u0e1a",
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX1jfHTze7qwk"
+}

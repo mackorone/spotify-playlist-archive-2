@@ -1,12 +1,12 @@
 {
   "description": "T\u00fcrk\u00e7e pop'un hit \u015fark\u0131lar\u0131 ve zirveye oynayanlar.  Kapak: Serdar Orta\u00e7\n",
-  "num_followers": 1552115,
+  "num_followers": 1552196,
   "original_name": "T\u00fcrk\u00e7e Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMYEFBsJcWjtLfiM4L9esUEDAY77",
+  "snapshot_id": "AAAAAPK6s9sEfoLbcFwmrfzZWh+QWgNF",
   "tracks": [
     {
       "added_at": "2026-04-30 21:00:23",
@@ -295,6 +295,22 @@
       "duration_ms": 269376,
       "name": "Fragman",
       "url": "https://open.spotify.com/track/14gGvtizOirTsgh57nNYe5"
+    },
+    {
+      "added_at": "2026-05-01 06:45:57",
+      "album": {
+        "name": "Kara\u00e7al\u0131",
+        "url": "https://open.spotify.com/album/1YRuxJZXAB0FlGttTgb1bL"
+      },
+      "artists": [
+        {
+          "name": "Baran Meng\u00fc\u00e7",
+          "url": "https://open.spotify.com/artist/07eEGn8bSAJF9sUqeTtAmN"
+        }
+      ],
+      "duration_ms": 134399,
+      "name": "Kara\u00e7al\u0131",
+      "url": "https://open.spotify.com/track/2K5xsa4rFQtECBSIJR046V"
     },
     {
       "added_at": "2026-04-30 21:00:23",
@@ -707,22 +723,6 @@
       "duration_ms": 179934,
       "name": "A\u015fk\u0131n Ertesi",
       "url": "https://open.spotify.com/track/1XPzrCHbRbhLngUgkPW76c"
-    },
-    {
-      "added_at": "2026-04-30 21:00:23",
-      "album": {
-        "name": "Yalan",
-        "url": "https://open.spotify.com/album/6BUu1VknyMLsBhamWTliol"
-      },
-      "artists": [
-        {
-          "name": "Dedubl\u00fcman",
-          "url": "https://open.spotify.com/artist/5PRW6j58xEEWL4DDVEITKT"
-        }
-      ],
-      "duration_ms": 226666,
-      "name": "Yalan",
-      "url": "https://open.spotify.com/track/4QaCneYjuoaTwxu0NoU6hU"
     },
     {
       "added_at": "2026-04-30 21:00:23",

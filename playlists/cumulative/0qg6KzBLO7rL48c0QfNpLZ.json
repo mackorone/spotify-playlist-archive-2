@@ -1163,6 +1163,28 @@
     },
     {
       "album": {
+        "name": "American Girls",
+        "url": "https://open.spotify.com/album/1YhtXfILnx5ctbtA9xoWIH"
+      },
+      "artists": [
+        {
+          "name": "L\u00e8ne",
+          "url": "https://open.spotify.com/artist/5DNOrvevLUcm1S9hIS4L6h"
+        },
+        {
+          "name": "Robbie Hutton",
+          "url": "https://open.spotify.com/artist/05qvZreQgj82j4gXKT6K0T"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151983,
+      "name": "American Girls",
+      "url": "https://open.spotify.com/track/4y1qev4GVoplYv7ArLPJVc"
+    },
+    {
+      "album": {
         "name": "Amounted To This",
         "url": "https://open.spotify.com/album/7currnc9FXANMZFBxmMh0n"
       },
@@ -6076,7 +6098,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 182951,
       "name": "Daydream Fuel",
       "url": "https://open.spotify.com/track/7pi0Irlh7Rh65cvWQ96Ynh"
@@ -8094,7 +8116,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 135000,
       "name": "Every Breath You Take (feat. Luciana Silva)",
       "url": "https://open.spotify.com/track/10wjaTzN6ryJEwPowGby7E"
@@ -9912,7 +9934,7 @@
       ],
       "date_added": "2026-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 156360,
       "name": "forest between thoughts",
       "url": "https://open.spotify.com/track/5kVAo9ANYqaIaUyYqdF0ys"
@@ -10076,7 +10098,7 @@
       ],
       "date_added": "2026-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 216014,
       "name": "Forever Yours",
       "url": "https://open.spotify.com/track/17oBZEj9HRuvMfQgsb7kHV"
@@ -10666,7 +10688,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 160000,
       "name": "Golden Hour",
       "url": "https://open.spotify.com/track/5fhLAYW2Sc53Tyevrfq4rO"
@@ -15711,6 +15733,24 @@
     },
     {
       "album": {
+        "name": "Let You Go",
+        "url": "https://open.spotify.com/album/3itVScbQdgAc2HhpWhtJrw"
+      },
+      "artists": [
+        {
+          "name": "SITHEA",
+          "url": "https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128810,
+      "name": "Let You Go",
+      "url": "https://open.spotify.com/track/6gdxHHF7rsebH5CGjD2Vle"
+    },
+    {
+      "album": {
         "name": "Let You Know (Summer Edit)",
         "url": "https://open.spotify.com/album/2tYezXk2MnMVK40DqqnMKm"
       },
@@ -15770,7 +15810,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 150909,
       "name": "Levitate",
       "url": "https://open.spotify.com/track/4PEseoCgAT7apIER0954kA"
@@ -19218,7 +19258,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-06",
+      "date_removed": null,
       "duration_ms": 147916,
       "name": "Never Gonna Give You Up",
       "url": "https://open.spotify.com/track/0Gdxx7POlFKSJ9doWvxsxJ"
@@ -23250,7 +23290,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 161803,
       "name": "Sad Love (feat. JAIKO)",
       "url": "https://open.spotify.com/track/7ClzJE519FxZeSp2UoTZvt"
@@ -25218,6 +25258,24 @@
     {
       "album": {
         "name": "Stay",
+        "url": "https://open.spotify.com/album/6AG0MJbQCp19XtxwUduzQa"
+      },
+      "artists": [
+        {
+          "name": "P.A.V",
+          "url": "https://open.spotify.com/artist/4pqyg42kTh4xrULdghsTGV"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/0KPF278CbOc4o8PR7O3wGA"
+    },
+    {
+      "album": {
+        "name": "Stay",
         "url": "https://open.spotify.com/album/2iLGxDPfxhvDtIQGYcRLZP"
       },
       "artists": [
@@ -25232,6 +25290,24 @@
       "duration_ms": 130800,
       "name": "Stay",
       "url": "https://open.spotify.com/track/2xiO9h2XdSA0PcaG8cKADj"
+    },
+    {
+      "album": {
+        "name": "Stay A Little Longer",
+        "url": "https://open.spotify.com/album/5mxG2VhqYrmmkic41pQ1yb"
+      },
+      "artists": [
+        {
+          "name": "Rolipso",
+          "url": "https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133500,
+      "name": "Stay A Little Longer",
+      "url": "https://open.spotify.com/track/08eBCI8hasGMuQ6oPj0FKI"
     },
     {
       "album": {
@@ -26858,7 +26934,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 163401,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/5UlCJFwQQCC0ikDkIme0KG"
@@ -28797,6 +28873,28 @@
     },
     {
       "album": {
+        "name": "Usiku Mmoja",
+        "url": "https://open.spotify.com/album/4fDD1Q7xZHTvLdXNuIqVT3"
+      },
+      "artists": [
+        {
+          "name": "MELOPHANTS",
+          "url": "https://open.spotify.com/artist/31vTdUTqmKypzgh8RiCdG0"
+        },
+        {
+          "name": "Dj KCM",
+          "url": "https://open.spotify.com/artist/3lbjxOwIB1BqHe9C2flZBT"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Usiku Mmoja",
+      "url": "https://open.spotify.com/track/4V7UAyHirqT3CYWtQ4QmZt"
+    },
+    {
+      "album": {
         "name": "Verano De Fuego",
         "url": "https://open.spotify.com/album/1dF1WvmU5OO8PPwrkv6FBL"
       },
@@ -30172,7 +30270,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 158086,
       "name": "Where Did I Go Wrong",
       "url": "https://open.spotify.com/track/2gLyCwM826WDiYfsmbXUF6"

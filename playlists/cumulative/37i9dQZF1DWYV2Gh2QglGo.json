@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The home of Canadian country music. Cover: Jojo Mason",
+  "description": "The home of Canadian country music. Cover: Robyn Ottolini",
   "name": "North Country",
   "tracks": [
     {
@@ -546,7 +546,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 218624,
       "name": "Back 40 Bible Verse",
       "url": "https://open.spotify.com/track/3zrMYDjtOWEDrku50OCE5g"
@@ -1543,6 +1543,24 @@
     },
     {
       "album": {
+        "name": "Cigarette Smoke",
+        "url": "https://open.spotify.com/album/6kXxF8t32N6rZLcLmoBsOk"
+      },
+      "artists": [
+        {
+          "name": "Andrew Hyatt",
+          "url": "https://open.spotify.com/artist/6L1jfL0BaxCDXCcy51CEcg"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203096,
+      "name": "Cigarette Smoke",
+      "url": "https://open.spotify.com/track/6UjE42w4Dh38gpG4zTV5Ly"
+    },
+    {
+      "album": {
         "name": "Close to You",
         "url": "https://open.spotify.com/album/12hWLifkFc93MKdBm9WBKU"
       },
@@ -1943,6 +1961,24 @@
     },
     {
       "album": {
+        "name": "Bottle Blonde",
+        "url": "https://open.spotify.com/album/6bZoeREsXaMFcpAfNLEvTh"
+      },
+      "artists": [
+        {
+          "name": "Cate",
+          "url": "https://open.spotify.com/artist/7D25zMq1tDmT0nfh6ieYph"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188096,
+      "name": "Crazy For You",
+      "url": "https://open.spotify.com/track/4F20g3pd4jMu7hHNPKoUxG"
+    },
+    {
+      "album": {
         "name": "Cross Your Mind",
         "url": "https://open.spotify.com/album/3ABNV2ngop51t8AsmFKtJm"
       },
@@ -2156,6 +2192,28 @@
       "duration_ms": 187198,
       "name": "Dans l\u2019temps",
       "url": "https://open.spotify.com/track/1vFup6NBDo6yL5ubgErCo9"
+    },
+    {
+      "album": {
+        "name": "Dans mon tiroir",
+        "url": "https://open.spotify.com/album/4PTphrJzgZ00uyOqwrClxu"
+      },
+      "artists": [
+        {
+          "name": "Laurence St-Martin",
+          "url": "https://open.spotify.com/artist/1DAZpwKWPQ4VnPSD2RcpgG"
+        },
+        {
+          "name": "Gabriel Fredette",
+          "url": "https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153104,
+      "name": "Dans mon tiroir",
+      "url": "https://open.spotify.com/track/6MHBAxiODM7KPB0jtXrfsR"
     },
     {
       "album": {
@@ -2838,7 +2896,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 190480,
       "name": "Farmer",
       "url": "https://open.spotify.com/track/0jbVLGFKiT6lDtO1hFfGLV"
@@ -5095,6 +5153,24 @@
     },
     {
       "album": {
+        "name": "If Hell Were A Bar",
+        "url": "https://open.spotify.com/album/79tOtIOeU33PXLkps86Kdq"
+      },
+      "artists": [
+        {
+          "name": "Robyn Ottolini",
+          "url": "https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174474,
+      "name": "If Hell Were A Bar",
+      "url": "https://open.spotify.com/track/44kxmvqyN0TFpFbzoWBTfo"
+    },
+    {
+      "album": {
         "name": "One Beer Away",
         "url": "https://open.spotify.com/album/32sAylG8qewI9XNw5ycf3F"
       },
@@ -5954,7 +6030,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 181084,
       "name": "Listen To Jones",
       "url": "https://open.spotify.com/track/3s7rjsKo9ruMCo0LxuN11r"
@@ -8444,7 +8520,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 210184,
       "name": "Scared Of Getting Sober",
       "url": "https://open.spotify.com/track/0OnvtIScF6dnQh4jFW6thI"
@@ -8924,7 +9000,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 183853,
       "name": "Sober",
       "url": "https://open.spotify.com/track/5xuF5KMWRnrY1Yhyp5aWCQ"
@@ -9490,7 +9566,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 170570,
       "name": "Take Me Home",
       "url": "https://open.spotify.com/track/0WyRFxku42KZe80QXOsNbq"
@@ -9562,7 +9638,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 180352,
       "name": "Temptation",
       "url": "https://open.spotify.com/track/4Q2qcWDlvVnnxkGevD7n2H"
@@ -10367,6 +10443,24 @@
     },
     {
       "album": {
+        "name": "U-Shaped",
+        "url": "https://open.spotify.com/album/5VDs0DMqxPZYm4B42HoOFc"
+      },
+      "artists": [
+        {
+          "name": "Alee",
+          "url": "https://open.spotify.com/artist/6jb3bTBWDo0CYqNuvIcyJe"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158593,
+      "name": "U-Shaped",
+      "url": "https://open.spotify.com/track/0RB1ZW6U5getea2rinPDqZ"
+    },
+    {
+      "album": {
         "name": "Unbecoming",
         "url": "https://open.spotify.com/album/3O17GWIWMvwHsAlXtJyWG0"
       },
@@ -10674,7 +10768,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 199131,
       "name": "Wealthy",
       "url": "https://open.spotify.com/track/1nbDD9O5irpoD252ONLfAK"
@@ -11530,6 +11624,24 @@
       "duration_ms": 179626,
       "name": "You Fight Dirty",
       "url": "https://open.spotify.com/track/55YiHh9QWQKwF5OH0CLwBB"
+    },
+    {
+      "album": {
+        "name": "You Got Me",
+        "url": "https://open.spotify.com/album/0qxBtFEWLA70id8fzQVQYG"
+      },
+      "artists": [
+        {
+          "name": "Alex Hughes",
+          "url": "https://open.spotify.com/artist/6iL96eq4EA2eoFI9CzyJgI"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189038,
+      "name": "You Got Me",
+      "url": "https://open.spotify.com/track/6UoUij3bsaaoHH2ekXUmPt"
     },
     {
       "album": {

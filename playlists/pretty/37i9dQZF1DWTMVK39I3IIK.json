@@ -1,12 +1,12 @@
 {
   "description": "de skarpeste knive i dansk musik  \ud83d\udcf8    Cover: Marcus.wav",
-  "num_followers": 47118,
+  "num_followers": 47119,
   "original_name": "ung kniv ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHmh1QIu7I+gH6TB0Br99sVSiMId",
+  "snapshot_id": "AAAAAAQz7gxyMz4gxf/8qeJ67LxldvHJ",
   "tracks": [
     {
       "added_at": "2026-04-23 22:00:48",
@@ -551,6 +551,22 @@
     {
       "added_at": "2026-04-23 22:00:48",
       "album": {
+        "name": "Det sker alt for tit",
+        "url": "https://open.spotify.com/album/57eFbZtnhu5KxEP6aUiGvB"
+      },
+      "artists": [
+        {
+          "name": "Marcus.wav",
+          "url": "https://open.spotify.com/artist/2IwoU1JvxmNCdD1i69FmKr"
+        }
+      ],
+      "duration_ms": 187422,
+      "name": "Det sker alt for tit",
+      "url": "https://open.spotify.com/track/4NJHLdpTZprYzzBl1INEGi"
+    },
+    {
+      "added_at": "2026-04-23 22:00:48",
+      "album": {
         "name": "4CANTOS",
         "url": "https://open.spotify.com/album/1QSx9yNnaglCCs2hMb3qBw"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 195988,
       "name": "Hvad Med Mig",
       "url": "https://open.spotify.com/track/7vdrHqdOQ7TuZSngyiIiTx"
-    },
-    {
-      "added_at": "2026-04-23 22:00:48",
-      "album": {
-        "name": "Det sker alt for tit",
-        "url": "https://open.spotify.com/album/57eFbZtnhu5KxEP6aUiGvB"
-      },
-      "artists": [
-        {
-          "name": "Marcus.wav",
-          "url": "https://open.spotify.com/artist/2IwoU1JvxmNCdD1i69FmKr"
-        }
-      ],
-      "duration_ms": 187422,
-      "name": "Det sker alt for tit",
-      "url": "https://open.spotify.com/track/4NJHLdpTZprYzzBl1INEGi"
     },
     {
       "added_at": "2026-04-23 22:00:48",
@@ -711,22 +711,6 @@
     {
       "added_at": "2026-04-23 22:00:48",
       "album": {
-        "name": "Anna",
-        "url": "https://open.spotify.com/album/1EjQLRWtKkSF9jjvktpS1O"
-      },
-      "artists": [
-        {
-          "name": "ABSURD",
-          "url": "https://open.spotify.com/artist/5g2Fj5Ecjr8HQX5hqltsRv"
-        }
-      ],
-      "duration_ms": 192314,
-      "name": "Anna",
-      "url": "https://open.spotify.com/track/1aTvtqzdNdivWqhPY7G9z0"
-    },
-    {
-      "added_at": "2026-04-23 22:00:48",
-      "album": {
         "name": "Big Mistake",
         "url": "https://open.spotify.com/album/6Hvh4GrjdaKUQWkIpXmjnU"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 215078,
       "name": "Big Mistake",
       "url": "https://open.spotify.com/track/24nUZ74vZNof2v7wkK6JV3"
+    },
+    {
+      "added_at": "2026-04-23 22:00:48",
+      "album": {
+        "name": "Anna",
+        "url": "https://open.spotify.com/album/1EjQLRWtKkSF9jjvktpS1O"
+      },
+      "artists": [
+        {
+          "name": "ABSURD",
+          "url": "https://open.spotify.com/artist/5g2Fj5Ecjr8HQX5hqltsRv"
+        }
+      ],
+      "duration_ms": 192314,
+      "name": "Anna",
+      "url": "https://open.spotify.com/track/1aTvtqzdNdivWqhPY7G9z0"
     },
     {
       "added_at": "2026-04-23 22:00:48",
@@ -843,38 +843,6 @@
     {
       "added_at": "2026-04-23 22:00:48",
       "album": {
-        "name": "Kraftidiot",
-        "url": "https://open.spotify.com/album/37jQgF1Jh6vaofnRFT8A82"
-      },
-      "artists": [
-        {
-          "name": "Von Quar",
-          "url": "https://open.spotify.com/artist/5B7f5pkLEMpnY20go77xX3"
-        }
-      ],
-      "duration_ms": 165521,
-      "name": "Idiot",
-      "url": "https://open.spotify.com/track/2kz6Tlbmx37JJmehWobN1x"
-    },
-    {
-      "added_at": "2026-04-23 22:00:48",
-      "album": {
-        "name": "Marianne og Henrik",
-        "url": "https://open.spotify.com/album/0sRUBB8pBrYJHak5F0sppr"
-      },
-      "artists": [
-        {
-          "name": "Sofie1998",
-          "url": "https://open.spotify.com/artist/56kAP8Glt3AVDWrOwxX9aB"
-        }
-      ],
-      "duration_ms": 180664,
-      "name": "Marianne og Henrik",
-      "url": "https://open.spotify.com/track/0awHR3yreICeQbqZmSfGVw"
-    },
-    {
-      "added_at": "2026-04-23 22:00:48",
-      "album": {
         "name": "You Make a Fire, You Make a Camp",
         "url": "https://open.spotify.com/album/3AgBPC2z48Foe0g6clOy2I"
       },
@@ -903,6 +871,38 @@
       "duration_ms": 533023,
       "name": "You Make a Fire, You Make a Camp",
       "url": "https://open.spotify.com/track/3G83jEKy5gwjXxHabR89h7"
+    },
+    {
+      "added_at": "2026-04-23 22:00:48",
+      "album": {
+        "name": "Kraftidiot",
+        "url": "https://open.spotify.com/album/37jQgF1Jh6vaofnRFT8A82"
+      },
+      "artists": [
+        {
+          "name": "Von Quar",
+          "url": "https://open.spotify.com/artist/5B7f5pkLEMpnY20go77xX3"
+        }
+      ],
+      "duration_ms": 165521,
+      "name": "Idiot",
+      "url": "https://open.spotify.com/track/2kz6Tlbmx37JJmehWobN1x"
+    },
+    {
+      "added_at": "2026-04-23 22:00:48",
+      "album": {
+        "name": "Marianne og Henrik",
+        "url": "https://open.spotify.com/album/0sRUBB8pBrYJHak5F0sppr"
+      },
+      "artists": [
+        {
+          "name": "Sofie1998",
+          "url": "https://open.spotify.com/artist/56kAP8Glt3AVDWrOwxX9aB"
+        }
+      ],
+      "duration_ms": 180664,
+      "name": "Marianne og Henrik",
+      "url": "https://open.spotify.com/track/0awHR3yreICeQbqZmSfGVw"
     },
     {
       "added_at": "2026-04-23 22:00:48",
@@ -991,22 +991,6 @@
     {
       "added_at": "2026-04-23 22:00:48",
       "album": {
-        "name": "aldrig uden dig",
-        "url": "https://open.spotify.com/album/0GEGTjPWdIcUdNq7ZtH9rd"
-      },
-      "artists": [
-        {
-          "name": "Y\u00f6r",
-          "url": "https://open.spotify.com/artist/5LX065qqygHI7V6VvvZ5Sn"
-        }
-      ],
-      "duration_ms": 267609,
-      "name": "ja ja ja",
-      "url": "https://open.spotify.com/track/0R2ZuzA1mZcrIWFhpOZnSP"
-    },
-    {
-      "added_at": "2026-04-23 22:00:48",
-      "album": {
         "name": "Ind I Solen",
         "url": "https://open.spotify.com/album/3zOUUHsN36r3eqFNh1gz0b"
       },
@@ -1023,18 +1007,18 @@
     {
       "added_at": "2026-04-23 22:00:48",
       "album": {
-        "name": "The Way She Says Goodbye",
-        "url": "https://open.spotify.com/album/55Z9H1tbXpvoExNlFG1ShB"
+        "name": "aldrig uden dig",
+        "url": "https://open.spotify.com/album/0GEGTjPWdIcUdNq7ZtH9rd"
       },
       "artists": [
         {
-          "name": "Emily Bowen",
-          "url": "https://open.spotify.com/artist/4IcbSUnp61Iqco9c8OsTUc"
+          "name": "Y\u00f6r",
+          "url": "https://open.spotify.com/artist/5LX065qqygHI7V6VvvZ5Sn"
         }
       ],
-      "duration_ms": 165500,
-      "name": "Bye Sofia",
-      "url": "https://open.spotify.com/track/6hSPxHXE1atS2bMY53MPZW"
+      "duration_ms": 267609,
+      "name": "ja ja ja",
+      "url": "https://open.spotify.com/track/0R2ZuzA1mZcrIWFhpOZnSP"
     },
     {
       "added_at": "2026-04-23 22:00:48",
@@ -1075,6 +1059,22 @@
     {
       "added_at": "2026-04-23 22:00:48",
       "album": {
+        "name": "The Way She Says Goodbye",
+        "url": "https://open.spotify.com/album/55Z9H1tbXpvoExNlFG1ShB"
+      },
+      "artists": [
+        {
+          "name": "Emily Bowen",
+          "url": "https://open.spotify.com/artist/4IcbSUnp61Iqco9c8OsTUc"
+        }
+      ],
+      "duration_ms": 165500,
+      "name": "Bye Sofia",
+      "url": "https://open.spotify.com/track/6hSPxHXE1atS2bMY53MPZW"
+    },
+    {
+      "added_at": "2026-04-23 22:00:48",
+      "album": {
         "name": "Lige s\u00e5 fucked som mig",
         "url": "https://open.spotify.com/album/6hVpbms2YycDjkvHTSagOk"
       },
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2026-04-23 22:00:48",
       "album": {
-        "name": "Elsk Mig",
-        "url": "https://open.spotify.com/album/4z0LnHvRDMkYd6K0ZytZVU"
-      },
-      "artists": [
-        {
-          "name": "Joyce",
-          "url": "https://open.spotify.com/artist/20EE1CtwqBTCrJraz6uSow"
-        }
-      ],
-      "duration_ms": 236624,
-      "name": "Se Mig",
-      "url": "https://open.spotify.com/track/3CRPUerlCUYbY8yzOelA7R"
-    },
-    {
-      "added_at": "2026-04-23 22:00:48",
-      "album": {
         "name": "Den Lykkelige Ungdom",
         "url": "https://open.spotify.com/album/3fJ3oOrnnde9HHFCzu0xfo"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 163948,
       "name": "Den Lykkelige Ungdom",
       "url": "https://open.spotify.com/track/1AL7r6OKkjW77eRDaTZsSI"
+    },
+    {
+      "added_at": "2026-04-23 22:00:48",
+      "album": {
+        "name": "Elsk Mig",
+        "url": "https://open.spotify.com/album/4z0LnHvRDMkYd6K0ZytZVU"
+      },
+      "artists": [
+        {
+          "name": "Joyce",
+          "url": "https://open.spotify.com/artist/20EE1CtwqBTCrJraz6uSow"
+        }
+      ],
+      "duration_ms": 236624,
+      "name": "Se Mig",
+      "url": "https://open.spotify.com/track/3CRPUerlCUYbY8yzOelA7R"
     },
     {
       "added_at": "2026-04-23 22:00:48",

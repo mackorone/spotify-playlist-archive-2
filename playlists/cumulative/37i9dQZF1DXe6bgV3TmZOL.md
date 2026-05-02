@@ -4,7 +4,7 @@
 
 > If your workout doubles as an outlet for your aggression, this is the playlist for you.
 
-519 songs - 1 day 8 hr 54 min
+520 songs - 1 day 8 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,7 +204,7 @@
 | [Good F\*\*King Music](https://open.spotify.com/track/75zbw2JGazrTzrJ5r36Af3) | [Solence](https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg) | [Good F\*\*King Music](https://open.spotify.com/album/2L2WGYRsX6dMazAmpJZneU) | 3:26 | 2022-07-13 | 2026-01-17 |
 | [Got the Life](https://open.spotify.com/track/6nJPHXRpKYv2yqtalEjKy5) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Follow The Leader](https://open.spotify.com/album/0gsiszk6JWYwAyGvaTTud4) | 3:45 | 2022-07-13 | 2022-11-03 |
 | [Hail to the King](https://open.spotify.com/track/5anCkDvJ17aznvK5TED5uo) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Hail to the King](https://open.spotify.com/album/0ks45m1bsP2JsZpM5D2FFA) | 5:05 | 2022-11-02 |  |
-| [Halo](https://open.spotify.com/track/1QixTwDZCcfBzA7QMyont0) | [Soil](https://open.spotify.com/artist/4PoYwGOztIrPpBfRIlMSxP) | [Scars \(Expanded Edition\)](https://open.spotify.com/album/2XLiRCMRy5WuuF373tKBZ8) | 3:15 | 2022-04-04 |  |
+| [Halo](https://open.spotify.com/track/1QixTwDZCcfBzA7QMyont0) | [Soil](https://open.spotify.com/artist/4PoYwGOztIrPpBfRIlMSxP) | [Scars \(Expanded Edition\)](https://open.spotify.com/album/2XLiRCMRy5WuuF373tKBZ8) | 3:15 | 2022-04-04 | 2026-05-02 |
 | [Hands of Sin](https://open.spotify.com/track/2iVoelOzPLaw3R7GcpBuVe) | [Bleed From Within](https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG) | [Hands of Sin](https://open.spotify.com/album/3ZUxHRqFUm7FBFHFT5uXaW) | 4:02 | 2024-07-18 | 2025-03-09 |
 | [Happy?](https://open.spotify.com/track/0INUE1K7cEiE8VH63Rv5RJ) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [Lost and Found](https://open.spotify.com/album/0dCRu5tVhx9fvbVZSxfjfP) | 3:36 | 2022-11-02 |  |
 | [Hard as a Rock](https://open.spotify.com/track/1gij27s31tFKcTHa8f1u4g) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Ballbreaker](https://open.spotify.com/album/1zXYNAA57WJ33GgZJHchhX) | 4:31 | 2022-04-04 | 2023-04-05 |
@@ -413,6 +413,7 @@
 | [Soldiers](https://open.spotify.com/track/1iWgFnhR0oW5Mup8yXDAPW) | [Otherwise](https://open.spotify.com/artist/1OVyBGCKn7vObVIVPXcmLa) | [Soldiers](https://open.spotify.com/album/6wI2K6ApwaqRa80EEQlLzZ) | 4:01 | 2022-07-13 | 2022-11-03 |
 | [Song 3](https://open.spotify.com/track/7eDUTBIo76AMC5UYqkkzDL) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq), [Slaughter to Prevail](https://open.spotify.com/artist/24Oiw7BlvO1BETecDLJt6m) | [Song 3](https://open.spotify.com/album/0Cxa2LwLEBIpVglPWwiias) | 3:34 | 2025-05-23 | 2025-08-26 |
 | [SONG OF THE SWAMP](https://open.spotify.com/track/4AbGzxD4kxvdoCX55DLumA) | [Wage War](https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6) | [IT CALLS ME BY NAME](https://open.spotify.com/album/0dGjNVNmtc3ZkrK6YgwjLL) | 3:18 | 2026-04-27 |  |
+| [Sonic Salvation \(feat\. Jamie Hails\)](https://open.spotify.com/track/7au6WtRcJBcjaGPS2RIYmG) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu), [Polaris](https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX) | [Sonic Salvation \(feat\. Jamie Hails\)](https://open.spotify.com/album/7vzWA8SDKYVeHUplyL3Eht) | 4:13 | 2026-04-27 |  |
 | [Soul Addiction](https://open.spotify.com/track/2rndJFlCviXXiJNzvO611d) | [Sylar](https://open.spotify.com/artist/78vP5COn64VXULgkIQovEA) | [Help!](https://open.spotify.com/album/1r0tlmUi9yhI7b3DgaIr6C) | 3:29 | 2022-07-13 | 2022-07-15 |
 | [Sound the Alarm](https://open.spotify.com/track/2aFsfzUuXuxDr4xo8ndfUt) | [Shallow Side](https://open.spotify.com/artist/4i4Ra7cGv6zxiRtRSrhm1I) | [Sound the Alarm](https://open.spotify.com/album/7myHqhsaTgKoamdL7xJrAJ) | 3:42 | 2021-11-12 | 2022-07-29 |
 | [Spit Not Chewed](https://open.spotify.com/track/0zRhCapl7Kx8plxl1ILKS0) | [My Ticket Home](https://open.spotify.com/artist/4g3JlT9j18DeWH7gr1uF6L) | [Strangers Only](https://open.spotify.com/album/20iMMfAHx6asceI2THqasu) | 3:22 | 2022-07-13 | 2022-07-15 |

@@ -1,6 +1,6 @@
 {
   "description": "A collection of tracks produced with the legendary TB-303 rhythm composer. Cover: Richie Hawtin",
-  "num_followers": 149011,
+  "num_followers": 149048,
   "original_name": "303 Classics",
   "owner": {
     "name": "Spotify",
@@ -475,6 +475,38 @@
     {
       "added_at": "2024-07-10 08:16:23",
       "album": {
+        "name": "Pacific Standard Time",
+        "url": "https://open.spotify.com/album/6n2eS9hEGoc0rxy62pDHU4"
+      },
+      "artists": [
+        {
+          "name": "Poolside",
+          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+        }
+      ],
+      "duration_ms": 262978,
+      "name": "Next to You",
+      "url": "https://open.spotify.com/track/18xNqodg6oEu0udVDNUoMa"
+    },
+    {
+      "added_at": "2024-07-10 08:16:23",
+      "album": {
+        "name": "Defiant Order EP",
+        "url": "https://open.spotify.com/album/0Hqvo8eP1Kov1dxTkL7bwY"
+      },
+      "artists": [
+        {
+          "name": "Birdy Nam Nam",
+          "url": "https://open.spotify.com/artist/4e7qJTThm5uI3CplqZObfT"
+        }
+      ],
+      "duration_ms": 223520,
+      "name": "Defiant Order - Orignal Mix",
+      "url": "https://open.spotify.com/track/4eyaNZGe1fJ6UDqJdxquqI"
+    },
+    {
+      "added_at": "2024-07-10 08:16:23",
+      "album": {
         "name": "Washing Machine",
         "url": "https://open.spotify.com/album/3tSYs4sadLjOKX7eNRZp8I"
       },
@@ -675,22 +707,6 @@
     {
       "added_at": "2024-07-10 08:16:23",
       "album": {
-        "name": "Defiant Order EP",
-        "url": "https://open.spotify.com/album/0Hqvo8eP1Kov1dxTkL7bwY"
-      },
-      "artists": [
-        {
-          "name": "Birdy Nam Nam",
-          "url": "https://open.spotify.com/artist/4e7qJTThm5uI3CplqZObfT"
-        }
-      ],
-      "duration_ms": 223520,
-      "name": "Defiant Order - Orignal Mix",
-      "url": "https://open.spotify.com/track/4eyaNZGe1fJ6UDqJdxquqI"
-    },
-    {
-      "added_at": "2024-07-10 08:16:23",
-      "album": {
         "name": "The Feast Of The Broken Heart",
         "url": "https://open.spotify.com/album/7nzzw3jQeC2X1k9BdDI0Th"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 714133,
       "name": "Acid Trax",
       "url": "https://open.spotify.com/track/0zSyKNVHqvAmzTwEHItE92"
-    },
-    {
-      "added_at": "2024-07-10 08:16:23",
-      "album": {
-        "name": "Pacific Standard Time",
-        "url": "https://open.spotify.com/album/6n2eS9hEGoc0rxy62pDHU4"
-      },
-      "artists": [
-        {
-          "name": "Poolside",
-          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
-        }
-      ],
-      "duration_ms": 262978,
-      "name": "Next to You",
-      "url": "https://open.spotify.com/track/18xNqodg6oEu0udVDNUoMa"
     },
     {
       "added_at": "2024-07-10 08:16:23",

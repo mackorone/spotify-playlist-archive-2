@@ -1944,7 +1944,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 240456,
       "name": "Fame Is A Gun",
       "url": "https://open.spotify.com/track/5yWWa7xMrXjB7kw5u7xLat"
@@ -6818,6 +6818,24 @@
       "duration_ms": 252680,
       "name": "Stupid Boy",
       "url": "https://open.spotify.com/track/4hXHfVaFhLiwExyQdjneAe"
+    },
+    {
+      "album": {
+        "name": "Summer Breeze",
+        "url": "https://open.spotify.com/album/7hNEpM2NFJUYc6KcoPOpLW"
+      },
+      "artists": [
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240363,
+      "name": "Summer Breeze",
+      "url": "https://open.spotify.com/track/3m8io2UpoJNECNufNt5SW4"
     },
     {
       "album": {

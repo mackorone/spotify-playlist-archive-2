@@ -4,7 +4,7 @@
 
 > Proudly Southern African Afropop gems\. Cover: Big Zulu
 
-752 songs - 2 day 5 hr 16 min
+752 songs - 2 day 5 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Bekezela](https://open.spotify.com/track/6OF8848rgyMO5lYcBCrcBi) | [Vusi Nova](https://open.spotify.com/artist/0EdZov8Gv5SHN4IVF3b4m8), [Dr Thulz](https://open.spotify.com/artist/7IYCnKAJvGLnnZvHuLbSf4) | [Bekezela](https://open.spotify.com/album/0xdYr2NJnw3qzfmmvVF9Jq) | 6:32 | 2024-12-13 | 2025-01-24 |
 | [Bekumnand' Izolo](https://open.spotify.com/track/1ACUFWyRCJRIzQx494j471) | [Paige](https://open.spotify.com/artist/1UiuIk36C3ZI4Jqat38Q5L), [Sdala B](https://open.spotify.com/artist/2i2akP4qSkvB09gKjKjpAH) | [Bekumnand' Izolo](https://open.spotify.com/album/2QQbH0fKUAr4tWSuVsbom2) | 5:09 | 2022-02-17 | 2022-09-10 |
 | [Bengdakiwe](https://open.spotify.com/track/1KIKoF34Yafcd8TkwBzwPv) | [Xowla](https://open.spotify.com/artist/08ejcjfMzbGwiK9MVslxc5), [Big Zulu](https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A), [DJ Tira](https://open.spotify.com/artist/4FC2wXrDWr5lLCZeAUgfVn) | [Bengdakiwe](https://open.spotify.com/album/62I8W34ivwTtJJikdzlnp2) | 4:42 | 2023-09-07 | 2024-01-26 |
+| [Bengifisa](https://open.spotify.com/track/3tn0HuHb3wTX0LCCgOFJZP) | [Big Zulu](https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A), [Boohle](https://open.spotify.com/artist/6fHE8xZBCxzwer9DIbOmv4) | [Umkhulu](https://open.spotify.com/album/273v8UxutqNSUpK6FJU0K3) | 4:33 | 2026-04-30 |  |
 | [Bhaluyacima](https://open.spotify.com/track/2u1LqOKIbterkIXvaAo6Us) | [Brenda Mtambo](https://open.spotify.com/artist/1xq3iidMUB1FTy5c7WcfyC) | [Bhaluyancima](https://open.spotify.com/album/4VpKs3us4QlfPxbgSfkZHS) | 4:13 | 2023-04-03 | 2023-04-28 |
 | [Bhekemehlweni](https://open.spotify.com/track/4GqYUUX01isf7s5YpQk59o) | [Afrotraction](https://open.spotify.com/artist/5nWUxMDXCniEU2M0VXZPH3), [Aymos](https://open.spotify.com/artist/3xXIOO328Ieh0PWOcxivjL) | [Africa\. Love\. Music](https://open.spotify.com/album/5LirWmWeo0o9nZbMPVfEMf) | 3:36 | 2022-10-13 | 2023-02-10 |
 | [BIZAN'UMAMA](https://open.spotify.com/track/40OrhVxoTGnPbo1avCDYTM) | [Zonke](https://open.spotify.com/artist/1eBaQkCXWlq1vhCLMVFdqn) | [BIZAN'UMAMA](https://open.spotify.com/album/4zhPzcxKGHw0CLDmP28HRc) | 4:18 | 2023-10-12 | 2024-05-03 |
@@ -631,7 +632,6 @@
 | [Thixo Wami](https://open.spotify.com/track/4txtAWhrRwxQeMXU87XG8O) | [Zakwe](https://open.spotify.com/artist/53tX0k8tF3LaZYncnfpCtd), [Big Zulu](https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A), [Zola](https://open.spotify.com/artist/2ymJS3hSwX5yiNdYroipCW), [Riot](https://open.spotify.com/artist/2TTfkn3oA5dSvqmvVxjUxR) | [Thixo Wami](https://open.spotify.com/album/0xGISgMZkizfIK7SzlOfSG) | 4:49 | 2023-06-22 | 2023-11-05 |
 | [Thixo Wethu](https://open.spotify.com/track/6DCwIC3eoEK7KNldnKscdd) | [Prince Kaybee](https://open.spotify.com/artist/4H7q5OwAgX1uQuhwb7bg2C), [Unathi](https://open.spotify.com/artist/7tAS9oUzXf3pvOxi7wd0N7) | [Gemini](https://open.spotify.com/album/37qxe0qhdSUNTNCMtsawc1) | 3:31 | 2022-06-16 | 2022-08-26 |
 | [Tholakuwe \(feat\. Young Stunna\)](https://open.spotify.com/track/6Uf73Thps11shNFZs3yQa7) | [Herc Cut The Lights](https://open.spotify.com/artist/0VhIHga32pr5ME5Eb8WXcP), [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Young Stunna](https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ) | [Tholakuwe \(feat\. Young Stunna\)](https://open.spotify.com/album/6TjRzemaHPS7DpxZP1a3ZS) | 4:00 | 2024-06-20 | 2025-04-25 |
-| [Track 4](https://open.spotify.com/track/3tn0HuHb3wTX0LCCgOFJZP) | [Big Zulu](https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A) | [Umkhulu](https://open.spotify.com/album/273v8UxutqNSUpK6FJU0K3) | 0:00 | 2026-04-30 |  |
 | [Trauma \(feat\. Ciniso\)](https://open.spotify.com/track/08gYg78uDP077plbPqkjbh) | [Lowfeye](https://open.spotify.com/artist/6D6WUGWRD3tNnmGmtrr1Xn), [Ciniso](https://open.spotify.com/artist/0XzLSg7rkViHppVBsSk8cw) | [Trauma \(feat\. Ciniso\)](https://open.spotify.com/album/4oCw8xGOuT0iNPK6hWW20s) | 4:12 | 2026-03-12 |  |
 | [Truth](https://open.spotify.com/track/1VMWvfEnjTzgwSd6777xeR) | [Jaziel Brothers](https://open.spotify.com/artist/4KsgkEyPqr3FCNsKSaNzxs) | [Truth](https://open.spotify.com/album/5K3vyTejoGDuRHvjo4vFNH) | 3:33 | 2022-06-30 | 2022-07-08 |
 | [Tshinakaho](https://open.spotify.com/track/3yNVOs4QdKBY78EtpN2GJM) | [Vhudie](https://open.spotify.com/artist/2g6okkT5hxpgApgXesuDAV), [Thembo](https://open.spotify.com/artist/7FqpAaU3B56P2qPzU1hrwp) | [Tshinakaho](https://open.spotify.com/album/1WP4Sf052O2iHtOingnbUx) | 3:33 | 2022-08-25 | 2022-10-14 |

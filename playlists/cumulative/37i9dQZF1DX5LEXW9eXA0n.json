@@ -5540,7 +5540,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 253000,
       "name": "Do you know",
       "url": "https://open.spotify.com/track/5skgrMCFS9SiBSOhcvJ9EQ"
@@ -5656,6 +5656,24 @@
       "duration_ms": 185293,
       "name": "Doctor",
       "url": "https://open.spotify.com/track/4RbFKG6CxfKaITwfQS2AaK"
+    },
+    {
+      "album": {
+        "name": "Castle In The Air",
+        "url": "https://open.spotify.com/album/6Xb8OKA6oY2S2RVqOFCT2q"
+      },
+      "artists": [
+        {
+          "name": "Isaac Hong",
+          "url": "https://open.spotify.com/artist/4bST03NJ0YEysocK5AV1wB"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193000,
+      "name": "Doesn\u2032t Matter",
+      "url": "https://open.spotify.com/track/0pyyPj8BPdfMVgWkxan7Jp"
     },
     {
       "album": {
@@ -14810,6 +14828,28 @@
       "duration_ms": 288026,
       "name": "like rain, like music",
       "url": "https://open.spotify.com/track/3nnrVKWgdCvBcSzA5zDCKe"
+    },
+    {
+      "album": {
+        "name": "Like Spring",
+        "url": "https://open.spotify.com/album/2YcxpSvWg2MFfXeI50bE5V"
+      },
+      "artists": [
+        {
+          "name": "GUMMY",
+          "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
+        },
+        {
+          "name": "SEUNGKWAN",
+          "url": "https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "Like Spring",
+      "url": "https://open.spotify.com/track/67YLguFMT7wbJl2dSXeNGE"
     },
     {
       "album": {
@@ -24610,7 +24650,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 180000,
       "name": "Tell The World",
       "url": "https://open.spotify.com/track/4Por0pRb3LvDDlLuQxXEfM"

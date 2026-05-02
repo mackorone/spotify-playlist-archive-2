@@ -157,6 +157,24 @@
     },
     {
       "album": {
+        "name": "Ain\u2019t No Mountain High Enough (Acoustic)",
+        "url": "https://open.spotify.com/album/0xSBm9FknspuADy5Uequ7k"
+      },
+      "artists": [
+        {
+          "name": "Plamina",
+          "url": "https://open.spotify.com/artist/7x6A8huMVnPZ5wAzlw6HSp"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199115,
+      "name": "Ain\u2019t No Mountain High Enough - Acoustic",
+      "url": "https://open.spotify.com/track/05bTEGk3kR3FypCFQGaEyX"
+    },
+    {
+      "album": {
         "name": "All I Have to Do Is Dream (Acoustic)",
         "url": "https://open.spotify.com/album/0kG9UJ3SqUt8vAq7g9jRcs"
       },

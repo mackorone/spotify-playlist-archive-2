@@ -8836,7 +8836,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 159380,
       "name": "good then gone",
       "url": "https://open.spotify.com/track/5RzwqkjG9t7YJJwxv3nIAI"
@@ -9322,7 +9322,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 220762,
       "name": "Headlock - Spotify Singles",
       "url": "https://open.spotify.com/track/0UzhHaqs5it354pkj2lSCG"
@@ -10040,6 +10040,24 @@
       "duration_ms": 128986,
       "name": "Hotel California",
       "url": "https://open.spotify.com/track/0haXcqxsgfbGTq6OYjLyIs"
+    },
+    {
+      "album": {
+        "name": "HOTLINE",
+        "url": "https://open.spotify.com/album/0SX53qBcN61hcPcUJY1Hou"
+      },
+      "artists": [
+        {
+          "name": "Mikayla Geier",
+          "url": "https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166260,
+      "name": "HOTLINE",
+      "url": "https://open.spotify.com/track/2Am4WNCZJk67cCTGnmQz1U"
     },
     {
       "album": {
@@ -12106,7 +12124,7 @@
       ],
       "date_added": "2025-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 161432,
       "name": "Kissing You",
       "url": "https://open.spotify.com/track/57CmmMNs8wrvRsPzi9PvsY"
@@ -15921,6 +15939,24 @@
     },
     {
       "album": {
+        "name": "Obsexxed",
+        "url": "https://open.spotify.com/album/3sAT6Hzm5Pnd59EhAbEr54"
+      },
+      "artists": [
+        {
+          "name": "Chloe Tang",
+          "url": "https://open.spotify.com/artist/4uwIzZYa9X7krqWld1B7JV"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168701,
+      "name": "Obsexxed",
+      "url": "https://open.spotify.com/track/3gB59tjoD4lD4L8iPuPOE8"
+    },
+    {
+      "album": {
         "name": "Oceans & Engines",
         "url": "https://open.spotify.com/album/2va673nk2JXgCxJeTiZdM9"
       },
@@ -17852,6 +17888,24 @@
       "duration_ms": 178653,
       "name": "Rewind",
       "url": "https://open.spotify.com/track/50s3q6Z2a63x0R7L1eblSJ"
+    },
+    {
+      "album": {
+        "name": "Ribcage",
+        "url": "https://open.spotify.com/album/50FnWAYiSqpqwXkE7aQEDt"
+      },
+      "artists": [
+        {
+          "name": "Bella Poarch",
+          "url": "https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180347,
+      "name": "Ribcage",
+      "url": "https://open.spotify.com/track/7d89dqmZGIqYmybxPEYywJ"
     },
     {
       "album": {

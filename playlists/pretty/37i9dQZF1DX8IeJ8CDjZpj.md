@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8IeJ8CDjZpj.md) - [plain]
 
 > ¡Vamos a sudar la gota gorda al ritmo de la tuba y Los Recorditos! 🥵💪🏽🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,699 likes - 40 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,610 likes - 40 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8IeJ8CDjZpj.md) - [plain]
 | 25 | [La Suata](https://open.spotify.com/track/0smVSDT780ZloqgsD9n6O8) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Corridos Arrolladores](https://open.spotify.com/album/4lbqTdjiGgc9OGNIdSBW8c) | 2:25 |
 | 26 | [La Buchona](https://open.spotify.com/track/5mF1ghR2PARVtOtGxqNZkb) | [Chuy Lizarraga y Su Banda Tierra Sinaloense](https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr) | [Pistear, Pistear](https://open.spotify.com/album/3Vi5kjZrUvp4vJmUg6dMR0) | 3:03 |
 | 27 | [Popurrí La Culebra/El Baile Nuevo/La Quebradora/La Fea/Vámonos De Fiesta \- En Vivo](https://open.spotify.com/track/1Eu1ZhVxwZQnn6MAuwJA9x) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Concierto Mundial Digital Live](https://open.spotify.com/album/2gijh9dOUhi9ZmovGBDD3f) | 7:13 |
-| 28 | [La Mosca](https://open.spotify.com/track/5v5Tvdp85Ohh1Qair8tLYF) | [Los Horóscopos De Durango](https://open.spotify.com/artist/46uJrEeqP88sYlHFqaGPid), [Chuy Lizarraga y Su Banda Tierra Sinaloense](https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr) | [Viejitas Pero Buenas...Pa´Pistear](https://open.spotify.com/album/1QIlDwrBhVXVotJKcHUAYw) | 2:26 |
-| 29 | [Cómo, Dónde Y Cuándo](https://open.spotify.com/track/6BAIqYtsZoliFhaWNGsagq) | [Saul El Jaguar Alarcón](https://open.spotify.com/artist/4zDxqX7DmkPcNfXkrPuYro) | [Sueño](https://open.spotify.com/album/3lQLR6oUipl98mHgKPWE0F) | 2:22 |
+| 28 | [Cómo, Dónde Y Cuándo](https://open.spotify.com/track/6BAIqYtsZoliFhaWNGsagq) | [Saul El Jaguar Alarcón](https://open.spotify.com/artist/4zDxqX7DmkPcNfXkrPuYro) | [Sueño](https://open.spotify.com/album/3lQLR6oUipl98mHgKPWE0F) | 2:22 |
+| 29 | [La Mosca](https://open.spotify.com/track/5v5Tvdp85Ohh1Qair8tLYF) | [Los Horóscopos De Durango](https://open.spotify.com/artist/46uJrEeqP88sYlHFqaGPid), [Chuy Lizarraga y Su Banda Tierra Sinaloense](https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr) | [Viejitas Pero Buenas...Pa´Pistear](https://open.spotify.com/album/1QIlDwrBhVXVotJKcHUAYw) | 2:26 |
 | 30 | [Cómo Me Duele](https://open.spotify.com/track/0BwX6vtYY1iuiv7hkggmwD) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Un Día Como Hoy](https://open.spotify.com/album/3TEMz9o6CRKPpaBbRLQorv) | 3:39 |
 | 31 | [Pelotero](https://open.spotify.com/track/6kn38zU13HMcg7C9PXljsT) | [Carlos Sarabia](https://open.spotify.com/artist/1aLC6PgrX4A5tfrpQozpQw) | [Misconsentidas Vol 2](https://open.spotify.com/album/4AaSZXkKJhhLt13FOX0ntX) | 2:29 |
 | 32 | [Tacones Rojos \- Versión Banda](https://open.spotify.com/track/2FQU2RwRs9dBzp27a8zaSL) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Tacones Rojos \(Versión Banda\)](https://open.spotify.com/album/6oDVmxBdleet63McEWxnRh) | 3:11 |

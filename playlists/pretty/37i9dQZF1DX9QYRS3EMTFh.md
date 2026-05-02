@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 
 > Les hits dancehall, shatta & bouyon du moment\. Photo : Miimii KDS
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,717 likes - 50 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,739 likes - 50 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 | 13 | [Bloqué](https://open.spotify.com/track/5EA2eyMhszljd8IBkKVJ2k) | [Magistral Beats](https://open.spotify.com/artist/2x2eEYuTVLBSCf0c1pPrEf), [Aknose](https://open.spotify.com/artist/1Lqc2Oqyciyq6uvTSNHlwg) | [Bloqué](https://open.spotify.com/album/0MzmLF75EgTHa1y5tKhkMk) | 1:58 |
 | 14 | [Grégoire](https://open.spotify.com/track/5e0KBYJqbNWaFmEzs6zvLV) | [Natoxie](https://open.spotify.com/artist/1Wqloe5S1i29Ff7YiWg0x5), [Kenjox](https://open.spotify.com/artist/4bvZHBUa5gktSaxLRKAWaX), [Twinsizz](https://open.spotify.com/artist/01ySoU3GMVhbDvMLfKYQ24) | [Cout Scrub Riddim](https://open.spotify.com/album/0Ba3WtbAHc61WIrBLApQsg) | 2:19 |
 | 15 | [Flap Flap](https://open.spotify.com/track/2VbSOGBmQeIj4iHEFXdVwd) | [Maureen](https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD), [BlackBoy](https://open.spotify.com/artist/390GislU2lqdtKcuFMIvjK) | [Flap Flap](https://open.spotify.com/album/1yIKFkmI04eG5DEi6M985B) | 1:52 |
-| 16 | [Track 7](https://open.spotify.com/track/7o8YOKE4hL0jb9Cuqlbv8j) | [Yo Joshy](https://open.spotify.com/artist/6nqbsvHdj0s0m3JVobStqm) | [VALHALLA](https://open.spotify.com/album/73dCbutyxgXwuu3IyOLLxn) | 0:00 |
+| 16 | [VALHALLA](https://open.spotify.com/track/7o8YOKE4hL0jb9Cuqlbv8j) | [Yo Joshy](https://open.spotify.com/artist/6nqbsvHdj0s0m3JVobStqm) | [VALHALLA](https://open.spotify.com/album/73dCbutyxgXwuu3IyOLLxn) | 2:18 |
 | 17 | [Woulé La Fess](https://open.spotify.com/track/5JnjojKMkkJI2b9poCljwC) | [DJ Steri](https://open.spotify.com/artist/3OQ5a9605N4aOPpYbS9LW6), [Tii Alexandre](https://open.spotify.com/artist/4y5BekShl9otQUj6ikj7Ao), [Meryl](https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA), [\#TUKS](https://open.spotify.com/artist/4ZpWvzEYDHCzUXVPPLd4EK) | [Woulé La Fess](https://open.spotify.com/album/7DhEqOJVlFc1IYSJDHC97o) | 2:51 |
 | 18 | [Wonm](https://open.spotify.com/track/5Sd2m4LEc7jo7HC9gCUkic) | [Naamix](https://open.spotify.com/artist/0mpw52i7RGRiSk9Ubh7oeG), [M4DI](https://open.spotify.com/artist/7fZBlnr99oWjthmcyPFWFx) | [Wonm](https://open.spotify.com/album/6ZN0MBoFA7XdDYJCnJpDZl) | 2:08 |
 | 19 | [ALORS \- Remix Mikado](https://open.spotify.com/track/0FNUrVbL9xGC4I7WPYjP3x) | [Barth](https://open.spotify.com/artist/3EOmhPYfT8BhZEy3Vdfhno), [Mikado](https://open.spotify.com/artist/41Csk4RHbXp1jnMN4NWwOE) | [ALORS \(Remix Mikado\)](https://open.spotify.com/album/1YLtvV7Uk8S4xB4TJVzKQq) | 2:45 |

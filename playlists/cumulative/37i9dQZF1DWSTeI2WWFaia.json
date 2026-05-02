@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Lyrical, lo-fi, and lowlife raps. Cover: Kota The Friend",
+  "description": "Lyrical, lo-fi, and lowlife raps. Cover: Wiz Khalifa and Curren$y",
   "name": "Spilled Ink",
   "tracks": [
     {
@@ -1218,7 +1218,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 127228,
       "name": "Atlantic Avenue",
       "url": "https://open.spotify.com/track/2yPRkI7nHoCpyBs4g30E4n"
@@ -5103,6 +5103,28 @@
     },
     {
       "album": {
+        "name": "IT'S BEEN AWFUL",
+        "url": "https://open.spotify.com/album/2ZDgH9uDdjRFNdjEyQCZtH"
+      },
+      "artists": [
+        {
+          "name": "Isaiah Rashad",
+          "url": "https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM"
+        },
+        {
+          "name": "Julian Sintonia",
+          "url": "https://open.spotify.com/artist/6GJDO08fLnOtZeaRWuOn7n"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182718,
+      "name": "DO I LOOK HIGH?",
+      "url": "https://open.spotify.com/track/0sSkIRZuqZWigJvUnPMdKL"
+    },
+    {
+      "album": {
         "name": "Balloonerism",
         "url": "https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY"
       },
@@ -8010,6 +8032,28 @@
       "duration_ms": 229802,
       "name": "Heaven's Sky (feat. Rae Khalil)",
       "url": "https://open.spotify.com/track/55RLuYa5urfohvcAc0jtsb"
+    },
+    {
+      "album": {
+        "name": "Heavy Burden",
+        "url": "https://open.spotify.com/album/3WAGbhtpV1VydhckNYGKvM"
+      },
+      "artists": [
+        {
+          "name": "38 Spesh",
+          "url": "https://open.spotify.com/artist/32cT1WQRSDg4xsReG7eqyT"
+        },
+        {
+          "name": "Dave East",
+          "url": "https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139348,
+      "name": "Heavy Burden",
+      "url": "https://open.spotify.com/track/5jGDB8x3JuPh0LjhFfb2KP"
     },
     {
       "album": {
@@ -14034,7 +14078,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 289200,
       "name": "Pops",
       "url": "https://open.spotify.com/track/2OTJjxvUACGWALxdUDohBu"

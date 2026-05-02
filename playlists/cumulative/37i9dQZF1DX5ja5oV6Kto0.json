@@ -6984,7 +6984,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 174466,
       "name": "Follow Follow (feat. Deela & Paxslim)",
       "url": "https://open.spotify.com/track/7mJACMFhTNQHae48V6L6g4"
@@ -7126,7 +7126,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 312819,
       "name": "Formula & Vim/Strangers in Accra",
       "url": "https://open.spotify.com/track/4rZOmXA1vGT1KRg3zVcDKq"
@@ -8441,6 +8441,24 @@
     },
     {
       "album": {
+        "name": "Honey, I Love You",
+        "url": "https://open.spotify.com/album/0a9wo8ZZsUCy4XoeDEAs69"
+      },
+      "artists": [
+        {
+          "name": "Anendlessocean",
+          "url": "https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238026,
+      "name": "Honey, I Love You",
+      "url": "https://open.spotify.com/track/46qrlJPMBoYpdBxZmneY3z"
+    },
+    {
+      "album": {
         "name": "Red Sea",
         "url": "https://open.spotify.com/album/3gsX3n5VvRvqZQUAxPPQ6c"
       },
@@ -9502,6 +9520,24 @@
       "duration_ms": 148453,
       "name": "INFORMA",
       "url": "https://open.spotify.com/track/32QDlSAWwSpgIjfapa3Y8t"
+    },
+    {
+      "album": {
+        "name": "infrunayou",
+        "url": "https://open.spotify.com/album/4xQp8J3Yzvu13vTsQEJ9Yf"
+      },
+      "artists": [
+        {
+          "name": "Baves O",
+          "url": "https://open.spotify.com/artist/42tS8RFwfqTZFuyW0FrPIs"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "infrunayou",
+      "url": "https://open.spotify.com/track/13nDtpeYtIelDBrniTD7Z3"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Country rap hits of today and tomorrow\. Cover: Bailey Zimmerman and BigXthaPlug
 
-179 songs - 9 hr 26 min
+180 songs - 9 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [I Break Down](https://open.spotify.com/track/3HrgCysmgDJpAGRrigxEq6) | [FJ Outlaw](https://open.spotify.com/artist/7LOfwXilquLSyzg493dPwJ), [Savannah Dexter](https://open.spotify.com/artist/1e2nwjPRhYpmY7m906NFwz) | [Broken](https://open.spotify.com/album/0vFFeehyxP9DIMR4gGpXap) | 3:00 | 2023-03-17 | 2024-04-19 |
 | [I Break Down](https://open.spotify.com/track/5mcePHeMAUwHNOsh5bDNJU) | [FJ Outlaw](https://open.spotify.com/artist/7LOfwXilquLSyzg493dPwJ), [Savannah Dexter](https://open.spotify.com/artist/1e2nwjPRhYpmY7m906NFwz) | [Broken](https://open.spotify.com/album/3rFkyJX6pMbRmz9jaskhdz) | 3:00 | 2024-04-19 |  |
 | [I Mow, I Till](https://open.spotify.com/track/7xOSlsorO1COjKfIdVk5t7) | [Redneck Souljers](https://open.spotify.com/artist/5FY8IkeSIChD7WcmPPH5NW) | [Tiller Gang](https://open.spotify.com/album/0NJcvtv173uUae6NFosCIl) | 4:20 | 2023-03-17 |  |
+| [I'M THE ONE](https://open.spotify.com/track/0UnhlJtbjRve2U3iAFbOcI) | [Graham Barham](https://open.spotify.com/artist/3WHWgx8Dh0IqQT1BMDTeE3) | [I'M THE ONE](https://open.spotify.com/album/1sU26HAr47MPgZxHUSv1gH) | 2:36 | 2026-05-01 |  |
 | [Ice Cold Beer](https://open.spotify.com/track/75v3gVrFHQtF4NGEZ2c1mk) | [Bezz Believe](https://open.spotify.com/artist/0J7ABQoXv0zSACmQXz8nqq) | [Ice Cold Beer](https://open.spotify.com/album/25yf9bONSui3K2g4XdBwAx) | 2:40 | 2023-08-18 | 2024-07-27 |
 | [If That Ain't Country](https://open.spotify.com/track/2bWaQyC68Bt7FSXCACY2aN) | [Jessta James](https://open.spotify.com/artist/35Gl3ugDwfqKvwOrlHcQqK) | [Time to Get Right](https://open.spotify.com/album/5DULWTKKsU4R7aXFOfo3OB) | 4:15 | 2023-03-17 |  |
 | [Illinois Cowboy](https://open.spotify.com/track/0lh8NRCuusAHwujpALAD00) | [Kid Ziggy](https://open.spotify.com/artist/6jTPmZmVoj8iOxD7Lv2XC4), [Jamie Ray](https://open.spotify.com/artist/08sIoHx2vZUsqaWtoVHHo2) | [Illinois Cowboy](https://open.spotify.com/album/7D5MSopZVBnrUDmLCQ4j79) | 2:30 | 2023-04-21 | 2025-05-03 |

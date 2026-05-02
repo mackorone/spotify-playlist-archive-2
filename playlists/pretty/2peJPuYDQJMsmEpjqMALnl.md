@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2peJPuYDQJMsmEpjqMALnl.md) - [plain]
 
 > A classic playlist full of favorites of the 80s! Featuring hits from Queen, Tears For Fears, The Go\-Go's and many many more!
 
-[uDiscover Playlists](https://open.spotify.com/user/digster.fm) - 323,524 likes - 114 songs - 8 hr 12 min
+[uDiscover Playlists](https://open.spotify.com/user/digster.fm) - 323,509 likes - 114 songs - 8 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/2peJPuYDQJMsmEpjqMALnl.md) - [plain]
 | 113 | [Re\-Humanize Yourself](https://open.spotify.com/track/5kQzaafvBWfS3kGfrinXso) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [80s Summer Nostalgia](https://open.spotify.com/album/0SVzL0IArs6OikeeBJJzJ2) | 3:13 |
 | 114 | [Master of Puppets \(Remastered\)](https://open.spotify.com/track/54bm2e3tk8cliUz3VSdCPZ) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Master of Puppets \(Remastered Deluxe Box Set\)](https://open.spotify.com/album/7CGhx630DIjdJqaBDVKc5j) | 8:35 |
 
-Snapshot ID: `AAAFrbVwUgK3yEqsAjdJ1Djcc0nFlRJf`
+Snapshot ID: `AAAFryEElC3RHNPNsClU1v4OXqVKQdao`

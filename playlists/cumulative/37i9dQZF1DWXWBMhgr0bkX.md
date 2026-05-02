@@ -4,7 +4,7 @@
 
 > Homegrown, emerging pop 🥤 cover: Akeira Jade
 
-1,150 songs - 2 day 11 hr 6 min
+1,151 songs - 2 day 11 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -412,6 +412,7 @@
 | [Fragile](https://open.spotify.com/track/1xawisqVqCE6X15YzyQPoz) | [LARO](https://open.spotify.com/artist/4YUJTIjBtm5Zhp4q9mI1JA) | [Fragile](https://open.spotify.com/album/29kr4kXCJlub6LD5Isy7Kb) | 3:48 | 2025-03-14 | 2025-04-04 |
 | [Freak](https://open.spotify.com/track/4qsTIehQpamDhVJoubxoYQ) | [LYRA](https://open.spotify.com/artist/0yZG22ntdDqVCFIulOTc8x) | [Freak](https://open.spotify.com/album/6n4FHG6BIfeQCgKejwftQP) | 3:01 | 2025-01-31 | 2025-02-28 |
 | [Freckleface](https://open.spotify.com/track/01vJXrCDBBRfQcZmK76VsM) | [Izzy Withers](https://open.spotify.com/artist/2INrRE4j3gaPvjeOEo1a8r) | [Freckleface](https://open.spotify.com/album/4zbEu7VQjgoCn67gWhLZjO) | 3:02 | 2025-09-18 | 2025-10-17 |
+| [FRESH DIRT](https://open.spotify.com/track/6nKVqeoncC4f7RLiSi1OFl) | [sandy crow](https://open.spotify.com/artist/7Fp843hrgOioL7DBA4PBlC) | [FRESH DIRT](https://open.spotify.com/album/5nJcOSXqqWYe1w3ner2Uc2) | 3:12 | 2026-04-30 |  |
 | [Friend Of Mine](https://open.spotify.com/track/3a1lLFOwCFU3XjIH0iwFrD) | [Elle Coves](https://open.spotify.com/artist/3Hey7RF0bxnjPP8IEXmPRa) | [Friend Of Mine](https://open.spotify.com/album/7h0ZdjeQOxEDYYc0Mr5YhE) | 2:50 | 2025-08-14 | 2025-08-22 |
 | [from a distance](https://open.spotify.com/track/5Xo9eCy3TPtTB8kZtPXJN4) | [Luz](https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c) | [from a distance](https://open.spotify.com/album/2csYI82qAXSube214Al2dF) | 2:47 | 2026-04-23 |  |
 | [Front Door](https://open.spotify.com/track/3dyQkavqeHsYwfPktrr0oU) | [rainbow frog biscuits](https://open.spotify.com/artist/6tyZ35su1t0W5Hx0rWhhvT) | [Front Door](https://open.spotify.com/album/3zp366v2Xv7k5XLaOssWMv) | 4:24 | 2025-04-10 | 2025-05-02 |

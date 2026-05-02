@@ -4,7 +4,7 @@
 
 > Discover new christian and gospel music\. Cover: Lawrence Oyor
 
-7,953 songs - 24 day 12 hr 20 min
+7,953 songs - 24 day 12 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5314,6 +5314,7 @@
 | [On My Side \- Remix](https://open.spotify.com/track/36wdiBQwjv3z30mcwhNxxY) | [Wiffi Drips](https://open.spotify.com/artist/0t33ew007YWe1ufwvV1yX7), [Monaze](https://open.spotify.com/artist/7JNHDlrPW4GTk61apyMASG), [Angeloh](https://open.spotify.com/artist/16b0fWgIHXMM87ZaHe4ERg) | [On My Side \(Remix\)](https://open.spotify.com/album/1VDeXQO6HzzUWqhg56L88d) | 3:12 | 2023-12-01 | 2023-12-15 |
 | [On My Side \- Spanish](https://open.spotify.com/track/7nQwRStqZHFXKfAiLuWAdZ) | [De Stanley Brothers](https://open.spotify.com/artist/5QcpMCOrA4nVxileunNZD3), [Donald Job](https://open.spotify.com/artist/0WHfzByosVJxqV8gwK4iw5) | [On My Side \(Spanish\)](https://open.spotify.com/album/50fNM1FvXjar4Ushrr4NEm) | 2:43 | 2026-01-23 | 2026-02-06 |
 | [On My Side \- Special Version](https://open.spotify.com/track/2PEMRlrIvROVjJB2teweLU) | [Wiffi Drips](https://open.spotify.com/artist/0t33ew007YWe1ufwvV1yX7), [Swaggy Jay](https://open.spotify.com/artist/7xF9Cn1qxDwYhvrE4EGRU2), [Angeloh](https://open.spotify.com/artist/16b0fWgIHXMM87ZaHe4ERg) | [On My Side \(Special Version\)](https://open.spotify.com/album/7qnuW87VF7ec2OEX9B3B2z) | 3:12 | 2023-11-10 | 2023-11-24 |
+| [ON MY SIDE \- Swedish](https://open.spotify.com/track/2zfFQptLsHN1CMSlKSE3h2) | [De Stanley Brothers](https://open.spotify.com/artist/5QcpMCOrA4nVxileunNZD3), [Jennifer Ahohen](https://open.spotify.com/artist/1NU6PSMZin0oMPG1nEXdIa) | [ON MY SIDE \(world edition\)](https://open.spotify.com/album/6Nfphxl7fEW62SS8ha1ETr) | 3:12 | 2026-05-01 |  |
 | [On My Way](https://open.spotify.com/track/5E489uvezKLeomdzg1FXnb) | [Chapta5ive](https://open.spotify.com/artist/4Ey8WbKfZAkHyRTaBHApQy), [Minkir](https://open.spotify.com/artist/0sqNcqMHpOyg0YgO0Jp5XW), [Leritmwa](https://open.spotify.com/artist/7nB9AGGjhVEHQUYx0Slxjb) | [On My Way](https://open.spotify.com/album/60RGm56EKCNspvo6xu43XI) | 4:19 | 2025-05-23 | 2025-05-30 |
 | [On My Way](https://open.spotify.com/track/3gJuw84HjasZR37cvlYRd8) | [Mark Success](https://open.spotify.com/artist/2UsJ6DTOfg7n99HC3aJAip), [Mr Jovanni](https://open.spotify.com/artist/5w1cPUdW5rb7A8BlJrl54t) | [On My Way](https://open.spotify.com/album/45HvomDipUAoDXG1GqAWMa) | 2:33 | 2025-06-06 | 2025-06-13 |
 | [On my way](https://open.spotify.com/track/4YuvSP7S31IQuUwcBWgskb) | [MUNGU FENI](https://open.spotify.com/artist/28jInFXJyrUOt031oBINu9) | [AMEN ALBUM](https://open.spotify.com/album/1JvI1Nf9zldyrjWV0tnjNK) | 2:48 | 2024-05-03 | 2024-05-24 |
@@ -6958,7 +6959,6 @@
 | [Toxic](https://open.spotify.com/track/1aTAnmQGXqz82RXhoLBSsQ) | [FOEVA](https://open.spotify.com/artist/2heAYgLQ8mW1NBwAIWYDfI) | [Toxic](https://open.spotify.com/album/2WGaiKFPFEat303TwLbuUt) | 2:40 | 2024-01-19 | 2024-02-02 |
 | [TOXIC \(Racing Thoughts\)](https://open.spotify.com/track/5U4Ovjih4AkPzm6qKgRSHs) | [XLVI K](https://open.spotify.com/artist/25gWj8pjTtslFIsLHx31IT) | [TOXIC \(Racing Thoughts\)](https://open.spotify.com/album/4rMQD6m79Z10fLzHwWUaKs) | 3:22 | 2024-03-08 | 2024-03-16 |
 | [TPC](https://open.spotify.com/track/4NeAVZAhCl8c2AX7Cwr5zL) | [Da Voice](https://open.spotify.com/artist/5Dc9tfmomwFNnBY10xj0kj) | [TPC](https://open.spotify.com/album/3s7VHDyi99q9iFlxY1slbq) | 3:48 | 2024-09-27 | 2024-10-11 |
-| [Track 2](https://open.spotify.com/track/2zfFQptLsHN1CMSlKSE3h2) | [De Stanley Brothers](https://open.spotify.com/artist/5QcpMCOrA4nVxileunNZD3) | [ON MY SIDE \(world edition\)](https://open.spotify.com/album/6Nfphxl7fEW62SS8ha1ETr) | 0:00 | 2026-05-01 |  |
 | [Transitions](https://open.spotify.com/track/6Hz9LQZ6Ojoa3a5DmVVP4N) | [Rohi Shaapera](https://open.spotify.com/artist/10C5zzyN7mS8BBJLqyTYUr) | [Transitions](https://open.spotify.com/album/7Gz5EoGHx4kRNzkTSelrF9) | 2:42 | 2025-07-04 | 2025-07-18 |
 | [Traumatized](https://open.spotify.com/track/4IuztXrOUvnDUONYGT5pc3) | [2Larni](https://open.spotify.com/artist/0OEREBZdg9v3W9w1L5xY4d) | [Traumatized](https://open.spotify.com/album/5dhM2pMbxRKCn65QwKccw9) | 1:28 | 2024-02-09 | 2024-02-16 |
 | [Traveller](https://open.spotify.com/track/0mCxma7UENksj35Hxm1k88) | [Father Ankrah Music](https://open.spotify.com/artist/0yt8H7q2YCQi8kUi1KeK6N) | [Traveller](https://open.spotify.com/album/19Xf6cvv5NKVkMDuZiesH2) | 3:13 | 2025-03-28 | 2025-04-11 |

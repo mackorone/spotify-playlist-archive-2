@@ -4,7 +4,7 @@
 
 > Aktuell musik med etablerade och intressanta artister.
 
-554 songs - 1 day 8 hr 45 min
+555 songs - 1 day 8 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,7 +183,7 @@
 | [Før han for](https://open.spotify.com/track/4bqcf1Ds8zVHKTdYiWKzXM) | [Tobias Sten](https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz) | [Tjue år](https://open.spotify.com/album/0tC0GLO1DD1k7ZxH6mUWQ6) | 2:56 | 2024-10-24 | 2025-05-02 |
 | [Ge En Sol](https://open.spotify.com/track/03JUBMp0vCVHHzu1l8bqoa) | [Sara Zacharias](https://open.spotify.com/artist/5oLdTp4J7RJtC43nBnP9Hg) | [Ge En Sol](https://open.spotify.com/album/1BfjmqtMSgFnvpKKHX56dl) | 2:52 | 2024-08-22 | 2025-04-11 |
 | [Ge inte upp på mig](https://open.spotify.com/track/6v6vzP7YmOl0Xkmmi7WWVw) | [Linnea Henriksson](https://open.spotify.com/artist/3IsULVZIf4iGp9ExB7yJVq) | [Ge inte upp på mig](https://open.spotify.com/album/5lYpVz7zexN4WgKD7udNkZ) | 3:24 | 2024-09-26 | 2025-04-25 |
-| [Give and Take](https://open.spotify.com/track/7vfRnx1IvMPBjL0EqRGaGk) | [The Ark](https://open.spotify.com/artist/73ib5ljBj2xAIR7R3hTwF4) | [Give and Take](https://open.spotify.com/album/4rwAgXIiQgSausvqcxTckO) | 3:22 | 2026-02-26 |  |
+| [Give and Take](https://open.spotify.com/track/7vfRnx1IvMPBjL0EqRGaGk) | [The Ark](https://open.spotify.com/artist/73ib5ljBj2xAIR7R3hTwF4) | [Give and Take](https://open.spotify.com/album/4rwAgXIiQgSausvqcxTckO) | 3:22 | 2026-02-26 | 2026-05-02 |
 | [Glasshouse](https://open.spotify.com/track/71Sada6IOdfaCS8PKo1bRw) | [Jay Smith](https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1) | [jaywalking](https://open.spotify.com/album/2HLlLIQ0ix7wufudTXUV4x) | 2:50 | 2025-09-25 |  |
 | [Glasshouse](https://open.spotify.com/track/3igailADWMRi9mHKiv7Xo2) | [Jay Smith](https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1), [Ingrid](https://open.spotify.com/artist/3BdrVMEizhOoxjo2tWSiM6) | [Glasshouse](https://open.spotify.com/album/5y6ilMb7yPnyeF1kTrZl36) | 3:01 | 2026-02-26 |  |
 | [Gnistrande snö](https://open.spotify.com/track/2xUX9AeYODZQZ5iubWdC7a) | [Titiyo](https://open.spotify.com/artist/2s5enJCtVBAAdWD94jOIbM), [Thåström](https://open.spotify.com/artist/2PBhJmRqee1QAyQU2kBu1H) | [Gnistrande snö](https://open.spotify.com/album/5aXylFhjDZBUiYsy97O9hJ) | 4:22 | 2025-06-12 | 2025-12-01 |
@@ -218,6 +218,7 @@
 | [Home](https://open.spotify.com/track/6U1WukseRsBks1AjTYoheT) | [Martin Almgren](https://open.spotify.com/artist/7iURZ6msGELD5SZqMqKa7G) | [Home](https://open.spotify.com/album/3AGeeV372MEs83epozEEt7) | 3:01 | 2024-10-24 | 2024-12-06 |
 | [Home \(Truckstops and Airports\)](https://open.spotify.com/track/4JiFa6TIB4nDUxKSVZYhf9) | [Jay Smith](https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1) | [Home \(Truckstops and Airports\)](https://open.spotify.com/album/0cdboLJ121JrMns7p0Hm6f) | 3:42 | 2024-08-15 | 2025-04-04 |
 | [Hometown](https://open.spotify.com/track/1xk71Mxe7bkdB5kFLJk3x8) | [Robin Bengtsson](https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS) | [Hometown](https://open.spotify.com/album/4QqbMfkV416w71gmkgGVHs) | 3:40 | 2024-09-12 | 2024-10-11 |
+| [Hon steg på finlandsbåten](https://open.spotify.com/track/1L5gRcjdOBZVrvf9eMr74t) | [Anastasía](https://open.spotify.com/artist/6mbTUwFJv0MEIhxbkG47JM), [Valter Nilsson](https://open.spotify.com/artist/2MFXMIAlMW2pAyybxRNMln) | [Hon steg på finlandsbåten](https://open.spotify.com/album/2NWC30QTZOUGAbbuBhChfI) | 3:17 | 2026-04-30 |  |
 | [Honey Honey](https://open.spotify.com/track/0QcDwx1r5HXsxyMstgvHSm) | [Robin Bengtsson](https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS) | [Honey Honey](https://open.spotify.com/album/4mC9GZ6gSoSBDZ9ApAvqkO) | 2:59 | 2026-02-08 |  |
 | [Honom](https://open.spotify.com/track/3hk7OYtN8OYMJnn4ZcKZro) | [Danny Saucedo](https://open.spotify.com/artist/5tVyieWwN9j09jXUovK2zN) | [Honom](https://open.spotify.com/album/3aPG2336pAa2tOP3zCrHD4) | 2:50 | 2024-06-27 | 2024-08-16 |
 | [Hoppas du mår bra](https://open.spotify.com/track/7FUXC8AnXYjpQrBHX5wqlA) | [Klara Almström](https://open.spotify.com/artist/2xUZsZaMqJSqpxIoTJl9D3) | [Hoppas du mår bra](https://open.spotify.com/album/3gSVVZjJ5EwrkqReBk6ff4) | 3:16 | 2024-06-27 | 2025-01-24 |

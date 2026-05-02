@@ -296,7 +296,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 373244,
       "name": "5am Operator",
       "url": "https://open.spotify.com/track/42MOFsTMMvEkX9cdLcxsFr"
@@ -621,6 +621,24 @@
     },
     {
       "album": {
+        "name": "BANGOUT EP",
+        "url": "https://open.spotify.com/album/6hEac1VFPadQxwKw8laizs"
+      },
+      "artists": [
+        {
+          "name": "DJ Manny",
+          "url": "https://open.spotify.com/artist/5whJkWAzwCYfeetVpUJKn7"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174954,
+      "name": "After Party",
+      "url": "https://open.spotify.com/track/3Q84cw7R6i4fU2Ve7vJ8HH"
+    },
+    {
+      "album": {
         "name": "ah a\u0363h\u036a a\u0363h\u036ah\u036ah\u036ah\u036a (Club Nowadays, Vol. 4)",
         "url": "https://open.spotify.com/album/6Su1NMvnsZew5PpHrG9ulO"
       },
@@ -792,7 +810,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 249596,
       "name": "All Night",
       "url": "https://open.spotify.com/track/3dB92Il79UajUxaHzA3VBA"
@@ -2218,7 +2236,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 272634,
       "name": "BIG CHOON",
       "url": "https://open.spotify.com/track/3IdJOBj2sVfQrjSVyOwkdu"
@@ -3573,6 +3591,28 @@
     },
     {
       "album": {
+        "name": "TVNKVNTVN",
+        "url": "https://open.spotify.com/album/0GH61kIFR6vpFHHz2l1e9y"
+      },
+      "artists": [
+        {
+          "name": "AMANTRA",
+          "url": "https://open.spotify.com/artist/3iFlEeHFzJ6kyvQiBg58vc"
+        },
+        {
+          "name": "Genosidra",
+          "url": "https://open.spotify.com/artist/6Y3JaYmXupDH2NZHSyQjUB"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240610,
+      "name": "Chambapie",
+      "url": "https://open.spotify.com/track/2cyW4j1MdpPBQaPkiD4vgK"
+    },
+    {
+      "album": {
         "name": "Champagne",
         "url": "https://open.spotify.com/album/4TKxmz7JRy8QKPxO7dWDTo"
       },
@@ -4274,6 +4314,24 @@
       "duration_ms": 253200,
       "name": "corinthia",
       "url": "https://open.spotify.com/track/1U5sIecZeRKhACJtqTf9mq"
+    },
+    {
+      "album": {
+        "name": "Shook Hands EP",
+        "url": "https://open.spotify.com/album/43F26nefGZ6iClppyJzXOE"
+      },
+      "artists": [
+        {
+          "name": "DPRTNDRP",
+          "url": "https://open.spotify.com/artist/1OsyLdBrbBzicSLMOKUUEH"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257309,
+      "name": "Cortado",
+      "url": "https://open.spotify.com/track/5YPUD0ypRs2tLRnGtkHUpx"
     },
     {
       "album": {
@@ -6501,6 +6559,32 @@
     },
     {
       "album": {
+        "name": "FIESTA",
+        "url": "https://open.spotify.com/album/04cR0wP3saPJ7rBlI96V9h"
+      },
+      "artists": [
+        {
+          "name": "Coffintexts",
+          "url": "https://open.spotify.com/artist/4OMHnyekp6Sv6BdGxDcmK1"
+        },
+        {
+          "name": "Ale Acosta",
+          "url": "https://open.spotify.com/artist/5LXcik8l0rAkVuFe1vI3JM"
+        },
+        {
+          "name": "PAYME AMY",
+          "url": "https://open.spotify.com/artist/1mvSJJESoqtyg1HP0k9kfa"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329552,
+      "name": "FIESTA",
+      "url": "https://open.spotify.com/track/1Cs9MMnozQQUYUyxAQlbVD"
+    },
+    {
+      "album": {
         "name": "Fight EP",
         "url": "https://open.spotify.com/album/1t1tYXO2MRcBXHa7ykPsAY"
       },
@@ -6574,6 +6658,24 @@
       "duration_ms": 219357,
       "name": "Fires",
       "url": "https://open.spotify.com/track/2pdFa51EWCjhzHMKMSniUb"
+    },
+    {
+      "album": {
+        "name": "Sigils For Survival",
+        "url": "https://open.spotify.com/album/6DsMqtKy0VJlvcxRFozKw8"
+      },
+      "artists": [
+        {
+          "name": "Octo Octa",
+          "url": "https://open.spotify.com/artist/2GH8Mzo3Ur1AdOnGUUpt17"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 499100,
+      "name": "First Intention (Right Here, Right Now)",
+      "url": "https://open.spotify.com/track/2cnRRxgxmTYIUwK06kNTJk"
     },
     {
       "album": {
@@ -6756,7 +6858,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 330586,
       "name": "FOREVER",
       "url": "https://open.spotify.com/track/6MH5a7SRJnZcrsIB2OoUFV"
@@ -8266,6 +8368,28 @@
       "duration_ms": 260266,
       "name": "Heels hit the floor",
       "url": "https://open.spotify.com/track/47TeQFYzpWbcBIko7UCR1J"
+    },
+    {
+      "album": {
+        "name": "Pyrexia",
+        "url": "https://open.spotify.com/album/5bXY8a7X1GPtI01b4NCV4s"
+      },
+      "artists": [
+        {
+          "name": "Ehua",
+          "url": "https://open.spotify.com/artist/6mmklLsukQYQBIfS7WJw50"
+        },
+        {
+          "name": "Flore",
+          "url": "https://open.spotify.com/artist/14LfGaytRuKLzIjUP6SXMM"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338277,
+      "name": "Helix",
+      "url": "https://open.spotify.com/track/4CDLVSZvQ2pEj3xreFWns6"
     },
     {
       "album": {
@@ -10460,7 +10584,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 252393,
       "name": "Let Me Say This",
       "url": "https://open.spotify.com/track/19iQuyF5zc3zT1LdY3y5G7"
@@ -16606,7 +16730,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 315111,
       "name": "Suave",
       "url": "https://open.spotify.com/track/5aJQgv8FJIcFIjWlwp8Uj0"
@@ -18044,7 +18168,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 308608,
       "name": "TRAVELERS",
       "url": "https://open.spotify.com/track/0E5YfHjYfK5PLD8bq3N4fk"
@@ -18684,6 +18808,24 @@
       "duration_ms": 350714,
       "name": "Untitled 12",
       "url": "https://open.spotify.com/track/0W9W0VSTv22uEWl1hXF39S"
+    },
+    {
+      "album": {
+        "name": "Untitled 13",
+        "url": "https://open.spotify.com/album/3ROotvLiEaR5vOTvn0fyym"
+      },
+      "artists": [
+        {
+          "name": "Leod",
+          "url": "https://open.spotify.com/artist/60s9PC0pLdn1j1fz6PjUT1"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282989,
+      "name": "Untitled 13",
+      "url": "https://open.spotify.com/track/22om0XF65M87SwlOvx2Xj5"
     },
     {
       "album": {

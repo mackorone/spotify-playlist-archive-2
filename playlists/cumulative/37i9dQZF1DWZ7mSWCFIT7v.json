@@ -2323,6 +2323,24 @@
     },
     {
       "album": {
+        "name": "Ataxia",
+        "url": "https://open.spotify.com/album/5WebisF7O14pdbTWdbq4TU"
+      },
+      "artists": [
+        {
+          "name": "Eden FM",
+          "url": "https://open.spotify.com/artist/27UKaWqi4fjaBFY0sNmvNT"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230386,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/3Wesx48x9hpkJRDtJp7fdZ"
+    },
+    {
+      "album": {
         "name": "Black Toms",
         "url": "https://open.spotify.com/album/3Zd9orgVaWayWFOjGMjN2l"
       },
@@ -2500,6 +2518,24 @@
       "duration_ms": 182837,
       "name": "daydream",
       "url": "https://open.spotify.com/track/7F8DbKBW1nZdhNU66jrsOK"
+    },
+    {
+      "album": {
+        "name": "Deception Dance",
+        "url": "https://open.spotify.com/album/7zKlprmx58m3HJxQnhfaHK"
+      },
+      "artists": [
+        {
+          "name": "Gigi Masin",
+          "url": "https://open.spotify.com/artist/0dCVhSVXD9JhJh2bTySJZx"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 456400,
+      "name": "Deception Dance",
+      "url": "https://open.spotify.com/track/2zDZE2b8jnciI2rnMmPlwD"
     },
     {
       "album": {
@@ -7170,7 +7206,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 355120,
       "name": "Prone",
       "url": "https://open.spotify.com/track/6H6ot03lTH7LPsquYg73wv"
@@ -7700,7 +7736,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 207018,
       "name": "running - mndsgn remix",
       "url": "https://open.spotify.com/track/3ULD5tEJRJ8bDndnVuBS7I"

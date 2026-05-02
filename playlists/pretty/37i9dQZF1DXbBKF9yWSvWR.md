@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBKF9yWSvWR.md) - [plain]
 
 > Wekelijkse update met de beste Indie releases\. Cover: Joya Mooi
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,954 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,975 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBKF9yWSvWR.md) - [plain]
 | 99 | [Rock Bottom](https://open.spotify.com/track/4IMUNFZqhkRJp7X8PAOrZ9) | [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [Rock Bottom / Octopus](https://open.spotify.com/album/6QtKyp4Hgq87SA1sV5b52d) | 4:10 |
 | 100 | [passenger seat](https://open.spotify.com/track/2h4q3iFpwLUubKSyxN59gR) | [Marigo Bay](https://open.spotify.com/artist/59E09Es8P8Kj2ANWsqS6h3) | [passenger seat](https://open.spotify.com/album/2wclbCdkXyGEB5s3aGU96X) | 3:21 |
 
-Snapshot ID: `AAAAAJ9qdhTU+osM/gKul3bNryTxTiK5`
+Snapshot ID: `AAAAAMx7z3KOx5vyVsM8BclPwrYpFvI4`

@@ -1823,6 +1823,28 @@
     },
     {
       "album": {
+        "name": "Crazy Love",
+        "url": "https://open.spotify.com/album/0yd7wMbdiJMsgiv3XXrJTy"
+      },
+      "artists": [
+        {
+          "name": "GA-20",
+          "url": "https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT"
+        },
+        {
+          "name": "Charlie Musselwhite",
+          "url": "https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195119,
+      "name": "Crazy Love",
+      "url": "https://open.spotify.com/track/4COHCCcZAdeVCnnK36kUNS"
+    },
+    {
+      "album": {
         "name": "Crossroads",
         "url": "https://open.spotify.com/album/16r3kluiUqc070LB2fpGQR"
       },
@@ -4362,7 +4384,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 267102,
       "name": "I Hate Love",
       "url": "https://open.spotify.com/track/7FPgVDH2V3uIX61q6Au8yN"
@@ -5244,7 +5266,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 169626,
       "name": "Just One More Time",
       "url": "https://open.spotify.com/track/4dXyMNpMEEKs0ihnj6XnVE"
@@ -7390,7 +7412,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 226240,
       "name": "Roots & Wings",
       "url": "https://open.spotify.com/track/7eGKkTJGAjTHckLuIEsmjG"
@@ -7462,7 +7484,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 294960,
       "name": "Running Away",
       "url": "https://open.spotify.com/track/6hGu0MWwR53eJbHCAZgWii"
@@ -7748,6 +7770,24 @@
       "duration_ms": 166946,
       "name": "She\u2019s On Fire",
       "url": "https://open.spotify.com/track/3ExuTGplbf3o6ilyu4JhY4"
+    },
+    {
+      "album": {
+        "name": "Sideways Thru Time",
+        "url": "https://open.spotify.com/album/3iiePPL0vgb1ami7FO05xY"
+      },
+      "artists": [
+        {
+          "name": "Amani Burnham",
+          "url": "https://open.spotify.com/artist/32dCeVCZ26g53CDEETZOLD"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182200,
+      "name": "Sideways Thru Time",
+      "url": "https://open.spotify.com/track/5LpsFUdIjEKmee8OOH3r4e"
     },
     {
       "album": {
@@ -10336,7 +10376,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 343988,
       "name": "Wild About My Lovin'",
       "url": "https://open.spotify.com/track/0iuq567Xa1XqYa0zP8gbGq"
@@ -10416,6 +10456,24 @@
       "duration_ms": 185068,
       "name": "Woke Up And Smelled The Coffee",
       "url": "https://open.spotify.com/track/5PYR64ezPkh2ihfXrKnSlz"
+    },
+    {
+      "album": {
+        "name": "Wolf Blues",
+        "url": "https://open.spotify.com/album/4ryAF6ruhzLlLaqUirm24o"
+      },
+      "artists": [
+        {
+          "name": "Mike Stocksdale",
+          "url": "https://open.spotify.com/artist/5hBlYNHQa69ayImuzihy8a"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177181,
+      "name": "Wolf Blues - Single Version",
+      "url": "https://open.spotify.com/track/2rEj96qkmn8a4foUERYUpb"
     },
     {
       "album": {
@@ -10594,6 +10652,28 @@
       "duration_ms": 258680,
       "name": "You Know My Love",
       "url": "https://open.spotify.com/track/4ZHmUh8uIxHzAIeBdPg6mB"
+    },
+    {
+      "album": {
+        "name": "Time",
+        "url": "https://open.spotify.com/album/3aZOmejxZ6WmTMvLoGY39p"
+      },
+      "artists": [
+        {
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+        },
+        {
+          "name": "Phantom Blues Band",
+          "url": "https://open.spotify.com/artist/1Pi5tK3cAz6VxVKqzMWTTi"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198118,
+      "name": "You Put The Whammy On Me",
+      "url": "https://open.spotify.com/track/4XlNoEYn3C5o4o44B3PCe5"
     },
     {
       "album": {

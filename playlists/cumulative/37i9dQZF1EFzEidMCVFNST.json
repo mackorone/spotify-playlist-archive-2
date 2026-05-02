@@ -8719,6 +8719,24 @@
     },
     {
       "album": {
+        "name": "Hipnose (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4qzaBZd1XhslGUpqdAmPLD"
+      },
+      "artists": [
+        {
+          "name": "Pedro e Benicio",
+          "url": "https://open.spotify.com/artist/6fh11OgZMuzObXNUf4AEOr"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184293,
+      "name": "Se O Passado Me Chamar",
+      "url": "https://open.spotify.com/track/7J8FRSlMvjPEtnBapXUUba"
+    },
+    {
+      "album": {
         "name": "Hipnose",
         "url": "https://open.spotify.com/album/3DxLlWeIZ9hIiuxMnql19r"
       },
@@ -8730,7 +8748,7 @@
       ],
       "date_added": "2026-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 184293,
       "name": "Se o Passado Me Chamar",
       "url": "https://open.spotify.com/track/7aj4CYNDVPjaJi7ltyKvqx"
@@ -10904,10 +10922,28 @@
       ],
       "date_added": "2026-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 157831,
       "name": "Um Brigadeiro e um Amor",
       "url": "https://open.spotify.com/track/67wdOnD18sQA9Sst8XzK9Q"
+    },
+    {
+      "album": {
+        "name": "Hipnose",
+        "url": "https://open.spotify.com/album/3DxLlWeIZ9hIiuxMnql19r"
+      },
+      "artists": [
+        {
+          "name": "Pedro e Benicio",
+          "url": "https://open.spotify.com/artist/6fh11OgZMuzObXNUf4AEOr"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157831,
+      "name": "Um Brigadeiro e um Amor",
+      "url": "https://open.spotify.com/track/6NOiZAQb9KwbusEP5u3xad"
     },
     {
       "album": {

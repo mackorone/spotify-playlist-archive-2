@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "All things <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">bass</a>  \ud83d\ude80\ud83d\ude80 featuring Subtronics",
+  "description": "All things <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">bass</a>  \ud83d\udca8\ud83d\udca8 featuring Skrillex & ISOxo",
   "name": "Bass Arcade",
   "tracks": [
     {
@@ -2388,7 +2388,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 212042,
       "name": "Back In It",
       "url": "https://open.spotify.com/track/7gKeRFpNRSZyWCzzsYGATM"
@@ -7446,7 +7446,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 225103,
       "name": "Crush",
       "url": "https://open.spotify.com/track/3HaRFJZ3QSjn3ffXN1f0Cl"
@@ -9811,6 +9811,28 @@
     },
     {
       "album": {
+        "name": "The Dreams Strange and Eternal",
+        "url": "https://open.spotify.com/album/0HNfjZPkOShrNG7SDlPEHM"
+      },
+      "artists": [
+        {
+          "name": "Seven Lions",
+          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
+        },
+        {
+          "name": "FORS",
+          "url": "https://open.spotify.com/artist/3IG2AmQqnXTje1NHlIQViX"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233794,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/2OthEiwV03Y4uMCEix6oZ5"
+    },
+    {
+      "album": {
         "name": "Dreams Come True",
         "url": "https://open.spotify.com/album/3HODo90QBBmalOQENYF0OS"
       },
@@ -9852,6 +9874,24 @@
       "duration_ms": 192013,
       "name": "Dreamstate",
       "url": "https://open.spotify.com/track/5Gggw8WykNhnZsYExUVYxy"
+    },
+    {
+      "album": {
+        "name": "Drifter",
+        "url": "https://open.spotify.com/album/6g3Dt8nIPhvFOsXM6fjb23"
+      },
+      "artists": [
+        {
+          "name": "Hairitage",
+          "url": "https://open.spotify.com/artist/6Cqy862jSCV7qdNrCDqvNK"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153103,
+      "name": "Drifter",
+      "url": "https://open.spotify.com/track/3uuBJlejBBFhRMWAcsZdS3"
     },
     {
       "album": {
@@ -19638,6 +19678,32 @@
       "duration_ms": 240428,
       "name": "Let Go",
       "url": "https://open.spotify.com/track/75eUZ1Em0I86W4RbBL8EZV"
+    },
+    {
+      "album": {
+        "name": "Let It Go (feat. Micah Martin)",
+        "url": "https://open.spotify.com/album/0icq8NzJlStWtCh1gJ6aeB"
+      },
+      "artists": [
+        {
+          "name": "Ganja White Night",
+          "url": "https://open.spotify.com/artist/1a6oIpEh4DGgaqgWg5xwd3"
+        },
+        {
+          "name": "TVBOO",
+          "url": "https://open.spotify.com/artist/3T0BepBNnd3kw2m10rh8yW"
+        },
+        {
+          "name": "Micah Martin",
+          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227142,
+      "name": "Let It Go (feat. Micah Martin)",
+      "url": "https://open.spotify.com/track/0MgA5mQ4YspY5TKu6p6JeU"
     },
     {
       "album": {
@@ -30979,6 +31045,36 @@
     },
     {
       "album": {
+        "name": "Smoke",
+        "url": "https://open.spotify.com/album/5NZawJNAy7ntRWNKlArhOe"
+      },
+      "artists": [
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "ISOxo",
+          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
+        },
+        {
+          "name": "Cristale",
+          "url": "https://open.spotify.com/artist/6U1hXHFTV27cbQVXZvnX27"
+        },
+        {
+          "name": "TeeZandos",
+          "url": "https://open.spotify.com/artist/0aDlKdF22vK6yut113KJix"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150653,
+      "name": "Smoke",
+      "url": "https://open.spotify.com/track/2KFJYXqd3fVEHfWSNhlTEp"
+    },
+    {
+      "album": {
         "name": "Snakebite",
         "url": "https://open.spotify.com/album/47sCXgSltXVcKSTyXzzrkN"
       },
@@ -31282,7 +31378,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 212571,
       "name": "SOUNDBOY KILLA",
       "url": "https://open.spotify.com/track/1ZMThGlkCbuqem8pQnoWND"
@@ -32288,7 +32384,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 163200,
       "name": "Stranglehold",
       "url": "https://open.spotify.com/track/4lJVKxAShrUBxHFz6YSqsd"
@@ -33615,6 +33711,24 @@
     },
     {
       "album": {
+        "name": "Tell U I'm Wrong",
+        "url": "https://open.spotify.com/album/2PEVElPlxEChOGzZkn3plj"
+      },
+      "artists": [
+        {
+          "name": "Z3LLA",
+          "url": "https://open.spotify.com/artist/5GsXRkwr74MAPYBjrgUT02"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "Tell U I'm Wrong",
+      "url": "https://open.spotify.com/track/2tMID7teo8xkyNVqHBhjXV"
+    },
+    {
+      "album": {
         "name": "tell you straight (Louis The Child\u2019s version)",
         "url": "https://open.spotify.com/album/1zGrBJhYNgJwHGh8ApwDi5"
       },
@@ -34868,7 +34982,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 253714,
       "name": "Tonight (I\u2019m Sorry)",
       "url": "https://open.spotify.com/track/6cWBht0Kc3vcpYXOr6bUAL"
@@ -35048,6 +35162,32 @@
       "duration_ms": 165120,
       "name": "Touch Me",
       "url": "https://open.spotify.com/track/4QIUG6jWIhmwBgHeI1WpMD"
+    },
+    {
+      "album": {
+        "name": "Touchdown",
+        "url": "https://open.spotify.com/album/2JbAFeht78XUXee4bk7w5F"
+      },
+      "artists": [
+        {
+          "name": "Kanine",
+          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
+        },
+        {
+          "name": "SOTA",
+          "url": "https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP"
+        },
+        {
+          "name": "Mila Falls",
+          "url": "https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160172,
+      "name": "Touchdown",
+      "url": "https://open.spotify.com/track/3NGj1FaMWLNorEcffTFV9U"
     },
     {
       "album": {
@@ -35780,7 +35920,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 217931,
       "name": "Ultraviolet (feat. Katy Alex)",
       "url": "https://open.spotify.com/track/7G7wJskGrNr6R2zXDopkre"
@@ -36276,6 +36416,28 @@
       "duration_ms": 168311,
       "name": "VIRUS",
       "url": "https://open.spotify.com/track/5RVdc5KXrZp7RElvkY5eSd"
+    },
+    {
+      "album": {
+        "name": "Visualize",
+        "url": "https://open.spotify.com/album/57b5uW1BNSl2EfR4CjswEz"
+      },
+      "artists": [
+        {
+          "name": "Mary Droppinz",
+          "url": "https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS"
+        },
+        {
+          "name": "Finnuh",
+          "url": "https://open.spotify.com/artist/3YLDaKhikm7TdqKUUejjzA"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198857,
+      "name": "Visualize",
+      "url": "https://open.spotify.com/track/1MttZtFQZkkCWbkeFfdKVQ"
     },
     {
       "album": {
@@ -38036,7 +38198,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 188800,
       "name": "Work",
       "url": "https://open.spotify.com/track/2bEvDoQ1uACdtMOVZE3JiM"

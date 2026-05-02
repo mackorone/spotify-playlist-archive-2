@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-30",
-  "description": "rock alternativo argentino. \n\ud83d\udcf7 RYAN",
+  "description": "rock alternativo argentino. \n\ud83d\udcf7 Se\u00f1orita Novio & Shitstem",
   "name": "alt.rock",
   "tracks": [
     {
@@ -1861,6 +1861,28 @@
     },
     {
       "album": {
+        "name": "EL DISFRAZ",
+        "url": "https://open.spotify.com/album/1tntKA0GreRjlGyYpJHaE1"
+      },
+      "artists": [
+        {
+          "name": "Se\u00f1orita Novio",
+          "url": "https://open.spotify.com/artist/2HCy7IPI79aGrEYSWfjwaF"
+        },
+        {
+          "name": "Shitstem",
+          "url": "https://open.spotify.com/artist/1gYX86oU6Db846X9wHkjyo"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210356,
+      "name": "EL DISFRAZ",
+      "url": "https://open.spotify.com/track/3UK2hBCwv0fz97poNNotJr"
+    },
+    {
+      "album": {
         "name": "El Festejo",
         "url": "https://open.spotify.com/album/0KluUJ3EAbghN32vEO7l7S"
       },
@@ -2524,6 +2546,28 @@
       "duration_ms": 213000,
       "name": "febrero",
       "url": "https://open.spotify.com/track/48htFaGFraVtzHSv3YeB4O"
+    },
+    {
+      "album": {
+        "name": "Frikidadidou",
+        "url": "https://open.spotify.com/album/7hOpzL3rbfcLBLuQUfOsno"
+      },
+      "artists": [
+        {
+          "name": "NIKK\u00d6",
+          "url": "https://open.spotify.com/artist/59pyzOYQlRJx8z1gzrN2ai"
+        },
+        {
+          "name": "Mariana Enriquez",
+          "url": "https://open.spotify.com/artist/01NAGA1oV4Pbp9VW0E0u69"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202125,
+      "name": "Frikidadidou",
+      "url": "https://open.spotify.com/track/1sZs4kFiJhCxLXNGHSxYdx"
     },
     {
       "album": {
@@ -4757,6 +4801,24 @@
     },
     {
       "album": {
+        "name": "P\u00e1ramo",
+        "url": "https://open.spotify.com/album/55sbDjtpxbSQwC7kpfqEho"
+      },
+      "artists": [
+        {
+          "name": "Mujer Cebra",
+          "url": "https://open.spotify.com/artist/6UZQzfJ09W8Dqmr0UoU5HL"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267361,
+      "name": "P\u00e1ramo",
+      "url": "https://open.spotify.com/track/4weH787j8LRxnSfCC9HGgB"
+    },
+    {
+      "album": {
         "name": "que se la banquen",
         "url": "https://open.spotify.com/album/2RggQwKLfVqYbNM06FDQam"
       },
@@ -5728,6 +5790,24 @@
       "duration_ms": 100160,
       "name": "UN PLAN B",
       "url": "https://open.spotify.com/track/5YKlZSo139XFVe5IWTXKcK"
+    },
+    {
+      "album": {
+        "name": "Un poco triste",
+        "url": "https://open.spotify.com/album/0JhTvPGfVl8RU9rYjRjHrC"
+      },
+      "artists": [
+        {
+          "name": "Sakatumba",
+          "url": "https://open.spotify.com/artist/205zSqF4seFuqDGmmQEMad"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129567,
+      "name": "Un poco triste",
+      "url": "https://open.spotify.com/track/7pdxm9LvnfOWE0Vr8wibJz"
     },
     {
       "album": {

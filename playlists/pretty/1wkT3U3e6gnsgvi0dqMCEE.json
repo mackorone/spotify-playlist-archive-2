@@ -6,7 +6,7 @@
     "name": "uDiscover Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "AAADoX49SBL+BNXI+t/RMNYFRuVX2Eha",
+  "snapshot_id": "AAADpkK7GPiSG6GlgFLjflgzPa/2d9bU",
   "tracks": [
     {
       "added_at": "2026-03-27 12:48:06",
@@ -71,6 +71,26 @@
       "duration_ms": 215948,
       "name": "Planting Tomatoes",
       "url": "https://open.spotify.com/track/0BuI2IX8F4HlGjIxywA09L"
+    },
+    {
+      "added_at": "2026-05-01 13:15:22",
+      "album": {
+        "name": "Sunday (2026 Stephen Street Stereo Mix) / Linger (Spanish Mix (2026)",
+        "url": "https://open.spotify.com/album/2m0LaVx2taZpoamB4EBJ24"
+      },
+      "artists": [
+        {
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        },
+        {
+          "name": "Stephen Street",
+          "url": "https://open.spotify.com/artist/5pmh5AcbKZIme0p4riO6Kb"
+        }
+      ],
+      "duration_ms": 210626,
+      "name": "Sunday - 2026 Stephen Street Stereo Mix",
+      "url": "https://open.spotify.com/track/6LNcgZ6P1XdLr8Lovg3tlC"
     },
     {
       "added_at": "2026-04-24 16:05:41",
@@ -171,6 +191,26 @@
       "duration_ms": 273906,
       "name": "In A Life",
       "url": "https://open.spotify.com/track/1fbIlgO7EgYsDzk3r3uRz2"
+    },
+    {
+      "added_at": "2026-05-01 13:15:04",
+      "album": {
+        "name": "Baby Got Back (Ruby J Remix)",
+        "url": "https://open.spotify.com/album/2b0sjPFY83LJ1TkpmcKzZk"
+      },
+      "artists": [
+        {
+          "name": "Sir Mix-A-Lot",
+          "url": "https://open.spotify.com/artist/3TQ9JTBI2n2hfo7aRONEYV"
+        },
+        {
+          "name": "Ruby J",
+          "url": "https://open.spotify.com/artist/3Ll3RDumygunKMHjZfCkZd"
+        }
+      ],
+      "duration_ms": 155441,
+      "name": "Baby Got Back - Ruby J Remix",
+      "url": "https://open.spotify.com/track/0aP1mGdtnlSMXc2JY00Soy"
     },
     {
       "added_at": "2026-04-03 13:23:47",

@@ -1,6 +1,6 @@
 {
   "description": "Grandes hinos da m\u00fasica brasileira para animar sua pista de dan\u00e7a! ",
-  "num_followers": 481044,
+  "num_followers": 481087,
   "original_name": "Festa Brasileira",
   "owner": {
     "name": "Spotify",
@@ -835,22 +835,6 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
-        "name": "Sexy Iemanj\u00e1",
-        "url": "https://open.spotify.com/album/5FVHWpJXTYREVLlsGTPtvn"
-      },
-      "artists": [
-        {
-          "name": "Pepeu Gomes",
-          "url": "https://open.spotify.com/artist/3XLeGN8GPEzQarxiDoQURu"
-        }
-      ],
-      "duration_ms": 224226,
-      "name": "Sexy Yemanj\u00e1",
-      "url": "https://open.spotify.com/track/4Y8Vo1sfBqfoqYjbpEDH9R"
-    },
-    {
-      "added_at": "2021-11-26 03:18:52",
-      "album": {
         "name": "Juramento do Dedinho",
         "url": "https://open.spotify.com/album/2OKTFhlxZ0yvUEQsgXaCP0"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 164808,
       "name": "Juramento do Dedinho",
       "url": "https://open.spotify.com/track/4Eco98ezksfnQzVNJCjg9j"
+    },
+    {
+      "added_at": "2021-11-26 03:18:52",
+      "album": {
+        "name": "Sexy Iemanj\u00e1",
+        "url": "https://open.spotify.com/album/5FVHWpJXTYREVLlsGTPtvn"
+      },
+      "artists": [
+        {
+          "name": "Pepeu Gomes",
+          "url": "https://open.spotify.com/artist/3XLeGN8GPEzQarxiDoQURu"
+        }
+      ],
+      "duration_ms": 224226,
+      "name": "Sexy Yemanj\u00e1",
+      "url": "https://open.spotify.com/track/4Y8Vo1sfBqfoqYjbpEDH9R"
     },
     {
       "added_at": "2021-11-26 03:18:52",
@@ -915,22 +915,6 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
-        "name": "Gera\u00e7\u00e3o Pop",
-        "url": "https://open.spotify.com/album/1SBKxrKIIgGyYMl43ffjnU"
-      },
-      "artists": [
-        {
-          "name": "Pepeu Gomes",
-          "url": "https://open.spotify.com/artist/3XLeGN8GPEzQarxiDoQURu"
-        }
-      ],
-      "duration_ms": 244826,
-      "name": "Eu tamb\u00e9m quero beijar",
-      "url": "https://open.spotify.com/track/52GKEkUJJUAPcYE8S0rZJV"
-    },
-    {
-      "added_at": "2021-11-26 03:18:52",
-      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/7vF05VyQmk4x9ybW3E6Gd4"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 293613,
       "name": "Faixa Amarela",
       "url": "https://open.spotify.com/track/131eE1wdPFIUAzxveZispD"
+    },
+    {
+      "added_at": "2021-11-26 03:18:52",
+      "album": {
+        "name": "Gera\u00e7\u00e3o Pop",
+        "url": "https://open.spotify.com/album/1SBKxrKIIgGyYMl43ffjnU"
+      },
+      "artists": [
+        {
+          "name": "Pepeu Gomes",
+          "url": "https://open.spotify.com/artist/3XLeGN8GPEzQarxiDoQURu"
+        }
+      ],
+      "duration_ms": 244826,
+      "name": "Eu tamb\u00e9m quero beijar",
+      "url": "https://open.spotify.com/track/52GKEkUJJUAPcYE8S0rZJV"
     },
     {
       "added_at": "2021-11-26 03:18:52",

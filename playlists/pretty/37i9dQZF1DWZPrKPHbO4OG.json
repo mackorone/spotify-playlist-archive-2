@@ -1,6 +1,6 @@
 {
   "description": "Your ultimate gym playlist featuring upbeat Marathi tracks.",
-  "num_followers": 37236,
+  "num_followers": 37249,
   "original_name": "Marathi Workout",
   "owner": {
     "name": "Spotify",
@@ -375,6 +375,22 @@
     {
       "added_at": "2026-03-18 08:55:51",
       "album": {
+        "name": "Once More Laav",
+        "url": "https://open.spotify.com/album/6QjpZdG3TjiDpLoG2RIYdP"
+      },
+      "artists": [
+        {
+          "name": "Adarsh Shinde",
+          "url": "https://open.spotify.com/artist/5rz9Rq9OG7jQiSm2nmTfd3"
+        }
+      ],
+      "duration_ms": 177792,
+      "name": "Once More Laav",
+      "url": "https://open.spotify.com/track/0hBCD8MaqZhHij5VnbFjTB"
+    },
+    {
+      "added_at": "2026-03-18 08:55:51",
+      "album": {
         "name": "Ajay - Atul Hits",
         "url": "https://open.spotify.com/album/2H1tdNT9foDOGoNq8BGROl"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 306464,
       "name": "Kombdi Palali - From \"Jatra\"",
       "url": "https://open.spotify.com/track/5MWLOVaXix2p4UtD3UpRen"
-    },
-    {
-      "added_at": "2026-03-18 08:55:51",
-      "album": {
-        "name": "Once More Laav",
-        "url": "https://open.spotify.com/album/6QjpZdG3TjiDpLoG2RIYdP"
-      },
-      "artists": [
-        {
-          "name": "Adarsh Shinde",
-          "url": "https://open.spotify.com/artist/5rz9Rq9OG7jQiSm2nmTfd3"
-        }
-      ],
-      "duration_ms": 177792,
-      "name": "Once More Laav",
-      "url": "https://open.spotify.com/track/0hBCD8MaqZhHij5VnbFjTB"
     },
     {
       "added_at": "2026-03-18 08:55:51",

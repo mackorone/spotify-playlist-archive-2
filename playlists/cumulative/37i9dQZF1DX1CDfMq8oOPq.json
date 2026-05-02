@@ -1895,6 +1895,28 @@
     },
     {
       "album": {
+        "name": "DISStrato",
+        "url": "https://open.spotify.com/album/3CFXQYLTMqCng1dfLH2L9c"
+      },
+      "artists": [
+        {
+          "name": "Soh Lopez",
+          "url": "https://open.spotify.com/artist/3VXguqIIKhWn5pX4i7X12t"
+        },
+        {
+          "name": "Modern",
+          "url": "https://open.spotify.com/artist/383WIzhrVix9aQlLnLtSEk"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151570,
+      "name": "DISStrato",
+      "url": "https://open.spotify.com/track/28iLSNeOLHxGdrTQ9GNeuG"
+    },
+    {
+      "album": {
         "name": "Diz",
         "url": "https://open.spotify.com/album/7Lxz0lRrYciltkKfziu6s0"
       },
@@ -3417,6 +3439,28 @@
     },
     {
       "album": {
+        "name": "HOT SAUCE",
+        "url": "https://open.spotify.com/album/79iofr8aE9hyLjBZ3Bz6Jh"
+      },
+      "artists": [
+        {
+          "name": "iamBJAY",
+          "url": "https://open.spotify.com/artist/44Ao9qICR4cSeI9SdM8Dkl"
+        },
+        {
+          "name": "KALLY",
+          "url": "https://open.spotify.com/artist/3EV9F3Ww4voprvw7X6zghY"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148732,
+      "name": "HOT SAUCE",
+      "url": "https://open.spotify.com/track/0bE7SYiLfk1cFez4CKSNra"
+    },
+    {
+      "album": {
         "name": "HSEH",
         "url": "https://open.spotify.com/album/6PBAk2kBNGViZwog68l5XP"
       },
@@ -3662,7 +3706,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 139200,
       "name": "Kylie Kenner",
       "url": "https://open.spotify.com/track/7jfzviafhHFK7a3rKRhT22"
@@ -4238,7 +4282,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 202857,
       "name": "MARATONA",
       "url": "https://open.spotify.com/track/4oxdf2bMjwRznsD9qR3OS2"
@@ -5079,6 +5123,28 @@
     },
     {
       "album": {
+        "name": "Noiz Tem o Molho",
+        "url": "https://open.spotify.com/album/1GLBToVaJomws3M4S1cfcU"
+      },
+      "artists": [
+        {
+          "name": "Freeda",
+          "url": "https://open.spotify.com/artist/4rlGEW33pML5GlqS4lsWyp"
+        },
+        {
+          "name": "Ana Rima",
+          "url": "https://open.spotify.com/artist/4o94LXBtkksntdZEJbQWJk"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164210,
+      "name": "Noiz Tem o Molho",
+      "url": "https://open.spotify.com/track/7stt0fUsltORgJ2PeqfLC9"
+    },
+    {
+      "album": {
         "name": "Novinha da Lancha",
         "url": "https://open.spotify.com/album/0iRAfyQVKFLQO8ti290R9u"
       },
@@ -5576,7 +5642,7 @@
       ],
       "date_added": "2026-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 248209,
       "name": "Os 100",
       "url": "https://open.spotify.com/track/0a5B0NLxHmV0p0uK3IWqYV"
@@ -6366,6 +6432,24 @@
       "duration_ms": 144686,
       "name": "Que Se V\u00e1",
       "url": "https://open.spotify.com/track/7tSZyaZS1hHZ87RcZ2jAeB"
+    },
+    {
+      "album": {
+        "name": "QUEBREI SUA CASA",
+        "url": "https://open.spotify.com/album/3jeFsTtEnFb1LZpwZbnfHD"
+      },
+      "artists": [
+        {
+          "name": "Budah",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "QUEBREI SUA CASA",
+      "url": "https://open.spotify.com/track/4QMvXgG3Ae5aycBwhKm2q8"
     },
     {
       "album": {
@@ -8108,7 +8192,7 @@
       ],
       "date_added": "2025-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-02",
       "duration_ms": 222315,
       "name": "T\u00f4 de Nave",
       "url": "https://open.spotify.com/track/5qRmRNCQNFe7bVlUXnUy3Z"

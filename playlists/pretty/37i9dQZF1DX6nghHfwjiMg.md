@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6nghHfwjiMg.md) - [plain]
 
 > Descubrí nuevos artistas, nueva música todas las semanas 📸 Little Boggie
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,861 likes - 44 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,867 likes - 44 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6nghHfwjiMg.md) - [plain]
 | 9 | [Elevados](https://open.spotify.com/track/396JLGShBHYMC67DDC8Vy3) | [Caliope Family](https://open.spotify.com/artist/3yF4Lj2Sl3QkKQNQwtYya6) | [Emblema](https://open.spotify.com/album/2MXupQ2U7M4KdPyxGx7INp) | 3:18 |
 | 10 | [Octubre](https://open.spotify.com/track/5li1TvCfdNVZclNOWI9zVS) | [Cerounno](https://open.spotify.com/artist/5KpmLKI7ktzNzQL13J95Pf), [Vinyltracker](https://open.spotify.com/artist/3C1LbhIokOcNVlfGF9k6Qz) | [Octubre](https://open.spotify.com/album/77dT4Zu1Zhy0i7ppHZHIp4) | 2:36 |
 | 11 | [SANTO](https://open.spotify.com/track/4aNc07b8Fklka1TwNtQjEL) | [DANDARA](https://open.spotify.com/artist/4K7qwv5pUgPFaORjdUQFb0) | [SANTO](https://open.spotify.com/album/7DSxMZEpdZ1fkOO2ghdjwt) | 2:54 |
-| 12 | [Track 4](https://open.spotify.com/track/1YgIa9m3ZlcImBMghTfNWr) | [Faus K](https://open.spotify.com/artist/4Dp9S8ukWAo7FOIloXG2mp) | [Sobredimensión](https://open.spotify.com/album/7DMMjxxwcmsVjDp6cPFShq) | 0:00 |
+| 12 | [FK4 2.0](https://open.spotify.com/track/1YgIa9m3ZlcImBMghTfNWr) | [Faus K](https://open.spotify.com/artist/4Dp9S8ukWAo7FOIloXG2mp) | [Sobredimensión](https://open.spotify.com/album/7DMMjxxwcmsVjDp6cPFShq) | 3:41 |
 | 13 | [Lluvioso](https://open.spotify.com/track/2Ls7UJ3wbTOQrDkyvZALwo) | [Julia Cry](https://open.spotify.com/artist/48Tw6zoAK5CrXY7cTHv8D0) | [Lluvioso](https://open.spotify.com/album/5tzcdizyRkn3k5LiuB4NA0) | 2:52 |
 | 14 | [bajare](https://open.spotify.com/track/2W6X9hHAYlVDW9ksl2d68D) | [Lito](https://open.spotify.com/artist/3y7HnEVrtqMCiz1I7gLjGW) | [bajare](https://open.spotify.com/album/7H1sGpah9AY06xW4QB3rPW) | 2:27 |
 | 15 | [OKUPAS](https://open.spotify.com/track/1JFOzm5blyqrenJCWaUDQs) | [Little Boogie](https://open.spotify.com/artist/51f3tNDq1t3W7OCtokDRb0), [STEREO](https://open.spotify.com/artist/6odI6L61c5EaXZnKWSJ7fj) | [OKUPAS](https://open.spotify.com/album/2sV73ALGXBEAXy2uxHJctQ) | 2:44 |

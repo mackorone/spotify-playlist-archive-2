@@ -106825,7 +106825,7 @@
         },
         {
           "name": "Tiga",
-          "url": "https://open.spotify.com/artist/6dfbRE1slg9q6xXbMiB9Rn"
+          "url": "https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC"
         }
       ],
       "date_added": "2026-04-30",
@@ -124520,6 +124520,24 @@
       "duration_ms": 234420,
       "name": "Evergreen",
       "url": "https://open.spotify.com/track/6g4CJrBuZNnLPyVhEqPd62"
+    },
+    {
+      "album": {
+        "name": "Victory Garden",
+        "url": "https://open.spotify.com/album/70ch2R18v3Zho0SlcN4CAN"
+      },
+      "artists": [
+        {
+          "name": "Young the Giant",
+          "url": "https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221026,
+      "name": "Evergreen",
+      "url": "https://open.spotify.com/track/3fLX6yRLD2IkWQUxDJEQ0S"
     },
     {
       "album": {
@@ -378011,6 +378029,28 @@
     },
     {
       "album": {
+        "name": "PRODUKT AV MIN MILJ\u00d6",
+        "url": "https://open.spotify.com/album/2YgtSLQO3tqBBCdlKOBDUQ"
+      },
+      "artists": [
+        {
+          "name": "N1cho",
+          "url": "https://open.spotify.com/artist/2oYxnEf9p7RUIeDVo3y13y"
+        },
+        {
+          "name": "Le Bandit",
+          "url": "https://open.spotify.com/artist/2TZHEsA6cWPgEVUsrEt4IQ"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "Span",
+      "url": "https://open.spotify.com/track/2YTyG2NLCd6gFJjAXlgHuU"
+    },
+    {
+      "album": {
         "name": "SPARKA MIG R\u00c4TT MELLAN BENEN",
         "url": "https://open.spotify.com/album/6lUNkyMpiCzYFSgMNRWZgF"
       },
@@ -424751,42 +424791,6 @@
     },
     {
       "album": {
-        "name": "Victory Garden",
-        "url": "https://open.spotify.com/album/70ch2R18v3Zho0SlcN4CAN"
-      },
-      "artists": [
-        {
-          "name": "Young the Giant",
-          "url": "https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT"
-        }
-      ],
-      "date_added": "2026-04-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/3fLX6yRLD2IkWQUxDJEQ0S"
-    },
-    {
-      "album": {
-        "name": "Fr\u00e5gor p\u00e5 det",
-        "url": "https://open.spotify.com/album/3Ru5YOEvcEajZkrKP3cHpW"
-      },
-      "artists": [
-        {
-          "name": "Donnez",
-          "url": "https://open.spotify.com/artist/4rMk4gSVtsxoOb7NPwF6hA"
-        }
-      ],
-      "date_added": "2026-04-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 7",
-      "url": "https://open.spotify.com/track/3X3nA4LauVykD116ucihXe"
-    },
-    {
-      "album": {
         "name": "Track and Field",
         "url": "https://open.spotify.com/album/7lJIJZp0dR8I5dfLACSYKA"
       },
@@ -437776,6 +437780,24 @@
       "duration_ms": 210222,
       "name": "Vara Vi",
       "url": "https://open.spotify.com/track/5pG80Oi7qBEq6mkgIRc2V4"
+    },
+    {
+      "album": {
+        "name": "Fr\u00e5gor p\u00e5 det",
+        "url": "https://open.spotify.com/album/3Ru5YOEvcEajZkrKP3cHpW"
+      },
+      "artists": [
+        {
+          "name": "Donnez",
+          "url": "https://open.spotify.com/artist/4rMk4gSVtsxoOb7NPwF6hA"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182416,
+      "name": "Varannan vatten",
+      "url": "https://open.spotify.com/track/3X3nA4LauVykD116ucihXe"
     },
     {
       "album": {

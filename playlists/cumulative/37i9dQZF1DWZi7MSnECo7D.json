@@ -8563,6 +8563,24 @@
     },
     {
       "album": {
+        "name": "Me Diz Que Vai Ficar Tudo Bem",
+        "url": "https://open.spotify.com/album/777j9m7iXB8jagtOqxPqIR"
+      },
+      "artists": [
+        {
+          "name": "Imp\u00e9rio Contra-Ataca!",
+          "url": "https://open.spotify.com/artist/0QnOQjCqk1WORFuEPAK6nT"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104125,
+      "name": "Me Diz Que Vai Ficar Tudo Bem",
+      "url": "https://open.spotify.com/track/0odwNQkRJs4vrvPfovvOHl"
+    },
+    {
+      "album": {
         "name": "visions",
         "url": "https://open.spotify.com/album/244lG8X2MPejtq1lKFBqa9"
       },

@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQZiyOrknvy8.md) - [plain]
 | 84 | [Blame It On The Mistletoe](https://open.spotify.com/track/5Ca8fgOIaUW9Hl11AGc2v3) | [Sarah Connor](https://open.spotify.com/artist/7e52Ytzjj1q71DUj2cSlch) | [Not So Silent Night](https://open.spotify.com/album/6t4rpCpCZ5oKvSUADZUGHC) | 2:28 |
 | 85 | [Make Me Feel](https://open.spotify.com/track/4KVBeC6lATNcjhMZOEhNU6) | [RANE](https://open.spotify.com/artist/4XXpC48bL6E032lJw4aSFz) | [Make Me Feel](https://open.spotify.com/album/7DZYLx34GtrykF4m9MsotB) | 2:09 |
 | 86 | [Knock](https://open.spotify.com/track/56oCkcfexBeYD4q4jEJJBV) | [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8) | [Dye My Hair](https://open.spotify.com/album/72OGxvqzD8lVsmT0HsaEPS) | 3:20 |
-| 87 | [Bad Karma](https://open.spotify.com/track/3RVirB4bHhZtl1QTAVWHSo) | [RIVRS](https://open.spotify.com/artist/34aOTkYOSP2yYdAanKdhbu) | [Bad Karma](https://open.spotify.com/album/7c6BhXUAOuIfbqGEwnJakE) | 3:25 |
-| 88 | [Fruto do Tempo](https://open.spotify.com/track/1cFg4Gt6DLHOKm8Iya0kBQ) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [BRUTAL PARAÍSO](https://open.spotify.com/album/3MhU6GRGIRgdjoDgltogAQ) | 4:04 |
+| 87 | [Fruto do Tempo](https://open.spotify.com/track/1cFg4Gt6DLHOKm8Iya0kBQ) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [BRUTAL PARAÍSO](https://open.spotify.com/album/3MhU6GRGIRgdjoDgltogAQ) | 4:04 |
+| 88 | [Bad Karma](https://open.spotify.com/track/3RVirB4bHhZtl1QTAVWHSo) | [RIVRS](https://open.spotify.com/artist/34aOTkYOSP2yYdAanKdhbu) | [Bad Karma](https://open.spotify.com/album/7c6BhXUAOuIfbqGEwnJakE) | 3:25 |
 | 89 | [Te Busqué](https://open.spotify.com/track/4FjcWibm9zWjA48jB5YpIw) | [Alvaro Soler](https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe) | [Magia](https://open.spotify.com/album/01mv5qdkrK2Fndwr9pd6eH) | 2:45 |
 | 90 | [Killing Me](https://open.spotify.com/track/0KOMWYw0mEKMvSCUYXkBS7) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [Nico Santos](https://open.spotify.com/album/51LrCn7WwuMfGwQufI1Esl) | 3:30 |
 | 91 | [The Nights](https://open.spotify.com/track/2yzYAI0iQ0IzUScLyH5f7w) | [RANE](https://open.spotify.com/artist/4XXpC48bL6E032lJw4aSFz) | [The Nights](https://open.spotify.com/album/7xE7DIfeA6OcMNnFI2u1yk) | 2:20 |
@@ -136,8 +136,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQZiyOrknvy8.md) - [plain]
 | 126 | [Never Let You Down](https://open.spotify.com/track/3BWLsSYZKEkUSpeJq7CkhF) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [Ride](https://open.spotify.com/album/7dPtQ96HtsmPSq8oWsmkJv) | 2:54 |
 | 127 | [Come Back To Me](https://open.spotify.com/track/6ZYmNdZdNoOKuFt8jrzwuh) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [Ride](https://open.spotify.com/album/7dPtQ96HtsmPSq8oWsmkJv) | 3:06 |
 | 128 | [Venus & Mars](https://open.spotify.com/track/4AOFs0CEAYUK4FbGAxVwic) | [CAPO](https://open.spotify.com/artist/5y9wg9qkGBl0n9v9RzaPKu), [Rola](https://open.spotify.com/artist/6htMzIeVHLO2pKFENGWq5p) | [Hallo Monaco](https://open.spotify.com/album/3SVxcnywXfBRGwt1uyWrcu) | 3:47 |
-| 129 | [I Heart U](https://open.spotify.com/track/4EDUeuv5MEUkE9LXoIabFg) | [Bad Paris](https://open.spotify.com/artist/2NFeNBVDb7eHaA1bgKS0Lt) | [I Heart U \(feat\. Mimoza\)](https://open.spotify.com/album/0pP2TH966jSunaWJaiLQGi) | 3:05 |
-| 130 | [DUM](https://open.spotify.com/track/2pX6cKYZ5qJN6lzl7E8b9S) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [PULSE](https://open.spotify.com/album/1y1ROIYZ2lxHtWwlGmkJX5) | 2:59 |
+| 129 | [DUM](https://open.spotify.com/track/2pX6cKYZ5qJN6lzl7E8b9S) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [PULSE](https://open.spotify.com/album/1y1ROIYZ2lxHtWwlGmkJX5) | 2:59 |
+| 130 | [I Heart U](https://open.spotify.com/track/4EDUeuv5MEUkE9LXoIabFg) | [Bad Paris](https://open.spotify.com/artist/2NFeNBVDb7eHaA1bgKS0Lt) | [I Heart U \(feat\. Mimoza\)](https://open.spotify.com/album/0pP2TH966jSunaWJaiLQGi) | 3:05 |
 | 131 | [Not Together, Together](https://open.spotify.com/track/6Yhly15am79BzKhAHSEqcI) | [Tomine Harket](https://open.spotify.com/artist/6064pL9Hu3Wx2bwJMeOx6o) | [Not Together, Together](https://open.spotify.com/album/0o9FIqLRuDzmSeHkwr5QkN) | 2:42 |
 | 132 | [Heiser vor Glück](https://open.spotify.com/track/0hbAHOsuIjCnosCRmxLWP3) | [Christina Stürmer](https://open.spotify.com/artist/5GnRHCbhnGp57tp4whNvOo) | [Überall zu Hause](https://open.spotify.com/album/5BTIoEov1qCJiCtjQmm9id) | 3:34 |
 | 133 | [Kopfsache](https://open.spotify.com/track/6hvyb2fpuk8SOtIEs022wm) | [LiZZA](https://open.spotify.com/artist/7wiUyQkeFf7MvAEGpF7wzR) | [Kopfsache](https://open.spotify.com/album/2tkPSTwRNIA2X8FSZkCAq9) | 3:37 |
@@ -165,4 +165,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQZiyOrknvy8.md) - [plain]
 | 155 | [Fliegen](https://open.spotify.com/track/1vlSFUZcOHEbotxb1BPVMx) | [Julian Williams](https://open.spotify.com/artist/6dZcFNvJUa9yTkEF1mG3NY) | [5 EP](https://open.spotify.com/album/7tG6m07jxmMFaqBpVRDXxO) | 3:53 |
 | 156 | [Playlist](https://open.spotify.com/track/2eLkiZOJ0xevCWgAvfgJGP) | [Feel Glück](https://open.spotify.com/artist/3wgEyEndxjMfRILKuvqihv), [Arend Peter Kraus](https://open.spotify.com/artist/2BOd9SVFrYP7OpAQmAUf3n) | [Playlist](https://open.spotify.com/album/6cgZXJJFgzMwL6kiyQeVv7) | 3:54 |
 
-Snapshot ID: `AcQRpgAAAACT7F9qAcSUPrSZQFdPNnTi`
+Snapshot ID: `AcQXRgAAAADTlu3GBzOOM1c87iADXHw9`

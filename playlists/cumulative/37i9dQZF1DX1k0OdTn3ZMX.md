@@ -4,10 +4,11 @@
 
 > nü\-metal revival is happening here and now with Hollywood Undead
 
-419 songs - 23 hr 20 min
+421 songs - 23 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [\#N0rth4evr](https://open.spotify.com/track/7sBX5hbKBg2uN3bQoZ2prv) | [North West](https://open.spotify.com/artist/5NTFOMIZSgupSw6yfnD4E2) | [N0rth4evr](https://open.spotify.com/album/1jkEEeWKAJiR0LQyOvtM7b) | 1:43 | 2026-05-01 |  |
 | [$wing](https://open.spotify.com/track/79yXiVM8QbotM46zcevzUO) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [$wing](https://open.spotify.com/album/24nqMPW9CLAZj0rIZL2tB7) | 2:52 | 2023-09-13 | 2024-02-17 |
 | [\(Re\)\-Extract](https://open.spotify.com/track/3dP3PfCwcvmzJlI6NUZurb) | [Split Chain](https://open.spotify.com/artist/5J0ehnVK9YOBGWOwE022ar), [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [\(Re\)\-Extract](https://open.spotify.com/album/2QvXlmYuYCuPGBjsNJVUbI) | 3:02 | 2024-09-20 | 2024-10-05 |
 | [123 \(the longest dream\)](https://open.spotify.com/track/6XiU3wbMaKkL9vYYj9EgjM) | [\(un\)familiar.](https://open.spotify.com/artist/0zb6eacvSMK7zQfC6rjSae), [STOMACH BOOK](https://open.spotify.com/artist/079cEjjSpv5dOLH5xsGdvN), [death do us apart](https://open.spotify.com/artist/6LTjT8gzwzRqatvxLu1gpJ), [zombAe](https://open.spotify.com/artist/6lVUWhNB7hIUznWHCNww6D) | [123 \(the longest dream\)](https://open.spotify.com/album/4cs2qJ046HIcL9Mqd4Mdmj) | 3:33 | 2025-07-25 |  |
@@ -112,7 +113,7 @@
 | [Drag Me](https://open.spotify.com/track/459NVRkYEftpuwkmSH1U1H) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [Drag Me](https://open.spotify.com/album/51cx1iKhj118oEWzs5QlKj) | 3:06 | 2025-12-05 |  |
 | [Dress Down](https://open.spotify.com/track/6nUKoqyYUZQdSuP4dq0f7i) | [DREGG](https://open.spotify.com/artist/3jPUAhZngU2sEwsDm7Um6B) | [The Art Of Everything](https://open.spotify.com/album/4aaJ8ggCf9cKIlGUBKvHkq) | 4:17 | 2024-10-18 | 2025-09-06 |
 | [DROP \(feat\. Randy Blythe\)](https://open.spotify.com/track/0EYW7sCfFn9QnuFsSGAt33) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU), [Randy Blythe](https://open.spotify.com/artist/63JN4A4IroUvAN1fyWmsHB) | [DROP \(feat\. Randy Blythe\)](https://open.spotify.com/album/4NKRWnBsryI3hSVOSm5ihE) | 3:11 | 2023-09-22 | 2023-12-02 |
-| [DYING SUN](https://open.spotify.com/track/1loAa1QPNjuz04PErY4Evx) | [Vile Mana](https://open.spotify.com/artist/5OS3tyU5PSf3i3rEx1cw3m), [PVNKSTXRNATION](https://open.spotify.com/artist/73FoUBcxkox059Nc74Zzes), [JOLLY WRLD](https://open.spotify.com/artist/6iQQaCotqs1waJnO44rGt4) | [DYING SUN](https://open.spotify.com/album/4FQyXSIcLk0qRFWduYiNCj) | 3:11 | 2025-06-06 |  |
+| [DYING SUN](https://open.spotify.com/track/1loAa1QPNjuz04PErY4Evx) | [Vile Mana](https://open.spotify.com/artist/5OS3tyU5PSf3i3rEx1cw3m), [PVNKSTXRNATION](https://open.spotify.com/artist/73FoUBcxkox059Nc74Zzes), [JOLLY WRLD](https://open.spotify.com/artist/6iQQaCotqs1waJnO44rGt4) | [DYING SUN](https://open.spotify.com/album/4FQyXSIcLk0qRFWduYiNCj) | 3:11 | 2025-06-06 | 2026-05-02 |
 | [Dyno](https://open.spotify.com/track/5355ELLIpxCdbHbRF3Fpsb) | [Soul Blind](https://open.spotify.com/artist/4u8phrcaIdvRzcGq5DcQJa) | [Dyno](https://open.spotify.com/album/3Q3lPFkx1nEm8m4O3oLoWj) | 3:14 | 2025-09-12 | 2025-10-04 |
 | [Dysfunctional](https://open.spotify.com/track/0CudLJvsDbU6shOi0riH1r) | [Nathan James](https://open.spotify.com/artist/0yvTRHK90NHy9NI4RhEEYS) | [Dysfunctional](https://open.spotify.com/album/09yZM1WNLS8OhuAH9yIQum) | 2:47 | 2025-11-21 |  |
 | [Easier To Die](https://open.spotify.com/track/2Bo0CcIbDjQBnltFtxmUT9) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ) | [Easier To Die](https://open.spotify.com/album/15pqle05tggYZBUOBHz4PK) | 2:19 | 2025-08-29 | 2025-10-18 |
@@ -247,6 +248,7 @@
 | [No Lies Detected \[Blind\]](https://open.spotify.com/track/258ZiFVggPg9p9XZ3fAD8Q) | [Oxymorrons](https://open.spotify.com/artist/3GDw9k8FzlOUxPzDUaUhlZ) | [Create, Destroy, Rebuild, Repeat](https://open.spotify.com/album/1FD51KOJseTIfFneCe2HIL) | 2:49 | 2025-09-12 |  |
 | [No One Else To Blame](https://open.spotify.com/track/1LAUa3m7ncdsdzC6e0WtJ1) | [Taproot](https://open.spotify.com/artist/319rafipfKvd4cqaOwWIvA) | [SC\\SSRS](https://open.spotify.com/album/3KtkgdjSTdTzkHdYQ0cglt) | 4:40 | 2023-09-29 | 2023-11-11 |
 | [No Way Out](https://open.spotify.com/track/6YfWZraEqW5CDfGGlo69sa) | [\(Hed\) P.E.](https://open.spotify.com/artist/0xIChbcTsuYLueN1oEsX9v) | [DETOX](https://open.spotify.com/album/1DLMfaroYM5VJpEdimgzHu) | 4:01 | 2023-12-15 | 2024-06-01 |
+| [Not My Time](https://open.spotify.com/track/1T7QjB899NIUZl6RM8lkBs) | [Hotbox](https://open.spotify.com/artist/1K3l1jGn0tUAQhwrKkv1MR) | [Not My Time](https://open.spotify.com/album/4uYauG5rEBnPQEdG8XnjyE) | 2:35 | 2026-05-01 |  |
 | [Notion](https://open.spotify.com/track/5fnVNZotDRjpyoDohip3r9) | [Profiler](https://open.spotify.com/artist/3rIfGORYIxh2aBVnThX8Lo) | [Notion](https://open.spotify.com/album/0Q3VYGJreWH7MNNZU1tbpo) | 3:15 | 2024-09-20 | 2024-10-12 |
 | [Novacane](https://open.spotify.com/track/3lALd4cI6fTuCelTVOhoOI) | [Waynewood](https://open.spotify.com/artist/46Ae99tK8EgcCpVFSAdkxQ), [JavyDade](https://open.spotify.com/artist/5x2MghffUs9Ypcb9pOsrWH) | [Novacane](https://open.spotify.com/album/7xRMfVQX1bNyYcO0Wqamsp) | 2:36 | 2025-05-09 | 2025-10-11 |
 | [NOXIOUS](https://open.spotify.com/track/3pHPj3ZyDb6SHGianz0QZB) | [Vana](https://open.spotify.com/artist/6o2D1YBpFJDDaMwZYGyW3T) | [TRIAL & TERROR](https://open.spotify.com/album/2NjCt56ShHgoHjup5HEbUa) | 2:40 | 2024-11-15 | 2025-03-08 |

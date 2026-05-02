@@ -309,6 +309,68 @@
     },
     {
       "album": {
+        "name": "8 Baan",
+        "url": "https://open.spotify.com/album/6Jt3cgOWX1SHyiSIak66Ep"
+      },
+      "artists": [
+        {
+          "name": "Fijnproeverz",
+          "url": "https://open.spotify.com/artist/3sV1Ese7wuMcBnfgpvwEV3"
+        },
+        {
+          "name": "K-NON",
+          "url": "https://open.spotify.com/artist/1fllnkXoh7eEyEUzXElCsY"
+        },
+        {
+          "name": "Blits",
+          "url": "https://open.spotify.com/artist/0mOQn2z1c9Aln8i0DJuNez"
+        },
+        {
+          "name": "Kino",
+          "url": "https://open.spotify.com/artist/328cqv3QcK4XDBAtPwLs9L"
+        },
+        {
+          "name": "Justus",
+          "url": "https://open.spotify.com/artist/7lhtDGzUYStlW9LbsvwJYl"
+        },
+        {
+          "name": "LDB",
+          "url": "https://open.spotify.com/artist/4OPzEBvFfoqsHgZ8ikuo1a"
+        },
+        {
+          "name": "Brother Lynx",
+          "url": "https://open.spotify.com/artist/1NZm2rx7SsFgvykiQ3gGMi"
+        },
+        {
+          "name": "Djenghis Haan",
+          "url": "https://open.spotify.com/artist/7G1yCP3w4Q5fpZlP8m7I3q"
+        },
+        {
+          "name": "Konstrukto",
+          "url": "https://open.spotify.com/artist/3egDHOK0AUguQFMyCkKtoO"
+        },
+        {
+          "name": "J. Duko",
+          "url": "https://open.spotify.com/artist/1ImBk9xf7RDB8vBp3dyyJC"
+        },
+        {
+          "name": "Presentator",
+          "url": "https://open.spotify.com/artist/2pFx2VOcwjtIvs7wK743pd"
+        },
+        {
+          "name": "Skinny Bonez Tha Godfatha",
+          "url": "https://open.spotify.com/artist/2NYrzwv4HQ9w2uuBUfOq5q"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260226,
+      "name": "8 Baan",
+      "url": "https://open.spotify.com/track/7y4eggKRN7j9ABtYKRIs83"
+    },
+    {
+      "album": {
         "name": "Unfinished",
         "url": "https://open.spotify.com/album/0yKdWGozy3fWfVyoykWAja"
       },
@@ -523,6 +585,24 @@
     },
     {
       "album": {
+        "name": "Absolute Zero",
+        "url": "https://open.spotify.com/album/6uDkkQ2lNJKjIN5q0vVKnu"
+      },
+      "artists": [
+        {
+          "name": "LehtMoJoe",
+          "url": "https://open.spotify.com/artist/5lgsUNLe65iEVXFzvreh0J"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231337,
+      "name": "Absolute Zero",
+      "url": "https://open.spotify.com/track/6E9heMMLRPr7JQatXOjcnG"
+    },
+    {
+      "album": {
         "name": "Abu Dhabi",
         "url": "https://open.spotify.com/album/5MCPzmTzIBDIgt8KWiOTom"
       },
@@ -680,6 +760,24 @@
       "duration_ms": 175193,
       "name": "Again & Again",
       "url": "https://open.spotify.com/track/5FOobY6tw0BSVwk2HyZJSw"
+    },
+    {
+      "album": {
+        "name": "Before the Brand: Personal Nostalgia",
+        "url": "https://open.spotify.com/album/1RuqBUDME7o3q5K0cVxRU3"
+      },
+      "artists": [
+        {
+          "name": "Liam the Brand",
+          "url": "https://open.spotify.com/artist/1wG2iQogJTU0avTSSx5p3t"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160809,
+      "name": "Alaska",
+      "url": "https://open.spotify.com/track/7ynu85NyBXPUGvxeGrIiFC"
     },
     {
       "album": {
@@ -1451,6 +1549,24 @@
     },
     {
       "album": {
+        "name": "Balorda nostalgia",
+        "url": "https://open.spotify.com/album/4disZdaEkZIGag3qTJfiWV"
+      },
+      "artists": [
+        {
+          "name": "Michele Blasco",
+          "url": "https://open.spotify.com/artist/0LsldhiLiieaUY63tH9QfW"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195098,
+      "name": "Balorda nostalgia",
+      "url": "https://open.spotify.com/track/2K5ijyYylUoDEYMYxz5E95"
+    },
+    {
+      "album": {
         "name": "BANDIDA",
         "url": "https://open.spotify.com/album/57GjblUmDQQP8g9Hp1yZ90"
       },
@@ -2184,6 +2300,24 @@
       "duration_ms": 191331,
       "name": "Broken",
       "url": "https://open.spotify.com/track/7Av8U23vE2aNk9SKnPhfJA"
+    },
+    {
+      "album": {
+        "name": "Broken (Goodbye)",
+        "url": "https://open.spotify.com/album/724YnXwsn0WHxmRZjia31B"
+      },
+      "artists": [
+        {
+          "name": "Ten Eighty Trees",
+          "url": "https://open.spotify.com/artist/0ej6zez5h9tG4QiqvOj9ZD"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225333,
+      "name": "Broken (Goodbye)",
+      "url": "https://open.spotify.com/track/22r1gUmB2NNu88vNv1Cqc0"
     },
     {
       "album": {
@@ -6044,6 +6178,10 @@
         {
           "name": "Mzlznzz",
           "url": "https://open.spotify.com/artist/0iW40cwS4dJsPjfMu0t5zD"
+        },
+        {
+          "name": "ghostly echoes",
+          "url": "https://open.spotify.com/artist/6U65hm7m0hVAVGV0SXNFMw"
         }
       ],
       "date_added": "2026-02-16",
@@ -8226,6 +8364,36 @@
       "duration_ms": 135669,
       "name": "Know You Better",
       "url": "https://open.spotify.com/track/6MH0BxzxyAeSXDRdrJcSgY"
+    },
+    {
+      "album": {
+        "name": "Kraslot",
+        "url": "https://open.spotify.com/album/7exBbjgAfehvnt6E0ougnz"
+      },
+      "artists": [
+        {
+          "name": "Fijnproeverz",
+          "url": "https://open.spotify.com/artist/3sV1Ese7wuMcBnfgpvwEV3"
+        },
+        {
+          "name": "Blits",
+          "url": "https://open.spotify.com/artist/0mOQn2z1c9Aln8i0DJuNez"
+        },
+        {
+          "name": "Konstrukto",
+          "url": "https://open.spotify.com/artist/3egDHOK0AUguQFMyCkKtoO"
+        },
+        {
+          "name": "Skinny Bonez Tha Godfatha",
+          "url": "https://open.spotify.com/artist/2NYrzwv4HQ9w2uuBUfOq5q"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189160,
+      "name": "Kraslot",
+      "url": "https://open.spotify.com/track/1uWgGViVYYqfo71rmZpOvY"
     },
     {
       "album": {
@@ -12617,6 +12785,40 @@
     },
     {
       "album": {
+        "name": "Tafelmanieren",
+        "url": "https://open.spotify.com/album/0fJS0zz6IQ1HTO8qN9zShc"
+      },
+      "artists": [
+        {
+          "name": "Fijnproeverz",
+          "url": "https://open.spotify.com/artist/3sV1Ese7wuMcBnfgpvwEV3"
+        },
+        {
+          "name": "Konstrukto",
+          "url": "https://open.spotify.com/artist/3egDHOK0AUguQFMyCkKtoO"
+        },
+        {
+          "name": "LDB",
+          "url": "https://open.spotify.com/artist/4OPzEBvFfoqsHgZ8ikuo1a"
+        },
+        {
+          "name": "Justus",
+          "url": "https://open.spotify.com/artist/7lhtDGzUYStlW9LbsvwJYl"
+        },
+        {
+          "name": "Blits",
+          "url": "https://open.spotify.com/artist/0mOQn2z1c9Aln8i0DJuNez"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218880,
+      "name": "Rijmroepers",
+      "url": "https://open.spotify.com/track/3YeZiX8DvV5h5RhiattMlY"
+    },
+    {
+      "album": {
         "name": "AFUERADELCIRCULO",
         "url": "https://open.spotify.com/album/5WilJWcKkdxROVXsgXXLiU"
       },
@@ -12838,6 +13040,28 @@
       "duration_ms": 148363,
       "name": "Run Around",
       "url": "https://open.spotify.com/track/5ZNVyhxNFKErVq1MDWzoBH"
+    },
+    {
+      "album": {
+        "name": "RUN IN THE WILD",
+        "url": "https://open.spotify.com/album/3D1qkALCKgVVsyNZWhdkIr"
+      },
+      "artists": [
+        {
+          "name": "Miguel Divo",
+          "url": "https://open.spotify.com/artist/3d5rFUrF9JeZTrulYoy8RY"
+        },
+        {
+          "name": "Jonnie Jupiter",
+          "url": "https://open.spotify.com/artist/3EKsSsO1ne18gxzTHFmy6f"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 442768,
+      "name": "RUN IN THE WILD",
+      "url": "https://open.spotify.com/track/4msWeNCVs5VtN2LcsbquH0"
     },
     {
       "album": {
@@ -14139,6 +14363,24 @@
     },
     {
       "album": {
+        "name": "Dark Comfort",
+        "url": "https://open.spotify.com/album/4tr6YmlRgABQxMnuE0MbRz"
+      },
+      "artists": [
+        {
+          "name": "yoav.pro",
+          "url": "https://open.spotify.com/artist/5nurlMNwxYev3zVupmlOZY"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159239,
+      "name": "Stay In My Arms",
+      "url": "https://open.spotify.com/track/4EIqxGdkxJG2C4sn87o7Ra"
+    },
+    {
+      "album": {
         "name": "Steam powered",
         "url": "https://open.spotify.com/album/2ZYqqd6y5TapmKn3jIxePW"
       },
@@ -14560,6 +14802,24 @@
       "duration_ms": 195000,
       "name": "Surrealismo Porta Fora",
       "url": "https://open.spotify.com/track/3BEsLwYZWxBSwlE9u4kPnw"
+    },
+    {
+      "album": {
+        "name": "Surrey University",
+        "url": "https://open.spotify.com/album/6977qIU85CjvNL7g7AVnMR"
+      },
+      "artists": [
+        {
+          "name": "This British Bloke",
+          "url": "https://open.spotify.com/artist/4UFXiDNyeAI9gzPBviuris"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171557,
+      "name": "Surrey University",
+      "url": "https://open.spotify.com/track/3FOHaUBftQ1Qm45fquMuw7"
     },
     {
       "album": {
@@ -15002,6 +15262,24 @@
       "duration_ms": 155715,
       "name": "Thank You",
       "url": "https://open.spotify.com/track/4Al3Gz3caTl6kQJF4b3StW"
+    },
+    {
+      "album": {
+        "name": "Thank You For The Pain",
+        "url": "https://open.spotify.com/album/6YsIJrcUbw1YyvD539LlrX"
+      },
+      "artists": [
+        {
+          "name": "Matt Goss",
+          "url": "https://open.spotify.com/artist/4iyT11zNOsSsCsCuyikiyS"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201897,
+      "name": "Thank You For The Pain",
+      "url": "https://open.spotify.com/track/1zmb0lSkxt0rQqczhvCOVd"
     },
     {
       "album": {
@@ -17246,6 +17524,24 @@
       "duration_ms": 137404,
       "name": "Work From Anywhere",
       "url": "https://open.spotify.com/track/5PMJ3V5KlIDnSBUawpejTa"
+    },
+    {
+      "album": {
+        "name": "Workin' On Me (Refined Version)",
+        "url": "https://open.spotify.com/album/7us00Jmo0nWJUW8GkqN7Bk"
+      },
+      "artists": [
+        {
+          "name": "Nerva",
+          "url": "https://open.spotify.com/artist/4Z9e2tlCxKn24HNEAFxOip"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106968,
+      "name": "Workin' On Me (Refined Version)",
+      "url": "https://open.spotify.com/track/0qwKm3loZ7FuZtnhzHEmN3"
     },
     {
       "album": {

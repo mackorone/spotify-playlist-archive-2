@@ -109103,6 +109103,24 @@
     },
     {
       "album": {
+        "name": "Hoy por ayer",
+        "url": "https://open.spotify.com/album/46B8dr0mR3NA6CKQgBOhe6"
+      },
+      "artists": [
+        {
+          "name": "Ivan Ferreiro",
+          "url": "https://open.spotify.com/artist/3qUrABCNqnkb5gc2YmPVzP"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264093,
+      "name": "Reiniciar",
+      "url": "https://open.spotify.com/track/3Cd2ZwQy5fmrayFSMN7u8Q"
+    },
+    {
+      "album": {
         "name": "Reino",
         "url": "https://open.spotify.com/album/685cK2chuSLNCF5FjYUCFi"
       },
@@ -135690,24 +135708,6 @@
       "duration_ms": 246516,
       "name": "Toyota Camry",
       "url": "https://open.spotify.com/track/1xkHI7u9Pt5CGFoeppAcKA"
-    },
-    {
-      "album": {
-        "name": "Hoy por ayer",
-        "url": "https://open.spotify.com/album/46B8dr0mR3NA6CKQgBOhe6"
-      },
-      "artists": [
-        {
-          "name": "Ivan Ferreiro",
-          "url": "https://open.spotify.com/artist/3qUrABCNqnkb5gc2YmPVzP"
-        }
-      ],
-      "date_added": "2026-04-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 3",
-      "url": "https://open.spotify.com/track/3Cd2ZwQy5fmrayFSMN7u8Q"
     },
     {
       "album": {

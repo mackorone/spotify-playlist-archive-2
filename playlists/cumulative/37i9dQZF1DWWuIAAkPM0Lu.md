@@ -4,7 +4,7 @@
 
 > Ny fredag, ny musik fra Anton Westerlin, Madonna, Zara Larsson og maaange flere  ❤️‍🔥
 
-10,311 songs - 22 day 7 hr 31 min
+10,311 songs - 22 day 7 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2305,7 +2305,7 @@
 | [Don't Wait For Summer](https://open.spotify.com/track/62AWMWX41acCZ259kuU1Hr) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ) | [Away From This Dream](https://open.spotify.com/album/5bKVm5ADPdEAnwaSqh5Uwv) | 3:11 | 2024-06-06 | 2024-06-14 |
 | [Don't Wake Me Up](https://open.spotify.com/track/3sU1L9okYWbN61oHZNQTfh) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v) | [Don't Wake Me Up](https://open.spotify.com/album/3j5uOXYCe6ebHU86UcAMAg) | 2:34 | 2025-03-20 | 2025-03-28 |
 | [Don't Worry](https://open.spotify.com/track/3F5ZLTNZmJutPD2GqJ7SEt) | [Christian Meldal](https://open.spotify.com/artist/3dU4AZYmMeJ64U5eD8gbur) | [Don't Worry](https://open.spotify.com/album/2NWW9lsx4ZbfeSzDC1IwsB) | 2:58 | 2025-05-29 | 2025-06-06 |
-| [Don't Worry Baby](https://open.spotify.com/track/0uFffwji3muqn5MEe7hiYw) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Tiga](https://open.spotify.com/artist/6dfbRE1slg9q6xXbMiB9Rn) | [Don't Worry Baby](https://open.spotify.com/album/1F3Ph8gHm2aCnMJbNvmo5f) | 3:27 | 2026-04-30 |  |
+| [Don't Worry Baby](https://open.spotify.com/track/0uFffwji3muqn5MEe7hiYw) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC) | [Don't Worry Baby](https://open.spotify.com/album/1F3Ph8gHm2aCnMJbNvmo5f) | 3:27 | 2026-04-30 |  |
 | [Don't You Cry](https://open.spotify.com/track/4BZ2Gjl3ZDRMRVqF2pUAQa) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [Förstår om du inte förstår](https://open.spotify.com/album/3LWrSMN9jOXgiy5Xl4vmCz) | 1:55 | 2025-05-01 | 2025-05-09 |
 | [Done Searching](https://open.spotify.com/track/7zVGrJKv5WEDW23z2qvmLR) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU), [Anna Reusch](https://open.spotify.com/artist/0BMS6AqoDN4Fu7QOruxHjh) | [Done Searching](https://open.spotify.com/album/6yiWE718oOyYfQqxPl16Ol) | 2:48 | 2025-10-30 | 2025-11-07 |
 | [Done With U](https://open.spotify.com/track/5wbyw0GApqrGeuOFULRiOL) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E) | [Done With U](https://open.spotify.com/album/25y70xiGHzBL9BcACgz8hW) | 2:14 | 2025-11-20 | 2025-11-28 |
@@ -2724,6 +2724,7 @@
 | [Even Summer Gets Cold](https://open.spotify.com/track/5XvCOLxYwhJPXpM0Pd3rkZ) | [Debbie Sings](https://open.spotify.com/artist/5xrpKIIiDNRsPVOi0nYlkW), [crêpe girl](https://open.spotify.com/artist/46dxD5cIrBqD171NQ84rVz) | [Even Summer Gets Cold](https://open.spotify.com/album/0vEh1OdVI9kTbFOlNpgTnv) | 3:18 | 2024-11-07 | 2024-11-15 |
 | [Ever Seen](https://open.spotify.com/track/7pMEJEVSjQBuUAqWOupJk6) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Ever Seen](https://open.spotify.com/album/6XgxDhkbWJy6FsLkwGgk9d) | 3:23 | 2024-07-04 | 2024-07-12 |
 | [Everglow](https://open.spotify.com/track/1TRws8b5PyKtxw4tXPDVp1) | [Foínix](https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO), [Mason](https://open.spotify.com/artist/4jXbk5gQsWSBWL8HGnIcoh), [THNK](https://open.spotify.com/artist/1JkAomV4XsVMKOGzWdgqnD) | [Everglow](https://open.spotify.com/album/0J25AMgNoGv2AvaM0J7wU8) | 2:10 | 2026-01-09 | 2026-01-16 |
+| [Evergreen](https://open.spotify.com/track/3fLX6yRLD2IkWQUxDJEQ0S) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [Victory Garden](https://open.spotify.com/album/70ch2R18v3Zho0SlcN4CAN) | 3:41 | 2026-04-30 |  |
 | [Evergreen \(feat\. Caamp\)](https://open.spotify.com/track/0BzTjRJQjOxMZpCAGnPXhp) | [Richy Mitch & The Coal Miners](https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau), [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Evergreen \(feat\. Caamp\)](https://open.spotify.com/album/4fzAuOHpDdUDAdIHYbaVjW) | 2:57 | 2024-08-09 | 2024-08-16 |
 | [Everland](https://open.spotify.com/track/4Xcq4QjeNHyKr1PE5KEJvP) | [Peter Pain](https://open.spotify.com/artist/6fQv8WQjvZNWpZThdaiuuq), [Aperly High](https://open.spotify.com/artist/6epKo2ka9bTo3E1AaHEq5o) | [Everland](https://open.spotify.com/album/6J5TqylBd6GEYsImRZNpQ2) | 2:39 | 2025-03-13 | 2025-03-21 |
 | [Every Little Thing I Say I Do](https://open.spotify.com/track/3ngjq0C1z1kVYAdBH5114w) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Every Little Thing I Say I Do](https://open.spotify.com/album/6aYHsDzCmD030bmUaVaKq8) | 3:00 | 2024-05-02 | 2024-05-10 |
@@ -9264,7 +9265,6 @@
 | [Toxic Love](https://open.spotify.com/track/70mjXJZ3fUMobNza8Co9NB) | [Clovis](https://open.spotify.com/artist/6Rr9EUNkOPLCQipGVJztEa) | [Toxic Love](https://open.spotify.com/album/01ft41UVyizml585vHm6zQ) | 2:23 | 2025-04-17 | 2025-04-25 |
 | [toxic till the end](https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:36 | 2024-12-05 | 2024-12-13 |
 | [TOYBOY](https://open.spotify.com/track/0pu0wYSfAss9bofagK1A5T) | [Angela](https://open.spotify.com/artist/7eT4IZXb7W1FCsWO7u4l65) | [TOYBOY](https://open.spotify.com/album/1R7baT8Vnn3OTP4yl2fJg9) | 2:39 | 2026-04-30 |  |
-| [Track 1](https://open.spotify.com/track/3fLX6yRLD2IkWQUxDJEQ0S) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [Victory Garden](https://open.spotify.com/album/70ch2R18v3Zho0SlcN4CAN) | 0:00 | 2026-04-30 |  |
 | [TRACK 9 \(sometimes\)](https://open.spotify.com/track/3QYY4AgNdhVboaiTpif9oo) | [Alice Ai](https://open.spotify.com/artist/3Pst9XlmCk0NKGGy3kVvvP) | [d.a.t.a.d.e.a.t.h.](https://open.spotify.com/album/4enVd9gDj0jRvGRZvyWjhd) | 2:35 | 2025-11-27 | 2025-12-05 |
 | [TRACKE DO](https://open.spotify.com/track/0udl3HksPNxCu097pHNKfP) | [EHSXN](https://open.spotify.com/artist/02fcfzLNggFMt98YunsnYU), [PAYDAR](https://open.spotify.com/artist/4QXhX7CbOMy8HKl8rZNYEt) | [T\-TOWN](https://open.spotify.com/album/57cDk7ZMeJuDIllI2uJ7IF) | 2:27 | 2024-09-05 | 2024-09-13 |
 | [TRACKSUIT](https://open.spotify.com/track/2GPVSfBMy7WD6AZc8I99KE) | [Oskar Witt](https://open.spotify.com/artist/7pgsrrUoGrlw9qNtJsk4c4) | [TRACKSUIT](https://open.spotify.com/album/0HxUpNDh9DhsxeMJyRCeZJ) | 2:15 | 2025-12-04 | 2025-12-12 |
