@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 
 > Techno is a state of mind\. Cover: Lilly Palmer
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,269 likes - 162 songs - 10 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,301 likes - 162 songs - 10 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -171,4 +171,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 | 161 | [True Under Certain Conditions](https://open.spotify.com/track/1F1GmgLzUnD5XsoZ0kfjNU) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [True Under Certain Conditions](https://open.spotify.com/album/5TQjRGI7CSt9Q7rHqkShT5) | 4:33 |
 | 162 | [Reflections](https://open.spotify.com/track/3iGqK1cxsegZS0r34kYLDm) | [Popof](https://open.spotify.com/artist/4f2K0RSYyxP4TUyZu1azYB) | [Reflections](https://open.spotify.com/album/5dbxq2t69Uw9V2kKOEtqCu) | 4:47 |
 
-Snapshot ID: `AAAAAJOd0hDlfjbNGJu/M5VlNFzj/4nj`
+Snapshot ID: `AAAAAHSaoRrN06p/m75IvQ8DxNbHlW/p`

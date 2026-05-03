@@ -4,7 +4,7 @@
 
 > This is Ziggy Marley\. The essential tracks, all in one playlist.
 
-80 songs - 5 hr 14 min
+81 songs - 5 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,8 @@
 | [Personal Revolution](https://open.spotify.com/track/6pkW8i62ePJGccr8fsVqIY) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Wild And Free](https://open.spotify.com/album/3JhnFg804zHUlIRjByYytY) | 4:54 | 2024-02-01 | 2024-04-15 |
 | [Personal Revolution \- Live](https://open.spotify.com/track/78MJxpgW1vyCpcjkc714KB) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Personal Revolution \(Live\)](https://open.spotify.com/album/4uzWNogETDR04paJciOp1E) | 5:27 | 2024-04-15 | 2024-06-10 |
 | [Positive Vibration \- Live](https://open.spotify.com/track/586RM5fmoVHHCrjMKZHj8O) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Bob Marley 75th Celebration \(Pt.1\) \[Live\]](https://open.spotify.com/album/4hcPkbsM5RqsxOym5uLzR6) | 4:16 | 2024-02-01 |  |
-| [Racism Is A Killa](https://open.spotify.com/track/5nELNKYYeUdias1RHBFqcK) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Racism Is A Killa](https://open.spotify.com/album/1EyjrVquvjyIcjPi9Pcdwc) | 3:40 | 2026-02-26 |  |
+| [Racism Is A Killa](https://open.spotify.com/track/5nELNKYYeUdias1RHBFqcK) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Racism Is A Killa](https://open.spotify.com/album/1EyjrVquvjyIcjPi9Pcdwc) | 3:40 | 2026-02-26 | 2026-05-03 |
+| [Racism Is A Killa \- Version 2](https://open.spotify.com/track/6plA83lwsn3NRkv0NcADJB) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [Big Boi](https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB) | [Brightside](https://open.spotify.com/album/0b57ZiCwZ1zNPiVxPD3nU6) | 4:07 | 2026-05-03 |  |
 | [Rainbow in the Sky](https://open.spotify.com/track/2U7kXTPxWV8OS7ZR3muAJT) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Dragonfly](https://open.spotify.com/album/62Ot058LfUzRFxbramAggQ) | 3:08 | 2024-02-01 |  |
 | [Raindrops Keep Falling On My Head](https://open.spotify.com/track/31Kn1zCmpf2ki6G3PX1LSo) | [Dionne Warwick](https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Feels So Good](https://open.spotify.com/album/4jOVKt6269cQXp5XpFL6kA) | 2:23 | 2024-02-01 | 2025-10-12 |
 | [Rebellion Rises](https://open.spotify.com/track/6trgRnzKxMtj4EHRhjrOJV) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Rebellion Rises](https://open.spotify.com/album/4GEhidr20hYZgYhk6eH2ZO) | 3:26 | 2024-02-01 |  |

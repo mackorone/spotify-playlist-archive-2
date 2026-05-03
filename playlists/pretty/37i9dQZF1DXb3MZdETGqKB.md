@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3MZdETGqKB.md) - [plain]
 
 > All new, all blues\. Cover: Sonny Gullage
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,196 likes - 99 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,223 likes - 99 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3MZdETGqKB.md) - [plain]
 | 85 | [You're Gonna Be Sorry](https://open.spotify.com/track/4FZgwsFaXm8Xsr7SqRM1Ov) | [Bob Corritore](https://open.spotify.com/artist/0I1ooxdREQHLoUphm6uihH), [Barbara Lynn](https://open.spotify.com/artist/2wQyX5625x6IGls8zLLHMB) | [Bob Corritore & Friends: Women In Blues Showcase](https://open.spotify.com/album/2I4QimPw04GHkkxKzPAQis) | 2:46 |
 | 86 | [Full Time Blues](https://open.spotify.com/track/3MHxUKi1ZhUlhlf7IILBs8) | [Alexander Wren](https://open.spotify.com/artist/6f6oMcKG2GzGjfejpsD7e7) | [Full Time Blues](https://open.spotify.com/album/3196K46EuN8qp90dviepzS) | 3:21 |
 | 87 | [Off the Rails](https://open.spotify.com/track/42WticpVQhPU1H2seAjX9y) | [Cross Country Driver](https://open.spotify.com/artist/7yVGyHGB9ZrxNMBZK0mirb), [Rhonda Smith](https://open.spotify.com/artist/2uYKHg4WYpDVVxZVj7gFgN) | [The New Truth](https://open.spotify.com/album/20uVF4qSvDD7P7LvJ6jDoh) | 3:52 |
-| 88 | [Your Friday Night](https://open.spotify.com/track/17AXVlBTYsK5YvhTuif0aC) | [Ries Brothers](https://open.spotify.com/artist/3n5TbZCCU3rnDcDy5n49nG) | [Your Friday Night](https://open.spotify.com/album/7MXGchpdm7JEGyoOVNsYht) | 3:21 |
+| 88 | [Your Friday Night](https://open.spotify.com/track/17AXVlBTYsK5YvhTuif0aC) | [The Ries Brothers](https://open.spotify.com/artist/3n5TbZCCU3rnDcDy5n49nG) | [Your Friday Night](https://open.spotify.com/album/7MXGchpdm7JEGyoOVNsYht) | 3:21 |
 | 89 | [Bubble Shuffle](https://open.spotify.com/track/4yjgb4zj2Wgend2z4aIQqa) | [Otis Wilkins](https://open.spotify.com/artist/6loAmVdFK5vPObIjS6e396), [Jake Lloyd](https://open.spotify.com/artist/2UYjCPGpaqvKlp1GNyScqL) | [Bubble Shuffle](https://open.spotify.com/album/3tx9y81uUg0XIqJRVFj8w5) | 2:37 |
 | 90 | [Y.A.T.O \(You Ain't The One\)](https://open.spotify.com/track/0JXuO3IvoHqhVYvIWyRlNT) | [Malina Moye](https://open.spotify.com/artist/3fPngdGRZMBzFFBf3ql2XK) | [Dirty](https://open.spotify.com/album/7k94nlPDqq4R5tIq1KuWKP) | 3:38 |
 | 91 | [Undefeated](https://open.spotify.com/track/3FyM4pilFg0bDWYSuJ1WCu) | [Liinks](https://open.spotify.com/artist/3tTrvuZL6yAhHb1x2iWlBY) | [Undefeated](https://open.spotify.com/album/0m2p8fU5SUampJHBYTuodi) | 2:07 |

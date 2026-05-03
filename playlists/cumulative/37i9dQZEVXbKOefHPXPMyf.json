@@ -9156,7 +9156,7 @@
       ],
       "date_added": "2026-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 227986,
       "name": "Beauty And A Beat",
       "url": "https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7"
@@ -26842,7 +26842,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 210011,
       "name": "Entre t\u00fa y yo",
       "url": "https://open.spotify.com/track/6tSrqArEVl1sFUc7p1zuIt"
@@ -26914,7 +26914,7 @@
       ],
       "date_added": "2026-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-02",
+      "date_removed": null,
       "duration_ms": 210024,
       "name": "Entre t\u00fa y yo",
       "url": "https://open.spotify.com/track/7bOlsO6AH0aH3GI3JQ5Zwf"
@@ -56392,7 +56392,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-02",
+      "date_removed": null,
       "duration_ms": 204321,
       "name": "Noche Perfecta",
       "url": "https://open.spotify.com/track/3DEPnIQZWIcpRUwH5O0J6O"
@@ -57046,6 +57046,24 @@
       "duration_ms": 276993,
       "name": "Nuestra Canci\u00f3n",
       "url": "https://open.spotify.com/track/1UGaN3zIsL6ezvaMtOm4EP"
+    },
+    {
+      "album": {
+        "name": "Nuestra Casa",
+        "url": "https://open.spotify.com/album/32fF4N6NziEurvlun5ut92"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228535,
+      "name": "Nuestra Casa",
+      "url": "https://open.spotify.com/track/32PLngqOwuA7jZzfZVk6Wb"
     },
     {
       "album": {
@@ -68115,6 +68133,28 @@
     },
     {
       "album": {
+        "name": "The Devil Wears Prada 2 (Music From The Motion Picture)",
+        "url": "https://open.spotify.com/album/5FKnRUB5lt7z5ac1lmu3BE"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171010,
+      "name": "RUNWAY",
+      "url": "https://open.spotify.com/track/5jZHUZY0vQsH6A5gqFveJf"
+    },
+    {
+      "album": {
         "name": "RUNWAY",
         "url": "https://open.spotify.com/album/0WY1wVmchFYlH4f1yZMc90"
       },
@@ -68130,7 +68170,7 @@
       ],
       "date_added": "2026-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 171010,
       "name": "RUNWAY",
       "url": "https://open.spotify.com/track/7BjcYqD0CqXnG45ezWSTYR"
@@ -79824,7 +79864,7 @@
       ],
       "date_added": "2026-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 214347,
       "name": "Tipitapa",
       "url": "https://open.spotify.com/track/0I7ZwdjQnIwJIZ2E7tcYCl"

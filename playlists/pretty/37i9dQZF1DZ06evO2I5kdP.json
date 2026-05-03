@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afKbgAAAAACgj4lw9QiPpc07NR8TGWT8",
+  "snapshot_id": "afPtAAAAAABRchKzcXvqXAs7OpyTJ2Kv",
   "tracks": [
     {
       "added_at": null,
@@ -108,9 +108,9 @@
           "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
         }
       ],
-      "duration_ms": 223002,
-      "name": "Homemade Mountains",
-      "url": "https://open.spotify.com/track/6s0M6NqA9YIWnsRPMKRsi3"
+      "duration_ms": 245270,
+      "name": "11: 11",
+      "url": "https://open.spotify.com/track/3FZ7zfIKqDA7Ggdh8YSzli"
     },
     {
       "added_at": null,
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
         }
       ],
-      "duration_ms": 245270,
-      "name": "11: 11",
-      "url": "https://open.spotify.com/track/3FZ7zfIKqDA7Ggdh8YSzli"
+      "duration_ms": 223002,
+      "name": "Homemade Mountains",
+      "url": "https://open.spotify.com/track/6s0M6NqA9YIWnsRPMKRsi3"
     },
     {
       "added_at": null,
@@ -272,9 +272,9 @@
           "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
         }
       ],
-      "duration_ms": 290000,
-      "name": "Amour, a liquid state",
-      "url": "https://open.spotify.com/track/314lwa5x8khiqqWnzrWHF9"
+      "duration_ms": 312000,
+      "name": "Film Still / The Sea",
+      "url": "https://open.spotify.com/track/6HJOyuIftqWrvQhqGV9nVX"
     },
     {
       "added_at": null,
@@ -352,9 +352,9 @@
           "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
         }
       ],
-      "duration_ms": 312000,
-      "name": "Film Still / The Sea",
-      "url": "https://open.spotify.com/track/6HJOyuIftqWrvQhqGV9nVX"
+      "duration_ms": 290000,
+      "name": "Amour, a liquid state",
+      "url": "https://open.spotify.com/track/314lwa5x8khiqqWnzrWHF9"
     },
     {
       "added_at": null,
@@ -464,9 +464,9 @@
           "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
         }
       ],
-      "duration_ms": 222747,
-      "name": "Small Choir",
-      "url": "https://open.spotify.com/track/3NHVzKfiThQeeyG395TNFA"
+      "duration_ms": 455109,
+      "name": "Adversary",
+      "url": "https://open.spotify.com/track/5vpIknqvBAu3UUmZtImOOx"
     },
     {
       "added_at": null,
@@ -495,26 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u039a\u03bb\u03af\u03bc\u03b1 (Klima)",
-        "url": "https://open.spotify.com/album/3NexLrkzrFVDLZBbyLEfkN"
-      },
-      "artists": [
-        {
-          "name": "Christina Vantzou",
-          "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
-        },
-        {
-          "name": "John Also Bennett",
-          "url": "https://open.spotify.com/artist/763QqRidfZUpg74lK6k9rk"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Lands of Permanent Mist",
-      "url": "https://open.spotify.com/track/0OwyTY02B5VDsh9iRomy59"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Landscape Architecture",
         "url": "https://open.spotify.com/album/4Efmy1cGT5PcyZY3dvHMRf"
       },
@@ -535,6 +515,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "\u039a\u03bb\u03af\u03bc\u03b1 (Klima)",
+        "url": "https://open.spotify.com/album/3NexLrkzrFVDLZBbyLEfkN"
+      },
+      "artists": [
+        {
+          "name": "Christina Vantzou",
+          "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
+        },
+        {
+          "name": "John Also Bennett",
+          "url": "https://open.spotify.com/artist/763QqRidfZUpg74lK6k9rk"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Lands of Permanent Mist",
+      "url": "https://open.spotify.com/track/0OwyTY02B5VDsh9iRomy59"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No. 1",
         "url": "https://open.spotify.com/album/3FpVOIZe9mD17Uti0CzXsD"
       },
@@ -544,9 +544,9 @@
           "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
         }
       ],
-      "duration_ms": 455109,
-      "name": "Adversary",
-      "url": "https://open.spotify.com/track/5vpIknqvBAu3UUmZtImOOx"
+      "duration_ms": 222747,
+      "name": "Small Choir",
+      "url": "https://open.spotify.com/track/3NHVzKfiThQeeyG395TNFA"
     },
     {
       "added_at": null,
@@ -674,19 +674,11 @@
         {
           "name": "Christina Vantzou",
           "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
-        },
-        {
-          "name": "Echo Collective",
-          "url": "https://open.spotify.com/artist/0vA5v6tBmGdzhupEeUDK9S"
-        },
-        {
-          "name": "Deradoorian",
-          "url": "https://open.spotify.com/artist/3jLCHiuXBTGEEku37TsobP"
         }
       ],
-      "duration_ms": 167440,
-      "name": "Glissando for Bodies and Machines in Space",
-      "url": "https://open.spotify.com/track/2mAkrLxNUAUsGhVUW7UTxx"
+      "duration_ms": 296013,
+      "name": "Garden of Forking Paths",
+      "url": "https://open.spotify.com/track/7ivInPtMjY17jBtCAgpH8H"
     },
     {
       "added_at": null,
@@ -758,11 +750,19 @@
         {
           "name": "Christina Vantzou",
           "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
+        },
+        {
+          "name": "Echo Collective",
+          "url": "https://open.spotify.com/artist/0vA5v6tBmGdzhupEeUDK9S"
+        },
+        {
+          "name": "Deradoorian",
+          "url": "https://open.spotify.com/artist/3jLCHiuXBTGEEku37TsobP"
         }
       ],
-      "duration_ms": 296013,
-      "name": "Garden of Forking Paths",
-      "url": "https://open.spotify.com/track/7ivInPtMjY17jBtCAgpH8H"
+      "duration_ms": 167440,
+      "name": "Glissando for Bodies and Machines in Space",
+      "url": "https://open.spotify.com/track/2mAkrLxNUAUsGhVUW7UTxx"
     },
     {
       "added_at": null,
@@ -839,8 +839,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "No. 4",
-        "url": "https://open.spotify.com/album/34zrvcPKCD23KFMo8v0FEe"
+        "name": "\u039a\u03bb\u03af\u03bc\u03b1 (Klima)",
+        "url": "https://open.spotify.com/album/3NexLrkzrFVDLZBbyLEfkN"
       },
       "artists": [
         {
@@ -848,17 +848,13 @@
           "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
         },
         {
-          "name": "Steve Hauschildt",
-          "url": "https://open.spotify.com/artist/2L00vHmYcwC9OlsEv6M5UO"
-        },
-        {
-          "name": "Echo Collective",
-          "url": "https://open.spotify.com/artist/0vA5v6tBmGdzhupEeUDK9S"
+          "name": "John Also Bennett",
+          "url": "https://open.spotify.com/artist/763QqRidfZUpg74lK6k9rk"
         }
       ],
-      "duration_ms": 387613,
-      "name": "Remote Polyphony",
-      "url": "https://open.spotify.com/track/6lypDVMsRr7SCqt16HrXnZ"
+      "duration_ms": 178000,
+      "name": "El Muelle",
+      "url": "https://open.spotify.com/track/53GPaQrSsCOGLmm2bBt638"
     },
     {
       "added_at": null,
@@ -888,15 +884,39 @@
           "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
         }
       ],
-      "duration_ms": 321283,
-      "name": "Shadow Sun",
-      "url": "https://open.spotify.com/track/6RQDjmEp3Yi6Wul3kAogU3"
+      "duration_ms": 330565,
+      "name": "Valley Drone",
+      "url": "https://open.spotify.com/track/7Cfj1CFahs2boKhte7NeFT"
     },
     {
       "added_at": null,
       "album": {
-        "name": "\u039a\u03bb\u03af\u03bc\u03b1 (Klima)",
-        "url": "https://open.spotify.com/album/3NexLrkzrFVDLZBbyLEfkN"
+        "name": "No. 4",
+        "url": "https://open.spotify.com/album/34zrvcPKCD23KFMo8v0FEe"
+      },
+      "artists": [
+        {
+          "name": "Christina Vantzou",
+          "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
+        },
+        {
+          "name": "Steve Hauschildt",
+          "url": "https://open.spotify.com/artist/2L00vHmYcwC9OlsEv6M5UO"
+        },
+        {
+          "name": "Echo Collective",
+          "url": "https://open.spotify.com/artist/0vA5v6tBmGdzhupEeUDK9S"
+        }
+      ],
+      "duration_ms": 387613,
+      "name": "Remote Polyphony",
+      "url": "https://open.spotify.com/track/6lypDVMsRr7SCqt16HrXnZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Thoughts Of A Dot As It Travels A Surface",
+        "url": "https://open.spotify.com/album/7sls7fOaYFRIr6t2k2Ozxr"
       },
       "artists": [
         {
@@ -908,33 +928,9 @@
           "url": "https://open.spotify.com/artist/763QqRidfZUpg74lK6k9rk"
         }
       ],
-      "duration_ms": 298000,
-      "name": "Take the Hot Route",
-      "url": "https://open.spotify.com/track/3OJHXjQbsBXQxHuuBqUDWd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No. 5",
-        "url": "https://open.spotify.com/album/14N1fgzW3BWvBvqSG9ySpk"
-      },
-      "artists": [
-        {
-          "name": "Christina Vantzou",
-          "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
-        },
-        {
-          "name": "Lieselot de Wilde",
-          "url": "https://open.spotify.com/artist/1Kl1WpZOpVYsySdBdH9TDR"
-        },
-        {
-          "name": "Margaret Hermant",
-          "url": "https://open.spotify.com/artist/3EuUrHJPp2kp1mUfDBzlin"
-        }
-      ],
-      "duration_ms": 177226,
-      "name": "Surreal Presence for SH and FM",
-      "url": "https://open.spotify.com/track/1o1IfEZVEjsM9xPZrsNd5T"
+      "duration_ms": 166750,
+      "name": "Large Suess Plant",
+      "url": "https://open.spotify.com/track/79p8caY8Ke390uXOvQuueD"
     },
     {
       "added_at": null,

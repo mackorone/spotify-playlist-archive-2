@@ -4,7 +4,7 @@
 
 > All this week's best new pop releases\. Cover: Zara Larsson
 
-11,078 songs - 23 day 4 hr 11 min
+11,079 songs - 23 day 4 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -9884,6 +9884,7 @@
 | [Timeline](https://open.spotify.com/track/1tweAyNxFaYN8YXJpPGvrV) | [Kylie Muse](https://open.spotify.com/artist/5KUrN1Ip3QoemX2Dq4kGS5) | [Timeline](https://open.spotify.com/album/1AugVV9htPCWMFroakalq9) | 2:46 | 2023-10-20 | 2023-11-11 |
 | [Times Like These](https://open.spotify.com/track/01fzY6YKwKQ3LxCpIP6buB) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Addison](https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4) | 3:52 | 2025-06-06 | 2025-06-14 |
 | [times of my life](https://open.spotify.com/track/6uI9KsHHXkHmpHFC0imxjv) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [times of my life](https://open.spotify.com/album/7ho5lLjKCYZuVACE9hAPmu) | 2:48 | 2026-01-02 | 2026-01-15 |
+| [TIMESNEWROMAN](https://open.spotify.com/track/0bnSXl0lY92annYcbgo1T2) | [Babe America](https://open.spotify.com/artist/5oPCa0GsQjPlRdOdFRoY6Z) | [TIMESNEWROMAN](https://open.spotify.com/album/4lKEiscDZnEjDAZUBNdNHk) | 2:38 | 2026-05-01 |  |
 | [TIMEZONE](https://open.spotify.com/track/71N11HZCLEolNgAxvcj2cb) | [Olivia Lunny](https://open.spotify.com/artist/7542b5kIvrKX0Zvp5iNpl9) | [TIMEZONE](https://open.spotify.com/album/3t3Z3avQW3hVQbOw5aSj4R) | 3:08 | 2023-04-14 | 2023-04-29 |
 | [tinfoil hats](https://open.spotify.com/track/5vbNSkwHFg2VOAIlIRD8B1) | [Lamb](https://open.spotify.com/artist/6mzQRecVBUMepkVGAhn6io) | [tinfoil hats](https://open.spotify.com/album/2hs0qENTROVbZ2wvEjpil4) | 2:37 | 2026-04-24 | 2026-05-02 |
 | [tiny little titties](https://open.spotify.com/track/09jmvYB5lVdvLeKxkjtCcW) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [serious person \(part 1\)](https://open.spotify.com/album/6gg1EATMm8D7SM4YxPnXZ4) | 3:04 | 2023-06-02 | 2023-06-17 |

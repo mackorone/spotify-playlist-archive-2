@@ -506,6 +506,28 @@
     {
       "album": {
         "name": "57",
+        "url": "https://open.spotify.com/album/1bpNfwtZJizrk2Lpqvp49h"
+      },
+      "artists": [
+        {
+          "name": "KAVAK",
+          "url": "https://open.spotify.com/artist/24OGdBr3r58ksMLJkMXZZY"
+        },
+        {
+          "name": "BAKAN",
+          "url": "https://open.spotify.com/artist/3pELTNcBXbfHktNPFTUsNW"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128307,
+      "name": "57",
+      "url": "https://open.spotify.com/track/2G206XsNs9IguzFnFKWERj"
+    },
+    {
+      "album": {
+        "name": "57",
         "url": "https://open.spotify.com/album/7A4B937zdGSlOdZAc5oQCh"
       },
       "artists": [
@@ -604,7 +626,7 @@
       ],
       "date_added": "2024-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 197242,
       "name": "9mm",
       "url": "https://open.spotify.com/track/4X5si99I9YSbJ12g2yL6gh"
@@ -3806,7 +3828,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-29",
+      "date_removed": null,
       "duration_ms": 193166,
       "name": "Ba\u015frol Sensin - 1. Y\u0131l \u00d6zel",
       "url": "https://open.spotify.com/track/7JOZ88jJbmx9TIzpPJBCqi"
@@ -19328,7 +19350,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 153721,
       "name": "Murabba",
       "url": "https://open.spotify.com/track/6qJXJ9OvhQ7ETQX8pb2UDm"
@@ -20380,7 +20402,7 @@
       ],
       "date_added": "2026-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 189061,
       "name": "Olacak Gibi De\u011fil",
       "url": "https://open.spotify.com/track/0TWf33C7t2ljNcTJ8VoQ8v"
@@ -20460,7 +20482,7 @@
       ],
       "date_added": "2024-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 217000,
       "name": "Olmazlara Vuruluyorum",
       "url": "https://open.spotify.com/track/72Zc1OvPqpZUqxArlAS0QW"
@@ -20572,7 +20594,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 116129,
       "name": "ON NUMARA",
       "url": "https://open.spotify.com/track/3zXcj2N8bLNRXwYHLaSjrL"
@@ -23567,6 +23589,28 @@
     },
     {
       "album": {
+        "name": "Kar\u0131\u015f\u0131k Kaset 2",
+        "url": "https://open.spotify.com/album/22dJRNVTVUfGQzbMCNMuJq"
+      },
+      "artists": [
+        {
+          "name": "Semicenk",
+          "url": "https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp"
+        },
+        {
+          "name": "B\u00fcken",
+          "url": "https://open.spotify.com/artist/5xvFmfo6COwVZoN8GHaBLs"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224107,
+      "name": "Sende Kalm\u0131\u015f",
+      "url": "https://open.spotify.com/track/28xHWi9g6Rt4C0eGaf6Wvu"
+    },
+    {
+      "album": {
         "name": "VEDA T\u00dcRK\u00dcS\u00dc",
         "url": "https://open.spotify.com/album/7ei9t3MIlufpCNxN9rS8T2"
       },
@@ -24482,7 +24526,7 @@
       ],
       "date_added": "2025-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-29",
+      "date_removed": null,
       "duration_ms": 149711,
       "name": "Snap",
       "url": "https://open.spotify.com/track/2mW1SMo4VbI2MFCTKOBZ6W"
@@ -26688,6 +26732,28 @@
       "duration_ms": 133500,
       "name": "VURDUM TELLER\u0130NE",
       "url": "https://open.spotify.com/track/5Y5fFEqazjbtNAgbx9noTF"
+    },
+    {
+      "album": {
+        "name": "ROMANESA",
+        "url": "https://open.spotify.com/album/2o1RxIqShrINHYIbWDWfny"
+      },
+      "artists": [
+        {
+          "name": "Tekir",
+          "url": "https://open.spotify.com/artist/2SqjgMx7edUilMzPosMR1P"
+        },
+        {
+          "name": "G\u00f6khan Naml\u0131",
+          "url": "https://open.spotify.com/artist/5bwgqxjC9Gh77Re63SHKxc"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157291,
+      "name": "Vursunlar - Roman Version",
+      "url": "https://open.spotify.com/track/0WlBjF1DLEw8jg3i8nPm5N"
     },
     {
       "album": {

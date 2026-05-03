@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7RvXTzD4rW.md) - [plain]
 
 > 様々な感情を自在に表現し、登場人物に命を吹き込む声優たち。声のプロフェッショナルである彼らが紡ぐ歌の世界。A collection of music from voice actors/ actresses in Japan\. Cover: DayRe:
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,882 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,885 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7RvXTzD4rW.md) - [plain]
 | 49 | [Luminaの樹](https://open.spotify.com/track/74YEYEAkDcfaT6Ls7uChxJ) | [今井麻美](https://open.spotify.com/artist/6Yy5HRdcdZR1r2A2YnEefb) | [A･S･A Vol.2](https://open.spotify.com/album/0kFnqNDrnL8wNVSqGzqVpp) | 3:49 |
 | 50 | [turquoise blue](https://open.spotify.com/track/0bOnH9pjTCVdIoyzxOjMnU) | [楠木ともり](https://open.spotify.com/artist/0eic2NIS2q4R4jZpKSH7cr) | [LANDERBLUE](https://open.spotify.com/album/2W7p62LfQJT1OeLkUFNojv) | 3:21 |
 
-Snapshot ID: `AAAAAITXZRByR6RbPHKvwqbytk9PrasL`
+Snapshot ID: `AAAAABh4it5ejvapQBiDTnlcl4eN+LSK`

@@ -4,7 +4,7 @@
 
 > Random AF...\. Huge playlist to brighten long days, from all genres\. Shuffle it! New music added DAILY :\) www.avondalerecords.com
 
-1,436 songs - 3 day 8 hr 17 min
+1,439 songs - 3 day 8 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Akt](https://open.spotify.com/track/29uDYYVTlXglRSqq7eI2Vx) | [Escape The Box](https://open.spotify.com/artist/3YRmk4apUTYrEM7AYtKPsE) | [Akt](https://open.spotify.com/album/3wkZUjtUsBW4JWikH9pTWe) | 2:51 | 2026-02-05 | 2026-02-27 |
 | [Al Bundy \(and a Semester of Fraud\)](https://open.spotify.com/track/6mL5hOMXv00Ta93K2oLihA) | [High Wasted Genes](https://open.spotify.com/artist/2wEqBI8GfibxbVN6XRgMBC) | [Al Bundy \(and a Semester of Fraud\)](https://open.spotify.com/album/7ve1UcLQUTep9pAZOROZm3) | 2:44 | 2026-01-16 | 2026-02-05 |
 | [Alessa Moore](https://open.spotify.com/track/1QqoAYaNueBN8wRe0w7l5i) | [MAYA](https://open.spotify.com/artist/23I9OKP7cbHuK44IV6hMUz) | [Alessa Moore](https://open.spotify.com/album/00NykSPCDv7MZ5mJrzUPBE) | 2:27 | 2026-01-12 | 2026-02-13 |
-| [alien.](https://open.spotify.com/track/0MqgKaj6vvWdoCn8w75w10) | [ZERO SUN](https://open.spotify.com/artist/0pqgsjsIkLSJ4SLJZ4nYFB) | [alien.](https://open.spotify.com/album/0ZX5IAFtcRr57vCQeOahW8) | 3:49 | 2026-04-01 |  |
+| [alien.](https://open.spotify.com/track/0MqgKaj6vvWdoCn8w75w10) | [ZERO SUN](https://open.spotify.com/artist/0pqgsjsIkLSJ4SLJZ4nYFB) | [alien.](https://open.spotify.com/album/0ZX5IAFtcRr57vCQeOahW8) | 3:49 | 2026-04-01 | 2026-05-03 |
 | [Alive Again](https://open.spotify.com/track/1odf4aOW5eUj5ZlOs1JIzv) | [Liquid Monk](https://open.spotify.com/artist/680C1w0kjIC2LAf5xShvhJ) | [Alive Again](https://open.spotify.com/album/0tJEOsX7X3XfBZTWWOJTum) | 2:58 | 2026-03-26 | 2026-04-17 |
 | [Alive On Arrival](https://open.spotify.com/track/217vExrl85KAIJH12Cj0Kf) | [Rebelmatic](https://open.spotify.com/artist/6CUYmBUaJokq3auKhAzHXR) | [Alive On Arrival](https://open.spotify.com/album/3ysx7tS96uHjOAzUjam9wI) | 1:59 | 2026-03-05 | 2026-03-31 |
 | [All Alone](https://open.spotify.com/track/100rGMTMahy3hgUqtSMVW8) | [Summer Stained](https://open.spotify.com/artist/2sEdrlfz7BldSC7bpMhpj3) | [Moving Forward](https://open.spotify.com/album/3XTle8a2FA5STIURdj5rS8) | 2:55 | 2026-01-15 | 2026-02-03 |
@@ -445,6 +445,7 @@
 | [follow the flies](https://open.spotify.com/track/3PBL3MKIpkT0zc0dFHhvZk) | [BETHEL](https://open.spotify.com/artist/293nwwNqRa9eUynzHZ93om) | [RE:CONSTRUCT](https://open.spotify.com/album/02Uzrx425mNGU4QctdK4N8) | 6:15 | 2026-01-03 | 2026-01-22 |
 | [FOMO](https://open.spotify.com/track/0rDJXMg7OX1POjkAMKOsEc) | [Astro\-Lloyd](https://open.spotify.com/artist/2M7i48NN8KNVkNAku4Roj2) | [LOUD NOISES](https://open.spotify.com/album/3td0OGM48SevIvq1jkUxAM) | 4:51 | 2025-08-03 |  |
 | [Fool Me](https://open.spotify.com/track/1WcPvfflvPno6P931ZrJT2) | [The Fuzes](https://open.spotify.com/artist/2FTrpNcKeBFvF9iKZa5kEA) | [In from the shadows](https://open.spotify.com/album/3y0LCtWXVV5iNvWV3liWW5) | 2:50 | 2026-01-12 | 2026-02-03 |
+| [Fool Me Once](https://open.spotify.com/track/4dTbP1S5C29caRp4fsaNyv) | [Citylightz](https://open.spotify.com/artist/3Bz1JVhGEwBK6iIHHx7M7o) | [Fool Me Once](https://open.spotify.com/album/7ESSIBPOhwoEODxhliTc9y) | 4:15 | 2026-05-02 |  |
 | [fools \(trigger's broom edit\)](https://open.spotify.com/track/7KF5A4s2Ug2tgI94EiypTs) | [dredge](https://open.spotify.com/artist/2a5NdT9HMrYzElE44JJ59W) | [drink beer, hail satan](https://open.spotify.com/album/4eKZhihizzJ7U1m5zqdnPs) | 1:26 | 2026-02-26 |  |
 | [For a Spell](https://open.spotify.com/track/0qx3xU6G6q80BWemsyYgFJ) | [KATER](https://open.spotify.com/artist/77eZeXZrzRgqIQoaYqaAm3) | [For a Spell](https://open.spotify.com/album/5N6myDduhczw5w8WulsgDb) | 3:04 | 2026-04-02 |  |
 | [For Tuna](https://open.spotify.com/track/5ROlAz1bq2MxR1OW0lmBOV) | [Frog Fortress](https://open.spotify.com/artist/1hCyCHuTSzpTuOURKNzYCb) | [For Tuna](https://open.spotify.com/album/6LA5qtgiRxK2h0GGk03im7) | 3:14 | 2026-02-19 | 2026-03-23 |
@@ -963,6 +964,7 @@
 | [RAGNAROK](https://open.spotify.com/track/3ganiNjhw9fWaBdVpfXDt4) | [Bjergborn](https://open.spotify.com/artist/0KS0l5gMsKpxcG8x1L5Ddn) | [GOÐAVERK](https://open.spotify.com/album/6CRNHhAB2zyIBoNMJ2QjZq) | 4:57 | 2026-02-02 | 2026-02-27 |
 | [Ramonero](https://open.spotify.com/track/4bJg7Dj1Gv7Hd3sSL2IH9R) | [Miguelitos](https://open.spotify.com/artist/0fDfcP4CbwLJixjlJaxVCr) | [En las Calles](https://open.spotify.com/album/1fuUMBZtdNexMPKqp05T0J) | 2:11 | 2025-12-23 | 2026-01-15 |
 | [Rampage](https://open.spotify.com/track/2yfitTwuoucAqR1HAhUpix) | [L.A\. Sagne](https://open.spotify.com/artist/6vapR4KOszK2FbsUe3txCO) | [Rampage](https://open.spotify.com/album/7dHC9UY3v58pd9QQt0RXYK) | 2:15 | 2026-02-05 | 2026-03-09 |
+| [Reaching Out](https://open.spotify.com/track/5l6QVU6SoDCdaPKDKwpguy) | [hndhld](https://open.spotify.com/artist/6sya4rNfv20ig1NefUjOXC), [Jake Vera](https://open.spotify.com/artist/0fugVpgpowLO9coAvpgRvP) | [Reaching Out](https://open.spotify.com/album/0G52nGcTwICAyvNBCCRd9H) | 3:13 | 2026-05-02 |  |
 | [Reading With the Lights Off](https://open.spotify.com/track/49k7nCIIwZiQQNt04owuYX) | [halfstride](https://open.spotify.com/artist/1ayEPgY4iGZBVbyk4euwnn) | [Reading With the Lights Off](https://open.spotify.com/album/1rDmQoZfThzyGzIwmi9JWL) | 3:09 | 2026-01-09 | 2026-02-10 |
 | [Ready\. Set\. GO!](https://open.spotify.com/track/2bKMI2zOzySL2Fv3NzvFHb) | [The Lyrics](https://open.spotify.com/artist/1FfgK1y6boiZv49RIflpaO) | [Ready\. Set\. GO!](https://open.spotify.com/album/560BVfgLQhDZYNqOeWDJXU) | 3:14 | 2026-04-23 |  |
 | [Real Woman \(Alternate Mix\)](https://open.spotify.com/track/4TsFSZhRCJfNc1bgkFdz2b) | [Dan Tanas](https://open.spotify.com/artist/2yzyxkgMmo3NHftdGfhXui) | [Real Woman \(Alternate Mix\)](https://open.spotify.com/album/3qeJzn5YhNZmyXk0gi5Yh6) | 5:12 | 2026-01-15 | 2026-02-03 |
@@ -1177,6 +1179,7 @@
 | [Take Me](https://open.spotify.com/track/7rtj9ELtA6y0zFxv12pOEN) | [Bad Script](https://open.spotify.com/artist/6z0JS9G1jFH6DgwYsEZK3j) | [Blue, Deepest Blue](https://open.spotify.com/album/33pzXi7wLOKUn1Xzn21UOm) | 3:29 | 2026-02-05 | 2026-04-17 |
 | [Take The Throne \(Deport The Fascists\)](https://open.spotify.com/track/3ZLfeZiSfpIPT87bWYYpUE) | [Ramona Marx](https://open.spotify.com/artist/2agbpBXAirgpZ4HireNncD) | [Take The Throne \(Deport The Fascists\)](https://open.spotify.com/album/7rGCFlV3pOfNtFKBPcZjg9) | 2:25 | 2026-03-16 | 2026-04-17 |
 | [Tangerine Lilac](https://open.spotify.com/track/5uySOdkPzsed6jNrp7jZyn) | [Freq Revolution](https://open.spotify.com/artist/42JZNQ4q1dXZWdfbAatxyX) | [Tangerine Lilac](https://open.spotify.com/album/3O7dSPQ6gyQqaDnHGOwzWx) | 4:04 | 2026-02-09 | 2026-03-03 |
+| [Tanzt mit mir](https://open.spotify.com/track/2jjw1QuN1pdPGXgQnjjygt) | [Pro\|Contra](https://open.spotify.com/artist/3lpOrZS6jyCQVFQD01Usf0) | [Tanzt mit mir](https://open.spotify.com/album/19FUWJ7gwETtier4fAOpXQ) | 3:39 | 2026-05-02 |  |
 | [Taste](https://open.spotify.com/track/4YMpyyA6nvOa0bjzyvZgqK) | [Living Shape](https://open.spotify.com/artist/2DHotBN7WNCLBtiOxpK7yF) | [Heavy Noises](https://open.spotify.com/album/3rfiIR00LPboCDpxXJcQJH) | 3:33 | 2026-03-30 | 2026-05-01 |
 | [tearjerker](https://open.spotify.com/track/0Q148huWfCjaOpQDpvy3UY) | [Melt Citizen](https://open.spotify.com/artist/3O5ytC7AzSoTwoBveVvJJB) | [TEARJERKER](https://open.spotify.com/album/1nWqYRZTtc2Yd7dDwrXR2K) | 2:56 | 2026-03-08 | 2026-04-08 |
 | [Tears](https://open.spotify.com/track/0WjahJphJZARO9S8wi2jQc) | [Vampire Valentine](https://open.spotify.com/artist/5IFOqHlbt37UXsz73a02og) | [Tears](https://open.spotify.com/album/3YTduhAbrWfeRnXkzHqkLO) | 3:38 | 2026-02-14 | 2026-03-06 |

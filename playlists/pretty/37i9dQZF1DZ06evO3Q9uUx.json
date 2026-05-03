@@ -1,12 +1,12 @@
 {
   "description": "This is BIA. The essential tracks, all in one playlist.",
-  "num_followers": 16072,
+  "num_followers": 16075,
   "original_name": "This Is BIA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afKbgAAAAAAsPcA8n2NNcgrZy0pl6DRr",
+  "snapshot_id": "afPtAAAAAABipjNjEuw8Evwxb72DYzh4",
   "tracks": [
     {
       "added_at": null,
@@ -691,26 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Buy What U Want",
-        "url": "https://open.spotify.com/album/0vUKTBr1GMhIk96Ndhml1h"
-      },
-      "artists": [
-        {
-          "name": "Black Fortune",
-          "url": "https://open.spotify.com/artist/5kEIoxHSPy9qHJqgR2Ng5Z"
-        },
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        }
-      ],
-      "duration_ms": 227669,
-      "name": "Buy What U Want",
-      "url": "https://open.spotify.com/track/2DEIPMzcyKZ45YYYPZl4WC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "moo",
         "url": "https://open.spotify.com/album/5RHHriIsaO6PnS4DodUsat"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 198352,
       "name": "LIGHTS OUT",
       "url": "https://open.spotify.com/track/4WWTcYV2tlGm7KwfPpXgLb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Buy What U Want",
+        "url": "https://open.spotify.com/album/0vUKTBr1GMhIk96Ndhml1h"
+      },
+      "artists": [
+        {
+          "name": "Black Fortune",
+          "url": "https://open.spotify.com/artist/5kEIoxHSPy9qHJqgR2Ng5Z"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "duration_ms": 227669,
+      "name": "Buy What U Want",
+      "url": "https://open.spotify.com/track/2DEIPMzcyKZ45YYYPZl4WC"
     },
     {
       "added_at": null,
@@ -955,6 +955,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "I'M THAT BITCH",
+        "url": "https://open.spotify.com/album/3XZmrh1D5RI5kvz5N6i6Lp"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "Timbaland",
+          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+        }
+      ],
+      "duration_ms": 152043,
+      "name": "I'M THAT BITCH",
+      "url": "https://open.spotify.com/track/39uEuUEWsAZtozSQRPlf62"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Trampoline (feat. Missy Elliott, BIA and Doechii)",
         "url": "https://open.spotify.com/album/1bFphUB9uHCPapPwdAxCWI"
       },
@@ -983,26 +1003,6 @@
       "duration_ms": 144796,
       "name": "Trampoline (feat. Missy Elliott, BIA and Doechii)",
       "url": "https://open.spotify.com/track/64Rn2oaQjAW6gIAjvukhWu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I'M THAT BITCH",
-        "url": "https://open.spotify.com/album/3XZmrh1D5RI5kvz5N6i6Lp"
-      },
-      "artists": [
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        },
-        {
-          "name": "Timbaland",
-          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
-        }
-      ],
-      "duration_ms": 152043,
-      "name": "I'M THAT BITCH",
-      "url": "https://open.spotify.com/track/39uEuUEWsAZtozSQRPlf62"
     },
     {
       "added_at": null,

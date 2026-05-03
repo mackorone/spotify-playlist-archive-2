@@ -1,12 +1,12 @@
 {
   "description": "Summer has a way of slowing us down and bringing us together. This playlist is a mix of new favorites and familiar sounds \u2014 songs for long drives, late afternoons, and evenings that stretch a little longer than planned.Hope you find something here that makes the season feel just right.",
-  "num_followers": 131965,
+  "num_followers": 131971,
   "original_name": "Obama\u2019s Summer Playlist 2026",
   "owner": {
     "name": "SoundsDeli",
     "url": "https://open.spotify.com/user/soundsdeli"
   },
-  "snapshot_id": "AAA6Jms1u5hGWPzXyoOFdkNjUd5Kic6N",
+  "snapshot_id": "AAA6NEJO4Ubo2wj1pOORPLq+Gtss4c8F",
   "tracks": [
     {
       "added_at": "2026-04-14 22:13:37",
@@ -161,6 +161,26 @@
       "url": "https://open.spotify.com/track/0Wknp7wThnRkNl2xw4h19g"
     },
     {
+      "added_at": "2026-05-02 23:46:59",
+      "album": {
+        "name": "Koh Samui (444 LIBERTY FREQUENCIES)",
+        "url": "https://open.spotify.com/album/5eASa8mfZp4GJAxApa8bXq"
+      },
+      "artists": [
+        {
+          "name": "THETONYPORTELLI",
+          "url": "https://open.spotify.com/artist/5baZz13dTSFBFHmNBN220h"
+        },
+        {
+          "name": "DJ444LONDON",
+          "url": "https://open.spotify.com/artist/0KX6tlCjzfWj6fgOh4IEtu"
+        }
+      ],
+      "duration_ms": 157719,
+      "name": "Koh Samui - Alternative",
+      "url": "https://open.spotify.com/track/50maIp5jBDfUPzz5f7pbwf"
+    },
+    {
       "added_at": "2026-04-14 22:16:02",
       "album": {
         "name": "The Life of a Showgirl",
@@ -225,6 +245,26 @@
       "url": "https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5"
     },
     {
+      "added_at": "2026-05-02 14:21:43",
+      "album": {
+        "name": "Blow My Mind (CA7RIEL & Paco Amoroso Version)",
+        "url": "https://open.spotify.com/album/7pOzBulb4xSuKLGHekguEk"
+      },
+      "artists": [
+        {
+          "name": "Robyn",
+          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
+        },
+        {
+          "name": "CA7RIEL & Paco Amoroso",
+          "url": "https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX"
+        }
+      ],
+      "duration_ms": 169383,
+      "name": "Blow My Mind - CA7RIEL & Paco Amoroso Version",
+      "url": "https://open.spotify.com/track/2Fn0xjZZa6ma1WgwyHM69k"
+    },
+    {
       "added_at": "2026-04-16 13:01:51",
       "album": {
         "name": "IAWYD",
@@ -279,6 +319,22 @@
       "duration_ms": 218843,
       "name": "MENINA",
       "url": "https://open.spotify.com/track/7jFE6AUlcQyzaY5fmrwHH8"
+    },
+    {
+      "added_at": "2026-05-02 23:45:35",
+      "album": {
+        "name": "SOLILOQUY",
+        "url": "https://open.spotify.com/album/69PpA61eCPg8d18N8y1fL8"
+      },
+      "artists": [
+        {
+          "name": "MERCYN",
+          "url": "https://open.spotify.com/artist/6Gq7ay7vlHCNQ5vWdIiOTJ"
+        }
+      ],
+      "duration_ms": 185662,
+      "name": "SOLILOQUY",
+      "url": "https://open.spotify.com/track/4oRJhSxFWhlH7mhWj0r1cE"
     },
     {
       "added_at": "2026-04-14 23:12:51",
@@ -373,6 +429,46 @@
       "url": "https://open.spotify.com/track/7FrJV8tydWEv1Mxu2mIQrm"
     },
     {
+      "added_at": "2026-05-02 23:47:15",
+      "album": {
+        "name": "8AM",
+        "url": "https://open.spotify.com/album/2EBBFu3FA73mDakLZULWYv"
+      },
+      "artists": [
+        {
+          "name": "Orion Franklin",
+          "url": "https://open.spotify.com/artist/3rhhLQRRigNmZwuiVhSSKE"
+        },
+        {
+          "name": "VIXIO",
+          "url": "https://open.spotify.com/artist/6CuMumwzSNmMnw4cfJUQN2"
+        },
+        {
+          "name": "OLION",
+          "url": "https://open.spotify.com/artist/3jPWvDwkmqJXMTKi0gq5oT"
+        }
+      ],
+      "duration_ms": 366960,
+      "name": "8AM - DARK PULSE REMIX",
+      "url": "https://open.spotify.com/track/7CEPXdsY4EJEqHHsVG9TJi"
+    },
+    {
+      "added_at": "2026-05-02 23:59:37",
+      "album": {
+        "name": "heathrow",
+        "url": "https://open.spotify.com/album/10S8O6pDsfhxcw0pwKcxNK"
+      },
+      "artists": [
+        {
+          "name": "Zolie",
+          "url": "https://open.spotify.com/artist/4pcletN1p2Xcxi8g5YHHgT"
+        }
+      ],
+      "duration_ms": 181562,
+      "name": "heathrow",
+      "url": "https://open.spotify.com/track/7xdOfyLOPbfyNWH6AsznbQ"
+    },
+    {
       "added_at": "2026-04-15 00:03:34",
       "album": {
         "name": "Ambiguous Desire",
@@ -391,6 +487,22 @@
       "duration_ms": 242541,
       "name": "Senses ft. Sampha",
       "url": "https://open.spotify.com/track/53j4dcm9Jn47sFJx8nVz5X"
+    },
+    {
+      "added_at": "2026-05-03 00:09:58",
+      "album": {
+        "name": "Error Intencional",
+        "url": "https://open.spotify.com/album/4POLe1JPGzrPHQCWydvH4z"
+      },
+      "artists": [
+        {
+          "name": "Nico Ruiz",
+          "url": "https://open.spotify.com/artist/0PoNc2Vn4Ag4NOySSD666z"
+        }
+      ],
+      "duration_ms": 178750,
+      "name": "Error Intencional",
+      "url": "https://open.spotify.com/track/5mNbapq5Pn9RD8T01fIQzq"
     },
     {
       "added_at": "2026-04-14 23:20:35",
@@ -937,6 +1049,22 @@
       "url": "https://open.spotify.com/track/3Y1xjjepdqMP141ipYCAqA"
     },
     {
+      "added_at": "2026-05-02 23:47:04",
+      "album": {
+        "name": "Deep Parliament",
+        "url": "https://open.spotify.com/album/5zI8zbNAoxyPxN9NK0BWap"
+      },
+      "artists": [
+        {
+          "name": "Deep Parliament",
+          "url": "https://open.spotify.com/artist/7sLc4gfHJ0DP8qFb0DHfrc"
+        }
+      ],
+      "duration_ms": 240106,
+      "name": "Every Side",
+      "url": "https://open.spotify.com/track/50N9MCKB3rXxv13WhmXU8n"
+    },
+    {
       "added_at": "2026-01-16 14:01:04",
       "album": {
         "name": "Mu\u00e9velo",
@@ -951,22 +1079,6 @@
       "duration_ms": 127366,
       "name": "Mu\u00e9velo",
       "url": "https://open.spotify.com/track/7N3mR4WnEuq1MUQlxb6JWH"
-    },
-    {
-      "added_at": "2026-04-01 17:07:35",
-      "album": {
-        "name": "BHMF (Blondes Have More Fun)",
-        "url": "https://open.spotify.com/album/0TcxnaZmW0Kz9mixTrGHKs"
-      },
-      "artists": [
-        {
-          "name": "Angel Bleu",
-          "url": "https://open.spotify.com/artist/4SiL7PKZJKkh1DU5rSTAMO"
-        }
-      ],
-      "duration_ms": 165351,
-      "name": "BHMF (Blondes Have More Fun)",
-      "url": "https://open.spotify.com/track/2ZC8zli3RK85zCBce63xrr"
     },
     {
       "added_at": "2026-04-11 23:11:46",
@@ -1261,22 +1373,6 @@
       "url": "https://open.spotify.com/track/34cIRHZdK6c0fUpjBFRSNT"
     },
     {
-      "added_at": "2026-03-31 13:40:24",
-      "album": {
-        "name": "Make It Happen",
-        "url": "https://open.spotify.com/album/51fpjpxkWNOniQIv7bcKI7"
-      },
-      "artists": [
-        {
-          "name": "ESSIRAY",
-          "url": "https://open.spotify.com/artist/0N6VYBSkR7fV8OsAsm3uk9"
-        }
-      ],
-      "duration_ms": 135561,
-      "name": "Make It Happen",
-      "url": "https://open.spotify.com/track/1ReVeUIpJ9Ph7dmfFq9VGU"
-    },
-    {
       "added_at": "2026-04-08 23:09:06",
       "album": {
         "name": "Done Being Yours",
@@ -1293,38 +1389,6 @@
       "url": "https://open.spotify.com/track/4Qf2zsqWIUqukmue3VFedy"
     },
     {
-      "added_at": "2026-03-31 12:40:00",
-      "album": {
-        "name": "Almost Purple",
-        "url": "https://open.spotify.com/album/3lf6ZyoUWrWZbpJN7xutQi"
-      },
-      "artists": [
-        {
-          "name": "Rozsa",
-          "url": "https://open.spotify.com/artist/3201bOfaDq1bMqRAYDnTIa"
-        }
-      ],
-      "duration_ms": 197443,
-      "name": "Almost Purple",
-      "url": "https://open.spotify.com/track/4avd562cxetNvC6CmPLPNt"
-    },
-    {
-      "added_at": "2026-03-30 16:07:22",
-      "album": {
-        "name": "ABSURED",
-        "url": "https://open.spotify.com/album/6bUQlPPo9AvGZQMAbN7GBc"
-      },
-      "artists": [
-        {
-          "name": "Plyer",
-          "url": "https://open.spotify.com/artist/2iakGKLbFFRduLEgIJaUNt"
-        }
-      ],
-      "duration_ms": 232882,
-      "name": "Goofy Face",
-      "url": "https://open.spotify.com/track/35rwAythOgFEUXudtKCqdI"
-    },
-    {
       "added_at": "2026-04-03 13:01:18",
       "album": {
         "name": "Ash In My Voice",
@@ -1339,22 +1403,6 @@
       "duration_ms": 171078,
       "name": "Ash In My Voice",
       "url": "https://open.spotify.com/track/5ZTnxam6G8CsSRX3oFhqiD"
-    },
-    {
-      "added_at": "2026-03-31 12:44:41",
-      "album": {
-        "name": "Lucky",
-        "url": "https://open.spotify.com/album/6r7vaJCOiuxBBdd33eHufp"
-      },
-      "artists": [
-        {
-          "name": "Gabby Poli",
-          "url": "https://open.spotify.com/artist/4gLuj01C8v07FzdFOkHPFq"
-        }
-      ],
-      "duration_ms": 198904,
-      "name": "Lucky",
-      "url": "https://open.spotify.com/track/3evhJARNDm1wgibdfuZr0X"
     },
     {
       "added_at": "2026-04-02 22:38:51",
@@ -1405,22 +1453,6 @@
       "url": "https://open.spotify.com/track/1mqegPlhw9gfPScypu9R77"
     },
     {
-      "added_at": "2026-03-28 12:54:10",
-      "album": {
-        "name": "Damn, I'm Bored",
-        "url": "https://open.spotify.com/album/2fTcUbknKmNcAmfCAzf2q6"
-      },
-      "artists": [
-        {
-          "name": "iKRE8",
-          "url": "https://open.spotify.com/artist/31XomTA1IIP922ysdLvkd2"
-        }
-      ],
-      "duration_ms": 154679,
-      "name": "Damn, I'm Bored",
-      "url": "https://open.spotify.com/track/78EJqkyZdCqiYXbI8TSukg"
-    },
-    {
       "added_at": "2026-04-04 18:25:58",
       "album": {
         "name": "Ghost",
@@ -1435,22 +1467,6 @@
       "duration_ms": 185739,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/0QoSH4zxzONyytl4Ju1Tu7"
-    },
-    {
-      "added_at": "2026-03-28 12:56:59",
-      "album": {
-        "name": "Kryptonite",
-        "url": "https://open.spotify.com/album/7MgmIw2E1yJvRVVCmK7IxE"
-      },
-      "artists": [
-        {
-          "name": "SUPER FREDDY",
-          "url": "https://open.spotify.com/artist/5XPpLQa8MoU7XkCM3JGe2A"
-        }
-      ],
-      "duration_ms": 253789,
-      "name": "Kryptonite",
-      "url": "https://open.spotify.com/track/10sC9BJMm9qaNgJHC7LToP"
     },
     {
       "added_at": "2026-04-08 23:05:46",

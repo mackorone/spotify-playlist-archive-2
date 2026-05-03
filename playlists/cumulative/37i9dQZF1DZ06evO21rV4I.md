@@ -4,7 +4,7 @@
 
 > This is Wizkid\. The essential tracks, all in one playlist.
 
-160 songs - 9 hr 7 min
+161 songs - 9 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,8 @@
 | [Iskolodo](https://open.spotify.com/track/2mUuEPVacpJ2UFgFTe63Av) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [REAL, Vol\. 1](https://open.spotify.com/album/60S0Nvtm54AmG6d8lVkhMF) | 2:36 | 2026-01-25 |  |
 | [Jaiye Jaiye](https://open.spotify.com/track/2gRzl3pbDoFoHfzRsmkQhf) | [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Femi Kuti](https://open.spotify.com/artist/6kgrtA0dlnVpWB6zjpXrRb) | [Ayo](https://open.spotify.com/album/2O8egayngzl1fm5dcE4VX9) | 4:06 | 2021-12-28 | 2022-06-16 |
 | [Jaiye Jaiye](https://open.spotify.com/track/2vXJl10Kiu3IqMo8moFBFK) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Femi Kuti](https://open.spotify.com/artist/6kgrtA0dlnVpWB6zjpXrRb) | [Ayo](https://open.spotify.com/album/3K4CaKaEcLuJkJZ3lATzrq) | 4:06 | 2022-06-23 | 2022-10-13 |
-| [Jam](https://open.spotify.com/track/7dj7BPtiNmC8buxnd0YTwU) | [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Jam](https://open.spotify.com/album/7GpScAy5AXOBZNCmeT1tZj) | 3:00 | 2026-04-24 |  |
+| [Jam](https://open.spotify.com/track/1TA5iikDuwQVNDwp4Iz1jw) | [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [XX](https://open.spotify.com/album/30mRAbfJNbKgRkhSimlWbf) | 3:00 | 2026-05-03 |  |
+| [Jam](https://open.spotify.com/track/7dj7BPtiNmC8buxnd0YTwU) | [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Jam](https://open.spotify.com/album/7GpScAy5AXOBZNCmeT1tZj) | 3:00 | 2026-04-24 | 2026-05-03 |
 | [Jam \(feat\. Wizkid\)](https://open.spotify.com/track/6eHqU8ntHGzddACoxlfDX0) | [StarBoy](https://open.spotify.com/artist/6w2IGYYbcQENdjdjU2IFo4), [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [SoundMan Vol\. 1](https://open.spotify.com/album/5nhLODdncnkg3rVlzva3YY) | 3:18 | 2024-08-03 | 2026-01-25 |
 | [Jogodo](https://open.spotify.com/track/2njWzPDRRhsXOUhiA42e62) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Jogodo](https://open.spotify.com/album/5X7g2w1hllfIhYhbyMSLpx) | 3:08 | 2026-01-18 |  |
 | [Joro](https://open.spotify.com/track/3Yt1ovsh3v3VEzRuhI1TL5) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Joro](https://open.spotify.com/album/1Mj4mLvCC9P4b167keUsRh) | 4:22 | 2021-12-28 |  |

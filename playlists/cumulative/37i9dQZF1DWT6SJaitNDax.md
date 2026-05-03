@@ -2,9 +2,9 @@
 
 ### [Big Mood](https://open.spotify.com/playlist/37i9dQZF1DWT6SJaitNDax)
 
-> Afro sounds crossing borders\. Cover: Tyla
+> Afro sounds crossing borders\. Cover: Asake
 
-1,006 songs - 2 day 3 hr 26 min
+1,009 songs - 2 day 3 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -329,6 +329,7 @@
 | [FOR YOU](https://open.spotify.com/track/1tj7Pn7RFy82MTwM3TvLkw) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [FOR YOU](https://open.spotify.com/album/0G24UhXGf5SSfBS9QNRKa0) | 3:08 | 2021-09-10 | 2022-07-17 |
 | [forever](https://open.spotify.com/track/4CSUyrPDqDTkn9ybo4aUoj) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [CKay The Second](https://open.spotify.com/album/3TDqyvMmWlK34WpAxwG6hf) | 2:48 | 2025-06-13 | 2025-06-28 |
 | [forever be mine \(feat\. Wizkid\)](https://open.spotify.com/track/1m7j6RWUxeBzTOY4hcWsoj) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [The Last Wun](https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w) | 2:53 | 2025-08-08 | 2025-09-04 |
+| [Forgiveness](https://open.spotify.com/track/5u4rozuOBse9MgrAzGspQy) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [M$NEY](https://open.spotify.com/album/07iqzVICrgPFOpXem6MEpU) | 2:38 | 2026-05-02 |  |
 | [Forgiveness](https://open.spotify.com/track/07OJogL5UIkQJSMsrheV8S) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Forgiveness](https://open.spotify.com/album/0M6PAfVvTAVT9uUtYDiOd9) | 3:20 | 2024-10-18 | 2024-10-26 |
 | [Formation](https://open.spotify.com/track/687RJSOAS8xDed1hoFxum1) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Formation](https://open.spotify.com/album/3kVrx9gltuUKLXgAToVjWx) | 2:36 | 2026-04-10 |  |
 | [Formula](https://open.spotify.com/track/4LBLe7bFvaXy2JCEDqrcnC) | [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ), [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Formula](https://open.spotify.com/album/4fdqH5RYucjH0vlQkiINeQ) | 2:42 | 2024-07-19 | 2024-08-17 |
@@ -563,6 +564,7 @@
 | [Marry Me](https://open.spotify.com/track/4u6JtcrqFz1kw8wTahLGbI) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Marry Me](https://open.spotify.com/album/56qXnhOME5HgzNIlxVt2AR) | 2:53 | 2021-09-10 | 2022-07-28 |
 | [Masculine \(feat\. Burna Boy\)](https://open.spotify.com/track/4M6yrN4rJUrwNgHzGKfrN1) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Beautiful And Brutal Yard](https://open.spotify.com/album/766bxryPZBL0hjz0KM6VUD) | 3:24 | 2023-07-21 | 2024-03-23 |
 | [Mașe](https://open.spotify.com/track/2vk4aVxQpbGE35u22K1elZ) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Mașe](https://open.spotify.com/album/3tJhNuOQwykvA4x6Tl8n8I) | 2:52 | 2024-11-29 | 2024-12-07 |
+| [MCBH](https://open.spotify.com/track/36PS8XCemqmPvigIL8S40B) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [M$NEY](https://open.spotify.com/album/07iqzVICrgPFOpXem6MEpU) | 2:50 | 2026-05-02 |  |
 | [Me & U](https://open.spotify.com/track/47EElDzmkP731PXNzeXt0G) | [Mellissa](https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW) | [Me & U](https://open.spotify.com/album/2qjiZYwMeOeejMdtupyMXf) | 3:04 | 2023-10-15 | 2024-02-17 |
 | [Me & U](https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Me & U](https://open.spotify.com/album/0D1Qm49Hq9cwYbRDeC1HGa) | 3:12 | 2023-10-15 | 2024-09-21 |
 | [Memories](https://open.spotify.com/track/4zMoZEkWSHb5NXuflbLHNI) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [XOXO](https://open.spotify.com/album/6q5zDop76n4wtnZg3Zhfo1) | 3:07 | 2025-10-10 | 2026-02-14 |
@@ -974,6 +976,7 @@
 | [Wayo](https://open.spotify.com/track/3J6APt513Rv9lN7auorpw5) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Wayo](https://open.spotify.com/album/2YCEgok5pslGRKb6LmUfMf) | 2:29 | 2024-05-24 | 2024-06-08 |
 | [WELCOME 2 MY STRIP \(Feat\. ODUMODUBLVCK\)](https://open.spotify.com/track/58QstEOypB4xIe3ta8Qhya) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Before the Smoke](https://open.spotify.com/album/59IJp0kGojGYlkWqn2Hnp9) | 2:23 | 2023-08-18 | 2023-10-16 |
 | [Wetin \- Remix](https://open.spotify.com/track/58oOh7vBW4fXtZfmuNKRtT) | [Yarden](https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd), [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [Wetin \(Remix\)](https://open.spotify.com/album/1tDDrZpSeQuI3CWNhYhfkE) | 2:00 | 2025-03-28 | 2025-04-19 |
+| [What About 10 \(Twalatsa\)](https://open.spotify.com/track/6j4DHHYlInf09JhrO7BPcL) | [Al Xapo](https://open.spotify.com/artist/6dmpoGpCKPEdy7R3XSEA7y), [Benzoo](https://open.spotify.com/artist/4v7teU7vW1QTe4GPPCSLD3), [Optimist Music ZA](https://open.spotify.com/artist/69FMBSIEqfCYBg5xqWdDQV) | [What About 10 \(Twalatsa\)](https://open.spotify.com/album/5DHKdHlrfLBNbk40Xt67AK) | 6:07 | 2026-05-02 |  |
 | [What They Want?](https://open.spotify.com/track/3SOgkXsCWNQYSoaZuMztK3) | [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv) | [For All The Right Reasons Vol\. 1](https://open.spotify.com/album/36KvnNSPeyCHUrAQVpgwwN) | 3:00 | 2026-04-03 |  |
 | [What You Need](https://open.spotify.com/track/7x5RhTT2bzS6CCQFeNb5HU) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Is A Kingdom](https://open.spotify.com/album/3aI43F5shWPnoW4KMfxM1c) | 3:54 | 2025-12-05 | 2026-01-17 |
 | [WhatsApp](https://open.spotify.com/track/2DRHfIWD9Mg70QgTxAKn4m) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx), [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K) | [WhatsApp](https://open.spotify.com/album/1XzyxAC4BrXyqVmGNxM7vU) | 2:14 | 2024-05-10 | 2024-06-15 |

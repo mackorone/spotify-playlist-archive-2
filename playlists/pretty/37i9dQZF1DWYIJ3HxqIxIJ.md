@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYIJ3HxqIxIJ.md) - [plain]
 
 > Local artists you need to watch, handpicked by our editors\. Cover: Harry Hayes
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,700 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,705 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYIJ3HxqIxIJ.md) - [plain]
 | 49 | [Never Coming Back](https://open.spotify.com/track/0ePe4v4mEQFlHDeDENrmZh) | [Rachael Fahim](https://open.spotify.com/artist/0l7PmxcaTok6bxl67BX6XT) | [Never Coming Back](https://open.spotify.com/album/1XPOQqkgLNFnoQOMyRrP6q) | 2:51 |
 | 50 | [ICY \(TAKE IT OFF\)](https://open.spotify.com/track/1Hs5hD1y5CCCHwFkM26kv3) | [Robert Baxter](https://open.spotify.com/artist/5VOw2lhSolJj6DgdrkN20j), [Sweatbaby](https://open.spotify.com/artist/1phDY6rkCuE2y5DYiQZ2Z9) | [ICY \(TAKE IT OFF\)](https://open.spotify.com/album/6XVgQ2o09OKo3cLDTAaWxW) | 3:24 |
 
-Snapshot ID: `AAAAAKVh3IgKAq0KUBghNI6Ivo9TXk9m`
+Snapshot ID: `AAAAAGOGMH0bYmn6EGinkBvBwt/PVZSJ`

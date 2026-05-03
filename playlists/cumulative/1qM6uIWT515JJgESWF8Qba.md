@@ -4,10 +4,11 @@
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-222 songs - 13 hr 51 min
+223 songs - 13 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [188](https://open.spotify.com/track/51Pl4eyuqbLv74w3caC21w) | [Hag Roast](https://open.spotify.com/artist/7FN51i8wVHCTx72xQEOzEQ) | [188](https://open.spotify.com/album/5ZRSJkWE8UrXFkiy5S93Zx) | 3:09 | 2026-05-02 |  |
 | [7 De Octubre](https://open.spotify.com/track/3heoNXvu0MvJHVXYX4YVHs) | [Protocolo Snob](https://open.spotify.com/artist/3Csf3ay5hdK5DpzwMPdHLE) | [7 De Octubre](https://open.spotify.com/album/7bpLNnIZpr6w0CKGCzPJi7) | 2:50 | 2026-01-03 | 2026-02-02 |
 | [A Perfect Lie](https://open.spotify.com/track/4p9PHyzfGtugOfdbik0i8b) | [Andreas Gavlén](https://open.spotify.com/artist/3oyWiGnLb2la5YPtEZEeXL) | [A Perfect Lie](https://open.spotify.com/album/2rvHji4MrQC3S397HaUIRc) | 3:40 | 2026-01-11 | 2026-02-23 |
 | [Abandono](https://open.spotify.com/track/067BUqecd8VIUSQV3wBeTK) | [Beta Surf](https://open.spotify.com/artist/3yIfgsG4NczWN3DjwXI9Ws) | [Tiempos De Caos](https://open.spotify.com/album/2MWM1cKyInGYbi1JAzQcNL) | 2:43 | 2025-11-11 | 2025-12-28 |

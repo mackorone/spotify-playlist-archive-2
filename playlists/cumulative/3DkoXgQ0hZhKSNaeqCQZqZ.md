@@ -4,7 +4,7 @@
 
 > FurryRadio.com, furry music for furs, by furs.
 
-516 songs - 1 day 3 hr 18 min
+517 songs - 1 day 3 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [AT THE END OF EVERYTHING](https://open.spotify.com/track/04aZ1x9Qb0mYh5T5xmztg4) | [Goodnight Girl](https://open.spotify.com/artist/6DuT8CQIbI5VoQaJKVmKQi), [Doodled](https://open.spotify.com/artist/120IFZzkXYONTLup5hTkqW) | [WANNABE](https://open.spotify.com/album/5X1DBiUGnShpPetLnT7EoQ) | 3:30 | 2024-08-15 | 2026-03-01 |
 | [Ayleeyuns](https://open.spotify.com/track/13oIzlPIENDOkJaFU7H7Bx) | [Scratch21](https://open.spotify.com/artist/3WCGPWxaTtnBgGQj4w7LEW) | [Ayleeyuns](https://open.spotify.com/album/52JfrqP4UKV7nqh1qyVqm5) | 4:08 | 2024-03-31 | 2026-03-01 |
 | [b\-b\-BASS DOWN LOW](https://open.spotify.com/track/4i9kCaqvah5JzOLoNeA2Br) | [r u s s e l b u c k](https://open.spotify.com/artist/3Si34xQXMZlrics4njesF2) | [RAVEPOP](https://open.spotify.com/album/1mLzn3i4NwDW4cOg2wJsig) | 2:18 | 2025-04-14 |  |
+| [b\-b\-BASS DOWN LOW \- Maple Remix](https://open.spotify.com/track/06TARRht6YXsY1f2CT4mg3) | [r u s s e l b u c k](https://open.spotify.com/artist/3Si34xQXMZlrics4njesF2), [Maple](https://open.spotify.com/artist/7FqhC9JMS6bbcfMVKKPHBc) | [RAVEPOP REMIXES \(Preview\)](https://open.spotify.com/album/62lFgUk9Wh4Uh17xqmf3uD) | 3:09 | 2026-05-02 |  |
 | [BALENCIAGA DOGS](https://open.spotify.com/track/2yKcOKn9AkFsE40HrjO320) | [snazzyvaka](https://open.spotify.com/artist/3hHniqLXSqhRZeR3xUvlr2), [lil fasty](https://open.spotify.com/artist/6yaCScRjwHuniWvfDEyBcU) | [$USPICIOUSLY WEALTHY FURRIE$](https://open.spotify.com/album/0V5pycvdoKx0sVpPcR9zm7) | 1:31 | 2025-07-03 |  |
 | [Best friend](https://open.spotify.com/track/3GuAaedm9h7AtcDfZY3ymI) | [Studi01](https://open.spotify.com/artist/6JahkHwKoCgQsAc2wxYKy3), [Dangwoo](https://open.spotify.com/artist/1I1fniaM5aQpdPmWZq0hWv), [Kruyo](https://open.spotify.com/artist/5iUiHeYlymptgOr8hdFHwe), [Chase](https://open.spotify.com/artist/4eIQ6kXx8kwoW4ykKQ3nNI), [Cross](https://open.spotify.com/artist/75hD2nouxnATI5mcNqoHpT), [Coolman](https://open.spotify.com/artist/7HXmQqlhwWd4kHlAg0A9cD), [Niloc](https://open.spotify.com/artist/2VDjNNL97uqtKSSWXlJUSS) | [Best friend](https://open.spotify.com/album/25US1PpTgszREgddFdqMoU) | 3:30 | 2024-03-25 | 2026-03-01 |
 | [Best Pony](https://open.spotify.com/track/7ohh6tH0STpX1A5rzzjQfL) | [Sophiaaaahjkl;8901](https://open.spotify.com/artist/7otvnD5KZH9KfeMk62VqSj), [Metaroom](https://open.spotify.com/artist/72igsHCazmE9rlVm0c4I9d) | [Best Pony](https://open.spotify.com/album/1T5NMb5Oq7ilxod1IZvQoA) | 5:28 | 2026-02-20 |  |

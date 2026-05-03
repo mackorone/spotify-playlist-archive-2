@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Bulgaria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,638 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,640 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 49 | [Добро момче](https://open.spotify.com/track/1KpfzzQNYJ56vqhOXk0SEt) | [Dessita](https://open.spotify.com/artist/1WOWylyMYTYIkDJmKLeSpQ) | [Добро момче](https://open.spotify.com/album/4g0MxR8h6gHyyJeNB3AuJ5) | 3:18 |
 | 50 | [Rezhim Neprilichna](https://open.spotify.com/track/1BDsCVdpvuR5qku8n8LUqG) | [Preslava](https://open.spotify.com/artist/2Dj0euYPa8eiI6Ee5VLBwg) | [Rezhim Neprilichna](https://open.spotify.com/album/2I068ub5TVwdj8IqoAoP5B) | 3:43 |
 
-Snapshot ID: `MYgXIAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MYlooAAAAAAAAAAAAAAAAAAAAAAAAGVu`

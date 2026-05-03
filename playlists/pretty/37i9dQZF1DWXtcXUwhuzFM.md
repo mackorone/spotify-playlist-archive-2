@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Uutta musaa tarjoilevat Olavi Uusivirta, Madonna ja Sabrina Carpenter, KAJ..\. ja moni muu  🎶
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,709 likes - 89 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,712 likes - 89 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

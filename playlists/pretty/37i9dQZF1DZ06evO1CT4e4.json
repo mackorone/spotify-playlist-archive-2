@@ -1,33 +1,13 @@
 {
   "description": "This is Arvo P\u00e4rt. The essential tracks, all in one playlist.",
-  "num_followers": 10728,
+  "num_followers": 10729,
   "original_name": "This Is Arvo P\u00e4rt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afKbgAAAAAAuX/61onJLzBQVQP8qMHmb",
+  "snapshot_id": "afPtAAAAAADWrZTprbhDDfKPCMRewXdB",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "P\u00e4rt: Spiegel im Spiegel",
-        "url": "https://open.spotify.com/album/2F238ewBYteHd1bVVoLvuz"
-      },
-      "artists": [
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        },
-        {
-          "name": "Duo Gazzana",
-          "url": "https://open.spotify.com/artist/44yqsYKtToaDXjtyMuVXCj"
-        }
-      ],
-      "duration_ms": 625986,
-      "name": "Spiegel im Spiegel",
-      "url": "https://open.spotify.com/track/58i6YHZ4xZtxwGMhWVOWFD"
-    },
     {
       "added_at": null,
       "album": {
@@ -287,8 +267,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Arvo P\u00e4rt: Hymn to a Great City for 2 Pianos",
-        "url": "https://open.spotify.com/album/4z7rij9qyC2uex6Yyl8Ydg"
+        "name": "P\u00e4rt: Spiegel im Spiegel",
+        "url": "https://open.spotify.com/album/2F238ewBYteHd1bVVoLvuz"
       },
       "artists": [
         {
@@ -296,17 +276,13 @@
           "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
         },
         {
-          "name": "Georgijs Osokins",
-          "url": "https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO"
-        },
-        {
-          "name": "Martha Argerich",
-          "url": "https://open.spotify.com/artist/66MvLAvLznk5UOvASVGjk4"
+          "name": "Duo Gazzana",
+          "url": "https://open.spotify.com/artist/44yqsYKtToaDXjtyMuVXCj"
         }
       ],
-      "duration_ms": 195760,
-      "name": "Hymn to a Great City for 2 Pianos",
-      "url": "https://open.spotify.com/track/1IakFeQta7sykSFeiXJevB"
+      "duration_ms": 625986,
+      "name": "Spiegel im Spiegel",
+      "url": "https://open.spotify.com/track/58i6YHZ4xZtxwGMhWVOWFD"
     },
     {
       "added_at": null,
@@ -339,22 +315,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "For Arvo",
-        "url": "https://open.spotify.com/album/3HSD0Eu5R636MJLr45g8A6"
+        "name": "Arvo P\u00e4rt: Hymn to a Great City for 2 Pianos",
+        "url": "https://open.spotify.com/album/4z7rij9qyC2uex6Yyl8Ydg"
       },
       "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
         {
           "name": "Georgijs Osokins",
           "url": "https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO"
         },
         {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+          "name": "Martha Argerich",
+          "url": "https://open.spotify.com/artist/66MvLAvLznk5UOvASVGjk4"
         }
       ],
-      "duration_ms": 209773,
-      "name": "Variations for the Healing of Arinushka",
-      "url": "https://open.spotify.com/track/524E2l95o8aWYX1HdVWJJU"
+      "duration_ms": 195760,
+      "name": "Hymn to a Great City for 2 Pianos",
+      "url": "https://open.spotify.com/track/1IakFeQta7sykSFeiXJevB"
     },
     {
       "added_at": null,
@@ -387,26 +367,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spiegel im Spiegel (Arr. for Violin and Piano)",
-        "url": "https://open.spotify.com/album/1HmYKU2UUQgiD8Gpygg3ns"
+        "name": "For Arvo",
+        "url": "https://open.spotify.com/album/3HSD0Eu5R636MJLr45g8A6"
       },
       "artists": [
         {
+          "name": "Georgijs Osokins",
+          "url": "https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO"
+        },
+        {
           "name": "Arvo P\u00e4rt",
           "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        },
-        {
-          "name": "Luke Faulkner",
-          "url": "https://open.spotify.com/artist/2KTBCTcRbjSO03qPsUeqq3"
-        },
-        {
-          "name": "Nadia Vasileva",
-          "url": "https://open.spotify.com/artist/0HaKYCh7pmWHnU4L7MExhs"
         }
       ],
-      "duration_ms": 509994,
-      "name": "Spiegel im Spiegel - Arr. for Violin and Piano",
-      "url": "https://open.spotify.com/track/4z42LRWTqKvAOmzlgdNwHo"
+      "duration_ms": 209773,
+      "name": "Variations for the Healing of Arinushka",
+      "url": "https://open.spotify.com/track/524E2l95o8aWYX1HdVWJJU"
     },
     {
       "added_at": null,
@@ -431,6 +407,30 @@
       "duration_ms": 362613,
       "name": "Summa",
       "url": "https://open.spotify.com/track/7a6AlKiNWFSA33WzF2SBi7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Spiegel im Spiegel (Arr. for Violin and Piano)",
+        "url": "https://open.spotify.com/album/1HmYKU2UUQgiD8Gpygg3ns"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "Luke Faulkner",
+          "url": "https://open.spotify.com/artist/2KTBCTcRbjSO03qPsUeqq3"
+        },
+        {
+          "name": "Nadia Vasileva",
+          "url": "https://open.spotify.com/artist/0HaKYCh7pmWHnU4L7MExhs"
+        }
+      ],
+      "duration_ms": 509994,
+      "name": "Spiegel im Spiegel - Arr. for Violin and Piano",
+      "url": "https://open.spotify.com/track/4z42LRWTqKvAOmzlgdNwHo"
     },
     {
       "added_at": null,
@@ -827,26 +827,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\"Cold Landscapes - Minimalism\"",
-        "url": "https://open.spotify.com/album/0UOKRr3DWhoWazgZZRiePF"
-      },
-      "artists": [
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        },
-        {
-          "name": "Georgijs Osokins",
-          "url": "https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO"
-        }
-      ],
-      "duration_ms": 128946,
-      "name": "Vier leichte Tanzst\u00fccke \u201cMusik f\u00fcr Kindertheater\u201d: No. 3, Schmetterlinge",
-      "url": "https://open.spotify.com/track/4JNB96jyQOm3BFcGRjKV9a"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Echoes of Time",
         "url": "https://open.spotify.com/album/4L6fXZsOgSlkFmHKy6d3Qt"
       },
@@ -871,8 +851,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Arvo P\u00e4rt: The Symphonies",
-        "url": "https://open.spotify.com/album/1NwbomenimZbPUZpgIdIkF"
+        "name": "\"Cold Landscapes - Minimalism\"",
+        "url": "https://open.spotify.com/album/0UOKRr3DWhoWazgZZRiePF"
       },
       "artists": [
         {
@@ -880,17 +860,13 @@
           "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
         },
         {
-          "name": "NFM Wroc\u0142aw Philharmonic",
-          "url": "https://open.spotify.com/artist/4khYM3vJclruis0KI1Og9h"
-        },
-        {
-          "name": "T\u00f5nu Kaljuste",
-          "url": "https://open.spotify.com/artist/4MECrpIPG1u3XtHd2YXbrT"
+          "name": "Georgijs Osokins",
+          "url": "https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO"
         }
       ],
-      "duration_ms": 488706,
-      "name": "Symphony No. 4 \"Los Angeles\": III. Insistentemente \u2013 Con intimo sentimento \u2013 Deciso",
-      "url": "https://open.spotify.com/track/0BYRoMmBnczcHdhOwHqyAq"
+      "duration_ms": 128946,
+      "name": "Vier leichte Tanzst\u00fccke \u201cMusik f\u00fcr Kindertheater\u201d: No. 3, Schmetterlinge",
+      "url": "https://open.spotify.com/track/4JNB96jyQOm3BFcGRjKV9a"
     },
     {
       "added_at": null,
@@ -911,8 +887,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\"Cold Landscapes - Minimalism\"",
-        "url": "https://open.spotify.com/album/0UOKRr3DWhoWazgZZRiePF"
+        "name": "Arvo P\u00e4rt: The Symphonies",
+        "url": "https://open.spotify.com/album/1NwbomenimZbPUZpgIdIkF"
       },
       "artists": [
         {
@@ -920,33 +896,17 @@
           "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
         },
         {
-          "name": "Georgijs Osokins",
-          "url": "https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO"
-        }
-      ],
-      "duration_ms": 97693,
-      "name": "2 Sonatinas for Piano, Op. 1 No. 2: II. Largo",
-      "url": "https://open.spotify.com/track/486ITCjYC1j3Im204D1ufN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Serenity - The Beauty Of Arvo P\u00e4rt",
-        "url": "https://open.spotify.com/album/2slVvUjwkOhGauBGyTaByY"
-      },
-      "artists": [
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+          "name": "NFM Wroc\u0142aw Philharmonic",
+          "url": "https://open.spotify.com/artist/4khYM3vJclruis0KI1Og9h"
         },
         {
-          "name": "Alessio Bax",
-          "url": "https://open.spotify.com/artist/5XQSLo7FpTb3FJ69O7y2ur"
+          "name": "T\u00f5nu Kaljuste",
+          "url": "https://open.spotify.com/artist/4MECrpIPG1u3XtHd2YXbrT"
         }
       ],
-      "duration_ms": 148946,
-      "name": "P\u00e4rt: F\u00fcr Alina",
-      "url": "https://open.spotify.com/track/3DVCFBDqtnOpotsLC4lpuP"
+      "duration_ms": 488706,
+      "name": "Symphony No. 4 \"Los Angeles\": III. Insistentemente \u2013 Con intimo sentimento \u2013 Deciso",
+      "url": "https://open.spotify.com/track/0BYRoMmBnczcHdhOwHqyAq"
     },
     {
       "added_at": null,
@@ -979,6 +939,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "\"Cold Landscapes - Minimalism\"",
+        "url": "https://open.spotify.com/album/0UOKRr3DWhoWazgZZRiePF"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "Georgijs Osokins",
+          "url": "https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO"
+        }
+      ],
+      "duration_ms": 97693,
+      "name": "2 Sonatinas for Piano, Op. 1 No. 2: II. Largo",
+      "url": "https://open.spotify.com/track/486ITCjYC1j3Im204D1ufN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "For Arvo",
         "url": "https://open.spotify.com/album/3HSD0Eu5R636MJLr45g8A6"
       },
@@ -992,9 +972,29 @@
           "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
         }
       ],
-      "duration_ms": 304053,
-      "name": "Pari intervallo (Transc. Osokins for Piano)",
-      "url": "https://open.spotify.com/track/37hHmSK0EOIgQlFStOSzej"
+      "duration_ms": 194480,
+      "name": "2 Sonatinas for Piano, Op. 1 No. 1: II. Larghetto",
+      "url": "https://open.spotify.com/track/22PAROCzns7nT8CIOnW4JA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Serenity - The Beauty Of Arvo P\u00e4rt",
+        "url": "https://open.spotify.com/album/2slVvUjwkOhGauBGyTaByY"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "Alessio Bax",
+          "url": "https://open.spotify.com/artist/5XQSLo7FpTb3FJ69O7y2ur"
+        }
+      ],
+      "duration_ms": 148946,
+      "name": "P\u00e4rt: F\u00fcr Alina",
+      "url": "https://open.spotify.com/track/3DVCFBDqtnOpotsLC4lpuP"
     },
     {
       "added_at": null,
@@ -1043,26 +1043,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "P\u00e4rt: Mommy\u2019s Kiss",
-        "url": "https://open.spotify.com/album/4p0C4LlhbMZuxolzE0e9W4"
-      },
-      "artists": [
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        },
-        {
-          "name": "Georgijs Osokins",
-          "url": "https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO"
-        }
-      ],
-      "duration_ms": 71613,
-      "name": "Mommy\u2019s Kiss",
-      "url": "https://open.spotify.com/track/2jlfF9g0EXsJqTIkPeswFo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "For Arvo",
         "url": "https://open.spotify.com/album/3HSD0Eu5R636MJLr45g8A6"
       },
@@ -1076,9 +1056,9 @@
           "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
         }
       ],
-      "duration_ms": 194480,
-      "name": "2 Sonatinas for Piano, Op. 1 No. 1: II. Larghetto",
-      "url": "https://open.spotify.com/track/22PAROCzns7nT8CIOnW4JA"
+      "duration_ms": 304053,
+      "name": "Pari intervallo (Transc. Osokins for Piano)",
+      "url": "https://open.spotify.com/track/37hHmSK0EOIgQlFStOSzej"
     },
     {
       "added_at": null,
@@ -1103,6 +1083,26 @@
       "duration_ms": 498573,
       "name": "Kanon Pokajanen: Ode VI",
       "url": "https://open.spotify.com/track/2PNEEvDHAGdslbD03Mjj4i"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "P\u00e4rt: Mommy\u2019s Kiss",
+        "url": "https://open.spotify.com/album/4p0C4LlhbMZuxolzE0e9W4"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "Georgijs Osokins",
+          "url": "https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO"
+        }
+      ],
+      "duration_ms": 71613,
+      "name": "Mommy\u2019s Kiss",
+      "url": "https://open.spotify.com/track/2jlfF9g0EXsJqTIkPeswFo"
     },
     {
       "added_at": null,

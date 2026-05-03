@@ -969,6 +969,28 @@
     },
     {
       "album": {
+        "name": "MUTT",
+        "url": "https://open.spotify.com/album/0KfsQmnXet0Ne5V8c7Nnrm"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        }
+      ],
+      "date_added": "2026-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119965,
+      "name": "MUTT",
+      "url": "https://open.spotify.com/track/2hk1qsUurNhymuTIQKoCws"
+    },
+    {
+      "album": {
         "name": "Good Intentions",
         "url": "https://open.spotify.com/album/0jk3nAmtiIfwLU4CvDDMaS"
       },
@@ -1530,7 +1552,7 @@
       ],
       "date_added": "2024-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 125093,
       "name": "Rexdale",
       "url": "https://open.spotify.com/track/1r9Sbh5cc4kC0g7eUPnscB"

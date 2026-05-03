@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SNr5BeQZSd.md) - [plain]
 
 > the freshest trending lofi beats for chill, focus, or study vibes
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,439 likes - 100 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,473 likes - 100 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SNr5BeQZSd.md) - [plain]
 | 99 | [horizon](https://open.spotify.com/track/3XaWOAun8dVY2fRKME3uZ5) | [flowless](https://open.spotify.com/artist/71dR4Sjwy1ikQyYIcCWvxS), [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL) | [horizon](https://open.spotify.com/album/1CzSDeoCQ3fhnKfqgeIGO5) | 2:03 |
 | 100 | [Say You Love It](https://open.spotify.com/track/5ALF6lAf5ed9QjMIJmdJHe) | [Nobel](https://open.spotify.com/artist/5uC5qAuoCUyUduFrVAnYrE), [Toti Cisneros](https://open.spotify.com/artist/2RzBTtaoFmXDvt5vP8lPYf) | [Say You Love It](https://open.spotify.com/album/4qELQahBGyksXyN9fUF9NN) | 2:03 |
 
-Snapshot ID: `AAAAAMWaNLlvJGJHDUAwREL8MqP1KbwH`
+Snapshot ID: `AAAAADpdvRdefBT+CUnSLTdghcQeHeA5`

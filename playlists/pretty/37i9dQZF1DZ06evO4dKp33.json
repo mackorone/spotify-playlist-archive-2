@@ -1,12 +1,12 @@
 {
   "description": "This is PinkPantheress. The essential tracks, all in one playlist.",
-  "num_followers": 93813,
+  "num_followers": 93904,
   "original_name": "This Is PinkPantheress",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afKbgAAAAACaExwgPRdaaWNFGKbDgMTs",
+  "snapshot_id": "afPtAAAAAAB0w6caMV71osnBjBckXHSJ",
   "tracks": [
     {
       "added_at": null,
@@ -292,25 +292,29 @@
           "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
         }
       ],
-      "duration_ms": 165773,
-      "name": "The aisle",
-      "url": "https://open.spotify.com/track/6SjxVgMjH3b3AI4wVviZfi"
+      "duration_ms": 223680,
+      "name": "Capable of love",
+      "url": "https://open.spotify.com/track/52qxHBgcQGVV2JrMwPhYJl"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Close to you",
-        "url": "https://open.spotify.com/album/0kSsLJiSSakbOSZrHGlVRP"
+        "name": "Midnight Sun: Girls Trip",
+        "url": "https://open.spotify.com/album/4WMcRlbt7NvpKrrqO8ykQf"
       },
       "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        },
         {
           "name": "PinkPantheress",
           "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
         }
       ],
-      "duration_ms": 103441,
-      "name": "Close to you",
-      "url": "https://open.spotify.com/track/6CBurTHmYJhIcDD72Qgjnm"
+      "duration_ms": 171736,
+      "name": "Midnight Sun - Girls Trip",
+      "url": "https://open.spotify.com/track/2FHGYrQEmuWGX24QoQtQ13"
     },
     {
       "added_at": null,
@@ -356,33 +360,25 @@
           "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
         }
       ],
-      "duration_ms": 223680,
-      "name": "Capable of love",
-      "url": "https://open.spotify.com/track/52qxHBgcQGVV2JrMwPhYJl"
+      "duration_ms": 165773,
+      "name": "The aisle",
+      "url": "https://open.spotify.com/track/6SjxVgMjH3b3AI4wVviZfi"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Rush (feat. PinkPantheress & Hyunjin of Stray Kids)",
-        "url": "https://open.spotify.com/album/3D5NnN6OYVFfBYGOWQ78Ns"
+        "name": "Close to you",
+        "url": "https://open.spotify.com/album/0kSsLJiSSakbOSZrHGlVRP"
       },
       "artists": [
         {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        },
-        {
           "name": "PinkPantheress",
           "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        },
-        {
-          "name": "Hyunjin",
-          "url": "https://open.spotify.com/artist/0ymFDpsRImjK673AGgFBcg"
         }
       ],
-      "duration_ms": 172151,
-      "name": "Rush (feat. PinkPantheress & Hyunjin of Stray Kids)",
-      "url": "https://open.spotify.com/track/12qq70vp6hMUikpAyeyDPc"
+      "duration_ms": 103441,
+      "name": "Close to you",
+      "url": "https://open.spotify.com/track/6CBurTHmYJhIcDD72Qgjnm"
     },
     {
       "added_at": null,
@@ -435,6 +431,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rush (feat. PinkPantheress & Hyunjin of Stray Kids)",
+        "url": "https://open.spotify.com/album/3D5NnN6OYVFfBYGOWQ78Ns"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        },
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        },
+        {
+          "name": "Hyunjin",
+          "url": "https://open.spotify.com/artist/0ymFDpsRImjK673AGgFBcg"
+        }
+      ],
+      "duration_ms": 172151,
+      "name": "Rush (feat. PinkPantheress & Hyunjin of Stray Kids)",
+      "url": "https://open.spotify.com/track/12qq70vp6hMUikpAyeyDPc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Turn it up",
         "url": "https://open.spotify.com/album/53oYO35gOzGGGINKHB8cd0"
       },
@@ -471,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Do you miss me?",
-        "url": "https://open.spotify.com/album/3Mp1zB42F2yqqOMEep7R3k"
-      },
-      "artists": [
-        {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        }
-      ],
-      "duration_ms": 128853,
-      "name": "Do You Miss Me?",
-      "url": "https://open.spotify.com/track/67r7ZHxVxONN9ZQk05AQVL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Heaven knows",
         "url": "https://open.spotify.com/album/2pOEFqvfxp5uUQ8vQEmVA0"
       },
@@ -499,6 +503,22 @@
       "duration_ms": 163120,
       "name": "Feel complete",
       "url": "https://open.spotify.com/track/2bBh5UwbVLkA3WB44iXBye"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Do you miss me?",
+        "url": "https://open.spotify.com/album/3Mp1zB42F2yqqOMEep7R3k"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "duration_ms": 128853,
+      "name": "Do You Miss Me?",
+      "url": "https://open.spotify.com/track/67r7ZHxVxONN9ZQk05AQVL"
     },
     {
       "added_at": null,
@@ -543,26 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fancy Some More?",
-        "url": "https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF"
-      },
-      "artists": [
-        {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        },
-        {
-          "name": "JADE",
-          "url": "https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3"
-        }
-      ],
-      "duration_ms": 178217,
-      "name": "Tonight + JADE",
-      "url": "https://open.spotify.com/track/1gcSjWz47sNWKws2uk5Wry"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Where you are (feat. WILLOW)",
         "url": "https://open.spotify.com/album/1wFiFlS50SnyKPAIcBzAQN"
       },
@@ -579,6 +579,26 @@
       "duration_ms": 153706,
       "name": "Where You Are (feat. WILLOW)",
       "url": "https://open.spotify.com/track/4icnlpI5IbZcRO9mpixVVW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fancy Some More?",
+        "url": "https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        },
+        {
+          "name": "JADE",
+          "url": "https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3"
+        }
+      ],
+      "duration_ms": 178217,
+      "name": "Tonight + JADE",
+      "url": "https://open.spotify.com/track/1gcSjWz47sNWKws2uk5Wry"
     },
     {
       "added_at": null,
@@ -619,26 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fancy Some More?",
-        "url": "https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF"
-      },
-      "artists": [
-        {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        },
-        {
-          "name": "Oklou",
-          "url": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
-        }
-      ],
-      "duration_ms": 162352,
-      "name": "Girl Like Me + Oklou",
-      "url": "https://open.spotify.com/track/5FuHvT4gCAx3DS1USi8jBm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Melodic Blue (Deluxe)",
         "url": "https://open.spotify.com/album/5Co3CGD9lBQVNnn7q0px1g"
       },
@@ -659,6 +659,26 @@
       "duration_ms": 215679,
       "name": "killstreaks (with Don Toliver & PinkPantheress)",
       "url": "https://open.spotify.com/track/754hhnczVNu3ibRaoAcujX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fancy Some More?",
+        "url": "https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        },
+        {
+          "name": "Yves",
+          "url": "https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce"
+        }
+      ],
+      "duration_ms": 141793,
+      "name": "Stars + Yves",
+      "url": "https://open.spotify.com/track/52vFAalJWVolzGZXmjtPIz"
     },
     {
       "added_at": null,
@@ -703,26 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fancy Some More?",
-        "url": "https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF"
-      },
-      "artists": [
-        {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        },
-        {
-          "name": "Yves",
-          "url": "https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce"
-        }
-      ],
-      "duration_ms": 141793,
-      "name": "Stars + Yves",
-      "url": "https://open.spotify.com/track/52vFAalJWVolzGZXmjtPIz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Still Sincere",
         "url": "https://open.spotify.com/album/2vQKtinvpcN8m5kwk8yU0d"
       },
@@ -739,6 +739,26 @@
       "duration_ms": 188719,
       "name": "Still Sincere",
       "url": "https://open.spotify.com/track/5fWkhoVosVf0sRlGS4P9y5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fancy Some More?",
+        "url": "https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        },
+        {
+          "name": "Oklou",
+          "url": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
+        }
+      ],
+      "duration_ms": 162352,
+      "name": "Girl Like Me + Oklou",
+      "url": "https://open.spotify.com/track/5FuHvT4gCAx3DS1USi8jBm"
     },
     {
       "added_at": null,

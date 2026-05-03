@@ -1,12 +1,12 @@
 {
   "description": "This is Bluey. The essential tracks, all in one playlist.",
-  "num_followers": 51567,
+  "num_followers": 51570,
   "original_name": "This Is Bluey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afKbgAAAAAA6Oas4mDLmHgjf2z5E4aq9",
+  "snapshot_id": "afPtAAAAAAA/eUu4EYR8xSpo90q4W/Ln",
   "tracks": [
     {
       "added_at": null,
@@ -38,15 +38,11 @@
         {
           "name": "Joff Bush",
           "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
-        },
-        {
-          "name": "Jazz D'Arcy",
-          "url": "https://open.spotify.com/artist/2LemGUdMgljx9x6YVkfLij"
         }
       ],
-      "duration_ms": 217719,
-      "name": "Rain (Instrumental)",
-      "url": "https://open.spotify.com/track/1eaZSJ0jVWmj9HKjAtl2Sf"
+      "duration_ms": 118893,
+      "name": "Dance Mode",
+      "url": "https://open.spotify.com/track/34oa5y5p5SyWk7GfjdeNJY"
     },
     {
       "added_at": null,
@@ -126,11 +122,15 @@
         {
           "name": "Joff Bush",
           "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
+        },
+        {
+          "name": "Jazz D'Arcy",
+          "url": "https://open.spotify.com/artist/2LemGUdMgljx9x6YVkfLij"
         }
       ],
-      "duration_ms": 118893,
-      "name": "Dance Mode",
-      "url": "https://open.spotify.com/track/34oa5y5p5SyWk7GfjdeNJY"
+      "duration_ms": 217719,
+      "name": "Rain (Instrumental)",
+      "url": "https://open.spotify.com/track/1eaZSJ0jVWmj9HKjAtl2Sf"
     },
     {
       "added_at": null,
@@ -496,9 +496,9 @@
           "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
         }
       ],
-      "duration_ms": 162332,
-      "name": "Escape",
-      "url": "https://open.spotify.com/track/5cyxngiUUlUUtCx4qWsPFz"
+      "duration_ms": 76443,
+      "name": "Rug Island, Pt. 2",
+      "url": "https://open.spotify.com/track/3Cq2MyHslpTABcw1bPx50m"
     },
     {
       "added_at": null,
@@ -584,9 +584,9 @@
           "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
         }
       ],
-      "duration_ms": 76443,
-      "name": "Rug Island, Pt. 2",
-      "url": "https://open.spotify.com/track/3Cq2MyHslpTABcw1bPx50m"
+      "duration_ms": 162332,
+      "name": "Escape",
+      "url": "https://open.spotify.com/track/5cyxngiUUlUUtCx4qWsPFz"
     }
   ],
   "unique_name": "This Is Bluey",

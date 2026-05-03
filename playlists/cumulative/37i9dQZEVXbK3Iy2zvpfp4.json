@@ -6088,7 +6088,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 97960,
       "name": "Babydoll",
       "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
@@ -6376,7 +6376,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 153281,
       "name": "Bad Angel (with LISA)",
       "url": "https://open.spotify.com/track/4QR40LqFAbMdabh4AoZJGZ"
@@ -16876,7 +16876,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 258479,
       "name": "Day After Tomorrow",
       "url": "https://open.spotify.com/track/5Nq780Ob4IvQXZ93apC3wB"
@@ -17610,6 +17610,28 @@
       "duration_ms": 179886,
       "name": "Diabol Je Preodet\u00fd (Bonus Track)",
       "url": "https://open.spotify.com/track/0sDvLAIHUVOvexs4k6jkG6"
+    },
+    {
+      "album": {
+        "name": "SUKUBA",
+        "url": "https://open.spotify.com/album/3zv7ZJXh8zv34gR1Av0pvs"
+      },
+      "artists": [
+        {
+          "name": "NAUME",
+          "url": "https://open.spotify.com/artist/4nN9KPvDyJUChakaoY9AXv"
+        },
+        {
+          "name": "ANAST\u00c1ZIE",
+          "url": "https://open.spotify.com/artist/65Fpk83fEyrfdMnuqMyyzl"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159559,
+      "name": "Dial",
+      "url": "https://open.spotify.com/track/1cPNECEaVkXbEoxBJgtk2c"
     },
     {
       "album": {
@@ -19770,6 +19792,24 @@
       "duration_ms": 209720,
       "name": "Dracula - JENNIE Remix",
       "url": "https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM"
+    },
+    {
+      "album": {
+        "name": "Dragons Lair",
+        "url": "https://open.spotify.com/album/4TM2D9gnmC65KDgh0i3nE0"
+      },
+      "artists": [
+        {
+          "name": "Bob Dominator",
+          "url": "https://open.spotify.com/artist/6unHVdtoVvhv2XGCwEBlIA"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129157,
+      "name": "Dragons Lair",
+      "url": "https://open.spotify.com/track/3UGKS3MghCV0EOOurks3QG"
     },
     {
       "album": {
@@ -27503,6 +27543,24 @@
     },
     {
       "album": {
+        "name": "Born In The Echoes",
+        "url": "https://open.spotify.com/album/3XUVUh6hisN43r2eZAOJRD"
+      },
+      "artists": [
+        {
+          "name": "The Chemical Brothers",
+          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260696,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/2Xhd1kYKj2aee7JR3nIlRe"
+    },
+    {
+      "album": {
         "name": "GO AGAIN (feat. Superheaven)",
         "url": "https://open.spotify.com/album/4WXIMpmT2wITUU85TCcW0z"
       },
@@ -34634,7 +34692,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 183237,
       "name": "iloveitiloveitiloveit",
       "url": "https://open.spotify.com/track/5IMpnpD0tQVcqWlVIgtAtV"
@@ -42826,7 +42884,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-10",
+      "date_removed": null,
       "duration_ms": 274000,
       "name": "L\u00faka",
       "url": "https://open.spotify.com/track/4i0lECAdp7OkLqbBJkqkd9"
@@ -52918,10 +52976,28 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 199039,
       "name": "North wind calls",
       "url": "https://open.spotify.com/track/1ApLfehppos372TqhjpPDK"
+    },
+    {
+      "album": {
+        "name": "North wind calls",
+        "url": "https://open.spotify.com/album/0camuA2foMQIiM37ynLnXD"
+      },
+      "artists": [
+        {
+          "name": "Draugr Balled",
+          "url": "https://open.spotify.com/artist/7zEyGwOvYq5KkBn4MUuL1g"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199039,
+      "name": "North wind calls",
+      "url": "https://open.spotify.com/track/78IC0ZZYiXd7R3ps9R1agf"
     },
     {
       "album": {
@@ -57438,7 +57514,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-02",
+      "date_removed": null,
       "duration_ms": 206850,
       "name": "Peter, sveter",
       "url": "https://open.spotify.com/track/67iwvG2Hpx75UhmQ9o2Nnz"
@@ -74054,7 +74130,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 236534,
       "name": "They Call Me Sonic - slowed",
       "url": "https://open.spotify.com/track/4SIWF4DUVgWwtL5DjIv3on"
@@ -77982,7 +78058,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 195599,
       "name": "VALHALLA CALLING",
       "url": "https://open.spotify.com/track/0fMXHtOEGKJvMJiivwNqnx"
@@ -78004,6 +78080,24 @@
       "duration_ms": 195605,
       "name": "VALHALLA CALLING",
       "url": "https://open.spotify.com/track/1m0jhovzoAyjsPZR9mty6R"
+    },
+    {
+      "album": {
+        "name": "VALHALLA CALLING",
+        "url": "https://open.spotify.com/album/6xU5Uw1Eege7m8dX5GGXGE"
+      },
+      "artists": [
+        {
+          "name": "Ragal Ironbull",
+          "url": "https://open.spotify.com/artist/3vDYGs9p4Y6GpfvxJDDhjx"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195631,
+      "name": "VALHALLA CALLING",
+      "url": "https://open.spotify.com/track/4GZ9FHEL0Vcf3RVHV5lYlv"
     },
     {
       "album": {

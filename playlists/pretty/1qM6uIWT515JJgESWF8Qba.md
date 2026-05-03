@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 420 likes - 89 songs - 5 hr 43 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 422 likes - 90 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,5 +97,6 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 | 87 | [Fire of Your Soul](https://open.spotify.com/track/1wrsHTXXtBOHDUl8358ed7) | [O KANENAS](https://open.spotify.com/artist/0gW8xjhBaC0eO8xyS5lZDa) | [Fire of Your Soul](https://open.spotify.com/album/2fN64WOVPjOdRNWXKIwMmI) | 2:21 |
 | 88 | [Walk Away](https://open.spotify.com/track/0goHckNxy52mUUqaSqJ0gN) | [Altered Edge](https://open.spotify.com/artist/1LK0zVegel8RFJsECz7QQ5) | [Walk Away](https://open.spotify.com/album/2EJUBIUDDBmmJm0qqN8eTJ) | 3:14 |
 | 89 | [The Runaway Song](https://open.spotify.com/track/2LdQb5Pm6m7Sbi1esrv3Wj) | [Hunter Road](https://open.spotify.com/artist/5aPH9KCyGCSIKUyrbsz1bn) | [The Runaway Song](https://open.spotify.com/album/1a5FKZRgTGoQCsLKFhDFcL) | 5:51 |
+| 90 | [188](https://open.spotify.com/track/51Pl4eyuqbLv74w3caC21w) | [Hag Roast](https://open.spotify.com/artist/7FN51i8wVHCTx72xQEOzEQ) | [188](https://open.spotify.com/album/5ZRSJkWE8UrXFkiy5S93Zx) | 3:09 |
 
-Snapshot ID: `AAABihzXnU0L3L15s+yFwlyhIsXTep/R`
+Snapshot ID: `AAABi4f3xOE/y09J4nBWj6db6I96Y1av`

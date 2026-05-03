@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 
 > いま話題の曲を週末にまとめてチェック。Cover: 嵐
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,282 likes - 60 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,274 likes - 60 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 | 53 | [Right On](https://open.spotify.com/track/5U6eOve1EBA0Z1v2zTomF1) | [WIM](https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz), [Jesse Barrera](https://open.spotify.com/artist/51KbY36mrjHRQwvSbel74l) | [Right On](https://open.spotify.com/album/016Ii6RB1OeFoP5zzHxlIV) | 3:00 |
 | 54 | [REDRED](https://open.spotify.com/track/2fCwv2ppU5nTRTckomIGsd) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [REDRED](https://open.spotify.com/album/52J8GQoNp2vgDJ6992NjiM) | 2:43 |
 | 55 | [ギューアグ](https://open.spotify.com/track/4VkVKgNyTFS3hRR3QldFUV) | [名誉伝説](https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD) | [ギューアグ](https://open.spotify.com/album/7eWBDcemeEcPROAmKHlYMJ) | 3:08 |
-| 56 | [No Tears On The Dancefloor](https://open.spotify.com/track/1LN9XD8fstMDvgI8RM4lpx) | [LEE CHAE YEON](https://open.spotify.com/artist/2nkZR6LwPxaAVtaVitNIPT) | [Till I Die](https://open.spotify.com/album/1NME7mvfv1WMEGJGcSF9bs) | 2:30 |
+| 56 | [No Tears On The Dancefloor](https://open.spotify.com/track/1LN9XD8fstMDvgI8RM4lpx) | [LEE CHAEYEON](https://open.spotify.com/artist/2nkZR6LwPxaAVtaVitNIPT) | [Till I Die](https://open.spotify.com/album/1NME7mvfv1WMEGJGcSF9bs) | 2:30 |
 | 57 | [This is who I am](https://open.spotify.com/track/1yBrxyqT56pCeCxmKQ1MkE) | [NOAHRI](https://open.spotify.com/artist/09tiq23cyNN66fhNuj6rB8) | [ODYSSEY](https://open.spotify.com/album/532BH4vaymoFHPTLqowQ5k) | 3:49 |
 | 58 | [Beat It](https://open.spotify.com/track/3BovdzfaX4jb5KFQwoPfAw) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ) | 4:18 |
 | 59 | [サイレン](https://open.spotify.com/track/3eUiKQbxK0wknnKodmvOlA) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [サイレン](https://open.spotify.com/album/67i9p8iI1wU1tszaQjM0lM) | 3:23 |

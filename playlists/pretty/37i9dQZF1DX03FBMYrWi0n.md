@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03FBMYrWi0n.md) - [plain]
 
 > L’alternatif québécois à plein volume\. Photo: FYORE
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,204 likes - 95 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,225 likes - 95 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

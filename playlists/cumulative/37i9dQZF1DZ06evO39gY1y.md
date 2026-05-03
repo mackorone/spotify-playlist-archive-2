@@ -4,7 +4,7 @@
 
 > This is Charles Ans\. The essential tracks, all in one playlist.
 
-109 songs - 6 hr 43 min
+110 songs - 6 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [La Parada del Bus](https://open.spotify.com/track/06A0LWFYMgQ6PCkmn5pE9K) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [BCN](https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd) | [Mis Ojos No Podían Ver](https://open.spotify.com/album/6DflZePH7U2oKHumS0DWyM) | 2:14 | 2024-08-30 | 2024-10-07 |
 | [La Que Se Fue](https://open.spotify.com/track/0CTaaPUheCCdynjsZhhwlB) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Nunca Jamas](https://open.spotify.com/artist/5MgEV0h2E4COzAXi2BtQE7) | [La Que Se Fue](https://open.spotify.com/album/1WXcLpnA8CXFXpHM9Yuz26) | 2:46 | 2023-11-10 |  |
 | [La Última Canción](https://open.spotify.com/track/4p01DV9sh49THUgUKDVRlP) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [BCN](https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd) | [Mis Ojos No Podían Ver](https://open.spotify.com/album/6DflZePH7U2oKHumS0DWyM) | 2:59 | 2024-08-25 | 2024-10-17 |
-| [Legendarios](https://open.spotify.com/track/5F37FuiLSSah3vW8Pr5sQD) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Cora](https://open.spotify.com/album/6jfFltnTJeUFhHjOMXZdFd) | 2:44 | 2023-11-10 |  |
+| [Legendarios](https://open.spotify.com/track/5F37FuiLSSah3vW8Pr5sQD) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Cora](https://open.spotify.com/album/6jfFltnTJeUFhHjOMXZdFd) | 2:44 | 2023-11-10 | 2026-05-03 |
 | [Lejos de Aquí](https://open.spotify.com/track/0aRdQgkVWa3tAXKSitRRVM) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Sin Maletas](https://open.spotify.com/album/1MHvm1gns1yjtmiCej5Lqf) | 2:43 | 2024-10-18 | 2026-03-28 |
 | [Letras Chiquitas](https://open.spotify.com/track/55RZyhx870bLeuLOm95Sv8) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C), [Caztro](https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW), [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy), [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV) | [Letras Chiquitas](https://open.spotify.com/album/73q0l4bXdtlZXA9qb495ge) | 4:22 | 2026-04-12 |  |
 | [Llamando A Tu Fon](https://open.spotify.com/track/07lwUBDazPEFw2qvl9pERT) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Llamando A Tu Fon](https://open.spotify.com/album/2oXsW0YViUeRi38nZ41sl7) | 3:27 | 2023-11-10 | 2024-05-19 |
@@ -91,6 +91,7 @@
 | [Rosario / “Que Bueno Es Tenerte”](https://open.spotify.com/track/1Gqbvr9teof5F8vj7aBft4) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [BCN](https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd) | [Rosario / “Que Bueno Es Tenerte”](https://open.spotify.com/album/7skavgAUpwqlVd1svrsOZI) | 3:14 | 2024-10-27 | 2025-01-08 |
 | [Ruego](https://open.spotify.com/track/2QcwDtAaq2bVfDgTNgV79R) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Sui Géneris](https://open.spotify.com/album/5IT4wCmpYj4zeRJfQOaxL4) | 3:58 | 2025-02-16 |  |
 | [Saori / “Hematomas”](https://open.spotify.com/track/0mdxg9ZZRQjbIzYV0cl27J) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [La Loquera](https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI) | [Saori / “Hematomas”](https://open.spotify.com/album/7wBj5k4VscRKGeHGgmKNSL) | 3:37 | 2024-10-19 | 2025-02-16 |
+| [Se Imaginan](https://open.spotify.com/track/5S9jPE93mBQWUGCPxxvq5O) | [ElArturo](https://open.spotify.com/artist/2i64HL05WcatPAtIFUOZrL), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Se Imaginan](https://open.spotify.com/album/2hCIox9cMhMJL3AJmQQjIm) | 3:47 | 2026-05-03 |  |
 | [Si Nunca Va a Amanecer](https://open.spotify.com/track/1WhJWRZt4yHGtICCRZaJsb) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Smile](https://open.spotify.com/album/59E1bNNidXNQyLWzBwnPNu) | 3:33 | 2023-11-10 |  |
 | [Si Tú Te Vas](https://open.spotify.com/track/2N5GGKdxHZeQOxNDlZPfbP) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [La Loquera](https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI), [Ms\. Ambar](https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA) | [Máscaras](https://open.spotify.com/album/1e4hvdD4wgcEtABivupueQ) | 3:29 | 2025-03-24 |  |
 | [Si Tú Te Vas](https://open.spotify.com/track/2l6emeZ5kkLNTKwWVwmvnz) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [La Loquera](https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI), [Ms\. Ambar](https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA) | [Si Tú Te Vas](https://open.spotify.com/album/7cWtDxlsNhuIg4JLYJDVjV) | 3:29 | 2023-11-10 | 2025-03-24 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2tipyZnSXT4rMixqUyVpz6">Jon Shave</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 147 likes - 195 songs - 10 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 147 likes - 196 songs - 10 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -199,9 +199,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 | 189 | [The Feeling \- Tribute to DJ Fresh and RaVaughn](https://open.spotify.com/track/4uqdGFMvULvi9igshw966M) | [Music Waves](https://open.spotify.com/artist/5T0tLYHuLlEQ9ng3itmnrn) | [The Feeling \- Tribute to DJ Fresh and RaVaughn](https://open.spotify.com/album/75N26cF9ADxQQSbHl0Z4wb) | 4:57 |
 | 190 | [Saturday](https://open.spotify.com/track/5PKcv8T4xv1IbcW1s7lklP) | [RoZe](https://open.spotify.com/artist/3FnDrB5pRYfH6sN3FSw3L3) | [Greener Grass](https://open.spotify.com/album/6Rx9pQ9UbIDAPpNXvHPmGx) | 3:05 |
 | 191 | [You Go Too Fast \- Demo](https://open.spotify.com/track/1Yn8TF5NGEZALjrl6YKYAG) | [Girls Aloud](https://open.spotify.com/artist/12EtLdLfJ41vUOoVzPZIUy) | [Chemistry \(20th Anniversary Edition\)](https://open.spotify.com/album/0UuAQD9Qv1Nd51Z75kgNqp) | 3:53 |
-| 192 | [Crush](https://open.spotify.com/track/5cjyHKXAV1OCX8MpjoAglp) | [Louise](https://open.spotify.com/artist/27ul3mOdPyXZEtI17EjCWa) | [Confessions \(Super Deluxe Edition\)](https://open.spotify.com/album/1nB0GYarRd5bnenhk2FdA7) | 2:46 |
-| 193 | [Complicated](https://open.spotify.com/track/0q5e7MQkxdsjyXvi0R9r9x) | [Frank](https://open.spotify.com/artist/67AaTjklnlY8WITqoNBC0n) | [Devil's Got Your Gold](https://open.spotify.com/album/2aAmkJUKCQdkiEBRUTGErp) | 3:52 |
-| 194 | [Time](https://open.spotify.com/track/4IXo4QEaA0C5L1gmwcoLs6) | [Mali](https://open.spotify.com/artist/44hC0isoN7FTViV4xB4VsD) | [Time](https://open.spotify.com/album/3AnHWPc0t69do84olU1b7b) | 3:00 |
-| 195 | [What You Waiting For](https://open.spotify.com/track/1RCvjgA7wXjBcQuIJpKOG3) | [The Cat and Owl](https://open.spotify.com/artist/3gMxLPJN4ETgH10XwG37Wo) | [Lullaby Renditions of Sigala](https://open.spotify.com/album/5XoymdXUuLAHi2VoOiI2Th) | 3:46 |
+| 192 | [Daffodils](https://open.spotify.com/track/2gSRtzhKePCVZFIVCUrYc0) | [SISTRA](https://open.spotify.com/artist/0Y1A0tTg1P1q6FKqhM7grU) | [Daffodils](https://open.spotify.com/album/1hzfJ4kHvpSJ3RLMVBhzBL) | 2:40 |
+| 193 | [Crush](https://open.spotify.com/track/5cjyHKXAV1OCX8MpjoAglp) | [Louise](https://open.spotify.com/artist/27ul3mOdPyXZEtI17EjCWa) | [Confessions \(Super Deluxe Edition\)](https://open.spotify.com/album/1nB0GYarRd5bnenhk2FdA7) | 2:46 |
+| 194 | [Complicated](https://open.spotify.com/track/0q5e7MQkxdsjyXvi0R9r9x) | [Frank](https://open.spotify.com/artist/67AaTjklnlY8WITqoNBC0n) | [Devil's Got Your Gold](https://open.spotify.com/album/2aAmkJUKCQdkiEBRUTGErp) | 3:52 |
+| 195 | [Time](https://open.spotify.com/track/4IXo4QEaA0C5L1gmwcoLs6) | [Mali](https://open.spotify.com/artist/44hC0isoN7FTViV4xB4VsD) | [Time](https://open.spotify.com/album/3AnHWPc0t69do84olU1b7b) | 3:00 |
+| 196 | [What You Waiting For](https://open.spotify.com/track/1RCvjgA7wXjBcQuIJpKOG3) | [The Cat and Owl](https://open.spotify.com/artist/3gMxLPJN4ETgH10XwG37Wo) | [Lullaby Renditions of Sigala](https://open.spotify.com/album/5XoymdXUuLAHi2VoOiI2Th) | 3:46 |
 
-Snapshot ID: `AcQXHgAAAADUN24VKWvd0/Ns7B6Z9GgN`
+Snapshot ID: `AcQcvgAAAABH6Hj77N598IyruwyKvjV6`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2z72hy.md) - [plain]
 
 > This is Gondwana\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,430 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,439 likes - 50 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,15 +41,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2z72hy.md) - [plain]
 | 31 | [Pedigüeño](https://open.spotify.com/track/36Xd0R2zfa1r9Dk9z4Lcwd) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Grandes Exitos](https://open.spotify.com/album/5t2pcgpZR6Lo51JNb6s7jp) | 3:50 |
 | 32 | [Para Quien Avanza](https://open.spotify.com/track/318Xr1GlYpmDpGeHw89tNO) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Pincoya Calipso \- Pasado, Presente y Futuro](https://open.spotify.com/album/7wrqy1Srwe2QqpYb4Rq7V6) | 3:56 |
 | 33 | [Mejor que intentes otra vez](https://open.spotify.com/track/6guOLD8ZATZLXlK7u6NdqT) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Resiliente](https://open.spotify.com/album/1x6C4CFPw4B4w9KUguHQGo) | 3:56 |
-| 34 | [CAHUITA](https://open.spotify.com/track/732CZbCmAqOO7OkSTCyiNt) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [CAHUITA](https://open.spotify.com/album/6wZlcqCJd3bX4gDQjloUtQ) | 3:35 |
+| 34 | [Nada Cambio](https://open.spotify.com/track/7I8uaDNQuJWQbguh7JPWvm) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Crece](https://open.spotify.com/album/3B5dbgQh0IvFD47xLnDvPr) | 4:07 |
 | 35 | [Quemando Tu Pecho](https://open.spotify.com/track/5MRAyyeWEQvcsf9BdruIIY) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Carpe Diem](https://open.spotify.com/album/0hjSy3tFI2uK4RcppyNASu) | 4:19 |
-| 36 | [Nada Cambio](https://open.spotify.com/track/7I8uaDNQuJWQbguh7JPWvm) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Crece](https://open.spotify.com/album/3B5dbgQh0IvFD47xLnDvPr) | 4:07 |
+| 36 | [CAHUITA](https://open.spotify.com/track/732CZbCmAqOO7OkSTCyiNt) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [CAHUITA](https://open.spotify.com/album/6wZlcqCJd3bX4gDQjloUtQ) | 3:35 |
 | 37 | [Absalom](https://open.spotify.com/track/2YgIp3bhveVkGpmu9JyGmr) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Resiliente](https://open.spotify.com/album/1x6C4CFPw4B4w9KUguHQGo) | 3:24 |
 | 38 | [Down Under](https://open.spotify.com/track/1lQYp5d5lSNTUZLLsVMjuQ) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Down Under](https://open.spotify.com/album/6qdt9fquwz1kjy5LZMmtuV) | 3:36 |
-| 39 | [Mucho Verso](https://open.spotify.com/track/1pTDULhEDv0n8W6Aqnw5ro) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Reggae N Roll](https://open.spotify.com/album/0xvEOmEMONX0ohVCUcudb5) | 3:58 |
-| 40 | [No Desesperes](https://open.spotify.com/track/4gvUtG1oO9EnXs5hk6UYjz) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Crece](https://open.spotify.com/album/3B5dbgQh0IvFD47xLnDvPr) | 3:51 |
+| 39 | [No Desesperes](https://open.spotify.com/track/4gvUtG1oO9EnXs5hk6UYjz) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Crece](https://open.spotify.com/album/3B5dbgQh0IvFD47xLnDvPr) | 3:51 |
+| 40 | [We Push Away Good Memories](https://open.spotify.com/track/37ZfyexbuT4zzAvofCjDCL) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd), [Ky\-Mani Marley](https://open.spotify.com/artist/1XTGADISSMRf8B4TcVGYUC), [Matthew Jacquette](https://open.spotify.com/artist/7fsjCnNgAkjX9iLny7g0dE) | [Carpe Diem](https://open.spotify.com/album/0hjSy3tFI2uK4RcppyNASu) | 3:24 |
 | 41 | [Warning!](https://open.spotify.com/track/4YvGJze3VIIxtOQzSWaQLg) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Resiliente](https://open.spotify.com/album/1x6C4CFPw4B4w9KUguHQGo) | 3:42 |
-| 42 | [We Push Away Good Memories](https://open.spotify.com/track/37ZfyexbuT4zzAvofCjDCL) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd), [Ky\-Mani Marley](https://open.spotify.com/artist/1XTGADISSMRf8B4TcVGYUC), [Matthew Jacquette](https://open.spotify.com/artist/7fsjCnNgAkjX9iLny7g0dE) | [Carpe Diem](https://open.spotify.com/album/0hjSy3tFI2uK4RcppyNASu) | 3:24 |
+| 42 | [Mucho Verso](https://open.spotify.com/track/1pTDULhEDv0n8W6Aqnw5ro) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Reggae N Roll](https://open.spotify.com/album/0xvEOmEMONX0ohVCUcudb5) | 3:58 |
 | 43 | [AMOR SUICIDA](https://open.spotify.com/track/7bvHjhBit28ylRpfEXVzKt) | [Huecco](https://open.spotify.com/artist/6Zd2JZF0kIBpeyv2FlPh8i), [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [CrazyXXversario](https://open.spotify.com/album/3Pdlrki6kwTwAjaRCUAain) | 3:32 |
 | 44 | [Estoy Volviendo a Mi Hogar](https://open.spotify.com/track/3Sw2qcUGbe8OwhIk2I1Tds) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Revolución \(Bonus Track Version\)](https://open.spotify.com/album/2q9SKZyjttHPnRTcV7cDAg) | 4:20 |
 | 45 | [Fueguito](https://open.spotify.com/track/0cxFGepcu5U3UKh4pcJ3oV) | [Malacates Trebol Shop](https://open.spotify.com/artist/6Nc4k4Y5rX6YgnBsoXGJjG), [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Fueguito](https://open.spotify.com/album/0EqCTOhS8wMpVVBytWAVvP) | 4:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2z72hy.md) - [plain]
 | 49 | [Si No Fuera](https://open.spotify.com/track/5ohIvkIdzrX3Q9UWqojvkM) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Carpe Diem](https://open.spotify.com/album/0hjSy3tFI2uK4RcppyNASu) | 3:38 |
 | 50 | [Si Tú No Estás](https://open.spotify.com/track/4HtwQqBnhftAYqeiww9Rme) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd), [E.N Young](https://open.spotify.com/artist/14vjE0DKC1Y9G1WfdCSzFf) | [Si Tú No Estás](https://open.spotify.com/album/3UNLDMe86tqLPxyXz4dZHi) | 3:10 |
 
-Snapshot ID: `afKbgAAAAAD2+IeCSPIumJNKduM6cCOl`
+Snapshot ID: `afPtAAAAAADyNVkMgwPvBUb6aAmVMCgW`

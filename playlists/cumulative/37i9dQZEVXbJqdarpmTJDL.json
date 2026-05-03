@@ -176,7 +176,7 @@
       ],
       "date_added": "2026-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 429992,
       "name": "10",
       "url": "https://open.spotify.com/track/3XT73arrrezT7blX8KDd8K"
@@ -2316,7 +2316,7 @@
       ],
       "date_added": "2026-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 244600,
       "name": "Aigaio",
       "url": "https://open.spotify.com/track/7fjXdCjbcpxRxCbTJHEiOi"
@@ -4194,7 +4194,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 197560,
       "name": "Anadromika",
       "url": "https://open.spotify.com/track/4SP5sNmfpJP5oV2LrqzE6A"
@@ -5067,6 +5067,28 @@
     },
     {
       "album": {
+        "name": "Ergo 3",
+        "url": "https://open.spotify.com/album/25mlVZYFC2FTLJSjNoPLGt"
+      },
+      "artists": [
+        {
+          "name": "Bossikan",
+          "url": "https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM"
+        },
+        {
+          "name": "Fuzy",
+          "url": "https://open.spotify.com/artist/1AFkGjh07arcwjnUNGZ6Yy"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125217,
+      "name": "Artistas",
+      "url": "https://open.spotify.com/track/5QHUBy0eDXgnTAbipq1hql"
+    },
+    {
+      "album": {
         "name": "ARXH & TELOS",
         "url": "https://open.spotify.com/album/4uaSlLzaGiTBnUq8aH7CER"
       },
@@ -5659,6 +5681,32 @@
     },
     {
       "album": {
+        "name": "Ergo 3",
+        "url": "https://open.spotify.com/album/25mlVZYFC2FTLJSjNoPLGt"
+      },
+      "artists": [
+        {
+          "name": "Bossikan",
+          "url": "https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM"
+        },
+        {
+          "name": "Yolte",
+          "url": "https://open.spotify.com/artist/41Pv6UAIHbAoaWNKRTdENm"
+        },
+        {
+          "name": "Icelee",
+          "url": "https://open.spotify.com/artist/2zj3FEs4NYe6Ij6hZsQ05F"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128571,
+      "name": "Auto Zitaw",
+      "url": "https://open.spotify.com/track/0G9DcvJol66ReyJhia3aK2"
+    },
+    {
+      "album": {
         "name": "AUTOS",
         "url": "https://open.spotify.com/album/5zBsIrSYkD7pa4XYLAOqLs"
       },
@@ -5726,7 +5774,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 250212,
       "name": "AVASIMA STOIXEIA",
       "url": "https://open.spotify.com/track/3Nb7cNFSCPpr8FAyNNxUq7"
@@ -7070,7 +7118,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 227986,
       "name": "Beauty And A Beat",
       "url": "https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7"
@@ -7176,7 +7224,7 @@
       ],
       "date_added": "2026-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 195630,
       "name": "BELLA",
       "url": "https://open.spotify.com/track/0uOlfFtQMtPhXiaUraMUJA"
@@ -7478,7 +7526,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-19",
+      "date_removed": null,
       "duration_ms": 188400,
       "name": "Beverly Hills",
       "url": "https://open.spotify.com/track/5j2qq0EBEAceOdff92l4qZ"
@@ -10568,7 +10616,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 203244,
       "name": "CHATGPT",
       "url": "https://open.spotify.com/track/5m9pK3a3oMIbZHThbyraDi"
@@ -10664,7 +10712,7 @@
       ],
       "date_added": "2026-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 130384,
       "name": "CHECKS",
       "url": "https://open.spotify.com/track/3SScDeSOibZKagVI11nTgX"
@@ -11006,6 +11054,32 @@
       "duration_ms": 238187,
       "name": "Clue",
       "url": "https://open.spotify.com/track/2py9zZULCf4tETGeVaN8Sj"
+    },
+    {
+      "album": {
+        "name": "Ergo 3",
+        "url": "https://open.spotify.com/album/25mlVZYFC2FTLJSjNoPLGt"
+      },
+      "artists": [
+        {
+          "name": "Bossikan",
+          "url": "https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM"
+        },
+        {
+          "name": "RSK",
+          "url": "https://open.spotify.com/artist/4Sq0sqGh23EU4edMNZ9Jfi"
+        },
+        {
+          "name": "Fuzy",
+          "url": "https://open.spotify.com/artist/1AFkGjh07arcwjnUNGZ6Yy"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141111,
+      "name": "Coca Queen",
+      "url": "https://open.spotify.com/track/0NAMkUwHzWruG9fra6cbEc"
     },
     {
       "album": {
@@ -11924,7 +11998,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 146830,
       "name": "D&G",
       "url": "https://open.spotify.com/track/5VNBy5hm6VCbizFO2PkSBW"
@@ -12329,6 +12403,28 @@
     },
     {
       "album": {
+        "name": "Ergo 3",
+        "url": "https://open.spotify.com/album/25mlVZYFC2FTLJSjNoPLGt"
+      },
+      "artists": [
+        {
+          "name": "Bossikan",
+          "url": "https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM"
+        },
+        {
+          "name": "Tanas Yos",
+          "url": "https://open.spotify.com/artist/6iP5eyVf9XL7ycgNWCeSsO"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153290,
+      "name": "Day Ones",
+      "url": "https://open.spotify.com/track/2mSJwsbBW70UOle1iA41xk"
+    },
+    {
+      "album": {
         "name": "For All The Dogs",
         "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
       },
@@ -12690,7 +12786,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 159483,
       "name": "DEDDHE",
       "url": "https://open.spotify.com/track/4lfbNdBhsdoeQvDsNnp5OO"
@@ -13093,6 +13189,32 @@
     },
     {
       "album": {
+        "name": "Ergo 3",
+        "url": "https://open.spotify.com/album/25mlVZYFC2FTLJSjNoPLGt"
+      },
+      "artists": [
+        {
+          "name": "Bossikan",
+          "url": "https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM"
+        },
+        {
+          "name": "DIFF",
+          "url": "https://open.spotify.com/artist/4rtNK25TiSGNcibilGWcQK"
+        },
+        {
+          "name": "Gojix",
+          "url": "https://open.spotify.com/artist/7FCGLRP4m1BIMGGn4ej0Qi"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173503,
+      "name": "Den Sikono",
+      "url": "https://open.spotify.com/track/3tMZC9khIzmSzQZDzLA6m2"
+    },
+    {
+      "album": {
         "name": "I Stenahoria Mou",
         "url": "https://open.spotify.com/album/3hLbAY0zf9NL3oZMmguDoz"
       },
@@ -13164,6 +13286,28 @@
       "duration_ms": 181271,
       "name": "DEPRESSED",
       "url": "https://open.spotify.com/track/4kjTs8OvnrgnJuYggJNUIi"
+    },
+    {
+      "album": {
+        "name": "Ergo 3",
+        "url": "https://open.spotify.com/album/25mlVZYFC2FTLJSjNoPLGt"
+      },
+      "artists": [
+        {
+          "name": "Bossikan",
+          "url": "https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM"
+        },
+        {
+          "name": "Gojix",
+          "url": "https://open.spotify.com/artist/7FCGLRP4m1BIMGGn4ej0Qi"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171940,
+      "name": "Depression",
+      "url": "https://open.spotify.com/track/3BhXrRdAosdjz3Jnc9svU2"
     },
     {
       "album": {
@@ -13602,7 +13746,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 200412,
       "name": "DIO KARDIES",
       "url": "https://open.spotify.com/track/6aWGBnKRmgH7pBpEhRMnPy"
@@ -13764,6 +13908,28 @@
       "duration_ms": 165124,
       "name": "Diva",
       "url": "https://open.spotify.com/track/2bDZ9Hya1LDcUdF3co1X2u"
+    },
+    {
+      "album": {
+        "name": "Ergo 3",
+        "url": "https://open.spotify.com/album/25mlVZYFC2FTLJSjNoPLGt"
+      },
+      "artists": [
+        {
+          "name": "Bossikan",
+          "url": "https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM"
+        },
+        {
+          "name": "Ortiz",
+          "url": "https://open.spotify.com/artist/6nidPawoE1wPgAtFmeyXyR"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176750,
+      "name": "DNA",
+      "url": "https://open.spotify.com/track/5hf3yPD8opAIRYt5G0R9Ye"
     },
     {
       "album": {
@@ -16337,6 +16503,28 @@
     },
     {
       "album": {
+        "name": "Ergo 3",
+        "url": "https://open.spotify.com/album/25mlVZYFC2FTLJSjNoPLGt"
+      },
+      "artists": [
+        {
+          "name": "Bossikan",
+          "url": "https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM"
+        },
+        {
+          "name": "Tanas Yos",
+          "url": "https://open.spotify.com/artist/6iP5eyVf9XL7ycgNWCeSsO"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162403,
+      "name": "Enola",
+      "url": "https://open.spotify.com/track/6u7CdpJDRDVUpc0373uSyd"
+    },
+    {
+      "album": {
         "name": "Enoxoi Kai Athooi",
         "url": "https://open.spotify.com/album/1HZgQqw1ldTIeCfPGqQMyG"
       },
@@ -16881,6 +17069,32 @@
     },
     {
       "album": {
+        "name": "Ergo 3",
+        "url": "https://open.spotify.com/album/25mlVZYFC2FTLJSjNoPLGt"
+      },
+      "artists": [
+        {
+          "name": "Bossikan",
+          "url": "https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM"
+        },
+        {
+          "name": "TSE",
+          "url": "https://open.spotify.com/artist/06dkSTsCWI3Lk4OR3g9FPe"
+        },
+        {
+          "name": "Argy W",
+          "url": "https://open.spotify.com/artist/09jvb1PSu3RmNptnHOXGIk"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Escort",
+      "url": "https://open.spotify.com/track/7kyhAn7I3M9fCtQJIJE1J4"
+    },
+    {
+      "album": {
         "name": "Esena",
         "url": "https://open.spotify.com/album/4K0Mf8ZpkPxuOYuvFQwkaw"
       },
@@ -17412,7 +17626,7 @@
       ],
       "date_added": "2026-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 173308,
       "name": "Exigiste Mou",
       "url": "https://open.spotify.com/track/3hqEXohUvBy76CKAxK2A9R"
@@ -17434,7 +17648,7 @@
       ],
       "date_added": "2026-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 144000,
       "name": "EXW NEA SOU",
       "url": "https://open.spotify.com/track/3s7rVHeKBsHuC1Qx8bciIG"
@@ -17884,7 +18098,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 149333,
       "name": "FANELA",
       "url": "https://open.spotify.com/track/09GvbPHAGUkFgB9tIRaQYb"
@@ -18206,7 +18420,7 @@
       ],
       "date_added": "2026-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 193548,
       "name": "FEGGARAKI",
       "url": "https://open.spotify.com/track/6u1xjnakggWFYeCgdrYKr0"
@@ -18648,6 +18862,32 @@
       "duration_ms": 131351,
       "name": "FINOS FILM",
       "url": "https://open.spotify.com/track/3Q78butABFYlJZFIIlJZXd"
+    },
+    {
+      "album": {
+        "name": "SUMMER GETAWAY",
+        "url": "https://open.spotify.com/album/3ALkCTlPvj7HC3cw26EvcI"
+      },
+      "artists": [
+        {
+          "name": "Likeboss",
+          "url": "https://open.spotify.com/artist/5gw7flNXQt0oQ5taY1as73"
+        },
+        {
+          "name": "Arab",
+          "url": "https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a"
+        },
+        {
+          "name": "Echo",
+          "url": "https://open.spotify.com/artist/0JfrxGQOdnHYZWBAtzPezD"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "FIRMINO",
+      "url": "https://open.spotify.com/track/4QzDOpaEg5dY6dQY4hP1wI"
     },
     {
       "album": {
@@ -21940,7 +22180,7 @@
       ],
       "date_added": "2026-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 177230,
       "name": "GOOD LUCK",
       "url": "https://open.spotify.com/track/3Zg7YKBnryTuQn8BeOO4rZ"
@@ -25743,6 +25983,28 @@
     },
     {
       "album": {
+        "name": "Ergo 3",
+        "url": "https://open.spotify.com/album/25mlVZYFC2FTLJSjNoPLGt"
+      },
+      "artists": [
+        {
+          "name": "Bossikan",
+          "url": "https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM"
+        },
+        {
+          "name": "Gojix",
+          "url": "https://open.spotify.com/artist/7FCGLRP4m1BIMGGn4ej0Qi"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138187,
+      "name": "Juice / Demon Time",
+      "url": "https://open.spotify.com/track/5XDYMsaKDgMiewgdVKaW7P"
+    },
+    {
+      "album": {
         "name": "Donda",
         "url": "https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA"
       },
@@ -28206,7 +28468,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 154705,
       "name": "KOUKLA",
       "url": "https://open.spotify.com/track/2OtlJi8vzajxp51W9gYwCO"
@@ -28356,6 +28618,32 @@
       "duration_ms": 184000,
       "name": "KRISTY",
       "url": "https://open.spotify.com/track/7Eo50lcMqtHXAfjVW3ladX"
+    },
+    {
+      "album": {
+        "name": "SUMMER GETAWAY",
+        "url": "https://open.spotify.com/album/3ALkCTlPvj7HC3cw26EvcI"
+      },
+      "artists": [
+        {
+          "name": "Likeboss",
+          "url": "https://open.spotify.com/artist/5gw7flNXQt0oQ5taY1as73"
+        },
+        {
+          "name": "Kidd",
+          "url": "https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou"
+        },
+        {
+          "name": "Echo",
+          "url": "https://open.spotify.com/artist/0JfrxGQOdnHYZWBAtzPezD"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168750,
+      "name": "KRYA VLEMMATA",
+      "url": "https://open.spotify.com/track/0K2k2CIlpV7j5wdskDBUIk"
     },
     {
       "album": {
@@ -28760,6 +29048,36 @@
       "duration_ms": 92160,
       "name": "Kymata",
       "url": "https://open.spotify.com/track/2Ji8CD64Uv37IhkCjpOcHW"
+    },
+    {
+      "album": {
+        "name": "Ergo 3",
+        "url": "https://open.spotify.com/album/25mlVZYFC2FTLJSjNoPLGt"
+      },
+      "artists": [
+        {
+          "name": "Bossikan",
+          "url": "https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM"
+        },
+        {
+          "name": "Tanas Yos",
+          "url": "https://open.spotify.com/artist/6iP5eyVf9XL7ycgNWCeSsO"
+        },
+        {
+          "name": "Loco Franco",
+          "url": "https://open.spotify.com/artist/0bZmwQpF7Rnenp3McVjVeP"
+        },
+        {
+          "name": "duKYS",
+          "url": "https://open.spotify.com/artist/2sodpTtk7UOG4z5ZtIHg89"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Kyrile Remali",
+      "url": "https://open.spotify.com/track/2IFcPdZlCRavGSbV3wcJ41"
     },
     {
       "album": {
@@ -31919,6 +32237,32 @@
     },
     {
       "album": {
+        "name": "SUMMER GETAWAY",
+        "url": "https://open.spotify.com/album/3ALkCTlPvj7HC3cw26EvcI"
+      },
+      "artists": [
+        {
+          "name": "Likeboss",
+          "url": "https://open.spotify.com/artist/5gw7flNXQt0oQ5taY1as73"
+        },
+        {
+          "name": "HermesHermes",
+          "url": "https://open.spotify.com/artist/5PeCMyf2BO8RlAujWP0erY"
+        },
+        {
+          "name": "Echo",
+          "url": "https://open.spotify.com/artist/0JfrxGQOdnHYZWBAtzPezD"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108000,
+      "name": "MALIBU",
+      "url": "https://open.spotify.com/track/0aH4QUUau3MYFKhxfk0dks"
+    },
+    {
+      "album": {
         "name": "VERY RARE",
         "url": "https://open.spotify.com/album/5DOZblhavobX4qd3Q7ollG"
       },
@@ -32857,6 +33201,28 @@
     },
     {
       "album": {
+        "name": "Ergo 3",
+        "url": "https://open.spotify.com/album/25mlVZYFC2FTLJSjNoPLGt"
+      },
+      "artists": [
+        {
+          "name": "Bossikan",
+          "url": "https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM"
+        },
+        {
+          "name": "Tanas Yos",
+          "url": "https://open.spotify.com/artist/6iP5eyVf9XL7ycgNWCeSsO"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81126,
+      "name": "Matrix (Intro)",
+      "url": "https://open.spotify.com/track/3ZZDHUyHZlZ46rrHm2lHkE"
+    },
+    {
+      "album": {
         "name": "Mauro Gyali",
         "url": "https://open.spotify.com/album/4SnGpaBniieMAzWRT0y7ra"
       },
@@ -33209,6 +33575,28 @@
     },
     {
       "album": {
+        "name": "Ergo 3",
+        "url": "https://open.spotify.com/album/25mlVZYFC2FTLJSjNoPLGt"
+      },
+      "artists": [
+        {
+          "name": "Bossikan",
+          "url": "https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM"
+        },
+        {
+          "name": "Argy W",
+          "url": "https://open.spotify.com/artist/09jvb1PSu3RmNptnHOXGIk"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151181,
+      "name": "Me Ena Whiskey",
+      "url": "https://open.spotify.com/track/68UvWrlFCNapPplJiXlaCs"
+    },
+    {
+      "album": {
         "name": "11 Me Liga Logia",
         "url": "https://open.spotify.com/album/5nEWR0VKb4FVUEVn1wD0Oe"
       },
@@ -33246,6 +33634,28 @@
       "duration_ms": 165000,
       "name": "ME N U",
       "url": "https://open.spotify.com/track/2ouWSRC1YsQX6JAwosfTFJ"
+    },
+    {
+      "album": {
+        "name": "Ergo 3",
+        "url": "https://open.spotify.com/album/25mlVZYFC2FTLJSjNoPLGt"
+      },
+      "artists": [
+        {
+          "name": "Bossikan",
+          "url": "https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM"
+        },
+        {
+          "name": "Giko",
+          "url": "https://open.spotify.com/artist/3iNAQ2yMPGvxfn165auMJJ"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "Me Pernei Apo Katw Otan Feugeis",
+      "url": "https://open.spotify.com/track/3rFe0o5xOQakVFp5NzEAxb"
     },
     {
       "album": {
@@ -33304,7 +33714,7 @@
       ],
       "date_added": "2026-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 179573,
       "name": "Me Xodepses",
       "url": "https://open.spotify.com/track/2XDgYSMOmSSjNGpDoJCPDJ"
@@ -33732,7 +34142,7 @@
       ],
       "date_added": "2026-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 151034,
       "name": "MESSI",
       "url": "https://open.spotify.com/track/5llZA8BwgV9fKr7cuRoiQH"
@@ -37323,6 +37733,28 @@
     },
     {
       "album": {
+        "name": "Ergo 3",
+        "url": "https://open.spotify.com/album/25mlVZYFC2FTLJSjNoPLGt"
+      },
+      "artists": [
+        {
+          "name": "Bossikan",
+          "url": "https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM"
+        },
+        {
+          "name": "Tanas Yos",
+          "url": "https://open.spotify.com/artist/6iP5eyVf9XL7ycgNWCeSsO"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114285,
+      "name": "Ninini",
+      "url": "https://open.spotify.com/track/21CblSIEL30gPpq4qfEGUK"
+    },
+    {
+      "album": {
         "name": "NINTENTO",
         "url": "https://open.spotify.com/album/4CAcppjIIkJlTmbvWREYcV"
       },
@@ -38878,7 +39310,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 130000,
       "name": "Oloi",
       "url": "https://open.spotify.com/track/3vf4jc8eUcmsFxmsygVz6v"
@@ -39250,7 +39682,7 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 178066,
       "name": "OP TI EGINE?",
       "url": "https://open.spotify.com/track/46PHloRvhwUO728FcaQmzx"
@@ -42377,6 +42809,32 @@
     },
     {
       "album": {
+        "name": "Ergo 3",
+        "url": "https://open.spotify.com/album/25mlVZYFC2FTLJSjNoPLGt"
+      },
+      "artists": [
+        {
+          "name": "Bossikan",
+          "url": "https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM"
+        },
+        {
+          "name": "Kareem Kalokoh",
+          "url": "https://open.spotify.com/artist/6fIBCdiEDMUziaNwDi2Awb"
+        },
+        {
+          "name": "Tony Fragment",
+          "url": "https://open.spotify.com/artist/1wJgXiiCi9LunRlb0nrrxj"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Pinw Les",
+      "url": "https://open.spotify.com/track/5GYsGcUJfDggt7YXSeJ6ji"
+    },
+    {
+      "album": {
         "name": "FOREVER RICH",
         "url": "https://open.spotify.com/album/56g5Gpf9lo2se0EKFKSOS6"
       },
@@ -42667,6 +43125,32 @@
     },
     {
       "album": {
+        "name": "Ergo 3",
+        "url": "https://open.spotify.com/album/25mlVZYFC2FTLJSjNoPLGt"
+      },
+      "artists": [
+        {
+          "name": "Bossikan",
+          "url": "https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM"
+        },
+        {
+          "name": "Fuzy",
+          "url": "https://open.spotify.com/artist/1AFkGjh07arcwjnUNGZ6Yy"
+        },
+        {
+          "name": "Giko",
+          "url": "https://open.spotify.com/artist/3iNAQ2yMPGvxfn165auMJJ"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "Plasma Tis Nyxtas",
+      "url": "https://open.spotify.com/track/3v7xLpZeM0g56Jjv9xYCV7"
+    },
+    {
+      "album": {
         "name": "Ola Mou Ta S' Agapo",
         "url": "https://open.spotify.com/album/3UPmwIj9Uhc7Ti323agnVs"
       },
@@ -42704,7 +43188,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 215937,
       "name": "Plati",
       "url": "https://open.spotify.com/track/4UJdWyF20InwrXuwJQtOio"
@@ -46414,7 +46898,7 @@
       ],
       "date_added": "2023-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-12",
+      "date_removed": null,
       "duration_ms": 188411,
       "name": "Sagapw",
       "url": "https://open.spotify.com/track/2iKjK6sz9UxWDKtRWEJTfd"
@@ -50175,6 +50659,28 @@
     },
     {
       "album": {
+        "name": "Ergo 3",
+        "url": "https://open.spotify.com/album/25mlVZYFC2FTLJSjNoPLGt"
+      },
+      "artists": [
+        {
+          "name": "Bossikan",
+          "url": "https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM"
+        },
+        {
+          "name": "Giko",
+          "url": "https://open.spotify.com/artist/3iNAQ2yMPGvxfn165auMJJ"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116363,
+      "name": "Sto Tilefono (Outro)",
+      "url": "https://open.spotify.com/track/1p50vkiTNEh7MvpTwZRJ9f"
+    },
+    {
+      "album": {
         "name": "Fthina Tricks 2",
         "url": "https://open.spotify.com/album/723nAhgLLTPuxBuJlsNSOU"
       },
@@ -52461,6 +52967,28 @@
     },
     {
       "album": {
+        "name": "Ergo 3",
+        "url": "https://open.spotify.com/album/25mlVZYFC2FTLJSjNoPLGt"
+      },
+      "artists": [
+        {
+          "name": "Bossikan",
+          "url": "https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM"
+        },
+        {
+          "name": "Ortiz",
+          "url": "https://open.spotify.com/artist/6nidPawoE1wPgAtFmeyXyR"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Thalassa",
+      "url": "https://open.spotify.com/track/3Z18wLiHatZoMOgxvWU36E"
+    },
+    {
+      "album": {
         "name": "UTOPIA",
         "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
       },
@@ -53479,6 +54007,28 @@
     },
     {
       "album": {
+        "name": "Ergo 3",
+        "url": "https://open.spotify.com/album/25mlVZYFC2FTLJSjNoPLGt"
+      },
+      "artists": [
+        {
+          "name": "Bossikan",
+          "url": "https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM"
+        },
+        {
+          "name": "Gojix",
+          "url": "https://open.spotify.com/artist/7FCGLRP4m1BIMGGn4ej0Qi"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187857,
+      "name": "Tipota",
+      "url": "https://open.spotify.com/track/6hEjhBhAAxtWK6HyH2XGgI"
+    },
+    {
+      "album": {
         "name": "Tipota",
         "url": "https://open.spotify.com/album/3fmpc9PM480kjDbTrD18H8"
       },
@@ -54072,7 +54622,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 205682,
       "name": "To Vals Ton Oniron",
       "url": "https://open.spotify.com/track/1qjoWfwVtNqH5VBEkGorzg"
@@ -56314,7 +56864,7 @@
       ],
       "date_added": "2026-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 134814,
       "name": "VEGANZE",
       "url": "https://open.spotify.com/track/2JEGhmNcVRAcSmuiQfT7pa"
@@ -57900,7 +58450,7 @@
       ],
       "date_added": "2026-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 174222,
       "name": "XAPIA",
       "url": "https://open.spotify.com/track/5jJof6Gm55PcMtSsh7Kfxz"

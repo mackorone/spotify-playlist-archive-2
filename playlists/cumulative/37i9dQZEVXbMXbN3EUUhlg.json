@@ -1670,7 +1670,7 @@
       ],
       "date_added": "2026-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-29",
+      "date_removed": null,
       "duration_ms": 175228,
       "name": "Admita - Ao Vivo",
       "url": "https://open.spotify.com/track/2YKc5o2kQ6e1Pch1DwpjkO"
@@ -2332,7 +2332,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-24",
+      "date_removed": null,
       "duration_ms": 162580,
       "name": "Ama Um Maloqueiro",
       "url": "https://open.spotify.com/track/2ejSYn4SfoE07mXPlnYVED"
@@ -3178,6 +3178,28 @@
       "duration_ms": 147860,
       "name": "Aproveita - Ao Vivo",
       "url": "https://open.spotify.com/track/368hYqtNCKCAeUduMoSHhh"
+    },
+    {
+      "album": {
+        "name": "Pared\u00e3o do Nattan (Ao Vivo Em Fortaleza)",
+        "url": "https://open.spotify.com/album/42CsFg3kxKccXG5YONxcaS"
+      },
+      "artists": [
+        {
+          "name": "NATTAN",
+          "url": "https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT"
+        },
+        {
+          "name": "Z\u00e9 Vaqueiro",
+          "url": "https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156579,
+      "name": "Aproveita Que Eu T\u00f4 Brigado - Ao Vivo",
+      "url": "https://open.spotify.com/track/6bpIrlJ06Fb6amL5M9djmi"
     },
     {
       "album": {
@@ -4064,7 +4086,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 97960,
       "name": "Babydoll",
       "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
@@ -4944,7 +4966,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 258296,
       "name": "Beat It",
       "url": "https://open.spotify.com/track/3BovdzfaX4jb5KFQwoPfAw"
@@ -4970,7 +4992,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 247980,
       "name": "Beatriz",
       "url": "https://open.spotify.com/track/3RDv5uDgHJS8wBdPkoCXUF"
@@ -5028,7 +5050,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 227986,
       "name": "Beauty And A Beat",
       "url": "https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7"
@@ -5156,6 +5178,24 @@
       "duration_ms": 211560,
       "name": "Beggin'",
       "url": "https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e"
+    },
+    {
+      "album": {
+        "name": "O D\u00e9cimo Vol. 01 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/01RN9v5oNWXowBVShhHmzV"
+      },
+      "artists": [
+        {
+          "name": "Diego & Victor Hugo",
+          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183601,
+      "name": "Beijei A Cura - Ao Vivo",
+      "url": "https://open.spotify.com/track/2GY3DHh5ApNhnkYSjh9Bc8"
     },
     {
       "album": {
@@ -5762,7 +5802,7 @@
       ],
       "date_added": "2026-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 189725,
       "name": "Body to Body",
       "url": "https://open.spotify.com/track/2rKkfc4VZ74FQDc1FF1Zo6"
@@ -8560,7 +8600,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-29",
+      "date_removed": null,
       "duration_ms": 195794,
       "name": "Cora\u00e7\u00e3o Partido (Coraz\u00f3n Part\u00edo) - Ao Vivo",
       "url": "https://open.spotify.com/track/6Kyl2nFgU0J8WBlbBvDv6g"
@@ -10974,7 +11014,7 @@
       ],
       "date_added": "2026-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-28",
+      "date_removed": null,
       "duration_ms": 191154,
       "name": "Dois Gumes (Ao Vivo)",
       "url": "https://open.spotify.com/track/6Exec6nPRIwvAEu3N8pVnT"
@@ -16912,7 +16952,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 182046,
       "name": "Hooligan",
       "url": "https://open.spotify.com/track/20dAJsyno9ZoBLJtqgQnUI"
@@ -27953,6 +27993,28 @@
     },
     {
       "album": {
+        "name": "Pe\u00e3o Todo Tatuado",
+        "url": "https://open.spotify.com/album/1K4G4HwbkRTxwhlEOy9HWL"
+      },
+      "artists": [
+        {
+          "name": "Jeninho",
+          "url": "https://open.spotify.com/artist/6MV2UXdX8Pqy25rI7dl6os"
+        },
+        {
+          "name": "Mariana Fagundes",
+          "url": "https://open.spotify.com/artist/63yBOaK3N1kG2g1M5ZxBox"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133563,
+      "name": "Pe\u00e3o Todo Tatuado",
+      "url": "https://open.spotify.com/track/1wrA9K1P177mkPNt9BB2OZ"
+    },
+    {
+      "album": {
         "name": "Pe\u00e7a \u00cdntima",
         "url": "https://open.spotify.com/album/1Tf3Ooizx4fstK5vp6rtfF"
       },
@@ -32262,7 +32324,7 @@
       ],
       "date_added": "2026-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 192034,
       "name": "Seja Ex (Ao Vivo)",
       "url": "https://open.spotify.com/track/5jP9oqulg2Dz6yLwLYj5KO"
@@ -38484,7 +38546,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 335999,
       "name": "Vai Tomando Pock Pock",
       "url": "https://open.spotify.com/track/2WYuivMCuOQbxhaatuWUCN"
@@ -39860,7 +39922,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-31",
+      "date_removed": null,
       "duration_ms": 281774,
       "name": "Vou pela Madrugada",
       "url": "https://open.spotify.com/track/3p58wJmZqIc9RjsdeZ5Jfq"

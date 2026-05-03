@@ -16,7 +16,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 253586,
       "name": "505",
       "url": "https://open.spotify.com/track/58ge6dfP91o9oXMzq3XkIS"
@@ -70,7 +70,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 200315,
       "name": "An Alien in Love",
       "url": "https://open.spotify.com/track/67wot02aG1ayPZ2gb7YVoF"
@@ -124,7 +124,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 254764,
       "name": "Ballad of a Badman",
       "url": "https://open.spotify.com/track/2PLOCIYlFr8XxNsz0Lgs4l"
@@ -160,7 +160,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 121364,
       "name": "Billie Jean Freestyle",
       "url": "https://open.spotify.com/track/3lNVBDUD9ybAq4yK3VV4Ns"
@@ -715,6 +715,56 @@
     },
     {
       "album": {
+        "name": "EPIC: The Wisdom Saga (Official Concept Album)",
+        "url": "https://open.spotify.com/album/5IaGIT4jt1J2JAXrOBPPck"
+      },
+      "artists": [
+        {
+          "name": "Jorge Rivera-Herrans",
+          "url": "https://open.spotify.com/artist/2kdmTOXncgNHSuYVMhdd5I"
+        },
+        {
+          "name": "Teagan Earley",
+          "url": "https://open.spotify.com/artist/1iM9uHQqsPQvZ087a5pf5w"
+        },
+        {
+          "name": "Luke Holt",
+          "url": "https://open.spotify.com/artist/3Bgch077fZjxvqwRrklrES"
+        },
+        {
+          "name": "Brandon McInnis",
+          "url": "https://open.spotify.com/artist/5BSt2fFhlHBz8nG6HrmndO"
+        },
+        {
+          "name": "Mike Rivera",
+          "url": "https://open.spotify.com/artist/12VOo3IyWtm6kD1Ba1vXjs"
+        },
+        {
+          "name": "Janani K. Jha",
+          "url": "https://open.spotify.com/artist/6uFYqDeLIwfURuF1yxVqJU"
+        },
+        {
+          "name": "Earle Gresham Jr.",
+          "url": "https://open.spotify.com/artist/5ZrrFCnpd82nEYmVxE7e1a"
+        },
+        {
+          "name": "POESY",
+          "url": "https://open.spotify.com/artist/5wzk9261aP0OGmpxLAgYfL"
+        },
+        {
+          "name": "Cast of EPIC: The Musical",
+          "url": "https://open.spotify.com/artist/1gV480zBnPy4ktKHfHKxZ5"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319636,
+      "name": "God Games",
+      "url": "https://open.spotify.com/track/2nTbWfwXlp9gK5u205Pcm1"
+    },
+    {
+      "album": {
         "name": "Wild Ones",
         "url": "https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk"
       },
@@ -1132,7 +1182,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 151966,
       "name": "Lavender Sunflower",
       "url": "https://open.spotify.com/track/1au2UduxcvHfa0fZS3Szci"
@@ -1212,6 +1262,68 @@
       "duration_ms": 389094,
       "name": "Los Angeles",
       "url": "https://open.spotify.com/track/4loXMor75kKVBB03ygwDlh"
+    },
+    {
+      "album": {
+        "name": "EPIC: The Wisdom Saga (Official Concept Album)",
+        "url": "https://open.spotify.com/album/5IaGIT4jt1J2JAXrOBPPck"
+      },
+      "artists": [
+        {
+          "name": "Jorge Rivera-Herrans",
+          "url": "https://open.spotify.com/artist/2kdmTOXncgNHSuYVMhdd5I"
+        },
+        {
+          "name": "Barbara Wangui",
+          "url": "https://open.spotify.com/artist/1Q79hWCBC3dZSZmAcF5DrZ"
+        },
+        {
+          "name": "Teagan Earley",
+          "url": "https://open.spotify.com/artist/1iM9uHQqsPQvZ087a5pf5w"
+        },
+        {
+          "name": "Kira Stone",
+          "url": "https://open.spotify.com/artist/0Hb4OWnwJ1yfEY3lnmGwas"
+        },
+        {
+          "name": "Steven Rodriguez",
+          "url": "https://open.spotify.com/artist/2a84LFOuPFQX3qGB26eu9O"
+        },
+        {
+          "name": "Talya Sindel",
+          "url": "https://open.spotify.com/artist/2cjhj5CXQPAr8nHi0Sd8fz"
+        },
+        {
+          "name": "Mason Olshavsky",
+          "url": "https://open.spotify.com/artist/7ixHDobaqDCeHMI5M6mPlD"
+        },
+        {
+          "name": "KJ Burkhauser",
+          "url": "https://open.spotify.com/artist/2n9fh4G23BOrldW1f9IhnO"
+        },
+        {
+          "name": "Armando Juli\u00e1n",
+          "url": "https://open.spotify.com/artist/6bVYQ4OCT9GIoQF5W6mVTj"
+        },
+        {
+          "name": "Steven Dookie",
+          "url": "https://open.spotify.com/artist/6rLqxfVk0nnbaIgAbuQRHa"
+        },
+        {
+          "name": "Wanda Herrans",
+          "url": "https://open.spotify.com/artist/3OD23Cv3fYtv2AlHdTfYPN"
+        },
+        {
+          "name": "Cast of EPIC: The Musical",
+          "url": "https://open.spotify.com/artist/1gV480zBnPy4ktKHfHKxZ5"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250588,
+      "name": "Love in Paradise",
+      "url": "https://open.spotify.com/track/3Hp8GJDsH3E7fumfAACH2k"
     },
     {
       "album": {
@@ -1790,7 +1902,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 186453,
       "name": "She's So Gone",
       "url": "https://open.spotify.com/track/4DTrKnvkHtwQN6kBu4XXIF"
@@ -1958,7 +2070,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 150923,
       "name": "Suffering",
       "url": "https://open.spotify.com/track/21oMo9u8Nca3FugaVXFGvu"
@@ -2112,7 +2224,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 226466,
       "name": "The Color Violet",
       "url": "https://open.spotify.com/track/3azJifCSqg9fRij2yKIbWz"
@@ -2256,7 +2368,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 244157,
       "name": "TIME",
       "url": "https://open.spotify.com/track/6QQ6054nuQULjunMJ0PGeZ"

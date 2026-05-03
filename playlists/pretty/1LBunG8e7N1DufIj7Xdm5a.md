@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 279 likes - 4,414 songs - 9 day 19 hr 18 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 279 likes - 4,417 songs - 9 day 19 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4422,5 +4422,8 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4412 | [Coffee in Barcelona](https://open.spotify.com/track/1p6AI4YeYuTnQdiGRj5G8i) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Coffee in Barcelona](https://open.spotify.com/album/1ykrKt162d6k4QYCYEUO58) | 3:48 |
 | 4413 | [Kikiri](https://open.spotify.com/track/0Ph4ZM6ALp60ee0QLYqIhb) | [HOZATHEBOSS](https://open.spotify.com/artist/5qlQBBPsnIsx0UxLSVotFj), [Quobo blessing](https://open.spotify.com/artist/7EHMTSkPqZTNMIpFE2vR4q) | [Kikiri](https://open.spotify.com/album/6k3FPD6wqHQ61hNGb2eQIE) | 2:09 |
 | 4414 | [TENDENCIA](https://open.spotify.com/track/2JLopiOtCfUzma7nCqrW6R) | [The Samu](https://open.spotify.com/artist/1hyzQSk08cK1aPlEKx5dOP) | [TENDENCIA](https://open.spotify.com/album/0FUyjX0GbIMMsZi9DUPLQR) | 2:12 |
+| 4415 | [Del Odio Al Amor](https://open.spotify.com/track/1kmpfz6ZPnXrPMS8EQetzX) | [Jumpen Daniel](https://open.spotify.com/artist/1cRpMLp1aO4V7HvOBAJfk0) | [Del Odio Al Amor](https://open.spotify.com/album/39UPCNkZSt9B8AdrvDCQqd) | 2:03 |
+| 4416 | [Brisa \- Remix](https://open.spotify.com/track/2PHWTnjqM164aoggvhvR05) | [Pokenzo](https://open.spotify.com/artist/2AghPeTSphA59qaxYjaFLR), [ZakeoMUSIC](https://open.spotify.com/artist/0n5KZNNgwFO66Kdq7BfqWr), [Peiro](https://open.spotify.com/artist/0U6CXcvTWoI0KH77dlVHk7), [Enzo Calvo\-Rayo Coronado](https://open.spotify.com/artist/6CdfmbYdYFyo5GguHyAaX5) | [Brisa \(Remix\)](https://open.spotify.com/album/32bjx01F4ET0z9GnauOI3F) | 2:03 |
+| 4417 | [Crash & Burn](https://open.spotify.com/track/1ZyxzmQoyXmjzfcjQNCwUK) | [Gravel State](https://open.spotify.com/artist/230J2QSIILiDyJFcnxAsc3) | [The Long Way Home](https://open.spotify.com/album/6XAWHzo671bBsroOWUJsrU) | 3:09 |
 
-Snapshot ID: `AAAIfChqzzw7xsOIY86EikhdwRXHWpsG`
+Snapshot ID: `AAAIfwGTc5RqyTS7iVi6oOFivSmOb0cE`

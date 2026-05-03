@@ -1,12 +1,12 @@
 {
   "description": "This is Selena. The essential tracks, all in one playlist.",
-  "num_followers": 643302,
+  "num_followers": 643336,
   "original_name": "This Is Selena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afKbgAAAAAAGRIz+dnzcHlXQDQEX/DEw",
+  "snapshot_id": "afPtAAAAAACmh7gr7qRBkJm7fQFTGF6i",
   "tracks": [
     {
       "added_at": null,
@@ -595,8 +595,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Selena LIVE (Remastered 2026)",
-        "url": "https://open.spotify.com/album/05yu3lskS9ViU0Lbq3PN4p"
+        "name": "Selena: The Series Soundtrack",
+        "url": "https://open.spotify.com/album/4zKd7rKQ7dXKXEEGcRoFNN"
       },
       "artists": [
         {
@@ -604,9 +604,9 @@
           "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         }
       ],
-      "duration_ms": 238960,
-      "name": "Missing My Baby - Live/Remastered 2026",
-      "url": "https://open.spotify.com/track/4TU8i4Zokru3mOvRUWzJ64"
+      "duration_ms": 183933,
+      "name": "Yo Fui Aquella - .",
+      "url": "https://open.spotify.com/track/1xoNViCJArwctEfzI1POqS"
     },
     {
       "added_at": null,
@@ -623,22 +623,6 @@
       "duration_ms": 116600,
       "name": "Cobarde - Live",
       "url": "https://open.spotify.com/track/6ELj5zKkDoh1yPjsS91LFZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Selena: The Series Soundtrack",
-        "url": "https://open.spotify.com/album/4zKd7rKQ7dXKXEEGcRoFNN"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 183933,
-      "name": "Yo Fui Aquella - .",
-      "url": "https://open.spotify.com/track/1xoNViCJArwctEfzI1POqS"
     },
     {
       "added_at": null,
@@ -707,6 +691,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dreaming Of You",
+        "url": "https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 253493,
+      "name": "Missing My Baby",
+      "url": "https://open.spotify.com/track/1bofHtKrTkKQXx4wm4wITp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Leyenda (Version Super Deluxe)",
         "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
       },
@@ -739,6 +739,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ven Conmigo - Selena 20 Years Of Music",
+        "url": "https://open.spotify.com/album/0xjlVSiqnAxeQHGfk5i2PG"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 177066,
+      "name": "No Quiero Saber - 1990 Version",
+      "url": "https://open.spotify.com/track/4FSNKKZnUCgYmiiBnBbVG7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "For You",
         "url": "https://open.spotify.com/album/78GeZ5IA1KSbI0MiR4bAhH"
       },
@@ -759,8 +775,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ven Conmigo - Selena 20 Years Of Music",
-        "url": "https://open.spotify.com/album/0xjlVSiqnAxeQHGfk5i2PG"
+        "name": "Selena LIVE (Remastered 2026)",
+        "url": "https://open.spotify.com/album/05yu3lskS9ViU0Lbq3PN4p"
       },
       "artists": [
         {
@@ -768,25 +784,9 @@
           "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         }
       ],
-      "duration_ms": 177066,
-      "name": "No Quiero Saber - 1990 Version",
-      "url": "https://open.spotify.com/track/4FSNKKZnUCgYmiiBnBbVG7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dreaming Of You",
-        "url": "https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 263933,
-      "name": "Captive Heart",
-      "url": "https://open.spotify.com/track/7btQwPwo5ML6RRtrELNWio"
+      "duration_ms": 225570,
+      "name": "\u00c1mame, Qui\u00e9reme/ Siempre Estoy Pensando En Ti - Live/Remastered 2026",
+      "url": "https://open.spotify.com/track/2eFDqvIMXf26lunLf3xaiq"
     },
     {
       "added_at": null,
@@ -807,8 +807,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Selena LIVE (Remastered 2026)",
-        "url": "https://open.spotify.com/album/05yu3lskS9ViU0Lbq3PN4p"
+        "name": "Ven Conmigo - Selena 20 Years Of Music",
+        "url": "https://open.spotify.com/album/0xjlVSiqnAxeQHGfk5i2PG"
       },
       "artists": [
         {
@@ -816,9 +816,9 @@
           "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         }
       ],
-      "duration_ms": 225570,
-      "name": "\u00c1mame, Qui\u00e9reme/ Siempre Estoy Pensando En Ti - Live/Remastered 2026",
-      "url": "https://open.spotify.com/track/2eFDqvIMXf26lunLf3xaiq"
+      "duration_ms": 210680,
+      "name": "Yo Me Voy",
+      "url": "https://open.spotify.com/track/2zLGyCNHSXh289D7NJBXCF"
     }
   ],
   "unique_name": "This Is Selena",

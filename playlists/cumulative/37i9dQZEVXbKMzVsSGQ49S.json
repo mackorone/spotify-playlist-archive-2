@@ -8532,7 +8532,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 152976,
       "name": "California",
       "url": "https://open.spotify.com/track/3wC0nI7kvNCeXzNtSmwmG7"
@@ -13698,7 +13698,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 209720,
       "name": "Dracula - JENNIE Remix",
       "url": "https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM"
@@ -17156,7 +17156,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 206718,
       "name": "Faded Like us",
       "url": "https://open.spotify.com/track/1jbD2vWIGjLnEm9AA874L7"
@@ -25327,6 +25327,24 @@
     },
     {
       "album": {
+        "name": "HRINGDU STRAX",
+        "url": "https://open.spotify.com/album/5zLcBtmTA1CfyvswoRBUd3"
+      },
+      "artists": [
+        {
+          "name": "PAPP\u00cdR",
+          "url": "https://open.spotify.com/artist/7pncPEtkLZcPC8a7BRTf15"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162668,
+      "name": "HRINGDU STRAX",
+      "url": "https://open.spotify.com/track/4fXgjqK302jlhCv2IMYiDi"
+    },
+    {
+      "album": {
         "name": "Floni 3",
         "url": "https://open.spotify.com/album/6nmYHhJKPNm5KjhBI7bBL5"
       },
@@ -25558,6 +25576,24 @@
       "duration_ms": 229180,
       "name": "Hugurinn fer h\u00e6rra",
       "url": "https://open.spotify.com/track/28zzkhRBVQdUa16S1XFDyK"
+    },
+    {
+      "album": {
+        "name": "Thriller",
+        "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245837,
+      "name": "Human Nature",
+      "url": "https://open.spotify.com/track/4cgjA7B4fJBHyB9Ya2bu0t"
     },
     {
       "album": {
@@ -32066,7 +32102,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 136698,
       "name": "LifeStyle",
       "url": "https://open.spotify.com/track/3RMN0pi9AZrVbizcWS6aWu"
@@ -35492,7 +35528,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-29",
+      "date_removed": null,
       "duration_ms": 189898,
       "name": "Midnight Sun",
       "url": "https://open.spotify.com/track/1qRV1dKLOfH1s00b9J2LUQ"
@@ -52808,7 +52844,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 103942,
       "name": "S\u00d3LSETRI\u00d0 (Outro)",
       "url": "https://open.spotify.com/track/2oT1Zui4r6dhZyVkguhHjS"
@@ -52826,7 +52862,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-02",
+      "date_removed": null,
       "duration_ms": 99752,
       "name": "S\u00f3lskin",
       "url": "https://open.spotify.com/track/3LP5YM7IMwmffWXPE1VBf1"
@@ -64898,7 +64934,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-02",
+      "date_removed": null,
       "duration_ms": 135325,
       "name": "\u00de\u00fa ert",
       "url": "https://open.spotify.com/track/6xsUlQIjfduRdQt88yekZ5"

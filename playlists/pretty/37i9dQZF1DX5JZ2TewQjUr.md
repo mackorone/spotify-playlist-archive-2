@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: PAULA 區子琳
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,253 likes - 138 songs - 8 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,255 likes - 138 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [樓梯等你](https://open.spotify.com/track/6wiCMDCcbI7ZtzI6rDWK3v) | [區子琳](https://open.spotify.com/artist/1wJ1hjR8MO4yvGO2ItLl4I) | [樓梯等你](https://open.spotify.com/album/4LQQEJIpaBYwghtZ8iTPxv) | 3:38 |
+| 1 | [樓梯等你](https://open.spotify.com/track/6wiCMDCcbI7ZtzI6rDWK3v) | [Paula 區子琳](https://open.spotify.com/artist/7dsWh013wkjVc4RJPBK7hY) | [樓梯等你](https://open.spotify.com/album/4LQQEJIpaBYwghtZ8iTPxv) | 3:38 |
 | 2 | [Window](https://open.spotify.com/track/4iUxryTOl8KT0ZLETYNZjv) | [Wellsaid](https://open.spotify.com/artist/03YL8KDv0Ui8DNBe1KJwnG), [Lil Gato](https://open.spotify.com/artist/2nkrdVHRpBCTvjyRpaHzCV) | [Window / Home \(7"\)](https://open.spotify.com/album/5oBTvB6jI4ZFdtXHSmpa9w) | 4:44 |
 | 3 | [始終仍然想起你](https://open.spotify.com/track/2ilpkQbLmmfZJ5JMoysQFZ) | [Young Hysan](https://open.spotify.com/artist/6nZKe3xkbU2IBrVuJGkzCr) | [Lost in Yesterday](https://open.spotify.com/album/68MEenNVJx5K5ZWu1Vrpaa) | 3:13 |
 | 4 | [打工牛仔](https://open.spotify.com/track/1iNubMavbVtTtpjfUeYtID) | [F.JAE](https://open.spotify.com/artist/0U8QoUGD9K4oqoA5gaNTHC), [NO CAP RECORDS](https://open.spotify.com/artist/1yzmgTub0XAUxIHV11ndox) | [打工牛仔](https://open.spotify.com/album/1jGPwUOAKii6qbvPjDuvCP) | 2:40 |
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 8 | [未firm](https://open.spotify.com/track/6WOZmRXO92K0j7VYREcJnj) | [elka 鄭芷淇](https://open.spotify.com/artist/7gRFVh7MISIyJyIjPYTEP7) | [未firm](https://open.spotify.com/album/4OgudE0JBgtdMaJZfabHko) | 3:42 |
 | 9 | [少甜](https://open.spotify.com/track/0iDcvBt8SH50PaEc7ZPD5e) | [Lester Lam](https://open.spotify.com/artist/2oicwXEZfc7OVHxgpszBX9) | [少甜](https://open.spotify.com/album/14YapR2na4uJRXj5K6ljPK) | 2:43 |
 | 10 | [第一支煙 \(The First Cigarette\)](https://open.spotify.com/track/0xA6Kv2WeXBksQv9Q4U4Pl) | [ProdiG](https://open.spotify.com/artist/08CriCUDwsWSTvFDWsfpk1) | [第一支煙 \(The First Cigarette\)](https://open.spotify.com/album/1KNp7MpOsgAm9iTrAkFr9A) | 2:12 |
-| 11 | [無人想關注 \(feat\. SoWhat\)](https://open.spotify.com/track/12NUbBPypbF7ItCQwamG1v) | [Salty Chick](https://open.spotify.com/artist/37gag5BhRpch91IX5dEf5A) | [無人想關注 \(feat\. SoWhat\)](https://open.spotify.com/album/70OrrmjCHtByggFb1TvYrq) | 3:11 |
+| 11 | [無人想關注 \(feat\. SoWhat\)](https://open.spotify.com/track/12NUbBPypbF7ItCQwamG1v) | [Salty Chick](https://open.spotify.com/artist/37gag5BhRpch91IX5dEf5A), [SoWhat](https://open.spotify.com/artist/2BBk96s2DUCSwIdaANtH9d) | [無人想關注 \(feat\. SoWhat\)](https://open.spotify.com/album/70OrrmjCHtByggFb1TvYrq) | 3:11 |
 | 12 | [Slowly](https://open.spotify.com/track/7gmloxRTT3WMim8R6Wz3pl) | [Tomii](https://open.spotify.com/artist/5XTFLOAT2qCrhejD1T4zOX) | [Slowly](https://open.spotify.com/album/7DyepXZWkGItn7zM9fpZED) | 3:26 |
 | 13 | [OOTB](https://open.spotify.com/track/4slCroq2mhooCM14dndiRE) | [SENZA A Cappella](https://open.spotify.com/artist/2CQcJ2puP32r60KacgJdyW) | [OOTB](https://open.spotify.com/album/6lgRKOi4P1DGPAoaFkim4b) | 2:49 |
 | 14 | [一個人SOLO](https://open.spotify.com/track/2hGPBjN34CpoqADl1iVPCi) | [KAREN YEE](https://open.spotify.com/artist/4PIfjY4eTuXfopttbsBdOh) | [一個人SOLO](https://open.spotify.com/album/29V1n7LgHd93dGkfOSixIW) | 2:04 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKMCnEhDnDL.md) - [plain]
 
 > De beste Nederlandse liedjes\. Cover: Antoon
 
-[Spotify](https://open.spotify.com/user/spotify) - 526,114 likes - 100 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 526,155 likes - 100 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKMCnEhDnDL.md) - [plain]
 | 99 | [Waterdicht](https://open.spotify.com/track/2mCItSCHlUYysNfNk8Fyng) | [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG) | [Waterdicht](https://open.spotify.com/album/6GCt0ifIwBEcIKoBECBOKo) | 2:51 |
 | 100 | [Hartslag Van De Stad](https://open.spotify.com/track/78ZiXK0IZ1uiuCHUzFWmcl) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4), [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [Hartslag Van De Stad](https://open.spotify.com/album/4CFGDK4RYUeX4v544VExLo) | 2:59 |
 
-Snapshot ID: `AAAAAP0vFV1BpRF4PdvB2dtzo7un1duw`
+Snapshot ID: `AAAAANq3R8IsjhrU0HlafGeTqhb8Wznf`

@@ -1,12 +1,12 @@
 {
   "description": "This is Emilia. The essential tracks, all in one playlist.",
-  "num_followers": 258015,
+  "num_followers": 257974,
   "original_name": "This Is Emilia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afKbgAAAAAAbkg7iKTrRT6bkBPBQVkvI",
+  "snapshot_id": "afPtAAAAAACEdz5+4PDkaaRmoI+1WFiH",
   "tracks": [
     {
       "added_at": null,
@@ -407,6 +407,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Midnight Sun: Girls Trip",
+        "url": "https://open.spotify.com/album/4WMcRlbt7NvpKrrqO8ykQf"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        },
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 195913,
+      "name": "Girl's Girl - Girls Trip",
+      "url": "https://open.spotify.com/track/1eA6Uh2q01uLdV8aXupWtY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hotel Miranda!",
         "url": "https://open.spotify.com/album/5QL33hpDp6XBWdNsc0VGUO"
       },
@@ -423,6 +443,30 @@
       "duration_ms": 215248,
       "name": "Uno los Dos",
       "url": "https://open.spotify.com/track/6tjz2ZCL2jmPY1jPsbRk2H"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quieres",
+        "url": "https://open.spotify.com/album/6FYsivfijNDaQ1bpw8Kljc"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        },
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        },
+        {
+          "name": "Ptazeta",
+          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
+        }
+      ],
+      "duration_ms": 213666,
+      "name": "Quieres",
+      "url": "https://open.spotify.com/track/4iGnpp1h0i33lpoP42Y8Jt"
     },
     {
       "added_at": null,
@@ -451,30 +495,6 @@
       "duration_ms": 248000,
       "name": "MASNA REMIX",
       "url": "https://open.spotify.com/track/6wDig9zSE2qpDbw1W3qqIX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Quieres",
-        "url": "https://open.spotify.com/album/6FYsivfijNDaQ1bpw8Kljc"
-      },
-      "artists": [
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        },
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        },
-        {
-          "name": "Ptazeta",
-          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
-        }
-      ],
-      "duration_ms": 213666,
-      "name": "Quieres",
-      "url": "https://open.spotify.com/track/4iGnpp1h0i33lpoP42Y8Jt"
     },
     {
       "added_at": null,
@@ -767,18 +787,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "perfectas",
-        "url": "https://open.spotify.com/album/7FM4Jp2W2L7kvXh7XJAeDl"
+        "name": "Vestido Rojo",
+        "url": "https://open.spotify.com/album/0IVjdhsXZAeaBHaiZkkcMn"
       },
       "artists": [
+        {
+          "name": "Silvestre Dangond",
+          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
+        },
         {
           "name": "Emilia",
           "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
         }
       ],
-      "duration_ms": 218120,
-      "name": "perfectas",
-      "url": "https://open.spotify.com/track/2Syg7oH4lJ2yG2pE7QCcIv"
+      "duration_ms": 153868,
+      "name": "Vestido Rojo",
+      "url": "https://open.spotify.com/track/6kyllwQMZPwCgCJiJd0eWX"
     },
     {
       "added_at": null,
@@ -799,22 +823,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vestido Rojo",
-        "url": "https://open.spotify.com/album/0IVjdhsXZAeaBHaiZkkcMn"
+        "name": "perfectas",
+        "url": "https://open.spotify.com/album/7FM4Jp2W2L7kvXh7XJAeDl"
       },
       "artists": [
-        {
-          "name": "Silvestre Dangond",
-          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
-        },
         {
           "name": "Emilia",
           "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
         }
       ],
-      "duration_ms": 153868,
-      "name": "Vestido Rojo",
-      "url": "https://open.spotify.com/track/6kyllwQMZPwCgCJiJd0eWX"
+      "duration_ms": 218120,
+      "name": "perfectas",
+      "url": "https://open.spotify.com/track/2Syg7oH4lJ2yG2pE7QCcIv"
     },
     {
       "added_at": null,
@@ -995,22 +1015,6 @@
       "duration_ms": 156325,
       "name": "BB",
       "url": "https://open.spotify.com/track/3sVuWmggRqfAK3qk7OIEAz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Maldita Noche (En Vivo)",
-        "url": "https://open.spotify.com/album/23FWVbvXgThUs3J3fWKYtH"
-      },
-      "artists": [
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 210265,
-      "name": "Maldita Noche - En Vivo",
-      "url": "https://open.spotify.com/track/3bVNfqtC79TZsJK7bk9KVg"
     }
   ],
   "unique_name": "This Is Emilia",

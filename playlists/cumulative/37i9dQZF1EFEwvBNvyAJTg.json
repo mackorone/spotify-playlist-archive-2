@@ -999,6 +999,24 @@
     },
     {
       "album": {
+        "name": "Daffodils",
+        "url": "https://open.spotify.com/album/1hzfJ4kHvpSJ3RLMVBhzBL"
+      },
+      "artists": [
+        {
+          "name": "SISTRA",
+          "url": "https://open.spotify.com/artist/0Y1A0tTg1P1q6FKqhM7grU"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160226,
+      "name": "Daffodils",
+      "url": "https://open.spotify.com/track/2gSRtzhKePCVZFIVCUrYc0"
+    },
+    {
+      "album": {
         "name": "The Drama",
         "url": "https://open.spotify.com/album/7t04xptRT83AnNFdsajTYQ"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 
 > Nieuwe alternative & rock releases\. Cover: Triggerfinger
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,623 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,626 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 | 99 | [ITS FINE](https://open.spotify.com/track/1EMj53LeX6IOKcLsdM5LIV) | [sleepazoid](https://open.spotify.com/artist/6IYHXeYElVd2F2ovDrYFel) | [New Age](https://open.spotify.com/album/22ZjKoJBJ1LekTQ6b1lJHl) | 4:21 |
 | 100 | [Rock Bottom](https://open.spotify.com/track/4IMUNFZqhkRJp7X8PAOrZ9) | [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [Rock Bottom / Octopus](https://open.spotify.com/album/6QtKyp4Hgq87SA1sV5b52d) | 4:10 |
 
-Snapshot ID: `AAAAACKuGHf/oVjKkWgYW1r87IwDKiKU`
+Snapshot ID: `AAAAANZMuVyIWqd3O/5fieP2oyJpjlPV`

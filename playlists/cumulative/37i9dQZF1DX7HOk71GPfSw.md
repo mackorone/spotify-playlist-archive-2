@@ -4,7 +4,7 @@
 
 > the party is where u.r.
 
-2,651 songs - 5 day 1 hr 27 min
+2,652 songs - 5 day 1 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2401,6 +2401,7 @@
 | [Tic Tac Toe](https://open.spotify.com/track/3pLV6EZ231JaaLWjkB6m02) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [Tic Tac Toe](https://open.spotify.com/album/14HIwi80tfnyZO3dTII17t) | 2:58 | 2021-08-14 | 2021-11-13 |
 | [TiiKKA MASALA](https://open.spotify.com/track/1rIRsZ90EuJ8HMAcQLCQ5c) | [SEBii](https://open.spotify.com/artist/5fAix5NwfNgHQqYRrHIPxo) | [TiiKKA MASALA](https://open.spotify.com/album/4EGR3mBcAWyIlXcfzyhpL9) | 2:29 | 2022-10-07 | 2023-02-11 |
 | [Tila Tequila](https://open.spotify.com/track/14LRQ1HVqHyGLEbzQym8I5) | [That Kid](https://open.spotify.com/artist/7mUQPmZ6OzwtJEEXDOqyOY) | [Tila Tequila](https://open.spotify.com/album/2Dul0JErav83JimVhu4byy) | 3:13 | 2024-05-03 | 2025-06-07 |
+| [TIMESNEWROMAN](https://open.spotify.com/track/0bnSXl0lY92annYcbgo1T2) | [Babe America](https://open.spotify.com/artist/5oPCa0GsQjPlRdOdFRoY6Z) | [TIMESNEWROMAN](https://open.spotify.com/album/4lKEiscDZnEjDAZUBNdNHk) | 2:38 | 2026-05-01 |  |
 | [Tinted Glasses](https://open.spotify.com/track/3Rgvrk7iVSk3LmeytiTNI0) | [hidingthehurt](https://open.spotify.com/artist/1ZEMLFeC3e4J8Y9exK3dKp) | [Tinted Glasses](https://open.spotify.com/album/1iZRzJqBmj6AaCl666Pw5R) | 2:08 | 2021-10-29 | 2022-02-24 |
 | [tiny purse, tiny top](https://open.spotify.com/track/1AhoAuvhcydhLy8i7uLPBq) | [BRONZE AVERY](https://open.spotify.com/artist/30XwDI0SEYBda3gBtutSZW), [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [tiny purse, tiny top](https://open.spotify.com/album/6LBpAMjNSc8tm740hopJsx) | 2:06 | 2024-09-10 | 2025-12-06 |
 | [Tired AF](https://open.spotify.com/track/15uWzoD8XdaEAusrdqCx1E) | [IXXF](https://open.spotify.com/artist/2FtCUBuImRwbcGkGABKz8N), [CHAV](https://open.spotify.com/artist/5fQHb8kCXKsmuRRzFcxc97) | [Tired AF](https://open.spotify.com/album/41xGmK8OzfP5omSyPRY8EU) | 1:55 | 2021-07-05 | 2021-08-20 |

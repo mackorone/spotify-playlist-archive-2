@@ -4,7 +4,7 @@
 
 > This is Sexyy Red\. The essential tracks, all in one playlist.
 
-130 songs - 6 hr 2 min
+131 songs - 6 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [All She Do Is Shake](https://open.spotify.com/track/0iFEoMhWXzSHV28372OosY) | [J Traxx](https://open.spotify.com/artist/3U2KtlMuUKLd0RTIXU3051), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [All She Do Is Shake](https://open.spotify.com/album/2kFbyhA5QPeK5qGlWADpk9) | 1:58 | 2025-08-04 | 2025-08-06 |
 | [All White Air Forces](https://open.spotify.com/track/0Bc2QTj9Eajw7rRckFzTNM) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [All White Air Forces](https://open.spotify.com/album/3YRpkdq38v1Dm8wSg0t0jx) | 2:34 | 2023-11-10 | 2023-12-14 |
 | [Area Codes \(314 Remix\) \[feat\. Sexyy Red\]](https://open.spotify.com/track/36pwNmujPFvx0IwdR2GYqU) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Area Codes: The Remixes](https://open.spotify.com/album/4rOzFoHxBS1O7H4Rv0Xbk8) | 2:17 | 2023-11-10 | 2024-05-28 |
+| [Attached](https://open.spotify.com/track/758T41yHLubNrZwDl3mBpc) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Yo Favorite Trappa Favorite Rappa](https://open.spotify.com/album/4lnnjuRw10Swa4WrMXRhOk) | 2:05 | 2026-05-03 |  |
 | [Baller \(with GloRilla, Sexyy Red & Monaleo\)](https://open.spotify.com/track/4YlJHu8fVhatkOjXJFxazm) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [Finally Over It](https://open.spotify.com/album/5X1Y5kGtPQyu4UhjSuTRhx) | 3:24 | 2025-11-16 |  |
 | [Bent \(Remix\) \(with Kyle Richh, Jenn Carter, TaTa & Sexyy Red\)](https://open.spotify.com/track/3dbk5pvQlJagP6VJP9vHzq) | [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU), [Jenn Carter](https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM), [TaTa](https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [41 World: Not The Album](https://open.spotify.com/album/1xfZEllNKEGORjebzxus4t) | 3:37 | 2023-12-13 | 2025-04-20 |
 | [Big Dawg \(Moneybagg Yo, Sexyy Red\)](https://open.spotify.com/track/6XjZ1n58mWuW60qb0mu0w5) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA) | [Gangsta Art 2](https://open.spotify.com/album/537PniwRvDxpD7zjGsEQlA) | 2:31 | 2025-01-04 | 2025-01-05 |
@@ -126,7 +127,7 @@
 | [Throw That Mf](https://open.spotify.com/track/7sWUDFmphDkMZI5GboXscb) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Throw That Mf](https://open.spotify.com/album/0cHwkVrWatS1hHHfDzewJ2) | 2:07 | 2023-11-10 | 2024-05-26 |
 | [Throwin' It](https://open.spotify.com/track/1EC19TqO0rHpqwMHJrzOgk) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Throwin' It](https://open.spotify.com/album/4YR9YTU8b8PmQqDDkh9HKN) | 2:29 | 2023-11-10 | 2024-06-03 |
 | [Tired \(feat\. Rob49\)](https://open.spotify.com/track/2ayYyt1AKc5eFIVbzieG6y) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [Tired \(feat\. Rob49\)](https://open.spotify.com/album/7DX362BKElkVx87g476jeA) | 2:40 | 2023-11-10 | 2024-06-01 |
-| [Top Notch](https://open.spotify.com/track/2IjJlpakhh6HgZ9avNbkl3) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Yo Favorite Trappa Favorite Rappa](https://open.spotify.com/album/4lnnjuRw10Swa4WrMXRhOk) | 1:57 | 2026-04-24 |  |
+| [Top Notch](https://open.spotify.com/track/2IjJlpakhh6HgZ9avNbkl3) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Yo Favorite Trappa Favorite Rappa](https://open.spotify.com/album/4lnnjuRw10Swa4WrMXRhOk) | 1:57 | 2026-04-24 | 2026-05-03 |
 | [TTG \(Go\)](https://open.spotify.com/track/4hKmlJ6sSCvDgQm50pTW05) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [In Sexyy We Trust](https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx) | 2:20 | 2024-05-27 | 2024-08-13 |
 | [U Kno What To Do \(UKWTD\)](https://open.spotify.com/track/1ZrzdArzDJj71mCOFa2qmV) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [U Kno What To Do \(UKWTD\)](https://open.spotify.com/album/2MBtDCT8SgVFw5VHU8lWX7) | 2:38 | 2024-09-08 |  |
 | [U My Everything](https://open.spotify.com/track/1TgStpMGTflN84asKJ8VU3) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [In Sexyy We Trust](https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx) | 3:45 | 2024-05-26 |  |

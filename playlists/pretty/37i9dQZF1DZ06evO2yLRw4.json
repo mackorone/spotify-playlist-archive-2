@@ -1,12 +1,12 @@
 {
   "description": "This is AWOLNATION. The essential tracks, all in one playlist.",
-  "num_followers": 37719,
+  "num_followers": 37721,
   "original_name": "This Is AWOLNATION",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afKbgAAAAABWWwzh+pu6DpOpSzCbS+jn",
+  "snapshot_id": "afPtAAAAAAAHQJL+UWERBQu/jNyD1JgO",
   "tracks": [
     {
       "added_at": null,
@@ -495,22 +495,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Phantom Five",
-        "url": "https://open.spotify.com/album/13rCwtfBHmNlPBYyFFU0u5"
+        "name": "Here Come the Runts",
+        "url": "https://open.spotify.com/album/57zNKp8j0mG1rNtbEVkLMV"
       },
       "artists": [
         {
           "name": "AWOLNATION",
           "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        },
-        {
-          "name": "Emily Armstrong",
-          "url": "https://open.spotify.com/artist/2j5MUrKK6wSLdUxy2ijqHC"
         }
       ],
-      "duration_ms": 231960,
-      "name": "Jump Sit Stand March",
-      "url": "https://open.spotify.com/track/4oUMZpUbTRTO1FzNgVeq8s"
+      "duration_ms": 246304,
+      "name": "Seven Sticks of Dynamite",
+      "url": "https://open.spotify.com/track/4Zpq56sTzSWbeO03WL6XBp"
     },
     {
       "added_at": null,
@@ -559,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Here Come the Runts",
-        "url": "https://open.spotify.com/album/57zNKp8j0mG1rNtbEVkLMV"
-      },
-      "artists": [
-        {
-          "name": "AWOLNATION",
-          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        }
-      ],
-      "duration_ms": 246304,
-      "name": "Seven Sticks of Dynamite",
-      "url": "https://open.spotify.com/track/4Zpq56sTzSWbeO03WL6XBp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Phantom Five",
         "url": "https://open.spotify.com/album/13rCwtfBHmNlPBYyFFU0u5"
       },
@@ -582,11 +562,15 @@
         {
           "name": "AWOLNATION",
           "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        },
+        {
+          "name": "Emily Armstrong",
+          "url": "https://open.spotify.com/artist/2j5MUrKK6wSLdUxy2ijqHC"
         }
       ],
-      "duration_ms": 190866,
-      "name": "When I Was Young",
-      "url": "https://open.spotify.com/track/0qRIrk73nzkddAHX65D1Hb"
+      "duration_ms": 231960,
+      "name": "Jump Sit Stand March",
+      "url": "https://open.spotify.com/track/4oUMZpUbTRTO1FzNgVeq8s"
     },
     {
       "added_at": null,
@@ -603,6 +587,22 @@
       "duration_ms": 217205,
       "name": "Windows",
       "url": "https://open.spotify.com/track/6eXfVpYZW6v0VhUaNAh3K9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Run (10th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/27mRZk6YZ4yVLXXRmKkQFK"
+      },
+      "artists": [
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        }
+      ],
+      "duration_ms": 224759,
+      "name": "Found Atlas",
+      "url": "https://open.spotify.com/track/42nE0MvyqvtV1Ee9lgMVKv"
     },
     {
       "added_at": null,
@@ -627,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Run (10th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/27mRZk6YZ4yVLXXRmKkQFK"
-      },
-      "artists": [
-        {
-          "name": "AWOLNATION",
-          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        }
-      ],
-      "duration_ms": 224759,
-      "name": "Found Atlas",
-      "url": "https://open.spotify.com/track/42nE0MvyqvtV1Ee9lgMVKv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Phantom Five",
         "url": "https://open.spotify.com/album/13rCwtfBHmNlPBYyFFU0u5"
       },
@@ -650,15 +634,11 @@
         {
           "name": "AWOLNATION",
           "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        },
-        {
-          "name": "Del The Funky Homosapien",
-          "url": "https://open.spotify.com/artist/0YsLR3SQd5QTXAhGIGX7cl"
         }
       ],
-      "duration_ms": 182893,
-      "name": "I Am Happy",
-      "url": "https://open.spotify.com/track/7hlS8OyiuxxNI8aoQM9hCf"
+      "duration_ms": 190866,
+      "name": "When I Was Young",
+      "url": "https://open.spotify.com/track/0qRIrk73nzkddAHX65D1Hb"
     },
     {
       "added_at": null,
@@ -722,11 +702,15 @@
         {
           "name": "AWOLNATION",
           "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        },
+        {
+          "name": "Del The Funky Homosapien",
+          "url": "https://open.spotify.com/artist/0YsLR3SQd5QTXAhGIGX7cl"
         }
       ],
-      "duration_ms": 241693,
-      "name": "A Letter To No One",
-      "url": "https://open.spotify.com/track/1aE8HVgaRZGqFY6sF0utyR"
+      "duration_ms": 182893,
+      "name": "I Am Happy",
+      "url": "https://open.spotify.com/track/7hlS8OyiuxxNI8aoQM9hCf"
     },
     {
       "added_at": null,
@@ -771,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Candy Pop",
-        "url": "https://open.spotify.com/album/7mOVZ70TYfJBZqWsrllPvo"
-      },
-      "artists": [
-        {
-          "name": "AWOLNATION",
-          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        }
-      ],
-      "duration_ms": 162748,
-      "name": "Candy Pop",
-      "url": "https://open.spotify.com/track/4fSc3OE9ouDmVdcZiNNbzD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "We Are All Insane",
         "url": "https://open.spotify.com/album/5Qxgfs3s3MRiJGEmibeutm"
       },
@@ -799,6 +767,38 @@
       "duration_ms": 211400,
       "name": "We Are All Insane",
       "url": "https://open.spotify.com/track/00nwT1ZDe2GDohNZ6yjEdQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Phantom Five",
+        "url": "https://open.spotify.com/album/13rCwtfBHmNlPBYyFFU0u5"
+      },
+      "artists": [
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        }
+      ],
+      "duration_ms": 241693,
+      "name": "A Letter To No One",
+      "url": "https://open.spotify.com/track/1aE8HVgaRZGqFY6sF0utyR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Candy Pop",
+        "url": "https://open.spotify.com/album/7mOVZ70TYfJBZqWsrllPvo"
+      },
+      "artists": [
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        }
+      ],
+      "duration_ms": 162748,
+      "name": "Candy Pop",
+      "url": "https://open.spotify.com/track/4fSc3OE9ouDmVdcZiNNbzD"
     },
     {
       "added_at": null,

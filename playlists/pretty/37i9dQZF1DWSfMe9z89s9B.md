@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSfMe9z89s9B.md) - [plain]
 
 > The new school \- Alternative R&B\. Cover: April + VISTA
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,321,039 likes - 150 songs - 8 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,320,984 likes - 150 songs - 8 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSfMe9z89s9B.md) - [plain]
 | 149 | [skin!](https://open.spotify.com/track/0wuvZIbqh7oOtAQcjXy6hS) | [Jahson Paynter](https://open.spotify.com/artist/73SbrIktK3Na0OTmhZpMy8) | [skin!](https://open.spotify.com/album/3GUmmOqPRyswzZpcICXhcx) | 2:40 |
 | 150 | [Touch & Go](https://open.spotify.com/track/15kgnfDWqKEUXpe7bmBMaI) | [Girlfriend](https://open.spotify.com/artist/1ao4XlZGazbxbP6V3k4SnY) | [Honey Water](https://open.spotify.com/album/71l7QcYNTXUjCwyFNy3emN) | 3:20 |
 
-Snapshot ID: `AAAAAKCP86Yv/V014fPs4eu+3V9nhQm+`
+Snapshot ID: `AAAAABYoNcwmvCJJ8ocIBUyvRSElzdoY`

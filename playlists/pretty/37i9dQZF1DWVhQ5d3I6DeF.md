@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhQ5d3I6DeF.md) - [plain]
 
 > Upbeat pop bangers to keep you going
 
-[Spotify](https://open.spotify.com/user/spotify) - 627,004 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 627,080 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhQ5d3I6DeF.md) - [plain]
 | 49 | [My Head & My Heart](https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 2:54 |
 | 50 | [Dive Into Me](https://open.spotify.com/track/2y3qIbsaOPaj0xKv20rbOQ) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Dive Into Me](https://open.spotify.com/album/4wXWmSfJIQerp2UJ2K0wEa) | 2:46 |
 
-Snapshot ID: `AAAAAA4HbxsreThyWN6EaFw5A9thWV/p`
+Snapshot ID: `AAAAAIbDRK3u+6X3a9FqAzKjf+j3btYl`

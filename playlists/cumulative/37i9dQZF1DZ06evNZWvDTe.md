@@ -4,7 +4,7 @@
 
 > This is Sarkodie\. The essential tracks, all in one playlist.
 
-241 songs - 14 hr 21 min
+242 songs - 14 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,7 @@
 | [Odo Bi](https://open.spotify.com/track/5vGmaVJOOzntsf8KFFI6wf) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Epistles of Mama](https://open.spotify.com/album/7nnkIiGBMhqnTqwEEqvTrr) | 3:27 | 2022-11-16 | 2025-12-06 |
 | [Odo Bi](https://open.spotify.com/track/6usx8a6PVggafBOtKGUTyQ) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Epistles of Mama](https://open.spotify.com/album/22SPXtFzEEjbhUCDB44BQk) | 3:27 | 2022-01-02 | 2022-11-07 |
 | [Odo Dede](https://open.spotify.com/track/5JB0EcpkbUsyaU9EvzK3bw) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [L.I.T.A \(Deluxe Edition\)](https://open.spotify.com/album/3eSs5S46FxMXHK3bTaTeD1) | 3:56 | 2023-06-25 | 2023-12-14 |
+| [ODO PA](https://open.spotify.com/track/4XyamF81pJyWkC8Q1ps1Ff) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Kweku Flick](https://open.spotify.com/artist/2lSLuh2H1mtsxFBNm9ZbKF) | [ODO PA](https://open.spotify.com/album/4B2Bs2cX0e7mhEeHyogBiz) | 2:36 | 2026-05-03 |  |
 | [OLOLUFE](https://open.spotify.com/track/1C4ndHztUaefeUlbCue2wt) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [OFA \(Oxlade From Africa\)](https://open.spotify.com/album/1QCCsP9vKzAFLklbRwvTC5) | 2:20 | 2024-09-22 |  |
 | [Oluwa Ni](https://open.spotify.com/track/1qvdbnfzyr7OdfoU1AN5Wk) | [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [SPOTLIGHT](https://open.spotify.com/album/1HvZC18RODcUSqng5Q9KJ9) | 3:30 | 2022-09-19 | 2022-09-21 |
 | [Oluwa Ni \(Wemi You\)](https://open.spotify.com/track/4mZkl4BhKlzkYnqgYweg1W) | [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Oluwa Ni \(Wemi You\)](https://open.spotify.com/album/2gjBzVBVGgBun17xS9PJqz) | 3:17 | 2025-11-12 |  |
@@ -197,7 +198,7 @@
 | [Saara](https://open.spotify.com/track/3386NCYBvMZAxIagIBIIRv) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Efya](https://open.spotify.com/artist/1dlInrJwE0KSP9hZ0ALsI6) | [Saara](https://open.spotify.com/album/7LoPpiCoplyvf4dcVY91u9) | 3:19 | 2021-12-28 | 2022-04-18 |
 | [Saara \(feat\. Efya\)](https://open.spotify.com/track/2wYrE76u5DQVyL4lteNe6a) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Efya](https://open.spotify.com/artist/1dlInrJwE0KSP9hZ0ALsI6) | [Black Love](https://open.spotify.com/album/38LPmNiFu2NPdKAPAYb7ct) | 3:19 | 2022-04-17 | 2023-11-11 |
 | [Saara \(feat\. Efya\)](https://open.spotify.com/track/6TnkeoB8CdVFUUQQf5Nrem) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Efya](https://open.spotify.com/artist/1dlInrJwE0KSP9hZ0ALsI6) | [Black Love](https://open.spotify.com/album/0IR43Xf6qGF3iYKW1qg24s) | 3:19 | 2025-11-20 | 2026-01-22 |
-| [Sarkastic](https://open.spotify.com/track/1hu8nXmfGce1ppr4yGGyXX) | [Hammer of The Last Two](https://open.spotify.com/artist/41OZNvPbgdmHijKkTch0To), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Worlasi](https://open.spotify.com/artist/55LVJSLOfFssxvLWKb6gt9) | [The Last Of A Dying Breed](https://open.spotify.com/album/7ruMWGWsEzrDGl2EM9wshD) | 4:07 | 2026-01-15 |  |
+| [Sarkastic](https://open.spotify.com/track/1hu8nXmfGce1ppr4yGGyXX) | [Hammer of The Last Two](https://open.spotify.com/artist/41OZNvPbgdmHijKkTch0To), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Worlasi](https://open.spotify.com/artist/55LVJSLOfFssxvLWKb6gt9) | [The Last Of A Dying Breed](https://open.spotify.com/album/7ruMWGWsEzrDGl2EM9wshD) | 4:07 | 2026-01-15 | 2026-05-03 |
 | [Shake Body](https://open.spotify.com/track/2gdaJi5fBtMFUlLMdJsKX2) | [Masterkraft](https://open.spotify.com/artist/0lEUtJddtvvDlxtEmF9j0m), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Larry Gaaga](https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU) | [Masta Groove](https://open.spotify.com/album/5JdBaiXMegtbhQFdYYnGfY) | 3:09 | 2022-09-10 | 2024-04-19 |
 | [She Bad \(feat\. Oxlade\)](https://open.spotify.com/track/2sQtgfBy77UVwkSDcZF8S5) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [JAMZ](https://open.spotify.com/album/4N96XJi7wu1B0ACzCgPLLc) | 5:00 | 2022-11-20 | 2024-05-08 |
 | [Sizeless \(Skit\)](https://open.spotify.com/track/5t10bvJ3Zv3jKtU7YlwZSQ) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Sarkology](https://open.spotify.com/album/1FUPZGZNwvXHj5F5M8UTOb) | 1:26 | 2022-04-28 | 2025-05-07 |

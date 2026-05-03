@@ -58,6 +58,6 @@
 | [青春コンプレックス](https://open.spotify.com/track/60nwK1iMgnFCznF6FiNfts) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンド](https://open.spotify.com/album/5ZGzGGNAB6U7QlKpdaMu0d) | 3:23 | 2024-01-19 |  |
 | [青春コンプレックス](https://open.spotify.com/track/0jpP8AlQLVtaMwA3vQYpYB) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [青春コンプレックス](https://open.spotify.com/album/3yiMrbhmz7rqjTW3AgmG9W) | 3:25 | 2023-01-06 | 2024-01-20 |
 | [青春コンプレックス \-We will B\- Live ver.](https://open.spotify.com/track/1AVPkWVCIMB7cjHVUjoMgc) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンド TOUR “We will B”](https://open.spotify.com/album/2PadFbanHKV06oSqeUelHR) | 3:27 | 2025-10-10 |  |
-| [青春コンプレックス\-instrumental\-](https://open.spotify.com/track/1eBJIQFMrwRy0bDhaGsMyK) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [青春コンプレックス](https://open.spotify.com/album/2i6HcZ86ErsCwxib4T11bk) | 3:25 | 2024-01-19 | 2025-10-17 |
+| [青春コンプレックス\-instrumental\-](https://open.spotify.com/track/1eBJIQFMrwRy0bDhaGsMyK) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [青春コンプレックス](https://open.spotify.com/album/2i6HcZ86ErsCwxib4T11bk) | 3:25 | 2024-01-19 |  |
 
 \*This playlist was first scraped on 2023-01-07. Prior content cannot be recovered.

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVQreDCvFMf.md) - [plain]
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: figvres
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,331 likes - 99 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,339 likes - 99 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > This is Juliana\. The essential tracks, all in one playlist.
 
-45 songs - 2 hr 31 min
+46 songs - 2 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [La Terminal](https://open.spotify.com/track/5ozNzOJeYpzIZaQc9C6jr3) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [La Terminal](https://open.spotify.com/album/1SrCPTPht9ws7CP1GVCt7o) | 2:58 | 2026-03-20 |  |
 | [Manhattan](https://open.spotify.com/track/4JR4YPpC6Zcxf1bVy43mPD) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [La Pista](https://open.spotify.com/album/0vXg9Gnv5HPXLAKBF9ajil) | 2:50 | 2026-03-20 |  |
 | [Mar Adentro](https://open.spotify.com/track/2PsSft1B1n0mZtmQ8xclLS) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Mar Adentro](https://open.spotify.com/album/0Tpibq09sH4zxMhEykvXlo) | 4:01 | 2026-03-20 |  |
+| [Mariposa](https://open.spotify.com/track/6AjUPlLbv6uZvlNccKMKhN) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK), [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Instrucciones Para Ser Feliz](https://open.spotify.com/album/3ZtTmeeKnDUWqlQRMmjUtV) | 2:29 | 2026-05-03 |  |
 | [Minuto Cien](https://open.spotify.com/track/2TAyzkX6AvXtsq8ToVSi0C) | [AndreSZ](https://open.spotify.com/artist/0EDJeudXLHmrq5Ao77m2n4), [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Minuto Cien](https://open.spotify.com/album/0VgrHzob67ddWvWakNphCx) | 3:14 | 2026-03-20 |  |
 | [Montaña Rusa](https://open.spotify.com/track/0OC5zKdIxjR3oYiWuL3Tq1) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Juliana](https://open.spotify.com/album/6REdS1fIBEUTa0hkCEFX0x) | 2:46 | 2026-03-20 |  |
 | [Muchachitos Feat\. Humbe](https://open.spotify.com/track/22D72L2NnJJkI5m1g3pXnj) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [DOS DOS DOS](https://open.spotify.com/album/0mND2TIOaPmbkchdyu59TP) | 3:05 | 2026-03-20 |  |

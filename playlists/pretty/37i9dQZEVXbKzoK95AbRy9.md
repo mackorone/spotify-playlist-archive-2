@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,259 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,288 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [Coração Partido \(Corazón Partío\) \- Ao Vivo](https://open.spotify.com/track/6Kyl2nFgU0J8WBlbBvDv6g) | [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi) | [Churrasquinho 3 \(Ao Vivo\)](https://open.spotify.com/album/4o4fRzbvBpmoiSpkr68mmC) | 3:15 |
 | 50 | [Desgraça](https://open.spotify.com/track/7kLZlMAsV9Kx7RynqQaTiG) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [EQUILIBRIVM](https://open.spotify.com/album/0X22dVuwJtKnZDlie1Eln5) | 2:50 |
 
-Snapshot ID: `MYgXIAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MYlooAAAAAAAAAAAAAAAAAAAAAAAAGVu`

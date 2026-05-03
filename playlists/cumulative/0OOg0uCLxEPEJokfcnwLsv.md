@@ -4,7 +4,7 @@
 
 > These are some independent rock bands you need to hear.
 
-473 songs - 1 day 5 hr 18 min
+474 songs - 1 day 5 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -336,6 +336,7 @@
 | [Schwarzer Engel](https://open.spotify.com/track/3NfW08uCTFOhvgrdGGPQkJ) | [Seelentrost](https://open.spotify.com/artist/4KafT120JV2hhs3TlovDWD) | [Schwarzer Engel](https://open.spotify.com/album/6pB2eeRbU2Qc5ounDES7yj) | 2:55 | 2026-04-16 |  |
 | [Searching for gold](https://open.spotify.com/track/5e25FIH9dH5BOArsdZd7zm) | [VIBE](https://open.spotify.com/artist/3JYPwdF2X6M7rv0AL9xGTo) | [YOU CANNOT BE SERIOUS](https://open.spotify.com/album/4AquZxIQcvhnbNUOESi7OO) | 3:39 | 2026-03-27 | 2026-04-20 |
 | [Season 2](https://open.spotify.com/track/3E3HFi5uwVHOv7R37gzHuu) | [Tenkila](https://open.spotify.com/artist/5SnRmKiQScFAV0ScEVdRM0) | [Season 2](https://open.spotify.com/album/3PRuwaXPbL17pqH1OnpNke) | 3:44 | 2026-04-02 | 2026-04-20 |
+| [Set Your Life On Fire](https://open.spotify.com/track/5Nx6BHTGLSITqrERad64nk) | [The Last Pioneers](https://open.spotify.com/artist/47VNhQMeBaWxOZG6aJHYvM) | [Set Your Life On Fire](https://open.spotify.com/album/4rUIlLpeOwgUvfJ8NMkmeD) | 3:28 | 2026-05-02 |  |
 | [Seven Thirty Three](https://open.spotify.com/track/1RXEc04j5kUp9DuNv2Vw4r) | [Steve Larkman](https://open.spotify.com/artist/451tRc86Zp28twMLVHv22v) | [Seven Thirty Three](https://open.spotify.com/album/0G3tpFLksq81tNg857HNSj) | 2:38 | 2026-01-11 |  |
 | [Shaded](https://open.spotify.com/track/5I2qMnYYV31dyVq3cJWRQo) | [The Homme](https://open.spotify.com/artist/4U836xTjRfFYfYctNxJFmm) | [Shaded](https://open.spotify.com/album/0ZvjH20hMVPiJXIln6SVKk) | 4:19 | 2026-02-07 | 2026-03-04 |
 | [Shake That Thing](https://open.spotify.com/track/36eCRqqm1Xac8b6fockewa) | [The Blue Mules](https://open.spotify.com/artist/07uYlW7XK9oTaN2itp1M6e) | [The Blues Ain't That Bad](https://open.spotify.com/album/7Az7QkvAHEfACkzyDw1G1Y) | 3:33 | 2025-11-26 | 2026-01-05 |

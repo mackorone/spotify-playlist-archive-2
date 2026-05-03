@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Rc8G4.md) - [plain]
 
 > This is Kylie Minogue\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,295 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,301 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Rc8G4.md) - [plain]
 | 23 | [Can't Get Blue Monday out of My Head](https://open.spotify.com/track/3DBErzKR7FVxLJvdzGlCLx) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Fever](https://open.spotify.com/album/4WzTXHp8bVKkKNu3UQ2Fqu) | 4:01 |
 | 24 | [Stateside + Kylie Minogue](https://open.spotify.com/track/0S9qRfGYOwnpbegV72h4GY) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Fancy Some More?](https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF) | 2:48 |
 | 25 | [Better the Devil You Know](https://open.spotify.com/track/1uiQNFERY6n5FxIEPGxzwA) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Rhythm of Love](https://open.spotify.com/album/30YW6lNcviVzg3FAF2kAXI) | 3:53 |
-| 26 | [Edge of Saturday Night](https://open.spotify.com/track/0C1tRNlfakowVNFn1IMeCV) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Edge of Saturday Night](https://open.spotify.com/album/09VDiKeG4eFlqac8GAPAJQ) | 3:26 |
-| 27 | [Lights Camera Action](https://open.spotify.com/track/1vbhiBKv5Tyfx75BOoTbdU) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension II](https://open.spotify.com/album/0edaiVumHgKoTUCTfQXMuw) | 2:42 |
+| 26 | [Lights Camera Action](https://open.spotify.com/track/1vbhiBKv5Tyfx75BOoTbdU) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension II](https://open.spotify.com/album/0edaiVumHgKoTUCTfQXMuw) | 2:42 |
+| 27 | [Edge of Saturday Night](https://open.spotify.com/track/0C1tRNlfakowVNFn1IMeCV) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Edge of Saturday Night](https://open.spotify.com/album/09VDiKeG4eFlqac8GAPAJQ) | 3:26 |
 | 28 | [Chiggy Wiggy](https://open.spotify.com/track/4nt1pLbjBHtpHFarYXRHHN) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2), [Suzanne](https://open.spotify.com/artist/0uWl5BUPnXzE2RWQEprHyF), [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Abbas Tyrewala](https://open.spotify.com/artist/5eaK14k9NKZ4L6M8ROLntF) | [Blue](https://open.spotify.com/album/45HaaeQWPzIHJDpvVdYXm8) | 5:10 |
 | 29 | [Timebomb](https://open.spotify.com/track/5iXlbg16Fw84K2FwPsokzj) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Timebomb](https://open.spotify.com/album/1KFhdsYYnLd5nJGNSNg4Tl) | 2:56 |
 | 30 | [Chocolate](https://open.spotify.com/track/3RCX4p7p2WMjzxFGjoxY28) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [A Guevara](https://open.spotify.com/artist/1jPP6QhDYcXW9BQKM4qBbr) | [Body Language](https://open.spotify.com/album/7vd7tsL9QEJSKX4nvkkP9T) | 5:00 |
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Rc8G4.md) - [plain]
 | 36 | [Where the Wild Roses Grow](https://open.spotify.com/track/4NtVhnFAJNzV9tCIOwdPcX) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [The Abbey Road Sessions](https://open.spotify.com/album/1BdQWouNev422Pnyrse62b) | 4:07 |
 | 37 | [Hold On To Now](https://open.spotify.com/track/2DNHzFyCUHNLl5IH1NSM8h) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension \(Deluxe\)](https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g) | 3:57 |
 | 38 | [Red Blooded Woman](https://open.spotify.com/track/4A62ukubxZNeSQ2bUx2tKn) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Body Language](https://open.spotify.com/album/7vd7tsL9QEJSKX4nvkkP9T) | 4:20 |
-| 39 | [Miss a Thing](https://open.spotify.com/track/0qV1eEYdqH4UIhxIEabinN) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [DISCO \(Deluxe\)](https://open.spotify.com/album/140JX9hRDcAmfANQeKSnmG) | 3:56 |
-| 40 | [Real Groove \- Studio 2054 Remix](https://open.spotify.com/track/2AaMtxb9ipiZO6ItN1bJrq) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [DISCO: Guest List Edition](https://open.spotify.com/album/6X1cZakiDOXDbDUWiTVmGh) | 4:22 |
-| 41 | [Dancing](https://open.spotify.com/track/0NWP6SiwMWfb5m2GjU7ocj) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Golden](https://open.spotify.com/album/55khqtC0aVEUkIAefNjklD) | 2:58 |
+| 39 | [Dancing](https://open.spotify.com/track/0NWP6SiwMWfb5m2GjU7ocj) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Golden](https://open.spotify.com/album/55khqtC0aVEUkIAefNjklD) | 2:58 |
+| 40 | [Miss a Thing](https://open.spotify.com/track/0qV1eEYdqH4UIhxIEabinN) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [DISCO \(Deluxe\)](https://open.spotify.com/album/140JX9hRDcAmfANQeKSnmG) | 3:56 |
+| 41 | [Real Groove \- Studio 2054 Remix](https://open.spotify.com/track/2AaMtxb9ipiZO6ItN1bJrq) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [DISCO: Guest List Edition](https://open.spotify.com/album/6X1cZakiDOXDbDUWiTVmGh) | 4:22 |
 | 42 | [The One](https://open.spotify.com/track/0yKznHFSb0CYfMb5kSLw8h) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [X](https://open.spotify.com/album/5Y0DcJXYNRT0GOtchKvZdL) | 3:59 |
 | 43 | [Vegas High](https://open.spotify.com/track/7HZtHUlDXG5eSm1PiTOrKP) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension \(Deluxe\)](https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g) | 3:33 |
 | 44 | [Good As Gone](https://open.spotify.com/track/43NWJe8jWCv6BhxmPep4gy) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension II](https://open.spotify.com/album/0edaiVumHgKoTUCTfQXMuw) | 3:09 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Rc8G4.md) - [plain]
 | 47 | [Things We Do For Love](https://open.spotify.com/track/6PHWpsr3URoJmitQ0xhsUL) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension \(Deluxe\)](https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g) | 3:09 |
 | 48 | [Someone For Me](https://open.spotify.com/track/4RqWoB5cfvROXfgO8pYKzL) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension II](https://open.spotify.com/album/0edaiVumHgKoTUCTfQXMuw) | 2:34 |
 | 49 | [Got to Be Certain](https://open.spotify.com/track/7hsOcTJHQS6BxxPIyaNlvw) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Kylie](https://open.spotify.com/album/7lZXsT33rkuXF3WBZc5rQv) | 3:20 |
-| 50 | [Wow](https://open.spotify.com/track/26cPE7FYjpBxCI3zsnnuGV) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [X](https://open.spotify.com/album/5Y0DcJXYNRT0GOtchKvZdL) | 3:10 |
+| 50 | [Music's Too Sad Without You](https://open.spotify.com/track/2cUU9jelvVTypTwJttFwkV) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Jack Savoretti](https://open.spotify.com/artist/7nC05zmJukRGYObQeRgg3x) | [Golden](https://open.spotify.com/album/55khqtC0aVEUkIAefNjklD) | 4:09 |
 
-Snapshot ID: `afKbgAAAAACwASVno2cRG/FfmArp2Y4V`
+Snapshot ID: `afPtAAAAAAD2gJApy8xyu1VzaXvSLwV/`

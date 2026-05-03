@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1C5R5V.md) - [plain]
 
 > This is El Haragán y Compañía\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,733 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,734 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1C5R5V.md) - [plain]
 | 12 | [Mujer de Hotel](https://open.spotify.com/track/0DTCKC8mA6SiZNOhAkoDZ5) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [En el Corazón No Hay Nada](https://open.spotify.com/album/0MgT5ax9TFZL9ltKrLs5M3) | 4:32 |
 | 13 | [Juan el Descuartizador](https://open.spotify.com/track/0p9Bwi2HvvPNhvEdo4972S) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Valedores Juveniles](https://open.spotify.com/album/1EozvZIEU6wB5gwy6cEKCN) | 2:35 |
 | 14 | [El Haragan](https://open.spotify.com/track/6q0uy2hmYd96K3xFOFp65e) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [15 Éxitos de Colección](https://open.spotify.com/album/4gsU1aTVPZJFuNfRduqKg7) | 2:36 |
-| 15 | [Se Mujer](https://open.spotify.com/track/3G3q1cJpEp9qu0Csrw0tda) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [A Capela, Vol\. 1 \(Canciones para Escuchar\)](https://open.spotify.com/album/6uxNb9jYOZllR0lv8tPmzE) | 3:17 |
-| 16 | [No Puedo Más](https://open.spotify.com/track/2d4LDtwEGTDLP8PrYhDo2P) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV), [Blues Boys](https://open.spotify.com/artist/2fsmmyD3SsJL2suRoZwI6z) | [Y Se Armó el Rock and Roll, Vol\. 3](https://open.spotify.com/album/7Ke3ZzxM4Wj10x09phcL6p) | 3:18 |
+| 15 | [No Puedo Más](https://open.spotify.com/track/2d4LDtwEGTDLP8PrYhDo2P) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV), [Blues Boys](https://open.spotify.com/artist/2fsmmyD3SsJL2suRoZwI6z) | [Y Se Armó el Rock and Roll, Vol\. 3](https://open.spotify.com/album/7Ke3ZzxM4Wj10x09phcL6p) | 3:18 |
+| 16 | [Se Mujer](https://open.spotify.com/track/3G3q1cJpEp9qu0Csrw0tda) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [A Capela, Vol\. 1 \(Canciones para Escuchar\)](https://open.spotify.com/album/6uxNb9jYOZllR0lv8tPmzE) | 3:17 |
 | 17 | [El Chamuco](https://open.spotify.com/track/5RGPch9I7US0JeQK8KAnSg) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Valedores Juveniles](https://open.spotify.com/album/1EozvZIEU6wB5gwy6cEKCN) | 2:59 |
 | 18 | [En Algún Lugar en el Cielo](https://open.spotify.com/track/6uRi7gpG1xlAO7BycXs1x3) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [En Algún Lugar en el Cielo](https://open.spotify.com/album/6Yf17T7xGRB0lMdGfNokEg) | 4:04 |
 | 19 | [Sobrevivi](https://open.spotify.com/track/2Sn5IUotjtSlx8G0I9Q1Gy) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [15 Éxitos de Colección](https://open.spotify.com/album/4gsU1aTVPZJFuNfRduqKg7) | 3:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1C5R5V.md) - [plain]
 | 49 | [Campeón](https://open.spotify.com/track/43g4eMXbhgpNY5tWXXVFmC) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [En Algún Lugar en el Cielo](https://open.spotify.com/album/6Yf17T7xGRB0lMdGfNokEg) | 4:23 |
 | 50 | [El Adiós de un Alcohólico](https://open.spotify.com/track/2XETm8E7PrIuiOOhGNcjIZ) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO), [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [El Adiós de un Alcohólico](https://open.spotify.com/album/7F4pEFfyzTJmTbJeWmykce) | 5:06 |
 
-Snapshot ID: `afKbgAAAAADj+OdBT22V8TnTTBlQpTLm`
+Snapshot ID: `afPtAAAAAACaz8tEbk4opsYXhQwhy1Dn`

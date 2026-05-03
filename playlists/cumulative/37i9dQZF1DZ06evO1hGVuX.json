@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "Poem 1",
+        "url": "https://open.spotify.com/album/4eLf3APm1Cb4vqmJUnDLpr"
+      },
+      "artists": [
+        {
+          "name": "Ana Roxanne",
+          "url": "https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I"
+        }
+      ],
+      "date_added": "2026-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289030,
+      "name": "Berceuse in A-flat Minor, Op. 45",
+      "url": "https://open.spotify.com/track/6kasXvgsJSdRYoA2iBrhyq"
+    },
+    {
+      "album": {
         "name": "Because of a Flower",
         "url": "https://open.spotify.com/album/4JShepplFefZ43GXoE4bRd"
       },
@@ -100,6 +118,24 @@
       "duration_ms": 530697,
       "name": "Consolaci\u00f3n",
       "url": "https://open.spotify.com/track/62r4Voa3btkLgyWDbE2nlX"
+    },
+    {
+      "album": {
+        "name": "Poem 1",
+        "url": "https://open.spotify.com/album/4eLf3APm1Cb4vqmJUnDLpr"
+      },
+      "artists": [
+        {
+          "name": "Ana Roxanne",
+          "url": "https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I"
+        }
+      ],
+      "date_added": "2026-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226000,
+      "name": "Cover Me",
+      "url": "https://open.spotify.com/track/3YKoxarWdKzwVasA7oiAu7"
     },
     {
       "album": {
@@ -337,6 +373,24 @@
     },
     {
       "album": {
+        "name": "Poem 1",
+        "url": "https://open.spotify.com/album/4eLf3APm1Cb4vqmJUnDLpr"
+      },
+      "artists": [
+        {
+          "name": "Ana Roxanne",
+          "url": "https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I"
+        }
+      ],
+      "date_added": "2026-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261500,
+      "name": "One Shall Sleep",
+      "url": "https://open.spotify.com/track/1XhROhffxz05Zecw04Deov"
+    },
+    {
+      "album": {
         "name": "~~~",
         "url": "https://open.spotify.com/album/2oPJNXmIuWrJq9ozINmwFW"
       },
@@ -414,6 +468,24 @@
       "duration_ms": 364000,
       "name": "Take the Thorn, Leave the Rose",
       "url": "https://open.spotify.com/track/4lGU6coYhhEH6ekB5bN4cZ"
+    },
+    {
+      "album": {
+        "name": "Poem 1",
+        "url": "https://open.spotify.com/album/4eLf3APm1Cb4vqmJUnDLpr"
+      },
+      "artists": [
+        {
+          "name": "Ana Roxanne",
+          "url": "https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I"
+        }
+      ],
+      "date_added": "2026-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126000,
+      "name": "The Age of Innocence",
+      "url": "https://open.spotify.com/track/6EDopcLclclH78uRO5YQrs"
     },
     {
       "album": {
@@ -528,6 +600,42 @@
       "duration_ms": 262000,
       "name": "Wicked Game",
       "url": "https://open.spotify.com/track/4nOhr4lOjFc5vZhAVTIBa7"
+    },
+    {
+      "album": {
+        "name": "Poem 1",
+        "url": "https://open.spotify.com/album/4eLf3APm1Cb4vqmJUnDLpr"
+      },
+      "artists": [
+        {
+          "name": "Ana Roxanne",
+          "url": "https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I"
+        }
+      ],
+      "date_added": "2026-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "Wishful (draft)",
+      "url": "https://open.spotify.com/track/6Fcv3gmhC5rQctkZ3FlbDV"
+    },
+    {
+      "album": {
+        "name": "Poem 1",
+        "url": "https://open.spotify.com/album/4eLf3APm1Cb4vqmJUnDLpr"
+      },
+      "artists": [
+        {
+          "name": "Ana Roxanne",
+          "url": "https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I"
+        }
+      ],
+      "date_added": "2026-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202068,
+      "name": "X",
+      "url": "https://open.spotify.com/track/6CBsIBdi6MWzDkif2RjK45"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1hGVuX"

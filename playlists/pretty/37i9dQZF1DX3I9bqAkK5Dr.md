@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 
 > Check out the emerging independent tracks from these Telugu Artists!<br/>Cover : Anirudh Suswaram
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,967 likes - 88 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,977 likes - 88 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

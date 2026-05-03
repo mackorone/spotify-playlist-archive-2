@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Todo lo nuevo de música tropical 📸 Thalía
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,904 likes - 78 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,933 likes - 78 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

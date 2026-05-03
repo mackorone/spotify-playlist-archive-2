@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules\. No boundaries\. The best new alternative tracks\. Cover: Finn Wolfhard
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,215,450 likes - 151 songs - 8 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,215,648 likes - 151 songs - 8 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

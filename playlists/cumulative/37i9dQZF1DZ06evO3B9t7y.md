@@ -4,7 +4,7 @@
 
 > This is Carín León\. The essential tracks, all in one playlist.
 
-201 songs - 10 hr 37 min
+202 songs - 10 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [Recordaras \- En Vivo](https://open.spotify.com/track/1X1HVUBlxczcppQakPkuJN) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Cura Local \(En Vivo\)](https://open.spotify.com/album/4hHoE1NN7R25OMAiqpMI4b) | 3:20 | 2022-12-23 | 2023-04-14 |
 | [REGALO DE DIOS](https://open.spotify.com/track/1CpICQpUz3ZrHcJs84oAbH) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [REGALO DE DIOS](https://open.spotify.com/album/7v0P9sc9ZS62U6UB9c7B16) | 4:30 | 2025-05-24 | 2025-08-02 |
 | [Resultó Muy Perra \(Me Dejó Solito\)](https://open.spotify.com/track/0JfDDmD5vuNYpwQj4FCxdj) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Resultó Muy Perra \(Me Dejó Solito\)](https://open.spotify.com/album/2VKqdkvlANFAc3AhrYFeyj) | 2:24 | 2022-06-01 | 2025-04-02 |
+| [Ruca](https://open.spotify.com/track/73Iis0jeK8GvqybSakXRHd) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Ruca](https://open.spotify.com/album/6fsNOWfqMS95siXiT0XSQn) | 3:01 | 2026-05-03 |  |
 | [Secuelas De Amor](https://open.spotify.com/track/0F0vbaAjqfjK1kKH9Wyymn) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Inédito](https://open.spotify.com/album/0GjbNjkZ7Bp8rvzU6y8L4w) | 2:34 | 2022-06-01 | 2023-08-26 |
 | [Secuelas De Amor](https://open.spotify.com/track/3wavwOSbjbDahGOI16fpgG) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Inédito](https://open.spotify.com/album/2OsszrrYft2W0pprUj7jyX) | 2:34 | 2023-08-25 | 2026-04-24 |
 | [Secuelas De Amor](https://open.spotify.com/track/6d0omwCMQwRVOexEPsWAcv) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Inédito](https://open.spotify.com/album/3HRaYFwtWL2bgtnYiTpUUW) | 2:34 | 2026-04-25 |  |
@@ -182,7 +183,7 @@
 | [Te Lo Agradezco](https://open.spotify.com/track/0NnbCdowqhKtgtNEQ9oeBX) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Te Lo Agradezco](https://open.spotify.com/album/4b54nXTn2X4aRFgUnCaMGE) | 3:03 | 2023-08-02 | 2024-03-08 |
 | [Te Lo Agradezco](https://open.spotify.com/track/14k3Rb7Xgte9fsndjdenmq) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Lo Más Escuchado del 2023](https://open.spotify.com/album/3i1CjH1vT2s05QhuYKoxCE) | 3:03 | 2024-03-07 |  |
 | [Te quiero](https://open.spotify.com/track/5IShqQgFFTRRpQVVubD52f) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Te quiero](https://open.spotify.com/album/1c0oBLMD4sjDbBckO4Nqbe) | 3:34 | 2024-02-17 | 2025-05-27 |
-| [Te quiero](https://open.spotify.com/track/6vceWsNgqovG2v2u8zABFP) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [¿Por qué no ser amigos?](https://open.spotify.com/album/4s9B7JQAD1oZuNGMEyMcBK) | 3:34 | 2026-04-24 |  |
+| [Te quiero](https://open.spotify.com/track/6vceWsNgqovG2v2u8zABFP) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [¿Por qué no ser amigos?](https://open.spotify.com/album/4s9B7JQAD1oZuNGMEyMcBK) | 3:34 | 2026-04-24 | 2026-05-03 |
 | [Te Quiero y Me Miento](https://open.spotify.com/track/3XaV4cTX1VeLdQ0cfHs3U5) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Diego El Cigala](https://open.spotify.com/artist/7mLYMGXg84miYydKwi2aRi), [Chanela Clicka](https://open.spotify.com/artist/2RQCJUGP83CMLYttGm2Ypy) | [Te Quiero y Me Miento](https://open.spotify.com/album/0FRjqP097cD66Pxp8zEnpn) | 2:33 | 2025-04-19 | 2025-05-17 |
 | [Te Vi Con Él](https://open.spotify.com/track/3zK8zUmJzPAF4x1AtkxIcR) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Amanecida Con Todo y Con Todos](https://open.spotify.com/album/21EdAKCODBRv3OSIEHSYUa) | 3:00 | 2022-06-01 | 2023-08-26 |
 | [Te Ví Con El](https://open.spotify.com/track/3osBlMQdoOr4Mw7DU0q2v3) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Amanecida Con Todo y Con Todos](https://open.spotify.com/album/6f58BEZ1o41iN4p6a1ylWX) | 3:00 | 2023-08-25 | 2026-04-24 |

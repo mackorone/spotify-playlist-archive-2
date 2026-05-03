@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1zyhrO.md) - [plain]
 
 > This is Craig David\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,249 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,253 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1zyhrO.md) - [plain]
 | 24 | [All the Way](https://open.spotify.com/track/5ln1Tttut50qIL1KJkl3YC) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [The Story Goes...](https://open.spotify.com/album/3tzENLaGyi3Jrb5AaoKrGG) | 3:55 |
 | 25 | [We Were Just Kids \(feat\. Craig David & Kirsten Joy\)](https://open.spotify.com/track/4w1Lnjryh7voWNEfNdj37G) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Kirsten Joy](https://open.spotify.com/artist/3B7EiiOFeFjX4MuvV7QQil) | [What Is Love? \(Deluxe Edition\)](https://open.spotify.com/album/1MvF4ulZKH7SaDQs9rE5nc) | 3:29 |
 | 26 | [Ishq Hai \(This is Love\) \- From "Mismatched, Season 3"](https://open.spotify.com/track/53PHY7P6XrgX6YdPxJAhvO) | [Anurag Saikia](https://open.spotify.com/artist/6hzngLO20cX5IGqT0hVv1G), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Mismatched \- Cast](https://open.spotify.com/artist/0NbgKDsEHiPzZBZkqZGkXm), [Romy](https://open.spotify.com/artist/0bRPtPZQkWHeG7MGk9eWlh), [Amarabha Banerjee](https://open.spotify.com/artist/2780kFYuvbwSLPJZ5faEDw), [Varun Jain](https://open.spotify.com/artist/4gzrZDyL5gYiROkv27pYKx), [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h), [Raj Shekhar](https://open.spotify.com/artist/2DFCHTDIA0t638a4mm37dK) | [Ishq Hai \(This is Love\) \[From "Mismatched, Season 3"\]](https://open.spotify.com/album/24zM8Ez9aPPiDScXVXSH5K) | 2:26 |
-| 27 | [Officially Yours](https://open.spotify.com/track/4sofx1s0nDS4LG1Tx3uxpG) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Trust Me](https://open.spotify.com/album/0J9SVTShbzWaOhogFHXJ9K) | 3:55 |
-| 28 | [Nothing Like This](https://open.spotify.com/track/4PFQ4EQBtJUp2jQjpmYkVA) | [Blonde](https://open.spotify.com/artist/2nuKjZLgc7II6FO4Rxjt5e), [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Nothing Like This](https://open.spotify.com/album/4gjgWkaWRxPJc4TSflYAOr) | 3:03 |
+| 27 | [Nothing Like This](https://open.spotify.com/track/4PFQ4EQBtJUp2jQjpmYkVA) | [Blonde](https://open.spotify.com/artist/2nuKjZLgc7II6FO4Rxjt5e), [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Nothing Like This](https://open.spotify.com/album/4gjgWkaWRxPJc4TSflYAOr) | 3:03 |
+| 28 | [Officially Yours](https://open.spotify.com/track/4sofx1s0nDS4LG1Tx3uxpG) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Trust Me](https://open.spotify.com/album/0J9SVTShbzWaOhogFHXJ9K) | 3:55 |
 | 29 | [Lately Remix \(feat\. Craig David\)](https://open.spotify.com/track/5WpBfclrPYNsoqAVeJE5vC) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [falling or flying \(Deluxe\)](https://open.spotify.com/album/6wRMM8MLrOYDmyUnSiNzQa) | 2:06 |
 | 30 | [Ain't Giving Up](https://open.spotify.com/track/3mkJigBxWd5DJUsRuwHG3f) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN) | [Following My Intuition \(Expanded Edition\)](https://open.spotify.com/album/0Vop2iSyeir0QntOrgamFN) | 2:37 |
 | 31 | [Hypnotic](https://open.spotify.com/track/74tHCnEw90OJQl1LpAddm8) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [The Story Goes...](https://open.spotify.com/album/3tzENLaGyi3Jrb5AaoKrGG) | 4:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1zyhrO.md) - [plain]
 | 49 | [Obvious \- feat\. Muni Long](https://open.spotify.com/track/5hIYTHpbKZp5Rq1amDLL9i) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [22 \(Deluxe\)](https://open.spotify.com/album/4VUkXDCZR2aBe28zoIHHnJ) | 3:39 |
 | 50 | [Couldn't Be Mine](https://open.spotify.com/track/4BUYYtxQYG8eoHPieyc9Tx) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Following My Intuition \(Expanded Edition\)](https://open.spotify.com/album/0Vop2iSyeir0QntOrgamFN) | 3:01 |
 
-Snapshot ID: `afKbgAAAAAAGCbShCOSCEalKZV8ykbjF`
+Snapshot ID: `afPtAAAAAABTgkboBca+9CBgT5LYIiFR`

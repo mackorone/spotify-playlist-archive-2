@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQFcRGVLkSji.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6M7L8SMVEFvblfFmcNtgaV">BNYX®</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 396 likes - 173 songs - 8 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 395 likes - 173 songs - 8 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -126,11 +126,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQFcRGVLkSji.md) - [plain]
 | 116 | [1\-2 Step](https://open.spotify.com/track/58jI1b5IGROC4x3uCOvJ3V) | [Benji Blue Bills](https://open.spotify.com/artist/7t6PzXRwTR6eb4lNHxyhIC), [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG) | [Out The Blue](https://open.spotify.com/album/0VHFW4XiYdVxfUzfjkUkIc) | 1:26 |
 | 117 | [simmer down](https://open.spotify.com/track/4gtzhQZFZPx0xV5ZOLqck0) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [softCORE](https://open.spotify.com/album/0iv5fjooZ7WR2FvmxKwDER) | 2:44 |
 | 118 | [HONEST](https://open.spotify.com/track/6l0mMVn53nV2steaFy2Umv) | [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11) | [FIRST DEGREE](https://open.spotify.com/album/3xXhMQ8hGvs9hHwowUo7Wf) | 2:59 |
-| 119 | [Diana \(feat\. Flo Milli\)](https://open.spotify.com/track/49ZXHFSsv5gkknhNqubu0R) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Diana \(feat\. Flo Milli\)](https://open.spotify.com/album/7E0jB8tjVNMG1phWYiLEm4) | 2:05 |
-| 120 | [HunchO STEP! \(feat\. Quavo\)](https://open.spotify.com/track/5Q5q2dBnvn6CkpuB8RmLXr) | [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [HunchO STEP! \(feat\. Quavo\)](https://open.spotify.com/album/1QZeMcXY4qchahi6eQFzuT) | 3:20 |
+| 119 | [HunchO STEP! \(feat\. Quavo\)](https://open.spotify.com/track/5Q5q2dBnvn6CkpuB8RmLXr) | [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [HunchO STEP! \(feat\. Quavo\)](https://open.spotify.com/album/1QZeMcXY4qchahi6eQFzuT) | 3:20 |
+| 120 | [Diana \(feat\. Flo Milli\)](https://open.spotify.com/track/49ZXHFSsv5gkknhNqubu0R) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Diana \(feat\. Flo Milli\)](https://open.spotify.com/album/7E0jB8tjVNMG1phWYiLEm4) | 2:05 |
 | 121 | [chaNGE](https://open.spotify.com/track/4M0M2KF95LkvfM5CFexPZb) | [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11) | [LIVE.EVIL](https://open.spotify.com/album/2BAS4qtHxRitgAaHF4mLLR) | 1:40 |
-| 122 | [WIPED](https://open.spotify.com/track/3mOUnFnggll5Svu4hZFUlH) | [Lil Dann](https://open.spotify.com/artist/2mMBXm6qrEJuqdg3HnILr2), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [WIPED](https://open.spotify.com/album/0X7sDKR0b0XA93UpkT9gXx) | 3:04 |
-| 123 | [INTERSTELLAR \(feat\. Jahvor\)](https://open.spotify.com/track/33uQ6PJKdnYsvY6GBfBOKl) | [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [George Clanton](https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr), [Jahvor](https://open.spotify.com/artist/6Iqo4GihxRL5ULiITVuMv0) | [LOADING...](https://open.spotify.com/album/3TiHfUIEWKH4yXb9VL84IR) | 3:53 |
+| 122 | [INTERSTELLAR \(feat\. Jahvor\)](https://open.spotify.com/track/33uQ6PJKdnYsvY6GBfBOKl) | [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [George Clanton](https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr), [Jahvor](https://open.spotify.com/artist/6Iqo4GihxRL5ULiITVuMv0) | [LOADING...](https://open.spotify.com/album/3TiHfUIEWKH4yXb9VL84IR) | 3:53 |
+| 123 | [WIPED](https://open.spotify.com/track/3mOUnFnggll5Svu4hZFUlH) | [Lil Dann](https://open.spotify.com/artist/2mMBXm6qrEJuqdg3HnILr2), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [WIPED](https://open.spotify.com/album/0X7sDKR0b0XA93UpkT9gXx) | 3:04 |
 | 124 | [Damaged Feelings](https://open.spotify.com/track/1uVfXaNoJicLDMEEntCKDw) | [Neemz](https://open.spotify.com/artist/1klyF43vSKkOiQ7So5hVti) | [It's Above Me](https://open.spotify.com/album/0V1OyHUSASwtdjZmiEnDQH) | 3:17 |
 | 125 | [RESSURECT](https://open.spotify.com/track/5uVI3sDRqfbBL2SUzewtik) | [Leather Park](https://open.spotify.com/artist/7zwAV8QMBcclMJbWf7DmQ1), [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW), [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [Jeriq](https://open.spotify.com/artist/4Oph4YGsWzU9KAvZuuuG8z) | [LEATHER PARK \(VOL\. 1\)](https://open.spotify.com/album/6BNLRL7UHe27t2D0nw9lqV) | 2:54 |
 | 126 | [Olive \(feat\. Zelooperz\)](https://open.spotify.com/track/4CGM56g4eHDSjW97Psi9aW) | [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW), [Zelooperz](https://open.spotify.com/artist/5j93hwFBNo29RJMsWvtzj8) | [Almost There](https://open.spotify.com/album/2Zi2oIVwrNddAmeqeO96ig) | 2:04 |
@@ -182,4 +182,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQFcRGVLkSji.md) - [plain]
 | 172 | [Teach Me.](https://open.spotify.com/track/6lk7eNQnklTjsEx30gUJ80) | [Ant Beale](https://open.spotify.com/artist/14piOhWdd0MbAPVmUqGLhH) | [Life's a Hazard](https://open.spotify.com/album/0UqowJBThZPMFlqPorNSR1) | 5:00 |
 | 173 | [Divided](https://open.spotify.com/track/6NJOdQyw2EPnRAstnXNTDG) | [Warner Meadows](https://open.spotify.com/artist/0FzMywSPPmb2hqv2gvcIFk) | [Divided](https://open.spotify.com/album/2zCmstd1DA381t9zoW8QDr) | 1:44 |
 
-Snapshot ID: `AcQXRgAAAAC9+YXg0iqu3lSn/waaUAqt`
+Snapshot ID: `AcQcqgAAAAAuA77GKXxz29uqJvBkld91`

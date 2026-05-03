@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBvLQJVrYDy.md) - [plain]
 
 > Smooth and cozy saxophone ballads for relaxing or focus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,634 likes - 75 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,772 likes - 75 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBvLQJVrYDy.md) - [plain]
 | 74 | [Here Today](https://open.spotify.com/track/0qx0CusGlT0LHaKbvV1TG7) | [West Village Quartet](https://open.spotify.com/artist/0xh8Hbs6yzgtXrvcOYxckI) | [Here Today](https://open.spotify.com/album/6vj8aabAMbGdQfaUJQyRoD) | 3:47 |
 | 75 | [On Late Nights](https://open.spotify.com/track/4kGuyWcUz59MVQB3Z9021D) | [Snorre Kirk](https://open.spotify.com/artist/1QgZiL5uQ3WN1sMkmbVaGM), [Stephen Riley](https://open.spotify.com/artist/6r96KF2Ucx8cUwBvgnxRYD) | [On Late Nights](https://open.spotify.com/album/0WsJ0fgeveYpeGY0rTlfny) | 4:29 |
 
-Snapshot ID: `AAAAAIDIcOZN/1QVRaDcoryaXge2GR4d`
+Snapshot ID: `AAAAAB3XxPEDNP8652rblZBr1HcLGrvv`

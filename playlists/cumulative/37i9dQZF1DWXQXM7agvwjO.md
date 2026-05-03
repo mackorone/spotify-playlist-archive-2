@@ -4,7 +4,7 @@
 
 > Hottest indie sounds from Asia\. Cover: Balming Tiger \(Korea\)
 
-2,545 songs - 6 day 10 hr 49 min
+2,546 songs - 6 day 10 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1766,6 +1766,7 @@
 | [slow food](https://open.spotify.com/track/5Bm82ahj28icKbPDnhwqsJ) | [Sakura](https://open.spotify.com/artist/3lZQq9C8VzgwrQDnw7GZWT) | [slow food](https://open.spotify.com/album/4PZI9qlfZ4wE3CwpnHrQVD) | 2:43 | 2025-03-06 | 2025-03-14 |
 | [Slow Motion Perception](https://open.spotify.com/track/6eLMiSiERRlJkHu20umk5I) | [paranoid void](https://open.spotify.com/artist/3tIzE1MQigIhocuWtGBNrx) | [Slow Motion Perception](https://open.spotify.com/album/3y1yDShK721iCzxjmDCiTk) | 3:36 | 2024-12-12 | 2024-12-27 |
 | [slowboat](https://open.spotify.com/track/5rtc1aVVpRccHDNfagpZO2) | [Homecomings](https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K) | [see you, frail angel\. sea adore you.](https://open.spotify.com/album/4jTSkoy7zC33s4GS4znEba) | 3:55 | 2024-11-15 | 2024-12-06 |
+| [small flower](https://open.spotify.com/track/6y678ZhvSqMBeqRylknMo5) | [OurR](https://open.spotify.com/artist/5lC9qDfzcZb5iQp6x17ASP) | [small flower](https://open.spotify.com/album/6BceS6U3tyBiusj5Fx4Wl9) | 3:27 | 2026-04-30 |  |
 | [small town](https://open.spotify.com/track/1uP1wSZet6v3DHJhO4vstB) | [Clara Benin](https://open.spotify.com/artist/5ebPSE9YI5aLeZ1Z2gkqjn) | [small town](https://open.spotify.com/album/7wpAZr1j2jJaH7GtP3SemX) | 3:25 | 2023-04-20 | 2023-07-22 |
 | [Small Victories](https://open.spotify.com/track/0Bd7yruY4r7ndEcPkgkVgp) | [Tejas](https://open.spotify.com/artist/4CK1oDthUad8mQBb8GAcfl) | [Small Victories](https://open.spotify.com/album/2b1zLoAlI0DBKQSHh1OGBn) | 3:48 | 2024-11-15 | 2025-01-24 |
 | [Smile](https://open.spotify.com/track/34150VIJ46HI3exsXOlCSp) | [Cinéma Lumière](https://open.spotify.com/artist/3uOvdTke24fULCtW11LibU) | [Wishing It Was Sunday](https://open.spotify.com/album/0wmDkXGeMLACwOeJw2YvtO) | 3:39 | 2024-08-01 | 2024-08-30 |

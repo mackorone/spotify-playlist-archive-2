@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4RDXswvP6Mj.md) - [plain]
 
 > Let's party & clubbing with your favorite K\-pop dance hits! \(Cover: HEYOON\) 지금 가장 핫한 댄스곡들을 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,233,528 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,233,433 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4RDXswvP6Mj.md) - [plain]
 | 4 | [Catch Catch](https://open.spotify.com/track/2O9bMJticxbQ8FH3NiQ7Xh) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) | [LOVE CATCHER](https://open.spotify.com/album/1IxQnpYIIFY9F2IVVsD27F) | 3:00 |
 | 5 | [REDRED](https://open.spotify.com/track/2fCwv2ppU5nTRTckomIGsd) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [REDRED](https://open.spotify.com/album/52J8GQoNp2vgDJ6992NjiM) | 2:43 |
 | 6 | [UNCHILD](https://open.spotify.com/track/4wElGORjS56XtTvOJTPHVb) | [UNCHILD](https://open.spotify.com/artist/6TKweJiG4KC62YFs5KKUqu) | [We Are UNCHILD](https://open.spotify.com/album/4NVBboBjuyeBp0qIojiDbP) | 2:28 |
-| 7 | [No Tears On The Dancefloor](https://open.spotify.com/track/1LN9XD8fstMDvgI8RM4lpx) | [LEE CHAE YEON](https://open.spotify.com/artist/2nkZR6LwPxaAVtaVitNIPT) | [Till I Die](https://open.spotify.com/album/1NME7mvfv1WMEGJGcSF9bs) | 2:30 |
+| 7 | [No Tears On The Dancefloor](https://open.spotify.com/track/1LN9XD8fstMDvgI8RM4lpx) | [LEE CHAEYEON](https://open.spotify.com/artist/2nkZR6LwPxaAVtaVitNIPT) | [Till I Die](https://open.spotify.com/album/1NME7mvfv1WMEGJGcSF9bs) | 2:30 |
 | 8 | [Sign](https://open.spotify.com/track/29WdT0CvbaVoN5pbke3hXX) | [82MAJOR](https://open.spotify.com/artist/1wDstpO8XQNU6GV0S92663) | [FEELM](https://open.spotify.com/album/0U8OEGNR5aYwlY3TLXGVYS) | 2:49 |
 | 9 | [You, You](https://open.spotify.com/track/2X9RbCpuBRR6ztXn83AK5U) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [TWS 5th Mini Album ‘NO TRAGEDY’](https://open.spotify.com/album/17ICljXQ2I4bsPYpqkf5co) | 2:45 |
 | 10 | [Mmchk](https://open.spotify.com/track/5zwbPkrAUdR95cNStyBe82) | [NEXZ](https://open.spotify.com/artist/5TaK8pOYVARAr5cdgoa8EW) | [Mmchk](https://open.spotify.com/album/5YHLQZd6OjbaP5hMVts8Y7) | 2:38 |

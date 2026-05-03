@@ -1,12 +1,12 @@
 {
   "description": "These are some independent alternative rock bands you need to hear.",
-  "num_followers": 647,
+  "num_followers": 649,
   "original_name": "Unsigned Alternative Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAADXN/7I8t6hpwETruheDNuS0UtaKKx",
+  "snapshot_id": "AAADXixATT2H5v/CidEVfN2IDVmaYkuM",
   "tracks": [
     {
       "added_at": "2026-02-16 17:21:01",
@@ -1579,6 +1579,38 @@
       "duration_ms": 198947,
       "name": "BOGO Bodega",
       "url": "https://open.spotify.com/track/3TepkxGAUbD2KgxeePeSjP"
+    },
+    {
+      "added_at": "2026-05-02 13:58:23",
+      "album": {
+        "name": "Cristina",
+        "url": "https://open.spotify.com/album/6fNPJiXckogSPudXMCPrBv"
+      },
+      "artists": [
+        {
+          "name": "Dave Christen",
+          "url": "https://open.spotify.com/artist/3pLpSZzfhqSloT7Cidly8l"
+        }
+      ],
+      "duration_ms": 217433,
+      "name": "Cristina",
+      "url": "https://open.spotify.com/track/3zslKraslO9HGthkAAQ1EU"
+    },
+    {
+      "added_at": "2026-05-02 14:12:32",
+      "album": {
+        "name": "Set Your Life On Fire",
+        "url": "https://open.spotify.com/album/4rUIlLpeOwgUvfJ8NMkmeD"
+      },
+      "artists": [
+        {
+          "name": "The Last Pioneers",
+          "url": "https://open.spotify.com/artist/47VNhQMeBaWxOZG6aJHYvM"
+        }
+      ],
+      "duration_ms": 208190,
+      "name": "Set Your Life On Fire",
+      "url": "https://open.spotify.com/track/5Nx6BHTGLSITqrERad64nk"
     }
   ],
   "unique_name": "Unsigned Alternative Rock",

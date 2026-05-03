@@ -544,7 +544,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 211693,
       "name": "Simple",
       "url": "https://open.spotify.com/track/6sLxgkI2xALwGPUqQNzHLY"
@@ -620,6 +620,24 @@
       "duration_ms": 185763,
       "name": "Thirty",
       "url": "https://open.spotify.com/track/7Mds3ACnquh8j0R6F24Fo4"
+    },
+    {
+      "album": {
+        "name": "Everybody Needs a Hero",
+        "url": "https://open.spotify.com/album/00JkCQwC0mjcE55t4R4nqe"
+      },
+      "artists": [
+        {
+          "name": "Orla Gartland",
+          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
+        }
+      ],
+      "date_added": "2026-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190013,
+      "name": "Three Words Away",
+      "url": "https://open.spotify.com/track/0DJJyOL3LfHw10WrAlOMn7"
     },
     {
       "album": {

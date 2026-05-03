@@ -376,7 +376,7 @@
       ],
       "date_added": "2025-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 178236,
       "name": "FMU",
       "url": "https://open.spotify.com/track/5p84ePa35EvlMOADpwwogw"
@@ -530,6 +530,28 @@
       "duration_ms": 155657,
       "name": "High Heels (feat. Rico Nasty)",
       "url": "https://open.spotify.com/track/4DrDU8Vv9UkveFFgGhAnzG"
+    },
+    {
+      "album": {
+        "name": "HOT WHEELS (feat. Rico Nasty)",
+        "url": "https://open.spotify.com/album/39vJGX31o5xywlSVV5HPj3"
+      },
+      "artists": [
+        {
+          "name": "chase usa",
+          "url": "https://open.spotify.com/artist/3thDBmUSpn79NNnN8P1fzo"
+        },
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "date_added": "2026-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189900,
+      "name": "HOT WHEELS (feat. Rico Nasty)",
+      "url": "https://open.spotify.com/track/5CkNM9mYFcVXy8gUmNgN2I"
     },
     {
       "album": {

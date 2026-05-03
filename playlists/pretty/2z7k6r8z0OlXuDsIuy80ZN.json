@@ -1,36 +1,44 @@
 {
   "description": "\u00a1Los 40 principales \u00e9xitos de la radio musical en la \u00fanica e inimitable lista de LOS40! Actualizamos cada s\u00e1bado, tras el repaso a la nueva lista en Del 40 al 1 con Tony Aguilar. Escucha a Taylor Swift, Rosal\u00eda, Rels B, HUNTR/X, y muchos m\u00e1s",
   "num_followers": 154015,
-  "original_name": "Lista de LOS40 (Oficial) - Ryan Castro y Kapo en el N\u00ba1",
+  "original_name": "Lista de LOS40 (Oficial) - Manuel Turizo vuelve al N\u00ba1",
   "owner": {
     "name": "LOS40",
     "url": "https://open.spotify.com/user/los40_spain"
   },
-  "snapshot_id": "AAAsexFmb1Z1jGmC4/mjK25NwzezP2Ei",
+  "snapshot_id": "AAAsnxUDkHSEnTQXQVUtSaILU5IJkC1c",
   "tracks": [
     {
       "added_at": "2026-04-25 12:05:53",
       "album": {
-        "name": "LA VILLA",
-        "url": "https://open.spotify.com/album/1XVigPq3MfLv2kDIwWu1tq"
+        "name": "Por un Pendejo no se llora",
+        "url": "https://open.spotify.com/album/2EruLTvow64kevFfTRKP6f"
       },
       "artists": [
         {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        },
-        {
-          "name": "Kapo",
-          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
-        },
-        {
-          "name": "Gangsta",
-          "url": "https://open.spotify.com/artist/5ayJu41CsIbLfnMldF6bj3"
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
         }
       ],
-      "duration_ms": 192111,
-      "name": "LA VILLA",
-      "url": "https://open.spotify.com/track/6YkGw5op7PeyP2gmMMMrfJ"
+      "duration_ms": 151146,
+      "name": "Por un Pendejo no se llora",
+      "url": "https://open.spotify.com/track/4VPl3WGYKxQG8EVis7uLDt"
+    },
+    {
+      "added_at": "2026-04-25 12:05:53",
+      "album": {
+        "name": "DECIDE",
+        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "duration_ms": 159245,
+      "name": "End of Beginning",
+      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
     },
     {
       "added_at": "2026-04-25 12:05:53",
@@ -51,38 +59,6 @@
       "duration_ms": 243070,
       "name": "Dardos",
       "url": "https://open.spotify.com/track/5SudOD9R1Of6CsJVWZy6CQ"
-    },
-    {
-      "added_at": "2026-04-25 12:05:53",
-      "album": {
-        "name": "The Life of a Showgirl",
-        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 226073,
-      "name": "The Fate of Ophelia",
-      "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
-    },
-    {
-      "added_at": "2026-04-25 12:05:53",
-      "album": {
-        "name": "DECIDE",
-        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
-      },
-      "artists": [
-        {
-          "name": "Djo",
-          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
-        }
-      ],
-      "duration_ms": 159245,
-      "name": "End of Beginning",
-      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
     },
     {
       "added_at": "2026-04-25 12:05:53",
@@ -116,57 +92,49 @@
           "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
+      "duration_ms": 226073,
+      "name": "The Fate of Ophelia",
+      "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
+    },
+    {
+      "added_at": "2026-04-25 12:05:53",
+      "album": {
+        "name": "LA VILLA",
+        "url": "https://open.spotify.com/album/1XVigPq3MfLv2kDIwWu1tq"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        },
+        {
+          "name": "Gangsta",
+          "url": "https://open.spotify.com/artist/5ayJu41CsIbLfnMldF6bj3"
+        }
+      ],
+      "duration_ms": 192111,
+      "name": "LA VILLA",
+      "url": "https://open.spotify.com/track/6YkGw5op7PeyP2gmMMMrfJ"
+    },
+    {
+      "added_at": "2026-04-25 12:05:53",
+      "album": {
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
       "duration_ms": 235355,
       "name": "Opalite",
       "url": "https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa"
-    },
-    {
-      "added_at": "2026-04-25 12:05:53",
-      "album": {
-        "name": "Por un Pendejo no se llora",
-        "url": "https://open.spotify.com/album/2EruLTvow64kevFfTRKP6f"
-      },
-      "artists": [
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 151146,
-      "name": "Por un Pendejo no se llora",
-      "url": "https://open.spotify.com/track/4VPl3WGYKxQG8EVis7uLDt"
-    },
-    {
-      "added_at": "2026-04-25 12:05:53",
-      "album": {
-        "name": "LOVE",
-        "url": "https://open.spotify.com/album/5mgrmxXmQpIwXyEwXzou29"
-      },
-      "artists": [
-        {
-          "name": "Clarent",
-          "url": "https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "LOVE",
-      "url": "https://open.spotify.com/track/3YmFH8V7TUtLAYhnlswkdQ"
-    },
-    {
-      "added_at": "2026-04-25 12:05:53",
-      "album": {
-        "name": "CUARTO AZUL",
-        "url": "https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M"
-      },
-      "artists": [
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        }
-      ],
-      "duration_ms": 183529,
-      "name": "SUPERESTRELLA",
-      "url": "https://open.spotify.com/track/6hpuesKPNa3WhV48O7Fa47"
     },
     {
       "added_at": "2026-04-25 12:05:53",
@@ -187,6 +155,106 @@
       "duration_ms": 195546,
       "name": "La Perla",
       "url": "https://open.spotify.com/track/4oVO4fGNRRvEn0CRuFO4qv"
+    },
+    {
+      "added_at": "2026-04-25 12:05:53",
+      "album": {
+        "name": "CUARTO AZUL",
+        "url": "https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "duration_ms": 183529,
+      "name": "SUPERESTRELLA",
+      "url": "https://open.spotify.com/track/6hpuesKPNa3WhV48O7Fa47"
+    },
+    {
+      "added_at": "2026-04-25 12:05:53",
+      "album": {
+        "name": "Ayer La Vi (BPA26)",
+        "url": "https://open.spotify.com/album/7zasVgESdwTXibF73T9QE6"
+      },
+      "artists": [
+        {
+          "name": "Juan Mag\u00e1n",
+          "url": "https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51"
+        },
+        {
+          "name": "Omar Montes",
+          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
+        }
+      ],
+      "duration_ms": 170769,
+      "name": "Ayer La Vi (BPA26)",
+      "url": "https://open.spotify.com/track/50SSJV9VPpvO7bZwK5ZjRa"
+    },
+    {
+      "added_at": "2026-04-25 12:05:53",
+      "album": {
+        "name": "Homewrecker",
+        "url": "https://open.spotify.com/album/5KzDGTJ3sGlfuwSryRB4p4"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 209066,
+      "name": "Homewrecker",
+      "url": "https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z"
+    },
+    {
+      "added_at": "2026-04-25 12:05:53",
+      "album": {
+        "name": "LOVE",
+        "url": "https://open.spotify.com/album/5mgrmxXmQpIwXyEwXzou29"
+      },
+      "artists": [
+        {
+          "name": "Clarent",
+          "url": "https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "LOVE",
+      "url": "https://open.spotify.com/track/3YmFH8V7TUtLAYhnlswkdQ"
+    },
+    {
+      "added_at": "2026-04-25 12:05:53",
+      "album": {
+        "name": "Dime d\u00f3nde est\u00e1s",
+        "url": "https://open.spotify.com/album/0HPvuNs43YdUV7W4qNWavp"
+      },
+      "artists": [
+        {
+          "name": "\u00c1lvaro De Luna",
+          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
+        }
+      ],
+      "duration_ms": 163895,
+      "name": "Dime d\u00f3nde est\u00e1s",
+      "url": "https://open.spotify.com/track/1gt0s3zSKAo6Te66RMPdBh"
+    },
+    {
+      "added_at": "2026-04-25 12:05:53",
+      "album": {
+        "name": "Algo de m\u00ed",
+        "url": "https://open.spotify.com/album/7mUyUHgpceqFrbVqKnyoqm"
+      },
+      "artists": [
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "duration_ms": 181914,
+      "name": "Algo de m\u00ed",
+      "url": "https://open.spotify.com/track/6ciwQPaKG7QERMMLrjznZE"
     },
     {
       "added_at": "2026-04-25 12:05:53",
@@ -215,50 +283,18 @@
     {
       "added_at": "2026-04-25 12:05:53",
       "album": {
-        "name": "Homewrecker",
-        "url": "https://open.spotify.com/album/5KzDGTJ3sGlfuwSryRB4p4"
+        "name": "las guapas no morimos de verdad",
+        "url": "https://open.spotify.com/album/42aGQSUuZFZMRWn5Cw6Y3z"
       },
       "artists": [
         {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+          "name": "RUSLANA",
+          "url": "https://open.spotify.com/artist/0Hx5M9oJbPM1sGqQ6iNgkB"
         }
       ],
-      "duration_ms": 209066,
-      "name": "Homewrecker",
-      "url": "https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z"
-    },
-    {
-      "added_at": "2026-04-25 12:05:53",
-      "album": {
-        "name": "Algo de m\u00ed",
-        "url": "https://open.spotify.com/album/7mUyUHgpceqFrbVqKnyoqm"
-      },
-      "artists": [
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        }
-      ],
-      "duration_ms": 181914,
-      "name": "Algo de m\u00ed",
-      "url": "https://open.spotify.com/track/6ciwQPaKG7QERMMLrjznZE"
-    },
-    {
-      "added_at": "2026-04-25 12:05:53",
-      "album": {
-        "name": "Dime d\u00f3nde est\u00e1s",
-        "url": "https://open.spotify.com/album/0HPvuNs43YdUV7W4qNWavp"
-      },
-      "artists": [
-        {
-          "name": "\u00c1lvaro De Luna",
-          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
-        }
-      ],
-      "duration_ms": 163895,
-      "name": "Dime d\u00f3nde est\u00e1s",
-      "url": "https://open.spotify.com/track/1gt0s3zSKAo6Te66RMPdBh"
+      "duration_ms": 210946,
+      "name": "las guapas no morimos de verdad",
+      "url": "https://open.spotify.com/track/1Q7xmcaclrfJlzsUKPo90N"
     },
     {
       "added_at": "2026-04-25 12:05:53",
@@ -275,6 +311,22 @@
       "duration_ms": 159007,
       "name": "SWIM",
       "url": "https://open.spotify.com/track/68lbSrXDORS51pmyjZv712"
+    },
+    {
+      "added_at": "2026-04-25 12:05:53",
+      "album": {
+        "name": "Bohemio",
+        "url": "https://open.spotify.com/album/6Mxj2Qa89q3Hx0qCi5YUqV"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Loco X Verte",
+      "url": "https://open.spotify.com/track/1TP9auslksX7yv9KuYzs5g"
     },
     {
       "added_at": "2026-04-25 12:05:53",
@@ -299,74 +351,6 @@
     {
       "added_at": "2026-04-25 12:05:53",
       "album": {
-        "name": "Ayer La Vi (BPA26)",
-        "url": "https://open.spotify.com/album/7zasVgESdwTXibF73T9QE6"
-      },
-      "artists": [
-        {
-          "name": "Juan Mag\u00e1n",
-          "url": "https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51"
-        },
-        {
-          "name": "Omar Montes",
-          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
-        }
-      ],
-      "duration_ms": 170769,
-      "name": "Ayer La Vi (BPA26)",
-      "url": "https://open.spotify.com/track/50SSJV9VPpvO7bZwK5ZjRa"
-    },
-    {
-      "added_at": "2026-04-25 12:05:53",
-      "album": {
-        "name": "las guapas no morimos de verdad",
-        "url": "https://open.spotify.com/album/42aGQSUuZFZMRWn5Cw6Y3z"
-      },
-      "artists": [
-        {
-          "name": "RUSLANA",
-          "url": "https://open.spotify.com/artist/0Hx5M9oJbPM1sGqQ6iNgkB"
-        }
-      ],
-      "duration_ms": 210946,
-      "name": "las guapas no morimos de verdad",
-      "url": "https://open.spotify.com/track/1Q7xmcaclrfJlzsUKPo90N"
-    },
-    {
-      "added_at": "2026-04-25 12:05:53",
-      "album": {
-        "name": "No Lo S\u00e9 Ni Yo",
-        "url": "https://open.spotify.com/album/6tTg5qkO15q5uT9exNeyFy"
-      },
-      "artists": [
-        {
-          "name": "DePol",
-          "url": "https://open.spotify.com/artist/16t23tANCHuuAN0yPqBbA0"
-        }
-      ],
-      "duration_ms": 180260,
-      "name": "\u00daltima Bala",
-      "url": "https://open.spotify.com/track/5TnAz2CbcJqN7aAjRaM2Mv"
-    },
-    {
-      "added_at": "2026-04-25 12:05:53",
-      "album": {
-        "name": "Bohemio",
-        "url": "https://open.spotify.com/album/6Mxj2Qa89q3Hx0qCi5YUqV"
-      },
-      "artists": [
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Loco X Verte",
-      "url": "https://open.spotify.com/track/1TP9auslksX7yv9KuYzs5g"
-    },
-    {
-      "added_at": "2026-04-25 12:05:53",
-      "album": {
         "name": "I Just Might",
         "url": "https://open.spotify.com/album/2YOfpbW6kCd2XHW2Ln2Uih"
       },
@@ -383,22 +367,6 @@
     {
       "added_at": "2026-04-25 12:05:53",
       "album": {
-        "name": "WHERE IS MY HUSBAND!",
-        "url": "https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 197142,
-      "name": "WHERE IS MY HUSBAND!",
-      "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"
-    },
-    {
-      "added_at": "2026-04-25 12:05:53",
-      "album": {
         "name": "NEXO 01. Me acuerdo de ti",
         "url": "https://open.spotify.com/album/10jwEmHOwVHYPFecFcUoGd"
       },
@@ -411,22 +379,6 @@
       "duration_ms": 195279,
       "name": "NEXO 01. Me acuerdo de ti",
       "url": "https://open.spotify.com/track/4qmNeOovGFdhsiBgPKxlTQ"
-    },
-    {
-      "added_at": "2026-04-25 12:05:53",
-      "album": {
-        "name": "Los Paraca\u00eddas",
-        "url": "https://open.spotify.com/album/0qmMtLIVz5a9l1PGAba0XF"
-      },
-      "artists": [
-        {
-          "name": "Samura\u00ef",
-          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
-        }
-      ],
-      "duration_ms": 189429,
-      "name": "Los Paraca\u00eddas",
-      "url": "https://open.spotify.com/track/6UVEZ6gXAXkcUK5eKpLrHl"
     },
     {
       "added_at": "2026-04-25 12:05:53",
@@ -467,6 +419,38 @@
     {
       "added_at": "2026-04-25 12:05:53",
       "album": {
+        "name": "WHERE IS MY HUSBAND!",
+        "url": "https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 197142,
+      "name": "WHERE IS MY HUSBAND!",
+      "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"
+    },
+    {
+      "added_at": "2026-04-25 12:05:53",
+      "album": {
+        "name": "No Lo S\u00e9 Ni Yo",
+        "url": "https://open.spotify.com/album/6tTg5qkO15q5uT9exNeyFy"
+      },
+      "artists": [
+        {
+          "name": "DePol",
+          "url": "https://open.spotify.com/artist/16t23tANCHuuAN0yPqBbA0"
+        }
+      ],
+      "duration_ms": 180260,
+      "name": "\u00daltima Bala",
+      "url": "https://open.spotify.com/track/5TnAz2CbcJqN7aAjRaM2Mv"
+    },
+    {
+      "added_at": "2026-04-25 12:05:53",
+      "album": {
         "name": "back to friends",
         "url": "https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E"
       },
@@ -483,6 +467,38 @@
     {
       "added_at": "2026-04-25 12:05:53",
       "album": {
+        "name": "Los Paraca\u00eddas",
+        "url": "https://open.spotify.com/album/0qmMtLIVz5a9l1PGAba0XF"
+      },
+      "artists": [
+        {
+          "name": "Samura\u00ef",
+          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
+        }
+      ],
+      "duration_ms": 189429,
+      "name": "Los Paraca\u00eddas",
+      "url": "https://open.spotify.com/track/6UVEZ6gXAXkcUK5eKpLrHl"
+    },
+    {
+      "added_at": "2026-04-25 12:05:53",
+      "album": {
+        "name": "FEVER DREAM",
+        "url": "https://open.spotify.com/album/1tJQ5Mp1XSf7waZzH6KhlJ"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 153430,
+      "name": "FEVER DREAM",
+      "url": "https://open.spotify.com/track/7ogpGbKc4Io6NCU6ydxXwZ"
+    },
+    {
+      "added_at": "2026-04-25 12:05:53",
+      "album": {
         "name": "L\u00e1rgate",
         "url": "https://open.spotify.com/album/4ae7YIU9iWRBCCV7I23Nit"
       },
@@ -495,6 +511,42 @@
       "duration_ms": 180074,
       "name": "L\u00e1rgate",
       "url": "https://open.spotify.com/track/6xMEkgHI4X3biKg9fQ45RI"
+    },
+    {
+      "added_at": "2026-05-02 12:19:12",
+      "album": {
+        "name": "Dracula (Remix)",
+        "url": "https://open.spotify.com/album/6KFq3hJB6JnNvDbEHRvPoK"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        },
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "duration_ms": 209720,
+      "name": "Dracula - JENNIE Remix",
+      "url": "https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM"
+    },
+    {
+      "added_at": "2026-04-25 12:05:53",
+      "album": {
+        "name": "puzzle",
+        "url": "https://open.spotify.com/album/3qFS7iFd3r3oYC9yfODICr"
+      },
+      "artists": [
+        {
+          "name": "Chiara Oliver",
+          "url": "https://open.spotify.com/artist/5zeSRJxJzaOyxt9p4kxMLg"
+        }
+      ],
+      "duration_ms": 190966,
+      "name": "puzzle",
+      "url": "https://open.spotify.com/track/3cZsGX3upHnsPfgKL7HneG"
     },
     {
       "added_at": "2026-04-25 12:05:53",
@@ -531,18 +583,18 @@
     {
       "added_at": "2026-04-25 12:05:53",
       "album": {
-        "name": "LUX",
-        "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY"
+        "name": "H\u00e1blales",
+        "url": "https://open.spotify.com/album/7hYIeg3UySBwxdfZbzh8go"
       },
       "artists": [
         {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+          "name": "Marlon",
+          "url": "https://open.spotify.com/artist/1RTZXV2Txeij9hW1C88mfs"
         }
       ],
-      "duration_ms": 130506,
-      "name": "Dios Es Un Stalker",
-      "url": "https://open.spotify.com/track/6FdOGTRYvLCJ79d55YtGgZ"
+      "duration_ms": 219991,
+      "name": "H\u00e1blales",
+      "url": "https://open.spotify.com/track/4qK3E82gdvpwXqK58dX80A"
     },
     {
       "added_at": "2026-04-25 12:05:53",
@@ -565,100 +617,20 @@
       "url": "https://open.spotify.com/track/1VamVCJejLZh212lNhygVw"
     },
     {
-      "added_at": "2026-04-25 12:05:53",
+      "added_at": "2026-05-02 12:19:38",
       "album": {
-        "name": "puzzle",
-        "url": "https://open.spotify.com/album/3qFS7iFd3r3oYC9yfODICr"
+        "name": "LUX",
+        "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY"
       },
       "artists": [
         {
-          "name": "Chiara Oliver",
-          "url": "https://open.spotify.com/artist/5zeSRJxJzaOyxt9p4kxMLg"
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
         }
       ],
-      "duration_ms": 190966,
-      "name": "puzzle",
-      "url": "https://open.spotify.com/track/3cZsGX3upHnsPfgKL7HneG"
-    },
-    {
-      "added_at": "2026-04-25 12:05:53",
-      "album": {
-        "name": "FEVER DREAM",
-        "url": "https://open.spotify.com/album/1tJQ5Mp1XSf7waZzH6KhlJ"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 153430,
-      "name": "FEVER DREAM",
-      "url": "https://open.spotify.com/track/7ogpGbKc4Io6NCU6ydxXwZ"
-    },
-    {
-      "added_at": "2026-04-25 12:05:53",
-      "album": {
-        "name": "afroLOVA 25'",
-        "url": "https://open.spotify.com/album/6j8S3AOIOXBR1qfd3n2wHm"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 110495,
-      "name": "TU VAS SIN (fav)",
-      "url": "https://open.spotify.com/track/6uiQ0DqbXTBc8tl0AUKZkR"
-    },
-    {
-      "added_at": "2026-04-25 12:05:53",
-      "album": {
-        "name": "H\u00e1blales",
-        "url": "https://open.spotify.com/album/7hYIeg3UySBwxdfZbzh8go"
-      },
-      "artists": [
-        {
-          "name": "Marlon",
-          "url": "https://open.spotify.com/artist/1RTZXV2Txeij9hW1C88mfs"
-        }
-      ],
-      "duration_ms": 219991,
-      "name": "H\u00e1blales",
-      "url": "https://open.spotify.com/track/4qK3E82gdvpwXqK58dX80A"
-    },
-    {
-      "added_at": "2026-04-25 12:05:53",
-      "album": {
-        "name": "Sapphire",
-        "url": "https://open.spotify.com/album/1ZrWlhMUoyMKsoQ1tvRR2t"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 179082,
-      "name": "Sapphire",
-      "url": "https://open.spotify.com/track/4Q0qVhFQa7j6jRKzo3HDmP"
-    },
-    {
-      "added_at": "2026-04-25 12:05:53",
-      "album": {
-        "name": "Gabriela",
-        "url": "https://open.spotify.com/album/6rpin9IVOuBEWBYnrA9hft"
-      },
-      "artists": [
-        {
-          "name": "KATSEYE",
-          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
-        }
-      ],
-      "duration_ms": 197226,
-      "name": "Gabriela",
-      "url": "https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL"
+      "duration_ms": 230240,
+      "name": "Reliquia",
+      "url": "https://open.spotify.com/track/4ORvXsPK9AJmDzm36BYcdy"
     },
     {
       "added_at": "2026-04-25 12:05:53",
@@ -695,6 +667,22 @@
     {
       "added_at": "2026-04-25 12:05:53",
       "album": {
+        "name": "Gabriela",
+        "url": "https://open.spotify.com/album/6rpin9IVOuBEWBYnrA9hft"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "duration_ms": 197226,
+      "name": "Gabriela",
+      "url": "https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL"
+    },
+    {
+      "added_at": "2026-04-25 12:05:53",
+      "album": {
         "name": "TUTTO PASSA",
         "url": "https://open.spotify.com/album/7I5m6lJa5Erzjeh6LIgEL9"
       },
@@ -707,8 +695,24 @@
       "duration_ms": 160927,
       "name": "\u2060LUCI\u00c9RNAGAS",
       "url": "https://open.spotify.com/track/7wUntegNzggkzQ0hAI4RAk"
+    },
+    {
+      "added_at": "2026-04-25 12:05:53",
+      "album": {
+        "name": "afroLOVA 25'",
+        "url": "https://open.spotify.com/album/6j8S3AOIOXBR1qfd3n2wHm"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 110495,
+      "name": "TU VAS SIN (fav)",
+      "url": "https://open.spotify.com/track/6uiQ0DqbXTBc8tl0AUKZkR"
     }
   ],
-  "unique_name": "Lista de LOS40 (Oficial) - Ryan Castro y Kapo en el N\u00ba1",
+  "unique_name": "Lista de LOS40 (Oficial) - Manuel Turizo vuelve al N\u00ba1",
   "url": "https://open.spotify.com/playlist/2z7k6r8z0OlXuDsIuy80ZN"
 }

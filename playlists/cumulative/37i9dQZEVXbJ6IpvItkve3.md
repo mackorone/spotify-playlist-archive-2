@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Israel.
 
-1,426 songs - 3 day 8 hr 42 min
+1,427 songs - 3 day 8 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [01](https://open.spotify.com/track/0382guPH5wzOg7MDrYH7D0) | [Itay Levi](https://open.spotify.com/artist/6VdxGMRiiFQhI8F0FkuQZg) | [13](https://open.spotify.com/album/1Jca020Hx9YPUdEx65C5lu) | 3:20 | 2026-04-08 |  |
 | [03](https://open.spotify.com/track/3US82sqZ2NBqiS1odRwU8f) | [Itay Levi](https://open.spotify.com/artist/6VdxGMRiiFQhI8F0FkuQZg) | [13](https://open.spotify.com/album/1Jca020Hx9YPUdEx65C5lu) | 3:04 | 2026-04-09 |  |
 | [04](https://open.spotify.com/track/1DWiJcjzfF4rwJTxFx8NUR) | [Itay Levi](https://open.spotify.com/artist/6VdxGMRiiFQhI8F0FkuQZg) | [13](https://open.spotify.com/album/1Jca020Hx9YPUdEx65C5lu) | 2:35 | 2026-04-28 | 2026-04-30 |
-| [06](https://open.spotify.com/track/5iEZUAgj4QZxRPf0FojQ0Y) | [Itay Levi](https://open.spotify.com/artist/6VdxGMRiiFQhI8F0FkuQZg) | [13](https://open.spotify.com/album/1Jca020Hx9YPUdEx65C5lu) | 3:20 | 2026-04-12 |  |
+| [06](https://open.spotify.com/track/5iEZUAgj4QZxRPf0FojQ0Y) | [Itay Levi](https://open.spotify.com/artist/6VdxGMRiiFQhI8F0FkuQZg) | [13](https://open.spotify.com/album/1Jca020Hx9YPUdEx65C5lu) | 3:20 | 2026-04-12 | 2026-05-03 |
 | [1 0 0 \. m i l ‘ \(with Bas\)](https://open.spotify.com/track/4n6NDfYake476trCjJRNl0) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 2:43 | 2021-05-16 | 2021-05-18 |
 | [2055](https://open.spotify.com/track/4XvcHTUfIlWfyJTRG0aqlo) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [Still Sleep?](https://open.spotify.com/album/38nZLvJx8A9p4YYpTG5iFP) | 2:03 | 2021-09-18 | 2021-09-19 |
 | [24K Magic](https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [24K Magic](https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA) | 3:45 | 2023-10-04 | 2023-10-10 |
@@ -94,6 +94,7 @@
 | [Better](https://open.spotify.com/track/0P8Knv0pJYhahdGvKAqJcM) | [Tamir](https://open.spotify.com/artist/5FCbf39u4swxvJaxC2ZcDf) | [Better](https://open.spotify.com/album/1PhKYJMPKZ0p2AMNDTF2js) | 3:28 | 2022-02-24 | 2022-02-27 |
 | [Big Poe \(feat\. Sk8brd\)](https://open.spotify.com/track/4sLvxpKLvagQ4lZHUpymza) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 3:02 | 2025-07-22 | 2025-07-25 |
 | [Billie Bossa Nova](https://open.spotify.com/track/2KnuaZYoGzDoHiBTNYOTXG) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 3:16 | 2021-08-02 | 2021-08-03 |
+| [Billie Jean](https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ) | 4:53 | 2026-05-02 |  |
 | [Billionaire \(feat\. Bruno Mars\)](https://open.spotify.com/track/2qPUnoasNe4Ep43emVXEig) | [Travie McCoy](https://open.spotify.com/artist/7o9Nl7K1Al6NNAHX6jn6iG), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Lazarus](https://open.spotify.com/album/7kOivwbxDlUcVa4dCBCsWg) | 3:31 | 2023-10-05 | 2023-10-09 |
 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 | 2024-05-18 | 2025-06-01 |
 | [Black Summer](https://open.spotify.com/track/3a94TbZOxhkI9xuNwYL53b) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Black Summer](https://open.spotify.com/album/4a6LkeTXHKjMQgf42wQnbH) | 3:52 | 2022-02-05 | 2022-02-07 |
@@ -674,7 +675,7 @@
 | [אייכה](https://open.spotify.com/track/0h9lqpfcS37U6zvDCKwQhX) | [Shuli Rand](https://open.spotify.com/artist/7CgBEyXbjOjFX3HiysHtXN) | [נקודה טובה](https://open.spotify.com/album/79lA2NI0UCHT1FqFwB3m42) | 4:06 | 2022-04-29 | 2025-10-04 |
 | [איך שאת אוהבת](https://open.spotify.com/track/4ZczcAx568Lt9m51yuMsTy) | [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN) | [Part II](https://open.spotify.com/album/01OO9h8ieclWd8XiHHDg5e) | 3:29 | 2023-06-19 | 2023-06-21 |
 | [איך שיר נולד](https://open.spotify.com/track/5eKMrWBAOfHIs3PlnuNkjE) | [Hakeves Hashisha Asar Cast](https://open.spotify.com/artist/5qNBOWFjWqm8HFLuCEfI5R) | [הכבש השישה עשר](https://open.spotify.com/album/1W3rJ4GGmcx2649VTgrYMz) | 2:30 | 2023-04-21 | 2023-04-25 |
-| [אין אותי](https://open.spotify.com/track/34KzX8fwFPLchmOvYBDap0) | [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN), [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [NEXT EPISODE](https://open.spotify.com/album/0uMnrRUIr5sxcatkqn3tOt) | 3:28 | 2024-07-22 | 2025-06-12 |
+| [אין אותי](https://open.spotify.com/track/34KzX8fwFPLchmOvYBDap0) | [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN), [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [NEXT EPISODE](https://open.spotify.com/album/0uMnrRUIr5sxcatkqn3tOt) | 3:28 | 2024-07-22 |  |
 | [אין אותי יותר](https://open.spotify.com/track/6WBr8kINUWO14iuQSjgNI0) | [Gal Adam](https://open.spotify.com/artist/5sbVEFMCfdQ0T3vCqXax1K) | [אין אותי יותר](https://open.spotify.com/album/3G61OcEbQU2hBLF0XPvP3v) | 2:49 | 2021-03-27\* | 2021-04-26 |
 | [אין אותנו יותר \(By Tamar Yahalomy & Yonatan Kalimi\)](https://open.spotify.com/track/1zZ9bah4HU0TtICQzCFXp3) | [Avi Aburomi](https://open.spotify.com/artist/6vAJpFtiQ7xPtkArtCnHfr), [Mor](https://open.spotify.com/artist/0oI0Dm98K3jmtSbfTLiChX) | [אין אותנו יותר \(By Tamar Yahalomy & Yonatan Kalimi\)](https://open.spotify.com/album/3e0NsW70ttnopNfVzZ2P6r) | 3:04 | 2023-01-31 | 2024-02-22 |
 | [אין כבוד](https://open.spotify.com/track/4WoKmBYVGyrf7t0SkHhMQ1) | [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN) | [אוגוסט דאמפ](https://open.spotify.com/album/4iWiYzhVxoPbLFk8ROV5Bj) | 3:36 | 2025-08-05 |  |
@@ -742,7 +743,7 @@
 | [אפס מאמץ](https://open.spotify.com/track/3scEZ2JrbtrqfUvgHrPnSt) | [Static & Ben El](https://open.spotify.com/artist/0xHa28taiElkcQf9o3z76g), [Netta](https://open.spotify.com/artist/4Z4afeDmHFxPmJorIwupbZ) | [אפס מאמץ](https://open.spotify.com/album/6isaVgYKgKOhbRSNppMkGx) | 3:20 | 2021-07-04 | 2021-07-08 |
 | [אפר ואבק](https://open.spotify.com/track/1e5SBUMJfQ9Mx3Zk0OXZmg) | [Yehuda Poliker](https://open.spotify.com/artist/4rQnQQusV2VVuGmDTLlybe) | [אפר ואבק](https://open.spotify.com/album/2px1DDWf7a8xfM55qoMAXB) | 4:32 | 2023-04-19 | 2023-04-21 |
 | [אצלנו בגן](https://open.spotify.com/track/1Jn1ZoYCWdFhdPH9cG8Y8j) | [Shaylee Atary](https://open.spotify.com/artist/6jUAxR5KFMX2hcKKFebeL4) | [באמת שרציתי](https://open.spotify.com/album/1KnRVQXTCmlL49Ule62eU3) | 3:11 | 2021-04-16 | 2026-04-24 |
-| [אצלנו זה ככה](https://open.spotify.com/track/3q7lIfOj1j5HyVFlVr0vFj) | [Jasmin Moallem](https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr), [בן צור](https://open.spotify.com/artist/13Bny64Z0lG2BQFHhrMTPb) | [אצלנו זה ככה](https://open.spotify.com/album/3VtgH4Wr3CDgIl4zKdF4ew) | 3:33 | 2025-08-28 |  |
+| [אצלנו זה ככה](https://open.spotify.com/track/3q7lIfOj1j5HyVFlVr0vFj) | [Jasmin Moallem](https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr), [בן צור](https://open.spotify.com/artist/13Bny64Z0lG2BQFHhrMTPb) | [אצלנו זה ככה](https://open.spotify.com/album/3VtgH4Wr3CDgIl4zKdF4ew) | 3:33 | 2025-08-28 | 2026-05-03 |
 | [אקדח](https://open.spotify.com/track/1O0VUtEP7oVZKAXOMl0QLY) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [חמישה לילות](https://open.spotify.com/album/1qjdpHH3JbWR9ZTGRjjoRs) | 4:21 | 2024-03-22 | 2024-06-23 |
 | [אקורדים בלילות](https://open.spotify.com/track/6ubV4TOnHggG27ygsPxjvR) | [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN) | [אושר](https://open.spotify.com/album/0mqMqD84CEJAQIaHYLggLr) | 3:18 | 2023-02-13 | 2023-10-04 |
 | [ארים ראשי](https://open.spotify.com/track/2WqZYfSeozPYN9bX8tWPyT) | [Shay Gabso](https://open.spotify.com/artist/018HTJ9Cu6WXLAHEbUpU6r) | [ארים ראשי](https://open.spotify.com/album/0uLEEb2fwhBk2YfBQD6W3x) | 3:38 | 2022-05-05 | 2025-05-03 |

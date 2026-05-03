@@ -275,6 +275,24 @@
     },
     {
       "album": {
+        "name": "Hallucination",
+        "url": "https://open.spotify.com/album/3yMcy9pftiW6sPrscdImlT"
+      },
+      "artists": [
+        {
+          "name": "Isabel LaRosa",
+          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
+        }
+      ],
+      "date_added": "2026-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202585,
+      "name": "Hallucination",
+      "url": "https://open.spotify.com/track/3Fcnn90rR3xPYf1yluDyhu"
+    },
+    {
+      "album": {
         "name": "HAUNTED",
         "url": "https://open.spotify.com/album/4QhZwVQuNbbXtMgjp2Ngp2"
       },

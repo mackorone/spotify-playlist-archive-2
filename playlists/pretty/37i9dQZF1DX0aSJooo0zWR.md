@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aSJooo0zWR.md) - [plain]
 
 > Electrified jazz, complex rhythms and virtuosic playing\. Cover: CASIOPEA
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,011 likes - 134 songs - 12 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,031 likes - 134 songs - 12 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0e5BFIQWSDG.md) - [plain]
 
 > Οι μεγαλύτερες επιτυχίες του σήμερα και του αύριο, επιλεγμένες από την ομάδα μας\. Εξώφυλλο: FLY LO
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,077 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,073 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0e5BFIQWSDG.md) - [plain]
 | 36 | [SALVATORE](https://open.spotify.com/track/5sCEPFsFxNr0FsMW6OaZbT) | [HermesHermes](https://open.spotify.com/artist/5PeCMyf2BO8RlAujWP0erY), [Tr4cer](https://open.spotify.com/artist/1pujt2kEecz5ystwtZxJ0w) | [SALVATORE](https://open.spotify.com/album/2OInngvIJpJ8AYujWexpuL) | 2:41 |
 | 37 | [BOOM](https://open.spotify.com/track/3yG5QwVZfesivke0nOWr9R) | [Onad](https://open.spotify.com/artist/4RTFt1VFxH6TYHIpVDCmpV), [DAIMA](https://open.spotify.com/artist/7r4upKMzJSsSZUrSBSBrwN), [Adams](https://open.spotify.com/artist/2MmaF1qaC1pL5IJs7HQMuv) | [BOOM](https://open.spotify.com/album/6SfjX64Bpd4CpfIndf00Hn) | 1:44 |
 | 38 | [ALCANTARA](https://open.spotify.com/track/7utCywQkIX7CztLdSbShJp) | [HermesHermes](https://open.spotify.com/artist/5PeCMyf2BO8RlAujWP0erY), [Kidd](https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou), [BLVD](https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR) | [ALCANTARA](https://open.spotify.com/album/5TxLYjqyXamCUCb6z5b8B4) | 2:40 |
-| 39 | [Hey Shawty](https://open.spotify.com/track/2wqdEi1mkHWBgkkFWcZuFe) | [Moose](https://open.spotify.com/artist/3LcKlNE5nPPFpDtmc2wtdC), [Saske](https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p), [Display](https://open.spotify.com/artist/2h5alBjyxfubD2ci4vSc28) | [Hey Shawty](https://open.spotify.com/album/183mB58gA6j6qUdoFBOHcC) | 2:45 |
+| 39 | [Hey Shawty](https://open.spotify.com/track/2wqdEi1mkHWBgkkFWcZuFe) | [Moose](https://open.spotify.com/artist/3LcKlNE5nPPFpDtmc2wtdC), [Saske](https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p), [DISPLAY](https://open.spotify.com/artist/2h5alBjyxfubD2ci4vSc28) | [Hey Shawty](https://open.spotify.com/album/183mB58gA6j6qUdoFBOHcC) | 2:45 |
 | 40 | [LETE LETE](https://open.spotify.com/track/676OyMHIOfootgShTPbJgC) | [SNIK](https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl), [Trannos](https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc), [Fy](https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA) | [LETE LETE](https://open.spotify.com/album/0GAUs5okKyONukvSDhXSjS) | 3:33 |
 | 41 | [Isos Isoun Kiria](https://open.spotify.com/track/3wXwptbzcV60VOzQz0ODG4) | [Pantelis Pantelidis](https://open.spotify.com/artist/1TubjoUgPPYHfMoUrvJxP3) | [Alkoolikes I Nihtes](https://open.spotify.com/album/2DhTZJ7uoABIuwAceeBWq4) | 3:04 |
 | 42 | [Sousouro](https://open.spotify.com/track/6Q9L85FERsbSTVmNaZjhd4) | [Andromache](https://open.spotify.com/artist/0dn2Cwr75Rl4bh7yTwTorv) | [Sousouro](https://open.spotify.com/album/1ZuGXCJPpIFwRcgMHSghLU) | 3:51 |

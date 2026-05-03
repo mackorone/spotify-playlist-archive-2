@@ -149,6 +149,24 @@
     },
     {
       "album": {
+        "name": "Aqu\u00ed Es",
+        "url": "https://open.spotify.com/album/4YtRC8OPx2l5dus14aQkWk"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "date_added": "2026-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188176,
+      "name": "Aqu\u00ed Es",
+      "url": "https://open.spotify.com/track/1oKn9ftSFdIIPF6ydwnWhw"
+    },
+    {
+      "album": {
         "name": "Bendito Destino",
         "url": "https://open.spotify.com/album/1qTfZSwtJ0U8kLDUGSvCuH"
       },
@@ -984,7 +1002,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 182466,
       "name": "Entre Perico y Perico",
       "url": "https://open.spotify.com/track/0FF49nUUfvxTmLEGvzO8wv"

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5v6MaLqxxiqzxlVKg0gUBg">Julia Church</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-112 songs - 6 hr 49 min
+113 songs - 6 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Home In My Hand](https://open.spotify.com/track/3TAZUZfPkUWwf2ncERajnO) | [Dirty South](https://open.spotify.com/artist/1bpzpALZwOoKXzwMg2i8WB), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Home In My Hand](https://open.spotify.com/album/28cd1w6QYMwUA48eLPEZi8) | 4:58 | 2025-10-27 |  |
 | [Homesick Lover](https://open.spotify.com/track/68sOX6tNkq4xieJCkui8iK) | [MONTMARTRE](https://open.spotify.com/artist/4n3V7bHjjPqb11n7d0WAVo), [Kassidy](https://open.spotify.com/artist/1CZqhemGUtd5MhPj3Zc2iu) | [Homesick Lover](https://open.spotify.com/album/3Muf09tw779gRWSxKhU98y) | 2:51 | 2026-02-20 |  |
 | [Honey](https://open.spotify.com/track/6VfgiFkm9xVxISd7mNfRJd) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Hollaphonic](https://open.spotify.com/artist/5MOWxZWdW3Hi4IPyyRrRTi) | [Honey](https://open.spotify.com/album/21nV22Stp5Ed8TtAb2kc8e) | 3:08 | 2025-10-27 |  |
+| [Hurricane](https://open.spotify.com/track/2dP8286DHZ8UpZpTxl750e) | [Seven Lions](https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp), [Andrew Bayer](https://open.spotify.com/artist/5dFuu05x8SPBuymudrTBU8), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [Hurricane](https://open.spotify.com/album/3IZXTxZVI1HVALJTtxK91c) | 3:28 | 2026-05-02 |  |
 | [I Don't Think I Love You Anymore](https://open.spotify.com/track/1os3LM7fXjKRJowVkWZnwu) | [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [I Don't Think I Love You Anymore](https://open.spotify.com/album/05AOf7DlzBSXcuNlJUXI0A) | 2:52 | 2026-02-20 |  |
 | [If I Stayed](https://open.spotify.com/track/5XIYXLS7Arc0OBSpRtD5tp) | [Blonde Maze](https://open.spotify.com/artist/7jKdwKEJDwdloy2X6fyk9Y), [Modera](https://open.spotify.com/artist/5srbzu0tyZ1Wb1HgDOqVFj) | [Second Sight](https://open.spotify.com/album/5I6PqYr0qD0CJjXa9IGqE7) | 4:14 | 2026-02-20 |  |
 | [Imagine](https://open.spotify.com/track/5eFxAvs1EBR5PrWGWs3hkG) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [Hyzteria](https://open.spotify.com/artist/25hmNMFuDlPLe0TIcr8Djd) | [We Could Be Love](https://open.spotify.com/album/7MXx2NOHN8IsVPY9x57QXU) | 3:38 | 2025-10-27 |  |

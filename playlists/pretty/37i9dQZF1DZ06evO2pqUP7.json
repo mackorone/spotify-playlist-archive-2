@@ -1,12 +1,12 @@
 {
   "description": "This is Lunay. The essential tracks, all in one playlist.",
-  "num_followers": 70014,
+  "num_followers": 70015,
   "original_name": "This Is Lunay",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afKbgAAAAADMItaiH3SHM1q2vWi0Rt4G",
+  "snapshot_id": "afPtAAAAAACraoebGwqnl4nGlYQ3SeUP",
   "tracks": [
     {
       "added_at": null,
@@ -307,26 +307,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Victoria",
-        "url": "https://open.spotify.com/album/3FKA9NEOo3FYqykdnTqp58"
-      },
-      "artists": [
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        },
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        }
-      ],
-      "duration_ms": 223488,
-      "name": "Victoria",
-      "url": "https://open.spotify.com/track/2BxzmBb2uqwnpyVuJqIIV9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Favor (with Nicky Jam & Sech, feat. Farruko, Zion & Lunay)",
         "url": "https://open.spotify.com/album/28561uZztshyZSVG6ElL62"
       },
@@ -359,6 +339,26 @@
       "duration_ms": 233112,
       "name": "El Favor (with Nicky Jam & Sech, feat. Farruko, Zion & Lunay)",
       "url": "https://open.spotify.com/track/684EjRHwNsZQ9hCQxL4NYL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Victoria",
+        "url": "https://open.spotify.com/album/3FKA9NEOo3FYqykdnTqp58"
+      },
+      "artists": [
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "duration_ms": 223488,
+      "name": "Victoria",
+      "url": "https://open.spotify.com/track/2BxzmBb2uqwnpyVuJqIIV9"
     },
     {
       "added_at": null,
@@ -747,26 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Monarca",
-        "url": "https://open.spotify.com/album/6N1iKBKY8zRGImxADk2IdN"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        }
-      ],
-      "duration_ms": 164494,
-      "name": "Nena Buena",
-      "url": "https://open.spotify.com/track/3yaBstYCoYIfiQbAxTAxcT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Qui\u00e9n es Dei V?",
         "url": "https://open.spotify.com/album/2r23a27qGkIUR9BCgi0X6q"
       },
@@ -783,6 +763,26 @@
       "duration_ms": 157142,
       "name": "Hot (with Lunay)",
       "url": "https://open.spotify.com/track/3dAV3458kU5IEMAa5bzQMW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Monarca",
+        "url": "https://open.spotify.com/album/6N1iKBKY8zRGImxADk2IdN"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "duration_ms": 164494,
+      "name": "Nena Buena",
+      "url": "https://open.spotify.com/track/3yaBstYCoYIfiQbAxTAxcT"
     },
     {
       "added_at": null,
@@ -1119,22 +1119,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "787",
-        "url": "https://open.spotify.com/album/3Y3aMcdlV3b2InwFcNvsxa"
-      },
-      "artists": [
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        }
-      ],
-      "duration_ms": 225365,
-      "name": "787",
-      "url": "https://open.spotify.com/track/7fkckxJLcwDO62DeutVtUo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fantasia Sexual",
         "url": "https://open.spotify.com/album/1lf70hdVQoWSntSmDE738c"
       },
@@ -1167,6 +1151,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "787",
+        "url": "https://open.spotify.com/album/3Y3aMcdlV3b2InwFcNvsxa"
+      },
+      "artists": [
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "duration_ms": 225365,
+      "name": "787",
+      "url": "https://open.spotify.com/track/7fkckxJLcwDO62DeutVtUo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Gym",
         "url": "https://open.spotify.com/album/5ctwyXD42GpDu6D2gktAz5"
       },
@@ -1192,9 +1192,9 @@
           "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
         }
       ],
-      "duration_ms": 152000,
-      "name": "TBC",
-      "url": "https://open.spotify.com/track/1YU5ieZXPkwHoDSob6n6Zo"
+      "duration_ms": 215000,
+      "name": "ENERO",
+      "url": "https://open.spotify.com/track/6i9OFbEx4fELdEbI8Q9XtO"
     },
     {
       "added_at": null,

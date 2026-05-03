@@ -1,12 +1,12 @@
 {
   "description": "This is Narrow Head. The essential tracks, all in one playlist.",
-  "num_followers": 2661,
+  "num_followers": 2662,
   "original_name": "This Is Narrow Head",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afKbgAAAAADE8TwEV8HgQGii0Oj7vFtr",
+  "snapshot_id": "afPtAAAAAACPj4SB2tls/Xvr+grle73V",
   "tracks": [
     {
       "added_at": null,
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu"
         }
       ],
-      "duration_ms": 243314,
-      "name": "Soft to Touch",
-      "url": "https://open.spotify.com/track/62q7xYArt9ORYa3uGZEI7b"
+      "duration_ms": 212902,
+      "name": "Caroline",
+      "url": "https://open.spotify.com/track/1QihdrOippsltEK1LqdbPI"
     },
     {
       "added_at": null,
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu"
         }
       ],
-      "duration_ms": 212902,
-      "name": "Caroline",
-      "url": "https://open.spotify.com/track/1QihdrOippsltEK1LqdbPI"
+      "duration_ms": 243314,
+      "name": "Soft to Touch",
+      "url": "https://open.spotify.com/track/62q7xYArt9ORYa3uGZEI7b"
     },
     {
       "added_at": null,

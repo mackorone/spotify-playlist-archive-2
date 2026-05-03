@@ -1,12 +1,12 @@
 {
   "description": "This is Los Traileros Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 28713,
+  "num_followers": 28717,
   "original_name": "This Is Los Traileros Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afKbgAAAAAByEzeoW2YKYFRTl05o0x8/",
+  "snapshot_id": "afPtAAAAAAD1q19jNi3SSsZ48DQvEOTW",
   "tracks": [
     {
       "added_at": null,
@@ -27,22 +27,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quisiera Ser Una L\u00e1grima",
-        "url": "https://open.spotify.com/album/0VY9UhKG9EBpuuvThP8UU7"
-      },
-      "artists": [
-        {
-          "name": "Los Traileros Del Norte",
-          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
-        }
-      ],
-      "duration_ms": 178186,
-      "name": "Quisiera Ser Una L\u00e1grima",
-      "url": "https://open.spotify.com/track/3OoTWhcb1NL1R1aop3An2H"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rosas Blancas",
         "url": "https://open.spotify.com/album/6K3skX1EmX7Dn56MjhnuC8"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 164000,
       "name": "Rosas Blancas",
       "url": "https://open.spotify.com/track/5TJaE686PQ1CA1qvQuo8Fn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quisiera Ser Una L\u00e1grima",
+        "url": "https://open.spotify.com/album/0VY9UhKG9EBpuuvThP8UU7"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "duration_ms": 178186,
+      "name": "Quisiera Ser Una L\u00e1grima",
+      "url": "https://open.spotify.com/track/3OoTWhcb1NL1R1aop3An2H"
     },
     {
       "added_at": null,
@@ -91,22 +91,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quisiera Ser Una L\u00e1grima",
-        "url": "https://open.spotify.com/album/0VY9UhKG9EBpuuvThP8UU7"
-      },
-      "artists": [
-        {
-          "name": "Los Traileros Del Norte",
-          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
-        }
-      ],
-      "duration_ms": 163093,
-      "name": "Las Edades",
-      "url": "https://open.spotify.com/track/1zlh34h2BSn438NY6Beqm2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Te Sigo Amando",
         "url": "https://open.spotify.com/album/0xJaR0dKgvuTm8Y7yNq5u4"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 215200,
       "name": "No Hay Problema",
       "url": "https://open.spotify.com/track/1LWtg5KjYtT9K294nSO92c"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quisiera Ser Una L\u00e1grima",
+        "url": "https://open.spotify.com/album/0VY9UhKG9EBpuuvThP8UU7"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "duration_ms": 163093,
+      "name": "Las Edades",
+      "url": "https://open.spotify.com/track/1zlh34h2BSn438NY6Beqm2"
     },
     {
       "added_at": null,
@@ -427,22 +427,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo, Vol. 2",
-        "url": "https://open.spotify.com/album/0eVtdTIvS7aZbtSxdTkVGi"
+        "name": "Atr\u00e1s Del Escenario",
+        "url": "https://open.spotify.com/album/68uz1T0TeyArcH2MMVy6Kl"
       },
       "artists": [
-        {
-          "name": "Intrusso De Nuevo Leon",
-          "url": "https://open.spotify.com/artist/68reDs1P0m1VgJvNWIv4OG"
-        },
         {
           "name": "Los Traileros Del Norte",
           "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
         }
       ],
-      "duration_ms": 296542,
-      "name": "Popurr\u00ed Traileros - En Vivo",
-      "url": "https://open.spotify.com/track/71lETTSiTCMyijicJS66tw"
+      "duration_ms": 159200,
+      "name": "Dale Un Cuartazo Al Macho",
+      "url": "https://open.spotify.com/track/5CaVmNwvbF9ryrr8RNWr7u"
     },
     {
       "added_at": null,
@@ -463,18 +459,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Atr\u00e1s Del Escenario",
-        "url": "https://open.spotify.com/album/68uz1T0TeyArcH2MMVy6Kl"
+        "name": "En Vivo, Vol. 2",
+        "url": "https://open.spotify.com/album/0eVtdTIvS7aZbtSxdTkVGi"
       },
       "artists": [
+        {
+          "name": "Intrusso De Nuevo Leon",
+          "url": "https://open.spotify.com/artist/68reDs1P0m1VgJvNWIv4OG"
+        },
         {
           "name": "Los Traileros Del Norte",
           "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
         }
       ],
-      "duration_ms": 159200,
-      "name": "Dale Un Cuartazo Al Macho",
-      "url": "https://open.spotify.com/track/5CaVmNwvbF9ryrr8RNWr7u"
+      "duration_ms": 296542,
+      "name": "Popurr\u00ed Traileros - En Vivo",
+      "url": "https://open.spotify.com/track/71lETTSiTCMyijicJS66tw"
     },
     {
       "added_at": null,
@@ -711,22 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amor De Los Dos",
-        "url": "https://open.spotify.com/album/3GQXdspUXYELLuh9lRPFN4"
-      },
-      "artists": [
-        {
-          "name": "Los Traileros Del Norte",
-          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
-        }
-      ],
-      "duration_ms": 164866,
-      "name": "El Amor De Los Dos",
-      "url": "https://open.spotify.com/track/04gMdv7itWIMljOIAUNLwP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quisiera Ser Una L\u00e1grima",
         "url": "https://open.spotify.com/album/0VY9UhKG9EBpuuvThP8UU7"
       },
@@ -743,38 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rosas Blancas",
-        "url": "https://open.spotify.com/album/0kkMx1Zhf8xMm6Lv2CySJn"
-      },
-      "artists": [
-        {
-          "name": "Los Traileros Del Norte",
-          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
-        }
-      ],
-      "duration_ms": 151506,
-      "name": "La Trailerita",
-      "url": "https://open.spotify.com/track/0GEfcDJLD7OBmEMbvYjD3f"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Arrastrando La Cobija (Cl\u00e1sicos Digitalizados)",
-        "url": "https://open.spotify.com/album/7oIVq1jmETB2pIjmi1x2EK"
-      },
-      "artists": [
-        {
-          "name": "Los Traileros Del Norte",
-          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
-        }
-      ],
-      "duration_ms": 125133,
-      "name": "El Conejito",
-      "url": "https://open.spotify.com/track/6tglYfAohZzigQWwukU1T6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amor De Los Dos",
         "url": "https://open.spotify.com/album/3GQXdspUXYELLuh9lRPFN4"
       },
@@ -784,9 +736,9 @@
           "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
         }
       ],
-      "duration_ms": 166373,
-      "name": "Una Noche No",
-      "url": "https://open.spotify.com/track/2lDBDJRUX5OdpzFG0jSmUu"
+      "duration_ms": 164866,
+      "name": "El Amor De Los Dos",
+      "url": "https://open.spotify.com/track/04gMdv7itWIMljOIAUNLwP"
     },
     {
       "added_at": null,
@@ -807,8 +759,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Puros Corridos",
-        "url": "https://open.spotify.com/album/01tHs6SG9V6RGqz04TaZHJ"
+        "name": "Arrastrando La Cobija (Cl\u00e1sicos Digitalizados)",
+        "url": "https://open.spotify.com/album/7oIVq1jmETB2pIjmi1x2EK"
       },
       "artists": [
         {
@@ -816,9 +768,65 @@
           "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
         }
       ],
-      "duration_ms": 204000,
-      "name": "Ramiro de Leon",
-      "url": "https://open.spotify.com/track/6kHMzGQHRoZSqnZJzDVCJk"
+      "duration_ms": 125133,
+      "name": "El Conejito",
+      "url": "https://open.spotify.com/track/6tglYfAohZzigQWwukU1T6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rosas Blancas",
+        "url": "https://open.spotify.com/album/0kkMx1Zhf8xMm6Lv2CySJn"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "duration_ms": 151506,
+      "name": "La Trailerita",
+      "url": "https://open.spotify.com/track/0GEfcDJLD7OBmEMbvYjD3f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amor De Los Dos",
+        "url": "https://open.spotify.com/album/3GQXdspUXYELLuh9lRPFN4"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "duration_ms": 166373,
+      "name": "Una Noche No",
+      "url": "https://open.spotify.com/track/2lDBDJRUX5OdpzFG0jSmUu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Vivo, Vol. 2",
+        "url": "https://open.spotify.com/album/0eVtdTIvS7aZbtSxdTkVGi"
+      },
+      "artists": [
+        {
+          "name": "Intrusso De Nuevo Leon",
+          "url": "https://open.spotify.com/artist/68reDs1P0m1VgJvNWIv4OG"
+        },
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        },
+        {
+          "name": "Los Astros de China",
+          "url": "https://open.spotify.com/artist/6E77RT90bxptRYDYWWv5QR"
+        }
+      ],
+      "duration_ms": 346302,
+      "name": "Popurr\u00ed Homenaje a Carlos Y Jose - En Vivo",
+      "url": "https://open.spotify.com/track/1TMNGa0Z2IrIDVNaclrFpW"
     }
   ],
   "unique_name": "This Is Los Traileros Del Norte",

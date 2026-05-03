@@ -4,7 +4,7 @@
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover: Angine de Poitrine
 
-2,014 songs - 4 day 21 hr 7 min
+2,015 songs - 4 day 21 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -519,6 +519,7 @@
 | [Don't Stop Me](https://open.spotify.com/track/0f4yOCLh56jPY5sRUYRgTZ) | [Corella](https://open.spotify.com/artist/5LoyxydilSHtcohX3rSRXe) | [Don't Stop Me](https://open.spotify.com/album/1hZIRbIdE5NXfLin7GLO3Q) | 3:16 | 2023-10-05 | 2023-10-13 |
 | [Don't Wanna Go Home Tonight](https://open.spotify.com/track/3I3FSs3C05QUs3r8fSdSeQ) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [Alienation](https://open.spotify.com/album/3qNCqYQyWvvgTapGWLTQsk) | 3:31 | 2025-08-21 | 2025-11-21 |
 | [don’t call me pretty](https://open.spotify.com/track/6XV4GwRq92E9N3MmXxuxLy) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [don’t call me pretty](https://open.spotify.com/album/02EVktWJJ2yuJs2Q1eqiSB) | 3:01 | 2023-05-04 | 2023-05-19 |
+| [Door](https://open.spotify.com/track/4zvmEsnbxt4ElQmoXk2B73) | [Band Nah](https://open.spotify.com/artist/5td0g0Owd8ZYu7SVb6f9xh) | [Fading](https://open.spotify.com/album/7MXMvOrTO0l8VrSbBTVg7Q) | 3:20 | 2026-04-30 |  |
 | [Double Happiness](https://open.spotify.com/track/5W5Wt5zu9a9zwgEnJxEksq) | [Sindo](https://open.spotify.com/artist/3RE6kblFAVdQULart6dXVr) | [Double Happiness](https://open.spotify.com/album/1ZCTsEuSFzG1wKd9iV75hG) | 3:17 | 2024-10-10 | 2024-10-18 |
 | [Double Life](https://open.spotify.com/track/2ElpiEF3br7tvd5TYWYKHg) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Double Life](https://open.spotify.com/album/29PpL7dLCaCEaftO0FfJy7) | 2:23 | 2023-06-08 | 2023-06-16 |
 | [Doubt](https://open.spotify.com/track/6zGXpYNIkVYy5QRmj9Qlg4) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Doubt](https://open.spotify.com/album/1vezGOGezdPu9GzJaFEjZF) | 2:35 | 2023-07-27 | 2023-08-04 |

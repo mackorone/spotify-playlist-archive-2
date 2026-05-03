@@ -1,12 +1,12 @@
 {
   "description": "This is Britney Spears. The essential tracks, all in one playlist.",
-  "num_followers": 949931,
+  "num_followers": 950050,
   "original_name": "This Is Britney Spears",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afKbgAAAAADUtSlrJjxu6QxgjtW0NIJT",
+  "snapshot_id": "afPtAAAAAACVuHvsKWGVHg3cAK1Ig8Qu",
   "tracks": [
     {
       "added_at": null,
@@ -499,6 +499,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Britney (Digital Deluxe Version)",
+        "url": "https://open.spotify.com/album/5ax3GTsfX5uCUaNgnJsSG5"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "duration_ms": 186533,
+      "name": "I Love Rock 'N' Roll",
+      "url": "https://open.spotify.com/track/29viePXNqWUw1cxqzOcuOD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Singles Collection",
         "url": "https://open.spotify.com/album/325wcm5wMnlfjmKZ8PXIIn"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 257293,
       "name": "S&M Remix",
       "url": "https://open.spotify.com/track/44FAj28ivN0HJ0xVYwQ9nL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Britney (Digital Deluxe Version)",
-        "url": "https://open.spotify.com/album/5ax3GTsfX5uCUaNgnJsSG5"
-      },
-      "artists": [
-        {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
-        }
-      ],
-      "duration_ms": 186533,
-      "name": "I Love Rock 'N' Roll",
-      "url": "https://open.spotify.com/track/29viePXNqWUw1cxqzOcuOD"
     },
     {
       "added_at": null,

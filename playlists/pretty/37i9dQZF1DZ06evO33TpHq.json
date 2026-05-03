@@ -1,12 +1,12 @@
 {
   "description": "This is Phil Wickham. The essential tracks, all in one playlist.",
-  "num_followers": 64180,
+  "num_followers": 64193,
   "original_name": "This Is Phil Wickham",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afKbgAAAAAAznfif91oNTj5mz+mno8fl",
+  "snapshot_id": "afPtAAAAAABE7U5IpgTOiONBzDHRR8o4",
   "tracks": [
     {
       "added_at": null,
@@ -763,6 +763,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Song Of The Saints (Deluxe)",
+        "url": "https://open.spotify.com/album/5shcL77IqPmZPBRbfl0cHT"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 161000,
+      "name": "Everyday Hallelujah - Hidden Track",
+      "url": "https://open.spotify.com/track/76NFX7R3TnrI4XbVg2VhIu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Worthy of My Song (Worthy of It All)",
         "url": "https://open.spotify.com/album/4JVfmmlngccdWTflavCEyu"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 506796,
       "name": "Worthy of My Song (Worthy of It All)",
       "url": "https://open.spotify.com/track/4YFy1VOf7pV1PF6rSxiz1v"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Song Of The Saints (Deluxe)",
-        "url": "https://open.spotify.com/album/5shcL77IqPmZPBRbfl0cHT"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 161000,
-      "name": "Everyday Hallelujah - Hidden Track",
-      "url": "https://open.spotify.com/track/76NFX7R3TnrI4XbVg2VhIu"
     },
     {
       "added_at": null,
@@ -855,26 +855,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "People Of Heaven",
-        "url": "https://open.spotify.com/album/0WpqACb5Wk8d3ze16Sod1D"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        },
-        {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
-        }
-      ],
-      "duration_ms": 252624,
-      "name": "People Of Heaven",
-      "url": "https://open.spotify.com/track/4q5b4EHkkv2Zb2dgHZjt0z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Peace, Vol. II",
         "url": "https://open.spotify.com/album/0RbdblzaMNGge5MqeFAX9N"
       },
@@ -891,6 +871,26 @@
       "duration_ms": 382684,
       "name": "Living Hope",
       "url": "https://open.spotify.com/track/3Z9PzaSZbEPoQssPnQdbPx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "People Of Heaven",
+        "url": "https://open.spotify.com/album/0WpqACb5Wk8d3ze16Sod1D"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "duration_ms": 252624,
+      "name": "People Of Heaven",
+      "url": "https://open.spotify.com/track/4q5b4EHkkv2Zb2dgHZjt0z"
     },
     {
       "added_at": null,

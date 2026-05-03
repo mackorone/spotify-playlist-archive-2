@@ -1,13 +1,53 @@
 {
   "description": "FurryRadio.com, furry music for furs, by furs.",
-  "num_followers": 1088,
+  "num_followers": 1087,
   "original_name": "FURRY RADIO",
   "owner": {
     "name": "Zunkz",
     "url": "https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya"
   },
-  "snapshot_id": "AAAFR4IL7B6350fIJcl0xLgywSsHDZub",
+  "snapshot_id": "AAAFSuLRatUOrIOyknd2XHMi63Xoppxn",
   "tracks": [
+    {
+      "added_at": "2026-05-02 22:14:25",
+      "album": {
+        "name": "RAVEPOP REMIXES (Preview)",
+        "url": "https://open.spotify.com/album/62lFgUk9Wh4Uh17xqmf3uD"
+      },
+      "artists": [
+        {
+          "name": "r u s s e l b u c k",
+          "url": "https://open.spotify.com/artist/3Si34xQXMZlrics4njesF2"
+        },
+        {
+          "name": "Maple",
+          "url": "https://open.spotify.com/artist/7FqhC9JMS6bbcfMVKKPHBc"
+        }
+      ],
+      "duration_ms": 189900,
+      "name": "b-b-BASS DOWN LOW - Maple Remix",
+      "url": "https://open.spotify.com/track/06TARRht6YXsY1f2CT4mg3"
+    },
+    {
+      "added_at": "2026-05-02 22:14:25",
+      "album": {
+        "name": "RAVEPOP REMIXES (Preview)",
+        "url": "https://open.spotify.com/album/62lFgUk9Wh4Uh17xqmf3uD"
+      },
+      "artists": [
+        {
+          "name": "r u s s e l b u c k",
+          "url": "https://open.spotify.com/artist/3Si34xQXMZlrics4njesF2"
+        },
+        {
+          "name": "Ricco Harver",
+          "url": "https://open.spotify.com/artist/4Ztb8vJUtyHjWDSbOZ1GIn"
+        }
+      ],
+      "duration_ms": 139862,
+      "name": "EAT YOU UP! - Ricco Harver Remix",
+      "url": "https://open.spotify.com/track/75gCrv8FPUVshSw5w98NHp"
+    },
     {
       "added_at": "2026-04-27 23:05:49",
       "album": {
@@ -47,26 +87,6 @@
       "duration_ms": 140307,
       "name": "I Never Feel Alone",
       "url": "https://open.spotify.com/track/11mf7BvMAcOuFodbkFnqLE"
-    },
-    {
-      "added_at": "2026-04-24 21:05:18",
-      "album": {
-        "name": "RAVEPOP REMIXES (Preview)",
-        "url": "https://open.spotify.com/album/62lFgUk9Wh4Uh17xqmf3uD"
-      },
-      "artists": [
-        {
-          "name": "r u s s e l b u c k",
-          "url": "https://open.spotify.com/artist/3Si34xQXMZlrics4njesF2"
-        },
-        {
-          "name": "Ricco Harver",
-          "url": "https://open.spotify.com/artist/4Ztb8vJUtyHjWDSbOZ1GIn"
-        }
-      ],
-      "duration_ms": 139862,
-      "name": "EAT YOU UP! - Ricco Harver Remix",
-      "url": "https://open.spotify.com/track/75gCrv8FPUVshSw5w98NHp"
     },
     {
       "added_at": "2026-04-20 23:27:25",

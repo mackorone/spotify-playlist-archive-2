@@ -1,13 +1,37 @@
 {
   "description": "This is Edgardo Nu\u00f1ez. The essential tracks, all in one playlist.",
-  "num_followers": 57679,
+  "num_followers": 57715,
   "original_name": "This Is Edgardo Nu\u00f1ez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afKbgAAAAACUx9dyvRa5otoSfyLfeq/U",
+  "snapshot_id": "afPtAAAAAABhETHl9WsJA7sY+xs7A5eh",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "De Los Dientes Pa Fuera",
+        "url": "https://open.spotify.com/album/3rGviY23qfCvsHXiauzv19"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres Del Barranco",
+          "url": "https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        },
+        {
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        }
+      ],
+      "duration_ms": 168664,
+      "name": "De Los Dientes Pa Fuera",
+      "url": "https://open.spotify.com/track/6U4MQb60Hkvv4ZS2Qwg3Lo"
+    },
     {
       "added_at": null,
       "album": {
@@ -323,22 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos 602",
-        "url": "https://open.spotify.com/album/2xrbCG92PwLpKWUAWD4Wv3"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 167370,
-      "name": "Pideme la Luna",
-      "url": "https://open.spotify.com/track/1wdEQqn7ZaN6alXDQHjFMe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Frente a Frente",
         "url": "https://open.spotify.com/album/3kuaLpJj6gJumJaCJsspNH"
       },
@@ -355,6 +363,22 @@
       "duration_ms": 213066,
       "name": "A Chillar a otra parte",
       "url": "https://open.spotify.com/track/63rF4Hy9aUdzDGjfAWXBZJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos 602",
+        "url": "https://open.spotify.com/album/2xrbCG92PwLpKWUAWD4Wv3"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 167370,
+      "name": "Pideme la Luna",
+      "url": "https://open.spotify.com/track/1wdEQqn7ZaN6alXDQHjFMe"
     },
     {
       "added_at": null,
@@ -443,22 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yo Soy El Pirata",
-        "url": "https://open.spotify.com/album/3I5LuSJcPwnlA3VFwnQXuh"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 168670,
-      "name": "Yo Soy El Pirata",
-      "url": "https://open.spotify.com/track/5rzULa4UZ6XbWLIxoMdukv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Ando Solo",
         "url": "https://open.spotify.com/album/04B0jWoQI5vd3hFqFrKa7e"
       },
@@ -475,6 +483,22 @@
       "duration_ms": 245738,
       "name": "Los 5 Pesos",
       "url": "https://open.spotify.com/track/5FsULCWGefpCSSxufIH4lw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Yo Soy El Pirata",
+        "url": "https://open.spotify.com/album/3I5LuSJcPwnlA3VFwnQXuh"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 168670,
+      "name": "Yo Soy El Pirata",
+      "url": "https://open.spotify.com/track/5rzULa4UZ6XbWLIxoMdukv"
     },
     {
       "added_at": null,
@@ -655,6 +679,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Corridos 602",
+        "url": "https://open.spotify.com/album/2xrbCG92PwLpKWUAWD4Wv3"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 202509,
+      "name": "Alto y Piel Morena",
+      "url": "https://open.spotify.com/track/0utj0xCPvTGptQ60MrqNeh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Es Por Ti",
         "url": "https://open.spotify.com/album/4oGlytrjITiA75RXzWJt3f"
       },
@@ -675,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos 602",
-        "url": "https://open.spotify.com/album/2xrbCG92PwLpKWUAWD4Wv3"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 202509,
-      "name": "Alto y Piel Morena",
-      "url": "https://open.spotify.com/track/0utj0xCPvTGptQ60MrqNeh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos 602 Vol.2",
         "url": "https://open.spotify.com/album/76LhAh0fmsd3yYbLYMv86x"
       },
@@ -700,9 +724,9 @@
           "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         }
       ],
-      "duration_ms": 191477,
-      "name": "El De La 31",
-      "url": "https://open.spotify.com/track/3MsSrOoeomjGybissXBe9G"
+      "duration_ms": 191600,
+      "name": "El Piyi",
+      "url": "https://open.spotify.com/track/4aJPDh3dn3MVppavGXs3ao"
     },
     {
       "added_at": null,
@@ -772,9 +796,9 @@
           "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         }
       ],
-      "duration_ms": 191600,
-      "name": "El Piyi",
-      "url": "https://open.spotify.com/track/4aJPDh3dn3MVppavGXs3ao"
+      "duration_ms": 191477,
+      "name": "El De La 31",
+      "url": "https://open.spotify.com/track/3MsSrOoeomjGybissXBe9G"
     },
     {
       "added_at": null,
@@ -831,6 +855,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Calmados y No Dejados",
+        "url": "https://open.spotify.com/album/3Yo3eHcPwmb9727m6Fd12d"
+      },
+      "artists": [
+        {
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 193473,
+      "name": "La Hija Del Se\u00f1or",
+      "url": "https://open.spotify.com/track/2DMb5Q3RcI8fR12AKbtMPH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Un D\u00eda Como Hoy",
         "url": "https://open.spotify.com/album/3TEMz9o6CRKPpaBbRLQorv"
       },
@@ -871,26 +915,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Calmados y No Dejados",
-        "url": "https://open.spotify.com/album/3Yo3eHcPwmb9727m6Fd12d"
-      },
-      "artists": [
-        {
-          "name": "Los Farmerz",
-          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
-        },
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 193473,
-      "name": "La Hija Del Se\u00f1or",
-      "url": "https://open.spotify.com/track/2DMb5Q3RcI8fR12AKbtMPH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "HDTPM",
         "url": "https://open.spotify.com/album/3LEGUBBcYTvxISyzxYanZ1"
       },
@@ -907,30 +931,6 @@
       "duration_ms": 157874,
       "name": "HDTPM",
       "url": "https://open.spotify.com/track/0V1Pq0ToZh1ZP5VCSxgWA5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Con Muchas Ganas (En Vivo)",
-        "url": "https://open.spotify.com/album/0d68E5jkALGrFEUUL2deEX"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        },
-        {
-          "name": "Tony Aguirre",
-          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
-        }
-      ],
-      "duration_ms": 271189,
-      "name": "Con Muchas Ganas (En Vivo)",
-      "url": "https://open.spotify.com/track/53B9dnw7V6p6ZVzvpK4BUl"
     }
   ],
   "unique_name": "This Is Edgardo Nu\u00f1ez",

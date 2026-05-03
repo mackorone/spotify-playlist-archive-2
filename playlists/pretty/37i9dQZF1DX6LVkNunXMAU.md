@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LVkNunXMAU.md) - [plain]
 
 > indie folk latino de estación\. Foto: Ine Güemes
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,875 likes - 95 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,879 likes - 95 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: Le Makeup
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,262 likes - 100 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,289 likes - 100 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 56 | [友達がいる](https://open.spotify.com/track/5ovMnbYBgHszF21lHPNhBv) | [カネコアヤノ](https://open.spotify.com/artist/4XKIIegkRbSJft0PmMv9NB) | [できるだけ/友達がいる](https://open.spotify.com/album/2iccswYJOuTlPVR7KKUHMi) | 4:18 |
 | 57 | [とびうおのうた](https://open.spotify.com/track/5eWTYG3Nsax2H65JwX6mgG) | [MIZ](https://open.spotify.com/artist/1T4OKi8vYcs2gNv98KglRq) | [轉角民宿](https://open.spotify.com/album/2bec5HcdIRSsMiTSd4P0i7) | 4:37 |
 | 58 | [Smiles](https://open.spotify.com/track/3gBEN9z6fT7zPUZ4DWN59o) | [illiomote](https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v) | [Smiles](https://open.spotify.com/album/37RhN3R6x7dxXVOVSgAuRz) | 3:40 |
-| 59 | [弾き語りの男](https://open.spotify.com/track/0BVEq4yIPXdnP9zDNCzyrJ) | [眞名子新](https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G) | [弾き語りの男](https://open.spotify.com/album/1kzo1yl6P4StwcBzFDNHNV) | 3:20 |
+| 59 | [弾き語りの男](https://open.spotify.com/track/0BVEq4yIPXdnP9zDNCzyrJ) | [眞名子 新](https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G) | [弾き語りの男](https://open.spotify.com/album/1kzo1yl6P4StwcBzFDNHNV) | 3:20 |
 | 60 | [SEE YA](https://open.spotify.com/track/16GhBKzhD19YbCByvMMLJp) | [んoon](https://open.spotify.com/artist/607e1j0oVX9hpFGRQrL3TC) | [Zoo](https://open.spotify.com/album/4kB9n44dTgxuiZZLtaBo9v) | 3:44 |
 | 61 | [Kinetic](https://open.spotify.com/track/5tRuxhSW4ENtZI1sr63Xwg) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa), [Incognito](https://open.spotify.com/artist/5moJNCJeiNwuQAhDLJXULs) | [Kinetic](https://open.spotify.com/album/1SyHS4LYAqtA3WC0n18kpQ) | 3:20 |
 | 62 | [Diaspora \(feat.PERSIA\)](https://open.spotify.com/track/7jSfPtY4qpLfdfDvoGDR5v) | [Black petrol](https://open.spotify.com/artist/5YMmMKHQUVFGLShGNxe9Jt), [PERSIA](https://open.spotify.com/artist/1qa81gK8QsNHKYlV0EMWXP) | [Diaspora](https://open.spotify.com/album/1WS0RJrbHzhCUTavv58iWL) | 2:53 |

@@ -1,29 +1,13 @@
 {
   "description": "This is Bon Iver. The essential tracks, all in one playlist.",
-  "num_followers": 289958,
+  "num_followers": 289986,
   "original_name": "This Is Bon Iver",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afKbgAAAAABCyPPz0JdjdbYYa2Lw7eZg",
+  "snapshot_id": "afPtAAAAAABBjRqzakbdVcdq+l65gbb/",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "VOLUMES: ONE (SELECTIONS FROM MUSIC CONCERTS 2019-2023 BON IVER 6 PIECE BAND)",
-        "url": "https://open.spotify.com/album/2tV8MeptqoxJcuwQbh6Khr"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 237684,
-      "name": "HEY, MA - Pitchfork Music Festival, Chicago, IL. July 23 2023",
-      "url": "https://open.spotify.com/track/7hMbLufQpYzEaCzGlHs4sC"
-    },
     {
       "added_at": null,
       "album": {
@@ -219,6 +203,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "VOLUMES: ONE (SELECTIONS FROM MUSIC CONCERTS 2019-2023 BON IVER 6 PIECE BAND)",
+        "url": "https://open.spotify.com/album/2tV8MeptqoxJcuwQbh6Khr"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 237684,
+      "name": "HEY, MA - Pitchfork Music Festival, Chicago, IL. July 23 2023",
+      "url": "https://open.spotify.com/track/7hMbLufQpYzEaCzGlHs4sC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SABLE, fABLE",
+        "url": "https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 182607,
+      "name": "From",
+      "url": "https://open.spotify.com/track/5agmWuBAor2UQcNqByOvWC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "My Beautiful Dark Twisted Fantasy",
         "url": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv"
       },
@@ -251,8 +267,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "SABLE, fABLE",
-        "url": "https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T"
+        "name": "For Emma, Forever Ago",
+        "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
       },
       "artists": [
         {
@@ -260,9 +276,9 @@
           "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
         }
       ],
-      "duration_ms": 182607,
-      "name": "From",
-      "url": "https://open.spotify.com/track/5agmWuBAor2UQcNqByOvWC"
+      "duration_ms": 219000,
+      "name": "Flume",
+      "url": "https://open.spotify.com/track/0bhBtXHQX3u6dSAPF59qGx"
     },
     {
       "added_at": null,
@@ -287,42 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "For Emma, Forever Ago",
-        "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "Flume",
-      "url": "https://open.spotify.com/track/0bhBtXHQX3u6dSAPF59qGx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "My Beautiful Dark Twisted Fantasy",
-        "url": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 256586,
-      "name": "Lost In The World",
-      "url": "https://open.spotify.com/track/2Im64pIz6m0EJKdUe6eZ8r"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SABLE, fABLE",
         "url": "https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T"
       },
@@ -343,6 +323,26 @@
       "duration_ms": 213005,
       "name": "Day One",
       "url": "https://open.spotify.com/track/6QJVQSuMC77psM4vgPo31D"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Beautiful Dark Twisted Fantasy",
+        "url": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 256586,
+      "name": "Lost In The World",
+      "url": "https://open.spotify.com/track/2Im64pIz6m0EJKdUe6eZ8r"
     },
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "VOLUMES: ONE (SELECTIONS FROM MUSIC CONCERTS 2019-2023 BON IVER 6 PIECE BAND)",
-        "url": "https://open.spotify.com/album/2tV8MeptqoxJcuwQbh6Khr"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 180544,
-      "name": "MAN LIKE U - The Forum, Los Angeles, CA. Sep 15 2019",
-      "url": "https://open.spotify.com/track/6sL91OFmGndZZA0X57rQ1E"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SABLE, fABLE",
         "url": "https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 316301,
       "name": "There's A Rhythmn",
       "url": "https://open.spotify.com/track/7uWS4zoWMNU9fUPojMYilC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "VOLUMES: ONE (SELECTIONS FROM MUSIC CONCERTS 2019-2023 BON IVER 6 PIECE BAND)",
+        "url": "https://open.spotify.com/album/2tV8MeptqoxJcuwQbh6Khr"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 180544,
+      "name": "MAN LIKE U - The Forum, Los Angeles, CA. Sep 15 2019",
+      "url": "https://open.spotify.com/track/6sL91OFmGndZZA0X57rQ1E"
     },
     {
       "added_at": null,
@@ -447,22 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blood Bank",
-        "url": "https://open.spotify.com/album/6G2VFrsyr7jAiUYklrdKob"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 285160,
-      "name": "Blood Bank",
-      "url": "https://open.spotify.com/track/15WbjBy1bzH1UsUldBwwlW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SABLE, fABLE",
         "url": "https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 210054,
       "name": "Everything Is Peaceful Love",
       "url": "https://open.spotify.com/track/4XosapYiYaXGcxc83p3DD9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blood Bank",
+        "url": "https://open.spotify.com/album/6G2VFrsyr7jAiUYklrdKob"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 285160,
+      "name": "Blood Bank",
+      "url": "https://open.spotify.com/track/15WbjBy1bzH1UsUldBwwlW"
     },
     {
       "added_at": null,
@@ -511,6 +511,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "SABLE, fABLE",
+        "url": "https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 200589,
+      "name": "THINGS BEHIND THINGS BEHIND THINGS",
+      "url": "https://open.spotify.com/track/0k4XDoI1iCB3fV2RstqiYA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Flood / Glow",
         "url": "https://open.spotify.com/album/157nXaMjEIEJYdZ4eysE7J"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 179586,
       "name": "Flood (feat. Bon Iver)",
       "url": "https://open.spotify.com/track/2L8V5ufkP4ZzBBqjVBE2SW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SABLE, fABLE",
-        "url": "https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 200589,
-      "name": "THINGS BEHIND THINGS BEHIND THINGS",
-      "url": "https://open.spotify.com/track/0k4XDoI1iCB3fV2RstqiYA"
     },
     {
       "added_at": null,
@@ -751,22 +751,6 @@
       "duration_ms": 245200,
       "name": "29 #Strafford APTS",
       "url": "https://open.spotify.com/track/5qngJJcuGPqUyX3VPKvH11"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "VOLUMES: ONE (SELECTIONS FROM MUSIC CONCERTS 2019-2023 BON IVER 6 PIECE BAND)",
-        "url": "https://open.spotify.com/album/2tV8MeptqoxJcuwQbh6Khr"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 245724,
-      "name": "JELMORE - Tennis Indoor Senayan, Jakarta, ID. Jan 19 2020",
-      "url": "https://open.spotify.com/track/3Me34NBrQFIBsVV5MZAPrm"
     },
     {
       "added_at": null,

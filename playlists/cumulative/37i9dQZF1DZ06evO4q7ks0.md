@@ -4,13 +4,13 @@
 
 > This is The Cranberries\. The essential tracks, all in one playlist.
 
-80 songs - 5 hr 5 min
+82 songs - 5 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(They Long To Be\) Close To You](https://open.spotify.com/track/5NIa8SEODJX1c3Byy9XqCv) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue \(30th Anniversary / Super Deluxe Edition\)](https://open.spotify.com/album/5VJ5kSs6Pct7Wh9cPQyJeC) | 2:39 | 2025-09-10 |  |
 | [\(They Long To Be\) Close To You](https://open.spotify.com/track/4EbqnubLpWIxPbIVcMH305) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue \(The Complete Sessions 1994\-1995\)](https://open.spotify.com/album/1Bwo9JkbVwxGyvtQNMRK21) | 2:41 | 2025-08-17 | 2025-08-23 |
-| [A Place I Know](https://open.spotify.com/track/2a1BmTCTkwJNoxgqnh813G) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [In the End](https://open.spotify.com/album/4cfq0YAgWhhIqTkVkYyvbC) | 4:26 | 2026-04-24 |  |
+| [A Place I Know](https://open.spotify.com/track/2a1BmTCTkwJNoxgqnh813G) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [In the End](https://open.spotify.com/album/4cfq0YAgWhhIqTkVkYyvbC) | 4:26 | 2026-04-24 | 2026-05-03 |
 | [All Over Now](https://open.spotify.com/track/7EkcnNdxjcdCjLa9K0CHYI) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [In the End](https://open.spotify.com/album/4cfq0YAgWhhIqTkVkYyvbC) | 4:16 | 2025-03-08 |  |
 | [Analyse](https://open.spotify.com/track/4jMEymCdvlhqCYZdzLO0JM) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Wake Up And Smell The Coffee](https://open.spotify.com/album/2E1EmeusDZXP7KhF2yayPp) | 4:10 | 2025-03-08 |  |
 | [Animal Instinct](https://open.spotify.com/track/3J58Ccc5iTbCRnYx2xjo6d) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Bury The Hatchet](https://open.spotify.com/album/2v9PjvIkQVnyQdtD1iQD7e) | 3:31 | 2025-03-08 |  |
@@ -28,6 +28,7 @@
 | [Free To Decide](https://open.spotify.com/track/42e1QfTyPYWuoddr0ghc0i) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [To The Faithful Departed](https://open.spotify.com/album/5G3I9bLpCZxK4XeLyJ69iu) | 4:25 | 2025-03-08 |  |
 | [Go Your Own Way](https://open.spotify.com/track/0VuhdSYkAOmhASbt5vnkdO) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [To The Faithful Departed \(The Complete Sessions 1996\-1997\)](https://open.spotify.com/album/6re8Qh8GMzxH92LO1xj2jU) | 4:01 | 2025-03-08 |  |
 | [Hollywood](https://open.spotify.com/track/2uFBqk6flKDuXiaWt0vV68) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [To The Faithful Departed](https://open.spotify.com/album/5G3I9bLpCZxK4XeLyJ69iu) | 5:07 | 2025-03-08 |  |
+| [How](https://open.spotify.com/track/0M7wMmWaB3ZIkGuRFE4457) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We?](https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI) | 2:51 | 2026-05-03 |  |
 | [I Can't Be With You](https://open.spotify.com/track/4X0YxjnkSXCeVcYOkkAsyH) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue \(The Complete Sessions 1994\-1995\)](https://open.spotify.com/album/1Bwo9JkbVwxGyvtQNMRK21) | 3:07 | 2025-03-08 | 2025-09-05 |
 | [I Can't Be With You \- 2025 Remastered](https://open.spotify.com/track/2JNllfsg7fMN18EJB9VrLT) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue \(2025 Remastered\)](https://open.spotify.com/album/6E2UIe7qUVYi6v2fVbGddX) | 3:07 | 2025-09-05 |  |
 | [I Can't Be With You \- Live From Woodstock '94](https://open.spotify.com/track/2Tj9Il1Tm14WAyqeXEh0NB) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [I Can't Be With You / Zombie](https://open.spotify.com/album/7iCCgdnZEdN0fJE1pxQ7yv) | 3:12 | 2025-07-27 | 2025-08-23 |
@@ -65,7 +66,8 @@
 | [Song To My Family \- Magic Shop Demo](https://open.spotify.com/track/564wPZmSYxRlTpqZschULJ) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue \(Deluxe\)](https://open.spotify.com/album/719zEHYz9RcUXss1LP1ouT) | 4:34 | 2025-03-08 | 2025-09-11 |
 | [Song To My Family \- Magic Shop Demo](https://open.spotify.com/track/7mKEw1zNstUEAjYdKEtgrl) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue \(30th Anniversary / Super Deluxe Edition\)](https://open.spotify.com/album/5VJ5kSs6Pct7Wh9cPQyJeC) | 4:34 | 2025-09-11 |  |
 | [Stars](https://open.spotify.com/track/5iJ3ZTfEXjqxIU1BrgKhEe) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Stars: The Best Of The Cranberries 1992\-2002](https://open.spotify.com/album/1JXjYl5WVr3wFgV3DMIHMl) | 3:31 | 2025-03-08 |  |
-| [Sunday](https://open.spotify.com/track/4zEvxRDaKDoFlHxK7Hy0wg) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We?](https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI) | 3:31 | 2025-03-08 |  |
+| [Sunday](https://open.spotify.com/track/4zEvxRDaKDoFlHxK7Hy0wg) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We?](https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI) | 3:31 | 2025-03-08 | 2026-05-03 |
+| [Sunday \- 2026 Stephen Street Stereo Mix](https://open.spotify.com/track/6LNcgZ6P1XdLr8Lovg3tlC) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9), [Stephen Street](https://open.spotify.com/artist/5pmh5AcbKZIme0p4riO6Kb) | [Sunday \(2026 Stephen Street Stereo Mix\) / Linger \(Spanish Mix \(2026\)](https://open.spotify.com/album/2m0LaVx2taZpoamB4EBJ24) | 3:30 | 2026-05-03 |  |
 | [The Glory](https://open.spotify.com/track/5Bd2LPvlOY3do39MIph1RD) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Remembering Dolores](https://open.spotify.com/album/3YsIgJc0Df1D3VV2MXRgxq) | 5:14 | 2025-03-08 |  |
 | [The Picture I View](https://open.spotify.com/track/26Rt4eNpAr0vbprklNLkvs) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [To The Faithful Departed \(Deluxe Edition\)](https://open.spotify.com/album/44VTFJKruvFCS3solylzrP) | 2:29 | 2025-03-08 | 2025-04-05 |
 | [The Pressure](https://open.spotify.com/track/5w12AU1s2jwXFYL7jSImwR) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [In the End](https://open.spotify.com/album/4cfq0YAgWhhIqTkVkYyvbC) | 3:21 | 2025-03-08 | 2025-09-21 |

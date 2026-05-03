@@ -1,13 +1,37 @@
 {
   "description": "This is Nicky Romero. The essential tracks, all in one playlist.",
-  "num_followers": 72453,
+  "num_followers": 72454,
   "original_name": "This Is Nicky Romero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afKbgAAAAACNxfrZTLzaCAkfRyuzJsOR",
+  "snapshot_id": "afPtAAAAAACOwxEd3tgZJlXcT5mKhIM/",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Run To You",
+        "url": "https://open.spotify.com/album/5rU9ej00F8r85D9jYSMvbX"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Almero",
+          "url": "https://open.spotify.com/artist/7q03I7IegvJ063qYJIg4kI"
+        },
+        {
+          "name": "Grace Barton",
+          "url": "https://open.spotify.com/artist/6sliIMvgGGdk8GRPD2FwMx"
+        }
+      ],
+      "duration_ms": 191250,
+      "name": "Run To You",
+      "url": "https://open.spotify.com/track/1BjQRTWrURcyHhicXHoWtB"
+    },
     {
       "added_at": null,
       "album": {
@@ -115,6 +139,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/312IUwFHyqdRyZ9Kx8ErXv"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Sick Individuals",
+          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
+        }
+      ],
+      "duration_ms": 204593,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/7zVIFnJMkXrYfxnBJxQtNF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Gone Gone Gone (feat. Teddy Swims) [Nicky Romero Remix]",
         "url": "https://open.spotify.com/album/4mCoMNg7V63ZgXNePrHwBd"
       },
@@ -139,26 +183,6 @@
       "duration_ms": 230909,
       "name": "Gone Gone Gone (feat. Teddy Swims) - Nicky Romero Remix",
       "url": "https://open.spotify.com/track/6e1FpexOjC5Tx3Ij7UusJv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/312IUwFHyqdRyZ9Kx8ErXv"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "Sick Individuals",
-          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
-        }
-      ],
-      "duration_ms": 204593,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/7zVIFnJMkXrYfxnBJxQtNF"
     },
     {
       "added_at": null,
@@ -283,30 +307,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Move It (Rapidin)",
-        "url": "https://open.spotify.com/album/2uhhsCLGQatdRgvQ2EUHDq"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "GIACOBBI",
-          "url": "https://open.spotify.com/artist/0c9xS57yx2KCaaEJ3e7qzo"
-        },
-        {
-          "name": "Fatboi",
-          "url": "https://open.spotify.com/artist/2gyvGXFogWk7AifdziMnXE"
-        }
-      ],
-      "duration_ms": 153750,
-      "name": "Move It (Rapidin)",
-      "url": "https://open.spotify.com/track/6bCMF1MSZ66MvLR1vy3TBS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stargazing",
         "url": "https://open.spotify.com/album/05nQu4HN54vSMx506ajfrC"
       },
@@ -331,8 +331,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Funky Bitz",
-        "url": "https://open.spotify.com/album/2lVGe0ESR5rhrn4dYBQwwP"
+        "name": "Move It (Rapidin)",
+        "url": "https://open.spotify.com/album/2uhhsCLGQatdRgvQ2EUHDq"
       },
       "artists": [
         {
@@ -340,13 +340,17 @@
           "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
         },
         {
-          "name": "SMACK",
-          "url": "https://open.spotify.com/artist/5uJw4WCX5nYj4FHky9r1Ug"
+          "name": "GIACOBBI",
+          "url": "https://open.spotify.com/artist/0c9xS57yx2KCaaEJ3e7qzo"
+        },
+        {
+          "name": "Fatboi",
+          "url": "https://open.spotify.com/artist/2gyvGXFogWk7AifdziMnXE"
         }
       ],
-      "duration_ms": 201250,
-      "name": "Funky Bitz",
-      "url": "https://open.spotify.com/track/0cte9r80XqyGs6sg1r1B4h"
+      "duration_ms": 153750,
+      "name": "Move It (Rapidin)",
+      "url": "https://open.spotify.com/track/6bCMF1MSZ66MvLR1vy3TBS"
     },
     {
       "added_at": null,
@@ -391,6 +395,26 @@
       "duration_ms": 151312,
       "name": "Okay",
       "url": "https://open.spotify.com/track/71H8k9qe7DersxR6KyhUnI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Funky Bitz",
+        "url": "https://open.spotify.com/album/2lVGe0ESR5rhrn4dYBQwwP"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "SMACK",
+          "url": "https://open.spotify.com/artist/5uJw4WCX5nYj4FHky9r1Ug"
+        }
+      ],
+      "duration_ms": 201250,
+      "name": "Funky Bitz",
+      "url": "https://open.spotify.com/track/0cte9r80XqyGs6sg1r1B4h"
     },
     {
       "added_at": null,
@@ -483,26 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fade Away",
-        "url": "https://open.spotify.com/album/4GQU85w8eqKBl48Vod1i0A"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "Barmuda",
-          "url": "https://open.spotify.com/artist/5SoTfJZxWxfm9TkVEkvcLM"
-        }
-      ],
-      "duration_ms": 267812,
-      "name": "Fade Away",
-      "url": "https://open.spotify.com/track/6nwq6sGohaaGlijGLEvdgg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sober",
         "url": "https://open.spotify.com/album/4GRth1z0snfAbeLoZXtnpk"
       },
@@ -519,6 +523,26 @@
       "duration_ms": 162924,
       "name": "Sober",
       "url": "https://open.spotify.com/track/4LSkEJ5P5MV0y3PZqw7guJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fade Away",
+        "url": "https://open.spotify.com/album/4GQU85w8eqKBl48Vod1i0A"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Barmuda",
+          "url": "https://open.spotify.com/artist/5SoTfJZxWxfm9TkVEkvcLM"
+        }
+      ],
+      "duration_ms": 267812,
+      "name": "Fade Away",
+      "url": "https://open.spotify.com/track/6nwq6sGohaaGlijGLEvdgg"
     },
     {
       "added_at": null,
@@ -543,6 +567,54 @@
       "duration_ms": 182950,
       "name": "Sometimes",
       "url": "https://open.spotify.com/track/4Ld9Wvjpj1IOAIbnNy07AP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nights With You",
+        "url": "https://open.spotify.com/album/1z2gtZ1VigtVV6UVNqQAuq"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 149200,
+      "name": "Nights With You",
+      "url": "https://open.spotify.com/track/1Gx6oQEiS4h5e7ltUDN1jc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sparks (Turn Off Your Mind) (Atmozfears & Audiotricz Remix)",
+        "url": "https://open.spotify.com/album/0L0FpVSbtev9gdi2wIgjlD"
+      },
+      "artists": [
+        {
+          "name": "Fedde Le Grand",
+          "url": "https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Matthew Koma",
+          "url": "https://open.spotify.com/artist/1mU61l2mcjEFraXZLpvVMo"
+        },
+        {
+          "name": "Atmozfears",
+          "url": "https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64"
+        },
+        {
+          "name": "Audiotricz",
+          "url": "https://open.spotify.com/artist/52I8HbScEEvgwiiSDaM7gP"
+        }
+      ],
+      "duration_ms": 169404,
+      "name": "Sparks (Turn Off Your Mind) - Atmozfears & Audiotricz Radio Mix",
+      "url": "https://open.spotify.com/track/3I70IwAiyXo2RewHZVyvje"
     },
     {
       "added_at": null,
@@ -595,54 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sparks (Turn Off Your Mind) (Atmozfears & Audiotricz Remix)",
-        "url": "https://open.spotify.com/album/0L0FpVSbtev9gdi2wIgjlD"
-      },
-      "artists": [
-        {
-          "name": "Fedde Le Grand",
-          "url": "https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "Matthew Koma",
-          "url": "https://open.spotify.com/artist/1mU61l2mcjEFraXZLpvVMo"
-        },
-        {
-          "name": "Atmozfears",
-          "url": "https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64"
-        },
-        {
-          "name": "Audiotricz",
-          "url": "https://open.spotify.com/artist/52I8HbScEEvgwiiSDaM7gP"
-        }
-      ],
-      "duration_ms": 169404,
-      "name": "Sparks (Turn Off Your Mind) - Atmozfears & Audiotricz Radio Mix",
-      "url": "https://open.spotify.com/track/3I70IwAiyXo2RewHZVyvje"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nights With You",
-        "url": "https://open.spotify.com/album/1z2gtZ1VigtVV6UVNqQAuq"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 149200,
-      "name": "Nights With You",
-      "url": "https://open.spotify.com/track/1Gx6oQEiS4h5e7ltUDN1jc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "We're Still Young",
         "url": "https://open.spotify.com/album/2HE7fzpBQHBCY6JXhoVAq0"
       },
@@ -687,6 +711,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "I Need You To Know",
+        "url": "https://open.spotify.com/album/0GszUkmBG6eFyU7sYSmjpt"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Ifimay",
+          "url": "https://open.spotify.com/artist/475ysTPd5Bci0mElQUcYak"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "I Need You To Know",
+      "url": "https://open.spotify.com/track/3KFei4ncqdevg1vZaAZgIL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Love You for the Summer (Kohen Remix)",
         "url": "https://open.spotify.com/album/6ufmXFf1GL3vWmyZVpC8yz"
       },
@@ -711,30 +759,6 @@
       "duration_ms": 158769,
       "name": "Love You for the Summer - Kohen Remix",
       "url": "https://open.spotify.com/track/7y3oxdNRRc0moNrzYPNK1K"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Need You To Know",
-        "url": "https://open.spotify.com/album/0GszUkmBG6eFyU7sYSmjpt"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "Ifimay",
-          "url": "https://open.spotify.com/artist/475ysTPd5Bci0mElQUcYak"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "I Need You To Know",
-      "url": "https://open.spotify.com/track/3KFei4ncqdevg1vZaAZgIL"
     },
     {
       "added_at": null,
@@ -859,8 +883,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Colorful",
-        "url": "https://open.spotify.com/album/06jFHzXc8qua7eKYZuD0VH"
+        "name": "Never Alone",
+        "url": "https://open.spotify.com/album/2VqGrJ97hkUtvJtX8Jg8xi"
       },
       "artists": [
         {
@@ -868,17 +892,17 @@
           "url": "https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR"
         },
         {
-          "name": "Dan Soleil",
-          "url": "https://open.spotify.com/artist/2z0mmxKTw0KpO7Qnb6aB2r"
+          "name": "FARLEY",
+          "url": "https://open.spotify.com/artist/7uYA1SvZLemlrGJxyqdf4O"
         },
         {
           "name": "Nicky Romero",
           "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
         }
       ],
-      "duration_ms": 196992,
-      "name": "Colorful",
-      "url": "https://open.spotify.com/track/1ZNA97eexX3HC41WgD0dab"
+      "duration_ms": 186263,
+      "name": "Never Alone",
+      "url": "https://open.spotify.com/track/5LQezGj5lw0iivFOtVchxw"
     },
     {
       "added_at": null,
@@ -927,8 +951,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Never Alone",
-        "url": "https://open.spotify.com/album/2VqGrJ97hkUtvJtX8Jg8xi"
+        "name": "Colorful",
+        "url": "https://open.spotify.com/album/06jFHzXc8qua7eKYZuD0VH"
       },
       "artists": [
         {
@@ -936,17 +960,17 @@
           "url": "https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR"
         },
         {
-          "name": "FARLEY",
-          "url": "https://open.spotify.com/artist/7uYA1SvZLemlrGJxyqdf4O"
+          "name": "Dan Soleil",
+          "url": "https://open.spotify.com/artist/2z0mmxKTw0KpO7Qnb6aB2r"
         },
         {
           "name": "Nicky Romero",
           "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
         }
       ],
-      "duration_ms": 186263,
-      "name": "Never Alone",
-      "url": "https://open.spotify.com/track/5LQezGj5lw0iivFOtVchxw"
+      "duration_ms": 196992,
+      "name": "Colorful",
+      "url": "https://open.spotify.com/track/1ZNA97eexX3HC41WgD0dab"
     },
     {
       "added_at": null,
@@ -1011,30 +1035,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tomorrow Comes",
-        "url": "https://open.spotify.com/album/1qpYpWLFMQb2PKMrXjMull"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "Deniz Koyu",
-          "url": "https://open.spotify.com/artist/39PhMWg1aAuuZcph0OXGu6"
-        },
-        {
-          "name": "Jaimes",
-          "url": "https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO"
-        }
-      ],
-      "duration_ms": 211771,
-      "name": "Tomorrow Comes",
-      "url": "https://open.spotify.com/track/3grXANppXUHlF4KCHxPcST"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I'll Follow You",
         "url": "https://open.spotify.com/album/6n8A62fT6vLTMrwuVDQAIp"
       },
@@ -1055,8 +1055,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love You Forever",
-        "url": "https://open.spotify.com/album/6HiujSCdsYuCXdd759w2kr"
+        "name": "Tomorrow Comes",
+        "url": "https://open.spotify.com/album/1qpYpWLFMQb2PKMrXjMull"
       },
       "artists": [
         {
@@ -1064,17 +1064,17 @@
           "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
         },
         {
-          "name": "Stadiumx",
-          "url": "https://open.spotify.com/artist/0DRf6JJDQnRnz0Yp209CmH"
+          "name": "Deniz Koyu",
+          "url": "https://open.spotify.com/artist/39PhMWg1aAuuZcph0OXGu6"
         },
         {
-          "name": "Sam Martin",
-          "url": "https://open.spotify.com/artist/66AE89GQTx88zLYhXn1wFK"
+          "name": "Jaimes",
+          "url": "https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO"
         }
       ],
-      "duration_ms": 234609,
-      "name": "Love You Forever",
-      "url": "https://open.spotify.com/track/2gqzTQEn4g5ly0n5ScdMx0"
+      "duration_ms": 211771,
+      "name": "Tomorrow Comes",
+      "url": "https://open.spotify.com/track/3grXANppXUHlF4KCHxPcST"
     },
     {
       "added_at": null,
@@ -1103,6 +1103,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Love You Forever",
+        "url": "https://open.spotify.com/album/6HiujSCdsYuCXdd759w2kr"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Stadiumx",
+          "url": "https://open.spotify.com/artist/0DRf6JJDQnRnz0Yp209CmH"
+        },
+        {
+          "name": "Sam Martin",
+          "url": "https://open.spotify.com/artist/66AE89GQTx88zLYhXn1wFK"
+        }
+      ],
+      "duration_ms": 234609,
+      "name": "Love You Forever",
+      "url": "https://open.spotify.com/track/2gqzTQEn4g5ly0n5ScdMx0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "For The People",
         "url": "https://open.spotify.com/album/5QcP3EZoMWUi0ETWkh0NAj"
       },
@@ -1119,30 +1143,6 @@
       "duration_ms": 219345,
       "name": "For The People",
       "url": "https://open.spotify.com/track/4MvA2osUdPQpDKNwuDjlM8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hero (Nicky Romero Remix)",
-        "url": "https://open.spotify.com/album/1ddufbXwUwO3l2uIB3qKe3"
-      },
-      "artists": [
-        {
-          "name": "AFROJACK",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 192380,
-      "name": "Hero - Nicky Romero Remix",
-      "url": "https://open.spotify.com/track/4QDlt4NhI93bs9TI5s1sCc"
     }
   ],
   "unique_name": "This Is Nicky Romero",

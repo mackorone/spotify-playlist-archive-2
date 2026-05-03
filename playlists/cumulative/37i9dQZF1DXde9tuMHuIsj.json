@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "The best of Latin Trap. Cover: Clarent",
+  "description": "The best of Latin Trap. Cover: Eladio ",
   "name": "Trap Land",
   "tracks": [
     {
@@ -38,7 +38,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 154500,
       "name": "+Dinero",
       "url": "https://open.spotify.com/track/3k88k86LHubNWiAb2VLNwe"
@@ -2625,6 +2625,36 @@
     },
     {
       "album": {
+        "name": "CHANDAL GRIS",
+        "url": "https://open.spotify.com/album/3zRuNx4DS3osdp6MgCihrx"
+      },
+      "artists": [
+        {
+          "name": "Main Costa",
+          "url": "https://open.spotify.com/artist/61GPxWkJTF8LCGp0zafwah"
+        },
+        {
+          "name": "Yung Beef",
+          "url": "https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch"
+        },
+        {
+          "name": "Pochi",
+          "url": "https://open.spotify.com/artist/7wbgA4GKIqnYmnUUJbRdrb"
+        },
+        {
+          "name": "Adro",
+          "url": "https://open.spotify.com/artist/3fIosUcY5QJLhbLXy43OLV"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151292,
+      "name": "CHANDAL GRIS",
+      "url": "https://open.spotify.com/track/6zitYJnOnNI0tNgbLPN3qi"
+    },
+    {
+      "album": {
         "name": "Chanell Con Chanel",
         "url": "https://open.spotify.com/album/0ZoyktJJTxOA8Ho3pUTStT"
       },
@@ -3482,7 +3512,7 @@
       ],
       "date_added": "2025-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 233999,
       "name": "Descontrol",
       "url": "https://open.spotify.com/track/4IxckZnv29DLN5ueIbFn8i"
@@ -4132,7 +4162,7 @@
       ],
       "date_added": "2025-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 140017,
       "name": "El Del Flavor",
       "url": "https://open.spotify.com/track/164obCYBsKXiaJq19MZWd8"
@@ -4982,7 +5012,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 180821,
       "name": "FORMULA",
       "url": "https://open.spotify.com/track/1NX5Nx8MMpSOL2lyrJhunt"
@@ -5179,6 +5209,28 @@
     },
     {
       "album": {
+        "name": "Gal\u00e1ctico",
+        "url": "https://open.spotify.com/album/7j7i0rq6mlYJPINjyAUXau"
+      },
+      "artists": [
+        {
+          "name": "C.R.O",
+          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
+        },
+        {
+          "name": "Ovi",
+          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Gal\u00e1ctico",
+      "url": "https://open.spotify.com/track/0HCDbojE5tb9fxMGoKPhoW"
+    },
+    {
+      "album": {
         "name": "GANAS",
         "url": "https://open.spotify.com/album/5kvrX3U5XjJVzCbtr71K7T"
       },
@@ -5276,6 +5328,36 @@
       "duration_ms": 230103,
       "name": "GAZZ PRBO (Remix)",
       "url": "https://open.spotify.com/track/73MyN4YVh4D0OHtn6u1pAz"
+    },
+    {
+      "album": {
+        "name": "Get This Money",
+        "url": "https://open.spotify.com/album/08ywbGTA4BApL5JblNNn47"
+      },
+      "artists": [
+        {
+          "name": "Nash",
+          "url": "https://open.spotify.com/artist/4YBfycQ7b5Nim6IepjpnO3"
+        },
+        {
+          "name": "Eix",
+          "url": "https://open.spotify.com/artist/384MqcXCGGFh9UcjI5Tpc5"
+        },
+        {
+          "name": "Moha The B",
+          "url": "https://open.spotify.com/artist/4E44IDMuWVpcKurInIgtco"
+        },
+        {
+          "name": "Maggic",
+          "url": "https://open.spotify.com/artist/1ItNVcT1VXX8JcgBtS6C54"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223529,
+      "name": "Get This Money",
+      "url": "https://open.spotify.com/track/2ocfalOJGX8lmNSRccFOZX"
     },
     {
       "album": {
@@ -5855,6 +5937,24 @@
     },
     {
       "album": {
+        "name": "Hechos",
+        "url": "https://open.spotify.com/album/1VNc5Na40q01gsHqmQZJc1"
+      },
+      "artists": [
+        {
+          "name": "Little Homie",
+          "url": "https://open.spotify.com/artist/7HDjs7xzL0m2IbJcg3qnky"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158746,
+      "name": "Hechos",
+      "url": "https://open.spotify.com/track/2esT30J5nPkd74jozzjXK0"
+    },
+    {
+      "album": {
         "name": "HELLCAT",
         "url": "https://open.spotify.com/album/4vb14fg6oTyXWeMAz4DqnV"
       },
@@ -6156,7 +6256,7 @@
       ],
       "date_added": "2025-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 188513,
       "name": "H\u00c9RCULES",
       "url": "https://open.spotify.com/track/67kLyQ7FMZMKr723WZKay4"
@@ -6636,7 +6736,7 @@
       ],
       "date_added": "2025-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 140053,
       "name": "KHEE LO KHEEE",
       "url": "https://open.spotify.com/track/7lE54tzJ45RVACEH4aN1nN"
@@ -6768,7 +6868,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 192000,
       "name": "kourtney",
       "url": "https://open.spotify.com/track/0f2YTpRpN9fC2WiS0O2PaG"
@@ -7078,7 +7178,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 204159,
       "name": "La Vida Se Va",
       "url": "https://open.spotify.com/track/5hjvY1YhJjwZ4Fv2mOCDlg"
@@ -7544,7 +7644,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 198367,
       "name": "LOS CACORROS USAN KLEIMOND",
       "url": "https://open.spotify.com/track/73gesm262Pgbk7j0SEpijT"
@@ -7703,6 +7803,44 @@
     },
     {
       "album": {
+        "name": "Loyalty 4 Ever Remix (feat. Kendo Kaponi, \u00d1engo Flow)",
+        "url": "https://open.spotify.com/album/4fMMNDPrNNBLBVatoeTGkd"
+      },
+      "artists": [
+        {
+          "name": "Hanzel La H",
+          "url": "https://open.spotify.com/artist/5VKY4vo0U20tbsQi6OdH9o"
+        },
+        {
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        },
+        {
+          "name": "Kendo Kaponi",
+          "url": "https://open.spotify.com/artist/1WMwuNKzEFtU6pPkdtryYS"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361844,
+      "name": "Loyalty 4 Ever Remix (feat. Kendo Kaponi, \u00d1engo Flow)",
+      "url": "https://open.spotify.com/track/3AKfIiT8uYN5VQhVHqyafd"
+    },
+    {
+      "album": {
         "name": "LUCIFER",
         "url": "https://open.spotify.com/album/4mW4ef2qVsc2sR75G0Zg6e"
       },
@@ -7754,7 +7892,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 166206,
       "name": "LUXURY",
       "url": "https://open.spotify.com/track/0Ss0QjKvNnuPDR5popsXcP"
@@ -7854,7 +7992,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 254117,
       "name": "Mami Acho - Remix",
       "url": "https://open.spotify.com/track/7vnMIPH0bZEMLGVSlqp4OK"
@@ -8014,7 +8152,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 217914,
       "name": "Me Persiguen",
       "url": "https://open.spotify.com/track/2iPQFmsVPEG137aVs2jBMB"
@@ -9222,7 +9360,7 @@
       ],
       "date_added": "2025-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 216551,
       "name": "Otra Piel",
       "url": "https://open.spotify.com/track/79ujxXpXTeuBWSvm2d1lY3"
@@ -9741,6 +9879,32 @@
     },
     {
       "album": {
+        "name": "Plata Llama Plata",
+        "url": "https://open.spotify.com/album/3nndUF1Hfmm1KJFAEMdQi3"
+      },
+      "artists": [
+        {
+          "name": "Don Pablo Mures",
+          "url": "https://open.spotify.com/artist/4YcotSTsnWhSSizEgJlH5k"
+        },
+        {
+          "name": "El Americano 4KT",
+          "url": "https://open.spotify.com/artist/7JGdIwHe5RyFZvLEuRdR7N"
+        },
+        {
+          "name": "Akim",
+          "url": "https://open.spotify.com/artist/2y0XUKKpAeeGyQ5ND7dTY3"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252156,
+      "name": "Plata Llama Plata",
+      "url": "https://open.spotify.com/track/1CDDKIHrnQJ1QHDBvwOz7B"
+    },
+    {
+      "album": {
         "name": "Polaroid",
         "url": "https://open.spotify.com/album/6nRkR4C2MCnIGpagBypyIU"
       },
@@ -10137,6 +10301,24 @@
     },
     {
       "album": {
+        "name": "QU\u00c9 L\u00cdO",
+        "url": "https://open.spotify.com/album/6FXL5Y6vlq2nWuubKZymog"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132827,
+      "name": "QU\u00c9 L\u00cdO",
+      "url": "https://open.spotify.com/track/5vDhrXCNTkyahObQwZOYL9"
+    },
+    {
+      "album": {
         "name": "LYKE MIIKE",
         "url": "https://open.spotify.com/album/0G1YnsWxzQoJ2B1QtZLj1e"
       },
@@ -10310,6 +10492,24 @@
       "duration_ms": 166500,
       "name": "RICH AND BLESS",
       "url": "https://open.spotify.com/track/1rOIUsAHErs93MmNUeDqDT"
+    },
+    {
+      "album": {
+        "name": "CORSA",
+        "url": "https://open.spotify.com/album/5JNyi6vWb9zTfxa9zDHrZr"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175035,
+      "name": "Ricky Bobby",
+      "url": "https://open.spotify.com/track/24IeBGZDIeRA4H6EpQz8D0"
     },
     {
       "album": {
@@ -10524,7 +10724,7 @@
       ],
       "date_added": "2025-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 146803,
       "name": "Rose",
       "url": "https://open.spotify.com/track/0zY6VwcJajbJdXdTaIKfb8"
@@ -11662,6 +11862,32 @@
       "duration_ms": 182400,
       "name": "Took A Perc (ft. Ankhal)",
       "url": "https://open.spotify.com/track/2dSamSbt5eF65tnYHRI7kM"
+    },
+    {
+      "album": {
+        "name": "TOPURIA",
+        "url": "https://open.spotify.com/album/4GLKElwZnRbDi498zgv8w3"
+      },
+      "artists": [
+        {
+          "name": "Maikel Delacalle",
+          "url": "https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV"
+        },
+        {
+          "name": "JC Reyes",
+          "url": "https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG"
+        },
+        {
+          "name": "Almighty",
+          "url": "https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192539,
+      "name": "TOPURIA",
+      "url": "https://open.spotify.com/track/7obAjGll1lllixdh12WcMV"
     },
     {
       "album": {
@@ -12960,7 +13186,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 193097,
       "name": "YZ",
       "url": "https://open.spotify.com/track/474gSwRAS5LlraXi0OUcj3"

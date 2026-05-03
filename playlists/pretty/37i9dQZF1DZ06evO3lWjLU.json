@@ -1,12 +1,12 @@
 {
   "description": "This is Danny Ocean. The essential tracks, all in one playlist.",
-  "num_followers": 327464,
+  "num_followers": 327551,
   "original_name": "This Is Danny Ocean",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afKbgAAAAAAOocuYZxa5bnfgzX1gljUX",
+  "snapshot_id": "afPtAAAAAAA5O8HHOLDxfKCqWwwJ6dw0",
   "tracks": [
     {
       "added_at": null,
@@ -655,22 +655,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "@dannocean",
-        "url": "https://open.spotify.com/album/27588WrJksr8zu7ujmRsOA"
+        "name": "CANAIMA",
+        "url": "https://open.spotify.com/album/0mwHC4EpVfJ1y2hY7PvfYX"
       },
       "artists": [
         {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+          "name": "Big Soto",
+          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
         },
         {
-          "name": "ELENA ROSE",
-          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
         }
       ],
-      "duration_ms": 309615,
-      "name": "Las estrellas / Si tu me love me",
-      "url": "https://open.spotify.com/track/5TAsVTozAW7U4JjoW9dDH8"
+      "duration_ms": 151967,
+      "name": "CANAIMA",
+      "url": "https://open.spotify.com/track/5QsTUq4tWI0QiVAMNoKDFs"
     },
     {
       "added_at": null,
@@ -691,6 +691,26 @@
       "duration_ms": 161454,
       "name": "3AM - TE 100PRE",
       "url": "https://open.spotify.com/track/36VDFqRKppSVbrCo23SC6p"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "@dannocean",
+        "url": "https://open.spotify.com/album/27588WrJksr8zu7ujmRsOA"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        },
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        }
+      ],
+      "duration_ms": 309615,
+      "name": "Las estrellas / Si tu me love me",
+      "url": "https://open.spotify.com/track/5TAsVTozAW7U4JjoW9dDH8"
     },
     {
       "added_at": null,
@@ -735,6 +755,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "venequia.",
+        "url": "https://open.spotify.com/album/7qF0L6bZnkDlezwvUJeFet"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 132336,
+      "name": "escala en Panam\u00e1",
+      "url": "https://open.spotify.com/track/7KhdmSkSsouQhiSCFad0Ou"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "@dannocean",
         "url": "https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I"
       },
@@ -755,42 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CANAIMA",
-        "url": "https://open.spotify.com/album/0mwHC4EpVfJ1y2hY7PvfYX"
-      },
-      "artists": [
-        {
-          "name": "Big Soto",
-          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
-        },
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 151967,
-      "name": "CANAIMA",
-      "url": "https://open.spotify.com/track/5QsTUq4tWI0QiVAMNoKDFs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "venequia.",
-        "url": "https://open.spotify.com/album/7qF0L6bZnkDlezwvUJeFet"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 132336,
-      "name": "escala en Panam\u00e1",
-      "url": "https://open.spotify.com/track/7KhdmSkSsouQhiSCFad0Ou"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "REFLEXA",
         "url": "https://open.spotify.com/album/79t9QXn7NKUDBPo4rywYcy"
       },
@@ -803,22 +803,6 @@
       "duration_ms": 149255,
       "name": "Si no no",
       "url": "https://open.spotify.com/track/5v1gwuCHx5CcNN6NLrNWO9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "@dannocean",
-        "url": "https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 148791,
-      "name": "Istanbul",
-      "url": "https://open.spotify.com/track/3gU9FbBKkLB23WvmSXpca2"
     },
     {
       "added_at": null,
@@ -859,6 +843,22 @@
       "duration_ms": 200278,
       "name": "EIVISSA",
       "url": "https://open.spotify.com/track/3kcj2zzabr8qnR4MnMeWv2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "@dannocean",
+        "url": "https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 148791,
+      "name": "Istanbul",
+      "url": "https://open.spotify.com/track/3gU9FbBKkLB23WvmSXpca2"
     },
     {
       "added_at": null,

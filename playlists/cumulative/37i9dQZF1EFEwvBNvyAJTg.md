@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2tipyZnSXT4rMixqUyVpz6">Jon Shave</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-267 songs - 14 hr 36 min
+268 songs - 14 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Cry Alone](https://open.spotify.com/track/4kQazx3VMaDKUG1IIaC94i) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3) | [Come Over When You're Sober, Pt\. 2](https://open.spotify.com/album/52JymrguPgkmmwLaWIusst) | 2:47 | 2024-06-13 |  |
 | [Curve](https://open.spotify.com/track/3lIizfjVFUTOnsmoBJEDjV) | [Kara Marni](https://open.spotify.com/artist/2lfOu2DjnvR4Xpolt3OPfv) | [Love Just Ain't Enough](https://open.spotify.com/album/1l1sAe6hsLPPFjm2UvwSc3) | 3:44 | 2024-06-13 |  |
 | [Curve](https://open.spotify.com/track/6FoeJWd7LcHVDXWZ8FQEiz) | [Kara Marni](https://open.spotify.com/artist/2lfOu2DjnvR4Xpolt3OPfv) | [Curve](https://open.spotify.com/album/7qGzvrmoGzcLBHB2aN0PqO) | 3:44 | 2025-02-28 | 2025-03-09 |
+| [Daffodils](https://open.spotify.com/track/2gSRtzhKePCVZFIVCUrYc0) | [SISTRA](https://open.spotify.com/artist/0Y1A0tTg1P1q6FKqhM7grU) | [Daffodils](https://open.spotify.com/album/1hzfJ4kHvpSJ3RLMVBhzBL) | 2:40 | 2026-05-02 |  |
 | [Declaration](https://open.spotify.com/track/5h3sUmbwEdFkxejGryYhj6) | [Cailin Russo](https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0) | [The Drama](https://open.spotify.com/album/7t04xptRT83AnNFdsajTYQ) | 3:38 | 2024-06-13 |  |
 | [Deep](https://open.spotify.com/track/0HEcwBPQfxpHMtXR4qO55K) | [Dopamine](https://open.spotify.com/artist/3Edve4VIATi0OZngclQlkN), [Ali Story](https://open.spotify.com/artist/4ek5ExkJLsIHouFsiQyPpx) | [Deep](https://open.spotify.com/album/6qIAIFQ4soNtbIzw8bLlWc) | 3:26 | 2024-06-13 |  |
 | [Delete It \- Edit](https://open.spotify.com/track/7JbxK2WFeH0WGpV2c1nDTb) | [Dopamine](https://open.spotify.com/artist/3Edve4VIATi0OZngclQlkN) | [Delete It \(Edit\)](https://open.spotify.com/album/6uG2d0AEFABsFwU1fSfCEi) | 2:26 | 2024-06-13 |  |

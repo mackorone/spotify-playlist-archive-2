@@ -6,7 +6,7 @@
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAJdUJHp6cYNW1+BsPVtkmtiEkRdUvb",
+  "snapshot_id": "AAAJeIFHH44cULATnRtOvwP7eMP/2Hfk",
   "tracks": [
     {
       "added_at": "2026-04-28 22:21:45",
@@ -38283,6 +38283,54 @@
       "duration_ms": 79638,
       "name": "\u041c\u044b \u0431\u0443\u0434\u0435\u043c \u0440\u0430\u0434\u043e\u0432\u0430\u0442\u044c\u0441\u044f \u0436\u0438\u0437\u043d\u0438",
       "url": "https://open.spotify.com/track/3Ixm23ATHd8yETGP7S4tOc"
+    },
+    {
+      "added_at": "2026-05-02 14:42:56",
+      "album": {
+        "name": "Trop Tard",
+        "url": "https://open.spotify.com/album/4NIXc8GwWXnvo1TTMJEkWt"
+      },
+      "artists": [
+        {
+          "name": "ToloV",
+          "url": "https://open.spotify.com/artist/4t3awapuIDzb4fGOMWR35Q"
+        }
+      ],
+      "duration_ms": 211659,
+      "name": "Trop Tard",
+      "url": "https://open.spotify.com/track/4Jc87vJJuMZJs1sVCzihsl"
+    },
+    {
+      "added_at": "2026-05-02 14:44:01",
+      "album": {
+        "name": "Eres (cumbia)",
+        "url": "https://open.spotify.com/album/37xqG4vHBHGfn7Kgb6LfTL"
+      },
+      "artists": [
+        {
+          "name": "OVE MARQUESIN",
+          "url": "https://open.spotify.com/artist/0plb8N6XwOKnXuQFxHiD0t"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Eres (cumbia)",
+      "url": "https://open.spotify.com/track/5n8PeHHXQl9Rchj1Qlw7Kn"
+    },
+    {
+      "added_at": "2026-05-02 16:09:32",
+      "album": {
+        "name": "Asylum of the Mind",
+        "url": "https://open.spotify.com/album/2vmZXsykEmnHmMOqEna3Jr"
+      },
+      "artists": [
+        {
+          "name": "AETHEROHM",
+          "url": "https://open.spotify.com/artist/2fpzZutgwQNC0dLo6Ly5Ww"
+        }
+      ],
+      "duration_ms": 244079,
+      "name": "Asylum of the Mind",
+      "url": "https://open.spotify.com/track/3BgakXbaYhofrzmBhGcPjg"
     }
   ],
   "unique_name": "forever young Playlist Spotify",

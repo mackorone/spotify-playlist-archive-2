@@ -1,12 +1,12 @@
 {
   "description": "This is Bruna Karla. The essential tracks, all in one playlist.",
-  "num_followers": 132739,
+  "num_followers": 132741,
   "original_name": "This Is Bruna Karla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afKbgAAAAADv0txbFcDhLJaYVEBifwfP",
+  "snapshot_id": "afPtAAAAAAA8/tgxaA1ZX34P0dppGFNO",
   "tracks": [
     {
       "added_at": null,
@@ -387,6 +387,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Forma de Cuidado (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2acF6eJqkOSqlXiH97dBsa"
+      },
+      "artists": [
+        {
+          "name": "Valesca Mayssa",
+          "url": "https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh"
+        },
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+        }
+      ],
+      "duration_ms": 244285,
+      "name": "Forma de Cuidado (Ao Vivo)",
+      "url": "https://open.spotify.com/track/6KOtFGXB6I18VCgaQrG0IS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Drive In (Ao Vivo)",
         "url": "https://open.spotify.com/album/5gSFHSa7M5B1GQjVTNxdqW"
       },
@@ -411,30 +435,6 @@
       "duration_ms": 275875,
       "name": "Raridade (Ao Vivo)",
       "url": "https://open.spotify.com/track/2Oi3FSF0PT3b5bG4ziq2U8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Forma de Cuidado (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2acF6eJqkOSqlXiH97dBsa"
-      },
-      "artists": [
-        {
-          "name": "Valesca Mayssa",
-          "url": "https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh"
-        },
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        },
-        {
-          "name": "Todah Music",
-          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
-        }
-      ],
-      "duration_ms": 244285,
-      "name": "Forma de Cuidado (Ao Vivo)",
-      "url": "https://open.spotify.com/track/6KOtFGXB6I18VCgaQrG0IS"
     },
     {
       "added_at": null,
@@ -851,22 +851,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Como \u00c1guia.",
-        "url": "https://open.spotify.com/album/1Bs4fwpu5CM0QMU34eH4zH"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 278500,
-      "name": "Toca-me, Pai",
-      "url": "https://open.spotify.com/track/0W9Sjpu4N5dTq4LsvDNo18"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Meu Viver (Ao Vivo)",
         "url": "https://open.spotify.com/album/75qUIRGKzgzIXbwXZT2aMM"
       },
@@ -883,8 +867,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vento do Esp\u00edrito",
-        "url": "https://open.spotify.com/album/1o8OkaZKl1pTCMrWlDHxEp"
+        "name": "Como \u00c1guia.",
+        "url": "https://open.spotify.com/album/1Bs4fwpu5CM0QMU34eH4zH"
       },
       "artists": [
         {
@@ -892,9 +876,9 @@
           "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
         }
       ],
-      "duration_ms": 244831,
-      "name": "Uma Mulher, Um Milagre",
-      "url": "https://open.spotify.com/track/7376jMT2i67KqphVdumwPQ"
+      "duration_ms": 278500,
+      "name": "Toca-me, Pai",
+      "url": "https://open.spotify.com/track/0W9Sjpu4N5dTq4LsvDNo18"
     },
     {
       "added_at": null,
@@ -915,6 +899,22 @@
       "duration_ms": 321574,
       "name": "Eu Creio (Ao Vivo)",
       "url": "https://open.spotify.com/track/7EgXcH7sYVoWdaqkVF9FFr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vento do Esp\u00edrito",
+        "url": "https://open.spotify.com/album/1o8OkaZKl1pTCMrWlDHxEp"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 244831,
+      "name": "Uma Mulher, Um Milagre",
+      "url": "https://open.spotify.com/track/7376jMT2i67KqphVdumwPQ"
     },
     {
       "added_at": null,

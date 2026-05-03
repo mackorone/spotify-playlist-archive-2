@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSW4ppn40bal.md) - [plain]
 
 > Fall fast asleep with deep noise
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,491 likes - 300 songs - 15 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,572 likes - 300 songs - 15 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

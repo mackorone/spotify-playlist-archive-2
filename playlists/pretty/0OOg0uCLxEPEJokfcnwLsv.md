@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 
 > These are some independent rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 963 likes - 116 songs - 7 hr 9 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 965 likes - 117 songs - 7 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,5 +124,6 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 | 114 | [Perspectives](https://open.spotify.com/track/4E5vUYWAQPmRHDbVZriqt1) | [Slackrr](https://open.spotify.com/artist/17JbSCGvIPoMMl9xGcR8lu) | [A Light On The Horizon](https://open.spotify.com/album/6zRSgRECoeWvyG6UQq2Fdw) | 3:19 |
 | 115 | [Haunted](https://open.spotify.com/track/7zoHmY3t1BKRyRADFjiK3P) | [Follow Deep](https://open.spotify.com/artist/0pi2JVymYDQ1helz6Z1AOg) | [Haunted](https://open.spotify.com/album/3OMhyOKxU8AxOMr6dOjJCd) | 3:37 |
 | 116 | [Line Them Up](https://open.spotify.com/track/1qpnSa87IPUX0u5xl0JIMx) | [The Ratskins](https://open.spotify.com/artist/6ge5wjSR7ea1mgxcodIF8V) | [Line Them Up](https://open.spotify.com/album/7xXnNyCNRY0vortmzd7shM) | 2:47 |
+| 117 | [Set Your Life On Fire](https://open.spotify.com/track/5Nx6BHTGLSITqrERad64nk) | [The Last Pioneers](https://open.spotify.com/artist/47VNhQMeBaWxOZG6aJHYvM) | [Set Your Life On Fire](https://open.spotify.com/album/4rUIlLpeOwgUvfJ8NMkmeD) | 3:28 |
 
-Snapshot ID: `AAAF5Tif8z5f3fQeAYnKszpv1aW4LPSb`
+Snapshot ID: `AAAF5t4zdq4f3wVPnD2QuRvduV1VayXC`

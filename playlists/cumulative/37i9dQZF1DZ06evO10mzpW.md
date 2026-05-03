@@ -4,7 +4,7 @@
 
 > This is Pauline Anna Strom\. The essential tracks, all in one playlist.
 
-29 songs - 2 hr 34 min
+30 songs - 2 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,11 +29,12 @@
 | [Phantom Dancer](https://open.spotify.com/track/1kqewyGYEj7eUroTS1mUIm) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Trans\-Millenia Consort](https://open.spotify.com/album/4NSbHfbNTp2hmDyFJY7INN) | 4:17 | 2026-03-04 |  |
 | [Plot Zero](https://open.spotify.com/track/5eFrPcV4i3N1OBXWepPyYP) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Plot Zero](https://open.spotify.com/album/1FNEjRy1z1H3WkpByA9Vnl) | 4:42 | 2026-03-04 |  |
 | [Quiet Joy](https://open.spotify.com/track/0WUugSL8obdj33uav8PsEI) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Quiet Joy / Domestic Peace](https://open.spotify.com/album/0iJZHB9TZjhwVz1MGc75Pb) | 3:02 | 2026-03-04 |  |
-| [Small Reptiles on the Forest Floor](https://open.spotify.com/track/6z0Jsf6rbNz92gvoXZrNPb) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Angel Tears in Sunlight](https://open.spotify.com/album/1XtRcRYDb1uA7hvvZzC2Xd) | 5:36 | 2026-03-04 |  |
+| [Small Reptiles on the Forest Floor](https://open.spotify.com/track/6z0Jsf6rbNz92gvoXZrNPb) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Angel Tears in Sunlight](https://open.spotify.com/album/1XtRcRYDb1uA7hvvZzC2Xd) | 5:36 | 2026-03-04 | 2026-05-03 |
 | [Symphonic Industry](https://open.spotify.com/track/7CDSMEvYr4QQQnYmw6N7Th) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Plot Zero](https://open.spotify.com/album/1FNEjRy1z1H3WkpByA9Vnl) | 6:39 | 2026-03-04 |  |
 | [Temple Gardens at Midnight](https://open.spotify.com/track/6WbXm5zGLbejv5XfEmnhhm) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Angel Tears in Sunlight](https://open.spotify.com/album/1XtRcRYDb1uA7hvvZzC2Xd) | 4:25 | 2026-03-13 | 2026-03-17 |
 | [Tenement Stairwell](https://open.spotify.com/track/5uNPTCRQdNOP1lAKsoRXQo) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Spectre](https://open.spotify.com/album/0N7jPT8QKsSB48eDUn4KPT) | 5:23 | 2026-03-04 |  |
 | [The Eighteen Beautiful Memories](https://open.spotify.com/track/5lrxTVaWy5DfgaTlLNYaXP) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Angel Tears in Sunlight](https://open.spotify.com/album/1XtRcRYDb1uA7hvvZzC2Xd) | 4:03 | 2026-03-04 |  |
+| [The Pulsation](https://open.spotify.com/track/3LRpu81vIDpX0Avb4i1Wex) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Angel Tears in Sunlight](https://open.spotify.com/album/1XtRcRYDb1uA7hvvZzC2Xd) | 5:47 | 2026-05-03 |  |
 | [The Unveiling](https://open.spotify.com/track/6uY4jTpE2hjhSwE2imW2A1) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Trans\-Millenia Music](https://open.spotify.com/album/4hY9BjX7ydDk7hlXaP8ykw) | 5:09 | 2026-03-06 |  |
 | [Tropical Convergence](https://open.spotify.com/track/5bKllsJIn1Le6YJkipcuwS) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Angel Tears in Sunlight](https://open.spotify.com/album/1XtRcRYDb1uA7hvvZzC2Xd) | 2:41 | 2026-03-04 |  |
 | [Virgin Ice](https://open.spotify.com/track/5CmYgfxDfGjUENk5UKhktc) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Trans\-Millenia Music](https://open.spotify.com/album/4hY9BjX7ydDk7hlXaP8ykw) | 4:38 | 2026-03-04 |  |

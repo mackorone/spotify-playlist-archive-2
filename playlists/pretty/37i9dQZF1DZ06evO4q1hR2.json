@@ -1,13 +1,29 @@
 {
   "description": "This is El Coyote Y Su Banda Tierra Santa. The essential tracks, all in one playlist.",
-  "num_followers": 79503,
+  "num_followers": 79532,
   "original_name": "This Is El Coyote Y Su Banda Tierra Santa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afKbgAAAAADMdLdMt8XrgHxXi9tVKZGN",
+  "snapshot_id": "afPtAAAAAACyrt+wB4Sy5X+BMm8lIlxV",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nacimos Pa' Ser Historia",
+        "url": "https://open.spotify.com/album/2ugVjmD8o9P4Gyn4mfVF8z"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "duration_ms": 177445,
+      "name": "Ranchero Enamorado",
+      "url": "https://open.spotify.com/track/4wQCG04ViRJEzTK8BQIvTQ"
+    },
     {
       "added_at": null,
       "album": {
@@ -639,6 +655,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Te So\u00f1\u00e9",
+        "url": "https://open.spotify.com/album/0DtuRnKX8XgK2Os72ACGrY"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "duration_ms": 136760,
+      "name": "Hablando Claro",
+      "url": "https://open.spotify.com/track/4NiNF2TgroCObAR1iYX1MR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Te Vas Amor (En Vivo)",
         "url": "https://open.spotify.com/album/1qKcJWObSOGkvQHvjOilNS"
       },
@@ -659,22 +691,6 @@
       "duration_ms": 137555,
       "name": "Te Vas Amor (En Vivo)",
       "url": "https://open.spotify.com/track/2YHLZsnlSJgVGN7MfNQyVt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Te So\u00f1\u00e9",
-        "url": "https://open.spotify.com/album/0DtuRnKX8XgK2Os72ACGrY"
-      },
-      "artists": [
-        {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
-        }
-      ],
-      "duration_ms": 136760,
-      "name": "Hablando Claro",
-      "url": "https://open.spotify.com/track/4NiNF2TgroCObAR1iYX1MR"
     },
     {
       "added_at": null,
@@ -711,22 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cuando Regreso A Tus Brazos",
-        "url": "https://open.spotify.com/album/5Xh3r6kzRx25E91eNZh8cJ"
-      },
-      "artists": [
-        {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
-        }
-      ],
-      "duration_ms": 164666,
-      "name": "Mi Coraz\u00f3n Te Quiere",
-      "url": "https://open.spotify.com/track/6GtlSqp6S72hz1eRndGo8N"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Te So\u00f1\u00e9",
         "url": "https://open.spotify.com/album/0DtuRnKX8XgK2Os72ACGrY"
       },
@@ -743,8 +743,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/20CuPsvlVGNNGZeRjXH3LA"
+        "name": "Cuando Regreso A Tus Brazos",
+        "url": "https://open.spotify.com/album/5Xh3r6kzRx25E91eNZh8cJ"
       },
       "artists": [
         {
@@ -752,9 +752,9 @@
           "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
         }
       ],
-      "duration_ms": 199933,
-      "name": "Verdad",
-      "url": "https://open.spotify.com/track/6eSHAK97hICMhLd6UWbPGM"
+      "duration_ms": 164666,
+      "name": "Mi Coraz\u00f3n Te Quiere",
+      "url": "https://open.spotify.com/track/6GtlSqp6S72hz1eRndGo8N"
     },
     {
       "added_at": null,
@@ -779,22 +779,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "No volver\u00e9",
-        "url": "https://open.spotify.com/album/495pzlAoRmw7DJxLhbpSvn"
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/20CuPsvlVGNNGZeRjXH3LA"
       },
       "artists": [
-        {
-          "name": "Banda 89",
-          "url": "https://open.spotify.com/artist/6obOm55X77MaT63vvPielg"
-        },
         {
           "name": "El Coyote Y Su Banda Tierra Santa",
           "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
         }
       ],
-      "duration_ms": 160533,
-      "name": "No volver\u00e9",
-      "url": "https://open.spotify.com/track/27qAGAUh2empb6QIAMJi2o"
+      "duration_ms": 199933,
+      "name": "Verdad",
+      "url": "https://open.spotify.com/track/6eSHAK97hICMhLd6UWbPGM"
     },
     {
       "added_at": null,
@@ -815,6 +811,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "No volver\u00e9",
+        "url": "https://open.spotify.com/album/495pzlAoRmw7DJxLhbpSvn"
+      },
+      "artists": [
+        {
+          "name": "Banda 89",
+          "url": "https://open.spotify.com/artist/6obOm55X77MaT63vvPielg"
+        },
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "duration_ms": 160533,
+      "name": "No volver\u00e9",
+      "url": "https://open.spotify.com/track/27qAGAUh2empb6QIAMJi2o"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cuando Regreso A Tus Brazos",
         "url": "https://open.spotify.com/album/5Xh3r6kzRx25E91eNZh8cJ"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 190200,
       "name": "Cuando Regreso A Tus Brazos",
       "url": "https://open.spotify.com/track/0BFiTTjJy7tB6R15J4vaXf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lo Basico",
-        "url": "https://open.spotify.com/album/6CE7YrsZV7r70OadZDrPTS"
-      },
-      "artists": [
-        {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
-        }
-      ],
-      "duration_ms": 192946,
-      "name": "Alla En El Rancho Grande",
-      "url": "https://open.spotify.com/track/0zTXzW75XBCtt9v8ccXixg"
     }
   ],
   "unique_name": "This Is El Coyote Y Su Banda Tierra Santa",

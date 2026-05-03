@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "de skarpeste knive i dansk musik  \ud83d\udcf8    Cover: Marcus.wav",
+  "description": "de skarpeste knive i dansk musik  \ud83d\udcf8    Cover: BJ\u00d8RN",
   "name": "ung kniv ",
   "tracks": [
     {
@@ -3814,7 +3814,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 141397,
       "name": "Kommet Videre",
       "url": "https://open.spotify.com/track/4IGButeXvqRqDjj9rM2iUa"
@@ -4298,6 +4298,24 @@
       "duration_ms": 197397,
       "name": "Mandag Til Fredag",
       "url": "https://open.spotify.com/track/2LA30t2wNFyjgvbyms415y"
+    },
+    {
+      "album": {
+        "name": "Mareridt",
+        "url": "https://open.spotify.com/album/2fTcRdTAQuCADEZj5KZGLf"
+      },
+      "artists": [
+        {
+          "name": "BJ\u00d8RN",
+          "url": "https://open.spotify.com/artist/6JgNOXKB2X1JjGYReJIa9D"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183163,
+      "name": "Mareridt",
+      "url": "https://open.spotify.com/track/6hhNPBPQDhO0WYbhVFFCIM"
     },
     {
       "album": {

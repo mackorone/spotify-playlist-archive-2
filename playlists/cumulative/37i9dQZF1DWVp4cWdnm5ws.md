@@ -2,7 +2,7 @@
 
 ### [RADAR Philippines](https://open.spotify.com/playlist/37i9dQZF1DWVp4cWdnm5ws)
 
-> Introducing RADAR Philippines Cast of 2026\. Cover: Chezka
+> Introducing RADAR Philippines Cast of 2026\. Cover: rhodessa
 
 334 songs - 19 hr 43 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3YdXS8.md) - [plain]
 
 > This is Selena\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 643,302 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 643,336 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,19 +44,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3YdXS8.md) - [plain]
 | 34 | [El Chico Del Apartamento 512 \- Live](https://open.spotify.com/track/6yBtO4KuwLX6ASanqMjVSG) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Live\-The Last Concert](https://open.spotify.com/album/4wSvpY9bfD8UuhUPFz3Mpt) | 3:15 |
 | 35 | [I Could Fall In Love](https://open.spotify.com/track/6hVSuCzfJSF8Hla1fzqThH) | [A.B\. Quintanilla III Y Los Kumbia Kings](https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL), [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [A.B\. Quintanilla III & Kumbia Kumbia Kings Present The Duets](https://open.spotify.com/album/05CvQnHFWD0JrII6bfM07e) | 4:50 |
 | 36 | [Cumbia Medley \- Live](https://open.spotify.com/track/1ukUDShP9cx9uk9YC7FIBW) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Movie Soundtrack](https://open.spotify.com/album/6tgYUMd4BkJnE88UfrUSDO) | 8:38 |
-| 37 | [Missing My Baby \- Live/Remastered 2026](https://open.spotify.com/track/4TU8i4Zokru3mOvRUWzJ64) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Selena LIVE \(Remastered 2026\)](https://open.spotify.com/album/05yu3lskS9ViU0Lbq3PN4p) | 3:58 |
+| 37 | [Yo Fui Aquella \- .](https://open.spotify.com/track/1xoNViCJArwctEfzI1POqS) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Selena: The Series Soundtrack](https://open.spotify.com/album/4zKd7rKQ7dXKXEEGcRoFNN) | 3:03 |
 | 38 | [Cobarde \- Live](https://open.spotify.com/track/6ELj5zKkDoh1yPjsS91LFZ) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Live\-The Last Concert](https://open.spotify.com/album/4wSvpY9bfD8UuhUPFz3Mpt) | 1:56 |
-| 39 | [Yo Fui Aquella \- .](https://open.spotify.com/track/1xoNViCJArwctEfzI1POqS) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Selena: The Series Soundtrack](https://open.spotify.com/album/4zKd7rKQ7dXKXEEGcRoFNN) | 3:03 |
-| 40 | [El Toro Relajo](https://open.spotify.com/track/5t1POWyhbKw2U24reBLfO1) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Dreaming Of You](https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0) | 2:20 |
-| 41 | [Siempre](https://open.spotify.com/track/4OGmMSjKfVIEEwp7oHCUxp) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Mis Primeros Éxitos](https://open.spotify.com/album/1j1baA236Z6dGkrXKAIAYU) | 3:37 |
-| 42 | [Como La Flor/Baila Esta Cumbia \- Live/Remastered 2026](https://open.spotify.com/track/6SXXFYCKW2kjxWEuFyuEdR) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Selena LIVE \(Remastered 2026\)](https://open.spotify.com/album/05yu3lskS9ViU0Lbq3PN4p) | 9:44 |
-| 43 | [Enamorada De Ti](https://open.spotify.com/track/7bnlKGXoDYlc6PXeb9KcQ8) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Ven Conmigo \- Selena 20 Years Of Music](https://open.spotify.com/album/0xjlVSiqnAxeQHGfk5i2PG) | 4:07 |
+| 39 | [El Toro Relajo](https://open.spotify.com/track/5t1POWyhbKw2U24reBLfO1) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Dreaming Of You](https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0) | 2:20 |
+| 40 | [Siempre](https://open.spotify.com/track/4OGmMSjKfVIEEwp7oHCUxp) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Mis Primeros Éxitos](https://open.spotify.com/album/1j1baA236Z6dGkrXKAIAYU) | 3:37 |
+| 41 | [Como La Flor/Baila Esta Cumbia \- Live/Remastered 2026](https://open.spotify.com/track/6SXXFYCKW2kjxWEuFyuEdR) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Selena LIVE \(Remastered 2026\)](https://open.spotify.com/album/05yu3lskS9ViU0Lbq3PN4p) | 9:44 |
+| 42 | [Enamorada De Ti](https://open.spotify.com/track/7bnlKGXoDYlc6PXeb9KcQ8) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Ven Conmigo \- Selena 20 Years Of Music](https://open.spotify.com/album/0xjlVSiqnAxeQHGfk5i2PG) | 4:07 |
+| 43 | [Missing My Baby](https://open.spotify.com/track/1bofHtKrTkKQXx4wm4wITp) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Dreaming Of You](https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0) | 4:13 |
 | 44 | [Siempre Estoy Pensando En Ti](https://open.spotify.com/track/7KsOTKIJAob3zAOgk1ltnv) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [La Leyenda \(Version Super Deluxe\)](https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03) | 3:01 |
 | 45 | [Cien Años](https://open.spotify.com/track/2PAo9vxNI34cHnYqYBDPFa) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Mis Primeros Éxitos](https://open.spotify.com/album/1j1baA236Z6dGkrXKAIAYU) | 3:11 |
-| 46 | [Bidi Bidi Bom Bom](https://open.spotify.com/track/7brHejB8gAkS3nUNyvllWp) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [For You](https://open.spotify.com/album/78GeZ5IA1KSbI0MiR4bAhH) | 4:13 |
-| 47 | [No Quiero Saber \- 1990 Version](https://open.spotify.com/track/4FSNKKZnUCgYmiiBnBbVG7) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Ven Conmigo \- Selena 20 Years Of Music](https://open.spotify.com/album/0xjlVSiqnAxeQHGfk5i2PG) | 2:57 |
-| 48 | [Captive Heart](https://open.spotify.com/track/7btQwPwo5ML6RRtrELNWio) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Dreaming Of You](https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0) | 4:23 |
+| 46 | [No Quiero Saber \- 1990 Version](https://open.spotify.com/track/4FSNKKZnUCgYmiiBnBbVG7) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Ven Conmigo \- Selena 20 Years Of Music](https://open.spotify.com/album/0xjlVSiqnAxeQHGfk5i2PG) | 2:57 |
+| 47 | [Bidi Bidi Bom Bom](https://open.spotify.com/track/7brHejB8gAkS3nUNyvllWp) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [For You](https://open.spotify.com/album/78GeZ5IA1KSbI0MiR4bAhH) | 4:13 |
+| 48 | [Ámame, Quiéreme/ Siempre Estoy Pensando En Ti \- Live/Remastered 2026](https://open.spotify.com/track/2eFDqvIMXf26lunLf3xaiq) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Selena LIVE \(Remastered 2026\)](https://open.spotify.com/album/05yu3lskS9ViU0Lbq3PN4p) | 3:45 |
 | 49 | [Dulce Amor](https://open.spotify.com/track/20GXVF6YKr4AUP3B0m3g8v) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Mis Primeros Éxitos](https://open.spotify.com/album/1j1baA236Z6dGkrXKAIAYU) | 3:37 |
-| 50 | [Ámame, Quiéreme/ Siempre Estoy Pensando En Ti \- Live/Remastered 2026](https://open.spotify.com/track/2eFDqvIMXf26lunLf3xaiq) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Selena LIVE \(Remastered 2026\)](https://open.spotify.com/album/05yu3lskS9ViU0Lbq3PN4p) | 3:45 |
+| 50 | [Yo Me Voy](https://open.spotify.com/track/2zLGyCNHSXh289D7NJBXCF) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Ven Conmigo \- Selena 20 Years Of Music](https://open.spotify.com/album/0xjlVSiqnAxeQHGfk5i2PG) | 3:30 |
 
-Snapshot ID: `afKbgAAAAAAGRIz+dnzcHlXQDQEX/DEw`
+Snapshot ID: `afPtAAAAAACmh7gr7qRBkJm7fQFTGF6i`

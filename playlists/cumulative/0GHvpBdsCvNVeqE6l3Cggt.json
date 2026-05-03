@@ -257,6 +257,28 @@
     },
     {
       "album": {
+        "name": "Bored To Death (Savoir Adore Remix)",
+        "url": "https://open.spotify.com/album/4LNObDJjQyj4Bgu53zCcoK"
+      },
+      "artists": [
+        {
+          "name": "Kids In America",
+          "url": "https://open.spotify.com/artist/6ovlMe2HTmv1MmrZfsoBqY"
+        },
+        {
+          "name": "Savoir Adore",
+          "url": "https://open.spotify.com/artist/2weMnYqCmtNUrSLAJq5dD8"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157013,
+      "name": "Bored To Death - Savoir Adore Remix",
+      "url": "https://open.spotify.com/track/1dD0B0hUdVQQjvB9qwWrzt"
+    },
+    {
+      "album": {
         "name": "Dreams",
         "url": "https://open.spotify.com/album/7zJxan3akf2KbCg6snqX3L"
       },

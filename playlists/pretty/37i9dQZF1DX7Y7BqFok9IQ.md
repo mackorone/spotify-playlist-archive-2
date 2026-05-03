@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y7BqFok9IQ.md) - [plain]
 
 > The best of modern blues rock\. Cover: The Black Keys
 
-[Spotify](https://open.spotify.com/user/spotify) - 263,164 likes - 150 songs - 9 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 263,221 likes - 150 songs - 9 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y7BqFok9IQ.md) - [plain]
 | 84 | [Operator](https://open.spotify.com/track/2dfcd7W3wOh7lCXTLYwF1C) | [Cobi](https://open.spotify.com/artist/4fuZypKGg7klMEF10KTuAN) | [Operator](https://open.spotify.com/album/7EGjTs8NlKUo0VEUXU1lJU) | 4:18 |
 | 85 | [All I See Is You](https://open.spotify.com/track/6dNvCU9OcpWbDTR47d1ECP) | [Wight Lighters](https://open.spotify.com/artist/1MekQ13GRqKYQYrcJCx988) | [All I See Is You](https://open.spotify.com/album/5wl0osC3IOVFcFoFO02FMD) | 4:20 |
 | 86 | [Stone's Throw](https://open.spotify.com/track/3yryKlZnD9rlmE8Vm2AOV1) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Moment of Truth](https://open.spotify.com/album/66A4l8IEyuXxvDtaWp4NAI) | 3:20 |
-| 87 | [Corner Store](https://open.spotify.com/track/5IwNIDv4zcC3jCbVIOFYvU) | [Ries Brothers](https://open.spotify.com/artist/3n5TbZCCU3rnDcDy5n49nG) | [Corner Store](https://open.spotify.com/album/1CvLJhUtVluGc4ujgPbEQb) | 2:43 |
+| 87 | [Corner Store](https://open.spotify.com/track/5IwNIDv4zcC3jCbVIOFYvU) | [The Ries Brothers](https://open.spotify.com/artist/3n5TbZCCU3rnDcDy5n49nG) | [Corner Store](https://open.spotify.com/album/1CvLJhUtVluGc4ujgPbEQb) | 2:43 |
 | 88 | [Hippies On Acid](https://open.spotify.com/track/0WMUGMUTLVK6beba2ZkPu1) | [7Horse](https://open.spotify.com/artist/3P5NW1wQjcWpR0VsT1m0xr) | [Hippies On Acid](https://open.spotify.com/album/3rsV38yQiVfMuHbUnwK0Ms) | 3:45 |
 | 89 | [Gypsy Woman](https://open.spotify.com/track/0Xt2U98SY4qyd2ZTU8nOsE) | [Jonathan Tyler & The Northern Lights](https://open.spotify.com/artist/0ojbcl4680K7tn6aPicIaP) | [Hot Trottin'](https://open.spotify.com/album/1Nd6QhAWTbOlVQjKf3wYQY) | 4:15 |
 | 90 | [Heaven Help Me](https://open.spotify.com/track/0hqFW37pMx89xTCQ0lwho6) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40) | [Heaven Help Me](https://open.spotify.com/album/0xBgohteXtPrS9CSpOgowo) | 4:01 |

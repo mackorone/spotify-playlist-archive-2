@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > hyper\_sleaze.electro\-glitch.wiredheadphones.v2008.zip.\[FINAL\]\_\[REAL\]\_\_coverartist.Slayyyter
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,361,491 likes - 85 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,361,427 likes - 85 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 79 | [hypnotic](https://open.spotify.com/track/4jai4V2swDZweF6fl36jVV) | [Cannelle](https://open.spotify.com/artist/0wBhtCF5VHSgXPGm7xfDtg), [RADA](https://open.spotify.com/artist/4Mt29F9smgR7ghycaf5fI5) | [hypnotic](https://open.spotify.com/album/2DSQ0te0oy0njroeUylqyu) | 2:19 |
 | 80 | [I'm The One You Want](https://open.spotify.com/track/6YvgiwtIGxDgIRgp4n3FpB) | [Maara](https://open.spotify.com/artist/71tnaVVl10fbxBHN5Rcd4y) | [Ultra Villain](https://open.spotify.com/album/7vz5dW5cPZeyp9L27A76tf) | 2:49 |
 | 81 | [Juicy Juice \(feat\. Marie Davidson\)](https://open.spotify.com/track/1EAadJeM4oPkNIYMjG8zDH) | [deBasement](https://open.spotify.com/artist/76Hqz0xVLDA9UwwqKR1JVl), [Marie Davidson](https://open.spotify.com/artist/7xJVICbAWizNBKBD3mRWjF) | [deBasement](https://open.spotify.com/album/2HRRp7VG6cv6KAE1AlL981) | 3:00 |
-| 82 | [walk](https://open.spotify.com/track/511EH363IFZSB6t1DDIEDL) | [Ilykimchi](https://open.spotify.com/artist/6cCXgBhHKKuftmzJTL9Omb) | [walk](https://open.spotify.com/album/4DBSQHh7OhRTsEijCY2YTR) | 2:47 |
+| 82 | [walk](https://open.spotify.com/track/511EH363IFZSB6t1DDIEDL) | [ilykimchi](https://open.spotify.com/artist/6cCXgBhHKKuftmzJTL9Omb) | [walk](https://open.spotify.com/album/4DBSQHh7OhRTsEijCY2YTR) | 2:47 |
 | 83 | [prototype](https://open.spotify.com/track/7qgqbZW6SeqV1iEYTRP4nS) | [pnkdrco](https://open.spotify.com/artist/54ui5N3fVlyC2imsAakAhI) | [prototype](https://open.spotify.com/album/0xRNPryFtPD67496idfDsO) | 1:39 |
 | 84 | [Do It \(Yves Remix\)](https://open.spotify.com/track/27v8QdBidbC5idqWHqPBBj) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7), [Yves](https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce) | [Do It \(Yves Remix\)](https://open.spotify.com/album/0GuK2xpYuOvNbFqhRuSRa3) | 3:17 |
 | 85 | [Wish it \(bite it\)](https://open.spotify.com/track/3p3OnuAP0OMcWR6DuRX1Lw) | [Touching Ice](https://open.spotify.com/artist/0tlUMIekHSOfWiGg3PeeD4) | [I Just Remembered Everything Always Works Out for Me](https://open.spotify.com/album/6NANhYuZZfiJvR3dymAym3) | 2:25 |

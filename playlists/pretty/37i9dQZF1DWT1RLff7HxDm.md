@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1RLff7HxDm.md) - [plain]
 
 > All live, all blues\. Cover: Samantha Fish
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,162 likes - 100 songs - 10 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,202 likes - 100 songs - 10 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Once \(Live\)](https://open.spotify.com/track/6TRVGLQPkKtDr1JxKkEBXC) | [Philip Sayce](https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h) | [Scorched Earth, Vol\. 2 \(Live from La and London\)](https://open.spotify.com/album/6BahOagyF2uJF4cMqh5QmS) | 3:35 |
+| 1 | [Once \(Live\)](https://open.spotify.com/track/6TRVGLQPkKtDr1JxKkEBXC) | [Philip Sayce](https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h) | [Scorched Earth, Vol\. 2 \(Live from LA and London\)](https://open.spotify.com/album/6BahOagyF2uJF4cMqh5QmS) | 3:35 |
 | 2 | [Banks Of The Deep End \(Live\)](https://open.spotify.com/track/60AlTSkdnDtaXIUTBQp2oZ) | [Warren Haynes](https://open.spotify.com/artist/73iWh9WUMf0xK6cRkNJK4h) | [Banks Of The Deep End \(Live\)](https://open.spotify.com/album/2EgICrAtYiJ2yGAP3N9HDm) | 6:41 |
 | 3 | [Tattoo'd Lady \(Live\)](https://open.spotify.com/track/2F2MZqad3d1iWGqKh38HMu) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Tattoo'd Lady \(Live\)](https://open.spotify.com/album/3N8Z7hdXgunJUDNP0Nr5Yg) | 6:20 |
 | 4 | [Sweet Southern Sounds \- Live](https://open.spotify.com/track/2qAs9NIdn0SmIvJyHDXj1v) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [Sweet Southern Sounds \(Live\)](https://open.spotify.com/album/1iEo32X1EBmQRwIRdVwL4G) | 5:06 |

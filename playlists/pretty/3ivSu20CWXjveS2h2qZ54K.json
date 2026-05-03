@@ -1,12 +1,12 @@
 {
   "description": "Las mejores novedades de cada viernes, seleccionadas por la redacci\u00f3n de JENESAISPOP",
-  "num_followers": 6884,
+  "num_followers": 6885,
   "original_name": "Ready for the Weekend (JNSP)",
   "owner": {
     "name": "Jenesaispop",
     "url": "https://open.spotify.com/user/jenesaispop"
   },
-  "snapshot_id": "AADclfGUFJadfDDKZ46NGCd3lxYLC/jN",
+  "snapshot_id": "AADcpc2b45MA6/aH1fH6Q8n/mg4Br6e/",
   "tracks": [
     {
       "added_at": "2026-04-30 22:05:07",
@@ -49,7 +49,7 @@
       "url": "https://open.spotify.com/track/6Qyvf0qxn2TDOxHLdsfhUw"
     },
     {
-      "added_at": "2026-04-30 21:32:13",
+      "added_at": "2026-05-02 10:39:43",
       "album": {
         "name": "Middle of Nowhere",
         "url": "https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg"
@@ -69,7 +69,23 @@
       "url": "https://open.spotify.com/track/44tr6kkaMRgd2UVG44wqv7"
     },
     {
-      "added_at": "2026-04-30 21:32:13",
+      "added_at": "2026-05-02 10:41:33",
+      "album": {
+        "name": "BITCH",
+        "url": "https://open.spotify.com/album/6QIxClpRlI72nsM3TwfGUR"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 162379,
+      "name": "BITCH",
+      "url": "https://open.spotify.com/track/53OEjS6e0dH9PGgrkr0sH4"
+    },
+    {
+      "added_at": "2026-05-02 10:40:22",
       "album": {
         "name": "The Devil Wears Prada 2 (Music From The Motion Picture)",
         "url": "https://open.spotify.com/album/5FKnRUB5lt7z5ac1lmu3BE"
@@ -101,6 +117,38 @@
       "url": "https://open.spotify.com/track/3DFp8aDFLHhw5ybu4EZ6rE"
     },
     {
+      "added_at": "2026-04-30 22:36:17",
+      "album": {
+        "name": "Yo quiero un affaire",
+        "url": "https://open.spotify.com/album/4xZJ0Ak8kZS4XdDVJOxkmj"
+      },
+      "artists": [
+        {
+          "name": "Jimena Amarillo",
+          "url": "https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm"
+        }
+      ],
+      "duration_ms": 184970,
+      "name": "Yo quiero un affaire",
+      "url": "https://open.spotify.com/track/3z9X4FONGlgEjttQHW2gLV"
+    },
+    {
+      "added_at": "2026-04-30 22:36:19",
+      "album": {
+        "name": "Si lo callo muero",
+        "url": "https://open.spotify.com/album/6TzszeuDZHMyg9GBGX9Vvh"
+      },
+      "artists": [
+        {
+          "name": "La Plazuela",
+          "url": "https://open.spotify.com/artist/3iNrNJ38T7OEaI1UofQcIB"
+        }
+      ],
+      "duration_ms": 184500,
+      "name": "Si lo callo muero",
+      "url": "https://open.spotify.com/track/2vQTSPelGFnyQN8OiURRxr"
+    },
+    {
       "added_at": "2026-04-30 21:32:13",
       "album": {
         "name": "Upside Down",
@@ -119,6 +167,38 @@
     {
       "added_at": "2026-04-30 21:32:13",
       "album": {
+        "name": "24/7",
+        "url": "https://open.spotify.com/album/38k8b1MCCGb1zv7dFnlbOY"
+      },
+      "artists": [
+        {
+          "name": "Drax Project",
+          "url": "https://open.spotify.com/artist/6S0IvKlvPMX1RtAYtVpUV8"
+        }
+      ],
+      "duration_ms": 198109,
+      "name": "24/7",
+      "url": "https://open.spotify.com/track/4SQIvGBo1nkD5P1M3eb3Np"
+    },
+    {
+      "added_at": "2026-04-30 22:36:24",
+      "album": {
+        "name": "El Acabose/Ah! Ah! Ah!",
+        "url": "https://open.spotify.com/album/5NGL9X3A5pkuTqezrMoatB"
+      },
+      "artists": [
+        {
+          "name": "TRIST\u00c1N!",
+          "url": "https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0"
+        }
+      ],
+      "duration_ms": 109977,
+      "name": "Ah! Ah! Ah!",
+      "url": "https://open.spotify.com/track/0mwnRupwX7ep5ODNbi7feR"
+    },
+    {
+      "added_at": "2026-05-02 10:40:40",
+      "album": {
         "name": "Midnight Sun: Girls Trip",
         "url": "https://open.spotify.com/album/4WMcRlbt7NvpKrrqO8ykQf"
       },
@@ -135,22 +215,6 @@
       "duration_ms": 170346,
       "name": "Eurosummer - Girls Trip",
       "url": "https://open.spotify.com/track/53fyIvbeN7rfLK1GIZNLDL"
-    },
-    {
-      "added_at": "2026-04-30 21:32:13",
-      "album": {
-        "name": "24/7",
-        "url": "https://open.spotify.com/album/38k8b1MCCGb1zv7dFnlbOY"
-      },
-      "artists": [
-        {
-          "name": "Drax Project",
-          "url": "https://open.spotify.com/artist/6S0IvKlvPMX1RtAYtVpUV8"
-        }
-      ],
-      "duration_ms": 198109,
-      "name": "24/7",
-      "url": "https://open.spotify.com/track/4SQIvGBo1nkD5P1M3eb3Np"
     },
     {
       "added_at": "2026-04-30 21:32:13",
@@ -219,38 +283,6 @@
     {
       "added_at": "2026-04-30 21:32:13",
       "album": {
-        "name": "BITCH",
-        "url": "https://open.spotify.com/album/6QIxClpRlI72nsM3TwfGUR"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 162379,
-      "name": "BITCH",
-      "url": "https://open.spotify.com/track/53OEjS6e0dH9PGgrkr0sH4"
-    },
-    {
-      "added_at": "2026-04-30 21:32:13",
-      "album": {
-        "name": "Heroine",
-        "url": "https://open.spotify.com/album/4xT3ryrqfutVzV1cJN79Ww"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        }
-      ],
-      "duration_ms": 155192,
-      "name": "Heroine",
-      "url": "https://open.spotify.com/track/04OCeDuqT4ympbgDZ8dcfT"
-    },
-    {
-      "added_at": "2026-04-30 21:32:13",
-      "album": {
         "name": "i'm not joking",
         "url": "https://open.spotify.com/album/6kn0sKYNf2rnfk0Gr9lxUP"
       },
@@ -279,6 +311,22 @@
       "duration_ms": 153045,
       "name": "Boys In Blue",
       "url": "https://open.spotify.com/track/0R3sddzRt8fbbY9GKmv1lw"
+    },
+    {
+      "added_at": "2026-05-02 10:41:53",
+      "album": {
+        "name": "Heroine",
+        "url": "https://open.spotify.com/album/4xT3ryrqfutVzV1cJN79Ww"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "duration_ms": 155192,
+      "name": "Heroine",
+      "url": "https://open.spotify.com/track/04OCeDuqT4ympbgDZ8dcfT"
     },
     {
       "added_at": "2026-04-30 21:32:13",
@@ -801,38 +849,6 @@
       "url": "https://open.spotify.com/track/3Cd2ZwQy5fmrayFSMN7u8Q"
     },
     {
-      "added_at": "2026-04-30 22:36:17",
-      "album": {
-        "name": "Yo quiero un affaire",
-        "url": "https://open.spotify.com/album/4xZJ0Ak8kZS4XdDVJOxkmj"
-      },
-      "artists": [
-        {
-          "name": "Jimena Amarillo",
-          "url": "https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm"
-        }
-      ],
-      "duration_ms": 184970,
-      "name": "Yo quiero un affaire",
-      "url": "https://open.spotify.com/track/3z9X4FONGlgEjttQHW2gLV"
-    },
-    {
-      "added_at": "2026-04-30 22:36:19",
-      "album": {
-        "name": "Si lo callo muero",
-        "url": "https://open.spotify.com/album/6TzszeuDZHMyg9GBGX9Vvh"
-      },
-      "artists": [
-        {
-          "name": "La Plazuela",
-          "url": "https://open.spotify.com/artist/3iNrNJ38T7OEaI1UofQcIB"
-        }
-      ],
-      "duration_ms": 184500,
-      "name": "Si lo callo muero",
-      "url": "https://open.spotify.com/track/2vQTSPelGFnyQN8OiURRxr"
-    },
-    {
       "added_at": "2026-04-30 22:36:22",
       "album": {
         "name": "Tiene Que Ser \u00c9l",
@@ -847,22 +863,6 @@
       "duration_ms": 160639,
       "name": "Tiene Que Ser \u00c9l",
       "url": "https://open.spotify.com/track/2Mu8zezIpcDOGKWZx84yqi"
-    },
-    {
-      "added_at": "2026-04-30 22:36:24",
-      "album": {
-        "name": "El Acabose/Ah! Ah! Ah!",
-        "url": "https://open.spotify.com/album/5NGL9X3A5pkuTqezrMoatB"
-      },
-      "artists": [
-        {
-          "name": "TRIST\u00c1N!",
-          "url": "https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0"
-        }
-      ],
-      "duration_ms": 109977,
-      "name": "Ah! Ah! Ah!",
-      "url": "https://open.spotify.com/track/0mwnRupwX7ep5ODNbi7feR"
     },
     {
       "added_at": "2026-04-30 22:36:27",
@@ -935,6 +935,26 @@
       "duration_ms": 217799,
       "name": "Es Una Ansiedad Tan Cool",
       "url": "https://open.spotify.com/track/1xK7iqWqzc6wLQOYzTJE1J"
+    },
+    {
+      "added_at": "2026-05-02 10:44:57",
+      "album": {
+        "name": "\u00bfPor Qu\u00e9 No A Mi?",
+        "url": "https://open.spotify.com/album/5osC6MVcN05LlbrNi5FO3Y"
+      },
+      "artists": [
+        {
+          "name": "Diara",
+          "url": "https://open.spotify.com/artist/0fppkzuQV4SQqCciw1ofXx"
+        },
+        {
+          "name": "iseekarlo",
+          "url": "https://open.spotify.com/artist/3j4R4YNDy0bqJ2io0ieObP"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "\u00bfPor Qu\u00e9 No A Mi?",
+      "url": "https://open.spotify.com/track/7lQZcYKsThlAIvWuCIf3HL"
     }
   ],
   "unique_name": "Ready for the Weekend (JNSP)",

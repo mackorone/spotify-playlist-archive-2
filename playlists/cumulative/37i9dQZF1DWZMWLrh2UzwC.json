@@ -175535,20 +175535,24 @@
     },
     {
       "album": {
-        "name": "Kau Bersama Dia",
+        "name": "Kau Bersama Dia (ft. Dina Rijeu)",
         "url": "https://open.spotify.com/album/28ZsKBXdMQfCmYKP9nYYFi"
       },
       "artists": [
         {
           "name": "Klangit",
           "url": "https://open.spotify.com/artist/7uK1C4KhZhzpUW2tnpMDJP"
+        },
+        {
+          "name": "Dina Rijeu",
+          "url": "https://open.spotify.com/artist/3WajwXB5Sr2kdsaGuV3n5U"
         }
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 268500,
-      "name": "Kau Bersama Dia",
+      "name": "Kau Bersama Dia (ft. Dina Rijeu)",
       "url": "https://open.spotify.com/track/2nPD7SBNpb45S75MNpikqh"
     },
     {
@@ -231654,7 +231658,7 @@
       },
       "artists": [
         {
-          "name": "LEE CHAE YEON",
+          "name": "LEE CHAEYEON",
           "url": "https://open.spotify.com/artist/2nkZR6LwPxaAVtaVitNIPT"
         }
       ],

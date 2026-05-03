@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of pop\. Cover: Jack Gray
 
-2,707 songs - 5 day 20 hr 0 min
+2,708 songs - 5 day 20 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -303,6 +303,7 @@
 | [Boy](https://open.spotify.com/track/3eFUpyUIWFMSQ3RvUpxZXu) | [Rol3ert](https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E) | [Boy](https://open.spotify.com/album/78wMwOnARAhRxBv7Q37XOl) | 3:06 | 2026-04-23 |  |
 | [BOY CRAZY.](https://open.spotify.com/track/5CiPDLxXmUG7Fk5yjlNy9n) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [BOY CRAZY.](https://open.spotify.com/album/5vbKk8Ki7HxcDUCYh5EUZc) | 2:28 | 2025-05-15 | 2025-06-20 |
 | [Boy In Love](https://open.spotify.com/track/19TlagHWD2YdNCOoZc1Fjp) | [Elliot James Reay](https://open.spotify.com/artist/2PI9HrzzMTN7E5poWl4QX5) | [Boy In Love](https://open.spotify.com/album/4SoPcHKJ7s4XnNZtLbpJ9Y) | 2:37 | 2024-11-21 | 2025-02-14 |
+| [BOY IN RED](https://open.spotify.com/track/7B2ygRXyWZulEpO4G1CHZf) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [IT'S BEEN AWFUL](https://open.spotify.com/album/2ZDgH9uDdjRFNdjEyQCZtH) | 3:09 | 2026-05-02 |  |
 | [Boyband](https://open.spotify.com/track/5wPwqVdBFCVGcQKyFXZgcA) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Boyband](https://open.spotify.com/album/5BTKTmmNjQ2cQRhVhrOEFl) | 2:57 | 2025-10-23 | 2025-11-14 |
 | [BOYS](https://open.spotify.com/track/1U0UUDLyBN8ENq3gjNJq6S) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [BOYS](https://open.spotify.com/album/3ar9EPv1ddMgvDnOCONH15) | 2:25 | 2024-05-16 | 2024-07-05 |
 | [Boys](https://open.spotify.com/track/0LiZn4knA2ebtAQt6ganjF) | [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs) | [Boys](https://open.spotify.com/album/2KEZGLqtsIBhnowSjamL47) | 2:33 | 2024-11-21 | 2025-01-10 |

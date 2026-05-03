@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxwXKCsImRe.md) - [plain]
 
 > De toekomst van de Benelux volgens onze muziekredactie\. Nieuw: <a href="spotify:artist:7a5xPqxWpIHk4tcdv7bDc6">MICHA</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,975 likes - 27 songs - 1 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,979 likes - 27 songs - 1 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

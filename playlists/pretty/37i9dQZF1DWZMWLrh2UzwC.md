@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from Noh Salleh, Lady Gaga, Ajai, Nadeera, Aziz Harun, ILLIT, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,373 likes - 115 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,365 likes - 115 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 45 | [Promise?](https://open.spotify.com/track/6Or4gNQC2EkixDGiufQ3F4) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [Promise?](https://open.spotify.com/album/4C0Jn8EWIX77dDQum3oNJO) | 3:12 |
 | 46 | [Ribcage](https://open.spotify.com/track/7d89dqmZGIqYmybxPEYywJ) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [Ribcage](https://open.spotify.com/album/50FnWAYiSqpqwXkE7aQEDt) | 3:00 |
 | 47 | [YOUR GIRL](https://open.spotify.com/track/4Y7AWXfTjodzFVqkiRFtJY) | [Echo Huang](https://open.spotify.com/artist/3nCCEiChcmfz65ccX2BzdE) | [YOUR GIRL](https://open.spotify.com/album/42qGowoDQHeJeQAo4diZX7) | 2:24 |
-| 48 | [Kau Bersama Dia](https://open.spotify.com/track/2nPD7SBNpb45S75MNpikqh) | [Klangit](https://open.spotify.com/artist/7uK1C4KhZhzpUW2tnpMDJP) | [Kau Bersama Dia](https://open.spotify.com/album/28ZsKBXdMQfCmYKP9nYYFi) | 4:28 |
+| 48 | [Kau Bersama Dia \(ft\. Dina Rijeu\)](https://open.spotify.com/track/2nPD7SBNpb45S75MNpikqh) | [Klangit](https://open.spotify.com/artist/7uK1C4KhZhzpUW2tnpMDJP), [Dina Rijeu](https://open.spotify.com/artist/3WajwXB5Sr2kdsaGuV3n5U) | [Kau Bersama Dia \(ft\. Dina Rijeu\)](https://open.spotify.com/album/28ZsKBXdMQfCmYKP9nYYFi) | 4:28 |
 | 49 | [Belajar Romantis](https://open.spotify.com/track/5I5wpBP9jsw5HIanGeNZVw) | [Asmara](https://open.spotify.com/artist/0rF5ZMZAMlT7vzwsxl4ByV) | [Belajar Romantis](https://open.spotify.com/album/7uIQIacjA2ATAnssDRb2pA) | 4:07 |
 | 50 | [Mabok](https://open.spotify.com/track/7vgHf0kVvXZIvgq0IjlNHA) | [Santesh](https://open.spotify.com/artist/7DWSfLX0stZ7Fm4JssbiN6) | [Mabok](https://open.spotify.com/album/1arPJ6cZtcuNOcnNgdeSPW) | 3:13 |
 | 51 | [Psilo Vibin](https://open.spotify.com/track/2ALVcPPNaLzXcF4mbTp0Qs) | [Paal Dabba](https://open.spotify.com/artist/0cQJg3qKYiogK9Qj1H0Qpx), [foxn](https://open.spotify.com/artist/2dbBX8wPRhL660FxN7MIDv) | [Psilo Vibin](https://open.spotify.com/album/6pHShQTxGMqXkKEO1WCSCT) | 2:23 |
@@ -111,7 +111,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 101 | [BURN THE WITCH](https://open.spotify.com/track/15kyuCM5xLyafRa1CIA23M) | [PEGGY](https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh) | [BURN THE WITCH](https://open.spotify.com/album/6MdRPMohBeAld2aO2GmFpb) | 2:15 |
 | 102 | [keep your head up kid](https://open.spotify.com/track/45WBtl8nSjheQbjxPEqWq7) | [WRABEL](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [keep your head up kid](https://open.spotify.com/album/3AgxZBsMx8ikkIv4c1nDH5) | 4:25 |
 | 103 | [CEREMONY](https://open.spotify.com/track/7CoEOvI85tbkhdgJRd8XfC) | [QWER](https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy) | [4th Mini Album 'CEREMONY'](https://open.spotify.com/album/22TsuaiFzj7i9cIKFwKdyI) | 3:16 |
-| 104 | [No Tears On The Dancefloor](https://open.spotify.com/track/1LN9XD8fstMDvgI8RM4lpx) | [LEE CHAE YEON](https://open.spotify.com/artist/2nkZR6LwPxaAVtaVitNIPT) | [Till I Die](https://open.spotify.com/album/1NME7mvfv1WMEGJGcSF9bs) | 2:30 |
+| 104 | [No Tears On The Dancefloor](https://open.spotify.com/track/1LN9XD8fstMDvgI8RM4lpx) | [LEE CHAEYEON](https://open.spotify.com/artist/2nkZR6LwPxaAVtaVitNIPT) | [Till I Die](https://open.spotify.com/album/1NME7mvfv1WMEGJGcSF9bs) | 2:30 |
 | 105 | [Sign](https://open.spotify.com/track/29WdT0CvbaVoN5pbke3hXX) | [82MAJOR](https://open.spotify.com/artist/1wDstpO8XQNU6GV0S92663) | [FEELM](https://open.spotify.com/album/0U8OEGNR5aYwlY3TLXGVYS) | 2:49 |
 | 106 | [AWAKE](https://open.spotify.com/track/5GFthY4y9WiwEG68wNdGn1) | [CRAVITY](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) | [ReDeFINE](https://open.spotify.com/album/78OxOrAiiseIh63k1LmUWX) | 2:36 |
 | 107 | [Love You More](https://open.spotify.com/track/2JT8Ey1EajEe1VNgBzl9Ut) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo) | [Love You More](https://open.spotify.com/album/1EBqFLhJnUal2RgyWmA5rf) | 2:48 |

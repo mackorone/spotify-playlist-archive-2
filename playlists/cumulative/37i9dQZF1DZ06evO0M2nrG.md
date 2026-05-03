@@ -4,7 +4,7 @@
 
 > This is Mike Bahía\. The essential tracks, all in one playlist.
 
-112 songs - 5 hr 43 min
+113 songs - 5 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [El Lugar Más Feliz Del Mundo](https://open.spotify.com/track/2mMB3bgO0f3gDRyM1PbwPS) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [El Lugar Más Feliz Del Mundo](https://open.spotify.com/album/4rET9WXD1nROQJvW4u2alP) | 3:13 | 2025-08-24 |  |
 | [El Que Ama Sufre](https://open.spotify.com/track/0FLKPJQtOzb0Xw1qKWXuzm) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Contigo](https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2) | 2:49 | 2023-04-29 |  |
 | [Ella Es Pa MI](https://open.spotify.com/track/4jGNTiWNeLrvb9jadmBhNu) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Pj Sin Suela](https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df), [Sebas Barcenas](https://open.spotify.com/artist/5RqAWnmZhPvkC2zZgpfczk) | [Ella Es Pa MI](https://open.spotify.com/album/2Stw5cW8fi6fvu4f8BBYTV) | 3:02 | 2025-06-29 |  |
+| [Encubiertos](https://open.spotify.com/track/3AShwV9UQ0K0xXB83zAwZi) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8) | [Encubiertos](https://open.spotify.com/album/4Ykjfr35jOU2EQnFwYz9ui) | 2:35 | 2026-05-03 |  |
 | [Enfocado](https://open.spotify.com/track/0FvENwVY1jcqwyVjM367Mo) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Contigo](https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2) | 2:36 | 2023-04-29 | 2024-05-21 |
 | [Esta Noche](https://open.spotify.com/track/4vhkI8x68EaGQR3Kn7Pwhc) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Navegando](https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0) | 2:48 | 2023-03-19 |  |
 | [Estar Contigo](https://open.spotify.com/track/07ij59WCKQFlWRV8ACFJEp) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Estar Contigo](https://open.spotify.com/album/0INkvjucGFvMmbYrNU3qGu) | 3:48 | 2023-03-19 |  |
@@ -107,7 +108,7 @@
 | [Sufrimos De Lo Mismo](https://open.spotify.com/track/4MfgiylBOsMHirFwqSJssN) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Navegando](https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0) | 2:41 | 2023-03-19 |  |
 | [Tarde](https://open.spotify.com/track/5pPON7oaHdEVHiUIRn6WjC) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Tarde](https://open.spotify.com/album/5tkNolbHmwahGRepiHrold) | 3:31 | 2023-03-19 | 2024-11-11 |
 | [Te Besaré \(feat\. Andy Rivera\) \- Salsa Remix](https://open.spotify.com/track/54jGbYt3RqLauOs3L25J8f) | [MOLY](https://open.spotify.com/artist/0fAxJ75WJT3STJb3xWtpbc), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2) | [Te Besaré \(Salsa Remix\) \[feat\. Andy Rivera\]](https://open.spotify.com/album/1SXryDEtEfJXfTJGtSBTO9) | 3:46 | 2023-03-19 | 2023-06-08 |
-| [Te Besaré \- Salsa Remix](https://open.spotify.com/track/0aJ0mqQoHrKUHoI9AeMbcU) | [Jonathan Moly](https://open.spotify.com/artist/0fAxJ75WJT3STJb3xWtpbc), [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [13](https://open.spotify.com/album/3wFIQ5xMqZSg4pAWVw1rkP) | 3:46 | 2023-06-07 |  |
+| [Te Besaré \- Salsa Remix](https://open.spotify.com/track/0aJ0mqQoHrKUHoI9AeMbcU) | [Jonathan Moly](https://open.spotify.com/artist/0fAxJ75WJT3STJb3xWtpbc), [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [13](https://open.spotify.com/album/3wFIQ5xMqZSg4pAWVw1rkP) | 3:46 | 2023-06-07 | 2026-05-03 |
 | [Tu Emisora Favorita del Amor](https://open.spotify.com/track/5JreH1jFv2wC5zcAIJ31UD) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [CALIDOSA](https://open.spotify.com/album/6rXXLz6D0OWyxTgTeow2ay) | 1:21 | 2024-11-15 | 2024-11-27 |
 | [Tu Enemiga](https://open.spotify.com/track/3NxJKoYi9WMBuZdk4UdJuK) | [Karen Méndez](https://open.spotify.com/artist/0txXDZCdXBzha20sgN1GRk), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Tu Enemiga](https://open.spotify.com/album/0uAiQ6Ul6cmEZp0py1AQpD) | 3:26 | 2023-03-19 |  |
 | [Tu No Eres un Angel](https://open.spotify.com/track/2bPbSsqc0Jgm0mmF8S2kkb) | [Grupo 5](https://open.spotify.com/artist/0l8RtvcBMjeOqfgRSVo2d6), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Tu No Eres un Angel](https://open.spotify.com/album/4SNtuGwBKqIEI60cHOt37H) | 3:11 | 2024-05-07 |  |

@@ -6,7 +6,7 @@
     "name": "\ud835\udcc1\ud835\udcbe\ud835\udcb6\u00b9\u00b2",
     "url": "https://open.spotify.com/user/312yejiy4j6if5jxguepsue756fu"
   },
-  "snapshot_id": "AAAJPcC5Ikh2nf+ecBJrOgR8YsWnPsAY",
+  "snapshot_id": "AAAJP3phAFvk6xW2DE9GZ4E04SwQc6AN",
   "tracks": [
     {
       "added_at": "2026-05-01 09:44:50",
@@ -23535,6 +23535,42 @@
       "duration_ms": 244226,
       "name": "Dancing Queen - From 'Mamma Mia!' Original Motion Picture Soundtrack",
       "url": "https://open.spotify.com/track/33trZRsRCHDPemnACBcLJJ"
+    },
+    {
+      "added_at": "2026-05-02 09:30:04",
+      "album": {
+        "name": "Vaitimbora",
+        "url": "https://open.spotify.com/album/0cIKxynxh628Q7qOyamXLe"
+      },
+      "artists": [
+        {
+          "name": "Mari Froes",
+          "url": "https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S"
+        },
+        {
+          "name": "Trinix",
+          "url": "https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan"
+        }
+      ],
+      "duration_ms": 135131,
+      "name": "Vaitimbora",
+      "url": "https://open.spotify.com/track/0QAUgW2vTmlUWhbiNeSkWm"
+    },
+    {
+      "added_at": "2026-05-02 09:32:48",
+      "album": {
+        "name": "Jazz (2011 Remaster)",
+        "url": "https://open.spotify.com/album/2yuTRGIackbcReLUXOYBqU"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 209413,
+      "name": "Don't Stop Me Now - Remastered 2011",
+      "url": "https://open.spotify.com/track/5T8EDUDqKcs6OSOwEsfqG7"
     }
   ],
   "unique_name": "\ud806\udcf2\ud835\udcf3",

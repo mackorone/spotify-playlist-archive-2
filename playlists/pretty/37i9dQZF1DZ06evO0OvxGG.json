@@ -1,12 +1,12 @@
 {
   "description": "This is Slipmami. The essential tracks, all in one playlist.",
-  "num_followers": 9277,
+  "num_followers": 9280,
   "original_name": "This Is Slipmami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afKbgAAAAAAQcSouFwJ0npUUq5c/v+iv",
+  "snapshot_id": "afPtAAAAAABrxWgEeZALhiSBtM+2QStS",
   "tracks": [
     {
       "added_at": null,
@@ -863,42 +863,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mina Quente",
-        "url": "https://open.spotify.com/album/3mZPi8KKKgXTikzueaK10i"
+        "name": "TODO MUNDO SABE",
+        "url": "https://open.spotify.com/album/1gvwcjVtaCb7r0HHRh6xcA"
       },
       "artists": [
         {
-          "name": "Btrem",
-          "url": "https://open.spotify.com/artist/5XJ6pt7QwPKJ5X9kFvEagw"
-        },
-        {
-          "name": "Rock Danger",
-          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
-        },
-        {
-          "name": "Maru2D",
-          "url": "https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36"
+          "name": "Sayle",
+          "url": "https://open.spotify.com/artist/415XkxlrNLB1aqKaakdN1C"
         },
         {
           "name": "Slipmami",
           "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        },
-        {
-          "name": "taldiBruna",
-          "url": "https://open.spotify.com/artist/3snpFKva3dzwybLBYseLP8"
-        },
-        {
-          "name": "Beat do \u00c1vila",
-          "url": "https://open.spotify.com/artist/2zuL7Yq6XmN6LbH4gDrgfP"
-        },
-        {
-          "name": "Mahai",
-          "url": "https://open.spotify.com/artist/2wRHyStBiMxi4bYc8nHdPy"
         }
       ],
-      "duration_ms": 233357,
-      "name": "Set Btrem - As Minas do Rio",
-      "url": "https://open.spotify.com/track/1FLx838ihRkUoYGncP31fz"
+      "duration_ms": 140798,
+      "name": "TODO MUNDO SABE",
+      "url": "https://open.spotify.com/track/1Xs3BC1GoDf1H1IKMdiPXD"
     },
     {
       "added_at": null,
@@ -955,22 +935,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "TODO MUNDO SABE",
-        "url": "https://open.spotify.com/album/1gvwcjVtaCb7r0HHRh6xcA"
+        "name": "Mina Quente",
+        "url": "https://open.spotify.com/album/3mZPi8KKKgXTikzueaK10i"
       },
       "artists": [
         {
-          "name": "Sayle",
-          "url": "https://open.spotify.com/artist/415XkxlrNLB1aqKaakdN1C"
+          "name": "Btrem",
+          "url": "https://open.spotify.com/artist/5XJ6pt7QwPKJ5X9kFvEagw"
+        },
+        {
+          "name": "Rock Danger",
+          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
+        },
+        {
+          "name": "Maru2D",
+          "url": "https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36"
         },
         {
           "name": "Slipmami",
           "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        },
+        {
+          "name": "taldiBruna",
+          "url": "https://open.spotify.com/artist/3snpFKva3dzwybLBYseLP8"
+        },
+        {
+          "name": "Beat do \u00c1vila",
+          "url": "https://open.spotify.com/artist/2zuL7Yq6XmN6LbH4gDrgfP"
+        },
+        {
+          "name": "Mahai",
+          "url": "https://open.spotify.com/artist/2wRHyStBiMxi4bYc8nHdPy"
         }
       ],
-      "duration_ms": 140798,
-      "name": "TODO MUNDO SABE",
-      "url": "https://open.spotify.com/track/1Xs3BC1GoDf1H1IKMdiPXD"
+      "duration_ms": 233357,
+      "name": "Set Btrem - As Minas do Rio",
+      "url": "https://open.spotify.com/track/1FLx838ihRkUoYGncP31fz"
     },
     {
       "added_at": null,

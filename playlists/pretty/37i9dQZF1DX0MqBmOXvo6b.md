@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MqBmOXvo6b.md) - [plain]
 
 > Concéntrate al máximo, sin distracciones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 435,080 likes - 157 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 435,089 likes - 157 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -166,4 +166,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MqBmOXvo6b.md) - [plain]
 | 156 | [Minor Fable](https://open.spotify.com/track/6IJ5eCQNpXifW7OqRK9pQc) | [Luis Berra](https://open.spotify.com/artist/7JfQ6KThQOrDXIBDJgSFLk) | [Minor Fable](https://open.spotify.com/album/4yq1sWpFO7LgofgmmPEEVC) | 2:01 |
 | 157 | [Bonjour](https://open.spotify.com/track/3Ww0Guhe9loz9l2L1kZGWb) | [Oscar Mallen](https://open.spotify.com/artist/0rpHfK2QFCVaoXwooHki3o) | [Bonjour](https://open.spotify.com/album/4pKg8wGdu05SMyu7FpvNjD) | 2:39 |
 
-Snapshot ID: `AAAAAHVNUdV4tv0GfEPzglVy2vFv2FBi`
+Snapshot ID: `AAAAAOpxrot2vkM9w7JxRkZuMEIDf6UG`

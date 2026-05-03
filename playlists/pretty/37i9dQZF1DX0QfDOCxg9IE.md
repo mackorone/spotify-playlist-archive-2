@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QfDOCxg9IE.md) - [plain]
 
 > Άκου τα πιο χοτ trends στην Ελλάδα αυτή τη στιγμή!
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,505 likes - 60 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,539 likes - 60 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QfDOCxg9IE.md) - [plain]
 | 24 | [Take Me There](https://open.spotify.com/track/05zHAkeiaKLn4Vs8bPgrqv) | [DA TI](https://open.spotify.com/artist/0E1Yd4BPHXB4DfTaYb9Y5i) | [Take Me There](https://open.spotify.com/album/1tuNBnbHUdE8rlooVI4sVR) | 3:22 |
 | 25 | [Kaigomai](https://open.spotify.com/track/5xYRYWS2y2NCxs12ZVEvNv) | [APON](https://open.spotify.com/artist/2bucjueNUx2aVTUA7zj6w7) | [Oneiropolos](https://open.spotify.com/album/4aWRnOdlk1K83Bf4uDf2u2) | 2:04 |
 | 26 | [Ma Tnsani \(Yalla Habibi\)](https://open.spotify.com/track/01WFjqzUwrD4nfSQsHMVNm) | [Vanco](https://open.spotify.com/artist/2KShewLkb92FKEZ6N4cVP9), [AYA](https://open.spotify.com/artist/0HWD0Gp5nnU5zcDAc03f9q) | [Ma Tnsani \(Yalla Habibi\)](https://open.spotify.com/album/6MGyF6TkUOAW3g3ygaUn1n) | 3:40 |
-| 27 | [Hey Shawty](https://open.spotify.com/track/2wqdEi1mkHWBgkkFWcZuFe) | [Moose](https://open.spotify.com/artist/3LcKlNE5nPPFpDtmc2wtdC), [Saske](https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p), [Display](https://open.spotify.com/artist/2h5alBjyxfubD2ci4vSc28) | [Hey Shawty](https://open.spotify.com/album/183mB58gA6j6qUdoFBOHcC) | 2:45 |
+| 27 | [Hey Shawty](https://open.spotify.com/track/2wqdEi1mkHWBgkkFWcZuFe) | [Moose](https://open.spotify.com/artist/3LcKlNE5nPPFpDtmc2wtdC), [Saske](https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p), [DISPLAY](https://open.spotify.com/artist/2h5alBjyxfubD2ci4vSc28) | [Hey Shawty](https://open.spotify.com/album/183mB58gA6j6qUdoFBOHcC) | 2:45 |
 | 28 | [Wait For You](https://open.spotify.com/track/17Pg7WwDCaK5FlFshdcKD7) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5) | [Wait For You](https://open.spotify.com/album/5FJQ5Pwf2shqBVHqlcdh9K) | 2:49 |
 | 29 | [Morning Coffee](https://open.spotify.com/track/0U62uEAcEBfWab5CyQLaEg) | [GUDFELLA](https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO), [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS) | [Morning Coffee](https://open.spotify.com/album/0bi4ncyJTGZvi4eP8PIZFn) | 3:02 |
 | 30 | [Asteria](https://open.spotify.com/track/62ErMQlE4ub2GvtKdwy7id) | [FANN](https://open.spotify.com/artist/6IDb1Sr6WglBeOZoqRT269), [CARLA](https://open.spotify.com/artist/0efzWCTqpsoaTZNUn3ar4z), [Greco Beats](https://open.spotify.com/artist/7x4X4E8agWghoTDdHrUfLV) | [Lilith Tape 2](https://open.spotify.com/album/4Y9fHUK7IKvbbkDv6CyH5S) | 3:57 |

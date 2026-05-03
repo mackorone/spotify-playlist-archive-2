@@ -2,7 +2,7 @@
 
 ### [00s Rock Anthems](https://open.spotify.com/playlist/37i9dQZF1DX3oM43CtKnRV)
 
-> These songs rocked the 00s\. Cover: Green Day
+> These songs rocked the 00s\. Cover: Linkin Park
 
 174 songs - 10 hr 51 min
 

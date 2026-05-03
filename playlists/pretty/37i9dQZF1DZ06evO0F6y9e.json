@@ -1,29 +1,13 @@
 {
   "description": "This is Grupo Firme. The essential tracks, all in one playlist.",
-  "num_followers": 1116124,
+  "num_followers": 1116316,
   "original_name": "This Is Grupo Firme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afKbgAAAAAA2t++jDOck4v1xq5tt/EHg",
+  "snapshot_id": "afPtAAAAAAArgxj4Pl+odKDU3KTgysoM",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "C Y Medio",
-        "url": "https://open.spotify.com/album/6ajjSA5aKCb0yHjLLrVYw6"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 166500,
-      "name": "C Y Medio",
-      "url": "https://open.spotify.com/track/4U13UQFjLoB8heUDkGx7lB"
-    },
     {
       "added_at": null,
       "album": {
@@ -327,6 +311,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "C Y Medio",
+        "url": "https://open.spotify.com/album/6ajjSA5aKCb0yHjLLrVYw6"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 166500,
+      "name": "C Y Medio",
+      "url": "https://open.spotify.com/track/4U13UQFjLoB8heUDkGx7lB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Felicidades",
         "url": "https://open.spotify.com/album/6yZG4ygkTClT7lTi73n9fl"
       },
@@ -535,26 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ctrl + Z (En Vivo)",
-        "url": "https://open.spotify.com/album/0evVM9Y8MYKfSJWNGVbaiF"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 161480,
-      "name": "Ctrl + Z (En Vivo)",
-      "url": "https://open.spotify.com/track/3TSIabMcU2C3lx41wPtW5s"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hasta la Miel Amarga (En Vivo)",
         "url": "https://open.spotify.com/album/6zvOKXWumgNxqeTgIhlMDE"
       },
@@ -571,6 +551,26 @@
       "duration_ms": 258393,
       "name": "Hasta la Miel Amarga - En Vivo",
       "url": "https://open.spotify.com/track/2Jkd9fXio63N7nnUboiFg1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ctrl + Z (En Vivo)",
+        "url": "https://open.spotify.com/album/0evVM9Y8MYKfSJWNGVbaiF"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 161480,
+      "name": "Ctrl + Z (En Vivo)",
+      "url": "https://open.spotify.com/track/3TSIabMcU2C3lx41wPtW5s"
     },
     {
       "added_at": null,
@@ -699,26 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desde La Playa \"En Vivo desde Mazatlan, Sinaloa\"",
-        "url": "https://open.spotify.com/album/1VdrXuMVBAzsxPP4vaecDI"
-      },
-      "artists": [
-        {
-          "name": "El Mimoso Luis Antonio L\u00f3pez",
-          "url": "https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g"
-        },
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 214067,
-      "name": "Deja (En Vivo)",
-      "url": "https://open.spotify.com/track/061ZBrJy7HX9bSQR0uw77g"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gracias (En Vivo)",
         "url": "https://open.spotify.com/album/3gtS0XyGrprUswn8LP2xzo"
       },
@@ -735,6 +715,26 @@
       "duration_ms": 235221,
       "name": "Gracias (En Vivo)",
       "url": "https://open.spotify.com/track/5EaQLzvlO0TefeD4QyUJzx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Desde La Playa \"En Vivo desde Mazatlan, Sinaloa\"",
+        "url": "https://open.spotify.com/album/1VdrXuMVBAzsxPP4vaecDI"
+      },
+      "artists": [
+        {
+          "name": "El Mimoso Luis Antonio L\u00f3pez",
+          "url": "https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 214067,
+      "name": "Deja (En Vivo)",
+      "url": "https://open.spotify.com/track/061ZBrJy7HX9bSQR0uw77g"
     },
     {
       "added_at": null,
@@ -779,26 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Te Lo Dije",
-        "url": "https://open.spotify.com/album/6zDUZp1Wb90bA0HaRzDrDt"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        },
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 198952,
-      "name": "Te Lo Dije",
-      "url": "https://open.spotify.com/track/7vwD4Mb8ONG4hE2grQ59tF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lujos y Secretos",
         "url": "https://open.spotify.com/album/3cbhqcAnhdzrBYjrehJ3Hx"
       },
@@ -819,6 +799,26 @@
       "duration_ms": 165836,
       "name": "Lujos y Secretos",
       "url": "https://open.spotify.com/track/6V9ZXuiHRGVU1sblM9LRbZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Te Lo Dije",
+        "url": "https://open.spotify.com/album/6zDUZp1Wb90bA0HaRzDrDt"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 198952,
+      "name": "Te Lo Dije",
+      "url": "https://open.spotify.com/track/7vwD4Mb8ONG4hE2grQ59tF"
     },
     {
       "added_at": null,

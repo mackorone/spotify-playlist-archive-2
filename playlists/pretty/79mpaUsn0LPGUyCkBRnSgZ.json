@@ -6,7 +6,7 @@
     "name": "Zack Amiton",
     "url": "https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt"
   },
-  "snapshot_id": "AAAI/hd4gbzwyWg/zbXwkK6cvb9MmK3W",
+  "snapshot_id": "AAAI/wC6udmRTy0r4SWUCJoKyqvLWIVU",
   "tracks": [
     {
       "added_at": "2021-08-26 23:11:19",
@@ -11955,6 +11955,22 @@
       "duration_ms": 253293,
       "name": "Gotta Start Somewhere",
       "url": "https://open.spotify.com/track/6XwgWvXy9k2eEymsdO0TOR"
+    },
+    {
+      "added_at": "2026-05-02 04:31:25",
+      "album": {
+        "name": "Backseat",
+        "url": "https://open.spotify.com/album/7zE0PXIJKroQxHt6oVvA8G"
+      },
+      "artists": [
+        {
+          "name": "Third Attempt",
+          "url": "https://open.spotify.com/artist/3jI8E89g0xxRPU8tgYgyWD"
+        }
+      ],
+      "duration_ms": 222583,
+      "name": "Backseat",
+      "url": "https://open.spotify.com/track/1JuEY1JagyaMt8EtmhGjR0"
     }
   ],
   "unique_name": "Zacklog",

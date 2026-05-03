@@ -4,7 +4,7 @@
 
 > This is Kelli\-Leigh\. The essential tracks, all in one playlist.
 
-98 songs - 5 hr 3 min
+99 songs - 5 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Calling For A Sign \(feat\. Kelli\-Leigh\)](https://open.spotify.com/track/3mS892OVPgwDSDX8bVrE7K) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Evolve](https://open.spotify.com/album/6N2cAL092Va3dLV4wKWd6Y) | 3:51 | 2024-05-14 |  |
 | [Can U Handle It](https://open.spotify.com/track/0JcsxWMvZYbUhksIHScFB9) | [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc), [Shift K3Y](https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Together](https://open.spotify.com/album/0IGWaTyOw4z04uUdh38QLf) | 2:59 | 2024-05-14 | 2026-05-02 |
 | [Can't Dance](https://open.spotify.com/track/1Qus22vtga7fphTaSPPuss) | [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff), [Art Bastian](https://open.spotify.com/artist/2JblH86IoErnmhXVw5hEPy) | [Can't Dance](https://open.spotify.com/album/4VNcNJrUiO38Darw9itDSy) | 3:41 | 2024-12-02 | 2026-04-14 |
-| [Can't Dance \- Club Radio Edit](https://open.spotify.com/track/2DgETob6WjdoytobSj4uXe) | [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff), [Art Bastian](https://open.spotify.com/artist/2JblH86IoErnmhXVw5hEPy) | [Can't Dance](https://open.spotify.com/album/4VNcNJrUiO38Darw9itDSy) | 2:46 | 2024-05-14 |  |
+| [Can't Dance \- Club Radio Edit](https://open.spotify.com/track/2DgETob6WjdoytobSj4uXe) | [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff), [Art Bastian](https://open.spotify.com/artist/2JblH86IoErnmhXVw5hEPy) | [Can't Dance](https://open.spotify.com/album/4VNcNJrUiO38Darw9itDSy) | 2:46 | 2024-05-14 | 2026-05-03 |
 | [Can't Dance \- Radio Edit](https://open.spotify.com/track/7KtcHEhIAIrTFqVIB0JoPH) | [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff), [Art Bastian](https://open.spotify.com/artist/2JblH86IoErnmhXVw5hEPy) | [LEGACY](https://open.spotify.com/album/1qG5yVar9ZAHFuFqvtJ6QP) | 2:55 | 2025-10-03 | 2025-10-24 |
 | [Can't Get Enough](https://open.spotify.com/track/4djqpTZnGhzeYG4i37gOMl) | [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Can't Get Enough](https://open.spotify.com/album/3mcWIkdKwTxf9if1CG7Uj6) | 2:19 | 2024-05-28 | 2024-07-29 |
 | [Chase The Sun](https://open.spotify.com/track/3aTKb3ottzhElNxoYiscPw) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Dannic](https://open.spotify.com/artist/1PFc84GHTYPL0G12JHh9Mc), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Chase The Sun](https://open.spotify.com/album/3lmlgZBrwoWe7fTsqTAHnB) | 3:03 | 2024-05-14 |  |
@@ -62,6 +62,7 @@
 | [Never Be](https://open.spotify.com/track/7JJGKSAOyyewFxFnqvrX7D) | [Tim Mason](https://open.spotify.com/artist/5GehdPjguGOCZifnKNrXi9), [Capa \(Official\)](https://open.spotify.com/artist/2RGj10V2dzEJO92R6v7eGA), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Never Be](https://open.spotify.com/album/0dKWkIUNQvqI3KOT0D8PcA) | 3:45 | 2024-05-14 | 2025-12-12 |
 | [Never Dance Again](https://open.spotify.com/track/1F1z4H6hVC4wXSsPZKm8hV) | [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Never Dance Again](https://open.spotify.com/album/3FOC9lnnk67fAMm7g3MO38) | 3:12 | 2025-08-19 | 2025-10-04 |
 | [Never Dance Again](https://open.spotify.com/track/3EcT70jEwuYlpKIFbncIoR) | [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Never Dance Again](https://open.spotify.com/album/3KcKrqVnhRUsdN1EVt1BNh) | 3:12 | 2024-05-14 | 2025-08-19 |
+| [Never Find Better \(feat\. Kelli\-Leigh\) \- Nite Mix](https://open.spotify.com/track/2xA34fnmbLK5iA8rkEmweV) | [Amine K](https://open.spotify.com/artist/4Jh6PxSFH7CrZrQpDivlYf), [DJ Chus](https://open.spotify.com/artist/7kxOVclB0zQamtBR0syCrg), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Never Find Better \(feat\. Kelli\-Leigh\)](https://open.spotify.com/album/5rztJ3MerdPhs22ZK6k4Za) | 3:47 | 2026-05-03 |  |
 | [New Chic](https://open.spotify.com/track/4V69w339JdXeJqkxzhvhhY) | [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [New Chic](https://open.spotify.com/album/6Ihk1ZxI4q045l0qLo9uo8) | 2:59 | 2025-08-25 | 2025-09-28 |
 | [New Chic](https://open.spotify.com/track/5ser5Jd8vRDXUxBz7X9r0Y) | [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [New Chic](https://open.spotify.com/album/5TETwfZ53g6uLajO5wNfMy) | 2:59 | 2024-05-14 | 2025-08-25 |
 | [New Chic](https://open.spotify.com/track/7b8kyPQiZeWeELLMZic9Uq) | [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [LEGACY](https://open.spotify.com/album/1qG5yVar9ZAHFuFqvtJ6QP) | 2:59 | 2025-09-28 | 2026-01-24 |

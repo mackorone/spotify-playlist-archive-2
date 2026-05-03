@@ -1,12 +1,12 @@
 {
   "description": "This is Tasha Cobbs Leonard. The essential tracks, all in one playlist.",
-  "num_followers": 37448,
+  "num_followers": 37449,
   "original_name": "This Is Tasha Cobbs Leonard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afKbgAAAAAABLpjAvMYJPw0+z85HwYR3",
+  "snapshot_id": "afPtAAAAAAA0wenp/fxgpRp7YnPFs0EO",
   "tracks": [
     {
       "added_at": null,
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
         }
       ],
-      "duration_ms": 262124,
-      "name": "Burdens Down - Live",
-      "url": "https://open.spotify.com/track/7x7pUk4nHoFyLIr5EJR97X"
+      "duration_ms": 85568,
+      "name": "Agnus Dei - Live",
+      "url": "https://open.spotify.com/track/2zSokIMYeayfu5SlZ6WySJ"
     },
     {
       "added_at": null,
@@ -576,25 +576,9 @@
           "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
         }
       ],
-      "duration_ms": 85568,
-      "name": "Agnus Dei - Live",
-      "url": "https://open.spotify.com/track/2zSokIMYeayfu5SlZ6WySJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Heart. Passion. Pursuit. (Deluxe)",
-        "url": "https://open.spotify.com/album/7BQ2sFd1DNrETEw8xXPUHG"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 166798,
-      "name": "I Have Decided",
-      "url": "https://open.spotify.com/track/4fEhxW4pkUTJypgCDf3sSG"
+      "duration_ms": 262124,
+      "name": "Burdens Down - Live",
+      "url": "https://open.spotify.com/track/7x7pUk4nHoFyLIr5EJR97X"
     },
     {
       "added_at": null,
@@ -623,6 +607,22 @@
       "duration_ms": 423106,
       "name": "My World Needs You (feat. Sarah Reeves, Tasha Cobbs & Tamela Mann)",
       "url": "https://open.spotify.com/track/0GRRDzyfiF5dQU1ZpC4Ftk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heart. Passion. Pursuit. (Deluxe)",
+        "url": "https://open.spotify.com/album/7BQ2sFd1DNrETEw8xXPUHG"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 166798,
+      "name": "I Have Decided",
+      "url": "https://open.spotify.com/track/4fEhxW4pkUTJypgCDf3sSG"
     },
     {
       "added_at": null,
@@ -675,22 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heart. Passion. Pursuit. (Deluxe)",
-        "url": "https://open.spotify.com/album/7BQ2sFd1DNrETEw8xXPUHG"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 333247,
-      "name": "I Will Follow",
-      "url": "https://open.spotify.com/track/38mSgdGYO8FIcunxWbkTqh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "KIERRA",
         "url": "https://open.spotify.com/album/2twow9qKoLnhZO8FDjw82a"
       },
@@ -711,8 +695,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Already Good (Tasha Slide)",
-        "url": "https://open.spotify.com/album/4BW2rDX738CMDYs01BsigF"
+        "name": "Heart. Passion. Pursuit. (Deluxe)",
+        "url": "https://open.spotify.com/album/7BQ2sFd1DNrETEw8xXPUHG"
       },
       "artists": [
         {
@@ -720,9 +704,9 @@
           "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
         }
       ],
-      "duration_ms": 222082,
-      "name": "Already Good (Tasha Slide)",
-      "url": "https://open.spotify.com/track/2t79W2Spqw1Bm2ohSYJAxa"
+      "duration_ms": 333247,
+      "name": "I Will Follow",
+      "url": "https://open.spotify.com/track/38mSgdGYO8FIcunxWbkTqh"
     },
     {
       "added_at": null,
@@ -787,6 +771,22 @@
       "duration_ms": 271807,
       "name": "The Better Benediction (pt.2) (feat. Lisa Knowles-Smith, Le'Andria Johnson, KeKe Wyatt, Kierra Sheard & Tasha Cobbs Leonard)",
       "url": "https://open.spotify.com/track/44Gmc28OqMon8yhJfo3Nze"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Already Good (Tasha Slide)",
+        "url": "https://open.spotify.com/album/4BW2rDX738CMDYs01BsigF"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 222082,
+      "name": "Already Good (Tasha Slide)",
+      "url": "https://open.spotify.com/track/2t79W2Spqw1Bm2ohSYJAxa"
     },
     {
       "added_at": null,
@@ -883,6 +883,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Hand That Keeps Holding Me",
+        "url": "https://open.spotify.com/album/25qfoIDGA0TncdbRPgloqm"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 291722,
+      "name": "The Hand That Keeps Holding Me",
+      "url": "https://open.spotify.com/track/3JFsd4nEKY80A0CJcUq9n7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Welcome Home (Live)",
         "url": "https://open.spotify.com/album/1shUHRfZDbzz0UfdTRwP9l"
       },
@@ -903,22 +919,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Hand That Keeps Holding Me",
-        "url": "https://open.spotify.com/album/25qfoIDGA0TncdbRPgloqm"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 291722,
-      "name": "The Hand That Keeps Holding Me",
-      "url": "https://open.spotify.com/track/3JFsd4nEKY80A0CJcUq9n7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Grace (Live/Deluxe)",
         "url": "https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5"
       },
@@ -931,26 +931,6 @@
       "duration_ms": 347746,
       "name": "Smile - Live",
       "url": "https://open.spotify.com/track/5XFYRxSFLFnxJOCFqXRLc9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jesus Over Everything (Live In Las Vegas)",
-        "url": "https://open.spotify.com/album/0ipgHKNQF4HtAqVeIxEDcp"
-      },
-      "artists": [
-        {
-          "name": "Naomi Raine",
-          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
-        },
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 236247,
-      "name": "Another Thing (with Tasha Cobbs Leonard) - Live",
-      "url": "https://open.spotify.com/track/28dBWQUI19spbuQacMBPhc"
     },
     {
       "added_at": null,
@@ -979,6 +959,26 @@
       "duration_ms": 204601,
       "name": "Together (We'll Get Through This)",
       "url": "https://open.spotify.com/track/2tw1U7sV7kvAeAGLU6pFkt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jesus Over Everything (Live In Las Vegas)",
+        "url": "https://open.spotify.com/album/0ipgHKNQF4HtAqVeIxEDcp"
+      },
+      "artists": [
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        },
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 236247,
+      "name": "Another Thing (with Tasha Cobbs Leonard) - Live",
+      "url": "https://open.spotify.com/track/28dBWQUI19spbuQacMBPhc"
     },
     {
       "added_at": null,

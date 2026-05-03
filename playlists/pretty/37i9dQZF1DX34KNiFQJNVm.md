@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Léo Santana, Zara Larsson com Shakira,  Maroon 5, FBC, DAY LIMNS, Péricles com Ana Castela, Madonna com Sabrina Carpenter e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,283,069 likes - 90 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,283,064 likes - 90 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

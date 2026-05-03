@@ -5949,6 +5949,24 @@
     },
     {
       "album": {
+        "name": "Set Your Life On Fire",
+        "url": "https://open.spotify.com/album/4rUIlLpeOwgUvfJ8NMkmeD"
+      },
+      "artists": [
+        {
+          "name": "The Last Pioneers",
+          "url": "https://open.spotify.com/artist/47VNhQMeBaWxOZG6aJHYvM"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208190,
+      "name": "Set Your Life On Fire",
+      "url": "https://open.spotify.com/track/5Nx6BHTGLSITqrERad64nk"
+    },
+    {
+      "album": {
         "name": "Seven Thirty Three",
         "url": "https://open.spotify.com/album/0G3tpFLksq81tNg857HNSj"
       },

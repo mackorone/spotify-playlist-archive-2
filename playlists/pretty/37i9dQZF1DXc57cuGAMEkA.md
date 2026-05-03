@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。Madonna & Sabrina Carpenter, Lady Gaga, Maroon 5, Zara Larsson and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,792 likes - 76 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,802 likes - 76 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

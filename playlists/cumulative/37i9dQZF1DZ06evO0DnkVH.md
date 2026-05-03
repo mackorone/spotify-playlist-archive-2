@@ -4,7 +4,7 @@
 
 > This is Kate Bush\. The essential tracks, all in one playlist.
 
-61 songs - 4 hr 32 min
+62 songs - 4 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Babooshka \- 2018 Remaster](https://open.spotify.com/track/6VpNGCU2ig4NQmsLfALdJU) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Never for Ever \(2018 Remaster\)](https://open.spotify.com/album/0KBFDO8qcY0zhybIESEQUt) | 3:19 | 2025-10-28 |  |
 | [Breathing \- 2018 Remaster](https://open.spotify.com/track/0yzCZGyBUyEZrNMjZsc2UX) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Never for Ever \(2018 Remaster\)](https://open.spotify.com/album/0KBFDO8qcY0zhybIESEQUt) | 5:30 | 2025-10-28 |  |
 | [Cloudbusting](https://open.spotify.com/track/373vZ0g1dpWaUcrbh0WKhd) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh) | 5:10 | 2025-10-28 |  |
-| [Deeper Understanding \- 2018 Remaster](https://open.spotify.com/track/0IYowUndxZq0g05YBz2f7H) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Sensual World \(2018 Remaster\)](https://open.spotify.com/album/5EyDvOit9McsAc9ao1QROt) | 4:45 | 2026-02-15 |  |
+| [Deeper Understanding \- 2018 Remaster](https://open.spotify.com/track/0IYowUndxZq0g05YBz2f7H) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Sensual World \(2018 Remaster\)](https://open.spotify.com/album/5EyDvOit9McsAc9ao1QROt) | 4:45 | 2026-02-15 | 2026-05-03 |
 | [Delius \- 2018 Remaster](https://open.spotify.com/track/3dSd4f3KMC3efgKlODlnfZ) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Never for Ever \(2018 Remaster\)](https://open.spotify.com/album/0KBFDO8qcY0zhybIESEQUt) | 2:51 | 2025-10-28 |  |
 | [Experiment IV \- Remastered 2025](https://open.spotify.com/track/6DL2DNCbzQiqQ8DhKqgRrf) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Best Of The Other Sides](https://open.spotify.com/album/2b5xbQveJPnV8ingqoTpgz) | 4:54 | 2025-10-28 |  |
 | [Full House \- 2018 Remaster](https://open.spotify.com/track/3rds168fWqxkyYnyIvH3Ed) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Lionheart \(2018 Remaster\)](https://open.spotify.com/album/2CRirDu87zmvr01X8MkcQ8) | 3:14 | 2026-02-20 | 2026-03-02 |
@@ -38,6 +38,7 @@
 | [Night Of The Swallow](https://open.spotify.com/track/0GxUznsPADwZOXwluZTHnj) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Dreaming](https://open.spotify.com/album/2dR2ZmzPqVoBK9vxHNjEUo) | 5:23 | 2025-10-28 |  |
 | [Night Scented Stock \- 2018 Remaster](https://open.spotify.com/track/6ZYjCeL9704rdBdDI59gRY) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Never for Ever \(2018 Remaster\)](https://open.spotify.com/album/0KBFDO8qcY0zhybIESEQUt) | 0:52 | 2025-10-28 |  |
 | [Nocturn \- 2018 Remaster](https://open.spotify.com/track/72PLLUXivN0B79cmjcqJgo) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Aerial \(2018 Remaster\)](https://open.spotify.com/album/6EK8l8rFuMpAn27TNOCwsH) | 8:29 | 2025-10-28 |  |
+| [Oh England My Lionheart \- 2018 Remaster](https://open.spotify.com/track/1x8tSDNiQQdGSljjcsOOus) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Lionheart \(2018 Remaster\)](https://open.spotify.com/album/2CRirDu87zmvr01X8MkcQ8) | 3:12 | 2026-05-03 |  |
 | [Oh to Be in Love](https://open.spotify.com/track/628RVPULYzx6bvh8uf0Msn) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Kick Inside](https://open.spotify.com/album/5NKTuBLCYhN0OwqFiGdXd1) | 3:18 | 2025-10-28 |  |
 | [Prelude \- 2018 Remaster](https://open.spotify.com/track/2Z6ynWKfXbp66zGf5GSbyD) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Aerial \(2018 Remaster\)](https://open.spotify.com/album/6EK8l8rFuMpAn27TNOCwsH) | 1:25 | 2025-10-28 |  |
 | [Prologue \- 2018 Remaster](https://open.spotify.com/track/1xcKLHQ4KcI5rtFOsZusTv) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Aerial \(2018 Remaster\)](https://open.spotify.com/album/6EK8l8rFuMpAn27TNOCwsH) | 5:41 | 2025-10-28 |  |

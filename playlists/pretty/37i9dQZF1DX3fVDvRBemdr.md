@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 
 > De nieuwste Hollands & Volkspop releases\. Cover: Dries Roelvink
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,762 likes - 100 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,768 likes - 100 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Tante Jetje](https://open.spotify.com/track/6jPFnEnuXaOtTsAXUCuhy5) | [Dries Roelvink](https://open.spotify.com/artist/2eIeNd8ZrIkk8R4q3zud09) | [Tante Jetje](https://open.spotify.com/album/4d7e0D6oOIIlepqR2cJoSO) | 3:14 |
-| 2 | [Hoe de liefde gaat](https://open.spotify.com/track/1ttwvoS4i4o69EgKQoP7T4) | [Rene Froger](https://open.spotify.com/artist/5MvyMusqNikgVgkKHLc3pb), [Waylon](https://open.spotify.com/artist/5iuXjsXsTXs8lwmqzsF6dZ) | [Hoe de liefde gaat](https://open.spotify.com/album/1rjIr84CoKQpiocgtqzhyW) | 3:11 |
+| 2 | [Hoe De Liefde Gaat](https://open.spotify.com/track/1ttwvoS4i4o69EgKQoP7T4) | [Rene Froger](https://open.spotify.com/artist/5MvyMusqNikgVgkKHLc3pb), [Waylon](https://open.spotify.com/artist/5iuXjsXsTXs8lwmqzsF6dZ) | [Hoe De Liefde Gaat](https://open.spotify.com/album/1rjIr84CoKQpiocgtqzhyW) | 3:11 |
 | 3 | [Niet Voor 1 Keer](https://open.spotify.com/track/4aR4GlPiahBUGUtbA0Fd4A) | [Gerard Joling](https://open.spotify.com/artist/5V2zReaoPvB7EsZ4160uLG) | [Niet Voor 1 Keer](https://open.spotify.com/album/2AiDcyCJNIrAhGEa2yr259) | 2:51 |
 | 4 | [Maak Me Nou Niet Gek](https://open.spotify.com/track/0q8Ft87t6fIUZdtve5PwKW) | [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT), [Samuel Welten](https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9), [De Amsterdamse Zomer](https://open.spotify.com/artist/41B0yDQQJEFnLDxTNNtlmJ) | [Maak Me Nou Niet Gek](https://open.spotify.com/album/5jOHbWlFPTHrQbkrIXP5kI) | 2:57 |
 | 5 | [De Nacht Is Mijn Leven \- 2026](https://open.spotify.com/track/1VBEhXmsOk839WvzgpvW5m) | [André Hazes Jr.](https://open.spotify.com/artist/5l2Xy4aUoJDRSpsYHyOumD) | [De Nacht Is Mijn Leven \(2026\)](https://open.spotify.com/album/4Hisi2H261bzzzWEf6gwPg) | 3:16 |

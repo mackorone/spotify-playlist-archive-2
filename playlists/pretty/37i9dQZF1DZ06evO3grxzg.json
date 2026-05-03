@@ -1,12 +1,12 @@
 {
   "description": "This is Danna Paola. The essential tracks, all in one playlist.",
-  "num_followers": 235753,
+  "num_followers": 235746,
   "original_name": "This Is Danna Paola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afKbgAAAAADmFRA1HHSPiqhqzg8L4Hx2",
+  "snapshot_id": "afPtAAAAAABc6yT8eUPBiOcroSi8rlSt",
   "tracks": [
     {
       "added_at": null,
@@ -323,22 +323,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Atr\u00e9vete A So\u00f1ar 2",
-        "url": "https://open.spotify.com/album/12ZHvtCWmZqtud4TndhrSS"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 204373,
-      "name": "Te Quiero Tanto",
-      "url": "https://open.spotify.com/track/0WXSnjqHBvN7dHNCzWmTPk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Atrevete A So\u00f1ar (Original Sountrack)",
         "url": "https://open.spotify.com/album/2xxdR4FrSukKWJ18NuKfgu"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 230440,
       "name": "Mundo De Caramelo",
       "url": "https://open.spotify.com/track/56bAsWnhSvtLJXkuu2w48l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Atr\u00e9vete A So\u00f1ar 2",
+        "url": "https://open.spotify.com/album/12ZHvtCWmZqtud4TndhrSS"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 204373,
+      "name": "Te Quiero Tanto",
+      "url": "https://open.spotify.com/track/0WXSnjqHBvN7dHNCzWmTPk"
     },
     {
       "added_at": null,
@@ -723,26 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mientras Me Enamoras",
-        "url": "https://open.spotify.com/album/1dM6TuQuv0TRWLHbooLxTn"
-      },
-      "artists": [
-        {
-          "name": "Lalo Brito",
-          "url": "https://open.spotify.com/artist/4OZ9NCfN5GczACLIYvDCz7"
-        },
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 209824,
-      "name": "Mientras Me Enamoras",
-      "url": "https://open.spotify.com/track/3PzZNV9AANQ1VFs80IHOEx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Kind Of Magic (Coke Studio Mix for the FIFA World Cup 2022\u2122)",
         "url": "https://open.spotify.com/album/2KtBif02TzJqevLk0ApO4J"
       },
@@ -763,6 +743,26 @@
       "duration_ms": 140356,
       "name": "A Kind Of Magic (Coke Studio Mix for the FIFA World Cup 2022\u2122)",
       "url": "https://open.spotify.com/track/07CDjBvpGNoTosJS7zcvnq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mientras Me Enamoras",
+        "url": "https://open.spotify.com/album/1dM6TuQuv0TRWLHbooLxTn"
+      },
+      "artists": [
+        {
+          "name": "Lalo Brito",
+          "url": "https://open.spotify.com/artist/4OZ9NCfN5GczACLIYvDCz7"
+        },
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 209824,
+      "name": "Mientras Me Enamoras",
+      "url": "https://open.spotify.com/track/3PzZNV9AANQ1VFs80IHOEx"
     },
     {
       "added_at": null,
@@ -791,6 +791,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Amy La Ni\u00f1a De La Mochila Azul Vol.1",
+        "url": "https://open.spotify.com/album/2ERfJwem9i66Ax0b1is8Iw"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 208626,
+      "name": "Valiente",
+      "url": "https://open.spotify.com/track/5bHUugTGfu636hC4knWtVP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Movida",
         "url": "https://open.spotify.com/album/7JX96Ff9zr74IvC1qGyBvM"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 183786,
       "name": "Everything",
       "url": "https://open.spotify.com/track/0fx9L2QDi387TQQOVnm91O"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Amy La Ni\u00f1a De La Mochila Azul Vol.1",
-        "url": "https://open.spotify.com/album/2ERfJwem9i66Ax0b1is8Iw"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 208626,
-      "name": "Valiente",
-      "url": "https://open.spotify.com/track/5bHUugTGfu636hC4knWtVP"
     },
     {
       "added_at": null,
@@ -883,26 +883,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Atrevete A So\u00f1ar (Original Sountrack)",
-        "url": "https://open.spotify.com/album/2xxdR4FrSukKWJ18NuKfgu"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        },
-        {
-          "name": "Mateo",
-          "url": "https://open.spotify.com/artist/3ZSqOgN2W2NrJ0kDoMj2g0"
-        }
-      ],
-      "duration_ms": 162440,
-      "name": "Quiero Quedarme Aqui",
-      "url": "https://open.spotify.com/track/5NbKBvXnw5YhkHbzMkfJSM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amy La Ni\u00f1a De La Mochila Azul Vol.1",
         "url": "https://open.spotify.com/album/2ERfJwem9i66Ax0b1is8Iw"
       },
@@ -919,6 +899,26 @@
       "duration_ms": 202960,
       "name": "Amor De Ni\u00f1os",
       "url": "https://open.spotify.com/track/42Nsc9ulcdrZlAYuJGoKaN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Atrevete A So\u00f1ar (Original Sountrack)",
+        "url": "https://open.spotify.com/album/2xxdR4FrSukKWJ18NuKfgu"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        },
+        {
+          "name": "Mateo",
+          "url": "https://open.spotify.com/artist/3ZSqOgN2W2NrJ0kDoMj2g0"
+        }
+      ],
+      "duration_ms": 162440,
+      "name": "Quiero Quedarme Aqui",
+      "url": "https://open.spotify.com/track/5NbKBvXnw5YhkHbzMkfJSM"
     },
     {
       "added_at": null,
@@ -959,6 +959,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Amy La Ni\u00f1a De La Mochila Azul Vol.1",
+        "url": "https://open.spotify.com/album/2ERfJwem9i66Ax0b1is8Iw"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 123506,
+      "name": "Amy, Amy",
+      "url": "https://open.spotify.com/track/4SMV74Nn98m9GcVJRq5co1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "AmyLla Ni\u00f1a De La Mochila Azul Vol.2",
         "url": "https://open.spotify.com/album/0NuxVwqO5z5khKtDgS2EdW"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 220600,
       "name": "Caminos De Luz",
       "url": "https://open.spotify.com/track/72LXdr5YUCB2s2wxYHuhcQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Amy La Ni\u00f1a De La Mochila Azul Vol.1",
-        "url": "https://open.spotify.com/album/2ERfJwem9i66Ax0b1is8Iw"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 123506,
-      "name": "Amy, Amy",
-      "url": "https://open.spotify.com/track/4SMV74Nn98m9GcVJRq5co1"
     },
     {
       "added_at": null,

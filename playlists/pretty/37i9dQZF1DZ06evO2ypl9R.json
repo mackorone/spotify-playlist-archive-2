@@ -1,12 +1,12 @@
 {
   "description": "This is Osunlade. The essential tracks, all in one playlist.",
-  "num_followers": 3894,
+  "num_followers": 3896,
   "original_name": "This Is Osunlade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afKbgAAAAADwlEPh8GsB1MbGNsyIRTq+",
+  "snapshot_id": "afPtAAAAAADM3FGPWLlDjY2OnDdavlmN",
   "tracks": [
     {
       "added_at": null,
@@ -323,6 +323,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "MOSS",
+        "url": "https://open.spotify.com/album/692Z1gSYO1nWLKgSNrw74p"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 200647,
+      "name": "FLWN",
+      "url": "https://open.spotify.com/track/2THRRSfffrl3W0PPz6nTol"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Los Tambores Te Llaman",
         "url": "https://open.spotify.com/album/35lL1deAL0vwnkfgO3Abnq"
       },
@@ -359,22 +375,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MOSS",
-        "url": "https://open.spotify.com/album/692Z1gSYO1nWLKgSNrw74p"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 200647,
-      "name": "FLWN",
-      "url": "https://open.spotify.com/track/2THRRSfffrl3W0PPz6nTol"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Drawing Board",
         "url": "https://open.spotify.com/album/1rhHpHi0n3ZqE9tP28SUVL"
       },
@@ -395,6 +395,22 @@
       "duration_ms": 379013,
       "name": "We Call Love",
       "url": "https://open.spotify.com/track/5e6hni5EtDjcZcgFYYqPH2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MOSS",
+        "url": "https://open.spotify.com/album/692Z1gSYO1nWLKgSNrw74p"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 258604,
+      "name": "ELYODCIRE",
+      "url": "https://open.spotify.com/track/6n64nkwE2sepqPfHuQv1Q5"
     },
     {
       "added_at": null,
@@ -431,22 +447,6 @@
       "duration_ms": 258617,
       "name": "Plantation Earth",
       "url": "https://open.spotify.com/track/5ApNxXVJLVsCw6YFQmLJPm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MOSS",
-        "url": "https://open.spotify.com/album/692Z1gSYO1nWLKgSNrw74p"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 258604,
-      "name": "ELYODCIRE",
-      "url": "https://open.spotify.com/track/6n64nkwE2sepqPfHuQv1Q5"
     },
     {
       "added_at": null,
@@ -511,46 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let's Invade the Amazon (Yoruba Soul Mix)",
-        "url": "https://open.spotify.com/album/2zFcTO9Yd78diFJHqXE9DL"
-      },
-      "artists": [
-        {
-          "name": "Casbah 73",
-          "url": "https://open.spotify.com/artist/29lFQpdKkzFsFqdl3XRQ56"
-        },
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 382274,
-      "name": "Let's Invade the Amazon - Yoruba Soul Mix",
-      "url": "https://open.spotify.com/track/6hROPCDD7DlEZxkbNgwAvc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Human Beings (Remixes)",
-        "url": "https://open.spotify.com/album/0aXYi8WyRApE9RztbNlc1F"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        },
-        {
-          "name": "Atjazz",
-          "url": "https://open.spotify.com/artist/5E1HWPplEsztsh2zh1c9mH"
-        }
-      ],
-      "duration_ms": 414247,
-      "name": "Human Beings - Atjazz Remix",
-      "url": "https://open.spotify.com/track/3QvAiFAzy4TwUGyMtqblIH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cantos A Ochun et Oya [Juan Valentine ReEdit]",
         "url": "https://open.spotify.com/album/6k6ANYZCzmhF4KyKxUsPMx"
       },
@@ -575,18 +535,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "MOSS",
-        "url": "https://open.spotify.com/album/692Z1gSYO1nWLKgSNrw74p"
+        "name": "Human Beings (Remixes)",
+        "url": "https://open.spotify.com/album/0aXYi8WyRApE9RztbNlc1F"
       },
       "artists": [
         {
           "name": "Osunlade",
           "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        },
+        {
+          "name": "Atjazz",
+          "url": "https://open.spotify.com/artist/5E1HWPplEsztsh2zh1c9mH"
         }
       ],
-      "duration_ms": 171668,
-      "name": "The Roads Of Kenya",
-      "url": "https://open.spotify.com/track/4U2tDJDX9c2HEberB7B3ux"
+      "duration_ms": 414247,
+      "name": "Human Beings - Atjazz Remix",
+      "url": "https://open.spotify.com/track/3QvAiFAzy4TwUGyMtqblIH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Let's Invade the Amazon (Yoruba Soul Mix)",
+        "url": "https://open.spotify.com/album/2zFcTO9Yd78diFJHqXE9DL"
+      },
+      "artists": [
+        {
+          "name": "Casbah 73",
+          "url": "https://open.spotify.com/artist/29lFQpdKkzFsFqdl3XRQ56"
+        },
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 382274,
+      "name": "Let's Invade the Amazon - Yoruba Soul Mix",
+      "url": "https://open.spotify.com/track/6hROPCDD7DlEZxkbNgwAvc"
     },
     {
       "added_at": null,
@@ -611,8 +595,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "INvite ONly",
-        "url": "https://open.spotify.com/album/7ILkptkE77YgKwCq7Gkhxa"
+        "name": "MOSS",
+        "url": "https://open.spotify.com/album/692Z1gSYO1nWLKgSNrw74p"
       },
       "artists": [
         {
@@ -620,9 +604,9 @@
           "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
         }
       ],
-      "duration_ms": 258617,
-      "name": "Serenade",
-      "url": "https://open.spotify.com/track/3fLAGPeqjcJxGayQtkdElM"
+      "duration_ms": 171668,
+      "name": "The Roads Of Kenya",
+      "url": "https://open.spotify.com/track/4U2tDJDX9c2HEberB7B3ux"
     },
     {
       "added_at": null,
@@ -639,6 +623,22 @@
       "duration_ms": 193560,
       "name": "Cosmic Signs",
       "url": "https://open.spotify.com/track/5fmqznIjOJS050oRCHAUCw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "INvite ONly",
+        "url": "https://open.spotify.com/album/7ILkptkE77YgKwCq7Gkhxa"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 258617,
+      "name": "Serenade",
+      "url": "https://open.spotify.com/track/3fLAGPeqjcJxGayQtkdElM"
     },
     {
       "added_at": null,
@@ -723,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MOSS",
-        "url": "https://open.spotify.com/album/692Z1gSYO1nWLKgSNrw74p"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 182071,
-      "name": "MOSS",
-      "url": "https://open.spotify.com/track/0aVhniuf8aJR8KEgrbL9zb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Natives Tongue",
         "url": "https://open.spotify.com/album/68kE4iE9bgRtb7psaoStUl"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 236303,
       "name": "Natives Tongue",
       "url": "https://open.spotify.com/track/2CEsYinJFRDJfX2f3eiqu8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MOSS",
+        "url": "https://open.spotify.com/album/692Z1gSYO1nWLKgSNrw74p"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 182071,
+      "name": "MOSS",
+      "url": "https://open.spotify.com/track/0aVhniuf8aJR8KEgrbL9zb"
     },
     {
       "added_at": null,
@@ -803,22 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inner Garden",
-        "url": "https://open.spotify.com/album/1VTMe5fxuGQYhC91cKAvRa"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 429496,
-      "name": "Luv",
-      "url": "https://open.spotify.com/track/28khN5I8USrsWCrl1l01ra"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ache'",
         "url": "https://open.spotify.com/album/2lvRr5UqUBPPiDr80JFZP4"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 97141,
       "name": "Poh's Devotion",
       "url": "https://open.spotify.com/track/5OcUpKX9VeYwbJp6i1e3aC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Inner Garden",
+        "url": "https://open.spotify.com/album/1VTMe5fxuGQYhC91cKAvRa"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 429496,
+      "name": "Luv",
+      "url": "https://open.spotify.com/track/28khN5I8USrsWCrl1l01ra"
     },
     {
       "added_at": null,

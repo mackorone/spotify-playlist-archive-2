@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-465 songs - 1 day 5 hr 2 min
+468 songs - 1 day 5 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -262,6 +262,7 @@
 | [Message Through Time](https://open.spotify.com/track/4BPrHDgqGxnWANdMphAbNQ) | [Groove Vultures](https://open.spotify.com/artist/4mxU5Dnd342CsqAS6viJuj) | [Message Through Time](https://open.spotify.com/album/45LoKgIdcZiDUrx7V5HbuC) | 5:21 | 2025-11-02 | 2025-12-17 |
 | [Mi Porción Del Cielo](https://open.spotify.com/track/0j2FJ9VZRxyveO8nm28o1p) | [Jimmy Molina](https://open.spotify.com/artist/3mVMWQayvasA1ugv6dy35e) | [Mi Porción Del Cielo](https://open.spotify.com/album/2IcSq6ZZPiJGoaIFBFuAl5) | 2:40 | 2025-12-24 | 2026-03-18 |
 | [Might](https://open.spotify.com/track/29tEoaOohhs9T5KzL5nwSp) | [CousinRay](https://open.spotify.com/artist/1a6zRnXwYNfgmQwGCe7aZZ), [Drew Nold](https://open.spotify.com/artist/33aaruu0jaWNP2jmw03YL9), [Steam Slicer](https://open.spotify.com/artist/1BrdiIVdlnhJZRJkLCb5TI) | [Might](https://open.spotify.com/album/3kzrk1s5s52bPX4RJlXBme) | 4:00 | 2025-09-30 | 2025-12-17 |
+| [Miss Reaper](https://open.spotify.com/track/6ukgL9GrdN3UjlarTh8siP) | [Lota](https://open.spotify.com/artist/2v9VcYjEiEp8VweMp3LV5W) | [Miss Reaper](https://open.spotify.com/album/1Y8qZkQo1yJk6f28WINpTr) | 3:29 | 2026-05-02 |  |
 | [Mojo On](https://open.spotify.com/track/3TdRMlfp6LGeAtOASCN8nx) | [Luback](https://open.spotify.com/artist/7A4hy5k2AzVjPu8yjXnZr9), [The Clics](https://open.spotify.com/artist/0haX6u2d6rCkAXWJB4d9sO) | [Mojo On](https://open.spotify.com/album/22flR5Lny2T7GFrDKLxxUD) | 4:21 | 2025-11-02 | 2025-12-17 |
 | [Money](https://open.spotify.com/track/7ALuXUMj3Lz7i0yoFJaaCP) | [Aajax Dry Goods](https://open.spotify.com/artist/2k1v14nltEcG15SrMjyvsg) | [Aajax Dry Goods](https://open.spotify.com/album/60bYC4FtgrPaDyjSsGJiLA) | 2:28 | 2026-04-26 |  |
 | [Money](https://open.spotify.com/track/5EYHdEkl9T4osuhxLGB0e7) | [The How](https://open.spotify.com/artist/09hG1ZJdYeCJo1nB66BJzW) | [Westway Rises](https://open.spotify.com/album/1UF1jnphfnZ65FU9Qp3KdV) | 3:34 | 2026-01-13 | 2026-03-18 |
@@ -305,6 +306,7 @@
 | [Ordinary Man](https://open.spotify.com/track/2wFieyyXVumeUtn5qdHx61) | [June 101](https://open.spotify.com/artist/0sBu7gZlzCSq0wsCqTojcD) | [Collection, Vol\. 1](https://open.spotify.com/album/5ZgOo1hRPzctZbsf83ngpT) | 4:06 | 2025-11-25 | 2025-12-17 |
 | [Ouroboros](https://open.spotify.com/track/23w8U7ujIWpdMlRYazgl1F) | [Synthetic Broadcast](https://open.spotify.com/artist/16H0ape8xiGKFnqUoU6AWQ) | [Reverie](https://open.spotify.com/album/5c7IszYceIopxhjpZGSIKL) | 2:56 | 2025-11-23 | 2025-12-17 |
 | [Out Of My Head](https://open.spotify.com/track/5RNcdKmLjCdJYyltfkJkhv) | [Alex Tokarev](https://open.spotify.com/artist/5kYgsMU5N1w5IaBJyGisZs) | [Out Of My Head](https://open.spotify.com/album/3lsQEPVmrgV0r7pCYL62j5) | 2:45 | 2025-11-28 | 2025-12-17 |
+| [Outta Control](https://open.spotify.com/track/6CFhnrHIzYr3uYHPAx2ix9) | [Crispy Danger](https://open.spotify.com/artist/3KmwVFNqWQiSY2hVaiIB7b) | [Outta Control](https://open.spotify.com/album/4FPn9FK7LFYNx9UMnsgcFB) | 2:51 | 2026-05-02 |  |
 | [Paper Mache](https://open.spotify.com/track/49aASBTHzF8GhtqgOXSlfg) | [Katrina](https://open.spotify.com/artist/2hpCkArHzQ852NRLx6TG2o) | [Paper Mache](https://open.spotify.com/album/0sZw1vxa8YcDceWAnTqNS0) | 2:09 | 2025-11-30 | 2025-12-17 |
 | [Paralisia Do Sono](https://open.spotify.com/track/6IjUGACXqxZhz8ortWGDmU) | [The Jump Out Helicopters](https://open.spotify.com/artist/4XKjXT1OIFR3zVbEgZGmel) | [Entre O Sonho E O Acordado](https://open.spotify.com/album/0Twg6AtBwK1vS9lPVklpqI) | 2:39 | 2025-09-29 | 2025-12-17 |
 | [Parar respirar pensar y actuar](https://open.spotify.com/track/67E2Do4adYM1ynZRlLzbV5) | [Orlando Vitale](https://open.spotify.com/artist/2CQ4n8I7rMZiujKRFlQqZa) | [Parar respirar pensar y actuar](https://open.spotify.com/album/6WWPmTrcnyxbgAiLCstgsJ) | 5:00 | 2026-02-25 | 2026-03-18 |
@@ -393,6 +395,7 @@
 | [Swamp Mother](https://open.spotify.com/track/5AMxT1InHsOVuaxW8qYaVF) | [Live Oak Sunburst](https://open.spotify.com/artist/4QHJTuyBl6eDWAikRZaAmB) | [Swamp Mother](https://open.spotify.com/album/7ncJaA6HNWg3GSFEa1abAc) | 3:42 | 2026-04-29 |  |
 | [Sweet Journey \(Rock Version\)](https://open.spotify.com/track/6n6zlANFdFqP3u3DK4fJiJ) | [Mathias Neto](https://open.spotify.com/artist/5QrUJ71HRSZ4O2wVAJkKZG) | [Sweet Journey \(Rock Version\)](https://open.spotify.com/album/3AAjiTyB5rFtvouQnXNKdn) | 4:34 | 2026-03-16 | 2026-04-21 |
 | [Synchronicity](https://open.spotify.com/track/022SKr9Ibv4kGJz069ukGm) | [The Insomnia Night](https://open.spotify.com/artist/1kf6je9RrHLLxg5ocFLVbD) | [Synchronicity](https://open.spotify.com/album/3ECpJVnGuYwyoQVywguY0B) | 4:09 | 2026-01-16 | 2026-03-18 |
+| [Systembruch \- Bonus \#raw](https://open.spotify.com/track/4okdQGGXx0dXhvQJjgnglF) | [FACEVOLT](https://open.spotify.com/artist/6pIqGqpnJZlIGDzwTsv9WH) | [LONG WAY](https://open.spotify.com/album/7uzLn5WRyAa5Ac5qhJgEKC) | 4:24 | 2026-05-02 |  |
 | [Take me home](https://open.spotify.com/track/0mNlZQwMps3Uz9vGV0G2VO) | [Nic Li](https://open.spotify.com/artist/4Kg7L2IFz4ZI1x9FOnWEKU) | [Haga Street Revisited](https://open.spotify.com/album/0Oc9CyF1n3yIzaXjR503hC) | 1:55 | 2025-11-02 | 2025-12-17 |
 | [Take My Love \- Live](https://open.spotify.com/track/1NOzIiQmn04RbHJI09odao) | [The Steel](https://open.spotify.com/artist/0o8mtfGFaxEYBF5TtoVOGY), [Wizard](https://open.spotify.com/artist/68mNlZyTChaGaUwoIjzMr8) | [Captured Live](https://open.spotify.com/album/2kkaEmuBrjwtB1ibO23MRr) | 3:29 | 2026-03-27 | 2026-04-21 |
 | [Tapure](https://open.spotify.com/track/3UTYN1rNU0MqUlrCNMoAmJ) | [HELLIPSYS](https://open.spotify.com/artist/4BNGDq3fwPHY9QpGdqrAML) | [B.o.t.](https://open.spotify.com/album/3Sse1MujegzywJElFcX4x6) | 3:47 | 2025-09-21 | 2025-11-28 |

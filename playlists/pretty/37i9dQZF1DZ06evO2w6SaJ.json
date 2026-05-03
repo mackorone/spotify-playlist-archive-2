@@ -1,13 +1,29 @@
 {
   "description": "This is Crazy Town. The essential tracks, all in one playlist.",
-  "num_followers": 7461,
+  "num_followers": 7465,
   "original_name": "This Is Crazy Town",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afKbgAAAAADJsD/tw7HcHlqIjSd9DJIe",
+  "snapshot_id": "afPtAAAAAADdqzaZeMNP310p1ZY1dgJm",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Gift Of Game",
+        "url": "https://open.spotify.com/album/0hdOk76DmEMYI6QV92mIin"
+      },
+      "artists": [
+        {
+          "name": "Crazy Town",
+          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
+        }
+      ],
+      "duration_ms": 216733,
+      "name": "Butterfly",
+      "url": "https://open.spotify.com/track/4BggEwLhGfrbrl7JBhC8EC"
+    },
     {
       "added_at": null,
       "album": {
@@ -27,22 +43,6 @@
       "duration_ms": 164336,
       "name": "Butterfly 2026",
       "url": "https://open.spotify.com/track/1DznCjR8ml1o2j2bEG5kN6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Gift Of Game",
-        "url": "https://open.spotify.com/album/0hdOk76DmEMYI6QV92mIin"
-      },
-      "artists": [
-        {
-          "name": "Crazy Town",
-          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
-        }
-      ],
-      "duration_ms": 216733,
-      "name": "Butterfly",
-      "url": "https://open.spotify.com/track/4BggEwLhGfrbrl7JBhC8EC"
     },
     {
       "added_at": null,
@@ -296,17 +296,17 @@
           "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
         },
         {
-          "name": "J. Angel",
-          "url": "https://open.spotify.com/artist/2Ntv9L9Iq5ExDIPxSkcfWP"
+          "name": "Bishop Lamont",
+          "url": "https://open.spotify.com/artist/4RV0poOKGzij1Xe9dsO57h"
         },
         {
-          "name": "DJ Am",
-          "url": "https://open.spotify.com/artist/073pd2NojHfYRNGOFUQEmN"
+          "name": "Fann",
+          "url": "https://open.spotify.com/artist/45R5D1DlUbEW43Q1OHA3ft"
         }
       ],
-      "duration_ms": 212306,
-      "name": "Born to Raise Hell",
-      "url": "https://open.spotify.com/track/0dKYukgkmv37SebbuUE6YJ"
+      "duration_ms": 255386,
+      "name": "Backpack",
+      "url": "https://open.spotify.com/track/3rP37J9X3qMHk99IGYiy0P"
     },
     {
       "added_at": null,
@@ -372,17 +372,17 @@
           "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
         },
         {
-          "name": "Bishop Lamont",
-          "url": "https://open.spotify.com/artist/4RV0poOKGzij1Xe9dsO57h"
+          "name": "J. Angel",
+          "url": "https://open.spotify.com/artist/2Ntv9L9Iq5ExDIPxSkcfWP"
         },
         {
-          "name": "Fann",
-          "url": "https://open.spotify.com/artist/45R5D1DlUbEW43Q1OHA3ft"
+          "name": "DJ Am",
+          "url": "https://open.spotify.com/artist/073pd2NojHfYRNGOFUQEmN"
         }
       ],
-      "duration_ms": 255386,
-      "name": "Backpack",
-      "url": "https://open.spotify.com/track/3rP37J9X3qMHk99IGYiy0P"
+      "duration_ms": 212306,
+      "name": "Born to Raise Hell",
+      "url": "https://open.spotify.com/track/0dKYukgkmv37SebbuUE6YJ"
     },
     {
       "added_at": null,
@@ -412,9 +412,9 @@
           "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
         }
       ],
-      "duration_ms": 181909,
-      "name": "Trigger Happy",
-      "url": "https://open.spotify.com/track/5cpCqwZTCBJtqoRVFDCMjb"
+      "duration_ms": 182271,
+      "name": "Cake",
+      "url": "https://open.spotify.com/track/1tqVqhZmiiqu4cGjhCHp9D"
     },
     {
       "added_at": null,
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
         }
       ],
-      "duration_ms": 182271,
-      "name": "Cake",
-      "url": "https://open.spotify.com/track/1tqVqhZmiiqu4cGjhCHp9D"
+      "duration_ms": 181909,
+      "name": "Trigger Happy",
+      "url": "https://open.spotify.com/track/5cpCqwZTCBJtqoRVFDCMjb"
     },
     {
       "added_at": null,

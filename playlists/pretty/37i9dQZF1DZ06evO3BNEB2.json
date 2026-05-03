@@ -1,12 +1,12 @@
 {
   "description": "This is Wale. The essential tracks, all in one playlist.",
-  "num_followers": 40348,
+  "num_followers": 40356,
   "original_name": "This Is Wale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afKbgAAAAADUh567hL9fmJPmHWWY1wkA",
+  "snapshot_id": "afPtAAAAAACBUXi42gfOKZtVNFavDfT7",
   "tracks": [
     {
       "added_at": null,
@@ -407,22 +407,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wow... That's Crazy",
-        "url": "https://open.spotify.com/album/0JRDNN0AuZZiwyrOWkNDXC"
+        "name": "Realms",
+        "url": "https://open.spotify.com/album/0ZdiHNx2h4QTKwfF7fEM8j"
       },
       "artists": [
         {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
         },
         {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
         }
       ],
-      "duration_ms": 212500,
-      "name": "Love... (Her Fault) [feat. Bryson Tiller]",
-      "url": "https://open.spotify.com/track/6cSBm4mtcuFtClN6yDvjQo"
+      "duration_ms": 191617,
+      "name": "Again - Remix",
+      "url": "https://open.spotify.com/track/1YFc3bSctJKakFx6hHEdPX"
     },
     {
       "added_at": null,
@@ -447,22 +447,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Realms",
-        "url": "https://open.spotify.com/album/0ZdiHNx2h4QTKwfF7fEM8j"
+        "name": "Wow... That's Crazy",
+        "url": "https://open.spotify.com/album/0JRDNN0AuZZiwyrOWkNDXC"
       },
       "artists": [
         {
-          "name": "Wande Coal",
-          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
-        },
-        {
           "name": "Wale",
           "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        },
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
         }
       ],
-      "duration_ms": 191617,
-      "name": "Again - Remix",
-      "url": "https://open.spotify.com/track/1YFc3bSctJKakFx6hHEdPX"
+      "duration_ms": 212500,
+      "name": "Love... (Her Fault) [feat. Bryson Tiller]",
+      "url": "https://open.spotify.com/track/6cSBm4mtcuFtClN6yDvjQo"
     },
     {
       "added_at": null,
@@ -955,6 +955,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Coffee (F***ing) (feat. Wale)",
+        "url": "https://open.spotify.com/album/2oEZTAlDdKGJoeNSlbkXOy"
+      },
+      "artists": [
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 314053,
+      "name": "Coffee (F***ing) (feat. Wale)",
+      "url": "https://open.spotify.com/track/5OFKWrKbS8iTIGxgjyHDzW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pray for Paris",
         "url": "https://open.spotify.com/album/6nfJMRoIjyRwk3ZTHNm0PY"
       },
@@ -979,22 +999,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coffee (F***ing) (feat. Wale)",
-        "url": "https://open.spotify.com/album/2oEZTAlDdKGJoeNSlbkXOy"
+        "name": "Slow Down (Remix) [feat. H.E.R. & Wale]",
+        "url": "https://open.spotify.com/album/2HGRESjom1ev3i6XQfSszY"
       },
       "artists": [
         {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+          "name": "Skip Marley",
+          "url": "https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O"
+        },
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
         },
         {
           "name": "Wale",
           "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
         }
       ],
-      "duration_ms": 314053,
-      "name": "Coffee (F***ing) (feat. Wale)",
-      "url": "https://open.spotify.com/track/5OFKWrKbS8iTIGxgjyHDzW"
+      "duration_ms": 222068,
+      "name": "Slow Down (Remix) [feat. H.E.R. & Wale]",
+      "url": "https://open.spotify.com/track/3oMICOZz49EM5LT4Z330uo"
     },
     {
       "added_at": null,
@@ -1035,30 +1059,6 @@
       "duration_ms": 146543,
       "name": "James Freestyle",
       "url": "https://open.spotify.com/track/0TCwOV4kb3zDKBd9U8dL1j"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Slow Down (Remix) [feat. H.E.R. & Wale]",
-        "url": "https://open.spotify.com/album/2HGRESjom1ev3i6XQfSszY"
-      },
-      "artists": [
-        {
-          "name": "Skip Marley",
-          "url": "https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O"
-        },
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        },
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        }
-      ],
-      "duration_ms": 222068,
-      "name": "Slow Down (Remix) [feat. H.E.R. & Wale]",
-      "url": "https://open.spotify.com/track/3oMICOZz49EM5LT4Z330uo"
     }
   ],
   "unique_name": "This Is Wale",

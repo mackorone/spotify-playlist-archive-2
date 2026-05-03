@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQaHIT8HMOV.md) - [plain]
 
 > Homegrown Ugandan gems in one playlist\. Cover: Winnie Nwagi
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,121 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,136 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQaHIT8HMOV.md) - [plain]
 | 49 | [Mpeke](https://open.spotify.com/track/4qwAAODLtRAqWANUwvRSBw) | [Aroma Music](https://open.spotify.com/artist/7sQ73ctV0zhIB3tBq54co2), [An\-Known](https://open.spotify.com/artist/3stZkIKmrZfjDLo1xgadxQ) | [Mpeke](https://open.spotify.com/album/4YW3EZJ9G89tB7MVQCLN34) | 3:45 |
 | 50 | [It All Depends](https://open.spotify.com/track/4ypKU7GxAWukpDQP0yyWam) | [I\-Blade](https://open.spotify.com/artist/0ZtJYd6DVTab3LqeSGKApU), [Soundlykbb](https://open.spotify.com/artist/2izHnGuv9KzbPbfX6KsoTG) | [It All Depends](https://open.spotify.com/album/1w4U6yXrHFvY0BvkLzfc5l) | 2:52 |
 
-Snapshot ID: `AAAAALA7+BykvBKQRw3smwXsKqyt6yAP`
+Snapshot ID: `AAAAAGBfQZkpUvr5JARL2grEba71MFSM`

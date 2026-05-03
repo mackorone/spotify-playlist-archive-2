@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9UYa8hql9y.md) - [plain]
 
 > puro rolón para amanecer y seguirla
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,595 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,634 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9UYa8hql9y.md) - [plain]
 | 99 | [Un Vals](https://open.spotify.com/track/1ojcw1w3auGuo2JwVvm8u5) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Un Vals](https://open.spotify.com/album/5K0BYODFTljTcOLGOwBZJX) | 3:09 |
 | 100 | [Normal](https://open.spotify.com/track/2z9YkcLojiOE7Eu2p9lPZR) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Normal](https://open.spotify.com/album/3xbevf88sEI6l01P9dApmu) | 2:51 |
 
-Snapshot ID: `AAAAAAflT+/VcKCG7m285Pw1RWw2KQwO`
+Snapshot ID: `AAAAAArlL/kS/vcfdmGswKdK6DYnYO6C`

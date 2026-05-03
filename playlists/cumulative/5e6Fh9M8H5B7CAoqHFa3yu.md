@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,177 songs - 5 day 8 hr 59 min
+2,180 songs - 5 day 9 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@
 | [Astral](https://open.spotify.com/track/2zid4cfWtpcooEjSADhN2z) | [Clariá](https://open.spotify.com/artist/6Za8rqeiBcShSX1tzkUqkl) | [Astral](https://open.spotify.com/album/6rqF5Cx8HtkXzWtzcdeTQH) | 3:58 | 2026-02-10 |  |
 | [Astral Vision](https://open.spotify.com/track/79GyilhcKE7fvMhljJMQxL) | [Elastica Dub](https://open.spotify.com/artist/1nyZ7QOTyzJ0lhHLGaikIW), [Zion Train](https://open.spotify.com/artist/6sDKfmMPaTI7MYeFoNFrg7), [Gabriel Blue](https://open.spotify.com/artist/2z0BjCl7p9XrswyaknMFMJ) | [Astral Vision](https://open.spotify.com/album/4skr9ieBSHKCa52ivYa7hy) | 5:49 | 2026-02-28 |  |
 | [Astros](https://open.spotify.com/track/23USLP01Sb9lL29bkMdGNe) | [Lenoise](https://open.spotify.com/artist/1zbtdItCDLhQLlyL3ASTZG) | [Supernova](https://open.spotify.com/album/1cEtLyqdkRlTsxn3ldfGot) | 4:03 | 2025-12-28 |  |
+| [Asylum of the Mind](https://open.spotify.com/track/3BgakXbaYhofrzmBhGcPjg) | [AETHEROHM](https://open.spotify.com/artist/2fpzZutgwQNC0dLo6Ly5Ww) | [Asylum of the Mind](https://open.spotify.com/album/2vmZXsykEmnHmMOqEna3Jr) | 4:04 | 2026-05-02 |  |
 | [At The Restaurant](https://open.spotify.com/track/7hf98kLVYzvl5eLrM8hL3D) | [caveau](https://open.spotify.com/artist/6nBYceEDCCiItPV56dIeVo) | [At The Restaurant](https://open.spotify.com/album/5BXD9EhfxsvVwrgdtAl3Ku) | 3:41 | 2025-11-15 |  |
 | [Atlantis](https://open.spotify.com/track/4MP0SgPbAIn5ha78vJklQF) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Atlantis](https://open.spotify.com/album/0GVBEDtchsOWV4hoKom8dC) | 1:50 | 2026-02-18 |  |
 | [Attraction](https://open.spotify.com/track/6ZtwN8RKfWBC7SXAse5Myb) | [Ausvin King](https://open.spotify.com/artist/4K2gNf5IYG6wO4tadQ6z9k) | [Attraction](https://open.spotify.com/album/2h7LFTP3XolyekXifqhSAw) | 3:59 | 2025-09-03 |  |
@@ -572,6 +573,7 @@
 | [ennui](https://open.spotify.com/track/70xCHfTbqEDUYiX28pNvQo) | [LadyBoy](https://open.spotify.com/artist/3EyEQIrSwLWmL5WikGao8Q) | [ennui](https://open.spotify.com/album/6Be5YT4sy6M8FjaJaILcGS) | 3:13 | 2026-05-01 |  |
 | [Entre o Sol e a Lua](https://open.spotify.com/track/3Fb8mF2B2noR4Qmyinlo2R) | [Nine Angel](https://open.spotify.com/artist/1Lc1Ou5z78fgizSFbUlj8Y) | [Entre o Sol e a Lua](https://open.spotify.com/album/5RaWM9AHhqkUcl8Ty5jskQ) | 2:51 | 2025-08-11 |  |
 | [Era Mio Nonno](https://open.spotify.com/track/6Ve493O4HaGXhM9E0LMFVw) | [SerJo](https://open.spotify.com/artist/2g8FSG3mP5OQIL9kJ4qe48) | [Era Mio Nonno](https://open.spotify.com/album/2PLsxA89imSEVDygyB7rYq) | 5:08 | 2025-07-22 |  |
+| [Eres \(cumbia\)](https://open.spotify.com/track/5n8PeHHXQl9Rchj1Qlw7Kn) | [OVE MARQUESIN](https://open.spotify.com/artist/0plb8N6XwOKnXuQFxHiD0t) | [Eres \(cumbia\)](https://open.spotify.com/album/37xqG4vHBHGfn7Kgb6LfTL) | 3:45 | 2026-05-02 |  |
 | [Erre](https://open.spotify.com/track/6XiSGjgMN2XHI3oqSxDgW9) | [Proyecto VTK](https://open.spotify.com/artist/4Sjjd7GLD7xgroQkOg3Vxb) | [Erre](https://open.spotify.com/album/3NN7ahka8MpJVz4mnv1s1L) | 3:57 | 2025-07-20 |  |
 | [es el amor \(interludio\)](https://open.spotify.com/track/5eKOlVbQJpohZpmStrqAKB) | [patito pena](https://open.spotify.com/artist/1d64pDNrzyaJEK0yfuJI7x) | [retocado](https://open.spotify.com/album/4EOaiVuo5mqxLeftiPKpyJ) | 1:26 | 2025-09-13 |  |
 | [Es ser](https://open.spotify.com/track/1zHN8roXBJPDgzyqbCf6Mw) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Puzzles](https://open.spotify.com/album/7e2bA6vx7HTLvrOtyFLChY) | 2:40 | 2026-03-15 |  |
@@ -1964,6 +1966,7 @@
 | [Tres morillas m'enamoran](https://open.spotify.com/track/7BqTkqF0GHAZnukyU2k8iw) | [Traditional Song](https://open.spotify.com/artist/4xpFJ59XzXnBngXKoH9Uld), [Pablo Despeyroux](https://open.spotify.com/artist/5PIQKptSn7b9KGsMrK296N) | [Música Antigua Para Cítola Y Vihuela](https://open.spotify.com/album/03xRLo5mXY5KsALtg92jCh) | 1:30 | 2025-08-12 |  |
 | [Tribulation Dub](https://open.spotify.com/track/3CDeA32NKUAB07PZDOPZ0d) | [Menilek](https://open.spotify.com/artist/61KYnn1IwsxUzHIStwSabV) | [Son of Solomon](https://open.spotify.com/album/1rC5MlLVYNCEYTtHB2IzFL) | 7:15 | 2024-05-01 |  |
 | [Triumphant Horns](https://open.spotify.com/track/3G9LFZiPlFeRo4S9Jad05l) | [Mikey Dub](https://open.spotify.com/artist/7rRgU2EvtyQkvbywoymLUD), [Joby T](https://open.spotify.com/artist/0uy4jNZVWNUv3TTI0KAO6b) | [Triumphant Riddim](https://open.spotify.com/album/2aSJwBDyD7s2dExpXvNL1h) | 4:20 | 2024-05-04 |  |
+| [Trop Tard](https://open.spotify.com/track/4Jc87vJJuMZJs1sVCzihsl) | [ToloV](https://open.spotify.com/artist/4t3awapuIDzb4fGOMWR35Q) | [Trop Tard](https://open.spotify.com/album/4NIXc8GwWXnvo1TTMJEkWt) | 3:31 | 2026-05-02 |  |
 | [True Born Dubwizer](https://open.spotify.com/track/0CPbQZrfxxWItGdhXl762z) | [Negritage](https://open.spotify.com/artist/3JcS5pm4XJZnSXwejIiqSn) | [Guetto Roots Of Dub](https://open.spotify.com/album/03lGqOUTOHHID1tGCWRiVO) | 4:23 | 2024-05-01 |  |
 | [True Colors](https://open.spotify.com/track/7p0VdCIL7xNxNZelTWWAS8) | [Solar Twin](https://open.spotify.com/artist/50Ekd3KAzVMWwInjY87Gaj), [Sammy Barrett](https://open.spotify.com/artist/2C9SzaJPwPPGO4Z9ZgDKV7) | [Pink Noise](https://open.spotify.com/album/5J06ZzjwMI5FUOiWaaTgux) | 3:51 | 2025-07-02 |  |
 | [True Cry \- Vocal Mix](https://open.spotify.com/track/05B8BIxy0agaFWDpweSvqi) | [Culture Horn](https://open.spotify.com/artist/2YIGsoR46Dn9gnVTnDTScd), [Kimmy Gold](https://open.spotify.com/artist/2nyda7VjcWVJnUXF9cjVXn) | [True Cry \(Vocal Mix\)](https://open.spotify.com/album/1ZStAViNgmYRnvAbuw448H) | 3:29 | 2024-03-25 |  |

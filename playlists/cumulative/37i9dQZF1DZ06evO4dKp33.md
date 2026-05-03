@@ -4,7 +4,7 @@
 
 > This is PinkPantheress\. The essential tracks, all in one playlist.
 
-52 songs - 2 hr 21 min
+53 songs - 2 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [killstreaks \(with Don Toliver & PinkPantheress\)](https://open.spotify.com/track/754hhnczVNu3ibRaoAcujX) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [The Melodic Blue \(Deluxe\)](https://open.spotify.com/album/5Co3CGD9lBQVNnn7q0px1g) | 3:35 | 2025-12-18 |  |
 | [Kiss Me Thru The Phone pt 2 \(with PinkPantheress\)](https://open.spotify.com/track/4SC29UjZqGD3DaZNipthGk) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [BLACK STAR](https://open.spotify.com/album/59PktWhvg6nGZJaxW0mVVV) | 3:38 | 2025-12-18 |  |
 | [Last Valentines](https://open.spotify.com/track/5aX9ocVkS6HqK5orEbsOoe) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [to hell with it](https://open.spotify.com/album/65YAjLCn7Jp33nJpOxIPMe) | 1:13 | 2025-12-18 |  |
+| [Midnight Sun \- Girls Trip](https://open.spotify.com/track/2FHGYrQEmuWGX24QoQtQ13) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Midnight Sun: Girls Trip](https://open.spotify.com/album/4WMcRlbt7NvpKrrqO8ykQf) | 2:51 | 2026-05-03 |  |
 | [Mosquito](https://open.spotify.com/track/3DrkYwyu8QqZQ05r2gGqHi) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Heaven knows](https://open.spotify.com/album/2pOEFqvfxp5uUQ8vQEmVA0) | 2:27 | 2025-12-18 |  |
 | [Nice to Know You](https://open.spotify.com/track/39BYU2nLFR8Q1RcPdVvUMn) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Fancy That](https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y) | 2:50 | 2026-05-02 |  |
 | [Noises + JT](https://open.spotify.com/track/36e4mRTGXQL283nBFSA9Tv) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [Fancy Some More?](https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF) | 2:07 | 2025-12-18 | 2026-05-02 |

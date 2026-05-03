@@ -1,12 +1,12 @@
 {
   "description": "This is Perdidos De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 57102,
+  "num_followers": 57108,
   "original_name": "This Is Perdidos De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afKbgAAAAAAGr77cKvCEZmrZWqXLn2CR",
+  "snapshot_id": "afPtAAAAAACh3RcA/8YFmapRRU5IckLp",
   "tracks": [
     {
       "added_at": null,
@@ -179,22 +179,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Necesito Una Compa\u00f1era",
-        "url": "https://open.spotify.com/album/6USiqLbBUZ6w9ybSVfg8Ol"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 242007,
-      "name": "Necesito Una Compa\u00f1era",
-      "url": "https://open.spotify.com/track/1DSNRtAdbPdW5mxZTtQHAy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Una Explicaci\u00f3n",
         "url": "https://open.spotify.com/album/1YsQ0Xgawr9QGoYkT0S17a"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 186633,
       "name": "Una Explicaci\u00f3n",
       "url": "https://open.spotify.com/track/3WShEgcSur5BNOdf7BUsbZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Necesito Una Compa\u00f1era",
+        "url": "https://open.spotify.com/album/6USiqLbBUZ6w9ybSVfg8Ol"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 242007,
+      "name": "Necesito Una Compa\u00f1era",
+      "url": "https://open.spotify.com/track/1DSNRtAdbPdW5mxZTtQHAy"
     },
     {
       "added_at": null,
@@ -571,22 +571,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pa' Los Dolidos",
-        "url": "https://open.spotify.com/album/1L357zj6NYMkLm7tllhJU0"
+        "name": "En Vivo Desde Los Mochis",
+        "url": "https://open.spotify.com/album/5xYYZzaRo7UfM28KoIYz7W"
       },
       "artists": [
-        {
-          "name": "Laraim",
-          "url": "https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt"
-        },
         {
           "name": "Perdidos De Sinaloa",
           "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
         }
       ],
-      "duration_ms": 161927,
-      "name": "Desaires",
-      "url": "https://open.spotify.com/track/2c1d1PjOoVSh9fNl2bf8K4"
+      "duration_ms": 303297,
+      "name": "Popurri Cumbias - En Vivo",
+      "url": "https://open.spotify.com/track/1zVlsK2V1YCRJt1JPTnDTX"
     },
     {
       "added_at": null,
@@ -607,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo Desde Los Mochis",
-        "url": "https://open.spotify.com/album/5xYYZzaRo7UfM28KoIYz7W"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 303297,
-      "name": "Popurri Cumbias - En Vivo",
-      "url": "https://open.spotify.com/track/1zVlsK2V1YCRJt1JPTnDTX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mis 30 Aniversario (Vol. 2)",
         "url": "https://open.spotify.com/album/3BqOgYXxME54BrztDdurEx"
       },
@@ -639,6 +619,26 @@
       "duration_ms": 202120,
       "name": "Dariel El Sabroso",
       "url": "https://open.spotify.com/track/1xSddOArIP3TskCVjUprYZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pa' Los Dolidos",
+        "url": "https://open.spotify.com/album/1L357zj6NYMkLm7tllhJU0"
+      },
+      "artists": [
+        {
+          "name": "Laraim",
+          "url": "https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt"
+        },
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 161927,
+      "name": "Desaires",
+      "url": "https://open.spotify.com/track/2c1d1PjOoVSh9fNl2bf8K4"
     },
     {
       "added_at": null,
@@ -679,6 +679,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Soy Lo Que Soy",
+        "url": "https://open.spotify.com/album/4kDXhqPRkNQ7cRcxjUHfoK"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 236493,
+      "name": "La Pura Verdad",
+      "url": "https://open.spotify.com/track/1A6TbVMf9EHeMzlBNqlCPY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mis \u00c9xitos Con Mis Amigos, Vol. 1",
         "url": "https://open.spotify.com/album/74R4ROwh0Or5MtheSvbrpi"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 187324,
       "name": "Medias Negras",
       "url": "https://open.spotify.com/track/4NcgmTyfceCTezLUILLfJa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Soy Lo Que Soy",
-        "url": "https://open.spotify.com/album/4kDXhqPRkNQ7cRcxjUHfoK"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 236493,
-      "name": "La Pura Verdad",
-      "url": "https://open.spotify.com/track/1A6TbVMf9EHeMzlBNqlCPY"
     },
     {
       "added_at": null,
@@ -739,22 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quisiera",
-        "url": "https://open.spotify.com/album/6SVYhGiUoRHJHujVXuaEuZ"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 129085,
-      "name": "Quisiera",
-      "url": "https://open.spotify.com/track/42DrhflA3gehVFXXJwi4sG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tira Que Jala (Live)",
         "url": "https://open.spotify.com/album/6tn0gofCUDKRDvyD61nYMy"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 202922,
       "name": "Tira Que Jala - Live",
       "url": "https://open.spotify.com/track/2OZNhRH9Z2oNqLCBz9YeZy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quisiera",
+        "url": "https://open.spotify.com/album/6SVYhGiUoRHJHujVXuaEuZ"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 129085,
+      "name": "Quisiera",
+      "url": "https://open.spotify.com/track/42DrhflA3gehVFXXJwi4sG"
     },
     {
       "added_at": null,
@@ -843,22 +843,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Una Explicaci\u00f3n",
-        "url": "https://open.spotify.com/album/1YsQ0Xgawr9QGoYkT0S17a"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 162178,
-      "name": "La Ramera",
-      "url": "https://open.spotify.com/track/1NskSd8D0NgYAqV9eEaWn0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Soy Lo Que Soy",
         "url": "https://open.spotify.com/album/4kDXhqPRkNQ7cRcxjUHfoK"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 210520,
       "name": "Mi Sueno Seria",
       "url": "https://open.spotify.com/track/06CyL1dXG8jKcha5ZiJh4D"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Una Explicaci\u00f3n",
+        "url": "https://open.spotify.com/album/1YsQ0Xgawr9QGoYkT0S17a"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 162178,
+      "name": "La Ramera",
+      "url": "https://open.spotify.com/track/1NskSd8D0NgYAqV9eEaWn0"
     },
     {
       "added_at": null,

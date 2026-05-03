@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,348 songs - 9 day 15 hr 55 min
+4,351 songs - 9 day 16 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -446,6 +446,7 @@
 | [Brilliant night](https://open.spotify.com/track/0UOSRYX770k308UCVhkquL) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Heavy brillant pop](https://open.spotify.com/album/3Ffd6mJbfnguMhtnsmwebe) | 2:20 | 2025-09-17 |  |
 | [Bring it on](https://open.spotify.com/track/4gIBFS289S6hWPJ1Qi6M34) | [Djmcmurdo](https://open.spotify.com/artist/4Hjnt3RcljIPgATZKkdb2L) | [Bring it on](https://open.spotify.com/album/39Sdx5qLkY5nMZweGvQw9Q) | 2:55 | 2025-04-26 |  |
 | [Bring Me To Life](https://open.spotify.com/track/7zk7HMt6uwycBGKE3eslGO) | [BETHEL](https://open.spotify.com/artist/293nwwNqRa9eUynzHZ93om) | [Bring Me To Life](https://open.spotify.com/album/3KRERjbRpnkTCO2n65B2rG) | 4:36 | 2025-11-07 |  |
+| [Brisa \- Remix](https://open.spotify.com/track/2PHWTnjqM164aoggvhvR05) | [Pokenzo](https://open.spotify.com/artist/2AghPeTSphA59qaxYjaFLR), [ZakeoMUSIC](https://open.spotify.com/artist/0n5KZNNgwFO66Kdq7BfqWr), [Peiro](https://open.spotify.com/artist/0U6CXcvTWoI0KH77dlVHk7), [Enzo Calvo\-Rayo Coronado](https://open.spotify.com/artist/6CdfmbYdYFyo5GguHyAaX5) | [Brisa \(Remix\)](https://open.spotify.com/album/32bjx01F4ET0z9GnauOI3F) | 2:03 | 2026-05-03 |  |
 | [Brisa de mañana](https://open.spotify.com/track/5bG2E3rHNSzSS4IXBbCkvt) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Distancias](https://open.spotify.com/album/0f6YPVRdJql2lBmpkqxxRz) | 3:08 | 2026-04-12 |  |
 | [Broken Algorithm](https://open.spotify.com/track/5nNRvV2tU7tY75LEmmwAdf) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Strange Pop Viral Music](https://open.spotify.com/album/048KvM5YKwazPS89FxIs2d) | 2:45 | 2025-09-19 |  |
 | [Broken Anthems](https://open.spotify.com/track/4Oa1gCstXStiFnFWZYazhX) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Screaming punkrock, melodic hardcore](https://open.spotify.com/album/4RtD0WVAxpM9l5UcPwITHT) | 3:01 | 2025-09-17 |  |
@@ -741,6 +742,7 @@
 | [Coupe De Ville](https://open.spotify.com/track/13o4EK3JgvbR9ztEVHk3lr) | [Paris Heart](https://open.spotify.com/artist/1zd1nUPhQbqxICwQuxNPFA) | [Coupe De Ville](https://open.spotify.com/album/26ngXEYJZ14Jd3PtNJB0NS) | 2:49 | 2025-05-22 |  |
 | [Cowards Live Forever](https://open.spotify.com/track/7EG8qIdqk6xFXll4gPiBFU) | [returnthemap](https://open.spotify.com/artist/6F3N9QmbCAjRGbxTF5Hvug) | [Distractor](https://open.spotify.com/album/0RitxJpTiPwJxZ3UOdygBt) | 5:18 | 2025-04-30 |  |
 | [CQFP](https://open.spotify.com/track/0kGFwSC3rPAoqcx4Hbi7O6) | [Civico97](https://open.spotify.com/artist/4iS1xr1BJF12FN1QWb2A21) | [ЯEWIND](https://open.spotify.com/album/47XFlQXQtC3meDw6qDEV85) | 3:12 | 2025-10-23 |  |
+| [Crash & Burn](https://open.spotify.com/track/1ZyxzmQoyXmjzfcjQNCwUK) | [Gravel State](https://open.spotify.com/artist/230J2QSIILiDyJFcnxAsc3) | [The Long Way Home](https://open.spotify.com/album/6XAWHzo671bBsroOWUJsrU) | 3:09 | 2026-05-03 |  |
 | [Crash and Burn](https://open.spotify.com/track/7tn2Jr0PvUod2vbArG0VcT) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Symphonic pop](https://open.spotify.com/album/55sXe34L5I1rtImXzi4bCR) | 3:34 | 2025-09-13 |  |
 | [Crash and Burn \(another\)](https://open.spotify.com/track/37BHFqndzvW2i8Epnp8MKv) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Symphonic pop](https://open.spotify.com/album/55sXe34L5I1rtImXzi4bCR) | 3:38 | 2025-09-13 |  |
 | [Crash My Mind](https://open.spotify.com/track/4IbSk5RczcidOL0OBY5rIF) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Burn the Night](https://open.spotify.com/album/4Fr9ospcNo6Ml3HCQpQpa1) | 2:06 | 2025-09-12 |  |
@@ -916,6 +918,7 @@
 | [deep down](https://open.spotify.com/track/5I5vatsJd4PPZRNgEMyonX) | [APRIL](https://open.spotify.com/artist/23cdrivHH2nRJCNn0zuSSc) | [deep down](https://open.spotify.com/album/7sdPbYbpSjyz5vZGI2mIfe) | 1:13 | 2025-05-16 |  |
 | [Deep Down](https://open.spotify.com/track/1T38O6C6ZoZ6vjDSrDy6Eo) | [Riptide River](https://open.spotify.com/artist/34jMmxTuTBIR5DnbUE9AkX) | [Overdrive](https://open.spotify.com/album/2enRTMrOe25fNz0EtZ3rBp) | 3:25 | 2025-09-26 |  |
 | [Del amor](https://open.spotify.com/track/3sF7J0py0ME0auMHyW4kzi) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Implosión](https://open.spotify.com/album/3rRQZEQ63Ss2zuGnLRQJfV) | 1:54 | 2026-03-15 |  |
+| [Del Odio Al Amor](https://open.spotify.com/track/1kmpfz6ZPnXrPMS8EQetzX) | [Jumpen Daniel](https://open.spotify.com/artist/1cRpMLp1aO4V7HvOBAJfk0) | [Del Odio Al Amor](https://open.spotify.com/album/39UPCNkZSt9B8AdrvDCQqd) | 2:03 | 2026-05-03 |  |
 | [Del Otro Lado](https://open.spotify.com/track/1sXtzJyluZo3Gu9Tf9YbxI) | [VKT´s](https://open.spotify.com/artist/1qOiDXpZ89u1u9GqenW4Tf) | [Del Otro Lado](https://open.spotify.com/album/3rVlNTxDyv4VgSFbiRe6kw) | 4:03 | 2025-07-03 |  |
 | [Del Vento e del Mare](https://open.spotify.com/track/6MYlXzQPjNJnbKq38sghjO) | [Zelda Mab](https://open.spotify.com/artist/3tRheBiXq85niJZd1pN84U) | [Del Vento e Del Mare](https://open.spotify.com/album/3xp0BaxuhpqvLlCaJpcCAc) | 3:32 | 2025-07-16 |  |
 | [Deleted Scene](https://open.spotify.com/track/6vwhJXOIw18NgLGYHeQxJp) | [Rustwire](https://open.spotify.com/artist/1otZhLsBCp9q7qIB00BKfV) | [Fangs Out](https://open.spotify.com/album/0OZFuVbxAS9ZiWudjyT8aL) | 3:38 | 2025-09-06 |  |

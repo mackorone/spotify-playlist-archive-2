@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Arriesgado. The essential tracks, all in one playlist.",
-  "num_followers": 117815,
+  "num_followers": 117822,
   "original_name": "This Is Grupo Arriesgado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afKbgAAAAADalng/pDPQPA1DcJQWJPF4",
+  "snapshot_id": "afPtAAAAAADxoAA2uS5xAt0cU5Trf1lQ",
   "tracks": [
     {
       "added_at": null,
@@ -135,6 +135,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Enloquecido",
+        "url": "https://open.spotify.com/album/0EJAIyji48E8bZssj8PW5X"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 212915,
+      "name": "Enloquecido",
+      "url": "https://open.spotify.com/track/2BFkgLkT6KZcq8mmzL29FQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rosas",
         "url": "https://open.spotify.com/album/0OIdc0aQSkDtXUuywx55OP"
       },
@@ -151,8 +167,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Enloquecido",
-        "url": "https://open.spotify.com/album/0EJAIyji48E8bZssj8PW5X"
+        "name": "Modo Avi\u00f3n",
+        "url": "https://open.spotify.com/album/1F6y9lcC4AEvZPr2rJ7ttJ"
       },
       "artists": [
         {
@@ -160,9 +176,9 @@
           "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
         }
       ],
-      "duration_ms": 212915,
-      "name": "Enloquecido",
-      "url": "https://open.spotify.com/track/2BFkgLkT6KZcq8mmzL29FQ"
+      "duration_ms": 185888,
+      "name": "Modo Avi\u00f3n",
+      "url": "https://open.spotify.com/track/2exsTwrXYMCsZfW08n249n"
     },
     {
       "added_at": null,
@@ -187,8 +203,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Modo Avi\u00f3n",
-        "url": "https://open.spotify.com/album/1F6y9lcC4AEvZPr2rJ7ttJ"
+        "name": "Enloquecido",
+        "url": "https://open.spotify.com/album/0EJAIyji48E8bZssj8PW5X"
       },
       "artists": [
         {
@@ -196,9 +212,9 @@
           "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
         }
       ],
-      "duration_ms": 185888,
-      "name": "Modo Avi\u00f3n",
-      "url": "https://open.spotify.com/track/2exsTwrXYMCsZfW08n249n"
+      "duration_ms": 169145,
+      "name": "El Fugitivo",
+      "url": "https://open.spotify.com/track/3Db1xGEZfxU7mMDBPUH0R6"
     },
     {
       "added_at": null,
@@ -219,22 +235,6 @@
       "duration_ms": 152789,
       "name": "Nunca Me Quisiste",
       "url": "https://open.spotify.com/track/0a5dX4BSWeqk9N5AUyZdGf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Enloquecido",
-        "url": "https://open.spotify.com/album/0EJAIyji48E8bZssj8PW5X"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 169145,
-      "name": "El Fugitivo",
-      "url": "https://open.spotify.com/track/3Db1xGEZfxU7mMDBPUH0R6"
     },
     {
       "added_at": null,
@@ -271,6 +271,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pistiando Con Mi Tata, Vol. 1 (En Vivo)",
+        "url": "https://open.spotify.com/album/7hNQQRF3XiRDSVvkC4l4bI"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 167211,
+      "name": "Celos Del Viento - En Vivo",
+      "url": "https://open.spotify.com/track/1Ezd3Feu5bZUCHAglnTtHe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Serafin Zambada",
         "url": "https://open.spotify.com/album/4F2fbkwSDTWxX9s2ThmRCt"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 128933,
       "name": "Serafin Zambada",
       "url": "https://open.spotify.com/track/6xelfxDNolbBvTbpHMtNrs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pistiando Con Mi Tata, Vol. 1 (En Vivo)",
-        "url": "https://open.spotify.com/album/7hNQQRF3XiRDSVvkC4l4bI"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 167211,
-      "name": "Celos Del Viento - En Vivo",
-      "url": "https://open.spotify.com/track/1Ezd3Feu5bZUCHAglnTtHe"
     },
     {
       "added_at": null,
@@ -367,26 +367,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Se\u00f1or De La Monta\u00f1a",
-        "url": "https://open.spotify.com/album/3yJ7amzvZuunZNifBM6KNl"
+        "name": "Pistiando Con Mi Tata, Vol. 1 (En Vivo)",
+        "url": "https://open.spotify.com/album/7hNQQRF3XiRDSVvkC4l4bI"
       },
       "artists": [
         {
-          "name": "Pityn Toys",
-          "url": "https://open.spotify.com/artist/4TtLUMMoVnPMMGZ2ljNZzF"
-        },
-        {
           "name": "Grupo Arriesgado",
           "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        },
-        {
-          "name": "KC Music",
-          "url": "https://open.spotify.com/artist/7akKJbX2GFFxz73zaL3zZ0"
         }
       ],
-      "duration_ms": 145600,
-      "name": "El Se\u00f1or De La Monta\u00f1a",
-      "url": "https://open.spotify.com/track/1rjI7wcOffMI560HsHU5q7"
+      "duration_ms": 162047,
+      "name": "El Mochomo - En Vivo",
+      "url": "https://open.spotify.com/track/12wXSVnqH4FK0S4jQs9jhK"
     },
     {
       "added_at": null,
@@ -411,18 +403,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pistiando Con Mi Tata, Vol. 1 (En Vivo)",
-        "url": "https://open.spotify.com/album/7hNQQRF3XiRDSVvkC4l4bI"
+        "name": "El Se\u00f1or De La Monta\u00f1a",
+        "url": "https://open.spotify.com/album/3yJ7amzvZuunZNifBM6KNl"
       },
       "artists": [
         {
+          "name": "Pityn Toys",
+          "url": "https://open.spotify.com/artist/4TtLUMMoVnPMMGZ2ljNZzF"
+        },
+        {
           "name": "Grupo Arriesgado",
           "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        },
+        {
+          "name": "KC Music",
+          "url": "https://open.spotify.com/artist/7akKJbX2GFFxz73zaL3zZ0"
         }
       ],
-      "duration_ms": 162047,
-      "name": "El Mochomo - En Vivo",
-      "url": "https://open.spotify.com/track/12wXSVnqH4FK0S4jQs9jhK"
+      "duration_ms": 145600,
+      "name": "El Se\u00f1or De La Monta\u00f1a",
+      "url": "https://open.spotify.com/track/1rjI7wcOffMI560HsHU5q7"
     },
     {
       "added_at": null,
@@ -479,6 +479,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "El R\u00e1pido (En vivo)",
+        "url": "https://open.spotify.com/album/29fxzSLm7MgZ8rJz4fJOef"
+      },
+      "artists": [
+        {
+          "name": "Gordo Arce",
+          "url": "https://open.spotify.com/artist/00v3sw4z0wRS94vVPNQLU7"
+        },
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        },
+        {
+          "name": "KC Music",
+          "url": "https://open.spotify.com/artist/7akKJbX2GFFxz73zaL3zZ0"
+        }
+      ],
+      "duration_ms": 208405,
+      "name": "El R\u00e1pido - En vivo",
+      "url": "https://open.spotify.com/track/130anijBVOTasF32ZHwuJi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Resiliencia",
         "url": "https://open.spotify.com/album/2UEVtNtjdV9m8GXYVLm7Ve"
       },
@@ -511,30 +535,6 @@
       "duration_ms": 168317,
       "name": "De Aqui Soy",
       "url": "https://open.spotify.com/track/4JB95jzbRRnCvcW4mA0Qel"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El R\u00e1pido (En vivo)",
-        "url": "https://open.spotify.com/album/29fxzSLm7MgZ8rJz4fJOef"
-      },
-      "artists": [
-        {
-          "name": "Gordo Arce",
-          "url": "https://open.spotify.com/artist/00v3sw4z0wRS94vVPNQLU7"
-        },
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        },
-        {
-          "name": "KC Music",
-          "url": "https://open.spotify.com/artist/7akKJbX2GFFxz73zaL3zZ0"
-        }
-      ],
-      "duration_ms": 208405,
-      "name": "El R\u00e1pido - En vivo",
-      "url": "https://open.spotify.com/track/130anijBVOTasF32ZHwuJi"
     },
     {
       "added_at": null,
@@ -811,22 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Resiliencia",
-        "url": "https://open.spotify.com/album/2UEVtNtjdV9m8GXYVLm7Ve"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 140608,
-      "name": "Diosa Griega",
-      "url": "https://open.spotify.com/track/2hoFmWhpgL4S9VV1AbApMS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pisteando Entre Amigos (En Vivo)",
         "url": "https://open.spotify.com/album/6LX4xXXcu3GuO8mpMCwWKo"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 142341,
       "name": "El Amor No Es Para Todos",
       "url": "https://open.spotify.com/track/1BXBnjxEZOnKXbWWTVFvcj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Resiliencia",
+        "url": "https://open.spotify.com/album/2UEVtNtjdV9m8GXYVLm7Ve"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 140608,
+      "name": "Diosa Griega",
+      "url": "https://open.spotify.com/track/2hoFmWhpgL4S9VV1AbApMS"
     },
     {
       "added_at": null,

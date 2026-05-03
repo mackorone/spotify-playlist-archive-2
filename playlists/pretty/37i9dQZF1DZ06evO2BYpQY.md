@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2BYpQY.md) - [plain]
 
 > This is Sinéad O'Connor\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,155 likes - 50 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,159 likes - 50 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2BYpQY.md) - [plain]
 | 36 | [Streets of London](https://open.spotify.com/track/2REVdfWC59yWAzWFai0AVg) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Thank You for Hearing Me](https://open.spotify.com/album/1IRGD7Q4rBHAJrWgDwdujG) | 4:12 |
 | 37 | [Emma's Song](https://open.spotify.com/track/3Kb03eFRK4Uf35zaT8sx41) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Faith and Courage](https://open.spotify.com/album/0ITyzBRmAMnwt8FwtkSu0d) | 3:21 |
 | 38 | [Take Me to Church](https://open.spotify.com/track/6JTxcKyKE5LUOv918ll0NE) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [I'm Not Bossy, I'm the Boss \(Deluxe Version\)](https://open.spotify.com/album/7DYDA9YjcBUsVrcwR2Xaek) | 3:01 |
-| 39 | [Why Don't You Do Right](https://open.spotify.com/track/2EMPJ6nGifr0TUGm2FFzCZ) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Am I Not Your Girl?](https://open.spotify.com/album/36G5Yxs26PEzUxSGUiAaIn) | 2:30 |
-| 40 | [Don't Give Up \(feat\. Sinéad O'Connor\)](https://open.spotify.com/track/2mpoL077tfqBaEKZkPUOsM) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Across The Borderline](https://open.spotify.com/album/1muFplXWqYYvymuFr3AExp) | 6:58 |
+| 39 | [Don't Give Up \(feat\. Sinéad O'Connor\)](https://open.spotify.com/track/2mpoL077tfqBaEKZkPUOsM) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Across The Borderline](https://open.spotify.com/album/1muFplXWqYYvymuFr3AExp) | 6:58 |
+| 40 | [Why Don't You Do Right](https://open.spotify.com/track/2EMPJ6nGifr0TUGm2FFzCZ) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Am I Not Your Girl?](https://open.spotify.com/album/36G5Yxs26PEzUxSGUiAaIn) | 2:30 |
 | 41 | [Scorn Not His Simplicity](https://open.spotify.com/track/3t9k5C5AO49ca0IqBWj26y) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Universal Mother](https://open.spotify.com/album/7u20BJTgQrowjyaTEgE46p) | 4:26 |
 | 42 | [8 Good Reasons](https://open.spotify.com/track/1rR5AIcFxtDFTfXIdHU7FN) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [I'm Not Bossy, I'm the Boss \(Deluxe Version\)](https://open.spotify.com/album/7DYDA9YjcBUsVrcwR2Xaek) | 3:26 |
 | 43 | [I’ll Be Singing](https://open.spotify.com/track/3bBOiHYE2XI7lO1Eoa31zT) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Wild Mountain Thyme \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Ump0HCFMKZw7249P3JMFm) | 3:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2BYpQY.md) - [plain]
 | 49 | [Success Has Made a Failure of Our Home](https://open.spotify.com/track/62iX2QkIqloxz2ottFUq9u) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Am I Not Your Girl?](https://open.spotify.com/album/36G5Yxs26PEzUxSGUiAaIn) | 4:27 |
 | 50 | ['Til I Whisper U Something](https://open.spotify.com/track/3fythc7lktmU8X0mHNC61K) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Faith and Courage](https://open.spotify.com/album/0ITyzBRmAMnwt8FwtkSu0d) | 6:07 |
 
-Snapshot ID: `afKbgAAAAAAZqkWilZPDT9oIw2AhvDKk`
+Snapshot ID: `afPtAAAAAAB9zEXKUIWbV2tRBy44fH0s`

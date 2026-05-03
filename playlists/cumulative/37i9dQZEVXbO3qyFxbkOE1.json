@@ -13782,7 +13782,7 @@
       ],
       "date_added": "2023-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 226298,
       "name": "LAS NOCHES",
       "url": "https://open.spotify.com/track/0uQhDYHyoZe5DpncrPolb6"
@@ -15295,6 +15295,28 @@
     },
     {
       "album": {
+        "name": "MALASNOTICIAS.",
+        "url": "https://open.spotify.com/album/76HEOpvvIpymofngK3tRSE"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        },
+        {
+          "name": "LATIN MAFIA",
+          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196920,
+      "name": "MALASNOTICIAS.",
+      "url": "https://open.spotify.com/track/5W1bHlFGv5jJw1xyWQJlrJ"
+    },
+    {
+      "album": {
         "name": "MALEDUCADO",
         "url": "https://open.spotify.com/album/6lUUo7CpyEPN5zKUDJ1hmM"
       },
@@ -15852,7 +15874,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 205714,
       "name": "Me Reh\u00faso",
       "url": "https://open.spotify.com/track/6ifUES3keWjwXgae8pXI3o"
@@ -18894,6 +18916,24 @@
       "duration_ms": 149538,
       "name": "PASAJERO",
       "url": "https://open.spotify.com/track/1uFAI2C6r3YBQmXCAPGzZv"
+    },
+    {
+      "album": {
+        "name": "PASE Y PASE",
+        "url": "https://open.spotify.com/album/7z9NCCZBv2lnejkFRlUlAm"
+      },
+      "artists": [
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181149,
+      "name": "PASE Y PASE",
+      "url": "https://open.spotify.com/track/3UI9nM0xrI0ywhqoZQvLFt"
     },
     {
       "album": {

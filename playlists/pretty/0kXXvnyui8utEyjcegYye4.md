@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0kXXvnyui8utEyjcegYye4.md) - [plain]
 
 > 
 
-[briannabalen](https://open.spotify.com/user/lewcz7zj2xr0jhm7vpwcfkec6) - 0 likes - 356 songs - 21 hr 2 min
+[briannabalen](https://open.spotify.com/user/lewcz7zj2xr0jhm7vpwcfkec6) - 0 likes - 357 songs - 21 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -364,5 +364,6 @@ pretty - [cumulative](/playlists/cumulative/0kXXvnyui8utEyjcegYye4.md) - [plain]
 | 354 | [MONTAGEM ALQUIMIA \- SLOWED](https://open.spotify.com/track/0vmFuEhyHR8SbOhDFq021Y) | [h6itam](https://open.spotify.com/artist/0exQbKNFd9pLmdIGycwmlf), [n7san7os](https://open.spotify.com/artist/3cvsBiWPwn1oVpKCeGBev9), [Mc Menor Do Alvorada](https://open.spotify.com/artist/0ivrHNM8urVaCkgRX8rtKH) | [MONTAGEM ALQUIMIA](https://open.spotify.com/album/0N6Xm4YHBgSx1NGUCs4L7X) | 1:53 |
 | 355 | [The Sun Comes Up Tremendous](https://open.spotify.com/track/4xOUoPT3YjHnwzOFycXXjU) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [The Sun Comes Up Tremendous](https://open.spotify.com/album/7ky5M7uzAkPGBbHLgvCKZB) | 3:33 |
 | 356 | [desire machine](https://open.spotify.com/track/6XlyQPkdsBJsFxIC7yICXh) | [spirit blue](https://open.spotify.com/artist/49JcjxYnQNsELWLqtzIycx) | [ps / dm](https://open.spotify.com/album/1MLE2PAPlgYvN9yKfbzcCN) | 3:50 |
+| 357 | [Give You Up \(feat\. Alex Clare\)](https://open.spotify.com/track/692ysOUhsvSSQcoeXcel7l) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Alex Clare](https://open.spotify.com/artist/5Tf4EH8tDvznnjULcFxkIl) | [Home \(10th Anniversary Edition\)](https://open.spotify.com/album/3k5awyxfflQsiCRuwUfbm3) | 5:01 |
 
-Snapshot ID: `AAADoGIIiyDiNLipEgutqPuBXam2N6Q2`
+Snapshot ID: `AAADof/yhCtskRwTDIZHJ0qoDJ4WuH4a`

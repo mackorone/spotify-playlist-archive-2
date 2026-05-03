@@ -1,12 +1,12 @@
 {
   "description": "This is Mon Laferte. The essential tracks, all in one playlist.",
-  "num_followers": 782801,
+  "num_followers": 782949,
   "original_name": "This Is Mon Laferte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afKbgAAAAAB+6gSiu3qnznQGHStq3U7V",
+  "snapshot_id": "afPtAAAAAAAMRu1x7U8GrA6FCEKwI2mW",
   "tracks": [
     {
       "added_at": null,
@@ -743,6 +743,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sola Con Mis Monstruos (En Vivo, Desde El Lunario del Auditorio Nacional)",
+        "url": "https://open.spotify.com/album/2LSgqfMmdZ95wXHvSqun4Q"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 273693,
+      "name": "Por Qu\u00e9 Me Fui A Enamorar de Ti - En Vivo, Desde El Lunario del Auditorio Nacional",
+      "url": "https://open.spotify.com/track/0mqasl5sulqcKTBLJxdZnB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cosa Nuestra: Cap\u00edtulo 0",
         "url": "https://open.spotify.com/album/752aUI4EPYOGrNuo74pmCR"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 224650,
       "name": "Callej\u00f3n de los Secretos",
       "url": "https://open.spotify.com/track/1hFyhyZygYYD35G2cEuwR0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sola Con Mis Monstruos (En Vivo, Desde El Lunario del Auditorio Nacional)",
-        "url": "https://open.spotify.com/album/2LSgqfMmdZ95wXHvSqun4Q"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 273693,
-      "name": "Por Qu\u00e9 Me Fui A Enamorar de Ti - En Vivo, Desde El Lunario del Auditorio Nacional",
-      "url": "https://open.spotify.com/track/0mqasl5sulqcKTBLJxdZnB"
     },
     {
       "added_at": null,

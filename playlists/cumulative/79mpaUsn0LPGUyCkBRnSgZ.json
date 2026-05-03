@@ -1913,6 +1913,24 @@
     },
     {
       "album": {
+        "name": "Backseat",
+        "url": "https://open.spotify.com/album/7zE0PXIJKroQxHt6oVvA8G"
+      },
+      "artists": [
+        {
+          "name": "Third Attempt",
+          "url": "https://open.spotify.com/artist/3jI8E89g0xxRPU8tgYgyWD"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222583,
+      "name": "Backseat",
+      "url": "https://open.spotify.com/track/1JuEY1JagyaMt8EtmhGjR0"
+    },
+    {
+      "album": {
         "name": "Funcrusher Plus",
         "url": "https://open.spotify.com/album/3010pCoYlw3arCbTroajyB"
       },

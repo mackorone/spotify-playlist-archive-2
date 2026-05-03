@@ -63,6 +63,24 @@
     },
     {
       "album": {
+        "name": "24/7",
+        "url": "https://open.spotify.com/album/2z5quznnIIbXoNhNelaFWP"
+      },
+      "artists": [
+        {
+          "name": "eydrey",
+          "url": "https://open.spotify.com/artist/084shETK0ucyuDz0qpCxV4"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178022,
+      "name": "24/7",
+      "url": "https://open.spotify.com/track/3Tsf8uT2BbrUcU3xD0IpLy"
+    },
+    {
+      "album": {
         "name": "3 Consejos",
         "url": "https://open.spotify.com/album/0n3NogLDNZRwsU22lD7Q0c"
       },
@@ -3840,6 +3858,24 @@
       "duration_ms": 192540,
       "name": "Fan de Su Relaci\u00f3n",
       "url": "https://open.spotify.com/track/1mAhrhjWDdwWArEYvMHthd"
+    },
+    {
+      "album": {
+        "name": "Fantasmas",
+        "url": "https://open.spotify.com/album/7vIIbDGMAZLFi8K7JTTK3l"
+      },
+      "artists": [
+        {
+          "name": "MXKA",
+          "url": "https://open.spotify.com/artist/4nLdZ0ohtx0T20E82Gq6UO"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176596,
+      "name": "Fantasmas",
+      "url": "https://open.spotify.com/track/4YJNPeRCk9WVmfAt7UHbQf"
     },
     {
       "album": {
@@ -7892,7 +7928,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 171758,
       "name": "No Quiero Estar",
       "url": "https://open.spotify.com/track/75JnZVzj1qX2XEfdiXtRJ6"
@@ -8752,7 +8788,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 164460,
       "name": "Playa Sola",
       "url": "https://open.spotify.com/track/0aiT7asptX1UK7v2HIi7k4"

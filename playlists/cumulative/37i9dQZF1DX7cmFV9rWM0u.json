@@ -1026,7 +1026,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 139161,
       "name": "Cria y Calle",
       "url": "https://open.spotify.com/track/6ZSNc3zpS6tenHd0jjG4P4"
@@ -2078,7 +2078,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 147201,
       "name": "Funk Rave",
       "url": "https://open.spotify.com/track/6vH8KKSB66dcnCw00N5K0R"
@@ -3013,6 +3013,24 @@
     },
     {
       "album": {
+        "name": "MALA M\u00cdA",
+        "url": "https://open.spotify.com/album/6ZYoo3O9M6FJ2theYpsZSJ"
+      },
+      "artists": [
+        {
+          "name": "Kat Deluna",
+          "url": "https://open.spotify.com/artist/0bOlhT8OcoC1lCpN69NcFP"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163869,
+      "name": "MALA M\u00cdA",
+      "url": "https://open.spotify.com/track/2ptQrhGlBY7qVMm8VbuAY8"
+    },
+    {
+      "album": {
         "name": "Maldad",
         "url": "https://open.spotify.com/album/2Pgu9J1194NsIU2dJSlXYO"
       },
@@ -3140,7 +3158,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 150485,
       "name": "Maradona (Tatara)",
       "url": "https://open.spotify.com/track/3P8siIOHzjtOA8oCglURzL"
@@ -3398,6 +3416,24 @@
       "duration_ms": 158804,
       "name": "Monoton\u00eda",
       "url": "https://open.spotify.com/track/6G12ZafqofSq7YtrMqUm76"
+    },
+    {
+      "album": {
+        "name": "Move ya body",
+        "url": "https://open.spotify.com/album/2bSkRK63ZE2VFHtxua1p19"
+      },
+      "artists": [
+        {
+          "name": "Magic Juan",
+          "url": "https://open.spotify.com/artist/4MKKSJyNbrGSBodc8R7vPK"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164705,
+      "name": "Move ya body",
+      "url": "https://open.spotify.com/track/7oGWLLJg0hrqTTbO3pS4Rl"
     },
     {
       "album": {
@@ -4770,6 +4806,36 @@
       "duration_ms": 169526,
       "name": "Sata",
       "url": "https://open.spotify.com/track/62Ivi1ONWg0DU125ZeOk5k"
+    },
+    {
+      "album": {
+        "name": "Se Le Pega",
+        "url": "https://open.spotify.com/album/7lV9Bl5j2BFWffrwa3m8WC"
+      },
+      "artists": [
+        {
+          "name": "DJ PEREIRA",
+          "url": "https://open.spotify.com/artist/56wdeN8OMcYrcKA8nWCkRD"
+        },
+        {
+          "name": "El Pepo Show",
+          "url": "https://open.spotify.com/artist/12DrMYv3haAHRxjWzxVRFB"
+        },
+        {
+          "name": "Boy Wonder CF",
+          "url": "https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF"
+        },
+        {
+          "name": "The Chosen Few",
+          "url": "https://open.spotify.com/artist/2HOZmbv4saI1WELN907XSN"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158316,
+      "name": "Se Le Pega",
+      "url": "https://open.spotify.com/track/0WVhcFiT3XkjfGHMUBmKia"
     },
     {
       "album": {

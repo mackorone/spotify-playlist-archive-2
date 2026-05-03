@@ -1,12 +1,12 @@
 {
   "description": "This is Yseult. The essential tracks, all in one playlist.",
-  "num_followers": 17890,
+  "num_followers": 17892,
   "original_name": "This Is Yseult",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afKbgAAAAACQarF9LDJ1uZfKQOy2li5U",
+  "snapshot_id": "afPtAAAAAACMKSt4/dOK/jZvoBKNYzG4",
   "tracks": [
     {
       "added_at": null,
@@ -439,34 +439,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alibi Pt. 3 (with Jonita Gandhi, Rusha & Blizza, Pabllo Vittar & Yseult)",
-        "url": "https://open.spotify.com/album/1Ha2M1Be1iDXtWOfAPBxhp"
+        "name": "Radio Kitchen EP",
+        "url": "https://open.spotify.com/album/3lTog86YTvMGrVeZtJrWP5"
       },
       "artists": [
         {
-          "name": "Sevdaliza",
-          "url": "https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie"
-        },
-        {
-          "name": "Jonita Gandhi",
-          "url": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
-        },
-        {
-          "name": "Rusha & Blizza",
-          "url": "https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI"
+          "name": "Puggy",
+          "url": "https://open.spotify.com/artist/1BNQnTVxfQqeMxr6xBi8X6"
         },
         {
           "name": "Yseult",
           "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
-        },
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
         }
       ],
-      "duration_ms": 187086,
-      "name": "Alibi Pt. 3 (with Jonita Gandhi, Rusha & Blizza, Pabllo Vittar & Yseult)",
-      "url": "https://open.spotify.com/track/6hMU7eUsEX5HWVRLTIGw6Y"
+      "duration_ms": 205746,
+      "name": "Lost Child",
+      "url": "https://open.spotify.com/track/4DmpRr6LwSvMun4NNZMESh"
     },
     {
       "added_at": null,
@@ -503,22 +491,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Radio Kitchen EP",
-        "url": "https://open.spotify.com/album/3lTog86YTvMGrVeZtJrWP5"
+        "name": "Alibi Pt. 3 (with Jonita Gandhi, Rusha & Blizza, Pabllo Vittar & Yseult)",
+        "url": "https://open.spotify.com/album/1Ha2M1Be1iDXtWOfAPBxhp"
       },
       "artists": [
         {
-          "name": "Puggy",
-          "url": "https://open.spotify.com/artist/1BNQnTVxfQqeMxr6xBi8X6"
+          "name": "Sevdaliza",
+          "url": "https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie"
+        },
+        {
+          "name": "Jonita Gandhi",
+          "url": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
+        },
+        {
+          "name": "Rusha & Blizza",
+          "url": "https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI"
         },
         {
           "name": "Yseult",
           "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
         }
       ],
-      "duration_ms": 205746,
-      "name": "Lost Child",
-      "url": "https://open.spotify.com/track/4DmpRr6LwSvMun4NNZMESh"
+      "duration_ms": 187086,
+      "name": "Alibi Pt. 3 (with Jonita Gandhi, Rusha & Blizza, Pabllo Vittar & Yseult)",
+      "url": "https://open.spotify.com/track/6hMU7eUsEX5HWVRLTIGw6Y"
     },
     {
       "added_at": null,

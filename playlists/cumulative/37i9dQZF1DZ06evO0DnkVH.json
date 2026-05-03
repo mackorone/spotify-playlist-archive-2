@@ -160,7 +160,7 @@
       ],
       "date_added": "2026-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 285960,
       "name": "Deeper Understanding - 2018 Remaster",
       "url": "https://open.spotify.com/track/0IYowUndxZq0g05YBz2f7H"
@@ -542,6 +542,24 @@
       "duration_ms": 509200,
       "name": "Nocturn - 2018 Remaster",
       "url": "https://open.spotify.com/track/72PLLUXivN0B79cmjcqJgo"
+    },
+    {
+      "album": {
+        "name": "Lionheart (2018 Remaster)",
+        "url": "https://open.spotify.com/album/2CRirDu87zmvr01X8MkcQ8"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "date_added": "2026-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192200,
+      "name": "Oh England My Lionheart - 2018 Remaster",
+      "url": "https://open.spotify.com/track/1x8tSDNiQQdGSljjcsOOus"
     },
     {
       "album": {

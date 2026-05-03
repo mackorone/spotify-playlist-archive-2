@@ -1,12 +1,12 @@
 {
   "description": "Random AF.... Huge playlist to brighten long days, from all genres. Shuffle it! New music added DAILY :) www.avondalerecords.com",
-  "num_followers": 1320,
+  "num_followers": 1324,
   "original_name": "Shuffle Roulette",
   "owner": {
     "name": "Avondale Records",
     "url": "https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq"
   },
-  "snapshot_id": "AAAOsNh9dCd7oq0D6q5JHvnFqTgd45Tq",
+  "snapshot_id": "AAAOttD54OxXrOGCwpe9in8NRfQwRLl0",
   "tracks": [
     {
       "added_at": "2026-04-23 04:57:04",
@@ -1935,22 +1935,6 @@
       "duration_ms": 142134,
       "name": "I Don't Wanna Live (Like This)",
       "url": "https://open.spotify.com/track/3mTmi5qB1mPGvI4JR8BTha"
-    },
-    {
-      "added_at": "2026-04-01 15:25:36",
-      "album": {
-        "name": "alien.",
-        "url": "https://open.spotify.com/album/0ZX5IAFtcRr57vCQeOahW8"
-      },
-      "artists": [
-        {
-          "name": "ZERO SUN",
-          "url": "https://open.spotify.com/artist/0pqgsjsIkLSJ4SLJZ4nYFB"
-        }
-      ],
-      "duration_ms": 229139,
-      "name": "alien.",
-      "url": "https://open.spotify.com/track/0MqgKaj6vvWdoCn8w75w10"
     },
     {
       "added_at": "2026-03-31 11:19:08",
@@ -4761,6 +4745,22 @@
       "url": "https://open.spotify.com/track/3hhlRXxj0u1VfsiWAHa55Y"
     },
     {
+      "added_at": "2026-04-29 12:41:03",
+      "album": {
+        "name": "Unbreakable",
+        "url": "https://open.spotify.com/album/5mtDADisRmMc9JgCrEwQMO"
+      },
+      "artists": [
+        {
+          "name": "Backbite",
+          "url": "https://open.spotify.com/artist/190tXONoWX8WcoveP8RuLL"
+        }
+      ],
+      "duration_ms": 240877,
+      "name": "Unbreakable",
+      "url": "https://open.spotify.com/track/5D7RAguYiG8VYocqgaCt25"
+    },
+    {
       "added_at": "2026-05-01 10:35:16",
       "album": {
         "name": "Game On",
@@ -4841,22 +4841,6 @@
       "url": "https://open.spotify.com/track/0LFBLhgHho67qvzexB2NpV"
     },
     {
-      "added_at": "2026-04-29 12:41:03",
-      "album": {
-        "name": "Unbreakable",
-        "url": "https://open.spotify.com/album/5mtDADisRmMc9JgCrEwQMO"
-      },
-      "artists": [
-        {
-          "name": "Backbite",
-          "url": "https://open.spotify.com/artist/190tXONoWX8WcoveP8RuLL"
-        }
-      ],
-      "duration_ms": 240877,
-      "name": "Unbreakable",
-      "url": "https://open.spotify.com/track/5D7RAguYiG8VYocqgaCt25"
-    },
-    {
       "added_at": "2026-05-01 14:11:07",
       "album": {
         "name": "A Message From Your CEO",
@@ -4919,6 +4903,58 @@
       "duration_ms": 217429,
       "name": "Haunted",
       "url": "https://open.spotify.com/track/7zoHmY3t1BKRyRADFjiK3P"
+    },
+    {
+      "added_at": "2026-05-02 09:52:56",
+      "album": {
+        "name": "Reaching Out",
+        "url": "https://open.spotify.com/album/0G52nGcTwICAyvNBCCRd9H"
+      },
+      "artists": [
+        {
+          "name": "hndhld",
+          "url": "https://open.spotify.com/artist/6sya4rNfv20ig1NefUjOXC"
+        },
+        {
+          "name": "Jake Vera",
+          "url": "https://open.spotify.com/artist/0fugVpgpowLO9coAvpgRvP"
+        }
+      ],
+      "duration_ms": 193751,
+      "name": "Reaching Out",
+      "url": "https://open.spotify.com/track/5l6QVU6SoDCdaPKDKwpguy"
+    },
+    {
+      "added_at": "2026-05-02 09:52:43",
+      "album": {
+        "name": "Fool Me Once",
+        "url": "https://open.spotify.com/album/7ESSIBPOhwoEODxhliTc9y"
+      },
+      "artists": [
+        {
+          "name": "Citylightz",
+          "url": "https://open.spotify.com/artist/3Bz1JVhGEwBK6iIHHx7M7o"
+        }
+      ],
+      "duration_ms": 255429,
+      "name": "Fool Me Once",
+      "url": "https://open.spotify.com/track/4dTbP1S5C29caRp4fsaNyv"
+    },
+    {
+      "added_at": "2026-05-02 09:52:25",
+      "album": {
+        "name": "Tanzt mit mir",
+        "url": "https://open.spotify.com/album/19FUWJ7gwETtier4fAOpXQ"
+      },
+      "artists": [
+        {
+          "name": "Pro|Contra",
+          "url": "https://open.spotify.com/artist/3lpOrZS6jyCQVFQD01Usf0"
+        }
+      ],
+      "duration_ms": 219789,
+      "name": "Tanzt mit mir",
+      "url": "https://open.spotify.com/track/2jjw1QuN1pdPGXgQnjjygt"
     }
   ],
   "unique_name": "Shuffle Roulette",

@@ -4,7 +4,7 @@
 
 > Lmao \-.\-
 
-501 songs - 1 day 5 hr 13 min
+502 songs - 1 day 5 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -494,6 +494,7 @@
 | [薔薇は美しく散る](https://open.spotify.com/track/6RhRXYnuXBiGWgqhGQGqz8) | [LAREINE](https://open.spotify.com/artist/2w3S57NmAGnZwqC1ATXxDP) | [LILLILLIE CHARLOTTE within MetamorphoseLIE CHARLOTTE](https://open.spotify.com/album/6qbq1zVhBAnsTgiupg8obS) | 3:31 | 2025-09-25 |  |
 | [虚像のCarousel](https://open.spotify.com/track/2FCkgW3vOc3IvpOCd0LJMT) | [Mori Calliope](https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8), [Reol](https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ) | [虚像のCarousel](https://open.spotify.com/album/4HnTbIJinqxIvnHeIBaJv6) | 3:48 | 2023-08-06 |  |
 | [蜜月アン・ドゥ・トロワ](https://open.spotify.com/track/5NqbWhWvnOVbWgkBS3gyhM) | [Ryo\-kun](https://open.spotify.com/artist/3WtpN29KizqR4NjuJGx6jE) | [Re:alize](https://open.spotify.com/album/4eE5jhzVkqd9smfhX1aUNy) | 4:10 | 2024-01-22 |  |
+| [行列のできるえーりん診療所](https://open.spotify.com/track/48MDfmg92Za0nfWRLP8GCH) | [IOSYS](https://open.spotify.com/artist/7lw3txgTpihF2On2QVtldq) | [東方真華神祭](https://open.spotify.com/album/4AP6lMjgYrZ1TL0O29Rgxm) | 3:27 | 2026-05-02 |  |
 | [赤ずきんの狼](https://open.spotify.com/track/6T2lJKZceH9Eic5Cp3EPDk) | [Kikuo](https://open.spotify.com/artist/5FhcqamaRFfpZb4VHV47fu) | [きくおミク2](https://open.spotify.com/album/26tBjFO9k2Aq7j72p0nTol) | 4:20 | 2026-03-07 |  |
 | [超常マイマイン](https://open.spotify.com/track/7yuRlwbz9rgtIZwBPbtDjR) | [Nayutalien](https://open.spotify.com/artist/0U2Emr9cdZNcbqSoKoWb8c) | [ナユタン星からの物体Ｎ](https://open.spotify.com/album/41ZGXbCyhkBOt8lqtQxWBZ) | 2:25 | 2022-11-01 |  |
 | [踊](https://open.spotify.com/track/7z6qHGEKxRtwtYym2epV7l) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [踊](https://open.spotify.com/album/6jfXGkieuNnsFxi5pS3vJ2) | 3:28 | 2023-10-13 |  |

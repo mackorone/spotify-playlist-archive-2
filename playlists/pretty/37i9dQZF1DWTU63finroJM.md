@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 
 ### [RADAR Global ](https://open.spotify.com/playlist/37i9dQZF1DWTU63finroJM)
 
-> Meet the future of music around the world\. Cover: dia
+> Meet the future of music around the world\. Cover: Chezka
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,493 likes - 26 songs - 1 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,503 likes - 26 songs - 1 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Maya Hawke
 
-[Spotify](https://open.spotify.com/user/spotify) - 874,440 likes - 150 songs - 9 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 874,463 likes - 150 songs - 9 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

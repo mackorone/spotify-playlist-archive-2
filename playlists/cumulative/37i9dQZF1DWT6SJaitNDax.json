@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Afro sounds crossing borders. Cover: Tyla",
+  "description": "Afro sounds crossing borders. Cover: Asake",
   "name": "Big Mood",
   "tracks": [
     {
@@ -6835,6 +6835,24 @@
     },
     {
       "album": {
+        "name": "M$NEY",
+        "url": "https://open.spotify.com/album/07iqzVICrgPFOpXem6MEpU"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158569,
+      "name": "Forgiveness",
+      "url": "https://open.spotify.com/track/5u4rozuOBse9MgrAzGspQy"
+    },
+    {
+      "album": {
         "name": "Forgiveness",
         "url": "https://open.spotify.com/album/0M6PAfVvTAVT9uUtYDiOd9"
       },
@@ -11764,6 +11782,24 @@
       "duration_ms": 172363,
       "name": "Ma\u0219e",
       "url": "https://open.spotify.com/track/2vk4aVxQpbGE35u22K1elZ"
+    },
+    {
+      "album": {
+        "name": "M$NEY",
+        "url": "https://open.spotify.com/album/07iqzVICrgPFOpXem6MEpU"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170526,
+      "name": "MCBH",
+      "url": "https://open.spotify.com/track/36PS8XCemqmPvigIL8S40B"
     },
     {
       "album": {
@@ -20818,6 +20854,32 @@
       "duration_ms": 120170,
       "name": "Wetin - Remix",
       "url": "https://open.spotify.com/track/58oOh7vBW4fXtZfmuNKRtT"
+    },
+    {
+      "album": {
+        "name": "What About 10 (Twalatsa)",
+        "url": "https://open.spotify.com/album/5DHKdHlrfLBNbk40Xt67AK"
+      },
+      "artists": [
+        {
+          "name": "Al Xapo",
+          "url": "https://open.spotify.com/artist/6dmpoGpCKPEdy7R3XSEA7y"
+        },
+        {
+          "name": "Benzoo",
+          "url": "https://open.spotify.com/artist/4v7teU7vW1QTe4GPPCSLD3"
+        },
+        {
+          "name": "Optimist Music ZA",
+          "url": "https://open.spotify.com/artist/69FMBSIEqfCYBg5xqWdDQV"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367433,
+      "name": "What About 10 (Twalatsa)",
+      "url": "https://open.spotify.com/track/6j4DHHYlInf09JhrO7BPcL"
     },
     {
       "album": {

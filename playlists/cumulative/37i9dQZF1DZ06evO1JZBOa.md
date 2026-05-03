@@ -4,7 +4,7 @@
 
 > This is Manu Dibango\. The essential tracks, all in one playlist.
 
-166 songs - 12 hr 35 min
+167 songs - 12 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,7 +149,8 @@
 | [Son de la Loma](https://open.spotify.com/track/6tLJ6F2PNFmQfZlaJQqblS) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW), [Cuarteto Patria](https://open.spotify.com/artist/4Ui5j0V10gw9x6KF7yiGSG) | [Cubafrica](https://open.spotify.com/album/1a5ZTTfoUkHhIpnaegSI6z) | 4:19 | 2021-12-29 |  |
 | [Soul Fiesta](https://open.spotify.com/track/3MhErr2oHiTPfbxG8Ya9s1) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Africadelic](https://open.spotify.com/album/22S0u7mhgFlU8uhgoghTVg) | 2:08 | 2022-02-05 | 2024-10-21 |
 | [Soul Machine](https://open.spotify.com/track/0MP07TNfHYY4YGGHl31AVq) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Best Of](https://open.spotify.com/album/7IIE6yfcPrc2ln8qi3PczV) | 3:00 | 2021-12-28 | 2024-02-25 |
-| [Soul Makossa](https://open.spotify.com/track/21s0bjVrP7RtQskeUKZxOu) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Manu Dibango Anthology](https://open.spotify.com/album/4WDsHhoLJTSGVAt7ydCoPN) | 4:24 | 2021-12-28 |  |
+| [Soul Makossa](https://open.spotify.com/track/53SRGlm05JPF40iopwZND2) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Soul Makossa](https://open.spotify.com/album/4VHpym5VbHo2YJr0kAKiEG) | 2:55 | 2026-05-03 |  |
+| [Soul Makossa](https://open.spotify.com/track/21s0bjVrP7RtQskeUKZxOu) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Manu Dibango Anthology](https://open.spotify.com/album/4WDsHhoLJTSGVAt7ydCoPN) | 4:24 | 2021-12-28 | 2026-05-03 |
 | [Soul Saxes Meeting](https://open.spotify.com/track/2a4pTooehkmiD7hQ5DeyC5) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [African Voodoo](https://open.spotify.com/album/7MBGe4Yu7W0TTAgm8bzah1) | 2:58 | 2022-07-22 | 2025-10-08 |
 | [Sun Explosion](https://open.spotify.com/track/5Xq4OzsOviUwGbxTDgdg5q) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Sun Explosion](https://open.spotify.com/album/3QyB0bQGWdWGt9MgmBfVgc) | 8:09 | 2021-12-28 | 2024-10-15 |
 | [Super Kumba](https://open.spotify.com/track/6dbNLNAVQFVxAgFgq22o0O) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Afro\-Soul Machine](https://open.spotify.com/album/1yRSGm5kcA6QJhiGNeTio4) | 8:01 | 2021-12-30 | 2022-07-29 |

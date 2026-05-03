@@ -1,12 +1,12 @@
 {
   "description": "This is Taio Cruz. The essential tracks, all in one playlist.",
-  "num_followers": 18964,
+  "num_followers": 18966,
   "original_name": "This Is Taio Cruz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afKbgAAAAAC3D/03Rqytg4GW69dC6/3l",
+  "snapshot_id": "afPtAAAAAADqKM3wUs/qz8a2C95NhUus",
   "tracks": [
     {
       "added_at": null,
@@ -619,22 +619,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "2020",
-        "url": "https://open.spotify.com/album/2XbDaMr4RWDAyTuDY8DxXL"
+        "name": "Cryin' Over You",
+        "url": "https://open.spotify.com/album/2rLPwr80ovNo3pYh0hNY0h"
       },
       "artists": [
         {
-          "name": "Taio Cruz",
-          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+          "name": "Nightcrawlers",
+          "url": "https://open.spotify.com/artist/1gALaWbNDnwS2ECV09sn2A"
         },
         {
-          "name": "Wonder Stereo",
-          "url": "https://open.spotify.com/artist/4P2qfdEHx0ObXclFvHh1fn"
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
         }
       ],
-      "duration_ms": 145290,
-      "name": "2020",
-      "url": "https://open.spotify.com/track/7oGeeRx9HHI8KAdjhM6TRQ"
+      "duration_ms": 206250,
+      "name": "Cryin Over You - Cahill Radio Edit",
+      "url": "https://open.spotify.com/track/0i3P2LfQQSY3mlPwfWoUUQ"
     },
     {
       "added_at": null,
@@ -655,22 +655,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cryin' Over You",
-        "url": "https://open.spotify.com/album/2rLPwr80ovNo3pYh0hNY0h"
+        "name": "2020",
+        "url": "https://open.spotify.com/album/2XbDaMr4RWDAyTuDY8DxXL"
       },
       "artists": [
         {
-          "name": "Nightcrawlers",
-          "url": "https://open.spotify.com/artist/1gALaWbNDnwS2ECV09sn2A"
-        },
-        {
           "name": "Taio Cruz",
           "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        },
+        {
+          "name": "Wonder Stereo",
+          "url": "https://open.spotify.com/artist/4P2qfdEHx0ObXclFvHh1fn"
         }
       ],
-      "duration_ms": 206250,
-      "name": "Cryin Over You - Cahill Radio Edit",
-      "url": "https://open.spotify.com/track/0i3P2LfQQSY3mlPwfWoUUQ"
+      "duration_ms": 145290,
+      "name": "2020",
+      "url": "https://open.spotify.com/track/7oGeeRx9HHI8KAdjhM6TRQ"
     },
     {
       "added_at": null,

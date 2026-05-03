@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-1,123 songs - 3 day 0 hr 47 min
+1,124 songs - 3 day 0 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Bach, JS: Violin Concerto No\. 2 in E Major, BWV 1042: I\. Allegro](https://open.spotify.com/track/5d4AX3OJIKLgh5sgsb4ikA) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Itzhak Perlman](https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA), [Daniel Barenboim](https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH), [English Chamber Orchestra](https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF) | [Bach: Violin Concertos & Double Concerto](https://open.spotify.com/album/4r6CvvGGuDI4ecr8hBDwxR) | 9:02 | 2025-11-05 |  |
 | [back in action](https://open.spotify.com/track/7eFOG2217U6ooGeEv0fJ7e) | [Stickerbush](https://open.spotify.com/artist/2wMCljuDDzLrEjYCk10P7B), [heavensouls](https://open.spotify.com/artist/4H5ErCSnjrZpJYcwiJobCR) | [Darkskin Niggas with Lightskin Problems](https://open.spotify.com/album/64YHSa0VHmG7Mb2oONXYKB) | 4:46 | 2026-04-20 |  |
 | [Back Together](https://open.spotify.com/track/49Y3ZGN5WVjEpKxLO3aywt) | [Annie](https://open.spotify.com/artist/7zt6Af78CalxaPDqORfw8L) | [The A&R EP](https://open.spotify.com/album/06hK29dL8feB8al6oMkaa2) | 3:37 | 2024-02-15 |  |
+| [Backseat](https://open.spotify.com/track/1JuEY1JagyaMt8EtmhGjR0) | [Third Attempt](https://open.spotify.com/artist/3jI8E89g0xxRPU8tgYgyWD) | [Backseat](https://open.spotify.com/album/7zE0PXIJKroQxHt6oVvA8G) | 3:42 | 2026-05-02 |  |
 | [Bad Touch Example](https://open.spotify.com/track/1NHnvlyOUgADYNmdJxaBIQ) | [Company Flow](https://open.spotify.com/artist/0y0VESpVYa8xyNAxu77kcS) | [Funcrusher Plus](https://open.spotify.com/album/3010pCoYlw3arCbTroajyB) | 3:26 | 2023-03-24 |  |
 | [Bambi](https://open.spotify.com/track/6wQXjA6KWbwPT3ydQCsJ4P) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sling](https://open.spotify.com/album/32ium7Cxb1Xwp2MLzH2459) | 4:37 | 2023-11-03 |  |
 | [Banana \- Skit](https://open.spotify.com/track/5Rc0ZtPwdP2P8wXTq7EamM) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Arular](https://open.spotify.com/album/7CzEknt9gJwe0QC89ir1JX) | 0:36 | 2024-03-01 | 2024-09-10 |

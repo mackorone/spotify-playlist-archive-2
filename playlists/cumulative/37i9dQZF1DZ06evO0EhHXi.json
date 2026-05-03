@@ -473,6 +473,24 @@
     },
     {
       "album": {
+        "name": "Ramones (2017 Remaster)",
+        "url": "https://open.spotify.com/album/3ToX9inehiXTv17hpaOyie"
+      },
+      "artists": [
+        {
+          "name": "Ramones",
+          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
+        }
+      ],
+      "date_added": "2026-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160946,
+      "name": "I Don't Wanna Go Down to the Basement - 2016 Remaster",
+      "url": "https://open.spotify.com/track/1us4ws1sSw7HkGzytAtNk3"
+    },
+    {
+      "album": {
         "name": "Ramones (40th Anniversary Deluxe Edition; 2016 Remaster)",
         "url": "https://open.spotify.com/album/5uYDAwW0SZgcfOFkxrST64"
       },
@@ -772,7 +790,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 135066,
       "name": "Loudmouth - 2016 Remaster",
       "url": "https://open.spotify.com/track/1WAzagNaWNsT2i1b4ryMwT"

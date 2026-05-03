@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > Nieuw: Kevin & Roxy Dekker, Madonna & Sabrina Carpenter, Alex Warren, Zoë Tauran, MEROL en meer..
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,452 likes - 90 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,471 likes - 90 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 5 | [Shape of a Woman](https://open.spotify.com/track/6aFsbhzye4yfT25ohmhOQY) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Devil Wears Prada 2 \(Music From The Motion Picture\)](https://open.spotify.com/album/5FKnRUB5lt7z5ac1lmu3BE) | 3:29 |
 | 6 | [Roulette](https://open.spotify.com/track/7rZ40tv8wag9JkyQelJ4o9) | [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K) | [Roulette](https://open.spotify.com/album/0dD84yXv3JlqH49B0J34DW) | 2:17 |
 | 7 | [Eurosummer \- Girls Trip](https://open.spotify.com/track/53fyIvbeN7rfLK1GIZNLDL) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Midnight Sun: Girls Trip](https://open.spotify.com/album/4WMcRlbt7NvpKrrqO8ykQf) | 2:50 |
-| 8 | [Hoe de liefde gaat](https://open.spotify.com/track/1ttwvoS4i4o69EgKQoP7T4) | [Rene Froger](https://open.spotify.com/artist/5MvyMusqNikgVgkKHLc3pb), [Waylon](https://open.spotify.com/artist/5iuXjsXsTXs8lwmqzsF6dZ) | [Hoe de liefde gaat](https://open.spotify.com/album/1rjIr84CoKQpiocgtqzhyW) | 3:11 |
+| 8 | [Hoe De Liefde Gaat](https://open.spotify.com/track/1ttwvoS4i4o69EgKQoP7T4) | [Rene Froger](https://open.spotify.com/artist/5MvyMusqNikgVgkKHLc3pb), [Waylon](https://open.spotify.com/artist/5iuXjsXsTXs8lwmqzsF6dZ) | [Hoe De Liefde Gaat](https://open.spotify.com/album/1rjIr84CoKQpiocgtqzhyW) | 3:11 |
 | 9 | [Baby](https://open.spotify.com/track/2nMSFMpTUlVK9vnfrOOyoA) | [MEROL](https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO) | [Leve de Feeks](https://open.spotify.com/album/7z3EaiVbSRNOSs3FsXk1Nh) | 3:27 |
 | 10 | [Material Lover](https://open.spotify.com/track/2NT5EOtSEOrjfisvwmSv5S) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [The Devil Wears Prada 2 \(Music From The Motion Picture\)](https://open.spotify.com/album/5FKnRUB5lt7z5ac1lmu3BE) | 2:58 |
 | 11 | [Promise?](https://open.spotify.com/track/6Or4gNQC2EkixDGiufQ3F4) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [Promise?](https://open.spotify.com/album/4C0Jn8EWIX77dDQum3oNJO) | 3:12 |

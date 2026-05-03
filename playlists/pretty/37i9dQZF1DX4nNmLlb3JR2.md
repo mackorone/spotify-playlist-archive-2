@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nNmLlb3JR2.md) - [plain]
 
 > A fresh lofi spin on your favourite tunes and old songs you love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,831 likes - 149 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,850 likes - 149 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -158,4 +158,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nNmLlb3JR2.md) - [plain]
 | 148 | [chandelier](https://open.spotify.com/track/25AjoIOjVfxe6kgE9ftvep) | [niff\_](https://open.spotify.com/artist/2vpm14X9dM28wOrLAOUlto) | [chandelier](https://open.spotify.com/album/7rd5lKApMDcncjp7ZBEoMQ) | 3:33 |
 | 149 | [what was i made for](https://open.spotify.com/track/7ztVb1wBTjjkSJSg8cgmMA) | [Archipelia](https://open.spotify.com/artist/1wOpgYj0lsgHUCXDTAGzmH) | [what was i made for](https://open.spotify.com/album/3KhgQIQDqinlfOFK3ruHa8) | 3:34 |
 
-Snapshot ID: `AAAAADamDNTf/frfcO7roG5MBdYUm1k1`
+Snapshot ID: `AAAAAIYXE4nxW+6jko/eBZz8BNzr7qPu`

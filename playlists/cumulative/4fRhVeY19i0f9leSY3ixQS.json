@@ -708,7 +708,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 229139,
       "name": "alien.",
       "url": "https://open.spotify.com/track/0MqgKaj6vvWdoCn8w75w10"
@@ -7988,6 +7988,24 @@
       "duration_ms": 170386,
       "name": "Fool Me",
       "url": "https://open.spotify.com/track/1WcPvfflvPno6P931ZrJT2"
+    },
+    {
+      "album": {
+        "name": "Fool Me Once",
+        "url": "https://open.spotify.com/album/7ESSIBPOhwoEODxhliTc9y"
+      },
+      "artists": [
+        {
+          "name": "Citylightz",
+          "url": "https://open.spotify.com/artist/3Bz1JVhGEwBK6iIHHx7M7o"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255429,
+      "name": "Fool Me Once",
+      "url": "https://open.spotify.com/track/4dTbP1S5C29caRp4fsaNyv"
     },
     {
       "album": {
@@ -17439,6 +17457,28 @@
     },
     {
       "album": {
+        "name": "Reaching Out",
+        "url": "https://open.spotify.com/album/0G52nGcTwICAyvNBCCRd9H"
+      },
+      "artists": [
+        {
+          "name": "hndhld",
+          "url": "https://open.spotify.com/artist/6sya4rNfv20ig1NefUjOXC"
+        },
+        {
+          "name": "Jake Vera",
+          "url": "https://open.spotify.com/artist/0fugVpgpowLO9coAvpgRvP"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193751,
+      "name": "Reaching Out",
+      "url": "https://open.spotify.com/track/5l6QVU6SoDCdaPKDKwpguy"
+    },
+    {
+      "album": {
         "name": "Reading With the Lights Off",
         "url": "https://open.spotify.com/album/1rDmQoZfThzyGzIwmi9JWL"
       },
@@ -21348,6 +21388,24 @@
       "duration_ms": 244796,
       "name": "Tangerine Lilac",
       "url": "https://open.spotify.com/track/5uySOdkPzsed6jNrp7jZyn"
+    },
+    {
+      "album": {
+        "name": "Tanzt mit mir",
+        "url": "https://open.spotify.com/album/19FUWJ7gwETtier4fAOpXQ"
+      },
+      "artists": [
+        {
+          "name": "Pro|Contra",
+          "url": "https://open.spotify.com/artist/3lpOrZS6jyCQVFQD01Usf0"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219789,
+      "name": "Tanzt mit mir",
+      "url": "https://open.spotify.com/track/2jjw1QuN1pdPGXgQnjjygt"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ7aAZ6BFHpN.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6f8N8qe1L2qiB0f5U0sCp7">George Gershwin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 596 likes - 162 songs - 12 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 596 likes - 162 songs - 12 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ7aAZ6BFHpN.md) - [plain]
 | 21 | [WISH \- Japanese Ver.](https://open.spotify.com/track/0KLLSLbR0UA2818dmAc20n) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [WISHFUL](https://open.spotify.com/album/3JSUHAskqOwtOnMLO21kd3) | 3:05 |
 | 22 | [I Was Doing All Right](https://open.spotify.com/track/2pday5uCrVYBdUgvldUJWm) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Stan Getz And The Oscar Peterson Trio](https://open.spotify.com/album/4RDtTAyYRJAKACSEGMgrqD) | 4:06 |
 | 23 | [Summertime](https://open.spotify.com/track/0EIVfSsMX5NNTLKJPqej7Y) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Wild](https://open.spotify.com/album/2CX7Bs0bl9Ic940Va4S0G0) | 5:33 |
-| 24 | [There's A Boat Dat's Leavin' Soon For New York \- Porgy And Bess](https://open.spotify.com/track/1EZikMlD28MXpXmQAbakQL) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [INTEGRAL ELLA FITZGERALD 1956\-1957](https://open.spotify.com/album/6lSbe0c38u3jFUvEvh0MKg) | 4:54 |
+| 24 | [There's A Boat Dat's Leavin' Soon For New York](https://open.spotify.com/track/2uj3E00ODowy5IAj4BgULp) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [An American Songbook](https://open.spotify.com/album/3gsiubesHF5mUeWZWRQZhS) | 4:52 |
 | 25 | [My Man's Gone Now \- Live At The Village Vanguard, NYC; 6/25/1961](https://open.spotify.com/track/1wCe7Rl3SRopd2hZxny2Zg) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Sunday At The Village Vanguard \[Keepnews Collection\]](https://open.spotify.com/album/3uwufR7PwniMX7t3v4I5oB) | 6:24 |
 | 26 | [Fame](https://open.spotify.com/track/3SiUGXivvan3tlVSitU2Ci) | [B.o.B](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT) | [B.o.B Presents: The Adventures of Bobby Ray](https://open.spotify.com/album/7apLPYT8szV1IqTxyVSy5P) | 3:41 |
 | 27 | [Lightning Field](https://open.spotify.com/track/44HcVKoJKdsBWImzOCsivg) | [Sneaker Pimps](https://open.spotify.com/artist/1EJWNhiYbOyeUHbsS7Kp1P) | [Splinter](https://open.spotify.com/album/6WipEuEUndQLoxQHm7Orc3) | 4:11 |
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ7aAZ6BFHpN.md) - [plain]
 | 35 | [Dawn of a New Day](https://open.spotify.com/track/0C1vuYIWRDmplN9wcXzkek) | [Horace Heidt & His Musical Knights](https://open.spotify.com/artist/71EDwhmGGw7PlLGTm99jCK) | [All the Hits](https://open.spotify.com/album/676qvazYtyDCysPNxVTBtP) | 2:33 |
 | 36 | [Oh Lawd, I'm on My Way](https://open.spotify.com/track/4Hpj72WvRBn2015EZUh73X) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Golden Star Collection Vol\. 1](https://open.spotify.com/album/7iMlhQfk9HhYdOqHu0tPDq) | 2:58 |
 | 37 | [A Day to God Is 1000 Years](https://open.spotify.com/track/5nYrCeufU1KfSmgB5dm8bM) | [RZA](https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn) | [Birth of a Prince](https://open.spotify.com/album/54TKCQqJTfYF7P730Nza5q) | 3:57 |
-| 38 | [A Woman Is a Sometime Thing](https://open.spotify.com/track/3Cbx6zFqaXvPM8h6o0qllc) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Golden Star Collection Vol\. 1](https://open.spotify.com/album/7iMlhQfk9HhYdOqHu0tPDq) | 4:47 |
+| 38 | [A Woman Is A Sometime Thing](https://open.spotify.com/track/5vbBHk6iJzOqjP6VdoxvL3) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [An American Songbook](https://open.spotify.com/album/3gsiubesHF5mUeWZWRQZhS) | 4:43 |
 | 39 | [Buzzard Song](https://open.spotify.com/track/1tKBKvIp0Nf9kMcFA8geFj) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Porgy And Bess](https://open.spotify.com/album/1vvnTmmNWnGmqvVFjVIINf) | 2:57 |
 | 40 | [Oh, Doctor Jesus](https://open.spotify.com/track/52spbvBOV8l4lSit4YmkHs) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Porgy And Bess](https://open.spotify.com/album/1vvnTmmNWnGmqvVFjVIINf) | 1:59 |
 | 41 | [What You Want Wid Bess?](https://open.spotify.com/track/3lo6WG0mdesJZGdRCVPF9p) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Porgy And Bess](https://open.spotify.com/album/1vvnTmmNWnGmqvVFjVIINf) | 1:59 |
@@ -171,4 +171,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ7aAZ6BFHpN.md) - [plain]
 | 161 | [If God Want to Kill Me](https://open.spotify.com/track/7FA747HPTXCToNteipCCab) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4) | [George Gershwin's Complete Porgy and Bess \(Hd Remastered\)](https://open.spotify.com/album/1cCswl4XmfcFPvuExNOapI) | 2:05 |
 | 162 | [Crab Man](https://open.spotify.com/track/5c6p9txsU48nVObYtRTYHQ) | [The Magni Wentzel Sextet](https://open.spotify.com/artist/7427u0wL9sJxNaJ3vzbp69) | [Porgy & Bess](https://open.spotify.com/album/7i7NoSvjk1MpeQMEua7tpc) | 1:37 |
 
-Snapshot ID: `AcQXRgAAAADfrX0NRYmDpNhe7ANLfYFL`
+Snapshot ID: `AcQcqgAAAABI0THDMYvddP1a2+mW51h1`

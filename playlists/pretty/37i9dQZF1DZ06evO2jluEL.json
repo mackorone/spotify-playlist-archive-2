@@ -1,12 +1,12 @@
 {
   "description": "This is Ludmila Ferber. The essential tracks, all in one playlist.",
-  "num_followers": 24842,
+  "num_followers": 24843,
   "original_name": "This Is Ludmila Ferber",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afKbgAAAAAD22HsUhzkioSYWAa9qM8kD",
+  "snapshot_id": "afPtAAAAAAD1CEKPerHbOqYFS7YmCPbt",
   "tracks": [
     {
       "added_at": null,
@@ -131,6 +131,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cantarei para Sempre",
+        "url": "https://open.spotify.com/album/2yjDBwFmlFg7QvkGq9qfj9"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "duration_ms": 303808,
+      "name": "O Mover do Esp\u00edrito",
+      "url": "https://open.spotify.com/track/5cvLK73IGT0PRkvH1TLtmt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Adora\u00e7\u00e3o 8 - Maravilhoso \u00c9s",
         "url": "https://open.spotify.com/album/05GWMnAUx5EJwpgUPvJnhL"
       },
@@ -147,22 +163,6 @@
       "duration_ms": 272770,
       "name": "Maravilhoso",
       "url": "https://open.spotify.com/track/5QLKWX0W2fcPqeuwG5pg2O"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cantarei para Sempre",
-        "url": "https://open.spotify.com/album/2yjDBwFmlFg7QvkGq9qfj9"
-      },
-      "artists": [
-        {
-          "name": "Ludmila Ferber",
-          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
-        }
-      ],
-      "duration_ms": 303808,
-      "name": "O Mover do Esp\u00edrito",
-      "url": "https://open.spotify.com/track/5cvLK73IGT0PRkvH1TLtmt"
     },
     {
       "added_at": null,
@@ -303,22 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deus \u00c9 Bom Demais",
-        "url": "https://open.spotify.com/album/6MogrOg46kXWjllw4gEbJN"
-      },
-      "artists": [
-        {
-          "name": "Ludmila Ferber",
-          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
-        }
-      ],
-      "duration_ms": 295775,
-      "name": "Can\u00e7\u00e3o do Amigo",
-      "url": "https://open.spotify.com/track/5aNjPj9qZolYYGFE7dEoSB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "O Verdadeiro Amor",
         "url": "https://open.spotify.com/album/3V9Ew3aQ1Cq86tUlMaJ5Ga"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 212276,
       "name": "Doce Presen\u00e7a",
       "url": "https://open.spotify.com/track/75eZ1vHWZB5KYCsSm70FHX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Deus \u00c9 Bom Demais",
+        "url": "https://open.spotify.com/album/6MogrOg46kXWjllw4gEbJN"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "duration_ms": 295775,
+      "name": "Can\u00e7\u00e3o do Amigo",
+      "url": "https://open.spotify.com/track/5aNjPj9qZolYYGFE7dEoSB"
     },
     {
       "added_at": null,
@@ -375,6 +375,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "O Verdadeiro Amor",
+        "url": "https://open.spotify.com/album/3V9Ew3aQ1Cq86tUlMaJ5Ga"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "duration_ms": 283980,
+      "name": "O Verdadeiro Amor",
+      "url": "https://open.spotify.com/track/3LR8X4vHLjisXsc3W00pVa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pra Me Alegrar",
         "url": "https://open.spotify.com/album/58ZfY9CuePCUyHSs5LZjw1"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 241906,
       "name": "O Deserto Vale Ouro (feat. Fernanda Brum)",
       "url": "https://open.spotify.com/track/4NaIYChm0oaF9yVotZpEiU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "O Verdadeiro Amor",
-        "url": "https://open.spotify.com/album/3V9Ew3aQ1Cq86tUlMaJ5Ga"
-      },
-      "artists": [
-        {
-          "name": "Ludmila Ferber",
-          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
-        }
-      ],
-      "duration_ms": 283980,
-      "name": "O Verdadeiro Amor",
-      "url": "https://open.spotify.com/track/3LR8X4vHLjisXsc3W00pVa"
     },
     {
       "added_at": null,
@@ -491,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "P\u00e9rolas da Adora\u00e7\u00e3o - M\u00fasicas que Marcaram a Nossa Hist\u00f3ria",
-        "url": "https://open.spotify.com/album/1KZUskMSMoY022PQbpyMK5"
-      },
-      "artists": [
-        {
-          "name": "Ludmila Ferber",
-          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
-        }
-      ],
-      "duration_ms": 375293,
-      "name": "Tempo de Cura",
-      "url": "https://open.spotify.com/track/7FHUxm8Tn3jtBQS6HolOzB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Imenso Amor",
         "url": "https://open.spotify.com/album/2jjIGswLhaembsSRP4d6J4"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 203235,
       "name": "Imenso Amor",
       "url": "https://open.spotify.com/track/6Fe1vCxKNy15hK4LWBl86n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "P\u00e9rolas da Adora\u00e7\u00e3o - M\u00fasicas que Marcaram a Nossa Hist\u00f3ria",
+        "url": "https://open.spotify.com/album/1KZUskMSMoY022PQbpyMK5"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "duration_ms": 375293,
+      "name": "Tempo de Cura",
+      "url": "https://open.spotify.com/track/7FHUxm8Tn3jtBQS6HolOzB"
     },
     {
       "added_at": null,
@@ -647,6 +647,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pra Me Alegrar",
+        "url": "https://open.spotify.com/album/58ZfY9CuePCUyHSs5LZjw1"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "duration_ms": 306466,
+      "name": "Senhor que Cura",
+      "url": "https://open.spotify.com/track/2cTrP4nWWAj88wez4MoIq7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Adora\u00e7\u00e3o Prof\u00e9tica 4: Nunca Pare de Lutar (Ao Vivo)",
         "url": "https://open.spotify.com/album/4bjlIPhOTlbPcpGzrQMOzb"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 200176,
       "name": "Maior Amor",
       "url": "https://open.spotify.com/track/3lfNmjigw0revdL0xkZlxu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pra Me Alegrar",
-        "url": "https://open.spotify.com/album/58ZfY9CuePCUyHSs5LZjw1"
-      },
-      "artists": [
-        {
-          "name": "Ludmila Ferber",
-          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
-        }
-      ],
-      "duration_ms": 306466,
-      "name": "Senhor que Cura",
-      "url": "https://open.spotify.com/track/2cTrP4nWWAj88wez4MoIq7"
     },
     {
       "added_at": null,
@@ -851,6 +851,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "O Poder de Alian\u00e7a",
+        "url": "https://open.spotify.com/album/6WG7aBnfX67Vjr4bx14QAS"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "duration_ms": 496186,
+      "name": "Eu Te Escolhi",
+      "url": "https://open.spotify.com/track/0TVF09DAnLoBV71xzefJqI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sopra Esp\u00edrito (Na Igreja - In Memoriam Ludmila Ferber, Ao Vivo)",
         "url": "https://open.spotify.com/album/4xEhmC9MdsDeExOCIBTPVo"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 326550,
       "name": "Sopra Esp\u00edrito - Na Igreja - In Memoriam Ludmila Ferber, Ao Vivo",
       "url": "https://open.spotify.com/track/3xllqibWTuiSHhuzw2YkVK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "O Poder de Alian\u00e7a",
-        "url": "https://open.spotify.com/album/6WG7aBnfX67Vjr4bx14QAS"
-      },
-      "artists": [
-        {
-          "name": "Ludmila Ferber",
-          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
-        }
-      ],
-      "duration_ms": 496186,
-      "name": "Eu Te Escolhi",
-      "url": "https://open.spotify.com/track/0TVF09DAnLoBV71xzefJqI"
     },
     {
       "added_at": null,

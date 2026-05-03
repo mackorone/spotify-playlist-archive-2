@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5iwkYfnHAGMEFLiHFFGnP4.md) - [plain]
 
 > HITS 2026 🔥 All of today's top chart hits and hot new releases from around the world\. Hit ♡ to hear the biggest new songs first! Cover: Bruno Mars
 
-[Topsify](https://open.spotify.com/user/topsify) - 638,068 likes - 60 songs - 3 hr 16 min
+[Topsify](https://open.spotify.com/user/topsify) - 638,161 likes - 60 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

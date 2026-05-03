@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2IvZJK5xwFt.md) - [plain]
 
 ### [Just Rock!](https://open.spotify.com/playlist/37i9dQZF1DX2IvZJK5xwFt)
 
-> Only the best rock in the world\. Cover: Måneskin
+> Only the best rock in the world\. Cover: Linkin Park
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,598 likes - 75 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,651 likes - 75 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2IvZJK5xwFt.md) - [plain]
 | 74 | [My People](https://open.spotify.com/track/2wY6YBHBYqa0R3161HheFu) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [You Got This](https://open.spotify.com/album/4A4hmu0p8DWp10Nf85BraJ) | 2:40 |
 | 75 | [Ride The Lightning \(Bonus Track\)](https://open.spotify.com/track/1ID9SzJR4OFRwinOqYlJf4) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Megadeth](https://open.spotify.com/album/6ouAFvDtaYWB7PdGaRtJGq) | 6:11 |
 
-Snapshot ID: `AAAAAHekWMM2VtVaqQ8l+A5TZBghYsbh`
+Snapshot ID: `AAAAABLwFBWytKwmhCpSwZ7Z1sT5z1Mn`

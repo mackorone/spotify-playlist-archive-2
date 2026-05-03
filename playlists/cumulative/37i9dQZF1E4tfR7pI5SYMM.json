@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With photophor, SCHANZ, Dystopian X Vision and more",
+  "description": "With photophor, Dystopian X Vision, SCHANZ and more",
   "name": "Bipolar Superstar Radio",
   "tracks": [
     {
@@ -114,7 +114,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-01",
+      "date_removed": null,
       "duration_ms": 291866,
       "name": "A Solitary Future",
       "url": "https://open.spotify.com/track/0ShB8rlcQF9yL01mUmAuLx"
@@ -2076,7 +2076,7 @@
       ],
       "date_added": "2026-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-02",
+      "date_removed": null,
       "duration_ms": 287038,
       "name": "Does the body stay",
       "url": "https://open.spotify.com/track/7aJvODFlZgQbaOOphMUMFe"
@@ -4502,7 +4502,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-02",
+      "date_removed": null,
       "duration_ms": 208065,
       "name": "Joy and Pain",
       "url": "https://open.spotify.com/track/5RmyY86zrPFIERkdmQDECs"
@@ -4928,7 +4928,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 340000,
       "name": "Life Whisper & New Life - Reprise",
       "url": "https://open.spotify.com/track/6FhnVWokFfKBvsW33H5HCA"
@@ -5123,6 +5123,24 @@
     },
     {
       "album": {
+        "name": "Looks like work",
+        "url": "https://open.spotify.com/album/5TP2QcLJmOvNmdeKr7wq1s"
+      },
+      "artists": [
+        {
+          "name": "Slow Death",
+          "url": "https://open.spotify.com/artist/28Xd9f07Yff5oq5dZyklCK"
+        }
+      ],
+      "date_added": "2026-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194500,
+      "name": "Looks like work",
+      "url": "https://open.spotify.com/track/4e8Wqyge5XoDJkNnoLc2Jp"
+    },
+    {
+      "album": {
         "name": "Dreams and Falls",
         "url": "https://open.spotify.com/album/6oBrTMaUWMEprQQdTEpWNZ"
       },
@@ -5134,7 +5152,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 293422,
       "name": "Lori - Special Edition",
       "url": "https://open.spotify.com/track/3y64sLHWMzAJHBVSfGgwPX"
@@ -5560,7 +5578,7 @@
       ],
       "date_added": "2026-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 228705,
       "name": "Midnight Static",
       "url": "https://open.spotify.com/track/3MSIhIH9UdowEDIqM5YiO8"
@@ -5676,7 +5694,7 @@
       ],
       "date_added": "2026-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 217217,
       "name": "Modern Era Working Class",
       "url": "https://open.spotify.com/track/2X7NvqvB3Rem9zWTdrtaTW"
@@ -5892,7 +5910,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 180250,
       "name": "Murci\u00e9lagos",
       "url": "https://open.spotify.com/track/7iHa188lPGmeEjffPgjUAR"
@@ -6502,7 +6520,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-29",
+      "date_removed": null,
       "duration_ms": 318026,
       "name": "Oblivion",
       "url": "https://open.spotify.com/track/5sXaPKfsLeA99AuetE8xHU"
@@ -7942,7 +7960,7 @@
       ],
       "date_added": "2026-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-02",
+      "date_removed": null,
       "duration_ms": 390967,
       "name": "Skyward Bound",
       "url": "https://open.spotify.com/track/5fcBPscU64w3Q0wb6nTfZJ"
@@ -8014,7 +8032,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 248000,
       "name": "So Many Dreams",
       "url": "https://open.spotify.com/track/1dBra8NQyJ0x2qBi2nnCHx"
@@ -10408,7 +10426,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 355798,
       "name": "Violent Silence",
       "url": "https://open.spotify.com/track/19FfnGM5kIQj5eUnsPHTIh"
@@ -10636,7 +10654,7 @@
       ],
       "date_added": "2026-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 119117,
       "name": "Wave of Mutilation",
       "url": "https://open.spotify.com/track/2C5LdWAVdWU1Kk2RFVwtRa"
@@ -11188,7 +11206,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-02",
+      "date_removed": null,
       "duration_ms": 208660,
       "name": "Zerrissen",
       "url": "https://open.spotify.com/track/6ZUbmwyM3p0YGQLZcq59Yw"
@@ -11228,7 +11246,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-29",
+      "date_removed": null,
       "duration_ms": 301336,
       "name": "Zulu Alpha",
       "url": "https://open.spotify.com/track/2Un1wf1MC4CEAramid6OoC"

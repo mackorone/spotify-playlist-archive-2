@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afKbgAAAAAAH2mMnUcak4VdyS4F2KwgK",
+  "snapshot_id": "afPtAAAAAAD+ZvwZJMCvGnMyYum2T1VT",
   "tracks": [
     {
       "added_at": null,
@@ -719,6 +719,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Igreja (Ao Vivo)",
+        "url": "https://open.spotify.com/album/12QoaLjXRGCh7zqLKkF67P"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 286452,
+      "name": "Agnus Dei - Ao Vivo",
+      "url": "https://open.spotify.com/track/4GUUcLp5OviLoV4Zpgf3Km"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pra Onde Iremos?",
         "url": "https://open.spotify.com/album/1ifW4VsChr6AgOvpmd8ZFo"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 342667,
       "name": "\u00c1guas Purificadoras",
       "url": "https://open.spotify.com/track/3E3tCczShTfm7bbuyAbH1M"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Igreja (Ao Vivo)",
-        "url": "https://open.spotify.com/album/12QoaLjXRGCh7zqLKkF67P"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 286452,
-      "name": "Agnus Dei - Ao Vivo",
-      "url": "https://open.spotify.com/track/4GUUcLp5OviLoV4Zpgf3Km"
     },
     {
       "added_at": null,

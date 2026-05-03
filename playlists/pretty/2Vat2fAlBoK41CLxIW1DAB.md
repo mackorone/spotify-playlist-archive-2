@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain]
 
 > 
 
-[Nitro Square](https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a) - 1,595 likes - 980 songs - 2 day 13 hr 43 min
+[Nitro Square](https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a) - 1,595 likes - 983 songs - 2 day 13 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -988,5 +988,8 @@ pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain]
 | 978 | [Hymn](https://open.spotify.com/track/0F7851FGHF79bzgJ65HpyC) | [Of House](https://open.spotify.com/artist/00ZfMOYl0RhH41iOFfbl3u) | [Hymn](https://open.spotify.com/album/3sYDwzhZKYeqrz1sejuBN6) | 8:14 |
 | 979 | [Surprise, Surprise](https://open.spotify.com/track/5gHlEgM8AilWq9xQfAp0Lo) | [Friends With Boats](https://open.spotify.com/artist/1ahtzLoyQhpQSyTTD0rysc) | [Surprise, Surprise](https://open.spotify.com/album/048i5QNlRLzkftGQH6rCYk) | 3:04 |
 | 980 | [Eux](https://open.spotify.com/track/6prUfw8XnnNVxCWGutQpFk) | [enfant rouge](https://open.spotify.com/artist/1WjiPjIL6QbBdk1GnhFqEe) | [Délier](https://open.spotify.com/album/35eSA6VdPI7DpqMIj1Eej1) | 4:44 |
+| 981 | [Aeon's End](https://open.spotify.com/track/0bb27f1MO2rIB9bemoFgrY) | [Dangerous Times for the Dead](https://open.spotify.com/artist/3oYyw3Wy4IuN27X2eIFVWD) | [Aeon's End](https://open.spotify.com/album/3coizvmbxb4VaoGcUusbg3) | 4:56 |
+| 982 | [Starting to Remember How Much I Forgot](https://open.spotify.com/track/4DPRKTginZ5orODg84OVyd) | [Thirsty Curses](https://open.spotify.com/artist/3H2SNIWzM4KVAuKBC5i5f0) | [Starting to Remember How Much I Forgot](https://open.spotify.com/album/5A9Ct6ApsEwbNlcobRXSvC) | 3:53 |
+| 983 | [This Is My Orange Table](https://open.spotify.com/track/41wlvMZxO819EvTKyDbTFr) | [Tortuga](https://open.spotify.com/artist/4QzhYIfvlEMycWybJ3wPHM) | [Overdressed](https://open.spotify.com/album/0Sb0ua8tvBXeQ3XPudy4C0) | 4:05 |
 
-Snapshot ID: `AAAD94IJ+qqrsEsmv3ATIjTlY9hvi9HD`
+Snapshot ID: `AAAD+qoGhNenb8OjmJVbA77D8NitE51J`

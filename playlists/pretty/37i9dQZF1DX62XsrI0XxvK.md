@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62XsrI0XxvK.md) - [plain]
 
 > Irama R&B tanah air yang merasuk jiwa\. Cover: Canti
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,184 likes - 97 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,188 likes - 97 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

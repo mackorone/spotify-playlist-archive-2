@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0OEZC3cbQmU.md) - [plain]
 
 > A palavra do Senhor na voz de grandes adoradores do Brasil\. Foto: Get Worship
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,344,387 likes - 75 songs - 8 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,344,425 likes - 75 songs - 8 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0OEZC3cbQmU.md) - [plain]
 | 74 | [Cristo + Tudo É Teu \- Ao Vivo no Jesus Vida Verão](https://open.spotify.com/track/3aAk05LYyipr9PaHUp9ZDW) | [fhop music](https://open.spotify.com/artist/0V208yTQ5OGOUBZuszu6Fn), [Paulo e Rebeca](https://open.spotify.com/artist/3F7NaiORn4f5JGZrhcggo8), [Hamilton Rabelo](https://open.spotify.com/artist/5VeyQ48fHEJP9CVFc4YJ5X) | [Cristo + Tudo É Teu \(Ao Vivo no Jesus Vida Verão\)](https://open.spotify.com/album/7AVVWCuSmShe5MeFw6R6lf) | 8:51 |
 | 75 | [A Promessa Nasceu](https://open.spotify.com/track/0cXgwmIeq1KdakfFPK8VUr) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo), [Sarah Beatriz](https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT) | [A Promessa Nasceu](https://open.spotify.com/album/49q3KwfTAqchT3bQM82nzF) | 5:06 |
 
-Snapshot ID: `AAAAAHsd8Yls2glJH8aFbAKq3rrBw/c5`
+Snapshot ID: `AAAAACkLXyGwt2iQ41N89lV2QxwYaito`

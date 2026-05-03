@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9o4SIlW5lWs.md) - [plain]
 
 > Al corazón! Foto: Luciano Pereyra, Uriel Lozano & Un Poco De Ruido.
 
-[Spotify](https://open.spotify.com/user/spotify) - 277,250 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 277,304 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9o4SIlW5lWs.md) - [plain]
 | 99 | [Paso la Vida Pensando](https://open.spotify.com/track/5o3DaEe3T1JeHZVK4hlZYj) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC), [Lucas Sugo](https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX) | [Paso la Vida Pensando](https://open.spotify.com/album/5ALqv0I3fIIzZxzLjst4JG) | 4:02 |
 | 100 | [Como Duele/ Tu Presa/ Te Vas A Arrepentir](https://open.spotify.com/track/1HP2lOzVbv8WHUT6IIgYCf) | [El Mago Y La Nueva](https://open.spotify.com/artist/0pelomsVlROuivdE2RgeDU), [Daniel Agostini](https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB) | [Como Duele / Tu Presa / Te Vas A Arrepentir](https://open.spotify.com/album/7MI2qYvaIGpT4F9pWQ6qwa) | 7:37 |
 
-Snapshot ID: `AAAAALE8B9EpFEvxGJ5BoNplAdzdh3Eu`
+Snapshot ID: `AAAAABsidUwXk7rBjjK8H5YvbKFj2gwH`

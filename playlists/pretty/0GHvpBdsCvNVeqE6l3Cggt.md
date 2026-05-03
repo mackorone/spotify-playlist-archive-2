@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0GHvpBdsCvNVeqE6l3Cggt.md) - [plain]
 
 > The Ultimate List of Banging Alternative Pop Tunes\. Covering Famous and Independent Acts From All Over The World \| Alternative Pop Artists \| Alternative Rock Indie Pop Artists \| Female Indie Pop Artists \| Best Indie Pop Artists \| Best Indie Pop Songs \| Indie Pop Bands With Female Singers \|
 
-[Chris](https://open.spotify.com/user/qd38drw5g9rgll0cnljr34tpg) - 2,298 likes - 47 songs - 3 hr 3 min
+[Chris](https://open.spotify.com/user/qd38drw5g9rgll0cnljr34tpg) - 2,297 likes - 48 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,5 +55,6 @@ pretty - [cumulative](/playlists/cumulative/0GHvpBdsCvNVeqE6l3Cggt.md) - [plain]
 | 45 | [Everything Goes On](https://open.spotify.com/track/2rllct6mqneQYoMt66qsTp) | [asobou](https://open.spotify.com/artist/0pWmm42KlgcRUX2qOOBf32) | [Everything Goes On](https://open.spotify.com/album/5DqyUfB2BhWXWvrrio3Hn5) | 3:26 |
 | 46 | [Deeper](https://open.spotify.com/track/13qCoS5QuZEbWjfw7C9H5F) | [Mala Society](https://open.spotify.com/artist/4yOEkIaQ0rUqahInm6UNzj) | [iGen](https://open.spotify.com/album/2oThbbHnamtEqLnzo7ZwIP) | 2:20 |
 | 47 | [Belong](https://open.spotify.com/track/5V1oOuWqO7t0xBT01pmzWa) | [HEIGHTS](https://open.spotify.com/artist/5EdogtWIzqFv45sdk6ePZH) | [Belong](https://open.spotify.com/album/5LZXl2Sjauj5xRcZz2j8Wv) | 3:34 |
+| 48 | [Bored To Death \- Savoir Adore Remix](https://open.spotify.com/track/1dD0B0hUdVQQjvB9qwWrzt) | [Kids In America](https://open.spotify.com/artist/6ovlMe2HTmv1MmrZfsoBqY), [Savoir Adore](https://open.spotify.com/artist/2weMnYqCmtNUrSLAJq5dD8) | [Bored To Death \(Savoir Adore Remix\)](https://open.spotify.com/album/4LNObDJjQyj4Bgu53zCcoK) | 2:37 |
 
-Snapshot ID: `AAAkNOOdJpo/Dem4yx0BBsT038DWu9cT`
+Snapshot ID: `AAAkNQWHgn0taaifI1uHfETcD4uWZPDV`

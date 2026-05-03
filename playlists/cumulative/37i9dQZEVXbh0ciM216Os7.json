@@ -1524,7 +1524,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-02",
+      "date_removed": null,
       "duration_ms": 125874,
       "name": ":( again :)",
       "url": "https://open.spotify.com/track/3c58iYS20gg5d6rSrVgd5r"
@@ -14550,6 +14550,28 @@
       "duration_ms": 260329,
       "name": "Deadbolt",
       "url": "https://open.spotify.com/track/0LFIpvc8Fj1QyS6ZnFC4Yx"
+    },
+    {
+      "album": {
+        "name": "From Takoma With Love",
+        "url": "https://open.spotify.com/album/71c0PWXhJIn5mj5hyiUhrz"
+      },
+      "artists": [
+        {
+          "name": "Oddisee",
+          "url": "https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC"
+        },
+        {
+          "name": "Heno.",
+          "url": "https://open.spotify.com/artist/3mr6jeVpPIXBp8IMMb60aD"
+        }
+      ],
+      "date_added": "2026-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129634,
+      "name": "Dear Younger Me",
+      "url": "https://open.spotify.com/track/01IpRJRofGOJ7XDB5SCN7E"
     },
     {
       "album": {
@@ -29676,7 +29698,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 152500,
       "name": "Hot Water (Cahuilla)",
       "url": "https://open.spotify.com/track/0SeoO4zsTZf86stq7jkj3R"
@@ -66632,7 +66654,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-02",
+      "date_removed": null,
       "duration_ms": 195320,
       "name": "This Thing We Call Love",
       "url": "https://open.spotify.com/track/1soDkGmh7QwHQE2UcNybUV"
@@ -70476,7 +70498,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 205306,
       "name": "Walking on the Moon",
       "url": "https://open.spotify.com/track/2qwMuXIRXJSrwrAiHeBVPJ"
@@ -73706,7 +73728,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 167015,
       "name": "Woe is Me",
       "url": "https://open.spotify.com/track/5renTxUL4sugitSmn0Cv3m"

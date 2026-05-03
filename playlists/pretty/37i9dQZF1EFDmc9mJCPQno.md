@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDmc9mJCPQno.md) - [plain]
 | 73 | [Super ICY \(LEESEO Solo\)](https://open.spotify.com/track/0DxvB5z7FTzI8KFlFTwyWm) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [REVIVE+](https://open.spotify.com/album/5T94fnmXJxSmPVjWb6M50x) | 2:50 |
 | 74 | [Addicted to Blue](https://open.spotify.com/track/1RwSUSDtHYNqqyeUWniOyk) | [Grace Davies](https://open.spotify.com/artist/55VbVrjmAWcvCknVFfPzvK) | [Addicted to Blue](https://open.spotify.com/album/0CVWqS4fqnRVCwLshg2srt) | 3:25 |
 | 75 | [Tobacco In My Sheets](https://open.spotify.com/track/4p6IFaIofYYRHrJlLq8MyY) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Ghost World](https://open.spotify.com/album/7xBZ124291hllgvV3jPLL3) | 3:21 |
-| 76 | [Me, Myself & You](https://open.spotify.com/track/4dsgZlMA69Hb2VppaZyfSN) | [Perrie](https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe) | [Me, Myself & You](https://open.spotify.com/album/7cczplDsPconF6IdWikvOd) | 2:35 |
-| 77 | [Declaration](https://open.spotify.com/track/5h3sUmbwEdFkxejGryYhj6) | [Cailin Russo](https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0) | [The Drama](https://open.spotify.com/album/7t04xptRT83AnNFdsajTYQ) | 3:38 |
+| 76 | [Declaration](https://open.spotify.com/track/5h3sUmbwEdFkxejGryYhj6) | [Cailin Russo](https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0) | [The Drama](https://open.spotify.com/album/7t04xptRT83AnNFdsajTYQ) | 3:38 |
+| 77 | [Me, Myself & You](https://open.spotify.com/track/4dsgZlMA69Hb2VppaZyfSN) | [Perrie](https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe) | [Me, Myself & You](https://open.spotify.com/album/7cczplDsPconF6IdWikvOd) | 2:35 |
 | 78 | [Invisible](https://open.spotify.com/track/5CC5Dia3BhRVkP1dzJJs7p) | [Grace Davies](https://open.spotify.com/artist/55VbVrjmAWcvCknVFfPzvK) | [Invisible](https://open.spotify.com/album/4TCPGeP8KROlyQn4TuZeH3) | 3:40 |
 | 79 | [Liar Liar](https://open.spotify.com/track/5P1LOgPT9DmVzWFyg8gtHR) | [FDVM](https://open.spotify.com/artist/6J0Y4CoGMKL5RyeozHnVKl), [CARSTN](https://open.spotify.com/artist/3Wb1mXnd1hXkGwys5m54YC), [IVANA](https://open.spotify.com/artist/7pn6Syh1RaJDbprpLFz58N) | [Liar Liar](https://open.spotify.com/album/1agXa7XELNvFG4M0tbjqka) | 2:31 |
 | 80 | [Lessons \(feat\. Banx & Ranx\)](https://open.spotify.com/track/1N85gpxRSKAeUX9ZsPjxBg) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Banx & Ranx](https://open.spotify.com/artist/2uFC1dAj5b0YU7vulKNZ0p) | [Only Honest On The Weekend](https://open.spotify.com/album/2LWAzUYdZSUq0fW8ddbL1Q) | 3:07 |
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDmc9mJCPQno.md) - [plain]
 | 129 | [Ponytail](https://open.spotify.com/track/356sykgkwuqWnvXwq1M1l0) | [XO](https://open.spotify.com/artist/3uRDnagY9HyAPIo7Y34V4r) | [Fashionably Late](https://open.spotify.com/album/1NJ9tmNuz88hJ10dPLLOQH) | 2:36 |
 | 130 | [lie to myself](https://open.spotify.com/track/5p60aTSUb3ZLG1HbUbuJLW) | [amber\-liz](https://open.spotify.com/artist/1OWB13bPhotfvAdQjiIdP5) | [lie to myself](https://open.spotify.com/album/1xtYNQqeWrRvhraE3uiWcs) | 2:33 |
 
-Snapshot ID: `AcQXCgAAAAAtUsqw508PNKAmeavY5jJB`
+Snapshot ID: `AcQcqgAAAAAcRfmJjeeO8cQtOoBPdJ/t`

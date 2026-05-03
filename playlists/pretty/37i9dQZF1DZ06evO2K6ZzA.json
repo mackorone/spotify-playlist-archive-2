@@ -1,12 +1,12 @@
 {
   "description": "This is sombr. The essential tracks, all in one playlist.",
-  "num_followers": 107055,
+  "num_followers": 107274,
   "original_name": "This Is sombr",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afKbgAAAAACDmvNigOVNtAyzj9wjEdXo",
+  "snapshot_id": "afPtAAAAAABSc/ivzAGwypGHL8iR9PWb",
   "tracks": [
     {
       "added_at": null,
@@ -463,8 +463,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "weak",
-        "url": "https://open.spotify.com/album/7jCutVKlyZ5UFD9MB96pra"
+        "name": "alibi",
+        "url": "https://open.spotify.com/album/6tfIdhvSP0DoNyBAgBUHcv"
       },
       "artists": [
         {
@@ -472,9 +472,9 @@
           "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
         }
       ],
-      "duration_ms": 236800,
-      "name": "weak",
-      "url": "https://open.spotify.com/track/1ofVfjaqv1taQ7xsmcYjZc"
+      "duration_ms": 301828,
+      "name": "alibi",
+      "url": "https://open.spotify.com/track/1tDy4iJt1FFK9FiEv5ITL7"
     },
     {
       "added_at": null,
@@ -495,8 +495,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "alibi",
-        "url": "https://open.spotify.com/album/6tfIdhvSP0DoNyBAgBUHcv"
+        "name": "weak",
+        "url": "https://open.spotify.com/album/7jCutVKlyZ5UFD9MB96pra"
       },
       "artists": [
         {
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
         }
       ],
-      "duration_ms": 301828,
-      "name": "alibi",
-      "url": "https://open.spotify.com/track/1tDy4iJt1FFK9FiEv5ITL7"
+      "duration_ms": 236800,
+      "name": "weak",
+      "url": "https://open.spotify.com/track/1ofVfjaqv1taQ7xsmcYjZc"
     },
     {
       "added_at": null,

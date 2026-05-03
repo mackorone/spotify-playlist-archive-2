@@ -238,7 +238,7 @@
       ],
       "date_added": "2026-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 285300,
       "name": "Below The Clouds",
       "url": "https://open.spotify.com/track/0XzEpC8AoAVQsJgUnHWgWp"
@@ -1409,6 +1409,24 @@
     },
     {
       "album": {
+        "name": "The Many Moods of Marco Polo Vol. 1",
+        "url": "https://open.spotify.com/album/5fKB6tISAVk4LsLwqfc5dZ"
+      },
+      "artists": [
+        {
+          "name": "Marco Polo",
+          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        }
+      ],
+      "date_added": "2026-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119265,
+      "name": "Foie Gras (Interlude)",
+      "url": "https://open.spotify.com/track/0aKvRXfYAmzDvNaTTgaxuz"
+    },
+    {
+      "album": {
         "name": "Port Authority: Instrumentals",
         "url": "https://open.spotify.com/album/1lcRcpO52ZmsfWhtn6USOx"
       },
@@ -1894,7 +1912,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-13",
+      "date_removed": null,
       "duration_ms": 195055,
       "name": "Heat of the Moment",
       "url": "https://open.spotify.com/track/46alQ7Ry32UqtgCqHgz43h"
@@ -2048,7 +2066,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 187800,
       "name": "Hold Up",
       "url": "https://open.spotify.com/track/31OZegULDzG3uE33Nl8iSw"
@@ -3834,7 +3852,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-28",
+      "date_removed": null,
       "duration_ms": 275902,
       "name": "Still Love Her (feat. Pearl Gates)",
       "url": "https://open.spotify.com/track/2lCy6pDCwkIjJmpbbTAuss"
@@ -4226,7 +4244,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 227624,
       "name": "The Fight Song (feat. Pharoahe Monch)",
       "url": "https://open.spotify.com/track/07bwXD9DluLZUvJnoPU5io"

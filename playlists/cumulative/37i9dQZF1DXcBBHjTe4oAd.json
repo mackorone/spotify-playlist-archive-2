@@ -915,6 +915,28 @@
     },
     {
       "album": {
+        "name": "DETONARR",
+        "url": "https://open.spotify.com/album/7jkZvFlSkAnlK0BUrVCQt9"
+      },
+      "artists": [
+        {
+          "name": "Leo JimVaz",
+          "url": "https://open.spotify.com/artist/3YTqWBjqsy3vwnlfOo7bk0"
+        },
+        {
+          "name": "Dj Teack",
+          "url": "https://open.spotify.com/artist/5ncZY0JMBZdQH7liaQpa5i"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158303,
+      "name": "DETONARR",
+      "url": "https://open.spotify.com/track/3lvzVwBQc2vRSqDCnmQASt"
+    },
+    {
+      "album": {
         "name": "DEZORDEN",
         "url": "https://open.spotify.com/album/0fR0aKwDxYkNR5fHqKmU5X"
       },

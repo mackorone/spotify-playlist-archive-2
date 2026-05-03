@@ -42,7 +42,7 @@
       ],
       "date_added": "2022-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-18",
+      "date_removed": null,
       "duration_ms": 222133,
       "name": "2 Poemes, Op. 32 : 2 Poemes, Op. 32: No. 1 in F sharp major",
       "url": "https://open.spotify.com/track/3p2Bs1MKlmN52yrJPlZpCY"
@@ -600,7 +600,7 @@
       ],
       "date_added": "2025-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 255760,
       "name": "Autodreamographical Tales (Arr. G. Riley for Chamber Ensemble): VI. Black Woman",
       "url": "https://open.spotify.com/track/0dxU2Gsoz3PqzZYQEXigVG"
@@ -644,7 +644,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-21",
+      "date_removed": null,
       "duration_ms": 447063,
       "name": "Autodreamographical Tales (Arr. G. Riley for Chamber Ensemble): VII. The Faquir",
       "url": "https://open.spotify.com/track/72CUUENa1TuPNS42P72uxZ"
@@ -768,7 +768,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 301026,
       "name": "Bird of Paradise: Part 1",
       "url": "https://open.spotify.com/track/7ozjAzViP4PTJxKuvIVpjE"
@@ -1328,7 +1328,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-24",
+      "date_removed": null,
       "duration_ms": 759120,
       "name": "Delay",
       "url": "https://open.spotify.com/track/6OftP5FpB3hY91MHEixb7o"
@@ -1548,7 +1548,7 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 1344000,
       "name": "Embroidery",
       "url": "https://open.spotify.com/track/7JfzN0hGy9zY2ixV9Q7f3M"
@@ -2999,6 +2999,24 @@
     },
     {
       "album": {
+        "name": "ORGANUM FOR STEFANO",
+        "url": "https://open.spotify.com/album/3irbeId7X1nzVOFz1llrXt"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        }
+      ],
+      "date_added": "2026-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228933,
+      "name": "ORGANUM FOR STEFANO - I",
+      "url": "https://open.spotify.com/track/5ivikqg8aQDbRkakSDLfxA"
+    },
+    {
+      "album": {
         "name": "Organum for Stefano",
         "url": "https://open.spotify.com/album/0oPdvcSO74uVjeg06cw47N"
       },
@@ -3436,7 +3454,7 @@
       ],
       "date_added": "2022-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 364960,
       "name": "Remember This",
       "url": "https://open.spotify.com/track/21rumctdL8MYeZKpv3T2gz"
@@ -4168,7 +4186,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-02",
+      "date_removed": null,
       "duration_ms": 1000000,
       "name": "The Harp of New Albion: III. Riding the Westerleys",
       "url": "https://open.spotify.com/track/5Wk6E15Rgb1MDIeLneuwK4"
@@ -4494,7 +4512,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 148400,
       "name": "The Oldtimer",
       "url": "https://open.spotify.com/track/3S7ue5i5UAW6kJmqogeort"

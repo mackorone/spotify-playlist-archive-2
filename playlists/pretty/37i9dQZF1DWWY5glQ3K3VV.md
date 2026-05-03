@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY5glQ3K3VV.md) - [plain]
 
 > SPINGERE
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,718 likes - 100 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,732 likes - 100 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY5glQ3K3VV.md) - [plain]
 | 99 | [FIORI TRASTEVERINI 2025](https://open.spotify.com/track/2pfOZSBz0AXJruqVTzQhrU) | [Ketama126](https://open.spotify.com/artist/0pSx3asj3usz5PRt8COo0E) | [33](https://open.spotify.com/album/0CnhUDR5R712uOBRT2KlHo) | 1:51 |
 | 100 | [G Class](https://open.spotify.com/track/4XcQdx9CH6hjwBkgsZNGIh) | [Loco Dice](https://open.spotify.com/artist/4rbw4Z9Hjn6n9x5oYzZe7P), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [G Class](https://open.spotify.com/album/6u19dZ1V8d9lCZgsARSXQY) | 2:28 |
 
-Snapshot ID: `AAAAANE3J1P3yZwdMTPgqGGOrDnQGEsN`
+Snapshot ID: `AAAAACj03FUrX9HsTyGfnIzQkL7glcXN`

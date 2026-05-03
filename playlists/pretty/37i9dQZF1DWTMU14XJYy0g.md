@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMU14XJYy0g.md) - [plain]
 
 > Más vivo que nunca, más nuestro que siempre 📸 Juanse
 
-[Spotify](https://open.spotify.com/user/spotify) - 512,659 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 512,656 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMU14XJYy0g.md) - [plain]
 | 99 | [El Fin Del Amor](https://open.spotify.com/track/0U1ktZf1FLmzraWqBQGqda) | [Rayos Láser](https://open.spotify.com/artist/3WGilHlQrv83h1CbF18BEs) | [El Fin Del Amor](https://open.spotify.com/album/5kiuTKPY8IrZu2dargiqHZ) | 3:04 |
 | 100 | [Semáforos](https://open.spotify.com/track/5PygqjBQXQEzmDVKzX9zLB) | [Terrores Nocturnos](https://open.spotify.com/artist/2Wy0l4828SAzHHGK6HEhw6), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [Gente en la ventana](https://open.spotify.com/album/1n0QvQJB2suA5fO2fLkNTN) | 3:18 |
 
-Snapshot ID: `AAAAAHOnpr9/MueiQBK0eW7R6SJN6w+g`
+Snapshot ID: `AAAAANBJHtxsYwPjkFN1sTSh6ltd29D7`

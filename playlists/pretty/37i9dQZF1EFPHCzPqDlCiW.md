@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPHCzPqDlCiW.md) - [plain]
 | 80 | [You Matter to Me](https://open.spotify.com/track/2Kr1yWpmD7t3wyuu2fVhMU) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Evering Road \(Deluxe\)](https://open.spotify.com/album/19ftohYqQetn7BoGQXXlSd) | 3:13 |
 | 81 | [Start Again](https://open.spotify.com/track/1FypvNODDT5HbtPbIDsugy) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Only Ticket Home](https://open.spotify.com/album/4xsgJS74UkFgI1DE71lnXX) | 3:40 |
 | 82 | [Novocaine](https://open.spotify.com/track/05TZjnjIisRVDp37lkhq8e) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [The Sweetest Part](https://open.spotify.com/album/0b4Skg0UskddlJ9v4XRQ0S) | 3:18 |
-| 83 | [Blueprints](https://open.spotify.com/track/3anbBxikNOxuhTyjgQbATh) | [Lilla Vargen](https://open.spotify.com/artist/1bYTiIHnxEdBncCHYCfE4j) | [Blueprints](https://open.spotify.com/album/7sPrHqcvrDmYO9AhKV5Tgo) | 3:32 |
-| 84 | [How Love Works](https://open.spotify.com/track/2meA2ysWGWZtpkD7uLYnHu) | [Allie Sherlock](https://open.spotify.com/artist/2yTmZ1PwFKkO0FjQp2flPl) | [How Love Works](https://open.spotify.com/album/5LZtErW9Uxo4cUSA11ZFHk) | 3:13 |
+| 83 | [How Love Works](https://open.spotify.com/track/2meA2ysWGWZtpkD7uLYnHu) | [Allie Sherlock](https://open.spotify.com/artist/2yTmZ1PwFKkO0FjQp2flPl) | [How Love Works](https://open.spotify.com/album/5LZtErW9Uxo4cUSA11ZFHk) | 3:13 |
+| 84 | [Blueprints](https://open.spotify.com/track/3anbBxikNOxuhTyjgQbATh) | [Lilla Vargen](https://open.spotify.com/artist/1bYTiIHnxEdBncCHYCfE4j) | [Blueprints](https://open.spotify.com/album/7sPrHqcvrDmYO9AhKV5Tgo) | 3:32 |
 | 85 | [White Noise](https://open.spotify.com/track/1152yel9cHm5sf2pCshL14) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Goldrush](https://open.spotify.com/album/21pu6GFhO61NL2ZgzEsHjm) | 2:51 |
 | 86 | [The Answer](https://open.spotify.com/track/4FNs5xchSa49YAzHh8QG09) | [Jamie Lawson](https://open.spotify.com/artist/1jhdZdzOd4TJLAHqQdkUND) | [The Years in Between](https://open.spotify.com/album/54vQHuNLb2W5K8e9vU6a8y) | 2:51 |
 | 87 | [London](https://open.spotify.com/track/4q6kvDd16UTfNHXLc5a923) | [MALIKAA](https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs) | [London](https://open.spotify.com/album/63GgFXDeK5LlZbvyb5Yt0Y) | 2:54 |
@@ -129,8 +129,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPHCzPqDlCiW.md) - [plain]
 | 119 | [Some Things](https://open.spotify.com/track/3DtAmVyq5J7xtO4paNkqHD) | [Mali\-Koa](https://open.spotify.com/artist/45Dc572GdbJ6Guc8X3UW24) | [Hunger](https://open.spotify.com/album/16t2OtzcshZ9wcDMk75hw1) | 3:12 |
 | 120 | [Me Before You](https://open.spotify.com/track/13VyJynuETCwjT17XXZbkL) | [Mali\-Koa](https://open.spotify.com/artist/45Dc572GdbJ6Guc8X3UW24) | [Hunger](https://open.spotify.com/album/16t2OtzcshZ9wcDMk75hw1) | 3:19 |
 | 121 | [Roots](https://open.spotify.com/track/4660UGjHeuUS1wvNwa2aVV) | [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [Roots](https://open.spotify.com/album/6rqhYGB9okEjw3KuciklEV) | 2:52 |
-| 122 | [Out of This World](https://open.spotify.com/track/47mWCYAYOuLlQULZ5CxgmY) | [JONES](https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv) | [New Skin](https://open.spotify.com/album/7kssLuW4quDDfOA4Krm2Rx) | 3:29 |
-| 123 | [Beautiful Life](https://open.spotify.com/track/15pViH8S6yor5SmFrV03ic) | [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Beautiful Life](https://open.spotify.com/album/2sGLInJA6FWZs6c8PeAG6i) | 2:57 |
+| 122 | [Beautiful Life](https://open.spotify.com/track/15pViH8S6yor5SmFrV03ic) | [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Beautiful Life](https://open.spotify.com/album/2sGLInJA6FWZs6c8PeAG6i) | 2:57 |
+| 123 | [Out of This World](https://open.spotify.com/track/47mWCYAYOuLlQULZ5CxgmY) | [JONES](https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv) | [New Skin](https://open.spotify.com/album/7kssLuW4quDDfOA4Krm2Rx) | 3:29 |
 | 124 | [Spiral](https://open.spotify.com/track/5H4bI4Sk5tCMgBRTOU5XkS) | [Rebecca Clements](https://open.spotify.com/artist/3e13PrKuO8pPF0nt8I1zII) | [Spiral](https://open.spotify.com/album/2LPwS46wjPwkWDmeyH0Evj) | 3:43 |
 | 125 | [5 In The Morning \(feat\. Sam Harper\)](https://open.spotify.com/track/6amSPEhJTzMFi8PnwxrGnC) | [XANDRA](https://open.spotify.com/artist/0R7QDPXqFaQ9F0FdTZUeca), [Sam Harper](https://open.spotify.com/artist/0czTwfZBBvlvlOiypvDvwe) | [5 In The Morning \(feat\. Sam Harper\)](https://open.spotify.com/album/2Bgwg2XoDhGjNvTxRlQXTd) | 2:41 |
 | 126 | [Lovebug](https://open.spotify.com/track/2pFRr20vrPWveznPTwQADB) | [Zoe Nash](https://open.spotify.com/artist/1yFie7615gesdLbvVVpYU5) | [Lovebug](https://open.spotify.com/album/62PT5tJV8q2LhXZwbMlAk1) | 3:09 |
@@ -171,4 +171,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPHCzPqDlCiW.md) - [plain]
 | 161 | [Cry Baby](https://open.spotify.com/track/6CUhst2FN306kgbPZRDMlX) | [Vize Verza](https://open.spotify.com/artist/7866WqAIb0XvXRlRPTUCir) | [Cry Baby](https://open.spotify.com/album/3qw9vLNZSZVp0nspvfnYMQ) | 2:54 |
 | 162 | [Mother](https://open.spotify.com/track/6w0UT19dw0IRWtLMQyn1Sq) | [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [Mother](https://open.spotify.com/album/3PzaUA5NnjrDsDECx5tcSe) | 3:19 |
 
-Snapshot ID: `AcQXFAAAAADL9a+gjF3uiNJaPIJ3fQsV`
+Snapshot ID: `AcQcqgAAAAB7grhgJV+7837tCArN3AOU`

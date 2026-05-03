@@ -1,12 +1,12 @@
 {
   "description": "This is Esteman. The essential tracks, all in one playlist.",
-  "num_followers": 41831,
+  "num_followers": 41828,
   "original_name": "This Is Esteman",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afKbgAAAAAB4r9aTahwtdyRF8uKFyd+S",
+  "snapshot_id": "afPtAAAAAAC+4+t7sWDI7lVkUPqoSuos",
   "tracks": [
     {
       "added_at": null,
@@ -131,18 +131,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "1er Acto",
-        "url": "https://open.spotify.com/album/2x5iHcA02lEoWUECIZ9gzg"
+        "name": "El Observador",
+        "url": "https://open.spotify.com/album/2LKVBvvtASD8v1213UXXw3"
       },
       "artists": [
+        {
+          "name": "Duplat",
+          "url": "https://open.spotify.com/artist/74Bgwc5zD9KyNHiMqy2QJO"
+        },
         {
           "name": "Esteman",
           "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
         }
       ],
-      "duration_ms": 185400,
-      "name": "El Distractor",
-      "url": "https://open.spotify.com/track/2U9clWgCEFDCwUM5Rdw6dv"
+      "duration_ms": 155179,
+      "name": "El Observador",
+      "url": "https://open.spotify.com/track/21tti59fYYrESA5SjxY5Ep"
     },
     {
       "added_at": null,
@@ -167,6 +171,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "1er Acto",
+        "url": "https://open.spotify.com/album/2x5iHcA02lEoWUECIZ9gzg"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 185400,
+      "name": "El Distractor",
+      "url": "https://open.spotify.com/track/2U9clWgCEFDCwUM5Rdw6dv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Problemas de Conversaci\u00f3n",
         "url": "https://open.spotify.com/album/2PfTXHRmn6UVpa48VXFtc8"
       },
@@ -183,26 +203,6 @@
       "duration_ms": 176639,
       "name": "Problemas de Conversaci\u00f3n",
       "url": "https://open.spotify.com/track/0g28lX74uH6EYchTkuY26O"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Observador",
-        "url": "https://open.spotify.com/album/2LKVBvvtASD8v1213UXXw3"
-      },
-      "artists": [
-        {
-          "name": "Duplat",
-          "url": "https://open.spotify.com/artist/74Bgwc5zD9KyNHiMqy2QJO"
-        },
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 155179,
-      "name": "El Observador",
-      "url": "https://open.spotify.com/track/21tti59fYYrESA5SjxY5Ep"
     },
     {
       "added_at": null,
@@ -579,26 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "M\u00edstica",
-        "url": "https://open.spotify.com/album/4RVFmSzGSl92AyptQdhOub"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        },
-        {
-          "name": "Bandalos Chinos",
-          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
-        }
-      ],
-      "duration_ms": 232693,
-      "name": "M\u00edstica",
-      "url": "https://open.spotify.com/track/4YMPFghULbeUXAB4HvXqhy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Duele",
         "url": "https://open.spotify.com/album/79b5yLLMqlbw9uEhWRCks3"
       },
@@ -615,6 +595,26 @@
       "duration_ms": 238508,
       "name": "Duele",
       "url": "https://open.spotify.com/track/1jdRfL23ge6oJHnEtcvr8n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "M\u00edstica",
+        "url": "https://open.spotify.com/album/4RVFmSzGSl92AyptQdhOub"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
+        {
+          "name": "Bandalos Chinos",
+          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
+        }
+      ],
+      "duration_ms": 232693,
+      "name": "M\u00edstica",
+      "url": "https://open.spotify.com/track/4YMPFghULbeUXAB4HvXqhy"
     },
     {
       "added_at": null,
@@ -787,26 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Secretos",
-        "url": "https://open.spotify.com/album/2anoc6bJ4VPsGZQxrWZTOD"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        },
-        {
-          "name": "Villano Antillano",
-          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
-        }
-      ],
-      "duration_ms": 186853,
-      "name": "Noches De Verano",
-      "url": "https://open.spotify.com/track/6V3rv3WLYQCta6jadsslm0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ca\u00f3tica Belleza",
         "url": "https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS"
       },
@@ -823,6 +803,26 @@
       "duration_ms": 268280,
       "name": "Adelante",
       "url": "https://open.spotify.com/track/1FgYBRmeJF5x1H1bBVTVKt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Secretos",
+        "url": "https://open.spotify.com/album/2anoc6bJ4VPsGZQxrWZTOD"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
+        {
+          "name": "Villano Antillano",
+          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
+        }
+      ],
+      "duration_ms": 186853,
+      "name": "Noches De Verano",
+      "url": "https://open.spotify.com/track/6V3rv3WLYQCta6jadsslm0"
     },
     {
       "added_at": null,
@@ -871,22 +871,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Secretos",
-        "url": "https://open.spotify.com/album/2anoc6bJ4VPsGZQxrWZTOD"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 187640,
-      "name": "Cartagena",
-      "url": "https://open.spotify.com/track/1ZgCfe0fYlgjvbRpJYp2hV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ca\u00f3tica Belleza",
         "url": "https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 213040,
       "name": "Como Vez Primera",
       "url": "https://open.spotify.com/track/7akpZSIOBwaSDES0wS6ekC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Secretos",
+        "url": "https://open.spotify.com/album/2anoc6bJ4VPsGZQxrWZTOD"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 187640,
+      "name": "Cartagena",
+      "url": "https://open.spotify.com/track/1ZgCfe0fYlgjvbRpJYp2hV"
     },
     {
       "added_at": null,
@@ -955,22 +955,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Secretos",
-        "url": "https://open.spotify.com/album/2anoc6bJ4VPsGZQxrWZTOD"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 165133,
-      "name": "Silencio",
-      "url": "https://open.spotify.com/track/63tsypGXts1WqBAK7BYiCA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ca\u00f3tica Belleza",
         "url": "https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 212066,
       "name": "Frenes\u00ed",
       "url": "https://open.spotify.com/track/6xLUhTLKjdDrfbiTOonT6e"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Secretos",
+        "url": "https://open.spotify.com/album/2anoc6bJ4VPsGZQxrWZTOD"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 165133,
+      "name": "Silencio",
+      "url": "https://open.spotify.com/track/63tsypGXts1WqBAK7BYiCA"
     },
     {
       "added_at": null,
@@ -1027,18 +1027,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Secretos",
-        "url": "https://open.spotify.com/album/2anoc6bJ4VPsGZQxrWZTOD"
+        "name": "Desconocidos",
+        "url": "https://open.spotify.com/album/24milmfp1Ttd2ZYjRjezWC"
       },
       "artists": [
         {
           "name": "Esteman",
           "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
+        {
+          "name": "Recoversi\u00f3n",
+          "url": "https://open.spotify.com/artist/0NdB1t0K23mQgPxlAvqN1r"
         }
       ],
-      "duration_ms": 183640,
-      "name": "Secreto",
-      "url": "https://open.spotify.com/track/0BJxnZcGYv7ZQMBLdOUzmY"
+      "duration_ms": 195913,
+      "name": "Desconocidos",
+      "url": "https://open.spotify.com/track/2dyP9LDKtL2QpU7No6Zxri"
     }
   ],
   "unique_name": "This Is Esteman",

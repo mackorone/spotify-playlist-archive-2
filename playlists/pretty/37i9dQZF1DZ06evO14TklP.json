@@ -1,12 +1,12 @@
 {
   "description": "This is Ebony. The essential tracks, all in one playlist.",
-  "num_followers": 20101,
+  "num_followers": 20116,
   "original_name": "This Is Ebony",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afKbgAAAAADdARP+kZ8OofxQb9Qzs46Q",
+  "snapshot_id": "afPtAAAAAABKKc+1njU7xjwc7CPrlyMA",
   "tracks": [
     {
       "added_at": null,
@@ -167,22 +167,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "KM2 (De Luxo)",
-        "url": "https://open.spotify.com/album/6TWX7QLULtq9672vLeUZTO"
-      },
-      "artists": [
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        }
-      ],
-      "duration_ms": 68063,
-      "name": "Dona de Casa",
-      "url": "https://open.spotify.com/track/3JT4I9BqWvwwvtmc4jbDLF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "24hrs",
         "url": "https://open.spotify.com/album/2eYAvCp12tB6FP8CJyM5ht"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 140727,
       "name": "24hrs",
       "url": "https://open.spotify.com/track/0UDwSxFGf92TjJYzeb0vdm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KM2 (De Luxo)",
+        "url": "https://open.spotify.com/album/6TWX7QLULtq9672vLeUZTO"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        }
+      ],
+      "duration_ms": 68063,
+      "name": "Dona de Casa",
+      "url": "https://open.spotify.com/track/3JT4I9BqWvwwvtmc4jbDLF"
     },
     {
       "added_at": null,
@@ -923,6 +923,50 @@
     {
       "added_at": null,
       "album": {
+        "name": "Condessa",
+        "url": "https://open.spotify.com/album/09p3ofskrFXhmN9dUe5Aiu"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "Yunk Vino",
+          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
+        },
+        {
+          "name": "Celo1st",
+          "url": "https://open.spotify.com/artist/6RC5tRbakJ46EExHuPmxzK"
+        }
+      ],
+      "duration_ms": 134569,
+      "name": "Disco",
+      "url": "https://open.spotify.com/track/3NLir84ijUvixJsOxo2lxU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vis\u00e3o Perif\u00e9rica",
+        "url": "https://open.spotify.com/album/3P2UK2xxbzATRIgogpF3YF"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "Yunk Vino",
+          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
+        }
+      ],
+      "duration_ms": 132213,
+      "name": "After",
+      "url": "https://open.spotify.com/track/6WODGYSGiq0aUNqYlOYNhA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Poetisas No Topo 2",
         "url": "https://open.spotify.com/album/16uPlD73yxyVijz6qPdYVu"
       },
@@ -963,50 +1007,6 @@
       "duration_ms": 556662,
       "name": "Poetisas No Topo 2",
       "url": "https://open.spotify.com/track/00LRPoVKWNm7OxeX4TvC8y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vis\u00e3o Perif\u00e9rica",
-        "url": "https://open.spotify.com/album/3P2UK2xxbzATRIgogpF3YF"
-      },
-      "artists": [
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        },
-        {
-          "name": "Yunk Vino",
-          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
-        }
-      ],
-      "duration_ms": 132213,
-      "name": "After",
-      "url": "https://open.spotify.com/track/6WODGYSGiq0aUNqYlOYNhA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Condessa",
-        "url": "https://open.spotify.com/album/09p3ofskrFXhmN9dUe5Aiu"
-      },
-      "artists": [
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        },
-        {
-          "name": "Yunk Vino",
-          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
-        },
-        {
-          "name": "Celo1st",
-          "url": "https://open.spotify.com/artist/6RC5tRbakJ46EExHuPmxzK"
-        }
-      ],
-      "duration_ms": 134569,
-      "name": "Disco",
-      "url": "https://open.spotify.com/track/3NLir84ijUvixJsOxo2lxU"
     },
     {
       "added_at": null,

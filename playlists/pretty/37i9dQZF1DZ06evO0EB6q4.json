@@ -1,12 +1,12 @@
 {
   "description": "This is Nanpa B\u00e1sico. The essential tracks, all in one playlist.",
-  "num_followers": 264513,
+  "num_followers": 264542,
   "original_name": "This Is Nanpa B\u00e1sico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afKbgAAAAAAhAKVNwqXQYs/ZhzarMNVw",
+  "snapshot_id": "afPtAAAAAAB0Ys9VY0ReX2vqGNgPjApk",
   "tracks": [
     {
       "added_at": null,
@@ -519,26 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "1+1=1",
-        "url": "https://open.spotify.com/album/1FWB8Xe1840KMmDWKsfS7b"
-      },
-      "artists": [
-        {
-          "name": "Miguel Bueno",
-          "url": "https://open.spotify.com/artist/3frx2nsVBAA3DvbKTE9JeT"
-        },
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 163404,
-      "name": "1+1=1",
-      "url": "https://open.spotify.com/track/3aJCdoXJpMXaGOMttPeR6R"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cari\u00f1itos y Flores",
         "url": "https://open.spotify.com/album/70GVEB2pOYx7hViOJV9ucd"
       },
@@ -555,6 +535,26 @@
       "duration_ms": 159012,
       "name": "Cari\u00f1itos y Flores",
       "url": "https://open.spotify.com/track/1GOJEorxVpE2s6jhqUyRNh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "1+1=1",
+        "url": "https://open.spotify.com/album/1FWB8Xe1840KMmDWKsfS7b"
+      },
+      "artists": [
+        {
+          "name": "Miguel Bueno",
+          "url": "https://open.spotify.com/artist/3frx2nsVBAA3DvbKTE9JeT"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 163404,
+      "name": "1+1=1",
+      "url": "https://open.spotify.com/track/3aJCdoXJpMXaGOMttPeR6R"
     },
     {
       "added_at": null,
@@ -819,6 +819,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Que Tin y Que Tan",
+        "url": "https://open.spotify.com/album/6I3EDRLLHEek6mF7yGKcMu"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 155198,
+      "name": "Parece un sue\u00f1o",
+      "url": "https://open.spotify.com/track/3jP3gpR2Ni7FOJTTymz5v6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Los No Tan Tristes",
         "url": "https://open.spotify.com/album/2z1eY7EHl7VGDaDdyEW1LM"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 313500,
       "name": "D\u00e9jame en Paz",
       "url": "https://open.spotify.com/track/7y16XmtzjTGe8QxTmExwSX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Que Tin y Que Tan",
-        "url": "https://open.spotify.com/album/6I3EDRLLHEek6mF7yGKcMu"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 155198,
-      "name": "Parece un sue\u00f1o",
-      "url": "https://open.spotify.com/track/3jP3gpR2Ni7FOJTTymz5v6"
     },
     {
       "added_at": null,
@@ -951,6 +951,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Que Tin y Que Tan",
+        "url": "https://open.spotify.com/album/6I3EDRLLHEek6mF7yGKcMu"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 149895,
+      "name": "Si Usted Quiere",
+      "url": "https://open.spotify.com/track/2DkcpqPaeY8cHZkdW6bX9O"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Me Gustas",
         "url": "https://open.spotify.com/album/6OvMtRnVQ8DmGU9AeBMmuu"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 177313,
       "name": "Me Gustas",
       "url": "https://open.spotify.com/track/52KDBENtaXF2tlJdqXCLQd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Que Tin y Que Tan",
-        "url": "https://open.spotify.com/album/6I3EDRLLHEek6mF7yGKcMu"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 149895,
-      "name": "Si Usted Quiere",
-      "url": "https://open.spotify.com/track/2DkcpqPaeY8cHZkdW6bX9O"
     },
     {
       "added_at": null,

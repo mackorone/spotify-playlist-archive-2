@@ -2,9 +2,9 @@
 
 ### [ung kniv ](https://open.spotify.com/playlist/37i9dQZF1DWTMVK39I3IIK)
 
-> de skarpeste knive i dansk musik  📸    Cover: Marcus.wav
+> de skarpeste knive i dansk musik  📸    Cover: BJØRN
 
-417 songs - 21 hr 24 min
+418 songs - 21 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,7 +213,7 @@
 | [Klubben \(feat\. Choir Of Young Believers\)](https://open.spotify.com/track/6FKyUOnL2xAVqiu4HlwJKN) | [Ganger](https://open.spotify.com/artist/0VkD20LbMsdWiikUO83GPT), [Choir Of Young Believers](https://open.spotify.com/artist/4aXPrNXYJLziXeH7Obkea7) | [Pisk](https://open.spotify.com/album/76WG25xbB0WzKtfwgzivt1) | 3:50 | 2025-01-23 |  |
 | [Klubben \(i Klubben\) \(feat\. Choir Of Young Believers\)](https://open.spotify.com/track/2jlxBDCYsN3jdKqA7EviyG) | [Ganger](https://open.spotify.com/artist/0VkD20LbMsdWiikUO83GPT), [Choir Of Young Believers](https://open.spotify.com/artist/4aXPrNXYJLziXeH7Obkea7) | [Klubben \(i Klubben\)](https://open.spotify.com/album/2yxOclgOPNKkEJ5rC5OQ1j) | 2:51 | 2024-06-27 | 2024-08-05 |
 | [Kom Jeg Lidt For Tæt På](https://open.spotify.com/track/2LX5B1o9HEewHqutr10e55) | [Undertekst](https://open.spotify.com/artist/6bYrq1Uxd15cMGbmcZCLMM) | [Kom Jeg Lidt For Tæt På](https://open.spotify.com/album/6DnlVV0aiAROgRYI3LZvfs) | 3:09 | 2025-03-27 | 2025-04-04 |
-| [Kommet Videre](https://open.spotify.com/track/4IGButeXvqRqDjj9rM2iUa) | [Laura Vejlby](https://open.spotify.com/artist/4V4WZwkKxV8Y2u5GVF3cIJ) | [Kommet Videre](https://open.spotify.com/album/7hYNwd5AwQYI0MDM4Vp4hP) | 2:21 | 2025-10-16 |  |
+| [Kommet Videre](https://open.spotify.com/track/4IGButeXvqRqDjj9rM2iUa) | [Laura Vejlby](https://open.spotify.com/artist/4V4WZwkKxV8Y2u5GVF3cIJ) | [Kommet Videre](https://open.spotify.com/album/7hYNwd5AwQYI0MDM4Vp4hP) | 2:21 | 2025-10-16 | 2026-05-03 |
 | [Krystalklart Kaos](https://open.spotify.com/track/6ZXVSgQpC0TzJTnsMbFSCU) | [PATINA](https://open.spotify.com/artist/6SQ0yQG7sRlasn0yrSz7Gh) | [Uvejr \- Del 1](https://open.spotify.com/album/7xmM67m7uPRM6VYhSn8Uu0) | 3:35 | 2024-10-10 | 2025-05-11 |
 | [Kun For Festerne](https://open.spotify.com/track/5BcjRKsn31CzIz1K72LpZN) | [FØNS](https://open.spotify.com/artist/2f7J0tvrmhyRViGRtMnTfi) | [Kun For Festerne](https://open.spotify.com/album/1KfQdQcjuTtKTjxIGBTWmn) | 2:39 | 2025-06-26 | 2025-09-05 |
 | [KUN FOR HENDE](https://open.spotify.com/track/00det1fLbLgM0Q3ECIL3S4) | [Kris](https://open.spotify.com/artist/1rM3GL7uWxYk7qWyvGaSnw), [Zira](https://open.spotify.com/artist/4pJAB4vr5CJYRINQQ8WtfB) | [KUN FOR HENDE](https://open.spotify.com/album/7M4x51QpouLVWnVPIRhRGW) | 2:32 | 2026-03-05 | 2026-03-28 |
@@ -240,6 +240,7 @@
 | [Maler](https://open.spotify.com/track/2klZrdYgQZqwIqX1aMzBKZ) | [BONFÍ](https://open.spotify.com/artist/3rDUvh74JdHkHrgV7xyEia) | [Maler](https://open.spotify.com/album/4oE9RcZnqrhAxkYIrzmffP) | 2:31 | 2024-06-27 | 2025-03-03 |
 | [Mand På En Nat](https://open.spotify.com/track/003Ljf2u0rLc63T1jSTa0L) | [URO](https://open.spotify.com/artist/5FIdLxucf1EKqZfxeeXZzD) | [I storslået kinddans, med livet som indsats](https://open.spotify.com/album/4kCIEEooRWkYSiZhn7EECg) | 2:51 | 2024-06-27 | 2025-02-07 |
 | [Mandag Til Fredag](https://open.spotify.com/track/2LA30t2wNFyjgvbyms415y) | [Asger](https://open.spotify.com/artist/63ROoz2PyporZ9RAkffc1d) | [Mandag Til Fredag](https://open.spotify.com/album/4RXOrQQ1XUGZkn4klKcIem) | 3:17 | 2025-11-20 |  |
+| [Mareridt](https://open.spotify.com/track/6hhNPBPQDhO0WYbhVFFCIM) | [BJØRN](https://open.spotify.com/artist/6JgNOXKB2X1JjGYReJIa9D) | [Mareridt](https://open.spotify.com/album/2fTcRdTAQuCADEZj5KZGLf) | 3:03 | 2026-05-02 |  |
 | [Marianne og Henrik](https://open.spotify.com/track/0awHR3yreICeQbqZmSfGVw) | [Sofie1998](https://open.spotify.com/artist/56kAP8Glt3AVDWrOwxX9aB) | [Marianne og Henrik](https://open.spotify.com/album/0sRUBB8pBrYJHak5F0sppr) | 3:00 | 2024-10-03 |  |
 | [Marigold](https://open.spotify.com/track/0ial8d0UqAOVetenDTpcI7) | [snuggle](https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa) | [Marigold](https://open.spotify.com/album/0P4fFsIA6Y95WLKRg6UHW1) | 3:40 | 2025-01-23 | 2025-03-28 |
 | [Mere End Bare Kaffe](https://open.spotify.com/track/04EY5MIcdHXhVIeEKFi79u) | [Gejst](https://open.spotify.com/artist/5aYWNs1bORooRHDSeuZ1IP) | [Mere End Bare Kaffe](https://open.spotify.com/album/4uJiYK3mVmoNMLbKe8N7G9) | 3:01 | 2025-10-02 | 2025-10-10 |

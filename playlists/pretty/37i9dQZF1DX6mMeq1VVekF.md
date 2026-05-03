@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 
 > No tags, no labels \- just free form\. Cover: BaggE
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,667 likes - 60 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,672 likes - 60 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 | 59 | [Found Love](https://open.spotify.com/track/5Puvc0yCAbWyz5qdTRIcJ0) | [Lylo Gold](https://open.spotify.com/artist/7eBQUbzafUptbgfThBl3dW) | [Lylo Land](https://open.spotify.com/album/1TNGZ5RPitdnsLEvC4GaFT) | 3:07 |
 | 60 | [You & I](https://open.spotify.com/track/4cpQrTmSubTzMzFgquNpsa) | [CROOKS INC.](https://open.spotify.com/artist/50HRK8mAnUhlSOOp7MgZxp) | [You & I](https://open.spotify.com/album/7cX35zQ6fvQgO5JjSNWmbA) | 3:14 |
 
-Snapshot ID: `AAAAALSC0CJg1sZL8Kw4oDEsTFyIoOrE`
+Snapshot ID: `AAAAAB76h0bIH6mJZFiopx2/9Ji+faKn`

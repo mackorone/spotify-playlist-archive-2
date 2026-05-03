@@ -1,12 +1,12 @@
 {
   "description": "This is Arooj Aftab. The essential tracks, all in one playlist.",
-  "num_followers": 9503,
+  "num_followers": 9504,
   "original_name": "This Is Arooj Aftab",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afKbgAAAAAD4X2tDlZmewP6HzIKfOHdo",
+  "snapshot_id": "afPtAAAAAABYQLGY1U0CqLhS0nZlmDmR",
   "tracks": [
     {
       "added_at": null,
@@ -83,22 +83,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bait (Music From The Original Series)",
-        "url": "https://open.spotify.com/album/6f43ezOz3224d2Ba0PTLXS"
+        "name": "Freedom Now",
+        "url": "https://open.spotify.com/album/3Bj0rk8lOxbzs5D2gOj9RO"
       },
       "artists": [
         {
-          "name": "Anish Kumar",
-          "url": "https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8"
+          "name": "Nick Mulvey",
+          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
+        },
+        {
+          "name": "Golshifteh Farahani",
+          "url": "https://open.spotify.com/artist/2r87yC8H1mrlvAP8kq6BuB"
         },
         {
           "name": "Arooj Aftab",
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
         }
       ],
-      "duration_ms": 209317,
-      "name": "Sweet Dreams (Are Made Of This)",
-      "url": "https://open.spotify.com/track/4NypXu0M8Fjd2oS0npWFkb"
+      "duration_ms": 224996,
+      "name": "Freedom Now",
+      "url": "https://open.spotify.com/track/4rHQ8H5ZI8a9aIEGff3td5"
     },
     {
       "added_at": null,
@@ -139,26 +143,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Freedom Now",
-        "url": "https://open.spotify.com/album/3Bj0rk8lOxbzs5D2gOj9RO"
+        "name": "Bait (Music From & Inspired by the Original Series)",
+        "url": "https://open.spotify.com/album/03ZfkSBjBDBWbI5b7yjtzX"
       },
       "artists": [
         {
-          "name": "Nick Mulvey",
-          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
-        },
-        {
-          "name": "Golshifteh Farahani",
-          "url": "https://open.spotify.com/artist/2r87yC8H1mrlvAP8kq6BuB"
+          "name": "Anish Kumar",
+          "url": "https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8"
         },
         {
           "name": "Arooj Aftab",
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
         }
       ],
-      "duration_ms": 224996,
-      "name": "Freedom Now",
-      "url": "https://open.spotify.com/track/4rHQ8H5ZI8a9aIEGff3td5"
+      "duration_ms": 209317,
+      "name": "Sweet Dreams (Are Made Of This)",
+      "url": "https://open.spotify.com/track/0cBwTa35pfbzD3vo5W519M"
     },
     {
       "added_at": null,
@@ -472,9 +472,9 @@
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
         }
       ],
-      "duration_ms": 119500,
-      "name": "Beyond the Smoke Screen",
-      "url": "https://open.spotify.com/track/2xdoRmz28lop5nqCc4v1GC"
+      "duration_ms": 290909,
+      "name": "Not Trapped Yet",
+      "url": "https://open.spotify.com/track/7bhsMQY2L8XyqcWEPXyNUK"
     },
     {
       "added_at": null,
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
         }
       ],
-      "duration_ms": 290909,
-      "name": "Not Trapped Yet",
-      "url": "https://open.spotify.com/track/7bhsMQY2L8XyqcWEPXyNUK"
+      "duration_ms": 119500,
+      "name": "Beyond the Smoke Screen",
+      "url": "https://open.spotify.com/track/2xdoRmz28lop5nqCc4v1GC"
     },
     {
       "added_at": null,
@@ -710,15 +710,11 @@
         {
           "name": "Arooj Aftab",
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
-        },
-        {
-          "name": "\u0410\u043d\u043d\u0430 \u0411\u043e",
-          "url": "https://open.spotify.com/artist/7yK1qjHgjhzJIJj5jGqLvS"
         }
       ],
-      "duration_ms": 211248,
-      "name": "Abode",
-      "url": "https://open.spotify.com/track/1QJp3p6CpuXcYdKx4DrS4I"
+      "duration_ms": 200590,
+      "name": "Stay With Me, Pt. 2",
+      "url": "https://open.spotify.com/track/7pIsiyL5aLQnUDpf4qKhnB"
     },
     {
       "added_at": null,
@@ -794,11 +790,15 @@
         {
           "name": "Arooj Aftab",
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        },
+        {
+          "name": "\u0410\u043d\u043d\u0430 \u0411\u043e",
+          "url": "https://open.spotify.com/artist/7yK1qjHgjhzJIJj5jGqLvS"
         }
       ],
-      "duration_ms": 185227,
-      "name": "Starling",
-      "url": "https://open.spotify.com/track/5AYoaXGvbUYMnMlfAP62uT"
+      "duration_ms": 211248,
+      "name": "Abode",
+      "url": "https://open.spotify.com/track/1QJp3p6CpuXcYdKx4DrS4I"
     }
   ],
   "unique_name": "This Is Arooj Aftab",

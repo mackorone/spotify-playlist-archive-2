@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Middle of Nowhere",
+        "url": "https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "date_added": "2026-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168208,
+      "name": "Abilene",
+      "url": "https://open.spotify.com/track/1jqDLQJVbfYh525gPEZkvC"
+    },
+    {
+      "album": {
         "name": "Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition)",
         "url": "https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz"
       },
@@ -34,7 +52,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 139653,
       "name": "angel",
       "url": "https://open.spotify.com/track/1fr6WZfau4vNzDFfHYSJVT"
@@ -92,6 +110,24 @@
       "duration_ms": 238493,
       "name": "Arm's Length",
       "url": "https://open.spotify.com/track/5NuUKKMA2qsltM1DnSJZLL"
+    },
+    {
+      "album": {
+        "name": "Middle of Nowhere",
+        "url": "https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "date_added": "2026-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231419,
+      "name": "Back On The Wagon",
+      "url": "https://open.spotify.com/track/02xaiXgg0a7tcAuDShJ7AQ"
     },
     {
       "album": {
@@ -168,7 +204,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 188386,
       "name": "Blowin' Smoke",
       "url": "https://open.spotify.com/track/4oqD7zXh23uvf583rDkunI"
@@ -302,6 +338,28 @@
       "duration_ms": 184000,
       "name": "cherry blossom",
       "url": "https://open.spotify.com/track/3PT3dmokgfqJSsZxv4Njw5"
+    },
+    {
+      "album": {
+        "name": "Middle of Nowhere",
+        "url": "https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        },
+        {
+          "name": "Gregory Alan Isakov",
+          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
+        }
+      ],
+      "date_added": "2026-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192397,
+      "name": "Coyote (feat. Gregory Alan Isakov)",
+      "url": "https://open.spotify.com/track/795nt0TKDtjIe0o0f1eMx5"
     },
     {
       "album": {
@@ -739,6 +797,24 @@
     },
     {
       "album": {
+        "name": "Middle of Nowhere",
+        "url": "https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "date_added": "2026-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231253,
+      "name": "I Believe In Ghosts",
+      "url": "https://open.spotify.com/track/7grbib2M3CyUJUf4dcm7uQ"
+    },
+    {
+      "album": {
         "name": "I Don't Wanna Party Anymore (Feat. Kacey Musgraves)",
         "url": "https://open.spotify.com/album/6cSRavtBLkklc8TjWTi91S"
       },
@@ -985,6 +1061,24 @@
     },
     {
       "album": {
+        "name": "Middle of Nowhere",
+        "url": "https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "date_added": "2026-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256475,
+      "name": "Loneliest Girl",
+      "url": "https://open.spotify.com/track/2GOAQ9e3SL6W9AlwoudUGB"
+    },
+    {
+      "album": {
         "name": "Golden Hour",
         "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
       },
@@ -1036,7 +1130,7 @@
       ],
       "date_added": "2025-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 196197,
       "name": "Lost In Translation",
       "url": "https://open.spotify.com/track/2DQ4xJf4xm1Ho8yKQkOqgi"
@@ -1366,7 +1460,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 95746,
       "name": "Okie From Muskogee - Live",
       "url": "https://open.spotify.com/track/529x2bhs2op70bGqGOoLk4"
@@ -1497,6 +1591,24 @@
     },
     {
       "album": {
+        "name": "Middle of Nowhere",
+        "url": "https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "date_added": "2026-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213801,
+      "name": "Rhinestoned",
+      "url": "https://open.spotify.com/track/3gzUTPvmKy7L7xaKoVIvBD"
+    },
+    {
+      "album": {
         "name": "Deeper Well: Deeper into the Well",
         "url": "https://open.spotify.com/album/1qkr1AJ7sc8IF2nLmjCBkZ"
       },
@@ -1614,7 +1726,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 232298,
       "name": "Sitting In The Corner (feat. Adriel Favela & Kacey Musgraves)",
       "url": "https://open.spotify.com/track/1Cx5pTBRWI67JXVmMGJT23"
@@ -1704,7 +1816,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 182680,
       "name": "Step Off",
       "url": "https://open.spotify.com/track/5XolYC560U2AD6YJUemw2G"

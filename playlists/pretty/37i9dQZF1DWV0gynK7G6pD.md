@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Arcadi Volodos
 
-[Spotify](https://open.spotify.com/user/spotify) - 755,229 likes - 78 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 755,219 likes - 78 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 | 41 | [Sweet Gigue \(After Handel's Suite in E Minor\-Gigue, G.162\)](https://open.spotify.com/track/1nTIDT6Od7THr2JMou2Zi7) | [Clara Ponty](https://open.spotify.com/artist/6DlfpltePGjtO57AncSofZ) | [Handel Reimagined](https://open.spotify.com/album/6ZnERCaweQmUwsyB0MfEn6) | 5:35 |
 | 42 | [Carmen Suite No\. 1 \(Arr\. for Piano Solo by Xi Tian\): I\. Prélude](https://open.spotify.com/track/5vaPrxWcB69MSKYjoIAMLF) | [Georges Bizet](https://open.spotify.com/artist/2D7RkvtKKb6E5UmbjQM1Jd), [Xi Tian](https://open.spotify.com/artist/3jIYg3WETijQ6R62nBO5iq) | [Carmen Suite No\. 1 \(Arr\. for Piano Solo by Xi Tian\): I\. Prélude](https://open.spotify.com/album/57IPtboCIfzdrwrTV2MCdG) | 1:17 |
 | 43 | [Concerto for Violin and Strings: I\. Maestoso](https://open.spotify.com/track/58XDSHAudD9de86uQSW0uX) | [Dimitri Cervo](https://open.spotify.com/artist/6vMyAixJ04noKcJYKum2u7) | [Cervo: Concerto for Violin and Strings: I\. Maestoso](https://open.spotify.com/album/473HR96SkakFrpJneY6kYG) | 3:15 |
-| 44 | [Cello Sonata in A\-Major, G4: Allegro](https://open.spotify.com/track/5BhM7oetyVcQQXF8GNmxQb) | [Luigi Boccherini](https://open.spotify.com/artist/2l4vGfFV7e46yO8lxfxR76), [Johannes Przygodda](https://open.spotify.com/artist/2Aav7s7PXPNPSbbLWtK1TT), [Fiona Robson](https://open.spotify.com/artist/5jgMb0XXw0MnOO1kKLBLi9) | [Luigi Boccherini: Cello Sonata in A\-Major G4](https://open.spotify.com/album/3Xsyzwd48qTTbs6iqu9L20) | 6:28 |
+| 44 | [Cello Sonata in A\-Major, G4: Allegro](https://open.spotify.com/track/5BhM7oetyVcQQXF8GNmxQb) | [Luigi Boccherini](https://open.spotify.com/artist/2l4vGfFV7e46yO8lxfxR76), [Johannes Przygodda](https://open.spotify.com/artist/3ofAzX8lQ1ChDHkCi7ABMn), [Fiona Robson](https://open.spotify.com/artist/5jgMb0XXw0MnOO1kKLBLi9) | [Luigi Boccherini: Cello Sonata in A\-Major G4](https://open.spotify.com/album/3Xsyzwd48qTTbs6iqu9L20) | 6:28 |
 | 45 | [Afternoon Blues](https://open.spotify.com/track/1aPb1ytfbp1dPQmoP0SiJr) | [Violeta Vicci](https://open.spotify.com/artist/7hVmrq6V8hKPoTD6K0nr3C), [Bruno Bavota](https://open.spotify.com/artist/22kkuXdiuYd7ISzXU5o7eH) | [Afternoon Blues](https://open.spotify.com/album/3ZUumhvfJ36AQxjNakJiKV) | 3:09 |
 | 46 | [Prelude in C Major, BWV 846: No\. 1](https://open.spotify.com/track/27XYcF6SYhxcraClSLEbic) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Aurelius Saint\-Claire](https://open.spotify.com/artist/7dLJOcrZ9bKxuCQKdDtbZy), [Ryan Tenner](https://open.spotify.com/artist/29i15whXYvAclIabh8MwFb) | [The Morning Masterpieces, Vol\. I](https://open.spotify.com/album/7tmV6ScJslmNvYpB4ha2NF) | 2:14 |
 | 47 | [Nocturne](https://open.spotify.com/track/5jdocE2aXO6r7qqPAODSdZ) | [Mary Howe](https://open.spotify.com/artist/6HLoSbrjmWRfpE7MM6ONDK), [Elenora Pertz](https://open.spotify.com/artist/0NCVXMZYgbvcYiOHzIVeNX) | [TERRA](https://open.spotify.com/album/6T4UN1bio8ZArbGjRlgrTh) | 2:47 |

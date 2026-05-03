@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afKbgAAAAAA7jdIzm9WxkaSxt95QvwCr",
+  "snapshot_id": "afPtAAAAAACKl53mf4CvmjJTcmWIX1NX",
   "tracks": [
     {
       "added_at": null,
@@ -431,6 +431,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "CINTO ARMANI CON LOS TENIS TOMMY (REMIX)",
+        "url": "https://open.spotify.com/album/1MCfMKE6BNupH6KInSva9D"
+      },
+      "artists": [
+        {
+          "name": "Jared Fl\u00f3rez",
+          "url": "https://open.spotify.com/artist/5YeLPRA72cFvDkXHrbXQS7"
+        },
+        {
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        }
+      ],
+      "duration_ms": 163370,
+      "name": "CINTO ARMANI CON LOS TENIS TOMMY - REMIX",
+      "url": "https://open.spotify.com/track/6kZSYKE80jmaPA04n8UssR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "De Perro",
         "url": "https://open.spotify.com/album/0xYL2r1YGEsWYUOy1zFx4F"
       },
@@ -451,26 +471,6 @@
       "duration_ms": 151697,
       "name": "De Perro",
       "url": "https://open.spotify.com/track/4TZJtSjuPGClUKDXcfvcU8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CINTO ARMANI CON LOS TENIS TOMMY (REMIX)",
-        "url": "https://open.spotify.com/album/1MCfMKE6BNupH6KInSva9D"
-      },
-      "artists": [
-        {
-          "name": "Jared Fl\u00f3rez",
-          "url": "https://open.spotify.com/artist/5YeLPRA72cFvDkXHrbXQS7"
-        },
-        {
-          "name": "Eugenio Esquivel",
-          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
-        }
-      ],
-      "duration_ms": 163370,
-      "name": "CINTO ARMANI CON LOS TENIS TOMMY - REMIX",
-      "url": "https://open.spotify.com/track/6kZSYKE80jmaPA04n8UssR"
     },
     {
       "added_at": null,
@@ -936,9 +936,9 @@
           "url": "https://open.spotify.com/artist/6X9jlymvUdil1KMlUnGBu2"
         }
       ],
-      "duration_ms": 147141,
-      "name": "Los Botones Azules - En Vivo",
-      "url": "https://open.spotify.com/track/48TRVLHK0tSdk0e17UZPFN"
+      "duration_ms": 214042,
+      "name": "El R\u00e1pido - En Vivo",
+      "url": "https://open.spotify.com/track/1BFZbkqRrXWzQ3Ld48OLTc"
     },
     {
       "added_at": null,
@@ -964,9 +964,9 @@
           "url": "https://open.spotify.com/artist/6X9jlymvUdil1KMlUnGBu2"
         }
       ],
-      "duration_ms": 214042,
-      "name": "El R\u00e1pido - En Vivo",
-      "url": "https://open.spotify.com/track/1BFZbkqRrXWzQ3Ld48OLTc"
+      "duration_ms": 147141,
+      "name": "Los Botones Azules - En Vivo",
+      "url": "https://open.spotify.com/track/48TRVLHK0tSdk0e17UZPFN"
     }
   ],
   "unique_name": "This Is Eugenio Esquivel",

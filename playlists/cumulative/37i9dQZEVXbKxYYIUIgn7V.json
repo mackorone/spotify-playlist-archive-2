@@ -1956,7 +1956,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-01",
+      "date_removed": null,
       "duration_ms": 194861,
       "name": "Achy Breaky - Special Version",
       "url": "https://open.spotify.com/track/291GLgvhwFh1Wj5qIiteSJ"
@@ -3594,7 +3594,7 @@
       ],
       "date_added": "2026-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 316721,
       "name": "Angels Above Me - Party Remix",
       "url": "https://open.spotify.com/track/0OpVQyeBbePJNHbSBiyxl6"
@@ -6004,7 +6004,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 255946,
       "name": "Be Like a Woman",
       "url": "https://open.spotify.com/track/5Ctzx0mMiUPAu9JqbAOY9n"
@@ -7242,7 +7242,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 207276,
       "name": "Bis ans End oller Tage",
       "url": "https://open.spotify.com/track/6IArTNm639mU06xlCC5ilL"
@@ -12929,6 +12929,24 @@
     },
     {
       "album": {
+        "name": "Day After Tomorrow",
+        "url": "https://open.spotify.com/album/1f9VeTjGSA8p0bucrRDIqt"
+      },
+      "artists": [
+        {
+          "name": "DJ.ILHAM",
+          "url": "https://open.spotify.com/artist/2gwvXOCjdXOFNimEAMkilv"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258479,
+      "name": "Day After Tomorrow",
+      "url": "https://open.spotify.com/track/5Nq780Ob4IvQXZ93apC3wB"
+    },
+    {
+      "album": {
         "name": "Days On End",
         "url": "https://open.spotify.com/album/3fsJkD4GuO8IAQBzxMr0cV"
       },
@@ -14558,7 +14576,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-30",
+      "date_removed": null,
       "duration_ms": 116940,
       "name": "done done done",
       "url": "https://open.spotify.com/track/3GeQIqeCQV9Fu4RueovLHR"
@@ -14576,7 +14594,7 @@
       ],
       "date_added": "2026-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 116940,
       "name": "done done done",
       "url": "https://open.spotify.com/track/4pGMZRqLZtqrQe4ehY4lCQ"
@@ -23637,6 +23655,24 @@
     },
     {
       "album": {
+        "name": "Fantasies",
+        "url": "https://open.spotify.com/album/1N2HeWMUjuAxYL7UnA63JH"
+      },
+      "artists": [
+        {
+          "name": "Metric",
+          "url": "https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286013,
+      "name": "Help I'm Alive",
+      "url": "https://open.spotify.com/track/0cahtHEywK64NSWqm2SDTi"
+    },
+    {
+      "album": {
         "name": "Kristofferson",
         "url": "https://open.spotify.com/album/4HN8SWymMSOxquR6wY2vke"
       },
@@ -24218,6 +24254,24 @@
       "duration_ms": 164769,
       "name": "Hey Macarena!",
       "url": "https://open.spotify.com/track/2NAn1J4RbC8Ure2F1hByXK"
+    },
+    {
+      "album": {
+        "name": "Hey mama",
+        "url": "https://open.spotify.com/album/5Db2jb8TxJERzblPpj0dl5"
+      },
+      "artists": [
+        {
+          "name": "HAMEX",
+          "url": "https://open.spotify.com/artist/2V16fiJ3HvYKclGULE2AW7"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207542,
+      "name": "Hey mama",
+      "url": "https://open.spotify.com/track/7vsEGQTnJC8IHWZSLky8O4"
     },
     {
       "album": {
@@ -24830,6 +24884,24 @@
       "duration_ms": 253480,
       "name": "Hot Together",
       "url": "https://open.spotify.com/track/2KWhl75cqqKWEqTIHv1Zsd"
+    },
+    {
+      "album": {
+        "name": "So Much To Tell You",
+        "url": "https://open.spotify.com/album/28JEdFG4Mk0D0QGkL5vUxG"
+      },
+      "artists": [
+        {
+          "name": "Ax and the Hatchetmen",
+          "url": "https://open.spotify.com/artist/5WJCUSIw2Td5IEfa3LXCo9"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148887,
+      "name": "Hotel Room",
+      "url": "https://open.spotify.com/track/6DKSK32WwzBMZ0qAq28Zon"
     },
     {
       "album": {
@@ -39736,10 +39808,28 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 199039,
       "name": "North wind calls",
       "url": "https://open.spotify.com/track/1ApLfehppos372TqhjpPDK"
+    },
+    {
+      "album": {
+        "name": "North wind calls",
+        "url": "https://open.spotify.com/album/0camuA2foMQIiM37ynLnXD"
+      },
+      "artists": [
+        {
+          "name": "Draugr Balled",
+          "url": "https://open.spotify.com/artist/7zEyGwOvYq5KkBn4MUuL1g"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199039,
+      "name": "North wind calls",
+      "url": "https://open.spotify.com/track/78IC0ZZYiXd7R3ps9R1agf"
     },
     {
       "album": {
@@ -54424,7 +54514,7 @@
       ],
       "date_added": "2026-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 192004,
       "name": "Titanium x Please Me",
       "url": "https://open.spotify.com/track/1nDzv7AfhaD6bilJdhlXAc"
@@ -55646,7 +55736,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 166666,
       "name": "Un Cachito de Luz - Versi\u00f3n Deluxe",
       "url": "https://open.spotify.com/track/0UJvn3UQWBSOh4Aj171Zoa"
@@ -56344,10 +56434,28 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 195599,
       "name": "VALHALLA CALLING",
       "url": "https://open.spotify.com/track/0fMXHtOEGKJvMJiivwNqnx"
+    },
+    {
+      "album": {
+        "name": "VALHALLA CALLING",
+        "url": "https://open.spotify.com/album/6xU5Uw1Eege7m8dX5GGXGE"
+      },
+      "artists": [
+        {
+          "name": "Ragal Ironbull",
+          "url": "https://open.spotify.com/artist/3vDYGs9p4Y6GpfvxJDDhjx"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195631,
+      "name": "VALHALLA CALLING",
+      "url": "https://open.spotify.com/track/4GZ9FHEL0Vcf3RVHV5lYlv"
     },
     {
       "album": {

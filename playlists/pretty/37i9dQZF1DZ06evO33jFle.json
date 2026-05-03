@@ -1,12 +1,12 @@
 {
   "description": "This is Jenni Rivera. The essential tracks, all in one playlist.",
-  "num_followers": 547812,
+  "num_followers": 547910,
   "original_name": "This Is Jenni Rivera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afKbgAAAAACnWmlZUDM1UWuKTwlMUaoI",
+  "snapshot_id": "afPtAAAAAADEmtyy2JL+OWkQNm/AS0PY",
   "tracks": [
     {
       "added_at": null,
@@ -715,8 +715,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Joyas Prestadas - Pop",
-        "url": "https://open.spotify.com/album/4PbG5KBpRl1ObRpMJ9oLF6"
+        "name": "Parrandera, Rebelde y Atrevida",
+        "url": "https://open.spotify.com/album/2I50wzYim7XrZhBSrolmzs"
       },
       "artists": [
         {
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
         }
       ],
-      "duration_ms": 309506,
-      "name": "Porque Me Gusta a Morir - Pop",
-      "url": "https://open.spotify.com/track/1o1T0dmi0pPcJxYROpgBVy"
+      "duration_ms": 176426,
+      "name": "Parrandera, Rebelde y Atrevida",
+      "url": "https://open.spotify.com/track/3B1rdhOmO7LwlyIFsC0xFK"
     },
     {
       "added_at": null,
@@ -747,8 +747,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Parrandera, Rebelde y Atrevida",
-        "url": "https://open.spotify.com/album/2I50wzYim7XrZhBSrolmzs"
+        "name": "Joyas Prestadas - Pop",
+        "url": "https://open.spotify.com/album/4PbG5KBpRl1ObRpMJ9oLF6"
       },
       "artists": [
         {
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
         }
       ],
-      "duration_ms": 176426,
-      "name": "Parrandera, Rebelde y Atrevida",
-      "url": "https://open.spotify.com/track/3B1rdhOmO7LwlyIFsC0xFK"
+      "duration_ms": 309506,
+      "name": "Porque Me Gusta a Morir - Pop",
+      "url": "https://open.spotify.com/track/1o1T0dmi0pPcJxYROpgBVy"
     },
     {
       "added_at": null,

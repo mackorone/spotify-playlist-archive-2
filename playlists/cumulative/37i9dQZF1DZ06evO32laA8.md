@@ -4,7 +4,7 @@
 
 > This is Isabel LaRosa\. The essential tracks, all in one playlist.
 
-35 songs - 1 hr 25 min
+36 songs - 1 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Girl Of Your Dreams](https://open.spotify.com/track/57VTWm2rMYF5MP1H5Cw0qW) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [Raven](https://open.spotify.com/album/012dJutTI1nox9KAK5ER31) | 2:31 | 2025-04-20 |  |
 | [Good For You](https://open.spotify.com/track/0isd3qAsRc0f4sOlsNn4cB) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [Raven](https://open.spotify.com/album/012dJutTI1nox9KAK5ER31) | 2:35 | 2025-04-20 | 2025-05-18 |
 | [Good Girl](https://open.spotify.com/track/5JC4XWf0j1mc86I5vpaViE) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [Raven](https://open.spotify.com/album/012dJutTI1nox9KAK5ER31) | 2:05 | 2025-04-20 |  |
+| [Hallucination](https://open.spotify.com/track/3Fcnn90rR3xPYf1yluDyhu) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [Hallucination](https://open.spotify.com/album/3yMcy9pftiW6sPrscdImlT) | 3:22 | 2026-05-03 |  |
 | [HAUNTED](https://open.spotify.com/track/5ff77CZZUpY8Gvu5GuA6vb) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [HAUNTED](https://open.spotify.com/album/4QhZwVQuNbbXtMgjp2Ngp2) | 2:17 | 2024-01-10 |  |
 | [HEARTBEAT](https://open.spotify.com/track/6nStBZGqGgTR87MrBpNza0) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [HEARTBEAT](https://open.spotify.com/album/7cLRRJ3fRfyExOHOIwcLDy) | 2:04 | 2024-01-10 |  |
 | [HEAVEN](https://open.spotify.com/track/63xbtAZx1daHJxhFA2eQCM) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [i'm watching you](https://open.spotify.com/album/3dixoGi4IeEF6XpT5afxUa) | 2:19 | 2024-01-10 |  |

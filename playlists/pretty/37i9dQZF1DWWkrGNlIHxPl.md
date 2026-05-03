@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkrGNlIHxPl.md) - [plain]
 
 > Global crossovers by Arab artists\. Cover: Saint Levant
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,028 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,037 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkrGNlIHxPl.md) - [plain]
 | 49 | [NASKAR](https://open.spotify.com/track/6wnSQh2JzBCIj1kVFq1kPM) | [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [HOME IS CHANGING](https://open.spotify.com/album/3B69Rwb21o9LqQnJB9dw5O) | 3:26 |
 | 50 | [Ra2i2a](https://open.spotify.com/track/3rVzXNNZqxhwGn0azDDKZm) | [Felukah](https://open.spotify.com/artist/0nmukaO2zzwRPEevPJph1F) | [Harara](https://open.spotify.com/album/0ZgfIhQcP5ahuAxIGvxnNf) | 2:46 |
 
-Snapshot ID: `AAAAANjCEOALZku0Rk7QwUZQ31J6gLof`
+Snapshot ID: `AAAAAGvNoCBfzq6lpbfiL6TtaYPuFcUA`

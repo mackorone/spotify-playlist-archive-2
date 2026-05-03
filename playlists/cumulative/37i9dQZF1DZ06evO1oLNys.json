@@ -184,7 +184,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 60000,
       "name": "Amtrak, Hudson Valley",
       "url": "https://open.spotify.com/track/0exqCWPLUuUrPM8zVpcJNM"
@@ -496,7 +496,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-16",
+      "date_removed": null,
       "duration_ms": 322544,
       "name": "Delivered Back to You, Over and Over Again",
       "url": "https://open.spotify.com/track/3ZPfh0eZuVB7VENVfbsUC0"
@@ -608,6 +608,28 @@
           "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
         },
         {
+          "name": "claire rousay",
+          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
+        }
+      ],
+      "date_added": "2026-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60000,
+      "name": "Home, Los Angeles",
+      "url": "https://open.spotify.com/track/4yxvOxcU0B5bGxO9yYKPfz"
+    },
+    {
+      "album": {
+        "name": "Various Small Whistles and a Song",
+        "url": "https://open.spotify.com/album/32giMSlU2jssM3GKwInlQk"
+      },
+      "artists": [
+        {
+          "name": "Lia Kohl",
+          "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
+        },
+        {
           "name": "Steve Rosborough",
           "url": "https://open.spotify.com/artist/5W75o99frVpwQHuZkrGFK5"
         }
@@ -654,7 +676,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-21",
+      "date_removed": null,
       "duration_ms": 323733,
       "name": "Ice Cream Truck, Tornado Siren",
       "url": "https://open.spotify.com/track/2bYRcPeNTvUgapnBD9z5An"
@@ -1314,7 +1336,7 @@
       ],
       "date_added": "2026-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 54888,
       "name": "Tea at Dawn",
       "url": "https://open.spotify.com/track/0mo7FxYAf19enHBdvmF0hd"
@@ -1390,7 +1412,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 366057,
       "name": "Too Small to be a Plain",
       "url": "https://open.spotify.com/track/7oiybnPVkbQGJLiUunjmOY"

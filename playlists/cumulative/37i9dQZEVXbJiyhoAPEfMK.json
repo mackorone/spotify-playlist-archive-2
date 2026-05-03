@@ -616,7 +616,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 242903,
       "name": "12 to 12",
       "url": "https://open.spotify.com/track/05od2qm2MTSKCHxy1GBp5W"
@@ -8528,7 +8528,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 180304,
       "name": "Beautiful Things",
       "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
@@ -11063,6 +11063,28 @@
     },
     {
       "album": {
+        "name": "BOMBA",
+        "url": "https://open.spotify.com/album/55nMza6I5YB14vZo6Yn9v9"
+      },
+      "artists": [
+        {
+          "name": "RAF Camora",
+          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
+        },
+        {
+          "name": "Lvbel C5",
+          "url": "https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165799,
+      "name": "BOMBA",
+      "url": "https://open.spotify.com/track/25P9EcttXxSTTRESdfTWoT"
+    },
+    {
+      "album": {
         "name": "Bombarder",
         "url": "https://open.spotify.com/album/6e32p7n6qrNcAMakaMZsFB"
       },
@@ -11936,6 +11958,28 @@
       "duration_ms": 182008,
       "name": "Bring mich nach Haus",
       "url": "https://open.spotify.com/track/07NDaezeYAJ2FoXxoE8GUC"
+    },
+    {
+      "album": {
+        "name": "Bring Your Love",
+        "url": "https://open.spotify.com/album/2lZVlp5shY7TufyMXOuACy"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        },
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216400,
+      "name": "Bring Your Love",
+      "url": "https://open.spotify.com/track/7rAr4Ai9dysthnfNRRC55Q"
     },
     {
       "album": {
@@ -16922,7 +16966,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-02",
+      "date_removed": null,
       "duration_ms": 198773,
       "name": "Danza Kuduro",
       "url": "https://open.spotify.com/track/2a1o6ZejUi8U3wzzOtCOYw"
@@ -16944,7 +16988,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 216352,
       "name": "Danza Kuduro - Version MTO",
       "url": "https://open.spotify.com/track/2ynaRz7EuNbDrNrlr3QUjP"
@@ -19860,7 +19904,7 @@
       ],
       "date_added": "2026-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 224998,
       "name": "drop dead",
       "url": "https://open.spotify.com/track/7Hc6qcJG4NtyZgbNvQyd8U"
@@ -41823,6 +41867,28 @@
     },
     {
       "album": {
+        "name": "MANSORY",
+        "url": "https://open.spotify.com/album/0oBeMCpjd8FQqihlKnYtPP"
+      },
+      "artists": [
+        {
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+        },
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226480,
+      "name": "MANSORY",
+      "url": "https://open.spotify.com/track/0VsPGERCzao6a6Oo0QsD5Z"
+    },
+    {
+      "album": {
         "name": "Marbella",
         "url": "https://open.spotify.com/album/1TBOrXCDn26WX5L5xy0VDt"
       },
@@ -42626,7 +42692,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 176213,
       "name": "melodrama",
       "url": "https://open.spotify.com/track/55vPnuXfuzXNW75JpuSczF"
@@ -52444,7 +52510,7 @@
       ],
       "date_added": "2026-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-28",
+      "date_removed": null,
       "duration_ms": 168546,
       "name": "Pocahontas",
       "url": "https://open.spotify.com/track/6P0oYDUPYf2CNJxcokIH09"
@@ -60232,7 +60298,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 169000,
       "name": "So Easy (To Fall In Love)",
       "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
@@ -63044,7 +63110,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -63062,7 +63128,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-01",
+      "date_removed": null,
       "duration_ms": 240426,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/0cQVqPuHQP4KEwc7ZUQmj6"
@@ -65450,7 +65516,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 227333,
       "name": "The One That Got Away",
       "url": "https://open.spotify.com/track/2009X8GyWTqyxIdzAEYW6N"
@@ -69825,6 +69891,28 @@
     },
     {
       "album": {
+        "name": "Vermisse",
+        "url": "https://open.spotify.com/album/0MyJNG4dGUzXMOKRHQ20OB"
+      },
+      "artists": [
+        {
+          "name": "Dardan",
+          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
+        },
+        {
+          "name": "Azet",
+          "url": "https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154653,
+      "name": "Vermisse",
+      "url": "https://open.spotify.com/track/0DAe8XAFqCfdL2F649pgN0"
+    },
+    {
+      "album": {
         "name": "Vernetzt",
         "url": "https://open.spotify.com/album/0KrBDkYhX1j7Ib23R3Xhbz"
       },
@@ -70686,6 +70774,28 @@
       "duration_ms": 317092,
       "name": "wacced out murals",
       "url": "https://open.spotify.com/track/5gOfC9UzZQzTyShqPMrpjT"
+    },
+    {
+      "album": {
+        "name": "Wach",
+        "url": "https://open.spotify.com/album/4DhRuriyYCsegMVxUmy854"
+      },
+      "artists": [
+        {
+          "name": "RIN",
+          "url": "https://open.spotify.com/artist/18ISxWwWjV6rPLoVCXf1dz"
+        },
+        {
+          "name": "reezy",
+          "url": "https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169736,
+      "name": "Wach",
+      "url": "https://open.spotify.com/track/1v560KmmtY34B8GmMHg1Hv"
     },
     {
       "album": {

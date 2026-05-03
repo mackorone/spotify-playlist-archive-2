@@ -2966,6 +2966,28 @@
     {
       "album": {
         "name": "Always You",
+        "url": "https://open.spotify.com/album/76a9ikTwHACMJZ38KZrDvp"
+      },
+      "artists": [
+        {
+          "name": "Nightwhisper",
+          "url": "https://open.spotify.com/artist/3ohYSQGPFMTdCJoFFrNNlV"
+        },
+        {
+          "name": "AURENZA",
+          "url": "https://open.spotify.com/artist/4osA1DTtVEc75xSK2GWZXz"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169250,
+      "name": "Always You",
+      "url": "https://open.spotify.com/track/4HR41izt1ipKNLVTkcFHt3"
+    },
+    {
+      "album": {
+        "name": "Always You",
         "url": "https://open.spotify.com/album/3g8e3UOV31B5WrD7GekgHs"
       },
       "artists": [
@@ -2976,7 +2998,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 169202,
       "name": "Always You",
       "url": "https://open.spotify.com/track/6nZAJWhdcKueQqIFFIgwCR"
@@ -9224,7 +9246,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 217524,
       "name": "Celebrate Me",
       "url": "https://open.spotify.com/track/5ocmMJjV69WuPYj5T9IkwZ"
@@ -15369,6 +15391,24 @@
     },
     {
       "album": {
+        "name": "Eller \u00dczer",
+        "url": "https://open.spotify.com/album/5pMJtaEOanoR0cWndtA0p4"
+      },
+      "artists": [
+        {
+          "name": "Serkan Ni\u015fanc\u0131",
+          "url": "https://open.spotify.com/artist/5fEL815uzQRkyzW9wOfUTd"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198910,
+      "name": "Eller \u00dczer",
+      "url": "https://open.spotify.com/track/2wV6HTsxC6lk4XbMkzU3hA"
+    },
+    {
+      "album": {
         "name": "Embrace It",
         "url": "https://open.spotify.com/album/0mV9Pfr1GfoZLkp1EAau9P"
       },
@@ -16338,7 +16378,7 @@
       ],
       "date_added": "2026-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 391268,
       "name": "Fabienk",
       "url": "https://open.spotify.com/track/1KVkzkmFBx4A8bCma6ruKA"
@@ -26012,7 +26052,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-02",
+      "date_removed": null,
       "duration_ms": 210070,
       "name": "Just The Way You Are",
       "url": "https://open.spotify.com/track/7K3Lc3TfSR14aTOjIH7TUj"
@@ -26168,7 +26208,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-23",
+      "date_removed": null,
       "duration_ms": 181581,
       "name": "Kakalika",
       "url": "https://open.spotify.com/track/1p5F0slR5AF49EDX5o125x"
@@ -39260,7 +39300,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 144440,
       "name": "Paradis",
       "url": "https://open.spotify.com/track/08J3J1YII8N62MjAba8grD"
@@ -43269,6 +43309,28 @@
     },
     {
       "album": {
+        "name": "The Devil Wears Prada 2 (Music From The Motion Picture)",
+        "url": "https://open.spotify.com/album/5FKnRUB5lt7z5ac1lmu3BE"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171010,
+      "name": "RUNWAY",
+      "url": "https://open.spotify.com/track/5jZHUZY0vQsH6A5gqFveJf"
+    },
+    {
+      "album": {
         "name": "RUNWAY",
         "url": "https://open.spotify.com/album/0WY1wVmchFYlH4f1yZMc90"
       },
@@ -43284,7 +43346,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 171010,
       "name": "RUNWAY",
       "url": "https://open.spotify.com/track/7BjcYqD0CqXnG45ezWSTYR"
@@ -46638,7 +46700,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 92624,
       "name": "Sortez les mouchoirs official",
       "url": "https://open.spotify.com/track/1wc2It4JhVI3PExgk1KRwZ"
@@ -53366,6 +53428,24 @@
       "duration_ms": 111342,
       "name": "Valet",
       "url": "https://open.spotify.com/track/5ycjz8lcQzJWA8dUg5GDx1"
+    },
+    {
+      "album": {
+        "name": "VALHALLA CALLING",
+        "url": "https://open.spotify.com/album/6xU5Uw1Eege7m8dX5GGXGE"
+      },
+      "artists": [
+        {
+          "name": "Ragal Ironbull",
+          "url": "https://open.spotify.com/artist/3vDYGs9p4Y6GpfvxJDDhjx"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195631,
+      "name": "VALHALLA CALLING",
+      "url": "https://open.spotify.com/track/4GZ9FHEL0Vcf3RVHV5lYlv"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Lenin Ram\u00edrez. The essential tracks, all in one playlist.",
-  "num_followers": 83523,
+  "num_followers": 83598,
   "original_name": "This Is Lenin Ram\u00edrez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afKbgAAAAAB6GnDoVTNojjF3LWLvHjkR",
+  "snapshot_id": "afPtAAAAAAAZb6uEijdDrCXQ38vN6cBk",
   "tracks": [
     {
       "added_at": null,
@@ -355,18 +355,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tres Veladoras",
-        "url": "https://open.spotify.com/album/3OC7oVqxubQ4qODYQpUk9o"
+        "name": "Con Los Pies en La Tierra",
+        "url": "https://open.spotify.com/album/1Lfc9KLUvubRJ7TM4KZZ1r"
       },
       "artists": [
         {
           "name": "Lenin Ram\u00edrez",
           "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
         }
       ],
-      "duration_ms": 208000,
-      "name": "Tres Veladoras",
-      "url": "https://open.spotify.com/track/33LditL7EZ5vKznmF9aQQo"
+      "duration_ms": 250368,
+      "name": "Otro Perdedor",
+      "url": "https://open.spotify.com/track/5CXAHV4mt5tuIP7oI4ldeH"
     },
     {
       "added_at": null,
@@ -387,22 +391,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con Los Pies en La Tierra",
-        "url": "https://open.spotify.com/album/1Lfc9KLUvubRJ7TM4KZZ1r"
+        "name": "Tres Veladoras",
+        "url": "https://open.spotify.com/album/3OC7oVqxubQ4qODYQpUk9o"
       },
       "artists": [
         {
           "name": "Lenin Ram\u00edrez",
           "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        },
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
         }
       ],
-      "duration_ms": 250368,
-      "name": "Otro Perdedor",
-      "url": "https://open.spotify.com/track/5CXAHV4mt5tuIP7oI4ldeH"
+      "duration_ms": 208000,
+      "name": "Tres Veladoras",
+      "url": "https://open.spotify.com/track/33LditL7EZ5vKznmF9aQQo"
     },
     {
       "added_at": null,
@@ -455,18 +455,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Conquista",
-        "url": "https://open.spotify.com/album/79ZIEAQjbnfv1GHteRx3P7"
+        "name": "Mis 30 Aniversario (Vol. 1)",
+        "url": "https://open.spotify.com/album/7ufHHLXyH5jninZcI4EVaL"
       },
       "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        },
         {
           "name": "Lenin Ram\u00edrez",
           "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
         }
       ],
-      "duration_ms": 180050,
-      "name": "Soy La Suerte",
-      "url": "https://open.spotify.com/track/6Zc5EXYSjDrKjyyWS29NNA"
+      "duration_ms": 200703,
+      "name": "Vuelve por Favor",
+      "url": "https://open.spotify.com/track/2UYYMHO9M2NCvpHVPOKJ9g"
     },
     {
       "added_at": null,
@@ -487,22 +491,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis 30 Aniversario (Vol. 1)",
-        "url": "https://open.spotify.com/album/7ufHHLXyH5jninZcI4EVaL"
+        "name": "Mi Conquista",
+        "url": "https://open.spotify.com/album/79ZIEAQjbnfv1GHteRx3P7"
       },
       "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        },
         {
           "name": "Lenin Ram\u00edrez",
           "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
         }
       ],
-      "duration_ms": 200703,
-      "name": "Vuelve por Favor",
-      "url": "https://open.spotify.com/track/2UYYMHO9M2NCvpHVPOKJ9g"
+      "duration_ms": 180050,
+      "name": "Soy La Suerte",
+      "url": "https://open.spotify.com/track/6Zc5EXYSjDrKjyyWS29NNA"
     },
     {
       "added_at": null,
@@ -695,6 +695,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Con Aroma a Alcohol",
+        "url": "https://open.spotify.com/album/3QOveKghJYUAf4YsbrvQRm"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 181674,
+      "name": "No Fue Suficiente",
+      "url": "https://open.spotify.com/track/49BlbuGvUpwLXY4648UP1P"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Con Los Pies en La Tierra",
         "url": "https://open.spotify.com/album/1Lfc9KLUvubRJ7TM4KZZ1r"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 156840,
       "name": "Mi 45 - En Vivo",
       "url": "https://open.spotify.com/track/3WDIjzI7arvMScPaPc5sSw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Con Aroma a Alcohol",
-        "url": "https://open.spotify.com/album/3QOveKghJYUAf4YsbrvQRm"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 181674,
-      "name": "No Fue Suficiente",
-      "url": "https://open.spotify.com/track/49BlbuGvUpwLXY4648UP1P"
     },
     {
       "added_at": null,
@@ -947,22 +947,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo Desde Mi Ranchito",
-        "url": "https://open.spotify.com/album/22Ovk2DIKkjtoEDWZ6AaTs"
+        "name": "Con Aroma a Alcohol",
+        "url": "https://open.spotify.com/album/3QOveKghJYUAf4YsbrvQRm"
       },
       "artists": [
         {
           "name": "Lenin Ram\u00edrez",
           "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        },
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
         }
       ],
-      "duration_ms": 270318,
-      "name": "Un Frisian Llamado El Centenario - En Vivo",
-      "url": "https://open.spotify.com/track/0kTsX5yfHhdg4nK7t4pbzz"
+      "duration_ms": 164586,
+      "name": "Te Vas ALV",
+      "url": "https://open.spotify.com/track/1HuYWMlXbQfS7aMLzKUi8m"
     }
   ],
   "unique_name": "This Is Lenin Ram\u00edrez",

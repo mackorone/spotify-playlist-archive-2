@@ -17922,7 +17922,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 129222,
       "name": "G Class",
       "url": "https://open.spotify.com/track/2L5RTUYYrsVmtiRjrieGKf"
@@ -20871,6 +20871,24 @@
     },
     {
       "album": {
+        "name": "Diana Ross Presents The Jackson 5",
+        "url": "https://open.spotify.com/album/51uoKRa8vT5SULrlF8s2t1"
+      },
+      "artists": [
+        {
+          "name": "The Jackson 5",
+          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176333,
+      "name": "I Want You Back",
+      "url": "https://open.spotify.com/track/5LxvwujISqiB8vpRYv887S"
+    },
+    {
+      "album": {
         "name": "i was only temporary",
         "url": "https://open.spotify.com/album/24tfAQTRqLfKw5bFjMhc4m"
       },
@@ -21252,7 +21270,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-29",
+      "date_removed": null,
       "duration_ms": 294260,
       "name": "Impostor Syndrome",
       "url": "https://open.spotify.com/track/33KU9huHP1Lv1UWWVkuTYd"
@@ -27254,7 +27272,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 139400,
       "name": "MHM",
       "url": "https://open.spotify.com/track/4gHWdRP5ocZkEhq1iDStoI"
@@ -28784,6 +28802,36 @@
       "duration_ms": 97758,
       "name": "MONTAGEM DOMER - Ultra Slowed",
       "url": "https://open.spotify.com/track/3qWGanhvLi5OBtlsfCsqtp"
+    },
+    {
+      "album": {
+        "name": "MONTAGEM FEARLESS",
+        "url": "https://open.spotify.com/album/4i25grL8nhDU2fsqMj62It"
+      },
+      "artists": [
+        {
+          "name": "lirvie",
+          "url": "https://open.spotify.com/artist/2xUrLIAss3e2KH44O8Iwt2"
+        },
+        {
+          "name": "DJ eu4oria",
+          "url": "https://open.spotify.com/artist/6mg74DlGGudKVTBq7vTgcn"
+        },
+        {
+          "name": "DJ FZ DA ZN",
+          "url": "https://open.spotify.com/artist/3bxjiMeOO8KfgipnZj5fKT"
+        },
+        {
+          "name": "Matra!",
+          "url": "https://open.spotify.com/artist/74zmQLLL7XinbAtJCgMgNJ"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152947,
+      "name": "MONTAGEM FEARLESS - Ultra Slowed",
+      "url": "https://open.spotify.com/track/3dnSijuGDhhzzo0FFGptxX"
     },
     {
       "album": {
@@ -38064,7 +38112,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 204068,
       "name": "Risk It All",
       "url": "https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD"
@@ -44824,7 +44872,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-02",
+      "date_removed": null,
       "duration_ms": 193763,
       "name": "Todo lo perd\u00ed por t\u00ed",
       "url": "https://open.spotify.com/track/4E3Qk4lLjIQ9NzwBINqoAG"
@@ -49618,7 +49666,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 255591,
       "name": "worry - ultra slowed",
       "url": "https://open.spotify.com/track/18j6GCxt5aFKbYqdvksL7N"

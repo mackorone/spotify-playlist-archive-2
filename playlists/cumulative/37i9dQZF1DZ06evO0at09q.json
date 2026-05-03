@@ -78,7 +78,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-29",
+      "date_removed": null,
       "duration_ms": 215625,
       "name": "All Night",
       "url": "https://open.spotify.com/track/2xG03uf9J5pevBAviqxRjk"
@@ -450,7 +450,7 @@
       ],
       "date_added": "2024-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-02",
+      "date_removed": null,
       "duration_ms": 261120,
       "name": "Dip",
       "url": "https://open.spotify.com/track/3PGf14hxHUHQR38Yqxd80m"
@@ -1044,7 +1044,7 @@
       ],
       "date_added": "2024-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 232320,
       "name": "I Want Your Love",
       "url": "https://open.spotify.com/track/5gtBHjBPfN3x7XAhtmIsDP"
@@ -1434,7 +1434,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 230400,
       "name": "Ohh",
       "url": "https://open.spotify.com/track/7oiS5Rx9iAmdFNsIoo6Oeh"
@@ -1510,6 +1510,24 @@
       "duration_ms": 160000,
       "name": "Panic",
       "url": "https://open.spotify.com/track/3VvY4SzPwqmRo9R3sLEgw9"
+    },
+    {
+      "album": {
+        "name": "Play Dumb",
+        "url": "https://open.spotify.com/album/7ERfoUYpsyxOzIHSF5y6tF"
+      },
+      "artists": [
+        {
+          "name": "Qlank",
+          "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
+        }
+      ],
+      "date_added": "2026-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177230,
+      "name": "Play Dumb",
+      "url": "https://open.spotify.com/track/2PCwS7Jw9sIHYO10qY6xO1"
     },
     {
       "album": {
@@ -1788,7 +1806,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 262677,
       "name": "Submarine",
       "url": "https://open.spotify.com/track/1hgaNjE0jepk3XviaXD62M"

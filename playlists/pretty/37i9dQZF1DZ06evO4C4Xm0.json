@@ -1,12 +1,12 @@
 {
   "description": "This is Brian Eno. The essential tracks, all in one playlist.",
-  "num_followers": 47885,
+  "num_followers": 47890,
   "original_name": "This Is Brian Eno",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afKbgAAAAAD+2eI7v2sHQf4ggGUCoTUp",
+  "snapshot_id": "afPtAAAAAADJmbQKhwMb6aFHtDivCXkh",
   "tracks": [
     {
       "added_at": null,
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 189466,
-      "name": "Drift - Remastered 2005",
-      "url": "https://open.spotify.com/track/4WLDFjesbUHfZpf2xvnQyK"
+      "duration_ms": 166560,
+      "name": "Signals - Remastered 2005",
+      "url": "https://open.spotify.com/track/5Q5MFVjUWVNgb7XBerPdbQ"
     },
     {
       "added_at": null,
@@ -204,9 +204,9 @@
           "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 166560,
-      "name": "Signals - Remastered 2005",
-      "url": "https://open.spotify.com/track/5Q5MFVjUWVNgb7XBerPdbQ"
+      "duration_ms": 189466,
+      "name": "Drift - Remastered 2005",
+      "url": "https://open.spotify.com/track/4WLDFjesbUHfZpf2xvnQyK"
     },
     {
       "added_at": null,
@@ -427,22 +427,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Pearl",
-        "url": "https://open.spotify.com/album/5SSf6lNbSoaAUx6PxQVjlP"
+        "name": "Mixing Colours",
+        "url": "https://open.spotify.com/album/20WDVLmfzGI6vlXNGoLyxf"
       },
       "artists": [
         {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+          "name": "Roger Eno",
+          "url": "https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo"
         },
         {
           "name": "Brian Eno",
           "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 284133,
-      "name": "Late October - 2005 Digital Remaster",
-      "url": "https://open.spotify.com/track/2Ef5Vgw0ShuKGoNfO6Nrof"
+      "duration_ms": 173933,
+      "name": "Iris",
+      "url": "https://open.spotify.com/track/5gFsbxI10eCm40nP6GapHi"
     },
     {
       "added_at": null,
@@ -467,22 +467,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mixing Colours",
-        "url": "https://open.spotify.com/album/20WDVLmfzGI6vlXNGoLyxf"
+        "name": "The Pearl",
+        "url": "https://open.spotify.com/album/5SSf6lNbSoaAUx6PxQVjlP"
       },
       "artists": [
         {
-          "name": "Roger Eno",
-          "url": "https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo"
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
         },
         {
           "name": "Brian Eno",
           "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 173933,
-      "name": "Iris",
-      "url": "https://open.spotify.com/track/5gFsbxI10eCm40nP6GapHi"
+      "duration_ms": 284133,
+      "name": "Late October - 2005 Digital Remaster",
+      "url": "https://open.spotify.com/track/2Ef5Vgw0ShuKGoNfO6Nrof"
     },
     {
       "added_at": null,
@@ -507,22 +507,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Pearl",
-        "url": "https://open.spotify.com/album/5SSf6lNbSoaAUx6PxQVjlP"
+        "name": "Apollo",
+        "url": "https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E"
       },
       "artists": [
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        },
         {
           "name": "Brian Eno",
           "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 252346,
-      "name": "Still Return - 2005 Digital Remaster",
-      "url": "https://open.spotify.com/track/28KcS7Otucbm1uRQs8k21t"
+      "duration_ms": 275186,
+      "name": "Weightless - Remastered 2005",
+      "url": "https://open.spotify.com/track/64Rc8eAYEcIVK486usaKtb"
     },
     {
       "added_at": null,
@@ -547,18 +543,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Apollo",
-        "url": "https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E"
+        "name": "The Pearl",
+        "url": "https://open.spotify.com/album/5SSf6lNbSoaAUx6PxQVjlP"
       },
       "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        },
         {
           "name": "Brian Eno",
           "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 275186,
-      "name": "Weightless - Remastered 2005",
-      "url": "https://open.spotify.com/track/64Rc8eAYEcIVK486usaKtb"
+      "duration_ms": 252346,
+      "name": "Still Return - 2005 Digital Remaster",
+      "url": "https://open.spotify.com/track/28KcS7Otucbm1uRQs8k21t"
     },
     {
       "added_at": null,
@@ -576,9 +576,9 @@
           "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 244676,
-      "name": "Radio",
-      "url": "https://open.spotify.com/track/24JZooGX7V7EGxzUqKFUyg"
+      "duration_ms": 163887,
+      "name": "Safety",
+      "url": "https://open.spotify.com/track/3uaiTyek2p1XDe9xwIQBJz"
     },
     {
       "added_at": null,
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 163887,
-      "name": "Safety",
-      "url": "https://open.spotify.com/track/3uaiTyek2p1XDe9xwIQBJz"
+      "duration_ms": 244676,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/24JZooGX7V7EGxzUqKFUyg"
     },
     {
       "added_at": null,

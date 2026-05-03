@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCHIm2MEeIy.md) - [plain]
 
 > The party has arrived! 🪩  Cover: Solomun
 
-[Spotify](https://open.spotify.com/user/spotify) - 962,479 likes - 200 songs - 12 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 962,585 likes - 200 songs - 12 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

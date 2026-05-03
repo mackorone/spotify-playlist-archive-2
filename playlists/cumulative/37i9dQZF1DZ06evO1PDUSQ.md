@@ -4,7 +4,7 @@
 
 > This is Orla Gartland\. The essential tracks, all in one playlist.
 
-37 songs - 2 hr 0 min
+38 songs - 2 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,11 +36,12 @@
 | [Pest](https://open.spotify.com/track/38RTBP3XmPmZ6wpBmMw3IK) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co), [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Everybody Needs A Hero \(Extended Edition\)](https://open.spotify.com/album/4sdUipS7O9JCZ376iAdKRS) | 3:06 | 2026-03-20 |  |
 | [Pretending](https://open.spotify.com/track/1XFxLlYuWdebo6hgczaVDu) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Woman on the Internet](https://open.spotify.com/album/3TEaY5Lqzymo0AVv2HkQep) | 3:35 | 2026-03-20 |  |
 | [Shapeshifting](https://open.spotify.com/track/15yipQ0oYQhrsqiqHLdYT2) | [Great Good Fine Ok](https://open.spotify.com/artist/422RLznpwUa5FsQgnTlgUH), [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Shapeshifting](https://open.spotify.com/album/2ClGs1AMiFhoYdRCnQKDPm) | 3:55 | 2026-03-20 |  |
-| [Simple](https://open.spotify.com/track/6sLxgkI2xALwGPUqQNzHLY) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Everybody Needs a Hero](https://open.spotify.com/album/00JkCQwC0mjcE55t4R4nqe) | 3:31 | 2026-03-20 |  |
+| [Simple](https://open.spotify.com/track/6sLxgkI2xALwGPUqQNzHLY) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Everybody Needs a Hero](https://open.spotify.com/album/00JkCQwC0mjcE55t4R4nqe) | 3:31 | 2026-03-20 | 2026-05-03 |
 | [SOUND OF LETTING GO](https://open.spotify.com/track/1Q07Uf3XjKyBW0dq1NkcuS) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Everybody Needs a Hero](https://open.spotify.com/album/00JkCQwC0mjcE55t4R4nqe) | 2:49 | 2026-03-20 |  |
 | [Souvenirs](https://open.spotify.com/track/49TDjRAG3v2MViatvPqDBZ) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Lonely People](https://open.spotify.com/album/6M8jnPqSAP1z4ooqQydY1h) | 3:57 | 2026-03-20 |  |
 | [The Hit](https://open.spotify.com/track/0NZtY6Lv5kSCSvifCNNVcz) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Everybody Needs a Hero](https://open.spotify.com/album/00JkCQwC0mjcE55t4R4nqe) | 3:30 | 2026-03-20 |  |
 | [Thirty](https://open.spotify.com/track/7Mds3ACnquh8j0R6F24Fo4) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Everybody Needs A Hero \(Extended Edition\)](https://open.spotify.com/album/4sdUipS7O9JCZ376iAdKRS) | 3:05 | 2026-03-20 |  |
+| [Three Words Away](https://open.spotify.com/track/0DJJyOL3LfHw10WrAlOMn7) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Everybody Needs a Hero](https://open.spotify.com/album/00JkCQwC0mjcE55t4R4nqe) | 3:10 | 2026-05-03 |  |
 | [Whispers](https://open.spotify.com/track/4gMWrJ20uEwMHGu1OReCBj) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Lonely People](https://open.spotify.com/album/6M8jnPqSAP1z4ooqQydY1h) | 3:43 | 2026-03-20 |  |
 | [Why Am I Like This?](https://open.spotify.com/track/0z29wv0x2IXrpWxNgICET7) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Why Am I Like This?](https://open.spotify.com/album/0EiHyIG1skb5rzVkbBkva6) | 3:32 | 2026-03-20 |  |
 | [You're Not Special, Babe](https://open.spotify.com/track/0GaVSVifeBSwnNTNordPGC) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Woman on the Internet](https://open.spotify.com/album/3TEaY5Lqzymo0AVv2HkQep) | 3:23 | 2026-03-20 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 
 > in your lush & lazy era 🪷 cozy beats, comfy self\-care vibes
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,080,409 likes - 140 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,080,462 likes - 140 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 | 139 | [Snowflake](https://open.spotify.com/track/1mGaio343L5aaxmcsdoeq7) | [Railey](https://open.spotify.com/artist/1W3u3PSYtoA7OQ3lHpKK7G) | [Snowflake](https://open.spotify.com/album/6ioII01Al1mVoITxFoB2De) | 1:19 |
 | 140 | [down the street](https://open.spotify.com/track/4vq6NpI6BR2JxKVQf8MJFQ) | [keseki](https://open.spotify.com/artist/6cDusStHo7vuxe09eYupQf) | [down the street](https://open.spotify.com/album/7nFDioqfi7uuPtmb4EtkgC) | 1:50 |
 
-Snapshot ID: `AAAAAI9MruaQTPuTd46HFi0Thj6AWuhu`
+Snapshot ID: `AAAAAD3jED0pbPqBV0muuy6eJIOlbrbh`

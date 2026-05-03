@@ -52,7 +52,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 266466,
       "name": "A Place I Know",
       "url": "https://open.spotify.com/track/2a1BmTCTkwJNoxgqnh813G"
@@ -362,6 +362,24 @@
       "duration_ms": 307333,
       "name": "Hollywood",
       "url": "https://open.spotify.com/track/2uFBqk6flKDuXiaWt0vV68"
+    },
+    {
+      "album": {
+        "name": "Everybody Else Is Doing It, So Why Can't We?",
+        "url": "https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI"
+      },
+      "artists": [
+        {
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        }
+      ],
+      "date_added": "2026-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171840,
+      "name": "How",
+      "url": "https://open.spotify.com/track/0M7wMmWaB3ZIkGuRFE4457"
     },
     {
       "album": {
@@ -1050,10 +1068,32 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 211066,
       "name": "Sunday",
       "url": "https://open.spotify.com/track/4zEvxRDaKDoFlHxK7Hy0wg"
+    },
+    {
+      "album": {
+        "name": "Sunday (2026 Stephen Street Stereo Mix) / Linger (Spanish Mix (2026)",
+        "url": "https://open.spotify.com/album/2m0LaVx2taZpoamB4EBJ24"
+      },
+      "artists": [
+        {
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        },
+        {
+          "name": "Stephen Street",
+          "url": "https://open.spotify.com/artist/5pmh5AcbKZIme0p4riO6Kb"
+        }
+      ],
+      "date_added": "2026-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210626,
+      "name": "Sunday - 2026 Stephen Street Stereo Mix",
+      "url": "https://open.spotify.com/track/6LNcgZ6P1XdLr8Lovg3tlC"
     },
     {
       "album": {

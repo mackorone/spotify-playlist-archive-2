@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaohnPXGkLv6.md) - [plain]
 
 > The essential Olivia Rodrigo tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,018,804 likes - 33 songs - 1 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,019,372 likes - 33 songs - 1 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

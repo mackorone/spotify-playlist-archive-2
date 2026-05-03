@@ -1,12 +1,12 @@
 {
   "description": "This is David Allan Coe. The essential tracks, all in one playlist.",
-  "num_followers": 27262,
+  "num_followers": 27489,
   "original_name": "This Is David Allan Coe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afKbgAAAAACzDVLrQ3+rn+AnNV+x5Mpd",
+  "snapshot_id": "afPtAAAAAACICOO5c040AWa9UM00m/fm",
   "tracks": [
     {
       "added_at": null,
@@ -155,22 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Biggest Hits",
-        "url": "https://open.spotify.com/album/6URcNyTkcEsXNSVKCqNTl1"
-      },
-      "artists": [
-        {
-          "name": "David Allan Coe",
-          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
-        }
-      ],
-      "duration_ms": 178960,
-      "name": "Tennessee Whiskey",
-      "url": "https://open.spotify.com/track/6x6xWn1AQYWekIDREExqgN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/0VYmJzCaXoph0JfVXGNNos"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 192560,
       "name": "Willie, Waylon And Me",
       "url": "https://open.spotify.com/track/6Vy2FPaOj394TAPZU2wrNr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Biggest Hits",
+        "url": "https://open.spotify.com/album/6URcNyTkcEsXNSVKCqNTl1"
+      },
+      "artists": [
+        {
+          "name": "David Allan Coe",
+          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
+        }
+      ],
+      "duration_ms": 178960,
+      "name": "Tennessee Whiskey",
+      "url": "https://open.spotify.com/track/6x6xWn1AQYWekIDREExqgN"
     },
     {
       "added_at": null,
@@ -251,6 +251,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Unchained",
+        "url": "https://open.spotify.com/album/7bM9q0YGIFtXJ3lw159O8w"
+      },
+      "artists": [
+        {
+          "name": "David Allan Coe",
+          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
+        }
+      ],
+      "duration_ms": 158293,
+      "name": "I'm Gonna Hurt Her On the Radio",
+      "url": "https://open.spotify.com/track/4QnQ1INIWEeDgz140kPqz1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Darlin', Darlin'",
         "url": "https://open.spotify.com/album/0ttaFuz2MNLsozzwbTn07B"
       },
@@ -271,8 +287,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unchained",
-        "url": "https://open.spotify.com/album/7bM9q0YGIFtXJ3lw159O8w"
+        "name": "Human Emotions",
+        "url": "https://open.spotify.com/album/5rpL6mTBSeUqGhJiCKS8Lk"
       },
       "artists": [
         {
@@ -280,9 +296,9 @@
           "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
         }
       ],
-      "duration_ms": 158293,
-      "name": "I'm Gonna Hurt Her On the Radio",
-      "url": "https://open.spotify.com/track/4QnQ1INIWEeDgz140kPqz1"
+      "duration_ms": 154360,
+      "name": "Whiskey & Women",
+      "url": "https://open.spotify.com/track/3ivoFZ1Hc7jxWhVvYZMRii"
     },
     {
       "added_at": null,
@@ -299,22 +315,6 @@
       "duration_ms": 232493,
       "name": "Son of the South",
       "url": "https://open.spotify.com/track/3T1wesBkJDrO3atfJJg0gk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Human Emotions",
-        "url": "https://open.spotify.com/album/5rpL6mTBSeUqGhJiCKS8Lk"
-      },
-      "artists": [
-        {
-          "name": "David Allan Coe",
-          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
-        }
-      ],
-      "duration_ms": 154360,
-      "name": "Whiskey & Women",
-      "url": "https://open.spotify.com/track/3ivoFZ1Hc7jxWhVvYZMRii"
     },
     {
       "added_at": null,
@@ -351,22 +351,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Mysterious Rhinestone Cowboy",
-        "url": "https://open.spotify.com/album/2CSVTNZdiHUM9U0IgeHQJi"
-      },
-      "artists": [
-        {
-          "name": "David Allan Coe",
-          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
-        }
-      ],
-      "duration_ms": 258333,
-      "name": "Please Come to Boston",
-      "url": "https://open.spotify.com/track/47ctsEbmgRRHXcFOfeeUVe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Human Emotions",
         "url": "https://open.spotify.com/album/5rpL6mTBSeUqGhJiCKS8Lk"
       },
@@ -379,22 +363,6 @@
       "duration_ms": 152906,
       "name": "Mississippi River Queen",
       "url": "https://open.spotify.com/track/5fHhVrVYg4TloeZoVf6wJX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Longhaired Redneck",
-        "url": "https://open.spotify.com/album/79MXHXBV9uYoJgdrJESMKb"
-      },
-      "artists": [
-        {
-          "name": "David Allan Coe",
-          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
-        }
-      ],
-      "duration_ms": 149720,
-      "name": "Revenge",
-      "url": "https://open.spotify.com/track/1TEFS1ROLeWKVShocGy8Vw"
     },
     {
       "added_at": null,
@@ -415,8 +383,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "David Allan Coe - 16 Biggest Hits",
-        "url": "https://open.spotify.com/album/7oSNiyE3ZinACkLFKikw7l"
+        "name": "Longhaired Redneck",
+        "url": "https://open.spotify.com/album/79MXHXBV9uYoJgdrJESMKb"
       },
       "artists": [
         {
@@ -424,9 +392,9 @@
           "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
         }
       ],
-      "duration_ms": 183840,
-      "name": "She Used to Love Me a Lot",
-      "url": "https://open.spotify.com/track/5JELJ6SX5zeGRQWrFp2m3z"
+      "duration_ms": 149720,
+      "name": "Revenge",
+      "url": "https://open.spotify.com/track/1TEFS1ROLeWKVShocGy8Vw"
     },
     {
       "added_at": null,
@@ -440,15 +408,15 @@
           "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
         }
       ],
-      "duration_ms": 142146,
-      "name": "A Sad Country Song",
-      "url": "https://open.spotify.com/track/3vYdYMJNg9bSmBWAsdZliY"
+      "duration_ms": 258333,
+      "name": "Please Come to Boston",
+      "url": "https://open.spotify.com/track/47ctsEbmgRRHXcFOfeeUVe"
     },
     {
       "added_at": null,
       "album": {
-        "name": "The Ghost Of Hank Williams",
-        "url": "https://open.spotify.com/album/4YHDqO2kuMg0spQU7xawgS"
+        "name": "David Allan Coe - 16 Biggest Hits",
+        "url": "https://open.spotify.com/album/7oSNiyE3ZinACkLFKikw7l"
       },
       "artists": [
         {
@@ -456,9 +424,9 @@
           "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
         }
       ],
-      "duration_ms": 187786,
-      "name": "The Ghost Of Hank Williams",
-      "url": "https://open.spotify.com/track/3bRHTSQK0iz9f07hhfifgm"
+      "duration_ms": 183840,
+      "name": "She Used to Love Me a Lot",
+      "url": "https://open.spotify.com/track/5JELJ6SX5zeGRQWrFp2m3z"
     },
     {
       "added_at": null,
@@ -479,6 +447,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Ghost Of Hank Williams",
+        "url": "https://open.spotify.com/album/4YHDqO2kuMg0spQU7xawgS"
+      },
+      "artists": [
+        {
+          "name": "David Allan Coe",
+          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
+        }
+      ],
+      "duration_ms": 187786,
+      "name": "The Ghost Of Hank Williams",
+      "url": "https://open.spotify.com/track/3bRHTSQK0iz9f07hhfifgm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Mysterious Rhinestone Cowboy",
+        "url": "https://open.spotify.com/album/2CSVTNZdiHUM9U0IgeHQJi"
+      },
+      "artists": [
+        {
+          "name": "David Allan Coe",
+          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
+        }
+      ],
+      "duration_ms": 142146,
+      "name": "A Sad Country Song",
+      "url": "https://open.spotify.com/track/3vYdYMJNg9bSmBWAsdZliY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Longhaired Redneck",
         "url": "https://open.spotify.com/album/79MXHXBV9uYoJgdrJESMKb"
       },
@@ -495,22 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tattoo",
-        "url": "https://open.spotify.com/album/3c1o4Jc3Fk0hbnhNgfLe2W"
-      },
-      "artists": [
-        {
-          "name": "David Allan Coe",
-          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
-        }
-      ],
-      "duration_ms": 143760,
-      "name": "Just to Prove My Love for You",
-      "url": "https://open.spotify.com/track/3K4J9hsXjF5Cnrf5YtnMMx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Family Album",
         "url": "https://open.spotify.com/album/7E52wkFEuclohpXk3MKgt2"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 177466,
       "name": "Take This Job and Shove It Too",
       "url": "https://open.spotify.com/track/08iMxhW6hClhGiSo5QHIhc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tattoo",
+        "url": "https://open.spotify.com/album/3c1o4Jc3Fk0hbnhNgfLe2W"
+      },
+      "artists": [
+        {
+          "name": "David Allan Coe",
+          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
+        }
+      ],
+      "duration_ms": 143760,
+      "name": "Just to Prove My Love for You",
+      "url": "https://open.spotify.com/track/3K4J9hsXjF5Cnrf5YtnMMx"
     },
     {
       "added_at": null,
@@ -559,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "David Allan Coe Sings Merle Haggard",
-        "url": "https://open.spotify.com/album/6vPAgi5fs170oyrkwHykD4"
-      },
-      "artists": [
-        {
-          "name": "David Allan Coe",
-          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
-        }
-      ],
-      "duration_ms": 134400,
-      "name": "Mama Tried",
-      "url": "https://open.spotify.com/track/7opFp61IOAhDLbwXUAl3Jf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Darlin', Darlin'",
         "url": "https://open.spotify.com/album/0ttaFuz2MNLsozzwbTn07B"
       },
@@ -591,8 +575,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "David Allan Coe - 16 Biggest Hits",
-        "url": "https://open.spotify.com/album/7oSNiyE3ZinACkLFKikw7l"
+        "name": "David Allan Coe Sings Merle Haggard",
+        "url": "https://open.spotify.com/album/6vPAgi5fs170oyrkwHykD4"
       },
       "artists": [
         {
@@ -600,9 +584,9 @@
           "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
         }
       ],
-      "duration_ms": 219306,
-      "name": "Mona Lisa Lost Her Smile",
-      "url": "https://open.spotify.com/track/3FOlVDzrfBuVfIy93fqgDN"
+      "duration_ms": 134400,
+      "name": "Mama Tried",
+      "url": "https://open.spotify.com/track/7opFp61IOAhDLbwXUAl3Jf"
     },
     {
       "added_at": null,
@@ -619,6 +603,22 @@
       "duration_ms": 141000,
       "name": "Hey Gypsy",
       "url": "https://open.spotify.com/track/1mhMZNhh6uwgJYYZYOrBdO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "David Allan Coe - 16 Biggest Hits",
+        "url": "https://open.spotify.com/album/7oSNiyE3ZinACkLFKikw7l"
+      },
+      "artists": [
+        {
+          "name": "David Allan Coe",
+          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
+        }
+      ],
+      "duration_ms": 219306,
+      "name": "Mona Lisa Lost Her Smile",
+      "url": "https://open.spotify.com/track/3FOlVDzrfBuVfIy93fqgDN"
     },
     {
       "added_at": null,
@@ -723,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Human Emotions",
-        "url": "https://open.spotify.com/album/5rpL6mTBSeUqGhJiCKS8Lk"
-      },
-      "artists": [
-        {
-          "name": "David Allan Coe",
-          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
-        }
-      ],
-      "duration_ms": 268120,
-      "name": "Human Emotions",
-      "url": "https://open.spotify.com/track/72bCNd02AUSuuR1YICoswh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Once Upon a Rhyme",
         "url": "https://open.spotify.com/album/6YfHzMRBscPjVqcxIQoXom"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 182026,
       "name": "Sweet Vibrations (Some Folks Call It Love)",
       "url": "https://open.spotify.com/track/41wFXSrdWefbvAlbKI55N6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Human Emotions",
+        "url": "https://open.spotify.com/album/5rpL6mTBSeUqGhJiCKS8Lk"
+      },
+      "artists": [
+        {
+          "name": "David Allan Coe",
+          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
+        }
+      ],
+      "duration_ms": 268120,
+      "name": "Human Emotions",
+      "url": "https://open.spotify.com/track/72bCNd02AUSuuR1YICoswh"
     },
     {
       "added_at": null,
@@ -787,22 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Human Emotions",
-        "url": "https://open.spotify.com/album/5rpL6mTBSeUqGhJiCKS8Lk"
-      },
-      "artists": [
-        {
-          "name": "David Allan Coe",
-          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
-        }
-      ],
-      "duration_ms": 169533,
-      "name": "Would You Lay With Me (In a Field of Stone)",
-      "url": "https://open.spotify.com/track/77mn635jGmcnToalQNP8Bj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Crazy Daddy",
         "url": "https://open.spotify.com/album/57VX1pfpCpbrLrpKZ4h4w8"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 160680,
       "name": "Southern Star",
       "url": "https://open.spotify.com/track/6aQX7GfnfNJ7P2QEYcXZag"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Human Emotions",
+        "url": "https://open.spotify.com/album/5rpL6mTBSeUqGhJiCKS8Lk"
+      },
+      "artists": [
+        {
+          "name": "David Allan Coe",
+          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
+        }
+      ],
+      "duration_ms": 169533,
+      "name": "Would You Lay With Me (In a Field of Stone)",
+      "url": "https://open.spotify.com/track/77mn635jGmcnToalQNP8Bj"
     }
   ],
   "unique_name": "This Is David Allan Coe",

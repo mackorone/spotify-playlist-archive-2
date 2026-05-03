@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKeNBqaIy5U.md) - [plain]
 
 > The gentle sound of some of the greatest voices and instrumentalists in Jazz\. Your Jazz dinner soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,373 likes - 125 songs - 8 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,400 likes - 125 songs - 8 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

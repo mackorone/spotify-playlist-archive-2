@@ -1,12 +1,12 @@
 {
   "description": "This is Krewella. The essential tracks, all in one playlist.",
-  "num_followers": 28159,
+  "num_followers": 28157,
   "original_name": "This Is Krewella",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afKbgAAAAAA8c7Z/b/NS0YilbEsdkucE",
+  "snapshot_id": "afPtAAAAAAAJoGDtthOPVBbUv+PznDNh",
   "tracks": [
     {
       "added_at": null,
@@ -503,42 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alarm",
-        "url": "https://open.spotify.com/album/6CCEPNPiwlWdgs571YhWf5"
-      },
-      "artists": [
-        {
-          "name": "Lookas",
-          "url": "https://open.spotify.com/artist/27fy6rHPC58Eo2VUu0iJSG"
-        },
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 225428,
-      "name": "Alarm",
-      "url": "https://open.spotify.com/track/6ZRenQ13CN0GaOnuKL9QNQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Get Wet",
-        "url": "https://open.spotify.com/album/1Y7A8ZaZ9QyeeOa3uWQJqc"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 206946,
-      "name": "Killin' It",
-      "url": "https://open.spotify.com/track/4KraKuKPaSgHLZaqBRJNHc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Goddess",
         "url": "https://open.spotify.com/album/34a72beTRCPtigmNlHdy3G"
       },
@@ -559,6 +523,42 @@
       "duration_ms": 177499,
       "name": "Goddess",
       "url": "https://open.spotify.com/track/5CwSEAyM1cQG2uV1XTHn34"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Get Wet",
+        "url": "https://open.spotify.com/album/1Y7A8ZaZ9QyeeOa3uWQJqc"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 206946,
+      "name": "Killin' It",
+      "url": "https://open.spotify.com/track/4KraKuKPaSgHLZaqBRJNHc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alarm",
+        "url": "https://open.spotify.com/album/6CCEPNPiwlWdgs571YhWf5"
+      },
+      "artists": [
+        {
+          "name": "Lookas",
+          "url": "https://open.spotify.com/artist/27fy6rHPC58Eo2VUu0iJSG"
+        },
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 225428,
+      "name": "Alarm",
+      "url": "https://open.spotify.com/track/6ZRenQ13CN0GaOnuKL9QNQ"
     },
     {
       "added_at": null,
@@ -679,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ammunition",
-        "url": "https://open.spotify.com/album/2F1dgnWAcVnBlX6Qp0MlBG"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 206120,
-      "name": "Ammunition",
-      "url": "https://open.spotify.com/track/2z5zyZaP6J9sh74mMKytUo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "United Kids of the World (feat. Krewella)",
         "url": "https://open.spotify.com/album/2kMgZuBJTzKxOr4pJdyHk0"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 256000,
       "name": "United Kids of the World (feat. Krewella)",
       "url": "https://open.spotify.com/track/61Cx5cbYUgDTA2m4SuKJ37"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ammunition",
+        "url": "https://open.spotify.com/album/2F1dgnWAcVnBlX6Qp0MlBG"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 206120,
+      "name": "Ammunition",
+      "url": "https://open.spotify.com/track/2z5zyZaP6J9sh74mMKytUo"
     },
     {
       "added_at": null,
@@ -919,8 +919,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bad Liar",
-        "url": "https://open.spotify.com/album/2vM48bdBKltEFYUSOEQ8EG"
+        "name": "dead af",
+        "url": "https://open.spotify.com/album/74cbGl9GHBaRM8yHO4Tt1Q"
       },
       "artists": [
         {
@@ -928,9 +928,9 @@
           "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
         }
       ],
-      "duration_ms": 227368,
-      "name": "Bad Liar",
-      "url": "https://open.spotify.com/track/22NGk2oktlQtKoiHiEXt6r"
+      "duration_ms": 208000,
+      "name": "dead af",
+      "url": "https://open.spotify.com/track/1UKiY1fpnB1G1nPW6ilHhw"
     },
     {
       "added_at": null,
@@ -967,8 +967,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "dead af",
-        "url": "https://open.spotify.com/album/74cbGl9GHBaRM8yHO4Tt1Q"
+        "name": "Bad Liar",
+        "url": "https://open.spotify.com/album/2vM48bdBKltEFYUSOEQ8EG"
       },
       "artists": [
         {
@@ -976,9 +976,9 @@
           "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
         }
       ],
-      "duration_ms": 208000,
-      "name": "dead af",
-      "url": "https://open.spotify.com/track/1UKiY1fpnB1G1nPW6ilHhw"
+      "duration_ms": 227368,
+      "name": "Bad Liar",
+      "url": "https://open.spotify.com/track/22NGk2oktlQtKoiHiEXt6r"
     },
     {
       "added_at": null,

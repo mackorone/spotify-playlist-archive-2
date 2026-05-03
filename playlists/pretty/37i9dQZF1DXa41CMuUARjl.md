@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa41CMuUARjl.md) - [plain]
 
 > This week's best new <a href="spotify:genre:edm\_dance">dance and electronic releases</a> from Brutalismus 3000, Cloonee, Madeon + Slayyyter, WHIPPED CREAM, & more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 568,348 likes - 115 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 568,368 likes - 115 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

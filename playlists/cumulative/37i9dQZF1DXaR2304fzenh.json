@@ -143,6 +143,32 @@
     },
     {
       "album": {
+        "name": "Aguas",
+        "url": "https://open.spotify.com/album/3M2ysOq0MWdkpDydIVZ07K"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        },
+        {
+          "name": "Rey Quinto",
+          "url": "https://open.spotify.com/artist/7EpdzasUopr1eDw9i66Of0"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172682,
+      "name": "Aguas",
+      "url": "https://open.spotify.com/track/2KgzC2HaBfy67hMkSUDOys"
+    },
+    {
+      "album": {
         "name": "Chalino S\u00e1nchez con Banda Brava",
         "url": "https://open.spotify.com/album/4GmmvkdzlwP5TDac2be0hK"
       },
@@ -534,7 +560,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 155623,
       "name": "Caribe",
       "url": "https://open.spotify.com/track/0CtmeTw0vODT6pDLUY2Jcm"
@@ -879,6 +905,32 @@
     },
     {
       "album": {
+        "name": "De Los Dientes Pa Fuera",
+        "url": "https://open.spotify.com/album/3rGviY23qfCvsHXiauzv19"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres Del Barranco",
+          "url": "https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        },
+        {
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168664,
+      "name": "De Los Dientes Pa Fuera",
+      "url": "https://open.spotify.com/track/6U4MQb60Hkvv4ZS2Qwg3Lo"
+    },
+    {
+      "album": {
         "name": "Recuerden Mi Estilo",
         "url": "https://open.spotify.com/album/0lMw8xxFLYRSGYRlGzo8uc"
       },
@@ -1147,6 +1199,42 @@
     },
     {
       "album": {
+        "name": "AFTERAFTER",
+        "url": "https://open.spotify.com/album/5SF4i0tWsZqNQ8wymtauRZ"
+      },
+      "artists": [
+        {
+          "name": "Clave Especial",
+          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162415,
+      "name": "EA EA EA",
+      "url": "https://open.spotify.com/track/4tz67i4hMleL46wToRT1Ak"
+    },
+    {
+      "album": {
+        "name": "EFECTO BARBAS",
+        "url": "https://open.spotify.com/album/1OjDgmLtS4ZC8HiMtSjvgP"
+      },
+      "artists": [
+        {
+          "name": "Rey Quinto",
+          "url": "https://open.spotify.com/artist/7EpdzasUopr1eDw9i66Of0"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143738,
+      "name": "EFECTO BARBAS",
+      "url": "https://open.spotify.com/track/4RlkwTCQZoAbztnXMJ2tcF"
+    },
+    {
+      "album": {
         "name": "Somos Leyenda",
         "url": "https://open.spotify.com/album/3wCdZP5zvUlanVuNI951Il"
       },
@@ -1307,6 +1395,24 @@
     },
     {
       "album": {
+        "name": "El Chivo",
+        "url": "https://open.spotify.com/album/3L0zckpRUWqCAzThmIjONA"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173131,
+      "name": "El Chivo",
+      "url": "https://open.spotify.com/track/25oNFTbkSVAmMQe8NQHNFc"
+    },
+    {
+      "album": {
         "name": "Pisteando Con La Regida (Vol. 3)",
         "url": "https://open.spotify.com/album/43VJC0wCb2qkm1KrIdRYqc"
       },
@@ -1372,7 +1478,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 234734,
       "name": "El Doctor",
       "url": "https://open.spotify.com/track/2LbzI8ZFmjmZ0BcIriUyaw"
@@ -1770,7 +1876,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 179745,
       "name": "El T\u00f3xico",
       "url": "https://open.spotify.com/track/41QD8eEf8HLLpy20d8j2Kx"
@@ -1854,7 +1960,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 117425,
       "name": "En Las Duronas",
       "url": "https://open.spotify.com/track/6D2MQ05wk8yWBF1mh1m4Se"
@@ -1952,7 +2058,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 177528,
       "name": "Estilo Militar",
       "url": "https://open.spotify.com/track/4PaS9QrY9IqVUh5iAYf2mH"
@@ -1999,6 +2105,50 @@
     },
     {
       "album": {
+        "name": "FERRARI",
+        "url": "https://open.spotify.com/album/2gwCniqY1EvKAjcZYwhAto"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        },
+        {
+          "name": "Clave Especial",
+          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
+        },
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134181,
+      "name": "FERRARI",
+      "url": "https://open.spotify.com/track/6LPA5jARmoB8MYsZoHFjIW"
+    },
+    {
+      "album": {
+        "name": "Fin De Semana",
+        "url": "https://open.spotify.com/album/1GBuuYtkHBUXxY2j1XrLff"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180197,
+      "name": "Fin De Semana",
+      "url": "https://open.spotify.com/track/4N5Qpos9bnbTFOXHBHANJQ"
+    },
+    {
+      "album": {
         "name": "Fin de Semana",
         "url": "https://open.spotify.com/album/366AAoKCXunrJSqKqZuafy"
       },
@@ -2040,6 +2190,24 @@
       "duration_ms": 169440,
       "name": "FIRST LOVE",
       "url": "https://open.spotify.com/track/3QQAeMQbbjZXVFbF8DgFWT"
+    },
+    {
+      "album": {
+        "name": "Fuera Mas Feliz",
+        "url": "https://open.spotify.com/album/1sEAPhutMLCyyChH05Moru"
+      },
+      "artists": [
+        {
+          "name": "Aldo Trujillo",
+          "url": "https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141285,
+      "name": "Fuera Mas Feliz",
+      "url": "https://open.spotify.com/track/03hxCxEXYvCBtoLizpPIzT"
     },
     {
       "album": {
@@ -2230,6 +2398,32 @@
       "duration_ms": 166229,
       "name": "Hasta la Ra\u00edz",
       "url": "https://open.spotify.com/track/4Bo8GqM6x6D1J3CsIjQJBl"
+    },
+    {
+      "album": {
+        "name": "holanda",
+        "url": "https://open.spotify.com/album/1l3EH2CGRWrHziaFV4uGTP"
+      },
+      "artists": [
+        {
+          "name": "EL DE LA TINTA",
+          "url": "https://open.spotify.com/artist/6VNymaTBHnYKnBfST2A5Cv"
+        },
+        {
+          "name": "Angel Cervantes",
+          "url": "https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ"
+        },
+        {
+          "name": "Sahir Montoya",
+          "url": "https://open.spotify.com/artist/7x5TwK8zGLmVk8k8zIEIrX"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224454,
+      "name": "holanda",
+      "url": "https://open.spotify.com/track/08ryHOM7OrGGcdrqFqNXxe"
     },
     {
       "album": {
@@ -2610,7 +2804,7 @@
       ],
       "date_added": "2025-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 186450,
       "name": "LA NETA",
       "url": "https://open.spotify.com/track/2HXCXjTJZbjxr8IvfDSeNC"
@@ -2932,7 +3126,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 155970,
       "name": "Maniaque",
       "url": "https://open.spotify.com/track/0zWhZGXOh5EZyAbXeWdTbL"
@@ -4078,7 +4272,7 @@
       ],
       "date_added": "2023-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 215984,
       "name": "Solita (En Vivo)",
       "url": "https://open.spotify.com/track/279gdvickeQgmRt3EHBtNg"
@@ -4100,6 +4294,24 @@
       "duration_ms": 153967,
       "name": "Soy Buen Amigo",
       "url": "https://open.spotify.com/track/1Z0auW1yEy6Dq9hsRdeIV3"
+    },
+    {
+      "album": {
+        "name": "Supercargada",
+        "url": "https://open.spotify.com/album/2MhwcUwJ8ovTDXcON7Upz1"
+      },
+      "artists": [
+        {
+          "name": "LOS DOS DE TAMAULIPAS",
+          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175616,
+      "name": "Supercargada",
+      "url": "https://open.spotify.com/track/6SiAlj1pGTYSnXuKlLCcZd"
     },
     {
       "album": {
@@ -4212,7 +4424,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 163893,
       "name": "Todos Hablan, Nada Saben",
       "url": "https://open.spotify.com/track/0SIooo95Kba3UwPBRUOcmd"
@@ -4230,7 +4442,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 170880,
       "name": "Tolerancia Zero (Banda)",
       "url": "https://open.spotify.com/track/2sEZxna1ubt4oNLs2Tf3Da"
@@ -4282,6 +4494,28 @@
       "duration_ms": 161026,
       "name": "Tragos Amargos",
       "url": "https://open.spotify.com/track/63l2HO4PsTfvna2Ol4QBtn"
+    },
+    {
+      "album": {
+        "name": "TRAJE DIOR",
+        "url": "https://open.spotify.com/album/0AeunG5npw5Yj62RWOBON7"
+      },
+      "artists": [
+        {
+          "name": "Agushto Papa",
+          "url": "https://open.spotify.com/artist/1v04yGSzSyXhmxR1SD5hfS"
+        },
+        {
+          "name": "Los Ahijados 815",
+          "url": "https://open.spotify.com/artist/3OdLrpXRZN2cy2I9B19gPY"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116033,
+      "name": "TRAJE DIOR",
+      "url": "https://open.spotify.com/track/562ELgkIE21EumNa5u2PMK"
     },
     {
       "album": {
@@ -4642,7 +4876,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 240456,
       "name": "Yo Ya No Vuelvo Contigo - En Vivo",
       "url": "https://open.spotify.com/track/1s59X35jDULAyOGmBuTAnd"

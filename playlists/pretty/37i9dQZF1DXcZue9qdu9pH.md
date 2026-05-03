@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZue9qdu9pH.md) - [plain]
 
 > Come, lets take a soulful journey through rhythmic grooves
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,120 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,122 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZue9qdu9pH.md) - [plain]
 | 49 | [Cry In A Lambo Not Prius](https://open.spotify.com/track/5DHuDjgL9QsuQxLTgUYw0G) | [Colossal Music](https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520) | [Cry In A Lambo Not Prius](https://open.spotify.com/album/4NFd8aIfaiD64uTUkKfRPK) | 4:03 |
 | 50 | [Time Allows](https://open.spotify.com/track/2pksmPxpgVX3ocBYtQwqFV) | [Altair Saïd](https://open.spotify.com/artist/6QJj1KD71boYPVql87xBGJ) | [Time Allows](https://open.spotify.com/album/5OaWBtvTwoJk01EuaIabeV) | 3:51 |
 
-Snapshot ID: `AAAAALVl3AxSBPDJlglPUGBl75YLHVVv`
+Snapshot ID: `AAAAAMLqVQvt4WUxFala2qXkqpTqSk2M`

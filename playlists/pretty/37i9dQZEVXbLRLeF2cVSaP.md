@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Belarus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,306 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,303 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 49 | [ты любишь танцевать](https://open.spotify.com/track/0nukg1QtwhP7jBbmeFKoiT) | [CUPSIZE](https://open.spotify.com/artist/6piaRBSk79hfoHINy7DMGO) | [дели на два](https://open.spotify.com/album/6HKXYwvSyK42bwGhtYMG1I) | 2:25 |
 | 50 | [Into the Sun](https://open.spotify.com/track/1ZNolq7VI7efGlh2hb2VVr) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h) | 3:47 |
 
-Snapshot ID: `MYgXIAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MYlooAAAAAAAAAAAAAAAAAAAAAAAAGVu`

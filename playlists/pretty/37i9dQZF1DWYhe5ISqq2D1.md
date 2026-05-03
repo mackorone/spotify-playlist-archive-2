@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhe5ISqq2D1.md) - [plain]
 
 > 日本のシンガーソングライターを特集。Cover: 大橋ちっぽけ
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,152 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,147 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,7 +104,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhe5ISqq2D1.md) - [plain]
 | 94 | [Let Go](https://open.spotify.com/track/6ysCG1lpF2g8qzYq9ZTDiK) | [野田愛実](https://open.spotify.com/artist/3B94FuZdngvnr2LrwDxLk7) | [Let Go](https://open.spotify.com/album/77jCNAFhSUYCqeKKnenVPY) | 2:53 |
 | 95 | [ABC](https://open.spotify.com/track/3vM2M13sgm6CzsJisB28IE) | [idom](https://open.spotify.com/artist/2f1JDLogY8kLi804QEmMzx) | [ABC](https://open.spotify.com/album/2flwTAcov0DUVg1ggCx1R4) | 3:00 |
 | 96 | [悪魔](https://open.spotify.com/track/5yACHWDsUsC5n1QJuVTqMp) | [Soushi Sakiyama](https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA) | [good life, good people](https://open.spotify.com/album/4EsbxeEeLAAr5EOymJIZnB) | 3:54 |
-| 97 | [弾き語りの男](https://open.spotify.com/track/0BVEq4yIPXdnP9zDNCzyrJ) | [眞名子新](https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G) | [弾き語りの男](https://open.spotify.com/album/1kzo1yl6P4StwcBzFDNHNV) | 3:20 |
+| 97 | [弾き語りの男](https://open.spotify.com/track/0BVEq4yIPXdnP9zDNCzyrJ) | [眞名子 新](https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G) | [弾き語りの男](https://open.spotify.com/album/1kzo1yl6P4StwcBzFDNHNV) | 3:20 |
 | 98 | [Coffee Break feat\. 関口シンゴ](https://open.spotify.com/track/1LJ5imdA2VunyCA3CfpY5u) | [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9), [Shingo Sekiguchi](https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9) | [Coffee Break feat\. 関口シンゴ](https://open.spotify.com/album/2YYmeNjDEOJA40xd2etSqb) | 3:26 |
 | 99 | [アニムスヘイブン](https://open.spotify.com/track/7cKoafWOIHW3R3CG7eXWm7) | [sanetii](https://open.spotify.com/artist/109bnAEaRhXbAKv7rlP1yy) | [アニムスヘイブン](https://open.spotify.com/album/77ycLnkh7FjoJ2k43b4Ybt) | 3:06 |
 | 100 | [風と私の物語](https://open.spotify.com/track/7LNmFBcsv8lXBU3lGNmD1q) | [Hiroji Miyamoto](https://open.spotify.com/artist/37yA8FvkJWnXZXbRg4IQaT) | [俺と、友だち](https://open.spotify.com/album/5naxqusV52Vo8oflET9ljx) | 5:33 |

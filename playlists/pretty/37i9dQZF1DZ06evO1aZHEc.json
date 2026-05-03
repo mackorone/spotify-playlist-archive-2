@@ -1,12 +1,12 @@
 {
   "description": "This is claire rousay. The essential tracks, all in one playlist.",
-  "num_followers": 356,
+  "num_followers": 357,
   "original_name": "This Is claire rousay",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afKbgAAAAAAphp0ZpQRmu1l/yf6FvfNH",
+  "snapshot_id": "afPtAAAAAAAq5+KTx6Gpn/PJi2mg+c4X",
   "tracks": [
     {
       "added_at": null,
@@ -178,15 +178,11 @@
         {
           "name": "claire rousay",
           "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
-        },
-        {
-          "name": "Lala Lala",
-          "url": "https://open.spotify.com/artist/492I2sQFcHDcsZECYX25dE"
         }
       ],
-      "duration_ms": 290181,
-      "name": "please 5 more minutes (feat. Lala Lala)",
-      "url": "https://open.spotify.com/track/268XYupMBlKQBHb3m4BIRS"
+      "duration_ms": 283509,
+      "name": "head",
+      "url": "https://open.spotify.com/track/1DyaeKJkMmcbZvD4jvb603"
     },
     {
       "added_at": null,
@@ -250,11 +246,15 @@
         {
           "name": "claire rousay",
           "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
+        },
+        {
+          "name": "Lala Lala",
+          "url": "https://open.spotify.com/artist/492I2sQFcHDcsZECYX25dE"
         }
       ],
-      "duration_ms": 283509,
-      "name": "head",
-      "url": "https://open.spotify.com/track/1DyaeKJkMmcbZvD4jvb603"
+      "duration_ms": 290181,
+      "name": "please 5 more minutes (feat. Lala Lala)",
+      "url": "https://open.spotify.com/track/268XYupMBlKQBHb3m4BIRS"
     },
     {
       "added_at": null,
@@ -475,26 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deceiver",
-        "url": "https://open.spotify.com/album/1PZEGP9yY4nlf9Pv6mTCpN"
-      },
-      "artists": [
-        {
-          "name": "claire rousay",
-          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
-        },
-        {
-          "name": "Helena Deland",
-          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
-        }
-      ],
-      "duration_ms": 224643,
-      "name": "Deceiver",
-      "url": "https://open.spotify.com/track/7uYYnLks8scZzC1vA1qEjj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Harmony",
         "url": "https://open.spotify.com/album/0MbPCtAJZVJmqGne38mQdF"
       },
@@ -519,8 +499,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "sentiment",
-        "url": "https://open.spotify.com/album/0QhdOeubTOElMLAVK52uQu"
+        "name": "Deceiver",
+        "url": "https://open.spotify.com/album/1PZEGP9yY4nlf9Pv6mTCpN"
       },
       "artists": [
         {
@@ -528,33 +508,13 @@
           "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
         },
         {
-          "name": "Hand Habits",
-          "url": "https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5"
+          "name": "Helena Deland",
+          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
         }
       ],
-      "duration_ms": 213103,
-      "name": "ily2 (feat. Hand Habits)",
-      "url": "https://open.spotify.com/track/4cxlsyaMJb4S2P8eT0JQc4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "quilted lament",
-        "url": "https://open.spotify.com/album/2ogzCBbtEUE7oR23z7RAwa"
-      },
-      "artists": [
-        {
-          "name": "claire rousay",
-          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
-        },
-        {
-          "name": "Gretchen Korsmo",
-          "url": "https://open.spotify.com/artist/2uTkkIkIpbQu3JT0UF1K5C"
-        }
-      ],
-      "duration_ms": 201500,
-      "name": "spiral branches",
-      "url": "https://open.spotify.com/track/6WWDUkgLxrd3bIaJB1fqZo"
+      "duration_ms": 224643,
+      "name": "Deceiver",
+      "url": "https://open.spotify.com/track/7uYYnLks8scZzC1vA1qEjj"
     },
     {
       "added_at": null,
@@ -591,6 +551,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "quilted lament",
+        "url": "https://open.spotify.com/album/2ogzCBbtEUE7oR23z7RAwa"
+      },
+      "artists": [
+        {
+          "name": "claire rousay",
+          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
+        },
+        {
+          "name": "Gretchen Korsmo",
+          "url": "https://open.spotify.com/artist/2uTkkIkIpbQu3JT0UF1K5C"
+        }
+      ],
+      "duration_ms": 201500,
+      "name": "spiral branches",
+      "url": "https://open.spotify.com/track/6WWDUkgLxrd3bIaJB1fqZo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Eyeline",
         "url": "https://open.spotify.com/album/6ijq6xImHU0pCW8Ea9kFL7"
       },
@@ -607,6 +587,26 @@
       "duration_ms": 104544,
       "name": "DOG",
       "url": "https://open.spotify.com/track/1WEjS8vV0UpijxqkFU2Wi4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "sentiment",
+        "url": "https://open.spotify.com/album/0QhdOeubTOElMLAVK52uQu"
+      },
+      "artists": [
+        {
+          "name": "claire rousay",
+          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
+        },
+        {
+          "name": "Hand Habits",
+          "url": "https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5"
+        }
+      ],
+      "duration_ms": 213103,
+      "name": "ily2 (feat. Hand Habits)",
+      "url": "https://open.spotify.com/track/4cxlsyaMJb4S2P8eT0JQc4"
     },
     {
       "added_at": null,
@@ -703,26 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In the Deep Drift You Will Find the Most Serene of Lullabies",
-        "url": "https://open.spotify.com/album/7ncHkb6qfuk0ZtY9sPSIt9"
-      },
-      "artists": [
-        {
-          "name": "claire rousay",
-          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
-        },
-        {
-          "name": "m. harper scott",
-          "url": "https://open.spotify.com/artist/4g2d7yKNHLNjg7RTlAG6za"
-        }
-      ],
-      "duration_ms": 197894,
-      "name": "homard rouge",
-      "url": "https://open.spotify.com/track/72oHBJtvAo4i4h3Vt60Dhp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "TRANSA",
         "url": "https://open.spotify.com/album/3ZbB4lOfSxeGln33XsFyXG"
       },
@@ -755,6 +735,26 @@
       "duration_ms": 142000,
       "name": "vii",
       "url": "https://open.spotify.com/track/7xhdQtOMre3IOkKpPJF7Ga"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In the Deep Drift You Will Find the Most Serene of Lullabies",
+        "url": "https://open.spotify.com/album/7ncHkb6qfuk0ZtY9sPSIt9"
+      },
+      "artists": [
+        {
+          "name": "claire rousay",
+          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
+        },
+        {
+          "name": "m. harper scott",
+          "url": "https://open.spotify.com/artist/4g2d7yKNHLNjg7RTlAG6za"
+        }
+      ],
+      "duration_ms": 197894,
+      "name": "homard rouge",
+      "url": "https://open.spotify.com/track/72oHBJtvAo4i4h3Vt60Dhp"
     },
     {
       "added_at": null,
@@ -795,6 +795,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Bloody Lady",
+        "url": "https://open.spotify.com/album/679IsrVRhtAtuVh5E64CU4"
+      },
+      "artists": [
+        {
+          "name": "claire rousay",
+          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "vi",
+      "url": "https://open.spotify.com/track/2qpPcILan5cv1ql3739g3c"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "a crying poem",
         "url": "https://open.spotify.com/album/2MbJeHsvvUkpKfXYpuErfZ"
       },
@@ -819,18 +835,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Bloody Lady",
-        "url": "https://open.spotify.com/album/679IsrVRhtAtuVh5E64CU4"
+        "name": "Various Small Whistles and a Song",
+        "url": "https://open.spotify.com/album/32giMSlU2jssM3GKwInlQk"
       },
       "artists": [
+        {
+          "name": "Lia Kohl",
+          "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
+        },
         {
           "name": "claire rousay",
           "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
         }
       ],
-      "duration_ms": 144000,
-      "name": "vi",
-      "url": "https://open.spotify.com/track/2qpPcILan5cv1ql3739g3c"
+      "duration_ms": 60000,
+      "name": "Home, Los Angeles",
+      "url": "https://open.spotify.com/track/4yxvOxcU0B5bGxO9yYKPfz"
     },
     {
       "added_at": null,
@@ -847,46 +867,6 @@
       "duration_ms": 165000,
       "name": "going home",
       "url": "https://open.spotify.com/track/2YCubAqWhA0xekkAbsNWBI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "a softer focus",
-        "url": "https://open.spotify.com/album/7C5oqO91QIUG6ZUJqQIRNv"
-      },
-      "artists": [
-        {
-          "name": "claire rousay",
-          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
-        }
-      ],
-      "duration_ms": 528051,
-      "name": "peak chroma",
-      "url": "https://open.spotify.com/track/3gilVyIpVQJ8FnF0kPBN7B"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "a crying poem",
-        "url": "https://open.spotify.com/album/2MbJeHsvvUkpKfXYpuErfZ"
-      },
-      "artists": [
-        {
-          "name": "claire rousay",
-          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
-        },
-        {
-          "name": "More Eaze",
-          "url": "https://open.spotify.com/artist/0noDJa3OSog9g1jqw5VygY"
-        },
-        {
-          "name": "Bloodz Boi",
-          "url": "https://open.spotify.com/artist/1U21I6Gqa4EyPwf7hJ1Phg"
-        }
-      ],
-      "duration_ms": 142262,
-      "name": "Frozen Torches",
-      "url": "https://open.spotify.com/track/3tKJHTmNOupeV9bLy7Rngj"
     },
     {
       "added_at": null,
@@ -932,9 +912,9 @@
           "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
         }
       ],
-      "duration_ms": 194000,
-      "name": "x",
-      "url": "https://open.spotify.com/track/0Ua9LPrNVtitDgMQY9gLap"
+      "duration_ms": 210000,
+      "name": "viii",
+      "url": "https://open.spotify.com/track/2MU8lq5k3Rebay4tvQtlX6"
     }
   ],
   "unique_name": "This Is claire rousay",

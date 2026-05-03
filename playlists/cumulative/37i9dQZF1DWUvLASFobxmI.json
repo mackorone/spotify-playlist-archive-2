@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-04",
-  "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. Grupo Anexxado y Predilecto en portada.",
+  "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. Aldo Trujillo en portada.",
   "name": "Norte\u00f1o 2026",
   "tracks": [
     {
@@ -372,6 +372,28 @@
       "duration_ms": 142214,
       "name": "956",
       "url": "https://open.spotify.com/track/1wM5VDXeR8o0ueQIvAaJib"
+    },
+    {
+      "album": {
+        "name": "Amor x Dosis",
+        "url": "https://open.spotify.com/album/2rt2XjqNWSZuETGY8ldVny"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel Cortes",
+          "url": "https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198598,
+      "name": "A Dios Le Ped\u00eda",
+      "url": "https://open.spotify.com/track/65keL132eDsLtq1fWZXCz3"
     },
     {
       "album": {
@@ -2883,6 +2905,28 @@
     },
     {
       "album": {
+        "name": "EnerG\u00edtimo",
+        "url": "https://open.spotify.com/album/5GJ6cfGildyJHI9yP3DoYh"
+      },
+      "artists": [
+        {
+          "name": "La Energia Nortena",
+          "url": "https://open.spotify.com/artist/6uFxO15AG9aoz7MS4aQQvp"
+        },
+        {
+          "name": "Grupo Legitimo",
+          "url": "https://open.spotify.com/artist/1ovPxptMcDubQ0CgYsS5hm"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180096,
+      "name": "Conc\u00e9deme El Honor",
+      "url": "https://open.spotify.com/track/5Lk2YI8YpvqV7f5F3OIJLS"
+    },
+    {
+      "album": {
         "name": "Conexi\u00f3n",
         "url": "https://open.spotify.com/album/3LzrPKfe2norm7MRc2vZmD"
       },
@@ -3790,6 +3834,32 @@
       "duration_ms": 177960,
       "name": "De Ladrillo a Ladrillo",
       "url": "https://open.spotify.com/track/2V3zb4cQ9uUUlD1817CKLH"
+    },
+    {
+      "album": {
+        "name": "De Los Dientes Pa Fuera",
+        "url": "https://open.spotify.com/album/3rGviY23qfCvsHXiauzv19"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres Del Barranco",
+          "url": "https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        },
+        {
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168664,
+      "name": "De Los Dientes Pa Fuera",
+      "url": "https://open.spotify.com/track/6U4MQb60Hkvv4ZS2Qwg3Lo"
     },
     {
       "album": {
@@ -5020,6 +5090,24 @@
       "duration_ms": 200127,
       "name": "El Dorado Fue Cobre",
       "url": "https://open.spotify.com/track/5HkCSKHMzvG7RxA3sMYhAb"
+    },
+    {
+      "album": {
+        "name": "Resiliencia",
+        "url": "https://open.spotify.com/album/1a6uJBZfQHnjZmVkmbCGqT"
+      },
+      "artists": [
+        {
+          "name": "Grupo Recluta",
+          "url": "https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150440,
+      "name": "El Estr\u00e9s",
+      "url": "https://open.spotify.com/track/7wAkHI64oZwGRY20OkaEX7"
     },
     {
       "album": {
@@ -7128,7 +7216,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 154656,
       "name": "Expectante",
       "url": "https://open.spotify.com/track/0UnYh6tNVClp3JlsRjq4C9"
@@ -7412,6 +7500,24 @@
       "duration_ms": 135813,
       "name": "Fuera De Serie",
       "url": "https://open.spotify.com/track/3rAW7i1PrBsrY1q2Wb4JgM"
+    },
+    {
+      "album": {
+        "name": "Fuera Mas Feliz",
+        "url": "https://open.spotify.com/album/1sEAPhutMLCyyChH05Moru"
+      },
+      "artists": [
+        {
+          "name": "Aldo Trujillo",
+          "url": "https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141285,
+      "name": "Fuera Mas Feliz",
+      "url": "https://open.spotify.com/track/03hxCxEXYvCBtoLizpPIzT"
     },
     {
       "album": {
@@ -8006,7 +8112,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 217130,
       "name": "HOMBRE DE LEY",
       "url": "https://open.spotify.com/track/1ZamBlkaZCx9subrNWl6WO"
@@ -9274,6 +9380,28 @@
       "duration_ms": 234094,
       "name": "La Siembra",
       "url": "https://open.spotify.com/track/14VOqso0CLZIowdMAWT4nH"
+    },
+    {
+      "album": {
+        "name": "La Soluci\u00f3n",
+        "url": "https://open.spotify.com/album/19E4ufXA3L3OWneXKxqSSC"
+      },
+      "artists": [
+        {
+          "name": "Grupo Clasificado",
+          "url": "https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9"
+        },
+        {
+          "name": "Grupo Maximo Grado",
+          "url": "https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146474,
+      "name": "La Soluci\u00f3n",
+      "url": "https://open.spotify.com/track/7My7ANjRIKAcoavRGchP25"
     },
     {
       "album": {
@@ -10658,7 +10786,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 185246,
       "name": "Me Enamor\u00e9 Solo",
       "url": "https://open.spotify.com/track/1p8ktN7uVGq04LIYYyveRQ"
@@ -12676,7 +12804,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 208576,
       "name": "NQV",
       "url": "https://open.spotify.com/track/368XK4RZU7l1PX5pEn2kOr"
@@ -13048,7 +13176,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 168857,
       "name": "Para Bien o Para Mal",
       "url": "https://open.spotify.com/track/6vIv1jSmIqEjPFwaHp3MW3"
@@ -15016,7 +15144,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 141101,
       "name": "Selectiva",
       "url": "https://open.spotify.com/track/5KgIfj8LTD4ewnlML92z5g"

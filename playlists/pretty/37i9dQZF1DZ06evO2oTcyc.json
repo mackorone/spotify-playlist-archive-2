@@ -1,12 +1,12 @@
 {
   "description": "This is Kodak Black. The essential tracks, all in one playlist.",
-  "num_followers": 230153,
+  "num_followers": 230186,
   "original_name": "This Is Kodak Black",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afKbgAAAAAD1bt1/6ZZY9t6KOJ6nHvHw",
+  "snapshot_id": "afPtAAAAAAAzmUi73CAONPqRZAeFldFo",
   "tracks": [
     {
       "added_at": null,
@@ -399,6 +399,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Just Getting Started",
+        "url": "https://open.spotify.com/album/29CRmHA3hsGk1nwoRnjbxC"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 176158,
+      "name": "Time To Be Free",
+      "url": "https://open.spotify.com/track/24n0qB5aWEqRztvfh4SVWE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Skrt",
         "url": "https://open.spotify.com/album/5pgyZ32nzg48ugJS2QVVuS"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 181670,
       "name": "Enemies",
       "url": "https://open.spotify.com/track/4KYf8TBVU4QHZlSnVOn7u8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Just Getting Started",
-        "url": "https://open.spotify.com/album/29CRmHA3hsGk1nwoRnjbxC"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 176158,
-      "name": "Time To Be Free",
-      "url": "https://open.spotify.com/track/24n0qB5aWEqRztvfh4SVWE"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Back For Everything",
-        "url": "https://open.spotify.com/album/7sX9VE0I4zbslanrLXR5aR"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 192036,
-      "name": "On Everything",
-      "url": "https://open.spotify.com/track/3SgWgfBoO5JCJnpCwKd9DM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LOVE FOR GUALA",
         "url": "https://open.spotify.com/album/3zMEkZNzS5yJDcnqPhIk10"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 226068,
       "name": "Till im Gone (feat. Kodak Black)",
       "url": "https://open.spotify.com/track/6I0Jucv2KfH32lNp1Acana"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Back For Everything",
+        "url": "https://open.spotify.com/album/7sX9VE0I4zbslanrLXR5aR"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 192036,
+      "name": "On Everything",
+      "url": "https://open.spotify.com/track/3SgWgfBoO5JCJnpCwKd9DM"
     },
     {
       "added_at": null,
@@ -879,6 +879,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lil Big Pac",
+        "url": "https://open.spotify.com/album/6dAUCUgPdEiorKV7101AtE"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 213028,
+      "name": "Gave It All I Got",
+      "url": "https://open.spotify.com/track/7Kbf1qDeDqshPsG2eSonFy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) [Trailer Version]",
         "url": "https://open.spotify.com/album/6aHHJHhyAt6fBWwc7baiCw"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 62789,
       "name": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) - Trailer Version",
       "url": "https://open.spotify.com/track/5qyjy0xfsHNzWxvXkHVB85"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lil Big Pac",
-        "url": "https://open.spotify.com/album/6dAUCUgPdEiorKV7101AtE"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 213028,
-      "name": "Gave It All I Got",
-      "url": "https://open.spotify.com/track/7Kbf1qDeDqshPsG2eSonFy"
     },
     {
       "added_at": null,

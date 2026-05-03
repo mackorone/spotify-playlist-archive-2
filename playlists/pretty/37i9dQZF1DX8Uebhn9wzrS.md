@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 
 > 🎧 hit play, lock in, get stuff done 📚
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,168,637 likes - 200 songs - 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,168,833 likes - 200 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 | 199 | [Til' Tomorrow](https://open.spotify.com/track/5XUoW2N4fYsckgxlorox3E) | [Samuraj](https://open.spotify.com/artist/72Gb3H2siajreDrN35NFW9) | [Til' Tomorrow](https://open.spotify.com/album/0Wv0FOAewrH9muEpbMkZK8) | 2:12 |
 | 200 | [Wandering Youth](https://open.spotify.com/track/0DZgVl0tbe7CE4gOkBylBl) | [Takatsugu Wakabayashi](https://open.spotify.com/artist/716mtoleH0e8XKIzcEmVQ4) | [Wandering Youth](https://open.spotify.com/album/4iErkJn4xMgyUIogvZ1snA) | 2:26 |
 
-Snapshot ID: `AAAAAG5+P/3kN5apbSRyGmUTBBxkB68K`
+Snapshot ID: `AAAAAHvIbmddu0Jl+O9rERIo4imZ4w7z`

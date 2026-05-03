@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IWHdjlGV0r.md) - [plain]
 
 > Alcuni amori bruciano più di altri\. Cover: Tony Boy
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,414 likes - 85 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,413 likes - 85 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IWHdjlGV0r.md) - [plain]
 | 84 | [NIKITA](https://open.spotify.com/track/4Nz4if133Xq9o06pgIkfOu) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0) | [Anno Zero](https://open.spotify.com/album/7shtYxDm2JIN1hmypbmYBr) | 2:34 |
 | 85 | [MILANO 3AM](https://open.spotify.com/track/3ytJd1HfiP249QcPg7rvQP) | [Silent Bob](https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI), [Sick Budd](https://open.spotify.com/artist/5h8RF4h6OhX1zIssiLPndr) | [ANGELO BALACLAVA](https://open.spotify.com/album/1n7HkZhfeIrfMaTJJldfEO) | 3:03 |
 
-Snapshot ID: `AAAAAFm1sX8UCbK2r+bFRRVSgq5TAUag`
+Snapshot ID: `AAAAALdJSLJW1l9tN+egkxcTTFK/IeLm`

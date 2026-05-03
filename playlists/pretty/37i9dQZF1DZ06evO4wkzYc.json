@@ -1,12 +1,12 @@
 {
   "description": "This is Edicion Especial. The essential tracks, all in one playlist.",
-  "num_followers": 192744,
+  "num_followers": 192793,
   "original_name": "This Is Edicion Especial",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afKbgAAAAACu4KVlceB+HtxnAIe54bwz",
+  "snapshot_id": "afPtAAAAAACYyqgdlteXHKkrgEUbIYrK",
   "tracks": [
     {
       "added_at": null,
@@ -59,8 +59,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Si Es Posible",
-        "url": "https://open.spotify.com/album/1QlZL4Vc5MozT8GdlE6h8j"
+        "name": "Sin Pagar Renta",
+        "url": "https://open.spotify.com/album/2QoQgEfF8ktaAohV5BOYR9"
       },
       "artists": [
         {
@@ -68,9 +68,9 @@
           "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
         }
       ],
-      "duration_ms": 255401,
-      "name": "Si Es Posible",
-      "url": "https://open.spotify.com/track/1zQhxXlnXqWk3KpUBhPpQC"
+      "duration_ms": 202443,
+      "name": "Sin Pagar Renta",
+      "url": "https://open.spotify.com/track/0kbUYmoU2KatRvhh3m5W65"
     },
     {
       "added_at": null,
@@ -91,8 +91,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sin Pagar Renta",
-        "url": "https://open.spotify.com/album/2QoQgEfF8ktaAohV5BOYR9"
+        "name": "Si Es Posible",
+        "url": "https://open.spotify.com/album/1QlZL4Vc5MozT8GdlE6h8j"
       },
       "artists": [
         {
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
         }
       ],
-      "duration_ms": 202443,
-      "name": "Sin Pagar Renta",
-      "url": "https://open.spotify.com/track/0kbUYmoU2KatRvhh3m5W65"
+      "duration_ms": 255401,
+      "name": "Si Es Posible",
+      "url": "https://open.spotify.com/track/1zQhxXlnXqWk3KpUBhPpQC"
     },
     {
       "added_at": null,
@@ -124,7 +124,7 @@
       "added_at": null,
       "album": {
         "name": "D\u00e9jenme Hacer Dinero",
-        "url": "https://open.spotify.com/album/0Pb2T0G7x9IGOWer7fEmuh"
+        "url": "https://open.spotify.com/album/0EfL3Mc1ApalTVk7roCO5y"
       },
       "artists": [
         {
@@ -144,9 +144,9 @@
           "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
         }
       ],
-      "duration_ms": 193918,
+      "duration_ms": 191355,
       "name": "D\u00e9jenme Hacer Dinero",
-      "url": "https://open.spotify.com/track/364qZBjyGTwjNbUxnq1djj"
+      "url": "https://open.spotify.com/track/36Sb1v2RoaxKDFkzergWCO"
     },
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "S\u00f3lo T\u00fa (En Vivo)",
-        "url": "https://open.spotify.com/album/4g0TTwd8kOOQEYwGgZiiKg"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 187989,
-      "name": "S\u00f3lo T\u00fa - En Vivo",
-      "url": "https://open.spotify.com/track/4jZHBWgeRYvLEexYEr1qrY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sigan Hablando",
         "url": "https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 218750,
       "name": "Nunca Se Imagin\u00f3",
       "url": "https://open.spotify.com/track/6at5CSe9grrC30rQwdI0bQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "S\u00f3lo T\u00fa (En Vivo)",
+        "url": "https://open.spotify.com/album/4g0TTwd8kOOQEYwGgZiiKg"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 187989,
+      "name": "S\u00f3lo T\u00fa - En Vivo",
+      "url": "https://open.spotify.com/track/4jZHBWgeRYvLEexYEr1qrY"
     },
     {
       "added_at": null,

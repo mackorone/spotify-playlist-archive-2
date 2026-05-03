@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 
 > Jazz voices of today\. Cover: Gabrielle Cavassa
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,673 likes - 100 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,737 likes - 100 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Bossy Nova](https://open.spotify.com/track/6Ol78Z5mqB1bIcNmfqupIn) | [Gabrielle Cavassa](https://open.spotify.com/artist/6V9mKint0pfZjIbeFF9vQk) | [Diavola](https://open.spotify.com/album/4lQriMCxFMyor9TIJlvOxU) | 3:52 |
 | 2 | [Blue Skies](https://open.spotify.com/track/6moPrj1QU3pxe6kVFQrhVY) | [Judith Owen](https://open.spotify.com/artist/7JJBBV4U990CO3PJrn3CIo) | [Suit Yourself](https://open.spotify.com/album/1fDaTWTPUMZx0uTS17w9zd) | 3:21 |
 | 3 | [If I Only Had A Brain](https://open.spotify.com/track/1LE5di076Adc2XD45R90gJ) | [Jeff Goldblum & The Mildred Snitzer Orchestra](https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu), [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [If I Only Had A Brain](https://open.spotify.com/album/6WbJIiI28ywruLL8J6q1AI) | 3:10 |
-| 4 | [Raindrops Keep Falling On My Head](https://open.spotify.com/track/0KA5ATfEnvljL6RS14WRnR) | [Gabrielle Cavassa](https://open.spotify.com/artist/6V9mKint0pfZjIbeFF9vQk) | [Raindrops Keep Falling On My Head](https://open.spotify.com/album/48cJa1wLsIoujpLuKYklXG) | 4:32 |
+| 4 | [Raindrops Keep Falling On My Head](https://open.spotify.com/track/0KA5ATfEnvljL6RS14WRnR) | [Gabrielle Cavassa](https://open.spotify.com/artist/6V9mKint0pfZjIbeFF9vQk), [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S) | [Raindrops Keep Falling On My Head](https://open.spotify.com/album/48cJa1wLsIoujpLuKYklXG) | 4:32 |
 | 5 | [Pour for the Hour](https://open.spotify.com/track/46G8UvNyqy1YKlUxYxltIL) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa) | [Loads of Love](https://open.spotify.com/album/2zgUoijQ2YPsqxXtQwkV4p) | 3:03 |
 | 6 | [A Time For Love](https://open.spotify.com/track/6jHtoIPI83lU0pZg4vPq3c) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [A Time For Love](https://open.spotify.com/album/3I6j3dwMH8rMlsydFzu6cv) | 4:45 |
 | 7 | [From the Bottom of the Ocean](https://open.spotify.com/track/2Z8B4hUUiYzcVqaGQ5ywe9) | [Halie Loren](https://open.spotify.com/artist/1Fcd5av0AI3xn05b3hrQfI) | [From the Bottom of the Ocean](https://open.spotify.com/album/6EVUmvY8TSM6V9IeQlNbqv) | 3:35 |

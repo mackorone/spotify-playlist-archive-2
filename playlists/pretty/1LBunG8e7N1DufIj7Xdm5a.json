@@ -6,7 +6,7 @@
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAIfChqzzw7xsOIY86EikhdwRXHWpsG",
+  "snapshot_id": "AAAIfwGTc5RqyTS7iVi6oOFivSmOb0cE",
   "tracks": [
     {
       "added_at": "2026-04-14 21:44:21",
@@ -71975,6 +71975,66 @@
       "duration_ms": 132425,
       "name": "TENDENCIA",
       "url": "https://open.spotify.com/track/2JLopiOtCfUzma7nCqrW6R"
+    },
+    {
+      "added_at": "2026-05-03 00:26:55",
+      "album": {
+        "name": "Del Odio Al Amor",
+        "url": "https://open.spotify.com/album/39UPCNkZSt9B8AdrvDCQqd"
+      },
+      "artists": [
+        {
+          "name": "Jumpen Daniel",
+          "url": "https://open.spotify.com/artist/1cRpMLp1aO4V7HvOBAJfk0"
+        }
+      ],
+      "duration_ms": 123375,
+      "name": "Del Odio Al Amor",
+      "url": "https://open.spotify.com/track/1kmpfz6ZPnXrPMS8EQetzX"
+    },
+    {
+      "added_at": "2026-05-03 00:30:25",
+      "album": {
+        "name": "Brisa (Remix)",
+        "url": "https://open.spotify.com/album/32bjx01F4ET0z9GnauOI3F"
+      },
+      "artists": [
+        {
+          "name": "Pokenzo",
+          "url": "https://open.spotify.com/artist/2AghPeTSphA59qaxYjaFLR"
+        },
+        {
+          "name": "ZakeoMUSIC",
+          "url": "https://open.spotify.com/artist/0n5KZNNgwFO66Kdq7BfqWr"
+        },
+        {
+          "name": "Peiro",
+          "url": "https://open.spotify.com/artist/0U6CXcvTWoI0KH77dlVHk7"
+        },
+        {
+          "name": "Enzo Calvo-Rayo Coronado",
+          "url": "https://open.spotify.com/artist/6CdfmbYdYFyo5GguHyAaX5"
+        }
+      ],
+      "duration_ms": 123496,
+      "name": "Brisa - Remix",
+      "url": "https://open.spotify.com/track/2PHWTnjqM164aoggvhvR05"
+    },
+    {
+      "added_at": "2026-05-03 00:32:13",
+      "album": {
+        "name": "The Long Way Home",
+        "url": "https://open.spotify.com/album/6XAWHzo671bBsroOWUJsrU"
+      },
+      "artists": [
+        {
+          "name": "Gravel State",
+          "url": "https://open.spotify.com/artist/230J2QSIILiDyJFcnxAsc3"
+        }
+      ],
+      "duration_ms": 189923,
+      "name": "Crash & Burn",
+      "url": "https://open.spotify.com/track/1ZyxzmQoyXmjzfcjQNCwUK"
     }
   ],
   "unique_name": "playlist spotify free",

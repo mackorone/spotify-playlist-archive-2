@@ -1,12 +1,12 @@
 {
   "description": "This is Djonga. The essential tracks, all in one playlist.",
-  "num_followers": 211076,
+  "num_followers": 211080,
   "original_name": "This Is Djonga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afKbgAAAAAA0wWMA1MbwsN88QKhat5Wd",
+  "snapshot_id": "afPtAAAAAADz8hjjFoaBb98aejDnZ+ve",
   "tracks": [
     {
       "added_at": null,
@@ -1267,22 +1267,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hist\u00f3rias da Minha \u00c1rea",
-        "url": "https://open.spotify.com/album/3NjTHK6FovpR3rHceaT5FE"
+        "name": "Fogueira, Vol. 1",
+        "url": "https://open.spotify.com/album/0l1UXlFxLFQWzcQkRMZZrJ"
       },
       "artists": [
+        {
+          "name": "Marcelo Tofani",
+          "url": "https://open.spotify.com/artist/59EQw7iHjbElOkznITe43m"
+        },
         {
           "name": "Djonga",
           "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
         },
         {
-          "name": "Coyote Beatz",
-          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
+          "name": "FBC",
+          "url": "https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS"
+        },
+        {
+          "name": "LISBOA",
+          "url": "https://open.spotify.com/artist/5QsFQx8phlzqvnNkTFCVfP"
         }
       ],
-      "duration_ms": 238026,
-      "name": "Oto Patam\u00e1",
-      "url": "https://open.spotify.com/track/7AMSNqs5ApBmjuUQo8xEsd"
+      "duration_ms": 186934,
+      "name": "Venezuela",
+      "url": "https://open.spotify.com/track/6584aVZwN9S5GiHE1T4Vew"
     }
   ],
   "unique_name": "This Is Djonga",

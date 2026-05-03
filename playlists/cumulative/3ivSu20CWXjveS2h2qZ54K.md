@@ -4,7 +4,7 @@
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-7,844 songs - 18 day 2 hr 56 min
+7,845 songs - 18 day 2 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -7826,6 +7826,7 @@
 | [¿dónde está mi corazón?](https://open.spotify.com/track/2D6IwFnTkLI5vRPfstt2CV) | [Chico Jorge](https://open.spotify.com/artist/5RlSgVslS8qQuHh3a1GQNd) | [uno de esos días](https://open.spotify.com/album/2d6hO77S9wNxo22CPNFQi2) | 2:42 | 2025-10-24 | 2025-11-01 |
 | [¿Era esto la vida?](https://open.spotify.com/track/1vchMkNKya6dWlgCoTwYQG) | [Zahara](https://open.spotify.com/artist/7uLePkJ2f0MwEcphODfkuu) | [Lento Ternura](https://open.spotify.com/album/2IMZvwh6XpUpKhyfYGAo6Q) | 3:17 | 2025-02-21 | 2025-02-28 |
 | [¿POR QUÉ LUCE COMO YO?](https://open.spotify.com/track/3JSjCqfS347t1dLcJExPck) | [Sebastián Cortés](https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9) | [¿POR QUÉ LUCE COMO YO?](https://open.spotify.com/album/2IWsdlUkP1OYKiiKcadVRx) | 2:39 | 2025-01-17 | 2025-01-25 |
+| [¿Por Qué No A Mi?](https://open.spotify.com/track/7lQZcYKsThlAIvWuCIf3HL) | [Diara](https://open.spotify.com/artist/0fppkzuQV4SQqCciw1ofXx), [iseekarlo](https://open.spotify.com/artist/3j4R4YNDy0bqJ2io0ieObP) | [¿Por Qué No A Mi?](https://open.spotify.com/album/5osC6MVcN05LlbrNi5FO3Y) | 2:12 | 2026-05-02 |  |
 | [¿Quién Quiere Más?](https://open.spotify.com/track/0Q5Bikc6bp4mcm9PFcOZNb) | [Karavana](https://open.spotify.com/artist/6SShgjYwZQZ8Nx2wo5IKdd) | [¿Quién Quiere Más?](https://open.spotify.com/album/1qd1k9OAskJCLQ5JShwmwj) | 3:13 | 2024-06-21 | 2024-06-29 |
 | [¿Qué estás haciendo?](https://open.spotify.com/track/3Q8Gf1n8ku4In99QYAojy3) | [Raúl Querido](https://open.spotify.com/artist/52MC5pQbn893zPwfss46Gn) | [¿Qué estás haciendo?](https://open.spotify.com/album/2hkZUnbjf74CSJinpM8nYc) | 2:32 | 2025-10-10 | 2025-10-18 |
 | [¿Qué ha pasado?](https://open.spotify.com/track/1tgNGn3dmVankBzzBkzt18) | [Kora](https://open.spotify.com/artist/3ZxaYY2eYNWxg8v1s2k6JD) | [¿Qué ha pasado?](https://open.spotify.com/album/6IvElxMrJA1bk7uRJfb9cI) | 4:05 | 2024-06-21 | 2024-06-29 |

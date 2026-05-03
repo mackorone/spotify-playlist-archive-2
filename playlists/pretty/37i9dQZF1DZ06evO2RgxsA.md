@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2RgxsA.md) - [plain]
 
 > This is NOFX\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,418 likes - 50 songs - 1 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,422 likes - 50 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2RgxsA.md) - [plain]
 | 49 | [Barcelona](https://open.spotify.com/track/2FNgUR3gCIId7yAQ3wKFCd) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [A to H](https://open.spotify.com/album/5pUkSUz92gUxkgVsI79PmP) | 2:29 |
 | 50 | [13 Stitches](https://open.spotify.com/track/5qzAWlUfddVpRnnsG5P6KF) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [The War on Errorism](https://open.spotify.com/album/37cQZsmKwCUyTozX2HHgnQ) | 1:55 |
 
-Snapshot ID: `afKbgAAAAABr8crKdQqIenvPPZliXZLC`
+Snapshot ID: `afPtAAAAAADYxddUVrKRtjSSYb0tCByk`

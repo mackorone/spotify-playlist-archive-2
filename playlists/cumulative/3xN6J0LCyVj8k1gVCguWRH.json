@@ -1543,6 +1543,32 @@
     },
     {
       "album": {
+        "name": "8AM",
+        "url": "https://open.spotify.com/album/2EBBFu3FA73mDakLZULWYv"
+      },
+      "artists": [
+        {
+          "name": "Orion Franklin",
+          "url": "https://open.spotify.com/artist/3rhhLQRRigNmZwuiVhSSKE"
+        },
+        {
+          "name": "VIXIO",
+          "url": "https://open.spotify.com/artist/6CuMumwzSNmMnw4cfJUQN2"
+        },
+        {
+          "name": "OLION",
+          "url": "https://open.spotify.com/artist/3jPWvDwkmqJXMTKi0gq5oT"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366960,
+      "name": "8AM - DARK PULSE REMIX",
+      "url": "https://open.spotify.com/track/7CEPXdsY4EJEqHHsVG9TJi"
+    },
+    {
+      "album": {
         "name": "90s Sitcom",
         "url": "https://open.spotify.com/album/1YG1RJxZbGFyxbSc60Eyl9"
       },
@@ -4674,7 +4700,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 197443,
       "name": "Almost Purple",
       "url": "https://open.spotify.com/track/4avd562cxetNvC6CmPLPNt"
@@ -10910,7 +10936,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 165351,
       "name": "BHMF (Blondes Have More Fun)",
       "url": "https://open.spotify.com/track/2ZC8zli3RK85zCBce63xrr"
@@ -11940,6 +11966,28 @@
       "duration_ms": 217349,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/4zFY8fE7MuYGdbyMFSTDIx"
+    },
+    {
+      "album": {
+        "name": "Blow My Mind (CA7RIEL & Paco Amoroso Version)",
+        "url": "https://open.spotify.com/album/7pOzBulb4xSuKLGHekguEk"
+      },
+      "artists": [
+        {
+          "name": "Robyn",
+          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
+        },
+        {
+          "name": "CA7RIEL & Paco Amoroso",
+          "url": "https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169383,
+      "name": "Blow My Mind - CA7RIEL & Paco Amoroso Version",
+      "url": "https://open.spotify.com/track/2Fn0xjZZa6ma1WgwyHM69k"
     },
     {
       "album": {
@@ -22574,7 +22622,7 @@
       ],
       "date_added": "2026-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 154679,
       "name": "Damn, I'm Bored",
       "url": "https://open.spotify.com/track/78EJqkyZdCqiYXbI8TSukg"
@@ -29977,6 +30025,24 @@
     },
     {
       "album": {
+        "name": "Error Intencional",
+        "url": "https://open.spotify.com/album/4POLe1JPGzrPHQCWydvH4z"
+      },
+      "artists": [
+        {
+          "name": "Nico Ruiz",
+          "url": "https://open.spotify.com/artist/0PoNc2Vn4Ag4NOySSD666z"
+        }
+      ],
+      "date_added": "2026-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178750,
+      "name": "Error Intencional",
+      "url": "https://open.spotify.com/track/5mNbapq5Pn9RD8T01fIQzq"
+    },
+    {
+      "album": {
         "name": "Space Isn't Such A Bad Place To Die",
         "url": "https://open.spotify.com/album/2ZyhzIOmofcGwEYN9kqPoj"
       },
@@ -30318,6 +30384,24 @@
       "duration_ms": 150000,
       "name": "EVERY OTHER MONTH",
       "url": "https://open.spotify.com/track/26mbAKLY6mmRRajgVrzZ7J"
+    },
+    {
+      "album": {
+        "name": "Deep Parliament",
+        "url": "https://open.spotify.com/album/5zI8zbNAoxyPxN9NK0BWap"
+      },
+      "artists": [
+        {
+          "name": "Deep Parliament",
+          "url": "https://open.spotify.com/artist/7sLc4gfHJ0DP8qFb0DHfrc"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240106,
+      "name": "Every Side",
+      "url": "https://open.spotify.com/track/50N9MCKB3rXxv13WhmXU8n"
     },
     {
       "album": {
@@ -39796,7 +39880,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 232882,
       "name": "Goofy Face",
       "url": "https://open.spotify.com/track/35rwAythOgFEUXudtKCqdI"
@@ -41980,6 +42064,24 @@
       "duration_ms": 182500,
       "name": "Heat",
       "url": "https://open.spotify.com/track/4OiapUuMeahMB05oDt5Sn0"
+    },
+    {
+      "album": {
+        "name": "heathrow",
+        "url": "https://open.spotify.com/album/10S8O6pDsfhxcw0pwKcxNK"
+      },
+      "artists": [
+        {
+          "name": "Zolie",
+          "url": "https://open.spotify.com/artist/4pcletN1p2Xcxi8g5YHHgT"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181562,
+      "name": "heathrow",
+      "url": "https://open.spotify.com/track/7xdOfyLOPbfyNWH6AsznbQ"
     },
     {
       "album": {
@@ -52947,6 +53049,28 @@
     },
     {
       "album": {
+        "name": "Koh Samui (444 LIBERTY FREQUENCIES)",
+        "url": "https://open.spotify.com/album/5eASa8mfZp4GJAxApa8bXq"
+      },
+      "artists": [
+        {
+          "name": "THETONYPORTELLI",
+          "url": "https://open.spotify.com/artist/5baZz13dTSFBFHmNBN220h"
+        },
+        {
+          "name": "DJ444LONDON",
+          "url": "https://open.spotify.com/artist/0KX6tlCjzfWj6fgOh4IEtu"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157719,
+      "name": "Koh Samui - Alternative",
+      "url": "https://open.spotify.com/track/50maIp5jBDfUPzz5f7pbwf"
+    },
+    {
+      "album": {
         "name": "The New Guy",
         "url": "https://open.spotify.com/album/5xmz1dMaTEkMVxCyck0jjw"
       },
@@ -53034,7 +53158,7 @@
       ],
       "date_added": "2026-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 253789,
       "name": "Kryptonite",
       "url": "https://open.spotify.com/track/10sC9BJMm9qaNgJHC7LToP"
@@ -60104,7 +60228,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 198904,
       "name": "Lucky",
       "url": "https://open.spotify.com/track/3evhJARNDm1wgibdfuZr0X"
@@ -60880,7 +61004,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 135561,
       "name": "Make It Happen",
       "url": "https://open.spotify.com/track/1ReVeUIpJ9Ph7dmfFq9VGU"
@@ -88248,6 +88372,24 @@
       "duration_ms": 203750,
       "name": "Soldiers",
       "url": "https://open.spotify.com/track/2TdZHEfYEp0hPHCiXuoyVA"
+    },
+    {
+      "album": {
+        "name": "SOLILOQUY",
+        "url": "https://open.spotify.com/album/69PpA61eCPg8d18N8y1fL8"
+      },
+      "artists": [
+        {
+          "name": "MERCYN",
+          "url": "https://open.spotify.com/artist/6Gq7ay7vlHCNQ5vWdIiOTJ"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185662,
+      "name": "SOLILOQUY",
+      "url": "https://open.spotify.com/track/4oRJhSxFWhlH7mhWj0r1cE"
     },
     {
       "album": {

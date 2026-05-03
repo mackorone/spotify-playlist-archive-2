@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women at full volume\. Cover: bambi
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,040,892 likes - 81 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,040,775 likes - 81 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 80 | [twenties](https://open.spotify.com/track/4fMF95jhCb0ncIBnjmTmxt) | [ANNÉ](https://open.spotify.com/artist/0mI2naVcev6UnXkXKmG4kf) | [twenties](https://open.spotify.com/album/29tt47YoPo8P8AP7GjXTUi) | 2:30 |
 | 81 | [Pudiste huir](https://open.spotify.com/track/0pvUfwqQynaWh9C26baquv) | [Catalina y Las Bordonas de Oro](https://open.spotify.com/artist/0ejFAAwLS7hDXNPksYkhpH) | [De Encuentros y Ausencias](https://open.spotify.com/album/2cTlBbjUPAgU0kYS2OaWS7) | 3:38 |
 
-Snapshot ID: `AAAAAAQmRsLe7H1cSI8jdsdNyB0fCo9s`
+Snapshot ID: `AAAAAKe4fbPatVFFJMQKe6FqKXlBpWle`

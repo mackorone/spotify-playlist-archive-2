@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 
 ### [Hip\-hop Việt](https://open.spotify.com/playlist/37i9dQZF1DWYLMi9ZNZUaz)
 
-> Dòng chảy rap Việt luôn cuồn cuộn\. Ảnh bìa: Đen
+> Dòng chảy rap Việt luôn cuồn cuộn\. Ảnh bìa: HIEUTHUHAI
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,366 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,401 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 | 49 | [Panorama](https://open.spotify.com/track/6gmvd9Lld9MiNR9r6I9eFE) | [Richie D\. ICY](https://open.spotify.com/artist/0FvZX3MHDrlAAnf15FgBkA), [Obito](https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp) | [Panorama](https://open.spotify.com/album/3Qsp8mywrgRP9hZ9cHe0xH) | 3:25 |
 | 50 | [Badtrip](https://open.spotify.com/track/33SYx5viijwLGMqfl50FKI) | [RPT MCK](https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL) | [99%](https://open.spotify.com/album/1vi1WySkgPGkbR8NnQzlXu) | 2:38 |
 
-Snapshot ID: `AAAAAL+/wfZzNa1nCFDHui1Hd4TUbTpU`
+Snapshot ID: `AAAAAJ78iNdsyqljI9U5APCaBQEgnKFO`

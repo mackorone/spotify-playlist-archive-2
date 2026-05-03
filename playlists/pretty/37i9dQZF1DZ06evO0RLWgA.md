@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0RLWgA.md) - [plain]
 
 > This is John Lee Hooker\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,304 likes - 50 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,311 likes - 50 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0RLWgA.md) - [plain]
 | 42 | [Kiddio \- 2007 \- Remaster](https://open.spotify.com/track/1zkvDMv2c4fcCRCTKC634t) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Chill Out](https://open.spotify.com/album/1gHlGo1eKQl5ppd7pdihNy) | 3:11 |
 | 43 | [You Know, I Know](https://open.spotify.com/track/2PoCFAeqx7VDDwljQpxjts) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [The Real Folk Blues](https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY) | 3:53 |
 | 44 | [Big Legs, Tight Skirt](https://open.spotify.com/track/1RjsFNsXnkFETdkLNRpAg0) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Whiskey & Wimmen: John Lee Hooker's Finest](https://open.spotify.com/album/2IREyf1bkFTWuZMCayQ5V7) | 2:17 |
-| 45 | [Coming To Town \- The Hot Spot/Soundtrack Version](https://open.spotify.com/track/7tH9PzY1d4aWrceT0OZhzb) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Hot Spot \(Soundtrack\)](https://open.spotify.com/album/3Td8XNwieYqSWDGNoki3CX) | 3:08 |
-| 46 | [Cuttin' Out \- feat\. Canned Heat](https://open.spotify.com/track/3wD8QPYFxygFaPHTb21xmr) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x), [Canned Heat](https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU) | [The Healer](https://open.spotify.com/album/7dX5RVwG4Bdw13xrCuIFbk) | 4:37 |
+| 45 | [Cuttin' Out \- feat\. Canned Heat](https://open.spotify.com/track/3wD8QPYFxygFaPHTb21xmr) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x), [Canned Heat](https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU) | [The Healer](https://open.spotify.com/album/7dX5RVwG4Bdw13xrCuIFbk) | 4:37 |
+| 46 | [Coming To Town \- The Hot Spot/Soundtrack Version](https://open.spotify.com/track/7tH9PzY1d4aWrceT0OZhzb) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Hot Spot \(Soundtrack\)](https://open.spotify.com/album/3Td8XNwieYqSWDGNoki3CX) | 3:08 |
 | 47 | [Tupelo \- 2007 \- Remaster](https://open.spotify.com/track/0F4R78rWhmodVOy4H2azVB) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Chill Out](https://open.spotify.com/album/1gHlGo1eKQl5ppd7pdihNy) | 3:58 |
 | 48 | [No More Doggin'](https://open.spotify.com/track/1zLunDGKySWa7Gwsif5Ckc) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [That's My Story](https://open.spotify.com/album/7IudsICOiqekfeig8EZ5PE) | 2:44 |
 | 49 | [No Shoes](https://open.spotify.com/track/5hKvkvpH0vd3NyuCuTbZf1) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Travelin'](https://open.spotify.com/album/3a9R9D77P7YMCG24vpsulQ) | 2:25 |
 | 50 | [The Wanderings of The Avener \- Continuous Mix](https://open.spotify.com/track/5FH2dK89RFAs293DDuV31z) | [The Avener](https://open.spotify.com/artist/0e6qzpphJHtObTSwD75mi0), [Kadebostany](https://open.spotify.com/artist/3IVrpJxHeUFoYP4H6bxg57), [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x), [The Be Good Tanyas](https://open.spotify.com/artist/37PywjKNsxHji5F9eFODF2), [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm), [Mazzy Star](https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W), [Adam Cohen](https://open.spotify.com/artist/1sKo8LpXbhcTHtd9moNCMk), [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [The Wanderings Of The Avener](https://open.spotify.com/album/6dUvmAyjqJv11TAWNoxsBP) | 54:10 |
 
-Snapshot ID: `afKbgAAAAAAJ9HGt86UovbdzTZXtYT5t`
+Snapshot ID: `afPtAAAAAAAJDpZ5rmCdB13USmQUGwi5`

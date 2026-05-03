@@ -4,7 +4,7 @@
 
 > This is Alexis Ffrench\. The essential tracks, all in one playlist.
 
-92 songs - 4 hr 31 min
+93 songs - 4 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Across the Ocean](https://open.spotify.com/track/4iw9MPEmiVIxfnySIB0Ua6) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Grace](https://open.spotify.com/album/5FZSyaYxEBdFETvg5i9BAH) | 3:21 | 2025-09-09 |  |
 | [Ain't No Sunshine](https://open.spotify.com/track/4sU45HF4D5m8Sal64CxTFo) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj), [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Classical Soul Vol\. 1](https://open.spotify.com/album/1o2N59k58i7YOG6qdR7Qv9) | 0:54 | 2024-10-07 | 2024-10-13 |
 | [Awakening](https://open.spotify.com/track/6otr6vDkjx0vlEEJzbmjsa) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [The Piano Whisperer](https://open.spotify.com/album/6YY3fbUoQYSacQglLohdQU) | 2:09 | 2024-10-02 | 2025-09-16 |
+| [Blackbird Rising](https://open.spotify.com/track/0G8jjCezXWuDCLx4fXzBxN) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Blackbird Rising & Blackbird Returns](https://open.spotify.com/album/33uiWiMlb1R43RQXCg6NLp) | 2:24 | 2026-05-03 |  |
 | [Bluebird](https://open.spotify.com/track/1dWxSS2a93X4XVfs1mSYkB) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Evolution](https://open.spotify.com/album/4N4dU9titX6FRpkHnjvAct) | 3:24 | 2024-10-02 |  |
 | [Calmer Shores](https://open.spotify.com/track/2zI2ZijxaGuYvSXQk9RMN0) | [The Gagliano Strings](https://open.spotify.com/artist/4LJwh9ZsgqIiJcv57e6bUO), [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Stolen Lullabies](https://open.spotify.com/album/60I6ryl6K8EqSFnwQeLqWY) | 1:44 | 2024-10-02 | 2025-02-05 |
 | [Canyons](https://open.spotify.com/track/0g5CquaRz1JQZCBEesB8cw) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Truth](https://open.spotify.com/album/3vkgKLIXijInCpJGgeRsaY) | 3:52 | 2024-10-02 | 2025-04-19 |
@@ -31,7 +32,7 @@
 | [Dreamland \- Solo Piano Version](https://open.spotify.com/track/6IWbqyzwXOcZfL2OCxvfph) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [The Solo Piano Collection](https://open.spotify.com/album/3xrOGtm0QQAX4VsWWKOgGK) | 2:41 | 2025-04-14 |  |
 | [Enigma Variations: Nimrod](https://open.spotify.com/track/3JDmYGjn9lsHQqCB7o3xAg) | [Edward Elgar](https://open.spotify.com/artist/430byzy0c5bPn5opiu0SRd), [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Enigma Variations: Nimrod](https://open.spotify.com/album/24h9w2380vUXNpbzDdi7LK) | 1:36 | 2024-10-02 | 2025-02-04 |
 | [Evermore](https://open.spotify.com/track/15AZSOh1vE8gmwdhLrfaQM) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Truth](https://open.spotify.com/album/3vkgKLIXijInCpJGgeRsaY) | 2:50 | 2024-10-02 |  |
-| [Everything Changes \(Solo Piano Version\)](https://open.spotify.com/track/0P3yEaLcNqDU4tnVgkrnq5) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Classical Soul Vol\. 1 \- The Solo Piano Collection](https://open.spotify.com/album/44CqQSIcCEc9wG8eeZnD4F) | 3:06 | 2025-04-12 |  |
+| [Everything Changes \(Solo Piano Version\)](https://open.spotify.com/track/0P3yEaLcNqDU4tnVgkrnq5) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Classical Soul Vol\. 1 \- The Solo Piano Collection](https://open.spotify.com/album/44CqQSIcCEc9wG8eeZnD4F) | 3:06 | 2025-04-12 | 2026-05-03 |
 | [Everything Changes \(Solo Piano Version\)](https://open.spotify.com/track/2c1MoYahV1BlIrti0ZfFvi) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Everything Changes \(Solo Piano Version\) & Everything Changes..\. But All Remains](https://open.spotify.com/album/13zNUY6qGtrRQPEUDCv4ix) | 3:06 | 2025-02-05 | 2025-04-12 |
 | [Everything Changes..\. But All Remains](https://open.spotify.com/track/0l4EXKxTWO1DvP5wnGt14m) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Everything Changes \(Solo Piano Version\) & Everything Changes..\. But All Remains](https://open.spotify.com/album/13zNUY6qGtrRQPEUDCv4ix) | 3:03 | 2025-01-27 | 2025-04-15 |
 | [Everything Changes..\. But All Remains](https://open.spotify.com/track/4Q9WBCvE220pSZ0JIxnOv2) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Classical Soul Vol\. 1 \- The Solo Piano Collection](https://open.spotify.com/album/44CqQSIcCEc9wG8eeZnD4F) | 3:03 | 2025-04-19 | 2025-12-11 |

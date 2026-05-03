@@ -1,12 +1,12 @@
 {
   "description": "This is All Time Low. The essential tracks, all in one playlist.",
-  "num_followers": 178245,
+  "num_followers": 178251,
   "original_name": "This Is All Time Low",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afKbgAAAAAC/ls++c/3lxjEeid1/OCwi",
+  "snapshot_id": "afPtAAAAAADaPBi/bOLyl21RyYddVXee",
   "tracks": [
     {
       "added_at": null,
@@ -219,6 +219,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tell Me I'm Alive",
+        "url": "https://open.spotify.com/album/0gPGmJSxuqrpvXiWdOLcRh"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 159066,
+      "name": "The Sound of Letting Go",
+      "url": "https://open.spotify.com/track/5ogBIlFs1oBHuBxOeTmnoH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fake As Hell (with Avril Lavigne)",
         "url": "https://open.spotify.com/album/39fNnKFUvJIyEyItTOoc9Z"
       },
@@ -235,22 +251,6 @@
       "duration_ms": 179166,
       "name": "Fake As Hell (with Avril Lavigne)",
       "url": "https://open.spotify.com/track/7bbhu051CI6krV0M6lv7tl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tell Me I'm Alive",
-        "url": "https://open.spotify.com/album/0gPGmJSxuqrpvXiWdOLcRh"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 159066,
-      "name": "The Sound of Letting Go",
-      "url": "https://open.spotify.com/track/5ogBIlFs1oBHuBxOeTmnoH"
     },
     {
       "added_at": null,
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
         }
       ],
-      "duration_ms": 206306,
-      "name": "Dark Side of Your Room",
-      "url": "https://open.spotify.com/track/0ergYUxazsLy0qWK3h0YJd"
+      "duration_ms": 224946,
+      "name": "Good Times",
+      "url": "https://open.spotify.com/track/3aAoy02NwrmZcqXYYjqNh2"
     },
     {
       "added_at": null,
@@ -712,9 +712,9 @@
           "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
         }
       ],
-      "duration_ms": 224946,
-      "name": "Good Times",
-      "url": "https://open.spotify.com/track/3aAoy02NwrmZcqXYYjqNh2"
+      "duration_ms": 206306,
+      "name": "Dark Side of Your Room",
+      "url": "https://open.spotify.com/track/0ergYUxazsLy0qWK3h0YJd"
     },
     {
       "added_at": null,

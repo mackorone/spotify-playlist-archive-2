@@ -1025,6 +1025,32 @@
     },
     {
       "album": {
+        "name": "Hurricane",
+        "url": "https://open.spotify.com/album/3IZXTxZVI1HVALJTtxK91c"
+      },
+      "artists": [
+        {
+          "name": "Seven Lions",
+          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
+        },
+        {
+          "name": "Andrew Bayer",
+          "url": "https://open.spotify.com/artist/5dFuu05x8SPBuymudrTBU8"
+        },
+        {
+          "name": "Oaks",
+          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208467,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/2dP8286DHZ8UpZpTxl750e"
+    },
+    {
+      "album": {
         "name": "I Don't Think I Love You Anymore",
         "url": "https://open.spotify.com/album/05AOf7DlzBSXcuNlJUXI0A"
       },

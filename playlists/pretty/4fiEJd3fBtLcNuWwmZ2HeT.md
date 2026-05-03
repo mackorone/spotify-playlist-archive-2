@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 
 > Lmao \-.\-
 
-[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 477 songs - 1 day 3 hr 24 min
+[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 478 songs - 1 day 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -485,5 +485,6 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 | 475 | [Shaded Cream](https://open.spotify.com/track/1fpjGTg8RUJOCsgckomeYm) | [Cham](https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK) | [Exit Tunes Presents Supernova 8](https://open.spotify.com/album/3xpShqDPXoIalJ0ULfcssW) | 3:54 |
 | 476 | [Coppelia](https://open.spotify.com/track/70SMFYMWEIEUXa7mP3EDAD) | [Kaya](https://open.spotify.com/artist/2QIdg099yylM16gsKCTrsg) | [Nocturne](https://open.spotify.com/album/3qnEQEn785VdJmtJcWA1Iw) | 4:18 |
 | 477 | [======](https://open.spotify.com/track/3D3UfAdlk4efXuvaOO9xDl) | [x0o0x\_](https://open.spotify.com/artist/2QLccJ5Jtn9Cj5xcfB9ufz) | [======](https://open.spotify.com/album/4i6zsLsQQnXik2tNlM9yis) | 2:15 |
+| 478 | [行列のできるえーりん診療所](https://open.spotify.com/track/48MDfmg92Za0nfWRLP8GCH) | [IOSYS](https://open.spotify.com/artist/7lw3txgTpihF2On2QVtldq) | [東方真華神祭](https://open.spotify.com/album/4AP6lMjgYrZ1TL0O29Rgxm) | 3:27 |
 
-Snapshot ID: `AAAKJcvltIZe6MpfWkmEBgTX0DQCoeuw`
+Snapshot ID: `AAAKJjjC1wECDrOsLTv3dKfj44ChktJ8`

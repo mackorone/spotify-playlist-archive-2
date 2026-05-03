@@ -7596,7 +7596,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 181424,
       "name": "Ay Ay Ay",
       "url": "https://open.spotify.com/track/5XI7KiPx9gsgG0QkWlwUfz"
@@ -14670,7 +14670,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 199080,
       "name": "Bottom Of Your Boots",
       "url": "https://open.spotify.com/track/0hv6276QhpMDnVJIMxEWPH"
@@ -29364,7 +29364,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 248902,
       "name": "EVERYTHING HALLELUJAH",
       "url": "https://open.spotify.com/track/5AwNJ5mr7mHyIhlKnQICEJ"
@@ -41910,7 +41910,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-30",
+      "date_removed": null,
       "duration_ms": 294260,
       "name": "Impostor Syndrome",
       "url": "https://open.spotify.com/track/33KU9huHP1Lv1UWWVkuTYd"
@@ -50508,6 +50508,24 @@
       "duration_ms": 189897,
       "name": "Lihat Kebunku (Taman Bunga)",
       "url": "https://open.spotify.com/track/5dvIK269hL3eZXQMG4Vc2C"
+    },
+    {
+      "album": {
+        "name": "Like a Prayer",
+        "url": "https://open.spotify.com/album/5idIpPylcHvSsVNoK6wMx5"
+      },
+      "artists": [
+        {
+          "name": "Josh Fawaz",
+          "url": "https://open.spotify.com/artist/4zyGcdTfhshxrcEY25jBOe"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130615,
+      "name": "Like a Prayer",
+      "url": "https://open.spotify.com/track/5eh2pLJmBVjgtUzKl7Ambt"
     },
     {
       "album": {
@@ -75693,6 +75711,28 @@
     },
     {
       "album": {
+        "name": "The Devil Wears Prada 2 (Music From The Motion Picture)",
+        "url": "https://open.spotify.com/album/5FKnRUB5lt7z5ac1lmu3BE"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171010,
+      "name": "RUNWAY",
+      "url": "https://open.spotify.com/track/5jZHUZY0vQsH6A5gqFveJf"
+    },
+    {
+      "album": {
         "name": "RUNWAY",
         "url": "https://open.spotify.com/album/0WY1wVmchFYlH4f1yZMc90"
       },
@@ -75708,7 +75748,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 171010,
       "name": "RUNWAY",
       "url": "https://open.spotify.com/track/7BjcYqD0CqXnG45ezWSTYR"
@@ -76562,6 +76602,24 @@
       "duration_ms": 193294,
       "name": "SAME SH!T",
       "url": "https://open.spotify.com/track/0EOc1cP1zMmF9kR0w3AM5f"
+    },
+    {
+      "album": {
+        "name": "IT'S BEEN AWFUL",
+        "url": "https://open.spotify.com/album/2ZDgH9uDdjRFNdjEyQCZtH"
+      },
+      "artists": [
+        {
+          "name": "Isaiah Rashad",
+          "url": "https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193294,
+      "name": "SAME SH!T",
+      "url": "https://open.spotify.com/track/6gbcv097aD6bzPeUo2BLhl"
     },
     {
       "album": {

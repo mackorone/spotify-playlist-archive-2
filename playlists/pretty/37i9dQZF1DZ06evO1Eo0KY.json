@@ -1,41 +1,13 @@
 {
   "description": "This is Nicholas Craven. The essential tracks, all in one playlist.",
-  "num_followers": 732,
+  "num_followers": 733,
   "original_name": "This Is Nicholas Craven",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afKbgAAAAADuSGRRydHBA1z0DftgFC0N",
+  "snapshot_id": "afPtAAAAAAB/t0UzHOL6Ykyta3FfKZmi",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Play With Something Safe",
-        "url": "https://open.spotify.com/album/21sLBUppAR2KfbMxuXf9uP"
-      },
-      "artists": [
-        {
-          "name": "Rosco P Coldchain",
-          "url": "https://open.spotify.com/artist/3YBBdrVEWJrj4XONK0UtP2"
-        },
-        {
-          "name": "Nicholas Craven",
-          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
-        },
-        {
-          "name": "Ab Liva",
-          "url": "https://open.spotify.com/artist/53WOQvBO23MHgjpnpjYVTi"
-        },
-        {
-          "name": "Jimmie D",
-          "url": "https://open.spotify.com/artist/1grzkPdyoi7RbrBTMIIxRU"
-        }
-      ],
-      "duration_ms": 248076,
-      "name": "Play With Something Safe",
-      "url": "https://open.spotify.com/track/6Ox5IaQwzZoLDoni9bnIsk"
-    },
     {
       "added_at": null,
       "album": {
@@ -380,9 +352,9 @@
           "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
         }
       ],
-      "duration_ms": 154630,
-      "name": "The Future",
-      "url": "https://open.spotify.com/track/4e2ECJQ0whmLMWwSx17aqf"
+      "duration_ms": 177529,
+      "name": "Hold My Hand",
+      "url": "https://open.spotify.com/track/1KpfZNMcxC8KneoVtdn9NQ"
     },
     {
       "added_at": null,
@@ -472,9 +444,9 @@
           "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
         }
       ],
-      "duration_ms": 177529,
-      "name": "Hold My Hand",
-      "url": "https://open.spotify.com/track/1KpfZNMcxC8KneoVtdn9NQ"
+      "duration_ms": 154630,
+      "name": "The Future",
+      "url": "https://open.spotify.com/track/4e2ECJQ0whmLMWwSx17aqf"
     },
     {
       "added_at": null,
@@ -647,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Benz Sprinter",
-        "url": "https://open.spotify.com/album/4vrBzj6AfSOr1UMbIFaQC2"
+        "name": "Play With Something Safe",
+        "url": "https://open.spotify.com/album/78Cct5R4fo9aGCRdxAuTTP"
       },
       "artists": [
         {
@@ -660,9 +632,9 @@
           "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
         }
       ],
-      "duration_ms": 230400,
-      "name": "Benz Sprinter",
-      "url": "https://open.spotify.com/track/2W895fd7vPwONL0wVZC31b"
+      "duration_ms": 110503,
+      "name": "Frankenstein",
+      "url": "https://open.spotify.com/track/359XMgRBJRj80kpke5Kex1"
     },
     {
       "added_at": null,
@@ -707,8 +679,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Play With Something Safe",
-        "url": "https://open.spotify.com/album/78Cct5R4fo9aGCRdxAuTTP"
+        "name": "Benz Sprinter",
+        "url": "https://open.spotify.com/album/4vrBzj6AfSOr1UMbIFaQC2"
       },
       "artists": [
         {
@@ -720,9 +692,9 @@
           "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
         }
       ],
-      "duration_ms": 110503,
-      "name": "Frankenstein",
-      "url": "https://open.spotify.com/track/359XMgRBJRj80kpke5Kex1"
+      "duration_ms": 230400,
+      "name": "Benz Sprinter",
+      "url": "https://open.spotify.com/track/2W895fd7vPwONL0wVZC31b"
     },
     {
       "added_at": null,
@@ -787,26 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deleted Scenes",
-        "url": "https://open.spotify.com/album/0bSumc88UItdZGGWQwf3f5"
-      },
-      "artists": [
-        {
-          "name": "Ransom",
-          "url": "https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4"
-        },
-        {
-          "name": "Nicholas Craven",
-          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
-        }
-      ],
-      "duration_ms": 184910,
-      "name": "Eyes Wide Shut",
-      "url": "https://open.spotify.com/track/7AkHHkRNWLc9Ytz60MH8lW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Play With Something Safe",
         "url": "https://open.spotify.com/album/78Cct5R4fo9aGCRdxAuTTP"
       },
@@ -827,6 +779,26 @@
       "duration_ms": 210410,
       "name": "Refined",
       "url": "https://open.spotify.com/track/35INh4KWxPjb8RcqkaBbN4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Deleted Scenes",
+        "url": "https://open.spotify.com/album/0bSumc88UItdZGGWQwf3f5"
+      },
+      "artists": [
+        {
+          "name": "Ransom",
+          "url": "https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4"
+        },
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        }
+      ],
+      "duration_ms": 184910,
+      "name": "Eyes Wide Shut",
+      "url": "https://open.spotify.com/track/7AkHHkRNWLc9Ytz60MH8lW"
     },
     {
       "added_at": null,
@@ -895,6 +867,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Play With Something Safe",
+        "url": "https://open.spotify.com/album/78Cct5R4fo9aGCRdxAuTTP"
+      },
+      "artists": [
+        {
+          "name": "Rosco P Coldchain",
+          "url": "https://open.spotify.com/artist/3YBBdrVEWJrj4XONK0UtP2"
+        },
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "Boogie Nights",
+      "url": "https://open.spotify.com/track/259eU6z0Rp00PvTMRcvau8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Craven N 3",
         "url": "https://open.spotify.com/album/5wAlUyWNsX3qZo5Q58soad"
       },
@@ -935,26 +927,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Play With Something Safe",
-        "url": "https://open.spotify.com/album/78Cct5R4fo9aGCRdxAuTTP"
-      },
-      "artists": [
-        {
-          "name": "Rosco P Coldchain",
-          "url": "https://open.spotify.com/artist/3YBBdrVEWJrj4XONK0UtP2"
-        },
-        {
-          "name": "Nicholas Craven",
-          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "Boogie Nights",
-      "url": "https://open.spotify.com/track/259eU6z0Rp00PvTMRcvau8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Late to My Own Funeral",
         "url": "https://open.spotify.com/album/2oDcX1gb5edT6qXISrRw8W"
       },
@@ -971,6 +943,26 @@
       "duration_ms": 167441,
       "name": "Antonio Tuttle",
       "url": "https://open.spotify.com/track/0IEP5dQOX5Km8IG626FG9Q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Craven N",
+        "url": "https://open.spotify.com/album/3MehQLIwSof0ZxgSJUyCRP"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        },
+        {
+          "name": "Roc Marciano",
+          "url": "https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri"
+        }
+      ],
+      "duration_ms": 135384,
+      "name": "Wolfing Down",
+      "url": "https://open.spotify.com/track/114lH2FW6ptiIv3MPwvRV3"
     },
     {
       "added_at": null,
@@ -995,26 +987,6 @@
       "duration_ms": 128291,
       "name": "Unreal",
       "url": "https://open.spotify.com/track/3CeVm8Lr9sb9o4FhJGlyMl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Craven N",
-        "url": "https://open.spotify.com/album/3MehQLIwSof0ZxgSJUyCRP"
-      },
-      "artists": [
-        {
-          "name": "Nicholas Craven",
-          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
-        },
-        {
-          "name": "Roc Marciano",
-          "url": "https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri"
-        }
-      ],
-      "duration_ms": 135384,
-      "name": "Wolfing Down",
-      "url": "https://open.spotify.com/track/114lH2FW6ptiIv3MPwvRV3"
     },
     {
       "added_at": null,
@@ -1079,6 +1051,26 @@
       "duration_ms": 129817,
       "name": "Tha Way",
       "url": "https://open.spotify.com/track/0DB6nFy3xEYw0V8x49hSMl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Craven N 3",
+        "url": "https://open.spotify.com/album/5wAlUyWNsX3qZo5Q58soad"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        },
+        {
+          "name": "Stove God Cooks",
+          "url": "https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv"
+        }
+      ],
+      "duration_ms": 222040,
+      "name": "Opulence",
+      "url": "https://open.spotify.com/track/0CQpw44VyarpOO0YPZm37A"
     }
   ],
   "unique_name": "This Is Nicholas Craven",

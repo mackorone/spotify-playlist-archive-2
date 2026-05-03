@@ -28,7 +28,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 267786,
       "name": "1,2,3 - Bonus Track",
       "url": "https://open.spotify.com/track/6xw5bzfHMyklTP3KpfcnFY"
@@ -1972,7 +1972,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-29",
+      "date_removed": null,
       "duration_ms": 301239,
       "name": "IMMORTALIZED",
       "url": "https://open.spotify.com/track/5IKnQVhGUxRnviKa8pk37T"
@@ -2719,6 +2719,28 @@
     },
     {
       "album": {
+        "name": "For My People",
+        "url": "https://open.spotify.com/album/6V2GgBaQXQyMW4tXqleWhX"
+      },
+      "artists": [
+        {
+          "name": "Young Noble",
+          "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
+        },
+        {
+          "name": "Deuce Deuce",
+          "url": "https://open.spotify.com/artist/076I9mh0LL6igSU0alHNzF"
+        }
+      ],
+      "date_added": "2026-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162244,
+      "name": "One Night",
+      "url": "https://open.spotify.com/track/37kjOyxnHzMA6x78wSuREt"
+    },
+    {
+      "album": {
         "name": "3rd Eye View",
         "url": "https://open.spotify.com/album/6hiTcXU77SCZCmuCaPTZRX"
       },
@@ -2822,7 +2844,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-27",
+      "date_removed": null,
       "duration_ms": 204988,
       "name": "Outlaw University",
       "url": "https://open.spotify.com/track/74qKboZPYJIhsBSOpHgErF"
@@ -3316,7 +3338,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 221335,
       "name": "Reason to Shine (feat. Kastro)",
       "url": "https://open.spotify.com/track/43S8K37dRVWUdlqCpWtCwS"
@@ -3494,6 +3516,28 @@
       "duration_ms": 337386,
       "name": "Rubberband Stacks (feat. Cozmo, Yukmouth & Young Noble)",
       "url": "https://open.spotify.com/track/6PhgQvzag3XMNouxHo5In0"
+    },
+    {
+      "album": {
+        "name": "3rd Eye View",
+        "url": "https://open.spotify.com/album/6hiTcXU77SCZCmuCaPTZRX"
+      },
+      "artists": [
+        {
+          "name": "Young Noble",
+          "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
+        },
+        {
+          "name": "Trigga Trife",
+          "url": "https://open.spotify.com/artist/5tiLSueF0cqvm2tR0HaUAj"
+        }
+      ],
+      "date_added": "2026-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179557,
+      "name": "Serenity (feat. Trigga Trife)",
+      "url": "https://open.spotify.com/track/3zbDu0WIZo1OkSDEBZ5ZWk"
     },
     {
       "album": {
@@ -3812,7 +3856,7 @@
       ],
       "date_added": "2025-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 236195,
       "name": "Talkin My Talk",
       "url": "https://open.spotify.com/track/6Xl4jUCOQ7aFvarkHMsgou"
@@ -4036,7 +4080,7 @@
       ],
       "date_added": "2026-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 257929,
       "name": "The Year Of The Underdogz (feat. Crooked I)",
       "url": "https://open.spotify.com/track/0l3Y3zpdnUFlGPRE7ZefLJ"
@@ -4176,7 +4220,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 174602,
       "name": "Trauma",
       "url": "https://open.spotify.com/track/4IV4gSHLrVzTsMUaatmYZg"
@@ -4198,7 +4242,7 @@
       ],
       "date_added": "2025-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-13",
+      "date_removed": null,
       "duration_ms": 174545,
       "name": "Trauma (feat. Deuce Deuce)",
       "url": "https://open.spotify.com/track/7twDBKyp3LT7pZI1b6RFNM"

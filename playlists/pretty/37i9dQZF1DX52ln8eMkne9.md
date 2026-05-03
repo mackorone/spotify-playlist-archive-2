@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52ln8eMkne9.md) - [plain]
 
 > Soft and cozy vocal and instrumental Jazz\. Cover: Laufey
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,557 likes - 150 songs - 11 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,581 likes - 150 songs - 11 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52ln8eMkne9.md) - [plain]
 | 70 | [Misty](https://open.spotify.com/track/5qauSfvYgvZK1rRb0jKmo9) | [Dianne Reeves](https://open.spotify.com/artist/7nwrblOf59ulOiB6djwPVh) | [The Best Of Dianne Reeves](https://open.spotify.com/album/7CSRH0IYxm0dZNpfwkNKGz) | 5:56 |
 | 71 | [If You Go Away](https://open.spotify.com/track/1YhQ0oi3ay18dgcGdgDebT) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [If You Go Away / Ne me quitte pas](https://open.spotify.com/album/7KqMq5aJBqj7FIAybwlZEx) | 4:55 |
 | 72 | [Let's Try This Again](https://open.spotify.com/track/5zgT7IAtYZ0wOMojcdYgNf) | [Sara Gazarek](https://open.spotify.com/artist/7JAxSqDybAiZCDoqJ1R1fc) | [Return To You](https://open.spotify.com/album/5muVIXk6kRkRbGTCRWz1uj) | 3:42 |
-| 73 | [Raindrops Keep Falling On My Head](https://open.spotify.com/track/0KA5ATfEnvljL6RS14WRnR) | [Gabrielle Cavassa](https://open.spotify.com/artist/6V9mKint0pfZjIbeFF9vQk) | [Raindrops Keep Falling On My Head](https://open.spotify.com/album/48cJa1wLsIoujpLuKYklXG) | 4:32 |
+| 73 | [Raindrops Keep Falling On My Head](https://open.spotify.com/track/0KA5ATfEnvljL6RS14WRnR) | [Gabrielle Cavassa](https://open.spotify.com/artist/6V9mKint0pfZjIbeFF9vQk), [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S) | [Raindrops Keep Falling On My Head](https://open.spotify.com/album/48cJa1wLsIoujpLuKYklXG) | 4:32 |
 | 74 | [Dis, quand reviendras\-tu ?](https://open.spotify.com/track/0jMD8lrNmuSPBE4hYFIjS7) | [Flore Benguigui & The Sensible Notes](https://open.spotify.com/artist/0fPRM8MswpB7AksdDiE8g6) | [More Understanding Than A Man / Dis, quand reviendras\-tu ?](https://open.spotify.com/album/4LiyJkRKcsoEvQjZ0cT70T) | 6:16 |
 | 75 | [Dedicated to You](https://open.spotify.com/track/7jViEpEn0BrHdqqlPtZcxr) | [John Coltrane & Johnny Hartman](https://open.spotify.com/artist/5k3CkxpaPwsFdjlW6A4LOS) | [John Coltrane and Johnny Hartman](https://open.spotify.com/album/6Yx0HNpoOnhtSvyuBnytZf) | 5:31 |
 | 76 | [The Good Life](https://open.spotify.com/track/1vP1wALSlgUUhaSfQnF9bZ) | [Billy Eckstine](https://open.spotify.com/artist/6htazaFMy8zs0f3sMtM2Pt) | [Now Singing in 12 Great Movies](https://open.spotify.com/album/5gz5OmrydeUG4ie6nj5Tmm) | 3:36 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Valerie June. The essential tracks, all in one playlist.",
-  "num_followers": 16730,
+  "num_followers": 16734,
   "original_name": "This Is Valerie June",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afKbgAAAAADjDW4f5FJN9vx7cf0gfspa",
+  "snapshot_id": "afPtAAAAAABgGfS2Cotd3t+Vt6A1IBF8",
   "tracks": [
     {
       "added_at": null,
@@ -578,15 +578,11 @@
         {
           "name": "Valerie June",
           "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        },
-        {
-          "name": "The Blind Boys Of Alabama",
-          "url": "https://open.spotify.com/artist/5TVL4FXEntBYZb3ujyt6fH"
         }
       ],
-      "duration_ms": 125613,
-      "name": "Changed (Feat. The Blind Boys Of Alabama)",
-      "url": "https://open.spotify.com/track/6YVZvK9SVUQSJg3RB2Cjkf"
+      "duration_ms": 163760,
+      "name": "All I Really Wanna Do",
+      "url": "https://open.spotify.com/track/6zwaAZzlDrap10CYFQQIsq"
     },
     {
       "added_at": null,
@@ -623,38 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rollin' and Tumblin'",
-        "url": "https://open.spotify.com/album/0fnEQYKGxiZ8MeQdyQNpQ1"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 208110,
-      "name": "Rollin\u2019 and Tumblin\u2019",
-      "url": "https://open.spotify.com/track/6Gf3O9dcDuPUtMm6arXiCr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Owls, Omens, and Oracles",
-        "url": "https://open.spotify.com/album/5K6SF5pgdnfHRnuC4gaC0Q"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 163760,
-      "name": "All I Really Wanna Do",
-      "url": "https://open.spotify.com/track/6zwaAZzlDrap10CYFQQIsq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "High Note [Feat. Stax Music Academy]",
         "url": "https://open.spotify.com/album/4vB0ksPKPmBGnv4FTn227w"
       },
@@ -675,22 +639,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "JPEG RAW",
-        "url": "https://open.spotify.com/album/09XurHGqbBgvj7SH96UbPV"
+        "name": "Owls, Omens, and Oracles",
+        "url": "https://open.spotify.com/album/5K6SF5pgdnfHRnuC4gaC0Q"
       },
       "artists": [
         {
-          "name": "Gary Clark Jr.",
-          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
         },
+        {
+          "name": "The Blind Boys Of Alabama",
+          "url": "https://open.spotify.com/artist/5TVL4FXEntBYZb3ujyt6fH"
+        }
+      ],
+      "duration_ms": 125613,
+      "name": "Changed (Feat. The Blind Boys Of Alabama)",
+      "url": "https://open.spotify.com/track/6YVZvK9SVUQSJg3RB2Cjkf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rollin' and Tumblin'",
+        "url": "https://open.spotify.com/album/0fnEQYKGxiZ8MeQdyQNpQ1"
+      },
+      "artists": [
         {
           "name": "Valerie June",
           "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
         }
       ],
-      "duration_ms": 183634,
-      "name": "Don't Start (feat. Valerie June)",
-      "url": "https://open.spotify.com/track/1NAyk3RK82m5M1IKki0caf"
+      "duration_ms": 208110,
+      "name": "Rollin\u2019 and Tumblin\u2019",
+      "url": "https://open.spotify.com/track/6Gf3O9dcDuPUtMm6arXiCr"
     },
     {
       "added_at": null,
@@ -711,6 +691,26 @@
       "duration_ms": 248440,
       "name": "I Can't Stand the Rain",
       "url": "https://open.spotify.com/track/2ueEb5EeFRF2vINyQ5bP9x"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "JPEG RAW",
+        "url": "https://open.spotify.com/album/09XurHGqbBgvj7SH96UbPV"
+      },
+      "artists": [
+        {
+          "name": "Gary Clark Jr.",
+          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
+        },
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 183634,
+      "name": "Don't Start (feat. Valerie June)",
+      "url": "https://open.spotify.com/track/1NAyk3RK82m5M1IKki0caf"
     },
     {
       "added_at": null,
@@ -775,30 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Up and Rolling (feat. Son Little and Valerie June)",
-        "url": "https://open.spotify.com/album/7lhmScuKFqX2uzvuBkXYOk"
-      },
-      "artists": [
-        {
-          "name": "North Mississippi Allstars",
-          "url": "https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY"
-        },
-        {
-          "name": "Son Little",
-          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
-        },
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 201921,
-      "name": "Up and Rolling (feat. Son Little and Valerie June)",
-      "url": "https://open.spotify.com/track/2Z76Gvp5iZcEkszy10LNQp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Friendship [Feat. Carla Thomas and Stax Music Academy]",
         "url": "https://open.spotify.com/album/5OcQ95byjeN44N1DAp3de3"
       },
@@ -823,34 +799,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Broken Hearts & Dirty Windows: Songs of John Prine, Vol. 2",
-        "url": "https://open.spotify.com/album/1zeu2tjunNLjS6rWNWCZ70"
+        "name": "Up and Rolling (feat. Son Little and Valerie June)",
+        "url": "https://open.spotify.com/album/7lhmScuKFqX2uzvuBkXYOk"
       },
       "artists": [
+        {
+          "name": "North Mississippi Allstars",
+          "url": "https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY"
+        },
+        {
+          "name": "Son Little",
+          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
+        },
         {
           "name": "Valerie June",
           "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
         }
       ],
-      "duration_ms": 209426,
-      "name": "Summer's End",
-      "url": "https://open.spotify.com/track/1GOcYcVoojwz4FH1aD8ZKP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Under Cover",
-        "url": "https://open.spotify.com/album/6vw0q0HwJCJUmSfkjCKtwH"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 187880,
-      "name": "Imagine",
-      "url": "https://open.spotify.com/track/4xUsxA83y9Ea5qC6v8m6VG"
+      "duration_ms": 201921,
+      "name": "Up and Rolling (feat. Son Little and Valerie June)",
+      "url": "https://open.spotify.com/track/2Z76Gvp5iZcEkszy10LNQp"
     },
     {
       "added_at": null,
@@ -871,6 +839,38 @@
       "duration_ms": 139043,
       "name": "Home Inside (with Valerie June) (From \u201cNorah Jones is Playing Along\u201d Podcast)",
       "url": "https://open.spotify.com/track/2e8hzjW6K0TFPZkwIa38o0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Under Cover",
+        "url": "https://open.spotify.com/album/6vw0q0HwJCJUmSfkjCKtwH"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 187880,
+      "name": "Imagine",
+      "url": "https://open.spotify.com/track/4xUsxA83y9Ea5qC6v8m6VG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Broken Hearts & Dirty Windows: Songs of John Prine, Vol. 2",
+        "url": "https://open.spotify.com/album/1zeu2tjunNLjS6rWNWCZ70"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 209426,
+      "name": "Summer's End",
+      "url": "https://open.spotify.com/track/1GOcYcVoojwz4FH1aD8ZKP"
     }
   ],
   "unique_name": "This Is Valerie June",

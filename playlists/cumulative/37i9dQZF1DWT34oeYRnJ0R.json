@@ -936,7 +936,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 170666,
       "name": "ANDO XXIL",
       "url": "https://open.spotify.com/track/0LxKI4Y1yMuJZzdJKcttU0"
@@ -1948,7 +1948,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 228253,
       "name": "BUBALU",
       "url": "https://open.spotify.com/track/36FTXlmbiV2diZdZukzLDm"
@@ -5004,7 +5004,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 123520,
       "name": "ETA",
       "url": "https://open.spotify.com/track/7h01E3mGqPrudATKy7zVKN"
@@ -7151,6 +7151,24 @@
     },
     {
       "album": {
+        "name": "La Canci\u00f3n",
+        "url": "https://open.spotify.com/album/2TQgqF026sRHNMvkGSwgxJ"
+      },
+      "artists": [
+        {
+          "name": "El Pepo Show",
+          "url": "https://open.spotify.com/artist/12DrMYv3haAHRxjWzxVRFB"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164828,
+      "name": "La Canci\u00f3n",
+      "url": "https://open.spotify.com/track/2tiLNKATRBlsPPhW8ny8Oa"
+    },
+    {
+      "album": {
         "name": "LA CANCI\u00d3N",
         "url": "https://open.spotify.com/album/775HIr3RQ0ZfqLVrHr69aI"
       },
@@ -8056,7 +8074,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 196800,
       "name": "LUNA",
       "url": "https://open.spotify.com/track/7bywjHOc0wSjGGbj04XbVi"
@@ -9183,6 +9201,24 @@
     },
     {
       "album": {
+        "name": "Mi\u00e9nteme",
+        "url": "https://open.spotify.com/album/4Fp1nBSbGKwYIwbz1PMPVH"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Guzman",
+          "url": "https://open.spotify.com/artist/3A4wpNVgD1v07jIbFQBVTr"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172110,
+      "name": "Mi\u00e9nteme",
+      "url": "https://open.spotify.com/track/06UhL9hBWpgH8CbFLyPtif"
+    },
+    {
+      "album": {
         "name": "Modelo",
         "url": "https://open.spotify.com/album/3xuuhHXA6iiKIbHOrM4GqD"
       },
@@ -9256,7 +9292,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 204705,
       "name": "MOOD",
       "url": "https://open.spotify.com/track/4mxvz0ZsSxllTR4EsU2Kqa"
@@ -10666,6 +10702,24 @@
       "duration_ms": 135704,
       "name": "obst\u00e1culo",
       "url": "https://open.spotify.com/track/0aNEvtr8iBURNCLr6naHfa"
+    },
+    {
+      "album": {
+        "name": "OH NO",
+        "url": "https://open.spotify.com/album/0XltFOQjcJYxEI9q14beYB"
+      },
+      "artists": [
+        {
+          "name": "Gonzy",
+          "url": "https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172866,
+      "name": "OH NO",
+      "url": "https://open.spotify.com/track/5O68amJ6eikevSjYGxQozg"
     },
     {
       "album": {
@@ -15768,6 +15822,28 @@
       "duration_ms": 129705,
       "name": "Yo s\u00e9",
       "url": "https://open.spotify.com/track/5DdLSEyKh8zgCrJq2hFj92"
+    },
+    {
+      "album": {
+        "name": "Yo Te Amo",
+        "url": "https://open.spotify.com/album/7CKEns0wXCmu3QGdwmqE0a"
+      },
+      "artists": [
+        {
+          "name": "Dariel Amant",
+          "url": "https://open.spotify.com/artist/6OWA7HFYDoWkb1iv31uwMo"
+        },
+        {
+          "name": "Fred Rosa",
+          "url": "https://open.spotify.com/artist/1uodjlzN2u4kguORIOuDcX"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142285,
+      "name": "Yo Te Amo",
+      "url": "https://open.spotify.com/track/276HeSy9BJ6de94QPY9dNd"
     },
     {
       "album": {

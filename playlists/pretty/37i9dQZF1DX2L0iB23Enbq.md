@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2L0iB23Enbq.md) - [plain]
 
 > Viral, trending and taking off.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,217,692 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,217,607 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2L0iB23Enbq.md) - [plain]
 | 44 | [What You Is](https://open.spotify.com/track/2ZCDXVmOLnKUHYVpycIq5F) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Mellow Rackz](https://open.spotify.com/artist/3celDTSIsfH8ks4YQ68B5w) | [What You Is](https://open.spotify.com/album/6hGxO3RlfPxP0OuXukj5Ju) | 3:46 |
 | 45 | [Slow Dance](https://open.spotify.com/track/2qmmnbJ9JR3f7vofbyje5r) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Charm](https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i) | 3:54 |
 | 46 | [All The Way \(feat\. Bailey Zimmerman\)](https://open.spotify.com/track/73kIKvg65QWieOKXIwyLJP) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [All The Way \(feat\. Bailey Zimmerman\)](https://open.spotify.com/album/6ySeR2u4QyfkeZBVL4yORh) | 2:45 |
-| 47 | [Glow](https://open.spotify.com/track/7pIa7fOolntS1WcQMuy3c8) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [Creek](https://open.spotify.com/album/4wFyqyU8erSQITJyyoUOhk) | 4:28 |
+| 47 | [The One That Got Away](https://open.spotify.com/track/6GCW5Muk3u0cM5QTkS4C9a) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream](https://open.spotify.com/album/32Uy0GLddTw4559CWja1f1) | 3:47 |
 | 48 | [Cant Go Broke \- Remix](https://open.spotify.com/track/7AoojPsB5RqnlgmAbBTelz) | [ZEDDY WILL](https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf) | [Cant Go Broke \(Remix\)](https://open.spotify.com/album/2mkUnlEIvymQmfNikypqYg) | 1:47 |
 | 49 | [RICHMAN](https://open.spotify.com/track/3JfbMm4LfBmm96mkKhyG6I) | [3OH!3](https://open.spotify.com/artist/0FWzNDaEu9jdgcYTbcOa4F) | [WANT](https://open.spotify.com/album/6MSOHtUiG49Grd7BdZrRUm) | 3:19 |
 | 50 | [Hold My Hand](https://open.spotify.com/track/1i1rNVtxbE7rdFfpHuNq2j) | [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [Hold My Hand](https://open.spotify.com/album/6uZYkBePCdUP1LltEt9Qin) | 3:47 |
 
-Snapshot ID: `AAAAAFp2ojy/DXTFIofHRslYwxc6NETA`
+Snapshot ID: `AAAAAJHgbqL50V9b1hplJQnD5l1/B4WG`

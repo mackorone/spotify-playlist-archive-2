@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bw5oBAFpuz.md) - [plain]
 
 > Ideale muziek voor de werkdag
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,882 likes - 250 songs - 13 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,877 likes - 250 songs - 13 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bw5oBAFpuz.md) - [plain]
 | 249 | [Plage](https://open.spotify.com/track/3WU1BGMLe9Tg2QuVmRPpw6) | [Crystal Fighters](https://open.spotify.com/artist/75EZuo5MHV2572NRpMWotC) | [Star of Love \(+ acoustic version\)](https://open.spotify.com/album/5z6klKjs2g01A8z5sHljhQ) | 3:50 |
 | 250 | [Space for Two](https://open.spotify.com/track/2vNyWYQtbrgOKcSG64SZMJ) | [Mr\. Probz](https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT) | [Space for Two](https://open.spotify.com/album/6QdFacG9oVksFA7py1AltG) | 3:26 |
 
-Snapshot ID: `AAAAAFakF3oOvWcQKE0NZ8rfEgVi5BLk`
+Snapshot ID: `AAAAAJ3aG+zmENY2SIFxEe6PWAl8fKDL`

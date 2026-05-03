@@ -4,7 +4,7 @@
 
 > This is Ximena Sariñana\. The essential tracks, all in one playlist.
 
-111 songs - 6 hr 36 min
+112 songs - 6 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [Nada Para Ti](https://open.spotify.com/track/1J7DXtecVHR34Rc4Zkv71d) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Adentro](https://open.spotify.com/album/6cNhorO2Vmcbt2zyXosHYZ) | 3:56 | 2026-03-07 |  |
 | [Nada Para Ti](https://open.spotify.com/track/3N1eK5Zm50v0GXF27ZknXG) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Adentro](https://open.spotify.com/album/4EkouVwYZqZVmnnxx7O6Xr) | 3:56 | 2024-11-09 | 2026-01-24 |
 | [Nada Para Ti](https://open.spotify.com/track/6EKLpV51tSY9SmMgwdb42W) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Nada Para Ti](https://open.spotify.com/album/5G9mAcnZnP9F1WdqiY370t) | 3:56 | 2023-12-26 | 2024-11-09 |
-| [No Es Igual](https://open.spotify.com/track/4ud4Zl2oRVgKspR7te8NFx) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [No Es Igual](https://open.spotify.com/album/1gQ9pDMmLrEC6GHEKNzBBZ) | 3:45 | 2025-09-16 |  |
+| [No Es Igual](https://open.spotify.com/track/4ud4Zl2oRVgKspR7te8NFx) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [No Es Igual](https://open.spotify.com/album/1gQ9pDMmLrEC6GHEKNzBBZ) | 3:45 | 2025-09-16 | 2026-05-03 |
 | [No Soy Tuya \- Main Title](https://open.spotify.com/track/6soVui0dpsnaFegcclSdAg) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [No Soy Tuya \(Música Original de “Las Azules” de Apple TV+\) \[Main Title\]](https://open.spotify.com/album/3nwgEgEjPZqqLthxVEr5Uw) | 3:11 | 2024-08-06 | 2024-08-31 |
 | [No Sé \(feat\. Girl Ultra\)](https://open.spotify.com/track/00bdtvYtc1OTsMqIDyB9VJ) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1), [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [¿Dónde Bailarán Las Niñas?](https://open.spotify.com/album/6BvR8xqcnvm7Gpmmnr7JKa) | 3:38 | 2023-12-26 | 2026-01-15 |
 | [No Te Vayas](https://open.spotify.com/track/2Qm7E9UitJaLknrQp3YXgd) | [Ramona](https://open.spotify.com/artist/3K8X4ZoPqijzc6QSP4eAQF), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Los Himnos del Amor](https://open.spotify.com/album/00oqeg7bfUjuQWLqgrdZ2k) | 3:26 | 2024-10-26 | 2025-01-08 |
@@ -102,6 +102,7 @@
 | [Sophia](https://open.spotify.com/track/0MQJCeRaKenhuEN1r6rO2A) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1), [Sophia Perusquia](https://open.spotify.com/artist/3YmlPJYhKl7hmmOynT0DrX) | [Amor Adolescente](https://open.spotify.com/album/1JSWqKre0vDwPfDohpfyqt) | 0:49 | 2026-01-26 |  |
 | [TBT 4 EVER 2.0 \(feat\. Jesse Baez\)](https://open.spotify.com/track/7EW1QpUaFRKwsMQvr6rJoC) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1), [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [TBT 4 EVER 2.0 \(feat\. Jesse Baez\)](https://open.spotify.com/album/2HnrU7teXQDKv65s8OoWZY) | 2:47 | 2023-12-26 | 2025-02-04 |
 | [Te Confieso](https://open.spotify.com/track/1syzaQgUf8zOeLwash8NT5) | [VADHIR](https://open.spotify.com/artist/6JYq1icPMmdJ9jxyXDOieP), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Te Confieso](https://open.spotify.com/album/7xsJj0Y8SGK5PlEhJUyKa5) | 2:49 | 2023-12-26 | 2025-09-21 |
+| [Te Extrañaré](https://open.spotify.com/track/4jNEAv50XJge80AocPZYWB) | [Jumbo](https://open.spotify.com/artist/55qSbU11psT1e0HlLaTZPB), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Te Extrañaré](https://open.spotify.com/album/1UT6WSgRQ09CY40pHslYEQ) | 3:16 | 2026-05-03 |  |
 | [Temes](https://open.spotify.com/track/66LLNuHo95vCXZyYsKp33k) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Existencia Kamikaze](https://open.spotify.com/album/6fUzjJ4WJm5IfgJ9tONycP) | 3:17 | 2025-11-09 | 2026-03-12 |
 | [Tenemos que hablar](https://open.spotify.com/track/1pSwtcaRE3LbpKiOK00l4N) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Tenemos que hablar](https://open.spotify.com/album/4bza078y7xvT1KpPoVzbx2) | 3:33 | 2023-12-26 | 2024-07-21 |
 | [Todo al Revés](https://open.spotify.com/track/3lSmVDh4KW7Qtouy0rklWe) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [PARADISO](https://open.spotify.com/album/0S3TDFrysfwpXUC8JiDkH9) | 3:35 | 2025-04-27 |  |

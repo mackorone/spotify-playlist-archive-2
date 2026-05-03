@@ -4,7 +4,7 @@
 
 > These are some independent alternative rock bands you need to hear.
 
-328 songs - 19 hr 57 min
+330 songs - 20 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Crashout Bandicoot](https://open.spotify.com/track/4tr2Y43N2nmWDY14JzkRoi) | [Four Stars](https://open.spotify.com/artist/2tdl7uw2qVGiuAk0AjUpGG) | [Crashout Bandicoot](https://open.spotify.com/album/5pEGwEj7GOB2qg2tOZW1Ut) | 2:57 | 2025-11-26 | 2025-12-28 |
 | [Crazy Dance of Death](https://open.spotify.com/track/26AvmPorUJ4jLn9vZ0DowU) | [Ask The Dust](https://open.spotify.com/artist/7F3WOicrHPUVKyOhZUCrND) | [Crazy Dance of Death](https://open.spotify.com/album/1GYG0FvWCwAt5l32W37wrS) | 3:11 | 2025-12-03 | 2026-01-05 |
 | [Crazy Horse](https://open.spotify.com/track/638G4U3oabQAQHKi43XbUj) | [Automatic Kafka](https://open.spotify.com/artist/2MxUQ6VUpXfDov3Fyz7Wnm) | [Crazy Horse](https://open.spotify.com/album/5zgycbyhmN5ROkDD6CXMRZ) | 4:52 | 2026-02-01 | 2026-02-25 |
+| [Cristina](https://open.spotify.com/track/3zslKraslO9HGthkAAQ1EU) | [Dave Christen](https://open.spotify.com/artist/3pLpSZzfhqSloT7Cidly8l) | [Cristina](https://open.spotify.com/album/6fNPJiXckogSPudXMCPrBv) | 3:37 | 2026-05-02 |  |
 | [Cut and Sell](https://open.spotify.com/track/0L6sh94exzCeYzP3s72a4v) | [The Homme](https://open.spotify.com/artist/4U836xTjRfFYfYctNxJFmm) | [Cut and Sell](https://open.spotify.com/album/11dGTJWrlOQMTOliQgi5vn) | 2:43 | 2026-03-27 |  |
 | [Dagger](https://open.spotify.com/track/2z085z3HP9wxC1NbZg0l75) | [Rhaina Yasmin](https://open.spotify.com/artist/0HRstpwKkdAHomEsGun6Id) | [Dagger](https://open.spotify.com/album/3uBwu021Fop6TxolWGkf65) | 4:18 | 2025-11-16 |  |
 | [Dark Echoes](https://open.spotify.com/track/3j0Qf4nRfVn16Q7cWQI4HK) | [The Winter Sloths](https://open.spotify.com/artist/3MVGy2ZeJzUFYpP1RdNAGD) | [The Winter Sloths](https://open.spotify.com/album/3wjHKUaiAB5FmDqvM7s3Rr) | 3:49 | 2026-02-23 |  |
@@ -244,6 +245,7 @@
 | [Season 2](https://open.spotify.com/track/3E3HFi5uwVHOv7R37gzHuu) | [Tenkila](https://open.spotify.com/artist/5SnRmKiQScFAV0ScEVdRM0) | [Season 2](https://open.spotify.com/album/3PRuwaXPbL17pqH1OnpNke) | 3:44 | 2025-12-23 | 2026-01-21 |
 | [See You In The Wind](https://open.spotify.com/track/4zV9OGWWiW64XkdwvV8GYD) | [Ashstone](https://open.spotify.com/artist/47hrCicuIVVFh4Z7dVNNUG) | [See You In The Wind](https://open.spotify.com/album/3lJRKYhDtNEI2rcDP3q4Do) | 3:02 | 2026-01-28 | 2026-02-19 |
 | [sela](https://open.spotify.com/track/6tjqn0snHDfmNcUiidheUa) | [The Links](https://open.spotify.com/artist/2TFSpXVPNjJAFyFbzitt3c) | [sela](https://open.spotify.com/album/4KP0bhanb1yZNRinZkd65I) | 3:22 | 2026-01-07 | 2026-02-02 |
+| [Set Your Life On Fire](https://open.spotify.com/track/5Nx6BHTGLSITqrERad64nk) | [The Last Pioneers](https://open.spotify.com/artist/47VNhQMeBaWxOZG6aJHYvM) | [Set Your Life On Fire](https://open.spotify.com/album/4rUIlLpeOwgUvfJ8NMkmeD) | 3:28 | 2026-05-02 |  |
 | [Shaded](https://open.spotify.com/track/5I2qMnYYV31dyVq3cJWRQo) | [The Homme](https://open.spotify.com/artist/4U836xTjRfFYfYctNxJFmm) | [Shaded](https://open.spotify.com/album/0ZvjH20hMVPiJXIln6SVKk) | 4:19 | 2026-02-07 | 2026-03-05 |
 | [Shame](https://open.spotify.com/track/2fQOgFbGu8J4yq32HP4864) | [The Paperbags](https://open.spotify.com/artist/0xWOcjzU2TvVdqM6pmsMJk) | [Shame](https://open.spotify.com/album/4iKDad2F2gQyFU49uZ9not) | 3:12 | 2025-11-09 | 2025-12-06 |
 | [SHARPEN](https://open.spotify.com/track/2Dfv6jg3y2YChiyeGXTOby) | [RedMoon](https://open.spotify.com/artist/1tRFUNiUD1F6JEUTa2aQAo) | [SHARPEN](https://open.spotify.com/album/7xghrLC6yKsigFWWGsjUcx) | 3:11 | 2026-04-28 |  |

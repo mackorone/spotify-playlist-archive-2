@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5R53BjnKBjk.md) - [plain]
 
 > Uma seleção de novos artistas da cena brasileira que você precisa conhecer\.  Foto: Iuna Falcão
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,548 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,564 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5R53BjnKBjk.md) - [plain]
 | 18 | [PELE ESCURA](https://open.spotify.com/track/1Z99gpCrrTm7BW3Mwns9zO) | [Yumee](https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX), [Leonok](https://open.spotify.com/artist/6wXZ4MpqeqQybIustnLsta) | [PELE ESCURA](https://open.spotify.com/album/4wkmiVQFi3CRV1nXEHWVEH) | 3:08 |
 | 19 | [Fica por isso](https://open.spotify.com/track/5NcYInBnP55eDKFglnqcWC) | [Capim Limão](https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P) | [Fica por isso](https://open.spotify.com/album/6tOOK9hEiccBESCHCggCQ5) | 2:41 |
 | 20 | [Autorretrato](https://open.spotify.com/track/6BwrD025xDA4gHdMmL3OIR) | [FARID.](https://open.spotify.com/artist/4vO6Qsu0gOxz68NQpAtmAW) | [AFROBRASILEIRO, vol.1](https://open.spotify.com/album/00xMHezFz4gvguiY05p5ux) | 3:37 |
-| 21 | [Doce Confusão](https://open.spotify.com/track/4ZjIJ1J5Umb5gp4CPsfDYU) | [Liza Lou](https://open.spotify.com/artist/1cJ8ZMi37OSQUMRbqWGKu2), [FIVE](https://open.spotify.com/artist/5KaMOAr32JYTS74wxfx84K) | [Doce Confusão](https://open.spotify.com/album/3byioriAq7d7LF44fdbeCJ) | 2:48 |
+| 21 | [Doce Confusão](https://open.spotify.com/track/4ZjIJ1J5Umb5gp4CPsfDYU) | [Liza Lourdes](https://open.spotify.com/artist/1cJ8ZMi37OSQUMRbqWGKu2), [FIVE](https://open.spotify.com/artist/5KaMOAr32JYTS74wxfx84K) | [Doce Confusão](https://open.spotify.com/album/3byioriAq7d7LF44fdbeCJ) | 2:48 |
 | 22 | [Voz de Longe](https://open.spotify.com/track/3oYkFf1qzu7O2SUtPld2Th) | [Mari Merenda](https://open.spotify.com/artist/07FaEsHIaVZAFFHvNElpbQ) | [Voz de Longe](https://open.spotify.com/album/5mADYBJ2iOsAgAJOqnM7Lr) | 3:10 |
 | 23 | [Eu Gosto Mesmo É de Beijar](https://open.spotify.com/track/3CJIpCmtpgYjH2VWFh42n6) | [AMANDONA!](https://open.spotify.com/artist/3QsIywlgq5eS0jprFxuDmd), [Luiza Brina](https://open.spotify.com/artist/09h0yBO50UAcaFa4papv3X) | [Se Eu Pudesse Te Beijava Até a Voz](https://open.spotify.com/album/0ITXZCoPWxeguxBt49F5fE) | 2:59 |
 | 24 | [Não Perde](https://open.spotify.com/track/27G9CRFadvdn98dOepffKc) | [Augusta Barna](https://open.spotify.com/artist/1nCqVLF06AcC2U5Tq2RkRk), [AMANDONA!](https://open.spotify.com/artist/3QsIywlgq5eS0jprFxuDmd), [brandu](https://open.spotify.com/artist/4b60qd5W1wYRQ94acEugv0) | [Não Perde](https://open.spotify.com/album/7oCRRHbCZa37T7QqkzPW8y) | 2:20 |

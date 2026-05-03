@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > Enjoy the freshest K\-Pop new releases \(Cover: TWS\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,398 likes - 139 songs - 7 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,440 likes - 139 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 10 | [Pas de deux](https://open.spotify.com/track/0RlsvtLOnBIyaR4rcPUTA1) | [CIKI](https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5) | [2.0 REBIRTH](https://open.spotify.com/album/0tXX8swrdu7UWfI3LPlNiX) | 2:53 |
 | 11 | [Anything](https://open.spotify.com/track/1r0C045vkJ2DqrpFmHm6mb) | [Im Se Jun](https://open.spotify.com/artist/0s4jzJWYRhTxcW6xNssGEC) | [Anything](https://open.spotify.com/album/1oQCcTkqqcbKv6sKocrQSo) | 3:42 |
 | 12 | [Person That Shares Happiness](https://open.spotify.com/track/43Y2cbo6fvewpMVj6NLPvE) | [Son Tae Jin](https://open.spotify.com/artist/3KPav3N3KMQD2ZUE8byUWS) | [Person That Shares Happiness](https://open.spotify.com/album/75uWJRIoloRejjJ7LgpIPy) | 3:08 |
-| 13 | [Tic\-Tac\-Toe \(Feat\. COOMO\)](https://open.spotify.com/track/1CdM5iXvHs37fr111T3Ha7) | [PRISM](https://open.spotify.com/artist/4OkW6WXeabKxCAdQzBdbS3), [COOMO](https://open.spotify.com/artist/1nl4mXUCxItd93nVFI76sX) | [TTT \(Feat\. COOMO\)](https://open.spotify.com/album/0VGWKXlqjUujAHUgnjhtYT) | 2:36 |
+| 13 | [Tic\-Tac\-Toe \(Feat\. COOMO\)](https://open.spotify.com/track/1CdM5iXvHs37fr111T3Ha7) | [PRISM](https://open.spotify.com/artist/5DgFxWES2HxzZaYUGBsvkt), [COOMO](https://open.spotify.com/artist/1nl4mXUCxItd93nVFI76sX) | [TTT \(Feat\. COOMO\)](https://open.spotify.com/album/0VGWKXlqjUujAHUgnjhtYT) | 2:36 |
 | 14 | [Bodyelse](https://open.spotify.com/track/7CZuzaa3vc92qg3Pv3sACj) | [PARK JI HOON](https://open.spotify.com/artist/0tBYMeHDDJCzRuREuCTWi7) | [RE:FLECT](https://open.spotify.com/album/6uIg4IqncYwG3Ms0aMsTFx) | 3:09 |
 | 15 | [All Ages](https://open.spotify.com/track/0HmrJvU8VaAp8JkFM30POa) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Childish](https://open.spotify.com/album/7Hkl0TZIfl54wKGX9KQD5K) | 3:13 |
 | 16 | [Stolen](https://open.spotify.com/track/1YudzC0dQ6SJo0WgHA8kal) | [H//PE Princess](https://open.spotify.com/artist/7LCBBRTytlwiWnA2Ugr3s1) | [Stolen](https://open.spotify.com/album/5GRlBvHo9Rz00EWzS1o1Vu) | 2:44 |
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 34 | [On such a wonderful night](https://open.spotify.com/track/2nnIHyTZOnFvkYeKeebFvu) | [Cha ga eul](https://open.spotify.com/artist/4mSV7GdIFUByJJVxI4HyOi) | [On such a wonderful night](https://open.spotify.com/album/4f2toQm38HkmoRDWKCM1s7) | 3:33 |
 | 35 | [Sign](https://open.spotify.com/track/29WdT0CvbaVoN5pbke3hXX) | [82MAJOR](https://open.spotify.com/artist/1wDstpO8XQNU6GV0S92663) | [FEELM](https://open.spotify.com/album/0U8OEGNR5aYwlY3TLXGVYS) | 2:49 |
 | 36 | [Sleepless](https://open.spotify.com/track/33RxnAlO8IKWwS9pSRRaP5) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [Sleepless \(from Sold Out On You \(Original Soundtrack\) Part 3\)](https://open.spotify.com/album/1DK8jMJjfVbz34tpXeBYX9) | 3:52 |
-| 37 | [No Tears On The Dancefloor](https://open.spotify.com/track/1LN9XD8fstMDvgI8RM4lpx) | [LEE CHAE YEON](https://open.spotify.com/artist/2nkZR6LwPxaAVtaVitNIPT) | [Till I Die](https://open.spotify.com/album/1NME7mvfv1WMEGJGcSF9bs) | 2:30 |
+| 37 | [No Tears On The Dancefloor](https://open.spotify.com/track/1LN9XD8fstMDvgI8RM4lpx) | [LEE CHAEYEON](https://open.spotify.com/artist/2nkZR6LwPxaAVtaVitNIPT) | [Till I Die](https://open.spotify.com/album/1NME7mvfv1WMEGJGcSF9bs) | 2:30 |
 | 38 | [Be a star](https://open.spotify.com/track/6PR8st2DhQppVaqlTlZv0h) | [Hwang Chi Yeul](https://open.spotify.com/artist/689wBe4v9rvHjdNB4JUgYq) | [Be a star](https://open.spotify.com/album/6ac7N0y77rUq63HZZXJgdZ) | 3:52 |
 | 39 | [sunday](https://open.spotify.com/track/1QQyMKRCOUQS8aKNeiHJRu) | [TRADE L](https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr) | [aurora](https://open.spotify.com/album/08LNy0xcfUdMbM5PzzAGmW) | 2:29 |
 | 40 | [Home](https://open.spotify.com/track/73ZXHRLk5zJEjyStIOex2F) | [Balming Tiger](https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1) | [Home](https://open.spotify.com/album/2h3Si1lhGsmDycd5uLRtpO) | 3:55 |

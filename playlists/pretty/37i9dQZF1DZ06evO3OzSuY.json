@@ -1,33 +1,13 @@
 {
   "description": "This is Zendaya. The essential tracks, all in one playlist.",
-  "num_followers": 25021,
+  "num_followers": 25023,
   "original_name": "This Is Zendaya",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afKbgAAAAACy4erjfmPqzBeLtqteGibh",
+  "snapshot_id": "afPtAAAAAAA3PU5v7BrCuHJEngDH/pru",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Greatest Showman (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7ayBZIe1FHkNv0T5xFCX6F"
-      },
-      "artists": [
-        {
-          "name": "Zac Efron",
-          "url": "https://open.spotify.com/artist/6U1dBXJhC8gXFjamvFTmHg"
-        },
-        {
-          "name": "Zendaya",
-          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
-        }
-      ],
-      "duration_ms": 217440,
-      "name": "Rewrite The Stars",
-      "url": "https://open.spotify.com/track/65fpYBrI8o2cfrwf2US4gq"
-    },
     {
       "added_at": null,
       "album": {
@@ -47,6 +27,58 @@
       "duration_ms": 191710,
       "name": "All For Us",
       "url": "https://open.spotify.com/track/76YSWx6L6FNsuaP6GWBb8P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rewrite The Stars",
+        "url": "https://open.spotify.com/album/0mRqi6mOvyVVVEIfFFfWXU"
+      },
+      "artists": [
+        {
+          "name": "Zac Efron",
+          "url": "https://open.spotify.com/artist/6U1dBXJhC8gXFjamvFTmHg"
+        },
+        {
+          "name": "Zendaya",
+          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
+        }
+      ],
+      "duration_ms": 217440,
+      "name": "Rewrite The Stars",
+      "url": "https://open.spotify.com/track/630sXRhIcfwr2e4RdNtjKN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Greatest Showman (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7ayBZIe1FHkNv0T5xFCX6F"
+      },
+      "artists": [
+        {
+          "name": "Hugh Jackman",
+          "url": "https://open.spotify.com/artist/5F1aoppMtU3OMiltO8ymJ2"
+        },
+        {
+          "name": "Keala Settle",
+          "url": "https://open.spotify.com/artist/7HV2RI2qNug4EcQqLbCAKS"
+        },
+        {
+          "name": "Zac Efron",
+          "url": "https://open.spotify.com/artist/6U1dBXJhC8gXFjamvFTmHg"
+        },
+        {
+          "name": "Zendaya",
+          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
+        },
+        {
+          "name": "The Greatest Showman Ensemble",
+          "url": "https://open.spotify.com/artist/63nv0hWWDob56Rk8GlNpN8"
+        }
+      ],
+      "duration_ms": 302146,
+      "name": "The Greatest Show",
+      "url": "https://open.spotify.com/track/4ylWMuGbMXNDgDd8lErEle"
     },
     {
       "added_at": null,
@@ -87,38 +119,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Greatest Showman (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7ayBZIe1FHkNv0T5xFCX6F"
-      },
-      "artists": [
-        {
-          "name": "Hugh Jackman",
-          "url": "https://open.spotify.com/artist/5F1aoppMtU3OMiltO8ymJ2"
-        },
-        {
-          "name": "Keala Settle",
-          "url": "https://open.spotify.com/artist/7HV2RI2qNug4EcQqLbCAKS"
-        },
-        {
-          "name": "Zac Efron",
-          "url": "https://open.spotify.com/artist/6U1dBXJhC8gXFjamvFTmHg"
-        },
-        {
-          "name": "Zendaya",
-          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
-        },
-        {
-          "name": "The Greatest Showman Ensemble",
-          "url": "https://open.spotify.com/artist/63nv0hWWDob56Rk8GlNpN8"
-        }
-      ],
-      "duration_ms": 302146,
-      "name": "The Greatest Show",
-      "url": "https://open.spotify.com/track/4ylWMuGbMXNDgDd8lErEle"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Elliot's Song (From \"Euphoria\" An HBO Original Series)",
         "url": "https://open.spotify.com/album/67WBZwhfjfOQ5gnH8iXsQ8"
       },
@@ -135,6 +135,38 @@
       "duration_ms": 150320,
       "name": "Elliot's Song - From \"Euphoria\" An HBO Original Series",
       "url": "https://open.spotify.com/track/7JIIY2oDPFkURYMCLJuzhe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Greatest Showman (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7ayBZIe1FHkNv0T5xFCX6F"
+      },
+      "artists": [
+        {
+          "name": "Hugh Jackman",
+          "url": "https://open.spotify.com/artist/5F1aoppMtU3OMiltO8ymJ2"
+        },
+        {
+          "name": "Keala Settle",
+          "url": "https://open.spotify.com/artist/7HV2RI2qNug4EcQqLbCAKS"
+        },
+        {
+          "name": "Daniel Everidge",
+          "url": "https://open.spotify.com/artist/2Rimf9z3oYDBeszSXFACRR"
+        },
+        {
+          "name": "Zendaya",
+          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
+        },
+        {
+          "name": "The Greatest Showman Ensemble",
+          "url": "https://open.spotify.com/artist/63nv0hWWDob56Rk8GlNpN8"
+        }
+      ],
+      "duration_ms": 225933,
+      "name": "Come Alive",
+      "url": "https://open.spotify.com/track/5xNUR50KxswPRAvx7S163g"
     },
     {
       "added_at": null,
@@ -171,38 +203,6 @@
       "duration_ms": 224760,
       "name": "Neverland",
       "url": "https://open.spotify.com/track/654bpQLFU931tUdT7HHqu0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Greatest Showman (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7ayBZIe1FHkNv0T5xFCX6F"
-      },
-      "artists": [
-        {
-          "name": "Hugh Jackman",
-          "url": "https://open.spotify.com/artist/5F1aoppMtU3OMiltO8ymJ2"
-        },
-        {
-          "name": "Keala Settle",
-          "url": "https://open.spotify.com/artist/7HV2RI2qNug4EcQqLbCAKS"
-        },
-        {
-          "name": "Daniel Everidge",
-          "url": "https://open.spotify.com/artist/2Rimf9z3oYDBeszSXFACRR"
-        },
-        {
-          "name": "Zendaya",
-          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
-        },
-        {
-          "name": "The Greatest Showman Ensemble",
-          "url": "https://open.spotify.com/artist/63nv0hWWDob56Rk8GlNpN8"
-        }
-      ],
-      "duration_ms": 225933,
-      "name": "Come Alive",
-      "url": "https://open.spotify.com/track/5xNUR50KxswPRAvx7S163g"
     },
     {
       "added_at": null,
@@ -535,18 +535,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Disney Fairies: Faith, Trust and Pixie Dust",
-        "url": "https://open.spotify.com/album/7CteF40ZbCHjLYBYyYpAAJ"
+        "name": "Shake It Up: Made in Japan",
+        "url": "https://open.spotify.com/album/5DIqbh258UC1oG6Lgerrv4"
       },
       "artists": [
         {
           "name": "Zendaya",
           "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
+        },
+        {
+          "name": "Bella Thorne",
+          "url": "https://open.spotify.com/artist/58AqJv0sDFPFnnBcLT8eeX"
         }
       ],
-      "duration_ms": 182093,
-      "name": "Dig Down Deeper",
-      "url": "https://open.spotify.com/track/3r0TVEiVGNFI5nuX87nstb"
+      "duration_ms": 214973,
+      "name": "The Same Heart",
+      "url": "https://open.spotify.com/track/4wPNMGse5Ra97qPDK0NRlW"
     },
     {
       "added_at": null,
@@ -583,22 +587,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shake It Up: Made in Japan",
-        "url": "https://open.spotify.com/album/5DIqbh258UC1oG6Lgerrv4"
+        "name": "Disney Fairies: Faith, Trust and Pixie Dust",
+        "url": "https://open.spotify.com/album/7CteF40ZbCHjLYBYyYpAAJ"
       },
       "artists": [
         {
           "name": "Zendaya",
           "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
-        },
-        {
-          "name": "Bella Thorne",
-          "url": "https://open.spotify.com/artist/58AqJv0sDFPFnnBcLT8eeX"
         }
       ],
-      "duration_ms": 214973,
-      "name": "The Same Heart",
-      "url": "https://open.spotify.com/track/4wPNMGse5Ra97qPDK0NRlW"
+      "duration_ms": 182093,
+      "name": "Dig Down Deeper",
+      "url": "https://open.spotify.com/track/3r0TVEiVGNFI5nuX87nstb"
     },
     {
       "added_at": null,

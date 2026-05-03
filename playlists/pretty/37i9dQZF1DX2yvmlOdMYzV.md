@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2yvmlOdMYzV.md) - [plain]
 
 > Indie soul that's highkey fire
 
-[Spotify](https://open.spotify.com/user/spotify) - 958,104 likes - 200 songs - 10 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 958,102 likes - 200 songs - 10 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2yvmlOdMYzV.md) - [plain]
 | 14 | [feels like love](https://open.spotify.com/track/6N5i4aUjLphRd77qlkpqdO) | [Tanerélle](https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH) | [feels like love](https://open.spotify.com/album/3gOvENiYFE7aYNWeHe4Xjq) | 4:35 |
 | 15 | [Suffocate](https://open.spotify.com/track/3AWD5GoEJ3jPoEzQN6mMut) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2) | [DB \(Deluxe\)](https://open.spotify.com/album/2mOCEBITBykvufVLttMx6E) | 3:11 |
 | 16 | [Home In Tokyo](https://open.spotify.com/track/4rermdt73Db2zDUR7E4Qay) | [JELISA](https://open.spotify.com/artist/0KaC2z2SJoxk3vCDdl1AKx) | [Home In Tokyo](https://open.spotify.com/album/5GkTulobCNZMKHlzohNAqw) | 2:58 |
-| 17 | [luh uh uh](https://open.spotify.com/track/1VBlpJwzlFhjGJ8LjCTgU0) | [Noxz](https://open.spotify.com/artist/4gQHI7uYzGmbD7BRBtFLO2), [Hamzaa](https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs) | [Tones+Silhouettes](https://open.spotify.com/album/50net4QGX3cPG0X6ipTzRE) | 3:12 |
+| 17 | [luh uh uh](https://open.spotify.com/track/1VBlpJwzlFhjGJ8LjCTgU0) | [Noxz](https://open.spotify.com/artist/4gQHI7uYzGmbD7BRBtFLO2), [MALIKAA](https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs) | [Tones+Silhouettes](https://open.spotify.com/album/50net4QGX3cPG0X6ipTzRE) | 3:12 |
 | 18 | [SUGAR](https://open.spotify.com/track/3UwkAkOOY5ZbXaUgqOhEt3) | [Richard Saunders](https://open.spotify.com/artist/6NxhqqHlwIyEBuLpdO0kZB), [3ee](https://open.spotify.com/artist/0MOQB6FzT4cx60yzXhtj9h) | [SUGAR](https://open.spotify.com/album/3YSXgCzwaPbvnGqHKqcWuV) | 2:31 |
 | 19 | [I'm Still](https://open.spotify.com/track/3Hnz8f9G9HsbJL56vb6zJr) | [HILLARI](https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM) | [I'm Still](https://open.spotify.com/album/3BoiZa3vYxc4as8qO5MKQu) | 2:42 |
 | 20 | [What We Do](https://open.spotify.com/track/4oMAEqrhyRwGL1d2iLTVxU) | [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [What We Do](https://open.spotify.com/album/5PvZJH5xtKDchKS7viqgov) | 3:19 |

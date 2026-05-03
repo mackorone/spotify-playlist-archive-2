@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afKbgAAAAACBl68cqbcVVcJ7PFq6hU4j",
+  "snapshot_id": "afPtAAAAAABqUYVyi7SDe+5bJeaaN+U9",
   "tracks": [
     {
       "added_at": null,
@@ -391,6 +391,22 @@
       "duration_ms": 241066,
       "name": "\u30ae\u30bf\u30fc\u3068\u5b64\u72ec\u3068\u84bc\u3044\u60d1\u661f -\u6052\u661f- Live ver.",
       "url": "https://open.spotify.com/track/5fwkSQLLk78Jx8neIz6iDP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u9752\u6625\u30b3\u30f3\u30d7\u30ec\u30c3\u30af\u30b9",
+        "url": "https://open.spotify.com/album/2i6HcZ86ErsCwxib4T11bk"
+      },
+      "artists": [
+        {
+          "name": "\u7d50\u675f\u30d0\u30f3\u30c9",
+          "url": "https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD"
+        }
+      ],
+      "duration_ms": 205133,
+      "name": "\u9752\u6625\u30b3\u30f3\u30d7\u30ec\u30c3\u30af\u30b9-instrumental-",
+      "url": "https://open.spotify.com/track/1eBJIQFMrwRy0bDhaGsMyK"
     },
     {
       "added_at": null,

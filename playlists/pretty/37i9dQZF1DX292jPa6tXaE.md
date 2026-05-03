@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX292jPa6tXaE.md) - [plain]
 
 > Discover the future of Punjabi Pop! Cover: Jeyona
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,891 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,896 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX292jPa6tXaE.md) - [plain]
 | 10 | [Nakhre](https://open.spotify.com/track/7kz2dpZTMAhAPoS5ml9o0Z) | [Arsh Jordan](https://open.spotify.com/artist/3MNhY5oK5Y8UMWZaoau2D4), [DXL](https://open.spotify.com/artist/28CAvS6N4F6zGQR7vsB0fo), [Spacey](https://open.spotify.com/artist/310WBDr5Vb18ysIpOg2IxO) | [Nakhre](https://open.spotify.com/album/3RkOk8j2CbuHalk4TvzHgy) | 2:52 |
 | 11 | [Reality Check](https://open.spotify.com/track/7AFEoipOIKnUBqzkJtIWps) | [Jatinder Dhiman](https://open.spotify.com/artist/1hm6TM0GJs7b6BKDN2AhgH), [KRU172](https://open.spotify.com/artist/5fjpeqO0THJggLIvTJTKgc) | [Folk The Fame](https://open.spotify.com/album/4nIRed93uYCFmMcwAYZBrm) | 3:34 |
 | 12 | [Jogi](https://open.spotify.com/track/2uxAp7l8iqrwjh1rgDuSbU) | [Shivraj Mundi](https://open.spotify.com/artist/78JAe57VcNpyM4o7o8PZ4t) | [Jogi](https://open.spotify.com/album/2gu8FSnSDqxxKPsdJTa9yd) | 5:14 |
-| 13 | [Call Me Yours](https://open.spotify.com/track/2sntFx0h0u5Q0An1EXi4Hl) | [Izhaar](https://open.spotify.com/artist/57tipRhUFcYkdZdwtFki1U), [Sonny](https://open.spotify.com/artist/2RCgXVND894YVj4YLaUYOg), [Rahul bector](https://open.spotify.com/artist/6Pgd43FqL2UsugIn9HplHg) | [Call Me Yours](https://open.spotify.com/album/2O8j9PnGCEwDMbThQjsTZB) | 2:26 |
+| 13 | [Call Me Yours](https://open.spotify.com/track/2sntFx0h0u5Q0An1EXi4Hl) | [Izhaar](https://open.spotify.com/artist/57tipRhUFcYkdZdwtFki1U), [Sonny](https://open.spotify.com/artist/2RCgXVND894YVj4YLaUYOg), [Gur Sohal](https://open.spotify.com/artist/2nMv03Po8V5for7w0sldHB), [Rahul bector](https://open.spotify.com/artist/6Pgd43FqL2UsugIn9HplHg) | [Call Me Yours](https://open.spotify.com/album/2O8j9PnGCEwDMbThQjsTZB) | 2:26 |
 | 14 | [Lonely Nights](https://open.spotify.com/track/0vumkPFyclclMbsLFUsQRg) | [THEMXXNLIGHT](https://open.spotify.com/artist/7crF48BmAnNaoNU8QPVld0), [Young Gill](https://open.spotify.com/artist/27TC2Cusib22RSVJFUF1vY) | [Lonely Nights](https://open.spotify.com/album/6u3IC9v1LlX56DAZ4KWPmr) | 2:39 |
 | 15 | [Akhan](https://open.spotify.com/track/3UNLsUyfkw1FmrwCsUJLzK) | [Amber](https://open.spotify.com/artist/6UIT9w4vJCXgsg77Ny9shS), [Aden](https://open.spotify.com/artist/7rDPs6JhBnjpEJ775TtekQ) | [Akhan](https://open.spotify.com/album/77FY7ZHO7RdXO0pRbEXSRV) | 2:29 |
 | 16 | [King](https://open.spotify.com/track/5vo7HuBC2PVypBkfYLRd6Y) | [DRUFF](https://open.spotify.com/artist/1trgpYDCtCp2ohqo7KlLS4), [Dark Soul Studioz](https://open.spotify.com/artist/3EZPIndtuKArWIo9IgLMwg) | [King](https://open.spotify.com/album/5jVBEToIiwL2uUru2aZ0RA) | 2:17 |

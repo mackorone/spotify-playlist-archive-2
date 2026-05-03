@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 
 > new gen alt ⛓ ft\. bleech 9:3
 
-[Spotify](https://open.spotify.com/user/spotify) - 509,641 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 509,637 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 | 49 | [Placebo](https://open.spotify.com/track/6T4hTXGDgINTwLJCE0iv14) | [VILLANELLE](https://open.spotify.com/artist/3J9QwmRJDdn9Oq1fB6mfcF) | [Placebo](https://open.spotify.com/album/6f6TCcTF2vjS2GxKlT7SBq) | 4:50 |
 | 50 | [Have A Pint](https://open.spotify.com/track/3YctRR7ybAHdPawjhfZ2nf) | [Cowboy Hunters](https://open.spotify.com/artist/5GSSYBJxAbpSyj2w2vr5Cp) | [Have A Pint](https://open.spotify.com/album/79sjqzdBAkm71DjBOvijUi) | 2:36 |
 
-Snapshot ID: `AAAAAIVV3afP0QO/5KGIr+md626U9o5R`
+Snapshot ID: `AAAAAJUA/aVGPlqQbXaY6p2mgxwyaEKu`

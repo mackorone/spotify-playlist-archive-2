@@ -4,7 +4,7 @@
 
 > váyanse a ver si ya puso la marrana con DENNA LA PORRI
 
-202 songs - 11 hr 36 min
+203 songs - 11 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [DEMBOW BÉLICO](https://open.spotify.com/track/0FkD2FHEZrZIofVkY6XPFK) | [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG), [Joel De La P](https://open.spotify.com/artist/4qDRNT8ldCfCjSp9lBzYC5), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [DEMBOW BÉLICO](https://open.spotify.com/album/0tBIOtAGyBryVpVVU4umOL) | 2:06 | 2023-11-29 | 2024-07-27 |
 | [descontrol](https://open.spotify.com/track/5BimcGZWyx0ArOozA1niJK) | [Jose Alatorre](https://open.spotify.com/artist/2elQouERAEbISjxoAO3cPy), [Ruzzo Doblezz](https://open.spotify.com/artist/4GK4U1lkvejUHBFsqyv23D) | [descontrol](https://open.spotify.com/album/32jcEzD0UzYJLij6xNHMT7) | 2:12 | 2026-04-24 |  |
 | [Desnudate \- Remix](https://open.spotify.com/track/1kQhwc7ZTVJ9fKk1ECl4dL) | [Big Metra](https://open.spotify.com/artist/5J5DLfdC5YmPjVk8ljdOqU), [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [VV Brujo](https://open.spotify.com/artist/3tshgsRowrEseqRaguXfZR) | [Desnudate \- Remix](https://open.spotify.com/album/53ncI589RsW51zBpgL8iMk) | 4:03 | 2024-09-30 | 2026-03-14 |
+| [DETONARR](https://open.spotify.com/track/3lvzVwBQc2vRSqDCnmQASt) | [Leo JimVaz](https://open.spotify.com/artist/3YTqWBjqsy3vwnlfOo7bk0), [Dj Teack](https://open.spotify.com/artist/5ncZY0JMBZdQH7liaQpa5i) | [DETONARR](https://open.spotify.com/album/7jkZvFlSkAnlK0BUrVCQt9) | 2:38 | 2026-05-01 |  |
 | [DEZORDEN](https://open.spotify.com/track/31LPxJBSIoi2lI3Zb93h6H) | [xosa](https://open.spotify.com/artist/4qSk9MT1h4mKVB1cVLvGpK), [Ruzzo Doblezz](https://open.spotify.com/artist/4GK4U1lkvejUHBFsqyv23D), [8.am](https://open.spotify.com/artist/0IExmfoarrF3Yugnj9Rhl7), [elakkka](https://open.spotify.com/artist/2ovQecRjUZ8mmjcj9hHRLJ) | [DEZORDEN](https://open.spotify.com/album/0fR0aKwDxYkNR5fHqKmU5X) | 2:37 | 2026-04-17 |  |
 | [Di Que Sí](https://open.spotify.com/track/0pliiCOWPN0IId8sXAqNJr) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Don't Stop The Magic](https://open.spotify.com/album/6JhU55VzRGxceE9Co927oj) | 3:10 | 2023-11-29 | 2024-03-10 |
 | [Di Que Sí](https://open.spotify.com/track/3J6d00TsKXTJV9zSJwEOd9) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Don't Stop The Magic](https://open.spotify.com/album/5I5DtMQDh1PnflVUtTLMN7) | 3:10 | 2023-11-29 | 2024-07-27 |

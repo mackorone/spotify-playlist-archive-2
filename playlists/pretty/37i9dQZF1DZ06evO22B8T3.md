@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22B8T3.md) - [plain]
 
 > This is Paulo Londra\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,308,732 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,308,733 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,9 +27,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22B8T3.md) - [plain]
 | 17 | [Por Eso Vine](https://open.spotify.com/track/5qN1G8fSHq4Sv5FRoOkNGu) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Homerun](https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn) | 2:58 |
 | 18 | [Party \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/track/5PDoWY5Av2Ba3rWIdY9Ij0) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Party \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/album/2ce9XFj7OA3f78oO5XFFhV) | 3:30 |
 | 19 | [1%](https://open.spotify.com/track/4I84JZ0sC27yYWgFvqBabp) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [1%](https://open.spotify.com/album/3dg9llrQbQFisFgbjtuJln) | 3:44 |
-| 20 | [Recién Soltera](https://open.spotify.com/track/62NnbMclYuQuF09B0ShIPV) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Recién Soltera](https://open.spotify.com/album/5cSGLKp6GpfyYBjtCp2T2D) | 3:03 |
+| 20 | [Sentimiento Mágico \(feat\. FLOUSES\) \- Remix](https://open.spotify.com/track/3ApX5mxf1DYrgRTWstFVXV) | [Benja Valencia](https://open.spotify.com/artist/2N4rDzKt2aZK1ksES0YKBP), [SINAKA](https://open.spotify.com/artist/14jYF182Dap3pcHNfSxAUl), [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu), [FLOUSES](https://open.spotify.com/artist/79uEbaIj1KmIfSa220Fawm) | [Sentimiento Mágico \(feat\. FLOUSES\) \[Remix\]](https://open.spotify.com/album/4uqgHKAFAFiBXchoUpWD9X) | 4:51 |
 | 21 | [No Puedo](https://open.spotify.com/track/6MbSMSXrSlvsyHf4kcaLQi) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Homerun](https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn) | 2:55 |
-| 22 | [Sentimiento Mágico \(feat\. FLOUSES\) \- Remix](https://open.spotify.com/track/3ApX5mxf1DYrgRTWstFVXV) | [Benja Valencia](https://open.spotify.com/artist/2N4rDzKt2aZK1ksES0YKBP), [SINAKA](https://open.spotify.com/artist/14jYF182Dap3pcHNfSxAUl), [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu), [FLOUSES](https://open.spotify.com/artist/79uEbaIj1KmIfSa220Fawm) | [Sentimiento Mágico \(feat\. FLOUSES\) \[Remix\]](https://open.spotify.com/album/4uqgHKAFAFiBXchoUpWD9X) | 4:51 |
+| 22 | [Recién Soltera](https://open.spotify.com/track/62NnbMclYuQuF09B0ShIPV) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Recién Soltera](https://open.spotify.com/album/5cSGLKp6GpfyYBjtCp2T2D) | 3:03 |
 | 23 | [Chance](https://open.spotify.com/track/7hQwCAdC7EpLTp0hExtywN) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Back To The Game](https://open.spotify.com/album/2SWwDDBZG7UfECbPWQ2t4h) | 3:24 |
 | 24 | [Relax](https://open.spotify.com/track/7kkpwLgPSYzGWq3sM25Rvv) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Relax](https://open.spotify.com/album/6S9Hg5Ie8LHYTpCxUFZl1S) | 3:53 |
 | 25 | [Mujer Maravilla](https://open.spotify.com/track/5Ngqa0mESN79RkVf7YLYBE) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Mujer Maravilla](https://open.spotify.com/album/3FQcQcmVw3Xe5bFxB0VuCN) | 2:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22B8T3.md) - [plain]
 | 49 | [Luces](https://open.spotify.com/track/77UICuAzXRYuJqdhcy6R3m) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Luces](https://open.spotify.com/album/33y9UsVrEeUltpFdq8aPxZ) | 2:52 |
 | 50 | [Que Hicimo'](https://open.spotify.com/track/2tklBuZxZEEJMlhrlzc2CB) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Que Hicimo'](https://open.spotify.com/album/4S2JV29tQCqFWWNTxAdNQQ) | 2:45 |
 
-Snapshot ID: `afKbgAAAAACu0/A1xK1aTtjZ7Gduxagg`
+Snapshot ID: `afPtAAAAAABHU9OfQV+8I8kP136M+iz5`

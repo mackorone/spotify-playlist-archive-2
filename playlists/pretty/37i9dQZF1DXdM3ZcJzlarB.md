@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdM3ZcJzlarB.md) - [plain]
 
 > Electrónica Nacional, nuevos lanzamientos todas las semanas.<br/>📸 Mariano Mellino
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,083 likes - 100 songs - 8 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,081 likes - 100 songs - 8 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdM3ZcJzlarB.md) - [plain]
 | 99 | [Itaewon](https://open.spotify.com/track/07zE3OGZPveHE8AHA1grlC) | [Sol Ortega](https://open.spotify.com/artist/1a8L1wFGuk1SDOmAXhnvmO) | [Itaewon](https://open.spotify.com/album/6dfyyA3nH77j2MiFIsnV4R) | 5:24 |
 | 100 | [Campeón](https://open.spotify.com/track/5TpWybXTsLTUAj4WcUYkP0) | [ZULAN](https://open.spotify.com/artist/2Yz9F5lQVc0p6SDxkw2BvF) | [Campeón](https://open.spotify.com/album/5O3GNoKOWUnyvUQoGSceKy) | 2:53 |
 
-Snapshot ID: `AAAAAMwuiSqs+NstMeEBSjwDHukINFHH`
+Snapshot ID: `AAAAAGFfWbpf+Tx/aL2JOn3X/pQKa48d`

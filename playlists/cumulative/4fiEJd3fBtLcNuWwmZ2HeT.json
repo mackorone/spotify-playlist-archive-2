@@ -9265,6 +9265,24 @@
     },
     {
       "album": {
+        "name": "\u6771\u65b9\u771f\u83ef\u795e\u796d",
+        "url": "https://open.spotify.com/album/4AP6lMjgYrZ1TL0O29Rgxm"
+      },
+      "artists": [
+        {
+          "name": "IOSYS",
+          "url": "https://open.spotify.com/artist/7lw3txgTpihF2On2QVtldq"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207258,
+      "name": "\u884c\u5217\u306e\u3067\u304d\u308b\u3048\u30fc\u308a\u3093\u8a3a\u7642\u6240",
+      "url": "https://open.spotify.com/track/48MDfmg92Za0nfWRLP8GCH"
+    },
+    {
+      "album": {
         "name": "\u304d\u304f\u304a\u30df\u30af2",
         "url": "https://open.spotify.com/album/26tBjFO9k2Aq7j72p0nTol"
       },

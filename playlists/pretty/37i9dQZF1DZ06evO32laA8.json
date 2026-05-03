@@ -6,8 +6,24 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afKbgAAAAAB7EAeR8WgZEWadLI6jw4sO",
+  "snapshot_id": "afPtAAAAAACrZRt/2O7FMjCiK5lAy4bT",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hallucination",
+        "url": "https://open.spotify.com/album/3yMcy9pftiW6sPrscdImlT"
+      },
+      "artists": [
+        {
+          "name": "Isabel LaRosa",
+          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
+        }
+      ],
+      "duration_ms": 202585,
+      "name": "Hallucination",
+      "url": "https://open.spotify.com/track/3Fcnn90rR3xPYf1yluDyhu"
+    },
     {
       "added_at": null,
       "album": {

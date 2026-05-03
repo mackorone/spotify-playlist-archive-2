@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwsewzfZ9YU.md) - [plain]
 
 > the best in hardcore\. open the pit w/ Terror.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,495 likes - 101 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,516 likes - 101 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwsewzfZ9YU.md) - [plain]
 | 100 | [Oblivion](https://open.spotify.com/track/4UxND1j0BxMcNgt10yKSsG) | [GRAY STATE](https://open.spotify.com/artist/5TyGuNQ9ibfEiRE3Oyn3kk) | [Oblivion](https://open.spotify.com/album/50y7ISY6ONiOgZVh24UHRq) | 3:35 |
 | 101 | [Intro / Survival](https://open.spotify.com/track/1W4bTPQdnNpvaykn5SWr3W) | [Zero Chill](https://open.spotify.com/artist/513KP9sp59G7UGL6uZkFhF) | [Rat Trap](https://open.spotify.com/album/3PELdxraf5jAskFmaZRkkZ) | 2:08 |
 
-Snapshot ID: `AAAAAOHvyjimQdqkokCedPkqs5OnIGg9`
+Snapshot ID: `AAAAAOvPgIpsymgcNWCJ+eQpellbLLFJ`

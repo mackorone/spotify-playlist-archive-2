@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXCzcvFxzeno.md) - [plain]
 
 > 😈 welcome to the rave 😈  Cover: Sara Landry
 
-[Spotify](https://open.spotify.com/user/spotify) - 494,947 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 495,185 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXCzcvFxzeno.md) - [plain]
 | 99 | [Mystical Energy](https://open.spotify.com/track/6jQJKutPT5MicGc9jvgFhu) | [Alignment](https://open.spotify.com/artist/4eFbq5PZgW7YbtA65PP4wS) | [Mystical Energy EP](https://open.spotify.com/album/6urgbmkPO0TUtsAdS1ityi) | 5:20 |
 | 100 | [Hypnotise](https://open.spotify.com/track/6EZz5l9orMw7FJdLzw73to) | [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [Enveak](https://open.spotify.com/artist/3CzQUOQ8Adb258xxKHHngS), [SURAYA](https://open.spotify.com/artist/19IffvUJTt3a7c1vPXENF3), [SHOWTEKNO](https://open.spotify.com/artist/6nKoiURdxdyE4ZKICS69GD) | [Hypnotise](https://open.spotify.com/album/05eqUNKxERcApF85qG9BkZ) | 2:53 |
 
-Snapshot ID: `AAAAAOen86GuGWixYIG0jT0txO2Zk0k0`
+Snapshot ID: `AAAAAAvz5YJMYRtSg1eFfbP1aFWV9prr`

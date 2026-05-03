@@ -5282,7 +5282,7 @@
       ],
       "date_added": "2025-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 240520,
       "name": "Como Eran Las Cosas",
       "url": "https://open.spotify.com/track/61qPUnazSdkvua4wgA4L8C"
@@ -17860,7 +17860,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-01",
+      "date_removed": null,
       "duration_ms": 185271,
       "name": "Pa Que Escondernos",
       "url": "https://open.spotify.com/track/7d3UXsXrZdXhyEdh1ccnmt"
@@ -20288,7 +20288,7 @@
       ],
       "date_added": "2025-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-30",
+      "date_removed": null,
       "duration_ms": 141500,
       "name": "Quedate",
       "url": "https://open.spotify.com/track/1Xua15a4cEbIRkEWkHBSxT"
@@ -21574,7 +21574,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 148635,
       "name": "Sal\u00ed a Robarte Corazones",
       "url": "https://open.spotify.com/track/1bPLxk9QsQqczKkJZJ7Inj"
@@ -25428,7 +25428,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-02",
+      "date_removed": null,
       "duration_ms": 153127,
       "name": "Tus Ojos No Me Ven | Variet\u00e9 #6",
       "url": "https://open.spotify.com/track/1cEfhLQvKy9n02yhmK076x"
@@ -26422,7 +26422,7 @@
       ],
       "date_added": "2026-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 130806,
       "name": "URUGUAY",
       "url": "https://open.spotify.com/track/2P17NwE5VjwX99Gu6eJ35z"
@@ -26674,7 +26674,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 235336,
       "name": "VeLD\u00c1",
       "url": "https://open.spotify.com/track/7d6yK8v8J484SWH5prIQiE"
@@ -28416,6 +28416,24 @@
       "duration_ms": 187172,
       "name": "Young Miko: Bzrp Music Sessions, Vol. 58",
       "url": "https://open.spotify.com/track/6VciS3dRMpZhJiDxT8ArFi"
+    },
+    {
+      "album": {
+        "name": "Zafar",
+        "url": "https://open.spotify.com/album/1ehGWfVIlfxpLgpnm0WItq"
+      },
+      "artists": [
+        {
+          "name": "LA NUEVA ESCUELA",
+          "url": "https://open.spotify.com/artist/5TeBsszZQTyqBX4eDHdtNx"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240698,
+      "name": "Zafar",
+      "url": "https://open.spotify.com/track/6aVCy2T8ZvzDiaSIQ2AZ6s"
     },
     {
       "album": {

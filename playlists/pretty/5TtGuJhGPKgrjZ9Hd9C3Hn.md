@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5TtGuJhGPKgrjZ9Hd9C3Hn.md) - [plain]
 
 > The Finest In Jazz Since 1939
 
-[Blue Note Records](https://open.spotify.com/user/bluenoterecords) - 47,726 likes - 120 songs - 12 hr 33 min
+[Blue Note Records](https://open.spotify.com/user/bluenoterecords) - 47,732 likes - 120 songs - 12 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -123,7 +123,7 @@ pretty - [cumulative](/playlists/cumulative/5TtGuJhGPKgrjZ9Hd9C3Hn.md) - [plain]
 | 113 | [What The World Needs Now Is Love](https://open.spotify.com/track/1oSvM0nCcZSaUFjKIu1sAf) | [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Valentine](https://open.spotify.com/album/379ITOn61QlGYoHwkdTVQ2) | 5:55 |
 | 114 | [Figure In Blue, memories of Duke](https://open.spotify.com/track/3ivpMHUv87YqLNcbqzIJda) | [Charles Lloyd](https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5) | [Figure In Blue](https://open.spotify.com/album/1qMMVXxfxe0rPsHunQzFe0) | 7:13 |
 | 115 | [Skylark](https://open.spotify.com/track/4MbpbaKx4xJf05nO7c8xqe) | [Lionel Loueke](https://open.spotify.com/artist/6q6EXv5ybArXqifMdmTIig) | [Karibu](https://open.spotify.com/album/7shHHC508rLgSibTTQfOPT) | 6:47 |
-| 116 | [Raindrops Keep Falling On My Head](https://open.spotify.com/track/2wf3Pnl5dzZVEwazL9MmHR) | [Gabrielle Cavassa](https://open.spotify.com/artist/6V9mKint0pfZjIbeFF9vQk) | [Diavola](https://open.spotify.com/album/4lQriMCxFMyor9TIJlvOxU) | 4:32 |
+| 116 | [Raindrops Keep Falling On My Head](https://open.spotify.com/track/2wf3Pnl5dzZVEwazL9MmHR) | [Gabrielle Cavassa](https://open.spotify.com/artist/6V9mKint0pfZjIbeFF9vQk), [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S) | [Diavola](https://open.spotify.com/album/4lQriMCxFMyor9TIJlvOxU) | 4:32 |
 | 117 | [Reflections \(Looking Back\)](https://open.spotify.com/track/0E5pTlH09CN6Z1JfFYWbcq) | [Dianne Reeves](https://open.spotify.com/artist/7nwrblOf59ulOiB6djwPVh) | [A Little Moonlight](https://open.spotify.com/album/2kI3zicMFYrMlRDHOLXJ7s) | 5:12 |
 | 118 | [The Duke](https://open.spotify.com/track/6RQBoUXjtB1YmUjtPb9WbA) | [Bill Charlap Trio](https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja) | [Street Of Dreams](https://open.spotify.com/album/61y1rgjqARtBJxEn4WEPPr) | 6:45 |
 | 119 | [The Call](https://open.spotify.com/track/2rb45s3pCXLMZGD1WiKFjG) | [Jacky Terrasson](https://open.spotify.com/artist/2I5A4xP3QGJEDKGhhXMAVr) | [53](https://open.spotify.com/album/4Z5gPQXauPwNq1XhzpwKA9) | 4:03 |

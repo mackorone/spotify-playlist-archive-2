@@ -1,12 +1,12 @@
 {
   "description": "This is imase. The essential tracks, all in one playlist.",
-  "num_followers": 26304,
+  "num_followers": 26305,
   "original_name": "This Is imase",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afKbgAAAAAB7xdB1cL4G9ywKhFuxuIID",
+  "snapshot_id": "afPtAAAAAABMZxFmbDs+hDP4wM2CIury",
   "tracks": [
     {
       "added_at": null,
@@ -463,6 +463,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "18",
+        "url": "https://open.spotify.com/album/4pyHUmAJzl9dZUvFwVzLe7"
+      },
+      "artists": [
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        }
+      ],
+      "duration_ms": 215866,
+      "name": "18",
+      "url": "https://open.spotify.com/track/20bxks5amfv7rVf8D6a1r7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wormhole / Yumi AraI",
         "url": "https://open.spotify.com/album/2BJD3fJ7bkUkGlkH0H0Yuv"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 232259,
       "name": "\u6587\u901a",
       "url": "https://open.spotify.com/track/7cZswqhGUHmoi7fsjstVQ7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "18",
-        "url": "https://open.spotify.com/album/4pyHUmAJzl9dZUvFwVzLe7"
-      },
-      "artists": [
-        {
-          "name": "imase",
-          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
-        }
-      ],
-      "duration_ms": 215866,
-      "name": "18",
-      "url": "https://open.spotify.com/track/20bxks5amfv7rVf8D6a1r7"
     },
     {
       "added_at": null,
@@ -739,22 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "EGOIST",
-        "url": "https://open.spotify.com/album/1s1zFebCh6OWUZiQDZtS9d"
-      },
-      "artists": [
-        {
-          "name": "imase",
-          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
-        }
-      ],
-      "duration_ms": 192226,
-      "name": "EGOIST",
-      "url": "https://open.spotify.com/track/19CpFIuodNeQHXuj156Ecq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u30c4\u30ca\u30ac\u30eb\u30a6\u30c1\u30e5\u30a6\uff01",
         "url": "https://open.spotify.com/album/39TMwItqzO5ze6rmqGKPuz"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 160000,
       "name": "\u30c4\u30ca\u30ac\u30eb\u30a6\u30c1\u30e5\u30a6\uff01",
       "url": "https://open.spotify.com/track/2ZM2H6KsI5pFJaa9O6PT9P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "EGOIST",
+        "url": "https://open.spotify.com/album/1s1zFebCh6OWUZiQDZtS9d"
+      },
+      "artists": [
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        }
+      ],
+      "duration_ms": 192226,
+      "name": "EGOIST",
+      "url": "https://open.spotify.com/track/19CpFIuodNeQHXuj156Ecq"
     },
     {
       "added_at": null,

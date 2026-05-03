@@ -286,7 +286,7 @@
       ],
       "date_added": "2026-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 225813,
       "name": "Child Actor",
       "url": "https://open.spotify.com/track/1hNrZ3l5SBRGf3u8bAm8yC"
@@ -754,7 +754,7 @@
       ],
       "date_added": "2023-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-26",
+      "date_removed": null,
       "duration_ms": 276213,
       "name": "Next Year",
       "url": "https://open.spotify.com/track/1WwWjG2FGbBK6IkBBTknao"
@@ -1486,6 +1486,24 @@
     {
       "album": {
         "name": "Your Favorite Toy",
+        "url": "https://open.spotify.com/album/5qKZaYgZJakL0qIE1kKgSJ"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "date_added": "2026-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176453,
+      "name": "Your Favorite Toy",
+      "url": "https://open.spotify.com/track/0L9RHQ6I91En6Ic1ILQAEF"
+    },
+    {
+      "album": {
+        "name": "Your Favorite Toy",
         "url": "https://open.spotify.com/album/1GlbwU0fG3s91TwcuTh4ea"
       },
       "artists": [
@@ -1496,7 +1514,7 @@
       ],
       "date_added": "2026-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 176453,
       "name": "Your Favorite Toy",
       "url": "https://open.spotify.com/track/2ZSOU8Fx9uRBW57nwfPVAL"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Z0nWFAx7KL.md) - [plain]
 
 > easy breezy music ☀️☺️
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,444 likes - 60 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,440 likes - 60 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Z0nWFAx7KL.md) - [plain]
 | 59 | [Used To Love](https://open.spotify.com/track/6MLmmZchetJCwxsefFtSnl) | [The Palm Tree Boy](https://open.spotify.com/artist/5lB74qNNVibQ8j05ckOWbP), [SEM](https://open.spotify.com/artist/0JpJNoSn9W5CtFDzjipKyD), [Sunflower](https://open.spotify.com/artist/7o5NxGi8B81v8YfSO6LK5w) | [Used To Love](https://open.spotify.com/album/0FDjTnAxUsE0qfcrEAoArb) | 2:13 |
 | 60 | [Magic](https://open.spotify.com/track/19PWHVgbnzUZjwKlkQwL5S) | [Shoby](https://open.spotify.com/artist/1VF2jmv5aWGszBtIVPt2fT), [James Stefano](https://open.spotify.com/artist/38Hlo0i9xWEI6JCe28nlzf) | [Magic](https://open.spotify.com/album/0RsT0bsW3tu6FYdIFEakpn) | 3:00 |
 
-Snapshot ID: `AAAAAPUHHPcrlCgSgkhpiyhzz1Kwaq8c`
+Snapshot ID: `AAAAAIGAjeZZpD5g+nrJ+ZyXDkjd3f9n`

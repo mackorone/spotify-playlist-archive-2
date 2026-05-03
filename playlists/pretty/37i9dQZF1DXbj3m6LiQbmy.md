@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 
 > Musica dalla comunità LGBQTIA+ 🇮🇹  Santamarea in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,283 likes - 61 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,284 likes - 61 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 | 60 | [Cambiare l’acqua ai fiori](https://open.spotify.com/track/3hiWaxuxemFaqShQZwga4C) | [Mavie](https://open.spotify.com/artist/30GaJAaSibzoE6iOBSO9N7), [SƏDD](https://open.spotify.com/artist/6UmF8CLM8rEIIioHBpqbrs) | [Cambiare l’acqua ai fiori](https://open.spotify.com/album/3Q0PzrJz8h1svqQgOLMpQk) | 3:29 |
 | 61 | [Rumours of Bread](https://open.spotify.com/track/3gfHadzT6UhT1CxBBCDOuH) | [Valentina Magaletti](https://open.spotify.com/artist/0jPLDwuZUzb6qZdfi5XPHz) | [A Queer Anthology of Drums](https://open.spotify.com/album/2uTo1vk3l4YfFgZeMHikM9) | 1:21 |
 
-Snapshot ID: `AAAAAF68FADNncolKf2OQGbpUbrtfetv`
+Snapshot ID: `AAAAAJxCNTk/ldweT53UMoutp8FDaNX1`

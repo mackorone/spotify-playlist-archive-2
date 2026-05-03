@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4djsfT.md) - [plain]
 
 > This is KB\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,607 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,613 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4djsfT.md) - [plain]
 | 49 | [Santo \(HLY FOREVER\)](https://open.spotify.com/track/6XBH2c7HSzkWGgr5OkziXm) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo), [Brenno](https://open.spotify.com/artist/7lBcEp7abNiq3WyHT3RRqV), [Brunno Ramos](https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb) | [Santo \(HLY FOREVER\)](https://open.spotify.com/album/0CxDtqsBJbpiofMCp6MWtf) | 2:46 |
 | 50 | [Bank On It](https://open.spotify.com/track/4KAtRm6mrG0ENzFNX3Yrxw) | [Jay\-Way](https://open.spotify.com/artist/1RDbE3dM2bNNSTh88R4MQ7), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Bank On It](https://open.spotify.com/album/49QiBNqVMipFIgpGrFR0v4) | 2:17 |
 
-Snapshot ID: `afKbgAAAAACXpvN6RzjuIpMTyyVxi77j`
+Snapshot ID: `afPtAAAAAACuvz92aJ3UyU6DvPFFwxRk`

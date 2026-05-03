@@ -1,12 +1,12 @@
 {
   "description": "This is Mercy Chinwo. The essential tracks, all in one playlist.",
-  "num_followers": 14645,
+  "num_followers": 14644,
   "original_name": "This Is Mercy Chinwo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afKbgAAAAACukNKAca7y9ztPwveU0GRu",
+  "snapshot_id": "afPtAAAAAABtoBxRbRVBeDl8cUJ5Stg0",
   "tracks": [
     {
       "added_at": null,
@@ -783,6 +783,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "In His Will",
+        "url": "https://open.spotify.com/album/1pL4cc5JPJ9nk44TvNPhom"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 281701,
+      "name": "All Powerful and Sovereign",
+      "url": "https://open.spotify.com/track/50aHZPleDo8B9jSbLanqfj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "When You Say A Thing",
         "url": "https://open.spotify.com/album/58KaH3OCajM4VlwWV2XhXY"
       },
@@ -799,18 +815,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "In His Will",
-        "url": "https://open.spotify.com/album/1pL4cc5JPJ9nk44TvNPhom"
+        "name": "Jesus",
+        "url": "https://open.spotify.com/album/473sA5uXcDEmZaiyehhnOR"
       },
       "artists": [
+        {
+          "name": "Samsong",
+          "url": "https://open.spotify.com/artist/2vPVXxqaSgF7s5U5PrXNUS"
+        },
         {
           "name": "Mercy Chinwo",
           "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
         }
       ],
-      "duration_ms": 281701,
-      "name": "All Powerful and Sovereign",
-      "url": "https://open.spotify.com/track/50aHZPleDo8B9jSbLanqfj"
+      "duration_ms": 375563,
+      "name": "Jesus",
+      "url": "https://open.spotify.com/track/4oaP5L5MMPyIjRKA7hr0ya"
     },
     {
       "added_at": null,
@@ -899,26 +919,6 @@
       "duration_ms": 339880,
       "name": "Jesus United",
       "url": "https://open.spotify.com/track/5qH2JtPSnaETSCZI58k6bi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jesus",
-        "url": "https://open.spotify.com/album/473sA5uXcDEmZaiyehhnOR"
-      },
-      "artists": [
-        {
-          "name": "Samsong",
-          "url": "https://open.spotify.com/artist/2vPVXxqaSgF7s5U5PrXNUS"
-        },
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 375563,
-      "name": "Jesus",
-      "url": "https://open.spotify.com/track/4oaP5L5MMPyIjRKA7hr0ya"
     },
     {
       "added_at": null,

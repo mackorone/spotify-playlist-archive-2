@@ -1208,6 +1208,28 @@
     {
       "album": {
         "name": "Always You",
+        "url": "https://open.spotify.com/album/76a9ikTwHACMJZ38KZrDvp"
+      },
+      "artists": [
+        {
+          "name": "Nightwhisper",
+          "url": "https://open.spotify.com/artist/3ohYSQGPFMTdCJoFFrNNlV"
+        },
+        {
+          "name": "AURENZA",
+          "url": "https://open.spotify.com/artist/4osA1DTtVEc75xSK2GWZXz"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169250,
+      "name": "Always You",
+      "url": "https://open.spotify.com/track/4HR41izt1ipKNLVTkcFHt3"
+    },
+    {
+      "album": {
+        "name": "Always You",
         "url": "https://open.spotify.com/album/3g8e3UOV31B5WrD7GekgHs"
       },
       "artists": [
@@ -1218,7 +1240,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 169202,
       "name": "Always You",
       "url": "https://open.spotify.com/track/6nZAJWhdcKueQqIFFIgwCR"
@@ -1342,6 +1364,24 @@
       "duration_ms": 206000,
       "name": "Anoesjka",
       "url": "https://open.spotify.com/track/1OxFJUBy486AGM9K7e94sw"
+    },
+    {
+      "album": {
+        "name": "Another Day Old",
+        "url": "https://open.spotify.com/album/6ysOe0wZAYtjLBwU5z0jzc"
+      },
+      "artists": [
+        {
+          "name": "Eddie Dalton",
+          "url": "https://open.spotify.com/artist/2erFrAamkmB7DTmelZNrJr"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232641,
+      "name": "Another Day Old",
+      "url": "https://open.spotify.com/track/2eRLna0nT0yyJw8MyYBDMw"
     },
     {
       "album": {
@@ -1919,6 +1959,24 @@
     },
     {
       "album": {
+        "name": "Bar-Mitzvah",
+        "url": "https://open.spotify.com/album/2ViwDVuKHnZB19SPraHgu0"
+      },
+      "artists": [
+        {
+          "name": "Heuss L'enfoir\u00e9",
+          "url": "https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127382,
+      "name": "Bar-Mitzvah",
+      "url": "https://open.spotify.com/track/0HtbhFPKGWDyQ4DaqnDdXx"
+    },
+    {
+      "album": {
         "name": "Bare Minimum (Starboy)",
         "url": "https://open.spotify.com/album/3vnMnkcCgl4jF9E1IlKV4j"
       },
@@ -2306,7 +2364,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 154954,
       "name": "Berghain - Remix",
       "url": "https://open.spotify.com/track/7CI5IAi2z70tyJIVXxsHfw"
@@ -5787,6 +5845,24 @@
     },
     {
       "album": {
+        "name": "Eller \u00dczer",
+        "url": "https://open.spotify.com/album/5pMJtaEOanoR0cWndtA0p4"
+      },
+      "artists": [
+        {
+          "name": "Serkan Ni\u015fanc\u0131",
+          "url": "https://open.spotify.com/artist/5fEL815uzQRkyzW9wOfUTd"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198910,
+      "name": "Eller \u00dczer",
+      "url": "https://open.spotify.com/track/2wV6HTsxC6lk4XbMkzU3hA"
+    },
+    {
+      "album": {
         "name": "DECIDE",
         "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
       },
@@ -7971,6 +8047,24 @@
     },
     {
       "album": {
+        "name": "Hey mama",
+        "url": "https://open.spotify.com/album/5Db2jb8TxJERzblPpj0dl5"
+      },
+      "artists": [
+        {
+          "name": "HAMEX",
+          "url": "https://open.spotify.com/artist/2V16fiJ3HvYKclGULE2AW7"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207542,
+      "name": "Hey mama",
+      "url": "https://open.spotify.com/track/7vsEGQTnJC8IHWZSLky8O4"
+    },
+    {
+      "album": {
         "name": "High",
         "url": "https://open.spotify.com/album/1AA0SM5hlP1fHFPQilHU28"
       },
@@ -10006,7 +10100,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 185850,
       "name": "Jealous",
       "url": "https://open.spotify.com/track/1A4VLW48hd3N4leX2bkLs6"
@@ -11401,6 +11495,24 @@
     },
     {
       "album": {
+        "name": "Like a Prayer",
+        "url": "https://open.spotify.com/album/5idIpPylcHvSsVNoK6wMx5"
+      },
+      "artists": [
+        {
+          "name": "Josh Fawaz",
+          "url": "https://open.spotify.com/artist/4zyGcdTfhshxrcEY25jBOe"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130615,
+      "name": "Like a Prayer",
+      "url": "https://open.spotify.com/track/5eh2pLJmBVjgtUzKl7Ambt"
+    },
+    {
+      "album": {
         "name": "Limburgs Habitat",
         "url": "https://open.spotify.com/album/7aU4kqacpIuITbh9FaJ94f"
       },
@@ -12208,7 +12320,7 @@
       ],
       "date_added": "2026-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-02",
+      "date_removed": null,
       "duration_ms": 212168,
       "name": "Make You Whole (Radio Edit)",
       "url": "https://open.spotify.com/track/2WpRJJJzf2WM6IP0zr5aaB"
@@ -12598,7 +12710,7 @@
       ],
       "date_added": "2026-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 248307,
       "name": "MAYBE - UKG / SPEED GARAGE",
       "url": "https://open.spotify.com/track/3OTZPHuI58oQixbk6FojWE"
@@ -14586,7 +14698,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 173312,
       "name": "Ola ole olee",
       "url": "https://open.spotify.com/track/0Ul3G0uGWfI2qPYjVVv4ix"
@@ -15420,7 +15532,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 131437,
       "name": "PINKY UP",
       "url": "https://open.spotify.com/track/4KmkJjHTNlr1jFY56Lyz4E"
@@ -16471,6 +16583,28 @@
     },
     {
       "album": {
+        "name": "The Devil Wears Prada 2 (Music From The Motion Picture)",
+        "url": "https://open.spotify.com/album/5FKnRUB5lt7z5ac1lmu3BE"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "date_added": "2026-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171010,
+      "name": "RUNWAY",
+      "url": "https://open.spotify.com/track/5jZHUZY0vQsH6A5gqFveJf"
+    },
+    {
+      "album": {
         "name": "RUNWAY",
         "url": "https://open.spotify.com/album/0WY1wVmchFYlH4f1yZMc90"
       },
@@ -16486,7 +16620,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 171010,
       "name": "RUNWAY",
       "url": "https://open.spotify.com/track/7BjcYqD0CqXnG45ezWSTYR"
@@ -22206,7 +22340,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 166025,
       "name": "Yalla FG",
       "url": "https://open.spotify.com/track/7cW3kzMwgWKRF9AuYp57w2"

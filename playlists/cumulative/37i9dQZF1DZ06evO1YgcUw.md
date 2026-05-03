@@ -4,7 +4,7 @@
 
 > This is The Beach Boys\. The essential tracks, all in one playlist.
 
-133 songs - 5 hr 45 min
+134 songs - 5 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,7 @@
 | [In My Room \- Remastered](https://open.spotify.com/track/62fX8EW16l8St2yL8rMer9) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Surfer Girl \(Remastered\)](https://open.spotify.com/album/1AhsZr98dNCfhO1XC4Ht7C) | 2:14 | 2022-09-17 |  |
 | [Kokomo](https://open.spotify.com/track/5qHYXcVvc9xsFB2uH7GpMN) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [The Very Best Of The Beach Boys: Sounds Of Summer](https://open.spotify.com/album/47VjIh8rgyMJJHNR98w0Kw) | 3:37 | 2022-09-17 |  |
 | [Kokomo](https://open.spotify.com/track/3wgxpFGbgAighXR6eo56nW) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [The Beach Boys With The Royal Philharmonic Orchestra](https://open.spotify.com/album/11IshdNymucuMOL1GcleRX) | 3:50 | 2022-10-18 | 2025-02-07 |
-| [Lady Lynda \- Remastered 2000](https://open.spotify.com/track/4wObUmV0gM20Rnahfo2FJ4) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [L.A\. \(Light Album\) \[Remastered\]](https://open.spotify.com/album/48nGKNICvdcZSWHwEkIIQz) | 3:59 | 2022-09-17 |  |
+| [Lady Lynda \- Remastered 2000](https://open.spotify.com/track/4wObUmV0gM20Rnahfo2FJ4) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [L.A\. \(Light Album\) \[Remastered\]](https://open.spotify.com/album/48nGKNICvdcZSWHwEkIIQz) | 3:59 | 2022-09-17 | 2026-05-03 |
 | [Lavender \- Take 4](https://open.spotify.com/track/0aSMm4gT44cPk9NwnIl19N) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Becoming the Beach Boys: The Complete Hite & Dorinda Morgan Sessions](https://open.spotify.com/album/1gubtTsNSrdWZc2GJJ5LR2) | 2:38 | 2022-09-17 | 2023-06-06 |
 | [Let's Go Away For A While \- Mono](https://open.spotify.com/track/3GsgJI1aBrvUtqX8f3MhKT) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Pet Sounds \(Original Mono & Stereo Mix\)](https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8) | 2:21 | 2022-09-17 | 2024-05-29 |
 | [Let's Go Away For Awhile](https://open.spotify.com/track/1kl9i2FGtcO34whpvwZb18) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Pet Sounds](https://open.spotify.com/album/2CNEkSE8TADXRT2AzcEt1b) | 2:24 | 2024-05-29 | 2024-09-12 |
@@ -135,6 +135,7 @@
 | [Whistle In \- Remastered 2001](https://open.spotify.com/track/35zgxz18meGLAaQ7pdUlsU) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Smiley Smile \(Remastered\)](https://open.spotify.com/album/37rNuexqEXWeSIOiJtn3A9) | 1:07 | 2023-11-10 |  |
 | [Wouldn't It Be Nice](https://open.spotify.com/track/2Gy7qnDwt8Z3MNxqat4CsK) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Pet Sounds \(Original Mono & Stereo Mix\)](https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8) | 2:33 | 2022-09-17 | 2023-12-14 |
 | [Wouldn't It Be Nice](https://open.spotify.com/track/4IHc6SzGPnzSPuHVEPzpJc) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Pet Sounds](https://open.spotify.com/album/2CNEkSE8TADXRT2AzcEt1b) | 2:33 | 2023-12-13 |  |
+| [Wouldn't It Be Nice \- Stack\-O\-Vocals](https://open.spotify.com/track/6EYOGETanZ5WjMWIw3N3Y3) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Wouldn't It Be Nice](https://open.spotify.com/album/5uAAQ8lvOIqjpIZEGPb7zQ) | 2:37 | 2026-05-03 |  |
 | [Wouldn’t It Be Nice](https://open.spotify.com/track/4gySZmwNJcFvVUR0SaELUK) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [The Beach Boys With The Royal Philharmonic Orchestra](https://open.spotify.com/album/11IshdNymucuMOL1GcleRX) | 3:13 | 2022-09-17 | 2025-10-02 |
 | [You Need A Mess Of Help To Stand Alone \- Live At Carnegie Hall](https://open.spotify.com/track/02OpsoLFQizrRkr4TxwGTI) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [You Need A Mess Of Help To Stand Alone \(Live At Carnegie Hall\)](https://open.spotify.com/album/1LQvNKNNDE7mSXQzqrZux7) | 3:31 | 2022-09-29 | 2022-12-08 |
 | [You Still Believe In Me](https://open.spotify.com/track/2xNZK0n7SV7qvV1AlH30Dp) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Pet Sounds](https://open.spotify.com/album/2CNEkSE8TADXRT2AzcEt1b) | 2:36 | 2023-09-09 |  |

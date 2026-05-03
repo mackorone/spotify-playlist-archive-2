@@ -1,12 +1,12 @@
 {
   "description": "This is Gerardo Ortiz. The essential tracks, all in one playlist.",
-  "num_followers": 477100,
+  "num_followers": 477135,
   "original_name": "This Is Gerardo Ortiz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afKbgAAAAADPLjl8SlAfB24b0N3B4/6M",
+  "snapshot_id": "afPtAAAAAAB8FHG9qGGjFUdk7SSz+c3Q",
   "tracks": [
     {
       "added_at": null,
@@ -512,9 +512,9 @@
           "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
         }
       ],
-      "duration_ms": 181826,
-      "name": "Me Voy",
-      "url": "https://open.spotify.com/track/5Cx2essf5FdkVjP0aJFywN"
+      "duration_ms": 217546,
+      "name": "Leyenda Caro Quintero",
+      "url": "https://open.spotify.com/track/69G9A49eLm8nLx6cCgLsek"
     },
     {
       "added_at": null,
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
         }
       ],
-      "duration_ms": 217546,
-      "name": "Leyenda Caro Quintero",
-      "url": "https://open.spotify.com/track/69G9A49eLm8nLx6cCgLsek"
+      "duration_ms": 181826,
+      "name": "Me Voy",
+      "url": "https://open.spotify.com/track/5Cx2essf5FdkVjP0aJFywN"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 
 > Spotify Japanのデイリー急上昇チャート。毎週月〜金曜日更新。4月30日付。
 
-[Spotify](https://open.spotify.com/user/spotify) - 323,483 likes - 49 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 323,497 likes - 49 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 | 43 | [Right On](https://open.spotify.com/track/5U6eOve1EBA0Z1v2zTomF1) | [WIM](https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz), [Jesse Barrera](https://open.spotify.com/artist/51KbY36mrjHRQwvSbel74l) | [Right On](https://open.spotify.com/album/016Ii6RB1OeFoP5zzHxlIV) | 3:00 |
 | 44 | [REDRED](https://open.spotify.com/track/2fCwv2ppU5nTRTckomIGsd) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [REDRED](https://open.spotify.com/album/52J8GQoNp2vgDJ6992NjiM) | 2:43 |
 | 45 | [beach NET](https://open.spotify.com/track/2x0erq9UYk12o7ZUkUtUVX) | [小山田マンスミ](https://open.spotify.com/artist/3LOaJ2E8v2mQvN2hQQFipd) | [beach NET](https://open.spotify.com/album/0SR2gaNuOwTZM9Q3yk0uSg) | 0:43 |
-| 46 | [No Tears On The Dancefloor](https://open.spotify.com/track/1LN9XD8fstMDvgI8RM4lpx) | [LEE CHAE YEON](https://open.spotify.com/artist/2nkZR6LwPxaAVtaVitNIPT) | [Till I Die](https://open.spotify.com/album/1NME7mvfv1WMEGJGcSF9bs) | 2:30 |
+| 46 | [No Tears On The Dancefloor](https://open.spotify.com/track/1LN9XD8fstMDvgI8RM4lpx) | [LEE CHAEYEON](https://open.spotify.com/artist/2nkZR6LwPxaAVtaVitNIPT) | [Till I Die](https://open.spotify.com/album/1NME7mvfv1WMEGJGcSF9bs) | 2:30 |
 | 47 | [This is who I am](https://open.spotify.com/track/1yBrxyqT56pCeCxmKQ1MkE) | [NOAHRI](https://open.spotify.com/artist/09tiq23cyNN66fhNuj6rB8) | [ODYSSEY](https://open.spotify.com/album/532BH4vaymoFHPTLqowQ5k) | 3:49 |
 | 48 | [Beat It](https://open.spotify.com/track/3BovdzfaX4jb5KFQwoPfAw) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ) | 4:18 |
 | 49 | [Fire In My Soul](https://open.spotify.com/track/6WuEfJMRmX865YsvnM9Rpv) | [Charin Mendes](https://open.spotify.com/artist/0oAHxVBwb9WKz52MCCz6YP) | [Fire In My Soul](https://open.spotify.com/album/2WclcQl5tY72h0qFGubkbH) | 3:41 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30D074EWuy7.md) - [plain]
 
 > La playlist del jazz italiano, passato e presente\. Cover: Carolina Bubbico
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,330 likes - 100 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,338 likes - 100 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30D074EWuy7.md) - [plain]
 | 99 | [Bajone](https://open.spotify.com/track/19OFvkqZzpzoxupIWbHJy3) | [Amalafede](https://open.spotify.com/artist/20vFRu6alusJsfebNWUeP0) | [Kairòs](https://open.spotify.com/album/20FcZHGXk5gO2HRTXC0wbQ) | 4:39 |
 | 100 | [Bugiardo, incosciente](https://open.spotify.com/track/3DXgG3Nncn1x9qrpZHZl0V) | [Jula De Palma](https://open.spotify.com/artist/5lW8wX7Dvny7gTTfql8755) | [Julia de Palma In Concert](https://open.spotify.com/album/3Jwv7FkYyegDB5Pl6V8pQL) | 4:43 |
 
-Snapshot ID: `AAAAAMbOnx/LVmBfbNojDfWjXThrbLzh`
+Snapshot ID: `AAAAAPUT5MXhuEJ650Mly1zAVN7sOPOh`

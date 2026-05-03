@@ -1,12 +1,12 @@
 {
   "description": "This is Rich Homie Quan. The essential tracks, all in one playlist.",
-  "num_followers": 21036,
+  "num_followers": 21037,
   "original_name": "This Is Rich Homie Quan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afKbgAAAAADQsSOsUwBGcFI+vjLUFQJJ",
+  "snapshot_id": "afPtAAAAAADCrK/vJwpGK2jlB4ktQClX",
   "tracks": [
     {
       "added_at": null,
@@ -123,22 +123,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Summer Sampler",
-        "url": "https://open.spotify.com/album/236GZxcyha7tPOExcuFFBK"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 239089,
-      "name": "Daddy",
-      "url": "https://open.spotify.com/track/2UDvJRFkOFCXbsnf9CsMbe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Still Goin In - Reloaded",
         "url": "https://open.spotify.com/album/7HXAggzDfYkYdZoc7sUjcd"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 261320,
       "name": "Type of Way",
       "url": "https://open.spotify.com/track/6nu35hLc8zsA9bwBpcuf5L"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Summer Sampler",
+        "url": "https://open.spotify.com/album/236GZxcyha7tPOExcuFFBK"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 239089,
+      "name": "Daddy",
+      "url": "https://open.spotify.com/track/2UDvJRFkOFCXbsnf9CsMbe"
     },
     {
       "added_at": null,
@@ -711,26 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Slime Season 2",
-        "url": "https://open.spotify.com/album/4N6sTUH8VjSMJrMLseaNWz"
-      },
-      "artists": [
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        },
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 276080,
-      "name": "Never Made Love (feat. Rich Homie Quan)",
-      "url": "https://open.spotify.com/track/7MmJgTnnl1Rgeu1PlYBx52"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "RG2",
         "url": "https://open.spotify.com/album/2ppw6DFuPFHi4EOGLxHX2F"
       },
@@ -751,6 +731,26 @@
       "duration_ms": 240801,
       "name": "Up Up And Away",
       "url": "https://open.spotify.com/track/2VBerpaTuZ0WXBREhe5eYw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Slime Season 2",
+        "url": "https://open.spotify.com/album/4N6sTUH8VjSMJrMLseaNWz"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 276080,
+      "name": "Never Made Love (feat. Rich Homie Quan)",
+      "url": "https://open.spotify.com/track/7MmJgTnnl1Rgeu1PlYBx52"
     },
     {
       "added_at": null,
@@ -875,26 +875,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Baby On Baby",
-        "url": "https://open.spotify.com/album/0O1PJ0t69iTO5yWrIeIga0"
-      },
-      "artists": [
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        },
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 192773,
-      "name": "Celebrate (feat. Rich Homie Quan)",
-      "url": "https://open.spotify.com/track/7uxbabRF4omY1MhmIgaZ6Y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "2 Rounds [Remix] (feat. Rich Homie Quan & Kevin Gates)",
         "url": "https://open.spotify.com/album/7stv82Fq3iVD7tZ1JTmWXs"
       },
@@ -915,6 +895,26 @@
       "duration_ms": 247384,
       "name": "2 Rounds [Remix] (feat. Rich Homie Quan & Kevin Gates)",
       "url": "https://open.spotify.com/track/3vk2vqP66qXKYoC5NU4qtO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Baby On Baby",
+        "url": "https://open.spotify.com/album/0O1PJ0t69iTO5yWrIeIga0"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        },
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 192773,
+      "name": "Celebrate (feat. Rich Homie Quan)",
+      "url": "https://open.spotify.com/track/7uxbabRF4omY1MhmIgaZ6Y"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3oRZ26ZzwxF.md) - [plain]
 
 > Le meilleur du rap africain francophone\. Photo : Ameka Zrai
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,888 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,961 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,12 +35,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3oRZ26ZzwxF.md) - [plain]
 | 25 | [AMADAN](https://open.spotify.com/track/59SNPmcXGLAMAmnUqQw2ZH) | [Lamine løssa](https://open.spotify.com/artist/2YkHQOwaaDFLiOar0oXqy6) | [AMADAN](https://open.spotify.com/album/76fbIrnYRRxc6zjykmBNwV) | 3:14 |
 | 26 | [Nobody](https://open.spotify.com/track/2kvzPVP8dE49fDg8N7Wb9k) | [døpelym](https://open.spotify.com/artist/6CIALFc80ExDhcy2xI6eJs) | [FREELYM](https://open.spotify.com/album/7hcmFVB5Pclui5v2kXDePS) | 2:37 |
 | 27 | [BLOCK](https://open.spotify.com/track/4kUsJ1k2xR5FrI3GttIulA) | [Retro.](https://open.spotify.com/artist/686DFXZx1kH3rMgsac1jUB) | [BLOCK](https://open.spotify.com/album/4YfHQnRvQz4QkAzN8Hqkay) | 2:20 |
-| 28 | [Moyo](https://open.spotify.com/track/02CJ2HE3SPd4i5gOSAJiGZ) | [Suspect95](https://open.spotify.com/artist/1iOxNiCG89VJAPdTzJKKQ9), [døpelym](https://open.spotify.com/artist/6CIALFc80ExDhcy2xI6eJs) | [Moyo](https://open.spotify.com/album/4mOmmakRUEhrNbMc0wQmA0) | 2:49 |
+| 28 | [Moyo](https://open.spotify.com/track/02CJ2HE3SPd4i5gOSAJiGZ) | [Suspect 95](https://open.spotify.com/artist/1iOxNiCG89VJAPdTzJKKQ9), [døpelym](https://open.spotify.com/artist/6CIALFc80ExDhcy2xI6eJs) | [Moyo](https://open.spotify.com/album/4mOmmakRUEhrNbMc0wQmA0) | 2:49 |
 | 29 | [JET SET](https://open.spotify.com/track/6FZZQalH51XLffDBwkh1JO) | [Ameka Zrai](https://open.spotify.com/artist/2PG1Fj7Mp49NqxNtjZdMsv), [OG Mahilet](https://open.spotify.com/artist/3WbcgjqtToJiTxZ3IlibGT), [Hoodbaby](https://open.spotify.com/artist/2QUhLhWyOfUIJnSCwmJNbY) | [JET SET](https://open.spotify.com/album/3hlJr1ryAyQ9mavdIqLneV) | 3:04 |
 | 30 | [Tout ira mieux \(Faut pas m'appeler\)](https://open.spotify.com/track/4UcUlUTjsGxfcYYupM4PTy) | [Paki Chenzu](https://open.spotify.com/artist/7CaZ0PyALKhFyvSLhnkpvB) | [Tout ira mieux \(Faut pas m'appeler\)](https://open.spotify.com/album/5yRMGyukQkl1CCIMMbnKyy) | 3:15 |
 | 31 | [Pression](https://open.spotify.com/track/57KmGF8jPwAiSXebjpLOC7) | [Sindika](https://open.spotify.com/artist/4ybznNtkCXSGMPkAfykkrV) | [INVASION TOME II](https://open.spotify.com/album/7uG8F9BVGaYGeAHZ2OqQnX) | 2:06 |
 | 32 | [Nienza](https://open.spotify.com/track/35fJYNbufm2t3YK16O1FUj) | [ADB](https://open.spotify.com/artist/3rNdf6wK0vycXyi6Di7VOL), [Troy](https://open.spotify.com/artist/5sq7wkuYDpTY6p8cWKplfw) | [Nienza](https://open.spotify.com/album/7Ak8bb5MXl4X7xQtNCJdHo) | 2:56 |
-| 33 | [HÉ TCHAI \(feat\. Jojo Le Barbu & Suspect95\)](https://open.spotify.com/track/2JU211mqTr6zscPs4kfqMU) | [Himra](https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS), [Jojo le Barbu](https://open.spotify.com/artist/2vTdlbSIfq0koZNrQB2WV9), [Suspect95](https://open.spotify.com/artist/1iOxNiCG89VJAPdTzJKKQ9) | [HÉ TCHAI \(feat\. Jojo Le Barbu & Suspect95\)](https://open.spotify.com/album/1f1twGZ4S4vGuV4BlFSxtm) | 4:57 |
+| 33 | [HÉ TCHAI \(feat\. Jojo Le Barbu & Suspect95\)](https://open.spotify.com/track/2JU211mqTr6zscPs4kfqMU) | [Himra](https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS), [Jojo le Barbu](https://open.spotify.com/artist/2vTdlbSIfq0koZNrQB2WV9), [Suspect 95](https://open.spotify.com/artist/1iOxNiCG89VJAPdTzJKKQ9) | [HÉ TCHAI \(feat\. Jojo Le Barbu & Suspect95\)](https://open.spotify.com/album/1f1twGZ4S4vGuV4BlFSxtm) | 4:57 |
 | 34 | [TANTINE](https://open.spotify.com/track/4mG3gwyKd9f1sKtSak6RlX) | [Waza no limite](https://open.spotify.com/artist/0J285nKY53u8GAlvywTPQb), [Elgor Beatz](https://open.spotify.com/artist/4AtBPAJFtolERPERU23kOr) | [TANTINE](https://open.spotify.com/album/3N0RPDXIALceLrVLs6JwZB) | 2:19 |
 | 35 | [Recommence](https://open.spotify.com/track/3ELmcYIi0PXmFXrnLeKwIt) | [Ameka Zrai](https://open.spotify.com/artist/2PG1Fj7Mp49NqxNtjZdMsv), [Emma'a](https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx) | [Flâ Ni](https://open.spotify.com/album/338CpWJ2T8WYv1ABjLEp5j) | 2:12 |
 | 36 | [Eliminé](https://open.spotify.com/track/7wbtGmNYsHRH0nWqRLje0X) | [Diesel Gucci](https://open.spotify.com/artist/3ZTd2WDHj0fn67xpiQ9DEi), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Eliminé](https://open.spotify.com/album/4H8jp47Allzo8anDKynAeM) | 3:58 |

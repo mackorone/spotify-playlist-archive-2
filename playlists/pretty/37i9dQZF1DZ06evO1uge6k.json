@@ -1,12 +1,12 @@
 {
   "description": "This is ZZ Top. The essential tracks, all in one playlist.",
-  "num_followers": 261854,
+  "num_followers": 261871,
   "original_name": "This Is ZZ Top",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afKbgAAAAABuTVYPGpRSf59iz3REMKou",
+  "snapshot_id": "afPtAAAAAABAJg+aBulIimSUps4GiRd+",
   "tracks": [
     {
       "added_at": null,
@@ -251,22 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tejas",
-        "url": "https://open.spotify.com/album/4orn4y9tLpEC0I3Mk5Y11K"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 186586,
-      "name": "Arrested for Driving While Blind",
-      "url": "https://open.spotify.com/track/21es9c3dvLYO0sRKeac1fQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Very Baddest of ZZ Top",
         "url": "https://open.spotify.com/album/3PvzCN4AY0dN3NsZ4c2i8z"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 179333,
       "name": "Sharp Dressed Man",
       "url": "https://open.spotify.com/track/6TSgC6JmLn6cJcUZVkRKow"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tejas",
+        "url": "https://open.spotify.com/album/4orn4y9tLpEC0I3Mk5Y11K"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 186586,
+      "name": "Arrested for Driving While Blind",
+      "url": "https://open.spotify.com/track/21es9c3dvLYO0sRKeac1fQ"
     },
     {
       "added_at": null,
@@ -523,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rio Grande Mud",
-        "url": "https://open.spotify.com/album/084ZK8EqqBrMgQGaor0tF2"
+        "name": "RAW (\u2018That Little Ol' Band From Texas\u2019 Original Soundtrack)",
+        "url": "https://open.spotify.com/album/1ffoQmr9pU3NXGz15QwKZw"
       },
       "artists": [
         {
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
         }
       ],
-      "duration_ms": 440946,
-      "name": "Sure Got Cold After the Rain Fell",
-      "url": "https://open.spotify.com/track/2kLUV1CN43PzxvEmpscZ45"
+      "duration_ms": 281586,
+      "name": "La Grange",
+      "url": "https://open.spotify.com/track/2YgjwTiG85B2tvqmdRNpba"
     },
     {
       "added_at": null,
@@ -555,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "RAW (\u2018That Little Ol' Band From Texas\u2019 Original Soundtrack)",
-        "url": "https://open.spotify.com/album/1ffoQmr9pU3NXGz15QwKZw"
+        "name": "Rio Grande Mud",
+        "url": "https://open.spotify.com/album/084ZK8EqqBrMgQGaor0tF2"
       },
       "artists": [
         {
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
         }
       ],
-      "duration_ms": 281586,
-      "name": "La Grange",
-      "url": "https://open.spotify.com/track/2YgjwTiG85B2tvqmdRNpba"
+      "duration_ms": 440946,
+      "name": "Sure Got Cold After the Rain Fell",
+      "url": "https://open.spotify.com/track/2kLUV1CN43PzxvEmpscZ45"
     },
     {
       "added_at": null,
@@ -583,22 +583,6 @@
       "duration_ms": 221626,
       "name": "Delirious",
       "url": "https://open.spotify.com/track/0AhIMik5qSUqlTLLRI9mdV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rio Grande Mud",
-        "url": "https://open.spotify.com/album/084ZK8EqqBrMgQGaor0tF2"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 213600,
-      "name": "Francine",
-      "url": "https://open.spotify.com/track/6EENMYtKyDz0lpCAYE5noI"
     },
     {
       "added_at": null,
@@ -631,6 +615,22 @@
       "duration_ms": 244826,
       "name": "Pearl Necklace",
       "url": "https://open.spotify.com/track/5ZgnPqNvtMFeLpahZUuLf3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rio Grande Mud",
+        "url": "https://open.spotify.com/album/084ZK8EqqBrMgQGaor0tF2"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 213600,
+      "name": "Francine",
+      "url": "https://open.spotify.com/track/6EENMYtKyDz0lpCAYE5noI"
     },
     {
       "added_at": null,

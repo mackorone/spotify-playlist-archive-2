@@ -1320,10 +1320,54 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 185227,
       "name": "Starling",
       "url": "https://open.spotify.com/track/5AYoaXGvbUYMnMlfAP62uT"
+    },
+    {
+      "album": {
+        "name": "Tails Noir (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/1fHotEKyTMFFpMCxssBoiy"
+      },
+      "artists": [
+        {
+          "name": "Danshin",
+          "url": "https://open.spotify.com/artist/2peNiVtIS127PmCOabTB4Q"
+        },
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        }
+      ],
+      "date_added": "2026-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200590,
+      "name": "Stay With Me, Pt. 2",
+      "url": "https://open.spotify.com/track/7pIsiyL5aLQnUDpf4qKhnB"
+    },
+    {
+      "album": {
+        "name": "Bait (Music From & Inspired by the Original Series)",
+        "url": "https://open.spotify.com/album/03ZfkSBjBDBWbI5b7yjtzX"
+      },
+      "artists": [
+        {
+          "name": "Anish Kumar",
+          "url": "https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8"
+        },
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        }
+      ],
+      "date_added": "2026-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209317,
+      "name": "Sweet Dreams (Are Made Of This)",
+      "url": "https://open.spotify.com/track/0cBwTa35pfbzD3vo5W519M"
     },
     {
       "album": {
@@ -1342,7 +1386,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-03",
       "duration_ms": 209317,
       "name": "Sweet Dreams (Are Made Of This)",
       "url": "https://open.spotify.com/track/4NypXu0M8Fjd2oS0npWFkb"

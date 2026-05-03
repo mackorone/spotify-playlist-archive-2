@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07X8UDWKEwP.md) - [plain]
 
 > Lo nuevo del mundo tropical\. Cover: Chavi Leons
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,732 likes - 49 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,787 likes - 49 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07X8UDWKEwP.md) - [plain]
 | 9 | [Vuelve](https://open.spotify.com/track/4ON0spZpKuq6LfxITWgkcV) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ), [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Vuelve](https://open.spotify.com/album/53BSZEU1P0G9DICDS19Fdg) | 3:31 |
 | 10 | [Apambichao](https://open.spotify.com/track/2bGtRhJdSGIjxrBtewOJqV) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Apambichao](https://open.spotify.com/album/48mh6SriOYbsgsJ5KgdV4B) | 2:27 |
 | 11 | [Dos Amantes](https://open.spotify.com/track/5Nnd7tvjwHjexXjhbl0WSD) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W) | [Dos Amantes](https://open.spotify.com/album/7KHlnJ9FBIEDnHi899L3yh) | 3:08 |
-| 12 | [El Pacto \- Versión Bachata](https://open.spotify.com/track/5zYIUJTYEFUPqYQye7O41F) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [El Pacto \(feat\. Manuel Turizo\) \[Bundle\]](https://open.spotify.com/album/4rmn8WMnLeLOpIThttxtjp) | 2:59 |
+| 12 | [El Pacto \(feat\. Manuel Turizo\) \- Versión Bachata](https://open.spotify.com/track/5zYIUJTYEFUPqYQye7O41F) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [El Pacto \(feat\. Manuel Turizo\) \[Bundle\]](https://open.spotify.com/album/4rmn8WMnLeLOpIThttxtjp) | 2:59 |
 | 13 | [Soy Tuyo](https://open.spotify.com/track/7HS1D1HsjTqy95jJxrBc8e) | [Luis Vazquez](https://open.spotify.com/artist/00zeZxu1UPkn8DKqNxgnyw), [Motiff](https://open.spotify.com/artist/5yjh35rXozitS6KLyjicLj) | [Soy Tuyo](https://open.spotify.com/album/2DZ7J2DinhXaNCDB10XgEF) | 3:10 |
 | 14 | [Es por ti](https://open.spotify.com/track/3YMjInKKh90vzjaLrezMpj) | [st\. Pedro](https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK) | [Es por ti](https://open.spotify.com/album/79xymMkKj4p3c7qEDU2but) | 2:59 |
 | 15 | [Abeja Blanca 2.0](https://open.spotify.com/track/69jbycDGeZArbbyORcSU3q) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df), [Michael Flores](https://open.spotify.com/artist/2gATjk9j2u50i0HmXZySZY) | [Abeja Blanca 2.0](https://open.spotify.com/album/1tll3iQ4eBLo9RUSd6upN9) | 3:16 |

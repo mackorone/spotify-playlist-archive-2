@@ -1,12 +1,12 @@
 {
   "description": "This is Offset. The essential tracks, all in one playlist.",
-  "num_followers": 119692,
+  "num_followers": 119693,
   "original_name": "This Is Offset",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afKbgAAAAADJwafdLlAXIIYWIQ8VC6KI",
+  "snapshot_id": "afPtAAAAAABtfLUHr13KQyMEeOVu1OqD",
   "tracks": [
     {
       "added_at": null,
@@ -647,8 +647,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Swing My Way",
-        "url": "https://open.spotify.com/album/48wyjtn53vHqRuQsusH04z"
+        "name": "FATHER OF 4",
+        "url": "https://open.spotify.com/album/6bPpXqJRpjwy0hLyUGtzYc"
       },
       "artists": [
         {
@@ -656,9 +656,9 @@
           "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
         }
       ],
-      "duration_ms": 179933,
-      "name": "Swing My Way",
-      "url": "https://open.spotify.com/track/4wFiEt5XdXVcUAxcMRZnCR"
+      "duration_ms": 241440,
+      "name": "Red Room",
+      "url": "https://open.spotify.com/track/4TWflhgevIGo448fWc6mQq"
     },
     {
       "added_at": null,
@@ -679,8 +679,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "FATHER OF 4",
-        "url": "https://open.spotify.com/album/6bPpXqJRpjwy0hLyUGtzYc"
+        "name": "Swing My Way",
+        "url": "https://open.spotify.com/album/48wyjtn53vHqRuQsusH04z"
       },
       "artists": [
         {
@@ -688,9 +688,9 @@
           "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
         }
       ],
-      "duration_ms": 241440,
-      "name": "Red Room",
-      "url": "https://open.spotify.com/track/4TWflhgevIGo448fWc6mQq"
+      "duration_ms": 179933,
+      "name": "Swing My Way",
+      "url": "https://open.spotify.com/track/4wFiEt5XdXVcUAxcMRZnCR"
     },
     {
       "added_at": null,

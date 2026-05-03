@@ -4,7 +4,7 @@
 
 > This is Big Mama Thornton\. The essential tracks, all in one playlist.
 
-198 songs - 11 hr 4 min
+200 songs - 11 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [I Smell A Rat](https://open.spotify.com/track/1AWq5kngyk5AnpNSxP7bdK) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Hound Dog / The Peacock Recordings](https://open.spotify.com/album/02B0EXcXyArity4IKXXo5S) | 1:45 | 2023-04-02 |  |
 | [I Smell a Rat](https://open.spotify.com/track/0cmaDKffwFzu66an87Yyc5) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [I Smell a Rat](https://open.spotify.com/album/4i1Hee68WI1eDY7EJQ6w1O) | 1:45 | 2023-07-09 | 2024-03-18 |
 | [I Smell a Rat](https://open.spotify.com/track/6ZNk5OwHUQereZqnUZClqX) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [I Smell a Rat](https://open.spotify.com/album/6gtCHbu0e2FQ4X2I6Y6rRj) | 1:45 | 2022-08-06 | 2023-03-26 |
+| [I'm All Fed Up](https://open.spotify.com/track/1ZzXQJJVaIsO5OsRapKR6c) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Partnership Blues](https://open.spotify.com/album/6LTo8WExXbvRn8yiVD7KeB) | 2:34 | 2026-05-03 |  |
 | [I'm All Fed Up](https://open.spotify.com/track/3lz4NsL7dgpkZcHQbViZP1) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [The Singles Collection 1951\-61](https://open.spotify.com/album/0d6eyA2kqKoZBBq5YmPd0f) | 2:35 | 2022-08-05 | 2023-02-04 |
 | [I'm Feeling Alright \- 1](https://open.spotify.com/track/1CUuRMphE7FKb1A44vP3Vu) | [Muddy Waters Blues Band](https://open.spotify.com/artist/3r8nssufxenC7JoWBfKfNK), [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Big Mama Thornton with the Muddy Waters Blues Band 1966](https://open.spotify.com/album/1GhQkAGbg2ciWb6BDNHKIB) | 3:01 | 2022-08-05 |  |
 | [I've Searched the Whole World Over](https://open.spotify.com/track/5gvUpcTigElYPgb9izbtoG) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [I Smell a Rat](https://open.spotify.com/album/4i1Hee68WI1eDY7EJQ6w1O) | 2:38 | 2024-02-01 | 2024-04-20 |
@@ -129,6 +130,7 @@
 | [Oh Happy Day](https://open.spotify.com/track/7licYK3c8r4IcQ4DyiHDeE) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Jail](https://open.spotify.com/album/21axeJzgy0XEWJAU8sx3SP) | 4:03 | 2022-08-05 |  |
 | [Partnership Blues](https://open.spotify.com/track/7qim9N7DJogtpRzT9hjlSD) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [I Smell a Rat](https://open.spotify.com/album/4i1Hee68WI1eDY7EJQ6w1O) | 2:40 | 2024-03-26 | 2024-03-28 |
 | [Partnership Blues](https://open.spotify.com/track/2Zk8PI9w7516G8u5iAxtv4) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Partnership Blues](https://open.spotify.com/album/0voSghiO7eWsm9N2Ahb8GA) | 2:40 | 2025-07-31 | 2025-11-28 |
+| [Partnership Blues](https://open.spotify.com/track/7aKCgq0HkColimbLin0gXW) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Partnership Blues](https://open.spotify.com/album/6LTo8WExXbvRn8yiVD7KeB) | 2:40 | 2026-05-03 |  |
 | [Partnership Blues](https://open.spotify.com/track/7pqi5KNMRF2OgDZTpDpWzq) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO), [The Joe Scott Orchestra](https://open.spotify.com/artist/4Rh5i0t7SMGdzk7UkvGMR7) | [Big Mama's Home \(35 Classic Tracks\)](https://open.spotify.com/album/6wr9tjkQJkVqYj4TwvALi2) | 2:42 | 2023-04-16 | 2023-05-17 |
 | [Rock Me Baby](https://open.spotify.com/track/4HYvUhFFqlzCpObJL8YBmp) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Vanguard Visionaries](https://open.spotify.com/album/0stTggxNXyDdU256QF94Z1) | 6:45 | 2022-08-05 |  |
 | [Rock\-A\-Bye Baby](https://open.spotify.com/track/3ydFlJpAMMjZtmXAyIacD8) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Real Cool Cat](https://open.spotify.com/album/4ZTvUA6m87dAY6tXAYV25p) | 2:32 | 2026-04-13 |  |

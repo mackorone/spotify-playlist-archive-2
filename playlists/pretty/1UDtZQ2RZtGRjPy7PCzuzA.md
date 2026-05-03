@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1UDtZQ2RZtGRjPy7PCzuzA.md) - [plain]
 
 > 
 
-[𝓁𝒾𝒶¹²](https://open.spotify.com/user/312yejiy4j6if5jxguepsue756fu) - 3 likes - 1,271 songs - 3 day 0 hr 45 min
+[𝓁𝒾𝒶¹²](https://open.spotify.com/user/312yejiy4j6if5jxguepsue756fu) - 3 likes - 1,273 songs - 3 day 0 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1279,5 +1279,7 @@ pretty - [cumulative](/playlists/cumulative/1UDtZQ2RZtGRjPy7PCzuzA.md) - [plain]
 | 1269 | [A Gathering Storm](https://open.spotify.com/track/4UjHCwSYfl0uWOyPktTv4u) | [André De Shields](https://open.spotify.com/artist/0vtjXmCLNmJti4fJ5dBhxc), [Reeve Carney](https://open.spotify.com/artist/7qDUWeBzKcDnh15yhYBf2U), [Eva Noblezada](https://open.spotify.com/artist/2praUrFAMThqstqmD6faQn), [Jewelle Blackman](https://open.spotify.com/artist/4TBsKdA7190eaHM5E2HQI9), [Yvette Gonzalez\-Nacer](https://open.spotify.com/artist/5wUluB4hpO7rTnPSUCqJNT), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s), [Kay Trinidad](https://open.spotify.com/artist/7yWvIWQVF6Cfj5YTsrHIin), [Hadestown Original Broadway Company](https://open.spotify.com/artist/3brvz8iY9RVIbbM8KDb3hH) | [Hadestown \(Original Broadway Cast Recording\)](https://open.spotify.com/album/1J1yxODbNlqKbwRqJxYJUP) | 1:33 |
 | 1270 | [Ring Ring Ring](https://open.spotify.com/track/1lTqq0aC6r2bXLviQ3oaVt) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 3:21 |
 | 1271 | [Dancing Queen \- From 'Mamma Mia!' Original Motion Picture Soundtrack](https://open.spotify.com/track/33trZRsRCHDPemnACBcLJJ) | [Meryl Streep](https://open.spotify.com/artist/2HB65P72dFRiOKvbLLcil2), [Julie Walters](https://open.spotify.com/artist/5Yi0y4bNdc04Oxk9l6nwXa), [Christine Baranski](https://open.spotify.com/artist/1L4nOFaQKejFy75REi9BKh) | [Mamma Mia! The Movie Soundtrack](https://open.spotify.com/album/6QtnCAFmqOwR75jOOmU7k9) | 4:04 |
+| 1272 | [Vaitimbora](https://open.spotify.com/track/0QAUgW2vTmlUWhbiNeSkWm) | [Mari Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S), [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan) | [Vaitimbora](https://open.spotify.com/album/0cIKxynxh628Q7qOyamXLe) | 2:15 |
+| 1273 | [Don't Stop Me Now \- Remastered 2011](https://open.spotify.com/track/5T8EDUDqKcs6OSOwEsfqG7) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Jazz \(2011 Remaster\)](https://open.spotify.com/album/2yuTRGIackbcReLUXOYBqU) | 3:29 |
 
-Snapshot ID: `AAAJPcC5Ikh2nf+ecBJrOgR8YsWnPsAY`
+Snapshot ID: `AAAJP3phAFvk6xW2DE9GZ4E04SwQc6AN`

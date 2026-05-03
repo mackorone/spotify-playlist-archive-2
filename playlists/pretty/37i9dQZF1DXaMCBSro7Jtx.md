@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMCBSro7Jtx.md) - [plain]
 
 > Celebrating 10 years of PC Music: The record label that changed pop music forever\. Cover art by <a href="https://www.instagram.com/tmthy.luke">Timothy Luke</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,435 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,448 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMCBSro7Jtx.md) - [plain]
 | 56 | [Sondico](https://open.spotify.com/track/3z5MZ00fhZ0yDAwHycxYo9) | [Finn Keane](https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW) | [Easyfun \- EP](https://open.spotify.com/album/7aKyFYCa8qqGjcWkZZBO5Z) | 2:52 |
 | 57 | [Doodle](https://open.spotify.com/track/4QTjAF7BfypmGxiXtP7YEK) | [Lipgloss Twins](https://open.spotify.com/artist/7y9CUgR1iq3nhSMRG2B6UF) | [Doodle](https://open.spotify.com/album/1dRhkH8JZYLGInIhhjnLEt) | 2:48 |
 | 58 | [over u](https://open.spotify.com/track/1kkASvsmmExjl42efcJfSG) | [ultra caro](https://open.spotify.com/artist/3ypTgZWVLSkBaTjFNjSDE8) | [Heartbeats/Heartbreaks](https://open.spotify.com/album/6uweU9CdxvCPnQ6zaTLlZl) | 4:16 |
-| 59 | [Only You \- Clark Remix](https://open.spotify.com/track/7t0s3aJquycYrRfo9Y1buo) | [Chris Lee Artiste](https://open.spotify.com/artist/02VPWD8AZ7qSuug0dM4Hk1), [Clark](https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta) | [Real Love Only You \(Remixes\)](https://open.spotify.com/album/7jETJILcp7SPDHmuJJIjTO) | 4:05 |
+| 59 | [Only You \- Clark Remix](https://open.spotify.com/track/7t0s3aJquycYrRfo9Y1buo) | [Chris Lee](https://open.spotify.com/artist/02VPWD8AZ7qSuug0dM4Hk1), [Clark](https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta) | [Real Love Only You \(Remixes\)](https://open.spotify.com/album/7jETJILcp7SPDHmuJJIjTO) | 4:05 |
 | 60 | [Part of Me](https://open.spotify.com/track/38JjHY7HjvZYnmEk8HYWZb) | [Hannah Diamond](https://open.spotify.com/artist/3sXErEOw7EmO6Sj7EgjHdU), [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD) | [Part of Me](https://open.spotify.com/album/6IXmnzmFAo7OKKhQuv6XZY) | 2:32 |
 | 61 | [2021](https://open.spotify.com/track/7sy4upvDMtpz0jDCech44W) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [7G](https://open.spotify.com/album/16NHNs15w1bpkFiBOUgDaB) | 1:56 |
 | 62 | [hi.tech](https://open.spotify.com/track/0PnrurbRK9JMwkVlIo5HbK) | [tonight.burns.red](https://open.spotify.com/artist/0Sw09Y8dRpdZXedzrjcK95) | [Month of Mayhem](https://open.spotify.com/album/0f3AzoDpzsFoSMe6EB90RY) | 5:30 |

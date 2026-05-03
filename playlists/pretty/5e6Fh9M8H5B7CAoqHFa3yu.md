@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 310 likes - 2,252 songs - 5 day 13 hr 23 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 310 likes - 2,255 songs - 5 day 13 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2260,5 +2260,8 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2250 | [The Rush](https://open.spotify.com/track/0PBz4H0I5zQOon1fKZbTiU) | [Gardening Club](https://open.spotify.com/artist/4tVR6UmVssdtcN2BY6fbmg) | [Gardening Club](https://open.spotify.com/album/2Ij0ymbmxaUSdEbWCjgJhW) | 1:36 |
 | 2251 | [ennui](https://open.spotify.com/track/70xCHfTbqEDUYiX28pNvQo) | [LadyBoy](https://open.spotify.com/artist/3EyEQIrSwLWmL5WikGao8Q) | [ennui](https://open.spotify.com/album/6Be5YT4sy6M8FjaJaILcGS) | 3:13 |
 | 2252 | [Мы будем радоваться жизни](https://open.spotify.com/track/3Ixm23ATHd8yETGP7S4tOc) | [the poet must die](https://open.spotify.com/artist/2D0En2asmzvF1FGNiXEGqf) | [Мы будем радоваться жизни](https://open.spotify.com/album/0bJ5TrgC7iAKatWzQtKH08) | 1:19 |
+| 2253 | [Trop Tard](https://open.spotify.com/track/4Jc87vJJuMZJs1sVCzihsl) | [ToloV](https://open.spotify.com/artist/4t3awapuIDzb4fGOMWR35Q) | [Trop Tard](https://open.spotify.com/album/4NIXc8GwWXnvo1TTMJEkWt) | 3:31 |
+| 2254 | [Eres \(cumbia\)](https://open.spotify.com/track/5n8PeHHXQl9Rchj1Qlw7Kn) | [OVE MARQUESIN](https://open.spotify.com/artist/0plb8N6XwOKnXuQFxHiD0t) | [Eres \(cumbia\)](https://open.spotify.com/album/37xqG4vHBHGfn7Kgb6LfTL) | 3:45 |
+| 2255 | [Asylum of the Mind](https://open.spotify.com/track/3BgakXbaYhofrzmBhGcPjg) | [AETHEROHM](https://open.spotify.com/artist/2fpzZutgwQNC0dLo6Ly5Ww) | [Asylum of the Mind](https://open.spotify.com/album/2vmZXsykEmnHmMOqEna3Jr) | 4:04 |
 
-Snapshot ID: `AAAJdUJHp6cYNW1+BsPVtkmtiEkRdUvb`
+Snapshot ID: `AAAJeIFHH44cULATnRtOvwP7eMP/2Hfk`

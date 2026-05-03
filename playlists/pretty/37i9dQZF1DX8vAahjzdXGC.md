@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari Ariel NOAH, Raisa, Lyodra, SIENNA SPIRO, Madonna, & Sabrina Carpenter, Louis Tomlinson dan masih banyak lagi dari dalam dan mancanegara.
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,028 likes - 105 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,080 likes - 105 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 91 | [BURN THE WITCH](https://open.spotify.com/track/15kyuCM5xLyafRa1CIA23M) | [PEGGY](https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh) | [BURN THE WITCH](https://open.spotify.com/album/6MdRPMohBeAld2aO2GmFpb) | 2:15 |
 | 92 | [keep your head up kid](https://open.spotify.com/track/45WBtl8nSjheQbjxPEqWq7) | [WRABEL](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [keep your head up kid](https://open.spotify.com/album/3AgxZBsMx8ikkIv4c1nDH5) | 4:25 |
 | 93 | [CEREMONY](https://open.spotify.com/track/7CoEOvI85tbkhdgJRd8XfC) | [QWER](https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy) | [4th Mini Album 'CEREMONY'](https://open.spotify.com/album/22TsuaiFzj7i9cIKFwKdyI) | 3:16 |
-| 94 | [No Tears On The Dancefloor](https://open.spotify.com/track/1LN9XD8fstMDvgI8RM4lpx) | [LEE CHAE YEON](https://open.spotify.com/artist/2nkZR6LwPxaAVtaVitNIPT) | [Till I Die](https://open.spotify.com/album/1NME7mvfv1WMEGJGcSF9bs) | 2:30 |
+| 94 | [No Tears On The Dancefloor](https://open.spotify.com/track/1LN9XD8fstMDvgI8RM4lpx) | [LEE CHAEYEON](https://open.spotify.com/artist/2nkZR6LwPxaAVtaVitNIPT) | [Till I Die](https://open.spotify.com/album/1NME7mvfv1WMEGJGcSF9bs) | 2:30 |
 | 95 | [Sign](https://open.spotify.com/track/29WdT0CvbaVoN5pbke3hXX) | [82MAJOR](https://open.spotify.com/artist/1wDstpO8XQNU6GV0S92663) | [FEELM](https://open.spotify.com/album/0U8OEGNR5aYwlY3TLXGVYS) | 2:49 |
 | 96 | [AWAKE](https://open.spotify.com/track/5GFthY4y9WiwEG68wNdGn1) | [CRAVITY](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) | [ReDeFINE](https://open.spotify.com/album/78OxOrAiiseIh63k1LmUWX) | 2:36 |
 | 97 | [Love You More](https://open.spotify.com/track/2JT8Ey1EajEe1VNgBzl9Ut) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo) | [Love You More](https://open.spotify.com/album/1EBqFLhJnUal2RgyWmA5rf) | 2:48 |
