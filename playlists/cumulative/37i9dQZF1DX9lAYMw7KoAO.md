@@ -2,7 +2,7 @@
 
 ### [African Gospel Hits](https://open.spotify.com/playlist/37i9dQZF1DX9lAYMw7KoAO)
 
-> The Hottest Christian and Gospel music from across the African continent\.   Cover: <a href=https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU?si=vtIr81d5Rqyej46rqc6M0A>Sunmisola Agbebi</a>
+> The Hottest Christian and Gospel music from across the African continent\.   Cover: <a href=https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI?si=TI71iCX6RYCoXIF3aDBgkw>Lawrence Oyor</a>
 
 483 songs - 1 day 20 hr 7 min
 

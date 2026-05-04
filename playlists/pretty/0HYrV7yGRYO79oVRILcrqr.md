@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,805 likes - 107 songs - 6 hr 57 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,804 likes - 111 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,5 +115,9 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 105 | [Stay Back](https://open.spotify.com/track/02wm1989sxHOnZJK9IY0EU) | [Jenny Scara](https://open.spotify.com/artist/0F4yegE6Xa3vC2KvCoJTGw) | [I've Got a Story to Tell](https://open.spotify.com/album/5Ssz0Vi0rbAGXRkF4hhOoX) | 2:25 |
 | 106 | [Seu Amor, Meu Paraíso](https://open.spotify.com/track/6kMQPeh5LOHJCHXysXk0zv) | [Breno Villares](https://open.spotify.com/artist/2wd82MEjOwoSa4FZkF8fdr) | [Seu Amor, Meu Paraíso](https://open.spotify.com/album/7KUk4FX7KjN3XxaQiHaYPC) | 4:30 |
 | 107 | [Quem Sou](https://open.spotify.com/track/05fXrnIC22Iz0lpg09jv0r) | [Rafael Zeferino](https://open.spotify.com/artist/31BZHZqE0MHlmHUSSxKQ9V) | [Quem Sou](https://open.spotify.com/album/2TeFatHS72Xv2zd1caUT0S) | 3:06 |
+| 108 | [Love Lies Cold](https://open.spotify.com/track/2ppN2JHxGi6wps7RBBlZUu) | [Julience](https://open.spotify.com/artist/4SlykBMGNk8EXDDFfphLvL) | [Love Lies Cold](https://open.spotify.com/album/4BvAfPva3VDcDqAvb8n9sO) | 4:11 |
+| 109 | [Rust and Ruin](https://open.spotify.com/track/3kB1rGX0EteP1IPVBXHlFU) | [The Copperhead Saints](https://open.spotify.com/artist/25r3BsZgbzPfLCarFu1zTS) | [Hymns for the Hard\-Hearted](https://open.spotify.com/album/76qFdjyzqdqGjFewTlreh2) | 5:04 |
+| 110 | [Nuove Rotte](https://open.spotify.com/track/59nbSqtxgppRtUVa65xwHk) | [Lorenzo Colucci](https://open.spotify.com/artist/4BRWgyOnIuVwX5T3yEpE6c) | [Nuove Rotte](https://open.spotify.com/album/3bMnU5S6r8mhq7Rt9sXkcd) | 3:15 |
+| 111 | [Catch Catch](https://open.spotify.com/track/2O9bMJticxbQ8FH3NiQ7Xh) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) | [LOVE CATCHER](https://open.spotify.com/album/1IxQnpYIIFY9F2IVVsD27F) | 3:00 |
 
-Snapshot ID: `AAALP9XxhbENzkMuMW1JC8SXZTwOCh/d`
+Snapshot ID: `AAALQ4hxmov8PNPABbhWSbOey5siJX+Y`

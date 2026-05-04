@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Puentecito para disfrutar toda la musica nueva de este finde ⭐️ Alvaro Diaz y LATIN MAFIA en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,173,863 likes - 80 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,173,820 likes - 80 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-30",
-  "description": "The best new music by independent Experimental artists. <a href=\"spotify:artist:7ll9lIFnSZ6CGl1MjZ4mrw\">Bono / Burattini</a> on cover. Artwork by Thami Nabil.",
+  "description": "The best new music by independent Experimental artists. <a href=\"spotify:artist:47lrOrvCYsOUCEQQsj119K\">Yung Singh</a> on cover. Artwork by Thami Nabil.",
   "name": "Fresh Finds Experimental",
   "tracks": [
     {
@@ -9293,6 +9293,24 @@
     },
     {
       "album": {
+        "name": "Devil's Hour",
+        "url": "https://open.spotify.com/album/1U4daTigP4MUgaRseu2nMg"
+      },
+      "artists": [
+        {
+          "name": "Cate Kennan",
+          "url": "https://open.spotify.com/artist/7EQwugjyMg6mNu2aNuHDqR"
+        }
+      ],
+      "date_added": "2026-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174555,
+      "name": "Devil's Hour",
+      "url": "https://open.spotify.com/track/6ETvI7qq9NXRLvAukPRMnn"
+    },
+    {
+      "album": {
         "name": "Paranormal Phenomena \u2013 The Icelandic Expedition",
         "url": "https://open.spotify.com/album/7of3FJV3PXkHQ1bWyiFqup"
       },
@@ -9452,7 +9470,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-04",
       "duration_ms": 146765,
       "name": "director's cut",
       "url": "https://open.spotify.com/track/61b3uyJnNh7d1v5NU7ttiT"
@@ -18373,6 +18391,28 @@
     },
     {
       "album": {
+        "name": "collaborate#1",
+        "url": "https://open.spotify.com/album/1sc4G8tbbv16nOp3rLm3yf"
+      },
+      "artists": [
+        {
+          "name": "SHIN KOKAWA",
+          "url": "https://open.spotify.com/artist/3Vg6ZWLfFLXKgHoE4xbE3k"
+        },
+        {
+          "name": "zezeco",
+          "url": "https://open.spotify.com/artist/2M6p4lAUqQmhLYqlEgvbQc"
+        }
+      ],
+      "date_added": "2026-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198648,
+      "name": "Iron Blooms",
+      "url": "https://open.spotify.com/track/2NkLjITt2hLYKsTBlsNRvX"
+    },
+    {
+      "album": {
         "name": "Irrational Ham Gobbler",
         "url": "https://open.spotify.com/album/05OHTxJqEU3C4ZuafWkhFJ"
       },
@@ -19160,7 +19200,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-04",
       "duration_ms": 523636,
       "name": "Karakoz",
       "url": "https://open.spotify.com/track/3sdIsTrWD4jwvuP6k1i8Yg"
@@ -19944,6 +19984,24 @@
       "duration_ms": 160000,
       "name": "lavender's love",
       "url": "https://open.spotify.com/track/2kGBG1VF6277Hd0w5X96WU"
+    },
+    {
+      "album": {
+        "name": "Law Riderz",
+        "url": "https://open.spotify.com/album/3cLBhe8bnGD225I5ZxPbyY"
+      },
+      "artists": [
+        {
+          "name": "Aziz Konkrite",
+          "url": "https://open.spotify.com/artist/7s8PJjvTY4nc7BCgCpB4Ok"
+        }
+      ],
+      "date_added": "2026-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363568,
+      "name": "Law Riderz",
+      "url": "https://open.spotify.com/track/2Xl5fgDdL48D5SuhpzpPA7"
     },
     {
       "album": {
@@ -23739,6 +23797,24 @@
     },
     {
       "album": {
+        "name": "M\u20acmo",
+        "url": "https://open.spotify.com/album/7zaqMeQxZfkv8kirRfr2Yy"
+      },
+      "artists": [
+        {
+          "name": "9ms",
+          "url": "https://open.spotify.com/artist/5BzIbMM8oKglvAIf2qFabb"
+        }
+      ],
+      "date_added": "2026-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220384,
+      "name": "M\u20acmo",
+      "url": "https://open.spotify.com/track/1uVVzZh0Ks3ftrv9vGdgZU"
+    },
+    {
+      "album": {
         "name": "Leidenzwang",
         "url": "https://open.spotify.com/album/4K6I05xVWVreQTMwG3oSy8"
       },
@@ -24888,6 +24964,24 @@
       "duration_ms": 279816,
       "name": "NPCs have feelings too",
       "url": "https://open.spotify.com/track/2NAb2HxL55cZRhATCQLw3t"
+    },
+    {
+      "album": {
+        "name": "NUG46",
+        "url": "https://open.spotify.com/album/4eeq6cNsykHCaB5yNhsAVy"
+      },
+      "artists": [
+        {
+          "name": "Yung Singh",
+          "url": "https://open.spotify.com/artist/47lrOrvCYsOUCEQQsj119K"
+        }
+      ],
+      "date_added": "2026-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344470,
+      "name": "NUG46",
+      "url": "https://open.spotify.com/track/0ipdaEBRDxWIigU5PfSUlU"
     },
     {
       "album": {
@@ -26328,7 +26422,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-04",
       "duration_ms": 189347,
       "name": "Peacherine Rag",
       "url": "https://open.spotify.com/track/5Q8G755U2bg7EdnTtrYR5N"
@@ -28068,7 +28162,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-04",
       "duration_ms": 227705,
       "name": "Ramunha",
       "url": "https://open.spotify.com/track/3Rzhk5DbM7bcWYJJ1L0VIh"
@@ -28350,7 +28444,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-04",
       "duration_ms": 253443,
       "name": "Remaining",
       "url": "https://open.spotify.com/track/65aUooGV1yBpAwg868XHKK"
@@ -30021,6 +30115,24 @@
     },
     {
       "album": {
+        "name": "Secret Garden",
+        "url": "https://open.spotify.com/album/5rSVBpgPTxN5UjwVg2WX4S"
+      },
+      "artists": [
+        {
+          "name": "Katatonic Silentio",
+          "url": "https://open.spotify.com/artist/422gpfV70aFki7wUwIUxXm"
+        }
+      ],
+      "date_added": "2026-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 439096,
+      "name": "Secret Garden",
+      "url": "https://open.spotify.com/track/5n6ZUXNRoo6mRpkb1lsg0s"
+    },
+    {
+      "album": {
         "name": "Secret of the Megafauna",
         "url": "https://open.spotify.com/album/39BFvLE1WNKS2kytZdCIlt"
       },
@@ -30684,6 +30796,24 @@
       "duration_ms": 57600,
       "name": "shy (interlude)",
       "url": "https://open.spotify.com/track/3hcCMlJbGqgjIcbE7N1R9b"
+    },
+    {
+      "album": {
+        "name": "Sprawll",
+        "url": "https://open.spotify.com/album/2tWTjkTZeqp86IZm50drOM"
+      },
+      "artists": [
+        {
+          "name": "Millia",
+          "url": "https://open.spotify.com/artist/2s4nsWdHh9a38uGcqeC3AD"
+        }
+      ],
+      "date_added": "2026-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312888,
+      "name": "Sidetrip Sprawl",
+      "url": "https://open.spotify.com/track/2BezKvkspHFoYgPw4CCMkz"
     },
     {
       "album": {
@@ -39136,7 +39266,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-04",
       "duration_ms": 272514,
       "name": "Walrus",
       "url": "https://open.spotify.com/track/2BRUjifFHb7ghFSo84F79V"
@@ -39782,7 +39912,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-04",
       "duration_ms": 125988,
       "name": "White",
       "url": "https://open.spotify.com/track/6DFbz0O5d1gK8PQWd7l94y"

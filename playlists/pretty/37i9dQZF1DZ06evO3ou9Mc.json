@@ -1,12 +1,12 @@
 {
   "description": "This is The Offspring. The essential tracks, all in one playlist.",
-  "num_followers": 435733,
+  "num_followers": 435773,
   "original_name": "This Is The Offspring",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afPtAAAAAAAP59a0Nf87Vx2YL2n6TPlL",
+  "snapshot_id": "afU+gAAAAABc1P+/08xhBmzVrvBvMLI4",
   "tracks": [
     {
       "added_at": null,
@@ -767,8 +767,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ixnay On The Hombre",
-        "url": "https://open.spotify.com/album/2PSgMApk089eV6e5LPbQeS"
+        "name": "Ignition",
+        "url": "https://open.spotify.com/album/1obNbVrcFQ00nbmC1ZsJT3"
       },
       "artists": [
         {
@@ -776,9 +776,9 @@
           "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
         }
       ],
-      "duration_ms": 265026,
-      "name": "Amazed",
-      "url": "https://open.spotify.com/track/0GlTcDHNVSbx1Oy8kQqRMB"
+      "duration_ms": 196373,
+      "name": "Kick Him When He's Down",
+      "url": "https://open.spotify.com/track/5r5pPZLoablansl2iYPohk"
     },
     {
       "added_at": null,
@@ -799,8 +799,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ignition",
-        "url": "https://open.spotify.com/album/1obNbVrcFQ00nbmC1ZsJT3"
+        "name": "Ixnay On The Hombre",
+        "url": "https://open.spotify.com/album/2PSgMApk089eV6e5LPbQeS"
       },
       "artists": [
         {
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
         }
       ],
-      "duration_ms": 196373,
-      "name": "Kick Him When He's Down",
-      "url": "https://open.spotify.com/track/5r5pPZLoablansl2iYPohk"
+      "duration_ms": 265026,
+      "name": "Amazed",
+      "url": "https://open.spotify.com/track/0GlTcDHNVSbx1Oy8kQqRMB"
     }
   ],
   "unique_name": "This Is The Offspring",

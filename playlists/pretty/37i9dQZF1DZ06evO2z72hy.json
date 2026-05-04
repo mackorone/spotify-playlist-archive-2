@@ -1,12 +1,12 @@
 {
   "description": "This is Gondwana. The essential tracks, all in one playlist.",
-  "num_followers": 91439,
+  "num_followers": 91443,
   "original_name": "This Is Gondwana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afPtAAAAAADyNVkMgwPvBUb6aAmVMCgW",
+  "snapshot_id": "afU+gAAAAAB7e6q7I1m2rmQbxmyfSdDC",
   "tracks": [
     {
       "added_at": null,
@@ -215,22 +215,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Crece",
-        "url": "https://open.spotify.com/album/3B5dbgQh0IvFD47xLnDvPr"
-      },
-      "artists": [
-        {
-          "name": "Gondwana",
-          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
-        }
-      ],
-      "duration_ms": 221839,
-      "name": "Give Your Love",
-      "url": "https://open.spotify.com/track/6SCxbGzB7xJBPqkEvobpFf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cali Roots Riddim 2023",
         "url": "https://open.spotify.com/album/2VV4AwkAHaWRJ3noJY6aWT"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 224986,
       "name": "Do It Right",
       "url": "https://open.spotify.com/track/4uuWMM30p5K10k7amGqJXM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Crece",
+        "url": "https://open.spotify.com/album/3B5dbgQh0IvFD47xLnDvPr"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "duration_ms": 221839,
+      "name": "Give Your Love",
+      "url": "https://open.spotify.com/track/6SCxbGzB7xJBPqkEvobpFf"
     },
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Resiliente",
-        "url": "https://open.spotify.com/album/1x6C4CFPw4B4w9KUguHQGo"
+        "name": "Alabanza",
+        "url": "https://open.spotify.com/album/6KPmpAVmsA13q5iz2ItPLS"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
         }
       ],
-      "duration_ms": 285986,
-      "name": "Peque\u00f1a dama",
-      "url": "https://open.spotify.com/track/5m5vk2GSAwfKCI4FNFiUsc"
+      "duration_ms": 188000,
+      "name": "Keep The Faith",
+      "url": "https://open.spotify.com/track/2Qq4l3G6w6WdfM1rKrEqBe"
     },
     {
       "added_at": null,
@@ -363,6 +363,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Resiliente",
+        "url": "https://open.spotify.com/album/1x6C4CFPw4B4w9KUguHQGo"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "duration_ms": 285986,
+      "name": "Peque\u00f1a dama",
+      "url": "https://open.spotify.com/track/5m5vk2GSAwfKCI4FNFiUsc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Alabanza",
         "url": "https://open.spotify.com/album/6KPmpAVmsA13q5iz2ItPLS"
       },
@@ -372,25 +388,9 @@
           "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
         }
       ],
-      "duration_ms": 188000,
-      "name": "Keep The Faith",
-      "url": "https://open.spotify.com/track/2Qq4l3G6w6WdfM1rKrEqBe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Could You Be Loved",
-        "url": "https://open.spotify.com/album/0dzaGDAdEAiuCeezX2COBK"
-      },
-      "artists": [
-        {
-          "name": "Gondwana",
-          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
-        }
-      ],
-      "duration_ms": 338653,
-      "name": "Could You Be Loved",
-      "url": "https://open.spotify.com/track/4coC1sxorLlTOs26ppswjS"
+      "duration_ms": 261493,
+      "name": "Alabanza",
+      "url": "https://open.spotify.com/track/1z7SPFBf9NlA4F2c6AvVQ7"
     },
     {
       "added_at": null,
@@ -427,6 +427,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Could You Be Loved",
+        "url": "https://open.spotify.com/album/0dzaGDAdEAiuCeezX2COBK"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "duration_ms": 338653,
+      "name": "Could You Be Loved",
+      "url": "https://open.spotify.com/track/4coC1sxorLlTOs26ppswjS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Alabanza",
         "url": "https://open.spotify.com/album/6KPmpAVmsA13q5iz2ItPLS"
       },
@@ -436,9 +452,9 @@
           "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
         }
       ],
-      "duration_ms": 261493,
-      "name": "Alabanza",
-      "url": "https://open.spotify.com/track/1z7SPFBf9NlA4F2c6AvVQ7"
+      "duration_ms": 254493,
+      "name": "Defendamos",
+      "url": "https://open.spotify.com/track/2KT2sqjXGxBY4YkWNX56XM"
     },
     {
       "added_at": null,
@@ -503,22 +519,6 @@
       "duration_ms": 204268,
       "name": "Bes\u00e1ndote",
       "url": "https://open.spotify.com/track/4loEDSI6ev2ZAD4tnWOmv4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Alabanza",
-        "url": "https://open.spotify.com/album/6KPmpAVmsA13q5iz2ItPLS"
-      },
-      "artists": [
-        {
-          "name": "Gondwana",
-          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
-        }
-      ],
-      "duration_ms": 254493,
-      "name": "Defendamos",
-      "url": "https://open.spotify.com/track/2KT2sqjXGxBY4YkWNX56XM"
     },
     {
       "added_at": null,
@@ -723,6 +723,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Revoluci\u00f3n (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/2q9SKZyjttHPnRTcV7cDAg"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "duration_ms": 260506,
+      "name": "Estoy Volviendo a Mi Hogar",
+      "url": "https://open.spotify.com/track/3Sw2qcUGbe8OwhIk2I1Tds"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "CrazyXXversario",
         "url": "https://open.spotify.com/album/3Pdlrki6kwTwAjaRCUAain"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 212354,
       "name": "AMOR SUICIDA",
       "url": "https://open.spotify.com/track/7bvHjhBit28ylRpfEXVzKt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Revoluci\u00f3n (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/2q9SKZyjttHPnRTcV7cDAg"
-      },
-      "artists": [
-        {
-          "name": "Gondwana",
-          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
-        }
-      ],
-      "duration_ms": 260506,
-      "name": "Estoy Volviendo a Mi Hogar",
-      "url": "https://open.spotify.com/track/3Sw2qcUGbe8OwhIk2I1Tds"
     },
     {
       "added_at": null,
@@ -795,22 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gondwana En Vivo En Buenos Aires",
-        "url": "https://open.spotify.com/album/5gF3S3q98Noxe5ECtnUN9K"
-      },
-      "artists": [
-        {
-          "name": "Gondwana",
-          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
-        }
-      ],
-      "duration_ms": 325450,
-      "name": "Divina verdad",
-      "url": "https://open.spotify.com/track/6w9TXZ2DROwK2KUtA41D4N"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Revoluci\u00f3n (Bonus Track Version)",
         "url": "https://open.spotify.com/album/2q9SKZyjttHPnRTcV7cDAg"
       },
@@ -843,22 +827,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Si T\u00fa No Est\u00e1s",
-        "url": "https://open.spotify.com/album/3UNLDMe86tqLPxyXz4dZHi"
+        "name": "Gondwana En Vivo En Buenos Aires",
+        "url": "https://open.spotify.com/album/5gF3S3q98Noxe5ECtnUN9K"
       },
       "artists": [
         {
           "name": "Gondwana",
           "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
-        },
-        {
-          "name": "E.N Young",
-          "url": "https://open.spotify.com/artist/14vjE0DKC1Y9G1WfdCSzFf"
         }
       ],
-      "duration_ms": 190660,
-      "name": "Si T\u00fa No Est\u00e1s",
-      "url": "https://open.spotify.com/track/4HtwQqBnhftAYqeiww9Rme"
+      "duration_ms": 325450,
+      "name": "Divina verdad",
+      "url": "https://open.spotify.com/track/6w9TXZ2DROwK2KUtA41D4N"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Revoluci\u00f3n (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/2q9SKZyjttHPnRTcV7cDAg"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "duration_ms": 256013,
+      "name": "Regreso",
+      "url": "https://open.spotify.com/track/4O5rHAUKMGT47CiZCN3wd2"
     }
   ],
   "unique_name": "This Is Gondwana",

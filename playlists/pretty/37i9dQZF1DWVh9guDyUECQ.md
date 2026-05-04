@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 
 > Lo nuevo del Trap, Rap y Reggaeton Cristiano\. <br/>Foto: Tommy Royale
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,865 likes - 70 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,872 likes - 70 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 | 69 | [Espiritu Santo \- REMIX](https://open.spotify.com/track/53DD8oh3xOGV4MJpsHeGZj) | [Tony Lisenko](https://open.spotify.com/artist/0zt0xDb82GL49mUxFWyLtH), [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz), [Christian Ponce](https://open.spotify.com/artist/4Xhe8s10yLiuTzG7k1Kq4W) | [Espiritu Santo \(REMIX\)](https://open.spotify.com/album/39vsfu8EfKsWvBg8Xyk0Ye) | 5:27 |
 | 70 | [Sigo Firme](https://open.spotify.com/track/1ko30tEQ1NcMTBNPTeZurH) | [Marky O](https://open.spotify.com/artist/2imiGAOjvr74j2uW3drLCi), [Natan El Profeta](https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf) | [Sigo Firme](https://open.spotify.com/album/3NGFEU6jnnJOqS90KdvfGW) | 3:18 |
 
-Snapshot ID: `AAAAAG0PgGVZYR+lkU099CU/BmCmQqsb`
+Snapshot ID: `AAAAAEpwIND4aRtMap6+EHzMeWfkt4xD`

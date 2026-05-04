@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8V4BE7YIpvE.md) - [plain]
 
 > Focus, game or just chill to these smooth synthwave beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 313,425 likes - 100 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 313,497 likes - 100 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8V4BE7YIpvE.md) - [plain]
 | 99 | [Drift \- slowed](https://open.spotify.com/track/2GlNSEWLhfJa6NlSCghTZM) | [Mellow Fields](https://open.spotify.com/artist/4LXaqntarVcHPpcLpRj8fr) | [Drift](https://open.spotify.com/album/3gI1g8OX11EyMeKnK5cenO) | 3:27 |
 | 100 | [Drift](https://open.spotify.com/track/2kwIEGhwRDoVcXX5QLUxft) | [Axl Rhodes](https://open.spotify.com/artist/5nlgdELJT2bvwCgU1ZCNf4), [Nightflyer](https://open.spotify.com/artist/1QoMEICpXIL1cNck2dWHIh) | [Drift](https://open.spotify.com/album/3xeoeiLfxVZ3P1QQlByPV7) | 3:50 |
 
-Snapshot ID: `AAAAAJF5sp1JGsRmIMFCcrcO6HD7+L0O`
+Snapshot ID: `AAAAAPfSUIvD9T82Wc0hZ8o3x2TG3hp8`

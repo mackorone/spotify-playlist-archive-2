@@ -1,12 +1,12 @@
 {
   "description": "This is Guns N' Roses. The essential tracks, all in one playlist.",
-  "num_followers": 1576005,
+  "num_followers": 1576044,
   "original_name": "This Is Guns N' Roses",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afPtAAAAAAAjHnUcriahi23IZBRWwxf7",
+  "snapshot_id": "afU+gAAAAAAnlpqPUxiVnzJRBL70PJqJ",
   "tracks": [
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Atlas",
-        "url": "https://open.spotify.com/album/0P33keaKPaDJ86EtpbaqFb"
-      },
-      "artists": [
-        {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
-        }
-      ],
-      "duration_ms": 238182,
-      "name": "Atlas",
-      "url": "https://open.spotify.com/track/1Ys7tQV4mNK3BbjLdZX18B"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Live Era '87-'93",
         "url": "https://open.spotify.com/album/3ZwjaVcnVo2TwhK8N8WWVs"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 187333,
       "name": "It's Alright - Live In Houston / 1992",
       "url": "https://open.spotify.com/track/7hNhaEqwJCmd4nizXsqtLX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Atlas",
+        "url": "https://open.spotify.com/album/0P33keaKPaDJ86EtpbaqFb"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "duration_ms": 238182,
+      "name": "Atlas",
+      "url": "https://open.spotify.com/track/1Ys7tQV4mNK3BbjLdZX18B"
     },
     {
       "added_at": null,

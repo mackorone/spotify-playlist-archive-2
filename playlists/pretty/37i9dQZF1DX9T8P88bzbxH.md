@@ -1,28 +1,39 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9T8P88bzbxH.md) - [plain](/playlists/plain/37i9dQZF1DX9T8P88bzbxH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX9T8P88bzbxH)
 
-### [On Tour Singapore: SIENNA SPIRO](https://open.spotify.com/playlist/37i9dQZF1DX9T8P88bzbxH)
+### [On Tour Singapore: TREASURE](https://open.spotify.com/playlist/37i9dQZF1DX9T8P88bzbxH)
 
-> One Night Only\. Cover: SIENNA SPIRO
+> One Night Only\. Cover: TREASURE
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,286 likes - 16 songs - 53 min 38 sec
+[Spotify](https://open.spotify.com/user/spotify) - 54,274 likes - 27 songs - 1 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [The Visitor](https://open.spotify.com/track/36OpC3NK7kQzcOo8qiCHaA) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [The Visitor](https://open.spotify.com/album/1vcbnpnQfghE8vRxhvUF60) | 3:48 |
-| 2 | [Die On This Hill](https://open.spotify.com/track/6QMrpllmjGhZlHQSZA9vaD) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [The Visitor](https://open.spotify.com/album/1vcbnpnQfghE8vRxhvUF60) | 3:37 |
-| 3 | [You Stole The Show](https://open.spotify.com/track/4GftEMWZ0KRpMjorBtPJDx) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [The Visitor](https://open.spotify.com/album/1vcbnpnQfghE8vRxhvUF60) | 3:27 |
-| 4 | [MAYBE.](https://open.spotify.com/track/62gBvs83UzqEmHr17OZ69g) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Die On This Hill](https://open.spotify.com/album/7GS4aKISJ2KgAm4aBhkzng) | 3:55 |
-| 5 | [Dream Police](https://open.spotify.com/track/28dklcm3EJZdGoO3ctUppc) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Die On This Hill](https://open.spotify.com/album/7GS4aKISJ2KgAm4aBhkzng) | 3:10 |
-| 6 | [BUTTERFLY EFFECT](https://open.spotify.com/track/2DDLo82E6CqgPrn5pmH2ea) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [SINK NOW, SWIM LATER](https://open.spotify.com/album/3I4wGPLbEK018FP6jk124k) | 2:31 |
-| 7 | [NEED ME](https://open.spotify.com/track/0ohipfuAvHaoVrlqc2WxZX) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [SINK NOW, SWIM LATER](https://open.spotify.com/album/3I4wGPLbEK018FP6jk124k) | 3:43 |
-| 8 | [I DON'T HATE YOU](https://open.spotify.com/track/2z4OdXwCLauEG1RLlJoe3B) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [SINK NOW, SWIM LATER](https://open.spotify.com/album/3I4wGPLbEK018FP6jk124k) | 2:41 |
-| 9 | [TAXI DRIVER](https://open.spotify.com/track/6QzcZNDU0LBOvYczYwqZjY) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [SINK NOW, SWIM LATER](https://open.spotify.com/album/3I4wGPLbEK018FP6jk124k) | 2:40 |
-| 10 | [BACK TO BLONDE](https://open.spotify.com/track/7BmTwDx8xkbJsmTLVVyDcK) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [SINK NOW, SWIM LATER](https://open.spotify.com/album/3I4wGPLbEK018FP6jk124k) | 2:44 |
-| 11 | [ORIGAMI](https://open.spotify.com/track/72NmXqiEP6N6eXBgEBzlWZ) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [SINK NOW, SWIM LATER](https://open.spotify.com/album/3I4wGPLbEK018FP6jk124k) | 3:02 |
-| 12 | [CYANIDE](https://open.spotify.com/track/1sPoYRQB8B0KPg6BnXwqcN) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [SINK NOW, SWIM LATER](https://open.spotify.com/album/3I4wGPLbEK018FP6jk124k) | 2:35 |
-| 13 | [Ain't No Way \- Live at KOKO](https://open.spotify.com/track/2wfOfZg3vvU3MzmImL7za8) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Ain't No Way \(Live at KOKO\)](https://open.spotify.com/album/67qbn01dGP9wr9STDyGjYK) | 4:39 |
-| 14 | [Die On This Hill \- At KOKO](https://open.spotify.com/track/0aXioWtlm2wb8YAgU6OsC4) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Ain't No Way \(Live at KOKO\)](https://open.spotify.com/album/67qbn01dGP9wr9STDyGjYK) | 3:53 |
-| 15 | [MAYBE\. \(Live from The Mews\)](https://open.spotify.com/track/2bBI7ueQ283hFipaREeXKM) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [MAYBE\. \(Live from The Mews\)](https://open.spotify.com/album/3Ki1UjZ39pE7SzER7LBj5u) | 3:59 |
-| 16 | [Dream Police \- A COLORS SHOW](https://open.spotify.com/track/5QyMmN69liMooUXqLCGnlv) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Dream Police \- A COLORS SHOW](https://open.spotify.com/album/3t17AlL92gAdEO0gjbZdJn) | 3:10 |
+| 1 | [MMM](https://open.spotify.com/track/56ZYY1cCJmQvcNZhUKhUBP) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE FIRST STEP : CHAPTER THREE](https://open.spotify.com/album/6fjGlzWNub2dRFWPWrOCAr) | 3:28 |
+| 2 | [KING KONG](https://open.spotify.com/track/0gZenxCArrqlFm4lLXevTq) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [KING KONG](https://open.spotify.com/album/43R91w6pa9rmQVPVjcPFTT) | 3:16 |
+| 3 | [BONA BONA](https://open.spotify.com/track/32W1dyO4NTHAthKprlz1vd) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [2ND FULL ALBUM 'REBOOT'](https://open.spotify.com/album/2Dk2Cj8BBnJngSoOfWjyL9) | 3:32 |
+| 4 | [BOY](https://open.spotify.com/track/5DdWgpzFMgBb8hl0dnEp4W) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE FIRST STEP : CHAPTER ONE](https://open.spotify.com/album/1eRPLg2vSNaNUfPfSjdi0Z) | 3:16 |
+| 5 | [JIKJIN](https://open.spotify.com/track/2bnJ8IxZnVc2YmUaX0sZap) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE SECOND STEP : CHAPTER ONE](https://open.spotify.com/album/17l09k7ZDb4GYwmsIVGcRZ) | 3:04 |
+| 6 | [MOVE \(T5\)](https://open.spotify.com/track/4zbjQQ7CDNMG47oF9q05FR) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [2ND FULL ALBUM 'REBOOT'](https://open.spotify.com/album/2Dk2Cj8BBnJngSoOfWjyL9) | 3:28 |
+| 7 | [THANK YOU \(ASAHI x HARUTO Unit\)](https://open.spotify.com/track/41GW9sI7kajNmon5HJGNH9) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE SECOND STEP : CHAPTER TWO](https://open.spotify.com/album/4l5YvRcmno5RMKZCZp1j0g) | 3:15 |
+| 8 | [VolKno \(CHOI HYUN SUK x YOSHI x HARUTO Unit\)](https://open.spotify.com/track/7BooMOppMbKhIRH6zrZUJB) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE SECOND STEP : CHAPTER TWO](https://open.spotify.com/album/4l5YvRcmno5RMKZCZp1j0g) | 3:15 |
+| 9 | [YELLOW](https://open.spotify.com/track/7jKwFhIqA1a1HLk6AsVDYc) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [SPECIAL MINI ALBUM \[PLEASURE\]](https://open.spotify.com/album/4Ek59vEmWeKZTWgFbWNZlL) | 3:11 |
+| 10 | [COME TO ME](https://open.spotify.com/track/1jkO79LWdg5RjkSZ2VfuTo) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE FIRST STEP : TREASURE EFFECT](https://open.spotify.com/album/5tQDFmW8QrZdTsICpLQBTL) | 3:24 |
+| 11 | [SARURU](https://open.spotify.com/track/59FZVzhkkFsu99ShD8ON8j) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [SPECIAL MINI ALBUM \[PLEASURE\]](https://open.spotify.com/album/4Ek59vEmWeKZTWgFbWNZlL) | 3:02 |
+| 12 | [BETTER THAN ME](https://open.spotify.com/track/0rqkjWRC8AZgwPHmGsL1jU) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [3rd MINI ALBUM \[LOVE PULSE\]](https://open.spotify.com/album/2vdCi7WRcjd2hRzwd4KeQ3) | 2:56 |
+| 13 | [NOW FOREVER](https://open.spotify.com/track/4ZXXyXuRguZ3El5pOhnKlz) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [3rd MINI ALBUM \[LOVE PULSE\]](https://open.spotify.com/album/2vdCi7WRcjd2hRzwd4KeQ3) | 3:04 |
+| 14 | [PARADISE](https://open.spotify.com/track/20pXBnV8q1xnWzSijxq6QM) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [3rd MINI ALBUM \[LOVE PULSE\]](https://open.spotify.com/album/2vdCi7WRcjd2hRzwd4KeQ3) | 2:50 |
+| 15 | [EVERYTHING](https://open.spotify.com/track/6Tm0qxHcwHLcees24hQOab) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [3rd MINI ALBUM \[LOVE PULSE\]](https://open.spotify.com/album/2vdCi7WRcjd2hRzwd4KeQ3) | 2:52 |
+| 16 | [B.L.T \(BLING LIKE THIS\)](https://open.spotify.com/track/0x7FHlHcZT0awEVE0Ahuhl) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE FIRST STEP : TREASURE EFFECT](https://open.spotify.com/album/5tQDFmW8QrZdTsICpLQBTL) | 3:25 |
+| 17 | [HELLO](https://open.spotify.com/track/1ex8euBuzVyqjThnYfwY2k) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE SECOND STEP : CHAPTER TWO](https://open.spotify.com/album/4l5YvRcmno5RMKZCZp1j0g) | 3:01 |
+| 18 | [I WANT YOUR LOVE](https://open.spotify.com/track/0xvad9jmdEnKOoLJHxhExG) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [2ND FULL ALBUM 'REBOOT'](https://open.spotify.com/album/2Dk2Cj8BBnJngSoOfWjyL9) | 3:08 |
+| 19 | [RUN](https://open.spotify.com/track/05IfpHQYEdcXjwQGshMiLT) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [2ND FULL ALBUM 'REBOOT'](https://open.spotify.com/album/2Dk2Cj8BBnJngSoOfWjyL9) | 3:30 |
+| 20 | [WONDERLAND](https://open.spotify.com/track/3RjiCdI7wLHDyvRplJQCig) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [2ND FULL ALBUM 'REBOOT'](https://open.spotify.com/album/2Dk2Cj8BBnJngSoOfWjyL9) | 2:58 |
+| 21 | [CLAP!](https://open.spotify.com/track/4LuSCNN7wRs6hqouAkGh9C) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE SECOND STEP : CHAPTER TWO](https://open.spotify.com/album/4l5YvRcmno5RMKZCZp1j0g) | 3:04 |
+| 22 | [DARARI](https://open.spotify.com/track/0dcnrLo8s1rhjm8euGjI4n) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE SECOND STEP : CHAPTER ONE](https://open.spotify.com/album/17l09k7ZDb4GYwmsIVGcRZ) | 3:40 |
+| 23 | [B.O.M.B](https://open.spotify.com/track/3GQBY6EdENHSRtBRiCchVW) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [2ND FULL ALBUM 'REBOOT'](https://open.spotify.com/album/2Dk2Cj8BBnJngSoOfWjyL9) | 3:21 |
+| 24 | [I LOVE YOU](https://open.spotify.com/track/3BkJFWBPdKp7e5HokmXv8N) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE FIRST STEP : CHAPTER TWO](https://open.spotify.com/album/0j5W5CQYZk94YFydK3HO9K) | 3:01 |
+| 25 | [LAST NIGHT](https://open.spotify.com/track/21z4JbxYftHk9Ertnhv3xB) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [LAST NIGHT](https://open.spotify.com/album/5XbOYpZ0LZQ41FhwCtxITr) | 2:58 |
+| 26 | [GOING CRAZY](https://open.spotify.com/track/6YFzL1910P0fRFh865HmI3) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE FIRST STEP : TREASURE EFFECT](https://open.spotify.com/album/5tQDFmW8QrZdTsICpLQBTL) | 3:44 |
+| 27 | [STUPID](https://open.spotify.com/track/6zFTH8KjEhbmZPB0CFpWEa) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [2ND FULL ALBUM 'REBOOT'](https://open.spotify.com/album/2Dk2Cj8BBnJngSoOfWjyL9) | 3:00 |
 
-Snapshot ID: `AAAAADFvy+9xplj3yFwwol9eBuT3h2pM`
+Snapshot ID: `AAAAAKu6Zf0vkyF6eOLqKS5rm4/EK1Ke`

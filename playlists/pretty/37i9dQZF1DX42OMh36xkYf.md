@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42OMh36xkYf.md) - [plain]
 
 > Resonancias extraordinarias de luminiscencia inclasificable\. Con Diamante Eléctrico en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,667 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,668 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42OMh36xkYf.md) - [plain]
 | 49 | [El Juego](https://open.spotify.com/track/32JCK5B9YEYNVpDNdZKZ32) | [Lorena Blume](https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W), [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [El Juego](https://open.spotify.com/album/2azntgtYhJNnQqjMNglofk) | 3:37 |
 | 50 | [No me digas que estás bien](https://open.spotify.com/track/0UetCgKu0GfX4FxP0tzNKd) | [DeGlorian](https://open.spotify.com/artist/4Rvuu3pP1wo4FFJIV5VpP1) | [TODO SE DERRUMBA](https://open.spotify.com/album/5ZkTUj9Jv4iFjyEhS2JL3u) | 2:45 |
 
-Snapshot ID: `AAAAANM2ItSzfMZqSTxPCblJuUtdFOZr`
+Snapshot ID: `AAAAAMwlWlbh5vMLorcD8s41vsHOWE0f`

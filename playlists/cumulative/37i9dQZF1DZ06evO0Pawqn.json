@@ -23,6 +23,28 @@
     },
     {
       "album": {
+        "name": "Alejate de Mi",
+        "url": "https://open.spotify.com/album/6oVHqIdCIvsp2lG77O3cRN"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        },
+        {
+          "name": "Nicky Rosse",
+          "url": "https://open.spotify.com/artist/3scQP4cD9pEVskg0go34wc"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178863,
+      "name": "Alejate de Mi",
+      "url": "https://open.spotify.com/track/0IUOHEG3OdCNDOctgDUlbk"
+    },
+    {
+      "album": {
         "name": "De la Tierra al Cielo VII",
         "url": "https://open.spotify.com/album/3gEDDLBunavFzx7qenQPuh"
       },
@@ -586,7 +608,7 @@
       ],
       "date_added": "2022-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-04",
       "duration_ms": 196075,
       "name": "El Libro de los Dioses",
       "url": "https://open.spotify.com/track/3whUtAF1vN1RGfMZ9QJ61P"

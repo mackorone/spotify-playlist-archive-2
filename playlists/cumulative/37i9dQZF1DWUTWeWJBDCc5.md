@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DWUTWeWJBDCc5.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUTWeWJBDCc5) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWUTWeWJBDCc5)
 
-### [Editor's Picks Korea: 4월의 노래](https://open.spotify.com/playlist/37i9dQZF1DWUTWeWJBDCc5)
+### [Editor's Picks Korea: 5월의 노래](https://open.spotify.com/playlist/37i9dQZF1DWUTWeWJBDCc5)
 
-> 스포티파이 뮤직 에디터가 선정한 4월의 노래를 만나보세요.
+> 스포티파이 뮤직 에디터가 선정한 5월의 노래를 만나보세요.
 
 174 songs - 9 hr 17 min
 

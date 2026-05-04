@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,297 likes - 123 songs - 7 hr 13 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,297 likes - 124 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -131,5 +131,6 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 121 | [RISE](https://open.spotify.com/track/0ibRgMJrrNUvPDmtYyBkmQ) | [The Pleasure Merchants](https://open.spotify.com/artist/0HLhZJBnQ6Sz23PW4cIyHF) | [RISE](https://open.spotify.com/album/2YaB8Qf03MLpRVAGZopKaO) | 4:11 |
 | 122 | [Fensterblick](https://open.spotify.com/track/6LgGyauokP9POhNgfiCkmo) | [GINSHER](https://open.spotify.com/artist/4JjoAxWIfPKrhuRZwGvOPS) | [Fensterblick](https://open.spotify.com/album/7BU1ICcPreRxSDag8mwRSM) | 2:47 |
 | 123 | [Legacy](https://open.spotify.com/track/7jOPhjdRyBB164fW32Ue6P) | [T\-WINNN](https://open.spotify.com/artist/5DgJEIByQ2L0y5Nmzw4zq0), [Crisisbeatzz](https://open.spotify.com/artist/4477MF4pLmodsnC5bLBM4x), [Chucky Cat](https://open.spotify.com/artist/3cEyhRbqLRp5Xhb7t9pzvL) | [Legacy](https://open.spotify.com/album/67RNmiKtujZncgztrWJRkv) | 4:13 |
+| 124 | [Shimmer](https://open.spotify.com/track/1US4crD9pXZuIHEGBTGOmV) | [The Multides](https://open.spotify.com/artist/0EBOhu8N5TYGpwRIWe1oQG) | [Shimmer](https://open.spotify.com/album/03NF1wfBJToukVqmRD1G62) | 4:13 |
 
-Snapshot ID: `AAATwUkF+OUB74tjIHTbPllU7pbHnerF`
+Snapshot ID: `AAATwh+UElfDCDNMOPd9/OEMkCYKWQpF`

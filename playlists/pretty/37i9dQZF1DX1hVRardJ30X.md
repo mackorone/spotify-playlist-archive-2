@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by ARIA VEGA, Eladio Carrion, Tito Double P, Alvaro Diaz & LATIN MAFIA and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 635,294 likes - 46 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 635,411 likes - 46 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

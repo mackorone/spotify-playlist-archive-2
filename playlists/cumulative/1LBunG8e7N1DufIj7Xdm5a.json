@@ -55373,6 +55373,24 @@
     },
     {
       "album": {
+        "name": "Red Sea",
+        "url": "https://open.spotify.com/album/5Yw6aE5sMft2MrkeV3osUg"
+      },
+      "artists": [
+        {
+          "name": "Thesis",
+          "url": "https://open.spotify.com/artist/2f2Lm3RVxYFYG2oqvbNxct"
+        }
+      ],
+      "date_added": "2026-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321703,
+      "name": "Red Sea",
+      "url": "https://open.spotify.com/track/65CBVvFFb0FxAGTrtIcpbB"
+    },
+    {
+      "album": {
         "name": "Red, White & Disrespect",
         "url": "https://open.spotify.com/album/4C8S0fmijazAvuxE4YORnY"
       },

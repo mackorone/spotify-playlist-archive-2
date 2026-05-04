@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afPtAAAAAACMKSt4/dOK/jZvoBKNYzG4",
+  "snapshot_id": "afU+gAAAAACQyqk3RTLEHe7Vp7rTJjMi",
   "tracks": [
     {
       "added_at": null,
@@ -416,9 +416,9 @@
           "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
         }
       ],
-      "duration_ms": 180000,
-      "name": "CUTE",
-      "url": "https://open.spotify.com/track/7MrH3OjcIy8FPRaKlZWvFx"
+      "duration_ms": 162000,
+      "name": "TUNING",
+      "url": "https://open.spotify.com/track/6oHIPkHSDBysBWdUkaLDAE"
     },
     {
       "added_at": null,
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
         }
       ],
-      "duration_ms": 162000,
-      "name": "TUNING",
-      "url": "https://open.spotify.com/track/6oHIPkHSDBysBWdUkaLDAE"
+      "duration_ms": 180000,
+      "name": "CUTE",
+      "url": "https://open.spotify.com/track/7MrH3OjcIy8FPRaKlZWvFx"
     },
     {
       "added_at": null,

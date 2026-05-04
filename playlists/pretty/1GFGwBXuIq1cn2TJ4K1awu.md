@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/1GFGwBXuIq1cn2TJ4K1awu.md) - [plain]
 
 > Ten or eleven songs a week\. Updated every Sunday\. Enjoy.
 
-[royva06](https://open.spotify.com/user/royva06) - 33 likes - 11 songs - 46 min 29 sec
+[royva06](https://open.spotify.com/user/royva06) - 33 likes - 11 songs - 34 min 22 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Turn Your Love Around](https://open.spotify.com/track/6a899bXlCuViXW2Qs8Rdqo) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [The George Benson Collection](https://open.spotify.com/album/1IcNxT9zu74BfNhuHD9MBN) | 3:50 |
-| 2 | [Need A Little Time](https://open.spotify.com/track/77lCv1WjX1EvhlfhIUayOb) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Tell Me How You Really Feel](https://open.spotify.com/album/5KAYb7440fWwIiZqTdmh2M) | 3:58 |
-| 3 | [Stalkin'](https://open.spotify.com/track/6B8I1qFm81w2grBX30btLj) | [Duane Eddy](https://open.spotify.com/artist/1I5Cu7bqjkRg85idwYsD91) | [Have 'Twangy' Guitar Will Travel](https://open.spotify.com/album/3SHjc6o1z9gxpCcqB6OZ6R) | 2:26 |
-| 4 | [I Need You](https://open.spotify.com/track/2UQWW8rhNJo5tBt77LnbZH) | [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0) | [Second Helping \(Expanded Edition\)](https://open.spotify.com/album/54V1ljNtyzAm053oJqi0SH) | 6:55 |
-| 5 | [Lore](https://open.spotify.com/track/7fYMNO8W4OQUwdZoLwzhW2) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Devil for the Fire](https://open.spotify.com/album/61CtQxxTAKjdaBgVkg1hGL) | 3:21 |
-| 6 | [The Roving](https://open.spotify.com/track/43ilH6eTzMBBekPccApVfo) | [Bonny Light Horseman](https://open.spotify.com/artist/0Qi9Fcmn1DJAoG8Agf5ibb), [Eric D\. Johnson](https://open.spotify.com/artist/4LBdlNpHBD8dHPcVCrjSB6), [Josh Kaufman](https://open.spotify.com/artist/3kKgcBXTgyAZhXPV3AaSZc), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Bonny Light Horseman](https://open.spotify.com/album/0FDyqe94Dh9j7U1Xyf3d8G) | 4:20 |
-| 7 | [John Saw That Number](https://open.spotify.com/track/08nhxjVxAq9Q37qiskGKlW) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [Fox Confessor Brings The Flood \(Bonus Track Version\)](https://open.spotify.com/album/5yIiFmVkza1N3ddMtftxIZ) | 4:05 |
-| 8 | [I'm Gonna Tear Your Playhouse Down](https://open.spotify.com/track/62i5IYsfk28UiViWTeEw2x) | [Ann Peebles](https://open.spotify.com/artist/5dM7jA0PXh0Ozz8LT2YOCB) | [I Can't Stand the Rain](https://open.spotify.com/album/67Sjm7EwrWbnnyojmhP4KL) | 2:45 |
-| 9 | [Slippery People](https://open.spotify.com/track/6jmArQTNFxVghhetkYV36I) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Speaking in Tongues](https://open.spotify.com/album/78MM8HrabEGPLVWaJkM2t1) | 5:06 |
-| 10 | [Hard Drive](https://open.spotify.com/track/3ArnNhm8z0ScjDKfGHSBRk) | [Cassandra Jenkins](https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik) | [An Overview on Phenomenal Nature](https://open.spotify.com/album/1NzOdSkSNmBhhg72KlNcsE) | 5:27 |
-| 11 | [Sweet Time](https://open.spotify.com/track/3wv9jIR1DAGxTRMm1kH6GL) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Sweet Time](https://open.spotify.com/album/2L0mTw6WLlSkjxrZJXna5h) | 4:11 |
+| 1 | [Guitar Town](https://open.spotify.com/track/62ZRHYSOIT9WeZnz18kTHS) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [Guitar Town](https://open.spotify.com/album/3bEnaGjQRqfoqNkAQtO1Uy) | 2:35 |
+| 2 | [Blue Canoe](https://open.spotify.com/track/137MuDMA3pCR26cEmTBUj6) | [Blue Mountain](https://open.spotify.com/artist/4S0WYuq4dnunQV6cL3I49i) | [Dog Days](https://open.spotify.com/album/6bhEViXyntNPGV59UMTMYi) | 4:39 |
+| 3 | [Saliva](https://open.spotify.com/track/1pXvZZ7Ubwt4rpDt3JEHdY) | [Viktor Vaughn](https://open.spotify.com/artist/0wIb0PhwT3disoWykRhq6V), [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL) | [Vaudeville Villain](https://open.spotify.com/album/7HPjcPD2cr8E5oHvVAmBp7) | 2:28 |
+| 4 | [Somebody to Anybody](https://open.spotify.com/track/7tgC2K4LR2OIdKz6Wbsdb1) | [Margaret Glaspy](https://open.spotify.com/artist/13YVfXddjRIUrubItJjadb) | [Emotions and Math](https://open.spotify.com/album/2Bq3X3NF39gvmAihzX1DdK) | 2:53 |
+| 5 | [Adagio](https://open.spotify.com/track/1BOvtLCCUsAaObd94hdaS8) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu) | [Adagio](https://open.spotify.com/album/3qgAUF0EAfwmsGH6lFrZiO) | 2:56 |
+| 6 | [Can't Do This Alone](https://open.spotify.com/track/20Zr19ii1RGzktzPf6dsO5) | [Wiki](https://open.spotify.com/artist/78X7quh8fqAGZ42OpLmUW0), [Navy Blue](https://open.spotify.com/artist/2PmAn8zBjcG0goqfOmX43A) | [Half God](https://open.spotify.com/album/3NKeWAMARIW8qdc7wDjZ0m) | 2:43 |
+| 7 | [DULL](https://open.spotify.com/track/0uUtMNrn3EwF0KP6E90jGs) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [NEVER ENOUGH](https://open.spotify.com/album/52yD51X7yDinwlg6tbCtpP) | 2:18 |
+| 8 | [Brenda's Got A Baby](https://open.spotify.com/track/791YTMSeD7SPGWHLIe61ew) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [2Pacalypse Now](https://open.spotify.com/album/5Ijk8JGsEkwCZd5i0Iy09a) | 3:53 |
+| 9 | [Denim & Diamonds](https://open.spotify.com/track/01Owqjp8oN43Hw0r7TfJlt) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [Denim & Diamonds](https://open.spotify.com/album/6RqohXVE3YRsRbaS9sm5G2) | 3:12 |
+| 10 | [Here, There And Everywhere \- Remastered 2009](https://open.spotify.com/track/2B4Y9u4ERAFiMo13XPJyGP) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Revolver \(Remastered\)](https://open.spotify.com/album/3PRoXYsngSwjEQWR5PsHWR) | 2:24 |
+| 11 | [I Love You, I Hate You](https://open.spotify.com/track/6XQPPbvRXZvWSUDag8jyEj) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW) | 4:15 |
 
-Snapshot ID: `AAAKci4t4BPD6/s52Zy5doMkktCYsaTx`
+Snapshot ID: `AAAKiCPW/6FX47EIEY1KfT9Yx0qw7gY6`

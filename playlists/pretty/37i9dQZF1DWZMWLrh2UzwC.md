@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from Noh Salleh, Lady Gaga, Ajai, Nadeera, Aziz Harun, ILLIT, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,365 likes - 115 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,358 likes - 115 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

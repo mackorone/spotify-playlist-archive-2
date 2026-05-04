@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,351 songs - 9 day 16 hr 2 min
+4,352 songs - 9 day 16 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3028,6 +3028,7 @@
 | [Red Cap, Blue Star](https://open.spotify.com/track/6orpNkaB5N8mFEEwQ6eypw) | [The second coast](https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi) | [FOR CHARLIE](https://open.spotify.com/album/0Xn5dxCEWmsvZkMHsXNy23) | 3:11 | 2026-04-13 |  |
 | [Red Cap, Blue Star oh](https://open.spotify.com/track/4BRdMoNdI4jW9v3rb2k4vP) | [The second coast](https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi) | [FOR CHARLIE](https://open.spotify.com/album/0Xn5dxCEWmsvZkMHsXNy23) | 2:54 | 2026-04-13 |  |
 | [Red Hot](https://open.spotify.com/track/2tgFOPOBaJYyWWAKYLGbyw) | [Routi](https://open.spotify.com/artist/0B3uouY3r7w7uJLIcORpIX) | [Sunrise EP](https://open.spotify.com/album/7JDicUKhX8bbuQxM0xxW2J) | 3:28 | 2025-10-09 |  |
+| [Red Sea](https://open.spotify.com/track/65CBVvFFb0FxAGTrtIcpbB) | [Thesis](https://open.spotify.com/artist/2f2Lm3RVxYFYG2oqvbNxct) | [Red Sea](https://open.spotify.com/album/5Yw6aE5sMft2MrkeV3osUg) | 5:21 | 2026-05-03 |  |
 | [Red, White & Disrespect](https://open.spotify.com/track/5NGx2E5IeLe6seYdiZOAZV) | [Dulyfixed Music](https://open.spotify.com/artist/71L2ZJ5fTCiJ4K9CC9BmUF) | [Red, White & Disrespect](https://open.spotify.com/album/4C8S0fmijazAvuxE4YORnY) | 2:31 | 2026-02-19 |  |
 | [Redescubriéndote](https://open.spotify.com/track/55R6Dz3k0rg3K0PQhkqVPi) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Puzzles](https://open.spotify.com/album/7e2bA6vx7HTLvrOtyFLChY) | 3:27 | 2026-03-15 |  |
 | [Referee](https://open.spotify.com/track/4XHx4rItlKAaIo2doe3cmF) | [Prince Pe](https://open.spotify.com/artist/6lVwACmv0KZrhjPzJoSblh) | [What's love](https://open.spotify.com/album/4ZQSgR9ZPUFWwSmdLnIcOo) | 3:29 | 2025-06-05 |  |

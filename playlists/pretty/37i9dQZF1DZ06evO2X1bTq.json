@@ -1,12 +1,12 @@
 {
   "description": "This is U2. The essential tracks, all in one playlist.",
-  "num_followers": 1265310,
+  "num_followers": 1265339,
   "original_name": "This Is U2",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afPtAAAAAACE7OAsiFwXFQVKa/Bzjvp4",
+  "snapshot_id": "afU+gAAAAADWQKWALXHdvkjq4j4VGE7W",
   "tracks": [
     {
       "added_at": null,
@@ -547,6 +547,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Songs Of Experience (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6S9YaGXnmRe8tWJ0e457HP"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 227173,
+      "name": "Ordinary Love - Extraordinary Mix",
+      "url": "https://open.spotify.com/track/5K8cyMKcnG4rx5ocW3u7OW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Achtung Baby (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 325014,
       "name": "The Tears Of Things",
       "url": "https://open.spotify.com/track/6UsQY1MboRNoxGU9GwKp7i"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Songs Of Experience (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6S9YaGXnmRe8tWJ0e457HP"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 227173,
-      "name": "Ordinary Love - Extraordinary Mix",
-      "url": "https://open.spotify.com/track/5K8cyMKcnG4rx5ocW3u7OW"
     },
     {
       "added_at": null,
@@ -627,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Days Of Ash EP",
-        "url": "https://open.spotify.com/album/3vgnEcyvM5xJ479leSdeVT"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 263175,
-      "name": "American Obituary",
-      "url": "https://open.spotify.com/track/3OeSl8lZH1ufOO87gJdcfi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Boy (Deluxe Edition Remastered)",
         "url": "https://open.spotify.com/album/4YCjEFs1aDmcilTMbqMwjY"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 217386,
       "name": "I Will Follow - Remastered 2008",
       "url": "https://open.spotify.com/track/0T702y9ndzZTnPq1bqiAM2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Days Of Ash EP",
+        "url": "https://open.spotify.com/album/3vgnEcyvM5xJ479leSdeVT"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 263175,
+      "name": "American Obituary",
+      "url": "https://open.spotify.com/track/3OeSl8lZH1ufOO87gJdcfi"
     },
     {
       "added_at": null,
@@ -707,8 +707,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Easter Lily EP",
-        "url": "https://open.spotify.com/album/1DY06ZzIoHYFQ83jPfm9aF"
+        "name": "Songs Of Innocence (Deluxe)",
+        "url": "https://open.spotify.com/album/6wQXpkptAIZPzNf5H0SA10"
       },
       "artists": [
         {
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
         }
       ],
-      "duration_ms": 408586,
-      "name": "COEXIST (I Will Bless The Lord At All Times?)",
-      "url": "https://open.spotify.com/track/5eynsXQG21BvozmHZ7XvB4"
+      "duration_ms": 226763,
+      "name": "Song For Someone",
+      "url": "https://open.spotify.com/track/47dKd4opEgipcKYEQm4CX4"
     },
     {
       "added_at": null,
@@ -755,8 +755,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Songs Of Innocence (Deluxe)",
-        "url": "https://open.spotify.com/album/6wQXpkptAIZPzNf5H0SA10"
+        "name": "Easter Lily EP",
+        "url": "https://open.spotify.com/album/1DY06ZzIoHYFQ83jPfm9aF"
       },
       "artists": [
         {
@@ -764,9 +764,9 @@
           "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
         }
       ],
-      "duration_ms": 226763,
-      "name": "Song For Someone",
-      "url": "https://open.spotify.com/track/47dKd4opEgipcKYEQm4CX4"
+      "duration_ms": 408586,
+      "name": "COEXIST (I Will Bless The Lord At All Times?)",
+      "url": "https://open.spotify.com/track/5eynsXQG21BvozmHZ7XvB4"
     },
     {
       "added_at": null,

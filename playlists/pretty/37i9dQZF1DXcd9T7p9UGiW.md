@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 
 > Catching flights and going global\. Cover: Angelique Kidjo
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,582 likes - 80 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,600 likes - 80 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 | 79 | [DANCE](https://open.spotify.com/track/5Yvue23lj4pm1clJQIzMFY) | [Marco Acevedo](https://open.spotify.com/artist/7ya73VVTnzfSHrQnGq9WiC), [Noon Dave](https://open.spotify.com/artist/7JkLbDtlEwAhFPn3o2kXAm) | [DANCE](https://open.spotify.com/album/6D64WsZQyQ6rGd0sJJF62K) | 2:30 |
 | 80 | [Soweto \(with Don Toliver, Rema and Tempoe\)](https://open.spotify.com/track/25Kyv5SeEenT0EETpP2hYn) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Tempoe](https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Soweto \(with Don Toliver, Rema and Tempoe\)](https://open.spotify.com/album/6VZ6icUuxAtSKVxPWlQvug) | 3:39 |
 
-Snapshot ID: `AAAAAD3zwdMhG2s3sP4QNIWgf6DB7a1L`
+Snapshot ID: `AAAAAFW4DCqEGHZ94TbYnxCyVYgrnyp3`

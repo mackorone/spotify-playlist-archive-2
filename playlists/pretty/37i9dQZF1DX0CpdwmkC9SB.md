@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CpdwmkC9SB.md) - [plain]
 
 > The biggest festival of the year\. The official playlist for Glastonbury 2025.
 
-[Spotify](https://open.spotify.com/user/spotify) - 243,315 likes - 200 songs - 12 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 243,333 likes - 200 songs - 12 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

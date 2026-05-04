@@ -1468,7 +1468,7 @@
       ],
       "date_added": "2025-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-03",
+      "date_removed": null,
       "duration_ms": 295880,
       "name": "AENE",
       "url": "https://open.spotify.com/track/0TavlW2wgiYIFucM8n5XEu"
@@ -16434,7 +16434,7 @@
       ],
       "date_added": "2025-02-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-28",
+      "date_removed": null,
       "duration_ms": 252306,
       "name": "Give Me Everything (feat. Nayer)",
       "url": "https://open.spotify.com/track/4QNpBfC0zvjKqPJcyqBy9W"
@@ -36400,7 +36400,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-04",
       "duration_ms": 163943,
       "name": "PODIVEJ MAMA",
       "url": "https://open.spotify.com/track/2s6HALw9KVn5vHxLDD7KuQ"
@@ -36520,7 +36520,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-04",
       "duration_ms": 166187,
       "name": "POMALE DNI",
       "url": "https://open.spotify.com/track/5SWTgMP6NGsCrdc1sl67ni"
@@ -51111,6 +51111,28 @@
     },
     {
       "album": {
+        "name": "Vyl\u00edzan\u00fd",
+        "url": "https://open.spotify.com/album/5GfhKFyv5SXwCwXmOV9awJ"
+      },
+      "artists": [
+        {
+          "name": "Marcus G",
+          "url": "https://open.spotify.com/artist/23rQLztEeierpFCziSZPxW"
+        },
+        {
+          "name": "Chris Gladi\u010d",
+          "url": "https://open.spotify.com/artist/1YzlIylRxZuiMfeSnWslXt"
+        }
+      ],
+      "date_added": "2026-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142000,
+      "name": "Vyl\u00edzan\u00fd",
+      "url": "https://open.spotify.com/track/7DWLLv5Y9S38T7f0NsePfC"
+    },
+    {
+      "album": {
         "name": "Kruhy & Vlny",
         "url": "https://open.spotify.com/album/5oBkt45ptHRcJOp8xPpw1L"
       },
@@ -54024,7 +54046,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-04",
       "duration_ms": 207388,
       "name": "Z MOJICH UST",
       "url": "https://open.spotify.com/track/08CX4NoZJhON6We2JN2Jui"

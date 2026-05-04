@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZO4kBlpsIH.md) - [plain]
 
 > A taste of French café culture; the charming sounds of the Parisian streets.
 
-[Spotify](https://open.spotify.com/user/spotify) - 438,155 likes - 64 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 438,296 likes - 64 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZO4kBlpsIH.md) - [plain]
 | 63 | [L´amour Facile](https://open.spotify.com/track/1jBwaHMkPzAGQV8S2U1iRg) | [Nocturne des îles](https://open.spotify.com/artist/4pYMtyyGtBDSZDRSCBghZa) | [L´amour Facile](https://open.spotify.com/album/3dXUhdR0VqnADAqgrsdChc) | 4:00 |
 | 64 | [November Moon](https://open.spotify.com/track/712ZGHyBdeTUh3iEu6ctci) | [Cafe Accordion Orchestra](https://open.spotify.com/artist/6utQ2I1L0PDIc1mwU6tf5M) | [CAO 10](https://open.spotify.com/album/2M5SSx4fWARPw8lLnKD9oS) | 4:12 |
 
-Snapshot ID: `AAAAACywEZCg+o7cfILeFDwQGn6qLh9L`
+Snapshot ID: `AAAAABBJ/sjhmR0S6okliUGYYk3s8NgJ`

@@ -1,12 +1,12 @@
 {
   "description": "This is Static-X. The essential tracks, all in one playlist.",
-  "num_followers": 42734,
+  "num_followers": 42744,
   "original_name": "This Is Static-X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afPtAAAAAAAOlb/3jsofcQgcSWAUA0rE",
+  "snapshot_id": "afU+gAAAAAApwonage/F6NmeYc7iA40j",
   "tracks": [
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cannibal",
-        "url": "https://open.spotify.com/album/5gbGxeUFeXbGPy3HgGEcd5"
-      },
-      "artists": [
-        {
-          "name": "Static-X",
-          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
-        }
-      ],
-      "duration_ms": 180680,
-      "name": "Behemoth",
-      "url": "https://open.spotify.com/track/1SE6KqmGiKM31lglnKiPU1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cult of Static",
         "url": "https://open.spotify.com/album/11WtSOfo6AE5p5K6WiZAvc"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 319106,
       "name": "Tera-Fied",
       "url": "https://open.spotify.com/track/5n9ZFf0QDe2AXPbeO3ZHoB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cannibal",
+        "url": "https://open.spotify.com/album/5gbGxeUFeXbGPy3HgGEcd5"
+      },
+      "artists": [
+        {
+          "name": "Static-X",
+          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
+        }
+      ],
+      "duration_ms": 180680,
+      "name": "Behemoth",
+      "url": "https://open.spotify.com/track/1SE6KqmGiKM31lglnKiPU1"
     },
     {
       "added_at": null,
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
         }
       ],
-      "duration_ms": 240304,
-      "name": "Black Star",
-      "url": "https://open.spotify.com/track/5Fbdx8HTneMfmLHoDwU8dz"
+      "duration_ms": 178000,
+      "name": "Jic Boi",
+      "url": "https://open.spotify.com/track/3nHUUCHlIX84DXbNwdltrZ"
     },
     {
       "added_at": null,
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
         }
       ],
-      "duration_ms": 178000,
-      "name": "Jic Boi",
-      "url": "https://open.spotify.com/track/3nHUUCHlIX84DXbNwdltrZ"
+      "duration_ms": 226734,
+      "name": "Stay Alive",
+      "url": "https://open.spotify.com/track/044X4VAFlD4p87OKU1VdGd"
     },
     {
       "added_at": null,
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
         }
       ],
-      "duration_ms": 226734,
-      "name": "Stay Alive",
-      "url": "https://open.spotify.com/track/044X4VAFlD4p87OKU1VdGd"
+      "duration_ms": 240304,
+      "name": "Black Star",
+      "url": "https://open.spotify.com/track/5Fbdx8HTneMfmLHoDwU8dz"
     }
   ],
   "unique_name": "This Is Static-X",

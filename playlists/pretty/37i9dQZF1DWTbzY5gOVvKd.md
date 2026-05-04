@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbzY5gOVvKd.md) - [plain]
 
 > Jazzy love songs\. Cover: Lady Gaga & Tony Bennett
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,297,518 likes - 100 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,297,539 likes - 100 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbzY5gOVvKd.md) - [plain]
 | 99 | [Unforgettable](https://open.spotify.com/track/3hMtwMsTU2H3iD5mu0cpiE) | [Sachal Vasandani](https://open.spotify.com/artist/4sctitB70tTmziCPMwYJJr), [Eric Harland](https://open.spotify.com/artist/0wTdAqanDZiEonTBUmBSQh), [Reuben Rogers](https://open.spotify.com/artist/4suPNNUCtzkjmLIQnCGNeL), [Taylor Eigsti](https://open.spotify.com/artist/4HTzfZgrRnvNBnsXjhs4mp) | [Unforgettable](https://open.spotify.com/album/6HiKJ6DURPZIyr837e7rBX) | 2:56 |
 | 100 | [One Step Ahead](https://open.spotify.com/track/0MaUUswNytVFfcYYXfvpRQ) | [Cécile McLorin Salvant](https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn) | [One Step Ahead \- Single](https://open.spotify.com/album/6fIfmucwqUc3n0pjg2kEy6) | 2:09 |
 
-Snapshot ID: `AAAAANJcaIdjZSiYunHR2+kwsFRa1rqH`
+Snapshot ID: `AAAAAJQ8S3ZsVKoqmkwrMxnUQrpTZxZX`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from Asake, Kabza De Small, Tyla, Zara Larsson and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,105 likes - 79 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,147 likes - 79 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

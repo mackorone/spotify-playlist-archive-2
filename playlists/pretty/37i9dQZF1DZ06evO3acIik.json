@@ -1,12 +1,12 @@
 {
   "description": "This is Montell Fish. The essential tracks, all in one playlist.",
-  "num_followers": 65796,
+  "num_followers": 65797,
   "original_name": "This Is Montell Fish",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afPtAAAAAAAwLK7jcPQl8MjaDHB7nTk2",
+  "snapshot_id": "afU+gAAAAACwW7t5LSWwvri5svD68Ps4",
   "tracks": [
     {
       "added_at": null,
@@ -43,18 +43,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Just Wanna Feel Your Love Again",
-        "url": "https://open.spotify.com/album/2wjAr1uxq8uRJaRfu2rDh7"
+        "name": "Love You Right",
+        "url": "https://open.spotify.com/album/24lu2LU2D8bI9qKnn4nSks"
       },
       "artists": [
         {
           "name": "Montell Fish",
           "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        },
+        {
+          "name": "Clara La San",
+          "url": "https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj"
         }
       ],
-      "duration_ms": 241166,
-      "name": "I Just Wanna Feel Your Love Again",
-      "url": "https://open.spotify.com/track/4JOjqoaUEMZ0SOAzaKUwDj"
+      "duration_ms": 165818,
+      "name": "Love You Right",
+      "url": "https://open.spotify.com/track/2J9y1Oub0bozZGztQVrfpa"
     },
     {
       "added_at": null,
@@ -107,22 +111,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love You Right",
-        "url": "https://open.spotify.com/album/24lu2LU2D8bI9qKnn4nSks"
+        "name": "I Just Wanna Feel Your Love Again",
+        "url": "https://open.spotify.com/album/2wjAr1uxq8uRJaRfu2rDh7"
       },
       "artists": [
         {
           "name": "Montell Fish",
           "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        },
-        {
-          "name": "Clara La San",
-          "url": "https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj"
         }
       ],
-      "duration_ms": 165818,
-      "name": "Love You Right",
-      "url": "https://open.spotify.com/track/2J9y1Oub0bozZGztQVrfpa"
+      "duration_ms": 241166,
+      "name": "I Just Wanna Feel Your Love Again",
+      "url": "https://open.spotify.com/track/4JOjqoaUEMZ0SOAzaKUwDj"
     },
     {
       "added_at": null,
@@ -243,26 +243,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Devotion",
-        "url": "https://open.spotify.com/album/5W8SvJTwnL2joYd7J5yu7L"
-      },
-      "artists": [
-        {
-          "name": "dj gummy bear",
-          "url": "https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw"
-        },
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 140307,
-      "name": "Devotion",
-      "url": "https://open.spotify.com/track/4AyHlEuenAyjMOifhsjBBd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ostentatious (piano edit)",
         "url": "https://open.spotify.com/album/4axdZRMwiaY279XJDQsnc9"
       },
@@ -283,6 +263,26 @@
       "duration_ms": 192000,
       "name": "Ostentatious - piano edit",
       "url": "https://open.spotify.com/track/1svj2KSHdTL2vwWetkplG9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Devotion",
+        "url": "https://open.spotify.com/album/5W8SvJTwnL2joYd7J5yu7L"
+      },
+      "artists": [
+        {
+          "name": "dj gummy bear",
+          "url": "https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw"
+        },
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 140307,
+      "name": "Devotion",
+      "url": "https://open.spotify.com/track/4AyHlEuenAyjMOifhsjBBd"
     },
     {
       "added_at": null,
@@ -531,26 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Spirit Still Remains (Purgatory)",
-        "url": "https://open.spotify.com/album/0yupsRZfwMIa9hDQ9ppBLJ"
-      },
-      "artists": [
-        {
-          "name": "dj gummy bear",
-          "url": "https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw"
-        },
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 100000,
-      "name": "If Only I Could Tell You - T.S.S.R. Piano Edit",
-      "url": "https://open.spotify.com/track/0jhVe4Cxma0YS1Jj0sHlYU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Camp Lukewarm",
         "url": "https://open.spotify.com/album/1ojRsIYi1rLdiFpSKNtEBp"
       },
@@ -579,18 +559,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "CHARLOTTE",
-        "url": "https://open.spotify.com/album/7BjL0ThFxMTESHJ0xxsg3v"
+        "name": "The Spirit Still Remains (Purgatory)",
+        "url": "https://open.spotify.com/album/0yupsRZfwMIa9hDQ9ppBLJ"
       },
       "artists": [
+        {
+          "name": "dj gummy bear",
+          "url": "https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw"
+        },
         {
           "name": "Montell Fish",
           "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
         }
       ],
-      "duration_ms": 124885,
-      "name": "You Changed on Me.",
-      "url": "https://open.spotify.com/track/0xOsSPCBAs2vU5PN9gJ3kz"
+      "duration_ms": 100000,
+      "name": "If Only I Could Tell You - T.S.S.R. Piano Edit",
+      "url": "https://open.spotify.com/track/0jhVe4Cxma0YS1Jj0sHlYU"
     },
     {
       "added_at": null,
@@ -611,22 +595,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Spirit Still Remains (Purgatory)",
-        "url": "https://open.spotify.com/album/0yupsRZfwMIa9hDQ9ppBLJ"
+        "name": "CHARLOTTE",
+        "url": "https://open.spotify.com/album/7BjL0ThFxMTESHJ0xxsg3v"
       },
       "artists": [
-        {
-          "name": "dj gummy bear",
-          "url": "https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw"
-        },
         {
           "name": "Montell Fish",
           "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
         }
       ],
-      "duration_ms": 162000,
-      "name": "I'd Do Anything For You",
-      "url": "https://open.spotify.com/track/5O9T9EUyVHnjLHfPhTJoW6"
+      "duration_ms": 124885,
+      "name": "You Changed on Me.",
+      "url": "https://open.spotify.com/track/0xOsSPCBAs2vU5PN9gJ3kz"
     },
     {
       "added_at": null,
@@ -647,6 +627,26 @@
       "duration_ms": 267110,
       "name": "Don't You Love Me? - A COLORS SHOW",
       "url": "https://open.spotify.com/track/03WTbSK3hT3RthWeaie1aV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Spirit Still Remains (Purgatory)",
+        "url": "https://open.spotify.com/album/0yupsRZfwMIa9hDQ9ppBLJ"
+      },
+      "artists": [
+        {
+          "name": "dj gummy bear",
+          "url": "https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw"
+        },
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "I'd Do Anything For You",
+      "url": "https://open.spotify.com/track/5O9T9EUyVHnjLHfPhTJoW6"
     },
     {
       "added_at": null,
@@ -691,6 +691,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "CHARLOTTE",
+        "url": "https://open.spotify.com/album/7BjL0ThFxMTESHJ0xxsg3v"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 178271,
+      "name": "Do You Remember?",
+      "url": "https://open.spotify.com/track/4mUiMU73neKW4eIT6KMBdb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Spirit Still Remains (Purgatory)",
         "url": "https://open.spotify.com/album/0yupsRZfwMIa9hDQ9ppBLJ"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 144008,
       "name": "Dance",
       "url": "https://open.spotify.com/track/5YCjVkFdXfq6wBpmADgfxR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CHARLOTTE",
-        "url": "https://open.spotify.com/album/7BjL0ThFxMTESHJ0xxsg3v"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 178271,
-      "name": "Do You Remember?",
-      "url": "https://open.spotify.com/track/4mUiMU73neKW4eIT6KMBdb"
     },
     {
       "added_at": null,
@@ -759,6 +759,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "CHARLOTTE",
+        "url": "https://open.spotify.com/album/7BjL0ThFxMTESHJ0xxsg3v"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Amor",
+      "url": "https://open.spotify.com/track/7kzWwZlJ1SP35FPvImMn7D"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Spirit Still Remains (Purgatory)",
         "url": "https://open.spotify.com/album/0yupsRZfwMIa9hDQ9ppBLJ"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 146000,
       "name": "Only Death Can Separate Us",
       "url": "https://open.spotify.com/track/11phAxtq0J8bWpKa8JAg4T"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CHARLOTTE",
-        "url": "https://open.spotify.com/album/7BjL0ThFxMTESHJ0xxsg3v"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Amor",
-      "url": "https://open.spotify.com/track/7kzWwZlJ1SP35FPvImMn7D"
     },
     {
       "added_at": null,
@@ -823,26 +823,6 @@
       "duration_ms": 168000,
       "name": "Wings",
       "url": "https://open.spotify.com/track/3JnSE5L6NV0W22ZcSJLrBs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nights & Days.",
-        "url": "https://open.spotify.com/album/13G65Pa4a3yM8pfN8wLrH3"
-      },
-      "artists": [
-        {
-          "name": "Lord's Child",
-          "url": "https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC"
-        },
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 119156,
-      "name": "6:16am",
-      "url": "https://open.spotify.com/track/5pTb9i96sgct5x6jyjwhrM"
     },
     {
       "added_at": null,
@@ -887,6 +867,26 @@
       "duration_ms": 248531,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/5c2yqU4vbxkQQbZ2ePb5wJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nights & Days.",
+        "url": "https://open.spotify.com/album/13G65Pa4a3yM8pfN8wLrH3"
+      },
+      "artists": [
+        {
+          "name": "Lord's Child",
+          "url": "https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC"
+        },
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 119156,
+      "name": "6:16am",
+      "url": "https://open.spotify.com/track/5pTb9i96sgct5x6jyjwhrM"
     },
     {
       "added_at": null,

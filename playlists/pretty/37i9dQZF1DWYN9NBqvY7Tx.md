@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYN9NBqvY7Tx.md) - [plain]
 
 > Dance, bass, EDM, trap, phonk: the perfect gaming mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,236,938 likes - 100 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,237,059 likes - 100 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYN9NBqvY7Tx.md) - [plain]
 | 99 | [Do You Feel Loved](https://open.spotify.com/track/6QaHSnGMvd0jkuTpXtNZbd) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq) | [Do You Feel Loved](https://open.spotify.com/album/6XomZTfkFWWHfr4IVfpAvl) | 3:09 |
 | 100 | [Wildfire](https://open.spotify.com/track/0bqnisRuU2P52pXp3vXWol) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO) | [Wildfire](https://open.spotify.com/album/5G64NG1cJVftgUuEk7ox0n) | 3:35 |
 
-Snapshot ID: `AAAAAEfQibtYG2yOxm1TYh2cn0qb+eTN`
+Snapshot ID: `AAAAAJmZ8KCiCazJ1oJa7OHxgEb4jd4f`

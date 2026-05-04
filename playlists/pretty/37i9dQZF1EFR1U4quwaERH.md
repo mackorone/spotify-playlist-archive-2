@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR1U4quwaERH.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0B0BPkmlJbG5tsDwTUUcBq">Blush</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 183 likes - 89 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 183 likes - 90 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR1U4quwaERH.md) - [plain]
 | 58 | [Don't](https://open.spotify.com/track/2jD8MqJ4uiE5EYUicI5vCC) | [Rebecca Garton](https://open.spotify.com/artist/10SSWFHswODW4VG1y56JbL) | [Don't](https://open.spotify.com/album/1Fl0AJJlFgKlxTFzIBPczK) | 3:13 |
 | 59 | [Shinanigins](https://open.spotify.com/track/2wMuSMdSq6zFPEDhaIvjgQ) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Ruby](https://open.spotify.com/album/5ukER8Gzjr4CPSwN8fwykc) | 2:42 |
 | 60 | [Until The End Of Summer \(feat\. Blush & Mutungi\)](https://open.spotify.com/track/56NHfqWbnWX60iQYybskqO) | [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6), [Blush](https://open.spotify.com/artist/0kM8578RqYDhRJMOHVMt06), [Mutungi](https://open.spotify.com/artist/1yOaXpYr3A6jMRhHrj3MZS) | [Until The End Of Summer \(feat\. Blush & Mutungi\)](https://open.spotify.com/album/48AsdNKzSJqOGNSRICdUWP) | 2:39 |
-| 61 | [Love Me or Not](https://open.spotify.com/track/6035rfVUNlzOG5uwQaWJMc) | [Heather Small](https://open.spotify.com/artist/3tnTlR2MCaYNQqV3v1908x) | [Love Me or Not](https://open.spotify.com/album/4Xh4TboT7xRuUMIZHNNwVi) | 3:38 |
-| 62 | [Want Love](https://open.spotify.com/track/0dxjbuwxOFFYFIPlsOhcPw) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Want Love](https://open.spotify.com/album/4Vuu72qzPAzs6gIBio67hf) | 3:20 |
+| 61 | [Want Love](https://open.spotify.com/track/0dxjbuwxOFFYFIPlsOhcPw) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Want Love](https://open.spotify.com/album/4Vuu72qzPAzs6gIBio67hf) | 3:20 |
+| 62 | [Love Me or Not](https://open.spotify.com/track/6035rfVUNlzOG5uwQaWJMc) | [Heather Small](https://open.spotify.com/artist/3tnTlR2MCaYNQqV3v1908x) | [Love Me or Not](https://open.spotify.com/album/4Xh4TboT7xRuUMIZHNNwVi) | 3:38 |
 | 63 | [Grace](https://open.spotify.com/track/6QSvMIVpfJirRBtuJU67tn) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [I Forgive You](https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj) | 4:16 |
 | 64 | [Come Home](https://open.spotify.com/track/6Ws2A2HLpEkomfZbgC1Jjt) | [Michael J Woodard](https://open.spotify.com/artist/0Wmmj33M55gFExQ6pJB53e) | [Come Home](https://open.spotify.com/album/3Udj8LoVBgmOzDWAhgFDIx) | 3:40 |
 | 65 | [Take Off](https://open.spotify.com/track/31L7a0j3Dj1eNdd5VezAWr) | [Fantasia](https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1) | [Sketchbook](https://open.spotify.com/album/0cUvvSehTB7xyEamWPsIN8) | 3:40 |
@@ -95,7 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR1U4quwaERH.md) - [plain]
 | 85 | [Cheers](https://open.spotify.com/track/74SFVRttFhSJ39uBIVL6cG) | [Tucker Nichol](https://open.spotify.com/artist/3M9ugSI1Vjp5mg1YpSjrVL) | [i swear i'm fine](https://open.spotify.com/album/5vc312BLfbRpBvX3GLdfDs) | 4:15 |
 | 86 | [Don't Know What to Call It](https://open.spotify.com/track/6zfZyw34dIJZh8WCZWMGMT) | [Blush](https://open.spotify.com/artist/31rc0iQFBQBf1PcS7L3wIN) | [Don't Know What to Call It](https://open.spotify.com/album/4cyMu0ajv2wk0C9YMItSuA) | 3:16 |
 | 87 | [Body Like](https://open.spotify.com/track/2KjiUXQ6LyvIEyHBeic0Pl) | [Tucker Nichol](https://open.spotify.com/artist/3M9ugSI1Vjp5mg1YpSjrVL) | [can you keep a secret](https://open.spotify.com/album/4NykbCCKaLZyrEND5C2IOF) | 4:08 |
-| 88 | [WADE](https://open.spotify.com/track/4oZRhm2x62qN6prKI3S4fO) | [Parker Phillips](https://open.spotify.com/artist/4G4U0Pmtl0I2JKqI7uvsJw) | [AWAKENING](https://open.spotify.com/album/4xblTWNkBQJQQF9l5p9suu) | 2:46 |
-| 89 | [Fire](https://open.spotify.com/track/3Ic9ajFl2aBmmQFXQus3Ed) | [Hawk Love](https://open.spotify.com/artist/3mNH3Eq13YnMTwo8vWwwTR) | [Fire](https://open.spotify.com/album/1h88EmeUgoP9Yjpdhz60Jh) | 4:16 |
+| 88 | [Multiplicity](https://open.spotify.com/track/5FJrp4xbFzQmup3qKAl3Zd) | [India Shawn](https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL) | [Subject To Change](https://open.spotify.com/album/1qcVJ1Bp9CmACPIj0jmbmr) | 3:22 |
+| 89 | [WADE](https://open.spotify.com/track/4oZRhm2x62qN6prKI3S4fO) | [Parker Phillips](https://open.spotify.com/artist/4G4U0Pmtl0I2JKqI7uvsJw) | [AWAKENING](https://open.spotify.com/album/4xblTWNkBQJQQF9l5p9suu) | 2:46 |
+| 90 | [Fire](https://open.spotify.com/track/3Ic9ajFl2aBmmQFXQus3Ed) | [Hawk Love](https://open.spotify.com/artist/3mNH3Eq13YnMTwo8vWwwTR) | [Fire](https://open.spotify.com/album/1h88EmeUgoP9Yjpdhz60Jh) | 4:16 |
 
-Snapshot ID: `AcQcqgAAAACIHOcxq9AI5RlmMf/FyrV4`
+Snapshot ID: `AcQihgAAAABcF13ZoSzbqBrOXFPpl5V6`

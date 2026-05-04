@@ -1,12 +1,12 @@
 {
   "description": "This is Car\u00edn Le\u00f3n. The essential tracks, all in one playlist.",
-  "num_followers": 1136584,
+  "num_followers": 1136761,
   "original_name": "This Is Car\u00edn Le\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afPtAAAAAACnyyKBNyQt2AmlxmGDzfVl",
+  "snapshot_id": "afU+gAAAAAAM0c87tw8Xjo0RM4QD2y6w",
   "tracks": [
     {
       "added_at": null,
@@ -627,6 +627,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Encerrados Pero Enfiestados, Vol. 1 (En Vivo)",
+        "url": "https://open.spotify.com/album/0dwX7vep4YqdLPVMjoiGv2"
+      },
+      "artists": [
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 246131,
+      "name": "Tu - En Vivo",
+      "url": "https://open.spotify.com/track/3RcfwgTUVar2ZrCY64fcoI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "En Otra Vida - Con Carin Leon",
         "url": "https://open.spotify.com/album/1UQhyBePO9aKNZW1sxDTlQ"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 150974,
       "name": "En Otra Vida - Con Carin Leon",
       "url": "https://open.spotify.com/track/7GDeMqjePrVZ9O6d3HqKZU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Encerrados Pero Enfiestados, Vol. 1 (En Vivo)",
-        "url": "https://open.spotify.com/album/0dwX7vep4YqdLPVMjoiGv2"
-      },
-      "artists": [
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 246131,
-      "name": "Tu - En Vivo",
-      "url": "https://open.spotify.com/track/3RcfwgTUVar2ZrCY64fcoI"
     },
     {
       "added_at": null,
@@ -719,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Colmillo De Leche",
-        "url": "https://open.spotify.com/album/6TsExCpZJTDj7Fd0ez2knv"
-      },
-      "artists": [
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 153785,
-      "name": "Indispensable",
-      "url": "https://open.spotify.com/track/7aGd2n90JJZ5QliVEDcuPz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Malo",
         "url": "https://open.spotify.com/album/5dOKgKogOiUYcDvlZxAqGl"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 155802,
       "name": "Me la Avente",
       "url": "https://open.spotify.com/track/7veuGPNny9rQDQCXWOnVwM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Colmillo De Leche",
+        "url": "https://open.spotify.com/album/6TsExCpZJTDj7Fd0ez2knv"
+      },
+      "artists": [
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 153785,
+      "name": "Indispensable",
+      "url": "https://open.spotify.com/track/7aGd2n90JJZ5QliVEDcuPz"
     },
     {
       "added_at": null,
@@ -803,6 +803,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "In\u00e9dito",
+        "url": "https://open.spotify.com/album/3HRaYFwtWL2bgtnYiTpUUW"
+      },
+      "artists": [
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 197107,
+      "name": "Qu\u00e9 M\u00e1s Puedo Pedir - Bonus Track",
+      "url": "https://open.spotify.com/track/6sDTax3tWwGdZGBi0ps6dF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "UNA HISTORIA IMPORTANTE",
         "url": "https://open.spotify.com/album/0yzfuInZ8RVSXEaNWTJR54"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 261475,
       "name": "Otra como t\u00fa (feat. Car\u00edn Le\u00f3n)",
       "url": "https://open.spotify.com/track/24KctiI2TNMOonbsSEQ6vQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "In\u00e9dito",
-        "url": "https://open.spotify.com/album/3HRaYFwtWL2bgtnYiTpUUW"
-      },
-      "artists": [
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 197107,
-      "name": "Qu\u00e9 M\u00e1s Puedo Pedir - Bonus Track",
-      "url": "https://open.spotify.com/track/6sDTax3tWwGdZGBi0ps6dF"
     },
     {
       "added_at": null,
@@ -935,6 +935,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "In\u00e9dito",
+        "url": "https://open.spotify.com/album/3HRaYFwtWL2bgtnYiTpUUW"
+      },
+      "artists": [
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 154420,
+      "name": "Secuelas De Amor",
+      "url": "https://open.spotify.com/track/6d0omwCMQwRVOexEPsWAcv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lighter (FIFA World Cup 2026\u2122)",
         "url": "https://open.spotify.com/album/1MSm697OSJkLnNed3JY0Dh"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 179149,
       "name": "Lighter",
       "url": "https://open.spotify.com/track/3i5yV30C8kFn84q5qIh2sY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "In\u00e9dito",
-        "url": "https://open.spotify.com/album/3HRaYFwtWL2bgtnYiTpUUW"
-      },
-      "artists": [
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 154420,
-      "name": "Secuelas De Amor",
-      "url": "https://open.spotify.com/track/6d0omwCMQwRVOexEPsWAcv"
     }
   ],
   "unique_name": "This Is Car\u00edn Le\u00f3n",

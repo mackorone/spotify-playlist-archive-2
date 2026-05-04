@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 217 songs - 13 hr 27 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 219 songs - 13 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -225,5 +225,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 215 | [Cut Back](https://open.spotify.com/track/72R3P7eRAsJQpiaS9rV4XX) | [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [Mental Trillness 2](https://open.spotify.com/album/4jKe82uh1vvZHkd2WuN1WG) | 2:27 |
 | 216 | [Walkin \- Key Glock remix](https://open.spotify.com/track/5GJS3CY3aqbT9j2lv434aQ) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Walkin \(Key Glock remix\)](https://open.spotify.com/album/4eaBgTvANMYXbm9i1Vyx3q) | 3:46 |
 | 217 | [Walking on the Moon](https://open.spotify.com/track/2qwMuXIRXJSrwrAiHeBVPJ) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Distracted](https://open.spotify.com/album/4DkVTJfU9qyNWKbjLoTENL) | 3:25 |
+| 218 | [Castle](https://open.spotify.com/track/4Tq5SHIdGg2Q1DsrDY5NIF) | [BLP KOSHER](https://open.spotify.com/artist/6w60ExNMjs0gd4ioh7GMRI) | [Castle](https://open.spotify.com/album/0ywu6cOMmn36k013fsU8vC) | 2:04 |
+| 219 | [Lune TNS](https://open.spotify.com/track/12U8kxOK9UI8p25YtGvqX0) | [Company Flow](https://open.spotify.com/artist/0y0VESpVYa8xyNAxu77kcS) | [Funcrusher Plus](https://open.spotify.com/album/3010pCoYlw3arCbTroajyB) | 3:38 |
 
-Snapshot ID: `AAAgMcl5JCeG0cuvWIBohD591e0OZ9KZ`
+Snapshot ID: `AAAgM/t0DkKQOOG4IiK7ve1ybWSyhP/h`

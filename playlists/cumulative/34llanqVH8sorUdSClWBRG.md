@@ -4,7 +4,7 @@
 
 > Mental illness
 
-72 songs - 3 hr 59 min
+73 songs - 4 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [I\`m OK](https://open.spotify.com/track/6bkzn3e9gtiP0xJTJnQ2eM) | [Little Big](https://open.spotify.com/artist/0pnd3MP2rxAzljR9AqXUJB) | [I\`m OK](https://open.spotify.com/album/2WfSPgV1Bm4RWhP9cEG622) | 3:07 | 2024-10-09 |  |
 | [In the Shadow of the Western Hills](https://open.spotify.com/track/3VSLsAh8ldiCl9ANK7yt4i) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Steal Smoked Fish / In the Shadow of the Western Hills](https://open.spotify.com/album/6MufqmhgbIO7CezOM60xyc) | 2:34 | 2026-02-21 |  |
 | [Inexplicable](https://open.spotify.com/track/3G05DblSK0kTRwE2SG7clZ) | [The Correspondents](https://open.spotify.com/artist/3VvmUsYPzFheK2wJGKcXxp) | [Inexpicable](https://open.spotify.com/album/3RICruUJtlqzGPiBZ6BQX4) | 4:15 | 2025-06-14 |  |
+| [Insane](https://open.spotify.com/track/5flerg6aEao2VayZezVlgu) | [Black Gryph0n](https://open.spotify.com/artist/4ET82ZtSfAK4utfjDauImD), [Baasik](https://open.spotify.com/artist/3bSyv1vO8ye6PKyWcJeVbI) | [Insane](https://open.spotify.com/album/3o5Dz1PLFlYXplnsp5zZxh) | 2:39 | 2026-05-03 |  |
 | [Labyrinth](https://open.spotify.com/track/0L7MpEwFgZRP5rFdXOYaRT) | [Miracle Musical](https://open.spotify.com/artist/2FRXiAz5Uz78LLLSwEUhLt), [Shane MauX](https://open.spotify.com/artist/3ygfn18GV8qCw4XcEPJkbA), [KAYE](https://open.spotify.com/artist/6xtWwGjr7pWga4C7xiG29M) | [Hawaii: Part II](https://open.spotify.com/album/1CbtBQqibzdxhmpiLD7vzN) | 2:32 | 2026-02-20 |  |
 | [Letter from Belgium](https://open.spotify.com/track/4ntR3OteArnBskcrUbYqkm) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [We Shall All Be Healed](https://open.spotify.com/album/45KMV5nuTYdfXBfH3RR98Z) | 3:11 | 2024-12-08 |  |
 | [Little Dark Age](https://open.spotify.com/track/2Y0iGXY6m6immVb2ktbseM) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Little Dark Age](https://open.spotify.com/album/7GjVWG39IOj4viyWplJV4H) | 4:59 | 2024-01-02 |  |

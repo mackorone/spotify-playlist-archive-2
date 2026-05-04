@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Alisha Dira
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,559 likes - 123 songs - 7 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,557 likes - 123 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

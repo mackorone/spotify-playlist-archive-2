@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 279 likes - 4,417 songs - 9 day 19 hr 26 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 280 likes - 4,418 songs - 9 day 19 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4425,5 +4425,6 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4415 | [Del Odio Al Amor](https://open.spotify.com/track/1kmpfz6ZPnXrPMS8EQetzX) | [Jumpen Daniel](https://open.spotify.com/artist/1cRpMLp1aO4V7HvOBAJfk0) | [Del Odio Al Amor](https://open.spotify.com/album/39UPCNkZSt9B8AdrvDCQqd) | 2:03 |
 | 4416 | [Brisa \- Remix](https://open.spotify.com/track/2PHWTnjqM164aoggvhvR05) | [Pokenzo](https://open.spotify.com/artist/2AghPeTSphA59qaxYjaFLR), [ZakeoMUSIC](https://open.spotify.com/artist/0n5KZNNgwFO66Kdq7BfqWr), [Peiro](https://open.spotify.com/artist/0U6CXcvTWoI0KH77dlVHk7), [Enzo Calvo\-Rayo Coronado](https://open.spotify.com/artist/6CdfmbYdYFyo5GguHyAaX5) | [Brisa \(Remix\)](https://open.spotify.com/album/32bjx01F4ET0z9GnauOI3F) | 2:03 |
 | 4417 | [Crash & Burn](https://open.spotify.com/track/1ZyxzmQoyXmjzfcjQNCwUK) | [Gravel State](https://open.spotify.com/artist/230J2QSIILiDyJFcnxAsc3) | [The Long Way Home](https://open.spotify.com/album/6XAWHzo671bBsroOWUJsrU) | 3:09 |
+| 4418 | [Red Sea](https://open.spotify.com/track/65CBVvFFb0FxAGTrtIcpbB) | [Thesis](https://open.spotify.com/artist/2f2Lm3RVxYFYG2oqvbNxct) | [Red Sea](https://open.spotify.com/album/5Yw6aE5sMft2MrkeV3osUg) | 5:21 |
 
-Snapshot ID: `AAAIfwGTc5RqyTS7iVi6oOFivSmOb0cE`
+Snapshot ID: `AAAIgKnYBALJ6WAuTTWSE42Sb1dyOYDo`

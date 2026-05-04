@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WELsJtFZjZ.md) - [plain]
 
 > And the Grammy goes to..\. Luther Vandross
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,697,354 likes - 150 songs - 11 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,697,718 likes - 150 songs - 11 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

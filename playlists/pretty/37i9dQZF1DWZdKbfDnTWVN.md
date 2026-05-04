@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdKbfDnTWVN.md) - [plain]
 
 > The best of bars, beats & rhymes from the 254\. Cover: <a href="https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az?si=bwxFNSQ\_QcuacRy0nrEU3A"> Khaligraph Jones</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,227 likes - 55 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,239 likes - 55 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdKbfDnTWVN.md) - [plain]
 | 54 | [Properly \(feat\. Femi One\)](https://open.spotify.com/track/7z2iv6bToqzdx8puIywKFI) | [Nyashinski](https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6), [FEMI ONE](https://open.spotify.com/artist/1Kg4nxeTD9wP3082jp1nkH) | [Properly \(feat\. Femi One\)](https://open.spotify.com/album/64iIqEzTMDg4yLrNkKVRFo) | 3:32 |
 | 55 | [Tululu](https://open.spotify.com/track/4B6FVBw2NBzr9KYwzxcMPW) | [Masterpiece King](https://open.spotify.com/artist/4JVrLMd2BhgXFwrNCOmHsF), [KGG](https://open.spotify.com/artist/7cNVfDaokwHYBc9L5Jq0Jy), [Scar Mkadinali](https://open.spotify.com/artist/61npyqrvQo2AGnjNqIV6E7) | [Tululu](https://open.spotify.com/album/5LEqDpzPMX5qoqwlE3NvQB) | 3:55 |
 
-Snapshot ID: `AAAAAC1D+M0tLkAQoqX4ss6Reo6KRzU3`
+Snapshot ID: `AAAAAEwEP+sNpV4ui02tKAz5DYlnk1GY`

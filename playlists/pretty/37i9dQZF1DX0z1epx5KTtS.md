@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 
 > The best of Coupé Décalé and Biama from the continent to Paris\. Photo : Roseline Layo
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,788 likes - 40 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,841 likes - 40 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 | 14 | [Chebaba](https://open.spotify.com/track/2GrBcbY5ui7yYD9cz1qalO) | [DOUPI PAPILLON](https://open.spotify.com/artist/0Ndfw3wuP0M6OTL0jv96le) | [Chebaba](https://open.spotify.com/album/1oxFxatESpXiF5NxLToR74) | 3:22 |
 | 15 | [C'est Gnimo](https://open.spotify.com/track/0C4a0cnFflwKChIX9KJnDX) | [Dydy Yeman](https://open.spotify.com/artist/6vW6A3qZVzesahMxmW1qvp) | [C'est Gnimo](https://open.spotify.com/album/23idLA2MKbC9XGJPVsOgb3) | 2:40 |
 | 16 | [Dos de chat](https://open.spotify.com/track/4c0hSRKfYD37ZEVN8KzLzL) | [Renard Barakissa](https://open.spotify.com/artist/723b4uVlhopiahp6hgHGRj) | [Dos de chat](https://open.spotify.com/album/5Y8wOOM07VtkJ47PRJ9GPf) | 3:19 |
-| 17 | [COUPER\-COUPER](https://open.spotify.com/track/6IC40SlghyZK2fI7D25B5V) | [Renard Barakissa](https://open.spotify.com/artist/723b4uVlhopiahp6hgHGRj) | [C'EST BIAMA QUI COORDONNE](https://open.spotify.com/album/5zOLgXEs8SSMtt1K88ksM6) | 3:00 |
+| 17 | [COUPER\-COUPER](https://open.spotify.com/track/6IC40SlghyZK2fI7D25B5V) | [Renard Barakissa](https://open.spotify.com/artist/723b4uVlhopiahp6hgHGRj) | [C'est Biama Qui Coordonne](https://open.spotify.com/album/5zOLgXEs8SSMtt1K88ksM6) | 3:00 |
 | 18 | [Ça Va Chauffer](https://open.spotify.com/track/1yWnkDKdzmvnIFxP86IVxa) | [MNK OYEBI](https://open.spotify.com/artist/3KDz3PsFWd87NRPtvOmlky), [JD LSK](https://open.spotify.com/artist/6sYvVtA9vuxirfgrRZZxgJ) | [Ça Va Chauffer](https://open.spotify.com/album/5xKaOcdKFw8CEwQKGVOKgF) | 2:34 |
 | 19 | [La Bêtise](https://open.spotify.com/track/3Q5EeS00OhCeCphR0X4G2S) | [Kehou Mousso](https://open.spotify.com/artist/6aDeuqqVcxIZW2GDjg2WsE), [Bigyne wiz](https://open.spotify.com/artist/2wEFYJGGlDtJz7hrN2USb9), [Given Beatz](https://open.spotify.com/artist/6yEx2AO2FJJrlcK8PYducR) | [La Bêtise](https://open.spotify.com/album/3iGx5L6wJZ4RKBFou7fijT) | 2:34 |
 | 20 | [Passer à coté](https://open.spotify.com/track/4L1HVDYcQdB30NwIjHWJhy) | [Taf La Référence](https://open.spotify.com/artist/5CtDNucB5geU4uqT0SuqZv) | [Passer à coté](https://open.spotify.com/album/6O8hSo39PIBT9LrEdQJ80F) | 2:17 |

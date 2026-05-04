@@ -1,12 +1,12 @@
 {
   "description": "This is Architects. The essential tracks, all in one playlist.",
-  "num_followers": 88721,
+  "num_followers": 88742,
   "original_name": "This Is Architects",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afPtAAAAAAC7HPNkvRStXEA7g4swXGAx",
+  "snapshot_id": "afU+gAAAAACOQPqpy+7FmG9ArEvR504E",
   "tracks": [
     {
       "added_at": null,
@@ -451,8 +451,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lost Forever // Lost Together",
-        "url": "https://open.spotify.com/album/1j8JsxOsu9e0ChyFO5KOpc"
+        "name": "Daybreaker (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6rvoCczjq9prDGSoxQr1Xq"
       },
       "artists": [
         {
@@ -460,9 +460,9 @@
           "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
         }
       ],
-      "duration_ms": 205663,
-      "name": "Naysayer",
-      "url": "https://open.spotify.com/track/7l1aujAcBQWpG1nHKOxPGe"
+      "duration_ms": 241386,
+      "name": "These Colours Don't Run",
+      "url": "https://open.spotify.com/track/564qvXssjJM1BkMm4FgPzA"
     },
     {
       "added_at": null,
@@ -483,8 +483,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Daybreaker (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6rvoCczjq9prDGSoxQr1Xq"
+        "name": "Lost Forever // Lost Together",
+        "url": "https://open.spotify.com/album/1j8JsxOsu9e0ChyFO5KOpc"
       },
       "artists": [
         {
@@ -492,9 +492,9 @@
           "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
         }
       ],
-      "duration_ms": 241386,
-      "name": "These Colours Don't Run",
-      "url": "https://open.spotify.com/track/564qvXssjJM1BkMm4FgPzA"
+      "duration_ms": 205663,
+      "name": "Naysayer",
+      "url": "https://open.spotify.com/track/7l1aujAcBQWpG1nHKOxPGe"
     },
     {
       "added_at": null,

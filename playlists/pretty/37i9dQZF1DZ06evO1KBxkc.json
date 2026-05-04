@@ -1,12 +1,12 @@
 {
   "description": "This is A Boogie Wit da Hoodie. The essential tracks, all in one playlist.",
-  "num_followers": 204151,
+  "num_followers": 204153,
   "original_name": "This Is A Boogie Wit da Hoodie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afPtAAAAAACDkywHDT6O69twLg9a2vaW",
+  "snapshot_id": "afU+gAAAAABYvO4FSEmvse3Lqn/+1v2X",
   "tracks": [
     {
       "added_at": null,
@@ -619,6 +619,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Not a Regular Person",
+        "url": "https://open.spotify.com/album/2rclhJv98oCvlhYLG9tioj"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "duration_ms": 186456,
+      "name": "Not a Regular Person",
+      "url": "https://open.spotify.com/track/0KfgfxTnqfX4IfhVDpPYTd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Red Light (feat. Trippie Redd)",
         "url": "https://open.spotify.com/album/27TLYLViRV2CpzbFnOiVYQ"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 206222,
       "name": "Red Light (feat. Trippie Redd)",
       "url": "https://open.spotify.com/track/4LjylDK1ilK0Ab7ylRdO3Z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Not a Regular Person",
-        "url": "https://open.spotify.com/album/2rclhJv98oCvlhYLG9tioj"
-      },
-      "artists": [
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        }
-      ],
-      "duration_ms": 186456,
-      "name": "Not a Regular Person",
-      "url": "https://open.spotify.com/track/0KfgfxTnqfX4IfhVDpPYTd"
     },
     {
       "added_at": null,

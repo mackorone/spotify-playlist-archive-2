@@ -4,7 +4,7 @@
 
 > 
 
-1,445 songs - 3 day 4 hr 51 min
+1,446 songs - 3 day 4 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,7 +240,7 @@
 | [Carry On](https://open.spotify.com/track/4feKxkiKEkMJ4jIqRx6OTt) | [Statik Selektah](https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [What Goes Around \(Spotify Exclusive\)](https://open.spotify.com/album/0SOFk5OyoaayDx3CH9qpB5) | 3:27 | 2026-03-04 |  |
 | [Cartier Gucci Scarf \(feat\. Lil Duke\)](https://open.spotify.com/track/3TWSar7EBNWZVeEWqDSjpw) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Lil Duke](https://open.spotify.com/artist/06Qf6vq8AVIpE9XIw8LAsY) | [So Much Fun](https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh) | 3:18 | 2023-08-21 | 2025-05-21 |
 | [Casting Spells](https://open.spotify.com/track/36zNdBSO3g5UotlC92uBV3) | [Danger Incorporated](https://open.spotify.com/artist/6bnlvICBjK7fuNSB1ohqS5) | [Danger Reality](https://open.spotify.com/album/0hTIM39qqjzTzG3sNDDcXM) | 2:19 | 2022-09-19 | 2023-04-12 |
-| [Castle](https://open.spotify.com/track/4Tq5SHIdGg2Q1DsrDY5NIF) | [BLP KOSHER](https://open.spotify.com/artist/6w60ExNMjs0gd4ioh7GMRI) | [Castle](https://open.spotify.com/album/0ywu6cOMmn36k013fsU8vC) | 2:04 | 2023-05-06 | 2024-03-05 |
+| [Castle](https://open.spotify.com/track/4Tq5SHIdGg2Q1DsrDY5NIF) | [BLP KOSHER](https://open.spotify.com/artist/6w60ExNMjs0gd4ioh7GMRI) | [Castle](https://open.spotify.com/album/0ywu6cOMmn36k013fsU8vC) | 2:04 | 2023-05-06 |  |
 | [Celebrate](https://open.spotify.com/track/1zlclNkERGFrCxznXOgkD3) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Malibu](https://open.spotify.com/album/4VFG1DOuTeDMBjBLZT7hCK) | 3:46 | 2025-12-02 | 2026-03-08 |
 | [Champagne Poetry](https://open.spotify.com/track/2HSmyk2qMN8WQjuGhaQgCk) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 5:36 | 2021-09-04 | 2023-04-12 |
 | [Champion Sound](https://open.spotify.com/track/2hLNoH4fXHvvweEx9rWLIg) | [Woodie Smalls](https://open.spotify.com/artist/1ng2cH6hJIOSYxQMk6pEux) | [Soft Parade](https://open.spotify.com/album/046toK3mprR6caalRr8Vam) | 3:49 | 2023-10-03 | 2024-04-24 |
@@ -754,6 +754,7 @@
 | [Lunch Meat](https://open.spotify.com/track/4bWByRIq2LZL7Nw7NWihbO) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [EA Monster](https://open.spotify.com/album/3yXJ8SlRNl2epdhlQCaewE) | 2:58 | 2023-02-05 | 2023-05-09 |
 | [Lunchin](https://open.spotify.com/track/2jIU2VR6uIKBCJCpFi3aL4) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [Flygod Is An Awesome God](https://open.spotify.com/album/2JUpGYRkV6ymlDOX7UFTL7) | 3:31 | 2024-01-29 | 2024-03-05 |
 | [Lunchroom \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/76IRVRGJ62UpI7VfFrxi2G) | [Desto](https://open.spotify.com/artist/7jIkJnHkuofGofuYydpDpX), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Lunchroom \(feat\. Lil Uzi Vert\)](https://open.spotify.com/album/31O75v8ASWvNeUYCMBlYvN) | 3:29 | 2022-11-28 | 2025-05-21 |
+| [Lune TNS](https://open.spotify.com/track/12U8kxOK9UI8p25YtGvqX0) | [Company Flow](https://open.spotify.com/artist/0y0VESpVYa8xyNAxu77kcS) | [Funcrusher Plus](https://open.spotify.com/album/3010pCoYlw3arCbTroajyB) | 3:38 | 2026-05-04 |  |
 | [Luv Drunk](https://open.spotify.com/track/0QOXUbu5PXFPEsle2RphS2) | [Dom Corleo](https://open.spotify.com/artist/6nFBSlEb2tkIOH3YtIIw6F) | [2014](https://open.spotify.com/album/2tf3aF0klfrWgl9x60waZ6) | 2:24 | 2023-01-20 | 2023-04-12 |
 | [Luv\(sic.\) pt3 \(feat\. Shing02\)](https://open.spotify.com/track/4xlpJ99yL9xYQtzG6c3hwk) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ), [Shing02](https://open.spotify.com/artist/0FB6beTn4vescDdnHeCUm9) | [Modal Soul](https://open.spotify.com/album/6nVACH6a27eOWiumAJhDWS) | 5:36 | 2023-10-03 | 2024-03-05 |
 | [Luxury](https://open.spotify.com/track/0EXvgyk5LouKWAu1b7Kmgc) | [K Suave](https://open.spotify.com/artist/04a6mc5vUtj2pMzteToeH7) | [Luxury](https://open.spotify.com/album/7Hl7gnffF0DOf5wPP5lMUx) | 3:10 | 2022-07-27 | 2024-03-05 |

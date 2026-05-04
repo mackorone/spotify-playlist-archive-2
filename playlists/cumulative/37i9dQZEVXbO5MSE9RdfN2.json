@@ -3113,6 +3113,24 @@
     },
     {
       "album": {
+        "name": "Another Day Old",
+        "url": "https://open.spotify.com/album/6ysOe0wZAYtjLBwU5z0jzc"
+      },
+      "artists": [
+        {
+          "name": "Eddie Dalton",
+          "url": "https://open.spotify.com/artist/2erFrAamkmB7DTmelZNrJr"
+        }
+      ],
+      "date_added": "2026-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232641,
+      "name": "Another Day Old",
+      "url": "https://open.spotify.com/track/2eRLna0nT0yyJw8MyYBDMw"
+    },
+    {
+      "album": {
         "name": "SOS Deluxe: LANA",
         "url": "https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ"
       },
@@ -4240,7 +4258,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-04",
       "duration_ms": 153281,
       "name": "Bad Angel (with LISA)",
       "url": "https://open.spotify.com/track/4QR40LqFAbMdabh4AoZJGZ"
@@ -5262,6 +5280,24 @@
       "duration_ms": 189970,
       "name": "Beast (feat. Waka Flocka)",
       "url": "https://open.spotify.com/track/3mMjFf10PfJyvHHTyQYYdj"
+    },
+    {
+      "album": {
+        "name": "WOR$T GIRL IN AMERICA",
+        "url": "https://open.spotify.com/album/5siV9C6eK0NpAqER2FfCVA"
+      },
+      "artists": [
+        {
+          "name": "Slayyyter",
+          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+        }
+      ],
+      "date_added": "2026-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198937,
+      "name": "BEAT UP CHANEL$",
+      "url": "https://open.spotify.com/track/0rLtUuQgwIlw6vv2eqHKdt"
     },
     {
       "album": {
@@ -12870,10 +12906,28 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-04",
       "duration_ms": 200060,
       "name": "dog with a bone",
       "url": "https://open.spotify.com/track/0VQgO4YIMsAkH2MxIxWSHD"
+    },
+    {
+      "album": {
+        "name": "dog with a bone",
+        "url": "https://open.spotify.com/album/6Z2wsRHrMH6ddFC21hlLzI"
+      },
+      "artists": [
+        {
+          "name": "Alyssa Grace",
+          "url": "https://open.spotify.com/artist/4eZer1QvRM8Pna0rLToV1K"
+        }
+      ],
+      "date_added": "2026-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200060,
+      "name": "dog with a bone",
+      "url": "https://open.spotify.com/track/0dixTDZriZMVwWDyOcqxCg"
     },
     {
       "album": {
@@ -18274,10 +18328,28 @@
       ],
       "date_added": "2026-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-04",
       "duration_ms": 260696,
       "name": "Go",
       "url": "https://open.spotify.com/track/2Xhd1kYKj2aee7JR3nIlRe"
+    },
+    {
+      "album": {
+        "name": "Born In The Echoes",
+        "url": "https://open.spotify.com/album/36E5LAM5D3AKnVx8s5dyc6"
+      },
+      "artists": [
+        {
+          "name": "The Chemical Brothers",
+          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
+        }
+      ],
+      "date_added": "2026-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260696,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/2cNjgoSh1TBHFQIhfzRJUE"
     },
     {
       "album": {
@@ -47570,7 +47642,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-04",
       "duration_ms": 317961,
       "name": "The Great Divide",
       "url": "https://open.spotify.com/track/4ck9vo0gEmjVHWUb5q2rYe"

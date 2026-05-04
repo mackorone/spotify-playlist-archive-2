@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 
 > 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: Lil Tjay
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,932 likes - 84 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,931 likes - 84 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

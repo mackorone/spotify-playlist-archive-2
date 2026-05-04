@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fMaj5GfMh3.md) - [plain]
 
 > De nieuwste pop songs\. Cover: Olivia Rodrigo
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,509 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,514 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fMaj5GfMh3.md) - [plain]
 | 99 | [Somebody](https://open.spotify.com/track/2p2PyJXXzOzpaP2HEEKYsE) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Blue Sky Mentality \(Complete Edition\)](https://open.spotify.com/album/40OV4pw1Vvzrvo2yOTl5AF) | 2:49 |
 | 100 | [Feel](https://open.spotify.com/track/4fiUu4AntsGfTkrtB1Hrdh) | [Orange Skyline](https://open.spotify.com/artist/2khmzZ3jOfcd9tJ821E6Xx) | [Dreams To Keep](https://open.spotify.com/album/0d3KGNBNAaloccr0GedG4r) | 2:54 |
 
-Snapshot ID: `AAAAACE6fYffQAMxphW0UJUUgPcISzrd`
+Snapshot ID: `AAAAAD7MapZHBYWQ0lNsDOwApBxD3MOS`

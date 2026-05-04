@@ -4,7 +4,7 @@
 
 > This is David Allan Coe\. The essential tracks, all in one playlist.
 
-50 songs - 2 hr 36 min
+51 songs - 2 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,9 +54,10 @@
 | [This Bottle \(In My Hand\)](https://open.spotify.com/track/2eeK8aAZy6o7iyQhvhg5n0) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6), [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [I've Got Something to Say](https://open.spotify.com/album/0KjdMYe1vTK5Dz2jLfIrnN) | 2:50 | 2026-05-02 |  |
 | [Time Off For Bad Behavior](https://open.spotify.com/track/6teK395xJoARA0vVYXEfH5) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Live at Billy Bob's Texas](https://open.spotify.com/album/6UovhwsrRIA072Ywx6KgpV) | 2:38 | 2026-05-02 |  |
 | [Whiskey & Women](https://open.spotify.com/track/3ivoFZ1Hc7jxWhVvYZMRii) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Human Emotions](https://open.spotify.com/album/5rpL6mTBSeUqGhJiCKS8Lk) | 2:34 | 2026-05-02 |  |
+| [Whiskey, Whiskey \(Take My Mind\)](https://open.spotify.com/track/1wF6guhoUL3dHyzHbUX1GB) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [D.A.C.](https://open.spotify.com/album/60EBaGNNZ6CPedkImS61v1) | 2:30 | 2026-05-04 |  |
 | [Why You Been Gone So Long](https://open.spotify.com/track/38gJbvK9xkufMJmYelSyMz) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Darlin', Darlin'](https://open.spotify.com/album/0ttaFuz2MNLsozzwbTn07B) | 4:18 | 2026-05-02 |  |
 | [Willie, Waylon And Me](https://open.spotify.com/track/6Vy2FPaOj394TAPZU2wrNr) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Greatest Hits](https://open.spotify.com/album/0VYmJzCaXoph0JfVXGNNos) | 3:12 | 2026-05-02 |  |
-| [Would You Lay With Me \(In a Field of Stone\)](https://open.spotify.com/track/77mn635jGmcnToalQNP8Bj) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Human Emotions](https://open.spotify.com/album/5rpL6mTBSeUqGhJiCKS8Lk) | 2:49 | 2026-05-02 |  |
+| [Would You Lay With Me \(In a Field of Stone\)](https://open.spotify.com/track/77mn635jGmcnToalQNP8Bj) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Human Emotions](https://open.spotify.com/album/5rpL6mTBSeUqGhJiCKS8Lk) | 2:49 | 2026-05-02 | 2026-05-04 |
 | [You Never Even Called Me by My Name](https://open.spotify.com/track/2mV4xg3mvO5aXPLMoD7WrR) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Once Upon a Rhyme](https://open.spotify.com/album/6YfHzMRBscPjVqcxIQoXom) | 5:16 | 2026-05-02 |  |
 
 \*This playlist was first scraped on 2026-05-02. Prior content cannot be recovered.

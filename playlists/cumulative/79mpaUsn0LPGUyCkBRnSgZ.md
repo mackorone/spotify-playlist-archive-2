@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-1,124 songs - 3 day 0 hr 51 min
+1,125 songs - 3 day 0 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -569,6 +569,7 @@
 | [Lilian's Pavilion](https://open.spotify.com/track/1XbBXvgRlTJB6880Du8jlH) | [CEP](https://open.spotify.com/artist/2aooHIljVYIZhEFFNmIaEz) | [Drawing the Target Around the Arrow](https://open.spotify.com/album/1Uu3fza2uwuAM9kbn5EtBs) | 2:57 | 2023-10-17 |  |
 | [Lisztomania](https://open.spotify.com/track/7fmJGzyvOcbh6UANsH8Cp6) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I) | 4:01 | 2023-02-18 | 2023-04-20 |
 | [little](https://open.spotify.com/track/5mOLwb99LIMkgVwNqBNhH8) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [Galore](https://open.spotify.com/album/6s7TtMHRcoy8D0ipc0wmjE) | 0:48 | 2025-08-02 |  |
+| [Little Hands](https://open.spotify.com/track/1ibcyT87MJO8HGEq4YOeXk) | [Alexander 'Skip' Spence](https://open.spotify.com/artist/25e8CxfStX7gVfGIQL2qMd) | [Oar](https://open.spotify.com/album/7sIFcFS96iFIdzLuETglbq) | 3:41 | 2026-05-03 |  |
 | [Little League \- 2025 Remaster](https://open.spotify.com/track/0ymqCxnSgtU43ZnTKzsKjF) | [Cap'n Jazz](https://open.spotify.com/artist/3JhEcBWSCPXkRMt1VK14i4) | [Shmap'n Shmazz \(2025 Remaster\)](https://open.spotify.com/album/59m7KmDZeSuseIc4y60HMU) | 3:58 | 2025-03-20 | 2025-03-22 |
 | [Live from 54th](https://open.spotify.com/track/5UkiLo3RAeN2Y3qmtFAmG2) | [Blu](https://open.spotify.com/artist/1KeJhR0ENFviw187pD4LPT), [Evidence](https://open.spotify.com/artist/6VfeYClQyVUCPJdXb9jl3O) | [Los Angeles](https://open.spotify.com/album/6SbSnccPne65cY6Fovd0h7) | 1:43 | 2024-08-05 |  |
 | [Lloyd, I'm Ready To Be Heartbroken](https://open.spotify.com/track/52PuLmsxTDOI2WAqpzYjoT) | [Camera Obscura](https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt) | [Let's Get Out Of This Country](https://open.spotify.com/album/3NcGNYXKiHeygdXXL7czL1) | 3:51 | 2022-10-07 | 2023-05-27 |

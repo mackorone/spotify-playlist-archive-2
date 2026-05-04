@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSV5Sri2Qa60.md) - [plain]
 
 > Where your new favourite bands are discovered\. Cover: THEATRE
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,268 likes - 52 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,270 likes - 52 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSV5Sri2Qa60.md) - [plain]
 | 51 | [Falling Posture](https://open.spotify.com/track/7xoDYHccYoi09Y2qv7dvk3) | [MOULD](https://open.spotify.com/artist/4YKVTOc7KjZfuAfvaCHKqo) | [Falling Posture](https://open.spotify.com/album/3f71SUpFswCJCDRWGI5CJY) | 2:58 |
 | 52 | [It Comes Creeping](https://open.spotify.com/track/4JGkHDbL8ojXnhXufybIPk) | [DEADLETTER](https://open.spotify.com/artist/4MfUQ99z2kgMnl9hAwffBx) | [It Comes Creeping](https://open.spotify.com/album/2Qiaj7HeHTzMW0HquUYqBm) | 3:58 |
 
-Snapshot ID: `AAAAACHjnxFDI6p/+j5eV1Vny0ureyxs`
+Snapshot ID: `AAAAAAcW0TJQ5TU6ByRXE83KfIn3Lzts`

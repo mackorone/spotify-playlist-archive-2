@@ -1222,7 +1222,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-04",
       "duration_ms": 169250,
       "name": "Always You",
       "url": "https://open.spotify.com/track/4HR41izt1ipKNLVTkcFHt3"
@@ -1240,7 +1240,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-03",
+      "date_removed": null,
       "duration_ms": 169202,
       "name": "Always You",
       "url": "https://open.spotify.com/track/6nZAJWhdcKueQqIFFIgwCR"
@@ -5708,7 +5708,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-04",
       "duration_ms": 164336,
       "name": "Drugsprobleem",
       "url": "https://open.spotify.com/track/7ti3nQsrUICVd2B9z6EsV1"
@@ -6366,6 +6366,24 @@
       "duration_ms": 182400,
       "name": "Feel The Ground Shake",
       "url": "https://open.spotify.com/track/4WKuPFcr0JtO9RCwkfvQeY"
+    },
+    {
+      "album": {
+        "name": "Feeling Good Today",
+        "url": "https://open.spotify.com/album/2aR8CBHDKTRZ82u74jbO4F"
+      },
+      "artists": [
+        {
+          "name": "IngaRose",
+          "url": "https://open.spotify.com/artist/6Nh6lQwzJsftDphRVG7AU1"
+        }
+      ],
+      "date_added": "2026-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193520,
+      "name": "Feeling Good Today",
+      "url": "https://open.spotify.com/track/117e6ebJhoucK8Cz6wO2cD"
     },
     {
       "album": {
@@ -10566,7 +10584,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-04",
       "duration_ms": 161075,
       "name": "Kingdom of Fear",
       "url": "https://open.spotify.com/track/4Es6f0zquGHCrv9Hespx9W"
@@ -14078,7 +14096,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-04",
       "duration_ms": 107540,
       "name": "NO HELP",
       "url": "https://open.spotify.com/track/2eyx8OAbqIcYmiLlYXQr6K"
@@ -16738,6 +16756,24 @@
       "duration_ms": 384007,
       "name": "Sakura",
       "url": "https://open.spotify.com/track/6YnMiAJNZtqKwYgwrKSkwt"
+    },
+    {
+      "album": {
+        "name": "IT'S BEEN AWFUL",
+        "url": "https://open.spotify.com/album/2ZDgH9uDdjRFNdjEyQCZtH"
+      },
+      "artists": [
+        {
+          "name": "Isaiah Rashad",
+          "url": "https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM"
+        }
+      ],
+      "date_added": "2026-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193294,
+      "name": "SAME SH!T",
+      "url": "https://open.spotify.com/track/6gbcv097aD6bzPeUo2BLhl"
     },
     {
       "album": {
@@ -20192,6 +20228,24 @@
       "duration_ms": 111342,
       "name": "Valet",
       "url": "https://open.spotify.com/track/44DVF1XRGvekMLB0CTzyLF"
+    },
+    {
+      "album": {
+        "name": "VALHALLA CALLING",
+        "url": "https://open.spotify.com/album/6xU5Uw1Eege7m8dX5GGXGE"
+      },
+      "artists": [
+        {
+          "name": "Ragal Ironbull",
+          "url": "https://open.spotify.com/artist/3vDYGs9p4Y6GpfvxJDDhjx"
+        }
+      ],
+      "date_added": "2026-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195631,
+      "name": "VALHALLA CALLING",
+      "url": "https://open.spotify.com/track/4GZ9FHEL0Vcf3RVHV5lYlv"
     },
     {
       "album": {

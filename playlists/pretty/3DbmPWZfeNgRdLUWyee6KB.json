@@ -6,7 +6,7 @@
     "name": "Monnison",
     "url": "https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss"
   },
-  "snapshot_id": "AAATwUkF+OUB74tjIHTbPllU7pbHnerF",
+  "snapshot_id": "AAATwh+UElfDCDNMOPd9/OEMkCYKWQpF",
   "tracks": [
     {
       "added_at": "2026-04-17 16:05:40",
@@ -2071,6 +2071,22 @@
       "duration_ms": 253276,
       "name": "Legacy",
       "url": "https://open.spotify.com/track/7jOPhjdRyBB164fW32Ue6P"
+    },
+    {
+      "added_at": "2026-05-03 06:55:02",
+      "album": {
+        "name": "Shimmer",
+        "url": "https://open.spotify.com/album/03NF1wfBJToukVqmRD1G62"
+      },
+      "artists": [
+        {
+          "name": "The Multides",
+          "url": "https://open.spotify.com/artist/0EBOhu8N5TYGpwRIWe1oQG"
+        }
+      ],
+      "duration_ms": 253291,
+      "name": "Shimmer",
+      "url": "https://open.spotify.com/track/1US4crD9pXZuIHEGBTGOmV"
     }
   ],
   "unique_name": "New Indie Music",

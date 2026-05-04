@@ -1,12 +1,12 @@
 {
   "description": "This is Fleetwood Mac. The essential tracks, all in one playlist.",
-  "num_followers": 1162479,
+  "num_followers": 1162645,
   "original_name": "This Is Fleetwood Mac",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afPtAAAAAABAt2hyloCLYDiqz36kbXeB",
+  "snapshot_id": "afU+gAAAAAA0oW0Xy2ag8QNt9gfUqsUA",
   "tracks": [
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tango In the Night (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 189760,
-      "name": "Mystified - 2017 Remaster",
-      "url": "https://open.spotify.com/track/524nCOIQg9fi0pETVnbpv8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tusk (2015 Remaster)",
         "url": "https://open.spotify.com/album/5FIN8pyPVx8ggNs5jQ86Re"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 274666,
       "name": "Over & Over - 2015 Remaster",
       "url": "https://open.spotify.com/track/4SUF4kyuSX9siVjzpjEibr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tango In the Night (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 189760,
+      "name": "Mystified - 2017 Remaster",
+      "url": "https://open.spotify.com/track/524nCOIQg9fi0pETVnbpv8"
     },
     {
       "added_at": null,
@@ -667,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tusk (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1d075yQcykHjerQ2BN0ABn"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 283013,
-      "name": "Sisters of the Moon - 2015 Remaster",
-      "url": "https://open.spotify.com/track/7Gjj6NxSsVwXfOXUjvjCXv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tusk (2015 Remaster)",
         "url": "https://open.spotify.com/album/5FIN8pyPVx8ggNs5jQ86Re"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 294053,
       "name": "Angel - 2015 Remaster",
       "url": "https://open.spotify.com/track/6HKx5ERVgH7NYmYo9iAlMH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tusk (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1d075yQcykHjerQ2BN0ABn"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 283013,
+      "name": "Sisters of the Moon - 2015 Remaster",
+      "url": "https://open.spotify.com/track/7Gjj6NxSsVwXfOXUjvjCXv"
     },
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tusk (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1d075yQcykHjerQ2BN0ABn"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 164333,
-      "name": "Think About Me - 2015 Remaster",
-      "url": "https://open.spotify.com/track/1Q5kDGREVR7mcTjhvuFLm1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fleetwood Mac's Greatest Hits",
         "url": "https://open.spotify.com/album/4eBD6gIQk7KA2GTG5HzXes"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 233360,
       "name": "Need Your Love So Bad",
       "url": "https://open.spotify.com/track/6J1NKcC7xlbz5yrATZZ1X0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tusk (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1d075yQcykHjerQ2BN0ABn"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 164333,
+      "name": "Think About Me - 2015 Remaster",
+      "url": "https://open.spotify.com/track/1Q5kDGREVR7mcTjhvuFLm1"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1rZf8gLhyz.md) - [plain]
 
 > Let these calm Jazz tracks lull you to sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,628,935 likes - 98 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,629,118 likes - 98 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1rZf8gLhyz.md) - [plain]
 | 97 | [One Last Time](https://open.spotify.com/track/6jGLXKyJvMW6mQ8oIBINtN) | [Julius Palladini](https://open.spotify.com/artist/3V5CZtQuix8ETHRNL7wjva) | [One Last Time](https://open.spotify.com/album/7sUSIVsIzNrDGZnuqbLt8y) | 3:06 |
 | 98 | [Nothing Like Home](https://open.spotify.com/track/3sDNFPDQ90gLKk9cRuPPjb) | [Degli Scalzi](https://open.spotify.com/artist/00SKXIqWJekH9XzXkpyAZp) | [Nothing Like Home](https://open.spotify.com/album/2EfUCSCnXzADrYxMfT1oy6) | 2:33 |
 
-Snapshot ID: `AAAAAL2ce3jK0oPaP8+x3b4fjZzrVBRw`
+Snapshot ID: `AAAAAKylQMLIY4n4rUQYh4SyBoZ4HolA`

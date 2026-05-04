@@ -2467,6 +2467,24 @@
     },
     {
       "album": {
+        "name": "All Good Things (Come To An End)",
+        "url": "https://open.spotify.com/album/6yXkg4rLWcDVexBCgiovlx"
+      },
+      "artists": [
+        {
+          "name": "Blura",
+          "url": "https://open.spotify.com/artist/6ooDhfVbWKuHNGt9lj3dws"
+        }
+      ],
+      "date_added": "2026-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174857,
+      "name": "All Good Things (Come To An End)",
+      "url": "https://open.spotify.com/track/2BrXyws6nGMptYOUB3HmHx"
+    },
+    {
+      "album": {
         "name": "All I Got",
         "url": "https://open.spotify.com/album/7Mmq6Qpis7mg3g8j4uzBTL"
       },
@@ -2980,7 +2998,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-04",
       "duration_ms": 169250,
       "name": "Always You",
       "url": "https://open.spotify.com/track/4HR41izt1ipKNLVTkcFHt3"
@@ -2998,7 +3016,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-03",
+      "date_removed": null,
       "duration_ms": 169202,
       "name": "Always You",
       "url": "https://open.spotify.com/track/6nZAJWhdcKueQqIFFIgwCR"
@@ -5578,7 +5596,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-04",
       "duration_ms": 255946,
       "name": "Be Like a Woman",
       "url": "https://open.spotify.com/track/5Ctzx0mMiUPAu9JqbAOY9n"
@@ -9246,7 +9264,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-03",
+      "date_removed": null,
       "duration_ms": 217524,
       "name": "Celebrate Me",
       "url": "https://open.spotify.com/track/5ocmMJjV69WuPYj5T9IkwZ"
@@ -22734,7 +22752,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-04",
       "duration_ms": 191687,
       "name": "H\u00e9 Kanjer, Dit Is Je Verjaardag",
       "url": "https://open.spotify.com/track/7AwQUXHJnDnEeeow7dfLGi"
@@ -26208,7 +26226,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-04",
       "duration_ms": 181581,
       "name": "Kakalika",
       "url": "https://open.spotify.com/track/1p5F0slR5AF49EDX5o125x"
@@ -34622,7 +34640,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-27",
+      "date_removed": null,
       "duration_ms": 102048,
       "name": "MONTAGEM PEGADORA - Slowed",
       "url": "https://open.spotify.com/track/1xKMSHgGIQ26RhDDxmIjan"
@@ -34946,6 +34964,24 @@
       "duration_ms": 101538,
       "name": "Montoya",
       "url": "https://open.spotify.com/track/3T2x0mdwoEgkSViBxsjbWG"
+    },
+    {
+      "album": {
+        "name": "Moonlight #jerseyclub",
+        "url": "https://open.spotify.com/album/1UQBSTQuvCsZTBzAgpuOow"
+      },
+      "artists": [
+        {
+          "name": "TXKUMOON",
+          "url": "https://open.spotify.com/artist/0QJX5YBJB48q8sRS16vEdF"
+        }
+      ],
+      "date_added": "2026-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99317,
+      "name": "Moonlight #jerseyclub",
+      "url": "https://open.spotify.com/track/5Hj9G0qW99mb6asdixw9vF"
     },
     {
       "album": {
@@ -57238,7 +57274,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-04",
       "duration_ms": 166025,
       "name": "Yalla FG",
       "url": "https://open.spotify.com/track/7cW3kzMwgWKRF9AuYp57w2"

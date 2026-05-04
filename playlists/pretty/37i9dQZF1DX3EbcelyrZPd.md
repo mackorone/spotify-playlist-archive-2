@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 
 > Get your fill of vibes straight out of Tanzania\. Cover: Barnaba & Savara
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,965 likes - 64 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,015 likes - 64 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 | 3 | [Natulizana](https://open.spotify.com/track/5JVCPxHDsOBbTn9lw0yhP1) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Natulizana](https://open.spotify.com/album/3rqu6ac3lZYgzvLdYWq6Tg) | 4:26 |
 | 4 | [Juju](https://open.spotify.com/track/7btk2D9MmqVZNuyQS8ghXH) | [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks), [Savara](https://open.spotify.com/artist/4FjLrdzDbqrP9E9FzERGap) | [Juju](https://open.spotify.com/album/6a8IX1RjPdBZbTUzNFHiWj) | 2:54 |
 | 5 | [Kama Sio](https://open.spotify.com/track/6S920U14Kw9v5dedojzQLA) | [Kusah](https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK), [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Kama Sio](https://open.spotify.com/album/3jlIsMfVbLH2l8aS8EgDvJ) | 3:14 |
-| 6 | [Iyo](https://open.spotify.com/track/61G4tfLUvb5isV12olpU3e) | [D Voice](https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm), [Diamond Platnumz](https://open.spotify.com/artist/43lpYqSqfDX8Y5qSMg9aSo) | [Iyo](https://open.spotify.com/album/480StamAa1AukvZln5aB7d) | 3:16 |
+| 6 | [Iyo](https://open.spotify.com/track/61G4tfLUvb5isV12olpU3e) | [D Voice](https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Iyo](https://open.spotify.com/album/480StamAa1AukvZln5aB7d) | 3:16 |
 | 7 | [Mombasa](https://open.spotify.com/track/77yjMVDTTozcP5yyebGQ1F) | [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Mombasa](https://open.spotify.com/album/2i6qYd2aQXtLuDmcyS5lWU) | 2:43 |
 | 8 | [Darasa La Saba](https://open.spotify.com/track/2kK6L0G26k6GrYCVG6BKwX) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Darasa La Saba](https://open.spotify.com/album/2wmpUJYl76GbTXEBJn52qV) | 4:20 |
 | 9 | [Bado Nakupenda](https://open.spotify.com/track/6Pk0SaknPaIZSB8ZE3EWQq) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Bado Nakupenda](https://open.spotify.com/album/1n2LZ7DJW1QFoBrLdxAdbO) | 2:43 |

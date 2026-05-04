@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: Mitch Wong
 
-[Spotify](https://open.spotify.com/user/spotify) - 370,052 likes - 99 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 370,062 likes - 99 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 34 | [Good News Savior](https://open.spotify.com/track/50EksrsAPup9RlTSPuo5yR) | [The Hyssongs](https://open.spotify.com/artist/043cyQpixgQIhsOQRxxmyW) | [Good News Savior](https://open.spotify.com/album/5s9JxWx84LCbB6GR6IoBp8) | 3:23 |
 | 35 | [Breathe \(feat\. Titus Tucker & Rahkii\)](https://open.spotify.com/track/6wYs3GQfnziD1RdtPbUbFD) | [Forward City](https://open.spotify.com/artist/58bqbgcmYuTyHDGGkHbrFH), [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe), [Rahkii](https://open.spotify.com/artist/2OUw9DvdP84qX4FkQSwMoG), [Titus Tucker](https://open.spotify.com/artist/4idr0xVXTUerf9RyhOlCV2) | [Here Comes the Wind](https://open.spotify.com/album/1z3z3EuiyWz5pVcQvqMZZp) | 6:53 |
 | 36 | [Know Your Name](https://open.spotify.com/track/45EuRfYN9UPYrRuu0Kqvzb) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [Know Your Name](https://open.spotify.com/album/7sfVqskY9vO2XqKlXY2pMv) | 4:32 |
-| 37 | [Halleluyahweh \- Live](https://open.spotify.com/track/4iag769m0Ayuh005HwJ7zT) | [CCC Collective](https://open.spotify.com/artist/1IKvoVXgyeixSHxoJvE9yV), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Israel Houghton](https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6) | [Breaking News \(Live\)](https://open.spotify.com/album/3NkbQCklKXnDH9yOyyIEFg) | 9:26 |
+| 37 | [HalleluYHWH \- Live](https://open.spotify.com/track/4iag769m0Ayuh005HwJ7zT) | [CCC Collective](https://open.spotify.com/artist/1IKvoVXgyeixSHxoJvE9yV), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Israel Houghton](https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6) | [Breaking News \(Live\)](https://open.spotify.com/album/3NkbQCklKXnDH9yOyyIEFg) | 9:26 |
 | 38 | [Open The Floodgates \- Live](https://open.spotify.com/track/1DMEBvMxsyQKYFdN9jS3Es) | [Victory House Worship](https://open.spotify.com/artist/6kzOnutG18rqaBCLzY0gwI) | [Open The Floodgates \(Live\)](https://open.spotify.com/album/2ZIdIiSkWeCGXqXAsdYJTN) | 6:58 |
 | 39 | [Holy](https://open.spotify.com/track/3TrTkrfeF7FrgJ0Apcpz5t) | [Judah Band](https://open.spotify.com/artist/03gMZAPd2rlsXGVZDusedV) | [Holy](https://open.spotify.com/album/70inSkGQfCHnKIXFgFjLHZ) | 7:07 |
 | 40 | [My Daddy Loves Me](https://open.spotify.com/track/0h5LOYHokBrfBKHDd1S0Bf) | [Olamiji Rasheed](https://open.spotify.com/artist/797ilaBFnTzTvavwB225LX), [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [My Daddy Loves Me](https://open.spotify.com/album/3TIJApif55y5aPz885WiaL) | 5:36 |

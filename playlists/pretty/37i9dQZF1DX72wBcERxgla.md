@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72wBcERxgla.md) - [plain]
 
 > Jazz piano to accompany your reading.
 
-[Spotify](https://open.spotify.com/user/spotify) - 313,230 likes - 135 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 313,353 likes - 135 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -144,4 +144,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72wBcERxgla.md) - [plain]
 | 134 | [Knowing Myself](https://open.spotify.com/track/6jz8RHzqIWAcFeIsRjOH2x) | [Bernstein Square](https://open.spotify.com/artist/0RdMRIhMDTQEpMcALRyQTK) | [Knowing Myself](https://open.spotify.com/album/6l4uNwiLFEp6yV5MSZpMQB) | 2:22 |
 | 135 | [The Songbird](https://open.spotify.com/track/6r0SpNHMhuuUcndaJZ9Zxy) | [Ferragno](https://open.spotify.com/artist/6V5Qb50Rc4RxLMVRgLyD2W) | [The Songbird](https://open.spotify.com/album/0ifVCB5Y3UiwEHjbUnM0xJ) | 2:42 |
 
-Snapshot ID: `AAAAANMDDOGkgHzTjyqMsbBvQCQZ3MFu`
+Snapshot ID: `AAAAAE9/FqleJP/HMXGP/PL/qdLKYNVL`

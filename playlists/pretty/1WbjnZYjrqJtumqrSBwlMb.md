@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 
 > Objectively good music
 
-[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,262 songs - 3 day 5 hr 45 min
+[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,263 songs - 3 day 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1270,5 +1270,6 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 | 1260 | [A Conversation](https://open.spotify.com/track/5dTl8yRgxakkpYlSWNl6nl) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [The Long and Short of It](https://open.spotify.com/album/6pUiy5Z2QoIV0JOiKlu3aQ) | 1:18 |
 | 1261 | [Everything is Different \(To Me\)](https://open.spotify.com/track/6x3sun3UqxP4g0Juw7ZXx4) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [The Long and Short of It](https://open.spotify.com/album/6pUiy5Z2QoIV0JOiKlu3aQ) | 4:24 |
 | 1262 | [Feel](https://open.spotify.com/track/67YTj3YV37MZ5pv266bzOx) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [The Long and Short of It](https://open.spotify.com/album/6pUiy5Z2QoIV0JOiKlu3aQ) | 2:48 |
+| 1263 | [Musician](https://open.spotify.com/track/7k6jxIMMAcXjHnbbHmGC9H) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Nurture](https://open.spotify.com/album/3QITXlmmt93E176jzVqKUb) | 3:58 |
 
-Snapshot ID: `AAAJ5UcCz/IlwddZL1XVA2qzNRcx6pnC`
+Snapshot ID: `AAAJ5v336soWBSg1E/WKZXAL5Lzj4NxX`

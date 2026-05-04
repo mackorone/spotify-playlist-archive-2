@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX8l0PIEOYVj.md) - [plain]
 
 > Future & melodic bass ❤️‍🔥 featuring Virtual Riot
 
-[Spotify](https://open.spotify.com/user/spotify) - 475,094 likes - 150 songs - 8 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 475,088 likes - 150 songs - 8 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX8l0PIEOYVj.md) - [plain]
 | 149 | [Slippin](https://open.spotify.com/track/28bclJ38qiAdrAS57F0gpk) | [Maddy O'Neal](https://open.spotify.com/artist/2G4VZIbfdmr60dYUB0oIxF), [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [Slippin](https://open.spotify.com/album/0RcF683pMDRxkeZcYLMa0a) | 3:28 |
 | 150 | [Free Your Mind](https://open.spotify.com/track/5IfDKPGTYicNZTCScvg7wh) | [RemK](https://open.spotify.com/artist/4IVi10Tw5s4iwiPUvh6DcF), [Kenzie Gross](https://open.spotify.com/artist/3yYjNaKj8CA20cZrf3kwxa) | [Caught In The Current EP](https://open.spotify.com/album/3abOwnzK8eqBOEQUuUZnGK) | 3:07 |
 
-Snapshot ID: `AAAAAPxQwe9ed09uyAE1qsModbPeCf3I`
+Snapshot ID: `AAAAALp2zI7Y43TLTWQp9v0SPL+7t/+D`

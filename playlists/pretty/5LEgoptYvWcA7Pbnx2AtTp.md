@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5LEgoptYvWcA7Pbnx2AtTp.md) - [plain]
 
 > Questionable in both morals and taste.
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 10 likes - 190 songs - 10 hr 51 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 10 likes - 191 songs - 10 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -198,5 +198,6 @@ pretty - [cumulative](/playlists/cumulative/5LEgoptYvWcA7Pbnx2AtTp.md) - [plain]
 | 188 | [Wheels Spinnin'](https://open.spotify.com/track/4ex4M0cUGAItldHZcBo0KE) | [Shane MauX](https://open.spotify.com/artist/3ygfn18GV8qCw4XcEPJkbA) | [Good Company](https://open.spotify.com/album/1NR5naRbGSmMqV4ui1GQ67) | 3:49 |
 | 189 | [BRAINS! \(from the Cartoon Network's GRIM AND EVIL\)](https://open.spotify.com/track/4W6GZFd0xDFEux8Jw59UJf) | [Aurelio Voltaire](https://open.spotify.com/artist/2ZCG1aukcb5fjBDgizvDbD) | [BOO HOO](https://open.spotify.com/album/2EY8rTI7ZaU9f68LDXIsZk) | 5:11 |
 | 190 | [Hullabaloo](https://open.spotify.com/track/1L2MyJvWX5TCEGUWR2LdRJ) | [Rare Americans](https://open.spotify.com/artist/0e5Rda7VQAY786739xp0Jt) | [Rare Americans 2](https://open.spotify.com/album/3XaGggSCmE8nuUWMm1G5CU) | 3:17 |
+| 191 | [Insane](https://open.spotify.com/track/5flerg6aEao2VayZezVlgu) | [Black Gryph0n](https://open.spotify.com/artist/4ET82ZtSfAK4utfjDauImD), [Baasik](https://open.spotify.com/artist/3bSyv1vO8ye6PKyWcJeVbI) | [Insane](https://open.spotify.com/album/3o5Dz1PLFlYXplnsp5zZxh) | 2:39 |
 
-Snapshot ID: `AAABC2jovsTFqvFEqIwRevK84k1LzRCy`
+Snapshot ID: `AAABDG8G/zLKUIhdq5EEpcbQRrVusS/O`

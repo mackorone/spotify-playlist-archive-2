@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSxJWQl7kBh.md) - [plain]
 
 > ni siquiera quiero lujos caros, solo quisiera estar bien 🙏🏽✨ Grupo Recluta en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 415,430 likes - 80 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 415,569 likes - 80 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSxJWQl7kBh.md) - [plain]
 | 79 | [Capitan O Chachito](https://open.spotify.com/track/3fMRwWZeyBWNVuqXwNas0R) | [Raúl Beltran](https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP) | [Capitan O Chachito](https://open.spotify.com/album/4aOOppgBB4dJ7CmCbTy3yw) | 3:44 |
 | 80 | [MAYBE](https://open.spotify.com/track/7DmKAXii1NFObsmBWSNO0M) | [Tombochio](https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r) | [GAD](https://open.spotify.com/album/3BhIIm6DEgqUXGc5np42a0) | 3:09 |
 
-Snapshot ID: `AAAAALyb89D4MhtK6Aajg61mVKPvhJsW`
+Snapshot ID: `AAAAAIRYzfnagtpAhQHOkUGy9nKFW4wc`

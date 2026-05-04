@@ -841,6 +841,24 @@
     },
     {
       "album": {
+        "name": "D.A.C.",
+        "url": "https://open.spotify.com/album/60EBaGNNZ6CPedkImS61v1"
+      },
+      "artists": [
+        {
+          "name": "David Allan Coe",
+          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150173,
+      "name": "Whiskey, Whiskey (Take My Mind)",
+      "url": "https://open.spotify.com/track/1wF6guhoUL3dHyzHbUX1GB"
+    },
+    {
+      "album": {
         "name": "Darlin', Darlin'",
         "url": "https://open.spotify.com/album/0ttaFuz2MNLsozzwbTn07B"
       },
@@ -888,7 +906,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-04",
       "duration_ms": 169533,
       "name": "Would You Lay With Me (In a Field of Stone)",
       "url": "https://open.spotify.com/track/77mn635jGmcnToalQNP8Bj"

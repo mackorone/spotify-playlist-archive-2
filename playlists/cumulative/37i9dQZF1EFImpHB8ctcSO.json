@@ -23,6 +23,76 @@
     },
     {
       "album": {
+        "name": "Rock The Net: Musicians For Network Neutrality",
+        "url": "https://open.spotify.com/album/0I4VLqIaU8FXyC5Yu43Gyw"
+      },
+      "artists": [
+        {
+          "name": "Bright Eyes",
+          "url": "https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU"
+        },
+        {
+          "name": "Aimee Mann",
+          "url": "https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk"
+        },
+        {
+          "name": "BC Camplight",
+          "url": "https://open.spotify.com/artist/3cePP77CX6XY9b0aigzrqh"
+        },
+        {
+          "name": "David Bazan",
+          "url": "https://open.spotify.com/artist/5vwWDRwjVCilY1uYVfJfLL"
+        },
+        {
+          "name": "David Miller",
+          "url": "https://open.spotify.com/artist/3yfCzeWQYRMJFZhZsoONty"
+        },
+        {
+          "name": "DJ Spooky feat. Saba Saba",
+          "url": "https://open.spotify.com/artist/7rpaINED0k0KyUNM4A2q0E"
+        },
+        {
+          "name": "Free Form Funky Freqs",
+          "url": "https://open.spotify.com/artist/1LdWyLwKLGGqK7BguvGVdB"
+        },
+        {
+          "name": "Los 6 Paraguayos",
+          "url": "https://open.spotify.com/artist/2ESP6evQ6Zjd5oHEfaXQIj"
+        },
+        {
+          "name": "Matthew Shipp",
+          "url": "https://open.spotify.com/artist/1Lw2WbL7CWZXAWSLWYXq4r"
+        },
+        {
+          "name": "Guster",
+          "url": "https://open.spotify.com/artist/34XlPCFfB4vT7P1ekWq9Jc"
+        },
+        {
+          "name": "Portastatic",
+          "url": "https://open.spotify.com/artist/5YFFss1uTFY0gfMMR1f9FD"
+        },
+        {
+          "name": "The Classic Brown",
+          "url": "https://open.spotify.com/artist/3GZRyTBNHn3vEpXjpsCujq"
+        },
+        {
+          "name": "The Wrens",
+          "url": "https://open.spotify.com/artist/04cetTUz2JTzXBqFKO5YB5"
+        },
+        {
+          "name": "Wilco",
+          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
+        }
+      ],
+      "date_added": "2026-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291093,
+      "name": "31 Today",
+      "url": "https://open.spotify.com/track/2IjooEioNP0VUaLcO8VY05"
+    },
+    {
+      "album": {
         "name": "Whatever",
         "url": "https://open.spotify.com/album/6c1xyQiasQXWYtKy70Vm8q"
       },
@@ -2192,10 +2262,32 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-04",
       "duration_ms": 206253,
       "name": "Living A Lie",
       "url": "https://open.spotify.com/track/7mOWs4uoSzkLNkpmx5qz1G"
+    },
+    {
+      "album": {
+        "name": "Charmer",
+        "url": "https://open.spotify.com/album/2gZkvOWF9m4GVgMxEX3AlT"
+      },
+      "artists": [
+        {
+          "name": "Aimee Mann",
+          "url": "https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk"
+        },
+        {
+          "name": "James Mercer",
+          "url": "https://open.spotify.com/artist/1og8fy01lbguVA5plZZRtd"
+        }
+      ],
+      "date_added": "2026-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206253,
+      "name": "Living a Lie",
+      "url": "https://open.spotify.com/track/3LkBwsdSEo89OIiOTW2Lpd"
     },
     {
       "album": {
@@ -3752,7 +3844,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-04",
       "duration_ms": 292226,
       "name": "Thirty One Today",
       "url": "https://open.spotify.com/track/4YyMiAFXbxQ71g0fdbqeVF"

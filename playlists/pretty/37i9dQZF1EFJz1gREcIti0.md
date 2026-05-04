@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJz1gREcIti0.md) - [plain]
 | 44 | [2021](https://open.spotify.com/track/49WWSaa9yKrvsj8PhsIWmc) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [2021](https://open.spotify.com/album/4ffgttI9dtiW8lWDJ8uM5i) | 3:15 |
 | 45 | [Endlessly](https://open.spotify.com/track/3LRWraxJdgfnfSaV0zWZ5J) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [It Was Divine](https://open.spotify.com/album/6aZ4ZtDzQNNIOFeHUj51No) | 5:00 |
 | 46 | [Morocco \(feat\. 6LACK\)](https://open.spotify.com/track/40m2thUbaJKowDYvbxOVeU) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [It Was Divine](https://open.spotify.com/album/6aZ4ZtDzQNNIOFeHUj51No) | 2:21 |
-| 47 | [Trust](https://open.spotify.com/track/5pAKmmLUmT1aAoaAAKkeiv) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [Trust](https://open.spotify.com/album/2LJwBOQzVZVObF1feBq7Cq) | 2:35 |
-| 48 | [Sabotage](https://open.spotify.com/track/0Q1yD22zCaVWxKV6w8wp45) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time](https://open.spotify.com/album/3ZWIfcV7tylRzVh6amRaDv) | 3:34 |
+| 47 | [Sabotage](https://open.spotify.com/track/0Q1yD22zCaVWxKV6w8wp45) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time](https://open.spotify.com/album/3ZWIfcV7tylRzVh6amRaDv) | 3:34 |
+| 48 | [Trust](https://open.spotify.com/track/5pAKmmLUmT1aAoaAAKkeiv) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [Trust](https://open.spotify.com/album/2LJwBOQzVZVObF1feBq7Cq) | 2:35 |
 | 49 | [Right There](https://open.spotify.com/track/6ACABT7da0gny402DMm9vs) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [Moongate](https://open.spotify.com/album/0teV5HNso0WGi7EwyASosR) | 2:42 |
 | 50 | [for the people in the back](https://open.spotify.com/track/72gooyj5bJQNROC5Ptmjn7) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [our little angel \- EP](https://open.spotify.com/album/6RIPoDTAV7hnyBAM5xrKVV) | 2:34 |
 | 51 | [Questions For The Universe](https://open.spotify.com/track/7kle3wveNJelYdI1khvHDb) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/777K2ytcKbDsX0AZ2y8CBS) | 3:23 |
@@ -144,8 +144,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJz1gREcIti0.md) - [plain]
 | 134 | [Venus](https://open.spotify.com/track/4kZj7dHGWSfnP34LSEHLQl) | [Symphani Soto](https://open.spotify.com/artist/5N2lZ3f6pIpMTnpfVV4Adg) | [Under The Sun](https://open.spotify.com/album/0d5s5Jp5BJ6S7arBPAnfyg) | 3:03 |
 | 135 | [Live It Up](https://open.spotify.com/track/5dZKshIBLX3U9JprsR75mV) | [Metro Marrs](https://open.spotify.com/artist/4mnXd7tspPHEPPJij1swWX) | [Popular Loner](https://open.spotify.com/album/7KiThVa9aW0ggvxbLMcTE5) | 2:21 |
 | 136 | [\(RAP SH\*T\)](https://open.spotify.com/track/59VbLC5AZPKDn5HKRPkCpQ) | [Sam Dew](https://open.spotify.com/artist/1SIw8nXWjvAKeb6Dhh85cz) | [MOONLIT FOOLS](https://open.spotify.com/album/1QeiSQx4kOgkncEVUM5Nud) | 2:57 |
-| 137 | [DO OVER](https://open.spotify.com/track/5QsvwpZpAFZr3mZSiUfyJz) | [Sam Dew](https://open.spotify.com/artist/1SIw8nXWjvAKeb6Dhh85cz) | [MOONLIT FOOLS](https://open.spotify.com/album/1QeiSQx4kOgkncEVUM5Nud) | 2:31 |
-| 138 | [Rain On Me](https://open.spotify.com/track/3sx0w5R8ypSstoSBseVERN) | [India Shawn](https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL) | [Rain On Me](https://open.spotify.com/album/3hgnBTDyDAvWoQ6SNqUqgy) | 3:00 |
+| 137 | [Rain On Me](https://open.spotify.com/track/3sx0w5R8ypSstoSBseVERN) | [India Shawn](https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL) | [Rain On Me](https://open.spotify.com/album/3hgnBTDyDAvWoQ6SNqUqgy) | 3:00 |
+| 138 | [DO OVER](https://open.spotify.com/track/5QsvwpZpAFZr3mZSiUfyJz) | [Sam Dew](https://open.spotify.com/artist/1SIw8nXWjvAKeb6Dhh85cz) | [MOONLIT FOOLS](https://open.spotify.com/album/1QeiSQx4kOgkncEVUM5Nud) | 2:31 |
 | 139 | [Norf Gun](https://open.spotify.com/track/5bFgVgHbZkatgRhI8LPgd4) | [Bartees Strange](https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG) | [Horror](https://open.spotify.com/album/63PDPkOtqUzHu8qNolREp8) | 3:00 |
 | 140 | [Swim](https://open.spotify.com/track/4eSGI45RAwuRGtKxg0IYSz) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [In Bloom](https://open.spotify.com/album/5PVu8HSd5Ig81TaTixT4Wp) | 3:22 |
 | 141 | [Masterpiece](https://open.spotify.com/track/53P7tuwBSzScUiUW9TZqh1) | [Miquela](https://open.spotify.com/artist/7licaqhcEBQUzz9FownRaJ) | [Masterpiece](https://open.spotify.com/album/25LjRMXzJmUlip21z0he9D) | 4:04 |
@@ -156,4 +156,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJz1gREcIti0.md) - [plain]
 | 146 | [Free Fall \- Edit](https://open.spotify.com/track/5rQtSoeRRO4y3d54z1Kd1f) | [Beckah Amani](https://open.spotify.com/artist/6AlUh97NNEBLo3OqYORyIi) | [Free Fall](https://open.spotify.com/album/4df4LmPcayUQczAkV63sn4) | 3:01 |
 | 147 | [Mockingbird](https://open.spotify.com/track/1AlxrPQuJNXOl3wQOXyv68) | [Paul Dally](https://open.spotify.com/artist/6OQd6IInCegvnBJ3eWeokE) | [Rave](https://open.spotify.com/album/4ETd0GtmlvoPnD8woGy2sX) | 3:28 |
 
-Snapshot ID: `AcQcvgAAAACwlVGY+ueIKPzoiOKYQeGZ`
+Snapshot ID: `AcQiXgAAAABs6oucwBn8giYcT7eyFn7h`

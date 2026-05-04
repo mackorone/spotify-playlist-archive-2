@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeDU5PJuUQs.md) - [plain]
 
 > Unas buenas cumbias con el calor de la gente! <br/>Foto: Ke Personajes & Ulises Bueno.
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,536 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,608 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeDU5PJuUQs.md) - [plain]
 | 99 | [Ahí Para Amarte](https://open.spotify.com/track/0qsTOzapTERMzlrnBlxcuA) | [Daniel Cardozo](https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T) | [Ahí Para Amarte](https://open.spotify.com/album/6mc7272E6trGK3AkwHcd9z) | 3:30 |
 | 100 | [Pájaro y Demonio \- En Vivo en Estadio Ferro](https://open.spotify.com/track/2jCMZLVsoJVy2kXMVCo6WB) | [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q) | [Pájaro y Demonio \(En Vivo en Estadio Ferro\)](https://open.spotify.com/album/5nvYMz3U7q2koCQ7NgJOun) | 4:11 |
 
-Snapshot ID: `AAAAAHS701+78bNW8XvWUxGf50uoFMSg`
+Snapshot ID: `AAAAAJFzRsw4yjqx46v7o2z+Lpds0aXP`

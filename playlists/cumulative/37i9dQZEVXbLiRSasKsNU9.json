@@ -8838,7 +8838,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-04",
       "duration_ms": 153281,
       "name": "Bad Angel (with LISA)",
       "url": "https://open.spotify.com/track/4QR40LqFAbMdabh4AoZJGZ"
@@ -34731,6 +34731,24 @@
     },
     {
       "album": {
+        "name": "Born In The Echoes",
+        "url": "https://open.spotify.com/album/3XUVUh6hisN43r2eZAOJRD"
+      },
+      "artists": [
+        {
+          "name": "The Chemical Brothers",
+          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
+        }
+      ],
+      "date_added": "2026-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260696,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/2Xhd1kYKj2aee7JR3nIlRe"
+    },
+    {
+      "album": {
         "name": "GO AGAIN (feat. Superheaven)",
         "url": "https://open.spotify.com/album/4WXIMpmT2wITUU85TCcW0z"
       },
@@ -46736,7 +46754,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-04",
       "duration_ms": 224000,
       "name": "Kicau Mania",
       "url": "https://open.spotify.com/track/39M8SHyEuWiJSXODMY3YJ3"
@@ -46874,7 +46892,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-04",
       "duration_ms": 161075,
       "name": "Kingdom of Fear",
       "url": "https://open.spotify.com/track/4Es6f0zquGHCrv9Hespx9W"
@@ -80531,6 +80549,24 @@
     },
     {
       "album": {
+        "name": "Skokka",
+        "url": "https://open.spotify.com/album/7zMvvxOXqVcXJDGQahGVEX"
+      },
+      "artists": [
+        {
+          "name": "Huan62",
+          "url": "https://open.spotify.com/artist/08yYd8o1CrOjIpGHP2I6zU"
+        }
+      ],
+      "date_added": "2026-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Skokka",
+      "url": "https://open.spotify.com/track/2wzrS1Y8Oy4NvUw8bnOfKi"
+    },
+    {
+      "album": {
         "name": "Himmlische Tr\u00e4ume",
         "url": "https://open.spotify.com/album/49p6Te0TtN1Ew5qP5GIEQB"
       },
@@ -99234,6 +99270,24 @@
       "duration_ms": 127500,
       "name": "You Missed",
       "url": "https://open.spotify.com/track/1EhgbnpHvHctMlLNJRIbP0"
+    },
+    {
+      "album": {
+        "name": "Once Upon a Rhyme",
+        "url": "https://open.spotify.com/album/6YfHzMRBscPjVqcxIQoXom"
+      },
+      "artists": [
+        {
+          "name": "David Allan Coe",
+          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
+        }
+      ],
+      "date_added": "2026-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316026,
+      "name": "You Never Even Called Me by My Name",
+      "url": "https://open.spotify.com/track/2mV4xg3mvO5aXPLMoD7WrR"
     },
     {
       "album": {

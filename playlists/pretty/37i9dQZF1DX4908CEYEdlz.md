@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4908CEYEdlz.md) - [plain]
 
 > Lançamentos de rock que você precisa conhecer, AUMENTA O VOLUME! Foto: Sepultura
 
-[Spotify](https://open.spotify.com/user/spotify) - 925,037 likes - 74 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 924,862 likes - 74 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

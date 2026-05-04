@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-29",
-  "description": "<a href=spotify:playlist:37i9dQZF1EIWpW3jQExM4k>Empire Of The Sun</a>, <a href=spotify:playlist:37i9dQZF1EIWR2Z7ggXEKn>Drake</a>, <a href=spotify:playlist:37i9dQZF1EIZCsyhLFyG4d>Kendrick Lamar</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIUVhDkMc6n10>Kanye West</a>, <a href=spotify:playlist:37i9dQZF1EIX6JB3qtkBJY>Dominic Fike</a>, <a href=spotify:playlist:37i9dQZF1EIZFSv8zffo2I>Arctic Monkeys</a> and more",
   "name": "Chill Mix",
   "tracks": [
     {
@@ -547,6 +547,24 @@
     },
     {
       "album": {
+        "name": "Terminal 3",
+        "url": "https://open.spotify.com/album/1VWD7epWmb4cR4gHCI2fQC"
+      },
+      "artists": [
+        {
+          "name": "3House",
+          "url": "https://open.spotify.com/artist/5hnSOpUeldFZV2lzs8TP1w"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175346,
+      "name": "After Rain",
+      "url": "https://open.spotify.com/track/6aZgxJOcQCacpBSSwQt9Dx"
+    },
+    {
+      "album": {
         "name": "Isolation",
         "url": "https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY"
       },
@@ -792,7 +810,7 @@
       ],
       "date_added": "2025-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-04",
       "duration_ms": 232186,
       "name": "All The Stars (with SZA) - From \"Black Panther: The Album\"",
       "url": "https://open.spotify.com/track/3GCdLUSnKSMJhs4Tj6CV3s"
@@ -5674,7 +5692,7 @@
       ],
       "date_added": "2025-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-14",
+      "date_removed": null,
       "duration_ms": 237506,
       "name": "Flashing Lights",
       "url": "https://open.spotify.com/track/5TRPicyLGbAF2LGBFbHGvO"
@@ -8212,7 +8230,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-03",
+      "date_removed": null,
       "duration_ms": 181224,
       "name": "im",
       "url": "https://open.spotify.com/track/5jafdhzNd10OfOgPegnUyU"
@@ -12383,6 +12401,24 @@
     },
     {
       "album": {
+        "name": "inside heart\uff1aLOVE",
+        "url": "https://open.spotify.com/album/1V49qm3ejuhijk5qyLIi10"
+      },
+      "artists": [
+        {
+          "name": "Woody",
+          "url": "https://open.spotify.com/artist/0OvP9ZkETqzwMVIB8kEC93"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196093,
+      "name": "ONLY FOR U",
+      "url": "https://open.spotify.com/track/7uTLZcZjfN7gMD84L1Y8NZ"
+    },
+    {
+      "album": {
         "name": "Every Kingdom",
         "url": "https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce"
       },
@@ -12582,7 +12618,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-04",
       "duration_ms": 298940,
       "name": "Passionfruit",
       "url": "https://open.spotify.com/track/5mCPDVBb16L4XQwDdbRUpz"
@@ -14960,7 +14996,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-04",
       "duration_ms": 169000,
       "name": "So Easy (To Fall In Love)",
       "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
@@ -15280,7 +15316,7 @@
       ],
       "date_added": "2026-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-04",
       "duration_ms": 229200,
       "name": "Soul",
       "url": "https://open.spotify.com/track/11UD9IOlsEbK4fUURUziTj"
@@ -15988,6 +16024,32 @@
       "duration_ms": 109565,
       "name": "Sunset",
       "url": "https://open.spotify.com/track/1UYKCTtPpyX0ZY9obpz80a"
+    },
+    {
+      "album": {
+        "name": "AQUA",
+        "url": "https://open.spotify.com/album/15kFXzYhN3UFMdpU5umEB4"
+      },
+      "artists": [
+        {
+          "name": "Gottz",
+          "url": "https://open.spotify.com/artist/4Rd7uX3gR54NvnI8Xmkes4"
+        },
+        {
+          "name": "IO",
+          "url": "https://open.spotify.com/artist/7wJbfRQ42OuzAQfXMVidTd"
+        },
+        {
+          "name": "Yo-Sea",
+          "url": "https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161774,
+      "name": "SUNSET (feat. IO & Yo-Sea)",
+      "url": "https://open.spotify.com/track/5XAasKwKOjFVG7BUkOagLc"
     },
     {
       "album": {
@@ -18666,7 +18728,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-04",
       "duration_ms": 198440,
       "name": "Walking On A Dream",
       "url": "https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ"
@@ -19074,7 +19136,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-01",
+      "date_removed": null,
       "duration_ms": 144101,
       "name": "White Keys",
       "url": "https://open.spotify.com/track/5ViLKrbyL3HD6wsq3AB9eI"
@@ -19200,7 +19262,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-16",
+      "date_removed": null,
       "duration_ms": 161123,
       "name": "Why'd You Only Call Me When You're High?",
       "url": "https://open.spotify.com/track/086myS9r57YsLbJpU0TgK9"
@@ -19847,6 +19909,24 @@
     },
     {
       "album": {
+        "name": "ZIP ROCK STAR",
+        "url": "https://open.spotify.com/album/6Pora0Pu3ake6kBSs1Z6dO"
+      },
+      "artists": [
+        {
+          "name": "HENTAI SHINSHI CLUB",
+          "url": "https://open.spotify.com/artist/4vN78fN1iEh83Pgaesw2jU"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217037,
+      "name": "\u3059\u304d\u306b\u3084\u308b",
+      "url": "https://open.spotify.com/track/1zLe4IUbEVDYa1UudvdT9G"
+    },
+    {
+      "album": {
         "name": "No.\u2160",
         "url": "https://open.spotify.com/album/70pmJqqFLoPC0hJEcdCNaj"
       },
@@ -19858,7 +19938,7 @@
       ],
       "date_added": "2026-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-04",
       "duration_ms": 169969,
       "name": "\u306a\u3093\u304bHEAVEN",
       "url": "https://open.spotify.com/track/7wMtbmCBDRfSnWqLBUxNd8"
@@ -19930,7 +20010,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-04",
       "duration_ms": 229333,
       "name": "\u30ac\u30fc\u30c7\u30f3",
       "url": "https://open.spotify.com/track/5U4PgFWzfzY7VEg9Ck4ziF"
@@ -19988,6 +20068,24 @@
       "duration_ms": 291880,
       "name": "\u30e1\u30eb\u30d8\u30f3\u3092\u6368\u3066\u306a\u3044\u3067",
       "url": "https://open.spotify.com/track/1GsZsgGcyDpE4MnGBgN6uo"
+    },
+    {
+      "album": {
+        "name": "\u30ec\u30e2\u30cd\u30fc\u30c9",
+        "url": "https://open.spotify.com/album/2o4jA3fTCRaQBj3tqrOHiN"
+      },
+      "artists": [
+        {
+          "name": "nqrse",
+          "url": "https://open.spotify.com/artist/5eduWHej9M7DxUUO3jokA3"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227934,
+      "name": "\u30ec\u30e2\u30cd\u30fc\u30c9",
+      "url": "https://open.spotify.com/track/1qxYJVVTEOJoo08NDqbgD4"
     },
     {
       "album": {
@@ -20150,7 +20248,7 @@
       ],
       "date_added": "2026-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-04",
       "duration_ms": 265040,
       "name": "\u5e38\u591c\u71c8",
       "url": "https://open.spotify.com/track/3VOFoXifvQGUe4AbxEfjCU"
@@ -20168,7 +20266,7 @@
       ],
       "date_added": "2026-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-04",
       "duration_ms": 263240,
       "name": "\u5e73\u71b1",
       "url": "https://open.spotify.com/track/5Df3SejzZrNvrIS3wnPWfD"

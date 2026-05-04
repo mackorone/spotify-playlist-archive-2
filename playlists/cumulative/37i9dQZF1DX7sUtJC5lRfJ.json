@@ -147,6 +147,28 @@
     },
     {
       "album": {
+        "name": "c\u00f3 l\u1ebd (feat. Minh T\u1ed1c & Lam)",
+        "url": "https://open.spotify.com/album/4NUBDxSZp7RUIPqEF6wki9"
+      },
+      "artists": [
+        {
+          "name": "SWAN",
+          "url": "https://open.spotify.com/artist/0kRs5H8JQHkHMQwBg7BgPv"
+        },
+        {
+          "name": "Minh T\u1ed1c & Lam",
+          "url": "https://open.spotify.com/artist/27RoKwun6jKycKbH2iYUFU"
+        }
+      ],
+      "date_added": "2026-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "c\u00f3 l\u1ebd (feat. Minh T\u1ed1c & Lam)",
+      "url": "https://open.spotify.com/track/01QPPMqRh4qKqhj9PIRlLg"
+    },
+    {
+      "album": {
         "name": "C\u1ee9 Chill Th\u00f4i",
         "url": "https://open.spotify.com/album/7FEh6eJumH2tqhXKfQ5Tul"
       },
@@ -166,7 +188,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-04",
       "duration_ms": 270000,
       "name": "C\u1ee9 Chill Th\u00f4i",
       "url": "https://open.spotify.com/track/014DA3BdnmD3kI5pBogH7c"
@@ -286,7 +308,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-04",
       "duration_ms": 191379,
       "name": "L\u1eeda G\u1ea7n R\u01a1m",
       "url": "https://open.spotify.com/track/3AF1fXVAtkscCkW7mEVxUY"
@@ -334,6 +356,28 @@
       "duration_ms": 219154,
       "name": "M\u00e1y Bay Gi\u1ea5y (ROCK)",
       "url": "https://open.spotify.com/track/39rXWGPo9YlQgcc9dgwBhk"
+    },
+    {
+      "album": {
+        "name": "M\u00f9a \u0110\u00f4ng Kh\u00f4ng L\u1ea1nh (Ch\u1ecdn G\u00ec? Ch\u1ecdn \u0110I! Version)",
+        "url": "https://open.spotify.com/album/3LEuJn0WIckijCggkPnF32"
+      },
+      "artists": [
+        {
+          "name": "Ch\u1ecdn g\u00ec? Ch\u1ecdn \u0111i!",
+          "url": "https://open.spotify.com/artist/61ydMyohF67xBZmWSPA3YQ"
+        },
+        {
+          "name": "\u00c1nh S\u00e1ng AZA",
+          "url": "https://open.spotify.com/artist/0agWx6vy0Ss4FGafO8bEYc"
+        }
+      ],
+      "date_added": "2026-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182681,
+      "name": "M\u00f9a \u0110\u00f4ng Kh\u00f4ng L\u1ea1nh - Ch\u1ecdn G\u00ec? Ch\u1ecdn \u0110I! Version",
+      "url": "https://open.spotify.com/track/4mOAUkATsQXnskxDJOXWCL"
     },
     {
       "album": {

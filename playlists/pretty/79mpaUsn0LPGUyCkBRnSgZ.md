@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 717 songs - 1 day 22 hr 36 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 718 songs - 1 day 22 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -723,7 +723,8 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 713 | [CIRCLE](https://open.spotify.com/track/1KDlkUvgWmRHe2E5DV9SCW) | [Sam Gendel](https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk), [Sam Wilkes](https://open.spotify.com/artist/6Xo1vXFRCEJPgVqCyHlTPW) | [The Doober](https://open.spotify.com/album/0UpgnNkIkta5tDr8l8NQIS) | 1:41 |
 | 714 | [Bishop](https://open.spotify.com/track/2rokzbolW3350YqYejvmgV) | [Anna Butterss](https://open.spotify.com/artist/2AN7XYCHxVLSqJ5RPjI4DA) | [Mighty Vertebrate](https://open.spotify.com/album/0lnAG8yZcln85SGhVzy9ru) | 3:14 |
 | 715 | [Guess](https://open.spotify.com/track/3u0CuoVA8qsqnRFrN6grPi) | [Friko](https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR) | [Something Worth Waiting For](https://open.spotify.com/album/188WRkngMxrMTVmeWKp3yG) | 3:46 |
-| 716 | [Gotta Start Somewhere](https://open.spotify.com/track/6XwgWvXy9k2eEymsdO0TOR) | [Jon Brion](https://open.spotify.com/artist/57YJQe0ayvIaRZJ3PW5nFP) | [Meaningless](https://open.spotify.com/album/7ldLryq64OYeDuu4rUTjfH) | 4:13 |
-| 717 | [Backseat](https://open.spotify.com/track/1JuEY1JagyaMt8EtmhGjR0) | [Third Attempt](https://open.spotify.com/artist/3jI8E89g0xxRPU8tgYgyWD) | [Backseat](https://open.spotify.com/album/7zE0PXIJKroQxHt6oVvA8G) | 3:42 |
+| 716 | [Little Hands](https://open.spotify.com/track/1ibcyT87MJO8HGEq4YOeXk) | [Alexander 'Skip' Spence](https://open.spotify.com/artist/25e8CxfStX7gVfGIQL2qMd) | [Oar](https://open.spotify.com/album/7sIFcFS96iFIdzLuETglbq) | 3:41 |
+| 717 | [Gotta Start Somewhere](https://open.spotify.com/track/6XwgWvXy9k2eEymsdO0TOR) | [Jon Brion](https://open.spotify.com/artist/57YJQe0ayvIaRZJ3PW5nFP) | [Meaningless](https://open.spotify.com/album/7ldLryq64OYeDuu4rUTjfH) | 4:13 |
+| 718 | [Backseat](https://open.spotify.com/track/1JuEY1JagyaMt8EtmhGjR0) | [Third Attempt](https://open.spotify.com/artist/3jI8E89g0xxRPU8tgYgyWD) | [Backseat](https://open.spotify.com/album/7zE0PXIJKroQxHt6oVvA8G) | 3:42 |
 
-Snapshot ID: `AAAI/wC6udmRTy0r4SWUCJoKyqvLWIVU`
+Snapshot ID: `AAAJAfyIGPXRXfggcKOHCZrFgtBAqIzW`

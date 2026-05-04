@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvNG1v6uWvH.md) - [plain]
 
 > Loksins New Music Friday! Ný tónlist Of Madonna & Sabrina Carpenter, Zara Larsson og mörgum fleiri!
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,629 likes - 82 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,628 likes - 82 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

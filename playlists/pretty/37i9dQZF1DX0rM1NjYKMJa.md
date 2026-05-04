@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rM1NjYKMJa.md) - [plain]
 
 > The vibes start here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,496 likes - 70 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,559 likes - 70 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rM1NjYKMJa.md) - [plain]
 | 69 | [Toast](https://open.spotify.com/track/45tHjcM6gERQ7kCEDTG4al) | [Original Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Rapture](https://open.spotify.com/album/2DlocpnzvkFXxV7iBy3wbZ) | 3:11 |
 | 70 | [Carnival Contract](https://open.spotify.com/track/4YkuP5Y0dOighZCxkoOtg2) | [Bunji Garlin](https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54) | [Carnival Contract](https://open.spotify.com/album/0ehNONKKSjqOHAywRrgU2J) | 3:58 |
 
-Snapshot ID: `AAAAAHO2Y6CvJ0k2aUG+aHhfYoNKDCfL`
+Snapshot ID: `AAAAAPTS8yzdSAATQKLyKUf2r4d46V86`

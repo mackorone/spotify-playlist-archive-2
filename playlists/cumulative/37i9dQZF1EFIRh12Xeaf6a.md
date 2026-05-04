@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3svMrp8RwsOrJ2NaPbK3x9">Carole King</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-444 songs - 22 hr 21 min
+445 songs - 22 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -313,7 +313,8 @@
 | [Sharing You](https://open.spotify.com/track/4ypZEpTX71A1i5HY8ofw2K) | [Bobby Vee](https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO) | [A Bobby Vee Recording Session](https://open.spotify.com/album/5HVg69JrZiQStID8kndZ7K) | 2:02 | 2023-12-30 |  |
 | [Show Me Girl \- 2002 Remaster](https://open.spotify.com/track/7vrzwteWWJqHsOfWD1zT9n) | [Herman's Hermits](https://open.spotify.com/artist/48YxSlb23RAaCd4RyHcV9V) | [The Very Best Of Herman's Hermits \(Deluxe Edition\)](https://open.spotify.com/album/3UoVto0KQes5W2hbJl2Aw7) | 2:35 | 2026-03-26 | 2026-04-20 |
 | [Show Me Girl \- 2008 Remaster](https://open.spotify.com/track/59Q9ivKKAZwbAETukwviEA) | [Herman's Hermits](https://open.spotify.com/artist/48YxSlb23RAaCd4RyHcV9V) | [Into Something Good \(The Mickie Most Years 1964\-1972\)](https://open.spotify.com/album/0o3pjzJ5XZGm0BZieBsTcV) | 2:37 | 2023-12-30 | 2026-03-27 |
-| [Show Me Girl \- Mono](https://open.spotify.com/track/1saGlI7w6vxjGMAzluhYQC) | [Herman's Hermits](https://open.spotify.com/artist/48YxSlb23RAaCd4RyHcV9V) | [Show Me Girl \(Mono\)](https://open.spotify.com/album/4UDrIQtV2baXu67inAB03J) | 2:38 | 2026-04-19 |  |
+| [Show Me Girl \- Mono](https://open.spotify.com/track/1saGlI7w6vxjGMAzluhYQC) | [Herman's Hermits](https://open.spotify.com/artist/48YxSlb23RAaCd4RyHcV9V) | [Show Me Girl \(Mono\)](https://open.spotify.com/album/4UDrIQtV2baXu67inAB03J) | 2:38 | 2026-04-19 | 2026-05-04 |
+| [Show Me Girl \- Mono](https://open.spotify.com/track/3l7lTXsHVVhw14Zn0GBoLK) | [Herman's Hermits](https://open.spotify.com/artist/48YxSlb23RAaCd4RyHcV9V) | [Introducing Herman's Hermits \(Mono\)](https://open.spotify.com/album/2KmrA2hT9cwplRr8H8yC9o) | 2:38 | 2026-05-03 |  |
 | [Show Me the Way \- Mono](https://open.spotify.com/track/7yTmwxIkV2tsxsBN6NDVjJ) | [Ben E\. King](https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3) | [Don't Play That Song \(Mono\)](https://open.spotify.com/album/18Fj7coTfyMi7mEPXIweN7) | 2:19 | 2026-04-24 |  |
 | [Simple Things](https://open.spotify.com/track/7lIQgzo0Z0dFoPla143iCC) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Simple Things](https://open.spotify.com/album/5AJ4tMUKB5WOvIITI8JAZJ) | 2:41 | 2023-12-30 |  |
 | [Smackwater Jack](https://open.spotify.com/track/0PrW6YZOBGeukTkvJsSIV3) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Tapestry](https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS) | 3:41 | 2023-12-30 |  |

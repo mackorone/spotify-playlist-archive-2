@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Zs5Lg.md) - [plain]
 
 > This is Prof\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,228 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,241 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,10 +24,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Zs5Lg.md) - [plain]
 | 14 | [Light Work](https://open.spotify.com/track/2LRLHZKFo7N7diPirNcVjh) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Pookie Baby](https://open.spotify.com/album/4PsACI8jpFTGFgpbTUat5A) | 3:30 |
 | 15 | [Devils Gate \(with Kevin Gates\)](https://open.spotify.com/track/334BlFXoVUhroNjxfzATJp) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG), [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [Horse](https://open.spotify.com/album/5S5Yc3c77mjVpb87Ko8PAm) | 3:35 |
 | 16 | [Destiny \(with Sauce Walka\)](https://open.spotify.com/track/1jhoaWZ9Gi99zvMgSg4cKZ) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG), [Sauce Walka](https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb) | [Destiny \(with Sauce Walka\)](https://open.spotify.com/album/3LxE9fvAr1ugZXfPhrkHdD) | 3:15 |
-| 17 | [Tarzan](https://open.spotify.com/track/4fWx8fSytpzfouffji4Y7O) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Tarzan](https://open.spotify.com/album/5NZAgySJPEh8rpAacRJ8AR) | 3:25 |
+| 17 | [Dirty Work](https://open.spotify.com/track/3CDaT41CYRfgn1t8pYMiJo) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Dirty Work](https://open.spotify.com/album/4stJxEqPXyiXGHIQNyS9D9) | 2:14 |
 | 18 | [Andre The Giant](https://open.spotify.com/track/6tiDGVC8HRYf6cdVVRCjox) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Pookie Baby](https://open.spotify.com/album/4PsACI8jpFTGFgpbTUat5A) | 3:08 |
 | 19 | [Soupy \(with Cozz\)](https://open.spotify.com/track/1nmZkBjLJr1fK3CiNjkNUS) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG), [Cozz](https://open.spotify.com/artist/5oFkj1qSlyBUmV5d6Edgtq) | [Horse](https://open.spotify.com/album/5S5Yc3c77mjVpb87Ko8PAm) | 3:26 |
-| 20 | [Dirty Work](https://open.spotify.com/track/3CDaT41CYRfgn1t8pYMiJo) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Dirty Work](https://open.spotify.com/album/4stJxEqPXyiXGHIQNyS9D9) | 2:14 |
+| 20 | [Tarzan](https://open.spotify.com/track/4fWx8fSytpzfouffji4Y7O) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Tarzan](https://open.spotify.com/album/5NZAgySJPEh8rpAacRJ8AR) | 3:25 |
 | 21 | [OH SHIT!!!](https://open.spotify.com/track/3lVcorG2PGbrTJkwkapgkl) | [SonReal](https://open.spotify.com/artist/2OlZK0VIzr7wQYSrj9bOvF), [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [OH SHIT!!!](https://open.spotify.com/album/5BQFPnz90fOR5PcWOZIQ1G) | 3:05 |
 | 22 | [Spellbound \(The Beginning\)](https://open.spotify.com/track/6cIprowHIA9CtkA9Bgxk7g) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Powderhorn Suites](https://open.spotify.com/album/6tXIQnsK1yWm4Y1NQv9vWC) | 3:16 |
 | 23 | [Snake Skin Leather](https://open.spotify.com/track/521mlZAo2XcA5lvFgN4tUT) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Horse](https://open.spotify.com/album/5S5Yc3c77mjVpb87Ko8PAm) | 3:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Zs5Lg.md) - [plain]
 | 49 | [Super Scary Monsters \(feat\. Prof\)](https://open.spotify.com/track/1IbqDQZm5jTt7wE6VcoPKC) | [Grieves](https://open.spotify.com/artist/2ActkR0xU2ZiDhWYhijydE), [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Super Scary Monsters \(feat\. Prof\)](https://open.spotify.com/album/6bpPZjVaWmmodTGbu9adra) | 2:28 |
 | 50 | [Neighborhood \(with Krayzie Bone & Prof\)](https://open.spotify.com/track/0c8evdQNBWPtimiOrk15zB) | [Tropidelic](https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl), [Bone Thugs\-N\-Harmony](https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg), [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG), [Krayzie Bone](https://open.spotify.com/artist/53B8dEQzmtefvkdCAkO0YR) | [Neighborhood \(with Krayzie Bone & Prof\)](https://open.spotify.com/album/1FKJMAtB80EITlI5kxD9Y1) | 3:47 |
 
-Snapshot ID: `afPtAAAAAACjRWqt3FO1swoLBLf4nYHw`
+Snapshot ID: `afU+gAAAAACVoxNYOoPaoDbIB57+W1xB`

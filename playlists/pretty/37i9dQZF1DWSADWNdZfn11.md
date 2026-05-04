@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSADWNdZfn11.md) - [plain]
 
 > Relax and unwind with gentle piano covers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 237,554 likes - 115 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 237,586 likes - 115 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSADWNdZfn11.md) - [plain]
 | 114 | [Hey Jude](https://open.spotify.com/track/5hbXs1fy9p1oDohdiVIf2H) | [Nicholas Wright](https://open.spotify.com/artist/1c8mJjhHsXxGw0QxlEHLm3) | [The winner takes it all](https://open.spotify.com/album/3xdpsGHwPNSYQk5c7HKdK3) | 3:58 |
 | 115 | [As Tears Go By](https://open.spotify.com/track/6TIOZDqaVXcShZFz4K94ft) | [Dani Mezzo](https://open.spotify.com/artist/6zRcJmTuAiLb7AHX7WLB1n) | [As Tears Go By](https://open.spotify.com/album/08b8NRRkOuQwjgDiq2yUn4) | 3:31 |
 
-Snapshot ID: `AAAAAHP0SQDQS7/d9noIBbO7cPOijpV3`
+Snapshot ID: `AAAAABafcUSidewbcbIw9zoLFG24Apuz`

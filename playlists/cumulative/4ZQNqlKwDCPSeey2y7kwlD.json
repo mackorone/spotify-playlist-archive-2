@@ -7000,10 +7000,36 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-04",
       "duration_ms": 190383,
       "name": "The Market",
       "url": "https://open.spotify.com/track/1xa7R072ZHy5iKxCIKEZhJ"
+    },
+    {
+      "album": {
+        "name": "The Market Remix (feat. A Boogie Wit da Hoodie)",
+        "url": "https://open.spotify.com/album/7bg5wEjbiAcVKmpixEfmrx"
+      },
+      "artists": [
+        {
+          "name": "Casper TNG",
+          "url": "https://open.spotify.com/artist/2YqKOT955onYp7NLWySVZ6"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "100Bandplan",
+          "url": "https://open.spotify.com/artist/54gXMsMsoa0quu4bwTms8v"
+        }
+      ],
+      "date_added": "2026-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207374,
+      "name": "The Market Remix (feat. A Boogie Wit da Hoodie)",
+      "url": "https://open.spotify.com/track/1OsVaHQgD0x4q8byl0yXcF"
     },
     {
       "album": {

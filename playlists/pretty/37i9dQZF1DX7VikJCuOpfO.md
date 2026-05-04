@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 
 > Lo nuevo y lo mejor en el estilo mariachi\. Cover: Alex Fernández 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 367,553 likes - 80 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 367,550 likes - 80 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 79 | [Si Ya Te Valgo](https://open.spotify.com/track/1lQqIaZgT1wP1Pftp3f1is) | [Rubi Canseco](https://open.spotify.com/artist/4bXV1OuSS59mLTBUIuYq1E) | [Si Ya Te Valgo](https://open.spotify.com/album/0oARXF9EAgJSD7ZZVHXE4r) | 2:29 |
 | 80 | [Por Un Amor](https://open.spotify.com/track/4rFtWFtLAXsW3bWZUApLwN) | [Laraim](https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt) | [Por Un Amor](https://open.spotify.com/album/63qH4h7v9uiSRyM0gpTlkf) | 3:13 |
 
-Snapshot ID: `AAAAAG05F3q4ENPbSh2YjDBrvsG8+TXe`
+Snapshot ID: `AAAAAGPe/E+ER2gYi9Xemu1vuzYaOY8d`

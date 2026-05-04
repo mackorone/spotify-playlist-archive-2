@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 
 > Come alive with this progressive & melodic house selection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,264 likes - 60 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,307 likes - 60 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 | 59 | [To The Heart](https://open.spotify.com/track/0RNeb4gmJf1I5InimrUl91) | [Because of Art](https://open.spotify.com/artist/4Cmrx83CCgN8X1hkyhkUkq), [Steven Weston](https://open.spotify.com/artist/7zxRSonZpfxzpY2S4Cse4U), [Maria Metaxa](https://open.spotify.com/artist/2dqqk5uhWz0vGITqrLSUMi) | [To The Heart / We Go Again](https://open.spotify.com/album/1HPZApJZpFhqV4WFtnjRkR) | 3:54 |
 | 60 | [Control](https://open.spotify.com/track/6K1MxJMyM2ImqQvYTdrnDL) | [Cristoph](https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI), [Tigerblind](https://open.spotify.com/artist/3Uy3rel4Zw9anDMtPIU9IA) | [Control](https://open.spotify.com/album/4OoOJSaVeJi7BlIdiY2Wx3) | 4:18 |
 
-Snapshot ID: `AAAAAPy1mx0L5ZMMlnU1tEtc64GYVqzf`
+Snapshot ID: `AAAAAGIWy+IZ2cqJMBcWCS1TeaE4EEmh`

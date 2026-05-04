@@ -4,7 +4,7 @@
 
 > Fcukers on the cover bby
 
-289 songs - 17 hr 48 min
+290 songs - 17 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Blow \- Cirkut Remix](https://open.spotify.com/track/6OUkQGd1Wt2SuTctHdZPfj) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [I Am The Dance Commander + I Command You To Dance: The Remix Album](https://open.spotify.com/album/4OcwiwMiAXhAbe4AlHjSvN) | 4:05 | 2023-04-14 | 2023-04-27 |
 | [Bon Bon](https://open.spotify.com/track/4Dr5pBJktWX8aZckCznE6q) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [Bon Bon](https://open.spotify.com/album/27WWDGD7YPsoaOCwZNFWBT) | 3:30 | 2025-05-02 |  |
 | [Born To Die](https://open.spotify.com/track/487OPlneJNni3NWC8SYqhW) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Born To Die \- The Paradise Edition](https://open.spotify.com/album/5PW8nAtvf2HV8RYZFd4IrX) | 4:45 | 2023-02-16 | 2023-08-19 |
-| [Bound2U](https://open.spotify.com/track/6ofhGT4U9raQtzTdGwctRr) | [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag) | [Bound2U](https://open.spotify.com/album/5PW1N2YmxZ95JXLY76LcBm) | 2:56 | 2025-08-29 |  |
+| [Bound2U](https://open.spotify.com/track/6ofhGT4U9raQtzTdGwctRr) | [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag) | [Bound2U](https://open.spotify.com/album/5PW1N2YmxZ95JXLY76LcBm) | 2:56 | 2025-08-29 | 2026-05-04 |
 | [Boys Wanna Be Her](https://open.spotify.com/track/06IZo6f9idHrryBnFoyoHd) | [Peaches](https://open.spotify.com/artist/1gkSl4XpHIHI4I1WQbfXOE) | [Impeach My Bush](https://open.spotify.com/album/5CSak2h5F36n6QieudTObv) | 3:55 | 2023-09-05 |  |
 | [Bruises](https://open.spotify.com/track/4KCcxVTDOuOntQCaXZkN3R) | [Chairlift](https://open.spotify.com/artist/7hAolICGSgXJuM6DUpK5rp) | [Does You Inspire You](https://open.spotify.com/album/0LxYnbZ4oZcDYF9UIFxqLF) | 4:01 | 2023-09-05 | 2024-04-19 |
 | [Bruises](https://open.spotify.com/track/4mdyVTV7Tr5YDFnD2kvSM4) | [Chairlift](https://open.spotify.com/artist/7hAolICGSgXJuM6DUpK5rp) | [Does You Inspire You](https://open.spotify.com/album/3JuIBAoHi6gUmS3tgF4CPg) | 4:01 | 2022-11-10 | 2024-02-02 |
@@ -93,6 +93,7 @@
 | [Fuck the Pain Away](https://open.spotify.com/track/0NWWDumjD2TCrR6iV6ZFgR) | [Peaches](https://open.spotify.com/artist/1gkSl4XpHIHI4I1WQbfXOE) | [The Teaches of Peaches](https://open.spotify.com/album/6gFOrIOM2TwzoRvobkpn1a) | 4:10 | 2022-11-10 | 2024-04-19 |
 | [Galang](https://open.spotify.com/track/5oV3uciTzAtn3YyTK5YgmA) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Galang '05](https://open.spotify.com/album/5XxDXBsoOXDZNEKQbMHUsj) | 3:33 | 2022-11-10 | 2023-08-03 |
 | [Genesis](https://open.spotify.com/track/3cjvqsvvU80g7WJPMVh8iq) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Visions](https://open.spotify.com/album/3HED2IUaNSnbOe88a7ZdwM) | 4:15 | 2022-11-10 |  |
+| [Get A Grip \- Radio Edit](https://open.spotify.com/track/1zQ7w3qseu1jyrqY9fdMfs) | [Fundido](https://open.spotify.com/artist/1to9uaFDyrcHAbK8PUhXfh), [Emma Dufaux](https://open.spotify.com/artist/2VfDnBw9HnZveo8RcQOyya) | [Get A Grip](https://open.spotify.com/album/5pPpAtVBzw9s30iRPfRded) | 4:00 | 2026-05-03 |  |
 | [Gimme Sympathy](https://open.spotify.com/track/4z2xy1UYMu70xCkWudeL96) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Fantasies](https://open.spotify.com/album/1N2HeWMUjuAxYL7UnA63JH) | 3:54 | 2023-05-17 | 2023-09-06 |
 | [GIRL FIGHT](https://open.spotify.com/track/0PES33JUQt97Ua3IPPfIrI) | [KURT.](https://open.spotify.com/artist/3fuEM4uMji5Jt4aLtabj3F) | [GIRL FIGHT](https://open.spotify.com/album/77UHlVMgHm1KFQXDhnK8fo) | 2:45 | 2025-11-21 | 2026-03-07 |
 | [girlfriend](https://open.spotify.com/track/0Dl965SLJGi9bB0SrvtPRx) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [girlfriend](https://open.spotify.com/album/7tBqY28TsUNRRzSJZ1yMLV) | 2:13 | 2022-11-10 | 2023-05-27 |
@@ -200,7 +201,7 @@
 | [Over And Over](https://open.spotify.com/track/3RCj5fG55qjtmnEML1gpnA) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [The Warning](https://open.spotify.com/album/25wuY7cXE8zjFnJRiU1ehS) | 5:47 | 2022-11-10 |  |
 | [Paper Planes](https://open.spotify.com/track/1ixbwbeBi5ufN4noUKmW5a) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Kala](https://open.spotify.com/album/2xoj2gYed3IYmGWn3owSfu) | 3:25 | 2022-11-10 |  |
 | [Paris](https://open.spotify.com/track/07Ub5Xr2d5UjKAKJXNMP52) | [Just For Fun](https://open.spotify.com/artist/5jCHlaCfuvJlyn5a4yap3t) | [Paris](https://open.spotify.com/album/1JAD1lnNb3shHDqzMQpljy) | 2:22 | 2025-11-07 |  |
-| [Paris \- Aeroplane Remix](https://open.spotify.com/track/4hHjWMWYIuAFVa5RQZJFIP) | [Friendly Fires](https://open.spotify.com/artist/3mZqziCJj4pq3P2VBpmK6p), [Aeroplane](https://open.spotify.com/artist/31CtLHmSL7Oa7TPU9YyBEu) | [Friendly Fires](https://open.spotify.com/album/3K9dieeJJ3mDIwvz9t3bxK) | 7:45 | 2023-09-05 | 2026-01-15 |
+| [Paris \- Aeroplane Remix](https://open.spotify.com/track/4hHjWMWYIuAFVa5RQZJFIP) | [Friendly Fires](https://open.spotify.com/artist/3mZqziCJj4pq3P2VBpmK6p), [Aeroplane](https://open.spotify.com/artist/31CtLHmSL7Oa7TPU9YyBEu) | [Friendly Fires](https://open.spotify.com/album/3K9dieeJJ3mDIwvz9t3bxK) | 7:45 | 2023-09-05 |  |
 | [Pass This On](https://open.spotify.com/track/0aWhxzFrP2Yyz3CetJe0xE) | [The Knife](https://open.spotify.com/artist/7eQZTqEMozBcuSubfu52i4) | [Deep Cuts](https://open.spotify.com/album/58VeC1LO2OjyHXsjtI306m) | 3:48 | 2023-05-17 | 2024-04-19 |
 | [Pay No Mind \(feat\. Passion Pit\)](https://open.spotify.com/track/1XT95SWe6U0nZmchAfZh2T) | [Madeon](https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc), [Passion Pit](https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh) | [Pay No Mind \(feat\. Passion Pit\)](https://open.spotify.com/album/2NkUuUsTmsrQd1IjkaLByE) | 4:09 | 2023-04-14 | 2023-04-27 |
 | [Perfect \(Exceeder\)](https://open.spotify.com/track/0whmIaItqkT8e5PVuPyhvT) | [Mason](https://open.spotify.com/artist/307erl4VjT1dZDMYpneZqd), [Princess Superstar](https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM) | [Perfect \(Exceeder\)](https://open.spotify.com/album/2KvtNjXWp2eq4oSUvf882U) | 2:41 | 2024-01-02 |  |
@@ -261,7 +262,7 @@
 | [Two Weeks](https://open.spotify.com/track/0iTpQYzJnYgh7kIxyq8A2O) | [Grizzly Bear](https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4) | [Veckatimest](https://open.spotify.com/album/6FIFqclBriPCb0SjWDaHIk) | 4:03 | 2022-11-10 | 2023-02-02 |
 | [Two Weeks](https://open.spotify.com/track/04uR2cdkgiaLIzebPcs25m) | [Grizzly Bear](https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4) | [Veckatimest](https://open.spotify.com/album/3XQMgEnLQnOMkFaJA9w6sZ) | 4:06 | 2023-01-10 | 2024-04-19 |
 | [Under Your Spell](https://open.spotify.com/track/3iRoXGFrF8O0jTul6LAmus) | [Snow Strippers](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8) | [April Mixtape 3](https://open.spotify.com/album/56hrhzHAOsm5C7kSXzF4kh) | 3:38 | 2024-08-28 | 2026-03-10 |
-| [Undressed](https://open.spotify.com/track/0wzQIzJRmKSeHxvPiehhnh) | [Just For Fun](https://open.spotify.com/artist/5jCHlaCfuvJlyn5a4yap3t) | [Undressed](https://open.spotify.com/album/7cAqrnyNvOGsILKP3wVwN8) | 3:00 | 2026-02-27 |  |
+| [Undressed](https://open.spotify.com/track/0wzQIzJRmKSeHxvPiehhnh) | [Just For Fun](https://open.spotify.com/artist/5jCHlaCfuvJlyn5a4yap3t) | [Undressed](https://open.spotify.com/album/7cAqrnyNvOGsILKP3wVwN8) | 3:00 | 2026-02-27 | 2026-05-04 |
 | [Using You](https://open.spotify.com/track/11jVnpAewcZnIdLsq0BKJF) | [Mars Argo](https://open.spotify.com/artist/3WFBuQFguwRNZcPyQrtBEU) | [Using You](https://open.spotify.com/album/7B2LAN3VRvXFBX8EgSotfo) | 3:28 | 2023-11-17 |  |
 | [Vanished](https://open.spotify.com/track/0Q2YGyMeeZMAvzebtxoQ5f) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [Crystal Castles](https://open.spotify.com/album/7HJSVyFzG1sM02weSAqhdH) | 4:02 | 2022-11-10 | 2023-12-23 |
 | [Vanished](https://open.spotify.com/track/4bQ7mjty0UVlKRalhizpGT) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [Crystal Castles](https://open.spotify.com/album/6rTfUUv8Kefr6Uo3AaecXi) | 4:02 | 2023-09-05 | 2024-04-19 |

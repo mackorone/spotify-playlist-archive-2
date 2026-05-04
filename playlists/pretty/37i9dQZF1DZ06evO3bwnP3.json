@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afPtAAAAAAAgYZE6xyXPMPsBnrvpdweR",
+  "snapshot_id": "afU+gAAAAABvmxXOUpCxL7YmEi7CwUbk",
   "tracks": [
     {
       "added_at": null,
@@ -191,22 +191,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aftertouches",
-        "url": "https://open.spotify.com/album/7Fe43zwjkO6cMNrP8HdDoN"
-      },
-      "artists": [
-        {
-          "name": "Kara-Lis Coverdale",
-          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
-        }
-      ],
-      "duration_ms": 266500,
-      "name": "Imgs /r",
-      "url": "https://open.spotify.com/track/5aTBLrW5ACeiRAGtGLN9dE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Freedom",
         "url": "https://open.spotify.com/album/1CAFe3VkRa3QErqb1SgmEH"
       },
@@ -219,22 +203,6 @@
       "duration_ms": 418487,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/5relEzd6zHW4duiUhwVFdS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Changes in Air",
-        "url": "https://open.spotify.com/album/3UfJSJzmYcUex6Uj5f7DdI"
-      },
-      "artists": [
-        {
-          "name": "Kara-Lis Coverdale",
-          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
-        }
-      ],
-      "duration_ms": 644166,
-      "name": "Labyrinth I",
-      "url": "https://open.spotify.com/track/5BV4TPbH6jQnDOs8B1En4j"
     },
     {
       "added_at": null,
@@ -255,6 +223,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Changes in Air",
+        "url": "https://open.spotify.com/album/3UfJSJzmYcUex6Uj5f7DdI"
+      },
+      "artists": [
+        {
+          "name": "Kara-Lis Coverdale",
+          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
+        }
+      ],
+      "duration_ms": 644166,
+      "name": "Labyrinth I",
+      "url": "https://open.spotify.com/track/5BV4TPbH6jQnDOs8B1En4j"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "From Where You Came",
         "url": "https://open.spotify.com/album/7ngtNHKrtpN37n5Sr2lwQV"
       },
@@ -264,9 +248,25 @@
           "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
         }
       ],
-      "duration_ms": 245311,
-      "name": "Problem of No Name",
-      "url": "https://open.spotify.com/track/65pLS8T7mESnWG1EFmZkQK"
+      "duration_ms": 275332,
+      "name": "The Ceremonial Entrance of Colour",
+      "url": "https://open.spotify.com/track/2CS6hJHnlJRerZiwCUIw4Q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aftertouches",
+        "url": "https://open.spotify.com/album/7Fe43zwjkO6cMNrP8HdDoN"
+      },
+      "artists": [
+        {
+          "name": "Kara-Lis Coverdale",
+          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
+        }
+      ],
+      "duration_ms": 266500,
+      "name": "Imgs /r",
+      "url": "https://open.spotify.com/track/5aTBLrW5ACeiRAGtGLN9dE"
     },
     {
       "added_at": null,
@@ -303,22 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Series of Actions in a Sphere of Forever",
-        "url": "https://open.spotify.com/album/7jqanGEo3DEBp0nsg2PNjt"
-      },
-      "artists": [
-        {
-          "name": "Kara-Lis Coverdale",
-          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
-        }
-      ],
-      "duration_ms": 102812,
-      "name": "Cumulative Resolution",
-      "url": "https://open.spotify.com/track/0kcPM8OPrJM4th8SGKrP3t"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "From Where You Came",
         "url": "https://open.spotify.com/album/7ngtNHKrtpN37n5Sr2lwQV"
       },
@@ -328,9 +312,9 @@
           "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
         }
       ],
-      "duration_ms": 111455,
-      "name": "Coming Around",
-      "url": "https://open.spotify.com/track/565qhLsAoCjgkxshqE8HYo"
+      "duration_ms": 245311,
+      "name": "Problem of No Name",
+      "url": "https://open.spotify.com/track/65pLS8T7mESnWG1EFmZkQK"
     },
     {
       "added_at": null,
@@ -351,6 +335,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Series of Actions in a Sphere of Forever",
+        "url": "https://open.spotify.com/album/7jqanGEo3DEBp0nsg2PNjt"
+      },
+      "artists": [
+        {
+          "name": "Kara-Lis Coverdale",
+          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
+        }
+      ],
+      "duration_ms": 102812,
+      "name": "Cumulative Resolution",
+      "url": "https://open.spotify.com/track/0kcPM8OPrJM4th8SGKrP3t"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Changes in Air",
         "url": "https://open.spotify.com/album/3UfJSJzmYcUex6Uj5f7DdI"
       },
@@ -367,22 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Series of Actions in a Sphere of Forever",
-        "url": "https://open.spotify.com/album/7jqanGEo3DEBp0nsg2PNjt"
-      },
-      "artists": [
-        {
-          "name": "Kara-Lis Coverdale",
-          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
-        }
-      ],
-      "duration_ms": 212124,
-      "name": "In Charge of the Hour",
-      "url": "https://open.spotify.com/track/1GHdBzTFgGOjpIk2oCmfSw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "From Where You Came",
         "url": "https://open.spotify.com/album/7ngtNHKrtpN37n5Sr2lwQV"
       },
@@ -392,9 +376,9 @@
           "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
         }
       ],
-      "duration_ms": 211022,
-      "name": "Eternity",
-      "url": "https://open.spotify.com/track/2EFrVQIBtydHgQd8S6Ftrz"
+      "duration_ms": 111455,
+      "name": "Coming Around",
+      "url": "https://open.spotify.com/track/565qhLsAoCjgkxshqE8HYo"
     },
     {
       "added_at": null,
@@ -415,6 +399,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Series of Actions in a Sphere of Forever",
+        "url": "https://open.spotify.com/album/7jqanGEo3DEBp0nsg2PNjt"
+      },
+      "artists": [
+        {
+          "name": "Kara-Lis Coverdale",
+          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
+        }
+      ],
+      "duration_ms": 212124,
+      "name": "In Charge of the Hour",
+      "url": "https://open.spotify.com/track/1GHdBzTFgGOjpIk2oCmfSw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Aftertouches",
         "url": "https://open.spotify.com/album/7Fe43zwjkO6cMNrP8HdDoN"
       },
@@ -431,22 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Series of Actions in a Sphere of Forever",
-        "url": "https://open.spotify.com/album/7jqanGEo3DEBp0nsg2PNjt"
-      },
-      "artists": [
-        {
-          "name": "Kara-Lis Coverdale",
-          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
-        }
-      ],
-      "duration_ms": 242230,
-      "name": "K\u00f5ne, Vastu",
-      "url": "https://open.spotify.com/track/1WXSz1lu5BehZIrYDpkeve"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "From Where You Came",
         "url": "https://open.spotify.com/album/7ngtNHKrtpN37n5Sr2lwQV"
       },
@@ -456,9 +440,9 @@
           "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
         }
       ],
-      "duration_ms": 275332,
-      "name": "The Ceremonial Entrance of Colour",
-      "url": "https://open.spotify.com/track/2CS6hJHnlJRerZiwCUIw4Q"
+      "duration_ms": 211022,
+      "name": "Eternity",
+      "url": "https://open.spotify.com/track/2EFrVQIBtydHgQd8S6Ftrz"
     },
     {
       "added_at": null,
@@ -476,9 +460,25 @@
           "url": "https://open.spotify.com/artist/1hPsIMuL2e8gJ0CvjoVYTY"
         }
       ],
-      "duration_ms": 227500,
-      "name": "Grigori in Jakarta",
-      "url": "https://open.spotify.com/track/1JdN8N43xEjTNNGAjP3HIg"
+      "duration_ms": 268181,
+      "name": "Territory of Subtle Entries",
+      "url": "https://open.spotify.com/track/0Kl61IXkzmvPEHTObYIG3Z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Series of Actions in a Sphere of Forever",
+        "url": "https://open.spotify.com/album/7jqanGEo3DEBp0nsg2PNjt"
+      },
+      "artists": [
+        {
+          "name": "Kara-Lis Coverdale",
+          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
+        }
+      ],
+      "duration_ms": 196374,
+      "name": "Soft Fold 3/4",
+      "url": "https://open.spotify.com/track/3nn1FUPOFu0PUu6hemr6Dl"
     },
     {
       "added_at": null,
@@ -495,22 +495,6 @@
       "duration_ms": 232628,
       "name": "Icon /c",
       "url": "https://open.spotify.com/track/0efZEOgLVMMmjO5Gdz5ul7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Series of Actions in a Sphere of Forever",
-        "url": "https://open.spotify.com/album/7jqanGEo3DEBp0nsg2PNjt"
-      },
-      "artists": [
-        {
-          "name": "Kara-Lis Coverdale",
-          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
-        }
-      ],
-      "duration_ms": 294000,
-      "name": "Lowlands",
-      "url": "https://open.spotify.com/track/0EPpzvCONMNNjoBu07phTK"
     },
     {
       "added_at": null,
@@ -544,9 +528,25 @@
           "url": "https://open.spotify.com/artist/1hPsIMuL2e8gJ0CvjoVYTY"
         }
       ],
-      "duration_ms": 268181,
-      "name": "Territory of Subtle Entries",
-      "url": "https://open.spotify.com/track/0Kl61IXkzmvPEHTObYIG3Z"
+      "duration_ms": 227500,
+      "name": "Grigori in Jakarta",
+      "url": "https://open.spotify.com/track/1JdN8N43xEjTNNGAjP3HIg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Series of Actions in a Sphere of Forever",
+        "url": "https://open.spotify.com/album/7jqanGEo3DEBp0nsg2PNjt"
+      },
+      "artists": [
+        {
+          "name": "Kara-Lis Coverdale",
+          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
+        }
+      ],
+      "duration_ms": 294000,
+      "name": "Lowlands",
+      "url": "https://open.spotify.com/track/0EPpzvCONMNNjoBu07phTK"
     },
     {
       "added_at": null,
@@ -599,6 +599,22 @@
       "duration_ms": 334750,
       "name": "Buffering landscape",
       "url": "https://open.spotify.com/track/0DeNECMRpIJFEhPNR0Uf9l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Inscriptions, Vol. 3",
+        "url": "https://open.spotify.com/album/4xjqtaDrXhWVPHZzB5pMfq"
+      },
+      "artists": [
+        {
+          "name": "Kara-Lis Coverdale",
+          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "Buried Trig",
+      "url": "https://open.spotify.com/track/0cmTYyCmYFOQjrR94Qph4A"
     },
     {
       "added_at": null,
@@ -668,9 +684,9 @@
           "url": "https://open.spotify.com/artist/1hPsIMuL2e8gJ0CvjoVYTY"
         }
       ],
-      "duration_ms": 179500,
-      "name": "Borrowed Memory (from)",
-      "url": "https://open.spotify.com/track/1PyACtmfSCqwDeMl9a4P4x"
+      "duration_ms": 372000,
+      "name": "Subfall (to)",
+      "url": "https://open.spotify.com/track/7DCelWwpKq62RHmAgpOJEI"
     },
     {
       "added_at": null,
@@ -688,9 +704,9 @@
           "url": "https://open.spotify.com/artist/1hPsIMuL2e8gJ0CvjoVYTY"
         }
       ],
-      "duration_ms": 372000,
-      "name": "Subfall (to)",
-      "url": "https://open.spotify.com/track/7DCelWwpKq62RHmAgpOJEI"
+      "duration_ms": 179500,
+      "name": "Borrowed Memory (from)",
+      "url": "https://open.spotify.com/track/1PyACtmfSCqwDeMl9a4P4x"
     }
   ],
   "unique_name": "This Is Kara-Lis Coverdale",

@@ -1108,6 +1108,24 @@
     {
       "album": {
         "name": "Searching",
+        "url": "https://open.spotify.com/album/2XuHEzuL9HlYVLLQhGrfhA"
+      },
+      "artists": [
+        {
+          "name": "Inez",
+          "url": "https://open.spotify.com/artist/2sGGaKKex7GgNlH1DRXZSa"
+        }
+      ],
+      "date_added": "2026-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127200,
+      "name": "Side Eyes",
+      "url": "https://open.spotify.com/track/2KPqVgO8BBmUimV94WSaht"
+    },
+    {
+      "album": {
+        "name": "Searching",
         "url": "https://open.spotify.com/album/7bSkQflJmHKWRuhhDQ6gr6"
       },
       "artists": [
@@ -1118,7 +1136,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-04",
       "duration_ms": 127200,
       "name": "Side Eyes",
       "url": "https://open.spotify.com/track/6jrC9HUy2gAokbC4nrUawR"
@@ -1342,6 +1360,24 @@
     {
       "album": {
         "name": "Searching",
+        "url": "https://open.spotify.com/album/2XuHEzuL9HlYVLLQhGrfhA"
+      },
+      "artists": [
+        {
+          "name": "Inez",
+          "url": "https://open.spotify.com/artist/2sGGaKKex7GgNlH1DRXZSa"
+        }
+      ],
+      "date_added": "2026-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145043,
+      "name": "Till the End",
+      "url": "https://open.spotify.com/track/4jltEHbvlffFb2weWi6e3O"
+    },
+    {
+      "album": {
+        "name": "Searching",
         "url": "https://open.spotify.com/album/1E3Yl5nAVcPyKhW22DAS49"
       },
       "artists": [
@@ -1370,7 +1406,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-04",
       "duration_ms": 145043,
       "name": "Till the End",
       "url": "https://open.spotify.com/track/6DwMJ76cJbXg6OvrLOK09Z"

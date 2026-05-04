@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8PLev4Ol7Ml.md) - [plain]
 
 > 日本独自のポップカルチャー=アイドル。"楽曲推し"でお届けします。Cover: @onefive
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,129 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,132 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8PLev4Ol7Ml.md) - [plain]
 | 49 | [紫陽花](https://open.spotify.com/track/2nxdbTNiw7YGQ1SyvnRqUr) | [selfish](https://open.spotify.com/artist/1KVqelu6FCqx6F0jKgODdH) | [紫陽花](https://open.spotify.com/album/33l4eJEEiYBV0VlXVIANiF) | 4:36 |
 | 50 | [ポンコツ返上！ばり♡KAWA!!の乱](https://open.spotify.com/track/1tQTwvHVgOwCLdRoPnTttX) | [ばり♡KAWA!!](https://open.spotify.com/artist/3OQGOtWxGJoY3YVpUpxlug) | [ポンコツ返上！ばり♡KAWA!!の乱](https://open.spotify.com/album/6l2FWKEkCPQRqAzYyKCYKp) | 3:57 |
 
-Snapshot ID: `AAAAAMOyJ7oAmk4Pb6UNScgBhq0Al+Vs`
+Snapshot ID: `AAAAANlXgI5OeBNTRDEed644BapcfRXk`

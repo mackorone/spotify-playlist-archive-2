@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7f8PyAQL3rz.md) - [plain]
 
 > eles barulharam nessa sessão hein 👀
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,449,518 likes - 60 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,449,415 likes - 60 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7f8PyAQL3rz.md) - [plain]
 | 59 | [ANDO VAGANDO](https://open.spotify.com/track/65shbn8jzJlRu4VfSW6HuD) | [Thalin](https://open.spotify.com/artist/5dTZiJpPZA6dvt0KWhi5Yd), [Nina Maia](https://open.spotify.com/artist/1wiX27yg0NyiJYwftya0yy), [Shirts](https://open.spotify.com/artist/7rGMt1pIA4R7hIGvhnKZnL) | [ANDO VAGANDO](https://open.spotify.com/album/0WvwuWN0S0MLR2oIYRx7iD) | 3:05 |
 | 60 | [Vida de Chefe](https://open.spotify.com/track/3Dam5n8I0yCplTnCu9VmQP) | [Pluck D](https://open.spotify.com/artist/514cPHde1lpv5Umk7f6rWq), [Mc Dieguinho](https://open.spotify.com/artist/75qotN678cYOHjdHahxUik), [Gusttoo](https://open.spotify.com/artist/6GTVx1R4qiwWTGL9dlOs0v) | [Vida de Chefe](https://open.spotify.com/album/5Ae8CNqLVI1zHI5B8ZkKpw) | 3:28 |
 
-Snapshot ID: `AAAAAHZH9hFHcTwTIXB+QNViRSs/cC0Z`
+Snapshot ID: `AAAAAMeVINItR2tepPg/XyZp7AiA29Pp`

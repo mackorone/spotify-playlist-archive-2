@@ -4,7 +4,7 @@
 
 > This is Jake Shimabukuro\. The essential tracks, all in one playlist.
 
-120 songs - 7 hr 46 min
+121 songs - 7 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Happy Xmas \(War is Over\)](https://open.spotify.com/track/4nC5Ap034pzhNT7vfqGRpE) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk) | [Songs of Joy & Peace](https://open.spotify.com/album/02kLBmx8yfEhWw8NJcwg10) | 4:45 | 2025-03-30 | 2025-04-03 |
 | [Have You Ever Seen The Rain?](https://open.spotify.com/track/2KGcEUHgC2NcXH5i7lu6CO) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Kawika Kahiapo](https://open.spotify.com/artist/6aPkORVtaipgr2ryrcNQRp) | [Have You Ever Seen The Rain?](https://open.spotify.com/album/0XFemF1cFczOzimPAjPksh) | 4:38 | 2024-12-27 | 2026-01-15 |
 | [Hawaii Rain](https://open.spotify.com/track/0YDWWwtms7jztv2tLBJi5p) | [Jim Brickman](https://open.spotify.com/artist/2NzWRNaaLByHyI3wpuec8P), [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Brickman Across America: Heart and Soul of American Music](https://open.spotify.com/album/02SZD1s8U4VJ2aCPXBXzr8) | 4:06 | 2024-04-19 | 2025-10-30 |
-| [Hawaii Rain](https://open.spotify.com/track/3F2yqzrCqgFjbrCHQKZBe7) | [Jim Brickman](https://open.spotify.com/artist/2NzWRNaaLByHyI3wpuec8P), [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Brickman Across America: Heart and Soul of American Music](https://open.spotify.com/album/1gzWOkcpGe3ZR39b8sD6dw) | 4:06 | 2026-05-02 |  |
+| [Hawaii Rain](https://open.spotify.com/track/3F2yqzrCqgFjbrCHQKZBe7) | [Jim Brickman](https://open.spotify.com/artist/2NzWRNaaLByHyI3wpuec8P), [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Brickman Across America: Heart and Soul of American Music](https://open.spotify.com/album/1gzWOkcpGe3ZR39b8sD6dw) | 4:06 | 2026-05-02 | 2026-05-04 |
 | [Hawaii Rain](https://open.spotify.com/track/3cLCDa6FtQID2X6G7ISIYW) | [Jim Brickman](https://open.spotify.com/artist/2NzWRNaaLByHyI3wpuec8P), [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Hawaii Rain](https://open.spotify.com/album/028OOPjw8p6WpNHj4bhuvq) | 4:06 | 2024-01-29 | 2024-04-19 |
 | [He's A Pirate](https://open.spotify.com/track/6dAOMe5B3sXilEsSF4BvzA) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Ukulele Disney](https://open.spotify.com/album/3fauRA8wFr654t66TDvw8k) | 2:56 | 2024-01-29 |  |
 | [Hemiola Blues](https://open.spotify.com/track/3M90vG6FtT6Fw72Jx9HJSK) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Nashville Sessions](https://open.spotify.com/album/0BOfytlIqA5WlJNcNN5J5o) | 1:23 | 2024-01-29 | 2024-03-10 |
@@ -63,6 +63,7 @@
 | [Lahaina \(feat\. Mick Fleetwood, Jake Shimabukuro & Henry Kapono\)](https://open.spotify.com/track/7b5SxmrPawO5SX5N18M0bh) | [The Doobie Brothers](https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz), [Henry Kapono](https://open.spotify.com/artist/2TdVVYXzvi5eAPq156DT2E), [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Mick Fleetwood](https://open.spotify.com/artist/7bRRWmUqERkyOVSSU6MPFu) | [Lahaina \(feat\. Mick Fleetwood, Jake Shimabukuro & Henry Kapono\)](https://open.spotify.com/album/4eXoo5d1oJ4A8fH9BnDYOK) | 4:17 | 2024-01-29 |  |
 | [Let's Go Home](https://open.spotify.com/track/5A3Csnl1sqe3zlWD7Gs3gf) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Calm Seas](https://open.spotify.com/album/1H1nsvFuuDcRJLTEXRfuNr) | 2:21 | 2026-02-03 |  |
 | [Makapu'u Sunrise](https://open.spotify.com/track/1grA2gXoL5HTKA9zp1pmnz) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Calm Seas](https://open.spotify.com/album/1H1nsvFuuDcRJLTEXRfuNr) | 2:40 | 2026-02-05 |  |
+| [Make It Paradise](https://open.spotify.com/track/4K3O1bewDOnVxAJ5EaOrT5) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Brightside](https://open.spotify.com/album/0b57ZiCwZ1zNPiVxPD3nU6) | 3:33 | 2026-05-04 |  |
 | [Morning Blue](https://open.spotify.com/track/44OX5NkBwQ3UTdYrFQDozm) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Live With Jake Shimabukuro](https://open.spotify.com/album/2PwQ4z0rIku4NEEkIVL0so) | 3:10 | 2025-02-17 | 2025-04-10 |
 | [NADA SOUSOU](https://open.spotify.com/track/5fxN3wmbv8c121QjfbZhjZ) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Travels](https://open.spotify.com/album/4N4xt7jHI0BOL8wxTfHuVg) | 3:26 | 2025-08-06 |  |
 | [NADA SOUSOU\(LIVE\)](https://open.spotify.com/track/6LMieDT7PSjRmfkyMB1Wys) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Live in Japan](https://open.spotify.com/album/34uGiTXYMA0V38Knfi6ldL) | 3:52 | 2024-02-25 | 2025-08-06 |

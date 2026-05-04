@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYVW0BVc4a3.md) - [plain]
 
 > All energy\. Cover: Jayda G
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,654 likes - 187 songs - 12 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,691 likes - 187 songs - 12 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

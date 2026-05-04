@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-1,009 songs - 2 day 11 hr 6 min
+1,010 songs - 2 day 11 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -740,6 +740,7 @@
 | [Set Me Free](https://open.spotify.com/track/1vMqPyUqPNh3OLIfVncwbq) | [Ann\-Cathrin](https://open.spotify.com/artist/09jiC9LTOdLtVGfEcjMO5t) | [Set Me Free](https://open.spotify.com/album/6kPhXCOUlM3ISPqo031y2W) | 3:13 | 2026-01-06 | 2026-02-03 |
 | [Shadow](https://open.spotify.com/track/3tDLdShqj7TznUapECPj1R) | [Nick McKerl](https://open.spotify.com/artist/0CC7zycAVnJGnQgj3jPIeR) | [Shadow](https://open.spotify.com/album/2zF7oQgZ12NPariEMMRupj) | 3:00 | 2025-11-24 | 2026-01-05 |
 | [Shakin'](https://open.spotify.com/track/60YO17Cz85qfjJgkkplEnj) | [W\. Charles Hall](https://open.spotify.com/artist/1YJgR9U2T5deghpvxv7VSj) | [Shakin'](https://open.spotify.com/album/24jIAykL2F0SzJZrRMnjhQ) | 3:05 | 2026-04-21 |  |
+| [Shimmer](https://open.spotify.com/track/1US4crD9pXZuIHEGBTGOmV) | [The Multides](https://open.spotify.com/artist/0EBOhu8N5TYGpwRIWe1oQG) | [Shimmer](https://open.spotify.com/album/03NF1wfBJToukVqmRD1G62) | 4:13 | 2026-05-03 |  |
 | [Should I have said hello](https://open.spotify.com/track/76S02LgBBCBwEiY8lH2AZT) | [NYROS RAY](https://open.spotify.com/artist/04yVrTH59bbO6VJXQvpdZv) | [Should I have said hello](https://open.spotify.com/album/33LXVslfjxyguGWpsuj71f) | 2:48 | 2026-04-27 |  |
 | [Show Must Go On](https://open.spotify.com/track/2M1zEJMy2pxdJZHbeIjCdO) | [Bruce Derby](https://open.spotify.com/artist/3L7v52f5rkuzgDWI2BIhJl) | [Show Must Go On](https://open.spotify.com/album/5JOKTzUqHL63Xr3OJ8YZO3) | 3:28 | 2026-04-29 |  |
 | [Show the money](https://open.spotify.com/track/6GpoqbpzjLMIl5DLfpreU3) | [Renato Genestra](https://open.spotify.com/artist/3FBOoPApjegYcmKgmULxs4) | [Show the money](https://open.spotify.com/album/5HzSVKP4s4VJHm2lP11Ctd) | 3:37 | 2023-10-26 | 2025-11-29 |

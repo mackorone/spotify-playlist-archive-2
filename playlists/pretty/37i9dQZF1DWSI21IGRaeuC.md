@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 
 > the deep & minimal side of house & tech ⛏️⛏️  <br/>featuring Franky Rizardo
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,506 likes - 115 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,623 likes - 115 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Bass Rider](https://open.spotify.com/track/71lvGzvRiC58AeFffFmw3N) | [Sidney Charles](https://open.spotify.com/artist/0J6ZEXmLQfZMeHBoa4JZTH) | [Bass Rider EP](https://open.spotify.com/album/6iUxrJlvhNkFDyh1KTNNmE) | 3:45 |
+| 1 | [The Connection](https://open.spotify.com/track/3dlkgNR829PMYY7yM9fMlP) | [SOSA](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [The Connection](https://open.spotify.com/album/02N1bq4nfLRE1cfIBLOfnn) | 2:46 |
 | 2 | [Shinjuku](https://open.spotify.com/track/0niU8VMrQzSNhrmsiLlmeS) | [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl) | [Shinjuku](https://open.spotify.com/album/5HiGwQ6NJl5XuXD2ugSFMz) | 2:47 |
-| 3 | [The Connection](https://open.spotify.com/track/3dlkgNR829PMYY7yM9fMlP) | [SOSA](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [The Connection](https://open.spotify.com/album/02N1bq4nfLRE1cfIBLOfnn) | 2:46 |
+| 3 | [Bass Rider](https://open.spotify.com/track/71lvGzvRiC58AeFffFmw3N) | [Sidney Charles](https://open.spotify.com/artist/0J6ZEXmLQfZMeHBoa4JZTH) | [Bass Rider EP](https://open.spotify.com/album/6iUxrJlvhNkFDyh1KTNNmE) | 3:45 |
 | 4 | [Trapped \- Radio\-Edit](https://open.spotify.com/track/7A5lQnbimaAolqrVqVGSbl) | [Kolter](https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry) | [What Did You Come For ?](https://open.spotify.com/album/6UPddPLVGe8DJmabcnSNWe) | 3:41 |
 | 5 | [Back to the 305](https://open.spotify.com/track/1tWkiHe2UtNye350uhqwVm) | [Omar+](https://open.spotify.com/artist/06HO1b1nd4kQzRakdZBTSc), [Luke Dean](https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4) | [Back to the 305](https://open.spotify.com/album/5bz83EFYjM4ToJVofVL71a) | 2:57 |
 | 6 | [Reflections](https://open.spotify.com/track/0ZZWyT8ppn9PxVe17WX2DR) | [IDEMI](https://open.spotify.com/artist/09OK5GXLbMSjg8lOb4wRVT) | [Reflections](https://open.spotify.com/album/1Giq4kCBXCOqpJYaKGdVoo) | 3:07 |
 | 7 | [Coming Home](https://open.spotify.com/track/1hkC1aNdHsGsdM0O58JhEb) | [Robbie Doherty](https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS) | [Coming Home](https://open.spotify.com/album/5oxDT9af0xtzKUo6nSiyG5) | 4:22 |
-| 8 | [Madness](https://open.spotify.com/track/33jEV1SbyTihlHJQZ1WhXW) | [Pablo Aristimuño](https://open.spotify.com/artist/5ZJcLDAlidHV1DvhdenGSI), [Mariche](https://open.spotify.com/artist/5gzRMOgauErn4aLSbr6RKF) | [Madness](https://open.spotify.com/album/4s7UM5ozdkz56jJqnxQwSO) | 3:32 |
-| 9 | [Face Bass](https://open.spotify.com/track/4tXS570m2e35lVjIxBjxoW) | [East End Dubs](https://open.spotify.com/artist/5nw8Cj9x9XXKDuuNhl5mF7), [Di Chiara Brothers](https://open.spotify.com/artist/5JywRcVtRJR2yVvjCb2O5H) | [Face Bass](https://open.spotify.com/album/0zVP42K9yiy36j8i6J1XIb) | 3:15 |
+| 8 | [Face Bass](https://open.spotify.com/track/4tXS570m2e35lVjIxBjxoW) | [East End Dubs](https://open.spotify.com/artist/5nw8Cj9x9XXKDuuNhl5mF7), [Di Chiara Brothers](https://open.spotify.com/artist/5JywRcVtRJR2yVvjCb2O5H) | [Face Bass](https://open.spotify.com/album/0zVP42K9yiy36j8i6J1XIb) | 3:15 |
+| 9 | [Madness](https://open.spotify.com/track/33jEV1SbyTihlHJQZ1WhXW) | [Pablo Aristimuño](https://open.spotify.com/artist/5ZJcLDAlidHV1DvhdenGSI), [Mariche](https://open.spotify.com/artist/5gzRMOgauErn4aLSbr6RKF) | [Madness](https://open.spotify.com/album/4s7UM5ozdkz56jJqnxQwSO) | 3:32 |
 | 10 | [Fascination](https://open.spotify.com/track/4zrgYXxoxvDLhAUyWrlCVR) | [Cam Stockman](https://open.spotify.com/artist/6ZznWCJd9W0TBbLtCK7oFg) | [Fascination EP](https://open.spotify.com/album/5zyEW0IN9u8kdg0DBacxZI) | 3:16 |
 | 11 | [Second Nature \- SHUFFA Remix](https://open.spotify.com/track/1TRXRI1BAk8vsZAa2mHLix) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [TAET](https://open.spotify.com/artist/5hQmpI9StixOlzdd5ogQ3f), [SHUFFA](https://open.spotify.com/artist/3tosID3SunySdhOUdzmO8E) | [Second Nature \(SHUFFA Remix\)](https://open.spotify.com/album/5YAVWB3eqaoWfHSu8CHJ4F) | 3:07 |
 | 12 | [Ain't With That \(Late Night Callin'\)](https://open.spotify.com/track/6P7sJUzkFeLq9VOqJQSBFH) | [Julian Fijma](https://open.spotify.com/artist/3KEvY1XBn7ZqQcHhUoGeqy) | [Ain't With That \(Late Night Callin'\)](https://open.spotify.com/album/1ADJNvsMekByZTH7ZcP0uh) | 3:27 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 114 | [Rock Ya Soul](https://open.spotify.com/track/3JgIW0wTM4OnYCdB681PwR) | [Riley \(UK\)](https://open.spotify.com/artist/41vJAAunDUYAg81pOkcWh3) | [Rock Ya Soul EP](https://open.spotify.com/album/5Ys7C0Wc4qLf1UUQqye6b0) | 6:27 |
 | 115 | [Yosemite \- Philip George Remix](https://open.spotify.com/track/7Ix1YfRHAELxNIFqkzQdWl) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI), [Philip George](https://open.spotify.com/artist/0Q9slhIaEgg190iG8udYIV) | [Yosemite \(Philip George Remix\)](https://open.spotify.com/album/3ICO7iCL1VhEtbt4fSJ46Y) | 4:35 |
 
-Snapshot ID: `AAAAAP5YRuaKRkD0aPdbW36rn/1J3nZK`
+Snapshot ID: `AAAAAEZoDNbDK8FigJ0LOg96GQOegHkE`

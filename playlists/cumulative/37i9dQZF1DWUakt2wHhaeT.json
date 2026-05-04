@@ -1090,7 +1090,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-04",
       "duration_ms": 256444,
       "name": "For The Gaze",
       "url": "https://open.spotify.com/track/1xU1U5erQRpSvbgeKBJj8x"
@@ -2284,7 +2284,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-04",
       "duration_ms": 122373,
       "name": "London Song",
       "url": "https://open.spotify.com/track/7A3PjOKKA6oOwjvwrOFoiB"
@@ -2360,6 +2360,32 @@
       "duration_ms": 173000,
       "name": "Man Of The House",
       "url": "https://open.spotify.com/track/3aIvJqEB3SN3aNvOfOo3CS"
+    },
+    {
+      "album": {
+        "name": "Paddington The Musical (Original Cast Recording)",
+        "url": "https://open.spotify.com/album/1b40xdcn5sMrYc2zppIYPy"
+      },
+      "artists": [
+        {
+          "name": "Paddington The Musical",
+          "url": "https://open.spotify.com/artist/4yhYkrJARi1BP6W4Wi3C2w"
+        },
+        {
+          "name": "Tom Edden",
+          "url": "https://open.spotify.com/artist/5gJyxAa6NqRZvwCPKMVZy6"
+        },
+        {
+          "name": "James Hameed",
+          "url": "https://open.spotify.com/artist/0CL38ZLQrQb3VbaiJJs1lG"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227302,
+      "name": "Marmalade",
+      "url": "https://open.spotify.com/track/3AQ1T7Mals0sazdkTDgBpE"
     },
     {
       "album": {
@@ -2665,6 +2691,28 @@
     },
     {
       "album": {
+        "name": "CHESS the Musical (2025 Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/27MXrcyr0fg5oABxibAMa5"
+      },
+      "artists": [
+        {
+          "name": "Lea Michele",
+          "url": "https://open.spotify.com/artist/16rJDrSGCHMXjPUuKwQcvp"
+        },
+        {
+          "name": "CHESS 2025 Broadway Company",
+          "url": "https://open.spotify.com/artist/6gfwuJdi9Bk7s41QgLAxiW"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208095,
+      "name": "Nobody's Side",
+      "url": "https://open.spotify.com/track/5UJM25CcSmA092F16PlFxp"
+    },
+    {
+      "album": {
         "name": "Nobody\u2019s Side (CHESS the Musical)",
         "url": "https://open.spotify.com/album/6vwKPBzBcdJmob9aiuK06K"
       },
@@ -2680,7 +2728,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-04",
       "duration_ms": 215399,
       "name": "Nobody\u2019s Side (CHESS the Musical)",
       "url": "https://open.spotify.com/track/6u2NMX3kxpMzhF2lrv5qLk"
@@ -2898,6 +2946,32 @@
       "duration_ms": 127689,
       "name": "Poison",
       "url": "https://open.spotify.com/track/7kEzfZXbV63tlqkPyyRd7n"
+    },
+    {
+      "album": {
+        "name": "Paddington The Musical (Original Cast Recording)",
+        "url": "https://open.spotify.com/album/1b40xdcn5sMrYc2zppIYPy"
+      },
+      "artists": [
+        {
+          "name": "Paddington The Musical",
+          "url": "https://open.spotify.com/artist/4yhYkrJARi1BP6W4Wi3C2w"
+        },
+        {
+          "name": "Tom Fletcher",
+          "url": "https://open.spotify.com/artist/67WcoPwOngc4ZlJiYpOTad"
+        },
+        {
+          "name": "Victoria Hamilton-Barritt",
+          "url": "https://open.spotify.com/artist/5YdfQ4cZKevXS9GK2usxEz"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240340,
+      "name": "Pretty Little Dead Things",
+      "url": "https://open.spotify.com/track/5POzg2k4cmzaxfUhaJ7PRE"
     },
     {
       "album": {
@@ -3333,6 +3407,24 @@
     },
     {
       "album": {
+        "name": "CHESS the Musical (2025 Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/27MXrcyr0fg5oABxibAMa5"
+      },
+      "artists": [
+        {
+          "name": "Lea Michele",
+          "url": "https://open.spotify.com/artist/16rJDrSGCHMXjPUuKwQcvp"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197586,
+      "name": "Someone Else's Story",
+      "url": "https://open.spotify.com/track/5SeRxFU1l2JhOxPWRG2wAW"
+    },
+    {
+      "album": {
         "name": "Something To Shout About",
         "url": "https://open.spotify.com/album/66aw4ymHXybQCqN0tct0aH"
       },
@@ -3508,7 +3600,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-04",
       "duration_ms": 164146,
       "name": "Splish Splash",
       "url": "https://open.spotify.com/track/71Efa4RB8YjaQEj5kvh9v5"
@@ -3564,6 +3656,24 @@
       "duration_ms": 249194,
       "name": "Stay Gold",
       "url": "https://open.spotify.com/track/6QMYeuubL00KcXBXxS5Zhn"
+    },
+    {
+      "album": {
+        "name": "The Last Five Years (25th Anniversary Live at the London Palladium)",
+        "url": "https://open.spotify.com/album/4Ya7fUjY2UmqhCrSnwavm8"
+      },
+      "artists": [
+        {
+          "name": "Rachel Zegler",
+          "url": "https://open.spotify.com/artist/1q9hWC9JAJXjXwZN9aDKW3"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311565,
+      "name": "Still Hurting - Live at the London Palladium",
+      "url": "https://open.spotify.com/track/3Dq3ovvhFjc352Phv1j99t"
     },
     {
       "album": {
@@ -3740,6 +3850,28 @@
       "duration_ms": 204200,
       "name": "The March (We Demand Equality) [from the Broadway musical \u201cSuffs\u201d]",
       "url": "https://open.spotify.com/track/1ODYl4yWYox1r2UsHFjIpD"
+    },
+    {
+      "album": {
+        "name": "The Last Five Years (25th Anniversary Live at the London Palladium)",
+        "url": "https://open.spotify.com/album/4Ya7fUjY2UmqhCrSnwavm8"
+      },
+      "artists": [
+        {
+          "name": "Ben Platt",
+          "url": "https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k"
+        },
+        {
+          "name": "Rachel Zegler",
+          "url": "https://open.spotify.com/artist/1q9hWC9JAJXjXwZN9aDKW3"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 459562,
+      "name": "The Next Ten Minutes - Live at the London Palladium",
+      "url": "https://open.spotify.com/track/4v5AC9QbYbgYeMDPSYlZlz"
     },
     {
       "album": {
@@ -4042,7 +4174,7 @@
       ],
       "date_added": "2024-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-04",
       "duration_ms": 352875,
       "name": "Tulsa '67",
       "url": "https://open.spotify.com/track/7qi6tuUyDc5JG21uuTzkxX"

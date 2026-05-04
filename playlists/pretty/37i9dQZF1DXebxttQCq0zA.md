@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXebxttQCq0zA.md) - [plain]
 
 > Soothing drones, ambient piano and new age music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,255,996 likes - 220 songs - 9 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,256,214 likes - 220 songs - 9 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -229,4 +229,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXebxttQCq0zA.md) - [plain]
 | 219 | [Somatic](https://open.spotify.com/track/4wjl5VXo2cdIoknPoceP3q) | [Elevated States](https://open.spotify.com/artist/7ylpJybZ4ixg9kzdnWBDQQ) | [Somatic](https://open.spotify.com/album/1RNh1wlx2hTarm96lcJGpn) | 2:48 |
 | 220 | [Shorelines](https://open.spotify.com/track/7mnsvuH9vYmG1P9wrpHvTV) | [Eartharmonics](https://open.spotify.com/artist/28mf6WqvVAsOevoY6A2oB7) | [Shorelines](https://open.spotify.com/album/1Pzjm4iqMwsXRsOZJhycOA) | 2:58 |
 
-Snapshot ID: `AAAAAHISKbi9cULIkO57+WxeHntFbj58`
+Snapshot ID: `AAAAAKfkxAq/ZxfUCfOWimSmnnLduX0F`

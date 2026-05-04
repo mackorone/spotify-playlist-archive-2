@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vJksQf4im1.md) - [plain]
 
 > Mark實呢個歌單，就唔驚錯過香港hit 緊嘅Pop Songs 啦！Cover: Madonna & Sabrina Carpenter
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,628 likes - 64 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,627 likes - 64 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

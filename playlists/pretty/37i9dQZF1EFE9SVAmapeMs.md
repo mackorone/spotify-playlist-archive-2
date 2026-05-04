@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE9SVAmapeMs.md) - [plain]
 | 20 | [Christopher Walking](https://open.spotify.com/track/4SEOzb4aITERRoVlcc0I8H) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Meet The Woo 2 \(Deluxe\)](https://open.spotify.com/album/2SbCbfsxJMQz8ygrfNiA7H) | 3:10 |
 | 21 | [Feelings Mutual](https://open.spotify.com/track/5Y3Tj0wJhKAaPbwWxXxZGS) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Luv Is Rage 2](https://open.spotify.com/album/733e1ZfktLSwj96X5rsMeE) | 3:53 |
 | 22 | [How to Talk](https://open.spotify.com/track/0ro5QCkSCtbfhMHnvMase3) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Luv Is Rage 2](https://open.spotify.com/album/733e1ZfktLSwj96X5rsMeE) | 3:21 |
-| 23 | [Dreaming](https://open.spotify.com/track/4KrqFaGkjMKvaohI4aUpDX) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Meet The Woo 2 \(Deluxe\)](https://open.spotify.com/album/2SbCbfsxJMQz8ygrfNiA7H) | 2:54 |
-| 24 | [No Photos](https://open.spotify.com/track/38HkYfvnhHLLB5Yaj2VpZg) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Heaven Or Hell](https://open.spotify.com/album/7z4GhRfLqfSkqrj5F3Yt2B) | 2:55 |
+| 23 | [No Photos](https://open.spotify.com/track/38HkYfvnhHLLB5Yaj2VpZg) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Heaven Or Hell](https://open.spotify.com/album/7z4GhRfLqfSkqrj5F3Yt2B) | 2:55 |
+| 24 | [Dreaming](https://open.spotify.com/track/4KrqFaGkjMKvaohI4aUpDX) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Meet The Woo 2 \(Deluxe\)](https://open.spotify.com/album/2SbCbfsxJMQz8ygrfNiA7H) | 2:54 |
 | 25 | [Bad Bitch From Tokyo \(Intro\)](https://open.spotify.com/track/48oq0hW55N7ltpPGMETlUO) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Shoot For The Stars Aim For The Moon](https://open.spotify.com/album/6u3vDhwJ2HXHShH5kD00qL) | 0:48 |
 | 26 | [Malfunction](https://open.spotify.com/track/57nQyFocXZrKvWg5ZPYSoG) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Luv Is Rage 2](https://open.spotify.com/album/733e1ZfktLSwj96X5rsMeE) | 3:19 |
 | 27 | [Never Catch Me](https://open.spotify.com/track/3jg8bevUzKYONDLBBQquif) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Rodeo](https://open.spotify.com/album/4PWBTB6NYSKQwfo79I3prg) | 2:56 |
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE9SVAmapeMs.md) - [plain]
 | 71 | [Found](https://open.spotify.com/track/2mUoBl035v3VDYJ6YDOXqF) | [Rhyan Douglas](https://open.spotify.com/artist/7axjaaukpvCevGVNWKpYL2) | [Circles](https://open.spotify.com/album/4qnV1lETL7Q41TaqiKqSiN) | 2:54 |
 | 72 | [Young Love Games](https://open.spotify.com/track/5Z0qaipNiBmMTTFohE9ek3) | [Grace Weber](https://open.spotify.com/artist/3hJNrfFurTlGFglmBwyFFM) | [Young Love Games](https://open.spotify.com/album/0edwyKGofva4cAqAuTWmJd) | 2:45 |
 
-Snapshot ID: `AcQcqgAAAADUFksBm43GrB2FPLSx8Fo9`
+Snapshot ID: `AcQihgAAAAC87IYPwBdCo6qsjjM9RNQk`

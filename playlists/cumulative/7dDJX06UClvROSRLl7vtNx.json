@@ -1173,6 +1173,28 @@
     },
     {
       "album": {
+        "name": "American Girls",
+        "url": "https://open.spotify.com/album/1YhtXfILnx5ctbtA9xoWIH"
+      },
+      "artists": [
+        {
+          "name": "L\u00e8ne",
+          "url": "https://open.spotify.com/artist/5DNOrvevLUcm1S9hIS4L6h"
+        },
+        {
+          "name": "Robbie Hutton",
+          "url": "https://open.spotify.com/artist/05qvZreQgj82j4gXKT6K0T"
+        }
+      ],
+      "date_added": "2026-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151983,
+      "name": "American Girls",
+      "url": "https://open.spotify.com/track/4y1qev4GVoplYv7ArLPJVc"
+    },
+    {
+      "album": {
         "name": "Angel Face Disaster",
         "url": "https://open.spotify.com/album/3jonmw2qK26V8cButEMhUe"
       },
@@ -2626,7 +2648,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-04",
       "duration_ms": 170215,
       "name": "Break You Too",
       "url": "https://open.spotify.com/track/4em6m28N7Va4dMZDeoESix"
@@ -6024,7 +6046,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-04",
       "duration_ms": 152043,
       "name": "Drive Me Crazy",
       "url": "https://open.spotify.com/track/76ZD43CFRwvK4n1XimWdpn"
@@ -6072,6 +6094,28 @@
       "duration_ms": 141000,
       "name": "Drowning",
       "url": "https://open.spotify.com/track/1jdEOZyXjhqP1ItM5kfH2K"
+    },
+    {
+      "album": {
+        "name": "Dumb Things",
+        "url": "https://open.spotify.com/album/70BXSLkRsTJd7gqOrSFoaL"
+      },
+      "artists": [
+        {
+          "name": "Toby Rose",
+          "url": "https://open.spotify.com/artist/0j6SFwrb6jmolrDLHRugcJ"
+        },
+        {
+          "name": "One Trick Pony",
+          "url": "https://open.spotify.com/artist/4xxlgFFZpjIrQr9FiFttBG"
+        }
+      ],
+      "date_added": "2026-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140005,
+      "name": "Dumb Things",
+      "url": "https://open.spotify.com/track/4gWdqjWaILyu3ZFhKqGYRo"
     },
     {
       "album": {
@@ -9430,7 +9474,7 @@
       ],
       "date_added": "2026-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-04",
       "duration_ms": 153027,
       "name": "Head Out The Window",
       "url": "https://open.spotify.com/track/0xC8nSPgNEnArMPzKgeiIR"
@@ -12099,6 +12143,24 @@
     },
     {
       "album": {
+        "name": "In Love With Me",
+        "url": "https://open.spotify.com/album/6Hjpks5Ll9uNLwnokzG4Vp"
+      },
+      "artists": [
+        {
+          "name": "AALLAR",
+          "url": "https://open.spotify.com/artist/0Zo4tbJKj4xYiidcaYRtz1"
+        }
+      ],
+      "date_added": "2026-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "In Love With Me",
+      "url": "https://open.spotify.com/track/1MDlygb6oO8tDnlqOi7U0d"
+    },
+    {
+      "album": {
         "name": "In Love With You",
         "url": "https://open.spotify.com/album/0GGlu15hm0OdjMiq7iasmd"
       },
@@ -13158,7 +13220,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-04",
       "duration_ms": 145833,
       "name": "Keep Me There",
       "url": "https://open.spotify.com/track/0YBiWhC6TlGtkOYutzzMtu"
@@ -20616,7 +20678,7 @@
       ],
       "date_added": "2026-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-04",
       "duration_ms": 154500,
       "name": "Rest Of My Life",
       "url": "https://open.spotify.com/track/4dq1p7vkO0hSUpcdfspqrK"
@@ -25280,7 +25342,7 @@
       ],
       "date_added": "2025-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-04",
       "duration_ms": 121747,
       "name": "That Feeling",
       "url": "https://open.spotify.com/track/7qQQJZqGbnNrpEKVQwUnpN"
@@ -26360,6 +26422,28 @@
       "duration_ms": 190526,
       "name": "Too Sweet",
       "url": "https://open.spotify.com/track/35ngVMxxzirCHtnhB9XfPg"
+    },
+    {
+      "album": {
+        "name": "Top Of The Waves",
+        "url": "https://open.spotify.com/album/6YnwESJJyjcZ3NyPXMvXRK"
+      },
+      "artists": [
+        {
+          "name": "ODBLU",
+          "url": "https://open.spotify.com/artist/6AmNTXPYTR90WlrDRFLa02"
+        },
+        {
+          "name": "Kayda",
+          "url": "https://open.spotify.com/artist/6IG4EHsctQl5F2qfzzwPMX"
+        }
+      ],
+      "date_added": "2026-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149000,
+      "name": "Top Of The Waves",
+      "url": "https://open.spotify.com/track/5pmSVZzzzscXjShtHQFOMW"
     },
     {
       "album": {

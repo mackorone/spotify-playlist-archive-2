@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Hungary.",
-  "num_followers": 76799,
+  "num_followers": 76806,
   "original_name": "Top 50 - Hungary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MYlq+AAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MYq8eAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2026-05-02 14:08:42",
+      "added_at": "2026-05-03 13:58:55",
       "album": {
         "name": "TIP TIP",
         "url": "https://open.spotify.com/album/35FPaskal0aoiu8iVfXgFD"
@@ -33,27 +33,7 @@
       "url": "https://open.spotify.com/track/3CHx5MlbwfflmgrUoHSZw5"
     },
     {
-      "added_at": "2026-05-02 14:08:42",
-      "album": {
-        "name": "TITANIK",
-        "url": "https://open.spotify.com/album/6a6wXMsFMObqPzuVsA1FMP"
-      },
-      "artists": [
-        {
-          "name": "Azahriah",
-          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
-        },
-        {
-          "name": "GHO$TY",
-          "url": "https://open.spotify.com/artist/0Tx80XEW9rizsKS5GkVwrX"
-        }
-      ],
-      "duration_ms": 163880,
-      "name": "TITANIK",
-      "url": "https://open.spotify.com/track/6SxtaMa9JVSPdItvtyobqG"
-    },
-    {
-      "added_at": "2026-05-02 14:08:42",
+      "added_at": "2026-05-03 13:58:55",
       "album": {
         "name": "Valamit Majd Kital\u00e1lok",
         "url": "https://open.spotify.com/album/3ZyqM2dihxZ91iNz02PrT1"
@@ -69,7 +49,7 @@
       "url": "https://open.spotify.com/track/4WjtNR5fqgtMSstBY3yvPN"
     },
     {
-      "added_at": "2026-05-02 14:08:42",
+      "added_at": "2026-05-03 13:58:55",
       "album": {
         "name": "VINNER DELUXE",
         "url": "https://open.spotify.com/album/3dj07tLV6pPxW4YGzF21Ni"
@@ -89,43 +69,7 @@
       "url": "https://open.spotify.com/track/6nvDIhdi3Dcet4sIZR5qDk"
     },
     {
-      "added_at": "2026-05-02 14:08:42",
-      "album": {
-        "name": "A MASZK",
-        "url": "https://open.spotify.com/album/7GAIOSkRnnTyYnoziR7I1y"
-      },
-      "artists": [
-        {
-          "name": "T. Danny",
-          "url": "https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG"
-        },
-        {
-          "name": "VINI",
-          "url": "https://open.spotify.com/artist/7Ac0uxdCzBBRgjbtel2bbV"
-        }
-      ],
-      "duration_ms": 145531,
-      "name": "8",
-      "url": "https://open.spotify.com/track/19eAMzR3dZZVdPMfCkU1Wb"
-    },
-    {
-      "added_at": "2026-05-02 14:08:42",
-      "album": {
-        "name": "utema",
-        "url": "https://open.spotify.com/album/0QP8g8K8Njgn4xoWLJMUuF"
-      },
-      "artists": [
-        {
-          "name": "Azahriah",
-          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
-        }
-      ],
-      "duration_ms": 236523,
-      "name": "utema",
-      "url": "https://open.spotify.com/track/6rrn0Jzt0dDSQ9B1ZBiuCt"
-    },
-    {
-      "added_at": "2026-05-02 14:08:42",
+      "added_at": "2026-05-03 13:58:55",
       "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/5cxMa6oLINJzmZ8lF7wWQN"
@@ -145,7 +89,43 @@
       "url": "https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7"
     },
     {
-      "added_at": "2026-05-02 14:08:42",
+      "added_at": "2026-05-03 13:58:55",
+      "album": {
+        "name": "utema",
+        "url": "https://open.spotify.com/album/0QP8g8K8Njgn4xoWLJMUuF"
+      },
+      "artists": [
+        {
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+        }
+      ],
+      "duration_ms": 236523,
+      "name": "utema",
+      "url": "https://open.spotify.com/track/6rrn0Jzt0dDSQ9B1ZBiuCt"
+    },
+    {
+      "added_at": "2026-05-03 13:58:55",
+      "album": {
+        "name": "VINNER",
+        "url": "https://open.spotify.com/album/44ZyazKbcQOMu0awUPOBPc"
+      },
+      "artists": [
+        {
+          "name": "VINI",
+          "url": "https://open.spotify.com/artist/7Ac0uxdCzBBRgjbtel2bbV"
+        },
+        {
+          "name": "BELANO",
+          "url": "https://open.spotify.com/artist/3YuXDaxA5aNH0yA4SLeEPA"
+        }
+      ],
+      "duration_ms": 159255,
+      "name": "SHAKE DAT",
+      "url": "https://open.spotify.com/track/7a9QYpDPIBwHTDtX7W79t3"
+    },
+    {
+      "added_at": "2026-05-03 13:58:55",
       "album": {
         "name": "Valamit Majd Kital\u00e1lok",
         "url": "https://open.spotify.com/album/3ZyqM2dihxZ91iNz02PrT1"
@@ -161,7 +141,7 @@
       "url": "https://open.spotify.com/track/3mt6G4z1RwWMIbmzWi7gPC"
     },
     {
-      "added_at": "2026-05-02 14:08:42",
+      "added_at": "2026-05-03 13:58:55",
       "album": {
         "name": "INTERREGNUM",
         "url": "https://open.spotify.com/album/2RN4jUusVHvFiiEg4EBHGD"
@@ -177,7 +157,47 @@
       "url": "https://open.spotify.com/track/5vLT8l8KAGe8rOGnyKkVNt"
     },
     {
-      "added_at": "2026-05-02 14:08:42",
+      "added_at": "2026-05-03 13:58:55",
+      "album": {
+        "name": "TITANIK",
+        "url": "https://open.spotify.com/album/6a6wXMsFMObqPzuVsA1FMP"
+      },
+      "artists": [
+        {
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+        },
+        {
+          "name": "GHO$TY",
+          "url": "https://open.spotify.com/artist/0Tx80XEW9rizsKS5GkVwrX"
+        }
+      ],
+      "duration_ms": 163880,
+      "name": "TITANIK",
+      "url": "https://open.spotify.com/track/6SxtaMa9JVSPdItvtyobqG"
+    },
+    {
+      "added_at": "2026-05-03 13:58:55",
+      "album": {
+        "name": "H\u0171tlen D\u00e9lib\u00e1b",
+        "url": "https://open.spotify.com/album/0nUnpyXWyuKOzAVz7vxKe0"
+      },
+      "artists": [
+        {
+          "name": "Nagy Bogi",
+          "url": "https://open.spotify.com/artist/3VgOKuwKvAYU4aT7atESfM"
+        },
+        {
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
+        }
+      ],
+      "duration_ms": 150725,
+      "name": "J\u00f3l leszek \u00fajra",
+      "url": "https://open.spotify.com/track/3g5hOdWycmk8C49MXdfAGo"
+    },
+    {
+      "added_at": "2026-05-03 13:58:55",
       "album": {
         "name": "SHOW ME WHAT YOU GOT",
         "url": "https://open.spotify.com/album/6ESO4ZbS6LSGHhByv5E0nC"
@@ -201,63 +221,7 @@
       "url": "https://open.spotify.com/track/3NfFj4Tcdp9LtI5tnKoJLR"
     },
     {
-      "added_at": "2026-05-02 14:08:42",
-      "album": {
-        "name": "VINNER",
-        "url": "https://open.spotify.com/album/44ZyazKbcQOMu0awUPOBPc"
-      },
-      "artists": [
-        {
-          "name": "VINI",
-          "url": "https://open.spotify.com/artist/7Ac0uxdCzBBRgjbtel2bbV"
-        },
-        {
-          "name": "BELANO",
-          "url": "https://open.spotify.com/artist/3YuXDaxA5aNH0yA4SLeEPA"
-        }
-      ],
-      "duration_ms": 159255,
-      "name": "SHAKE DAT",
-      "url": "https://open.spotify.com/track/7a9QYpDPIBwHTDtX7W79t3"
-    },
-    {
-      "added_at": "2026-05-02 14:08:42",
-      "album": {
-        "name": "H\u0171tlen D\u00e9lib\u00e1b",
-        "url": "https://open.spotify.com/album/0nUnpyXWyuKOzAVz7vxKe0"
-      },
-      "artists": [
-        {
-          "name": "Nagy Bogi",
-          "url": "https://open.spotify.com/artist/3VgOKuwKvAYU4aT7atESfM"
-        },
-        {
-          "name": "DESH",
-          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
-        }
-      ],
-      "duration_ms": 150725,
-      "name": "J\u00f3l leszek \u00fajra",
-      "url": "https://open.spotify.com/track/3g5hOdWycmk8C49MXdfAGo"
-    },
-    {
-      "added_at": "2026-05-02 14:08:42",
-      "album": {
-        "name": "A MASZK",
-        "url": "https://open.spotify.com/album/7GAIOSkRnnTyYnoziR7I1y"
-      },
-      "artists": [
-        {
-          "name": "T. Danny",
-          "url": "https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG"
-        }
-      ],
-      "duration_ms": 270000,
-      "name": "MI B\u00c1NT",
-      "url": "https://open.spotify.com/track/5uXzFyfsLzA19DYex9SI0r"
-    },
-    {
-      "added_at": "2026-05-02 14:08:42",
+      "added_at": "2026-05-03 13:58:55",
       "album": {
         "name": "INTERREGNUM",
         "url": "https://open.spotify.com/album/2RN4jUusVHvFiiEg4EBHGD"
@@ -277,7 +241,27 @@
       "url": "https://open.spotify.com/track/6MQD8BarH6kkEAuSzFeXnm"
     },
     {
-      "added_at": "2026-05-02 14:08:42",
+      "added_at": "2026-05-03 13:58:55",
+      "album": {
+        "name": "OHMAMMA",
+        "url": "https://open.spotify.com/album/0FI47MJzrv0dDT38VZaJEu"
+      },
+      "artists": [
+        {
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
+        },
+        {
+          "name": "Young Fly",
+          "url": "https://open.spotify.com/artist/0zmW213tzA7NFv6ESRso7N"
+        }
+      ],
+      "duration_ms": 168813,
+      "name": "OHMAMMA",
+      "url": "https://open.spotify.com/track/2oKmNG8j56GqcX4XxyYcax"
+    },
+    {
+      "added_at": "2026-05-03 13:58:55",
       "album": {
         "name": "A MASZK",
         "url": "https://open.spotify.com/album/7GAIOSkRnnTyYnoziR7I1y"
@@ -286,14 +270,18 @@
         {
           "name": "T. Danny",
           "url": "https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG"
+        },
+        {
+          "name": "VINI",
+          "url": "https://open.spotify.com/artist/7Ac0uxdCzBBRgjbtel2bbV"
         }
       ],
-      "duration_ms": 229894,
-      "name": "xXx",
-      "url": "https://open.spotify.com/track/0YCpCi4UlDUIpxCRg9jOsK"
+      "duration_ms": 145531,
+      "name": "8",
+      "url": "https://open.spotify.com/track/19eAMzR3dZZVdPMfCkU1Wb"
     },
     {
-      "added_at": "2026-05-02 14:08:42",
+      "added_at": "2026-05-03 13:58:55",
       "album": {
         "name": "Self Aware",
         "url": "https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M"
@@ -309,7 +297,7 @@
       "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
     },
     {
-      "added_at": "2026-05-02 14:08:42",
+      "added_at": "2026-05-03 13:58:55",
       "album": {
         "name": "BAKPAKK",
         "url": "https://open.spotify.com/album/0rxSEyr7JxVRxuUMtZ5eRT"
@@ -333,27 +321,7 @@
       "url": "https://open.spotify.com/track/5v1qS9RS2g42zeXHevEdYn"
     },
     {
-      "added_at": "2026-05-02 14:08:42",
-      "album": {
-        "name": "A MASZK",
-        "url": "https://open.spotify.com/album/7GAIOSkRnnTyYnoziR7I1y"
-      },
-      "artists": [
-        {
-          "name": "T. Danny",
-          "url": "https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG"
-        },
-        {
-          "name": "BELANO",
-          "url": "https://open.spotify.com/artist/3YuXDaxA5aNH0yA4SLeEPA"
-        }
-      ],
-      "duration_ms": 147692,
-      "name": "LFDY",
-      "url": "https://open.spotify.com/track/4R1n3lBWzkIaCiKrpNyF7B"
-    },
-    {
-      "added_at": "2026-05-02 14:08:42",
+      "added_at": "2026-05-03 13:58:55",
       "album": {
         "name": "A MASZK",
         "url": "https://open.spotify.com/album/7GAIOSkRnnTyYnoziR7I1y"
@@ -364,52 +332,12 @@
           "url": "https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG"
         }
       ],
-      "duration_ms": 163636,
-      "name": "HYPE",
-      "url": "https://open.spotify.com/track/3HaneqoeS3SQSWuOofOAIP"
+      "duration_ms": 270000,
+      "name": "MI B\u00c1NT",
+      "url": "https://open.spotify.com/track/5uXzFyfsLzA19DYex9SI0r"
     },
     {
-      "added_at": "2026-05-02 14:08:42",
-      "album": {
-        "name": "A MASZK",
-        "url": "https://open.spotify.com/album/7GAIOSkRnnTyYnoziR7I1y"
-      },
-      "artists": [
-        {
-          "name": "T. Danny",
-          "url": "https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG"
-        },
-        {
-          "name": "KKevin",
-          "url": "https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5"
-        }
-      ],
-      "duration_ms": 209142,
-      "name": "J\u00d3\u00c9JSZAK\u00c1T",
-      "url": "https://open.spotify.com/track/3WoGALjQo5Qv7K6AG8hi5Z"
-    },
-    {
-      "added_at": "2026-05-02 14:08:42",
-      "album": {
-        "name": "OHMAMMA",
-        "url": "https://open.spotify.com/album/0FI47MJzrv0dDT38VZaJEu"
-      },
-      "artists": [
-        {
-          "name": "DESH",
-          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
-        },
-        {
-          "name": "Young Fly",
-          "url": "https://open.spotify.com/artist/0zmW213tzA7NFv6ESRso7N"
-        }
-      ],
-      "duration_ms": 168813,
-      "name": "OHMAMMA",
-      "url": "https://open.spotify.com/track/2oKmNG8j56GqcX4XxyYcax"
-    },
-    {
-      "added_at": "2026-05-02 14:08:42",
+      "added_at": "2026-05-03 13:58:55",
       "album": {
         "name": "A MASZK",
         "url": "https://open.spotify.com/album/7GAIOSkRnnTyYnoziR7I1y"
@@ -420,136 +348,12 @@
           "url": "https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG"
         }
       ],
-      "duration_ms": 160000,
-      "name": "\u00c9GJEN",
-      "url": "https://open.spotify.com/track/6e7m8OLYFLODlVHzGZ60yO"
+      "duration_ms": 229894,
+      "name": "xXx",
+      "url": "https://open.spotify.com/track/0YCpCi4UlDUIpxCRg9jOsK"
     },
     {
-      "added_at": "2026-05-02 14:08:42",
-      "album": {
-        "name": "A MASZK",
-        "url": "https://open.spotify.com/album/7GAIOSkRnnTyYnoziR7I1y"
-      },
-      "artists": [
-        {
-          "name": "T. Danny",
-          "url": "https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG"
-        }
-      ],
-      "duration_ms": 163137,
-      "name": "A MASZK",
-      "url": "https://open.spotify.com/track/2KRi6SYnrUvgheumrrPWeP"
-    },
-    {
-      "added_at": "2026-05-02 14:08:42",
-      "album": {
-        "name": "A MASZK",
-        "url": "https://open.spotify.com/album/7GAIOSkRnnTyYnoziR7I1y"
-      },
-      "artists": [
-        {
-          "name": "T. Danny",
-          "url": "https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG"
-        },
-        {
-          "name": "KKevin",
-          "url": "https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5"
-        }
-      ],
-      "duration_ms": 159041,
-      "name": "HAHO",
-      "url": "https://open.spotify.com/track/6oWv1qbZAaolGNDgLkCKeZ"
-    },
-    {
-      "added_at": "2026-05-02 14:08:42",
-      "album": {
-        "name": "Valamit Majd Kital\u00e1lok",
-        "url": "https://open.spotify.com/album/3ZyqM2dihxZ91iNz02PrT1"
-      },
-      "artists": [
-        {
-          "name": "Pog\u00e1ny Indul\u00f3",
-          "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
-        }
-      ],
-      "duration_ms": 193449,
-      "name": "Michelin csillag",
-      "url": "https://open.spotify.com/track/2qAHIKBw6UcnFEt8IrQBBQ"
-    },
-    {
-      "added_at": "2026-05-02 14:08:42",
-      "album": {
-        "name": "Don't Forget About Me, Demos",
-        "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 97960,
-      "name": "Babydoll",
-      "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
-    },
-    {
-      "added_at": "2026-05-02 14:08:42",
-      "album": {
-        "name": "A MASZK",
-        "url": "https://open.spotify.com/album/7GAIOSkRnnTyYnoziR7I1y"
-      },
-      "artists": [
-        {
-          "name": "T. Danny",
-          "url": "https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG"
-        }
-      ],
-      "duration_ms": 251612,
-      "name": "KIEZASR\u00c1C",
-      "url": "https://open.spotify.com/track/3N8T5devRYrXhqynGRM52c"
-    },
-    {
-      "added_at": "2026-05-02 14:08:42",
-      "album": {
-        "name": "AFTERPARTY (Bruno)",
-        "url": "https://open.spotify.com/album/3KeX6WBU1frIGsFPfZCJmd"
-      },
-      "artists": [
-        {
-          "name": "Bruno X Spacc",
-          "url": "https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv"
-        },
-        {
-          "name": "mollywood",
-          "url": "https://open.spotify.com/artist/4JUoajUgI0mmICMBpV6iEP"
-        }
-      ],
-      "duration_ms": 144069,
-      "name": "AFTERPARTY - Bruno",
-      "url": "https://open.spotify.com/track/1nu8OLdO1U77pxAmyZLdjv"
-    },
-    {
-      "added_at": "2026-05-02 14:08:42",
-      "album": {
-        "name": "A MASZK",
-        "url": "https://open.spotify.com/album/7GAIOSkRnnTyYnoziR7I1y"
-      },
-      "artists": [
-        {
-          "name": "T. Danny",
-          "url": "https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG"
-        },
-        {
-          "name": "Nagy Bogi",
-          "url": "https://open.spotify.com/artist/3VgOKuwKvAYU4aT7atESfM"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "KICSIT JOBB",
-      "url": "https://open.spotify.com/track/7BPEoPZ0K6cD39lT4YJjiQ"
-    },
-    {
-      "added_at": "2026-05-02 14:08:42",
+      "added_at": "2026-05-03 13:58:55",
       "album": {
         "name": "212223_Minden_ami_\u00e9n",
         "url": "https://open.spotify.com/album/5XSEdasJQaF9rJbBNDKnZg"
@@ -569,7 +373,7 @@
       "url": "https://open.spotify.com/track/12Pa9ujpXDXa0rJGElUsV4"
     },
     {
-      "added_at": "2026-05-02 14:08:42",
+      "added_at": "2026-05-03 13:58:55",
       "album": {
         "name": "Thriller",
         "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
@@ -585,43 +389,59 @@
       "url": "https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj"
     },
     {
-      "added_at": "2026-05-02 14:08:42",
+      "added_at": "2026-05-03 13:58:55",
       "album": {
-        "name": "Dada",
-        "url": "https://open.spotify.com/album/5SYUF1nUTuqOgRFrj6x2VN"
+        "name": "Don't Forget About Me, Demos",
+        "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
       },
       "artists": [
         {
-          "name": "Manuel",
-          "url": "https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8"
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 97960,
+      "name": "Babydoll",
+      "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
+    },
+    {
+      "added_at": "2026-05-03 13:58:55",
+      "album": {
+        "name": "Valamit Majd Kital\u00e1lok",
+        "url": "https://open.spotify.com/album/3ZyqM2dihxZ91iNz02PrT1"
+      },
+      "artists": [
+        {
+          "name": "Pog\u00e1ny Indul\u00f3",
+          "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
+        }
+      ],
+      "duration_ms": 193449,
+      "name": "Michelin csillag",
+      "url": "https://open.spotify.com/track/2qAHIKBw6UcnFEt8IrQBBQ"
+    },
+    {
+      "added_at": "2026-05-03 13:58:55",
+      "album": {
+        "name": "AFTERPARTY (Bruno)",
+        "url": "https://open.spotify.com/album/3KeX6WBU1frIGsFPfZCJmd"
+      },
+      "artists": [
+        {
+          "name": "Bruno X Spacc",
+          "url": "https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv"
         },
         {
-          "name": "Azahriah",
-          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+          "name": "mollywood",
+          "url": "https://open.spotify.com/artist/4JUoajUgI0mmICMBpV6iEP"
         }
       ],
-      "duration_ms": 220080,
-      "name": "Dada",
-      "url": "https://open.spotify.com/track/2tdh0309QZInDRthTNxjZ1"
+      "duration_ms": 144069,
+      "name": "AFTERPARTY - Bruno",
+      "url": "https://open.spotify.com/track/1nu8OLdO1U77pxAmyZLdjv"
     },
     {
-      "added_at": "2026-05-02 14:08:42",
-      "album": {
-        "name": "Four Seasons - Spring",
-        "url": "https://open.spotify.com/album/4iDm13QQDysn1H3w0cZypc"
-      },
-      "artists": [
-        {
-          "name": "BSW",
-          "url": "https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA"
-        }
-      ],
-      "duration_ms": 149352,
-      "name": "Gate Closed",
-      "url": "https://open.spotify.com/track/4pPGHHybZH45ETSGROCMwg"
-    },
-    {
-      "added_at": "2026-05-02 14:08:42",
+      "added_at": "2026-05-03 13:58:55",
       "album": {
         "name": "BAKPAKK",
         "url": "https://open.spotify.com/album/0rxSEyr7JxVRxuUMtZ5eRT"
@@ -641,7 +461,63 @@
       "url": "https://open.spotify.com/track/6jIOiFrWhqvDGzwONFKl3j"
     },
     {
-      "added_at": "2026-05-02 14:08:42",
+      "added_at": "2026-05-03 13:58:55",
+      "album": {
+        "name": "Four Seasons - Spring",
+        "url": "https://open.spotify.com/album/4iDm13QQDysn1H3w0cZypc"
+      },
+      "artists": [
+        {
+          "name": "BSW",
+          "url": "https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA"
+        }
+      ],
+      "duration_ms": 149352,
+      "name": "Gate Closed",
+      "url": "https://open.spotify.com/track/4pPGHHybZH45ETSGROCMwg"
+    },
+    {
+      "added_at": "2026-05-03 13:58:55",
+      "album": {
+        "name": "Dada",
+        "url": "https://open.spotify.com/album/5SYUF1nUTuqOgRFrj6x2VN"
+      },
+      "artists": [
+        {
+          "name": "Manuel",
+          "url": "https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8"
+        },
+        {
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+        }
+      ],
+      "duration_ms": 220080,
+      "name": "Dada",
+      "url": "https://open.spotify.com/track/2tdh0309QZInDRthTNxjZ1"
+    },
+    {
+      "added_at": "2026-05-03 13:58:55",
+      "album": {
+        "name": "A MASZK",
+        "url": "https://open.spotify.com/album/7GAIOSkRnnTyYnoziR7I1y"
+      },
+      "artists": [
+        {
+          "name": "T. Danny",
+          "url": "https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG"
+        },
+        {
+          "name": "BELANO",
+          "url": "https://open.spotify.com/artist/3YuXDaxA5aNH0yA4SLeEPA"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "LFDY",
+      "url": "https://open.spotify.com/track/4R1n3lBWzkIaCiKrpNyF7B"
+    },
+    {
+      "added_at": "2026-05-03 13:58:55",
       "album": {
         "name": "Strawberry",
         "url": "https://open.spotify.com/album/1Yjm0RrLmt6LG9ng0mM6mU"
@@ -657,39 +533,43 @@
       "url": "https://open.spotify.com/track/6DmpM21b070AdtXm7Lc370"
     },
     {
-      "added_at": "2026-05-02 14:08:42",
+      "added_at": "2026-05-03 13:58:55",
       "album": {
-        "name": "HATALMASABB, MINT GONDOLN\u00c1D",
-        "url": "https://open.spotify.com/album/4hV5BVV3paYc0R019cwl3O"
+        "name": "A MASZK",
+        "url": "https://open.spotify.com/album/7GAIOSkRnnTyYnoziR7I1y"
       },
       "artists": [
         {
-          "name": "Mirror Glimpse",
-          "url": "https://open.spotify.com/artist/6ugNgaIlOKz7Sy8wlEQDif"
+          "name": "T. Danny",
+          "url": "https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG"
         }
       ],
-      "duration_ms": 137999,
-      "name": "DADDY",
-      "url": "https://open.spotify.com/track/4MQmgboYHKTI8Nfxd0nDjA"
+      "duration_ms": 163636,
+      "name": "HYPE",
+      "url": "https://open.spotify.com/track/3HaneqoeS3SQSWuOofOAIP"
     },
     {
-      "added_at": "2026-05-02 14:08:42",
+      "added_at": "2026-05-03 13:58:55",
       "album": {
-        "name": "VINNER",
-        "url": "https://open.spotify.com/album/44ZyazKbcQOMu0awUPOBPc"
+        "name": "A MASZK",
+        "url": "https://open.spotify.com/album/7GAIOSkRnnTyYnoziR7I1y"
       },
       "artists": [
         {
-          "name": "VINI",
-          "url": "https://open.spotify.com/artist/7Ac0uxdCzBBRgjbtel2bbV"
+          "name": "T. Danny",
+          "url": "https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG"
+        },
+        {
+          "name": "KKevin",
+          "url": "https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5"
         }
       ],
-      "duration_ms": 146666,
-      "name": "BOTR\u00c1NY",
-      "url": "https://open.spotify.com/track/1Y4yr3lzCoV0I4m21W5LWB"
+      "duration_ms": 209142,
+      "name": "J\u00d3\u00c9JSZAK\u00c1T",
+      "url": "https://open.spotify.com/track/3WoGALjQo5Qv7K6AG8hi5Z"
     },
     {
-      "added_at": "2026-05-02 14:08:42",
+      "added_at": "2026-05-03 13:58:55",
       "album": {
         "name": "rabiga",
         "url": "https://open.spotify.com/album/4m3abzBFPf2roj9TyyZ8OH"
@@ -709,7 +589,39 @@
       "url": "https://open.spotify.com/track/52kBWybNy033009vfeYu5n"
     },
     {
-      "added_at": "2026-05-02 14:08:42",
+      "added_at": "2026-05-03 13:58:55",
+      "album": {
+        "name": "VINNER",
+        "url": "https://open.spotify.com/album/44ZyazKbcQOMu0awUPOBPc"
+      },
+      "artists": [
+        {
+          "name": "VINI",
+          "url": "https://open.spotify.com/artist/7Ac0uxdCzBBRgjbtel2bbV"
+        }
+      ],
+      "duration_ms": 146666,
+      "name": "BOTR\u00c1NY",
+      "url": "https://open.spotify.com/track/1Y4yr3lzCoV0I4m21W5LWB"
+    },
+    {
+      "added_at": "2026-05-03 13:58:55",
+      "album": {
+        "name": "HATALMASABB, MINT GONDOLN\u00c1D",
+        "url": "https://open.spotify.com/album/4hV5BVV3paYc0R019cwl3O"
+      },
+      "artists": [
+        {
+          "name": "Mirror Glimpse",
+          "url": "https://open.spotify.com/artist/6ugNgaIlOKz7Sy8wlEQDif"
+        }
+      ],
+      "duration_ms": 137999,
+      "name": "DADDY",
+      "url": "https://open.spotify.com/track/4MQmgboYHKTI8Nfxd0nDjA"
+    },
+    {
+      "added_at": "2026-05-03 13:58:55",
       "album": {
         "name": "A MASZK",
         "url": "https://open.spotify.com/album/7GAIOSkRnnTyYnoziR7I1y"
@@ -718,14 +630,18 @@
         {
           "name": "T. Danny",
           "url": "https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG"
+        },
+        {
+          "name": "Nagy Bogi",
+          "url": "https://open.spotify.com/artist/3VgOKuwKvAYU4aT7atESfM"
         }
       ],
-      "duration_ms": 154153,
-      "name": "MEZ\u00cdTL\u00c1B",
-      "url": "https://open.spotify.com/track/0IkRjOebi6rVS25n3oiwtW"
+      "duration_ms": 234000,
+      "name": "KICSIT JOBB",
+      "url": "https://open.spotify.com/track/7BPEoPZ0K6cD39lT4YJjiQ"
     },
     {
-      "added_at": "2026-05-02 14:08:42",
+      "added_at": "2026-05-03 13:58:55",
       "album": {
         "name": "VINNER DELUXE",
         "url": "https://open.spotify.com/album/3dj07tLV6pPxW4YGzF21Ni"
@@ -745,7 +661,7 @@
       "url": "https://open.spotify.com/track/0x6mKqNfslxlNxlkIroTK8"
     },
     {
-      "added_at": "2026-05-02 14:08:42",
+      "added_at": "2026-05-03 13:58:55",
       "album": {
         "name": "BAD BUNNY",
         "url": "https://open.spotify.com/album/2ya64b5CUXkMBsEDzyM97A"
@@ -761,23 +677,75 @@
       "url": "https://open.spotify.com/track/02kAIFBWwrJulgwGtVqIEQ"
     },
     {
-      "added_at": "2026-05-02 14:08:42",
+      "added_at": "2026-05-03 13:58:55",
       "album": {
-        "name": "So Good",
-        "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
+        "name": "Thriller",
+        "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
       },
       "artists": [
         {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
         }
       ],
-      "duration_ms": 200646,
-      "name": "Lush Life",
-      "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
+      "duration_ms": 258296,
+      "name": "Beat It",
+      "url": "https://open.spotify.com/track/3BovdzfaX4jb5KFQwoPfAw"
     },
     {
-      "added_at": "2026-05-02 14:08:42",
+      "added_at": "2026-05-03 13:58:55",
+      "album": {
+        "name": "A MASZK",
+        "url": "https://open.spotify.com/album/7GAIOSkRnnTyYnoziR7I1y"
+      },
+      "artists": [
+        {
+          "name": "T. Danny",
+          "url": "https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG"
+        }
+      ],
+      "duration_ms": 163137,
+      "name": "A MASZK",
+      "url": "https://open.spotify.com/track/2KRi6SYnrUvgheumrrPWeP"
+    },
+    {
+      "added_at": "2026-05-03 13:58:55",
+      "album": {
+        "name": "A MASZK",
+        "url": "https://open.spotify.com/album/7GAIOSkRnnTyYnoziR7I1y"
+      },
+      "artists": [
+        {
+          "name": "T. Danny",
+          "url": "https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG"
+        }
+      ],
+      "duration_ms": 251612,
+      "name": "KIEZASR\u00c1C",
+      "url": "https://open.spotify.com/track/3N8T5devRYrXhqynGRM52c"
+    },
+    {
+      "added_at": "2026-05-03 13:58:55",
+      "album": {
+        "name": "A MASZK",
+        "url": "https://open.spotify.com/album/7GAIOSkRnnTyYnoziR7I1y"
+      },
+      "artists": [
+        {
+          "name": "T. Danny",
+          "url": "https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG"
+        },
+        {
+          "name": "KKevin",
+          "url": "https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5"
+        }
+      ],
+      "duration_ms": 159041,
+      "name": "HAHO",
+      "url": "https://open.spotify.com/track/6oWv1qbZAaolGNDgLkCKeZ"
+    },
+    {
+      "added_at": "2026-05-03 13:58:55",
       "album": {
         "name": "SAVAGE",
         "url": "https://open.spotify.com/album/1vKMG0YR60YQc6L3pQ6Gaj"
@@ -797,23 +765,7 @@
       "url": "https://open.spotify.com/track/7tbwRhYFlxyRjJZd6taszZ"
     },
     {
-      "added_at": "2026-05-02 14:08:42",
-      "album": {
-        "name": "S\u00d6T\u00c9T",
-        "url": "https://open.spotify.com/album/5OGJpFmfbmdUyWGF3PiA5z"
-      },
-      "artists": [
-        {
-          "name": "Dzs\u00fadl\u00f3",
-          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
-        }
-      ],
-      "duration_ms": 144203,
-      "name": "S\u00d6T\u00c9T",
-      "url": "https://open.spotify.com/track/68SnGU5Oa3SEV7y8w1L9bk"
-    },
-    {
-      "added_at": "2026-05-02 14:08:42",
+      "added_at": "2026-05-03 13:58:55",
       "album": {
         "name": "SAVAGE",
         "url": "https://open.spotify.com/album/1vKMG0YR60YQc6L3pQ6Gaj"
@@ -829,23 +781,71 @@
       "url": "https://open.spotify.com/track/5chK4xxQLLa88aU8A8w8RZ"
     },
     {
-      "added_at": "2026-05-02 14:08:42",
+      "added_at": "2026-05-03 13:58:55",
       "album": {
-        "name": "Thriller",
-        "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
+        "name": "A MASZK",
+        "url": "https://open.spotify.com/album/7GAIOSkRnnTyYnoziR7I1y"
       },
       "artists": [
         {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+          "name": "T. Danny",
+          "url": "https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG"
         }
       ],
-      "duration_ms": 258296,
-      "name": "Beat It",
-      "url": "https://open.spotify.com/track/3BovdzfaX4jb5KFQwoPfAw"
+      "duration_ms": 160000,
+      "name": "\u00c9GJEN",
+      "url": "https://open.spotify.com/track/6e7m8OLYFLODlVHzGZ60yO"
     },
     {
-      "added_at": "2026-05-02 14:08:42",
+      "added_at": "2026-05-03 13:58:55",
+      "album": {
+        "name": "So Good",
+        "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 200646,
+      "name": "Lush Life",
+      "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
+    },
+    {
+      "added_at": "2026-05-03 13:58:55",
+      "album": {
+        "name": "Gyerekek",
+        "url": "https://open.spotify.com/album/0oOywwZrjosDWVG95s9GBE"
+      },
+      "artists": [
+        {
+          "name": "Halott P\u00e9nz",
+          "url": "https://open.spotify.com/artist/0Hir00e5sSBEH8WqOmvi8h"
+        }
+      ],
+      "duration_ms": 156678,
+      "name": "Gyerekek",
+      "url": "https://open.spotify.com/track/08na9p4pgKiHEoxZQwMdB2"
+    },
+    {
+      "added_at": "2026-05-03 13:58:55",
+      "album": {
+        "name": "S\u00d6T\u00c9T",
+        "url": "https://open.spotify.com/album/5OGJpFmfbmdUyWGF3PiA5z"
+      },
+      "artists": [
+        {
+          "name": "Dzs\u00fadl\u00f3",
+          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
+        }
+      ],
+      "duration_ms": 144203,
+      "name": "S\u00d6T\u00c9T",
+      "url": "https://open.spotify.com/track/68SnGU5Oa3SEV7y8w1L9bk"
+    },
+    {
+      "added_at": "2026-05-03 13:58:55",
       "album": {
         "name": "A l\u00f3 t\u00faloldal\u00e1n",
         "url": "https://open.spotify.com/album/0TMeEvXP5MKfH34B5tBga7"
@@ -865,39 +865,7 @@
       "url": "https://open.spotify.com/track/3Mls3f2j9xGRqRRsoKA0Ef"
     },
     {
-      "added_at": "2026-05-02 14:08:42",
-      "album": {
-        "name": "Gyerekek",
-        "url": "https://open.spotify.com/album/0oOywwZrjosDWVG95s9GBE"
-      },
-      "artists": [
-        {
-          "name": "Halott P\u00e9nz",
-          "url": "https://open.spotify.com/artist/0Hir00e5sSBEH8WqOmvi8h"
-        }
-      ],
-      "duration_ms": 156678,
-      "name": "Gyerekek",
-      "url": "https://open.spotify.com/track/08na9p4pgKiHEoxZQwMdB2"
-    },
-    {
-      "added_at": "2026-05-02 14:08:42",
-      "album": {
-        "name": "A MASZK",
-        "url": "https://open.spotify.com/album/7GAIOSkRnnTyYnoziR7I1y"
-      },
-      "artists": [
-        {
-          "name": "T. Danny",
-          "url": "https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG"
-        }
-      ],
-      "duration_ms": 177600,
-      "name": "HALHATATLAN",
-      "url": "https://open.spotify.com/track/6Xkk7pTfw2wyJurJ23FrAT"
-    },
-    {
-      "added_at": "2026-05-02 14:08:42",
+      "added_at": "2026-05-03 13:58:55",
       "album": {
         "name": "INTERREGNUM",
         "url": "https://open.spotify.com/album/2RN4jUusVHvFiiEg4EBHGD"
@@ -911,6 +879,42 @@
       "duration_ms": 188642,
       "name": "PANASONIC",
       "url": "https://open.spotify.com/track/7gdHcrgGNeQSXD3cwOvMRR"
+    },
+    {
+      "added_at": "2026-05-03 13:58:55",
+      "album": {
+        "name": "MOKKA",
+        "url": "https://open.spotify.com/album/4iQWeN0DOgVm1npN2nKkpk"
+      },
+      "artists": [
+        {
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
+        },
+        {
+          "name": "Young Fly",
+          "url": "https://open.spotify.com/artist/0zmW213tzA7NFv6ESRso7N"
+        }
+      ],
+      "duration_ms": 163375,
+      "name": "MOKKA",
+      "url": "https://open.spotify.com/track/3u582Ft7ws5CvUxCsBHxwT"
+    },
+    {
+      "added_at": "2026-05-03 13:58:55",
+      "album": {
+        "name": "Csurran, cseppen",
+        "url": "https://open.spotify.com/album/4qfxHp5vOfiCHKXwtEcwcM"
+      },
+      "artists": [
+        {
+          "name": "Majka",
+          "url": "https://open.spotify.com/artist/0D8reSG6hzc5KEQWZPYGFB"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "Csurran, cseppen",
+      "url": "https://open.spotify.com/track/17WGfCmpgardtW5rRbaE7T"
     }
   ],
   "unique_name": "Top 50 - Hungary",

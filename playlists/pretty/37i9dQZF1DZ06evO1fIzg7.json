@@ -1,12 +1,12 @@
 {
   "description": "This is Sophie Ellis-Bextor. The essential tracks, all in one playlist.",
-  "num_followers": 20801,
+  "num_followers": 20804,
   "original_name": "This Is Sophie Ellis-Bextor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afPtAAAAAADzfXXH6ZvXftx3upG8eqTf",
+  "snapshot_id": "afU+gAAAAADdNlpehEm5v1PMxunHyJV0",
   "tracks": [
     {
       "added_at": null,
@@ -479,8 +479,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Taste",
-        "url": "https://open.spotify.com/album/1hpoTpHmAE3ERYXjrC84jA"
+        "name": "Songs from the Kitchen Disco: Sophie Ellis-Bextor's Greatest Hits",
+        "url": "https://open.spotify.com/album/1Ow8exCwrgZjMEyKo53sKV"
       },
       "artists": [
         {
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
         }
       ],
-      "duration_ms": 170393,
-      "name": "Taste",
-      "url": "https://open.spotify.com/track/5pe8674S8FnKW8tNpHFjAZ"
+      "duration_ms": 302106,
+      "name": "True Faith - BBC Session",
+      "url": "https://open.spotify.com/track/5smOkIgfWYhfZmAoDM71Qk"
     },
     {
       "added_at": null,
@@ -511,8 +511,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Songs from the Kitchen Disco: Sophie Ellis-Bextor's Greatest Hits",
-        "url": "https://open.spotify.com/album/1Ow8exCwrgZjMEyKo53sKV"
+        "name": "Taste",
+        "url": "https://open.spotify.com/album/1hpoTpHmAE3ERYXjrC84jA"
       },
       "artists": [
         {
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
         }
       ],
-      "duration_ms": 302106,
-      "name": "True Faith - BBC Session",
-      "url": "https://open.spotify.com/track/5smOkIgfWYhfZmAoDM71Qk"
+      "duration_ms": 170393,
+      "name": "Taste",
+      "url": "https://open.spotify.com/track/5pe8674S8FnKW8tNpHFjAZ"
     },
     {
       "added_at": null,
@@ -667,6 +667,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Read My Lips (Deluxe Version)",
+        "url": "https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "duration_ms": 203520,
+      "name": "Lover",
+      "url": "https://open.spotify.com/track/4pritr0818VLaaJTvTCjfj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Crown Jewels - Ten Crowns (DELUXE)",
         "url": "https://open.spotify.com/album/424ucCJYFDFZxz5icFVk2R"
       },
@@ -687,8 +703,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Read My Lips (Deluxe Version)",
-        "url": "https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG"
+        "name": "Wanderlust",
+        "url": "https://open.spotify.com/album/1QRg5Llo9R1M6eslFyH4gO"
       },
       "artists": [
         {
@@ -696,9 +712,9 @@
           "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
         }
       ],
-      "duration_ms": 203520,
-      "name": "Lover",
-      "url": "https://open.spotify.com/track/4pritr0818VLaaJTvTCjfj"
+      "duration_ms": 240040,
+      "name": "Runaway Daydreamer",
+      "url": "https://open.spotify.com/track/0hGlojG3S2TwZAQQbOA990"
     },
     {
       "added_at": null,
@@ -715,22 +731,6 @@
       "duration_ms": 253293,
       "name": "Breaking the Circle",
       "url": "https://open.spotify.com/track/4Y0JKqL9Sa7tFHEj8BHvrV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wanderlust",
-        "url": "https://open.spotify.com/album/1QRg5Llo9R1M6eslFyH4gO"
-      },
-      "artists": [
-        {
-          "name": "Sophie Ellis-Bextor",
-          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
-        }
-      ],
-      "duration_ms": 240040,
-      "name": "Runaway Daydreamer",
-      "url": "https://open.spotify.com/track/0hGlojG3S2TwZAQQbOA990"
     },
     {
       "added_at": null,

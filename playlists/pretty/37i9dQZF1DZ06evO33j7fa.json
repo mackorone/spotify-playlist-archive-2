@@ -1,12 +1,12 @@
 {
   "description": "This is Nick Drake. The essential tracks, all in one playlist.",
-  "num_followers": 61409,
+  "num_followers": 61427,
   "original_name": "This Is Nick Drake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afPtAAAAAAB1YM8/SONWXpoA0Jh6DrCw",
+  "snapshot_id": "afU+gAAAAAAkc2x5JQQHvGyXvrBLEopy",
   "tracks": [
     {
       "added_at": null,
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
         }
       ],
-      "duration_ms": 137240,
-      "name": "Mayfair - 1st Sound Techniques Session, March / 1968",
-      "url": "https://open.spotify.com/track/5t4Qxd68SqjLVwZKnAPoov"
+      "duration_ms": 265386,
+      "name": "Blossom - Cambridge, Lent Term / 1968",
+      "url": "https://open.spotify.com/track/3TGcCbS1qXWzdKPt0yUeOM"
     },
     {
       "added_at": null,
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
         }
       ],
-      "duration_ms": 265386,
-      "name": "Blossom - Cambridge, Lent Term / 1968",
-      "url": "https://open.spotify.com/track/3TGcCbS1qXWzdKPt0yUeOM"
+      "duration_ms": 137240,
+      "name": "Mayfair - 1st Sound Techniques Session, March / 1968",
+      "url": "https://open.spotify.com/track/5t4Qxd68SqjLVwZKnAPoov"
     },
     {
       "added_at": null,

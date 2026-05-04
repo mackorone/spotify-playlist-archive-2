@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0wUpCE.md) - [plain]
 
 > This is Intocable\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 566,726 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 566,805 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0wUpCE.md) - [plain]
 | 2 | [¿Y Todo Para Qué?](https://open.spotify.com/track/53IpyJOqUIcCzCUtMjP9oy) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Llévame Contigo](https://open.spotify.com/album/66rxjBaeraSB1qqQcYQSel) | 3:10 |
 | 3 | [Fuerte No Soy](https://open.spotify.com/track/7A07Yu1dRND3RKDzbhKrDs) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Contigo](https://open.spotify.com/album/2UlbB3uHQNJlaYYBB2ljm0) | 4:27 |
 | 4 | [Enséñame A Olvidarte](https://open.spotify.com/track/2Ku6P1U8QkOQcLEXTRxygX) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Es Para Ti](https://open.spotify.com/album/1kV7jDTxmrdblp3QD0ypND) | 3:22 |
-| 5 | [Perdedor](https://open.spotify.com/track/1VTmlCO0jODdzh0m9i1Q0d) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Intocable](https://open.spotify.com/album/5Gr3x3xc7fYz6SALeFK7BH) | 4:20 |
-| 6 | [Alguien Te Va A Hacer Llorar](https://open.spotify.com/track/1OYoXMNCUYlpDyMONw2sNc) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [X](https://open.spotify.com/album/66JS64FD7dhGEKIHo2Uizr) | 4:09 |
+| 5 | [Alguien Te Va A Hacer Llorar](https://open.spotify.com/track/1OYoXMNCUYlpDyMONw2sNc) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [X](https://open.spotify.com/album/66JS64FD7dhGEKIHo2Uizr) | 4:09 |
+| 6 | [Perdedor](https://open.spotify.com/track/1VTmlCO0jODdzh0m9i1Q0d) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Intocable](https://open.spotify.com/album/5Gr3x3xc7fYz6SALeFK7BH) | 4:20 |
 | 7 | [Un Desengaño](https://open.spotify.com/track/1ZAZ1mKRV35Hosm3KPWNzK) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Contigo](https://open.spotify.com/album/2UlbB3uHQNJlaYYBB2ljm0) | 3:34 |
 | 8 | [Eres Mi Droga](https://open.spotify.com/track/3t4BZRyfrZGgICZGyNewyi) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [IV](https://open.spotify.com/album/43UFBkcvSy10IIqsGIJzUw) | 3:27 |
 | 9 | [Estás Que Te Pelas](https://open.spotify.com/track/1rnjkfvu6h8aH1sYcXkjID) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Es Para Ti](https://open.spotify.com/album/1kV7jDTxmrdblp3QD0ypND) | 3:52 |
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0wUpCE.md) - [plain]
 | 25 | [Llévame Contigo](https://open.spotify.com/track/4ZjSZV7N9WKFKgUcah2UQ5) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Llévame Contigo](https://open.spotify.com/album/66rxjBaeraSB1qqQcYQSel) | 2:29 |
 | 26 | [El Poder De Tus Manos](https://open.spotify.com/track/4ZhvLAPvtgJkk6RBBqJCUq) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Sueños](https://open.spotify.com/album/6RHhs75iZiSjKMSemcyh24) | 3:02 |
 | 27 | [¿A Dónde Estabas?](https://open.spotify.com/track/0Lq5wNcegxCGz7glMbUBNn) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Nuestro Destino Estaba Escrito](https://open.spotify.com/album/5XlC9twRLfKfmO0hMJAsmB) | 3:35 |
-| 28 | [Culpable Fui \(Culpable Soy\)](https://open.spotify.com/track/22XeCzFTEZvb2ztvrg8hDY) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [En Peligro De Extinción](https://open.spotify.com/album/0nKSgzMBxxghnjJATsPm2Z) | 3:34 |
+| 28 | [Es Mejor Decir Adiós](https://open.spotify.com/track/0YwdU9eCFz14gpy93jvrRV) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [X](https://open.spotify.com/album/66JS64FD7dhGEKIHo2Uizr) | 4:20 |
 | 29 | [Por Un Beso](https://open.spotify.com/track/7b6HqGIszgwGinMRtY4d1U) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Llévame Contigo](https://open.spotify.com/album/66rxjBaeraSB1qqQcYQSel) | 3:29 |
-| 30 | [Es Mejor Decir Adiós](https://open.spotify.com/track/0YwdU9eCFz14gpy93jvrRV) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [X](https://open.spotify.com/album/66JS64FD7dhGEKIHo2Uizr) | 4:20 |
+| 30 | [Culpable Fui \(Culpable Soy\)](https://open.spotify.com/track/22XeCzFTEZvb2ztvrg8hDY) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [En Peligro De Extinción](https://open.spotify.com/album/0nKSgzMBxxghnjJATsPm2Z) | 3:34 |
 | 31 | [Con Mis Alas Rotas](https://open.spotify.com/track/0oLxCakblNFiYlAaZjLwU1) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Es Para Ti](https://open.spotify.com/album/1kV7jDTxmrdblp3QD0ypND) | 3:36 |
 | 32 | [Cajita De Cartón \- bonus track](https://open.spotify.com/track/16qXGrutTAIaZqMTTwR8XR) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [XX Aniversario \(En Vivo\)](https://open.spotify.com/album/6HWYb1m1FiMVQpvTRLi5Vr) | 3:03 |
 | 33 | [Bastó](https://open.spotify.com/track/2fDA3Ws2IgRRvJL3N3cg21) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Crossroads: Cruce De Caminos](https://open.spotify.com/album/7EFhuR6QqqpZdllkobOCGf) | 3:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0wUpCE.md) - [plain]
 | 49 | [Como Si Fuera Una Canción](https://open.spotify.com/track/2qnq3tptXaOmkztFAjd636) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Modus Operandi](https://open.spotify.com/album/7zzc54afmjSxp7ozFkD8IJ) | 3:46 |
 | 50 | [Te Dejo Libre](https://open.spotify.com/track/05Geg60SBDWVAjicyOumjx) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [La Vida \(Deluxe\)](https://open.spotify.com/album/2mCF7tagY5QWepheBHM236) | 3:04 |
 
-Snapshot ID: `afPtAAAAAADELsYbasrWTg0imhvVDmlg`
+Snapshot ID: `afU+gAAAAAA2BfgFQpmvBTGM1M/sWuuH`

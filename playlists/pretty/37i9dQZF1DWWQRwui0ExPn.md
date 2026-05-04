@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRwui0ExPn.md) - [plain]
 
 > chill beats, lofi vibes, new tracks every week...
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,496,001 likes - 199 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,496,074 likes - 199 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -208,4 +208,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRwui0ExPn.md) - [plain]
 | 198 | [Locked Out](https://open.spotify.com/track/1jSUJRDOX8DZkT8mOKQMC9) | [Nova Night](https://open.spotify.com/artist/5BVLrCpEMxXA6r5woi5f53) | [Locked Out](https://open.spotify.com/album/3v88JGwWbVuLtR2NIXFU1f) | 1:52 |
 | 199 | [toffee creme](https://open.spotify.com/track/66UVUCBg1weSzPWKvAPo1j) | [lilibu](https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI) | [toffee creme](https://open.spotify.com/album/0uYN0O6Tj5TH2Tot2EwlFa) | 2:07 |
 
-Snapshot ID: `AAAAAHUGI9GNsCavwAn+IQrj016VD91i`
+Snapshot ID: `AAAAADmnw8lrB1ssOeXgu5IKxtOAF9Qr`

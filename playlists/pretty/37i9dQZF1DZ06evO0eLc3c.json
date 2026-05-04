@@ -1,12 +1,12 @@
 {
   "description": "This is Patti Smith. The essential tracks, all in one playlist.",
-  "num_followers": 54282,
+  "num_followers": 54293,
   "original_name": "This Is Patti Smith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afPtAAAAAACq0oKGFxrCaePKThyYitOa",
+  "snapshot_id": "afU+gAAAAAD1da34rWEKiWSlkKOPHPG9",
   "tracks": [
     {
       "added_at": null,
@@ -475,8 +475,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wave",
-        "url": "https://open.spotify.com/album/5Azni9In90zMkWAFgWh6RE"
+        "name": "Gone Again",
+        "url": "https://open.spotify.com/album/70BHwvG9ikXsffsWfHrWzi"
       },
       "artists": [
         {
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 72226,
-      "name": "Hymn",
-      "url": "https://open.spotify.com/track/2kUbcJVJCJXQrhlCMdbAZS"
+      "duration_ms": 251120,
+      "name": "Summer Cannibals",
+      "url": "https://open.spotify.com/track/4DYuuaIJ05vMp1FaISwkyn"
     },
     {
       "added_at": null,
@@ -507,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gone Again",
-        "url": "https://open.spotify.com/album/70BHwvG9ikXsffsWfHrWzi"
+        "name": "Wave",
+        "url": "https://open.spotify.com/album/5Azni9In90zMkWAFgWh6RE"
       },
       "artists": [
         {
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 251120,
-      "name": "Summer Cannibals",
-      "url": "https://open.spotify.com/track/4DYuuaIJ05vMp1FaISwkyn"
+      "duration_ms": 72226,
+      "name": "Hymn",
+      "url": "https://open.spotify.com/track/2kUbcJVJCJXQrhlCMdbAZS"
     },
     {
       "added_at": null,
@@ -539,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wave",
-        "url": "https://open.spotify.com/album/5Azni9In90zMkWAFgWh6RE"
+        "name": "Hey Joe / Piss Factory",
+        "url": "https://open.spotify.com/album/6fPPFPRXxoXNCc3LaotmQM"
       },
       "artists": [
         {
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 304840,
-      "name": "Revenge",
-      "url": "https://open.spotify.com/track/00QrHgrVlYOsleK3Vb62OJ"
+      "duration_ms": 281026,
+      "name": "Piss Factory",
+      "url": "https://open.spotify.com/track/5KLKSxNQQqg8hOaHVqEwuk"
     },
     {
       "added_at": null,
@@ -571,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hey Joe / Piss Factory",
-        "url": "https://open.spotify.com/album/6fPPFPRXxoXNCc3LaotmQM"
+        "name": "Wave",
+        "url": "https://open.spotify.com/album/5Azni9In90zMkWAFgWh6RE"
       },
       "artists": [
         {
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 281026,
-      "name": "Piss Factory",
-      "url": "https://open.spotify.com/track/5KLKSxNQQqg8hOaHVqEwuk"
+      "duration_ms": 304840,
+      "name": "Revenge",
+      "url": "https://open.spotify.com/track/00QrHgrVlYOsleK3Vb62OJ"
     },
     {
       "added_at": null,

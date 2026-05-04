@@ -4,7 +4,7 @@
 
 > This is Westlife\. The essential tracks, all in one playlist.
 
-51 songs - 3 hr 15 min
+52 songs - 3 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,5 +59,6 @@
 | [Written in the Stars](https://open.spotify.com/track/6cGfYPEmADL7vquaizoCPQ) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Greatest Hits](https://open.spotify.com/album/6gtDABGSqEp6waUHbtVbYT) | 4:10 | 2025-10-28 |  |
 | [You Light Up My Life](https://open.spotify.com/track/05V504yIG0sUEKvUcA89GC) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY), [Quiz & Larossi](https://open.spotify.com/artist/57yS632mgjWmcc2bZE3HRc) | [The Love Album](https://open.spotify.com/album/714ejRNfL8eCRvgIKeOMqj) | 3:27 | 2025-10-28 | 2025-11-23 |
 | [You Raise Me Up](https://open.spotify.com/track/5XQavlXrNHBBvlN4IJqhqW) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Face To Face](https://open.spotify.com/album/07sBktUc2CbnzPd8ecePWk) | 4:01 | 2025-10-28 |  |
+| [Your Love Amazes Me](https://open.spotify.com/track/0bBOzWvJ2CEladtqVDnfWI) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Your Love Amazes Me](https://open.spotify.com/album/2G4KocgpFjTfcVxGAlQUTm) | 2:51 | 2026-05-04 |  |
 
 \*This playlist was first scraped on 2025-10-28. Prior content cannot be recovered.

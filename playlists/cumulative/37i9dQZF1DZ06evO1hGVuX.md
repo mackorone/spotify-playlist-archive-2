@@ -4,7 +4,7 @@
 
 > This is Ana Roxanne\. The essential tracks, all in one playlist.
 
-31 songs - 2 hr 22 min
+32 songs - 2 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [In a Small Valley](https://open.spotify.com/track/5ZLqOeBBYZFIl6xjKlPKLg) | [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [\~\~\~](https://open.spotify.com/album/2oPJNXmIuWrJq9ozINmwFW) | 5:24 | 2026-03-12 |  |
 | [It's a Rainy Day on the Cosmic Shore](https://open.spotify.com/track/2fvphQzLUCR89aLAwTyDuL) | [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [\~\~\~](https://open.spotify.com/album/2oPJNXmIuWrJq9ozINmwFW) | 5:20 | 2026-03-12 |  |
 | [Keepsake](https://open.spotify.com/track/4V179yjVt1dZNemsd6487f) | [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [Keepsake](https://open.spotify.com/album/2GMrnxW0ZcLdTZyxaBKaP5) | 4:38 | 2026-03-12 |  |
-| [Natural Wonder Beauty Concept](https://open.spotify.com/track/1womnt3S3SEd8vl43UwwlH) | [Natural Wonder Beauty Concept](https://open.spotify.com/artist/5fuCjaj3t1OkkrMH7EjuLu), [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl), [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [Natural Wonder Beauty Concept](https://open.spotify.com/album/0W8AIAf0mUGX4VZ0jH31FX) | 4:24 | 2026-04-27 |  |
+| [Natural Wonder Beauty Concept](https://open.spotify.com/track/1womnt3S3SEd8vl43UwwlH) | [Natural Wonder Beauty Concept](https://open.spotify.com/artist/5fuCjaj3t1OkkrMH7EjuLu), [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl), [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [Natural Wonder Beauty Concept](https://open.spotify.com/album/0W8AIAf0mUGX4VZ0jH31FX) | 4:24 | 2026-04-27 | 2026-05-04 |
 | [Nocturne](https://open.spotify.com/track/1qNiEBMZVAuygzLYYLG7Rv) | [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [\~\~\~](https://open.spotify.com/album/2oPJNXmIuWrJq9ozINmwFW) | 5:36 | 2026-03-12 |  |
 | [One Shall Sleep](https://open.spotify.com/track/1XhROhffxz05Zecw04Deov) | [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [Poem 1](https://open.spotify.com/album/4eLf3APm1Cb4vqmJUnDLpr) | 4:21 | 2026-05-03 |  |
 | [Slowness](https://open.spotify.com/track/7qqxrcreNiB1sL91OrvVol) | [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [\~\~\~](https://open.spotify.com/album/2oPJNXmIuWrJq9ozINmwFW) | 4:20 | 2026-03-12 |  |
@@ -38,6 +38,7 @@
 | [Venus](https://open.spotify.com/track/4HAF5goUXFs9DQF0QdIMEQ) | [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [Because of a Flower](https://open.spotify.com/album/4JShepplFefZ43GXoE4bRd) | 7:57 | 2026-03-12 |  |
 | [Wicked Game](https://open.spotify.com/track/4nOhr4lOjFc5vZhAVTIBa7) | [Natural Wonder Beauty Concept](https://open.spotify.com/artist/5fuCjaj3t1OkkrMH7EjuLu), [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl), [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [Wicked Game](https://open.spotify.com/album/4MJUtAW4841s91OHlSbUsu) | 4:22 | 2026-03-12 |  |
 | [Wishful \(draft\)](https://open.spotify.com/track/6Fcv3gmhC5rQctkZ3FlbDV) | [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [Poem 1](https://open.spotify.com/album/4eLf3APm1Cb4vqmJUnDLpr) | 3:09 | 2026-05-03 |  |
+| [World Freehand Circle Drawing](https://open.spotify.com/track/3NtOY5iEWTgTwt1zBTrFPq) | [Natural Wonder Beauty Concept](https://open.spotify.com/artist/5fuCjaj3t1OkkrMH7EjuLu), [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl), [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [Natural Wonder Beauty Concept](https://open.spotify.com/album/0W8AIAf0mUGX4VZ0jH31FX) | 5:04 | 2026-05-04 |  |
 | [X](https://open.spotify.com/track/6CBsIBdi6MWzDkif2RjK45) | [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [Poem 1](https://open.spotify.com/album/4eLf3APm1Cb4vqmJUnDLpr) | 3:22 | 2026-05-03 |  |
 
 \*This playlist was first scraped on 2026-03-12. Prior content cannot be recovered.

@@ -1518,7 +1518,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-04",
       "duration_ms": 376731,
       "name": "99 Ovelhas - Ao Vivo",
       "url": "https://open.spotify.com/track/74vQyxa6Q7Pmxps3fY0u2I"
@@ -29424,7 +29424,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-04",
       "duration_ms": 189720,
       "name": "Eu t\u00f4 tentando o meu melhor",
       "url": "https://open.spotify.com/track/4mW88OMpiyuPesGLUqHmSV"
@@ -30548,7 +30548,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-01",
+      "date_removed": null,
       "duration_ms": 217845,
       "name": "Famoso \u00cdm\u00e3 | O poderoso chat\u00e3o",
       "url": "https://open.spotify.com/track/22bl3LPkCHQSBhCAdw8Jwk"
@@ -38061,6 +38061,24 @@
     },
     {
       "album": {
+        "name": "Thriller",
+        "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "date_added": "2026-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245837,
+      "name": "Human Nature",
+      "url": "https://open.spotify.com/track/4cgjA7B4fJBHyB9Ya2bu0t"
+    },
+    {
+      "album": {
         "name": "Confessions on a Dance Floor",
         "url": "https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr"
       },
@@ -41474,6 +41492,24 @@
       "duration_ms": 197697,
       "name": "Just H-eaven",
       "url": "https://open.spotify.com/track/2xO8pPZT6R6XAsRAxaqB8q"
+    },
+    {
+      "album": {
+        "name": "Just The Way You Are",
+        "url": "https://open.spotify.com/album/1fN8LTM10sYFZl5BCzIPlj"
+      },
+      "artists": [
+        {
+          "name": "Milky",
+          "url": "https://open.spotify.com/artist/5AvCP5qzxTmk4cQmh0SUEw"
+        }
+      ],
+      "date_added": "2026-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210070,
+      "name": "Just The Way You Are",
+      "url": "https://open.spotify.com/track/7K3Lc3TfSR14aTOjIH7TUj"
     },
     {
       "album": {
@@ -55504,7 +55540,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-04",
       "duration_ms": 192339,
       "name": "M\u00caLO DE POUCAS IDEIAS/ TOQUE DEZ AO VIVO",
       "url": "https://open.spotify.com/track/7JODccjjSaocrFMYPChZ7t"

@@ -1,12 +1,12 @@
 {
   "description": "This is Damares. The essential tracks, all in one playlist.",
-  "num_followers": 31322,
+  "num_followers": 31325,
   "original_name": "This Is Damares",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afPtAAAAAAD/l+wb//3gfFdt7q0ITdHK",
+  "snapshot_id": "afU+gAAAAADzpAVURJRoaLxDvTcRutsJ",
   "tracks": [
     {
       "added_at": null,
@@ -419,18 +419,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Maior Trof\u00e9u",
-        "url": "https://open.spotify.com/album/4aUmdgVlZoV0lvPIHrqslu"
+        "name": "Apocalipse",
+        "url": "https://open.spotify.com/album/29GIrFBabZOh98liIGRZNI"
       },
       "artists": [
         {
           "name": "Damares",
           "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        },
+        {
+          "name": "Louvor Eterno",
+          "url": "https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw"
         }
       ],
-      "duration_ms": 260013,
-      "name": "Sou Teu Deus",
-      "url": "https://open.spotify.com/track/2Uhx9tWSDxNxi5SXTRnSD2"
+      "duration_ms": 286400,
+      "name": "Escondido Nele",
+      "url": "https://open.spotify.com/track/6ETboA32KhqdiuaQFym7jb"
     },
     {
       "added_at": null,
@@ -451,22 +455,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Apocalipse",
-        "url": "https://open.spotify.com/album/29GIrFBabZOh98liIGRZNI"
+        "name": "O Maior Trof\u00e9u",
+        "url": "https://open.spotify.com/album/4aUmdgVlZoV0lvPIHrqslu"
       },
       "artists": [
         {
           "name": "Damares",
           "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
-        },
-        {
-          "name": "Louvor Eterno",
-          "url": "https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw"
         }
       ],
-      "duration_ms": 286400,
-      "name": "Escondido Nele",
-      "url": "https://open.spotify.com/track/6ETboA32KhqdiuaQFym7jb"
+      "duration_ms": 260013,
+      "name": "Sou Teu Deus",
+      "url": "https://open.spotify.com/track/2Uhx9tWSDxNxi5SXTRnSD2"
     },
     {
       "added_at": null,
@@ -515,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Maior Trof\u00e9u",
-        "url": "https://open.spotify.com/album/4aUmdgVlZoV0lvPIHrqslu"
-      },
-      "artists": [
-        {
-          "name": "Damares",
-          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
-        }
-      ],
-      "duration_ms": 268853,
-      "name": "Voc\u00ea Mais Deus",
-      "url": "https://open.spotify.com/track/1QspfOPnutOLAV6y7nE1gK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Apocalipse",
         "url": "https://open.spotify.com/album/29GIrFBabZOh98liIGRZNI"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 235853,
       "name": "N\u00e3o Toque no Ungido",
       "url": "https://open.spotify.com/track/7fNATW4jATKU0yhAmBJBOq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "O Maior Trof\u00e9u",
+        "url": "https://open.spotify.com/album/4aUmdgVlZoV0lvPIHrqslu"
+      },
+      "artists": [
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        }
+      ],
+      "duration_ms": 268853,
+      "name": "Voc\u00ea Mais Deus",
+      "url": "https://open.spotify.com/track/1QspfOPnutOLAV6y7nE1gK"
     },
     {
       "added_at": null,

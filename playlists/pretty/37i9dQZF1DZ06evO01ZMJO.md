@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO01ZMJO.md) - [plain]
 
 > This is Outsiders\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,429 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,449 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO01ZMJO.md) - [plain]
 | 49 | [Rebls 4 Life](https://open.spotify.com/track/632MogW61VKRFtmvYuY8jV) | [Bass Chaserz](https://open.spotify.com/artist/5SxjKJ2HIg3dVQ427HYVHS), [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf) | [Rebls 4 Life](https://open.spotify.com/album/7y6SPprhgZXGYlzADaw8AP) | 3:31 |
 | 50 | [Hardcore Junky \(One With The Bass\)](https://open.spotify.com/track/71zqC71ELEnE5Byl25FzTj) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [DJ E\-Maxx](https://open.spotify.com/artist/4LrX3f6sIkAGgT15T2QT1G) | [Hardcore Junky \(One With The Bass\)](https://open.spotify.com/album/06U5ViOnS9ZeVT4tZQFq8q) | 2:26 |
 
-Snapshot ID: `afPtAAAAAAC6VEmAs6V0HPxn192RWzwv`
+Snapshot ID: `afU+gAAAAABIYI4M3/kU9Sb4Ov7THz6d`

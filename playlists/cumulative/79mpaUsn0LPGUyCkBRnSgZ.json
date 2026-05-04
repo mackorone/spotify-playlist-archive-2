@@ -10507,6 +10507,24 @@
     },
     {
       "album": {
+        "name": "Oar",
+        "url": "https://open.spotify.com/album/7sIFcFS96iFIdzLuETglbq"
+      },
+      "artists": [
+        {
+          "name": "Alexander 'Skip' Spence",
+          "url": "https://open.spotify.com/artist/25e8CxfStX7gVfGIQL2qMd"
+        }
+      ],
+      "date_added": "2026-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221626,
+      "name": "Little Hands",
+      "url": "https://open.spotify.com/track/1ibcyT87MJO8HGEq4YOeXk"
+    },
+    {
+      "album": {
         "name": "Shmap'n Shmazz (2025 Remaster)",
         "url": "https://open.spotify.com/album/59m7KmDZeSuseIc4y60HMU"
       },

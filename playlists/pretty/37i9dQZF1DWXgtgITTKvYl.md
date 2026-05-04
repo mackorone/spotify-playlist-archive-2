@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtgITTKvYl.md) - [plain]
 
 ### [Prog Rock](https://open.spotify.com/playlist/37i9dQZF1DWXgtgITTKvYl)
 
-> A collection of best Prog Rock tracks\. Cover: Dream Theater
+> A collection of the best recent Prog Rock tracks\. Cover: Weather Systems
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,824 likes - 75 songs - 8 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,854 likes - 75 songs - 8 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtgITTKvYl.md) - [plain]
 | 74 | [Everybody Dies](https://open.spotify.com/track/1tBxVkC0ovXVQh3G8MPreJ) | [Ayreon](https://open.spotify.com/artist/2RSApl0SXcVT8Yiy4UaPSt) | [Everybody Dies](https://open.spotify.com/album/5tHUhGonEjtlekmL1R6lvS) | 5:22 |
 | 75 | [Mycelia](https://open.spotify.com/track/3iGdGMlYle9jOxCITkef6y) | [Kolm](https://open.spotify.com/artist/2il2sBjwdjQzy5vQdNO8j4) | [Yūgen](https://open.spotify.com/album/5JaA2go7NkONW5BBCCKeEd) | 8:49 |
 
-Snapshot ID: `AAAAAP86EF2p46jC0OXGFEj5TvZrhYKc`
+Snapshot ID: `AAAAAJvWvXxfZf5fknYJ9OUf8wbuv9Hs`

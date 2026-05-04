@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: kouth
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,138 likes - 74 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,129 likes - 74 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -392,7 +392,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-11",
+      "date_removed": null,
       "duration_ms": 194744,
       "name": "Anthem",
       "url": "https://open.spotify.com/track/2WaxEavbIServ6UOMJijd2"
@@ -484,7 +484,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-04",
       "duration_ms": 360400,
       "name": "As If We Never Said Goodbye",
       "url": "https://open.spotify.com/track/2cwENimYctSV8AD1vxzlHF"
@@ -3242,7 +3242,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-04",
       "duration_ms": 239373,
       "name": "On My Own",
       "url": "https://open.spotify.com/track/0EcA4BQjy2bp7zUEBVVhBE"
@@ -4858,6 +4858,28 @@
       "duration_ms": 237000,
       "name": "Wheels of a Dream",
       "url": "https://open.spotify.com/track/30QU7LJjegTlytck8SrljA"
+    },
+    {
+      "album": {
+        "name": "Ragtime (2025 Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/06SGsY1vw8D5POgDqOaDad"
+      },
+      "artists": [
+        {
+          "name": "Joshua Henry",
+          "url": "https://open.spotify.com/artist/2WHbNs4WT5ZN7rbjDqbyEE"
+        },
+        {
+          "name": "Nichelle Lewis",
+          "url": "https://open.spotify.com/artist/7frhHBMTNfvx3TUkWpUwi7"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234313,
+      "name": "Wheels of a Dream",
+      "url": "https://open.spotify.com/track/62X1kCooEiwkCaptwW98w5"
     },
     {
       "album": {

@@ -19022,7 +19022,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-04",
       "duration_ms": 172025,
       "name": "FOKKIT",
       "url": "https://open.spotify.com/track/47EtQZ3hh5FTwMapLxtDLm"
@@ -25338,7 +25338,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-04",
       "duration_ms": 162668,
       "name": "HRINGDU STRAX",
       "url": "https://open.spotify.com/track/4fXgjqK302jlhCv2IMYiDi"
@@ -35586,7 +35586,7 @@
       ],
       "date_added": "2025-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-04",
       "duration_ms": 144775,
       "name": "Miklu betri einn",
       "url": "https://open.spotify.com/track/5DFkMQKi0vlTWoILzaFpc4"
@@ -36746,6 +36746,36 @@
       "duration_ms": 157497,
       "name": "Mount Everest",
       "url": "https://open.spotify.com/track/1ZdhOMWyFR8Iv9eylMGYg2"
+    },
+    {
+      "album": {
+        "name": "Move Faster",
+        "url": "https://open.spotify.com/album/0ECVknAmNmplhHkefbe81I"
+      },
+      "artists": [
+        {
+          "name": "Smatt kinzy",
+          "url": "https://open.spotify.com/artist/1ANMybStZEhkOfC4HFbWv1"
+        },
+        {
+          "name": "Citykingrsa",
+          "url": "https://open.spotify.com/artist/2Mudgi66HA90FPyhrTFLNr"
+        },
+        {
+          "name": "Jay Music",
+          "url": "https://open.spotify.com/artist/7AE6YSdoxlOzzW4kaYcNdi"
+        },
+        {
+          "name": "Nevrr49",
+          "url": "https://open.spotify.com/artist/36h0zByMWDwoORD0klYp3S"
+        }
+      ],
+      "date_added": "2026-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356814,
+      "name": "Move Faster",
+      "url": "https://open.spotify.com/track/2P9bsl1PU6WpmtAsx1H1Z3"
     },
     {
       "album": {
@@ -39920,7 +39950,7 @@
       ],
       "date_added": "2026-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-04",
       "duration_ms": 174106,
       "name": "On a Low",
       "url": "https://open.spotify.com/track/5UT7W5unTVu5K96r097jtt"
@@ -45692,7 +45722,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-08",
+      "date_removed": null,
       "duration_ms": 297865,
       "name": "R\u00f3me\u00f3 og J\u00fal\u00eda",
       "url": "https://open.spotify.com/track/53UXY91LLMuISer0X8RsWq"
@@ -56908,7 +56938,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-30",
+      "date_removed": null,
       "duration_ms": 165276,
       "name": "TypeSh!t",
       "url": "https://open.spotify.com/track/6ZbGH5TkMr6b0TqHrKwOTd"
@@ -58054,6 +58084,32 @@
       "duration_ms": 82091,
       "name": "UPPSELT",
       "url": "https://open.spotify.com/track/00uihLH2NctLwI9T9sLdT6"
+    },
+    {
+      "album": {
+        "name": "URBAN RYTHM",
+        "url": "https://open.spotify.com/album/5EG6Qtn0yGzk35VicPI0I6"
+      },
+      "artists": [
+        {
+          "name": "The Urban Dj",
+          "url": "https://open.spotify.com/artist/7dywF8Z24HS1JAPoifd24E"
+        },
+        {
+          "name": "ZIZHY",
+          "url": "https://open.spotify.com/artist/1BBlR14YF9WEM0sa4KZChU"
+        },
+        {
+          "name": "SWAGGO MAYANA",
+          "url": "https://open.spotify.com/artist/1PnaXpbdJJDTdAaq56uxkJ"
+        }
+      ],
+      "date_added": "2026-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "URBAN RYTHM",
+      "url": "https://open.spotify.com/track/2qB0gbzsKeUiyzH2OowU7n"
     },
     {
       "album": {

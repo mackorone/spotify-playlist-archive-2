@@ -1,12 +1,12 @@
 {
   "description": "This is Eros Ramazzotti. The essential tracks, all in one playlist.",
-  "num_followers": 251289,
+  "num_followers": 251319,
   "original_name": "This Is Eros Ramazzotti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afPtAAAAAADbItoguar5aHHks55+Y+Vg",
+  "snapshot_id": "afU+gAAAAAA3rqgt6HTmNPi4YOVkwTf5",
   "tracks": [
     {
       "added_at": null,
@@ -195,6 +195,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Eros 30 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6vCxp7Tyue7CRCd0FOaCrz"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        },
+        {
+          "name": "Cher",
+          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
+        }
+      ],
+      "duration_ms": 251413,
+      "name": "Pi\u00f9 che puoi (feat. Cher)",
+      "url": "https://open.spotify.com/track/7nPYCeSyi1Chcr2o95Eqe1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Estilolibre (Spanish Version)",
         "url": "https://open.spotify.com/album/5T0HgCj7T4adMFXKGHV5qf"
       },
@@ -255,26 +275,6 @@
       "duration_ms": 275733,
       "name": "Se Bastasse Una Canzone",
       "url": "https://open.spotify.com/track/1Mc6y8Q3MYppvrCylqDkwO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eros 30 (Deluxe Version)",
-        "url": "https://open.spotify.com/album/6vCxp7Tyue7CRCd0FOaCrz"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        },
-        {
-          "name": "Cher",
-          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
-        }
-      ],
-      "duration_ms": 251413,
-      "name": "Pi\u00f9 che puoi (feat. Cher)",
-      "url": "https://open.spotify.com/track/7nPYCeSyi1Chcr2o95Eqe1"
     },
     {
       "added_at": null,
@@ -643,6 +643,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Musica \u00e8",
+        "url": "https://open.spotify.com/album/6VI85NNGp3e9N8blWF7VPC"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 305906,
+      "name": "Solo con te",
+      "url": "https://open.spotify.com/track/5r9QUxvWA5sJPt3rPNyrzj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sogno",
         "url": "https://open.spotify.com/album/3fKfyzmHnCsdCw4iD3xIch"
       },
@@ -663,18 +679,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Musica \u00e8",
-        "url": "https://open.spotify.com/album/6VI85NNGp3e9N8blWF7VPC"
+        "name": "Dietro Le Apparenze",
+        "url": "https://open.spotify.com/album/2rOZXRaWqDzbGdISSDQXjC"
       },
       "artists": [
+        {
+          "name": "Giorgia",
+          "url": "https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr"
+        },
         {
           "name": "Eros Ramazzotti",
           "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
         }
       ],
-      "duration_ms": 305906,
-      "name": "Solo con te",
-      "url": "https://open.spotify.com/track/5r9QUxvWA5sJPt3rPNyrzj"
+      "duration_ms": 234920,
+      "name": "Inevitabile (feat. Eros Ramazzotti)",
+      "url": "https://open.spotify.com/track/2ZMNdZoaXrGjwPjSxRvw1H"
     },
     {
       "added_at": null,
@@ -719,26 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dietro Le Apparenze",
-        "url": "https://open.spotify.com/album/2rOZXRaWqDzbGdISSDQXjC"
-      },
-      "artists": [
-        {
-          "name": "Giorgia",
-          "url": "https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr"
-        },
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 234920,
-      "name": "Inevitabile (feat. Eros Ramazzotti)",
-      "url": "https://open.spotify.com/track/2ZMNdZoaXrGjwPjSxRvw1H"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Donde Hay M\u00fasica (Spanish Version)",
         "url": "https://open.spotify.com/album/49oNMRzQcMBCqiz03JOQqq"
       },
@@ -755,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "UNA HISTORIA IMPORTANTE",
-        "url": "https://open.spotify.com/album/0yzfuInZ8RVSXEaNWTJR54"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 180279,
-      "name": "Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/1ivNr2pbIq5dHix5eOuAlE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Heroes De hoy [35th Anniversary Edition (Remastered 192 khz)]",
         "url": "https://open.spotify.com/album/0NVRrBt4sMmBSXuFp0Z7Gc"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 252826,
       "name": "Completamente Enamorados - Remastered 2021",
       "url": "https://open.spotify.com/track/47I0PofqOKEL3QGvlFGC0D"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "UNA HISTORIA IMPORTANTE",
+        "url": "https://open.spotify.com/album/0yzfuInZ8RVSXEaNWTJR54"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 180279,
+      "name": "Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/1ivNr2pbIq5dHix5eOuAlE"
     },
     {
       "added_at": null,
@@ -855,22 +855,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Todo Historias (2021 Remastered Version)",
-        "url": "https://open.spotify.com/album/0Y9FGQVfzuP0uZSA9tEBvf"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 277266,
-      "name": "F\u00e1bula - Remastered 2021",
-      "url": "https://open.spotify.com/track/6E0YAI0iBKV5Dzl3jvnrdW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "e2",
         "url": "https://open.spotify.com/album/180OkoknJvtUxYrO0t8y9a"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 222240,
       "name": "No Estamos Solos",
       "url": "https://open.spotify.com/track/7KSsr9xwY7C8wPFq4BzOjn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Todo Historias (2021 Remastered Version)",
+        "url": "https://open.spotify.com/album/0Y9FGQVfzuP0uZSA9tEBvf"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 277266,
+      "name": "F\u00e1bula - Remastered 2021",
+      "url": "https://open.spotify.com/track/6E0YAI0iBKV5Dzl3jvnrdW"
     }
   ],
   "unique_name": "This Is Eros Ramazzotti",

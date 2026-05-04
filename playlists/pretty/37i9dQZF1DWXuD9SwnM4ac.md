@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXuD9SwnM4ac.md) - [plain]
 
 > All the new indie tracks worth knowing about\. Cover: Nia Archives
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,351 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,346 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXuD9SwnM4ac.md) - [plain]
 | 99 | [Sliced by a Fingernail](https://open.spotify.com/track/5gSmH3RJTOLqQwxRhzBZIg) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Sliced by a Fingernail](https://open.spotify.com/album/2C5iuOZxurGiklNlB2PSG1) | 4:08 |
 | 100 | [How to Dance Pt.2](https://open.spotify.com/track/1kHwK0eJjFkP1Ytp4EZBYb) | [Ullah](https://open.spotify.com/artist/6DJbA69u1iLhG6s8H9tVqP) | [For Then](https://open.spotify.com/album/2NdArO2qIfFZbgSl8Vgeiq) | 2:26 |
 
-Snapshot ID: `AAAAAI9bQfSd6yETPWwyutZYi6lX1fCf`
+Snapshot ID: `AAAAAGL+9jbG5AIUL4+nJUDnc2ZwwSF4`

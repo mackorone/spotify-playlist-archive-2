@@ -1,12 +1,12 @@
 {
   "description": "This is La Receta. The essential tracks, all in one playlist.",
-  "num_followers": 66617,
+  "num_followers": 66630,
   "original_name": "This Is La Receta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afPtAAAAAABRq6ZxZRueXjhD+1bD88wg",
+  "snapshot_id": "afU+gAAAAACFE6i4oedyMiD1Ns98Eehz",
   "tracks": [
     {
       "added_at": null,
@@ -203,6 +203,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Sombrero De Lado",
+        "url": "https://open.spotify.com/album/6gC7vaWPjUpiuU5mMGNPLK"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 209706,
+      "name": "Prometiste",
+      "url": "https://open.spotify.com/track/3ItPf9dxL8PGKiwGtTzzSA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Seg\u00fan Yo",
         "url": "https://open.spotify.com/album/7J4QHRe3VOuHX68psYDOd6"
       },
@@ -219,22 +235,6 @@
       "duration_ms": 174346,
       "name": "Seg\u00fan Yo",
       "url": "https://open.spotify.com/track/2IN5u5i6ysRc0nC2UqGPPt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Sombrero De Lado",
-        "url": "https://open.spotify.com/album/6gC7vaWPjUpiuU5mMGNPLK"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 209706,
-      "name": "Prometiste",
-      "url": "https://open.spotify.com/track/3ItPf9dxL8PGKiwGtTzzSA"
     },
     {
       "added_at": null,
@@ -763,22 +763,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos Aesthetic",
-        "url": "https://open.spotify.com/album/0RzAd6HUJ3wRbgUedKYMZ1"
+        "name": "Culiac\u00e1n Deluxe (En Vivo)",
+        "url": "https://open.spotify.com/album/5mu67EL1k1lgn9uXjbxNHf"
       },
       "artists": [
         {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+          "name": "La Ventaja",
+          "url": "https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD"
         },
         {
-          "name": "Luis Mexia",
-          "url": "https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC"
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
         }
       ],
-      "duration_ms": 191680,
-      "name": "LALA",
-      "url": "https://open.spotify.com/track/1pUxlPdbbGm55yvLCxlG2e"
+      "duration_ms": 191600,
+      "name": "Las Facetas de Arturo (En Vivo)",
+      "url": "https://open.spotify.com/track/2VmWvDkmeun5wmK2NKsH3a"
     },
     {
       "added_at": null,
@@ -799,22 +799,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Culiac\u00e1n Deluxe (En Vivo)",
-        "url": "https://open.spotify.com/album/5mu67EL1k1lgn9uXjbxNHf"
+        "name": "Corridos Aesthetic",
+        "url": "https://open.spotify.com/album/0RzAd6HUJ3wRbgUedKYMZ1"
       },
       "artists": [
         {
-          "name": "La Ventaja",
-          "url": "https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD"
-        },
-        {
           "name": "La Receta",
           "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        },
+        {
+          "name": "Luis Mexia",
+          "url": "https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC"
         }
       ],
-      "duration_ms": 191600,
-      "name": "Las Facetas de Arturo (En Vivo)",
-      "url": "https://open.spotify.com/track/2VmWvDkmeun5wmK2NKsH3a"
+      "duration_ms": 191680,
+      "name": "LALA",
+      "url": "https://open.spotify.com/track/1pUxlPdbbGm55yvLCxlG2e"
     },
     {
       "added_at": null,

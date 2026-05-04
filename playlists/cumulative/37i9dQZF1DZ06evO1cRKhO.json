@@ -1075,6 +1075,32 @@
     },
     {
       "album": {
+        "name": "Two Days In Dreamland",
+        "url": "https://open.spotify.com/album/39lnvRcUlaHgx4K0QWU5B2"
+      },
+      "artists": [
+        {
+          "name": "Pauline Oliveros",
+          "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
+        },
+        {
+          "name": "Miya Masaoka",
+          "url": "https://open.spotify.com/artist/1NNjjnZE5bw6Zz8e35qmzE"
+        },
+        {
+          "name": "Issui Minegishi",
+          "url": "https://open.spotify.com/artist/5TujomFCQrZE5HVnwf4iLM"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 554800,
+      "name": "Day 1 - Part 5",
+      "url": "https://open.spotify.com/track/0IN6nKyM2bOHSSeWRK3Ft4"
+    },
+    {
+      "album": {
         "name": "Zwei",
         "url": "https://open.spotify.com/album/6sxFbCoRZitZy97kUzWgHh"
       },
@@ -1302,7 +1328,7 @@
       ],
       "date_added": "2022-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-02",
+      "date_removed": null,
       "duration_ms": 199880,
       "name": "Duet",
       "url": "https://open.spotify.com/track/2DpRCugH6W4YelZWeprDNv"
@@ -1578,7 +1604,7 @@
       ],
       "date_added": "2022-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-11",
+      "date_removed": null,
       "duration_ms": 392040,
       "name": "From the Backstretch - Live",
       "url": "https://open.spotify.com/track/3PY81IH55XLkkll2zgQVWQ"
@@ -2402,7 +2428,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-04",
       "duration_ms": 2018160,
       "name": "Mind Bog",
       "url": "https://open.spotify.com/track/3kZm6sinhvCCvLE77gYa5l"
@@ -2518,7 +2544,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-03",
+      "date_removed": null,
       "duration_ms": 856346,
       "name": "Monument",
       "url": "https://open.spotify.com/track/6WWfPwQFOKNrdt5XDz6ViJ"
@@ -3206,7 +3232,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-04",
       "duration_ms": 184720,
       "name": "Quartetto Telematico #2",
       "url": "https://open.spotify.com/track/0LIfj51l30JOgZkGcUiLiV"
@@ -3296,7 +3322,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-04",
       "duration_ms": 171106,
       "name": "Quartetto Telematico #6",
       "url": "https://open.spotify.com/track/3DFpK890CslTbYxX8WihKW"
@@ -3802,7 +3828,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-04",
       "duration_ms": 620506,
       "name": "Slipping Away",
       "url": "https://open.spotify.com/track/5lGMFA7uZrJgJRBxIyb8yi"

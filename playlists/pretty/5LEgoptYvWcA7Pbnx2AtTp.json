@@ -6,7 +6,7 @@
     "name": "Zero625",
     "url": "https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm"
   },
-  "snapshot_id": "AAABC2jovsTFqvFEqIwRevK84k1LzRCy",
+  "snapshot_id": "AAABDG8G/zLKUIhdq5EEpcbQRrVusS/O",
   "tracks": [
     {
       "added_at": "2022-05-06 11:09:16",
@@ -3119,6 +3119,26 @@
       "duration_ms": 197248,
       "name": "Hullabaloo",
       "url": "https://open.spotify.com/track/1L2MyJvWX5TCEGUWR2LdRJ"
+    },
+    {
+      "added_at": "2026-05-03 18:27:48",
+      "album": {
+        "name": "Insane",
+        "url": "https://open.spotify.com/album/3o5Dz1PLFlYXplnsp5zZxh"
+      },
+      "artists": [
+        {
+          "name": "Black Gryph0n",
+          "url": "https://open.spotify.com/artist/4ET82ZtSfAK4utfjDauImD"
+        },
+        {
+          "name": "Baasik",
+          "url": "https://open.spotify.com/artist/3bSyv1vO8ye6PKyWcJeVbI"
+        }
+      ],
+      "duration_ms": 159714,
+      "name": "Insane",
+      "url": "https://open.spotify.com/track/5flerg6aEao2VayZezVlgu"
     }
   ],
   "unique_name": "Questionable Bops",

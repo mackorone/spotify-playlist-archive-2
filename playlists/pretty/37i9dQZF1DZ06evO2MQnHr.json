@@ -1,12 +1,12 @@
 {
   "description": "This is Madeline Merlo. The essential tracks, all in one playlist.",
-  "num_followers": 487,
+  "num_followers": 488,
   "original_name": "This Is Madeline Merlo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afPtAAAAAAAKbjIUbVNQ8Goo/VTsvLyG",
+  "snapshot_id": "afU+gAAAAAApuHkHM01PIuKYCWsALIlm",
   "tracks": [
     {
       "added_at": null,
@@ -560,17 +560,17 @@
       },
       "artists": [
         {
-          "name": "Madeline Merlo",
-          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
-        },
-        {
           "name": "Munro Chambers",
           "url": "https://open.spotify.com/artist/6iQwFHGEHAMlQVxJQGye1d"
+        },
+        {
+          "name": "Madeline Merlo",
+          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
         }
       ],
-      "duration_ms": 229165,
-      "name": "Here I Am Gone",
-      "url": "https://open.spotify.com/track/4LEHZIyk29as3lfGq7tS2u"
+      "duration_ms": 223289,
+      "name": "Have You Ever Had so Much Fun",
+      "url": "https://open.spotify.com/track/6RLXgDhOcbWP3mhqidBFXD"
     },
     {
       "added_at": null,
@@ -600,17 +600,13 @@
       },
       "artists": [
         {
-          "name": "Munro Chambers",
-          "url": "https://open.spotify.com/artist/6iQwFHGEHAMlQVxJQGye1d"
-        },
-        {
           "name": "Madeline Merlo",
           "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
         }
       ],
-      "duration_ms": 223289,
-      "name": "Have You Ever Had so Much Fun",
-      "url": "https://open.spotify.com/track/6RLXgDhOcbWP3mhqidBFXD"
+      "duration_ms": 260409,
+      "name": "Don't",
+      "url": "https://open.spotify.com/track/5ziCJSpPo7Gjo0yXoGsu4v"
     },
     {
       "added_at": null,
@@ -622,11 +618,15 @@
         {
           "name": "Madeline Merlo",
           "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
+        },
+        {
+          "name": "Munro Chambers",
+          "url": "https://open.spotify.com/artist/6iQwFHGEHAMlQVxJQGye1d"
         }
       ],
-      "duration_ms": 260409,
-      "name": "Don't",
-      "url": "https://open.spotify.com/track/5ziCJSpPo7Gjo0yXoGsu4v"
+      "duration_ms": 229165,
+      "name": "Here I Am Gone",
+      "url": "https://open.spotify.com/track/4LEHZIyk29as3lfGq7tS2u"
     }
   ],
   "unique_name": "This Is Madeline Merlo",

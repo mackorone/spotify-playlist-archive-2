@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgckExLlG1g.md) - [plain]
 
 > The top Christian songs worldwide!  Cover: Peter Burton
 
-[Spotify](https://open.spotify.com/user/spotify) - 469,879 likes - 50 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 469,859 likes - 50 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgckExLlG1g.md) - [plain]
 | 49 | [Able](https://open.spotify.com/track/0gsuJ9nR8iOPOHszdmlnrw) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9), [Marvin Winans](https://open.spotify.com/artist/2QuleHm5yBUYv3vjqWTM79) | [Able](https://open.spotify.com/album/6rIjou6T4snwPFCWKAiIg2) | 5:02 |
 | 50 | [Church Doors](https://open.spotify.com/track/3upatkQjhcIYrHfgfYdGIr) | [Yolanda Adams](https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11) | [Church Doors](https://open.spotify.com/album/6F8YVUwY5RASpzkAryBVns) | 2:47 |
 
-Snapshot ID: `AAAAAE8N3OLvdlJlydaYRkKZiWtjAtgs`
+Snapshot ID: `AAAAAFHAvOmYzZEJWGUB+Fu5c9/JLUbL`

@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTWeWJBDCc5.md) - [plain](/playlists/plain/37i9dQZF1DWUTWeWJBDCc5) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWUTWeWJBDCc5)
 
-### [Editor's Picks Korea: 4월의 노래](https://open.spotify.com/playlist/37i9dQZF1DWUTWeWJBDCc5)
+### [Editor's Picks Korea: 5월의 노래](https://open.spotify.com/playlist/37i9dQZF1DWUTWeWJBDCc5)
 
-> 스포티파이 뮤직 에디터가 선정한 4월의 노래를 만나보세요.
+> 스포티파이 뮤직 에디터가 선정한 5월의 노래를 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,736 likes - 20 songs - 1 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,758 likes - 20 songs - 1 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTWeWJBDCc5.md) - [plain]
 | 19 | [On such a wonderful night](https://open.spotify.com/track/2nnIHyTZOnFvkYeKeebFvu) | [Cha ga eul](https://open.spotify.com/artist/4mSV7GdIFUByJJVxI4HyOi) | [On such a wonderful night](https://open.spotify.com/album/4f2toQm38HkmoRDWKCM1s7) | 3:33 |
 | 20 | [Sleepless](https://open.spotify.com/track/33RxnAlO8IKWwS9pSRRaP5) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [Sleepless \(from Sold Out On You \(Original Soundtrack\) Part 3\)](https://open.spotify.com/album/1DK8jMJjfVbz34tpXeBYX9) | 3:52 |
 
-Snapshot ID: `AAAAANqRgTk0OpUBbQddgj7oeGAYPV6H`
+Snapshot ID: `AAAAAHlmDM6vV1s9P9BiYbLxb3i/J9r2`

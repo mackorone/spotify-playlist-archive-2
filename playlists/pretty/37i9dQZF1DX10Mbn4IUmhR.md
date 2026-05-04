@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10Mbn4IUmhR.md) - [plain]
 
 > Your frequency for today's hottest pop tracks in Mzansi\. Cover: Tyla & Zara Larsson
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,145 likes - 79 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,150 likes - 79 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10Mbn4IUmhR.md) - [plain]
 | 78 | [Burn](https://open.spotify.com/track/27033s3ppBoMd3RYjmT8eB) | [ARIS](https://open.spotify.com/artist/0J6G9NfkjzlvPKMLnKemv8) | [Burn](https://open.spotify.com/album/2oYTqR3MDbU55VHxCwxZlO) | 2:16 |
 | 79 | [IDWGOT](https://open.spotify.com/track/3p1yIvdlKxWRqZtvBjP4jA) | [Teagan](https://open.spotify.com/artist/6CkLmreP33DGrqd7UmqOZi) | [IDWGOT](https://open.spotify.com/album/6mVtGTvJQt8PkGlSWRfGQr) | 3:34 |
 
-Snapshot ID: `AAAAAEVm2XGdW5PeayADFmHw9fyQEBaV`
+Snapshot ID: `AAAAAO45H6HFGusQ8r+4pM4uEo7TqgX+`

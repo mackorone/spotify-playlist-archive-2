@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6nuo9FYCAGV0WalhCluicG.md) - [plain]
 
 > The hottest UK rap, drill, grime and hip\-hop right now\. Featuring the biggest names and rising stars shaping the UK scene, including Nemzzz, EsDeeKid, KidWild and more\. Cover: Nemzzz.
 
-[Topsify UK](https://open.spotify.com/user/playlistmeukfeatured) - 71,072 likes - 70 songs - 3 hr 5 min
+[Topsify UK](https://open.spotify.com/user/playlistmeukfeatured) - 71,069 likes - 70 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

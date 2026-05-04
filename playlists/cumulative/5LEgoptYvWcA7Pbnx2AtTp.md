@@ -4,7 +4,7 @@
 
 > Questionable in both morals and taste.
 
-204 songs - 11 hr 24 min
+205 songs - 11 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [I've Got All This Ringing In My Ears And None On My Fingers](https://open.spotify.com/track/1CRVvwUopaV42bAEvoh194) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Infinity On High](https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g) | 4:06 | 2024-11-09 |  |
 | [If It Wasn't For The Nights](https://open.spotify.com/track/3R47KOuGuGvmoeQqbODPa3) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Voulez\-Vous](https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh) | 5:09 | 2024-09-20 |  |
 | [Immigrant Song \- Remaster](https://open.spotify.com/track/78lgmZwycJ3nzsdgmPPGNx) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin III \(Remaster\)](https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut) | 2:26 | 2024-09-17 |  |
+| [Insane](https://open.spotify.com/track/5flerg6aEao2VayZezVlgu) | [Black Gryph0n](https://open.spotify.com/artist/4ET82ZtSfAK4utfjDauImD), [Baasik](https://open.spotify.com/artist/3bSyv1vO8ye6PKyWcJeVbI) | [Insane](https://open.spotify.com/album/3o5Dz1PLFlYXplnsp5zZxh) | 2:39 | 2026-05-03 |  |
 | [Insanity \- Live](https://open.spotify.com/track/6oLNowpcdWveCBm5l52Wwj) | [Oingo Boingo](https://open.spotify.com/artist/5LXEAEGrpKQtpyCu2sZuWu) | [Farewell: Live From The Universal Amphitheatre\-Halloween 1995](https://open.spotify.com/album/1wqqDRJCbYsK9QSjNR55e5) | 7:42 | 2023-07-31 |  |
 | [internet drama part 1 \(is this available?\)](https://open.spotify.com/track/1GmgqwSthVucbpFZDk1pJG) | [Lubalin](https://open.spotify.com/artist/6lt3CXKfhLXjYl2VFD6vN4) | [internet drama](https://open.spotify.com/album/2oiiVfDGVjRczMzpb41eju) | 0:48 | 2024-06-19 | 2025-05-27 |
 | [internet drama part 2 \(she stole my broccoli\)](https://open.spotify.com/track/2QSMReK2qO0wce71Xcdtk1) | [Lubalin](https://open.spotify.com/artist/6lt3CXKfhLXjYl2VFD6vN4) | [internet drama](https://open.spotify.com/album/2oiiVfDGVjRczMzpb41eju) | 0:48 | 2024-06-19 |  |

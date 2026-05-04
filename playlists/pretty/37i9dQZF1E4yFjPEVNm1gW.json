@@ -43,6 +43,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "4 DA THRILL",
+        "url": "https://open.spotify.com/album/1hVMY5IZJHZE95MP7wY37r"
+      },
+      "artists": [
+        {
+          "name": "Unitus",
+          "url": "https://open.spotify.com/artist/4i2MeDBaCWuskZDgkCVAlS"
+        }
+      ],
+      "duration_ms": 112500,
+      "name": "Swept Da Block",
+      "url": "https://open.spotify.com/track/3TZjiHzps5d0Lk2snACKG3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Blak Amerika 0.5",
         "url": "https://open.spotify.com/album/5vhfiGkD34WJLIhV65PK1L"
       },
@@ -63,18 +79,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "SKURF'd UP",
-        "url": "https://open.spotify.com/album/01q9AI0Pg94t9bK96yGLik"
+        "name": "HiTTiN",
+        "url": "https://open.spotify.com/album/6ZXBNHw4VnIPA180AKrymZ"
       },
       "artists": [
         {
-          "name": "Oodaredevil",
-          "url": "https://open.spotify.com/artist/1yj1u1EEoD0kmQuthHP6nf"
+          "name": "KiLLTENTAI",
+          "url": "https://open.spotify.com/artist/7dmdBftWm4pTxCiKpMhlfO"
         }
       ],
-      "duration_ms": 133391,
-      "name": "NEED DAT",
-      "url": "https://open.spotify.com/track/0CkmV66jmr4APBOJlG6e3h"
+      "duration_ms": 174666,
+      "name": "HiTTiN",
+      "url": "https://open.spotify.com/track/1xhtuJVJWTzXRGtDQQpS4B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "not enn a diss",
+        "url": "https://open.spotify.com/album/5dtJIvqX2O1XBbH3kRSFQL"
+      },
+      "artists": [
+        {
+          "name": "Taewitdak",
+          "url": "https://open.spotify.com/artist/11hMddoHgub1AGz7APSTjF"
+        }
+      ],
+      "duration_ms": 81176,
+      "name": "not enn a diss",
+      "url": "https://open.spotify.com/track/3uqA4hsYPKP5uOWlHYBGBO"
     },
     {
       "added_at": null,
@@ -99,42 +131,6 @@
       "duration_ms": 133500,
       "name": "F.E.A.R. - feat. Niontay",
       "url": "https://open.spotify.com/track/2gNXxgXqZTZuSLBiSV6HKS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "not enn a diss",
-        "url": "https://open.spotify.com/album/5dtJIvqX2O1XBbH3kRSFQL"
-      },
-      "artists": [
-        {
-          "name": "Taewitdak",
-          "url": "https://open.spotify.com/artist/11hMddoHgub1AGz7APSTjF"
-        }
-      ],
-      "duration_ms": 81176,
-      "name": "not enn a diss",
-      "url": "https://open.spotify.com/track/3uqA4hsYPKP5uOWlHYBGBO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hardy Boyz (feat. Bloodhound Lil Jeff)",
-        "url": "https://open.spotify.com/album/3tzKkC8md0MnmsWVAcFhhz"
-      },
-      "artists": [
-        {
-          "name": "Bloodhound Lil Jeff",
-          "url": "https://open.spotify.com/artist/7cLnKyXKfZJN3EAKlrCrhZ"
-        },
-        {
-          "name": "BloodHound Q50",
-          "url": "https://open.spotify.com/artist/7DVSW8TAJdesr6KT5C0rZx"
-        }
-      ],
-      "duration_ms": 111428,
-      "name": "Hardy Boyz (feat. Bloodhound Lil Jeff)",
-      "url": "https://open.spotify.com/track/3MIAujDDxkigmJfwHbFRyN"
     },
     {
       "added_at": null,
@@ -171,18 +167,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "HiTTiN",
-        "url": "https://open.spotify.com/album/6ZXBNHw4VnIPA180AKrymZ"
+        "name": "Hardy Boyz (feat. Bloodhound Lil Jeff)",
+        "url": "https://open.spotify.com/album/3tzKkC8md0MnmsWVAcFhhz"
       },
       "artists": [
         {
-          "name": "KiLLTENTAI",
-          "url": "https://open.spotify.com/artist/7dmdBftWm4pTxCiKpMhlfO"
+          "name": "Bloodhound Lil Jeff",
+          "url": "https://open.spotify.com/artist/7cLnKyXKfZJN3EAKlrCrhZ"
+        },
+        {
+          "name": "BloodHound Q50",
+          "url": "https://open.spotify.com/artist/7DVSW8TAJdesr6KT5C0rZx"
         }
       ],
-      "duration_ms": 174666,
-      "name": "HiTTiN",
-      "url": "https://open.spotify.com/track/1xhtuJVJWTzXRGtDQQpS4B"
+      "duration_ms": 111428,
+      "name": "Hardy Boyz (feat. Bloodhound Lil Jeff)",
+      "url": "https://open.spotify.com/track/3MIAujDDxkigmJfwHbFRyN"
     },
     {
       "added_at": null,
@@ -219,22 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bloody Bruddas",
-        "url": "https://open.spotify.com/album/5rFMgfUL0AqhSPjI0MFT0i"
-      },
-      "artists": [
-        {
-          "name": "Bloodhound Lil Jeff",
-          "url": "https://open.spotify.com/artist/7cLnKyXKfZJN3EAKlrCrhZ"
-        }
-      ],
-      "duration_ms": 128312,
-      "name": "AR-15",
-      "url": "https://open.spotify.com/track/0y81SHgKhCA9pwuOPQPG9z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Militia",
         "url": "https://open.spotify.com/album/16oIr5VESM6EX3czVoOoM5"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 110221,
       "name": "Militia",
       "url": "https://open.spotify.com/track/0pB7v6fha2WcS1QJlreciH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SKURF'd UP",
+        "url": "https://open.spotify.com/album/01q9AI0Pg94t9bK96yGLik"
+      },
+      "artists": [
+        {
+          "name": "Oodaredevil",
+          "url": "https://open.spotify.com/artist/1yj1u1EEoD0kmQuthHP6nf"
+        }
+      ],
+      "duration_ms": 133391,
+      "name": "NEED DAT",
+      "url": "https://open.spotify.com/track/0CkmV66jmr4APBOJlG6e3h"
     },
     {
       "added_at": null,
@@ -267,6 +267,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bloody Bruddas",
+        "url": "https://open.spotify.com/album/5rFMgfUL0AqhSPjI0MFT0i"
+      },
+      "artists": [
+        {
+          "name": "Bloodhound Lil Jeff",
+          "url": "https://open.spotify.com/artist/7cLnKyXKfZJN3EAKlrCrhZ"
+        }
+      ],
+      "duration_ms": 128312,
+      "name": "AR-15",
+      "url": "https://open.spotify.com/track/0y81SHgKhCA9pwuOPQPG9z"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Me & Mine, Pt. 1",
         "url": "https://open.spotify.com/album/32IMKd48Sp6pe9sW473ono"
       },
@@ -283,34 +299,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "4 DA THRILL",
-        "url": "https://open.spotify.com/album/1hVMY5IZJHZE95MP7wY37r"
+        "name": "All 4 Bop",
+        "url": "https://open.spotify.com/album/46rgteTLfyWhnwCZWttFcb"
       },
       "artists": [
         {
-          "name": "Unitus",
-          "url": "https://open.spotify.com/artist/4i2MeDBaCWuskZDgkCVAlS"
+          "name": "Curry B",
+          "url": "https://open.spotify.com/artist/7qkAXozZYroAOArE5xUmWF"
         }
       ],
-      "duration_ms": 112500,
-      "name": "Swept Da Block",
-      "url": "https://open.spotify.com/track/3TZjiHzps5d0Lk2snACKG3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Real Talk",
-        "url": "https://open.spotify.com/album/1WzQqIOpYtVQ0XzgkWMzoJ"
-      },
-      "artists": [
-        {
-          "name": "Cuo Zay",
-          "url": "https://open.spotify.com/artist/6yFzNwvuceOObkopessurR"
-        }
-      ],
-      "duration_ms": 146586,
-      "name": "Real Talk",
-      "url": "https://open.spotify.com/track/50ClQ5PTkY2Sc3f0ynVxis"
+      "duration_ms": 145841,
+      "name": "Telephones",
+      "url": "https://open.spotify.com/track/1AKsJHv1KawhTIKa9ZD2FU"
     },
     {
       "added_at": null,
@@ -327,6 +327,22 @@
       "duration_ms": 153208,
       "name": "WAR 1",
       "url": "https://open.spotify.com/track/5PyjS9OsRJR0vEbFd7I6HA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Real Talk",
+        "url": "https://open.spotify.com/album/1WzQqIOpYtVQ0XzgkWMzoJ"
+      },
+      "artists": [
+        {
+          "name": "Cuo Zay",
+          "url": "https://open.spotify.com/artist/6yFzNwvuceOObkopessurR"
+        }
+      ],
+      "duration_ms": 146586,
+      "name": "Real Talk",
+      "url": "https://open.spotify.com/track/50ClQ5PTkY2Sc3f0ynVxis"
     },
     {
       "added_at": null,
@@ -407,38 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All 4 Bop",
-        "url": "https://open.spotify.com/album/46rgteTLfyWhnwCZWttFcb"
-      },
-      "artists": [
-        {
-          "name": "Curry B",
-          "url": "https://open.spotify.com/artist/7qkAXozZYroAOArE5xUmWF"
-        }
-      ],
-      "duration_ms": 145841,
-      "name": "Telephones",
-      "url": "https://open.spotify.com/track/1AKsJHv1KawhTIKa9ZD2FU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "NBR (No Bap Rap)",
-        "url": "https://open.spotify.com/album/1f3yjQUAU2qG6HWT67Ct79"
-      },
-      "artists": [
-        {
-          "name": "Jc32Baby",
-          "url": "https://open.spotify.com/artist/0UIxpEFKo3useaZ9dUeStw"
-        }
-      ],
-      "duration_ms": 145920,
-      "name": "Vikings",
-      "url": "https://open.spotify.com/track/3el1BydkPjW2hTJdhive6G"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "UP!",
         "url": "https://open.spotify.com/album/2LcFpUbAJL3yHNnuQJ6Sud"
       },
@@ -455,22 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "So Im The Bad Guy",
-        "url": "https://open.spotify.com/album/4HVNcXuZeQWbJFZd2vG34F"
-      },
-      "artists": [
-        {
-          "name": "Nfe Tummy",
-          "url": "https://open.spotify.com/artist/5kYpfTaZup3Da12sn2KKP8"
-        }
-      ],
-      "duration_ms": 131633,
-      "name": "Gotta Go",
-      "url": "https://open.spotify.com/track/0MZA9uJHEuqDqQwGrae35J"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Golden Child, Chapter 3",
         "url": "https://open.spotify.com/album/6vxo1Nywp8r7B0p9avT0SM"
       },
@@ -483,6 +451,22 @@
       "duration_ms": 125217,
       "name": "Still the Same",
       "url": "https://open.spotify.com/track/5dTmaw1TwugkUZk1SHqStE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "So Im The Bad Guy",
+        "url": "https://open.spotify.com/album/4HVNcXuZeQWbJFZd2vG34F"
+      },
+      "artists": [
+        {
+          "name": "Nfe Tummy",
+          "url": "https://open.spotify.com/artist/5kYpfTaZup3Da12sn2KKP8"
+        }
+      ],
+      "duration_ms": 131633,
+      "name": "Gotta Go",
+      "url": "https://open.spotify.com/track/0MZA9uJHEuqDqQwGrae35J"
     },
     {
       "added_at": null,
@@ -527,22 +511,6 @@
       "duration_ms": 138310,
       "name": "Barney",
       "url": "https://open.spotify.com/track/3Z1MunMxvhyk6l36QiyTop"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "NO TRIP",
-        "url": "https://open.spotify.com/album/2OXjwgobVhuv6uuB3esA3p"
-      },
-      "artists": [
-        {
-          "name": "LUHMADI",
-          "url": "https://open.spotify.com/artist/1P5JM3MwarWSuWVLdLfqhT"
-        }
-      ],
-      "duration_ms": 109760,
-      "name": "NO TRIP",
-      "url": "https://open.spotify.com/track/1sfK2lF59BbYHCqFeyi8DL"
     },
     {
       "added_at": null,
@@ -595,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Winners Circle",
-        "url": "https://open.spotify.com/album/5vUSDrTKzuAmrW5fB8ZPy1"
-      },
-      "artists": [
-        {
-          "name": "rexv2",
-          "url": "https://open.spotify.com/artist/1zYtGI84oTXVPEuT39M1IC"
-        }
-      ],
-      "duration_ms": 123211,
-      "name": "YOUTUBE",
-      "url": "https://open.spotify.com/track/7JFZXCelZMzyjmnolSBv53"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Voices In My Head",
         "url": "https://open.spotify.com/album/7qGgYsuOOTVWPJgaDebx74"
       },
@@ -627,18 +579,50 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Great Chaos",
-        "url": "https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW"
+        "name": "NO TRIP",
+        "url": "https://open.spotify.com/album/2OXjwgobVhuv6uuB3esA3p"
       },
       "artists": [
         {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+          "name": "LUHMADI",
+          "url": "https://open.spotify.com/artist/1P5JM3MwarWSuWVLdLfqhT"
         }
       ],
-      "duration_ms": 182791,
-      "name": "Nightcore 2",
-      "url": "https://open.spotify.com/track/6p1j9OP2IBdzR5tgtyJk10"
+      "duration_ms": 109760,
+      "name": "NO TRIP",
+      "url": "https://open.spotify.com/track/1sfK2lF59BbYHCqFeyi8DL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fire in my heart",
+        "url": "https://open.spotify.com/album/4anMKTkHRHemr55s8Ovh8T"
+      },
+      "artists": [
+        {
+          "name": "1400 Vault",
+          "url": "https://open.spotify.com/artist/5HGDY5ljhjmfMCWvTDShiQ"
+        }
+      ],
+      "duration_ms": 229738,
+      "name": "Fire in my heart",
+      "url": "https://open.spotify.com/track/5XZN4J4EQeNYfxWBb9kBog"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Winners Circle",
+        "url": "https://open.spotify.com/album/5vUSDrTKzuAmrW5fB8ZPy1"
+      },
+      "artists": [
+        {
+          "name": "rexv2",
+          "url": "https://open.spotify.com/artist/1zYtGI84oTXVPEuT39M1IC"
+        }
+      ],
+      "duration_ms": 123211,
+      "name": "YOUTUBE",
+      "url": "https://open.spotify.com/track/7JFZXCelZMzyjmnolSBv53"
     },
     {
       "added_at": null,
@@ -675,18 +659,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Intervals",
-        "url": "https://open.spotify.com/album/1B1ox43mBzMXwSijn6E8GN"
+        "name": "A Great Chaos",
+        "url": "https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW"
       },
       "artists": [
         {
-          "name": "\u0141ee",
-          "url": "https://open.spotify.com/artist/0TiAJVuSZaqSOCWUtt9zuz"
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
         }
       ],
-      "duration_ms": 143775,
-      "name": "Intervals",
-      "url": "https://open.spotify.com/track/7q90Gh6UiDVpC2ZGHdaxa9"
+      "duration_ms": 182791,
+      "name": "Nightcore 2",
+      "url": "https://open.spotify.com/track/6p1j9OP2IBdzR5tgtyJk10"
     },
     {
       "added_at": null,
@@ -707,54 +691,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Been long",
-        "url": "https://open.spotify.com/album/62UGxkFgVv7awFGp4125XM"
+        "name": "Trifling",
+        "url": "https://open.spotify.com/album/1KZ5KtTHYd1qiZjkV9OY4e"
       },
       "artists": [
         {
-          "name": "Luhtrav",
-          "url": "https://open.spotify.com/artist/6wlH6rlupETgfLyzNULdZp"
-        },
-        {
-          "name": "Luhb",
-          "url": "https://open.spotify.com/artist/05AJ8ipkIzaRzyjISjh0LF"
+          "name": "acleast",
+          "url": "https://open.spotify.com/artist/6atHYdLBnY3Lj1DcG6VGFn"
         }
       ],
-      "duration_ms": 179465,
-      "name": "Ww3",
-      "url": "https://open.spotify.com/track/3su7hKSR6ClzYUchQVQoIe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "In the mix (be here)",
-        "url": "https://open.spotify.com/album/4RHKFFYmxxSvmtKBJ9izoY"
-      },
-      "artists": [
-        {
-          "name": "Saltyngget",
-          "url": "https://open.spotify.com/artist/46GgJ6qHCR08sCvbJ1UJzy"
-        }
-      ],
-      "duration_ms": 309336,
-      "name": "In the mix (be here)",
-      "url": "https://open.spotify.com/track/3pmJTS65kQO7tORlc8dIxp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fire in my heart",
-        "url": "https://open.spotify.com/album/4anMKTkHRHemr55s8Ovh8T"
-      },
-      "artists": [
-        {
-          "name": "1400 Vault",
-          "url": "https://open.spotify.com/artist/5HGDY5ljhjmfMCWvTDShiQ"
-        }
-      ],
-      "duration_ms": 229738,
-      "name": "Fire in my heart",
-      "url": "https://open.spotify.com/track/5XZN4J4EQeNYfxWBb9kBog"
+      "duration_ms": 211931,
+      "name": "Trifling",
+      "url": "https://open.spotify.com/track/3wMUXSD6foKvnl9asEbEA4"
     },
     {
       "added_at": null,
@@ -775,18 +723,50 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trifling",
-        "url": "https://open.spotify.com/album/1KZ5KtTHYd1qiZjkV9OY4e"
+        "name": "Intervals",
+        "url": "https://open.spotify.com/album/1B1ox43mBzMXwSijn6E8GN"
       },
       "artists": [
         {
-          "name": "acleast",
-          "url": "https://open.spotify.com/artist/6atHYdLBnY3Lj1DcG6VGFn"
+          "name": "\u0141ee",
+          "url": "https://open.spotify.com/artist/0TiAJVuSZaqSOCWUtt9zuz"
         }
       ],
-      "duration_ms": 211931,
-      "name": "Trifling",
-      "url": "https://open.spotify.com/track/3wMUXSD6foKvnl9asEbEA4"
+      "duration_ms": 143775,
+      "name": "Intervals",
+      "url": "https://open.spotify.com/track/7q90Gh6UiDVpC2ZGHdaxa9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In the mix (be here)",
+        "url": "https://open.spotify.com/album/4RHKFFYmxxSvmtKBJ9izoY"
+      },
+      "artists": [
+        {
+          "name": "Saltyngget",
+          "url": "https://open.spotify.com/artist/46GgJ6qHCR08sCvbJ1UJzy"
+        }
+      ],
+      "duration_ms": 309336,
+      "name": "In the mix (be here)",
+      "url": "https://open.spotify.com/track/3pmJTS65kQO7tORlc8dIxp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Live, I Die, I Live Again (Resurrected)",
+        "url": "https://open.spotify.com/album/6JqKTBpbRpGZ9RMUlPCbM2"
+      },
+      "artists": [
+        {
+          "name": "Chuckyy",
+          "url": "https://open.spotify.com/artist/0HRGx78eQaMqoHoopLfi2h"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "No Blickout",
+      "url": "https://open.spotify.com/track/0OrIm11rR74jKvimJXvxAg"
     },
     {
       "added_at": null,
@@ -819,22 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Live, I Die, I Live Again (Resurrected)",
-        "url": "https://open.spotify.com/album/6JqKTBpbRpGZ9RMUlPCbM2"
-      },
-      "artists": [
-        {
-          "name": "Chuckyy",
-          "url": "https://open.spotify.com/artist/0HRGx78eQaMqoHoopLfi2h"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "No Blickout",
-      "url": "https://open.spotify.com/track/0OrIm11rR74jKvimJXvxAg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BIG 3",
         "url": "https://open.spotify.com/album/0S2GlUSMCxWNpfQ61bAaTu"
       },
@@ -859,6 +823,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Time (TopOppGen)",
+        "url": "https://open.spotify.com/album/6yYdwxE24hJAdBZm7a9OTZ"
+      },
+      "artists": [
+        {
+          "name": "Gremlins Town",
+          "url": "https://open.spotify.com/artist/5nLEGbgfJhoLR8q4OiUqaH"
+        }
+      ],
+      "duration_ms": 157245,
+      "name": "Time (TopOppGen)",
+      "url": "https://open.spotify.com/track/5lMrHxIqCLdsudOL55c5b1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "star baby",
         "url": "https://open.spotify.com/album/39BZXOgmw2CEkLf5aMbyhs"
       },
@@ -871,6 +851,22 @@
       "duration_ms": 118778,
       "name": "star baby",
       "url": "https://open.spotify.com/track/7bQRR2vvzzZkwYxIMbt7TE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "One Take",
+        "url": "https://open.spotify.com/album/5KSWVXXIFylp2llAv448Sv"
+      },
+      "artists": [
+        {
+          "name": "Young Slixe",
+          "url": "https://open.spotify.com/artist/2Co2CaKKgnpRBuguJsI3uG"
+        }
+      ],
+      "duration_ms": 119813,
+      "name": "One Take",
+      "url": "https://open.spotify.com/track/3uh5GDAjOou5BHvKvPEpOD"
     }
   ],
   "unique_name": "Taewitdak Radio",

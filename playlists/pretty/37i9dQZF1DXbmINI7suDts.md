@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmINI7suDts.md) - [plain]
 
 > Get your spirits up and manage your mood any time of the day\. Cover: Tracy Melon
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,797 likes - 55 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,813 likes - 55 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmINI7suDts.md) - [plain]
 | 54 | [Freak Show](https://open.spotify.com/track/50L8gSrd2oUjrcPVNP6mDI) | [Iyanah](https://open.spotify.com/artist/6dRAXLNCcsl6P2mgIu6WhO), [Chxf Barry](https://open.spotify.com/artist/4vMmIzBBucgN0Hend2wz0S) | [Freak Show](https://open.spotify.com/album/1rWaIByfwfLQm2GH8cV6Pg) | 2:27 |
 | 55 | [Jolene](https://open.spotify.com/track/4GWR0LR2akpQlE8HnxvSIO) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [Growing Pains \(Deluxe\)](https://open.spotify.com/album/47EX0L1oFrF9x13M3VhuxG) | 3:02 |
 
-Snapshot ID: `AAAAAEQsmkAEszbRkS/KCQ8I3mYONmNt`
+Snapshot ID: `AAAAAP88ODVMp24U5DalSn84Kn6LXADp`

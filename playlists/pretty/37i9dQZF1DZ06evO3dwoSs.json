@@ -1,12 +1,12 @@
 {
   "description": "This is Five Finger Death Punch. The essential tracks, all in one playlist.",
-  "num_followers": 569839,
+  "num_followers": 569846,
   "original_name": "This Is Five Finger Death Punch",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afPtAAAAAACkTXYHOzh2lv2XU8/UomOw",
+  "snapshot_id": "afU+gAAAAABTQRqtonKYiqSHxRdMK7S7",
   "tracks": [
     {
       "added_at": null,
@@ -223,8 +223,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Wrong Side Of Heaven And The Righteous Side Of Hell, Volume 2",
-        "url": "https://open.spotify.com/album/0RP9MT74WH7Yis10EO7tZS"
+        "name": "The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 2",
+        "url": "https://open.spotify.com/album/3lUaarZcFRxIxn84ECPJgy"
       },
       "artists": [
         {
@@ -233,8 +233,8 @@
         }
       ],
       "duration_ms": 247388,
-      "name": "House of The Rising Sun",
-      "url": "https://open.spotify.com/track/4ZmX8elKMkH0MfniNi0Adu"
+      "name": "House of the Rising Sun",
+      "url": "https://open.spotify.com/track/1brgfYNrMJXpT70Mfzky6l"
     },
     {
       "added_at": null,
@@ -499,26 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Refuse (feat. Maria Brink of In This Moment) [2025 VERSION]",
-        "url": "https://open.spotify.com/album/2IrqDjpjH3dOVz8Nd7rPqI"
-      },
-      "artists": [
-        {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        },
-        {
-          "name": "In This Moment",
-          "url": "https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT"
-        }
-      ],
-      "duration_ms": 221000,
-      "name": "I Refuse (feat. Maria Brink of In This Moment) - 2025 VERSION",
-      "url": "https://open.spotify.com/track/183LHdf7z7LG2eQf10popU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Holy Water (feat. Ivan Moody of Five Finger Death Punch)",
         "url": "https://open.spotify.com/album/2VO6HxN9o1v3s3zSKlLoiz"
       },
@@ -535,6 +515,26 @@
       "duration_ms": 181714,
       "name": "Holy Water (feat. Ivan Moody of Five Finger Death Punch)",
       "url": "https://open.spotify.com/track/1rcZspyKL7dhmV3gj8PT8p"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Refuse (feat. Maria Brink of In This Moment) [2025 VERSION]",
+        "url": "https://open.spotify.com/album/2IrqDjpjH3dOVz8Nd7rPqI"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        },
+        {
+          "name": "In This Moment",
+          "url": "https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT"
+        }
+      ],
+      "duration_ms": 221000,
+      "name": "I Refuse (feat. Maria Brink of In This Moment) - 2025 VERSION",
+      "url": "https://open.spotify.com/track/183LHdf7z7LG2eQf10popU"
     },
     {
       "added_at": null,

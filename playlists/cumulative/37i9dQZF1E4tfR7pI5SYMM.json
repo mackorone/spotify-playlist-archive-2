@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With photophor, Dystopian X Vision, SCHANZ and more",
+  "description": "With photophor, SCHANZ, MIK's Reaction and more",
   "name": "Bipolar Superstar Radio",
   "tracks": [
     {
@@ -114,7 +114,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-04",
       "duration_ms": 291866,
       "name": "A Solitary Future",
       "url": "https://open.spotify.com/track/0ShB8rlcQF9yL01mUmAuLx"
@@ -652,7 +652,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-04",
       "duration_ms": 240000,
       "name": "Beyond the Mirrors",
       "url": "https://open.spotify.com/track/5kl6kB7l36sDkOfestcW0e"
@@ -688,7 +688,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-02",
+      "date_removed": null,
       "duration_ms": 235739,
       "name": "Black and Blue",
       "url": "https://open.spotify.com/track/3I3FrHVuIPOjh80qMOLdDx"
@@ -1830,7 +1830,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-04",
       "duration_ms": 185442,
       "name": "Der Jugend Beraubt",
       "url": "https://open.spotify.com/track/5wn8CR7S0aHUmMqonqIoXt"
@@ -2076,7 +2076,7 @@
       ],
       "date_added": "2026-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-04",
       "duration_ms": 287038,
       "name": "Does the body stay",
       "url": "https://open.spotify.com/track/7aJvODFlZgQbaOOphMUMFe"
@@ -2454,7 +2454,7 @@
       ],
       "date_added": "2026-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-04",
       "duration_ms": 352720,
       "name": "Ein Stern",
       "url": "https://open.spotify.com/track/1gb9zmaAAv5ZPvl7XUNxZO"
@@ -2696,6 +2696,24 @@
       "duration_ms": 241060,
       "name": "Enough",
       "url": "https://open.spotify.com/track/3UhS1QFeAcVZHDIOTNAdEz"
+    },
+    {
+      "album": {
+        "name": "Es Mi Calma",
+        "url": "https://open.spotify.com/album/4Gm1H5YqFf4EWkw8yWRNDV"
+      },
+      "artists": [
+        {
+          "name": "La Pestilencia",
+          "url": "https://open.spotify.com/artist/09N5SuYvKJPb6mX34qfeM3"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230624,
+      "name": "Es Mi Calma",
+      "url": "https://open.spotify.com/track/6EN6e88k9JTTyshxyLZkRJ"
     },
     {
       "album": {
@@ -3590,7 +3608,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-01",
+      "date_removed": null,
       "duration_ms": 208661,
       "name": "Greetings From The Half Life",
       "url": "https://open.spotify.com/track/5r89EqCofA1SbES6otsK4Z"
@@ -4928,7 +4946,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-03",
+      "date_removed": null,
       "duration_ms": 340000,
       "name": "Life Whisper & New Life - Reprise",
       "url": "https://open.spotify.com/track/6FhnVWokFfKBvsW33H5HCA"
@@ -5134,7 +5152,7 @@
       ],
       "date_added": "2026-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-04",
       "duration_ms": 194500,
       "name": "Looks like work",
       "url": "https://open.spotify.com/track/4e8Wqyge5XoDJkNnoLc2Jp"
@@ -5910,7 +5928,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-03",
+      "date_removed": null,
       "duration_ms": 180250,
       "name": "Murci\u00e9lagos",
       "url": "https://open.spotify.com/track/7iHa188lPGmeEjffPgjUAR"
@@ -6520,7 +6538,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-04",
       "duration_ms": 318026,
       "name": "Oblivion",
       "url": "https://open.spotify.com/track/5sXaPKfsLeA99AuetE8xHU"
@@ -6664,7 +6682,7 @@
       ],
       "date_added": "2025-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-26",
+      "date_removed": null,
       "duration_ms": 249272,
       "name": "Only What You Love",
       "url": "https://open.spotify.com/track/7joAUdC9IjE7kkpA14WV9Q"
@@ -7834,7 +7852,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-04",
       "duration_ms": 164829,
       "name": "Shadows of Tomorrow",
       "url": "https://open.spotify.com/track/6QIGBSPAtC2Bg6Ccl72TZy"
@@ -7870,7 +7888,7 @@
       ],
       "date_added": "2026-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-02",
+      "date_removed": null,
       "duration_ms": 175710,
       "name": "She's a Monster",
       "url": "https://open.spotify.com/track/7o51VO13qSZu11iVoVZzPC"
@@ -7960,7 +7978,7 @@
       ],
       "date_added": "2026-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-04",
       "duration_ms": 390967,
       "name": "Skyward Bound",
       "url": "https://open.spotify.com/track/5fcBPscU64w3Q0wb6nTfZJ"
@@ -8032,7 +8050,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-03",
+      "date_removed": null,
       "duration_ms": 248000,
       "name": "So Many Dreams",
       "url": "https://open.spotify.com/track/1dBra8NQyJ0x2qBi2nnCHx"
@@ -8356,7 +8374,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-01",
+      "date_removed": null,
       "duration_ms": 365902,
       "name": "Station To Station - 50th Anniversary",
       "url": "https://open.spotify.com/track/1TRnxAoUZWXLUHH2jYeXq7"
@@ -8396,6 +8414,24 @@
       "duration_ms": 238000,
       "name": "Stikk Av",
       "url": "https://open.spotify.com/track/7lhF3iYxfrHxxWrsdLnNxE"
+    },
+    {
+      "album": {
+        "name": "Stiletto Bayonet",
+        "url": "https://open.spotify.com/album/0YNe4wnwyKSGUa9ax8pwut"
+      },
+      "artists": [
+        {
+          "name": "Blast Flashes",
+          "url": "https://open.spotify.com/artist/4QrOkRP9Ipn8RyMPEUqjcz"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170912,
+      "name": "Stiletto Bayonet",
+      "url": "https://open.spotify.com/track/5daVbT38wlzFXmV2KTko54"
     },
     {
       "album": {
@@ -9566,7 +9602,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-28",
+      "date_removed": null,
       "duration_ms": 174481,
       "name": "The Year Of The Snake",
       "url": "https://open.spotify.com/track/3H4GFRUJlKdpf09kvj2YUW"
@@ -9972,7 +10008,7 @@
       ],
       "date_added": "2026-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-04",
       "duration_ms": 243972,
       "name": "Traitor",
       "url": "https://open.spotify.com/track/3cJOKprFvZUYXjJ4no3eoN"
@@ -11246,7 +11282,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-04",
       "duration_ms": 301336,
       "name": "Zulu Alpha",
       "url": "https://open.spotify.com/track/2Un1wf1MC4CEAramid6OoC"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 
 > 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\.   Cover: Verses GT
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,842 likes - 130 songs - 9 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,870 likes - 130 songs - 9 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAu0bePhLMSX.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0fcSBGKwKuIMqCRmsAru3e">Biff Stannard</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 677 likes - 168 songs - 10 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 676 likes - 168 songs - 10 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -148,8 +148,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAu0bePhLMSX.md) - [plain]
 | 138 | [Laisse les dire](https://open.spotify.com/track/6d5cZMU0YqgLvqIfhskVeq) | [Chimène Badi](https://open.spotify.com/artist/04kcokUKRXC8btCcOMLi8z) | [Laisse Les Dire](https://open.spotify.com/album/6tRsIFHli5G81iqqfDtQvw) | 2:34 |
 | 139 | [Chocolate \(Tom Middleton Remix\)](https://open.spotify.com/track/3M3I4n6ttwS6UnnIkYqMYw) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [A Guevara](https://open.spotify.com/artist/1jPP6QhDYcXW9BQKM4qBbr), [Tom Middleton](https://open.spotify.com/artist/7KygebVvltzvrQxNnukuFT) | [Chocolate](https://open.spotify.com/album/7AHDFIYjqbv1R7xc3BLKWE) | 7:40 |
 | 140 | [Tears Will Dry](https://open.spotify.com/track/3IBCq3u9WlzoRoeBWVyfvo) | [Christophe Willem](https://open.spotify.com/artist/0wb3S587JG0riRtdPA6PQD) | [Love Shot Me Down](https://open.spotify.com/album/3pCVtlLvg9OYVOUvr4Gfuv) | 3:09 |
-| 141 | [Spin Me Round](https://open.spotify.com/track/0C5NWIzDFpeDKBjVvpjIAc) | [Boy Tedson](https://open.spotify.com/artist/3QGj0gM2w35fH3gx2ZBoXk) | [Spin Me Round \(Remixes\) \- EP](https://open.spotify.com/album/2OmBbxJdmkiYV0dBmRZu0q) | 3:05 |
-| 142 | [Automatic](https://open.spotify.com/track/71f96Tzf5I7uUokpF9qLG9) | [Sarah Whatmore](https://open.spotify.com/artist/6PJ4B6JfIQb05waZMBC8kQ) | [Automatic](https://open.spotify.com/album/4WQ0xzkKQi7Qrvl36XQlXk) | 3:12 |
+| 141 | [Automatic](https://open.spotify.com/track/71f96Tzf5I7uUokpF9qLG9) | [Sarah Whatmore](https://open.spotify.com/artist/6PJ4B6JfIQb05waZMBC8kQ) | [Automatic](https://open.spotify.com/album/4WQ0xzkKQi7Qrvl36XQlXk) | 3:12 |
+| 142 | [Spin Me Round](https://open.spotify.com/track/0C5NWIzDFpeDKBjVvpjIAc) | [Boy Tedson](https://open.spotify.com/artist/3QGj0gM2w35fH3gx2ZBoXk) | [Spin Me Round \(Remixes\) \- EP](https://open.spotify.com/album/2OmBbxJdmkiYV0dBmRZu0q) | 3:05 |
 | 143 | [Chemical](https://open.spotify.com/track/19KFdeU14iEhw3XpldfEND) | [Matt Cardle](https://open.spotify.com/artist/3906URNmNa1VCXEeiJ3DSH) | [Run For Your Life](https://open.spotify.com/album/7EVFSwvyF8rGcb7oxCqChH) | 3:15 |
 | 144 | [Switch Me On](https://open.spotify.com/track/6nCa6qQomarOsxYbyuyIsl) | [Lovestoned](https://open.spotify.com/artist/0swDGRfKrPnLae05pY43UT) | [Rising Love](https://open.spotify.com/album/2neQHNP33XoCor6RRT664v) | 3:25 |
 | 145 | [Sophisticated Lady](https://open.spotify.com/track/1VOIXNuJp6zYcOaM282xev) | [Mel B](https://open.spotify.com/artist/2vJU4d2jRQb4zJJIQRkyDB) | [Word Up](https://open.spotify.com/album/24RkqLgyBPdNgpPYCfkFtt) | 2:43 |
@@ -177,4 +177,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAu0bePhLMSX.md) - [plain]
 | 167 | [Rettungsschwimmer](https://open.spotify.com/track/20n7znKJtjth2aRVoTD3OS) | [Kinderfete](https://open.spotify.com/artist/3T6CmDs4rszGZqlL7PClxC) | [Kinderfetenhits \(Die Kinder Fetenhits\)](https://open.spotify.com/album/2DZgdqZL5j6x3JpTbV07E5) | 2:45 |
 | 168 | [Never Give Up](https://open.spotify.com/track/1nlGXptwifSiUIrInybCae) | [Jason L\. Smith](https://open.spotify.com/artist/73ynyjKxPklTyMqh11aMog) | [British Dance Invasion, Vol\. 1](https://open.spotify.com/album/23emBcbDlbBqg2sSzXpmNN) | 4:16 |
 
-Snapshot ID: `AcQcvgAAAACv7tL3EF01IY/3yBvEqzd+`
+Snapshot ID: `AcQiXgAAAACnk3vZ3vg8SW+7yfxiLXZQ`

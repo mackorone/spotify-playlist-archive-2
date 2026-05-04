@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 
 > Türkçe rap'in hit şarkıları ve zirveye oynayanlar\. Kapak: Yung Ouzo
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,406,423 likes - 49 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,406,397 likes - 49 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 | 11 | [RASENGAN](https://open.spotify.com/track/6kuTQg01QvpRAA32ZISfuR) | [Kuty](https://open.spotify.com/artist/1spo5AJ302sAMnRXUPlSy1), [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS), [13 Killoki](https://open.spotify.com/artist/2ivdJjs8c34cBxVmNI6zSK) | [RASENGAN](https://open.spotify.com/album/0Y0OHFaCGqVXYKLeXZz5Ok) | 2:28 |
 | 12 | [Vişne](https://open.spotify.com/track/0ZzV6rnJCkM124VwarH4fX) | [Taladro](https://open.spotify.com/artist/2ShoGcsu8kekluGvbggGKQ) | [Vişne](https://open.spotify.com/album/2VvsfX3eFVzjWE55WzFaGn) | 2:47 |
 | 13 | [sanma ki yaşıyorum](https://open.spotify.com/track/7zH71HbdpGVES8lVRIcDDs) | [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0), [ASLAR](https://open.spotify.com/artist/2sQAXdjNpwvs57LUxYzFdA), [Lessio](https://open.spotify.com/artist/7sD4ByMNKsrb4dDBmZxam1), [Astral](https://open.spotify.com/artist/7g6rPQyaKLwHpM6JB4lByD) | [sanma ki yaşıyorum](https://open.spotify.com/album/2LEhF3vteB6Yd6Nqgliq6G) | 2:29 |
-| 14 | [RedBull Freestyle](https://open.spotify.com/track/5Ikbat8g3wLnX2GQCm1h6z) | [Murda](https://open.spotify.com/artist/09WqkYnqWKUQAYSlEvaf6s) | [RedBull Freestyle](https://open.spotify.com/album/0W7PDkvF7Y1SBxRmlOhMNQ) | 1:02 |
+| 14 | [Red Bull Freestyle](https://open.spotify.com/track/5Ikbat8g3wLnX2GQCm1h6z) | [Murda](https://open.spotify.com/artist/09WqkYnqWKUQAYSlEvaf6s) | [Red Bull Freestyle](https://open.spotify.com/album/0W7PDkvF7Y1SBxRmlOhMNQ) | 1:02 |
 | 15 | [Dur Kalk](https://open.spotify.com/track/5purCVXkkO7qkXzlGjjKnd) | [Mode XL](https://open.spotify.com/artist/2qpp3Yjdi0E0D0H1d0Phc1) | [Esenboğa](https://open.spotify.com/album/3QGRn64ZxvCYRiSsnj58WW) | 2:48 |
 | 16 | [Ayıkasım Yok](https://open.spotify.com/track/6CfSHdbPKNkxuo5uqXiKuH) | [EFO](https://open.spotify.com/artist/0lZydBbYE6m9mwNXB0qpsC) | [Ayıkasım Yok](https://open.spotify.com/album/2fmibSCzUFD9u8VqoObr7b) | 3:05 |
 | 17 | [Kan](https://open.spotify.com/track/5vfFSjlw7ABocyHI7QsUK5) | [Massaka](https://open.spotify.com/artist/4Fn5clYETVpCxnIcFSZhr9), [Keskin](https://open.spotify.com/artist/76gCQtIoyzxs0HDKIyQC66) | [Kan](https://open.spotify.com/album/2Uhc0BCUgAUfZ0BHuEDSuZ) | 2:06 |

@@ -4,7 +4,7 @@
 
 > What have we done?
 
-429 songs - 23 hr 19 min
+430 songs - 23 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -370,7 +370,8 @@
 | [The Giver](https://open.spotify.com/track/5xHgo5JN0wfsV41HnRaos5) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Giver](https://open.spotify.com/album/7GicDmV1udDFss8K0QY1v1) | 3:22 | 2025-03-16 | 2025-07-14 |
 | [The Great Divide](https://open.spotify.com/track/77zqs8ucHCSk5jh9TYec4b) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide](https://open.spotify.com/album/1VfncK0Rpng2xCmfkKfO7N) | 5:17 | 2026-01-31 |  |
 | [The Kill](https://open.spotify.com/track/06qDEAG26TspT2yK2NLgEZ) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Don't Forget Me](https://open.spotify.com/album/3q149oaxOiW9EoHXqM5nvO) | 4:11 | 2024-04-16 | 2024-05-28 |
-| [The Market](https://open.spotify.com/track/1xa7R072ZHy5iKxCIKEZhJ) | [Casper TNG](https://open.spotify.com/artist/2YqKOT955onYp7NLWySVZ6), [100Bandplan](https://open.spotify.com/artist/54gXMsMsoa0quu4bwTms8v) | [One Helluvalife](https://open.spotify.com/album/4PW3lw69lppdcGHMM1ZVDQ) | 3:10 | 2026-04-10 |  |
+| [The Market](https://open.spotify.com/track/1xa7R072ZHy5iKxCIKEZhJ) | [Casper TNG](https://open.spotify.com/artist/2YqKOT955onYp7NLWySVZ6), [100Bandplan](https://open.spotify.com/artist/54gXMsMsoa0quu4bwTms8v) | [One Helluvalife](https://open.spotify.com/album/4PW3lw69lppdcGHMM1ZVDQ) | 3:10 | 2026-04-10 | 2026-05-04 |
+| [The Market Remix \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/track/1OsVaHQgD0x4q8byl0yXcF) | [Casper TNG](https://open.spotify.com/artist/2YqKOT955onYp7NLWySVZ6), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [100Bandplan](https://open.spotify.com/artist/54gXMsMsoa0quu4bwTms8v) | [The Market Remix \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/album/7bg5wEjbiAcVKmpixEfmrx) | 3:27 | 2026-05-03 |  |
 | [The One That Got Away](https://open.spotify.com/track/6hkOqJ5mE093AQf2lbZnsG) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream](https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1) | 3:47 | 2026-04-18 |  |
 | [The Other Side](https://open.spotify.com/track/1whkfFxtxHalsQt83YfUGH) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Angel Face \(Club Deluxe\)](https://open.spotify.com/album/3fD6ZQKymy2oP1t6c8NEOc) | 3:16 | 2024-04-29 | 2024-05-28 |
 | [The Subway](https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Subway](https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira) | 4:12 | 2025-08-02 | 2026-03-23 |

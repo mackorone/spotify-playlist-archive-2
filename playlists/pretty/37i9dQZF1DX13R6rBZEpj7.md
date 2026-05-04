@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 
 > Turn up the volume for some filthy bassline!
 
-[Spotify](https://open.spotify.com/user/spotify) - 281,036 likes - 70 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 281,073 likes - 70 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 | 69 | [I'm Not Deep in Love](https://open.spotify.com/track/5dHsal8Ud0vreWyCSOuNy7) | [REESE](https://open.spotify.com/artist/2MRXCqZSMkdI9K46WDWCUX) | [I'm Not Deep in Love](https://open.spotify.com/album/28ahczD4GBPIeeAd44DZ4H) | 2:33 |
 | 70 | [I Just Want U](https://open.spotify.com/track/5B8uSlQlHH8XTQLrK4hJDk) | [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH) | [I Just Want U](https://open.spotify.com/album/0cT99LxUk6j20kOlTurhnD) | 3:28 |
 
-Snapshot ID: `AAAAAKcXXo6EK710o86a67ZgTNzhMWZs`
+Snapshot ID: `AAAAAATX8wSWXkQfsKFBHm8BE47czcU7`

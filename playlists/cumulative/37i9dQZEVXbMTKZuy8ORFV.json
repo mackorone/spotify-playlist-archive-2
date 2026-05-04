@@ -10859,6 +10859,32 @@
     },
     {
       "album": {
+        "name": "Cucu de Teibolera",
+        "url": "https://open.spotify.com/album/4c0lCF1jm6DEWlUKvpHQwu"
+      },
+      "artists": [
+        {
+          "name": "Dj Aza",
+          "url": "https://open.spotify.com/artist/2qsETcaDdvTRTaL3nU4zNK"
+        },
+        {
+          "name": "Dani Flow",
+          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
+        },
+        {
+          "name": "Ledavile",
+          "url": "https://open.spotify.com/artist/4Mm3QHdKwWmHLI6tHYhORk"
+        }
+      ],
+      "date_added": "2026-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149142,
+      "name": "Cucu de Teibolera",
+      "url": "https://open.spotify.com/track/7JPfYORP1DknJ564kbecnT"
+    },
+    {
+      "album": {
         "name": "Amarte Duele (Versiones de Ximena)",
         "url": "https://open.spotify.com/album/06fM2eKOCsrKGxrUWYYSu0"
       },
@@ -12746,7 +12772,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-27",
+      "date_removed": null,
       "duration_ms": 188612,
       "name": "Doma",
       "url": "https://open.spotify.com/track/58cLm4PaHNt8DDr9ayZnNz"
@@ -21034,7 +21060,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-18",
+      "date_removed": null,
       "duration_ms": 206563,
       "name": "If I Get High",
       "url": "https://open.spotify.com/track/3O2pB9JHreUZ9F83qSNmu8"
@@ -21052,7 +21078,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-04",
       "duration_ms": 206573,
       "name": "If I Get High",
       "url": "https://open.spotify.com/track/15I2gq8Nill5zwxabTFD6f"
@@ -31678,7 +31704,7 @@
       ],
       "date_added": "2026-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-02",
+      "date_removed": null,
       "duration_ms": 308813,
       "name": "No Reces al Sol",
       "url": "https://open.spotify.com/track/3lqDnDat1ygA4XASuhpatI"
@@ -38572,7 +38598,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-04",
       "duration_ms": 244073,
       "name": "Sabor Caramelo",
       "url": "https://open.spotify.com/track/4MjGQq5BNhN9g01lZwcRk8"
@@ -47592,7 +47618,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-04",
       "duration_ms": 133746,
       "name": "VELOCIDADE",
       "url": "https://open.spotify.com/track/3J8uUvHttFs8zlYxoiPVe3"
@@ -49292,7 +49318,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-04",
       "duration_ms": 250000,
       "name": "When the Rain Begins to Fall",
       "url": "https://open.spotify.com/track/4BNgHaHriMcnpeR7qdkojU"

@@ -6,7 +6,7 @@
     "name": "Zero625",
     "url": "https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm"
   },
-  "snapshot_id": "AAAAT2HYRb0YYNhlcYnRXyccmjYPhCr6",
+  "snapshot_id": "AAAAULIz93lkvzsznnDZl+dzjGIgtCkw",
   "tracks": [
     {
       "added_at": "2023-03-21 05:28:46",
@@ -1163,6 +1163,26 @@
       "duration_ms": 135626,
       "name": "Tucson Fog",
       "url": "https://open.spotify.com/track/5qxeZ6YpXUiNYLlaQOeLGu"
+    },
+    {
+      "added_at": "2026-05-03 18:27:52",
+      "album": {
+        "name": "Insane",
+        "url": "https://open.spotify.com/album/3o5Dz1PLFlYXplnsp5zZxh"
+      },
+      "artists": [
+        {
+          "name": "Black Gryph0n",
+          "url": "https://open.spotify.com/artist/4ET82ZtSfAK4utfjDauImD"
+        },
+        {
+          "name": "Baasik",
+          "url": "https://open.spotify.com/artist/3bSyv1vO8ye6PKyWcJeVbI"
+        }
+      ],
+      "duration_ms": 159714,
+      "name": "Insane",
+      "url": "https://open.spotify.com/track/5flerg6aEao2VayZezVlgu"
     }
   ],
   "unique_name": "Diseased",

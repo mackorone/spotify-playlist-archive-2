@@ -2277,6 +2277,24 @@
     },
     {
       "album": {
+        "name": "Middle of Nowhere",
+        "url": "https://open.spotify.com/album/269NuTU0YVTRAmvI8uW6Vr"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "date_added": "2026-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188767,
+      "name": "Hell On Me",
+      "url": "https://open.spotify.com/track/3VeiX8rGAwlFMcqV0ScviA"
+    },
+    {
+      "album": {
         "name": "PRETTYMUCH an EP",
         "url": "https://open.spotify.com/album/2rmcMZwrpFewSPsoaC6Dvc"
       },

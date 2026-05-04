@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Zeki Arkun x Simge ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 312,489 likes - 117 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 312,471 likes - 117 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 44 | [Derine \- Live](https://open.spotify.com/track/4PLrZI9mqmLzGgi5SmhQCF) | [Murat Dalkılıç](https://open.spotify.com/artist/6dDaXbE1caD65TONToYXYx) | [Derine \(Live\)](https://open.spotify.com/album/67gyWHv0nhguEp8DPbHQa9) | 4:30 |
 | 45 | [ellerin olma](https://open.spotify.com/track/5eqDXEHkahTd1VVfGxw8vl) | [Umut Timur](https://open.spotify.com/artist/650blPhpj24aloFTk941L3) | [ellerin olma](https://open.spotify.com/album/2lqyIOh6Wf5hAAGYPLqcOb) | 3:04 |
 | 46 | [Vişne](https://open.spotify.com/track/0ZzV6rnJCkM124VwarH4fX) | [Taladro](https://open.spotify.com/artist/2ShoGcsu8kekluGvbggGKQ) | [Vişne](https://open.spotify.com/album/2VvsfX3eFVzjWE55WzFaGn) | 2:47 |
-| 47 | [RedBull Freestyle](https://open.spotify.com/track/5Ikbat8g3wLnX2GQCm1h6z) | [Murda](https://open.spotify.com/artist/09WqkYnqWKUQAYSlEvaf6s) | [RedBull Freestyle](https://open.spotify.com/album/0W7PDkvF7Y1SBxRmlOhMNQ) | 1:02 |
+| 47 | [Red Bull Freestyle](https://open.spotify.com/track/5Ikbat8g3wLnX2GQCm1h6z) | [Murda](https://open.spotify.com/artist/09WqkYnqWKUQAYSlEvaf6s) | [Red Bull Freestyle](https://open.spotify.com/album/0W7PDkvF7Y1SBxRmlOhMNQ) | 1:02 |
 | 48 | [Ayıkasım Yok](https://open.spotify.com/track/6CfSHdbPKNkxuo5uqXiKuH) | [EFO](https://open.spotify.com/artist/0lZydBbYE6m9mwNXB0qpsC) | [Ayıkasım Yok](https://open.spotify.com/album/2fmibSCzUFD9u8VqoObr7b) | 3:05 |
 | 49 | [psikopat](https://open.spotify.com/track/20We96awpZbZmREPXXyssq) | [shao](https://open.spotify.com/artist/7j5nMFqn5f7Gy0ElhOA5QD) | [X2C 22 MAY](https://open.spotify.com/album/4rgTz0UmKwusbiR83xWuYh) | 1:52 |
 | 50 | [Aşk Dediğinden](https://open.spotify.com/track/0o7mi55GmDpEkCclEv6Lkb) | [Sena İris](https://open.spotify.com/artist/6t4HcTpW2c7w9RT5VZvr5i), [Yasir Miy](https://open.spotify.com/artist/2FxIS6uj3aDXwHBU1Y2mBW) | [Aşk Dediğinden](https://open.spotify.com/album/4QdltymjSZFoAL6JZX6el4) | 3:19 |

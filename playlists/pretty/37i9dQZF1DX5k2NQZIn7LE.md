@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5k2NQZIn7LE.md) - [plain]
 
 > Fusion hits from Coke Studio Pakistan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,216 likes - 67 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,222 likes - 67 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

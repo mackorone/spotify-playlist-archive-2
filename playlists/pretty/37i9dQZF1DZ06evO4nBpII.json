@@ -1,12 +1,12 @@
 {
   "description": "This is Green Day. The essential tracks, all in one playlist.",
-  "num_followers": 1683,
+  "num_followers": 1696,
   "original_name": "This Is Green Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afPtAAAAAAD/EFoc+tGD+ViZpGuS5fOr",
+  "snapshot_id": "afU+gAAAAAAfhyYbM8yrai5FTUzNDU1j",
   "tracks": [
     {
       "added_at": null,
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
         }
       ],
-      "duration_ms": 192360,
-      "name": "Waiting",
-      "url": "https://open.spotify.com/track/390SemxFYgPZ3FfGVqiIqt"
+      "duration_ms": 221666,
+      "name": "Warning",
+      "url": "https://open.spotify.com/track/0ue0gFLwvXd8qZIPg35Qiu"
     },
     {
       "added_at": null,
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
         }
       ],
-      "duration_ms": 221666,
-      "name": "Warning",
-      "url": "https://open.spotify.com/track/0ue0gFLwvXd8qZIPg35Qiu"
+      "duration_ms": 192360,
+      "name": "Waiting",
+      "url": "https://open.spotify.com/track/390SemxFYgPZ3FfGVqiIqt"
     },
     {
       "added_at": null,
@@ -799,22 +799,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Saints Are Coming",
-        "url": "https://open.spotify.com/album/3s9hW1Wjsxf2LDyIa9J0il"
+        "name": "Insomniac",
+        "url": "https://open.spotify.com/album/7d3nOmFvL51roNElAdpi9d"
       },
       "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        },
         {
           "name": "Green Day",
           "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
         }
       ],
-      "duration_ms": 202413,
-      "name": "The Saints Are Coming",
-      "url": "https://open.spotify.com/track/2OqCyO684ShnEOqFQieN3Z"
+      "duration_ms": 151173,
+      "name": "Walking Contradiction",
+      "url": "https://open.spotify.com/track/5Mhe8G8RHdQWR30lStPvO5"
     }
   ],
   "unique_name": "This Is Green Day",

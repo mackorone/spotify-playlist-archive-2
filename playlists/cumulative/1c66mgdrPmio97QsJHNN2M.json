@@ -1934,7 +1934,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-24",
+      "date_removed": null,
       "duration_ms": 222644,
       "name": "Atomic Nucleus",
       "url": "https://open.spotify.com/track/5hD7s4IhEGs213qBeo0L98"
@@ -2782,7 +2782,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-20",
+      "date_removed": null,
       "duration_ms": 240349,
       "name": "Baryone",
       "url": "https://open.spotify.com/track/0alxcYdVfPtZwa9tgEPpWh"
@@ -3611,6 +3611,24 @@
     },
     {
       "album": {
+        "name": "Boat Show Buzz",
+        "url": "https://open.spotify.com/album/1oDN8gJcWkTDs6XM5Xkli4"
+      },
+      "artists": [
+        {
+          "name": "Jason Jarrett",
+          "url": "https://open.spotify.com/artist/4rgw61pW4Elbxf14ssmWWO"
+        }
+      ],
+      "date_added": "2026-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191799,
+      "name": "Boat Show Buzz",
+      "url": "https://open.spotify.com/track/16DC3cIF8r9TOVlU7d3vrT"
+    },
+    {
+      "album": {
         "name": "Body",
         "url": "https://open.spotify.com/album/53N1pCCbbS3vCiZ3pXkKPa"
       },
@@ -3770,7 +3788,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-04",
+      "date_removed": null,
       "duration_ms": 252145,
       "name": "Bosun",
       "url": "https://open.spotify.com/track/3KbrMcw3NcxDZ8yRh60wc5"
@@ -4092,7 +4110,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-04",
       "duration_ms": 263702,
       "name": "Brothers and Sisters (Stop the Hate)",
       "url": "https://open.spotify.com/track/4Iyy0mLEmGAYgnHUJ6vdnz"
@@ -5642,7 +5660,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-04",
       "duration_ms": 225321,
       "name": "Confidence",
       "url": "https://open.spotify.com/track/1ar3gYsWn4lgL6OLGm37HU"
@@ -5660,7 +5678,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-04",
       "duration_ms": 225321,
       "name": "Confidence (Instrumental Version)",
       "url": "https://open.spotify.com/track/6NBkVWpvbTXxKBZY33cQib"
@@ -5714,7 +5732,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-08",
+      "date_removed": null,
       "duration_ms": 254188,
       "name": "Cosmic Dust",
       "url": "https://open.spotify.com/track/6qsgG8cSOIzlbx7V0m0roo"
@@ -5732,7 +5750,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-07",
+      "date_removed": null,
       "duration_ms": 179734,
       "name": "Cosmic Rays",
       "url": "https://open.spotify.com/track/5q65o7RTiq8KG13jt4HdFm"
@@ -8542,7 +8560,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-04",
       "duration_ms": 173920,
       "name": "Energy Rising",
       "url": "https://open.spotify.com/track/6TemujJmQlW7jP2ZY7m2xy"
@@ -8806,7 +8824,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-04",
       "duration_ms": 186294,
       "name": "Euphoria",
       "url": "https://open.spotify.com/track/5VroSh6kn4T4jqLb2uW8T8"
@@ -8986,7 +9004,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-04",
       "duration_ms": 202564,
       "name": "Explore (Me)",
       "url": "https://open.spotify.com/track/0QlgCZaQDT2St7r0iA21Ks"
@@ -9116,6 +9134,24 @@
       "duration_ms": 207254,
       "name": "Fading Into You",
       "url": "https://open.spotify.com/track/5VPBujeOcYZ6SJ50pbXZiv"
+    },
+    {
+      "album": {
+        "name": "Seas of silence",
+        "url": "https://open.spotify.com/album/7co99p4zZ4Q92FdM68lEZg"
+      },
+      "artists": [
+        {
+          "name": "DG Productions Audio",
+          "url": "https://open.spotify.com/artist/7FtOuSc2VZTItX9lMMcZyt"
+        }
+      ],
+      "date_added": "2026-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337366,
+      "name": "Fading light",
+      "url": "https://open.spotify.com/track/7gWdjXn00TIfhXLyQfMkfl"
     },
     {
       "album": {
@@ -9618,7 +9654,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-05",
+      "date_removed": null,
       "duration_ms": 277874,
       "name": "Fermion",
       "url": "https://open.spotify.com/track/5FeDG9kHAmqS6gbSRXECr2"
@@ -11778,7 +11814,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-04",
       "duration_ms": 286594,
       "name": "Happy Heart",
       "url": "https://open.spotify.com/track/6nFbQuu4DxjT6FjieiboT2"
@@ -12056,7 +12092,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-04",
       "duration_ms": 161879,
       "name": "Heartbreaker, Bye",
       "url": "https://open.spotify.com/track/5K8NdkjqHkxuvswxkqUbjs"
@@ -13114,6 +13150,24 @@
       "duration_ms": 208050,
       "name": "I Am The Quiet",
       "url": "https://open.spotify.com/track/2FOOHGf0cHZGWPSggyKkFZ"
+    },
+    {
+      "album": {
+        "name": "I Can't Golf (Remix)",
+        "url": "https://open.spotify.com/album/5vMEOHmaxX8wyY45rHj4Dw"
+      },
+      "artists": [
+        {
+          "name": "Jason Jarrett",
+          "url": "https://open.spotify.com/artist/4rgw61pW4Elbxf14ssmWWO"
+        }
+      ],
+      "date_added": "2026-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243679,
+      "name": "I Can't Golf - Remix",
+      "url": "https://open.spotify.com/track/1I13eDpR7aZPCso4U8AHVq"
     },
     {
       "album": {
@@ -14202,7 +14256,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-04",
       "duration_ms": 183529,
       "name": "If You Let Me",
       "url": "https://open.spotify.com/track/1syWpmueH60w2BCBFZHwXB"
@@ -14616,7 +14670,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-04",
       "duration_ms": 107076,
       "name": "Interlude",
       "url": "https://open.spotify.com/track/2QQlnarfx0w7b0Pr4gALzP"
@@ -15990,7 +16044,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-09",
+      "date_removed": null,
       "duration_ms": 237215,
       "name": "Lepton",
       "url": "https://open.spotify.com/track/2KZo0Nv0GO0oAnkCKc66ub"
@@ -16300,7 +16354,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-04",
       "duration_ms": 231916,
       "name": "Life's Good",
       "url": "https://open.spotify.com/track/2h9mFYqMemc0hAgqfks6Bx"
@@ -17244,7 +17298,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-04",
       "duration_ms": 183263,
       "name": "Love Is a Stranger",
       "url": "https://open.spotify.com/track/3hs7FZwopRhxMeyVVohWP9"
@@ -17432,7 +17486,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-04",
       "duration_ms": 234082,
       "name": "Love, Cherish and Laugh",
       "url": "https://open.spotify.com/track/0R7Bou9pgg2rECHa4SPWFN"
@@ -17804,7 +17858,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-04",
       "duration_ms": 192088,
       "name": "Make a Wish",
       "url": "https://open.spotify.com/track/5JdFTfVOnTgoUXeHRmN0nS"
@@ -18923,6 +18977,24 @@
     },
     {
       "album": {
+        "name": "Moovie",
+        "url": "https://open.spotify.com/album/3yZoO3oUo0GPYqhPcTDdOk"
+      },
+      "artists": [
+        {
+          "name": "Slackr",
+          "url": "https://open.spotify.com/artist/4GrBSLkUFMAVRGdnmiM5K8"
+        }
+      ],
+      "date_added": "2026-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174331,
+      "name": "Moovie",
+      "url": "https://open.spotify.com/track/4uWf6AvebvNz5VEJzwflMO"
+    },
+    {
+      "album": {
         "name": "More Cowbell",
         "url": "https://open.spotify.com/album/5rkFMC2qvfJ4dVNpf3LUMi"
       },
@@ -19180,7 +19252,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-10",
+      "date_removed": null,
       "duration_ms": 227213,
       "name": "Muon",
       "url": "https://open.spotify.com/track/1HOsEYLpPqcNUwrHQlVOya"
@@ -21992,7 +22064,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-27",
+      "date_removed": null,
       "duration_ms": 189465,
       "name": "Particles",
       "url": "https://open.spotify.com/track/49h7bW06TzrFLrF8YLi6sg"
@@ -22992,7 +23064,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-18",
+      "date_removed": null,
       "duration_ms": 175708,
       "name": "Proton",
       "url": "https://open.spotify.com/track/1RBuxgLzMhXAUVpvLgHV2l"
@@ -23176,7 +23248,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-17",
+      "date_removed": null,
       "duration_ms": 251773,
       "name": "Quark",
       "url": "https://open.spotify.com/track/6Vxy6AZOxEoS5Cyck5nPvI"
@@ -23252,7 +23324,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-04",
       "duration_ms": 345298,
       "name": "Rabeta",
       "url": "https://open.spotify.com/track/0eYDexzW0uvWbyegrINIR2"
@@ -24086,7 +24158,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-27",
+      "date_removed": null,
       "duration_ms": 189660,
       "name": "Rheum",
       "url": "https://open.spotify.com/track/59eYdw83aWMLoJPW6kgdNZ"
@@ -24350,7 +24422,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-04",
       "duration_ms": 211698,
       "name": "Roar (Instrumental)",
       "url": "https://open.spotify.com/track/5Pu3DsBzhrdr33ZV7oHxzB"
@@ -24404,7 +24476,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-04",
       "duration_ms": 222754,
       "name": "Rollercoaster (Life Is A Rollercoaster)",
       "url": "https://open.spotify.com/track/7rp1lXXfooQnfaQMhicOhR"
@@ -27108,7 +27180,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-04",
       "duration_ms": 174960,
       "name": "Still Moving",
       "url": "https://open.spotify.com/track/0kj5Gtbify9OuTchSeiik0"
@@ -27336,7 +27408,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-04",
       "duration_ms": 179352,
       "name": "Stroll in the Sun",
       "url": "https://open.spotify.com/track/17sI3RmSvGBraRrRnbeArO"
@@ -28116,7 +28188,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-06",
+      "date_removed": null,
       "duration_ms": 204289,
       "name": "Tau Neutrino",
       "url": "https://open.spotify.com/track/2baRIWyOx7rzjpGYSYzBMc"
@@ -28430,7 +28502,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-04",
       "duration_ms": 264568,
       "name": "The Angels and Flutes",
       "url": "https://open.spotify.com/track/5hmAJzeiCkq718PYr14Zmy"
@@ -28484,7 +28556,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-04",
       "duration_ms": 254321,
       "name": "The Black Hole (Instrumental)",
       "url": "https://open.spotify.com/track/2C0z0Z6UiY6A6HveJhMm7P"
@@ -29216,7 +29288,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-04",
       "duration_ms": 218344,
       "name": "The Space Race",
       "url": "https://open.spotify.com/track/0dUVQTaUGr4gxpLgmjk0UM"
@@ -29342,7 +29414,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-04",
       "duration_ms": 243234,
       "name": "The Twerking Song",
       "url": "https://open.spotify.com/track/2rcpN2VorTLV76EZwtgjKc"
@@ -30958,7 +31030,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-04",
       "duration_ms": 342961,
       "name": "Unwinding Spire",
       "url": "https://open.spotify.com/track/3flVmzpFmkclPw3XMwPT1a"

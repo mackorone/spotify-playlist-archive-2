@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tw5tib6ZrB.md) - [plain]
 
 > Monster Hiphop anthems to unlock your day\. Tracks from Latto, Sexxy Red, JT and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,367 likes - 60 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,404 likes - 60 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tw5tib6ZrB.md) - [plain]
 | 59 | [What Did I Miss?](https://open.spotify.com/track/57GsLpRtEtrzcPGPop20rS) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [What Did I Miss?](https://open.spotify.com/album/0bNfrGST1xSPZ3V3g5jjHT) | 3:14 |
 | 60 | [Hard Body](https://open.spotify.com/track/2eg8sfkVl6VlzFydaVFFmt) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Hood Poet Black Heart Edition](https://open.spotify.com/album/3IIGzXdPClsi9LWWqz35XQ) | 3:04 |
 
-Snapshot ID: `AAAAALL1vzOCNAwoRB/KwfexfcT2YqfE`
+Snapshot ID: `AAAAAFfDcI/BVlks/tMJvGI/1mGOON2n`

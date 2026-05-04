@@ -1,12 +1,12 @@
 {
   "description": "This is Victor Thompson. The essential tracks, all in one playlist.",
-  "num_followers": 5980,
+  "num_followers": 5979,
   "original_name": "This Is Victor Thompson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afPtAAAAAAA7LVjGkmJQkyGmmYlXmFMo",
+  "snapshot_id": "afU+gAAAAACE1wNnDQy1TeH5Vcjq69f4",
   "tracks": [
     {
       "added_at": null,
@@ -135,6 +135,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Take It All (Live)",
+        "url": "https://open.spotify.com/album/46cyf59YkYoltsykKt0tEr"
+      },
+      "artists": [
+        {
+          "name": "Phil Thompson",
+          "url": "https://open.spotify.com/artist/3NYwlCIjzmWwNdLPGT9UV8"
+        },
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "duration_ms": 520293,
+      "name": "Jesus, Lamb Of God - Live",
+      "url": "https://open.spotify.com/track/0rxeyFj2CWqOmR5BE09Ihv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "OMG",
         "url": "https://open.spotify.com/album/66y97RsgjPCEUB7AlsZaiT"
       },
@@ -155,26 +175,6 @@
       "duration_ms": 143947,
       "name": "OMG",
       "url": "https://open.spotify.com/track/3MJScW03etExqb2Slzbdhq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Take It All (Live)",
-        "url": "https://open.spotify.com/album/46cyf59YkYoltsykKt0tEr"
-      },
-      "artists": [
-        {
-          "name": "Phil Thompson",
-          "url": "https://open.spotify.com/artist/3NYwlCIjzmWwNdLPGT9UV8"
-        },
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 520293,
-      "name": "Jesus, Lamb Of God - Live",
-      "url": "https://open.spotify.com/track/0rxeyFj2CWqOmR5BE09Ihv"
     },
     {
       "added_at": null,

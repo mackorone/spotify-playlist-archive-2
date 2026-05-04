@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-468 songs - 1 day 5 hr 12 min
+472 songs - 1 day 5 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Cansado del amor](https://open.spotify.com/track/12IELCO5NmSEIk6x8CoDHT) | [Pandino](https://open.spotify.com/artist/0uOaofBqG9uFHU7ksh6huW) | [Soñando Despierto](https://open.spotify.com/album/5MjbVM1gA4q3ioxHxCCdcc) | 2:43 | 2025-12-01 | 2025-12-17 |
 | [Captain Frenchy](https://open.spotify.com/track/4NoRvNC07A2CQey6K73d09) | [Teymur Karimli](https://open.spotify.com/artist/21FB5CWks6Hpc9kc7M2JZw) | [Captain Frenchy](https://open.spotify.com/album/5790XMNa3mSfofFLXkS8HR) | 3:20 | 2025-11-09 |  |
 | [Castaway](https://open.spotify.com/track/7oEXp5pzlZIGafGaAM3ibD) | [James Sebastian](https://open.spotify.com/artist/6IX76Xz04QnJdDtcDIfoD6) | [Castaway](https://open.spotify.com/album/5omwhRrrco9U57TmhEu1D9) | 3:49 | 2025-12-31 | 2026-03-18 |
+| [Catch Catch](https://open.spotify.com/track/2O9bMJticxbQ8FH3NiQ7Xh) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) | [LOVE CATCHER](https://open.spotify.com/album/1IxQnpYIIFY9F2IVVsD27F) | 3:00 | 2026-05-03 |  |
 | [Caught in the Stillness](https://open.spotify.com/track/2tDI6WG6dRN7dzIgUpT3B3) | [The Hollow Frays](https://open.spotify.com/artist/4p9MmGhxHuh8SEcsOTiU9L) | [Caught in the Stillness](https://open.spotify.com/album/0UQ0WNh2D6S0InS8ETa4v7) | 3:26 | 2026-03-01 | 2026-03-18 |
 | [Chain of Tears](https://open.spotify.com/track/08SiekDZZVLFZOuXH6hyjb) | [NEBO](https://open.spotify.com/artist/1xa8wXy8Vr8bNIZBXC5MzW) | [Metaphysical Machines](https://open.spotify.com/album/72ySfGq5j24M8HZe9JvSNq) | 4:33 | 2026-03-15 |  |
 | [Chasing Yesterday](https://open.spotify.com/track/3pke4JWohWzavXdgJe0wR4) | [FuzzBeat](https://open.spotify.com/artist/3tlQEPigCWjJl4mCY97UYV) | [Chasing Yesterday](https://open.spotify.com/album/2bZ7Mt7GGbp1cB0K355wDw) | 3:20 | 2025-12-31 | 2026-03-18 |
@@ -247,6 +248,7 @@
 | [Love dont live here no more](https://open.spotify.com/track/46ddaPksuVwz9I1I0MELlU) | [Ario Nanaj](https://open.spotify.com/artist/3oxKAakkUQ02MoRb5Z6qrq) | [Echos From The Mountains](https://open.spotify.com/album/06rsDsZw8cpL50L92qtRmT) | 4:25 | 2026-01-27 | 2026-03-18 |
 | [Love Is a Choice](https://open.spotify.com/track/69oAJNVNo3OJ7U1Y3bNUQC) | [NEBO](https://open.spotify.com/artist/1xa8wXy8Vr8bNIZBXC5MzW) | [Love Is a Choice](https://open.spotify.com/album/78mtCHFjzhg2fk3uptgo49) | 2:30 | 2026-04-12 |  |
 | [Love is Alive](https://open.spotify.com/track/37cN267Fk7TmCieQb9ew9U) | [Hoss Carl](https://open.spotify.com/artist/5OTamahcB1uXMerWExIRol) | [Love is Alive](https://open.spotify.com/album/6i1jTWMfDp49yt9uRBCAQf) | 4:05 | 2025-11-24 | 2025-12-17 |
+| [Love Lies Cold](https://open.spotify.com/track/2ppN2JHxGi6wps7RBBlZUu) | [Julience](https://open.spotify.com/artist/4SlykBMGNk8EXDDFfphLvL) | [Love Lies Cold](https://open.spotify.com/album/4BvAfPva3VDcDqAvb8n9sO) | 4:11 | 2026-05-03 |  |
 | [LTK](https://open.spotify.com/track/44Qqn1dhvDng9pLPANoRGh) | [Steve Schwartz](https://open.spotify.com/artist/0rFuKciUQDbtEQmQ6XJ4YQ) | [LTK](https://open.spotify.com/album/3j7jt2dabJflTVhsgznvVO) | 3:52 | 2025-12-22 | 2026-04-21 |
 | [Lucha](https://open.spotify.com/track/3uukDbfr18JxhaGbqijTWT) | [Flores & Mcewen](https://open.spotify.com/artist/1qpP1qC1284dxZNqHwoGnp) | [Lucha](https://open.spotify.com/album/6YiYSdZZMLpnjlMwM4Ljm0) | 3:15 | 2026-03-14 | 2026-04-21 |
 | [Mad Puppies](https://open.spotify.com/track/1BCF3qP2Tm8YL9Lo1VmcHA) | [Bit Commander](https://open.spotify.com/artist/53aISfz35xV7ZbrD9vQBPF) | [Mad Puppies](https://open.spotify.com/album/08M39olgNPLTRMjpa6pf0u) | 2:08 | 2025-12-16 | 2026-04-21 |
@@ -291,6 +293,7 @@
 | [No Time for Time](https://open.spotify.com/track/4XESNRQzbdf03VrqVlIxnG) | [Highway Wolf](https://open.spotify.com/artist/6WKdYl11XpIoIGJCV6AeXE) | [No Time for Time](https://open.spotify.com/album/4SA2hbZm7r4poKfHHhraP3) | 5:54 | 2026-03-22 | 2026-04-21 |
 | [Not Giving In](https://open.spotify.com/track/5LnDGWm6yvbYUnoL6oVcdk) | [Ludwig Jonsson](https://open.spotify.com/artist/6pWJeM6v6cLKjblDNWYNdx) | [Not Giving In](https://open.spotify.com/album/0mY4ByCfrVvMUaBgJMZPwr) | 2:34 | 2025-11-12 | 2025-12-17 |
 | [Nowhere](https://open.spotify.com/track/4C3UhidYKXi9xtImKtIOQ0) | [Evocrafted](https://open.spotify.com/artist/457flXJV5U0ynJI1odPwSh) | [Nowhere](https://open.spotify.com/album/4DF5CGRXs4yRl1cAAY7lST) | 3:29 | 2026-02-09 | 2026-03-18 |
+| [Nuove Rotte](https://open.spotify.com/track/59nbSqtxgppRtUVa65xwHk) | [Lorenzo Colucci](https://open.spotify.com/artist/4BRWgyOnIuVwX5T3yEpE6c) | [Nuove Rotte](https://open.spotify.com/album/3bMnU5S6r8mhq7Rt9sXkcd) | 3:15 | 2026-05-03 |  |
 | [Nuvens](https://open.spotify.com/track/0SejuWnZQoAT88poImtMiy) | [Felipe Roth](https://open.spotify.com/artist/4fLMGUYffJu0m5W20zKMqh) | [Vida na Estrada](https://open.spotify.com/album/4XfA2gMTG2IXlpXaVhjsYn) | 2:59 | 2025-10-09 | 2025-11-28 |
 | [NYC](https://open.spotify.com/track/1XV6HbFuk6d2e5WnOEnSPo) | [House of Light](https://open.spotify.com/artist/0FaJUAl3mBp7WR82pF7WHp) | [21st Century Prayer](https://open.spotify.com/album/0YaMrVDCvO6AZDmHFGSRSk) | 3:32 | 2025-10-07 | 2025-11-28 |
 | [Ocean Life](https://open.spotify.com/track/7bvXe56Ce0h4gtiU0xWzuM) | [Still Crash](https://open.spotify.com/artist/4nxuNWss1Y7gLSIn4I2mNu) | [The Alchemindmistyc](https://open.spotify.com/album/21DJLojbuDUBIGslS0yIIc) | 7:00 | 2025-10-18 | 2025-11-28 |
@@ -349,6 +352,7 @@
 | [Run Run Rudolf](https://open.spotify.com/track/2DOb4zdUX9Y2i82w2M0g2Y) | [Amelina](https://open.spotify.com/artist/2KB8CcoEbyUA0hP58619Iu) | [Season of Joy](https://open.spotify.com/album/7eu9Q8J8RkTsB2NwbrhL94) | 2:26 | 2025-12-30 | 2026-03-18 |
 | [Runnin' Down A Dream](https://open.spotify.com/track/4cygbs2nGxNUW83x7Gceip) | [W\. Charles Hall](https://open.spotify.com/artist/1YJgR9U2T5deghpvxv7VSj) | [Heartland](https://open.spotify.com/album/3qamfjUyjGNTFBDxI6g9uY) | 4:06 | 2026-02-05 | 2026-03-18 |
 | [Running \- Acoustic Version](https://open.spotify.com/track/5jEbpt1f9Juw7UTdu67SRJ) | [Boogie and the Mean Machine](https://open.spotify.com/artist/7p3NuBEpuN2PDVFCbKvc6m) | [The Classics of Love](https://open.spotify.com/album/3012TUcrbqKtJ3hTsQsvvh) | 2:29 | 2025-10-01 | 2025-12-17 |
+| [Rust and Ruin](https://open.spotify.com/track/3kB1rGX0EteP1IPVBXHlFU) | [The Copperhead Saints](https://open.spotify.com/artist/25r3BsZgbzPfLCarFu1zTS) | [Hymns for the Hard\-Hearted](https://open.spotify.com/album/76qFdjyzqdqGjFewTlreh2) | 5:04 | 2026-05-03 |  |
 | [Saffron Desert](https://open.spotify.com/track/6KYCDti7qANpsQuyUpR5h5) | [LYSERIUS](https://open.spotify.com/artist/6TSYnE6dlIHSSJ1aOxHcpp) | [Saffron Desert](https://open.spotify.com/album/1JOu4mZyOanf5dpfaIGMm7) | 5:54 | 2026-01-06 | 2026-03-18 |
 | [Schwarzer Tag](https://open.spotify.com/track/4g9TF07neCl7oZf50PGsQ6) | [Onexx](https://open.spotify.com/artist/5VauwpnaW66TvC0HrJ8ISv) | [Schwarzer Tag](https://open.spotify.com/album/0yWvmpUZP2IoZhNdR9K5Ql) | 3:01 | 2025-10-30 | 2025-12-17 |
 | [See The Fun](https://open.spotify.com/track/5Usry4IsZuNFBNSjUE6DUb) | [Park Crescent](https://open.spotify.com/artist/0eH4YPI7CuV9eWHgjxvqwH) | [See The Fun](https://open.spotify.com/album/2DrEO9bJMAeqNVHCkpcw4y) | 3:11 | 2026-03-28 | 2026-04-21 |

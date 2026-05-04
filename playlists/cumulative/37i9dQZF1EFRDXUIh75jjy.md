@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3lU5u0XAQ25ta8AmlI0SCB">Steph Jones</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-313 songs - 16 hr 0 min
+314 songs - 16 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [Heavy Metal](https://open.spotify.com/track/5YM9jQQsPGrZdQWyUM33cR) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [Fatal Optimist](https://open.spotify.com/album/5nr1WsFgzermy9sTeuAqGC) | 3:55 | 2025-10-18 |  |
 | [HEAVYWEIGHT](https://open.spotify.com/track/09Xano9Q7PRllK5t3qk74l) | [ill peach](https://open.spotify.com/artist/79E3M2o4FRthRViQXaCWDt) | [THIS IS NOT AN EXIT](https://open.spotify.com/album/34p9nqyJhDgyoGlLyecjHh) | 3:13 | 2024-06-07 |  |
 | [HEAVYWEIGHT \(feat\. Madi Diaz\)](https://open.spotify.com/track/0NppFNk2PWewpJ6sa2NJtJ) | [ill peach](https://open.spotify.com/artist/79E3M2o4FRthRViQXaCWDt), [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [HEAVYWEIGHT \(feat\. Madi Diaz\)](https://open.spotify.com/album/4oz5gWyUsn17qOnNH39PEY) | 3:11 | 2025-02-20 |  |
+| [Hell On Me](https://open.spotify.com/track/3VeiX8rGAwlFMcqV0ScviA) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Middle of Nowhere](https://open.spotify.com/album/269NuTU0YVTRAmvI8uW6Vr) | 3:08 | 2026-05-03 |  |
 | [Hello](https://open.spotify.com/track/5O23P3zSmEh3GP9g9NFPBS) | [PRETTYMUCH](https://open.spotify.com/artist/5Y8eJDj37KhaEeqbVO7Ag1) | [PRETTYMUCH an EP](https://open.spotify.com/album/2rmcMZwrpFewSPsoaC6Dvc) | 3:33 | 2024-06-07 |  |
 | [Here Comes The Sun](https://open.spotify.com/track/1hTT4PtXnqmQ9UuEpCl0WA) | [Dylan Schneider](https://open.spotify.com/artist/5lRB3MAJfKzlt7dgYMHWgY) | [PUZZLED](https://open.spotify.com/album/3pxSPXoAtymp2WjtmdgSyo) | 2:44 | 2024-10-12 |  |
 | [Here I Come](https://open.spotify.com/track/0fjGRLRER2rCKZfiuUBDwr) | [Dara Reneé](https://open.spotify.com/artist/7BtVR5EyH1mjLM5bjXUD5s), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [High School Musical: The Musical: The Series \(Original Soundtrack/Season 3\)](https://open.spotify.com/album/71FLsJroKR8vr5BbWRZHGc) | 3:17 | 2024-06-07 |  |

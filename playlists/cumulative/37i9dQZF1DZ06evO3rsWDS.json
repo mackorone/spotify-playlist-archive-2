@@ -422,7 +422,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-04",
       "duration_ms": 225920,
       "name": "Devu\u00e9lveme El Amor",
       "url": "https://open.spotify.com/track/2SfvqP7CmfIBct2KxFEnlp"
@@ -686,10 +686,36 @@
       ],
       "date_added": "2025-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-04",
       "duration_ms": 159834,
       "name": "FLORES",
       "url": "https://open.spotify.com/track/1GrRXD8ZggZvsGEIOdoafP"
+    },
+    {
+      "album": {
+        "name": "Janney",
+        "url": "https://open.spotify.com/album/25X59yD47dtzAAq6bzXliA"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        },
+        {
+          "name": "Bamboo",
+          "url": "https://open.spotify.com/artist/4Mp4FOTjHHQlFJki4p1lpZ"
+        },
+        {
+          "name": "Mr. Vallenato",
+          "url": "https://open.spotify.com/artist/4u599RTtgzxHtNRT2z26va"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165446,
+      "name": "FREE",
+      "url": "https://open.spotify.com/track/0BCxiIsehp7HHnvSeQGBJD"
     },
     {
       "album": {
@@ -762,6 +788,28 @@
       "duration_ms": 197288,
       "name": "F\u00c9NIX",
       "url": "https://open.spotify.com/track/7p1RLdZGQPDlRFa4tBoIqi"
+    },
+    {
+      "album": {
+        "name": "Janney",
+        "url": "https://open.spotify.com/album/25X59yD47dtzAAq6bzXliA"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        },
+        {
+          "name": "Arroba Nat",
+          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197040,
+      "name": "F\u00c9NIX",
+      "url": "https://open.spotify.com/track/20dSt1ZS1lfJDzvkgmRSnq"
     },
     {
       "album": {

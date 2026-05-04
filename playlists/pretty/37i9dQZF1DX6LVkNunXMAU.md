@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LVkNunXMAU.md) - [plain]
 
 > indie folk latino de estación\. Foto: Ine Güemes
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,879 likes - 95 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,896 likes - 95 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LVkNunXMAU.md) - [plain]
 | 94 | [agridulce](https://open.spotify.com/track/35U9ETMmcj32t9fymTtB8E) | [Sofia Macchi](https://open.spotify.com/artist/4gtaTXIhBK1iyVUAkB2YZu) | [agridulce](https://open.spotify.com/album/23lJAT0ZkOKltkb2bFxovo) | 3:00 |
 | 95 | [De Haber Sabido](https://open.spotify.com/track/1Z88J2aTfSa1JzYUq7HoFu) | [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ), [Diego Lorenzini](https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4) | [Lo Primero](https://open.spotify.com/album/0uiItrX0S62V8IN88h0p3Q) | 3:08 |
 
-Snapshot ID: `AAAAABDWTTDFmNom831828Da0o87xMwj`
+Snapshot ID: `AAAAAP5jWOMuF/rtt0Hek12g9GksfKmL`
