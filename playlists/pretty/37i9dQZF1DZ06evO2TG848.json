@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afU+gAAAAADZFtkTA4xCBpmJ9kllOLIg",
+  "snapshot_id": "afaQAAAAAACMIiwbGcYyJ+6Qjzqje7Cu",
   "tracks": [
     {
       "added_at": null,
@@ -755,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Camino",
-        "url": "https://open.spotify.com/album/6ZYBjNB7SqYvsbAs9F78CN"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Santaolalla",
-          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
-        }
-      ],
-      "duration_ms": 101100,
-      "name": "Ella",
-      "url": "https://open.spotify.com/track/5Uz25QNtRcdOKZhqkpATne"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Last of Us - Vol. 2 (Video Game Soundtrack)",
         "url": "https://open.spotify.com/album/4NXjMFIEp6eJWM3ZRxWDoV"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 180306,
       "name": "Fleeting",
       "url": "https://open.spotify.com/track/78kwoqFcDxUyrNThLywZlp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Camino",
+        "url": "https://open.spotify.com/album/6ZYBjNB7SqYvsbAs9F78CN"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "duration_ms": 101100,
+      "name": "Ella",
+      "url": "https://open.spotify.com/track/5Uz25QNtRcdOKZhqkpATne"
     },
     {
       "added_at": null,
@@ -819,22 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Camino",
-        "url": "https://open.spotify.com/album/6ZYBjNB7SqYvsbAs9F78CN"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Santaolalla",
-          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
-        }
-      ],
-      "duration_ms": 222834,
-      "name": "Seguir",
-      "url": "https://open.spotify.com/track/3vBLmHQcr0z5D7ObTCqfVu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Qhapaq \u00d1an",
         "url": "https://open.spotify.com/album/5rFwK0uMpzhZh4l1RWrhjw"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 202906,
       "name": "La Noche Ya Es D\u00eda",
       "url": "https://open.spotify.com/track/0BL1NoWM5pReYf3Gb3BiuJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Camino",
+        "url": "https://open.spotify.com/album/6ZYBjNB7SqYvsbAs9F78CN"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "duration_ms": 222834,
+      "name": "Seguir",
+      "url": "https://open.spotify.com/track/3vBLmHQcr0z5D7ObTCqfVu"
     },
     {
       "added_at": null,

@@ -254,7 +254,7 @@
       ],
       "date_added": "2023-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 92773,
       "name": "CLEAR \uff5eTV\u30b5\u30a4\u30ba\uff5e",
       "url": "https://open.spotify.com/track/1RCEEjexdySvwstGnBEVJs"
@@ -402,7 +402,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 257026,
       "name": "eternal return",
       "url": "https://open.spotify.com/track/00zDrFpVH9js3GZGIX4xu9"
@@ -868,7 +868,7 @@
       ],
       "date_added": "2025-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 274946,
       "name": "Remedy",
       "url": "https://open.spotify.com/track/0R4m9VGre46iGu1kfW2JAf"
@@ -1961,6 +1961,24 @@
     },
     {
       "album": {
+        "name": "\u30b0\u30ec\u30fc\u30d7\u30d5\u30eb\u30fc\u30c4",
+        "url": "https://open.spotify.com/album/3DoNxjRSTZnR4NLrQZhTFO"
+      },
+      "artists": [
+        {
+          "name": "Maaya Sakamoto",
+          "url": "https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241205,
+      "name": "\u30dd\u30b1\u30c3\u30c8\u3092\u7a7a\u306b\u3057\u3066",
+      "url": "https://open.spotify.com/track/4nhX5QSKpSrA9PElJrJUvP"
+    },
+    {
+      "album": {
         "name": "\u300c\u3053\u3070\u3068\u3002\u300d\u30aa\u30fc\u30d7\u30cb\u30f3\u30b0\u30c6\u30fc\u30de\u3000\u30de\u30b8\u30c3\u30af\u30ca\u30f3\u30d0\u30fc",
         "url": "https://open.spotify.com/album/5vvmNygwCzLKPuXwygrfIv"
       },
@@ -2988,7 +3006,7 @@
       ],
       "date_added": "2025-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 343066,
       "name": "\u9006\u5149 -unplugged session-",
       "url": "https://open.spotify.com/track/3otsDATxGR5wvTEoCOkM82"
@@ -3010,6 +3028,24 @@
       "duration_ms": 315378,
       "name": "\u96e8\u304c\u964d\u308b",
       "url": "https://open.spotify.com/track/7pJmowV8EnAPMIwCgbFHQ0"
+    },
+    {
+      "album": {
+        "name": "everywhere I",
+        "url": "https://open.spotify.com/album/7xG3nzuiSnUvaz1r0PfY1G"
+      },
+      "artists": [
+        {
+          "name": "Maaya Sakamoto",
+          "url": "https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353603,
+      "name": "\u98a8\u304c\u5439\u304f\u65e5\uff08Ma-aya version\uff09",
+      "url": "https://open.spotify.com/track/62LX9aAiafyFvZxjvJ0DiV"
     },
     {
       "album": {

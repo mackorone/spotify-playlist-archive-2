@@ -1,12 +1,12 @@
 {
   "description": "This is Emicida. The essential tracks, all in one playlist.",
-  "num_followers": 174186,
+  "num_followers": 174200,
   "original_name": "This Is Emicida",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afU+gAAAAAAmN/d79aKyND2kGrqnPbmB",
+  "snapshot_id": "afaQAAAAAADpXqqwl6n0EvYOgIcfokQq",
   "tracks": [
     {
       "added_at": null,
@@ -690,19 +690,11 @@
         {
           "name": "Emicida",
           "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        },
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "Projota",
-          "url": "https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K"
         }
       ],
-      "duration_ms": 344373,
-      "name": "A mema pra\u00e7a",
-      "url": "https://open.spotify.com/track/6j02jeNHYIiQmEooAaE4kP"
+      "duration_ms": 115200,
+      "name": "O que n\u00f3iz faz com essa dor?",
+      "url": "https://open.spotify.com/track/0N1jAQTeTbmibSZERYl4ER"
     },
     {
       "added_at": null,
@@ -935,6 +927,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Barbatuques Convida",
+        "url": "https://open.spotify.com/album/1OB2x4jljcbR73eRD76M6W"
+      },
+      "artists": [
+        {
+          "name": "Barbatuques",
+          "url": "https://open.spotify.com/artist/5xnMjuPp1eDXa8du0SKIHD"
+        },
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "duration_ms": 173812,
+      "name": "Levanta e Anda",
+      "url": "https://open.spotify.com/track/20oJG8uVRwGEnIAejJtJ6k"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Criolo E Emicida Ao Vivo (Live)",
         "url": "https://open.spotify.com/album/3xfZtthn2dlFtFfyyYKEf8"
       },
@@ -955,26 +967,6 @@
       "duration_ms": 188666,
       "name": "S\u00f3 Mais Uma Noite - Live",
       "url": "https://open.spotify.com/track/4dr8LN0s4WhnLLTzfsZkj5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Barbatuques Convida",
-        "url": "https://open.spotify.com/album/1OB2x4jljcbR73eRD76M6W"
-      },
-      "artists": [
-        {
-          "name": "Barbatuques",
-          "url": "https://open.spotify.com/artist/5xnMjuPp1eDXa8du0SKIHD"
-        },
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        }
-      ],
-      "duration_ms": 173812,
-      "name": "Levanta e Anda",
-      "url": "https://open.spotify.com/track/20oJG8uVRwGEnIAejJtJ6k"
     },
     {
       "added_at": null,
@@ -1015,30 +1007,6 @@
       "duration_ms": 231533,
       "name": "S\u00f3 Isso",
       "url": "https://open.spotify.com/track/6HWD7W8mDDnSy18GFwuHt7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Criolo E Emicida Ao Vivo (Live)",
-        "url": "https://open.spotify.com/album/3xfZtthn2dlFtFfyyYKEf8"
-      },
-      "artists": [
-        {
-          "name": "Criolo",
-          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
-        },
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        },
-        {
-          "name": "Mano Brown",
-          "url": "https://open.spotify.com/artist/0fMjaafeNhHPA6mJ5ZglAJ"
-        }
-      ],
-      "duration_ms": 271840,
-      "name": "Vida Loka I - Live",
-      "url": "https://open.spotify.com/track/3KYbhVPCxYHIeZg8Zy07ay"
     },
     {
       "added_at": null,
@@ -1087,6 +1055,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Criolo E Emicida Ao Vivo (Live)",
+        "url": "https://open.spotify.com/album/3xfZtthn2dlFtFfyyYKEf8"
+      },
+      "artists": [
+        {
+          "name": "Criolo",
+          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
+        },
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Mano Brown",
+          "url": "https://open.spotify.com/artist/0fMjaafeNhHPA6mJ5ZglAJ"
+        }
+      ],
+      "duration_ms": 271840,
+      "name": "Vida Loka I - Live",
+      "url": "https://open.spotify.com/track/3KYbhVPCxYHIeZg8Zy07ay"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rock In Rio (Ao Vivo)",
         "url": "https://open.spotify.com/album/4ZLLVCn6RnlENQ0nhAS5sS"
       },
@@ -1111,6 +1103,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pra Quem J\u00e1 Mordeu um Cachorro por Comida At\u00e9 Que Eu Cheguei Longe",
+        "url": "https://open.spotify.com/album/26HxsUCUfYg5xDixUcBjla"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "duration_ms": 194240,
+      "name": "Sozim",
+      "url": "https://open.spotify.com/track/2l6Cfr8vIkONQJKQRRHnsz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sobe junto",
         "url": "https://open.spotify.com/album/3hmUh5giqCBLlFLUrhnFPa"
       },
@@ -1131,22 +1139,6 @@
       "duration_ms": 205440,
       "name": "Sobe junto",
       "url": "https://open.spotify.com/track/67aYew5Aa9CAhSWPzviiGy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pra Quem J\u00e1 Mordeu um Cachorro por Comida At\u00e9 Que Eu Cheguei Longe",
-        "url": "https://open.spotify.com/album/26HxsUCUfYg5xDixUcBjla"
-      },
-      "artists": [
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        }
-      ],
-      "duration_ms": 194240,
-      "name": "Sozim",
-      "url": "https://open.spotify.com/track/2l6Cfr8vIkONQJKQRRHnsz"
     }
   ],
   "unique_name": "This Is Emicida",

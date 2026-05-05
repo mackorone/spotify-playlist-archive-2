@@ -1,12 +1,12 @@
 {
   "description": "This is Andre Hazes. The essential tracks, all in one playlist.",
-  "num_followers": 108446,
+  "num_followers": 108445,
   "original_name": "This Is Andre Hazes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afU+gAAAAADbU6jL9nJlUeI6h4wQ7YaI",
+  "snapshot_id": "afaQAAAAAAA6qd7AhXQ3KVu2bR7KmRcu",
   "tracks": [
     {
       "added_at": null,
@@ -155,22 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alle 40 Goed",
-        "url": "https://open.spotify.com/album/176ACFYhpCwXy4vy6FS0yc"
-      },
-      "artists": [
-        {
-          "name": "Andre Hazes",
-          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
-        }
-      ],
-      "duration_ms": 219573,
-      "name": "De Vlieger",
-      "url": "https://open.spotify.com/track/6cMVopr4k5Fexl6zjB2EDr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Zomer In M'n Bol (feat. Andr\u00e9 Hazes)",
         "url": "https://open.spotify.com/album/0icN1DUr8DrI9W58Sc3DyH"
       },
@@ -195,6 +179,22 @@
       "duration_ms": 152285,
       "name": "Zomer In M'n Bol (feat. Andr\u00e9 Hazes)",
       "url": "https://open.spotify.com/track/4pPsZePbOzRPERqPYupISb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alle 40 Goed",
+        "url": "https://open.spotify.com/album/176ACFYhpCwXy4vy6FS0yc"
+      },
+      "artists": [
+        {
+          "name": "Andre Hazes",
+          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
+        }
+      ],
+      "duration_ms": 219573,
+      "name": "De Vlieger",
+      "url": "https://open.spotify.com/track/6cMVopr4k5Fexl6zjB2EDr"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-1,010 songs - 2 day 11 hr 10 min
+1,013 songs - 2 day 11 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Blind Spots](https://open.spotify.com/track/36bHS8wNHBoj3EcBFNQqHr) | [Burton Badman](https://open.spotify.com/artist/1kSiVL0AysDQHiEFuhk3dm) | [Crazy Chemistry](https://open.spotify.com/album/0J23Fv2L7xHyQ8TyKJamHc) | 4:46 | 2026-04-27 |  |
 | [Blue Alice](https://open.spotify.com/track/6J5inB2auQ7YZwzMSGZllI) | [South August](https://open.spotify.com/artist/0xIi0tD6QNXv9Oq0lEw2Bl) | [Itching Through the Permafrost](https://open.spotify.com/album/21aFPA1VXrE7OtKVCBNPyY) | 2:09 | 2026-03-09 | 2026-04-12 |
 | [Blue Crush](https://open.spotify.com/track/4HTgkU4eIGE3f5PH91Q007) | [Serena Rae](https://open.spotify.com/artist/4S5i1YFUxdqqDrogeD1aIf) | [WHAT](https://open.spotify.com/album/1PFqMwYSrw0zZA8QsZbU82) | 3:05 | 2025-12-15 | 2026-01-15 |
+| [blue moon \(remastered\)](https://open.spotify.com/track/590SzWRpBK7UOyFXnqVH8Z) | [Reject Madrigal](https://open.spotify.com/artist/7lOQKkSHBPbmIexScbnPlu) | [Technicolor \(Side A\)](https://open.spotify.com/album/7HiQFIAt9nK0LeALQOLYib) | 4:51 | 2026-05-04 |  |
 | [Blues for Tony Scott](https://open.spotify.com/track/6Icf938CGsjCiwItxauFnN) | [Bob Salmieri](https://open.spotify.com/artist/13WVJToFNF7CLqefdFdoqa), [Alessandro De Angelis](https://open.spotify.com/artist/1J6KmEHFsMbcuPxfY2Ehs2), [Erodoto Project](https://open.spotify.com/artist/0xRMcCIFa30RXvMGpTaDir) | [Blues for Tony Scott](https://open.spotify.com/album/2F9C6ndwa0IpLDDMflVQiN) | 5:02 | 2024-04-05 | 2025-12-28 |
 | [Body of Bruises](https://open.spotify.com/track/5NT8ptt0jy49RqX554U7ty) | [Nuna Shoesmith Sextet](https://open.spotify.com/artist/27DutwUI3nP1AZa96t8SuD) | [Courage](https://open.spotify.com/album/22yRsZW1KCaJdUe74GSdKq) | 4:28 | 2023-04-20 | 2025-11-29 |
 | [Boltneck](https://open.spotify.com/track/6igTRenZofbW7sR9zElLja) | [The Trespassers](https://open.spotify.com/artist/4uLDuEBgtKBoOjCjBYMrtF) | [Boltneck](https://open.spotify.com/album/2GZSgTWpVYLXapQsOfjgYZ) | 4:20 | 2025-12-16 | 2026-01-15 |
@@ -596,6 +597,7 @@
 | [Nikà](https://open.spotify.com/track/21IwyotvKTpn9LBOphRQNx) | [I Musicanti di Gregorio Caimi](https://open.spotify.com/artist/4FdC3GeTxEwmOLyg9bgYnp) | [Arsura](https://open.spotify.com/album/00dqH3DRTC4WWFQ6biEIeV) | 3:40 | 2023-04-20 | 2025-11-29 |
 | [Nina the Dressmaker](https://open.spotify.com/track/753qgf9vKNuImbtcpt46qn) | [Bob Salmieri Bastarduna Quintet](https://open.spotify.com/artist/3IdFWdDrVGP4KOF3F6BHc3) | [Nina the Dressmaker](https://open.spotify.com/album/0yo32cNHcbKaDZms79YdOO) | 4:40 | 2023-04-20 | 2025-11-29 |
 | [Nina the Dressmaker \(alt\. Vers\)](https://open.spotify.com/track/5KpF9K5ey1hJ8t07zKD42G) | [Bob Salmieri Bastarduna Quintet](https://open.spotify.com/artist/3IdFWdDrVGP4KOF3F6BHc3) | [Ma sister jumps through fire: a jazz drama](https://open.spotify.com/album/5FW6ouGwJts0HD8PfUFti9) | 4:49 | 2023-04-27 | 2025-11-29 |
+| [No Control](https://open.spotify.com/track/7dFxIoBEfGZns3Pd1Fcze0) | [Kon](https://open.spotify.com/artist/0Bgp4Jbe1OEqrn24HVKj9b) | [No Control](https://open.spotify.com/album/5e5rJL3GDeHguqRBgmXnhS) | 2:38 | 2026-05-04 |  |
 | [No Es para Ti](https://open.spotify.com/track/3KzdyeLHY03BGaflizEsUO) | [MDN](https://open.spotify.com/artist/6M7T1w0kGNqLrOdXbWZoNT), [mdn.beats](https://open.spotify.com/artist/1VFNIHRiKBm7BkpQdF2qUD) | [No Es para Ti](https://open.spotify.com/album/1VdO2ivmFAg6QyUo155F7N) | 3:10 | 2026-04-11 |  |
 | [No Fear](https://open.spotify.com/track/7caKs4RqUustcwHjWi3Gtp) | [Ask The Dust](https://open.spotify.com/artist/7F3WOicrHPUVKyOhZUCrND) | [No Fear](https://open.spotify.com/album/1Pz6qTKDsxqXsLRV4mfqcr) | 3:23 | 2026-04-28 |  |
 | [No Kings](https://open.spotify.com/track/15E5RPanamaDv4eW8nmkPl) | [Hariyono](https://open.spotify.com/artist/1mX3tMoN3V0gl2mUk79o5T) | [No Kings](https://open.spotify.com/album/5BOKRHvfad5v80hpna7T43) | 2:14 | 2026-04-10 |  |
@@ -685,6 +687,7 @@
 | [Que bonito es reir](https://open.spotify.com/track/7LN0WRzh7pasU0uBppJbXh) | [Javier Casado Sudupe](https://open.spotify.com/artist/0d1cEiheBmn636OPS7LkLL) | [Donde si me ven \(ORIGINAL MOTION PICTURE SOUNDTRACK\)](https://open.spotify.com/album/1KJyTxSNBCk8EekuPygSVr) | 3:25 | 2025-12-22 | 2026-01-24 |
 | [Que es la felicidad](https://open.spotify.com/track/2CLeVG1WqYZjfbIGXKScpK) | [Sebastián Emilio Alvarez Parafita](https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j) | [La ansiedad](https://open.spotify.com/album/1ah03W8PU28iPd4KzTwltu) | 2:39 | 2025-11-25 | 2026-01-05 |
 | [Que la luna me desarme](https://open.spotify.com/track/2Frm899zUZksGp5fRfialm) | [Eterea](https://open.spotify.com/artist/4H08iozMUTfC4kj5mPnDPD) | [Que la luna me desarme](https://open.spotify.com/album/4npBuLFIMtPnj5EFaa2zBN) | 2:53 | 2026-02-19 | 2026-03-25 |
+| [Querendo se amar](https://open.spotify.com/track/7zzt1qN5liyVqDjhKLNUmD) | [MARÉ MANSA](https://open.spotify.com/artist/0aqA11WetNWTGzgeHm6aF7) | [Querendo se amar](https://open.spotify.com/album/1lPc2hHods1EXP2aRwCKc7) | 2:44 | 2026-05-04 |  |
 | [Quienes hacen cuadros](https://open.spotify.com/track/0856K6dsv0MtyloOBMWlPZ) | [Los Insólitos](https://open.spotify.com/artist/4dgg2FsnowLvnzFaXVqhNX) | [Quienes hacen cuadros](https://open.spotify.com/album/2TSJGJ93cXAupQqCjeFjK3) | 3:00 | 2026-04-13 |  |
 | [Quiero vivir en el espacio](https://open.spotify.com/track/3yWe7WGRUfG3wbXyDMHzOh) | [Mr\. Mol](https://open.spotify.com/artist/0Pzhf2LTb0C0RJeAxaEBjx), [Lorenzo Graef](https://open.spotify.com/artist/4y9vxtCepgauWVhNLOMWCW), [Pat Quinteros](https://open.spotify.com/artist/5pNjXSuX973oATEuCzHlio) | [Lo primero que se te ocurra](https://open.spotify.com/album/6xIC1j2VkTC0Ekzc52JLtJ) | 5:26 | 2025-12-15 | 2026-01-15 |
 | [Quiet Mirror](https://open.spotify.com/track/1bbHzu8CmoQABeNdYHPR2z) | [Constant Vertex](https://open.spotify.com/artist/5EL7W7lWmcIk3jhTIoPNoM) | [Ad Astra](https://open.spotify.com/album/4JEGhzddPLseDCfKqGhKnj) | 2:58 | 2025-12-22 | 2026-01-27 |

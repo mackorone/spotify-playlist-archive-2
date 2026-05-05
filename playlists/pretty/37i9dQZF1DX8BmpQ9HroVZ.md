@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BmpQ9HroVZ.md) - [plain]
 
 > The hottest tracks trending in Pakistan 🔥 Cover: Abdul Hannan
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,207 likes - 91 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,348 likes - 91 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

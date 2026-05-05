@@ -913,6 +913,24 @@
     },
     {
       "album": {
+        "name": "birds on a cloud",
+        "url": "https://open.spotify.com/album/0h8ewT7JgX24CVRjfPxpIR"
+      },
+      "artists": [
+        {
+          "name": "Jupuno",
+          "url": "https://open.spotify.com/artist/2pDShM9W72ItBRO27oUEZ9"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124874,
+      "name": "birds on a cloud",
+      "url": "https://open.spotify.com/track/79nD3GqIHlNTDxbqbkm35J"
+    },
+    {
+      "album": {
         "name": "birdsong",
         "url": "https://open.spotify.com/album/2y7bIgCwPw72C8XWU2tFNl"
       },
@@ -1311,6 +1329,28 @@
     },
     {
       "album": {
+        "name": "Butterflies",
+        "url": "https://open.spotify.com/album/2iN0HIoPms4Gjt26CAtvFi"
+      },
+      "artists": [
+        {
+          "name": "Dark Winter",
+          "url": "https://open.spotify.com/artist/17R24IrdsFScJdz3i324zx"
+        },
+        {
+          "name": "Pepper",
+          "url": "https://open.spotify.com/artist/7wxv15AsqEJNoMmCzkZw9M"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126857,
+      "name": "Butterflies",
+      "url": "https://open.spotify.com/track/4y1dsfzJGG1M3vq8M1uEsh"
+    },
+    {
+      "album": {
         "name": "Buzz",
         "url": "https://open.spotify.com/album/4PSW7vbPagqu8fc81R7Nvw"
       },
@@ -1348,6 +1388,24 @@
       "duration_ms": 140800,
       "name": "By The Window",
       "url": "https://open.spotify.com/track/5luRT0zNET58JyDhfS7ZJQ"
+    },
+    {
+      "album": {
+        "name": "Caffeine Loop",
+        "url": "https://open.spotify.com/album/0FlQAnLGDXuMO4ibWtgiii"
+      },
+      "artists": [
+        {
+          "name": "bleubeats",
+          "url": "https://open.spotify.com/artist/17xtshp63CJcjSRpRowYMm"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Caffeine Loop",
+      "url": "https://open.spotify.com/track/6JCffgsnNL5WuGDev6JwTD"
     },
     {
       "album": {
@@ -3566,7 +3624,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 143389,
       "name": "get home",
       "url": "https://open.spotify.com/track/1tNoMKVPSqImA4LdedQJ00"
@@ -4702,7 +4760,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 134594,
       "name": "Kintsugi",
       "url": "https://open.spotify.com/track/0hQuBjnwMQmashuK4vSo9E"
@@ -5590,7 +5648,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 124750,
       "name": "Ma\u00f1ana",
       "url": "https://open.spotify.com/track/1Be6BhtTjQfvPZbx5H3k6t"
@@ -6672,7 +6730,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 148800,
       "name": "night ride",
       "url": "https://open.spotify.com/track/2d8PTn9Lk8Tvtlg3DpaYNX"
@@ -9208,6 +9266,28 @@
       "duration_ms": 129679,
       "name": "Summit",
       "url": "https://open.spotify.com/track/3NzdQg2hOSyCVBkTowACjb"
+    },
+    {
+      "album": {
+        "name": "Sun Phase",
+        "url": "https://open.spotify.com/album/0ZAFdGntpffCmQJulhEHIo"
+      },
+      "artists": [
+        {
+          "name": "Mondo Loops",
+          "url": "https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK"
+        },
+        {
+          "name": "RRAREBEAR",
+          "url": "https://open.spotify.com/artist/3CodOUadRrQoRrbcPIGLWm"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116863,
+      "name": "Sun Phase",
+      "url": "https://open.spotify.com/track/4DToBu1BtTunAzuDjPS3hz"
     },
     {
       "album": {

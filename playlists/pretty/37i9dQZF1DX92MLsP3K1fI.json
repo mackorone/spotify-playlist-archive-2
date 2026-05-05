@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! Noa Sainz en portada \u2728",
-  "num_followers": 94669,
+  "num_followers": 94672,
   "original_name": "Oye Pop",
   "owner": {
     "name": "Spotify",
@@ -819,22 +819,6 @@
     {
       "added_at": "2026-04-10 16:15:50",
       "album": {
-        "name": "HIPERSENTIMENTAL",
-        "url": "https://open.spotify.com/album/5bincVY2lII0BNPSEDAN6f"
-      },
-      "artists": [
-        {
-          "name": "Jacinto",
-          "url": "https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj"
-        }
-      ],
-      "duration_ms": 165360,
-      "name": "HIPERSENTIMENTAL",
-      "url": "https://open.spotify.com/track/5t0ZcTps5IkNBBaiFKoyD0"
-    },
-    {
-      "added_at": "2026-04-10 16:15:50",
-      "album": {
         "name": "Te Juro No Te Miento",
         "url": "https://open.spotify.com/album/5VHeM1MvIgu1vYBHFKK4pT"
       },
@@ -867,22 +851,18 @@
     {
       "added_at": "2026-04-10 16:15:50",
       "album": {
-        "name": "Distinto",
-        "url": "https://open.spotify.com/album/0a505H49Qu64xAf5mfNMB7"
+        "name": "HIPERSENTIMENTAL",
+        "url": "https://open.spotify.com/album/5bincVY2lII0BNPSEDAN6f"
       },
       "artists": [
         {
-          "name": "RPLK",
-          "url": "https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g"
-        },
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+          "name": "Jacinto",
+          "url": "https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj"
         }
       ],
-      "duration_ms": 165110,
-      "name": "Distinto",
-      "url": "https://open.spotify.com/track/3ozopXR7pzz7Mr5z04rK1U"
+      "duration_ms": 165360,
+      "name": "HIPERSENTIMENTAL",
+      "url": "https://open.spotify.com/track/5t0ZcTps5IkNBBaiFKoyD0"
     },
     {
       "added_at": "2026-04-10 16:15:50",
@@ -911,18 +891,22 @@
     {
       "added_at": "2026-04-10 16:15:50",
       "album": {
-        "name": "mani\u00e1tico",
-        "url": "https://open.spotify.com/album/4HWDCh7os8O5GN6I06bdYG"
+        "name": "Distinto",
+        "url": "https://open.spotify.com/album/0a505H49Qu64xAf5mfNMB7"
       },
       "artists": [
         {
-          "name": "Jacinto",
-          "url": "https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj"
+          "name": "RPLK",
+          "url": "https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g"
+        },
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
         }
       ],
-      "duration_ms": 174358,
-      "name": "mani\u00e1tico",
-      "url": "https://open.spotify.com/track/3XDVdATwLZQ7WtGAZMBmcE"
+      "duration_ms": 165110,
+      "name": "Distinto",
+      "url": "https://open.spotify.com/track/3ozopXR7pzz7Mr5z04rK1U"
     },
     {
       "added_at": "2026-04-10 16:15:50",
@@ -967,6 +951,22 @@
     {
       "added_at": "2026-04-10 16:15:50",
       "album": {
+        "name": "mani\u00e1tico",
+        "url": "https://open.spotify.com/album/4HWDCh7os8O5GN6I06bdYG"
+      },
+      "artists": [
+        {
+          "name": "Jacinto",
+          "url": "https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj"
+        }
+      ],
+      "duration_ms": 174358,
+      "name": "mani\u00e1tico",
+      "url": "https://open.spotify.com/track/3XDVdATwLZQ7WtGAZMBmcE"
+    },
+    {
+      "added_at": "2026-04-10 16:15:50",
+      "album": {
         "name": "Tengamos Pasado",
         "url": "https://open.spotify.com/album/5INXB8bPP0WzT5lLuhRSlF"
       },
@@ -999,22 +999,6 @@
     {
       "added_at": "2026-04-10 16:15:50",
       "album": {
-        "name": "qu\u00e9 raro es ser normal",
-        "url": "https://open.spotify.com/album/0XqsyT0z2gEtn6kXJvI2Kk"
-      },
-      "artists": [
-        {
-          "name": "Jacinto",
-          "url": "https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj"
-        }
-      ],
-      "duration_ms": 145714,
-      "name": "qu\u00e9 raro es ser normal",
-      "url": "https://open.spotify.com/track/0SJastxx9FyW6Kbp1RLQaK"
-    },
-    {
-      "added_at": "2026-04-10 16:15:50",
-      "album": {
         "name": "odio a primera vista",
         "url": "https://open.spotify.com/album/0SUOvTZTNdnEES1VpEW7Vu"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 172013,
       "name": "24/7",
       "url": "https://open.spotify.com/track/1ZpuuKGjzo8x5NQwBZLrRj"
+    },
+    {
+      "added_at": "2026-04-10 16:15:50",
+      "album": {
+        "name": "qu\u00e9 raro es ser normal",
+        "url": "https://open.spotify.com/album/0XqsyT0z2gEtn6kXJvI2Kk"
+      },
+      "artists": [
+        {
+          "name": "Jacinto",
+          "url": "https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj"
+        }
+      ],
+      "duration_ms": 145714,
+      "name": "qu\u00e9 raro es ser normal",
+      "url": "https://open.spotify.com/track/0SJastxx9FyW6Kbp1RLQaK"
     },
     {
       "added_at": "2026-04-10 16:15:50",
@@ -1227,22 +1227,22 @@
     {
       "added_at": "2026-04-10 16:15:50",
       "album": {
-        "name": "a la mitad",
-        "url": "https://open.spotify.com/album/7BKm5M8gOpJIdxi5tdvdwY"
+        "name": "PALACIO DE LUX",
+        "url": "https://open.spotify.com/album/1Zn2LwmWP3ItxW1DIOdg0X"
       },
       "artists": [
         {
-          "name": "Majo Rivas",
-          "url": "https://open.spotify.com/artist/3S4muLLIYiYK4P9ApjyLbY"
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
         },
         {
-          "name": "Kendall Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/2Sb4Db1YYVwCK3l04E9cpn"
+          "name": "Mar\u00eda Jos\u00e9 Llergo",
+          "url": "https://open.spotify.com/artist/70GBRlKEGjfueop2lfdQ4Q"
         }
       ],
-      "duration_ms": 174460,
-      "name": "a la mitad",
-      "url": "https://open.spotify.com/track/1dbDRlYvm4KaCVzMVUPlby"
+      "duration_ms": 194565,
+      "name": "bachata m\u00eda",
+      "url": "https://open.spotify.com/track/2mVupSW8ElmGAeidSkhLfW"
     }
   ],
   "unique_name": "Oye Pop",

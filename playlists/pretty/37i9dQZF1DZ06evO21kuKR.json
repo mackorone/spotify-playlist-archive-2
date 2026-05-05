@@ -1,12 +1,12 @@
 {
   "description": "This is Moneybagg Yo. The essential tracks, all in one playlist.",
-  "num_followers": 98364,
+  "num_followers": 98372,
   "original_name": "This Is Moneybagg Yo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afU+gAAAAAAfc3mVBgqe8z7dROw4S2Vg",
+  "snapshot_id": "afaQAAAAAAC+8nQSB9L+smkPq4H1yON3",
   "tracks": [
     {
       "added_at": null,
@@ -515,26 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fed Baby\u2019s",
-        "url": "https://open.spotify.com/album/4RUq0kdGLKc5ROEv8I0lRY"
-      },
-      "artists": [
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        },
-        {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
-        }
-      ],
-      "duration_ms": 134675,
-      "name": "Tampering With Evidence",
-      "url": "https://open.spotify.com/track/7sVryAf2sqT0I9fBbp0LJB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SPEAK NOW OR...",
         "url": "https://open.spotify.com/album/3JfTxMny1oIZDmYcBnoHWT"
       },
@@ -551,6 +531,26 @@
       "duration_ms": 133136,
       "name": "OUTTA TOWN (feat. BossMan Dlow)",
       "url": "https://open.spotify.com/track/2MzTqKr8Fsu3I5iLUPjLOP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fed Baby\u2019s",
+        "url": "https://open.spotify.com/album/4RUq0kdGLKc5ROEv8I0lRY"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "duration_ms": 134675,
+      "name": "Tampering With Evidence",
+      "url": "https://open.spotify.com/track/7sVryAf2sqT0I9fBbp0LJB"
     },
     {
       "added_at": null,
@@ -843,6 +843,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hard To Love",
+        "url": "https://open.spotify.com/album/12QMwxaBwtZWp7BKBwzaol"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "duration_ms": 142437,
+      "name": "Motion God",
+      "url": "https://open.spotify.com/track/4FpgCVHDfwcHQ17hJ9SyuL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Type A N***a",
         "url": "https://open.spotify.com/album/7ixz0AWnSc5jyadYwmebkU"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 246400,
       "name": "Type A N***a",
       "url": "https://open.spotify.com/track/2E5JwQRxlWVKs7OjRbMyFQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hard To Love",
-        "url": "https://open.spotify.com/album/12QMwxaBwtZWp7BKBwzaol"
-      },
-      "artists": [
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        }
-      ],
-      "duration_ms": 142437,
-      "name": "Motion God",
-      "url": "https://open.spotify.com/track/4FpgCVHDfwcHQ17hJ9SyuL"
     },
     {
       "added_at": null,

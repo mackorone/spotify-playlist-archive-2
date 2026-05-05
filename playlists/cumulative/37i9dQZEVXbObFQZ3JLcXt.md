@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Indonesia.
 
-752 songs - 1 day 23 hr 0 min
+753 songs - 1 day 23 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -633,6 +633,7 @@
 | [Super Shy](https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'Super Shy'](https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I) | 2:34 | 2023-07-11 | 2023-10-06 |
 | [Supernova](https://open.spotify.com/track/351KkakA2YtGEXqSEIIasy) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Supernova](https://open.spotify.com/album/0tlwyPgqwZrymr04EfFyry) | 2:58 | 2024-05-25 | 2024-06-01 |
 | [Supernova](https://open.spotify.com/track/4sgMbwl9lXGyHcHmtFYGMm) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Armageddon \- The 1st Album](https://open.spotify.com/album/058hCti9Bupb5CJc6bd3VB) | 2:58 | 2024-05-31 | 2024-06-09 |
+| [Surat Cinta Untuk Starla](https://open.spotify.com/track/19gpjGEqIwwTzhc9wbRitw) | [Virgoun](https://open.spotify.com/artist/4bAgr9zaF0bpzVGHdHuf0f) | [Surat Cinta Untuk Starla](https://open.spotify.com/album/5c1L24WrX0sSnE3tUApXyR) | 5:08 | 2026-05-04 |  |
 | [Surat Cinta Untuk Starla](https://open.spotify.com/track/5o6StwqqVfG3vRLx8UP310) | [Virgoun](https://open.spotify.com/artist/4bAgr9zaF0bpzVGHdHuf0f) | [Surat Cinta Untuk Starla](https://open.spotify.com/album/6a2Btrft7cIsCHTmSjTiU3) | 5:08 | 2025-09-28 | 2026-03-19 |
 | [Surat Hati](https://open.spotify.com/track/7tuwsUy09EoabNtrXrLnX1) | [Devano](https://open.spotify.com/artist/5nWpcynsaMBFgtGmJODhdi) | [Surat Hati](https://open.spotify.com/album/6kTAiISEjLjvBSwJFXrh0V) | 4:54 | 2023-08-26 | 2023-11-12 |
 | [SWIM](https://open.spotify.com/track/4g5eopb54XIaV2ciooY3St) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/53OELuhrBiml1ns99FIfEN) | 2:39 | 2026-03-21 | 2026-03-23 |
@@ -679,7 +680,7 @@
 | [Tenang](https://open.spotify.com/track/6ICTnGsaokIDEYobnwuCjZ) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio) | [Tenang](https://open.spotify.com/album/3jBKuTZYLpu7x5fl6PEtEH) | 4:07 | 2021-04-23 | 2021-10-23 |
 | [Tenang](https://open.spotify.com/track/7lr82r1RMJudgcKQ8y7H9K) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio) | [Tutur Batin](https://open.spotify.com/album/4ehjkt2KhPomUc7duIqeyD) | 4:07 | 2021-10-23 | 2021-10-28 |
 | [Teramini](https://open.spotify.com/track/238QZNu3LMzPj2PUoE8AIk) | [Ghea Indrawari](https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX) | [Berdamai](https://open.spotify.com/album/1RKSbvPUDUEeKPIhGdnzSD) | 3:40 | 2024-04-06 | 2024-06-02 |
-| [Terbuang Dalam Waktu](https://open.spotify.com/track/5fmyW3X3kncOOVlmcWhORH) | [Barasuara](https://open.spotify.com/artist/5RbI1PF4n02wWKmgjk7hAE) | [Jalaran Sadrah](https://open.spotify.com/album/65hiBZugUD4hPjDM4RurWC) | 4:41 | 2025-07-18 |  |
+| [Terbuang Dalam Waktu](https://open.spotify.com/track/5fmyW3X3kncOOVlmcWhORH) | [Barasuara](https://open.spotify.com/artist/5RbI1PF4n02wWKmgjk7hAE) | [Jalaran Sadrah](https://open.spotify.com/album/65hiBZugUD4hPjDM4RurWC) | 4:41 | 2025-07-18 | 2026-05-05 |
 | [terima kasih](https://open.spotify.com/track/2m1ozXAKFam3YQXRPDnEfE) | [Hal](https://open.spotify.com/artist/5vTG3EyFrsARtIGDWZNRzu) | [terima kasih](https://open.spotify.com/album/0RIVNgA95YzOPDHD4aYbqZ) | 3:24 | 2025-02-02 | 2025-02-06 |
 | [terima kasih](https://open.spotify.com/track/0JtEuERxvGfXYcg0ALOwPu) | [Hal](https://open.spotify.com/artist/5vTG3EyFrsARtIGDWZNRzu) | [terima kasih](https://open.spotify.com/album/3YfSbSFwpbxxGb1wGl1H20) | 3:24 | 2023-02-15 | 2023-02-22 |
 | [Terlalu Cinta](https://open.spotify.com/track/3zmN19fLAcKeDaajrIdWLB) | [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp), [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG) | [Terlalu Cinta](https://open.spotify.com/album/02xTkZ9qQYEA5GtUgnsEcG) | 4:19 | 2024-08-07 | 2024-10-30 |

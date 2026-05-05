@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,352 songs - 9 day 16 hr 7 min
+4,353 songs - 9 day 16 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2472,6 +2472,7 @@
 | [Mos](https://open.spotify.com/track/03NXVg7TdF1PN8zOm99KlY) | [AKERO](https://open.spotify.com/artist/6e1aFysEzyJ4eBy0z7uFqQ) | [Men](https://open.spotify.com/album/2ek6a8NVclSB1KfxuLsXCG) | 3:59 | 2026-02-01 |  |
 | [mosquito's wing](https://open.spotify.com/track/3V5DsjUPjon53mu0iF4GaH) | [noha ichou](https://open.spotify.com/artist/3o4qmobDaKgjEEBUI8VkLc) | [AREA 52](https://open.spotify.com/album/4V7eSqNpIdrZV0FZTL4fht) | 5:26 | 2025-05-09 |  |
 | [Mother](https://open.spotify.com/track/6MZqG7jhi0bJ0VlVbZP5nw) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Le 20 Parole in Slang Più Virali del 2025 \(Se Non Le Usi, Sei Fuori!\)](https://open.spotify.com/album/69RjNyMSGbTMcHDf8psNgs) | 2:43 | 2025-09-17 |  |
+| [Mothman](https://open.spotify.com/track/38gi9OlVKpj6zwtNKK0dDc) | [Apex89](https://open.spotify.com/artist/0jdPGIACeHmp89qaOUEsWZ) | [Mothman](https://open.spotify.com/album/2Ep74PqtVoHvQYwZ033Nvs) | 5:11 | 2026-05-04 |  |
 | [Motivate Yourself](https://open.spotify.com/track/6r3et6jBFGJlcnL2r5XlKe) | [Lara Strieder](https://open.spotify.com/artist/4FNp6aWDqqigyul6I0Torj) | [My Feelings](https://open.spotify.com/album/4ZbIm5MNzLB3p61sZrR1Ku) | 3:50 | 2025-06-05 |  |
 | [Mould](https://open.spotify.com/track/5QUo0G7h0u7BcYS1Toh1Rh) | [Jaded Teeth](https://open.spotify.com/artist/7Gk7PRHRYepDaDeakFUoC7) | [Mould](https://open.spotify.com/album/4QGh3sEUEhveGHFaadOqKT) | 4:00 | 2025-11-04 |  |
 | [Moves Like Miyagi](https://open.spotify.com/track/76Iy59xBzt25zqAylQBNBB) | [Dolour](https://open.spotify.com/artist/5aNyiLkMbHKufrAvfDNy0O), [Shane Tutmarc](https://open.spotify.com/artist/5HqeKeRTxCHQtcQeUUBBac) | [Daylight Upon Magic \(Deluxe\)](https://open.spotify.com/album/0uuswDGuMCXwx99GAd9rlr) | 2:38 | 2025-07-01 |  |

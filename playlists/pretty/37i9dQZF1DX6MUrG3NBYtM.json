@@ -1,6 +1,6 @@
 {
   "description": "De beste Indie releases. Cover: Naaz ",
-  "num_followers": 105762,
+  "num_followers": 105760,
   "original_name": "Indie XL",
   "owner": {
     "name": "Spotify",
@@ -291,6 +291,22 @@
     {
       "added_at": "2026-04-16 22:02:19",
       "album": {
+        "name": "EP #2",
+        "url": "https://open.spotify.com/album/4LZ7eLsW6zSsLjBFxhbBg8"
+      },
+      "artists": [
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        }
+      ],
+      "duration_ms": 233289,
+      "name": "To Space",
+      "url": "https://open.spotify.com/track/356x2OD1llA9NfOMXVmGSk"
+    },
+    {
+      "added_at": "2026-04-16 22:02:19",
+      "album": {
         "name": "The Happy Dictator (feat. Sparks)",
         "url": "https://open.spotify.com/album/28hPpJ5zrajpudLVXzvEZF"
       },
@@ -327,38 +343,6 @@
     {
       "added_at": "2026-04-16 22:02:19",
       "album": {
-        "name": "EP #2",
-        "url": "https://open.spotify.com/album/4LZ7eLsW6zSsLjBFxhbBg8"
-      },
-      "artists": [
-        {
-          "name": "Kings of Leon",
-          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
-        }
-      ],
-      "duration_ms": 233289,
-      "name": "To Space",
-      "url": "https://open.spotify.com/track/356x2OD1llA9NfOMXVmGSk"
-    },
-    {
-      "added_at": "2026-04-16 22:02:19",
-      "album": {
-        "name": "Asking For A Friend",
-        "url": "https://open.spotify.com/album/7duNAzheTsc00oX22aCqXn"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 269000,
-      "name": "Asking For A Friend",
-      "url": "https://open.spotify.com/track/6H8kmcBIUymcI1byu6QCRp"
-    },
-    {
-      "added_at": "2026-04-16 22:02:19",
-      "album": {
         "name": "Rubber Band Man (with Hozier)",
         "url": "https://open.spotify.com/album/6yWyUmKuNAPw5M4Ee3PtUq"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 220266,
       "name": "Rubber Band Man (with Hozier)",
       "url": "https://open.spotify.com/track/6rrqv0WwGTTlavCNqVGd6A"
+    },
+    {
+      "added_at": "2026-04-16 22:02:19",
+      "album": {
+        "name": "Asking For A Friend",
+        "url": "https://open.spotify.com/album/7duNAzheTsc00oX22aCqXn"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 269000,
+      "name": "Asking For A Friend",
+      "url": "https://open.spotify.com/track/6H8kmcBIUymcI1byu6QCRp"
     },
     {
       "added_at": "2026-04-16 22:02:19",
@@ -427,22 +427,6 @@
     {
       "added_at": "2026-04-16 22:02:19",
       "album": {
-        "name": "Hemingway",
-        "url": "https://open.spotify.com/album/3JKMx86ymxWRpnBhmbBAus"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 196697,
-      "name": "Hemingway",
-      "url": "https://open.spotify.com/track/1BBVsOxgQ2soUs87ypiMZH"
-    },
-    {
-      "added_at": "2026-04-16 22:02:19",
-      "album": {
         "name": "The Banjo Song",
         "url": "https://open.spotify.com/album/1FElMhQ7y5kl7DhW6e1rDn"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 229760,
       "name": "The Banjo Song",
       "url": "https://open.spotify.com/track/2SAbtWqrD3YT4oHq993bq1"
+    },
+    {
+      "added_at": "2026-04-16 22:02:19",
+      "album": {
+        "name": "Hemingway",
+        "url": "https://open.spotify.com/album/3JKMx86ymxWRpnBhmbBAus"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 196697,
+      "name": "Hemingway",
+      "url": "https://open.spotify.com/track/1BBVsOxgQ2soUs87ypiMZH"
     },
     {
       "added_at": "2026-04-16 22:02:19",
@@ -651,22 +651,6 @@
     {
       "added_at": "2026-04-16 22:02:19",
       "album": {
-        "name": "Night Light",
-        "url": "https://open.spotify.com/album/28XX98fScUpE4dZN0hIvAR"
-      },
-      "artists": [
-        {
-          "name": "White Lies",
-          "url": "https://open.spotify.com/artist/6ssXMmc5EOUrauZxirM910"
-        }
-      ],
-      "duration_ms": 269813,
-      "name": "Juice",
-      "url": "https://open.spotify.com/track/6VxBEwjCqZuQUxqhSedNFa"
-    },
-    {
-      "added_at": "2026-04-16 22:02:19",
-      "album": {
         "name": "Unbind",
         "url": "https://open.spotify.com/album/04wo4zBOGQzQlbYADhO8xO"
       },
@@ -683,18 +667,18 @@
     {
       "added_at": "2026-04-16 22:02:19",
       "album": {
-        "name": "Blizzard",
-        "url": "https://open.spotify.com/album/3Brw2Xdmo6VRPWwOBNye0i"
+        "name": "Night Light",
+        "url": "https://open.spotify.com/album/28XX98fScUpE4dZN0hIvAR"
       },
       "artists": [
         {
-          "name": "Dove Ellis",
-          "url": "https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9"
+          "name": "White Lies",
+          "url": "https://open.spotify.com/artist/6ssXMmc5EOUrauZxirM910"
         }
       ],
-      "duration_ms": 248932,
-      "name": "To The Sandals",
-      "url": "https://open.spotify.com/track/0o1TOuRqbAP2RspbKZmq7P"
+      "duration_ms": 269813,
+      "name": "Juice",
+      "url": "https://open.spotify.com/track/6VxBEwjCqZuQUxqhSedNFa"
     },
     {
       "added_at": "2026-04-16 22:02:19",
@@ -711,6 +695,22 @@
       "duration_ms": 195604,
       "name": "Another Year Will Pass",
       "url": "https://open.spotify.com/track/2kK1NHAOsnl4WmRf4Zlv9B"
+    },
+    {
+      "added_at": "2026-04-16 22:02:19",
+      "album": {
+        "name": "Blizzard",
+        "url": "https://open.spotify.com/album/3Brw2Xdmo6VRPWwOBNye0i"
+      },
+      "artists": [
+        {
+          "name": "Dove Ellis",
+          "url": "https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9"
+        }
+      ],
+      "duration_ms": 248932,
+      "name": "To The Sandals",
+      "url": "https://open.spotify.com/track/0o1TOuRqbAP2RspbKZmq7P"
     },
     {
       "added_at": "2026-04-16 22:02:19",
@@ -763,22 +763,6 @@
     {
       "added_at": "2026-04-16 22:02:19",
       "album": {
-        "name": "Blizzard",
-        "url": "https://open.spotify.com/album/3Brw2Xdmo6VRPWwOBNye0i"
-      },
-      "artists": [
-        {
-          "name": "Dove Ellis",
-          "url": "https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9"
-        }
-      ],
-      "duration_ms": 170066,
-      "name": "Heaven Has No Wings",
-      "url": "https://open.spotify.com/track/2Y4hGtm2AwkE0zge2CrqB8"
-    },
-    {
-      "added_at": "2026-04-16 22:02:19",
-      "album": {
         "name": "Flowers In The Water",
         "url": "https://open.spotify.com/album/0aSClnSnwkJQUmJupW4fpe"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 239397,
       "name": "Flowers In The Water",
       "url": "https://open.spotify.com/track/50WogEBOCXkA5vEV1Es58S"
+    },
+    {
+      "added_at": "2026-04-16 22:02:19",
+      "album": {
+        "name": "Blizzard",
+        "url": "https://open.spotify.com/album/3Brw2Xdmo6VRPWwOBNye0i"
+      },
+      "artists": [
+        {
+          "name": "Dove Ellis",
+          "url": "https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9"
+        }
+      ],
+      "duration_ms": 170066,
+      "name": "Heaven Has No Wings",
+      "url": "https://open.spotify.com/track/2Y4hGtm2AwkE0zge2CrqB8"
     },
     {
       "added_at": "2026-04-16 22:02:19",
@@ -859,6 +859,22 @@
     {
       "added_at": "2026-04-16 22:02:19",
       "album": {
+        "name": "21st Century Fiction",
+        "url": "https://open.spotify.com/album/6PXuxQUn7Ar2AKt2BSseX2"
+      },
+      "artists": [
+        {
+          "name": "The Amazons",
+          "url": "https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO"
+        }
+      ],
+      "duration_ms": 320523,
+      "name": "Wake Me Up",
+      "url": "https://open.spotify.com/track/1tenXdRDmbXA1spfbDSxmc"
+    },
+    {
+      "added_at": "2026-04-16 22:02:19",
+      "album": {
         "name": "All Night All Day",
         "url": "https://open.spotify.com/album/1Q11CbPzG4porUhAtAD9RN"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 176097,
       "name": "Give Me Your Love Back",
       "url": "https://open.spotify.com/track/070mI5fDgAV77ZBrmoAcfs"
-    },
-    {
-      "added_at": "2026-04-16 22:02:19",
-      "album": {
-        "name": "21st Century Fiction",
-        "url": "https://open.spotify.com/album/6PXuxQUn7Ar2AKt2BSseX2"
-      },
-      "artists": [
-        {
-          "name": "The Amazons",
-          "url": "https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO"
-        }
-      ],
-      "duration_ms": 320523,
-      "name": "Wake Me Up",
-      "url": "https://open.spotify.com/track/1tenXdRDmbXA1spfbDSxmc"
     },
     {
       "added_at": "2026-04-16 22:02:19",
@@ -955,22 +955,6 @@
     {
       "added_at": "2026-04-16 22:02:19",
       "album": {
-        "name": "Orgulho",
-        "url": "https://open.spotify.com/album/0ihdWB6qIJ2IJdLvbh6c1Y"
-      },
-      "artists": [
-        {
-          "name": "\u00c3o",
-          "url": "https://open.spotify.com/artist/2FnhKB01CBc0KBjcTDDOod"
-        }
-      ],
-      "duration_ms": 248109,
-      "name": "Orgulho",
-      "url": "https://open.spotify.com/track/76VKddiLu5mIxtjsImvxVH"
-    },
-    {
-      "added_at": "2026-04-16 22:02:19",
-      "album": {
         "name": "Red Flag Magician",
         "url": "https://open.spotify.com/album/1gRciLdgJ2GetUgTSher9p"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 328719,
       "name": "Red Flag Magician",
       "url": "https://open.spotify.com/track/2Or2qg4qhw5RXDbyCTGIdb"
+    },
+    {
+      "added_at": "2026-04-16 22:02:19",
+      "album": {
+        "name": "Orgulho",
+        "url": "https://open.spotify.com/album/0ihdWB6qIJ2IJdLvbh6c1Y"
+      },
+      "artists": [
+        {
+          "name": "\u00c3o",
+          "url": "https://open.spotify.com/artist/2FnhKB01CBc0KBjcTDDOod"
+        }
+      ],
+      "duration_ms": 248109,
+      "name": "Orgulho",
+      "url": "https://open.spotify.com/track/76VKddiLu5mIxtjsImvxVH"
     }
   ],
   "unique_name": "Indie XL",

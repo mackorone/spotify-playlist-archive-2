@@ -1,6 +1,6 @@
 {
   "description": "Si tocan a una respondemos todas.",
-  "num_followers": 60159,
+  "num_followers": 60162,
   "original_name": "Himnos de Sororidad",
   "owner": {
     "name": "Spotify",
@@ -47,6 +47,22 @@
     {
       "added_at": "2024-07-23 21:39:12",
       "album": {
+        "name": "Ay Mam\u00e1",
+        "url": "https://open.spotify.com/album/26As3PYmCCD390xoIJ4RE6"
+      },
+      "artists": [
+        {
+          "name": "Rigoberta Bandini",
+          "url": "https://open.spotify.com/artist/7DOERbtkx9aTLvWzZSB0qx"
+        }
+      ],
+      "duration_ms": 181120,
+      "name": "Ay Mam\u00e1",
+      "url": "https://open.spotify.com/track/0khVEzctbwmqLvOpg1ecbg"
+    },
+    {
+      "added_at": "2024-07-23 21:39:12",
+      "album": {
         "name": "Canci\u00f3n Sin Miedo",
         "url": "https://open.spotify.com/album/2wr1HIJ0Pzv7OzhdFH8nBQ"
       },
@@ -63,22 +79,6 @@
       "duration_ms": 213013,
       "name": "Canci\u00f3n Sin Miedo",
       "url": "https://open.spotify.com/track/5w3AsUEGoaCuBhDp14umuy"
-    },
-    {
-      "added_at": "2024-07-23 21:39:12",
-      "album": {
-        "name": "Ay Mam\u00e1",
-        "url": "https://open.spotify.com/album/26As3PYmCCD390xoIJ4RE6"
-      },
-      "artists": [
-        {
-          "name": "Rigoberta Bandini",
-          "url": "https://open.spotify.com/artist/7DOERbtkx9aTLvWzZSB0qx"
-        }
-      ],
-      "duration_ms": 181120,
-      "name": "Ay Mam\u00e1",
-      "url": "https://open.spotify.com/track/0khVEzctbwmqLvOpg1ecbg"
     },
     {
       "added_at": "2024-07-23 21:39:12",
@@ -139,22 +139,6 @@
     {
       "added_at": "2024-07-23 21:39:12",
       "album": {
-        "name": "Cambio De Piel",
-        "url": "https://open.spotify.com/album/41DAM0HWW9vQNGj1sTfgCY"
-      },
-      "artists": [
-        {
-          "name": "Denise Rosenthal",
-          "url": "https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62"
-        }
-      ],
-      "duration_ms": 221080,
-      "name": "Lucha En Equilibrio",
-      "url": "https://open.spotify.com/track/5XXRbcWjc6jQhAS6MxyYmu"
-    },
-    {
-      "added_at": "2024-07-23 21:39:12",
-      "album": {
         "name": "Vengo",
         "url": "https://open.spotify.com/album/4AvYh9UIRwjZJYI9X7p8ua"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 184378,
       "name": "Antipatriarca",
       "url": "https://open.spotify.com/track/49SpHaonnqks7taOwDfV6Z"
+    },
+    {
+      "added_at": "2024-07-23 21:39:12",
+      "album": {
+        "name": "Cambio De Piel",
+        "url": "https://open.spotify.com/album/41DAM0HWW9vQNGj1sTfgCY"
+      },
+      "artists": [
+        {
+          "name": "Denise Rosenthal",
+          "url": "https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62"
+        }
+      ],
+      "duration_ms": 221080,
+      "name": "Lucha En Equilibrio",
+      "url": "https://open.spotify.com/track/5XXRbcWjc6jQhAS6MxyYmu"
     },
     {
       "added_at": "2024-07-23 21:39:12",
@@ -223,22 +223,6 @@
     {
       "added_at": "2024-07-23 21:39:12",
       "album": {
-        "name": "La Cumbia Feminazi",
-        "url": "https://open.spotify.com/album/42tCTBqRe7XUhgMKUYjm6p"
-      },
-      "artists": [
-        {
-          "name": "Renee Goust",
-          "url": "https://open.spotify.com/artist/4eV7xFoCLdPWpOx7LtF52K"
-        }
-      ],
-      "duration_ms": 229713,
-      "name": "La Cumbia Feminazi",
-      "url": "https://open.spotify.com/track/7yXQbL33HEOGd7we8c3BOG"
-    },
-    {
-      "added_at": "2024-07-23 21:39:12",
-      "album": {
         "name": "Se\u00f1orita Revoluci\u00f3n",
         "url": "https://open.spotify.com/album/12rvlwP0OW2UKV1lmTqQtm"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 158478,
       "name": "Se\u00f1orita Revoluci\u00f3n",
       "url": "https://open.spotify.com/track/7EDmXSg0xZZT3NkcBjijCn"
+    },
+    {
+      "added_at": "2024-07-23 21:39:12",
+      "album": {
+        "name": "La Cumbia Feminazi",
+        "url": "https://open.spotify.com/album/42tCTBqRe7XUhgMKUYjm6p"
+      },
+      "artists": [
+        {
+          "name": "Renee Goust",
+          "url": "https://open.spotify.com/artist/4eV7xFoCLdPWpOx7LtF52K"
+        }
+      ],
+      "duration_ms": 229713,
+      "name": "La Cumbia Feminazi",
+      "url": "https://open.spotify.com/track/7yXQbL33HEOGd7we8c3BOG"
     },
     {
       "added_at": "2024-07-23 21:39:12",
@@ -403,26 +403,6 @@
     {
       "added_at": "2024-07-23 21:39:12",
       "album": {
-        "name": "Nosotras Tenemos Otros Datos",
-        "url": "https://open.spotify.com/album/5c9LTfH3OcFIRHuaecGOm4"
-      },
-      "artists": [
-        {
-          "name": "Masta Quba",
-          "url": "https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ"
-        },
-        {
-          "name": "P. Jaguar",
-          "url": "https://open.spotify.com/artist/0dtzsqGSEudST19Mq6ilvB"
-        }
-      ],
-      "duration_ms": 201290,
-      "name": "Nosotras Tenemos Otros Datos",
-      "url": "https://open.spotify.com/track/1NmW3KNBImwfO6ej91vpHv"
-    },
-    {
-      "added_at": "2024-07-23 21:39:12",
-      "album": {
         "name": "Hermanas",
         "url": "https://open.spotify.com/album/5UPSoi84uNlqOuRcSkOOEa"
       },
@@ -475,6 +455,26 @@
     {
       "added_at": "2024-07-23 21:39:12",
       "album": {
+        "name": "Nosotras Tenemos Otros Datos",
+        "url": "https://open.spotify.com/album/5c9LTfH3OcFIRHuaecGOm4"
+      },
+      "artists": [
+        {
+          "name": "Masta Quba",
+          "url": "https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ"
+        },
+        {
+          "name": "P. Jaguar",
+          "url": "https://open.spotify.com/artist/0dtzsqGSEudST19Mq6ilvB"
+        }
+      ],
+      "duration_ms": 201290,
+      "name": "Nosotras Tenemos Otros Datos",
+      "url": "https://open.spotify.com/track/1NmW3KNBImwfO6ej91vpHv"
+    },
+    {
+      "added_at": "2024-07-23 21:39:12",
+      "album": {
         "name": "Ovarios",
         "url": "https://open.spotify.com/album/277fN3hslccaJCKC6Evvnk"
       },
@@ -499,26 +499,6 @@
     {
       "added_at": "2024-07-23 21:39:12",
       "album": {
-        "name": "Canci\u00f3n Sin Miedo [Versi\u00f3n Ayuujk (Tlahuiltoltepec) / Espa\u00f1ol]",
-        "url": "https://open.spotify.com/album/6cqEBK9aE4vDw2GcUV7h2F"
-      },
-      "artists": [
-        {
-          "name": "Banda Femenil Regional \"Mujeres del Viento Florido\"",
-          "url": "https://open.spotify.com/artist/1x4v8vs04mwdQwKy74mQBd"
-        },
-        {
-          "name": "Vivir Quintana",
-          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
-        }
-      ],
-      "duration_ms": 176500,
-      "name": "Canci\u00f3n Sin Miedo - Versi\u00f3n Ayuujk (Tlahuiltoltepec) / Espa\u00f1ol",
-      "url": "https://open.spotify.com/track/5VIDgMv9x9PfEHK9I1ukEA"
-    },
-    {
-      "added_at": "2024-07-23 21:39:12",
-      "album": {
         "name": "Cuentas Pendientes",
         "url": "https://open.spotify.com/album/4DDnKiQFpoYi6kRZXZJSb6"
       },
@@ -535,6 +515,26 @@
       "duration_ms": 208158,
       "name": "Nos Deseo",
       "url": "https://open.spotify.com/track/4dSMI9UzUk9dmJ4hmUNLWw"
+    },
+    {
+      "added_at": "2024-07-23 21:39:12",
+      "album": {
+        "name": "Canci\u00f3n Sin Miedo [Versi\u00f3n Ayuujk (Tlahuiltoltepec) / Espa\u00f1ol]",
+        "url": "https://open.spotify.com/album/6cqEBK9aE4vDw2GcUV7h2F"
+      },
+      "artists": [
+        {
+          "name": "Banda Femenil Regional \"Mujeres del Viento Florido\"",
+          "url": "https://open.spotify.com/artist/1x4v8vs04mwdQwKy74mQBd"
+        },
+        {
+          "name": "Vivir Quintana",
+          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
+        }
+      ],
+      "duration_ms": 176500,
+      "name": "Canci\u00f3n Sin Miedo - Versi\u00f3n Ayuujk (Tlahuiltoltepec) / Espa\u00f1ol",
+      "url": "https://open.spotify.com/track/5VIDgMv9x9PfEHK9I1ukEA"
     },
     {
       "added_at": "2024-07-23 21:39:12",
@@ -663,6 +663,22 @@
     {
       "added_at": "2024-07-23 21:39:12",
       "album": {
+        "name": "Amiga",
+        "url": "https://open.spotify.com/album/0YaIQWmzrG5b0iWDwzvf5x"
+      },
+      "artists": [
+        {
+          "name": "Miau Tr\u00edo",
+          "url": "https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL"
+        }
+      ],
+      "duration_ms": 157389,
+      "name": "Amiga",
+      "url": "https://open.spotify.com/track/1MyeYdKKegyVW2LHenX63b"
+    },
+    {
+      "added_at": "2024-07-23 21:39:12",
+      "album": {
         "name": "Bruja",
         "url": "https://open.spotify.com/album/1qeYxt5kg2nX9Bw3Qic8jj"
       },
@@ -707,22 +723,6 @@
     {
       "added_at": "2024-07-23 21:39:12",
       "album": {
-        "name": "Amiga",
-        "url": "https://open.spotify.com/album/0YaIQWmzrG5b0iWDwzvf5x"
-      },
-      "artists": [
-        {
-          "name": "Miau Tr\u00edo",
-          "url": "https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL"
-        }
-      ],
-      "duration_ms": 157389,
-      "name": "Amiga",
-      "url": "https://open.spotify.com/track/1MyeYdKKegyVW2LHenX63b"
-    },
-    {
-      "added_at": "2024-07-23 21:39:12",
-      "album": {
         "name": "Ni Una Mas",
         "url": "https://open.spotify.com/album/12pHDcyqzSNsZgQJDRiZ3W"
       },
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-07-23 21:39:12",
       "album": {
-        "name": "Nunca Amor",
-        "url": "https://open.spotify.com/album/7c6CsAKYwhoAcNDcKJcx1z"
-      },
-      "artists": [
-        {
-          "name": "Leiden",
-          "url": "https://open.spotify.com/artist/6fvjP4AZ19ce4gwJSr5qnI"
-        }
-      ],
-      "duration_ms": 186315,
-      "name": "Nunca Amor",
-      "url": "https://open.spotify.com/track/4mZuInt5AIL6PqDF1I2zRt"
-    },
-    {
-      "added_at": "2024-07-23 21:39:12",
-      "album": {
         "name": "Llora Llora",
         "url": "https://open.spotify.com/album/7HVuTWgBKBnJqLTskIrcxQ"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 253499,
       "name": "Llora Llora",
       "url": "https://open.spotify.com/track/19i39fA9niRDjcAs3Gf5VO"
+    },
+    {
+      "added_at": "2024-07-23 21:39:12",
+      "album": {
+        "name": "Nunca Amor",
+        "url": "https://open.spotify.com/album/7c6CsAKYwhoAcNDcKJcx1z"
+      },
+      "artists": [
+        {
+          "name": "Leiden",
+          "url": "https://open.spotify.com/artist/6fvjP4AZ19ce4gwJSr5qnI"
+        }
+      ],
+      "duration_ms": 186315,
+      "name": "Nunca Amor",
+      "url": "https://open.spotify.com/track/4mZuInt5AIL6PqDF1I2zRt"
     },
     {
       "added_at": "2024-07-23 21:39:12",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2024-07-23 21:39:12",
       "album": {
-        "name": "Ni Una Menos",
-        "url": "https://open.spotify.com/album/2Ad42MuUjsRZFpIsPnGCkC"
-      },
-      "artists": [
-        {
-          "name": "Rebeca Lane",
-          "url": "https://open.spotify.com/artist/7pTTcZQa4DzCKdoyuiPfsq"
-        }
-      ],
-      "duration_ms": 154673,
-      "name": "Ni Una Menos",
-      "url": "https://open.spotify.com/track/11UL8736NPiJSdCiezulQp"
-    },
-    {
-      "added_at": "2024-07-23 21:39:12",
-      "album": {
         "name": "Piba Cumbia",
         "url": "https://open.spotify.com/album/28sPoHadwfwkZF7ZTBBAVp"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 214505,
       "name": "Piba Cumbia",
       "url": "https://open.spotify.com/track/34LVUwRGzvYLqsNnD5nhFx"
+    },
+    {
+      "added_at": "2024-07-23 21:39:12",
+      "album": {
+        "name": "Ni Una Menos",
+        "url": "https://open.spotify.com/album/2Ad42MuUjsRZFpIsPnGCkC"
+      },
+      "artists": [
+        {
+          "name": "Rebeca Lane",
+          "url": "https://open.spotify.com/artist/7pTTcZQa4DzCKdoyuiPfsq"
+        }
+      ],
+      "duration_ms": 154673,
+      "name": "Ni Una Menos",
+      "url": "https://open.spotify.com/track/11UL8736NPiJSdCiezulQp"
     },
     {
       "added_at": "2024-07-23 21:39:12",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2024-07-23 21:39:12",
       "album": {
-        "name": "Autogesti\u00f3n y Resistencia",
-        "url": "https://open.spotify.com/album/78MBva8XZUxvaeHANhYG7W"
-      },
-      "artists": [
-        {
-          "name": "Audry Funk",
-          "url": "https://open.spotify.com/artist/7eWbFrseRms5D5quwPDkm2"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Sororidad",
-      "url": "https://open.spotify.com/track/5pdF3LbEvRBiLFSfCjMlmP"
-    },
-    {
-      "added_at": "2024-07-23 21:39:12",
-      "album": {
         "name": "Quememos el Reino",
         "url": "https://open.spotify.com/album/3L4Ud38y1Kf5cUjlKbAvAR"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 267520,
       "name": "Quememos el Reino",
       "url": "https://open.spotify.com/track/6Q34FSF6Y1VMYC6oGx2R8G"
+    },
+    {
+      "added_at": "2024-07-23 21:39:12",
+      "album": {
+        "name": "Autogesti\u00f3n y Resistencia",
+        "url": "https://open.spotify.com/album/78MBva8XZUxvaeHANhYG7W"
+      },
+      "artists": [
+        {
+          "name": "Audry Funk",
+          "url": "https://open.spotify.com/artist/7eWbFrseRms5D5quwPDkm2"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Sororidad",
+      "url": "https://open.spotify.com/track/5pdF3LbEvRBiLFSfCjMlmP"
     },
     {
       "added_at": "2024-07-23 21:39:12",

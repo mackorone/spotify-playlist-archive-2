@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 
 > These are some independent alternative rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 647 likes - 99 songs - 5 hr 47 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 648 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,5 +107,6 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 | 97 | [BOGO Bodega](https://open.spotify.com/track/3TepkxGAUbD2KgxeePeSjP) | [dummy co.](https://open.spotify.com/artist/6r4qoWqXf8eQXCPHawb3RF), [Kool Karlo](https://open.spotify.com/artist/3dHzT8qGSboKwYhi7SMQUb) | [BOGO Bodega](https://open.spotify.com/album/37SByWcngj4Iu3IaJzXmEo) | 3:18 |
 | 98 | [Cristina](https://open.spotify.com/track/3zslKraslO9HGthkAAQ1EU) | [Dave Christen](https://open.spotify.com/artist/3pLpSZzfhqSloT7Cidly8l) | [Cristina](https://open.spotify.com/album/6fNPJiXckogSPudXMCPrBv) | 3:37 |
 | 99 | [Set Your Life On Fire](https://open.spotify.com/track/5Nx6BHTGLSITqrERad64nk) | [The Last Pioneers](https://open.spotify.com/artist/47VNhQMeBaWxOZG6aJHYvM) | [Set Your Life On Fire](https://open.spotify.com/album/4rUIlLpeOwgUvfJ8NMkmeD) | 3:28 |
+| 100 | [What's the Deal](https://open.spotify.com/track/65mwECblaHqM3LSRBTT1nE) | [Paranoize](https://open.spotify.com/artist/2IsNoOamJMVdmEKK4dQKcS) | [What's the Deal](https://open.spotify.com/album/2nZMIWpDc27QL0NAFKWk4C) | 2:37 |
 
-Snapshot ID: `AAADXixATT2H5v/CidEVfN2IDVmaYkuM`
+Snapshot ID: `AAADX+Rddp4DjtOrWNoDfW/OA5WTrtWe`

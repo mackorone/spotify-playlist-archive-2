@@ -1,6 +1,6 @@
 {
   "description": "Try a little tenderness. Cover: 54 Ultra",
-  "num_followers": 55405,
+  "num_followers": 55429,
   "original_name": "soulful",
   "owner": {
     "name": "Spotify",
@@ -475,6 +475,22 @@
     {
       "added_at": "2026-01-23 01:47:43",
       "album": {
+        "name": "Give Me All Your Love",
+        "url": "https://open.spotify.com/album/55LA79YNZWAfxpDGla4jcN"
+      },
+      "artists": [
+        {
+          "name": "DON WEST",
+          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
+        }
+      ],
+      "duration_ms": 264124,
+      "name": "Day To Night",
+      "url": "https://open.spotify.com/track/7rkkFimrRc14aJLN6HMNqp"
+    },
+    {
+      "added_at": "2026-01-23 01:47:43",
+      "album": {
         "name": "No Time For Dreaming",
         "url": "https://open.spotify.com/album/6j1xh7WBOIVNekKFKFKbAp"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 202492,
       "name": "The World (Is Going Up in Flames)",
       "url": "https://open.spotify.com/track/6MQlNH8e6jG0LZg2mocK1R"
-    },
-    {
-      "added_at": "2026-01-23 01:47:43",
-      "album": {
-        "name": "Give Me All Your Love",
-        "url": "https://open.spotify.com/album/55LA79YNZWAfxpDGla4jcN"
-      },
-      "artists": [
-        {
-          "name": "DON WEST",
-          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
-        }
-      ],
-      "duration_ms": 264124,
-      "name": "Day To Night",
-      "url": "https://open.spotify.com/track/7rkkFimrRc14aJLN6HMNqp"
     },
     {
       "added_at": "2026-01-23 01:47:43",
@@ -539,6 +539,22 @@
       "duration_ms": 264826,
       "name": "Promises",
       "url": "https://open.spotify.com/track/6aQ7nlAEOhhRnsHi6eY0zT"
+    },
+    {
+      "added_at": "2026-01-23 01:47:43",
+      "album": {
+        "name": "What's Going On",
+        "url": "https://open.spotify.com/album/2v6ANhWhZBUKkg6pJJBs3B"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "duration_ms": 327706,
+      "name": "Inner City Blues (Make Me Wanna Holler)",
+      "url": "https://open.spotify.com/track/5hReWjUHqPqkHi31G7izL4"
     },
     {
       "added_at": "2026-01-23 01:47:43",
@@ -579,22 +595,6 @@
     {
       "added_at": "2026-01-23 01:47:43",
       "album": {
-        "name": "What's Going On",
-        "url": "https://open.spotify.com/album/2v6ANhWhZBUKkg6pJJBs3B"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        }
-      ],
-      "duration_ms": 327706,
-      "name": "Inner City Blues (Make Me Wanna Holler)",
-      "url": "https://open.spotify.com/track/5hReWjUHqPqkHi31G7izL4"
-    },
-    {
-      "added_at": "2026-01-23 01:47:43",
-      "album": {
         "name": "Come Around and Love Me",
         "url": "https://open.spotify.com/album/0E2PgtXRUHCslZ7gRselUq"
       },
@@ -625,6 +625,22 @@
       "url": "https://open.spotify.com/track/07qj9w93jk1eA2TGAd6kxj"
     },
     {
+      "added_at": "2026-01-23 01:47:43",
+      "album": {
+        "name": "Love Me JeJe",
+        "url": "https://open.spotify.com/album/0DSIfkfmDDNRbB87Xk0ipd"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 178041,
+      "name": "Love Me JeJe",
+      "url": "https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd"
+    },
+    {
       "added_at": "2026-04-16 14:00:34",
       "album": {
         "name": "Superbloom",
@@ -643,22 +659,6 @@
     {
       "added_at": "2026-01-23 01:47:43",
       "album": {
-        "name": "Love Me JeJe",
-        "url": "https://open.spotify.com/album/0DSIfkfmDDNRbB87Xk0ipd"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 178041,
-      "name": "Love Me JeJe",
-      "url": "https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd"
-    },
-    {
-      "added_at": "2026-01-23 01:47:43",
-      "album": {
         "name": "Never Be Yours",
         "url": "https://open.spotify.com/album/3KWfY3MZ8PGDfjQSwqIxJF"
       },
@@ -671,22 +671,6 @@
       "duration_ms": 196025,
       "name": "Never Be Yours",
       "url": "https://open.spotify.com/track/3cKnHNL40tqnmjXiv4FOlk"
-    },
-    {
-      "added_at": "2026-01-23 01:47:43",
-      "album": {
-        "name": "Seems Like",
-        "url": "https://open.spotify.com/album/2tap8Qg9edttnopPumKebe"
-      },
-      "artists": [
-        {
-          "name": "Thee Sinseers",
-          "url": "https://open.spotify.com/artist/5unhEp2PoIxAgEFNEyYdJS"
-        }
-      ],
-      "duration_ms": 194020,
-      "name": "Seems Like",
-      "url": "https://open.spotify.com/track/2YrZqTyToiN4oBYHAVae7F"
     },
     {
       "added_at": "2026-01-23 01:47:43",
@@ -723,6 +707,22 @@
       "duration_ms": 423028,
       "name": "Remember Me - Original Mix",
       "url": "https://open.spotify.com/track/7MwPTFInd4Y3q1ZtwgzG57"
+    },
+    {
+      "added_at": "2026-01-23 01:47:43",
+      "album": {
+        "name": "Seems Like",
+        "url": "https://open.spotify.com/album/2tap8Qg9edttnopPumKebe"
+      },
+      "artists": [
+        {
+          "name": "Thee Sinseers",
+          "url": "https://open.spotify.com/artist/5unhEp2PoIxAgEFNEyYdJS"
+        }
+      ],
+      "duration_ms": 194020,
+      "name": "Seems Like",
+      "url": "https://open.spotify.com/track/2YrZqTyToiN4oBYHAVae7F"
     },
     {
       "added_at": "2026-01-23 01:47:43",
@@ -795,22 +795,6 @@
     {
       "added_at": "2026-01-23 01:47:43",
       "album": {
-        "name": "Beats, Rhymes & Life",
-        "url": "https://open.spotify.com/album/0EguP4tsJurU5I8ocCxdyb"
-      },
-      "artists": [
-        {
-          "name": "A Tribe Called Quest",
-          "url": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
-        }
-      ],
-      "duration_ms": 207466,
-      "name": "The Hop",
-      "url": "https://open.spotify.com/track/7f1UEGMBMuXfLBP5XANfrW"
-    },
-    {
-      "added_at": "2026-01-23 01:47:43",
-      "album": {
         "name": "The Celestial Suite",
         "url": "https://open.spotify.com/album/74H9AkTLaEp1YsSlXqsXDN"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 185000,
       "name": "Shameful Game",
       "url": "https://open.spotify.com/track/7IwPrc0AZV9uMSPitvJMxx"
+    },
+    {
+      "added_at": "2026-01-23 01:47:43",
+      "album": {
+        "name": "Beats, Rhymes & Life",
+        "url": "https://open.spotify.com/album/0EguP4tsJurU5I8ocCxdyb"
+      },
+      "artists": [
+        {
+          "name": "A Tribe Called Quest",
+          "url": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+        }
+      ],
+      "duration_ms": 207466,
+      "name": "The Hop",
+      "url": "https://open.spotify.com/track/7f1UEGMBMuXfLBP5XANfrW"
     },
     {
       "added_at": "2026-01-23 01:47:43",
@@ -847,22 +847,6 @@
     {
       "added_at": "2026-01-23 01:47:43",
       "album": {
-        "name": "Music and Me",
-        "url": "https://open.spotify.com/album/1MCA50GzswxscAouRWnrES"
-      },
-      "artists": [
-        {
-          "name": "Nate Dogg",
-          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
-        }
-      ],
-      "duration_ms": 240626,
-      "name": "Music & Me",
-      "url": "https://open.spotify.com/track/2212oBX0YELcs0sr6DqGer"
-    },
-    {
-      "added_at": "2026-01-23 01:47:43",
-      "album": {
         "name": "Elegantly Wasted [Feat. Leon Bridges]",
         "url": "https://open.spotify.com/album/6ttrLfwlXpHv4HwoImyqqR"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 213062,
       "name": "Elegantly Wasted [Feat. Leon Bridges]",
       "url": "https://open.spotify.com/track/4cKkrTYbkWnu96lWNRFcRq"
+    },
+    {
+      "added_at": "2026-01-23 01:47:43",
+      "album": {
+        "name": "Music and Me",
+        "url": "https://open.spotify.com/album/1MCA50GzswxscAouRWnrES"
+      },
+      "artists": [
+        {
+          "name": "Nate Dogg",
+          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
+        }
+      ],
+      "duration_ms": 240626,
+      "name": "Music & Me",
+      "url": "https://open.spotify.com/track/2212oBX0YELcs0sr6DqGer"
     },
     {
       "added_at": "2026-01-23 01:47:43",
@@ -913,6 +913,22 @@
       "url": "https://open.spotify.com/track/6IAgarq2wDeYzpsY2Kx0Hw"
     },
     {
+      "added_at": "2026-04-09 14:00:37",
+      "album": {
+        "name": "Any Old Fool",
+        "url": "https://open.spotify.com/album/645BIIezXIuUl2UADCAJyS"
+      },
+      "artists": [
+        {
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+        }
+      ],
+      "duration_ms": 184700,
+      "name": "Any Old Fool",
+      "url": "https://open.spotify.com/track/6HNpTTwnQHo5JSrWQETLwg"
+    },
+    {
       "added_at": "2026-01-23 01:47:43",
       "album": {
         "name": "Loner",
@@ -943,22 +959,6 @@
       "duration_ms": 200000,
       "name": "2 Much",
       "url": "https://open.spotify.com/track/4QySScdQnRDZjDaAdpY0AM"
-    },
-    {
-      "added_at": "2026-04-09 14:00:37",
-      "album": {
-        "name": "Any Old Fool",
-        "url": "https://open.spotify.com/album/645BIIezXIuUl2UADCAJyS"
-      },
-      "artists": [
-        {
-          "name": "Thee Sacred Souls",
-          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
-        }
-      ],
-      "duration_ms": 184700,
-      "name": "Any Old Fool",
-      "url": "https://open.spotify.com/track/6HNpTTwnQHo5JSrWQETLwg"
     },
     {
       "added_at": "2026-04-03 05:00:21",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2026-01-23 01:47:43",
       "album": {
+        "name": "Honeycomb",
+        "url": "https://open.spotify.com/album/4q6t2qUYy2bp5sqwXSXldc"
+      },
+      "artists": [
+        {
+          "name": "Jitwam",
+          "url": "https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS"
+        }
+      ],
+      "duration_ms": 204324,
+      "name": "I'm a Rock",
+      "url": "https://open.spotify.com/track/2KQtAZ5F8LK0vi0JyrpF6w"
+    },
+    {
+      "added_at": "2026-01-23 01:47:43",
+      "album": {
         "name": "But You Caint Use My Phone (Mixtape)",
         "url": "https://open.spotify.com/album/2gc9WOWqVRrGUENUjozcpY"
       },
@@ -1111,22 +1127,6 @@
     {
       "added_at": "2026-01-23 01:47:43",
       "album": {
-        "name": "Honeycomb",
-        "url": "https://open.spotify.com/album/4q6t2qUYy2bp5sqwXSXldc"
-      },
-      "artists": [
-        {
-          "name": "Jitwam",
-          "url": "https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS"
-        }
-      ],
-      "duration_ms": 204324,
-      "name": "I'm a Rock",
-      "url": "https://open.spotify.com/track/2KQtAZ5F8LK0vi0JyrpF6w"
-    },
-    {
-      "added_at": "2026-01-23 01:47:43",
-      "album": {
         "name": "Chapter 1",
         "url": "https://open.spotify.com/album/5vhfMWKuCtnJJ3DW5FESGe"
       },
@@ -1141,10 +1141,10 @@
       "url": "https://open.spotify.com/track/1Q3UUPU4Pl4zVsmIDsQxDU"
     },
     {
-      "added_at": "2026-03-05 13:00:11",
+      "added_at": "2026-04-16 14:00:34",
       "album": {
-        "name": "Doctrine of Love",
-        "url": "https://open.spotify.com/album/0k0sjLVPQXuItNsNNnht9l"
+        "name": "Hang It On The Shelf",
+        "url": "https://open.spotify.com/album/490RXPo7Zm3PATJMtUEtSM"
       },
       "artists": [
         {
@@ -1152,9 +1152,9 @@
           "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
         }
       ],
-      "duration_ms": 200573,
-      "name": "Doctrine of Love",
-      "url": "https://open.spotify.com/track/0CJHyugq95CyGnDcau66cU"
+      "duration_ms": 145786,
+      "name": "Hang It On The Shelf",
+      "url": "https://open.spotify.com/track/05UfXOe42MNCZMYN2NAqEK"
     },
     {
       "added_at": "2026-01-23 01:47:43",

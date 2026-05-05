@@ -4,7 +4,7 @@
 
 > This is Maaya Sakamoto\. The essential tracks, all in one playlist.
 
-164 songs - 12 hr 15 min
+166 songs - 12 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Break Free \- Japan Version](https://open.spotify.com/track/3svcAbXBX9Z4D8VqOL0bZN) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw), [Tsukasa Saito](https://open.spotify.com/artist/0gpOzMyESiSTYaACIWLZW2) | [Sing 2 \(Original Motion Picture Soundtrack\) \[Alternate Version\]](https://open.spotify.com/album/4oPdS6pmyJhtm5W6TwzY7E) | 1:32 | 2022-08-10 |  |
 | [Buddy](https://open.spotify.com/track/63yhabD7LEXoY6gLoI14Z2) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [シングルコレクション＋　ミツバチ](https://open.spotify.com/album/6RLHiCgqAnKz0yGIO8bDAP) | 4:00 | 2022-08-10 |  |
 | [CLEAR](https://open.spotify.com/track/1dmxpZEJUyxglqyuo3DqGh) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [CLEAR](https://open.spotify.com/album/0YbibgkIYu30V8Zz0pEJNd) | 4:15 | 2022-08-10 |  |
-| [CLEAR ～TVサイズ～](https://open.spotify.com/track/1RCEEjexdySvwstGnBEVJs) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [「カードキャプターさくら クリアカード編」オリジナルサウンドトラック](https://open.spotify.com/album/6U04R6FklDZ45KsVchJWMM) | 1:32 | 2023-06-04 |  |
+| [CLEAR ～TVサイズ～](https://open.spotify.com/track/1RCEEjexdySvwstGnBEVJs) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [「カードキャプターさくら クリアカード編」オリジナルサウンドトラック](https://open.spotify.com/album/6U04R6FklDZ45KsVchJWMM) | 1:32 | 2023-06-04 | 2026-05-05 |
 | [cloud 9](https://open.spotify.com/track/2qGC7Kxul7KDS8Mi8u59B6) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [25周年記念アルバム　シングルコレクション＋ アチコチ](https://open.spotify.com/album/5YA5rEjEEPUkb1xq3EJ5Uf) | 5:00 | 2022-08-10 |  |
 | [discord](https://open.spotify.com/track/1TJsSCtejwPzbhXM9IyZrL) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [11thアルバム　記憶の図書館](https://open.spotify.com/album/37FOxaHocFMsIZRSQcfGkS) | 4:01 | 2023-06-01 | 2024-06-15 |
 | [DOWN TOWN](https://open.spotify.com/track/3ji08HySZKJUAPYTOeeBpC) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [You can't catch me](https://open.spotify.com/album/4CoGD8RFY0lhSXNxzKT8gr) | 3:55 | 2022-08-11 |  |
@@ -29,7 +29,7 @@
 | [Drops](https://open.spotify.com/track/5XJjIyN8rFNhKNo3eRfv4K) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [Drops](https://open.spotify.com/album/1pR3bxXgbVs9c8EV3498Zt) | 5:02 | 2025-04-07 | 2025-04-18 |
 | [Drops \-TVサイズ\-](https://open.spotify.com/track/1veAi7J7LjuTPLzxeQiDee) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [TVアニメ「ある魔女が死ぬまで」オープニング主題歌　Drops](https://open.spotify.com/album/7qI9yLtdFEdIjoE7BVPk5Y) | 1:34 | 2025-05-25 | 2025-07-31 |
 | [Duet! feat\. 和田弘樹](https://open.spotify.com/track/1rwzyBNALfHD2uxLmpnTRI) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw), [和田弘樹](https://open.spotify.com/artist/3ISeKqB65XZIfHAR9gtLv2) | [Duets](https://open.spotify.com/album/1ne4G4bXK0eiLTUpbsb9xU) | 4:28 | 2022-12-29 | 2023-04-28 |
-| [eternal return](https://open.spotify.com/track/00zDrFpVH9js3GZGIX4xu9) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [30周年記念ベストアルバム　M30～Your Best～](https://open.spotify.com/album/5WTrnC9z8piakhnoy2FTlw) | 4:17 | 2026-01-30 |  |
+| [eternal return](https://open.spotify.com/track/00zDrFpVH9js3GZGIX4xu9) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [30周年記念ベストアルバム　M30～Your Best～](https://open.spotify.com/album/5WTrnC9z8piakhnoy2FTlw) | 4:17 | 2026-01-30 | 2026-05-05 |
 | [everywhere](https://open.spotify.com/track/4XyEcc4xWK6iRmJ52hm7Us) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [everywhere II](https://open.spotify.com/album/4Xj60blRaqz47sEMQZX44v) | 5:36 | 2026-04-28 |  |
 | [FOLLOW ME](https://open.spotify.com/track/6q49z2CInohThqhW5UAXa6) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [FOLLOW ME UP](https://open.spotify.com/album/7MQ0R1cgZTkGqxh0cZ1H0y) | 5:08 | 2022-08-10 | 2022-10-15 |
 | [Get No Satisfaction!](https://open.spotify.com/track/5QKuGPgCM0jFdYRm0yM19o) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [かぜよみ](https://open.spotify.com/album/0lhUq6EneNsa5onks6pTIl) | 4:10 | 2026-03-23 | 2026-04-01 |
@@ -52,7 +52,7 @@
 | [Okaerinasai \~TV size](https://open.spotify.com/track/1syM9C1Cg504bLRuH4H1es) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [Tamayura \~hitotose\~ Original Soundtrack](https://open.spotify.com/album/7ikmJkJuCDh3rTb4LgwLP1) | 1:52 | 2025-01-02 | 2025-01-27 |
 | [Once upon a time](https://open.spotify.com/track/1x17DIPhtroi0H8rxmRy6T) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [WOWOWオリジナルアニメ「火狩りの王」第2シーズンエンディングテーマ　抱きしめて](https://open.spotify.com/album/1qTmJgdaAoFsk8FskutwSP) | 4:47 | 2024-04-09 | 2024-07-12 |
 | [Remedy](https://open.spotify.com/track/4XAdNPY1UfDyQyqBkpZGuL) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [かぜよみ](https://open.spotify.com/album/0lhUq6EneNsa5onks6pTIl) | 4:31 | 2023-10-10 | 2026-04-12 |
-| [Remedy](https://open.spotify.com/track/0R4m9VGre46iGu1kfW2JAf) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [30周年記念ベストアルバム　M30～Your Best～](https://open.spotify.com/album/5WTrnC9z8piakhnoy2FTlw) | 4:34 | 2025-10-27 | 2026-01-15 |
+| [Remedy](https://open.spotify.com/track/0R4m9VGre46iGu1kfW2JAf) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [30周年記念ベストアルバム　M30～Your Best～](https://open.spotify.com/album/5WTrnC9z8piakhnoy2FTlw) | 4:34 | 2025-10-27 |  |
 | [Rule～色褪せない日々](https://open.spotify.com/track/5ZUn959T7v9HOXZqvUm9J7) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [ルーシー](https://open.spotify.com/album/7ALU9InqPU79M2k9fD4Yyy) | 5:29 | 2026-04-24 |  |
 | [SAVED.](https://open.spotify.com/track/0Q3M2UGqG8UisohFJUZ0QO) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [FOLLOW ME UP](https://open.spotify.com/album/7MQ0R1cgZTkGqxh0cZ1H0y) | 5:18 | 2022-08-10 | 2025-04-13 |
 | [SONIC BOOM](https://open.spotify.com/track/2fR18TKm6d10XByIfzV4cP) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [かぜよみ](https://open.spotify.com/album/0lhUq6EneNsa5onks6pTIl) | 4:22 | 2022-08-10 |  |
@@ -112,6 +112,7 @@
 | [プラリネ](https://open.spotify.com/track/4GTw5QJiho59YpZbOWq0u2) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [シングルコレクション＋　ミツバチ](https://open.spotify.com/album/6RLHiCgqAnKz0yGIO8bDAP) | 5:09 | 2026-04-25 |  |
 | [ヘミソフィア](https://open.spotify.com/track/2dHrD24YYb37yUjmosVq5S) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [シングルコレクション＋　ニコパチ](https://open.spotify.com/album/1IPkAkGZKrtoLucFzeEAIr) | 4:10 | 2022-08-10 |  |
 | [ボクらの歴史](https://open.spotify.com/track/7LEEAvmPqN12uMwbjyz8oE) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [30周年記念ベストアルバム　M30～Your Best～](https://open.spotify.com/album/5WTrnC9z8piakhnoy2FTlw) | 4:22 | 2025-11-29 | 2025-11-30 |
+| [ポケットを空にして](https://open.spotify.com/track/4nhX5QSKpSrA9PElJrJUvP) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [グレープフルーツ](https://open.spotify.com/album/3DoNxjRSTZnR4NLrQZhTFO) | 4:01 | 2026-05-05 |  |
 | [マジックナンバー](https://open.spotify.com/track/1GcAsatYciWxttl5OBNpSU) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [「こばと。」オープニングテーマ　マジックナンバー](https://open.spotify.com/album/5vvmNygwCzLKPuXwygrfIv) | 4:57 | 2024-05-15 |  |
 | [マジックナンバー](https://open.spotify.com/track/1wjyH8lbqbbN3dkxSYiCqj) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [シングルコレクション+ ミツバチ](https://open.spotify.com/album/6RLHiCgqAnKz0yGIO8bDAP) | 4:58 | 2022-08-10 | 2024-05-15 |
 | [マメシバ](https://open.spotify.com/track/6k4dbuGMvdA6OqS4ndLXII) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [ルーシー](https://open.spotify.com/album/7ALU9InqPU79M2k9fD4Yyy) | 6:07 | 2022-08-10 | 2026-04-24 |
@@ -168,8 +169,9 @@
 | [誓い](https://open.spotify.com/track/2uAWBwggHF64OV7PwaHHcG) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [30周年記念ベストアルバム　M30～Your Best～](https://open.spotify.com/album/5WTrnC9z8piakhnoy2FTlw) | 5:15 | 2025-10-26 |  |
 | [躍動](https://open.spotify.com/track/7fi2zDTlIUWMDPHrhm8Qsj) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [躍動](https://open.spotify.com/album/5zNh75gt6D4kRCWZXhb3UZ) | 4:09 | 2022-08-10 |  |
 | [逆光](https://open.spotify.com/track/4G60bHjDnAihnuswrq7tk3) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [逆光](https://open.spotify.com/album/26XVXGp8N4WC5l9d4pOhc0) | 4:48 | 2022-08-10 |  |
-| [逆光 \-unplugged session\-](https://open.spotify.com/track/3otsDATxGR5wvTEoCOkM82) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [独白→躍動　<FGO盤>](https://open.spotify.com/album/7hQknpgVxMUHWacI0toBrQ) | 5:43 | 2025-12-26 |  |
+| [逆光 \-unplugged session\-](https://open.spotify.com/track/3otsDATxGR5wvTEoCOkM82) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [独白→躍動　<FGO盤>](https://open.spotify.com/album/7hQknpgVxMUHWacI0toBrQ) | 5:43 | 2025-12-26 | 2026-05-05 |
 | [雨が降る](https://open.spotify.com/track/7pJmowV8EnAPMIwCgbFHQ0) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [かぜよみ](https://open.spotify.com/album/0lhUq6EneNsa5onks6pTIl) | 5:15 | 2022-08-10 |  |
+| [風が吹く日（Ma\-aya version）](https://open.spotify.com/track/62LX9aAiafyFvZxjvJ0DiV) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [everywhere I](https://open.spotify.com/album/7xG3nzuiSnUvaz1r0PfY1G) | 5:53 | 2026-05-05 |  |
 | [風待ちジェット\~kazeyomi edition](https://open.spotify.com/track/5WKdIWhEvWIeaUTCn99MH9) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [かぜよみ](https://open.spotify.com/album/0lhUq6EneNsa5onks6pTIl) | 4:17 | 2022-08-10 | 2022-10-13 |
 | [風待ちジェット](https://open.spotify.com/track/6elfYXeja90gz3lK3uvz4p) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [風待ちジェット　／　スピカ](https://open.spotify.com/album/3utevH6XoZFSjyurc7lPFT) | 3:51 | 2022-08-10 |  |
 

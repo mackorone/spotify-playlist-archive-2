@@ -206,7 +206,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 384110,
       "name": "Aasman",
       "url": "https://open.spotify.com/track/4UoghtpFglvrv1UwOiYiz3"
@@ -1194,6 +1194,28 @@
       "duration_ms": 322554,
       "name": "Dil Ke Chhaale",
       "url": "https://open.spotify.com/track/50704i9WQZM3Nco78XBLLo"
+    },
+    {
+      "album": {
+        "name": "Dil Ko Kya Ho Gaya",
+        "url": "https://open.spotify.com/album/1UGjatglbosswJpDv9DnLQ"
+      },
+      "artists": [
+        {
+          "name": "Gayatri Asokan",
+          "url": "https://open.spotify.com/artist/02MAGKfMlJmL5qqXaAS2JK"
+        },
+        {
+          "name": "Shom Chaterjjee",
+          "url": "https://open.spotify.com/artist/6FUKjekkN5Fr9BjlJFaiwf"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320975,
+      "name": "Dil Ko Kya Ho Gaya",
+      "url": "https://open.spotify.com/track/1bJmJAHwZJYnM3N1ZiFUmx"
     },
     {
       "album": {

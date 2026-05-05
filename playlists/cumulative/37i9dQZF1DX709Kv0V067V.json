@@ -1814,7 +1814,7 @@
       ],
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 189714,
       "name": "Ethereal Notions",
       "url": "https://open.spotify.com/track/6zFDalcVCZ77Uu2RQ8blxD"
@@ -3056,7 +3056,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 218947,
       "name": "living with purpose",
       "url": "https://open.spotify.com/track/2TncYGmsmmSZUUdGgWzCn0"
@@ -4737,6 +4737,24 @@
     },
     {
       "album": {
+        "name": "Seraphic",
+        "url": "https://open.spotify.com/album/1PzTgjH2x6Lm8FDKOaUcAQ"
+      },
+      "artists": [
+        {
+          "name": "Dwaci Phun",
+          "url": "https://open.spotify.com/artist/6GIa0pjwqMVbFyEBKrTJHj"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131153,
+      "name": "Seraphic",
+      "url": "https://open.spotify.com/track/7IHXXyNqk3MHg2YOSb0iPY"
+    },
+    {
+      "album": {
         "name": "Seraphina Woods",
         "url": "https://open.spotify.com/album/37Cby65UbMz5qWGaay3ABk"
       },
@@ -5310,6 +5328,24 @@
       "duration_ms": 148726,
       "name": "The Chirping of the Birds",
       "url": "https://open.spotify.com/track/0pENBGBsTq0eBIvSRQlAmN"
+    },
+    {
+      "album": {
+        "name": "The Far Track",
+        "url": "https://open.spotify.com/album/1U6MVr9G0c4VexobT57ECk"
+      },
+      "artists": [
+        {
+          "name": "Brave Olgot",
+          "url": "https://open.spotify.com/artist/36ZUkDeMXc5THGh3Wzls66"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191972,
+      "name": "The Far Track",
+      "url": "https://open.spotify.com/track/5RGUAh7hIV7s2i0mNkDAo4"
     },
     {
       "album": {

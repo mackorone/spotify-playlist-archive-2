@@ -481,6 +481,24 @@
     },
     {
       "album": {
+        "name": "America",
+        "url": "https://open.spotify.com/album/5EIxl0YXV9E9OOJxMGeP7j"
+      },
+      "artists": [
+        {
+          "name": "Skags",
+          "url": "https://open.spotify.com/artist/3C0AhBs8F5zmWqpbSgi8ux"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245266,
+      "name": "America",
+      "url": "https://open.spotify.com/track/1lF0cXPNLyNUmvcgS7kUwp"
+    },
+    {
+      "album": {
         "name": "Anemia",
         "url": "https://open.spotify.com/album/2hVCVRqUQt7UE41lNrh9DZ"
       },
@@ -2286,6 +2304,24 @@
       "duration_ms": 168618,
       "name": "Easy Rollin",
       "url": "https://open.spotify.com/track/32v73Yi63EoEukVxoaSv93"
+    },
+    {
+      "album": {
+        "name": "Echo",
+        "url": "https://open.spotify.com/album/1bAebW2AS0ShcgUX7QKtQm"
+      },
+      "artists": [
+        {
+          "name": "Salad Slush",
+          "url": "https://open.spotify.com/artist/3RlKnZ8ITYDL1Yqq4lkx0Z"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202339,
+      "name": "Echo",
+      "url": "https://open.spotify.com/track/3uWbd2PbEScUsakim9ChzO"
     },
     {
       "album": {

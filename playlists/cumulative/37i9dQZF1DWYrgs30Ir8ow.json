@@ -6764,7 +6764,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 224000,
       "name": "Drag Path",
       "url": "https://open.spotify.com/track/0TlcczkVTGpinpkGJpT81L"
@@ -7066,7 +7066,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 136802,
       "name": "Dure Geintje",
       "url": "https://open.spotify.com/track/0LAQc7pyZaVxo7C6czJ7rz"
@@ -8291,6 +8291,24 @@
     },
     {
       "album": {
+        "name": "FINE PLACE TO DIE",
+        "url": "https://open.spotify.com/album/5BE6sXUzT8u1Dm02n1pN5r"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187423,
+      "name": "FINE PLACE TO DIE",
+      "url": "https://open.spotify.com/track/2k4PvUBCu1mkNbXLXhvaBW"
+    },
+    {
+      "album": {
         "name": "For All The Dogs",
         "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
       },
@@ -8570,6 +8588,28 @@
       "duration_ms": 212345,
       "name": "Free (with Ellie Goulding)",
       "url": "https://open.spotify.com/track/3NxB1jubUWY6zit9rOk8ZC"
+    },
+    {
+      "album": {
+        "name": "Free Your Mind",
+        "url": "https://open.spotify.com/album/0uo2O3BcYrZJzCnHk0I0BU"
+      },
+      "artists": [
+        {
+          "name": "Prospa",
+          "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
+        },
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201700,
+      "name": "Free Your Mind",
+      "url": "https://open.spotify.com/track/6TWbY1dq8eYtFiMiGdBlOa"
     },
     {
       "album": {
@@ -17656,7 +17696,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 177346,
       "name": "Op Een Go",
       "url": "https://open.spotify.com/track/5MFDSAWYjuWNZIKmhbBCJQ"
@@ -18550,7 +18590,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 262726,
       "name": "Porch Light",
       "url": "https://open.spotify.com/track/0AV4GhGeGCVJphsMTxDWdE"
@@ -18884,6 +18924,44 @@
       "duration_ms": 134641,
       "name": "Puinhoop",
       "url": "https://open.spotify.com/track/5UR6iM7zFdl0JhY4JZ7NIw"
+    },
+    {
+      "album": {
+        "name": "Punta cana (feat. ADF Antje, Trapmoneybiggie & Carel)",
+        "url": "https://open.spotify.com/album/3EZYBf3uZB5ilS6Olfammf"
+      },
+      "artists": [
+        {
+          "name": "ADF",
+          "url": "https://open.spotify.com/artist/6VT2Npi6yGDqn3H07qI1DY"
+        },
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+        },
+        {
+          "name": "DJ DYLVN",
+          "url": "https://open.spotify.com/artist/0UW6JJvOT28AEOnu9H9d5l"
+        },
+        {
+          "name": "ADF Antje",
+          "url": "https://open.spotify.com/artist/0CKK7htZL4Vhg1OycK8FFP"
+        },
+        {
+          "name": "Trapmoneybiggie",
+          "url": "https://open.spotify.com/artist/2chklSpWYaRe261GLkvKrv"
+        },
+        {
+          "name": "Carel",
+          "url": "https://open.spotify.com/artist/5qbldCiZAkn2KfwyUfithX"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146666,
+      "name": "Punta cana (feat. ADF Antje, Trapmoneybiggie & Carel)",
+      "url": "https://open.spotify.com/track/6zDGORdshSWpR5nYMnEUZH"
     },
     {
       "album": {
@@ -19630,6 +19708,32 @@
       "duration_ms": 183626,
       "name": "Rondjes",
       "url": "https://open.spotify.com/track/4nJDZctVlsqaQhtCTPZFj2"
+    },
+    {
+      "album": {
+        "name": "Rozen & Blaadjes",
+        "url": "https://open.spotify.com/album/1v6MVT0CLct3K7NGC9gQmj"
+      },
+      "artists": [
+        {
+          "name": "Frsh",
+          "url": "https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN"
+        },
+        {
+          "name": "Cristian D",
+          "url": "https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4"
+        },
+        {
+          "name": "LA$$A",
+          "url": "https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149743,
+      "name": "Rozen & Blaadjes",
+      "url": "https://open.spotify.com/track/2GRrIFuUibIBf2RMFYu1MR"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1fIzg7.md) - [plain]
 
 > This is Sophie Ellis\-Bextor\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,804 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,805 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1fIzg7.md) - [plain]
 | 49 | [While You're Still Young \- From ''Everybody's Talking About Jamie''](https://open.spotify.com/track/3y9X7WbtxkgzYnzBFzFXrf) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE), [The Feeling](https://open.spotify.com/artist/4AksvCnkZaQoTu1nJr62Db) | [While You're Still Young \(From ''Everybody's Talking About Jamie''\)](https://open.spotify.com/album/4EJNd5H3wQlvA0TFwDXQIA) | 3:03 |
 | 50 | [China Heart](https://open.spotify.com/track/1PggUiqeneTerNpJ3nAa4A) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Trip The Light Fantastic](https://open.spotify.com/album/7GYv8e5KITGMiVAz64BLbw) | 3:42 |
 
-Snapshot ID: `afU+gAAAAADdNlpehEm5v1PMxunHyJV0`
+Snapshot ID: `afaQAAAAAABOcEEqiteZsGVc9jYJBIQb`

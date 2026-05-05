@@ -4,7 +4,7 @@
 
 > 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese women rock icons\. Cover: ブランデー戦記
 
-2,033 songs - 5 day 5 hr 53 min
+2,034 songs - 5 day 5 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -860,7 +860,7 @@
 | [Super Express](https://open.spotify.com/track/3GlRLcA7sxJu6HtGH9CrAE) | [yonige](https://open.spotify.com/artist/6uovEmc6Z1C1aUvvdKACXQ) | [Empire](https://open.spotify.com/album/3eOZSTk2k4cT874YBeanry) | 3:51 | 2024-01-10 | 2024-02-07 |
 | [Super Hero](https://open.spotify.com/track/5fGqPgwGLJOiCD3hc3imNv) | [Doul](https://open.spotify.com/artist/6iCB8Oh5qNCfMM6Bjn3bOf) | [Super Hero](https://open.spotify.com/album/4FN8M7IILtVO5KRWmAqWAq) | 2:41 | 2022-05-26 | 2022-07-24 |
 | [Supermoon](https://open.spotify.com/track/4nMZXcJZT3myxnZQLoitGG) | [Veg](https://open.spotify.com/artist/2DKxnCTjTtykz26xhPeoF8) | [Moonshot](https://open.spotify.com/album/3aHM9GGh7QnDvaP8wOlp4X) | 2:46 | 2022-11-15 | 2022-11-23 |
-| [SWEET MAGIC](https://open.spotify.com/track/61tmQ29LoIoDmAgcZLqfyf) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [SWEET MAGIC](https://open.spotify.com/album/0suptqC4XOddvtb9eF0kUX) | 3:13 | 2026-02-10 |  |
+| [SWEET MAGIC](https://open.spotify.com/track/61tmQ29LoIoDmAgcZLqfyf) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [SWEET MAGIC](https://open.spotify.com/album/0suptqC4XOddvtb9eF0kUX) | 3:13 | 2026-02-10 | 2026-05-05 |
 | [sweet sweat sweets](https://open.spotify.com/track/3KG3o12XniiYfOVeKDM3F5) | [Ikkyu Nakajima](https://open.spotify.com/artist/6k2sSE14muOoOAv0dZ5soM) | [sweet sweat sweets](https://open.spotify.com/album/2pllw5IgqYznlCXCHVOxZV) | 4:26 | 2024-04-02 | 2024-04-19 |
 | [sweet sweat sweets](https://open.spotify.com/track/54unc0q8tOUAJasqOLQuky) | [中嶋イッキュウ](https://open.spotify.com/artist/0ECtZzBFJReIvl2oklpBJ6) | [sweet sweat sweets](https://open.spotify.com/album/6bAL6YhCOAXhth1GVFp856) | 4:26 | 2024-04-16 | 2024-04-24 |
 | [sweet vertigo](https://open.spotify.com/track/60YSKrBkxoZGwOtoUKvZm3) | [Laura day romance](https://open.spotify.com/artist/19RZk1SGPSL1DChYdDQYl1) | [works.ep](https://open.spotify.com/album/1JxwaDeWRXBXqJtYeNC0XK) | 4:31 | 2023-01-24 | 2023-01-26 |
@@ -1286,7 +1286,7 @@
 | [スコール](https://open.spotify.com/track/1U23THBaubRf4NciTgRaxS) | [門脇更紗](https://open.spotify.com/artist/0smdS7QS5s0qwhfrXkZaSX) | [ファウンテンブルーに染まって](https://open.spotify.com/album/5nNU1jANc6z2LnFxjUr7lV) | 3:25 | 2022-07-26 | 2022-07-29 |
 | [スタンド・バイ・ミー](https://open.spotify.com/track/1uqIzwX6OaH0adzFHHb8ms) | [初恋モーテル](https://open.spotify.com/artist/1WEhXsGPvA5DS1810cjnOS) | [スタンド・バイ・ミー](https://open.spotify.com/album/63xKPJKQLaOfC4X2jQMbWw) | 4:50 | 2023-11-28 | 2023-12-06 |
 | [スターゲイザー](https://open.spotify.com/track/4qCSth5mnvHMgdfj6HdOoR) | [AFTER SQUALL](https://open.spotify.com/artist/6NmGshcGuIkxttVAsEu8Ns) | [スターゲイザー](https://open.spotify.com/album/4jin3PAlVzrpcXSY3MJw3X) | 2:58 | 2023-11-02 | 2023-11-08 |
-| [スターサイン](https://open.spotify.com/track/7LsVLiojCVPKSjb7n5uwMj) | [Aooo](https://open.spotify.com/artist/2Tz9q3iKdePddG0s46E9X2) | [スターサイン](https://open.spotify.com/album/740WJc46dcHEz0eVZDwj0b) | 4:26 | 2025-12-09 |  |
+| [スターサイン](https://open.spotify.com/track/7LsVLiojCVPKSjb7n5uwMj) | [Aooo](https://open.spotify.com/artist/2Tz9q3iKdePddG0s46E9X2) | [スターサイン](https://open.spotify.com/album/740WJc46dcHEz0eVZDwj0b) | 4:26 | 2025-12-09 | 2026-05-05 |
 | [スタートライン](https://open.spotify.com/track/6d7n4mH1mkHXTNWyOzcfSo) | [アカネサス](https://open.spotify.com/artist/7E61BhEMgngwg7EPgS17vl) | [スタートライン](https://open.spotify.com/album/711bie7AWuI4FxkHLXeW8E) | 4:31 | 2022-05-31 | 2022-07-01 |
 | [ストックホルムの箱](https://open.spotify.com/track/4gMLLDFwe4Ehd8Kd6cYHmo) | [Brandy Senki](https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA) | [ストックホルムの箱](https://open.spotify.com/album/51oY8HhOEljEFqIOIyzsOG) | 2:40 | 2023-12-26 | 2023-12-30 |
 | [スノウドロップ](https://open.spotify.com/track/7pfswWE0zmNze4HnPtvJzl) | [Conton Candy](https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq) | [スノウドロップ](https://open.spotify.com/album/42M8N9jUgF0L5uIQPvBoqn) | 2:59 | 2025-07-08 |  |
@@ -1486,6 +1486,7 @@
 | [リアライズ](https://open.spotify.com/track/6EUIU3lk0k61p67JdmJk0N) | [gyouninven](https://open.spotify.com/artist/1sYc6sSH2Oazo9seO3xdiH) | [会話と解話](https://open.spotify.com/album/3U7xfXLvn1D45iZnKdCzgL) | 4:27 | 2023-01-10 | 2023-01-18 |
 | [リグレットベイビーズ](https://open.spotify.com/track/51cpDgNDiulaRy3BL8rglS) | [Laura day romance](https://open.spotify.com/artist/19RZk1SGPSL1DChYdDQYl1) | [透明 / リグレットベイビーズ](https://open.spotify.com/album/7wL6j59eR6K2JL3kF8VhFU) | 4:13 | 2024-04-23 | 2024-07-17 |
 | [リップシンク](https://open.spotify.com/track/1kyp3dQGHftpJRpRAoY94z) | [Conton Candy](https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq) | [charm](https://open.spotify.com/album/4dw6Vqh0YknvgzKcfyKbIZ) | 3:10 | 2023-09-19 | 2024-01-09 |
+| [リトルワールド](https://open.spotify.com/track/1cflsQcGcOcL7gkZaPyiYm) | [PompadollS](https://open.spotify.com/artist/5LNw7upmiw5BIrN2UPLeL0) | [リトルワールド](https://open.spotify.com/album/1zAo81LJpiaH49DbvEKqCU) | 3:08 | 2026-04-29 |  |
 | [リドー](https://open.spotify.com/track/2ZKDT4B7UhV549F4FajHCX) | [POLKADOT STINGRAY](https://open.spotify.com/artist/5zV9afUO4DVqJeRaZvfNev) | [リドー](https://open.spotify.com/album/6E4R01brTT1PaoQTw1AdUd) | 3:41 | 2022-08-23 | 2023-04-14 |
 | [リベリオン](https://open.spotify.com/track/3AchaKyy2z6K85YGR729JQ) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [リベリオン](https://open.spotify.com/album/120fFIxJOERpjvhdC7xJSE) | 2:58 | 2022-09-20 | 2024-10-02 |
 | [リベリオン](https://open.spotify.com/track/3JTIwNusgtT95H26DDadkc) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Ado "Ready For My Show Playlist"](https://open.spotify.com/album/31LvSRXGPVhYs2EZFK0BEU) | 2:58 | 2024-02-08 | 2024-04-19 |
@@ -1945,7 +1946,7 @@
 | [衝動](https://open.spotify.com/track/5vgIol0CCCIC0eykwAGOdS) | [GLIM SPANKY](https://open.spotify.com/artist/4sWyw0OrBKwmiaPOAuTuig) | [衝動](https://open.spotify.com/album/3eY3c5xGJlTJzqHQhUa4ZV) | 3:47 | 2025-05-13 | 2025-08-06 |
 | [西日暮里の緑](https://open.spotify.com/track/0RtpYEDtccOkPrL7j1P3hz) | [松田今宵](https://open.spotify.com/artist/4hFuB8PPtCDza8ewzekmbf) | [西日暮里の緑](https://open.spotify.com/album/3F7PUM6MDPsT1OsOcAlnVm) | 4:03 | 2023-10-31 | 2023-11-08 |
 | [見世物](https://open.spotify.com/track/283aB9WeOzwvCEOjbtQuKB) | [PASSEPIED](https://open.spotify.com/artist/115IWAVy4OTxhE0xdDef1c) | [見世物](https://open.spotify.com/album/2QalMePs3M0z6pe7D5RmUX) | 3:07 | 2022-06-07 | 2022-06-15 |
-| [覚悟を決めろ!](https://open.spotify.com/track/5h54yjg8ee1CEuni56Q3Rj) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [覚悟を決めろ!](https://open.spotify.com/album/2eoWg1Bc1vn6m4HxSwya2v) | 3:54 | 2024-05-21 | 2026-04-15 |
+| [覚悟を決めろ!](https://open.spotify.com/track/5h54yjg8ee1CEuni56Q3Rj) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [覚悟を決めろ!](https://open.spotify.com/album/2eoWg1Bc1vn6m4HxSwya2v) | 3:54 | 2024-05-21 |  |
 | [覚悟を決めろ!](https://open.spotify.com/track/6oGK40sTrlPSkR8yf0f04P) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [覚悟を決めろ!](https://open.spotify.com/album/0jtrUUnMiw14yT1vSyA4mV) | 3:54 | 2024-02-13 | 2024-02-15 |
 | [親切](https://open.spotify.com/track/2RnXVeReXWimlSHYS2jb6n) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [親切](https://open.spotify.com/album/5ORTHZhl6yeS8Wa6GCBi02) | 2:30 | 2025-01-28 | 2025-02-19 |
 | [解けない駆け引き](https://open.spotify.com/track/3yuxKDzsVEDmuJZklfkOGE) | [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM), [クボタカイ](https://open.spotify.com/artist/0eg7sMst2b9wLVyMgtRFpY) | [解けない駆け引き](https://open.spotify.com/album/0IYw7ZTP5rENmMihhNG1On) | 4:27 | 2022-05-31 | 2022-07-07 |

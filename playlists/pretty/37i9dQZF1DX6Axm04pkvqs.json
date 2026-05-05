@@ -1,6 +1,6 @@
 {
   "description": "When my mouth has no words, let my spirit sing",
-  "num_followers": 75978,
+  "num_followers": 76056,
   "original_name": "Worship Chants",
   "owner": {
     "name": "Spotify",
@@ -75,22 +75,6 @@
     {
       "added_at": "2024-07-26 00:01:00",
       "album": {
-        "name": "Never Be the Same",
-        "url": "https://open.spotify.com/album/1tUbpFa1twKE0dwltJpaF1"
-      },
-      "artists": [
-        {
-          "name": "David Dam",
-          "url": "https://open.spotify.com/artist/1vNw15c6UztXmCZTCwTPdc"
-        }
-      ],
-      "duration_ms": 384000,
-      "name": "Never Be the Same",
-      "url": "https://open.spotify.com/track/10FpYQLJ3urAr7tPJOnFy5"
-    },
-    {
-      "added_at": "2024-07-26 00:01:00",
-      "album": {
         "name": "Deeper Experience Chant",
         "url": "https://open.spotify.com/album/1Tay2nbUOJnoshqUEoIbO8"
       },
@@ -111,22 +95,6 @@
     {
       "added_at": "2024-07-26 00:01:00",
       "album": {
-        "name": "Calling My Name (I'm A Soldier) [Live]",
-        "url": "https://open.spotify.com/album/43Ezc94qcwnX6mnmuUQnUO"
-      },
-      "artists": [
-        {
-          "name": "Ebuka Songs",
-          "url": "https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM"
-        }
-      ],
-      "duration_ms": 638798,
-      "name": "Calling My Name (I'm A Soldier) - Live",
-      "url": "https://open.spotify.com/track/6pKrwKfT1IUq6GvO7xtlIW"
-    },
-    {
-      "added_at": "2024-07-26 00:01:00",
-      "album": {
         "name": "Ekwueme to the World Project",
         "url": "https://open.spotify.com/album/1hLkcPy59fyfQktW86MaOQ"
       },
@@ -143,6 +111,38 @@
       "duration_ms": 417169,
       "name": "Ekwueme",
       "url": "https://open.spotify.com/track/5YOR2BKwdWNnDqIZzEgguu"
+    },
+    {
+      "added_at": "2024-07-26 00:01:00",
+      "album": {
+        "name": "Calling My Name (I'm A Soldier) [Live]",
+        "url": "https://open.spotify.com/album/43Ezc94qcwnX6mnmuUQnUO"
+      },
+      "artists": [
+        {
+          "name": "Ebuka Songs",
+          "url": "https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM"
+        }
+      ],
+      "duration_ms": 638798,
+      "name": "Calling My Name (I'm A Soldier) - Live",
+      "url": "https://open.spotify.com/track/6pKrwKfT1IUq6GvO7xtlIW"
+    },
+    {
+      "added_at": "2024-07-26 00:01:00",
+      "album": {
+        "name": "Never Be the Same",
+        "url": "https://open.spotify.com/album/1tUbpFa1twKE0dwltJpaF1"
+      },
+      "artists": [
+        {
+          "name": "David Dam",
+          "url": "https://open.spotify.com/artist/1vNw15c6UztXmCZTCwTPdc"
+        }
+      ],
+      "duration_ms": 384000,
+      "name": "Never Be the Same",
+      "url": "https://open.spotify.com/track/10FpYQLJ3urAr7tPJOnFy5"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -199,22 +199,6 @@
     {
       "added_at": "2024-07-26 00:01:00",
       "album": {
-        "name": "Elohim Adonai",
-        "url": "https://open.spotify.com/album/3u20aiiz0pNhRvOWiXuvvN"
-      },
-      "artists": [
-        {
-          "name": "David Dam",
-          "url": "https://open.spotify.com/artist/1vNw15c6UztXmCZTCwTPdc"
-        }
-      ],
-      "duration_ms": 227998,
-      "name": "Elohim Adonai",
-      "url": "https://open.spotify.com/track/5dIj0tNjsEeF1h2QfnrGDo"
-    },
-    {
-      "added_at": "2024-07-26 00:01:00",
-      "album": {
         "name": "Out of My Belly (Live)",
         "url": "https://open.spotify.com/album/1nqWp6JtcCYJSAqczv8rsM"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 864287,
       "name": "Out of My Belly - Live",
       "url": "https://open.spotify.com/track/50nShU4u2162BawAOHjH03"
+    },
+    {
+      "added_at": "2024-07-26 00:01:00",
+      "album": {
+        "name": "Elohim Adonai",
+        "url": "https://open.spotify.com/album/3u20aiiz0pNhRvOWiXuvvN"
+      },
+      "artists": [
+        {
+          "name": "David Dam",
+          "url": "https://open.spotify.com/artist/1vNw15c6UztXmCZTCwTPdc"
+        }
+      ],
+      "duration_ms": 227998,
+      "name": "Elohim Adonai",
+      "url": "https://open.spotify.com/track/5dIj0tNjsEeF1h2QfnrGDo"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -367,22 +367,6 @@
     {
       "added_at": "2024-07-26 00:01:00",
       "album": {
-        "name": "The Secret Place (Live)",
-        "url": "https://open.spotify.com/album/3Z3z970scVmziRFi96ChyU"
-      },
-      "artists": [
-        {
-          "name": "1Spirit & Theophilus Sunday",
-          "url": "https://open.spotify.com/artist/6k3PaNSSf7mNa4lauJUV00"
-        }
-      ],
-      "duration_ms": 385537,
-      "name": "Adullam (Live)",
-      "url": "https://open.spotify.com/track/6nNZp7XHRg8jVqOIlkCxzK"
-    },
-    {
-      "added_at": "2024-07-26 00:01:00",
-      "album": {
         "name": "Iwo Loba",
         "url": "https://open.spotify.com/album/41TyHM9fcGLKecb3k6zJyp"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 893936,
       "name": "Iwo Loba",
       "url": "https://open.spotify.com/track/27YFofQ1E31ldqdR6wqA7F"
+    },
+    {
+      "added_at": "2024-07-26 00:01:00",
+      "album": {
+        "name": "The Secret Place (Live)",
+        "url": "https://open.spotify.com/album/3Z3z970scVmziRFi96ChyU"
+      },
+      "artists": [
+        {
+          "name": "1Spirit & Theophilus Sunday",
+          "url": "https://open.spotify.com/artist/6k3PaNSSf7mNa4lauJUV00"
+        }
+      ],
+      "duration_ms": 385537,
+      "name": "Adullam (Live)",
+      "url": "https://open.spotify.com/track/6nNZp7XHRg8jVqOIlkCxzK"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -467,22 +467,6 @@
     {
       "added_at": "2024-07-26 00:01:00",
       "album": {
-        "name": "There Is Prophecy over Me",
-        "url": "https://open.spotify.com/album/1GxceZu3kgGHqGx8hXgDWH"
-      },
-      "artists": [
-        {
-          "name": "1Spirit & Theophilus Sunday",
-          "url": "https://open.spotify.com/artist/6k3PaNSSf7mNa4lauJUV00"
-        }
-      ],
-      "duration_ms": 800000,
-      "name": "There Is Prophecy over Me",
-      "url": "https://open.spotify.com/track/6pKhtSc35N8WhiJNS0Dymx"
-    },
-    {
-      "added_at": "2024-07-26 00:01:00",
-      "album": {
         "name": "Withholding Nothing",
         "url": "https://open.spotify.com/album/79pY0CI3DHjpjrM330xPNH"
       },
@@ -531,6 +515,22 @@
     {
       "added_at": "2024-07-26 00:01:00",
       "album": {
+        "name": "There Is Prophecy over Me",
+        "url": "https://open.spotify.com/album/1GxceZu3kgGHqGx8hXgDWH"
+      },
+      "artists": [
+        {
+          "name": "1Spirit & Theophilus Sunday",
+          "url": "https://open.spotify.com/artist/6k3PaNSSf7mNa4lauJUV00"
+        }
+      ],
+      "duration_ms": 800000,
+      "name": "There Is Prophecy over Me",
+      "url": "https://open.spotify.com/track/6pKhtSc35N8WhiJNS0Dymx"
+    },
+    {
+      "added_at": "2024-07-26 00:01:00",
+      "album": {
         "name": "Oji Oku Eri Ajah",
         "url": "https://open.spotify.com/album/3EiHk4Jztk0jj4Q12Fcemv"
       },
@@ -543,22 +543,6 @@
       "duration_ms": 675709,
       "name": "Oji Oku Eri Ajah",
       "url": "https://open.spotify.com/track/1MJ3oZLUAgjI9rK63EMYoM"
-    },
-    {
-      "added_at": "2024-07-26 00:01:00",
-      "album": {
-        "name": "The Walk (Live)",
-        "url": "https://open.spotify.com/album/0aVJdALLq2Z3AsanxbvYyG"
-      },
-      "artists": [
-        {
-          "name": "1Spirit & Theophilus Sunday",
-          "url": "https://open.spotify.com/artist/6k3PaNSSf7mNa4lauJUV00"
-        }
-      ],
-      "duration_ms": 348473,
-      "name": "Holy Fire (Live)",
-      "url": "https://open.spotify.com/track/6UEIholh21jeDvwsNpZXGy"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -615,6 +599,22 @@
     {
       "added_at": "2024-07-26 00:01:00",
       "album": {
+        "name": "The Walk (Live)",
+        "url": "https://open.spotify.com/album/0aVJdALLq2Z3AsanxbvYyG"
+      },
+      "artists": [
+        {
+          "name": "1Spirit & Theophilus Sunday",
+          "url": "https://open.spotify.com/artist/6k3PaNSSf7mNa4lauJUV00"
+        }
+      ],
+      "duration_ms": 348473,
+      "name": "Holy Fire (Live)",
+      "url": "https://open.spotify.com/track/6UEIholh21jeDvwsNpZXGy"
+    },
+    {
+      "added_at": "2024-07-26 00:01:00",
+      "album": {
         "name": "Fragrance (feat. GGTQ All Stars)",
         "url": "https://open.spotify.com/album/4taa6a2TeF7uSOS6280L0p"
       },
@@ -633,20 +633,20 @@
       "url": "https://open.spotify.com/track/3BbGiJH0O5U1E9hJaFJuPO"
     },
     {
-      "added_at": "2024-07-26 00:01:00",
+      "added_at": "2025-02-14 00:01:09",
       "album": {
-        "name": "Take Over",
-        "url": "https://open.spotify.com/album/7t8Jh2tXzb2wIbJ9XwH9ri"
+        "name": "Alignment Chant",
+        "url": "https://open.spotify.com/album/1aDMbqtd24f2gedKY5D17e"
       },
       "artists": [
         {
-          "name": "1Spirit & Theophilus Sunday",
-          "url": "https://open.spotify.com/artist/6k3PaNSSf7mNa4lauJUV00"
+          "name": "Lawrence Oyor",
+          "url": "https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI"
         }
       ],
-      "duration_ms": 835128,
-      "name": "Take Over",
-      "url": "https://open.spotify.com/track/0kd6sF1sDNJmFcpoZKWKMD"
+      "duration_ms": 810956,
+      "name": "Alignment Chant - EP",
+      "url": "https://open.spotify.com/track/0t7faQrQwjAZYxQyODCj6z"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -683,6 +683,22 @@
     {
       "added_at": "2024-07-26 00:01:00",
       "album": {
+        "name": "Take Over",
+        "url": "https://open.spotify.com/album/7t8Jh2tXzb2wIbJ9XwH9ri"
+      },
+      "artists": [
+        {
+          "name": "1Spirit & Theophilus Sunday",
+          "url": "https://open.spotify.com/artist/6k3PaNSSf7mNa4lauJUV00"
+        }
+      ],
+      "duration_ms": 835128,
+      "name": "Take Over",
+      "url": "https://open.spotify.com/track/0kd6sF1sDNJmFcpoZKWKMD"
+    },
+    {
+      "added_at": "2024-07-26 00:01:00",
+      "album": {
         "name": "The Glory Experience (Songs of Zion)",
         "url": "https://open.spotify.com/album/5CekMpHMo17ilQctFxI6TT"
       },
@@ -695,38 +711,6 @@
       "duration_ms": 778895,
       "name": "When God Walks In",
       "url": "https://open.spotify.com/track/38NkJdwVwSzezWnenSYR4A"
-    },
-    {
-      "added_at": "2025-02-14 00:01:09",
-      "album": {
-        "name": "Alignment Chant",
-        "url": "https://open.spotify.com/album/1aDMbqtd24f2gedKY5D17e"
-      },
-      "artists": [
-        {
-          "name": "Lawrence Oyor",
-          "url": "https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI"
-        }
-      ],
-      "duration_ms": 810956,
-      "name": "Alignment Chant - EP",
-      "url": "https://open.spotify.com/track/0t7faQrQwjAZYxQyODCj6z"
-    },
-    {
-      "added_at": "2024-07-26 00:01:00",
-      "album": {
-        "name": "Eternity in View",
-        "url": "https://open.spotify.com/album/0uWI0ToFhg1eLuNvr32eGY"
-      },
-      "artists": [
-        {
-          "name": "1Spirit & Theophilus Sunday",
-          "url": "https://open.spotify.com/artist/6k3PaNSSf7mNa4lauJUV00"
-        }
-      ],
-      "duration_ms": 214479,
-      "name": "Intensify",
-      "url": "https://open.spotify.com/track/2apSO736RbDC57Uwg1X7vw"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -747,6 +731,26 @@
       "duration_ms": 760597,
       "name": "Daddy wey dey Pamper",
       "url": "https://open.spotify.com/track/69XcPlRongDtwlOOSwcp2E"
+    },
+    {
+      "added_at": "2024-07-26 00:01:00",
+      "album": {
+        "name": "Adua Ke (Cover)",
+        "url": "https://open.spotify.com/album/4ERejtj6c9RXkAZxExOWif"
+      },
+      "artists": [
+        {
+          "name": "Lawrence Oyor",
+          "url": "https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI"
+        },
+        {
+          "name": "Godswill Oyor",
+          "url": "https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS"
+        }
+      ],
+      "duration_ms": 300816,
+      "name": "Adua Ke (Cover)",
+      "url": "https://open.spotify.com/track/19m3PKmrtknv7pBQVySo5j"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -783,22 +787,18 @@
     {
       "added_at": "2024-07-26 00:01:00",
       "album": {
-        "name": "Adua Ke (Cover)",
-        "url": "https://open.spotify.com/album/4ERejtj6c9RXkAZxExOWif"
+        "name": "Eternity in View",
+        "url": "https://open.spotify.com/album/0uWI0ToFhg1eLuNvr32eGY"
       },
       "artists": [
         {
-          "name": "Lawrence Oyor",
-          "url": "https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI"
-        },
-        {
-          "name": "Godswill Oyor",
-          "url": "https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS"
+          "name": "1Spirit & Theophilus Sunday",
+          "url": "https://open.spotify.com/artist/6k3PaNSSf7mNa4lauJUV00"
         }
       ],
-      "duration_ms": 300816,
-      "name": "Adua Ke (Cover)",
-      "url": "https://open.spotify.com/track/19m3PKmrtknv7pBQVySo5j"
+      "duration_ms": 214479,
+      "name": "Intensify",
+      "url": "https://open.spotify.com/track/2apSO736RbDC57Uwg1X7vw"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -819,22 +819,6 @@
       "duration_ms": 479506,
       "name": "House of Prayer (feat. Jayna Cullens)",
       "url": "https://open.spotify.com/track/386uNqsMRVtiKDulq2P16T"
-    },
-    {
-      "added_at": "2024-07-26 00:01:00",
-      "album": {
-        "name": "Names of God",
-        "url": "https://open.spotify.com/album/3WCZbOcvzRlzyEnRVPtKQF"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Bassey",
-          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
-        }
-      ],
-      "duration_ms": 511207,
-      "name": "Adonai",
-      "url": "https://open.spotify.com/track/7axctArGc7dtaEJSl3IZge"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -875,6 +859,22 @@
       "duration_ms": 400979,
       "name": "My Altar Is Calling You",
       "url": "https://open.spotify.com/track/0yVKmHilBXbDZgC3dT7zy5"
+    },
+    {
+      "added_at": "2025-08-29 00:01:17",
+      "album": {
+        "name": "Joy Chant",
+        "url": "https://open.spotify.com/album/5vL8tCAa5HZmg5SsXQziPN"
+      },
+      "artists": [
+        {
+          "name": "SteveHills",
+          "url": "https://open.spotify.com/artist/6EaWQoRFKjzdn9YzlDO89M"
+        }
+      ],
+      "duration_ms": 531724,
+      "name": "Joy Chant",
+      "url": "https://open.spotify.com/track/4FaVSby2tGf0H9tg10d6pH"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -921,22 +921,6 @@
       "url": "https://open.spotify.com/track/2RXbpRdcxIq513gWw7tgn7"
     },
     {
-      "added_at": "2025-08-29 00:01:17",
-      "album": {
-        "name": "Joy Chant",
-        "url": "https://open.spotify.com/album/5vL8tCAa5HZmg5SsXQziPN"
-      },
-      "artists": [
-        {
-          "name": "SteveHills",
-          "url": "https://open.spotify.com/artist/6EaWQoRFKjzdn9YzlDO89M"
-        }
-      ],
-      "duration_ms": 531724,
-      "name": "Joy Chant",
-      "url": "https://open.spotify.com/track/4FaVSby2tGf0H9tg10d6pH"
-    },
-    {
       "added_at": "2024-07-26 00:01:00",
       "album": {
         "name": "The Zamar Experience",
@@ -951,6 +935,22 @@
       "duration_ms": 770500,
       "name": "Chants of Intimacy",
       "url": "https://open.spotify.com/track/5pzgMmTjKJlThDPQnfRX5I"
+    },
+    {
+      "added_at": "2024-07-26 00:01:00",
+      "album": {
+        "name": "Names of God",
+        "url": "https://open.spotify.com/album/3WCZbOcvzRlzyEnRVPtKQF"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Bassey",
+          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
+        }
+      ],
+      "duration_ms": 511207,
+      "name": "Adonai",
+      "url": "https://open.spotify.com/track/7axctArGc7dtaEJSl3IZge"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -987,22 +987,6 @@
     {
       "added_at": "2024-07-26 00:01:00",
       "album": {
-        "name": "Kadosh",
-        "url": "https://open.spotify.com/album/4DsR36DsXQDyRLGfY5c7Y2"
-      },
-      "artists": [
-        {
-          "name": "Pv Idemudia",
-          "url": "https://open.spotify.com/artist/0iE6uT4YVh808x9A2iWJ9D"
-        }
-      ],
-      "duration_ms": 337711,
-      "name": "Kadosh (Live)",
-      "url": "https://open.spotify.com/track/78Fp5wJomAsTyP3Hiju3ud"
-    },
-    {
-      "added_at": "2024-07-26 00:01:00",
-      "album": {
         "name": "You Cover Me",
         "url": "https://open.spotify.com/album/3MpNFst8nlIyBLSt17ErjT"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 1078359,
       "name": "You Cover Me",
       "url": "https://open.spotify.com/track/37JvyLbD2sZqJb0xVYE80U"
+    },
+    {
+      "added_at": "2024-07-26 00:01:00",
+      "album": {
+        "name": "Kadosh",
+        "url": "https://open.spotify.com/album/4DsR36DsXQDyRLGfY5c7Y2"
+      },
+      "artists": [
+        {
+          "name": "Pv Idemudia",
+          "url": "https://open.spotify.com/artist/0iE6uT4YVh808x9A2iWJ9D"
+        }
+      ],
+      "duration_ms": 337711,
+      "name": "Kadosh (Live)",
+      "url": "https://open.spotify.com/track/78Fp5wJomAsTyP3Hiju3ud"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -1121,22 +1121,6 @@
       "url": "https://open.spotify.com/track/09NtOUOldnVP8Me3DSaus5"
     },
     {
-      "added_at": "2024-07-26 00:01:00",
-      "album": {
-        "name": "The Gospel of the Kingdom",
-        "url": "https://open.spotify.com/album/25YIWvGm47WqKctz8k76r5"
-      },
-      "artists": [
-        {
-          "name": "Dunsin Oyekan",
-          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
-        }
-      ],
-      "duration_ms": 536024,
-      "name": "At All Cost",
-      "url": "https://open.spotify.com/track/6GwE4OioGK8oOaC8nKJffy"
-    },
-    {
       "added_at": "2024-09-20 00:01:00",
       "album": {
         "name": "The Conqueror\u2019s Chant (Agalliao)",
@@ -1175,6 +1159,22 @@
       "duration_ms": 369255,
       "name": "Song of Angels (The Call)",
       "url": "https://open.spotify.com/track/11r7LKpoZzMQByA9gC9cgf"
+    },
+    {
+      "added_at": "2024-07-26 00:01:00",
+      "album": {
+        "name": "The Gospel of the Kingdom",
+        "url": "https://open.spotify.com/album/25YIWvGm47WqKctz8k76r5"
+      },
+      "artists": [
+        {
+          "name": "Dunsin Oyekan",
+          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
+        }
+      ],
+      "duration_ms": 536024,
+      "name": "At All Cost",
+      "url": "https://open.spotify.com/track/6GwE4OioGK8oOaC8nKJffy"
     },
     {
       "added_at": "2024-07-26 00:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 
 > Celebriamo i 5 anni di EQUAL 💚 Cover: Bambole Di Pezza
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,654 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,652 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 | 91 | [vertigine](https://open.spotify.com/track/0lvoErRvh6TCsbyAvQo8Qc) | [Alek](https://open.spotify.com/artist/6JWeknFiJE42BXED1AGOvY) | [Il quinto giorno](https://open.spotify.com/album/4qUvi2R6u8uoujF1c5p6kd) | 3:23 |
 | 92 | [Lorenzo](https://open.spotify.com/track/3AUp7XN4xknKAu7y5b3NiL) | [Sofia Fiore](https://open.spotify.com/artist/2HpOBVHV7nQs9NIUrXyNJO) | [Un po' di spazio, del tempo e del coraggio](https://open.spotify.com/album/6eK1jxl6l0bjCYaNGA9rlG) | 2:32 |
 | 93 | [Posologia](https://open.spotify.com/track/7B0hS58plfR4gSwQLr4JJk) | [MILLE](https://open.spotify.com/artist/2X5RjwWkxAg9WBce3BLoJj) | [Posologia](https://open.spotify.com/album/6fnV8eXA9MGEi46GJihlRv) | 3:33 |
-| 94 | [Mezzaluna](https://open.spotify.com/track/1xrnIqOGEz5iu179fXB8m8) | [TÄRA](https://open.spotify.com/artist/0ez4Y0vHwlRCrqGIkChC3Q) | [Mezzaluna](https://open.spotify.com/album/1UI5d9aBC5CqrY2qfTeycp) | 2:51 |
+| 94 | [Mezzaluna](https://open.spotify.com/track/1xrnIqOGEz5iu179fXB8m8) | [TÄRA](https://open.spotify.com/artist/0ez4Y0vHwlRCrqGIkChC3Q) | [Mezzaluna](https://open.spotify.com/album/1UI5d9aBC5CqrY2qfTeycp) | 2:50 |
 | 95 | [Aquiloni](https://open.spotify.com/track/72FAbXL0khNp8bo4tpA7Jy) | [MARGHERITA PRINCIPI](https://open.spotify.com/artist/0VvyCsUWH9s7uqcb24Yv7I) | [Aquiloni](https://open.spotify.com/album/2PhuTxeq5xv4EKweLIrlhm) | 3:07 |
 | 96 | [un'altra nel mio letto](https://open.spotify.com/track/69zX3dTK2h7LVJbykdBzL4) | [Evra](https://open.spotify.com/artist/2hwsMAV2ekfrmlkwmM8Blb) | [un'altra nel mio letto](https://open.spotify.com/album/5MeZt2K7samMv8dFdQREej) | 3:06 |
 | 97 | [FIGLIA D' 'A TEMPESTA](https://open.spotify.com/track/2VORs2QAtmmCRTTp1VrdvU) | [LA NIÑA](https://open.spotify.com/artist/7F0wzg6BIXNOSrh8ixhobj) | [FURÈSTA](https://open.spotify.com/album/17LP7L6YElIuVYK1gg7S37) | 2:25 |

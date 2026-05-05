@@ -1,6 +1,6 @@
 {
   "description": "Voor boslucht, koffie en kalmte.",
-  "num_followers": 98131,
+  "num_followers": 98129,
   "original_name": "Indie Folk Coffee & Cedar",
   "owner": {
     "name": "Spotify",
@@ -259,18 +259,18 @@
     {
       "added_at": "2026-04-23 22:01:48",
       "album": {
-        "name": "Say You'll Stay",
-        "url": "https://open.spotify.com/album/4rI92qYqrV2XfJuocHqA1N"
+        "name": "Tigers Blood",
+        "url": "https://open.spotify.com/album/5O9TGAJ6Opoya7KCBKKQUA"
       },
       "artists": [
         {
-          "name": "Koa Rae",
-          "url": "https://open.spotify.com/artist/5OJ1k0urJj2DSWSVVzMgZw"
+          "name": "Waxahatchee",
+          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
         }
       ],
-      "duration_ms": 169993,
-      "name": "Say You'll Stay",
-      "url": "https://open.spotify.com/track/4MOVvLoJH0Q9V6hIjarPjP"
+      "duration_ms": 229795,
+      "name": "Much Ado About Nothing",
+      "url": "https://open.spotify.com/track/0nuneId81O8XGxUjSCL316"
     },
     {
       "added_at": "2026-04-23 22:01:48",
@@ -291,6 +291,22 @@
     {
       "added_at": "2026-04-23 22:01:48",
       "album": {
+        "name": "Say You'll Stay",
+        "url": "https://open.spotify.com/album/4rI92qYqrV2XfJuocHqA1N"
+      },
+      "artists": [
+        {
+          "name": "Koa Rae",
+          "url": "https://open.spotify.com/artist/5OJ1k0urJj2DSWSVVzMgZw"
+        }
+      ],
+      "duration_ms": 169993,
+      "name": "Say You'll Stay",
+      "url": "https://open.spotify.com/track/4MOVvLoJH0Q9V6hIjarPjP"
+    },
+    {
+      "added_at": "2026-04-23 22:01:48",
+      "album": {
         "name": "These Days",
         "url": "https://open.spotify.com/album/3PsVSHeyak7iTgtRONGfQl"
       },
@@ -303,22 +319,6 @@
       "duration_ms": 177765,
       "name": "These Days",
       "url": "https://open.spotify.com/track/6ta4ggAGxnMLHNdkiu9jKn"
-    },
-    {
-      "added_at": "2026-04-23 22:01:48",
-      "album": {
-        "name": "Tigers Blood",
-        "url": "https://open.spotify.com/album/5O9TGAJ6Opoya7KCBKKQUA"
-      },
-      "artists": [
-        {
-          "name": "Waxahatchee",
-          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
-        }
-      ],
-      "duration_ms": 229795,
-      "name": "Much Ado About Nothing",
-      "url": "https://open.spotify.com/track/0nuneId81O8XGxUjSCL316"
     },
     {
       "added_at": "2026-04-23 22:01:48",
@@ -387,22 +387,18 @@
     {
       "added_at": "2026-04-23 22:01:48",
       "album": {
-        "name": "Stolen Valor / Leash",
-        "url": "https://open.spotify.com/album/0bZNmJamdgaE43DEou6ms0"
+        "name": "Colorado's On Fire Again",
+        "url": "https://open.spotify.com/album/2cP15DvWBWQuNF4wnFxq5n"
       },
       "artists": [
         {
-          "name": "Hudson Freeman",
-          "url": "https://open.spotify.com/artist/6k3W2iGuRZrhUnfVZOMQo8"
-        },
-        {
-          "name": "The Bedroomer",
-          "url": "https://open.spotify.com/artist/40nN0AtXvLlPJMnUX7B7SB"
+          "name": "Richy Mitch & The Coal Miners",
+          "url": "https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau"
         }
       ],
-      "duration_ms": 153250,
-      "name": "Stolen Valor",
-      "url": "https://open.spotify.com/track/0BTAdEtKSG7qtaeXqBBJTQ"
+      "duration_ms": 164000,
+      "name": "Santiago",
+      "url": "https://open.spotify.com/track/311eCUllypOnSLZH7Xbd32"
     },
     {
       "added_at": "2026-04-23 22:01:48",
@@ -423,18 +419,22 @@
     {
       "added_at": "2026-04-23 22:01:48",
       "album": {
-        "name": "Colorado's On Fire Again",
-        "url": "https://open.spotify.com/album/2cP15DvWBWQuNF4wnFxq5n"
+        "name": "Stolen Valor / Leash",
+        "url": "https://open.spotify.com/album/0bZNmJamdgaE43DEou6ms0"
       },
       "artists": [
         {
-          "name": "Richy Mitch & The Coal Miners",
-          "url": "https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau"
+          "name": "Hudson Freeman",
+          "url": "https://open.spotify.com/artist/6k3W2iGuRZrhUnfVZOMQo8"
+        },
+        {
+          "name": "The Bedroomer",
+          "url": "https://open.spotify.com/artist/40nN0AtXvLlPJMnUX7B7SB"
         }
       ],
-      "duration_ms": 164000,
-      "name": "Santiago",
-      "url": "https://open.spotify.com/track/311eCUllypOnSLZH7Xbd32"
+      "duration_ms": 153250,
+      "name": "Stolen Valor",
+      "url": "https://open.spotify.com/track/0BTAdEtKSG7qtaeXqBBJTQ"
     },
     {
       "added_at": "2026-04-23 22:01:48",
@@ -455,22 +455,6 @@
     {
       "added_at": "2026-04-23 22:01:48",
       "album": {
-        "name": "Seeing You",
-        "url": "https://open.spotify.com/album/5PMPqKGwQCGAbZhl9qdLbP"
-      },
-      "artists": [
-        {
-          "name": "hey, nothing",
-          "url": "https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI"
-        }
-      ],
-      "duration_ms": 198727,
-      "name": "Seeing You",
-      "url": "https://open.spotify.com/track/7jjQcyGSb1rNGdUmoQuBuk"
-    },
-    {
-      "added_at": "2026-04-23 22:01:48",
-      "album": {
         "name": "Always Lost",
         "url": "https://open.spotify.com/album/2JnYn3rCK1aGomksow3WtA"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 199000,
       "name": "Always Lost",
       "url": "https://open.spotify.com/track/1GLJrhvJcD7MDzH4oSfimf"
+    },
+    {
+      "added_at": "2026-04-23 22:01:48",
+      "album": {
+        "name": "Seeing You",
+        "url": "https://open.spotify.com/album/5PMPqKGwQCGAbZhl9qdLbP"
+      },
+      "artists": [
+        {
+          "name": "hey, nothing",
+          "url": "https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI"
+        }
+      ],
+      "duration_ms": 198727,
+      "name": "Seeing You",
+      "url": "https://open.spotify.com/track/7jjQcyGSb1rNGdUmoQuBuk"
     },
     {
       "added_at": "2026-04-23 22:01:48",
@@ -519,22 +519,6 @@
     {
       "added_at": "2026-04-23 22:01:48",
       "album": {
-        "name": "The Soils Ever Changing",
-        "url": "https://open.spotify.com/album/1hG1LegaM7GrrE3Mfu6rG3"
-      },
-      "artists": [
-        {
-          "name": "Bertie Newman",
-          "url": "https://open.spotify.com/artist/5FgAV3f4fiJ8tuztZ5eyWh"
-        }
-      ],
-      "duration_ms": 239774,
-      "name": "The Soils Ever Changing",
-      "url": "https://open.spotify.com/track/7JDySQnkWJuRDmmIPeiqRt"
-    },
-    {
-      "added_at": "2026-04-23 22:01:48",
-      "album": {
         "name": "To The Sandals",
         "url": "https://open.spotify.com/album/6IoiGncVRksI6Tcw6UXzDw"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 248932,
       "name": "To The Sandals",
       "url": "https://open.spotify.com/track/3bTDnlYinDUIC5giN64TNE"
+    },
+    {
+      "added_at": "2026-04-23 22:01:48",
+      "album": {
+        "name": "The Soils Ever Changing",
+        "url": "https://open.spotify.com/album/1hG1LegaM7GrrE3Mfu6rG3"
+      },
+      "artists": [
+        {
+          "name": "Bertie Newman",
+          "url": "https://open.spotify.com/artist/5FgAV3f4fiJ8tuztZ5eyWh"
+        }
+      ],
+      "duration_ms": 239774,
+      "name": "The Soils Ever Changing",
+      "url": "https://open.spotify.com/track/7JDySQnkWJuRDmmIPeiqRt"
     },
     {
       "added_at": "2026-04-23 22:01:48",
@@ -599,22 +599,6 @@
     {
       "added_at": "2026-04-23 22:01:48",
       "album": {
-        "name": "Nothing Comes Easy",
-        "url": "https://open.spotify.com/album/4uPXWqH0hBzxT5u67PxLHy"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 174087,
-      "name": "Nothing Comes Easy",
-      "url": "https://open.spotify.com/track/1DTsVhtb0tUaYncdT5yT6W"
-    },
-    {
-      "added_at": "2026-04-23 22:01:48",
-      "album": {
         "name": "Underwear",
         "url": "https://open.spotify.com/album/2bLVEtFJZFX94OZ2oeUa9Y"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 207130,
       "name": "Underwear",
       "url": "https://open.spotify.com/track/10zG0Yamj5zQoWcRCnQI7Z"
+    },
+    {
+      "added_at": "2026-04-23 22:01:48",
+      "album": {
+        "name": "Toy Heart",
+        "url": "https://open.spotify.com/album/0af3f7ejJ7Y3nsLhVnvc9I"
+      },
+      "artists": [
+        {
+          "name": "Judy Blank",
+          "url": "https://open.spotify.com/artist/2Kqa4BYcpEq4KXX9fYmRpH"
+        }
+      ],
+      "duration_ms": 197960,
+      "name": "Toy Heart",
+      "url": "https://open.spotify.com/track/0y9CKIUQGBPdeTU3Mjo389"
     },
     {
       "added_at": "2026-04-23 22:01:48",
@@ -651,6 +651,22 @@
     {
       "added_at": "2026-04-23 22:01:48",
       "album": {
+        "name": "Nothing Comes Easy",
+        "url": "https://open.spotify.com/album/4uPXWqH0hBzxT5u67PxLHy"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 174087,
+      "name": "Nothing Comes Easy",
+      "url": "https://open.spotify.com/track/1DTsVhtb0tUaYncdT5yT6W"
+    },
+    {
+      "added_at": "2026-04-23 22:01:48",
+      "album": {
         "name": "Abilene",
         "url": "https://open.spotify.com/album/0qheGwJpGcA3e0vNPxT6nw"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 256000,
       "name": "Abilene",
       "url": "https://open.spotify.com/track/1eXPy9yPydGgJYnM2WkFGy"
-    },
-    {
-      "added_at": "2026-04-23 22:01:48",
-      "album": {
-        "name": "Toy Heart",
-        "url": "https://open.spotify.com/album/0af3f7ejJ7Y3nsLhVnvc9I"
-      },
-      "artists": [
-        {
-          "name": "Judy Blank",
-          "url": "https://open.spotify.com/artist/2Kqa4BYcpEq4KXX9fYmRpH"
-        }
-      ],
-      "duration_ms": 197960,
-      "name": "Toy Heart",
-      "url": "https://open.spotify.com/track/0y9CKIUQGBPdeTU3Mjo389"
     },
     {
       "added_at": "2026-04-23 22:01:48",
@@ -731,6 +731,22 @@
     {
       "added_at": "2026-04-23 22:01:48",
       "album": {
+        "name": "Cowboys of Los",
+        "url": "https://open.spotify.com/album/218OGsKxVoDNZwue6n2yXH"
+      },
+      "artists": [
+        {
+          "name": "James Vincent McMorrow",
+          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
+        }
+      ],
+      "duration_ms": 243403,
+      "name": "Cowboys of Los",
+      "url": "https://open.spotify.com/track/4sPsl1gLOaq5yiCKo1UbBc"
+    },
+    {
+      "added_at": "2026-04-23 22:01:48",
+      "album": {
         "name": "God Loves Weirdos",
         "url": "https://open.spotify.com/album/0Goshi4S6DLOdTCoPDTsXB"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 301000,
       "name": "Six Missed Calls",
       "url": "https://open.spotify.com/track/3A11OV16IvmGERXBn8MjSV"
-    },
-    {
-      "added_at": "2026-04-23 22:01:48",
-      "album": {
-        "name": "Cowboys of Los",
-        "url": "https://open.spotify.com/album/218OGsKxVoDNZwue6n2yXH"
-      },
-      "artists": [
-        {
-          "name": "James Vincent McMorrow",
-          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
-        }
-      ],
-      "duration_ms": 243403,
-      "name": "Cowboys of Los",
-      "url": "https://open.spotify.com/track/4sPsl1gLOaq5yiCKo1UbBc"
     },
     {
       "added_at": "2026-04-23 22:01:48",
@@ -811,18 +811,18 @@
     {
       "added_at": "2026-04-23 22:01:48",
       "album": {
-        "name": "Speaking of You",
-        "url": "https://open.spotify.com/album/1VRsxPMJdQ1LgeKhNb5Kv1"
+        "name": "A Good Run",
+        "url": "https://open.spotify.com/album/3PEIbtEGaXsuI796aBVgyl"
       },
       "artists": [
         {
-          "name": "Old Sea Brigade",
-          "url": "https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45"
+          "name": "Gildor",
+          "url": "https://open.spotify.com/artist/2DyS2mSsaFkj5nFB3P6KqU"
         }
       ],
-      "duration_ms": 265726,
-      "name": "Speaking of You",
-      "url": "https://open.spotify.com/track/4a4BqvfGcEh2PwRdFVwiMM"
+      "duration_ms": 173141,
+      "name": "A Good Run",
+      "url": "https://open.spotify.com/track/5tTDFBl4KqXZj0baFufH2q"
     }
   ],
   "unique_name": "Indie Folk Coffee & Cedar",

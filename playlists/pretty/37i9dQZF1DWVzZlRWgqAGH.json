@@ -1,29 +1,13 @@
 {
   "description": "Dayo Bello and music for your soul.",
-  "num_followers": 842476,
+  "num_followers": 842490,
   "original_name": "BUTTER",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAO/HFpMc+H/Z6VUvErNVuGxHLP/C",
+  "snapshot_id": "AAAAAOgtPAH27Pt2smT1mLbUpmpqcAcj",
   "tracks": [
-    {
-      "added_at": "2026-05-01 04:00:24",
-      "album": {
-        "name": "SUGAR WATER",
-        "url": "https://open.spotify.com/album/7bL5SEk32HW0e6WxePXWcZ"
-      },
-      "artists": [
-        {
-          "name": "THEHONESTGUY",
-          "url": "https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt"
-        }
-      ],
-      "duration_ms": 190248,
-      "name": "SUGAR WATER",
-      "url": "https://open.spotify.com/track/6zkoIozGGyFgk3EIAIs6oF"
-    },
     {
       "added_at": "2026-05-01 04:00:24",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 144000,
       "name": "Stand Still",
       "url": "https://open.spotify.com/track/1867RP4RmHjiGnBlpk0f3w"
+    },
+    {
+      "added_at": "2026-05-01 04:00:24",
+      "album": {
+        "name": "SUGAR WATER",
+        "url": "https://open.spotify.com/album/7bL5SEk32HW0e6WxePXWcZ"
+      },
+      "artists": [
+        {
+          "name": "THEHONESTGUY",
+          "url": "https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt"
+        }
+      ],
+      "duration_ms": 190248,
+      "name": "SUGAR WATER",
+      "url": "https://open.spotify.com/track/6zkoIozGGyFgk3EIAIs6oF"
     },
     {
       "added_at": "2026-05-01 04:00:24",

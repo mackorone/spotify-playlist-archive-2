@@ -1,6 +1,6 @@
 {
   "description": "A mix of punk rock to get you through your workout.",
-  "num_followers": 544622,
+  "num_followers": 544610,
   "original_name": "Punk Rock Workout",
   "owner": {
     "name": "Spotify",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-07-19 11:53:42",
       "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/0ctzayIDFaD7ayi0WuI711"
-      },
-      "artists": [
-        {
-          "name": "Millencolin",
-          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
-        }
-      ],
-      "duration_ms": 199589,
-      "name": "SOS",
-      "url": "https://open.spotify.com/track/7JlEMpVRdzuqiVDuQuS2c0"
-    },
-    {
-      "added_at": "2024-07-19 11:53:42",
-      "album": {
         "name": "Hello Exile",
         "url": "https://open.spotify.com/album/5baJxk2fGaLorySaf6173S"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 244564,
       "name": "Strain Your Memory",
       "url": "https://open.spotify.com/track/1d1az3MIWrJvcNrgNMJTYA"
+    },
+    {
+      "added_at": "2024-07-19 11:53:42",
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/0ctzayIDFaD7ayi0WuI711"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "duration_ms": 199589,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/7JlEMpVRdzuqiVDuQuS2c0"
     },
     {
       "added_at": "2024-07-19 11:53:42",
@@ -843,6 +843,22 @@
     {
       "added_at": "2024-07-19 11:53:42",
       "album": {
+        "name": "Float Around",
+        "url": "https://open.spotify.com/album/6xi0HS84N10LbQRyOXtO3z"
+      },
+      "artists": [
+        {
+          "name": "Coldfront",
+          "url": "https://open.spotify.com/artist/4aP6zYaS4ms7xcghP2L32y"
+        }
+      ],
+      "duration_ms": 204114,
+      "name": "Everything You Want Me to Be",
+      "url": "https://open.spotify.com/track/44DORmYYzUfVP1YKFgkLZn"
+    },
+    {
+      "added_at": "2024-07-19 11:53:42",
+      "album": {
         "name": "Steady Glow",
         "url": "https://open.spotify.com/album/7xXGabh3KEE6qt7pk9iro3"
       },
@@ -875,22 +891,6 @@
     {
       "added_at": "2024-07-19 11:53:42",
       "album": {
-        "name": "Float Around",
-        "url": "https://open.spotify.com/album/6xi0HS84N10LbQRyOXtO3z"
-      },
-      "artists": [
-        {
-          "name": "Coldfront",
-          "url": "https://open.spotify.com/artist/4aP6zYaS4ms7xcghP2L32y"
-        }
-      ],
-      "duration_ms": 204114,
-      "name": "Everything You Want Me to Be",
-      "url": "https://open.spotify.com/track/44DORmYYzUfVP1YKFgkLZn"
-    },
-    {
-      "added_at": "2024-07-19 11:53:42",
-      "album": {
         "name": "Pink Elephant",
         "url": "https://open.spotify.com/album/7mSFPsjZjTx8K1UmtDSQPu"
       },
@@ -903,6 +903,22 @@
       "duration_ms": 177011,
       "name": "Like That",
       "url": "https://open.spotify.com/track/6FxIFdX1jeJYwPozaeqaZj"
+    },
+    {
+      "added_at": "2024-07-19 11:53:42",
+      "album": {
+        "name": "WEIRDO",
+        "url": "https://open.spotify.com/album/53RO0O7zjPj1yJuLegkzoz"
+      },
+      "artists": [
+        {
+          "name": "GANG!",
+          "url": "https://open.spotify.com/artist/50DgH5MV7YHdaQ3behXw4C"
+        }
+      ],
+      "duration_ms": 155526,
+      "name": "WEIRDO",
+      "url": "https://open.spotify.com/track/46WTvn5j8rx0JRB8BMF2YQ"
     },
     {
       "added_at": "2024-07-19 11:53:42",
@@ -955,22 +971,6 @@
     {
       "added_at": "2024-07-19 11:53:42",
       "album": {
-        "name": "WEIRDO",
-        "url": "https://open.spotify.com/album/53RO0O7zjPj1yJuLegkzoz"
-      },
-      "artists": [
-        {
-          "name": "GANG!",
-          "url": "https://open.spotify.com/artist/50DgH5MV7YHdaQ3behXw4C"
-        }
-      ],
-      "duration_ms": 155526,
-      "name": "WEIRDO",
-      "url": "https://open.spotify.com/track/46WTvn5j8rx0JRB8BMF2YQ"
-    },
-    {
-      "added_at": "2024-07-19 11:53:42",
-      "album": {
         "name": "INTERNATIONALLY UNKNOWN",
         "url": "https://open.spotify.com/album/5xRIjNGS3sXzJ4E6TCQmYd"
       },
@@ -983,6 +983,22 @@
       "duration_ms": 134941,
       "name": "I WANNA SKATE",
       "url": "https://open.spotify.com/track/4ZuMFVVmGmnxPbqWGKecca"
+    },
+    {
+      "added_at": "2024-07-19 11:53:42",
+      "album": {
+        "name": "Morbid Stuff",
+        "url": "https://open.spotify.com/album/0819j23RlVKRJLnXM8ZQI3"
+      },
+      "artists": [
+        {
+          "name": "PUP",
+          "url": "https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN"
+        }
+      ],
+      "duration_ms": 210160,
+      "name": "Kids",
+      "url": "https://open.spotify.com/track/6DS51W3CvxpUO3Z8XXfKok"
     },
     {
       "added_at": "2024-07-19 11:53:42",
@@ -1007,18 +1023,18 @@
     {
       "added_at": "2024-07-19 11:53:42",
       "album": {
-        "name": "Morbid Stuff",
-        "url": "https://open.spotify.com/album/0819j23RlVKRJLnXM8ZQI3"
+        "name": "TURNSTILE LOVE CONNECTION",
+        "url": "https://open.spotify.com/album/4Dx7TI0kECk72u90341I25"
       },
       "artists": [
         {
-          "name": "PUP",
-          "url": "https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN"
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
         }
       ],
-      "duration_ms": 210160,
-      "name": "Kids",
-      "url": "https://open.spotify.com/track/6DS51W3CvxpUO3Z8XXfKok"
+      "duration_ms": 172020,
+      "name": "HOLIDAY",
+      "url": "https://open.spotify.com/track/4kdJNsV5OrEkSJ1hfDKeKS"
     },
     {
       "added_at": "2024-07-19 11:53:42",
@@ -1039,22 +1055,6 @@
     {
       "added_at": "2024-07-19 11:53:42",
       "album": {
-        "name": "TURNSTILE LOVE CONNECTION",
-        "url": "https://open.spotify.com/album/4Dx7TI0kECk72u90341I25"
-      },
-      "artists": [
-        {
-          "name": "Turnstile",
-          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
-        }
-      ],
-      "duration_ms": 172020,
-      "name": "HOLIDAY",
-      "url": "https://open.spotify.com/track/4kdJNsV5OrEkSJ1hfDKeKS"
-    },
-    {
-      "added_at": "2024-07-19 11:53:42",
-      "album": {
         "name": "Bored of Being Sad",
         "url": "https://open.spotify.com/album/268knqkvUpS3Q9TnpuhSoT"
       },
@@ -1067,22 +1067,6 @@
       "duration_ms": 200660,
       "name": "Bored of Being Sad",
       "url": "https://open.spotify.com/track/2LUvkorPDO3n8xs6NEXDFY"
-    },
-    {
-      "added_at": "2024-07-19 11:53:42",
-      "album": {
-        "name": "Worries",
-        "url": "https://open.spotify.com/album/0lR5SeL2xHTOEHh7a4aDoI"
-      },
-      "artists": [
-        {
-          "name": "MxPx",
-          "url": "https://open.spotify.com/artist/1cSpfa4Un4NCOzeOKgGtG9"
-        }
-      ],
-      "duration_ms": 143808,
-      "name": "Worries",
-      "url": "https://open.spotify.com/track/5YtpGJgS6vBDMMaguVeRDG"
     },
     {
       "added_at": "2024-07-19 11:53:42",
@@ -1103,6 +1087,22 @@
       "duration_ms": 171741,
       "name": "The Lighthouse",
       "url": "https://open.spotify.com/track/5rnWJiqTb5mN5Cr3sKtxeU"
+    },
+    {
+      "added_at": "2024-07-19 11:53:42",
+      "album": {
+        "name": "Worries",
+        "url": "https://open.spotify.com/album/0lR5SeL2xHTOEHh7a4aDoI"
+      },
+      "artists": [
+        {
+          "name": "MxPx",
+          "url": "https://open.spotify.com/artist/1cSpfa4Un4NCOzeOKgGtG9"
+        }
+      ],
+      "duration_ms": 143808,
+      "name": "Worries",
+      "url": "https://open.spotify.com/track/5YtpGJgS6vBDMMaguVeRDG"
     },
     {
       "added_at": "2024-07-19 11:53:42",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2024-07-19 11:53:42",
       "album": {
+        "name": "No Strange Cats",
+        "url": "https://open.spotify.com/album/2ffrZVJsIs74lIbsMbRtLp"
+      },
+      "artists": [
+        {
+          "name": "Radkey",
+          "url": "https://open.spotify.com/artist/1egsOeSvcQyacni1rL6c4C"
+        }
+      ],
+      "duration_ms": 160677,
+      "name": "P.A.W",
+      "url": "https://open.spotify.com/track/3Wtc6XdHsI4QdKaGYSbApL"
+    },
+    {
+      "added_at": "2024-07-19 11:53:42",
+      "album": {
         "name": "A Beautiful Place To Drown",
         "url": "https://open.spotify.com/album/2mEJTFHUOCEv4QFNTQv2Rg"
       },
@@ -1487,18 +1503,18 @@
     {
       "added_at": "2024-07-19 11:53:42",
       "album": {
-        "name": "No Strange Cats",
-        "url": "https://open.spotify.com/album/2ffrZVJsIs74lIbsMbRtLp"
+        "name": "Brain Invaders",
+        "url": "https://open.spotify.com/album/3JKg0soC1sRle2yPenQa2j"
       },
       "artists": [
         {
-          "name": "Radkey",
-          "url": "https://open.spotify.com/artist/1egsOeSvcQyacni1rL6c4C"
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
         }
       ],
-      "duration_ms": 160677,
-      "name": "P.A.W",
-      "url": "https://open.spotify.com/track/3Wtc6XdHsI4QdKaGYSbApL"
+      "duration_ms": 175306,
+      "name": "We're Not Alright",
+      "url": "https://open.spotify.com/track/0OFqUFNG279tneIkKYcrft"
     },
     {
       "added_at": "2024-07-19 11:53:42",
@@ -1515,22 +1531,6 @@
       "duration_ms": 134224,
       "name": "THE FIRST TEST",
       "url": "https://open.spotify.com/track/2w4syBfKFwzRioQVnbddrs"
-    },
-    {
-      "added_at": "2024-07-19 11:53:42",
-      "album": {
-        "name": "Brain Invaders",
-        "url": "https://open.spotify.com/album/3JKg0soC1sRle2yPenQa2j"
-      },
-      "artists": [
-        {
-          "name": "zebrahead",
-          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
-        }
-      ],
-      "duration_ms": 175306,
-      "name": "We're Not Alright",
-      "url": "https://open.spotify.com/track/0OFqUFNG279tneIkKYcrft"
     },
     {
       "added_at": "2024-07-19 11:53:42",

@@ -2698,7 +2698,7 @@
       ],
       "date_added": "2025-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 197000,
       "name": "Baby Steps",
       "url": "https://open.spotify.com/track/5SruEBX3KpgpDvEcIuN53P"
@@ -6850,7 +6850,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-04",
+      "date_removed": null,
       "duration_ms": 248133,
       "name": "Confident",
       "url": "https://open.spotify.com/track/3JsydWaf2Ev4ehaLUjj3SY"
@@ -6872,7 +6872,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 248146,
       "name": "Confident - Single Version",
       "url": "https://open.spotify.com/track/6czM6UMQD9qE5GAUp68oud"
@@ -9240,7 +9240,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 258816,
       "name": "Dreams - 2001 Remaster",
       "url": "https://open.spotify.com/track/53qkszfgztIvkFyF31GfdQ"
@@ -9258,7 +9258,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2026-05-04",
+      "date_removed": null,
       "duration_ms": 257800,
       "name": "Dreams - 2004 Remaster",
       "url": "https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz"
@@ -15534,7 +15534,7 @@
       ],
       "date_added": "2026-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-03",
+      "date_removed": null,
       "duration_ms": 212973,
       "name": "I Just Might",
       "url": "https://open.spotify.com/track/2X4EDN7z2Xe9aMemsGuO8I"
@@ -15552,7 +15552,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 212973,
       "name": "I Just Might",
       "url": "https://open.spotify.com/track/6f68Ac5tt5BQOpwr0BV9oN"
@@ -23052,7 +23052,7 @@
       ],
       "date_added": "2024-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 214400,
       "name": "No Scrubs",
       "url": "https://open.spotify.com/track/1KGi9sZVMeszgZOWivFpxs"
@@ -26706,7 +26706,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 204068,
       "name": "Risk It All",
       "url": "https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD"
@@ -26724,7 +26724,7 @@
       ],
       "date_added": "2026-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-03",
+      "date_removed": null,
       "duration_ms": 204068,
       "name": "Risk It All",
       "url": "https://open.spotify.com/track/6skX6In6VpLzev9epAUnpp"
@@ -28062,6 +28062,24 @@
       "duration_ms": 203733,
       "name": "Seek & Destroy",
       "url": "https://open.spotify.com/track/6eT2V7nKXyMf47TwPbtgAD"
+    },
+    {
+      "album": {
+        "name": "Self Aware",
+        "url": "https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M"
+      },
+      "artists": [
+        {
+          "name": "Temper City",
+          "url": "https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180740,
+      "name": "Self Aware",
+      "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
     },
     {
       "album": {
@@ -32028,7 +32046,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 269411,
       "name": "The Chain - 2001 Remaster",
       "url": "https://open.spotify.com/track/2MRjYBbIbH1VTToIrO1mdi"
@@ -32046,7 +32064,7 @@
       ],
       "date_added": "2023-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-04",
+      "date_removed": null,
       "duration_ms": 270213,
       "name": "The Chain - 2004 Remaster",
       "url": "https://open.spotify.com/track/5e9TFTbltYBg2xThimr0rU"
@@ -32350,7 +32368,7 @@
       ],
       "date_added": "2026-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-04",
+      "date_removed": null,
       "duration_ms": 317961,
       "name": "The Great Divide",
       "url": "https://open.spotify.com/track/4ck9vo0gEmjVHWUb5q2rYe"

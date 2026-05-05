@@ -4,7 +4,7 @@
 
 > Naye Indie gaano ka khazana, featuring Radhika Bhide, Tanmay Deochake, Utsavi Jha, Kanishk Seth and other exciting artists.
 
-1,435 songs - 3 day 6 hr 43 min
+1,436 songs - 3 day 6 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -313,6 +313,7 @@
 | [Dil Jaye Na](https://open.spotify.com/track/35FKiPd3sGN2MjSghBg5WV) | [Soumya Mukherjee](https://open.spotify.com/artist/5afRWzAI1mcKDCLyz056ZA), [Prosun Dey](https://open.spotify.com/artist/6A5glfpIwkZ5KJLgPiBFnG) | [Dil Jaye Na](https://open.spotify.com/album/3Sd8r89Q6nOVSGJHr3V3OF) | 1:01 | 2023-11-17 | 2023-12-09 |
 | [Dil Ka Haara](https://open.spotify.com/track/3AhbSEtajGmaOajWM5ydV4) | [Aditya Kalway](https://open.spotify.com/artist/4Bv0svSVwUEjKsuFpxuJBR), [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT) | [Dil Ka Haara](https://open.spotify.com/album/2fsl6x6Nq4WP8ApbAZYugq) | 2:59 | 2025-01-10 | 2025-05-13 |
 | [Dil Ka Pata](https://open.spotify.com/track/0uNhjHuLgecChfHUt9XxbW) | [Masala Coffee](https://open.spotify.com/artist/3w277raenZNQPvrbv1DoMs) | [Dil Ka Pata](https://open.spotify.com/album/5ju98pY4tm6QOoz4SLPafH) | 3:51 | 2025-02-14 | 2025-04-12 |
+| [Dil Ka Rang](https://open.spotify.com/track/5AU1cGBBTdAK1uDP6xUFmW) | [Shradha Mishra](https://open.spotify.com/artist/4nhFZoBTFnDpi17pbaDgd7), [Yash Mishra](https://open.spotify.com/artist/70sU4yuUbhERtc7LQWuTQi) | [Dil Ka Rang](https://open.spotify.com/album/3pjwkfEu7hGdjma80i7ke6) | 2:42 | 2026-05-01 |  |
 | [Dil Ke Paas](https://open.spotify.com/track/4BTqk8zszA1CbQtLLAKrQC) | [Zariya](https://open.spotify.com/artist/1f7a91vYZcvnBsTRvxFff1) | [Dil Ke Paas](https://open.spotify.com/album/3JRjUL5w1m59BNbcrkXTYr) | 2:25 | 2024-02-16 | 2024-03-23 |
 | [Dil Ki Baat](https://open.spotify.com/track/4y9zpfPPxxdYewg6nem0lE) | [Liquid Lake](https://open.spotify.com/artist/59tEU0jAjUkuKWhzElmD8r), [ACHINX](https://open.spotify.com/artist/3SEsONpgPHbW9KXBWWabgm), [Gulbis Khan](https://open.spotify.com/artist/1BfNgRnl08Cf0SXoqAXKx3) | [Dil Ki Baat](https://open.spotify.com/album/72Gqg2UNf8ebPoqMGtuOUW) | 1:37 | 2024-06-07 | 2024-06-29 |
 | [Dil Ki Dastan](https://open.spotify.com/track/3S0kZyO86KTfKae540RV3I) | [Sahil Ahuja](https://open.spotify.com/artist/4em8pFjqZmKcflPQgobF6L) | [Dil Ki Dastan](https://open.spotify.com/album/0uFbi2fi8kPeVxFBSmpIJi) | 3:44 | 2023-10-20 | 2023-11-25 |
@@ -1424,7 +1425,7 @@
 | [You're The Reason \(feat\. Mary Ann Alexander\)](https://open.spotify.com/track/70IH4V118n8hO0tqbn4vKA) | [NATE08](https://open.spotify.com/artist/2Ozq8aYmGgLiGdbpsW6KSl), [Mary Ann Alexander](https://open.spotify.com/artist/5Nd0pl530GmwyCK1lRGQqd) | [You're The Reason \(feat\. Mary Ann Alexander\)](https://open.spotify.com/album/5oiYzgRszxk4pTj4f6pj6O) | 3:32 | 2025-02-28 | 2025-03-22 |
 | [YOURS TRULY](https://open.spotify.com/track/0f7Q8984eSXkP5q3PMXm02) | [Niyati Handa](https://open.spotify.com/artist/548L7yKLZMuFHfBVFQ2mO5), [Girish Nakod](https://open.spotify.com/artist/2WrKNI4oe46x5gpMkPPwW2), [Dronark](https://open.spotify.com/artist/5lOdnhqrGPtKohxH9xS7NV) | [YOURS TRULY](https://open.spotify.com/album/15qlNT50CSml6ZQVUnI900) | 2:37 | 2024-03-08 | 2024-04-13 |
 | [Yun Hi Kahin](https://open.spotify.com/track/5F4hwTVNZwutsNEG8OPnoJ) | [The Yellow Diary](https://open.spotify.com/artist/6xlrAAgxcRlgCXnbg2hcFc) | [Yun Hi Kahin](https://open.spotify.com/album/52e2XrnIrZJXzKTMxUSx9G) | 3:23 | 2025-11-07 | 2026-01-24 |
-| [Zaalim](https://open.spotify.com/track/3PkyX5wo04jGbJNfsmbBQJ) | [Nishtha Sharma](https://open.spotify.com/artist/6iWZHbyB2I9zNxfCJuSn10) | [Zaalim](https://open.spotify.com/album/7bHBsB6DgNGhBcPfbiKZbF) | 2:17 | 2026-05-01 |  |
+| [Zaalim](https://open.spotify.com/track/3PkyX5wo04jGbJNfsmbBQJ) | [Nishtha Sharma](https://open.spotify.com/artist/6iWZHbyB2I9zNxfCJuSn10) | [Zaalim](https://open.spotify.com/album/7bHBsB6DgNGhBcPfbiKZbF) | 2:17 | 2026-05-01 | 2026-05-05 |
 | [Zahir](https://open.spotify.com/track/1J86cSSBnwaYRnkfg8TmeS) | [Akanksha Sethi](https://open.spotify.com/artist/70gqhziA790XfoUL5FWD16) | [Zahir](https://open.spotify.com/album/3GX5jwzbv5mxXoq9p58vOQ) | 2:57 | 2024-03-01 | 2024-04-19 |
 | [Zakhm Purana](https://open.spotify.com/track/4KVxYFQ5i4tZojPBO1x9Gc) | [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv), [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo) | [Zakhm Purana](https://open.spotify.com/album/11ulyEpLTiJnvKpDVxhd89) | 3:54 | 2024-05-10 | 2024-07-06 |
 | [Zamaana](https://open.spotify.com/track/39QaSlqpo6F9Jv8cIokylx) | [Akanksha Sethi](https://open.spotify.com/artist/70gqhziA790XfoUL5FWD16), [Ashwin Adwani](https://open.spotify.com/artist/5kiwICyQNDmCtwOPLvgY04), [Rahul Shah](https://open.spotify.com/artist/3oEonEOikYn2hqvZ3oWpiu) | [Zamaana](https://open.spotify.com/album/6Af60nKxVgmnOm6D7lIOcW) | 2:30 | 2025-05-04 | 2025-07-30 |

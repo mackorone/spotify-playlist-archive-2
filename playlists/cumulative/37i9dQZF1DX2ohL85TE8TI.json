@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Hot & new K-Drama OSTs are here! (Cover: 21\uc138\uae30 \ub300\uad70\ubd80\uc778 (Perfect Crown)) (\uc778\uae30 \uc788\ub294 \ud654\uc81c\uc758 OST\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) ",
+  "description": "Hot & new K-Drama OSTs are here! (Cover: \ubaa8\ub450\uac00 \uc790\uc2e0\uc758 \ubb34\uac00\uce58\ud568\uacfc \uc2f8\uc6b0\uace0 \uc788\ub2e4 (We Are All Trying Here)) (\uc778\uae30 \uc788\ub294 \ud654\uc81c\uc758 OST\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) ",
   "name": "K-OST Center",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2025-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 235000,
       "name": "(They Long To Be) Close To You",
       "url": "https://open.spotify.com/track/2ufbSqJHgI1JBo3LzUB6uM"
@@ -860,7 +860,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 192500,
       "name": "All I Want Is You (Would You Marry Me? : Original Television Soundtrack)",
       "url": "https://open.spotify.com/track/0x2UMXeCj1in1Q8Zs588lh"
@@ -2900,7 +2900,7 @@
       ],
       "date_added": "2025-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 189000,
       "name": "By Chance, By Fate",
       "url": "https://open.spotify.com/track/3MEupZbnx65NPbye0vtwz9"
@@ -4280,7 +4280,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 220000,
       "name": "Did You See The Rainbow?",
       "url": "https://open.spotify.com/track/5nL0h5zDR0MQqcjSmbGQrm"
@@ -5488,6 +5488,24 @@
       "duration_ms": 187227,
       "name": "Finale",
       "url": "https://open.spotify.com/track/0oslYYo3t1iwbnoTJy1mja"
+    },
+    {
+      "album": {
+        "name": "Find Rest in Me (Original Soundtrack from Recipe for Love, Pt. 8)",
+        "url": "https://open.spotify.com/album/5fvPPYnGANlBExVSX0AhWI"
+      },
+      "artists": [
+        {
+          "name": "Hong Ji Yun",
+          "url": "https://open.spotify.com/artist/6465ZZiBBteyc8hWZsWOE0"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226904,
+      "name": "Find Rest in Me",
+      "url": "https://open.spotify.com/track/0eKtEElRmpkSg6JkXsD1HF"
     },
     {
       "album": {
@@ -7002,6 +7020,24 @@
       "duration_ms": 225840,
       "name": "Hollo",
       "url": "https://open.spotify.com/track/2FzuLPNILEvqazVEoR5uWn"
+    },
+    {
+      "album": {
+        "name": "Filing for Love (Original Television Soundtrack) Pt.2",
+        "url": "https://open.spotify.com/album/75h2R18FDmCQW7WDF5Q5Rw"
+      },
+      "artists": [
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207000,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/3lkGPWPtEXbI691YLJyJnv"
     },
     {
       "album": {
@@ -9338,7 +9374,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 205000,
       "name": "I\u2019m Still Into You (Would You Marry Me? : Original Television Soundtrack)",
       "url": "https://open.spotify.com/track/3lDNvWzBnY6U8TkYefo7Zs"
@@ -13412,7 +13448,7 @@
       ],
       "date_added": "2025-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 235000,
       "name": "Nowhere",
       "url": "https://open.spotify.com/track/2ds5XzqdfpL4TKyBaTJ822"
@@ -13474,6 +13510,24 @@
       "duration_ms": 181680,
       "name": "OH NONONO",
       "url": "https://open.spotify.com/track/0rJj6xWfFKbBVNw6dG54yb"
+    },
+    {
+      "album": {
+        "name": "We Are All Trying Here (Original Soundtrack) Part.5",
+        "url": "https://open.spotify.com/album/6U8KF7ic0KJh8GLWCTOmnL"
+      },
+      "artists": [
+        {
+          "name": "Choi Yu Ree",
+          "url": "https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239000,
+      "name": "On a Gentle Breeze",
+      "url": "https://open.spotify.com/track/5LME33QsTr3w0yhr3sBtBO"
     },
     {
       "album": {
@@ -14072,6 +14126,24 @@
       "duration_ms": 206099,
       "name": "Paint over",
       "url": "https://open.spotify.com/track/3A6MocMyws8KUyyeln41L6"
+    },
+    {
+      "album": {
+        "name": "We Are All Trying Here (Original Soundtrack) Part.4",
+        "url": "https://open.spotify.com/album/10I3TY3GPfZHe3pxyRjmxK"
+      },
+      "artists": [
+        {
+          "name": " Seo Youngju",
+          "url": "https://open.spotify.com/artist/2wAZJqYREs9zwWv1X09DPr"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219000,
+      "name": "Parallel Night",
+      "url": "https://open.spotify.com/track/0IP8Jsqa3qjFYmZsWtwI1V"
     },
     {
       "album": {
@@ -21090,6 +21162,24 @@
       "duration_ms": 198960,
       "name": "You Got A Minute?",
       "url": "https://open.spotify.com/track/6fIJbvx9e9IjaKo6jml6Wa"
+    },
+    {
+      "album": {
+        "name": "Perfect Crown OST Part.8",
+        "url": "https://open.spotify.com/album/4SrWORwSxnQDx7g6luKMt9"
+      },
+      "artists": [
+        {
+          "name": "hrtz.wav",
+          "url": "https://open.spotify.com/artist/4xCz4boMkoSCzVWULUNeVg"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "You Keep Me Here",
+      "url": "https://open.spotify.com/track/2a686rjbxnMQPFgXjhBxXM"
     },
     {
       "album": {

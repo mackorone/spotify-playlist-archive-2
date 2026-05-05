@@ -1,6 +1,6 @@
 {
   "description": "Get your creative juices flowing with these classical and instrumental masterpieces.",
-  "num_followers": 221945,
+  "num_followers": 221959,
   "original_name": "Creative Focus",
   "owner": {
     "name": "Spotify",
@@ -403,6 +403,26 @@
     {
       "added_at": "2025-12-23 11:21:37",
       "album": {
+        "name": "Dear, Piano",
+        "url": "https://open.spotify.com/album/1MrAfbbO15n2Y1odaVOt9u"
+      },
+      "artists": [
+        {
+          "name": "Illuminine",
+          "url": "https://open.spotify.com/artist/2JgcaYYHEGDqrKKJzuVda5"
+        },
+        {
+          "name": "Simeon Walker",
+          "url": "https://open.spotify.com/artist/5jEGjnI2WdRyJSUICQQIrK"
+        }
+      ],
+      "duration_ms": 271760,
+      "name": "Patterns, Erase - Simeon Walker Rework",
+      "url": "https://open.spotify.com/track/1Biw7PpA3W0wCSl4PPspsa"
+    },
+    {
+      "added_at": "2025-12-23 11:21:37",
+      "album": {
         "name": "The Swan - Reimagined",
         "url": "https://open.spotify.com/album/2tCcEfhsCr2jO7mXMGLAES"
       },
@@ -423,26 +443,6 @@
     {
       "added_at": "2025-12-23 11:21:37",
       "album": {
-        "name": "Liszt - My Piano Hero",
-        "url": "https://open.spotify.com/album/39Hh5k01di42nUCLn8Wxqu"
-      },
-      "artists": [
-        {
-          "name": "Franz Liszt",
-          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
-        },
-        {
-          "name": "Lang Lang",
-          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
-        }
-      ],
-      "duration_ms": 259573,
-      "name": "Consolation No. 3 in D-Flat Major, S. 172",
-      "url": "https://open.spotify.com/track/0Jp7n6FKqGVxtXPMVYtMQr"
-    },
-    {
-      "added_at": "2025-12-23 11:21:37",
-      "album": {
         "name": "From Afar",
         "url": "https://open.spotify.com/album/0WBYzTL6L84FgYGfc3W2Ll"
       },
@@ -459,22 +459,22 @@
     {
       "added_at": "2025-12-23 11:21:37",
       "album": {
-        "name": "Dear, Piano",
-        "url": "https://open.spotify.com/album/1MrAfbbO15n2Y1odaVOt9u"
+        "name": "Liszt - My Piano Hero",
+        "url": "https://open.spotify.com/album/39Hh5k01di42nUCLn8Wxqu"
       },
       "artists": [
         {
-          "name": "Illuminine",
-          "url": "https://open.spotify.com/artist/2JgcaYYHEGDqrKKJzuVda5"
+          "name": "Franz Liszt",
+          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
         },
         {
-          "name": "Simeon Walker",
-          "url": "https://open.spotify.com/artist/5jEGjnI2WdRyJSUICQQIrK"
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
         }
       ],
-      "duration_ms": 271760,
-      "name": "Patterns, Erase - Simeon Walker Rework",
-      "url": "https://open.spotify.com/track/1Biw7PpA3W0wCSl4PPspsa"
+      "duration_ms": 259573,
+      "name": "Consolation No. 3 in D-Flat Major, S. 172",
+      "url": "https://open.spotify.com/track/0Jp7n6FKqGVxtXPMVYtMQr"
     },
     {
       "added_at": "2025-12-23 11:21:37",
@@ -627,26 +627,6 @@
     {
       "added_at": "2025-12-23 11:21:37",
       "album": {
-        "name": "Gjeilo: Winter Light",
-        "url": "https://open.spotify.com/album/4cRiFYfwKFLTdMMdDCv2bR"
-      },
-      "artists": [
-        {
-          "name": "Ola Gjeilo",
-          "url": "https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G"
-        },
-        {
-          "name": "Roberto Sorrentino",
-          "url": "https://open.spotify.com/artist/0qMo8J1UbKsYkjFjS2PwRH"
-        }
-      ],
-      "duration_ms": 170080,
-      "name": "Winter Light",
-      "url": "https://open.spotify.com/track/0Ko2qQT3o92wj6wVFckr6J"
-    },
-    {
-      "added_at": "2025-12-23 11:21:37",
-      "album": {
         "name": "J.S. Bach: Come, Sweet Death (Arr. for 5 Cellos)",
         "url": "https://open.spotify.com/album/7DuFXiU4QVs2ZNXPPGvNXD"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 197200,
       "name": "Come, Sweet Death, BWV 478 (Arr. for 5 Cellos)",
       "url": "https://open.spotify.com/track/4zdyJk5NEGXiWIZ87zfRVQ"
+    },
+    {
+      "added_at": "2025-12-23 11:21:37",
+      "album": {
+        "name": "Gjeilo: Winter Light",
+        "url": "https://open.spotify.com/album/4cRiFYfwKFLTdMMdDCv2bR"
+      },
+      "artists": [
+        {
+          "name": "Ola Gjeilo",
+          "url": "https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G"
+        },
+        {
+          "name": "Roberto Sorrentino",
+          "url": "https://open.spotify.com/artist/0qMo8J1UbKsYkjFjS2PwRH"
+        }
+      ],
+      "duration_ms": 170080,
+      "name": "Winter Light",
+      "url": "https://open.spotify.com/track/0Ko2qQT3o92wj6wVFckr6J"
     },
     {
       "added_at": "2025-12-23 11:21:37",
@@ -1099,26 +1099,6 @@
     {
       "added_at": "2025-12-23 11:21:37",
       "album": {
-        "name": "Couperin: Les Ombres Errantes",
-        "url": "https://open.spotify.com/album/3qsB60Pmng0d7kg1hZHIzB"
-      },
-      "artists": [
-        {
-          "name": "Fran\u00e7ois Couperin",
-          "url": "https://open.spotify.com/artist/4kVLtXuKJTE7SgYd2sQtaL"
-        },
-        {
-          "name": "Iddo Bar-Sha\u00ef",
-          "url": "https://open.spotify.com/artist/6ACU5c6yaqQdW5u8bRNCvW"
-        }
-      ],
-      "duration_ms": 139974,
-      "name": "La Muse-Plantine: 19\u00e8me ordre, 3\u00e8me livre",
-      "url": "https://open.spotify.com/track/5NAa3BITxg2xss1vIBXF4p"
-    },
-    {
-      "added_at": "2025-12-23 11:21:37",
-      "album": {
         "name": "Alexandre Tharaud: Baroque",
         "url": "https://open.spotify.com/album/43QScdpgNzcF9vw3dcSWmn"
       },
@@ -1135,6 +1115,26 @@
       "duration_ms": 253413,
       "name": "Concerto en r\u00e9 mineur, BWV 974: II. Adagio",
       "url": "https://open.spotify.com/track/3CkbfNMYISwMGg2guJtTe4"
+    },
+    {
+      "added_at": "2025-12-23 11:21:37",
+      "album": {
+        "name": "Couperin: Les Ombres Errantes",
+        "url": "https://open.spotify.com/album/3qsB60Pmng0d7kg1hZHIzB"
+      },
+      "artists": [
+        {
+          "name": "Fran\u00e7ois Couperin",
+          "url": "https://open.spotify.com/artist/4kVLtXuKJTE7SgYd2sQtaL"
+        },
+        {
+          "name": "Iddo Bar-Sha\u00ef",
+          "url": "https://open.spotify.com/artist/6ACU5c6yaqQdW5u8bRNCvW"
+        }
+      ],
+      "duration_ms": 139974,
+      "name": "La Muse-Plantine: 19\u00e8me ordre, 3\u00e8me livre",
+      "url": "https://open.spotify.com/track/5NAa3BITxg2xss1vIBXF4p"
     },
     {
       "added_at": "2025-12-23 11:21:37",
@@ -1263,6 +1263,30 @@
     {
       "added_at": "2025-12-23 11:21:37",
       "album": {
+        "name": "Around The World",
+        "url": "https://open.spotify.com/album/6a5OK0q8lpZW1hQgJn9fCm"
+      },
+      "artists": [
+        {
+          "name": "Francesco Molino",
+          "url": "https://open.spotify.com/artist/0U4hjQ6Z4YkYcAn7KlqZXq"
+        },
+        {
+          "name": "Emmanuel Pahud",
+          "url": "https://open.spotify.com/artist/6duaKoFWgzQNgHlfmn3dHq"
+        },
+        {
+          "name": "Christian Rivet",
+          "url": "https://open.spotify.com/artist/5fCzKAWnRwVYBZT6NfbUKZ"
+        }
+      ],
+      "duration_ms": 98320,
+      "name": "Molino: Duo No. 3, Op. 16: I. Andantino",
+      "url": "https://open.spotify.com/track/15ZcZqeTTpIy7RDs8P8DuH"
+    },
+    {
+      "added_at": "2025-12-23 11:21:37",
+      "album": {
         "name": "H\u00e4ndel: Sarabande Piano Meditation (After Sarabande from Suite in D Minor, HWV 437)",
         "url": "https://open.spotify.com/album/4apxJCjtmQUME6ljfVg2iK"
       },
@@ -1303,30 +1327,6 @@
     {
       "added_at": "2025-12-23 11:21:37",
       "album": {
-        "name": "Around The World",
-        "url": "https://open.spotify.com/album/6a5OK0q8lpZW1hQgJn9fCm"
-      },
-      "artists": [
-        {
-          "name": "Francesco Molino",
-          "url": "https://open.spotify.com/artist/0U4hjQ6Z4YkYcAn7KlqZXq"
-        },
-        {
-          "name": "Emmanuel Pahud",
-          "url": "https://open.spotify.com/artist/6duaKoFWgzQNgHlfmn3dHq"
-        },
-        {
-          "name": "Christian Rivet",
-          "url": "https://open.spotify.com/artist/5fCzKAWnRwVYBZT6NfbUKZ"
-        }
-      ],
-      "duration_ms": 98320,
-      "name": "Molino: Duo No. 3, Op. 16: I. Andantino",
-      "url": "https://open.spotify.com/track/15ZcZqeTTpIy7RDs8P8DuH"
-    },
-    {
-      "added_at": "2025-12-23 11:21:37",
-      "album": {
         "name": "Bach: Inventions & Sinfonias",
         "url": "https://open.spotify.com/album/1O53QRsMlkSId0cbp1mXCr"
       },
@@ -1343,30 +1343,6 @@
       "duration_ms": 98120,
       "name": "Invention No. 14 in B-Flat Major, BWV 785",
       "url": "https://open.spotify.com/track/3kE3KZiHM0nim6t34J9Hqf"
-    },
-    {
-      "added_at": "2025-12-23 11:21:37",
-      "album": {
-        "name": "Musique fran\u00e7aise pour deux pianos et piano \u00e0 quatre mains: Debussy, Faur\u00e9, Milhaud & Ravel",
-        "url": "https://open.spotify.com/album/0Q7atevAbLVN5ddczyOXxf"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Faur\u00e9",
-          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
-        },
-        {
-          "name": "Jean-Claude Vanden Eynden",
-          "url": "https://open.spotify.com/artist/2vmsTRj0IgajXmCE8G5ALg"
-        },
-        {
-          "name": "Pierre-Alain Volondat",
-          "url": "https://open.spotify.com/artist/07ocrn91p26FT9D2A3G8Rn"
-        }
-      ],
-      "duration_ms": 153640,
-      "name": "\u00ab Dolly \u00bb, 6 pi\u00e8ces pour piano \u00e0 4 mains, Op. 56: Berceuse",
-      "url": "https://open.spotify.com/track/3y8JVnoRGwFypqrr7pyn6C"
     },
     {
       "added_at": "2025-12-23 11:21:37",
@@ -1395,6 +1371,30 @@
       "duration_ms": 425466,
       "name": "Oboe Concerto in C Major, K. 314: II. Adagio non troppo",
       "url": "https://open.spotify.com/track/39Msge9Ii3X14GUuoAjdfk"
+    },
+    {
+      "added_at": "2025-12-23 11:21:37",
+      "album": {
+        "name": "Musique fran\u00e7aise pour deux pianos et piano \u00e0 quatre mains: Debussy, Faur\u00e9, Milhaud & Ravel",
+        "url": "https://open.spotify.com/album/0Q7atevAbLVN5ddczyOXxf"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Faur\u00e9",
+          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
+        },
+        {
+          "name": "Jean-Claude Vanden Eynden",
+          "url": "https://open.spotify.com/artist/2vmsTRj0IgajXmCE8G5ALg"
+        },
+        {
+          "name": "Pierre-Alain Volondat",
+          "url": "https://open.spotify.com/artist/07ocrn91p26FT9D2A3G8Rn"
+        }
+      ],
+      "duration_ms": 153640,
+      "name": "\u00ab Dolly \u00bb, 6 pi\u00e8ces pour piano \u00e0 4 mains, Op. 56: Berceuse",
+      "url": "https://open.spotify.com/track/3y8JVnoRGwFypqrr7pyn6C"
     },
     {
       "added_at": "2025-12-23 11:21:37",
@@ -1491,6 +1491,22 @@
     {
       "added_at": "2025-12-23 11:21:37",
       "album": {
+        "name": "Love Came",
+        "url": "https://open.spotify.com/album/6X1fv9fslru7IIhs254MWm"
+      },
+      "artists": [
+        {
+          "name": "Peter Gregson",
+          "url": "https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE"
+        }
+      ],
+      "duration_ms": 135800,
+      "name": "Love Came",
+      "url": "https://open.spotify.com/track/3s5QMIVTYWorP7kUWVuDOk"
+    },
+    {
+      "added_at": "2025-12-23 11:21:37",
+      "album": {
         "name": "Meditation - Relaxing Classics",
         "url": "https://open.spotify.com/album/71kxuK6d0As6TeafPksgFj"
       },
@@ -1523,22 +1539,6 @@
       "duration_ms": 267773,
       "name": "Les noces de Jeanette: Air du rossignol (Arr. Pierre for Flute & Orchestra)",
       "url": "https://open.spotify.com/track/6fqXx67EOQOLEQHFA5ZnBY"
-    },
-    {
-      "added_at": "2025-12-23 11:21:37",
-      "album": {
-        "name": "Love Came",
-        "url": "https://open.spotify.com/album/6X1fv9fslru7IIhs254MWm"
-      },
-      "artists": [
-        {
-          "name": "Peter Gregson",
-          "url": "https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE"
-        }
-      ],
-      "duration_ms": 135800,
-      "name": "Love Came",
-      "url": "https://open.spotify.com/track/3s5QMIVTYWorP7kUWVuDOk"
     },
     {
       "added_at": "2025-12-23 11:21:37",
@@ -1987,6 +1987,26 @@
     {
       "added_at": "2025-12-23 11:21:37",
       "album": {
+        "name": "Chordal Drift",
+        "url": "https://open.spotify.com/album/6nHbqioJUSyUf01jRdZjLe"
+      },
+      "artists": [
+        {
+          "name": "Scoring Berlin",
+          "url": "https://open.spotify.com/artist/5aVO01MTGf8SFlZvNm98ke"
+        },
+        {
+          "name": "Roger Eno",
+          "url": "https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo"
+        }
+      ],
+      "duration_ms": 182965,
+      "name": "Chordal Drift",
+      "url": "https://open.spotify.com/track/6S30a788IqUT1ExSTQljLM"
+    },
+    {
+      "added_at": "2025-12-23 11:21:37",
+      "album": {
         "name": "Mozart 1791",
         "url": "https://open.spotify.com/album/74bgXk4SBoMqfcXoAAh7VQ"
       },
@@ -2011,26 +2031,6 @@
       "duration_ms": 370546,
       "name": "Mozart: Clarinet Concerto in A Major, K. 622: II. Adagio",
       "url": "https://open.spotify.com/track/06sgVDVY4sH0TkQSEl2TFU"
-    },
-    {
-      "added_at": "2025-12-23 11:21:37",
-      "album": {
-        "name": "Chordal Drift",
-        "url": "https://open.spotify.com/album/6nHbqioJUSyUf01jRdZjLe"
-      },
-      "artists": [
-        {
-          "name": "Scoring Berlin",
-          "url": "https://open.spotify.com/artist/5aVO01MTGf8SFlZvNm98ke"
-        },
-        {
-          "name": "Roger Eno",
-          "url": "https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo"
-        }
-      ],
-      "duration_ms": 182965,
-      "name": "Chordal Drift",
-      "url": "https://open.spotify.com/track/6S30a788IqUT1ExSTQljLM"
     },
     {
       "added_at": "2025-12-23 11:21:37",

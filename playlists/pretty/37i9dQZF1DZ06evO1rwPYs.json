@@ -1,12 +1,12 @@
 {
   "description": "This is Celia Cruz. The essential tracks, all in one playlist.",
-  "num_followers": 107357,
+  "num_followers": 107360,
   "original_name": "This Is Celia Cruz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afU+gAAAAADD9FwbAO+lBIKSz0Geis4K",
+  "snapshot_id": "afaQAAAAAABgQD4w7HZNuane6tGSw1Zk",
   "tracks": [
     {
       "added_at": null,
@@ -603,26 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Duets",
-        "url": "https://open.spotify.com/album/3rKykknsy5wADknhS9qzQE"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        },
-        {
-          "name": "Los Fabulosos Cadillacs",
-          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
-        }
-      ],
-      "duration_ms": 278253,
-      "name": "Vasos Vacios",
-      "url": "https://open.spotify.com/track/6fbXUe5U907TzwyLeUw4NA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Only They Could Have Made This Album (Remastered 2024)",
         "url": "https://open.spotify.com/album/7JCLehSDJvpbC1NGmypzlM"
       },
@@ -639,6 +619,26 @@
       "duration_ms": 172295,
       "name": "Plazos Traicioneros - Remastered 2024",
       "url": "https://open.spotify.com/track/7Ml5UAdvDfXljFSwHCHwTj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Duets",
+        "url": "https://open.spotify.com/album/3rKykknsy5wADknhS9qzQE"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "Los Fabulosos Cadillacs",
+          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
+        }
+      ],
+      "duration_ms": 278253,
+      "name": "Vasos Vacios",
+      "url": "https://open.spotify.com/track/6fbXUe5U907TzwyLeUw4NA"
     },
     {
       "added_at": null,
@@ -731,6 +731,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Tierna, Conmovedora, Bamboleadora",
+        "url": "https://open.spotify.com/album/3505DvX9TkUjchDLCeSv5I"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "La Sonora Matancera",
+          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
+        }
+      ],
+      "duration_ms": 174626,
+      "name": "Desvelo De Amor",
+      "url": "https://open.spotify.com/track/5z46fEEorQBtY64lIyyBfo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Grandes \u00c9xitos De Celia Cruz",
         "url": "https://open.spotify.com/album/3fZuVtDVcGHISoULNx4Dw3"
       },
@@ -767,26 +787,6 @@
       "duration_ms": 331244,
       "name": "Canto a la Habana - Remastered 2024",
       "url": "https://open.spotify.com/track/46GaLgU3v1BYoCUREVysW2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Tierna, Conmovedora, Bamboleadora",
-        "url": "https://open.spotify.com/album/3505DvX9TkUjchDLCeSv5I"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        },
-        {
-          "name": "La Sonora Matancera",
-          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
-        }
-      ],
-      "duration_ms": 174626,
-      "name": "Desvelo De Amor",
-      "url": "https://open.spotify.com/track/5z46fEEorQBtY64lIyyBfo"
     },
     {
       "added_at": null,

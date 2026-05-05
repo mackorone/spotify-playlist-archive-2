@@ -1,12 +1,12 @@
 {
   "description": "This is El de La Guitarra. The essential tracks, all in one playlist.",
-  "num_followers": 100049,
+  "num_followers": 100056,
   "original_name": "This Is El de La Guitarra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afU+gAAAAAB8BxttxSKn4CjNEJ3Rsi03",
+  "snapshot_id": "afaQAAAAAACjqJltPqU9cLr6y6h62XwE",
   "tracks": [
     {
       "added_at": null,
@@ -739,6 +739,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fin De Semana",
+        "url": "https://open.spotify.com/album/1GBuuYtkHBUXxY2j1XrLff"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 180197,
+      "name": "Fin De Semana",
+      "url": "https://open.spotify.com/track/4N5Qpos9bnbTFOXHBHANJQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sangre De Rancho",
         "url": "https://open.spotify.com/album/1juj3QmN79iMMZDKX8RgEH"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 153705,
       "name": "EL CH",
       "url": "https://open.spotify.com/track/1435eaau7EznWMUd1Kr1Kd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dime x Que",
-        "url": "https://open.spotify.com/album/6ucVQoyr47QMbtc963azmg"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 173854,
-      "name": "Dime x Que",
-      "url": "https://open.spotify.com/track/67SiSGW15EcJe8muSJUNzU"
     }
   ],
   "unique_name": "This Is El de La Guitarra",

@@ -1,6 +1,6 @@
 {
   "description": "Dance the night away and just blame it on Tulum!",
-  "num_followers": 1015507,
+  "num_followers": 1015668,
   "original_name": "Tulum Party",
   "owner": {
     "name": "Spotify",
@@ -379,30 +379,6 @@
     {
       "added_at": "2026-05-01 04:01:38",
       "album": {
-        "name": "Life Is Simple (Move Your Body) [Feat Salom\u00e9 Das]",
-        "url": "https://open.spotify.com/album/4btj2RrBqE3GZ2azpFrWuo"
-      },
-      "artists": [
-        {
-          "name": "Maesic",
-          "url": "https://open.spotify.com/artist/1GO0BdzMo0I4HNHfbaLbKZ"
-        },
-        {
-          "name": "Marshall Jefferson",
-          "url": "https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz"
-        },
-        {
-          "name": "Salom\u00e9 Das",
-          "url": "https://open.spotify.com/artist/6OZuVLUPd9v4yEOTjwZz77"
-        }
-      ],
-      "duration_ms": 172314,
-      "name": "Life Is Simple (Move Your Body) [Feat Salom\u00e9 Das]",
-      "url": "https://open.spotify.com/track/6sgYrldk8IdtSERq4eGZj1"
-    },
-    {
-      "added_at": "2026-05-01 04:01:38",
-      "album": {
         "name": "Say What",
         "url": "https://open.spotify.com/album/167jkZFZSlQYFyQbr8st27"
       },
@@ -431,6 +407,30 @@
       "duration_ms": 181593,
       "name": "Say What",
       "url": "https://open.spotify.com/track/2GwsSbo6IbNDVvcm9rtmal"
+    },
+    {
+      "added_at": "2026-05-01 04:01:38",
+      "album": {
+        "name": "Life Is Simple (Move Your Body) [Feat Salom\u00e9 Das]",
+        "url": "https://open.spotify.com/album/4btj2RrBqE3GZ2azpFrWuo"
+      },
+      "artists": [
+        {
+          "name": "Maesic",
+          "url": "https://open.spotify.com/artist/1GO0BdzMo0I4HNHfbaLbKZ"
+        },
+        {
+          "name": "Marshall Jefferson",
+          "url": "https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz"
+        },
+        {
+          "name": "Salom\u00e9 Das",
+          "url": "https://open.spotify.com/artist/6OZuVLUPd9v4yEOTjwZz77"
+        }
+      ],
+      "duration_ms": 172314,
+      "name": "Life Is Simple (Move Your Body) [Feat Salom\u00e9 Das]",
+      "url": "https://open.spotify.com/track/6sgYrldk8IdtSERq4eGZj1"
     },
     {
       "added_at": "2026-05-01 04:01:38",
@@ -499,6 +499,26 @@
     {
       "added_at": "2026-05-01 04:01:38",
       "album": {
+        "name": "Beso (Fruta Fresca)",
+        "url": "https://open.spotify.com/album/6YoX9Sp63sr8NvOEjHk8uV"
+      },
+      "artists": [
+        {
+          "name": "Wakyin",
+          "url": "https://open.spotify.com/artist/2CnJJITnV40TB5UtCRhwIZ"
+        },
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        }
+      ],
+      "duration_ms": 197694,
+      "name": "Beso (Fruta Fresca)",
+      "url": "https://open.spotify.com/track/0r3nMF80NSIuPIxeod4aoG"
+    },
+    {
+      "added_at": "2026-05-01 04:01:38",
+      "album": {
         "name": "Pedro",
         "url": "https://open.spotify.com/album/5y6RXjI5VPR0RyInghTbf1"
       },
@@ -519,26 +539,6 @@
       "duration_ms": 144562,
       "name": "Pedro",
       "url": "https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW"
-    },
-    {
-      "added_at": "2026-05-01 04:01:38",
-      "album": {
-        "name": "Beso (Fruta Fresca)",
-        "url": "https://open.spotify.com/album/6YoX9Sp63sr8NvOEjHk8uV"
-      },
-      "artists": [
-        {
-          "name": "Wakyin",
-          "url": "https://open.spotify.com/artist/2CnJJITnV40TB5UtCRhwIZ"
-        },
-        {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
-        }
-      ],
-      "duration_ms": 197694,
-      "name": "Beso (Fruta Fresca)",
-      "url": "https://open.spotify.com/track/0r3nMF80NSIuPIxeod4aoG"
     },
     {
       "added_at": "2026-05-01 04:01:38",
@@ -767,46 +767,6 @@
     {
       "added_at": "2026-05-01 04:01:38",
       "album": {
-        "name": "The Less I Know The Better",
-        "url": "https://open.spotify.com/album/37k9VMEhAj9tO9g7MTkHWk"
-      },
-      "artists": [
-        {
-          "name": "Mau P",
-          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
-        }
-      ],
-      "duration_ms": 176114,
-      "name": "The Less I Know The Better",
-      "url": "https://open.spotify.com/track/7lDGg8CFySbkKUrjgzcLlY"
-    },
-    {
-      "added_at": "2026-05-01 04:01:38",
-      "album": {
-        "name": "una noche con hugel",
-        "url": "https://open.spotify.com/album/2TWRbmPRKGGp3iiREkKyjT"
-      },
-      "artists": [
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        },
-        {
-          "name": "Alleh",
-          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
-        },
-        {
-          "name": "Yorghaki",
-          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
-        }
-      ],
-      "duration_ms": 191475,
-      "name": "una noche con hugel",
-      "url": "https://open.spotify.com/track/2iamvJ8dFSfapKYEtEYFun"
-    },
-    {
-      "added_at": "2026-05-01 04:01:38",
-      "album": {
         "name": "CORA\u00c7AO (20th Anniversary Mix)",
         "url": "https://open.spotify.com/album/76jQdtc4MNArbcZxWgZU3p"
       },
@@ -835,22 +795,42 @@
     {
       "added_at": "2026-05-01 04:01:38",
       "album": {
-        "name": "It's That Time (FISHER Remix)",
-        "url": "https://open.spotify.com/album/2so0gk9JxwVcQaCUIOxRh2"
+        "name": "una noche con hugel",
+        "url": "https://open.spotify.com/album/2TWRbmPRKGGp3iiREkKyjT"
       },
       "artists": [
         {
-          "name": "Marlon Hoffstadt",
-          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
         },
         {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+          "name": "Alleh",
+          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
+        },
+        {
+          "name": "Yorghaki",
+          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
         }
       ],
-      "duration_ms": 171717,
-      "name": "It's That Time - FISHER Remix",
-      "url": "https://open.spotify.com/track/3GiORO0zRwRT3g9CCklzkQ"
+      "duration_ms": 191475,
+      "name": "una noche con hugel",
+      "url": "https://open.spotify.com/track/2iamvJ8dFSfapKYEtEYFun"
+    },
+    {
+      "added_at": "2026-05-01 04:01:38",
+      "album": {
+        "name": "The Less I Know The Better",
+        "url": "https://open.spotify.com/album/37k9VMEhAj9tO9g7MTkHWk"
+      },
+      "artists": [
+        {
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+        }
+      ],
+      "duration_ms": 176114,
+      "name": "The Less I Know The Better",
+      "url": "https://open.spotify.com/track/7lDGg8CFySbkKUrjgzcLlY"
     },
     {
       "added_at": "2026-05-01 04:01:38",
@@ -871,6 +851,26 @@
       "duration_ms": 208135,
       "name": "Mwaki",
       "url": "https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc"
+    },
+    {
+      "added_at": "2026-05-01 04:01:38",
+      "album": {
+        "name": "It's That Time (FISHER Remix)",
+        "url": "https://open.spotify.com/album/2so0gk9JxwVcQaCUIOxRh2"
+      },
+      "artists": [
+        {
+          "name": "Marlon Hoffstadt",
+          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
+        },
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        }
+      ],
+      "duration_ms": 171717,
+      "name": "It's That Time - FISHER Remix",
+      "url": "https://open.spotify.com/track/3GiORO0zRwRT3g9CCklzkQ"
     },
     {
       "added_at": "2026-05-01 04:01:38",
@@ -1055,26 +1055,6 @@
     {
       "added_at": "2026-05-01 04:01:38",
       "album": {
-        "name": "Jamaican (Bam Bam)",
-        "url": "https://open.spotify.com/album/1BweAtoAn6XFcPa4iJtO6G"
-      },
-      "artists": [
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        },
-        {
-          "name": "SOLTO (FR)",
-          "url": "https://open.spotify.com/artist/0F3tUZeb9dLNEpxCpzEBQt"
-        }
-      ],
-      "duration_ms": 156393,
-      "name": "Jamaican (Bam Bam)",
-      "url": "https://open.spotify.com/track/1ExjoMeJQxAYtHFke6eW31"
-    },
-    {
-      "added_at": "2026-05-01 04:01:38",
-      "album": {
         "name": "Verano En NY",
         "url": "https://open.spotify.com/album/6lwdsDlonNio6vDG42eUZu"
       },
@@ -1103,6 +1083,46 @@
       "duration_ms": 220465,
       "name": "neck",
       "url": "https://open.spotify.com/track/6KrrcOQiX7NQ4h038wKTUy"
+    },
+    {
+      "added_at": "2026-05-01 04:01:38",
+      "album": {
+        "name": "Jamaican (Bam Bam)",
+        "url": "https://open.spotify.com/album/1BweAtoAn6XFcPa4iJtO6G"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "SOLTO (FR)",
+          "url": "https://open.spotify.com/artist/0F3tUZeb9dLNEpxCpzEBQt"
+        }
+      ],
+      "duration_ms": 156393,
+      "name": "Jamaican (Bam Bam)",
+      "url": "https://open.spotify.com/track/1ExjoMeJQxAYtHFke6eW31"
+    },
+    {
+      "added_at": "2026-05-01 04:01:38",
+      "album": {
+        "name": "Blue Berries",
+        "url": "https://open.spotify.com/album/5rYaOhuUSKY1APLQ131QWN"
+      },
+      "artists": [
+        {
+          "name": "Sem Jacobs",
+          "url": "https://open.spotify.com/artist/4IDxbXfz5yMK7OGD4sdRjt"
+        },
+        {
+          "name": "Tagmann",
+          "url": "https://open.spotify.com/artist/12mvXbSB0GrbiXeqbh2Is7"
+        }
+      ],
+      "duration_ms": 170008,
+      "name": "Blue Berries",
+      "url": "https://open.spotify.com/track/7M4GUQ0CZU5A9CO2hkadG4"
     },
     {
       "added_at": "2026-05-01 04:01:38",
@@ -1143,26 +1163,6 @@
       "duration_ms": 191704,
       "name": "Ease My Mind",
       "url": "https://open.spotify.com/track/04gs2fDnnjT6995ruR1qbk"
-    },
-    {
-      "added_at": "2026-05-01 04:01:38",
-      "album": {
-        "name": "Blue Berries",
-        "url": "https://open.spotify.com/album/5rYaOhuUSKY1APLQ131QWN"
-      },
-      "artists": [
-        {
-          "name": "Sem Jacobs",
-          "url": "https://open.spotify.com/artist/4IDxbXfz5yMK7OGD4sdRjt"
-        },
-        {
-          "name": "Tagmann",
-          "url": "https://open.spotify.com/artist/12mvXbSB0GrbiXeqbh2Is7"
-        }
-      ],
-      "duration_ms": 170008,
-      "name": "Blue Berries",
-      "url": "https://open.spotify.com/track/7M4GUQ0CZU5A9CO2hkadG4"
     },
     {
       "added_at": "2026-05-01 04:01:38",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2026-05-01 04:01:38",
       "album": {
-        "name": "Last Night",
-        "url": "https://open.spotify.com/album/05cOaLn9wG0Mlx4unmfUHB"
-      },
-      "artists": [
-        {
-          "name": "Loofy",
-          "url": "https://open.spotify.com/artist/6zx3vuOK841XDu7XFozhFv"
-        }
-      ],
-      "duration_ms": 169302,
-      "name": "Last Night",
-      "url": "https://open.spotify.com/track/5mF7p5mwgaPZyIykUhO3PN"
-    },
-    {
-      "added_at": "2026-05-01 04:01:38",
-      "album": {
         "name": "Weak",
         "url": "https://open.spotify.com/album/7M457yfuVeLaiYrtiKTvqn"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 202560,
       "name": "Weak",
       "url": "https://open.spotify.com/track/62gzfhHi2supfHWfi6iHbA"
+    },
+    {
+      "added_at": "2026-05-01 04:01:38",
+      "album": {
+        "name": "Last Night",
+        "url": "https://open.spotify.com/album/05cOaLn9wG0Mlx4unmfUHB"
+      },
+      "artists": [
+        {
+          "name": "Loofy",
+          "url": "https://open.spotify.com/artist/6zx3vuOK841XDu7XFozhFv"
+        }
+      ],
+      "duration_ms": 169302,
+      "name": "Last Night",
+      "url": "https://open.spotify.com/track/5mF7p5mwgaPZyIykUhO3PN"
     },
     {
       "added_at": "2026-05-01 04:01:38",
@@ -1403,30 +1403,6 @@
     {
       "added_at": "2026-05-01 04:01:38",
       "album": {
-        "name": "Dancin (feat. Luvli) [Krono Remix]",
-        "url": "https://open.spotify.com/album/2J2f6vGACFrRghO1Ki74BE"
-      },
-      "artists": [
-        {
-          "name": "Aaron Smith",
-          "url": "https://open.spotify.com/artist/77qukKzmdI5BeMBR7WGUrN"
-        },
-        {
-          "name": "Krono",
-          "url": "https://open.spotify.com/artist/17TFSnqADESRM8BPSaM5aB"
-        },
-        {
-          "name": "Luvli",
-          "url": "https://open.spotify.com/artist/6dqohi36avY0M9urnyhITr"
-        }
-      ],
-      "duration_ms": 198053,
-      "name": "Dancin (feat. Luvli) - Krono Remix",
-      "url": "https://open.spotify.com/track/6WkJ2OK163XXS2oARUC9JM"
-    },
-    {
-      "added_at": "2026-05-01 04:01:38",
-      "album": {
         "name": "Dame Un Grrr (Provi Remix)",
         "url": "https://open.spotify.com/album/2GDIY30MqJ2sfnFp7px5Mq"
       },
@@ -1475,6 +1451,22 @@
     {
       "added_at": "2026-05-01 04:01:38",
       "album": {
+        "name": "Lady (Hear Me Tonight)",
+        "url": "https://open.spotify.com/album/57SwKjLUnRzLs7jXcDsQCY"
+      },
+      "artists": [
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        }
+      ],
+      "duration_ms": 153692,
+      "name": "Lady (Hear Me Tonight)",
+      "url": "https://open.spotify.com/track/5GIG7Ktm9gZnV5yNqb0XZl"
+    },
+    {
+      "added_at": "2026-05-01 04:01:38",
+      "album": {
         "name": "Sunrise (Remixes)",
         "url": "https://open.spotify.com/album/3Im5438f9q5yyVSSYcqwO1"
       },
@@ -1515,18 +1507,26 @@
     {
       "added_at": "2026-05-01 04:01:38",
       "album": {
-        "name": "Lady (Hear Me Tonight)",
-        "url": "https://open.spotify.com/album/57SwKjLUnRzLs7jXcDsQCY"
+        "name": "Dancin (feat. Luvli) [Krono Remix]",
+        "url": "https://open.spotify.com/album/2J2f6vGACFrRghO1Ki74BE"
       },
       "artists": [
         {
-          "name": "Oliver Heldens",
-          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+          "name": "Aaron Smith",
+          "url": "https://open.spotify.com/artist/77qukKzmdI5BeMBR7WGUrN"
+        },
+        {
+          "name": "Krono",
+          "url": "https://open.spotify.com/artist/17TFSnqADESRM8BPSaM5aB"
+        },
+        {
+          "name": "Luvli",
+          "url": "https://open.spotify.com/artist/6dqohi36avY0M9urnyhITr"
         }
       ],
-      "duration_ms": 153692,
-      "name": "Lady (Hear Me Tonight)",
-      "url": "https://open.spotify.com/track/5GIG7Ktm9gZnV5yNqb0XZl"
+      "duration_ms": 198053,
+      "name": "Dancin (feat. Luvli) - Krono Remix",
+      "url": "https://open.spotify.com/track/6WkJ2OK163XXS2oARUC9JM"
     },
     {
       "added_at": "2026-05-01 04:01:38",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2026-05-01 04:01:38",
       "album": {
-        "name": "Campe\u00f3n",
-        "url": "https://open.spotify.com/album/5O3GNoKOWUnyvUQoGSceKy"
-      },
-      "artists": [
-        {
-          "name": "ZULAN",
-          "url": "https://open.spotify.com/artist/2Yz9F5lQVc0p6SDxkw2BvF"
-        }
-      ],
-      "duration_ms": 173777,
-      "name": "Campe\u00f3n",
-      "url": "https://open.spotify.com/track/5TpWybXTsLTUAj4WcUYkP0"
-    },
-    {
-      "added_at": "2026-05-01 04:01:38",
-      "album": {
         "name": "Salam",
         "url": "https://open.spotify.com/album/5MflkuFCNL0Uye0uy4OrrH"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 173637,
       "name": "Salam",
       "url": "https://open.spotify.com/track/2Q0Ulx1pR8gTJoCfxOOVCZ"
+    },
+    {
+      "added_at": "2026-05-01 04:01:38",
+      "album": {
+        "name": "Campe\u00f3n",
+        "url": "https://open.spotify.com/album/5O3GNoKOWUnyvUQoGSceKy"
+      },
+      "artists": [
+        {
+          "name": "ZULAN",
+          "url": "https://open.spotify.com/artist/2Yz9F5lQVc0p6SDxkw2BvF"
+        }
+      ],
+      "duration_ms": 173777,
+      "name": "Campe\u00f3n",
+      "url": "https://open.spotify.com/track/5TpWybXTsLTUAj4WcUYkP0"
     },
     {
       "added_at": "2026-05-01 04:01:38",
@@ -1691,26 +1691,6 @@
       "duration_ms": 195625,
       "name": "Alameyo",
       "url": "https://open.spotify.com/track/42uAOnhBOaZ5hz1fjupFGJ"
-    },
-    {
-      "added_at": "2026-05-01 04:01:38",
-      "album": {
-        "name": "PERO NO TE ENAMORES",
-        "url": "https://open.spotify.com/album/3iRQdNKyI5Pf78jWYI1tFv"
-      },
-      "artists": [
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        },
-        {
-          "name": "AFROJACK",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
-        }
-      ],
-      "duration_ms": 186116,
-      "name": "FVCK",
-      "url": "https://open.spotify.com/track/4ZxFCbs4LAHlHvtOZ5UbIi"
     },
     {
       "added_at": "2026-05-01 04:01:38",
@@ -1767,6 +1747,26 @@
     {
       "added_at": "2026-05-01 04:01:38",
       "album": {
+        "name": "PERO NO TE ENAMORES",
+        "url": "https://open.spotify.com/album/3iRQdNKyI5Pf78jWYI1tFv"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        }
+      ],
+      "duration_ms": 186116,
+      "name": "FVCK",
+      "url": "https://open.spotify.com/track/4ZxFCbs4LAHlHvtOZ5UbIi"
+    },
+    {
+      "added_at": "2026-05-01 04:01:38",
+      "album": {
         "name": "Let's Go (Magalenha)",
         "url": "https://open.spotify.com/album/4yIihHvohDQhwRV69DSFTU"
       },
@@ -1803,50 +1803,18 @@
     {
       "added_at": "2026-05-01 04:01:38",
       "album": {
-        "name": "Meu Ver\u00e3o",
-        "url": "https://open.spotify.com/album/5lLsA0pN0mU93uFl7GU9VY"
+        "name": "M\u00e1s Tiempo Vol. 2",
+        "url": "https://open.spotify.com/album/60CFP8wv84lLr2QHBbaraA"
       },
       "artists": [
         {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        },
-        {
-          "name": "Magi",
-          "url": "https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy"
-        },
-        {
-          "name": "Doral",
-          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
-        },
-        {
-          "name": "Blotz",
-          "url": "https://open.spotify.com/artist/0BWTr4DfWCSNecOH1GnZEw"
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
         }
       ],
-      "duration_ms": 215433,
-      "name": "Meu Ver\u00e3o",
-      "url": "https://open.spotify.com/track/1M3osJunuDlz44RtVyCacx"
-    },
-    {
-      "added_at": "2026-05-01 04:01:38",
-      "album": {
-        "name": "Teka (with Peso Pluma)",
-        "url": "https://open.spotify.com/album/4MGpOqMU3FlZ7li35laoBu"
-      },
-      "artists": [
-        {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 163809,
-      "name": "Teka (with Peso Pluma)",
-      "url": "https://open.spotify.com/track/555maXFEF9m0lE4UGRzCHk"
+      "duration_ms": 380625,
+      "name": "The Whistle Tune",
+      "url": "https://open.spotify.com/track/5P51136ZswyO6Qp6HCOUqx"
     },
     {
       "added_at": "2026-05-01 04:01:38",
@@ -1875,18 +1843,66 @@
     {
       "added_at": "2026-05-01 04:01:38",
       "album": {
-        "name": "M\u00e1s Tiempo Vol. 2",
-        "url": "https://open.spotify.com/album/60CFP8wv84lLr2QHBbaraA"
+        "name": "Teka (with Peso Pluma)",
+        "url": "https://open.spotify.com/album/4MGpOqMU3FlZ7li35laoBu"
       },
       "artists": [
         {
-          "name": "Skepta",
-          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
         }
       ],
-      "duration_ms": 380625,
-      "name": "The Whistle Tune",
-      "url": "https://open.spotify.com/track/5P51136ZswyO6Qp6HCOUqx"
+      "duration_ms": 163809,
+      "name": "Teka (with Peso Pluma)",
+      "url": "https://open.spotify.com/track/555maXFEF9m0lE4UGRzCHk"
+    },
+    {
+      "added_at": "2026-05-01 04:01:38",
+      "album": {
+        "name": "Meu Ver\u00e3o",
+        "url": "https://open.spotify.com/album/5lLsA0pN0mU93uFl7GU9VY"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "Magi",
+          "url": "https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy"
+        },
+        {
+          "name": "Doral",
+          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
+        },
+        {
+          "name": "Blotz",
+          "url": "https://open.spotify.com/artist/0BWTr4DfWCSNecOH1GnZEw"
+        }
+      ],
+      "duration_ms": 215433,
+      "name": "Meu Ver\u00e3o",
+      "url": "https://open.spotify.com/track/1M3osJunuDlz44RtVyCacx"
+    },
+    {
+      "added_at": "2026-05-01 04:01:38",
+      "album": {
+        "name": "COLLECT THE COMMAS",
+        "url": "https://open.spotify.com/album/6AVl6czEyN0v5GRaeCr4WY"
+      },
+      "artists": [
+        {
+          "name": "PAWSA",
+          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
+        }
+      ],
+      "duration_ms": 221339,
+      "name": "COLLECT THE COMMAS",
+      "url": "https://open.spotify.com/track/5e3NwBC0E6xjX9c1Uc8RHy"
     },
     {
       "added_at": "2026-05-01 04:01:38",
@@ -1907,22 +1923,6 @@
       "duration_ms": 228633,
       "name": "Dancing Shoes",
       "url": "https://open.spotify.com/track/0gbFEO8EcSzbGIf4SJR47P"
-    },
-    {
-      "added_at": "2026-05-01 04:01:38",
-      "album": {
-        "name": "COLLECT THE COMMAS",
-        "url": "https://open.spotify.com/album/6AVl6czEyN0v5GRaeCr4WY"
-      },
-      "artists": [
-        {
-          "name": "PAWSA",
-          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
-        }
-      ],
-      "duration_ms": 221339,
-      "name": "COLLECT THE COMMAS",
-      "url": "https://open.spotify.com/track/5e3NwBC0E6xjX9c1Uc8RHy"
     },
     {
       "added_at": "2026-05-01 04:01:38",

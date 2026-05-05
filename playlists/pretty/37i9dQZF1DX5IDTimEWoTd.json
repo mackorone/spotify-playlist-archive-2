@@ -1,6 +1,6 @@
 {
   "description": "Beautiful songs to give you that warm, fuzzy feeling.",
-  "num_followers": 2806956,
+  "num_followers": 2806972,
   "original_name": "Warm Fuzzy Feeling",
   "owner": {
     "name": "Spotify",
@@ -365,22 +365,6 @@
       "url": "https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf"
     },
     {
-      "added_at": "2025-10-03 04:00:55",
-      "album": {
-        "name": "The Life of a Showgirl",
-        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 207349,
-      "name": "Wi$h Li$t",
-      "url": "https://open.spotify.com/track/2TEQvxxQabwLQMqWMg1qGu"
-    },
-    {
       "added_at": "2024-08-12 15:54:12",
       "album": {
         "name": "Don't Play That Song (Mono)",
@@ -395,6 +379,22 @@
       "duration_ms": 180055,
       "name": "Stand By Me",
       "url": "https://open.spotify.com/track/3SdTKo2uVsxFblQjpScoHy"
+    },
+    {
+      "added_at": "2025-10-03 04:00:55",
+      "album": {
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 207349,
+      "name": "Wi$h Li$t",
+      "url": "https://open.spotify.com/track/2TEQvxxQabwLQMqWMg1qGu"
     },
     {
       "added_at": "2024-08-12 15:54:12",
@@ -465,22 +465,6 @@
       "url": "https://open.spotify.com/track/0YMe6PHRbeDcN7KJdCG0bW"
     },
     {
-      "added_at": "2025-11-06 01:08:04",
-      "album": {
-        "name": "The Singer and the Song",
-        "url": "https://open.spotify.com/album/5vVrfTlAZqwpdCs52MjdZH"
-      },
-      "artists": [
-        {
-          "name": "Labi Siffre",
-          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
-        }
-      ],
-      "duration_ms": 100746,
-      "name": "Bless the Telephone",
-      "url": "https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s"
-    },
-    {
       "added_at": "2024-08-12 15:54:12",
       "album": {
         "name": "Until I Found You (Em Beihold Version)",
@@ -515,6 +499,22 @@
       "duration_ms": 242946,
       "name": "I'm Yours",
       "url": "https://open.spotify.com/track/1EzrEOXmMH3G43AXT1y7pA"
+    },
+    {
+      "added_at": "2025-11-06 01:08:04",
+      "album": {
+        "name": "The Singer and the Song",
+        "url": "https://open.spotify.com/album/5vVrfTlAZqwpdCs52MjdZH"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "duration_ms": 100746,
+      "name": "Bless the Telephone",
+      "url": "https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s"
     },
     {
       "added_at": "2024-08-12 15:54:12",
@@ -833,22 +833,6 @@
       "url": "https://open.spotify.com/track/7rJkmoGkKjLMIPI9qUQnSy"
     },
     {
-      "added_at": "2025-09-19 04:00:20",
-      "album": {
-        "name": "Something In The Heavens",
-        "url": "https://open.spotify.com/album/7JKqghg3DcUzw12Sk9XNXf"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 198028,
-      "name": "Something In The Heavens",
-      "url": "https://open.spotify.com/track/4MHORmGs8oN7AASfGmApcM"
-    },
-    {
       "added_at": "2024-08-12 15:54:12",
       "album": {
         "name": "Little Bit Better",
@@ -867,6 +851,22 @@
       "duration_ms": 227625,
       "name": "Little Bit Better",
       "url": "https://open.spotify.com/track/0GMs3jq70wmCo12pavj4st"
+    },
+    {
+      "added_at": "2025-09-19 04:00:20",
+      "album": {
+        "name": "Something In The Heavens",
+        "url": "https://open.spotify.com/album/7JKqghg3DcUzw12Sk9XNXf"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 198028,
+      "name": "Something In The Heavens",
+      "url": "https://open.spotify.com/track/4MHORmGs8oN7AASfGmApcM"
     },
     {
       "added_at": "2024-08-12 15:54:12",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2024-08-12 15:54:12",
       "album": {
-        "name": "sun to me",
-        "url": "https://open.spotify.com/album/5rWYslg1tfIO46bDK7xXPW"
-      },
-      "artists": [
-        {
-          "name": "mgk",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
-        }
-      ],
-      "duration_ms": 158446,
-      "name": "sun to me",
-      "url": "https://open.spotify.com/track/1YFUI8vmek5XtbON2ZW892"
-    },
-    {
-      "added_at": "2024-08-12 15:54:12",
-      "album": {
         "name": "HELP EVER HURT NEVER",
         "url": "https://open.spotify.com/album/03QiFOKDh6xMiSTkOnsmMG"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 185573,
       "name": "\u6b7b\u306c\u306e\u304c\u3044\u3044\u308f",
       "url": "https://open.spotify.com/track/0HYAsQwJIO6FLqpyTeD3l6"
+    },
+    {
+      "added_at": "2024-08-12 15:54:12",
+      "album": {
+        "name": "sun to me",
+        "url": "https://open.spotify.com/album/5rWYslg1tfIO46bDK7xXPW"
+      },
+      "artists": [
+        {
+          "name": "mgk",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        }
+      ],
+      "duration_ms": 158446,
+      "name": "sun to me",
+      "url": "https://open.spotify.com/track/1YFUI8vmek5XtbON2ZW892"
     },
     {
       "added_at": "2024-08-12 15:54:12",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2024-08-12 15:54:12",
       "album": {
-        "name": "Plans",
-        "url": "https://open.spotify.com/album/1NFGnxmeIEBakre4DvLaJq"
-      },
-      "artists": [
-        {
-          "name": "Death Cab for Cutie",
-          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
-        }
-      ],
-      "duration_ms": 189186,
-      "name": "I Will Follow You into the Dark",
-      "url": "https://open.spotify.com/track/3kZC0ZmFWrEHdUCmUqlvgZ"
-    },
-    {
-      "added_at": "2024-08-12 15:54:12",
-      "album": {
         "name": "Speak Now",
         "url": "https://open.spotify.com/album/5MfAxS5zz8MlfROjGQVXhy"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 352186,
       "name": "Enchanted",
       "url": "https://open.spotify.com/track/10eBRyImhfqVvkiVEGf0N0"
+    },
+    {
+      "added_at": "2024-08-12 15:54:12",
+      "album": {
+        "name": "Plans",
+        "url": "https://open.spotify.com/album/1NFGnxmeIEBakre4DvLaJq"
+      },
+      "artists": [
+        {
+          "name": "Death Cab for Cutie",
+          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
+        }
+      ],
+      "duration_ms": 189186,
+      "name": "I Will Follow You into the Dark",
+      "url": "https://open.spotify.com/track/3kZC0ZmFWrEHdUCmUqlvgZ"
     },
     {
       "added_at": "2024-08-12 15:54:12",
@@ -1465,22 +1465,6 @@
       "url": "https://open.spotify.com/track/1XNAH3h63O1hWFcgyHGbjf"
     },
     {
-      "added_at": "2025-06-06 04:00:06",
-      "album": {
-        "name": "God Went Crazy",
-        "url": "https://open.spotify.com/album/43mGt3jmmeOnJE4bC0Ulls"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 183034,
-      "name": "God Went Crazy",
-      "url": "https://open.spotify.com/track/1E5HKRzDzeeC7vQGjlLpUr"
-    },
-    {
       "added_at": "2025-06-30 03:19:46",
       "album": {
         "name": "I Just Don't Know You Yet",
@@ -1497,20 +1481,20 @@
       "url": "https://open.spotify.com/track/7GU1xgUhSHMjc32d9zuWtF"
     },
     {
-      "added_at": "2024-08-12 15:54:12",
+      "added_at": "2025-06-06 04:00:06",
       "album": {
-        "name": "Fall Into Me",
-        "url": "https://open.spotify.com/album/6nRIGu1lglm6SZC3oG3L4l"
+        "name": "God Went Crazy",
+        "url": "https://open.spotify.com/album/43mGt3jmmeOnJE4bC0Ulls"
       },
       "artists": [
         {
-          "name": "Forest Blakk",
-          "url": "https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc"
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
         }
       ],
-      "duration_ms": 226066,
-      "name": "Fall Into Me",
-      "url": "https://open.spotify.com/track/7Lv78wiIJcKgND9Zi7AIOt"
+      "duration_ms": 183034,
+      "name": "God Went Crazy",
+      "url": "https://open.spotify.com/track/1E5HKRzDzeeC7vQGjlLpUr"
     },
     {
       "added_at": "2024-08-12 15:54:12",
@@ -1527,6 +1511,22 @@
       "duration_ms": 150173,
       "name": "Love You Still (abcdefu romantic version)",
       "url": "https://open.spotify.com/track/31fMJwgrgNdk1IbWZEchX2"
+    },
+    {
+      "added_at": "2024-08-12 15:54:12",
+      "album": {
+        "name": "Fall Into Me",
+        "url": "https://open.spotify.com/album/6nRIGu1lglm6SZC3oG3L4l"
+      },
+      "artists": [
+        {
+          "name": "Forest Blakk",
+          "url": "https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc"
+        }
+      ],
+      "duration_ms": 226066,
+      "name": "Fall Into Me",
+      "url": "https://open.spotify.com/track/7Lv78wiIJcKgND9Zi7AIOt"
     },
     {
       "added_at": "2024-08-12 15:54:12",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2024-08-12 15:54:12",
       "album": {
-        "name": "this is what slow dancing feels like",
-        "url": "https://open.spotify.com/album/24LaJk9nxJvZWtSmt7qMm5"
-      },
-      "artists": [
-        {
-          "name": "JVKE",
-          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
-        }
-      ],
-      "duration_ms": 145735,
-      "name": "this is what slow dancing feels like",
-      "url": "https://open.spotify.com/track/4EhqimHdoK9OmCNvCfioH6"
-    },
-    {
-      "added_at": "2024-08-12 15:54:12",
-      "album": {
         "name": "Somewhere Only We Know",
         "url": "https://open.spotify.com/album/2BWTPrj9yBBC79fCByZ2Tv"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 208154,
       "name": "Somewhere Only We Know",
       "url": "https://open.spotify.com/track/3DDGhkxq3FeUorZppSgeLE"
+    },
+    {
+      "added_at": "2024-08-12 15:54:12",
+      "album": {
+        "name": "this is what slow dancing feels like",
+        "url": "https://open.spotify.com/album/24LaJk9nxJvZWtSmt7qMm5"
+      },
+      "artists": [
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        }
+      ],
+      "duration_ms": 145735,
+      "name": "this is what slow dancing feels like",
+      "url": "https://open.spotify.com/track/4EhqimHdoK9OmCNvCfioH6"
     },
     {
       "added_at": "2024-08-12 15:54:12",

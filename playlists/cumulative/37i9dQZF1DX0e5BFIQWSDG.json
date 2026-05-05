@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u039f\u03b9 \u03bc\u03b5\u03b3\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b5\u03c2 \u03b5\u03c0\u03b9\u03c4\u03c5\u03c7\u03af\u03b5\u03c2 \u03c4\u03bf\u03c5 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03ba\u03b1\u03b9 \u03c4\u03bf\u03c5 \u03b1\u03cd\u03c1\u03b9\u03bf, \u03b5\u03c0\u03b9\u03bb\u03b5\u03b3\u03bc\u03ad\u03bd\u03b5\u03c2 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03bf\u03bc\u03ac\u03b4\u03b1 \u03bc\u03b1\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: FLY LO ",
+  "description": "\u039f\u03b9 \u03bc\u03b5\u03b3\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b5\u03c2 \u03b5\u03c0\u03b9\u03c4\u03c5\u03c7\u03af\u03b5\u03c2 \u03c4\u03bf\u03c5 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03ba\u03b1\u03b9 \u03c4\u03bf\u03c5 \u03b1\u03cd\u03c1\u03b9\u03bf, \u03b5\u03c0\u03b9\u03bb\u03b5\u03b3\u03bc\u03ad\u03bd\u03b5\u03c2 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03bf\u03bc\u03ac\u03b4\u03b1 \u03bc\u03b1\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Likeboss",
   "name": "Hot Hits Greece",
   "tracks": [
     {
@@ -1457,6 +1457,36 @@
     },
     {
       "album": {
+        "name": "AVASIMA STOIXEIA",
+        "url": "https://open.spotify.com/album/4zBlFHNnuPZOuTwEJd6Nzm"
+      },
+      "artists": [
+        {
+          "name": "Dani Gambino",
+          "url": "https://open.spotify.com/artist/0JDrljGBQpzIKFIcZ4R1H4"
+        },
+        {
+          "name": "SIDARTA",
+          "url": "https://open.spotify.com/artist/3jPN2U65cMPzvozEBue5zp"
+        },
+        {
+          "name": "Th Mark",
+          "url": "https://open.spotify.com/artist/3ll1Oo6EwG4s6xrAapzUVm"
+        },
+        {
+          "name": "Grandbois",
+          "url": "https://open.spotify.com/artist/4Ke4cWvHCmm8sOlCcaeOlu"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250212,
+      "name": "AVASIMA STOIXEIA",
+      "url": "https://open.spotify.com/track/3Nb7cNFSCPpr8FAyNNxUq7"
+    },
+    {
+      "album": {
         "name": "Ax Kardia Mou",
         "url": "https://open.spotify.com/album/12DviWYgAjScvO1TTpoUnf"
       },
@@ -1912,7 +1942,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 104233,
       "name": "BOOM",
       "url": "https://open.spotify.com/track/3yG5QwVZfesivke0nOWr9R"
@@ -2523,6 +2553,28 @@
     },
     {
       "album": {
+        "name": "Ergo 3",
+        "url": "https://open.spotify.com/album/25mlVZYFC2FTLJSjNoPLGt"
+      },
+      "artists": [
+        {
+          "name": "Bossikan",
+          "url": "https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM"
+        },
+        {
+          "name": "Tanas Yos",
+          "url": "https://open.spotify.com/artist/6iP5eyVf9XL7ycgNWCeSsO"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153290,
+      "name": "Day Ones",
+      "url": "https://open.spotify.com/track/2mSJwsbBW70UOle1iA41xk"
+    },
+    {
+      "album": {
         "name": "De M' Agapouses",
         "url": "https://open.spotify.com/album/579p2fFgpWvCVqTKtCe6ge"
       },
@@ -2770,6 +2822,28 @@
       "duration_ms": 229997,
       "name": "Disease",
       "url": "https://open.spotify.com/track/19KlZwqlT3fguP2BeHF1Q1"
+    },
+    {
+      "album": {
+        "name": "Ergo 3",
+        "url": "https://open.spotify.com/album/25mlVZYFC2FTLJSjNoPLGt"
+      },
+      "artists": [
+        {
+          "name": "Bossikan",
+          "url": "https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM"
+        },
+        {
+          "name": "Ortiz",
+          "url": "https://open.spotify.com/artist/6nidPawoE1wPgAtFmeyXyR"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176750,
+      "name": "DNA",
+      "url": "https://open.spotify.com/track/5hf3yPD8opAIRYt5G0R9Ye"
     },
     {
       "album": {
@@ -3801,6 +3875,32 @@
     },
     {
       "album": {
+        "name": "SUMMER GETAWAY",
+        "url": "https://open.spotify.com/album/3ALkCTlPvj7HC3cw26EvcI"
+      },
+      "artists": [
+        {
+          "name": "Likeboss",
+          "url": "https://open.spotify.com/artist/5gw7flNXQt0oQ5taY1as73"
+        },
+        {
+          "name": "Arab",
+          "url": "https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a"
+        },
+        {
+          "name": "Echo",
+          "url": "https://open.spotify.com/artist/0JfrxGQOdnHYZWBAtzPezD"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "FIRMINO",
+      "url": "https://open.spotify.com/track/4QzDOpaEg5dY6dQY4hP1wI"
+    },
+    {
+      "album": {
         "name": "MAIS",
         "url": "https://open.spotify.com/album/1MZYvJEbIoZDqFEBzbDVVj"
       },
@@ -3878,7 +3978,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 166857,
       "name": "FREE FOR ALL",
       "url": "https://open.spotify.com/track/6KYUQv64dBHAqk15LFwxhj"
@@ -4540,6 +4640,24 @@
       "duration_ms": 130485,
       "name": "GRISELDA",
       "url": "https://open.spotify.com/track/1f8q0UF64hUKlEezIzIc4N"
+    },
+    {
+      "album": {
+        "name": "Gucci Bag",
+        "url": "https://open.spotify.com/album/1BXZBS4RMQcRTTw7JbSsqu"
+      },
+      "artists": [
+        {
+          "name": "CHEKKIS",
+          "url": "https://open.spotify.com/artist/43eXh1mPvuHJJg8xRELhYO"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136363,
+      "name": "Gucci Bag",
+      "url": "https://open.spotify.com/track/2O8JAIWrhkO46ctsGbzQS3"
     },
     {
       "album": {
@@ -5663,6 +5781,32 @@
     },
     {
       "album": {
+        "name": "SUMMER GETAWAY",
+        "url": "https://open.spotify.com/album/3ALkCTlPvj7HC3cw26EvcI"
+      },
+      "artists": [
+        {
+          "name": "Likeboss",
+          "url": "https://open.spotify.com/artist/5gw7flNXQt0oQ5taY1as73"
+        },
+        {
+          "name": "Kidd",
+          "url": "https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou"
+        },
+        {
+          "name": "Echo",
+          "url": "https://open.spotify.com/artist/0JfrxGQOdnHYZWBAtzPezD"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168750,
+      "name": "KRYA VLEMMATA",
+      "url": "https://open.spotify.com/track/0K2k2CIlpV7j5wdskDBUIk"
+    },
+    {
+      "album": {
         "name": "KSANA",
         "url": "https://open.spotify.com/album/5S9Qckpu5pJdznQEvPpuMM"
       },
@@ -6306,7 +6450,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 189090,
       "name": "MARADONA",
       "url": "https://open.spotify.com/track/2iA0GsIJ8htppyhTtnmti7"
@@ -9054,7 +9198,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 161868,
       "name": "SALVATORE",
       "url": "https://open.spotify.com/track/5sCEPFsFxNr0FsMW6OaZbT"
@@ -9750,7 +9894,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 171715,
       "name": "STUFF",
       "url": "https://open.spotify.com/track/01uh1vFxHx6tHAVslWrJdZ"
@@ -10910,7 +11054,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 120959,
       "name": "Vgazeis Cafe",
       "url": "https://open.spotify.com/track/4jeAxO6RFFP04pcYgvxabz"

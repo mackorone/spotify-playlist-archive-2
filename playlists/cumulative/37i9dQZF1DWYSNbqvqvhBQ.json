@@ -2201,6 +2201,24 @@
     },
     {
       "album": {
+        "name": "Changes Coming 'Round The Bend",
+        "url": "https://open.spotify.com/album/2XjWpWHdgRrBQOjpXyYoZJ"
+      },
+      "artists": [
+        {
+          "name": "Jett Rebel",
+          "url": "https://open.spotify.com/artist/1j8m5isW09lzbcz5kcUADT"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167519,
+      "name": "Changes Coming 'Round The Bend",
+      "url": "https://open.spotify.com/track/0LYxksy1iGlktBf595NNmZ"
+    },
+    {
+      "album": {
         "name": "Changing Colors",
         "url": "https://open.spotify.com/album/4UZeGiooq573yVWCAB4gu4"
       },
@@ -5621,6 +5639,24 @@
     },
     {
       "album": {
+        "name": "Hold Me (Mantra)",
+        "url": "https://open.spotify.com/album/6DofcBKOe3Cf4Z0wgdkWdC"
+      },
+      "artists": [
+        {
+          "name": "Eloi Youssef",
+          "url": "https://open.spotify.com/artist/4y0egYlrx2v3IzeciScO2A"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333800,
+      "name": "Hold Me (Mantra)",
+      "url": "https://open.spotify.com/track/4531KTSpDcgxSWksAYKQhg"
+    },
+    {
+      "album": {
         "name": "Hold You",
         "url": "https://open.spotify.com/album/73b2pnXNe6g8geL9EjPHkW"
       },
@@ -8481,6 +8517,24 @@
     },
     {
       "album": {
+        "name": "The Devil Wears Prada 2 (Music From The Motion Picture)",
+        "url": "https://open.spotify.com/album/5FKnRUB5lt7z5ac1lmu3BE"
+      },
+      "artists": [
+        {
+          "name": "SIENNA SPIRO",
+          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178016,
+      "name": "Material Lover",
+      "url": "https://open.spotify.com/track/2NT5EOtSEOrjfisvwmSv5S"
+    },
+    {
+      "album": {
         "name": "Leveller",
         "url": "https://open.spotify.com/album/6SfToUjflJFZiHB0gGNOZe"
       },
@@ -8996,7 +9050,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 191000,
       "name": "My Mess",
       "url": "https://open.spotify.com/track/5p3Jpxg9clWBDLy9kdD6CY"
@@ -9338,7 +9392,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 302623,
       "name": "Nightingale Lane.",
       "url": "https://open.spotify.com/track/7j7J2M3ZsKOsrhBueDjhqF"
@@ -11374,7 +11428,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 143573,
       "name": "Sheets",
       "url": "https://open.spotify.com/track/1D0q5fhJVl1xhRXNrvOFkb"
@@ -13466,7 +13520,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 475053,
       "name": "The Fan (feat. Joe Bonamassa)",
       "url": "https://open.spotify.com/track/1v7UVjK1YnakfvqKVfcaYX"
@@ -14370,6 +14424,28 @@
       "duration_ms": 228397,
       "name": "Trade it for the Night - Single Version",
       "url": "https://open.spotify.com/track/2cuxy7AW3bLGFfEK0ugD6L"
+    },
+    {
+      "album": {
+        "name": "Symphonic Tales II",
+        "url": "https://open.spotify.com/album/3Qfy4dS5v3ksqu5OltccOy"
+      },
+      "artists": [
+        {
+          "name": "HAEVN",
+          "url": "https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6"
+        },
+        {
+          "name": "Neco Novellas",
+          "url": "https://open.spotify.com/artist/2pHjS1OXh3WzeKKYRs68Fe"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370799,
+      "name": "Trade it for the Night - Symphonic Version",
+      "url": "https://open.spotify.com/track/5s5Nqv8ziDXoiOgFZcAF2v"
     },
     {
       "album": {

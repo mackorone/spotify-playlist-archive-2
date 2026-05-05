@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzZlRWgqAGH.md) - [plain]
 
 > Dayo Bello and music for your soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 842,476 likes - 71 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 842,490 likes - 71 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [SUGAR WATER](https://open.spotify.com/track/6zkoIozGGyFgk3EIAIs6oF) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [SUGAR WATER](https://open.spotify.com/album/7bL5SEk32HW0e6WxePXWcZ) | 3:10 |
-| 2 | [Stand Still](https://open.spotify.com/track/1867RP4RmHjiGnBlpk0f3w) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2) | [Stand Still](https://open.spotify.com/album/4oabzSr5LNJ049MLW6iH37) | 2:24 |
+| 1 | [Stand Still](https://open.spotify.com/track/1867RP4RmHjiGnBlpk0f3w) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2) | [Stand Still](https://open.spotify.com/album/4oabzSr5LNJ049MLW6iH37) | 2:24 |
+| 2 | [SUGAR WATER](https://open.spotify.com/track/6zkoIozGGyFgk3EIAIs6oF) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [SUGAR WATER](https://open.spotify.com/album/7bL5SEk32HW0e6WxePXWcZ) | 3:10 |
 | 3 | [City Blues \(at Dreamhouse Studios\)](https://open.spotify.com/track/6a5N1UGOKDRsEWpyO1sI49) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [For Good Measure \(at Dreamhouse Studios\)](https://open.spotify.com/album/1v7bdNSS8V6FIg562qg01D) | 4:24 |
 | 4 | [Goddess \(with Shenseea\)](https://open.spotify.com/track/2MXENlJ3KwDUA8MrChbkFV) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Goddess](https://open.spotify.com/album/2a7Q14xrExK8sz4PPQ3rpT) | 3:26 |
 | 5 | [Ride It Out](https://open.spotify.com/track/02ha48YfyAgAOrg50ZcDNh) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Ride It Out](https://open.spotify.com/album/6vMuk0DhZDM1wClWe6ZjIA) | 3:29 |
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzZlRWgqAGH.md) - [plain]
 | 70 | [A Tree Never Waters Itself \- A COLORS SHOW](https://open.spotify.com/track/0IiJqBVwl2UBndbj09abSA) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [A Tree Never Waters Itself \- A COLORS SHOW](https://open.spotify.com/album/1TPZIZ7ofOyvNKtoqy643u) | 1:55 |
 | 71 | [THE FALL](https://open.spotify.com/track/26Zg7dZQtAMYIpEHD3SYci) | [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG), [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J), [Braxton Cook](https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1) | [THE FALL](https://open.spotify.com/album/1QgFO7rwG1CZafxysAP6zP) | 3:20 |
 
-Snapshot ID: `AAAAAO/HFpMc+H/Z6VUvErNVuGxHLP/C`
+Snapshot ID: `AAAAAOgtPAH27Pt2smT1mLbUpmpqcAcj`

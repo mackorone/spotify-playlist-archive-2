@@ -5951,6 +5951,24 @@
     },
     {
       "album": {
+        "name": "xxxx",
+        "url": "https://open.spotify.com/album/7wNj1HwSTYsoCYKya1kZah"
+      },
+      "artists": [
+        {
+          "name": "XxXX",
+          "url": "https://open.spotify.com/artist/6rimWLdviDbddrg9rmY88B"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221750,
+      "name": "yatsumeana",
+      "url": "https://open.spotify.com/track/3mjDAKJ5wQeX3Qv2Jt3Uv3"
+    },
+    {
+      "album": {
         "name": "Yoidoreshirazu",
         "url": "https://open.spotify.com/album/32sf8CyAb7MtRbVTDJrWQA"
       },
@@ -7303,6 +7321,42 @@
     },
     {
       "album": {
+        "name": "\u30d1\u30e1\u30e9",
+        "url": "https://open.spotify.com/album/5ZJTnfc4A7HFzZx0DEKanl"
+      },
+      "artists": [
+        {
+          "name": "balloon",
+          "url": "https://open.spotify.com/artist/49sPDY14qlYMAdi6WDsvva"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196333,
+      "name": "\u30d1\u30e1\u30e9",
+      "url": "https://open.spotify.com/track/0kdCJN0s1FB37IJoHWaZEk"
+    },
+    {
+      "album": {
+        "name": "OFFICIAL ORANGE",
+        "url": "https://open.spotify.com/album/3LCFnbLjqO5qTbX23ZXaPI"
+      },
+      "artists": [
+        {
+          "name": "hachi",
+          "url": "https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227360,
+      "name": "\u30d1\u30f3\u30c0\u30d2\u30fc\u30ed\u30fc - ORIGINAL",
+      "url": "https://open.spotify.com/track/0vENG11oPsLk9PCCH28M7S"
+    },
+    {
+      "album": {
         "name": "STYLEY!",
         "url": "https://open.spotify.com/album/7wO1gjRCpHhYPbEC7hthYk"
       },
@@ -7532,6 +7586,24 @@
       "duration_ms": 176671,
       "name": "\u30d9\u30d3\u30fb\u30c7\u30d3",
       "url": "https://open.spotify.com/track/1tkjaxBJW8qAkBXPfxRrAy"
+    },
+    {
+      "album": {
+        "name": "\u30db\u30ef\u30a4\u30c8\u30de\u30a4\u30f3\u30c9",
+        "url": "https://open.spotify.com/album/0d3l2BZ46eTTzl0ZBKNXbt"
+      },
+      "artists": [
+        {
+          "name": "Glue",
+          "url": "https://open.spotify.com/artist/4RYgfACpO30g7D88VWvk85"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210476,
+      "name": "\u30db\u30ef\u30a4\u30c8\u30de\u30a4\u30f3\u30c9 (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/6zFiEUXgQbwOtOeYi8TJyB"
     },
     {
       "album": {

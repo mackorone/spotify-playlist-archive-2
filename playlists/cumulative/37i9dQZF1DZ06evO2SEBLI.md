@@ -44,7 +44,7 @@
 | [Sand River](https://open.spotify.com/track/0voRWUPEUd7tmknMWL9Fz8) | [iu takahashi](https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ) | [Still Left](https://open.spotify.com/album/0ztNeUR4ARGrepTPssFH1H) | 12:28 | 2026-03-19 |  |
 | [Sen](https://open.spotify.com/track/6Dx6G9i7t0OzSCRr6lUV7p) | [iu takahashi](https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ) | [Depthscape](https://open.spotify.com/album/2O9pHcHjZhM1ij6FsnXhDK) | 10:16 | 2026-03-19 |  |
 | [Stable / In Praise Of Shadows](https://open.spotify.com/track/4Y58IeHK31o2DMLDxdVfup) | [iu takahashi](https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ) | [Sense/Margin](https://open.spotify.com/album/79fRwUPPG9KtGUoxTASTgC) | 4:58 | 2026-03-19 |  |
-| [Ten](https://open.spotify.com/track/4qYZegpAWSfWecpp6qAYh2) | [iu takahashi](https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ) | [Depthscape](https://open.spotify.com/album/2O9pHcHjZhM1ij6FsnXhDK) | 10:24 | 2026-03-19 |  |
+| [Ten](https://open.spotify.com/track/4qYZegpAWSfWecpp6qAYh2) | [iu takahashi](https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ) | [Depthscape](https://open.spotify.com/album/2O9pHcHjZhM1ij6FsnXhDK) | 10:24 | 2026-03-19 | 2026-05-05 |
 | [Underground Birds](https://open.spotify.com/track/7ggeZ490uCp0Sh5GFt4L2O) | [iu takahashi](https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ) | [Still Left](https://open.spotify.com/album/0ztNeUR4ARGrepTPssFH1H) | 5:28 | 2026-03-19 |  |
 | [Vacant house](https://open.spotify.com/track/7uRSs9QvLUvKD5Y6tixIyb) | [iu takahashi](https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ) | [Late in life](https://open.spotify.com/album/07TkGWGy2jWaol8Y5ZFd3R) | 5:15 | 2026-03-19 |  |
 

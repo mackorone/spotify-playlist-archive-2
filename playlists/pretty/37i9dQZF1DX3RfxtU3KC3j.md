@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RfxtU3KC3j.md) - [plain]
 
 > Gitar ve davulu konuşturanlar\. 🎸 Kapak: Fatma Turgut
 
-[Spotify](https://open.spotify.com/user/spotify) - 528,221 likes - 75 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 528,190 likes - 75 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RfxtU3KC3j.md) - [plain]
 | 14 | [Kayıp Bi' Gemi](https://open.spotify.com/track/26pVAhkkBPuhiraNMDpay6) | [Oradaki Elf](https://open.spotify.com/artist/0BqgbYjNgE1bCO5J4XazZw) | [Kayıp Bi' Gemi](https://open.spotify.com/album/02nztWGT4kdcZhhcN5fwCK) | 4:23 |
 | 15 | [Banane](https://open.spotify.com/track/7rG9NOcvGONVtIDgdfFYfG) | [Asimptot](https://open.spotify.com/artist/2O2aAFx3fTTbuQ4wTIOFjj) | [Banane](https://open.spotify.com/album/22lgqgSV7MxFg8gg0CkRtY) | 3:18 |
 | 16 | [sürekli aklımdasın ve hiç çıkmadın ordan](https://open.spotify.com/track/6lbAIRWVgRzniZ7m59cf7U) | [kurkafanda](https://open.spotify.com/artist/1hwnnyxn54luBeZsknzbIw) | [sürekli aklımdasın ve hiç çıkmadın ordan](https://open.spotify.com/album/0U40XBYZYYgt4BvLrMsdoS) | 3:13 |
-| 17 | [Sana Doğru](https://open.spotify.com/track/417il11D1kea8NWFW6gPa3) | [E.N.D.S.](https://open.spotify.com/artist/4kk6Rb2GBLvxrUlUekdXBz), [Alper Atakan](https://open.spotify.com/artist/3uDzqJdKQwqnH0OQD00RXd) | [Sana Doğru](https://open.spotify.com/album/0uTMaAiUDkLnRuGCeYnh47) | 3:22 |
+| 17 | [Sana Doğru](https://open.spotify.com/track/417il11D1kea8NWFW6gPa3) | [Alper Atakan](https://open.spotify.com/artist/3uDzqJdKQwqnH0OQD00RXd), [E.N.D.S.](https://open.spotify.com/artist/4kk6Rb2GBLvxrUlUekdXBz) | [Sana Doğru](https://open.spotify.com/album/0uTMaAiUDkLnRuGCeYnh47) | 3:22 |
 | 18 | [Geri Dönmez](https://open.spotify.com/track/5aWdHlD2KrvZdgb4ODzanT) | [Cheap Genes](https://open.spotify.com/artist/4ghd0AVbQYWoQd2cbuLYRB) | [Geri Dönmez](https://open.spotify.com/album/03Cpl4OEKq6iMv1WwGOkRi) | 1:49 |
 | 19 | [Bana yalanlar](https://open.spotify.com/track/6dnaVcfaxDbaccqgkYwmnT) | [Canozan](https://open.spotify.com/artist/4MUb8ilmrxyePXwSkG31lC) | [Bana yalanlar](https://open.spotify.com/album/5r6fUP4kmiqOZp1gxJQOI0) | 3:42 |
 | 20 | [Garipçe](https://open.spotify.com/track/3khD6DtWJP4y9tCujkaXVR) | [Özgür Can Öney](https://open.spotify.com/artist/0mdkoEXJCZJnotvhLzy459) | [Garipçe](https://open.spotify.com/album/4rcUkPdCUhE4uIEIL4qMhh) | 4:09 |

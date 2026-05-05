@@ -1039,6 +1039,24 @@
     },
     {
       "album": {
+        "name": "The Party Must Go On",
+        "url": "https://open.spotify.com/album/2lax9jtbIr7wgMeWqedkza"
+      },
+      "artists": [
+        {
+          "name": "QRU",
+          "url": "https://open.spotify.com/artist/1qc2ykp44EJxbFncDlTfQc"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225391,
+      "name": "The Party Must Go On",
+      "url": "https://open.spotify.com/track/7F5EJZwssUNp4WaNDtGTDM"
+    },
+    {
+      "album": {
         "name": "They Blame Immigrants, So You Won't Blame Billionaires",
         "url": "https://open.spotify.com/album/5uw7mDI972851YPAYxhlbF"
       },

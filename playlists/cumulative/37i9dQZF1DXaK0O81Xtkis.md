@@ -4,7 +4,7 @@
 
 > a little indie, a little pop, soda featuring Daniel Seavey
 
-1,589 songs - 3 day 7 hr 24 min
+1,590 songs - 3 day 7 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [All We Ever Do Is Talk](https://open.spotify.com/track/0UqKPaKqC3tWU4o8BB7owl) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [I Miss You Already + I Haven’t Left Yet](https://open.spotify.com/album/6iXKJVVucUkEKFiGDqyPgM) | 3:46 | 2024-01-05 | 2024-02-10 |
 | [All We Ever Do Is Talk](https://open.spotify.com/track/11sca0kohiR73mPDy9qhZv) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [All We Ever Do Is Talk](https://open.spotify.com/album/2gqI3J8EXaClU1fZmxO2Mw) | 3:46 | 2023-06-30 | 2023-08-12 |
 | [All Your Life](https://open.spotify.com/track/2ciyr1bH7Hs3eRwk4tCVBW) | [Nick Ward](https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9) | [All Your Life](https://open.spotify.com/album/0MeJsDdKFpqVgGX2GqSaXu) | 3:41 | 2024-07-15 | 2024-08-27 |
-| [Allow Me To](https://open.spotify.com/track/2cYzlZUtvhvTjTrKir2onO) | [Conor Burns](https://open.spotify.com/artist/2ZoDOJ7d8rchLJwYU42x2J) | [Allow Me To](https://open.spotify.com/album/4SPUyVieZu8a0GKyqZx6Pb) | 2:04 | 2026-02-20 |  |
+| [Allow Me To](https://open.spotify.com/track/2cYzlZUtvhvTjTrKir2onO) | [Conor Burns](https://open.spotify.com/artist/2ZoDOJ7d8rchLJwYU42x2J) | [Allow Me To](https://open.spotify.com/album/4SPUyVieZu8a0GKyqZx6Pb) | 2:04 | 2026-02-20 | 2026-05-05 |
 | [Almost, So Close, Maybe](https://open.spotify.com/track/7fHGHPONRtBjZTNkCNGe6x) | [Mercer Henderson](https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L) | [Almost, So Close, Maybe](https://open.spotify.com/album/1JQNelFuZSWEo0NP8Uy47n) | 2:47 | 2025-02-28 | 2025-08-02 |
 | [ALWAYS](https://open.spotify.com/track/2MRm76TO0j4VBbyPj6lodc) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [ALWAYS](https://open.spotify.com/album/5Uja3ZpxQ6cF8IAakytXFP) | 2:38 | 2024-03-15 | 2024-06-01 |
 | [Always Get This Way](https://open.spotify.com/track/1RKP6D6QvUStrPP5TvPnXA) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [Always Get This Way](https://open.spotify.com/album/48liucxcaJK4rfLASDRuC0) | 2:54 | 2023-02-17 | 2023-04-09 |
@@ -289,6 +289,7 @@
 | [Cocoon](https://open.spotify.com/track/6FTXzaE0mrimbEIp4NuZNH) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Cocoon](https://open.spotify.com/album/3lrZiTjmoBOseURTwpz0jn) | 3:37 | 2024-06-21 | 2024-08-17 |
 | [Coffee Shop](https://open.spotify.com/track/40tZTQ47XEMg7KT61xAEOI) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Coffee Shop](https://open.spotify.com/album/1jWqXdJ2EeP9CZvIfa3F9U) | 2:04 | 2023-06-30 | 2023-09-16 |
 | [cold medicine](https://open.spotify.com/track/5UgbDqJYYckCKtAjfBtoy2) | [tiffi](https://open.spotify.com/artist/4bQCZKbtYa0W0hzA7JrpC4) | [cold medicine](https://open.spotify.com/album/5dcGyDegN1gG3xgf485Bkz) | 3:27 | 2024-06-14 | 2024-07-19 |
+| [Cold Shoulder](https://open.spotify.com/track/6c0MTJSePQqOaBFHcfZcaA) | [Beno](https://open.spotify.com/artist/4QvaAOT2v2zaPO9ipMMgOz) | [Cold Shoulder](https://open.spotify.com/album/7wGoOZ2gObDknf4h16isZr) | 2:35 | 2026-05-04 |  |
 | [Colorado](https://open.spotify.com/track/0eZmBWVC1HYayrP2fqQ7nu) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Colorado](https://open.spotify.com/album/0zOIu4cDkUdJPq1c5uQusO) | 2:54 | 2021-12-17 | 2022-02-26 |
 | [colors](https://open.spotify.com/track/0pFpRWGfYcyls9K43l0rYo) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Tilly Birds](https://open.spotify.com/artist/4esoPgrgPKbWa6gwU8EGmH), [John Michael Howell](https://open.spotify.com/artist/4BqK6JLgMwQ99hx85DxNhP) | [the asia tour: blooming season ep](https://open.spotify.com/album/5QPN39fT4yD5joAeXKWQam) | 2:01 | 2025-08-15 | 2025-08-30 |
 | [coloured concrete](https://open.spotify.com/track/0jV3B8KhjiUrC6jmaBlNnx) | [Nemahsis](https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f) | [coloured concrete](https://open.spotify.com/album/2bhF8TcYORRGmbgJhbcpPT) | 3:10 | 2024-08-26 | 2024-10-19 |

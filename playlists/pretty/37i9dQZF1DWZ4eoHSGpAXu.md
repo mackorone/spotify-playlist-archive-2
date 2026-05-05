@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ4eoHSGpAXu.md) - [plain]
 
 > Get your midweek right with these uplifting songs of praise and worship.
 
-[Spotify](https://open.spotify.com/user/spotify) - 301,780 likes - 65 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 301,868 likes - 65 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ4eoHSGpAXu.md) - [plain]
 | 64 | [Good & Loved \(feat\. Steffany Gretzinger\)](https://open.spotify.com/track/4n4cx6whB4gXfFAJ9gUewi) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe), [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW) | [Broken Record](https://open.spotify.com/album/3KvTiS9JDUb7IR1xOWl9Wj) | 9:31 |
 | 65 | [Heaven's Well \- Live](https://open.spotify.com/track/1pq7TEmOODeyNE6mtSQbpn) | [Grace City](https://open.spotify.com/artist/0nthudnBUjSpYoUnNawp6J), [Chase Wagner](https://open.spotify.com/artist/05pJ61Jqg42zcdFsCMdUDi) | [Heaven's Well](https://open.spotify.com/album/1Qv1FINvrSTQ7bdsWcjnqv) | 4:13 |
 
-Snapshot ID: `AAAAACYLyEZgirg7m3xckROZVL/jiKVw`
+Snapshot ID: `AAAAAO89Wk4rBkvV2AvkJeYApeLeoynT`

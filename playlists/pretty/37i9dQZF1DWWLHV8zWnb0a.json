@@ -1,6 +1,6 @@
 {
   "description": "El sonido siniestro de los noventa. Foto: Smashing Pumpkins",
-  "num_followers": 163453,
+  "num_followers": 163480,
   "original_name": "Oscuros 90",
   "owner": {
     "name": "Spotify",
@@ -59,22 +59,6 @@
     {
       "added_at": "2024-07-12 23:56:42",
       "album": {
-        "name": "Celebrity Skin",
-        "url": "https://open.spotify.com/album/2KE8WCHtD8qnAxXeIzNEId"
-      },
-      "artists": [
-        {
-          "name": "Hole",
-          "url": "https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn"
-        }
-      ],
-      "duration_ms": 162666,
-      "name": "Celebrity Skin",
-      "url": "https://open.spotify.com/track/2V4Bc2I962j7acQj1N0PiQ"
-    },
-    {
-      "added_at": "2024-07-12 23:56:42",
-      "album": {
         "name": "Electriclarryland",
         "url": "https://open.spotify.com/album/7nawZF1eeyTGbrL9OsOCwz"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 297266,
       "name": "Pepper",
       "url": "https://open.spotify.com/track/1ng36571Iyov4HBxUClySn"
+    },
+    {
+      "added_at": "2024-07-12 23:56:42",
+      "album": {
+        "name": "Celebrity Skin",
+        "url": "https://open.spotify.com/album/2KE8WCHtD8qnAxXeIzNEId"
+      },
+      "artists": [
+        {
+          "name": "Hole",
+          "url": "https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn"
+        }
+      ],
+      "duration_ms": 162666,
+      "name": "Celebrity Skin",
+      "url": "https://open.spotify.com/track/2V4Bc2I962j7acQj1N0PiQ"
     },
     {
       "added_at": "2024-07-12 23:56:42",
@@ -219,18 +219,18 @@
     {
       "added_at": "2024-07-12 23:56:42",
       "album": {
-        "name": "Candyass",
-        "url": "https://open.spotify.com/album/5iprjaDXa5reRKpCL6L99A"
+        "name": "(Rotten Apples) The Smashing Pumpkins Greatest Hits",
+        "url": "https://open.spotify.com/album/1cUnNrx2TxvrpwPRtvpGwn"
       },
       "artists": [
         {
-          "name": "Orgy",
-          "url": "https://open.spotify.com/artist/4uYwLU7k03RCQSRXGtQGg0"
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
         }
       ],
-      "duration_ms": 267000,
-      "name": "Blue Monday",
-      "url": "https://open.spotify.com/track/5267gVdYWrLoz6ClOhlqmE"
+      "duration_ms": 270400,
+      "name": "Drown",
+      "url": "https://open.spotify.com/track/3eMYc6FK9XvyauIaxcJtRS"
     },
     {
       "added_at": "2024-07-12 23:56:42",
@@ -251,18 +251,18 @@
     {
       "added_at": "2024-07-12 23:56:42",
       "album": {
-        "name": "(Rotten Apples) The Smashing Pumpkins Greatest Hits",
-        "url": "https://open.spotify.com/album/1cUnNrx2TxvrpwPRtvpGwn"
+        "name": "Candyass",
+        "url": "https://open.spotify.com/album/5iprjaDXa5reRKpCL6L99A"
       },
       "artists": [
         {
-          "name": "The Smashing Pumpkins",
-          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+          "name": "Orgy",
+          "url": "https://open.spotify.com/artist/4uYwLU7k03RCQSRXGtQGg0"
         }
       ],
-      "duration_ms": 270400,
-      "name": "Drown",
-      "url": "https://open.spotify.com/track/3eMYc6FK9XvyauIaxcJtRS"
+      "duration_ms": 267000,
+      "name": "Blue Monday",
+      "url": "https://open.spotify.com/track/5267gVdYWrLoz6ClOhlqmE"
     },
     {
       "added_at": "2024-07-12 23:56:42",
@@ -763,6 +763,22 @@
     {
       "added_at": "2024-07-12 23:56:42",
       "album": {
+        "name": "Experimental Jet Set, Trash And No Star",
+        "url": "https://open.spotify.com/album/3O8NuSnjHy8wiBqbG6N4yO"
+      },
+      "artists": [
+        {
+          "name": "Sonic Youth",
+          "url": "https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6"
+        }
+      ],
+      "duration_ms": 184866,
+      "name": "Bull In The Heather",
+      "url": "https://open.spotify.com/track/6px1KhTqAfxdcF6A1JGSpx"
+    },
+    {
+      "added_at": "2024-07-12 23:56:42",
+      "album": {
         "name": "Sehnsucht",
         "url": "https://open.spotify.com/album/2w6Vy8qZLU4niyQAHyu0Ag"
       },
@@ -779,18 +795,18 @@
     {
       "added_at": "2024-07-12 23:56:42",
       "album": {
-        "name": "Experimental Jet Set, Trash And No Star",
-        "url": "https://open.spotify.com/album/3O8NuSnjHy8wiBqbG6N4yO"
+        "name": "Cure for Pain",
+        "url": "https://open.spotify.com/album/0FocpOyE7RnaNsiaEhSbp6"
       },
       "artists": [
         {
-          "name": "Sonic Youth",
-          "url": "https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6"
+          "name": "Morphine",
+          "url": "https://open.spotify.com/artist/3QgSmABpItIdj908ek80n5"
         }
       ],
-      "duration_ms": 184866,
-      "name": "Bull In The Heather",
-      "url": "https://open.spotify.com/track/6px1KhTqAfxdcF6A1JGSpx"
+      "duration_ms": 194093,
+      "name": "Cure for Pain",
+      "url": "https://open.spotify.com/track/3hO9gaVixKDoYDrlTBrEWf"
     },
     {
       "added_at": "2024-07-12 23:56:42",
@@ -811,22 +827,6 @@
       "duration_ms": 289000,
       "name": "Black Sunshine",
       "url": "https://open.spotify.com/track/0D7aPFnFa9qIVFpOJ1ZBTG"
-    },
-    {
-      "added_at": "2024-07-12 23:56:42",
-      "album": {
-        "name": "Cure for Pain",
-        "url": "https://open.spotify.com/album/0FocpOyE7RnaNsiaEhSbp6"
-      },
-      "artists": [
-        {
-          "name": "Morphine",
-          "url": "https://open.spotify.com/artist/3QgSmABpItIdj908ek80n5"
-        }
-      ],
-      "duration_ms": 194093,
-      "name": "Cure for Pain",
-      "url": "https://open.spotify.com/track/3hO9gaVixKDoYDrlTBrEWf"
     },
     {
       "added_at": "2024-07-12 23:56:42",
@@ -879,22 +879,6 @@
     {
       "added_at": "2024-07-12 23:56:42",
       "album": {
-        "name": "Surfer Rosa (2007 Remaster)",
-        "url": "https://open.spotify.com/album/50j4Wm1b9hLpSpPIA39Vp9"
-      },
-      "artists": [
-        {
-          "name": "Pixies",
-          "url": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
-        }
-      ],
-      "duration_ms": 183346,
-      "name": "Bone Machine - 2007 Remaster",
-      "url": "https://open.spotify.com/track/7ERZgMLgpVhrp2D6JYy02t"
-    },
-    {
-      "added_at": "2024-07-12 23:56:42",
-      "album": {
         "name": "Good",
         "url": "https://open.spotify.com/album/6NuVZbtcscN4RpgZd5UzQy"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 220040,
       "name": "You Look Like Rain",
       "url": "https://open.spotify.com/track/5QH3pNXpDzSIMziqX9lL1l"
+    },
+    {
+      "added_at": "2024-07-12 23:56:42",
+      "album": {
+        "name": "Surfer Rosa (2007 Remaster)",
+        "url": "https://open.spotify.com/album/50j4Wm1b9hLpSpPIA39Vp9"
+      },
+      "artists": [
+        {
+          "name": "Pixies",
+          "url": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
+        }
+      ],
+      "duration_ms": 183346,
+      "name": "Bone Machine - 2007 Remaster",
+      "url": "https://open.spotify.com/track/7ERZgMLgpVhrp2D6JYy02t"
     },
     {
       "added_at": "2024-07-12 23:56:42",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2024-07-12 23:56:42",
       "album": {
-        "name": "To Bring You My Love",
-        "url": "https://open.spotify.com/album/2yMg8ronKfVDHngnlLNnl8"
-      },
-      "artists": [
-        {
-          "name": "PJ Harvey",
-          "url": "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
-        }
-      ],
-      "duration_ms": 331600,
-      "name": "To Bring You My Love",
-      "url": "https://open.spotify.com/track/537IPiZTZ1GVcohzFHAHf5"
-    },
-    {
-      "added_at": "2024-07-12 23:56:42",
-      "album": {
         "name": "Good God's Urge",
         "url": "https://open.spotify.com/album/6Sa5vHSMHnIm1m0LG82xBM"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 227160,
       "name": "Tahitian Moon",
       "url": "https://open.spotify.com/track/3DwzYRgOgojl0EcdOaJLYr"
+    },
+    {
+      "added_at": "2024-07-12 23:56:42",
+      "album": {
+        "name": "To Bring You My Love",
+        "url": "https://open.spotify.com/album/2yMg8ronKfVDHngnlLNnl8"
+      },
+      "artists": [
+        {
+          "name": "PJ Harvey",
+          "url": "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
+        }
+      ],
+      "duration_ms": 331600,
+      "name": "To Bring You My Love",
+      "url": "https://open.spotify.com/track/537IPiZTZ1GVcohzFHAHf5"
     },
     {
       "added_at": "2024-07-12 23:56:42",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2024-07-12 23:56:42",
       "album": {
-        "name": "Rid Of Me",
-        "url": "https://open.spotify.com/album/2fDJpBJhtloxzUENHlU9JB"
-      },
-      "artists": [
-        {
-          "name": "PJ Harvey",
-          "url": "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
-        }
-      ],
-      "duration_ms": 268826,
-      "name": "Rid Of Me",
-      "url": "https://open.spotify.com/track/3m2Zd230K68bC4Qe961d9p"
-    },
-    {
-      "added_at": "2024-07-12 23:56:42",
-      "album": {
         "name": "Absolute Garbage",
         "url": "https://open.spotify.com/album/6nZQaZ0is5KhtuJeay9wxP"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 258133,
       "name": "Stupid Girl - Remastered 2015",
       "url": "https://open.spotify.com/track/0h4fRpHrxBeR3XWHmcolaU"
+    },
+    {
+      "added_at": "2024-07-12 23:56:42",
+      "album": {
+        "name": "Rid Of Me",
+        "url": "https://open.spotify.com/album/2fDJpBJhtloxzUENHlU9JB"
+      },
+      "artists": [
+        {
+          "name": "PJ Harvey",
+          "url": "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
+        }
+      ],
+      "duration_ms": 268826,
+      "name": "Rid Of Me",
+      "url": "https://open.spotify.com/track/3m2Zd230K68bC4Qe961d9p"
     },
     {
       "added_at": "2024-07-12 23:56:42",
@@ -1187,18 +1187,18 @@
     {
       "added_at": "2024-07-12 23:56:42",
       "album": {
-        "name": "Repetition",
-        "url": "https://open.spotify.com/album/30GshgppFRvO0G5RNbleZn"
+        "name": "Pretty Hate Machine (Remastered)",
+        "url": "https://open.spotify.com/album/6IwZ3rIE9F6j1R1LyBrVXu"
       },
       "artists": [
         {
-          "name": "Unwound",
-          "url": "https://open.spotify.com/artist/4YjpqCSDD7zwMQgPYJMqb0"
+          "name": "Nine Inch Nails",
+          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
         }
       ],
-      "duration_ms": 185467,
-      "name": "Corpse Pose",
-      "url": "https://open.spotify.com/track/1kDZq29NLE2RRZ9mp8LxVe"
+      "duration_ms": 300160,
+      "name": "Head Like A Hole",
+      "url": "https://open.spotify.com/track/6j0Q06QmlWdd8xlS8NrOhl"
     },
     {
       "added_at": "2024-07-12 23:56:42",

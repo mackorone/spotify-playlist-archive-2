@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZYoM4E.md) - [plain]
 
 > This is Andre Hazes\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,446 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,445 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZYoM4E.md) - [plain]
 | 7 | [Geef Mij Je Angst](https://open.spotify.com/track/0taBVXnPJpCucnlj8Xi9V6) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Voor Jou](https://open.spotify.com/album/0CGICmUeaDosEWgHfNu2IZ) | 4:19 |
 | 8 | [Wat Is Dan Liefde](https://open.spotify.com/track/7lzSUHVotlqj0JSWIe5Q6D) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [N Vriend](https://open.spotify.com/album/12SKNd3eWiv0LAqHGEmJwb) | 3:36 |
 | 9 | [Een Beetje Verliefd](https://open.spotify.com/track/0XLlGrXn98Td1cPAeKcZns) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Gewoon Andre](https://open.spotify.com/album/6toU0S9DdSnpkwFaguQgIe) | 4:14 |
-| 10 | [De Vlieger](https://open.spotify.com/track/6cMVopr4k5Fexl6zjB2EDr) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Alle 40 Goed](https://open.spotify.com/album/176ACFYhpCwXy4vy6FS0yc) | 3:39 |
-| 11 | [Zomer In M'n Bol \(feat\. André Hazes\)](https://open.spotify.com/track/4pPsZePbOzRPERqPYupISb) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4), [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Zomer In M'n Bol \(feat\. André Hazes\)](https://open.spotify.com/album/0icN1DUr8DrI9W58Sc3DyH) | 2:32 |
+| 10 | [Zomer In M'n Bol \(feat\. André Hazes\)](https://open.spotify.com/track/4pPsZePbOzRPERqPYupISb) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4), [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Zomer In M'n Bol \(feat\. André Hazes\)](https://open.spotify.com/album/0icN1DUr8DrI9W58Sc3DyH) | 2:32 |
+| 11 | [De Vlieger](https://open.spotify.com/track/6cMVopr4k5Fexl6zjB2EDr) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Alle 40 Goed](https://open.spotify.com/album/176ACFYhpCwXy4vy6FS0yc) | 3:39 |
 | 12 | [Het Is Koud Zonder Jou](https://open.spotify.com/track/3K9DdzUlsLa1SynqM5XhLj) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [N Vriend](https://open.spotify.com/album/12SKNd3eWiv0LAqHGEmJwb) | 4:06 |
 | 13 | [Als Ik Jou Vergeef](https://open.spotify.com/track/24pNmGnmTN6qm8knOSw4Ey) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Gewoon Andre](https://open.spotify.com/album/6toU0S9DdSnpkwFaguQgIe) | 3:41 |
 | 14 | [Ik Leef M'n Eigen Leven](https://open.spotify.com/track/7qwNSHctECC8wPqFwUZsGo) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Met Heel Mijn Hart](https://open.spotify.com/album/1O66zmJwQw98cKjVzdRAiD) | 4:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZYoM4E.md) - [plain]
 | 49 | [Buona Sera / Oh Marie \- Live](https://open.spotify.com/track/4TuIZQYLVAQMUorEEH0FOm) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [De Hazes 100](https://open.spotify.com/album/06eur57GeYWvei9L0hlduF) | 4:27 |
 | 50 | [Ja Dat Ben Jij](https://open.spotify.com/track/1eTC7896aTd7Cl8qXho4M5) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Alleen Met Jou](https://open.spotify.com/album/7FHnCZ6jfC0iJ0FiZosHhL) | 3:37 |
 
-Snapshot ID: `afU+gAAAAADbU6jL9nJlUeI6h4wQ7YaI`
+Snapshot ID: `afaQAAAAAAA6qd7AhXQ3KVu2bR7KmRcu`

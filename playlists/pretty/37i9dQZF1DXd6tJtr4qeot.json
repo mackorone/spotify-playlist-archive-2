@@ -1,6 +1,6 @@
 {
   "description": "All the of punk rock that you need in your life. ",
-  "num_followers": 913941,
+  "num_followers": 913935,
   "original_name": "Punk Essentials",
   "owner": {
     "name": "Spotify",
@@ -719,6 +719,22 @@
     {
       "added_at": "2024-02-06 19:36:52",
       "album": {
+        "name": "Transformer",
+        "url": "https://open.spotify.com/album/5SqbMEyAt8332ISGiLX0St"
+      },
+      "artists": [
+        {
+          "name": "Lou Reed",
+          "url": "https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL"
+        }
+      ],
+      "duration_ms": 179359,
+      "name": "Vicious",
+      "url": "https://open.spotify.com/track/4A48NL57P16zSRaq3yoYry"
+    },
+    {
+      "added_at": "2024-02-06 19:36:52",
+      "album": {
         "name": "Off The Bone",
         "url": "https://open.spotify.com/album/1n1znRLH7iRtkhjbrCs0wi"
       },
@@ -751,22 +767,6 @@
     {
       "added_at": "2024-02-06 19:36:52",
       "album": {
-        "name": "Transformer",
-        "url": "https://open.spotify.com/album/5SqbMEyAt8332ISGiLX0St"
-      },
-      "artists": [
-        {
-          "name": "Lou Reed",
-          "url": "https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL"
-        }
-      ],
-      "duration_ms": 179359,
-      "name": "Vicious",
-      "url": "https://open.spotify.com/track/4A48NL57P16zSRaq3yoYry"
-    },
-    {
-      "added_at": "2024-02-06 19:36:52",
-      "album": {
         "name": "A Hangover You Don't Deserve",
         "url": "https://open.spotify.com/album/7JST4gPYSXFegyuk9nKFb0"
       },
@@ -783,6 +783,22 @@
     {
       "added_at": "2024-02-06 19:36:52",
       "album": {
+        "name": "Destruction By Definition",
+        "url": "https://open.spotify.com/album/6XN3a05K0LVycfy137CSvL"
+      },
+      "artists": [
+        {
+          "name": "The Suicide Machines",
+          "url": "https://open.spotify.com/artist/31v7ijnAMVL9V7Uzr1sFcI"
+        }
+      ],
+      "duration_ms": 123000,
+      "name": "New Girl",
+      "url": "https://open.spotify.com/track/7bFNtX22XJMy5TuEpQfa3C"
+    },
+    {
+      "added_at": "2024-02-06 19:36:52",
+      "album": {
         "name": "How I Spent My Summer Vacation",
         "url": "https://open.spotify.com/album/64zbLX1ze8N3kcAMX0qq7G"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 150293,
       "name": "True Believers",
       "url": "https://open.spotify.com/track/4fRmFVMd0c1SGfzazBJIM8"
-    },
-    {
-      "added_at": "2024-02-06 19:36:52",
-      "album": {
-        "name": "Forever Changes (2015 Remaster)",
-        "url": "https://open.spotify.com/album/2amHBpP8C0EUy6yBNy6nN6"
-      },
-      "artists": [
-        {
-          "name": "Love",
-          "url": "https://open.spotify.com/artist/3Q6OOkfssqoMSTtl11J5Uk"
-        }
-      ],
-      "duration_ms": 197274,
-      "name": "Alone Again Or - 2015 Remaster",
-      "url": "https://open.spotify.com/track/1XuccRABkfUVB4FjSVhjL1"
     }
   ],
   "unique_name": "Punk Essentials",

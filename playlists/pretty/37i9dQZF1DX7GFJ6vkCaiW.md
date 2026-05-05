@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GFJ6vkCaiW.md) - [plain]
 
 > Video musik lagu\-lagu Indonesia hanya untuk pengguna premium\. Cover: Bernadya
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,263 likes - 98 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,294 likes - 98 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

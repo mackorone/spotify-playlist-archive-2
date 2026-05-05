@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including Madonna, Sabrina Carpenter, RIN, reezy, Lada Gaga & many more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,109 likes - 86 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,106 likes - 86 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

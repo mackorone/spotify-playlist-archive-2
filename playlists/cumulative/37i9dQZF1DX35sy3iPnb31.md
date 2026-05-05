@@ -4,7 +4,7 @@
 
 > The best Canadian songs of the month, handpicked by Spotify Canada editors\. Cover: Angine de Poitrine
 
-249 songs - 13 hr 29 min
+250 songs - 13 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Correct](https://open.spotify.com/track/3rePvNyj1VwHKnlMngBrUk) | [Les Louanges](https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l) | [Correct](https://open.spotify.com/album/3FyxSOLf5zrWgC7Osw3peU) | 4:46 | 2026-05-01 |  |
 | [Cost of Livin'](https://open.spotify.com/track/5JYfWRgi3vWR8RhhCulF8a) | [Notifi](https://open.spotify.com/artist/4d0LzyckWWWn04Jt8amiLY) | [Cost of Livin'](https://open.spotify.com/album/3DNYPdCn0AION1utNT3eDe) | 2:07 | 2026-02-06 | 2026-03-06 |
 | [Countdown](https://open.spotify.com/track/2wZGmq3vcBixu4gnehL6D2) | [Preme](https://open.spotify.com/artist/0bdJZl7TDeiymDYzMJnVh2), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Countdown](https://open.spotify.com/album/50AJpCZEjNa941pyXEL2wF) | 2:04 | 2026-04-01 | 2026-05-02 |
-| [Country Club](https://open.spotify.com/track/1ONn9Syk42LP1LAJ9Km2aU) | [Brittany Kennell](https://open.spotify.com/artist/5LqrMo8Uh0K7mJ6zoWd3CP) | [Country Club](https://open.spotify.com/album/4RxtNebG0fjQiC8ZM0P90x) | 3:24 | 2026-05-01 |  |
+| [Country Club](https://open.spotify.com/track/1ONn9Syk42LP1LAJ9Km2aU) | [Brittany Kennell](https://open.spotify.com/artist/5LqrMo8Uh0K7mJ6zoWd3CP) | [Country Club](https://open.spotify.com/album/4RxtNebG0fjQiC8ZM0P90x) | 3:24 | 2026-05-01 | 2026-05-05 |
 | [Crisis Evasion](https://open.spotify.com/track/4i09IieVZUDPilgSnOMpin) | [Maz B](https://open.spotify.com/artist/7dmwSItAEr4EhkUH5C9aXH), [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Crisis Evasion](https://open.spotify.com/album/3hlLYKWn1HdOujfn1NTKNP) | 2:34 | 2025-12-03 | 2026-02-07 |
 | [cups of coffee](https://open.spotify.com/track/6LItxmdwxFxN2wOoloUXGO) | [Jamie Fine](https://open.spotify.com/artist/4uwJ3NRArTb8VlKbuAFyFG) | [cups of coffee](https://open.spotify.com/album/2FaFAqQqA5M5GWyGWLshRs) | 2:57 | 2026-04-01 | 2026-05-02 |
 | [Dangerous Nostalgia](https://open.spotify.com/track/3afGTfHfCJ6RjltpDGjazF) | [Ralph](https://open.spotify.com/artist/1Ss8sy3C3XXQgxYRwjDln8) | [Dangerous Nostalgia](https://open.spotify.com/album/5iz4jfHqIgEA9NGlNQ1nsd) | 3:15 | 2026-02-06 | 2026-03-06 |
@@ -148,6 +148,7 @@
 | [Make Believe](https://open.spotify.com/track/1CauYv0KeKHD6OSKiVrrlL) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Nostalgia](https://open.spotify.com/album/2BLiShYVFio23DH6oxG9wy) | 2:59 | 2025-12-03 | 2026-02-07 |
 | [Man's World](https://open.spotify.com/track/1RmMogpswOSC96lpdeXIxU) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [Man's World](https://open.spotify.com/album/7xDsxa6yIrJVBGk8XaNKrD) | 2:42 | 2026-03-05 | 2026-04-02 |
 | [Mercy on the Skyline](https://open.spotify.com/track/7MZlYIv52fVAEN9voOhCKV) | [Noah Derksen](https://open.spotify.com/artist/31wEHfLGUKIlJAayR6K936), [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [Mercy on the Skyline](https://open.spotify.com/album/3UQcepdvrX3mnYHcCbQML2) | 4:42 | 2026-05-01 |  |
+| [midnight moon](https://open.spotify.com/track/5fu8pfEsXXA9mY0F9grAce) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [HOME WAS ALWAYS ME](https://open.spotify.com/album/3LjjkS2s2b2RdluM00NWLD) | 2:17 | 2026-05-01 |  |
 | [Might](https://open.spotify.com/track/22TuYSlssJg05MtcMbGfkT) | [Bells Larsen](https://open.spotify.com/artist/57rcu4emHlYTTeVmmmLeIf) | [Blurring Time](https://open.spotify.com/album/7iHvF3IovjYiDrDyq1uTpw) | 4:20 | 2025-12-03 | 2026-02-07 |
 | [Milkman](https://open.spotify.com/track/6HoUzmc0wu7zjKgjnKKTLX) | [Mah Moud](https://open.spotify.com/artist/5GrZNbHTzxnbHge9Ytafdf) | [Alexander Mure's Songs in the Key of C\-Minus!](https://open.spotify.com/album/04GJJ7V0sBgkRREWsBJHZf) | 2:50 | 2026-05-01 |  |
 | [Mirror \(feat\. Jessy Lanza & Yaeji\)](https://open.spotify.com/track/5bangT3iomAW7VGMYpyl63) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95), [Jessy Lanza](https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN), [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [INFINITY CLUB II](https://open.spotify.com/album/65rerxGdYHjGKB9Fx26rYK) | 2:48 | 2025-12-03 | 2026-02-07 |

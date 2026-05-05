@@ -1,12 +1,12 @@
 {
   "description": "This is Baby Tate. The essential tracks, all in one playlist.",
-  "num_followers": 5174,
+  "num_followers": 5176,
   "original_name": "This Is Baby Tate",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afU+gAAAAADjtsi9xt+C/1kspzxRdIIJ",
+  "snapshot_id": "afaQAAAAAACqVToYXc0gD8/LBj3sqPzw",
   "tracks": [
     {
       "added_at": null,
@@ -295,6 +295,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Baby Tate Presents - Sexploration: The Musical",
+        "url": "https://open.spotify.com/album/6e0e1fGkJxHGyKpqZPw9Qb"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 196610,
+      "name": "Grip",
+      "url": "https://open.spotify.com/track/1tHYeRTwPlHkKV3uOY0uSm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mani/Pedi",
         "url": "https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 233150,
       "name": "Sl*t Him Out Again (feat. Kaliii)",
       "url": "https://open.spotify.com/track/1rFSc82CUMlFewowdZPRT8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Baby Tate Presents - Sexploration: The Musical",
-        "url": "https://open.spotify.com/album/6e0e1fGkJxHGyKpqZPw9Qb"
-      },
-      "artists": [
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 196610,
-      "name": "Grip",
-      "url": "https://open.spotify.com/track/1tHYeRTwPlHkKV3uOY0uSm"
     },
     {
       "added_at": null,
@@ -367,22 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mani/Pedi",
-        "url": "https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh"
-      },
-      "artists": [
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 125312,
-      "name": "Pedi",
-      "url": "https://open.spotify.com/track/4W302qkLfaNUiqkkV6E6HT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BIBI Vengeance (feat. Baby Tate & with Princesa Alba) [Remix]",
         "url": "https://open.spotify.com/album/7kNSP0jOh4pBmKvWNQEHaj"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 189960,
       "name": "BIBI Vengeance (feat. Baby Tate & with Princesa Alba) [Remix]",
       "url": "https://open.spotify.com/track/6YvzWqCKEUwKIOozTK0x47"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mani/Pedi",
+        "url": "https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 125312,
+      "name": "Pedi",
+      "url": "https://open.spotify.com/track/4W302qkLfaNUiqkkV6E6HT"
     },
     {
       "added_at": null,
@@ -571,22 +571,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Boys Are From Mars (feat. Yung Baby Tate)",
-        "url": "https://open.spotify.com/album/3CZncRuiQ8RRLLDFgLdZ4Y"
+        "name": "Feedback",
+        "url": "https://open.spotify.com/album/2PzzQ3iKNpdedcL02PIJrF"
       },
       "artists": [
         {
-          "name": "Princess Nokia",
-          "url": "https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL"
+          "name": "La Roux",
+          "url": "https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA"
         },
         {
           "name": "Baby Tate",
           "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
         }
       ],
-      "duration_ms": 192386,
-      "name": "Boys Are From Mars (feat. Yung Baby Tate)",
-      "url": "https://open.spotify.com/track/45amNYT3mAxl8Hh9A7J56g"
+      "duration_ms": 192423,
+      "name": "Feedback",
+      "url": "https://open.spotify.com/track/2vM9UcnXfYp5Pgo7rdWiSK"
     },
     {
       "added_at": null,
@@ -607,22 +607,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Feedback",
-        "url": "https://open.spotify.com/album/2PzzQ3iKNpdedcL02PIJrF"
+        "name": "Boys Are From Mars (feat. Yung Baby Tate)",
+        "url": "https://open.spotify.com/album/3CZncRuiQ8RRLLDFgLdZ4Y"
       },
       "artists": [
         {
-          "name": "La Roux",
-          "url": "https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA"
+          "name": "Princess Nokia",
+          "url": "https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL"
         },
         {
           "name": "Baby Tate",
           "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
         }
       ],
-      "duration_ms": 192423,
-      "name": "Feedback",
-      "url": "https://open.spotify.com/track/2vM9UcnXfYp5Pgo7rdWiSK"
+      "duration_ms": 192386,
+      "name": "Boys Are From Mars (feat. Yung Baby Tate)",
+      "url": "https://open.spotify.com/track/45amNYT3mAxl8Hh9A7J56g"
     },
     {
       "added_at": null,
@@ -815,26 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mani/Pedi",
-        "url": "https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh"
-      },
-      "artists": [
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        },
-        {
-          "name": "2 Chainz",
-          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
-        }
-      ],
-      "duration_ms": 184976,
-      "name": "Ain\u2019t No Love (feat. 2 Chainz)",
-      "url": "https://open.spotify.com/track/4I8BPrBeb1LjE4QHFYBJvP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Please Don't Cry",
         "url": "https://open.spotify.com/album/2r3oxZgkGG3wDHGRGt7ytr"
       },
@@ -851,6 +831,26 @@
       "duration_ms": 262178,
       "name": "A Ballad for Homegirls (feat. Baby Tate)",
       "url": "https://open.spotify.com/track/2onp5lGTSamwuGlmfeHNJW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mani/Pedi",
+        "url": "https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        },
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        }
+      ],
+      "duration_ms": 184976,
+      "name": "Ain\u2019t No Love (feat. 2 Chainz)",
+      "url": "https://open.spotify.com/track/4I8BPrBeb1LjE4QHFYBJvP"
     },
     {
       "added_at": null,
@@ -891,22 +891,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mani/Pedi",
-        "url": "https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh"
-      },
-      "artists": [
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 196154,
-      "name": "Differences",
-      "url": "https://open.spotify.com/track/7fMwzEtUwvaV45uArYs2Uv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "WukiWorld",
         "url": "https://open.spotify.com/album/523y2Ub7mQPON9romO2APM"
       },
@@ -931,6 +915,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mani/Pedi",
+        "url": "https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 196154,
+      "name": "Differences",
+      "url": "https://open.spotify.com/track/7fMwzEtUwvaV45uArYs2Uv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Girls Night Out",
         "url": "https://open.spotify.com/album/20BluhELkpoDsYhUOpUMye"
       },
@@ -951,22 +951,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tate Tuesday, Vol. 1",
-        "url": "https://open.spotify.com/album/4ezlRpZgswWGCfOK1pkYJR"
-      },
-      "artists": [
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 104000,
-      "name": "Olipop",
-      "url": "https://open.spotify.com/track/5YhmPL3vhBGSMKt39oCwWH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "What's Love / Sl*t Him Out",
         "url": "https://open.spotify.com/album/1nJEmFZiNByDdugR0gOeb9"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 250774,
       "name": "What's Love",
       "url": "https://open.spotify.com/track/7mu9vxVH3VJVvSGepIay0q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tate Tuesday, Vol. 1",
+        "url": "https://open.spotify.com/album/4ezlRpZgswWGCfOK1pkYJR"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 104000,
+      "name": "Olipop",
+      "url": "https://open.spotify.com/track/5YhmPL3vhBGSMKt39oCwWH"
     },
     {
       "added_at": null,

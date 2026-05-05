@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q8j1DJOWem.md) - [plain]
 
 > ค้นพบศิลปินรุ่นใหม่ที่น่าจับตามองปี 2026 ที่นี่เลย! ปก: GOODMOOD
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,484 likes - 30 songs - 1 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,492 likes - 30 songs - 1 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [ครองโลก](https://open.spotify.com/track/76j0uitplft5gODYnoQ62V) | [YUNGTARR](https://open.spotify.com/artist/1KXxfYnhxzq9xBkhFZaYxX) | [MultiColorBands](https://open.spotify.com/album/7Jkjy0tfa9MJYGqvOiV2lS) | 2:41 |
 | 2 | [DMMA](https://open.spotify.com/track/69EqSYcNF1j2B0QNmVaf2Q) | [JustmineNika](https://open.spotify.com/artist/3qsG1NIop7eqpcnbYdZpL0) | [DMMA](https://open.spotify.com/album/6TZy5ZQDyTbAa8bIz3whBd) | 2:35 |
 | 3 | [โตกว่านี้](https://open.spotify.com/track/0SK6GsJDiO5kT0u0fMjnvn) | [GOODMOOD](https://open.spotify.com/artist/2obSYixUts1MEx2lJfNTCJ) | [โตกว่านี้](https://open.spotify.com/album/193dSLCtAwkFFvHQ7LuN9s) | 4:12 |
-| 4 | [Hurry up!](https://open.spotify.com/track/7IrTPlLm2kczzMFlJCQRAw) | [JayQ](https://open.spotify.com/artist/5SLXYrzObBv7IrLzo4I4S6), [7Vibes](https://open.spotify.com/artist/1WJ1KSMt6Yuf1cQ0MVtqTC) | [Hurry up!](https://open.spotify.com/album/0IF9Zm8D2hN3nnvy9RKaCm) | 2:43 |
-| 5 | [I love you a latte](https://open.spotify.com/track/59wHlNG8GyEBWlXKGCOnuV) | [the ge](https://open.spotify.com/artist/1h0iQlfKHiBlQsUsdzJ9l7) | [I love you a latte](https://open.spotify.com/album/5sNeJA74iuvnlSXaCBM1EI) | 3:53 |
+| 4 | [I love you a latte](https://open.spotify.com/track/59wHlNG8GyEBWlXKGCOnuV) | [the ge](https://open.spotify.com/artist/1h0iQlfKHiBlQsUsdzJ9l7) | [I love you a latte](https://open.spotify.com/album/5sNeJA74iuvnlSXaCBM1EI) | 3:53 |
+| 5 | [Hurry up!](https://open.spotify.com/track/7IrTPlLm2kczzMFlJCQRAw) | [JayQ](https://open.spotify.com/artist/5SLXYrzObBv7IrLzo4I4S6), [7Vibes](https://open.spotify.com/artist/1WJ1KSMt6Yuf1cQ0MVtqTC) | [Hurry up!](https://open.spotify.com/album/0IF9Zm8D2hN3nnvy9RKaCm) | 2:43 |
 | 6 | [นิราศ](https://open.spotify.com/track/5aJZG8SsKhUEnrpoqGKPTQ) | [YUNGTARR](https://open.spotify.com/artist/1KXxfYnhxzq9xBkhFZaYxX) | [MultiColorBands](https://open.spotify.com/album/7Jkjy0tfa9MJYGqvOiV2lS) | 2:29 |
 | 7 | [เพื่อนแบบใด \(I See It\)](https://open.spotify.com/track/4eD9FNDpKlglzEb3y1U0pU) | [JustmineNika](https://open.spotify.com/artist/3qsG1NIop7eqpcnbYdZpL0) | [เพื่อนแบบใด \(I See It\)](https://open.spotify.com/album/61nujf7kJaEzCitEOj0mwF) | 3:40 |
 | 8 | [pity dirty](https://open.spotify.com/track/7fta8aLy0WI85TQ3HYTru9) | [pami](https://open.spotify.com/artist/4cC1AQC0SUwmemy2FHBST8) | [puffette](https://open.spotify.com/album/0EgK8AZDWXirHjaYi9l2z4) | 3:13 |
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q8j1DJOWem.md) - [plain]
 | 23 | [silly nature](https://open.spotify.com/track/39TQI4MMElmwhA0f07apQ8) | [pami](https://open.spotify.com/artist/4cC1AQC0SUwmemy2FHBST8) | [puffette](https://open.spotify.com/album/0EgK8AZDWXirHjaYi9l2z4) | 2:27 |
 | 24 | [ABUM](https://open.spotify.com/track/4fua2kyOh4I2wQGjuLtSYc) | [JayQ](https://open.spotify.com/artist/5SLXYrzObBv7IrLzo4I4S6) | [ABUM](https://open.spotify.com/album/2rPwuobO3nwliWwrw3IK8F) | 3:32 |
 | 25 | [HOW ARE YOU](https://open.spotify.com/track/42PY0meRTLVpVn3Qv9iJKZ) | [the ge](https://open.spotify.com/artist/1h0iQlfKHiBlQsUsdzJ9l7) | [HOW ARE YOU](https://open.spotify.com/album/1pmvKyNoyuvK4mwblZHiiw) | 3:26 |
-| 26 | [ตัวเล็ก \(TUA LEK\)](https://open.spotify.com/track/4dgvGtPwlchPHgLQ7el2P9) | [WAV](https://open.spotify.com/artist/1LDsGA1kCkVtQj2lk5KVOf) | [ตัวเล็ก \(TUA LEK\)](https://open.spotify.com/album/4gf7kuptrv0VvYa6qNyyD5) | 3:26 |
-| 27 | [จับกุม \(JUB KUM\)](https://open.spotify.com/track/3r4H68mQ7kFORbqnSL151b) | [WAV](https://open.spotify.com/artist/1LDsGA1kCkVtQj2lk5KVOf) | [จับกุม \(JUB KUM\)](https://open.spotify.com/album/4qCctbbJBvQxMayG7409eD) | 3:32 |
+| 26 | [จับกุม \(JUB KUM\)](https://open.spotify.com/track/3r4H68mQ7kFORbqnSL151b) | [WAV](https://open.spotify.com/artist/1LDsGA1kCkVtQj2lk5KVOf) | [จับกุม \(JUB KUM\)](https://open.spotify.com/album/4qCctbbJBvQxMayG7409eD) | 3:32 |
+| 27 | [ตัวเล็ก \(TUA LEK\)](https://open.spotify.com/track/4dgvGtPwlchPHgLQ7el2P9) | [WAV](https://open.spotify.com/artist/1LDsGA1kCkVtQj2lk5KVOf) | [ตัวเล็ก \(TUA LEK\)](https://open.spotify.com/album/4gf7kuptrv0VvYa6qNyyD5) | 3:26 |
 | 28 | [Roo Gun](https://open.spotify.com/track/68v61y5TQzhK6cbUZQ7E3K) | [WAV](https://open.spotify.com/artist/1LDsGA1kCkVtQj2lk5KVOf) | [Tsunami](https://open.spotify.com/album/7N0xlZESMn9AhX7zzX5tgu) | 4:15 |
 | 29 | [ThaiKids](https://open.spotify.com/track/4GlV2xjoki70itp4GMFPgo) | [JayQ](https://open.spotify.com/artist/5SLXYrzObBv7IrLzo4I4S6) | [ThaiKids](https://open.spotify.com/album/7bRV2jXhlJVxHGdA4h7pIy) | 3:18 |
 | 30 | [WANNA LOVE](https://open.spotify.com/track/0VGPOiDOejgKnYtqHnqxsu) | [the ge](https://open.spotify.com/artist/1h0iQlfKHiBlQsUsdzJ9l7) | [WANNA LOVE](https://open.spotify.com/album/1GMiGFyLTq9kM6PlBEK7v3) | 2:50 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBZhfF4ZHr8.md) - [plain]
 
 > Les meilleures nouveautés de la variété française avec Lenaïg
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,507 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,499 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBZhfF4ZHr8.md) - [plain]
 | 4 | [Frérot](https://open.spotify.com/track/6aZhAyAkZDl00J7c6o35Qc) | [Jérémy Frerot](https://open.spotify.com/artist/4lhtlpMg6j1absrQvXYlRK) | [Frérot](https://open.spotify.com/album/6Ma7L5f2hce8QCHaol5V4h) | 2:43 |
 | 5 | [Pardon](https://open.spotify.com/track/3R5JeMirRv4nyLHcI9EkOG) | [DAYSY](https://open.spotify.com/artist/6vorHF3qW6vODkQP51kGlk) | [Pardon](https://open.spotify.com/album/11cA5542CyoY9LF0S5HYnY) | 2:37 |
 | 6 | [T'es où ?](https://open.spotify.com/track/5SoDlb86jAzb4rQ5kSmlQj) | [Robin](https://open.spotify.com/artist/4rBM6zAvArcI0zse5kUVJD) | [T'es où ?](https://open.spotify.com/album/0exWORbwX2Zgt761HDThAC) | 2:51 |
-| 7 | [Papillons](https://open.spotify.com/track/54GTl6q8VYEtd9FxvHcFqN) | [EMA](https://open.spotify.com/artist/5sBs3oeSyC5mNZimFy1QHY) | [Papillons](https://open.spotify.com/album/5wN17JXmD8stoZsVoWYPOf) | 2:26 |
+| 7 | [Papillons](https://open.spotify.com/track/54GTl6q8VYEtd9FxvHcFqN) | [EMA](https://open.spotify.com/artist/5sBs3oeSyC5mNZimFy1QHY) | [Papillons](https://open.spotify.com/album/5wN17JXmD8stoZsVoWYPOf) | 2:25 |
 | 8 | [Crash](https://open.spotify.com/track/02IIarJdHe8u4n0XcOEzHN) | [Joseph Kamel](https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI) | [Crash](https://open.spotify.com/album/20RGe7E8FpGuhkcTLa4LpG) | 2:44 |
 | 9 | [crash test \- A COLORS SHOW](https://open.spotify.com/track/2F6V0NKuHJVePE7LCBUYaX) | [marguerite](https://open.spotify.com/artist/4jF2P66DtNEficnixuIhKQ), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [crash test \- A COLORS SHOW](https://open.spotify.com/album/1DngVihHwqNBJRBdDvnKLW) | 3:14 |
 | 10 | [Quelle époque](https://open.spotify.com/track/25ez46scpanlXxlyGX7oEN) | [Amel Bent](https://open.spotify.com/artist/15jZ8OLtnGATWHlQkltG7f), [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [MINUIT UNE](https://open.spotify.com/album/68Ytb90ofkAKWRfp2D5h1t) | 2:35 |

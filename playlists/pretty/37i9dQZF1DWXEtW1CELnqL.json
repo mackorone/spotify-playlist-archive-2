@@ -1,6 +1,6 @@
 {
   "description": "Laisse go.",
-  "num_followers": 88883,
+  "num_followers": 88900,
   "original_name": "Balec !",
   "owner": {
     "name": "Spotify",
@@ -927,6 +927,22 @@
     {
       "added_at": "2026-03-27 13:46:24",
       "album": {
+        "name": "Saviors",
+        "url": "https://open.spotify.com/album/4AIeqAMDyIT884A9uA2A0i"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 198324,
+      "name": "Dilemma",
+      "url": "https://open.spotify.com/track/4NrGMEm5SvvpJ9Tk1Rq3cP"
+    },
+    {
+      "added_at": "2026-03-27 13:46:24",
+      "album": {
         "name": "Happier (feat. Oli Sykes of Bring Me The Horizon)",
         "url": "https://open.spotify.com/album/4Xkn1QDxrQQAp1IiK94PcV"
       },
@@ -951,34 +967,18 @@
     {
       "added_at": "2026-03-27 13:46:24",
       "album": {
-        "name": "Saviors",
-        "url": "https://open.spotify.com/album/4AIeqAMDyIT884A9uA2A0i"
+        "name": "FISSION",
+        "url": "https://open.spotify.com/album/6PUmlxsIK7Z2Gr5OSTa5YA"
       },
       "artists": [
         {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+          "name": "Dead Poet Society",
+          "url": "https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe"
         }
       ],
-      "duration_ms": 198324,
-      "name": "Dilemma",
-      "url": "https://open.spotify.com/track/4NrGMEm5SvvpJ9Tk1Rq3cP"
-    },
-    {
-      "added_at": "2026-03-27 13:46:24",
-      "album": {
-        "name": "The Paramour Sessions",
-        "url": "https://open.spotify.com/album/3ETIenGs9NduSmJ9Zp82DA"
-      },
-      "artists": [
-        {
-          "name": "Papa Roach",
-          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
-        }
-      ],
-      "duration_ms": 182120,
-      "name": "...To Be Loved",
-      "url": "https://open.spotify.com/track/5RxCC8ecpIb6W9MVrJNmSF"
+      "duration_ms": 233321,
+      "name": "Running In Circles",
+      "url": "https://open.spotify.com/track/4pEU0NT64oiem9lDT7nuJn"
     }
   ],
   "unique_name": "Balec !",

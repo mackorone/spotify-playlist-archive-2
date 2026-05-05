@@ -1,12 +1,12 @@
 {
   "description": "playlist spotify free",
-  "num_followers": 280,
+  "num_followers": 279,
   "original_name": "playlist spotify free",
   "owner": {
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAIgKnYBALJ6WAuTTWSE42Sb1dyOYDo",
+  "snapshot_id": "AAAIgQSHxQWfEQQ8bW8zvv/P23L0nuD7",
   "tracks": [
     {
       "added_at": "2026-04-14 21:44:21",
@@ -72051,6 +72051,22 @@
       "duration_ms": 321703,
       "name": "Red Sea",
       "url": "https://open.spotify.com/track/65CBVvFFb0FxAGTrtIcpbB"
+    },
+    {
+      "added_at": "2026-05-04 09:53:46",
+      "album": {
+        "name": "Mothman",
+        "url": "https://open.spotify.com/album/2Ep74PqtVoHvQYwZ033Nvs"
+      },
+      "artists": [
+        {
+          "name": "Apex89",
+          "url": "https://open.spotify.com/artist/0jdPGIACeHmp89qaOUEsWZ"
+        }
+      ],
+      "duration_ms": 311479,
+      "name": "Mothman",
+      "url": "https://open.spotify.com/track/38gi9OlVKpj6zwtNKK0dDc"
     }
   ],
   "unique_name": "playlist spotify free",

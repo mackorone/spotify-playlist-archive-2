@@ -1,6 +1,6 @@
 {
   "description": "English songs from Indian artists\nCover: Prateek Kuhad",
-  "num_followers": 39846,
+  "num_followers": 39849,
   "original_name": "Indian Indie English",
   "owner": {
     "name": "Spotify",
@@ -199,22 +199,6 @@
     {
       "added_at": "2026-04-03 06:18:38",
       "album": {
-        "name": "Student of Love",
-        "url": "https://open.spotify.com/album/6NU9gREQED90QHgrTUZPRx"
-      },
-      "artists": [
-        {
-          "name": "Mary Ann Alexander",
-          "url": "https://open.spotify.com/artist/5Nd0pl530GmwyCK1lRGQqd"
-        }
-      ],
-      "duration_ms": 157377,
-      "name": "Student of Love",
-      "url": "https://open.spotify.com/track/4LEhWsijtlLqwjctr2bsxx"
-    },
-    {
-      "added_at": "2026-04-03 06:18:38",
-      "album": {
         "name": "Ocean",
         "url": "https://open.spotify.com/album/3Go4qMxReIx9sTKGYMLakO"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 169986,
       "name": "I Love You Baby, I Love You Doll",
       "url": "https://open.spotify.com/track/1uC8CoidgacQzx9f01n73h"
+    },
+    {
+      "added_at": "2026-04-03 06:18:38",
+      "album": {
+        "name": "Student of Love",
+        "url": "https://open.spotify.com/album/6NU9gREQED90QHgrTUZPRx"
+      },
+      "artists": [
+        {
+          "name": "Mary Ann Alexander",
+          "url": "https://open.spotify.com/artist/5Nd0pl530GmwyCK1lRGQqd"
+        }
+      ],
+      "duration_ms": 157377,
+      "name": "Student of Love",
+      "url": "https://open.spotify.com/track/4LEhWsijtlLqwjctr2bsxx"
     },
     {
       "added_at": "2026-04-03 06:18:38",
@@ -263,22 +263,6 @@
     {
       "added_at": "2026-04-03 06:18:38",
       "album": {
-        "name": "again...",
-        "url": "https://open.spotify.com/album/5yS0RM2MKru6bQdYLq1k2V"
-      },
-      "artists": [
-        {
-          "name": "Aarya",
-          "url": "https://open.spotify.com/artist/0hiGMrsjO7uwlfNq4NS7wf"
-        }
-      ],
-      "duration_ms": 177073,
-      "name": "again...",
-      "url": "https://open.spotify.com/track/0RQ0T4W9TsdZW9AjAv4LBl"
-    },
-    {
-      "added_at": "2026-04-03 06:18:38",
-      "album": {
         "name": "Halfway",
         "url": "https://open.spotify.com/album/7grcqqugy7VGt4GV72oxpC"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 208535,
       "name": "Halfway",
       "url": "https://open.spotify.com/track/3o3GYMcTzZi3bowHsoGAbi"
+    },
+    {
+      "added_at": "2026-04-03 06:18:38",
+      "album": {
+        "name": "again...",
+        "url": "https://open.spotify.com/album/5yS0RM2MKru6bQdYLq1k2V"
+      },
+      "artists": [
+        {
+          "name": "Aarya",
+          "url": "https://open.spotify.com/artist/0hiGMrsjO7uwlfNq4NS7wf"
+        }
+      ],
+      "duration_ms": 177073,
+      "name": "again...",
+      "url": "https://open.spotify.com/track/0RQ0T4W9TsdZW9AjAv4LBl"
     },
     {
       "added_at": "2026-04-03 06:18:38",
@@ -399,26 +399,6 @@
     {
       "added_at": "2026-04-03 06:18:38",
       "album": {
-        "name": "pocket friendly: volume i",
-        "url": "https://open.spotify.com/album/6X1Y8C2xvh0yWYj1MrQZOh"
-      },
-      "artists": [
-        {
-          "name": "sudan",
-          "url": "https://open.spotify.com/artist/7xLQxBMXlCJT50jWVZfSME"
-        },
-        {
-          "name": "Tejas",
-          "url": "https://open.spotify.com/artist/4CK1oDthUad8mQBb8GAcfl"
-        }
-      ],
-      "duration_ms": 167250,
-      "name": "a hiatus",
-      "url": "https://open.spotify.com/track/1pqqrwwQrb3HW9ctIN3K2E"
-    },
-    {
-      "added_at": "2026-04-03 06:18:38",
-      "album": {
         "name": "Kindergarten Juliet",
         "url": "https://open.spotify.com/album/71UxutgcpGPi7IvNc4d8sk"
       },
@@ -439,6 +419,26 @@
     {
       "added_at": "2026-04-03 06:18:38",
       "album": {
+        "name": "pocket friendly: volume i",
+        "url": "https://open.spotify.com/album/6X1Y8C2xvh0yWYj1MrQZOh"
+      },
+      "artists": [
+        {
+          "name": "sudan",
+          "url": "https://open.spotify.com/artist/7xLQxBMXlCJT50jWVZfSME"
+        },
+        {
+          "name": "Tejas",
+          "url": "https://open.spotify.com/artist/4CK1oDthUad8mQBb8GAcfl"
+        }
+      ],
+      "duration_ms": 167250,
+      "name": "a hiatus",
+      "url": "https://open.spotify.com/track/1pqqrwwQrb3HW9ctIN3K2E"
+    },
+    {
+      "added_at": "2026-04-03 06:18:38",
+      "album": {
         "name": "My Last Cigarette",
         "url": "https://open.spotify.com/album/0t1TJ4kb04P7rcIkVSzue0"
       },
@@ -451,6 +451,22 @@
       "duration_ms": 277714,
       "name": "My Last Cigarette",
       "url": "https://open.spotify.com/track/1RAQBHitlcTb4MJVxoLQ2n"
+    },
+    {
+      "added_at": "2026-04-03 06:18:38",
+      "album": {
+        "name": "Unicorn And The Sheep",
+        "url": "https://open.spotify.com/album/1Gd4ISqgkzf5WZHLjzUaHI"
+      },
+      "artists": [
+        {
+          "name": "Raghav Meattle",
+          "url": "https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN"
+        }
+      ],
+      "duration_ms": 151531,
+      "name": "Unicorn and the Sheep",
+      "url": "https://open.spotify.com/track/4YWeZa7AfJArkijVVq8ayc"
     },
     {
       "added_at": "2026-04-03 06:18:38",
@@ -471,18 +487,34 @@
     {
       "added_at": "2026-04-03 06:18:38",
       "album": {
-        "name": "Unicorn And The Sheep",
-        "url": "https://open.spotify.com/album/1Gd4ISqgkzf5WZHLjzUaHI"
+        "name": "Khud Ko Miloon",
+        "url": "https://open.spotify.com/album/4a8jBar9By0bgZnzgsKp29"
       },
       "artists": [
         {
-          "name": "Raghav Meattle",
-          "url": "https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN"
+          "name": "Taba Chake",
+          "url": "https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy"
         }
       ],
-      "duration_ms": 151531,
-      "name": "Unicorn and the Sheep",
-      "url": "https://open.spotify.com/track/4YWeZa7AfJArkijVVq8ayc"
+      "duration_ms": 160248,
+      "name": "La La Land",
+      "url": "https://open.spotify.com/track/4ntSlRcL76zb4dhiBycTUo"
+    },
+    {
+      "added_at": "2026-04-03 06:18:38",
+      "album": {
+        "name": "Don't Wanna Be",
+        "url": "https://open.spotify.com/album/3u3oBOlUVfy7CT7kfaBhRv"
+      },
+      "artists": [
+        {
+          "name": "Temsu Clover",
+          "url": "https://open.spotify.com/artist/1QZD3yzCgj7qHKqG2eC31g"
+        }
+      ],
+      "duration_ms": 200020,
+      "name": "Don't Wanna Be",
+      "url": "https://open.spotify.com/track/1kHiVVtGYYE5ZhiyvgP399"
     },
     {
       "added_at": "2026-04-03 06:18:38",
@@ -507,22 +539,6 @@
     {
       "added_at": "2026-04-03 06:18:38",
       "album": {
-        "name": "Don't Wanna Be",
-        "url": "https://open.spotify.com/album/3u3oBOlUVfy7CT7kfaBhRv"
-      },
-      "artists": [
-        {
-          "name": "Temsu Clover",
-          "url": "https://open.spotify.com/artist/1QZD3yzCgj7qHKqG2eC31g"
-        }
-      ],
-      "duration_ms": 200020,
-      "name": "Don't Wanna Be",
-      "url": "https://open.spotify.com/track/1kHiVVtGYYE5ZhiyvgP399"
-    },
-    {
-      "added_at": "2026-04-03 06:18:38",
-      "album": {
         "name": "pocket friendly: volume i",
         "url": "https://open.spotify.com/album/6X1Y8C2xvh0yWYj1MrQZOh"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 153000,
       "name": "lighthouse",
       "url": "https://open.spotify.com/track/0ugCLPltxIsEaaPOnqyXRO"
-    },
-    {
-      "added_at": "2026-04-03 06:18:38",
-      "album": {
-        "name": "Khud Ko Miloon",
-        "url": "https://open.spotify.com/album/4a8jBar9By0bgZnzgsKp29"
-      },
-      "artists": [
-        {
-          "name": "Taba Chake",
-          "url": "https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy"
-        }
-      ],
-      "duration_ms": 160248,
-      "name": "La La Land",
-      "url": "https://open.spotify.com/track/4ntSlRcL76zb4dhiBycTUo"
     },
     {
       "added_at": "2026-04-03 06:18:38",
@@ -671,26 +671,6 @@
     {
       "added_at": "2026-04-03 06:18:38",
       "album": {
-        "name": "The Other Side",
-        "url": "https://open.spotify.com/album/3b3V9Xrmq468GwoZuiuTRG"
-      },
-      "artists": [
-        {
-          "name": "The Western Ghats",
-          "url": "https://open.spotify.com/artist/3vX5K7r9Icdjsrlax4FzWv"
-        },
-        {
-          "name": "Zeba Tommy",
-          "url": "https://open.spotify.com/artist/1JN77nFJbx0r5wAkzs6A7u"
-        }
-      ],
-      "duration_ms": 200625,
-      "name": "The Other Side",
-      "url": "https://open.spotify.com/track/1NZcWNXk2ZsMSiiFen25nN"
-    },
-    {
-      "added_at": "2026-04-03 06:18:38",
-      "album": {
         "name": "the party song",
         "url": "https://open.spotify.com/album/63sVUToNMo3Buh9GwODQRZ"
       },
@@ -711,18 +691,22 @@
     {
       "added_at": "2026-04-03 06:18:38",
       "album": {
-        "name": "Jaloux",
-        "url": "https://open.spotify.com/album/7sC1UNkygx7EVbmhrba7S8"
+        "name": "The Other Side",
+        "url": "https://open.spotify.com/album/3b3V9Xrmq468GwoZuiuTRG"
       },
       "artists": [
         {
-          "name": "BombayMami",
-          "url": "https://open.spotify.com/artist/6GssnSoFCEFhN0sdsaDbzT"
+          "name": "The Western Ghats",
+          "url": "https://open.spotify.com/artist/3vX5K7r9Icdjsrlax4FzWv"
+        },
+        {
+          "name": "Zeba Tommy",
+          "url": "https://open.spotify.com/artist/1JN77nFJbx0r5wAkzs6A7u"
         }
       ],
-      "duration_ms": 168139,
-      "name": "Jaloux",
-      "url": "https://open.spotify.com/track/2ZU8jZLLS5x7BsTBvc0Xf4"
+      "duration_ms": 200625,
+      "name": "The Other Side",
+      "url": "https://open.spotify.com/track/1NZcWNXk2ZsMSiiFen25nN"
     },
     {
       "added_at": "2026-04-03 06:18:38",
@@ -739,6 +723,22 @@
       "duration_ms": 235636,
       "name": "forget your name",
       "url": "https://open.spotify.com/track/5HMJr3qOYf7Bjd58UNvGDY"
+    },
+    {
+      "added_at": "2026-04-03 06:18:38",
+      "album": {
+        "name": "Jaloux",
+        "url": "https://open.spotify.com/album/7sC1UNkygx7EVbmhrba7S8"
+      },
+      "artists": [
+        {
+          "name": "BombayMami",
+          "url": "https://open.spotify.com/artist/6GssnSoFCEFhN0sdsaDbzT"
+        }
+      ],
+      "duration_ms": 168139,
+      "name": "Jaloux",
+      "url": "https://open.spotify.com/track/2ZU8jZLLS5x7BsTBvc0Xf4"
     },
     {
       "added_at": "2026-04-03 06:18:38",
@@ -959,22 +959,6 @@
     {
       "added_at": "2026-04-03 06:18:38",
       "album": {
-        "name": "BUCK WILD",
-        "url": "https://open.spotify.com/album/0VP7f9QYaLQsUVKY5MGVO5"
-      },
-      "artists": [
-        {
-          "name": "Karshni",
-          "url": "https://open.spotify.com/artist/2krHp4TdZbPjAyN8atU6Ff"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "GIRL",
-      "url": "https://open.spotify.com/track/1zIDzzt7QxjEmGV2TfBE80"
-    },
-    {
-      "added_at": "2026-04-03 06:18:38",
-      "album": {
         "name": "Keep You",
         "url": "https://open.spotify.com/album/77YwQgSDxEaAt1Me1J6VV1"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 323077,
       "name": "Keep You",
       "url": "https://open.spotify.com/track/1EY3dZn5z9ZpVCIIh855J2"
+    },
+    {
+      "added_at": "2026-04-03 06:18:38",
+      "album": {
+        "name": "BUCK WILD",
+        "url": "https://open.spotify.com/album/0VP7f9QYaLQsUVKY5MGVO5"
+      },
+      "artists": [
+        {
+          "name": "Karshni",
+          "url": "https://open.spotify.com/artist/2krHp4TdZbPjAyN8atU6Ff"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "GIRL",
+      "url": "https://open.spotify.com/track/1zIDzzt7QxjEmGV2TfBE80"
     },
     {
       "added_at": "2026-04-03 06:18:38",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2026-04-03 06:18:38",
       "album": {
+        "name": "Nyima, Vol. 1",
+        "url": "https://open.spotify.com/album/2BCFjxg1prw5MlhJINPiPg"
+      },
+      "artists": [
+        {
+          "name": "Meera",
+          "url": "https://open.spotify.com/artist/1a74S7m7Ce1IRYAC61gXfv"
+        }
+      ],
+      "duration_ms": 148500,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/4luxjQsMu9bZYpmXGegS1i"
+    },
+    {
+      "added_at": "2026-04-03 06:18:38",
+      "album": {
         "name": "Painted Faces",
         "url": "https://open.spotify.com/album/2hpW3IPnVpgLvDx8lK6DcL"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 179806,
       "name": "Painted Faces",
       "url": "https://open.spotify.com/track/2ju3HIlep4lhn0SJ4t7jBa"
-    },
-    {
-      "added_at": "2026-04-03 06:18:38",
-      "album": {
-        "name": "Nyima, Vol. 1",
-        "url": "https://open.spotify.com/album/2BCFjxg1prw5MlhJINPiPg"
-      },
-      "artists": [
-        {
-          "name": "Meera",
-          "url": "https://open.spotify.com/artist/1a74S7m7Ce1IRYAC61gXfv"
-        }
-      ],
-      "duration_ms": 148500,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/4luxjQsMu9bZYpmXGegS1i"
     },
     {
       "added_at": "2026-04-03 06:18:38",

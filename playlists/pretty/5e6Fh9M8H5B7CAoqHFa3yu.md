@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 311 likes - 2,255 songs - 5 day 13 hr 34 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 312 likes - 2,258 songs - 5 day 13 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2263,5 +2263,8 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2253 | [Trop Tard](https://open.spotify.com/track/4Jc87vJJuMZJs1sVCzihsl) | [ToloV](https://open.spotify.com/artist/4t3awapuIDzb4fGOMWR35Q) | [Trop Tard](https://open.spotify.com/album/4NIXc8GwWXnvo1TTMJEkWt) | 3:31 |
 | 2254 | [Eres \(cumbia\)](https://open.spotify.com/track/5n8PeHHXQl9Rchj1Qlw7Kn) | [OVE MARQUESIN](https://open.spotify.com/artist/0plb8N6XwOKnXuQFxHiD0t) | [Eres \(cumbia\)](https://open.spotify.com/album/37xqG4vHBHGfn7Kgb6LfTL) | 3:45 |
 | 2255 | [Asylum of the Mind](https://open.spotify.com/track/3BgakXbaYhofrzmBhGcPjg) | [AETHEROHM](https://open.spotify.com/artist/2fpzZutgwQNC0dLo6Ly5Ww) | [Asylum of the Mind](https://open.spotify.com/album/2vmZXsykEmnHmMOqEna3Jr) | 4:04 |
+| 2256 | [Muurame](https://open.spotify.com/track/1Krh2vadndyc5CiGYyTKLT) | [Muupe B\. Horto](https://open.spotify.com/artist/6Dq8fIdjjfW20AXixOxyKa) | [Tuntosarvi](https://open.spotify.com/album/4WsdrEzof5vYTjPi6fXoQX) | 2:25 |
+| 2257 | [I Can't Stop](https://open.spotify.com/track/5GyGdqwleI3rB3AjL3INiG) | [Catramina](https://open.spotify.com/artist/26oatZsfAD7qSzz8iEeXx1) | [Everything Runs for Nothing](https://open.spotify.com/album/0L6fCqGi6BwI30LIrinsEh) | 6:14 |
+| 2258 | [I Want Peace](https://open.spotify.com/track/3a3b6NjEuZDNKYFbYt8KV5) | [Voices](https://open.spotify.com/artist/3MOrMslYZqpstKVeCLSnuq) | [Original Songs From The Early Years](https://open.spotify.com/album/3gKKNdLkrW2V9sgXHRw5qL) | 2:43 |
 
-Snapshot ID: `AAAJeIFHH44cULATnRtOvwP7eMP/2Hfk`
+Snapshot ID: `AAAJewil7xKPRjQ8llji9siuzY1cy022`

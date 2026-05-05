@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,253 likes - 580 songs - 1 day 16 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,279 likes - 580 songs - 1 day 16 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,8 +109,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 99 | [Not A Dry Eye In The House](https://open.spotify.com/track/6c0DXVlFO5blfmDoke22rB) | [Meat Loaf](https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz) | [Welcome To The Neighbourhood](https://open.spotify.com/album/2zpSj5iBkyxYy9uEVA4ucY) | 5:54 |
 | 100 | [How Do I Live \- Extended Mix](https://open.spotify.com/track/7jVkRbHbcw9wO5tNlBOiWR) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [You Light Up My Life](https://open.spotify.com/album/5FXJHigDDA8I1xT47xpsWk) | 4:57 |
 | 101 | [I Promise](https://open.spotify.com/track/0EhqdgtayZ43jlzYTpHLdi) | [Stacie Orrico](https://open.spotify.com/artist/5QjWgYDeKNP2iPHTdTttnG) | [Stacie Orrico](https://open.spotify.com/album/05bphHAv5bizNSVDeirA9t) | 4:17 |
-| 102 | [Whenever You Remember](https://open.spotify.com/track/5cwt3fRFqMCuxP5mhA1N7k) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Some Hearts](https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg) | 3:47 |
-| 103 | [Once In A Lifetime](https://open.spotify.com/track/5MPaYcjSRsQIIjStlGmtX2) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [That's Me](https://open.spotify.com/album/62CDxOlX4fNlDStY5CbSUK) | 5:53 |
+| 102 | [Once In A Lifetime](https://open.spotify.com/track/5MPaYcjSRsQIIjStlGmtX2) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [That's Me](https://open.spotify.com/album/62CDxOlX4fNlDStY5CbSUK) | 5:53 |
+| 103 | [Whenever You Remember](https://open.spotify.com/track/5cwt3fRFqMCuxP5mhA1N7k) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Some Hearts](https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg) | 3:47 |
 | 104 | [Stand up for Something \(feat\. Common\)](https://open.spotify.com/track/0Vf1E9i3cK9O6KZyPynDHg) | [Andra Day](https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe), [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [Stand up for Something \(feat\. Common\)](https://open.spotify.com/album/1X5UxEFIFdJUm2m9fwerDH) | 3:44 |
 | 105 | [The Arms of the One Who Loves You](https://open.spotify.com/track/6Zyk31Yyk7AUU1TTJn7plb) | [Xscape](https://open.spotify.com/artist/5z2cHsOmmmWcAPNG1oEhw0) | [Traces Of My Lipstick](https://open.spotify.com/album/2vURwAnzdxnAlocCPmLG95) | 4:20 |
 | 106 | [Leave While I'm Not Looking](https://open.spotify.com/track/2aiey41vnKkRbmqaTZunbJ) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa) | [A Perfect Contradiction \(Outsiders' Expanded Edition\)](https://open.spotify.com/album/3jRG3qOfsSSW3SBdeBiIfC) | 3:53 |
@@ -589,4 +589,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 579 | [I Don't Know About That](https://open.spotify.com/track/0QVu6tcahV7XR25KY4gowA) | [Elan Lea](https://open.spotify.com/artist/0yaj6mNaPV5xeNn0wOyZlQ) | [My only excuse](https://open.spotify.com/album/6kl4ymNl4SRsvzBiLZBrkq) | 3:19 |
 | 580 | [There's Always Love](https://open.spotify.com/track/1GEM0xFN8KCkZ8MWXeTGjk) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [Music Speaks Louder Than Words](https://open.spotify.com/album/749QW9xP9WJSrLAYHAJaco) | 4:30 |
 
-Snapshot ID: `AcQiSgAAAAC191LHMdASGEa1ce5uKlzK`
+Snapshot ID: `AcQoJgAAAAARcADfHDlMWkVjp1yiXMr4`

@@ -4,7 +4,7 @@
 
 > the best &amp; new indie rock\. all the belowed tracks &amp; artists
 
-69 songs - 4 hr 1 min
+70 songs - 4 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Tardive Regrets](https://open.spotify.com/track/35kZqVylkAuIm3SXCwSboG) | [QRU](https://open.spotify.com/artist/1qc2ykp44EJxbFncDlTfQc) | [Tardive Regrets](https://open.spotify.com/album/77va0OIaUtjTkmbMJ0BWsT) | 4:29 | 2026-04-04 |  |
 | [Telerhythm](https://open.spotify.com/track/2dQSMsCUjkTSGebOl6iED0) | [Sam Tout](https://open.spotify.com/artist/7KkL60MFnIoBkdAfkUIBei) | [Just Floating Around](https://open.spotify.com/album/6Y2DgPHWYefamzoqy2M0pE) | 3:34 | 2025-07-07 | 2025-12-11 |
 | [The Beginning Of The End](https://open.spotify.com/track/2fN6H4ncv3uYMG7mMEtbcA) | [Roses!Hands!](https://open.spotify.com/artist/2IIPLXX4gc8oKR37sOsa9o) | [MMXXII](https://open.spotify.com/album/6vRRH7PlhC05goJHMlpwGN) | 3:08 | 2025-08-04 |  |
+| [The Party Must Go On](https://open.spotify.com/track/7F5EJZwssUNp4WaNDtGTDM) | [QRU](https://open.spotify.com/artist/1qc2ykp44EJxbFncDlTfQc) | [The Party Must Go On](https://open.spotify.com/album/2lax9jtbIr7wgMeWqedkza) | 3:45 | 2026-05-04 |  |
 | [They Blame Immigrants, So You Won't Blame Billionaires](https://open.spotify.com/track/2nMbuh2nlVV0DWraJ21Jhu) | [Debt Shop Boi](https://open.spotify.com/artist/4N47g08XQf481GOUHDaUl9) | [They Blame Immigrants, So You Won't Blame Billionaires](https://open.spotify.com/album/5uw7mDI972851YPAYxhlbF) | 3:10 | 2025-07-13 |  |
 | [Time](https://open.spotify.com/track/4uVRMIKwDMBIH8C2ha2N70) | [juii](https://open.spotify.com/artist/7rJOU9thBiM4SmA6vSwHYw) | [Time](https://open.spotify.com/album/6tPjHey8PdjtJLBHgIMNzx) | 3:02 | 2025-02-15 | 2025-12-11 |
 | [To The Sea](https://open.spotify.com/track/6vE5CldyUzyex2SwEd9fcW) | [Burnt Log](https://open.spotify.com/artist/7q1PrhTwEgtU72kJ3g7qdC) | [To The Sea](https://open.spotify.com/album/1FOplQTQ4T0YRtM33ETBxN) | 5:22 | 2024-05-20 | 2025-12-11 |

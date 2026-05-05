@@ -1,12 +1,12 @@
 {
   "description": "This is Willie Col\u00f3n. The essential tracks, all in one playlist.",
-  "num_followers": 103038,
+  "num_followers": 103057,
   "original_name": "This Is Willie Col\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afU+gAAAAAAjU4sp/C2/6WS1/AnvyssC",
+  "snapshot_id": "afaQAAAAAACkGomm84aNNWuMk8n9NsQU",
   "tracks": [
     {
       "added_at": null,
@@ -835,6 +835,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Coraz\u00f3n Guerrero",
+        "url": "https://open.spotify.com/album/49qrC2ziwxKumQm96y3cO5"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "duration_ms": 203520,
+      "name": "Casanova",
+      "url": "https://open.spotify.com/track/6dQBpbW4zmZZwWuAB1Xiwc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Juicio",
         "url": "https://open.spotify.com/album/3VGeuVPBeITXJwWt2YUPZW"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 316680,
       "name": "Pira\u00f1a",
       "url": "https://open.spotify.com/track/2SdrV0mPzc8UZ89a3Eg1z6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Coraz\u00f3n Guerrero",
-        "url": "https://open.spotify.com/album/49qrC2ziwxKumQm96y3cO5"
-      },
-      "artists": [
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        }
-      ],
-      "duration_ms": 203520,
-      "name": "Casanova",
-      "url": "https://open.spotify.com/track/6dQBpbW4zmZZwWuAB1Xiwc"
     },
     {
       "added_at": null,

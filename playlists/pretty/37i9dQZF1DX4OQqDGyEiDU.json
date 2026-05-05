@@ -1,6 +1,6 @@
 {
   "description": "Explore the current wave of VOCALOID culture. Cover: Kikuo",
-  "num_followers": 120398,
+  "num_followers": 120383,
   "original_name": "VOCALOID now",
   "owner": {
     "name": "Spotify",
@@ -339,8 +339,8 @@
     {
       "added_at": "2026-04-28 15:00:48",
       "album": {
-        "name": "\u30e2\u30cb\u30bf\u30ea\u30f3\u30b0 (Best Friend Remix)",
-        "url": "https://open.spotify.com/album/7LeSWBUQBEBUp0mguX4fQs"
+        "name": "\u30c6\u30ec\u30d1\u30b7",
+        "url": "https://open.spotify.com/album/5s4PZUXRTi75Lf9vb9lSVh"
       },
       "artists": [
         {
@@ -348,9 +348,9 @@
           "url": "https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP"
         }
       ],
-      "duration_ms": 178383,
-      "name": "\u30e2\u30cb\u30bf\u30ea\u30f3\u30b0 (Best Friend Remix)",
-      "url": "https://open.spotify.com/track/5an1RVI4IDE9xP7iBRVssg"
+      "duration_ms": 137746,
+      "name": "\u30c6\u30ec\u30d1\u30b7",
+      "url": "https://open.spotify.com/track/76kJA3LUe1uREGjlaOypkL"
     },
     {
       "added_at": "2026-04-28 15:00:48",
@@ -427,8 +427,8 @@
     {
       "added_at": "2026-04-28 15:00:48",
       "album": {
-        "name": "\u30c6\u30ec\u30d1\u30b7",
-        "url": "https://open.spotify.com/album/5s4PZUXRTi75Lf9vb9lSVh"
+        "name": "\u30e2\u30cb\u30bf\u30ea\u30f3\u30b0 (Best Friend Remix)",
+        "url": "https://open.spotify.com/album/7LeSWBUQBEBUp0mguX4fQs"
       },
       "artists": [
         {
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP"
         }
       ],
-      "duration_ms": 137746,
-      "name": "\u30c6\u30ec\u30d1\u30b7",
-      "url": "https://open.spotify.com/track/76kJA3LUe1uREGjlaOypkL"
+      "duration_ms": 178383,
+      "name": "\u30e2\u30cb\u30bf\u30ea\u30f3\u30b0 (Best Friend Remix)",
+      "url": "https://open.spotify.com/track/5an1RVI4IDE9xP7iBRVssg"
     },
     {
       "added_at": "2026-04-28 15:00:48",
@@ -583,22 +583,6 @@
     {
       "added_at": "2026-04-28 15:00:48",
       "album": {
-        "name": "\u611b\u8a00\u8449V",
-        "url": "https://open.spotify.com/album/7uW6r1LE0p2VB94cCauFhk"
-      },
-      "artists": [
-        {
-          "name": "DECO*27",
-          "url": "https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP"
-        }
-      ],
-      "duration_ms": 219026,
-      "name": "\u611b\u8a00\u8449V",
-      "url": "https://open.spotify.com/track/78Kmvc9j6E8e0B1wNPVN8k"
-    },
-    {
-      "added_at": "2026-04-28 15:00:48",
-      "album": {
         "name": "ROSE",
         "url": "https://open.spotify.com/album/2l7pgbmqxrUzgY7ppseiGv"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 161872,
       "name": "\u6625\u5d50",
       "url": "https://open.spotify.com/track/3wM3VFL0nuEhwATHcJfPSm"
+    },
+    {
+      "added_at": "2026-04-28 15:00:48",
+      "album": {
+        "name": "\u611b\u8a00\u8449V",
+        "url": "https://open.spotify.com/album/7uW6r1LE0p2VB94cCauFhk"
+      },
+      "artists": [
+        {
+          "name": "DECO*27",
+          "url": "https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP"
+        }
+      ],
+      "duration_ms": 219026,
+      "name": "\u611b\u8a00\u8449V",
+      "url": "https://open.spotify.com/track/78Kmvc9j6E8e0B1wNPVN8k"
     },
     {
       "added_at": "2026-04-28 15:00:48",
@@ -819,22 +819,6 @@
     {
       "added_at": "2026-04-28 15:00:48",
       "album": {
-        "name": "Spot Late",
-        "url": "https://open.spotify.com/album/6kRUDQ0A6l0pMGMO8cDdKE"
-      },
-      "artists": [
-        {
-          "name": "\u7a32\u8449\u66c7",
-          "url": "https://open.spotify.com/artist/25b7eSZD64Sm8ReHZ1WDc7"
-        }
-      ],
-      "duration_ms": 183428,
-      "name": "Spot Late",
-      "url": "https://open.spotify.com/track/6FqWBvjXuDOI0wK7E2dPE3"
-    },
-    {
-      "added_at": "2026-04-28 15:00:48",
-      "album": {
         "name": "\u30aa\u30fc\u30d0\u30fc\u30e9\u30a4\u30c9",
         "url": "https://open.spotify.com/album/0mE0cdQT55qeKHNuXy1iGn"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 138533,
       "name": "\u30aa\u30fc\u30d0\u30fc\u30e9\u30a4\u30c9",
       "url": "https://open.spotify.com/track/6HznFPNdvbxgzm5jJyNlwp"
+    },
+    {
+      "added_at": "2026-04-28 15:00:48",
+      "album": {
+        "name": "Spot Late",
+        "url": "https://open.spotify.com/album/6kRUDQ0A6l0pMGMO8cDdKE"
+      },
+      "artists": [
+        {
+          "name": "\u7a32\u8449\u66c7",
+          "url": "https://open.spotify.com/artist/25b7eSZD64Sm8ReHZ1WDc7"
+        }
+      ],
+      "duration_ms": 183428,
+      "name": "Spot Late",
+      "url": "https://open.spotify.com/track/6FqWBvjXuDOI0wK7E2dPE3"
     },
     {
       "added_at": "2026-04-28 15:00:48",

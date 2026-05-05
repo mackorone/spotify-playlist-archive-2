@@ -1,12 +1,12 @@
 {
   "description": "This is Edicion Especial. The essential tracks, all in one playlist.",
-  "num_followers": 192835,
+  "num_followers": 192877,
   "original_name": "This Is Edicion Especial",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afU+gAAAAAABm+v0vAqrdtJMf44wqugb",
+  "snapshot_id": "afaQAAAAAADtcBd6kLdE41zNXryrDFDl",
   "tracks": [
     {
       "added_at": null,
@@ -767,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Playball",
-        "url": "https://open.spotify.com/album/21U9S9xssH5BdAzviBLUGN"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 160946,
-      "name": "Amarte",
-      "url": "https://open.spotify.com/track/3VsZq5Vg6TYFyIUhMlMQRC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos",
         "url": "https://open.spotify.com/album/4KL4KUntyx980R5Lix6Jc5"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 219147,
       "name": "El 3",
       "url": "https://open.spotify.com/track/4rTn8d1MKx0306cqiKrOlM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Playball",
+        "url": "https://open.spotify.com/album/21U9S9xssH5BdAzviBLUGN"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 160946,
+      "name": "Amarte",
+      "url": "https://open.spotify.com/track/3VsZq5Vg6TYFyIUhMlMQRC"
     },
     {
       "added_at": null,

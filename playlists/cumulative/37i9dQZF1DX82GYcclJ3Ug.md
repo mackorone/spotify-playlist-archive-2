@@ -4,7 +4,7 @@
 
 > No rules\. No boundaries\. The best new alternative tracks\. Cover: Finn Wolfhard
 
-3,610 songs - 8 day 6 hr 46 min
+3,611 songs - 8 day 6 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2248,6 +2248,7 @@
 | [Once then we'll be free](https://open.spotify.com/track/654f3RV4IZdpvH189db8mQ) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [Once then we'll be free](https://open.spotify.com/album/4vIM3lUezeQRsuevPU1h4N) | 3:23 | 2023-11-03 | 2024-01-27 |
 | [One Bullet Left](https://open.spotify.com/track/25PtL0lUJ5ewrziMOIPIng) | [Yam Haus](https://open.spotify.com/artist/0rSavBIQ6PthnW6brWugNL) | [One Bullet Left](https://open.spotify.com/album/0fsTPqqpKPlpRmivAOP5wx) | 2:54 | 2025-01-10 | 2025-03-15 |
 | [One Chance](https://open.spotify.com/track/7dVfdbkxtx1JF4W8aONqB1) | [Albert Hammond Jr](https://open.spotify.com/artist/1Li0eIWeMeWcOOWpImcG9H) | [Melodies on Hiatus](https://open.spotify.com/album/23zBt9O5whbd4zh23XAi11) | 3:47 | 2023-06-23 | 2023-09-02 |
+| [One Foot Out](https://open.spotify.com/track/16muzdLNvN4Wi5nIvcRDdx) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [One Foot Out](https://open.spotify.com/album/0NgM5o4m1b4yYy79DBKrOI) | 2:44 | 2026-05-05 |  |
 | [One Last Dance \(From "Venom: The Last Dance"\)](https://open.spotify.com/track/4vJk5lD1Lk89jgBOk8E7zK) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4), [Roman Morello](https://open.spotify.com/artist/4MtYU5kRFzruyn6gbO1Hju) | [One Last Dance \(From "Venom: The Last Dance"\)](https://open.spotify.com/album/1jpbeJtRIMU4zgnZfh48rz) | 2:30 | 2024-10-25 | 2024-11-09 |
 | [One Like You](https://open.spotify.com/track/5T1nY9ujQPDmOySQkfBZON) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Love Lines](https://open.spotify.com/album/3yWheytwrjDKT3Nkx6bUgP) | 3:41 | 2023-06-23 | 2023-08-05 |
 | [One Lucky Man](https://open.spotify.com/track/4VEBCXWogLkjIjA8bsFfuE) | [HighSchool](https://open.spotify.com/artist/7AG5dB8Dc3yFhzeQaAsxUb) | [HighSchool](https://open.spotify.com/album/3AkpBHPOvTPlxXPEhmNp1b) | 3:51 | 2025-10-31 | 2025-12-06 |

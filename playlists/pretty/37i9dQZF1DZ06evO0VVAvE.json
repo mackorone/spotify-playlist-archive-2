@@ -1,12 +1,12 @@
 {
   "description": "This is T.I BLAZE. The essential tracks, all in one playlist.",
-  "num_followers": 10428,
+  "num_followers": 10441,
   "original_name": "This Is T.I BLAZE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afU+gAAAAAAUR6lrC796c7q04060Lx5E",
+  "snapshot_id": "afaQAAAAAADenHYEB4NsHKHenzOqYBV9",
   "tracks": [
     {
       "added_at": null,
@@ -588,13 +588,13 @@
           "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
         },
         {
-          "name": "FAVE",
-          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
         }
       ],
-      "duration_ms": 164571,
-      "name": "Play (feat. Fave)",
-      "url": "https://open.spotify.com/track/4xPlMmtY9OD2wbvaK11FjO"
+      "duration_ms": 144552,
+      "name": "Alone (feat. Bella Shmurda)",
+      "url": "https://open.spotify.com/track/6Vnic3NfaQH8Mmfzf5fGFE"
     },
     {
       "added_at": null,
@@ -676,13 +676,13 @@
           "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
         },
         {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+          "name": "FAVE",
+          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
         }
       ],
-      "duration_ms": 144552,
-      "name": "Alone (feat. Bella Shmurda)",
-      "url": "https://open.spotify.com/track/6Vnic3NfaQH8Mmfzf5fGFE"
+      "duration_ms": 164571,
+      "name": "Play (feat. Fave)",
+      "url": "https://open.spotify.com/track/4xPlMmtY9OD2wbvaK11FjO"
     },
     {
       "added_at": null,

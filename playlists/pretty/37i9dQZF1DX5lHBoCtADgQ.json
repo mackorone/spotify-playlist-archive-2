@@ -1,6 +1,6 @@
 {
   "description": "Enjoy the folk from Punjab. Cover: Surinder Kaur",
-  "num_followers": 49494,
+  "num_followers": 49506,
   "original_name": "Folk Punjabi",
   "owner": {
     "name": "Spotify",
@@ -407,22 +407,6 @@
     {
       "added_at": "2026-01-13 11:20:11",
       "album": {
-        "name": "Kale Rang Da Paranda (Folk Recreation)",
-        "url": "https://open.spotify.com/album/5YkV1sIY7bgXJGLhiXtTUb"
-      },
-      "artists": [
-        {
-          "name": "Harshdeep Kaur",
-          "url": "https://open.spotify.com/artist/3xU8YsNNkmWSPewlB18NUz"
-        }
-      ],
-      "duration_ms": 202500,
-      "name": "Kale Rang Da Paranda - Folk Recreation",
-      "url": "https://open.spotify.com/track/039Oq1RHJnoD0kwq91qjha"
-    },
-    {
-      "added_at": "2026-01-13 11:20:11",
-      "album": {
         "name": "Haani",
         "url": "https://open.spotify.com/album/08EO8tk0m8op720sdfinOQ"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 528248,
       "name": "Jaggo",
       "url": "https://open.spotify.com/track/3dDMUe2iYu4ZbXCfrnTSIW"
+    },
+    {
+      "added_at": "2026-01-13 11:20:11",
+      "album": {
+        "name": "Kale Rang Da Paranda (Folk Recreation)",
+        "url": "https://open.spotify.com/album/5YkV1sIY7bgXJGLhiXtTUb"
+      },
+      "artists": [
+        {
+          "name": "Harshdeep Kaur",
+          "url": "https://open.spotify.com/artist/3xU8YsNNkmWSPewlB18NUz"
+        }
+      ],
+      "duration_ms": 202500,
+      "name": "Kale Rang Da Paranda - Folk Recreation",
+      "url": "https://open.spotify.com/track/039Oq1RHJnoD0kwq91qjha"
     },
     {
       "added_at": "2026-01-13 11:20:11",
@@ -515,38 +515,6 @@
     {
       "added_at": "2026-01-13 11:20:11",
       "album": {
-        "name": "Nikka Jeha",
-        "url": "https://open.spotify.com/album/19ItxZADz3IyG1J177PgqO"
-      },
-      "artists": [
-        {
-          "name": "Dolly Guleria",
-          "url": "https://open.spotify.com/artist/28nSGXatO17yTeB0JYoCmQ"
-        }
-      ],
-      "duration_ms": 314053,
-      "name": "Ambarsare De Papad",
-      "url": "https://open.spotify.com/track/49bXk2lnRjY3C0myxuLXax"
-    },
-    {
-      "added_at": "2026-01-13 11:20:11",
-      "album": {
-        "name": "Din Shagna",
-        "url": "https://open.spotify.com/album/3YbTvThi4MjObPbXaRwFgm"
-      },
-      "artists": [
-        {
-          "name": "Neha Bhasin",
-          "url": "https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z"
-        }
-      ],
-      "duration_ms": 229135,
-      "name": "Din Shagna",
-      "url": "https://open.spotify.com/track/3iw0rSfoKgCoNfaLP6DkFX"
-    },
-    {
-      "added_at": "2026-01-13 11:20:11",
-      "album": {
         "name": "Mitti - Folk Vibes Of Punjab",
         "url": "https://open.spotify.com/album/18BOE2bd989ELKLbIcPSnj"
       },
@@ -567,22 +535,34 @@
     {
       "added_at": "2026-01-13 11:20:11",
       "album": {
-        "name": "Challa",
-        "url": "https://open.spotify.com/album/3sENj2hG8yOGtkLHe82MBA"
+        "name": "Din Shagna",
+        "url": "https://open.spotify.com/album/3YbTvThi4MjObPbXaRwFgm"
       },
       "artists": [
         {
-          "name": "Yasir Hussain",
-          "url": "https://open.spotify.com/artist/2DtPjAGsvP7LPIMtj0Co1k"
-        },
-        {
-          "name": "Prabh Grewal",
-          "url": "https://open.spotify.com/artist/0gumUSJckNLBtBELSDsWwn"
+          "name": "Neha Bhasin",
+          "url": "https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z"
         }
       ],
-      "duration_ms": 189767,
-      "name": "Challa",
-      "url": "https://open.spotify.com/track/6kXvZYkGp4dpYOuKfvIEF7"
+      "duration_ms": 229135,
+      "name": "Din Shagna",
+      "url": "https://open.spotify.com/track/3iw0rSfoKgCoNfaLP6DkFX"
+    },
+    {
+      "added_at": "2026-01-13 11:20:11",
+      "album": {
+        "name": "Nikka Jeha",
+        "url": "https://open.spotify.com/album/19ItxZADz3IyG1J177PgqO"
+      },
+      "artists": [
+        {
+          "name": "Dolly Guleria",
+          "url": "https://open.spotify.com/artist/28nSGXatO17yTeB0JYoCmQ"
+        }
+      ],
+      "duration_ms": 314053,
+      "name": "Ambarsare De Papad",
+      "url": "https://open.spotify.com/track/49bXk2lnRjY3C0myxuLXax"
     },
     {
       "added_at": "2026-01-13 11:20:11",
@@ -603,6 +583,26 @@
       "duration_ms": 180000,
       "name": "Laung Gawacha",
       "url": "https://open.spotify.com/track/3li9nyEtElQe78EScNYAN2"
+    },
+    {
+      "added_at": "2026-01-13 11:20:11",
+      "album": {
+        "name": "Challa",
+        "url": "https://open.spotify.com/album/3sENj2hG8yOGtkLHe82MBA"
+      },
+      "artists": [
+        {
+          "name": "Yasir Hussain",
+          "url": "https://open.spotify.com/artist/2DtPjAGsvP7LPIMtj0Co1k"
+        },
+        {
+          "name": "Prabh Grewal",
+          "url": "https://open.spotify.com/artist/0gumUSJckNLBtBELSDsWwn"
+        }
+      ],
+      "duration_ms": 189767,
+      "name": "Challa",
+      "url": "https://open.spotify.com/track/6kXvZYkGp4dpYOuKfvIEF7"
     },
     {
       "added_at": "2026-01-13 11:20:11",
@@ -683,22 +683,6 @@
     {
       "added_at": "2026-01-13 11:20:11",
       "album": {
-        "name": "Punjabi Lok Rang",
-        "url": "https://open.spotify.com/album/23QaJYPtM3mYvxyGPYXEBG"
-      },
-      "artists": [
-        {
-          "name": "Surinder Kaur",
-          "url": "https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC"
-        }
-      ],
-      "duration_ms": 182266,
-      "name": "Latthe Di Chadar - Mahiya",
-      "url": "https://open.spotify.com/track/4hvesFus234aJFjiExrWmY"
-    },
-    {
-      "added_at": "2026-01-13 11:20:11",
-      "album": {
         "name": "Haani",
         "url": "https://open.spotify.com/album/08EO8tk0m8op720sdfinOQ"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 243931,
       "name": "Jagga",
       "url": "https://open.spotify.com/track/3FPP8CPjv5Show7rV5xQKN"
+    },
+    {
+      "added_at": "2026-01-13 11:20:11",
+      "album": {
+        "name": "Punjabi Lok Rang",
+        "url": "https://open.spotify.com/album/23QaJYPtM3mYvxyGPYXEBG"
+      },
+      "artists": [
+        {
+          "name": "Surinder Kaur",
+          "url": "https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC"
+        }
+      ],
+      "duration_ms": 182266,
+      "name": "Latthe Di Chadar - Mahiya",
+      "url": "https://open.spotify.com/track/4hvesFus234aJFjiExrWmY"
     },
     {
       "added_at": "2026-01-13 11:20:11",
@@ -775,22 +775,6 @@
     {
       "added_at": "2026-01-13 11:20:11",
       "album": {
-        "name": "Charkha Chanan Da - Single",
-        "url": "https://open.spotify.com/album/0VwoU2f8ytfmsO4qdsU0db"
-      },
-      "artists": [
-        {
-          "name": "Vanitaa Pande",
-          "url": "https://open.spotify.com/artist/3eQvg7bacPWnBBn8rMjlZH"
-        }
-      ],
-      "duration_ms": 161359,
-      "name": "Charkha Chanan Da",
-      "url": "https://open.spotify.com/track/0xzWSIQUvzSZT49sucvUiO"
-    },
-    {
-      "added_at": "2026-01-13 11:20:11",
-      "album": {
         "name": "Chidiya Da Chamba",
         "url": "https://open.spotify.com/album/5mfXgnrBzf5e0kUlC6CoPl"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 293076,
       "name": "Chidiya Da Chamba",
       "url": "https://open.spotify.com/track/7AKaVhDuiQjcAYsUmqA7Gg"
+    },
+    {
+      "added_at": "2026-01-13 11:20:11",
+      "album": {
+        "name": "Charkha Chanan Da - Single",
+        "url": "https://open.spotify.com/album/0VwoU2f8ytfmsO4qdsU0db"
+      },
+      "artists": [
+        {
+          "name": "Vanitaa Pande",
+          "url": "https://open.spotify.com/artist/3eQvg7bacPWnBBn8rMjlZH"
+        }
+      ],
+      "duration_ms": 161359,
+      "name": "Charkha Chanan Da",
+      "url": "https://open.spotify.com/track/0xzWSIQUvzSZT49sucvUiO"
     },
     {
       "added_at": "2026-01-13 11:20:11",
@@ -919,18 +919,18 @@
     {
       "added_at": "2026-01-13 11:20:11",
       "album": {
-        "name": "Virsa Volume 2",
-        "url": "https://open.spotify.com/album/6KP8Y0FU1zfhz5cPMuGjIj"
+        "name": "Punjabi Folk Boliyan",
+        "url": "https://open.spotify.com/album/6tTzfqYgGphqYBAu1y3ijP"
       },
       "artists": [
         {
-          "name": "Jasbir Kaur",
-          "url": "https://open.spotify.com/artist/2aqqAXlGOXV2WdUxbl4uju"
+          "name": "Aabha Hanjura",
+          "url": "https://open.spotify.com/artist/2Q54hRFIUw0VBqGRyzma5P"
         }
       ],
-      "duration_ms": 175386,
-      "name": "Kala Shah Kala - Original",
-      "url": "https://open.spotify.com/track/3pBEKZBDGtiwvLURVaAbeO"
+      "duration_ms": 185472,
+      "name": "Punjabi Folk Boliyan",
+      "url": "https://open.spotify.com/track/4KVJYdubRM0owXUyZabLTR"
     }
   ],
   "unique_name": "Folk Punjabi",

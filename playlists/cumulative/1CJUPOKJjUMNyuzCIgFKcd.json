@@ -143,6 +143,28 @@
     },
     {
       "album": {
+        "name": "2C",
+        "url": "https://open.spotify.com/album/2SGKhKXp1aEFO4vfjcvKMi"
+      },
+      "artists": [
+        {
+          "name": "Chow Lee",
+          "url": "https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL"
+        },
+        {
+          "name": "Cash Cobain",
+          "url": "https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183606,
+      "name": "2C",
+      "url": "https://open.spotify.com/track/7KjI1Wfa0VJao6hufL43eq"
+    },
+    {
+      "album": {
         "name": "2GOOD4U",
         "url": "https://open.spotify.com/album/7nZNLY8vQLK1WGQY6MN0C6"
       },
@@ -1082,7 +1104,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 181500,
       "name": "Baller Blockin (feat. ALLBLACK & 22nd Jim)",
       "url": "https://open.spotify.com/track/0yZmUchFp5qtvPD89zzTB7"
@@ -2244,6 +2266,32 @@
       "duration_ms": 201142,
       "name": "Cheat On You",
       "url": "https://open.spotify.com/track/5eEujB7GCM34vovJBGCU50"
+    },
+    {
+      "album": {
+        "name": "Once Upon A Time: The Soundtrack",
+        "url": "https://open.spotify.com/album/4vGHElMgaRgarn4FJKNAfC"
+      },
+      "artists": [
+        {
+          "name": "Jay Worthy",
+          "url": "https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q"
+        },
+        {
+          "name": "Mozzy",
+          "url": "https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO"
+        },
+        {
+          "name": "Payroll Giovanni",
+          "url": "https://open.spotify.com/artist/6q2peHL8h2vUGvWNbsIjii"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147692,
+      "name": "Checkmate",
+      "url": "https://open.spotify.com/track/7sg3P4YdxnBHo4LYIjOmUP"
     },
     {
       "album": {
@@ -4195,6 +4243,54 @@
     },
     {
       "album": {
+        "name": "Most Hated 2",
+        "url": "https://open.spotify.com/album/6xQrmsJcsLLZnPfYErWuKW"
+      },
+      "artists": [
+        {
+          "name": "Fredo Bang",
+          "url": "https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173493,
+      "name": "Gates Flow 2 (She Don't Wanna)",
+      "url": "https://open.spotify.com/track/7DxOo87U0J785h5cWEEZ5z"
+    },
+    {
+      "album": {
+        "name": "Geek Squad",
+        "url": "https://open.spotify.com/album/62uwUYVKAOlfa7dnjahIen"
+      },
+      "artists": [
+        {
+          "name": "ShittyBoyz",
+          "url": "https://open.spotify.com/artist/0ztFqsZLzjkKU2aRyeqQ9S"
+        },
+        {
+          "name": "BabyTron",
+          "url": "https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk"
+        },
+        {
+          "name": "StanWill",
+          "url": "https://open.spotify.com/artist/0fvPHeXr0H4AMsxvO62DdX"
+        },
+        {
+          "name": "Trdee",
+          "url": "https://open.spotify.com/artist/48BxYnkFMs8KAXg23YTWXi"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185567,
+      "name": "Geek Squad",
+      "url": "https://open.spotify.com/track/4UQEWvWCRIC0UoNZlWCFM1"
+    },
+    {
+      "album": {
         "name": "Out On Bond Again",
         "url": "https://open.spotify.com/album/1o5ENTNPcko1wx4h1kZTlP"
       },
@@ -4496,6 +4592,24 @@
       "duration_ms": 188263,
       "name": "Gold",
       "url": "https://open.spotify.com/track/0BzX5iHjzOJw3j9xK4B5pq"
+    },
+    {
+      "album": {
+        "name": "gold on my body",
+        "url": "https://open.spotify.com/album/5CMxkTZRpnck6aCmvK1Z8x"
+      },
+      "artists": [
+        {
+          "name": "Big Sad 1900",
+          "url": "https://open.spotify.com/artist/6CPTMFjo7Sq3ACuzHsXVkt"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159380,
+      "name": "gold on my body",
+      "url": "https://open.spotify.com/track/6TGpJkbatGnrfzphgqNKpC"
     },
     {
       "album": {
@@ -8342,7 +8456,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 145655,
       "name": "Players Only",
       "url": "https://open.spotify.com/track/5UAXUSfQzF277L04K2ixkh"
@@ -9157,6 +9271,28 @@
     },
     {
       "album": {
+        "name": "DaysB4Bad*",
+        "url": "https://open.spotify.com/album/34O3GmCvXd2Ozttd7SHqKj"
+      },
+      "artists": [
+        {
+          "name": "LUCKI",
+          "url": "https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253545,
+      "name": "Sex Mula / Pete",
+      "url": "https://open.spotify.com/track/3GYHuDB41dr237iGsj6jQ8"
+    },
+    {
+      "album": {
         "name": "sex u up!",
         "url": "https://open.spotify.com/album/11bz0ZYd8aZ1dE7c1OzPHF"
       },
@@ -9490,6 +9626,24 @@
       "duration_ms": 190263,
       "name": "Slide Thru",
       "url": "https://open.spotify.com/track/7Izif41Is16gTL8hpWdf4V"
+    },
+    {
+      "album": {
+        "name": "Slow Rolling Sunrise",
+        "url": "https://open.spotify.com/album/5VsVYdrRXoBn9LIAHxAfDQ"
+      },
+      "artists": [
+        {
+          "name": "Josh Tatofi",
+          "url": "https://open.spotify.com/artist/5hlcYSbfgsN5kwxz0v70OJ"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192963,
+      "name": "Slow Rolling Sunrise",
+      "url": "https://open.spotify.com/track/7g8CLoWtVgMYDukAx63COc"
     },
     {
       "album": {
@@ -10306,6 +10460,24 @@
       "duration_ms": 178144,
       "name": "Thankful",
       "url": "https://open.spotify.com/track/7qop6iqUuvBWRE6ZJDoWya"
+    },
+    {
+      "album": {
+        "name": "That Girl",
+        "url": "https://open.spotify.com/album/5wKpbkgIh6Sclxf9HHbVzQ"
+      },
+      "artists": [
+        {
+          "name": "Borderline",
+          "url": "https://open.spotify.com/artist/2VHeXzEg1gCfwYf3oADlUQ"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199000,
+      "name": "That Girl",
+      "url": "https://open.spotify.com/track/5rREfj5UmmUea3Uq0Jre0k"
     },
     {
       "album": {
@@ -11217,6 +11389,24 @@
     },
     {
       "album": {
+        "name": "WAT WE ON",
+        "url": "https://open.spotify.com/album/1GnAnyjrxwAWP9Pohl1xdS"
+      },
+      "artists": [
+        {
+          "name": "Peewee Longway",
+          "url": "https://open.spotify.com/artist/0xTcxl35DKXUeYRWqY10w6"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138672,
+      "name": "WAT WE ON",
+      "url": "https://open.spotify.com/track/45dwmDUQh9BvLDTeHO2zPf"
+    },
+    {
+      "album": {
         "name": "Watchin'",
         "url": "https://open.spotify.com/album/6NaIvd2x10OkRfXB8KWivk"
       },
@@ -11526,7 +11716,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 201666,
       "name": "Who Coppin'",
       "url": "https://open.spotify.com/track/4hcMQJ8MInQQjm7r1sFBuv"
@@ -11630,7 +11820,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 152210,
       "name": "Why",
       "url": "https://open.spotify.com/track/5m7WSCHb0I8wBSAM0xAVOq"

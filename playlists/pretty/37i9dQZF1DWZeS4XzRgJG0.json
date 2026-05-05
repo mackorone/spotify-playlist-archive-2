@@ -1,6 +1,6 @@
 {
   "description": "focus modus is aan en leren maar",
-  "num_followers": 43041,
+  "num_followers": 43042,
   "original_name": "Studeermuziek",
   "owner": {
     "name": "Spotify",
@@ -115,22 +115,6 @@
     {
       "added_at": "2026-04-23 22:03:01",
       "album": {
-        "name": "Long Way Down (Deluxe)",
-        "url": "https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 244360,
-      "name": "Another Love",
-      "url": "https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO"
-    },
-    {
-      "added_at": "2026-04-23 22:03:01",
-      "album": {
         "name": "Bewitched",
         "url": "https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO"
       },
@@ -143,6 +127,22 @@
       "duration_ms": 169573,
       "name": "From The Start",
       "url": "https://open.spotify.com/track/43iIQbw5hx986dUEZbr3eN"
+    },
+    {
+      "added_at": "2026-04-23 22:03:01",
+      "album": {
+        "name": "Long Way Down (Deluxe)",
+        "url": "https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 244360,
+      "name": "Another Love",
+      "url": "https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO"
     },
     {
       "added_at": "2026-04-23 22:03:01",
@@ -211,18 +211,18 @@
     {
       "added_at": "2026-04-23 22:03:01",
       "album": {
-        "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
-        "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
+        "name": "Boston",
+        "url": "https://open.spotify.com/album/4YLIRb8DdBTXbgHiFLicH2"
       },
       "artists": [
         {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+          "name": "STELLA LEFTY",
+          "url": "https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2"
         }
       ],
-      "duration_ms": 196077,
-      "name": "when the party's over",
-      "url": "https://open.spotify.com/track/43zdsphuZLzwA9k4DJhU0I"
+      "duration_ms": 170859,
+      "name": "Boston",
+      "url": "https://open.spotify.com/track/36idurZmYRjJ56KQ8JD9bN"
     },
     {
       "added_at": "2026-04-23 22:03:01",
@@ -243,6 +243,22 @@
     {
       "added_at": "2026-04-23 22:03:01",
       "album": {
+        "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+        "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 196077,
+      "name": "when the party's over",
+      "url": "https://open.spotify.com/track/43zdsphuZLzwA9k4DJhU0I"
+    },
+    {
+      "added_at": "2026-04-23 22:03:01",
+      "album": {
         "name": "Back from the Edge",
         "url": "https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD"
       },
@@ -255,22 +271,6 @@
       "duration_ms": 211477,
       "name": "Say You Won't Let Go",
       "url": "https://open.spotify.com/track/5uCax9HTNlzGybIStD3vDh"
-    },
-    {
-      "added_at": "2026-04-23 22:03:01",
-      "album": {
-        "name": "Boston",
-        "url": "https://open.spotify.com/album/4YLIRb8DdBTXbgHiFLicH2"
-      },
-      "artists": [
-        {
-          "name": "STELLA LEFTY",
-          "url": "https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2"
-        }
-      ],
-      "duration_ms": 170859,
-      "name": "Boston",
-      "url": "https://open.spotify.com/track/36idurZmYRjJ56KQ8JD9bN"
     },
     {
       "added_at": "2026-04-23 22:03:01",
@@ -327,6 +327,22 @@
     {
       "added_at": "2026-04-23 22:03:01",
       "album": {
+        "name": "Narrated For You",
+        "url": "https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ"
+      },
+      "artists": [
+        {
+          "name": "Alec Benjamin",
+          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
+        }
+      ],
+      "duration_ms": 169353,
+      "name": "Let Me Down Slowly",
+      "url": "https://open.spotify.com/track/2qxmye6gAegTMjLKEBoR3d"
+    },
+    {
+      "added_at": "2026-04-23 22:03:01",
+      "album": {
         "name": "Icarus Falls",
         "url": "https://open.spotify.com/album/1DF9B2hfwX4EdgEFwGcRwh"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 239000,
       "name": "Dusk Till Dawn (feat. Sia) - Radio Edit",
       "url": "https://open.spotify.com/track/3e7sxremeOE3wTySiOhGiP"
-    },
-    {
-      "added_at": "2026-04-23 22:03:01",
-      "album": {
-        "name": "Narrated For You",
-        "url": "https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ"
-      },
-      "artists": [
-        {
-          "name": "Alec Benjamin",
-          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
-        }
-      ],
-      "duration_ms": 169353,
-      "name": "Let Me Down Slowly",
-      "url": "https://open.spotify.com/track/2qxmye6gAegTMjLKEBoR3d"
     },
     {
       "added_at": "2026-04-23 22:03:01",
@@ -675,8 +675,8 @@
     {
       "added_at": "2026-04-23 22:03:01",
       "album": {
-        "name": "\u00f7 (Deluxe)",
-        "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
+        "name": "+",
+        "url": "https://open.spotify.com/album/0W5GGnapMz0VwemQvJDqa7"
       },
       "artists": [
         {
@@ -684,9 +684,9 @@
           "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 221106,
-      "name": "Supermarket Flowers",
-      "url": "https://open.spotify.com/track/4VuS959DSpr82t3qBqCrWG"
+      "duration_ms": 258373,
+      "name": "The A Team",
+      "url": "https://open.spotify.com/track/1VdZ0vKfR5jneCmWIUAMxK"
     },
     {
       "added_at": "2026-04-23 22:03:01",
@@ -759,8 +759,8 @@
     {
       "added_at": "2026-04-23 22:03:01",
       "album": {
-        "name": "+",
-        "url": "https://open.spotify.com/album/0W5GGnapMz0VwemQvJDqa7"
+        "name": "\u00f7 (Deluxe)",
+        "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
       },
       "artists": [
         {
@@ -768,9 +768,9 @@
           "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 258373,
-      "name": "The A Team",
-      "url": "https://open.spotify.com/track/1VdZ0vKfR5jneCmWIUAMxK"
+      "duration_ms": 221106,
+      "name": "Supermarket Flowers",
+      "url": "https://open.spotify.com/track/4VuS959DSpr82t3qBqCrWG"
     },
     {
       "added_at": "2026-04-23 22:03:01",
@@ -807,22 +807,6 @@
     {
       "added_at": "2026-04-23 22:03:01",
       "album": {
-        "name": "Sideways",
-        "url": "https://open.spotify.com/album/6NlUyo5ZQoHaDexCvKMKNX"
-      },
-      "artists": [
-        {
-          "name": "ZAYN",
-          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
-        }
-      ],
-      "duration_ms": 192572,
-      "name": "Sideways",
-      "url": "https://open.spotify.com/track/6oddAlRHDuiFVDdUZJlrZ6"
-    },
-    {
-      "added_at": "2026-04-23 22:03:01",
-      "album": {
         "name": "Black Friday",
         "url": "https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp"
       },
@@ -855,6 +839,22 @@
     {
       "added_at": "2026-04-23 22:03:01",
       "album": {
+        "name": "Sideways",
+        "url": "https://open.spotify.com/album/6NlUyo5ZQoHaDexCvKMKNX"
+      },
+      "artists": [
+        {
+          "name": "ZAYN",
+          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
+        }
+      ],
+      "duration_ms": 192572,
+      "name": "Sideways",
+      "url": "https://open.spotify.com/track/6oddAlRHDuiFVDdUZJlrZ6"
+    },
+    {
+      "added_at": "2026-04-23 22:03:01",
+      "album": {
         "name": "Birdy",
         "url": "https://open.spotify.com/album/1WGjSVIw0TVfbp5KrOFiP0"
       },
@@ -867,54 +867,6 @@
       "duration_ms": 201080,
       "name": "Skinny Love",
       "url": "https://open.spotify.com/track/4RL77hMWUq35NYnPLXBpih"
-    },
-    {
-      "added_at": "2026-04-23 22:03:01",
-      "album": {
-        "name": "Piss In The Wind",
-        "url": "https://open.spotify.com/album/7MLyEn1CPizpS8bjZ7zzrT"
-      },
-      "artists": [
-        {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
-        }
-      ],
-      "duration_ms": 128986,
-      "name": "Hotel California",
-      "url": "https://open.spotify.com/track/0haXcqxsgfbGTq6OYjLyIs"
-    },
-    {
-      "added_at": "2026-04-23 22:03:01",
-      "album": {
-        "name": "Die For Me",
-        "url": "https://open.spotify.com/album/3sEuskgtxTNNvdJAsMk9kG"
-      },
-      "artists": [
-        {
-          "name": "ZAYN",
-          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
-        }
-      ],
-      "duration_ms": 180147,
-      "name": "Die For Me",
-      "url": "https://open.spotify.com/track/15tkKpcwBE3XJhaBdLPBKJ"
-    },
-    {
-      "added_at": "2026-04-23 22:03:01",
-      "album": {
-        "name": "BITE ME",
-        "url": "https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN"
-      },
-      "artists": [
-        {
-          "name": "Rene\u00e9 Rapp",
-          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
-        }
-      ],
-      "duration_ms": 143298,
-      "name": "I Think I Like You Better When You\u2019re Gone",
-      "url": "https://open.spotify.com/track/3hBzKgqQKkChH9hyb3MhmT"
     },
     {
       "added_at": "2026-04-23 22:03:01",
@@ -935,18 +887,34 @@
     {
       "added_at": "2026-04-23 22:03:01",
       "album": {
-        "name": "Not About Angels",
-        "url": "https://open.spotify.com/album/7DRvJhjucsH34zMXtEh0ER"
+        "name": "Piss In The Wind",
+        "url": "https://open.spotify.com/album/7MLyEn1CPizpS8bjZ7zzrT"
       },
       "artists": [
         {
-          "name": "Birdy",
-          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
         }
       ],
-      "duration_ms": 189475,
-      "name": "Not About Angels",
-      "url": "https://open.spotify.com/track/5sF7hdYvhrcgNq8NZjfK8L"
+      "duration_ms": 128986,
+      "name": "Hotel California",
+      "url": "https://open.spotify.com/track/0haXcqxsgfbGTq6OYjLyIs"
+    },
+    {
+      "added_at": "2026-04-23 22:03:01",
+      "album": {
+        "name": "BITE ME",
+        "url": "https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN"
+      },
+      "artists": [
+        {
+          "name": "Rene\u00e9 Rapp",
+          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
+        }
+      ],
+      "duration_ms": 143298,
+      "name": "I Think I Like You Better When You\u2019re Gone",
+      "url": "https://open.spotify.com/track/3hBzKgqQKkChH9hyb3MhmT"
     },
     {
       "added_at": "2026-04-23 22:03:01",
@@ -963,6 +931,38 @@
       "duration_ms": 260532,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/3nnG7AM9QopHVPEuLX3Khk"
+    },
+    {
+      "added_at": "2026-04-23 22:03:01",
+      "album": {
+        "name": "Not About Angels",
+        "url": "https://open.spotify.com/album/7DRvJhjucsH34zMXtEh0ER"
+      },
+      "artists": [
+        {
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+        }
+      ],
+      "duration_ms": 189475,
+      "name": "Not About Angels",
+      "url": "https://open.spotify.com/track/5sF7hdYvhrcgNq8NZjfK8L"
+    },
+    {
+      "added_at": "2026-04-23 22:03:01",
+      "album": {
+        "name": "Die For Me",
+        "url": "https://open.spotify.com/album/3sEuskgtxTNNvdJAsMk9kG"
+      },
+      "artists": [
+        {
+          "name": "ZAYN",
+          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
+        }
+      ],
+      "duration_ms": 180147,
+      "name": "Die For Me",
+      "url": "https://open.spotify.com/track/15tkKpcwBE3XJhaBdLPBKJ"
     },
     {
       "added_at": "2026-04-23 22:03:01",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2026-04-23 22:03:01",
       "album": {
-        "name": "My Regards",
-        "url": "https://open.spotify.com/album/5j242B2iACKvvgwUFs60t2"
-      },
-      "artists": [
-        {
-          "name": "Maisie Peters",
-          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
-        }
-      ],
-      "duration_ms": 191840,
-      "name": "My Regards",
-      "url": "https://open.spotify.com/track/52CDVCBt7tQI29r9ovQOJt"
-    },
-    {
-      "added_at": "2026-04-23 22:03:01",
-      "album": {
         "name": "Electric Light",
         "url": "https://open.spotify.com/album/08cprzGPjtLDvKMwtQh93R"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 181360,
       "name": "Us",
       "url": "https://open.spotify.com/track/16XiTUC2rQvb5lmtOm3FYY"
+    },
+    {
+      "added_at": "2026-04-23 22:03:01",
+      "album": {
+        "name": "My Regards",
+        "url": "https://open.spotify.com/album/5j242B2iACKvvgwUFs60t2"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "duration_ms": 191840,
+      "name": "My Regards",
+      "url": "https://open.spotify.com/track/52CDVCBt7tQI29r9ovQOJt"
     },
     {
       "added_at": "2026-04-23 22:03:01",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2026-04-23 22:03:01",
       "album": {
-        "name": "You're Somebody Else",
-        "url": "https://open.spotify.com/album/5BuS8meOLEcgGpdPPZfSgC"
-      },
-      "artists": [
-        {
-          "name": "flora cash",
-          "url": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
-        }
-      ],
-      "duration_ms": 218883,
-      "name": "You're Somebody Else",
-      "url": "https://open.spotify.com/track/0pdKRp2sUthTPe7RLWpPqQ"
-    },
-    {
-      "added_at": "2026-04-23 22:03:01",
-      "album": {
         "name": "July (feat. Leon Bridges)",
         "url": "https://open.spotify.com/album/3tRmxSQyoyXXwcVDcUFQic"
       },
@@ -1135,6 +1119,22 @@
     {
       "added_at": "2026-04-23 22:03:01",
       "album": {
+        "name": "You're Somebody Else",
+        "url": "https://open.spotify.com/album/5BuS8meOLEcgGpdPPZfSgC"
+      },
+      "artists": [
+        {
+          "name": "flora cash",
+          "url": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
+        }
+      ],
+      "duration_ms": 218883,
+      "name": "You're Somebody Else",
+      "url": "https://open.spotify.com/track/0pdKRp2sUthTPe7RLWpPqQ"
+    },
+    {
+      "added_at": "2026-04-23 22:03:01",
+      "album": {
         "name": "The Script",
         "url": "https://open.spotify.com/album/51Hn2Wiq1jmUfI0BLaUhuF"
       },
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2026-04-23 22:03:01",
       "album": {
-        "name": "Tonight",
-        "url": "https://open.spotify.com/album/3vdKcTeYb0JmsiBlyVDuTe"
-      },
-      "artists": [
-        {
-          "name": "girlsweetvoiced",
-          "url": "https://open.spotify.com/artist/5pQD8yR8sjmxwgZfLnZzmT"
-        }
-      ],
-      "duration_ms": 145710,
-      "name": "Tonight",
-      "url": "https://open.spotify.com/track/7DTqqSUuUhixiAv4nR0JQW"
-    },
-    {
-      "added_at": "2026-04-23 22:03:01",
-      "album": {
         "name": "The Twilight Saga: Breaking Dawn - Part 1 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2lkbTVYUYHXoXt17WXIAVc"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 285120,
       "name": "a thousand years",
       "url": "https://open.spotify.com/track/6z5Yh7kOKeLjqIsNdokIpU"
+    },
+    {
+      "added_at": "2026-04-23 22:03:01",
+      "album": {
+        "name": "Tonight",
+        "url": "https://open.spotify.com/album/3vdKcTeYb0JmsiBlyVDuTe"
+      },
+      "artists": [
+        {
+          "name": "girlsweetvoiced",
+          "url": "https://open.spotify.com/artist/5pQD8yR8sjmxwgZfLnZzmT"
+        }
+      ],
+      "duration_ms": 145710,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/7DTqqSUuUhixiAv4nR0JQW"
     },
     {
       "added_at": "2026-04-23 22:03:01",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2026-04-23 22:03:01",
       "album": {
-        "name": "My Lover",
-        "url": "https://open.spotify.com/album/2huUEfqWfvuCa2MZKuCBO9"
-      },
-      "artists": [
-        {
-          "name": "Claire Rosinkranz",
-          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
-        }
-      ],
-      "duration_ms": 196451,
-      "name": "City",
-      "url": "https://open.spotify.com/track/1nSEAxK0L8z5pJiCnhMMqX"
-    },
-    {
-      "added_at": "2026-04-23 22:03:01",
-      "album": {
         "name": "Get Weird (Expanded Edition)",
         "url": "https://open.spotify.com/album/2FnfZiFMv7bmXAIATOJDHs"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 155205,
       "name": "Teenage Mind",
       "url": "https://open.spotify.com/track/1vdjJ55uw3WOuu7ZSyABFP"
+    },
+    {
+      "added_at": "2026-04-23 22:03:01",
+      "album": {
+        "name": "My Lover",
+        "url": "https://open.spotify.com/album/2huUEfqWfvuCa2MZKuCBO9"
+      },
+      "artists": [
+        {
+          "name": "Claire Rosinkranz",
+          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
+        }
+      ],
+      "duration_ms": 196451,
+      "name": "City",
+      "url": "https://open.spotify.com/track/1nSEAxK0L8z5pJiCnhMMqX"
     },
     {
       "added_at": "2026-04-23 22:03:01",
@@ -1427,18 +1427,18 @@
     {
       "added_at": "2026-04-23 22:03:01",
       "album": {
-        "name": "Are You With Me",
-        "url": "https://open.spotify.com/album/4VpZ0Le2LUhUYERoNUtRZd"
+        "name": "Woman I Am",
+        "url": "https://open.spotify.com/album/2sgEblpbAegLtRuCpHJl70"
       },
       "artists": [
         {
-          "name": "nilu",
-          "url": "https://open.spotify.com/artist/1XplrA4Q9dPFcayYbJqX6K"
+          "name": "Skye Newman",
+          "url": "https://open.spotify.com/artist/4UoEzpWZrFWvlGYOzTEn1M"
         }
       ],
-      "duration_ms": 249661,
-      "name": "Are You With Me",
-      "url": "https://open.spotify.com/track/401MfYscl2EMF4nDbnbG0K"
+      "duration_ms": 211078,
+      "name": "Woman I Am",
+      "url": "https://open.spotify.com/track/7JDJimCnfNpiReuMNPXIVJ"
     },
     {
       "added_at": "2026-04-23 22:03:01",
@@ -1459,18 +1459,18 @@
     {
       "added_at": "2026-04-23 22:03:01",
       "album": {
-        "name": "Woman I Am",
-        "url": "https://open.spotify.com/album/2sgEblpbAegLtRuCpHJl70"
+        "name": "Are You With Me",
+        "url": "https://open.spotify.com/album/4VpZ0Le2LUhUYERoNUtRZd"
       },
       "artists": [
         {
-          "name": "Skye Newman",
-          "url": "https://open.spotify.com/artist/4UoEzpWZrFWvlGYOzTEn1M"
+          "name": "nilu",
+          "url": "https://open.spotify.com/artist/1XplrA4Q9dPFcayYbJqX6K"
         }
       ],
-      "duration_ms": 211078,
-      "name": "Woman I Am",
-      "url": "https://open.spotify.com/track/7JDJimCnfNpiReuMNPXIVJ"
+      "duration_ms": 249661,
+      "name": "Are You With Me",
+      "url": "https://open.spotify.com/track/401MfYscl2EMF4nDbnbG0K"
     },
     {
       "added_at": "2026-04-23 22:03:01",
@@ -1851,22 +1851,6 @@
     {
       "added_at": "2026-04-23 22:03:01",
       "album": {
-        "name": "Bathroom Floor",
-        "url": "https://open.spotify.com/album/0L1NH4UV8rgpGo7kW948X8"
-      },
-      "artists": [
-        {
-          "name": "Isabel van Gelder",
-          "url": "https://open.spotify.com/artist/4FAFRhpZUK7DnI1VWX2STP"
-        }
-      ],
-      "duration_ms": 176634,
-      "name": "Bathroom Floor",
-      "url": "https://open.spotify.com/track/3QFFda4IODSKbT839NW6BR"
-    },
-    {
-      "added_at": "2026-04-23 22:03:01",
-      "album": {
         "name": "self-made woman",
         "url": "https://open.spotify.com/album/5vdrn0jRVKst5tjlDo5Jpc"
       },
@@ -1879,6 +1863,22 @@
       "duration_ms": 217916,
       "name": "self-made woman",
       "url": "https://open.spotify.com/track/3DX10E6qoh0IzU0AOd3WWO"
+    },
+    {
+      "added_at": "2026-04-23 22:03:01",
+      "album": {
+        "name": "Bathroom Floor",
+        "url": "https://open.spotify.com/album/0L1NH4UV8rgpGo7kW948X8"
+      },
+      "artists": [
+        {
+          "name": "Isabel van Gelder",
+          "url": "https://open.spotify.com/artist/4FAFRhpZUK7DnI1VWX2STP"
+        }
+      ],
+      "duration_ms": 176634,
+      "name": "Bathroom Floor",
+      "url": "https://open.spotify.com/track/3QFFda4IODSKbT839NW6BR"
     },
     {
       "added_at": "2026-04-23 22:03:01",
@@ -2315,22 +2315,6 @@
     {
       "added_at": "2026-04-23 22:03:01",
       "album": {
-        "name": "Dancing On My Own",
-        "url": "https://open.spotify.com/album/5Hq4LcmCQ6BP3kM8J5lgga"
-      },
-      "artists": [
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        }
-      ],
-      "duration_ms": 260004,
-      "name": "Dancing On My Own",
-      "url": "https://open.spotify.com/track/02WacdrRpm4zlP8H7X6bnQ"
-    },
-    {
-      "added_at": "2026-04-23 22:03:01",
-      "album": {
         "name": "hopeless fountain kingdom (Deluxe)",
         "url": "https://open.spotify.com/album/7GjG91tyHQNGEHzKJaqOi0"
       },
@@ -2359,6 +2343,22 @@
       "duration_ms": 228442,
       "name": "Happiest Year",
       "url": "https://open.spotify.com/track/5kcvBnt6DPX3AMEsCx1qDh"
+    },
+    {
+      "added_at": "2026-04-23 22:03:01",
+      "album": {
+        "name": "Dancing On My Own",
+        "url": "https://open.spotify.com/album/5Hq4LcmCQ6BP3kM8J5lgga"
+      },
+      "artists": [
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "duration_ms": 260004,
+      "name": "Dancing On My Own",
+      "url": "https://open.spotify.com/track/02WacdrRpm4zlP8H7X6bnQ"
     },
     {
       "added_at": "2026-04-23 22:03:01",
@@ -2459,22 +2459,6 @@
     {
       "added_at": "2026-04-23 22:03:01",
       "album": {
-        "name": "IDK You Yet",
-        "url": "https://open.spotify.com/album/2BcmdSV1kyss7KFuSpobeS"
-      },
-      "artists": [
-        {
-          "name": "Alexander 23",
-          "url": "https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag"
-        }
-      ],
-      "duration_ms": 184638,
-      "name": "IDK You Yet",
-      "url": "https://open.spotify.com/track/47EWMOElkkbMp5m9SBkx7d"
-    },
-    {
-      "added_at": "2026-04-23 22:03:01",
-      "album": {
         "name": "July",
         "url": "https://open.spotify.com/album/2YQptVBjUJeIOBavD1AyXg"
       },
@@ -2491,18 +2475,18 @@
     {
       "added_at": "2026-04-23 22:03:01",
       "album": {
-        "name": "In The Lonely Hour (Drowning Shadows Edition)",
-        "url": "https://open.spotify.com/album/0kJbDT8VGMScK8YDzNNvzV"
+        "name": "IDK You Yet",
+        "url": "https://open.spotify.com/album/2BcmdSV1kyss7KFuSpobeS"
       },
       "artists": [
         {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+          "name": "Alexander 23",
+          "url": "https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag"
         }
       ],
-      "duration_ms": 239316,
-      "name": "I'm Not The Only One",
-      "url": "https://open.spotify.com/track/5WLtenwEwifJHYTUw514RH"
+      "duration_ms": 184638,
+      "name": "IDK You Yet",
+      "url": "https://open.spotify.com/track/47EWMOElkkbMp5m9SBkx7d"
     },
     {
       "added_at": "2026-04-23 22:03:01",
@@ -2519,6 +2503,22 @@
       "duration_ms": 222041,
       "name": "Nothing Really Matters",
       "url": "https://open.spotify.com/track/7fWSIddv6LJG8ZXJFNVQyi"
+    },
+    {
+      "added_at": "2026-04-23 22:03:01",
+      "album": {
+        "name": "In The Lonely Hour (Drowning Shadows Edition)",
+        "url": "https://open.spotify.com/album/0kJbDT8VGMScK8YDzNNvzV"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 239316,
+      "name": "I'm Not The Only One",
+      "url": "https://open.spotify.com/track/5WLtenwEwifJHYTUw514RH"
     },
     {
       "added_at": "2026-04-23 22:03:01",
@@ -2555,22 +2555,6 @@
     {
       "added_at": "2026-04-23 22:03:01",
       "album": {
-        "name": "Purpose (Deluxe)",
-        "url": "https://open.spotify.com/album/7fZH0aUAjY3ay25obOUf2a"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 210160,
-      "name": "Purpose",
-      "url": "https://open.spotify.com/track/3jHCXrZNz8fQEEf4BpWCAj"
-    },
-    {
-      "added_at": "2026-04-23 22:03:01",
-      "album": {
         "name": "Feline (Deluxe)",
         "url": "https://open.spotify.com/album/0AbUYFSGVNegJoajijrRvM"
       },
@@ -2583,6 +2567,22 @@
       "duration_ms": 236293,
       "name": "We Don't Have To Take Our Clothes Off",
       "url": "https://open.spotify.com/track/61iyAeMVUNu7vIVqedsBFB"
+    },
+    {
+      "added_at": "2026-04-23 22:03:01",
+      "album": {
+        "name": "Purpose (Deluxe)",
+        "url": "https://open.spotify.com/album/7fZH0aUAjY3ay25obOUf2a"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 210160,
+      "name": "Purpose",
+      "url": "https://open.spotify.com/track/3jHCXrZNz8fQEEf4BpWCAj"
     },
     {
       "added_at": "2026-04-23 22:03:01",

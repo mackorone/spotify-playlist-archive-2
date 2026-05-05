@@ -1,6 +1,6 @@
 {
   "description": "Release the bats... The Cure on cover.",
-  "num_followers": 954012,
+  "num_followers": 954119,
   "original_name": "Dark & Gothic",
   "owner": {
     "name": "Spotify",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2026-03-20 04:00:51",
       "album": {
-        "name": "Song and Legend",
-        "url": "https://open.spotify.com/album/4AZXDsUymhraKcuJGI5mTA"
-      },
-      "artists": [
-        {
-          "name": "Sex Gang Children",
-          "url": "https://open.spotify.com/artist/3tiiwyBskzJAqYXZev7OjF"
-        }
-      ],
-      "duration_ms": 193720,
-      "name": "Sebastiane",
-      "url": "https://open.spotify.com/track/48Val8qkmAPc5VQjhaIMOT"
-    },
-    {
-      "added_at": "2026-03-20 04:00:51",
-      "album": {
         "name": "Deep",
         "url": "https://open.spotify.com/album/63VVK15ZBJI5TZu525KTVa"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 249773,
       "name": "Deep Ocean Vast Sea",
       "url": "https://open.spotify.com/track/7co4RSDiDepap0EOT9koe2"
+    },
+    {
+      "added_at": "2026-03-20 04:00:51",
+      "album": {
+        "name": "Song and Legend",
+        "url": "https://open.spotify.com/album/4AZXDsUymhraKcuJGI5mTA"
+      },
+      "artists": [
+        {
+          "name": "Sex Gang Children",
+          "url": "https://open.spotify.com/artist/3tiiwyBskzJAqYXZev7OjF"
+        }
+      ],
+      "duration_ms": 193720,
+      "name": "Sebastiane",
+      "url": "https://open.spotify.com/track/48Val8qkmAPc5VQjhaIMOT"
     },
     {
       "added_at": "2026-03-20 04:00:51",

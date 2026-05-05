@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0DnkVH.md) - [plain]
 
 > This is Kate Bush\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,653 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,674 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,24 +39,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0DnkVH.md) - [plain]
 | 29 | [Somewhere In Between \- 2018 Remaster](https://open.spotify.com/track/49nRB16eio3crw2VprMRHG) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Aerial \(2018 Remaster\)](https://open.spotify.com/album/6EK8l8rFuMpAn27TNOCwsH) | 5:04 |
 | 30 | [Hammer Horror](https://open.spotify.com/track/1OeyUaxsSWYqJEzH81X3ue) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Lionheart](https://open.spotify.com/album/7qeRejAsyqrM1hw3LwVPYp) | 4:39 |
 | 31 | [Love And Anger \- 2018 Remaster](https://open.spotify.com/track/1u72fgtF6guGfTjwgeHvdQ) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Sensual World \(2018 Remaster\)](https://open.spotify.com/album/5EyDvOit9McsAc9ao1QROt) | 4:42 |
-| 32 | [Under The Ivy](https://open.spotify.com/track/7iHwqxpR1ZH1fl90n4fjOf) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Best Of The Other Sides](https://open.spotify.com/album/2b5xbQveJPnV8ingqoTpgz) | 2:08 |
-| 33 | [The Dreaming](https://open.spotify.com/track/2pl1aMLPcte0dHWHSJ1mr0) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Dreaming](https://open.spotify.com/album/2dR2ZmzPqVoBK9vxHNjEUo) | 4:13 |
-| 34 | [The Red Shoes \- 2018 Remaster](https://open.spotify.com/track/76ubKdQE7qRmHz0iZTmr0Q) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Red Shoes \(2018 Remaster\)](https://open.spotify.com/album/27TbJTUMdvnorsqXZzVQP6) | 4:02 |
+| 32 | [The Dreaming](https://open.spotify.com/track/2pl1aMLPcte0dHWHSJ1mr0) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Dreaming](https://open.spotify.com/album/2dR2ZmzPqVoBK9vxHNjEUo) | 4:13 |
+| 33 | [Aerial Tal \- 2018 Remaster](https://open.spotify.com/track/2n2D35EgoIHB2SCXOzlIjL) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Aerial \(2018 Remaster\)](https://open.spotify.com/album/6EK8l8rFuMpAn27TNOCwsH) | 1:01 |
+| 34 | [Under The Ivy](https://open.spotify.com/track/7iHwqxpR1ZH1fl90n4fjOf) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Best Of The Other Sides](https://open.spotify.com/album/2b5xbQveJPnV8ingqoTpgz) | 2:08 |
 | 35 | [Never Be Mine \- 2018 Remaster](https://open.spotify.com/track/1E504bXgCNV66KqvWGGgVo) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Sensual World \(2018 Remaster\)](https://open.spotify.com/album/5EyDvOit9McsAc9ao1QROt) | 3:44 |
 | 36 | [In Search of Peter Pan \- 2018 Remaster](https://open.spotify.com/track/3dbKMKZjmjYaFfW5KdRN8q) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Lionheart \(2018 Remaster\)](https://open.spotify.com/album/2CRirDu87zmvr01X8MkcQ8) | 3:47 |
 | 37 | [Nocturn \- 2018 Remaster](https://open.spotify.com/track/72PLLUXivN0B79cmjcqJgo) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Aerial \(2018 Remaster\)](https://open.spotify.com/album/6EK8l8rFuMpAn27TNOCwsH) | 8:29 |
-| 38 | [Rubberband Girl \- 2018 Remaster](https://open.spotify.com/track/0BYdxsa0Ct2GH83cNaEkq1) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Red Shoes \(2018 Remaster\)](https://open.spotify.com/album/27TbJTUMdvnorsqXZzVQP6) | 4:43 |
+| 38 | [The Red Shoes \- 2018 Remaster](https://open.spotify.com/track/76ubKdQE7qRmHz0iZTmr0Q) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Red Shoes \(2018 Remaster\)](https://open.spotify.com/album/27TbJTUMdvnorsqXZzVQP6) | 4:02 |
 | 39 | [Rocket Man](https://open.spotify.com/track/2DYOj01jENtD95hQzQywHI) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Best Of The Other Sides](https://open.spotify.com/album/2b5xbQveJPnV8ingqoTpgz) | 4:59 |
 | 40 | [Night Of The Swallow](https://open.spotify.com/track/0GxUznsPADwZOXwluZTHnj) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Dreaming](https://open.spotify.com/album/2dR2ZmzPqVoBK9vxHNjEUo) | 5:23 |
-| 41 | [Aerial Tal \- 2018 Remaster](https://open.spotify.com/track/2n2D35EgoIHB2SCXOzlIjL) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Aerial \(2018 Remaster\)](https://open.spotify.com/album/6EK8l8rFuMpAn27TNOCwsH) | 1:01 |
-| 42 | [Moments Of Pleasure \- 2011 Remastered Version](https://open.spotify.com/track/6MNhr7oVi9UrnnKlB1TqGx) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Red Shoes](https://open.spotify.com/album/1YFk4j3zQGogLjOC5YZ19i) | 5:17 |
-| 43 | [Experiment IV \- Remastered 2025](https://open.spotify.com/track/6DL2DNCbzQiqQ8DhKqgRrf) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Best Of The Other Sides](https://open.spotify.com/album/2b5xbQveJPnV8ingqoTpgz) | 4:54 |
-| 44 | [Houdini \- 2018 Remaster](https://open.spotify.com/track/18hSVEiQxA9mbIq23fyNfz) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Dreaming \(2018 Remaster\)](https://open.spotify.com/album/2cRwYvvGigsHqk63ZGfuI2) | 3:49 |
-| 45 | [Prelude \- 2018 Remaster](https://open.spotify.com/track/2Z6ynWKfXbp66zGf5GSbyD) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Aerial \(2018 Remaster\)](https://open.spotify.com/album/6EK8l8rFuMpAn27TNOCwsH) | 1:25 |
-| 46 | [The Fog \- 2018 Remaster](https://open.spotify.com/track/3rK7yfxpPDOZnZlXf2XEag) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Sensual World \(2018 Remaster\)](https://open.spotify.com/album/5EyDvOit9McsAc9ao1QROt) | 5:06 |
-| 47 | [Snowflake](https://open.spotify.com/track/7o53vC5HqQpTBDzGTMNMzW) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [50 Words for Snow](https://open.spotify.com/album/0CnpU8D00V1mfJeOt7tsqB) | 9:46 |
-| 48 | [Mná na hÉireann](https://open.spotify.com/track/0FceQXr3vhS0J3KnGwuBcp) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Best Of The Other Sides](https://open.spotify.com/album/2b5xbQveJPnV8ingqoTpgz) | 2:56 |
-| 49 | [Prologue \- 2018 Remaster](https://open.spotify.com/track/1xcKLHQ4KcI5rtFOsZusTv) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Aerial \(2018 Remaster\)](https://open.spotify.com/album/6EK8l8rFuMpAn27TNOCwsH) | 5:41 |
-| 50 | [Deeper Understanding \- 2018 Remaster](https://open.spotify.com/track/0IYowUndxZq0g05YBz2f7H) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Sensual World \(2018 Remaster\)](https://open.spotify.com/album/5EyDvOit9McsAc9ao1QROt) | 4:45 |
+| 41 | [Prelude \- 2018 Remaster](https://open.spotify.com/track/2Z6ynWKfXbp66zGf5GSbyD) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Aerial \(2018 Remaster\)](https://open.spotify.com/album/6EK8l8rFuMpAn27TNOCwsH) | 1:25 |
+| 42 | [Rubberband Girl \- 2018 Remaster](https://open.spotify.com/track/0BYdxsa0Ct2GH83cNaEkq1) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Red Shoes \(2018 Remaster\)](https://open.spotify.com/album/27TbJTUMdvnorsqXZzVQP6) | 4:43 |
+| 43 | [Moments Of Pleasure \- 2011 Remastered Version](https://open.spotify.com/track/6MNhr7oVi9UrnnKlB1TqGx) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Red Shoes](https://open.spotify.com/album/1YFk4j3zQGogLjOC5YZ19i) | 5:17 |
+| 44 | [Experiment IV \- Remastered 2025](https://open.spotify.com/track/6DL2DNCbzQiqQ8DhKqgRrf) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Best Of The Other Sides](https://open.spotify.com/album/2b5xbQveJPnV8ingqoTpgz) | 4:54 |
+| 45 | [Prologue \- 2018 Remaster](https://open.spotify.com/track/1xcKLHQ4KcI5rtFOsZusTv) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Aerial \(2018 Remaster\)](https://open.spotify.com/album/6EK8l8rFuMpAn27TNOCwsH) | 5:41 |
+| 46 | [Houdini \- 2018 Remaster](https://open.spotify.com/track/18hSVEiQxA9mbIq23fyNfz) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Dreaming \(2018 Remaster\)](https://open.spotify.com/album/2cRwYvvGigsHqk63ZGfuI2) | 3:49 |
+| 47 | [The Fog \- 2018 Remaster](https://open.spotify.com/track/3rK7yfxpPDOZnZlXf2XEag) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Sensual World \(2018 Remaster\)](https://open.spotify.com/album/5EyDvOit9McsAc9ao1QROt) | 5:06 |
+| 48 | [Snowflake](https://open.spotify.com/track/7o53vC5HqQpTBDzGTMNMzW) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [50 Words for Snow](https://open.spotify.com/album/0CnpU8D00V1mfJeOt7tsqB) | 9:46 |
+| 49 | [Oh England My Lionheart \- 2018 Remaster](https://open.spotify.com/track/1x8tSDNiQQdGSljjcsOOus) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Lionheart \(2018 Remaster\)](https://open.spotify.com/album/2CRirDu87zmvr01X8MkcQ8) | 3:12 |
+| 50 | [Mná na hÉireann](https://open.spotify.com/track/0FceQXr3vhS0J3KnGwuBcp) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Best Of The Other Sides](https://open.spotify.com/album/2b5xbQveJPnV8ingqoTpgz) | 2:56 |
 
-Snapshot ID: `afU+gAAAAAAHHw2Th56USJYw1J3fpv0T`
+Snapshot ID: `afaQAAAAAAAE0FcIFQ6SVjPdpqqRi05Y`

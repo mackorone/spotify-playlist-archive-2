@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 154846,
+  "num_followers": 154842,
   "original_name": "Sons da Natureza",
   "owner": {
     "name": "Spotify",
@@ -251,6 +251,22 @@
     {
       "added_at": "2026-04-02 09:58:26",
       "album": {
+        "name": "Natural Forest Quiet",
+        "url": "https://open.spotify.com/album/4vGRrXTak44ULC7tS2v25Q"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Gutierrez G.",
+          "url": "https://open.spotify.com/artist/5blyFWCmmsbLdxQVRARv6x"
+        }
+      ],
+      "duration_ms": 148400,
+      "name": "Natural Forest Quiet",
+      "url": "https://open.spotify.com/track/7pY9vYk2s9VTggqqPQ9kI2"
+    },
+    {
+      "added_at": "2026-04-02 09:58:26",
+      "album": {
         "name": "Soothing Rain Songs",
         "url": "https://open.spotify.com/album/15CC9woREqBQPmVNOIfoQg"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 187466,
       "name": "Rain in the Andorran Forest",
       "url": "https://open.spotify.com/track/7BOmtKLiQX5yqk2Qji1X03"
-    },
-    {
-      "added_at": "2026-04-02 09:58:26",
-      "album": {
-        "name": "Natural Forest Quiet",
-        "url": "https://open.spotify.com/album/4vGRrXTak44ULC7tS2v25Q"
-      },
-      "artists": [
-        {
-          "name": "Nicolas Gutierrez G.",
-          "url": "https://open.spotify.com/artist/5blyFWCmmsbLdxQVRARv6x"
-        }
-      ],
-      "duration_ms": 148400,
-      "name": "Natural Forest Quiet",
-      "url": "https://open.spotify.com/track/7pY9vYk2s9VTggqqPQ9kI2"
     },
     {
       "added_at": "2026-04-02 09:58:26",
@@ -335,22 +335,6 @@
     {
       "added_at": "2026-04-02 09:58:26",
       "album": {
-        "name": "The Sound Of Rain",
-        "url": "https://open.spotify.com/album/4GarWDiMBHvz8hQudi2Ql4"
-      },
-      "artists": [
-        {
-          "name": "Accuweather",
-          "url": "https://open.spotify.com/artist/2Y7k2YqDWE9s1eSuQlaWNi"
-        }
-      ],
-      "duration_ms": 145500,
-      "name": "Magical Rainforest",
-      "url": "https://open.spotify.com/track/5gKbTObGEDjqpB6pTzu1Ht"
-    },
-    {
-      "added_at": "2026-04-02 09:58:26",
-      "album": {
         "name": "Peaceful Rain Recordings",
         "url": "https://open.spotify.com/album/4DlF8SX13AdB37uKVgMziM"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 170000,
       "name": "Forest Rain",
       "url": "https://open.spotify.com/track/6ADPydLM8fmi6fjO9ZXAb8"
+    },
+    {
+      "added_at": "2026-04-02 09:58:26",
+      "album": {
+        "name": "The Sound Of Rain",
+        "url": "https://open.spotify.com/album/4GarWDiMBHvz8hQudi2Ql4"
+      },
+      "artists": [
+        {
+          "name": "Accuweather",
+          "url": "https://open.spotify.com/artist/2Y7k2YqDWE9s1eSuQlaWNi"
+        }
+      ],
+      "duration_ms": 145500,
+      "name": "Magical Rainforest",
+      "url": "https://open.spotify.com/track/5gKbTObGEDjqpB6pTzu1Ht"
     },
     {
       "added_at": "2026-04-02 09:58:26",
@@ -419,22 +419,6 @@
     {
       "added_at": "2026-04-02 09:58:26",
       "album": {
-        "name": "The Millpond XI",
-        "url": "https://open.spotify.com/album/26YJnlSqCFh2jdkCql4hMh"
-      },
-      "artists": [
-        {
-          "name": "Elberry",
-          "url": "https://open.spotify.com/artist/3HcvBTK8MOcYl9cVEg45vP"
-        }
-      ],
-      "duration_ms": 125610,
-      "name": "The Millpond XI",
-      "url": "https://open.spotify.com/track/3eeuBEStklq9Kjf7Bknx8K"
-    },
-    {
-      "added_at": "2026-04-02 09:58:26",
-      "album": {
         "name": "Small River Stream in the Jungle",
         "url": "https://open.spotify.com/album/0S5qW479HpIwdekAYTFbcj"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 281792,
       "name": "Small River Stream in the Jungle",
       "url": "https://open.spotify.com/track/48iKn7tBRTh1iE0HSd9kSJ"
+    },
+    {
+      "added_at": "2026-04-02 09:58:26",
+      "album": {
+        "name": "The Millpond XI",
+        "url": "https://open.spotify.com/album/26YJnlSqCFh2jdkCql4hMh"
+      },
+      "artists": [
+        {
+          "name": "Elberry",
+          "url": "https://open.spotify.com/artist/3HcvBTK8MOcYl9cVEg45vP"
+        }
+      ],
+      "duration_ms": 125610,
+      "name": "The Millpond XI",
+      "url": "https://open.spotify.com/track/3eeuBEStklq9Kjf7Bknx8K"
     },
     {
       "added_at": "2026-04-02 09:58:26",
@@ -583,6 +583,22 @@
     {
       "added_at": "2026-04-02 09:58:26",
       "album": {
+        "name": "Jungle Midnight Calm, Borneo",
+        "url": "https://open.spotify.com/album/6bHAVMbGHxv0dx4BZnSk8b"
+      },
+      "artists": [
+        {
+          "name": "Naoxos",
+          "url": "https://open.spotify.com/artist/3rOQCk7GXQhyVt0GPDzOGn"
+        }
+      ],
+      "duration_ms": 155573,
+      "name": "Jungle Midnight Calm, Borneo",
+      "url": "https://open.spotify.com/track/2rIFfdTbET7IDjZjIcGFy4"
+    },
+    {
+      "added_at": "2026-04-02 09:58:26",
+      "album": {
         "name": "Still the River Flows",
         "url": "https://open.spotify.com/album/4bc5XFLY6bQ53TB4seBef0"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 153488,
       "name": "Still the River Flows",
       "url": "https://open.spotify.com/track/45oRTAt9cy1PHglZfBlG5P"
-    },
-    {
-      "added_at": "2026-04-02 09:58:26",
-      "album": {
-        "name": "Spring Birds",
-        "url": "https://open.spotify.com/album/4kYNRxa2LdgTQbChn0jasg"
-      },
-      "artists": [
-        {
-          "name": "Nano Sounds",
-          "url": "https://open.spotify.com/artist/3hbAGbjrJ4esXMyjnzODz7"
-        }
-      ],
-      "duration_ms": 176100,
-      "name": "Relaxing Bird Sounds",
-      "url": "https://open.spotify.com/track/1Ar63CC2YckvPzXe5OLtPl"
     },
     {
       "added_at": "2026-04-02 09:58:26",
@@ -631,18 +631,18 @@
     {
       "added_at": "2026-04-02 09:58:26",
       "album": {
-        "name": "Jungle Midnight Calm, Borneo",
-        "url": "https://open.spotify.com/album/6bHAVMbGHxv0dx4BZnSk8b"
+        "name": "Spring Birds",
+        "url": "https://open.spotify.com/album/4kYNRxa2LdgTQbChn0jasg"
       },
       "artists": [
         {
-          "name": "Naoxos",
-          "url": "https://open.spotify.com/artist/3rOQCk7GXQhyVt0GPDzOGn"
+          "name": "Nano Sounds",
+          "url": "https://open.spotify.com/artist/3hbAGbjrJ4esXMyjnzODz7"
         }
       ],
-      "duration_ms": 155573,
-      "name": "Jungle Midnight Calm, Borneo",
-      "url": "https://open.spotify.com/track/2rIFfdTbET7IDjZjIcGFy4"
+      "duration_ms": 176100,
+      "name": "Relaxing Bird Sounds",
+      "url": "https://open.spotify.com/track/1Ar63CC2YckvPzXe5OLtPl"
     },
     {
       "added_at": "2026-04-02 09:58:26",
@@ -795,22 +795,6 @@
     {
       "added_at": "2026-04-02 09:58:26",
       "album": {
-        "name": "Country Birds",
-        "url": "https://open.spotify.com/album/4K0Z364YnLtxwKYl6Z3ioA"
-      },
-      "artists": [
-        {
-          "name": "Hinterl\u00e4nder",
-          "url": "https://open.spotify.com/artist/50x44UHcyqCmA1INB7LcLI"
-        }
-      ],
-      "duration_ms": 142000,
-      "name": "Pretty Birds",
-      "url": "https://open.spotify.com/track/4BNobzfaqRaiVhJCEVBBR1"
-    },
-    {
-      "added_at": "2026-04-02 09:58:26",
-      "album": {
         "name": "Bird Life",
         "url": "https://open.spotify.com/album/2ycYa4LRKTCXRa1lu8gCiL"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 146000,
       "name": "Bird Life",
       "url": "https://open.spotify.com/track/5I9JyCa5yjW8p3K5CUXIrH"
+    },
+    {
+      "added_at": "2026-04-02 09:58:26",
+      "album": {
+        "name": "Country Birds",
+        "url": "https://open.spotify.com/album/4K0Z364YnLtxwKYl6Z3ioA"
+      },
+      "artists": [
+        {
+          "name": "Hinterl\u00e4nder",
+          "url": "https://open.spotify.com/artist/50x44UHcyqCmA1INB7LcLI"
+        }
+      ],
+      "duration_ms": 142000,
+      "name": "Pretty Birds",
+      "url": "https://open.spotify.com/track/4BNobzfaqRaiVhJCEVBBR1"
     }
   ],
   "unique_name": "Sons da Natureza",

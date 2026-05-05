@@ -1,12 +1,12 @@
 {
   "description": "This is \u00c1ngela Aguilar. The essential tracks, all in one playlist.",
-  "num_followers": 151755,
+  "num_followers": 151748,
   "original_name": "This Is \u00c1ngela Aguilar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afU+gAAAAAC2Hjl9Bi1v6lPlpXfZANyr",
+  "snapshot_id": "afaQAAAAAACiQZKofgqOGmHyNNdoVuSo",
   "tracks": [
     {
       "added_at": null,
@@ -103,26 +103,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Abr\u00e1zame",
-        "url": "https://open.spotify.com/album/2YZnqChmcKcsTS6tTg0fuL"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        },
-        {
-          "name": "Felipe Botello y El Sonoro Rugir",
-          "url": "https://open.spotify.com/artist/1IcvjLbT3CPDoGPwpycAvr"
-        }
-      ],
-      "duration_ms": 199200,
-      "name": "Abr\u00e1zame",
-      "url": "https://open.spotify.com/track/5RvmmRCoZY1Yupl3PXgZm4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "AYAYAY! (S\u00faper Deluxe)",
         "url": "https://open.spotify.com/album/1OlyomFZOv4Lx22rs4lBMw"
       },
@@ -139,6 +119,26 @@
       "duration_ms": 171360,
       "name": "Dime C\u00f3mo Quieres",
       "url": "https://open.spotify.com/track/4jcxBTrNvyqMJdMDyyjdYV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Abr\u00e1zame",
+        "url": "https://open.spotify.com/album/2YZnqChmcKcsTS6tTg0fuL"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        },
+        {
+          "name": "Felipe Botello y El Sonoro Rugir",
+          "url": "https://open.spotify.com/artist/1IcvjLbT3CPDoGPwpycAvr"
+        }
+      ],
+      "duration_ms": 199200,
+      "name": "Abr\u00e1zame",
+      "url": "https://open.spotify.com/track/5RvmmRCoZY1Yupl3PXgZm4"
     },
     {
       "added_at": null,
@@ -467,26 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fue un Placer Conocerte: Gracias Juan Gabriel, Vol. 1",
-        "url": "https://open.spotify.com/album/6HyjP6pRKQtfkeqHkuZD3T"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        },
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 210042,
-      "name": "Fue un Placer Conocerte",
-      "url": "https://open.spotify.com/track/1tR9gMkQ507oO0XTcMweQj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bolero",
         "url": "https://open.spotify.com/album/2XltOEB0eKfJ8hxoa9tJoy"
       },
@@ -503,6 +483,26 @@
       "duration_ms": 162480,
       "name": "Toda Una Vida",
       "url": "https://open.spotify.com/track/1zHkID56I9lGu9Sj6izj9Q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fue un Placer Conocerte: Gracias Juan Gabriel, Vol. 1",
+        "url": "https://open.spotify.com/album/6HyjP6pRKQtfkeqHkuZD3T"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        },
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 210042,
+      "name": "Fue un Placer Conocerte",
+      "url": "https://open.spotify.com/track/1tR9gMkQ507oO0XTcMweQj"
     },
     {
       "added_at": null,

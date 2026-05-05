@@ -1,12 +1,12 @@
 {
   "description": "This is Jane's Addiction. The essential tracks, all in one playlist.",
-  "num_followers": 44850,
+  "num_followers": 44853,
   "original_name": "This Is Jane's Addiction",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afU+gAAAAACz6uD6+k9EuZRYbz55TZOW",
+  "snapshot_id": "afaQAAAAAAAeZ57Yx/Mc8Ldi73hvJh9l",
   "tracks": [
     {
       "added_at": null,
@@ -123,8 +123,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Great Escape Artist",
-        "url": "https://open.spotify.com/album/0mqzGqI1ZDOWkr7we7Uard"
+        "name": "Jane's Addiction (Live)",
+        "url": "https://open.spotify.com/album/28ap5k3SX3zdEztr89gPJa"
       },
       "artists": [
         {
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
         }
       ],
-      "duration_ms": 269613,
-      "name": "Twisted Tales",
-      "url": "https://open.spotify.com/track/1jcINBNyQwQW4fC83C3l51"
+      "duration_ms": 232266,
+      "name": "I Would for You",
+      "url": "https://open.spotify.com/track/5Uad25kem80E7o7L3p5HLw"
     },
     {
       "added_at": null,
@@ -187,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jane's Addiction (Live)",
-        "url": "https://open.spotify.com/album/28ap5k3SX3zdEztr89gPJa"
+        "name": "The Great Escape Artist",
+        "url": "https://open.spotify.com/album/0mqzGqI1ZDOWkr7we7Uard"
       },
       "artists": [
         {
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
         }
       ],
-      "duration_ms": 232266,
-      "name": "I Would for You",
-      "url": "https://open.spotify.com/track/5Uad25kem80E7o7L3p5HLw"
+      "duration_ms": 269613,
+      "name": "Twisted Tales",
+      "url": "https://open.spotify.com/track/1jcINBNyQwQW4fC83C3l51"
     },
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Strays",
-        "url": "https://open.spotify.com/album/1Zyw4sk27JmiSQjD4gXszk"
-      },
-      "artists": [
-        {
-          "name": "Jane's Addiction",
-          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
-        }
-      ],
-      "duration_ms": 327093,
-      "name": "Price I Pay",
-      "url": "https://open.spotify.com/track/7e9xEvXgrrzWxnJqzgQS4I"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Cabinet of Curiosities",
         "url": "https://open.spotify.com/album/3OruSfm0NBmUPhwTafdktT"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 279226,
       "name": "Ripple",
       "url": "https://open.spotify.com/track/1DpCCcdyR4GIknFDQVZfLm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Strays",
+        "url": "https://open.spotify.com/album/1Zyw4sk27JmiSQjD4gXszk"
+      },
+      "artists": [
+        {
+          "name": "Jane's Addiction",
+          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
+        }
+      ],
+      "duration_ms": 327093,
+      "name": "Price I Pay",
+      "url": "https://open.spotify.com/track/7e9xEvXgrrzWxnJqzgQS4I"
     },
     {
       "added_at": null,

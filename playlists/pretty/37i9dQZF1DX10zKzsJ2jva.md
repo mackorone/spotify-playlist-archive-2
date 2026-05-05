@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10zKzsJ2jva.md) - [plain]
 
 > Today's top Latin hits, elevando nuestra música\. Cover: Eladio Carrion
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,443,142 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,442,007 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Ricky Bobby](https://open.spotify.com/track/24IeBGZDIeRA4H6EpQz8D0) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [CORSA](https://open.spotify.com/album/5JNyi6vWb9zTfxa9zDHrZr) | 2:55 |
-| 2 | [De Lejitos](https://open.spotify.com/track/3r2ZoCWlf9RewWlxxozfQ8) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [De Lejitos](https://open.spotify.com/album/4LsQOT9fxqBpZLVLV9Ib55) | 3:27 |
-| 3 | [CHÉVERE \(premium\_remix\)](https://open.spotify.com/track/3CBEVPwR3kUXDoTx1lqFUQ) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [CHÉVERE \(premium\_remix\)](https://open.spotify.com/album/4J4UG9VKP7M6XhEuxUj94w) | 3:39 |
-| 4 | [LA GRACIOSA](https://open.spotify.com/track/0TJYJrUDKQ1btt4g0Xwklw) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [EL BAIFO](https://open.spotify.com/album/7a8QhNYgKmcaulK82zQjR5) | 4:17 |
-| 5 | [BAILE INoLVIDABLE](https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 6:07 |
+| 1 | [De Lejitos](https://open.spotify.com/track/3r2ZoCWlf9RewWlxxozfQ8) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [De Lejitos](https://open.spotify.com/album/4LsQOT9fxqBpZLVLV9Ib55) | 3:27 |
+| 2 | [CHÉVERE \(premium\_remix\)](https://open.spotify.com/track/3CBEVPwR3kUXDoTx1lqFUQ) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [CHÉVERE \(premium\_remix\)](https://open.spotify.com/album/4J4UG9VKP7M6XhEuxUj94w) | 3:39 |
+| 3 | [LA GRACIOSA](https://open.spotify.com/track/0TJYJrUDKQ1btt4g0Xwklw) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [EL BAIFO](https://open.spotify.com/album/7a8QhNYgKmcaulK82zQjR5) | 4:17 |
+| 4 | [BAILE INoLVIDABLE](https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 6:07 |
+| 5 | [Ricky Bobby](https://open.spotify.com/track/24IeBGZDIeRA4H6EpQz8D0) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [CORSA](https://open.spotify.com/album/5JNyi6vWb9zTfxa9zDHrZr) | 2:55 |
 | 6 | [KOKO](https://open.spotify.com/track/1tz7RZirwiuaJw2p0jbdHb) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [POR SI MAÑANA NO ESTOY](https://open.spotify.com/album/6A7uWpBb4nHbiBHWRlZi5f) | 3:15 |
 | 7 | [PONGO](https://open.spotify.com/track/3vohqCtAozZw4ifTAtwbxu) | [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [PONGO](https://open.spotify.com/album/2enHgKCtJSopIOoi0uhy0Y) | 3:09 |
 | 8 | [Todos nos Shipean](https://open.spotify.com/track/1oeOCmZsqxNOKTE4AWqojs) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Todos nos Shipean](https://open.spotify.com/album/3SPczqBl3VuAwAHWfHQwa4) | 2:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10zKzsJ2jva.md) - [plain]
 | 49 | [QLOO\*](https://open.spotify.com/track/2mdrVnxEnPR6iFijakkxQS) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [Kreamly](https://open.spotify.com/artist/3g9MKjIP9xrMTY5Pbwr6Nk) | [QLOO\*](https://open.spotify.com/album/2GgT2TLwb9WzzYcUuspH5L) | 2:26 |
 | 50 | [dopamina](https://open.spotify.com/track/3e32UUqXzrI4g2y5kNZrwC) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [DINASTÍA](https://open.spotify.com/album/3kJfKZWulX2oyatVMvDx6a) | 3:05 |
 
-Snapshot ID: `AAAAANsmGGKuem6mMiPAmTE7TNaGG2Ms`
+Snapshot ID: `AAAAAJ1bgI8ZPkjVbOmMfUu7MaPhNOtS`

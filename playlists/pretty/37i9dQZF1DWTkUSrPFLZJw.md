@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkUSrPFLZJw.md) - [plain]
 
 > atopa risers
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,990 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,000 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkUSrPFLZJw.md) - [plain]
 | 29 | [Gymnastic](https://open.spotify.com/track/53ZyjcAefL9uRYtDFes78m) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1), [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW) | [Gymnastic](https://open.spotify.com/album/4vIBy4r7qrMAJDCCSLqVkT) | 3:30 |
 | 30 | [Ewor Me](https://open.spotify.com/track/5p75fB1FGdKh5sGNK3mizP) | [King Paluta](https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT), [Kwabena Kwabena](https://open.spotify.com/artist/6zKu61RG80pBKOMUbBKNMr) | [Ewor Me](https://open.spotify.com/album/0cs9qu2xK9kNeEHICV29Ey) | 3:40 |
 | 31 | [Eye Open](https://open.spotify.com/track/0lyZHhlrCzh3A74aWN8GdH) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [IRON BOY](https://open.spotify.com/album/3gi5efMf1SiQfnqpy1o0CK) | 2:17 |
-| 32 | [Fefe Ne Fe](https://open.spotify.com/track/2NQwFpvbOhJVVxm4Y4grEV) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [This Is Not the Tape III](https://open.spotify.com/album/6LyLd9gp7xoOKaFtPxI7PI) | 2:48 |
+| 32 | [Certified Loner \(No Competition\)](https://open.spotify.com/track/6NKuW3yaNXtloGw1RB8WUi) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [Certified Loner \(No Competition\)](https://open.spotify.com/album/09GvRfHYMZQKWza03GYJxz) | 2:45 |
 | 33 | [Terminator](https://open.spotify.com/track/1oq33HJBs0rDmjjZ2rVFyG) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Terminator](https://open.spotify.com/album/27KnOMqnTWsnfBMXZ4YEuZ) | 3:54 |
-| 34 | [Certified Loner \(No Competition\)](https://open.spotify.com/track/6NKuW3yaNXtloGw1RB8WUi) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [Certified Loner \(No Competition\)](https://open.spotify.com/album/09GvRfHYMZQKWza03GYJxz) | 2:45 |
+| 34 | [Fefe Ne Fe](https://open.spotify.com/track/2NQwFpvbOhJVVxm4Y4grEV) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [This Is Not the Tape III](https://open.spotify.com/album/6LyLd9gp7xoOKaFtPxI7PI) | 2:48 |
 | 35 | [STREET CROWN \(African Dancehall\)](https://open.spotify.com/track/0CrxD7ki46tFH3OzEgLJCK) | [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [VOICE OF THE CROWN \(African Dancehall\)](https://open.spotify.com/album/0Aq2tzc8YQrh4WICENVYq5) | 2:55 |
 | 36 | [BALENCIAGA II](https://open.spotify.com/track/1NPH6x3Pb3ByklHyaA5MGV) | [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [SAMA'](https://open.spotify.com/artist/56lnidsuyzPjHuymxZCwPM), [Oseikrom Sikanii](https://open.spotify.com/artist/5nGJTouhuCNLqWzhrw7wQN) | [BALENCIAGA II](https://open.spotify.com/album/4ZDzI9tLDiRfd2zL5XmQug) | 5:01 |
 | 37 | [Very Soon](https://open.spotify.com/track/1tBfoI9tFVl8ampIRG4eTr) | [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L) | [Very Soon](https://open.spotify.com/album/42R7w5OImRPdU3Ex59eXd2) | 3:09 |

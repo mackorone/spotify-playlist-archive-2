@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: PAULA 區子琳
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,258 likes - 138 songs - 8 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,264 likes - 138 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [樓梯等你](https://open.spotify.com/track/6wiCMDCcbI7ZtzI6rDWK3v) | [Paula 區子琳](https://open.spotify.com/artist/7dsWh013wkjVc4RJPBK7hY) | [樓梯等你](https://open.spotify.com/album/4LQQEJIpaBYwghtZ8iTPxv) | 3:38 |
-| 2 | [Window](https://open.spotify.com/track/4iUxryTOl8KT0ZLETYNZjv) | [Wellsaid](https://open.spotify.com/artist/03YL8KDv0Ui8DNBe1KJwnG), [Lil Gato](https://open.spotify.com/artist/2nkrdVHRpBCTvjyRpaHzCV) | [Window / Home \(7"\)](https://open.spotify.com/album/5oBTvB6jI4ZFdtXHSmpa9w) | 4:44 |
+| 2 | [Window](https://open.spotify.com/track/4iUxryTOl8KT0ZLETYNZjv) | [Wellsaid](https://open.spotify.com/artist/03YL8KDv0Ui8DNBe1KJwnG), [Lilly Gato](https://open.spotify.com/artist/0eJvw0ezIgTIHJTDyog4zr) | [Window / Home \(7"\)](https://open.spotify.com/album/5oBTvB6jI4ZFdtXHSmpa9w) | 4:44 |
 | 3 | [始終仍然想起你](https://open.spotify.com/track/2ilpkQbLmmfZJ5JMoysQFZ) | [Young Hysan](https://open.spotify.com/artist/6nZKe3xkbU2IBrVuJGkzCr) | [Lost in Yesterday](https://open.spotify.com/album/68MEenNVJx5K5ZWu1Vrpaa) | 3:13 |
 | 4 | [打工牛仔](https://open.spotify.com/track/1iNubMavbVtTtpjfUeYtID) | [F.JAE](https://open.spotify.com/artist/0U8QoUGD9K4oqoA5gaNTHC), [NO CAP RECORDS](https://open.spotify.com/artist/1yzmgTub0XAUxIHV11ndox) | [打工牛仔](https://open.spotify.com/album/1jGPwUOAKii6qbvPjDuvCP) | 2:40 |
 | 5 | [要還](https://open.spotify.com/track/0htSMEYzCEqaVedtTUYuCt) | [CONSTANCE](https://open.spotify.com/artist/3d1QXYgWNVRHT5V5j5NozP) | [要還](https://open.spotify.com/album/0VuUCTaVoxR1HWIfRQLBai) | 3:34 |

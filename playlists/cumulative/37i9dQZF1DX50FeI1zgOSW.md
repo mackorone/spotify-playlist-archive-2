@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Sharan Kumar
 
-775 songs - 1 day 19 hr 54 min
+777 songs - 1 day 20 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -502,6 +502,7 @@
 | [Paatha Edathila](https://open.spotify.com/track/1CaDbj95jdxRh0Tl0CXPDQ) | [808Krshna](https://open.spotify.com/artist/4BmMGRjcKQTnEaM2nCIaBE), [Sublahshini](https://open.spotify.com/artist/0nh5cRtt03SU6LhzhVC5fv), [Adesh Krishna](https://open.spotify.com/artist/30LwulQlfH8xE5Bf9P7QaK) | [Paatha Edathila](https://open.spotify.com/album/03VPIqFCLf2B3mCafybAya) | 3:12 | 2026-01-30 | 2026-04-10 |
 | [Paavai](https://open.spotify.com/track/0Dy51XHPjIcOuVsCgFbtNF) | [Marshall Robinson](https://open.spotify.com/artist/4ApGv767BWZI3MojIwGt0H), [Sreekanth Hariharan](https://open.spotify.com/artist/6EI5lmCSICOvroaH1bTwEj), [Priyanka NK](https://open.spotify.com/artist/2ur0GHc7zvYZXe0WjIKd2K) | [Paavai](https://open.spotify.com/album/730TPIYVhOi5veCbw3yxc3) | 3:35 | 2024-03-16 | 2024-06-02 |
 | [Pachai Theeyee](https://open.spotify.com/track/6Fk5Qx8BEqWXQscWFwO1ws) | [Joshua Surya](https://open.spotify.com/artist/23A4fV8TTszu4fVRgMkO9s), [Siva Suriya Prakash](https://open.spotify.com/artist/1KfAw91V43kU6vHZBPGaHJ), [Darloo](https://open.spotify.com/artist/5Ouj8oMhaXmvLHJvP4PhZ7), [Stan & Sam](https://open.spotify.com/artist/2zeEeBkAKWjSVenQDBHsGM) | [Pachai Theeyee](https://open.spotify.com/album/2OdFUCAvA9dVqO40q9VvFJ) | 3:32 | 2023-07-19 | 2023-09-05 |
+| [Pachaikili](https://open.spotify.com/track/4ZVjetCurXC1f6irAsfoKH) | [Sourav Suresh](https://open.spotify.com/artist/4bl4dLgJ5NQezTcREd7ECu), [Amaya Shaj](https://open.spotify.com/artist/5JfPBgCEMiXteIK9sLUx3R) | [Pachaikili](https://open.spotify.com/album/12ynGqeFcY7fseMm3rXj0Z) | 3:10 | 2026-05-04 |  |
 | [Padhe Padhe \(1mm Originals\)](https://open.spotify.com/track/0jMWvP1cdTtvLheCUJSMss) | [Dinesh Chandrasekhar](https://open.spotify.com/artist/1JQFKVPnyx86axpdxADe7K), [Sashank S](https://open.spotify.com/artist/4rv5ShQhoPBKGiuydRLdTH), [Kapa Chaitanya](https://open.spotify.com/artist/0bxFXFHqxa9soCq3lwXEPk) | [Padhe Padhe \(1mm Originals\)](https://open.spotify.com/album/6SsmTthKyQAf2gK214dL4v) | 2:51 | 2025-03-05 | 2025-05-03 |
 | [Pakano](https://open.spotify.com/track/2Ds1XVxXyWhON2d4omAIrL) | [JAXK](https://open.spotify.com/artist/534u9oSsp7SDPju0QdH9wq) | [Pakano](https://open.spotify.com/album/09HtMIXB3LCP8HqW9ign12) | 2:21 | 2024-06-04 | 2024-10-19 |
 | [Papi](https://open.spotify.com/track/2gVjphCX0tnUTUkOkUbmOD) | [Iykki Berry](https://open.spotify.com/artist/0I0EZKnUpimGfzPY17L1yD), [Dev Major](https://open.spotify.com/artist/4Iwi2N3FmmKmxAuGlD3AQv) | [Papi](https://open.spotify.com/album/0H3lkvFNhPFSGDhiZFCeIj) | 2:56 | 2026-02-10 | 2026-04-10 |
@@ -772,6 +773,7 @@
 | [Yammadi Kathirundhen](https://open.spotify.com/track/6DTJ8nHnM9kBdHqYm5OVE3) | [Kalaivananoffl](https://open.spotify.com/artist/7otvIOl3QcBUFX3XgKiI7d), [Karthik Balan](https://open.spotify.com/artist/4xw3uPQ7nLix5Eg49wJ0aA), [Arun Prasath](https://open.spotify.com/artist/1Ips6lmYcY8mbQhyVCmmWR) | [Yammadi Kathirundhen](https://open.spotify.com/album/3o9SCWPl237UvyBxNdtNI4) | 5:32 | 2025-09-26 | 2026-02-11 |
 | [Yarumillai](https://open.spotify.com/track/3AAwye5jD5qVfE1ybv8sg2) | [A R Anandh](https://open.spotify.com/artist/0g4Lzawjm4gE1sjed9U02Y) | [Yarumillai](https://open.spotify.com/album/14fJS35SXPwpaaec15IWwo) | 3:33 | 2024-02-22 | 2024-03-13 |
 | [Yawanaa](https://open.spotify.com/track/7gHhbgeEtaYtpOCov2cV3B) | [Varuon Thushyanthan](https://open.spotify.com/artist/40V6eANkXWAQtcxSVRjjWQ), [Mad $aami](https://open.spotify.com/artist/1CD9SrWUNuXe09eFTibHMB), [Megan Dhakshini](https://open.spotify.com/artist/54eEBOKchW4drD36lOlIEp) | [Yawanaa](https://open.spotify.com/album/6WC8ogsCf0FnMYf44iqaUG) | 2:49 | 2024-11-11 | 2024-12-06 |
+| [Yellame Nee](https://open.spotify.com/track/2EbpqrOYyXgAs5fNJh4lGA) | [Laika Jamal](https://open.spotify.com/artist/6j3Q8cauUMoJAGGTfdYShD) | [Yellame Nee](https://open.spotify.com/album/1Q77Zcwt5eAGDnspzhHfeN) | 4:12 | 2026-05-04 |  |
 | [Yen Karainthayo](https://open.spotify.com/track/61BtYxu94JAWS6c4D8zws0) | [MarcX](https://open.spotify.com/artist/6fAYGvK8Ow3JcvoV15Kowt), [Georginaa Mathew](https://open.spotify.com/artist/3zea7fMKhT73CXEFO5XhrX) | [Yen Karainthayo](https://open.spotify.com/album/60WLNBPHMmIfdLT8HznkRN) | 3:00 | 2025-05-02 | 2025-07-23 |
 | [Yendrum](https://open.spotify.com/track/2a7RHJyHZmgarjTvgAW1rQ) | [Chai Lenin](https://open.spotify.com/artist/3yG7K52cBqJ7HPqrNKsAF3) | [Yendrum](https://open.spotify.com/album/4vVcdlRidM9liFbLfuzJlH) | 4:49 | 2023-12-15 | 2024-01-03 |
 | [Yenguren](https://open.spotify.com/track/1EG6wxPk5luNAeEcmiZFhk) | [Krishan J](https://open.spotify.com/artist/3sCHA0pWlvQDwqcjX9TIdw) | [Yenguren](https://open.spotify.com/album/2s7daQQZ9wJl25M5WdOFx0) | 3:06 | 2024-02-29 | 2024-03-17 |

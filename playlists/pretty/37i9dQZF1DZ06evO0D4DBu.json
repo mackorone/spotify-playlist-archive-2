@@ -1,12 +1,12 @@
 {
   "description": "This is Chance the Rapper. The essential tracks, all in one playlist.",
-  "num_followers": 211180,
+  "num_followers": 211174,
   "original_name": "This Is Chance the Rapper",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afU+gAAAAACAwPwSIsobsZ9qaJkpvliJ",
+  "snapshot_id": "afaQAAAAAAA82jQ0li3W0CAPRmtZUFCh",
   "tracks": [
     {
       "added_at": null,
@@ -519,6 +519,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "STAR LINE",
+        "url": "https://open.spotify.com/album/4if1BvvWfmG4go4uAmow8h"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        },
+        {
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+        }
+      ],
+      "duration_ms": 255609,
+      "name": "The Highs & The Lows (feat. Joey BadA$$)",
+      "url": "https://open.spotify.com/track/3DYZnMH1MpCJRlHzZ7fR18"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "CATCH",
         "url": "https://open.spotify.com/album/50EKsOTP0hqXaVoITqhgsi"
       },
@@ -547,26 +567,6 @@
       "duration_ms": 215426,
       "name": "Forever Always",
       "url": "https://open.spotify.com/track/1Ioxy6OY4NwwxHFS7XLh8I"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "STAR LINE",
-        "url": "https://open.spotify.com/album/4if1BvvWfmG4go4uAmow8h"
-      },
-      "artists": [
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        },
-        {
-          "name": "Joey Bada$$",
-          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
-        }
-      ],
-      "duration_ms": 255609,
-      "name": "The Highs & The Lows (feat. Joey BadA$$)",
-      "url": "https://open.spotify.com/track/3DYZnMH1MpCJRlHzZ7fR18"
     },
     {
       "added_at": null,
@@ -879,26 +879,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Big Day",
-        "url": "https://open.spotify.com/album/27Z9dFpWc5c1cW7axN9Dy6"
-      },
-      "artists": [
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        },
-        {
-          "name": "Death Cab for Cutie",
-          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
-        }
-      ],
-      "duration_ms": 236685,
-      "name": "Do You Remember",
-      "url": "https://open.spotify.com/track/1PAD54xGsSjUQhbjP12Fg8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "iiiDrops",
         "url": "https://open.spotify.com/album/6McWou8VeXcVNGQVOiqhZd"
       },
@@ -915,6 +895,26 @@
       "duration_ms": 212950,
       "name": "Girls @ (feat. Chance the Rapper)",
       "url": "https://open.spotify.com/track/5p7sELomeqtq9ypH3VeVH1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Big Day",
+        "url": "https://open.spotify.com/album/27Z9dFpWc5c1cW7axN9Dy6"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        },
+        {
+          "name": "Death Cab for Cutie",
+          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
+        }
+      ],
+      "duration_ms": 236685,
+      "name": "Do You Remember",
+      "url": "https://open.spotify.com/track/1PAD54xGsSjUQhbjP12Fg8"
     },
     {
       "added_at": null,
@@ -963,6 +963,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "I Might Need Security",
+        "url": "https://open.spotify.com/album/5pQOfgCqpu4RrJAfQToFa8"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        }
+      ],
+      "duration_ms": 240640,
+      "name": "I Might Need Security",
+      "url": "https://open.spotify.com/track/3EApebexZ7YqDIqw2EMTDh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Together",
         "url": "https://open.spotify.com/album/5HgjPTY2Sw4yEHrZIl2TWf"
       },
@@ -983,22 +999,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Might Need Security",
-        "url": "https://open.spotify.com/album/5pQOfgCqpu4RrJAfQToFa8"
-      },
-      "artists": [
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        }
-      ],
-      "duration_ms": 240640,
-      "name": "I Might Need Security",
-      "url": "https://open.spotify.com/track/3EApebexZ7YqDIqw2EMTDh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "STAR LINE",
         "url": "https://open.spotify.com/album/4if1BvvWfmG4go4uAmow8h"
       },
@@ -1011,34 +1011,6 @@
       "duration_ms": 223746,
       "name": "Star Side Intro",
       "url": "https://open.spotify.com/track/0YiizfHPZxx0LfUQsEzsDo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Recess",
-        "url": "https://open.spotify.com/album/7rf1qZJ6hGSlPN7K9ShsVV"
-      },
-      "artists": [
-        {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        },
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        },
-        {
-          "name": "Donnie Trumpet",
-          "url": "https://open.spotify.com/artist/7qbQOln6DZHcPm6l94PXU5"
-        },
-        {
-          "name": "Peter CottonTale",
-          "url": "https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi"
-        }
-      ],
-      "duration_ms": 243546,
-      "name": "Coast Is Clear (with Chance the Rapper and The Social Experiment)",
-      "url": "https://open.spotify.com/track/1c35oVynBuaFs99MNGUOUj"
     },
     {
       "added_at": null,
@@ -1067,6 +1039,34 @@
       "duration_ms": 232000,
       "name": "Need To Know (feat. Chance The Rapper)",
       "url": "https://open.spotify.com/track/1OsjZeUg7cGuiCr4E8schs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Recess",
+        "url": "https://open.spotify.com/album/7rf1qZJ6hGSlPN7K9ShsVV"
+      },
+      "artists": [
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        },
+        {
+          "name": "Donnie Trumpet",
+          "url": "https://open.spotify.com/artist/7qbQOln6DZHcPm6l94PXU5"
+        },
+        {
+          "name": "Peter CottonTale",
+          "url": "https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi"
+        }
+      ],
+      "duration_ms": 243546,
+      "name": "Coast Is Clear (with Chance the Rapper and The Social Experiment)",
+      "url": "https://open.spotify.com/track/1c35oVynBuaFs99MNGUOUj"
     },
     {
       "added_at": null,

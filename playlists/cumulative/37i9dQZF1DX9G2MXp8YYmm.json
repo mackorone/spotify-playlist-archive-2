@@ -2738,7 +2738,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 185388,
       "name": "B\u0131\u00e7ak",
       "url": "https://open.spotify.com/track/5XYPcsaR7a1rTqTOHc99LN"
@@ -4578,7 +4578,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 197542,
       "name": "Halay",
       "url": "https://open.spotify.com/track/548WGEzCeRItRnJOuSHIbY"
@@ -8847,6 +8847,24 @@
     },
     {
       "album": {
+        "name": "K\u0131r\u0131k Kalpler (10. Y\u0131l D\u00f6n\u00fcm\u00fc)",
+        "url": "https://open.spotify.com/album/4jcc7Sy1lwFvfHgNUAHfe5"
+      },
+      "artists": [
+        {
+          "name": "Sertab Erener",
+          "url": "https://open.spotify.com/artist/4W31XN2JH8mC54NkHdh04s"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247897,
+      "name": "Tek Ba\u015f\u0131ma - 10. Y\u0131l D\u00f6n\u00fcm\u00fc",
+      "url": "https://open.spotify.com/track/4N3UdAHncw6iPziHLCfreJ"
+    },
+    {
+      "album": {
         "name": "Tekrar Tekrar",
         "url": "https://open.spotify.com/album/1hfLRXAGdhGIOXZhVIqMPi"
       },
@@ -9326,6 +9344,28 @@
       "duration_ms": 164948,
       "name": "Vertigo",
       "url": "https://open.spotify.com/track/2h48UWdDoaf2L8fJ3y3gdw"
+    },
+    {
+      "album": {
+        "name": "Kar\u0131\u015f\u0131k Kaset 2",
+        "url": "https://open.spotify.com/album/22dJRNVTVUfGQzbMCNMuJq"
+      },
+      "artists": [
+        {
+          "name": "Semicenk",
+          "url": "https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp"
+        },
+        {
+          "name": "B\u00fcken",
+          "url": "https://open.spotify.com/artist/5xvFmfo6COwVZoN8GHaBLs"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194495,
+      "name": "Vur Beni",
+      "url": "https://open.spotify.com/track/2TSyYedWsuI7BDOOJx9CHl"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "all gains",
-  "num_followers": 981161,
+  "num_followers": 981352,
   "original_name": "gymcore",
   "owner": {
     "name": "Spotify",
@@ -135,30 +135,6 @@
     {
       "added_at": "2026-04-03 16:00:07",
       "album": {
-        "name": "LOS VOLTAJE",
-        "url": "https://open.spotify.com/album/7CWmZcjCHJWd7detYptzAX"
-      },
-      "artists": [
-        {
-          "name": "Sayfalse",
-          "url": "https://open.spotify.com/artist/6s4LSwgbzTAfnN6OUfegJB"
-        },
-        {
-          "name": "Yb Wasg'ood",
-          "url": "https://open.spotify.com/artist/02wf6SCDwrs2qTX09X0IRE"
-        },
-        {
-          "name": "Ariis",
-          "url": "https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR"
-        }
-      ],
-      "duration_ms": 99285,
-      "name": "LOS VOLTAJE",
-      "url": "https://open.spotify.com/track/4LkkRLP8pldQer1YRrHwkx"
-    },
-    {
-      "added_at": "2026-04-03 16:00:07",
-      "album": {
         "name": "TAKA LA DENTRO",
         "url": "https://open.spotify.com/album/1xaajkD1aUsMFIC24OkkUE"
       },
@@ -179,6 +155,30 @@
       "duration_ms": 89809,
       "name": "TAKA LA DENTRO",
       "url": "https://open.spotify.com/track/4SN97PWG1WzClH2W08x8dr"
+    },
+    {
+      "added_at": "2026-04-03 16:00:07",
+      "album": {
+        "name": "LOS VOLTAJE",
+        "url": "https://open.spotify.com/album/7CWmZcjCHJWd7detYptzAX"
+      },
+      "artists": [
+        {
+          "name": "Sayfalse",
+          "url": "https://open.spotify.com/artist/6s4LSwgbzTAfnN6OUfegJB"
+        },
+        {
+          "name": "Yb Wasg'ood",
+          "url": "https://open.spotify.com/artist/02wf6SCDwrs2qTX09X0IRE"
+        },
+        {
+          "name": "Ariis",
+          "url": "https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR"
+        }
+      ],
+      "duration_ms": 99285,
+      "name": "LOS VOLTAJE",
+      "url": "https://open.spotify.com/track/4LkkRLP8pldQer1YRrHwkx"
     },
     {
       "added_at": "2026-04-03 16:00:07",
@@ -487,22 +487,22 @@
     {
       "added_at": "2026-04-03 16:00:07",
       "album": {
-        "name": "MOTINHA 2.0 (Mete Marcha)",
-        "url": "https://open.spotify.com/album/15PHJFLeNIt2dfJIHtMP9F"
+        "name": "MASHA ULTRAFUNK",
+        "url": "https://open.spotify.com/album/43DSGSYCywacjEkdeSv4DC"
       },
       "artists": [
         {
-          "name": "DENNIS",
-          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
+          "name": "HISTED",
+          "url": "https://open.spotify.com/artist/5Z56BMrvQB2rBAa5kffTPD"
         },
         {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+          "name": "TXVSTERPLAYA",
+          "url": "https://open.spotify.com/artist/4Rd0aHKGS9BdLYSXVvFjv5"
         }
       ],
-      "duration_ms": 118081,
-      "name": "MOTINHA 2.0 (Mete Marcha)",
-      "url": "https://open.spotify.com/track/456hxgSVUAJVgPV0UncG68"
+      "duration_ms": 93650,
+      "name": "MASHA ULTRAFUNK",
+      "url": "https://open.spotify.com/track/5VZ0soW5syQfefCUj603DW"
     },
     {
       "added_at": "2026-04-03 16:00:07",
@@ -531,22 +531,22 @@
     {
       "added_at": "2026-04-03 16:00:07",
       "album": {
-        "name": "MASHA ULTRAFUNK",
-        "url": "https://open.spotify.com/album/43DSGSYCywacjEkdeSv4DC"
+        "name": "MOTINHA 2.0 (Mete Marcha)",
+        "url": "https://open.spotify.com/album/15PHJFLeNIt2dfJIHtMP9F"
       },
       "artists": [
         {
-          "name": "HISTED",
-          "url": "https://open.spotify.com/artist/5Z56BMrvQB2rBAa5kffTPD"
+          "name": "DENNIS",
+          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
         },
         {
-          "name": "TXVSTERPLAYA",
-          "url": "https://open.spotify.com/artist/4Rd0aHKGS9BdLYSXVvFjv5"
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
         }
       ],
-      "duration_ms": 93650,
-      "name": "MASHA ULTRAFUNK",
-      "url": "https://open.spotify.com/track/5VZ0soW5syQfefCUj603DW"
+      "duration_ms": 118081,
+      "name": "MOTINHA 2.0 (Mete Marcha)",
+      "url": "https://open.spotify.com/track/456hxgSVUAJVgPV0UncG68"
     },
     {
       "added_at": "2026-04-03 16:00:07",

@@ -4,7 +4,7 @@
 
 > Come alive with this progressive & melodic house selection.
 
-372 songs - 1 day 1 hr 0 min
+373 songs - 1 day 1 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Another Riff For The Good Times](https://open.spotify.com/track/2nfHtKszA0Ae7vQJXbARp7) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Another Riff For The Good Times / Daydreaming](https://open.spotify.com/album/4ACy5ync0g9C1cgphs8YMG) | 3:48 | 2022-01-14 | 2024-07-05 |
 | [Aquatic](https://open.spotify.com/track/4PJaGVVVYNSN9EZJmMLtfK) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Aquatic](https://open.spotify.com/album/1sXUPeXG3bo3norKvF2nJx) | 3:46 | 2022-01-14 | 2024-07-19 |
 | [Around](https://open.spotify.com/track/0qDYl6Bj6oTuaBLNKZfuHb) | [Noir](https://open.spotify.com/artist/2rHW9XpYMGsHj7BmAOSmr9), [Haze](https://open.spotify.com/artist/339nH3LvJ62PHz7OXYAYwd), [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu) | [Around](https://open.spotify.com/album/4ANmjIhAGKLPOl9F3NrqWC) | 3:07 | 2025-04-17 | 2025-10-12 |
+| [Around The World](https://open.spotify.com/track/4ZVTVsWf2RkQ3EF0ieob8w) | [Ben Sterling](https://open.spotify.com/artist/79uJoLQkQ621xZy7MyH4uL), [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ) | [Around The World](https://open.spotify.com/album/1qGAXU1eeb2GbROrjzl0lA) | 3:48 | 2026-04-23 |  |
 | [Asa](https://open.spotify.com/track/1dWWpbUHni0mmv9aaVLhcH) | [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564) | [Asa](https://open.spotify.com/album/2ZqR3WdAJcLqzrAnrfTqyf) | 4:37 | 2024-08-15 | 2026-02-27 |
 | [Ascendance](https://open.spotify.com/track/3oGT77L9qz72A5AjRlfqSh) | [Eynka](https://open.spotify.com/artist/0yG65Hobg0EEGfxqfFq4Jg) | [Ascendance / Give It Up](https://open.spotify.com/album/11nOsnCqKzMWEZ0fUeEyCd) | 3:50 | 2022-01-14 | 2024-03-15 |
 | [Automatic](https://open.spotify.com/track/3IBIj8uAS6meeTvZmBlMpP) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Solomon Grey](https://open.spotify.com/artist/7pCfNMcSlUWQgBXbyoEcyO) | [Automatic](https://open.spotify.com/album/0MCMAGZpWjWzUMTKbt8EYf) | 4:09 | 2022-01-14 | 2024-03-29 |
@@ -335,7 +336,7 @@
 | [Tibet](https://open.spotify.com/track/7xvl39LuJ8o5yeHR1kta90) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Zafrir](https://open.spotify.com/artist/3DJVDo0kd19fZXpTabasOX) | [Tibet](https://open.spotify.com/album/6mQ61LMEZzW5HAvFWFumbK) | 6:43 | 2022-11-25 | 2024-07-05 |
 | [Time](https://open.spotify.com/track/4mQw0wkyombRwP19uS2mLB) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8) | [Time](https://open.spotify.com/album/0Q4VYWUJUfB8nRz4XNNEEp) | 4:09 | 2024-08-15 | 2025-02-21 |
 | [Time \- feat\. Jules Buckley](https://open.spotify.com/track/4d2Gndzn9dnmUC8jIzI9d4) | [Tale Of Us](https://open.spotify.com/artist/1UL813H5aj3e8ekE5RqWqc), [Pete Tong](https://open.spotify.com/artist/6n1t55WMsSIUFHrAL4mUsB), [Jules Buckley](https://open.spotify.com/artist/5gGbAKDXhDoBXIJe8SuBvX) | [Time \(feat\. Jules Buckley\)](https://open.spotify.com/album/77wNbVUueAga2P28GqHovW) | 5:10 | 2022-01-14 | 2024-07-19 |
-| [To The Heart](https://open.spotify.com/track/0RNeb4gmJf1I5InimrUl91) | [Because of Art](https://open.spotify.com/artist/4Cmrx83CCgN8X1hkyhkUkq), [Steven Weston](https://open.spotify.com/artist/7zxRSonZpfxzpY2S4Cse4U), [Maria Metaxa](https://open.spotify.com/artist/2dqqk5uhWz0vGITqrLSUMi) | [To The Heart / We Go Again](https://open.spotify.com/album/1HPZApJZpFhqV4WFtnjRkR) | 3:54 | 2026-02-27 |  |
+| [To The Heart](https://open.spotify.com/track/0RNeb4gmJf1I5InimrUl91) | [Because of Art](https://open.spotify.com/artist/4Cmrx83CCgN8X1hkyhkUkq), [Steven Weston](https://open.spotify.com/artist/7zxRSonZpfxzpY2S4Cse4U), [Maria Metaxa](https://open.spotify.com/artist/2dqqk5uhWz0vGITqrLSUMi) | [To The Heart / We Go Again](https://open.spotify.com/album/1HPZApJZpFhqV4WFtnjRkR) | 3:54 | 2026-02-27 | 2026-05-05 |
 | [Tonight In Belfast \- Edit](https://open.spotify.com/track/3Nc1xUyUx3tAXhylybt1u2) | [Orbital](https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV), [David Holmes](https://open.spotify.com/artist/10kGEgP8MxhlfeA2tMinsL), [Mike Garry](https://open.spotify.com/artist/2TGg9f0CCX1rAR3S88o9yD), [DJ Helen](https://open.spotify.com/artist/0JXfuTC8TiERwGzMmTtNuZ) | [Tonight In Belfast](https://open.spotify.com/album/46vW0Y9s7hsr231fEZ7uz8) | 4:00 | 2024-02-23 | 2024-04-10 |
 | [Torii](https://open.spotify.com/track/0PxVllnUIzt36tvbu5thj5) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Torii](https://open.spotify.com/album/2oJIKUuxPO2MeiBQQhd3x4) | 2:50 | 2022-01-14 | 2023-11-22 |
 | [Train of Thoughts](https://open.spotify.com/track/1OoJQao2C0rvcUpr2BqgaM) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Train of Thoughts](https://open.spotify.com/album/25ofOqJksQI5dd1ky79SBD) | 3:26 | 2024-09-26 | 2025-04-08 |

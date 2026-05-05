@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6hyJ0dcR6HEDiNyBAgCEPU">Tay Keith</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,667 likes - 277 songs - 13 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,668 likes - 277 songs - 13 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 | 84 | [IT AIN'T SAFE \(feat\. Nardo Wick & Kodak Black\)](https://open.spotify.com/track/2d4XHh61JufZpNdm88TXXx) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [GOD DID](https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50) | 2:50 |
 | 85 | [TRYNA MAKE SURE](https://open.spotify.com/track/1su0sROPqYGSrq9YVm7mxl) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [SPEAK NOW](https://open.spotify.com/album/55Rk02ZSULPUfrW41zjWx9) | 2:46 |
 | 86 | [Main Slime Remix \(feat\. Moneybagg Yo & Tay Keith\)](https://open.spotify.com/track/5197zYW72cbayQO2fY9Zrf) | [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Main Slime Remix \(feat\. Moneybagg Yo & Tay Keith\)](https://open.spotify.com/album/7MKAaTZWkou5cfJ32J2HD1) | 3:54 |
-| 87 | [Like a Million \(feat\. Kodak Black\)](https://open.spotify.com/track/1kA3DTGCwnnp8SUYkk6kuC) | [Jackboy](https://open.spotify.com/artist/2S2mt1DiA4QKdKvtqwxrbB), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Jackboy](https://open.spotify.com/album/7w0pvDj9Q5zVSlZsXKLQ0M) | 2:58 |
-| 88 | [Fake Jammin](https://open.spotify.com/track/2feXtMaA1fQd7Wy7fgImtP) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [In Sexyy We Trust](https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx) | 2:19 |
+| 87 | [Fake Jammin](https://open.spotify.com/track/2feXtMaA1fQd7Wy7fgImtP) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [In Sexyy We Trust](https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx) | 2:19 |
+| 88 | [Like a Million \(feat\. Kodak Black\)](https://open.spotify.com/track/1kA3DTGCwnnp8SUYkk6kuC) | [Jackboy](https://open.spotify.com/artist/2S2mt1DiA4QKdKvtqwxrbB), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Jackboy](https://open.spotify.com/album/7w0pvDj9Q5zVSlZsXKLQ0M) | 2:58 |
 | 89 | [AUTOMATIC](https://open.spotify.com/track/2TqfASuL5JRds7bJX01PdZ) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [ZUU](https://open.spotify.com/album/6PkSBdx19zarn4ae1D08gA) | 3:02 |
 | 90 | [Hottest in the City](https://open.spotify.com/track/22Fwimjd0oaL06eU7Aura4) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Hottest in the City](https://open.spotify.com/album/7nP87PXdPv4oPYKWRc5x1z) | 3:03 |
 | 91 | [FLORIDA FLOW](https://open.spotify.com/track/0n0WCuHUS2n4iZrKmUUzbH) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [JACKBOYS 2](https://open.spotify.com/album/5GBAHu7EH8HWX5tBCjL0SA) | 5:28 |
@@ -286,4 +286,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 | 276 | [Drill Back](https://open.spotify.com/track/3nHfvTt8iRbwnbIySfcfs9) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn), [Anti Da Menace](https://open.spotify.com/artist/7jkEdcZtIMWXlEM5sgZ2uK), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Yung n Turnt](https://open.spotify.com/album/6swhZ8Qaut2g9zNXttydy2) | 2:12 |
 | 277 | [That's Him](https://open.spotify.com/track/4eQFDkbkOwMEMpxzby8vxg) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Yung n Turnt](https://open.spotify.com/album/6swhZ8Qaut2g9zNXttydy2) | 2:45 |
 
-Snapshot ID: `AcQiXgAAAADFAXUCZGy4TmG6VnTpQ7QB`
+Snapshot ID: `AcQn/gAAAAAdkJ5cqG+2zMPg+EfizrSB`

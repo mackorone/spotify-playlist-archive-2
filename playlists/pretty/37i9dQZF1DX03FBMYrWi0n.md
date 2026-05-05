@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03FBMYrWi0n.md) - [plain]
 
 > L’alternatif québécois à plein volume\. Photo: FYORE
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,232 likes - 95 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,248 likes - 95 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03FBMYrWi0n.md) - [plain]
 | 25 | [Covered in Sound](https://open.spotify.com/track/7IAgJfpjjO9X6Lu8Ckzt0Z) | [Family Man](https://open.spotify.com/artist/4CpA5E2uTlbIgUSrDQH9mB) | [Covered in Sound](https://open.spotify.com/album/5vXbomphO2uOjQe3iNw0Ci) | 3:42 |
 | 26 | [Je sais pas c'que j'fais icitte](https://open.spotify.com/track/5XSGWaTq7dBb5mJjyOnShv) | [FUUDGE](https://open.spotify.com/artist/5VeX5PycbdHZmYuTqYGUbi) | [Je sais pas c'que j'fais icitte](https://open.spotify.com/album/4xW82Kdpz7CXdeuI6WPUJ7) | 4:29 |
 | 27 | [Say It!](https://open.spotify.com/track/1ZmdrwfBaMaa7Z4cMqKcrQ) | [Taxi Girls](https://open.spotify.com/artist/5h3xtVYH6bpf1d9rXMhcoR) | [Say It!](https://open.spotify.com/album/22fqPOgZwmxuSBkyHouqWZ) | 2:41 |
-| 28 | [Ocean 4\-5](https://open.spotify.com/track/0HmpFsOnV9jp9gIiIZrYNv) | [Oktoplut](https://open.spotify.com/artist/3JhCTaasUfomDsJQk0SYpj) | [Inselberg](https://open.spotify.com/album/7BRb058xjRVoKUyp021x7l) | 5:50 |
+| 28 | [Océan 4 & 5](https://open.spotify.com/track/0HmpFsOnV9jp9gIiIZrYNv) | [Oktoplut](https://open.spotify.com/artist/3JhCTaasUfomDsJQk0SYpj) | [Inselberg](https://open.spotify.com/album/7BRb058xjRVoKUyp021x7l) | 5:50 |
 | 29 | [Chevaux fantômes](https://open.spotify.com/track/0YMRyg8uhvvhrhD7nbp0Io) | [BAAB](https://open.spotify.com/artist/2h1VKnPXLVz3jqjGocLArR) | [Chevaux fantômes](https://open.spotify.com/album/2zxWIEyIx4EtNtFUa44S6r) | 3:48 |
 | 30 | [Ask Me](https://open.spotify.com/track/1VtPpUAN1LsuLwjFDkTMmg) | [The Satisfactory](https://open.spotify.com/artist/2GiACcsyua4nr7W68PhE7O) | [Ask Me/Yesterday's Tomorrow](https://open.spotify.com/album/1GAtmkBBwVYsU6miHW8JwK) | 2:57 |
 | 31 | [Lex Julia](https://open.spotify.com/track/2Ku1oBIgXdWNiuAdMVEhJw) | [Fire in the City](https://open.spotify.com/artist/3hWaTH8hZ33N5SCFoju8u0) | [Lex Julia](https://open.spotify.com/album/7r0oVlT5VOtm4QJ2Q1e37k) | 3:40 |

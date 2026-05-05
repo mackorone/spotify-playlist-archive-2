@@ -1,12 +1,12 @@
 {
   "description": "Frisse Nederlandse pop. Cover: Zo\u00eb Tauran",
-  "num_followers": 246964,
+  "num_followers": 246960,
   "original_name": "Je Moerstaal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAC58l2Q0wnSaf2Y/WBBHaODmeJ7S",
+  "snapshot_id": "AAAAAMNgpUA06ODnMMeZLLllNdFJJTIJ",
   "tracks": [
     {
       "added_at": "2026-04-30 22:01:41",
@@ -43,22 +43,6 @@
     {
       "added_at": "2026-04-30 22:01:41",
       "album": {
-        "name": "Schuilen",
-        "url": "https://open.spotify.com/album/5NhKivSjyoAOpvl4bMjPGg"
-      },
-      "artists": [
-        {
-          "name": "Miss Montreal",
-          "url": "https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2"
-        }
-      ],
-      "duration_ms": 209556,
-      "name": "Schuilen",
-      "url": "https://open.spotify.com/track/4HgOcLYz9T8jZLr3xyc40T"
-    },
-    {
-      "added_at": "2026-04-30 22:01:41",
-      "album": {
         "name": "Maak Me Nou Niet Gek",
         "url": "https://open.spotify.com/album/5jOHbWlFPTHrQbkrIXP5kI"
       },
@@ -79,6 +63,38 @@
       "duration_ms": 177205,
       "name": "Maak Me Nou Niet Gek",
       "url": "https://open.spotify.com/track/0q8Ft87t6fIUZdtve5PwKW"
+    },
+    {
+      "added_at": "2026-04-30 22:01:41",
+      "album": {
+        "name": "Schuilen",
+        "url": "https://open.spotify.com/album/5NhKivSjyoAOpvl4bMjPGg"
+      },
+      "artists": [
+        {
+          "name": "Miss Montreal",
+          "url": "https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2"
+        }
+      ],
+      "duration_ms": 209556,
+      "name": "Schuilen",
+      "url": "https://open.spotify.com/track/4HgOcLYz9T8jZLr3xyc40T"
+    },
+    {
+      "added_at": "2026-04-30 22:01:41",
+      "album": {
+        "name": "Je Hoort Nog Steeds Bij Mij",
+        "url": "https://open.spotify.com/album/3O6Fegs8MtjUGwVzXAlFMm"
+      },
+      "artists": [
+        {
+          "name": "FLEUR",
+          "url": "https://open.spotify.com/artist/5jE7YqOC3yRqDh0QsOmTV0"
+        }
+      ],
+      "duration_ms": 171940,
+      "name": "Je Hoort Nog Steeds Bij Mij",
+      "url": "https://open.spotify.com/track/7ijzPwiRgNqNqa65zHnRD2"
     },
     {
       "added_at": "2026-04-30 22:01:41",
@@ -123,22 +139,6 @@
       "duration_ms": 184076,
       "name": "Constant in beweging",
       "url": "https://open.spotify.com/track/27A3bay3r6t8017eO0AyrA"
-    },
-    {
-      "added_at": "2026-04-30 22:01:41",
-      "album": {
-        "name": "Je Hoort Nog Steeds Bij Mij",
-        "url": "https://open.spotify.com/album/3O6Fegs8MtjUGwVzXAlFMm"
-      },
-      "artists": [
-        {
-          "name": "FLEUR",
-          "url": "https://open.spotify.com/artist/5jE7YqOC3yRqDh0QsOmTV0"
-        }
-      ],
-      "duration_ms": 171940,
-      "name": "Je Hoort Nog Steeds Bij Mij",
-      "url": "https://open.spotify.com/track/7ijzPwiRgNqNqa65zHnRD2"
     },
     {
       "added_at": "2026-04-30 22:01:41",

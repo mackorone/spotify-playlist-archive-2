@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0aI7Qc.md) - [plain]
 
 > This is Luis R Conriquez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 390,018 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 390,046 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,13 +16,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0aI7Qc.md) - [plain]
 | 6 | [Súper Snake](https://open.spotify.com/track/6Wpf9WrKpHbkxeY34HwGam) | [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Súper Snake](https://open.spotify.com/album/1qAoa9VmpxKBOyca6q9SGb) | 2:26 |
 | 7 | [Rosa](https://open.spotify.com/track/33THfvKc6inTp3HW93k5jr) | [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Tutankamon](https://open.spotify.com/album/4ryjxzYmf7uFr7QA87IKoz) | 3:43 |
 | 8 | [NO SON DORITOS](https://open.spotify.com/track/4Y5oppVVHqsoEXTXWZm5DE) | [Clave Especial](https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [MIJA NO TE ASUSTES](https://open.spotify.com/album/34OOEmWpj7OnO5kCfal1MO) | 2:40 |
-| 9 | [Los Botones Azules](https://open.spotify.com/track/3ZGkdrigbWXLgHungXfZkt) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Mi Vida En Un Cigarro 2](https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb) | 2:15 |
-| 10 | [Muchacho Alegre](https://open.spotify.com/track/5xLyrOUjlel6P0lghNv2I3) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Muchacho Alegre](https://open.spotify.com/album/6BLz2jnev8ezl6NvPSo6oz) | 3:08 |
+| 9 | [Muchacho Alegre](https://open.spotify.com/track/5xLyrOUjlel6P0lghNv2I3) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Muchacho Alegre](https://open.spotify.com/album/6BLz2jnev8ezl6NvPSo6oz) | 3:08 |
+| 10 | [Los Botones Azules](https://open.spotify.com/track/3ZGkdrigbWXLgHungXfZkt) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Mi Vida En Un Cigarro 2](https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb) | 2:15 |
 | 11 | [Balenciaga](https://open.spotify.com/track/4VGFK69hVzkQ4K5qR4ypdF) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Balenciaga](https://open.spotify.com/album/3pJMrZyVDFg8HTNjsDrTq3) | 2:33 |
 | 12 | [Bandida](https://open.spotify.com/track/4dF08DjAjgactxNnsjRod6) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Bandida](https://open.spotify.com/album/5AIi8LYYq6kwvUAxZuqUBd) | 2:45 |
 | 13 | [NIMODO QUE NO](https://open.spotify.com/track/1QxHZbRWHsSZzArispjZtt) | [Clave Especial](https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [MIJA NO TE ASUSTES](https://open.spotify.com/album/34OOEmWpj7OnO5kCfal1MO) | 2:11 |
-| 14 | [MALEDUCADO](https://open.spotify.com/track/0VktYX8a8tvlPa3epPNCka) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [MALEDUCADO](https://open.spotify.com/album/6lUUo7CpyEPN5zKUDJ1hmM) | 2:39 |
-| 15 | [Siempre Pendientes](https://open.spotify.com/track/3gfSH9aYZbyGjdmbeoWliw) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Siempre Pendientes](https://open.spotify.com/album/3ri7jQpYUr63gKKyoihGCN) | 3:06 |
+| 14 | [Siempre Pendientes](https://open.spotify.com/track/3gfSH9aYZbyGjdmbeoWliw) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Siempre Pendientes](https://open.spotify.com/album/3ri7jQpYUr63gKKyoihGCN) | 3:06 |
+| 15 | [MALEDUCADO](https://open.spotify.com/track/0VktYX8a8tvlPa3epPNCka) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [MALEDUCADO](https://open.spotify.com/album/6lUUo7CpyEPN5zKUDJ1hmM) | 2:39 |
 | 16 | [Fresas Con Crema](https://open.spotify.com/track/0zoYPA5OMLiGwzRAXaEft7) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Corridos Bélicos, Vol\. IV](https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb) | 2:20 |
 | 17 | [SU CASA](https://open.spotify.com/track/1tGGJ4SRZnd2H0E2dV05iM) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [GÉNESIS](https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH) | 2:18 |
 | 18 | [DIOS TESTIGO](https://open.spotify.com/track/1TsCrwD4t8rrrGeE1pH4dz) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [DIOS TESTIGO](https://open.spotify.com/album/7Gbu1Y6tV3EcBmR9RF4b6H) | 2:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0aI7Qc.md) - [plain]
 | 49 | [El Plumas](https://open.spotify.com/track/3IQU5PZDEIKayRyB0txMdC) | [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El Plumas](https://open.spotify.com/album/4ARKlUQgNQHUUFvjHpbWcp) | 2:30 |
 | 50 | [Cholo 7](https://open.spotify.com/track/06ONHS2cu9I7fvzTz3NQvq) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Cholo 7](https://open.spotify.com/album/2DqUzBO8R3Aw4q26PDjV1t) | 2:37 |
 
-Snapshot ID: `afU+gAAAAAD3YwhfdIKBaXOatfso8zc5`
+Snapshot ID: `afaQAAAAAACR0ft0cWo/eShyvPP7q7yb`

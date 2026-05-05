@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 422 likes - 90 songs - 5 hr 46 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 427 likes - 94 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,5 +98,9 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 | 88 | [Walk Away](https://open.spotify.com/track/0goHckNxy52mUUqaSqJ0gN) | [Altered Edge](https://open.spotify.com/artist/1LK0zVegel8RFJsECz7QQ5) | [Walk Away](https://open.spotify.com/album/2EJUBIUDDBmmJm0qqN8eTJ) | 3:14 |
 | 89 | [The Runaway Song](https://open.spotify.com/track/2LdQb5Pm6m7Sbi1esrv3Wj) | [Hunter Road](https://open.spotify.com/artist/5aPH9KCyGCSIKUyrbsz1bn) | [The Runaway Song](https://open.spotify.com/album/1a5FKZRgTGoQCsLKFhDFcL) | 5:51 |
 | 90 | [188](https://open.spotify.com/track/51Pl4eyuqbLv74w3caC21w) | [Hag Roast](https://open.spotify.com/artist/7FN51i8wVHCTx72xQEOzEQ) | [188](https://open.spotify.com/album/5ZRSJkWE8UrXFkiy5S93Zx) | 3:09 |
+| 91 | [The End \(For You\)](https://open.spotify.com/track/0ihoMNxO7cS13uoxzTaUvp) | [The UNSOLVED](https://open.spotify.com/artist/2o8svnvt9r8DbgH2DHvtCO) | [The Gauntlet](https://open.spotify.com/album/0ZCGfrukq5jzMuymHqn9eb) | 3:06 |
+| 92 | [Silver Turns to Red](https://open.spotify.com/track/7jVXNz0jEKienLLq7zvVe5) | [Solar Flare Sunset](https://open.spotify.com/artist/5Rl6sxPtP6857bWDUdPN2r) | [Forever Waiting](https://open.spotify.com/album/4ZRB1AQmBiXeW21EFg0tWz) | 4:27 |
+| 93 | [Bad Omens](https://open.spotify.com/track/6avpcNvUmrYvdX0egVyjeU) | [The UNSOLVED](https://open.spotify.com/artist/2o8svnvt9r8DbgH2DHvtCO) | [Bad Omens](https://open.spotify.com/album/0uIbKWU808kXMrY9KJLRSD) | 3:53 |
+| 94 | [No Dice](https://open.spotify.com/track/1NGf8nUVTTLq9PUFdjFKfM) | [Touch of Red](https://open.spotify.com/artist/07GYobUq3xeoOIhrqJ2Bc1) | [In Our Nature](https://open.spotify.com/album/3OpeVn7ARilpWiXIgZS6j3) | 5:00 |
 
-Snapshot ID: `AAABi4f3xOE/y09J4nBWj6db6I96Y1av`
+Snapshot ID: `AAABj7B/AF6kltwf6W2OhAg7CcXJAgOi`

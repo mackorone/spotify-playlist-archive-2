@@ -4,7 +4,7 @@
 
 > Nieuwe R&B releases \| Cover: Neema Nekesa
 
-740 songs - 1 day 14 hr 7 min
+741 songs - 1 day 14 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,6 +195,7 @@
 | [Fallen Angel](https://open.spotify.com/track/3Ov4CEy8XiZ7Pj33KoKbSn) | [Felix Hien](https://open.spotify.com/artist/5pHGZpAY7Pm0EBDnBJtoZQ), [Greedo](https://open.spotify.com/artist/23o3FXVfRj8CZIy1fGidqm), [K.ZIA](https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY) | [Fallen Angel](https://open.spotify.com/album/5vvUiMWXTW3RucMqDYN7K2) | 3:19 | 2026-03-19 |  |
 | [Fallin](https://open.spotify.com/track/2SUQ7JvEtKtPwkyKQMsr0q) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [What I Didn’t Tell You \(Deluxe\)](https://open.spotify.com/album/2NByZQX5Du6JbAyQff4QxA) | 2:42 | 2023-01-19 | 2023-09-29 |
 | [Fallin'](https://open.spotify.com/track/0zOnQBMBE8CgIFcMDfM5Ks) | [YVES](https://open.spotify.com/artist/4QjFiRcZUcXUppYUR29MuQ), [SHY](https://open.spotify.com/artist/6XPCiOK0ZzG8WJhUsnyU7T) | [Fallin'](https://open.spotify.com/album/3FqkNoQfkwNJqcGFMlYTaY) | 3:14 | 2025-08-07 | 2026-04-10 |
+| [Fallin' \(feat\. Leon Thomas\)](https://open.spotify.com/track/5XFwDMO60LntXrFSWHPopc) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Fallin' \(feat\. Leon Thomas\)](https://open.spotify.com/album/36084xkxfgcSMnaeWphBOY) | 4:26 | 2026-05-04 |  |
 | [Falling or flying](https://open.spotify.com/track/3o790sA4zssA7vtFpElKKS) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Falling or flying](https://open.spotify.com/album/4DQceiYfpF7ByhwsBQaWYH) | 3:24 | 2023-08-31 | 2023-10-02 |
 | [Falling or flying](https://open.spotify.com/track/4CNZbr3dSioXNk5bJE46XQ) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [falling or flying](https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA) | 3:24 | 2023-09-28 | 2023-11-10 |
 | [FANTASY](https://open.spotify.com/track/0D7nZ9actrBFpoTO4vKlfJ) | [Lavils](https://open.spotify.com/artist/21IzgxyClVgsRUoFtE13mX) | [i wish we didn't..](https://open.spotify.com/album/69ajOGCWOvtpvM2oSHuaoO) | 2:37 | 2025-02-05 | 2025-03-08 |
@@ -283,7 +284,7 @@
 | [Hold of Me](https://open.spotify.com/track/7KY1unDGI0vtiHlvgPUwn6) | [K.ZIA](https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY) | [Hold of Me](https://open.spotify.com/album/2DWEwljuTE9nyq1Z65aCsN) | 3:33 | 2026-04-20 |  |
 | [Hold On To Me](https://open.spotify.com/track/5tnRnYnQIm9iJCraZGpOJp) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Hold On To Me](https://open.spotify.com/album/3nG6F5yVPJubWNP5dp24b2) | 3:05 | 2021-12-16 | 2022-03-26 |
 | [Holy \(feat\. Chance The Rapper\)](https://open.spotify.com/track/5u1n1kITHCxxp8twBcZxWy) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Holy](https://open.spotify.com/album/4hR7jjsPvRwwcHx8ntJSQS) | 3:32 | 2021-12-16 | 2022-01-21 |
-| [Holy Blindfold](https://open.spotify.com/track/1f6D8lQmjEHSwhGXcTnZc9) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Holy Blindfold](https://open.spotify.com/album/21148QXr6aXsBfN9P7N6X9) | 2:50 | 2025-06-18 |  |
+| [Holy Blindfold](https://open.spotify.com/track/1f6D8lQmjEHSwhGXcTnZc9) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Holy Blindfold](https://open.spotify.com/album/21148QXr6aXsBfN9P7N6X9) | 2:50 | 2025-06-18 | 2026-05-05 |
 | [Home](https://open.spotify.com/track/5cJwZEAFSYVPqZjdGxBkVW) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [Home](https://open.spotify.com/album/4qiqFAHCjnheNKnESivXuU) | 3:16 | 2021-12-16 | 2023-01-13 |
 | [Home](https://open.spotify.com/track/2V1uSXkEy77WNk9ZL6IuxJ) | [K.ZIA](https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY) | [Genesis](https://open.spotify.com/album/4Pc3nWPVnnOQcMKRE53qYT) | 3:03 | 2023-09-28 | 2024-03-01 |
 | [Homicide \(with Jessie Reyez\)](https://open.spotify.com/track/2vVUevSgxbWBub5zW7rQPO) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Homicide](https://open.spotify.com/album/5MEbCYZLR7HGbZP45NrhrW) | 3:01 | 2023-09-28 | 2023-11-17 |

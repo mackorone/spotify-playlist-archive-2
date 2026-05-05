@@ -1140,7 +1140,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 241920,
       "name": "Knowing Me, Knowing You",
       "url": "https://open.spotify.com/track/798cuJeotvXP8UVa8GJPnD"
@@ -1216,6 +1216,24 @@
       "duration_ms": 286219,
       "name": "Life in the Fast Lane - 2013 Remaster",
       "url": "https://open.spotify.com/track/6gXrEUzibufX9xYPk3HD5p"
+    },
+    {
+      "album": {
+        "name": "But Seriously, Folks...",
+        "url": "https://open.spotify.com/album/5yqBTSoJqE9EfApl2Pptva"
+      },
+      "artists": [
+        {
+          "name": "Joe Walsh",
+          "url": "https://open.spotify.com/artist/5bDxAyJiTYBat1YnFJhvEK"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 536226,
+      "name": "Life's Been Good",
+      "url": "https://open.spotify.com/track/2wvMC5EyaaYQwBfiwwY2xE"
     },
     {
       "album": {

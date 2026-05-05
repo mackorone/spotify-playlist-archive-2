@@ -4,7 +4,7 @@
 
 > This is Burna Boy\. The essential tracks, all in one playlist.
 
-177 songs - 9 hr 33 min
+178 songs - 9 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Anybody](https://open.spotify.com/track/44SSviC4R1TkAdsyptjDpE) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [African Giant](https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF) | 3:08 | 2021-12-28 | 2025-01-25 |
 | [As e Be \(Skit\)](https://open.spotify.com/track/1bhEMY3ih5t89pwH2OYg9e) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [On a Spaceship](https://open.spotify.com/album/4tjD2jPZdPe3nqop8En6zb) | 0:43 | 2023-04-27 | 2023-05-01 |
 | [B\. D’OR \(feat\. Wizkid\)](https://open.spotify.com/track/3ketN3dth18vSJ1T3HIztN) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [B\. D’OR \(feat\. Wizkid\)](https://open.spotify.com/album/2Nwv16YY4xo8Jm4TVm54i9) | 3:09 | 2021-12-28 | 2025-01-07 |
+| [Bank On It](https://open.spotify.com/track/22kcexb32KF5zr9UIWijC7) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Twice As Tall](https://open.spotify.com/album/56lLDMppfyKqUaUJWr0Ld4) | 4:36 | 2026-05-05 |  |
 | [Bank On It](https://open.spotify.com/track/5jqh2kAjz4GxjOS3HHSz17) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Twice As Tall](https://open.spotify.com/album/218CJKDCszsQQj7Amk7vIu) | 4:36 | 2021-12-28 | 2024-06-07 |
 | [Bank On It](https://open.spotify.com/track/7862flGk6U3tiWs2m2aUzH) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Twice As Tall](https://open.spotify.com/album/4moiYbxseWbPD2moVhOYje) | 4:36 | 2024-06-13 | 2024-09-17 |
 | [Be Honest \(feat\. Burna Boy\)](https://open.spotify.com/track/5pAbCxt9e3f81lOmjIXwzd) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Be Honest \(feat\. Burna Boy\)](https://open.spotify.com/album/4d2oTHRFwGifGFgve7zSGC) | 3:27 | 2021-12-28 |  |
@@ -180,7 +181,7 @@
 | [wgft \(feat\. Burna Boy\)](https://open.spotify.com/track/0WsC4ETIXyiHDMXRaPMvKe) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [The Last Wun](https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w) | 3:04 | 2025-09-10 |  |
 | [wgft \(feat\. Burna Boy\)](https://open.spotify.com/track/4kCkgD1ITALBjzBwGsf6tW) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [wgft \(feat\. Burna Boy\)](https://open.spotify.com/album/5LgGFj0CG4iJ1MynD791hi) | 3:04 | 2025-08-10 | 2025-09-10 |
 | [Whiskey](https://open.spotify.com/track/4DPvMjCqZPTBDpahYjMSy2) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 3:23 | 2022-07-09 | 2022-07-17 |
-| [Wild Dreams \(feat\. Khalid\)](https://open.spotify.com/track/0OLwkGjMlgpAtrb79aK73o) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Love, Damini](https://open.spotify.com/album/1xaHgMftad2egI7Q4DX7Bc) | 3:06 | 2026-03-06 |  |
+| [Wild Dreams \(feat\. Khalid\)](https://open.spotify.com/track/0OLwkGjMlgpAtrb79aK73o) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Love, Damini](https://open.spotify.com/album/1xaHgMftad2egI7Q4DX7Bc) | 3:06 | 2026-03-06 | 2026-05-05 |
 | [Wild Dreams \(feat\. Khalid\)](https://open.spotify.com/track/2cgamRofJ1iWxAHD801DNu) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 3:06 | 2022-10-12 | 2024-02-12 |
 | [Wonderful](https://open.spotify.com/track/1bKhbFn3isNTQR9dU0sWqL) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Wonderful](https://open.spotify.com/album/71uD3BHqDgHMayzi5eN2Dm) | 3:33 | 2021-12-28 | 2023-02-04 |
 | [Yaba Buluku \(feat\. Preck & Nelson Tivane\) \- Remix](https://open.spotify.com/track/3KD8PhFfq5zQBAwwRvzG1i) | [DJ Tarico](https://open.spotify.com/artist/33CYyUywVRqTra6IdaQ35H), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Preck](https://open.spotify.com/artist/1ViWe4OarzndzcN2wptVEY), [Nelson Tivane](https://open.spotify.com/artist/5DuNvp03Q7ROGfaGoJDP9S) | [Yaba Buluku \(feat\. Preck & Nelson Tivane\) \[Remix\]](https://open.spotify.com/album/1vc9def4aoS2RJZJzyw5Vi) | 3:34 | 2021-12-29 | 2024-07-24 |

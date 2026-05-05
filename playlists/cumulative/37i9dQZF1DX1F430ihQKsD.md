@@ -4,7 +4,7 @@
 
 > 100 % chill, 100 % Montréal\. Photo: Thierry Larose
 
-869 songs - 2 day 1 hr 17 min
+870 songs - 2 day 1 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Astray](https://open.spotify.com/track/0dDuTVzcx3YK9m9035G1rF) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi), [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Miracles](https://open.spotify.com/album/6zkjYpTdFBcRz5m4Ui8tsy) | 3:53 | 2023-09-22 | 2024-08-31 |
 | [Astray](https://open.spotify.com/track/6mN1BAzH2eM6Plt40q4BYf) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi), [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Astray](https://open.spotify.com/album/5T1KTLXebGps2jgsr7opyz) | 3:53 | 2023-08-18 | 2023-09-23 |
 | [AT MINES](https://open.spotify.com/track/5JUCZa9TG7IPdyh5ZWeuZd) | [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG) | [The Sky Is Recording Me: 100 Years Later, Vol\. 1](https://open.spotify.com/album/1dsPdpA7z3yi6po3NVLqNu) | 3:33 | 2024-09-06 | 2025-10-11 |
+| [Aucune fleur](https://open.spotify.com/track/1JydHvzhSmrHsxoTOYhog7) | [Soleil Secret](https://open.spotify.com/artist/4IQCnobNBeEGanSiX0iU1K), [Secret sun](https://open.spotify.com/artist/3v7tbK2VbPQC4A3Isn2G1y) | [Rose lueur](https://open.spotify.com/album/7eVxlt3PfOurJfSNHiFw0m) | 3:18 | 2026-05-04 |  |
 | [Avalanche](https://open.spotify.com/track/0Zk0EvHy7k5U6iQyXwunC6) | [Marco Ema](https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ) | [Avalanche](https://open.spotify.com/album/7BEY4krHDB0JNdY1157peL) | 3:33 | 2025-07-25 | 2025-11-29 |
 | [Avant de redescendre](https://open.spotify.com/track/4UNQK6kvnSFYakfM66LBTI) | [Lucill](https://open.spotify.com/artist/16AIsiZAml6sFZCwiin97x), [Marco Ema](https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ) | [Avant de redescendre](https://open.spotify.com/album/7aZwJYADPJHtGypapaMn63) | 4:00 | 2024-03-08 | 2024-08-17 |
 | [Avant Elle](https://open.spotify.com/track/313L5l9abg2UJMq0FRccMD) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Aliocha Schneider](https://open.spotify.com/album/5wSrUAHl9x25A4w0wXpJLO) | 3:20 | 2023-09-29 | 2025-03-22 |
@@ -168,7 +169,7 @@
 | [Comedy](https://open.spotify.com/track/0GcV1G5sLpOUkOIfPvOo45) | [Sasha Cay](https://open.spotify.com/artist/70PKezrSmt6UkxyZU6ueHc) | [Comedy](https://open.spotify.com/album/0cy67dLDF9i8DGjAEUS1Zj) | 4:04 | 2023-09-15 | 2025-02-01 |
 | [Comme au cinéma](https://open.spotify.com/track/0HQNKBNF60mEzX4uvLZHWj) | [Carla Blanc](https://open.spotify.com/artist/6chRuvOE6rDVousQYA6kJl), [Ogee Rodman](https://open.spotify.com/artist/2OceOdLERXKBklcwbmzhjT) | [Plaisirs & terreurs de la vie domestique](https://open.spotify.com/album/6EV5e75ret5X9pHNkbeKv8) | 2:57 | 2022-04-22 | 2023-05-13 |
 | [Comment se perdre](https://open.spotify.com/track/0SPxnX6Zb5C8v85JgVoxbi) | [Allô Fantôme](https://open.spotify.com/artist/48P9cQW6qwEGKMfeM60h2i) | [Journée ordinaire / Comment se perdre](https://open.spotify.com/album/0mt908UFb2yiqgYyC5aG2t) | 4:16 | 2025-10-31 | 2025-12-04 |
-| [Contemplating You](https://open.spotify.com/track/6yo7B6kNrbHDFAppCxZzI1) | [Jennarie](https://open.spotify.com/artist/3vvIH5V5MjAhLrQgfQvlhX) | [Contemplating You](https://open.spotify.com/album/548tEzzOv6yKgaCyAAooca) | 3:05 | 2026-02-06 |  |
+| [Contemplating You](https://open.spotify.com/track/6yo7B6kNrbHDFAppCxZzI1) | [Jennarie](https://open.spotify.com/artist/3vvIH5V5MjAhLrQgfQvlhX) | [Contemplating You](https://open.spotify.com/album/548tEzzOv6yKgaCyAAooca) | 3:05 | 2026-02-06 | 2026-05-05 |
 | [Cool et branchée](https://open.spotify.com/track/1yOQDjZTq4hrj6iemnUlzr) | [Marco Ema](https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ) | [Cool et branchée](https://open.spotify.com/album/5BmwnrAljljUUUmUoGifFz) | 2:57 | 2023-09-15 | 2023-10-28 |
 | [Corde à linge](https://open.spotify.com/track/5Caw8YAzPooXtitP0IzNwJ) | [Velours Velours](https://open.spotify.com/artist/1DXXGN22iihmr6gKcYwuWg) | [Corde à linge](https://open.spotify.com/album/652iWZmNRzFWHQ45yYzznR) | 6:20 | 2024-09-20 | 2025-01-14 |
 | [coucou, comment ça va?](https://open.spotify.com/track/2KFgHnjoIbI2xZZjbxQMWf) | [comment debord](https://open.spotify.com/artist/6C16UJJjE6FE2VwenTrElQ) | [coucou, comment ça va?](https://open.spotify.com/album/0q5h1NuPKCjq06DSz5q9T7) | 4:13 | 2026-05-01 |  |

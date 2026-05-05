@@ -4,26 +4,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,956 likes - 104 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,951 likes - 104 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [LENG](https://open.spotify.com/track/1PDjaOh7v1owm1RFowPCBi) | [Blizzy](https://open.spotify.com/artist/4tSx9oXscGCVaVXEhH86qp) | [LENG](https://open.spotify.com/album/1sk9ipHt7r2ngdhWJpq75L) | 1:38 |
+| 1 | [Pimp](https://open.spotify.com/track/660TO98oRtW8Sky6qNDzL7) | [Shacki](https://open.spotify.com/artist/2PuGN7y0Lvx9ItrBKyutPU), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [Pimp](https://open.spotify.com/album/5i4TFRJvUvsXtg5dGdyKCX) | 1:50 |
 | 2 | [IN DA CLUB](https://open.spotify.com/track/7k8EU2zUZmaM4JIA52gnPK) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [IN DA CLUB](https://open.spotify.com/album/6JqgXUKCbKwo5IvZQLzcN8) | 1:56 |
 | 3 | [Span](https://open.spotify.com/track/2YTyG2NLCd6gFJjAXlgHuU) | [N1cho](https://open.spotify.com/artist/2oYxnEf9p7RUIeDVo3y13y), [Le Bandit](https://open.spotify.com/artist/2TZHEsA6cWPgEVUsrEt4IQ) | [PRODUKT AV MIN MILJÖ](https://open.spotify.com/album/2YgtSLQO3tqBBCdlKOBDUQ) | 3:03 |
-| 4 | [Pimp](https://open.spotify.com/track/660TO98oRtW8Sky6qNDzL7) | [Shacki](https://open.spotify.com/artist/2PuGN7y0Lvx9ItrBKyutPU), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [Pimp](https://open.spotify.com/album/5i4TFRJvUvsXtg5dGdyKCX) | 1:50 |
+| 4 | [LENG](https://open.spotify.com/track/1PDjaOh7v1owm1RFowPCBi) | [Blizzy](https://open.spotify.com/artist/4tSx9oXscGCVaVXEhH86qp) | [LENG](https://open.spotify.com/album/1sk9ipHt7r2ngdhWJpq75L) | 1:38 |
 | 5 | [Kärlek & brott](https://open.spotify.com/track/0jZIXTGOxUkKvk0wwzabKI) | [Owen](https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl) | [Kärlek & brott](https://open.spotify.com/album/4EZhLDlDFGcxhNGIgS0kxS) | 2:06 |
-| 6 | [Million dollar man](https://open.spotify.com/track/2RQd5UI8j9NbOQWN2PVILN) | [Romeo](https://open.spotify.com/artist/3TSLK8NFrFC8KqFwZlM58D) | [Million dollar man](https://open.spotify.com/album/3C2xeJQHzUBd8wgMBMgiGL) | 2:18 |
-| 7 | [FINAL](https://open.spotify.com/track/7CfLohdHZlvV3rCU3yJrCw) | [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1), [Greekazo](https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8), [NBLNATION](https://open.spotify.com/artist/6n1wmwNagseQaWrmAkpcE6) | [FINAL](https://open.spotify.com/album/5wCxNoFNd1E4VYuECG0Yuv) | 2:08 |
-| 8 | [228235](https://open.spotify.com/track/7rZeRGajrgPebYleNpZEhx) | [Alawee](https://open.spotify.com/artist/1eAyilKA1p82m0SkoEZ8dB) | [228235](https://open.spotify.com/album/1IqMW0lYOj3NP81W5Ud7kI) | 1:31 |
+| 6 | [LAY LOW](https://open.spotify.com/track/3nNOCCziZVELhgrA7sPrYK) | [DANO](https://open.spotify.com/artist/1qid2RAqbRe7NvZ8tCxbOS) | [LAY LOW](https://open.spotify.com/album/0tPFfu9RO8sGtOocSv1t4w) | 2:32 |
+| 7 | [TARGET](https://open.spotify.com/track/4esPvN9uT4Bc2cFo1IK5Pd) | [Mukki](https://open.spotify.com/artist/3ajzLIlWCy0ypXarTE871Y) | [TARGET](https://open.spotify.com/album/1ID3kRzdIajGfhU9oRl9Mn) | 1:50 |
+| 8 | [FINAL](https://open.spotify.com/track/7CfLohdHZlvV3rCU3yJrCw) | [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1), [Greekazo](https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8), [NBLNATION](https://open.spotify.com/artist/6n1wmwNagseQaWrmAkpcE6) | [FINAL](https://open.spotify.com/album/5wCxNoFNd1E4VYuECG0Yuv) | 2:08 |
 | 9 | [PERFORMANTE](https://open.spotify.com/track/0L0IVsiiM565BaEw6ZC44Q) | [1.Cuz](https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [PERFORMANTE](https://open.spotify.com/album/2ezemS5XCfp01kKTiE6cBg) | 1:56 |
 | 10 | [Veratti](https://open.spotify.com/track/4ulLpuM2eDcCyyRGISLUMY) | [N1cho](https://open.spotify.com/artist/2oYxnEf9p7RUIeDVo3y13y), [P.J](https://open.spotify.com/artist/26SfC2rUkcGiSpZfLtla29) | [PRODUKT AV MIN MILJÖ](https://open.spotify.com/album/2YgtSLQO3tqBBCdlKOBDUQ) | 2:24 |
-| 11 | [EKAR](https://open.spotify.com/track/7pE0wKNa5dkCEchtEhS1kx) | [D4vvyy](https://open.spotify.com/artist/2egcnbvvs5tjqsR7yYsfYl), [Maxxk](https://open.spotify.com/artist/1j2hRbCetYwiQg71grVtcY) | [EKAR](https://open.spotify.com/album/4cpxmiVC9TWagacmHZ4WNy) | 2:13 |
-| 12 | [R2](https://open.spotify.com/track/15ltSBsDtEQimlr1gDZZVx) | [B.Baby](https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13), [Olwin](https://open.spotify.com/artist/6zxwDNMPwg469SxaS0lrOO) | [R2](https://open.spotify.com/album/2Glnu4xZHmlpXK3iDOGIeg) | 2:06 |
-| 13 | [FOKUS](https://open.spotify.com/track/1JKyRBQ92mwrFULKGrmmxQ) | [LB](https://open.spotify.com/artist/3jaXGj5Sjt07nAhZ2b70yv) | [FOKUS](https://open.spotify.com/album/66GhseQ10eY0c9QcooB0O5) | 2:37 |
-| 14 | [LAY LOW](https://open.spotify.com/track/3nNOCCziZVELhgrA7sPrYK) | [DANO](https://open.spotify.com/artist/1qid2RAqbRe7NvZ8tCxbOS) | [LAY LOW](https://open.spotify.com/album/0tPFfu9RO8sGtOocSv1t4w) | 2:32 |
+| 11 | [Million dollar man](https://open.spotify.com/track/2RQd5UI8j9NbOQWN2PVILN) | [Romeo](https://open.spotify.com/artist/3TSLK8NFrFC8KqFwZlM58D) | [Million dollar man](https://open.spotify.com/album/3C2xeJQHzUBd8wgMBMgiGL) | 2:18 |
+| 12 | [FOKUS](https://open.spotify.com/track/1JKyRBQ92mwrFULKGrmmxQ) | [LB](https://open.spotify.com/artist/3jaXGj5Sjt07nAhZ2b70yv) | [FOKUS](https://open.spotify.com/album/66GhseQ10eY0c9QcooB0O5) | 2:37 |
+| 13 | [R2](https://open.spotify.com/track/15ltSBsDtEQimlr1gDZZVx) | [B.Baby](https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13), [Olwin](https://open.spotify.com/artist/6zxwDNMPwg469SxaS0lrOO) | [R2](https://open.spotify.com/album/2Glnu4xZHmlpXK3iDOGIeg) | 2:06 |
+| 14 | [228235](https://open.spotify.com/track/7rZeRGajrgPebYleNpZEhx) | [Alawee](https://open.spotify.com/artist/1eAyilKA1p82m0SkoEZ8dB) | [228235](https://open.spotify.com/album/1IqMW0lYOj3NP81W5Ud7kI) | 1:31 |
 | 15 | [MOËT](https://open.spotify.com/track/3Ij7FMVf5IzNoPcmyC4sFc) | [G3B](https://open.spotify.com/artist/4lyxajlLjjUI4EkluxTAA4), [Sarettii](https://open.spotify.com/artist/4kUfJdASJDMPLuo1t1N2zi) | [MOËT](https://open.spotify.com/album/7lzqZ0rZOn7wNjY08T6RMo) | 2:19 |
-| 16 | [TARGET](https://open.spotify.com/track/4esPvN9uT4Bc2cFo1IK5Pd) | [Mukki](https://open.spotify.com/artist/3ajzLIlWCy0ypXarTE871Y) | [TARGET](https://open.spotify.com/album/1ID3kRzdIajGfhU9oRl9Mn) | 1:50 |
+| 16 | [EKAR](https://open.spotify.com/track/7pE0wKNa5dkCEchtEhS1kx) | [D4vvyy](https://open.spotify.com/artist/2egcnbvvs5tjqsR7yYsfYl), [Maxxk](https://open.spotify.com/artist/1j2hRbCetYwiQg71grVtcY) | [EKAR](https://open.spotify.com/album/4cpxmiVC9TWagacmHZ4WNy) | 2:13 |
 | 17 | [The Wire](https://open.spotify.com/track/3UWgetrlbddIwrWVmXhRov) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [The Wire](https://open.spotify.com/album/3ZxYa0OcfFwlgal3tCRlHY) | 2:10 |
 | 18 | [Catwalk](https://open.spotify.com/track/54HwnROSx62M92JqmMNcll) | [Montana](https://open.spotify.com/artist/4klH9sjw1BjPGzibWyZaIj) | [Catwalk](https://open.spotify.com/album/6pGfiPeV3kIyVIDtSD6Oba) | 1:53 |
 | 19 | [Nya Sverige 2026](https://open.spotify.com/track/3o0XwyqwQ8RcPev4h1bu0B) | [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF) | [Nya Sverige 2026](https://open.spotify.com/album/18qIucEmXCfjGgFV6Xiu7k) | 2:27 |
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 103 | [Jealousy](https://open.spotify.com/track/3B5bAiWFFbLmBkJ5mlzoyF) | [Saikz](https://open.spotify.com/artist/3YAxYI6L8lRRh1eYqDMd4A) | [Jealousy](https://open.spotify.com/album/3ppgsENpejo61jazC2MTNl) | 2:05 |
 | 104 | [Smutsiga Tankar](https://open.spotify.com/track/3FGjcrMU2Ocrn99AJJ9Kil) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy), [Y4ska](https://open.spotify.com/artist/6E4YKq2KF72sNDThe2TaE8) | [Smutsiga Tankar](https://open.spotify.com/album/6EJ8lf1o9Fhyv3MeHVQwRE) | 2:00 |
 
-Snapshot ID: `AAAAAPMKUmdgHd2GKNus28Dr2DZEhoQ0`
+Snapshot ID: `AAAAABYa4b4lwDDydp0spy71jpP5OmPS`

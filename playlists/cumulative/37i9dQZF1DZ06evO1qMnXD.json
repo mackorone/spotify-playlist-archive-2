@@ -1061,6 +1061,24 @@
     },
     {
       "album": {
+        "name": "Retired from Sad, New Career in Business",
+        "url": "https://open.spotify.com/album/7K4SuWzgUEweJScduBcC6f"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190218,
+      "name": "Square",
+      "url": "https://open.spotify.com/track/64u6Y9b4sRGREmG4a6PX9E"
+    },
+    {
+      "album": {
         "name": "Star b/w Heaven",
         "url": "https://open.spotify.com/album/31JzBxnoBhjRRaEGijOGxU"
       },

@@ -1,12 +1,12 @@
 {
   "description": "you up?",
-  "num_followers": 2176298,
+  "num_followers": 2176622,
   "original_name": "goosebumps",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIsttmfMymxsgodfzDmcWrU5mF/j",
+  "snapshot_id": "AAAAANxmxoT2T1uXvJdTy/YbXv2jBOVW",
   "tracks": [
     {
       "added_at": "2025-04-18 17:03:04",
@@ -23,6 +23,70 @@
       "duration_ms": 160923,
       "name": "makes me want you",
       "url": "https://open.spotify.com/track/0CRvTAUyG3WOb3DIelsJ12"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "AM",
+        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "duration_ms": 183956,
+      "name": "I Wanna Be Yours",
+      "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
+    },
+    {
+      "added_at": "2026-03-20 04:00:31",
+      "album": {
+        "name": "fuck, i\u2019m yours?",
+        "url": "https://open.spotify.com/album/3tNuN7r0HFJJxzfz05dVcm"
+      },
+      "artists": [
+        {
+          "name": "bartek turski",
+          "url": "https://open.spotify.com/artist/5HArWtrcYhpxplTtZ848wR"
+        }
+      ],
+      "duration_ms": 167500,
+      "name": "fuck, i\u2019m yours?",
+      "url": "https://open.spotify.com/track/1qsncTDPTkXKYIiNpi3WdJ"
+    },
+    {
+      "added_at": "2026-04-24 04:00:54",
+      "album": {
+        "name": "freak for you",
+        "url": "https://open.spotify.com/album/1mGSwEqCQxsBS7HbRE3qZg"
+      },
+      "artists": [
+        {
+          "name": "Haiden Henderson",
+          "url": "https://open.spotify.com/artist/79xvSUqngetd6CbJ1bgb4p"
+        }
+      ],
+      "duration_ms": 146731,
+      "name": "freak for you",
+      "url": "https://open.spotify.com/track/2TvnYVAd1HeCA2ZA56Ykbl"
+    },
+    {
+      "added_at": "2026-03-20 04:00:31",
+      "album": {
+        "name": "more than just a little bit",
+        "url": "https://open.spotify.com/album/3F8UGnSi7OTQg03Ag3xtxv"
+      },
+      "artists": [
+        {
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+        }
+      ],
+      "duration_ms": 160382,
+      "name": "more than just a little bit",
+      "url": "https://open.spotify.com/track/4lAH08gTc08QbUDFakKXTG"
     },
     {
       "added_at": "2026-05-01 04:01:09",
@@ -43,102 +107,6 @@
       "duration_ms": 275898,
       "name": "Despu\u00e9s de ti",
       "url": "https://open.spotify.com/track/6PbhFQkpQjoojWo2b6Ghoi"
-    },
-    {
-      "added_at": "2026-03-20 04:00:31",
-      "album": {
-        "name": "fuck, i\u2019m yours?",
-        "url": "https://open.spotify.com/album/3tNuN7r0HFJJxzfz05dVcm"
-      },
-      "artists": [
-        {
-          "name": "bartek turski",
-          "url": "https://open.spotify.com/artist/5HArWtrcYhpxplTtZ848wR"
-        }
-      ],
-      "duration_ms": 167500,
-      "name": "fuck, i\u2019m yours?",
-      "url": "https://open.spotify.com/track/1qsncTDPTkXKYIiNpi3WdJ"
-    },
-    {
-      "added_at": "2026-05-01 04:01:09",
-      "album": {
-        "name": "DIET",
-        "url": "https://open.spotify.com/album/2huGDWA6lBNEszl3AsYjhd"
-      },
-      "artists": [
-        {
-          "name": "Mad Tsai",
-          "url": "https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB"
-        }
-      ],
-      "duration_ms": 169685,
-      "name": "DIET",
-      "url": "https://open.spotify.com/track/23Wt9MTOGVyaQGbssSPM59"
-    },
-    {
-      "added_at": "2026-03-20 04:00:31",
-      "album": {
-        "name": "more than just a little bit",
-        "url": "https://open.spotify.com/album/3F8UGnSi7OTQg03Ag3xtxv"
-      },
-      "artists": [
-        {
-          "name": "Artemas",
-          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
-        }
-      ],
-      "duration_ms": 160382,
-      "name": "more than just a little bit",
-      "url": "https://open.spotify.com/track/4lAH08gTc08QbUDFakKXTG"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "AM",
-        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
-      },
-      "artists": [
-        {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
-        }
-      ],
-      "duration_ms": 183956,
-      "name": "I Wanna Be Yours",
-      "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
-    },
-    {
-      "added_at": "2026-04-24 04:00:54",
-      "album": {
-        "name": "freak for you",
-        "url": "https://open.spotify.com/album/1mGSwEqCQxsBS7HbRE3qZg"
-      },
-      "artists": [
-        {
-          "name": "Haiden Henderson",
-          "url": "https://open.spotify.com/artist/79xvSUqngetd6CbJ1bgb4p"
-        }
-      ],
-      "duration_ms": 146731,
-      "name": "freak for you",
-      "url": "https://open.spotify.com/track/2TvnYVAd1HeCA2ZA56Ykbl"
-    },
-    {
-      "added_at": "2026-02-20 05:35:55",
-      "album": {
-        "name": "So Good",
-        "url": "https://open.spotify.com/album/2U8qmMJHqUBOLd6CWGEHpU"
-      },
-      "artists": [
-        {
-          "name": "Ari Abdul",
-          "url": "https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U"
-        }
-      ],
-      "duration_ms": 167481,
-      "name": "So Good",
-      "url": "https://open.spotify.com/track/2e1XOTyNwFenng3U4hVWqi"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -163,6 +131,38 @@
       "duration_ms": 244684,
       "name": "One Of The Girls (with JENNIE, Lily Rose Depp)",
       "url": "https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW"
+    },
+    {
+      "added_at": "2026-02-20 05:35:55",
+      "album": {
+        "name": "So Good",
+        "url": "https://open.spotify.com/album/2U8qmMJHqUBOLd6CWGEHpU"
+      },
+      "artists": [
+        {
+          "name": "Ari Abdul",
+          "url": "https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U"
+        }
+      ],
+      "duration_ms": 167481,
+      "name": "So Good",
+      "url": "https://open.spotify.com/track/2e1XOTyNwFenng3U4hVWqi"
+    },
+    {
+      "added_at": "2026-05-01 04:01:09",
+      "album": {
+        "name": "DIET",
+        "url": "https://open.spotify.com/album/2huGDWA6lBNEszl3AsYjhd"
+      },
+      "artists": [
+        {
+          "name": "Mad Tsai",
+          "url": "https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB"
+        }
+      ],
+      "duration_ms": 169685,
+      "name": "DIET",
+      "url": "https://open.spotify.com/track/23Wt9MTOGVyaQGbssSPM59"
     },
     {
       "added_at": "2026-05-01 04:01:09",
@@ -545,22 +545,6 @@
       "url": "https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO"
     },
     {
-      "added_at": "2025-08-01 04:00:22",
-      "album": {
-        "name": "12 to 12",
-        "url": "https://open.spotify.com/album/2TrTb21wiXbwQohvN1UfFV"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 242903,
-      "name": "12 to 12",
-      "url": "https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq"
-    },
-    {
       "added_at": "2025-08-17 04:15:13",
       "album": {
         "name": "Or Nah (feat. The Weeknd, Wiz Khalifa & DJ Mustard) [Remix]",
@@ -587,6 +571,22 @@
       "duration_ms": 242983,
       "name": "Or Nah (feat. The Weeknd, Wiz Khalifa & DJ Mustard) - Remix",
       "url": "https://open.spotify.com/track/7t2bFihaDvhIrd2gn2CWJO"
+    },
+    {
+      "added_at": "2025-08-01 04:00:22",
+      "album": {
+        "name": "12 to 12",
+        "url": "https://open.spotify.com/album/2TrTb21wiXbwQohvN1UfFV"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 242903,
+      "name": "12 to 12",
+      "url": "https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq"
     },
     {
       "added_at": "2025-09-19 04:00:19",
@@ -761,22 +761,6 @@
       "url": "https://open.spotify.com/track/2pg2TiYo9Rb8KeB5JjP7jS"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "TAKE TIME",
-        "url": "https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C"
-      },
-      "artists": [
-        {
-          "name": "GIV\u0112ON",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
-        }
-      ],
-      "duration_ms": 260776,
-      "name": "Like I Want You",
-      "url": "https://open.spotify.com/track/6qBFSepqLCuh5tehehc1bd"
-    },
-    {
       "added_at": "2024-12-27 16:42:57",
       "album": {
         "name": "Coastal Grooves",
@@ -795,18 +779,34 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "WASTELAND",
-        "url": "https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg"
+        "name": "Late Nights: The Album",
+        "url": "https://open.spotify.com/album/7DMyQuDPe8xzjC0UDSDa96"
       },
       "artists": [
         {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+          "name": "Jeremih",
+          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
         }
       ],
-      "duration_ms": 216062,
-      "name": "ALL MINE",
-      "url": "https://open.spotify.com/track/3XgGQ1wjo5khvq2UImjyNF"
+      "duration_ms": 238320,
+      "name": "oui",
+      "url": "https://open.spotify.com/track/0PJIbOdMs3bd5AT8liULMQ"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "TAKE TIME",
+        "url": "https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C"
+      },
+      "artists": [
+        {
+          "name": "GIV\u0112ON",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "duration_ms": 260776,
+      "name": "Like I Want You",
+      "url": "https://open.spotify.com/track/6qBFSepqLCuh5tehehc1bd"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -827,6 +827,22 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
+        "name": "WASTELAND",
+        "url": "https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 216062,
+      "name": "ALL MINE",
+      "url": "https://open.spotify.com/track/3XgGQ1wjo5khvq2UImjyNF"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
         "name": "xx",
         "url": "https://open.spotify.com/album/2av2ZSHlvD7rvLSsMvtYCG"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 127920,
       "name": "Intro",
       "url": "https://open.spotify.com/track/2usrT8QIbIk9y0NEtQwS4j"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Late Nights: The Album",
-        "url": "https://open.spotify.com/album/7DMyQuDPe8xzjC0UDSDa96"
-      },
-      "artists": [
-        {
-          "name": "Jeremih",
-          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
-        }
-      ],
-      "duration_ms": 238320,
-      "name": "oui",
-      "url": "https://open.spotify.com/track/0PJIbOdMs3bd5AT8liULMQ"
     },
     {
       "added_at": "2025-07-03 03:36:52",
@@ -907,22 +907,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Her Love Still Haunts Me Like a Ghost",
-        "url": "https://open.spotify.com/album/3q6BNwqgHKVzXzAv2ZV6tD"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Bathroom",
-      "url": "https://open.spotify.com/track/3sLTYBYs6lJsFK84t2X7wt"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Poison",
         "url": "https://open.spotify.com/album/17dsllSewkPuKbkGWU4chD"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 212992,
       "name": "Poison",
       "url": "https://open.spotify.com/track/5NijSs5dAwaIybq1GaRTIe"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "A 20 Something Fuck",
+        "url": "https://open.spotify.com/album/4ThJUigPBlok72LoKGk2g1"
+      },
+      "artists": [
+        {
+          "name": "Two Feet",
+          "url": "https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH"
+        }
+      ],
+      "duration_ms": 185520,
+      "name": "I Feel Like I'm Drowning",
+      "url": "https://open.spotify.com/track/3aauaXWRgwCMoykMbI0Jq1"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -967,22 +967,6 @@
       "duration_ms": 265360,
       "name": "Agora Hills",
       "url": "https://open.spotify.com/track/7dJYggqjKo71KI9sLzqCs8"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "A 20 Something Fuck",
-        "url": "https://open.spotify.com/album/4ThJUigPBlok72LoKGk2g1"
-      },
-      "artists": [
-        {
-          "name": "Two Feet",
-          "url": "https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH"
-        }
-      ],
-      "duration_ms": 185520,
-      "name": "I Feel Like I'm Drowning",
-      "url": "https://open.spotify.com/track/3aauaXWRgwCMoykMbI0Jq1"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1027,18 +1011,18 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Megalithic Symphony",
-        "url": "https://open.spotify.com/album/1fag8cnc5p4Umu4tRMAsLv"
+        "name": "Her Love Still Haunts Me Like a Ghost",
+        "url": "https://open.spotify.com/album/3q6BNwqgHKVzXzAv2ZV6tD"
       },
       "artists": [
         {
-          "name": "AWOLNATION",
-          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
         }
       ],
-      "duration_ms": 259093,
-      "name": "Sail",
-      "url": "https://open.spotify.com/track/7ueP5u2qkdZbIPN2YA6LR0"
+      "duration_ms": 208000,
+      "name": "Bathroom",
+      "url": "https://open.spotify.com/track/3sLTYBYs6lJsFK84t2X7wt"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1055,6 +1039,22 @@
       "duration_ms": 187557,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/2i2gDpKKWjvnRTOZRhaPh2"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Megalithic Symphony",
+        "url": "https://open.spotify.com/album/1fag8cnc5p4Umu4tRMAsLv"
+      },
+      "artists": [
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        }
+      ],
+      "duration_ms": 259093,
+      "name": "Sail",
+      "url": "https://open.spotify.com/track/7ueP5u2qkdZbIPN2YA6LR0"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1185,22 +1185,6 @@
       "url": "https://open.spotify.com/track/65zIby9Z03d1bhGvLNJNrA"
     },
     {
-      "added_at": "2026-04-03 04:02:31",
-      "album": {
-        "name": "Sideways",
-        "url": "https://open.spotify.com/album/6NlUyo5ZQoHaDexCvKMKNX"
-      },
-      "artists": [
-        {
-          "name": "ZAYN",
-          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
-        }
-      ],
-      "duration_ms": 192572,
-      "name": "Sideways",
-      "url": "https://open.spotify.com/track/6oddAlRHDuiFVDdUZJlrZ6"
-    },
-    {
       "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "Champagne & Sunshine",
@@ -1223,22 +1207,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Favorite",
-        "url": "https://open.spotify.com/album/6pngQ1BGnsddTXtAJQUkF7"
-      },
-      "artists": [
-        {
-          "name": "Isabel LaRosa",
-          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
-        }
-      ],
-      "duration_ms": 133608,
-      "name": "Favorite",
-      "url": "https://open.spotify.com/track/3QJsSWa0Xo8MfaRn1gr4Be"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Collide (feat. Tyga)",
         "url": "https://open.spotify.com/album/2LbrGt2oc08xV8IDJvLzYi"
       },
@@ -1255,6 +1223,38 @@
       "duration_ms": 260169,
       "name": "Collide (feat. Tyga)",
       "url": "https://open.spotify.com/track/22I3h5AOENlH4CqXJsEbFR"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Favorite",
+        "url": "https://open.spotify.com/album/6pngQ1BGnsddTXtAJQUkF7"
+      },
+      "artists": [
+        {
+          "name": "Isabel LaRosa",
+          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
+        }
+      ],
+      "duration_ms": 133608,
+      "name": "Favorite",
+      "url": "https://open.spotify.com/track/3QJsSWa0Xo8MfaRn1gr4Be"
+    },
+    {
+      "added_at": "2026-04-03 04:02:31",
+      "album": {
+        "name": "Sideways",
+        "url": "https://open.spotify.com/album/6NlUyo5ZQoHaDexCvKMKNX"
+      },
+      "artists": [
+        {
+          "name": "ZAYN",
+          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
+        }
+      ],
+      "duration_ms": 192572,
+      "name": "Sideways",
+      "url": "https://open.spotify.com/track/6oddAlRHDuiFVDdUZJlrZ6"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Hotel",
-        "url": "https://open.spotify.com/album/0ykf7jcx3yY49RpkIO1byF"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 197333,
-      "name": "Hotel",
-      "url": "https://open.spotify.com/track/0JzG1wJuB4v9UPkSE7LMXi"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Dead Man Walking",
         "url": "https://open.spotify.com/album/7JN4bDXgC4mDcuhghlFBHc"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 247079,
       "name": "Dead Man Walking",
       "url": "https://open.spotify.com/track/5VlTQnZO89Ioku8ssdbqJk"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Hotel",
+        "url": "https://open.spotify.com/album/0ykf7jcx3yY49RpkIO1byF"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 197333,
+      "name": "Hotel",
+      "url": "https://open.spotify.com/track/0JzG1wJuB4v9UPkSE7LMXi"
     },
     {
       "added_at": "2026-02-03 17:00:46",
@@ -1629,6 +1629,22 @@
       "url": "https://open.spotify.com/track/77Fi5t6oOR6mdAHD2WA08Z"
     },
     {
+      "added_at": "2026-04-24 04:00:54",
+      "album": {
+        "name": "Bad 4 Me",
+        "url": "https://open.spotify.com/album/6jAHKyg4Gzz8pHES7BSaDb"
+      },
+      "artists": [
+        {
+          "name": "Stellar",
+          "url": "https://open.spotify.com/artist/5yw4tA8D5uG7tT3NaDvq10"
+        }
+      ],
+      "duration_ms": 143529,
+      "name": "Bad 4 Me",
+      "url": "https://open.spotify.com/track/77M91bANCutKuN5JoTB6hU"
+    },
+    {
       "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "Dirty Thoughts",
@@ -1675,22 +1691,6 @@
       "duration_ms": 228157,
       "name": "milk & honey",
       "url": "https://open.spotify.com/track/1BuR2D1PYh37x2vAPCVvo7"
-    },
-    {
-      "added_at": "2026-04-24 04:00:54",
-      "album": {
-        "name": "Bad 4 Me",
-        "url": "https://open.spotify.com/album/6jAHKyg4Gzz8pHES7BSaDb"
-      },
-      "artists": [
-        {
-          "name": "Stellar",
-          "url": "https://open.spotify.com/artist/5yw4tA8D5uG7tT3NaDvq10"
-        }
-      ],
-      "duration_ms": 143529,
-      "name": "Bad 4 Me",
-      "url": "https://open.spotify.com/track/77M91bANCutKuN5JoTB6hU"
     }
   ],
   "unique_name": "goosebumps",

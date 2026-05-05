@@ -1,12 +1,12 @@
 {
   "description": "This is Evanescence. The essential tracks, all in one playlist.",
-  "num_followers": 455573,
+  "num_followers": 455620,
   "original_name": "This Is Evanescence",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afU+gAAAAACeotscdR16yRAZI4qHKucb",
+  "snapshot_id": "afaQAAAAAACo17kPOxTqBl3nyCtFNRzd",
   "tracks": [
     {
       "added_at": null,
@@ -591,22 +591,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hi-Lo (feat. Lindsey Stirling)",
-        "url": "https://open.spotify.com/album/73CyYEWFPeRGWPuI1VJxsw"
+        "name": "Anywhere But Home (Live)",
+        "url": "https://open.spotify.com/album/5SpQ4sf9sXFWHgUKYCZSDF"
       },
       "artists": [
         {
           "name": "Evanescence",
           "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
-        },
-        {
-          "name": "Lindsey Stirling",
-          "url": "https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM"
         }
       ],
-      "duration_ms": 256347,
-      "name": "Hi-Lo - feat. Lindsey Stirling",
-      "url": "https://open.spotify.com/track/6gWf8DlEgGSDChgrzOCfni"
+      "duration_ms": 257506,
+      "name": "Tourniquet - Live From Le Z\u00e9nith,France/2004",
+      "url": "https://open.spotify.com/track/2IR6jzSjOjp8X3Ib4SYDI8"
     },
     {
       "added_at": null,
@@ -627,18 +623,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Anywhere But Home (Live)",
-        "url": "https://open.spotify.com/album/5SpQ4sf9sXFWHgUKYCZSDF"
+        "name": "Hi-Lo (feat. Lindsey Stirling)",
+        "url": "https://open.spotify.com/album/73CyYEWFPeRGWPuI1VJxsw"
       },
       "artists": [
         {
           "name": "Evanescence",
           "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+        },
+        {
+          "name": "Lindsey Stirling",
+          "url": "https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM"
         }
       ],
-      "duration_ms": 257506,
-      "name": "Tourniquet - Live From Le Z\u00e9nith,France/2004",
-      "url": "https://open.spotify.com/track/2IR6jzSjOjp8X3Ib4SYDI8"
+      "duration_ms": 256347,
+      "name": "Hi-Lo - feat. Lindsey Stirling",
+      "url": "https://open.spotify.com/track/6gWf8DlEgGSDChgrzOCfni"
     },
     {
       "added_at": null,
@@ -659,8 +659,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Across The Universe",
-        "url": "https://open.spotify.com/album/3EsATrrGKDb76NIdrOMk2F"
+        "name": "Anywhere But Home (Live)",
+        "url": "https://open.spotify.com/album/5SpQ4sf9sXFWHgUKYCZSDF"
       },
       "artists": [
         {
@@ -668,9 +668,9 @@
           "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
         }
       ],
-      "duration_ms": 222274,
-      "name": "Across The Universe",
-      "url": "https://open.spotify.com/track/75Ov0ZIMoV0HuRwaPQsicp"
+      "duration_ms": 244946,
+      "name": "Haunted - Live From Le Z\u00e9nith,France/2004",
+      "url": "https://open.spotify.com/track/4CJGuGDU0Uf3Z9amdY5bji"
     },
     {
       "added_at": null,
@@ -691,8 +691,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Anywhere But Home (Live)",
-        "url": "https://open.spotify.com/album/5SpQ4sf9sXFWHgUKYCZSDF"
+        "name": "Across The Universe",
+        "url": "https://open.spotify.com/album/3EsATrrGKDb76NIdrOMk2F"
       },
       "artists": [
         {
@@ -700,9 +700,9 @@
           "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
         }
       ],
-      "duration_ms": 244946,
-      "name": "Haunted - Live From Le Z\u00e9nith,France/2004",
-      "url": "https://open.spotify.com/track/4CJGuGDU0Uf3Z9amdY5bji"
+      "duration_ms": 222274,
+      "name": "Across The Universe",
+      "url": "https://open.spotify.com/track/75Ov0ZIMoV0HuRwaPQsicp"
     },
     {
       "added_at": null,

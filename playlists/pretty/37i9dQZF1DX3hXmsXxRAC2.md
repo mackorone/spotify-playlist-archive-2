@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3hXmsXxRAC2.md) - [plain]
 
 > Las voces que inmortalizaron las canciones del Divo de Juárez.
 
-[Spotify](https://open.spotify.com/user/spotify) - 360,825 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 360,836 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,12 +36,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3hXmsXxRAC2.md) - [plain]
 | 26 | [Nadie Baila Como Tú/El Noa Noa \- Medley](https://open.spotify.com/track/6eoS8IKUmz1MBSimwCMWYP) | [Pandora](https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP) | [Con Amor Eterno](https://open.spotify.com/album/3pBSsHUrvLhFjEopqGFCM4) | 4:13 |
 | 27 | [He Venido a Pedirte Perdón](https://open.spotify.com/track/7ebni0Sdf9dV2xzsQMSg7I) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Mi Tributo a Juan Gabriel](https://open.spotify.com/album/1ZM8dXmYIl3fQ97HDzf9C1) | 3:50 |
 | 28 | [Amor de un Rato](https://open.spotify.com/track/2ZmLc6EVSWKBMNQZTeqBVQ) | [Lucha Villa](https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1) | [Interpreta A Juan Gabriel](https://open.spotify.com/album/3CaLGUG2hGBGom57xsxA1O) | 4:32 |
-| 29 | [Costumbres](https://open.spotify.com/track/6hn29Vpz4kRsVCnwpgmsty) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Las Rancheras De Juan Gabriel](https://open.spotify.com/album/7D3jvm4H4nCIY9Fq7ERRUU) | 4:32 |
+| 29 | [Caray](https://open.spotify.com/track/4XzFq8NnSwPzb7WKqvcY9u) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Canta Once Grandes Exitos De Juan Gabriel](https://open.spotify.com/album/61odYv9kH9Zv4rxDOUwlBl) | 3:32 |
 | 30 | [Solo Se Que Fue En Marzo](https://open.spotify.com/track/3eIR0Fl5k7Oj1zNoDxanP1) | [Marcos Flores](https://open.spotify.com/artist/3nYcUUXBpc8o7Iwgms5U6D), [Banda Jerez](https://open.spotify.com/artist/48LhRfIdXbGSxKrYcok6Tn) | [De Nueva Cuenta](https://open.spotify.com/album/0yyfGnZEgRiTWBmpzu1DL4) | 2:53 |
 | 31 | [Querida](https://open.spotify.com/track/7uCzfOYv9QcwMq7SjMMCmF) | [Maldita Vecindad Y Los Hijos Del 5to\. Patio](https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT) | [El Circo](https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI) | 3:29 |
 | 32 | [Medley: Caray / Esta Noche Voy a Verla / Juntos](https://open.spotify.com/track/0lyyfkIsFODWphGaSs2DFQ) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Mi Tributo a Juan Gabriel](https://open.spotify.com/album/1ZM8dXmYIl3fQ97HDzf9C1) | 7:11 |
 | 33 | [No Tengo Dinero](https://open.spotify.com/track/6pgaDhAVcTbvURjdZFBSPk) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Origen](https://open.spotify.com/album/1pnliPS7mvHIMlBgwK7kgO) | 3:31 |
-| 34 | [Caray](https://open.spotify.com/track/4XzFq8NnSwPzb7WKqvcY9u) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Canta Once Grandes Exitos De Juan Gabriel](https://open.spotify.com/album/61odYv9kH9Zv4rxDOUwlBl) | 3:32 |
+| 34 | [Costumbres](https://open.spotify.com/track/6hn29Vpz4kRsVCnwpgmsty) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Las Rancheras De Juan Gabriel](https://open.spotify.com/album/7D3jvm4H4nCIY9Fq7ERRUU) | 4:32 |
 | 35 | [Viva Juan Gabriel / Popurrí](https://open.spotify.com/track/7bK7yujTLTLzHo5kZMryjL) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Mexicano](https://open.spotify.com/album/35pQAHKoqPw8GQyghvhx8R) | 7:57 |
 | 36 | [Dejame Vivir](https://open.spotify.com/track/6tElKIYCnCP3ZJ6Rq0hcVK) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Interpretan Éxitos De Juan Gabriel](https://open.spotify.com/album/3xsgGHVMU3MN7m33I3ZUWM) | 3:11 |
 | 37 | [Con Tu Amor](https://open.spotify.com/track/0t1JM3dU361khOLMA0URZB) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Mi Tributo a Juan Gabriel](https://open.spotify.com/album/1ZM8dXmYIl3fQ97HDzf9C1) | 4:44 |

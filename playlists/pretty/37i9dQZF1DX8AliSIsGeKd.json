@@ -1,6 +1,6 @@
 {
   "description": "The best new electronic music. Cover: Notre Dame",
-  "num_followers": 746366,
+  "num_followers": 746437,
   "original_name": "Electronic Rising",
   "owner": {
     "name": "Spotify",
@@ -600,12 +600,12 @@
       },
       "artists": [
         {
-          "name": "Nuran",
-          "url": "https://open.spotify.com/artist/5oYcT2rO56Rff3AExXCzYC"
-        },
-        {
           "name": "Differ",
           "url": "https://open.spotify.com/artist/0ivmXXhkqLJtg0LZxRCEO7"
+        },
+        {
+          "name": "NURAN",
+          "url": "https://open.spotify.com/artist/0GwaDQL8h37L435sHBrKXZ"
         }
       ],
       "duration_ms": 191219,

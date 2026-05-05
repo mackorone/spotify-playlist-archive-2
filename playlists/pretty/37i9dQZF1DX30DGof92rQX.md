@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30DGof92rQX.md) - [plain]
 
 > Latest Pakistani pop releases\. Like this? Listen to the Pop hits in <a href="https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b"> Pakistani Pop</a>\. Cover \- 4 Rubabs
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,302 likes - 93 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,311 likes - 93 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30DGof92rQX.md) - [plain]
 | 6 | [Saiyan](https://open.spotify.com/track/3bXPwjD7IlbAV3NOg7ffy6) | [SRMD](https://open.spotify.com/artist/4RigGF98zw6prPkYsy68JC), [Bouncy](https://open.spotify.com/artist/6YLcrxPUm5BavW00kv6WiQ) | [Saiyan](https://open.spotify.com/album/1gUNenZuQPqTkBqOVRp3hy) | 2:50 |
 | 7 | [Uraan](https://open.spotify.com/track/0IblAZHmyWiE86j452xiJf) | [Daniyal Abid](https://open.spotify.com/artist/05YR7CqRwC120pSVQxkwtc) | [Uraan](https://open.spotify.com/album/6aTkm2tiSEScayy84b0aqX) | 2:59 |
 | 8 | [Dard](https://open.spotify.com/track/6DIHOndUgDtWvFZqWV7ZLC) | [Hamza Ali](https://open.spotify.com/artist/5kHbX0Ne0niNDN6QItgCKL) | [Dard](https://open.spotify.com/album/6gDhkckAL3okHrKVf4Owfk) | 3:38 |
-| 9 | [Tera Ho Gaya](https://open.spotify.com/track/7n7cr0psMtkR1rfaolNVxS) | [Azaan Sami Khan](https://open.spotify.com/artist/6v5vYOydZ5MrA2qr6e4Lkc) | [Tera Ho Gaya](https://open.spotify.com/album/1sq1tnw33QPfTh8faAfxMs) | 4:15 |
+| 9 | [Tera Ho Gaya](https://open.spotify.com/track/7n7cr0psMtkR1rfaolNVxS) | [Azaan Sami Khan](https://open.spotify.com/artist/6v5vYOydZ5MrA2qr6e4Lkc), [Alex Shahbaz](https://open.spotify.com/artist/2ozQBz0oMeKqW2xSomWVwp) | [Tera Ho Gaya](https://open.spotify.com/album/1sq1tnw33QPfTh8faAfxMs) | 4:15 |
 | 10 | [Noor\-e\-Nazar](https://open.spotify.com/track/5v70pg7hpYuWsaoU4Udoof) | [Humnava](https://open.spotify.com/artist/0XvS3gFzcxSQSSXfemeLNI), [Noman Asmet](https://open.spotify.com/artist/380nMOwFuoQU0cbb1Lcwey), [Noorima Rehan](https://open.spotify.com/artist/29kMoXQCAKBsVOM9HeO5KY) | [Noor\-e\-Nazar](https://open.spotify.com/album/3oDSeHLB5Mn1F8NXOEqhro) | 6:51 |
 | 11 | [Chann Taara](https://open.spotify.com/track/2vFxIYeArqtWEFkvXCgfSt) | [Ali Raza](https://open.spotify.com/artist/2URzIJH7QfPgMAEPErd0cC), [Kinza Hashmi](https://open.spotify.com/artist/6hU2CnAt7QXBk9qEUkIztR), [Ali & Shjr](https://open.spotify.com/artist/7GquqOIWZX7FNjsUYNjOKy) | [Chann Taara](https://open.spotify.com/album/2J7l3VtgICYrL7UFl8Ncxp) | 3:47 |
 | 12 | [Kiwe Mukhre](https://open.spotify.com/track/5xllbFeRpcMvXuKZeOfyCt) | [Ezio](https://open.spotify.com/artist/62CF5EoeOLRByAlX3Z2axx), [Ahtasham Syed](https://open.spotify.com/artist/371fQrVhcOHe9T9nG8JK5b), [Ramzan Jani](https://open.spotify.com/artist/7m3ldTvNh0FdYnXKJhIRd2) | [Kiwe Mukhre](https://open.spotify.com/album/1oCccH0SpOsF055q3mzsXy) | 3:06 |

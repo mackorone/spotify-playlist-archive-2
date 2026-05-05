@@ -1,6 +1,6 @@
 {
   "description": "Blue skies, nothing but blue skies. Sun in your eyes and uplifting jazz in your ears on a sunny day.",
-  "num_followers": 126309,
+  "num_followers": 126349,
   "original_name": "Sunny Day Jazz",
   "owner": {
     "name": "Spotify",
@@ -227,22 +227,6 @@
     {
       "added_at": "2024-06-13 12:36:56",
       "album": {
-        "name": "Billie Holiday With Ray Ellis And His Orchestra",
-        "url": "https://open.spotify.com/album/780YbUDX22mHli9KRZZwKu"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 152346,
-      "name": "All Of You",
-      "url": "https://open.spotify.com/track/3XOJhbofb4qTZdt0RLLrUq"
-    },
-    {
-      "added_at": "2024-06-13 12:36:56",
-      "album": {
         "name": "Boy Meets Girl: Sammy Davis Jr. And Carmen McRae On Decca",
         "url": "https://open.spotify.com/album/4UIxdcJmqo5Qnqs1tLC2Ge"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 238120,
       "name": "Cheek To Cheek",
       "url": "https://open.spotify.com/track/6TSeKvWgaYitBKSanHfWsy"
+    },
+    {
+      "added_at": "2024-06-13 12:36:56",
+      "album": {
+        "name": "Billie Holiday With Ray Ellis And His Orchestra",
+        "url": "https://open.spotify.com/album/780YbUDX22mHli9KRZZwKu"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 152346,
+      "name": "All Of You",
+      "url": "https://open.spotify.com/track/3XOJhbofb4qTZdt0RLLrUq"
     },
     {
       "added_at": "2024-06-13 12:36:56",
@@ -427,6 +427,22 @@
     {
       "added_at": "2024-06-13 12:36:56",
       "album": {
+        "name": "Gemini Changes",
+        "url": "https://open.spotify.com/album/5HN2TpEnroUaWuWwPQovBB"
+      },
+      "artists": [
+        {
+          "name": "Morgana King",
+          "url": "https://open.spotify.com/artist/6OBKNqNkRe1Z5VA1TBvMuH"
+        }
+      ],
+      "duration_ms": 130506,
+      "name": "Sunny",
+      "url": "https://open.spotify.com/track/5WTduEM9fllIf3eBmfGuOX"
+    },
+    {
+      "added_at": "2024-06-13 12:36:56",
+      "album": {
         "name": "Chet Baker Sings: It Could Happen To You [Original Jazz Classics Remasters] (OJC Remaster)",
         "url": "https://open.spotify.com/album/05GsIfSvuy3bSY5EodA0Cc"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 254800,
       "name": "Cannonball",
       "url": "https://open.spotify.com/track/1jWOaHSKT7CUcBuLdIcOTp"
-    },
-    {
-      "added_at": "2024-06-13 12:36:56",
-      "album": {
-        "name": "Gemini Changes",
-        "url": "https://open.spotify.com/album/5HN2TpEnroUaWuWwPQovBB"
-      },
-      "artists": [
-        {
-          "name": "Morgana King",
-          "url": "https://open.spotify.com/artist/6OBKNqNkRe1Z5VA1TBvMuH"
-        }
-      ],
-      "duration_ms": 130506,
-      "name": "Sunny",
-      "url": "https://open.spotify.com/track/5WTduEM9fllIf3eBmfGuOX"
     },
     {
       "added_at": "2024-06-13 12:36:56",
@@ -507,6 +507,22 @@
     {
       "added_at": "2024-06-13 12:36:56",
       "album": {
+        "name": "When The Sun Goes Down",
+        "url": "https://open.spotify.com/album/14sPbP9XeguX4mUASLIXbY"
+      },
+      "artists": [
+        {
+          "name": "Ernestine Anderson",
+          "url": "https://open.spotify.com/artist/7yNele4jnVhZJ2GE7Kg25T"
+        }
+      ],
+      "duration_ms": 299160,
+      "name": "I Love Being Here With You",
+      "url": "https://open.spotify.com/track/3WFAZyv15EVj2IHu3v4m9N"
+    },
+    {
+      "added_at": "2024-06-13 12:36:56",
+      "album": {
         "name": "The Girl From Ipanema - The Bossa Nova Years",
         "url": "https://open.spotify.com/album/4I26wT2bckDbv8Xl5iVInQ"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 164826,
       "name": "Doralice",
       "url": "https://open.spotify.com/track/2cDO2CnwjyXgKhgh6QcAaN"
-    },
-    {
-      "added_at": "2024-06-13 12:36:56",
-      "album": {
-        "name": "When The Sun Goes Down",
-        "url": "https://open.spotify.com/album/14sPbP9XeguX4mUASLIXbY"
-      },
-      "artists": [
-        {
-          "name": "Ernestine Anderson",
-          "url": "https://open.spotify.com/artist/7yNele4jnVhZJ2GE7Kg25T"
-        }
-      ],
-      "duration_ms": 299160,
-      "name": "I Love Being Here With You",
-      "url": "https://open.spotify.com/track/3WFAZyv15EVj2IHu3v4m9N"
     },
     {
       "added_at": "2024-06-13 12:36:56",
@@ -599,6 +599,22 @@
     {
       "added_at": "2024-06-13 12:36:56",
       "album": {
+        "name": "The Essential Rosemary Clooney",
+        "url": "https://open.spotify.com/album/6IIfhQA1oHBvHGJQZnbXfP"
+      },
+      "artists": [
+        {
+          "name": "Rosemary Clooney",
+          "url": "https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK"
+        }
+      ],
+      "duration_ms": 172933,
+      "name": "You Make Me Feel so Young",
+      "url": "https://open.spotify.com/track/08RnPHoZRQr6BuD92JRvkk"
+    },
+    {
+      "added_at": "2024-06-13 12:36:56",
+      "album": {
         "name": "Jazz Samba",
         "url": "https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom"
       },
@@ -635,22 +651,6 @@
     {
       "added_at": "2024-06-13 12:36:56",
       "album": {
-        "name": "The Essential Rosemary Clooney",
-        "url": "https://open.spotify.com/album/6IIfhQA1oHBvHGJQZnbXfP"
-      },
-      "artists": [
-        {
-          "name": "Rosemary Clooney",
-          "url": "https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK"
-        }
-      ],
-      "duration_ms": 172933,
-      "name": "You Make Me Feel so Young",
-      "url": "https://open.spotify.com/track/08RnPHoZRQr6BuD92JRvkk"
-    },
-    {
-      "added_at": "2024-06-13 12:36:56",
-      "album": {
         "name": "Sings The Jerome Kern Song Book, Vol.1 & 2",
         "url": "https://open.spotify.com/album/7lK3JDdKHJGdKZcTFodGcd"
       },
@@ -663,22 +663,6 @@
       "duration_ms": 122800,
       "name": "You Couldn't Be Cuter",
       "url": "https://open.spotify.com/track/5wK0I2nGDosuttrhkVHZnO"
-    },
-    {
-      "added_at": "2024-06-13 12:36:56",
-      "album": {
-        "name": "Anthology-Lou Rawls",
-        "url": "https://open.spotify.com/album/6RZbUqqODcPvuxw6zAD5fX"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 178626,
-      "name": "Scotch & Soda",
-      "url": "https://open.spotify.com/track/18Qu2MK93VADxqHFYctpql"
     },
     {
       "added_at": "2024-06-13 12:36:56",
@@ -699,6 +683,22 @@
     {
       "added_at": "2024-06-13 12:36:56",
       "album": {
+        "name": "Anthology-Lou Rawls",
+        "url": "https://open.spotify.com/album/6RZbUqqODcPvuxw6zAD5fX"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 178626,
+      "name": "Scotch & Soda",
+      "url": "https://open.spotify.com/track/18Qu2MK93VADxqHFYctpql"
+    },
+    {
+      "added_at": "2024-06-13 12:36:56",
+      "album": {
         "name": "Motions & Emotions",
         "url": "https://open.spotify.com/album/67NDcaTQFovmzUscG92ELV"
       },
@@ -711,22 +711,6 @@
       "duration_ms": 174641,
       "name": "Wandering - Remastered",
       "url": "https://open.spotify.com/track/2bKQdj9DjUQT9q8OvTgCM2"
-    },
-    {
-      "added_at": "2024-06-13 12:36:56",
-      "album": {
-        "name": "April In Paris (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1gDs61sxoI4By9TKxe8Y0k"
-      },
-      "artists": [
-        {
-          "name": "Count Basie",
-          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
-        }
-      ],
-      "duration_ms": 315000,
-      "name": "Corner Pocket",
-      "url": "https://open.spotify.com/track/1e16lbqXFdnuTdeJngVBuY"
     },
     {
       "added_at": "2024-06-13 12:36:56",
@@ -747,18 +731,34 @@
     {
       "added_at": "2024-06-13 12:36:56",
       "album": {
-        "name": "September In The Rain",
-        "url": "https://open.spotify.com/album/1UMCHEE4nXBN2JLOgk7rQV"
+        "name": "April In Paris (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1gDs61sxoI4By9TKxe8Y0k"
       },
       "artists": [
         {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+          "name": "Count Basie",
+          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
         }
       ],
-      "duration_ms": 118000,
-      "name": "As Long As I'm In Your Arms",
-      "url": "https://open.spotify.com/track/77fsTNViSLqcwuSMQhSwB0"
+      "duration_ms": 315000,
+      "name": "Corner Pocket",
+      "url": "https://open.spotify.com/track/1e16lbqXFdnuTdeJngVBuY"
+    },
+    {
+      "added_at": "2024-06-13 12:36:56",
+      "album": {
+        "name": "Anita",
+        "url": "https://open.spotify.com/album/5ytkuJciMwGDXwQeLWbHCw"
+      },
+      "artists": [
+        {
+          "name": "Anita O'Day",
+          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
+        }
+      ],
+      "duration_ms": 145160,
+      "name": "You're The Top",
+      "url": "https://open.spotify.com/track/1RLrKHljWXVJ8cWQKd0zHn"
     },
     {
       "added_at": "2024-06-13 12:36:56",
@@ -783,34 +783,18 @@
     {
       "added_at": "2024-06-13 12:36:56",
       "album": {
-        "name": "Anita",
-        "url": "https://open.spotify.com/album/5ytkuJciMwGDXwQeLWbHCw"
+        "name": "September In The Rain",
+        "url": "https://open.spotify.com/album/1UMCHEE4nXBN2JLOgk7rQV"
       },
       "artists": [
         {
-          "name": "Anita O'Day",
-          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
         }
       ],
-      "duration_ms": 145160,
-      "name": "You're The Top",
-      "url": "https://open.spotify.com/track/1RLrKHljWXVJ8cWQKd0zHn"
-    },
-    {
-      "added_at": "2024-06-13 12:36:56",
-      "album": {
-        "name": "The Complete Decca Recordings",
-        "url": "https://open.spotify.com/album/22oDCpyHsYIYxMGcmieLDY"
-      },
-      "artists": [
-        {
-          "name": "Count Basie",
-          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
-        }
-      ],
-      "duration_ms": 182666,
-      "name": "One O'Clock Jump",
-      "url": "https://open.spotify.com/track/6DDhXGwCHmzT3EVoXr9lS2"
+      "duration_ms": 118000,
+      "name": "As Long As I'm In Your Arms",
+      "url": "https://open.spotify.com/track/77fsTNViSLqcwuSMQhSwB0"
     },
     {
       "added_at": "2024-06-13 12:36:56",
@@ -839,6 +823,22 @@
     {
       "added_at": "2024-06-13 12:36:56",
       "album": {
+        "name": "The Complete Decca Recordings",
+        "url": "https://open.spotify.com/album/22oDCpyHsYIYxMGcmieLDY"
+      },
+      "artists": [
+        {
+          "name": "Count Basie",
+          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
+        }
+      ],
+      "duration_ms": 182666,
+      "name": "One O'Clock Jump",
+      "url": "https://open.spotify.com/track/6DDhXGwCHmzT3EVoXr9lS2"
+    },
+    {
+      "added_at": "2024-06-13 12:36:56",
+      "album": {
         "name": "Return To Forever",
         "url": "https://open.spotify.com/album/6M0IAJHwQ6dFNtTkFsXCJc"
       },
@@ -851,6 +851,22 @@
       "duration_ms": 266000,
       "name": "What Game Shall We Play Today",
       "url": "https://open.spotify.com/track/0mC8MfVqQ1pHGKCdfhiHye"
+    },
+    {
+      "added_at": "2024-06-13 12:36:56",
+      "album": {
+        "name": "The Divine One",
+        "url": "https://open.spotify.com/album/4OGrGH7qxDmjTlzP5w11Nx"
+      },
+      "artists": [
+        {
+          "name": "Sarah Vaughan",
+          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+        }
+      ],
+      "duration_ms": 140173,
+      "name": "You Stepped out of a Dream - 2007 Remaster",
+      "url": "https://open.spotify.com/track/3SptSk4a7ob8Qf4FfxQz4I"
     },
     {
       "added_at": "2024-06-13 12:36:56",
@@ -887,22 +903,6 @@
     {
       "added_at": "2024-06-13 12:36:56",
       "album": {
-        "name": "The Divine One",
-        "url": "https://open.spotify.com/album/4OGrGH7qxDmjTlzP5w11Nx"
-      },
-      "artists": [
-        {
-          "name": "Sarah Vaughan",
-          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
-        }
-      ],
-      "duration_ms": 140173,
-      "name": "You Stepped out of a Dream - 2007 Remaster",
-      "url": "https://open.spotify.com/track/3SptSk4a7ob8Qf4FfxQz4I"
-    },
-    {
-      "added_at": "2024-06-13 12:36:56",
-      "album": {
         "name": "Broadway, Right Now!",
         "url": "https://open.spotify.com/album/5ZIEB6I2Ei1ijuI8X3G2iw"
       },
@@ -919,22 +919,6 @@
     {
       "added_at": "2024-06-13 12:36:56",
       "album": {
-        "name": "The Essential Benny Goodman",
-        "url": "https://open.spotify.com/album/7ykWEOYdt8gyA4seOlwtWK"
-      },
-      "artists": [
-        {
-          "name": "Benny Goodman",
-          "url": "https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve"
-        }
-      ],
-      "duration_ms": 152960,
-      "name": "Let's Dance",
-      "url": "https://open.spotify.com/track/6DjOS2PYRPQ8amyhSpdErX"
-    },
-    {
-      "added_at": "2024-06-13 12:36:56",
-      "album": {
         "name": "Julie... At Home",
         "url": "https://open.spotify.com/album/5HZ1xJmZ47Gt9sW4OJMtr0"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 125946,
       "name": "Give Me The Simple Life",
       "url": "https://open.spotify.com/track/4cndS1r6nH04gOVaRHVB8U"
+    },
+    {
+      "added_at": "2024-06-13 12:36:56",
+      "album": {
+        "name": "The Essential Benny Goodman",
+        "url": "https://open.spotify.com/album/7ykWEOYdt8gyA4seOlwtWK"
+      },
+      "artists": [
+        {
+          "name": "Benny Goodman",
+          "url": "https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve"
+        }
+      ],
+      "duration_ms": 152960,
+      "name": "Let's Dance",
+      "url": "https://open.spotify.com/track/6DjOS2PYRPQ8amyhSpdErX"
     },
     {
       "added_at": "2024-06-13 12:36:56",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-06-13 12:36:56",
       "album": {
-        "name": "Chet Baker In Milan",
-        "url": "https://open.spotify.com/album/799y7nYS7LqsZhwnU7C3Lz"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 284426,
-      "name": "Lady Bird",
-      "url": "https://open.spotify.com/track/1mnd8k1NXdHuO4IBW54XaK"
-    },
-    {
-      "added_at": "2024-06-13 12:36:56",
-      "album": {
         "name": "Boy Meets Girl: Sammy Davis Jr. And Carmen McRae On Decca",
         "url": "https://open.spotify.com/album/4UIxdcJmqo5Qnqs1tLC2Ge"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 196853,
       "name": "People Will Say We're In Love",
       "url": "https://open.spotify.com/track/2aFhRDBzWZd1KG0OJ8caM4"
+    },
+    {
+      "added_at": "2024-06-13 12:36:56",
+      "album": {
+        "name": "Chet Baker In Milan",
+        "url": "https://open.spotify.com/album/799y7nYS7LqsZhwnU7C3Lz"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 284426,
+      "name": "Lady Bird",
+      "url": "https://open.spotify.com/track/1mnd8k1NXdHuO4IBW54XaK"
     },
     {
       "added_at": "2024-06-13 12:36:56",
@@ -1103,34 +1103,18 @@
     {
       "added_at": "2024-06-13 12:36:56",
       "album": {
-        "name": "Whisper For You",
-        "url": "https://open.spotify.com/album/6bF3D6lN2SkAH0ZGaWccd7"
+        "name": "Shirley / Let's Face the Music",
+        "url": "https://open.spotify.com/album/0D5WPntQovwI7mfrteZan6"
       },
       "artists": [
         {
-          "name": "Blossom Dearie",
-          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
+          "name": "Shirley Bassey",
+          "url": "https://open.spotify.com/artist/090VebphoycdEyH165iMqc"
         }
       ],
-      "duration_ms": 146173,
-      "name": "Between The Devil And The Deep Blue Sea",
-      "url": "https://open.spotify.com/track/6INVoNpTuZ2Uqi588Y5Fi2"
-    },
-    {
-      "added_at": "2024-06-13 12:36:56",
-      "album": {
-        "name": "Stardust: The Music Of Hoagy Carmichael",
-        "url": "https://open.spotify.com/album/13m4PuHeRYI7FyfSGmnTiT"
-      },
-      "artists": [
-        {
-          "name": "Bill Charlap",
-          "url": "https://open.spotify.com/artist/2QX8yUROOnWTSLFg4sZ9Gg"
-        }
-      ],
-      "duration_ms": 300453,
-      "name": "I Walk With Music",
-      "url": "https://open.spotify.com/track/42yWxIFQxJ4JMFxV0cq2IR"
+      "duration_ms": 174600,
+      "name": "If I Were a Bell - 2004 Remaster",
+      "url": "https://open.spotify.com/track/6NbhLHh6FaSZJheJMdrKcF"
     },
     {
       "added_at": "2024-06-13 12:36:56",
@@ -1151,18 +1135,34 @@
     {
       "added_at": "2024-06-13 12:36:56",
       "album": {
-        "name": "Shirley / Let's Face the Music",
-        "url": "https://open.spotify.com/album/0D5WPntQovwI7mfrteZan6"
+        "name": "Stardust: The Music Of Hoagy Carmichael",
+        "url": "https://open.spotify.com/album/13m4PuHeRYI7FyfSGmnTiT"
       },
       "artists": [
         {
-          "name": "Shirley Bassey",
-          "url": "https://open.spotify.com/artist/090VebphoycdEyH165iMqc"
+          "name": "Bill Charlap",
+          "url": "https://open.spotify.com/artist/2QX8yUROOnWTSLFg4sZ9Gg"
         }
       ],
-      "duration_ms": 174600,
-      "name": "If I Were a Bell - 2004 Remaster",
-      "url": "https://open.spotify.com/track/6NbhLHh6FaSZJheJMdrKcF"
+      "duration_ms": 300453,
+      "name": "I Walk With Music",
+      "url": "https://open.spotify.com/track/42yWxIFQxJ4JMFxV0cq2IR"
+    },
+    {
+      "added_at": "2024-06-13 12:36:56",
+      "album": {
+        "name": "Whisper For You",
+        "url": "https://open.spotify.com/album/6bF3D6lN2SkAH0ZGaWccd7"
+      },
+      "artists": [
+        {
+          "name": "Blossom Dearie",
+          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
+        }
+      ],
+      "duration_ms": 146173,
+      "name": "Between The Devil And The Deep Blue Sea",
+      "url": "https://open.spotify.com/track/6INVoNpTuZ2Uqi588Y5Fi2"
     },
     {
       "added_at": "2024-06-13 12:36:56",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2024-06-13 12:36:56",
       "album": {
-        "name": "The Complete RCA Victor Recordings",
-        "url": "https://open.spotify.com/album/0ax9jxqZER7j03vyCGFM3X"
-      },
-      "artists": [
-        {
-          "name": "Paul Desmond",
-          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
-        }
-      ],
-      "duration_ms": 284373,
-      "name": "Bossa Antigua",
-      "url": "https://open.spotify.com/track/6QJT16QV1nGu0ZPjL4HCMe"
-    },
-    {
-      "added_at": "2024-06-13 12:36:56",
-      "album": {
         "name": "The Essential Rosemary Clooney",
         "url": "https://open.spotify.com/album/6IIfhQA1oHBvHGJQZnbXfP"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 234066,
       "name": "The Song Is You",
       "url": "https://open.spotify.com/track/3Cm5dmc7D8b49sa567pQwX"
+    },
+    {
+      "added_at": "2024-06-13 12:36:56",
+      "album": {
+        "name": "The Complete RCA Victor Recordings",
+        "url": "https://open.spotify.com/album/0ax9jxqZER7j03vyCGFM3X"
+      },
+      "artists": [
+        {
+          "name": "Paul Desmond",
+          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
+        }
+      ],
+      "duration_ms": 284373,
+      "name": "Bossa Antigua",
+      "url": "https://open.spotify.com/track/6QJT16QV1nGu0ZPjL4HCMe"
     },
     {
       "added_at": "2024-06-13 12:36:56",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2024-06-13 12:36:56",
       "album": {
-        "name": "Oh! Look At Me Now/Hello Dolly To Goodbye Charlie",
-        "url": "https://open.spotify.com/album/00guJqBHUMK4qJ6ZFEFggL"
-      },
-      "artists": [
-        {
-          "name": "Bobby Darin",
-          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
-        }
-      ],
-      "duration_ms": 124560,
-      "name": "Call Me Irresponsible",
-      "url": "https://open.spotify.com/track/73sTJPWNYh2OZJdz41N4VR"
-    },
-    {
-      "added_at": "2024-06-13 12:36:56",
-      "album": {
         "name": "Bing Sings Whilst Bregman Swings",
         "url": "https://open.spotify.com/album/73o2GaqcTroIzxh7bggyrY"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 169373,
       "name": "Deed I Do",
       "url": "https://open.spotify.com/track/0RqNcBJILvtCJH82auUnKs"
+    },
+    {
+      "added_at": "2024-06-13 12:36:56",
+      "album": {
+        "name": "Oh! Look At Me Now/Hello Dolly To Goodbye Charlie",
+        "url": "https://open.spotify.com/album/00guJqBHUMK4qJ6ZFEFggL"
+      },
+      "artists": [
+        {
+          "name": "Bobby Darin",
+          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
+        }
+      ],
+      "duration_ms": 124560,
+      "name": "Call Me Irresponsible",
+      "url": "https://open.spotify.com/track/73sTJPWNYh2OZJdz41N4VR"
     },
     {
       "added_at": "2024-06-13 12:36:56",

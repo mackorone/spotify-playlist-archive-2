@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afU+gAAAAAAP3TdqdKeWoV4IBRmCR11k",
+  "snapshot_id": "afaQAAAAAABpFLfUwsddgQ3uNyDBrgSc",
   "tracks": [
     {
       "added_at": null,
@@ -479,26 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deus no Controle",
-        "url": "https://open.spotify.com/album/5Lhj5KJpJq1itPLJd1EWPq"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        },
-        {
-          "name": " CGM - Central Gospel Music",
-          "url": "https://open.spotify.com/artist/0w3McsbWl0CdYnJ9SOruUq"
-        }
-      ],
-      "duration_ms": 383490,
-      "name": "Simplesmente Te Adorar",
-      "url": "https://open.spotify.com/track/6DxvKijLDKzGzp9JuOhQ7H"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amigo Esp\u00edrito Santo (Ao Vivo)",
         "url": "https://open.spotify.com/album/4t2qBZ5yBilE2xaVIInAtP"
       },
@@ -515,6 +495,26 @@
       "duration_ms": 334310,
       "name": "Amigo Esp\u00edrito Santo (Ao Vivo)",
       "url": "https://open.spotify.com/track/1uywMDAMeLkFnatbhfXlUE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Deus no Controle",
+        "url": "https://open.spotify.com/album/5Lhj5KJpJq1itPLJd1EWPq"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": " CGM - Central Gospel Music",
+          "url": "https://open.spotify.com/artist/0w3McsbWl0CdYnJ9SOruUq"
+        }
+      ],
+      "duration_ms": 383490,
+      "name": "Simplesmente Te Adorar",
+      "url": "https://open.spotify.com/track/6DxvKijLDKzGzp9JuOhQ7H"
     },
     {
       "added_at": null,
@@ -759,6 +759,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fala Comigo + Estamos de P\u00e9 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1mYCWjtalHjB8uksLAFFfL"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Marcus Salles",
+          "url": "https://open.spotify.com/artist/6IVEwGc6qJl8dsyWnMq1PI"
+        }
+      ],
+      "duration_ms": 269133,
+      "name": "Fala Comigo + Estamos de P\u00e9 (Ao Vivo)",
+      "url": "https://open.spotify.com/track/6Yhm1rIVenrCzE9ELr0r8K"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Aguenta Firme + Na Eternidade (Ao Vivo)",
         "url": "https://open.spotify.com/album/5uZWtgelO4WRrmzUGLCgr6"
       },
@@ -799,26 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fala Comigo + Estamos de P\u00e9 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1mYCWjtalHjB8uksLAFFfL"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        },
-        {
-          "name": "Marcus Salles",
-          "url": "https://open.spotify.com/artist/6IVEwGc6qJl8dsyWnMq1PI"
-        }
-      ],
-      "duration_ms": 269133,
-      "name": "Fala Comigo + Estamos de P\u00e9 (Ao Vivo)",
-      "url": "https://open.spotify.com/track/6Yhm1rIVenrCzE9ELr0r8K"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nada Pode Calar Um Adorador",
         "url": "https://open.spotify.com/album/4zlSXPnTQZOMipWUAzYLyE"
       },
@@ -831,26 +831,6 @@
       "duration_ms": 283422,
       "name": "Deus dos Vales, Deus dos Montes",
       "url": "https://open.spotify.com/track/5TOu4YtEZFRGYiNURo6rEf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Deus no Controle + Milagre (Ao Vivo)",
-        "url": "https://open.spotify.com/album/51Tbmmxun5vUGB4VipYhT1"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        },
-        {
-          "name": "Liz Lanne",
-          "url": "https://open.spotify.com/artist/1T5Me8q25LaMSFvpFOpR00"
-        }
-      ],
-      "duration_ms": 301280,
-      "name": "Deus no Controle + Milagre (Ao Vivo)",
-      "url": "https://open.spotify.com/track/3yv9GgtbrH8aLNosr3Htex"
     },
     {
       "added_at": null,
@@ -871,6 +851,26 @@
       "duration_ms": 353893,
       "name": "Eu Me Arrependo",
       "url": "https://open.spotify.com/track/0kXN738QHcVFPqigE3DqAu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Deus no Controle + Milagre (Ao Vivo)",
+        "url": "https://open.spotify.com/album/51Tbmmxun5vUGB4VipYhT1"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Liz Lanne",
+          "url": "https://open.spotify.com/artist/1T5Me8q25LaMSFvpFOpR00"
+        }
+      ],
+      "duration_ms": 301280,
+      "name": "Deus no Controle + Milagre (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3yv9GgtbrH8aLNosr3Htex"
     },
     {
       "added_at": null,

@@ -172,7 +172,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 213373,
       "name": "A Little Respect",
       "url": "https://open.spotify.com/track/2RVQIq7bLi4Eu6xHPyQ46t"
@@ -2284,6 +2284,24 @@
       "duration_ms": 276493,
       "name": "Escape (The Pina Colada Song)",
       "url": "https://open.spotify.com/track/5IMtdHjJ1OtkxbGe4zfUxQ"
+    },
+    {
+      "album": {
+        "name": "Every 1's a Winner",
+        "url": "https://open.spotify.com/album/2MdCe2CS9EcdJ9V20TKzxo"
+      },
+      "artists": [
+        {
+          "name": "Hot Chocolate",
+          "url": "https://open.spotify.com/artist/72VzFto8DYvKHocaHYNWSi"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289266,
+      "name": "Every 1's a Winner - Single Version",
+      "url": "https://open.spotify.com/track/5MXXbGYNmRHR7ULMvZYo5R"
     },
     {
       "album": {

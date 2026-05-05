@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0oey9L.md) - [plain]
 
 > This is El de La Guitarra\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,049 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,056 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0oey9L.md) - [plain]
 | 43 | [Toxico](https://open.spotify.com/track/2o7e5mcEqUzAhrLIqBAFKv) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Toxico](https://open.spotify.com/album/4I0R8OWIPyys8QLD8QBxvh) | 3:12 |
 | 44 | [WAX](https://open.spotify.com/track/7utzGYXtCeiFOMTAWzU6BJ) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Con Los Pies En La Tierra Y La Mirada En El Cielo](https://open.spotify.com/album/2DE5r32KUueRrOKkeGXQ1T) | 3:17 |
 | 45 | [Que Linda Se Le Ve](https://open.spotify.com/track/4M2GA9Lb86oxivtlSfiAx9) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda \(Vol.4\)](https://open.spotify.com/album/3xOwDpuBJiCY7nxJEDQR71) | 3:12 |
-| 46 | [Sangre De Rancho](https://open.spotify.com/track/3HhnflHZDAC5GsTBZLJIYa) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Sangre De Rancho](https://open.spotify.com/album/1juj3QmN79iMMZDKX8RgEH) | 2:48 |
-| 47 | [Paris & Grecia](https://open.spotify.com/track/6VGKmmQoKtb96WxcXIz4CU) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk), [Santiago Rdgz](https://open.spotify.com/artist/5RZmXdBhExWcBGjyZVSy1u), [Hans el Oso](https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea), [Juan Soler](https://open.spotify.com/artist/62we2Z4MfYSQknQesr1111) | [Paris & Grecia](https://open.spotify.com/album/3kufVIruxrPYRml0XECQka) | 2:45 |
-| 48 | [El Exceso Me Encanto](https://open.spotify.com/track/3W0Lld0K5FHecRyfOxhZ4x) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [El Exceso Me Encanto](https://open.spotify.com/album/49gfxmTkZfPEg2oN9ORhN0) | 2:40 |
-| 49 | [EL CH](https://open.spotify.com/track/1435eaau7EznWMUd1Kr1Kd) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [EL CH](https://open.spotify.com/album/0tL2W3AxUGbAOtZHP48VBs) | 2:33 |
-| 50 | [Dime x Que](https://open.spotify.com/track/67SiSGW15EcJe8muSJUNzU) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Dime x Que](https://open.spotify.com/album/6ucVQoyr47QMbtc963azmg) | 2:53 |
+| 46 | [Fin De Semana](https://open.spotify.com/track/4N5Qpos9bnbTFOXHBHANJQ) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Fin De Semana](https://open.spotify.com/album/1GBuuYtkHBUXxY2j1XrLff) | 3:00 |
+| 47 | [Sangre De Rancho](https://open.spotify.com/track/3HhnflHZDAC5GsTBZLJIYa) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Sangre De Rancho](https://open.spotify.com/album/1juj3QmN79iMMZDKX8RgEH) | 2:48 |
+| 48 | [Paris & Grecia](https://open.spotify.com/track/6VGKmmQoKtb96WxcXIz4CU) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk), [Santiago Rdgz](https://open.spotify.com/artist/5RZmXdBhExWcBGjyZVSy1u), [Hans el Oso](https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea), [Juan Soler](https://open.spotify.com/artist/62we2Z4MfYSQknQesr1111) | [Paris & Grecia](https://open.spotify.com/album/3kufVIruxrPYRml0XECQka) | 2:45 |
+| 49 | [El Exceso Me Encanto](https://open.spotify.com/track/3W0Lld0K5FHecRyfOxhZ4x) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [El Exceso Me Encanto](https://open.spotify.com/album/49gfxmTkZfPEg2oN9ORhN0) | 2:40 |
+| 50 | [EL CH](https://open.spotify.com/track/1435eaau7EznWMUd1Kr1Kd) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [EL CH](https://open.spotify.com/album/0tL2W3AxUGbAOtZHP48VBs) | 2:33 |
 
-Snapshot ID: `afU+gAAAAAB8BxttxSKn4CjNEJ3Rsi03`
+Snapshot ID: `afaQAAAAAACjqJltPqU9cLr6y6h62XwE`

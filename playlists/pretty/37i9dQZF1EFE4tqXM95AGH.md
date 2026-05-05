@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4ZIckimeCjQpyqu39pufX2">Leland</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,393 likes - 188 songs - 10 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,394 likes - 188 songs - 10 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -163,8 +163,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 | 153 | [Young Love](https://open.spotify.com/track/7L4Q4JyCnJcYHCKaNrap4U) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR), [George Sear](https://open.spotify.com/artist/6rex7yqrxf37zM07mzMKYf) | [Love, Victor: Season 2 \(Original Soundtrack\)](https://open.spotify.com/album/6fJSSOWbDoBDy6N1DJAsuk) | 3:06 |
 | 154 | [Run Into You](https://open.spotify.com/track/0LM43mK6NmlaO5MIKy5oBr) | [Leland](https://open.spotify.com/artist/7dnMXd8vKl0C2NUZvkyd69) | [Run Into You](https://open.spotify.com/album/2JWPHdT4xQktzBfOuW6t0R) | 2:55 |
 | 155 | [The Parking Lot](https://open.spotify.com/track/2VqSRyFEZkQpdcLK3bTuto) | [Score from the Motion Picture](https://open.spotify.com/artist/5aO9zrQvLB71hp1wtrIW2n) | [Sierra Burgess Is a Loser \(Original Netflix Sound Track\)](https://open.spotify.com/album/5ddhak78Gq6mFVqiPlbFhI) | 4:45 |
-| 156 | [No Bad Vibes](https://open.spotify.com/track/0TbvVq6TBqyDcnUQy8eJk5) | [Nicole Millar](https://open.spotify.com/artist/0lYzZ91QzokaPrRK1vq6tW) | [Communication](https://open.spotify.com/album/3ED7XEg0vYJlynJMpbUTSi) | 3:31 |
-| 157 | [Spring Break](https://open.spotify.com/track/29h7ks5IrRhTqU526S4h5O) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Worth Your Wild EP](https://open.spotify.com/album/44rmDQS0jLvhACOXnfF8RK) | 3:16 |
+| 156 | [Spring Break](https://open.spotify.com/track/29h7ks5IrRhTqU526S4h5O) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Worth Your Wild EP](https://open.spotify.com/album/44rmDQS0jLvhACOXnfF8RK) | 3:16 |
+| 157 | [No Bad Vibes](https://open.spotify.com/track/0TbvVq6TBqyDcnUQy8eJk5) | [Nicole Millar](https://open.spotify.com/artist/0lYzZ91QzokaPrRK1vq6tW) | [Communication](https://open.spotify.com/album/3ED7XEg0vYJlynJMpbUTSi) | 3:31 |
 | 158 | [I Could Never](https://open.spotify.com/track/0ynkaEihHTfzLS9qRL9Eiw) | [Keljet](https://open.spotify.com/artist/0aF0pIALJDBCfFgqiTaK2g), [Bridesmen](https://open.spotify.com/artist/6R3k2rJBwhOkDpd7zhh3uM) | [I Could Never](https://open.spotify.com/album/0CutQ6jJHpuTcxhVL89i8X) | 3:27 |
 | 159 | [Good Time People](https://open.spotify.com/track/5wpQAyoihCL3cOVaza1rIp) | [Spencer Ludwig](https://open.spotify.com/artist/6miuYP0AovZaaKpRFaDQMQ) | [Good Time People](https://open.spotify.com/album/7f46jaoVkkKNBNeyyGn2e4) | 3:47 |
 | 160 | [Fake Smile](https://open.spotify.com/track/5zwzBgzOdQ3HaTHpBFzFo2) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Tough Boy](https://open.spotify.com/album/7cHOGdyjoxS0Ou57ax4Fws) | 2:29 |
@@ -197,4 +197,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 | 187 | [Euphoria](https://open.spotify.com/track/1nXyc1QOTa5Rnhg5udF0vr) | [Christopher Goulstone](https://open.spotify.com/artist/6A6hCC07Ix0YCGFfENcWYI), [Neil Taylor](https://open.spotify.com/artist/3th0fmbYOynihCppJzNJLM) | [Rock Highway Dreams](https://open.spotify.com/album/5c4U5JArDApW4JUyEEk3Tz) | 3:26 |
 | 188 | [I'm a Rapper](https://open.spotify.com/track/3Pt8mRiKVgnun7ULVmKTLB) | [Pfool](https://open.spotify.com/artist/4yNdC9T7fkyn8yB1E8cTLY) | [Ultimate Hottest Hits 2013, Vol\. 6 \(The Best of the Teenies\)](https://open.spotify.com/album/5PtK4h7lKH3ittcrWu7hqi) | 2:55 |
 
-Snapshot ID: `AcQihgAAAABFKECGLAUVRdfiP10x+64h`
+Snapshot ID: `AcQoJgAAAAClPQJNkdXutVjUp9U0P5qF`

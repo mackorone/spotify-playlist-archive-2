@@ -1,6 +1,6 @@
 {
   "description": "Rock legends from Ireland. Cover: Sin\u00e9ad O'Connor",
-  "num_followers": 61963,
+  "num_followers": 61981,
   "original_name": "Irish Rock Classics",
   "owner": {
     "name": "Spotify",
@@ -699,26 +699,6 @@
     {
       "added_at": "2022-03-17 10:54:32",
       "album": {
-        "name": "Songs For The Tempted",
-        "url": "https://open.spotify.com/album/4GFXKDjclL9PwTnjrJiFpo"
-      },
-      "artists": [
-        {
-          "name": "The 4 Of Us",
-          "url": "https://open.spotify.com/artist/1Yr9lXq2m3KO4otqQKcllY"
-        },
-        {
-          "name": "Michael H. Brauer",
-          "url": "https://open.spotify.com/artist/2YUPBZYVy2KFNGeNILURg6"
-        }
-      ],
-      "duration_ms": 213573,
-      "name": "Mary",
-      "url": "https://open.spotify.com/track/29U5hgoEjrssTYJ9KeaFub"
-    },
-    {
-      "added_at": "2022-03-17 10:54:32",
-      "album": {
         "name": "Fitzcarraldo",
         "url": "https://open.spotify.com/album/0Vjm2unCHuRexuJob6i6cu"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 251826,
       "name": "Haunted",
       "url": "https://open.spotify.com/track/1T1ufH3jSP7uAYKoie68KI"
+    },
+    {
+      "added_at": "2022-03-17 10:54:32",
+      "album": {
+        "name": "Songs For The Tempted",
+        "url": "https://open.spotify.com/album/4GFXKDjclL9PwTnjrJiFpo"
+      },
+      "artists": [
+        {
+          "name": "The 4 Of Us",
+          "url": "https://open.spotify.com/artist/1Yr9lXq2m3KO4otqQKcllY"
+        },
+        {
+          "name": "Michael H. Brauer",
+          "url": "https://open.spotify.com/artist/2YUPBZYVy2KFNGeNILURg6"
+        }
+      ],
+      "duration_ms": 213573,
+      "name": "Mary",
+      "url": "https://open.spotify.com/track/29U5hgoEjrssTYJ9KeaFub"
     },
     {
       "added_at": "2022-03-17 10:54:32",
@@ -787,22 +787,6 @@
     {
       "added_at": "2022-03-17 10:54:32",
       "album": {
-        "name": "Trains, Boats and Planes",
-        "url": "https://open.spotify.com/album/4NKM2cooUqnyICpeslOehd"
-      },
-      "artists": [
-        {
-          "name": "The Frank And Walters",
-          "url": "https://open.spotify.com/artist/0ZurKOkOcHpO44alHZJpyC"
-        }
-      ],
-      "duration_ms": 189560,
-      "name": "After All",
-      "url": "https://open.spotify.com/track/7L0ZxkPAVVJ3i0M8Zx6jVT"
-    },
-    {
-      "added_at": "2022-03-17 10:54:32",
-      "album": {
         "name": "Twice Around the World",
         "url": "https://open.spotify.com/album/54nsvKNwSLXa7YnkbgOExa"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 230649,
       "name": "Everything That Rises",
       "url": "https://open.spotify.com/track/4a0Ilq1skteEcXiZieqIBR"
+    },
+    {
+      "added_at": "2022-03-17 10:54:32",
+      "album": {
+        "name": "Trains, Boats and Planes",
+        "url": "https://open.spotify.com/album/4NKM2cooUqnyICpeslOehd"
+      },
+      "artists": [
+        {
+          "name": "The Frank And Walters",
+          "url": "https://open.spotify.com/artist/0ZurKOkOcHpO44alHZJpyC"
+        }
+      ],
+      "duration_ms": 189560,
+      "name": "After All",
+      "url": "https://open.spotify.com/track/7L0ZxkPAVVJ3i0M8Zx6jVT"
     }
   ],
   "unique_name": "Irish Rock Classics",

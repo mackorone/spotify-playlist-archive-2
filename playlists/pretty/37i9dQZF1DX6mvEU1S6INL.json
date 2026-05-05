@@ -1,6 +1,6 @@
 {
   "description": "It's just us.",
-  "num_followers": 1143089,
+  "num_followers": 1143096,
   "original_name": "You & Me",
   "owner": {
     "name": "Spotify",
@@ -563,22 +563,6 @@
     {
       "added_at": "2026-02-18 18:45:42",
       "album": {
-        "name": "Broken Machine (Deluxe)",
-        "url": "https://open.spotify.com/album/0r7wrRVD77lNrD9t2QgZrq"
-      },
-      "artists": [
-        {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
-        }
-      ],
-      "duration_ms": 235884,
-      "name": "Particles",
-      "url": "https://open.spotify.com/track/1W2TYUenzUdOOuATtQIWS2"
-    },
-    {
-      "added_at": "2026-02-18 18:45:42",
-      "album": {
         "name": "This Is Why",
         "url": "https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 261869,
       "name": "Liar",
       "url": "https://open.spotify.com/track/7EUhSxz4srS8pqh1cENbLB"
+    },
+    {
+      "added_at": "2026-02-18 18:45:42",
+      "album": {
+        "name": "Broken Machine (Deluxe)",
+        "url": "https://open.spotify.com/album/0r7wrRVD77lNrD9t2QgZrq"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "duration_ms": 235884,
+      "name": "Particles",
+      "url": "https://open.spotify.com/track/1W2TYUenzUdOOuATtQIWS2"
     },
     {
       "added_at": "2026-02-18 18:45:42",
@@ -675,6 +675,22 @@
     {
       "added_at": "2026-02-18 18:45:42",
       "album": {
+        "name": "Era Vulgaris",
+        "url": "https://open.spotify.com/album/64SL0QEXxulD2QgwJmJbUL"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "duration_ms": 290493,
+      "name": "Make It Wit Chu",
+      "url": "https://open.spotify.com/track/0Cgd3CK6D2hhbwmLRvtscH"
+    },
+    {
+      "added_at": "2026-02-18 18:45:42",
+      "album": {
         "name": "sheluvme",
         "url": "https://open.spotify.com/album/4jg0Buspy2uDrSajhm6rnm"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 247193,
       "name": "Lover, Please Stay",
       "url": "https://open.spotify.com/track/3QxCvkqWdkMqy3CPxOhZ24"
-    },
-    {
-      "added_at": "2026-02-18 18:45:42",
-      "album": {
-        "name": "Era Vulgaris",
-        "url": "https://open.spotify.com/album/64SL0QEXxulD2QgwJmJbUL"
-      },
-      "artists": [
-        {
-          "name": "Queens of the Stone Age",
-          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
-        }
-      ],
-      "duration_ms": 290493,
-      "name": "Make It Wit Chu",
-      "url": "https://open.spotify.com/track/0Cgd3CK6D2hhbwmLRvtscH"
     },
     {
       "added_at": "2026-02-18 18:45:42",
@@ -787,22 +787,6 @@
     {
       "added_at": "2026-02-18 18:45:42",
       "album": {
-        "name": "Indigo Puff",
-        "url": "https://open.spotify.com/album/3U87oNqyChE7Akx3b52x2w"
-      },
-      "artists": [
-        {
-          "name": "Sundara Karma",
-          "url": "https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP"
-        }
-      ],
-      "duration_ms": 231721,
-      "name": "Indigo Puff",
-      "url": "https://open.spotify.com/track/3pJQY7UuX0DcE8pgLZhCjf"
-    },
-    {
-      "added_at": "2026-02-18 18:45:42",
-      "album": {
         "name": "Adore",
         "url": "https://open.spotify.com/album/4XW4uoRtDulaUs4Qb81UDx"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 184999,
       "name": "Adore",
       "url": "https://open.spotify.com/track/1rPCgtaIF0CyKRgAwhtpbF"
+    },
+    {
+      "added_at": "2026-02-18 18:45:42",
+      "album": {
+        "name": "Indigo Puff",
+        "url": "https://open.spotify.com/album/3U87oNqyChE7Akx3b52x2w"
+      },
+      "artists": [
+        {
+          "name": "Sundara Karma",
+          "url": "https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP"
+        }
+      ],
+      "duration_ms": 231721,
+      "name": "Indigo Puff",
+      "url": "https://open.spotify.com/track/3pJQY7UuX0DcE8pgLZhCjf"
     },
     {
       "added_at": "2026-02-18 18:45:42",
@@ -883,22 +883,6 @@
     {
       "added_at": "2026-02-18 18:45:42",
       "album": {
-        "name": "I'm in Love",
-        "url": "https://open.spotify.com/album/19QjNvVQ9PQA5h3jemnLeH"
-      },
-      "artists": [
-        {
-          "name": "Jelani Aryeh",
-          "url": "https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86"
-        }
-      ],
-      "duration_ms": 196724,
-      "name": "I'm in Love",
-      "url": "https://open.spotify.com/track/1dIFbYpiDnHMz5JPGuNAV1"
-    },
-    {
-      "added_at": "2026-02-18 18:45:42",
-      "album": {
         "name": "Use Me",
         "url": "https://open.spotify.com/album/40J4xZREcFpeJVnXDXntvk"
       },
@@ -915,18 +899,18 @@
     {
       "added_at": "2026-02-18 18:45:42",
       "album": {
-        "name": "Social Cues",
-        "url": "https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G"
+        "name": "I'm in Love",
+        "url": "https://open.spotify.com/album/19QjNvVQ9PQA5h3jemnLeH"
       },
       "artists": [
         {
-          "name": "Cage The Elephant",
-          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+          "name": "Jelani Aryeh",
+          "url": "https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86"
         }
       ],
-      "duration_ms": 240559,
-      "name": "Love's The Only Way",
-      "url": "https://open.spotify.com/track/7eIODQbTgKeNawQtowZJEM"
+      "duration_ms": 196724,
+      "name": "I'm in Love",
+      "url": "https://open.spotify.com/track/1dIFbYpiDnHMz5JPGuNAV1"
     },
     {
       "added_at": "2026-02-18 18:45:42",
@@ -943,6 +927,22 @@
       "duration_ms": 207200,
       "name": "Heart Beat Here",
       "url": "https://open.spotify.com/track/4NEAoEh4hZF1Tgp1QXrUHC"
+    },
+    {
+      "added_at": "2026-02-18 18:45:42",
+      "album": {
+        "name": "Social Cues",
+        "url": "https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "duration_ms": 240559,
+      "name": "Love's The Only Way",
+      "url": "https://open.spotify.com/track/7eIODQbTgKeNawQtowZJEM"
     },
     {
       "added_at": "2026-02-18 18:45:42",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2026-02-18 18:45:42",
       "album": {
-        "name": "The Woods",
-        "url": "https://open.spotify.com/album/5ouf5qqUh7nkkfmysUIUod"
-      },
-      "artists": [
-        {
-          "name": "Diamond Thug",
-          "url": "https://open.spotify.com/artist/4mXcRr0lognLc6xSb1vUTX"
-        }
-      ],
-      "duration_ms": 191960,
-      "name": "The Woods",
-      "url": "https://open.spotify.com/track/5ocjpwbvnbO2pnAvEa0b2u"
-    },
-    {
-      "added_at": "2026-02-18 18:45:42",
-      "album": {
         "name": "Wake",
         "url": "https://open.spotify.com/album/6m4eLJW8fFSVuYLFrwpQCB"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 235174,
       "name": "Be There",
       "url": "https://open.spotify.com/track/2ZtkaadDGzsD1Mpd9TZ6DB"
+    },
+    {
+      "added_at": "2026-02-18 18:45:42",
+      "album": {
+        "name": "The Woods",
+        "url": "https://open.spotify.com/album/5ouf5qqUh7nkkfmysUIUod"
+      },
+      "artists": [
+        {
+          "name": "Diamond Thug",
+          "url": "https://open.spotify.com/artist/4mXcRr0lognLc6xSb1vUTX"
+        }
+      ],
+      "duration_ms": 191960,
+      "name": "The Woods",
+      "url": "https://open.spotify.com/track/5ocjpwbvnbO2pnAvEa0b2u"
     },
     {
       "added_at": "2026-02-18 18:45:42",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2026-02-18 18:45:42",
       "album": {
-        "name": "Bon Iver",
-        "url": "https://open.spotify.com/album/1JlvIsP2f6ckoa62aN7kLn"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 336613,
-      "name": "Holocene",
-      "url": "https://open.spotify.com/track/4fbvXwMTXPWaFyaMWUm9CR"
-    },
-    {
-      "added_at": "2026-02-18 18:45:42",
-      "album": {
         "name": "Every Kingdom (Deluxe Version)",
         "url": "https://open.spotify.com/album/2MxcbOGFi99D9JACvj74AH"
       },
@@ -1455,18 +1439,18 @@
     {
       "added_at": "2026-02-18 18:45:42",
       "album": {
-        "name": "In Rainbows",
-        "url": "https://open.spotify.com/album/7eyQXxuf2nGj9d2367Gi5f"
+        "name": "Bon Iver",
+        "url": "https://open.spotify.com/album/1JlvIsP2f6ckoa62aN7kLn"
       },
       "artists": [
         {
-          "name": "Radiohead",
-          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
         }
       ],
-      "duration_ms": 228746,
-      "name": "All I Need",
-      "url": "https://open.spotify.com/track/51ygW389BW4Dut3B69pSwc"
+      "duration_ms": 336613,
+      "name": "Holocene",
+      "url": "https://open.spotify.com/track/4fbvXwMTXPWaFyaMWUm9CR"
     },
     {
       "added_at": "2026-02-18 18:45:42",
@@ -1483,6 +1467,22 @@
       "duration_ms": 226186,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/23HxMVdUqSsWwar52dS4ZT"
+    },
+    {
+      "added_at": "2026-02-18 18:45:42",
+      "album": {
+        "name": "In Rainbows",
+        "url": "https://open.spotify.com/album/7eyQXxuf2nGj9d2367Gi5f"
+      },
+      "artists": [
+        {
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+        }
+      ],
+      "duration_ms": 228746,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/51ygW389BW4Dut3B69pSwc"
     },
     {
       "added_at": "2026-02-18 18:45:42",
@@ -1515,6 +1515,22 @@
       "duration_ms": 163236,
       "name": "Shake, Shake, Shake",
       "url": "https://open.spotify.com/track/4dI4oscajpdtjpg2dP1x28"
+    },
+    {
+      "added_at": "2026-02-18 18:45:42",
+      "album": {
+        "name": "Something",
+        "url": "https://open.spotify.com/album/4nYzn3xOXQsltWZ5AIQns7"
+      },
+      "artists": [
+        {
+          "name": "Chairlift",
+          "url": "https://open.spotify.com/artist/7hAolICGSgXJuM6DUpK5rp"
+        }
+      ],
+      "duration_ms": 207306,
+      "name": "I Belong in Your Arms",
+      "url": "https://open.spotify.com/track/0aqRkWPAL9BGCvvdSiXaE9"
     },
     {
       "added_at": "2026-02-18 18:45:42",
@@ -1567,18 +1583,34 @@
     {
       "added_at": "2026-02-18 18:45:42",
       "album": {
-        "name": "Something",
-        "url": "https://open.spotify.com/album/4nYzn3xOXQsltWZ5AIQns7"
+        "name": "Guru",
+        "url": "https://open.spotify.com/album/3rgAzv3ZIHp9ENbiUJYuIR"
       },
       "artists": [
         {
-          "name": "Chairlift",
-          "url": "https://open.spotify.com/artist/7hAolICGSgXJuM6DUpK5rp"
+          "name": "Coast Modern",
+          "url": "https://open.spotify.com/artist/4wYk01oPJNfaEssVFL46oQ"
         }
       ],
-      "duration_ms": 207306,
-      "name": "I Belong in Your Arms",
-      "url": "https://open.spotify.com/track/0aqRkWPAL9BGCvvdSiXaE9"
+      "duration_ms": 204466,
+      "name": "Guru",
+      "url": "https://open.spotify.com/track/7ygO2E3yfwZVYbzaPdGzed"
+    },
+    {
+      "added_at": "2026-02-18 18:45:42",
+      "album": {
+        "name": "I'll Keep You In Mind, From Time to Time",
+        "url": "https://open.spotify.com/album/7aMvv0lYIhPyudfM1TmItV"
+      },
+      "artists": [
+        {
+          "name": "Moose Blood",
+          "url": "https://open.spotify.com/artist/5fEKZRCUa0JApec5Xy095q"
+        }
+      ],
+      "duration_ms": 159711,
+      "name": "Cherry",
+      "url": "https://open.spotify.com/track/2HQY0sXTrBJCuxqJxbeMWB"
     },
     {
       "added_at": "2026-02-18 18:45:42",
@@ -1599,38 +1631,6 @@
       "duration_ms": 219994,
       "name": "thoughts i have while lying in bed",
       "url": "https://open.spotify.com/track/7t01uN0kyKMEK8Ow9hhEXa"
-    },
-    {
-      "added_at": "2026-02-18 18:45:42",
-      "album": {
-        "name": "Just Say When (Version 2.0)",
-        "url": "https://open.spotify.com/album/0YQxKT6so33kUPPvrS5FfC"
-      },
-      "artists": [
-        {
-          "name": "NOTHING MORE",
-          "url": "https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc"
-        }
-      ],
-      "duration_ms": 224343,
-      "name": "Just Say When (Version 2.0)",
-      "url": "https://open.spotify.com/track/4JtUz0ZcInSokkKBalijhd"
-    },
-    {
-      "added_at": "2026-02-18 18:45:42",
-      "album": {
-        "name": "Crystals",
-        "url": "https://open.spotify.com/album/1t5eMcZmuPuL28AYU7zQSA"
-      },
-      "artists": [
-        {
-          "name": "Of Monsters and Men",
-          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
-        }
-      ],
-      "duration_ms": 243533,
-      "name": "Crystals",
-      "url": "https://open.spotify.com/track/59yvXUFVjsaZQsDs09T7eA"
     }
   ],
   "unique_name": "You & Me",

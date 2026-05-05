@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Neue Musik von Madonna, Sabrina Carpenter, RIN, reezy, Lada Gaga & vielen mehr!
 
-[Spotify](https://open.spotify.com/user/spotify) - 916,754 likes - 97 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 916,695 likes - 97 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

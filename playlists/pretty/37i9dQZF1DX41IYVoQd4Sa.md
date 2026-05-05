@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 
 > מאינדי ועד רוק, קבלו את השירים היפים של הסצנה האלטרנטיבית בישראל : אבנר טואג
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,654 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,660 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 | 30 | [טאם טאם](https://open.spotify.com/track/5psxA79JSFx9e05NXsWGP2) | [Girafot](https://open.spotify.com/artist/5EgEUxXi9uTYYN4cQwmLPy), [ליעם חכמון](https://open.spotify.com/artist/73WXnxFFw9slGZoWweDFPh) | [טאם טאם](https://open.spotify.com/album/2BLA8UylBQBMEYUve5sK2Z) | 2:56 |
 | 31 | [ניגון עתיק](https://open.spotify.com/track/2JjrMM8Isp8hKgCG9DsSmI) | [Shae](https://open.spotify.com/artist/49wOBRtFgrPnrYYJUlPgY6) | [אי אפשר לרכב על סוס פרא](https://open.spotify.com/album/3uKIb53kW2Ub3Kd1WPU2Hx) | 3:24 |
 | 32 | [אולי זה נגמר](https://open.spotify.com/track/5E7oagaoSXn2O1d24JlfCh) | [Hila Ruach](https://open.spotify.com/artist/24Rzfui4UwLMlhZcWYYk7P) | [שחור זוהר](https://open.spotify.com/album/0ygZBvSGFZVZZjiz8PQHgB) | 5:40 |
-| 33 | [Everybody Needs To Be](https://open.spotify.com/track/57nR701tskrQisI9GZJ9oq) | [Kutiman](https://open.spotify.com/artist/0sDJfnuudhMaEmFPvALK2e), [Dekel](https://open.spotify.com/artist/4WUjnhS0CHDhjdm9ei8pj7) | [Everybody Needs To Be](https://open.spotify.com/album/75pIwBgLfpKV4UNs7Xzt3Q) | 2:50 |
-| 34 | [אולי יכולתי יותר](https://open.spotify.com/track/4XfuFnOvQv7FsKdSlmrCUy) | [Ninet Tayeb](https://open.spotify.com/artist/4oEhVAb4wkpqQbOqVMroI4) | [אולי יכולתי יותר](https://open.spotify.com/album/3o2QYnNyEY2u8u0h4uNNqh) | 4:01 |
+| 33 | [אולי יכולתי יותר](https://open.spotify.com/track/4XfuFnOvQv7FsKdSlmrCUy) | [Ninet Tayeb](https://open.spotify.com/artist/4oEhVAb4wkpqQbOqVMroI4) | [אולי יכולתי יותר](https://open.spotify.com/album/3o2QYnNyEY2u8u0h4uNNqh) | 4:01 |
+| 34 | [Everybody Needs To Be](https://open.spotify.com/track/57nR701tskrQisI9GZJ9oq) | [Kutiman](https://open.spotify.com/artist/0sDJfnuudhMaEmFPvALK2e), [Dekel](https://open.spotify.com/artist/4WUjnhS0CHDhjdm9ei8pj7) | [Everybody Needs To Be](https://open.spotify.com/album/75pIwBgLfpKV4UNs7Xzt3Q) | 2:50 |
 | 35 | [הכי יפה בדיסקו](https://open.spotify.com/track/5P2Jj9F8jXWvbflKao1Fjg) | [Girafot](https://open.spotify.com/artist/5EgEUxXi9uTYYN4cQwmLPy), [Daniel sun Krief](https://open.spotify.com/artist/1SLLGXX3xcLqUuYpBDvJQm) | [מזל שיש לי מוזיקה](https://open.spotify.com/album/24yew2vDaykmrWYYaz92jM) | 2:54 |
 | 36 | [בוקר טוב יא בני זונות](https://open.spotify.com/track/532BS1J4sSrJ7sYlobX020) | [Peled](https://open.spotify.com/artist/26lUUiDmS9zj1LOOCkZUiS), [Shredhead](https://open.spotify.com/artist/2xooJtcCsHoPmD1nnQUMJm) | [כאב ודמעות 2](https://open.spotify.com/album/5WBWYsMDiN5DrEOHBCUnBA) | 3:37 |
 | 37 | [חסר אונים](https://open.spotify.com/track/4EitUmWkTVNl38N5PRsrwv) | [Tomer Yeshayahu](https://open.spotify.com/artist/3R34esIv5e5MxzuuCMde0Q) | [בשיחות עם עצמי](https://open.spotify.com/album/36v2a5HR2mTKBhgGIbiH75) | 3:26 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 | 44 | [אפשר לנשום](https://open.spotify.com/track/09zklQ120q209D3xXGrKnZ) | [יושי](https://open.spotify.com/artist/55at4C8Kzzr6TkFeZKyPzJ) | [אפשר לנשום](https://open.spotify.com/album/4rmIIrkqvUwGiFYfrIQ0uH) | 2:57 |
 | 45 | [ארץ ישראל](https://open.spotify.com/track/2vhxV3P0CrnanflxjuTueN) | [The Uzi Navon Legacy](https://open.spotify.com/artist/1slP3t9sVZTNu1vN9qZxKp) | [ארץ ישראל](https://open.spotify.com/album/5nRtlv9RH3qwGYOshzt0v0) | 3:46 |
 | 46 | [היי אני רוצה להגיד לך \- מתוך פסקול האחיות המוצלחות שלי](https://open.spotify.com/track/2JRU7fPnZSAeAw15PZiauH) | [Alma Gov](https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv) | [האחות הרביעית \- פסקול האחיות המוצלחות שלי](https://open.spotify.com/album/18cEepEacUOra5Y9iJe7xz) | 3:00 |
-| 47 | [דינה](https://open.spotify.com/track/5XmwcmebBMGaPrI7UPedDj) | [Anat Moshkovski](https://open.spotify.com/artist/1b8wOY9TQjOLjxAsXvwi49) | [89 שניות](https://open.spotify.com/album/3vzweL9BFuBqgriv3fq3fL) | 2:49 |
-| 48 | [מילים אהבה ויין](https://open.spotify.com/track/374aREzUFyZJRE3Arr0Iix) | [Alon Eder](https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll) | [מילים אהבה ויין](https://open.spotify.com/album/5AKPGUxw9RTTMuuYXYkTVQ) | 6:48 |
-| 49 | [כנפי רוח](https://open.spotify.com/track/5V8d8fQGZrGmDxAj9RaKMW) | [Pulkes](https://open.spotify.com/artist/3GuD5lqoDUYEPVx5lyC5gP), [Berry Sakharof](https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC), [Tuval Haim](https://open.spotify.com/artist/7bV9WTLQ86dYHoz6xFRSSH) | [כנפי רוח](https://open.spotify.com/album/0zFt4df2XFaUozjI276G9U) | 3:59 |
-| 50 | [מנגינת הלב](https://open.spotify.com/track/262Qkoq8jUNyzBTUnvT549) | [Aviv Geffen](https://open.spotify.com/artist/73ieysHN7XpJYEnEAYsO3K), [Berry Sakharof](https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC) | [מנגינת הלב](https://open.spotify.com/album/4uV4c9I1SiCEZLwDpSZ190) | 2:45 |
+| 47 | [מילים אהבה ויין](https://open.spotify.com/track/374aREzUFyZJRE3Arr0Iix) | [Alon Eder](https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll) | [מילים אהבה ויין](https://open.spotify.com/album/5AKPGUxw9RTTMuuYXYkTVQ) | 6:48 |
+| 48 | [כנפי רוח](https://open.spotify.com/track/5V8d8fQGZrGmDxAj9RaKMW) | [Tuval Haim](https://open.spotify.com/artist/7bV9WTLQ86dYHoz6xFRSSH), [Berry Sakharof](https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC), [Pulkes](https://open.spotify.com/artist/3GuD5lqoDUYEPVx5lyC5gP) | [כנפי רוח](https://open.spotify.com/album/0zFt4df2XFaUozjI276G9U) | 3:59 |
+| 49 | [דינה](https://open.spotify.com/track/5XmwcmebBMGaPrI7UPedDj) | [Anat Moshkovski](https://open.spotify.com/artist/1b8wOY9TQjOLjxAsXvwi49) | [89 שניות](https://open.spotify.com/album/3vzweL9BFuBqgriv3fq3fL) | 2:49 |
+| 50 | [Midnight Blue](https://open.spotify.com/track/60qwBKu1GnzJmfbISwAl3T) | [Omer Netzer](https://open.spotify.com/artist/6yCGdZHId0vWEO5NxS4g8d) | [Midnight Blue](https://open.spotify.com/album/6d9kdw3DKd8821NezRmK6Q) | 3:49 |
 
 Snapshot ID: `AAAAAKKySdfWnu1dWPMYupVSVbZv8S0V`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16xyFvvdaW6.md) - [plain]
 
 > Los mejores temas del Rock Cristiano\. ¡Dale al play y disfruta estos tremendos temazos!
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,568 likes - 70 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,569 likes - 70 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16xyFvvdaW6.md) - [plain]
 | 69 | [Al Único / Que Dulce es Estar](https://open.spotify.com/track/6M0EWZ4OlkDRAwzvepzTOH) | [Fos Rock](https://open.spotify.com/artist/0p9As39OkIqK6mOPOs7EvK), [Will Fabre](https://open.spotify.com/artist/07Awsxxzr9ZL19x4IfNTDm) | [Al Único / Que Dulce es Estar](https://open.spotify.com/album/46fUUBkh28La01t6zFDHuS) | 2:35 |
 | 70 | [Alaba](https://open.spotify.com/track/3gtKnR2a9bQMIB4OnSZ1JX) | [Banda Generasion](https://open.spotify.com/artist/6W6JOZ91tOgrLB4bdcGs3r) | [Yo Soy Generasion](https://open.spotify.com/album/0Q9uXsdYktit3JOb3LRsaV) | 5:24 |
 
-Snapshot ID: `AAAAAHE4Ejq92rH7g0nufT1qGaQygkl6`
+Snapshot ID: `AAAAAMwz0UGG5OrFxrQNP0gIn6lldfG7`

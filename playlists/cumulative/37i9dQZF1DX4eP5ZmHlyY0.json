@@ -1185,6 +1185,24 @@
     },
     {
       "album": {
+        "name": "BANG!!",
+        "url": "https://open.spotify.com/album/5vkSBmbkFqg9ByvMe0o4Zu"
+      },
+      "artists": [
+        {
+          "name": "Snow Man",
+          "url": "https://open.spotify.com/artist/0UuiWPm9FpWvRuWNrXO98N"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204576,
+      "name": "BANG!!",
+      "url": "https://open.spotify.com/track/5wHQmGFml0oDSqv7Q4nixp"
+    },
+    {
+      "album": {
         "name": "BANQUET BANG",
         "url": "https://open.spotify.com/album/6JG34ilizU0ZNXAK2z7ehB"
       },
@@ -1304,7 +1322,7 @@
       ],
       "date_added": "2026-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 155400,
       "name": "BE:FIRST ALL DAY",
       "url": "https://open.spotify.com/track/3C7208lbsu1qFo5oNfYG2I"
@@ -1632,7 +1650,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 164766,
       "name": "BLACK TOKYO",
       "url": "https://open.spotify.com/track/6z9exSTXNW39htVpGxFJ8x"
@@ -11947,6 +11965,24 @@
     },
     {
       "album": {
+        "name": "Rondo",
+        "url": "https://open.spotify.com/album/7jti6ClhLE00owOqdpERjN"
+      },
+      "artists": [
+        {
+          "name": "BE:FIRST",
+          "url": "https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200057,
+      "name": "Rondo",
+      "url": "https://open.spotify.com/track/5PDZPRoCGjL9cJq7ERHWSh"
+    },
+    {
+      "album": {
         "name": "FIRST:DELIVERY",
         "url": "https://open.spotify.com/album/5CxAYLAw5dgSZLmCqOmoS6"
       },
@@ -14379,6 +14415,24 @@
     },
     {
       "album": {
+        "name": "GREENGREEN",
+        "url": "https://open.spotify.com/album/2zEdi42kfgLEySoikGJMFT"
+      },
+      "artists": [
+        {
+          "name": "CORTIS",
+          "url": "https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122986,
+      "name": "TNT",
+      "url": "https://open.spotify.com/track/7diH1qnFziArYzynk3vkr6"
+    },
+    {
+      "album": {
         "name": "Royal Straight Flush",
         "url": "https://open.spotify.com/album/7u3KKFUERzcSNIxKgRv9VR"
       },
@@ -16574,7 +16628,7 @@
       ],
       "date_added": "2026-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 231127,
       "name": "\u30aa\u30c9\u30ed\u30a6\u30bc\uff01",
       "url": "https://open.spotify.com/track/0MV9cdI2SS1s0tIkl9fTR8"

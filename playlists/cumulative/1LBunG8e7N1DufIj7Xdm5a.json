@@ -45169,6 +45169,24 @@
     },
     {
       "album": {
+        "name": "Mothman",
+        "url": "https://open.spotify.com/album/2Ep74PqtVoHvQYwZ033Nvs"
+      },
+      "artists": [
+        {
+          "name": "Apex89",
+          "url": "https://open.spotify.com/artist/0jdPGIACeHmp89qaOUEsWZ"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311479,
+      "name": "Mothman",
+      "url": "https://open.spotify.com/track/38gi9OlVKpj6zwtNKK0dDc"
+    },
+    {
+      "album": {
         "name": "My Feelings",
         "url": "https://open.spotify.com/album/4ZbIm5MNzLB3p61sZrR1Ku"
       },

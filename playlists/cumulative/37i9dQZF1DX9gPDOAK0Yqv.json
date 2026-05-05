@@ -6136,7 +6136,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 343764,
       "name": "Gate",
       "url": "https://open.spotify.com/track/0lenLbjzr7nDOUt5Ll9iwf"
@@ -7212,6 +7212,24 @@
       "duration_ms": 433717,
       "name": "High Dose, No Sleep",
       "url": "https://open.spotify.com/track/3CuCjJQUs92X43QqJhTRub"
+    },
+    {
+      "album": {
+        "name": "High On You",
+        "url": "https://open.spotify.com/album/2o4HpfJgXEMKg6lwE6hY2h"
+      },
+      "artists": [
+        {
+          "name": "Jackie Hollander",
+          "url": "https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181875,
+      "name": "High On You",
+      "url": "https://open.spotify.com/track/48vSb2Wjw3wD3OFBiqikJb"
     },
     {
       "album": {
@@ -12061,6 +12079,28 @@
     },
     {
       "album": {
+        "name": "Pa Ca",
+        "url": "https://open.spotify.com/album/4EBRbhLcGhOjIMfeMv5UoP"
+      },
+      "artists": [
+        {
+          "name": "Massano",
+          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
+        },
+        {
+          "name": "Silver Panda",
+          "url": "https://open.spotify.com/artist/310IX3ZzFSl14ZvY2dM8Da"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185859,
+      "name": "Pa Ca",
+      "url": "https://open.spotify.com/track/5CWPDL3gvV8xq3VBwjNrTR"
+    },
+    {
+      "album": {
         "name": "Pankrepas",
         "url": "https://open.spotify.com/album/5p3jdI5wKt2X0En9WxQ44W"
       },
@@ -16842,7 +16882,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 183750,
       "name": "Touch It",
       "url": "https://open.spotify.com/track/5vbPAYlJb40a8BW56hAkDD"

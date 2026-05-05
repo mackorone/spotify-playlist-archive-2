@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock & alternative tracks every week\. Cover: American Football
 
-[Spotify](https://open.spotify.com/user/spotify) - 941,872 likes - 151 songs - 8 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 941,922 likes - 151 songs - 8 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

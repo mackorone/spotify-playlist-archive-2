@@ -1,6 +1,6 @@
 {
   "description": "Grandes sucessos e novidades do rock Crist\u00e3o. Foto: Colo de Deus",
-  "num_followers": 149575,
+  "num_followers": 149574,
   "original_name": "Templo do Rock",
   "owner": {
     "name": "Spotify",
@@ -211,6 +211,22 @@
     {
       "added_at": "2026-04-24 19:01:02",
       "album": {
+        "name": "Tudo \u00e9 Teu / Nova Criatura / Rede ao Mar",
+        "url": "https://open.spotify.com/album/4LNn5OkVpjCZv5c8aKc4N4"
+      },
+      "artists": [
+        {
+          "name": "MORADA",
+          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
+        }
+      ],
+      "duration_ms": 304556,
+      "name": "Tudo \u00e9 Teu / Nova Criatura / Rede ao Mar",
+      "url": "https://open.spotify.com/track/4G2fqa20Hkj8uTDwMOzfrr"
+    },
+    {
+      "added_at": "2026-04-24 19:01:02",
+      "album": {
         "name": "Tudo Fica Bem",
         "url": "https://open.spotify.com/album/74KhNQQ0J28XUQB5dC3JTE"
       },
@@ -227,22 +243,6 @@
       "duration_ms": 304240,
       "name": "Tudo Fica Bem",
       "url": "https://open.spotify.com/track/7aiuugdiL75xtqcU2KYJi6"
-    },
-    {
-      "added_at": "2026-04-24 19:01:02",
-      "album": {
-        "name": "Tudo \u00e9 Teu / Nova Criatura / Rede ao Mar",
-        "url": "https://open.spotify.com/album/4LNn5OkVpjCZv5c8aKc4N4"
-      },
-      "artists": [
-        {
-          "name": "MORADA",
-          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
-        }
-      ],
-      "duration_ms": 304556,
-      "name": "Tudo \u00e9 Teu / Nova Criatura / Rede ao Mar",
-      "url": "https://open.spotify.com/track/4G2fqa20Hkj8uTDwMOzfrr"
     },
     {
       "added_at": "2026-04-24 19:01:02",
@@ -267,22 +267,6 @@
     {
       "added_at": "2026-04-24 19:01:02",
       "album": {
-        "name": "Pra Descobrir",
-        "url": "https://open.spotify.com/album/19eaAqFmX3ElvRtszgvPDV"
-      },
-      "artists": [
-        {
-          "name": "Rosa de Saron",
-          "url": "https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX"
-        }
-      ],
-      "duration_ms": 257068,
-      "name": "Pra Descobrir",
-      "url": "https://open.spotify.com/track/2OdrzlIu1hxjbDeWaVYAhb"
-    },
-    {
-      "added_at": "2026-04-24 19:01:02",
-      "album": {
         "name": "Yeshua",
         "url": "https://open.spotify.com/album/2ubpSKz1ULV8ECWpKcBj20"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 346917,
       "name": "Yeshua",
       "url": "https://open.spotify.com/track/7D3qbQOrea1ME7B7cUrYau"
+    },
+    {
+      "added_at": "2026-04-24 19:01:02",
+      "album": {
+        "name": "Pra Descobrir",
+        "url": "https://open.spotify.com/album/19eaAqFmX3ElvRtszgvPDV"
+      },
+      "artists": [
+        {
+          "name": "Rosa de Saron",
+          "url": "https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX"
+        }
+      ],
+      "duration_ms": 257068,
+      "name": "Pra Descobrir",
+      "url": "https://open.spotify.com/track/2OdrzlIu1hxjbDeWaVYAhb"
     },
     {
       "added_at": "2026-04-24 19:01:02",
@@ -315,22 +315,6 @@
     {
       "added_at": "2026-04-24 19:01:02",
       "album": {
-        "name": "467 (Cabo da Nau)",
-        "url": "https://open.spotify.com/album/3lSHJXrLKFXruAg3A156HA"
-      },
-      "artists": [
-        {
-          "name": "AtituD",
-          "url": "https://open.spotify.com/artist/7Ee6ZsG5CPerynOMJ4fu9p"
-        }
-      ],
-      "duration_ms": 157090,
-      "name": "467 (Cabo da Nau)",
-      "url": "https://open.spotify.com/track/2Vi9LfNvtOrtkTKFUiNinI"
-    },
-    {
-      "added_at": "2026-04-24 19:01:02",
-      "album": {
         "name": "Daniel (feat. Fernandinho)",
         "url": "https://open.spotify.com/album/1SL5nfE14eLFlOd6wL79qT"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 252348,
       "name": "Daniel (feat. Fernandinho)",
       "url": "https://open.spotify.com/track/5KyiPrg9MOVz8fd6MGvKa2"
+    },
+    {
+      "added_at": "2026-04-24 19:01:02",
+      "album": {
+        "name": "467 (Cabo da Nau)",
+        "url": "https://open.spotify.com/album/3lSHJXrLKFXruAg3A156HA"
+      },
+      "artists": [
+        {
+          "name": "AtituD",
+          "url": "https://open.spotify.com/artist/7Ee6ZsG5CPerynOMJ4fu9p"
+        }
+      ],
+      "duration_ms": 157090,
+      "name": "467 (Cabo da Nau)",
+      "url": "https://open.spotify.com/track/2Vi9LfNvtOrtkTKFUiNinI"
     },
     {
       "added_at": "2026-04-24 19:01:02",
@@ -407,22 +407,6 @@
     {
       "added_at": "2026-04-24 19:01:02",
       "album": {
-        "name": "Davi (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1Jh6IaWVzcyClOrrFpBYpg"
-      },
-      "artists": [
-        {
-          "name": "Oficina G3",
-          "url": "https://open.spotify.com/artist/0gO5Vbklho8yrBrUdHhuLH"
-        }
-      ],
-      "duration_ms": 196829,
-      "name": "Davi - Ao Vivo",
-      "url": "https://open.spotify.com/track/7syDyjPtf7zwoX1D425KSW"
-    },
-    {
-      "added_at": "2026-04-24 19:01:02",
-      "album": {
         "name": "Deixa Vir - Vol II (Ao Vivo)",
         "url": "https://open.spotify.com/album/5qjk2btAEazVwm5MtrMcSE"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 281760,
       "name": "Grita! (Shout!) - Ao Vivo",
       "url": "https://open.spotify.com/track/37h3VwFhtyxPp3jHD5sVXv"
+    },
+    {
+      "added_at": "2026-04-24 19:01:02",
+      "album": {
+        "name": "Davi (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1Jh6IaWVzcyClOrrFpBYpg"
+      },
+      "artists": [
+        {
+          "name": "Oficina G3",
+          "url": "https://open.spotify.com/artist/0gO5Vbklho8yrBrUdHhuLH"
+        }
+      ],
+      "duration_ms": 196829,
+      "name": "Davi - Ao Vivo",
+      "url": "https://open.spotify.com/track/7syDyjPtf7zwoX1D425KSW"
     },
     {
       "added_at": "2026-04-24 19:01:02",
@@ -783,22 +783,6 @@
     {
       "added_at": "2026-04-24 19:01:02",
       "album": {
-        "name": "Na Corte do Egito (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3lTqEzslNX3gZMziSjskmz"
-      },
-      "artists": [
-        {
-          "name": "Trazendo a Arca",
-          "url": "https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5"
-        }
-      ],
-      "duration_ms": 284693,
-      "name": "Na Corte do Egito - Ao Vivo",
-      "url": "https://open.spotify.com/track/1kPt4OCB6h0lFRR7QAYY7e"
-    },
-    {
-      "added_at": "2026-04-24 19:01:02",
-      "album": {
         "name": "Dia De Milagres",
         "url": "https://open.spotify.com/album/5HAEqBs5oAlXReyhPPYYsQ"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 262480,
       "name": "Dia De Milagres",
       "url": "https://open.spotify.com/track/6O2R8WvZMTqCY8qrzgaHoT"
+    },
+    {
+      "added_at": "2026-04-24 19:01:02",
+      "album": {
+        "name": "Na Corte do Egito (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3lTqEzslNX3gZMziSjskmz"
+      },
+      "artists": [
+        {
+          "name": "Trazendo a Arca",
+          "url": "https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5"
+        }
+      ],
+      "duration_ms": 284693,
+      "name": "Na Corte do Egito - Ao Vivo",
+      "url": "https://open.spotify.com/track/1kPt4OCB6h0lFRR7QAYY7e"
     },
     {
       "added_at": "2026-04-24 19:01:02",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2026-04-24 19:01:02",
       "album": {
-        "name": "Celebre (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7fLGb5p4a1mFroUMKDFtqY"
-      },
-      "artists": [
-        {
-          "name": "Trazendo a Arca",
-          "url": "https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5"
-        }
-      ],
-      "duration_ms": 249216,
-      "name": "Celebre - Ao Vivo",
-      "url": "https://open.spotify.com/track/39wHeXI2eShSnVgCLtSlw0"
-    },
-    {
-      "added_at": "2026-04-24 19:01:02",
-      "album": {
         "name": "Imerecido Amor",
         "url": "https://open.spotify.com/album/38qJ3aPWI0uvOL3XNOEk9E"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 190967,
       "name": "Imerecido Amor",
       "url": "https://open.spotify.com/track/05CPcYZ1VPoKuXUVuL8TNZ"
+    },
+    {
+      "added_at": "2026-04-24 19:01:02",
+      "album": {
+        "name": "Celebre (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7fLGb5p4a1mFroUMKDFtqY"
+      },
+      "artists": [
+        {
+          "name": "Trazendo a Arca",
+          "url": "https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5"
+        }
+      ],
+      "duration_ms": 249216,
+      "name": "Celebre - Ao Vivo",
+      "url": "https://open.spotify.com/track/39wHeXI2eShSnVgCLtSlw0"
     },
     {
       "added_at": "2026-04-24 19:01:02",

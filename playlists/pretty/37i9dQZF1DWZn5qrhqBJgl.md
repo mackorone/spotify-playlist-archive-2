@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZn5qrhqBJgl.md) - [plain]
 
 > Dope global beat makers\. <a href="spotify:artist:4fOizZJsCaT3RYpqNdeGKk">Thanks Joey</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,062 likes - 60 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,079 likes - 60 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZn5qrhqBJgl.md) - [plain]
 | 15 | [Le jour où j'ai arrêté le rap \(Instrumental\)](https://open.spotify.com/track/4SRYBEVd6ChjJYBhaObHpk) | [Médine](https://open.spotify.com/artist/1afjj7vSBkpIjkiJdSV6bV) | [Le jour où j'ai arrêté le rap](https://open.spotify.com/album/5h0M4Xlf1r5mYvjhKTMrzY) | 3:22 |
 | 16 | [HAAT \- Instrumental](https://open.spotify.com/track/0pnrPBK0MYReAMf6l4RTWf) | [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx) | [HAAT](https://open.spotify.com/album/2U7D4ig5znapF4r32R2mFn) | 2:30 |
 | 17 | [Spectra](https://open.spotify.com/track/0wW2h34ktVMnLMKZG57FRk) | [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC) | [Rudimentary](https://open.spotify.com/album/7H2EfXZ6vwDEcRqg3fWjFy) | 2:09 |
-| 18 | [Adults](https://open.spotify.com/track/7qw54hVGKg32hCy37pOkqA) | [Kray Stax](https://open.spotify.com/artist/18U2xdC8wtA3Jl6mQcrjWS) | [Adults](https://open.spotify.com/album/2VS6Va3gr1cGiMi2E9SPPE) | 3:37 |
-| 19 | [Rahat \- Instrumental](https://open.spotify.com/track/0eIZJWahC3DUH6UxH5z9o5) | [Ardian Bujupi](https://open.spotify.com/artist/0pOruKWwgyqSLZhn4Xovs9) | [Rahat](https://open.spotify.com/album/3mM3HpK7WiItHlCk9uRnII) | 2:46 |
+| 18 | [Rahat \- Instrumental](https://open.spotify.com/track/0eIZJWahC3DUH6UxH5z9o5) | [Ardian Bujupi](https://open.spotify.com/artist/0pOruKWwgyqSLZhn4Xovs9) | [Rahat](https://open.spotify.com/album/3mM3HpK7WiItHlCk9uRnII) | 2:46 |
+| 19 | [Adults](https://open.spotify.com/track/7qw54hVGKg32hCy37pOkqA) | [Kray Stax](https://open.spotify.com/artist/18U2xdC8wtA3Jl6mQcrjWS) | [Adults](https://open.spotify.com/album/2VS6Va3gr1cGiMi2E9SPPE) | 3:37 |
 | 20 | [Draai Je Om \- Instrumental](https://open.spotify.com/track/7KVqGZPu3a2IaCUx6wbXLR) | [Gio](https://open.spotify.com/artist/6EYEbuEhF2WMVU47iUJNBS) | [Draai Je Om](https://open.spotify.com/album/75LwEJvg8k29QAbzPGQXaf) | 3:14 |
 | 21 | [Ik Vari Do Vari](https://open.spotify.com/track/6tEhSz0ct5TlKXBsSNWIHa) | [Rafael Aragon](https://open.spotify.com/artist/4WPMUBMIM4Pv1T4Qq3DIPs), [Stas](https://open.spotify.com/artist/1nqPoRk7WaEiRBTNn6NFyG) | [Arabstazy \- Under Frustration Vol\. 2](https://open.spotify.com/album/57xfOZGUXk91oUUnlMrxPW) | 5:22 |
 | 22 | [Chill in Lydda](https://open.spotify.com/track/205BdRvvSaHf4LldyoRIkM) | [Hazy Noir](https://open.spotify.com/artist/4sPjujW6QsBuHU1KKs6cPY), [Djamil](https://open.spotify.com/artist/0AgRxCF9PsEjvJvsWDvjJA) | [Chill in Lydda](https://open.spotify.com/album/2oJRkGteUQziUCaE16Gxvu) | 2:36 |
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZn5qrhqBJgl.md) - [plain]
 | 25 | [Palms](https://open.spotify.com/track/7qv2HDiHFE1ln2VfLtOxFh) | [JordanXL](https://open.spotify.com/artist/2GB80HjPXBHPNH6DoUC0bq) | [Palms](https://open.spotify.com/album/6U4DUbGERHdkeYDvBRKZ45) | 2:32 |
 | 26 | [Farmingdale](https://open.spotify.com/track/2JT5TckTZ2eLRMUeT4c3vJ) | [Goldspell](https://open.spotify.com/artist/2gmP9WC9aV1ETtETCW0yF1) | [Farmingdale](https://open.spotify.com/album/0H08iAhi6Cv8iSh2QfZBuO) | 3:00 |
 | 27 | [Birdie\_ \- Instrumental](https://open.spotify.com/track/05n4JTIENSHhwsa7aBDvPm) | [Hazy Noir](https://open.spotify.com/artist/4sPjujW6QsBuHU1KKs6cPY) | [Birdie\_](https://open.spotify.com/album/4tkmEfZLyCSUjGwjJsm9Le) | 2:29 |
-| 28 | [Peepers](https://open.spotify.com/track/2QOgqwD5LGbYjneDPaO8Lq) | [Nadamondi](https://open.spotify.com/artist/4y5xvBnDBSkmelTGDShAhJ) | [Act Upon](https://open.spotify.com/album/4SuOSkTWZgHNY2HAD8SDmB) | 2:11 |
-| 29 | [Tank \- Instrumental](https://open.spotify.com/track/6Q7nTYBffkZSNebWmz0XSQ) | [SXTEEN](https://open.spotify.com/artist/3vioxUBsBBi7pmXx4KG5Vg), [Mula B](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi) | [Tank](https://open.spotify.com/album/2Q1wocAY05F8VaxnXqfVZM) | 2:47 |
+| 28 | [Tank \- Instrumental](https://open.spotify.com/track/6Q7nTYBffkZSNebWmz0XSQ) | [SXTEEN](https://open.spotify.com/artist/3vioxUBsBBi7pmXx4KG5Vg), [Mula B](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi) | [Tank](https://open.spotify.com/album/2Q1wocAY05F8VaxnXqfVZM) | 2:47 |
+| 29 | [Peepers](https://open.spotify.com/track/2QOgqwD5LGbYjneDPaO8Lq) | [Nadamondi](https://open.spotify.com/artist/4y5xvBnDBSkmelTGDShAhJ) | [Act Upon](https://open.spotify.com/album/4SuOSkTWZgHNY2HAD8SDmB) | 2:11 |
 | 30 | [Qahwah Con Leche](https://open.spotify.com/track/3tUdYudStuFWmlb43jvo24) | [El Bles](https://open.spotify.com/artist/13jGZidP6rRBpqAQUTZLhL), [Thanks Joey](https://open.spotify.com/artist/4fOizZJsCaT3RYpqNdeGKk) | [Qahwah Con Leche](https://open.spotify.com/album/4qhILwo49DJUZLXEaaM0fF) | 3:32 |
 | 31 | [Instant Knafeh](https://open.spotify.com/track/6rjwVNcnNnIuHJtDKksKec) | [Kawakb](https://open.spotify.com/artist/5wkaR7CTqFNnNg9K0cGcSp) | [Instant Knafeh](https://open.spotify.com/album/3W75uqmteAdzH7BaJjWVbz) | 3:12 |
 | 32 | [SMOK](https://open.spotify.com/track/5XpYOIYN3y5ggxZvbul5VV) | [Sinan Öktem](https://open.spotify.com/artist/55e2OO6vymJkgUHIrp3xfv) | [SMOK](https://open.spotify.com/album/4LJj9F5Y9gzeCQzO2sc5x7) | 2:40 |

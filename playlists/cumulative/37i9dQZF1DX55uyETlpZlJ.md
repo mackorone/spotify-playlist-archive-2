@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Vasuki Vaibhav
 
-654 songs - 1 day 13 hr 11 min
+655 songs - 1 day 13 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -321,6 +321,7 @@
 | [Lekka](https://open.spotify.com/track/6WAjdVHT9iOqpmDDqXwDri) | [Trap Raag](https://open.spotify.com/artist/2NfGt7ISmmQHNrQFtlbw09) | [Lekka](https://open.spotify.com/album/0Ylf2B2m39ZjB00Sv5rQrd) | 1:50 | 2024-11-04 | 2025-02-12 |
 | [Lemme know](https://open.spotify.com/track/52do3BlT1cljawMI2jUVHj) | [Rd Tillu](https://open.spotify.com/artist/1BWba6jCmo7OnYO052llOx), [Ponnamma](https://open.spotify.com/artist/3q46DthMtPWUhsoJUyGw2N) | [Lemme know](https://open.spotify.com/album/7hy987UBUHXMHVtT2UgttW) | 3:01 | 2023-12-19 | 2024-06-14 |
 | [Let's go back \(The 90's song\)](https://open.spotify.com/track/3MfcZGo0CUwkbhF4dFWKVr) | [Adhvik](https://open.spotify.com/artist/7Brq4omogaIOJiHqQwIgnV) | [Let's go back \(The 90's song\)](https://open.spotify.com/album/58thkzXHNVMFcl6cyq30Vb) | 2:38 | 2026-03-27 |  |
+| [Life](https://open.spotify.com/track/6IryKSsE8v4pJcra0Hn0yn) | [CHARLIE](https://open.spotify.com/artist/4lab8XoG0x9TbeClnEHmFA), [Freedom Beats](https://open.spotify.com/artist/0BXbPlmnqZKVrPNsLZGGid) | [Life](https://open.spotify.com/album/3Uu2bHn8aSM5Ig971gr9Rx) | 2:52 | 2026-05-04 |  |
 | [Life Is Casino](https://open.spotify.com/track/7Hxk8pCTMLbznT45Pe14Vi) | [Chandan Shetty](https://open.spotify.com/artist/2b4BOEtTbGchL0K53fvpgk), [Chris Gayle \(UniverseBoss\)](https://open.spotify.com/artist/5mK0ENhGjR5aGlUYeoBt5V) | [Life Is Casino](https://open.spotify.com/album/5SVm1UvQuDgoJVburb1lmv) | 3:34 | 2025-10-22 | 2026-04-29 |
 | [LIFE IS SIMPLE](https://open.spotify.com/track/4roerOpvixe6aTcZNonScu) | [Dr Nithin S](https://open.spotify.com/artist/3tB86JUJhVvi1W0jyoyPhD), [Nishan S](https://open.spotify.com/artist/4eYEOW7QsIxcfRoaNqwT5G) | [LIFE IS SIMPLE](https://open.spotify.com/album/4j6aGPJX3yfneX32rTKYaN) | 3:07 | 2025-02-20 | 2025-07-16 |
 | [Live Lakshmi](https://open.spotify.com/track/1kgvfvXFjAEpUwKYqZcc54) | [Praveen Kadapatti](https://open.spotify.com/artist/3g5LvlyMO7x7Pn0sCIFvst), [Kishor](https://open.spotify.com/artist/6GYVBglYMAmbDVoLAX02kD), [Kavya SM](https://open.spotify.com/artist/7HrXhvguvaak7G4Luv63yu) | [Live Lakshmi](https://open.spotify.com/album/32fNJbDr7iUAZZx1dBi8f1) | 1:57 | 2023-08-24 | 2024-02-17 |

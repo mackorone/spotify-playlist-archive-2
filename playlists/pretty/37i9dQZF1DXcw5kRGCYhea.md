@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcw5kRGCYhea.md) - [plain]
 
 > Les sons urbains et Afro les plus chauds 🔥 Cover: Tyla
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,780 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,795 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcw5kRGCYhea.md) - [plain]
 | 49 | [Amnésie](https://open.spotify.com/track/624UJb49U6Wtvoa7aj8nQ2) | [ZAKLOOW](https://open.spotify.com/artist/1YXtbOgnaz82aSuMnWSukx), [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc), [Shaw](https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1) | [SYMPHONY IX](https://open.spotify.com/album/4OvkJaCZiDU2MNTYxu91RG) | 2:44 |
 | 50 | [SO HIGH](https://open.spotify.com/track/4nQfvKT9yLvccSIpQgJ8ME) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [ICEBERG](https://open.spotify.com/album/3zKwuAbA8kBGjwgGhebvI5) | 3:56 |
 
-Snapshot ID: `AAAAABxaOU4Es3vuVJB0eaNHvJ3mAXM2`
+Snapshot ID: `AAAAALd7feYKq1not7gjM8LzChMkz3HX`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3t7MVW.md) - [plain]
 
 > This is Stick Figure\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,497 likes - 45 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,524 likes - 45 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3t7MVW.md) - [plain]
 | 44 | [Walking in My Shoes](https://open.spotify.com/track/2LvZ1yfVNjQDUPDVQJy0ZL) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Free Flow Sessions](https://open.spotify.com/album/0RxeQLaMBO8m6vk2243rkt) | 2:47 |
 | 45 | [Forever](https://open.spotify.com/track/6AOAthWo71IHyLjwPMEXjr) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Free Flow Sessions](https://open.spotify.com/album/0RxeQLaMBO8m6vk2243rkt) | 3:54 |
 
-Snapshot ID: `afU+gAAAAAD93vXcOc0Batzf6Q0IAwN4`
+Snapshot ID: `afaQAAAAAACJsdPaCwZpQApQZDwhs0+K`

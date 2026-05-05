@@ -1,6 +1,6 @@
 {
   "description": "F\u00fcr ein bisschen mehr Leichtigkeit.",
-  "num_followers": 368657,
+  "num_followers": 368669,
   "original_name": "Feelgood Pop",
   "owner": {
     "name": "Spotify",
@@ -163,22 +163,6 @@
     {
       "added_at": "2026-04-30 22:03:09",
       "album": {
-        "name": "Pocketful Of Sunshine",
-        "url": "https://open.spotify.com/album/6D1YpObdaha620Tm54WbIw"
-      },
-      "artists": [
-        {
-          "name": "Natasha Bedingfield",
-          "url": "https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a"
-        }
-      ],
-      "duration_ms": 202906,
-      "name": "Pocketful of Sunshine",
-      "url": "https://open.spotify.com/track/1uigwk5hNV84zRd5YQQRTk"
-    },
-    {
-      "added_at": "2026-04-30 22:03:09",
-      "album": {
         "name": "SHE DID IT AGAIN (feat. Zara Larsson)",
         "url": "https://open.spotify.com/album/13DVwg7TPRUC8BnLjblv5B"
       },
@@ -195,6 +179,22 @@
       "duration_ms": 213241,
       "name": "SHE DID IT AGAIN (feat. Zara Larsson)",
       "url": "https://open.spotify.com/track/3jucj0h0tajme6rUEadmWN"
+    },
+    {
+      "added_at": "2026-04-30 22:03:09",
+      "album": {
+        "name": "Pocketful Of Sunshine",
+        "url": "https://open.spotify.com/album/6D1YpObdaha620Tm54WbIw"
+      },
+      "artists": [
+        {
+          "name": "Natasha Bedingfield",
+          "url": "https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a"
+        }
+      ],
+      "duration_ms": 202906,
+      "name": "Pocketful of Sunshine",
+      "url": "https://open.spotify.com/track/1uigwk5hNV84zRd5YQQRTk"
     },
     {
       "added_at": "2026-04-30 22:03:09",
@@ -499,22 +499,6 @@
     {
       "added_at": "2026-04-30 22:03:09",
       "album": {
-        "name": "Jamie MacDonald",
-        "url": "https://open.spotify.com/album/0y3pWJZ5j2JPYI2K3vPzZp"
-      },
-      "artists": [
-        {
-          "name": "Jamie MacDonald",
-          "url": "https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4"
-        }
-      ],
-      "duration_ms": 189593,
-      "name": "Won't Let Go",
-      "url": "https://open.spotify.com/track/4pRJMNLtar65GtT9vpzHu4"
-    },
-    {
-      "added_at": "2026-04-30 22:03:09",
-      "album": {
         "name": "breaking news",
         "url": "https://open.spotify.com/album/32pkmWSgB4V9UTJnqIzPp7"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 161075,
       "name": "breaking news",
       "url": "https://open.spotify.com/track/654XTpkoachnc4HT2Fi3Fn"
+    },
+    {
+      "added_at": "2026-04-30 22:03:09",
+      "album": {
+        "name": "Jamie MacDonald",
+        "url": "https://open.spotify.com/album/0y3pWJZ5j2JPYI2K3vPzZp"
+      },
+      "artists": [
+        {
+          "name": "Jamie MacDonald",
+          "url": "https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4"
+        }
+      ],
+      "duration_ms": 189593,
+      "name": "Won't Let Go",
+      "url": "https://open.spotify.com/track/4pRJMNLtar65GtT9vpzHu4"
     },
     {
       "added_at": "2026-04-30 22:03:09",
@@ -595,18 +595,18 @@
     {
       "added_at": "2026-04-30 22:03:09",
       "album": {
-        "name": "Dopamine",
-        "url": "https://open.spotify.com/album/3k63fb9eki4aVFPzU3Ptvw"
+        "name": "Ready To Be Loved",
+        "url": "https://open.spotify.com/album/0n154sm1hveOmE5VKenM9n"
       },
       "artists": [
         {
-          "name": "Robyn",
-          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
+          "name": "St. Lundi",
+          "url": "https://open.spotify.com/artist/3i94wxAKQqlJyiPLDmjNdH"
         }
       ],
-      "duration_ms": 215000,
-      "name": "Dopamine",
-      "url": "https://open.spotify.com/track/168GHxsiJyT9tlJN74ZO11"
+      "duration_ms": 180581,
+      "name": "Ready To Be Loved",
+      "url": "https://open.spotify.com/track/1DqxoM9tJrH8VElhileZ2v"
     },
     {
       "added_at": "2026-04-30 22:03:09",
@@ -627,18 +627,18 @@
     {
       "added_at": "2026-04-30 22:03:09",
       "album": {
-        "name": "Ready To Be Loved",
-        "url": "https://open.spotify.com/album/0n154sm1hveOmE5VKenM9n"
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/3k63fb9eki4aVFPzU3Ptvw"
       },
       "artists": [
         {
-          "name": "St. Lundi",
-          "url": "https://open.spotify.com/artist/3i94wxAKQqlJyiPLDmjNdH"
+          "name": "Robyn",
+          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
         }
       ],
-      "duration_ms": 180581,
-      "name": "Ready To Be Loved",
-      "url": "https://open.spotify.com/track/1DqxoM9tJrH8VElhileZ2v"
+      "duration_ms": 215000,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/168GHxsiJyT9tlJN74ZO11"
     },
     {
       "added_at": "2026-04-30 22:03:09",
@@ -811,22 +811,6 @@
     {
       "added_at": "2026-04-30 22:03:09",
       "album": {
-        "name": "Let Me Love You",
-        "url": "https://open.spotify.com/album/105LdQFucx264gr5MMo2AX"
-      },
-      "artists": [
-        {
-          "name": "Otis Kane",
-          "url": "https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl"
-        }
-      ],
-      "duration_ms": 193181,
-      "name": "Let Me Love You",
-      "url": "https://open.spotify.com/track/4X2wd4grYiRaGjS75UncRA"
-    },
-    {
-      "added_at": "2026-04-30 22:03:09",
-      "album": {
         "name": "Flugmodus",
         "url": "https://open.spotify.com/album/3c5nMaXOVRSlECOQPB4TAy"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 178469,
       "name": "Flugmodus",
       "url": "https://open.spotify.com/track/2iNzRQE0MlCaSHbHGzmbN2"
+    },
+    {
+      "added_at": "2026-04-30 22:03:09",
+      "album": {
+        "name": "Let Me Love You",
+        "url": "https://open.spotify.com/album/105LdQFucx264gr5MMo2AX"
+      },
+      "artists": [
+        {
+          "name": "Otis Kane",
+          "url": "https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl"
+        }
+      ],
+      "duration_ms": 193181,
+      "name": "Let Me Love You",
+      "url": "https://open.spotify.com/track/4X2wd4grYiRaGjS75UncRA"
     },
     {
       "added_at": "2026-04-30 22:03:09",
@@ -859,22 +859,6 @@
     {
       "added_at": "2026-04-30 22:03:09",
       "album": {
-        "name": "Sains et saufs (Deluxe)",
-        "url": "https://open.spotify.com/album/7hvRy12Y34qbVmG0WzC4Rb"
-      },
-      "artists": [
-        {
-          "name": "Zaz",
-          "url": "https://open.spotify.com/artist/1mbgj8ERPs8lWi7t5cYrdy"
-        }
-      ],
-      "duration_ms": 142600,
-      "name": "Mon vrai moi",
-      "url": "https://open.spotify.com/track/2uD7MbyDtL8nGDxVAwpqtW"
-    },
-    {
-      "added_at": "2026-04-30 22:03:09",
-      "album": {
         "name": "Wer wenn nicht wir",
         "url": "https://open.spotify.com/album/1E5bSnYcfhaNVbRTfUpRRI"
       },
@@ -891,18 +875,18 @@
     {
       "added_at": "2026-04-30 22:03:09",
       "album": {
-        "name": "Kuss.",
-        "url": "https://open.spotify.com/album/6o39VGaYw6CC8gJL3e0rGs"
+        "name": "Sains et saufs (Deluxe)",
+        "url": "https://open.spotify.com/album/7hvRy12Y34qbVmG0WzC4Rb"
       },
       "artists": [
         {
-          "name": "Haller",
-          "url": "https://open.spotify.com/artist/62U6nJKR1V8QOspXUzWle3"
+          "name": "Zaz",
+          "url": "https://open.spotify.com/artist/1mbgj8ERPs8lWi7t5cYrdy"
         }
       ],
-      "duration_ms": 198218,
-      "name": "Sch\u00f6n genug",
-      "url": "https://open.spotify.com/track/2S5FeDvQmmI9iLq8SdCsB2"
+      "duration_ms": 142600,
+      "name": "Mon vrai moi",
+      "url": "https://open.spotify.com/track/2uD7MbyDtL8nGDxVAwpqtW"
     },
     {
       "added_at": "2026-04-30 22:03:09",
@@ -923,18 +907,18 @@
     {
       "added_at": "2026-04-30 22:03:09",
       "album": {
-        "name": "Flashback",
-        "url": "https://open.spotify.com/album/5zg1NLMl5KghK5QPq9hMuV"
+        "name": "Kuss.",
+        "url": "https://open.spotify.com/album/6o39VGaYw6CC8gJL3e0rGs"
       },
       "artists": [
         {
-          "name": "\u00c1SD\u00cdS",
-          "url": "https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg"
+          "name": "Haller",
+          "url": "https://open.spotify.com/artist/62U6nJKR1V8QOspXUzWle3"
         }
       ],
-      "duration_ms": 169400,
-      "name": "Flashback",
-      "url": "https://open.spotify.com/track/4HS4JTTgXjH6fxsLYHQqhQ"
+      "duration_ms": 198218,
+      "name": "Sch\u00f6n genug",
+      "url": "https://open.spotify.com/track/2S5FeDvQmmI9iLq8SdCsB2"
     },
     {
       "added_at": "2026-04-30 22:03:09",
@@ -955,18 +939,18 @@
     {
       "added_at": "2026-04-30 22:03:09",
       "album": {
-        "name": "I Made It",
-        "url": "https://open.spotify.com/album/6IEdMBcT6BR8cvNx8dneew"
+        "name": "Flashback",
+        "url": "https://open.spotify.com/album/5zg1NLMl5KghK5QPq9hMuV"
       },
       "artists": [
         {
-          "name": "Tones And I",
-          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
+          "name": "\u00c1SD\u00cdS",
+          "url": "https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg"
         }
       ],
-      "duration_ms": 269538,
-      "name": "I Made It",
-      "url": "https://open.spotify.com/track/4dkf6Qfmy7730BwwIqyb4Y"
+      "duration_ms": 169400,
+      "name": "Flashback",
+      "url": "https://open.spotify.com/track/4HS4JTTgXjH6fxsLYHQqhQ"
     },
     {
       "added_at": "2026-04-30 22:03:09",
@@ -983,6 +967,38 @@
       "duration_ms": 200100,
       "name": "Der letzte Tanz",
       "url": "https://open.spotify.com/track/3JtIS5WNPJokeMeEVnWWEM"
+    },
+    {
+      "added_at": "2026-04-30 22:03:09",
+      "album": {
+        "name": "I Made It",
+        "url": "https://open.spotify.com/album/6IEdMBcT6BR8cvNx8dneew"
+      },
+      "artists": [
+        {
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
+        }
+      ],
+      "duration_ms": 269538,
+      "name": "I Made It",
+      "url": "https://open.spotify.com/track/4dkf6Qfmy7730BwwIqyb4Y"
+    },
+    {
+      "added_at": "2026-04-30 22:03:09",
+      "album": {
+        "name": "GROWING UP IS _____",
+        "url": "https://open.spotify.com/album/64Bbgt3PPLVVnsYN4GeTo6"
+      },
+      "artists": [
+        {
+          "name": "Ruel",
+          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
+        }
+      ],
+      "duration_ms": 233587,
+      "name": "GROWING UP IS _____",
+      "url": "https://open.spotify.com/track/2wJ1eOCIBwoQiN7xQtrTAY"
     },
     {
       "added_at": "2026-04-30 22:03:09",
@@ -1015,22 +1031,6 @@
       "duration_ms": 170928,
       "name": "Angel Eyes",
       "url": "https://open.spotify.com/track/5NId2tRxupzFAOPsRDfCxY"
-    },
-    {
-      "added_at": "2026-04-30 22:03:09",
-      "album": {
-        "name": "GROWING UP IS _____",
-        "url": "https://open.spotify.com/album/64Bbgt3PPLVVnsYN4GeTo6"
-      },
-      "artists": [
-        {
-          "name": "Ruel",
-          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
-        }
-      ],
-      "duration_ms": 233587,
-      "name": "GROWING UP IS _____",
-      "url": "https://open.spotify.com/track/2wJ1eOCIBwoQiN7xQtrTAY"
     },
     {
       "added_at": "2026-04-30 22:03:09",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2026-04-30 22:03:09",
       "album": {
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/5F2svG7QYK2kqhRN5YdQho"
+      },
+      "artists": [
+        {
+          "name": "Tiffany Aris",
+          "url": "https://open.spotify.com/artist/4D4y0HNxJLmJBNXQkrVbHo"
+        }
+      ],
+      "duration_ms": 139000,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/06gaK8c6wvoXNgJQSRgn6j"
+    },
+    {
+      "added_at": "2026-04-30 22:03:09",
+      "album": {
         "name": "Bad For Me (feat. Teddy Swims)",
         "url": "https://open.spotify.com/album/3cz4txvWNPFpw3xiPYVceu"
       },
@@ -1107,18 +1123,18 @@
     {
       "added_at": "2026-04-30 22:03:09",
       "album": {
-        "name": "Vertigo",
-        "url": "https://open.spotify.com/album/5F2svG7QYK2kqhRN5YdQho"
+        "name": "Mehr davon",
+        "url": "https://open.spotify.com/album/7u16dLnOhtHtBXt9FAVImm"
       },
       "artists": [
         {
-          "name": "Tiffany Aris",
-          "url": "https://open.spotify.com/artist/4D4y0HNxJLmJBNXQkrVbHo"
+          "name": "LOTTE",
+          "url": "https://open.spotify.com/artist/3gqabzO7zvHVzAIT0Nxqa3"
         }
       ],
-      "duration_ms": 139000,
-      "name": "Vertigo",
-      "url": "https://open.spotify.com/track/06gaK8c6wvoXNgJQSRgn6j"
+      "duration_ms": 175413,
+      "name": "Mehr davon",
+      "url": "https://open.spotify.com/track/7rwAzZpANJEN0vn0pzYONW"
     },
     {
       "added_at": "2026-04-30 22:03:09",
@@ -1135,22 +1151,6 @@
       "duration_ms": 202053,
       "name": "Caroline",
       "url": "https://open.spotify.com/track/0Y3OX3KZVsyG23qyV1JgYp"
-    },
-    {
-      "added_at": "2026-04-30 22:03:09",
-      "album": {
-        "name": "Mehr davon",
-        "url": "https://open.spotify.com/album/7u16dLnOhtHtBXt9FAVImm"
-      },
-      "artists": [
-        {
-          "name": "LOTTE",
-          "url": "https://open.spotify.com/artist/3gqabzO7zvHVzAIT0Nxqa3"
-        }
-      ],
-      "duration_ms": 175413,
-      "name": "Mehr davon",
-      "url": "https://open.spotify.com/track/7rwAzZpANJEN0vn0pzYONW"
     },
     {
       "added_at": "2026-04-30 22:03:09",

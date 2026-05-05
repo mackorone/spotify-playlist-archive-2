@@ -1,6 +1,6 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Cody Johnson",
-  "num_followers": 402778,
+  "num_followers": 402771,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
@@ -647,18 +647,18 @@
     {
       "added_at": "2026-03-06 05:00:13",
       "album": {
-        "name": "Mobile",
-        "url": "https://open.spotify.com/album/0eVXtzAghSs9oiwP4NE9nO"
+        "name": "Diamondhead",
+        "url": "https://open.spotify.com/album/3PH84CGXxf8KMw2r9JKvzc"
       },
       "artists": [
         {
-          "name": "Logan Ryan Band",
-          "url": "https://open.spotify.com/artist/7LVl0gsG1AEc6lid0fJK6P"
+          "name": "J.R. Carroll",
+          "url": "https://open.spotify.com/artist/3KULmzjXBD6uu50to1WXRm"
         }
       ],
-      "duration_ms": 256588,
-      "name": "Mobile",
-      "url": "https://open.spotify.com/track/7Le2gLXrJkTvj6wFEUiLcf"
+      "duration_ms": 187375,
+      "name": "Diamondhead",
+      "url": "https://open.spotify.com/track/1y76vWynOdnIbixqJvxD3e"
     },
     {
       "added_at": "2026-03-06 05:00:13",
@@ -679,34 +679,18 @@
     {
       "added_at": "2026-03-06 05:00:13",
       "album": {
-        "name": "Diamondhead",
-        "url": "https://open.spotify.com/album/3PH84CGXxf8KMw2r9JKvzc"
+        "name": "Mobile",
+        "url": "https://open.spotify.com/album/0eVXtzAghSs9oiwP4NE9nO"
       },
       "artists": [
         {
-          "name": "J.R. Carroll",
-          "url": "https://open.spotify.com/artist/3KULmzjXBD6uu50to1WXRm"
+          "name": "Logan Ryan Band",
+          "url": "https://open.spotify.com/artist/7LVl0gsG1AEc6lid0fJK6P"
         }
       ],
-      "duration_ms": 187375,
-      "name": "Diamondhead",
-      "url": "https://open.spotify.com/track/1y76vWynOdnIbixqJvxD3e"
-    },
-    {
-      "added_at": "2026-03-06 05:00:13",
-      "album": {
-        "name": "Fall This Way",
-        "url": "https://open.spotify.com/album/5fezVdpvGi5luATJVA19B5"
-      },
-      "artists": [
-        {
-          "name": "Braxton Keith",
-          "url": "https://open.spotify.com/artist/5JHw4x1RYIlwNfCq6FNXxf"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "Fall This Way",
-      "url": "https://open.spotify.com/track/5AeR3j18cKWueAh42yKkFE"
+      "duration_ms": 256588,
+      "name": "Mobile",
+      "url": "https://open.spotify.com/track/7Le2gLXrJkTvj6wFEUiLcf"
     },
     {
       "added_at": "2026-03-06 05:00:13",
@@ -739,6 +723,22 @@
       "duration_ms": 226309,
       "name": "Creeps",
       "url": "https://open.spotify.com/track/0zOert4KpMDEf332FVRuxb"
+    },
+    {
+      "added_at": "2026-03-06 05:00:13",
+      "album": {
+        "name": "Fall This Way",
+        "url": "https://open.spotify.com/album/5fezVdpvGi5luATJVA19B5"
+      },
+      "artists": [
+        {
+          "name": "Braxton Keith",
+          "url": "https://open.spotify.com/artist/5JHw4x1RYIlwNfCq6FNXxf"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "Fall This Way",
+      "url": "https://open.spotify.com/track/5AeR3j18cKWueAh42yKkFE"
     },
     {
       "added_at": "2026-03-06 05:00:13",
@@ -931,22 +931,6 @@
     {
       "added_at": "2026-03-06 05:00:13",
       "album": {
-        "name": "Worry is a Sickness",
-        "url": "https://open.spotify.com/album/3UDMgtZQoeXhbPqwUthAjf"
-      },
-      "artists": [
-        {
-          "name": "Ty Myers",
-          "url": "https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO"
-        }
-      ],
-      "duration_ms": 254836,
-      "name": "Worry is a Sickness",
-      "url": "https://open.spotify.com/track/2gh1NyPkglSkDxNWE7DsAb"
-    },
-    {
-      "added_at": "2026-03-06 05:00:13",
-      "album": {
         "name": "The Little Things",
         "url": "https://open.spotify.com/album/62iaYGnhb2PL2kzngNGxjO"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 218480,
       "name": "The Little Things",
       "url": "https://open.spotify.com/track/0yfPThPvlNrnQaOoeoQMDl"
+    },
+    {
+      "added_at": "2026-03-06 05:00:13",
+      "album": {
+        "name": "Worry is a Sickness",
+        "url": "https://open.spotify.com/album/3UDMgtZQoeXhbPqwUthAjf"
+      },
+      "artists": [
+        {
+          "name": "Ty Myers",
+          "url": "https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO"
+        }
+      ],
+      "duration_ms": 254836,
+      "name": "Worry is a Sickness",
+      "url": "https://open.spotify.com/track/2gh1NyPkglSkDxNWE7DsAb"
     },
     {
       "added_at": "2026-03-06 05:00:13",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2026-03-06 05:00:13",
       "album": {
+        "name": "Three Drinks Behind",
+        "url": "https://open.spotify.com/album/6BJw2pnVl1tV4xt4QAW82W"
+      },
+      "artists": [
+        {
+          "name": "George Strait",
+          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+        }
+      ],
+      "duration_ms": 219026,
+      "name": "Three Drinks Behind",
+      "url": "https://open.spotify.com/track/2GW22U7NhyDSauwKcWyixN"
+    },
+    {
+      "added_at": "2026-03-06 05:00:13",
+      "album": {
         "name": "Times Are Changing",
         "url": "https://open.spotify.com/album/20Q4v43C8afzHFQqFqOHEw"
       },
@@ -1027,18 +1043,18 @@
     {
       "added_at": "2026-03-06 05:00:13",
       "album": {
-        "name": "Three Drinks Behind",
-        "url": "https://open.spotify.com/album/6BJw2pnVl1tV4xt4QAW82W"
+        "name": "My Love",
+        "url": "https://open.spotify.com/album/5VOaO6GlmbM6GcPrjl97HQ"
       },
       "artists": [
         {
-          "name": "George Strait",
-          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+          "name": "Kolby Cooper",
+          "url": "https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx"
         }
       ],
-      "duration_ms": 219026,
-      "name": "Three Drinks Behind",
-      "url": "https://open.spotify.com/track/2GW22U7NhyDSauwKcWyixN"
+      "duration_ms": 241523,
+      "name": "My Love",
+      "url": "https://open.spotify.com/track/7KbBJ6PLkFnfO8GQu1R0il"
     },
     {
       "added_at": "2026-03-06 05:00:13",
@@ -1059,22 +1075,6 @@
       "duration_ms": 296875,
       "name": "Wildfire",
       "url": "https://open.spotify.com/track/2z8n9qmI7YDfO2IA7dssja"
-    },
-    {
-      "added_at": "2026-03-06 05:00:13",
-      "album": {
-        "name": "My Love",
-        "url": "https://open.spotify.com/album/5VOaO6GlmbM6GcPrjl97HQ"
-      },
-      "artists": [
-        {
-          "name": "Kolby Cooper",
-          "url": "https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx"
-        }
-      ],
-      "duration_ms": 241523,
-      "name": "My Love",
-      "url": "https://open.spotify.com/track/7KbBJ6PLkFnfO8GQu1R0il"
     },
     {
       "added_at": "2026-03-06 05:00:13",
@@ -1131,6 +1131,26 @@
     {
       "added_at": "2026-03-06 05:00:13",
       "album": {
+        "name": "Fort Worth",
+        "url": "https://open.spotify.com/album/6UoQs8c0c0F9uiJ73jkYd8"
+      },
+      "artists": [
+        {
+          "name": "Kylie Frey",
+          "url": "https://open.spotify.com/artist/5PyN1qBgkGm76qn5WdcKT4"
+        },
+        {
+          "name": "Randall King",
+          "url": "https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh"
+        }
+      ],
+      "duration_ms": 216796,
+      "name": "Fort Worth",
+      "url": "https://open.spotify.com/track/4fsfmBOOxwMOJ7DzibpfU5"
+    },
+    {
+      "added_at": "2026-03-06 05:00:13",
+      "album": {
         "name": "Destiny",
         "url": "https://open.spotify.com/album/7swt4qXQz75AomZfbJRHxl"
       },
@@ -1143,22 +1163,6 @@
       "duration_ms": 201733,
       "name": "Destiny",
       "url": "https://open.spotify.com/track/1iS3tR6A5kibt0BInSlzzU"
-    },
-    {
-      "added_at": "2026-03-06 05:00:13",
-      "album": {
-        "name": "Up In Texas",
-        "url": "https://open.spotify.com/album/6ECMDvNJ3mAY49NiYxE3eW"
-      },
-      "artists": [
-        {
-          "name": "Midland",
-          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
-        }
-      ],
-      "duration_ms": 191269,
-      "name": "Up In Texas",
-      "url": "https://open.spotify.com/track/7KJVh9zU77dzRVs9ZDyztF"
     },
     {
       "added_at": "2026-03-06 05:00:13",
@@ -1179,22 +1183,18 @@
     {
       "added_at": "2026-03-06 05:00:13",
       "album": {
-        "name": "Fort Worth",
-        "url": "https://open.spotify.com/album/6UoQs8c0c0F9uiJ73jkYd8"
+        "name": "Up In Texas",
+        "url": "https://open.spotify.com/album/6ECMDvNJ3mAY49NiYxE3eW"
       },
       "artists": [
         {
-          "name": "Kylie Frey",
-          "url": "https://open.spotify.com/artist/5PyN1qBgkGm76qn5WdcKT4"
-        },
-        {
-          "name": "Randall King",
-          "url": "https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh"
+          "name": "Midland",
+          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
         }
       ],
-      "duration_ms": 216796,
-      "name": "Fort Worth",
-      "url": "https://open.spotify.com/track/4fsfmBOOxwMOJ7DzibpfU5"
+      "duration_ms": 191269,
+      "name": "Up In Texas",
+      "url": "https://open.spotify.com/track/7KJVh9zU77dzRVs9ZDyztF"
     },
     {
       "added_at": "2026-03-06 05:00:13",
@@ -1231,18 +1231,22 @@
     {
       "added_at": "2026-03-06 05:00:13",
       "album": {
-        "name": "Old Fashioned Feeling",
-        "url": "https://open.spotify.com/album/3ojGoD6lwIzSjHKqgndFD9"
+        "name": "I'm The One",
+        "url": "https://open.spotify.com/album/31cSwPDJHYe00GhuyOxfvu"
       },
       "artists": [
         {
-          "name": "Midland",
-          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
+          "name": "Jake Worthington",
+          "url": "https://open.spotify.com/artist/40v31oiMOaz7dorFhevJRp"
+        },
+        {
+          "name": "Marty Stuart",
+          "url": "https://open.spotify.com/artist/3OyGv7XUYQwQgECYSzJhyO"
         }
       ],
-      "duration_ms": 202280,
-      "name": "Old Fashioned Feeling",
-      "url": "https://open.spotify.com/track/1mlFsqgc3lgTCboLATYHBo"
+      "duration_ms": 175973,
+      "name": "I'm The One (feat. Marty Stuart)",
+      "url": "https://open.spotify.com/track/6tMUkiyHP1DMMcoqCS6fkY"
     },
     {
       "added_at": "2026-03-06 05:00:13",
@@ -1263,22 +1267,18 @@
     {
       "added_at": "2026-03-06 05:00:13",
       "album": {
-        "name": "I'm The One",
-        "url": "https://open.spotify.com/album/31cSwPDJHYe00GhuyOxfvu"
+        "name": "Old Fashioned Feeling",
+        "url": "https://open.spotify.com/album/3ojGoD6lwIzSjHKqgndFD9"
       },
       "artists": [
         {
-          "name": "Jake Worthington",
-          "url": "https://open.spotify.com/artist/40v31oiMOaz7dorFhevJRp"
-        },
-        {
-          "name": "Marty Stuart",
-          "url": "https://open.spotify.com/artist/3OyGv7XUYQwQgECYSzJhyO"
+          "name": "Midland",
+          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
         }
       ],
-      "duration_ms": 175973,
-      "name": "I'm The One (feat. Marty Stuart)",
-      "url": "https://open.spotify.com/track/6tMUkiyHP1DMMcoqCS6fkY"
+      "duration_ms": 202280,
+      "name": "Old Fashioned Feeling",
+      "url": "https://open.spotify.com/track/1mlFsqgc3lgTCboLATYHBo"
     },
     {
       "added_at": "2026-03-06 05:00:13",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2026-03-06 05:00:13",
       "album": {
-        "name": "The Greys Between",
-        "url": "https://open.spotify.com/album/2knRBE5vCLo3hWio4y56zg"
-      },
-      "artists": [
-        {
-          "name": "Shane Smith & the Saints",
-          "url": "https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ"
-        }
-      ],
-      "duration_ms": 255159,
-      "name": "The Greys Between",
-      "url": "https://open.spotify.com/track/3roru1yN2PhTPLvNpwMiqf"
-    },
-    {
-      "added_at": "2026-03-06 05:00:13",
-      "album": {
         "name": "Kick A Little",
         "url": "https://open.spotify.com/album/4ge2mkLRHL3eVxABHU9hEb"
       },
@@ -1551,6 +1535,22 @@
     {
       "added_at": "2026-03-06 05:00:13",
       "album": {
+        "name": "The Greys Between",
+        "url": "https://open.spotify.com/album/2knRBE5vCLo3hWio4y56zg"
+      },
+      "artists": [
+        {
+          "name": "Shane Smith & the Saints",
+          "url": "https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ"
+        }
+      ],
+      "duration_ms": 255159,
+      "name": "The Greys Between",
+      "url": "https://open.spotify.com/track/3roru1yN2PhTPLvNpwMiqf"
+    },
+    {
+      "added_at": "2026-03-06 05:00:13",
+      "album": {
         "name": "Till You",
         "url": "https://open.spotify.com/album/29VsW5EVau6fNhYop1nIWR"
       },
@@ -1563,22 +1563,6 @@
       "duration_ms": 206016,
       "name": "Till You",
       "url": "https://open.spotify.com/track/2XSZ4cEzB2lUY8i2rUWKN6"
-    },
-    {
-      "added_at": "2026-03-06 05:00:13",
-      "album": {
-        "name": "Carry Me Home",
-        "url": "https://open.spotify.com/album/4wR24Dlp1ULiwjTqR32qVx"
-      },
-      "artists": [
-        {
-          "name": "Graham St. Clair Band",
-          "url": "https://open.spotify.com/artist/7voi3VeXYv9dzIEFGBgbkv"
-        }
-      ],
-      "duration_ms": 212346,
-      "name": "Carry Me Home",
-      "url": "https://open.spotify.com/track/2uGhFYgEsIowLnRqf3Z78T"
     },
     {
       "added_at": "2026-03-06 05:00:13",
@@ -1599,18 +1583,18 @@
     {
       "added_at": "2026-03-06 05:00:13",
       "album": {
-        "name": "Just Call My Number",
-        "url": "https://open.spotify.com/album/2skDzLvzYWluEjJkbY7jFb"
+        "name": "Carry Me Home",
+        "url": "https://open.spotify.com/album/4wR24Dlp1ULiwjTqR32qVx"
       },
       "artists": [
         {
-          "name": "Tristan Roberson",
-          "url": "https://open.spotify.com/artist/3DciIsSZJFKwH06cc9l9RR"
+          "name": "Graham St. Clair Band",
+          "url": "https://open.spotify.com/artist/7voi3VeXYv9dzIEFGBgbkv"
         }
       ],
-      "duration_ms": 194920,
-      "name": "Just Call My Number",
-      "url": "https://open.spotify.com/track/1bTYabk6wOSvIapt1orxg1"
+      "duration_ms": 212346,
+      "name": "Carry Me Home",
+      "url": "https://open.spotify.com/track/2uGhFYgEsIowLnRqf3Z78T"
     },
     {
       "added_at": "2026-03-06 05:00:13",
@@ -1635,6 +1619,22 @@
     {
       "added_at": "2026-03-06 05:00:13",
       "album": {
+        "name": "Just Call My Number",
+        "url": "https://open.spotify.com/album/2skDzLvzYWluEjJkbY7jFb"
+      },
+      "artists": [
+        {
+          "name": "Tristan Roberson",
+          "url": "https://open.spotify.com/artist/3DciIsSZJFKwH06cc9l9RR"
+        }
+      ],
+      "duration_ms": 194920,
+      "name": "Just Call My Number",
+      "url": "https://open.spotify.com/track/1bTYabk6wOSvIapt1orxg1"
+    },
+    {
+      "added_at": "2026-03-06 05:00:13",
+      "album": {
         "name": "Your Bar Now",
         "url": "https://open.spotify.com/album/3N6z7QHV628Lbz0ocbzOhR"
       },
@@ -1651,22 +1651,6 @@
       "duration_ms": 214253,
       "name": "Your Bar Now",
       "url": "https://open.spotify.com/track/4ZZK3Nud5Ax5ZExoFZYhGq"
-    },
-    {
-      "added_at": "2026-03-06 05:00:13",
-      "album": {
-        "name": "Start at the End",
-        "url": "https://open.spotify.com/album/4d3tswcnN8RBSIeVaDwHH1"
-      },
-      "artists": [
-        {
-          "name": "Clayton Mullen",
-          "url": "https://open.spotify.com/artist/6iRDBNeREg0Je2y9LZzD2g"
-        }
-      ],
-      "duration_ms": 208573,
-      "name": "Start at the End",
-      "url": "https://open.spotify.com/track/08eDkqav6EEKUZDy7dlGWI"
     },
     {
       "added_at": "2026-03-06 05:00:13",
@@ -1699,18 +1683,18 @@
     {
       "added_at": "2026-03-06 05:00:13",
       "album": {
-        "name": "A Few Years Back",
-        "url": "https://open.spotify.com/album/2wrVam2afUpoHkXrl1n0J4"
+        "name": "Honky Tonk in Heaven",
+        "url": "https://open.spotify.com/album/2tTuVmz1S6wfK6mu07F5UP"
       },
       "artists": [
         {
-          "name": "Austin Michael",
-          "url": "https://open.spotify.com/artist/1zC9zNeGmSoC49nN646SDp"
+          "name": "Kin Faux",
+          "url": "https://open.spotify.com/artist/5bbkKY1uKarzJOS1CMsfQu"
         }
       ],
-      "duration_ms": 220474,
-      "name": "A Few Years Back",
-      "url": "https://open.spotify.com/track/0d5M9KS7uuKr1dfY9rcYPX"
+      "duration_ms": 167520,
+      "name": "Wild Horses",
+      "url": "https://open.spotify.com/track/0fC6Zc3DJtwyH58eCXox3v"
     },
     {
       "added_at": "2026-03-06 05:00:13",
@@ -1727,6 +1711,22 @@
       "duration_ms": 204000,
       "name": "Hunt You Down",
       "url": "https://open.spotify.com/track/6ANjnskHNgakdZnhWO6nob"
+    },
+    {
+      "added_at": "2026-03-06 05:00:13",
+      "album": {
+        "name": "A Few Years Back",
+        "url": "https://open.spotify.com/album/2wrVam2afUpoHkXrl1n0J4"
+      },
+      "artists": [
+        {
+          "name": "Austin Michael",
+          "url": "https://open.spotify.com/artist/1zC9zNeGmSoC49nN646SDp"
+        }
+      ],
+      "duration_ms": 220474,
+      "name": "A Few Years Back",
+      "url": "https://open.spotify.com/track/0d5M9KS7uuKr1dfY9rcYPX"
     }
   ],
   "unique_name": "Texas Country Now",

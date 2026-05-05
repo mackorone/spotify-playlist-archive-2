@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 
 > All things <a href="spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN">bass</a>  💨💨 featuring Skrillex & ISOxo
 
-[Spotify](https://open.spotify.com/user/spotify) - 993,343 likes - 90 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 993,352 likes - 90 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 | 12 | [Word Scramble](https://open.spotify.com/track/080hAFjUF8vlrqr45hXQHd) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Tape B](https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi) | [Word Scramble](https://open.spotify.com/album/5jlmxWMzxDMG3KifltzpSJ) | 2:58 |
 | 13 | [WONKY SHIT](https://open.spotify.com/track/1HzfJVzAFhHxas1hpco7bs) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [J\. Plaza](https://open.spotify.com/artist/5byn1BtQQdomxOZgqd2S0Y) | [WONKY SHIT](https://open.spotify.com/album/7g4Yj4gmORFhAJf11XXuOL) | 3:12 |
 | 14 | [Touchdown](https://open.spotify.com/track/3NGj1FaMWLNorEcffTFV9U) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV), [SOTA](https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP), [Mila Falls](https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve) | [Touchdown](https://open.spotify.com/album/2JbAFeht78XUXee4bk7w5F) | 2:40 |
-| 15 | [Tell U I'm Wrong](https://open.spotify.com/track/2tMID7teo8xkyNVqHBhjXV) | [Z3LLA](https://open.spotify.com/artist/5GsXRkwr74MAPYBjrgUT02) | [Tell U I'm Wrong](https://open.spotify.com/album/2PEVElPlxEChOGzZkn3plj) | 2:17 |
+| 15 | [Tell U I'm Wrong](https://open.spotify.com/track/2tMID7teo8xkyNVqHBhjXV) | [Z3LLA](https://open.spotify.com/artist/5GsXRkwr74MAPYBjrgUT02) | [Tell U I'm Wrong](https://open.spotify.com/album/2PEVElPlxEChOGzZkn3plj) | 1:59 |
 | 16 | [Internal Shell](https://open.spotify.com/track/2nVXgCTdJHSkouVNhM2Xca) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT) | [PART I \- EXODUS](https://open.spotify.com/album/3JzaD3OxtVSVwXwwBQkohd) | 3:33 |
 | 17 | [Free](https://open.spotify.com/track/7bXd8Z1o8UmP61E9CX59X8) | [Seven Lions](https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp), [Brieanna Grace](https://open.spotify.com/artist/5tpQ8DM8YGZRtBI0zyxTwg) | [Free](https://open.spotify.com/album/5Txy9di57y9Tz7gXE8jJtw) | 2:34 |
 | 18 | [Make You Move](https://open.spotify.com/track/5FwShfnXbAeoEVtS3d37cQ) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf) | [Make You Move](https://open.spotify.com/album/6Ivi4D1oC0lM7gDgyvq7gr) | 2:24 |

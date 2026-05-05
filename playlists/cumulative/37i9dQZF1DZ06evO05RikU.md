@@ -4,7 +4,7 @@
 
 > This is Sofía Reyes\. The essential tracks, all in one playlist.
 
-100 songs - 5 hr 3 min
+101 songs - 5 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [HOY ME PORTO MAL](https://open.spotify.com/track/4EVCjLBekvH0x7ogVgHtXN) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [MILAMORES](https://open.spotify.com/album/4pmn5TLgmxzsmX5OS7pOri) | 2:13 | 2024-03-16 |  |
 | [HOY ME PORTO MAL](https://open.spotify.com/track/5o219CGhIIAqx41eXEunRL) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [HOY ME PORTO MAL](https://open.spotify.com/album/4kX2CfhYUBVoEHmy1cnZnZ) | 2:13 | 2023-09-25 | 2024-03-17 |
 | [idgaf era](https://open.spotify.com/track/1QkeDzrWGwDJd8mjQrUeBD) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [idgaf era](https://open.spotify.com/album/3tGoaKWZxgQ1BuGQNi6Ryz) | 2:44 | 2025-07-06 | 2025-12-21 |
+| [idgaf era](https://open.spotify.com/track/3R2sTdXqxQWHhbiVPRZzH6) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [IDGAF ERA \(postdata\)](https://open.spotify.com/album/26TRZwSMrhMrTC3WkD6qM8) | 2:44 | 2026-05-05 |  |
 | [IDIOTA](https://open.spotify.com/track/0Wk3MRrKRn6EPG7B83nKSJ) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [IDIOTA](https://open.spotify.com/album/5HLaq4AONQkCMvFVHswg85) | 3:25 | 2023-09-25 | 2026-04-30 |
 | [Il tuo profumo](https://open.spotify.com/track/0sqbGUEecNagMilnntIsuZ) | [Fred De Palma](https://open.spotify.com/artist/0QrUbsrL5imqntAfDl8i7q), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Uebe](https://open.spotify.com/album/6ZWT9vaRmBayZ6wpm7c5Un) | 2:40 | 2023-09-25 |  |
 | [Kids \(feat\. Sofia Reyes\)](https://open.spotify.com/track/28JJJAkCRwWH2pFI9SoA7L) | [Illy](https://open.spotify.com/artist/6NFyaN9PMCDZ3LKxGwHAXt), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Good Life](https://open.spotify.com/album/4NwBGbGjwIYAFmL1fAQYHJ) | 2:51 | 2024-11-18 | 2026-01-28 |
@@ -63,7 +64,7 @@
 | [Llegaste tú \(feat\. Reykon\)](https://open.spotify.com/track/79Bm3DTEYuQsDpUVHbSRsL) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Reykon](https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf) | [Louder!.](https://open.spotify.com/album/7tPQLOpoHALuSuHcDFUgB8) | 3:45 | 2023-09-25 |  |
 | [Lo Bueno y Lo Malo](https://open.spotify.com/track/1pOmmOjExecXVlLvg2iC6P) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [IDGAF ERA \(postdata\)](https://open.spotify.com/album/26TRZwSMrhMrTC3WkD6qM8) | 2:41 | 2026-04-10 |  |
 | [Lo siento \(feat\. Sofía Reyes\)](https://open.spotify.com/track/6mvhi5xZsGJeWyf1uyiW0r) | [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Prisma](https://open.spotify.com/album/3p9YnUYZyns6PGxTbKeLFq) | 3:52 | 2023-09-25 |  |
-| [Lua \(Bossa Nova\)](https://open.spotify.com/track/2MsXDOivYeEY7qhDlNu6pG) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [IDGAF ERA \(postdata\)](https://open.spotify.com/album/26TRZwSMrhMrTC3WkD6qM8) | 2:53 | 2026-04-20 |  |
+| [Lua \(Bossa Nova\)](https://open.spotify.com/track/2MsXDOivYeEY7qhDlNu6pG) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [IDGAF ERA \(postdata\)](https://open.spotify.com/album/26TRZwSMrhMrTC3WkD6qM8) | 2:53 | 2026-04-20 | 2026-05-05 |
 | [Luna](https://open.spotify.com/track/5XmAauYsJ9KctEO70myiRJ) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Luna](https://open.spotify.com/album/37tfBtXO5spIXdNe2Gxwuf) | 2:28 | 2023-09-25 |  |
 | [Mal de Amores](https://open.spotify.com/track/4AzTk75T9EQtHaGNWU3UY5) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Mal De Amores](https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc) | 3:08 | 2023-12-13 |  |
 | [Mal de Amores](https://open.spotify.com/track/5aCWQczUqiGCw3cvNp5OV0) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Mal de Amores](https://open.spotify.com/album/5rd8XvZd7lmlRaON32NNQW) | 3:08 | 2023-09-25 | 2024-02-09 |

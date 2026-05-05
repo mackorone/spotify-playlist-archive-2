@@ -6,7 +6,7 @@
     "name": "Salon Blanc",
     "url": "https://open.spotify.com/user/1125193345"
   },
-  "snapshot_id": "AAAJluabYKtPKTq6BAx0vMwSfQ4NaR4g",
+  "snapshot_id": "AAAJmaNrRuXha0LdwxTrnfrRVfLKihk4",
   "tracks": [
     {
       "added_at": "2025-12-05 06:07:41",
@@ -77,10 +77,10 @@
       "url": "https://open.spotify.com/track/6H5FyHR39hnSv5rEsXAuS1"
     },
     {
-      "added_at": "2026-04-04 06:41:28",
+      "added_at": "2026-05-04 05:56:24",
       "album": {
-        "name": "Tardive Regrets",
-        "url": "https://open.spotify.com/album/77va0OIaUtjTkmbMJ0BWsT"
+        "name": "The Party Must Go On",
+        "url": "https://open.spotify.com/album/2lax9jtbIr7wgMeWqedkza"
       },
       "artists": [
         {
@@ -88,9 +88,9 @@
           "url": "https://open.spotify.com/artist/1qc2ykp44EJxbFncDlTfQc"
         }
       ],
-      "duration_ms": 269217,
-      "name": "Tardive Regrets",
-      "url": "https://open.spotify.com/track/35kZqVylkAuIm3SXCwSboG"
+      "duration_ms": 225391,
+      "name": "The Party Must Go On",
+      "url": "https://open.spotify.com/track/7F5EJZwssUNp4WaNDtGTDM"
     },
     {
       "added_at": "2025-10-14 05:46:32",
@@ -251,6 +251,22 @@
       "duration_ms": 126007,
       "name": "\u0414\u043e\u043c\u0430 \u043e\u0434\u0438\u043d",
       "url": "https://open.spotify.com/track/248OC3dvwgZPVTL259e0nV"
+    },
+    {
+      "added_at": "2026-04-04 06:41:28",
+      "album": {
+        "name": "Tardive Regrets",
+        "url": "https://open.spotify.com/album/77va0OIaUtjTkmbMJ0BWsT"
+      },
+      "artists": [
+        {
+          "name": "QRU",
+          "url": "https://open.spotify.com/artist/1qc2ykp44EJxbFncDlTfQc"
+        }
+      ],
+      "duration_ms": 269217,
+      "name": "Tardive Regrets",
+      "url": "https://open.spotify.com/track/35kZqVylkAuIm3SXCwSboG"
     },
     {
       "added_at": "2023-05-14 11:42:10",

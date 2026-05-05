@@ -1,12 +1,12 @@
 {
   "description": "This is Zach Bryan. The essential tracks, all in one playlist.",
-  "num_followers": 656721,
+  "num_followers": 656868,
   "original_name": "This Is Zach Bryan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afU+gAAAAAAasyKBg7qNpHgNNEMbQl2K",
+  "snapshot_id": "afaQAAAAAAC6VzrHCQ1/kPkCW4GijHrk",
   "tracks": [
     {
       "added_at": null,
@@ -467,8 +467,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Greatest Day of My Life",
-        "url": "https://open.spotify.com/album/6MwqYJ85YSYpDhcJh8kJW7"
+        "name": "Zach Bryan",
+        "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
       },
       "artists": [
         {
@@ -476,9 +476,9 @@
           "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
         }
       ],
-      "duration_ms": 178151,
-      "name": "Fifth of May",
-      "url": "https://open.spotify.com/track/1wLNEMiUzwvRZz9XHCXhAE"
+      "duration_ms": 171426,
+      "name": "Fear and Friday's",
+      "url": "https://open.spotify.com/track/0GMiRrUnQuoGddKMsxGPIZ"
     },
     {
       "added_at": null,
@@ -499,8 +499,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Zach Bryan",
-        "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
+        "name": "The Greatest Day of My Life",
+        "url": "https://open.spotify.com/album/6MwqYJ85YSYpDhcJh8kJW7"
       },
       "artists": [
         {
@@ -508,9 +508,9 @@
           "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
         }
       ],
-      "duration_ms": 171426,
-      "name": "Fear and Friday's",
-      "url": "https://open.spotify.com/track/0GMiRrUnQuoGddKMsxGPIZ"
+      "duration_ms": 178151,
+      "name": "Fifth of May",
+      "url": "https://open.spotify.com/track/1wLNEMiUzwvRZz9XHCXhAE"
     },
     {
       "added_at": null,
@@ -527,6 +527,22 @@
       "duration_ms": 185520,
       "name": "The Way Back",
       "url": "https://open.spotify.com/track/6aPY5G8JEQJtgpaIMyElNX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Zach Bryan",
+        "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 189053,
+      "name": "Tourniquet",
+      "url": "https://open.spotify.com/track/3EvZ03hGAFwGZ2Ebcu86YH"
     },
     {
       "added_at": null,
@@ -563,22 +579,6 @@
       "duration_ms": 145146,
       "name": "Madeline (feat. Gabriella Rose)",
       "url": "https://open.spotify.com/track/2DDo2QqElDO9PgOHeGtQiy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Zach Bryan",
-        "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 189053,
-      "name": "Tourniquet",
-      "url": "https://open.spotify.com/track/3EvZ03hGAFwGZ2Ebcu86YH"
     },
     {
       "added_at": null,

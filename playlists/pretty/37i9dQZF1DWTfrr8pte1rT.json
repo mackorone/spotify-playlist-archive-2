@@ -1,12 +1,12 @@
 {
   "description": "Rock with a Drop. Cover: Rezz \\m/",
-  "num_followers": 352479,
+  "num_followers": 352555,
   "original_name": "Rocktronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAB3kCQz3KlW+jSaJqmmfl7NIfmYM",
+  "snapshot_id": "AAAAAOosefFwXsplkP1+L0UYIWM170ic",
   "tracks": [
     {
       "added_at": "2026-04-24 18:45:09",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2026-04-24 18:45:09",
       "album": {
+        "name": "Poison Apple Baby",
+        "url": "https://open.spotify.com/album/6Egtw4WQkI5khzldGxrnCx"
+      },
+      "artists": [
+        {
+          "name": "Honey Revenge",
+          "url": "https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK"
+        }
+      ],
+      "duration_ms": 197977,
+      "name": "Poison Apple Baby",
+      "url": "https://open.spotify.com/track/3kTSXwNlNZNbEG5VmzH0wB"
+    },
+    {
+      "added_at": "2026-04-24 18:45:09",
+      "album": {
         "name": "ILLENIUM",
         "url": "https://open.spotify.com/album/0ValflNlWce21wm5PlwV60"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 187317,
       "name": "Back to You",
       "url": "https://open.spotify.com/track/0NNFtjZHwjTZzBtBkRxhtY"
-    },
-    {
-      "added_at": "2026-04-24 18:45:09",
-      "album": {
-        "name": "Poison Apple Baby",
-        "url": "https://open.spotify.com/album/6Egtw4WQkI5khzldGxrnCx"
-      },
-      "artists": [
-        {
-          "name": "Honey Revenge",
-          "url": "https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK"
-        }
-      ],
-      "duration_ms": 197977,
-      "name": "Poison Apple Baby",
-      "url": "https://open.spotify.com/track/3kTSXwNlNZNbEG5VmzH0wB"
     },
     {
       "added_at": "2026-04-24 18:45:09",
@@ -1283,26 +1283,6 @@
     {
       "added_at": "2026-04-24 18:45:09",
       "album": {
-        "name": "Shivering",
-        "url": "https://open.spotify.com/album/2dRmLEMsxRhidLzay43XP5"
-      },
-      "artists": [
-        {
-          "name": "ILLENIUM",
-          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
-        },
-        {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
-        }
-      ],
-      "duration_ms": 300916,
-      "name": "Shivering",
-      "url": "https://open.spotify.com/track/10Q3ASy9okYt85040yV46c"
-    },
-    {
-      "added_at": "2026-04-24 18:45:09",
-      "album": {
         "name": "Halo",
         "url": "https://open.spotify.com/album/4f9UGlRncIgchuFWcMhkef"
       },
@@ -1319,6 +1299,26 @@
       "duration_ms": 169243,
       "name": "Halo",
       "url": "https://open.spotify.com/track/0CjJJrpnQCpQMsT4nzezII"
+    },
+    {
+      "added_at": "2026-04-24 18:45:09",
+      "album": {
+        "name": "Shivering",
+        "url": "https://open.spotify.com/album/2dRmLEMsxRhidLzay43XP5"
+      },
+      "artists": [
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "duration_ms": 300916,
+      "name": "Shivering",
+      "url": "https://open.spotify.com/track/10Q3ASy9okYt85040yV46c"
     },
     {
       "added_at": "2026-04-24 18:45:09",
@@ -1479,8 +1479,8 @@
     {
       "added_at": "2026-04-24 18:45:09",
       "album": {
-        "name": "Raise the Dead",
-        "url": "https://open.spotify.com/album/5oqUWkWtQXdA56RSUC5g0Q"
+        "name": "Reasons",
+        "url": "https://open.spotify.com/album/3WzQWDcaxWTvBMGnZP5u0v"
       },
       "artists": [
         {
@@ -1488,17 +1488,17 @@
           "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
         },
         {
-          "name": "Sullivan King",
-          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+          "name": "Wooli",
+          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
         },
         {
-          "name": "Taylor Barber",
-          "url": "https://open.spotify.com/artist/13sCECOFwaranrSOhJkmcs"
+          "name": "The Devil Wears Prada",
+          "url": "https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb"
         }
       ],
-      "duration_ms": 150000,
-      "name": "Raise the Dead",
-      "url": "https://open.spotify.com/track/7wij83rkAGXUP7Dc7MQihR"
+      "duration_ms": 240000,
+      "name": "Reasons",
+      "url": "https://open.spotify.com/track/5cqOmjN3auHvZlhbebzKQx"
     },
     {
       "added_at": "2026-04-24 18:45:09",
@@ -1519,6 +1519,26 @@
       "duration_ms": 182000,
       "name": "Sacrificial",
       "url": "https://open.spotify.com/track/5YvYKEQEYJp4orh4z3Dnpk"
+    },
+    {
+      "added_at": "2026-04-24 18:45:09",
+      "album": {
+        "name": "Rescue Me",
+        "url": "https://open.spotify.com/album/62Ue60s1T4isvLz36lrqhO"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "A Day To Remember",
+          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
+        }
+      ],
+      "duration_ms": 237203,
+      "name": "Rescue Me",
+      "url": "https://open.spotify.com/track/5dLP5JbgWGZttnUv4NFJeg"
     },
     {
       "added_at": "2026-04-24 18:45:09",
@@ -1547,26 +1567,6 @@
     {
       "added_at": "2026-04-24 18:45:09",
       "album": {
-        "name": "Rescue Me",
-        "url": "https://open.spotify.com/album/62Ue60s1T4isvLz36lrqhO"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "A Day To Remember",
-          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
-        }
-      ],
-      "duration_ms": 237203,
-      "name": "Rescue Me",
-      "url": "https://open.spotify.com/track/5dLP5JbgWGZttnUv4NFJeg"
-    },
-    {
-      "added_at": "2026-04-24 18:45:09",
-      "album": {
         "name": "Higher Ground (Part 1)",
         "url": "https://open.spotify.com/album/0ZYsPQxRA80y5bEwlLQWmz"
       },
@@ -1583,8 +1583,8 @@
     {
       "added_at": "2026-04-24 18:45:09",
       "album": {
-        "name": "Reasons",
-        "url": "https://open.spotify.com/album/3WzQWDcaxWTvBMGnZP5u0v"
+        "name": "Raise the Dead",
+        "url": "https://open.spotify.com/album/5oqUWkWtQXdA56RSUC5g0Q"
       },
       "artists": [
         {
@@ -1592,17 +1592,17 @@
           "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
         },
         {
-          "name": "Wooli",
-          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
         },
         {
-          "name": "The Devil Wears Prada",
-          "url": "https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb"
+          "name": "Taylor Barber",
+          "url": "https://open.spotify.com/artist/13sCECOFwaranrSOhJkmcs"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Reasons",
-      "url": "https://open.spotify.com/track/5cqOmjN3auHvZlhbebzKQx"
+      "duration_ms": 150000,
+      "name": "Raise the Dead",
+      "url": "https://open.spotify.com/track/7wij83rkAGXUP7Dc7MQihR"
     },
     {
       "added_at": "2026-04-24 18:45:09",
@@ -1627,26 +1627,6 @@
     {
       "added_at": "2026-04-24 18:45:09",
       "album": {
-        "name": "Not My Night",
-        "url": "https://open.spotify.com/album/2ZTlNNxszsBxCU71FCQxd7"
-      },
-      "artists": [
-        {
-          "name": "Fairlane",
-          "url": "https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO"
-        },
-        {
-          "name": "Point North",
-          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
-        }
-      ],
-      "duration_ms": 202421,
-      "name": "Not My Night",
-      "url": "https://open.spotify.com/track/6EUJEfYWvjdOzxpt2BIww6"
-    },
-    {
-      "added_at": "2026-04-24 18:45:09",
-      "album": {
         "name": "MELLODEATH Tapes Vol. I",
         "url": "https://open.spotify.com/album/127BvEDtmAoZak4Y8Q1Emc"
       },
@@ -1667,6 +1647,26 @@
       "duration_ms": 195692,
       "name": "Fireball",
       "url": "https://open.spotify.com/track/1r7WUr8dw048EcIXA90lg2"
+    },
+    {
+      "added_at": "2026-04-24 18:45:09",
+      "album": {
+        "name": "Not My Night",
+        "url": "https://open.spotify.com/album/2ZTlNNxszsBxCU71FCQxd7"
+      },
+      "artists": [
+        {
+          "name": "Fairlane",
+          "url": "https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO"
+        },
+        {
+          "name": "Point North",
+          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
+        }
+      ],
+      "duration_ms": 202421,
+      "name": "Not My Night",
+      "url": "https://open.spotify.com/track/6EUJEfYWvjdOzxpt2BIww6"
     },
     {
       "added_at": "2026-04-24 18:45:09",
@@ -1871,6 +1871,22 @@
     {
       "added_at": "2026-04-24 18:45:09",
       "album": {
+        "name": "AFTER MIDNIGHT",
+        "url": "https://open.spotify.com/album/0uVEnBx8s7wakHD1vizHdo"
+      },
+      "artists": [
+        {
+          "name": "benny mayne",
+          "url": "https://open.spotify.com/artist/2R2Yg2qPloNOTOfqxfXX7l"
+        }
+      ],
+      "duration_ms": 121458,
+      "name": "AFTER MIDNIGHT",
+      "url": "https://open.spotify.com/track/0kZOyOBwAbeIZlifCbIXaw"
+    },
+    {
+      "added_at": "2026-04-24 18:45:09",
+      "album": {
         "name": "You Can't Break Me (feat. Brandon Saller of Atreyu)",
         "url": "https://open.spotify.com/album/6k7ASb40R8wBiQymSSwwh0"
       },
@@ -1895,22 +1911,6 @@
     {
       "added_at": "2026-04-24 18:45:09",
       "album": {
-        "name": "AFTER MIDNIGHT",
-        "url": "https://open.spotify.com/album/0uVEnBx8s7wakHD1vizHdo"
-      },
-      "artists": [
-        {
-          "name": "benny mayne",
-          "url": "https://open.spotify.com/artist/2R2Yg2qPloNOTOfqxfXX7l"
-        }
-      ],
-      "duration_ms": 121458,
-      "name": "AFTER MIDNIGHT",
-      "url": "https://open.spotify.com/track/0kZOyOBwAbeIZlifCbIXaw"
-    },
-    {
-      "added_at": "2026-04-24 18:45:09",
-      "album": {
         "name": "Echo (Deluxe Version)",
         "url": "https://open.spotify.com/album/2Gy8PtzODbaenwA7aCI6UG"
       },
@@ -1927,6 +1927,22 @@
       "duration_ms": 185039,
       "name": "Obsolete - Sullivan King Remix",
       "url": "https://open.spotify.com/track/7MUPbvNwlgqY1Sboxe9jJD"
+    },
+    {
+      "added_at": "2026-04-24 18:45:09",
+      "album": {
+        "name": "Hi!",
+        "url": "https://open.spotify.com/album/5Vl2rwR7D2tV2Mtvl5Wm8n"
+      },
+      "artists": [
+        {
+          "name": "Madeon",
+          "url": "https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc"
+        }
+      ],
+      "duration_ms": 142250,
+      "name": "Hi!",
+      "url": "https://open.spotify.com/track/7pAKQnpPIFHvnw72ssCZXg"
     },
     {
       "added_at": "2026-04-24 18:45:09",
@@ -1975,22 +1991,6 @@
     {
       "added_at": "2026-04-24 18:45:09",
       "album": {
-        "name": "Hi!",
-        "url": "https://open.spotify.com/album/5Vl2rwR7D2tV2Mtvl5Wm8n"
-      },
-      "artists": [
-        {
-          "name": "Madeon",
-          "url": "https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc"
-        }
-      ],
-      "duration_ms": 142250,
-      "name": "Hi!",
-      "url": "https://open.spotify.com/track/7pAKQnpPIFHvnw72ssCZXg"
-    },
-    {
-      "added_at": "2026-04-24 18:45:09",
-      "album": {
         "name": "The Beginning",
         "url": "https://open.spotify.com/album/5l9DDw8bohU7Ng6adq3OQ5"
       },
@@ -2003,6 +2003,22 @@
       "duration_ms": 251034,
       "name": "The Beginning",
       "url": "https://open.spotify.com/track/1U35E62tdlFBq983eG1Doc"
+    },
+    {
+      "added_at": "2026-04-24 18:45:09",
+      "album": {
+        "name": "Steps On You (Peep My Style)",
+        "url": "https://open.spotify.com/album/28MHnDXOPNYdf3tcuvJJqt"
+      },
+      "artists": [
+        {
+          "name": "Nitepunk",
+          "url": "https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg"
+        }
+      ],
+      "duration_ms": 176200,
+      "name": "Steps On You (Peep My Style)",
+      "url": "https://open.spotify.com/track/4vk250sguUOlV3O6bPJix8"
     },
     {
       "added_at": "2026-04-24 18:45:09",
@@ -2047,22 +2063,6 @@
     {
       "added_at": "2026-04-24 18:45:09",
       "album": {
-        "name": "Steps On You (Peep My Style)",
-        "url": "https://open.spotify.com/album/28MHnDXOPNYdf3tcuvJJqt"
-      },
-      "artists": [
-        {
-          "name": "Nitepunk",
-          "url": "https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg"
-        }
-      ],
-      "duration_ms": 176200,
-      "name": "Steps On You (Peep My Style)",
-      "url": "https://open.spotify.com/track/4vk250sguUOlV3O6bPJix8"
-    },
-    {
-      "added_at": "2026-04-24 18:45:09",
-      "album": {
         "name": "Ghost Story (with All Time Low)",
         "url": "https://open.spotify.com/album/2Jduh10Puwm4d0FG9XH37E"
       },
@@ -2103,22 +2103,6 @@
     {
       "added_at": "2026-04-24 18:45:09",
       "album": {
-        "name": "Run Rabbit",
-        "url": "https://open.spotify.com/album/5FUeeX24CzLG40MorWm1zK"
-      },
-      "artists": [
-        {
-          "name": "ALT BLK ERA",
-          "url": "https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25"
-        }
-      ],
-      "duration_ms": 186822,
-      "name": "Run Rabbit",
-      "url": "https://open.spotify.com/track/1znGDCclMTeWASFVF8tj2N"
-    },
-    {
-      "added_at": "2026-04-24 18:45:09",
-      "album": {
         "name": "Till I Met You",
         "url": "https://open.spotify.com/album/3CUAAmoJWX9g7EkJvvMFhk"
       },
@@ -2135,6 +2119,22 @@
       "duration_ms": 195211,
       "name": "Till I Met You",
       "url": "https://open.spotify.com/track/67XgQqWDwFbnP256WayxaG"
+    },
+    {
+      "added_at": "2026-04-24 18:45:09",
+      "album": {
+        "name": "Run Rabbit",
+        "url": "https://open.spotify.com/album/5FUeeX24CzLG40MorWm1zK"
+      },
+      "artists": [
+        {
+          "name": "ALT BLK ERA",
+          "url": "https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25"
+        }
+      ],
+      "duration_ms": 186822,
+      "name": "Run Rabbit",
+      "url": "https://open.spotify.com/track/1znGDCclMTeWASFVF8tj2N"
     },
     {
       "added_at": "2026-04-24 18:45:09",
@@ -2207,26 +2207,6 @@
     {
       "added_at": "2026-04-24 18:45:09",
       "album": {
-        "name": "Liar (with OST)",
-        "url": "https://open.spotify.com/album/1dVm3KtEc7sr2ymzpXBxDn"
-      },
-      "artists": [
-        {
-          "name": "Kayzo",
-          "url": "https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv"
-        },
-        {
-          "name": "OST",
-          "url": "https://open.spotify.com/artist/0SPumghRyXz86GmepkeDmB"
-        }
-      ],
-      "duration_ms": 296250,
-      "name": "Liar (with OST)",
-      "url": "https://open.spotify.com/track/3dApO0DoZinSPrKKPhoKuz"
-    },
-    {
-      "added_at": "2026-04-24 18:45:09",
-      "album": {
         "name": "On My Own",
         "url": "https://open.spotify.com/album/6MlwwEzsLHkt4cfzQDfMpO"
       },
@@ -2251,6 +2231,26 @@
     {
       "added_at": "2026-04-24 18:45:09",
       "album": {
+        "name": "Liar (with OST)",
+        "url": "https://open.spotify.com/album/1dVm3KtEc7sr2ymzpXBxDn"
+      },
+      "artists": [
+        {
+          "name": "Kayzo",
+          "url": "https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv"
+        },
+        {
+          "name": "OST",
+          "url": "https://open.spotify.com/artist/0SPumghRyXz86GmepkeDmB"
+        }
+      ],
+      "duration_ms": 296250,
+      "name": "Liar (with OST)",
+      "url": "https://open.spotify.com/track/3dApO0DoZinSPrKKPhoKuz"
+    },
+    {
+      "added_at": "2026-04-24 18:45:09",
+      "album": {
         "name": "When You & Me Dance",
         "url": "https://open.spotify.com/album/5nlEUq9BStiziYyP1z5bkd"
       },
@@ -2263,6 +2263,22 @@
       "duration_ms": 221142,
       "name": "When You & Me Dance",
       "url": "https://open.spotify.com/track/0rHp9fr5I0LBaK2szxKgms"
+    },
+    {
+      "added_at": "2026-04-24 18:45:09",
+      "album": {
+        "name": "Next To You",
+        "url": "https://open.spotify.com/album/1X6fKhyeWmD9sNnAcLb6Tj"
+      },
+      "artists": [
+        {
+          "name": "Subshock & Evangelos",
+          "url": "https://open.spotify.com/artist/2zmc5GOSrIaronLdKaqluH"
+        }
+      ],
+      "duration_ms": 171034,
+      "name": "Next To You",
+      "url": "https://open.spotify.com/track/77Zo65ur5OzpBIkCaX4wsa"
     },
     {
       "added_at": "2026-04-24 18:45:09",
@@ -2299,18 +2315,22 @@
     {
       "added_at": "2026-04-24 18:45:09",
       "album": {
-        "name": "Next To You",
-        "url": "https://open.spotify.com/album/1X6fKhyeWmD9sNnAcLb6Tj"
+        "name": "Kore",
+        "url": "https://open.spotify.com/album/2bMyuXi95xRhO7zh1LQp0h"
       },
       "artists": [
         {
-          "name": "Subshock & Evangelos",
-          "url": "https://open.spotify.com/artist/2zmc5GOSrIaronLdKaqluH"
+          "name": "Kayzo",
+          "url": "https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv"
+        },
+        {
+          "name": "Nimda",
+          "url": "https://open.spotify.com/artist/3Au3D8Hsiy5B8z4C2uH02h"
         }
       ],
-      "duration_ms": 171034,
-      "name": "Next To You",
-      "url": "https://open.spotify.com/track/77Zo65ur5OzpBIkCaX4wsa"
+      "duration_ms": 156863,
+      "name": "Kore",
+      "url": "https://open.spotify.com/track/7hkl3e3ltu3sE3UYNxKrlc"
     },
     {
       "added_at": "2026-04-24 18:45:09",
@@ -2331,26 +2351,6 @@
       "duration_ms": 188730,
       "name": "F\u00d8\u00d8L - Code:Pandorum Remix",
       "url": "https://open.spotify.com/track/6JvUj6Hr346bGjXEEgkOH6"
-    },
-    {
-      "added_at": "2026-04-24 18:45:09",
-      "album": {
-        "name": "Kore",
-        "url": "https://open.spotify.com/album/2bMyuXi95xRhO7zh1LQp0h"
-      },
-      "artists": [
-        {
-          "name": "Kayzo",
-          "url": "https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv"
-        },
-        {
-          "name": "Nimda",
-          "url": "https://open.spotify.com/artist/3Au3D8Hsiy5B8z4C2uH02h"
-        }
-      ],
-      "duration_ms": 156863,
-      "name": "Kore",
-      "url": "https://open.spotify.com/track/7hkl3e3ltu3sE3UYNxKrlc"
     },
     {
       "added_at": "2026-04-24 18:45:09",
@@ -2427,6 +2427,22 @@
     {
       "added_at": "2026-04-24 18:45:09",
       "album": {
+        "name": "Get To U",
+        "url": "https://open.spotify.com/album/7vKLfc4WO47NIDIrXOUqDB"
+      },
+      "artists": [
+        {
+          "name": "Papa Khan",
+          "url": "https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM"
+        }
+      ],
+      "duration_ms": 176008,
+      "name": "Get To U",
+      "url": "https://open.spotify.com/track/7J5d8EHVjEYbMgOXGi0PKD"
+    },
+    {
+      "added_at": "2026-04-24 18:45:09",
+      "album": {
         "name": "Werewolf: Synthwave Edition",
         "url": "https://open.spotify.com/album/36KmpPLQT5kQ1BAOTtN6bF"
       },
@@ -2447,38 +2463,6 @@
     {
       "added_at": "2026-04-24 18:45:09",
       "album": {
-        "name": "Get To U",
-        "url": "https://open.spotify.com/album/7vKLfc4WO47NIDIrXOUqDB"
-      },
-      "artists": [
-        {
-          "name": "Papa Khan",
-          "url": "https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM"
-        }
-      ],
-      "duration_ms": 176008,
-      "name": "Get To U",
-      "url": "https://open.spotify.com/track/7J5d8EHVjEYbMgOXGi0PKD"
-    },
-    {
-      "added_at": "2026-04-24 18:45:09",
-      "album": {
-        "name": "The Wild Hunt",
-        "url": "https://open.spotify.com/album/0QvtHIbiF4ykReZATPi4km"
-      },
-      "artists": [
-        {
-          "name": "YMIR",
-          "url": "https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD"
-        }
-      ],
-      "duration_ms": 198400,
-      "name": "The Wild Hunt",
-      "url": "https://open.spotify.com/track/5ND25ZCEXxfAr6BFPQ5wvu"
-    },
-    {
-      "added_at": "2026-04-24 18:45:09",
-      "album": {
         "name": "Ritual",
         "url": "https://open.spotify.com/album/1lT3ohVQ41Rvq17iDLFOZq"
       },
@@ -2495,6 +2479,26 @@
       "duration_ms": 246193,
       "name": "Ritual",
       "url": "https://open.spotify.com/track/25ED1oQWMy32cQh9Dv9BjC"
+    },
+    {
+      "added_at": "2026-04-24 18:45:09",
+      "album": {
+        "name": "Bad Blood (Weird Genius Remix)",
+        "url": "https://open.spotify.com/album/2YsuUjmQ2ycwqIh6tWmsV4"
+      },
+      "artists": [
+        {
+          "name": "Asking Alexandria",
+          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
+        },
+        {
+          "name": "Weird Genius",
+          "url": "https://open.spotify.com/artist/5B4kCOhcqTywB9YwXPfFtJ"
+        }
+      ],
+      "duration_ms": 197334,
+      "name": "Bad Blood - Weird Genius Remix",
+      "url": "https://open.spotify.com/track/1ztPHFuEadFj9SdFPsD1HQ"
     }
   ],
   "unique_name": "Rocktronic",

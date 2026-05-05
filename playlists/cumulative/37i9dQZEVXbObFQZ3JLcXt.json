@@ -11844,6 +11844,24 @@
     {
       "album": {
         "name": "Surat Cinta Untuk Starla",
+        "url": "https://open.spotify.com/album/5c1L24WrX0sSnE3tUApXyR"
+      },
+      "artists": [
+        {
+          "name": "Virgoun",
+          "url": "https://open.spotify.com/artist/4bAgr9zaF0bpzVGHdHuf0f"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308035,
+      "name": "Surat Cinta Untuk Starla",
+      "url": "https://open.spotify.com/track/19gpjGEqIwwTzhc9wbRitw"
+    },
+    {
+      "album": {
+        "name": "Surat Cinta Untuk Starla",
         "url": "https://open.spotify.com/album/6a2Btrft7cIsCHTmSjTiU3"
       },
       "artists": [
@@ -12738,7 +12756,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 281173,
       "name": "Terbuang Dalam Waktu",
       "url": "https://open.spotify.com/track/5fmyW3X3kncOOVlmcWhORH"

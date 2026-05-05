@@ -7002,7 +7002,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 194946,
       "name": "How Beautiful This Life Is",
       "url": "https://open.spotify.com/track/7z8k59NKAcnwK6OOHt3i3k"
@@ -8063,6 +8063,24 @@
     },
     {
       "album": {
+        "name": "In My Head",
+        "url": "https://open.spotify.com/album/3iAFLFUboFcXZ1KuYHSu9f"
+      },
+      "artists": [
+        {
+          "name": "Team Rush Hour",
+          "url": "https://open.spotify.com/artist/3GV34zJlfaSxsr8YZ1zEbP"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145135,
+      "name": "In My Head",
+      "url": "https://open.spotify.com/track/7gsjhI836IA7bHKUs5rPlE"
+    },
+    {
+      "album": {
         "name": "In My World",
         "url": "https://open.spotify.com/album/0RjevZ5UL21eqgEhNYbvjp"
       },
@@ -8078,7 +8096,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 215849,
       "name": "In My World",
       "url": "https://open.spotify.com/track/2gXZufRsrkTS2MOAnPkTXB"
@@ -13513,6 +13531,28 @@
     },
     {
       "album": {
+        "name": "SHE DID IT AGAIN (feat. Zara Larsson)",
+        "url": "https://open.spotify.com/album/13DVwg7TPRUC8BnLjblv5B"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        },
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213241,
+      "name": "SHE DID IT AGAIN (feat. Zara Larsson)",
+      "url": "https://open.spotify.com/track/3jucj0h0tajme6rUEadmWN"
+    },
+    {
+      "album": {
         "name": "She Knows (with Akon)",
         "url": "https://open.spotify.com/album/0pj4zHdT9FsFOkpA9Qic4F"
       },
@@ -15288,7 +15328,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 174688,
       "name": "The Day That I Die",
       "url": "https://open.spotify.com/track/5etUFBAEUiOSS50lAY7Z3U"
@@ -16510,6 +16550,24 @@
       "duration_ms": 201533,
       "name": "Wait For You",
       "url": "https://open.spotify.com/track/0JjecOzaIzBTfIY35QGmgw"
+    },
+    {
+      "album": {
+        "name": "Wait For You",
+        "url": "https://open.spotify.com/album/5FJQ5Pwf2shqBVHqlcdh9K"
+      },
+      "artists": [
+        {
+          "name": "WizTheMc",
+          "url": "https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169206,
+      "name": "Wait For You",
+      "url": "https://open.spotify.com/track/17Pg7WwDCaK5FlFshdcKD7"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Zeki Arkun x Simge ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 312,471 likes - 117 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 312,467 likes - 117 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,7 +104,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 94 | [KEŞ ETTİ](https://open.spotify.com/track/6FTQGI3iEA1gl9IT6Vxu0S) | [Alphia](https://open.spotify.com/artist/3ttDD72GMPV0A5leirh9w1) | [KEŞ ETTİ / 1:3](https://open.spotify.com/album/67krGyUQEV0eIHDL1dh4DZ) | 2:06 |
 | 95 | [GANI](https://open.spotify.com/track/0TaEERkd9KrDKatbLFFplS) | [mertohguap](https://open.spotify.com/artist/6nLseSRBFRlrBcTb0nEvtS), [saiwron](https://open.spotify.com/artist/6ZcbsMt9LpyajeeQKSBVVt) | [KAFAYI KIRDIM](https://open.spotify.com/album/68dIYkUsQj9imo4EHzZwMb) | 2:18 |
 | 96 | [Cıvıl Cıvıl](https://open.spotify.com/track/4jNpS7HIUzTKJLqIbYcrRm) | [Zeynep Başkan](https://open.spotify.com/artist/47bXR9alQD6AUNUYQX2nO4) | [Cıvıl Cıvıl](https://open.spotify.com/album/3ENev9T28OaWfsJQzgKPS8) | 3:05 |
-| 97 | [Sana Doğru](https://open.spotify.com/track/417il11D1kea8NWFW6gPa3) | [E.N.D.S.](https://open.spotify.com/artist/4kk6Rb2GBLvxrUlUekdXBz), [Alper Atakan](https://open.spotify.com/artist/3uDzqJdKQwqnH0OQD00RXd) | [Sana Doğru](https://open.spotify.com/album/0uTMaAiUDkLnRuGCeYnh47) | 3:22 |
+| 97 | [Sana Doğru](https://open.spotify.com/track/417il11D1kea8NWFW6gPa3) | [Alper Atakan](https://open.spotify.com/artist/3uDzqJdKQwqnH0OQD00RXd), [E.N.D.S.](https://open.spotify.com/artist/4kk6Rb2GBLvxrUlUekdXBz) | [Sana Doğru](https://open.spotify.com/album/0uTMaAiUDkLnRuGCeYnh47) | 3:22 |
 | 98 | [Yolculuk](https://open.spotify.com/track/3NsdQwkzo45eox23KH7wPl) | [Kafamda Kurduklarım](https://open.spotify.com/artist/7HQGBCT4R0yguqLR6IZvQj) | [Yolculuk](https://open.spotify.com/album/1URklVB5gO7JZL2Q02M01R) | 2:57 |
 | 99 | [Bariz](https://open.spotify.com/track/271xmsfeSqTmt7dIH7tD2b) | [Mâi](https://open.spotify.com/artist/3d4FAb7KcuSi6WrVYuIDbk) | [Bariz](https://open.spotify.com/album/6lhOq03fkl1Oims3J5LgUL) | 2:06 |
 | 100 | [Şahidim İstanbul](https://open.spotify.com/track/6MH1wdRMTy4IIGWKzXoqoj) | [Retro.wav](https://open.spotify.com/artist/5fiQ5FVC2g4dqWvR3v5sOM) | [Şahidim İstanbul](https://open.spotify.com/album/0EufUcWhP0afQFLBu4pJDF) | 3:42 |

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2RgxsA.md) - [plain]
 
 > This is NOFX\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,421 likes - 50 songs - 1 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,428 likes - 50 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Linoleum](https://open.spotify.com/track/4uB28m7RAflobYpnLMb6A2) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Punk In Drublic](https://open.spotify.com/album/6Z8BYH27wINoUk4QMUx7gh) | 2:10 |
 | 2 | [The Separation of Church and Skate](https://open.spotify.com/track/4J4mHxR63tRwRCtuAB7aG8) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [The War on Errorism](https://open.spotify.com/album/37cQZsmKwCUyTozX2HHgnQ) | 3:09 |
-| 3 | [Seeing Double at the Triple Rock](https://open.spotify.com/track/5K5oUwfMJeRClJLQUSdKuD) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Wolves in Wolves' Clothing](https://open.spotify.com/album/3H618drWSXnMvmIvVNi6mg) | 2:09 |
-| 4 | [Bob](https://open.spotify.com/track/5XhMeCYrRhQjL4sUoOmUCE) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [White Trash, Two Heebs and a Bean](https://open.spotify.com/album/5dbWoqjHDExyrEJD9ftnay) | 2:02 |
+| 3 | [Bob](https://open.spotify.com/track/5XhMeCYrRhQjL4sUoOmUCE) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [White Trash, Two Heebs and a Bean](https://open.spotify.com/album/5dbWoqjHDExyrEJD9ftnay) | 2:02 |
+| 4 | [Seeing Double at the Triple Rock](https://open.spotify.com/track/5K5oUwfMJeRClJLQUSdKuD) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Wolves in Wolves' Clothing](https://open.spotify.com/album/3H618drWSXnMvmIvVNi6mg) | 2:09 |
 | 5 | [Don't Call Me White](https://open.spotify.com/track/0cntShbC3GmWXygfH98brk) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Punk In Drublic](https://open.spotify.com/album/6Z8BYH27wINoUk4QMUx7gh) | 2:33 |
 | 6 | [Idiots Are Taking Over](https://open.spotify.com/track/4EUAdFODgiLjf1QNDq122f) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [The War on Errorism](https://open.spotify.com/album/37cQZsmKwCUyTozX2HHgnQ) | 3:21 |
 | 7 | [Monosyllabic Girl](https://open.spotify.com/track/0yDDdizXdRx2qVceUPHYNF) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [So Long & Thanks For All The Shoes](https://open.spotify.com/album/1EaixZGxjvdZIsRiyMBZDb) | 0:54 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2RgxsA.md) - [plain]
 | 30 | [Eat The Meek](https://open.spotify.com/track/1nROHtrrwFTvT0TuvFr91D) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [So Long & Thanks For All The Shoes](https://open.spotify.com/album/1EaixZGxjvdZIsRiyMBZDb) | 3:31 |
 | 31 | [What Are We Doing This For \(feat\. Codefendants\)](https://open.spotify.com/track/3gqq3eT4HQX7nIxCf2qFTa) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ), [Codefendants](https://open.spotify.com/artist/6HBfXt98QpP7QVDPLHjHTe) | [What Are We Doing This For \(feat\. Codefendants\)](https://open.spotify.com/album/2p1N83Rk1luMeQ2Ml99u6y) | 1:40 |
 | 32 | [The Man I Killed](https://open.spotify.com/track/0gbOhXBSBgFdPZTWLwwrJg) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Wolves in Wolves' Clothing](https://open.spotify.com/album/3H618drWSXnMvmIvVNi6mg) | 1:18 |
-| 33 | [Philthy Phil Philanthropist](https://open.spotify.com/track/6Hzi3cauk9QwPekt38AYUe) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Heavy Petting Zoo](https://open.spotify.com/album/5SoeTpVu2MFq5RlCsdRBf2) | 3:10 |
-| 34 | [Liza And Louise](https://open.spotify.com/track/3YJZeoD7lWN2mPbs7FbCgj) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [White Trash, Two Heebs and a Bean](https://open.spotify.com/album/5dbWoqjHDExyrEJD9ftnay) | 2:22 |
+| 33 | [Liza And Louise](https://open.spotify.com/track/3YJZeoD7lWN2mPbs7FbCgj) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [White Trash, Two Heebs and a Bean](https://open.spotify.com/album/5dbWoqjHDExyrEJD9ftnay) | 2:22 |
+| 34 | [Philthy Phil Philanthropist](https://open.spotify.com/track/6Hzi3cauk9QwPekt38AYUe) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Heavy Petting Zoo](https://open.spotify.com/album/5SoeTpVu2MFq5RlCsdRBf2) | 3:10 |
 | 35 | [What's The Matter With Parents Today?](https://open.spotify.com/track/6SWTXSLOkxrFqJc6WPM0bu) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Pump Up The Valuum](https://open.spotify.com/album/37hvw6OVfRLktCmFcU9zHE) | 1:58 |
 | 36 | [Usa\-Holes](https://open.spotify.com/track/0gUW2Sm7q4BiSLVVqNJiWl) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Wolves in Wolves' Clothing](https://open.spotify.com/album/3H618drWSXnMvmIvVNi6mg) | 2:13 |
 | 37 | [Green Corn](https://open.spotify.com/track/7a8JLhUwa7IWKEKsyJjk9X) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Ribbed](https://open.spotify.com/album/1zSh4dywDdr83HQGpvOwCQ) | 1:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2RgxsA.md) - [plain]
 | 49 | [Barcelona](https://open.spotify.com/track/2FNgUR3gCIId7yAQ3wKFCd) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [A to H](https://open.spotify.com/album/5pUkSUz92gUxkgVsI79PmP) | 2:29 |
 | 50 | [13 Stitches](https://open.spotify.com/track/5qzAWlUfddVpRnnsG5P6KF) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [The War on Errorism](https://open.spotify.com/album/37cQZsmKwCUyTozX2HHgnQ) | 1:55 |
 
-Snapshot ID: `afU+gAAAAADq1mrK+jBUKOBrotaaEDc8`
+Snapshot ID: `afaQAAAAAAAlorj5CGIU9Jfo+LIaXPVH`

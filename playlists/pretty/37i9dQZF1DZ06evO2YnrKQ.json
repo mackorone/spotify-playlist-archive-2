@@ -1,12 +1,12 @@
 {
   "description": "This is Alexisonfire. The essential tracks, all in one playlist.",
-  "num_followers": 25249,
+  "num_followers": 25253,
   "original_name": "This Is Alexisonfire",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afU+gAAAAADCguQGKOwFxCqbZsqTkqLU",
+  "snapshot_id": "afaQAAAAAAAl7Pr2CXBQh0hIhqH0yuXl",
   "tracks": [
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fully Completely",
-        "url": "https://open.spotify.com/album/5iSeNirSdjXzdv4eBx72X1"
-      },
-      "artists": [
-        {
-          "name": "Alexisonfire",
-          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
-        }
-      ],
-      "duration_ms": 228835,
-      "name": "Fully Completely",
-      "url": "https://open.spotify.com/track/7Gj5Gd0IlD4GTxL9bmVZg1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Otherness",
         "url": "https://open.spotify.com/album/0mgXa4Wapb1oanh0KgVyPr"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 496346,
       "name": "World Stops Turning",
       "url": "https://open.spotify.com/track/4LxurqXWbJhXHNwgRv4UV5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fully Completely",
+        "url": "https://open.spotify.com/album/5iSeNirSdjXzdv4eBx72X1"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "duration_ms": 228835,
+      "name": "Fully Completely",
+      "url": "https://open.spotify.com/track/7Gj5Gd0IlD4GTxL9bmVZg1"
     },
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Switcheroo Series",
-        "url": "https://open.spotify.com/album/0TTp9wSNMiDXxb8003wzAP"
-      },
-      "artists": [
-        {
-          "name": "Alexisonfire",
-          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
-        }
-      ],
-      "duration_ms": 219560,
-      "name": "Charlie Sheen vs. Henry Rollins",
-      "url": "https://open.spotify.com/track/4nEPLRQ0oW3bgp8fL7CbIo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Otherness",
         "url": "https://open.spotify.com/album/0mgXa4Wapb1oanh0KgVyPr"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 234760,
       "name": "Reverse the Curse",
       "url": "https://open.spotify.com/track/1scT2ygrMOMDXBVAiYaxte"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Switcheroo Series",
+        "url": "https://open.spotify.com/album/0TTp9wSNMiDXxb8003wzAP"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "duration_ms": 219560,
+      "name": "Charlie Sheen vs. Henry Rollins",
+      "url": "https://open.spotify.com/track/4nEPLRQ0oW3bgp8fL7CbIo"
     },
     {
       "added_at": null,

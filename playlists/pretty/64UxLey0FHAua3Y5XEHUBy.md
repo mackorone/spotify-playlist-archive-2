@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/64UxLey0FHAua3Y5XEHUBy.md) - [plain]
 
 > Chilled songs to keep the mood nice and relaxed.
 
-[Filtr Ireland](https://open.spotify.com/user/filtr.ie) - 37,905 likes - 106 songs - 6 hr 15 min
+[Filtr Ireland](https://open.spotify.com/user/filtr.ie) - 37,906 likes - 106 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

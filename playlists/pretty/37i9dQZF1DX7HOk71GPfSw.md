@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > the party is where u.r.
 
-[Spotify](https://open.spotify.com/user/spotify) - 500,068 likes - 125 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 500,129 likes - 125 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

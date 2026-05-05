@@ -1,6 +1,6 @@
 {
   "description": "\u00a1M\u00fasica tropical, cumbia, guasca y de carrilera para recordar y disfrutar!",
-  "num_followers": 145214,
+  "num_followers": 145208,
   "original_name": "Viejoteca",
   "owner": {
     "name": "Spotify",
@@ -175,18 +175,18 @@
     {
       "added_at": "2026-02-23 16:04:48",
       "album": {
-        "name": "Bello Espejismo",
-        "url": "https://open.spotify.com/album/1eknAAlfD4YVaRKz51gdbU"
+        "name": "La Voz Popular de Am\u00e9rica",
+        "url": "https://open.spotify.com/album/6ymFtmeQp25jwk5KOOZ5qZ"
       },
       "artists": [
         {
-          "name": "Gerardo G\u00f3mez",
-          "url": "https://open.spotify.com/artist/5kkFkOxJ2XbCC4q5x6aFlF"
+          "name": "Francy",
+          "url": "https://open.spotify.com/artist/5pAEGsouhZbgSqJMTmEXoT"
         }
       ],
-      "duration_ms": 275560,
-      "name": "Bello Espejismo",
-      "url": "https://open.spotify.com/track/6BJnJy6vgu48xfi7GcOAzx"
+      "duration_ms": 214306,
+      "name": "Si Se Fue, Se Fue",
+      "url": "https://open.spotify.com/track/6WTF798e9hxNDWj95ISu5e"
     },
     {
       "added_at": "2026-02-23 16:04:48",
@@ -207,18 +207,18 @@
     {
       "added_at": "2026-02-23 16:04:48",
       "album": {
-        "name": "La Voz Popular de Am\u00e9rica",
-        "url": "https://open.spotify.com/album/6ymFtmeQp25jwk5KOOZ5qZ"
+        "name": "Bello Espejismo",
+        "url": "https://open.spotify.com/album/1eknAAlfD4YVaRKz51gdbU"
       },
       "artists": [
         {
-          "name": "Francy",
-          "url": "https://open.spotify.com/artist/5pAEGsouhZbgSqJMTmEXoT"
+          "name": "Gerardo G\u00f3mez",
+          "url": "https://open.spotify.com/artist/5kkFkOxJ2XbCC4q5x6aFlF"
         }
       ],
-      "duration_ms": 214306,
-      "name": "Si Se Fue, Se Fue",
-      "url": "https://open.spotify.com/track/6WTF798e9hxNDWj95ISu5e"
+      "duration_ms": 275560,
+      "name": "Bello Espejismo",
+      "url": "https://open.spotify.com/track/6BJnJy6vgu48xfi7GcOAzx"
     },
     {
       "added_at": "2026-02-23 16:04:48",
@@ -983,22 +983,6 @@
     {
       "added_at": "2026-02-23 16:04:48",
       "album": {
-        "name": "Exitos Populares",
-        "url": "https://open.spotify.com/album/50IbAdkinkCFXl87j5Mpyx"
-      },
-      "artists": [
-        {
-          "name": "Segundo Rosero",
-          "url": "https://open.spotify.com/artist/41EMdaUylPIcdbGdojyr2O"
-        }
-      ],
-      "duration_ms": 185093,
-      "name": "Como Voy a Olvidarte",
-      "url": "https://open.spotify.com/track/1MSC1j3cQK2UDNp9mI0nDi"
-    },
-    {
-      "added_at": "2026-02-23 16:04:48",
-      "album": {
         "name": "Los Grandes \u00c9xitos de Jose Miguel Class",
         "url": "https://open.spotify.com/album/3WJlGjYRBaNKHGOsiNK7lt"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 183933,
       "name": "Decidido",
       "url": "https://open.spotify.com/track/4AkSPCdKCipHPjToJRBIzM"
+    },
+    {
+      "added_at": "2026-02-23 16:04:48",
+      "album": {
+        "name": "Exitos Populares",
+        "url": "https://open.spotify.com/album/50IbAdkinkCFXl87j5Mpyx"
+      },
+      "artists": [
+        {
+          "name": "Segundo Rosero",
+          "url": "https://open.spotify.com/artist/41EMdaUylPIcdbGdojyr2O"
+        }
+      ],
+      "duration_ms": 185093,
+      "name": "Como Voy a Olvidarte",
+      "url": "https://open.spotify.com/track/1MSC1j3cQK2UDNp9mI0nDi"
     },
     {
       "added_at": "2026-02-23 16:04:48",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2026-02-23 16:04:48",
       "album": {
-        "name": "Matemos las Ganas",
-        "url": "https://open.spotify.com/album/4F9KrbhXKsZaHMv5R0zmom"
-      },
-      "artists": [
-        {
-          "name": "Jessi Uribe",
-          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
-        }
-      ],
-      "duration_ms": 182166,
-      "name": "Matemos las Ganas",
-      "url": "https://open.spotify.com/track/0bID0lGh8aR5jc6PkiyPUN"
-    },
-    {
-      "added_at": "2026-02-23 16:04:48",
-      "album": {
         "name": "Amandonos",
         "url": "https://open.spotify.com/album/3ugQU48SaahgO7iyE2G74c"
       },
@@ -1219,6 +1203,22 @@
     {
       "added_at": "2026-02-23 16:04:48",
       "album": {
+        "name": "Matemos las Ganas",
+        "url": "https://open.spotify.com/album/4F9KrbhXKsZaHMv5R0zmom"
+      },
+      "artists": [
+        {
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+        }
+      ],
+      "duration_ms": 182166,
+      "name": "Matemos las Ganas",
+      "url": "https://open.spotify.com/track/0bID0lGh8aR5jc6PkiyPUN"
+    },
+    {
+      "added_at": "2026-02-23 16:04:48",
+      "album": {
         "name": "Los M\u00e1s Grandes \u00c9xitos",
         "url": "https://open.spotify.com/album/2Tq2ArF6n3cLMX22XBKANR"
       },
@@ -1231,6 +1231,26 @@
       "duration_ms": 172240,
       "name": "Lejos del Tambo",
       "url": "https://open.spotify.com/track/2sJh7SIghOD2eOxAkHXa5p"
+    },
+    {
+      "added_at": "2026-02-23 16:04:48",
+      "album": {
+        "name": "Muy Tropical y Bailable",
+        "url": "https://open.spotify.com/album/4FTPpblS9F4DOT7o46A9cU"
+      },
+      "artists": [
+        {
+          "name": "Rodolfo Aicardi",
+          "url": "https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414"
+        },
+        {
+          "name": "La Tipica Ra7",
+          "url": "https://open.spotify.com/artist/0WJbT6T0nkWfYO5zEbUPOG"
+        }
+      ],
+      "duration_ms": 242918,
+      "name": "Tabaco y Ron",
+      "url": "https://open.spotify.com/track/0yR6g8tt0IzisAPcizD4xz"
     },
     {
       "added_at": "2026-02-23 16:04:48",
@@ -1255,22 +1275,18 @@
     {
       "added_at": "2026-02-23 16:04:48",
       "album": {
-        "name": "Muy Tropical y Bailable",
-        "url": "https://open.spotify.com/album/4FTPpblS9F4DOT7o46A9cU"
+        "name": "Colecci\u00f3n \u00c9xitos: Pastor L\u00f3pez, Vol. 1",
+        "url": "https://open.spotify.com/album/2xz5eDdp7jLgCCcmCkGaHk"
       },
       "artists": [
         {
-          "name": "Rodolfo Aicardi",
-          "url": "https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414"
-        },
-        {
-          "name": "La Tipica Ra7",
-          "url": "https://open.spotify.com/artist/0WJbT6T0nkWfYO5zEbUPOG"
+          "name": "Pastor Lopez",
+          "url": "https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE"
         }
       ],
-      "duration_ms": 242918,
-      "name": "Tabaco y Ron",
-      "url": "https://open.spotify.com/track/0yR6g8tt0IzisAPcizD4xz"
+      "duration_ms": 169920,
+      "name": "S\u00f3lo un Cigarro",
+      "url": "https://open.spotify.com/track/3QtQxRDlhjuN2fzL28c3YF"
     },
     {
       "added_at": "2026-02-23 16:04:48",
@@ -1303,22 +1319,6 @@
       "duration_ms": 188386,
       "name": "Maldita Traicion",
       "url": "https://open.spotify.com/track/1vBkb5uekLodTDjvHWwnm4"
-    },
-    {
-      "added_at": "2026-02-23 16:04:48",
-      "album": {
-        "name": "Colecci\u00f3n \u00c9xitos: Pastor L\u00f3pez, Vol. 1",
-        "url": "https://open.spotify.com/album/2xz5eDdp7jLgCCcmCkGaHk"
-      },
-      "artists": [
-        {
-          "name": "Pastor Lopez",
-          "url": "https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE"
-        }
-      ],
-      "duration_ms": 169920,
-      "name": "S\u00f3lo un Cigarro",
-      "url": "https://open.spotify.com/track/3QtQxRDlhjuN2fzL28c3YF"
     },
     {
       "added_at": "2026-02-23 16:04:48",

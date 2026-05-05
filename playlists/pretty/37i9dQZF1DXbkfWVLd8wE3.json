@@ -1,6 +1,6 @@
 {
   "description": "Classics like In Da Club",
-  "num_followers": 278486,
+  "num_followers": 278603,
   "original_name": "Hip-Hop Classics Party",
   "owner": {
     "name": "Spotify",
@@ -47,22 +47,6 @@
     {
       "added_at": "2024-10-25 23:07:14",
       "album": {
-        "name": "The Massacre",
-        "url": "https://open.spotify.com/album/2pidzXTaHV4WaIJYRxKDCH"
-      },
-      "artists": [
-        {
-          "name": "50 Cent",
-          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
-        }
-      ],
-      "duration_ms": 237706,
-      "name": "Just A Lil Bit",
-      "url": "https://open.spotify.com/track/4nva9EpKntUTs6CRSGBCn9"
-    },
-    {
-      "added_at": "2024-10-25 23:07:14",
-      "album": {
         "name": "The Documentary",
         "url": "https://open.spotify.com/album/4PrPbmm0gKvaD3rerOXFg8"
       },
@@ -79,6 +63,22 @@
       "duration_ms": 206400,
       "name": "Hate It Or Love It",
       "url": "https://open.spotify.com/track/2wGSgTmgSF3xjRrHkTc25R"
+    },
+    {
+      "added_at": "2024-10-25 23:07:14",
+      "album": {
+        "name": "The Massacre",
+        "url": "https://open.spotify.com/album/2pidzXTaHV4WaIJYRxKDCH"
+      },
+      "artists": [
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        }
+      ],
+      "duration_ms": 237706,
+      "name": "Just A Lil Bit",
+      "url": "https://open.spotify.com/track/4nva9EpKntUTs6CRSGBCn9"
     },
     {
       "added_at": "2024-10-25 23:07:14",
@@ -475,38 +475,6 @@
     {
       "added_at": "2024-10-25 23:07:14",
       "album": {
-        "name": "Still Writing In My Diary: 2nd Entry",
-        "url": "https://open.spotify.com/album/16D0usG2u8oFoJSCLWGrix"
-      },
-      "artists": [
-        {
-          "name": "Petey Pablo",
-          "url": "https://open.spotify.com/artist/4Js9eYwAf9rypNtV8pNSw9"
-        }
-      ],
-      "duration_ms": 235186,
-      "name": "Freek-A-Leek",
-      "url": "https://open.spotify.com/track/4UNhyW0R7qylxrF6Z0q2Tb"
-    },
-    {
-      "added_at": "2024-10-25 23:07:14",
-      "album": {
-        "name": "The College Dropout",
-        "url": "https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 193733,
-      "name": "Jesus Walks",
-      "url": "https://open.spotify.com/track/5g1vtHqi9uV7xtYeCcFOBx"
-    },
-    {
-      "added_at": "2024-10-25 23:07:14",
-      "album": {
         "name": "Country Grammar",
         "url": "https://open.spotify.com/album/5v7Icroz1sQsK2sQyLrWzE"
       },
@@ -535,6 +503,38 @@
       "duration_ms": 211120,
       "name": "Get Ur Freak On",
       "url": "https://open.spotify.com/track/6zsk6uF3MxfIeHPlubKBvR"
+    },
+    {
+      "added_at": "2024-10-25 23:07:14",
+      "album": {
+        "name": "The College Dropout",
+        "url": "https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 193733,
+      "name": "Jesus Walks",
+      "url": "https://open.spotify.com/track/5g1vtHqi9uV7xtYeCcFOBx"
+    },
+    {
+      "added_at": "2024-10-25 23:07:14",
+      "album": {
+        "name": "Still Writing In My Diary: 2nd Entry",
+        "url": "https://open.spotify.com/album/16D0usG2u8oFoJSCLWGrix"
+      },
+      "artists": [
+        {
+          "name": "Petey Pablo",
+          "url": "https://open.spotify.com/artist/4Js9eYwAf9rypNtV8pNSw9"
+        }
+      ],
+      "duration_ms": 235186,
+      "name": "Freek-A-Leek",
+      "url": "https://open.spotify.com/track/4UNhyW0R7qylxrF6Z0q2Tb"
     },
     {
       "added_at": "2024-10-25 23:07:14",
@@ -607,6 +607,30 @@
     {
       "added_at": "2024-10-25 23:07:14",
       "album": {
+        "name": "The Cookbook",
+        "url": "https://open.spotify.com/album/6vV5UrXcfyQD1wu4Qo2I9K"
+      },
+      "artists": [
+        {
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+        },
+        {
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        },
+        {
+          "name": "Fatman Scoop",
+          "url": "https://open.spotify.com/artist/15GGbJKqC6w0VYyAJtjej6"
+        }
+      ],
+      "duration_ms": 226863,
+      "name": "Lose Control (feat. Ciara & Fat Man Scoop)",
+      "url": "https://open.spotify.com/track/0UaMYEvWZi0ZqiDOoHU3YI"
+    },
+    {
+      "added_at": "2024-10-25 23:07:14",
+      "album": {
         "name": "True Story",
         "url": "https://open.spotify.com/album/0NTYMm0B7adXejff1phD3F"
       },
@@ -631,30 +655,6 @@
       "duration_ms": 247426,
       "name": "Lean Back",
       "url": "https://open.spotify.com/track/2Ozc0me9PV5vlt8cokwdvI"
-    },
-    {
-      "added_at": "2024-10-25 23:07:14",
-      "album": {
-        "name": "The Cookbook",
-        "url": "https://open.spotify.com/album/6vV5UrXcfyQD1wu4Qo2I9K"
-      },
-      "artists": [
-        {
-          "name": "Missy Elliott",
-          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
-        },
-        {
-          "name": "Ciara",
-          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
-        },
-        {
-          "name": "Fatman Scoop",
-          "url": "https://open.spotify.com/artist/15GGbJKqC6w0VYyAJtjej6"
-        }
-      ],
-      "duration_ms": 226863,
-      "name": "Lose Control (feat. Ciara & Fat Man Scoop)",
-      "url": "https://open.spotify.com/track/0UaMYEvWZi0ZqiDOoHU3YI"
     },
     {
       "added_at": "2024-10-25 23:07:14",
@@ -1203,18 +1203,18 @@
     {
       "added_at": "2024-10-25 23:07:14",
       "album": {
-        "name": "Restless",
-        "url": "https://open.spotify.com/album/6FbOJTOKgRkWSh8kcV9NG3"
+        "name": "The Dynasty: Roc La Familia",
+        "url": "https://open.spotify.com/album/3VfeeJElCEDeXlDiNZbn3E"
       },
       "artists": [
         {
-          "name": "Xzibit",
-          "url": "https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou"
+          "name": "JA\u0178-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
         }
       ],
-      "duration_ms": 255640,
-      "name": "X",
-      "url": "https://open.spotify.com/track/5stZnlPMYz3Ba8Hbo3ajlP"
+      "duration_ms": 227866,
+      "name": "I Just Wanna Love U (Give It 2 Me)",
+      "url": "https://open.spotify.com/track/0s46SltT4On0Z6kglK1I5c"
     },
     {
       "added_at": "2024-10-25 23:07:14",
@@ -1243,18 +1243,18 @@
     {
       "added_at": "2024-10-25 23:07:14",
       "album": {
-        "name": "The Dynasty: Roc La Familia",
-        "url": "https://open.spotify.com/album/3VfeeJElCEDeXlDiNZbn3E"
+        "name": "Restless",
+        "url": "https://open.spotify.com/album/6FbOJTOKgRkWSh8kcV9NG3"
       },
       "artists": [
         {
-          "name": "JA\u0178-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+          "name": "Xzibit",
+          "url": "https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou"
         }
       ],
-      "duration_ms": 227866,
-      "name": "I Just Wanna Love U (Give It 2 Me)",
-      "url": "https://open.spotify.com/track/0s46SltT4On0Z6kglK1I5c"
+      "duration_ms": 255640,
+      "name": "X",
+      "url": "https://open.spotify.com/track/5stZnlPMYz3Ba8Hbo3ajlP"
     },
     {
       "added_at": "2024-10-25 23:07:14",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2024-10-25 23:07:14",
       "album": {
+        "name": "The Blueprint (Explicit Version)",
+        "url": "https://open.spotify.com/album/69CmkikTHkGKdkrUZTtyWl"
+      },
+      "artists": [
+        {
+          "name": "JA\u0178-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "duration_ms": 240626,
+      "name": "Izzo (H.O.V.A.)",
+      "url": "https://open.spotify.com/track/4h5KBcltGefua73AUPYps7"
+    },
+    {
+      "added_at": "2024-10-25 23:07:14",
+      "album": {
         "name": "Genesis",
         "url": "https://open.spotify.com/album/6cj1gdwhr2MVJr9YnWghUd"
       },
@@ -1355,22 +1371,6 @@
     {
       "added_at": "2024-10-25 23:07:14",
       "album": {
-        "name": "The Blueprint (Explicit Version)",
-        "url": "https://open.spotify.com/album/69CmkikTHkGKdkrUZTtyWl"
-      },
-      "artists": [
-        {
-          "name": "JA\u0178-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        }
-      ],
-      "duration_ms": 240626,
-      "name": "Izzo (H.O.V.A.)",
-      "url": "https://open.spotify.com/track/4h5KBcltGefua73AUPYps7"
-    },
-    {
-      "added_at": "2024-10-25 23:07:14",
-      "album": {
         "name": "King",
         "url": "https://open.spotify.com/album/2X7s6Gt8Xz2qEwlw4GVcQo"
       },
@@ -1399,6 +1399,22 @@
       "duration_ms": 264653,
       "name": "Nothin'",
       "url": "https://open.spotify.com/track/5ZKVNTG7yu7gbX4vryqS2X"
+    },
+    {
+      "added_at": "2024-10-25 23:07:14",
+      "album": {
+        "name": "Greatest Hits with a Twist - Deluxe Edition",
+        "url": "https://open.spotify.com/album/0K2A6RaCTpcNKTZwvLMeqY"
+      },
+      "artists": [
+        {
+          "name": "DMX",
+          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+        }
+      ],
+      "duration_ms": 231040,
+      "name": "Ruff Ryders' Anthem - Re-Recorded",
+      "url": "https://open.spotify.com/track/32SFvZODywPBVDYSYtqxCj"
     },
     {
       "added_at": "2024-10-25 23:07:14",
@@ -1439,22 +1455,6 @@
       "duration_ms": 240373,
       "name": "Touch It - Remix/Featuring Mary J. Blige, Rah Digga, Missy Elliot, Lloyd Banks, Papoose & DMX (Explcit)",
       "url": "https://open.spotify.com/track/4MHboJP4Mj8b2bc4hXayIo"
-    },
-    {
-      "added_at": "2024-10-25 23:07:14",
-      "album": {
-        "name": "Greatest Hits with a Twist - Deluxe Edition",
-        "url": "https://open.spotify.com/album/0K2A6RaCTpcNKTZwvLMeqY"
-      },
-      "artists": [
-        {
-          "name": "DMX",
-          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
-        }
-      ],
-      "duration_ms": 231040,
-      "name": "Ruff Ryders' Anthem - Re-Recorded",
-      "url": "https://open.spotify.com/track/32SFvZODywPBVDYSYtqxCj"
     },
     {
       "added_at": "2024-10-25 23:07:14",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2024-10-25 23:07:14",
       "album": {
-        "name": "The Naked Truth",
-        "url": "https://open.spotify.com/album/6roz6qVi1LKVXnkh0UDdsB"
-      },
-      "artists": [
-        {
-          "name": "Lil' Kim",
-          "url": "https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX"
-        }
-      ],
-      "duration_ms": 262640,
-      "name": "Lighters Up - Nationwide Version",
-      "url": "https://open.spotify.com/track/3m6TozlibiEeicCbBLWv6g"
-    },
-    {
-      "added_at": "2024-10-25 23:07:14",
-      "album": {
         "name": "Amplified",
         "url": "https://open.spotify.com/album/2SGHbXwTsuIOoAdBPsnIDW"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 243866,
       "name": "Breathe And Stop",
       "url": "https://open.spotify.com/track/7nDtDxsKJ3fho8xEmU65JJ"
+    },
+    {
+      "added_at": "2024-10-25 23:07:14",
+      "album": {
+        "name": "The Naked Truth",
+        "url": "https://open.spotify.com/album/6roz6qVi1LKVXnkh0UDdsB"
+      },
+      "artists": [
+        {
+          "name": "Lil' Kim",
+          "url": "https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX"
+        }
+      ],
+      "duration_ms": 262640,
+      "name": "Lighters Up - Nationwide Version",
+      "url": "https://open.spotify.com/track/3m6TozlibiEeicCbBLWv6g"
     },
     {
       "added_at": "2024-10-25 23:07:14",

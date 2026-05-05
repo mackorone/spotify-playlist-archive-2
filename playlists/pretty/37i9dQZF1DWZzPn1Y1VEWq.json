@@ -1,6 +1,6 @@
 {
   "description": "100 canciones de la \u00e9poca nost\u00e1lgica m\u00e1s reciente.",
-  "num_followers": 391086,
+  "num_followers": 391091,
   "original_name": "Los 2000 Argentina",
   "owner": {
     "name": "Spotify",
@@ -139,22 +139,6 @@
     {
       "added_at": "2024-06-12 23:26:13",
       "album": {
-        "name": "Airbag",
-        "url": "https://open.spotify.com/album/4FtWJXF1bvQ4Q7PGbGGgMQ"
-      },
-      "artists": [
-        {
-          "name": "Airbag",
-          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
-        }
-      ],
-      "duration_ms": 234146,
-      "name": "Solo aqu\u00ed",
-      "url": "https://open.spotify.com/track/0OcYoSGA1CFGZcCuPLyfhj"
-    },
-    {
-      "added_at": "2024-06-12 23:26:13",
-      "album": {
         "name": "Vicentico",
         "url": "https://open.spotify.com/album/6Qt9Yiol5QcAEeKPyIQafo"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 218440,
       "name": "Algo Contigo",
       "url": "https://open.spotify.com/track/4zsDA31stWMtLveU61hejd"
+    },
+    {
+      "added_at": "2024-06-12 23:26:13",
+      "album": {
+        "name": "Airbag",
+        "url": "https://open.spotify.com/album/4FtWJXF1bvQ4Q7PGbGGgMQ"
+      },
+      "artists": [
+        {
+          "name": "Airbag",
+          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
+        }
+      ],
+      "duration_ms": 234146,
+      "name": "Solo aqu\u00ed",
+      "url": "https://open.spotify.com/track/0OcYoSGA1CFGZcCuPLyfhj"
     },
     {
       "added_at": "2024-06-12 23:26:13",
@@ -495,22 +495,6 @@
     {
       "added_at": "2024-06-12 23:26:13",
       "album": {
-        "name": "Jessico",
-        "url": "https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh"
-      },
-      "artists": [
-        {
-          "name": "Babasonicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
-        }
-      ],
-      "duration_ms": 277011,
-      "name": "Los Calientes",
-      "url": "https://open.spotify.com/track/7L2arBxHMxVXbWQzaHKgnY"
-    },
-    {
-      "added_at": "2024-06-12 23:26:13",
-      "album": {
         "name": "Buscando un Amor",
         "url": "https://open.spotify.com/album/4AMgSDaOROvCGSNSz3rfYw"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 161133,
       "name": "Juntos a la Par",
       "url": "https://open.spotify.com/track/1Ig4pCPanhzXl7C86MmBUc"
+    },
+    {
+      "added_at": "2024-06-12 23:26:13",
+      "album": {
+        "name": "Jessico",
+        "url": "https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh"
+      },
+      "artists": [
+        {
+          "name": "Babasonicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+        }
+      ],
+      "duration_ms": 277011,
+      "name": "Los Calientes",
+      "url": "https://open.spotify.com/track/7L2arBxHMxVXbWQzaHKgnY"
     },
     {
       "added_at": "2024-06-12 23:26:13",
@@ -575,22 +575,6 @@
     {
       "added_at": "2024-06-12 23:26:13",
       "album": {
-        "name": "Toro Rojo",
-        "url": "https://open.spotify.com/album/5RQqvJeGRUrvVbvKGlMceO"
-      },
-      "artists": [
-        {
-          "name": "Guasones",
-          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
-        }
-      ],
-      "duration_ms": 250173,
-      "name": "Reyes de la Noche",
-      "url": "https://open.spotify.com/track/3nnDwYz3dEd4p2ESdpS1G0"
-    },
-    {
-      "added_at": "2024-06-12 23:26:13",
-      "album": {
         "name": "La Lata",
         "url": "https://open.spotify.com/album/5FiOEoJn43wbtD6aqLrQqP"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 214120,
       "name": "La resaka",
       "url": "https://open.spotify.com/track/12rV4fh9cnftIXXmTtjhhI"
+    },
+    {
+      "added_at": "2024-06-12 23:26:13",
+      "album": {
+        "name": "Toro Rojo",
+        "url": "https://open.spotify.com/album/5RQqvJeGRUrvVbvKGlMceO"
+      },
+      "artists": [
+        {
+          "name": "Guasones",
+          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
+        }
+      ],
+      "duration_ms": 250173,
+      "name": "Reyes de la Noche",
+      "url": "https://open.spotify.com/track/3nnDwYz3dEd4p2ESdpS1G0"
     },
     {
       "added_at": "2024-06-12 23:26:13",
@@ -671,22 +671,6 @@
     {
       "added_at": "2024-06-12 23:26:13",
       "album": {
-        "name": "La 2da del Boxeador",
-        "url": "https://open.spotify.com/album/0qhvY5ilIjQJsQMw7Y4T2X"
-      },
-      "artists": [
-        {
-          "name": "Repiola",
-          "url": "https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ"
-        }
-      ],
-      "duration_ms": 169786,
-      "name": "Pideme la Luna",
-      "url": "https://open.spotify.com/track/1RJpmuL9ht9JimLCPazhT7"
-    },
-    {
-      "added_at": "2024-06-12 23:26:13",
-      "album": {
         "name": "Parulo",
         "url": "https://open.spotify.com/album/00A8Fwcno8bR8PghDYmcv8"
       },
@@ -703,18 +687,18 @@
     {
       "added_at": "2024-06-12 23:26:13",
       "album": {
-        "name": "Dynamo (Remastered)",
-        "url": "https://open.spotify.com/album/4bfwXuecOmNVlPM5RStAiQ"
+        "name": "La 2da del Boxeador",
+        "url": "https://open.spotify.com/album/0qhvY5ilIjQJsQMw7Y4T2X"
       },
       "artists": [
         {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+          "name": "Repiola",
+          "url": "https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ"
         }
       ],
-      "duration_ms": 330600,
-      "name": "Luna Roja - Remasterizado 2007",
-      "url": "https://open.spotify.com/track/0MHENKo7srNABaALyzrYlX"
+      "duration_ms": 169786,
+      "name": "Pideme la Luna",
+      "url": "https://open.spotify.com/track/1RJpmuL9ht9JimLCPazhT7"
     },
     {
       "added_at": "2024-06-12 23:26:13",
@@ -731,6 +715,22 @@
       "duration_ms": 217973,
       "name": "Estadio Azteca",
       "url": "https://open.spotify.com/track/03Ntkzzjkz7nFJldcPbL90"
+    },
+    {
+      "added_at": "2024-06-12 23:26:13",
+      "album": {
+        "name": "Dynamo (Remastered)",
+        "url": "https://open.spotify.com/album/4bfwXuecOmNVlPM5RStAiQ"
+      },
+      "artists": [
+        {
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "duration_ms": 330600,
+      "name": "Luna Roja - Remasterizado 2007",
+      "url": "https://open.spotify.com/track/0MHENKo7srNABaALyzrYlX"
     },
     {
       "added_at": "2024-06-12 23:26:13",
@@ -783,26 +783,6 @@
     {
       "added_at": "2024-06-12 23:26:13",
       "album": {
-        "name": "Mordisco",
-        "url": "https://open.spotify.com/album/5rFPwHadhlLDXzNaPcOaYD"
-      },
-      "artists": [
-        {
-          "name": "Emmanuel Horvilleur",
-          "url": "https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI"
-        },
-        {
-          "name": "Gustavo Cerati",
-          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "19 (feat. Gustavo Cerati)",
-      "url": "https://open.spotify.com/track/0mRmRzqq9vahlZoODOdLNQ"
-    },
-    {
-      "added_at": "2024-06-12 23:26:13",
-      "album": {
         "name": "El regreso",
         "url": "https://open.spotify.com/album/3hIwt5XJuGCaTgSO6DqL7N"
       },
@@ -835,6 +815,26 @@
     {
       "added_at": "2024-06-12 23:26:13",
       "album": {
+        "name": "Mordisco",
+        "url": "https://open.spotify.com/album/5rFPwHadhlLDXzNaPcOaYD"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel Horvilleur",
+          "url": "https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI"
+        },
+        {
+          "name": "Gustavo Cerati",
+          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "19 (feat. Gustavo Cerati)",
+      "url": "https://open.spotify.com/track/0mRmRzqq9vahlZoODOdLNQ"
+    },
+    {
+      "added_at": "2024-06-12 23:26:13",
+      "album": {
         "name": "Girando",
         "url": "https://open.spotify.com/album/5uXPldCWi4gWWQRkbT0m5B"
       },
@@ -847,22 +847,6 @@
       "duration_ms": 238506,
       "name": "Sigue Girando",
       "url": "https://open.spotify.com/track/4wjbUTC312rQO7rziAONDa"
-    },
-    {
-      "added_at": "2024-06-12 23:26:13",
-      "album": {
-        "name": "Dynamo (Remastered)",
-        "url": "https://open.spotify.com/album/4bfwXuecOmNVlPM5RStAiQ"
-      },
-      "artists": [
-        {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
-        }
-      ],
-      "duration_ms": 221440,
-      "name": "Primavera 0 - Remasterizado 2007",
-      "url": "https://open.spotify.com/track/2V4aobDkpJD7e36J8xPCL6"
     },
     {
       "added_at": "2024-06-12 23:26:13",
@@ -883,18 +867,18 @@
     {
       "added_at": "2024-06-12 23:26:13",
       "album": {
-        "name": "Despedazado Por Mil Partes",
-        "url": "https://open.spotify.com/album/0eH6ICTcUbNqjplgRISQEg"
+        "name": "Dynamo (Remastered)",
+        "url": "https://open.spotify.com/album/4bfwXuecOmNVlPM5RStAiQ"
       },
       "artists": [
         {
-          "name": "La Renga",
-          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
         }
       ],
-      "duration_ms": 259533,
-      "name": "Lo Fr\u00e1gil De La Locura",
-      "url": "https://open.spotify.com/track/53LovEbSOlvxq2qj8EMWub"
+      "duration_ms": 221440,
+      "name": "Primavera 0 - Remasterizado 2007",
+      "url": "https://open.spotify.com/track/2V4aobDkpJD7e36J8xPCL6"
     },
     {
       "added_at": "2024-06-12 23:26:13",
@@ -915,18 +899,18 @@
     {
       "added_at": "2024-06-12 23:26:13",
       "album": {
-        "name": "Narig\u00f3n del Siglo, Yo Te Dejo Perfumado en la Esquina para Siempre",
-        "url": "https://open.spotify.com/album/4GkZExYLfegidZaO1BgpvU"
+        "name": "Despedazado Por Mil Partes",
+        "url": "https://open.spotify.com/album/0eH6ICTcUbNqjplgRISQEg"
       },
       "artists": [
         {
-          "name": "Divididos",
-          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
+          "name": "La Renga",
+          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
         }
       ],
-      "duration_ms": 198706,
-      "name": "Par Mil",
-      "url": "https://open.spotify.com/track/0wUFXsXHZc2h6wKRcmJNWF"
+      "duration_ms": 259533,
+      "name": "Lo Fr\u00e1gil De La Locura",
+      "url": "https://open.spotify.com/track/53LovEbSOlvxq2qj8EMWub"
     },
     {
       "added_at": "2024-06-12 23:26:13",
@@ -947,18 +931,18 @@
     {
       "added_at": "2024-06-12 23:26:13",
       "album": {
-        "name": "Jessico",
-        "url": "https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh"
+        "name": "Narig\u00f3n del Siglo, Yo Te Dejo Perfumado en la Esquina para Siempre",
+        "url": "https://open.spotify.com/album/4GkZExYLfegidZaO1BgpvU"
       },
       "artists": [
         {
-          "name": "Babasonicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+          "name": "Divididos",
+          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
         }
       ],
-      "duration_ms": 225050,
-      "name": "Rub\u00ed",
-      "url": "https://open.spotify.com/track/2Dsv2vdCfLucFIoECqAK6U"
+      "duration_ms": 198706,
+      "name": "Par Mil",
+      "url": "https://open.spotify.com/track/0wUFXsXHZc2h6wKRcmJNWF"
     },
     {
       "added_at": "2024-06-12 23:26:13",
@@ -979,18 +963,18 @@
     {
       "added_at": "2024-06-12 23:26:13",
       "album": {
-        "name": "SHOC",
-        "url": "https://open.spotify.com/album/42UGulXJ1NenBBDaVo3Vmz"
+        "name": "Jessico",
+        "url": "https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh"
       },
       "artists": [
         {
-          "name": "La 25",
-          "url": "https://open.spotify.com/artist/6UAMLsapd2AyfEAEVFaxmc"
+          "name": "Babasonicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
         }
       ],
-      "duration_ms": 255851,
-      "name": "Solo voy",
-      "url": "https://open.spotify.com/track/4saEiUudiabEQd8NFX02kb"
+      "duration_ms": 225050,
+      "name": "Rub\u00ed",
+      "url": "https://open.spotify.com/track/2Dsv2vdCfLucFIoECqAK6U"
     },
     {
       "added_at": "2024-06-12 23:26:13",
@@ -1007,6 +991,22 @@
       "duration_ms": 171333,
       "name": "No Me Vuelvo A Enamorar",
       "url": "https://open.spotify.com/track/0iii6zu0TV7pjvak7L5Ugg"
+    },
+    {
+      "added_at": "2024-06-12 23:26:13",
+      "album": {
+        "name": "SHOC",
+        "url": "https://open.spotify.com/album/42UGulXJ1NenBBDaVo3Vmz"
+      },
+      "artists": [
+        {
+          "name": "La 25",
+          "url": "https://open.spotify.com/artist/6UAMLsapd2AyfEAEVFaxmc"
+        }
+      ],
+      "duration_ms": 255851,
+      "name": "Solo voy",
+      "url": "https://open.spotify.com/track/4saEiUudiabEQd8NFX02kb"
     },
     {
       "added_at": "2024-06-12 23:26:13",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2024-06-12 23:26:13",
       "album": {
+        "name": "Corazon de Papel (Edicion Especial Remasterizada)",
+        "url": "https://open.spotify.com/album/3cAjRkxhlPdzmK7jhPT2XU"
+      },
+      "artists": [
+        {
+          "name": "Los Charros",
+          "url": "https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9"
+        }
+      ],
+      "duration_ms": 196306,
+      "name": "Amores Como el Nuestro",
+      "url": "https://open.spotify.com/track/0D5AiwyGN6UdrGNThCQgC3"
+    },
+    {
+      "added_at": "2024-06-12 23:26:13",
+      "album": {
         "name": "Discograf\u00eda Completa Vol.1",
         "url": "https://open.spotify.com/album/455BXTyu53QqEeFnStn2FP"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 308337,
       "name": "Duraznito",
       "url": "https://open.spotify.com/track/5tjqwBcn9WsaoaqS2oGJq2"
-    },
-    {
-      "added_at": "2024-06-12 23:26:13",
-      "album": {
-        "name": "Armando Camale\u00f3n",
-        "url": "https://open.spotify.com/album/1d8IGsUrIw7cXqFcwUM5pP"
-      },
-      "artists": [
-        {
-          "name": "Los Tipitos",
-          "url": "https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt"
-        }
-      ],
-      "duration_ms": 180066,
-      "name": "Brujer\u00eda",
-      "url": "https://open.spotify.com/track/2w8wIBE9r1OmP7EUrTaCTL"
     },
     {
       "added_at": "2024-06-12 23:26:13",
@@ -1139,34 +1139,18 @@
     {
       "added_at": "2024-06-12 23:26:13",
       "album": {
-        "name": "Un Mundo Diferente",
-        "url": "https://open.spotify.com/album/6lQH3MxpJygGIGs9mOZUNf"
+        "name": "Armando Camale\u00f3n",
+        "url": "https://open.spotify.com/album/1d8IGsUrIw7cXqFcwUM5pP"
       },
       "artists": [
         {
-          "name": "Diego Torres",
-          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
+          "name": "Los Tipitos",
+          "url": "https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt"
         }
       ],
-      "duration_ms": 305400,
-      "name": "Que No Me Pierda",
-      "url": "https://open.spotify.com/track/1hddbV736FaAFxMho50n75"
-    },
-    {
-      "added_at": "2024-06-12 23:26:13",
-      "album": {
-        "name": "Corazon de Papel (Edicion Especial Remasterizada)",
-        "url": "https://open.spotify.com/album/3cAjRkxhlPdzmK7jhPT2XU"
-      },
-      "artists": [
-        {
-          "name": "Los Charros",
-          "url": "https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9"
-        }
-      ],
-      "duration_ms": 196306,
-      "name": "Amores Como el Nuestro",
-      "url": "https://open.spotify.com/track/0D5AiwyGN6UdrGNThCQgC3"
+      "duration_ms": 180066,
+      "name": "Brujer\u00eda",
+      "url": "https://open.spotify.com/track/2w8wIBE9r1OmP7EUrTaCTL"
     },
     {
       "added_at": "2024-06-12 23:26:13",
@@ -1183,6 +1167,22 @@
       "duration_ms": 192226,
       "name": "Fue Amor",
       "url": "https://open.spotify.com/track/7c7e0Gr9AOzmJ8rDvOknI1"
+    },
+    {
+      "added_at": "2024-06-12 23:26:13",
+      "album": {
+        "name": "Un Mundo Diferente",
+        "url": "https://open.spotify.com/album/6lQH3MxpJygGIGs9mOZUNf"
+      },
+      "artists": [
+        {
+          "name": "Diego Torres",
+          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
+        }
+      ],
+      "duration_ms": 305400,
+      "name": "Que No Me Pierda",
+      "url": "https://open.spotify.com/track/1hddbV736FaAFxMho50n75"
     },
     {
       "added_at": "2024-06-12 23:26:13",
@@ -1611,18 +1611,18 @@
     {
       "added_at": "2024-06-12 23:26:13",
       "album": {
-        "name": "Detonador de Sue\u00f1os",
-        "url": "https://open.spotify.com/album/7hHY77bNkcPikVZpC91hvZ"
+        "name": "De Culo",
+        "url": "https://open.spotify.com/album/4uWmPFt2rsaSqHslirD3S2"
       },
       "artists": [
         {
-          "name": "La Renga",
-          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
+          "name": "Yerba Brava",
+          "url": "https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6"
         }
       ],
-      "duration_ms": 264838,
-      "name": "La Raz\u00f3n Que Te Demora",
-      "url": "https://open.spotify.com/track/0ljyHIWERJQp8O5LKgKm1l"
+      "duration_ms": 130481,
+      "name": "Naty Bum Bum",
+      "url": "https://open.spotify.com/track/6b1cUW3hBwjlXrermDMkn5"
     }
   ],
   "unique_name": "Los 2000 Argentina",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wkzYc.md) - [plain]
 
 > This is Edicion Especial\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,835 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,877 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wkzYc.md) - [plain]
 | 43 | [Hoy Ya Me Voy](https://open.spotify.com/track/01KN2l362wczyvdO9mgW0v) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Hoy Ya Me Voy](https://open.spotify.com/album/4Zgr06GJIQG1Gk8g6WWnq2) | 4:19 |
 | 44 | [El Chico \- En Vivo](https://open.spotify.com/track/74sZC4Ct0aNy3pCzvWV2bL) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [El Chico \(En Vivo\)](https://open.spotify.com/album/6nQUSaf8PN31ZjjAl5LFgF) | 2:27 |
 | 45 | [Que Te Vaya Bien](https://open.spotify.com/track/3YQATpvpO7hgbOoY8YW4gG) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Que Te Vaya Bien](https://open.spotify.com/album/6GHd359vpc5mjD3kiAa1fi) | 3:58 |
-| 46 | [Amarte](https://open.spotify.com/track/3VsZq5Vg6TYFyIUhMlMQRC) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Playball](https://open.spotify.com/album/21U9S9xssH5BdAzviBLUGN) | 2:40 |
-| 47 | [El 3](https://open.spotify.com/track/4rTn8d1MKx0306cqiKrOlM) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Corridos](https://open.spotify.com/album/4KL4KUntyx980R5Lix6Jc5) | 3:39 |
+| 46 | [El 3](https://open.spotify.com/track/4rTn8d1MKx0306cqiKrOlM) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Corridos](https://open.spotify.com/album/4KL4KUntyx980R5Lix6Jc5) | 3:39 |
+| 47 | [Amarte](https://open.spotify.com/track/3VsZq5Vg6TYFyIUhMlMQRC) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Playball](https://open.spotify.com/album/21U9S9xssH5BdAzviBLUGN) | 2:40 |
 | 48 | [Gracias](https://open.spotify.com/track/1pBoAagFm4bc2Thz3OspOg) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Gracias](https://open.spotify.com/album/1sJUoP1CZBV6O5Ee19W6mE) | 4:25 |
 | 49 | [La Super Del Barril](https://open.spotify.com/track/6HjLOag0JzUheMcTrMGVL4) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi), [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U) | [La Super Del Barril](https://open.spotify.com/album/1GN1V9GFypeKwM2xclRkRo) | 3:17 |
 | 50 | [Me Vuelve Loco](https://open.spotify.com/track/1mujNkrbZ6RWzGBW5cDQSb) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Rompecabezas](https://open.spotify.com/album/2TglIIPT5aWVK9tmmXKASd) | 3:52 |
 
-Snapshot ID: `afU+gAAAAAABm+v0vAqrdtJMf44wqugb`
+Snapshot ID: `afaQAAAAAADtcBd6kLdE41zNXryrDFDl`

@@ -1,6 +1,6 @@
 {
   "description": "Recuerda la d\u00e9cada de los acampanados, patillas y cuellos picudos. Juan Gabriel en portada.",
-  "num_followers": 350680,
+  "num_followers": 350722,
   "original_name": "Los 70 M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -267,22 +267,6 @@
     {
       "added_at": "2019-09-04 23:38:38",
       "album": {
-        "name": "Adicto al Rock N Roll",
-        "url": "https://open.spotify.com/album/5V0WSZ1ihWk7bbDZ9O4LoQ"
-      },
-      "artists": [
-        {
-          "name": "Three Souls In My Mind",
-          "url": "https://open.spotify.com/artist/0FWt6THmobpdzk7727cq2R"
-        }
-      ],
-      "duration_ms": 208866,
-      "name": "Chavo de Onda",
-      "url": "https://open.spotify.com/track/5OefRQlG7PuOMXuRLq5wuf"
-    },
-    {
-      "added_at": "2019-09-04 23:38:38",
-      "album": {
         "name": "Ultimate Santana",
         "url": "https://open.spotify.com/album/6FbFvnlSfEoNhwz5MdK0Dx"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 258240,
       "name": "Oye Como Va",
       "url": "https://open.spotify.com/track/4IFwoDrcZN0wjJnCjuTEx8"
+    },
+    {
+      "added_at": "2019-09-04 23:38:38",
+      "album": {
+        "name": "Adicto al Rock N Roll",
+        "url": "https://open.spotify.com/album/5V0WSZ1ihWk7bbDZ9O4LoQ"
+      },
+      "artists": [
+        {
+          "name": "Three Souls In My Mind",
+          "url": "https://open.spotify.com/artist/0FWt6THmobpdzk7727cq2R"
+        }
+      ],
+      "duration_ms": 208866,
+      "name": "Chavo de Onda",
+      "url": "https://open.spotify.com/track/5OefRQlG7PuOMXuRLq5wuf"
     },
     {
       "added_at": "2019-09-04 23:38:38",
@@ -395,34 +395,18 @@
     {
       "added_at": "2019-09-04 23:38:38",
       "album": {
-        "name": "Simplemente Lo Mejor...Victor Yturbe \"El Piruli\"",
-        "url": "https://open.spotify.com/album/7uifn5SvzCTCMffh4u7n8o"
+        "name": "15 De Coleccion",
+        "url": "https://open.spotify.com/album/1PXHqWOWHjTXBIrjmr4q1t"
       },
       "artists": [
         {
-          "name": "Victor Yturbe \"El Piruli\"",
-          "url": "https://open.spotify.com/artist/288DN4mD1eyvKyVz8So3HB"
+          "name": "Los Socios Del Ritmo",
+          "url": "https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW"
         }
       ],
-      "duration_ms": 231040,
-      "name": "Ver\u00f3nica",
-      "url": "https://open.spotify.com/track/6V13qiStrqVyBnbK9QSZlI"
-    },
-    {
-      "added_at": "2019-09-04 23:38:38",
-      "album": {
-        "name": "Oscar Ch\u00e1vez / La M\u00e1s Completa Colecci\u00f3n",
-        "url": "https://open.spotify.com/album/47J1O0MfeIVexX6SpIoAFv"
-      },
-      "artists": [
-        {
-          "name": "\u00d3scar Ch\u00e1vez",
-          "url": "https://open.spotify.com/artist/4QHjJWgPhculd31AHEsjOb"
-        }
-      ],
-      "duration_ms": 216066,
-      "name": "Macondo",
-      "url": "https://open.spotify.com/track/35gLpi0XDCzMyQVwBdbuVu"
+      "duration_ms": 198680,
+      "name": "Vamos A Platicar",
+      "url": "https://open.spotify.com/track/7lCnTYtFceL7xfc1yAuxFz"
     },
     {
       "added_at": "2019-09-04 23:38:38",
@@ -443,18 +427,34 @@
     {
       "added_at": "2019-09-04 23:38:38",
       "album": {
-        "name": "15 De Coleccion",
-        "url": "https://open.spotify.com/album/1PXHqWOWHjTXBIrjmr4q1t"
+        "name": "Oscar Ch\u00e1vez / La M\u00e1s Completa Colecci\u00f3n",
+        "url": "https://open.spotify.com/album/47J1O0MfeIVexX6SpIoAFv"
       },
       "artists": [
         {
-          "name": "Los Socios Del Ritmo",
-          "url": "https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW"
+          "name": "\u00d3scar Ch\u00e1vez",
+          "url": "https://open.spotify.com/artist/4QHjJWgPhculd31AHEsjOb"
         }
       ],
-      "duration_ms": 198680,
-      "name": "Vamos A Platicar",
-      "url": "https://open.spotify.com/track/7lCnTYtFceL7xfc1yAuxFz"
+      "duration_ms": 216066,
+      "name": "Macondo",
+      "url": "https://open.spotify.com/track/35gLpi0XDCzMyQVwBdbuVu"
+    },
+    {
+      "added_at": "2019-09-04 23:38:38",
+      "album": {
+        "name": "Simplemente Lo Mejor...Victor Yturbe \"El Piruli\"",
+        "url": "https://open.spotify.com/album/7uifn5SvzCTCMffh4u7n8o"
+      },
+      "artists": [
+        {
+          "name": "Victor Yturbe \"El Piruli\"",
+          "url": "https://open.spotify.com/artist/288DN4mD1eyvKyVz8So3HB"
+        }
+      ],
+      "duration_ms": 231040,
+      "name": "Ver\u00f3nica",
+      "url": "https://open.spotify.com/track/6V13qiStrqVyBnbK9QSZlI"
     },
     {
       "added_at": "2023-03-25 17:43:32",
@@ -683,22 +683,6 @@
     {
       "added_at": "2019-09-04 23:38:38",
       "album": {
-        "name": "25 Exitos",
-        "url": "https://open.spotify.com/album/5JMgIEiwX8WsKZf9CYz4We"
-      },
-      "artists": [
-        {
-          "name": "Gualberto Castro",
-          "url": "https://open.spotify.com/artist/31YYMJNqlsj6dAlZLjShbC"
-        }
-      ],
-      "duration_ms": 237066,
-      "name": "Hasta Que Vuelvas",
-      "url": "https://open.spotify.com/track/0f8AMcclUWij6oCjYiyLQg"
-    },
-    {
-      "added_at": "2019-09-04 23:38:38",
-      "album": {
         "name": "Que Alegre Va Mar\u00eda",
         "url": "https://open.spotify.com/album/1ttlxUfJimVo4kiyXCrxa9"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 163706,
       "name": "Voy a Rifar Mi Coraz\u00f3n",
       "url": "https://open.spotify.com/track/5kzDgkyl2iAo4qEitoqU5n"
+    },
+    {
+      "added_at": "2019-09-04 23:38:38",
+      "album": {
+        "name": "25 Exitos",
+        "url": "https://open.spotify.com/album/5JMgIEiwX8WsKZf9CYz4We"
+      },
+      "artists": [
+        {
+          "name": "Gualberto Castro",
+          "url": "https://open.spotify.com/artist/31YYMJNqlsj6dAlZLjShbC"
+        }
+      ],
+      "duration_ms": 237066,
+      "name": "Hasta Que Vuelvas",
+      "url": "https://open.spotify.com/track/0f8AMcclUWij6oCjYiyLQg"
     },
     {
       "added_at": "2019-09-04 23:38:38",

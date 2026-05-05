@@ -2007,6 +2007,24 @@
     },
     {
       "album": {
+        "name": "chce Twoje zarazki",
+        "url": "https://open.spotify.com/album/6lG2MHCF8CPxnSy8o6EBW1"
+      },
+      "artists": [
+        {
+          "name": "wi\u015bniosz",
+          "url": "https://open.spotify.com/artist/4UcIjZwZDS7epHIoNUtwzu"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168965,
+      "name": "chce Twoje zarazki",
+      "url": "https://open.spotify.com/track/4RNfRk8YAv28vlF3bplP2t"
+    },
+    {
+      "album": {
         "name": "Chcia\u0142abym By\u0107 Zwyk\u0142a...",
         "url": "https://open.spotify.com/album/28N73ugZB91YH3HEuVMHJd"
       },
@@ -13758,7 +13776,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 133686,
       "name": "UFO",
       "url": "https://open.spotify.com/track/3kMm00fo2cVmvwyW5hFPRv"

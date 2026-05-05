@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Az 50 legn\u00e9pszer\u0171bb dal Magyarorsz\u00e1gon. Cover: Pog\u00e1ny Indul\u00f3",
+  "description": "Az 50 legn\u00e9pszer\u0171bb dal Magyarorsz\u00e1gon. Cover: T. Danny",
   "name": "Hot Hits Magyarorsz\u00e1g",
   "tracks": [
     {
@@ -60,6 +60,28 @@
       "duration_ms": 156521,
       "name": "45 Primo",
       "url": "https://open.spotify.com/track/1iJSUAeT5x2fooS8jFg7cy"
+    },
+    {
+      "album": {
+        "name": "A MASZK",
+        "url": "https://open.spotify.com/album/7GAIOSkRnnTyYnoziR7I1y"
+      },
+      "artists": [
+        {
+          "name": "T. Danny",
+          "url": "https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG"
+        },
+        {
+          "name": "VINI",
+          "url": "https://open.spotify.com/artist/7Ac0uxdCzBBRgjbtel2bbV"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145531,
+      "name": "8",
+      "url": "https://open.spotify.com/track/19eAMzR3dZZVdPMfCkU1Wb"
     },
     {
       "album": {
@@ -492,7 +514,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 146666,
       "name": "BOTR\u00c1NY",
       "url": "https://open.spotify.com/track/4sNX1xMPVtgYrrPWFKoOhF"
@@ -548,7 +570,7 @@
       ],
       "date_added": "2026-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 188235,
       "name": "BUDAI GETT\u00d3",
       "url": "https://open.spotify.com/track/5fMwBmQDvzR4NlDPbNklZf"
@@ -1122,6 +1144,28 @@
       "duration_ms": 183928,
       "name": "EVIL J0RDAN",
       "url": "https://open.spotify.com/track/6iycYUk3oB0NPMdaDUrN1w"
+    },
+    {
+      "album": {
+        "name": "VINNER DELUXE",
+        "url": "https://open.spotify.com/album/3dj07tLV6pPxW4YGzF21Ni"
+      },
+      "artists": [
+        {
+          "name": "VINI",
+          "url": "https://open.spotify.com/artist/7Ac0uxdCzBBRgjbtel2bbV"
+        },
+        {
+          "name": "Sofi",
+          "url": "https://open.spotify.com/artist/6Ng4zfUKTRC1ZLMCQcsBrK"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145950,
+      "name": "EX N GO",
+      "url": "https://open.spotify.com/track/6nvDIhdi3Dcet4sIZR5qDk"
     },
     {
       "album": {
@@ -1730,7 +1774,7 @@
       ],
       "date_added": "2026-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 180042,
       "name": "Kapit\u00e1ny",
       "url": "https://open.spotify.com/track/0tey8bGlUjHlfVr0LFJYb6"
@@ -3006,7 +3050,7 @@
       ],
       "date_added": "2026-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 219743,
       "name": "Raindance (feat. Tems)",
       "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
@@ -3248,6 +3292,24 @@
       "duration_ms": 139014,
       "name": "seholse",
       "url": "https://open.spotify.com/track/3NSBh6qLvHPHMVoj4ET5Rc"
+    },
+    {
+      "album": {
+        "name": "Self Aware",
+        "url": "https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M"
+      },
+      "artists": [
+        {
+          "name": "Temper City",
+          "url": "https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180740,
+      "name": "Self Aware",
+      "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
     },
     {
       "album": {
@@ -3970,6 +4032,28 @@
       "duration_ms": 175956,
       "name": "TIT FOR TAT",
       "url": "https://open.spotify.com/track/04a44cx2PJthIbN2aLMXhl"
+    },
+    {
+      "album": {
+        "name": "TITANIK",
+        "url": "https://open.spotify.com/album/6a6wXMsFMObqPzuVsA1FMP"
+      },
+      "artists": [
+        {
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+        },
+        {
+          "name": "GHO$TY",
+          "url": "https://open.spotify.com/artist/0Tx80XEW9rizsKS5GkVwrX"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163880,
+      "name": "TITANIK",
+      "url": "https://open.spotify.com/track/6SxtaMa9JVSPdItvtyobqG"
     },
     {
       "album": {

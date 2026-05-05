@@ -4,7 +4,7 @@
 
 > Pop for neon streets, rainy windows, and everything you still feel after dark.
 
-852 songs - 1 day 23 hr 47 min
+853 songs - 1 day 23 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,12 +137,13 @@
 | [Cold](https://open.spotify.com/track/5jYe1mOKg5zUx0enf1DOdz) | [Boy In Space](https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP), [unheard](https://open.spotify.com/artist/4yUqy7ZriHOrcenY7R63et) | [Cold](https://open.spotify.com/album/0Vci60496fhTWcRODhFCYM) | 3:23 | 2020-10-13\* | 2021-07-17 |
 | [Cold Killer](https://open.spotify.com/track/0lwCIykH3nebbJevHiJRhf) | [noelle](https://open.spotify.com/artist/0UBB7UD8Lvt7UesGnXDRpy) | [Cold Killer](https://open.spotify.com/album/0Bn7DT5CEtYArcKk3X2ffw) | 2:39 | 2022-10-07 | 2022-12-03 |
 | [Cold Waters](https://open.spotify.com/track/13SnOkOo4NBFmdNLPcfmx7) | [Hong Kong Boyfriend](https://open.spotify.com/artist/7lDgh1Efb7gDBPxtYWd7ui) | [Cold Waters](https://open.spotify.com/album/0bgkKWGxGhWRgtV4cnoNwF) | 2:55 | 2021-02-19 | 2021-07-17 |
-| [COLLAPSE PHASE](https://open.spotify.com/track/7ubcBnScUvAhrOWgIob519) | [KÁRYYN](https://open.spotify.com/artist/4DLYIUgjZAea6vgzGwJUTI) | [COLLAPSE PHASE](https://open.spotify.com/album/05m2oQcE9oqxc6T7iAoYV5) | 4:16 | 2026-01-23 |  |
+| [COLLAPSE PHASE](https://open.spotify.com/track/7ubcBnScUvAhrOWgIob519) | [KÁRYYN](https://open.spotify.com/artist/4DLYIUgjZAea6vgzGwJUTI) | [COLLAPSE PHASE](https://open.spotify.com/album/05m2oQcE9oqxc6T7iAoYV5) | 4:16 | 2026-01-23 | 2026-05-05 |
 | [cologne](https://open.spotify.com/track/4fg9f45CwQmbGbwsdH1q4h) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [cologne](https://open.spotify.com/album/2H1DLafa0NXc3NxvC7Iqse) | 3:50 | 2020-10-13\* | 2020-11-18 |
 | [Colourblind](https://open.spotify.com/track/3G7f7oJuDmJ7CFgbkfDiJp) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [The Kids Are Coming \- EP](https://open.spotify.com/album/49QPpqyxeTbzWHUJpZuUsC) | 3:26 | 2020-10-13\* | 2020-11-18 |
 | [Come As You Are](https://open.spotify.com/track/02iQfxXKbeR8L0AuGWrt9c) | [SHAED](https://open.spotify.com/artist/3KwmxIhSe9UTSEF37kwngR) | [Come As You Are](https://open.spotify.com/album/18yErQMF59Oup4SvhmCoEm) | 2:36 | 2022-03-09 | 2022-07-30 |
 | [Come Down](https://open.spotify.com/track/1tk9GzJ9eLsoRL3ZRtAPK3) | [Cera Gibson](https://open.spotify.com/artist/1Hiacf7uM6oGW5uXHDFYae) | [Come Down](https://open.spotify.com/album/19TjD0BJcRrNMMoIbPwyto) | 3:12 | 2024-08-06 | 2024-10-26 |
 | [Company](https://open.spotify.com/track/0erTUYYdEbOI6Pg50WItD1) | [NIMMO](https://open.spotify.com/artist/76MojWoWNPzzKdrEspy5sl) | [Company](https://open.spotify.com/album/74ZAayQtelkU7pLkKLsCiV) | 3:36 | 2022-07-11 | 2022-08-06 |
+| [Constant](https://open.spotify.com/track/4NmWTl0LhsqM63HJYPhUbd) | [Kate Boy](https://open.spotify.com/artist/6puqyrpoPdFNxDJ8KPy2pE) | [Constant](https://open.spotify.com/album/75Te5SUTKpFigsRm4CBZbQ) | 3:37 | 2026-05-04 |  |
 | [Constant Repeat](https://open.spotify.com/track/0U9ltIN4q3aBKGZDZq5cAW) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [CRASH](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) | 3:09 | 2022-04-16 | 2022-12-29 |
 | [cool](https://open.spotify.com/track/11G215Sz8i5QKoU7OnAcON) | [Uffie](https://open.spotify.com/artist/2s6lxOYvvCvzpHtd3VyuMj) | [cool](https://open.spotify.com/album/5QwVVZAzqo78YXOIcwcWU2) | 3:06 | 2021-09-25 | 2022-03-18 |
 | [cool water](https://open.spotify.com/track/188d9yxQ59ZUuHnJ927vXM) | [dayaway](https://open.spotify.com/artist/6doiARNekKDdYtgBXIE5tX) | [cool water](https://open.spotify.com/album/1kCw98SsS5gJ2C1gJwF5JL) | 3:18 | 2022-03-25 | 2022-11-04 |

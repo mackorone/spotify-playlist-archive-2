@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Wc5ry.md) - [plain]
 
 > This is Outkast\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,852 likes - 50 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,867 likes - 50 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,13 +35,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Wc5ry.md) - [plain]
 | 25 | [Wheelz of Steel](https://open.spotify.com/track/5qKqRkWnRTXNVWbEOOmGxk) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [ATLiens](https://open.spotify.com/album/1IaBCF26OjgYwUCEPaIyC0) | 4:03 |
 | 26 | [Git Up, Git Out \(feat\. Goodie Mob\)](https://open.spotify.com/track/6XadDzmDVhtEQ1Itt5t8h8) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7), [Goodie Mob](https://open.spotify.com/artist/3F2Y683ovlWT53WKCeq0oj) | [Southernplayalisticadillacmuzik](https://open.spotify.com/album/3l5AwLKqQ42VJbc5lTuP8G) | 7:27 |
 | 27 | [Black Ice \(Sky High\) \(feat\. Outkast\)](https://open.spotify.com/track/0Uu8BPsWQGZk5AiRN3uBwn) | [Goodie Mob](https://open.spotify.com/artist/3F2Y683ovlWT53WKCeq0oj), [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Still Standing](https://open.spotify.com/album/0MMxX1jX2lwR1iKRuB7yG7) | 3:25 |
-| 28 | [West Savannah](https://open.spotify.com/track/5yTQ7Vy6EwKwB64Vho90LI) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Aquemini](https://open.spotify.com/album/5ceB3rxgXqIRpsOvVzTG28) | 4:06 |
+| 28 | [I Can't Wait](https://open.spotify.com/track/23XFjkEHUpVh3fmcNJFkaR) | [Sleepy Brown](https://open.spotify.com/artist/7Dnu2NmddNymEI2LMZVH5v), [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [I Can't Wait featuring Outkast](https://open.spotify.com/album/4roCYuHEKOHiiheXi8sKiT) | 4:32 |
 | 29 | [Millennium](https://open.spotify.com/track/50Fp9rUhDZvGJ4UUz4mTwp) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [ATLiens](https://open.spotify.com/album/1IaBCF26OjgYwUCEPaIyC0) | 3:09 |
-| 30 | [Crumblin' Erb](https://open.spotify.com/track/3T790QTg0ebUUk5tCRbtbN) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Southernplayalisticadillacmuzik](https://open.spotify.com/album/3l5AwLKqQ42VJbc5lTuP8G) | 5:09 |
-| 31 | [I Can't Wait](https://open.spotify.com/track/23XFjkEHUpVh3fmcNJFkaR) | [Sleepy Brown](https://open.spotify.com/artist/7Dnu2NmddNymEI2LMZVH5v), [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [I Can't Wait featuring Outkast](https://open.spotify.com/album/4roCYuHEKOHiiheXi8sKiT) | 4:32 |
+| 30 | [Hootie Hoo](https://open.spotify.com/track/2B7hM098uEDiLJqTsUY4Ba) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Southernplayalisticadillacmuzik](https://open.spotify.com/album/3l5AwLKqQ42VJbc5lTuP8G) | 3:58 |
+| 31 | [West Savannah](https://open.spotify.com/track/5yTQ7Vy6EwKwB64Vho90LI) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Aquemini](https://open.spotify.com/album/5ceB3rxgXqIRpsOvVzTG28) | 4:06 |
 | 32 | [Gasoline Dreams \(with Khujo Goodie\)](https://open.spotify.com/track/1Jo3u8eXp8xobbrvq0FIi9) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7), [Khujo Goodie](https://open.spotify.com/artist/28i3mntNBlXpjstb1nHhkJ) | [Stankonia](https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj) | 3:34 |
 | 33 | [In Due Time \(with Cee\-Lo\)](https://open.spotify.com/track/0F7IWMsRmk9P9ML4prVlr0) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7), [CeeLo Green](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8) | [In Due Time](https://open.spotify.com/album/06ECofyrsfq7eyIoeWV0QU) | 4:20 |
-| 34 | [Hootie Hoo](https://open.spotify.com/track/2B7hM098uEDiLJqTsUY4Ba) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Southernplayalisticadillacmuzik](https://open.spotify.com/album/3l5AwLKqQ42VJbc5lTuP8G) | 3:58 |
+| 34 | [Crumblin' Erb](https://open.spotify.com/track/3T790QTg0ebUUk5tCRbtbN) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Southernplayalisticadillacmuzik](https://open.spotify.com/album/3l5AwLKqQ42VJbc5lTuP8G) | 5:09 |
 | 35 | [Walk It Out](https://open.spotify.com/track/1Zk1RUC3Lazme2erBiixIS) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7), [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe), [Unk](https://open.spotify.com/artist/0PGtMx1bsqoCHCy3MB3gXA) | [Street Swag, Vol\. 2](https://open.spotify.com/album/2A89rexB6sUic5498mls4J) | 3:20 |
 | 36 | [Spaghetti Junction](https://open.spotify.com/track/1ZosUXeZM3qlTWdL1uTrhm) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Stankonia](https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj) | 3:57 |
 | 37 | [The Art of Storytellin, Pt\. 4 \(feat\. Outkast & Marsha Ambrosius\)](https://open.spotify.com/track/6SMwDEKfm0hlVErawcdRAK) | [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7), [Marsha Ambrosius](https://open.spotify.com/artist/46VWDbmWmzvPBTmkSr25gM) | [Gangsta Grillz The Album](https://open.spotify.com/album/68lSPhhVV4hoe95OIaAwec) | 4:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Wc5ry.md) - [plain]
 | 49 | [Movin' Cool \(The After Party\)](https://open.spotify.com/track/4voVMCnHRiN0EEyRt3Gwni) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Big Boi & Dre Present...OutKast](https://open.spotify.com/album/5OJKj1KGQEM1pnHtuvY0It) | 3:59 |
 | 50 | [Mighty "O"](https://open.spotify.com/track/25EtWmcUALs9Gtfiv7Bcab) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Idlewild](https://open.spotify.com/album/3L6JBfRxhzGzhhRDlTEdBz) | 4:16 |
 
-Snapshot ID: `afU+gAAAAAD1xRA6Wn9vl9MQorBnf8pd`
+Snapshot ID: `afaQAAAAAAAKfzQxny3R5AMlCuBt9rF8`

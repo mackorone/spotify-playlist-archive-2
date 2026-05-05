@@ -1,12 +1,12 @@
 {
   "description": "This is Lola Young. The essential tracks, all in one playlist.",
-  "num_followers": 49922,
+  "num_followers": 49938,
   "original_name": "This Is Lola Young",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afU+gAAAAAB81yXq1z1/V/HAF33FeqCi",
+  "snapshot_id": "afaQAAAAAACwswTN7WsJuRvqR+u7issj",
   "tracks": [
     {
       "added_at": null,
@@ -627,8 +627,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blue (2AM)",
-        "url": "https://open.spotify.com/album/6fObx5V4teMIbn52o3qTse"
+        "name": "Renaissance",
+        "url": "https://open.spotify.com/album/1E1voIf1Str4mMaAZXegXY"
       },
       "artists": [
         {
@@ -636,9 +636,9 @@
           "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
         }
       ],
-      "duration_ms": 201851,
-      "name": "Blue (2AM)",
-      "url": "https://open.spotify.com/track/7pb7fw21xzGuBTVOriBmtX"
+      "duration_ms": 212690,
+      "name": "None For You",
+      "url": "https://open.spotify.com/track/2mcWClBQk8SbJpL9aMMNir"
     },
     {
       "added_at": null,
@@ -675,8 +675,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Renaissance",
-        "url": "https://open.spotify.com/album/1E1voIf1Str4mMaAZXegXY"
+        "name": "Blue (2AM)",
+        "url": "https://open.spotify.com/album/6fObx5V4teMIbn52o3qTse"
       },
       "artists": [
         {
@@ -684,9 +684,9 @@
           "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
         }
       ],
-      "duration_ms": 212690,
-      "name": "None For You",
-      "url": "https://open.spotify.com/track/2mcWClBQk8SbJpL9aMMNir"
+      "duration_ms": 201851,
+      "name": "Blue (2AM)",
+      "url": "https://open.spotify.com/track/7pb7fw21xzGuBTVOriBmtX"
     },
     {
       "added_at": null,

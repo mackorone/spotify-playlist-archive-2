@@ -2394,7 +2394,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 256218,
       "name": "COLLAPSE PHASE",
       "url": "https://open.spotify.com/track/7ubcBnScUvAhrOWgIob519"
@@ -2488,6 +2488,24 @@
       "duration_ms": 216179,
       "name": "Company",
       "url": "https://open.spotify.com/track/0erTUYYdEbOI6Pg50WItD1"
+    },
+    {
+      "album": {
+        "name": "Constant",
+        "url": "https://open.spotify.com/album/75Te5SUTKpFigsRm4CBZbQ"
+      },
+      "artists": [
+        {
+          "name": "Kate Boy",
+          "url": "https://open.spotify.com/artist/6puqyrpoPdFNxDJ8KPy2pE"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217001,
+      "name": "Constant",
+      "url": "https://open.spotify.com/track/4NmWTl0LhsqM63HJYPhUbd"
     },
     {
       "album": {

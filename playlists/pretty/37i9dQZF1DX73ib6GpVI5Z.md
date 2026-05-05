@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX73ib6GpVI5Z.md) - [plain]
 
 > Enjoy music from legendary "Anpanman" series! /「それいけ!アンパンマン」から数々の名曲を1つのプレイリストに。<br/>\(C\)やなせたかし／フレーベル館・TMS・NTV
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,737 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,751 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX73ib6GpVI5Z.md) - [plain]
 | 28 | [ハヒフヘばいきんまん](https://open.spotify.com/track/4Ny1QQX6pkRYeV047XdLjc) | [中尾隆聖 \(ばいきんまん\)](https://open.spotify.com/artist/468rrFUOTJ2Oa7Wox9ptho), [鶴ひろみ \(ドキンちゃん\)](https://open.spotify.com/artist/11sAsEvOfzI5pzzToXzHWG), [平野綾（コキンちゃん）](https://open.spotify.com/artist/6GRxeUq0NJ4XgqitCyJZvz) | [それいけ！アンパンマン ベストヒット'13](https://open.spotify.com/album/6ngjF7VE4ylUtdEpIKody0) | 3:14 |
 | 29 | [あおいなみだ \-コキンのうた\-](https://open.spotify.com/track/68xfCY6kwGsdMWjsXX99Qr) | [平野綾（コキンちゃん）](https://open.spotify.com/artist/6GRxeUq0NJ4XgqitCyJZvz) | [それいけ！アンパンマン ベストヒット'14](https://open.spotify.com/album/6EVeFh2PA9ysUf0JWeQL92) | 3:02 |
 | 30 | [すすめ！アンパンマン号](https://open.spotify.com/track/05rS7yCJG7G9vnMb6rnWAR) | [戸田恵子 \(アンパンマン\)](https://open.spotify.com/artist/2gBqMXiaVeB6af4dDB5cP7), [中尾隆聖 \(ばいきんまん\)](https://open.spotify.com/artist/468rrFUOTJ2Oa7Wox9ptho) | [それいけ！アンパンマン ベストヒット’18](https://open.spotify.com/album/6UtksUKDvgPLVlhoQbbVTw) | 3:40 |
-| 31 | [どんぶりまんトリオ うきうき歌](https://open.spotify.com/track/29EsQIFpDNIYDBHyvi4hJh) | [坂本千夏 \(てんどんまん\)](https://open.spotify.com/artist/4V7B51RciMPnbx203XtuwQ), [三ツ矢雄二 \(カツドンマン\)](https://open.spotify.com/artist/55QGfq8evmKQcKMhCXOlK2), [山寺宏一 \(かまめしどん\)](https://open.spotify.com/artist/4HZfYMYleDFBGxXqtsjXvp) | [それいけ！アンパンマン ベストヒット'14](https://open.spotify.com/album/6EVeFh2PA9ysUf0JWeQL92) | 2:59 |
-| 32 | [Do You Know カツドン？](https://open.spotify.com/track/3aRiNq6y0pPSltzmhHIJOv) | [三ツ矢雄二 \(カツドンマン\)](https://open.spotify.com/artist/55QGfq8evmKQcKMhCXOlK2) | [それいけ！アンパンマン ベストヒット'15](https://open.spotify.com/album/5zO6exCqlJ1HX4co8xfcb6) | 2:58 |
-| 33 | [やきそばパンマン流れ旅](https://open.spotify.com/track/7CbDgOKol2QhV1OSB2cnne) | [小杉十郎太 \(やきそばパンマン\)](https://open.spotify.com/artist/6rMukQYo4K5VJ7UN1XDtDa) | [それいけ！アンパンマン ベストヒット'14](https://open.spotify.com/album/6EVeFh2PA9ysUf0JWeQL92) | 3:08 |
+| 31 | [やきそばパンマン流れ旅](https://open.spotify.com/track/7CbDgOKol2QhV1OSB2cnne) | [小杉十郎太 \(やきそばパンマン\)](https://open.spotify.com/artist/6rMukQYo4K5VJ7UN1XDtDa) | [それいけ！アンパンマン ベストヒット'14](https://open.spotify.com/album/6EVeFh2PA9ysUf0JWeQL92) | 3:08 |
+| 32 | [どんぶりまんトリオ うきうき歌](https://open.spotify.com/track/29EsQIFpDNIYDBHyvi4hJh) | [坂本千夏 \(てんどんまん\)](https://open.spotify.com/artist/4V7B51RciMPnbx203XtuwQ), [三ツ矢雄二 \(カツドンマン\)](https://open.spotify.com/artist/55QGfq8evmKQcKMhCXOlK2), [山寺宏一 \(かまめしどん\)](https://open.spotify.com/artist/4HZfYMYleDFBGxXqtsjXvp) | [それいけ！アンパンマン ベストヒット'14](https://open.spotify.com/album/6EVeFh2PA9ysUf0JWeQL92) | 2:59 |
+| 33 | [Do You Know カツドン？](https://open.spotify.com/track/3aRiNq6y0pPSltzmhHIJOv) | [三ツ矢雄二 \(カツドンマン\)](https://open.spotify.com/artist/55QGfq8evmKQcKMhCXOlK2) | [それいけ！アンパンマン ベストヒット'15](https://open.spotify.com/album/5zO6exCqlJ1HX4co8xfcb6) | 2:58 |
 | 34 | [山育ちかまめしどん](https://open.spotify.com/track/3ZepeGHQBVqRIcnbtQ7VIO) | [山寺宏一 \(かまめしどん\)](https://open.spotify.com/artist/4HZfYMYleDFBGxXqtsjXvp) | [それいけ！アンパンマン ベストヒット'15](https://open.spotify.com/album/5zO6exCqlJ1HX4co8xfcb6) | 2:57 |
 | 35 | [いとまきのうた](https://open.spotify.com/track/12FaMtHsyr8gyhyfEFJR7x) | [戸田恵子 \(アンパンマン\)](https://open.spotify.com/artist/2gBqMXiaVeB6af4dDB5cP7), [中尾隆聖 \(ばいきんまん\)](https://open.spotify.com/artist/468rrFUOTJ2Oa7Wox9ptho), [鶴ひろみ \(ドキンちゃん\)](https://open.spotify.com/artist/11sAsEvOfzI5pzzToXzHWG) | [それいけ！アンパンマン ハッピーおたんじょうび 冬生まれのみんなのうた 12月・1月・2月生まれのおともだちへ](https://open.spotify.com/album/5Dpp039N5o4TMTukybi863) | 1:13 |
 | 36 | [勇気りんりん ～クラシックバージョン～](https://open.spotify.com/track/4n9S0GumHoglG8w8eY0bGO) | [Czech Philharmonic Chamber Orchestra](https://open.spotify.com/artist/15TbaQl7va7MrUviXt4l7M) | [それいけ！アンパンマン アンパンマンといっしょにクリスマス](https://open.spotify.com/album/1jRylg86J2D3rQVWtszRvv) | 3:31 |

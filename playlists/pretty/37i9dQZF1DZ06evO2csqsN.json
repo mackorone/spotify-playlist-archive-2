@@ -1,12 +1,12 @@
 {
   "description": "This is Latto. The essential tracks, all in one playlist.",
-  "num_followers": 40462,
+  "num_followers": 40470,
   "original_name": "This Is Latto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afU+gAAAAAAgr0eV5zxjKud292ctSLvq",
+  "snapshot_id": "afaQAAAAAAD3IpAKxrvkJgpuYz+ogyuC",
   "tracks": [
     {
       "added_at": null,
@@ -879,6 +879,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "SET IT OFF",
+        "url": "https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 212293,
+      "name": "FINE AS CAN BE (feat. Latto)",
+      "url": "https://open.spotify.com/track/4HOHEBhH4uUkEGbR1WzlPf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Thank You For Believing",
         "url": "https://open.spotify.com/album/616PXlH2cjun1oU5LR81oB"
       },
@@ -899,22 +919,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "SET IT OFF",
-        "url": "https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E"
+        "name": "Wheelie (feat. 21 Savage)",
+        "url": "https://open.spotify.com/album/5gwTtcUw2dHvT1x9ad49ag"
       },
       "artists": [
         {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        },
-        {
           "name": "Latto",
           "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
         }
       ],
-      "duration_ms": 212293,
-      "name": "FINE AS CAN BE (feat. Latto)",
-      "url": "https://open.spotify.com/track/4HOHEBhH4uUkEGbR1WzlPf"
+      "duration_ms": 170270,
+      "name": "Wheelie (feat. 21 Savage)",
+      "url": "https://open.spotify.com/track/2BxboWjnfktO1E9HGfPXq1"
     },
     {
       "added_at": null,
@@ -939,26 +959,6 @@
       "duration_ms": 179533,
       "name": "Don't Play With It (feat. Latto & Yung Miami) - Remix",
       "url": "https://open.spotify.com/track/7rl489EKnUgITmkBd6P9zi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wheelie (feat. 21 Savage)",
-        "url": "https://open.spotify.com/album/5gwTtcUw2dHvT1x9ad49ag"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 170270,
-      "name": "Wheelie (feat. 21 Savage)",
-      "url": "https://open.spotify.com/track/2BxboWjnfktO1E9HGfPXq1"
     },
     {
       "added_at": null,

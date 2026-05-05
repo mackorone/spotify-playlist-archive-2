@@ -1877,6 +1877,24 @@
     },
     {
       "album": {
+        "name": "It's Me",
+        "url": "https://open.spotify.com/album/5RA8rcgYD1RCgdZgzgP8nE"
+      },
+      "artists": [
+        {
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146249,
+      "name": "It's Me",
+      "url": "https://open.spotify.com/track/3cD5mr6KeFMlmgzAWdVZR7"
+    },
+    {
+      "album": {
         "name": "JUMP",
         "url": "https://open.spotify.com/album/0KXjWDuZPu0ZmhSCPeWuGS"
       },
@@ -3432,6 +3450,24 @@
       "duration_ms": 176853,
       "name": "Tick-Tack",
       "url": "https://open.spotify.com/track/5oedjtQyoPTEJhUnHTguBz"
+    },
+    {
+      "album": {
+        "name": "TNT",
+        "url": "https://open.spotify.com/album/69TADlEQFDfRHjrvqypxdC"
+      },
+      "artists": [
+        {
+          "name": "CORTIS",
+          "url": "https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180446,
+      "name": "TNT",
+      "url": "https://open.spotify.com/track/6Lk7XYiqOGSuhqRknpABRd"
     },
     {
       "album": {

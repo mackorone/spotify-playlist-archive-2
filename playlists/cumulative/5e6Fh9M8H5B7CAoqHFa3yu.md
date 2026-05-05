@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,180 songs - 5 day 9 hr 10 min
+2,183 songs - 5 day 9 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -842,6 +842,7 @@
 | [I Am the Tempest](https://open.spotify.com/track/6PX60n5AwnmPQXyQUXV1jp) | [Lou Lollio](https://open.spotify.com/artist/3e4hlZjeNc6W5jnfFXGYgd) | [I Am the Tempest](https://open.spotify.com/album/6Ykcf3VcJGJCR8b8wdo5ra) | 3:07 | 2025-10-02 |  |
 | [I Can't Go on Without You](https://open.spotify.com/track/1dX6oGAG5PaexuPj29PsYd) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [A/B](https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk) | 6:17 | 2024-03-04 |  |
 | [I can't see you](https://open.spotify.com/track/7Ge9fUZ5A0gPqFuYsmzDl8) | [fredo ananda](https://open.spotify.com/artist/5LUUDopKsbdRKUsOIkPwOK) | [I can't see you](https://open.spotify.com/album/1wrCnbKhxtcRToXpKl4ynY) | 3:47 | 2025-08-12 |  |
+| [I Can't Stop](https://open.spotify.com/track/5GyGdqwleI3rB3AjL3INiG) | [Catramina](https://open.spotify.com/artist/26oatZsfAD7qSzz8iEeXx1) | [Everything Runs for Nothing](https://open.spotify.com/album/0L6fCqGi6BwI30LIrinsEh) | 6:14 | 2026-05-04 |  |
 | [I Caught Myself Staring at the Sun](https://open.spotify.com/track/7nt8EJB87yY6rBU803pcNI) | [Mildred's Big Day](https://open.spotify.com/artist/2ayq6NXWGwkbCzqEyTTpQv) | [For 91.1](https://open.spotify.com/album/5YKcMoJ79pjcsaNdLtZUNb) | 2:05 | 2025-09-24 |  |
 | [I Don't Listen To You](https://open.spotify.com/track/63RGHd3E9rqdo0H1y0yK7e) | [Delilah Bon](https://open.spotify.com/artist/5JUFYlgwsbqpLcU9TMlsve) | [I Don't Listen To You](https://open.spotify.com/album/69E1nz3zfEYnOqxOChoxPi) | 2:01 | 2024-03-04 |  |
 | [I Dub On A Sunday \- Dub\-I Remix](https://open.spotify.com/track/3QHR0VsH7hgVnr7Nfn6afg) | [Mexican Stepper](https://open.spotify.com/artist/0LkpURD28re1NOBsAWSZQq), [Dub\-I](https://open.spotify.com/artist/60P6fKJzqcWscbc9PeCtZw) | [The Mad Sunday](https://open.spotify.com/album/22xvWyrGCj7bk8GTA5buRd) | 5:47 | 2024-05-01 |  |
@@ -861,6 +862,7 @@
 | [I That I](https://open.spotify.com/track/78iJPOFmQOs28jR92it9Cr) | [Raidio Tony](https://open.spotify.com/artist/78XTuE89tXERSbDscOB9Zy) | [R2024A](https://open.spotify.com/album/1d76Lwxku7MgjnXRkK42kg) | 2:52 | 2025-10-15 |  |
 | [I Think You Dropped This](https://open.spotify.com/track/2whLROnRc1krJPAulLNyPy) | [Susan Salidor](https://open.spotify.com/artist/1yWG6rEJxrAMdIMhpo4L4C) | [Come And Make A Circle: Twenty Terrific Songs For Kids And Teachers](https://open.spotify.com/album/0dYxuXTk8vHeGRvOkLbkHm) | 2:23 | 2026-03-25 |  |
 | [I Wanna Be Adored \- Remastered 2009](https://open.spotify.com/track/758wEKVqfYopJIHYWdLVd4) | [The Stone Roses](https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d) | [The Stone Roses](https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw) | 4:52 | 2024-03-04 |  |
+| [I Want Peace](https://open.spotify.com/track/3a3b6NjEuZDNKYFbYt8KV5) | [Voices](https://open.spotify.com/artist/3MOrMslYZqpstKVeCLSnuq) | [Original Songs From The Early Years](https://open.spotify.com/album/3gKKNdLkrW2V9sgXHRw5qL) | 2:43 | 2026-05-04 |  |
 | [I Will Take Care Of You](https://open.spotify.com/track/7KfuESxjtKlThWgj4Hh6hA) | [The Bangles](https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC) | [Doll Revolution](https://open.spotify.com/album/3tiizVJLaNkbeQV4BJFiGY) | 3:56 | 2026-03-15 |  |
 | [I Wish](https://open.spotify.com/track/7pgjoLcAIiG5wf7Vbs6ToQ) | [Soul Fire](https://open.spotify.com/artist/7pqC9YBhVcQk75OWWkuLjc) | [Wake Up Your Lion](https://open.spotify.com/album/14G1h8BQAZu5Dfa6T7UKNl) | 3:32 | 2024-05-01 |  |
 | [I'll Let Go](https://open.spotify.com/track/3k5NyjxlzKvSbPrZKcS7uM) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [I'll Let Go](https://open.spotify.com/album/0l61DNg32FUICvJGrSnqL2) | 2:54 | 2026-02-05 |  |
@@ -1254,6 +1256,7 @@
 | [Music Is My Life](https://open.spotify.com/track/53G4GbvPqC2LfIVMXDRi5y) | [Soul Fire](https://open.spotify.com/artist/7pqC9YBhVcQk75OWWkuLjc) | [Wake Up Your Lion](https://open.spotify.com/album/14G1h8BQAZu5Dfa6T7UKNl) | 2:55 | 2024-05-01 |  |
 | [Musica leggerissima](https://open.spotify.com/track/4LAWJfQbfeMrlX0ShqhC2a) | [Colapesce](https://open.spotify.com/artist/2KX2VLr3Eu6sn6EtxzCtvf), [Dimartino](https://open.spotify.com/artist/1k3zqz5SgrYCE0wpcfJX3g) | [I Mortali²](https://open.spotify.com/album/2PrT5iXmTLdobJUjgn5pNZ) | 3:56 | 2023-03-15 |  |
 | [Mustard](https://open.spotify.com/track/7yQtYUpS9ckX3KLr9UzUwM) | [Foxx1hunna](https://open.spotify.com/artist/2eIJtmM9wko6eAcNyIVn6w) | [Mustard](https://open.spotify.com/album/43m8bSGfxV1UgY7F3St9EV) | 1:42 | 2025-10-07 |  |
+| [Muurame](https://open.spotify.com/track/1Krh2vadndyc5CiGYyTKLT) | [Muupe B\. Horto](https://open.spotify.com/artist/6Dq8fIdjjfW20AXixOxyKa) | [Tuntosarvi](https://open.spotify.com/album/4WsdrEzof5vYTjPi6fXoQX) | 2:25 | 2026-05-04 |  |
 | [My Biggest Fan](https://open.spotify.com/track/2qfPuBESKKnAWI1KRuTwnn) | [BIGG BAGGZ](https://open.spotify.com/artist/51j5AJZDaLf8GFSu5am0WE) | [My Biggest Fan](https://open.spotify.com/album/4WN8Zm2Jb39ItoC6z9zrJR) | 2:48 | 2025-10-07 |  |
 | [My Butterfly Dream's](https://open.spotify.com/track/57cKFWmHj6ZEvfCg4P59YI) | [RZWY](https://open.spotify.com/artist/6kjbhDLFGX81REbc6EACk4) | [My Butterfly Dream's](https://open.spotify.com/album/63Ot1I8sVGao8RdUDbJdWk) | 3:42 | 2025-05-22 |  |
 | [My Dear Moon](https://open.spotify.com/track/5Z8esB9VR06kcNQ660qmxV) | [middt](https://open.spotify.com/artist/3u78iBx7E3vzHHhc47gdTf) | [My Dear Moon](https://open.spotify.com/album/4ocryLazIq64xWQOvrzSKg) | 3:18 | 2025-09-28 |  |

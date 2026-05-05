@@ -2,7 +2,7 @@
 
 ### [Global Afrobeats](https://open.spotify.com/playlist/37i9dQZF1DWSZxadTyuQ2s)
 
-> The sound of Afrobeats echoing around the world\. Cover:  Tyla & Zara Larssen
+> The sound of Afrobeats echoing around the world\. Cover:  Tyla & Zara Larsson
 
 189 songs - 9 hr 41 min
 

@@ -4,11 +4,11 @@
 
 > Rakkautta, mitä muuta ihminen tarvitsee.
 
-148 songs - 9 hr 22 min
+149 songs - 9 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\(Sittin' On\) the Dock of the Bay](https://open.spotify.com/track/4Y4Gd3ty8uut6Qw43c7yJc) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [The Dock of the Bay](https://open.spotify.com/album/0kSkzG0sfuG4lRuFF5jWVr) | 2:46 | 2024-11-04 |  |
+| [\(Sittin' On\) the Dock of the Bay](https://open.spotify.com/track/4Y4Gd3ty8uut6Qw43c7yJc) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [The Dock of the Bay](https://open.spotify.com/album/0kSkzG0sfuG4lRuFF5jWVr) | 2:46 | 2024-11-04 | 2026-05-05 |
 | [A Thousand Miles](https://open.spotify.com/track/6Qm9MaditCcx5V62rVHYqu) | [Vanessa Carlton](https://open.spotify.com/artist/5ILrArfIV0tMURcHJN8Q07) | [Best Of](https://open.spotify.com/album/2uHUZLZ8AJ7KjtUb3ogQt1) | 3:57 | 2024-11-10 |  |
 | [a thousand years](https://open.spotify.com/track/6lanRgr6wXibZr8KgzXxBl) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [a thousand years](https://open.spotify.com/album/15yvc643iYfQtb6zh9NEJo) | 4:45 | 2023-01-17 |  |
 | [Aamun Kuiskaus](https://open.spotify.com/track/4WqsrF7TJMNcXpALt6amw6) | [Stella](https://open.spotify.com/artist/002oyMRzxTzEsBRLzACi8d) | [Kuuntelija](https://open.spotify.com/album/2bklFJA9lIoKW3d5Wjsxeq) | 3:55 | 2023-09-15 | 2024-04-10 |
@@ -67,6 +67,7 @@
 | [If Tomorrow Never Comes](https://open.spotify.com/track/7tbJozWewwmFvTkXCUFtt0) | [Ronan Keating](https://open.spotify.com/artist/3nlHsNqwCSvT988ZfSW1Yh) | [Destination](https://open.spotify.com/album/3x1XCT7NsJOtQp7DEbPS3X) | 3:34 | 2024-11-10 |  |
 | [Ihana kipu](https://open.spotify.com/track/4EXBxZeqKIayJa65KtAwZw) | [VIIVI](https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh), [Robin Packalen](https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO) | [Ihana kipu](https://open.spotify.com/album/3XxoOZ0yPeoig9wjK31bR7) | 3:07 | 2023-01-17 | 2025-01-15 |
 | [Iris](https://open.spotify.com/track/6vrUTGn5p8IrfTZ0J6sIVM) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Greatest Hits Volume One \- The Singles](https://open.spotify.com/album/0UccZZgelTAbbk3OSPZymO) | 4:49 | 2023-01-17 |  |
+| [It's the Falling in Love](https://open.spotify.com/track/0CeE7kE8zAnfKIVpdmOaJl) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Off the Wall](https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP) | 3:48 | 2025-10-16 |  |
 | [Jos puhutaan totta](https://open.spotify.com/track/4rjRfdvdlRwyAVAwwdDifd) | [ANI](https://open.spotify.com/artist/7aaGp8b4O2FQUwHY23MV0T) | [Jos puhutaan totta](https://open.spotify.com/album/264CvOZdO5iM2dcWxLld5h) | 2:54 | 2024-02-13 | 2024-04-10 |
 | [Juostaan \(feat\. Sexmane\)](https://open.spotify.com/track/5Yn8jOYR59KhHQdhwiQdXO) | [Sara Siipola](https://open.spotify.com/artist/0cv9YYFgE0vLVgTjMrOZup), [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Juostaan \(feat\. Sexmane\)](https://open.spotify.com/album/7iRrwEdTiGkPZN8foy5XQ7) | 3:21 | 2024-05-17 | 2024-09-07 |
 | [Just the Way You Are](https://open.spotify.com/track/47Slg6LuqLaX0VodpSCvPt) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/6J84szYCnMfzEcvIcfWMFL) | 3:40 | 2024-04-09 |  |

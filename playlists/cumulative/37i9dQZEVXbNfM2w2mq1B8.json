@@ -38530,7 +38530,7 @@
       ],
       "date_added": "2026-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 222493,
       "name": "Vinovna",
       "url": "https://open.spotify.com/track/3rCr3GaLdvKdIaA3jJW50l"
@@ -41428,7 +41428,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 189176,
       "name": "\u0411\u0430\u043c \u0411\u0430\u043c \u0411\u0430\u043c",
       "url": "https://open.spotify.com/track/3cKFXnDX2AqTrLXGPIBI6j"
@@ -43611,6 +43611,24 @@
     },
     {
       "album": {
+        "name": "\u0417\u043b\u043e\u0431\u0430\u0440\u0438",
+        "url": "https://open.spotify.com/album/3nBOYAjd5jb7x52nw8wxtc"
+      },
+      "artists": [
+        {
+          "name": "Krasyo",
+          "url": "https://open.spotify.com/artist/0MpqjrVgdUO07oY6JcgTeG"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199610,
+      "name": "\u0417\u043b\u043e\u0431\u0430\u0440\u0438",
+      "url": "https://open.spotify.com/track/7G2NBshHNMyHsKknSYcLCc"
+    },
+    {
+      "album": {
         "name": "\u0417\u043d\u0430\u043c \u043b\u0438",
         "url": "https://open.spotify.com/album/5Q1ochnGEaasOtnu5hzIuf"
       },
@@ -45632,7 +45650,7 @@
       ],
       "date_added": "2026-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 252478,
       "name": "\u041d\u0435 \u0441\u0438 \u0442\u0438",
       "url": "https://open.spotify.com/track/2E4goE0yLWQlyYatBLV5E3"
@@ -46414,7 +46432,7 @@
       ],
       "date_added": "2025-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-04",
+      "date_removed": null,
       "duration_ms": 175483,
       "name": "\u041e\u0442\u043a\u0430\u0447\u0438\u043b\u0430",
       "url": "https://open.spotify.com/track/3fEpl8LU6WyIuE3C9P6pfI"
@@ -47238,7 +47256,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-04",
+      "date_removed": null,
       "duration_ms": 200000,
       "name": "\u0420\u0430\u043d\u043e \u043f\u0440\u0438\u0437\u043e\u0440\u0438",
       "url": "https://open.spotify.com/track/6i1VePbXqvRNdANixCeGUq"

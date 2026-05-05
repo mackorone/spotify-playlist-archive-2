@@ -100,7 +100,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 185867,
       "name": "Aakhiyaan Laagi",
       "url": "https://open.spotify.com/track/3SeyoWxJ18DVuoHRkj2Zgc"
@@ -4272,7 +4272,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 186131,
       "name": "Le Aayi",
       "url": "https://open.spotify.com/track/4MM1WM13IhM0wBoKw7v3tv"
@@ -5680,6 +5680,24 @@
       "duration_ms": 245706,
       "name": "Neend",
       "url": "https://open.spotify.com/track/1pdpAeTL7y48EbijYXEa4i"
+    },
+    {
+      "album": {
+        "name": "Neer Bharan",
+        "url": "https://open.spotify.com/album/3mZrkGsZroTRLjCpSWKc2J"
+      },
+      "artists": [
+        {
+          "name": "Shruti Bujarbaruah",
+          "url": "https://open.spotify.com/artist/6VqinjdkW7wPrf94a982RC"
+        }
+      ],
+      "date_added": "2026-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213478,
+      "name": "Neer Bharan",
+      "url": "https://open.spotify.com/track/5GE9vCaPVM5iWt3FfBTchr"
     },
     {
       "album": {
@@ -7874,7 +7892,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-28",
+      "date_removed": null,
       "duration_ms": 207749,
       "name": "Sajan More Ghar Aayo",
       "url": "https://open.spotify.com/track/2f74281V9IbfcWrqdYrI91"

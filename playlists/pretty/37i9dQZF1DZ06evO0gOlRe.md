@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gOlRe.md) - [plain]
 
 > This is Alexander Stewart\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,538 likes - 42 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,548 likes - 42 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,16 +21,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gOlRe.md) - [plain]
 | 11 | [I'm trying](https://open.spotify.com/track/4gcC1lyxdjoTE13FPOqyHt) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [I'm trying](https://open.spotify.com/album/6dPQkfGAbsDB7cYI32VG0m) | 2:44 |
 | 12 | [day i die](https://open.spotify.com/track/6OiLEkbkyXxaDE2PXYi6js) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [bleeding heart](https://open.spotify.com/album/53eFX3b6OFPpKi2SEkS0au) | 2:55 |
 | 13 | [echo](https://open.spotify.com/track/4rdIhBrlaAOPnlTlugZBgz) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [echo](https://open.spotify.com/album/2qd2ATRD78bQFtyYsSzxxg) | 3:18 |
-| 14 | [Enamorado](https://open.spotify.com/track/43I6PQfwHbXMipL4mvb5Zf) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Enamorado](https://open.spotify.com/album/1xXwe8GRCA9xt18XDaEopd) | 3:10 |
-| 15 | [Life at First Sight](https://open.spotify.com/track/54TAOgQWiq0jBDZ1D5F8vC) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Life at First Sight](https://open.spotify.com/album/7pQfFjGdIT73op3XXM6G7J) | 3:21 |
+| 14 | [Life at First Sight](https://open.spotify.com/track/54TAOgQWiq0jBDZ1D5F8vC) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Life at First Sight](https://open.spotify.com/album/7pQfFjGdIT73op3XXM6G7J) | 3:21 |
+| 15 | [Enamorado](https://open.spotify.com/track/43I6PQfwHbXMipL4mvb5Zf) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Enamorado](https://open.spotify.com/album/1xXwe8GRCA9xt18XDaEopd) | 3:10 |
 | 16 | [he never will](https://open.spotify.com/track/3gt3BD4A92u4nv6oS5Jkmq) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [he never will](https://open.spotify.com/album/3LRXevJN62aaXJZuxPPVJI) | 2:51 |
 | 17 | [Here Again](https://open.spotify.com/track/6M4rl0fdf1dQufWFWsFXNM) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [What If?](https://open.spotify.com/album/3NQLzsml2l8kwASLKj3Av5) | 2:45 |
 | 18 | [easier said than done](https://open.spotify.com/track/69AC7cGZsxkhjmY0spltqi) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [bleeding heart](https://open.spotify.com/album/53eFX3b6OFPpKi2SEkS0au) | 2:49 |
 | 19 | [Would You Lie](https://open.spotify.com/track/1M54nLzTxoQFjC0g8H11Bk) | [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq), [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Would You Lie](https://open.spotify.com/album/3gcHGmgDIWkXg3ZeBm719V) | 3:34 |
 | 20 | [Backwards](https://open.spotify.com/track/0DsIoA5io9H9ViOl2YNLcR) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Backwards](https://open.spotify.com/album/6aoNAm8yGoOu1E0ct0gsOi) | 2:52 |
 | 21 | [Let Me In](https://open.spotify.com/track/0xyq7KSKTw9Uk0TyiBN4eT) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [What If?](https://open.spotify.com/album/3NQLzsml2l8kwASLKj3Av5) | 2:58 |
-| 22 | [birthday cake \- duet](https://open.spotify.com/track/3Tp79U6sWi6yRywJI3BBsP) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30), [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [birthday cake \(duet\)](https://open.spotify.com/album/78CzILlKk9yPskjMLtHTPs) | 3:25 |
-| 23 | [how dare you](https://open.spotify.com/track/2O1jcUYVAHZLF7ihpWUENI) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [bleeding heart](https://open.spotify.com/album/53eFX3b6OFPpKi2SEkS0au) | 2:30 |
+| 22 | [how dare you](https://open.spotify.com/track/2O1jcUYVAHZLF7ihpWUENI) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [bleeding heart](https://open.spotify.com/album/53eFX3b6OFPpKi2SEkS0au) | 2:30 |
+| 23 | [birthday cake \- duet](https://open.spotify.com/track/3Tp79U6sWi6yRywJI3BBsP) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30), [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [birthday cake \(duet\)](https://open.spotify.com/album/78CzILlKk9yPskjMLtHTPs) | 3:25 |
 | 24 | [Best Damn Thing](https://open.spotify.com/track/6i71yrjuQ9f1zUSVfEChem) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Backwards](https://open.spotify.com/album/6aoNAm8yGoOu1E0ct0gsOi) | 3:52 |
 | 25 | [Good Things Go](https://open.spotify.com/track/5UyfSoNyldrM2iiCGfTQuA) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [What If?](https://open.spotify.com/album/3NQLzsml2l8kwASLKj3Av5) | 3:35 |
 | 26 | [Scared of Myself](https://open.spotify.com/track/5VbDVHAwEj0rHyQe1PwGTe) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Scared of Myself](https://open.spotify.com/album/6rHizPeJ2LhsHjCI6jv4Ha) | 3:18 |
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gOlRe.md) - [plain]
 | 41 | [24 Hours](https://open.spotify.com/track/1ZGxwxXbpeydURjPS9mrmL) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [24 Hours](https://open.spotify.com/album/1huVzctnZbPXdXws24VOwz) | 3:18 |
 | 42 | [Aftermath](https://open.spotify.com/track/1JsXnvR7rYhrwMCsOtScOX) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Aftermath](https://open.spotify.com/album/4vgRDVOUwJNYN5fbWsvka3) | 3:40 |
 
-Snapshot ID: `afU+gAAAAABMdkokuMqPXzbaVyIGCmeO`
+Snapshot ID: `afaQAAAAAABz1PK06MUbXkrRYxFuNONQ`

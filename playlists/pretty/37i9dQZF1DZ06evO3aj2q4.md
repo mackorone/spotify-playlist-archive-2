@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3aj2q4.md) - [plain]
 
 > This is Evanescence\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 455,573 likes - 45 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 455,620 likes - 45 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,14 +44,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3aj2q4.md) - [plain]
 | 34 | [Broken Pieces Shine](https://open.spotify.com/track/6LmgYdsFplTB7GEuqYqTVF) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [The Bitter Truth](https://open.spotify.com/album/5KbvYEF5b17V0ofM46iOVY) | 3:50 |
 | 35 | [Imperfection](https://open.spotify.com/track/0TXI0l6soKX2UhB4bA69ts) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Synthesis](https://open.spotify.com/album/6NNgZE7QZi5mvDkA6aJsuF) | 4:23 |
 | 36 | [If You Don’t Mind](https://open.spotify.com/track/5XFvhTjWWDttRY2pi4SIwx) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Lost Whispers](https://open.spotify.com/album/55VNOaV0zcQqGSrjOBHKVG) | 2:57 |
-| 37 | [Hi\-Lo \- feat\. Lindsey Stirling](https://open.spotify.com/track/6gWf8DlEgGSDChgrzOCfni) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c), [Lindsey Stirling](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM) | [Hi\-Lo \(feat\. Lindsey Stirling\)](https://open.spotify.com/album/73CyYEWFPeRGWPuI1VJxsw) | 4:16 |
+| 37 | [Tourniquet \- Live From Le Zénith,France/2004](https://open.spotify.com/track/2IR6jzSjOjp8X3Ib4SYDI8) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Anywhere But Home \(Live\)](https://open.spotify.com/album/5SpQ4sf9sXFWHgUKYCZSDF) | 4:17 |
 | 38 | [Part Of Me](https://open.spotify.com/track/74TiAd5cXM1vW5H7rCFBBI) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [The Bitter Truth](https://open.spotify.com/album/5KbvYEF5b17V0ofM46iOVY) | 3:58 |
-| 39 | [Tourniquet \- Live From Le Zénith,France/2004](https://open.spotify.com/track/2IR6jzSjOjp8X3Ib4SYDI8) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Anywhere But Home \(Live\)](https://open.spotify.com/album/5SpQ4sf9sXFWHgUKYCZSDF) | 4:17 |
+| 39 | [Hi\-Lo \- feat\. Lindsey Stirling](https://open.spotify.com/track/6gWf8DlEgGSDChgrzOCfni) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c), [Lindsey Stirling](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM) | [Hi\-Lo \(feat\. Lindsey Stirling\)](https://open.spotify.com/album/73CyYEWFPeRGWPuI1VJxsw) | 4:16 |
 | 40 | [The Last Song I'm Wasting on You](https://open.spotify.com/track/0BeBYa53MXh2aQmzc64BHd) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Lost Whispers](https://open.spotify.com/album/55VNOaV0zcQqGSrjOBHKVG) | 4:07 |
-| 41 | [Across The Universe](https://open.spotify.com/track/75Ov0ZIMoV0HuRwaPQsicp) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Across The Universe](https://open.spotify.com/album/3EsATrrGKDb76NIdrOMk2F) | 3:42 |
+| 41 | [Haunted \- Live From Le Zénith,France/2004](https://open.spotify.com/track/4CJGuGDU0Uf3Z9amdY5bji) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Anywhere But Home \(Live\)](https://open.spotify.com/album/5SpQ4sf9sXFWHgUKYCZSDF) | 4:04 |
 | 42 | [The Game Is Over](https://open.spotify.com/track/1IjNTBTAFtqRZHvrezeG1n) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [The Bitter Truth](https://open.spotify.com/album/5KbvYEF5b17V0ofM46iOVY) | 4:22 |
-| 43 | [Haunted \- Live From Le Zénith,France/2004](https://open.spotify.com/track/4CJGuGDU0Uf3Z9amdY5bji) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Anywhere But Home \(Live\)](https://open.spotify.com/album/5SpQ4sf9sXFWHgUKYCZSDF) | 4:04 |
+| 43 | [Across The Universe](https://open.spotify.com/track/75Ov0ZIMoV0HuRwaPQsicp) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Across The Universe](https://open.spotify.com/album/3EsATrrGKDb76NIdrOMk2F) | 3:42 |
 | 44 | [Together Again](https://open.spotify.com/track/4J0TPFdHcy2z4u3myLlGXe) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Lost Whispers](https://open.spotify.com/album/55VNOaV0zcQqGSrjOBHKVG) | 3:18 |
 | 45 | [Use My Voice](https://open.spotify.com/track/1Buo891X2sWO0mFEr0VAmm) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [The Bitter Truth](https://open.spotify.com/album/5KbvYEF5b17V0ofM46iOVY) | 4:01 |
 
-Snapshot ID: `afU+gAAAAACeotscdR16yRAZI4qHKucb`
+Snapshot ID: `afaQAAAAAACo17kPOxTqBl3nyCtFNRzd`

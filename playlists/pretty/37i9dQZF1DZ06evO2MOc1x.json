@@ -1,12 +1,12 @@
 {
   "description": "This is Bonnie Raitt. The essential tracks, all in one playlist.",
-  "num_followers": 53040,
+  "num_followers": 53041,
   "original_name": "This Is Bonnie Raitt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afU+gAAAAABPjTOTGnZYHJn7wH0zvX+P",
+  "snapshot_id": "afaQAAAAAABdiOzeunQ2GJvSd3A1qSjI",
   "tracks": [
     {
       "added_at": null,
@@ -627,6 +627,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Songs from the Rainbow Room 1972 (Live)",
+        "url": "https://open.spotify.com/album/6UKKvudJfkgZcw59mNOy0c"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 187533,
+      "name": "Can't Find My Way Home - Live",
+      "url": "https://open.spotify.com/track/1TITZdtKEabZzhm9EtfOCm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Longing In Their Hearts",
         "url": "https://open.spotify.com/album/5mkkuHwxHfE9yqafBFSLLI"
       },
@@ -675,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Songs from the Rainbow Room 1972 (Live)",
-        "url": "https://open.spotify.com/album/6UKKvudJfkgZcw59mNOy0c"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 187533,
-      "name": "Can't Find My Way Home - Live",
-      "url": "https://open.spotify.com/track/1TITZdtKEabZzhm9EtfOCm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Luck Of The Draw",
         "url": "https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf"
       },
@@ -711,22 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Just Like That...",
-        "url": "https://open.spotify.com/album/5urpeKkrqE82otTOfs8OFd"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 347840,
-      "name": "Blame it On Me",
-      "url": "https://open.spotify.com/track/6t6mN09CvoFzDpRVNrXcdF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nick Of Time",
         "url": "https://open.spotify.com/album/6wxpS5o0ty5CLqyH5fIRln"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 194908,
       "name": "Nobody's Girl",
       "url": "https://open.spotify.com/track/3N3Pa8T8epLgjMplqbetq8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Just Like That...",
+        "url": "https://open.spotify.com/album/5urpeKkrqE82otTOfs8OFd"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 347840,
+      "name": "Blame it On Me",
+      "url": "https://open.spotify.com/track/6t6mN09CvoFzDpRVNrXcdF"
     },
     {
       "added_at": null,
@@ -799,38 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Struck Down",
-        "url": "https://open.spotify.com/album/45z66GJ4emGqjOq9TInN5j"
-      },
-      "artists": [
-        {
-          "name": "The Fabulous Thunderbirds",
-          "url": "https://open.spotify.com/artist/6zmLTiN3NBNCDECRbbJKkT"
-        },
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        },
-        {
-          "name": "Taj Mahal",
-          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
-        },
-        {
-          "name": "Mick Fleetwood",
-          "url": "https://open.spotify.com/artist/7bRRWmUqERkyOVSSU6MPFu"
-        },
-        {
-          "name": "Keb' Mo'",
-          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
-        }
-      ],
-      "duration_ms": 235880,
-      "name": "Nothing in Rambling (ft. Bonnie Raitt, Keb' Mo', Taj Mahal & Mick Fleetwood)",
-      "url": "https://open.spotify.com/track/0Ob3apMTtBSVq08Fxfqjlu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Slipstream",
         "url": "https://open.spotify.com/album/1tlNRoFelhNdpaaxkJIX9T"
       },
@@ -867,22 +835,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Duets",
-        "url": "https://open.spotify.com/album/7ptAfRrbwr8pzM1oeUsRea"
+        "name": "Struck Down",
+        "url": "https://open.spotify.com/album/45z66GJ4emGqjOq9TInN5j"
       },
       "artists": [
         {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+          "name": "The Fabulous Thunderbirds",
+          "url": "https://open.spotify.com/artist/6zmLTiN3NBNCDECRbbJKkT"
         },
         {
           "name": "Bonnie Raitt",
           "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        },
+        {
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+        },
+        {
+          "name": "Mick Fleetwood",
+          "url": "https://open.spotify.com/artist/7bRRWmUqERkyOVSSU6MPFu"
+        },
+        {
+          "name": "Keb' Mo'",
+          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
         }
       ],
-      "duration_ms": 240666,
-      "name": "Love Letters",
-      "url": "https://open.spotify.com/track/6pqNafE84udPaoFLGffd7E"
+      "duration_ms": 235880,
+      "name": "Nothing in Rambling (ft. Bonnie Raitt, Keb' Mo', Taj Mahal & Mick Fleetwood)",
+      "url": "https://open.spotify.com/track/0Ob3apMTtBSVq08Fxfqjlu"
     },
     {
       "added_at": null,
@@ -899,6 +879,26 @@
       "duration_ms": 235773,
       "name": "Runaway - 2008 Remaster",
       "url": "https://open.spotify.com/track/7ldCklGtxrVxpmdt1el897"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Duets",
+        "url": "https://open.spotify.com/album/7ptAfRrbwr8pzM1oeUsRea"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 240666,
+      "name": "Love Letters",
+      "url": "https://open.spotify.com/track/6pqNafE84udPaoFLGffd7E"
     }
   ],
   "unique_name": "This Is Bonnie Raitt",

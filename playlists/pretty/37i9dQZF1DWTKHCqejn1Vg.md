@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKHCqejn1Vg.md) - [plain]
 
 > 사랑이 더욱 뜨겁게 섞일 때.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,636 likes - 60 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,631 likes - 60 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKHCqejn1Vg.md) - [plain]
 | 23 | [Heaven \(Feat\. Sam Kim\)](https://open.spotify.com/track/0ZpEiNVDCJbZBS8e9DKOUw) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A), [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [NA](https://open.spotify.com/album/5zQI9dFbS9TrhvC9clgjz7) | 3:06 |
 | 24 | [Thinkin Bout You](https://open.spotify.com/track/6xwQS49tTYgLQNPGnfWV2H) | [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO) | [LOG](https://open.spotify.com/album/43gRZhkhNa92R9NHvTIPgo) | 4:23 |
 | 25 | [Rendezvous](https://open.spotify.com/track/4Z2mXXSzuCDEHZtFGmy0X5) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [Flip](https://open.spotify.com/album/4rVJMhiG57vrG0nxB7Zmy8) | 3:05 |
-| 26 | [Pressure](https://open.spotify.com/track/5cYGEaQIa9Sc7TYPYQ6nqC) | [KAI](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) | [Wait On Me \- The 4th Mini Album](https://open.spotify.com/album/78cxz0pQ2TDtESNyCCX5Qj) | 2:23 |
-| 27 | [ROSE \(feat\. Skinny Brown, Homeboy\)](https://open.spotify.com/track/1CB7xt4rCsyh0RY2eKA2oH) | [YANGHONGWON](https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM), [Skinny Brown](https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX), [Homeboy](https://open.spotify.com/artist/7ocuKBIqxHfc5m49bY7hO7) | [Stranger](https://open.spotify.com/album/64u3D3rw0zxNkLVcFcPCQ6) | 4:27 |
+| 26 | [ROSE \(feat\. Skinny Brown, Homeboy\)](https://open.spotify.com/track/1CB7xt4rCsyh0RY2eKA2oH) | [YANGHONGWON](https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM), [Skinny Brown](https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX), [Homeboy](https://open.spotify.com/artist/7ocuKBIqxHfc5m49bY7hO7) | [Stranger](https://open.spotify.com/album/64u3D3rw0zxNkLVcFcPCQ6) | 4:27 |
+| 27 | [Pressure](https://open.spotify.com/track/5cYGEaQIa9Sc7TYPYQ6nqC) | [KAI](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) | [Wait On Me \- The 4th Mini Album](https://open.spotify.com/album/78cxz0pQ2TDtESNyCCX5Qj) | 2:23 |
 | 28 | [Kiss of fire](https://open.spotify.com/track/3tZhtCYISL5esUNEvcWclc) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [ONLY LOVERS LEFT](https://open.spotify.com/album/1u9nYBB0Qw5jyjkexe9Xk6) | 3:15 |
 | 29 | [Infrared Camera](https://open.spotify.com/track/0YRuXgAFpfsIx8GgsJBJu3) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [Show Me The Money 9 Episode 3](https://open.spotify.com/album/1FFLLpkDzRG59I1S6s7vGt) | 3:25 |
 | 30 | [Truth Be Told](https://open.spotify.com/track/0NhfkWo4IBjNk8PnOM8Obg) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Hello, World \- The 4th Mini Album](https://open.spotify.com/album/6t6uh1uD01cnqef1Y7NVxA) | 2:53 |
@@ -58,15 +58,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKHCqejn1Vg.md) - [plain]
 | 48 | [muah](https://open.spotify.com/track/0AHhkuNuqjFPzMfi72JIxr) | [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja) | [AFTER UPSET](https://open.spotify.com/album/3hv9aXwK1pz50JrCXZqiVh) | 2:09 |
 | 49 | [Flicker \(Feat\. Car, the garden\)](https://open.spotify.com/track/1llrs3s4loOC4eMaV1yc1x) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V), [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [B side](https://open.spotify.com/album/7sEUUITszL8AQptgMEUrkz) | 3:17 |
 | 50 | [AM PM \(feat\. Whee In\) \- Prod\. Gray](https://open.spotify.com/track/1J1hPnwTw80wpVWRv8yuxj) | [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT), [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [SOMO: FUME](https://open.spotify.com/album/2T8iLSKPraJotM2uXFKW4F) | 3:37 |
-| 51 | [Turn Off Your Phone \(Feat\. ELO\) \- Remix](https://open.spotify.com/track/4AtDiqnMxDt8crflZWgZG5) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [ELO](https://open.spotify.com/artist/33fY1P5TsAeEK2VgATvz1A) | [EVERYTHING YOU WANTED](https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2) | 4:03 |
-| 52 | [DRIVE ME](https://open.spotify.com/track/1oTO8USKys3ODc1sCyn0xA) | [Da Yeon Baek](https://open.spotify.com/artist/7f6sYlRGB312kc3MLCXm5l) | [DRIVE ME](https://open.spotify.com/album/4k2mX9YvrPdMy8Cgur16Cl) | 3:58 |
+| 51 | [DRIVE ME](https://open.spotify.com/track/1oTO8USKys3ODc1sCyn0xA) | [Da Yeon Baek](https://open.spotify.com/artist/7f6sYlRGB312kc3MLCXm5l) | [DRIVE ME](https://open.spotify.com/album/4k2mX9YvrPdMy8Cgur16Cl) | 3:58 |
+| 52 | [Turn Off Your Phone \(Feat\. ELO\) \- Remix](https://open.spotify.com/track/4AtDiqnMxDt8crflZWgZG5) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [ELO](https://open.spotify.com/artist/33fY1P5TsAeEK2VgATvz1A) | [EVERYTHING YOU WANTED](https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2) | 4:03 |
 | 53 | [Chase](https://open.spotify.com/track/2BAlBVu2OLWEfFsd4Irqwt) | [MINHO](https://open.spotify.com/artist/08uRwDeNv1d7FSwlOUZdSn) | [CHASE \- The 1st Mini Album](https://open.spotify.com/album/0rhJHOLAXHJpkwYdiAb07S) | 3:26 |
 | 54 | [Habit](https://open.spotify.com/track/1RQqbSlookHZBgm5Cf3Sg4) | [I.M](https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd) | [OVERDRIVE](https://open.spotify.com/album/0IypTpMarJExzpoVXFPmW1) | 3:04 |
 | 55 | [ERYKAH BADU \(Feat\. CAMO\)](https://open.spotify.com/track/5Ovvat3uPyNMFKPO63fD3O) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF) | [WHAT HAVE WE DONE](https://open.spotify.com/album/4zZWJyAbApju1SeHQrCLnT) | 2:44 |
 | 56 | [Rebound](https://open.spotify.com/track/0naU7W4XICqrfTtwEzMu2x) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [SET](https://open.spotify.com/album/5FCXsnwWOFHbdIR13XYONv) | 2:58 |
 | 57 | [Hug Me](https://open.spotify.com/track/7J28iQgZUf4sCfGKRFUazO) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79) | [Crush on You](https://open.spotify.com/album/6hvSnbuh5dAzYqO87FZHWY) | 3:42 |
-| 58 | [Down \(Feat\. DUT2\)](https://open.spotify.com/track/37pJVBNb9B6LknUHU0Gh9K) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [DUT2](https://open.spotify.com/artist/4YCMBr9I1zesFyMMyoc4pX) | [MaRz&B](https://open.spotify.com/album/1j0f8acKHeC5DXhr7XSn93) | 3:33 |
-| 59 | [Wildfire](https://open.spotify.com/track/3vsfL1GdEMvoUs59KERxPx) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [There And Back Again](https://open.spotify.com/album/643X6WW2ijEwMLaNjp1dk1) | 3:16 |
-| 60 | [Inside](https://open.spotify.com/track/2DQExJcuyW8ZuDIcOBx0EG) | [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT) | [Archive 1: \[Road Runner\]](https://open.spotify.com/album/7vD1S5S2T4qHQzAAmZaSwl) | 3:07 |
+| 58 | [Inside](https://open.spotify.com/track/2DQExJcuyW8ZuDIcOBx0EG) | [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT) | [Archive 1: \[Road Runner\]](https://open.spotify.com/album/7vD1S5S2T4qHQzAAmZaSwl) | 3:07 |
+| 59 | [Down \(Feat\. DUT2\)](https://open.spotify.com/track/37pJVBNb9B6LknUHU0Gh9K) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [DUT2](https://open.spotify.com/artist/4YCMBr9I1zesFyMMyoc4pX) | [MaRz&B](https://open.spotify.com/album/1j0f8acKHeC5DXhr7XSn93) | 3:33 |
+| 60 | [Wildfire](https://open.spotify.com/track/3vsfL1GdEMvoUs59KERxPx) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [There And Back Again](https://open.spotify.com/album/643X6WW2ijEwMLaNjp1dk1) | 3:16 |
 
 Snapshot ID: `AAAAAIrFo04ns9TyzuEB4WUYEXfWkiyc`

@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 123988,
+  "num_followers": 123984,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAVW6gS2rXb8YN7Bi9EYMNZEfKcS6v+",
+  "snapshot_id": "AAAVXLBMG1vOL1NcFv5CL9vlS5tYtqYx",
   "tracks": [
+    {
+      "added_at": "2026-05-04 15:03:29",
+      "album": {
+        "name": "Monstercat Instinct Selections 02",
+        "url": "https://open.spotify.com/album/6DCXQ7sTyFktwFGwsPBzNQ"
+      },
+      "artists": [
+        {
+          "name": "Nohost",
+          "url": "https://open.spotify.com/artist/0LJ2EQmZqB05sPEtr1nTuI"
+        }
+      ],
+      "duration_ms": 217272,
+      "name": "Theory",
+      "url": "https://open.spotify.com/track/1qCEAyfBpdPhs7hLcZO9Dn"
+    },
     {
       "added_at": "2026-05-01 16:07:21",
       "album": {

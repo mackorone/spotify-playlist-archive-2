@@ -8414,10 +8414,28 @@
       ],
       "date_added": "2026-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 148815,
       "name": "Cheerio",
       "url": "https://open.spotify.com/track/3L9mOOGtByXTKSQOyyko9o"
+    },
+    {
+      "album": {
+        "name": "Cheerio",
+        "url": "https://open.spotify.com/album/0Bw7kwF2e4IpPIQcQc8VjT"
+      },
+      "artists": [
+        {
+          "name": "Justen de Wildt",
+          "url": "https://open.spotify.com/artist/3z2daXDBOR0uFDF3TB788X"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148815,
+      "name": "Cheerio",
+      "url": "https://open.spotify.com/track/6dqoVIfcrW0QNr8BP8LlBo"
     },
     {
       "album": {
@@ -11673,6 +11691,24 @@
     },
     {
       "album": {
+        "name": "Off the Wall",
+        "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364441,
+      "name": "Don't Stop 'Til You Get Enough",
+      "url": "https://open.spotify.com/track/46eu3SBuFCXWsPT39Yg3tJ"
+    },
+    {
+      "album": {
         "name": "Escape (2022 Remaster)",
         "url": "https://open.spotify.com/album/4guAwaniEAEQSW0NCpo4gm"
       },
@@ -12162,7 +12198,7 @@
       ],
       "date_added": "2026-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-21",
+      "date_removed": null,
       "duration_ms": 257800,
       "name": "Dreams - 2004 Remaster",
       "url": "https://open.spotify.com/track/5TDZyWDfbQFQJabbPwImVY"
@@ -12472,7 +12508,7 @@
       ],
       "date_added": "2025-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 237117,
       "name": "DtMF",
       "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
@@ -12636,7 +12672,7 @@
       ],
       "date_added": "2026-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 134905,
       "name": "Edge of Desire",
       "url": "https://open.spotify.com/track/4A56h4B9xUuMMXoKuj18HT"
@@ -22306,7 +22342,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-16",
+      "date_removed": null,
       "duration_ms": 289533,
       "name": "Iris",
       "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
@@ -28842,7 +28878,7 @@
       ],
       "date_added": "2025-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 147367,
       "name": "Mona Lisa",
       "url": "https://open.spotify.com/track/05mRvdy1w3YtLhz2sHYzrB"
@@ -31898,7 +31934,7 @@
       ],
       "date_added": "2026-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-02",
+      "date_removed": null,
       "duration_ms": 173312,
       "name": "Ola ole olee",
       "url": "https://open.spotify.com/track/0Ul3G0uGWfI2qPYjVVv4ix"
@@ -45710,7 +45746,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 140625,
       "name": "Waar De Ladies Zijn",
       "url": "https://open.spotify.com/track/1RBAmptvCgOBmUQorOiT31"
@@ -49588,7 +49624,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 190822,
       "name": "Zoo",
       "url": "https://open.spotify.com/track/1RxnarBaLERmqnGNmOCoCD"
@@ -49610,7 +49646,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-03",
+      "date_removed": null,
       "duration_ms": 190822,
       "name": "Zoo",
       "url": "https://open.spotify.com/track/3vJIaiTIHxHhYafTSPNiH4"

@@ -4041,6 +4041,28 @@
     },
     {
       "album": {
+        "name": "The Dreams Strange and Eternal",
+        "url": "https://open.spotify.com/album/0HNfjZPkOShrNG7SDlPEHM"
+      },
+      "artists": [
+        {
+          "name": "Seven Lions",
+          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
+        },
+        {
+          "name": "FORS",
+          "url": "https://open.spotify.com/artist/3IG2AmQqnXTje1NHlIQViX"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233794,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/2OthEiwV03Y4uMCEix6oZ5"
+    },
+    {
+      "album": {
         "name": "Drifting",
         "url": "https://open.spotify.com/album/2kLk6nNB65O9AA6EmaI5DG"
       },
@@ -15330,7 +15352,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 245273,
       "name": "Vandal",
       "url": "https://open.spotify.com/track/34negURT6NVTALh9x2J6ue"

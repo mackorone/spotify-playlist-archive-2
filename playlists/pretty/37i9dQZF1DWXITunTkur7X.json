@@ -1,6 +1,6 @@
 {
   "description": "Beste Nederlandstaligs songs uit de 10's! Cover: BL\u00d8F",
-  "num_followers": 79094,
+  "num_followers": 79096,
   "original_name": "10's Nederlandstalig",
   "owner": {
     "name": "Spotify",
@@ -83,26 +83,6 @@
     {
       "added_at": "2025-03-12 10:01:17",
       "album": {
-        "name": "Golven",
-        "url": "https://open.spotify.com/album/6Z4IOHGEP8RsMxjgCAwgZO"
-      },
-      "artists": [
-        {
-          "name": "Diggy Dex",
-          "url": "https://open.spotify.com/artist/4XQhU3S4TyPkiPIsSu2hmA"
-        },
-        {
-          "name": "JW Roy",
-          "url": "https://open.spotify.com/artist/3i31y6LSpJEgV5ny8fw66d"
-        }
-      ],
-      "duration_ms": 224928,
-      "name": "Treur Niet (Ode Aan Het Leven)",
-      "url": "https://open.spotify.com/track/11iIeclbEWUhkmLArE9Hr0"
-    },
-    {
-      "added_at": "2025-03-12 10:01:17",
-      "album": {
         "name": "Hoe Het Danst",
         "url": "https://open.spotify.com/album/0HKLOVzGYbtdamZ0FDibKg"
       },
@@ -123,6 +103,26 @@
       "duration_ms": 252923,
       "name": "Hoe Het Danst",
       "url": "https://open.spotify.com/track/5cYOVkA2cnjKid9yigaMwq"
+    },
+    {
+      "added_at": "2025-03-12 10:01:17",
+      "album": {
+        "name": "Golven",
+        "url": "https://open.spotify.com/album/6Z4IOHGEP8RsMxjgCAwgZO"
+      },
+      "artists": [
+        {
+          "name": "Diggy Dex",
+          "url": "https://open.spotify.com/artist/4XQhU3S4TyPkiPIsSu2hmA"
+        },
+        {
+          "name": "JW Roy",
+          "url": "https://open.spotify.com/artist/3i31y6LSpJEgV5ny8fw66d"
+        }
+      ],
+      "duration_ms": 224928,
+      "name": "Treur Niet (Ode Aan Het Leven)",
+      "url": "https://open.spotify.com/track/11iIeclbEWUhkmLArE9Hr0"
     },
     {
       "added_at": "2025-03-12 10:01:17",
@@ -263,30 +263,18 @@
     {
       "added_at": "2025-03-12 10:01:17",
       "album": {
-        "name": "Duizend Spiegels",
-        "url": "https://open.spotify.com/album/29MG7geSPIrr42IeLmKCNr"
+        "name": "Zij Weet Het (Studio Versie)",
+        "url": "https://open.spotify.com/album/45DK1JElovyDUaa1VtnMMs"
       },
       "artists": [
         {
-          "name": "Marco Borsato",
-          "url": "https://open.spotify.com/artist/3D2GUXbtlL3r2d5HJEnsFD"
-        },
-        {
-          "name": "Jada Borsato",
-          "url": "https://open.spotify.com/artist/6EdpDU1kcKCtErNVnIpUbE"
-        },
-        {
-          "name": "Day Ewbank",
-          "url": "https://open.spotify.com/artist/4hdeWCPuav4Ezwtb9OGCb1"
-        },
-        {
-          "name": "John Ewbank",
-          "url": "https://open.spotify.com/artist/16mR35QsbHY5CUlzRHMFnG"
+          "name": "Tino Martin",
+          "url": "https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4"
         }
       ],
-      "duration_ms": 248946,
-      "name": "Samen Voor Altijd",
-      "url": "https://open.spotify.com/track/3zJ2U5rN8Pl1Aqnxar7TOw"
+      "duration_ms": 241583,
+      "name": "Zij Weet Het - Studio Versie",
+      "url": "https://open.spotify.com/track/0rwf08N6Fm5K57S7e7FJty"
     },
     {
       "added_at": "2025-03-12 10:01:17",
@@ -311,18 +299,30 @@
     {
       "added_at": "2025-03-12 10:01:17",
       "album": {
-        "name": "Zij Weet Het (Studio Versie)",
-        "url": "https://open.spotify.com/album/45DK1JElovyDUaa1VtnMMs"
+        "name": "Duizend Spiegels",
+        "url": "https://open.spotify.com/album/29MG7geSPIrr42IeLmKCNr"
       },
       "artists": [
         {
-          "name": "Tino Martin",
-          "url": "https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4"
+          "name": "Marco Borsato",
+          "url": "https://open.spotify.com/artist/3D2GUXbtlL3r2d5HJEnsFD"
+        },
+        {
+          "name": "Jada Borsato",
+          "url": "https://open.spotify.com/artist/6EdpDU1kcKCtErNVnIpUbE"
+        },
+        {
+          "name": "Day Ewbank",
+          "url": "https://open.spotify.com/artist/4hdeWCPuav4Ezwtb9OGCb1"
+        },
+        {
+          "name": "John Ewbank",
+          "url": "https://open.spotify.com/artist/16mR35QsbHY5CUlzRHMFnG"
         }
       ],
-      "duration_ms": 241583,
-      "name": "Zij Weet Het - Studio Versie",
-      "url": "https://open.spotify.com/track/0rwf08N6Fm5K57S7e7FJty"
+      "duration_ms": 248946,
+      "name": "Samen Voor Altijd",
+      "url": "https://open.spotify.com/track/3zJ2U5rN8Pl1Aqnxar7TOw"
     },
     {
       "added_at": "2025-03-12 10:01:17",
@@ -935,38 +935,6 @@
     {
       "added_at": "2025-03-12 10:01:17",
       "album": {
-        "name": "Slaaptekort",
-        "url": "https://open.spotify.com/album/5PUULHwxm3XJdr4g3fNRxP"
-      },
-      "artists": [
-        {
-          "name": "Boef",
-          "url": "https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1"
-        }
-      ],
-      "duration_ms": 215978,
-      "name": "Habiba",
-      "url": "https://open.spotify.com/track/6G41AeVgQkpvEbTxN5fNkW"
-    },
-    {
-      "added_at": "2025-03-12 10:01:17",
-      "album": {
-        "name": "Sexy Als Ik Dans",
-        "url": "https://open.spotify.com/album/3hvQDsTHwRw21QrEoIxmxz"
-      },
-      "artists": [
-        {
-          "name": "Nielson",
-          "url": "https://open.spotify.com/artist/5m5Fh8zrb0uHM85qwkIkVT"
-        }
-      ],
-      "duration_ms": 214880,
-      "name": "Sexy Als Ik Dans",
-      "url": "https://open.spotify.com/track/2zgYC13KDtqwVwNremDoWQ"
-    },
-    {
-      "added_at": "2025-03-12 10:01:17",
-      "album": {
         "name": "Mag Ik Dan Bij Jou ( Single Version )",
         "url": "https://open.spotify.com/album/64JUrdAAT1Dr57kgqB89KK"
       },
@@ -983,8 +951,44 @@
     {
       "added_at": "2025-03-12 10:01:17",
       "album": {
-        "name": "In Het Midden Van Alles",
-        "url": "https://open.spotify.com/album/76z6VdmYMrPbm1an5eefys"
+        "name": "Slaaptekort",
+        "url": "https://open.spotify.com/album/5PUULHwxm3XJdr4g3fNRxP"
+      },
+      "artists": [
+        {
+          "name": "Boef",
+          "url": "https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1"
+        }
+      ],
+      "duration_ms": 215978,
+      "name": "Habiba",
+      "url": "https://open.spotify.com/track/6G41AeVgQkpvEbTxN5fNkW"
+    },
+    {
+      "added_at": "2025-03-12 10:01:17",
+      "album": {
+        "name": "Hoe",
+        "url": "https://open.spotify.com/album/3uY2iQaemCp5tJ1w5Am4Ui"
+      },
+      "artists": [
+        {
+          "name": "Nielson",
+          "url": "https://open.spotify.com/artist/5m5Fh8zrb0uHM85qwkIkVT"
+        },
+        {
+          "name": "Miss Montreal",
+          "url": "https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2"
+        }
+      ],
+      "duration_ms": 169288,
+      "name": "Hoe",
+      "url": "https://open.spotify.com/track/6MqFl4zKmk2kaifEkJ9JUN"
+    },
+    {
+      "added_at": "2025-03-12 10:01:17",
+      "album": {
+        "name": "Hier - Het Beste Van 20 Jaar BL\u00d8F",
+        "url": "https://open.spotify.com/album/6CXlCKvZ8vyIEDlOIDZZUp"
       },
       "artists": [
         {
@@ -992,9 +996,9 @@
           "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
         }
       ],
-      "duration_ms": 278813,
-      "name": "Open Je Ogen",
-      "url": "https://open.spotify.com/track/6A5vneoavVypAOtH0VITTc"
+      "duration_ms": 204866,
+      "name": "Later Als Ik Groter Ben",
+      "url": "https://open.spotify.com/track/1a4Dt4M67sEiBLiKyICptE"
     },
     {
       "added_at": "2025-03-12 10:01:17",
@@ -1031,22 +1035,6 @@
     {
       "added_at": "2025-03-12 10:01:17",
       "album": {
-        "name": "Beauty & De Brains",
-        "url": "https://open.spotify.com/album/1tEKAbSg43j5SwPCxhDnJP"
-      },
-      "artists": [
-        {
-          "name": "Nielson",
-          "url": "https://open.spotify.com/artist/5m5Fh8zrb0uHM85qwkIkVT"
-        }
-      ],
-      "duration_ms": 186090,
-      "name": "Beauty & De Brains",
-      "url": "https://open.spotify.com/track/43jqvQLVG7LNhBkVyfvKob"
-    },
-    {
-      "added_at": "2025-03-12 10:01:17",
-      "album": {
         "name": "Lange Nachten, Korte Dagen",
         "url": "https://open.spotify.com/album/5l4SqfdkpD6Tv4TA5F5gom"
       },
@@ -1067,8 +1055,24 @@
     {
       "added_at": "2025-03-12 10:01:17",
       "album": {
-        "name": "Hier - Het Beste Van 20 Jaar BL\u00d8F",
-        "url": "https://open.spotify.com/album/6CXlCKvZ8vyIEDlOIDZZUp"
+        "name": "Sexy Als Ik Dans",
+        "url": "https://open.spotify.com/album/3hvQDsTHwRw21QrEoIxmxz"
+      },
+      "artists": [
+        {
+          "name": "Nielson",
+          "url": "https://open.spotify.com/artist/5m5Fh8zrb0uHM85qwkIkVT"
+        }
+      ],
+      "duration_ms": 214880,
+      "name": "Sexy Als Ik Dans",
+      "url": "https://open.spotify.com/track/2zgYC13KDtqwVwNremDoWQ"
+    },
+    {
+      "added_at": "2025-03-12 10:01:17",
+      "album": {
+        "name": "In Het Midden Van Alles",
+        "url": "https://open.spotify.com/album/76z6VdmYMrPbm1an5eefys"
       },
       "artists": [
         {
@@ -1076,9 +1080,9 @@
           "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
         }
       ],
-      "duration_ms": 204866,
-      "name": "Later Als Ik Groter Ben",
-      "url": "https://open.spotify.com/track/1a4Dt4M67sEiBLiKyICptE"
+      "duration_ms": 278813,
+      "name": "Open Je Ogen",
+      "url": "https://open.spotify.com/track/6A5vneoavVypAOtH0VITTc"
     },
     {
       "added_at": "2025-03-12 10:01:17",
@@ -1115,22 +1119,18 @@
     {
       "added_at": "2025-03-12 10:01:17",
       "album": {
-        "name": "Hoe",
-        "url": "https://open.spotify.com/album/3uY2iQaemCp5tJ1w5Am4Ui"
+        "name": "Beauty & De Brains",
+        "url": "https://open.spotify.com/album/1tEKAbSg43j5SwPCxhDnJP"
       },
       "artists": [
         {
           "name": "Nielson",
           "url": "https://open.spotify.com/artist/5m5Fh8zrb0uHM85qwkIkVT"
-        },
-        {
-          "name": "Miss Montreal",
-          "url": "https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2"
         }
       ],
-      "duration_ms": 169288,
-      "name": "Hoe",
-      "url": "https://open.spotify.com/track/6MqFl4zKmk2kaifEkJ9JUN"
+      "duration_ms": 186090,
+      "name": "Beauty & De Brains",
+      "url": "https://open.spotify.com/track/43jqvQLVG7LNhBkVyfvKob"
     },
     {
       "added_at": "2025-03-12 10:01:17",

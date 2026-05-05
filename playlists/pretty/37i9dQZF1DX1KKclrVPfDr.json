@@ -1,6 +1,6 @@
 {
   "description": "\u0917\u093e\u0901\u0935-\u0918\u0930 \u0915\u0940 \u0936\u093e\u0926\u093f\u092f\u094b\u0902 \u0915\u093e \u0905\u0938\u0932\u0940 \u0938\u0902\u0917\u0940\u0924 '\u092d\u094b\u091c\u092a\u0941\u0930\u0940 \u0935\u093f\u0935\u093e\u0939 \u0917\u0940\u0924'.",
-  "num_followers": 11577,
+  "num_followers": 11576,
   "original_name": "Bhojpuri Vivah Geet",
   "owner": {
     "name": "Spotify",
@@ -327,22 +327,6 @@
     {
       "added_at": "2026-03-23 13:34:43",
       "album": {
-        "name": "Sikadiya",
-        "url": "https://open.spotify.com/album/6GdKZ1aZEVeZIOiRspXdBX"
-      },
-      "artists": [
-        {
-          "name": "Khushbu Tiwari KT",
-          "url": "https://open.spotify.com/artist/2fzxSTOd2GIgQWLCSUUFkk"
-        }
-      ],
-      "duration_ms": 282222,
-      "name": "Sikadiya",
-      "url": "https://open.spotify.com/track/4d4eiUekZmnWelJZt90nB8"
-    },
-    {
-      "added_at": "2026-03-23 13:34:43",
-      "album": {
         "name": "Aaj Hamar Pyar Ke Shadi Ba",
         "url": "https://open.spotify.com/album/75HvUXEGVqZELGskMSWmCi"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 176070,
       "name": "Matkor",
       "url": "https://open.spotify.com/track/1ATvLTbYClJlx8dTebRMHB"
+    },
+    {
+      "added_at": "2026-03-23 13:34:43",
+      "album": {
+        "name": "Sikadiya",
+        "url": "https://open.spotify.com/album/6GdKZ1aZEVeZIOiRspXdBX"
+      },
+      "artists": [
+        {
+          "name": "Khushbu Tiwari KT",
+          "url": "https://open.spotify.com/artist/2fzxSTOd2GIgQWLCSUUFkk"
+        }
+      ],
+      "duration_ms": 282222,
+      "name": "Sikadiya",
+      "url": "https://open.spotify.com/track/4d4eiUekZmnWelJZt90nB8"
     },
     {
       "added_at": "2026-03-23 13:34:43",
@@ -411,6 +411,22 @@
     {
       "added_at": "2026-03-23 13:34:43",
       "album": {
+        "name": "Jehne Kishori Mori",
+        "url": "https://open.spotify.com/album/3vQJ42HlP9D2MK9rOrpEvF"
+      },
+      "artists": [
+        {
+          "name": "Indu Sonali",
+          "url": "https://open.spotify.com/artist/0PTzUYVfb8g1RhML4H0sho"
+        }
+      ],
+      "duration_ms": 281379,
+      "name": "Jehne Kishori Mori",
+      "url": "https://open.spotify.com/track/5NAhU7NpZHDVTY9xUmkiYr"
+    },
+    {
+      "added_at": "2026-03-23 13:34:43",
+      "album": {
         "name": "Sone Ke Sinhorwa (From \"Mehaan\")",
         "url": "https://open.spotify.com/album/451b2pGI9EXSSncT0aYLeu"
       },
@@ -431,22 +447,6 @@
     {
       "added_at": "2026-03-23 13:34:43",
       "album": {
-        "name": "Jehne Kishori Mori",
-        "url": "https://open.spotify.com/album/3vQJ42HlP9D2MK9rOrpEvF"
-      },
-      "artists": [
-        {
-          "name": "Indu Sonali",
-          "url": "https://open.spotify.com/artist/0PTzUYVfb8g1RhML4H0sho"
-        }
-      ],
-      "duration_ms": 281379,
-      "name": "Jehne Kishori Mori",
-      "url": "https://open.spotify.com/track/5NAhU7NpZHDVTY9xUmkiYr"
-    },
-    {
-      "added_at": "2026-03-23 13:34:43",
-      "album": {
         "name": "Aaju Mithila Nagariya Nihal Sakhiya",
         "url": "https://open.spotify.com/album/6aqVG83R2RghR1RlyJP3om"
       },
@@ -463,18 +463,18 @@
     {
       "added_at": "2026-03-23 13:34:43",
       "album": {
-        "name": "Chutki Bhar Senura",
-        "url": "https://open.spotify.com/album/1UKdtZNcnZ4pYTCgQC7S1w"
+        "name": "Dulha Hindustani (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5d8ugrxneHuJBxahIBEA8P"
       },
       "artists": [
         {
-          "name": "Sushant Asthana",
-          "url": "https://open.spotify.com/artist/70DPuZFzmT4KpKWukOS45q"
+          "name": "Alka Singh",
+          "url": "https://open.spotify.com/artist/7rOPbV4rxVRfNvwrfeEKU7"
         }
       ],
-      "duration_ms": 412992,
-      "name": "Chutki Bhar Senura",
-      "url": "https://open.spotify.com/track/0ERPhyi69zPIsDSbFlQTZo"
+      "duration_ms": 221560,
+      "name": "Doli Leke Aihein Dulhiniya",
+      "url": "https://open.spotify.com/track/58rf0fEiolEKlQjUnSWGT5"
     },
     {
       "added_at": "2026-03-23 13:34:43",
@@ -495,18 +495,18 @@
     {
       "added_at": "2026-03-23 13:34:43",
       "album": {
-        "name": "Dulha Hindustani (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5d8ugrxneHuJBxahIBEA8P"
+        "name": "Chutki Bhar Senura",
+        "url": "https://open.spotify.com/album/1UKdtZNcnZ4pYTCgQC7S1w"
       },
       "artists": [
         {
-          "name": "Alka Singh",
-          "url": "https://open.spotify.com/artist/7rOPbV4rxVRfNvwrfeEKU7"
+          "name": "Sushant Asthana",
+          "url": "https://open.spotify.com/artist/70DPuZFzmT4KpKWukOS45q"
         }
       ],
-      "duration_ms": 221560,
-      "name": "Doli Leke Aihein Dulhiniya",
-      "url": "https://open.spotify.com/track/58rf0fEiolEKlQjUnSWGT5"
+      "duration_ms": 412992,
+      "name": "Chutki Bhar Senura",
+      "url": "https://open.spotify.com/track/0ERPhyi69zPIsDSbFlQTZo"
     },
     {
       "added_at": "2026-03-23 13:34:43",
@@ -604,6 +604,26 @@
       },
       "artists": [
         {
+          "name": "Rajnish Mishra",
+          "url": "https://open.spotify.com/artist/6CwN1T7GObQ3G0mZJzuLwO"
+        },
+        {
+          "name": "Rajesh Jha",
+          "url": "https://open.spotify.com/artist/51rEFvnRaw5mZbcKg5T8zj"
+        }
+      ],
+      "duration_ms": 271694,
+      "name": "Baliya Baraat Jaai (From \"Nirhua Rikshawala\")",
+      "url": "https://open.spotify.com/track/0BygvN78MZMLGIBwJBrZmD"
+    },
+    {
+      "added_at": "2026-03-23 13:34:43",
+      "album": {
+        "name": "Bhojpuri Vivah Geet",
+        "url": "https://open.spotify.com/album/1Wi0n2gC2filR7gxvsRlBV"
+      },
+      "artists": [
+        {
           "name": "Deepa Narayan Jha",
           "url": "https://open.spotify.com/artist/6SzXWOTikoakLyVORKpugx"
         },
@@ -619,26 +639,6 @@
       "duration_ms": 278816,
       "name": "Banno Ke Hardi Lagaav Re (From \"Ho Gayini Diwana Tohra Pyar Mein\")",
       "url": "https://open.spotify.com/track/3VpNZCtxUFbIPkkAQ38oo0"
-    },
-    {
-      "added_at": "2026-03-23 13:34:43",
-      "album": {
-        "name": "Bhojpuri Vivah Geet",
-        "url": "https://open.spotify.com/album/1Wi0n2gC2filR7gxvsRlBV"
-      },
-      "artists": [
-        {
-          "name": "Rajnish Mishra",
-          "url": "https://open.spotify.com/artist/6CwN1T7GObQ3G0mZJzuLwO"
-        },
-        {
-          "name": "Rajesh Jha",
-          "url": "https://open.spotify.com/artist/51rEFvnRaw5mZbcKg5T8zj"
-        }
-      ],
-      "duration_ms": 271694,
-      "name": "Baliya Baraat Jaai (From \"Nirhua Rikshawala\")",
-      "url": "https://open.spotify.com/track/0BygvN78MZMLGIBwJBrZmD"
     },
     {
       "added_at": "2026-03-23 13:34:43",
@@ -683,22 +683,6 @@
     {
       "added_at": "2026-03-23 13:34:43",
       "album": {
-        "name": "Senura Chhodave La Gaon",
-        "url": "https://open.spotify.com/album/3xNSBgYyybfL3GvmueMqzv"
-      },
-      "artists": [
-        {
-          "name": "Priyanka Singh",
-          "url": "https://open.spotify.com/artist/6a5KdTA4zpapsLLfyiNk0M"
-        }
-      ],
-      "duration_ms": 321280,
-      "name": "Senura Chhodave La Gaon",
-      "url": "https://open.spotify.com/track/03OMZYOx4xz6gCs3drFx2e"
-    },
-    {
-      "added_at": "2026-03-23 13:34:43",
-      "album": {
         "name": "CHALNI KE CHALAL DULHA",
         "url": "https://open.spotify.com/album/6RxeSlE552Lce1IyBU3ALw"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 778125,
       "name": "Shubh Vivah",
       "url": "https://open.spotify.com/track/4P0iD4tryb0xaRJR9GKZDQ"
+    },
+    {
+      "added_at": "2026-03-23 13:34:43",
+      "album": {
+        "name": "Senura Chhodave La Gaon",
+        "url": "https://open.spotify.com/album/3xNSBgYyybfL3GvmueMqzv"
+      },
+      "artists": [
+        {
+          "name": "Priyanka Singh",
+          "url": "https://open.spotify.com/artist/6a5KdTA4zpapsLLfyiNk0M"
+        }
+      ],
+      "duration_ms": 321280,
+      "name": "Senura Chhodave La Gaon",
+      "url": "https://open.spotify.com/track/03OMZYOx4xz6gCs3drFx2e"
     },
     {
       "added_at": "2026-03-23 13:34:43",
@@ -847,18 +847,18 @@
     {
       "added_at": "2026-03-23 13:34:43",
       "album": {
-        "name": "Mangal Geet",
-        "url": "https://open.spotify.com/album/5LRXr1pKz4moRJ8bH6afmh"
+        "name": "Kothwa Upar Baba (Wedding Song)",
+        "url": "https://open.spotify.com/album/7is37iX44ubPEy8hqwmEfq"
       },
       "artists": [
         {
-          "name": "Devi",
-          "url": "https://open.spotify.com/artist/5w9vr3Fiv8Up0KCOz6fgAk"
+          "name": "Khushi Kakkar",
+          "url": "https://open.spotify.com/artist/0BJNNzQGYD82tPvp5ziJiu"
         }
       ],
-      "duration_ms": 404096,
-      "name": "Hare-Hare Hare Dada",
-      "url": "https://open.spotify.com/track/1atl5wZPYRVqYotOzmiWiL"
+      "duration_ms": 140000,
+      "name": "Kothwa Upar Baba (Wedding Song)",
+      "url": "https://open.spotify.com/track/11w8nTWqAWIZ33GvWyYklB"
     },
     {
       "added_at": "2026-03-23 13:34:43",

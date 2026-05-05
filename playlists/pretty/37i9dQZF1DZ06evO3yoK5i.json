@@ -1,12 +1,12 @@
 {
   "description": "This is Eros Ramazzotti. The essential tracks, all in one playlist.",
-  "num_followers": 251319,
+  "num_followers": 251347,
   "original_name": "This Is Eros Ramazzotti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afU+gAAAAAA3rqgt6HTmNPi4YOVkwTf5",
+  "snapshot_id": "afaQAAAAAAB0a8An/5W6jK6eBvN0uK/7",
   "tracks": [
     {
       "added_at": null,
@@ -215,22 +215,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Estilolibre (Spanish Version)",
-        "url": "https://open.spotify.com/album/5T0HgCj7T4adMFXKGHV5qf"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 240893,
-      "name": "Fuego en el Fuego",
-      "url": "https://open.spotify.com/track/5zGJT3TTShcNHeJeDrjPvs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The World Of Pavarotti",
         "url": "https://open.spotify.com/album/4sZtLMwl4ga9aV73G1Nn8D"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 275733,
       "name": "Se Bastasse Una Canzone",
       "url": "https://open.spotify.com/track/1Mc6y8Q3MYppvrCylqDkwO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Estilolibre (Spanish Version)",
+        "url": "https://open.spotify.com/album/5T0HgCj7T4adMFXKGHV5qf"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 240893,
+      "name": "Fuego en el Fuego",
+      "url": "https://open.spotify.com/track/5zGJT3TTShcNHeJeDrjPvs"
     },
     {
       "added_at": null,
@@ -579,22 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "9 (Spanish Version)",
-        "url": "https://open.spotify.com/album/3hPQaa3lqJWCOzA2B6LZye"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 276920,
-      "name": "Un Segundo de Paz",
-      "url": "https://open.spotify.com/track/6lB4izeAPef18J2djGVbyD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Estilolibre",
         "url": "https://open.spotify.com/album/6czZYpDVUWanP8jHDNkdRb"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 278693,
       "name": "Un Angel No Es",
       "url": "https://open.spotify.com/track/11hEETjPqHR7Izl88OgKr0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "9 (Spanish Version)",
+        "url": "https://open.spotify.com/album/3hPQaa3lqJWCOzA2B6LZye"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 276920,
+      "name": "Un Segundo de Paz",
+      "url": "https://open.spotify.com/track/6lB4izeAPef18J2djGVbyD"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Para ahogar las penas en el fondo de una botella. Jessi Uribe en portada.",
-  "num_followers": 168180,
+  "num_followers": 168202,
   "original_name": "Rancheras, Despecho & Licor",
   "owner": {
     "name": "Spotify",
@@ -179,6 +179,22 @@
     {
       "added_at": "2025-12-05 04:59:34",
       "album": {
+        "name": "KG0516",
+        "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 217213,
+      "name": "200 COPAS",
+      "url": "https://open.spotify.com/track/0aZnyTWJNgdzYoOiaW8HKG"
+    },
+    {
+      "added_at": "2025-12-05 04:59:34",
+      "album": {
         "name": "Botella Tras Botella",
         "url": "https://open.spotify.com/album/3Jv8XjzlQel3avRbOzysXB"
       },
@@ -195,22 +211,6 @@
       "duration_ms": 197333,
       "name": "Botella Tras Botella",
       "url": "https://open.spotify.com/track/2MnLkFqY9Rpg9s3Zv6ZJdK"
-    },
-    {
-      "added_at": "2025-12-05 04:59:34",
-      "album": {
-        "name": "KG0516",
-        "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 217213,
-      "name": "200 COPAS",
-      "url": "https://open.spotify.com/track/0aZnyTWJNgdzYoOiaW8HKG"
     },
     {
       "added_at": "2025-12-05 04:59:34",
@@ -351,22 +351,6 @@
     {
       "added_at": "2025-12-05 04:59:34",
       "album": {
-        "name": "Mexicano Hasta Las Pampas",
-        "url": "https://open.spotify.com/album/7KIEEuRTgrJIFx6U1e0X3q"
-      },
-      "artists": [
-        {
-          "name": "Diego Verdaguer",
-          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
-        }
-      ],
-      "duration_ms": 213863,
-      "name": "Qui\u00e9n De Los Dos Ser\u00e1",
-      "url": "https://open.spotify.com/track/66veRqqrxhfa1Q9088RmPS"
-    },
-    {
-      "added_at": "2025-12-05 04:59:34",
-      "album": {
         "name": "Que Vuelvas",
         "url": "https://open.spotify.com/album/3dLJKctfTGFr731SvtnS3j"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 169418,
       "name": "Que Vuelvas",
       "url": "https://open.spotify.com/track/6Um358vY92UBv5DloTRX9L"
+    },
+    {
+      "added_at": "2025-12-05 04:59:34",
+      "album": {
+        "name": "Mexicano Hasta Las Pampas",
+        "url": "https://open.spotify.com/album/7KIEEuRTgrJIFx6U1e0X3q"
+      },
+      "artists": [
+        {
+          "name": "Diego Verdaguer",
+          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
+        }
+      ],
+      "duration_ms": 213863,
+      "name": "Qui\u00e9n De Los Dos Ser\u00e1",
+      "url": "https://open.spotify.com/track/66veRqqrxhfa1Q9088RmPS"
     },
     {
       "added_at": "2025-12-05 04:59:34",
@@ -439,22 +439,6 @@
     {
       "added_at": "2025-12-05 04:59:34",
       "album": {
-        "name": "Mexicano Hasta Las Pampas",
-        "url": "https://open.spotify.com/album/7KIEEuRTgrJIFx6U1e0X3q"
-      },
-      "artists": [
-        {
-          "name": "Diego Verdaguer",
-          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
-        }
-      ],
-      "duration_ms": 174157,
-      "name": "Voy A Conquistarte",
-      "url": "https://open.spotify.com/track/3ykJeceAqPKiwnFPpzUNUq"
-    },
-    {
-      "added_at": "2025-12-05 04:59:34",
-      "album": {
         "name": "De Hoy En Adelante, Que Te Vaya Bien",
         "url": "https://open.spotify.com/album/7GMOWbeeTcIQrI8StlVDqh"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 213333,
       "name": "Fuentes De Ortiz",
       "url": "https://open.spotify.com/track/3pPzYqVcgUvaPBwUpjc90j"
+    },
+    {
+      "added_at": "2025-12-05 04:59:34",
+      "album": {
+        "name": "Mexicano Hasta Las Pampas",
+        "url": "https://open.spotify.com/album/7KIEEuRTgrJIFx6U1e0X3q"
+      },
+      "artists": [
+        {
+          "name": "Diego Verdaguer",
+          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
+        }
+      ],
+      "duration_ms": 174157,
+      "name": "Voy A Conquistarte",
+      "url": "https://open.spotify.com/track/3ykJeceAqPKiwnFPpzUNUq"
     },
     {
       "added_at": "2025-12-05 04:59:34",
@@ -803,22 +803,6 @@
     {
       "added_at": "2025-12-05 04:59:34",
       "album": {
-        "name": "Por Siempre (Deluxe)",
-        "url": "https://open.spotify.com/album/2lQvOIRLasJVmvlVtBG7dm"
-      },
-      "artists": [
-        {
-          "name": "Nico Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip"
-        }
-      ],
-      "duration_ms": 249375,
-      "name": "El Malo",
-      "url": "https://open.spotify.com/track/1mN5WYv2oJF0wHks5qx9aH"
-    },
-    {
-      "added_at": "2025-12-05 04:59:34",
-      "album": {
         "name": "Las Grandes Norte\u00f1as De Los Idolos Del Pueblo",
         "url": "https://open.spotify.com/album/7MLCcIOXHAC9HsgOWWEmvL"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 144706,
       "name": "Si Nos Dejan",
       "url": "https://open.spotify.com/track/1mTWvb5uY8R6tU7iCLtiUo"
+    },
+    {
+      "added_at": "2025-12-05 04:59:34",
+      "album": {
+        "name": "Por Siempre (Deluxe)",
+        "url": "https://open.spotify.com/album/2lQvOIRLasJVmvlVtBG7dm"
+      },
+      "artists": [
+        {
+          "name": "Nico Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip"
+        }
+      ],
+      "duration_ms": 249375,
+      "name": "El Malo",
+      "url": "https://open.spotify.com/track/1mN5WYv2oJF0wHks5qx9aH"
     },
     {
       "added_at": "2025-12-05 04:59:34",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2025-12-05 04:59:34",
       "album": {
-        "name": "Juan Gabriel",
-        "url": "https://open.spotify.com/album/43k4po9vUTVv54kNCBXWcT"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 182880,
-      "name": "\u00bfPor Qu\u00e9 Me Haces Llorar?",
-      "url": "https://open.spotify.com/track/68pE8830rWrd5LSSfKcRqn"
-    },
-    {
-      "added_at": "2025-12-05 04:59:34",
-      "album": {
         "name": "2 O 3 Botellas",
         "url": "https://open.spotify.com/album/2kk1iU5HnwFoA80NZUPDe7"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 173093,
       "name": "2 O 3 Botellas",
       "url": "https://open.spotify.com/track/346bfJqsooK4mXr2SLT3t3"
+    },
+    {
+      "added_at": "2025-12-05 04:59:34",
+      "album": {
+        "name": "Juan Gabriel",
+        "url": "https://open.spotify.com/album/43k4po9vUTVv54kNCBXWcT"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 182880,
+      "name": "\u00bfPor Qu\u00e9 Me Haces Llorar?",
+      "url": "https://open.spotify.com/track/68pE8830rWrd5LSSfKcRqn"
     },
     {
       "added_at": "2025-12-05 04:59:34",
@@ -1507,18 +1507,22 @@
     {
       "added_at": "2025-12-05 04:59:34",
       "album": {
-        "name": "Que No Se Caiga el Ritmo",
-        "url": "https://open.spotify.com/album/0EXq8bLcuNc6DIj20qRFgj"
+        "name": "Las Locuras M\u00edas",
+        "url": "https://open.spotify.com/album/53j31ilieZGhnqgWzJW17G"
       },
       "artists": [
         {
-          "name": "Espinoza Paz",
-          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
+          "name": "Omar Chaparro",
+          "url": "https://open.spotify.com/artist/4c2iIMx6xBNZkK79QTilJ6"
+        },
+        {
+          "name": "Joey Montana",
+          "url": "https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX"
         }
       ],
-      "duration_ms": 231916,
-      "name": "Soltero Feliz",
-      "url": "https://open.spotify.com/track/0J3K43YwdkPzfce68mdQrW"
+      "duration_ms": 224810,
+      "name": "Las Locuras M\u00edas",
+      "url": "https://open.spotify.com/track/0U5xDCt05URDZj92LFx0M1"
     },
     {
       "added_at": "2025-12-05 04:59:34",
@@ -1539,22 +1543,18 @@
     {
       "added_at": "2025-12-05 04:59:34",
       "album": {
-        "name": "Las Locuras M\u00edas",
-        "url": "https://open.spotify.com/album/53j31ilieZGhnqgWzJW17G"
+        "name": "Que No Se Caiga el Ritmo",
+        "url": "https://open.spotify.com/album/0EXq8bLcuNc6DIj20qRFgj"
       },
       "artists": [
         {
-          "name": "Omar Chaparro",
-          "url": "https://open.spotify.com/artist/4c2iIMx6xBNZkK79QTilJ6"
-        },
-        {
-          "name": "Joey Montana",
-          "url": "https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX"
+          "name": "Espinoza Paz",
+          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
         }
       ],
-      "duration_ms": 224810,
-      "name": "Las Locuras M\u00edas",
-      "url": "https://open.spotify.com/track/0U5xDCt05URDZj92LFx0M1"
+      "duration_ms": 231916,
+      "name": "Soltero Feliz",
+      "url": "https://open.spotify.com/track/0J3K43YwdkPzfce68mdQrW"
     },
     {
       "added_at": "2025-12-05 04:59:34",
@@ -1579,22 +1579,50 @@
     {
       "added_at": "2025-12-05 04:59:34",
       "album": {
-        "name": "Mi Venganza",
-        "url": "https://open.spotify.com/album/4GrlF2rRb3Xg9o4aPPKOik"
+        "name": "Mis Borracheras",
+        "url": "https://open.spotify.com/album/7gq0O9v34SWXIzggHHOZli"
       },
       "artists": [
         {
           "name": "Alzate",
           "url": "https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu"
-        },
-        {
-          "name": "Yeison Jimenez",
-          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
         }
       ],
-      "duration_ms": 191634,
-      "name": "Mi Venganza",
-      "url": "https://open.spotify.com/track/0z7h1C28EemMAFcpkp0iWL"
+      "duration_ms": 167895,
+      "name": "Mis Borracheras",
+      "url": "https://open.spotify.com/track/3V9ZEYBGRNiogfBzY5kffn"
+    },
+    {
+      "added_at": "2025-12-05 04:59:34",
+      "album": {
+        "name": "Te Hubieras Ido Antes",
+        "url": "https://open.spotify.com/album/6BIQDuXvqKsUb1jj6yvqFf"
+      },
+      "artists": [
+        {
+          "name": "Pipe Bueno",
+          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
+        }
+      ],
+      "duration_ms": 193071,
+      "name": "Te Hubieras Ido Antes",
+      "url": "https://open.spotify.com/track/0uw9huLXX2ne9bkisvYUFH"
+    },
+    {
+      "added_at": "2025-12-05 04:59:34",
+      "album": {
+        "name": "No Es Por Ac\u00e1",
+        "url": "https://open.spotify.com/album/452R0kJudc73I2N1hxhL7k"
+      },
+      "artists": [
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 167692,
+      "name": "No Es Por Ac\u00e1",
+      "url": "https://open.spotify.com/track/3bvJftZKZe5QKz433NczyV"
     },
     {
       "added_at": "2025-12-05 04:59:34",
@@ -1619,38 +1647,6 @@
     {
       "added_at": "2025-12-05 04:59:34",
       "album": {
-        "name": "No Es Por Ac\u00e1",
-        "url": "https://open.spotify.com/album/452R0kJudc73I2N1hxhL7k"
-      },
-      "artists": [
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 167692,
-      "name": "No Es Por Ac\u00e1",
-      "url": "https://open.spotify.com/track/3bvJftZKZe5QKz433NczyV"
-    },
-    {
-      "added_at": "2025-12-05 04:59:34",
-      "album": {
-        "name": "Te Hubieras Ido Antes",
-        "url": "https://open.spotify.com/album/6BIQDuXvqKsUb1jj6yvqFf"
-      },
-      "artists": [
-        {
-          "name": "Pipe Bueno",
-          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
-        }
-      ],
-      "duration_ms": 193071,
-      "name": "Te Hubieras Ido Antes",
-      "url": "https://open.spotify.com/track/0uw9huLXX2ne9bkisvYUFH"
-    },
-    {
-      "added_at": "2025-12-05 04:59:34",
-      "album": {
         "name": "Rep\u00edtelas",
         "url": "https://open.spotify.com/album/6GMiVgtsRUVMb1ZCIxQoYi"
       },
@@ -1667,54 +1663,38 @@
     {
       "added_at": "2025-12-05 04:59:34",
       "album": {
-        "name": "Mis Borracheras",
-        "url": "https://open.spotify.com/album/7gq0O9v34SWXIzggHHOZli"
+        "name": "Mi Venganza",
+        "url": "https://open.spotify.com/album/4GrlF2rRb3Xg9o4aPPKOik"
       },
       "artists": [
         {
           "name": "Alzate",
           "url": "https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu"
-        }
-      ],
-      "duration_ms": 167895,
-      "name": "Mis Borracheras",
-      "url": "https://open.spotify.com/track/3V9ZEYBGRNiogfBzY5kffn"
-    },
-    {
-      "added_at": "2025-12-05 04:59:34",
-      "album": {
-        "name": "Las Compuse para Ti",
-        "url": "https://open.spotify.com/album/6MPAzfdQFWe5IadlxhcUNv"
-      },
-      "artists": [
-        {
-          "name": "Espinoza Paz",
-          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
-        }
-      ],
-      "duration_ms": 200384,
-      "name": "Que Te Lo Crea Tu Madre",
-      "url": "https://open.spotify.com/track/1FEH4cNvTNkBO5tM4mMyag"
-    },
-    {
-      "added_at": "2025-12-05 04:59:34",
-      "album": {
-        "name": "La Conquista",
-        "url": "https://open.spotify.com/album/5uZpOJO7pLBQ7nSHE1fjjY"
-      },
-      "artists": [
-        {
-          "name": "Paola Jara",
-          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
         },
         {
-          "name": "Jessi Uribe",
-          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+          "name": "Yeison Jimenez",
+          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
         }
       ],
-      "duration_ms": 186378,
-      "name": "La Conquista",
-      "url": "https://open.spotify.com/track/4o5DwAte1mdSB3YfIKwZjm"
+      "duration_ms": 191634,
+      "name": "Mi Venganza",
+      "url": "https://open.spotify.com/track/0z7h1C28EemMAFcpkp0iWL"
+    },
+    {
+      "added_at": "2025-12-05 04:59:34",
+      "album": {
+        "name": "De Pura Rabia",
+        "url": "https://open.spotify.com/album/3aKCApnTz9ESmKTUenfojX"
+      },
+      "artists": [
+        {
+          "name": "Yeison Jimenez",
+          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
+        }
+      ],
+      "duration_ms": 187397,
+      "name": "De Pura Rabia",
+      "url": "https://open.spotify.com/track/4bjhTbUKjfxODbAgUNAwHT"
     },
     {
       "added_at": "2025-12-05 04:59:34",
@@ -1731,6 +1711,22 @@
       "duration_ms": 197642,
       "name": "Cupido Fall\u00f3",
       "url": "https://open.spotify.com/track/42RKuMMmSjr4AX3m5RRm8L"
+    },
+    {
+      "added_at": "2025-12-05 04:59:34",
+      "album": {
+        "name": "Las Compuse para Ti",
+        "url": "https://open.spotify.com/album/6MPAzfdQFWe5IadlxhcUNv"
+      },
+      "artists": [
+        {
+          "name": "Espinoza Paz",
+          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
+        }
+      ],
+      "duration_ms": 200384,
+      "name": "Que Te Lo Crea Tu Madre",
+      "url": "https://open.spotify.com/track/1FEH4cNvTNkBO5tM4mMyag"
     }
   ],
   "unique_name": "Rancheras, Despecho & Licor",

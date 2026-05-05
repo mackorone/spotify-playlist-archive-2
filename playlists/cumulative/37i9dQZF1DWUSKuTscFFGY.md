@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés pop\. Photo : Madonna & Sabrina Carpenter
 
-855 songs - 1 day 20 hr 30 min
+856 songs - 1 day 20 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -261,6 +261,7 @@
 | [Feels Like Heaven](https://open.spotify.com/track/1jWjsj9YKDoYhTVoZnSivY) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Feels Like Heaven](https://open.spotify.com/album/5SaGyl331ck5Z5CQaIntGz) | 3:13 | 2026-01-23 | 2026-02-27 |
 | [feelslikeimfallinginlove](https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [feelslikeimfallinginlove](https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve) | 3:57 | 2024-06-20 | 2024-09-27 |
 | [FEVER DREAM](https://open.spotify.com/track/7ogpGbKc4Io6NCU6ydxXwZ) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [FEVER DREAM](https://open.spotify.com/album/1tJQ5Mp1XSf7waZzH6KhlJ) | 2:33 | 2026-03-05 | 2026-04-18 |
+| [FINE PLACE TO DIE](https://open.spotify.com/track/2k4PvUBCu1mkNbXLXhvaBW) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [FINE PLACE TO DIE](https://open.spotify.com/album/5BE6sXUzT8u1Dm02n1pN5r) | 3:07 | 2026-05-04 |  |
 | [Flava \(feat\. Coi Leray\)](https://open.spotify.com/track/3VDpWtgUilVuM2WICHgr9n) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Never Gets Late Here](https://open.spotify.com/album/2wkK1n9m6c7OutXRgtvVsz) | 2:44 | 2024-05-23 | 2024-06-01 |
 | [flip phone](https://open.spotify.com/track/0jLYbfU5qwk4ivxrE4sZUi) | [PIAO](https://open.spotify.com/artist/3WRVVRVjdDenvXlJgs2WXb) | [flip phone](https://open.spotify.com/album/0Kwwg43ZAWqx7W3QO7Baww) | 2:04 | 2024-06-27 | 2024-07-13 |
 | [Focu 'Ranni](https://open.spotify.com/track/3aIGNjFJPjrGpe24OFMSUH) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [LUX \(Complete Works\)](https://open.spotify.com/album/3goLwu2fkSSmghikOcVufU) | 2:50 | 2026-04-17 |  |
@@ -611,7 +612,7 @@
 | [Promise?](https://open.spotify.com/track/6Or4gNQC2EkixDGiufQ3F4) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [Promise?](https://open.spotify.com/album/4C0Jn8EWIX77dDQum3oNJO) | 3:12 | 2026-04-30 |  |
 | [push me over](https://open.spotify.com/track/4APakyNxphnhzMWutMzLWX) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Intermission](https://open.spotify.com/album/4AArez9tyeiLb4TZuf8Y5c) | 3:36 | 2024-08-08 | 2024-08-23 |
 | [Pussy Palace](https://open.spotify.com/track/73vfMXcXa6iY1E3lpf2fZO) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [West End Girl](https://open.spotify.com/album/4Dn3Z14YfT2gQVDgLmWUVn) | 4:01 | 2025-10-23 | 2026-02-27 |
-| [RATHER BE \(feat\. Lithe\)](https://open.spotify.com/track/1IwA4UYENdDLtR0IlfYFnE) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [BEFORE I FORGET](https://open.spotify.com/album/5apkkoLPJJYZcghFfuNTF3) | 4:24 | 2026-01-09 |  |
+| [RATHER BE \(feat\. Lithe\)](https://open.spotify.com/track/1IwA4UYENdDLtR0IlfYFnE) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [BEFORE I FORGET](https://open.spotify.com/album/5apkkoLPJJYZcghFfuNTF3) | 4:24 | 2026-01-09 | 2026-05-05 |
 | [Rebound \(feat\. Anuel AA\)](https://open.spotify.com/track/0kc2XuAnTuAA4viTMoKsjV) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [This Is Me...Now \(Deluxe\)](https://open.spotify.com/album/5n2H8XDZfGQS92t0dpTNtg) | 3:19 | 2024-02-15 | 2024-03-23 |
 | [RED FLAG.](https://open.spotify.com/track/3IjFwyQmjlLTrApPSGOlf8) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [.](https://open.spotify.com/album/0kjnLvCvaGwRDJ53kvdqi9) | 3:34 | 2025-07-03 | 2025-09-12 |
 | [Refuge](https://open.spotify.com/track/0cVITrJKWy47OkoU1KGhDa) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Refuge](https://open.spotify.com/album/348jqSYlJIasrUNwQMtepZ) | 3:38 | 2026-02-19 |  |

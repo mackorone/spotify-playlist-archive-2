@@ -4,7 +4,7 @@
 
 > 
 
-2,404 songs - 5 day 9 hr 16 min
+2,405 songs - 5 day 9 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -709,6 +709,7 @@
 | [Facebook.com](https://open.spotify.com/track/2eyDbHAGCtdkCGSGJafZT4) | [Memo Boy](https://open.spotify.com/artist/2jwC7uml6QVgLBfx1Hbtek) | [Songs & Demos 2015\-2017](https://open.spotify.com/album/4Ei52mFcaEtc4yrQAPGS8w) | 3:38 | 2022-04-03 |  |
 | [Faceshopping](https://open.spotify.com/track/0y4YmA9UGpQnWdIFbWBHu0) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/4z3YbEkKWwiIMSJTWUQbTH) | 3:56 | 2021-08-05 |  |
 | [Faerie's Aire and Death Waltz](https://open.spotify.com/track/0UXqmYnBATc68rChMCnBS5) | [John Stump](https://open.spotify.com/artist/7IqndUqbfr3AIGDDIzgerV), [Julio Abreu](https://open.spotify.com/artist/2qE4RWQ05HnUvNX4x5elTX) | [Faerie's Aire and Death Waltz](https://open.spotify.com/album/7E36Zs7SvS2O1xf9tDsLi6) | 3:18 | 2022-11-12 |  |
+| [fafo](https://open.spotify.com/track/59N5Xs2k47ESLEeRB84hWW) | [Zack Fox](https://open.spotify.com/artist/1UH80jhsYsFztK0anu2FNS) | [shut the fuck up talking to me](https://open.spotify.com/album/2As0TCvNIO3mJ4yAthXtYZ) | 2:38 | 2026-05-05 |  |
 | [Faget](https://open.spotify.com/track/7kVrQ79jg4nd1r6H9CrmIk) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Korn](https://open.spotify.com/album/7D3XFJlfZIkmGWqZXm2X8z) | 5:49 | 2022-02-04 |  |
 | [Faggot](https://open.spotify.com/track/09RhTAi0nuzCs5KS2XWSs5) | [Mindless Self Indulgence](https://open.spotify.com/artist/5R5MLOQbI4lb7GHYioPqoN) | [Frankenstein Girls Will Seem Strangely Sexy](https://open.spotify.com/album/4Ii2BtJDsrOXL8EkrLvzAm) | 2:43 | 2021-08-24 |  |
 | [Fahrradsattel](https://open.spotify.com/track/3svmi1v7HMlyYb7Pnossz6) | [Pisse](https://open.spotify.com/artist/5rtJUzDnPO5m2cDubKH5u3) | [Kohlrübenwinter](https://open.spotify.com/album/6l08YwLZJWq8qfaDv2gkWu) | 1:49 | 2021-08-05 |  |

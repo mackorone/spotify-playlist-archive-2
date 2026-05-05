@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWeWDl2F7vbH.md) - [plain]
 
 > Celebrating the iconic tracks from the black queer club scene in 1980s and 1990s Chicago \- the defining era of house music\. Cover: Frankie Knuckles
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,379 likes - 50 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,399 likes - 50 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWeWDl2F7vbH.md) - [plain]
 | 7 | [Someday](https://open.spotify.com/track/5bGlU4BXhMRMMHWZnHuKhj) | [CeCe Rogers](https://open.spotify.com/artist/2hNpOiBBvdArEJy7ACY4O1) | [CeCe Rogers](https://open.spotify.com/album/7nxYXN1wJ2PsPpQI09abMx) | 3:50 |
 | 8 | [Your Love \(feat\. Jamie Principle\)](https://open.spotify.com/track/6tvtFyEdNpeurBkT2zNMEL) | [Frankie Knuckles](https://open.spotify.com/artist/63yl9nDNrHpiAYGlNJxxjc), [Jamie Principle](https://open.spotify.com/artist/5obQFNrkFoWB51hm1JTHMw) | [Four Most Cuts Presents \- Frankie Knuckles vs\. Mr Fingers](https://open.spotify.com/album/1OM6ULzT778hgqBI4stbFR) | 6:47 |
 | 9 | [Acid Thunder](https://open.spotify.com/track/2vR3tdPA1GsuIrJpmahB4X) | [Fast Eddie](https://open.spotify.com/artist/19slOlozrbxkEIMD8L3Qsv) | [Jack to the Sound](https://open.spotify.com/album/3lwFe9HmbSXyTjoWHlX9y9) | 4:32 |
-| 10 | [Move Your Body](https://open.spotify.com/track/5eAymAmVU6CyejjFJxvcMI) | [Marshall Jefferson](https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz) | [Frankie Knuckles Presents: His Greatest Hits from Trax Records](https://open.spotify.com/album/0FV16C1tWVlaSSYUYofPwT) | 6:45 |
+| 10 | [Move Your Body \(The House Music Anthem\) \- Remaster \[feat\. Curtis McClain\]](https://open.spotify.com/track/6hG8qz5Tc6syPSQMG5wRsR) | [Marshall Jefferson](https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz), [Curtis McClain](https://open.spotify.com/artist/0Ik99Pnfq97cEn0ScUrczM) | [Move Your Body \(The House Music Anthem\) \- Remaster \[feat\. Curtis McClain\]](https://open.spotify.com/album/7KlYBYVRKAzjQA5lZHZ3r1) | 4:52 |
 | 11 | [Get Get Down](https://open.spotify.com/track/4h4AEqy0iBbjdlbtWvIx5O) | [Paul Johnson](https://open.spotify.com/artist/4BqZuFqHJ8CLn3ig0f1m0G) | [Get Get Down](https://open.spotify.com/album/1ND1coyFl0AIA9D5OujGgg) | 6:07 |
 | 12 | [Sensation \- Long Version](https://open.spotify.com/track/3WdgafphoKHRYPnV3Raru2) | [Ron Hardy](https://open.spotify.com/artist/4E0iBKQ8E2IYxzf5oLYkHB) | [Sensation](https://open.spotify.com/album/1bEyxcFTqbWefAN6fAmk8u) | 6:38 |
 | 13 | [Dance You Mutha](https://open.spotify.com/track/4Lsm1CZ7dcStREyx82DNfY) | [Mike Dunn](https://open.spotify.com/artist/55UOywvWbUD9c6C3NSGdft) | [Dance You Mutha](https://open.spotify.com/album/46z9rRRERhimT8fptPcJMW) | 6:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWeWDl2F7vbH.md) - [plain]
 | 49 | [Turn Up The Bass \- Fast Eddie Scratch It Up Mix](https://open.spotify.com/track/4a2VdX9fRz3mFuEP17TnEn) | [Tyree Cooper](https://open.spotify.com/artist/0iQ58hVu6gA9nuuCgbnvOn) | [Turn Up The Bass](https://open.spotify.com/album/5e9sCiyp7gvkBbZkVeu0e6) | 4:58 |
 | 50 | [Dream Girl \- Wet Dream Mix](https://open.spotify.com/track/4xLRVwJ2hDzoaWijzbY6T1) | [Pierre's Pfantasy Club](https://open.spotify.com/artist/40BpVERJ6kAjii1gogXcEk) | [Dream Girl](https://open.spotify.com/album/6LUK1l2Bxmmns70WRIx5uY) | 8:53 |
 
-Snapshot ID: `AAAAAHxoVHEoRwuyICWG5cxAHAxylGAn`
+Snapshot ID: `AAAAAG2ihQBVLNly0t6s7dS8Q1kvad/n`

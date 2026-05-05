@@ -27,6 +27,24 @@
     },
     {
       "album": {
+        "name": "303 Meditation",
+        "url": "https://open.spotify.com/album/7tWmJYu84no6vae64sEXZk"
+      },
+      "artists": [
+        {
+          "name": "Giorgia Angiuli",
+          "url": "https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310588,
+      "name": "303 Meditation",
+      "url": "https://open.spotify.com/track/4UwXX4DkrmBfjmrQefcw01"
+    },
+    {
+      "album": {
         "name": "7-09",
         "url": "https://open.spotify.com/album/6nQG7eXRcdfyvCFn49wKt1"
       },
@@ -136,7 +154,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 133877,
       "name": "ACID TEMPLE",
       "url": "https://open.spotify.com/track/2fESXk5ZmkRWx0nH80KiQU"
@@ -774,10 +792,32 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 234998,
       "name": "Dusk",
       "url": "https://open.spotify.com/track/6RAH1GzmFzMgEsNYxHwSyr"
+    },
+    {
+      "album": {
+        "name": "Echoes In Motion",
+        "url": "https://open.spotify.com/album/0GTBnstBM7nLoTbHDNQgiV"
+      },
+      "artists": [
+        {
+          "name": "Popof",
+          "url": "https://open.spotify.com/artist/4f2K0RSYyxP4TUyZu1azYB"
+        },
+        {
+          "name": "Giorgia Angiuli",
+          "url": "https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144680,
+      "name": "Echoes In Motion",
+      "url": "https://open.spotify.com/track/2pX0UpPjo79AV70um6xDa4"
     },
     {
       "album": {
@@ -1880,7 +1920,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 484040,
       "name": "No One Takes Me Down",
       "url": "https://open.spotify.com/track/1z1fjczM3nuXLBdJHt3WVp"
@@ -2601,6 +2641,24 @@
     },
     {
       "album": {
+        "name": "Slow State",
+        "url": "https://open.spotify.com/album/36UiZ8Ba6eQxdv38uOZzy8"
+      },
+      "artists": [
+        {
+          "name": "Giorgia Angiuli",
+          "url": "https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303673,
+      "name": "Slow State",
+      "url": "https://open.spotify.com/track/1dG7EutxYTFdnzKbKFjfoA"
+    },
+    {
+      "album": {
         "name": "So Alive (VIP)",
         "url": "https://open.spotify.com/album/3vRNWYLHxZf8QgVa0eWspB"
       },
@@ -3006,7 +3064,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 144000,
       "name": "Tomorrow",
       "url": "https://open.spotify.com/track/7cgc7LsayrPtYm732w24Nb"
@@ -3314,7 +3372,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 135728,
       "name": "We Rave We Heal - Radio Mix",
       "url": "https://open.spotify.com/track/68fiGjEicAlOvlXmoFNlNm"

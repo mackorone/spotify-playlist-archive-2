@@ -396,7 +396,7 @@
       ],
       "date_added": "2023-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-28",
+      "date_removed": null,
       "duration_ms": 83293,
       "name": "Big City Train",
       "url": "https://open.spotify.com/track/1QF7uHKcbn3pUylZMVL6lT"
@@ -666,7 +666,7 @@
       ],
       "date_added": "2023-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-04",
+      "date_removed": null,
       "duration_ms": 47866,
       "name": "Crab Fishing",
       "url": "https://open.spotify.com/track/1EKBIa8fnpuyXqLtb9kTf8"
@@ -974,7 +974,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 66893,
       "name": "Felipe's Theme",
       "url": "https://open.spotify.com/track/7DCnWWU7KEswRD2qoqFRbU"
@@ -1270,7 +1270,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 119346,
       "name": "History of Lone Pine Falls",
       "url": "https://open.spotify.com/track/57OTA1cCqy9ao89B4Epyw1"
@@ -1831,6 +1831,24 @@
     },
     {
       "album": {
+        "name": "Margarita (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5tzRfvXjV1LLsTNbI5jPWp"
+      },
+      "artists": [
+        {
+          "name": "Germaine Franco",
+          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 41018,
+      "name": "Nanny Love",
+      "url": "https://open.spotify.com/track/2H8bDZga8Uv9NJpdCtB002"
+    },
+    {
+      "album": {
         "name": "Dora and the Lost City of Gold (Music from the Motion Picture)",
         "url": "https://open.spotify.com/album/6Y237oVQFfenPEpquf9d0p"
       },
@@ -2154,7 +2172,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-03",
+      "date_removed": null,
       "duration_ms": 86133,
       "name": "Simiana Derby Race",
       "url": "https://open.spotify.com/track/2LTelmAAj58iqRUmjxWwiq"
@@ -2320,7 +2338,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 92773,
       "name": "Ted And Felipe Arrive",
       "url": "https://open.spotify.com/track/5luoWuuRXpjursM5bDKtGN"
@@ -2540,7 +2558,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-28",
+      "date_removed": null,
       "duration_ms": 122626,
       "name": "The Legend Of The Tiger",
       "url": "https://open.spotify.com/track/5efJajWJiHRmENqLdHxWkI"

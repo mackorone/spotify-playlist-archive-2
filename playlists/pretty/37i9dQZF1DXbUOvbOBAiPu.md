@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from Madonna x Sabrina Carpenter, Lady Gaga, Lacrim and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,429 likes - 112 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,425 likes - 112 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 34 | [Love Language](https://open.spotify.com/track/5gWaqCrVKHm746uZPzCTHo) | [Isolde Lasoen](https://open.spotify.com/artist/69LIgTfuoQOAiE5wbqkMci) | [Love Language](https://open.spotify.com/album/3JVBWhK0OjHTauxHyxX1zN) | 4:45 |
 | 35 | [Medicine](https://open.spotify.com/track/1A3G4OXseKQZUrFD5U5ZSU) | [Emma Louise](https://open.spotify.com/artist/1A96iePIMNFBjLrjXEl718) | [Sunshine For Happiness](https://open.spotify.com/album/5ObLOwWHmSdIFWYY7kOgnE) | 3:38 |
 | 36 | [okaydokay\_](https://open.spotify.com/track/5Xp3lIVEYqF1XhxVOMxrTU) | [Magazines](https://open.spotify.com/artist/24YiCboyRa5iK3cHYgzjaz) | [okaydokay\_](https://open.spotify.com/album/3rl7bg0nT0CR4JGufRgOqX) | 2:40 |
-| 37 | [Papillons](https://open.spotify.com/track/54GTl6q8VYEtd9FxvHcFqN) | [EMA](https://open.spotify.com/artist/5sBs3oeSyC5mNZimFy1QHY) | [Papillons](https://open.spotify.com/album/5wN17JXmD8stoZsVoWYPOf) | 2:26 |
+| 37 | [Papillons](https://open.spotify.com/track/54GTl6q8VYEtd9FxvHcFqN) | [EMA](https://open.spotify.com/artist/5sBs3oeSyC5mNZimFy1QHY) | [Papillons](https://open.spotify.com/album/5wN17JXmD8stoZsVoWYPOf) | 2:25 |
 | 38 | [Done, So Long, Goodbye](https://open.spotify.com/track/0rPnCf3QMJXmhL1SoWDIGc) | [Tom Dice](https://open.spotify.com/artist/74uOvsg9IN62ejsQDPfbXf) | [Done, So Long, Goodbye](https://open.spotify.com/album/7eR3j6yfXuhDZUYxkENn2J) | 3:03 |
 | 39 | [Heroine](https://open.spotify.com/track/04OCeDuqT4ympbgDZ8dcfT) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Heroine](https://open.spotify.com/album/4xT3ryrqfutVzV1cJN79Ww) | 2:35 |
 | 40 | [Loner](https://open.spotify.com/track/1g9QuVejlIoAKF1b93lXwj) | [Moka Boka](https://open.spotify.com/artist/10Zy7pPIFESaB4olenUcfD) | [Loner](https://open.spotify.com/album/4Q1Hfc4FwahgFFfA8skfuQ) | 3:12 |

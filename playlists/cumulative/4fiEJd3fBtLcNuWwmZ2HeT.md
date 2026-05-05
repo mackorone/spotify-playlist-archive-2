@@ -4,7 +4,7 @@
 
 > Lmao \-.\-
 
-502 songs - 1 day 5 hr 16 min
+506 songs - 1 day 5 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -317,6 +317,7 @@
 | [worst case scenario](https://open.spotify.com/track/7HXFzil0Wio8LfKr7hIjFP) | [네스티요나](https://open.spotify.com/artist/30dzTwN7KoBFM3VwkdFcLE) | [worst case scenario](https://open.spotify.com/album/7uMW933C3vdA1GNuvNnfkL) | 3:34 | 2025-09-25 |  |
 | [Wozwald](https://open.spotify.com/track/3okYYZTWf6Z2MLxwdDkwVw) | [Yuu Miyashita](https://open.spotify.com/artist/6hJkIUy4LmRN3l0Ld99M5x), [NILFRUITS](https://open.spotify.com/artist/4vb4gG2AkqqY7W6wBIGJfU) | [Wozwald](https://open.spotify.com/album/5u0ESZHKZumWBJQD2RXRCv) | 4:52 | 2026-02-18 |  |
 | [Write over me](https://open.spotify.com/track/5e1RqXcJg9CbVsywsm85q4) | [Iyowa](https://open.spotify.com/artist/0gox2jF74UUFl8bDQYyTFr) | [Write over me](https://open.spotify.com/album/6IEHdd3zW9v3hIHLBzh1z5) | 3:11 | 2026-04-05 |  |
+| [yatsumeana](https://open.spotify.com/track/3mjDAKJ5wQeX3Qv2Jt3Uv3) | [XxXX](https://open.spotify.com/artist/6rimWLdviDbddrg9rmY88B) | [xxxx](https://open.spotify.com/album/7wNj1HwSTYsoCYKya1kZah) | 3:41 | 2026-05-04 |  |
 | [Yoidoreshirazu](https://open.spotify.com/track/26zbAdTJC4vqqpGwSzvh8Q) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [Yoidoreshirazu](https://open.spotify.com/album/32sf8CyAb7MtRbVTDJrWQA) | 2:14 | 2025-08-31 |  |
 | [You Are Also Like Me](https://open.spotify.com/track/6onHrimFWsQSZ1VxyRAaUy) | [NASTYONA](https://open.spotify.com/artist/2nUz9gLHocSgMB8zj08l1V) | [Another Secret](https://open.spotify.com/album/7qRTxfrH3dQ4camvRDNgUP) | 3:12 | 2025-09-25 |  |
 | [You will never forget me](https://open.spotify.com/track/452ASKVqm4i7fvHevyBgF3) | [Awa Dobuno](https://open.spotify.com/artist/4s9gPwB69I2H9rEwKgrWoZ) | [You will never forget me](https://open.spotify.com/album/7L8TFycwRIW9yGYsiC065k) | 3:54 | 2024-06-08 |  |
@@ -389,6 +390,8 @@
 | [バグ \(feat\. 宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&鏡音レン\)](https://open.spotify.com/track/3Lu59KjuBy96vEaMBgGPud) | [25時、ナイトコードで。](https://open.spotify.com/artist/1VMXuPyhNldYomz8ojLKP7) | [ノマド/バグ](https://open.spotify.com/album/5mZsk1IhSXRG4N2I37CRty) | 2:51 | 2024-02-19 |  |
 | [バッドエンド・エトセトラ](https://open.spotify.com/track/7jG8STJAaqnVZOETHa8bUV) | [ないきすと！](https://open.spotify.com/artist/6LjAPlaRzCuuoih9wyrS1k) | [バッドエンド・エトセトラ](https://open.spotify.com/album/3kDQISpwrueaYPtrvJGI3b) | 1:53 | 2025-10-30 |  |
 | [パステルレイン](https://open.spotify.com/track/6LgbWb24tqwQYOz2LznkMD) | [Sangatsu no Phantasia](https://open.spotify.com/artist/5WmX340gDNLIAyUcg4MzWN) | [ガールズブルー・ハッピーサッド](https://open.spotify.com/album/4zJnne9ViG9kIR8o8AntfK) | 3:32 | 2023-06-19 |  |
+| [パメラ](https://open.spotify.com/track/0kdCJN0s1FB37IJoHWaZEk) | [balloon](https://open.spotify.com/artist/49sPDY14qlYMAdi6WDsvva) | [パメラ](https://open.spotify.com/album/5ZJTnfc4A7HFzZx0DEKanl) | 3:16 | 2026-05-04 |  |
+| [パンダヒーロー \- ORIGINAL](https://open.spotify.com/track/0vENG11oPsLk9PCCH28M7S) | [hachi](https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd) | [OFFICIAL ORANGE](https://open.spotify.com/album/3LCFnbLjqO5qTbX23ZXaPI) | 3:47 | 2026-05-04 |  |
 | [ヒステリックナイトガール](https://open.spotify.com/track/1poGez6IaTb1gtJxkXdlb8) | [PSYQUI](https://open.spotify.com/artist/3p8H8HTn04KXh2NRzhKScl), [Such](https://open.spotify.com/artist/0m7tILDYjOZCFFVVGmI3io) | [STYLEY!](https://open.spotify.com/album/7wO1gjRCpHhYPbEC7hthYk) | 5:06 | 2023-06-19 |  |
 | [ヒトガワリ](https://open.spotify.com/track/40KFocvzK7xc1jHzBDM8k4) | [きくおはな](https://open.spotify.com/artist/1GBV8C0PfGVH1G5QRqHt5k) | [第二幕](https://open.spotify.com/album/7et3nHvC6nflQu4QsJkJvs) | 4:26 | 2025-09-16 |  |
 | [ビビデバ](https://open.spotify.com/track/0Gp8MWnUzS5V2lvTr25c2A) | [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [ビビデバ](https://open.spotify.com/album/3E0lLznAOWAiEWizIzWzJn) | 2:45 | 2024-11-21 |  |
@@ -401,6 +404,7 @@
 | [ヘイヴン](https://open.spotify.com/track/6aTSQHD767wxox2zqpUWj1) | [煮ル果実](https://open.spotify.com/artist/3wG9JLlVmrbpfKcBuQ2xlh) | [ヘイヴン](https://open.spotify.com/album/7tnjWKvtu1FFvWxjgXDYTW) | 3:23 | 2025-03-18 |  |
 | [ベノム](https://open.spotify.com/track/2llI6h2T2O5KZfn1OhJQAA) | [Kairikibear](https://open.spotify.com/artist/6PpaQ5s7sGyfCCL6l3yptE), [flower](https://open.spotify.com/artist/462dBSebAL2oxtCpwgMOBY) | [ベノム](https://open.spotify.com/album/4Sqv1ZQTQLa34sqLaB6o2v) | 3:23 | 2026-01-03 |  |
 | [ベビ・デビ](https://open.spotify.com/track/1tkjaxBJW8qAkBXPfxRrAy) | [CULUA](https://open.spotify.com/artist/3sQqFA3jHUjGGUoUvwX7B2) | [ベビ・デビ](https://open.spotify.com/album/0ByoLvApyMJSHqY0echmtF) | 2:56 | 2025-01-13 |  |
+| [ホワイトマインド \(feat\. 初音ミク\)](https://open.spotify.com/track/6zFiEUXgQbwOtOeYi8TJyB) | [Glue](https://open.spotify.com/artist/4RYgfACpO30g7D88VWvk85) | [ホワイトマインド](https://open.spotify.com/album/0d3l2BZ46eTTzl0ZBKNXbt) | 3:30 | 2026-05-04 |  |
 | [マトリョシカ \- ORIGINAL](https://open.spotify.com/track/74A5fPLR86U9XWYostkXwS) | [hachi](https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd) | [OFFICIAL ORANGE](https://open.spotify.com/album/3LCFnbLjqO5qTbX23ZXaPI) | 3:18 | 2024-09-08 |  |
 | [ムーンライトロマンス](https://open.spotify.com/track/3p1mXMqfdh9Ehff5nFXm95) | [hockrockb](https://open.spotify.com/artist/56pKIRNnzK6xCW508ohOo3) | [朝の迎え方](https://open.spotify.com/album/1DQo11k6IX9kBk3j7ZeCIb) | 3:08 | 2025-07-14 |  |
 | [メンヘラじゃないもん!](https://open.spotify.com/track/24E0iUwAK5CI2uUxucydxe) | [勇魚](https://open.spotify.com/artist/515c1YJxPvInDVwQbFvPvf) | [メンヘラじゃないもん!](https://open.spotify.com/album/1YO5k5RbPMiXCOp8YQG0vk) | 3:16 | 2024-08-06 |  |

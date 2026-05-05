@@ -1,6 +1,6 @@
 {
   "description": "Get into the mood with beautiful collections of Jazz Pop tunes. Cover: Laufey",
-  "num_followers": 197465,
+  "num_followers": 197501,
   "original_name": "Jazz Pop",
   "owner": {
     "name": "Spotify",
@@ -287,6 +287,22 @@
     {
       "added_at": "2026-03-14 19:25:00",
       "album": {
+        "name": "With Love",
+        "url": "https://open.spotify.com/album/1W5yRvByffHkApV5a1TtSM"
+      },
+      "artists": [
+        {
+          "name": "Greta Panettieri",
+          "url": "https://open.spotify.com/artist/7ttqjMzl0AobitVVBpX9pw"
+        }
+      ],
+      "duration_ms": 368551,
+      "name": "Goodbye Stranger",
+      "url": "https://open.spotify.com/track/65bvlsX5wqVzhRfQkV2i5w"
+    },
+    {
+      "added_at": "2026-03-14 19:25:00",
+      "album": {
         "name": "Losing Grip",
         "url": "https://open.spotify.com/album/0wA2eGX60XryWU9BJBDUAb"
       },
@@ -303,22 +319,6 @@
       "duration_ms": 250384,
       "name": "Losing Grip",
       "url": "https://open.spotify.com/track/2ZQLf4N4B9PNZBYZF6QXse"
-    },
-    {
-      "added_at": "2026-03-14 19:25:00",
-      "album": {
-        "name": "With Love",
-        "url": "https://open.spotify.com/album/1W5yRvByffHkApV5a1TtSM"
-      },
-      "artists": [
-        {
-          "name": "Greta Panettieri",
-          "url": "https://open.spotify.com/artist/7ttqjMzl0AobitVVBpX9pw"
-        }
-      ],
-      "duration_ms": 368551,
-      "name": "Goodbye Stranger",
-      "url": "https://open.spotify.com/track/65bvlsX5wqVzhRfQkV2i5w"
     },
     {
       "added_at": "2026-03-14 19:25:00",
@@ -547,6 +547,22 @@
     {
       "added_at": "2026-03-14 19:25:00",
       "album": {
+        "name": "That's What Friends Are For",
+        "url": "https://open.spotify.com/album/2zt9qqNzNtu6ym7pkIUXPZ"
+      },
+      "artists": [
+        {
+          "name": "Steve Tyrell",
+          "url": "https://open.spotify.com/artist/2UPnuV7os71xTZTyyEgj1B"
+        }
+      ],
+      "duration_ms": 223986,
+      "name": "That's What Friends Are For",
+      "url": "https://open.spotify.com/track/5Ho2diTtFka6q3a2VFpyYb"
+    },
+    {
+      "added_at": "2026-03-14 19:25:00",
+      "album": {
         "name": "Mood",
         "url": "https://open.spotify.com/album/3MtC15aQbBa9UAeNwHNEMJ"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 278239,
       "name": "By the Time I Get to Phoenix",
       "url": "https://open.spotify.com/track/4Ul1vikPHeg19Lqmw6Xbwz"
-    },
-    {
-      "added_at": "2026-03-14 19:25:00",
-      "album": {
-        "name": "That's What Friends Are For",
-        "url": "https://open.spotify.com/album/2zt9qqNzNtu6ym7pkIUXPZ"
-      },
-      "artists": [
-        {
-          "name": "Steve Tyrell",
-          "url": "https://open.spotify.com/artist/2UPnuV7os71xTZTyyEgj1B"
-        }
-      ],
-      "duration_ms": 223986,
-      "name": "That's What Friends Are For",
-      "url": "https://open.spotify.com/track/5Ho2diTtFka6q3a2VFpyYb"
     },
     {
       "added_at": "2026-03-14 19:25:00",
@@ -715,26 +715,6 @@
     {
       "added_at": "2026-03-14 19:25:00",
       "album": {
-        "name": "Much Rain",
-        "url": "https://open.spotify.com/album/6Rl3a9T2VTGwCita9jJTeo"
-      },
-      "artists": [
-        {
-          "name": "TICO DE MORAES",
-          "url": "https://open.spotify.com/artist/4B4UjhXvu9OoY3D1Tq3m05"
-        },
-        {
-          "name": "Alexander Raichenok",
-          "url": "https://open.spotify.com/artist/0gx7dOa0Yy1vWQ1XQL6ky6"
-        }
-      ],
-      "duration_ms": 286678,
-      "name": "Much Rain",
-      "url": "https://open.spotify.com/track/3R7Cy7vHabyoHeWey6n6Dn"
-    },
-    {
-      "added_at": "2026-03-14 19:25:00",
-      "album": {
         "name": "Feeling",
         "url": "https://open.spotify.com/album/6utFX9YFFC48mhZrlUcK9i"
       },
@@ -755,18 +735,22 @@
     {
       "added_at": "2026-03-14 19:25:00",
       "album": {
-        "name": "\u00e0 Fleur de Peau",
-        "url": "https://open.spotify.com/album/6HA7T7bSLycVHxv9WcfeRW"
+        "name": "Much Rain",
+        "url": "https://open.spotify.com/album/6Rl3a9T2VTGwCita9jJTeo"
       },
       "artists": [
         {
-          "name": "Cyrille Aimee",
-          "url": "https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM"
+          "name": "TICO DE MORAES",
+          "url": "https://open.spotify.com/artist/4B4UjhXvu9OoY3D1Tq3m05"
+        },
+        {
+          "name": "Alexander Raichenok",
+          "url": "https://open.spotify.com/artist/0gx7dOa0Yy1vWQ1XQL6ky6"
         }
       ],
-      "duration_ms": 258900,
-      "name": "Inside and Out",
-      "url": "https://open.spotify.com/track/590wQwgPHKRMOppPGNGmVR"
+      "duration_ms": 286678,
+      "name": "Much Rain",
+      "url": "https://open.spotify.com/track/3R7Cy7vHabyoHeWey6n6Dn"
     },
     {
       "added_at": "2026-03-14 19:25:00",
@@ -783,6 +767,38 @@
       "duration_ms": 190893,
       "name": "Let's Get Lost",
       "url": "https://open.spotify.com/track/6CqPIL8gJlNo4p9uIOF1LM"
+    },
+    {
+      "added_at": "2026-03-14 19:25:00",
+      "album": {
+        "name": "\u00e0 Fleur de Peau",
+        "url": "https://open.spotify.com/album/6HA7T7bSLycVHxv9WcfeRW"
+      },
+      "artists": [
+        {
+          "name": "Cyrille Aimee",
+          "url": "https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM"
+        }
+      ],
+      "duration_ms": 258900,
+      "name": "Inside and Out",
+      "url": "https://open.spotify.com/track/590wQwgPHKRMOppPGNGmVR"
+    },
+    {
+      "added_at": "2026-03-14 19:25:00",
+      "album": {
+        "name": "All For One",
+        "url": "https://open.spotify.com/album/6aPzahQdxU6Y2jcmdbb415"
+      },
+      "artists": [
+        {
+          "name": "Jamison Ross",
+          "url": "https://open.spotify.com/artist/7cWhEUzLtzKg5FH2JJItyK"
+        }
+      ],
+      "duration_ms": 320640,
+      "name": "Don't Go To Strangers",
+      "url": "https://open.spotify.com/track/1KMgmgjUCjSHMWaEx6z9Om"
     },
     {
       "added_at": "2026-03-14 19:25:00",
@@ -815,22 +831,6 @@
       "duration_ms": 189884,
       "name": "What Love Is For",
       "url": "https://open.spotify.com/track/7caN9iQewEakwTWWRrS3Uo"
-    },
-    {
-      "added_at": "2026-03-14 19:25:00",
-      "album": {
-        "name": "All For One",
-        "url": "https://open.spotify.com/album/6aPzahQdxU6Y2jcmdbb415"
-      },
-      "artists": [
-        {
-          "name": "Jamison Ross",
-          "url": "https://open.spotify.com/artist/7cWhEUzLtzKg5FH2JJItyK"
-        }
-      ],
-      "duration_ms": 320640,
-      "name": "Don't Go To Strangers",
-      "url": "https://open.spotify.com/track/1KMgmgjUCjSHMWaEx6z9Om"
     },
     {
       "added_at": "2026-03-14 19:25:00",
@@ -923,22 +923,6 @@
     {
       "added_at": "2026-03-14 19:25:00",
       "album": {
-        "name": "When The Stars Align",
-        "url": "https://open.spotify.com/album/4LcdQw5uwritvZ25c3Bash"
-      },
-      "artists": [
-        {
-          "name": "Caleb Dinger",
-          "url": "https://open.spotify.com/artist/5KyVVR3mKmRk3gKEDXhnVs"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "When The Stars Align",
-      "url": "https://open.spotify.com/track/71dit7trObYaqZuVU8xsBV"
-    },
-    {
-      "added_at": "2026-03-14 19:25:00",
-      "album": {
         "name": "Break In",
         "url": "https://open.spotify.com/album/5LEZDxOK0FRDjj6DlWtPMO"
       },
@@ -955,18 +939,18 @@
     {
       "added_at": "2026-03-14 19:25:00",
       "album": {
-        "name": "The Road Is Narrow",
-        "url": "https://open.spotify.com/album/7s0U8SQwkEy4E221cHJG2b"
+        "name": "When The Stars Align",
+        "url": "https://open.spotify.com/album/4LcdQw5uwritvZ25c3Bash"
       },
       "artists": [
         {
-          "name": "Jecca",
-          "url": "https://open.spotify.com/artist/6OZZbpRmu88cPW77EiVjcg"
+          "name": "Caleb Dinger",
+          "url": "https://open.spotify.com/artist/5KyVVR3mKmRk3gKEDXhnVs"
         }
       ],
-      "duration_ms": 194823,
-      "name": "the road is narrow",
-      "url": "https://open.spotify.com/track/3aqG3Xx1xOyKNVqWkppwoD"
+      "duration_ms": 201000,
+      "name": "When The Stars Align",
+      "url": "https://open.spotify.com/track/71dit7trObYaqZuVU8xsBV"
     },
     {
       "added_at": "2026-03-14 19:25:00",
@@ -987,6 +971,22 @@
     {
       "added_at": "2026-03-14 19:25:00",
       "album": {
+        "name": "The Road Is Narrow",
+        "url": "https://open.spotify.com/album/7s0U8SQwkEy4E221cHJG2b"
+      },
+      "artists": [
+        {
+          "name": "Jecca",
+          "url": "https://open.spotify.com/artist/6OZZbpRmu88cPW77EiVjcg"
+        }
+      ],
+      "duration_ms": 194823,
+      "name": "the road is narrow",
+      "url": "https://open.spotify.com/track/3aqG3Xx1xOyKNVqWkppwoD"
+    },
+    {
+      "added_at": "2026-03-14 19:25:00",
+      "album": {
         "name": "Sugilite",
         "url": "https://open.spotify.com/album/5oiFCRXohoBQcIKRZf49TN"
       },
@@ -999,6 +999,26 @@
       "duration_ms": 278961,
       "name": "Sugilite",
       "url": "https://open.spotify.com/track/4ifnTPPw3EQX0CBLRyo6cT"
+    },
+    {
+      "added_at": "2026-03-14 19:25:00",
+      "album": {
+        "name": "Collusion",
+        "url": "https://open.spotify.com/album/06hyQYD4HmLpKPhtG0BaJD"
+      },
+      "artists": [
+        {
+          "name": "Apollinare Rossi",
+          "url": "https://open.spotify.com/artist/48eBlQXonG4CHpDSshfblU"
+        },
+        {
+          "name": "Jules Renauld",
+          "url": "https://open.spotify.com/artist/1Y9ahZoSEtmas0uiZLNFbM"
+        }
+      ],
+      "duration_ms": 267302,
+      "name": "Let's Go to Bed",
+      "url": "https://open.spotify.com/track/5IOpRI9B5AdsM27NRoxFBN"
     },
     {
       "added_at": "2026-03-14 19:25:00",
@@ -1031,26 +1051,6 @@
       "duration_ms": 153573,
       "name": "Spaceman",
       "url": "https://open.spotify.com/track/562FARfp4BQjhyB70vI3dG"
-    },
-    {
-      "added_at": "2026-03-14 19:25:00",
-      "album": {
-        "name": "Collusion",
-        "url": "https://open.spotify.com/album/06hyQYD4HmLpKPhtG0BaJD"
-      },
-      "artists": [
-        {
-          "name": "Apollinare Rossi",
-          "url": "https://open.spotify.com/artist/48eBlQXonG4CHpDSshfblU"
-        },
-        {
-          "name": "Jules Renauld",
-          "url": "https://open.spotify.com/artist/1Y9ahZoSEtmas0uiZLNFbM"
-        }
-      ],
-      "duration_ms": 267302,
-      "name": "Let's Go to Bed",
-      "url": "https://open.spotify.com/track/5IOpRI9B5AdsM27NRoxFBN"
     },
     {
       "added_at": "2026-03-14 19:25:00",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2026-03-14 19:25:00",
       "album": {
-        "name": "Little Songs",
-        "url": "https://open.spotify.com/album/6F9lolDvmsdb9j8eCk2bNC"
-      },
-      "artists": [
-        {
-          "name": "Alan Hsiao",
-          "url": "https://open.spotify.com/artist/1eMnPWHlHkgdpcfc7RJOwG"
-        }
-      ],
-      "duration_ms": 211893,
-      "name": "Okay Far Away",
-      "url": "https://open.spotify.com/track/71pCUljdEvSTyXAshOr04o"
-    },
-    {
-      "added_at": "2026-03-14 19:25:00",
-      "album": {
         "name": "A Happy Thought (feat. Stu Mindeman)",
         "url": "https://open.spotify.com/album/3VtTcRNkTmnjAemUfLdy28"
       },
@@ -1215,6 +1199,22 @@
     {
       "added_at": "2026-03-14 19:25:00",
       "album": {
+        "name": "Little Songs",
+        "url": "https://open.spotify.com/album/6F9lolDvmsdb9j8eCk2bNC"
+      },
+      "artists": [
+        {
+          "name": "Alan Hsiao",
+          "url": "https://open.spotify.com/artist/1eMnPWHlHkgdpcfc7RJOwG"
+        }
+      ],
+      "duration_ms": 211893,
+      "name": "Okay Far Away",
+      "url": "https://open.spotify.com/track/71pCUljdEvSTyXAshOr04o"
+    },
+    {
+      "added_at": "2026-03-14 19:25:00",
+      "album": {
         "name": "Softly Loudly",
         "url": "https://open.spotify.com/album/6o1RyiUTwXsjy4m538872B"
       },
@@ -1227,6 +1227,22 @@
       "duration_ms": 235539,
       "name": "Love is Easy",
       "url": "https://open.spotify.com/track/6jDuNVLVqJ3MQREMcqVuOI"
+    },
+    {
+      "added_at": "2026-03-14 19:25:00",
+      "album": {
+        "name": "Hope",
+        "url": "https://open.spotify.com/album/4cas4ZXJwEuit9sjL34yHb"
+      },
+      "artists": [
+        {
+          "name": "Simone Kopmajer",
+          "url": "https://open.spotify.com/artist/7cylWVUnKfaVT2vpkNoRWB"
+        }
+      ],
+      "duration_ms": 243493,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/4f07IekrS5YArBirP3QPoa"
     },
     {
       "added_at": "2026-03-14 19:25:00",
@@ -1247,22 +1263,6 @@
       "duration_ms": 243666,
       "name": "A Bridge",
       "url": "https://open.spotify.com/track/4PGyTgWYuHcMWhJBT7Rulv"
-    },
-    {
-      "added_at": "2026-03-14 19:25:00",
-      "album": {
-        "name": "Hope",
-        "url": "https://open.spotify.com/album/4cas4ZXJwEuit9sjL34yHb"
-      },
-      "artists": [
-        {
-          "name": "Simone Kopmajer",
-          "url": "https://open.spotify.com/artist/7cylWVUnKfaVT2vpkNoRWB"
-        }
-      ],
-      "duration_ms": 243493,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/4f07IekrS5YArBirP3QPoa"
     },
     {
       "added_at": "2026-03-14 19:25:00",
@@ -1495,6 +1495,38 @@
     {
       "added_at": "2026-03-14 19:25:00",
       "album": {
+        "name": "There is a place",
+        "url": "https://open.spotify.com/album/1GQuklEK5WQisonLLQJjqG"
+      },
+      "artists": [
+        {
+          "name": "Ellen Andrea Wang",
+          "url": "https://open.spotify.com/artist/3EpohDnrFdsgQj03BOsPUf"
+        }
+      ],
+      "duration_ms": 247722,
+      "name": "There is a place",
+      "url": "https://open.spotify.com/track/5hGtLvLqN33BWKzNtEguUB"
+    },
+    {
+      "added_at": "2026-03-14 19:25:00",
+      "album": {
+        "name": "Back to the Start",
+        "url": "https://open.spotify.com/album/0NiWwfEyQTYgRltIOGJ0M6"
+      },
+      "artists": [
+        {
+          "name": "Gordon Robertson",
+          "url": "https://open.spotify.com/artist/2QOoyXdfUKSMCK1c7pDam5"
+        }
+      ],
+      "duration_ms": 196154,
+      "name": "Back to the Start",
+      "url": "https://open.spotify.com/track/4Na3IDBm27qhGq8dwz0ps2"
+    },
+    {
+      "added_at": "2026-03-14 19:25:00",
+      "album": {
         "name": "Snowflakes",
         "url": "https://open.spotify.com/album/7M6CJaL7NXBG7EWRnsizuI"
       },
@@ -1515,6 +1547,38 @@
       "duration_ms": 224400,
       "name": "Snowflakes",
       "url": "https://open.spotify.com/track/3Hbylm12DZXnOJQBdBkOaf"
+    },
+    {
+      "added_at": "2026-03-14 19:25:00",
+      "album": {
+        "name": "Reverie",
+        "url": "https://open.spotify.com/album/1yiHIdrp16UXHGjwbbCmxJ"
+      },
+      "artists": [
+        {
+          "name": "Untitled Band",
+          "url": "https://open.spotify.com/artist/4gfu5YxjKlaDWdnJ7VAM1I"
+        }
+      ],
+      "duration_ms": 229687,
+      "name": "If I'd Had Your Heart",
+      "url": "https://open.spotify.com/track/2fVdaV8noj9GhCpXTxVm2c"
+    },
+    {
+      "added_at": "2026-03-14 19:25:00",
+      "album": {
+        "name": "Catwoman",
+        "url": "https://open.spotify.com/album/1F3oZyWkL83S4CjBvVMhWj"
+      },
+      "artists": [
+        {
+          "name": "Stephanie Domet",
+          "url": "https://open.spotify.com/artist/03vbrO2FBrwjmzWk9ukzSZ"
+        }
+      ],
+      "duration_ms": 211343,
+      "name": "Catwoman",
+      "url": "https://open.spotify.com/track/1pu7UTT1w7DjazO2in03EE"
     },
     {
       "added_at": "2026-03-14 19:25:00",
@@ -1559,22 +1623,6 @@
     {
       "added_at": "2026-03-14 19:25:00",
       "album": {
-        "name": "There is a place",
-        "url": "https://open.spotify.com/album/1GQuklEK5WQisonLLQJjqG"
-      },
-      "artists": [
-        {
-          "name": "Ellen Andrea Wang",
-          "url": "https://open.spotify.com/artist/3EpohDnrFdsgQj03BOsPUf"
-        }
-      ],
-      "duration_ms": 247722,
-      "name": "There is a place",
-      "url": "https://open.spotify.com/track/5hGtLvLqN33BWKzNtEguUB"
-    },
-    {
-      "added_at": "2026-03-14 19:25:00",
-      "album": {
         "name": "You're Fine",
         "url": "https://open.spotify.com/album/7AnOsuntfZx3d3Vrnt2z3B"
       },
@@ -1587,38 +1635,6 @@
       "duration_ms": 198800,
       "name": "Before I Do",
       "url": "https://open.spotify.com/track/2oSH6sOAP0YOq6qMuO0ZMK"
-    },
-    {
-      "added_at": "2026-03-14 19:25:00",
-      "album": {
-        "name": "Reverie",
-        "url": "https://open.spotify.com/album/1yiHIdrp16UXHGjwbbCmxJ"
-      },
-      "artists": [
-        {
-          "name": "Untitled Band",
-          "url": "https://open.spotify.com/artist/4gfu5YxjKlaDWdnJ7VAM1I"
-        }
-      ],
-      "duration_ms": 229687,
-      "name": "If I'd Had Your Heart",
-      "url": "https://open.spotify.com/track/2fVdaV8noj9GhCpXTxVm2c"
-    },
-    {
-      "added_at": "2026-03-14 19:25:00",
-      "album": {
-        "name": "Catwoman",
-        "url": "https://open.spotify.com/album/1F3oZyWkL83S4CjBvVMhWj"
-      },
-      "artists": [
-        {
-          "name": "Stephanie Domet",
-          "url": "https://open.spotify.com/artist/03vbrO2FBrwjmzWk9ukzSZ"
-        }
-      ],
-      "duration_ms": 211343,
-      "name": "Catwoman",
-      "url": "https://open.spotify.com/track/1pu7UTT1w7DjazO2in03EE"
     },
     {
       "added_at": "2026-03-14 19:25:00",
@@ -1639,38 +1655,6 @@
     {
       "added_at": "2026-03-14 19:25:00",
       "album": {
-        "name": "Back to the Start",
-        "url": "https://open.spotify.com/album/0NiWwfEyQTYgRltIOGJ0M6"
-      },
-      "artists": [
-        {
-          "name": "Gordon Robertson",
-          "url": "https://open.spotify.com/artist/2QOoyXdfUKSMCK1c7pDam5"
-        }
-      ],
-      "duration_ms": 196154,
-      "name": "Back to the Start",
-      "url": "https://open.spotify.com/track/4Na3IDBm27qhGq8dwz0ps2"
-    },
-    {
-      "added_at": "2026-03-14 19:25:00",
-      "album": {
-        "name": "You're Fine",
-        "url": "https://open.spotify.com/album/7AnOsuntfZx3d3Vrnt2z3B"
-      },
-      "artists": [
-        {
-          "name": "Barbra Lica",
-          "url": "https://open.spotify.com/artist/1LWWCHWErOO9KZfcwrmS9D"
-        }
-      ],
-      "duration_ms": 230880,
-      "name": "The Birds and the Bees",
-      "url": "https://open.spotify.com/track/5skQwY8m3gZ1LUg0ZXlpgb"
-    },
-    {
-      "added_at": "2026-03-14 19:25:00",
-      "album": {
         "name": "Same Soul",
         "url": "https://open.spotify.com/album/2jHSlpoC38GtuXY3xwLRng"
       },
@@ -1683,22 +1667,6 @@
       "duration_ms": 293504,
       "name": "Your Hands",
       "url": "https://open.spotify.com/track/0wPGEY8OnnC8VXXAqitxVc"
-    },
-    {
-      "added_at": "2026-03-14 19:25:00",
-      "album": {
-        "name": "Take Me Off to Dreamland",
-        "url": "https://open.spotify.com/album/0EmfCjSWHg8evy7OS31JGC"
-      },
-      "artists": [
-        {
-          "name": "Imajjine",
-          "url": "https://open.spotify.com/artist/2VU83NBXbWqEuBZVI52YtL"
-        }
-      ],
-      "duration_ms": 288535,
-      "name": "Take Me Off to Dreamland",
-      "url": "https://open.spotify.com/track/1oMnqVt779JEPlsLPZyql7"
     },
     {
       "added_at": "2026-03-14 19:25:00",
@@ -1719,18 +1687,34 @@
     {
       "added_at": "2026-03-14 19:25:00",
       "album": {
-        "name": "You Are My Everything",
-        "url": "https://open.spotify.com/album/3rBbcpcZPUwr3F8yFfT7r4"
+        "name": "Take Me Off to Dreamland",
+        "url": "https://open.spotify.com/album/0EmfCjSWHg8evy7OS31JGC"
       },
       "artists": [
         {
-          "name": "Oliver Nosaczynski Bohovi\u010d",
-          "url": "https://open.spotify.com/artist/2dz544MXV8GuN3lCoeNfum"
+          "name": "Imajjine",
+          "url": "https://open.spotify.com/artist/2VU83NBXbWqEuBZVI52YtL"
         }
       ],
-      "duration_ms": 250000,
-      "name": "You Are My Everything",
-      "url": "https://open.spotify.com/track/3IDM9IoiIZge85sVvqYG0x"
+      "duration_ms": 288535,
+      "name": "Take Me Off to Dreamland",
+      "url": "https://open.spotify.com/track/1oMnqVt779JEPlsLPZyql7"
+    },
+    {
+      "added_at": "2026-03-14 19:25:00",
+      "album": {
+        "name": "You're Fine",
+        "url": "https://open.spotify.com/album/7AnOsuntfZx3d3Vrnt2z3B"
+      },
+      "artists": [
+        {
+          "name": "Barbra Lica",
+          "url": "https://open.spotify.com/artist/1LWWCHWErOO9KZfcwrmS9D"
+        }
+      ],
+      "duration_ms": 230880,
+      "name": "The Birds and the Bees",
+      "url": "https://open.spotify.com/track/5skQwY8m3gZ1LUg0ZXlpgb"
     },
     {
       "added_at": "2026-03-14 19:25:00",
@@ -1747,6 +1731,22 @@
       "duration_ms": 247800,
       "name": "Wherever You're Going",
       "url": "https://open.spotify.com/track/2U2CqVG9M78eJM9kLDz1oO"
+    },
+    {
+      "added_at": "2026-03-14 19:25:00",
+      "album": {
+        "name": "You Are My Everything",
+        "url": "https://open.spotify.com/album/3rBbcpcZPUwr3F8yFfT7r4"
+      },
+      "artists": [
+        {
+          "name": "Oliver Nosaczynski Bohovi\u010d",
+          "url": "https://open.spotify.com/artist/2dz544MXV8GuN3lCoeNfum"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "You Are My Everything",
+      "url": "https://open.spotify.com/track/3IDM9IoiIZge85sVvqYG0x"
     }
   ],
   "unique_name": "Jazz Pop",

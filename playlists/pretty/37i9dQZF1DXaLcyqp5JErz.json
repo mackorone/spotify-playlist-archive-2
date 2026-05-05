@@ -1,6 +1,6 @@
 {
   "description": "Os grandes hinos reunidos em um \u00fanico lugar. Foto: Gisele Nascimento, Anderson Freire",
-  "num_followers": 658379,
+  "num_followers": 658461,
   "original_name": "Gospel Cl\u00e1ssicos",
   "owner": {
     "name": "Spotify",
@@ -99,8 +99,8 @@
     {
       "added_at": "2025-10-17 18:07:08",
       "album": {
-        "name": "Deus de Promessas (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5AyYZsFmT70fJevCQRgc4G"
+        "name": "O Encontro",
+        "url": "https://open.spotify.com/album/0lCGxilNnKFzm2zytbwx6q"
       },
       "artists": [
         {
@@ -108,45 +108,13 @@
           "url": "https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx"
         },
         {
-          "name": "Simone Mendes",
-          "url": "https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3"
+          "name": "Trazendo a Arca",
+          "url": "https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5"
         }
       ],
-      "duration_ms": 339033,
-      "name": "Deus de Promessas - Ao Vivo",
-      "url": "https://open.spotify.com/track/4HKLVCgmv0R8R7PbHgS6hP"
-    },
-    {
-      "added_at": "2025-10-17 18:07:08",
-      "album": {
-        "name": "Advogado Fiel",
-        "url": "https://open.spotify.com/album/2U25l1MfwYJX3jNJBROiri"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 288995,
-      "name": "Sou Humano",
-      "url": "https://open.spotify.com/track/7HRyi2scNjqDmGDhwqj9Bp"
-    },
-    {
-      "added_at": "2025-10-17 18:07:08",
-      "album": {
-        "name": "Galileu (ao Vivo)",
-        "url": "https://open.spotify.com/album/2mwYeySiovjZRIX6VsAkn3"
-      },
-      "artists": [
-        {
-          "name": "Fernandinho",
-          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
-        }
-      ],
-      "duration_ms": 325200,
-      "name": "Galileu - Ao Vivo",
-      "url": "https://open.spotify.com/track/3BLj3BUTTlNjVkhdR45z9e"
+      "duration_ms": 552564,
+      "name": "Sobre As \u00c1guas",
+      "url": "https://open.spotify.com/track/0IHZgDHnehLfWTzMcR3szE"
     },
     {
       "added_at": "2025-10-17 18:07:08",
@@ -167,6 +135,38 @@
     {
       "added_at": "2025-10-17 18:07:08",
       "album": {
+        "name": "Galileu (ao Vivo)",
+        "url": "https://open.spotify.com/album/2mwYeySiovjZRIX6VsAkn3"
+      },
+      "artists": [
+        {
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+        }
+      ],
+      "duration_ms": 325200,
+      "name": "Galileu - Ao Vivo",
+      "url": "https://open.spotify.com/track/3BLj3BUTTlNjVkhdR45z9e"
+    },
+    {
+      "added_at": "2025-10-17 18:07:08",
+      "album": {
+        "name": "Advogado Fiel",
+        "url": "https://open.spotify.com/album/2U25l1MfwYJX3jNJBROiri"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 288995,
+      "name": "Sou Humano",
+      "url": "https://open.spotify.com/track/7HRyi2scNjqDmGDhwqj9Bp"
+    },
+    {
+      "added_at": "2025-10-17 18:07:08",
+      "album": {
         "name": "Comunh\u00e3o",
         "url": "https://open.spotify.com/album/4CaW1rRRjmmHprILOonYej"
       },
@@ -183,8 +183,8 @@
     {
       "added_at": "2025-10-17 18:07:08",
       "album": {
-        "name": "O Encontro",
-        "url": "https://open.spotify.com/album/0lCGxilNnKFzm2zytbwx6q"
+        "name": "Deus de Promessas (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5AyYZsFmT70fJevCQRgc4G"
       },
       "artists": [
         {
@@ -192,13 +192,13 @@
           "url": "https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx"
         },
         {
-          "name": "Trazendo a Arca",
-          "url": "https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5"
+          "name": "Simone Mendes",
+          "url": "https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3"
         }
       ],
-      "duration_ms": 552564,
-      "name": "Sobre As \u00c1guas",
-      "url": "https://open.spotify.com/track/0IHZgDHnehLfWTzMcR3szE"
+      "duration_ms": 339033,
+      "name": "Deus de Promessas - Ao Vivo",
+      "url": "https://open.spotify.com/track/4HKLVCgmv0R8R7PbHgS6hP"
     },
     {
       "added_at": "2025-10-17 18:07:08",
@@ -267,22 +267,6 @@
     {
       "added_at": "2025-10-17 18:07:08",
       "album": {
-        "name": "O Melhor de Deus Esta Por Vir",
-        "url": "https://open.spotify.com/album/6sEAKuCnpJY4PBsICA6Eb5"
-      },
-      "artists": [
-        {
-          "name": "Voz da Verdade",
-          "url": "https://open.spotify.com/artist/6lNJyLZ53yiJlCfwcxtT71"
-        }
-      ],
-      "duration_ms": 265800,
-      "name": "O Escudo",
-      "url": "https://open.spotify.com/track/2qkdDgfdWAcWt3KRLROmmG"
-    },
-    {
-      "added_at": "2025-10-17 18:07:08",
-      "album": {
         "name": "O Maior Trof\u00e9u",
         "url": "https://open.spotify.com/album/4aUmdgVlZoV0lvPIHrqslu"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 311280,
       "name": "O Maior Trof\u00e9u",
       "url": "https://open.spotify.com/track/1s6kINRA4Py3YlYtPWhFew"
+    },
+    {
+      "added_at": "2025-10-17 18:07:08",
+      "album": {
+        "name": "O Melhor de Deus Esta Por Vir",
+        "url": "https://open.spotify.com/album/6sEAKuCnpJY4PBsICA6Eb5"
+      },
+      "artists": [
+        {
+          "name": "Voz da Verdade",
+          "url": "https://open.spotify.com/artist/6lNJyLZ53yiJlCfwcxtT71"
+        }
+      ],
+      "duration_ms": 265800,
+      "name": "O Escudo",
+      "url": "https://open.spotify.com/track/2qkdDgfdWAcWt3KRLROmmG"
     },
     {
       "added_at": "2025-10-17 18:07:08",
@@ -331,6 +331,22 @@
     {
       "added_at": "2025-10-17 18:07:08",
       "album": {
+        "name": "Diante do Trono (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5x4Pvef33bKljj5gYKKSLS"
+      },
+      "artists": [
+        {
+          "name": "Diante do Trono",
+          "url": "https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75"
+        }
+      ],
+      "duration_ms": 304973,
+      "name": "Te Agrade\u00e7o - Ao Vivo",
+      "url": "https://open.spotify.com/track/7FXEHVZMXO2brLAFsbqX1z"
+    },
+    {
+      "added_at": "2025-10-17 18:07:08",
+      "album": {
         "name": "Entre Amigos",
         "url": "https://open.spotify.com/album/77xZYASVRSezsM1cyTbaSf"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 197800,
       "name": "Eu Te Amo Tanto (feat. Marquinhos Gomes)",
       "url": "https://open.spotify.com/track/5v979UoS8N8n0ZYew2t24l"
-    },
-    {
-      "added_at": "2025-10-17 18:07:08",
-      "album": {
-        "name": "Diante do Trono (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5x4Pvef33bKljj5gYKKSLS"
-      },
-      "artists": [
-        {
-          "name": "Diante do Trono",
-          "url": "https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75"
-        }
-      ],
-      "duration_ms": 304973,
-      "name": "Te Agrade\u00e7o - Ao Vivo",
-      "url": "https://open.spotify.com/track/7FXEHVZMXO2brLAFsbqX1z"
     },
     {
       "added_at": "2025-10-17 18:07:08",
@@ -415,22 +415,6 @@
     {
       "added_at": "2025-10-17 18:07:08",
       "album": {
-        "name": "Hist\u00f3rias e Bicicletas",
-        "url": "https://open.spotify.com/album/4JQYqu6oRSh7pEj2YS4Ggc"
-      },
-      "artists": [
-        {
-          "name": "Oficina G3",
-          "url": "https://open.spotify.com/artist/0gO5Vbklho8yrBrUdHhuLH"
-        }
-      ],
-      "duration_ms": 339011,
-      "name": "Aos P\u00e9s da Cruz",
-      "url": "https://open.spotify.com/track/2Ab8zrDctK010iNqBGCrUt"
-    },
-    {
-      "added_at": "2025-10-17 18:07:08",
-      "album": {
         "name": "Diante do Trono (Ao Vivo)",
         "url": "https://open.spotify.com/album/5x4Pvef33bKljj5gYKKSLS"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 455106,
       "name": "Aclame ao Senhor - Ao Vivo",
       "url": "https://open.spotify.com/track/0dhpQeQ8LR4UEp9gugrITU"
+    },
+    {
+      "added_at": "2025-10-17 18:07:08",
+      "album": {
+        "name": "Hist\u00f3rias e Bicicletas",
+        "url": "https://open.spotify.com/album/4JQYqu6oRSh7pEj2YS4Ggc"
+      },
+      "artists": [
+        {
+          "name": "Oficina G3",
+          "url": "https://open.spotify.com/artist/0gO5Vbklho8yrBrUdHhuLH"
+        }
+      ],
+      "duration_ms": 339011,
+      "name": "Aos P\u00e9s da Cruz",
+      "url": "https://open.spotify.com/track/2Ab8zrDctK010iNqBGCrUt"
     },
     {
       "added_at": "2025-10-17 18:07:08",
@@ -607,22 +607,6 @@
     {
       "added_at": "2025-10-17 18:07:08",
       "album": {
-        "name": "Santo Pra Sempre",
-        "url": "https://open.spotify.com/album/6pCiSoe5pyo5DvMUIHHd7f"
-      },
-      "artists": [
-        {
-          "name": "Theo Rubia",
-          "url": "https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe"
-        }
-      ],
-      "duration_ms": 311298,
-      "name": "Santo Pra Sempre",
-      "url": "https://open.spotify.com/track/4k82qQgW7XyWZLbxPytwQQ"
-    },
-    {
-      "added_at": "2025-10-17 18:07:08",
-      "album": {
         "name": "20 Anos de Adora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/79MbPZxQDWw1Tn6zvBhIG5"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 348433,
       "name": "Sobre As \u00c1guas",
       "url": "https://open.spotify.com/track/6ZZNZQYx2W5zvHoy6F4PCa"
+    },
+    {
+      "added_at": "2025-10-17 18:07:08",
+      "album": {
+        "name": "Santo Pra Sempre",
+        "url": "https://open.spotify.com/album/6pCiSoe5pyo5DvMUIHHd7f"
+      },
+      "artists": [
+        {
+          "name": "Theo Rubia",
+          "url": "https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe"
+        }
+      ],
+      "duration_ms": 311298,
+      "name": "Santo Pra Sempre",
+      "url": "https://open.spotify.com/track/4k82qQgW7XyWZLbxPytwQQ"
     },
     {
       "added_at": "2025-10-17 18:07:08",
@@ -935,18 +935,18 @@
     {
       "added_at": "2025-10-17 18:07:08",
       "album": {
-        "name": "Legado 40 Anos - Ato 3: Igreja na Rua (Ao Vivo)",
-        "url": "https://open.spotify.com/album/232rCZvO1DrA08fa2FPE4t"
+        "name": "Te Quero Mais do Que Tudo",
+        "url": "https://open.spotify.com/album/47Evtl2CImY1o7i51OucTj"
       },
       "artists": [
         {
-          "name": "Adhemar De Campos",
-          "url": "https://open.spotify.com/artist/03TpTPLRclj2iknzWXAXjP"
+          "name": "Comunidade Evang\u00e9lica de Maring\u00e1",
+          "url": "https://open.spotify.com/artist/5sunaXJ1Rjob6D6TGDd5wA"
         }
       ],
-      "duration_ms": 453106,
-      "name": "Grande \u00e9 o Senhor - Ao Vivo",
-      "url": "https://open.spotify.com/track/4UfeWJN1A2glEr9EteoPQN"
+      "duration_ms": 386773,
+      "name": "Descansarei",
+      "url": "https://open.spotify.com/track/04X0Jca9E0A5a2hgTvqnI3"
     },
     {
       "added_at": "2025-10-17 18:07:08",
@@ -963,6 +963,22 @@
       "duration_ms": 593773,
       "name": "A Ele A Gl\u00f3ria - Ao Vivo",
       "url": "https://open.spotify.com/track/0semeHbsomB2omjIKuJgAA"
+    },
+    {
+      "added_at": "2025-10-17 18:07:08",
+      "album": {
+        "name": "Legado 40 Anos - Ato 3: Igreja na Rua (Ao Vivo)",
+        "url": "https://open.spotify.com/album/232rCZvO1DrA08fa2FPE4t"
+      },
+      "artists": [
+        {
+          "name": "Adhemar De Campos",
+          "url": "https://open.spotify.com/artist/03TpTPLRclj2iknzWXAXjP"
+        }
+      ],
+      "duration_ms": 453106,
+      "name": "Grande \u00e9 o Senhor - Ao Vivo",
+      "url": "https://open.spotify.com/track/4UfeWJN1A2glEr9EteoPQN"
     },
     {
       "added_at": "2025-10-17 18:07:08",
@@ -995,22 +1011,6 @@
       "duration_ms": 447960,
       "name": "Restitui - Ao Vivo",
       "url": "https://open.spotify.com/track/3i4qQdnaQFdyCs3Art3LzD"
-    },
-    {
-      "added_at": "2025-10-17 18:07:08",
-      "album": {
-        "name": "Te Quero Mais do Que Tudo",
-        "url": "https://open.spotify.com/album/47Evtl2CImY1o7i51OucTj"
-      },
-      "artists": [
-        {
-          "name": "Comunidade Evang\u00e9lica de Maring\u00e1",
-          "url": "https://open.spotify.com/artist/5sunaXJ1Rjob6D6TGDd5wA"
-        }
-      ],
-      "duration_ms": 386773,
-      "name": "Descansarei",
-      "url": "https://open.spotify.com/track/04X0Jca9E0A5a2hgTvqnI3"
     },
     {
       "added_at": "2025-10-17 18:07:08",

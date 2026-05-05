@@ -7858,7 +7858,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 227986,
       "name": "Beauty And A Beat",
       "url": "https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7"
@@ -31815,6 +31815,24 @@
     },
     {
       "album": {
+        "name": "Diana Ross Presents The Jackson 5",
+        "url": "https://open.spotify.com/album/51uoKRa8vT5SULrlF8s2t1"
+      },
+      "artists": [
+        {
+          "name": "The Jackson 5",
+          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176333,
+      "name": "I Want You Back",
+      "url": "https://open.spotify.com/track/5LxvwujISqiB8vpRYv887S"
+    },
+    {
+      "album": {
         "name": "I Wish you Roses",
         "url": "https://open.spotify.com/album/2XCrHIlpS6yq2Lix46lOPi"
       },
@@ -41829,6 +41847,24 @@
     },
     {
       "album": {
+        "name": "Dolor Que No Se Llora, Vol. 5",
+        "url": "https://open.spotify.com/album/7u09HNChMhOPuRpB71mt8d"
+      },
+      "artists": [
+        {
+          "name": "LINZAE LIR",
+          "url": "https://open.spotify.com/artist/7LGY1ZGeotpXgRRg5Wm9nf"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223800,
+      "name": "Me Fui Sin Hacer Ruido",
+      "url": "https://open.spotify.com/track/33XKVx9Dp38z0zUIOP4aDA"
+    },
+    {
+      "album": {
         "name": "ME FUI SIN HACER RUIDO",
         "url": "https://open.spotify.com/album/6nLn28HjlO3njsauakPcIM"
       },
@@ -48512,7 +48548,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 186461,
       "name": "No Va a Chocar",
       "url": "https://open.spotify.com/track/6mxnut3OxI5xxUnbYgDnXk"

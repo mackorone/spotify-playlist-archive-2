@@ -1,12 +1,12 @@
 {
   "description": "Discover new christian and gospel music. Cover: Lawrence Oyor",
-  "num_followers": 56217,
+  "num_followers": 56247,
   "original_name": "Fresh Gospel Africa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPGuYN0k4i2BJ6013vyJa4JdaIJh",
+  "snapshot_id": "AAAAAMQ649sd6V6APntQeFZd9cUwcLt3",
   "tracks": [
     {
       "added_at": "2026-05-01 00:02:01",
@@ -221,6 +221,26 @@
       "url": "https://open.spotify.com/track/3GDmMRwwACHTvRviLADB47"
     },
     {
+      "added_at": "2026-05-04 15:37:48",
+      "album": {
+        "name": "Yeshua (The Summary Of My Life)",
+        "url": "https://open.spotify.com/album/7dgezebPDcF3quISA1VeiS"
+      },
+      "artists": [
+        {
+          "name": "Judikay",
+          "url": "https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x"
+        },
+        {
+          "name": "Team JDK",
+          "url": "https://open.spotify.com/artist/1XzkTOmO9S4D7RxLIs15YM"
+        }
+      ],
+      "duration_ms": 312413,
+      "name": "I Am Dwelling",
+      "url": "https://open.spotify.com/track/2STjf6Gpuc2dmq9G1qDkWq"
+    },
+    {
       "added_at": "2026-04-24 00:01:17",
       "album": {
         "name": "Ihedinmma",
@@ -347,30 +367,6 @@
       "duration_ms": 488275,
       "name": "Nana-Owei Mbana - Live",
       "url": "https://open.spotify.com/track/2i96rQ7m2wbNViszpMPOj3"
-    },
-    {
-      "added_at": "2026-05-01 00:02:01",
-      "album": {
-        "name": "Fire in My Praise",
-        "url": "https://open.spotify.com/album/6hc12t7J6G38Yj7faj5oTA"
-      },
-      "artists": [
-        {
-          "name": "Amazing Praize",
-          "url": "https://open.spotify.com/artist/4HbOcO4aQwRzFFqrkBVWYN"
-        },
-        {
-          "name": "Streams Of Joy",
-          "url": "https://open.spotify.com/artist/74EHjGp4ALyk5ObLRfjyGK"
-        },
-        {
-          "name": "Pastor Jerry Eze",
-          "url": "https://open.spotify.com/artist/5UpWOLAQgVUxzukbqKX3hn"
-        }
-      ],
-      "duration_ms": 186984,
-      "name": "Fire in My Praise",
-      "url": "https://open.spotify.com/track/1M0SEfZwriCsT2zveixfF8"
     },
     {
       "added_at": "2026-05-01 00:02:01",

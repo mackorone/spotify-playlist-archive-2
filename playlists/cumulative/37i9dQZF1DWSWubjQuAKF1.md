@@ -4,7 +4,7 @@
 
 > świeże brzmienia na horyzoncie ✨ Cover: BSK
 
-825 songs - 1 day 16 hr 16 min
+826 songs - 1 day 16 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Caramel Love](https://open.spotify.com/track/7mfbHPYJNdBilOyRqsl8Fe) | [Marcin Maciejczak](https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2) | [Caramel Love](https://open.spotify.com/album/0h8xuOdOfOnFiS2Xfmo03N) | 2:21 | 2025-01-09 | 2025-02-07 |
 | [Chamy](https://open.spotify.com/track/3YyCRTXnD7MkTKeqCkrM0M) | [Jan Marczewski](https://open.spotify.com/artist/0JIgW2OFhm0hH8UdCMU5SU), [Hugo Tarres](https://open.spotify.com/artist/6VaYrjshHIPyNBnmVdLdgQ), [wojtman.fm](https://open.spotify.com/artist/6dlkUCXpazKynwOHpixkgo) | [Chamy](https://open.spotify.com/album/2SHWbu3gF4G9vaUTDOMSDx) | 2:21 | 2025-08-07 | 2025-12-06 |
 | [Charms in bracelet](https://open.spotify.com/track/7sbA6c0JF409RF9EC7W1ww) | [SHDØW](https://open.spotify.com/artist/1k4FU2VP9e8I3yY9tz3Stt), [Pola](https://open.spotify.com/artist/35TNTrLhxCXmfO4wL4IWUa) | [5 minutes](https://open.spotify.com/album/67Smw9hSPpRvQwApRA0g20) | 3:40 | 2025-09-30 | 2025-10-11 |
+| [chce Twoje zarazki](https://open.spotify.com/track/4RNfRk8YAv28vlF3bplP2t) | [wiśniosz](https://open.spotify.com/artist/4UcIjZwZDS7epHIoNUtwzu) | [chce Twoje zarazki](https://open.spotify.com/album/6lG2MHCF8CPxnSy8o6EBW1) | 2:48 | 2026-04-30 |  |
 | [Chciałabym Być Zwykła...](https://open.spotify.com/track/3QdQMGLj6Fmci5XbN3gMpu) | [Julka Grabowska](https://open.spotify.com/artist/0eC2qcmwFOhPgzxaGoyasH), [Jxcob](https://open.spotify.com/artist/6NymiB9zG13gz3WbLzbXP2) | [Chciałabym Być Zwykła...](https://open.spotify.com/album/28N73ugZB91YH3HEuVMHJd) | 2:34 | 2026-04-30 |  |
 | [Chciałabym Ci powiedzieć](https://open.spotify.com/track/4NlptlNKseLr56hRa1Qfvt) | [Julia Wasielewska](https://open.spotify.com/artist/0BbWyb6ZMdisHe03Fy3v7I) | [Chciałabym Ci powiedzieć](https://open.spotify.com/album/11JIXjzepAvkXK20kKVOFg) | 2:36 | 2026-03-12 |  |
 | [Chciałbym być kotem](https://open.spotify.com/track/235BIVbYtJp4090aHD60VR) | [Wiktor Waligóra](https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL) | [Chciałbym być kotem](https://open.spotify.com/album/0j3LDKTuqYsg3TbBnylyEB) | 3:09 | 2026-04-09 |  |
@@ -727,7 +728,7 @@
 | [Tęsknię](https://open.spotify.com/track/6ZIExaf8SeE2WYDazQtrdZ) | [Joulie Fox](https://open.spotify.com/artist/5hE1IPeVSiRpzsHBBBpzy4) | [Tęsknię](https://open.spotify.com/album/4bMP6PMo8Vm4LCJIzW7Si9) | 2:56 | 2025-12-05 | 2025-12-12 |
 | [U Want Me Anyway](https://open.spotify.com/track/2NZpYLv014p6rfl2CYxDX6) | [Dani Marchio](https://open.spotify.com/artist/2lbntvM1QPq5hj4x3HO1dT) | [U Want Me Anyway](https://open.spotify.com/album/1voy9mRdneNwKnaBgIjLh4) | 3:20 | 2025-03-20 | 2025-06-28 |
 | [Udawaj do rana](https://open.spotify.com/track/45cgD7UmeKuW1mhwSQ8we6) | [Daliva](https://open.spotify.com/artist/57IyKKJVTloFrwrTBnnqGA) | [Udawaj do rana](https://open.spotify.com/album/4exck6h9MiotcqH2gtfZdT) | 3:18 | 2025-04-24 | 2025-07-18 |
-| [UFO](https://open.spotify.com/track/3kMm00fo2cVmvwyW5hFPRv) | [Hania](https://open.spotify.com/artist/4orDCRH2msx7nvHsbWP2aa) | [UFO](https://open.spotify.com/album/3sPNRi6Ay5pXxTfAUEzQJC) | 2:13 | 2026-03-26 |  |
+| [UFO](https://open.spotify.com/track/3kMm00fo2cVmvwyW5hFPRv) | [Hania](https://open.spotify.com/artist/4orDCRH2msx7nvHsbWP2aa) | [UFO](https://open.spotify.com/album/3sPNRi6Ay5pXxTfAUEzQJC) | 2:13 | 2026-03-26 | 2026-05-05 |
 | [undressed](https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [undressed](https://open.spotify.com/album/19m6pwPmwNFSPV7wtHtg7D) | 3:02 | 2025-04-17 | 2025-05-09 |
 | [Upadki i wzloty](https://open.spotify.com/track/6lmd1iffw55qQIzBxStFOP) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU) | [Upadki i wzloty](https://open.spotify.com/album/0H5oZPNKpOgMyPp0xKa04S) | 3:11 | 2024-07-18 | 2024-11-22 |
 | [use me!!!!!!!](https://open.spotify.com/track/4RvaI6d8mWCfEcGffUN52w) | [Olga Myko](https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm) | [WHEN A GIRL CRIES](https://open.spotify.com/album/4Wd9B89j1dUHo2bLYJPWch) | 2:04 | 2025-10-21 | 2025-12-06 |

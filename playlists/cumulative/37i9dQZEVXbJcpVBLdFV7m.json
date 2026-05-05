@@ -10742,7 +10742,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 275102,
       "name": "Doomed",
       "url": "https://open.spotify.com/track/6uG3lOMamTpecbrxkihC1j"
@@ -11036,7 +11036,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 209720,
       "name": "Dracula - JENNIE Remix",
       "url": "https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM"
@@ -15032,6 +15032,24 @@
       "duration_ms": 195402,
       "name": "GO",
       "url": "https://open.spotify.com/track/3FZPp9lBUvhsxFxKJi3VkB"
+    },
+    {
+      "album": {
+        "name": "Born In The Echoes",
+        "url": "https://open.spotify.com/album/3XUVUh6hisN43r2eZAOJRD"
+      },
+      "artists": [
+        {
+          "name": "The Chemical Brothers",
+          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260696,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/2Xhd1kYKj2aee7JR3nIlRe"
     },
     {
       "album": {
@@ -19766,7 +19784,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 156393,
       "name": "Jamaican (Bam Bam)",
       "url": "https://open.spotify.com/track/7e4zDInS6tA2jwzphvs2Ay"
@@ -21774,6 +21792,24 @@
       "duration_ms": 233737,
       "name": "Left For Good",
       "url": "https://open.spotify.com/track/4pjSe7n2609YnMWnrJ3OVJ"
+    },
+    {
+      "album": {
+        "name": "LEGACY",
+        "url": "https://open.spotify.com/album/3fZervxrJI13IbbJDp5Gci"
+      },
+      "artists": [
+        {
+          "name": "PIXY",
+          "url": "https://open.spotify.com/artist/5AGVMquElW7QIas7i21Xmz"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134117,
+      "name": "LEGACY",
+      "url": "https://open.spotify.com/track/2jwpT2tPlP8HYVpFXfZMqM"
     },
     {
       "album": {
@@ -25044,6 +25080,24 @@
       "duration_ms": 198000,
       "name": "Mi Amor",
       "url": "https://open.spotify.com/track/5TjlAP414QjsGyni3HZa4H"
+    },
+    {
+      "album": {
+        "name": "Mi Chico",
+        "url": "https://open.spotify.com/album/62l0wWMAp5TewPjHGqzyqY"
+      },
+      "artists": [
+        {
+          "name": "DJ Goja",
+          "url": "https://open.spotify.com/artist/2bHWbDN72wdIF0Y48669zg"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117053,
+      "name": "Mi Chico",
+      "url": "https://open.spotify.com/track/3hEtikqJXwlhC6Erz6pBrO"
     },
     {
       "album": {
@@ -35145,6 +35199,28 @@
     },
     {
       "album": {
+        "name": "Silver Night",
+        "url": "https://open.spotify.com/album/5PTqxZs9JROX78BFAMPAOn"
+      },
+      "artists": [
+        {
+          "name": "voydence",
+          "url": "https://open.spotify.com/artist/1DYxpWOf3wM1hfQDJNUdNX"
+        },
+        {
+          "name": "Bankai",
+          "url": "https://open.spotify.com/artist/2qVxBbxlMuZ22B57rReIQg"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176072,
+      "name": "Silver Night",
+      "url": "https://open.spotify.com/track/6usmmGWhgtjFjpxR7EfZ1d"
+    },
+    {
+      "album": {
         "name": "Magma",
         "url": "https://open.spotify.com/album/7D7V6M05UIOTjLdqbwRX0w"
       },
@@ -38945,6 +39021,28 @@
     },
     {
       "album": {
+        "name": "the kill 2",
+        "url": "https://open.spotify.com/album/2bXAxRwdbZlT0mdIQlKQbn"
+      },
+      "artists": [
+        {
+          "name": "Lex Amarni",
+          "url": "https://open.spotify.com/artist/1GJLP5vEHWn08VOlzfR8ID"
+        },
+        {
+          "name": "2muchmotion",
+          "url": "https://open.spotify.com/artist/1DW3WjdUKh9hvg2bh89IVw"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121294,
+      "name": "the kill 2",
+      "url": "https://open.spotify.com/track/7MZyREIMPkgc7v5vzCGw87"
+    },
+    {
+      "album": {
         "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
         "url": "https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7"
       },
@@ -39370,7 +39468,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 193475,
       "name": "They don't care about us - Afro Remix",
       "url": "https://open.spotify.com/track/6PiihOBjBw5TMLG7cvOsjW"
@@ -45862,7 +45960,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 174545,
       "name": "\u00d6mr\u00fcm",
       "url": "https://open.spotify.com/track/4e54GhjU0PAXwbGvbwAPz6"

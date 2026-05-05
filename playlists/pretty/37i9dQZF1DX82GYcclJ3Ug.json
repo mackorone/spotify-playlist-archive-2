@@ -1,12 +1,12 @@
 {
   "description": "No rules. No boundaries. The best new alternative tracks. Cover: Finn Wolfhard",
-  "num_followers": 1215785,
+  "num_followers": 1215840,
   "original_name": "the new alt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAN5b/moicexRsRH73CHdqqJNR6OX",
+  "snapshot_id": "AAAAAAwajdxt92+vn/okXBkX49p/ccCN",
   "tracks": [
     {
       "added_at": "2026-05-01 04:01:25",
@@ -563,6 +563,22 @@
       "duration_ms": 273805,
       "name": "Trying Times",
       "url": "https://open.spotify.com/track/52T8TTMESX21406wvTdQDY"
+    },
+    {
+      "added_at": "2026-05-05 02:24:13",
+      "album": {
+        "name": "One Foot Out",
+        "url": "https://open.spotify.com/album/0NgM5o4m1b4yYy79DBKrOI"
+      },
+      "artists": [
+        {
+          "name": "Infinity Song",
+          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "One Foot Out",
+      "url": "https://open.spotify.com/track/16muzdLNvN4Wi5nIvcRDdx"
     },
     {
       "added_at": "2026-05-01 04:01:25",

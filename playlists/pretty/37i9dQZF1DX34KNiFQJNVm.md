@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Léo Santana, Zara Larsson com Shakira,  Maroon 5, FBC, DAY LIMNS, Péricles com Ana Castela, Madonna com Sabrina Carpenter e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,282,877 likes - 90 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,282,680 likes - 90 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 84 | [Batom \- Ao Vivo](https://open.spotify.com/track/7BRA924yEQdWt4AFYNZQbL) | [O GAROTO DA RP](https://open.spotify.com/artist/0naOwt9yLi5sg9zNz49h7V) | [Batom \(Ao Vivo\)](https://open.spotify.com/album/53z9NTNywADZMbcOdBippa) | 3:34 |
 | 85 | [Na minha área é normal](https://open.spotify.com/track/0bX5bK3yRLItijh3Emj7AC) | [Malagueta mc](https://open.spotify.com/artist/0DSySEdxjlahXmxW4x0fak), [Vulgo PK](https://open.spotify.com/artist/57A8Vr2EWgotLbTD5orAZi), [Jamal Rlk](https://open.spotify.com/artist/1zGTY1Tf3xvi9ZBXStdvpH), [2.L](https://open.spotify.com/artist/11s4q49C8JH0JF14OX3ba5), [MC Dante](https://open.spotify.com/artist/6b2v5rpjCX0Px7zU4APQPX), [L\-TICK](https://open.spotify.com/artist/6OLaxbpUNkxPkGdhEN1uit) | [Na minha área é normal](https://open.spotify.com/album/2krOdoMOzyqUzuL12EnBnY) | 4:39 |
 | 86 | [Do rio ao mar](https://open.spotify.com/track/5Stk7xYr0SrOq2gkpELHnY) | [O Teatro Mágico](https://open.spotify.com/artist/3TbDeRrXw8SVnRWx9BkHeZ), [Gabriel Grossi](https://open.spotify.com/artist/4HNRaNTXCLtwCaTv5Qo5fc) | [Do rio ao mar](https://open.spotify.com/album/03EpLmUPUaOv2HggkFfdv6) | 3:54 |
-| 87 | [Drink de Tangerina](https://open.spotify.com/track/683OxIUTVupG60spuFExJd) | [ALMAR](https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI) | [Vambora](https://open.spotify.com/album/31DQwzbeoiAyns1PJRbfoE) | 2:52 |
+| 87 | [Drink de Tangerina](https://open.spotify.com/track/683OxIUTVupG60spuFExJd) | [ALMAR](https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI) | [Vambora](https://open.spotify.com/album/31DQwzbeoiAyns1PJRbfoE) | 2:43 |
 | 88 | [PESSOA PREFERIDA](https://open.spotify.com/track/5bsrJWraAOL6pHpZ9khD6N) | [Flavio Ferrari](https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x), [Lucas Mamede](https://open.spotify.com/artist/6pbg3DywWNPejXsXkx3iKD), [CANETARIA](https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS) | [FLOR DA PELE](https://open.spotify.com/album/4RBRXwprXLVZJ5pMRrcbcG) | 2:43 |
 | 89 | [Fendi](https://open.spotify.com/track/1vZaCYgIlaIIA7z5wuaCVW) | [ENNE \(BR\)](https://open.spotify.com/artist/4uUgP4DI2XclDn1LD6K8hP) | [Fendi](https://open.spotify.com/album/6NHSVc4YDpLr6Ixnw9cTXp) | 2:35 |
 | 90 | [Fica Que Fica](https://open.spotify.com/track/5f0mc1EwMYi7ZhkjmfTenh) | [Fael](https://open.spotify.com/artist/0wm7fcPWX7YcYWabIvDl0X) | [Fica Que Fica](https://open.spotify.com/album/1EfHXbdI25oUGeVhlAKp5y) | 2:02 |

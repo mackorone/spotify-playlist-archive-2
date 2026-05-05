@@ -4,7 +4,7 @@
 
 > Sit back, relax, and let these chill tunes calm you down.
 
-260 songs - 14 hr 41 min
+261 songs - 14 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,6 +139,7 @@
 | [lowkey](https://open.spotify.com/track/7ipqVwkp2MhZv0Ojzqy1NV) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [lowkey](https://open.spotify.com/album/22Es8oTgrk3zdUcoV9gW9y) | 2:51 | 2024-01-30 | 2024-03-29 |
 | [Luxury](https://open.spotify.com/track/7idEHlCj01BJDu5mMpcAwA) | [Jessica Domingo](https://open.spotify.com/artist/3ote0zYtTM5HzVyDKEJrzR), [pastels](https://open.spotify.com/artist/3FMHJYjF4SBeWszMXgWoaR) | [Luxury](https://open.spotify.com/album/7kBweeovFGldh5ORLMdXE7) | 3:09 | 2026-03-24 | 2026-04-08 |
 | [L’AMOUR DE MA VIE](https://open.spotify.com/track/6fPan2saHdFaIHuTSatORv) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 5:33 | 2024-06-11 |  |
+| [Magnolia](https://open.spotify.com/track/3JkDuxcnIzBUngCk6peKZi) | [Magnolia Celebration](https://open.spotify.com/artist/3YfBnmHPOhPA3uEb0BxIHK) | [Fantasia](https://open.spotify.com/album/1GX1O94nu0wkXL4Z9nG7LU) | 4:16 | 2026-05-04 |  |
 | [Man I Need](https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Man I Need](https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a) | 3:04 | 2025-09-17 |  |
 | [Manchild](https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Manchild](https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic) | 3:33 | 2025-06-16 |  |
 | [Memories](https://open.spotify.com/track/4cktbXiXOapiLBMprHFErI) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [JORDI \(Deluxe\)](https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU) | 3:09 | 2023-11-10 | 2024-04-19 |
@@ -156,7 +157,7 @@
 | [next door \(feat\. ASTN\)](https://open.spotify.com/track/08HGey7e94Ez3ZurG1IXTP) | [Amelia Moore](https://open.spotify.com/artist/61shKG2hWuRTW2PEAPk7fo), [ASTN](https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co) | [next door \(feat\. ASTN\)](https://open.spotify.com/album/74hbTOydyddGuDuVfGGrdv) | 3:28 | 2025-03-03 | 2025-04-17 |
 | [Nice To Each Other](https://open.spotify.com/track/7gKxCvTDWwV9wBhdeBbr3l) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Nice To Each Other](https://open.spotify.com/album/74sFrKGdI7ZBBVKrT9jtdV) | 3:29 | 2025-06-02 |  |
 | [Nice To Meet You](https://open.spotify.com/track/726SEjbF3ToEbYbn43gnxl) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [A Minute...](https://open.spotify.com/album/0BNzjDHvi3stIakYKnQoBY) | 2:56 | 2024-11-11 | 2025-09-18 |
-| [No Longer](https://open.spotify.com/track/2Gip6bIkOWHZv8QHsbWWPN) | [Reyne L.](https://open.spotify.com/artist/3HpGGXW3yN7H6t67UweHLe), [REYNE](https://open.spotify.com/artist/5Zb2vIUyfZbX15otYc072P) | [No Longer](https://open.spotify.com/album/2Iaj9XacDJojiyGyau0mfo) | 2:32 | 2026-03-17 |  |
+| [No Longer](https://open.spotify.com/track/2Gip6bIkOWHZv8QHsbWWPN) | [Reyne L.](https://open.spotify.com/artist/3HpGGXW3yN7H6t67UweHLe), [REYNE](https://open.spotify.com/artist/5Zb2vIUyfZbX15otYc072P) | [No Longer](https://open.spotify.com/album/2Iaj9XacDJojiyGyau0mfo) | 2:32 | 2026-03-17 | 2026-05-05 |
 | [No Love \(with SZA\)](https://open.spotify.com/track/08SB2OtZkaliju77WYEKxk) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Still Over It](https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx) | 3:51 | 2024-02-27 | 2025-05-06 |
 | [No One Noticed](https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:56 | 2025-01-22 |  |
 | [No Time To Talk](https://open.spotify.com/track/2qGj53vRPm0NEKGk6ymawI) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [No Time To Talk](https://open.spotify.com/album/26V9XJc6hx2hOkNHs1zclk) | 2:35 | 2025-06-23 | 2025-07-22 |
@@ -183,7 +184,7 @@
 | [queen of the season](https://open.spotify.com/track/35Tzu0ZfS2YoDNsHfFIR7a) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [last night you said you missed me](https://open.spotify.com/album/3dp8Y5MGseZ3ahOMIP47O2) | 3:19 | 2025-09-17 | 2025-11-05 |
 | [Raindance \(feat\. Tems\)](https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [The Boy Who Played the Harp](https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl) | 3:39 | 2026-03-11 |  |
 | [Rein Me In \(with Olivia Dean\)](https://open.spotify.com/track/7MZHqgTVTnN6xZGYAcEEAf) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Rein Me In \(with Olivia Dean\)](https://open.spotify.com/album/4utNKv9RDTzfIGok0tlOgl) | 5:39 | 2026-04-07 |  |
-| [Reputation \(feat\. Dominic Fike\)](https://open.spotify.com/track/52m9ZMBCf6tv5ONxr81Uv0) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Reputation \(feat\. Dominic Fike\)](https://open.spotify.com/album/0GagxhdItrfNoWwTI6mogx) | 3:55 | 2026-04-07 |  |
+| [Reputation \(feat\. Dominic Fike\)](https://open.spotify.com/track/52m9ZMBCf6tv5ONxr81Uv0) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Reputation \(feat\. Dominic Fike\)](https://open.spotify.com/album/0GagxhdItrfNoWwTI6mogx) | 3:55 | 2026-04-07 | 2026-05-05 |
 | [Rewind](https://open.spotify.com/track/0Z97NVP2APoS2tZEByiF0t) | [IV OF SPADES](https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG) | [Andalucia](https://open.spotify.com/album/3rK5A6he7WDayWPDm3ttSh) | 3:42 | 2025-11-10 | 2026-01-27 |
 | [Ring Ring Ring](https://open.spotify.com/track/1lTqq0aC6r2bXLviQ3oaVt) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 3:21 | 2025-09-17 | 2025-11-16 |
 | [Risk It All](https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [The Romantic](https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1) | 3:24 | 2026-03-09 |  |
@@ -191,7 +192,7 @@
 | [Room](https://open.spotify.com/track/3WJo7bV3Hi9BgwnVq13SK6) | [Stell](https://open.spotify.com/artist/4bpUKZGsImgabgDABbThr0) | [Room](https://open.spotify.com/album/3yyf40UEKCP9sZbAxYdGih) | 3:43 | 2024-07-02 | 2024-08-19 |
 | [S P E Y S I D E](https://open.spotify.com/track/6khKJVbTxzfhbGfHMtyOM8) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [S P E Y S I D E](https://open.spotify.com/album/5VFsihsTprFnqRHyrNxMPs) | 3:29 | 2024-09-26 | 2024-11-11 |
 | [Sailor Song](https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Sailor Song](https://open.spotify.com/album/68CN2LzY8MoxO2udy2C22e) | 3:31 | 2024-10-18 |  |
-| [Saturn](https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Saturn](https://open.spotify.com/album/1fmBMCSSkSlvxyoy1vut2k) | 3:06 | 2024-03-21 | 2026-03-17 |
+| [Saturn](https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Saturn](https://open.spotify.com/album/1fmBMCSSkSlvxyoy1vut2k) | 3:06 | 2024-03-21 |  |
 | [Say](https://open.spotify.com/track/0kQANryNS3gaQ1OAA1yPNg) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Say](https://open.spotify.com/album/02aahoRY9XSmRxX2KqZbBY) | 3:01 | 2024-07-19 | 2024-09-21 |
 | [Scared Of Loving You](https://open.spotify.com/track/0rgSJ9SC0Q7HxH5vAL8Vct) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [Scared Of Loving You](https://open.spotify.com/album/0pgXfNRJ9fVqCBFIFVgxXt) | 1:50 | 2025-02-17 | 2025-03-11 |
 | [Scott and Zelda](https://open.spotify.com/track/1MJyiTlVdSLAjI9aclZ3hL) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [EVE: ROMANCE](https://open.spotify.com/album/4OrisjS1FiGCNucXdwtd3Y) | 3:13 | 2025-09-17 | 2025-11-29 |

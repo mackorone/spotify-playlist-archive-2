@@ -1,6 +1,6 @@
 {
   "description": "The BBMAs returns with performances from your favorite chart-topping artists! Cover: Tyla",
-  "num_followers": 85881,
+  "num_followers": 85878,
   "original_name": "2024 Billboard Music Awards Official Playlist",
   "owner": {
     "name": "Spotify",
@@ -95,22 +95,6 @@
     {
       "added_at": "2024-11-25 16:13:36",
       "album": {
-        "name": "Fireworks & Rollerblades",
-        "url": "https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm"
-      },
-      "artists": [
-        {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
-        }
-      ],
-      "duration_ms": 180304,
-      "name": "Beautiful Things",
-      "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
-    },
-    {
-      "added_at": "2024-11-25 16:13:36",
-      "album": {
         "name": "I've Tried Everything But Therapy (Part 1)",
         "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 210688,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
+    },
+    {
+      "added_at": "2024-11-25 16:13:36",
+      "album": {
+        "name": "Fireworks & Rollerblades",
+        "url": "https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "duration_ms": 180304,
+      "name": "Beautiful Things",
+      "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
     },
     {
       "added_at": "2024-11-25 16:13:36",
@@ -267,22 +267,6 @@
     {
       "added_at": "2024-11-25 16:13:36",
       "album": {
-        "name": "What Happens Now?",
-        "url": "https://open.spotify.com/album/40HsqPqeSR9Xe3IyAJWr6e"
-      },
-      "artists": [
-        {
-          "name": "Dasha",
-          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
-        }
-      ],
-      "duration_ms": 171782,
-      "name": "Austin (Boots Stop Workin')",
-      "url": "https://open.spotify.com/track/2uqYupMHANxnwgeiXTZXzd"
-    },
-    {
-      "added_at": "2024-11-25 16:13:36",
-      "album": {
         "name": "Move",
         "url": "https://open.spotify.com/album/4M8ThNHbNjda2cPwL8XZHS"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 177598,
       "name": "Move",
       "url": "https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4"
+    },
+    {
+      "added_at": "2024-11-25 16:13:36",
+      "album": {
+        "name": "What Happens Now?",
+        "url": "https://open.spotify.com/album/40HsqPqeSR9Xe3IyAJWr6e"
+      },
+      "artists": [
+        {
+          "name": "Dasha",
+          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
+        }
+      ],
+      "duration_ms": 171782,
+      "name": "Austin (Boots Stop Workin')",
+      "url": "https://open.spotify.com/track/2uqYupMHANxnwgeiXTZXzd"
     },
     {
       "added_at": "2024-11-25 16:13:36",
@@ -467,22 +467,6 @@
     {
       "added_at": "2024-11-25 16:13:36",
       "album": {
-        "name": "Lovin On Me",
-        "url": "https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 138411,
-      "name": "Lovin On Me",
-      "url": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"
-    },
-    {
-      "added_at": "2024-11-25 16:13:36",
-      "album": {
         "name": "Unreal Unearth: Unaired",
         "url": "https://open.spotify.com/album/0OWvUsVTHFXXnGiGht96K4"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 251424,
       "name": "Too Sweet",
       "url": "https://open.spotify.com/track/76JKIsdKrAfWUMjaA0u7v5"
+    },
+    {
+      "added_at": "2024-11-25 16:13:36",
+      "album": {
+        "name": "Lovin On Me",
+        "url": "https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 138411,
+      "name": "Lovin On Me",
+      "url": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"
     },
     {
       "added_at": "2024-11-25 16:13:36",
@@ -831,6 +831,22 @@
     {
       "added_at": "2024-11-25 16:13:36",
       "album": {
+        "name": "Beautifully Broken",
+        "url": "https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 198066,
+      "name": "I Am Not Okay",
+      "url": "https://open.spotify.com/track/3SaS0Va6o6jYkWvadT86C6"
+    },
+    {
+      "added_at": "2024-11-25 16:13:36",
+      "album": {
         "name": "Comfort In Chaos",
         "url": "https://open.spotify.com/album/2pHm3ZP2R3phzCYi7ilGN2"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 236000,
       "name": "Where You Are",
       "url": "https://open.spotify.com/track/3pUz2qJe5nqZemi3hhIxMk"
-    },
-    {
-      "added_at": "2024-11-25 16:13:36",
-      "album": {
-        "name": "Beautifully Broken",
-        "url": "https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 198066,
-      "name": "I Am Not Okay",
-      "url": "https://open.spotify.com/track/3SaS0Va6o6jYkWvadT86C6"
     },
     {
       "added_at": "2024-11-25 16:13:36",
@@ -899,6 +899,22 @@
     {
       "added_at": "2024-11-25 16:13:36",
       "album": {
+        "name": "Made by These Moments",
+        "url": "https://open.spotify.com/album/0UQr4EfIUbii2ufru3mnKe"
+      },
+      "artists": [
+        {
+          "name": "The Red Clay Strays",
+          "url": "https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ"
+        }
+      ],
+      "duration_ms": 217307,
+      "name": "Wanna Be Loved",
+      "url": "https://open.spotify.com/track/0htNDNNRkFmQuESkq4eoqj"
+    },
+    {
+      "added_at": "2024-11-25 16:13:36",
+      "album": {
         "name": "The Prodigal",
         "url": "https://open.spotify.com/album/1VI09clJhudhhJ88pARERD"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 395716,
       "name": "The Summoning",
       "url": "https://open.spotify.com/track/0S38Oso3I9vpDXcTb7kYt9"
-    },
-    {
-      "added_at": "2024-11-25 16:13:36",
-      "album": {
-        "name": "Made by These Moments",
-        "url": "https://open.spotify.com/album/0UQr4EfIUbii2ufru3mnKe"
-      },
-      "artists": [
-        {
-          "name": "The Red Clay Strays",
-          "url": "https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ"
-        }
-      ],
-      "duration_ms": 217307,
-      "name": "Wanna Be Loved",
-      "url": "https://open.spotify.com/track/0htNDNNRkFmQuESkq4eoqj"
     },
     {
       "added_at": "2024-11-25 16:13:36",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2024-11-25 16:13:36",
       "album": {
-        "name": "Love Somebody",
-        "url": "https://open.spotify.com/album/0TxewlKVKdpP18dGg279ep"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 204828,
-      "name": "Love Somebody",
-      "url": "https://open.spotify.com/track/7hR22TOX3RorxJPcsz5Wbo"
-    },
-    {
-      "added_at": "2024-11-25 16:13:36",
-      "album": {
         "name": "GLORIOUS",
         "url": "https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 164571,
       "name": "TGIF",
       "url": "https://open.spotify.com/track/31TVho4kOuAeRmLYGIEuWn"
+    },
+    {
+      "added_at": "2024-11-25 16:13:36",
+      "album": {
+        "name": "Love Somebody",
+        "url": "https://open.spotify.com/album/0TxewlKVKdpP18dGg279ep"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 204828,
+      "name": "Love Somebody",
+      "url": "https://open.spotify.com/track/7hR22TOX3RorxJPcsz5Wbo"
     },
     {
       "added_at": "2024-11-25 16:13:36",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-11-25 16:13:36",
       "album": {
-        "name": "Never Let Go",
-        "url": "https://open.spotify.com/album/6zXydimgenc15N3LWmf0cn"
-      },
-      "artists": [
-        {
-          "name": "Jung Kook",
-          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
-        }
-      ],
-      "duration_ms": 166812,
-      "name": "Never Let Go",
-      "url": "https://open.spotify.com/track/2nRMW95dnOILirpjbksLTs"
-    },
-    {
-      "added_at": "2024-11-25 16:13:36",
-      "album": {
         "name": "The After Taste",
         "url": "https://open.spotify.com/album/4EmlLRONqsYR1rKvw079xN"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 172964,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/593knnQN4REEshx8th9zgK"
+    },
+    {
+      "added_at": "2024-11-25 16:13:36",
+      "album": {
+        "name": "Never Let Go",
+        "url": "https://open.spotify.com/album/6zXydimgenc15N3LWmf0cn"
+      },
+      "artists": [
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        }
+      ],
+      "duration_ms": 166812,
+      "name": "Never Let Go",
+      "url": "https://open.spotify.com/track/2nRMW95dnOILirpjbksLTs"
     },
     {
       "added_at": "2024-11-25 16:13:36",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2024-11-25 16:13:36",
       "album": {
-        "name": "Am I Okay?",
-        "url": "https://open.spotify.com/album/7l80BDHxpZwj8FXImqH8fw"
-      },
-      "artists": [
-        {
-          "name": "Megan Moroney",
-          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
-        }
-      ],
-      "duration_ms": 208759,
-      "name": "No Caller ID",
-      "url": "https://open.spotify.com/track/2TOO5Dp8mlKhSq8xTGPXwX"
-    },
-    {
-      "added_at": "2024-11-25 16:13:36",
-      "album": {
         "name": "GOLDEN HOUR : Part.1",
         "url": "https://open.spotify.com/album/37XJyd3MfDYOhmAaDY5gEU"
       },
@@ -1199,18 +1183,34 @@
     {
       "added_at": "2024-11-25 16:13:36",
       "album": {
-        "name": "That's Who I Praise",
-        "url": "https://open.spotify.com/album/4xgkNyFFCIWLi8RC6dTlCR"
+        "name": "Am I Okay?",
+        "url": "https://open.spotify.com/album/7l80BDHxpZwj8FXImqH8fw"
       },
       "artists": [
         {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
         }
       ],
-      "duration_ms": 228285,
-      "name": "That's Who I Praise",
-      "url": "https://open.spotify.com/track/3gVYa5bvsuvBegKEIEY8Mk"
+      "duration_ms": 208759,
+      "name": "No Caller ID",
+      "url": "https://open.spotify.com/track/2TOO5Dp8mlKhSq8xTGPXwX"
+    },
+    {
+      "added_at": "2024-11-25 16:13:36",
+      "album": {
+        "name": "Deeper Well",
+        "url": "https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 232133,
+      "name": "Deeper Well",
+      "url": "https://open.spotify.com/track/333XFHKsHU0pOocFzBgrJi"
     },
     {
       "added_at": "2024-11-25 16:13:36",
@@ -1231,18 +1231,18 @@
     {
       "added_at": "2024-11-25 16:13:36",
       "album": {
-        "name": "Deeper Well",
-        "url": "https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ"
+        "name": "That's Who I Praise",
+        "url": "https://open.spotify.com/album/4xgkNyFFCIWLi8RC6dTlCR"
       },
       "artists": [
         {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
         }
       ],
-      "duration_ms": 232133,
-      "name": "Deeper Well",
-      "url": "https://open.spotify.com/track/333XFHKsHU0pOocFzBgrJi"
+      "duration_ms": 228285,
+      "name": "That's Who I Praise",
+      "url": "https://open.spotify.com/track/3gVYa5bvsuvBegKEIEY8Mk"
     },
     {
       "added_at": "2024-11-25 16:13:36",
@@ -1387,6 +1387,26 @@
     {
       "added_at": "2024-11-25 16:13:36",
       "album": {
+        "name": "HEIS",
+        "url": "https://open.spotify.com/album/2DDaN7Pgx9uDPd8IbWWW9H"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        },
+        {
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+        }
+      ],
+      "duration_ms": 169879,
+      "name": "BENIN BOYS",
+      "url": "https://open.spotify.com/track/1gc2RyrBm1PYdSnG65yuAl"
+    },
+    {
+      "added_at": "2024-11-25 16:13:36",
+      "album": {
         "name": "Jump",
         "url": "https://open.spotify.com/album/4xbpCWaXMdAaDvEKAi02PX"
       },
@@ -1407,26 +1427,6 @@
       "duration_ms": 147071,
       "name": "Jump",
       "url": "https://open.spotify.com/track/0ve0CavjqrUqVmZ605RhTV"
-    },
-    {
-      "added_at": "2024-11-25 16:13:36",
-      "album": {
-        "name": "HEIS",
-        "url": "https://open.spotify.com/album/2DDaN7Pgx9uDPd8IbWWW9H"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        },
-        {
-          "name": "Shallipopi",
-          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
-        }
-      ],
-      "duration_ms": 169879,
-      "name": "BENIN BOYS",
-      "url": "https://open.spotify.com/track/1gc2RyrBm1PYdSnG65yuAl"
     },
     {
       "added_at": "2024-11-25 16:13:36",
@@ -1663,6 +1663,26 @@
     {
       "added_at": "2024-11-25 16:13:36",
       "album": {
+        "name": "When Wind Meets Fire",
+        "url": "https://open.spotify.com/album/2uwzangKgtBdy6Q1rPYqC0"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
+        }
+      ],
+      "duration_ms": 392308,
+      "name": "Another One (feat. Chris Brown)",
+      "url": "https://open.spotify.com/track/4Km4rwUtXs7m0Vmc94eyOH"
+    },
+    {
+      "added_at": "2024-11-25 16:13:36",
+      "album": {
         "name": "NASHVILLE, TENNESSEE",
         "url": "https://open.spotify.com/album/7txdao9C0jYls2zBxFojzJ"
       },
@@ -1683,22 +1703,18 @@
     {
       "added_at": "2024-11-25 16:13:36",
       "album": {
-        "name": "When Wind Meets Fire",
-        "url": "https://open.spotify.com/album/2uwzangKgtBdy6Q1rPYqC0"
+        "name": "11:11 (Deluxe)",
+        "url": "https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz"
       },
       "artists": [
         {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        },
-        {
           "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
         }
       ],
-      "duration_ms": 392308,
-      "name": "Another One (feat. Chris Brown)",
-      "url": "https://open.spotify.com/track/4Km4rwUtXs7m0Vmc94eyOH"
+      "duration_ms": 306847,
+      "name": "Angel Numbers / Ten Toes",
+      "url": "https://open.spotify.com/track/6WUkjtKniX6z1JpH3twAry"
     },
     {
       "added_at": "2024-11-25 16:13:36",
@@ -1723,22 +1739,6 @@
       "duration_ms": 247100,
       "name": "Good Good",
       "url": "https://open.spotify.com/track/3jK1QRugwuAKAKOrtac7a2"
-    },
-    {
-      "added_at": "2024-11-25 16:13:36",
-      "album": {
-        "name": "11:11 (Deluxe)",
-        "url": "https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 306847,
-      "name": "Angel Numbers / Ten Toes",
-      "url": "https://open.spotify.com/track/6WUkjtKniX6z1JpH3twAry"
     },
     {
       "added_at": "2024-11-25 16:13:36",

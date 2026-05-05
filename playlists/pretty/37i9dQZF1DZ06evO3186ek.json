@@ -1,12 +1,12 @@
 {
   "description": "This is Maverick City Music. The essential tracks, all in one playlist.",
-  "num_followers": 165335,
+  "num_followers": 165338,
   "original_name": "This Is Maverick City Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afU+gAAAAACKxUJ7BEEn9qsIMaF47igG",
+  "snapshot_id": "afaQAAAAAADrxbxt+xl76ebzbJZh0CDM",
   "tracks": [
     {
       "added_at": null,
@@ -963,26 +963,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fridayy",
-        "url": "https://open.spotify.com/album/3J0B3BYdp5fRKHYn3N4Awf"
+        "name": "Nobody But Jesus (feat. Genavieve Linkowski & Nick Day)",
+        "url": "https://open.spotify.com/album/6Iu4zEbRkZYPdAaJoqPrbL"
       },
       "artists": [
-        {
-          "name": "Fridayy",
-          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
-        },
         {
           "name": "Maverick City Music",
           "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
         },
         {
-          "name": "My Mom",
-          "url": "https://open.spotify.com/artist/2hXLOncPoUkyWl4kagwB4R"
+          "name": "Song House",
+          "url": "https://open.spotify.com/artist/4nGNf0VR9cA4lexGEflHwf"
+        },
+        {
+          "name": "Genavieve Linkowski",
+          "url": "https://open.spotify.com/artist/3ZTcBbm31RFUaoTeFAuiJF"
+        },
+        {
+          "name": "Nick Day",
+          "url": "https://open.spotify.com/artist/3qk6ZVoPsbOxEvOdXaoeaz"
         }
       ],
-      "duration_ms": 231161,
-      "name": "Came Too Far (feat. Maverick City Music & My Mom)",
-      "url": "https://open.spotify.com/track/6VoWKlXpOTx56gHkSHOeZP"
+      "duration_ms": 202503,
+      "name": "Nobody But Jesus (feat. Genavieve Linkowski & Nick Day)",
+      "url": "https://open.spotify.com/track/0p3j36w9WbvP9ulX7rbWQS"
     },
     {
       "added_at": null,
@@ -1015,30 +1019,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nobody But Jesus (feat. Genavieve Linkowski & Nick Day)",
-        "url": "https://open.spotify.com/album/6Iu4zEbRkZYPdAaJoqPrbL"
+        "name": "Fridayy",
+        "url": "https://open.spotify.com/album/3J0B3BYdp5fRKHYn3N4Awf"
       },
       "artists": [
+        {
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+        },
         {
           "name": "Maverick City Music",
           "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
         },
         {
-          "name": "Song House",
-          "url": "https://open.spotify.com/artist/4nGNf0VR9cA4lexGEflHwf"
-        },
-        {
-          "name": "Genavieve Linkowski",
-          "url": "https://open.spotify.com/artist/3ZTcBbm31RFUaoTeFAuiJF"
-        },
-        {
-          "name": "Nick Day",
-          "url": "https://open.spotify.com/artist/3qk6ZVoPsbOxEvOdXaoeaz"
+          "name": "My Mom",
+          "url": "https://open.spotify.com/artist/2hXLOncPoUkyWl4kagwB4R"
         }
       ],
-      "duration_ms": 202503,
-      "name": "Nobody But Jesus (feat. Genavieve Linkowski & Nick Day)",
-      "url": "https://open.spotify.com/track/0p3j36w9WbvP9ulX7rbWQS"
+      "duration_ms": 231161,
+      "name": "Came Too Far (feat. Maverick City Music & My Mom)",
+      "url": "https://open.spotify.com/track/6VoWKlXpOTx56gHkSHOeZP"
     },
     {
       "added_at": null,

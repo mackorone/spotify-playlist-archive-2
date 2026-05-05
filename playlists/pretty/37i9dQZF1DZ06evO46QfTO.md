@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO46QfTO.md) - [plain]
 
 > This is Maren Morris\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,277 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,279 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO46QfTO.md) - [plain]
 | 33 | [Beat the Devil](https://open.spotify.com/track/1ZqFKsQz5NAZBumTyVI3HI) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Beat the Devil](https://open.spotify.com/album/5keXQjLFet3WAGjniLPG0a) | 2:13 |
 | 34 | [Fallin’ For You \(feat\. Maren Morris\)](https://open.spotify.com/track/0UhyoKv0CabELdmgi2G8Yy) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [This Time Around](https://open.spotify.com/album/5CSG8kmosTMgMEhAv8GFAX) | 3:36 |
 | 35 | [Line By Line \(feat\. Maren Morris\)](https://open.spotify.com/track/2gA74HvN6NKFrhgzpd5oNE) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Line By Line \(feat\. Maren Morris\)](https://open.spotify.com/album/0a6mnIEhvLCsIKZNGRcjaK) | 3:28 |
-| 36 | [running](https://open.spotify.com/track/3SQVdopQ6lfY55eBQtnZwG) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [D R E A M S I C L E \(deluxe\)](https://open.spotify.com/album/6qA8TnnCdZCoXzy0mDaZjk) | 3:50 |
-| 37 | [The Tree](https://open.spotify.com/track/2ulmNFm5fVsK5mlOQNdhJI) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [The Bridge](https://open.spotify.com/album/2SX47JWeyg4hlKfYwQ3AdA) | 3:25 |
+| 36 | [The Tree](https://open.spotify.com/track/2ulmNFm5fVsK5mlOQNdhJI) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [The Bridge](https://open.spotify.com/album/2SX47JWeyg4hlKfYwQ3AdA) | 3:25 |
+| 37 | [running](https://open.spotify.com/track/3SQVdopQ6lfY55eBQtnZwG) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [D R E A M S I C L E \(deluxe\)](https://open.spotify.com/album/6qA8TnnCdZCoXzy0mDaZjk) | 3:50 |
 | 38 | [Scissors](https://open.spotify.com/track/3JNgfzJac40BSzCc3H0e1i) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Scissors](https://open.spotify.com/album/4xcHcXY1WvL6MaSpEsBICL) | 2:25 |
 | 39 | [The Feels](https://open.spotify.com/track/4c10Mtlt9dPeKvP61sicAs) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [GIRL](https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf) | 3:07 |
 | 40 | [Can't Be Alone Tonight](https://open.spotify.com/track/2djOyFEFPwM5cXTwDFohPL) | [Charles Kelley](https://open.spotify.com/artist/2Hbxyk7qJ22i8wFEqgM3vC), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Can't Be Alone Tonight](https://open.spotify.com/album/117glnDKbzgvjmOGtx0pmp) | 3:31 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO46QfTO.md) - [plain]
 | 43 | [Make Out With Me](https://open.spotify.com/track/1XfDYxQ8o7yZN7lbKECwHE) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [GIRL](https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf) | 2:16 |
 | 44 | [Highway Queen \(feat\. Maren Morris\)](https://open.spotify.com/track/4KjOZ6Ny13zPbBFH7Od8bt) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Highway Queen \(feat\. Maren Morris\)](https://open.spotify.com/album/6UzzFc365CidnoOcEfs3qb) | 3:31 |
 | 45 | [cry in the car](https://open.spotify.com/track/3b24OkUhLiDAG7EZWJ7sJY) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [D R E A M S I C L E \(deluxe\)](https://open.spotify.com/album/6qA8TnnCdZCoXzy0mDaZjk) | 2:47 |
-| 46 | [I Wish I Was](https://open.spotify.com/track/0CqvhN7ChNjQf4tHp5rKTv) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [HERO \(Deluxe Edition\)](https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK) | 4:00 |
-| 47 | [Good Friends](https://open.spotify.com/track/5HVc3YeNKDFomPhXBKE90U) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Humble Quest](https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw) | 3:28 |
+| 46 | [Good Friends](https://open.spotify.com/track/5HVc3YeNKDFomPhXBKE90U) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Humble Quest](https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw) | 3:28 |
+| 47 | [I Wish I Was](https://open.spotify.com/track/0CqvhN7ChNjQf4tHp5rKTv) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [HERO \(Deluxe Edition\)](https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK) | 4:00 |
 | 48 | [too good](https://open.spotify.com/track/3Pdfbfi7mePacClkhzLt8J) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [D R E A M S I C L E](https://open.spotify.com/album/5joLpod4NFAHs4p1ORo8g2) | 2:40 |
 | 49 | [bed no breakfast](https://open.spotify.com/track/1wHAAwqjVw447oe30N8yIY) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [D R E A M S I C L E \(deluxe\)](https://open.spotify.com/album/6qA8TnnCdZCoXzy0mDaZjk) | 2:26 |
-| 50 | [Better Than We Found It](https://open.spotify.com/track/6IVLDX1miNBy1BOWebnMP2) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Better Than We Found It](https://open.spotify.com/album/4DI81D0NrKjNh88p7qusbC) | 3:17 |
+| 50 | [I Can't Love You Anymore](https://open.spotify.com/track/4tKtMWS8LZRvWhzuHKRIdr) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Humble Quest](https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw) | 2:49 |
 
-Snapshot ID: `afU+gAAAAACVaqPZcwYKlnET6mmRfj93`
+Snapshot ID: `afaQAAAAAAA/jKYfUDXr9RNfkEgChMYB`

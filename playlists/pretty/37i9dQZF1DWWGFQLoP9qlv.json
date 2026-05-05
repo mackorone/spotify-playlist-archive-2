@@ -1,6 +1,6 @@
 {
   "description": "Great songs by indisputable music legends. Cover: The Beatles",
-  "num_followers": 4252944,
+  "num_followers": 4252965,
   "original_name": "Legendary",
   "owner": {
     "name": "Spotify",
@@ -75,8 +75,8 @@
     {
       "added_at": "2024-02-05 22:59:04",
       "album": {
-        "name": "Highway to Hell",
-        "url": "https://open.spotify.com/album/10v912xgTZbjAtYfyKWJCS"
+        "name": "The Razors Edge",
+        "url": "https://open.spotify.com/album/4vu7F6h90Br1ZtYYaqfITy"
       },
       "artists": [
         {
@@ -84,9 +84,9 @@
           "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
         }
       ],
-      "duration_ms": 208110,
-      "name": "Highway to Hell",
-      "url": "https://open.spotify.com/track/2zYzyRzz6pRmhPzyfMEC8s"
+      "duration_ms": 292333,
+      "name": "Thunderstruck",
+      "url": "https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj"
     },
     {
       "added_at": "2024-02-05 22:59:04",
@@ -111,18 +111,18 @@
     {
       "added_at": "2024-02-05 22:59:04",
       "album": {
-        "name": "Forever Young",
-        "url": "https://open.spotify.com/album/2256qKBSQdt53T5dz4Kdcs"
+        "name": "Piano Man (Legacy Edition)",
+        "url": "https://open.spotify.com/album/69wjSAZXZiD2EBia3b3gxL"
       },
       "artists": [
         {
-          "name": "Alphaville",
-          "url": "https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX"
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
         }
       ],
-      "duration_ms": 226706,
-      "name": "Forever Young",
-      "url": "https://open.spotify.com/track/4S1VYqwfkLit9mKVY3MXoo"
+      "duration_ms": 339000,
+      "name": "Piano Man",
+      "url": "https://open.spotify.com/track/70C4NyhjD5OZUMzvWZ3njJ"
     },
     {
       "added_at": "2024-02-05 22:59:04",
@@ -143,24 +143,24 @@
     {
       "added_at": "2024-02-05 22:59:04",
       "album": {
-        "name": "Just As I Am",
-        "url": "https://open.spotify.com/album/6N8uPmDqbgXD3ztkCCfxoo"
+        "name": "Forever Young",
+        "url": "https://open.spotify.com/album/2256qKBSQdt53T5dz4Kdcs"
       },
       "artists": [
         {
-          "name": "Bill Withers",
-          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+          "name": "Alphaville",
+          "url": "https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX"
         }
       ],
-      "duration_ms": 126458,
-      "name": "Ain't No Sunshine",
-      "url": "https://open.spotify.com/track/1k1Bqnv2R0uJXQN4u6LKYt"
+      "duration_ms": 226706,
+      "name": "Forever Young",
+      "url": "https://open.spotify.com/track/4S1VYqwfkLit9mKVY3MXoo"
     },
     {
       "added_at": "2024-02-05 22:59:04",
       "album": {
-        "name": "The Razors Edge",
-        "url": "https://open.spotify.com/album/4vu7F6h90Br1ZtYYaqfITy"
+        "name": "Highway to Hell",
+        "url": "https://open.spotify.com/album/10v912xgTZbjAtYfyKWJCS"
       },
       "artists": [
         {
@@ -168,9 +168,9 @@
           "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
         }
       ],
-      "duration_ms": 292333,
-      "name": "Thunderstruck",
-      "url": "https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj"
+      "duration_ms": 208110,
+      "name": "Highway to Hell",
+      "url": "https://open.spotify.com/track/2zYzyRzz6pRmhPzyfMEC8s"
     },
     {
       "added_at": "2024-02-05 22:59:04",
@@ -207,6 +207,22 @@
     {
       "added_at": "2024-02-05 22:59:04",
       "album": {
+        "name": "Just As I Am",
+        "url": "https://open.spotify.com/album/6N8uPmDqbgXD3ztkCCfxoo"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "duration_ms": 126458,
+      "name": "Ain't No Sunshine",
+      "url": "https://open.spotify.com/track/1k1Bqnv2R0uJXQN4u6LKYt"
+    },
+    {
+      "added_at": "2024-02-05 22:59:04",
+      "album": {
         "name": "Jazz (2011 Remaster)",
         "url": "https://open.spotify.com/album/2yuTRGIackbcReLUXOYBqU"
       },
@@ -219,22 +235,6 @@
       "duration_ms": 209413,
       "name": "Don't Stop Me Now - Remastered 2011",
       "url": "https://open.spotify.com/track/5T8EDUDqKcs6OSOwEsfqG7"
-    },
-    {
-      "added_at": "2024-02-05 22:59:04",
-      "album": {
-        "name": "The Wall",
-        "url": "https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F"
-      },
-      "artists": [
-        {
-          "name": "Pink Floyd",
-          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
-        }
-      ],
-      "duration_ms": 238946,
-      "name": "Another Brick in the Wall, Pt. 2",
-      "url": "https://open.spotify.com/track/4gMgiXfqyzZLMhsksGmbQV"
     },
     {
       "added_at": "2024-02-05 22:59:04",
@@ -255,6 +255,22 @@
     {
       "added_at": "2024-02-05 22:59:04",
       "album": {
+        "name": "The Wall",
+        "url": "https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "duration_ms": 238946,
+      "name": "Another Brick in the Wall, Pt. 2",
+      "url": "https://open.spotify.com/track/4gMgiXfqyzZLMhsksGmbQV"
+    },
+    {
+      "added_at": "2024-02-05 22:59:04",
+      "album": {
         "name": "Combat Rock (Remastered)",
         "url": "https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2"
       },
@@ -271,18 +287,18 @@
     {
       "added_at": "2024-02-05 22:59:04",
       "album": {
-        "name": "Piano Man (Legacy Edition)",
-        "url": "https://open.spotify.com/album/69wjSAZXZiD2EBia3b3gxL"
+        "name": "Face Value (Deluxe Editon)",
+        "url": "https://open.spotify.com/album/1cM3r0WQZWNkCpEbmFjLln"
       },
       "artists": [
         {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
         }
       ],
-      "duration_ms": 339000,
-      "name": "Piano Man",
-      "url": "https://open.spotify.com/track/70C4NyhjD5OZUMzvWZ3njJ"
+      "duration_ms": 336453,
+      "name": "In The Air Tonight - 2015 Remastered",
+      "url": "https://open.spotify.com/track/18AXbzPzBS8Y3AkgSxzJPb"
     },
     {
       "added_at": "2024-02-05 22:59:04",
@@ -307,18 +323,18 @@
     {
       "added_at": "2024-02-05 22:59:04",
       "album": {
-        "name": "Face Value (Deluxe Editon)",
-        "url": "https://open.spotify.com/album/1cM3r0WQZWNkCpEbmFjLln"
+        "name": "Out of the Blue",
+        "url": "https://open.spotify.com/album/3usnShwygMXVZB4IV5dwnU"
       },
       "artists": [
         {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+          "name": "Electric Light Orchestra",
+          "url": "https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk"
         }
       ],
-      "duration_ms": 336453,
-      "name": "In The Air Tonight - 2015 Remastered",
-      "url": "https://open.spotify.com/track/18AXbzPzBS8Y3AkgSxzJPb"
+      "duration_ms": 303820,
+      "name": "Mr. Blue Sky",
+      "url": "https://open.spotify.com/track/2RlgNHKcydI9sayD2Df2xp"
     },
     {
       "added_at": "2024-02-05 22:59:04",
@@ -339,22 +355,6 @@
     {
       "added_at": "2024-02-05 22:59:04",
       "album": {
-        "name": "Out of the Blue",
-        "url": "https://open.spotify.com/album/3usnShwygMXVZB4IV5dwnU"
-      },
-      "artists": [
-        {
-          "name": "Electric Light Orchestra",
-          "url": "https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk"
-        }
-      ],
-      "duration_ms": 303820,
-      "name": "Mr. Blue Sky",
-      "url": "https://open.spotify.com/track/2RlgNHKcydI9sayD2Df2xp"
-    },
-    {
-      "added_at": "2024-02-05 22:59:04",
-      "album": {
         "name": "Blue Hawaii",
         "url": "https://open.spotify.com/album/7xe8VI48TxUpU1IIo0RfGi"
       },
@@ -367,22 +367,6 @@
       "duration_ms": 185877,
       "name": "Can't Help Falling in Love",
       "url": "https://open.spotify.com/track/44AyOl4qVkzS48vBsbNXaC"
-    },
-    {
-      "added_at": "2024-02-05 22:59:04",
-      "album": {
-        "name": "The Game (2011 Remaster)",
-        "url": "https://open.spotify.com/album/58alCatewkjNm9IM1Ucj67"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 214653,
-      "name": "Another One Bites The Dust - Remastered 2011",
-      "url": "https://open.spotify.com/track/5vdp5UmvTsnMEMESIF2Ym7"
     },
     {
       "added_at": "2024-02-05 22:59:04",
@@ -403,6 +387,22 @@
     {
       "added_at": "2024-02-05 22:59:04",
       "album": {
+        "name": "The Game (2011 Remaster)",
+        "url": "https://open.spotify.com/album/58alCatewkjNm9IM1Ucj67"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 214653,
+      "name": "Another One Bites The Dust - Remastered 2011",
+      "url": "https://open.spotify.com/track/5vdp5UmvTsnMEMESIF2Ym7"
+    },
+    {
+      "added_at": "2024-02-05 22:59:04",
+      "album": {
         "name": "OK Computer",
         "url": "https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE"
       },
@@ -415,6 +415,22 @@
       "duration_ms": 264066,
       "name": "Karma Police",
       "url": "https://open.spotify.com/track/63OQupATfueTdZMWTxW03A"
+    },
+    {
+      "added_at": "2024-02-05 22:59:04",
+      "album": {
+        "name": "Led Zeppelin IV (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "duration_ms": 482830,
+      "name": "Stairway to Heaven - Remaster",
+      "url": "https://open.spotify.com/track/5CQ30WqJwcep0pYcV4AMNc"
     },
     {
       "added_at": "2024-02-05 22:59:04",
@@ -451,22 +467,6 @@
     {
       "added_at": "2024-02-05 22:59:04",
       "album": {
-        "name": "Led Zeppelin IV (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK"
-      },
-      "artists": [
-        {
-          "name": "Led Zeppelin",
-          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
-        }
-      ],
-      "duration_ms": 482830,
-      "name": "Stairway to Heaven - Remaster",
-      "url": "https://open.spotify.com/track/5CQ30WqJwcep0pYcV4AMNc"
-    },
-    {
-      "added_at": "2024-02-05 22:59:04",
-      "album": {
         "name": "Duran Duran",
         "url": "https://open.spotify.com/album/0PqCkTvKFJxzr9uujq7a3T"
       },
@@ -499,22 +499,6 @@
     {
       "added_at": "2024-02-05 22:59:04",
       "album": {
-        "name": "\"Heroes\" (2017 Remaster)",
-        "url": "https://open.spotify.com/album/4I5zzKYd2SKDgZ9DRf5LVk"
-      },
-      "artists": [
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        }
-      ],
-      "duration_ms": 371413,
-      "name": "\"Heroes\" - 2017 Remaster",
-      "url": "https://open.spotify.com/track/7Jh1bpe76CNTCgdgAdBw4Z"
-    },
-    {
-      "added_at": "2024-02-05 22:59:04",
-      "album": {
         "name": "Point Of Know Return (Expanded Edition)",
         "url": "https://open.spotify.com/album/6oU298pdPTCQnMx1PYwyUA"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 206266,
       "name": "Dust in the Wind",
       "url": "https://open.spotify.com/track/6zeE5tKyr8Nu882DQhhSQI"
+    },
+    {
+      "added_at": "2024-02-05 22:59:04",
+      "album": {
+        "name": "\"Heroes\" (2017 Remaster)",
+        "url": "https://open.spotify.com/album/4I5zzKYd2SKDgZ9DRf5LVk"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "duration_ms": 371413,
+      "name": "\"Heroes\" - 2017 Remaster",
+      "url": "https://open.spotify.com/track/7Jh1bpe76CNTCgdgAdBw4Z"
     },
     {
       "added_at": "2024-02-05 22:59:04",
@@ -691,22 +691,6 @@
     {
       "added_at": "2024-02-05 22:59:04",
       "album": {
-        "name": "Combat Rock (Remastered)",
-        "url": "https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2"
-      },
-      "artists": [
-        {
-          "name": "The Clash",
-          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
-        }
-      ],
-      "duration_ms": 222437,
-      "name": "Rock the Casbah - Remastered",
-      "url": "https://open.spotify.com/track/56KqaFSGTb7ifpt16t5Y1N"
-    },
-    {
-      "added_at": "2024-02-05 22:59:04",
-      "album": {
         "name": "Storm Front",
         "url": "https://open.spotify.com/album/1Vw2uoVkLAJFVViJ1QyK1D"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 291100,
       "name": "We Didn't Start the Fire",
       "url": "https://open.spotify.com/track/3Cx4yrFaX8CeHwBMReOWXI"
+    },
+    {
+      "added_at": "2024-02-05 22:59:04",
+      "album": {
+        "name": "Combat Rock (Remastered)",
+        "url": "https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "duration_ms": 222437,
+      "name": "Rock the Casbah - Remastered",
+      "url": "https://open.spotify.com/track/56KqaFSGTb7ifpt16t5Y1N"
     },
     {
       "added_at": "2024-02-05 22:59:04",
@@ -851,22 +851,6 @@
     {
       "added_at": "2024-02-05 22:59:04",
       "album": {
-        "name": "The Kick Inside",
-        "url": "https://open.spotify.com/album/5NKTuBLCYhN0OwqFiGdXd1"
-      },
-      "artists": [
-        {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
-        }
-      ],
-      "duration_ms": 269066,
-      "name": "Wuthering Heights",
-      "url": "https://open.spotify.com/track/5YSI1311X8t31PBjkBG4CZ"
-    },
-    {
-      "added_at": "2024-02-05 22:59:04",
-      "album": {
         "name": "Non-Stop Erotic Cabaret",
         "url": "https://open.spotify.com/album/3KFWViJ1wIHAdOVLFTVzjD"
       },
@@ -879,22 +863,6 @@
       "duration_ms": 153800,
       "name": "Tainted Love",
       "url": "https://open.spotify.com/track/0cGG2EouYCEEC3xfa0tDFV"
-    },
-    {
-      "added_at": "2024-02-05 22:59:04",
-      "album": {
-        "name": "Midnight Love",
-        "url": "https://open.spotify.com/album/3gPlX9Zs3tXZZKNCyoOkSm"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        }
-      ],
-      "duration_ms": 238600,
-      "name": "Sexual Healing",
-      "url": "https://open.spotify.com/track/3VZmChrnVW8JK6ano4gSED"
     },
     {
       "added_at": "2024-02-05 22:59:04",
@@ -915,18 +883,18 @@
     {
       "added_at": "2024-02-05 22:59:04",
       "album": {
-        "name": "Faith",
-        "url": "https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw"
+        "name": "Midnight Love",
+        "url": "https://open.spotify.com/album/3gPlX9Zs3tXZZKNCyoOkSm"
       },
       "artists": [
         {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
         }
       ],
-      "duration_ms": 193200,
-      "name": "Faith - Remastered",
-      "url": "https://open.spotify.com/track/0HEmnAUT8PHznIAAmVXqFJ"
+      "duration_ms": 238600,
+      "name": "Sexual Healing",
+      "url": "https://open.spotify.com/track/3VZmChrnVW8JK6ano4gSED"
     },
     {
       "added_at": "2024-02-05 22:59:04",
@@ -947,18 +915,34 @@
     {
       "added_at": "2024-02-05 22:59:04",
       "album": {
-        "name": "Oh, Pretty Woman",
-        "url": "https://open.spotify.com/album/2jTbcSPVTBRAoc3mHU6hy0"
+        "name": "The Kick Inside",
+        "url": "https://open.spotify.com/album/5NKTuBLCYhN0OwqFiGdXd1"
       },
       "artists": [
         {
-          "name": "Roy Orbison",
-          "url": "https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS"
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
         }
       ],
-      "duration_ms": 178929,
-      "name": "Oh, Pretty Woman",
-      "url": "https://open.spotify.com/track/48i055G1OT5KxGGftwFxWy"
+      "duration_ms": 269066,
+      "name": "Wuthering Heights",
+      "url": "https://open.spotify.com/track/5YSI1311X8t31PBjkBG4CZ"
+    },
+    {
+      "added_at": "2024-02-05 22:59:04",
+      "album": {
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 193200,
+      "name": "Faith - Remastered",
+      "url": "https://open.spotify.com/track/0HEmnAUT8PHznIAAmVXqFJ"
     },
     {
       "added_at": "2024-02-05 22:59:04",
@@ -975,6 +959,22 @@
       "duration_ms": 178360,
       "name": "I Won't Back Down",
       "url": "https://open.spotify.com/track/7gSQv1OHpkIoAdUiRLdmI6"
+    },
+    {
+      "added_at": "2024-02-05 22:59:04",
+      "album": {
+        "name": "Oh, Pretty Woman",
+        "url": "https://open.spotify.com/album/2jTbcSPVTBRAoc3mHU6hy0"
+      },
+      "artists": [
+        {
+          "name": "Roy Orbison",
+          "url": "https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS"
+        }
+      ],
+      "duration_ms": 178929,
+      "name": "Oh, Pretty Woman",
+      "url": "https://open.spotify.com/track/48i055G1OT5KxGGftwFxWy"
     },
     {
       "added_at": "2024-02-05 22:59:04",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2024-02-05 22:59:04",
       "album": {
+        "name": "Best Of Blondie",
+        "url": "https://open.spotify.com/album/7mEjsBlRmfP63cH1gdPT6A"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "duration_ms": 275733,
+      "name": "Heart Of Glass - Special Mix",
+      "url": "https://open.spotify.com/track/0a4agFmqHXxcZl1nho1BxM"
+    },
+    {
+      "added_at": "2024-02-05 22:59:04",
+      "album": {
         "name": "Machine Head (Remastered)",
         "url": "https://open.spotify.com/album/32NQ56VZDTXSH3SMv4XSGN"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 340742,
       "name": "Smoke On The Water - Remastered 2012",
       "url": "https://open.spotify.com/track/5MMnwYs0hIxkENRsbkWJ2G"
-    },
-    {
-      "added_at": "2024-02-05 22:59:04",
-      "album": {
-        "name": "Best Of Blondie",
-        "url": "https://open.spotify.com/album/7mEjsBlRmfP63cH1gdPT6A"
-      },
-      "artists": [
-        {
-          "name": "Blondie",
-          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
-        }
-      ],
-      "duration_ms": 212893,
-      "name": "Call Me",
-      "url": "https://open.spotify.com/track/0vLwL4xuJ3s7SeaCdvMqkY"
     },
     {
       "added_at": "2024-02-05 22:59:04",

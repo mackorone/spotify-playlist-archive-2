@@ -1,12 +1,12 @@
 {
   "description": "This is Florence + The Machine. The essential tracks, all in one playlist.",
-  "num_followers": 584599,
+  "num_followers": 584660,
   "original_name": "This Is Florence + The Machine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afU+gAAAAACh3Rea7AWLLpmil9Ehnkah",
+  "snapshot_id": "afaQAAAAAADgXS1wSVQB4QI2aLDkG0wu",
   "tracks": [
     {
       "added_at": null,
@@ -632,9 +632,9 @@
           "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
         }
       ],
-      "duration_ms": 281440,
-      "name": "The End Of Love",
-      "url": "https://open.spotify.com/track/1tpkN6z0Zd3wphAd3DASDX"
+      "duration_ms": 226160,
+      "name": "Sky Full Of Song",
+      "url": "https://open.spotify.com/track/64fzn2ewOdSH57wrxTPGov"
     },
     {
       "added_at": null,
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
         }
       ],
-      "duration_ms": 226160,
-      "name": "Sky Full Of Song",
-      "url": "https://open.spotify.com/track/64fzn2ewOdSH57wrxTPGov"
+      "duration_ms": 281440,
+      "name": "The End Of Love",
+      "url": "https://open.spotify.com/track/1tpkN6z0Zd3wphAd3DASDX"
     },
     {
       "added_at": null,

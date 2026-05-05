@@ -514,7 +514,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-04",
+      "date_removed": null,
       "duration_ms": 220540,
       "name": "Bout That Murder",
       "url": "https://open.spotify.com/track/08agc2GzBbKMVW0TXM7IhH"
@@ -1200,7 +1200,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 182131,
       "name": "Fire In My Soul",
       "url": "https://open.spotify.com/track/6g8tMYVLdRG08vbDpNfxeP"
@@ -1998,7 +1998,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 301239,
       "name": "IMMORTALIZED",
       "url": "https://open.spotify.com/track/5IKnQVhGUxRnviKa8pk37T"
@@ -2244,7 +2244,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-29",
+      "date_removed": null,
       "duration_ms": 174812,
       "name": "Letter To DMX",
       "url": "https://open.spotify.com/track/3aP4lUvQGpzYhnZNoslgJ3"
@@ -2406,7 +2406,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 206000,
       "name": "Lucky Number 7",
       "url": "https://open.spotify.com/track/0db0d5hqGUdGDdhwlgyFDT"
@@ -2576,7 +2576,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-01",
+      "date_removed": null,
       "duration_ms": 211285,
       "name": "Music Ease The Pain",
       "url": "https://open.spotify.com/track/29G4yYOzGYxTMZ21AKsbf7"
@@ -3006,7 +3006,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 193278,
       "name": "Pain (feat. Young Noble)",
       "url": "https://open.spotify.com/track/02lYl82LEyILdvIiyKekBR"
@@ -3952,7 +3952,7 @@
       ],
       "date_added": "2026-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-21",
+      "date_removed": null,
       "duration_ms": 182130,
       "name": "THE FACE",
       "url": "https://open.spotify.com/track/6GVgOJeqTemuXcHvvOHxI3"
@@ -4004,7 +4004,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 209361,
       "name": "The Ghetto",
       "url": "https://open.spotify.com/track/0kRaNB7pA0PdHI3HPG3WfY"
@@ -4608,6 +4608,28 @@
       "duration_ms": 282813,
       "name": "Win Sum, Lose Sum (feat. Tony Atlanta)",
       "url": "https://open.spotify.com/track/2dHUF7eXj4ZicN7mFO6ZM9"
+    },
+    {
+      "album": {
+        "name": "Wounds (feat. Young Noble)",
+        "url": "https://open.spotify.com/album/14j4g5RAyY1PFpl7K4j1W3"
+      },
+      "artists": [
+        {
+          "name": "E.D.I. Mean",
+          "url": "https://open.spotify.com/artist/2PLfAUDdt1zaP2rPvJ0L1m"
+        },
+        {
+          "name": "Young Noble",
+          "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188074,
+      "name": "Wounds (feat. Young Noble)",
+      "url": "https://open.spotify.com/track/38Q3yhF4CYwMNe6lQ9Gzi1"
     },
     {
       "album": {

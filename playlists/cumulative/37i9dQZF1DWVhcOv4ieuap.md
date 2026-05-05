@@ -4,7 +4,7 @@
 
 > Alegra tu día con lo más pop para la mañana.
 
-485 songs - 1 day 1 hr 30 min
+487 songs - 1 day 1 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@
 | [Cumbia A La Gente](https://open.spotify.com/track/2a1oufthlxOkH8yjhYAvgH) | [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq), [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Cumbia A La Gente](https://open.spotify.com/album/3eT1FV4qZ43hRNUBO5yf12) | 3:28 | 2022-01-01 | 2022-06-04 |
 | [Cupido](https://open.spotify.com/track/04ndZkbKGthTgYSv3xS7en) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Cupido](https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE) | 2:54 | 2023-05-25 |  |
 | [Curándote](https://open.spotify.com/track/4AJlSjQppatiHS61OrZJd8) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Curándote](https://open.spotify.com/album/20oYOzxKp2XQZAZ2qLSzJm) | 2:22 | 2025-12-05 |  |
-| [Dame Un Break](https://open.spotify.com/track/0GcoJFAS8gvhdMZ7OkSwYH) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Dame Un Break](https://open.spotify.com/album/1FOZrLg79d0DCro3tsnRJq) | 3:20 | 2023-05-25 |  |
+| [Dame Un Break](https://open.spotify.com/track/0GcoJFAS8gvhdMZ7OkSwYH) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Dame Un Break](https://open.spotify.com/album/1FOZrLg79d0DCro3tsnRJq) | 3:20 | 2023-05-25 | 2026-05-05 |
 | [De 100 a 0](https://open.spotify.com/track/2WbC6wQYIAOVpnB8Xai63a) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [De 100 a 0](https://open.spotify.com/album/11QTKoa3O2tD7Vz1AmSgSc) | 3:04 | 2022-06-03 | 2022-07-29 |
 | [De Lejitos](https://open.spotify.com/track/5CygAGV9yYyI2LP20KqQKl) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2), [Luigi 21 Plus](https://open.spotify.com/artist/77GVmrLGuxNEvj2ibvT62v) | [De Lejitos](https://open.spotify.com/album/1VNoHWmXgGPGZ2gh7fnVHv) | 2:57 | 2023-10-20 | 2024-01-12 |
 | [De Qué Manera](https://open.spotify.com/track/3HMlb6Dh9OGr3CjV6IwjEP) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [De Qué Manera](https://open.spotify.com/album/6XBq5DhffYApT0TGZAQ9cH) | 3:13 | 2023-02-11 | 2026-02-21 |
@@ -255,6 +255,7 @@
 | [Luz](https://open.spotify.com/track/6v5J4UE21xOjnQ4N9H5jur) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Luz](https://open.spotify.com/album/54iXGKn6LPMXZVeIs9uqQo) | 3:06 | 2024-05-03 | 2025-01-29 |
 | [Lío](https://open.spotify.com/track/3Z0Ljf7at9S7ZRJM63uq4I) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2) | [Lío](https://open.spotify.com/album/0kzO37PJ7zVbRBv1Kruee8) | 2:46 | 2023-03-31 | 2023-05-26 |
 | [MACARRONES CON QUESO](https://open.spotify.com/track/5wI6KisgI3ZaFdbIzTxSjs) | [BORJA](https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [MACARRONES CON QUESO](https://open.spotify.com/album/1AWJf0i44FZsMwVC1hy6d7) | 2:27 | 2025-05-02 | 2025-09-07 |
+| [MALIBU](https://open.spotify.com/track/4fPXanSrPMbboicrHPzV0M) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Janney](https://open.spotify.com/album/25X59yD47dtzAAq6bzXliA) | 2:34 | 2026-05-04 |  |
 | [Mami](https://open.spotify.com/track/3bDD7GGvIzAZeHz2TOYD3A) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Mami](https://open.spotify.com/album/069LGoUMDaNgoKStPYdSi8) | 3:49 | 2022-01-01 | 2022-03-17 |
 | [MAMIII](https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAMIII](https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R) | 3:46 | 2022-04-15 | 2024-05-04 |
 | [Marte](https://open.spotify.com/track/1uK5rDY3BnikyG0sl3tPpc) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Mal De Amores](https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc) | 3:38 | 2022-04-15 | 2024-05-04 |
@@ -301,7 +302,7 @@
 | [Más Que Tú](https://open.spotify.com/track/6TzgG83Mj85lfnkWTuyO8O) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Más Que Tú](https://open.spotify.com/album/4SQs6PQwQFanCdSfF0CUd9) | 3:17 | 2025-02-14 |  |
 | [Mírame Ahora](https://open.spotify.com/track/7bfa2O4fYWZphBFSQQ3FuT) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Mírame Ahora](https://open.spotify.com/album/68obRe8swOSG89f5UnVSSa) | 2:34 | 2025-09-05 |  |
 | [Nada](https://open.spotify.com/track/4K8cyoCDovlc4FvtUr2Hfx) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Nada](https://open.spotify.com/album/5edB3I7c5aZj1bH2obUXne) | 2:54 | 2022-01-01 | 2022-06-04 |
-| [Nassau](https://open.spotify.com/track/2D48pEtMZRYcByAhjvVLM3) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Las Mujeres Ya No Lloran](https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA) | 2:36 | 2024-05-03 |  |
+| [Nassau](https://open.spotify.com/track/2D48pEtMZRYcByAhjvVLM3) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Las Mujeres Ya No Lloran](https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA) | 2:36 | 2024-05-03 | 2026-05-05 |
 | [NI BORRACHO](https://open.spotify.com/track/3ltpc2goYCfKT8AbWwqQvc) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [NI BORRACHO](https://open.spotify.com/album/56abbxkslQf53jbbIInCD3) | 4:08 | 2026-02-14 |  |
 | [Nieve](https://open.spotify.com/track/66uR26h9WTxwKhJCWnz5J9) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Nieve](https://open.spotify.com/album/4axBgdQOZogTmpgKNQQr1C) | 2:20 | 2022-04-15 | 2022-10-08 |
 | [Niña Bonita](https://open.spotify.com/track/3Gs7mVfWKl567mjozgxmXv) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Niña Bonita](https://open.spotify.com/album/3bVdhbdl1XxW7u7A0TffBB) | 3:07 | 2023-05-25 | 2024-05-04 |
@@ -444,6 +445,7 @@
 | [TUS GAFITAS](https://open.spotify.com/track/3gOI5aQD4mOMLsP3aWrkon) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 2:47 | 2023-02-24 | 2023-05-26 |
 | [Tutu](https://open.spotify.com/track/1nocRtwyNPVtGcIJqfgdzZ) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Tutu](https://open.spotify.com/album/6xu5asYeoMIT5Sa5b1P13q) | 2:58 | 2022-01-01 | 2022-06-04 |
 | [TuTuRu](https://open.spotify.com/track/1EogpG7fkDaEPRxSdAfyWe) | [Chesca](https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP) | [TuTuRu](https://open.spotify.com/album/21nYU75PGArPV2CBoXw5jt) | 2:51 | 2022-04-15 | 2022-07-29 |
+| [Tuyo y Nada Más](https://open.spotify.com/track/1sNQKWNNmxY0gaAuKK8RlM) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Tuyo y Nada Más](https://open.spotify.com/album/6BFSBJifn0sDMyzHhSvaBV) | 2:32 | 2026-05-04 |  |
 | [TV](https://open.spotify.com/track/7umNRgkjLJEnGF8Iq8f2rI) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [TV](https://open.spotify.com/album/1QlWbtKAAJnMTxYnLcRupx) | 2:45 | 2022-07-06 | 2022-09-09 |
 | [Tú](https://open.spotify.com/track/6SSbMKSHk1wgUWvTOyvitE) | [Playa Limbo](https://open.spotify.com/artist/6XmHtVhgpE33VHFEp2V1P8) | [Hora Cero](https://open.spotify.com/album/7G1y1jJTOwXqCemSHwfg8U) | 3:14 | 2024-07-05 | 2024-08-03 |
 | [Tú Me Dejaste De Querer](https://open.spotify.com/track/5ddFjrPG8NgQQ6xlOQIVd2) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [Niño de Elche](https://open.spotify.com/artist/5IbUz6BcOu6IVY512oxavP), [La Húngara](https://open.spotify.com/artist/7xtnpHS34mLlxGZDVUBHSU) | [El Madrileño](https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9) | 3:18 | 2022-06-03 | 2024-05-04 |

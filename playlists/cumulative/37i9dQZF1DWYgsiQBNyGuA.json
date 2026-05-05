@@ -620,7 +620,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 227973,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/07GWBE0uO09Yq4JJosrurR"
@@ -1062,6 +1062,24 @@
       "duration_ms": 207000,
       "name": "Dance My Way Back",
       "url": "https://open.spotify.com/track/6gwDGra690TbcUx3noEug5"
+    },
+    {
+      "album": {
+        "name": "The Crown",
+        "url": "https://open.spotify.com/album/64a2yWLGIWj9MlHIcaav9e"
+      },
+      "artists": [
+        {
+          "name": "Ledisi",
+          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
+        }
+      ],
+      "date_added": "2025-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228684,
+      "name": "DAYDREAMING",
+      "url": "https://open.spotify.com/track/6yivKcIUlFdpQvHFIzgWVM"
     },
     {
       "album": {

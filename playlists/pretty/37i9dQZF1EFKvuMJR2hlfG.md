@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKvuMJR2hlfG.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6wovS7exdnjHhyYZxYK4b5">Niall Horan</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,265 likes - 54 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,265 likes - 55 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKvuMJR2hlfG.md) - [plain]
 | 35 | [Must Be Love](https://open.spotify.com/track/4rYNrM5Yfi7vAs0PF3WnZW) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [The Show](https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4) | 3:09 |
 | 36 | [Arms Of A Stranger](https://open.spotify.com/track/63MU2FswcPQclQMxK17Fkb) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heartbreak Weather](https://open.spotify.com/album/5gdoRB1AUsGnScCuZ8gmPp) | 2:40 |
 | 37 | [You And Me](https://open.spotify.com/track/69GWewQgiJozsgSb9dDEgY) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Flicker \(Deluxe\)](https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p) | 3:04 |
-| 38 | [San Francisco](https://open.spotify.com/track/5iSkdzgBBtAAkaqULGPZUd) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heartbreak Weather](https://open.spotify.com/album/5gdoRB1AUsGnScCuZ8gmPp) | 3:12 |
-| 39 | [Bend The Rules](https://open.spotify.com/track/5MhKHO4FYmpfDryQX9408O) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heartbreak Weather](https://open.spotify.com/album/5gdoRB1AUsGnScCuZ8gmPp) | 3:54 |
-| 40 | [Drive Safe](https://open.spotify.com/track/024GxR7aMUMCPtp8Y3c1zn) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt), [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Drive Safe](https://open.spotify.com/album/7zEiuGlnzrMy1FrhXWpDSw) | 3:21 |
+| 38 | [Drive Safe](https://open.spotify.com/track/024GxR7aMUMCPtp8Y3c1zn) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt), [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Drive Safe](https://open.spotify.com/album/7zEiuGlnzrMy1FrhXWpDSw) | 3:21 |
+| 39 | [San Francisco](https://open.spotify.com/track/5iSkdzgBBtAAkaqULGPZUd) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heartbreak Weather](https://open.spotify.com/album/5gdoRB1AUsGnScCuZ8gmPp) | 3:12 |
+| 40 | [Bend The Rules](https://open.spotify.com/track/5MhKHO4FYmpfDryQX9408O) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heartbreak Weather](https://open.spotify.com/album/5gdoRB1AUsGnScCuZ8gmPp) | 3:54 |
 | 41 | [The Tide](https://open.spotify.com/track/2wulDoMWELRDOBbTkVoDH3) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Flicker \(Deluxe\)](https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p) | 3:20 |
 | 42 | [New Angel](https://open.spotify.com/track/3lMIgIO9HkPxnAZGmtTdpT) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heartbreak Weather](https://open.spotify.com/album/5gdoRB1AUsGnScCuZ8gmPp) | 3:09 |
 | 43 | [You Could Start A Cult \(with Lizzy McAlpine\)](https://open.spotify.com/track/1VsciQwDYOAyDw2FX6D062) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [The Show: The Encore](https://open.spotify.com/album/4bNl4naMwsYI9OeG3WPZ5E) | 3:14 |
@@ -62,5 +62,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKvuMJR2hlfG.md) - [plain]
 | 52 | [If You Leave Me / Everybody Wants To Rule The World \- Live From Electric Picnic](https://open.spotify.com/track/6PcZHrioMRip7pMJqPTDQM) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [The Show: The Encore](https://open.spotify.com/album/4bNl4naMwsYI9OeG3WPZ5E) | 5:17 |
 | 53 | [Dress](https://open.spotify.com/track/5RPq4WPdn53v53m72dLBBf) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heartbreak Weather \(5 Year Anniversary Edition\)](https://open.spotify.com/album/1lF6IT0hjkqjJ32o8Jz3P9) | 3:26 |
 | 54 | [Nothing](https://open.spotify.com/track/3V97CljOzjfQEf00yoSVXg) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heartbreak Weather \(5 Year Anniversary Edition\)](https://open.spotify.com/album/1lF6IT0hjkqjJ32o8Jz3P9) | 2:45 |
+| 55 | [Little More Time](https://open.spotify.com/track/7ukOzDe3BKCSpA6ki775U5) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Little More Time](https://open.spotify.com/album/4iRdV4c5sAh3oMl5MTYv9t) | 3:38 |
 
-Snapshot ID: `AcQihgAAAAD9oDat/8EfiIGQOdngfZ40`
+Snapshot ID: `AcQoHAAAAAB0P0ZFoTVyubuq9jurixWI`

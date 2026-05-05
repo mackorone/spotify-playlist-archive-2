@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Illest hardcore K-hip hop tracks are here. (Cover: Lil Moshpit) (\uacf5\uaca9\ub825 \uc0c1\uc2b9 \uad6d\ub0b4 \ud799\ud569\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
+  "description": "Illest hardcore K-hip hop tracks are here. (Cover: \ubbfc\uae30(ATEEZ)) (\uacf5\uaca9\ub825 \uc0c1\uc2b9 \uad6d\ub0b4 \ud799\ud569\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
   "name": "K`illin'",
   "tracks": [
     {
@@ -19631,6 +19631,32 @@
     },
     {
       "album": {
+        "name": "NOVA (feat. Gaeko & Royal 44)",
+        "url": "https://open.spotify.com/album/5U5jWaaftyPBNoXMSlRxiL"
+      },
+      "artists": [
+        {
+          "name": "MINGI",
+          "url": "https://open.spotify.com/artist/3ZHodgUsqkIUsek6ke65bO"
+        },
+        {
+          "name": "Gaeko",
+          "url": "https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79"
+        },
+        {
+          "name": "Royal 44",
+          "url": "https://open.spotify.com/artist/6I5eyZiVUpuPwE8mTXp7hC"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170854,
+      "name": "NOVA (feat. Gaeko & Royal 44)",
+      "url": "https://open.spotify.com/track/7dibrsiKT2BiZHvuVtBqdY"
+    },
+    {
+      "album": {
         "name": "Occam's Razor",
         "url": "https://open.spotify.com/album/74gGxfaLkXGKhoDDpyMoBD"
       },
@@ -22674,7 +22700,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 255834,
       "name": "Red Sun",
       "url": "https://open.spotify.com/track/3Cxy2M0XLtQTmixibr1jB2"

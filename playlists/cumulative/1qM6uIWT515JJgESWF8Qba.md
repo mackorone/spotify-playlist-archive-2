@@ -4,7 +4,7 @@
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-223 songs - 13 hr 54 min
+227 songs - 14 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Another Road](https://open.spotify.com/track/240unn2aJKGurliwi6lJF2) | [Rich Packman](https://open.spotify.com/artist/0QCcrb1f3NFZleDodMIMU7), [Erim Ahmet](https://open.spotify.com/artist/2PmZza7fj5zPBKqLAchsjv) | [Another Road](https://open.spotify.com/album/1ns78XX82aqpqIKgdLkxAB) | 4:13 | 2025-10-02 |  |
 | [April Breaking Down](https://open.spotify.com/track/4osFu1AgRmoZPpx06I6Mlk) | [Americarnage](https://open.spotify.com/artist/5TZzoAg1h3A8z6DIPZMRiD) | [Plato](https://open.spotify.com/album/1qktosBCuz1WBowp8dQg0x) | 4:20 | 2025-12-20 | 2026-01-21 |
 | [Away](https://open.spotify.com/track/2tm4WMB9krMVIFdbKfMw14) | [The Dead Hearts](https://open.spotify.com/artist/2s9mLTL8FL7NWqACzxXrwO) | [Plight Goes On](https://open.spotify.com/album/7C005ZPm1M5yhw4pEWE2lX) | 3:32 | 2025-12-25 | 2026-01-21 |
+| [Bad Omens](https://open.spotify.com/track/6avpcNvUmrYvdX0egVyjeU) | [The UNSOLVED](https://open.spotify.com/artist/2o8svnvt9r8DbgH2DHvtCO) | [Bad Omens](https://open.spotify.com/album/0uIbKWU808kXMrY9KJLRSD) | 3:53 | 2026-05-04 |  |
 | [BECAUSE OF YOU](https://open.spotify.com/track/2KUMvp09BkoZpK9vUvrSl9) | [Peterson](https://open.spotify.com/artist/75GKFnQxwp1FIBqzseSrKC) | [BECAUSE OF YOU](https://open.spotify.com/album/43uBPQfjTwvO2iwaHdqxg2) | 3:43 | 2025-12-13 | 2026-01-21 |
 | [Bestia](https://open.spotify.com/track/6UYOETNWbvmNKpl07sjPpu) | [Décum](https://open.spotify.com/artist/2nlYRGKyaJpzquLbtpCguk) | [Bestia](https://open.spotify.com/album/2ozT91COp1GUchj542jq44) | 2:45 | 2025-12-13 | 2026-01-21 |
 | [Birdsong](https://open.spotify.com/track/1jtWKXkkbGlLfqDmmCaHS0) | [Gradient](https://open.spotify.com/artist/6yNuEm7qTtdWtb6m0HOtrk) | [Birdsong](https://open.spotify.com/album/3TjMb5loMqhttqnP29INZR) | 2:40 | 2025-11-01 | 2025-12-28 |
@@ -150,6 +151,7 @@
 | [New Money \(OKB\)](https://open.spotify.com/track/6Ng2MIJihPGOqkCl6iKgwJ) | [GONGPATI](https://open.spotify.com/artist/3EcoH1mk7EzGfHUYtk4Zq8) | [Luka Kolektif](https://open.spotify.com/album/1kwx2yGZrJrVvBZbfiJQAW) | 4:03 | 2026-01-06 | 2026-02-02 |
 | [Night Crawls](https://open.spotify.com/track/1nhRmnr2vlqzE6B1rqChJx) | [Katelynn King](https://open.spotify.com/artist/4apwSB0LtUqwWplUVAabsz), [Sick Century](https://open.spotify.com/artist/59hC0TFyMDFOLBEpYcsgFZ) | [Mort D'Amour](https://open.spotify.com/album/73CPs6sCPgCBSyIZolAaSc) | 2:40 | 2025-09-25 | 2026-01-18 |
 | [No Angel Is Watching](https://open.spotify.com/track/3Cjct6UfADZsVdXdRHmOae) | [Ludwig Jonsson](https://open.spotify.com/artist/6pWJeM6v6cLKjblDNWYNdx) | [No Angel Is Watching](https://open.spotify.com/album/68XNOikZKxIdeg4OncW44B) | 2:55 | 2026-04-27 |  |
+| [No Dice](https://open.spotify.com/track/1NGf8nUVTTLq9PUFdjFKfM) | [Touch of Red](https://open.spotify.com/artist/07GYobUq3xeoOIhrqJ2Bc1) | [In Our Nature](https://open.spotify.com/album/3OpeVn7ARilpWiXIgZS6j3) | 5:00 | 2026-05-04 |  |
 | [No Queda Mas](https://open.spotify.com/track/0qxifYrmVM8OGQ9GM6AAyy) | [Rodeo Manhattan](https://open.spotify.com/artist/0mzIXt6mFvsaEHbKyoExUD) | [EQUINOCCIO](https://open.spotify.com/album/4zJbZstVSXrVlcgDZMckrw) | 2:33 | 2026-04-06 |  |
 | [No Regrets](https://open.spotify.com/track/5VYopasSs1SJL9l6fgqTZA) | [AG Session](https://open.spotify.com/artist/2cG7L3KAgqNIDuR8Te8bGy) | [No Regrets](https://open.spotify.com/album/76jbaG6yFjt6m3jQIIFxgF) | 3:02 | 2025-11-13 | 2025-12-28 |
 | [No Time](https://open.spotify.com/track/5vCvWmImr0Vr7YH0C0AyX2) | [Samuel y los Rezagados](https://open.spotify.com/artist/2x8GEMtyjX8bnJhNcNsJrW), [enma alvear](https://open.spotify.com/artist/6xvChSW0aFmkQ7WDjsKmne) | [Back In Business](https://open.spotify.com/album/3mLkSHu7tPitznqB6SnOPQ) | 4:48 | 2025-11-21 | 2025-12-28 |
@@ -184,6 +186,7 @@
 | [Seven](https://open.spotify.com/track/7tdZEErExaYhQI2Oa3cqWg) | [On\-Off](https://open.spotify.com/artist/3Qb1E9hm1R0In79aIumUsR) | [Ribcrasher](https://open.spotify.com/album/1p1VeLJoQlDKiK1X90QCHK) | 3:50 | 2026-04-13 |  |
 | [Shadow Artist](https://open.spotify.com/track/6wHFJkSrpW7MRoLx4Wgmvn) | [Silver Shores](https://open.spotify.com/artist/7laeihpH4jaoYZhJtZ25Kd) | [Dayglo / Shadow Artist](https://open.spotify.com/album/6n9uicDXaGs7NpVLA5VCSA) | 4:03 | 2025-12-29 |  |
 | [Sign Of The Horns](https://open.spotify.com/track/65GKZJPncKvGka5X4dTsO9) | [Tommy Schenker](https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC) | [Sign Of The Horns](https://open.spotify.com/album/7hGuCzOqXqKtKPt2FvKjz4) | 3:07 | 2025-10-21 |  |
+| [Silver Turns to Red](https://open.spotify.com/track/7jVXNz0jEKienLLq7zvVe5) | [Solar Flare Sunset](https://open.spotify.com/artist/5Rl6sxPtP6857bWDUdPN2r) | [Forever Waiting](https://open.spotify.com/album/4ZRB1AQmBiXeW21EFg0tWz) | 4:27 | 2026-05-04 |  |
 | [Skin Deep](https://open.spotify.com/track/5wsNvYOF9wR5BRWSKUSbft) | [People You Know](https://open.spotify.com/artist/3eMy8KyUvhwO3T2Nkl5FHz) | [Skin Deep](https://open.spotify.com/album/3g0JxbfNLFh4VTmdACc9f8) | 4:28 | 2025-12-20 | 2026-01-21 |
 | [Sometimes](https://open.spotify.com/track/5U1VJztDR0Dj59N0DIMe2x) | [Gradience](https://open.spotify.com/artist/6jgh7lYvPsSFJPa0OMkWH4) | [Sometimes](https://open.spotify.com/album/78Vn2njYDYqLAKl7LWAMKC) | 3:37 | 2026-01-01 | 2026-01-21 |
 | [Sorry Not Sorry](https://open.spotify.com/track/4qBf2gBewjF1tnoUzR6n3g) | [the dt's](https://open.spotify.com/artist/4nZVHrZrnqw6nNruvY3G0t) | [Sorry Not Sorry](https://open.spotify.com/album/1bHQETnkpeyWRLFJSbBuOt) | 3:41 | 2025-12-11 | 2026-01-21 |
@@ -205,6 +208,7 @@
 | [Tell Me No Lies \- Single Edit](https://open.spotify.com/track/6CbrodR7Czvh2gOSzlheTw) | [Typhoon](https://open.spotify.com/artist/4qd6GkWRx6aEuNDqVQ8Vxw) | [Tell Me No Lies](https://open.spotify.com/album/7GmE3yytXkkcwCEm3u4q5O) | 3:34 | 2026-02-04 |  |
 | [The Bee](https://open.spotify.com/track/6tT2Oh2O2pAgnlbu02DpOv) | [no\-ne](https://open.spotify.com/artist/45s6knTSGIU7M3kaHSdLiy) | [Daisyland](https://open.spotify.com/album/7jDAk7n5r1qHQFNIFXGtM2) | 4:21 | 2026-01-07 | 2026-02-02 |
 | [The Big Machine](https://open.spotify.com/track/2qQeDr5qL9U0zSM7o754Df) | [Mumbler \(UK\)](https://open.spotify.com/artist/66dhVKv1q3GsP1sqx2eW5j) | [Reformat](https://open.spotify.com/album/0BdIlCAGcZZeEZ2yNNvgrn) | 3:38 | 2026-02-19 | 2026-03-21 |
+| [The End \(For You\)](https://open.spotify.com/track/0ihoMNxO7cS13uoxzTaUvp) | [The UNSOLVED](https://open.spotify.com/artist/2o8svnvt9r8DbgH2DHvtCO) | [The Gauntlet](https://open.spotify.com/album/0ZCGfrukq5jzMuymHqn9eb) | 3:06 | 2026-05-04 |  |
 | [The Last On the List](https://open.spotify.com/track/68s4TaClnKwrtGW9A8Rcvt) | [On\-Off](https://open.spotify.com/artist/3Qb1E9hm1R0In79aIumUsR) | [Don't Forget the Roll](https://open.spotify.com/album/5wuEmaSZr4KX0WxiXCVyjk) | 3:49 | 2025-10-13 |  |
 | [The Price of Not Being Me](https://open.spotify.com/track/5QEcw5tlMYZlbmTq1qxjdV) | [Donkey Shots](https://open.spotify.com/artist/30je3FKxjeqo7gHq3VYVNx) | [The Price of Not Being Me](https://open.spotify.com/album/7dUP5R8LClZXSqEuSOVdUA) | 3:34 | 2025-11-02 | 2025-12-28 |
 | [The Runaway Song](https://open.spotify.com/track/2LdQb5Pm6m7Sbi1esrv3Wj) | [Hunter Road](https://open.spotify.com/artist/5aPH9KCyGCSIKUyrbsz1bn) | [The Runaway Song](https://open.spotify.com/album/1a5FKZRgTGoQCsLKFhDFcL) | 5:51 | 2026-04-29 |  |

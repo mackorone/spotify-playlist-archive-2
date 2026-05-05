@@ -1,6 +1,6 @@
 {
   "description": "Sweat it out with your favorite country workout songs. Cover: Carrie Underwood",
-  "num_followers": 124307,
+  "num_followers": 124325,
   "original_name": "Country Workout",
   "owner": {
     "name": "Spotify",
@@ -411,22 +411,6 @@
     {
       "added_at": "2026-03-16 19:55:02",
       "album": {
-        "name": "Barefoot Blue Jean Night",
-        "url": "https://open.spotify.com/album/4GeJssW5iLOSLOIXhLfOUJ"
-      },
-      "artists": [
-        {
-          "name": "Jake Owen",
-          "url": "https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT"
-        }
-      ],
-      "duration_ms": 169420,
-      "name": "Barefoot Blue Jean Night",
-      "url": "https://open.spotify.com/track/3ts6xK5GzfMAAriT9AIBmP"
-    },
-    {
-      "added_at": "2026-03-16 19:55:02",
-      "album": {
         "name": "Hey World",
         "url": "https://open.spotify.com/album/7zhKZcqIJkkeqrswshd15r"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 188893,
       "name": "One Of Them Girls",
       "url": "https://open.spotify.com/track/6uyiyatWPCqC59Mm4rO8xL"
+    },
+    {
+      "added_at": "2026-03-16 19:55:02",
+      "album": {
+        "name": "Barefoot Blue Jean Night",
+        "url": "https://open.spotify.com/album/4GeJssW5iLOSLOIXhLfOUJ"
+      },
+      "artists": [
+        {
+          "name": "Jake Owen",
+          "url": "https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT"
+        }
+      ],
+      "duration_ms": 169420,
+      "name": "Barefoot Blue Jean Night",
+      "url": "https://open.spotify.com/track/3ts6xK5GzfMAAriT9AIBmP"
     },
     {
       "added_at": "2026-03-16 19:55:02",
@@ -731,22 +731,6 @@
     {
       "added_at": "2026-03-16 19:55:02",
       "album": {
-        "name": "Tangled Up",
-        "url": "https://open.spotify.com/album/4ykbJPI8MPscFzROE8dqLy"
-      },
-      "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        }
-      ],
-      "duration_ms": 190733,
-      "name": "Crash and Burn",
-      "url": "https://open.spotify.com/track/2Fk0WwAqTBesLtKg97nojy"
-    },
-    {
-      "added_at": "2026-03-16 19:55:02",
-      "album": {
         "name": "Drunk (And I Don't Wanna Go Home)",
         "url": "https://open.spotify.com/album/6F6ZYE96lTFgzWotepEDhZ"
       },
@@ -767,6 +751,22 @@
     {
       "added_at": "2026-03-16 19:55:02",
       "album": {
+        "name": "Tangled Up",
+        "url": "https://open.spotify.com/album/4ykbJPI8MPscFzROE8dqLy"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        }
+      ],
+      "duration_ms": 190733,
+      "name": "Crash and Burn",
+      "url": "https://open.spotify.com/track/2Fk0WwAqTBesLtKg97nojy"
+    },
+    {
+      "added_at": "2026-03-16 19:55:02",
+      "album": {
         "name": "Meat and Candy",
         "url": "https://open.spotify.com/album/1G4WDlYjm0VqgyEymNJRcf"
       },
@@ -779,6 +779,22 @@
       "duration_ms": 206866,
       "name": "Snapback",
       "url": "https://open.spotify.com/track/7I5fYc4qKJddht8Ozhqqdx"
+    },
+    {
+      "added_at": "2026-03-16 19:55:02",
+      "album": {
+        "name": "What You See Ain't Always What You Get (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/25TJxI6ZH6XjT8geRQAFz5"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 186106,
+      "name": "Cold As You",
+      "url": "https://open.spotify.com/track/7IWV29mryrqtO0JVgnPtfv"
     },
     {
       "added_at": "2026-03-16 19:55:02",
@@ -831,22 +847,6 @@
     {
       "added_at": "2026-03-16 19:55:02",
       "album": {
-        "name": "What You See Ain't Always What You Get (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/25TJxI6ZH6XjT8geRQAFz5"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 186106,
-      "name": "Cold As You",
-      "url": "https://open.spotify.com/track/7IWV29mryrqtO0JVgnPtfv"
-    },
-    {
-      "added_at": "2026-03-16 19:55:02",
-      "album": {
         "name": "5 Foot 9",
         "url": "https://open.spotify.com/album/5CTNA7y4WYhLcCd8ijsnRr"
       },
@@ -859,22 +859,6 @@
       "duration_ms": 189780,
       "name": "5 Foot 9",
       "url": "https://open.spotify.com/track/6AqwH2Y9FJwhUE2dCSkw1u"
-    },
-    {
-      "added_at": "2026-03-16 19:55:02",
-      "album": {
-        "name": "Not At This Party",
-        "url": "https://open.spotify.com/album/3HeSxkLXlUx9ugabrCXa4t"
-      },
-      "artists": [
-        {
-          "name": "Dasha",
-          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
-        }
-      ],
-      "duration_ms": 212437,
-      "name": "Not At This Party",
-      "url": "https://open.spotify.com/track/2V45ERWv9xrvV7Udm0a8di"
     },
     {
       "added_at": "2026-03-16 19:55:02",
@@ -911,6 +895,22 @@
     {
       "added_at": "2026-03-16 19:55:02",
       "album": {
+        "name": "Not At This Party",
+        "url": "https://open.spotify.com/album/3HeSxkLXlUx9ugabrCXa4t"
+      },
+      "artists": [
+        {
+          "name": "Dasha",
+          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
+        }
+      ],
+      "duration_ms": 212437,
+      "name": "Not At This Party",
+      "url": "https://open.spotify.com/track/2V45ERWv9xrvV7Udm0a8di"
+    },
+    {
+      "added_at": "2026-03-16 19:55:02",
+      "album": {
         "name": "Happy Endings",
         "url": "https://open.spotify.com/album/66Y5XaoFSoa0A4P0u56s8V"
       },
@@ -943,22 +943,6 @@
     {
       "added_at": "2026-03-16 19:55:02",
       "album": {
-        "name": "Tullahoma",
-        "url": "https://open.spotify.com/album/2jGU6wUOYlyscEVAh6dtg5"
-      },
-      "artists": [
-        {
-          "name": "Dustin Lynch",
-          "url": "https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS"
-        }
-      ],
-      "duration_ms": 205426,
-      "name": "Ridin\u2019 Roads",
-      "url": "https://open.spotify.com/track/2VPmBOuy7ZAOFSzKwW2IEt"
-    },
-    {
-      "added_at": "2026-03-16 19:55:02",
-      "album": {
         "name": "Nightfall",
         "url": "https://open.spotify.com/album/4qs02AtQxPiPkklCBD7y8q"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 196160,
       "name": "Wine, Beer, Whiskey",
       "url": "https://open.spotify.com/track/5avVDmK9FVJpd3MDO8I3Zl"
+    },
+    {
+      "added_at": "2026-03-16 19:55:02",
+      "album": {
+        "name": "Tullahoma",
+        "url": "https://open.spotify.com/album/2jGU6wUOYlyscEVAh6dtg5"
+      },
+      "artists": [
+        {
+          "name": "Dustin Lynch",
+          "url": "https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS"
+        }
+      ],
+      "duration_ms": 205426,
+      "name": "Ridin\u2019 Roads",
+      "url": "https://open.spotify.com/track/2VPmBOuy7ZAOFSzKwW2IEt"
     },
     {
       "added_at": "2026-03-16 19:55:02",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2026-03-16 19:55:02",
       "album": {
-        "name": "What My World Spins Around",
-        "url": "https://open.spotify.com/album/4oTrQ9TmOapgT6uI8W6wsS"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 186790,
-      "name": "What My World Spins Around",
-      "url": "https://open.spotify.com/track/6HBRLaSQ7NB8MNlaqzYen1"
-    },
-    {
-      "added_at": "2026-03-16 19:55:02",
-      "album": {
         "name": "Kerosene",
         "url": "https://open.spotify.com/album/1NovG9mTUookEBrlHP6QC1"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 185800,
       "name": "Kerosene",
       "url": "https://open.spotify.com/track/2yhhcHTfvLC0HzSajGYL0h"
+    },
+    {
+      "added_at": "2026-03-16 19:55:02",
+      "album": {
+        "name": "What My World Spins Around",
+        "url": "https://open.spotify.com/album/4oTrQ9TmOapgT6uI8W6wsS"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 186790,
+      "name": "What My World Spins Around",
+      "url": "https://open.spotify.com/track/6HBRLaSQ7NB8MNlaqzYen1"
     },
     {
       "added_at": "2026-03-16 19:55:02",
@@ -1163,18 +1163,18 @@
     {
       "added_at": "2026-03-16 19:55:02",
       "album": {
-        "name": "Unapologetically (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA"
+        "name": "Dancin' In The Country",
+        "url": "https://open.spotify.com/album/5Sb6flBcIYmm5gTGwOVMbn"
       },
       "artists": [
         {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+          "name": "Tyler Hubbard",
+          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
         }
       ],
-      "duration_ms": 192840,
-      "name": "Miss Me More",
-      "url": "https://open.spotify.com/track/5NfJGBAL9mgFPRQxKJmiX2"
+      "duration_ms": 179645,
+      "name": "Dancin\u2019 In The Country",
+      "url": "https://open.spotify.com/track/6Z1bV93BP95h4YjIavrQPf"
     },
     {
       "added_at": "2026-03-16 19:55:02",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2026-03-16 19:55:02",
       "album": {
-        "name": "Cole Swindell",
-        "url": "https://open.spotify.com/album/2mlPEYhK1KwDD45CCCWxaH"
-      },
-      "artists": [
-        {
-          "name": "Cole Swindell",
-          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
-        }
-      ],
-      "duration_ms": 191906,
-      "name": "Ain't Worth the Whiskey",
-      "url": "https://open.spotify.com/track/3OZVqx1YsqDDkxQ6TnmHtn"
-    },
-    {
-      "added_at": "2026-03-16 19:55:02",
-      "album": {
         "name": "SOUTHSIDE",
         "url": "https://open.spotify.com/album/1xRcR4iSouBrfVhuqFkPAJ"
       },
@@ -1247,6 +1231,38 @@
     {
       "added_at": "2026-03-16 19:55:02",
       "album": {
+        "name": "Cole Swindell",
+        "url": "https://open.spotify.com/album/2mlPEYhK1KwDD45CCCWxaH"
+      },
+      "artists": [
+        {
+          "name": "Cole Swindell",
+          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
+        }
+      ],
+      "duration_ms": 191906,
+      "name": "Ain't Worth the Whiskey",
+      "url": "https://open.spotify.com/track/3OZVqx1YsqDDkxQ6TnmHtn"
+    },
+    {
+      "added_at": "2026-03-16 19:55:02",
+      "album": {
+        "name": "Unapologetically (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 192840,
+      "name": "Miss Me More",
+      "url": "https://open.spotify.com/track/5NfJGBAL9mgFPRQxKJmiX2"
+    },
+    {
+      "added_at": "2026-03-16 19:55:02",
+      "album": {
         "name": "Blown Away",
         "url": "https://open.spotify.com/album/7atJn49QvtOLiFxhQd2hp9"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 205233,
       "name": "Good Girl",
       "url": "https://open.spotify.com/track/20DfkHC5grnKNJCzZQB6KC"
-    },
-    {
-      "added_at": "2026-03-16 19:55:02",
-      "album": {
-        "name": "Dancin' In The Country",
-        "url": "https://open.spotify.com/album/5Sb6flBcIYmm5gTGwOVMbn"
-      },
-      "artists": [
-        {
-          "name": "Tyler Hubbard",
-          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
-        }
-      ],
-      "duration_ms": 179645,
-      "name": "Dancin\u2019 In The Country",
-      "url": "https://open.spotify.com/track/6Z1bV93BP95h4YjIavrQPf"
     },
     {
       "added_at": "2026-03-16 19:55:02",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2026-03-16 19:55:02",
       "album": {
-        "name": "Road Less Traveled",
-        "url": "https://open.spotify.com/album/296hswDnxvymjboFBxvmI5"
-      },
-      "artists": [
-        {
-          "name": "Lauren Alaina",
-          "url": "https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv"
-        }
-      ],
-      "duration_ms": 216266,
-      "name": "Road Less Traveled",
-      "url": "https://open.spotify.com/track/4nxgA1nvXvTkmsBY0vJV57"
-    },
-    {
-      "added_at": "2026-03-16 19:55:02",
-      "album": {
         "name": "Like I Love Country Music",
         "url": "https://open.spotify.com/album/6IXSaIsyP9LbtccncAs2Gg"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 234340,
       "name": "Like I Love Country Music",
       "url": "https://open.spotify.com/track/3j1xkzTW8owIphkWV51V9s"
+    },
+    {
+      "added_at": "2026-03-16 19:55:02",
+      "album": {
+        "name": "Road Less Traveled",
+        "url": "https://open.spotify.com/album/296hswDnxvymjboFBxvmI5"
+      },
+      "artists": [
+        {
+          "name": "Lauren Alaina",
+          "url": "https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv"
+        }
+      ],
+      "duration_ms": 216266,
+      "name": "Road Less Traveled",
+      "url": "https://open.spotify.com/track/4nxgA1nvXvTkmsBY0vJV57"
     },
     {
       "added_at": "2026-03-16 19:55:02",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2026-03-16 19:55:02",
       "album": {
-        "name": "Almost Maybes",
-        "url": "https://open.spotify.com/album/6GZSdWjroJCuofwkDsCGMD"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 179152,
-      "name": "Almost Maybes",
-      "url": "https://open.spotify.com/track/14JFKtBSqefxfMiKhq6JT8"
-    },
-    {
-      "added_at": "2026-03-16 19:55:02",
-      "album": {
         "name": "Last Night Lonely",
         "url": "https://open.spotify.com/album/6RVASKYeyPoQCjExSbmpzp"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 181990,
       "name": "Last Night Lonely",
       "url": "https://open.spotify.com/track/3SeeaIXnrCfT88vHVCRWHl"
+    },
+    {
+      "added_at": "2026-03-16 19:55:02",
+      "album": {
+        "name": "Almost Maybes",
+        "url": "https://open.spotify.com/album/6GZSdWjroJCuofwkDsCGMD"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 179152,
+      "name": "Almost Maybes",
+      "url": "https://open.spotify.com/track/14JFKtBSqefxfMiKhq6JT8"
     },
     {
       "added_at": "2026-03-16 19:55:02",

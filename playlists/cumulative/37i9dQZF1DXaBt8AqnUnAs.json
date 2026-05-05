@@ -8776,6 +8776,24 @@
     {
       "album": {
         "name": "Mais Uma Vez",
+        "url": "https://open.spotify.com/album/0fYwVgejJGYFrhksm750Lh"
+      },
+      "artists": [
+        {
+          "name": "Filipo",
+          "url": "https://open.spotify.com/artist/64In4vH9g6LjqBpM6ND1Ju"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Mais Uma Vez",
+      "url": "https://open.spotify.com/track/1eiDw53Wm0QzUL7CC224E5"
+    },
+    {
+      "album": {
+        "name": "Mais Uma Vez",
         "url": "https://open.spotify.com/album/0HFQONR8J5P5GYPgugPek2"
       },
       "artists": [
@@ -12572,7 +12590,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 146440,
       "name": "Passa o Beck",
       "url": "https://open.spotify.com/track/3h54LeGsVaREXywhEnbjDT"
@@ -13218,7 +13236,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 123428,
       "name": "Polo Sul",
       "url": "https://open.spotify.com/track/3NeVYtRfeQP4UsDVhIB8Qn"
@@ -13742,6 +13760,32 @@
       "duration_ms": 137142,
       "name": "Promessas",
       "url": "https://open.spotify.com/track/1LiJfEoNEjBBgvkAtdkzjg"
+    },
+    {
+      "album": {
+        "name": "Promessas de Amor",
+        "url": "https://open.spotify.com/album/4orC1pT0xedVn0W3slbVl3"
+      },
+      "artists": [
+        {
+          "name": "G.A",
+          "url": "https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE"
+        },
+        {
+          "name": "NandaTsunami",
+          "url": "https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174125,
+      "name": "Promessas de Amor",
+      "url": "https://open.spotify.com/track/5HnkzfWkrdligcrgPVboUw"
     },
     {
       "album": {
@@ -16274,6 +16318,32 @@
       "duration_ms": 221596,
       "name": "s\u00f3 (mais) uma vez",
       "url": "https://open.spotify.com/track/6Q34vqJQgCRNxbc6xWsVR1"
+    },
+    {
+      "album": {
+        "name": "S\u00d3 EU E VOC\u00ca",
+        "url": "https://open.spotify.com/album/6hnUsxEEZPnUFV2Uw5G67t"
+      },
+      "artists": [
+        {
+          "name": "San Joe",
+          "url": "https://open.spotify.com/artist/4CtW1JCmaMN6PhgBBQHxpX"
+        },
+        {
+          "name": "Torya",
+          "url": "https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh"
+        },
+        {
+          "name": "xochuo",
+          "url": "https://open.spotify.com/artist/7uDHqQfRR5spZgZWfj286P"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147551,
+      "name": "S\u00d3 EU E VOC\u00ca",
+      "url": "https://open.spotify.com/track/2F45pA2YqnAbEjm1uDECEn"
     },
     {
       "album": {

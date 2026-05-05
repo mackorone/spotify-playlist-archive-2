@@ -4903,6 +4903,40 @@
     },
     {
       "album": {
+        "name": "Hallelujah (My song forever)",
+        "url": "https://open.spotify.com/album/6UgiLt6pBAO7zYE6ZobtAQ"
+      },
+      "artists": [
+        {
+          "name": "Hallel Community Choir",
+          "url": "https://open.spotify.com/artist/6txrzyX5bSbN3ccS7PDvWH"
+        },
+        {
+          "name": "Manus Akpanke",
+          "url": "https://open.spotify.com/artist/3z8JjgzStBjRJWeX0MzYCL"
+        },
+        {
+          "name": "CJ Nonso",
+          "url": "https://open.spotify.com/artist/5xZ3TZKzgqhGpJ65skKK8F"
+        },
+        {
+          "name": "Oluwapelumi",
+          "url": "https://open.spotify.com/artist/7zoB4wcPhhtJx1UVzNvKAE"
+        },
+        {
+          "name": "Joshua Ekpenyong",
+          "url": "https://open.spotify.com/artist/7a8htg4PeSTDKXdY3wZwy5"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 500661,
+      "name": "Hallelujah (My song forever)",
+      "url": "https://open.spotify.com/track/2AUFfb517wmHQoDxxGg3TU"
+    },
+    {
+      "album": {
         "name": "Hallelujah Is My Song",
         "url": "https://open.spotify.com/album/7C1mTzcL6XwiBzdnyNYcyh"
       },
@@ -6786,7 +6820,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 149454,
       "name": "Like Fire",
       "url": "https://open.spotify.com/track/5zdpJyBSFvecdK7Zt5QaMb"
@@ -8126,7 +8160,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 207894,
       "name": "My Lovaa",
       "url": "https://open.spotify.com/track/6CMNOeLoFrtoLJ0tOyqjD4"
@@ -11626,6 +11660,32 @@
       "duration_ms": 99181,
       "name": "Who Am I",
       "url": "https://open.spotify.com/track/5edoZF7ljhPV7BE9HNJwXm"
+    },
+    {
+      "album": {
+        "name": "Will Be Done",
+        "url": "https://open.spotify.com/album/4sRnToa2OmP7ciWdkBeUOd"
+      },
+      "artists": [
+        {
+          "name": "Trendsetter Sense",
+          "url": "https://open.spotify.com/artist/2zcu7rparMOCBU7ZaBMb4N"
+        },
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "Nathan Davis Jr",
+          "url": "https://open.spotify.com/artist/24p0hSTqoxNsy89rKNrSDj"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221874,
+      "name": "Will Be Done",
+      "url": "https://open.spotify.com/track/0xgqTe1zh9FZa1x8zpvs9H"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,222 songs - 2 day 20 hr 0 min
+1,223 songs - 2 day 20 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1081,6 +1081,7 @@
 | [The Tide](https://open.spotify.com/track/3EuVWEJ5ioMHn84X13v1pm) | [Papa Khan](https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM) | [The Tide](https://open.spotify.com/album/5oXND6By8dpwUFwen26Hq7) | 3:00 | 2021-11-19 | 2022-02-18 |
 | [The Truth](https://open.spotify.com/track/6pYH3KiWTMIIQGt9wlsspt) | [Maazel](https://open.spotify.com/artist/4w5LgUT6bfJnNq6wSFbND7), [Sam Lamar](https://open.spotify.com/artist/2ihPQnVz8d2ePjGcXLbNf8) | [The Truth](https://open.spotify.com/album/343QCnQbAZWkJuQdSYOZTD) | 3:45 | 2021-11-19 | 2022-02-19 |
 | [The Warehouse \- Justin Hawkes Remix](https://open.spotify.com/track/7sYmU8hHavV3BUpCjRKsKe) | [MUZZ](https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg), [PAV4N](https://open.spotify.com/artist/1csMDtU42ZYNaqadbA4TAK), [Miss Trouble](https://open.spotify.com/artist/6pXPaQEZ2EyfxIRtf9JwyJ), [Justin Hawkes](https://open.spotify.com/artist/5bNvSO3b75SGJrx0kOt996) | [The Warehouse \(Justin Hawkes Remix\)](https://open.spotify.com/album/5lxvypUozCcKPlMoKrGuAO) | 4:20 | 2022-02-22 | 2022-04-28 |
+| [Theory](https://open.spotify.com/track/1qCEAyfBpdPhs7hLcZO9Dn) | [Nohost](https://open.spotify.com/artist/0LJ2EQmZqB05sPEtr1nTuI) | [Monstercat Instinct Selections 02](https://open.spotify.com/album/6DCXQ7sTyFktwFGwsPBzNQ) | 3:37 | 2026-05-04 |  |
 | [Therapy \- VIP](https://open.spotify.com/track/4DJoqSLh5xeRGWd3iFkG7H) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [Therapy \(VIP\)](https://open.spotify.com/album/7aBvVvj3FvFtC1324hgKmM) | 2:47 | 2024-12-12 | 2025-03-22 |
 | [Thick Of It All](https://open.spotify.com/track/6JbvvGKwtgcjeOU810AS8w) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Thick Of It All](https://open.spotify.com/album/0JvWGbkCMpAdbPVlczwKDx) | 3:19 | 2024-09-05 | 2024-11-28 |
 | [this feeling that never ends](https://open.spotify.com/track/4YMmmpFYgC29DqDqjghjuT) | [Scarr.](https://open.spotify.com/artist/2GmwYytxKfiAubo141R0tV), [Finding Mero](https://open.spotify.com/artist/01F2xKu2BblqA0nG21zvzs) | [this feeling that never ends](https://open.spotify.com/album/3PKuwfjGrZmyjcPykCLjJv) | 2:30 | 2022-11-30 | 2023-03-02 |

@@ -1,6 +1,6 @@
 {
   "description": "The ultimate rock party playlist!",
-  "num_followers": 2766815,
+  "num_followers": 2766868,
   "original_name": "Rock Party",
   "owner": {
     "name": "Spotify",
@@ -219,18 +219,18 @@
     {
       "added_at": "2024-12-03 14:36:35",
       "album": {
-        "name": "Three Imaginary Boys",
-        "url": "https://open.spotify.com/album/0jYmAPQezr1aG75KerJCdG"
+        "name": "Enema Of The State",
+        "url": "https://open.spotify.com/album/652N05EcNH1a4bIlUixQE2"
       },
       "artists": [
         {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
         }
       ],
-      "duration_ms": 155973,
-      "name": "Boys Don't Cry",
-      "url": "https://open.spotify.com/track/1QFh8OH1e78dGd3VyJZCAC"
+      "duration_ms": 167066,
+      "name": "All The Small Things",
+      "url": "https://open.spotify.com/track/2m1hi0nfMR9vdGC8UcrnwU"
     },
     {
       "added_at": "2024-12-03 14:36:35",
@@ -251,18 +251,18 @@
     {
       "added_at": "2024-12-03 14:36:35",
       "album": {
-        "name": "Enema Of The State",
-        "url": "https://open.spotify.com/album/652N05EcNH1a4bIlUixQE2"
+        "name": "Three Imaginary Boys",
+        "url": "https://open.spotify.com/album/0jYmAPQezr1aG75KerJCdG"
       },
       "artists": [
         {
-          "name": "blink-182",
-          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
         }
       ],
-      "duration_ms": 167066,
-      "name": "All The Small Things",
-      "url": "https://open.spotify.com/track/2m1hi0nfMR9vdGC8UcrnwU"
+      "duration_ms": 155973,
+      "name": "Boys Don't Cry",
+      "url": "https://open.spotify.com/track/1QFh8OH1e78dGd3VyJZCAC"
     },
     {
       "added_at": "2024-12-03 14:36:35",
@@ -363,22 +363,6 @@
     {
       "added_at": "2024-12-03 14:36:35",
       "album": {
-        "name": "AM",
-        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
-      },
-      "artists": [
-        {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
-        }
-      ],
-      "duration_ms": 201726,
-      "name": "R U Mine?",
-      "url": "https://open.spotify.com/track/2AT8iROs4FQueDv2c8q2KE"
-    },
-    {
-      "added_at": "2024-12-03 14:36:35",
-      "album": {
         "name": "Blur (Special Edition)",
         "url": "https://open.spotify.com/album/7HvIrSkKGJCzd8AKyjTJ6Q"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 121160,
       "name": "Song 2 - 2012 Remaster",
       "url": "https://open.spotify.com/track/1FTSo4v6BOZH9QxKc3MbVM"
+    },
+    {
+      "added_at": "2024-12-03 14:36:35",
+      "album": {
+        "name": "AM",
+        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "duration_ms": 201726,
+      "name": "R U Mine?",
+      "url": "https://open.spotify.com/track/2AT8iROs4FQueDv2c8q2KE"
     },
     {
       "added_at": "2024-12-03 14:36:35",
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-12-03 14:36:35",
       "album": {
-        "name": "Smash",
-        "url": "https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 257826,
-      "name": "Self Esteem",
-      "url": "https://open.spotify.com/track/1FkoVC85Ds3mFoK0fVqEqP"
-    },
-    {
-      "added_at": "2024-12-03 14:36:35",
-      "album": {
         "name": "Full Moon Fever",
         "url": "https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 256000,
       "name": "Free Fallin'",
       "url": "https://open.spotify.com/track/5tVA6TkbaAH9QMITTQRrNv"
+    },
+    {
+      "added_at": "2024-12-03 14:36:35",
+      "album": {
+        "name": "Smash",
+        "url": "https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 257826,
+      "name": "Self Esteem",
+      "url": "https://open.spotify.com/track/1FkoVC85Ds3mFoK0fVqEqP"
     },
     {
       "added_at": "2024-12-03 14:36:35",
@@ -715,22 +715,6 @@
     {
       "added_at": "2024-12-03 14:36:35",
       "album": {
-        "name": "The Gift Of Game",
-        "url": "https://open.spotify.com/album/0hdOk76DmEMYI6QV92mIin"
-      },
-      "artists": [
-        {
-          "name": "Crazy Town",
-          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
-        }
-      ],
-      "duration_ms": 216733,
-      "name": "Butterfly",
-      "url": "https://open.spotify.com/track/4BggEwLhGfrbrl7JBhC8EC"
-    },
-    {
-      "added_at": "2024-12-03 14:36:35",
-      "album": {
         "name": "Hysteria (Super Deluxe)",
         "url": "https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE"
       },
@@ -747,18 +731,18 @@
     {
       "added_at": "2024-12-03 14:36:35",
       "album": {
-        "name": "Blood Sugar Sex Magik (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg"
+        "name": "The Gift Of Game",
+        "url": "https://open.spotify.com/album/0hdOk76DmEMYI6QV92mIin"
       },
       "artists": [
         {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+          "name": "Crazy Town",
+          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
         }
       ],
-      "duration_ms": 282906,
-      "name": "Give It Away",
-      "url": "https://open.spotify.com/track/0uppYCG86ajpV2hSR3dJJ0"
+      "duration_ms": 216733,
+      "name": "Butterfly",
+      "url": "https://open.spotify.com/track/4BggEwLhGfrbrl7JBhC8EC"
     },
     {
       "added_at": "2024-12-03 14:36:35",
@@ -779,22 +763,6 @@
     {
       "added_at": "2024-12-03 14:36:35",
       "album": {
-        "name": "Evil Empire",
-        "url": "https://open.spotify.com/album/24E6rDvGDuYFjlGewp4ntF"
-      },
-      "artists": [
-        {
-          "name": "Rage Against The Machine",
-          "url": "https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj"
-        }
-      ],
-      "duration_ms": 229466,
-      "name": "Bulls On Parade",
-      "url": "https://open.spotify.com/track/0tZ3mElWcr74OOhKEiNz1x"
-    },
-    {
-      "added_at": "2024-12-03 14:36:35",
-      "album": {
         "name": "Hooray For Boobies",
         "url": "https://open.spotify.com/album/7BuCGZPiQkZpyn0Wj8rxIh"
       },
@@ -811,18 +779,34 @@
     {
       "added_at": "2024-12-03 14:36:35",
       "album": {
-        "name": "Anthology",
-        "url": "https://open.spotify.com/album/5klPnHQ5dy6Qm2Ul7h1lp5"
+        "name": "Blood Sugar Sex Magik (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg"
       },
       "artists": [
         {
-          "name": "Alien Ant Farm",
-          "url": "https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO"
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
         }
       ],
-      "duration_ms": 209266,
-      "name": "Smooth Criminal",
-      "url": "https://open.spotify.com/track/5z6xHjCZr7a7AIcy8sPBKy"
+      "duration_ms": 282906,
+      "name": "Give It Away",
+      "url": "https://open.spotify.com/track/0uppYCG86ajpV2hSR3dJJ0"
+    },
+    {
+      "added_at": "2024-12-03 14:36:35",
+      "album": {
+        "name": "Evil Empire",
+        "url": "https://open.spotify.com/album/24E6rDvGDuYFjlGewp4ntF"
+      },
+      "artists": [
+        {
+          "name": "Rage Against The Machine",
+          "url": "https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj"
+        }
+      ],
+      "duration_ms": 229466,
+      "name": "Bulls On Parade",
+      "url": "https://open.spotify.com/track/0tZ3mElWcr74OOhKEiNz1x"
     },
     {
       "added_at": "2024-12-03 14:36:35",
@@ -839,6 +823,22 @@
       "duration_ms": 240800,
       "name": "All Along the Watchtower",
       "url": "https://open.spotify.com/track/2aoo2jlRnM3A0NyLQqMN2f"
+    },
+    {
+      "added_at": "2024-12-03 14:36:35",
+      "album": {
+        "name": "Anthology",
+        "url": "https://open.spotify.com/album/5klPnHQ5dy6Qm2Ul7h1lp5"
+      },
+      "artists": [
+        {
+          "name": "Alien Ant Farm",
+          "url": "https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO"
+        }
+      ],
+      "duration_ms": 209266,
+      "name": "Smooth Criminal",
+      "url": "https://open.spotify.com/track/5z6xHjCZr7a7AIcy8sPBKy"
     },
     {
       "added_at": "2024-12-03 14:36:35",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-12-03 14:36:35",
       "album": {
-        "name": "One By One (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1zQ6F8gMagKcPL4SoA80cx"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 263440,
-      "name": "All My Life",
-      "url": "https://open.spotify.com/track/6tsojOQ5wHaIjKqIryLZK6"
-    },
-    {
-      "added_at": "2024-12-03 14:36:35",
-      "album": {
         "name": "Pocket Full Of Kryptonite (Anniversary Edition)",
         "url": "https://open.spotify.com/album/3jx5C8Z66FwdjNkqsSDBQh"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 256946,
       "name": "Two Princes",
       "url": "https://open.spotify.com/track/0cuq829zRNq4AEdmDJA4aw"
+    },
+    {
+      "added_at": "2024-12-03 14:36:35",
+      "album": {
+        "name": "One By One (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1zQ6F8gMagKcPL4SoA80cx"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 263440,
+      "name": "All My Life",
+      "url": "https://open.spotify.com/track/6tsojOQ5wHaIjKqIryLZK6"
     },
     {
       "added_at": "2024-12-03 14:36:35",
@@ -1195,18 +1195,18 @@
     {
       "added_at": "2024-12-03 14:36:35",
       "album": {
-        "name": "Dookie",
-        "url": "https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6"
+        "name": "Fire And Water",
+        "url": "https://open.spotify.com/album/1ydlm89JR8cV8VuSaNvHNL"
       },
       "artists": [
         {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+          "name": "Free",
+          "url": "https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC"
         }
       ],
-      "duration_ms": 224133,
-      "name": "Welcome to Paradise",
-      "url": "https://open.spotify.com/track/5kr3j5Clb9rjEposoMyLVt"
+      "duration_ms": 330643,
+      "name": "All Right Now",
+      "url": "https://open.spotify.com/track/1gcESexgftSuLuML57Y69q"
     },
     {
       "added_at": "2024-12-03 14:36:35",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2024-12-03 14:36:35",
       "album": {
+        "name": "Dookie",
+        "url": "https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 224133,
+      "name": "Welcome to Paradise",
+      "url": "https://open.spotify.com/track/5kr3j5Clb9rjEposoMyLVt"
+    },
+    {
+      "added_at": "2024-12-03 14:36:35",
+      "album": {
         "name": "Kiss Me Kiss Me Kiss Me (Remastered 2006)",
         "url": "https://open.spotify.com/album/6qRV8jXFV1fZG0TizFOuTE"
       },
@@ -1243,18 +1259,18 @@
     {
       "added_at": "2024-12-03 14:36:35",
       "album": {
-        "name": "Fire And Water",
-        "url": "https://open.spotify.com/album/1ydlm89JR8cV8VuSaNvHNL"
+        "name": "The Young and The Hopeless",
+        "url": "https://open.spotify.com/album/5CTygC3aONv7l0klY4k3hc"
       },
       "artists": [
         {
-          "name": "Free",
-          "url": "https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC"
+          "name": "Good Charlotte",
+          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
         }
       ],
-      "duration_ms": 330643,
-      "name": "All Right Now",
-      "url": "https://open.spotify.com/track/1gcESexgftSuLuML57Y69q"
+      "duration_ms": 190466,
+      "name": "Lifestyles of the Rich & Famous",
+      "url": "https://open.spotify.com/track/2g2a5kDeZexbUTD8abcvm6"
     },
     {
       "added_at": "2024-12-03 14:36:35",
@@ -1271,22 +1287,6 @@
       "duration_ms": 218000,
       "name": "Plug in Baby",
       "url": "https://open.spotify.com/track/2UKARCqDrhkYDoVR4FN5Wi"
-    },
-    {
-      "added_at": "2024-12-03 14:36:35",
-      "album": {
-        "name": "The Young and The Hopeless",
-        "url": "https://open.spotify.com/album/5CTygC3aONv7l0klY4k3hc"
-      },
-      "artists": [
-        {
-          "name": "Good Charlotte",
-          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
-        }
-      ],
-      "duration_ms": 190466,
-      "name": "Lifestyles of the Rich & Famous",
-      "url": "https://open.spotify.com/track/2g2a5kDeZexbUTD8abcvm6"
     },
     {
       "added_at": "2024-12-03 14:36:35",
@@ -1319,22 +1319,6 @@
       "duration_ms": 244640,
       "name": "Fly",
       "url": "https://open.spotify.com/track/3uPfVXcjnpOjyzI3jb3js4"
-    },
-    {
-      "added_at": "2024-12-03 14:36:35",
-      "album": {
-        "name": "I Love Rock 'N' Roll (Expanded Edition)",
-        "url": "https://open.spotify.com/album/555qwe1qUgLdee80TZ2CQt"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 175173,
-      "name": "I Love Rock 'N Roll",
-      "url": "https://open.spotify.com/track/2Cdvbe2G4hZsnhNMKyGrie"
     },
     {
       "added_at": "2024-12-03 14:36:35",
@@ -1403,18 +1387,18 @@
     {
       "added_at": "2024-12-03 14:36:35",
       "album": {
-        "name": "Lunatic",
-        "url": "https://open.spotify.com/album/71C65HI7THrlkpHHa24YJX"
+        "name": "Is This It",
+        "url": "https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE"
       },
       "artists": [
         {
-          "name": "KONGOS",
-          "url": "https://open.spotify.com/artist/58R5LHkK3vkmEyGUPOR5kS"
+          "name": "The Strokes",
+          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
         }
       ],
-      "duration_ms": 211960,
-      "name": "Come with Me Now",
-      "url": "https://open.spotify.com/track/2kWowW0k4oFymhkr7LmvzO"
+      "duration_ms": 193373,
+      "name": "Last Nite",
+      "url": "https://open.spotify.com/track/3SUusuA9jH1v6PVwtYMbdv"
     },
     {
       "added_at": "2024-12-03 14:36:35",
@@ -1435,18 +1419,18 @@
     {
       "added_at": "2024-12-03 14:36:35",
       "album": {
-        "name": "Is This It",
-        "url": "https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE"
+        "name": "Lunatic",
+        "url": "https://open.spotify.com/album/71C65HI7THrlkpHHa24YJX"
       },
       "artists": [
         {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+          "name": "KONGOS",
+          "url": "https://open.spotify.com/artist/58R5LHkK3vkmEyGUPOR5kS"
         }
       ],
-      "duration_ms": 193373,
-      "name": "Last Nite",
-      "url": "https://open.spotify.com/track/3SUusuA9jH1v6PVwtYMbdv"
+      "duration_ms": 211960,
+      "name": "Come with Me Now",
+      "url": "https://open.spotify.com/track/2kWowW0k4oFymhkr7LmvzO"
     },
     {
       "added_at": "2024-12-03 14:36:35",
@@ -1499,22 +1483,6 @@
     {
       "added_at": "2024-12-03 14:36:35",
       "album": {
-        "name": "Houses of the Holy (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7gS8ozSkvPW3VBPLnXOZ7S"
-      },
-      "artists": [
-        {
-          "name": "Led Zeppelin",
-          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
-        }
-      ],
-      "duration_ms": 262748,
-      "name": "D'yer Mak'er - Remaster",
-      "url": "https://open.spotify.com/track/4ItljeeAXtHsnsnnQojaO2"
-    },
-    {
-      "added_at": "2024-12-03 14:36:35",
-      "album": {
         "name": "Kick",
         "url": "https://open.spotify.com/album/7cuwWzS0oiApEt2fpKafkX"
       },
@@ -1527,22 +1495,6 @@
       "duration_ms": 180517,
       "name": "Need You Tonight",
       "url": "https://open.spotify.com/track/5eU8qMd0TpaLqTGDZJaLDs"
-    },
-    {
-      "added_at": "2024-12-03 14:36:35",
-      "album": {
-        "name": "Holy Fire",
-        "url": "https://open.spotify.com/album/6SBkXTPlJ3oEaFwRm5o2lD"
-      },
-      "artists": [
-        {
-          "name": "Foals",
-          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
-        }
-      ],
-      "duration_ms": 238853,
-      "name": "My Number",
-      "url": "https://open.spotify.com/track/04caEZhAsQKnWqKsMwk9ud"
     },
     {
       "added_at": "2024-12-03 14:36:35",
@@ -1563,6 +1515,38 @@
     {
       "added_at": "2024-12-03 14:36:35",
       "album": {
+        "name": "Holy Fire",
+        "url": "https://open.spotify.com/album/6SBkXTPlJ3oEaFwRm5o2lD"
+      },
+      "artists": [
+        {
+          "name": "Foals",
+          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
+        }
+      ],
+      "duration_ms": 238853,
+      "name": "My Number",
+      "url": "https://open.spotify.com/track/04caEZhAsQKnWqKsMwk9ud"
+    },
+    {
+      "added_at": "2024-12-03 14:36:35",
+      "album": {
+        "name": "Houses of the Holy (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7gS8ozSkvPW3VBPLnXOZ7S"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "duration_ms": 262748,
+      "name": "D'yer Mak'er - Remaster",
+      "url": "https://open.spotify.com/track/4ItljeeAXtHsnsnnQojaO2"
+    },
+    {
+      "added_at": "2024-12-03 14:36:35",
+      "album": {
         "name": "Devil Without a Cause",
         "url": "https://open.spotify.com/album/7nFlAxnXMrQRpM1R80pKQm"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 265840,
       "name": "Bawitdaba",
       "url": "https://open.spotify.com/track/0f37VQs969vZUL4gVfHRV9"
+    },
+    {
+      "added_at": "2024-12-03 14:36:35",
+      "album": {
+        "name": "I Love Rock 'N' Roll (Expanded Edition)",
+        "url": "https://open.spotify.com/album/555qwe1qUgLdee80TZ2CQt"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 175173,
+      "name": "I Love Rock 'N Roll",
+      "url": "https://open.spotify.com/track/2Cdvbe2G4hZsnhNMKyGrie"
     },
     {
       "added_at": "2024-12-03 14:36:35",

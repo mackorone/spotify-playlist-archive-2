@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Hasta las 15! Monster merengue hits! Cover: Manuel Turizo & Maluma",
-  "num_followers": 398853,
+  "num_followers": 398857,
   "original_name": "Merengue Mania",
   "owner": {
     "name": "Spotify",
@@ -587,6 +587,22 @@
     {
       "added_at": "2026-03-27 04:00:26",
       "album": {
+        "name": "El Hombre Merengue",
+        "url": "https://open.spotify.com/album/2pQywjfiQQQQnjRGrxjHwd"
+      },
+      "artists": [
+        {
+          "name": "Kinito Mendez",
+          "url": "https://open.spotify.com/artist/1dlQ9EIUyQvXZ3l05YMQdT"
+        }
+      ],
+      "duration_ms": 283866,
+      "name": "Cachamba",
+      "url": "https://open.spotify.com/track/2HFfwhwTbpGq8Ebi3Nkdwv"
+    },
+    {
+      "added_at": "2026-03-27 04:00:26",
+      "album": {
         "name": "Bailando por el Mundo (feat. Pitbull & El Cata)",
         "url": "https://open.spotify.com/album/5nRiEq87f96f29KYC09oZU"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 195240,
       "name": "Bailando por el Mundo (feat. Pitbull & El Cata)",
       "url": "https://open.spotify.com/track/3FeMpPPhGRKieT8zmlJDQz"
-    },
-    {
-      "added_at": "2026-03-27 04:00:26",
-      "album": {
-        "name": "El Hombre Merengue",
-        "url": "https://open.spotify.com/album/2pQywjfiQQQQnjRGrxjHwd"
-      },
-      "artists": [
-        {
-          "name": "Kinito Mendez",
-          "url": "https://open.spotify.com/artist/1dlQ9EIUyQvXZ3l05YMQdT"
-        }
-      ],
-      "duration_ms": 283866,
-      "name": "Cachamba",
-      "url": "https://open.spotify.com/track/2HFfwhwTbpGq8Ebi3Nkdwv"
     },
     {
       "added_at": "2026-03-27 04:00:26",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2026-03-27 04:00:26",
       "album": {
-        "name": "El Due\u00f1o Del Flow (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/3eQlstvvO9KwC44StPIJep"
-      },
-      "artists": [
-        {
-          "name": "Omega",
-          "url": "https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0"
-        }
-      ],
-      "duration_ms": 231906,
-      "name": "Merengue Electronico (Rompe Consola)",
-      "url": "https://open.spotify.com/track/1Q2WPcHRVK16zh9TR6isEq"
-    },
-    {
-      "added_at": "2026-03-27 04:00:26",
-      "album": {
         "name": "15to Aniversario",
         "url": "https://open.spotify.com/album/77OMtbmR2f7T36bnQBODj7"
       },
@@ -1103,6 +1087,22 @@
     {
       "added_at": "2026-03-27 04:00:26",
       "album": {
+        "name": "El Due\u00f1o Del Flow (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/3eQlstvvO9KwC44StPIJep"
+      },
+      "artists": [
+        {
+          "name": "Omega",
+          "url": "https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0"
+        }
+      ],
+      "duration_ms": 231906,
+      "name": "Merengue Electronico (Rompe Consola)",
+      "url": "https://open.spotify.com/track/1Q2WPcHRVK16zh9TR6isEq"
+    },
+    {
+      "added_at": "2026-03-27 04:00:26",
+      "album": {
         "name": "Back In Town",
         "url": "https://open.spotify.com/album/4Bpgw9UfwmY3GAKGMyI1Ep"
       },
@@ -1115,22 +1115,6 @@
       "duration_ms": 258746,
       "name": "Jilila Kimbolo",
       "url": "https://open.spotify.com/track/6gdy8MNpH37iLFTRdNXfAm"
-    },
-    {
-      "added_at": "2026-03-27 04:00:26",
-      "album": {
-        "name": "12 Golden Hits",
-        "url": "https://open.spotify.com/album/04irf8DoODG5y4esqlnLEI"
-      },
-      "artists": [
-        {
-          "name": "Bonny Cepeda",
-          "url": "https://open.spotify.com/artist/1dI3emu3Tf6ZydmpCEZmqx"
-        }
-      ],
-      "duration_ms": 286520,
-      "name": "Asesina",
-      "url": "https://open.spotify.com/track/68VJAoIwl72kQXzAm01cqG"
     },
     {
       "added_at": "2026-03-27 04:00:26",
@@ -1151,18 +1135,18 @@
     {
       "added_at": "2026-03-27 04:00:26",
       "album": {
-        "name": "Por Ti Amor",
-        "url": "https://open.spotify.com/album/7sBvD6jvzrUMZOx1l2kRE5"
+        "name": "12 Golden Hits",
+        "url": "https://open.spotify.com/album/04irf8DoODG5y4esqlnLEI"
       },
       "artists": [
         {
-          "name": "Liz",
-          "url": "https://open.spotify.com/artist/4zLCaxN5L394pfzaKd3Yqb"
+          "name": "Bonny Cepeda",
+          "url": "https://open.spotify.com/artist/1dI3emu3Tf6ZydmpCEZmqx"
         }
       ],
-      "duration_ms": 257424,
-      "name": "Por Ti Amor",
-      "url": "https://open.spotify.com/track/3xjmbjoWIl5TMJm9IgJjsU"
+      "duration_ms": 286520,
+      "name": "Asesina",
+      "url": "https://open.spotify.com/track/68VJAoIwl72kQXzAm01cqG"
     },
     {
       "added_at": "2026-03-27 04:00:26",
@@ -1203,6 +1187,22 @@
     {
       "added_at": "2026-03-27 04:00:26",
       "album": {
+        "name": "Por Ti Amor",
+        "url": "https://open.spotify.com/album/7sBvD6jvzrUMZOx1l2kRE5"
+      },
+      "artists": [
+        {
+          "name": "Liz",
+          "url": "https://open.spotify.com/artist/4zLCaxN5L394pfzaKd3Yqb"
+        }
+      ],
+      "duration_ms": 257424,
+      "name": "Por Ti Amor",
+      "url": "https://open.spotify.com/track/3xjmbjoWIl5TMJm9IgJjsU"
+    },
+    {
+      "added_at": "2026-03-27 04:00:26",
+      "album": {
         "name": "Aura",
         "url": "https://open.spotify.com/album/4nR8BybNNejawuuQzRYwap"
       },
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2026-03-27 04:00:26",
       "album": {
-        "name": "LIMI-T Para Siempre",
-        "url": "https://open.spotify.com/album/6tYC7QibL9ENqOc3GSdEHM"
-      },
-      "artists": [
-        {
-          "name": "Limi-T 21",
-          "url": "https://open.spotify.com/artist/5j8Q0VC4Be4yhcQ1tf8Sh7"
-        }
-      ],
-      "duration_ms": 153789,
-      "name": "Quiero Quemar La Pista",
-      "url": "https://open.spotify.com/track/38PuJLicgcUTFgb7FqmXaJ"
-    },
-    {
-      "added_at": "2026-03-27 04:00:26",
-      "album": {
         "name": "Borracho Me Doli\u00f3",
         "url": "https://open.spotify.com/album/6AE77a72SdgWl4W55LcSny"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 188160,
       "name": "Borracho Me Doli\u00f3",
       "url": "https://open.spotify.com/track/2z6vCpMGkY9vmJqMCsbrnj"
+    },
+    {
+      "added_at": "2026-03-27 04:00:26",
+      "album": {
+        "name": "LIMI-T Para Siempre",
+        "url": "https://open.spotify.com/album/6tYC7QibL9ENqOc3GSdEHM"
+      },
+      "artists": [
+        {
+          "name": "Limi-T 21",
+          "url": "https://open.spotify.com/artist/5j8Q0VC4Be4yhcQ1tf8Sh7"
+        }
+      ],
+      "duration_ms": 153789,
+      "name": "Quiero Quemar La Pista",
+      "url": "https://open.spotify.com/track/38PuJLicgcUTFgb7FqmXaJ"
     },
     {
       "added_at": "2026-03-27 04:00:26",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2026-03-27 04:00:26",
       "album": {
-        "name": "La Historia",
-        "url": "https://open.spotify.com/album/1g8KiMYp6C2NMEUFfxf73H"
-      },
-      "artists": [
-        {
-          "name": "Limi-T 21",
-          "url": "https://open.spotify.com/artist/5j8Q0VC4Be4yhcQ1tf8Sh7"
-        }
-      ],
-      "duration_ms": 243200,
-      "name": "Est\u00e1s Enamorada",
-      "url": "https://open.spotify.com/track/6RwiMja5FdaP8mKCRlg6jl"
-    },
-    {
-      "added_at": "2026-03-27 04:00:26",
-      "album": {
         "name": "Jn Music Group 40 A\u00f1os de Merengue Deluxe Edition, Vol. 2",
         "url": "https://open.spotify.com/album/0JXXIo9JN7EyiHXE4dTqUg"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 244000,
       "name": "Una Fotograf\u00eda",
       "url": "https://open.spotify.com/track/0Ur4zvtBeZ6T9dhHCoGuSW"
+    },
+    {
+      "added_at": "2026-03-27 04:00:26",
+      "album": {
+        "name": "La Historia",
+        "url": "https://open.spotify.com/album/1g8KiMYp6C2NMEUFfxf73H"
+      },
+      "artists": [
+        {
+          "name": "Limi-T 21",
+          "url": "https://open.spotify.com/artist/5j8Q0VC4Be4yhcQ1tf8Sh7"
+        }
+      ],
+      "duration_ms": 243200,
+      "name": "Est\u00e1s Enamorada",
+      "url": "https://open.spotify.com/track/6RwiMja5FdaP8mKCRlg6jl"
     },
     {
       "added_at": "2026-03-27 04:00:26",
@@ -1387,26 +1387,6 @@
       "duration_ms": 205814,
       "name": "El Hombre Divertido",
       "url": "https://open.spotify.com/track/5YJA3zbeKSvMhnqvvCNP4L"
-    },
-    {
-      "added_at": "2026-03-27 04:00:26",
-      "album": {
-        "name": "Bendecido",
-        "url": "https://open.spotify.com/album/3Cuf5Q9DOcTGPUBIl53w00"
-      },
-      "artists": [
-        {
-          "name": "Dale Pututi",
-          "url": "https://open.spotify.com/artist/0qgEwzU6TJsJF0L7iyYY8z"
-        },
-        {
-          "name": "Randy Malcom",
-          "url": "https://open.spotify.com/artist/3yjUmIEZOYU9i9cU9uJGIZ"
-        }
-      ],
-      "duration_ms": 203273,
-      "name": "Bendecido",
-      "url": "https://open.spotify.com/track/0ZKCQENt4shhG0rLwot8xB"
     },
     {
       "added_at": "2026-03-27 04:00:26",
@@ -1475,6 +1455,26 @@
     {
       "added_at": "2026-03-27 04:00:26",
       "album": {
+        "name": "Bendecido",
+        "url": "https://open.spotify.com/album/3Cuf5Q9DOcTGPUBIl53w00"
+      },
+      "artists": [
+        {
+          "name": "Dale Pututi",
+          "url": "https://open.spotify.com/artist/0qgEwzU6TJsJF0L7iyYY8z"
+        },
+        {
+          "name": "Randy Malcom",
+          "url": "https://open.spotify.com/artist/3yjUmIEZOYU9i9cU9uJGIZ"
+        }
+      ],
+      "duration_ms": 203273,
+      "name": "Bendecido",
+      "url": "https://open.spotify.com/track/0ZKCQENt4shhG0rLwot8xB"
+    },
+    {
+      "added_at": "2026-03-27 04:00:26",
+      "album": {
         "name": "La Mujer",
         "url": "https://open.spotify.com/album/40deup3Khxr7OdrwTtdog6"
       },
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2026-03-27 04:00:26",
       "album": {
-        "name": "Tus Mentiras",
-        "url": "https://open.spotify.com/album/6NRvNitD7WdrrbxsVZ0MFZ"
-      },
-      "artists": [
-        {
-          "name": "Joey Montana",
-          "url": "https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX"
-        }
-      ],
-      "duration_ms": 163349,
-      "name": "Tus Mentiras",
-      "url": "https://open.spotify.com/track/2g9FBhKSP6mM0WYaButfgA"
-    },
-    {
-      "added_at": "2026-03-27 04:00:26",
-      "album": {
         "name": "Juntos",
         "url": "https://open.spotify.com/album/6yq4tvlzSBaHvdsb8dPg2X"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 277946,
       "name": "Ni Tu Ni Yo",
       "url": "https://open.spotify.com/track/77cE5knaNTdMi3xwD4qpBv"
+    },
+    {
+      "added_at": "2026-03-27 04:00:26",
+      "album": {
+        "name": "Tus Mentiras",
+        "url": "https://open.spotify.com/album/6NRvNitD7WdrrbxsVZ0MFZ"
+      },
+      "artists": [
+        {
+          "name": "Joey Montana",
+          "url": "https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX"
+        }
+      ],
+      "duration_ms": 163349,
+      "name": "Tus Mentiras",
+      "url": "https://open.spotify.com/track/2g9FBhKSP6mM0WYaButfgA"
     },
     {
       "added_at": "2026-03-27 04:00:26",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2026-03-27 04:00:26",
       "album": {
-        "name": "Ganas (Versi\u00f3n Merengue)",
-        "url": "https://open.spotify.com/album/1CkzDWjykuEmDfBLtE0JMf"
-      },
-      "artists": [
-        {
-          "name": "Olga Ta\u00f1\u00f3n",
-          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
-        }
-      ],
-      "duration_ms": 215478,
-      "name": "Ganas - Versi\u00f3n Merengue",
-      "url": "https://open.spotify.com/track/1TLZarOJe4WbDOMHoXBMfE"
-    },
-    {
-      "added_at": "2026-03-27 04:00:26",
-      "album": {
         "name": "Lo Mejor de Lo Mejor - Tropical",
         "url": "https://open.spotify.com/album/7Mvvbvm1ALm9bO9dEn7C3i"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 286026,
       "name": "La Ventanita",
       "url": "https://open.spotify.com/track/36QUTKmqStL4Ye8s9xeTlc"
+    },
+    {
+      "added_at": "2026-03-27 04:00:26",
+      "album": {
+        "name": "Ganas (Versi\u00f3n Merengue)",
+        "url": "https://open.spotify.com/album/1CkzDWjykuEmDfBLtE0JMf"
+      },
+      "artists": [
+        {
+          "name": "Olga Ta\u00f1\u00f3n",
+          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
+        }
+      ],
+      "duration_ms": 215478,
+      "name": "Ganas - Versi\u00f3n Merengue",
+      "url": "https://open.spotify.com/track/1TLZarOJe4WbDOMHoXBMfE"
     },
     {
       "added_at": "2026-03-27 04:00:26",

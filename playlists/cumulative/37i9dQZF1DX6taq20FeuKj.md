@@ -4,7 +4,7 @@
 
 > Get your gaming session going with this epic rap mix.
 
-453 songs - 1 day 1 hr 12 min
+454 songs - 1 day 1 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -219,6 +219,7 @@
 | [Life Is Good \(feat\. Drake\)](https://open.spotify.com/track/5yY9lUy8nbvjM1Uyo1Uqoc) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Life Is Good \(feat\. Drake\)](https://open.spotify.com/album/5uCEoLCj3ZZZ1EtzQdQWVl) | 3:57 | 2022-10-28 | 2024-05-03 |
 | [Life Is Good \(feat\. Drake\)](https://open.spotify.com/track/1K5KBOgreBi5fkEHvg5ap3) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [High Off Life](https://open.spotify.com/album/4bNPOFOzxGhF5jhfIK6lit) | 3:57 | 2021-12-15 | 2022-10-29 |
 | [Life Is Good \(feat\. Drake\)](https://open.spotify.com/track/7N0mD5y6PRGNjcF8stOKMZ) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [High Off Life](https://open.spotify.com/album/4V6ur2bnlbPUvpjkTHTnMW) | 3:57 | 2021-10-18 | 2022-07-29 |
+| [Lifestyle](https://open.spotify.com/track/7DTlsMOQjGysXHpwwpHuPl) | [Rich Gang](https://open.spotify.com/artist/5pU9lKGn9IUnVvOCONrcIS), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Lifestyle](https://open.spotify.com/album/4EZDdNda2DHRyqoDgTpS4l) | 4:29 | 2024-05-02 |  |
 | [Like That](https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [WE DON'T TRUST YOU](https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn) | 4:27 | 2024-05-02 |  |
 | [Location](https://open.spotify.com/track/3yk7PJnryiJ8mAPqsrujzf) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Playboi Carti](https://open.spotify.com/album/4rJgzzfFHAVFhCSt2P4I3j) | 2:48 | 2024-01-11 |  |
 | [LONDON \(feat\. J\. Cole\)](https://open.spotify.com/track/5vhrsx08dHh2QcVh1Rsiwt) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [LONDON \(feat\. J\. Cole\)](https://open.spotify.com/album/5rIHQjM7xy35RYx9E3XaqS) | 4:10 | 2022-04-08 | 2022-10-29 |
@@ -300,7 +301,7 @@
 | [Our Time](https://open.spotify.com/track/4PlwZcXyJwoYPgafhglDgq) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Our Time](https://open.spotify.com/album/5OGVTcBmkApTJTcujoXFht) | 1:38 | 2021-09-03 | 2022-07-29 |
 | [Out On Bail](https://open.spotify.com/track/1ylymaTbSjggG7TaItdRkI) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Out On Bail](https://open.spotify.com/album/5zJWl86o0Xf0KdSw2OYi63) | 2:31 | 2021-09-03 | 2022-07-25 |
 | [OUT WEST \(feat\. Young Thug\)](https://open.spotify.com/track/6gi6y1xwmVszDWkUqab1qw) | [JACKBOYS](https://open.spotify.com/artist/7A8S43ryYdbWpJKeHRZRcq), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [JACKBOYS](https://open.spotify.com/album/1Sf8GsXG32t0jNrX11xqWx) | 2:37 | 2022-10-28 |  |
-| [Outside Today](https://open.spotify.com/track/5PIfH6BzcmH04RDmtzF0BN) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Until Death Call My Name](https://open.spotify.com/album/6ee8lju8zGwQ6Pkr5tZSts) | 2:09 | 2024-05-02 |  |
+| [Outside Today](https://open.spotify.com/track/5PIfH6BzcmH04RDmtzF0BN) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Until Death Call My Name](https://open.spotify.com/album/6ee8lju8zGwQ6Pkr5tZSts) | 2:09 | 2024-05-02 | 2026-05-05 |
 | [Over Your Head](https://open.spotify.com/track/0Tcw8w9pvPrZoORgxsNASW) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Over Your Head](https://open.spotify.com/album/2LLu6xqRlPgR80v0lg5WR1) | 3:06 | 2021-09-03 | 2022-04-21 |
 | [Panda](https://open.spotify.com/track/275a9yzwGB6ncAW4SxY7q3) | [Desiigner](https://open.spotify.com/artist/7pFeBzX627ff0VnN6bxPR4) | [Panda](https://open.spotify.com/album/1k3BLTc4VZ7beRBXL1SPN6) | 4:07 | 2022-03-25 | 2022-10-29 |
 | [PAPARAZZI](https://open.spotify.com/track/001U2oRRZXrLbeOJMduXSc) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [IN DIMES WE TRUST](https://open.spotify.com/album/6iQuqlO95HG2WVqVh4jxRi) | 2:28 | 2022-03-11 | 2022-07-29 |

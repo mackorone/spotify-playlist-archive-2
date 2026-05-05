@@ -1,12 +1,12 @@
 {
   "description": "This is Forrest Frank. The essential tracks, all in one playlist.",
-  "num_followers": 194878,
+  "num_followers": 195072,
   "original_name": "This Is Forrest Frank",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afU+gAAAAACCsj9SacMHpb/OhECEhSRk",
+  "snapshot_id": "afaQAAAAAABm+xqITxZZNmmpT5/Ylg3v",
   "tracks": [
     {
       "added_at": null,
@@ -419,18 +419,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Thank You",
-        "url": "https://open.spotify.com/album/4JxaMl4zCyktWBBMPW2vod"
+        "name": "CRY",
+        "url": "https://open.spotify.com/album/2fs3VSm0Nnl2fwA6IpZ0oW"
       },
       "artists": [
+        {
+          "name": "Hulvey",
+          "url": "https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO"
+        },
         {
           "name": "Forrest Frank",
           "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
         }
       ],
-      "duration_ms": 144568,
-      "name": "Thank You",
-      "url": "https://open.spotify.com/track/28utdkpekXSsk9LSVjxnoh"
+      "duration_ms": 214850,
+      "name": "Altar",
+      "url": "https://open.spotify.com/track/0GSEIffBQyILlI6FPzn6G0"
     },
     {
       "added_at": null,
@@ -451,22 +455,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "CRY",
-        "url": "https://open.spotify.com/album/2fs3VSm0Nnl2fwA6IpZ0oW"
+        "name": "Thank You",
+        "url": "https://open.spotify.com/album/4JxaMl4zCyktWBBMPW2vod"
       },
       "artists": [
-        {
-          "name": "Hulvey",
-          "url": "https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO"
-        },
         {
           "name": "Forrest Frank",
           "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
         }
       ],
-      "duration_ms": 214850,
-      "name": "Altar",
-      "url": "https://open.spotify.com/track/0GSEIffBQyILlI6FPzn6G0"
+      "duration_ms": 144568,
+      "name": "Thank You",
+      "url": "https://open.spotify.com/track/28utdkpekXSsk9LSVjxnoh"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Lan\u00e7amentos de rock que voc\u00ea precisa conhecer, AUMENTA O VOLUME! Foto: Sepultura",
+  "description": "Lan\u00e7amentos de rock que voc\u00ea precisa conhecer, AUMENTA O VOLUME! Foto: The Black Keys",
   "name": "Volume M\u00e1ximo",
   "tracks": [
     {
@@ -2223,6 +2223,24 @@
     },
     {
       "album": {
+        "name": "Victory Garden",
+        "url": "https://open.spotify.com/album/70ch2R18v3Zho0SlcN4CAN"
+      },
+      "artists": [
+        {
+          "name": "Young the Giant",
+          "url": "https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221026,
+      "name": "Evergreen",
+      "url": "https://open.spotify.com/track/3fLX6yRLD2IkWQUxDJEQ0S"
+    },
+    {
+      "album": {
         "name": "Everything We Need",
         "url": "https://open.spotify.com/album/45iFc2ouMdWTuxImSsjaJF"
       },
@@ -2510,7 +2528,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 269333,
       "name": "Fighting On - 2021 - Remaster",
       "url": "https://open.spotify.com/track/1oanSbsnFXySrSFgQznX1R"
@@ -4511,6 +4529,24 @@
     },
     {
       "album": {
+        "name": "Nothing At All",
+        "url": "https://open.spotify.com/album/6f2nllGbAUwfXCOLR64M1v"
+      },
+      "artists": [
+        {
+          "name": "Reece Young",
+          "url": "https://open.spotify.com/artist/1bdqTbBpPy0SGAmxYun3Hh"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157912,
+      "name": "Nothing At All",
+      "url": "https://open.spotify.com/track/7eqUhtZYZTV2bdM9zPxOkD"
+    },
+    {
+      "album": {
         "name": "The Kids In The Crowd - Music From The Documentary Soundtrack",
         "url": "https://open.spotify.com/album/5VRxr2rH1AMR0k57mF1wAO"
       },
@@ -5374,6 +5410,24 @@
       "duration_ms": 206274,
       "name": "Sex Magik",
       "url": "https://open.spotify.com/track/5QUfvTWB3lufXitDEbrcT7"
+    },
+    {
+      "album": {
+        "name": "Peaches!",
+        "url": "https://open.spotify.com/album/4wl0lStE236Kc7pJ7eTpgq"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223325,
+      "name": "She Does It Right",
+      "url": "https://open.spotify.com/track/1pO3dqvwGvCQzRQV67xfZd"
     },
     {
       "album": {
@@ -6940,7 +6994,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 182449,
       "name": "We Are The Rest",
       "url": "https://open.spotify.com/track/0VTGtiDMRwvzKngUwKoyc0"
@@ -7228,7 +7282,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 229940,
       "name": "Wouldn't You Rather",
       "url": "https://open.spotify.com/track/1bmip4OvKbC0t1VYbZqv8O"

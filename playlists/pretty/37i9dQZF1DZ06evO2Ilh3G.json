@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afU+gAAAAAA9ayclVDrh9gCSpPyRgwlt",
+  "snapshot_id": "afaQAAAAAABJ3ea/vB1KP/j9gJMy2XUU",
   "tracks": [
     {
       "added_at": null,
@@ -147,6 +147,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "SET IT OFF",
+        "url": "https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "duration_ms": 191466,
+      "name": "DON'T YOU LIE",
+      "url": "https://open.spotify.com/track/0MSTxF501TyzjuRTHZz46g"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "KIARI",
         "url": "https://open.spotify.com/album/2hHTG0xjC0wzHO8CJozddr"
       },
@@ -163,22 +179,6 @@
       "duration_ms": 178708,
       "name": "Bodies (feat. JID)",
       "url": "https://open.spotify.com/track/7jXHMDFD5IP6pOUtC1p3iz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SET IT OFF",
-        "url": "https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E"
-      },
-      "artists": [
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        }
-      ],
-      "duration_ms": 191466,
-      "name": "DON'T YOU LIE",
-      "url": "https://open.spotify.com/track/0MSTxF501TyzjuRTHZz46g"
     },
     {
       "added_at": null,
@@ -223,26 +223,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "KIARI",
-        "url": "https://open.spotify.com/album/2hHTG0xjC0wzHO8CJozddr"
-      },
-      "artists": [
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        },
-        {
-          "name": "Key Glock",
-          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
-        }
-      ],
-      "duration_ms": 194571,
-      "name": "Run It Up (feat. Key Glock)",
-      "url": "https://open.spotify.com/track/73EKQrgYNVwOaKdwh5a1PV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SET IT OFF",
         "url": "https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E"
       },
@@ -259,6 +239,26 @@
       "duration_ms": 173253,
       "name": "SAY MY GRACE (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/2Gk6fi0dqt91NKvlzGsmm7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KIARI",
+        "url": "https://open.spotify.com/album/2hHTG0xjC0wzHO8CJozddr"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        }
+      ],
+      "duration_ms": 194571,
+      "name": "Run It Up (feat. Key Glock)",
+      "url": "https://open.spotify.com/track/73EKQrgYNVwOaKdwh5a1PV"
     },
     {
       "added_at": null,
@@ -1027,30 +1027,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Without Warning",
-        "url": "https://open.spotify.com/album/0MV1yCXcNNQBfwApqAVkH0"
-      },
-      "artists": [
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        },
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        },
-        {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        }
-      ],
-      "duration_ms": 160320,
-      "name": "Disrespectful",
-      "url": "https://open.spotify.com/track/3oxCefEI6Tc6Z6t20J4IvH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quality Control: Control The Streets Volume 1",
         "url": "https://open.spotify.com/album/07Jvk8tGuaMhR4H72znlLJ"
       },
@@ -1071,6 +1047,30 @@
       "duration_ms": 207389,
       "name": "Hook Up",
       "url": "https://open.spotify.com/track/0gUGjvCXLxvLoBLXJVrUSl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Without Warning",
+        "url": "https://open.spotify.com/album/0MV1yCXcNNQBfwApqAVkH0"
+      },
+      "artists": [
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        }
+      ],
+      "duration_ms": 160320,
+      "name": "Disrespectful",
+      "url": "https://open.spotify.com/track/3oxCefEI6Tc6Z6t20J4IvH"
     },
     {
       "added_at": null,

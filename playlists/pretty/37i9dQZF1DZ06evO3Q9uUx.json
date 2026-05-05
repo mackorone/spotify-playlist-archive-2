@@ -1,12 +1,12 @@
 {
   "description": "This is BIA. The essential tracks, all in one playlist.",
-  "num_followers": 16079,
+  "num_followers": 16077,
   "original_name": "This Is BIA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afU+gAAAAACZuKB+i24xmczl5BIth2+v",
+  "snapshot_id": "afaQAAAAAABUdlSfWxlor6gYhu/EOart",
   "tracks": [
     {
       "added_at": null,
@@ -651,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "blame the chat",
-        "url": "https://open.spotify.com/album/1yWAdXtJTkmV4LmLBhSMbY"
+        "name": "moo",
+        "url": "https://open.spotify.com/album/5RHHriIsaO6PnS4DodUsat"
       },
       "artists": [
         {
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
         }
       ],
-      "duration_ms": 139680,
-      "name": "fine shyt (feat. BIA)",
-      "url": "https://open.spotify.com/track/6XpoHMRgTntAML54Ok1Y5D"
+      "duration_ms": 187826,
+      "name": "jaded (feat. BIA)",
+      "url": "https://open.spotify.com/track/02Qel05Z1siC6oZUWjeP3p"
     },
     {
       "added_at": null,
@@ -691,26 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "moo",
-        "url": "https://open.spotify.com/album/5RHHriIsaO6PnS4DodUsat"
-      },
-      "artists": [
-        {
-          "name": "DDG",
-          "url": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
-        },
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        }
-      ],
-      "duration_ms": 187826,
-      "name": "jaded (feat. BIA)",
-      "url": "https://open.spotify.com/track/02Qel05Z1siC6oZUWjeP3p"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LIGHTS OUT",
         "url": "https://open.spotify.com/album/7EvhlLz5NF0LGUn6s0ceZv"
       },
@@ -727,6 +707,26 @@
       "duration_ms": 198352,
       "name": "LIGHTS OUT",
       "url": "https://open.spotify.com/track/4WWTcYV2tlGm7KwfPpXgLb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "blame the chat",
+        "url": "https://open.spotify.com/album/1yWAdXtJTkmV4LmLBhSMbY"
+      },
+      "artists": [
+        {
+          "name": "DDG",
+          "url": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "duration_ms": 139680,
+      "name": "fine shyt (feat. BIA)",
+      "url": "https://open.spotify.com/track/6XpoHMRgTntAML54Ok1Y5D"
     },
     {
       "added_at": null,
@@ -827,6 +827,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Savage (feat. BIA)",
+        "url": "https://open.spotify.com/album/0B93ATZTlJWmJqLRKS31sS"
+      },
+      "artists": [
+        {
+          "name": "Bahari",
+          "url": "https://open.spotify.com/artist/0fs8oBR1rx7JIXZi75h7Uu"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "duration_ms": 164131,
+      "name": "Savage (feat. BIA)",
+      "url": "https://open.spotify.com/track/6gjitvaInHSbArmOHI6vro"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "GBAD (feat. MILLI & YOUHA) [Remix]",
         "url": "https://open.spotify.com/album/6juC0gq6OcrLCQGGzDg5LC"
       },
@@ -855,26 +875,6 @@
       "duration_ms": 231325,
       "name": "GBAD (feat. MILLI & YOUHA) [Remix]",
       "url": "https://open.spotify.com/track/4G2a4inKSsFc0pjyPP4dKZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Savage (feat. BIA)",
-        "url": "https://open.spotify.com/album/0B93ATZTlJWmJqLRKS31sS"
-      },
-      "artists": [
-        {
-          "name": "Bahari",
-          "url": "https://open.spotify.com/artist/0fs8oBR1rx7JIXZi75h7Uu"
-        },
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        }
-      ],
-      "duration_ms": 164131,
-      "name": "Savage (feat. BIA)",
-      "url": "https://open.spotify.com/track/6gjitvaInHSbArmOHI6vro"
     },
     {
       "added_at": null,

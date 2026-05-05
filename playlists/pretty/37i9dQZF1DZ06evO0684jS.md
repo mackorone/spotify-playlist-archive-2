@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0684jS.md) - [plain]
 
 > This is Nicki Minaj\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 888,843 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 888,836 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0684jS.md) - [plain]
 | 31 | [Tapout](https://open.spotify.com/track/39z2CyYexbcwgD0pEeUUeu) | [Rich Gang](https://open.spotify.com/artist/5pU9lKGn9IUnVvOCONrcIS), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Birdman](https://open.spotify.com/artist/35sCXuy5gN6Or69rZ9vqBs), [Mack Maine](https://open.spotify.com/artist/18AOdS1Qw4XXnQSiPJQr1B), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Rich Gang \(Deluxe Version\)](https://open.spotify.com/album/2uhiqri87eC7Xe0tg9p7fB) | 4:44 |
 | 32 | [Princess Diana \(with Nicki Minaj\)](https://open.spotify.com/track/0ZxhtATQ0a6EvQNZ0z6NKV) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Princess Diana \(with Nicki Minaj\)](https://open.spotify.com/album/2Q7WBQ794rA9ISPLfqdKjK) | 2:52 |
 | 33 | [Woman Like Me \(feat\. Nicki Minaj\)](https://open.spotify.com/track/222B3aljXx6fFwKmFjuBED) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [LM5 \(Deluxe\)](https://open.spotify.com/album/7Ho8gAx4haSxv1eFLQwvTj) | 3:49 |
-| 34 | [Ball For Me \(feat\. Nicki Minaj\)](https://open.spotify.com/track/6IaieqiCVvsNvEt6Y7yOFa) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [beerbongs & bentleys](https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR) | 3:26 |
-| 35 | [Fly](https://open.spotify.com/track/2E1RGgFtr1X4H6glXOtABo) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Pink Friday](https://open.spotify.com/album/3LJhoYn4nnHmvPRO3ppbsl) | 3:32 |
+| 34 | [Fly](https://open.spotify.com/track/2E1RGgFtr1X4H6glXOtABo) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Pink Friday](https://open.spotify.com/album/3LJhoYn4nnHmvPRO3ppbsl) | 3:32 |
+| 35 | [Ball For Me \(feat\. Nicki Minaj\)](https://open.spotify.com/track/6IaieqiCVvsNvEt6Y7yOFa) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [beerbongs & bentleys](https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR) | 3:26 |
 | 36 | [Anaconda](https://open.spotify.com/track/5eqiMMbaeUZ32Q7sS00H35) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [The Pinkprint \(International Deluxe Explicit\)](https://open.spotify.com/album/40XGTQ7FN6Y3dZXJhKBe96) | 4:20 |
 | 37 | [FTCU](https://open.spotify.com/track/1a73gcEg6h6Re6hHXoVltJ) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Pink Friday 2](https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2) | 2:52 |
 | 38 | [IDOL](https://open.spotify.com/track/54azQnjuDYDFfImXimGFsA) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Love Yourself 結 'Answer'](https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y) | 4:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0684jS.md) - [plain]
 | 49 | [Down In the DM \(feat\. Nicki Minaj\) \- Remix](https://open.spotify.com/track/5w1vhNA2OEWUQ371QzyMmM) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [The Art of Hustle \(Deluxe\)](https://open.spotify.com/album/0s9cSoniuN0HfXpwlCpGUF) | 4:18 |
 | 50 | [AGATS2 \(Insecure\) \[with Nicki Minaj\]](https://open.spotify.com/track/2iVpUQJaQjOWGja05zyIj9) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [The Party Never Ends 2.0](https://open.spotify.com/album/7kOpqRCEqTTzcGc4CwEFph) | 3:19 |
 
-Snapshot ID: `afU+gAAAAAD10ktoS30UYyTfEi+Kxokn`
+Snapshot ID: `afaQAAAAAABdoM5YzLPcM82ryQt9jR0B`

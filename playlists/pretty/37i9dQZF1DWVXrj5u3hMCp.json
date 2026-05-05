@@ -1,6 +1,6 @@
 {
   "description": "The ultimate golf companion playlist.",
-  "num_followers": 110345,
+  "num_followers": 110433,
   "original_name": "Let's Golf! \u26f3\ufe0f",
   "owner": {
     "name": "Spotify",
@@ -123,8 +123,8 @@
     {
       "added_at": "2026-04-06 20:58:42",
       "album": {
-        "name": "Highway to Hell",
-        "url": "https://open.spotify.com/album/10v912xgTZbjAtYfyKWJCS"
+        "name": "The Razors Edge",
+        "url": "https://open.spotify.com/album/4vu7F6h90Br1ZtYYaqfITy"
       },
       "artists": [
         {
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
         }
       ],
-      "duration_ms": 208110,
-      "name": "Highway to Hell",
-      "url": "https://open.spotify.com/track/2zYzyRzz6pRmhPzyfMEC8s"
+      "duration_ms": 292333,
+      "name": "Thunderstruck",
+      "url": "https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj"
     },
     {
       "added_at": "2026-04-06 20:58:42",
@@ -203,8 +203,8 @@
     {
       "added_at": "2026-04-06 20:58:42",
       "album": {
-        "name": "The Razors Edge",
-        "url": "https://open.spotify.com/album/4vu7F6h90Br1ZtYYaqfITy"
+        "name": "Highway to Hell",
+        "url": "https://open.spotify.com/album/10v912xgTZbjAtYfyKWJCS"
       },
       "artists": [
         {
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
         }
       ],
-      "duration_ms": 292333,
-      "name": "Thunderstruck",
-      "url": "https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj"
+      "duration_ms": 208110,
+      "name": "Highway to Hell",
+      "url": "https://open.spotify.com/track/2zYzyRzz6pRmhPzyfMEC8s"
     },
     {
       "added_at": "2026-04-06 20:58:42",
@@ -347,22 +347,6 @@
     {
       "added_at": "2026-04-06 20:58:42",
       "album": {
-        "name": "Boston",
-        "url": "https://open.spotify.com/album/2QLp07RO6anZHmtcKTEvSC"
-      },
-      "artists": [
-        {
-          "name": "Boston",
-          "url": "https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK"
-        }
-      ],
-      "duration_ms": 285133,
-      "name": "More Than a Feeling",
-      "url": "https://open.spotify.com/track/1QEEqeFIZktqIpPI4jSVSF"
-    },
-    {
-      "added_at": "2026-04-06 20:58:42",
-      "album": {
         "name": "Third Eye Blind",
         "url": "https://open.spotify.com/album/2gToC0XAblE9h3UZD6aAaQ"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 268360,
       "name": "Semi-Charmed Life",
       "url": "https://open.spotify.com/track/42et6fnHCw1HIPSrdPprMl"
+    },
+    {
+      "added_at": "2026-04-06 20:58:42",
+      "album": {
+        "name": "Boston",
+        "url": "https://open.spotify.com/album/2QLp07RO6anZHmtcKTEvSC"
+      },
+      "artists": [
+        {
+          "name": "Boston",
+          "url": "https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK"
+        }
+      ],
+      "duration_ms": 285133,
+      "name": "More Than a Feeling",
+      "url": "https://open.spotify.com/track/1QEEqeFIZktqIpPI4jSVSF"
     },
     {
       "added_at": "2026-04-06 20:58:42",
@@ -411,22 +411,6 @@
     {
       "added_at": "2026-04-06 20:58:42",
       "album": {
-        "name": "Wild Ones",
-        "url": "https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk"
-      },
-      "artists": [
-        {
-          "name": "Flo Rida",
-          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
-        }
-      ],
-      "duration_ms": 248133,
-      "name": "Good Feeling",
-      "url": "https://open.spotify.com/track/2LEF1A8DOZ9wRYikWgVlZ8"
-    },
-    {
-      "added_at": "2026-04-06 20:58:42",
-      "album": {
         "name": "Second Helping (Expanded Edition)",
         "url": "https://open.spotify.com/album/54V1ljNtyzAm053oJqi0SH"
       },
@@ -443,18 +427,34 @@
     {
       "added_at": "2026-04-06 20:58:42",
       "album": {
-        "name": "Eagles (2013 Remaster)",
-        "url": "https://open.spotify.com/album/51B7LbLWgYLKBVSpkan8Z7"
+        "name": "Wild Ones",
+        "url": "https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk"
       },
       "artists": [
         {
-          "name": "Eagles",
-          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+          "name": "Flo Rida",
+          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
         }
       ],
-      "duration_ms": 211577,
-      "name": "Take It Easy - 2013 Remaster",
-      "url": "https://open.spotify.com/track/4yugZvBYaoREkJKtbG08Qr"
+      "duration_ms": 248133,
+      "name": "Good Feeling",
+      "url": "https://open.spotify.com/track/2LEF1A8DOZ9wRYikWgVlZ8"
+    },
+    {
+      "added_at": "2026-04-06 20:58:42",
+      "album": {
+        "name": "True Believers",
+        "url": "https://open.spotify.com/album/6cowf7fdb5dgKoglTekOK8"
+      },
+      "artists": [
+        {
+          "name": "Darius Rucker",
+          "url": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
+        }
+      ],
+      "duration_ms": 298373,
+      "name": "Wagon Wheel",
+      "url": "https://open.spotify.com/track/3xdjjKMcMOFgo1eQrfbogM"
     },
     {
       "added_at": "2026-04-06 20:58:42",
@@ -491,6 +491,22 @@
     {
       "added_at": "2026-04-06 20:58:42",
       "album": {
+        "name": "Eagles (2013 Remaster)",
+        "url": "https://open.spotify.com/album/51B7LbLWgYLKBVSpkan8Z7"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "duration_ms": 211577,
+      "name": "Take It Easy - 2013 Remaster",
+      "url": "https://open.spotify.com/track/4yugZvBYaoREkJKtbG08Qr"
+    },
+    {
+      "added_at": "2026-04-06 20:58:42",
+      "album": {
         "name": "Oracular Spectacular",
         "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 229640,
       "name": "Electric Feel",
       "url": "https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt"
-    },
-    {
-      "added_at": "2026-04-06 20:58:42",
-      "album": {
-        "name": "True Believers",
-        "url": "https://open.spotify.com/album/6cowf7fdb5dgKoglTekOK8"
-      },
-      "artists": [
-        {
-          "name": "Darius Rucker",
-          "url": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
-        }
-      ],
-      "duration_ms": 298373,
-      "name": "Wagon Wheel",
-      "url": "https://open.spotify.com/track/3xdjjKMcMOFgo1eQrfbogM"
     },
     {
       "added_at": "2026-04-06 20:58:42",
@@ -603,18 +603,18 @@
     {
       "added_at": "2026-04-06 20:58:42",
       "album": {
-        "name": "Toulouse Street",
-        "url": "https://open.spotify.com/album/2x1Yi30lsWJUoBj1kmovnm"
+        "name": "Bigger Than Both Of Us",
+        "url": "https://open.spotify.com/album/5TNzBp7QYsXIHrI5xxVuic"
       },
       "artists": [
         {
-          "name": "The Doobie Brothers",
-          "url": "https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz"
+          "name": "Daryl Hall & John Oates",
+          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
         }
       ],
-      "duration_ms": 227266,
-      "name": "Listen to the Music",
-      "url": "https://open.spotify.com/track/7Ar4G7Ci11gpt6sfH9Cgz5"
+      "duration_ms": 142786,
+      "name": "Rich Girl",
+      "url": "https://open.spotify.com/track/0qRR9d89hIS0MHRkQ0ejxX"
     },
     {
       "added_at": "2026-04-06 20:58:42",
@@ -635,18 +635,18 @@
     {
       "added_at": "2026-04-06 20:58:42",
       "album": {
-        "name": "Bigger Than Both Of Us",
-        "url": "https://open.spotify.com/album/5TNzBp7QYsXIHrI5xxVuic"
+        "name": "Toulouse Street",
+        "url": "https://open.spotify.com/album/2x1Yi30lsWJUoBj1kmovnm"
       },
       "artists": [
         {
-          "name": "Daryl Hall & John Oates",
-          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+          "name": "The Doobie Brothers",
+          "url": "https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz"
         }
       ],
-      "duration_ms": 142786,
-      "name": "Rich Girl",
-      "url": "https://open.spotify.com/track/0qRR9d89hIS0MHRkQ0ejxX"
+      "duration_ms": 227266,
+      "name": "Listen to the Music",
+      "url": "https://open.spotify.com/track/7Ar4G7Ci11gpt6sfH9Cgz5"
     },
     {
       "added_at": "2026-04-06 20:58:42",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2026-04-06 20:58:42",
       "album": {
-        "name": "Dire Straits",
-        "url": "https://open.spotify.com/album/4dKdxly4ji1vfl7sEYuqBe"
-      },
-      "artists": [
-        {
-          "name": "Dire Straits",
-          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
-        }
-      ],
-      "duration_ms": 348760,
-      "name": "Sultans of Swing",
-      "url": "https://open.spotify.com/track/6cr6UDpkjEaMQ80OjWqEBQ"
-    },
-    {
-      "added_at": "2026-04-06 20:58:42",
-      "album": {
         "name": "Rock n Roll Jesus",
         "url": "https://open.spotify.com/album/2xChdOg0PvxzHzE1BooUpI"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 297586,
       "name": "All Summer Long",
       "url": "https://open.spotify.com/track/5rX6C5QVvvZB7XckETNych"
+    },
+    {
+      "added_at": "2026-04-06 20:58:42",
+      "album": {
+        "name": "Dire Straits",
+        "url": "https://open.spotify.com/album/4dKdxly4ji1vfl7sEYuqBe"
+      },
+      "artists": [
+        {
+          "name": "Dire Straits",
+          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
+        }
+      ],
+      "duration_ms": 348760,
+      "name": "Sultans of Swing",
+      "url": "https://open.spotify.com/track/6cr6UDpkjEaMQ80OjWqEBQ"
     },
     {
       "added_at": "2026-04-06 20:58:42",
@@ -1083,18 +1083,18 @@
     {
       "added_at": "2026-04-06 20:58:42",
       "album": {
-        "name": "Hurry Up, We're Dreaming",
-        "url": "https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR"
+        "name": "American Fool",
+        "url": "https://open.spotify.com/album/4gouGcdQn9OvjX42xnWrF0"
       },
       "artists": [
         {
-          "name": "M83",
-          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
+          "name": "John Mellencamp",
+          "url": "https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH"
         }
       ],
-      "duration_ms": 241440,
-      "name": "Midnight City",
-      "url": "https://open.spotify.com/track/1eyzqe2QqGZUmfcPZtrIyt"
+      "duration_ms": 254493,
+      "name": "Jack & Diane",
+      "url": "https://open.spotify.com/track/43btz2xjMKpcmjkuRsvxyg"
     },
     {
       "added_at": "2026-04-06 20:58:42",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2026-04-06 20:58:42",
       "album": {
-        "name": "American Fool",
-        "url": "https://open.spotify.com/album/4gouGcdQn9OvjX42xnWrF0"
-      },
-      "artists": [
-        {
-          "name": "John Mellencamp",
-          "url": "https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH"
-        }
-      ],
-      "duration_ms": 254493,
-      "name": "Jack & Diane",
-      "url": "https://open.spotify.com/track/43btz2xjMKpcmjkuRsvxyg"
-    },
-    {
-      "added_at": "2026-04-06 20:58:42",
-      "album": {
         "name": "Chief",
         "url": "https://open.spotify.com/album/5dtw6CoMhbrSj01YUvdQOF"
       },
@@ -1147,6 +1131,22 @@
     {
       "added_at": "2026-04-06 20:58:42",
       "album": {
+        "name": "Hurry Up, We're Dreaming",
+        "url": "https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR"
+      },
+      "artists": [
+        {
+          "name": "M83",
+          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
+        }
+      ],
+      "duration_ms": 241440,
+      "name": "Midnight City",
+      "url": "https://open.spotify.com/track/1eyzqe2QqGZUmfcPZtrIyt"
+    },
+    {
+      "added_at": "2026-04-06 20:58:42",
+      "album": {
         "name": "4 (Expanded)",
         "url": "https://open.spotify.com/album/2Pw51hAGvWpTA3AYl2WVuu"
       },
@@ -1159,6 +1159,22 @@
       "duration_ms": 259799,
       "name": "Juke Box Hero",
       "url": "https://open.spotify.com/track/00qOE7OjRl0BpYiCiweZB2"
+    },
+    {
+      "added_at": "2026-04-06 20:58:42",
+      "album": {
+        "name": "American Fool",
+        "url": "https://open.spotify.com/album/4gouGcdQn9OvjX42xnWrF0"
+      },
+      "artists": [
+        {
+          "name": "John Mellencamp",
+          "url": "https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH"
+        }
+      ],
+      "duration_ms": 218960,
+      "name": "Hurts So Good",
+      "url": "https://open.spotify.com/track/67eX1ovaHyVPUinMHeUtIM"
     },
     {
       "added_at": "2026-04-06 20:58:42",
@@ -1195,22 +1211,6 @@
       "duration_ms": 323253,
       "name": "Doses & Mimosas",
       "url": "https://open.spotify.com/track/44CZRkOxv7UItaAUmh8PgN"
-    },
-    {
-      "added_at": "2026-04-06 20:58:42",
-      "album": {
-        "name": "American Fool",
-        "url": "https://open.spotify.com/album/4gouGcdQn9OvjX42xnWrF0"
-      },
-      "artists": [
-        {
-          "name": "John Mellencamp",
-          "url": "https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH"
-        }
-      ],
-      "duration_ms": 218960,
-      "name": "Hurts So Good",
-      "url": "https://open.spotify.com/track/67eX1ovaHyVPUinMHeUtIM"
     },
     {
       "added_at": "2026-04-06 20:58:42",
@@ -1279,18 +1279,18 @@
     {
       "added_at": "2026-04-06 20:58:42",
       "album": {
-        "name": "Black Holes and Revelations",
-        "url": "https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs"
+        "name": "Freeze Frame",
+        "url": "https://open.spotify.com/album/48joW5905AMbTFLvy8ZWch"
       },
       "artists": [
         {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+          "name": "The J. Geils Band",
+          "url": "https://open.spotify.com/artist/69Mj3u4FTUrpyeGNSIaU6F"
         }
       ],
-      "duration_ms": 366213,
-      "name": "Knights of Cydonia",
-      "url": "https://open.spotify.com/track/7ouMYWpwJ422jRcDASZB7P"
+      "duration_ms": 216533,
+      "name": "Centerfold",
+      "url": "https://open.spotify.com/track/1ynmMEK1fkyiZ6Z6F3ThEt"
     },
     {
       "added_at": "2026-04-06 20:58:42",
@@ -1311,34 +1311,18 @@
     {
       "added_at": "2026-04-06 20:58:42",
       "album": {
-        "name": "Freeze Frame",
-        "url": "https://open.spotify.com/album/48joW5905AMbTFLvy8ZWch"
+        "name": "Black Holes and Revelations",
+        "url": "https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs"
       },
       "artists": [
         {
-          "name": "The J. Geils Band",
-          "url": "https://open.spotify.com/artist/69Mj3u4FTUrpyeGNSIaU6F"
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
         }
       ],
-      "duration_ms": 216533,
-      "name": "Centerfold",
-      "url": "https://open.spotify.com/track/1ynmMEK1fkyiZ6Z6F3ThEt"
-    },
-    {
-      "added_at": "2026-04-06 20:58:42",
-      "album": {
-        "name": "Jailbreak (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6Cf545T4jkaiyvMnTRPOB2"
-      },
-      "artists": [
-        {
-          "name": "Thin Lizzy",
-          "url": "https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ"
-        }
-      ],
-      "duration_ms": 266720,
-      "name": "The Boys Are Back In Town",
-      "url": "https://open.spotify.com/track/43DeSV93pJPT4lCZaWZ6b1"
+      "duration_ms": 366213,
+      "name": "Knights of Cydonia",
+      "url": "https://open.spotify.com/track/7ouMYWpwJ422jRcDASZB7P"
     },
     {
       "added_at": "2026-04-06 20:58:42",
@@ -1359,6 +1343,22 @@
     {
       "added_at": "2026-04-06 20:58:42",
       "album": {
+        "name": "Jailbreak (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6Cf545T4jkaiyvMnTRPOB2"
+      },
+      "artists": [
+        {
+          "name": "Thin Lizzy",
+          "url": "https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ"
+        }
+      ],
+      "duration_ms": 266720,
+      "name": "The Boys Are Back In Town",
+      "url": "https://open.spotify.com/track/43DeSV93pJPT4lCZaWZ6b1"
+    },
+    {
+      "added_at": "2026-04-06 20:58:42",
+      "album": {
         "name": "Dookie",
         "url": "https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6"
       },
@@ -1371,22 +1371,6 @@
       "duration_ms": 224133,
       "name": "Welcome to Paradise",
       "url": "https://open.spotify.com/track/5kr3j5Clb9rjEposoMyLVt"
-    },
-    {
-      "added_at": "2026-04-06 20:58:42",
-      "album": {
-        "name": "Come Around Sundown (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5xFZ4iElFbUFtOGX4lvdTM"
-      },
-      "artists": [
-        {
-          "name": "Kings of Leon",
-          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
-        }
-      ],
-      "duration_ms": 241226,
-      "name": "Back Down South",
-      "url": "https://open.spotify.com/track/6HfFLqjxyFJYx1V0olSKof"
     },
     {
       "added_at": "2026-04-06 20:58:42",
@@ -1407,6 +1391,22 @@
     {
       "added_at": "2026-04-06 20:58:42",
       "album": {
+        "name": "Come Around Sundown (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5xFZ4iElFbUFtOGX4lvdTM"
+      },
+      "artists": [
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        }
+      ],
+      "duration_ms": 241226,
+      "name": "Back Down South",
+      "url": "https://open.spotify.com/track/6HfFLqjxyFJYx1V0olSKof"
+    },
+    {
+      "added_at": "2026-04-06 20:58:42",
+      "album": {
         "name": "Love",
         "url": "https://open.spotify.com/album/2hallpchkYldMa5lGGf1Ko"
       },
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2026-04-06 20:58:42",
       "album": {
-        "name": "Floored",
-        "url": "https://open.spotify.com/album/3jMUfZpBUTZOl91khbj4ic"
-      },
-      "artists": [
-        {
-          "name": "Sugar Ray",
-          "url": "https://open.spotify.com/artist/4uN3DsfENc7dp0OLO0FEIb"
-        }
-      ],
-      "duration_ms": 244640,
-      "name": "Fly",
-      "url": "https://open.spotify.com/track/3uPfVXcjnpOjyzI3jb3js4"
-    },
-    {
-      "added_at": "2026-04-06 20:58:42",
-      "album": {
         "name": "Jazz (Deluxe Remastered Version)",
         "url": "https://open.spotify.com/album/21HMAUrbbYSj9NiPPlGumy"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 255600,
       "name": "Fat Bottomed Girls - Remastered 2011",
       "url": "https://open.spotify.com/track/4igIYHF3B5VBxEafHauVo3"
+    },
+    {
+      "added_at": "2026-04-06 20:58:42",
+      "album": {
+        "name": "Floored",
+        "url": "https://open.spotify.com/album/3jMUfZpBUTZOl91khbj4ic"
+      },
+      "artists": [
+        {
+          "name": "Sugar Ray",
+          "url": "https://open.spotify.com/artist/4uN3DsfENc7dp0OLO0FEIb"
+        }
+      ],
+      "duration_ms": 244640,
+      "name": "Fly",
+      "url": "https://open.spotify.com/track/3uPfVXcjnpOjyzI3jb3js4"
     },
     {
       "added_at": "2026-04-06 20:58:42",

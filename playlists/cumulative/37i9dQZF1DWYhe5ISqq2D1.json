@@ -2098,7 +2098,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 206950,
       "name": "Coffee Break feat. \u95a2\u53e3\u30b7\u30f3\u30b4",
       "url": "https://open.spotify.com/track/1LJ5imdA2VunyCA3CfpY5u"
@@ -14304,7 +14304,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 186783,
       "name": "\u30a2\u30cb\u30e0\u30b9\u30d8\u30a4\u30d6\u30f3",
       "url": "https://open.spotify.com/track/7cKoafWOIHW3R3CG7eXWm7"
@@ -14726,7 +14726,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-29",
+      "date_removed": null,
       "duration_ms": 157402,
       "name": "\u30aa\u30ce\u30de\u30c8\u30da",
       "url": "https://open.spotify.com/track/0QupGE0x3c7bL9W7RflnDl"
@@ -17500,6 +17500,24 @@
       "duration_ms": 207147,
       "name": "\u30e9\u30d6\u3068\u30d4\u30fc\u30b9",
       "url": "https://open.spotify.com/track/7McrUOr41CllamAuxWUsbt"
+    },
+    {
+      "album": {
+        "name": "\u30e9\u30d6\u30d5\u30a9\u30fc\u30ab\u30b9",
+        "url": "https://open.spotify.com/album/6CD6vT3Ohu1iIL8VpvjrsQ"
+      },
+      "artists": [
+        {
+          "name": "\u5317\u8c37 \u7409\u559c",
+          "url": "https://open.spotify.com/artist/6b2avTcQHdmOBEQVaxQE5P"
+        }
+      ],
+      "date_added": "2026-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258105,
+      "name": "\u30e9\u30d6\u30d5\u30a9\u30fc\u30ab\u30b9",
+      "url": "https://open.spotify.com/track/3TGMxxSFEJ4wy420ZasUhN"
     },
     {
       "album": {
@@ -22926,7 +22944,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-08",
+      "date_removed": null,
       "duration_ms": 234268,
       "name": "\u795d\u796d",
       "url": "https://open.spotify.com/track/13QgiI6bv4wjAtv22WuTyx"
@@ -24718,7 +24736,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 333033,
       "name": "\u98a8\u3068\u79c1\u306e\u7269\u8a9e",
       "url": "https://open.spotify.com/track/7LNmFBcsv8lXBU3lGNmD1q"

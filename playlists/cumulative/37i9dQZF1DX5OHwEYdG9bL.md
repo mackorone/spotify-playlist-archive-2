@@ -4,7 +4,7 @@
 
 > 뮤직비디오 기능이 지원되는 노래들을 플레이리스트로 즐겨보세요! \(Cover: CORTIS\) \(Enjoy a playlist of songs that support music video features!\)
 
-215 songs - 11 hr 53 min
+217 songs - 11 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [ICONIC](https://open.spotify.com/track/0L8R3vaftF6BzpHZyUMWR0) | [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [ICONIC](https://open.spotify.com/album/2YR4bqtSIcevAAIL6ugpeT) | 2:45 | 2025-08-13 |  |
 | [iLy](https://open.spotify.com/track/4wQMGzwKdgnpik2AJ81vZ8) | [SAY MY NAME](https://open.spotify.com/artist/1YPfjEiECyLURKu09GfilS) | [iLy](https://open.spotify.com/album/0DA2VA8d6JXdusekR5RuvP) | 4:07 | 2025-08-13 |  |
 | [In Your Fantasy](https://open.spotify.com/track/7q7iVKbWMR94PDkISAhPk1) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [In Your Fantasy](https://open.spotify.com/album/0YFyx3qXjTfpRY7kSDfsw1) | 3:41 | 2025-07-15 |  |
+| [It's Me](https://open.spotify.com/track/3cD5mr6KeFMlmgzAWdVZR7) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [It's Me](https://open.spotify.com/album/5RA8rcgYD1RCgdZgzgP8nE) | 2:26 | 2026-05-04 |  |
 | [JUMP](https://open.spotify.com/track/3XaN4U1mgxoT77CGX0KMHy) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [JUMP](https://open.spotify.com/album/0KXjWDuZPu0ZmhSCPeWuGS) | 3:13 | 2025-07-15 |  |
 | [Killin' It Girl](https://open.spotify.com/track/39nUpuomDRXzA9e3YmfbT7) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Killin' It Girl](https://open.spotify.com/album/3J9QimaVevxQ03LRdc87u4) | 2:43 | 2025-07-15 |  |
 | [Killin' It Girl \(feat\. GloRilla\)](https://open.spotify.com/track/50NbGuFRMwWg9QGhqgDxXO) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Killin' It Girl \(feat\. GloRilla\)](https://open.spotify.com/album/6i2IO2wISsGuD46e5SbLBw) | 2:39 | 2025-07-15 |  |
@@ -195,6 +196,7 @@
 | [THUNDER](https://open.spotify.com/track/09cHsbaNC0cbuKgMzewblU) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [THUNDER](https://open.spotify.com/album/4INtQ8JM15ujyeZU56L4Yd) | 3:05 | 2025-07-15 |  |
 | [THUNDER](https://open.spotify.com/track/4S9OkX4V06u1dnr9aT5Cea) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [THUNDER](https://open.spotify.com/album/1RXgOXRdYXozyHD2RTCCKu) | 3:05 | 2025-07-15 |  |
 | [Tick\-Tack](https://open.spotify.com/track/5oedjtQyoPTEJhUnHTguBz) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Tick\-Tack](https://open.spotify.com/album/6Jk6wX6HHfenDr1OlEaJAO) | 2:56 | 2025-07-15 | 2025-08-20 |
+| [TNT](https://open.spotify.com/track/6Lk7XYiqOGSuhqRknpABRd) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [TNT](https://open.spotify.com/album/69TADlEQFDfRHjrvqypxdC) | 3:00 | 2026-05-04 |  |
 | [TOO BAD \(feat\. Anderson .Paak\)](https://open.spotify.com/track/0vG5TNf1YGMTtqgaVw04Oc) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [TOO BAD](https://open.spotify.com/album/7rZRKrdT6HJ4rvSxeRLF2w) | 2:39 | 2025-07-15 | 2025-08-20 |
 | [TOUGH LOVE](https://open.spotify.com/track/7r8rcxbKcAE5EAb4lvrMPS) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo) | [TOUGH LOVE](https://open.spotify.com/album/4rDmV4gUqWCfJBnA88Rb8o) | 3:37 | 2026-03-20 |  |
 | [TOXIC](https://open.spotify.com/track/3eXhM2BpZx3vL9yFIl69El) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [TOXIC](https://open.spotify.com/album/7gGo6eHRpn6hwkU2NIB6KQ) | 3:14 | 2025-07-15 | 2025-08-20 |

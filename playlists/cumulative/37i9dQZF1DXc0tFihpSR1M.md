@@ -4,7 +4,7 @@
 
 > Det beste av ny pop akkurat nå! 🍭<br/>Cover: Bella Kay
 
-536 songs - 1 day 3 hr 57 min
+537 songs - 1 day 4 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,7 +203,7 @@
 | [Hjertepine](https://open.spotify.com/track/3poNxDggmhEVufqFhLywsl) | [3TOS](https://open.spotify.com/artist/4kMHdk4Ci3GoVB1jGZTL4C) | [Hjertepine](https://open.spotify.com/album/3a13we0Tk7xMyxtEJHFzBM) | 2:38 | 2025-10-02 | 2025-10-17 |
 | [Hold ut](https://open.spotify.com/track/6b1I45GG5aaC5Wa25dRr5A) | [Bendik](https://open.spotify.com/artist/4krYRNHjKcETSEY2Ghf9Mo) | [Hold ut](https://open.spotify.com/album/27V8eibnHQyrU0FcJr33Bq) | 2:59 | 2025-05-08 | 2025-06-27 |
 | [Holidays](https://open.spotify.com/track/4U6Mq3JeRNyrNdG70cPsyJ) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Holidays](https://open.spotify.com/album/2ThtBfqXl82TjNx76GYqK2) | 3:41 | 2024-11-01 | 2025-01-20 |
-| [Holy Water](https://open.spotify.com/track/5Xnkr4b6swk6BA5IinCIlU) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Holy Water](https://open.spotify.com/album/6DD756fhA5jj74FmDBncgU) | 2:29 | 2025-08-11 |  |
+| [Holy Water](https://open.spotify.com/track/5Xnkr4b6swk6BA5IinCIlU) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Holy Water](https://open.spotify.com/album/6DD756fhA5jj74FmDBncgU) | 2:29 | 2025-08-11 | 2026-05-05 |
 | [Home](https://open.spotify.com/track/68mOSKT4uBkKddEAhlMO61) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/140NIeh2n6kSX9BHAsvlwy) | 2:37 | 2024-06-27 | 2024-11-02 |
 | [Home](https://open.spotify.com/track/6TwFYNkcGBe2zSy1OmBj83) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [Home](https://open.spotify.com/album/2hHUs1o7cuS3fwiRyq28VM) | 2:16 | 2025-03-27 | 2025-05-14 |
 | [Homewrecker](https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [Homewrecker](https://open.spotify.com/album/5KzDGTJ3sGlfuwSryRB4p4) | 3:29 | 2026-02-05 |  |
@@ -483,6 +483,7 @@
 | [Time After Time](https://open.spotify.com/track/2PT1VwYndxOPXE1qhiib0x) | [EJAE](https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY) | [Time After Time](https://open.spotify.com/album/24KhrK7jpSwwNDWvKr04NO) | 2:48 | 2026-02-05 | 2026-03-27 |
 | [TIME TO GO](https://open.spotify.com/track/32He7V1I86jo3oWGzlxwov) | [Martine Farstad](https://open.spotify.com/artist/1IfVdzvb1iqVh4ZKceC3PC) | [TIME TO GO](https://open.spotify.com/album/520ZEhZtTivehjdQswHoyF) | 2:36 | 2024-11-08 | 2025-01-10 |
 | [Times Like These](https://open.spotify.com/track/01fzY6YKwKQ3LxCpIP6buB) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Addison](https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4) | 3:52 | 2025-06-06 | 2025-07-18 |
+| [Tiny Raisin](https://open.spotify.com/track/1mSO89SOD17R1dFyrxdSBT) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Tiny Raisin](https://open.spotify.com/album/3dBccCBVyx1YO1ZGXPMIAs) | 2:58 | 2026-04-30 |  |
 | [Tiptoes](https://open.spotify.com/track/4xEB0FMkEGNf9wFOqEqO3C) | [RABO](https://open.spotify.com/artist/6bf8OgxXTVqU1OZIJmnBpf) | [Tiptoes](https://open.spotify.com/album/35ztU2856725LlF8yN9iuK) | 2:35 | 2025-05-23 | 2025-06-27 |
 | [To Be Free](https://open.spotify.com/track/47mNWUCgJoXqVWb3UZytVa) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [To Be Free](https://open.spotify.com/album/4CbMJCzMlzyEByCi84kllb) | 4:15 | 2025-07-24 | 2026-02-08 |
 | [To Be Loved](https://open.spotify.com/track/3VpCLroRCtkDWIkPnMB3mj) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Beautifully Ordinary](https://open.spotify.com/album/2TLyLOzYh6qo5N0blioQn8) | 5:04 | 2024-08-01 | 2024-08-09 |

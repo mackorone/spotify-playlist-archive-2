@@ -4,7 +4,7 @@
 
 > Try a little tenderness\. Cover: 54 Ultra
 
-383 songs - 23 hr 44 min
+384 songs - 23 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [Distance](https://open.spotify.com/track/1IlBPaXuM7Fl6tiH9CPQlQ) | [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) | [The Switch](https://open.spotify.com/album/04VtAp2SJPVsutli1F3KjY) | 3:51 | 2022-06-02 | 2025-07-11 |
 | [Distance](https://open.spotify.com/track/08W9Md8HXeJrx3omSQE2NF) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Distance](https://open.spotify.com/album/5CMAmUz6cXCAyOutxsyYXC) | 4:15 | 2022-06-02 | 2025-07-11 |
 | [Do Ya Feel It?](https://open.spotify.com/track/6cyHaLHMOtj8mOqHTYwe1U) | [RISSA](https://open.spotify.com/artist/7dpSIP6tbo4EEovVDCpfCJ) | [Do Ya Feel It?](https://open.spotify.com/album/1kfbn0cCvYwcinSpJCsT3R) | 3:10 | 2022-06-02 | 2022-08-26 |
-| [Doctrine of Love](https://open.spotify.com/track/0CJHyugq95CyGnDcau66cU) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Doctrine of Love](https://open.spotify.com/album/0k0sjLVPQXuItNsNNnht9l) | 3:20 | 2026-03-05 |  |
+| [Doctrine of Love](https://open.spotify.com/track/0CJHyugq95CyGnDcau66cU) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Doctrine of Love](https://open.spotify.com/album/0k0sjLVPQXuItNsNNnht9l) | 3:20 | 2026-03-05 | 2026-05-05 |
 | [Dollar $hort](https://open.spotify.com/track/6UYLv08EVHZsmMP4SrgZVw) | [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg), [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM) | [Dollar $hort](https://open.spotify.com/album/5AlNt9tbo2tP4KcHP1xIcG) | 3:15 | 2023-10-19 | 2025-07-11 |
 | [Driftin'](https://open.spotify.com/track/4k1OINO1e4CRy2S4fW3dyd) | [Joey Quiñones](https://open.spotify.com/artist/0I2oicRXKxaqqjpHKlyTpP) | [Driftin'](https://open.spotify.com/album/4O6zngj94elKhdvCFDqqfX) | 4:01 | 2026-03-05 | 2026-04-10 |
 | [Drinking from the Cup of Bob Knob](https://open.spotify.com/track/0Ed3Md9WesYA0qTvcyo50A) | [Surprise Chef](https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj) | [All News Is Good News](https://open.spotify.com/album/2keTegvdCIABoSTHXBArbI) | 3:59 | 2025-07-11 | 2025-10-24 |
@@ -134,6 +134,7 @@
 | [Grow](https://open.spotify.com/track/2YyVFxsdtALHVaEJPC8mbA) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Untidy Soul](https://open.spotify.com/album/7u5uWlp5UV9mdr7Rokotod) | 3:00 | 2022-10-13 | 2024-04-19 |
 | [Grow](https://open.spotify.com/track/3jPd7hIM0feCje8ZbVu6en) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Grow](https://open.spotify.com/album/3wzVULwHGvLkwiDdTMGQMZ) | 3:00 | 2022-06-02 | 2022-10-13 |
 | [Guilty](https://open.spotify.com/track/3MLwKelG4PQ7rXkd8Qjz4g) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Queen Alone](https://open.spotify.com/album/6k2kl7wWK57baFDPkpN9It) | 3:34 | 2025-07-11 | 2025-08-01 |
+| [Hang It On The Shelf](https://open.spotify.com/track/05UfXOe42MNCZMYN2NAqEK) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Hang It On The Shelf](https://open.spotify.com/album/490RXPo7Zm3PATJMtUEtSM) | 2:25 | 2026-04-16 |  |
 | [Happily Drowning](https://open.spotify.com/track/1hCGFa8m9fpMyjKxw3DwJx) | [Moody](https://open.spotify.com/artist/1Vu6Ckzy4K3UIl8PH3Y2se) | [Happily Drowning](https://open.spotify.com/album/1W5NCoyBJKXJMDDVLTXDSg) | 3:39 | 2023-01-19 | 2023-04-21 |
 | [Hard To Get High](https://open.spotify.com/track/1nGSviVN5YHenuhZVFOGyx) | [Ash Minor](https://open.spotify.com/artist/0P1bjDnIRWm0VUdA0urCNG) | [Hard To Get High](https://open.spotify.com/album/7mrYWEvmuAkZussx8UxwkD) | 4:36 | 2023-06-29 | 2025-07-11 |
 | [Hard Way To Live](https://open.spotify.com/track/2jAsIjrkBfIs2hh2sqGBIs) | [Pratt & Moody](https://open.spotify.com/artist/1gz7rv5Nn1PgNg755QP2G6), [Cold Diamond & Mink](https://open.spotify.com/artist/47eOrmm0M2qY5atzSNNt2b) | [Hard Way To Live](https://open.spotify.com/album/1iiBEV5v0KMFyA0O2XsyZv) | 4:06 | 2026-04-03 | 2026-04-10 |

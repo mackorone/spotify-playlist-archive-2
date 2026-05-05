@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-29",
-  "description": "<a href=spotify:playlist:37i9dQZF1EIWDRVIM3oeCu>Halsey</a>, <a href=spotify:playlist:37i9dQZF1EIXIES5KjJpW0>Ellie Goulding</a>, <a href=spotify:playlist:37i9dQZF1EIZJKtiGDpNNN>Temper City</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIVNN1WQoxAb6>Lady Gaga</a>, <a href=spotify:playlist:37i9dQZF1EIWbSKJ2brasF>Bruno Mars</a>, <a href=spotify:playlist:37i9dQZF1EIZJKtiGDpNNN>Temper City</a> and more",
   "name": "Moody Mix",
   "tracks": [
     {
@@ -674,7 +674,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 242640,
       "name": "Aku Yang Tersakiti",
       "url": "https://open.spotify.com/track/5pzblRSSo6YWd2dQR3sp2m"
@@ -4214,7 +4214,7 @@
       ],
       "date_added": "2025-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-26",
+      "date_removed": null,
       "duration_ms": 251667,
       "name": "Die With A Smile",
       "url": "https://open.spotify.com/track/7so0lgd0zP2Sbgs2d7a1SZ"
@@ -4394,7 +4394,7 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 247640,
       "name": "Dueles",
       "url": "https://open.spotify.com/track/1iRvhKiXRElIH2Uf4gd95P"
@@ -6300,7 +6300,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 188066,
       "name": "Hate Me",
       "url": "https://open.spotify.com/track/15og0pCEcTFWEXOFKdcJlU"
@@ -6318,7 +6318,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 260253,
       "name": "Hate Myself",
       "url": "https://open.spotify.com/track/5PdEiev2BkKiZtZFcNKjfM"
@@ -8444,7 +8444,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 276019,
       "name": "Kisah Sempurna",
       "url": "https://open.spotify.com/track/6qolkjGnFjsui0h0bosp9p"
@@ -10273,6 +10273,24 @@
     },
     {
       "album": {
+        "name": "Meen Kan Sabab",
+        "url": "https://open.spotify.com/album/5GfHGQ6L6QN4PEL3pwtAPK"
+      },
+      "artists": [
+        {
+          "name": "Muslim - \u0645\u064f\u0633\u0644\u0650\u0645",
+          "url": "https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268500,
+      "name": "Meen Kan Sabab",
+      "url": "https://open.spotify.com/track/5v9jwJsiS768F1YgNtUg1W"
+    },
+    {
+      "album": {
         "name": "f\u00e1bula",
         "url": "https://open.spotify.com/album/1vva4fJyjXaJ2RDsGmIbCv"
       },
@@ -10410,7 +10428,7 @@
       ],
       "date_added": "2026-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-12",
+      "date_removed": null,
       "duration_ms": 220250,
       "name": "Merasa Indah",
       "url": "https://open.spotify.com/track/3Ysf0Y3iu23mrDsVh1mdu0"
@@ -10634,7 +10652,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-04",
+      "date_removed": null,
       "duration_ms": 105437,
       "name": "mirrors demo",
       "url": "https://open.spotify.com/track/5Jh7Gc5aF6leolD64pNRD5"
@@ -15116,7 +15134,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-22",
+      "date_removed": null,
       "duration_ms": 217866,
       "name": "Talking to the Moon",
       "url": "https://open.spotify.com/track/161DnLWsx1i3u1JT05lzqU"
@@ -17636,7 +17654,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 201660,
       "name": "Without Me",
       "url": "https://open.spotify.com/track/6FZDfxM3a3UCqtzo5pxSLZ"
@@ -18304,10 +18322,28 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 292097,
       "name": "\u0628\u062e\u0627\u0641 \u0645\u0646 \u0645\u0633\u0644\u0633\u0644 \u0633\u064a\u062f \u0627\u0644\u0646\u0627\u0633",
       "url": "https://open.spotify.com/track/0fHBJnmzWkOhfkbKGBTVlW"
+    },
+    {
+      "album": {
+        "name": "\u062e\u0644\u0635\u062a \u062e\u0644\u0627\u0635",
+        "url": "https://open.spotify.com/album/1Jzd1J3nYd6LcQugPYCKjX"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Batshan",
+          "url": "https://open.spotify.com/artist/3mw4hDoLzTBOieeN9XZBIz"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269583,
+      "name": "\u062e\u0644\u0635\u062a \u062e\u0644\u0627\u0635",
+      "url": "https://open.spotify.com/track/6yduec6KSrZ66jR4YEaOYU"
     },
     {
       "album": {
@@ -18344,6 +18380,24 @@
       "duration_ms": 218962,
       "name": "\u0639\u064a\u0648\u0646\u0647 \u0647\u062a\u062f\u0645\u0639",
       "url": "https://open.spotify.com/track/7mIlBkspGjJk5c5hrR8Q4V"
+    },
+    {
+      "album": {
+        "name": "\u0643\u0627\u0646 \u0644\u064a\u0627 \u062d\u0628\u0627\u064a\u0628",
+        "url": "https://open.spotify.com/album/2rUngNOWjttCruLwgnEHUp"
+      },
+      "artists": [
+        {
+          "name": "Houda Bondok",
+          "url": "https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258000,
+      "name": "\u0643\u0627\u0646 \u0644\u064a\u0627 \u062d\u0628\u0627\u064a\u0628",
+      "url": "https://open.spotify.com/track/6tQtyN6rNdsfjRNEC6bSNM"
     },
     {
       "album": {

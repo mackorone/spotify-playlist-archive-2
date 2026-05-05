@@ -4,7 +4,7 @@
 
 > Listen to all her biggest hits, in one place.
 
-146 songs - 9 hr 5 min
+148 songs - 9 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,9 +56,10 @@
 | [G.U.Y.](https://open.spotify.com/track/41uJTt3lw4aKDgTH2gZ31s) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Summer Chill Hits](https://open.spotify.com/album/0MDj3Bze6Dnw1zENHdMEcX) | 3:52 | 2022-05-09 | 2022-11-13 |
 | [G.U.Y.](https://open.spotify.com/track/4rYLpaNFzt6pkQnrCvVHUw) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [ARTPOP](https://open.spotify.com/album/2eRJUtI7nXrQ5uYQ7tzTo9) | 3:52 | 2022-05-09 |  |
 | [Garden Of Eden](https://open.spotify.com/track/4mUR5Tv0CvJtpmnUtzeIgd) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 3:59 | 2025-03-07 |  |
+| [Glamorous Life](https://open.spotify.com/track/20BMd1ZXqpdL6ssLndH5Su) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Devil Wears Prada 2 \(Music From The Motion Picture\)](https://open.spotify.com/album/5FKnRUB5lt7z5ac1lmu3BE) | 4:11 | 2026-05-04 |  |
 | [Government Hooker](https://open.spotify.com/track/4KZAsdL0PeGvmPbSr0hyG4) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Born This Way \(Special Edition\)](https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O) | 4:14 | 2024-04-06 |  |
 | [Hair](https://open.spotify.com/track/2uk0YH2ahN0UE5jaCMa5jn) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Born This Way \(Special Edition\)](https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O) | 5:07 | 2022-05-09 | 2024-04-19 |
-| [Hair](https://open.spotify.com/track/4u8q2Gddnu8jqCFzxm5IZs) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Born This Way \(International Special Edition Version\)](https://open.spotify.com/album/6LY3AerY6KNGOPsNPL63Kk) | 5:07 | 2020-10-16\* |  |
+| [Hair](https://open.spotify.com/track/4u8q2Gddnu8jqCFzxm5IZs) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Born This Way \(International Special Edition Version\)](https://open.spotify.com/album/6LY3AerY6KNGOPsNPL63Kk) | 5:07 | 2020-10-16\* | 2026-05-05 |
 | [Hair](https://open.spotify.com/track/27pMfH0ba5cWg2tEl3zegS) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Uplifting Pop](https://open.spotify.com/album/3p5jlBmgiaEtU6UtOcD9I5) | 5:08 | 2022-05-09 | 2022-11-13 |
 | [Hair Body Face](https://open.spotify.com/track/4gdfWGyzB9j4ZVc2JWdpv2) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [A Star Is Born Soundtrack \(Without Dialogue\)](https://open.spotify.com/album/3edjzMAVB9RYRd4UcZBchx) | 3:22 | 2024-04-06 | 2025-06-21 |
 | [Heal Me](https://open.spotify.com/track/5Ctq1DOZUWZqsQZXro2jf7) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [A Star Is Born Soundtrack](https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD) | 3:16 | 2020-10-16\* | 2024-04-07 |
@@ -112,6 +113,7 @@
 | [ScheiBe](https://open.spotify.com/track/1RFXENx9ILC6PECmNhEstC) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Born This Way \(Special Edition\)](https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O) | 3:45 | 2024-04-06 |  |
 | [Shadow Of A Man](https://open.spotify.com/track/6OC87jHRiovNPEUrgaqFSu) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 3:19 | 2025-03-07 |  |
 | [Shallow \- Radio Edit](https://open.spotify.com/track/6QfS2wq5sSC1xAJCQsTSlj) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bradley Cooper](https://open.spotify.com/artist/4VIvfOurcf0vuLRxLkGnIG) | [A Star Is Born Soundtrack \(Without Dialogue\)](https://open.spotify.com/album/3edjzMAVB9RYRd4UcZBchx) | 3:37 | 2020-10-16\* |  |
+| [Shape of a Woman](https://open.spotify.com/track/6aFsbhzye4yfT25ohmhOQY) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Devil Wears Prada 2 \(Music From The Motion Picture\)](https://open.spotify.com/album/5FKnRUB5lt7z5ac1lmu3BE) | 3:29 | 2026-05-04 |  |
 | [Sine From Above \(with Elton John\)](https://open.spotify.com/track/0zzsyWc45eUcSjw4FNHxeN) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Chromatica](https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP) | 4:04 | 2020-10-16\* | 2021-05-13 |
 | [So Happy I Could Die](https://open.spotify.com/track/1LwISx4hhmcKw4CL78CCnu) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Fame Monster \(UK Deluxe\)](https://open.spotify.com/album/1X9AFMWRGElyFpySNcyI4x) | 3:54 | 2020-10-16\* |  |
 | [So Happy I Could Die](https://open.spotify.com/track/4MfBFhIBXrmqrczjYqasLp) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Fame Monster \(Deluxe Edition\)](https://open.spotify.com/album/6DGZdMi124iOOih9GMlhN2) | 3:54 | 2022-05-09 | 2024-04-19 |
@@ -147,7 +149,7 @@
 | [Vanish Into You](https://open.spotify.com/track/5IoPnNiYAOvHHJpz13wzRL) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 4:04 | 2025-03-07 |  |
 | [Venus](https://open.spotify.com/track/3n3S5cH3IyaOswY2XSUGTS) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [ARTPOP](https://open.spotify.com/album/2eRJUtI7nXrQ5uYQ7tzTo9) | 3:53 | 2022-05-09 | 2024-04-19 |
 | [Venus](https://open.spotify.com/track/628mNrQ2Cs7dAeGz19JeQE) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Divas Pop](https://open.spotify.com/album/0LCGxljG8jn5oaJcRItyMj) | 3:53 | 2022-05-09 | 2022-11-13 |
-| [Venus](https://open.spotify.com/track/4m7UoCZhKkIWMjuEfrp1JE) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Venus](https://open.spotify.com/album/6r15S0qfBJoXSNMjGQouGW) | 3:54 | 2020-10-16\* |  |
+| [Venus](https://open.spotify.com/track/4m7UoCZhKkIWMjuEfrp1JE) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Venus](https://open.spotify.com/album/6r15S0qfBJoXSNMjGQouGW) | 3:54 | 2020-10-16\* | 2026-05-05 |
 | [Video Phone \(feat\. Lady Gaga\)](https://open.spotify.com/track/2nX9948PslVYrrHUf6w0eL) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [William Burke](https://open.spotify.com/artist/68iRXBQ7fDXt7LEPhj0sSs) | [I AM...SASHA FIERCE THE BONUS TRACKS](https://open.spotify.com/album/1wuC0jj7341uFOuCyqzwe8) | 5:04 | 2022-05-09 | 2024-04-07 |
 | [Video Phone \(feat\. Lady Gaga\)](https://open.spotify.com/track/7mzQFrKyyde7StPaXLss4K) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [William Burke](https://open.spotify.com/artist/68iRXBQ7fDXt7LEPhj0sSs) | [Video Phone](https://open.spotify.com/album/0ExAIUZSGb0tibEXwheEkc) | 5:04 | 2020-10-16\* | 2022-07-29 |
 | [You And I](https://open.spotify.com/track/1ADciGUxOaUbBFd0rpYx7d) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Born This Way \(International Special Edition Version\)](https://open.spotify.com/album/6LY3AerY6KNGOPsNPL63Kk) | 5:07 | 2020-10-16\* |  |

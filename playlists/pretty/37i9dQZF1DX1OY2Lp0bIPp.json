@@ -1,6 +1,6 @@
 {
   "description": "Giving motivation to your Monday. You got this!",
-  "num_followers": 637773,
+  "num_followers": 637792,
   "original_name": "Monday Motivation",
   "owner": {
     "name": "Spotify",
@@ -355,6 +355,22 @@
     {
       "added_at": "2024-03-20 18:24:49",
       "album": {
+        "name": "Jazz (2011 Remaster)",
+        "url": "https://open.spotify.com/album/2yuTRGIackbcReLUXOYBqU"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 209413,
+      "name": "Don't Stop Me Now - Remastered 2011",
+      "url": "https://open.spotify.com/track/5T8EDUDqKcs6OSOwEsfqG7"
+    },
+    {
+      "added_at": "2024-03-20 18:24:49",
+      "album": {
         "name": "Don't You Worry Child",
         "url": "https://open.spotify.com/album/3RKhRsifs4RWrqvWV1YpPY"
       },
@@ -375,18 +391,18 @@
     {
       "added_at": "2024-03-20 18:24:49",
       "album": {
-        "name": "Jazz (2011 Remaster)",
-        "url": "https://open.spotify.com/album/2yuTRGIackbcReLUXOYBqU"
+        "name": "Diana Ross Presents The Jackson 5",
+        "url": "https://open.spotify.com/album/51uoKRa8vT5SULrlF8s2t1"
       },
       "artists": [
         {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+          "name": "The Jackson 5",
+          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
         }
       ],
-      "duration_ms": 209413,
-      "name": "Don't Stop Me Now - Remastered 2011",
-      "url": "https://open.spotify.com/track/5T8EDUDqKcs6OSOwEsfqG7"
+      "duration_ms": 176333,
+      "name": "I Want You Back",
+      "url": "https://open.spotify.com/track/5LxvwujISqiB8vpRYv887S"
     },
     {
       "added_at": "2024-03-20 18:24:49",
@@ -427,22 +443,6 @@
     {
       "added_at": "2024-03-20 18:24:49",
       "album": {
-        "name": "My Beautiful Dark Twisted Fantasy",
-        "url": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 299613,
-      "name": "All Of The Lights",
-      "url": "https://open.spotify.com/track/22L7bfCiAkJo5xGSQgmiIO"
-    },
-    {
-      "added_at": "2024-03-20 18:24:49",
-      "album": {
         "name": "Out of the Blue",
         "url": "https://open.spotify.com/album/3usnShwygMXVZB4IV5dwnU"
       },
@@ -459,6 +459,22 @@
     {
       "added_at": "2024-03-20 18:24:49",
       "album": {
+        "name": "My Beautiful Dark Twisted Fantasy",
+        "url": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 299613,
+      "name": "All Of The Lights",
+      "url": "https://open.spotify.com/track/22L7bfCiAkJo5xGSQgmiIO"
+    },
+    {
+      "added_at": "2024-03-20 18:24:49",
+      "album": {
         "name": "Lungs (Deluxe Version)",
         "url": "https://open.spotify.com/album/1rLLyY5p6HXNl2lKzINWp5"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 252818,
       "name": "Dog Days Are Over",
       "url": "https://open.spotify.com/track/456WNXWhDwYOSf5SpTuqxd"
-    },
-    {
-      "added_at": "2024-03-20 18:24:49",
-      "album": {
-        "name": "Diana Ross Presents The Jackson 5",
-        "url": "https://open.spotify.com/album/51uoKRa8vT5SULrlF8s2t1"
-      },
-      "artists": [
-        {
-          "name": "The Jackson 5",
-          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
-        }
-      ],
-      "duration_ms": 176333,
-      "name": "I Want You Back",
-      "url": "https://open.spotify.com/track/5LxvwujISqiB8vpRYv887S"
     },
     {
       "added_at": "2024-03-20 18:24:49",
@@ -579,22 +579,6 @@
     {
       "added_at": "2024-03-20 18:24:49",
       "album": {
-        "name": "Recovery",
-        "url": "https://open.spotify.com/album/47BiFcV59TQi2s9SkBo2pb"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 248133,
-      "name": "Not Afraid",
-      "url": "https://open.spotify.com/track/7Ie9W94M7OjPoZVV216Xus"
-    },
-    {
-      "added_at": "2024-03-20 18:24:49",
-      "album": {
         "name": "Oh, What A Life",
         "url": "https://open.spotify.com/album/0V4laGZGshNCpurfIdUhHv"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 194240,
       "name": "Best Day Of My Life",
       "url": "https://open.spotify.com/track/5Hroj5K7vLpIG4FNCRIjbP"
+    },
+    {
+      "added_at": "2024-03-20 18:24:49",
+      "album": {
+        "name": "Recovery",
+        "url": "https://open.spotify.com/album/47BiFcV59TQi2s9SkBo2pb"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 248133,
+      "name": "Not Afraid",
+      "url": "https://open.spotify.com/track/7Ie9W94M7OjPoZVV216Xus"
     },
     {
       "added_at": "2024-03-20 18:24:49",
@@ -675,22 +675,6 @@
     {
       "added_at": "2024-03-20 18:24:49",
       "album": {
-        "name": "Curtain Call: The Hits (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5qENHeCSlwWpEzb25peRmQ"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 326466,
-      "name": "Lose Yourself",
-      "url": "https://open.spotify.com/track/5Z01UMMf7V1o0MzF86s6WJ"
-    },
-    {
-      "added_at": "2024-03-20 18:24:49",
-      "album": {
         "name": "Paper Trail",
         "url": "https://open.spotify.com/album/5PfepkNWgRR2DI02Y8AawC"
       },
@@ -711,18 +695,18 @@
     {
       "added_at": "2024-03-20 18:24:49",
       "album": {
-        "name": "Funhouse (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1LOJfNDxQhbpssKx7oM7at"
+        "name": "Curtain Call: The Hits (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5qENHeCSlwWpEzb25peRmQ"
       },
       "artists": [
         {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
         }
       ],
-      "duration_ms": 215160,
-      "name": "So What",
-      "url": "https://open.spotify.com/track/0JiY190vktuhSGN6aqJdrt"
+      "duration_ms": 326466,
+      "name": "Lose Yourself",
+      "url": "https://open.spotify.com/track/5Z01UMMf7V1o0MzF86s6WJ"
     },
     {
       "added_at": "2024-03-20 18:24:49",
@@ -739,6 +723,22 @@
       "duration_ms": 238733,
       "name": "Walking On Sunshine",
       "url": "https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0"
+    },
+    {
+      "added_at": "2024-03-20 18:24:49",
+      "album": {
+        "name": "Funhouse (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1LOJfNDxQhbpssKx7oM7at"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "duration_ms": 215160,
+      "name": "So What",
+      "url": "https://open.spotify.com/track/0JiY190vktuhSGN6aqJdrt"
     },
     {
       "added_at": "2024-03-20 18:24:49",
@@ -791,38 +791,6 @@
     {
       "added_at": "2024-03-20 18:24:49",
       "album": {
-        "name": "Raise Your Glass",
-        "url": "https://open.spotify.com/album/3uQMzfrf4kUNGsCtmTtjPh"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        }
-      ],
-      "duration_ms": 202960,
-      "name": "Raise Your Glass",
-      "url": "https://open.spotify.com/track/1gv4xPanImH17bKZ9rOveR"
-    },
-    {
-      "added_at": "2024-03-20 18:24:49",
-      "album": {
-        "name": "Melodrama",
-        "url": "https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF"
-      },
-      "artists": [
-        {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
-        }
-      ],
-      "duration_ms": 234652,
-      "name": "Green Light",
-      "url": "https://open.spotify.com/track/6ie2Bw3xLj2JcGowOlcMhb"
-    },
-    {
-      "added_at": "2024-03-20 18:24:49",
-      "album": {
         "name": "Who You Are (Platinum Edition)",
         "url": "https://open.spotify.com/album/0BZbTNqpXFg6lxNv78X7Lp"
       },
@@ -839,6 +807,22 @@
     {
       "added_at": "2024-03-20 18:24:49",
       "album": {
+        "name": "Raise Your Glass",
+        "url": "https://open.spotify.com/album/3uQMzfrf4kUNGsCtmTtjPh"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "duration_ms": 202960,
+      "name": "Raise Your Glass",
+      "url": "https://open.spotify.com/track/1gv4xPanImH17bKZ9rOveR"
+    },
+    {
+      "added_at": "2024-03-20 18:24:49",
+      "album": {
         "name": "All Killer, No Filler",
         "url": "https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 207093,
       "name": "In Too Deep",
       "url": "https://open.spotify.com/track/1HNE2PX70ztbEl6MLxrpNL"
+    },
+    {
+      "added_at": "2024-03-20 18:24:49",
+      "album": {
+        "name": "Melodrama",
+        "url": "https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "duration_ms": 234652,
+      "name": "Green Light",
+      "url": "https://open.spotify.com/track/6ie2Bw3xLj2JcGowOlcMhb"
     },
     {
       "added_at": "2024-03-20 18:24:49",
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-03-20 18:24:49",
       "album": {
-        "name": "Hurry up, We're Dreaming",
-        "url": "https://open.spotify.com/album/6EB14IXV5oyOiItGBv7mtG"
-      },
-      "artists": [
-        {
-          "name": "M83",
-          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
-        }
-      ],
-      "duration_ms": 247026,
-      "name": "Outro",
-      "url": "https://open.spotify.com/track/1s9i7W8zx7Nxx78MUIsvjV"
-    },
-    {
-      "added_at": "2024-03-20 18:24:49",
-      "album": {
         "name": "La Roux",
         "url": "https://open.spotify.com/album/3CcCqXsbyjCDDSA3omcGoy"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 205733,
       "name": "Bulletproof",
       "url": "https://open.spotify.com/track/3kMrazSvILsgcwtidZd1Qd"
+    },
+    {
+      "added_at": "2024-03-20 18:24:49",
+      "album": {
+        "name": "Hurry up, We're Dreaming",
+        "url": "https://open.spotify.com/album/6EB14IXV5oyOiItGBv7mtG"
+      },
+      "artists": [
+        {
+          "name": "M83",
+          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
+        }
+      ],
+      "duration_ms": 247026,
+      "name": "Outro",
+      "url": "https://open.spotify.com/track/1s9i7W8zx7Nxx78MUIsvjV"
     },
     {
       "added_at": "2024-03-20 18:24:49",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2024-03-20 18:24:49",
       "album": {
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/26du6obYLeY1vf6xIJ1l0D"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 231618,
+      "name": "Ye",
+      "url": "https://open.spotify.com/track/3FskQrDXcY24ur2fCvz35O"
+    },
+    {
+      "added_at": "2024-03-20 18:24:49",
+      "album": {
         "name": "No Jacket Required (2016 Remaster)",
         "url": "https://open.spotify.com/album/1rVhockt4RAiZFaK3M3zPB"
       },
@@ -1235,18 +1251,18 @@
     {
       "added_at": "2024-03-20 18:24:49",
       "album": {
-        "name": "Outside",
-        "url": "https://open.spotify.com/album/26du6obYLeY1vf6xIJ1l0D"
+        "name": "1989 (Taylor's Version)",
+        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
       },
       "artists": [
         {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 231618,
-      "name": "Ye",
-      "url": "https://open.spotify.com/track/3FskQrDXcY24ur2fCvz35O"
+      "duration_ms": 219209,
+      "name": "Shake It Off (Taylor's Version)",
+      "url": "https://open.spotify.com/track/3pv7Q5v2dpdefwdWIvE7yH"
     },
     {
       "added_at": "2024-03-20 18:24:49",
@@ -1287,18 +1303,26 @@
     {
       "added_at": "2024-03-20 18:24:49",
       "album": {
-        "name": "1989 (Taylor's Version)",
-        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
+        "name": "Runnin' (Lose It All)",
+        "url": "https://open.spotify.com/album/2YnYgyx7N8MkgQHCcRYfKP"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Naughty Boy",
+          "url": "https://open.spotify.com/artist/1bT7m67vi78r2oqvxrP3X5"
+        },
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        },
+        {
+          "name": "Arrow Benjamin",
+          "url": "https://open.spotify.com/artist/2RWMTZ0AXNLBbTT2Evtbdj"
         }
       ],
-      "duration_ms": 219209,
-      "name": "Shake It Off (Taylor's Version)",
-      "url": "https://open.spotify.com/track/3pv7Q5v2dpdefwdWIvE7yH"
+      "duration_ms": 213019,
+      "name": "Runnin' (Lose It All)",
+      "url": "https://open.spotify.com/track/5yZvaUVyuXfSVUaMumFi6l"
     },
     {
       "added_at": "2024-03-20 18:24:49",
@@ -1323,30 +1347,6 @@
       "duration_ms": 216706,
       "name": "Own It (feat. Ed Sheeran & Burna Boy)",
       "url": "https://open.spotify.com/track/4QPEwDdOMhY7rNS05mTyMR"
-    },
-    {
-      "added_at": "2024-03-20 18:24:49",
-      "album": {
-        "name": "Runnin' (Lose It All)",
-        "url": "https://open.spotify.com/album/2YnYgyx7N8MkgQHCcRYfKP"
-      },
-      "artists": [
-        {
-          "name": "Naughty Boy",
-          "url": "https://open.spotify.com/artist/1bT7m67vi78r2oqvxrP3X5"
-        },
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        },
-        {
-          "name": "Arrow Benjamin",
-          "url": "https://open.spotify.com/artist/2RWMTZ0AXNLBbTT2Evtbdj"
-        }
-      ],
-      "duration_ms": 213019,
-      "name": "Runnin' (Lose It All)",
-      "url": "https://open.spotify.com/track/5yZvaUVyuXfSVUaMumFi6l"
     },
     {
       "added_at": "2024-03-20 18:24:49",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2024-03-20 18:24:49",
       "album": {
-        "name": "Beautiful Lies (Deluxe)",
-        "url": "https://open.spotify.com/album/2uNFpEVey5RsxzTdoDmjiz"
-      },
-      "artists": [
-        {
-          "name": "Birdy",
-          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
-        }
-      ],
-      "duration_ms": 208395,
-      "name": "Keeping Your Head Up",
-      "url": "https://open.spotify.com/track/5vuwXvQTpavYCgcPFnCMS4"
-    },
-    {
-      "added_at": "2024-03-20 18:24:49",
-      "album": {
         "name": "Just Enough Education To Perform",
         "url": "https://open.spotify.com/album/51I2N3YcrmqOJfzywty3l4"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 205066,
       "name": "Have A Nice Day",
       "url": "https://open.spotify.com/track/6JWddKPdqvDc2WkPEi9grC"
+    },
+    {
+      "added_at": "2024-03-20 18:24:49",
+      "album": {
+        "name": "Beautiful Lies (Deluxe)",
+        "url": "https://open.spotify.com/album/2uNFpEVey5RsxzTdoDmjiz"
+      },
+      "artists": [
+        {
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+        }
+      ],
+      "duration_ms": 208395,
+      "name": "Keeping Your Head Up",
+      "url": "https://open.spotify.com/track/5vuwXvQTpavYCgcPFnCMS4"
     },
     {
       "added_at": "2024-03-20 18:24:49",

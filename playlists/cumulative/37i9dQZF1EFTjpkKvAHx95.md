@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0VfNiwAYFUG5TFaVRKtkNF">Nija</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-208 songs - 11 hr 8 min
+209 songs - 11 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Back It Up](https://open.spotify.com/track/40UkLDbc5LAw5kmBZGXReV) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Me vs\. Myself](https://open.spotify.com/album/2vM2H6lyPfitmNZlc1Vrxv) | 3:15 | 2023-12-30 |  |
 | [Back Outside](https://open.spotify.com/track/5f9kF5QsT7XOv5TLRza1zJ) | [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [Back Outside](https://open.spotify.com/album/1uhm8KeAsEylvJfNVq9mo8) | 3:06 | 2025-09-16 | 2026-01-26 |
 | [Back Outside](https://open.spotify.com/track/1Nm7BWm30PrTmfb6cuyhTb) | [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [What I Didn't Say](https://open.spotify.com/album/75oavvMyg8JKCFGIzKOTpk) | 3:09 | 2026-01-25 |  |
+| [Bad Angel \(with LISA\)](https://open.spotify.com/track/4QR40LqFAbMdabh4AoZJGZ) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Bad Angel \(with LISA\)](https://open.spotify.com/album/4RyojhEO0VsnNacY6C3te7) | 2:33 | 2026-05-04 |  |
 | [Bare Wit Me](https://open.spotify.com/track/0hi5V0ExKfjCz9zLxhVAcl) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a) | [The Album](https://open.spotify.com/album/0BwUN4oXLzs95nE8GO1vrI) | 2:08 | 2024-03-31 |  |
 | [Bare Wit Me](https://open.spotify.com/track/5QvU2zJrEVw1gAVL4D4iLj) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a) | [The Album](https://open.spotify.com/album/11QKDc8OK4rnD3uBs7wKmR) | 2:08 | 2023-12-30 | 2024-04-01 |
 | [Bare Wit Me](https://open.spotify.com/track/1vooOSbojid1cOODhA8xHA) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a) | [Bare Wit Me](https://open.spotify.com/album/4FhV0XutEtbklgSrDkcRkp) | 4:53 | 2023-12-31 | 2024-02-02 |

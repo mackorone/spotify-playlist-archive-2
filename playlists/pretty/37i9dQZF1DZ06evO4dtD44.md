@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4dtD44.md) - [plain]
 
 > This is João Gilberto\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,124 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,127 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4dtD44.md) - [plain]
 | 43 | [Você Vai Ver](https://open.spotify.com/track/4qUeWZKSawVPEQpgh1sZvT) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [João Voz E Violão](https://open.spotify.com/album/19cy0SZ66hIGL7Ko5UaURX) | 2:56 |
 | 44 | [Saudade Fêz Um Samba](https://open.spotify.com/track/269N6ZDAVJeDuiEDQfswpR) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Chega de saudade de João Gilberto](https://open.spotify.com/album/5ty7LtYCBMnOnW3IV1ikDu) | 1:47 |
 | 45 | [Izaura](https://open.spotify.com/track/4im3cvYs2A3dIjBDlXJU3C) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [João Gilberto](https://open.spotify.com/album/5rFhRJLR6CDPSxwSPTONA4) | 5:28 |
-| 46 | [Coisa Mais Linda](https://open.spotify.com/track/2EQXKBGTaFU29HLIiL7FCj) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [O Mito \(Digital Edition\)](https://open.spotify.com/album/3ndWeWYOu0nzSgREN9mScv) | 2:51 |
+| 46 | [Um Abraco No Bonfa \- Live At Carnegie Hall/1964](https://open.spotify.com/track/7liJC6YxpvOly4zq6X5JJg) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Getz/Gilberto \#2](https://open.spotify.com/album/0Hh0eLbuqqDxYSCpy7i4Jx) | 2:51 |
 | 47 | [Nao Vou Pra Casa](https://open.spotify.com/track/4sw0RHCif9pADb47PxGDMk) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [João Voz E Violão](https://open.spotify.com/album/19cy0SZ66hIGL7Ko5UaURX) | 2:56 |
-| 48 | [Um Abraco No Bonfa \- Live At Carnegie Hall/1964](https://open.spotify.com/track/7liJC6YxpvOly4zq6X5JJg) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Getz/Gilberto \#2](https://open.spotify.com/album/0Hh0eLbuqqDxYSCpy7i4Jx) | 2:51 |
-| 49 | [Corcovado](https://open.spotify.com/track/3fYeqensiAoHgs645ttWnK) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Corcovado](https://open.spotify.com/album/3VaF3JOXtiv2nGFTMydLza) | 1:58 |
-| 50 | [É preciso Perdoar](https://open.spotify.com/track/2O6G533UXYJmbkrhzmt7OC) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [João Gilberto](https://open.spotify.com/album/5rFhRJLR6CDPSxwSPTONA4) | 5:08 |
+| 48 | [Corcovado](https://open.spotify.com/track/3fYeqensiAoHgs645ttWnK) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Corcovado](https://open.spotify.com/album/3VaF3JOXtiv2nGFTMydLza) | 1:58 |
+| 49 | [É preciso Perdoar](https://open.spotify.com/track/2O6G533UXYJmbkrhzmt7OC) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [João Gilberto](https://open.spotify.com/album/5rFhRJLR6CDPSxwSPTONA4) | 5:08 |
+| 50 | [Coisa Mais Linda](https://open.spotify.com/track/2EQXKBGTaFU29HLIiL7FCj) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [O Mito \(Digital Edition\)](https://open.spotify.com/album/3ndWeWYOu0nzSgREN9mScv) | 2:51 |
 
-Snapshot ID: `afU+gAAAAADAOjm8wBJUmcL/PJOOFe4N`
+Snapshot ID: `afaQAAAAAAAUmLVGT3GfBYoQPAXjNdGv`

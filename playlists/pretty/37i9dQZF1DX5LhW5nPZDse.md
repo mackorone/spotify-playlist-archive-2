@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LhW5nPZDse.md) - [plain]
 
 > Death is just the beginning\. Listen to the music from School Spirits, new season now streaming on Paramount+.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,596 likes - 105 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,602 likes - 105 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LhW5nPZDse.md) - [plain]
 | 44 | [damn, look at the view !](https://open.spotify.com/track/246gIi3P5IlEAmaR8bE3bL) | [Martin Luke Brown](https://open.spotify.com/artist/7L2rePM60cIztWZ7cLlskE) | [damn, look at the view !](https://open.spotify.com/album/28jKFEY7mlMSnRS9i6Ryu8) | 1:50 |
 | 45 | [The Elevator](https://open.spotify.com/track/61k8ZA1BqCYXOrevJtzuH8) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older](https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM) | 1:40 |
 | 46 | [Foolish Girl](https://open.spotify.com/track/3xTFF5pFEYlM0Qg4uUCF6M) | [Marjorie](https://open.spotify.com/artist/34SBQdfwoEDNqgbNQRgBbc), [Laney Tripp](https://open.spotify.com/artist/2oHONIRqxXSaM6rAtMNps8) | [Foolish Girl](https://open.spotify.com/album/59Y82bpZk1swutdukSKVLQ) | 2:21 |
-| 47 | [Take Me for What I Am \- 1971](https://open.spotify.com/track/7G6s4FcnKJVh3jWKhZ2dra) | [Henrey Ford](https://open.spotify.com/artist/0LHGFXIhCA77iTibwHId04) | [Vintage Soul 1967 \- 1985](https://open.spotify.com/album/2pkqrkgcJCqDSa0fc6umiL) | 3:01 |
+| 47 | [Take Me for What I Am \- 1971](https://open.spotify.com/track/7G6s4FcnKJVh3jWKhZ2dra) | [Henry Ford](https://open.spotify.com/artist/5KhMQ9xjRPcUvNHPYVpqlv) | [Vintage Soul 1967 \- 1985](https://open.spotify.com/album/2pkqrkgcJCqDSa0fc6umiL) | 3:01 |
 | 48 | [Heat of the Night](https://open.spotify.com/track/3bx8PIbzTVT9stFbbvAVD1) | [Simplistics](https://open.spotify.com/artist/591Yhaxfo5O2AQjCyltCHi) | [The Lost Masters](https://open.spotify.com/album/6pE7NoJgrgUm8nimxRtJv3) | 3:20 |
 | 49 | [Electric](https://open.spotify.com/track/4ynhrAuFOOHy7EhhoDhLCD) | [Red Alert](https://open.spotify.com/artist/4iaK2TE8vaJqdudf4kpy1i) | [Glorious Ladies of the Eighties](https://open.spotify.com/album/1if9Mft1XwaSSLH3TBQycE) | 4:10 |
 | 50 | [Baby, Oh Baby](https://open.spotify.com/track/6KWSXe6yZlNwiDoKMC3LX4) | [Fat City](https://open.spotify.com/artist/0jKx5W3UPvxkIallM7U0hm) | [Ain't No Time for Stoppin'](https://open.spotify.com/album/0ZRCsdFSnbKVSsUCkO5Yyq) | 3:13 |

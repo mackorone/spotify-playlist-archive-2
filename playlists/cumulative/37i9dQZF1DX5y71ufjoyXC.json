@@ -293,6 +293,28 @@
     },
     {
       "album": {
+        "name": "66 am",
+        "url": "https://open.spotify.com/album/295kpcatqizxstrU8Dx2RX"
+      },
+      "artists": [
+        {
+          "name": "Miranda Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5JpxOTduIHuTcuosdLBC14"
+        },
+        {
+          "name": "R\u00e9gulo Molina",
+          "url": "https://open.spotify.com/artist/6sbrrDwFdWvTLiq8NUykqm"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "66 am",
+      "url": "https://open.spotify.com/track/4QlKoM0Oxt5I6UvvkDT3MG"
+    },
+    {
+      "album": {
         "name": "DINAST\u00cdA",
         "url": "https://open.spotify.com/album/3kJfKZWulX2oyatVMvDx6a"
       },
@@ -4779,6 +4801,32 @@
     },
     {
       "album": {
+        "name": "holanda",
+        "url": "https://open.spotify.com/album/1l3EH2CGRWrHziaFV4uGTP"
+      },
+      "artists": [
+        {
+          "name": "EL DE LA TINTA",
+          "url": "https://open.spotify.com/artist/6VNymaTBHnYKnBfST2A5Cv"
+        },
+        {
+          "name": "Angel Cervantes",
+          "url": "https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ"
+        },
+        {
+          "name": "Sahir Montoya",
+          "url": "https://open.spotify.com/artist/7x5TwK8zGLmVk8k8zIEIrX"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224454,
+      "name": "holanda",
+      "url": "https://open.spotify.com/track/08ryHOM7OrGGcdrqFqNXxe"
+    },
+    {
+      "album": {
         "name": "Holanda",
         "url": "https://open.spotify.com/album/42D6fdFJ4SLnh4jXZJrsNa"
       },
@@ -7624,7 +7672,7 @@
       ],
       "date_added": "2025-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 127366,
       "name": "Mu\u00e9velo",
       "url": "https://open.spotify.com/track/7N3mR4WnEuq1MUQlxb6JWH"
@@ -10234,7 +10282,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 245469,
       "name": "ROSITA",
       "url": "https://open.spotify.com/track/4HyPxBQDLUnY3w7gukITrW"

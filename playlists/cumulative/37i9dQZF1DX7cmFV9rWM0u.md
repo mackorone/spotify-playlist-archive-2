@@ -4,7 +4,7 @@
 
 > Break a sweat with this Zumba\-inspired playlist! Find a class at Zumba.com
 
-271 songs - 13 hr 56 min
+272 songs - 13 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Bar](https://open.spotify.com/track/0lJE8f0lx8mUSfMyxeYpiC) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [Bar](https://open.spotify.com/album/0QCHhR6WxpMZBbI33s1bAf) | 2:40 | 2021-12-17 | 2026-04-16 |
 | [BEACHY](https://open.spotify.com/track/7gjnP3VGpnDpCVn3ZzmtvW) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [BEACHY](https://open.spotify.com/album/5xN2TtNpQBicT3t9Ohg6Id) | 2:48 | 2023-07-07 | 2024-06-22 |
 | [Bellakita](https://open.spotify.com/track/4tSrGUb119Qx4sAZBzfFgd) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce) | [Porque La Demora](https://open.spotify.com/album/7EIuLIjhFQAGPvq6L5gBvZ) | 3:39 | 2025-07-19 |  |
-| [Berlin](https://open.spotify.com/track/2IzV2SPZQLadtA46ni3ICq) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Berlin](https://open.spotify.com/album/3UoZyegj8BdpkwA2iSOwZa) | 4:06 | 2022-07-06 |  |
+| [Berlin](https://open.spotify.com/track/2IzV2SPZQLadtA46ni3ICq) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Berlin](https://open.spotify.com/album/3UoZyegj8BdpkwA2iSOwZa) | 4:06 | 2022-07-06 | 2026-05-05 |
 | [Bien Chill](https://open.spotify.com/track/56BV0uPbXSu9RRHrPR1Zat) | [Jenn Morel](https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a) | [Bien Chill](https://open.spotify.com/album/4RUs46dwJkHE4sn8u6fXoo) | 2:56 | 2021-12-17 | 2022-07-29 |
 | [boomerang](https://open.spotify.com/track/1bcXs0KpBkBW2FGSbmhJGl) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [boomerang](https://open.spotify.com/album/29cuKsKKlPn4HJ2Keh3jwD) | 2:18 | 2024-04-01 | 2024-07-05 |
 | [Boomerang](https://open.spotify.com/track/5MmwcFIcD3ZuGE8yRloi3S) | [Pierre La Voz](https://open.spotify.com/artist/36D4833K32OMgbBCKMIIy7) | [Boomerang](https://open.spotify.com/album/6FrFo42KCme5S6r0rfgJBi) | 3:04 | 2024-11-15 | 2025-01-17 |
@@ -228,6 +228,7 @@
 | [Sexy And I Know It](https://open.spotify.com/track/0obBFrPYkSoBJbvHfUIhkv) | [LMFAO](https://open.spotify.com/artist/3sgFRtyBnxXD5ESfmbK4dl) | [Sorry For Party Rocking \(Deluxe Version\)](https://open.spotify.com/album/5EuNq3rYUESwy6Vcsz2PZe) | 3:19 | 2025-01-16 |  |
 | [SG \(with Ozuna, Megan Thee Stallion & LISA of BLACKPINK\)](https://open.spotify.com/track/6IPNp9PfaEqrzotY47TIWy) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [SG \(with Ozuna, Megan Thee Stallion & LISA of BLACKPINK\)](https://open.spotify.com/album/2TGtXG18s21Q1jnY2TC39M) | 3:45 | 2021-12-17 |  |
 | [Shakira: Bzrp Music Sessions, Vol\. 53/66](https://open.spotify.com/track/4nrPB8O7Y7wsOCJdgXkthe) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Shakira: Bzrp Music Sessions, Vol\. 53/66](https://open.spotify.com/album/1gi2iwr1l8IUyHYHxi01pg) | 3:34 | 2023-01-23 |  |
+| [Shimmer](https://open.spotify.com/track/3UOnrnhbfDxh0ORHCQ3DxZ) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Toy With Me](https://open.spotify.com/album/6bkBdwYNeBqqLVF72acs0H) | 2:47 | 2026-05-04 |  |
 | [Si Antes Te Hubiera Conocido](https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Si Antes Te Hubiera Conocido](https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS) | 3:15 | 2024-06-21 |  |
 | [Sigue y Sigue](https://open.spotify.com/track/35orhhCkn3yT4Ijbb9gdxA) | [Jenn Morel](https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a) | [Sigue y Sigue](https://open.spotify.com/album/2UyuskfWq1BFbUKutvE3jS) | 2:26 | 2022-05-06 | 2022-06-03 |
 | [Silla](https://open.spotify.com/track/4n3OzPpoNDyHKKu7AeMV5P) | [Yailin la Mas Viral](https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt), [Puyalo Pantera](https://open.spotify.com/artist/5O5qjKWtduHgXxeEYbbSxz) | [Silla](https://open.spotify.com/album/3sHdenAQuCoDdST2VWiTJ7) | 2:21 | 2025-03-18 | 2025-07-24 |

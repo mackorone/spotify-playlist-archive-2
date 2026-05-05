@@ -1,6 +1,6 @@
 {
   "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. Grupo Marca Registrada en portada ",
-  "num_followers": 843663,
+  "num_followers": 843677,
   "original_name": "Top M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -391,18 +391,22 @@
     {
       "added_at": "2026-05-01 06:00:37",
       "album": {
-        "name": "Mi Yo de Antes",
-        "url": "https://open.spotify.com/album/2y77rjJAPxg73wjdzAeTMN"
+        "name": "OSAD\u00cdA",
+        "url": "https://open.spotify.com/album/3YURBd6TmCxXu5K6lOYWvT"
       },
       "artists": [
         {
           "name": "Eden Mu\u00f1oz",
           "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        },
+        {
+          "name": "Cristian Castro",
+          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
         }
       ],
-      "duration_ms": 182793,
-      "name": "Mi Yo de Antes",
-      "url": "https://open.spotify.com/track/0RAlrJTWdsaZVtfh1wDb3r"
+      "duration_ms": 206538,
+      "name": "OSAD\u00cdA",
+      "url": "https://open.spotify.com/track/0cCKN8doEIZ3mk7pXN0nW5"
     },
     {
       "added_at": "2026-05-01 06:00:37",
@@ -487,22 +491,18 @@
     {
       "added_at": "2026-05-01 06:00:37",
       "album": {
-        "name": "OSAD\u00cdA",
-        "url": "https://open.spotify.com/album/3YURBd6TmCxXu5K6lOYWvT"
+        "name": "Mi Yo de Antes",
+        "url": "https://open.spotify.com/album/2y77rjJAPxg73wjdzAeTMN"
       },
       "artists": [
         {
           "name": "Eden Mu\u00f1oz",
           "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        },
-        {
-          "name": "Cristian Castro",
-          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
         }
       ],
-      "duration_ms": 206538,
-      "name": "OSAD\u00cdA",
-      "url": "https://open.spotify.com/track/0cCKN8doEIZ3mk7pXN0nW5"
+      "duration_ms": 182793,
+      "name": "Mi Yo de Antes",
+      "url": "https://open.spotify.com/track/0RAlrJTWdsaZVtfh1wDb3r"
     },
     {
       "added_at": "2026-05-01 06:00:37",
@@ -575,22 +575,6 @@
     {
       "added_at": "2026-05-01 06:00:37",
       "album": {
-        "name": "K de Karma",
-        "url": "https://open.spotify.com/album/67Amfz9H8W7fi35u8Cn7zc"
-      },
-      "artists": [
-        {
-          "name": "Kenia Os",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 181933,
-      "name": "Ruleta Rusa",
-      "url": "https://open.spotify.com/track/0IZy9WMqzzK4HNTiHnuzBM"
-    },
-    {
-      "added_at": "2026-05-01 06:00:37",
-      "album": {
         "name": "66 am",
         "url": "https://open.spotify.com/album/295kpcatqizxstrU8Dx2RX"
       },
@@ -611,6 +595,22 @@
     {
       "added_at": "2026-05-01 06:00:37",
       "album": {
+        "name": "K de Karma",
+        "url": "https://open.spotify.com/album/67Amfz9H8W7fi35u8Cn7zc"
+      },
+      "artists": [
+        {
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 181933,
+      "name": "Ruleta Rusa",
+      "url": "https://open.spotify.com/track/0IZy9WMqzzK4HNTiHnuzBM"
+    },
+    {
+      "added_at": "2026-05-01 06:00:37",
+      "album": {
         "name": "ESTOICISMO",
         "url": "https://open.spotify.com/album/4qAlEESvgHKRHphbZc6QVC"
       },
@@ -623,22 +623,6 @@
       "duration_ms": 170322,
       "name": "ESTOICISMO",
       "url": "https://open.spotify.com/track/7sF5eflbAhpo0wh5NX2jDZ"
-    },
-    {
-      "added_at": "2026-05-01 06:00:37",
-      "album": {
-        "name": "Muchacho Alegre",
-        "url": "https://open.spotify.com/album/2zA3A4nFCfiFitdLqgLg0G"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 188121,
-      "name": "Muchacho Alegre",
-      "url": "https://open.spotify.com/track/101qOS5lXHs5hvu5xVT8Q1"
     },
     {
       "added_at": "2026-05-01 06:00:37",
@@ -663,22 +647,34 @@
     {
       "added_at": "2026-05-01 06:00:37",
       "album": {
-        "name": "Todo a Su Tiempo",
-        "url": "https://open.spotify.com/album/7fa8NmCDRgIP5BRkdYWG5i"
+        "name": "Muchacho Alegre",
+        "url": "https://open.spotify.com/album/2zA3A4nFCfiFitdLqgLg0G"
       },
       "artists": [
         {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "Grupo Primer Grado",
-          "url": "https://open.spotify.com/artist/3eRCLeO8w7xvvg1o39acC7"
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
         }
       ],
-      "duration_ms": 180756,
-      "name": "Todo a Su Tiempo",
-      "url": "https://open.spotify.com/track/6sBjyBwRAQEONPaJunUZVm"
+      "duration_ms": 188121,
+      "name": "Muchacho Alegre",
+      "url": "https://open.spotify.com/track/101qOS5lXHs5hvu5xVT8Q1"
+    },
+    {
+      "added_at": "2026-05-01 06:00:37",
+      "album": {
+        "name": "Expansi\u00f3n",
+        "url": "https://open.spotify.com/album/69ceJyl4is6jkwTPjyCYMf"
+      },
+      "artists": [
+        {
+          "name": "LOS DOS DE TAMAULIPAS",
+          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
+        }
+      ],
+      "duration_ms": 161348,
+      "name": "Ay\u00fadame",
+      "url": "https://open.spotify.com/track/45f6FcdWcuBGB4GvFuwr9f"
     },
     {
       "added_at": "2026-05-01 06:00:37",
@@ -699,6 +695,26 @@
     {
       "added_at": "2026-05-01 06:00:37",
       "album": {
+        "name": "Todo a Su Tiempo",
+        "url": "https://open.spotify.com/album/7fa8NmCDRgIP5BRkdYWG5i"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Grupo Primer Grado",
+          "url": "https://open.spotify.com/artist/3eRCLeO8w7xvvg1o39acC7"
+        }
+      ],
+      "duration_ms": 180756,
+      "name": "Todo a Su Tiempo",
+      "url": "https://open.spotify.com/track/6sBjyBwRAQEONPaJunUZVm"
+    },
+    {
+      "added_at": "2026-05-01 06:00:37",
+      "album": {
         "name": "100/10",
         "url": "https://open.spotify.com/album/1nwTWGhfS2GZBzhjuUr9Ww"
       },
@@ -715,18 +731,18 @@
     {
       "added_at": "2026-05-01 06:00:37",
       "album": {
-        "name": "Ay Dieguito",
-        "url": "https://open.spotify.com/album/3SYYvFKrvzAbsLhxrH4goD"
+        "name": "La Buena",
+        "url": "https://open.spotify.com/album/6pJpCycVCDwv5gV1Q5Ql7r"
       },
       "artists": [
         {
-          "name": "Calle 24",
-          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 170284,
-      "name": "Ay Dieguito",
-      "url": "https://open.spotify.com/track/57jY51VJ9iyZBP5DGFwQpP"
+      "duration_ms": 136585,
+      "name": "La Buena",
+      "url": "https://open.spotify.com/track/3l4k6rckgBZodaRpfMRbDA"
     },
     {
       "added_at": "2026-05-01 06:00:37",
@@ -751,22 +767,6 @@
     {
       "added_at": "2026-05-01 06:00:37",
       "album": {
-        "name": "Expansi\u00f3n",
-        "url": "https://open.spotify.com/album/69ceJyl4is6jkwTPjyCYMf"
-      },
-      "artists": [
-        {
-          "name": "LOS DOS DE TAMAULIPAS",
-          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
-        }
-      ],
-      "duration_ms": 161348,
-      "name": "Ay\u00fadame",
-      "url": "https://open.spotify.com/track/45f6FcdWcuBGB4GvFuwr9f"
-    },
-    {
-      "added_at": "2026-05-01 06:00:37",
-      "album": {
         "name": "Modo Dif\u00edcil",
         "url": "https://open.spotify.com/album/3kfuMuOaXbp69CayJ2kiqI"
       },
@@ -787,22 +787,18 @@
     {
       "added_at": "2026-05-01 06:00:37",
       "album": {
-        "name": "Me Est\u00e1 Doliendo",
-        "url": "https://open.spotify.com/album/5JnNUibrxRMHmyIp6ZjrSr"
+        "name": "Ay Dieguito",
+        "url": "https://open.spotify.com/album/3SYYvFKrvzAbsLhxrH4goD"
       },
       "artists": [
         {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        },
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
         }
       ],
-      "duration_ms": 202941,
-      "name": "Me Est\u00e1 Doliendo",
-      "url": "https://open.spotify.com/track/0if2KuMjKXCdBKM2Shdpf6"
+      "duration_ms": 170284,
+      "name": "Ay Dieguito",
+      "url": "https://open.spotify.com/track/57jY51VJ9iyZBP5DGFwQpP"
     },
     {
       "added_at": "2026-05-01 06:00:37",
@@ -819,6 +815,26 @@
       "duration_ms": 189791,
       "name": "Un Vals",
       "url": "https://open.spotify.com/track/1ojcw1w3auGuo2JwVvm8u5"
+    },
+    {
+      "added_at": "2026-05-01 06:00:37",
+      "album": {
+        "name": "Me Est\u00e1 Doliendo",
+        "url": "https://open.spotify.com/album/5JnNUibrxRMHmyIp6ZjrSr"
+      },
+      "artists": [
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 202941,
+      "name": "Me Est\u00e1 Doliendo",
+      "url": "https://open.spotify.com/track/0if2KuMjKXCdBKM2Shdpf6"
     },
     {
       "added_at": "2026-05-01 06:00:37",
@@ -887,22 +903,6 @@
     {
       "added_at": "2026-05-01 06:00:37",
       "album": {
-        "name": "La Buena",
-        "url": "https://open.spotify.com/album/6pJpCycVCDwv5gV1Q5Ql7r"
-      },
-      "artists": [
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 136585,
-      "name": "La Buena",
-      "url": "https://open.spotify.com/track/3l4k6rckgBZodaRpfMRbDA"
-    },
-    {
-      "added_at": "2026-05-01 06:00:37",
-      "album": {
         "name": "LUCID DREAMS",
         "url": "https://open.spotify.com/album/5jIZEQP2E5YkW1Fp5vRNYj"
       },
@@ -939,22 +939,34 @@
     {
       "added_at": "2026-05-01 06:00:37",
       "album": {
-        "name": "Makia",
-        "url": "https://open.spotify.com/album/1Y9L31kOYOYwGCOv4TLdI3"
+        "name": "Ojitos Bellos",
+        "url": "https://open.spotify.com/album/2QMmrYT9RG0dGQBpXvED9c"
       },
       "artists": [
         {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        },
-        {
-          "name": "Calle 24",
-          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
         }
       ],
-      "duration_ms": 167450,
-      "name": "Makia",
-      "url": "https://open.spotify.com/track/2pwqiLyqSPC5tvChw2J8I0"
+      "duration_ms": 179818,
+      "name": "Ojitos Bellos",
+      "url": "https://open.spotify.com/track/75OegUZV4dD54IVeonBKwr"
+    },
+    {
+      "added_at": "2026-05-01 06:00:37",
+      "album": {
+        "name": "Expansi\u00f3n",
+        "url": "https://open.spotify.com/album/69ceJyl4is6jkwTPjyCYMf"
+      },
+      "artists": [
+        {
+          "name": "LOS DOS DE TAMAULIPAS",
+          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
+        }
+      ],
+      "duration_ms": 155131,
+      "name": "Un Corridazo",
+      "url": "https://open.spotify.com/track/6VIX6Tu8pnrZurbOnpLj2x"
     },
     {
       "added_at": "2026-05-01 06:00:37",
@@ -983,18 +995,22 @@
     {
       "added_at": "2026-05-01 06:00:37",
       "album": {
-        "name": "Ojitos Bellos",
-        "url": "https://open.spotify.com/album/2QMmrYT9RG0dGQBpXvED9c"
+        "name": "Makia",
+        "url": "https://open.spotify.com/album/1Y9L31kOYOYwGCOv4TLdI3"
       },
       "artists": [
         {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
         }
       ],
-      "duration_ms": 179818,
-      "name": "Ojitos Bellos",
-      "url": "https://open.spotify.com/track/75OegUZV4dD54IVeonBKwr"
+      "duration_ms": 167450,
+      "name": "Makia",
+      "url": "https://open.spotify.com/track/2pwqiLyqSPC5tvChw2J8I0"
     },
     {
       "added_at": "2026-05-01 06:00:37",
@@ -1011,22 +1027,6 @@
       "duration_ms": 181945,
       "name": "Perd\u00f3n :(",
       "url": "https://open.spotify.com/track/5UdQUaT21CCDiYKc8T6VIF"
-    },
-    {
-      "added_at": "2026-05-01 06:00:37",
-      "album": {
-        "name": "Expansi\u00f3n",
-        "url": "https://open.spotify.com/album/69ceJyl4is6jkwTPjyCYMf"
-      },
-      "artists": [
-        {
-          "name": "LOS DOS DE TAMAULIPAS",
-          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
-        }
-      ],
-      "duration_ms": 155131,
-      "name": "Un Corridazo",
-      "url": "https://open.spotify.com/track/6VIX6Tu8pnrZurbOnpLj2x"
     },
     {
       "added_at": "2026-05-01 06:00:37",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2026-05-01 06:00:37",
       "album": {
+        "name": "Te Juro Que Te Amo",
+        "url": "https://open.spotify.com/album/048hj9COAKtTGGm3YyO02H"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 208298,
+      "name": "Te Juro Que Te Amo",
+      "url": "https://open.spotify.com/track/3qtGLAar7AhrbwLegrYOUE"
+    },
+    {
+      "added_at": "2026-05-01 06:00:37",
+      "album": {
         "name": "50/50",
         "url": "https://open.spotify.com/album/14LepGB8kIKQCzxbKVMvdz"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 204849,
       "name": "50/50",
       "url": "https://open.spotify.com/track/2uBRBvEuLx0i3B1cbJLXxp"
-    },
-    {
-      "added_at": "2026-05-01 06:00:37",
-      "album": {
-        "name": "Te Juro Que Te Amo",
-        "url": "https://open.spotify.com/album/048hj9COAKtTGGm3YyO02H"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 208298,
-      "name": "Te Juro Que Te Amo",
-      "url": "https://open.spotify.com/track/3qtGLAar7AhrbwLegrYOUE"
     },
     {
       "added_at": "2026-05-01 06:00:37",
@@ -1127,26 +1127,6 @@
     {
       "added_at": "2026-05-01 06:00:37",
       "album": {
-        "name": "Sin Darme Explicacion",
-        "url": "https://open.spotify.com/album/2q7suMTvK9bzYLBzKrQoIo"
-      },
-      "artists": [
-        {
-          "name": "Jasson Arellano",
-          "url": "https://open.spotify.com/artist/1XpGHmy23Oo4THEMSngF7v"
-        },
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 187560,
-      "name": "Sin Darme Explicacion",
-      "url": "https://open.spotify.com/track/6hmqUnbDg0IXxXDCPtSblS"
-    },
-    {
-      "added_at": "2026-05-01 06:00:37",
-      "album": {
         "name": "Nenas Mafiosas",
         "url": "https://open.spotify.com/album/1rBCAtb1Y9bUbsOlzcSn53"
       },
@@ -1167,6 +1147,26 @@
       "duration_ms": 146400,
       "name": "Nenas Mafiosas",
       "url": "https://open.spotify.com/track/33E72WM96PhNU9qyqHiccb"
+    },
+    {
+      "added_at": "2026-05-01 06:00:37",
+      "album": {
+        "name": "Sin Darme Explicacion",
+        "url": "https://open.spotify.com/album/2q7suMTvK9bzYLBzKrQoIo"
+      },
+      "artists": [
+        {
+          "name": "Jasson Arellano",
+          "url": "https://open.spotify.com/artist/1XpGHmy23Oo4THEMSngF7v"
+        },
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 187560,
+      "name": "Sin Darme Explicacion",
+      "url": "https://open.spotify.com/track/6hmqUnbDg0IXxXDCPtSblS"
     },
     {
       "added_at": "2026-05-01 06:00:37",
@@ -1263,26 +1263,6 @@
     {
       "added_at": "2026-05-01 06:00:37",
       "album": {
-        "name": "Mi Droga",
-        "url": "https://open.spotify.com/album/5RE7nniZDKaiF1WYMcaeiv"
-      },
-      "artists": [
-        {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        },
-        {
-          "name": "Natt Calma",
-          "url": "https://open.spotify.com/artist/5Y33YrC415THaEjOYhzDUH"
-        }
-      ],
-      "duration_ms": 195389,
-      "name": "Magia",
-      "url": "https://open.spotify.com/track/6bbTjLQR2TmEApXj8QYhl8"
-    },
-    {
-      "added_at": "2026-05-01 06:00:37",
-      "album": {
         "name": "Frostix",
         "url": "https://open.spotify.com/album/39X4kjbqYNcd95pnYdF9xA"
       },
@@ -1299,6 +1279,26 @@
       "duration_ms": 166000,
       "name": "Frostix",
       "url": "https://open.spotify.com/track/7jT6oOwJvLJ1zQZm76sh4F"
+    },
+    {
+      "added_at": "2026-05-01 06:00:37",
+      "album": {
+        "name": "Mi Droga",
+        "url": "https://open.spotify.com/album/5RE7nniZDKaiF1WYMcaeiv"
+      },
+      "artists": [
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        },
+        {
+          "name": "Natt Calma",
+          "url": "https://open.spotify.com/artist/5Y33YrC415THaEjOYhzDUH"
+        }
+      ],
+      "duration_ms": 195389,
+      "name": "Magia",
+      "url": "https://open.spotify.com/track/6bbTjLQR2TmEApXj8QYhl8"
     },
     {
       "added_at": "2026-05-01 06:00:37",

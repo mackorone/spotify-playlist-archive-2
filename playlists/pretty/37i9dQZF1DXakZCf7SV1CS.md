@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakZCf7SV1CS.md) - [plain]
 
 > Classics by the pioneers of the sound, and its modern\-day icons\. Cover: 100 gecs
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,735 likes - 100 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,751 likes - 100 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakZCf7SV1CS.md) - [plain]
 | 39 | [mos thoser](https://open.spotify.com/track/6nEDYdxD1YEWnXdbWxT6U8) | [food house](https://open.spotify.com/artist/41f6TKH0EoBnj3N4xIp26g), [Gupi](https://open.spotify.com/artist/3YOvdmjSEwOqRAJ0ttfwCx), [Fraxiom](https://open.spotify.com/artist/04Y5zXsFqYRzDr6tMXj6aL) | [food house](https://open.spotify.com/album/3JBuWWY8OCHXMcQz5xxxCr) | 4:07 |
 | 40 | [Hey QT](https://open.spotify.com/track/7nJoufbWvXXIcOLyDEci8t) | [QT](https://open.spotify.com/artist/5BrwToIWIxFwMToVViLr0z) | [Hey QT](https://open.spotify.com/album/2j4oAo8L6xpAmJsCi5cL7W) | 3:55 |
 | 41 | [movinglikeazombie](https://open.spotify.com/track/2BVNa4XQsy01eGNJrdVwe1) | [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [hi, i'm dante](https://open.spotify.com/album/7y89IwnXil6Rg4Vw6LVKnV) | 1:56 |
-| 42 | [1:15](https://open.spotify.com/track/0TNFCRzOnlgu7W1K47sFnY) | [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo) | [1:15](https://open.spotify.com/album/1UyLZP0hiJA0A2b6CWmQbU) | 2:10 |
-| 43 | [ihonestlymightjustgiveup](https://open.spotify.com/track/6AGhG5sCxbepvyjFilAVHq) | [d0llywood1](https://open.spotify.com/artist/2KZogWZPYcACVe4NK80dmc) | [ihonestlymightjustgiveup](https://open.spotify.com/album/0QGw2PBUWwsxlbIP84SO7J) | 2:06 |
+| 42 | [ihonestlymightjustgiveup](https://open.spotify.com/track/6AGhG5sCxbepvyjFilAVHq) | [d0llywood1](https://open.spotify.com/artist/2KZogWZPYcACVe4NK80dmc) | [ihonestlymightjustgiveup](https://open.spotify.com/album/0QGw2PBUWwsxlbIP84SO7J) | 2:06 |
+| 43 | [1:15](https://open.spotify.com/track/0TNFCRzOnlgu7W1K47sFnY) | [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo) | [1:15](https://open.spotify.com/album/1UyLZP0hiJA0A2b6CWmQbU) | 2:10 |
 | 44 | [serialkilled](https://open.spotify.com/track/4DC73wRVLzJLollwd9LlLs) | [osquinn](https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN) | [serialkilled](https://open.spotify.com/album/0oypx1kiUN5cstm7U5SO5i) | 1:47 |
 | 45 | [detest me](https://open.spotify.com/track/0XZ5gv6EBByIEuSOIiYaon) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [detest me](https://open.spotify.com/album/4HeO25Tx14zJgMwiDO8NkV) | 1:58 |
 | 46 | [victim](https://open.spotify.com/track/6Ni5XFp1ZQyfGBtkFAG2uF) | [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [things with wings](https://open.spotify.com/album/2MdIFibz5RJWNIDJzyEVxO) | 2:55 |

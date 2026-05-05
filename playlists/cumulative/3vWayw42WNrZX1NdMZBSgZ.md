@@ -4,7 +4,7 @@
 
 > The perfect mix of the latest pop hits! Follow this playlist and play Manuel Turizo , Shakira, Rauw Alejandro and more!!! Cover: Shakira &amp; Beéle
 
-980 songs - 2 day 4 hr 8 min
+981 songs - 2 day 4 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -895,6 +895,7 @@
 | [TU PERROTA](https://open.spotify.com/track/5JBsFddVLWFNE4WfXo9ZDw) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [NASTY SINGLES](https://open.spotify.com/album/7FLx7IRjwUsg9nqSGpZKg9) | 2:34 | 2023-12-08 | 2025-09-12 |
 | [Tu Recuerdo](https://open.spotify.com/track/3K4vutqVlY3eINQWb6jSJF) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW) | [Tu Recuerdo](https://open.spotify.com/album/0BmSD2UxwSB1g6ptVMv3xy) | 3:29 | 2023-03-10 | 2023-06-01 |
 | [tu sonrisa](https://open.spotify.com/track/3F1ug6PMfRKnhL0ExVAvYq) | [WANDA ORIGINAL](https://open.spotify.com/artist/2H8Dwb3Tbgux2nJixSW6LD), [NEON16](https://open.spotify.com/artist/7HacB3OpkiYI4VFwbvBLD8) | [tu sonrisa](https://open.spotify.com/album/6LzWepLzOCbYWKM5aOlY4U) | 2:18 | 2023-12-01 | 2024-07-03 |
+| [TU SUPITE?](https://open.spotify.com/track/0sYxmetxv0rmnLB1epKWUu) | [Leslie Grace](https://open.spotify.com/artist/6BeO1KuAWBqFriL1mLHtNc), [Martox](https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r) | [AMOR, QUIÉN ERES?](https://open.spotify.com/album/5EwAecivTZp1yYcXpbHq8h) | 3:05 | 2026-05-04 |  |
 | [TU TATTOO](https://open.spotify.com/track/64IQsBPvAhHdA6gVJihye2) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [NASTY SINGLES](https://open.spotify.com/album/7FLx7IRjwUsg9nqSGpZKg9) | 2:37 | 2023-12-08 | 2024-07-03 |
 | [Tucu](https://open.spotify.com/track/1YIvYm5d9GnVXR0Q9SUER7) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Amarion](https://open.spotify.com/artist/7Bb4i0RT3zaudzb8KvxTUQ) | [Tucu](https://open.spotify.com/album/6Dm6d8bOCvfHm0VGaU9mpj) | 3:06 | 2023-05-25 | 2023-07-29 |
 | [Tumbao](https://open.spotify.com/track/6FxReyACmhEHzJOszbh7xu) | [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX) | [Tumbao](https://open.spotify.com/album/5ZhMd0ABNjxYOFZtLeVoE2) | 2:39 | 2023-10-19 | 2024-07-03 |

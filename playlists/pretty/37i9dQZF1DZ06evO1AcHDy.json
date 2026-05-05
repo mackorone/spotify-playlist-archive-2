@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afU+gAAAAADIjhoxLKQznNRXNmncvA0b",
+  "snapshot_id": "afaQAAAAAABnGA4ZnHOziKGJSFF5Gk37",
   "tracks": [
     {
       "added_at": null,
@@ -347,26 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I'm Free (feat. Rina Sawayama)",
-        "url": "https://open.spotify.com/album/44fVvCJwKKIZ5SSzMKyih2"
-      },
-      "artists": [
-        {
-          "name": "Paris Hilton",
-          "url": "https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK"
-        },
-        {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
-        }
-      ],
-      "duration_ms": 182813,
-      "name": "I'm Free (feat. Rina Sawayama)",
-      "url": "https://open.spotify.com/track/5YXlSRFFpJCiEqfn9kctWI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dawn Of Chromatica",
         "url": "https://open.spotify.com/album/3OevODyllQCrhudfLLnV3y"
       },
@@ -387,6 +367,26 @@
       "duration_ms": 233901,
       "name": "Free Woman - Rina Sawayama & Clarence Clarity Remix",
       "url": "https://open.spotify.com/track/1zF2enE35rzozF1Qu7rLKH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I'm Free (feat. Rina Sawayama)",
+        "url": "https://open.spotify.com/album/44fVvCJwKKIZ5SSzMKyih2"
+      },
+      "artists": [
+        {
+          "name": "Paris Hilton",
+          "url": "https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK"
+        },
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "duration_ms": 182813,
+      "name": "I'm Free (feat. Rina Sawayama)",
+      "url": "https://open.spotify.com/track/5YXlSRFFpJCiEqfn9kctWI"
     },
     {
       "added_at": null,
@@ -503,26 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Follow Me",
-        "url": "https://open.spotify.com/album/4SB9fBomwBWpM0Zqz75Y1V"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        },
-        {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
-        }
-      ],
-      "duration_ms": 177564,
-      "name": "Follow Me",
-      "url": "https://open.spotify.com/track/0b8RxOVECQKVtkkdi47Cvk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hold The Girl (Bonus Edition)",
         "url": "https://open.spotify.com/album/6XSoviEu85xxQIAtX9VPIb"
       },
@@ -535,6 +515,22 @@
       "duration_ms": 153466,
       "name": "Flavour Of The Month",
       "url": "https://open.spotify.com/track/5csiH6myf4Pe4g0wQZtckf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Enter Sandman",
+        "url": "https://open.spotify.com/album/793qi8UfJPDiJNWHEdkXW1"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "duration_ms": 333880,
+      "name": "Enter Sandman",
+      "url": "https://open.spotify.com/track/4ZELmUxqI93dMrnSD4eUqc"
     },
     {
       "added_at": null,
@@ -555,18 +551,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Enter Sandman",
-        "url": "https://open.spotify.com/album/793qi8UfJPDiJNWHEdkXW1"
+        "name": "Follow Me",
+        "url": "https://open.spotify.com/album/445vYMgXM6mKFRPJzYeeav"
       },
       "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
         {
           "name": "Rina Sawayama",
           "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
         }
       ],
-      "duration_ms": 333880,
-      "name": "Enter Sandman",
-      "url": "https://open.spotify.com/track/4ZELmUxqI93dMrnSD4eUqc"
+      "duration_ms": 177564,
+      "name": "Follow Me",
+      "url": "https://open.spotify.com/track/0BhxEu4q4jg6Ul7XUxv7So"
     },
     {
       "added_at": null,

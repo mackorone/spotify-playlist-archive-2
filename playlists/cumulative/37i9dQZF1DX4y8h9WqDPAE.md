@@ -4,7 +4,7 @@
 
 > R&B, Hip\-Hop, Pop, Afrobeats and everything in between!  Cover: Kehlani
 
-1,257 songs - 2 day 17 hr 1 min
+1,258 songs - 2 day 17 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -346,6 +346,7 @@
 | [Faith + Sight](https://open.spotify.com/track/1XbYrixaAFERnv6QPsSWJ3) | [Zacari](https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [Faith + Sight](https://open.spotify.com/album/702fkCVmFTYMQGZCXIyAWa) | 2:39 | 2024-07-12 | 2025-02-22 |
 | [Fake Love](https://open.spotify.com/track/1GxvY18Fk9Z3UmpeqteE0g) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Fake Love](https://open.spotify.com/album/0RBwpxEriSaNOqPZHVSd7i) | 3:25 | 2023-06-23 | 2023-09-09 |
 | [Fall Apart,](https://open.spotify.com/track/21byfhwYAw4fxV2iq7iAdN) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sincerely,](https://open.spotify.com/album/2XhNukk6jDysbSRL7VsqYb) | 3:06 | 2025-05-09 | 2026-01-24 |
+| [Fallin' \(feat\. Leon Thomas\)](https://open.spotify.com/track/5XFwDMO60LntXrFSWHPopc) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Fallin' \(feat\. Leon Thomas\)](https://open.spotify.com/album/36084xkxfgcSMnaeWphBOY) | 4:26 | 2026-05-01 |  |
 | [FALLING](https://open.spotify.com/track/1uAsvwMuwRREv0G1zp0wgc) | [Lihtz](https://open.spotify.com/artist/5qCTwicUCTguc1ijgLOv9z), [Melii](https://open.spotify.com/artist/4udfTw7V8jI4AHi7PEfJfj) | [FALLING](https://open.spotify.com/album/43Dk1mJjlY5WaXlLQJv2ec) | 2:15 | 2025-02-21 | 2025-05-10 |
 | [False Prophet](https://open.spotify.com/track/6J0ia5zOw32TpE6lC3E43T) | [Genia](https://open.spotify.com/artist/4aAD0IqgpuOUyFGFZKEgNB) | [False Prophet](https://open.spotify.com/album/6CDxvkmt69PIesDH2TLtfF) | 2:49 | 2023-05-19 | 2023-10-21 |
 | [Fantasy \(feat\. Don Toliver\)](https://open.spotify.com/track/1dvqHhLNccePPBHq11TW7v) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Red Moon In Venus](https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br) | 2:58 | 2023-03-03 | 2024-01-13 |
@@ -675,7 +676,7 @@
 | [MAYBE SWANKAFORNiA](https://open.spotify.com/track/0mRa1oLuYvOOhRydLk0Bqp) | [Jidenna](https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn) | [ME YOU & GOD](https://open.spotify.com/album/2dz401rHd6flMgD42tPSk4) | 2:51 | 2023-05-12 | 2023-05-20 |
 | [Me & U](https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Me & U](https://open.spotify.com/album/0D1Qm49Hq9cwYbRDeC1HGa) | 3:12 | 2023-10-06 |  |
 | [Members Only \(feat\. PARTYNEXTDOOR\)](https://open.spotify.com/track/24FUBxaAYSBlWsbSnEzDcn) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 4:37 | 2023-10-06 | 2024-03-16 |
-| [Memories](https://open.spotify.com/track/4zMoZEkWSHb5NXuflbLHNI) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [XOXO](https://open.spotify.com/album/6q5zDop76n4wtnZg3Zhfo1) | 3:07 | 2025-10-10 |  |
+| [Memories](https://open.spotify.com/track/4zMoZEkWSHb5NXuflbLHNI) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [XOXO](https://open.spotify.com/album/6q5zDop76n4wtnZg3Zhfo1) | 3:07 | 2025-10-10 | 2026-05-05 |
 | [Messi](https://open.spotify.com/track/18PbcGonKcBN61OU7vdPt7) | [June Freedom](https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC), [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT) | [7 SEAS](https://open.spotify.com/album/3iOGCPhPYsNTpgtfjFnhOc) | 3:06 | 2023-10-13 | 2023-11-25 |
 | [MIA \(feat\. Chlöe\)](https://open.spotify.com/track/1jI4qCnDm6wDP5X6caZPeO) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Sincere \(Deluxe\)](https://open.spotify.com/album/1E8QXt1GZK0g2SC2JDK4ZE) | 2:40 | 2024-12-06 | 2025-05-10 |
 | [MIAMI](https://open.spotify.com/track/3KH7W2zKlPHeLc2dS9UQe4) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [MIAMI](https://open.spotify.com/album/46Aw6DwBHIqyFVHhljg8la) | 3:01 | 2025-07-18 | 2025-10-12 |

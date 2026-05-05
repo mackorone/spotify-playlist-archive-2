@@ -1,12 +1,12 @@
 {
   "description": "This is Lourena. The essential tracks, all in one playlist.",
-  "num_followers": 22403,
+  "num_followers": 22404,
   "original_name": "This Is Lourena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afU+gAAAAADhnmiQLwNm26D705xAe53g",
+  "snapshot_id": "afaQAAAAAAA39VPx0suT2yUpf0MhHt0v",
   "tracks": [
     {
       "added_at": null,
@@ -780,10 +780,6 @@
           "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
         },
         {
-          "name": "Major RD",
-          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
-        },
-        {
           "name": "Pineapple StormTv",
           "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
         },
@@ -792,29 +788,9 @@
           "url": "https://open.spotify.com/artist/0RcxeoP7Pv6TDHDedBFRh3"
         }
       ],
-      "duration_ms": 173291,
-      "name": "Louco Por Voc\u00ea",
-      "url": "https://open.spotify.com/track/79ixyXR5hjLWNdk8ricxAi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Prioridade",
-        "url": "https://open.spotify.com/album/1tQe4DId5aSpPVhMIvPOna"
-      },
-      "artists": [
-        {
-          "name": "Mariana Nolasco",
-          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        }
-      ],
-      "duration_ms": 208576,
-      "name": "Prioridade",
-      "url": "https://open.spotify.com/track/5cSW70c7FYpNtioW8zBoLb"
+      "duration_ms": 235987,
+      "name": "Medley Poesia Ac\u00fastica 9, 11",
+      "url": "https://open.spotify.com/track/2LvTfB9Jgh82XMa81Orz5E"
     },
     {
       "added_at": null,
@@ -839,50 +815,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Plano Perfeito",
-        "url": "https://open.spotify.com/album/2ZcKd50nThSP5JcccHKlux"
+        "name": "Prioridade",
+        "url": "https://open.spotify.com/album/1tQe4DId5aSpPVhMIvPOna"
       },
       "artists": [
         {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+          "name": "Mariana Nolasco",
+          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
         },
-        {
-          "name": "Haga",
-          "url": "https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o"
-        },
-        {
-          "name": "Mc Don Juan",
-          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
-        }
-      ],
-      "duration_ms": 191129,
-      "name": "Plano Perfeito",
-      "url": "https://open.spotify.com/track/3CYS69iw96rsdH6sQ9lcJP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lourena Ac\u00fastico",
-        "url": "https://open.spotify.com/album/5aO8m4nM0tMsR3inJ14PEx"
-      },
-      "artists": [
         {
           "name": "Lourena",
           "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        },
-        {
-          "name": "billboard Brasil",
-          "url": "https://open.spotify.com/artist/0RcxeoP7Pv6TDHDedBFRh3"
         }
       ],
-      "duration_ms": 235987,
-      "name": "Medley Poesia Ac\u00fastica 9, 11",
-      "url": "https://open.spotify.com/track/2LvTfB9Jgh82XMa81Orz5E"
+      "duration_ms": 208576,
+      "name": "Prioridade",
+      "url": "https://open.spotify.com/track/5cSW70c7FYpNtioW8zBoLb"
     },
     {
       "added_at": null,
@@ -911,8 +859,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Avi\u00e3o",
-        "url": "https://open.spotify.com/album/3jofE4ABxA4B0nNFGEvj1P"
+        "name": "Lourena Ac\u00fastico",
+        "url": "https://open.spotify.com/album/5aO8m4nM0tMsR3inJ14PEx"
       },
       "artists": [
         {
@@ -920,13 +868,45 @@
           "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
         },
         {
-          "name": "Rap Box",
-          "url": "https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp"
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        },
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "billboard Brasil",
+          "url": "https://open.spotify.com/artist/0RcxeoP7Pv6TDHDedBFRh3"
         }
       ],
-      "duration_ms": 241171,
-      "name": "Avi\u00e3o",
-      "url": "https://open.spotify.com/track/6kdJ1Y8M9IDrEczN8FFweO"
+      "duration_ms": 173291,
+      "name": "Louco Por Voc\u00ea",
+      "url": "https://open.spotify.com/track/79ixyXR5hjLWNdk8ricxAi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Plano Perfeito",
+        "url": "https://open.spotify.com/album/2ZcKd50nThSP5JcccHKlux"
+      },
+      "artists": [
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Haga",
+          "url": "https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o"
+        },
+        {
+          "name": "Mc Don Juan",
+          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
+        }
+      ],
+      "duration_ms": 191129,
+      "name": "Plano Perfeito",
+      "url": "https://open.spotify.com/track/3CYS69iw96rsdH6sQ9lcJP"
     },
     {
       "added_at": null,
@@ -947,6 +927,26 @@
       "duration_ms": 211896,
       "name": "O Seu Grande Amor",
       "url": "https://open.spotify.com/track/0xVpYDK444H2EN27fYQmLe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Avi\u00e3o",
+        "url": "https://open.spotify.com/album/3jofE4ABxA4B0nNFGEvj1P"
+      },
+      "artists": [
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Rap Box",
+          "url": "https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp"
+        }
+      ],
+      "duration_ms": 241171,
+      "name": "Avi\u00e3o",
+      "url": "https://open.spotify.com/track/6kdJ1Y8M9IDrEczN8FFweO"
     },
     {
       "added_at": null,
@@ -1071,26 +1071,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oriente Ac\u00fastico",
-        "url": "https://open.spotify.com/album/3WJzYyIeffgxWIT0o0N7J1"
-      },
-      "artists": [
-        {
-          "name": "Oriente",
-          "url": "https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        }
-      ],
-      "duration_ms": 289122,
-      "name": "Na Areia",
-      "url": "https://open.spotify.com/track/6MriBuIGeZzm2CKC0HuKQ3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Deixa Ir",
         "url": "https://open.spotify.com/album/68JkTr2YMhffcdKmQ5ztL5"
       },
@@ -1107,6 +1087,26 @@
       "duration_ms": 152470,
       "name": "Deixa Ir",
       "url": "https://open.spotify.com/track/5hMk6GBvUM3Qi4u0pxugqi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Oriente Ac\u00fastico",
+        "url": "https://open.spotify.com/album/3WJzYyIeffgxWIT0o0N7J1"
+      },
+      "artists": [
+        {
+          "name": "Oriente",
+          "url": "https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        }
+      ],
+      "duration_ms": 289122,
+      "name": "Na Areia",
+      "url": "https://open.spotify.com/track/6MriBuIGeZzm2CKC0HuKQ3"
     },
     {
       "added_at": null,
@@ -1263,26 +1263,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ele Me Falou",
-        "url": "https://open.spotify.com/album/1ZcPayaQioWQ4DRcJUqJoh"
-      },
-      "artists": [
-        {
-          "name": "Budah",
-          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        }
-      ],
-      "duration_ms": 209268,
-      "name": "Ele Me Falou",
-      "url": "https://open.spotify.com/track/5OHyVyyjFInvuuBeupT7c5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Posturadin",
         "url": "https://open.spotify.com/album/66QOsOeesc7RCRddsMOLKo"
       },
@@ -1311,6 +1291,26 @@
       "duration_ms": 226521,
       "name": "Posturadin",
       "url": "https://open.spotify.com/track/60nf4kVvOPfKPL8C9INkCI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ele Me Falou",
+        "url": "https://open.spotify.com/album/1ZcPayaQioWQ4DRcJUqJoh"
+      },
+      "artists": [
+        {
+          "name": "Budah",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        }
+      ],
+      "duration_ms": 209268,
+      "name": "Ele Me Falou",
+      "url": "https://open.spotify.com/track/5OHyVyyjFInvuuBeupT7c5"
     },
     {
       "added_at": null,
@@ -1367,26 +1367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Convida ao Vivo",
-        "url": "https://open.spotify.com/album/1TU3f23Am000jp2EWmGSGS"
-      },
-      "artists": [
-        {
-          "name": "Ponto De Equil\u00edbrio",
-          "url": "https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        }
-      ],
-      "duration_ms": 327028,
-      "name": "Estar Com Voc\u00ea",
-      "url": "https://open.spotify.com/track/4kv1rgv2FbVcj0R0xnOISh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nosso Relacionamento",
         "url": "https://open.spotify.com/album/62gdsfaMG7QcgI2f9mG6xF"
       },
@@ -1407,6 +1387,26 @@
       "duration_ms": 200769,
       "name": "Nosso Relacionamento",
       "url": "https://open.spotify.com/track/7jV67Bz9qRkk57FMedir8S"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Convida ao Vivo",
+        "url": "https://open.spotify.com/album/1TU3f23Am000jp2EWmGSGS"
+      },
+      "artists": [
+        {
+          "name": "Ponto De Equil\u00edbrio",
+          "url": "https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        }
+      ],
+      "duration_ms": 327028,
+      "name": "Estar Com Voc\u00ea",
+      "url": "https://open.spotify.com/track/4kv1rgv2FbVcj0R0xnOISh"
     },
     {
       "added_at": null,

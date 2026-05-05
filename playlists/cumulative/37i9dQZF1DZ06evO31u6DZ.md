@@ -4,7 +4,7 @@
 
 > This is Senses Fail\. The essential tracks, all in one playlist.
 
-137 songs - 7 hr 49 min
+138 songs - 7 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Can't Be Saved](https://open.spotify.com/track/3R0S1d6GJ6hW2L9M43S9Kb) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Still Searching](https://open.spotify.com/album/4J1JNPuYZR6zQMl7I66Z6B) | 3:07 | 2023-01-31 | 2023-12-14 |
 | [Can't Be Saved](https://open.spotify.com/track/63k8KXOgawK2cNtvm2ZW8y) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Still Searching \(Deluxe Version\)](https://open.spotify.com/album/76avO7AfsTAMe4dvVV3Wwj) | 3:07 | 2022-10-25 | 2023-02-01 |
 | [Canine](https://open.spotify.com/track/7bvFWzATD9xN9F1QBvnUcd) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Renacer](https://open.spotify.com/album/7Jt2OKLFWzwgqqUAOCZ0Q0) | 3:27 | 2025-04-15 | 2025-06-04 |
+| [Cinco De Mayo](https://open.spotify.com/track/2guzqF808fPJeTpVn4jhQH) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Still Searching \(Deluxe Version\)](https://open.spotify.com/album/4YRcdjj0Xm8KQUWmS2JXcZ) | 2:58 | 2026-05-05 |  |
 | [Closure / Rebirth](https://open.spotify.com/track/3CQbLTwoVMWPgVGNc1iEQu) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Renacer](https://open.spotify.com/album/7Jt2OKLFWzwgqqUAOCZ0Q0) | 3:24 | 2026-04-24 |  |
 | [Coward](https://open.spotify.com/track/1LRGDPUAo5HedSS7VT6UNA) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [The Fire](https://open.spotify.com/album/6UPgoFeBEdlabQBR1QkZpS) | 3:30 | 2026-03-11 | 2026-03-26 |
 | [Death by Water](https://open.spotify.com/track/2AX46RVDdKW6WL7gHQSFzx) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Hell is in Your Head](https://open.spotify.com/album/1Rj8VxOUGmuKrTDcFNISvB) | 3:49 | 2022-10-25 | 2024-04-19 |
@@ -48,7 +49,7 @@
 | [Family Tradition](https://open.spotify.com/track/7EkM4mRpNMQlIWTS72kAB4) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Life Is Not a Waiting Room](https://open.spotify.com/album/1GzlMqFXb8oj91bAMRLj0K) | 3:34 | 2023-12-13 |  |
 | [Fireworks at Dawn](https://open.spotify.com/track/0pAuXS0axaaZxs2vkIjDXQ) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Life Is Not a Waiting Room](https://open.spotify.com/album/1GzlMqFXb8oj91bAMRLj0K) | 2:09 | 2023-12-13 | 2026-02-03 |
 | [Fireworks at Dawn](https://open.spotify.com/track/5AGAEzjCUGEw6zBwqRJMBf) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Life Is Not a Waiting Room](https://open.spotify.com/album/0ebY8YG1wME8xFsFzsuDyF) | 2:09 | 2022-10-25 | 2023-12-14 |
-| [First Breath, Last Breath](https://open.spotify.com/track/2ohUJ8Kc80bf6cJQ4isUdc) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [If There Is Light, It Will Find You](https://open.spotify.com/album/1mbQAy6uzKts3zjDaUEvxY) | 2:54 | 2025-06-04 |  |
+| [First Breath, Last Breath](https://open.spotify.com/track/2ohUJ8Kc80bf6cJQ4isUdc) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [If There Is Light, It Will Find You](https://open.spotify.com/album/1mbQAy6uzKts3zjDaUEvxY) | 2:54 | 2025-06-04 | 2026-05-05 |
 | [First Breath, Last Breath](https://open.spotify.com/track/6eRpj3GLxtaBv2z0ruySm1) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [If There Is Light, It Will Find You](https://open.spotify.com/album/5Bdj3JrmjvkampuUvA8nx0) | 2:54 | 2022-10-25 | 2025-01-08 |
 | [Four Years](https://open.spotify.com/track/1deMF6m52RB0UQnlx8k3uU) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Life Is Not a Waiting Room](https://open.spotify.com/album/0ebY8YG1wME8xFsFzsuDyF) | 4:15 | 2022-10-25 | 2023-12-14 |
 | [Four Years](https://open.spotify.com/track/6805gZi35lOajVzQNpnzKF) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Life Is Not a Waiting Room](https://open.spotify.com/album/1GzlMqFXb8oj91bAMRLj0K) | 4:15 | 2023-12-13 |  |
@@ -101,7 +102,7 @@
 | [NJ Falls Into the Atlantic](https://open.spotify.com/track/7EWKOfLgNr9f1NgQZkRIzp) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Let It Enfold You](https://open.spotify.com/album/2NLyP6U1OZZ8d4PvbVANLT) | 3:48 | 2022-10-25 | 2023-12-14 |
 | [One Eight Seven](https://open.spotify.com/track/0pclT1QQ4Pu7C1pZBpei0f) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [From The Depths Of Dreams](https://open.spotify.com/album/1Sd2yj3wFNHskILXgPCf0y) | 4:10 | 2022-10-25 |  |
 | [Pull the Thorns from Your Heart](https://open.spotify.com/track/1O75ojEPxBji0pAcrnalnb) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Pull the Thorns from Your Heart](https://open.spotify.com/album/2DeBiiHhjV4JovpMXxJAnd) | 3:56 | 2026-03-17 | 2026-03-31 |
-| [Renacer](https://open.spotify.com/track/5ciIybg2QT0nkBFqJeAEFc) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Renacer](https://open.spotify.com/album/7Jt2OKLFWzwgqqUAOCZ0Q0) | 2:27 | 2024-04-11 | 2026-01-22 |
+| [Renacer](https://open.spotify.com/track/5ciIybg2QT0nkBFqJeAEFc) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Renacer](https://open.spotify.com/album/7Jt2OKLFWzwgqqUAOCZ0Q0) | 2:27 | 2024-04-11 |  |
 | [Rum Is for Drinking, Not for Burning](https://open.spotify.com/track/0vMvw4gKlM59AGO61KRnT7) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Let It Enfold You](https://open.spotify.com/album/1dnNjLBeisuc0bUp3wwPR1) | 2:43 | 2023-12-13 |  |
 | [Rum Is for Drinking, Not for Burning](https://open.spotify.com/track/38bTAKxFVuAnnk8UMm0iwb) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Let It Enfold You](https://open.spotify.com/album/2NLyP6U1OZZ8d4PvbVANLT) | 2:43 | 2022-10-25 | 2023-12-14 |
 | [Saint Anthony](https://open.spotify.com/track/2cMosb3ON8fKZjpRi3eDpf) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [The Fire](https://open.spotify.com/album/6IExM5Oz7rM77Qz27L0nYD) | 3:15 | 2022-10-25 | 2023-12-14 |
@@ -118,7 +119,7 @@
 | [Still Searching](https://open.spotify.com/track/093MmGxax3ppg6MrC3LBQZ) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Still Searching \(Deluxe Version\)](https://open.spotify.com/album/4YRcdjj0Xm8KQUWmS2JXcZ) | 4:18 | 2023-12-13 |  |
 | [Still Searching](https://open.spotify.com/track/6sgdlnTL6tmIjhn0OqQmwP) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Still Searching \(Deluxe Version\)](https://open.spotify.com/album/76avO7AfsTAMe4dvVV3Wwj) | 4:18 | 2023-01-23 | 2023-09-26 |
 | [Stretch Your Legs to Coffin Length](https://open.spotify.com/track/0fX3bWkpBC6u2LbsYcn7Z6) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Still Searching \(Deluxe Version\)](https://open.spotify.com/album/76avO7AfsTAMe4dvVV3Wwj) | 3:02 | 2023-04-09 | 2023-12-14 |
-| [Stretch Your Legs to Coffin Length](https://open.spotify.com/track/1xfwhzpWX6kVh2guToXwk5) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Still Searching \(Deluxe Version\)](https://open.spotify.com/album/4YRcdjj0Xm8KQUWmS2JXcZ) | 3:02 | 2026-04-28 |  |
+| [Stretch Your Legs to Coffin Length](https://open.spotify.com/track/1xfwhzpWX6kVh2guToXwk5) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Still Searching \(Deluxe Version\)](https://open.spotify.com/album/4YRcdjj0Xm8KQUWmS2JXcZ) | 3:02 | 2026-04-28 | 2026-05-05 |
 | [The Burial of the Dead](https://open.spotify.com/track/0ja7fAjEUM6qNaFrBT9fzM) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Hell is in Your Head](https://open.spotify.com/album/1Rj8VxOUGmuKrTDcFNISvB) | 3:18 | 2022-10-25 | 2025-02-16 |
 | [The Courage of an Open Heart](https://open.spotify.com/track/1PHUCMP3ZI61iqFc88uXQK) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Pull the Thorns from Your Heart](https://open.spotify.com/album/2DeBiiHhjV4JovpMXxJAnd) | 3:14 | 2026-03-21 | 2026-04-03 |
 | [The Fire](https://open.spotify.com/track/7cHNoWm2ypCUKwUIL1w6tb) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [The Fire](https://open.spotify.com/album/6UPgoFeBEdlabQBR1QkZpS) | 3:44 | 2023-12-13 |  |

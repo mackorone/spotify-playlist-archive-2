@@ -4,7 +4,7 @@
 
 > Discover new christian and gospel music\. Cover: Lawrence Oyor
 
-7,953 songs - 24 day 12 hr 23 min
+7,954 songs - 24 day 12 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1996,7 +1996,7 @@
 | [Fire and Rain](https://open.spotify.com/track/4StLEVHzdqm3MJtYOvpkd4) | [Tem\-Pee](https://open.spotify.com/artist/1GhBskMXoupdS2AqTGiKNk), [Jiritmwa Paul](https://open.spotify.com/artist/0tnm1DiWdW6EEeKMExGKft) | [Fire and Rain](https://open.spotify.com/album/6QqySGirysZ3XB2fLUpkuK) | 3:06 | 2024-03-01 | 2024-03-16 |
 | [Fire Bomba](https://open.spotify.com/track/3tZBGXJSdDB76gcb7EfQ5d) | [Mo'Lola](https://open.spotify.com/artist/2ejOctEUrvGWrMuTwZPdaO), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [Fire Bomba](https://open.spotify.com/album/1Wk6PDarQpQBbuqy57kkaY) | 2:52 | 2023-09-01 | 2023-09-15 |
 | [Fire Fall](https://open.spotify.com/track/1pUOZEQfBrucbikddcJ00k) | [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce), [Kaye\-Marie](https://open.spotify.com/artist/51V84X0Uw6QQ8a31yRLTeN) | [Fire Fall](https://open.spotify.com/album/4qJ0oAgJeBxTbZQdYjEML1) | 4:02 | 2023-06-30 | 2023-07-14 |
-| [Fire in My Praise](https://open.spotify.com/track/1M0SEfZwriCsT2zveixfF8) | [Amazing Praize](https://open.spotify.com/artist/4HbOcO4aQwRzFFqrkBVWYN), [Streams Of Joy](https://open.spotify.com/artist/74EHjGp4ALyk5ObLRfjyGK), [Pastor Jerry Eze](https://open.spotify.com/artist/5UpWOLAQgVUxzukbqKX3hn) | [Fire in My Praise](https://open.spotify.com/album/6hc12t7J6G38Yj7faj5oTA) | 3:06 | 2026-05-01 |  |
+| [Fire in My Praise](https://open.spotify.com/track/1M0SEfZwriCsT2zveixfF8) | [Amazing Praize](https://open.spotify.com/artist/4HbOcO4aQwRzFFqrkBVWYN), [Streams Of Joy](https://open.spotify.com/artist/74EHjGp4ALyk5ObLRfjyGK), [Pastor Jerry Eze](https://open.spotify.com/artist/5UpWOLAQgVUxzukbqKX3hn) | [Fire in My Praise](https://open.spotify.com/album/6hc12t7J6G38Yj7faj5oTA) | 3:06 | 2026-05-01 | 2026-05-05 |
 | [Fire of the Holy Ghost](https://open.spotify.com/track/0RqznPntIbkfCWZtbMOGFO) | [MOGmusic](https://open.spotify.com/artist/0s17P9R9hTZUlgxDnvLBFW) | [Fire of the Holy Ghost](https://open.spotify.com/album/3Ihb6f1oT3ENWxA1IkRe8a) | 13:00 | 2024-01-19 | 2024-02-02 |
 | [Fire on my Altar](https://open.spotify.com/track/3weOyLmKQGAEwEyhMYUxsz) | [Mr M & Revelation](https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa) | [Fire on my Altar](https://open.spotify.com/album/2sNGMK8jCbywP4dUAZpBbU) | 10:39 | 2024-01-12 | 2024-01-26 |
 | [Fire On My Altar](https://open.spotify.com/track/2ZOiA0nHVi9pzYQr1BabvZ) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [Fire On My Altar](https://open.spotify.com/album/1Y11PgMFV5elHlCWEagz6v) | 9:40 | 2024-02-16 | 2024-03-01 |
@@ -2978,6 +2978,7 @@
 | [I Am A Soldier / Iba \(Spontaneous Worship\)](https://open.spotify.com/track/6G9HoErqw4O4TYtI2Fw69v) | [Prosper King](https://open.spotify.com/artist/60JSlzTzBBsoRxuDrI9x3A) | [I Am A Soldier / Iba \(Spontaneous Worship\)](https://open.spotify.com/album/5v3uKjNiuUrilWxlumqEI2) | 9:19 | 2025-02-21 | 2025-03-08 |
 | [I am blessed](https://open.spotify.com/track/7Llq2XQUUIHx45oZPrcykv) | [Ohene Adu](https://open.spotify.com/artist/1RcMjMMgZdII1ggPN0h8YP) | [I am blessed](https://open.spotify.com/album/716zknSRmVQljUjligbWyJ) | 3:00 | 2024-01-26 | 2024-02-02 |
 | [I am blessed](https://open.spotify.com/track/1QYpJIF5WBn4lmdK1wkcAV) | [Temple](https://open.spotify.com/artist/6qicD8blmXzFzYEgGYfYfa) | [I am blessed](https://open.spotify.com/album/0RcyUlcMRtm06uXuMR2ZDF) | 4:06 | 2025-03-07 | 2025-03-14 |
+| [I Am Dwelling](https://open.spotify.com/track/2STjf6Gpuc2dmq9G1qDkWq) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x), [Team JDK](https://open.spotify.com/artist/1XzkTOmO9S4D7RxLIs15YM) | [Yeshua \(The Summary Of My Life\)](https://open.spotify.com/album/7dgezebPDcF3quISA1VeiS) | 5:12 | 2026-05-04 |  |
 | [I am Excited](https://open.spotify.com/track/5PY8SCjjE6UgZoRZvnpQbY) | [Emon brill](https://open.spotify.com/artist/7h0bNvKAuQUJa1LhEMzjuO), [Emmasings](https://open.spotify.com/artist/77aKxTssZ17zSHCkrviZy7) | [I am Excited](https://open.spotify.com/album/1SK2Yee76TQBWVGGzjTLG6) | 4:13 | 2025-10-17 | 2025-10-31 |
 | [I Am Free](https://open.spotify.com/track/2Ha8TVjKJfVxaBn1rlbnxH) | [Toby Grey](https://open.spotify.com/artist/7eJwlZzlct7anXWaMKT3ww) | [I Am Free](https://open.spotify.com/album/5MDKINQm2TN46GwnGW8xQc) | 3:31 | 2026-03-06 | 2026-03-20 |
 | [I Am Healed](https://open.spotify.com/track/7xNavX0iq7HrY01nHXXNH9) | [Circanineti](https://open.spotify.com/artist/32MTX0JRGzSVe8CM158bEn), [Chloe Higgs](https://open.spotify.com/artist/7HJuXEaNmpjsSAYK0pW4wq) | [I Am Healed](https://open.spotify.com/album/09Crr0hMx0Eo0j0yAK7zpr) | 3:12 | 2024-11-01 | 2024-11-15 |

@@ -2049,6 +2049,32 @@
     },
     {
       "album": {
+        "name": "Dr. Seuss's Horton!: Vol. 2 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/6K6XoxTf0mkT5cpVFg8kPK"
+      },
+      "artists": [
+        {
+          "name": "Dr. Seuss's Horton! - Cast",
+          "url": "https://open.spotify.com/artist/2brJCIiQhXmcL3CDPioFEu"
+        },
+        {
+          "name": "Ethan Monaghan",
+          "url": "https://open.spotify.com/artist/0X3ANEAMRcRj45WG6ARBQr"
+        },
+        {
+          "name": "Max Mittelman",
+          "url": "https://open.spotify.com/artist/5cmu2qQqAisZsWx8PRZ6Tx"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99426,
+      "name": "Magoot's Lullaby",
+      "url": "https://open.spotify.com/track/7zFB5KXBAcLvMTd3GCBFW6"
+    },
+    {
+      "album": {
         "name": "Jingle Jangle: A Christmas Journey (Music From The Netflix Original Film)",
         "url": "https://open.spotify.com/album/3zFlBt4RbyvuVvlhFT9mDv"
       },
@@ -3444,6 +3470,32 @@
       "duration_ms": 213958,
       "name": "This Day",
       "url": "https://open.spotify.com/track/2rZWWJNvLD2MRSIqjsLXpc"
+    },
+    {
+      "album": {
+        "name": "Dr. Seuss's Horton!: Vol. 2 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/6K6XoxTf0mkT5cpVFg8kPK"
+      },
+      "artists": [
+        {
+          "name": "Dr. Seuss's Horton! - Cast",
+          "url": "https://open.spotify.com/artist/2brJCIiQhXmcL3CDPioFEu"
+        },
+        {
+          "name": "Ethan Monaghan",
+          "url": "https://open.spotify.com/artist/0X3ANEAMRcRj45WG6ARBQr"
+        },
+        {
+          "name": "Max Mittelman",
+          "url": "https://open.spotify.com/artist/5cmu2qQqAisZsWx8PRZ6Tx"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 67357,
+      "name": "Twinkleberry Time Is Here",
+      "url": "https://open.spotify.com/track/7rFxFtPy9IKpKntqZiQN46"
     },
     {
       "album": {

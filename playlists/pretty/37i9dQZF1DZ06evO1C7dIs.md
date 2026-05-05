@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1C7dIs.md) - [plain]
 
 > This is Nightwish\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,813 likes - 50 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,830 likes - 50 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,15 +36,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1C7dIs.md) - [plain]
 | 26 | [The Day Of...](https://open.spotify.com/track/5BaDnS9olEIZSXZNdgraMs) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Yesterwynde](https://open.spotify.com/album/39CVUoSmw8915LRClkNH0o) | 4:33 |
 | 27 | [For the Heart I Once Had](https://open.spotify.com/track/2FPkCIeZJ9SO3g606XLJA4) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Dark Passion Play](https://open.spotify.com/album/33knvUBRR5ekNBrtLqQVTD) | 3:56 |
 | 28 | [Bless The Child](https://open.spotify.com/track/6Z2MwbeouGY1vsLiJfviti) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Century Child](https://open.spotify.com/album/2fmfAN3tCHMIU8WZuG35ZK) | 6:12 |
-| 29 | [My Walden](https://open.spotify.com/track/3LgWFCHW1eZLZyfylrn88p) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Endless Forms Most Beautiful \(Deluxe Version\)](https://open.spotify.com/album/1tVEWlyn2nsAke3Lp7HoZ0) | 4:39 |
-| 30 | [She Is My Sin](https://open.spotify.com/track/1Tct7I9Mwb2BUhFW5xsEy6) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Wishmaster](https://open.spotify.com/album/2St6O6fVAYqzKN4cCpFzuV) | 4:46 |
+| 29 | [She Is My Sin](https://open.spotify.com/track/1Tct7I9Mwb2BUhFW5xsEy6) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Wishmaster](https://open.spotify.com/album/2St6O6fVAYqzKN4cCpFzuV) | 4:46 |
+| 30 | [My Walden](https://open.spotify.com/track/3LgWFCHW1eZLZyfylrn88p) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Endless Forms Most Beautiful \(Deluxe Version\)](https://open.spotify.com/album/1tVEWlyn2nsAke3Lp7HoZ0) | 4:39 |
 | 31 | [Perfume Of The Timeless](https://open.spotify.com/track/4UNYF5dLLQ9acbNxenGTpc) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Yesterwynde](https://open.spotify.com/album/39CVUoSmw8915LRClkNH0o) | 8:12 |
 | 32 | [Dead To The World](https://open.spotify.com/track/3lY7foOrKVtDoYKUJXmkML) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Century Child](https://open.spotify.com/album/2fmfAN3tCHMIU8WZuG35ZK) | 4:19 |
-| 33 | [Weak Fantasy](https://open.spotify.com/track/3POMZFPzYbV6rYXJN1ozXW) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Endless Forms Most Beautiful \(Deluxe Version\)](https://open.spotify.com/album/1tVEWlyn2nsAke3Lp7HoZ0) | 5:24 |
-| 34 | [Deep Silent Complete](https://open.spotify.com/track/3Fba4XIaDBLFfKrOcsBjsY) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Wishmaster](https://open.spotify.com/album/2St6O6fVAYqzKN4cCpFzuV) | 3:57 |
+| 33 | [Deep Silent Complete](https://open.spotify.com/track/3Fba4XIaDBLFfKrOcsBjsY) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Wishmaster](https://open.spotify.com/album/2St6O6fVAYqzKN4cCpFzuV) | 3:57 |
+| 34 | [Weak Fantasy](https://open.spotify.com/track/3POMZFPzYbV6rYXJN1ozXW) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Endless Forms Most Beautiful \(Deluxe Version\)](https://open.spotify.com/album/1tVEWlyn2nsAke3Lp7HoZ0) | 5:24 |
 | 35 | [The Islander](https://open.spotify.com/track/7DCLfDduecRwxLkcLUY2kQ) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Dark Passion Play](https://open.spotify.com/album/33knvUBRR5ekNBrtLqQVTD) | 5:05 |
-| 36 | [Escapist](https://open.spotify.com/track/66X2i4bMFJB9zGgff9gyzq) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Bye Bye Beautiful](https://open.spotify.com/album/4qomktB4Z9mQVPm42eEYwd) | 5:01 |
-| 37 | [Shoemaker](https://open.spotify.com/track/5xITcnqoMdILDBNCwHGr5v) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [HUMAN\. :II: NATURE.](https://open.spotify.com/album/1iSsdlURK7CGUVlcz4M5Li) | 5:19 |
+| 36 | [Shoemaker](https://open.spotify.com/track/5xITcnqoMdILDBNCwHGr5v) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [HUMAN\. :II: NATURE.](https://open.spotify.com/album/1iSsdlURK7CGUVlcz4M5Li) | 5:19 |
+| 37 | [Escapist](https://open.spotify.com/track/66X2i4bMFJB9zGgff9gyzq) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Bye Bye Beautiful](https://open.spotify.com/album/4qomktB4Z9mQVPm42eEYwd) | 5:01 |
 | 38 | [Come Cover Me](https://open.spotify.com/track/1RSKK7hj4emItvmh45crcX) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Wishmaster](https://open.spotify.com/album/2St6O6fVAYqzKN4cCpFzuV) | 4:34 |
 | 39 | [Cadence of Her Last Breath](https://open.spotify.com/track/6vKMOm5QSNNIVd73VfSxuy) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Dark Passion Play](https://open.spotify.com/album/33knvUBRR5ekNBrtLqQVTD) | 4:14 |
 | 40 | [Where Were You Last Night](https://open.spotify.com/track/1BZ2yeGFtYN0Sk5yrgvMdk) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Wish I Had an Angel](https://open.spotify.com/album/2l0KYO3zjZtfFzls7rSPA7) | 3:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1C7dIs.md) - [plain]
 | 49 | [The Antikythera Mechanism](https://open.spotify.com/track/3CJ3Bbq0nUh8lFt1hHUI1K) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Yesterwynde](https://open.spotify.com/album/39CVUoSmw8915LRClkNH0o) | 5:55 |
 | 50 | [Tribal](https://open.spotify.com/track/5tN4bKhtt6klkkB0GVt9i1) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [HUMAN\. :II: NATURE.](https://open.spotify.com/album/1iSsdlURK7CGUVlcz4M5Li) | 3:56 |
 
-Snapshot ID: `afU+gAAAAABpimvfwtQPZodhEteg8PNS`
+Snapshot ID: `afaQAAAAAAD5uYOL0ZH6kJBApmgo/L5/`

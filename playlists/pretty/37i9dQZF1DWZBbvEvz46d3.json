@@ -1,6 +1,6 @@
 {
   "description": "Nowe przeboje i ponadczasowe klasyki o  mi\u0142o\u015bci. Tylko po polsku.",
-  "num_followers": 75323,
+  "num_followers": 75337,
   "original_name": "Polskie hity o mi\u0142o\u015bci",
   "owner": {
     "name": "Spotify",
@@ -499,6 +499,22 @@
     {
       "added_at": "2025-10-16 09:34:51",
       "album": {
+        "name": "Pi\u0142a tango",
+        "url": "https://open.spotify.com/album/1TkJO8CCaeMHvEU4ybrmgx"
+      },
+      "artists": [
+        {
+          "name": "Strachy Na Lachy",
+          "url": "https://open.spotify.com/artist/4DXXg7xzgKAEYeFhh9wAtk"
+        }
+      ],
+      "duration_ms": 201733,
+      "name": "Dzie\u0144 dobry, kocham Ci\u0119",
+      "url": "https://open.spotify.com/track/6FBPQuYFZIne5cpTASUOGR"
+    },
+    {
+      "added_at": "2025-10-16 09:34:51",
+      "album": {
         "name": "Porady Na Zdrady [Dreszcze]",
         "url": "https://open.spotify.com/album/3XC6o7PTm3SiamWBrYVo82"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 210662,
       "name": "Porady Na Zdrady [Dreszcze]",
       "url": "https://open.spotify.com/track/5MVK9Up4ORQdmOdBuk0MIy"
-    },
-    {
-      "added_at": "2025-10-16 09:34:51",
-      "album": {
-        "name": "Kr\u00f3lowa dram",
-        "url": "https://open.spotify.com/album/57y8HhpAZJ7SkeetSXvTya"
-      },
-      "artists": [
-        {
-          "name": "sanah",
-          "url": "https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE"
-        }
-      ],
-      "duration_ms": 183339,
-      "name": "Melodia",
-      "url": "https://open.spotify.com/track/3xlk3SVStmEGEWx5FtqpkW"
     },
     {
       "added_at": "2025-10-16 09:34:51",
@@ -551,18 +551,18 @@
     {
       "added_at": "2025-10-16 09:34:51",
       "album": {
-        "name": "Pi\u0142a tango",
-        "url": "https://open.spotify.com/album/1TkJO8CCaeMHvEU4ybrmgx"
+        "name": "Kr\u00f3lowa dram",
+        "url": "https://open.spotify.com/album/57y8HhpAZJ7SkeetSXvTya"
       },
       "artists": [
         {
-          "name": "Strachy Na Lachy",
-          "url": "https://open.spotify.com/artist/4DXXg7xzgKAEYeFhh9wAtk"
+          "name": "sanah",
+          "url": "https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE"
         }
       ],
-      "duration_ms": 201733,
-      "name": "Dzie\u0144 dobry, kocham Ci\u0119",
-      "url": "https://open.spotify.com/track/6FBPQuYFZIne5cpTASUOGR"
+      "duration_ms": 183339,
+      "name": "Melodia",
+      "url": "https://open.spotify.com/track/3xlk3SVStmEGEWx5FtqpkW"
     },
     {
       "added_at": "2025-10-16 09:34:51",
@@ -743,42 +743,6 @@
     {
       "added_at": "2025-10-16 09:34:51",
       "album": {
-        "name": "Wkr\u0119ceni nie ufaj mi",
-        "url": "https://open.spotify.com/album/6LrjH2C1uuYPgqktMpKcWU"
-      },
-      "artists": [
-        {
-          "name": "Igor Herbut",
-          "url": "https://open.spotify.com/artist/5KTMtd3GnDdcWnwxcEBwKX"
-        }
-      ],
-      "duration_ms": 178725,
-      "name": "Wkr\u0119ceni nie ufaj mi",
-      "url": "https://open.spotify.com/track/4Wjdk72dzEOynrdTQGBac8"
-    },
-    {
-      "added_at": "2025-10-16 09:34:51",
-      "album": {
-        "name": "Marek Grechuta - 40 piosenek",
-        "url": "https://open.spotify.com/album/08N6LcpBklQjvbUHTghAvR"
-      },
-      "artists": [
-        {
-          "name": "Marek Grechuta",
-          "url": "https://open.spotify.com/artist/0MGE7m2KV6Db6jOZFy93aD"
-        },
-        {
-          "name": "Anawa",
-          "url": "https://open.spotify.com/artist/6bbsYS6Md0rRnPuIUCyMZ8"
-        }
-      ],
-      "duration_ms": 104733,
-      "name": "B\u0119dziesz moj\u0105 pani\u0105",
-      "url": "https://open.spotify.com/track/34BMY6d2POkFLERCJPOrlS"
-    },
-    {
-      "added_at": "2025-10-16 09:34:51",
-      "album": {
         "name": "Album",
         "url": "https://open.spotify.com/album/4oZuI7SK8SQekemwxiX71E"
       },
@@ -791,6 +755,38 @@
       "duration_ms": 209213,
       "name": "Miales Byc",
       "url": "https://open.spotify.com/track/7aKwFVDQG0MUBX41I5esiU"
+    },
+    {
+      "added_at": "2025-10-16 09:34:51",
+      "album": {
+        "name": "P\u00f3ki to nie zabronione (The Best)",
+        "url": "https://open.spotify.com/album/7xCZKYPaLXg3G23Ci7a71V"
+      },
+      "artists": [
+        {
+          "name": "Kobranocka",
+          "url": "https://open.spotify.com/artist/55bqpWJMazkqj8A3iziuuF"
+        }
+      ],
+      "duration_ms": 294066,
+      "name": "Kocham ci\u0119 jak irlandi\u0119",
+      "url": "https://open.spotify.com/track/4fJGiLOU3etMQTOE3HFIEz"
+    },
+    {
+      "added_at": "2025-10-16 09:34:51",
+      "album": {
+        "name": "Wkr\u0119ceni nie ufaj mi",
+        "url": "https://open.spotify.com/album/6LrjH2C1uuYPgqktMpKcWU"
+      },
+      "artists": [
+        {
+          "name": "Igor Herbut",
+          "url": "https://open.spotify.com/artist/5KTMtd3GnDdcWnwxcEBwKX"
+        }
+      ],
+      "duration_ms": 178725,
+      "name": "Wkr\u0119ceni nie ufaj mi",
+      "url": "https://open.spotify.com/track/4Wjdk72dzEOynrdTQGBac8"
     },
     {
       "added_at": "2025-10-16 09:34:51",
@@ -815,6 +811,26 @@
     {
       "added_at": "2025-10-16 09:34:51",
       "album": {
+        "name": "Marek Grechuta - 40 piosenek",
+        "url": "https://open.spotify.com/album/08N6LcpBklQjvbUHTghAvR"
+      },
+      "artists": [
+        {
+          "name": "Marek Grechuta",
+          "url": "https://open.spotify.com/artist/0MGE7m2KV6Db6jOZFy93aD"
+        },
+        {
+          "name": "Anawa",
+          "url": "https://open.spotify.com/artist/6bbsYS6Md0rRnPuIUCyMZ8"
+        }
+      ],
+      "duration_ms": 104733,
+      "name": "B\u0119dziesz moj\u0105 pani\u0105",
+      "url": "https://open.spotify.com/track/34BMY6d2POkFLERCJPOrlS"
+    },
+    {
+      "added_at": "2025-10-16 09:34:51",
+      "album": {
         "name": "Nic dwa razy (W. Szymborska)",
         "url": "https://open.spotify.com/album/3gZB6h09sZvWlhzZaqtf6t"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 189000,
       "name": "Nic dwa razy (W. Szymborska)",
       "url": "https://open.spotify.com/track/6C5A0xV8tvW8NqzLUb2xt1"
-    },
-    {
-      "added_at": "2025-10-16 09:34:51",
-      "album": {
-        "name": "P\u00f3ki to nie zabronione (The Best)",
-        "url": "https://open.spotify.com/album/7xCZKYPaLXg3G23Ci7a71V"
-      },
-      "artists": [
-        {
-          "name": "Kobranocka",
-          "url": "https://open.spotify.com/artist/55bqpWJMazkqj8A3iziuuF"
-        }
-      ],
-      "duration_ms": 294066,
-      "name": "Kocham ci\u0119 jak irlandi\u0119",
-      "url": "https://open.spotify.com/track/4fJGiLOU3etMQTOE3HFIEz"
     },
     {
       "added_at": "2025-10-16 09:34:51",
@@ -915,22 +915,6 @@
     {
       "added_at": "2025-10-16 09:34:51",
       "album": {
-        "name": "Ma\u0142omiasteczkowy",
-        "url": "https://open.spotify.com/album/00hXe7ttZI4gjjWYqKAdMX"
-      },
-      "artists": [
-        {
-          "name": "Dawid Podsiad\u0142o",
-          "url": "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
-        }
-      ],
-      "duration_ms": 195666,
-      "name": "Nie K\u0142ami",
-      "url": "https://open.spotify.com/track/3FwWzOCkDwhu1RWTz3CSxJ"
-    },
-    {
-      "added_at": "2025-10-16 09:34:51",
-      "album": {
         "name": "Z calych sil",
         "url": "https://open.spotify.com/album/1Z5Ny1o2bml9NXWuJTXafj"
       },
@@ -951,18 +935,18 @@
     {
       "added_at": "2025-10-16 09:34:51",
       "album": {
-        "name": "Mi\u0142o\u015b\u0107 w czasach popkultury",
-        "url": "https://open.spotify.com/album/7A0cDRZUQt4GhpSrMSfUcQ"
+        "name": "Ma\u0142omiasteczkowy",
+        "url": "https://open.spotify.com/album/00hXe7ttZI4gjjWYqKAdMX"
       },
       "artists": [
         {
-          "name": "Myslovitz",
-          "url": "https://open.spotify.com/artist/3sntDD4Y2K97qvDq3GPqZ5"
+          "name": "Dawid Podsiad\u0142o",
+          "url": "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
         }
       ],
-      "duration_ms": 206186,
-      "name": "My",
-      "url": "https://open.spotify.com/track/7JwyKyBWo65WaJA6zcYxjR"
+      "duration_ms": 195666,
+      "name": "Nie K\u0142ami",
+      "url": "https://open.spotify.com/track/3FwWzOCkDwhu1RWTz3CSxJ"
     },
     {
       "added_at": "2025-10-16 09:34:51",
@@ -979,6 +963,22 @@
       "duration_ms": 369200,
       "name": "Jedwab",
       "url": "https://open.spotify.com/track/5RDEUTUghR62DSvrjWvLNn"
+    },
+    {
+      "added_at": "2025-10-16 09:34:51",
+      "album": {
+        "name": "Mi\u0142o\u015b\u0107 w czasach popkultury",
+        "url": "https://open.spotify.com/album/7A0cDRZUQt4GhpSrMSfUcQ"
+      },
+      "artists": [
+        {
+          "name": "Myslovitz",
+          "url": "https://open.spotify.com/artist/3sntDD4Y2K97qvDq3GPqZ5"
+        }
+      ],
+      "duration_ms": 206186,
+      "name": "My",
+      "url": "https://open.spotify.com/track/7JwyKyBWo65WaJA6zcYxjR"
     },
     {
       "added_at": "2025-10-16 09:34:51",
@@ -1019,6 +1019,38 @@
     {
       "added_at": "2025-10-16 09:34:51",
       "album": {
+        "name": "Moje piosenki edycja zwykla",
+        "url": "https://open.spotify.com/album/4Wcm5yNUmX3UTH28KsZUtj"
+      },
+      "artists": [
+        {
+          "name": "Brodka",
+          "url": "https://open.spotify.com/artist/4D22jVMhvZgzvt8Hh9AcKY"
+        }
+      ],
+      "duration_ms": 203480,
+      "name": "Znam cie na pamiec",
+      "url": "https://open.spotify.com/track/4Wa9xLwIOdletdE8tBZKp5"
+    },
+    {
+      "added_at": "2025-10-16 09:34:51",
+      "album": {
+        "name": "Nasz Film (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3x8ju0GxwF7NLPgPjAIS4T"
+      },
+      "artists": [
+        {
+          "name": "Antek Smykiewicz",
+          "url": "https://open.spotify.com/artist/6JMMItXorCRjzNQeGDd863"
+        }
+      ],
+      "duration_ms": 202127,
+      "name": "Pomimo Burz",
+      "url": "https://open.spotify.com/track/0Xu1HbWgsThPFbZpWs472M"
+    },
+    {
+      "added_at": "2025-10-16 09:34:51",
+      "album": {
         "name": "Smak Sl\u00f3w",
         "url": "https://open.spotify.com/album/1RIh9Iefgwd46J99dRnTez"
       },
@@ -1035,18 +1067,34 @@
     {
       "added_at": "2025-10-16 09:34:51",
       "album": {
-        "name": "Moje piosenki edycja zwykla",
-        "url": "https://open.spotify.com/album/4Wcm5yNUmX3UTH28KsZUtj"
+        "name": "Osobista kolekcja 2",
+        "url": "https://open.spotify.com/album/7g9OXZbrJyAkeYv7VWR9wh"
       },
       "artists": [
         {
-          "name": "Brodka",
-          "url": "https://open.spotify.com/artist/4D22jVMhvZgzvt8Hh9AcKY"
+          "name": "Krystyna Pro\u0144ko",
+          "url": "https://open.spotify.com/artist/4SCH2LpYYD5iKpc1xtDJ4Y"
         }
       ],
-      "duration_ms": 203480,
-      "name": "Znam cie na pamiec",
-      "url": "https://open.spotify.com/track/4Wa9xLwIOdletdE8tBZKp5"
+      "duration_ms": 280737,
+      "name": "Jeste\u015b lekiem na ca\u0142e z\u0142o - 1994",
+      "url": "https://open.spotify.com/track/6hqftK2O6t2sI5AmwLhnLs"
+    },
+    {
+      "added_at": "2025-10-16 09:34:51",
+      "album": {
+        "name": "Perfect",
+        "url": "https://open.spotify.com/album/4ZKi2ftayn5Qv9SmXTIGAb"
+      },
+      "artists": [
+        {
+          "name": "Perfect",
+          "url": "https://open.spotify.com/artist/16UXmC2zY5ECiptfegWxFQ"
+        }
+      ],
+      "duration_ms": 223200,
+      "name": "Niewiele Ci Mog\u0119 Da\u0107",
+      "url": "https://open.spotify.com/track/2h37uUs82DHQglGauJkMRD"
     },
     {
       "added_at": "2025-10-16 09:34:51",
@@ -1083,22 +1131,6 @@
     {
       "added_at": "2025-10-16 09:34:51",
       "album": {
-        "name": "Nasz Film (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3x8ju0GxwF7NLPgPjAIS4T"
-      },
-      "artists": [
-        {
-          "name": "Antek Smykiewicz",
-          "url": "https://open.spotify.com/artist/6JMMItXorCRjzNQeGDd863"
-        }
-      ],
-      "duration_ms": 202127,
-      "name": "Pomimo Burz",
-      "url": "https://open.spotify.com/track/0Xu1HbWgsThPFbZpWs472M"
-    },
-    {
-      "added_at": "2025-10-16 09:34:51",
-      "album": {
         "name": "Monkey Business",
         "url": "https://open.spotify.com/album/5Ig1N32hUUC4dZFltNQtjb"
       },
@@ -1111,22 +1143,6 @@
       "duration_ms": 180394,
       "name": "Byle jak",
       "url": "https://open.spotify.com/track/6cdL3GhIlJZaAXo4Khijwg"
-    },
-    {
-      "added_at": "2025-10-16 09:34:51",
-      "album": {
-        "name": "Osobista kolekcja 2",
-        "url": "https://open.spotify.com/album/7g9OXZbrJyAkeYv7VWR9wh"
-      },
-      "artists": [
-        {
-          "name": "Krystyna Pro\u0144ko",
-          "url": "https://open.spotify.com/artist/4SCH2LpYYD5iKpc1xtDJ4Y"
-        }
-      ],
-      "duration_ms": 280737,
-      "name": "Jeste\u015b lekiem na ca\u0142e z\u0142o - 1994",
-      "url": "https://open.spotify.com/track/6hqftK2O6t2sI5AmwLhnLs"
     },
     {
       "added_at": "2025-10-16 09:34:51",
@@ -1147,22 +1163,6 @@
       "duration_ms": 249046,
       "name": "Zabierz t\u0119 mi\u0142o\u015b\u0107 (Storytel \"Random\")",
       "url": "https://open.spotify.com/track/25vX1mMJilMWIc5Ht6hkGj"
-    },
-    {
-      "added_at": "2025-10-16 09:34:51",
-      "album": {
-        "name": "Perfect",
-        "url": "https://open.spotify.com/album/4ZKi2ftayn5Qv9SmXTIGAb"
-      },
-      "artists": [
-        {
-          "name": "Perfect",
-          "url": "https://open.spotify.com/artist/16UXmC2zY5ECiptfegWxFQ"
-        }
-      ],
-      "duration_ms": 223200,
-      "name": "Niewiele Ci Mog\u0119 Da\u0107",
-      "url": "https://open.spotify.com/track/2h37uUs82DHQglGauJkMRD"
     },
     {
       "added_at": "2025-10-16 09:34:51",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2025-10-16 09:34:51",
       "album": {
-        "name": "M\u00f3j dom",
-        "url": "https://open.spotify.com/album/6j3XzrGQ3yatMc9hqAM5DJ"
-      },
-      "artists": [
-        {
-          "name": "Kortez",
-          "url": "https://open.spotify.com/artist/6o7xoNMeAUgi1SVl9rHYNk"
-        }
-      ],
-      "duration_ms": 251540,
-      "name": "Dobry moment",
-      "url": "https://open.spotify.com/track/7KXirs6fb0RDI8Q4DK6naY"
-    },
-    {
-      "added_at": "2025-10-16 09:34:51",
-      "album": {
         "name": "Kayah & Bregovic",
         "url": "https://open.spotify.com/album/20ewUNNrxkKjMgNd2Ax7lX"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 271760,
       "name": "\u015apij Kochanie \u015apij",
       "url": "https://open.spotify.com/track/77ppwEoKPhNZx8h3Nskr7H"
+    },
+    {
+      "added_at": "2025-10-16 09:34:51",
+      "album": {
+        "name": "M\u00f3j dom",
+        "url": "https://open.spotify.com/album/6j3XzrGQ3yatMc9hqAM5DJ"
+      },
+      "artists": [
+        {
+          "name": "Kortez",
+          "url": "https://open.spotify.com/artist/6o7xoNMeAUgi1SVl9rHYNk"
+        }
+      ],
+      "duration_ms": 251540,
+      "name": "Dobry moment",
+      "url": "https://open.spotify.com/track/7KXirs6fb0RDI8Q4DK6naY"
     },
     {
       "added_at": "2025-10-16 09:34:51",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2025-10-16 09:34:51",
       "album": {
+        "name": "\u015awiat si\u0119 pomyli\u0142",
+        "url": "https://open.spotify.com/album/1HUlehVstUZpB4DenSLVTf"
+      },
+      "artists": [
+        {
+          "name": "Patrycja Markowska",
+          "url": "https://open.spotify.com/artist/0Jl6TFKAJR7zIv2kvA1RNf"
+        }
+      ],
+      "duration_ms": 210333,
+      "name": "\u015awiat si\u0119 pomyli\u0142",
+      "url": "https://open.spotify.com/track/3o9ZcjNqDxa6HGdHew2AaH"
+    },
+    {
+      "added_at": "2025-10-16 09:34:51",
+      "album": {
         "name": "M\u00f3j dom",
         "url": "https://open.spotify.com/album/6j3XzrGQ3yatMc9hqAM5DJ"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 212915,
       "name": "Dobrze, \u017ce Ci\u0119 mam",
       "url": "https://open.spotify.com/track/3zkRnBtA9RYxjkwEdDdfXF"
-    },
-    {
-      "added_at": "2025-10-16 09:34:51",
-      "album": {
-        "name": "Prawda o nas",
-        "url": "https://open.spotify.com/album/1x8GzWSyYrqK2HPwSFAYXc"
-      },
-      "artists": [
-        {
-          "name": "Sylwia Grzeszczak",
-          "url": "https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS"
-        }
-      ],
-      "duration_ms": 195789,
-      "name": "Prawda o nas",
-      "url": "https://open.spotify.com/track/5KTFOn80Y1tHAmBBb39sw9"
     }
   ],
   "unique_name": "Polskie hity o mi\u0142o\u015bci",

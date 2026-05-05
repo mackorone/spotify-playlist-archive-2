@@ -1,6 +1,6 @@
 {
   "description": "\u00bfQu\u00e9 es lo que est\u00e1 pasando? \u00bfAmor o Desamor?",
-  "num_followers": 350592,
+  "num_followers": 350604,
   "original_name": "Amor y Desamor",
   "owner": {
     "name": "Spotify",
@@ -207,6 +207,22 @@
     {
       "added_at": "2026-03-06 03:00:20",
       "album": {
+        "name": "Un D\u00eda Normal",
+        "url": "https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 205373,
+      "name": "A Dios Le Pido",
+      "url": "https://open.spotify.com/track/129lYDVKnWtlJc2PZJviuA"
+    },
+    {
+      "added_at": "2026-03-06 03:00:20",
+      "album": {
         "name": "Tanto (Edici\u00f3n Premium)",
         "url": "https://open.spotify.com/album/7kA3hvV7UjgnA5uiUBxwlN"
       },
@@ -223,22 +239,6 @@
       "duration_ms": 233895,
       "name": "D\u00f3nde est\u00e1 el amor (feat. Jesse & Joy)",
       "url": "https://open.spotify.com/track/0CjaLvAqN97KPVWgOJ1vbD"
-    },
-    {
-      "added_at": "2026-03-06 03:00:20",
-      "album": {
-        "name": "Un D\u00eda Normal",
-        "url": "https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 205373,
-      "name": "A Dios Le Pido",
-      "url": "https://open.spotify.com/track/129lYDVKnWtlJc2PZJviuA"
     },
     {
       "added_at": "2026-03-06 03:00:20",
@@ -359,22 +359,6 @@
     {
       "added_at": "2026-03-06 03:00:20",
       "album": {
-        "name": "Besame",
-        "url": "https://open.spotify.com/album/0Q8YqUymZLPDwUwfAHqZHg"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Montaner",
-          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
-        }
-      ],
-      "duration_ms": 236080,
-      "name": "B\u00e9same",
-      "url": "https://open.spotify.com/track/15eXfjBk8M8L0aKJXe5YnG"
-    },
-    {
-      "added_at": "2026-03-06 03:00:20",
-      "album": {
         "name": "Rebelde",
         "url": "https://open.spotify.com/album/5wvatwGTc0zWIx3dBQadaj"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 224973,
       "name": "S\u00e1lvame",
       "url": "https://open.spotify.com/track/3hbTkJ0yFzHbawnKyhvTQj"
+    },
+    {
+      "added_at": "2026-03-06 03:00:20",
+      "album": {
+        "name": "Besame",
+        "url": "https://open.spotify.com/album/0Q8YqUymZLPDwUwfAHqZHg"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Montaner",
+          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
+        }
+      ],
+      "duration_ms": 236080,
+      "name": "B\u00e9same",
+      "url": "https://open.spotify.com/track/15eXfjBk8M8L0aKJXe5YnG"
     },
     {
       "added_at": "2026-03-06 03:00:20",
@@ -463,22 +463,6 @@
     {
       "added_at": "2026-03-06 03:00:20",
       "album": {
-        "name": "Ricardo Montaner Con La London Metropolitan Orchestra",
-        "url": "https://open.spotify.com/album/7dI1jAbtx6nFn2rcQKVPFE"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Montaner",
-          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
-        }
-      ],
-      "duration_ms": 289866,
-      "name": "Tan Enamorados",
-      "url": "https://open.spotify.com/track/5kxol5m6MfiJgahqyzbDRH"
-    },
-    {
-      "added_at": "2026-03-06 03:00:20",
-      "album": {
         "name": "La Vida Es Un Ratico",
         "url": "https://open.spotify.com/album/0TFz2Xw2kzFlcYFGetcCMY"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 192613,
       "name": "Me Enamora",
       "url": "https://open.spotify.com/track/5BY0p2EH4EznNZ0MFD9mjt"
+    },
+    {
+      "added_at": "2026-03-06 03:00:20",
+      "album": {
+        "name": "Ricardo Montaner Con La London Metropolitan Orchestra",
+        "url": "https://open.spotify.com/album/7dI1jAbtx6nFn2rcQKVPFE"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Montaner",
+          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
+        }
+      ],
+      "duration_ms": 289866,
+      "name": "Tan Enamorados",
+      "url": "https://open.spotify.com/track/5kxol5m6MfiJgahqyzbDRH"
     },
     {
       "added_at": "2026-03-06 03:00:20",
@@ -547,22 +547,6 @@
     {
       "added_at": "2026-03-06 03:00:20",
       "album": {
-        "name": "Dejarte De Amar",
-        "url": "https://open.spotify.com/album/0MPMiyavAbARflBlNGjIA6"
-      },
-      "artists": [
-        {
-          "name": "Camila",
-          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
-        }
-      ],
-      "duration_ms": 252293,
-      "name": "B\u00e9same",
-      "url": "https://open.spotify.com/track/4LjyEL2sAQU7QZPC6GuTf6"
-    },
-    {
-      "added_at": "2026-03-06 03:00:20",
-      "album": {
         "name": "Dreaming Of You",
         "url": "https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 314866,
       "name": "Dreaming Of You",
       "url": "https://open.spotify.com/track/5EL8hqM8YQJHKKnzGdahly"
+    },
+    {
+      "added_at": "2026-03-06 03:00:20",
+      "album": {
+        "name": "Dejarte De Amar",
+        "url": "https://open.spotify.com/album/0MPMiyavAbARflBlNGjIA6"
+      },
+      "artists": [
+        {
+          "name": "Camila",
+          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
+        }
+      ],
+      "duration_ms": 252293,
+      "name": "B\u00e9same",
+      "url": "https://open.spotify.com/track/4LjyEL2sAQU7QZPC6GuTf6"
     },
     {
       "added_at": "2026-03-06 03:00:20",
@@ -627,22 +627,6 @@
     {
       "added_at": "2026-03-06 03:00:20",
       "album": {
-        "name": "Simplemente",
-        "url": "https://open.spotify.com/album/5ktMfzQRYlQawZcnmIB1VW"
-      },
-      "artists": [
-        {
-          "name": "Chayanne",
-          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
-        }
-      ],
-      "duration_ms": 288946,
-      "name": "Yo Te Amo",
-      "url": "https://open.spotify.com/track/2sKo5u6IppUEudIz265wYa"
-    },
-    {
-      "added_at": "2026-03-06 03:00:20",
-      "album": {
         "name": "La Leyenda (Version Super Deluxe)",
         "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 263600,
       "name": "Heroe",
       "url": "https://open.spotify.com/track/4AkrkORGjiz7c90mwxAvdW"
+    },
+    {
+      "added_at": "2026-03-06 03:00:20",
+      "album": {
+        "name": "Simplemente",
+        "url": "https://open.spotify.com/album/5ktMfzQRYlQawZcnmIB1VW"
+      },
+      "artists": [
+        {
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+        }
+      ],
+      "duration_ms": 288946,
+      "name": "Yo Te Amo",
+      "url": "https://open.spotify.com/track/2sKo5u6IppUEudIz265wYa"
     },
     {
       "added_at": "2026-03-06 03:00:20",
@@ -771,22 +771,6 @@
     {
       "added_at": "2026-03-06 03:00:20",
       "album": {
-        "name": "CUARTO AZUL",
-        "url": "https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M"
-      },
-      "artists": [
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        }
-      ],
-      "duration_ms": 185869,
-      "name": "CUANDO HABLES CON \u00c9L",
-      "url": "https://open.spotify.com/track/3HwOh611McmotNJOLEb66y"
-    },
-    {
-      "added_at": "2026-03-06 03:00:20",
-      "album": {
         "name": "Tierra De Nadie",
         "url": "https://open.spotify.com/album/3gV3uvJ1HSYVM88Tsh1DHi"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 188040,
       "name": "Gotas De Agua Dulce",
       "url": "https://open.spotify.com/track/0Xn1VqBjoL4PAGxyatEO0Z"
+    },
+    {
+      "added_at": "2026-03-06 03:00:20",
+      "album": {
+        "name": "CUARTO AZUL",
+        "url": "https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "duration_ms": 185869,
+      "name": "CUANDO HABLES CON \u00c9L",
+      "url": "https://open.spotify.com/track/3HwOh611McmotNJOLEb66y"
     },
     {
       "added_at": "2026-03-06 03:00:20",
@@ -855,26 +855,6 @@
     {
       "added_at": "2026-03-06 03:00:20",
       "album": {
-        "name": "Supernatural (Remastered)",
-        "url": "https://open.spotify.com/album/10aiDpdFGyfCFEcqpx6XTq"
-      },
-      "artists": [
-        {
-          "name": "Santana",
-          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
-        },
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        }
-      ],
-      "duration_ms": 274773,
-      "name": "Corazon Espinado (feat. Mana)",
-      "url": "https://open.spotify.com/track/2WoqgtWEBbbBKMDN6Becs7"
-    },
-    {
-      "added_at": "2026-03-06 03:00:20",
-      "album": {
         "name": "Lo Esencial De Ana Gabriel",
         "url": "https://open.spotify.com/album/2bdaZKWu05LqbN8OwJtuPZ"
       },
@@ -895,6 +875,26 @@
     {
       "added_at": "2026-03-06 03:00:20",
       "album": {
+        "name": "Supernatural (Remastered)",
+        "url": "https://open.spotify.com/album/10aiDpdFGyfCFEcqpx6XTq"
+      },
+      "artists": [
+        {
+          "name": "Santana",
+          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
+        },
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        }
+      ],
+      "duration_ms": 274773,
+      "name": "Corazon Espinado (feat. Mana)",
+      "url": "https://open.spotify.com/track/2WoqgtWEBbbBKMDN6Becs7"
+    },
+    {
+      "added_at": "2026-03-06 03:00:20",
+      "album": {
         "name": "Galeria Caribe",
         "url": "https://open.spotify.com/album/3Pido82I7SgITS8LDABA7y"
       },
@@ -907,38 +907,6 @@
       "duration_ms": 274000,
       "name": "Cu\u00e1ndo",
       "url": "https://open.spotify.com/track/40RI3qFVisaEy0HC49LMkz"
-    },
-    {
-      "added_at": "2026-03-06 03:00:20",
-      "album": {
-        "name": "3 A.M. (Deluxe)",
-        "url": "https://open.spotify.com/album/2zx3DYhlTX0ALhbEDUnbnA"
-      },
-      "artists": [
-        {
-          "name": "Cali Y El Dandee",
-          "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
-        }
-      ],
-      "duration_ms": 213466,
-      "name": "No Digas Nada (D\u00e9j\u00e0 Vu)",
-      "url": "https://open.spotify.com/track/3DhD3hWyou0QluBBTSiBC5"
-    },
-    {
-      "added_at": "2026-03-06 03:00:20",
-      "album": {
-        "name": "Todo Cambio",
-        "url": "https://open.spotify.com/album/7dTSfhp5okEjaYXp38LwVf"
-      },
-      "artists": [
-        {
-          "name": "Camila",
-          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
-        }
-      ],
-      "duration_ms": 230720,
-      "name": "Abr\u00e1zame",
-      "url": "https://open.spotify.com/track/6rCyXpDwlMf1GH2qlpjJWv"
     },
     {
       "added_at": "2026-03-06 03:00:20",
@@ -959,6 +927,38 @@
     {
       "added_at": "2026-03-06 03:00:20",
       "album": {
+        "name": "Todo Cambio",
+        "url": "https://open.spotify.com/album/7dTSfhp5okEjaYXp38LwVf"
+      },
+      "artists": [
+        {
+          "name": "Camila",
+          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
+        }
+      ],
+      "duration_ms": 230720,
+      "name": "Abr\u00e1zame",
+      "url": "https://open.spotify.com/track/6rCyXpDwlMf1GH2qlpjJWv"
+    },
+    {
+      "added_at": "2026-03-06 03:00:20",
+      "album": {
+        "name": "3 A.M. (Deluxe)",
+        "url": "https://open.spotify.com/album/2zx3DYhlTX0ALhbEDUnbnA"
+      },
+      "artists": [
+        {
+          "name": "Cali Y El Dandee",
+          "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
+        }
+      ],
+      "duration_ms": 213466,
+      "name": "No Digas Nada (D\u00e9j\u00e0 Vu)",
+      "url": "https://open.spotify.com/track/3DhD3hWyou0QluBBTSiBC5"
+    },
+    {
+      "added_at": "2026-03-06 03:00:20",
+      "album": {
         "name": "CORAZ\u00d3N VAC\u00cdO",
         "url": "https://open.spotify.com/album/3YBQyY0Bj7bpxj0VHAse0P"
       },
@@ -971,22 +971,6 @@
       "duration_ms": 160535,
       "name": "CORAZ\u00d3N VAC\u00cdO",
       "url": "https://open.spotify.com/track/3oNnzH6hmqIGIhJ1NcHlrh"
-    },
-    {
-      "added_at": "2026-03-06 03:00:20",
-      "album": {
-        "name": "Buler\u00eda",
-        "url": "https://open.spotify.com/album/2zsm7DcaJsvZFY8DIxPveu"
-      },
-      "artists": [
-        {
-          "name": "David Bisbal",
-          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
-        }
-      ],
-      "duration_ms": 275280,
-      "name": "Esta Ausencia",
-      "url": "https://open.spotify.com/track/0phL00aOVS9nHhvd5Vodei"
     },
     {
       "added_at": "2026-03-06 03:00:20",
@@ -1011,6 +995,22 @@
       "duration_ms": 165854,
       "name": "En La Intimidad | CROSSOVER #1",
       "url": "https://open.spotify.com/track/7w7BrPbOjF5OxChs2dxFve"
+    },
+    {
+      "added_at": "2026-03-06 03:00:20",
+      "album": {
+        "name": "Buler\u00eda",
+        "url": "https://open.spotify.com/album/2zsm7DcaJsvZFY8DIxPveu"
+      },
+      "artists": [
+        {
+          "name": "David Bisbal",
+          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
+        }
+      ],
+      "duration_ms": 275280,
+      "name": "Esta Ausencia",
+      "url": "https://open.spotify.com/track/0phL00aOVS9nHhvd5Vodei"
     },
     {
       "added_at": "2026-03-06 03:00:20",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2026-03-06 03:00:20",
       "album": {
-        "name": "Tanto (Nueva edici\u00f3n)",
-        "url": "https://open.spotify.com/album/6mRiYnPpz8qdoY91s1c4H4"
-      },
-      "artists": [
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        }
-      ],
-      "duration_ms": 247186,
-      "name": "Solamente t\u00fa",
-      "url": "https://open.spotify.com/track/7vd2YXwqxAG2BGuEUoMzGl"
-    },
-    {
-      "added_at": "2026-03-06 03:00:20",
-      "album": {
         "name": "Franco De Vita En Primera Fila",
         "url": "https://open.spotify.com/album/6IIvdAgLtisXjNnxZpBxOX"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 234040,
       "name": "Un Buen Perdedor",
       "url": "https://open.spotify.com/track/68RvCYDKtz9HR1WMR9D9VV"
+    },
+    {
+      "added_at": "2026-03-06 03:00:20",
+      "album": {
+        "name": "Tanto (Nueva edici\u00f3n)",
+        "url": "https://open.spotify.com/album/6mRiYnPpz8qdoY91s1c4H4"
+      },
+      "artists": [
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "duration_ms": 247186,
+      "name": "Solamente t\u00fa",
+      "url": "https://open.spotify.com/track/7vd2YXwqxAG2BGuEUoMzGl"
     },
     {
       "added_at": "2026-03-06 03:00:20",
@@ -1591,6 +1591,22 @@
     {
       "added_at": "2026-03-06 03:00:20",
       "album": {
+        "name": "Solo Bolero",
+        "url": "https://open.spotify.com/album/3nJmMv3vx8sLOUNiybShch"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        }
+      ],
+      "duration_ms": 283680,
+      "name": "Mentira",
+      "url": "https://open.spotify.com/track/3SmkowrAwAjGSf1SYl7cgV"
+    },
+    {
+      "added_at": "2026-03-06 03:00:20",
+      "album": {
         "name": "3 A.M. (Deluxe)",
         "url": "https://open.spotify.com/album/2zx3DYhlTX0ALhbEDUnbnA"
       },
@@ -1619,22 +1635,6 @@
       "duration_ms": 279480,
       "name": "Tal Vez",
       "url": "https://open.spotify.com/track/7dfcQMlkSp40GntNwX98Z6"
-    },
-    {
-      "added_at": "2026-03-06 03:00:20",
-      "album": {
-        "name": "Solo Bolero",
-        "url": "https://open.spotify.com/album/3nJmMv3vx8sLOUNiybShch"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
-        }
-      ],
-      "duration_ms": 283680,
-      "name": "Mentira",
-      "url": "https://open.spotify.com/track/3SmkowrAwAjGSf1SYl7cgV"
     },
     {
       "added_at": "2026-03-06 03:00:20",

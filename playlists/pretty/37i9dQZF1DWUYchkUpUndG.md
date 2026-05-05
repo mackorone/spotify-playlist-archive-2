@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: Lawrence Oyor
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,217 likes - 90 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,247 likes - 90 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,14 +19,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 9 | [Heart of Worship](https://open.spotify.com/track/24nHidYHfPkAkdhFvv9tKL) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg), [Mayo](https://open.spotify.com/artist/2vcjogMCAZpBE9uJGGDY6o) | [Heart of Worship](https://open.spotify.com/album/6EEeFZ86I2ajYjcE40tE0G) | 4:02 |
 | 10 | [My Daddy Loves Me](https://open.spotify.com/track/0h5LOYHokBrfBKHDd1S0Bf) | [Olamiji Rasheed](https://open.spotify.com/artist/797ilaBFnTzTvavwB225LX), [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [My Daddy Loves Me](https://open.spotify.com/album/3TIJApif55y5aPz885WiaL) | 5:36 |
 | 11 | [Alaye Remix](https://open.spotify.com/track/3GDmMRwwACHTvRviLADB47) | [Nimix](https://open.spotify.com/artist/3A51ku0vUmDlGshRgD7TPe), [Nolly](https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM), [Gospel Wills](https://open.spotify.com/artist/41LRL6GwikpOFVPAcCBDGr) | [Alaye Remix](https://open.spotify.com/album/2gWLnmlJoAkLCQ82DwzxyZ) | 3:43 |
-| 12 | [Ihedinmma](https://open.spotify.com/track/0gfRr5S3O8vL3XzmFxpQn9) | [Becky Ikereke](https://open.spotify.com/artist/4uXdxHseBIrIevs0nEdddk), [Yadah](https://open.spotify.com/artist/3NVaeJiV5H9k9Y67G0hI3q) | [Ihedinmma](https://open.spotify.com/album/5DUbTnhLGJckZDHTdqxvpF) | 4:47 |
-| 13 | [Number Moja](https://open.spotify.com/track/2CJ4148Frj191bX58vNNs3) | [Levixone](https://open.spotify.com/artist/25rO4hD9VXGMFFfK7zI5lW), [Winnie Nwagi](https://open.spotify.com/artist/6D2BPqCTzdBn26ficmaciD) | [Number Moja](https://open.spotify.com/album/3ReEtBb0JisCB2cwlaUBSd) | 3:24 |
-| 14 | [Dzina Lau \(Yahweh\) \- Live](https://open.spotify.com/track/0pNHl233SlEV7I8AcbspkQ) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL), [Brenton Brown](https://open.spotify.com/artist/3oZR0tAkfIn1YmLe1faQST) | [Dzina Lau \(Yahweh\) \[Live\]](https://open.spotify.com/album/76VQmBJ3M9JYlmQam36rl1) | 9:25 |
-| 15 | [Hosanna](https://open.spotify.com/track/0vBnlrJN3FmRWV9U8GB9iV) | [Abel Assifah](https://open.spotify.com/artist/6JYEysrMHXu1GtMBu7EcuQ) | [Hosanna](https://open.spotify.com/album/4ocbLfyenUeZfYMnrN34qQ) | 2:56 |
-| 16 | [Oshe](https://open.spotify.com/track/5ON74nqAjZj9Arbp29GZdd) | [Treasure Music](https://open.spotify.com/artist/3IB4G9sjyGDgP7CCoCvbRF) | [Oshe](https://open.spotify.com/album/7r5Pyu1cLDlTXyzlMlLP0S) | 2:35 |
-| 17 | [ON MY SIDE \- Swedish](https://open.spotify.com/track/2zfFQptLsHN1CMSlKSE3h2) | [De Stanley Brothers](https://open.spotify.com/artist/5QcpMCOrA4nVxileunNZD3), [Jennifer Ahohen](https://open.spotify.com/artist/1NU6PSMZin0oMPG1nEXdIa) | [ON MY SIDE \(world edition\)](https://open.spotify.com/album/6Nfphxl7fEW62SS8ha1ETr) | 3:12 |
-| 18 | [Nana\-Owei Mbana \- Live](https://open.spotify.com/track/2i96rQ7m2wbNViszpMPOj3) | [Mera Owili](https://open.spotify.com/artist/6ViX2ccBiy3D2ZZ6u58PmV) | [Nana\-Owei Mbana \(Live\)](https://open.spotify.com/album/4KNGV9MIjWGuxiQOvUFOhU) | 8:08 |
-| 19 | [Fire in My Praise](https://open.spotify.com/track/1M0SEfZwriCsT2zveixfF8) | [Amazing Praize](https://open.spotify.com/artist/4HbOcO4aQwRzFFqrkBVWYN), [Streams Of Joy](https://open.spotify.com/artist/74EHjGp4ALyk5ObLRfjyGK), [Pastor Jerry Eze](https://open.spotify.com/artist/5UpWOLAQgVUxzukbqKX3hn) | [Fire in My Praise](https://open.spotify.com/album/6hc12t7J6G38Yj7faj5oTA) | 3:06 |
+| 12 | [I Am Dwelling](https://open.spotify.com/track/2STjf6Gpuc2dmq9G1qDkWq) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x), [Team JDK](https://open.spotify.com/artist/1XzkTOmO9S4D7RxLIs15YM) | [Yeshua \(The Summary Of My Life\)](https://open.spotify.com/album/7dgezebPDcF3quISA1VeiS) | 5:12 |
+| 13 | [Ihedinmma](https://open.spotify.com/track/0gfRr5S3O8vL3XzmFxpQn9) | [Becky Ikereke](https://open.spotify.com/artist/4uXdxHseBIrIevs0nEdddk), [Yadah](https://open.spotify.com/artist/3NVaeJiV5H9k9Y67G0hI3q) | [Ihedinmma](https://open.spotify.com/album/5DUbTnhLGJckZDHTdqxvpF) | 4:47 |
+| 14 | [Number Moja](https://open.spotify.com/track/2CJ4148Frj191bX58vNNs3) | [Levixone](https://open.spotify.com/artist/25rO4hD9VXGMFFfK7zI5lW), [Winnie Nwagi](https://open.spotify.com/artist/6D2BPqCTzdBn26ficmaciD) | [Number Moja](https://open.spotify.com/album/3ReEtBb0JisCB2cwlaUBSd) | 3:24 |
+| 15 | [Dzina Lau \(Yahweh\) \- Live](https://open.spotify.com/track/0pNHl233SlEV7I8AcbspkQ) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL), [Brenton Brown](https://open.spotify.com/artist/3oZR0tAkfIn1YmLe1faQST) | [Dzina Lau \(Yahweh\) \[Live\]](https://open.spotify.com/album/76VQmBJ3M9JYlmQam36rl1) | 9:25 |
+| 16 | [Hosanna](https://open.spotify.com/track/0vBnlrJN3FmRWV9U8GB9iV) | [Abel Assifah](https://open.spotify.com/artist/6JYEysrMHXu1GtMBu7EcuQ) | [Hosanna](https://open.spotify.com/album/4ocbLfyenUeZfYMnrN34qQ) | 2:56 |
+| 17 | [Oshe](https://open.spotify.com/track/5ON74nqAjZj9Arbp29GZdd) | [Treasure Music](https://open.spotify.com/artist/3IB4G9sjyGDgP7CCoCvbRF) | [Oshe](https://open.spotify.com/album/7r5Pyu1cLDlTXyzlMlLP0S) | 2:35 |
+| 18 | [ON MY SIDE \- Swedish](https://open.spotify.com/track/2zfFQptLsHN1CMSlKSE3h2) | [De Stanley Brothers](https://open.spotify.com/artist/5QcpMCOrA4nVxileunNZD3), [Jennifer Ahohen](https://open.spotify.com/artist/1NU6PSMZin0oMPG1nEXdIa) | [ON MY SIDE \(world edition\)](https://open.spotify.com/album/6Nfphxl7fEW62SS8ha1ETr) | 3:12 |
+| 19 | [Nana\-Owei Mbana \- Live](https://open.spotify.com/track/2i96rQ7m2wbNViszpMPOj3) | [Mera Owili](https://open.spotify.com/artist/6ViX2ccBiy3D2ZZ6u58PmV) | [Nana\-Owei Mbana \(Live\)](https://open.spotify.com/album/4KNGV9MIjWGuxiQOvUFOhU) | 8:08 |
 | 20 | [Aanu Ni](https://open.spotify.com/track/0kFtMvrf7qRcaxqxWXLLXl) | [BisiManuel](https://open.spotify.com/artist/0Amnqd5gvxgxmuRx1cPzAO) | [AANU NI](https://open.spotify.com/album/1GcWy102O42FboFwqRdkCG) | 3:42 |
 | 21 | [Happy Song](https://open.spotify.com/track/0SO8tJC5e504QtFiZ84sqC) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe) | [Happy Song](https://open.spotify.com/album/6puwQ7UxKF00TT75wByboX) | 2:27 |
 | 22 | [Solid](https://open.spotify.com/track/2KsbEEKmylCD1c99yw0rr6) | [JessiEmma](https://open.spotify.com/artist/14wEMMRwHI6Z8Nnf3RMdZt), [Rush The High Priest](https://open.spotify.com/artist/60XHmaDa6fx5EVOImhc7n2) | [Solid](https://open.spotify.com/album/5OLGXy6xwwAexPlDXDcBpQ) | 4:03 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 89 | [Won't Be Afraid \- Live](https://open.spotify.com/track/0Semk0IGpWuBVsTx8DKlIE) | [Noel Nderitu](https://open.spotify.com/artist/7vND5ZBem26nCv1lRHx4xT) | [Won't Be Afraid \(Live\)](https://open.spotify.com/album/00lrfTA7xGNtffSl0CKGIW) | 5:46 |
 | 90 | [Do It](https://open.spotify.com/track/0AZhBdYacTr45i1NbpQgTN) | [K Praise](https://open.spotify.com/artist/73UGdLm5P1qECNSFuiP2eV) | [Do It](https://open.spotify.com/album/6ph5L3X89lQ3DHWQM0jLpj) | 4:14 |
 
-Snapshot ID: `AAAAAPGuYN0k4i2BJ6013vyJa4JdaIJh`
+Snapshot ID: `AAAAAMQ649sd6V6APntQeFZd9cUwcLt3`

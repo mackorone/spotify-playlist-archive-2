@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzD9XKRPIjnv.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0ZGETGfppBycgid9gfvgIM">Sarah Aarons</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,428 likes - 159 songs - 8 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,429 likes - 159 songs - 8 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzD9XKRPIjnv.md) - [plain]
 | 36 | [Paradise](https://open.spotify.com/track/6fOOKqQWcSy33ApU1wqkkW) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Free Spirit](https://open.spotify.com/album/6KT8x5oqZJl9CcnM66hddo) | 2:54 |
 | 37 | [Lonely](https://open.spotify.com/track/3zxLNqZoSbSr8V5emGDIU4) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Tell Me You Love Me](https://open.spotify.com/album/5Mu891tmjTbt64meovPSuf) | 4:41 |
 | 38 | [For Real This Time](https://open.spotify.com/track/1cR29lpK5mJIlajSpRqfNF) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [This Is What It Feels Like](https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at) | 3:13 |
-| 39 | [as long as you care](https://open.spotify.com/track/0GQqQ7dA7B4mcEktSZaOUp) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [as long as you care](https://open.spotify.com/album/4Fa7UBvAT9kuEMOAq2gbHm) | 3:13 |
-| 40 | [plastic palm trees](https://open.spotify.com/track/41k9KtT2dRhYr7YeA6xO9M) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/5YxG0ULdAixTrnzfo60HX4) | 2:52 |
+| 39 | [plastic palm trees](https://open.spotify.com/track/41k9KtT2dRhYr7YeA6xO9M) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/5YxG0ULdAixTrnzfo60HX4) | 2:52 |
+| 40 | [as long as you care](https://open.spotify.com/track/0GQqQ7dA7B4mcEktSZaOUp) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [as long as you care](https://open.spotify.com/album/4Fa7UBvAT9kuEMOAq2gbHm) | 3:13 |
 | 41 | [Bluffin'](https://open.spotify.com/track/42w7pX3r1TpLR0i55Ek5ND) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Free Spirit](https://open.spotify.com/album/6KT8x5oqZJl9CcnM66hddo) | 3:19 |
 | 42 | [Never Ever \(feat\. Sarah\)](https://open.spotify.com/track/0EC0IDtHw47tkwWZ5VMF8r) | [The Rubens](https://open.spotify.com/artist/2hrWpLNoJcs1EnWSXvB6JI) | [LO LA RU](https://open.spotify.com/album/7a6mqtb2gc5vM4RkfCVX7E) | 3:19 |
 | 43 | [Days On End](https://open.spotify.com/track/3pr1kknjt4upS2sDgwxAvn) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [Upstate](https://open.spotify.com/album/2XDV7BTvNQvgGaJLTHHEF9) | 3:28 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzD9XKRPIjnv.md) - [plain]
 | 71 | [Haunted House](https://open.spotify.com/track/3J0jlN9j7fpmghvALVF0Th) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Can You Afford To Lose Me?](https://open.spotify.com/album/17XDDX3RYaIu56inOJzAWO) | 2:13 |
 | 72 | [Common \(feat\. Brandi Carlile\)](https://open.spotify.com/track/4w23TYG2uP8R7pBpBexj9c) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [GIRL](https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf) | 4:05 |
 | 73 | [Chemicals](https://open.spotify.com/track/2WIxF9PM27nC3l1aNFkLMT) | [Peking Duk](https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY) | [Chemicals](https://open.spotify.com/album/1lwhfq8BkowesLrOTdZy71) | 3:12 |
-| 74 | [Something Tells Me](https://open.spotify.com/track/2qa4X6J7mNVwHZbfqk1JfG) | [Meg Mac](https://open.spotify.com/artist/4faUajx9k93O56nlmpkOuz) | [Hope](https://open.spotify.com/album/2Bmi2zZ8N7hWRQwPAZ1A0y) | 3:36 |
-| 75 | [Oblivion](https://open.spotify.com/track/1grOl5UNPBMDtrW96KbNdH) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Deadbeat](https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI) | 4:28 |
+| 74 | [Oblivion](https://open.spotify.com/track/1grOl5UNPBMDtrW96KbNdH) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Deadbeat](https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI) | 4:28 |
+| 75 | [Something Tells Me](https://open.spotify.com/track/2qa4X6J7mNVwHZbfqk1JfG) | [Meg Mac](https://open.spotify.com/artist/4faUajx9k93O56nlmpkOuz) | [Hope](https://open.spotify.com/album/2Bmi2zZ8N7hWRQwPAZ1A0y) | 3:36 |
 | 76 | [Don't Cry](https://open.spotify.com/track/0A472qovEW32nP2G0mkJoe) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Free Time](https://open.spotify.com/album/6b5iXFsc488so2TO4kUHfr) | 3:07 |
 | 77 | [Talk to Me \(feat\. Tove Styrke\)](https://open.spotify.com/track/4rjV9NFV51DrGXC2jbK2EN) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [What Comes Next](https://open.spotify.com/album/2RasvcK0I8bupLoVNuQKZv) | 3:53 |
 | 78 | [Everything To Everyone \(Intro\)](https://open.spotify.com/track/21Uc575UbMARrDbyOYG4w8) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Everything To Everyone](https://open.spotify.com/album/4Kk5hoolfW8UN6cTSo5fXJ) | 1:08 |
@@ -168,4 +168,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzD9XKRPIjnv.md) - [plain]
 | 158 | [With You Now](https://open.spotify.com/track/4kDyintdUy4pLjF8Dz1wQI) | [Jack Gray](https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw) | [Future Echo](https://open.spotify.com/album/1E5oM65g5S0QpdbAzuiPrs) | 3:36 |
 | 159 | [I'm Blue](https://open.spotify.com/track/4fxjwpYb69BFXlVDZVUnGH) | [Marlowe Wilton](https://open.spotify.com/artist/2T33g5HKf9IdpHnx0swzwY) | [I'm Blue](https://open.spotify.com/album/3dALB5GpC5arbXCUEpHNoO) | 3:03 |
 
-Snapshot ID: `AcQihgAAAAAVD6LpHijZ/RLyrKHzX37h`
+Snapshot ID: `AcQoJgAAAAAKuycyL32Nezbb+1LOg8KF`

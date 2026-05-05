@@ -3438,7 +3438,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 318906,
       "name": "Empty - Live",
       "url": "https://open.spotify.com/track/6e5NhZKh6BILKjZ8GWg03O"
@@ -5748,6 +5748,28 @@
       "duration_ms": 266351,
       "name": "Heart Cries Holy",
       "url": "https://open.spotify.com/track/5EdKhtiWCSP97UFkXoGER9"
+    },
+    {
+      "album": {
+        "name": "Heaven Come Down",
+        "url": "https://open.spotify.com/album/0Md9RADYhw5kmDD9FYVkqB"
+      },
+      "artists": [
+        {
+          "name": "Citipointe Worship",
+          "url": "https://open.spotify.com/artist/4QU2KMv8a76IHXUYruc3r2"
+        },
+        {
+          "name": "Jasmine Hodge",
+          "url": "https://open.spotify.com/artist/5SNPn3pXBfd4w1DASTztBj"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269893,
+      "name": "Heaven Come Down",
+      "url": "https://open.spotify.com/track/6FgObHYGE6rHOV4XNobSLa"
     },
     {
       "album": {

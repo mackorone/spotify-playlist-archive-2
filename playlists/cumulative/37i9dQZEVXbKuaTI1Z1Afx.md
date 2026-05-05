@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- USA.
 
-5,075 songs - 11 day 9 hr 50 min
+5,076 songs - 11 day 9 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1999,6 +1999,7 @@
 | [Hrs and Hrs](https://open.spotify.com/track/3xRH6FPVtheDyNla3T1FE7) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection](https://open.spotify.com/album/4gECm6iRIuekmp8r6HIko0) | 3:24 | 2021-12-27 | 2022-03-16 |
 | [Huapango Amor Ranchero](https://open.spotify.com/track/0luUNezZ21eKwCYJ4Rvyo0) | [La Humildad De La Musica Norteña](https://open.spotify.com/artist/0fMwbTSqDbGyg0QgpijRoE) | [Huapango Amor Ranchero](https://open.spotify.com/album/7mZtFqekgsd8vJPNNGOhND) | 3:19 | 2022-05-11 | 2022-06-03 |
 | [Hug Me](https://open.spotify.com/track/6eVM9lCmIqwGTUOoeH61Lu) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Trey Parker](https://open.spotify.com/artist/0NnoRcD3WkqC9aouHyE8YY) | [Despicable Me 3 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6kFJhsN8drSfWwL493qK0c) | 2:20 | 2022-04-06 | 2022-05-12 |
+| [Human Nature](https://open.spotify.com/track/4cgjA7B4fJBHyB9Ya2bu0t) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ) | 4:05 | 2026-05-04 |  |
 | [Hummingbird \(Metro Boomin & James Blake\)](https://open.spotify.com/track/6HexNTb392JS071DoTGo0y) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [METRO BOOMIN PRESENTS SPIDER\-MAN: ACROSS THE SPIDER\-VERSE \(SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE\)](https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ) | 5:19 | 2023-06-27 | 2023-07-05 |
 | [Hundred Mile High](https://open.spotify.com/track/12QsAlRWEyg3AB7qqPSJ4s) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Hundred Mile High](https://open.spotify.com/album/28lM7VxvsuOUVjElk0pvMr) | 2:52 | 2025-02-18 | 2025-02-26 |
 | [Hurt](https://open.spotify.com/track/5expoVGQPvXuwBBFuNGqBd) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 2:57 | 2022-08-23 | 2022-09-09 |
@@ -2217,7 +2218,7 @@
 | [Imaginary Playerz](https://open.spotify.com/track/37tH9V9YK8P9Q2oGfZjJXy) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [AM I THE DRAMA?](https://open.spotify.com/album/1LsNb6mVitbLZCxnRsbCDJ) | 3:27 | 2025-09-25 | 2025-09-28 |
 | [Impacto](https://open.spotify.com/track/5agpMV7rvg7Hf8IiX5kQXe) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR), [Lo Blondo](https://open.spotify.com/artist/7L05sfIkvxhvoCxALFHGwt) | [El Segundo Es Felino](https://open.spotify.com/album/6MKWjtAaCgbK3AXFr8FMUe) | 3:56 | 2025-01-23 | 2025-02-24 |
 | [Impose](https://open.spotify.com/track/3kMc83bWNdcaX1dmARQIII) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [Impose](https://open.spotify.com/album/0WGyY2UCxFPryMrmYYVIzR) | 4:23 | 2025-09-30 | 2025-10-08 |
-| [Impostor Syndrome](https://open.spotify.com/track/33KU9huHP1Lv1UWWVkuTYd) | [Sidney Gish](https://open.spotify.com/artist/2orBKFyc84jo9AZH5jarhI) | [No Dogs Allowed](https://open.spotify.com/album/7mXf592qrnsQ7qAvV7Aluz) | 4:54 | 2026-04-06 |  |
+| [Impostor Syndrome](https://open.spotify.com/track/33KU9huHP1Lv1UWWVkuTYd) | [Sidney Gish](https://open.spotify.com/artist/2orBKFyc84jo9AZH5jarhI) | [No Dogs Allowed](https://open.spotify.com/album/7mXf592qrnsQ7qAvV7Aluz) | 4:54 | 2026-04-06 | 2026-05-05 |
 | [Impostor Syndrome](https://open.spotify.com/track/3bpGAsjsCIMTz98E7injb2) | [Sidney Gish](https://open.spotify.com/artist/2orBKFyc84jo9AZH5jarhI) | [No Dogs Allowed](https://open.spotify.com/album/3jgktTCGathax8HKW4aGfg) | 4:54 | 2026-03-16 | 2026-04-07 |
 | [Impurities](https://open.spotify.com/track/7F0MuIk5glqtowCUjbn9es) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [ANTIFRAGILE](https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9) | 3:16 | 2022-11-20 | 2022-11-30 |
 | [In and Out](https://open.spotify.com/track/2oWaHVTGvuFk38iBRVRAaO) | [Lud Foe](https://open.spotify.com/artist/0Cu32uCaqDJYQADOev92Et) | [No Hooks](https://open.spotify.com/album/6cbmULrZWVHJ0G0P4DDWLb) | 3:59 | 2025-03-01 | 2025-04-02 |

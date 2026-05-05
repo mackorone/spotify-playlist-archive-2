@@ -647,6 +647,36 @@
     },
     {
       "album": {
+        "name": "Hey Son",
+        "url": "https://open.spotify.com/album/6wKpxhTWl6HtdreIFPSbpq"
+      },
+      "artists": [
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        },
+        {
+          "name": "MC4D",
+          "url": "https://open.spotify.com/artist/2MbY32LPINIi9P6PCkrOJI"
+        },
+        {
+          "name": "VIZE",
+          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
+        },
+        {
+          "name": "Aloe Blacc",
+          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180151,
+      "name": "Hey Son",
+      "url": "https://open.spotify.com/track/0OiNRfziXYdxP5I3ysqeuz"
+    },
+    {
+      "album": {
         "name": "Houdini",
         "url": "https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb"
       },
@@ -742,7 +772,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 161420,
       "name": "I Hate That It's True",
       "url": "https://open.spotify.com/track/6H4stZ1AHlYnKl9iii1bvF"
@@ -882,6 +912,24 @@
       "duration_ms": 150001,
       "name": "La Plena - W Sound 05",
       "url": "https://open.spotify.com/track/6iOndD4OFo7GkaDypWQIou"
+    },
+    {
+      "album": {
+        "name": "Lady (Hear Me Tonight)",
+        "url": "https://open.spotify.com/album/57SwKjLUnRzLs7jXcDsQCY"
+      },
+      "artists": [
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153692,
+      "name": "Lady (Hear Me Tonight)",
+      "url": "https://open.spotify.com/track/5GIG7Ktm9gZnV5yNqb0XZl"
     },
     {
       "album": {
@@ -1168,7 +1216,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 163034,
       "name": "Not Fair",
       "url": "https://open.spotify.com/track/5rL9LobdwAwFch2J8CiosG"

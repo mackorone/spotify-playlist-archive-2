@@ -1,12 +1,12 @@
 {
   "description": "Super Cool Indie Tracks from Gods Own Country\nCover: K.S.Harisankar, Salim Sulaiman",
-  "num_followers": 40001,
+  "num_followers": 40008,
   "original_name": "Malayalam Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEDMfB50ucJ3mRnHAya2jDSNFhG1",
+  "snapshot_id": "AAAAADEUP0A1orA+kG6EQekkOepnwagZ",
   "tracks": [
     {
       "added_at": "2026-01-16 09:26:59",
@@ -173,6 +173,26 @@
       "url": "https://open.spotify.com/track/4H0OZy4tS8NozQbyXttkBl"
     },
     {
+      "added_at": "2026-05-04 12:01:04",
+      "album": {
+        "name": "Madhaka",
+        "url": "https://open.spotify.com/album/0QrPcYDeAmXLEvP8NoOdV9"
+      },
+      "artists": [
+        {
+          "name": "Haricharan",
+          "url": "https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4"
+        },
+        {
+          "name": "Jubair Muhammed",
+          "url": "https://open.spotify.com/artist/0oPKTL05sIUJh7pyV723J0"
+        }
+      ],
+      "duration_ms": 205568,
+      "name": "Madhaka",
+      "url": "https://open.spotify.com/track/6hogi1v3BWFHXhkyuiIqyC"
+    },
+    {
       "added_at": "2026-01-23 12:36:11",
       "album": {
         "name": "Kaane",
@@ -219,6 +239,26 @@
       "duration_ms": 193333,
       "name": "Poomaala Trap",
       "url": "https://open.spotify.com/track/6tqK4xKIaeFJSvffDxtv7E"
+    },
+    {
+      "added_at": "2026-05-04 12:12:36",
+      "album": {
+        "name": "Kanave (From Gallery Vision Indie)",
+        "url": "https://open.spotify.com/album/0RHNDtscRUxLtUOksvO3LD"
+      },
+      "artists": [
+        {
+          "name": "Mrz Thoppi",
+          "url": "https://open.spotify.com/artist/78q0iNXpcPCsF9YOYQDoXw"
+        },
+        {
+          "name": "Dharsana",
+          "url": "https://open.spotify.com/artist/0Hy25DBqXzsszzFrfArf7M"
+        }
+      ],
+      "duration_ms": 189333,
+      "name": "Kanave - From Gallery Vision Indie",
+      "url": "https://open.spotify.com/track/695AyaGT7Oz5I9ES5XOVz8"
     },
     {
       "added_at": "2026-02-23 07:00:42",
@@ -1371,26 +1411,6 @@
     {
       "added_at": "2024-01-15 04:10:09",
       "album": {
-        "name": "Rithu",
-        "url": "https://open.spotify.com/album/4RWpgYfWPwxuTlUnwpE18I"
-      },
-      "artists": [
-        {
-          "name": "Project Malabaricus",
-          "url": "https://open.spotify.com/artist/68cQOO7OM5QMcokboxwp1l"
-        },
-        {
-          "name": "Sithara Krishnakumar",
-          "url": "https://open.spotify.com/artist/6fvMFyB3RMPEyKyLJAS79c"
-        }
-      ],
-      "duration_ms": 267913,
-      "name": "Arutharuthu",
-      "url": "https://open.spotify.com/track/2d40W8qyOzFRRlINyDZSwI"
-    },
-    {
-      "added_at": "2024-01-15 04:10:09",
-      "album": {
         "name": "Navarasam",
         "url": "https://open.spotify.com/album/4nFm7BobV1Wmat82PbgDog"
       },
@@ -1455,22 +1475,6 @@
       "duration_ms": 245538,
       "name": "Arike",
       "url": "https://open.spotify.com/track/6bVsRIrDLbTapubqk438Qe"
-    },
-    {
-      "added_at": "2024-01-15 04:10:09",
-      "album": {
-        "name": "Rangapura Vihara - Single",
-        "url": "https://open.spotify.com/album/6f4cOJPPGqBKXbj0luhAQQ"
-      },
-      "artists": [
-        {
-          "name": "Agam",
-          "url": "https://open.spotify.com/artist/4DHXXUP4qza7DacDKVT23G"
-        }
-      ],
-      "duration_ms": 537295,
-      "name": "Rangapura Vihara",
-      "url": "https://open.spotify.com/track/0DanEzIERtRw1Toae6IFXM"
     },
     {
       "added_at": "2025-04-04 11:22:58",

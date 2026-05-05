@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6wovS7exdnjHhyYZxYK4b5">Niall Horan</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-60 songs - 3 hr 23 min
+61 songs - 3 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [If You Leave Me](https://open.spotify.com/track/4tTb7uAXFqI84T3ZIDBhxf) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [The Show](https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4) | 2:59 | 2024-06-07 |  |
 | [If You Leave Me / Everybody Wants To Rule The World \- Live From Electric Picnic](https://open.spotify.com/track/6PcZHrioMRip7pMJqPTDQM) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [The Show: The Encore](https://open.spotify.com/album/4bNl4naMwsYI9OeG3WPZ5E) | 5:17 | 2024-12-11 |  |
 | [Little Black Dress](https://open.spotify.com/track/4lxaurdMyGkt1tOrdwRoVO) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Midnight Memories \(Deluxe\)](https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu) | 2:37 | 2025-01-09 | 2025-04-12 |
+| [Little More Time](https://open.spotify.com/track/7ukOzDe3BKCSpA6ki775U5) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Little More Time](https://open.spotify.com/album/4iRdV4c5sAh3oMl5MTYv9t) | 3:38 | 2026-05-04 |  |
 | [Meltdown](https://open.spotify.com/track/0hIDcUm3mJEn4gNo2ocLM5) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [The Show](https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4) | 2:33 | 2024-06-07 |  |
 | [Mirrors](https://open.spotify.com/track/6aGwF9D2BqmcSzF0JpfzJu) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Flicker \(Deluxe\)](https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p) | 3:38 | 2024-06-07 |  |
 | [Moral of the Story \(feat\. Niall Horan\) \- Bonus Track](https://open.spotify.com/track/5v6qYImm5k36GHlFxdEZyv) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM), [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Ashlyn](https://open.spotify.com/album/5eCmZVM5Kspu2B1cyVdSqq) | 3:18 | 2025-01-09 | 2025-04-12 |

@@ -1,6 +1,6 @@
 {
   "description": "Classic hits from the 50s and 60s.",
-  "num_followers": 1414142,
+  "num_followers": 1414334,
   "original_name": "Classic Oldies",
   "owner": {
     "name": "Spotify",
@@ -467,22 +467,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Ritchie Valens",
-        "url": "https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W"
-      },
-      "artists": [
-        {
-          "name": "Ritchie Valens",
-          "url": "https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P"
-        }
-      ],
-      "duration_ms": 116626,
-      "name": "We Belong Together",
-      "url": "https://open.spotify.com/track/7caj6X6NMX3tlhWnu1du6V"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "Hold On, I'm Comin'",
         "url": "https://open.spotify.com/album/2PBsbww0MYw9F1JzyYWIEO"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 155706,
       "name": "Hold On, I'm Comin'",
       "url": "https://open.spotify.com/track/6PgVDY8GTkxF3GmhVGPzoB"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "Ritchie Valens",
+        "url": "https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W"
+      },
+      "artists": [
+        {
+          "name": "Ritchie Valens",
+          "url": "https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P"
+        }
+      ],
+      "duration_ms": 116626,
+      "name": "We Belong Together",
+      "url": "https://open.spotify.com/track/7caj6X6NMX3tlhWnu1du6V"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -739,22 +739,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Jump Up Calypso",
-        "url": "https://open.spotify.com/album/1o6SO1ywnIQgb3MFMF1siI"
-      },
-      "artists": [
-        {
-          "name": "Harry Belafonte",
-          "url": "https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z"
-        }
-      ],
-      "duration_ms": 221704,
-      "name": "Jump in the Line",
-      "url": "https://open.spotify.com/track/1zW2csx1vVJrKfvDrFQNVt"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "Ritchie Valens",
         "url": "https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 126960,
       "name": "La Bamba - Single Version",
       "url": "https://open.spotify.com/track/2aEeghgUcnu75tzcolFMfs"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "Jump Up Calypso",
+        "url": "https://open.spotify.com/album/1o6SO1ywnIQgb3MFMF1siI"
+      },
+      "artists": [
+        {
+          "name": "Harry Belafonte",
+          "url": "https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z"
+        }
+      ],
+      "duration_ms": 221704,
+      "name": "Jump in the Line",
+      "url": "https://open.spotify.com/track/1zW2csx1vVJrKfvDrFQNVt"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -903,6 +903,22 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
+        "name": "This Is Dean Martin",
+        "url": "https://open.spotify.com/album/7dfnxOYh1XR9AKqCcGckGX"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 181626,
+      "name": "Volare (Nel Blu Di Pinto Di Blu) - Remastered 1998",
+      "url": "https://open.spotify.com/track/5OkKOkdVTKFrYi6GWXkMzR"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
         "name": "Dusty In Memphis [Deluxe Edition]",
         "url": "https://open.spotify.com/album/6SNMenG3NjZyqgI5p4Hcmg"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 230386,
       "name": "All You Need Is Love - Remastered 2009",
       "url": "https://open.spotify.com/track/68BTFws92cRztMS1oQ7Ewj"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
-        "name": "This Is Dean Martin",
-        "url": "https://open.spotify.com/album/7dfnxOYh1XR9AKqCcGckGX"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 181626,
-      "name": "Volare (Nel Blu Di Pinto Di Blu) - Remastered 1998",
-      "url": "https://open.spotify.com/track/5OkKOkdVTKFrYi6GWXkMzR"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Nashville Skyline",
-        "url": "https://open.spotify.com/album/5WBx64FIN04CvM2T1MGrUN"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 201387,
-      "name": "Lay, Lady, Lay",
-      "url": "https://open.spotify.com/track/4uYwlMp841PLJmj1gJJwIq"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "The Essential Johnny Cash",
         "url": "https://open.spotify.com/album/4E2eUhFHqTG2pu9MN1NDIF"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 155706,
       "name": "Ring of Fire",
       "url": "https://open.spotify.com/track/5rDkA2TFOImbiVenmnE9r4"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "Nashville Skyline",
+        "url": "https://open.spotify.com/album/5WBx64FIN04CvM2T1MGrUN"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 201387,
+      "name": "Lay, Lady, Lay",
+      "url": "https://open.spotify.com/track/4uYwlMp841PLJmj1gJJwIq"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "At Last!",
-        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 185626,
-      "name": "I Just Want To Make Love To You - Single Version",
-      "url": "https://open.spotify.com/track/3QnHWkNMY2mpy494Bis0ly"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "The Bang Years 1966-1968 (The 23 Original Mono Recordings)",
         "url": "https://open.spotify.com/album/512ipXtdhwJF52NTT2yryo"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 180253,
       "name": "Girl, You'll Be A Woman Soon",
       "url": "https://open.spotify.com/track/1BmVQ5RGqqtF5cnsv6cQYu"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "At Last!",
+        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 185626,
+      "name": "I Just Want To Make Love To You - Single Version",
+      "url": "https://open.spotify.com/track/3QnHWkNMY2mpy494Bis0ly"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "I'll Cry If I Want To",
-        "url": "https://open.spotify.com/album/7KSrseQi4wJDUfMT4mxNo8"
-      },
-      "artists": [
-        {
-          "name": "Lesley Gore",
-          "url": "https://open.spotify.com/artist/08b2PA6eFyugsWAk41eQKZ"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "It's My Party",
-      "url": "https://open.spotify.com/track/1Pq47iFLC5U7j8xeNiNcuS"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "Sings Lonely and Blue",
         "url": "https://open.spotify.com/album/5txtL5NwxbzS5ENtNEWGpS"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 147759,
       "name": "Only the Lonely",
       "url": "https://open.spotify.com/track/0PkBTqRtN25z3oKasWoKlj"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "I'll Cry If I Want To",
+        "url": "https://open.spotify.com/album/7KSrseQi4wJDUfMT4mxNo8"
+      },
+      "artists": [
+        {
+          "name": "Lesley Gore",
+          "url": "https://open.spotify.com/artist/08b2PA6eFyugsWAk41eQKZ"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "It's My Party",
+      "url": "https://open.spotify.com/track/1Pq47iFLC5U7j8xeNiNcuS"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
+        "name": "This Old Heart Of Mine",
+        "url": "https://open.spotify.com/album/6iIk47TPgtfIxzL2ALdBSN"
+      },
+      "artists": [
+        {
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+        }
+      ],
+      "duration_ms": 172733,
+      "name": "This Old Heart Of Mine (Is Weak For You)",
+      "url": "https://open.spotify.com/track/5c33j1xFVOL4G24zxYhssB"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
         "name": "Four Tops",
         "url": "https://open.spotify.com/album/6TPCze8g5Q3yCRYyA42qAm"
       },
@@ -1319,22 +1335,6 @@
       "duration_ms": 216266,
       "name": "Unchained Melody",
       "url": "https://open.spotify.com/track/1jFhnVoJkcB4lf9tT0rSZS"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
-        "name": "This Old Heart Of Mine",
-        "url": "https://open.spotify.com/album/6iIk47TPgtfIxzL2ALdBSN"
-      },
-      "artists": [
-        {
-          "name": "The Isley Brothers",
-          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
-        }
-      ],
-      "duration_ms": 172733,
-      "name": "This Old Heart Of Mine (Is Weak For You)",
-      "url": "https://open.spotify.com/track/5c33j1xFVOL4G24zxYhssB"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Rockin' With Robin",
-        "url": "https://open.spotify.com/album/4T6nhb9QQpGzLiWkC6bG7y"
-      },
-      "artists": [
-        {
-          "name": "Bobby Day",
-          "url": "https://open.spotify.com/artist/4SLfKHcufUqU46DiTAHIsj"
-        }
-      ],
-      "duration_ms": 160080,
-      "name": "Rockin' Robin",
-      "url": "https://open.spotify.com/track/4FlYcJnfkeBpowEHJ72Bmt"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "True Genius",
         "url": "https://open.spotify.com/album/7gvxyetkX6vkoMyDkDM6ls"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 219560,
       "name": "Georgia on My Mind",
       "url": "https://open.spotify.com/track/6yMGxqKj0218mFR5KqsMRq"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "Rockin' With Robin",
+        "url": "https://open.spotify.com/album/4T6nhb9QQpGzLiWkC6bG7y"
+      },
+      "artists": [
+        {
+          "name": "Bobby Day",
+          "url": "https://open.spotify.com/artist/4SLfKHcufUqU46DiTAHIsj"
+        }
+      ],
+      "duration_ms": 160080,
+      "name": "Rockin' Robin",
+      "url": "https://open.spotify.com/track/4FlYcJnfkeBpowEHJ72Bmt"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Sherry and 11 Other Hits",
-        "url": "https://open.spotify.com/album/18rFAAWrT2wzvWckYmoLnE"
-      },
-      "artists": [
-        {
-          "name": "Frankie Valli & The Four Seasons",
-          "url": "https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou"
-        }
-      ],
-      "duration_ms": 152160,
-      "name": "Sherry",
-      "url": "https://open.spotify.com/track/7sqK6f8dHVx3Q1GjFrVyGl"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "Ray Charles (aka: Hallelujah, I Love Her So)",
         "url": "https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0"
       },
@@ -1499,18 +1483,18 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Bobby Darin",
-        "url": "https://open.spotify.com/album/5VNyvQC8KIM2jnahEhN4nB"
+        "name": "Sherry and 11 Other Hits",
+        "url": "https://open.spotify.com/album/18rFAAWrT2wzvWckYmoLnE"
       },
       "artists": [
         {
-          "name": "Bobby Darin",
-          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
+          "name": "Frankie Valli & The Four Seasons",
+          "url": "https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou"
         }
       ],
-      "duration_ms": 131719,
-      "name": "Splish Splash",
-      "url": "https://open.spotify.com/track/40fD7ct05FvQHLdQTgJelG"
+      "duration_ms": 152160,
+      "name": "Sherry",
+      "url": "https://open.spotify.com/track/7sqK6f8dHVx3Q1GjFrVyGl"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -1531,6 +1515,22 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
+        "name": "Bobby Darin",
+        "url": "https://open.spotify.com/album/5VNyvQC8KIM2jnahEhN4nB"
+      },
+      "artists": [
+        {
+          "name": "Bobby Darin",
+          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
+        }
+      ],
+      "duration_ms": 131719,
+      "name": "Splish Splash",
+      "url": "https://open.spotify.com/track/40fD7ct05FvQHLdQTgJelG"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
         "name": "That'll Be The Day",
         "url": "https://open.spotify.com/album/0KHc3cD7pAOAieo9lPWXkY"
       },
@@ -1543,22 +1543,6 @@
       "duration_ms": 150133,
       "name": "That'll Be The Day",
       "url": "https://open.spotify.com/track/50RwvvEKX5Q7AZt8FTAwIF"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
-        "name": "Sherry and 11 Other Hits",
-        "url": "https://open.spotify.com/album/18rFAAWrT2wzvWckYmoLnE"
-      },
-      "artists": [
-        {
-          "name": "Frankie Valli & The Four Seasons",
-          "url": "https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou"
-        }
-      ],
-      "duration_ms": 148013,
-      "name": "Big Girls Don't Cry",
-      "url": "https://open.spotify.com/track/00meczE1jpLTX0BBzIGrAR"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -1579,18 +1563,18 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "The Nat King Cole Story",
-        "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
+        "name": "Sherry and 11 Other Hits",
+        "url": "https://open.spotify.com/album/18rFAAWrT2wzvWckYmoLnE"
       },
       "artists": [
         {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+          "name": "Frankie Valli & The Four Seasons",
+          "url": "https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou"
         }
       ],
-      "duration_ms": 173266,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/1oDCK7PW72XEZ1pE5rh87A"
+      "duration_ms": 148013,
+      "name": "Big Girls Don't Cry",
+      "url": "https://open.spotify.com/track/00meczE1jpLTX0BBzIGrAR"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -1611,6 +1595,22 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
+        "name": "The Nat King Cole Story",
+        "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 173266,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/1oDCK7PW72XEZ1pE5rh87A"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
         "name": "Good Vibrations 40th Anniversary",
         "url": "https://open.spotify.com/album/2kgmLqUim1JdglABNIc5zn"
       },
@@ -1623,22 +1623,6 @@
       "duration_ms": 217746,
       "name": "Good Vibrations - Remastered 2001",
       "url": "https://open.spotify.com/track/2oF7FZHIJbzjeEXZ3D0Ku4"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
-        "name": "The Ultimate Bobby Darin",
-        "url": "https://open.spotify.com/album/65okcRJHUVUrFiDG3I1Sz8"
-      },
-      "artists": [
-        {
-          "name": "Bobby Darin",
-          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
-        }
-      ],
-      "duration_ms": 150706,
-      "name": "Dream Lover",
-      "url": "https://open.spotify.com/track/1KLpjQFgubHI3GkAICCNH3"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -1659,6 +1643,22 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
+        "name": "The Ultimate Bobby Darin",
+        "url": "https://open.spotify.com/album/65okcRJHUVUrFiDG3I1Sz8"
+      },
+      "artists": [
+        {
+          "name": "Bobby Darin",
+          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
+        }
+      ],
+      "duration_ms": 150706,
+      "name": "Dream Lover",
+      "url": "https://open.spotify.com/track/1KLpjQFgubHI3GkAICCNH3"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
         "name": "The Best Of Dion",
         "url": "https://open.spotify.com/album/56sNE1JDGLJLDRK5F83Q0N"
       },
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Heat Wave",
-        "url": "https://open.spotify.com/album/2GxwwKxtwDZkc9qX15YqKK"
-      },
-      "artists": [
-        {
-          "name": "Martha Reeves & The Vandellas",
-          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
-        }
-      ],
-      "duration_ms": 163053,
-      "name": "(Love Is Like A) Heat Wave",
-      "url": "https://open.spotify.com/track/3VgrSJEKBRT3xmwzpaxxEF"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "Everlasting: The Best Of Carl Carlton",
         "url": "https://open.spotify.com/album/10np3FVXIDYUca9O6bd5wb"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 153946,
       "name": "Everlasting Love",
       "url": "https://open.spotify.com/track/5i7rT8lbGzjj1n7TTXR5U8"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "Heat Wave",
+        "url": "https://open.spotify.com/album/2GxwwKxtwDZkc9qX15YqKK"
+      },
+      "artists": [
+        {
+          "name": "Martha Reeves & The Vandellas",
+          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
+        }
+      ],
+      "duration_ms": 163053,
+      "name": "(Love Is Like A) Heat Wave",
+      "url": "https://open.spotify.com/track/3VgrSJEKBRT3xmwzpaxxEF"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -1771,22 +1771,18 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "The Best Of Frankie Lymon & The Teenagers",
-        "url": "https://open.spotify.com/album/0vMlyH3qNCkun2rIFVU5Gm"
+        "name": "Never To Be Forgotten - The Mustang Years",
+        "url": "https://open.spotify.com/album/7KEDLBdqvyiV4D2uH9SgbV"
       },
       "artists": [
         {
-          "name": "Frankie Lymon",
-          "url": "https://open.spotify.com/artist/2KMQz6s6MNRr4bxI8EQdRk"
-        },
-        {
-          "name": "The Teenagers",
-          "url": "https://open.spotify.com/artist/1C5aVv7xV2lMH2epG5Dpi4"
+          "name": "The Bobby Fuller Four",
+          "url": "https://open.spotify.com/artist/5XoM6cP8fQykllfuK5V5TR"
         }
       ],
-      "duration_ms": 139666,
-      "name": "Why Do Fools Fall in Love",
-      "url": "https://open.spotify.com/track/2xKfXRhw5xaUXfevJJspZf"
+      "duration_ms": 138360,
+      "name": "I Fought the Law - Single Version",
+      "url": "https://open.spotify.com/track/6Um3XCAxl9YfFmAnGl93xc"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -1827,18 +1823,18 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Never To Be Forgotten - The Mustang Years",
-        "url": "https://open.spotify.com/album/7KEDLBdqvyiV4D2uH9SgbV"
+        "name": "I Will Follow Him",
+        "url": "https://open.spotify.com/album/5R0M6bpjLmFutJBcFhqNlg"
       },
       "artists": [
         {
-          "name": "The Bobby Fuller Four",
-          "url": "https://open.spotify.com/artist/5XoM6cP8fQykllfuK5V5TR"
+          "name": "Peggy March",
+          "url": "https://open.spotify.com/artist/5EVZqrbIyEYGGite2sMhDk"
         }
       ],
-      "duration_ms": 138360,
-      "name": "I Fought the Law - Single Version",
-      "url": "https://open.spotify.com/track/6Um3XCAxl9YfFmAnGl93xc"
+      "duration_ms": 148160,
+      "name": "I Will Follow Him",
+      "url": "https://open.spotify.com/track/3GQETOg4ZXyQ1jEFqfMoac"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -1855,22 +1851,6 @@
       "duration_ms": 128199,
       "name": "One Fine Day",
       "url": "https://open.spotify.com/track/6vcG9EgeqJUSmmF65lxUm6"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
-        "name": "I Will Follow Him",
-        "url": "https://open.spotify.com/album/5R0M6bpjLmFutJBcFhqNlg"
-      },
-      "artists": [
-        {
-          "name": "Peggy March",
-          "url": "https://open.spotify.com/artist/5EVZqrbIyEYGGite2sMhDk"
-        }
-      ],
-      "duration_ms": 148160,
-      "name": "I Will Follow Him",
-      "url": "https://open.spotify.com/track/3GQETOg4ZXyQ1jEFqfMoac"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -1907,22 +1887,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "The Best Of Bobby Vinton",
-        "url": "https://open.spotify.com/album/4qK4QZUSp8QdoMEm9mrzyA"
-      },
-      "artists": [
-        {
-          "name": "Bobby Vinton",
-          "url": "https://open.spotify.com/artist/6bOYtKnpLPQSfMpS2ilotK"
-        }
-      ],
-      "duration_ms": 168093,
-      "name": "Blue Velvet",
-      "url": "https://open.spotify.com/track/4QelFzhVgLomeQhvKrwM1S"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "Green Onions / Behave Yourself",
         "url": "https://open.spotify.com/album/2kXlr7GzUOQxl3NLDF0DNe"
       },
@@ -1935,6 +1899,42 @@
       "duration_ms": 167384,
       "name": "Green Onions",
       "url": "https://open.spotify.com/track/6KKcey1w86oP0qxN8frbfD"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "The Best Of Frankie Lymon & The Teenagers",
+        "url": "https://open.spotify.com/album/0vMlyH3qNCkun2rIFVU5Gm"
+      },
+      "artists": [
+        {
+          "name": "Frankie Lymon",
+          "url": "https://open.spotify.com/artist/2KMQz6s6MNRr4bxI8EQdRk"
+        },
+        {
+          "name": "The Teenagers",
+          "url": "https://open.spotify.com/artist/1C5aVv7xV2lMH2epG5Dpi4"
+        }
+      ],
+      "duration_ms": 139666,
+      "name": "Why Do Fools Fall in Love",
+      "url": "https://open.spotify.com/track/2xKfXRhw5xaUXfevJJspZf"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "The Best Of Bobby Vinton",
+        "url": "https://open.spotify.com/album/4qK4QZUSp8QdoMEm9mrzyA"
+      },
+      "artists": [
+        {
+          "name": "Bobby Vinton",
+          "url": "https://open.spotify.com/artist/6bOYtKnpLPQSfMpS2ilotK"
+        }
+      ],
+      "duration_ms": 168093,
+      "name": "Blue Velvet",
+      "url": "https://open.spotify.com/track/4QelFzhVgLomeQhvKrwM1S"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -2019,22 +2019,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Hey! Baby (Deluxe Edition Remastered)",
-        "url": "https://open.spotify.com/album/09YAng6bZ2wJVcL3MWVCri"
-      },
-      "artists": [
-        {
-          "name": "Bruce Channel",
-          "url": "https://open.spotify.com/artist/5Do19ow5oRPYYU46jqdkwh"
-        }
-      ],
-      "duration_ms": 143627,
-      "name": "Hey! Baby - Remastered",
-      "url": "https://open.spotify.com/track/0obIo2GEab6qqms6t3JaMY"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "Up-Tight",
         "url": "https://open.spotify.com/album/0qnHA4SDco9mPuWGzDqVDK"
       },
@@ -2047,6 +2031,22 @@
       "duration_ms": 174400,
       "name": "Uptight (Everything's Alright)",
       "url": "https://open.spotify.com/track/0Hw6SCrtU9pFCjgAONpnGZ"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "Hey! Baby (Deluxe Edition Remastered)",
+        "url": "https://open.spotify.com/album/09YAng6bZ2wJVcL3MWVCri"
+      },
+      "artists": [
+        {
+          "name": "Bruce Channel",
+          "url": "https://open.spotify.com/artist/5Do19ow5oRPYYU46jqdkwh"
+        }
+      ],
+      "duration_ms": 143627,
+      "name": "Hey! Baby - Remastered",
+      "url": "https://open.spotify.com/track/0obIo2GEab6qqms6t3JaMY"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -2275,22 +2275,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Who Wrote The Book Of Love? [Digital Version]",
-        "url": "https://open.spotify.com/album/2Bpr0LzFjdDjBHKsT9JxOV"
-      },
-      "artists": [
-        {
-          "name": "Monotones",
-          "url": "https://open.spotify.com/artist/41o7J3aySVN4dkakfx8rnm"
-        }
-      ],
-      "duration_ms": 138440,
-      "name": "The Book of Love",
-      "url": "https://open.spotify.com/track/1N131UBLlYAUJNVpHOfEc1"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "With A Smile And A Song",
         "url": "https://open.spotify.com/album/6Ltxm93iOwkB1rw6nBdLNS"
       },
@@ -2307,6 +2291,22 @@
       "duration_ms": 123360,
       "name": "Whatever Will Be, Will Be (Que Sera, Sera) (with Frank DeVol & His Orchestra)",
       "url": "https://open.spotify.com/track/6yhLR2sVn1IfsScVrR4ocr"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "Who Wrote The Book Of Love? [Digital Version]",
+        "url": "https://open.spotify.com/album/2Bpr0LzFjdDjBHKsT9JxOV"
+      },
+      "artists": [
+        {
+          "name": "Monotones",
+          "url": "https://open.spotify.com/artist/41o7J3aySVN4dkakfx8rnm"
+        }
+      ],
+      "duration_ms": 138440,
+      "name": "The Book of Love",
+      "url": "https://open.spotify.com/track/1N131UBLlYAUJNVpHOfEc1"
     },
     {
       "added_at": "2024-07-12 06:11:58",

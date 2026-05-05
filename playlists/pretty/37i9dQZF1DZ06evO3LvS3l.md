@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3LvS3l.md) - [plain]
 
 > This is David Allan Coe\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,591 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,673 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3LvS3l.md) - [plain]
 | 40 | [This Bottle \(In My Hand\)](https://open.spotify.com/track/2eeK8aAZy6o7iyQhvhg5n0) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6), [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [I've Got Something to Say](https://open.spotify.com/album/0KjdMYe1vTK5Dz2jLfIrnN) | 2:50 |
 | 41 | [Death Row](https://open.spotify.com/track/7dKaRbNb32MdumLtkuXGhp) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Penitentiary Blues](https://open.spotify.com/album/5JUypDy65MfWOtZTaVUQGE) | 2:43 |
 | 42 | [\(If I Could Climb\) The Walls of the Bottle](https://open.spotify.com/track/29mXFLxchnrdvlCA1QrcfT) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [The Mysterious Rhinestone Cowboy](https://open.spotify.com/album/2CSVTNZdiHUM9U0IgeHQJi) | 2:15 |
-| 43 | [Drank My Wife Away](https://open.spotify.com/track/4y9t3AJ7Hj4ceYpxKBqESf) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Live at Billy Bob's Texas](https://open.spotify.com/album/6UovhwsrRIA072Ywx6KgpV) | 3:17 |
-| 44 | [Hank Williams Junior\-Junior](https://open.spotify.com/track/0QyYeOUHzncpaWhP7ESx1p) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Biggest Hits](https://open.spotify.com/album/6URcNyTkcEsXNSVKCqNTl1) | 2:41 |
+| 43 | [Hank Williams Junior\-Junior](https://open.spotify.com/track/0QyYeOUHzncpaWhP7ESx1p) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Biggest Hits](https://open.spotify.com/album/6URcNyTkcEsXNSVKCqNTl1) | 2:41 |
+| 44 | [Drank My Wife Away](https://open.spotify.com/track/4y9t3AJ7Hj4ceYpxKBqESf) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Live at Billy Bob's Texas](https://open.spotify.com/album/6UovhwsrRIA072Ywx6KgpV) | 3:17 |
 | 45 | [Sweet Vibrations \(Some Folks Call It Love\)](https://open.spotify.com/track/41wFXSrdWefbvAlbKI55N6) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Once Upon a Rhyme](https://open.spotify.com/album/6YfHzMRBscPjVqcxIQoXom) | 3:02 |
 | 46 | [Cheap Thrills](https://open.spotify.com/track/5c0bsFoyO1rvsoCnxHCYJx) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Castles in the Sand](https://open.spotify.com/album/4ThqzeQR2AiwZiqSUQHSib) | 2:42 |
 | 47 | [Human Emotions](https://open.spotify.com/track/72bCNd02AUSuuR1YICoswh) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Human Emotions](https://open.spotify.com/album/5rpL6mTBSeUqGhJiCKS8Lk) | 4:28 |
-| 48 | [It's Great to Be Single Again](https://open.spotify.com/track/3VX583L6pfYx5dPqK9654S) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Just Divorced](https://open.spotify.com/album/4RzPzFa3rXfDt3M0P5JAoQ) | 2:19 |
-| 49 | [Southern Star](https://open.spotify.com/track/6aQX7GfnfNJ7P2QEYcXZag) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Crazy Daddy](https://open.spotify.com/album/57VX1pfpCpbrLrpKZ4h4w8) | 2:40 |
+| 48 | [Southern Star](https://open.spotify.com/track/6aQX7GfnfNJ7P2QEYcXZag) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Crazy Daddy](https://open.spotify.com/album/57VX1pfpCpbrLrpKZ4h4w8) | 2:40 |
+| 49 | [It's Great to Be Single Again](https://open.spotify.com/track/3VX583L6pfYx5dPqK9654S) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Just Divorced](https://open.spotify.com/album/4RzPzFa3rXfDt3M0P5JAoQ) | 2:19 |
 | 50 | [Whiskey, Whiskey \(Take My Mind\)](https://open.spotify.com/track/1wF6guhoUL3dHyzHbUX1GB) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [D.A.C.](https://open.spotify.com/album/60EBaGNNZ6CPedkImS61v1) | 2:30 |
 
-Snapshot ID: `afU+gAAAAACt3qalyUZ22li2W39SasAo`
+Snapshot ID: `afaQAAAAAAApRw2wUIO5SL8oF8NfWsSh`

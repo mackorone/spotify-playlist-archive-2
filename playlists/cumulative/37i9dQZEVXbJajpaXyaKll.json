@@ -7471,6 +7471,24 @@
     },
     {
       "album": {
+        "name": "Chica karismatica",
+        "url": "https://open.spotify.com/album/5x4pqiGuYiWBNHdKz25kUC"
+      },
+      "artists": [
+        {
+          "name": "Ramita Puzzo",
+          "url": "https://open.spotify.com/artist/2YqLGzeCEOK7yV6Nt3JtRn"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239500,
+      "name": "Chica karismatica",
+      "url": "https://open.spotify.com/track/43GElkHcYV7odw5U6f7K7J"
+    },
+    {
+      "album": {
         "name": "tamagochi",
         "url": "https://open.spotify.com/album/6ww0tfSZNb8FM1MVHwoEwh"
       },
@@ -24206,7 +24224,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 273010,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/6gH4TId535zZLoBFSdnDFm"
@@ -46142,7 +46160,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-03",
+      "date_removed": null,
       "duration_ms": 133746,
       "name": "VELOCIDADE",
       "url": "https://open.spotify.com/track/3J8uUvHttFs8zlYxoiPVe3"
@@ -46796,7 +46814,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 152643,
       "name": "vos, yo y tu Ego",
       "url": "https://open.spotify.com/track/62H6U8rKyhple35fu0gP9O"

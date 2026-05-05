@@ -2672,7 +2672,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 150000,
       "name": "Czemu pozwoli\u0142e\u015b kocha\u0107?",
       "url": "https://open.spotify.com/track/00ITfmQnKbU69YUMimdI1U"
@@ -4059,6 +4059,24 @@
     },
     {
       "album": {
+        "name": "ECHO",
+        "url": "https://open.spotify.com/album/6JkirjpVFMizDMoOqAGCOg"
+      },
+      "artists": [
+        {
+          "name": "Mata",
+          "url": "https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147428,
+      "name": "ECHO",
+      "url": "https://open.spotify.com/track/4Z9nSvXEBRsj10fVZAFz0x"
+    },
+    {
+      "album": {
         "name": "Echo",
         "url": "https://open.spotify.com/album/63fwdj3hHiMj26o1DHvEza"
       },
@@ -4594,6 +4612,24 @@
       "duration_ms": 153430,
       "name": "FEVER DREAM",
       "url": "https://open.spotify.com/track/7ogpGbKc4Io6NCU6ydxXwZ"
+    },
+    {
+      "album": {
+        "name": "FINE PLACE TO DIE",
+        "url": "https://open.spotify.com/album/5BE6sXUzT8u1Dm02n1pN5r"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187423,
+      "name": "FINE PLACE TO DIE",
+      "url": "https://open.spotify.com/track/2k4PvUBCu1mkNbXLXhvaBW"
     },
     {
       "album": {
@@ -5552,6 +5588,24 @@
       "duration_ms": 196752,
       "name": "Hero",
       "url": "https://open.spotify.com/track/5TTyyKNJZHONhjtAiXL1nG"
+    },
+    {
+      "album": {
+        "name": "Heroine",
+        "url": "https://open.spotify.com/album/4xT3ryrqfutVzV1cJN79Ww"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155192,
+      "name": "Heroine",
+      "url": "https://open.spotify.com/track/04OCeDuqT4ympbgDZ8dcfT"
     },
     {
       "album": {
@@ -6558,7 +6612,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 152493,
       "name": "July",
       "url": "https://open.spotify.com/track/7LwR08L58CiifSFw7tqdOl"
@@ -9158,7 +9212,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 225000,
       "name": "na zab\u00f3j",
       "url": "https://open.spotify.com/track/4s6TSLuS5vJv1tmSSSuCXk"

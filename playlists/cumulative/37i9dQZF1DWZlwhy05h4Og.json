@@ -656,7 +656,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 182448,
       "name": "Bubee",
       "url": "https://open.spotify.com/track/3Y2pwdrZKIOUqK0HvsWf0c"
@@ -750,6 +750,24 @@
       "duration_ms": 138117,
       "name": "Caught in Your Love",
       "url": "https://open.spotify.com/track/2xpbZxV34gnvg3QwUvG370"
+    },
+    {
+      "album": {
+        "name": "CELEBRATION",
+        "url": "https://open.spotify.com/album/47nSJKWgIL0t2zFQCUemaL"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153000,
+      "name": "CELEBRATION",
+      "url": "https://open.spotify.com/track/7Cy79KgYPsjOTX7VITI1U1"
     },
     {
       "album": {
@@ -956,7 +974,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 164554,
       "name": "CRAZY",
       "url": "https://open.spotify.com/track/3AoEQRuFf8zVXWqSLo2UOi"
@@ -2526,6 +2544,24 @@
       "duration_ms": 146769,
       "name": "It Is What It Is",
       "url": "https://open.spotify.com/track/1558CwDaXSZiCplq9AaH0q"
+    },
+    {
+      "album": {
+        "name": "MAMIHLAPINATAPAI",
+        "url": "https://open.spotify.com/album/5VIt2dA2StboE900mllWdJ"
+      },
+      "artists": [
+        {
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138284,
+      "name": "It's Me",
+      "url": "https://open.spotify.com/track/1D5L58KLBbceOynTP4DQnY"
     },
     {
       "album": {

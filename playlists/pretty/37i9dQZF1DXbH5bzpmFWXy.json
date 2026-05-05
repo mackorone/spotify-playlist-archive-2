@@ -1,6 +1,6 @@
 {
   "description": "Porque el barrio es el barrio y eso nadie nos lo va a cambiar... Lucky Brown y El Bogueto en portada.",
-  "num_followers": 308072,
+  "num_followers": 308069,
   "original_name": "El Barrio MP3 ",
   "owner": {
     "name": "Spotify",
@@ -607,8 +607,8 @@
     {
       "added_at": "2026-04-10 06:00:46",
       "album": {
-        "name": "Kamikaze (feat. Victor Mendivil)",
-        "url": "https://open.spotify.com/album/0qRymMmPlQL4Jji8iXAZVP"
+        "name": "Giza",
+        "url": "https://open.spotify.com/album/59NGQmOz4yxHkgbrVdFHhy"
       },
       "artists": [
         {
@@ -616,21 +616,13 @@
           "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
         },
         {
-          "name": "Uriel Gaxiola",
-          "url": "https://open.spotify.com/artist/4fQPqLk2LwWrrc6OBMzXZj"
-        },
-        {
-          "name": "Ganggy",
-          "url": "https://open.spotify.com/artist/5DyLJzaY28nfyYFYu5a7Py"
-        },
-        {
-          "name": "Victor Mendivil",
-          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
         }
       ],
-      "duration_ms": 248362,
-      "name": "Kamikaze (feat. Victor Mendivil)",
-      "url": "https://open.spotify.com/track/6fKvGaO8Dfntvx4thaXtak"
+      "duration_ms": 177580,
+      "name": "Giza",
+      "url": "https://open.spotify.com/track/6KOnLTb1xLfKDAjMC43I76"
     },
     {
       "added_at": "2026-04-10 06:00:46",
@@ -707,42 +699,6 @@
     {
       "added_at": "2026-04-10 06:00:46",
       "album": {
-        "name": "Ay Dieguito",
-        "url": "https://open.spotify.com/album/3SYYvFKrvzAbsLhxrH4goD"
-      },
-      "artists": [
-        {
-          "name": "Calle 24",
-          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
-        }
-      ],
-      "duration_ms": 170284,
-      "name": "Ay Dieguito",
-      "url": "https://open.spotify.com/track/57jY51VJ9iyZBP5DGFwQpP"
-    },
-    {
-      "added_at": "2026-04-10 06:00:46",
-      "album": {
-        "name": "Giza",
-        "url": "https://open.spotify.com/album/59NGQmOz4yxHkgbrVdFHhy"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        },
-        {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        }
-      ],
-      "duration_ms": 177580,
-      "name": "Giza",
-      "url": "https://open.spotify.com/track/6KOnLTb1xLfKDAjMC43I76"
-    },
-    {
-      "added_at": "2026-04-10 06:00:46",
-      "album": {
         "name": "a new star (1 9 9 3)",
         "url": "https://open.spotify.com/album/6MxVqDR6nACRxGSePfK9y4"
       },
@@ -759,6 +715,50 @@
       "duration_ms": 223783,
       "name": "Un Desperdicio",
       "url": "https://open.spotify.com/track/75qepWUT3FEyPyXQMMMVZm"
+    },
+    {
+      "added_at": "2026-04-10 06:00:46",
+      "album": {
+        "name": "Kamikaze (feat. Victor Mendivil)",
+        "url": "https://open.spotify.com/album/0qRymMmPlQL4Jji8iXAZVP"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Uriel Gaxiola",
+          "url": "https://open.spotify.com/artist/4fQPqLk2LwWrrc6OBMzXZj"
+        },
+        {
+          "name": "Ganggy",
+          "url": "https://open.spotify.com/artist/5DyLJzaY28nfyYFYu5a7Py"
+        },
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        }
+      ],
+      "duration_ms": 248362,
+      "name": "Kamikaze (feat. Victor Mendivil)",
+      "url": "https://open.spotify.com/track/6fKvGaO8Dfntvx4thaXtak"
+    },
+    {
+      "added_at": "2026-04-10 06:00:46",
+      "album": {
+        "name": "Ay Dieguito",
+        "url": "https://open.spotify.com/album/3SYYvFKrvzAbsLhxrH4goD"
+      },
+      "artists": [
+        {
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+        }
+      ],
+      "duration_ms": 170284,
+      "name": "Ay Dieguito",
+      "url": "https://open.spotify.com/track/57jY51VJ9iyZBP5DGFwQpP"
     },
     {
       "added_at": "2026-04-10 06:00:46",
@@ -851,6 +851,22 @@
     {
       "added_at": "2026-04-10 06:00:46",
       "album": {
+        "name": "DiCaprio 2",
+        "url": "https://open.spotify.com/album/2oI6gtIXrvNiL2VEMmj5kY"
+      },
+      "artists": [
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        }
+      ],
+      "duration_ms": 156780,
+      "name": "151 Rum",
+      "url": "https://open.spotify.com/track/22WV03i2lBbwNVCE1g671p"
+    },
+    {
+      "added_at": "2026-04-10 06:00:46",
+      "album": {
         "name": "Malas Rachas",
         "url": "https://open.spotify.com/album/0hOoMpG9nfKnFDYjyWadLG"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 260285,
       "name": "Malas Rachas - En Vivo",
       "url": "https://open.spotify.com/track/3CRbCuucscl5CNGhvU5090"
-    },
-    {
-      "added_at": "2026-04-10 06:00:46",
-      "album": {
-        "name": "DiCaprio 2",
-        "url": "https://open.spotify.com/album/2oI6gtIXrvNiL2VEMmj5kY"
-      },
-      "artists": [
-        {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
-        }
-      ],
-      "duration_ms": 156780,
-      "name": "151 Rum",
-      "url": "https://open.spotify.com/track/22WV03i2lBbwNVCE1g671p"
     },
     {
       "added_at": "2026-04-10 06:00:46",
@@ -1043,30 +1043,6 @@
     {
       "added_at": "2026-04-10 06:00:46",
       "album": {
-        "name": "\u00d1EROSTARS",
-        "url": "https://open.spotify.com/album/5ursP9KJsdAdRc2tZwc8PU"
-      },
-      "artists": [
-        {
-          "name": "El Malilla",
-          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
-        },
-        {
-          "name": "Yeyo",
-          "url": "https://open.spotify.com/artist/5KWQms4jSjzMC3P9cJUP9L"
-        },
-        {
-          "name": "Dj Rockwel Mx",
-          "url": "https://open.spotify.com/artist/2eobLT6bmdvl5yGG5qPAgd"
-        }
-      ],
-      "duration_ms": 188571,
-      "name": "B de Bellako",
-      "url": "https://open.spotify.com/track/3dZzUQVDLByfxVIStbVOu5"
-    },
-    {
-      "added_at": "2026-04-10 06:00:46",
-      "album": {
         "name": "ALVRGZO",
         "url": "https://open.spotify.com/album/6ZbXdOGGsxEqOWM0WFOaF5"
       },
@@ -1103,6 +1079,30 @@
       "duration_ms": 129500,
       "name": "Kalashnikov",
       "url": "https://open.spotify.com/track/3zFLlF1SvWCt9oZUVPZehW"
+    },
+    {
+      "added_at": "2026-04-10 06:00:46",
+      "album": {
+        "name": "\u00d1EROSTARS",
+        "url": "https://open.spotify.com/album/5ursP9KJsdAdRc2tZwc8PU"
+      },
+      "artists": [
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        },
+        {
+          "name": "Yeyo",
+          "url": "https://open.spotify.com/artist/5KWQms4jSjzMC3P9cJUP9L"
+        },
+        {
+          "name": "Dj Rockwel Mx",
+          "url": "https://open.spotify.com/artist/2eobLT6bmdvl5yGG5qPAgd"
+        }
+      ],
+      "duration_ms": 188571,
+      "name": "B de Bellako",
+      "url": "https://open.spotify.com/track/3dZzUQVDLByfxVIStbVOu5"
     },
     {
       "added_at": "2026-04-10 06:00:46",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2026-04-10 06:00:46",
       "album": {
-        "name": "good kid, m.A.A.d city (Deluxe)",
-        "url": "https://open.spotify.com/album/748dZDqSZy6aPXKcI9H80u"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 310720,
-      "name": "Bitch, Don\u2019t Kill My Vibe",
-      "url": "https://open.spotify.com/track/5h5tBFnbcVioFXiOixTn6E"
-    },
-    {
-      "added_at": "2026-04-10 06:00:46",
-      "album": {
         "name": "R\u00e1pido Soy",
         "url": "https://open.spotify.com/album/6DOUE9WKRCWTfWZlHlY8Qr"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 114125,
       "name": "R\u00e1pido Soy",
       "url": "https://open.spotify.com/track/492zkdiUa0CECUDyiG3d35"
+    },
+    {
+      "added_at": "2026-04-10 06:00:46",
+      "album": {
+        "name": "good kid, m.A.A.d city (Deluxe)",
+        "url": "https://open.spotify.com/album/748dZDqSZy6aPXKcI9H80u"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 310720,
+      "name": "Bitch, Don\u2019t Kill My Vibe",
+      "url": "https://open.spotify.com/track/5h5tBFnbcVioFXiOixTn6E"
     },
     {
       "added_at": "2026-04-10 06:00:46",
@@ -1495,6 +1495,22 @@
     {
       "added_at": "2026-04-10 06:00:46",
       "album": {
+        "name": "Como Pancho Villa",
+        "url": "https://open.spotify.com/album/7tTzvgXlpz8SjQMe89ZEob"
+      },
+      "artists": [
+        {
+          "name": "Chino Pacas",
+          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
+        }
+      ],
+      "duration_ms": 143661,
+      "name": "Como Pancho Villa",
+      "url": "https://open.spotify.com/track/2jZlmAzzsdaVZQk9GmJOmb"
+    },
+    {
+      "added_at": "2026-04-10 06:00:46",
+      "album": {
         "name": "El Abayarde",
         "url": "https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY"
       },
@@ -1527,22 +1543,6 @@
       "duration_ms": 177023,
       "name": "Anda Bien el Nene",
       "url": "https://open.spotify.com/track/5rAnfPGKZGyRBzI5kcAaqB"
-    },
-    {
-      "added_at": "2026-04-10 06:00:46",
-      "album": {
-        "name": "Como Pancho Villa",
-        "url": "https://open.spotify.com/album/7tTzvgXlpz8SjQMe89ZEob"
-      },
-      "artists": [
-        {
-          "name": "Chino Pacas",
-          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
-        }
-      ],
-      "duration_ms": 143661,
-      "name": "Como Pancho Villa",
-      "url": "https://open.spotify.com/track/2jZlmAzzsdaVZQk9GmJOmb"
     },
     {
       "added_at": "2026-04-10 06:00:46",
@@ -1607,26 +1607,6 @@
     {
       "added_at": "2026-04-10 06:00:46",
       "album": {
-        "name": "Gatito",
-        "url": "https://open.spotify.com/album/3uu5Dvy6FsgoZJBzzwECO8"
-      },
-      "artists": [
-        {
-          "name": "El Malilla",
-          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
-        },
-        {
-          "name": "Enayy",
-          "url": "https://open.spotify.com/artist/6NxJgAQlIO7Tgs0AKGkMXZ"
-        }
-      ],
-      "duration_ms": 178043,
-      "name": "Gatito",
-      "url": "https://open.spotify.com/track/5dYEvAwG9X2P7f7qvplVzE"
-    },
-    {
-      "added_at": "2026-04-10 06:00:46",
-      "album": {
         "name": "LA 701",
         "url": "https://open.spotify.com/album/1olJpo7uMM41kxy7MTrBd3"
       },
@@ -1647,6 +1627,26 @@
     {
       "added_at": "2026-04-10 06:00:46",
       "album": {
+        "name": "Gatito",
+        "url": "https://open.spotify.com/album/3uu5Dvy6FsgoZJBzzwECO8"
+      },
+      "artists": [
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        },
+        {
+          "name": "Enayy",
+          "url": "https://open.spotify.com/artist/6NxJgAQlIO7Tgs0AKGkMXZ"
+        }
+      ],
+      "duration_ms": 178043,
+      "name": "Gatito",
+      "url": "https://open.spotify.com/track/5dYEvAwG9X2P7f7qvplVzE"
+    },
+    {
+      "added_at": "2026-04-10 06:00:46",
+      "album": {
         "name": "OKRA",
         "url": "https://open.spotify.com/album/0dXN05tQ4StX1W0lwN95Q6"
       },
@@ -1659,26 +1659,6 @@
       "duration_ms": 151026,
       "name": "OKRA",
       "url": "https://open.spotify.com/track/74ZovzRxHBvCq5yIwe8boh"
-    },
-    {
-      "added_at": "2026-04-10 06:00:46",
-      "album": {
-        "name": "X Amores Ya No Muero",
-        "url": "https://open.spotify.com/album/1aiexqeuQDsUzIQGEmgqov"
-      },
-      "artists": [
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        },
-        {
-          "name": "Juanpa Salazar",
-          "url": "https://open.spotify.com/artist/6r92NGrlnmNvFJA9Kl0PAx"
-        }
-      ],
-      "duration_ms": 211800,
-      "name": "X Amores Ya No Muero",
-      "url": "https://open.spotify.com/track/2vxUkqTy3o9JD9bJwtoYy9"
     },
     {
       "added_at": "2026-04-10 06:00:46",
@@ -1707,6 +1687,26 @@
       "duration_ms": 253560,
       "name": "Bitch Niggaz",
       "url": "https://open.spotify.com/track/5XkeTGKcCkGF8l6fA9YpsS"
+    },
+    {
+      "added_at": "2026-04-10 06:00:46",
+      "album": {
+        "name": "X Amores Ya No Muero",
+        "url": "https://open.spotify.com/album/1aiexqeuQDsUzIQGEmgqov"
+      },
+      "artists": [
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "name": "Juanpa Salazar",
+          "url": "https://open.spotify.com/artist/6r92NGrlnmNvFJA9Kl0PAx"
+        }
+      ],
+      "duration_ms": 211800,
+      "name": "X Amores Ya No Muero",
+      "url": "https://open.spotify.com/track/2vxUkqTy3o9JD9bJwtoYy9"
     },
     {
       "added_at": "2026-04-10 06:00:46",
@@ -1947,22 +1947,18 @@
     {
       "added_at": "2026-04-10 06:00:46",
       "album": {
-        "name": "Bad Company (feat. BlocBoy JB)",
-        "url": "https://open.spotify.com/album/2IB4u7CExI80gM2KbkDtDp"
+        "name": "Capitan O Chachito",
+        "url": "https://open.spotify.com/album/4aOOppgBB4dJ7CmCbTy3yw"
       },
       "artists": [
         {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
-        },
-        {
-          "name": "BlocBoy JB",
-          "url": "https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU"
+          "name": "Ra\u00fal Beltran",
+          "url": "https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP"
         }
       ],
-      "duration_ms": 183809,
-      "name": "Bad Company (feat. BlocBoy JB)",
-      "url": "https://open.spotify.com/track/3ZYwSDF9knZI0RVlKR4PHC"
+      "duration_ms": 224314,
+      "name": "Capitan O Chachito",
+      "url": "https://open.spotify.com/track/3fMRwWZeyBWNVuqXwNas0R"
     }
   ],
   "unique_name": "El Barrio MP3 ",

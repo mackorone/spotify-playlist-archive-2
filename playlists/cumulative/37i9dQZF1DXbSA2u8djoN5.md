@@ -4,7 +4,7 @@
 
 > Lasă\-te inspirat pe ritmuri de hip\-hop\. O ediţie co\-curată cu Grasu XXL
 
-272 songs - 13 hr 21 min
+273 songs - 13 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [CONTACT FATAL \- Enchou Remix](https://open.spotify.com/track/6LjoS951OHpoJQmCUMtxCw) | [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM), [Enchou](https://open.spotify.com/artist/1M7yv1V7YR9HFwgvCJhhUW) | [CONTACT FATAL \(Enchou Remix\)](https://open.spotify.com/album/1mqDjVA7jJr8xdf0vEtwCW) | 2:41 | 2024-10-31 | 2024-11-08 |
 | [CONTACT FATAL 3](https://open.spotify.com/track/2QpMq4mT7gVriPNQMp0oL7) | [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM) | [CONTACT FATAL 3](https://open.spotify.com/album/1k3zLlEuzno4jdOYetv7Pr) | 2:51 | 2024-08-01 | 2024-11-01 |
 | [Contra timp](https://open.spotify.com/track/0wHZ9isU3z52IdADk0oE1u) | [Cabron](https://open.spotify.com/artist/0cw3wLz2S9ryZXmL0vWWQF), [Cristi Minculescu](https://open.spotify.com/artist/5JJ9wazR5aGc0MHAjiCTF0), [Puya](https://open.spotify.com/artist/0Dn3AfYwq9cWRhDqtfelNE) | [Contra timp](https://open.spotify.com/album/4rOIsUkbQ8c6AnAZyuCwpb) | 3:16 | 2025-09-11 | 2025-12-05 |
-| [Copiii Care Am Fost](https://open.spotify.com/track/4mzfGRUi0JxDp4fXdPyVuz) | [Calinacho](https://open.spotify.com/artist/050D4ZE1dXVfLSrQADtEu3), [Bastien](https://open.spotify.com/artist/5LJQcYC7NvCItwZraE7NUS) | [Copiii Care Am Fost](https://open.spotify.com/album/2hH9yLdchCyhiiEKhACBkT) | 2:58 | 2024-11-28 |  |
+| [Copiii Care Am Fost](https://open.spotify.com/track/4mzfGRUi0JxDp4fXdPyVuz) | [Calinacho](https://open.spotify.com/artist/050D4ZE1dXVfLSrQADtEu3), [Bastien](https://open.spotify.com/artist/5LJQcYC7NvCItwZraE7NUS) | [Copiii Care Am Fost](https://open.spotify.com/album/2hH9yLdchCyhiiEKhACBkT) | 2:58 | 2024-11-28 | 2026-05-05 |
 | [Corina](https://open.spotify.com/track/2XQKtN6XwzVBYqJdtjn4zD) | [B.U.G\. Mafia](https://open.spotify.com/artist/4RAbHb0oHO62If4S7h18L0), [Lexi Cali](https://open.spotify.com/artist/7oqOWykH5AIFKctpogZEG8) | [Corina](https://open.spotify.com/album/5MX0exAUTVQQ7gbctilaUi) | 3:41 | 2025-04-24 |  |
 | [Craft](https://open.spotify.com/track/0M3cDeSQ4IsjC8fJHpsUop) | [Keri](https://open.spotify.com/artist/0M2OddlqkyfHNR2ySoT85l), [Butch](https://open.spotify.com/artist/2mrbr3l5ErDgGpQfukAtZr) | [Craft](https://open.spotify.com/album/3B8Fm9cvoc2ds8wj5Z2ITp) | 2:52 | 2025-06-19 | 2025-07-19 |
 | [CUM ADUNI](https://open.spotify.com/track/0D6UMM7ZGaCahAT36P0BEM) | [Cazacov](https://open.spotify.com/artist/4NZ6mc6jykZVesq2izEoE1), [Dodut](https://open.spotify.com/artist/1rUHZkQph9E782V1DjlS0U) | [CUM ADUNI](https://open.spotify.com/album/5NUnaek88CpJie3xlgH5lV) | 2:30 | 2025-05-01 | 2025-05-16 |
@@ -153,6 +153,7 @@
 | [Mana sus](https://open.spotify.com/track/6pLmtX4CSfb4UUOnBQcNAB) | [Mutu](https://open.spotify.com/artist/54EYCPv2Q9BztPlmWqiHKP), [El Nino](https://open.spotify.com/artist/01tCOipZP0bkn0LjSZ5S5i) | [Mana sus](https://open.spotify.com/album/3oX6rRdKN2qgnMoEKPW7vd) | 3:06 | 2025-10-16 | 2025-10-24 |
 | [Maradona](https://open.spotify.com/track/0X1WQkLZ7XMmtkMXx8tceW) | [Amuly](https://open.spotify.com/artist/03eZ4y8baXNaR68hpkkDoq), [Chimie](https://open.spotify.com/artist/3Ah361wcXL9Y4QRDEprLOS), [Flou Rege](https://open.spotify.com/artist/3jSfv7OmnBYAboAXvDvA7E) | [Maradona](https://open.spotify.com/album/2yrGJRdRCXo7L7WHv23ytd) | 5:47 | 2025-02-27 | 2025-03-21 |
 | [MARFA SUB PAT FREESTYLE](https://open.spotify.com/track/5Pd07qsq56Czkz1WeKz2Pz) | [NOSFE](https://open.spotify.com/artist/0MvOpXzkqyFOyom1rrm4NM), [Killa Fonic](https://open.spotify.com/artist/20SBqzpuFoymhieHTNHUgl), [Chimie](https://open.spotify.com/artist/3Ah361wcXL9Y4QRDEprLOS), [Dj Sfera](https://open.spotify.com/artist/41gj3lZnTOhVsORQ9EHQAz) | [40](https://open.spotify.com/album/34836qPAVlodvpfADQbHzv) | 3:23 | 2025-03-27 | 2025-05-02 |
+| [Marile Lucruri Mici](https://open.spotify.com/track/65oJkLT7y2naYYZsJnpCCh) | [MIRA](https://open.spotify.com/artist/2nMFC7hWK0haX8ilvRpb59), [Sami G](https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr) | [Marile Lucruri Mici](https://open.spotify.com/album/1S7cgoRgaQpcU72V3iYa1W) | 2:24 | 2026-04-30 |  |
 | [MAROC](https://open.spotify.com/track/09ePeeqELKQhxRPED0Fakf) | [Vali Miron](https://open.spotify.com/artist/1ojOFDojdgukpkEF7L1opU) | [MAROC](https://open.spotify.com/album/2SWazH4hYRDoeNRYSkrCwe) | 2:20 | 2026-02-26 |  |
 | [Meditez](https://open.spotify.com/track/4oIlgjCDVa54Xi5YinqNyw) | [Marko Glass](https://open.spotify.com/artist/07nCYoPlXkWlhC2FHm1INS), [Bvcovia](https://open.spotify.com/artist/5CqmNRrmp3UP3NGccmlKHR), [Double Edd](https://open.spotify.com/artist/1JybKX6kJizwltWhwwuoOG) | [Meditez](https://open.spotify.com/album/1NiNEqg5QMusfJEzTlyhFv) | 2:10 | 2024-06-27 | 2024-08-16 |
 | [Meditez](https://open.spotify.com/track/22Sol4wqPwnl0DdSQWw3P7) | [Marko Glass](https://open.spotify.com/artist/07nCYoPlXkWlhC2FHm1INS), [Cruz](https://open.spotify.com/artist/4EWzcAe7ZkhBJXL3f6b18f) | [Meditez](https://open.spotify.com/album/4WS4dyqzhQfQBoA94OHsfm) | 2:29 | 2024-06-27 | 2025-02-05 |

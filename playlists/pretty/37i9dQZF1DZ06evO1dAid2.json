@@ -1,12 +1,12 @@
 {
   "description": "This is Chuck Berry. The essential tracks, all in one playlist.",
-  "num_followers": 134077,
+  "num_followers": 134084,
   "original_name": "This Is Chuck Berry",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afU+gAAAAAAEfckBPrbK4ihV6esedG1U",
+  "snapshot_id": "afaQAAAAAAArfhWAy6Lr73lrqBkye2E8",
   "tracks": [
     {
       "added_at": null,
@@ -299,22 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Back Home",
-        "url": "https://open.spotify.com/album/2JMArOghmqNZFFuWDvkSwY"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 275440,
-      "name": "I'm A Rocker",
-      "url": "https://open.spotify.com/track/0x61kbCcvC8WqSihmQMgdA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fresh Berry's",
         "url": "https://open.spotify.com/album/02JS9znmNXHp24jyQaimL6"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 136546,
       "name": "My Mustang Ford",
       "url": "https://open.spotify.com/track/0IHYNEHVT1zMEeNOgvyg9B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Back Home",
+        "url": "https://open.spotify.com/album/2JMArOghmqNZFFuWDvkSwY"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 275440,
+      "name": "I'm A Rocker",
+      "url": "https://open.spotify.com/track/0x61kbCcvC8WqSihmQMgdA"
     },
     {
       "added_at": null,
@@ -507,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Have Mercy - His Complete Chess Recordings 1969 - 1974",
-        "url": "https://open.spotify.com/album/27q84AdiSVhTtrGOwwoMIW"
+        "name": "Chuck Berry",
+        "url": "https://open.spotify.com/album/22lITYheqEYw53CHJiQMgW"
       },
       "artists": [
         {
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
         }
       ],
-      "duration_ms": 223573,
-      "name": "My Ding-A-Ling",
-      "url": "https://open.spotify.com/track/2L8mIvM1OwkJyGb3WwDFT3"
+      "duration_ms": 137573,
+      "name": "Shake, Rattle And Roll",
+      "url": "https://open.spotify.com/track/1JbHO0Kx2VsukFk0tEZVJt"
     },
     {
       "added_at": null,
@@ -539,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chuck Berry",
-        "url": "https://open.spotify.com/album/22lITYheqEYw53CHJiQMgW"
+        "name": "Have Mercy - His Complete Chess Recordings 1969 - 1974",
+        "url": "https://open.spotify.com/album/27q84AdiSVhTtrGOwwoMIW"
       },
       "artists": [
         {
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
         }
       ],
-      "duration_ms": 137573,
-      "name": "Shake, Rattle And Roll",
-      "url": "https://open.spotify.com/track/1JbHO0Kx2VsukFk0tEZVJt"
+      "duration_ms": 223573,
+      "name": "My Ding-A-Ling",
+      "url": "https://open.spotify.com/track/2L8mIvM1OwkJyGb3WwDFT3"
     },
     {
       "added_at": null,
@@ -567,6 +567,22 @@
       "duration_ms": 140160,
       "name": "Louis To Frisco",
       "url": "https://open.spotify.com/track/6H7OQEC6V2X0mB0ss3yrI8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "San Francisco Dues",
+        "url": "https://open.spotify.com/album/1gx9zPpDsECgKU5TUc7PbR"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 205733,
+      "name": "San Francisco Dues",
+      "url": "https://open.spotify.com/track/2ksmbGi6N2xe3ToE6V7rsd"
     },
     {
       "added_at": null,
@@ -591,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "San Francisco Dues",
-        "url": "https://open.spotify.com/album/1gx9zPpDsECgKU5TUc7PbR"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 205733,
-      "name": "San Francisco Dues",
-      "url": "https://open.spotify.com/track/2ksmbGi6N2xe3ToE6V7rsd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "St. Louis To Liverpool",
         "url": "https://open.spotify.com/album/6ITR4bqkKZGyanAlQgXtyK"
       },
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
         }
       ],
-      "duration_ms": 178106,
-      "name": "Go Bobby Soxer",
-      "url": "https://open.spotify.com/track/4thIUA9RxwUcsjiUVo33Lt"
+      "duration_ms": 155933,
+      "name": "Little Marie",
+      "url": "https://open.spotify.com/track/3Hh5o5GUOveghI5l7DrvgT"
     },
     {
       "added_at": null,
@@ -639,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chuck Berry On Stage (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2bQQlbekyxsh1NaFw2qdlV"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 151706,
-      "name": "Go Go Go",
-      "url": "https://open.spotify.com/track/7n6DqQOYC6iMvMh9UESzq7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rockin' At The Hops",
         "url": "https://open.spotify.com/album/48jzxU4WCz6726keexOGoe"
       },
@@ -671,6 +655,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Chuck Berry On Stage (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2bQQlbekyxsh1NaFw2qdlV"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 151706,
+      "name": "Go Go Go",
+      "url": "https://open.spotify.com/track/7n6DqQOYC6iMvMh9UESzq7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "St. Louis To Liverpool",
         "url": "https://open.spotify.com/album/6ITR4bqkKZGyanAlQgXtyK"
       },
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
         }
       ],
-      "duration_ms": 155933,
-      "name": "Little Marie",
-      "url": "https://open.spotify.com/track/3Hh5o5GUOveghI5l7DrvgT"
+      "duration_ms": 178106,
+      "name": "Go Bobby Soxer",
+      "url": "https://open.spotify.com/track/4thIUA9RxwUcsjiUVo33Lt"
     },
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chuck Berry In London",
-        "url": "https://open.spotify.com/album/7iSQ8Jg0DA18JCl4SqpDEW"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 157320,
-      "name": "St. Louis Blues",
-      "url": "https://open.spotify.com/track/0tsgFZdGoCVMeaXVmnrWbF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rockin' At The Hops",
         "url": "https://open.spotify.com/album/48jzxU4WCz6726keexOGoe"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 132973,
       "name": "I Got To Find My Baby - Single Version",
       "url": "https://open.spotify.com/track/5qojkHvPBrbT0Z7SAgYboD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chuck Berry In London",
+        "url": "https://open.spotify.com/album/7iSQ8Jg0DA18JCl4SqpDEW"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 157320,
+      "name": "St. Louis Blues",
+      "url": "https://open.spotify.com/track/0tsgFZdGoCVMeaXVmnrWbF"
     },
     {
       "added_at": null,

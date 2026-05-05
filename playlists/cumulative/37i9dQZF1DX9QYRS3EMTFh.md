@@ -4,7 +4,7 @@
 
 > Les hits dancehall, shatta & bouyon du moment\. Photo : Miimii KDS
 
-886 songs - 1 day 13 hr 47 min
+887 songs - 1 day 13 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -768,7 +768,8 @@
 | [Survivor](https://open.spotify.com/track/0XkxmhfIChUxKIsoVI6NUv) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Survivor](https://open.spotify.com/album/1Ow69nW0k1iE4JqrjngpBb) | 3:14 | 2021-12-22 | 2022-03-18 |
 | [Sweet Bounce](https://open.spotify.com/track/4eJzT99FOUzZRv0fR64cLo) | [DJ Frass](https://open.spotify.com/artist/0OV6SkCcoRHlz2uaCo0PG9), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Sweet Bounce](https://open.spotify.com/album/6Ti15rCfRJRImhJzMkDqq3) | 1:36 | 2022-06-16 | 2022-08-26 |
 | [Swipe](https://open.spotify.com/track/0ASXXXCxdvzPAdpH6pKFNk) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [Swipe](https://open.spotify.com/album/2khxHsYSTnnyKkQKOL67I1) | 2:34 | 2025-07-17 | 2025-11-07 |
-| [Sé Miimii](https://open.spotify.com/track/0GhVtqzmazON0vBT3ktTWQ) | [Miimii KDS](https://open.spotify.com/artist/0mpZpEH8VcL0tYoGLhR8sd), [Dj Skycee](https://open.spotify.com/artist/5jlk3dPxH5lO988DGuOglj) | [Sé Miimii](https://open.spotify.com/album/6aI8wP4cYv4NAtGDThBD22) | 2:01 | 2025-12-11 |  |
+| [Sé Miimii](https://open.spotify.com/track/0GhVtqzmazON0vBT3ktTWQ) | [Miimii KDS](https://open.spotify.com/artist/0mpZpEH8VcL0tYoGLhR8sd), [Dj Skycee](https://open.spotify.com/artist/5jlk3dPxH5lO988DGuOglj) | [Sé Miimii](https://open.spotify.com/album/6aI8wP4cYv4NAtGDThBD22) | 2:01 | 2025-12-11 | 2026-05-05 |
+| [Sé Miimii](https://open.spotify.com/track/46BNhNbHZi98svu6pFwYVq) | [Miimii KDS](https://open.spotify.com/artist/0mpZpEH8VcL0tYoGLhR8sd), [DJ SKYCEE](https://open.spotify.com/artist/2LhAINHQMEMY2qL0AyNHmv) | [Sé Miimii](https://open.spotify.com/album/6POEgRFXk9dDYxWvQW8To4) | 2:01 | 2026-05-04 |  |
 | [T'es où?](https://open.spotify.com/track/3gdu5xRlYNIBeodZBkVpcq) | [T\-Jy](https://open.spotify.com/artist/28YuYWLmKm0vl1gb5cUIta), [Shad Hottaboy](https://open.spotify.com/artist/3LWw4ar9kTrbOgTUvyZQjW) | [T'es où?](https://open.spotify.com/album/1IgbyS5GzJAvhd6IKo6c5b) | 2:29 | 2026-02-19 | 2026-04-10 |
 | [Ta meuf](https://open.spotify.com/track/17709i83p9cPzoPaPCq9jm) | [T\-Jy](https://open.spotify.com/artist/28YuYWLmKm0vl1gb5cUIta), [DJ Vtrine](https://open.spotify.com/artist/5icUzHElWE8qf9hxxU1nd2) | [Ta meuf](https://open.spotify.com/album/2Q7fKtZMhmXi6PV4tDSH2o) | 1:49 | 2025-04-24 | 2025-10-24 |
 | [TA NANA](https://open.spotify.com/track/2lOXSKiuIVezC04uWVWYJx) | [DJ Kawest](https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA), [TKS 2G](https://open.spotify.com/artist/26ZKmgHKJWQdnSKUZCVEKa) | [TA NANA](https://open.spotify.com/album/7kd70QeqCdfl6MzMzbGjyF) | 1:57 | 2025-10-02 | 2025-12-05 |

@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 201400,
       "name": "10-90",
       "url": "https://open.spotify.com/track/1NDFcGLZEHByr0jrC0GKsq"
@@ -272,7 +272,7 @@
       ],
       "date_added": "2024-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 235002,
       "name": "Am I Okay?",
       "url": "https://open.spotify.com/track/36wAwEkSDpNQ4oQeRLYC3L"
@@ -326,7 +326,7 @@
       ],
       "date_added": "2025-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 248832,
       "name": "Baby Blue",
       "url": "https://open.spotify.com/track/6sthHfwGUlwXAKY4pHUk6U"
@@ -475,6 +475,24 @@
     },
     {
       "album": {
+        "name": "Bet On That",
+        "url": "https://open.spotify.com/album/3FHP2epbEekzQgGe3jHegf"
+      },
+      "artists": [
+        {
+          "name": "Blake Whiten",
+          "url": "https://open.spotify.com/artist/1BjlNhp6EsDG0UMroeJbRM"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190282,
+      "name": "Bet On That",
+      "url": "https://open.spotify.com/track/7DOqRPa9Z5jEHRdo3zyLPo"
+    },
+    {
+      "album": {
         "name": "Betrayal",
         "url": "https://open.spotify.com/album/3Q6tNsnuWm0bpYS5RAJlYc"
       },
@@ -592,7 +610,7 @@
       ],
       "date_added": "2024-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 162115,
       "name": "BLAME",
       "url": "https://open.spotify.com/track/6krhdjLqzCefSnaGgUidUq"
@@ -1604,7 +1622,7 @@
       ],
       "date_added": "2025-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 202161,
       "name": "Fragile",
       "url": "https://open.spotify.com/track/5LD1SWmhzKPPkRimY7BDM6"
@@ -1975,6 +1993,24 @@
     },
     {
       "album": {
+        "name": "Hello Lonesome",
+        "url": "https://open.spotify.com/album/5Pgw3QdJQwEcMeNVUWeh0g"
+      },
+      "artists": [
+        {
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178733,
+      "name": "Hello Lonesome",
+      "url": "https://open.spotify.com/track/47qfqPgCVKvQ7QEn34uK59"
+    },
+    {
+      "album": {
         "name": "Zach Bryan",
         "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
       },
@@ -2048,6 +2084,28 @@
       "duration_ms": 195157,
       "name": "Holy Smokes",
       "url": "https://open.spotify.com/track/1kMWJ16W3Yk3hyNmaM7jfQ"
+    },
+    {
+      "album": {
+        "name": "Middle of Nowhere",
+        "url": "https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        },
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163689,
+      "name": "Horses and Divorces (feat. Miranda Lambert)",
+      "url": "https://open.spotify.com/track/44tr6kkaMRgd2UVG44wqv7"
     },
     {
       "album": {
@@ -2323,6 +2381,24 @@
     },
     {
       "album": {
+        "name": "I Know I Know",
+        "url": "https://open.spotify.com/album/6vt7I2vcCWzmo8ExiTahAA"
+      },
+      "artists": [
+        {
+          "name": "STELLA LEFTY",
+          "url": "https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159210,
+      "name": "I Know I Know",
+      "url": "https://open.spotify.com/track/1Ot6QuJzCY66UdLK1ci3sc"
+    },
+    {
+      "album": {
         "name": "I Know It\u2019ll Never End",
         "url": "https://open.spotify.com/album/6FZBJXoiTOMGScOWc0uepS"
       },
@@ -2472,7 +2548,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 188106,
       "name": "I'm Gonna Love You",
       "url": "https://open.spotify.com/track/6dayCflQl0ISXwZs6GBygC"
@@ -2606,7 +2682,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 161214,
       "name": "Just Believe",
       "url": "https://open.spotify.com/track/4wudj4XYQ1dqmK2vcZwudU"
@@ -3662,7 +3738,7 @@
       ],
       "date_added": "2024-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 165000,
       "name": "Overdue",
       "url": "https://open.spotify.com/track/5GJD4k0pnqR82k6wTyZip1"
@@ -3822,7 +3898,7 @@
       ],
       "date_added": "2024-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 198748,
       "name": "PSYCHO",
       "url": "https://open.spotify.com/track/6Ck9THD8AaqwNW5RYQd0RY"
@@ -4054,7 +4130,7 @@
       ],
       "date_added": "2024-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 183242,
       "name": "Santa Fe",
       "url": "https://open.spotify.com/track/12AEBgTTELBhtAthd5dRqH"
@@ -4632,7 +4708,7 @@
       ],
       "date_added": "2025-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 202768,
       "name": "The Giver",
       "url": "https://open.spotify.com/track/5xHgo5JN0wfsV41HnRaos5"
@@ -4686,7 +4762,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 211413,
       "name": "The Painter",
       "url": "https://open.spotify.com/track/5DQU4Fmdx7Hs7pwtcZMSTK"
@@ -4982,6 +5058,24 @@
       "duration_ms": 157913,
       "name": "Two Wheel Drive Cowboy",
       "url": "https://open.spotify.com/track/5P50sBnHTqfbA6ciFs0cBY"
+    },
+    {
+      "album": {
+        "name": "Wannabe",
+        "url": "https://open.spotify.com/album/34gdi3XOhjwXejLBO4ldJ8"
+      },
+      "artists": [
+        {
+          "name": "Gavin Adcock",
+          "url": "https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167017,
+      "name": "Wannabe",
+      "url": "https://open.spotify.com/track/3aLpfXqpQPUAVvlvxJhFnD"
     },
     {
       "album": {

@@ -2,7 +2,7 @@
 
 ### [GLOW](https://open.spotify.com/playlist/37i9dQZF1DX3LyU0mhfqgP)
 
-> Songs from LGBTQIA+ artists\. Cover: Milune
+> Songs from LGBTQIA+ artists\. Cover: Ouineta
 
 1,783 songs - 4 day 0 hr 38 min
 

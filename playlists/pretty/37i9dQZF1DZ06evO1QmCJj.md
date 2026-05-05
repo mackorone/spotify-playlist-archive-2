@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1QmCJj.md) - [plain]
 
 > This is Lola Indigo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,611 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,617 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1QmCJj.md) - [plain]
 | 12 | [POR EL EX NO SE LLORA](https://open.spotify.com/track/1ZNLgW8KFCK695C9C5sIq7) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [QUE SED](https://open.spotify.com/album/2q6PAdBBf4L2Xpxqc3jd8b) | 2:04 |
 | 13 | [VERDE](https://open.spotify.com/track/3pw0tTPW8IJ89SxocA99Ac) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [VERDE](https://open.spotify.com/album/7xjkG9sYMkyufKXTXby3Er) | 2:05 |
 | 14 | [UNA BACHATA](https://open.spotify.com/track/4SmMe198ot30paOyvuTH5w) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [GRX](https://open.spotify.com/album/2ORVtNDtwoBtJ1uTzRJogx) | 2:37 |
-| 15 | [PERREITO PA LLORAR](https://open.spotify.com/track/3ZcUKMaqWY7jGEzAoU5mQs) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [PERREITO PA LLORAR](https://open.spotify.com/album/4IXouaHajcxSQwD8rlYwhv) | 3:33 |
-| 16 | [EL PANTALON \- RUMBAS](https://open.spotify.com/track/7CsOowK8aWlxgjuZLW7pXA) | [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Las Chuches](https://open.spotify.com/artist/4Orj5NmOg4wuREX0dzsyjR) | [LAGRIMAS DE UN MALEANTE](https://open.spotify.com/album/4hzbSxExXzavyIJGmqQb5q) | 3:13 |
+| 15 | [EL PANTALON \- RUMBAS](https://open.spotify.com/track/7CsOowK8aWlxgjuZLW7pXA) | [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Las Chuches](https://open.spotify.com/artist/4Orj5NmOg4wuREX0dzsyjR) | [LAGRIMAS DE UN MALEANTE](https://open.spotify.com/album/4hzbSxExXzavyIJGmqQb5q) | 3:13 |
+| 16 | [PERREITO PA LLORAR](https://open.spotify.com/track/3ZcUKMaqWY7jGEzAoU5mQs) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [PERREITO PA LLORAR](https://open.spotify.com/album/4IXouaHajcxSQwD8rlYwhv) | 3:33 |
 | 17 | [CORAZÓN PARTÍO \- Spotify Singles](https://open.spotify.com/track/7IOYWDbBjwMvOEwQQ89DoF) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [Spotify Singles](https://open.spotify.com/album/5ecHiU1k8hCfy61X3Q5W7T) | 4:13 |
 | 18 | [EL CONDENAO](https://open.spotify.com/track/6Ve9LTqkZJqf9qj1S7sQ7q) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Maka](https://open.spotify.com/artist/4lHAjTCvXGu8QIM3cEe93m) | [GRX](https://open.spotify.com/album/2ORVtNDtwoBtJ1uTzRJogx) | 2:24 |
 | 19 | [Santería](https://open.spotify.com/track/3VArTR8VPyOEiITj8SJMLv) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62) | [Santería](https://open.spotify.com/album/2m9hbe3YP1PXygWHN1gUAy) | 3:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1QmCJj.md) - [plain]
 | 49 | [YO TENGO UN NOVIO](https://open.spotify.com/track/6sS6ZaxqVAWIBJpMGU3OdX) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [La Zowi](https://open.spotify.com/artist/1jB62pOe5WpGiHOBDtKBBG) | [GRX](https://open.spotify.com/album/2ORVtNDtwoBtJ1uTzRJogx) | 2:24 |
 | 50 | [ULTRAVIOLETA](https://open.spotify.com/track/3OFS5I1SC248VIuWFe4NPJ) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [EL DRAGÓN](https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH) | 2:41 |
 
-Snapshot ID: `afU+gAAAAADRcz2KD4TEHXqiboRX+Uhr`
+Snapshot ID: `afaQAAAAAABAUn1Rr2w92Isb6llSFEUE`

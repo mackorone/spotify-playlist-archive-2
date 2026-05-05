@@ -2101,6 +2101,32 @@
     },
     {
       "album": {
+        "name": "Evare",
+        "url": "https://open.spotify.com/album/2nYjlrqfgV7HaadrJV676Y"
+      },
+      "artists": [
+        {
+          "name": "SS Vardhan",
+          "url": "https://open.spotify.com/artist/0KoZrlePZVOyfMntY1RftL"
+        },
+        {
+          "name": "Pavan Kalyan",
+          "url": "https://open.spotify.com/artist/0gpmv3FkE6npT2OWGPrJvi"
+        },
+        {
+          "name": "Ananya Bhaskar",
+          "url": "https://open.spotify.com/artist/2ASPehpzXvICVG33VxStFr"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297308,
+      "name": "Evare",
+      "url": "https://open.spotify.com/track/0tqltBDUtMxr880sGdub7C"
+    },
+    {
+      "album": {
         "name": "Evvare Evvare",
         "url": "https://open.spotify.com/album/7aADKIlahFtMNGHlOCAzUu"
       },
@@ -5881,6 +5907,24 @@
     },
     {
       "album": {
+        "name": "Arthamaina Adhyayam",
+        "url": "https://open.spotify.com/album/4QYGexAakxHjR5RuN2Ugf1"
+      },
+      "artists": [
+        {
+          "name": "Adithya RK",
+          "url": "https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275647,
+      "name": "Nee Parichayame",
+      "url": "https://open.spotify.com/track/4zgLrMrPEMXaTokloGJwPA"
+    },
+    {
+      "album": {
         "name": "Nee Vallane",
         "url": "https://open.spotify.com/album/6hZWewhZ3b2Q4CJxK3wU2C"
       },
@@ -7356,6 +7400,28 @@
       "duration_ms": 182547,
       "name": "Paravasama",
       "url": "https://open.spotify.com/track/3Z38rkZOQ27YdeFF7HTSTn"
+    },
+    {
+      "album": {
+        "name": "Paravasame",
+        "url": "https://open.spotify.com/album/2kuwQYiup392L0setiugzf"
+      },
+      "artists": [
+        {
+          "name": "Hemanth Kashyap",
+          "url": "https://open.spotify.com/artist/4ZNSNlmiVP3hZcCErVPolq"
+        },
+        {
+          "name": "Aishwarya Daruri",
+          "url": "https://open.spotify.com/artist/3qTd6UfFRiDnDucDLWAAyf"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244285,
+      "name": "Paravasame",
+      "url": "https://open.spotify.com/track/6nIEPjR7IchU95oxV3qOGc"
     },
     {
       "album": {
@@ -10733,6 +10799,36 @@
     },
     {
       "album": {
+        "name": "Will You Be Mine (Telugu)",
+        "url": "https://open.spotify.com/album/6jc404XykoDoRtI6ArGqmo"
+      },
+      "artists": [
+        {
+          "name": "Shravan Sridhar",
+          "url": "https://open.spotify.com/artist/0TMLPi3f3qrkHV8y7Ccvec"
+        },
+        {
+          "name": "Siva Sravan",
+          "url": "https://open.spotify.com/artist/5z5hcFAteOuDjIAC05JTUQ"
+        },
+        {
+          "name": "Ramya RamC",
+          "url": "https://open.spotify.com/artist/5eB3DzLMr1y7Hh05jd7buD"
+        },
+        {
+          "name": "Shanmukha Bharadwaj",
+          "url": "https://open.spotify.com/artist/6MzSHtji9Z61LAc1c8GyNd"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187496,
+      "name": "Will You Be Mine (Telugu)",
+      "url": "https://open.spotify.com/track/3rXe2JaKT1Lq0ROkH5Rjbk"
+    },
+    {
+      "album": {
         "name": "Wrong Number",
         "url": "https://open.spotify.com/album/2nF1TsPD7om6RAyfW0Rroz"
       },
@@ -10774,6 +10870,28 @@
       "duration_ms": 181090,
       "name": "Yamuna Theera Vihari",
       "url": "https://open.spotify.com/track/0qkgjU4Z6mxv4tKzZ4Phon"
+    },
+    {
+      "album": {
+        "name": "Arthamaina Adhyayam",
+        "url": "https://open.spotify.com/album/4QYGexAakxHjR5RuN2Ugf1"
+      },
+      "artists": [
+        {
+          "name": "Vrusha Balu",
+          "url": "https://open.spotify.com/artist/5jhSfBeqM0W5nyTHA3EUjT"
+        },
+        {
+          "name": "Adithya RK",
+          "url": "https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267857,
+      "name": "Ye Ramasilaka",
+      "url": "https://open.spotify.com/track/01bofO4sNrsVWuBUb3jNh9"
     },
     {
       "album": {

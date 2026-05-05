@@ -625,6 +625,24 @@
     },
     {
       "album": {
+        "name": "Legacy",
+        "url": "https://open.spotify.com/album/5NDaNks6hl1TrAroRYvc0T"
+      },
+      "artists": [
+        {
+          "name": "Nelson Freitas",
+          "url": "https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190624,
+      "name": "Bai Cau Verde",
+      "url": "https://open.spotify.com/track/1DABugvwE3LK0AhVpbB6Kg"
+    },
+    {
+      "album": {
         "name": "Bambi",
         "url": "https://open.spotify.com/album/48gDv65vyvEszJB79hJEwc"
       },
@@ -1527,6 +1545,28 @@
     },
     {
       "album": {
+        "name": "Fallin' (feat. Leon Thomas)",
+        "url": "https://open.spotify.com/album/36084xkxfgcSMnaeWphBOY"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266276,
+      "name": "Fallin' (feat. Leon Thomas)",
+      "url": "https://open.spotify.com/track/5XFwDMO60LntXrFSWHPopc"
+    },
+    {
+      "album": {
         "name": "Gemengde Gevoelens",
         "url": "https://open.spotify.com/album/3CSe0pMc9mifZMIGnfnfzK"
       },
@@ -2212,7 +2252,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 202886,
       "name": "HOE",
       "url": "https://open.spotify.com/track/0fB4BuWrtqYf93J9aCMQQR"
@@ -2770,7 +2810,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 147386,
       "name": "Kippenvel",
       "url": "https://open.spotify.com/track/5az6MrkqP5kPGn6untodfZ"
@@ -2810,7 +2850,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 160340,
       "name": "Kom Je Halen",
       "url": "https://open.spotify.com/track/1jP8mOe5joQg5isHUTukcg"
@@ -6464,6 +6504,24 @@
       "duration_ms": 188571,
       "name": "WITH THAT",
       "url": "https://open.spotify.com/track/0j61UsAExNEJUx6VBn5okq"
+    },
+    {
+      "album": {
+        "name": "Gemengde Gevoelens",
+        "url": "https://open.spotify.com/album/43gObjZEQVFxslTrSisJFU"
+      },
+      "artists": [
+        {
+          "name": "Yxng Le",
+          "url": "https://open.spotify.com/artist/3Ptyea6E1lJgg6W64f0OQa"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145531,
+      "name": "Won't Rush - Bonus Track",
+      "url": "https://open.spotify.com/track/3vPdgE7z9k4R5urn76hYqa"
     },
     {
       "album": {

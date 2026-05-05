@@ -3421,6 +3421,24 @@
     },
     {
       "album": {
+        "name": "Pa\u2019 Colombia",
+        "url": "https://open.spotify.com/album/7CLGj0KlC6vypzSUc7FXpw"
+      },
+      "artists": [
+        {
+          "name": "R Nova",
+          "url": "https://open.spotify.com/artist/7rXuCCgw2Intfg2EJdQypx"
+        }
+      ],
+      "date_added": "2026-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95172,
+      "name": "Pa\u2019 Colombia",
+      "url": "https://open.spotify.com/track/2V3EI83Xwl4R9cTuisRbBN"
+    },
+    {
+      "album": {
         "name": "DTOX",
         "url": "https://open.spotify.com/album/3Pe3gBLsaciO2Oae7Q5pw1"
       },
@@ -4394,7 +4412,7 @@
       ],
       "date_added": "2026-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 208321,
       "name": "Tu Eres Mi Alegr\u00eda",
       "url": "https://open.spotify.com/track/3hKH4XhqFAFWaPz8ZSkcyg"

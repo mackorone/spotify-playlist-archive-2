@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 
 > Lmao \-.\-
 
-[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 478 songs - 1 day 3 hr 27 min
+[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 482 songs - 1 day 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -486,5 +486,9 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 | 476 | [Coppelia](https://open.spotify.com/track/70SMFYMWEIEUXa7mP3EDAD) | [Kaya](https://open.spotify.com/artist/2QIdg099yylM16gsKCTrsg) | [Nocturne](https://open.spotify.com/album/3qnEQEn785VdJmtJcWA1Iw) | 4:18 |
 | 477 | [======](https://open.spotify.com/track/3D3UfAdlk4efXuvaOO9xDl) | [x0o0x\_](https://open.spotify.com/artist/2QLccJ5Jtn9Cj5xcfB9ufz) | [======](https://open.spotify.com/album/4i6zsLsQQnXik2tNlM9yis) | 2:15 |
 | 478 | [行列のできるえーりん診療所](https://open.spotify.com/track/48MDfmg92Za0nfWRLP8GCH) | [IOSYS](https://open.spotify.com/artist/7lw3txgTpihF2On2QVtldq) | [東方真華神祭](https://open.spotify.com/album/4AP6lMjgYrZ1TL0O29Rgxm) | 3:27 |
+| 479 | [パンダヒーロー \- ORIGINAL](https://open.spotify.com/track/0vENG11oPsLk9PCCH28M7S) | [hachi](https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd) | [OFFICIAL ORANGE](https://open.spotify.com/album/3LCFnbLjqO5qTbX23ZXaPI) | 3:47 |
+| 480 | [ホワイトマインド \(feat\. 初音ミク\)](https://open.spotify.com/track/6zFiEUXgQbwOtOeYi8TJyB) | [Glue](https://open.spotify.com/artist/4RYgfACpO30g7D88VWvk85) | [ホワイトマインド](https://open.spotify.com/album/0d3l2BZ46eTTzl0ZBKNXbt) | 3:30 |
+| 481 | [yatsumeana](https://open.spotify.com/track/3mjDAKJ5wQeX3Qv2Jt3Uv3) | [XxXX](https://open.spotify.com/artist/6rimWLdviDbddrg9rmY88B) | [xxxx](https://open.spotify.com/album/7wNj1HwSTYsoCYKya1kZah) | 3:41 |
+| 482 | [パメラ](https://open.spotify.com/track/0kdCJN0s1FB37IJoHWaZEk) | [balloon](https://open.spotify.com/artist/49sPDY14qlYMAdi6WDsvva) | [パメラ](https://open.spotify.com/album/5ZJTnfc4A7HFzZx0DEKanl) | 3:16 |
 
-Snapshot ID: `AAAKJjjC1wECDrOsLTv3dKfj44ChktJ8`
+Snapshot ID: `AAAKKt6uJWUPOzYobXOerXRaOtjy7kZ1`

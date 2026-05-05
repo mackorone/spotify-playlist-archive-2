@@ -875,6 +875,28 @@
     },
     {
       "album": {
+        "name": "Bean",
+        "url": "https://open.spotify.com/album/6I2zQcaMricNbic08Muwwt"
+      },
+      "artists": [
+        {
+          "name": "3robi",
+          "url": "https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o"
+        },
+        {
+          "name": "Chahid",
+          "url": "https://open.spotify.com/artist/6EBuwu67SbT5U1Gns5bvCb"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146171,
+      "name": "Bean",
+      "url": "https://open.spotify.com/track/2Krb5luBGFRl8IVZgpfbMf"
+    },
+    {
+      "album": {
         "name": "Reset",
         "url": "https://open.spotify.com/album/01YPoXB22upTPnELbZ1UBw"
       },
@@ -3454,7 +3476,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 167832,
       "name": "Ik Kan Niet Op Niks Zijn",
       "url": "https://open.spotify.com/track/7ME8lhzqpwfWUMzthlb6KI"
@@ -4628,7 +4650,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 119263,
       "name": "Maffia Rap",
       "url": "https://open.spotify.com/track/4CEoXJsqsdlAKzULXJqttA"
@@ -6551,6 +6573,28 @@
     },
     {
       "album": {
+        "name": "Queen Treatment",
+        "url": "https://open.spotify.com/album/2ppjSromD7XOUKWZzrZeq1"
+      },
+      "artists": [
+        {
+          "name": "Topperig",
+          "url": "https://open.spotify.com/artist/4ZCjmwaMyx0uu5QShvrEZu"
+        },
+        {
+          "name": "Rits",
+          "url": "https://open.spotify.com/artist/0zjY4NHr3mdGq8Mn8btl3O"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Queen Treatment",
+      "url": "https://open.spotify.com/track/7Haxic1q7JdJEMPYQtRnGj"
+    },
+    {
+      "album": {
         "name": "Rechtsaf",
         "url": "https://open.spotify.com/album/6t643GW4SZhvCmN3z8Paal"
       },
@@ -7350,6 +7394,28 @@
       "duration_ms": 159393,
       "name": "Stap Maar In",
       "url": "https://open.spotify.com/track/4XBuMkIUw2dT2I0wipNYAL"
+    },
+    {
+      "album": {
+        "name": "Statistiek",
+        "url": "https://open.spotify.com/album/0AMQRH4im5l2sK2hmd8zJ7"
+      },
+      "artists": [
+        {
+          "name": "Sam J'taime",
+          "url": "https://open.spotify.com/artist/5xI2wCNNCEJClRVASUysAh"
+        },
+        {
+          "name": "Kingsize",
+          "url": "https://open.spotify.com/artist/1d6XcWMNZgvbgs123LlFgJ"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146135,
+      "name": "Statistiek",
+      "url": "https://open.spotify.com/track/3fvcLv7lGZDufuABlfhclr"
     },
     {
       "album": {

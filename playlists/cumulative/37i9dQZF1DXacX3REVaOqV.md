@@ -4,7 +4,7 @@
 
 > The best in house music
 
-790 songs - 2 day 2 hr 51 min
+791 songs - 2 day 2 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Baby Voque](https://open.spotify.com/track/3G8vb4FR4K0TNemgWvpPdJ) | [Ghostbusterz](https://open.spotify.com/artist/62afOPRPMMS388Upk1nZP4) | [Baby Voque](https://open.spotify.com/album/2S5YMMdTA5r5TVBN9hf683) | 5:16 | 2024-09-12 | 2025-10-07 |
 | [Back To Love](https://open.spotify.com/track/7bgg6TYXN8OCHDli94lOKe) | [Low Steppa](https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob), [Reigns](https://open.spotify.com/artist/4tKUuPctyFQus63BKH4JtG) | [Back To Love](https://open.spotify.com/album/4oeALA3Duci3OwWivbVNAN) | 2:45 | 2023-07-14 | 2024-07-02 |
 | [Back To The 00s](https://open.spotify.com/track/5v0YaYtm8CCdyhBuv3tOBi) | [Tagmann](https://open.spotify.com/artist/12mvXbSB0GrbiXeqbh2Is7), [Sem Jacobs](https://open.spotify.com/artist/4IDxbXfz5yMK7OGD4sdRjt) | [Back To The 00s EP](https://open.spotify.com/album/7AsNZZrJHooqb8GgjnPQ7a) | 3:15 | 2023-12-01 | 2024-09-13 |
-| [Back To The Old \- Joeski Remix](https://open.spotify.com/track/5X3p1qsoCgxATEnWsqDSbS) | [Dario D'Attis](https://open.spotify.com/artist/0BSNfFPlI0efsuZljJtknX), [Mr\. V](https://open.spotify.com/artist/659qXyHaiMTKxFjBMMDpo8), [Joeski](https://open.spotify.com/artist/3OsEdeMsQIAdDi2OduzED7) | [Back To The Old](https://open.spotify.com/album/5RdANBW2sritjPOVUhrW3N) | 6:45 | 2025-04-17 |  |
+| [Back To The Old \- Joeski Remix](https://open.spotify.com/track/5X3p1qsoCgxATEnWsqDSbS) | [Dario D'Attis](https://open.spotify.com/artist/0BSNfFPlI0efsuZljJtknX), [Mr\. V](https://open.spotify.com/artist/659qXyHaiMTKxFjBMMDpo8), [Joeski](https://open.spotify.com/artist/3OsEdeMsQIAdDi2OduzED7) | [Back To The Old](https://open.spotify.com/album/5RdANBW2sritjPOVUhrW3N) | 6:45 | 2025-04-17 | 2026-05-05 |
 | [Back to the Raw \- Vocal Rough Mix](https://open.spotify.com/track/6CmLQCBSjUdQRt2uqB0jx6) | [Kerri Chandler](https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W) | [Back to the Raw](https://open.spotify.com/album/63SwZvdIlzjxpAPnBuICEm) | 7:56 | 2022-04-14 | 2022-07-28 |
 | [Back Together \(feat\. Ron Carroll\) \- Copyright Dub Mix](https://open.spotify.com/track/0O150NBPq9Bb0WUBznAlF0) | [Hardsoul](https://open.spotify.com/artist/1pOxKVLc0EXgcOSqyWOlKi), [Ron Carroll](https://open.spotify.com/artist/4GcXer1D6UzmWfW1wTqS9r), [Copyright](https://open.spotify.com/artist/1QcNpVT6u0dHxmjpZoJtHd) | [Back Together \(feat\. Ron Carroll\)](https://open.spotify.com/album/6UAsBOuRtgAy0MMlTPOS7Z) | 7:18 | 2022-04-28 | 2023-04-07 |
 | [Back Tomorrow](https://open.spotify.com/track/4q2azQakSVVyqljRiCZtu3) | [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Back Tomorrow](https://open.spotify.com/album/1UOQt2dEoHhoJTinUxvFaI) | 1:58 | 2022-04-14 | 2022-11-19 |
@@ -265,6 +265,7 @@
 | [Get Me High](https://open.spotify.com/track/6kiNRgtGWVSV3lyLBSizY6) | [Mia More](https://open.spotify.com/artist/5LokU7BD5Ue4oLzjtUWYGU), [Able Faces](https://open.spotify.com/artist/7nL523vzwv24ad0oFf2VZ2) | [Get Me High](https://open.spotify.com/album/1yvjNoutqvda6wMMVSp2sN) | 2:25 | 2023-08-24 | 2024-06-11 |
 | [Get My Love](https://open.spotify.com/track/0RcVDtRuwn6Z2yvj2wQrol) | [gome](https://open.spotify.com/artist/2kXp8r42AOwb6s5GzdiukU) | [Tell Me EP](https://open.spotify.com/album/0CcIISxMUzNAGCnCWOwSQI) | 4:03 | 2024-03-14 | 2024-04-10 |
 | [Get On Out](https://open.spotify.com/track/5VCogJESrsrOsX2yejotIb) | [4NEY](https://open.spotify.com/artist/6DVJ9PbSQ673wgYUvqPRXh) | [Get On Out](https://open.spotify.com/album/7AHZAKEbSfL7HlM8RZwGGU) | 2:58 | 2022-04-20 | 2024-03-21 |
+| [Get On Up \- Radio Edit](https://open.spotify.com/track/1Ifs7oc0gjWPDqD2MEFdi7) | [Moon Boots](https://open.spotify.com/artist/3cIXmCH7iNcslTbwrwS7zy), [Pinto \(NYC\)](https://open.spotify.com/artist/4rldFvbl9NIVFrsguo5epO) | [Get On Up \(Radio Edit\)](https://open.spotify.com/album/4CziVte5G5gwGLTavQ0UEJ) | 4:01 | 2026-05-04 |  |
 | [Gettin' Started](https://open.spotify.com/track/2l3dG41OP5VVeTxflAmoiP) | [MANIBA](https://open.spotify.com/artist/4XAXNc9B0uZ8iKANChhZIx), [Labi Ramaj](https://open.spotify.com/artist/7a57CoJL3sui202CC2kdUB), [Arild Aas](https://open.spotify.com/artist/0H9XxJcRLKTYCfPTNKmttd), [Municipal](https://open.spotify.com/artist/16Kr9q5VCyDw6elRITKlC6) | [Gettin' Started](https://open.spotify.com/album/76ycOB9AAFMv3qRhG4Xrvn) | 2:36 | 2022-05-05 | 2024-04-28 |
 | [GIRL I WANT YOU](https://open.spotify.com/track/5ocaIFjQEcuZni3guyHoHl) | [Paperwater](https://open.spotify.com/artist/4enJurkJhWYJxokouQ02ky) | [GIRL I WANT YOU](https://open.spotify.com/album/7i4Kb4tSmsvXWTM399KKct) | 3:31 | 2025-09-15 |  |
 | [Give It All](https://open.spotify.com/track/1IPrjsTNfq2sMuMrDuiGBP) | [Emanuel Satie](https://open.spotify.com/artist/3veg7sFGWTk62Ecwj6mzij) | [Give It All](https://open.spotify.com/album/24RTvkSb3aoYar07Ix3I9d) | 2:59 | 2025-11-20 |  |

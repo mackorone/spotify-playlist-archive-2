@@ -1,6 +1,6 @@
 {
   "description": "music to get fly to ft. Erykah Badu",
-  "num_followers": 557409,
+  "num_followers": 557394,
   "original_name": "'fit check",
   "owner": {
     "name": "Spotify",
@@ -215,22 +215,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Speakerboxxx/The Love Below",
-        "url": "https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r"
-      },
-      "artists": [
-        {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
-        }
-      ],
-      "duration_ms": 369573,
-      "name": "Roses",
-      "url": "https://open.spotify.com/track/6bUNEbXT7HovLW6BgPCBsb"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "BEST INTEREST",
         "url": "https://open.spotify.com/album/5iUwaD3wFVwfaAfs9Z0eCh"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 127921,
       "name": "BEST INTEREST",
       "url": "https://open.spotify.com/track/3jHdKaLCkuNEkWcLVmQPCX"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Speakerboxxx/The Love Below",
+        "url": "https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        }
+      ],
+      "duration_ms": 369573,
+      "name": "Roses",
+      "url": "https://open.spotify.com/track/6bUNEbXT7HovLW6BgPCBsb"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -315,6 +315,22 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "Mama's Gun",
+        "url": "https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "duration_ms": 238733,
+      "name": "Didn't Cha Know",
+      "url": "https://open.spotify.com/track/7pv80uUHfocFqfTytu1MVi"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "MEGAN",
         "url": "https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 156988,
       "name": "Mamushi (feat. Yuki Chiba)",
       "url": "https://open.spotify.com/track/5b3XJ1pjrHO5JtY2PcTjnI"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Mama's Gun",
-        "url": "https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH"
-      },
-      "artists": [
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        }
-      ],
-      "duration_ms": 238733,
-      "name": "Didn't Cha Know",
-      "url": "https://open.spotify.com/track/7pv80uUHfocFqfTytu1MVi"
     },
     {
       "added_at": "2024-09-27 17:21:19",
@@ -475,6 +475,22 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "FORWARD",
+        "url": "https://open.spotify.com/album/367frJ4GG9UMlXlMrVanYL"
+      },
+      "artists": [
+        {
+          "name": "Jordan Ward",
+          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
+        }
+      ],
+      "duration_ms": 158133,
+      "name": "FAMJAM4000",
+      "url": "https://open.spotify.com/track/08vlprFBmwh9TQnjXUtZDG"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "CAPRISONGS",
         "url": "https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM"
       },
@@ -491,18 +507,18 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "FORWARD",
-        "url": "https://open.spotify.com/album/367frJ4GG9UMlXlMrVanYL"
+        "name": "Expansion Team",
+        "url": "https://open.spotify.com/album/2cjb94ReCIDfak2sqzEcoB"
       },
       "artists": [
         {
-          "name": "Jordan Ward",
-          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
+          "name": "Dilated Peoples",
+          "url": "https://open.spotify.com/artist/56OMwqr8qaLIRH4ZrvvdXq"
         }
       ],
-      "duration_ms": 158133,
-      "name": "FAMJAM4000",
-      "url": "https://open.spotify.com/track/08vlprFBmwh9TQnjXUtZDG"
+      "duration_ms": 215973,
+      "name": "Worst Comes To Worst - Edited",
+      "url": "https://open.spotify.com/track/7aSnPAggMMgElb6BgXeSEw"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -543,22 +559,6 @@
       "duration_ms": 235801,
       "name": "hmu",
       "url": "https://open.spotify.com/track/4fC8mW8ZFQanmSHq30mgWz"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Expansion Team",
-        "url": "https://open.spotify.com/album/2cjb94ReCIDfak2sqzEcoB"
-      },
-      "artists": [
-        {
-          "name": "Dilated Peoples",
-          "url": "https://open.spotify.com/artist/56OMwqr8qaLIRH4ZrvvdXq"
-        }
-      ],
-      "duration_ms": 215973,
-      "name": "Worst Comes To Worst - Edited",
-      "url": "https://open.spotify.com/track/7aSnPAggMMgElb6BgXeSEw"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "fantasize",
-        "url": "https://open.spotify.com/album/0QEZpylv3YWsleH9U0ijWE"
-      },
-      "artists": [
-        {
-          "name": "ericdoa",
-          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
-        }
-      ],
-      "duration_ms": 150612,
-      "name": "fantasize",
-      "url": "https://open.spotify.com/track/6U2sXLGhxJVmKskGUvJzI3"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Lately EP",
         "url": "https://open.spotify.com/album/4PeU1vYLxDKGzU3641YmFI"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 157303,
       "name": "Lava",
       "url": "https://open.spotify.com/track/2dIeraguJ8SoHDqXfSZelZ"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "fantasize",
+        "url": "https://open.spotify.com/album/0QEZpylv3YWsleH9U0ijWE"
+      },
+      "artists": [
+        {
+          "name": "ericdoa",
+          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
+        }
+      ],
+      "duration_ms": 150612,
+      "name": "fantasize",
+      "url": "https://open.spotify.com/track/6U2sXLGhxJVmKskGUvJzI3"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1303,26 +1303,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "girls like me don't cry (remix) ft. MIN",
-        "url": "https://open.spotify.com/album/6MmW9GNxUJ7rDoGs5xEbOf"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        },
-        {
-          "name": "MIN",
-          "url": "https://open.spotify.com/artist/0IdAjS2LRieBR3gzoazdAw"
-        }
-      ],
-      "duration_ms": 213283,
-      "name": "girls like me don't cry (remix) ft. MIN",
-      "url": "https://open.spotify.com/track/78ByURsaVK39jjwTaerCAk"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Sexy",
         "url": "https://open.spotify.com/album/3KMEvR3Z94dD31r3CEyoiq"
       },
@@ -1339,6 +1319,26 @@
       "duration_ms": 189090,
       "name": "Be With U (feat. DETO BLACK)",
       "url": "https://open.spotify.com/track/3AzfXSz7wBlTCHovkU8uCk"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "girls like me don't cry (remix) ft. MIN",
+        "url": "https://open.spotify.com/album/6MmW9GNxUJ7rDoGs5xEbOf"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        },
+        {
+          "name": "MIN",
+          "url": "https://open.spotify.com/artist/0IdAjS2LRieBR3gzoazdAw"
+        }
+      ],
+      "duration_ms": 213283,
+      "name": "girls like me don't cry (remix) ft. MIN",
+      "url": "https://open.spotify.com/track/78ByURsaVK39jjwTaerCAk"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Gonna Bleach My Eyebrows",
-        "url": "https://open.spotify.com/album/3NNkuonLgIpuUx3KdMczQy"
-      },
-      "artists": [
-        {
-          "name": "Alemeda",
-          "url": "https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8"
-        }
-      ],
-      "duration_ms": 134556,
-      "name": "Gonna Bleach My Eyebrows",
-      "url": "https://open.spotify.com/track/3Am6nVgWd4pwO2hguNHqI7"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "BACKWARDS",
         "url": "https://open.spotify.com/album/51WjoBBCY3wZ8Cbqy8TDrQ"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 106046,
       "name": "BACKWARDS",
       "url": "https://open.spotify.com/track/7zuSn410s3z8Ki7iuO6ZSO"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Gonna Bleach My Eyebrows",
+        "url": "https://open.spotify.com/album/3NNkuonLgIpuUx3KdMczQy"
+      },
+      "artists": [
+        {
+          "name": "Alemeda",
+          "url": "https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8"
+        }
+      ],
+      "duration_ms": 134556,
+      "name": "Gonna Bleach My Eyebrows",
+      "url": "https://open.spotify.com/track/3Am6nVgWd4pwO2hguNHqI7"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1535,6 +1535,22 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "Conveniency",
+        "url": "https://open.spotify.com/album/0lXN4MXvk2ix9IOfJdLDwY"
+      },
+      "artists": [
+        {
+          "name": "Nia Archives",
+          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
+        }
+      ],
+      "duration_ms": 142720,
+      "name": "Conveniency",
+      "url": "https://open.spotify.com/track/0hneE3CWTOFd9PC3qKfJcU"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "THE ANGEL YOU DON'T KNOW",
         "url": "https://open.spotify.com/album/1cceIhCQ8R79pwy8jbZFqE"
       },
@@ -1571,22 +1587,6 @@
       "duration_ms": 61717,
       "name": "Just Sayin' Shit",
       "url": "https://open.spotify.com/track/3bV45mBTw4x0O8XNr361KE"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Conveniency",
-        "url": "https://open.spotify.com/album/0lXN4MXvk2ix9IOfJdLDwY"
-      },
-      "artists": [
-        {
-          "name": "Nia Archives",
-          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
-        }
-      ],
-      "duration_ms": 142720,
-      "name": "Conveniency",
-      "url": "https://open.spotify.com/track/0hneE3CWTOFd9PC3qKfJcU"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1639,6 +1639,22 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "Leak 04-13 (Bait Ones)",
+        "url": "https://open.spotify.com/album/4bCsLPQuCdQQBQOLs5MuNr"
+      },
+      "artists": [
+        {
+          "name": "Jai Paul",
+          "url": "https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc"
+        }
+      ],
+      "duration_ms": 56880,
+      "name": "chix - Unfinished",
+      "url": "https://open.spotify.com/track/7JZHO1HF2XIIWcPVh0uzlC"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "Time Machine",
         "url": "https://open.spotify.com/album/07wcvmb8zpMv1g1pV3rDw3"
       },
@@ -1679,22 +1695,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Leak 04-13 (Bait Ones)",
-        "url": "https://open.spotify.com/album/4bCsLPQuCdQQBQOLs5MuNr"
-      },
-      "artists": [
-        {
-          "name": "Jai Paul",
-          "url": "https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc"
-        }
-      ],
-      "duration_ms": 56880,
-      "name": "chix - Unfinished",
-      "url": "https://open.spotify.com/track/7JZHO1HF2XIIWcPVh0uzlC"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Show Me The Money (with Tkay Maidza)",
         "url": "https://open.spotify.com/album/7L0qZYtIIxyo1B5omj6F4B"
       },
@@ -1731,26 +1731,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Ready When You Are",
-        "url": "https://open.spotify.com/album/4yok1v8vTWpvPZS7RgcevU"
-      },
-      "artists": [
-        {
-          "name": "Planet Giza",
-          "url": "https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG"
-        },
-        {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "THINK OF ME",
-      "url": "https://open.spotify.com/track/0965uWewv2fb21pL7dt3oR"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Dog Food (feat. Denzel Curry)",
         "url": "https://open.spotify.com/album/1P2AgJsC4ZuHuOct9OSdG0"
       },
@@ -1767,6 +1747,26 @@
       "duration_ms": 184123,
       "name": "Dog Food (feat. Denzel Curry)",
       "url": "https://open.spotify.com/track/478bNaXnrz0uF2AwVl4gyT"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Ready When You Are",
+        "url": "https://open.spotify.com/album/4yok1v8vTWpvPZS7RgcevU"
+      },
+      "artists": [
+        {
+          "name": "Planet Giza",
+          "url": "https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG"
+        },
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "THINK OF ME",
+      "url": "https://open.spotify.com/track/0965uWewv2fb21pL7dt3oR"
     },
     {
       "added_at": "2024-08-23 04:00:00",

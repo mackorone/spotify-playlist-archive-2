@@ -1,12 +1,12 @@
 {
   "description": "forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify",
-  "num_followers": 311,
+  "num_followers": 312,
   "original_name": "forever young Playlist Spotify",
   "owner": {
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAJeIFHH44cULATnRtOvwP7eMP/2Hfk",
+  "snapshot_id": "AAAJewil7xKPRjQ8llji9siuzY1cy022",
   "tracks": [
     {
       "added_at": "2026-04-28 22:21:45",
@@ -38331,6 +38331,54 @@
       "duration_ms": 244079,
       "name": "Asylum of the Mind",
       "url": "https://open.spotify.com/track/3BgakXbaYhofrzmBhGcPjg"
+    },
+    {
+      "added_at": "2026-05-04 09:53:41",
+      "album": {
+        "name": "Tuntosarvi",
+        "url": "https://open.spotify.com/album/4WsdrEzof5vYTjPi6fXoQX"
+      },
+      "artists": [
+        {
+          "name": "Muupe B. Horto",
+          "url": "https://open.spotify.com/artist/6Dq8fIdjjfW20AXixOxyKa"
+        }
+      ],
+      "duration_ms": 145960,
+      "name": "Muurame",
+      "url": "https://open.spotify.com/track/1Krh2vadndyc5CiGYyTKLT"
+    },
+    {
+      "added_at": "2026-05-04 09:53:59",
+      "album": {
+        "name": "Everything Runs for Nothing",
+        "url": "https://open.spotify.com/album/0L6fCqGi6BwI30LIrinsEh"
+      },
+      "artists": [
+        {
+          "name": "Catramina",
+          "url": "https://open.spotify.com/artist/26oatZsfAD7qSzz8iEeXx1"
+        }
+      ],
+      "duration_ms": 374232,
+      "name": "I Can't Stop",
+      "url": "https://open.spotify.com/track/5GyGdqwleI3rB3AjL3INiG"
+    },
+    {
+      "added_at": "2026-05-04 18:38:44",
+      "album": {
+        "name": "Original Songs From The Early Years",
+        "url": "https://open.spotify.com/album/3gKKNdLkrW2V9sgXHRw5qL"
+      },
+      "artists": [
+        {
+          "name": "Voices",
+          "url": "https://open.spotify.com/artist/3MOrMslYZqpstKVeCLSnuq"
+        }
+      ],
+      "duration_ms": 163813,
+      "name": "I Want Peace",
+      "url": "https://open.spotify.com/track/3a3b6NjEuZDNKYFbYt8KV5"
     }
   ],
   "unique_name": "forever young Playlist Spotify",

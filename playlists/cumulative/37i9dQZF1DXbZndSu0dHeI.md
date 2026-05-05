@@ -4,7 +4,7 @@
 
 > Really lovely songs.
 
-538 songs - 1 day 8 hr 33 min
+540 songs - 1 day 8 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,6 +139,7 @@
 | [Drop Stop Roll](https://open.spotify.com/track/1y3NV3N99VoSP4crdkbog7) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Drop Stop Roll](https://open.spotify.com/album/7C45E727Jyq6UrMyLYD2Ab) | 2:50 | 2023-05-18 |  |
 | [Drown](https://open.spotify.com/track/3bGmob8nw4PPfOQTwIirIS) | [Geowulf](https://open.spotify.com/artist/01TQ6CLvPSOYGUqRQ3nWgZ) | [Drown](https://open.spotify.com/album/5yoQ1d6TathCxE8EJzG3dW) | 4:04 | 2022-04-08 | 2022-07-29 |
 | [Dust](https://open.spotify.com/track/6xq2ewiAEbFJt0PT8uharC) | [snuggle](https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa) | [Dust](https://open.spotify.com/album/5NfORohjlF3kjZJ2GaUtgD) | 3:27 | 2025-03-29 | 2026-04-24 |
+| [Dying To Dive In](https://open.spotify.com/track/4IGxom47ngZl19XUd05sNp) | [Hannah Grace](https://open.spotify.com/artist/597GQ9dmhOQoBfqmfQINKB) | [Bigger Picture \(Deluxe\)](https://open.spotify.com/album/0q6VLhzfzRECGZQaQk936t) | 2:55 | 2026-04-23 |  |
 | [Echo](https://open.spotify.com/track/5OA3kzRZR7uocmZYfywWmT) | [Fell](https://open.spotify.com/artist/1uMB455VNdloVst6FghrdP) | [Sides: G / H](https://open.spotify.com/album/4T600CEJQAZU9baiuVEu6F) | 3:40 | 2022-03-19 | 2022-04-15 |
 | [Electric Blue](https://open.spotify.com/track/4HNuzjFoJ46jGvtfhQeBzu) | [Julius Black](https://open.spotify.com/artist/7aZEcK7jSvrSoshGSgOYfj) | [Dopamine](https://open.spotify.com/album/5ijMMFiB7itadRb19AIWIB) | 3:06 | 2021-11-12 | 2022-05-16 |
 | [Elliot's Song \- From "Euphoria" An HBO Original Series](https://open.spotify.com/track/7JIIY2oDPFkURYMCLJuzhe) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Elliot's Song \(From "Euphoria" An HBO Original Series\)](https://open.spotify.com/album/67WBZwhfjfOQ5gnH8iXsQ8) | 2:30 | 2022-03-19 | 2025-03-30 |
@@ -185,7 +186,7 @@
 | [Glue Song](https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Glue Song](https://open.spotify.com/album/3KmSMUwyrakryureTNI4U8) | 2:15 | 2023-02-22 | 2025-03-30 |
 | [God Melodies \- Single Version](https://open.spotify.com/track/4PFjhC6s3GV1d6roZsj1Fm) | [Fryars](https://open.spotify.com/artist/3yBP9gfyXm9T4oaqSNKAKg) | [God Melodies](https://open.spotify.com/album/0R70V99HyZ6lPlk9bAXptF) | 3:30 | 2021-11-12 | 2022-07-29 |
 | [Goji](https://open.spotify.com/track/11y2kxIBHpfxcvlpShPxTs) | [Serebii](https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms) | [Goji](https://open.spotify.com/album/3soUMToMXTZOHJFGVoeuij) | 3:35 | 2025-03-29 | 2025-06-03 |
-| [Golden Hour](https://open.spotify.com/track/3RhPS4Xw1qCuLz4pVyoh88) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [Golden Hour](https://open.spotify.com/album/00yzw4urkkOVgLnYQcYooB) | 3:21 | 2024-07-12 |  |
+| [Golden Hour](https://open.spotify.com/track/3RhPS4Xw1qCuLz4pVyoh88) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [Golden Hour](https://open.spotify.com/album/00yzw4urkkOVgLnYQcYooB) | 3:21 | 2024-07-12 | 2026-05-05 |
 | [Golden Streams](https://open.spotify.com/track/1ydKJam8dKbqePWynTqBNz) | [The Hidden Cameras](https://open.spotify.com/artist/6qJSWLT4bvL49hEyXxc3G9) | [The Smell of Our Own](https://open.spotify.com/album/6JShLMI9IkYCFdM1Gv5dAC) | 4:31 | 2022-03-19 | 2022-04-14 |
 | [Gone](https://open.spotify.com/track/7eRaK8LJUUgStuF29HpNsQ) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Gone](https://open.spotify.com/album/4tvYoJP6LcXBpHglrrH1BP) | 2:51 | 2022-03-19 | 2022-04-11 |
 | [Gone](https://open.spotify.com/track/2f8Rbm4F9RtcO3KubofP6N) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [Ice Melt](https://open.spotify.com/album/7FSIgCkJqoayiLPaNvmESo) | 3:32 | 2022-03-19 | 2022-04-16 |
@@ -193,6 +194,7 @@
 | [Goodbye Mr\. Blue](https://open.spotify.com/track/6b97su2rHlDZm0aiyGQCaw) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Goodbye Mr\. Blue](https://open.spotify.com/album/4S8GgZhOvktzQZWA2NXHAX) | 5:00 | 2022-04-08 | 2022-07-29 |
 | [Goodbye Mr\. Blue](https://open.spotify.com/track/7ydJaSdC8Au68eYgspNznY) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Chloë and the Next 20th Century](https://open.spotify.com/album/2tfg6zi5pwuYeQ0IHYnOBz) | 5:00 | 2022-06-22 | 2024-04-19 |
 | [Gracie](https://open.spotify.com/track/0FAZwSMwU1rJIkalvkLBfT) | [Nature TV](https://open.spotify.com/artist/43oBGBlKaDxrti8m7QiQrC) | [Gracie](https://open.spotify.com/album/6JHyo5Yy3rAr1SCpBfI9SR) | 3:19 | 2021-11-12 | 2026-04-24 |
+| [Grenadine](https://open.spotify.com/track/2mmRj1egR3rhLwfpUZazfv) | [Sorcha Richardson](https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc) | [Grenadine](https://open.spotify.com/album/3MBqDqbQylcQWNGVkFcQvU) | 3:08 | 2026-05-01 |  |
 | [Guts](https://open.spotify.com/track/5cVBkcYGi6aiG4cnTMfN6x) | [Augustine](https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4) | [Guts](https://open.spotify.com/album/6szOt2A9ABSPorygYiIKY1) | 3:26 | 2021-11-12 |  |
 | [Hail](https://open.spotify.com/track/450ZDkFvuRfdsfbbeDQfyq) | [Josephine Illingworth](https://open.spotify.com/artist/47tAxYSbAuzh3Pm6FDTUDQ) | [Bright Things I Found In The Dark](https://open.spotify.com/album/2xLweeSXmZEPeXMWoRpudT) | 4:40 | 2026-05-01 |  |
 | [Hallelujah](https://open.spotify.com/track/6P2ZBHJZfp2yltmlk2M2gD) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [I'll Be Waiting \(Sad At Christmas\)](https://open.spotify.com/album/0jC03OijHmOVjS2sc9yUuM) | 3:20 | 2023-01-20 | 2023-08-15 |
@@ -233,7 +235,7 @@
 | [Hysterical Us](https://open.spotify.com/track/6xhBaQpuBF2jdiDuropTBy) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Hysterical Us](https://open.spotify.com/album/13A6KzgqTLdutNm7yn0OMX) | 3:55 | 2021-11-12 | 2022-07-29 |
 | [I can do what I want](https://open.spotify.com/track/4ExoRP6SDTO8LvYIjUsyiK) | [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR) | [I can do what I want](https://open.spotify.com/album/34syhtKXv345KDnYcJcmN7) | 3:00 | 2025-03-29 |  |
 | [I Can See Clearly Now](https://open.spotify.com/track/12RfMGt8MdXrilOJNAhe6r) | [Sorcha Richardson](https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc) | [I Can See Clearly Now](https://open.spotify.com/album/7ijWsMC7YkQm4HiXwt9Epe) | 3:11 | 2022-06-22 | 2026-04-24 |
-| [I Can't Get My Head Around You](https://open.spotify.com/track/6SYqfDeq72Y5KJLO3MLbEz) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [I Can’t Get My Head Around You](https://open.spotify.com/album/1fSKT3XWJwbOMXxBznEyKZ) | 3:26 | 2025-03-29 |  |
+| [I Can't Get My Head Around You](https://open.spotify.com/track/6SYqfDeq72Y5KJLO3MLbEz) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [I Can’t Get My Head Around You](https://open.spotify.com/album/1fSKT3XWJwbOMXxBznEyKZ) | 3:26 | 2025-03-29 | 2026-05-05 |
 | [I Can't Get My Head Around You](https://open.spotify.com/track/6lLYb9KBshbR8Wp5hoWmUW) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [I Can't Get My Head Around You](https://open.spotify.com/album/7yyWIkHQjDMsH8ij1Nuj6e) | 3:26 | 2023-03-08 | 2023-04-10 |
 | [I Don't Know What I Can Save You From](https://open.spotify.com/track/05qTeP4xG8KXoRhN2HdKjS) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Quiet Is The New Loud](https://open.spotify.com/album/7MjceL6iPFM86qxxeWCVEz) | 4:37 | 2022-03-19 | 2023-01-28 |
 | [I Don't Know What I Can Save You From](https://open.spotify.com/track/4KHO9py2dphAa5pfegUojN) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Quiet Is The New Loud](https://open.spotify.com/album/4hUevKZdIe9SCLneuunJZz) | 4:37 | 2022-08-05 | 2024-04-19 |

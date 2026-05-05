@@ -1,6 +1,6 @@
 {
   "description": "entering my reputation era",
-  "num_followers": 1419919,
+  "num_followers": 1420037,
   "original_name": "Villain Mode",
   "owner": {
     "name": "Spotify",
@@ -539,6 +539,22 @@
     {
       "added_at": "2024-02-22 03:52:54",
       "album": {
+        "name": "Tragic Kingdom",
+        "url": "https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8"
+      },
+      "artists": [
+        {
+          "name": "No Doubt",
+          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
+        }
+      ],
+      "duration_ms": 209200,
+      "name": "Just A Girl",
+      "url": "https://open.spotify.com/track/5lWRaa0fBxDE5yU91npPq7"
+    },
+    {
+      "added_at": "2024-02-22 03:52:54",
+      "album": {
         "name": "Unholy (feat. Kim Petras)",
         "url": "https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi"
       },
@@ -559,34 +575,18 @@
     {
       "added_at": "2024-02-22 03:52:54",
       "album": {
-        "name": "Tragic Kingdom",
-        "url": "https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8"
+        "name": "I See Red",
+        "url": "https://open.spotify.com/album/160pzqIuixGY7qegAnQCHY"
       },
       "artists": [
         {
-          "name": "No Doubt",
-          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
+          "name": "Everybody Loves an Outlaw",
+          "url": "https://open.spotify.com/artist/5RCWMaArEntbkeWYVxCiFW"
         }
       ],
-      "duration_ms": 209200,
-      "name": "Just A Girl",
-      "url": "https://open.spotify.com/track/5lWRaa0fBxDE5yU91npPq7"
-    },
-    {
-      "added_at": "2024-02-22 03:52:54",
-      "album": {
-        "name": "Animal (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F"
-      },
-      "artists": [
-        {
-          "name": "Kesha",
-          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
-        }
-      ],
-      "duration_ms": 215200,
-      "name": "Take It Off",
-      "url": "https://open.spotify.com/track/0WCiI0ddWiu5F2kSHgfw5S"
+      "duration_ms": 230613,
+      "name": "I See Red",
+      "url": "https://open.spotify.com/track/5MAK1nd8R6PWnle1Q1WJvh"
     },
     {
       "added_at": "2025-10-03 04:00:32",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-02-22 03:52:54",
       "album": {
-        "name": "I See Red",
-        "url": "https://open.spotify.com/album/160pzqIuixGY7qegAnQCHY"
-      },
-      "artists": [
-        {
-          "name": "Everybody Loves an Outlaw",
-          "url": "https://open.spotify.com/artist/5RCWMaArEntbkeWYVxCiFW"
-        }
-      ],
-      "duration_ms": 230613,
-      "name": "I See Red",
-      "url": "https://open.spotify.com/track/5MAK1nd8R6PWnle1Q1WJvh"
-    },
-    {
-      "added_at": "2024-02-22 03:52:54",
-      "album": {
         "name": "Back To Black",
         "url": "https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 256946,
       "name": "You Know I'm No Good",
       "url": "https://open.spotify.com/track/4zQuwW24dweWcaX0fEJkP2"
+    },
+    {
+      "added_at": "2024-02-22 03:52:54",
+      "album": {
+        "name": "Animal (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F"
+      },
+      "artists": [
+        {
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+        }
+      ],
+      "duration_ms": 215200,
+      "name": "Take It Off",
+      "url": "https://open.spotify.com/track/0WCiI0ddWiu5F2kSHgfw5S"
     },
     {
       "added_at": "2024-02-22 03:52:54",
@@ -703,6 +703,22 @@
     {
       "added_at": "2024-02-22 03:52:54",
       "album": {
+        "name": "The Animals",
+        "url": "https://open.spotify.com/album/0Xwkx2TLFwRcoK0OWQ0Msa"
+      },
+      "artists": [
+        {
+          "name": "The Animals",
+          "url": "https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP"
+        }
+      ],
+      "duration_ms": 271280,
+      "name": "House Of The Rising Sun",
+      "url": "https://open.spotify.com/track/7BY005dacJkbO6EPiOh2wb"
+    },
+    {
+      "added_at": "2024-02-22 03:52:54",
+      "album": {
         "name": "Enemy (with JID) [from the series Arcane League of Legends]",
         "url": "https://open.spotify.com/album/1bTgKomQYSkKYPD9UI9W4b"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 173381,
       "name": "Enemy (with JID) - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ"
-    },
-    {
-      "added_at": "2024-02-22 03:52:54",
-      "album": {
-        "name": "The Animals",
-        "url": "https://open.spotify.com/album/0Xwkx2TLFwRcoK0OWQ0Msa"
-      },
-      "artists": [
-        {
-          "name": "The Animals",
-          "url": "https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP"
-        }
-      ],
-      "duration_ms": 271280,
-      "name": "House Of The Rising Sun",
-      "url": "https://open.spotify.com/track/7BY005dacJkbO6EPiOh2wb"
     },
     {
       "added_at": "2024-02-22 03:52:54",
@@ -1297,20 +1297,20 @@
       "url": "https://open.spotify.com/track/6a3HxWNiBhr3tNYoqaCbLt"
     },
     {
-      "added_at": "2024-04-19 04:00:00",
+      "added_at": "2024-02-22 03:52:54",
       "album": {
-        "name": "Pretty Little Devil",
-        "url": "https://open.spotify.com/album/1FSU0DJC5861DJHdk2OTVw"
+        "name": "Ta-Dah",
+        "url": "https://open.spotify.com/album/3YIdZQ7UbWoTxPgznAYVOC"
       },
       "artists": [
         {
-          "name": "Shaya Zamora",
-          "url": "https://open.spotify.com/artist/4gmgH3IgZoetXRskbdI02q"
+          "name": "Scissor Sisters",
+          "url": "https://open.spotify.com/artist/3Y10boYzeuFCJ4Qgp53w6o"
         }
       ],
-      "duration_ms": 167690,
-      "name": "Pretty Little Devil",
-      "url": "https://open.spotify.com/track/3fxWcOWUQxapuKin9NhCcf"
+      "duration_ms": 166573,
+      "name": "I Can't Decide",
+      "url": "https://open.spotify.com/track/1zyGFId8xHOcRmCmehrwlc"
     },
     {
       "added_at": "2024-02-22 03:52:54",
@@ -1329,20 +1329,20 @@
       "url": "https://open.spotify.com/track/0HBrtXJohbIW4IhPZ50GmH"
     },
     {
-      "added_at": "2024-02-22 03:52:54",
+      "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Ta-Dah",
-        "url": "https://open.spotify.com/album/3YIdZQ7UbWoTxPgznAYVOC"
+        "name": "Pretty Little Devil",
+        "url": "https://open.spotify.com/album/1FSU0DJC5861DJHdk2OTVw"
       },
       "artists": [
         {
-          "name": "Scissor Sisters",
-          "url": "https://open.spotify.com/artist/3Y10boYzeuFCJ4Qgp53w6o"
+          "name": "Shaya Zamora",
+          "url": "https://open.spotify.com/artist/4gmgH3IgZoetXRskbdI02q"
         }
       ],
-      "duration_ms": 166573,
-      "name": "I Can't Decide",
-      "url": "https://open.spotify.com/track/1zyGFId8xHOcRmCmehrwlc"
+      "duration_ms": 167690,
+      "name": "Pretty Little Devil",
+      "url": "https://open.spotify.com/track/3fxWcOWUQxapuKin9NhCcf"
     },
     {
       "added_at": "2024-02-22 03:52:54",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2024-02-22 03:52:54",
       "album": {
-        "name": "abcdefu (angrier)",
-        "url": "https://open.spotify.com/album/23M1xUF2RoRSvXtpwQP4rJ"
-      },
-      "artists": [
-        {
-          "name": "GAYLE",
-          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
-        }
-      ],
-      "duration_ms": 159836,
-      "name": "abcdefu (angrier)",
-      "url": "https://open.spotify.com/track/1EQFOouqdKYdpbNoOHRVO2"
-    },
-    {
-      "added_at": "2024-02-22 03:52:54",
-      "album": {
         "name": "Descendants 3 (Original TV Movie Soundtrack)",
         "url": "https://open.spotify.com/album/1rDO59SgTsY1HV5ZBtl9Hy"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 189397,
       "name": "Queen of Mean",
       "url": "https://open.spotify.com/track/4o05DiC0RQ9DNtGJGauwna"
+    },
+    {
+      "added_at": "2024-02-22 03:52:54",
+      "album": {
+        "name": "abcdefu (angrier)",
+        "url": "https://open.spotify.com/album/23M1xUF2RoRSvXtpwQP4rJ"
+      },
+      "artists": [
+        {
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+        }
+      ],
+      "duration_ms": 159836,
+      "name": "abcdefu (angrier)",
+      "url": "https://open.spotify.com/track/1EQFOouqdKYdpbNoOHRVO2"
     },
     {
       "added_at": "2024-02-22 03:52:54",

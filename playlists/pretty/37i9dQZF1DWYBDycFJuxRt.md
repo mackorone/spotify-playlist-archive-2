@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: Rol3ert \*👉 <a href="https://spice.eplus.jp/articles/345797">連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,285 likes - 77 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,268 likes - 77 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "All the stuff that will blow your speakers!",
-  "num_followers": 454581,
+  "num_followers": 454608,
   "original_name": "Bass Explosion",
   "owner": {
     "name": "Spotify",
@@ -711,6 +711,26 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
+        "name": "This Is The Life",
+        "url": "https://open.spotify.com/album/5hFY0oK1Ow8h9xIAtliOvp"
+      },
+      "artists": [
+        {
+          "name": "LIZOT",
+          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
+        },
+        {
+          "name": "KYANU",
+          "url": "https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ"
+        }
+      ],
+      "duration_ms": 131388,
+      "name": "This Is The Life",
+      "url": "https://open.spotify.com/track/3Me5bYXeDXqjBVgug53Ula"
+    },
+    {
+      "added_at": "2025-06-26 22:00:24",
+      "album": {
         "name": "Satisfaction (Hardwell & Maddix Remix)",
         "url": "https://open.spotify.com/album/417ZcOYyUtIXFpjygXHKSX"
       },
@@ -739,42 +759,18 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
-        "name": "This Is The Life",
-        "url": "https://open.spotify.com/album/5hFY0oK1Ow8h9xIAtliOvp"
-      },
-      "artists": [
-        {
-          "name": "LIZOT",
-          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
-        },
-        {
-          "name": "KYANU",
-          "url": "https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ"
-        }
-      ],
-      "duration_ms": 131388,
-      "name": "This Is The Life",
-      "url": "https://open.spotify.com/track/3Me5bYXeDXqjBVgug53Ula"
-    },
-    {
-      "added_at": "2025-06-26 22:00:24",
-      "album": {
-        "name": "Mamma Mia (feat. Mentissa) [Techno Mix]",
-        "url": "https://open.spotify.com/album/19w0jhRAHEnurkWpsKQFTf"
+        "name": "Lullaby",
+        "url": "https://open.spotify.com/album/4g4GBQonQG0zVjMWIPfxuy"
       },
       "artists": [
         {
           "name": "BENNETT",
           "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
-        },
-        {
-          "name": "Mentissa",
-          "url": "https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS"
         }
       ],
-      "duration_ms": 200683,
-      "name": "Mamma Mia (feat. Mentissa) - Techno Mix",
-      "url": "https://open.spotify.com/track/3qpsSAfHgTdTwkaraJLe0V"
+      "duration_ms": 187394,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/67aNGns9ZH1jm6nruyzBGU"
     },
     {
       "added_at": "2025-06-26 22:00:24",
@@ -859,18 +855,22 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
-        "name": "Lullaby",
-        "url": "https://open.spotify.com/album/4g4GBQonQG0zVjMWIPfxuy"
+        "name": "Mamma Mia (feat. Mentissa) [Techno Mix]",
+        "url": "https://open.spotify.com/album/19w0jhRAHEnurkWpsKQFTf"
       },
       "artists": [
         {
           "name": "BENNETT",
           "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
+        },
+        {
+          "name": "Mentissa",
+          "url": "https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS"
         }
       ],
-      "duration_ms": 187394,
-      "name": "Lullaby",
-      "url": "https://open.spotify.com/track/67aNGns9ZH1jm6nruyzBGU"
+      "duration_ms": 200683,
+      "name": "Mamma Mia (feat. Mentissa) - Techno Mix",
+      "url": "https://open.spotify.com/track/3qpsSAfHgTdTwkaraJLe0V"
     },
     {
       "added_at": "2025-06-26 22:00:24",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
-        "name": "DARK MATTER",
-        "url": "https://open.spotify.com/album/03PhHS2Rf06ee9nucQmHhg"
-      },
-      "artists": [
-        {
-          "name": "HEDEGAARD",
-          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
-        }
-      ],
-      "duration_ms": 174044,
-      "name": "P.I.M.P. - HEDEGAARD Remix",
-      "url": "https://open.spotify.com/track/5UCxWGNXG4kjBmpftwyctt"
-    },
-    {
-      "added_at": "2025-06-26 22:00:24",
-      "album": {
         "name": "What I Want",
         "url": "https://open.spotify.com/album/0equCatWbHF6wgpR7Lxh0Q"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 182000,
       "name": "What I Want",
       "url": "https://open.spotify.com/track/77VtR2l9SUqNgN4mDRDEDt"
+    },
+    {
+      "added_at": "2025-06-26 22:00:24",
+      "album": {
+        "name": "DARK MATTER",
+        "url": "https://open.spotify.com/album/03PhHS2Rf06ee9nucQmHhg"
+      },
+      "artists": [
+        {
+          "name": "HEDEGAARD",
+          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
+        }
+      ],
+      "duration_ms": 174044,
+      "name": "P.I.M.P. - HEDEGAARD Remix",
+      "url": "https://open.spotify.com/track/5UCxWGNXG4kjBmpftwyctt"
     },
     {
       "added_at": "2025-06-26 22:00:24",
@@ -1579,26 +1579,6 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
-        "name": "Hellfire",
-        "url": "https://open.spotify.com/album/2mSXxOqVfVf855Yops9kAs"
-      },
-      "artists": [
-        {
-          "name": "Maddix",
-          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
-        },
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        }
-      ],
-      "duration_ms": 183600,
-      "name": "Hellfire",
-      "url": "https://open.spotify.com/track/5qq6MmZYOHvU3fICNggSCW"
-    },
-    {
-      "added_at": "2025-06-26 22:00:24",
-      "album": {
         "name": "Stumblin' In (Sonny Wern Remix)",
         "url": "https://open.spotify.com/album/4eJ2IuNXx5vnIKS6tYV3PY"
       },
@@ -1615,6 +1595,26 @@
       "duration_ms": 152400,
       "name": "Stumblin' In (Sonny Wern Remix)",
       "url": "https://open.spotify.com/track/4NNgwJCoAROKsP6b9Outvs"
+    },
+    {
+      "added_at": "2025-06-26 22:00:24",
+      "album": {
+        "name": "Hellfire",
+        "url": "https://open.spotify.com/album/2mSXxOqVfVf855Yops9kAs"
+      },
+      "artists": [
+        {
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+        },
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        }
+      ],
+      "duration_ms": 183600,
+      "name": "Hellfire",
+      "url": "https://open.spotify.com/track/5qq6MmZYOHvU3fICNggSCW"
     },
     {
       "added_at": "2025-06-26 22:00:24",
@@ -1939,18 +1939,26 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
-        "name": "Kayra",
-        "url": "https://open.spotify.com/album/388sI7up9HOA4bCMkzj4Sk"
+        "name": "My Mama Dropped LSD in the 90's",
+        "url": "https://open.spotify.com/album/0X12iWSZ0DQrn35GgTEjrT"
       },
       "artists": [
         {
-          "name": "Ummet Ozcan",
-          "url": "https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv"
+          "name": "Marlon Hoffstadt",
+          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
+        },
+        {
+          "name": "DJ Daddy Trance",
+          "url": "https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM"
+        },
+        {
+          "name": "blazey",
+          "url": "https://open.spotify.com/artist/66Vn5izERxqMuZz9QB5Dyh"
         }
       ],
-      "duration_ms": 166909,
-      "name": "Kayra",
-      "url": "https://open.spotify.com/track/5Rob2FY3ndcG9F2GpK8ZaQ"
+      "duration_ms": 176875,
+      "name": "My Mama Dropped LSD in the 90's",
+      "url": "https://open.spotify.com/track/0MeGiBDDodJwa1iHnCgG3q"
     },
     {
       "added_at": "2025-06-26 22:00:24",
@@ -1979,26 +1987,18 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
-        "name": "My Mama Dropped LSD in the 90's",
-        "url": "https://open.spotify.com/album/0X12iWSZ0DQrn35GgTEjrT"
+        "name": "Kayra",
+        "url": "https://open.spotify.com/album/388sI7up9HOA4bCMkzj4Sk"
       },
       "artists": [
         {
-          "name": "Marlon Hoffstadt",
-          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
-        },
-        {
-          "name": "DJ Daddy Trance",
-          "url": "https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM"
-        },
-        {
-          "name": "blazey",
-          "url": "https://open.spotify.com/artist/66Vn5izERxqMuZz9QB5Dyh"
+          "name": "Ummet Ozcan",
+          "url": "https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv"
         }
       ],
-      "duration_ms": 176875,
-      "name": "My Mama Dropped LSD in the 90's",
-      "url": "https://open.spotify.com/track/0MeGiBDDodJwa1iHnCgG3q"
+      "duration_ms": 166909,
+      "name": "Kayra",
+      "url": "https://open.spotify.com/track/5Rob2FY3ndcG9F2GpK8ZaQ"
     },
     {
       "added_at": "2025-06-26 22:00:24",
@@ -2043,22 +2043,18 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
-        "name": "One Night In Bangkok 2K23 (The Ultimate Remixes)",
-        "url": "https://open.spotify.com/album/31gy6l39adSklojfefXZCB"
+        "name": "Better Than U Thought",
+        "url": "https://open.spotify.com/album/5LaUQcTL2F4TtqRbIZdxiG"
       },
       "artists": [
         {
-          "name": "Da Tweekaz",
-          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
-        },
-        {
-          "name": "Vinylshakerz",
-          "url": "https://open.spotify.com/artist/7g7uwd4PAs7J3PgiKUx47q"
+          "name": "Layton Giordani",
+          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
         }
       ],
-      "duration_ms": 207815,
-      "name": "One Night in Bangkok 2K23 - Da Tweekaz 2K23 Remix",
-      "url": "https://open.spotify.com/track/44rdr40M1DhqS7X5HKoPQ9"
+      "duration_ms": 189618,
+      "name": "Better Than U Thought",
+      "url": "https://open.spotify.com/track/067FrGDLXv4oDOGrcCDCA6"
     }
   ],
   "unique_name": "Bass Explosion",

@@ -1,12 +1,12 @@
 {
   "description": "This is David Allan Coe. The essential tracks, all in one playlist.",
-  "num_followers": 27591,
+  "num_followers": 27673,
   "original_name": "This Is David Allan Coe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afU+gAAAAACt3qalyUZ22li2W39SasAo",
+  "snapshot_id": "afaQAAAAAAApRw2wUIO5SL8oF8NfWsSh",
   "tracks": [
     {
       "added_at": null,
@@ -691,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live at Billy Bob's Texas",
-        "url": "https://open.spotify.com/album/6UovhwsrRIA072Ywx6KgpV"
-      },
-      "artists": [
-        {
-          "name": "David Allan Coe",
-          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
-        }
-      ],
-      "duration_ms": 197826,
-      "name": "Drank My Wife Away",
-      "url": "https://open.spotify.com/track/4y9t3AJ7Hj4ceYpxKBqESf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Biggest Hits",
         "url": "https://open.spotify.com/album/6URcNyTkcEsXNSVKCqNTl1"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 161933,
       "name": "Hank Williams Junior-Junior",
       "url": "https://open.spotify.com/track/0QyYeOUHzncpaWhP7ESx1p"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live at Billy Bob's Texas",
+        "url": "https://open.spotify.com/album/6UovhwsrRIA072Ywx6KgpV"
+      },
+      "artists": [
+        {
+          "name": "David Allan Coe",
+          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
+        }
+      ],
+      "duration_ms": 197826,
+      "name": "Drank My Wife Away",
+      "url": "https://open.spotify.com/track/4y9t3AJ7Hj4ceYpxKBqESf"
     },
     {
       "added_at": null,
@@ -771,22 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Just Divorced",
-        "url": "https://open.spotify.com/album/4RzPzFa3rXfDt3M0P5JAoQ"
-      },
-      "artists": [
-        {
-          "name": "David Allan Coe",
-          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
-        }
-      ],
-      "duration_ms": 139733,
-      "name": "It's Great to Be Single Again",
-      "url": "https://open.spotify.com/track/3VX583L6pfYx5dPqK9654S"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Crazy Daddy",
         "url": "https://open.spotify.com/album/57VX1pfpCpbrLrpKZ4h4w8"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 160680,
       "name": "Southern Star",
       "url": "https://open.spotify.com/track/6aQX7GfnfNJ7P2QEYcXZag"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Just Divorced",
+        "url": "https://open.spotify.com/album/4RzPzFa3rXfDt3M0P5JAoQ"
+      },
+      "artists": [
+        {
+          "name": "David Allan Coe",
+          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
+        }
+      ],
+      "duration_ms": 139733,
+      "name": "It's Great to Be Single Again",
+      "url": "https://open.spotify.com/track/3VX583L6pfYx5dPqK9654S"
     },
     {
       "added_at": null,

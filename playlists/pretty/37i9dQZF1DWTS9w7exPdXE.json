@@ -1,6 +1,6 @@
 {
   "description": "Nederpop en Volkspop meezingers. Cover: Samuel Welten (<a href=\"spotify:artist:37i9dQZF1DXaxwXKCsImRe\">RADAR BNLX</a>-artiest)",
-  "num_followers": 162162,
+  "num_followers": 162223,
   "original_name": "Hollandse Meezingers",
   "owner": {
     "name": "Spotify",
@@ -331,26 +331,6 @@
     {
       "added_at": "2026-04-08 22:00:13",
       "album": {
-        "name": "Van Goes Tot Purmerend",
-        "url": "https://open.spotify.com/album/4Kc9vHk2XB9tGNcyikgNpm"
-      },
-      "artists": [
-        {
-          "name": "Jan Smit",
-          "url": "https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq"
-        },
-        {
-          "name": "Marco Schuitmaker",
-          "url": "https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ"
-        }
-      ],
-      "duration_ms": 201363,
-      "name": "Van Goes Tot Purmerend",
-      "url": "https://open.spotify.com/track/6dgkHkbtXg4mGwRPJiE1LV"
-    },
-    {
-      "added_at": "2026-04-08 22:00:13",
-      "album": {
         "name": "Duurt Te Lang (Beste Zangers Seizoen 2018)",
         "url": "https://open.spotify.com/album/4F7ekZ78rrfhl9GvTYXQYB"
       },
@@ -367,6 +347,26 @@
       "duration_ms": 153527,
       "name": "Duurt Te Lang",
       "url": "https://open.spotify.com/track/2rzZ0IGxgrGUAPwrWn80z7"
+    },
+    {
+      "added_at": "2026-04-08 22:00:13",
+      "album": {
+        "name": "Van Goes Tot Purmerend",
+        "url": "https://open.spotify.com/album/4Kc9vHk2XB9tGNcyikgNpm"
+      },
+      "artists": [
+        {
+          "name": "Jan Smit",
+          "url": "https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq"
+        },
+        {
+          "name": "Marco Schuitmaker",
+          "url": "https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ"
+        }
+      ],
+      "duration_ms": 201363,
+      "name": "Van Goes Tot Purmerend",
+      "url": "https://open.spotify.com/track/6dgkHkbtXg4mGwRPJiE1LV"
     },
     {
       "added_at": "2026-04-08 22:00:13",
@@ -479,26 +479,6 @@
     {
       "added_at": "2026-04-08 22:00:13",
       "album": {
-        "name": "(Die Man Is) Verliefd",
-        "url": "https://open.spotify.com/album/6MYXtFqWqatgAk5U91a3J2"
-      },
-      "artists": [
-        {
-          "name": "Jan Smit",
-          "url": "https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq"
-        },
-        {
-          "name": "3JS",
-          "url": "https://open.spotify.com/artist/2ZulgXPozVBLNaJPXR8MnV"
-        }
-      ],
-      "duration_ms": 186799,
-      "name": "(Die Man Is) Verliefd",
-      "url": "https://open.spotify.com/track/3Sk76R83fWHlAO89n1IXgs"
-    },
-    {
-      "added_at": "2026-04-08 22:00:13",
-      "album": {
         "name": "Als Jij Kon Voelen",
         "url": "https://open.spotify.com/album/3LHhCRB5WunMqbvQXemVlw"
       },
@@ -527,6 +507,26 @@
       "duration_ms": 210530,
       "name": "Drink Rode Wijn",
       "url": "https://open.spotify.com/track/4dfcAShEiezY5K2IP33iOn"
+    },
+    {
+      "added_at": "2026-04-08 22:00:13",
+      "album": {
+        "name": "(Die Man Is) Verliefd",
+        "url": "https://open.spotify.com/album/6MYXtFqWqatgAk5U91a3J2"
+      },
+      "artists": [
+        {
+          "name": "Jan Smit",
+          "url": "https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq"
+        },
+        {
+          "name": "3JS",
+          "url": "https://open.spotify.com/artist/2ZulgXPozVBLNaJPXR8MnV"
+        }
+      ],
+      "duration_ms": 186799,
+      "name": "(Die Man Is) Verliefd",
+      "url": "https://open.spotify.com/track/3Sk76R83fWHlAO89n1IXgs"
     },
     {
       "added_at": "2026-04-08 22:00:13",
@@ -615,22 +615,6 @@
     {
       "added_at": "2026-04-08 22:00:13",
       "album": {
-        "name": "Jij Liet Me Vallen",
-        "url": "https://open.spotify.com/album/01rLwvJx2VUjcsppCnWNDd"
-      },
-      "artists": [
-        {
-          "name": "Tino Martin",
-          "url": "https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4"
-        }
-      ],
-      "duration_ms": 218040,
-      "name": "Jij Liet Me Vallen",
-      "url": "https://open.spotify.com/track/2Q01M0X7yJeLfGg4ebLORO"
-    },
-    {
-      "added_at": "2026-04-08 22:00:13",
-      "album": {
         "name": "Bon Gepakt",
         "url": "https://open.spotify.com/album/6XvZXJyMOhUtXapAJW7hiY"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 173283,
       "name": "Bon Gepakt",
       "url": "https://open.spotify.com/track/5fWyEc2ER2kselpeWQ6Yc7"
+    },
+    {
+      "added_at": "2026-04-08 22:00:13",
+      "album": {
+        "name": "Jij Liet Me Vallen",
+        "url": "https://open.spotify.com/album/01rLwvJx2VUjcsppCnWNDd"
+      },
+      "artists": [
+        {
+          "name": "Tino Martin",
+          "url": "https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4"
+        }
+      ],
+      "duration_ms": 218040,
+      "name": "Jij Liet Me Vallen",
+      "url": "https://open.spotify.com/track/2Q01M0X7yJeLfGg4ebLORO"
     },
     {
       "added_at": "2026-04-08 22:00:13",
@@ -767,18 +767,18 @@
     {
       "added_at": "2026-04-08 22:00:13",
       "album": {
-        "name": "Dit Is Het Levenslied",
-        "url": "https://open.spotify.com/album/4SbVeX0bcpWLLFlyTMMvlc"
+        "name": "Hoe Kan Ik Je Hart Bereiken",
+        "url": "https://open.spotify.com/album/4Q7ekV7ogAlgm9II0xotE6"
       },
       "artists": [
         {
-          "name": "Tino Martin",
-          "url": "https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4"
+          "name": "Diego Holzken",
+          "url": "https://open.spotify.com/artist/6OVNDgD8FqGVo93IzowtSx"
         }
       ],
-      "duration_ms": 196484,
-      "name": "Mijn Liefste",
-      "url": "https://open.spotify.com/track/6YcSltJaaE9cVN6tQ3bUKq"
+      "duration_ms": 190946,
+      "name": "Hoe Kan Ik Je Hart Bereiken",
+      "url": "https://open.spotify.com/track/47MByuvKeNo5iAdd3aHlyc"
     },
     {
       "added_at": "2026-04-08 22:00:13",
@@ -799,34 +799,50 @@
     {
       "added_at": "2026-04-08 22:00:13",
       "album": {
-        "name": "Hoe Kan Ik Je Hart Bereiken",
-        "url": "https://open.spotify.com/album/4Q7ekV7ogAlgm9II0xotE6"
+        "name": "Dit Is Het Levenslied",
+        "url": "https://open.spotify.com/album/4SbVeX0bcpWLLFlyTMMvlc"
       },
       "artists": [
         {
-          "name": "Diego Holzken",
-          "url": "https://open.spotify.com/artist/6OVNDgD8FqGVo93IzowtSx"
+          "name": "Tino Martin",
+          "url": "https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4"
         }
       ],
-      "duration_ms": 190946,
-      "name": "Hoe Kan Ik Je Hart Bereiken",
-      "url": "https://open.spotify.com/track/47MByuvKeNo5iAdd3aHlyc"
+      "duration_ms": 196484,
+      "name": "Mijn Liefste",
+      "url": "https://open.spotify.com/track/6YcSltJaaE9cVN6tQ3bUKq"
     },
     {
       "added_at": "2026-04-08 22:00:13",
       "album": {
-        "name": "Gewoon Jannes",
-        "url": "https://open.spotify.com/album/0PzS61l1kAX6RF8nxNGPrV"
+        "name": "Gina",
+        "url": "https://open.spotify.com/album/3OO7avslFyhPayBU2Ev1vi"
       },
       "artists": [
         {
-          "name": "Jannes",
-          "url": "https://open.spotify.com/artist/02ydjJPvRKpejxRzZyHdaq"
+          "name": "Robert Pater",
+          "url": "https://open.spotify.com/artist/4F9stJgctKH0bQc4JPmgfd"
         }
       ],
-      "duration_ms": 207546,
-      "name": "Adio Amore Adio",
-      "url": "https://open.spotify.com/track/53AddGhMgfIE85Az2Ipovu"
+      "duration_ms": 218890,
+      "name": "Gina",
+      "url": "https://open.spotify.com/track/5meI025SYNIsanGc3NpCAs"
+    },
+    {
+      "added_at": "2026-04-08 22:00:13",
+      "album": {
+        "name": "De Jonge Jaren van Toontje Lager - 50 Jaar Nederpop",
+        "url": "https://open.spotify.com/album/2aTTEiGgwrBkwXbJmlZYTr"
+      },
+      "artists": [
+        {
+          "name": "Toontje Lager",
+          "url": "https://open.spotify.com/artist/7isSKzkNHe3Tsmht2ar6Ai"
+        }
+      ],
+      "duration_ms": 214975,
+      "name": "Stiekem Gedanst",
+      "url": "https://open.spotify.com/track/1tU5J8aMqCQe7WtqTkFLQL"
     },
     {
       "added_at": "2026-04-08 22:00:13",
@@ -851,6 +867,22 @@
     {
       "added_at": "2026-04-08 22:00:13",
       "album": {
+        "name": "Gewoon Jannes",
+        "url": "https://open.spotify.com/album/0PzS61l1kAX6RF8nxNGPrV"
+      },
+      "artists": [
+        {
+          "name": "Jannes",
+          "url": "https://open.spotify.com/artist/02ydjJPvRKpejxRzZyHdaq"
+        }
+      ],
+      "duration_ms": 207546,
+      "name": "Adio Amore Adio",
+      "url": "https://open.spotify.com/track/53AddGhMgfIE85Az2Ipovu"
+    },
+    {
+      "added_at": "2026-04-08 22:00:13",
+      "album": {
         "name": "Zij Weet Het (Studio Versie)",
         "url": "https://open.spotify.com/album/45DK1JElovyDUaa1VtnMMs"
       },
@@ -863,38 +895,6 @@
       "duration_ms": 241583,
       "name": "Zij Weet Het - Studio Versie",
       "url": "https://open.spotify.com/track/0rwf08N6Fm5K57S7e7FJty"
-    },
-    {
-      "added_at": "2026-04-08 22:00:13",
-      "album": {
-        "name": "De Jonge Jaren van Toontje Lager - 50 Jaar Nederpop",
-        "url": "https://open.spotify.com/album/2aTTEiGgwrBkwXbJmlZYTr"
-      },
-      "artists": [
-        {
-          "name": "Toontje Lager",
-          "url": "https://open.spotify.com/artist/7isSKzkNHe3Tsmht2ar6Ai"
-        }
-      ],
-      "duration_ms": 214975,
-      "name": "Stiekem Gedanst",
-      "url": "https://open.spotify.com/track/1tU5J8aMqCQe7WtqTkFLQL"
-    },
-    {
-      "added_at": "2026-04-08 22:00:13",
-      "album": {
-        "name": "Gina",
-        "url": "https://open.spotify.com/album/3OO7avslFyhPayBU2Ev1vi"
-      },
-      "artists": [
-        {
-          "name": "Robert Pater",
-          "url": "https://open.spotify.com/artist/4F9stJgctKH0bQc4JPmgfd"
-        }
-      ],
-      "duration_ms": 218890,
-      "name": "Gina",
-      "url": "https://open.spotify.com/track/5meI025SYNIsanGc3NpCAs"
     },
     {
       "added_at": "2026-04-08 22:00:13",
@@ -915,26 +915,6 @@
     {
       "added_at": "2026-04-08 22:00:13",
       "album": {
-        "name": "Liever Te Dik In De Kist",
-        "url": "https://open.spotify.com/album/1JcMPNLvGonkOCRUIU8oaA"
-      },
-      "artists": [
-        {
-          "name": "Stef Ekkel",
-          "url": "https://open.spotify.com/artist/1cUsaZWQDILKpljyM7FWXm"
-        },
-        {
-          "name": "Rene Karst",
-          "url": "https://open.spotify.com/artist/3upXQVqKZlTKRES3LQ9VjO"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Liever Te Dik In De Kist",
-      "url": "https://open.spotify.com/track/67xy7fhM9hKO6SxyHh7vrE"
-    },
-    {
-      "added_at": "2026-04-08 22:00:13",
-      "album": {
         "name": "Esmeralda",
         "url": "https://open.spotify.com/album/5DZAYDrzrs63D6CigorZef"
       },
@@ -951,18 +931,22 @@
     {
       "added_at": "2026-04-08 22:00:13",
       "album": {
-        "name": "Een bom",
-        "url": "https://open.spotify.com/album/09P95sPQcFfaKuQdaqVD9C"
+        "name": "Liever Te Dik In De Kist",
+        "url": "https://open.spotify.com/album/1JcMPNLvGonkOCRUIU8oaA"
       },
       "artists": [
         {
-          "name": "Henk Dissel",
-          "url": "https://open.spotify.com/artist/1xD7SAwt2tLdg9wGPbCkO2"
+          "name": "Stef Ekkel",
+          "url": "https://open.spotify.com/artist/1cUsaZWQDILKpljyM7FWXm"
+        },
+        {
+          "name": "Rene Karst",
+          "url": "https://open.spotify.com/artist/3upXQVqKZlTKRES3LQ9VjO"
         }
       ],
-      "duration_ms": 204933,
-      "name": "Een bom",
-      "url": "https://open.spotify.com/track/5lBqbc17iKcxxGIuHvN0Oj"
+      "duration_ms": 238000,
+      "name": "Liever Te Dik In De Kist",
+      "url": "https://open.spotify.com/track/67xy7fhM9hKO6SxyHh7vrE"
     },
     {
       "added_at": "2026-04-08 22:00:13",
@@ -1003,18 +987,18 @@
     {
       "added_at": "2026-04-08 22:00:13",
       "album": {
-        "name": "Voel Je Dan Niet?",
-        "url": "https://open.spotify.com/album/5Jl8vDC0r5ITwmIsQJbQOK"
+        "name": "Een bom",
+        "url": "https://open.spotify.com/album/09P95sPQcFfaKuQdaqVD9C"
       },
       "artists": [
         {
-          "name": "Milan Milano",
-          "url": "https://open.spotify.com/artist/3wpbnuD8rmBA06MXEiqhpS"
+          "name": "Henk Dissel",
+          "url": "https://open.spotify.com/artist/1xD7SAwt2tLdg9wGPbCkO2"
         }
       ],
-      "duration_ms": 180671,
-      "name": "Voel Je Dan Niet?",
-      "url": "https://open.spotify.com/track/2Y8Ln46xwFJYKOsUltJjkA"
+      "duration_ms": 204933,
+      "name": "Een bom",
+      "url": "https://open.spotify.com/track/5lBqbc17iKcxxGIuHvN0Oj"
     },
     {
       "added_at": "2026-04-08 22:00:13",
@@ -1031,6 +1015,22 @@
       "duration_ms": 190553,
       "name": "Mijn Stad",
       "url": "https://open.spotify.com/track/7oJu3A0kZM8t7xCi0WQIqI"
+    },
+    {
+      "added_at": "2026-04-08 22:00:13",
+      "album": {
+        "name": "Voel Je Dan Niet?",
+        "url": "https://open.spotify.com/album/5Jl8vDC0r5ITwmIsQJbQOK"
+      },
+      "artists": [
+        {
+          "name": "Milan Milano",
+          "url": "https://open.spotify.com/artist/3wpbnuD8rmBA06MXEiqhpS"
+        }
+      ],
+      "duration_ms": 180671,
+      "name": "Voel Je Dan Niet?",
+      "url": "https://open.spotify.com/track/2Y8Ln46xwFJYKOsUltJjkA"
     },
     {
       "added_at": "2026-04-08 22:00:13",
@@ -1067,6 +1067,26 @@
     {
       "added_at": "2026-04-08 22:00:13",
       "album": {
+        "name": "Pretty Belinda",
+        "url": "https://open.spotify.com/album/5Or2VYn33rCB7gB3SvR4Fm"
+      },
+      "artists": [
+        {
+          "name": "Lawineboys",
+          "url": "https://open.spotify.com/artist/4y6ycmATEW4V7Ce0Dv0Hs4"
+        },
+        {
+          "name": "Rocky Vosse",
+          "url": "https://open.spotify.com/artist/5MgHd2kIXqz2naASTYJMWJ"
+        }
+      ],
+      "duration_ms": 174533,
+      "name": "Pretty Belinda",
+      "url": "https://open.spotify.com/track/5r1xffqGgmoqdk5PMylTGA"
+    },
+    {
+      "added_at": "2026-04-08 22:00:13",
+      "album": {
         "name": "Vlinders Van De Nacht",
         "url": "https://open.spotify.com/album/13XX8pIrS5dG6fymhvzOsC"
       },
@@ -1095,26 +1115,6 @@
       "duration_ms": 201786,
       "name": "Kom Allemaal Maar In Mijn Armen",
       "url": "https://open.spotify.com/track/3iNkLhEIArpx8TcQjDO4bR"
-    },
-    {
-      "added_at": "2026-04-08 22:00:13",
-      "album": {
-        "name": "Pretty Belinda",
-        "url": "https://open.spotify.com/album/5Or2VYn33rCB7gB3SvR4Fm"
-      },
-      "artists": [
-        {
-          "name": "Lawineboys",
-          "url": "https://open.spotify.com/artist/4y6ycmATEW4V7Ce0Dv0Hs4"
-        },
-        {
-          "name": "Rocky Vosse",
-          "url": "https://open.spotify.com/artist/5MgHd2kIXqz2naASTYJMWJ"
-        }
-      ],
-      "duration_ms": 174533,
-      "name": "Pretty Belinda",
-      "url": "https://open.spotify.com/track/5r1xffqGgmoqdk5PMylTGA"
     },
     {
       "added_at": "2026-04-08 22:00:13",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2026-04-08 22:00:13",
       "album": {
-        "name": "Met Of Zonder Jou",
-        "url": "https://open.spotify.com/album/7rq2FgyZZPsuSGvuptcwaq"
-      },
-      "artists": [
-        {
-          "name": "Tino Martin",
-          "url": "https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4"
-        }
-      ],
-      "duration_ms": 182618,
-      "name": "Met Of Zonder Jou",
-      "url": "https://open.spotify.com/track/69RI9EeFuWmMtRWAuREUy1"
-    },
-    {
-      "added_at": "2026-04-08 22:00:13",
-      "album": {
         "name": "'n Rondje van mij",
         "url": "https://open.spotify.com/album/0xFsAJ0Z79d1rfEXu6mmvD"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 189352,
       "name": "Mijn Loterij",
       "url": "https://open.spotify.com/track/6XSanjhhXXpnsEI3O6zQqC"
+    },
+    {
+      "added_at": "2026-04-08 22:00:13",
+      "album": {
+        "name": "Met Of Zonder Jou",
+        "url": "https://open.spotify.com/album/7rq2FgyZZPsuSGvuptcwaq"
+      },
+      "artists": [
+        {
+          "name": "Tino Martin",
+          "url": "https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4"
+        }
+      ],
+      "duration_ms": 182618,
+      "name": "Met Of Zonder Jou",
+      "url": "https://open.spotify.com/track/69RI9EeFuWmMtRWAuREUy1"
     },
     {
       "added_at": "2026-04-08 22:00:13",
@@ -1491,22 +1491,18 @@
     {
       "added_at": "2026-04-08 22:00:13",
       "album": {
-        "name": "Alleen Met Jou",
-        "url": "https://open.spotify.com/album/7HgRghVOzefgyXloz5HUmq"
+        "name": "Zin In Jou",
+        "url": "https://open.spotify.com/album/7aXYp8I5tUYGUSKzLKFJ37"
       },
       "artists": [
         {
           "name": "Yves Berendse",
           "url": "https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F"
-        },
-        {
-          "name": "Emma Heesters",
-          "url": "https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM"
         }
       ],
-      "duration_ms": 193694,
-      "name": "Alleen Met Jou",
-      "url": "https://open.spotify.com/track/2K7HqkHEUfz7c4BzEO33Qd"
+      "duration_ms": 238167,
+      "name": "Zin In Jou",
+      "url": "https://open.spotify.com/track/0wUmqryk6MdL2k5yDVGnk8"
     },
     {
       "added_at": "2026-04-08 22:00:13",
@@ -1563,38 +1559,6 @@
     {
       "added_at": "2026-04-08 22:00:13",
       "album": {
-        "name": "Zo Ben Ik Mezelf",
-        "url": "https://open.spotify.com/album/37M4B2oUYoh6Rnwf7MQe4q"
-      },
-      "artists": [
-        {
-          "name": "Frans Duijts",
-          "url": "https://open.spotify.com/artist/3VVxpV5qfkhLkLZjXB274t"
-        }
-      ],
-      "duration_ms": 219560,
-      "name": "Jij Denkt Maar Dat Je Alles Mag Van Mij",
-      "url": "https://open.spotify.com/track/1kETZmApc3IVzTLC4b886n"
-    },
-    {
-      "added_at": "2026-04-08 22:00:13",
-      "album": {
-        "name": "Zin In Jou",
-        "url": "https://open.spotify.com/album/7aXYp8I5tUYGUSKzLKFJ37"
-      },
-      "artists": [
-        {
-          "name": "Yves Berendse",
-          "url": "https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F"
-        }
-      ],
-      "duration_ms": 238167,
-      "name": "Zin In Jou",
-      "url": "https://open.spotify.com/track/0wUmqryk6MdL2k5yDVGnk8"
-    },
-    {
-      "added_at": "2026-04-08 22:00:13",
-      "album": {
         "name": "Leef",
         "url": "https://open.spotify.com/album/6lTrzzgpV4zOaEhtYgclKm"
       },
@@ -1607,6 +1571,26 @@
       "duration_ms": 217902,
       "name": "Leef",
       "url": "https://open.spotify.com/track/4lBkLeU6LNgWzfbWPGm1c9"
+    },
+    {
+      "added_at": "2026-04-08 22:00:13",
+      "album": {
+        "name": "Alleen Met Jou",
+        "url": "https://open.spotify.com/album/7HgRghVOzefgyXloz5HUmq"
+      },
+      "artists": [
+        {
+          "name": "Yves Berendse",
+          "url": "https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F"
+        },
+        {
+          "name": "Emma Heesters",
+          "url": "https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM"
+        }
+      ],
+      "duration_ms": 193694,
+      "name": "Alleen Met Jou",
+      "url": "https://open.spotify.com/track/2K7HqkHEUfz7c4BzEO33Qd"
     },
     {
       "added_at": "2026-04-08 22:00:13",
@@ -1627,6 +1611,22 @@
       "duration_ms": 172881,
       "name": "Frans Duits",
       "url": "https://open.spotify.com/track/6iSm0u8DL5MqeptlsoeS90"
+    },
+    {
+      "added_at": "2026-04-08 22:00:13",
+      "album": {
+        "name": "Zo Ben Ik Mezelf",
+        "url": "https://open.spotify.com/album/37M4B2oUYoh6Rnwf7MQe4q"
+      },
+      "artists": [
+        {
+          "name": "Frans Duijts",
+          "url": "https://open.spotify.com/artist/3VVxpV5qfkhLkLZjXB274t"
+        }
+      ],
+      "duration_ms": 219560,
+      "name": "Jij Denkt Maar Dat Je Alles Mag Van Mij",
+      "url": "https://open.spotify.com/track/1kETZmApc3IVzTLC4b886n"
     },
     {
       "added_at": "2026-04-08 22:00:13",
@@ -1687,22 +1687,18 @@
     {
       "added_at": "2026-04-08 22:00:13",
       "album": {
-        "name": "De Laatste",
-        "url": "https://open.spotify.com/album/2dj7ASSn4PA5PG5JGYbeao"
+        "name": "Turk Uit De Kroeg",
+        "url": "https://open.spotify.com/album/08M8jwAA0PILLWMOll53r9"
       },
       "artists": [
         {
           "name": "Ammar",
           "url": "https://open.spotify.com/artist/4EqldbhBZVOhfGdAFG0zRb"
-        },
-        {
-          "name": "Snelle",
-          "url": "https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD"
         }
       ],
-      "duration_ms": 171285,
-      "name": "De Laatste",
-      "url": "https://open.spotify.com/track/77rLRb9Ho6kb986TMX4Wz0"
+      "duration_ms": 192500,
+      "name": "Turk Uit De Kroeg",
+      "url": "https://open.spotify.com/track/37oajE6ezfuQ1tjyWlF0UW"
     },
     {
       "added_at": "2026-04-08 22:00:13",

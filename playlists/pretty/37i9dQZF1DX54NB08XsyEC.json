@@ -1,6 +1,6 @@
 {
   "description": "pov: minhas favs / Foto: Madonna, Sabrina Carpenter",
-  "num_followers": 1073343,
+  "num_followers": 1073282,
   "original_name": "pov",
   "owner": {
     "name": "Spotify",
@@ -263,22 +263,6 @@
     {
       "added_at": "2026-05-01 03:00:57",
       "album": {
-        "name": "back to friends",
-        "url": "https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 199032,
-      "name": "back to friends",
-      "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
-    },
-    {
-      "added_at": "2026-05-01 03:00:57",
-      "album": {
         "name": "PINKY UP",
         "url": "https://open.spotify.com/album/5tLy0MEMDVqiHKso6B4jnz"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 131437,
       "name": "PINKY UP",
       "url": "https://open.spotify.com/track/4KmkJjHTNlr1jFY56Lyz4E"
+    },
+    {
+      "added_at": "2026-05-01 03:00:57",
+      "album": {
+        "name": "back to friends",
+        "url": "https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 199032,
+      "name": "back to friends",
+      "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
     },
     {
       "added_at": "2026-05-01 03:00:57",
@@ -347,6 +347,26 @@
     {
       "added_at": "2026-05-01 03:00:57",
       "album": {
+        "name": "Show Me Love",
+        "url": "https://open.spotify.com/album/4gyYKUIAOEcP50RM1Sjzj6"
+      },
+      "artists": [
+        {
+          "name": "WizTheMc",
+          "url": "https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5"
+        },
+        {
+          "name": "bees & honey",
+          "url": "https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi"
+        }
+      ],
+      "duration_ms": 176965,
+      "name": "Show Me Love",
+      "url": "https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa"
+    },
+    {
+      "added_at": "2026-05-01 03:00:57",
+      "album": {
         "name": "Potential",
         "url": "https://open.spotify.com/album/0qqZfp0bh8BpzRZ5jwBLY5"
       },
@@ -359,22 +379,6 @@
       "duration_ms": 242517,
       "name": "Potential",
       "url": "https://open.spotify.com/track/4cpHvqL4dvporE8JlQwkec"
-    },
-    {
-      "added_at": "2026-05-01 03:00:57",
-      "album": {
-        "name": "The Life of a Showgirl",
-        "url": "https://open.spotify.com/album/1W57oNaAkGObOQKBTxg4e9"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 226073,
-      "name": "The Fate of Ophelia",
-      "url": "https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m"
     },
     {
       "added_at": "2026-05-01 03:00:57",
@@ -395,22 +399,18 @@
     {
       "added_at": "2026-05-01 03:00:57",
       "album": {
-        "name": "Show Me Love",
-        "url": "https://open.spotify.com/album/4gyYKUIAOEcP50RM1Sjzj6"
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/1W57oNaAkGObOQKBTxg4e9"
       },
       "artists": [
         {
-          "name": "WizTheMc",
-          "url": "https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5"
-        },
-        {
-          "name": "bees & honey",
-          "url": "https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 176965,
-      "name": "Show Me Love",
-      "url": "https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa"
+      "duration_ms": 226073,
+      "name": "The Fate of Ophelia",
+      "url": "https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m"
     },
     {
       "added_at": "2026-05-01 03:00:57",
@@ -447,22 +447,18 @@
     {
       "added_at": "2026-05-01 03:00:57",
       "album": {
-        "name": "The Life of a Showgirl",
-        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
+        "name": "THIS MUSIC MAY CONTAIN HOPE.",
+        "url": "https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
         }
       ],
-      "duration_ms": 241766,
-      "name": "The Life of a Showgirl (feat. Sabrina Carpenter)",
-      "url": "https://open.spotify.com/track/5eXgqtg3T8Av0m1FUaGHex"
+      "duration_ms": 377003,
+      "name": "I Know You're Hurting.",
+      "url": "https://open.spotify.com/track/0ka0xUb0kho8KMOCuuPOZJ"
     },
     {
       "added_at": "2026-05-01 03:00:57",
@@ -483,18 +479,22 @@
     {
       "added_at": "2026-05-01 03:00:57",
       "album": {
-        "name": "THIS MUSIC MAY CONTAIN HOPE.",
-        "url": "https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9"
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
       },
       "artists": [
         {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
         }
       ],
-      "duration_ms": 377003,
-      "name": "I Know You're Hurting.",
-      "url": "https://open.spotify.com/track/0ka0xUb0kho8KMOCuuPOZJ"
+      "duration_ms": 241766,
+      "name": "The Life of a Showgirl (feat. Sabrina Carpenter)",
+      "url": "https://open.spotify.com/track/5eXgqtg3T8Av0m1FUaGHex"
     },
     {
       "added_at": "2026-05-01 03:00:57",
@@ -571,22 +571,6 @@
     {
       "added_at": "2026-05-01 03:00:57",
       "album": {
-        "name": "Younger You (From the \"Hannah Montana 20th Anniversary Special\")",
-        "url": "https://open.spotify.com/album/3tlEOoxO3h3mkLyLgftdz6"
-      },
-      "artists": [
-        {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        }
-      ],
-      "duration_ms": 167800,
-      "name": "Younger You - From the \"Hannah Montana 20th Anniversary Special\"",
-      "url": "https://open.spotify.com/track/4kK5moArviedZ9LcKIDu1Z"
-    },
-    {
-      "added_at": "2026-05-01 03:00:57",
-      "album": {
         "name": "bittersweet",
         "url": "https://open.spotify.com/album/6lR8zt2MKz7xdqBQqxZ5yR"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 202795,
       "name": "bittersweet",
       "url": "https://open.spotify.com/track/3A02hWQ2ebOFDWSbAMNnpw"
+    },
+    {
+      "added_at": "2026-05-01 03:00:57",
+      "album": {
+        "name": "Younger You (From the \"Hannah Montana 20th Anniversary Special\")",
+        "url": "https://open.spotify.com/album/3tlEOoxO3h3mkLyLgftdz6"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "duration_ms": 167800,
+      "name": "Younger You - From the \"Hannah Montana 20th Anniversary Special\"",
+      "url": "https://open.spotify.com/track/4kK5moArviedZ9LcKIDu1Z"
     },
     {
       "added_at": "2026-05-01 03:00:57",
@@ -639,6 +639,22 @@
     {
       "added_at": "2026-05-01 03:00:57",
       "album": {
+        "name": "FINE PLACE TO DIE",
+        "url": "https://open.spotify.com/album/5BE6sXUzT8u1Dm02n1pN5r"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 187423,
+      "name": "FINE PLACE TO DIE",
+      "url": "https://open.spotify.com/track/2k4PvUBCu1mkNbXLXhvaBW"
+    },
+    {
+      "added_at": "2026-05-01 03:00:57",
+      "album": {
         "name": "The Best",
         "url": "https://open.spotify.com/album/3Jkm1bpLu02vfw8vIREcVY"
       },
@@ -675,22 +691,6 @@
     {
       "added_at": "2026-05-01 03:00:57",
       "album": {
-        "name": "HADES",
-        "url": "https://open.spotify.com/album/7jwikgbD6e5Oht9gJzaR3l"
-      },
-      "artists": [
-        {
-          "name": "Melanie Martinez",
-          "url": "https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8"
-        }
-      ],
-      "duration_ms": 196371,
-      "name": "UNCANNY VALLEY",
-      "url": "https://open.spotify.com/track/5CTcF00NFuaDfuwzpQBZ0I"
-    },
-    {
-      "added_at": "2026-05-01 03:00:57",
-      "album": {
         "name": "Save Me Tonight",
         "url": "https://open.spotify.com/album/4ha2YPiAGZrV5OIIKJkt9Z"
       },
@@ -707,6 +707,22 @@
       "duration_ms": 196003,
       "name": "Save Me Tonight",
       "url": "https://open.spotify.com/track/4WuAr5SE1ZfXxu6OWtykkG"
+    },
+    {
+      "added_at": "2026-05-01 03:00:57",
+      "album": {
+        "name": "HADES",
+        "url": "https://open.spotify.com/album/7jwikgbD6e5Oht9gJzaR3l"
+      },
+      "artists": [
+        {
+          "name": "Melanie Martinez",
+          "url": "https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8"
+        }
+      ],
+      "duration_ms": 196371,
+      "name": "UNCANNY VALLEY",
+      "url": "https://open.spotify.com/track/5CTcF00NFuaDfuwzpQBZ0I"
     },
     {
       "added_at": "2026-05-01 03:00:57",
@@ -743,22 +759,6 @@
     {
       "added_at": "2026-05-01 03:00:57",
       "album": {
-        "name": "Nightingale Lane.",
-        "url": "https://open.spotify.com/album/22FLublraJkicHyrK2egu0"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 302623,
-      "name": "Nightingale Lane.",
-      "url": "https://open.spotify.com/track/7j7J2M3ZsKOsrhBueDjhqF"
-    },
-    {
-      "added_at": "2026-05-01 03:00:57",
-      "album": {
         "name": "Home (feat. Hikaru Utada)",
         "url": "https://open.spotify.com/album/3jIzQAsO6agpgpWRMOO8uF"
       },
@@ -779,22 +779,6 @@
     {
       "added_at": "2026-05-01 03:00:57",
       "album": {
-        "name": "LUX",
-        "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 162533,
-      "name": "Sauvignon Blanc",
-      "url": "https://open.spotify.com/track/10uxlzuPGekUTay2ZpZ4pR"
-    },
-    {
-      "added_at": "2026-05-01 03:00:57",
-      "album": {
         "name": "Mr. Know It All",
         "url": "https://open.spotify.com/album/2WFulOVpYFDYBQ4GtoClfz"
       },
@@ -807,6 +791,54 @@
       "duration_ms": 198425,
       "name": "Mr. Know It All",
       "url": "https://open.spotify.com/track/0GuyH5MDxEx54wg1Rhe5on"
+    },
+    {
+      "added_at": "2026-05-01 03:00:57",
+      "album": {
+        "name": "Nightingale Lane.",
+        "url": "https://open.spotify.com/album/22FLublraJkicHyrK2egu0"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 302623,
+      "name": "Nightingale Lane.",
+      "url": "https://open.spotify.com/track/7j7J2M3ZsKOsrhBueDjhqF"
+    },
+    {
+      "added_at": "2026-05-01 03:00:57",
+      "album": {
+        "name": "Little More Time",
+        "url": "https://open.spotify.com/album/4iRdV4c5sAh3oMl5MTYv9t"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 218171,
+      "name": "Little More Time",
+      "url": "https://open.spotify.com/track/7ukOzDe3BKCSpA6ki775U5"
+    },
+    {
+      "added_at": "2026-05-01 03:00:57",
+      "album": {
+        "name": "LUX",
+        "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 162533,
+      "name": "Sauvignon Blanc",
+      "url": "https://open.spotify.com/track/10uxlzuPGekUTay2ZpZ4pR"
     },
     {
       "added_at": "2026-05-01 03:00:57",
@@ -835,18 +867,18 @@
     {
       "added_at": "2026-05-01 03:00:57",
       "album": {
-        "name": "Die For Me",
-        "url": "https://open.spotify.com/album/3sEuskgtxTNNvdJAsMk9kG"
+        "name": "The Devil Wears Prada 2 (Music From The Motion Picture)",
+        "url": "https://open.spotify.com/album/5FKnRUB5lt7z5ac1lmu3BE"
       },
       "artists": [
         {
-          "name": "ZAYN",
-          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
         }
       ],
-      "duration_ms": 180147,
-      "name": "Die For Me",
-      "url": "https://open.spotify.com/track/15tkKpcwBE3XJhaBdLPBKJ"
+      "duration_ms": 209852,
+      "name": "Shape of a Woman",
+      "url": "https://open.spotify.com/track/6aFsbhzye4yfT25ohmhOQY"
     },
     {
       "added_at": "2026-05-01 03:00:57",
@@ -871,6 +903,22 @@
     {
       "added_at": "2026-05-01 03:00:57",
       "album": {
+        "name": "Die For Me",
+        "url": "https://open.spotify.com/album/3sEuskgtxTNNvdJAsMk9kG"
+      },
+      "artists": [
+        {
+          "name": "ZAYN",
+          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
+        }
+      ],
+      "duration_ms": 180147,
+      "name": "Die For Me",
+      "url": "https://open.spotify.com/track/15tkKpcwBE3XJhaBdLPBKJ"
+    },
+    {
+      "added_at": "2026-05-01 03:00:57",
+      "album": {
         "name": "locket",
         "url": "https://open.spotify.com/album/766kQKYQvONQk339t5payy"
       },
@@ -883,42 +931,6 @@
       "duration_ms": 222512,
       "name": "bad enough",
       "url": "https://open.spotify.com/track/01aNqddaggrPJYUIdRApRD"
-    },
-    {
-      "added_at": "2026-05-01 03:00:57",
-      "album": {
-        "name": "Little More Time",
-        "url": "https://open.spotify.com/album/4iRdV4c5sAh3oMl5MTYv9t"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 218171,
-      "name": "Little More Time",
-      "url": "https://open.spotify.com/track/7ukOzDe3BKCSpA6ki775U5"
-    },
-    {
-      "added_at": "2026-05-01 03:00:57",
-      "album": {
-        "name": "Back and Forth (feat. Missy Elliott)",
-        "url": "https://open.spotify.com/album/3yb1H4Mf6annZTGWpmAoCW"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        },
-        {
-          "name": "Missy Elliott",
-          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
-        }
-      ],
-      "duration_ms": 214757,
-      "name": "Back and Forth (feat. Missy Elliott)",
-      "url": "https://open.spotify.com/track/6t263UZVjI9nnHfr7eeLW4"
     },
     {
       "added_at": "2026-05-01 03:00:57",
@@ -959,6 +971,78 @@
       "duration_ms": 203474,
       "name": "Eternity",
       "url": "https://open.spotify.com/track/438QRARw2l8mc0TyFk8BLy"
+    },
+    {
+      "added_at": "2026-05-01 03:00:57",
+      "album": {
+        "name": "Middle of Nowhere",
+        "url": "https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        },
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 163689,
+      "name": "Horses and Divorces (feat. Miranda Lambert)",
+      "url": "https://open.spotify.com/track/44tr6kkaMRgd2UVG44wqv7"
+    },
+    {
+      "added_at": "2026-05-01 03:00:57",
+      "album": {
+        "name": "Back and Forth (feat. Missy Elliott)",
+        "url": "https://open.spotify.com/album/3yb1H4Mf6annZTGWpmAoCW"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        },
+        {
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+        }
+      ],
+      "duration_ms": 214757,
+      "name": "Back and Forth (feat. Missy Elliott)",
+      "url": "https://open.spotify.com/track/6t263UZVjI9nnHfr7eeLW4"
+    },
+    {
+      "added_at": "2026-05-01 03:00:57",
+      "album": {
+        "name": "Heroine",
+        "url": "https://open.spotify.com/album/4xT3ryrqfutVzV1cJN79Ww"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "duration_ms": 155192,
+      "name": "Heroine",
+      "url": "https://open.spotify.com/track/04OCeDuqT4ympbgDZ8dcfT"
+    },
+    {
+      "added_at": "2026-05-01 03:00:57",
+      "album": {
+        "name": "Toy With Me",
+        "url": "https://open.spotify.com/album/6bkBdwYNeBqqLVF72acs0H"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "duration_ms": 167095,
+      "name": "Shimmer",
+      "url": "https://open.spotify.com/track/3UOnrnhbfDxh0ORHCQ3DxZ"
     },
     {
       "added_at": "2026-05-01 03:00:57",
@@ -1015,22 +1099,6 @@
     {
       "added_at": "2026-05-01 03:00:57",
       "album": {
-        "name": "Toy With Me",
-        "url": "https://open.spotify.com/album/6bkBdwYNeBqqLVF72acs0H"
-      },
-      "artists": [
-        {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
-        }
-      ],
-      "duration_ms": 167095,
-      "name": "Shimmer",
-      "url": "https://open.spotify.com/track/3UOnrnhbfDxh0ORHCQ3DxZ"
-    },
-    {
-      "added_at": "2026-05-01 03:00:57",
-      "album": {
         "name": "collide",
         "url": "https://open.spotify.com/album/6Bx0PwEOgOrfo7BaSTq6V0"
       },
@@ -1083,22 +1151,6 @@
     {
       "added_at": "2026-05-01 03:00:57",
       "album": {
-        "name": "Up Out & Gone",
-        "url": "https://open.spotify.com/album/5wQV2yzSVcLdvVCRyTqAiV"
-      },
-      "artists": [
-        {
-          "name": "Ne-Yo",
-          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
-        }
-      ],
-      "duration_ms": 176666,
-      "name": "Up Out & Gone",
-      "url": "https://open.spotify.com/track/7cZWDSWe2F6eFuEw6PLWOV"
-    },
-    {
-      "added_at": "2026-05-01 03:00:57",
-      "album": {
         "name": "after the sun goes down",
         "url": "https://open.spotify.com/album/4PPuC1eL0wWfqBijzhbOWg"
       },
@@ -1111,6 +1163,22 @@
       "duration_ms": 163173,
       "name": "nah",
       "url": "https://open.spotify.com/track/0DEz9z1H0UChVJrjB9Wsjf"
+    },
+    {
+      "added_at": "2026-05-01 03:00:57",
+      "album": {
+        "name": "Up Out & Gone",
+        "url": "https://open.spotify.com/album/5wQV2yzSVcLdvVCRyTqAiV"
+      },
+      "artists": [
+        {
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+        }
+      ],
+      "duration_ms": 176666,
+      "name": "Up Out & Gone",
+      "url": "https://open.spotify.com/track/7cZWDSWe2F6eFuEw6PLWOV"
     },
     {
       "added_at": "2026-05-01 03:00:57",
@@ -1163,38 +1231,6 @@
     {
       "added_at": "2026-05-01 03:00:57",
       "album": {
-        "name": "FINE PLACE TO DIE",
-        "url": "https://open.spotify.com/album/5BE6sXUzT8u1Dm02n1pN5r"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 187423,
-      "name": "FINE PLACE TO DIE",
-      "url": "https://open.spotify.com/track/2k4PvUBCu1mkNbXLXhvaBW"
-    },
-    {
-      "added_at": "2026-05-01 03:00:57",
-      "album": {
-        "name": "The Devil Wears Prada 2 (Music From The Motion Picture)",
-        "url": "https://open.spotify.com/album/5FKnRUB5lt7z5ac1lmu3BE"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 209852,
-      "name": "Shape of a Woman",
-      "url": "https://open.spotify.com/track/6aFsbhzye4yfT25ohmhOQY"
-    },
-    {
-      "added_at": "2026-05-01 03:00:57",
-      "album": {
         "name": "Toy With Me",
         "url": "https://open.spotify.com/album/4NkyWMwVeGOTzWYxcpmYtV"
       },
@@ -1243,42 +1279,6 @@
       "duration_ms": 144300,
       "name": "Nighttime Thing (with Julia Michaels)",
       "url": "https://open.spotify.com/track/7fbI3MprRgCBEO92ZT5akR"
-    },
-    {
-      "added_at": "2026-05-01 03:00:57",
-      "album": {
-        "name": "Heroine",
-        "url": "https://open.spotify.com/album/4xT3ryrqfutVzV1cJN79Ww"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        }
-      ],
-      "duration_ms": 155192,
-      "name": "Heroine",
-      "url": "https://open.spotify.com/track/04OCeDuqT4ympbgDZ8dcfT"
-    },
-    {
-      "added_at": "2026-05-01 03:00:57",
-      "album": {
-        "name": "Middle of Nowhere",
-        "url": "https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        },
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 163689,
-      "name": "Horses and Divorces (feat. Miranda Lambert)",
-      "url": "https://open.spotify.com/track/44tr6kkaMRgd2UVG44wqv7"
     },
     {
       "added_at": "2026-05-01 03:00:57",

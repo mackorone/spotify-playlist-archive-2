@@ -117,6 +117,24 @@
     },
     {
       "album": {
+        "name": "A Promise (09 | 26)",
+        "url": "https://open.spotify.com/album/1teM6dsJcbLrEts91xEqZu"
+      },
+      "artists": [
+        {
+          "name": "Dead by April",
+          "url": "https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220333,
+      "name": "A Promise - 09 | 26",
+      "url": "https://open.spotify.com/track/6QmoQoJGxloTzxON0SdjDh"
+    },
+    {
+      "album": {
         "name": "A Sky Full of Stars",
         "url": "https://open.spotify.com/album/6rVuS8geDXgoTCaPMMFSJS"
       },

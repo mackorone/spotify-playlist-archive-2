@@ -4,7 +4,7 @@
 
 > The home for heavy music\. Cover: Loathe
 
-734 songs - 1 day 20 hr 6 min
+735 songs - 1 day 20 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -437,7 +437,7 @@
 | [Modern Love](https://open.spotify.com/track/0c1TvU8YThmexkEfFUt9wV) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [Modern Love](https://open.spotify.com/album/2EuA14LzLXFRWWFkSvBnU6) | 3:28 | 2023-10-13 | 2025-09-12 |
 | [Moi?](https://open.spotify.com/track/37cfQzREZhA4d5xGl62LI0) | [Empire State Bastard](https://open.spotify.com/artist/4Lje5EOojiMe1qsGspOlDq) | [Moi?](https://open.spotify.com/album/1D7I309keimEed1m0PWKSn) | 4:23 | 2023-08-24 | 2023-09-08 |
 | [mOmS bAsEmeNt](https://open.spotify.com/track/1UMSXPU4noFMHwvqxXJO8O) | [tiLLie](https://open.spotify.com/artist/6toGqzw4iivB9qwDpOAiVN) | [mOmS bAsEmeNt](https://open.spotify.com/album/7b6lTy2GbIbXLpouHj9aGk) | 2:41 | 2023-07-25 | 2023-08-11 |
-| [Monolith](https://open.spotify.com/track/2qWJ3H3iMEnkeyi8t0QfGr) | [Death Lens](https://open.spotify.com/artist/4WqVsCKvGiqrgF9v27Dsa8) | [Monolith](https://open.spotify.com/album/60D53NppKnWqnepqsq3wX4) | 3:32 | 2026-01-30 |  |
+| [Monolith](https://open.spotify.com/track/2qWJ3H3iMEnkeyi8t0QfGr) | [Death Lens](https://open.spotify.com/artist/4WqVsCKvGiqrgF9v27Dsa8) | [Monolith](https://open.spotify.com/album/60D53NppKnWqnepqsq3wX4) | 3:32 | 2026-01-30 | 2026-05-05 |
 | [Monsters](https://open.spotify.com/track/1SRg5WImDS1LbjbWR24Ln4) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Monsters](https://open.spotify.com/album/2NSBVVafbPaqtcTKP5QTqI) | 3:31 | 2025-02-07 | 2025-09-12 |
 | [More Than Misery](https://open.spotify.com/track/3LzJLwxUIzeYWO4uFGA0rD) | [Caskets](https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK), [TELLE](https://open.spotify.com/artist/2ZLkrrjhoAzlDuxGZJSWB2) | [More Than Misery](https://open.spotify.com/album/4cRfSvpKfy82la7s16tDXB) | 3:41 | 2023-05-11 | 2023-07-26 |
 | [Moths](https://open.spotify.com/track/71Rgf3kRwb7ReVASnkNAkz) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Blood Dynasty \(Expanded Deluxe Edition\)](https://open.spotify.com/album/1fRRVExZOrOXIdu0RgUGtY) | 4:01 | 2025-10-10 |  |
@@ -557,6 +557,7 @@
 | [Shapeshift](https://open.spotify.com/track/6JETZ58xlV6YGNQWLj2T0A) | [Dayseeker](https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj) | [Shapeshift](https://open.spotify.com/album/2sh2vfIEZv5HjufBTkJvu4) | 4:07 | 2025-09-01 |  |
 | [Shivering](https://open.spotify.com/track/10Q3ASy9okYt85040yV46c) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Shivering](https://open.spotify.com/album/2dRmLEMsxRhidLzay43XP5) | 5:00 | 2022-11-10 | 2023-07-26 |
 | [Shoot](https://open.spotify.com/track/1QFerkEWR1GAqmppYqIxpN) | [Equal Idiots](https://open.spotify.com/artist/4nljEo4gnUFgczxjNt5KOR) | [Shoot](https://open.spotify.com/album/5TUatnY0Q5BF7de6pvFkuZ) | 2:07 | 2024-08-09 | 2025-09-12 |
+| [Shoplifting](https://open.spotify.com/track/4DnfluGk0mleygfT9clm0v) | [Lip Critic](https://open.spotify.com/artist/4ABuKdLlVyzLztIFR8ETX9) | [Theft World](https://open.spotify.com/album/6UQvKJID9tTP81IIFRt9Dk) | 3:02 | 2026-04-30 |  |
 | [Shotgun Blues](https://open.spotify.com/track/2SMNxADB0ffqaIoOwl2x06) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Servant Of The Mind \(Deluxe\)](https://open.spotify.com/album/1ujOfCZxF2d2R5oOfJbxnP) | 4:27 | 2022-11-10 | 2023-07-26 |
 | [Show Me My Maker](https://open.spotify.com/track/7gbI3OM7q2nKCAjlTfuTGD) | [Tigercub](https://open.spotify.com/artist/6ekYAO2D1JkI58CF4uRRqw) | [The Perfume of Decay](https://open.spotify.com/album/2ZRUCUx9ZFhwbXqyMeoR6y) | 3:40 | 2023-07-25 | 2025-09-12 |
 | [Sick And Wrong](https://open.spotify.com/track/4rHiHDvjI4Uqm9ahZ9RcS7) | [Electron](https://open.spotify.com/artist/0QlVbfZTx8ex7cutyyUl3H) | [Sick And Wrong](https://open.spotify.com/album/3Hy9MvZJfBVv0h9AlNyNLM) | 4:41 | 2023-07-25 | 2023-08-25 |

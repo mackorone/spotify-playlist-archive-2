@@ -1,6 +1,6 @@
 {
   "description": "el nombre lo dice todo.",
-  "num_followers": 1006652,
+  "num_followers": 1006612,
   "original_name": "perrear y llorar \ud83e\udd72",
   "owner": {
     "name": "Spotify",
@@ -363,18 +363,18 @@
     {
       "added_at": "2026-04-10 16:26:16",
       "album": {
-        "name": "11:11",
-        "url": "https://open.spotify.com/album/3YIUNL7qFE8NP3X3zaYSND"
+        "name": "Me Reh\u00faso",
+        "url": "https://open.spotify.com/album/4RrvIEhnaHKpFxsjXc4D7d"
       },
       "artists": [
         {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
         }
       ],
-      "duration_ms": 175733,
-      "name": "11 PM",
-      "url": "https://open.spotify.com/track/7KbF6AdprOXEEHlsq11Z6d"
+      "duration_ms": 205714,
+      "name": "Me Reh\u00faso",
+      "url": "https://open.spotify.com/track/6De0lHrwBfPfrhorm9q1Xl"
     },
     {
       "added_at": "2026-04-10 16:26:16",
@@ -419,6 +419,22 @@
     {
       "added_at": "2026-04-10 16:26:16",
       "album": {
+        "name": "11:11",
+        "url": "https://open.spotify.com/album/3YIUNL7qFE8NP3X3zaYSND"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 175733,
+      "name": "11 PM",
+      "url": "https://open.spotify.com/track/7KbF6AdprOXEEHlsq11Z6d"
+    },
+    {
+      "added_at": "2026-04-10 16:26:16",
+      "album": {
         "name": "I'M PART",
         "url": "https://open.spotify.com/album/2FaWRcWNTc2EhVJniu4t69"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 158480,
       "name": "Shiny",
       "url": "https://open.spotify.com/track/72aGCwuSwD5Qb3tHvXBoX3"
-    },
-    {
-      "added_at": "2026-04-10 16:26:16",
-      "album": {
-        "name": "Me Reh\u00faso",
-        "url": "https://open.spotify.com/album/4RrvIEhnaHKpFxsjXc4D7d"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "Me Reh\u00faso",
-      "url": "https://open.spotify.com/track/6De0lHrwBfPfrhorm9q1Xl"
     },
     {
       "added_at": "2026-04-10 16:26:16",
@@ -631,26 +631,6 @@
     {
       "added_at": "2026-04-10 16:26:16",
       "album": {
-        "name": "Inolvidable",
-        "url": "https://open.spotify.com/album/3MdsEVhC9AMtDTXB8n2yXI"
-      },
-      "artists": [
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
-        },
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        }
-      ],
-      "duration_ms": 225812,
-      "name": "Inolvidable",
-      "url": "https://open.spotify.com/track/0OTtnwUO8natNWSwdZvXVF"
-    },
-    {
-      "added_at": "2026-04-10 16:26:16",
-      "album": {
         "name": "Odisea",
         "url": "https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 229386,
       "name": "Traicionera",
       "url": "https://open.spotify.com/track/4Ft0391aLVNtCPPseh98lp"
+    },
+    {
+      "added_at": "2026-04-10 16:26:16",
+      "album": {
+        "name": "Inolvidable",
+        "url": "https://open.spotify.com/album/3MdsEVhC9AMtDTXB8n2yXI"
+      },
+      "artists": [
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "duration_ms": 225812,
+      "name": "Inolvidable",
+      "url": "https://open.spotify.com/track/0OTtnwUO8natNWSwdZvXVF"
     },
     {
       "added_at": "2026-04-10 16:26:16",
@@ -727,22 +727,6 @@
     {
       "added_at": "2026-04-10 16:26:16",
       "album": {
-        "name": "Energ\u00eda",
-        "url": "https://open.spotify.com/album/4cGc9Eeb3Gjff2Aq5ILLEf"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 201280,
-      "name": "Sigo Extra\u00f1\u00e1ndote",
-      "url": "https://open.spotify.com/track/0k23rRi1B8ZHrKtzECGoyk"
-    },
-    {
-      "added_at": "2026-04-10 16:26:16",
-      "album": {
         "name": "Aura",
         "url": "https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 176133,
       "name": "Vaina Loca",
       "url": "https://open.spotify.com/track/48zFZh27QU5qsrBjn4C2FA"
+    },
+    {
+      "added_at": "2026-04-10 16:26:16",
+      "album": {
+        "name": "Energ\u00eda",
+        "url": "https://open.spotify.com/album/4cGc9Eeb3Gjff2Aq5ILLEf"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 201280,
+      "name": "Sigo Extra\u00f1\u00e1ndote",
+      "url": "https://open.spotify.com/track/0k23rRi1B8ZHrKtzECGoyk"
     },
     {
       "added_at": "2026-04-10 16:26:16",
@@ -995,26 +995,6 @@
     {
       "added_at": "2026-04-10 16:26:16",
       "album": {
-        "name": "NUBES",
-        "url": "https://open.spotify.com/album/3aPk0LChKmVjZv5cto6GUF"
-      },
-      "artists": [
-        {
-          "name": "De La Rose",
-          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
-        },
-        {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
-        }
-      ],
-      "duration_ms": 271801,
-      "name": "NUBES",
-      "url": "https://open.spotify.com/track/31we7ZzWdSBEOKs5Ln6QVF"
-    },
-    {
-      "added_at": "2026-04-10 16:26:16",
-      "album": {
         "name": "Sue\u00f1os",
         "url": "https://open.spotify.com/album/3TgOrQ3p23Af8zSsxK8fdX"
       },
@@ -1031,6 +1011,26 @@
       "duration_ms": 225933,
       "name": "Otro Trago",
       "url": "https://open.spotify.com/track/1Ej96GIBCTvgH7tNX1r3qr"
+    },
+    {
+      "added_at": "2026-04-10 16:26:16",
+      "album": {
+        "name": "NUBES",
+        "url": "https://open.spotify.com/album/3aPk0LChKmVjZv5cto6GUF"
+      },
+      "artists": [
+        {
+          "name": "De La Rose",
+          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
+        },
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        }
+      ],
+      "duration_ms": 271801,
+      "name": "NUBES",
+      "url": "https://open.spotify.com/track/31we7ZzWdSBEOKs5Ln6QVF"
     },
     {
       "added_at": "2026-04-10 16:26:16",
@@ -1287,18 +1287,22 @@
     {
       "added_at": "2026-04-10 16:26:16",
       "album": {
-        "name": "Normal",
-        "url": "https://open.spotify.com/album/3xbevf88sEI6l01P9dApmu"
+        "name": "FDSR",
+        "url": "https://open.spotify.com/album/7klplPJ1UEKbEsUtm5FK0z"
       },
       "artists": [
         {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "Maisak",
+          "url": "https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi"
         }
       ],
-      "duration_ms": 171986,
-      "name": "Normal",
-      "url": "https://open.spotify.com/track/2z9YkcLojiOE7Eu2p9lPZR"
+      "duration_ms": 188181,
+      "name": "FDSR",
+      "url": "https://open.spotify.com/track/3KwYiawBfqngH7eaUHQn2N"
     },
     {
       "added_at": "2026-04-10 16:26:16",
@@ -1359,22 +1363,18 @@
     {
       "added_at": "2026-04-10 16:26:16",
       "album": {
-        "name": "FDSR",
-        "url": "https://open.spotify.com/album/7klplPJ1UEKbEsUtm5FK0z"
+        "name": "Normal",
+        "url": "https://open.spotify.com/album/3xbevf88sEI6l01P9dApmu"
       },
       "artists": [
         {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        },
-        {
-          "name": "Maisak",
-          "url": "https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi"
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
         }
       ],
-      "duration_ms": 188181,
-      "name": "FDSR",
-      "url": "https://open.spotify.com/track/3KwYiawBfqngH7eaUHQn2N"
+      "duration_ms": 171986,
+      "name": "Normal",
+      "url": "https://open.spotify.com/track/2z9YkcLojiOE7Eu2p9lPZR"
     },
     {
       "added_at": "2026-04-10 16:26:16",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2026-04-10 16:26:16",
       "album": {
+        "name": "Otro Nivel de M\u00fasica",
+        "url": "https://open.spotify.com/album/4zBoN1dVPUT2w4b1fFNFEh"
+      },
+      "artists": [
+        {
+          "name": "J Alvarez",
+          "url": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
+        }
+      ],
+      "duration_ms": 269591,
+      "name": "La Pregunta",
+      "url": "https://open.spotify.com/track/5GChYjT0HJVDtJMjcfhYmS"
+    },
+    {
+      "added_at": "2026-04-10 16:26:16",
+      "album": {
         "name": "MICRODOSIS",
         "url": "https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC"
       },
@@ -1431,22 +1447,6 @@
       "duration_ms": 174482,
       "name": "TUS L\u00c1GRIMAS",
       "url": "https://open.spotify.com/track/30W8VKHrAZmHzObnwAoc1u"
-    },
-    {
-      "added_at": "2026-04-10 16:26:16",
-      "album": {
-        "name": "Otro Nivel de M\u00fasica",
-        "url": "https://open.spotify.com/album/4zBoN1dVPUT2w4b1fFNFEh"
-      },
-      "artists": [
-        {
-          "name": "J Alvarez",
-          "url": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
-        }
-      ],
-      "duration_ms": 269591,
-      "name": "La Pregunta",
-      "url": "https://open.spotify.com/track/5GChYjT0HJVDtJMjcfhYmS"
     },
     {
       "added_at": "2026-04-10 16:26:16",
@@ -1591,6 +1591,26 @@
     {
       "added_at": "2026-04-10 16:26:16",
       "album": {
+        "name": "EX ASS",
+        "url": "https://open.spotify.com/album/3rFQBtfLRISVN50QeNwWFq"
+      },
+      "artists": [
+        {
+          "name": "iZaak",
+          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
+        },
+        {
+          "name": "De La Rose",
+          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
+        }
+      ],
+      "duration_ms": 157500,
+      "name": "EX ASS",
+      "url": "https://open.spotify.com/track/0ZPIxt9oYjX53iJOfLseHB"
+    },
+    {
+      "added_at": "2026-04-10 16:26:16",
+      "album": {
         "name": "CORAZ\u00d3N VAC\u00cdO",
         "url": "https://open.spotify.com/album/3YBQyY0Bj7bpxj0VHAse0P"
       },
@@ -1619,26 +1639,6 @@
       "duration_ms": 258638,
       "name": "Adan y Eva",
       "url": "https://open.spotify.com/track/6FyRXC8tJUh863JCkyWqtk"
-    },
-    {
-      "added_at": "2026-04-10 16:26:16",
-      "album": {
-        "name": "EX ASS",
-        "url": "https://open.spotify.com/album/3rFQBtfLRISVN50QeNwWFq"
-      },
-      "artists": [
-        {
-          "name": "iZaak",
-          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
-        },
-        {
-          "name": "De La Rose",
-          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
-        }
-      ],
-      "duration_ms": 157500,
-      "name": "EX ASS",
-      "url": "https://open.spotify.com/track/0ZPIxt9oYjX53iJOfLseHB"
     },
     {
       "added_at": "2026-04-10 16:26:16",
@@ -1715,22 +1715,18 @@
     {
       "added_at": "2026-04-10 16:26:16",
       "album": {
-        "name": "Mixteip",
-        "url": "https://open.spotify.com/album/5ZhcTmzBym8cwsVkNNrHgS"
+        "name": "La Familia",
+        "url": "https://open.spotify.com/album/5Fqdd85mAoGDp0K9lmbPDp"
       },
       "artists": [
         {
           "name": "J Balvin",
           "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
         }
       ],
-      "duration_ms": 198493,
-      "name": "Si Te Vas",
-      "url": "https://open.spotify.com/track/1qRWRxr2FTJjAfqxf99Bdm"
+      "duration_ms": 220853,
+      "name": "Yo Te Lo Dije",
+      "url": "https://open.spotify.com/track/7syG2WcnpcoJvxSZT9VbAa"
     },
     {
       "added_at": "2026-04-10 16:26:16",
@@ -1819,18 +1815,22 @@
     {
       "added_at": "2026-04-10 16:26:16",
       "album": {
-        "name": "La Familia",
-        "url": "https://open.spotify.com/album/5Fqdd85mAoGDp0K9lmbPDp"
+        "name": "Mixteip",
+        "url": "https://open.spotify.com/album/5ZhcTmzBym8cwsVkNNrHgS"
       },
       "artists": [
         {
           "name": "J Balvin",
           "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
         }
       ],
-      "duration_ms": 220853,
-      "name": "Yo Te Lo Dije",
-      "url": "https://open.spotify.com/track/7syG2WcnpcoJvxSZT9VbAa"
+      "duration_ms": 198493,
+      "name": "Si Te Vas",
+      "url": "https://open.spotify.com/track/1qRWRxr2FTJjAfqxf99Bdm"
     },
     {
       "added_at": "2026-04-10 16:26:16",

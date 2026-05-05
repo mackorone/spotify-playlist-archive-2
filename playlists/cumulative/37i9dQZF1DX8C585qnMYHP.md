@@ -4,7 +4,7 @@
 
 > The best new music by independent Experimental artists\. <a href="spotify:artist:47lrOrvCYsOUCEQQsj119K">Yung Singh</a> on cover\. Artwork by Thami Nabil.
 
-2,188 songs - 7 day 1 hr 15 min
+2,189 songs - 7 day 1 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -373,7 +373,7 @@
 | [Chasing The Clouds Away](https://open.spotify.com/track/0EIklXw7C6tK1wUzHf9IIS) | [Garrett](https://open.spotify.com/artist/2ESo0xI5YQncqKOhplNKIJ), [DāM\-FunK](https://open.spotify.com/artist/1AEcpjnSCmm53IBZQo3g9z) | [Private Life III](https://open.spotify.com/album/15ZVZvh5vjNkSR78h65bWR) | 4:12 | 2021-01-30 | 2022-01-17 |
 | [Cherenge](https://open.spotify.com/track/3BStM3Sqjmxp4hzbZN0ZDn) | [BinJa](https://open.spotify.com/artist/2D3YmQ1jtP4qk8mV7E1IuZ) | [Atmareka](https://open.spotify.com/album/2XvkrwWYlVw67ZiO2GUKNm) | 5:51 | 2022-03-30 | 2022-05-19 |
 | [Chilchae](https://open.spotify.com/track/6578gXdumleUUogLIZ26D0) | [bela](https://open.spotify.com/artist/2gXSofDMGaK49XgCpkQaDx) | [Guidelines](https://open.spotify.com/album/3TDVLJOQqffgI6hA10sdqV) | 3:23 | 2021-07-09 | 2021-08-26 |
-| [Children Of The Dusk](https://open.spotify.com/track/3B9XcCIA4LubFXBcyMDIeJ) | [Bloody Head](https://open.spotify.com/artist/1Nd9VrvRLgc0bAMA7pk6nK) | [Bend Down And Kiss The Ground](https://open.spotify.com/album/3RJ3TLoOU6UvVU8Q8MK0SO) | 5:26 | 2026-03-21 |  |
+| [Children Of The Dusk](https://open.spotify.com/track/3B9XcCIA4LubFXBcyMDIeJ) | [Bloody Head](https://open.spotify.com/artist/1Nd9VrvRLgc0bAMA7pk6nK) | [Bend Down And Kiss The Ground](https://open.spotify.com/album/3RJ3TLoOU6UvVU8Q8MK0SO) | 5:26 | 2026-03-21 | 2026-05-05 |
 | [Chiller](https://open.spotify.com/track/5mxRn2DiaRSIXBfNzS8PXV) | [Joardy Film](https://open.spotify.com/artist/7Aewol67hxDlXPDWKxKOs7), [Jesper Ankarfeldt](https://open.spotify.com/artist/6nIiixQiQwmApBIxLxpngw) | [HARCO](https://open.spotify.com/album/50B1RdfFTwwUs7HyAO3SeO) | 0:50 | 2022-01-12 | 2022-03-23 |
 | [Chladná Voda](https://open.spotify.com/track/57ZOlqlhmsl9GwXx7urMBm) | [Tomáš Niesner](https://open.spotify.com/artist/2HWIXFTcVPVuXasYaauMlW) | [Bečvou](https://open.spotify.com/album/58omSdmkbZlT8rwCng8wTD) | 4:09 | 2022-04-27 | 2022-07-07 |
 | [Choco Frito \(Calamari\)](https://open.spotify.com/track/6ReL0Y6me3C6tbj991O2NK) | [Proc Fiskal](https://open.spotify.com/artist/1eFFmUlWRIvt26lnUzdduk) | [Lothian Buses](https://open.spotify.com/album/0EqzAvPoS9JlP16Hlxb8Vk) | 3:18 | 2021-04-10 | 2021-06-04 |
@@ -1939,6 +1939,7 @@
 | [Treat Em Right \- Boards of Canada Remix](https://open.spotify.com/track/3ERefPtdVk4Vg3JQP4bZxl) | [Nevermen](https://open.spotify.com/artist/09P3wPH0MvtLnhwfbtzrRq), [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Treat Em Right \(Boards of Canada Remix\)](https://open.spotify.com/album/6CeL5FBulW0UQEjjefAkhu) | 4:14 | 2021-07-09 | 2022-01-15 |
 | [Trececerotres](https://open.spotify.com/track/2YIhvE2LGV58BDeINvSRbx) | [Daniela Lalita](https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds) | [Trececerotres](https://open.spotify.com/album/5ENBXjQ6oBDLq0AD6YfPTO) | 2:15 | 2022-09-21 | 2022-12-01 |
 | [Tree](https://open.spotify.com/track/5M4o1gPeRQAMOSHzJT50n7) | [Jupi/ter](https://open.spotify.com/artist/1lgvQ2wmUIPUPyijtFXF8x) | [Islands, Pt\. 2](https://open.spotify.com/album/295zTFUzqlhF1uU0B9eLnd) | 5:12 | 2022-04-06 | 2022-06-30 |
+| [Tree Festival](https://open.spotify.com/track/20ZkWbb1rkdNG86ocXHIfI) | [Nondi\_](https://open.spotify.com/artist/6vcnozR3JODUnpP8VL8OWF) | [Nondi...](https://open.spotify.com/album/5gTVBk1Ny9S6Ki5cCkyOz2) | 3:06 | 2026-05-05 |  |
 | [Trementina](https://open.spotify.com/track/1kqh6ZavA3h4PpkRAJgG8o) | [Torso Corso](https://open.spotify.com/artist/4M6TN8LGWYXUoezRTUp8F8) | [Trementina](https://open.spotify.com/album/5KnGI6HyME7eLLoGP9DZwN) | 2:07 | 2023-10-25 | 2023-11-30 |
 | [Tres](https://open.spotify.com/track/2xGt7oyNvPCt9I2XuhB33n) | [The Gardener](https://open.spotify.com/artist/0i1kzner1XKAvSz62HEnge) | [Cero](https://open.spotify.com/album/67mzZB3Tacqcr0gD52Dtfu) | 3:50 | 2025-04-24 | 2025-10-20 |
 | [Trinkets](https://open.spotify.com/track/5XjgX3KRj3iyyv8b3WQnsK) | [Mope City](https://open.spotify.com/artist/6uKojBW8r1labzBTmahuIP) | [Within the Walls](https://open.spotify.com/album/67hhASFStWey2401rj5TVJ) | 0:40 | 2021-05-15 | 2021-06-03 |

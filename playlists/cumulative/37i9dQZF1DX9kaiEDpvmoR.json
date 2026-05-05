@@ -1769,6 +1769,24 @@
     },
     {
       "album": {
+        "name": "Flytta isbergen, vattna sv\u00e4rmorstungan, ta med soporna ut (Live)",
+        "url": "https://open.spotify.com/album/2i2832uYSA6ZjldfbX1XEN"
+      },
+      "artists": [
+        {
+          "name": "Th\u00e5str\u00f6m",
+          "url": "https://open.spotify.com/artist/2PBhJmRqee1QAyQU2kBu1H"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264146,
+      "name": "Det b\u00e4sta av allt - Live",
+      "url": "https://open.spotify.com/track/3yZzIdYbrajLDhcnPOXOCR"
+    },
+    {
+      "album": {
         "name": "Det jag s\u00e5g i din spegel s\u00e5g inte ut som mig",
         "url": "https://open.spotify.com/album/6PDWwnqJ0eygYguIyFBGUv"
       },
@@ -3224,7 +3242,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 178973,
       "name": "F\u00f6rnedrade",
       "url": "https://open.spotify.com/track/64kDhj57KC1UoduD3qOroE"
@@ -4110,7 +4128,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 205786,
       "name": "Huset har rasat",
       "url": "https://open.spotify.com/track/6wETYM9zLibxsj7IPtA7Cp"
@@ -7064,6 +7082,24 @@
       "duration_ms": 299861,
       "name": "Pl\u00e5ster",
       "url": "https://open.spotify.com/track/7mWeGv6VVIP13nyaTL4XvI"
+    },
+    {
+      "album": {
+        "name": "Praying for a Miracle",
+        "url": "https://open.spotify.com/album/7KUJcnrSFhJdBYdPX6T2bR"
+      },
+      "artists": [
+        {
+          "name": "Erik Gr\u00f6nwall",
+          "url": "https://open.spotify.com/artist/5dg3YtsiR8ux6amJv9m9AG"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226675,
+      "name": "Praying for a Miracle",
+      "url": "https://open.spotify.com/track/4uTEsvH1qgQtsjo7cCKfBF"
     },
     {
       "album": {

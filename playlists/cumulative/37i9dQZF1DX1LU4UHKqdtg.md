@@ -4,7 +4,7 @@
 
 > Girls groups/solo artists shining beyond borders\. グローバルに活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Cover: ILLIT
 
-1,721 songs - 3 day 18 hr 48 min
+1,723 songs - 3 day 18 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -284,6 +284,7 @@
 | [CHO \- Japanese ver.](https://open.spotify.com/track/4JJZCcYn800GgmZDt78Znd) | [Feverse](https://open.spotify.com/artist/2HEGA0QyWlpVzyNF6WaMVQ) | [Feverse JAPAN 1st ALBUM \(CHO \-Japanese ver.\-\)](https://open.spotify.com/album/7fWY7Rr0Lc72XS13RfWuvo) | 3:24 | 2023-09-26 | 2023-10-07 |
 | [Chocolate \- Japanese Ver.](https://open.spotify.com/track/4Wfwahl7IC8iHwPAM3di7Z) | [MAX CHANGMIN](https://open.spotify.com/artist/7FiAkNWMb6ZBYI8tbQLuIS) | [Chocolate \(Japanese Ver.\)](https://open.spotify.com/album/6qIiU9PzJzMuQVJRIoAO9a) | 2:53 | 2021-12-23 | 2022-01-15 |
 | [Choices](https://open.spotify.com/track/0THn1agoZT9wJXkITUz6dJ) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Choices](https://open.spotify.com/album/4mpznsEPjMQrvD7laIx9UI) | 3:21 | 2023-01-08 | 2023-07-08 |
+| [CHOOM](https://open.spotify.com/track/6gunPOwkADFspLkQtmVuZT) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [CHOOM](https://open.spotify.com/album/2BGC5qI7Kg1ejJnza3Cy5k) | 2:58 | 2026-05-04 |  |
 | [Christmas EveL](https://open.spotify.com/track/266QhbDtB6QapuIYRBaLFe) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Christmas EveL](https://open.spotify.com/album/2zr4ZyuHVj2rL0Gw2zoNgL) | 2:58 | 2021-12-23 | 2022-02-02 |
 | [chrOme arts](https://open.spotify.com/track/3xcCp9Q4YTiCqynB9ws6Ei) | [OnlyOneOf](https://open.spotify.com/artist/0iQGSzpJ0G0lsugv8jsJHd) | [chrOme arts](https://open.spotify.com/album/6nYQ1nUIKWEhxW7fn4JMiI) | 3:06 | 2023-01-24 | 2023-03-22 |
 | [Circles](https://open.spotify.com/track/6h58TnblIV3OPynBI45r0d) | [ASTRO](https://open.spotify.com/artist/4pz4uzOMpJQyV8UTsDy4H8) | [Circles](https://open.spotify.com/album/7eDqR1pdw3m0HUVOWsJy0s) | 4:00 | 2024-02-22 | 2024-04-03 |
@@ -586,6 +587,7 @@
 | [GOOD SO BAD \- Japanese ver.](https://open.spotify.com/track/5wc3JZS10SM1JoCv13Fr5Y) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [GOOD SO BAD \- Japanese ver.](https://open.spotify.com/album/6s37gVR5yCdHFJfLbpkmBh) | 2:57 | 2024-08-29 | 2024-10-11 |
 | [GOOD STUFF \- KARINA Solo](https://open.spotify.com/track/19iJj3pCMwGxrA6pltPat3) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [SYNK : aeXIS LINE \- 2025 Special Digital Single](https://open.spotify.com/album/74gHwFGwl4KWA3sD8ZmAbJ) | 2:55 | 2025-11-17 | 2026-02-27 |
 | [Good Thing](https://open.spotify.com/track/3GFeuIIJQDgCpVHjsLkEgw) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [We are](https://open.spotify.com/album/1t6JFkzuqg7Wb7SzkHkheH) | 2:34 | 2025-05-19 | 2025-11-18 |
+| [Goodbye With A Smile \(Recorded in 2016\) \(Prod.Jinyoung\)](https://open.spotify.com/track/26ZXmnV2EoILwZxDitGBUz) | [I.O.I](https://open.spotify.com/artist/6RKnXXyprPjhBdCvL802Ku) | [Goodbye With A Smile \(Recorded in 2016\) \(Prod.Jinyoung\)](https://open.spotify.com/album/5RwpaUNCs8Ak1rTWRj25Od) | 4:00 | 2026-05-04 |  |
 | [GPT](https://open.spotify.com/track/36qXU2yyq1JtGp05omV7bu) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [...l](https://open.spotify.com/album/3mOHNMIoQXQfux8b0pgQI0) | 3:08 | 2024-10-29 | 2025-02-01 |
 | [GRAB ME](https://open.spotify.com/track/6ad1x6RTZbAINCBUqiuoAV) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [THE FUTURE IS OURS: FOUND](https://open.spotify.com/album/5iuOgrQuJFL4RgUBmF5ieO) | 3:16 | 2024-01-23 | 2024-02-14 |
 | [GRAB ME \- Japanese ver\. \-](https://open.spotify.com/track/4eCxt8h7dTYNrdsdpOJuW8) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [GRAB ME \- Japanese ver\. \-](https://open.spotify.com/album/2rRTnXXvVLHlQfSTJbSkCw) | 3:16 | 2024-06-11 | 2024-07-31 |
@@ -1571,7 +1573,7 @@
 | [we don't go to bed tonight](https://open.spotify.com/track/6DYEcm6rWPARirLzKAGwSW) | [YOUNG POSSE](https://open.spotify.com/artist/5bxwvIM9PX0CkpS6f1L2Ff) | [we don't go to bed tonight](https://open.spotify.com/album/6R8cB0HqPS5jiKo0qDUrzO) | 3:03 | 2026-04-24 |  |
 | [We Fresh](https://open.spotify.com/track/7tMN3tczfA8zwcD4jlCsRh) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [TROUBLESHOOTER](https://open.spotify.com/album/2PbytQbw3uuEMECdw46ya7) | 3:15 | 2022-10-13 | 2023-02-22 |
 | [We Go](https://open.spotify.com/track/7hxvMTEUOXEKDZ3nnUqbdJ) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Pokémon 2023 \(Original TV Series Soundtrack, Korea\)](https://open.spotify.com/album/2rTc5TdRP7hr7gE4h4lUR1) | 3:08 | 2023-08-24 | 2023-10-11 |
-| [WE GO UP](https://open.spotify.com/track/1tonXoW6dcb7GGNpec3PTl) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [WE GO UP](https://open.spotify.com/album/4QymxXCfQoxscpmFiMXcv9) | 3:06 | 2025-10-10 |  |
+| [WE GO UP](https://open.spotify.com/track/1tonXoW6dcb7GGNpec3PTl) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [WE GO UP](https://open.spotify.com/album/4QymxXCfQoxscpmFiMXcv9) | 3:06 | 2025-10-10 | 2026-05-05 |
 | [We Just Don't Care](https://open.spotify.com/track/55zZerklQQ4Ju5J3YJV8uS) | [ONE N' ONLY](https://open.spotify.com/artist/6Pob63g9NOdT7moTAUZ4GB) | [We Just Don't Care](https://open.spotify.com/album/3r9RLXBQ4eFvstaLSylKDM) | 4:47 | 2021-12-23 | 2022-01-19 |
 | [We Still Loading \(FEAT\. Los, Rick Bridges, Northfacegawd, DJ SKY\)](https://open.spotify.com/track/0AIHkhsDd5dtHdQi4sH0E1) | [YOUNG POSSE](https://open.spotify.com/artist/5bxwvIM9PX0CkpS6f1L2Ff), [Los](https://open.spotify.com/artist/396SgLoc5TB6oqatyTy2HD), [Rick bridges](https://open.spotify.com/artist/5TmTQv1VaF0VDAmC9eAQ2m), [northfacegawd](https://open.spotify.com/artist/620Vx5hEMowoa71wXk4bu1), [DJ SKY](https://open.spotify.com/artist/77kV2wcADwv2t1lpV2BSSy) | [Year 1 : We Still Loading](https://open.spotify.com/album/1fkW1yc8kn27ROj1s6ebE1) | 4:36 | 2024-10-17 | 2024-10-24 |
 | [We're Not Alone](https://open.spotify.com/track/5A2Y2GjttBvB2u5o5cNjVO) | [LUN8](https://open.spotify.com/artist/5LkLwB6VSZLQiFkJa9SPOn) | [Weʼre Not Alone](https://open.spotify.com/album/79pspaGpJfhnlUlROnQZtO) | 4:36 | 2024-12-10 | 2025-01-27 |
@@ -1622,7 +1624,7 @@
 | [Wish](https://open.spotify.com/track/32rfwDhSWTWp5xAIa36B72) | [Ash\-B](https://open.spotify.com/artist/78l5b6jXVHHTrRCzSx1ku4) | [Wish](https://open.spotify.com/album/2CEtkvdTUlrdXn93Whpzr2) | 3:00 | 2024-01-25 | 2024-03-06 |
 | [WISH \- Japanese Ver.](https://open.spotify.com/track/5na7IiFow1qNGtLhhBAaSI) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [WISH](https://open.spotify.com/album/0BY5GFkY77dWu3AjengDay) | 3:05 | 2024-02-27 | 2024-04-10 |
 | [Wish I Didn't Care \(feat\. Lyn Lapid\)](https://open.spotify.com/track/3xRv1YmKy2yy0JPqcpaZrW) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM), [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [House on a Hill \(Deluxe\)](https://open.spotify.com/album/2nEiTXt1gKL9ejJaQRhwic) | 2:40 | 2024-05-10 | 2024-06-14 |
-| [Wish to Wish](https://open.spotify.com/track/6h49pP33Is5rIPyn70nKzt) | [YOONA](https://open.spotify.com/artist/6LCX99hubn8CejiUtMCyyk) | [Wish to Wish](https://open.spotify.com/album/6DmYT4XWlTpyQqKD7Z3rkx) | 3:37 | 2025-12-19 |  |
+| [Wish to Wish](https://open.spotify.com/track/6h49pP33Is5rIPyn70nKzt) | [YOONA](https://open.spotify.com/artist/6LCX99hubn8CejiUtMCyyk) | [Wish to Wish](https://open.spotify.com/album/6DmYT4XWlTpyQqKD7Z3rkx) | 3:37 | 2025-12-19 | 2026-05-05 |
 | [Wish You Hell](https://open.spotify.com/track/1zC3wpW5qU7n6KVrBlbAah) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Wish You Hell \- The 2nd Mini Album](https://open.spotify.com/album/4TqtE79sLslimmr8XujDAD) | 2:50 | 2024-04-18 | 2024-04-27 |
 | [Wish You Hell](https://open.spotify.com/track/7b8SkcdeiTuo6FQXdPgPWW) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Wish You Hell \- The 2nd Mini Album](https://open.spotify.com/album/3f8n88uX0tNvA8HTROgSkr) | 2:50 | 2024-03-12 | 2024-04-19 |
 | [Wish you were here](https://open.spotify.com/track/4PGPcB5El4Q70XNUey3Mci) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6) | [ただいま](https://open.spotify.com/album/7w9hyDGuwiO16unGXChcfU) | 3:20 | 2024-03-12 | 2024-03-27 |

@@ -1,6 +1,6 @@
 {
   "description": "\uc13c\uce58\ud55c \uac10\uc815\uc744 \ub178\ub798\ud558\ub294 \uac10\uc131\uc801\uc778 \uace1\ub4e4\uacfc \ud568\uaed8 \ubb3c \uba4d\uc5d0 \uc7a0\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 12005,
+  "num_followers": 12009,
   "original_name": "\ubb3c \uba4d",
   "owner": {
     "name": "Spotify",
@@ -431,22 +431,6 @@
     {
       "added_at": "2026-04-23 02:22:18",
       "album": {
-        "name": "Lithonia",
-        "url": "https://open.spotify.com/album/1hfI7lik7Q3ENibeUxfsf3"
-      },
-      "artists": [
-        {
-          "name": "Childish Gambino",
-          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
-        }
-      ],
-      "duration_ms": 179320,
-      "name": "Lithonia",
-      "url": "https://open.spotify.com/track/4JfpJrrGNXRj2yXm1fYV23"
-    },
-    {
-      "added_at": "2026-04-23 02:22:18",
-      "album": {
         "name": "Flower",
         "url": "https://open.spotify.com/album/2M7Shx9AkhvDRs33JZR7wx"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 297591,
       "name": "Lily of The Valley",
       "url": "https://open.spotify.com/track/4gAIUEY7VkeiKQOPwIYaYb"
+    },
+    {
+      "added_at": "2026-04-23 02:22:18",
+      "album": {
+        "name": "Lithonia",
+        "url": "https://open.spotify.com/album/1hfI7lik7Q3ENibeUxfsf3"
+      },
+      "artists": [
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        }
+      ],
+      "duration_ms": 179320,
+      "name": "Lithonia",
+      "url": "https://open.spotify.com/track/4JfpJrrGNXRj2yXm1fYV23"
     },
     {
       "added_at": "2026-04-23 02:22:18",
@@ -543,6 +543,22 @@
     {
       "added_at": "2026-04-23 02:22:18",
       "album": {
+        "name": "Model",
+        "url": "https://open.spotify.com/album/64SX9Efb2JGW3rJFE1ZddJ"
+      },
+      "artists": [
+        {
+          "name": "Wallows",
+          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
+        }
+      ],
+      "duration_ms": 210904,
+      "name": "Bad Dream",
+      "url": "https://open.spotify.com/track/7GXcuBE3Aiu8gUJjX8PSlV"
+    },
+    {
+      "added_at": "2026-04-23 02:22:18",
+      "album": {
         "name": "TYPHOON",
         "url": "https://open.spotify.com/album/53SL5EIuJdUG7EBF6u2rdv"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 180395,
       "name": "me & u",
       "url": "https://open.spotify.com/track/5R9eJdGi0hzYRajiqyq62h"
-    },
-    {
-      "added_at": "2026-04-23 02:22:18",
-      "album": {
-        "name": "Model",
-        "url": "https://open.spotify.com/album/64SX9Efb2JGW3rJFE1ZddJ"
-      },
-      "artists": [
-        {
-          "name": "Wallows",
-          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
-        }
-      ],
-      "duration_ms": 210904,
-      "name": "Bad Dream",
-      "url": "https://open.spotify.com/track/7GXcuBE3Aiu8gUJjX8PSlV"
     },
     {
       "added_at": "2026-04-23 02:22:18",
@@ -611,22 +611,6 @@
     {
       "added_at": "2026-04-23 02:22:18",
       "album": {
-        "name": "About Time",
-        "url": "https://open.spotify.com/album/2ICdqEf91Kc9FwdlLtB748"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Claudio",
-          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
-        }
-      ],
-      "duration_ms": 244909,
-      "name": "Frozen",
-      "url": "https://open.spotify.com/track/21oJ1K99GBJrE2GVQGVjA0"
-    },
-    {
-      "added_at": "2026-04-23 02:22:18",
-      "album": {
         "name": "No One Sings Like You Anymore",
         "url": "https://open.spotify.com/album/50CtNizqlxOXeHICmNwc45"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 253120,
       "name": "Patience",
       "url": "https://open.spotify.com/track/0cMyMeOTBeweBZRfP6MJ6e"
+    },
+    {
+      "added_at": "2026-04-23 02:22:18",
+      "album": {
+        "name": "About Time",
+        "url": "https://open.spotify.com/album/2ICdqEf91Kc9FwdlLtB748"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Claudio",
+          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
+        }
+      ],
+      "duration_ms": 244909,
+      "name": "Frozen",
+      "url": "https://open.spotify.com/track/21oJ1K99GBJrE2GVQGVjA0"
     },
     {
       "added_at": "2026-04-23 02:22:18",
@@ -755,22 +755,6 @@
     {
       "added_at": "2026-04-23 02:22:18",
       "album": {
-        "name": "Strange Trails",
-        "url": "https://open.spotify.com/album/4sD1qg4jwTZR4mvR4Iflk5"
-      },
-      "artists": [
-        {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
-        }
-      ],
-      "duration_ms": 208211,
-      "name": "The Night We Met",
-      "url": "https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU"
-    },
-    {
-      "added_at": "2026-04-23 02:22:18",
-      "album": {
         "name": "Our Love",
         "url": "https://open.spotify.com/album/5eYV7Hn2OtqnzBGGU8rn9L"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 201951,
       "name": "3:00 AM",
       "url": "https://open.spotify.com/track/1A9BHea7H07pDnwFpM1yWG"
+    },
+    {
+      "added_at": "2026-04-23 02:22:18",
+      "album": {
+        "name": "Strange Trails",
+        "url": "https://open.spotify.com/album/4sD1qg4jwTZR4mvR4Iflk5"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        }
+      ],
+      "duration_ms": 208211,
+      "name": "The Night We Met",
+      "url": "https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU"
     },
     {
       "added_at": "2026-04-23 02:22:18",

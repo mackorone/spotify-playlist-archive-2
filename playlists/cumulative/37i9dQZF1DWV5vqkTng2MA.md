@@ -4,7 +4,7 @@
 
 > Make it new\. Fresh takes on vintage soul, folk, blues, and roots rock\. Cover: Maggie Rose
 
-323 songs - 19 hr 17 min
+325 songs - 19 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Black Leaves](https://open.spotify.com/track/7wTXoVGiDC9jS0oxdfwLKv) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Black Leaves](https://open.spotify.com/album/1TNajOxU7C8rl6ciy5r1Im) | 1:44 | 2023-09-15 | 2024-04-19 |
 | [Black Man In A White World](https://open.spotify.com/track/3ddle9t9JiBFVqHyrnaGxz) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Love & Hate](https://open.spotify.com/album/0qxsfpy2VU0i4eDR9RTaAU) | 4:18 | 2022-06-01 | 2024-04-19 |
 | [Blind Ambition](https://open.spotify.com/track/6axOZ4BSW8rj9KbislTMrx) | [Sophia Bastian](https://open.spotify.com/artist/6K4VObADRbAt5QIPedp2ND) | [Blind Ambition](https://open.spotify.com/album/4puRLm5kd3t9qPZbmwZjX5) | 3:51 | 2021-10-01 |  |
-| [Blown Away](https://open.spotify.com/track/7mHBL0aq8D9DLGchZWMG48) | [Ben Goldsmith](https://open.spotify.com/artist/0PZ37cyRFUP9o9nCdfS8J8) | [Blown Away](https://open.spotify.com/album/2gKCl4Xw662KFd1VjSRjgM) | 3:14 | 2023-08-25 |  |
+| [Blown Away](https://open.spotify.com/track/7mHBL0aq8D9DLGchZWMG48) | [Ben Goldsmith](https://open.spotify.com/artist/0PZ37cyRFUP9o9nCdfS8J8) | [Blown Away](https://open.spotify.com/album/2gKCl4Xw662KFd1VjSRjgM) | 3:14 | 2023-08-25 | 2026-05-05 |
 | [Blue](https://open.spotify.com/track/6n2lgYmsqtJoOp2Qy4YNpJ) | [Meghan Linsey](https://open.spotify.com/artist/5CoW8VGpf9la64TUDhnkVn) | [Blue](https://open.spotify.com/album/7bFB8mpZVwH3prnKZIJJzw) | 3:06 | 2026-02-13 |  |
 | [Bossy](https://open.spotify.com/track/1WNtjvH8NmueY4kV10ZI93) | [JD McPherson](https://open.spotify.com/artist/6u5mhJXgAKPTj6YVlZSPY9) | [Bossy](https://open.spotify.com/album/3EF1kZp1nzZdHzYS7501za) | 3:18 | 2022-06-01 | 2022-07-20 |
 | [Burn It Down](https://open.spotify.com/track/3We5tUcKQ3CW6r8K9kvwxG) | [Jason Eady](https://open.spotify.com/artist/78xCXcmrzDgoRkinWE0uUV), [Taylor Hunnicutt](https://open.spotify.com/artist/6lcCm7ycq5rTBls6WNxDZp) | [Burn It Down](https://open.spotify.com/album/0zklM830YV4KCwY2Oc3RxN) | 2:26 | 2024-08-30 | 2026-03-15 |
@@ -104,7 +104,7 @@
 | [Good Together](https://open.spotify.com/track/1WhKc5DGuabpiPgZ9c375T) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Good Together](https://open.spotify.com/album/0h5oGdKMLQchyJljb7Q0Qk) | 3:21 | 2024-03-01 |  |
 | [Got Soul](https://open.spotify.com/track/1ipnaANJ3PxKhsZGgMP4LN) | [Robert Randolph & The Family Band](https://open.spotify.com/artist/4xac3zhHlBm5QDxbZeqgeR) | [Got Soul](https://open.spotify.com/album/1QoYDxyqJbI1zQN0LfV5mL) | 3:32 | 2022-02-11 |  |
 | [Hands on the Radio](https://open.spotify.com/track/0S1NJoM1JHfd2x9Orm2j2G) | [The Weeks](https://open.spotify.com/artist/3zE5jV6Uw9hhdWCXM8hS3j) | [Hands on the Radio](https://open.spotify.com/album/08noPcSJhhNl1KayiNivkS) | 3:32 | 2021-10-01 |  |
-| [Hang My Head in Shame](https://open.spotify.com/track/7lxHif999XHcMA3ER65kBy) | [Pete Molinari](https://open.spotify.com/artist/4BrRTXokeSeCxUuJcZYq57), [Barrie Cadogan](https://open.spotify.com/artist/43hBfQ8nPDcugjA8L6w1iy) | [Theosophy](https://open.spotify.com/album/1Uiz1myYQrTrmUrwZDQAhs) | 3:45 | 2024-09-06 |  |
+| [Hang My Head in Shame](https://open.spotify.com/track/7lxHif999XHcMA3ER65kBy) | [Pete Molinari](https://open.spotify.com/artist/4BrRTXokeSeCxUuJcZYq57), [Barrie Cadogan](https://open.spotify.com/artist/43hBfQ8nPDcugjA8L6w1iy) | [Theosophy](https://open.spotify.com/album/1Uiz1myYQrTrmUrwZDQAhs) | 3:45 | 2024-09-06 | 2026-05-05 |
 | [Hello Miss Lonesome](https://open.spotify.com/track/0BcPWBAYXbYP6QvoOVGiU8) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [Marlon Williams](https://open.spotify.com/album/4YZFCwN1KJOYs6bdm3aKhI) | 3:15 | 2021-10-01 | 2022-07-29 |
 | [Hello Miss Lonesome](https://open.spotify.com/track/3es2LSvwTtmC42XoBtNabh) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [Marlon Williams](https://open.spotify.com/album/6zyHtPo88NOvkXW749yGwU) | 3:15 | 2022-08-02 | 2022-11-13 |
 | [Here You Come Again \(with Max Abrams\)](https://open.spotify.com/track/2YLLW5WnSLXgYbChmaP2kJ) | [The Mavericks](https://open.spotify.com/artist/4Ud7lY9V8pOyydumajSW3O), [Max Abrams](https://open.spotify.com/artist/5nniLGuXKnrlNZHQ2VaTD9) | [Here You Come Again \(with Max Abrams\)](https://open.spotify.com/album/71a6eZrAINJtg9PXcp7cWb) | 3:30 | 2024-04-19 |  |
@@ -115,6 +115,7 @@
 | [Hold](https://open.spotify.com/track/0sLgdA4a3ReEK5xoBJAndM) | [Ali Angel](https://open.spotify.com/artist/0RPW9rpDMyVD4wEMzvd1RG), [Tyler Ballgame](https://open.spotify.com/artist/1pQ0Axx7UF8LDDOqSgdVmK) | [Hold](https://open.spotify.com/album/6TvnRqPEqYn938EHeBWvyh) | 4:21 | 2025-03-19 |  |
 | [Hold On \(Hourglass\)](https://open.spotify.com/track/1QDySElJ1ReSMXctn2RlX2) | [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH) | [Hold On \(Hourglass\)](https://open.spotify.com/album/1xT90CemUTK48e1L3y7Pfx) | 4:08 | 2026-02-27 |  |
 | [Holly](https://open.spotify.com/track/3YYmCD8ERuxyMu6GDhWDQF) | [Nick Waterhouse](https://open.spotify.com/artist/0V7uVrIYr4FwFvUN9S4kYr) | [Holly](https://open.spotify.com/album/1Q2XIzf9j68gTi9MuY4fwD) | 2:43 | 2021-10-01 | 2022-07-29 |
+| [Home With My Dog](https://open.spotify.com/track/53taqmWyUH21RoJmglUoyG) | [Emily Nenni](https://open.spotify.com/artist/63BuZ8jcRTEc8SLZdGlXQy) | [Movin’ Shoes](https://open.spotify.com/album/2sHS3YECiWION4TfBHmkTI) | 4:09 | 2026-05-01 |  |
 | [Honest Man](https://open.spotify.com/track/0KRBAOHg8LuG07fF2jrsrK) | [Matt Andersen](https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5) | [Honest Man](https://open.spotify.com/album/4syDqjDLtyOd7T70QkUQ60) | 3:32 | 2021-10-01 | 2022-07-27 |
 | [Housebroken Man](https://open.spotify.com/track/3BLFRn1bObTn2E9WQB8cBI) | [Quiet Life](https://open.spotify.com/artist/13MdjUqnWNyfY4qKYQ9OPl), [Cary Ann Hearst](https://open.spotify.com/artist/2Fwqnm1kpxK4BZgWrsG5qm) | [Housebroken Man](https://open.spotify.com/album/5OGTvU4mhKMfoUkajeA0De) | 3:46 | 2021-10-01 | 2022-03-09 |
 | [How Bad We Need Each Other](https://open.spotify.com/track/2nxmj0bOGYbIRMWn2xSsvB) | [Marc Scibilia](https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77) | [Out of Style](https://open.spotify.com/album/7wJuetT1Y6ZH6F7UJS5Z2F) | 3:13 | 2024-03-01 | 2024-04-19 |
@@ -282,6 +283,7 @@
 | [Take My Heart](https://open.spotify.com/track/4AEUvrnxGomXqK3guvQkt8) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Take My Heart](https://open.spotify.com/album/5Wh8xD9g7Bu3ToOZCRMbwg) | 4:18 | 2024-03-01 |  |
 | [Take My Heart](https://open.spotify.com/track/7i6ba4Pz9c6i0TnDKUmI7F) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Take My Heart](https://open.spotify.com/album/1AqN9WyeYYPPLEvclp2xlI) | 4:18 | 2023-03-24 | 2023-06-20 |
 | [Take My Heart](https://open.spotify.com/track/7vS9rpDGP8Z75CbrlseYlu) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [The Winding Way](https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH) | 4:18 | 2023-05-19 | 2024-04-19 |
+| [Take My Money](https://open.spotify.com/track/3yFc8RcontbOrTC2bNSmAO) | [Emily Nenni](https://open.spotify.com/artist/63BuZ8jcRTEc8SLZdGlXQy) | [Movin’ Shoes](https://open.spotify.com/album/2sHS3YECiWION4TfBHmkTI) | 2:13 | 2026-05-01 |  |
 | [Tell the Falling Sun](https://open.spotify.com/track/247qxelzjSgKDWINzRJ7Pf) | [KaiL Baxley](https://open.spotify.com/artist/3fV14PAU0MWFaj0Kt8MDWx) | [A Light That Never Dies](https://open.spotify.com/album/3bVTjHIf9SQb5azkxNTVVE) | 4:00 | 2021-10-01 | 2022-07-28 |
 | [The Ballad of Johnny](https://open.spotify.com/track/2A32JdgX32o5yUloJMq4Q3) | [KaiL Baxley](https://open.spotify.com/artist/3fV14PAU0MWFaj0Kt8MDWx) | [A Light That Never Dies](https://open.spotify.com/album/7LH0Sg7HCq6DRKwjloezQ1) | 2:53 | 2022-06-01 | 2024-04-19 |
 | [The Ballad of Johnny Steel](https://open.spotify.com/track/0WNnCTRREQ8wFNoI1vQHch) | [KaiL Baxley](https://open.spotify.com/artist/3fV14PAU0MWFaj0Kt8MDWx) | [A Light That Never Dies](https://open.spotify.com/album/3bVTjHIf9SQb5azkxNTVVE) | 2:53 | 2021-10-01 | 2022-07-29 |

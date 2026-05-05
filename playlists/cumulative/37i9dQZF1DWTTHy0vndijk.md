@@ -2,16 +2,16 @@
 
 ### [Satang Mix \(사탕 믹스\)](https://open.spotify.com/playlist/37i9dQZF1DWTTHy0vndijk)
 
-> Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. \(Cover: Apink\) \(상큼하고 발랄, 청순한 아이돌의 세계에 빠져보세요!\)
+> Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. \(Cover: I.O.I\) \(상큼하고 발랄, 청순한 아이돌의 세계에 빠져보세요!\)
 
-543 songs - 1 day 5 hr 30 min
+546 songs - 1 day 5 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\#menow](https://open.spotify.com/track/4lIAPwAU6R8PAy2WhykC4i) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Unlock My World](https://open.spotify.com/album/48DcB4A9LV3DugLTILN1D9) | 2:49 | 2023-06-12 | 2025-04-16 |
 | [1 TO 10](https://open.spotify.com/track/4yNs8ThVCpllJ2OcCNssQF) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [TWICEcoaster: LANE1](https://open.spotify.com/album/1O0JME3VbK4siDIfh6K3Oe) | 2:55 | 2022-03-21 | 2022-07-26 |
 | [1000%](https://open.spotify.com/track/6mjHsAUoJvB25sd2uvYTdA) | [SummerWish](https://open.spotify.com/artist/2xPib32Evv9bGD0CBrpkqM) | [PRODUCE 48 \- 30 Girls 6 Concepts](https://open.spotify.com/album/1WzVAxZWm3JDNbI0jzk0dF) | 3:36 | 2022-01-17 | 2022-07-28 |
-| [15th Season](https://open.spotify.com/track/2aKoH0vLoRJK8NFt7NWiXC) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [15th Season](https://open.spotify.com/album/7yKGGrHaKCKAyGQDS8obhI) | 3:49 | 2026-04-20 |  |
+| [15th Season](https://open.spotify.com/track/2aKoH0vLoRJK8NFt7NWiXC) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [15th Season](https://open.spotify.com/album/7yKGGrHaKCKAyGQDS8obhI) | 3:49 | 2026-04-20 | 2026-05-05 |
 | [22CENTURY GIRL](https://open.spotify.com/track/4Sg6hnJ0MXIzU4wl47KKs7) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [To\. Day](https://open.spotify.com/album/09r6g4aYjC6WqIxmTNHaZx) | 3:35 | 2021-11-29 | 2022-07-09 |
 | [24 O' clock](https://open.spotify.com/track/1iMYzE3vDp72fOaqb8hk22) | [Kizzy](https://open.spotify.com/artist/6DfeIQnmFqtT8Y1lgtQ8QX) | [Dreamlike](https://open.spotify.com/album/7E61PhUDL3MbwVTz36oFSA) | 3:53 | 2022-03-29 | 2022-07-09 |
 | [5 More Minutes](https://open.spotify.com/track/3epPI6Bx5IeRtPMNFG5976) | [DIA](https://open.spotify.com/artist/5Pcx98OUnL52aGZRRQx5v8) | [NEWTRO](https://open.spotify.com/album/3CBgvajr0lz1fOIGIydiZ3) | 3:28 | 2021-11-29 | 2022-07-24 |
@@ -66,7 +66,7 @@
 | [Bubble](https://open.spotify.com/track/4P5ozkI1bxiGxA5rZ27jlO) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [TEENFRESH](https://open.spotify.com/album/4P5wnRQTBnnjNbjt7A6S6x) | 2:59 | 2023-08-18 | 2025-04-16 |
 | [Bubble Gum](https://open.spotify.com/track/19D8LNpWwIPpi6hs9BG7dq) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [How Sweet](https://open.spotify.com/album/0EhZEM4RRz0yioTgucDhJq) | 3:20 | 2024-06-12 | 2025-09-15 |
 | [Bubble Gum Girl](https://open.spotify.com/track/38bky5ZuZZFlBmbphLBgaZ) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [msnz <Beyond Beauty>](https://open.spotify.com/album/281B8RLDzA7mufE1ccVxrM) | 2:48 | 2025-11-25 | 2026-01-29 |
-| [Bubee \(Korean Ver.\)](https://open.spotify.com/track/3FgR1MXFjpkL5HTDRrrFUE) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Bubee \(Korean Ver.\)](https://open.spotify.com/album/0fAglFrU95801fwwFiZBri) | 3:02 | 2026-04-13 |  |
+| [Bubee \(Korean Ver.\)](https://open.spotify.com/track/3FgR1MXFjpkL5HTDRrrFUE) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Bubee \(Korean Ver.\)](https://open.spotify.com/album/0fAglFrU95801fwwFiZBri) | 3:02 | 2026-04-13 | 2026-05-05 |
 | [BUBIBU](https://open.spotify.com/track/5hqPBajIgiuL9bcxnKd2kQ) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [BUBIBU](https://open.spotify.com/album/7xUQp6x6q1EcezukD3rsEH) | 3:39 | 2021-11-29 | 2022-04-20 |
 | [Busy Boy](https://open.spotify.com/track/6ufVsXMC1fAePZa5ZRMKdO) | [RESCENE](https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S) | [\[RESCENE X ???\]](https://open.spotify.com/album/0dbuXh0XcMsrgQsVep3jAk) | 2:30 | 2026-02-27 | 2026-04-09 |
 | [Butterfly](https://open.spotify.com/track/3P5M7SoBB0PiAPWhm3FY4F) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [SECRET GARDEN](https://open.spotify.com/album/5QXcVUvEyh8kCCjF1aTNwN) | 3:53 | 2022-03-29 | 2022-05-17 |
@@ -84,6 +84,7 @@
 | [Catallena](https://open.spotify.com/track/5fWKr5p15BTazjflJ6HX5j) | [Orange Caramel](https://open.spotify.com/artist/2QHTtUsN6Q13w3QHdfRqsK) | [THE THIRD SINGLE CATALLENA](https://open.spotify.com/album/3FeATTUjZWvmXW2kP9CHWY) | 3:13 | 2022-03-29 | 2025-05-08 |
 | [Catch Catch](https://open.spotify.com/track/2O9bMJticxbQ8FH3NiQ7Xh) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) | [LOVE CATCHER](https://open.spotify.com/album/1IxQnpYIIFY9F2IVVsD27F) | 3:00 | 2026-03-11 |  |
 | [Catch the Stars](https://open.spotify.com/track/2yMIYu0O3TanoqmqpTcoEs) | [woo!ah!](https://open.spotify.com/artist/7mgY992t7YTx6UELsoIMRa) | [Catch the Stars](https://open.spotify.com/album/1hwykI4yYe3FTcAhl1gadk) | 3:20 | 2022-01-04 | 2022-07-29 |
+| [CEREMONY](https://open.spotify.com/track/7CoEOvI85tbkhdgJRd8XfC) | [QWER](https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy) | [4th Mini Album 'CEREMONY'](https://open.spotify.com/album/22TsuaiFzj7i9cIKFwKdyI) | 3:16 | 2026-05-04 |  |
 | [Changed Number](https://open.spotify.com/track/1L0kL5aaG3tUwbHECFbdB4) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Changed Number](https://open.spotify.com/album/5bYChUxAMA4r6U8dGwkyFq) | 3:28 | 2022-07-05 | 2022-07-20 |
 | [CHEER UP](https://open.spotify.com/track/1D7e4LrjdB4mKaI9XYrmPY) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [PAGE TWO](https://open.spotify.com/album/1AHK0VYfnND7mAiZ5VneXG) | 3:28 | 2021-11-29 | 2022-07-26 |
 | [Cherish \(My Love\)](https://open.spotify.com/track/2MoUuJhpSO4a0czxvsrSC6) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [I'LL LIKE YOU](https://open.spotify.com/album/7CBwpeVQ27cWwyEYjByVH1) | 2:56 | 2024-10-22 | 2025-07-22 |
@@ -181,6 +182,7 @@
 | [Good Day \(Special Daileee\)](https://open.spotify.com/track/2bxQoEPkVPlCNTUACMnEbh) | [Weeekly](https://open.spotify.com/artist/73B9bjqS2Z5KLXNGqXf64m) | [Good Day \(Special Daileee\)](https://open.spotify.com/album/5iTWeHExLbtaLJPPFFD3Xq) | 2:48 | 2023-09-13 | 2023-09-28 |
 | [Good Morning](https://open.spotify.com/track/4zXbnTwqwQcRdDILZVKZSQ) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) | [GOOD MORNING](https://open.spotify.com/album/1kfvY0GjQJhhDNjTpy7xOs) | 3:04 | 2024-01-20 | 2024-03-22 |
 | [Good\-bye Chapter 1](https://open.spotify.com/track/2ipuGNFs0uFfg2VUzXeQe7) | [Lovelyz](https://open.spotify.com/artist/3g34PW5oNmDBxMVUTzx2XK) | [Girls’ Invasion](https://open.spotify.com/album/4PufOTc2kPEnF2uF4iDoJb) | 2:43 | 2022-02-14 | 2022-04-15 |
+| [Goodbye With A Smile \(Recorded in 2016\) \(Prod.Jinyoung\)](https://open.spotify.com/track/26ZXmnV2EoILwZxDitGBUz) | [I.O.I](https://open.spotify.com/artist/6RKnXXyprPjhBdCvL802Ku) | [Goodbye With A Smile \(Recorded in 2016\) \(Prod.Jinyoung\)](https://open.spotify.com/album/5RwpaUNCs8Ak1rTWRj25Od) | 4:00 | 2026-05-04 |  |
 | [GPT](https://open.spotify.com/track/36qXU2yyq1JtGp05omV7bu) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [...l](https://open.spotify.com/album/3mOHNMIoQXQfux8b0pgQI0) | 3:08 | 2024-10-30 | 2025-07-15 |
 | [GROSS](https://open.spotify.com/track/010b7ratgDLYeyd2RWYlhB) | [HITGS](https://open.spotify.com/artist/5a83Luu0ndnR1enk1rn83V) | [GROSS](https://open.spotify.com/album/6zWi4hKDM1SazA0UD1gD6Q) | 2:08 | 2025-06-10 | 2025-06-28 |
 | [Growls and Purrs](https://open.spotify.com/track/2ZlzUxSV0Pir7oBn28OZCg) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz) | [Growls and Purrs](https://open.spotify.com/album/7HFJhqSpdSVSHbjKjYnl9F) | 3:19 | 2025-07-07 | 2025-10-08 |
@@ -188,7 +190,7 @@
 | [Happily Ever After](https://open.spotify.com/track/7H1ly0lZJ9ebnci5B9t7Nh) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Rookie \- The 4th Mini Album](https://open.spotify.com/album/5Bg49LEfyoZzKpQsEwRCtI) | 3:21 | 2022-03-29 | 2022-04-16 |
 | [HAPPY](https://open.spotify.com/track/1RKdxCUdiyGSWscrdx7Aq6) | [HITGS](https://open.spotify.com/artist/5a83Luu0ndnR1enk1rn83V) | [Things we love : I](https://open.spotify.com/album/2jjFsmmJWEvCqOREZlqF9a) | 2:51 | 2025-10-07 | 2025-11-11 |
 | [HAPPY](https://open.spotify.com/track/1KFwBOa8gDqT7Avua2yxfe) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [HAPPY MOMENT](https://open.spotify.com/album/4nnyYQGOKRU090FK7sfunL) | 3:00 | 2021-11-29 | 2022-07-28 |
-| [Hazy \(Daisy\)](https://open.spotify.com/track/2PBOyq9hBSuR6K5rQ8UTdP) | [ifeye](https://open.spotify.com/artist/1g971p3BXozVYNCn7JRMNa) | [As if](https://open.spotify.com/album/74GrqeIqzA6dyVDPQ4nBBy) | 2:50 | 2026-04-15 |  |
+| [Hazy \(Daisy\)](https://open.spotify.com/track/2PBOyq9hBSuR6K5rQ8UTdP) | [ifeye](https://open.spotify.com/artist/1g971p3BXozVYNCn7JRMNa) | [As if](https://open.spotify.com/album/74GrqeIqzA6dyVDPQ4nBBy) | 2:50 | 2026-04-15 | 2026-05-05 |
 | [HBD To You \(Midnight Version\)](https://open.spotify.com/track/1B2CS1Ipm1XqGZE2y5tL93) | [CSR](https://open.spotify.com/artist/06MX3Ecb8PHyNFmq8irTWC) | [HBD To You \(Midnight Version\)](https://open.spotify.com/album/2KVQerdDHuZCgwdZO7KlSr) | 2:49 | 2023-11-27 | 2024-01-04 |
 | [Heart Drop](https://open.spotify.com/track/4lihmuAwCau08DRXHOCthl) | [RESCENE](https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S) | [Heart Drop](https://open.spotify.com/album/2y8ewgXeGj2UIO4WBvcimQ) | 3:03 | 2025-11-10 | 2025-11-25 |
 | [Heart Shaker](https://open.spotify.com/track/6WJWTeZExNu0X42hiegRVs) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Merry & Happy](https://open.spotify.com/album/7z35ak4YnECGLJADDJ4obf) | 3:06 | 2021-11-29 | 2022-07-28 |
@@ -219,7 +221,7 @@
 | [I Want You Every Day](https://open.spotify.com/track/4H12mDiB75kAZolrHjMjza) | [JUDY](https://open.spotify.com/artist/37VjCKfHNYyumIW88jZW7T) | [Cookie Run: Ovenbreak OST](https://open.spotify.com/album/6ljytTmVpZfg1XFI08prgK) | 3:19 | 2022-03-29 | 2022-03-31 |
 | [I Wish](https://open.spotify.com/track/6WhZjnG6CTfE1J9f7vZ8sk) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [From\. WJSN](https://open.spotify.com/album/5662dhD6LraFCUIzKujPej) | 3:38 | 2021-11-29 | 2022-07-25 |
 | [ICE CHU](https://open.spotify.com/track/7ucHQ2HqTl2nO5Eyd5jfft) | [OGUOGU](https://open.spotify.com/artist/0zMyf4jK7R5v4E1qitQAZS) | [ICE CHU](https://open.spotify.com/album/3uANATuTqvsbIBcAAhhMia) | 3:15 | 2022-03-29 | 2022-06-03 |
-| [Ice Cream](https://open.spotify.com/track/6aIHCKcJFU19cUc02RI7zL) | [YUNA](https://open.spotify.com/artist/6FsEIvsTuqjpejg2jDbYdv) | [Ice Cream](https://open.spotify.com/album/18GSUtlVqx9QRVKBCXtSYd) | 2:51 | 2026-03-23 |  |
+| [Ice Cream](https://open.spotify.com/track/6aIHCKcJFU19cUc02RI7zL) | [YUNA](https://open.spotify.com/artist/6FsEIvsTuqjpejg2jDbYdv) | [Ice Cream](https://open.spotify.com/album/18GSUtlVqx9QRVKBCXtSYd) | 2:51 | 2026-03-23 | 2026-05-05 |
 | [ICE T](https://open.spotify.com/track/6eNVf9UDzT0wrEFDEHnSus) | [YOUHA](https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan) | [Sweet\-Tea](https://open.spotify.com/album/7BFmhM7GcY5oeseQmyYlpZ) | 3:20 | 2022-01-04 | 2022-07-24 |
 | [illang \(Firework\)](https://open.spotify.com/track/07FyMbh9c7ciBLBZTEE7vm) | [ILY:1](https://open.spotify.com/artist/3FvFhUWP00xtwBrHtby3v8) | [illang:Firework](https://open.spotify.com/album/6GxTj9xmNCRFsmWFMieIg0) | 3:07 | 2024-08-22 | 2024-08-31 |
 | [iLy](https://open.spotify.com/track/4L43LBtfaYIFH1ECv3Xxyz) | [SAY MY NAME](https://open.spotify.com/artist/1YPfjEiECyLURKu09GfilS) | [iLy](https://open.spotify.com/album/3fbsZjl86xqxaDmuXCDmV0) | 3:03 | 2025-08-01 | 2025-11-11 |
@@ -231,7 +233,7 @@
 | [January 0th \(a hope song\)](https://open.spotify.com/track/351Zol0N2J9Hrbm3rhzcrV) | [Billlie](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) | [‘the Billlie’s odditorium’ the second edition](https://open.spotify.com/album/3T3bfhaZn0RFiWdGOnmTzu) | 3:55 | 2024-01-03 | 2024-02-15 |
 | [Je T'aime](https://open.spotify.com/track/3wS47sXPddjE6rbhU7u20w) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [Je T'aime](https://open.spotify.com/album/1RzqZoXe1bf1f48PK20EeH) | 4:21 | 2021-11-29 | 2022-07-28 |
 | [JELLY JELLY](https://open.spotify.com/track/7yHmdxQBHXPSVrHaw8urk1) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [TWICEcoaster: LANE1](https://open.spotify.com/album/1O0JME3VbK4siDIfh6K3Oe) | 3:30 | 2021-11-29 | 2022-04-18 |
-| [jellyous](https://open.spotify.com/track/0wFU2pYHZi45Ws1VD6aSJX) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [bomb](https://open.spotify.com/album/6tcKWEXikmRDB9KufEHvLp) | 2:43 | 2025-07-21 | 2026-04-14 |
+| [jellyous](https://open.spotify.com/track/0wFU2pYHZi45Ws1VD6aSJX) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [bomb](https://open.spotify.com/album/6tcKWEXikmRDB9KufEHvLp) | 2:43 | 2025-07-21 |  |
 | [JJan! Koong! Kwang!](https://open.spotify.com/track/0mACEYbz42CQdqAPjIJHi6) | [MOMOLAND](https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx) | [Welcome to MOMOLAND](https://open.spotify.com/album/3i5ryBAE1wpNq50qqDxxUG) | 3:19 | 2022-01-04 | 2022-07-05 |
 | [Just Do It](https://open.spotify.com/track/5z1qoC9KRyVVDjs2ZHiFXJ) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [NXT <Just Do It>](https://open.spotify.com/album/6wv9HJNrlzn53b3OLvsijR) | 2:33 | 2024-01-04 | 2024-03-02 |
 | [KICK\-START](https://open.spotify.com/track/0KWHVBiWSYqbJ0dBs3UOi5) | [ICHILLIN'](https://open.spotify.com/artist/5357DGet3KsoJNwVkV7qvy) | [I'M ON IT!](https://open.spotify.com/album/23lpY8fhHxNLi5mc8OrxRU) | 3:21 | 2023-07-19 | 2023-07-25 |
@@ -448,6 +450,7 @@
 | [Supernatural](https://open.spotify.com/track/5ocSQW5sIUIOFojwXEz9Ki) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Supernatural](https://open.spotify.com/album/1FVw30SoC91lq1UZ6N9rwN) | 3:11 | 2024-06-21 |  |
 | [Supersonic](https://open.spotify.com/track/6oNLSQX8bcAdbCElZYju3v) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Supersonic](https://open.spotify.com/album/1sxOavrEVy7krHpcbCsiJi) | 2:54 | 2024-08-12 |  |
 | [SUPERWOMAN](https://open.spotify.com/track/4NZZdFybgGq1Xwx4wq2BdB) | [UNIS](https://open.spotify.com/artist/48xyu8QHo1IhsQZGlgNGYZ) | [The 1st Mini Album 'WE UNIS'](https://open.spotify.com/album/3pix2U5QbFUSwOeF1M9Eim) | 3:08 | 2024-03-28 | 2025-01-10 |
+| [Sweet & Sour](https://open.spotify.com/track/2XtHZDeNTUvOEsnHAI8HGo) | [SAY MY NAME](https://open.spotify.com/artist/1YPfjEiECyLURKu09GfilS) | [Absolute Value of Romance OST Part 2](https://open.spotify.com/album/6wOkUWVosU5aIi7NZqfU08) | 3:24 | 2026-05-04 |  |
 | [Sweet Dream](https://open.spotify.com/track/0DNTNFa6zMDfjqpQFdcb3q) | [Lovelyz](https://open.spotify.com/artist/3g34PW5oNmDBxMVUTzx2XK) | [Sugar Man2, Pt\. 18](https://open.spotify.com/album/3PnkmcRY6t79MKlpEy0tQ2) | 3:41 | 2021-11-29 | 2022-07-24 |
 | [Sweet Heart](https://open.spotify.com/track/7epNwgPw8FrM1zZBWLOplG) | [OH MY GIRL BANHANA](https://open.spotify.com/artist/0X1f2U9bxiC3DhKA8OcvgG) | [Clean With Passion For Now, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/5TEhGv56KAw3ad8mhHcrAF) | 3:41 | 2022-01-04 | 2022-07-20 |
 | [SWEET TALKER](https://open.spotify.com/track/3J10xA3LIiMmaPxKC9h0Jq) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [What is Love?](https://open.spotify.com/album/5NObA8Cx4Ri5cATR1DLTjj) | 3:27 | 2022-01-04 | 2022-07-05 |

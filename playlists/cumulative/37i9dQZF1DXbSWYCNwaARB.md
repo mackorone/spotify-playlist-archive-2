@@ -4,7 +4,7 @@
 
 > All your girl crushes\(걸크러쉬\) in one place\. \(Cover: YUJU \(유주\)\)
 
-620 songs - 1 day 8 hr 3 min
+622 songs - 1 day 8 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,9 +106,10 @@
 | [Chili](https://open.spotify.com/track/253P6uwLnelVQ6MdwXMIJk) | [HWASA](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [Chili](https://open.spotify.com/album/1vybbGeB3hmgVpEiTDZfgK) | 2:15 | 2023-10-04 | 2023-12-30 |
 | [Chill Kill](https://open.spotify.com/track/68gQG2HpRMxIRom4pCugMq) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Chill Kill \- The 3rd Album](https://open.spotify.com/album/4UUICitfodUVCNhzmDFbrO) | 3:34 | 2023-11-16 | 2024-01-17 |
 | [CHIQUITA](https://open.spotify.com/track/0dap7YUNPlUiEPYSA1bRg3) | [Rocket Punch](https://open.spotify.com/artist/4hozqATxbpy9TwKWRT8QVO) | [YELLOW PUNCH](https://open.spotify.com/album/6L2VwLPHfm5cCdTF1erFrN) | 3:06 | 2022-02-28 | 2022-04-18 |
+| [CHOOM](https://open.spotify.com/track/4cox7ONwuCwUvfZ9fsGDVu) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [춤 \(CHOOM\)](https://open.spotify.com/album/1VmMG3mtIWHWm618Cwiku7) | 2:58 | 2026-05-04 |  |
 | [Cinderella](https://open.spotify.com/track/44p0v6RpEcT0ozV5WSM0b3) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [Winter Special Digital Single Album ′Cinderella′](https://open.spotify.com/album/1qozj4ZBLq6zBeNyyWKle1) | 3:00 | 2023-01-11 | 2023-01-14 |
 | [CLASSY](https://open.spotify.com/track/7LEupZwTQBhbvvHmxttUeP) | [CLASS:y](https://open.spotify.com/artist/3jcfHmXvjOgHzfyVE55GzZ) | [LIVES ACROSS](https://open.spotify.com/album/13wsV6lqeOiPzIRwCv7Ugw) | 2:48 | 2022-06-09 | 2022-06-11 |
-| [CLIK CLAK](https://open.spotify.com/track/0Rq9lIn9fl4wiW9Tg72ifr) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [DRIP](https://open.spotify.com/album/6Lp82GTJXzgtIopT0g7N7k) | 2:49 | 2024-11-01 | 2026-04-30 |
+| [CLIK CLAK](https://open.spotify.com/track/0Rq9lIn9fl4wiW9Tg72ifr) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [DRIP](https://open.spotify.com/album/6Lp82GTJXzgtIopT0g7N7k) | 2:49 | 2024-11-01 |  |
 | [Close to Me](https://open.spotify.com/track/1wzP4k1w8nprsfb6n8wpoz) | [BLACKSWAN](https://open.spotify.com/artist/2ujaWf015QoP7x1u20Yq5G) | [Close to Me](https://open.spotify.com/album/1N2bEyzPBd9CwU7BTXaoEt) | 3:17 | 2021-12-20 | 2022-06-09 |
 | [CLOSER](https://open.spotify.com/track/5XsrVitCrmP41A6pq827Yq) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [Chaotic & Confused](https://open.spotify.com/album/171v7mbXgzaMBk7S0QmCWu) | 2:38 | 2025-08-11 | 2025-10-21 |
 | [CODE](https://open.spotify.com/track/00bnKgDRZxvwpnWDJg7Por) | [EVERGLOW](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) | [CODE](https://open.spotify.com/album/6ppaIu8fzPJZZjdLPKKSTt) | 2:35 | 2026-03-04 | 2026-04-08 |
@@ -118,7 +119,7 @@
 | [Cosmic](https://open.spotify.com/track/0kE4TRJ0pWoRKzKdtbx8To) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Cosmic](https://open.spotify.com/album/5E8apoFsaUFhZxGGSju6aW) | 3:45 | 2024-06-24 | 2024-09-16 |
 | [Crazier](https://open.spotify.com/track/5ZwQd0GrdvqyM0OmUGSEYB) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [Crazier \- The 11th Album](https://open.spotify.com/album/7oHYGWTIBkoJLcg0ybZcbj) | 2:41 | 2025-08-04 | 2025-09-03 |
 | [CRAZY](https://open.spotify.com/track/3AoEQRuFf8zVXWqSLo2UOi) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CRAZY](https://open.spotify.com/album/538vEfAgLJ6g2I8ubuOlap) | 2:44 | 2024-08-30 |  |
-| [CRY FOR ME](https://open.spotify.com/track/2xtP8RNbo2BEMzLX7tK7aq) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [CRY FOR ME](https://open.spotify.com/album/2aRAPmBCEdo9pWimsI5l87) | 3:24 | 2021-01-18 |  |
+| [CRY FOR ME](https://open.spotify.com/track/2xtP8RNbo2BEMzLX7tK7aq) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [CRY FOR ME](https://open.spotify.com/album/2aRAPmBCEdo9pWimsI5l87) | 3:24 | 2021-01-18 | 2026-05-05 |
 | [Curiosity](https://open.spotify.com/track/6Kke9MonigeJKLSmlmRnWD) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [\[X X\]](https://open.spotify.com/album/2Ij6998NUjQ0BkQ2ipqiET) | 3:09 | 2021-02-27 | 2021-03-18 |
 | [Curious](https://open.spotify.com/track/0O0ivmVOezvyrCkcxEvrCl) | [UNIS](https://open.spotify.com/artist/48xyu8QHo1IhsQZGlgNGYZ) | [CURIOUS](https://open.spotify.com/album/5SooWgzvq5BzwkQV57ltbM) | 3:11 | 2024-08-06 | 2024-08-31 |
 | [CYNICAL](https://open.spotify.com/track/39AbBWHLGckfng4J8b9h4Z) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [HEART MAID](https://open.spotify.com/album/3VTC0g2EGSIksMcUB4ajFN) | 2:35 | 2025-11-05 | 2026-02-12 |
@@ -202,7 +203,7 @@
 | [Freesm](https://open.spotify.com/track/2Z7Uz9xmEeHKdWpeR05wfk) | [Hashtag](https://open.spotify.com/artist/1SABBqkbfguBXhZQJK5t3e) | [haShtag 2nd mini album \#Aeji \#paSsion](https://open.spotify.com/album/18b7QE4L7khNdLI1JjfNfE) | 3:03 | 2021-02-26 | 2022-04-19 |
 | [FREESTYLE](https://open.spotify.com/track/2irWsdZn8v8NEzyr08JTTN) | [YOUNG POSSE](https://open.spotify.com/artist/5bxwvIM9PX0CkpS6f1L2Ff) | [Growing Pain pt.1 : FREE](https://open.spotify.com/album/5Nfxo1U4jKI13JB4nPimOJ) | 2:20 | 2025-08-14 | 2025-10-11 |
 | [FUTURE 퓨처](https://open.spotify.com/track/6EvUmJtq5UMBWkcID2J85l) | [GIRLKIND](https://open.spotify.com/artist/2TqCaaZ0Yh9MtRVYnoZg8K) | [FUTURE 퓨처](https://open.spotify.com/album/7F6gEdRkVo6XNTWTzkiFAu) | 3:40 | 2020-10-13\* | 2022-04-17 |
-| [FXCK UP THE WORLD \(feat\. Future\)](https://open.spotify.com/track/4rBRRLgdB9DYJhqA9uVcWt) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Alter Ego](https://open.spotify.com/album/5eoWRkeplmcCL97afSMJVm) | 3:04 | 2025-03-04 |  |
+| [FXCK UP THE WORLD \(feat\. Future\)](https://open.spotify.com/track/4rBRRLgdB9DYJhqA9uVcWt) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Alter Ego](https://open.spotify.com/album/5eoWRkeplmcCL97afSMJVm) | 3:04 | 2025-03-04 | 2026-05-05 |
 | [Gabriela](https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Gabriela](https://open.spotify.com/album/6rpin9IVOuBEWBYnrA9hft) | 3:17 | 2025-06-20 |  |
 | [Galileo](https://open.spotify.com/track/2nehY8ewjt4clnD40SclwM) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [Magic Hour](https://open.spotify.com/album/4otUxxCM0HA9Deq2vBMJBk) | 3:08 | 2023-09-26 | 2023-11-11 |
 | [Gashina](https://open.spotify.com/track/0jFHMDRXxKaREor3hBEEST) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [SUNMI SPECIAL EDITION \[Gashina\]](https://open.spotify.com/album/3TSX6AxLdCP4E5o3F5jCdN) | 3:00 | 2020-10-20 | 2021-03-17 |
@@ -293,6 +294,7 @@
 | [Internet Girl](https://open.spotify.com/track/3THVfoVD5kdCxPviVaCPi7) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Internet Girl](https://open.spotify.com/album/4yQ0HUnygkBjf33hvA71MF) | 2:43 | 2026-01-02 |  |
 | [INVU](https://open.spotify.com/track/7rXcCpIAoOUCydkVDMcoPV) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [INVU \- The 3rd Album](https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9) | 3:24 | 2022-02-14 | 2023-06-25 |
 | [It Was Love](https://open.spotify.com/track/0unXYualX4sq5hwTXd6mFD) | [LATENCY](https://open.spotify.com/artist/4VxV3skINpnHCDEF9Ihf9U) | [It Was Love](https://open.spotify.com/album/2qjvoVAffzOULgzu8b4up5) | 3:04 | 2026-01-13 | 2026-02-12 |
+| [It's Me](https://open.spotify.com/track/1D5L58KLBbceOynTP4DQnY) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [MAMIHLAPINATAPAI](https://open.spotify.com/album/5VIt2dA2StboE900mllWdJ) | 2:18 | 2026-05-04 |  |
 | [IZNA](https://open.spotify.com/track/1Lid3Sc6luHWuiauUM6Ckt) | [izna](https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4) | [N/a](https://open.spotify.com/album/0OZI8FUpj852bAMgu1okko) | 2:36 | 2024-11-25 | 2025-01-16 |
 | [J.us.T](https://open.spotify.com/track/2DUIPSrKvyzLb2o1qd4xjg) | [Eyedi](https://open.spotify.com/artist/48BSHaU3lXnM3pYHyeqLXN) | [J.us.T](https://open.spotify.com/album/3nqAJTisL4LzoF0AO4w8Ph) | 3:03 | 2021-03-10 | 2022-04-19 |
 | [JUMP](https://open.spotify.com/track/4JjJ1KNRrzqstSY0uDuys3) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [JUMP](https://open.spotify.com/album/2L5mYNO7vicA2geMVVY7QN) | 2:44 | 2025-07-11 | 2025-10-11 |
@@ -602,7 +604,7 @@
 | [xaradise](https://open.spotify.com/track/5593fm3D68m8B7BzfZ2hLQ) | [PARKGOLF](https://open.spotify.com/artist/56oGj3qZcyqRZkHL4IrMz9), [Jvcki Wai](https://open.spotify.com/artist/4bjcB3ZKiHgPzJvY2S2FLN) | [xaradise](https://open.spotify.com/album/25l0hhB8FPssnE9ywPWJXg) | 2:40 | 2020-10-13\* | 2022-04-21 |
 | [XL \(Extra Love\)](https://open.spotify.com/track/1Y8oXmmSDbwkR66oUoI5ow) | [ICHILLIN'](https://open.spotify.com/artist/5357DGet3KsoJNwVkV7qvy) | [WILD CHERRY](https://open.spotify.com/album/2OIILMeURtf3clsCHQqGqj) | 2:38 | 2025-07-31 | 2025-08-27 |
 | [XOXO](https://open.spotify.com/track/4r34Yi0eltsu1tp6z4lq3x) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [XOXO](https://open.spotify.com/album/63pvOn2B5pUUcUKUwIEg9m) | 3:27 | 2021-11-03 | 2022-07-29 |
-| [XOXZ](https://open.spotify.com/track/3L9KMc8ImDXgDYKwdqq01V) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [IVE SECRET](https://open.spotify.com/album/0gEu9SrHjLrpTemne6OO1L) | 2:34 | 2025-08-25 |  |
+| [XOXZ](https://open.spotify.com/track/3L9KMc8ImDXgDYKwdqq01V) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [IVE SECRET](https://open.spotify.com/album/0gEu9SrHjLrpTemne6OO1L) | 2:34 | 2025-08-25 | 2026-05-05 |
 | [Xtra](https://open.spotify.com/track/4btftV9aaDSaw0sPBr5VsZ) | [AleXa](https://open.spotify.com/artist/4jCGRzuZkwo8CxboiANMEU) | [ReviveR](https://open.spotify.com/album/2M9w0Fjim2sLzuFj0EZ4l8) | 3:00 | 2021-07-02 | 2022-04-21 |
 | [XXL](https://open.spotify.com/track/05QXjyZgsAq6J84J6SlbyV) | [YOUNG POSSE](https://open.spotify.com/artist/5bxwvIM9PX0CkpS6f1L2Ff) | [XXL EP](https://open.spotify.com/album/0EbH9upNSg6zsdFZ8g11Yl) | 2:32 | 2024-03-27 | 2024-04-17 |
 | [XXXX](https://open.spotify.com/track/49jIwnU0pAUWorDG4ahISg) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Bare&Rare, Pt\. 1](https://open.spotify.com/album/0fgLDYoqdQw5bhzPFWvclR) | 2:48 | 2022-07-13 | 2022-07-19 |

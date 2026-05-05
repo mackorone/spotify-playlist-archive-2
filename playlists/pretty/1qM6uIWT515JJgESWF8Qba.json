@@ -1,12 +1,12 @@
 {
   "description": "It&#x27;s 5 o&#x27;clock somewhere and best believe there&#x27;s a local band there ready to rock when the sun goes down.",
-  "num_followers": 422,
+  "num_followers": 427,
   "original_name": "Local Rock Bands",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAABi4f3xOE/y09J4nBWj6db6I96Y1av",
+  "snapshot_id": "AAABj7B/AF6kltwf6W2OhAg7CcXJAgOi",
   "tracks": [
     {
       "added_at": "2025-09-16 13:19:37",
@@ -1455,6 +1455,70 @@
       "duration_ms": 189927,
       "name": "188",
       "url": "https://open.spotify.com/track/51Pl4eyuqbLv74w3caC21w"
+    },
+    {
+      "added_at": "2026-05-04 14:40:48",
+      "album": {
+        "name": "The Gauntlet",
+        "url": "https://open.spotify.com/album/0ZCGfrukq5jzMuymHqn9eb"
+      },
+      "artists": [
+        {
+          "name": "The UNSOLVED",
+          "url": "https://open.spotify.com/artist/2o8svnvt9r8DbgH2DHvtCO"
+        }
+      ],
+      "duration_ms": 186317,
+      "name": "The End (For You)",
+      "url": "https://open.spotify.com/track/0ihoMNxO7cS13uoxzTaUvp"
+    },
+    {
+      "added_at": "2026-05-04 14:42:04",
+      "album": {
+        "name": "Forever Waiting",
+        "url": "https://open.spotify.com/album/4ZRB1AQmBiXeW21EFg0tWz"
+      },
+      "artists": [
+        {
+          "name": "Solar Flare Sunset",
+          "url": "https://open.spotify.com/artist/5Rl6sxPtP6857bWDUdPN2r"
+        }
+      ],
+      "duration_ms": 267042,
+      "name": "Silver Turns to Red",
+      "url": "https://open.spotify.com/track/7jVXNz0jEKienLLq7zvVe5"
+    },
+    {
+      "added_at": "2026-05-04 15:15:40",
+      "album": {
+        "name": "Bad Omens",
+        "url": "https://open.spotify.com/album/0uIbKWU808kXMrY9KJLRSD"
+      },
+      "artists": [
+        {
+          "name": "The UNSOLVED",
+          "url": "https://open.spotify.com/artist/2o8svnvt9r8DbgH2DHvtCO"
+        }
+      ],
+      "duration_ms": 233875,
+      "name": "Bad Omens",
+      "url": "https://open.spotify.com/track/6avpcNvUmrYvdX0egVyjeU"
+    },
+    {
+      "added_at": "2026-05-04 15:15:53",
+      "album": {
+        "name": "In Our Nature",
+        "url": "https://open.spotify.com/album/3OpeVn7ARilpWiXIgZS6j3"
+      },
+      "artists": [
+        {
+          "name": "Touch of Red",
+          "url": "https://open.spotify.com/artist/07GYobUq3xeoOIhrqJ2Bc1"
+        }
+      ],
+      "duration_ms": 300633,
+      "name": "No Dice",
+      "url": "https://open.spotify.com/track/1NGf8nUVTTLq9PUFdjFKfM"
     }
   ],
   "unique_name": "Local Rock Bands",

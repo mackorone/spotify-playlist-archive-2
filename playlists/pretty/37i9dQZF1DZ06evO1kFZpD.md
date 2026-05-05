@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1kFZpD.md) - [plain]
 
 > This is Raveena\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,205 likes - 47 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,206 likes - 47 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,10 +28,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1kFZpD.md) - [plain]
 | 18 | [Salt Water](https://open.spotify.com/track/4cf0fmpBq8kGEC8ccQHD1O) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Lucid](https://open.spotify.com/album/5zM1YPLVNvxe6S8I3MIAbg) | 4:36 |
 | 19 | [Lucky](https://open.spotify.com/track/0HtgA9fzX86jai3aLpZwCr) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Where the Butterflies Go in the Rain](https://open.spotify.com/album/4vbhdsO89cvNkFlHoQ9D9p) | 3:46 |
 | 20 | [Mystery](https://open.spotify.com/track/7tCmUu18EkTlGhGV2wmE7x) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Asha’s Awakening](https://open.spotify.com/album/2q0yeivzk1b2UUdtHf8mcC) | 4:00 |
-| 21 | [Lose My Focus](https://open.spotify.com/track/6JIQgoFRn5JI2Kxc1B0QzY) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS), [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Where the Butterflies Go in the Rain \(Deluxe\)](https://open.spotify.com/album/46niQnejkKyyKyFIt8isDA) | 3:37 |
+| 21 | [Tweety](https://open.spotify.com/track/2NDMLu8ZNrAsAsPAoW5VOx) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Tweety](https://open.spotify.com/album/275j6uhDFzJkQZEaRcZZ0T) | 3:52 |
 | 22 | [Petal](https://open.spotify.com/track/12Aq4Ryc1rZQ0hWnT8wZNe) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Lucid](https://open.spotify.com/album/5zM1YPLVNvxe6S8I3MIAbg) | 3:07 |
 | 23 | [Smile For Me](https://open.spotify.com/track/0pilWBOgq1cocMXa7GKxJ5) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Where the Butterflies Go in the Rain](https://open.spotify.com/album/4vbhdsO89cvNkFlHoQ9D9p) | 3:21 |
-| 24 | [Tweety](https://open.spotify.com/track/2NDMLu8ZNrAsAsPAoW5VOx) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Tweety](https://open.spotify.com/album/275j6uhDFzJkQZEaRcZZ0T) | 3:52 |
+| 24 | [Lose My Focus](https://open.spotify.com/track/6JIQgoFRn5JI2Kxc1B0QzY) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS), [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Where the Butterflies Go in the Rain \(Deluxe\)](https://open.spotify.com/album/46niQnejkKyyKyFIt8isDA) | 3:37 |
 | 25 | [Heartbeat](https://open.spotify.com/track/1TRXyuei4Nzc5wAkzHd123) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Moonstone EP](https://open.spotify.com/album/0YdgyT5LFI48qP4bo6Rd74) | 3:32 |
 | 26 | [Morning Prayer \(feat\. NATURE\)](https://open.spotify.com/track/6ugmJyfpjNXTKUP59KAz3c) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS), [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1) | [Morning Prayer \(feat\. NATURE\)](https://open.spotify.com/album/4QnSttjqwSU7s9ivvebHEW) | 2:00 |
 | 27 | [Pluto](https://open.spotify.com/track/4IorOYjiwLW9BLj5P0KELy) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Where the Butterflies Go in the Rain](https://open.spotify.com/album/4vbhdsO89cvNkFlHoQ9D9p) | 3:33 |
@@ -45,15 +45,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1kFZpD.md) - [plain]
 | 35 | [Fantasy \(with Raveena\)](https://open.spotify.com/track/6g8cxooV9l2dluphzZyJDg) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3), [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Fantasy \(with Raveena\)](https://open.spotify.com/album/7dEJfJNC8FTuvu1fbnXedb) | 3:54 |
 | 36 | [Baby Mama](https://open.spotify.com/track/1zegJDoCVOHIgQmGGSZriW) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Where the Butterflies Go in the Rain](https://open.spotify.com/album/4vbhdsO89cvNkFlHoQ9D9p) | 3:53 |
 | 37 | [We Should Move Somewhere Beautiful \(feat\. Arima Ederra\)](https://open.spotify.com/track/3ufZfIHKU1C2WUJbOCfI2l) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS), [Arima Ederra](https://open.spotify.com/artist/0wJIP9Wlhn3aSLLaB31IK3) | [Where the Butterflies Go in the Rain \(Deluxe\)](https://open.spotify.com/album/46niQnejkKyyKyFIt8isDA) | 1:50 |
-| 38 | [Love Overgrown](https://open.spotify.com/track/2e4oIsOkGJNQ4Ab9sjOm52) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Asha’s Awakening](https://open.spotify.com/album/2q0yeivzk1b2UUdtHf8mcC) | 3:20 |
+| 38 | [Magic](https://open.spotify.com/track/3oSsklj0Q1zDzJbV8iXtDL) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Asha’s Awakening](https://open.spotify.com/album/2q0yeivzk1b2UUdtHf8mcC) | 2:47 |
 | 39 | [You Give Me That](https://open.spotify.com/track/4NVn2zloJfjSFQXpK2RhCP) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [You Give Me That](https://open.spotify.com/album/53bQue2uZu3yPVYBcx03GQ) | 5:19 |
 | 40 | [Junebug \(feat\. JPEGMAFIA\)](https://open.spotify.com/track/5iIHoQxObmmmsLL4lbAaCp) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS), [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [Where the Butterflies Go in the Rain](https://open.spotify.com/album/4vbhdsO89cvNkFlHoQ9D9p) | 3:45 |
 | 41 | [Bloom \(feat\. Raveena\)](https://open.spotify.com/track/5dwzLRsxlFK7RhULlsSROb) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7), [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [The Way That Lovers Do \(Deluxe\)](https://open.spotify.com/album/6C2VRR7GTljLTkakd8EZ1N) | 3:41 |
-| 42 | [Magic](https://open.spotify.com/track/3oSsklj0Q1zDzJbV8iXtDL) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Asha’s Awakening](https://open.spotify.com/album/2q0yeivzk1b2UUdtHf8mcC) | 2:47 |
-| 43 | [You're So Good To Me](https://open.spotify.com/track/1w6dmAckr5t7Jloh0bxsUZ) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Where the Butterflies Go in the Rain \(Deluxe\)](https://open.spotify.com/album/46niQnejkKyyKyFIt8isDA) | 2:33 |
-| 44 | [Natural](https://open.spotify.com/track/5x3R0HTtMnNAkshZjAYlJN) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Shanti](https://open.spotify.com/album/0u5GdeMzPuGFMbkJgt2RHz) | 5:20 |
+| 42 | [Love Overgrown](https://open.spotify.com/track/2e4oIsOkGJNQ4Ab9sjOm52) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Asha’s Awakening](https://open.spotify.com/album/2q0yeivzk1b2UUdtHf8mcC) | 3:20 |
+| 43 | [Natural](https://open.spotify.com/track/5x3R0HTtMnNAkshZjAYlJN) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Shanti](https://open.spotify.com/album/0u5GdeMzPuGFMbkJgt2RHz) | 5:20 |
+| 44 | [You're So Good To Me](https://open.spotify.com/track/1w6dmAckr5t7Jloh0bxsUZ) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Where the Butterflies Go in the Rain \(Deluxe\)](https://open.spotify.com/album/46niQnejkKyyKyFIt8isDA) | 2:33 |
 | 45 | [Time Flies](https://open.spotify.com/track/0z6aLSVOKcrq5UuCjzEw5z) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Asha’s Awakening](https://open.spotify.com/album/2q0yeivzk1b2UUdtHf8mcC) | 4:20 |
 | 46 | [Kid](https://open.spotify.com/track/0MNCbevebpbLdEVxvzQXMk) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Where the Butterflies Go in the Rain \(Deluxe\)](https://open.spotify.com/album/46niQnejkKyyKyFIt8isDA) | 3:29 |
 | 47 | [Rush](https://open.spotify.com/track/3XE2o2cDDT16Oq2fcM4sOe) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Asha’s Awakening](https://open.spotify.com/album/2q0yeivzk1b2UUdtHf8mcC) | 3:05 |
 
-Snapshot ID: `afU+gAAAAAAO2LNgvv6+v9UsvboguzIw`
+Snapshot ID: `afaQAAAAAAB6rosrUYnKG0wh63GmK9XG`

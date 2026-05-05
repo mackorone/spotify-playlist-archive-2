@@ -1,6 +1,6 @@
 {
   "description": "Sweet gems to help you slow down and savor your day.",
-  "num_followers": 529750,
+  "num_followers": 529855,
   "original_name": "Soft & Slow",
   "owner": {
     "name": "Spotify",
@@ -415,22 +415,6 @@
     {
       "added_at": "2026-02-20 05:00:45",
       "album": {
-        "name": "Crack-Up",
-        "url": "https://open.spotify.com/album/0xtTojp4zfartyGtbFKN3v"
-      },
-      "artists": [
-        {
-          "name": "Fleet Foxes",
-          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
-        }
-      ],
-      "duration_ms": 210506,
-      "name": "If You Need To, Keep Time on Me",
-      "url": "https://open.spotify.com/track/7d0XkI4iJ32nxeFAHFXbLQ"
-    },
-    {
-      "added_at": "2026-02-20 05:00:45",
-      "album": {
         "name": "Safe & Sound (Taylor's Version)",
         "url": "https://open.spotify.com/album/4eZKjfeKPSwd6NYsmlKjuR"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 239668,
       "name": "Safe & Sound (feat. Joy Williams and John Paul White) (Taylor\u2019s Version)",
       "url": "https://open.spotify.com/track/2RJnNdu4pb3MypbBroHU0T"
+    },
+    {
+      "added_at": "2026-02-20 05:00:45",
+      "album": {
+        "name": "Crack-Up",
+        "url": "https://open.spotify.com/album/0xtTojp4zfartyGtbFKN3v"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "duration_ms": 210506,
+      "name": "If You Need To, Keep Time on Me",
+      "url": "https://open.spotify.com/track/7d0XkI4iJ32nxeFAHFXbLQ"
     },
     {
       "added_at": "2026-02-20 05:00:45",
@@ -487,22 +487,6 @@
     {
       "added_at": "2026-02-20 05:00:45",
       "album": {
-        "name": "Older",
-        "url": "https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 245732,
-      "name": "Drunk, Running",
-      "url": "https://open.spotify.com/track/0OQFriWHtnIzsRp3uImlGt"
-    },
-    {
-      "added_at": "2026-02-20 05:00:45",
-      "album": {
         "name": "In the Night",
         "url": "https://open.spotify.com/album/79XBpEmfWK9in4maPa8Kuh"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 164538,
       "name": "I Am Not Afraid",
       "url": "https://open.spotify.com/track/5pD6DyYeglUby2x5CXrqfA"
+    },
+    {
+      "added_at": "2026-02-20 05:00:45",
+      "album": {
+        "name": "Older",
+        "url": "https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 245732,
+      "name": "Drunk, Running",
+      "url": "https://open.spotify.com/track/0OQFriWHtnIzsRp3uImlGt"
     },
     {
       "added_at": "2026-02-20 05:00:45",
@@ -823,22 +823,6 @@
     {
       "added_at": "2026-02-20 05:00:45",
       "album": {
-        "name": "Years On",
-        "url": "https://open.spotify.com/album/2JF61Lh95FnWScGBXFdhv8"
-      },
-      "artists": [
-        {
-          "name": "Novo Amor",
-          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
-        }
-      ],
-      "duration_ms": 242906,
-      "name": "Years On",
-      "url": "https://open.spotify.com/track/1vuHmcfRwAFOVEq4ODsIIx"
-    },
-    {
-      "added_at": "2026-02-20 05:00:45",
-      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/5ota1DtixKfUcrsiazzgcK"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 174373,
       "name": "Stay With Me - Live From Spotify Berlin",
       "url": "https://open.spotify.com/track/6itWAD2WxmAVQgWuk85yXx"
+    },
+    {
+      "added_at": "2026-02-20 05:00:45",
+      "album": {
+        "name": "Years On",
+        "url": "https://open.spotify.com/album/2JF61Lh95FnWScGBXFdhv8"
+      },
+      "artists": [
+        {
+          "name": "Novo Amor",
+          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
+        }
+      ],
+      "duration_ms": 242906,
+      "name": "Years On",
+      "url": "https://open.spotify.com/track/1vuHmcfRwAFOVEq4ODsIIx"
     },
     {
       "added_at": "2026-02-20 05:00:45",
@@ -887,18 +887,18 @@
     {
       "added_at": "2026-02-20 05:00:45",
       "album": {
-        "name": "Metamodern Sounds in Country Music",
-        "url": "https://open.spotify.com/album/4makbOuLd5SUdyHMaNM1Ag"
+        "name": "The Tree",
+        "url": "https://open.spotify.com/album/2Jv8rT6pudH0eIlgu90zKm"
       },
       "artists": [
         {
-          "name": "Sturgill Simpson",
-          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
+          "name": "Lori McKenna",
+          "url": "https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl"
         }
       ],
-      "duration_ms": 257426,
-      "name": "The Promise",
-      "url": "https://open.spotify.com/track/6OV4CbPHRtbqrpJrbEFJfi"
+      "duration_ms": 222279,
+      "name": "People Get Old",
+      "url": "https://open.spotify.com/track/2Tm7nXWJouomHeRN9bT6IK"
     },
     {
       "added_at": "2026-02-20 05:00:45",
@@ -915,22 +915,6 @@
       "duration_ms": 202466,
       "name": "Tragic Magic",
       "url": "https://open.spotify.com/track/6Dq4pM4zQWfqRxZxtZOFyt"
-    },
-    {
-      "added_at": "2026-02-20 05:00:45",
-      "album": {
-        "name": "The Tree",
-        "url": "https://open.spotify.com/album/2Jv8rT6pudH0eIlgu90zKm"
-      },
-      "artists": [
-        {
-          "name": "Lori McKenna",
-          "url": "https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl"
-        }
-      ],
-      "duration_ms": 222279,
-      "name": "People Get Old",
-      "url": "https://open.spotify.com/track/2Tm7nXWJouomHeRN9bT6IK"
     },
     {
       "added_at": "2026-02-20 05:00:45",
@@ -971,6 +955,22 @@
     {
       "added_at": "2026-02-20 05:00:45",
       "album": {
+        "name": "Metamodern Sounds in Country Music",
+        "url": "https://open.spotify.com/album/4makbOuLd5SUdyHMaNM1Ag"
+      },
+      "artists": [
+        {
+          "name": "Sturgill Simpson",
+          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
+        }
+      ],
+      "duration_ms": 257426,
+      "name": "The Promise",
+      "url": "https://open.spotify.com/track/6OV4CbPHRtbqrpJrbEFJfi"
+    },
+    {
+      "added_at": "2026-02-20 05:00:45",
+      "album": {
         "name": "Mick Flannery",
         "url": "https://open.spotify.com/album/48rcrRY3lVDZ23cpE6kwls"
       },
@@ -987,22 +987,6 @@
     {
       "added_at": "2026-02-20 05:00:45",
       "album": {
-        "name": "Made Of Stars",
-        "url": "https://open.spotify.com/album/7HGw7ZZAQmx8CghF9J7iBG"
-      },
-      "artists": [
-        {
-          "name": "Skott",
-          "url": "https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc"
-        }
-      ],
-      "duration_ms": 196296,
-      "name": "Made of Stars",
-      "url": "https://open.spotify.com/track/0V0vq3DqvmLnJj2IqfGhyf"
-    },
-    {
-      "added_at": "2026-02-20 05:00:45",
-      "album": {
         "name": "With a Lightning Strike",
         "url": "https://open.spotify.com/album/64Pwh2WtRjuraxtKnq62wr"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 209163,
       "name": "Mean Guy",
       "url": "https://open.spotify.com/track/5Fc6q5ERGF8mOFuPrHoqqZ"
+    },
+    {
+      "added_at": "2026-02-20 05:00:45",
+      "album": {
+        "name": "Made Of Stars",
+        "url": "https://open.spotify.com/album/7HGw7ZZAQmx8CghF9J7iBG"
+      },
+      "artists": [
+        {
+          "name": "Skott",
+          "url": "https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc"
+        }
+      ],
+      "duration_ms": 196296,
+      "name": "Made of Stars",
+      "url": "https://open.spotify.com/track/0V0vq3DqvmLnJj2IqfGhyf"
     },
     {
       "added_at": "2026-02-20 05:00:45",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2026-02-20 05:00:45",
       "album": {
+        "name": "The Bird & the Rifle",
+        "url": "https://open.spotify.com/album/61WR0KS7E4RJV6JC2TZ8Gk"
+      },
+      "artists": [
+        {
+          "name": "Lori McKenna",
+          "url": "https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl"
+        }
+      ],
+      "duration_ms": 243680,
+      "name": "Humble & Kind",
+      "url": "https://open.spotify.com/track/4ZBFIzNwC3QUn0pdqIy1JN"
+    },
+    {
+      "added_at": "2026-02-20 05:00:45",
+      "album": {
         "name": "Crying Over U",
         "url": "https://open.spotify.com/album/5YCO5fV52dmvfcfYVzLjcj"
       },
@@ -1099,22 +1115,6 @@
     {
       "added_at": "2026-02-20 05:00:45",
       "album": {
-        "name": "The Bird & the Rifle",
-        "url": "https://open.spotify.com/album/61WR0KS7E4RJV6JC2TZ8Gk"
-      },
-      "artists": [
-        {
-          "name": "Lori McKenna",
-          "url": "https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl"
-        }
-      ],
-      "duration_ms": 243680,
-      "name": "Humble & Kind",
-      "url": "https://open.spotify.com/track/4ZBFIzNwC3QUn0pdqIy1JN"
-    },
-    {
-      "added_at": "2026-02-20 05:00:45",
-      "album": {
         "name": "Good Guy (feat. Faye Webster)",
         "url": "https://open.spotify.com/album/6Ouzph5Hu9vK5cBP84ZaTW"
       },
@@ -1131,6 +1131,22 @@
       "duration_ms": 241548,
       "name": "Good Guy - feat. Faye Webster",
       "url": "https://open.spotify.com/track/3SeFOhYky0cIaoEhf9cEs3"
+    },
+    {
+      "added_at": "2026-02-20 05:00:45",
+      "album": {
+        "name": "Waves (Guitar Acoustic)",
+        "url": "https://open.spotify.com/album/2hrk8YSXUJJrhTnTTF8Bqw"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "duration_ms": 248427,
+      "name": "Waves - Guitar Acoustic",
+      "url": "https://open.spotify.com/track/0SUih4u16BlTsIDyB7J0SU"
     },
     {
       "added_at": "2026-02-20 05:00:45",
@@ -1163,22 +1179,6 @@
       "duration_ms": 246413,
       "name": "Mexico",
       "url": "https://open.spotify.com/track/6x7oPOBrfsqx9WbON5X1go"
-    },
-    {
-      "added_at": "2026-02-20 05:00:45",
-      "album": {
-        "name": "Waves (Guitar Acoustic)",
-        "url": "https://open.spotify.com/album/2hrk8YSXUJJrhTnTTF8Bqw"
-      },
-      "artists": [
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        }
-      ],
-      "duration_ms": 248427,
-      "name": "Waves - Guitar Acoustic",
-      "url": "https://open.spotify.com/track/0SUih4u16BlTsIDyB7J0SU"
     },
     {
       "added_at": "2026-02-20 05:00:45",
@@ -1331,26 +1331,6 @@
     {
       "added_at": "2026-02-20 05:00:45",
       "album": {
-        "name": "(self-titled)",
-        "url": "https://open.spotify.com/album/19g08PLwSFleJyXjAIugDI"
-      },
-      "artists": [
-        {
-          "name": "Marcus Mumford",
-          "url": "https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB"
-        },
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 224893,
-      "name": "How (ft. Brandi Carlile)",
-      "url": "https://open.spotify.com/track/4da4p7RgqK9AjtVh4sEEHc"
-    },
-    {
-      "added_at": "2026-02-20 05:00:45",
-      "album": {
         "name": "Ever New (Reworked by Bon Iver & Flock Of Dimes)",
         "url": "https://open.spotify.com/album/6YBMppvgwzEQ1WluBwDVBE"
       },
@@ -1391,18 +1371,22 @@
     {
       "added_at": "2026-02-20 05:00:45",
       "album": {
-        "name": "Blind and Brave",
-        "url": "https://open.spotify.com/album/1c2Ner1dwYAXfPSar0LN90"
+        "name": "(self-titled)",
+        "url": "https://open.spotify.com/album/19g08PLwSFleJyXjAIugDI"
       },
       "artists": [
         {
-          "name": "The Wild Reeds",
-          "url": "https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH"
+          "name": "Marcus Mumford",
+          "url": "https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
         }
       ],
-      "duration_ms": 274733,
-      "name": "Let No Grief",
-      "url": "https://open.spotify.com/track/3R2sknZVO963iQknjhDwru"
+      "duration_ms": 224893,
+      "name": "How (ft. Brandi Carlile)",
+      "url": "https://open.spotify.com/track/4da4p7RgqK9AjtVh4sEEHc"
     },
     {
       "added_at": "2026-02-20 05:00:45",
@@ -1439,6 +1423,22 @@
       "duration_ms": 133000,
       "name": "Snowpath",
       "url": "https://open.spotify.com/track/1e1QnRkEXG5HFMOUFo3V4L"
+    },
+    {
+      "added_at": "2026-02-20 05:00:45",
+      "album": {
+        "name": "Blind and Brave",
+        "url": "https://open.spotify.com/album/1c2Ner1dwYAXfPSar0LN90"
+      },
+      "artists": [
+        {
+          "name": "The Wild Reeds",
+          "url": "https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH"
+        }
+      ],
+      "duration_ms": 274733,
+      "name": "Let No Grief",
+      "url": "https://open.spotify.com/track/3R2sknZVO963iQknjhDwru"
     },
     {
       "added_at": "2026-02-20 05:00:45",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2026-02-20 05:00:45",
       "album": {
-        "name": "Not a Man, Not a Woman",
-        "url": "https://open.spotify.com/album/3peH8wCp0MB2SWRD0AKqBT"
-      },
-      "artists": [
-        {
-          "name": "Black Sea Dahu",
-          "url": "https://open.spotify.com/artist/5JrIBQLdYU5SkSdu0zrO70"
-        }
-      ],
-      "duration_ms": 151828,
-      "name": "Not a Man, Not a Woman",
-      "url": "https://open.spotify.com/track/5fJ6ZUko0kbaXpUfG946RX"
-    },
-    {
-      "added_at": "2026-02-20 05:00:45",
-      "album": {
         "name": "Never Meant",
         "url": "https://open.spotify.com/album/1vEVu7cCHpvCWeOdzaje94"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 199800,
       "name": "Never Meant",
       "url": "https://open.spotify.com/track/59MRYnrFHsMMYlAIOnWOij"
+    },
+    {
+      "added_at": "2026-02-20 05:00:45",
+      "album": {
+        "name": "Not a Man, Not a Woman",
+        "url": "https://open.spotify.com/album/3peH8wCp0MB2SWRD0AKqBT"
+      },
+      "artists": [
+        {
+          "name": "Black Sea Dahu",
+          "url": "https://open.spotify.com/artist/5JrIBQLdYU5SkSdu0zrO70"
+        }
+      ],
+      "duration_ms": 151828,
+      "name": "Not a Man, Not a Woman",
+      "url": "https://open.spotify.com/track/5fJ6ZUko0kbaXpUfG946RX"
     },
     {
       "added_at": "2026-02-20 05:00:45",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2026-02-20 05:00:45",
       "album": {
-        "name": "Patterns",
-        "url": "https://open.spotify.com/album/29MViHy67UeTHm5NrfPBlY"
-      },
-      "artists": [
-        {
-          "name": "Laura Marling",
-          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
-        }
-      ],
-      "duration_ms": 260509,
-      "name": "Patterns",
-      "url": "https://open.spotify.com/track/43wwn1EmqxcMOWYSd0Gk2Z"
-    },
-    {
-      "added_at": "2026-02-20 05:00:45",
-      "album": {
         "name": "How Did It Seem To You?",
         "url": "https://open.spotify.com/album/7JJ4Iz9RUdXMzaakBCnlwA"
       },
@@ -1699,22 +1683,6 @@
       "duration_ms": 191226,
       "name": "A Month Or Two",
       "url": "https://open.spotify.com/track/5jZ58MSH3B5fEciHveMDx4"
-    },
-    {
-      "added_at": "2026-02-20 05:00:45",
-      "album": {
-        "name": "i leave early",
-        "url": "https://open.spotify.com/album/6WM1ihagtD7rboK5Ycy1lX"
-      },
-      "artists": [
-        {
-          "name": "Maria Kelly",
-          "url": "https://open.spotify.com/artist/15MkO1zSQcHtjObfkiEUaV"
-        }
-      ],
-      "duration_ms": 193793,
-      "name": "i leave early",
-      "url": "https://open.spotify.com/track/3v6a2Q4iClZE8a2Qv5g60r"
     },
     {
       "added_at": "2026-02-20 05:00:45",
@@ -1735,6 +1703,22 @@
     {
       "added_at": "2026-02-20 05:00:45",
       "album": {
+        "name": "i leave early",
+        "url": "https://open.spotify.com/album/6WM1ihagtD7rboK5Ycy1lX"
+      },
+      "artists": [
+        {
+          "name": "Maria Kelly",
+          "url": "https://open.spotify.com/artist/15MkO1zSQcHtjObfkiEUaV"
+        }
+      ],
+      "duration_ms": 193793,
+      "name": "i leave early",
+      "url": "https://open.spotify.com/track/3v6a2Q4iClZE8a2Qv5g60r"
+    },
+    {
+      "added_at": "2026-02-20 05:00:45",
+      "album": {
         "name": "Half Alive",
         "url": "https://open.spotify.com/album/7HF75RmgHlbDQqZjwmtiIb"
       },
@@ -1747,6 +1731,22 @@
       "duration_ms": 183303,
       "name": "Half Alive",
       "url": "https://open.spotify.com/track/4iL0LJgt27lSqpNS6AQsiN"
+    },
+    {
+      "added_at": "2026-02-20 05:00:45",
+      "album": {
+        "name": "Patterns",
+        "url": "https://open.spotify.com/album/29MViHy67UeTHm5NrfPBlY"
+      },
+      "artists": [
+        {
+          "name": "Laura Marling",
+          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
+        }
+      ],
+      "duration_ms": 260509,
+      "name": "Patterns",
+      "url": "https://open.spotify.com/track/43wwn1EmqxcMOWYSd0Gk2Z"
     },
     {
       "added_at": "2026-02-20 05:00:45",
@@ -1815,6 +1815,22 @@
     {
       "added_at": "2026-02-20 05:00:45",
       "album": {
+        "name": "Earthstar Mountain",
+        "url": "https://open.spotify.com/album/2aS0NR1iVCRE2DEr197fe2"
+      },
+      "artists": [
+        {
+          "name": "Hannah Cohen",
+          "url": "https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros"
+        }
+      ],
+      "duration_ms": 202336,
+      "name": "Baby You're Lying",
+      "url": "https://open.spotify.com/track/3vCH4YzLnacmiOnWSEUkDK"
+    },
+    {
+      "added_at": "2026-02-20 05:00:45",
+      "album": {
         "name": "Sorrow",
         "url": "https://open.spotify.com/album/5UWayfTfIPcFAmZvpz2yJp"
       },
@@ -1843,22 +1859,6 @@
       "duration_ms": 200333,
       "name": "Such Love Does",
       "url": "https://open.spotify.com/track/47gFlybCCArb5b4VHbJhh0"
-    },
-    {
-      "added_at": "2026-02-20 05:00:45",
-      "album": {
-        "name": "Earthstar Mountain",
-        "url": "https://open.spotify.com/album/2aS0NR1iVCRE2DEr197fe2"
-      },
-      "artists": [
-        {
-          "name": "Hannah Cohen",
-          "url": "https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros"
-        }
-      ],
-      "duration_ms": 202336,
-      "name": "Baby You're Lying",
-      "url": "https://open.spotify.com/track/3vCH4YzLnacmiOnWSEUkDK"
     },
     {
       "added_at": "2026-02-20 05:00:45",
@@ -1927,22 +1927,6 @@
     {
       "added_at": "2026-02-20 05:00:45",
       "album": {
-        "name": "This Time Around",
-        "url": "https://open.spotify.com/album/4JBjcczbRn6gAqiieTOX4R"
-      },
-      "artists": [
-        {
-          "name": "Miya Folick",
-          "url": "https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV"
-        }
-      ],
-      "duration_ms": 231800,
-      "name": "This Time Around",
-      "url": "https://open.spotify.com/track/76LZ3g7Kc8o9g2qh8fYPvv"
-    },
-    {
-      "added_at": "2026-02-20 05:00:45",
-      "album": {
         "name": "Patty Griffin",
         "url": "https://open.spotify.com/album/3ZbfpLDN1yP3JYlqb7K6w0"
       },
@@ -1955,6 +1939,22 @@
       "duration_ms": 323591,
       "name": "River",
       "url": "https://open.spotify.com/track/62h7AycdIWjq6uYWC0LBht"
+    },
+    {
+      "added_at": "2026-02-20 05:00:45",
+      "album": {
+        "name": "This Time Around",
+        "url": "https://open.spotify.com/album/4JBjcczbRn6gAqiieTOX4R"
+      },
+      "artists": [
+        {
+          "name": "Miya Folick",
+          "url": "https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV"
+        }
+      ],
+      "duration_ms": 231800,
+      "name": "This Time Around",
+      "url": "https://open.spotify.com/track/76LZ3g7Kc8o9g2qh8fYPvv"
     },
     {
       "added_at": "2026-02-20 05:00:45",

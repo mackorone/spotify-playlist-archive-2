@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0iJOO12OY8.md) - [plain]
 
 > 🤝
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,944 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,936 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0iJOO12OY8.md) - [plain]
 | 28 | [Galopp](https://open.spotify.com/track/6kx2yUfhcc372Iknjrx6YK) | [Coucheron](https://open.spotify.com/artist/6ly2Z6h9dOerORbK1l2N8D), [Stig Brenner](https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf), [Arif Murakami](https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q), [May](https://open.spotify.com/artist/6ufyaDLdDuLeG5Ls4udcDE) | [Galopp](https://open.spotify.com/album/5Kc2vzQnDo9AInTgxixR4n) | 2:45 |
 | 29 | [Sjarmør \(Beepolar\)](https://open.spotify.com/track/6KRzKdnFjMabdStm61TQ13) | [Problembarn](https://open.spotify.com/artist/4OL8M4X2h0li7ThNulTjmx) | [Sjarmør \(Beepolar\)](https://open.spotify.com/album/2AnzUlvs4pLnZ4RdawxOzD) | 2:43 |
 | 30 | [La meg leve](https://open.spotify.com/track/14JwY1qZ2Y7AP9OsYb18DO) | [Søte & Rare](https://open.spotify.com/artist/2gmup32OWc65WVKSoP4rD8) | [La meg leve](https://open.spotify.com/album/6oTl6TkEuWOesP1lM8NDqj) | 2:05 |
-| 31 | [En million](https://open.spotify.com/track/3g6rsowrMVbPmCtuelXhjR) | [Streetboys](https://open.spotify.com/artist/6R3OPXyzteMubaNClGZZDW) | [En million](https://open.spotify.com/album/6sfIY03kMNBfCOdyncQnbu) | 2:26 |
+| 31 | [Det Løser Seg](https://open.spotify.com/track/1uvYRZPOtfnI9SbYzgqV4S) | [Soppgirobygget](https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i) | [Det Løser Seg](https://open.spotify.com/album/6hygzpsQObLO2CrgnTIO9W) | 2:12 |
 | 32 | [Juniregnet](https://open.spotify.com/track/7iZHA1WIBbDER2YvheX0kP) | [GOLF](https://open.spotify.com/artist/1Kj6Km5IuLGKt2cxuhSgLm) | [GOLF](https://open.spotify.com/album/2ZTc5n62uK6TjSbpURO5Me) | 2:54 |
-| 33 | [Det Løser Seg](https://open.spotify.com/track/1uvYRZPOtfnI9SbYzgqV4S) | [Soppgirobygget](https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i) | [Det Løser Seg](https://open.spotify.com/album/6hygzpsQObLO2CrgnTIO9W) | 2:12 |
+| 33 | [En million](https://open.spotify.com/track/3g6rsowrMVbPmCtuelXhjR) | [Streetboys](https://open.spotify.com/artist/6R3OPXyzteMubaNClGZZDW) | [En million](https://open.spotify.com/album/6sfIY03kMNBfCOdyncQnbu) | 2:26 |
 | 34 | [Ambassadør](https://open.spotify.com/track/4Vrbv4EQ5kAsupUZRHHQvQ) | [The Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg), [Pasha](https://open.spotify.com/artist/0elSJZFrHnayc7AUCkbWAl) | [Ambassadør](https://open.spotify.com/album/1DjkyWV85yWHHOhKYDtFou) | 2:49 |
 | 35 | [Tjue år](https://open.spotify.com/track/0nmSNf4UsCNGmnPzP4dN7Z) | [Tobias Sten](https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz) | [Tjue år](https://open.spotify.com/album/2RLegHXSBddUgpwtsIXmyh) | 4:19 |
 | 36 | [Se På Meg](https://open.spotify.com/track/5ZoZDdZUCvSSzMDZYrK9EH) | [Fjellrev](https://open.spotify.com/artist/5sO8Yr7zER5JhiWVpjjgd8) | [Se På Meg](https://open.spotify.com/album/5WaoMzn9JLXkxar2AYt656) | 2:39 |

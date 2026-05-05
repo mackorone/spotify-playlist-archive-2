@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO039Pyg.md) - [plain]
 
 > This is Kehlani\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,406 likes - 48 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,452 likes - 48 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,13 +28,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO039Pyg.md) - [plain]
 | 18 | [Ring \(feat\. Kehlani\)](https://open.spotify.com/track/5DfWF0jqMgZDCiu9zJENTA) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Invasion of Privacy](https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML) | 2:57 |
 | 19 | [DIRT ON MY SHOES \(feat\. Kehlani\)](https://open.spotify.com/track/2AA05NFvw5tPQ9pvj68fsY) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [MUTT Deluxe: HEEL](https://open.spotify.com/album/5m3rVDTPrTRwSgkKsvSYEL) | 3:39 |
 | 20 | [Toxic](https://open.spotify.com/track/5nexAvWNhwg51EavnDgViy) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [It Was Good Until It Wasn't](https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3) | 2:48 |
-| 21 | [No Such Thing \(feat\. Clipse\)](https://open.spotify.com/track/4juXNV2tlVXBmqlDjraYcm) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2) | [Kehlani](https://open.spotify.com/album/2xkYTmqjear3lSGydIn7wh) | 3:40 |
-| 22 | [Distraction](https://open.spotify.com/track/2wSQyp6VzUopSFBinRo1iD) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [SweetSexySavage \(Deluxe\)](https://open.spotify.com/album/4B4in9QlrlYWSHlYSRebdC) | 3:55 |
-| 23 | [everything](https://open.spotify.com/track/6pyM30WDpG70VTfwoQg4m2) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [blue water road](https://open.spotify.com/album/2WfV3cpI2BUuIxMISh9nqF) | 3:27 |
+| 21 | [Anotha Luva \(feat\. Lil Wayne\)](https://open.spotify.com/track/1LCiGi699HYk4nznLRQovN) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Kehlani](https://open.spotify.com/album/2xkYTmqjear3lSGydIn7wh) | 4:01 |
+| 22 | [Blue Moon \- Girls Trip](https://open.spotify.com/track/7pVos5ARWPPoss91LDu9Hx) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Midnight Sun: Girls Trip](https://open.spotify.com/album/4WMcRlbt7NvpKrrqO8ykQf) | 3:12 |
+| 23 | [Distraction](https://open.spotify.com/track/2wSQyp6VzUopSFBinRo1iD) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [SweetSexySavage \(Deluxe\)](https://open.spotify.com/album/4B4in9QlrlYWSHlYSRebdC) | 3:55 |
 | 24 | [Can I](https://open.spotify.com/track/0uDdI4fAXCuNhQbmxENdsO) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [It Was Good Until It Wasn't](https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3) | 2:47 |
-| 25 | [Anotha Luva \(feat\. Lil Wayne\)](https://open.spotify.com/track/1LCiGi699HYk4nznLRQovN) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Kehlani](https://open.spotify.com/album/2xkYTmqjear3lSGydIn7wh) | 4:01 |
-| 26 | [KEHLANI \(REMIX\) \[feat\. Kehlani\]](https://open.spotify.com/track/4rugSJgsPQ1KlbWYZnoEsa) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [A Jaguar's Dream](https://open.spotify.com/album/0nhSn0jmZlFvdPrz7vr2UP) | 2:59 |
-| 27 | [Blue Moon \- Girls Trip](https://open.spotify.com/track/7pVos5ARWPPoss91LDu9Hx) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Midnight Sun: Girls Trip](https://open.spotify.com/album/4WMcRlbt7NvpKrrqO8ykQf) | 3:12 |
+| 25 | [No Such Thing \(feat\. Clipse\)](https://open.spotify.com/track/4juXNV2tlVXBmqlDjraYcm) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2) | [Kehlani](https://open.spotify.com/album/2xkYTmqjear3lSGydIn7wh) | 3:40 |
+| 26 | [everything](https://open.spotify.com/track/6pyM30WDpG70VTfwoQg4m2) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [blue water road](https://open.spotify.com/album/2WfV3cpI2BUuIxMISh9nqF) | 3:27 |
+| 27 | [KEHLANI \(REMIX\) \[feat\. Kehlani\]](https://open.spotify.com/track/4rugSJgsPQ1KlbWYZnoEsa) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [A Jaguar's Dream](https://open.spotify.com/album/0nhSn0jmZlFvdPrz7vr2UP) | 2:59 |
 | 28 | [Get Me \(feat\. Kehlani\)](https://open.spotify.com/track/5VwwpU7KsLhgfbMEecedhJ) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Changes](https://open.spotify.com/album/63iWSELt9V1kV6RSMxN7Ii) | 3:05 |
 | 29 | [At My Worst \(feat\. Kehlani\)](https://open.spotify.com/track/306ediRjbmuizOLWtjDG3Z) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [PINK PLANET](https://open.spotify.com/album/21iLTKX2O7LTHijlyXsbG1) | 2:49 |
 | 30 | [Good Thing \(with Kehlani\)](https://open.spotify.com/track/5aUSEPNd3m5xliFK4pn5mU) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Good Thing \(with Kehlani\)](https://open.spotify.com/album/3wpdeV1FZfiEnelZSfAFp4) | 3:30 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO039Pyg.md) - [plain]
 | 47 | [Faking It \(feat\. Kehlani & Lil Yachty\)](https://open.spotify.com/track/0pJPdSVti6cTM1Q6xYGmcf) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Funk Wav](https://open.spotify.com/artist/4A0TivfinfALCAMJqqjZIk) | [Funk Wav Bounces Vol.1](https://open.spotify.com/album/2HaqChIDc5go3qxVunBDK0) | 4:00 |
 | 48 | [melt](https://open.spotify.com/track/1pCbBNRglGwlMLeUTOnqrO) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [blue water road](https://open.spotify.com/album/1fZRXWVJVe07UcD4GowJ8j) | 3:31 |
 
-Snapshot ID: `afU+gAAAAADHlXexNyeEzfTR6+zQC5xc`
+Snapshot ID: `afaQAAAAAAC/ygCtjFeHgWr/I3Jhxjs7`

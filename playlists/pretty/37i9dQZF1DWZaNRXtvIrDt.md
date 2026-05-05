@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 
 > A new world of alternative electronic music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,845 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,836 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 29 | [Feel The Friction](https://open.spotify.com/track/3drghRAvtI2VrNDZsHsmlZ) | [Sam Alfred](https://open.spotify.com/artist/4PVzoVUDxey3mxGdkf4HgR) | [Feel The Friction](https://open.spotify.com/album/14AhXf3h67J8auGzUzBWLi) | 3:02 |
 | 30 | [better](https://open.spotify.com/track/7oNOKWpTqTnTJeyLwkwWqN) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg), [Léa Sen](https://open.spotify.com/artist/6B03CBbFJ9aw9CjlxYP0UX) | [still slipping vol\. 1](https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA) | 5:01 |
 | 31 | [All Night Long](https://open.spotify.com/track/01PhbKK2jcCO8YCjTgIXhT) | [LNRT](https://open.spotify.com/artist/3K6wMz8wZO3G0ffTAQeqgC) | [All Night Long](https://open.spotify.com/album/3yhDHafqAFeWjbtpzP2Tfl) | 2:59 |
-| 32 | [The Heads That Know \(feat\. Comma Dee\)](https://open.spotify.com/track/5TH2FmWFED58bejTlKQXVi) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso), [Comma Dee](https://open.spotify.com/artist/2K2k6w3rhyifPmKC4U86VY) | [The Heads That Know](https://open.spotify.com/album/5nCHAjDBoIwmtf8dKOvdB7) | 7:03 |
-| 33 | [Heaven Scent](https://open.spotify.com/track/4VY9yQMuC8izfcybXmhYOY) | [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff), [Chloe Sevigny](https://open.spotify.com/artist/2wHNtBwYEwTG4pU4K9taDG) | [Heaven Scent](https://open.spotify.com/album/4ZkLW5cSNvLXZC2pmRxLdV) | 4:43 |
-| 34 | [Back To Reality \- Original Mix \- Mixed](https://open.spotify.com/track/5LM5D4axlHlw25FSLB9yqN) | [RMS](https://open.spotify.com/artist/4pJ8HL3kT31Gc3fqXQBG9c) | [DJ Hybrid presents Welcome To The Jungle \(DJ MIX\)](https://open.spotify.com/album/0px7ovg0arQC3wZvRGo74C) | 1:24 |
+| 32 | [Heaven Scent](https://open.spotify.com/track/4VY9yQMuC8izfcybXmhYOY) | [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff), [Chloe Sevigny](https://open.spotify.com/artist/2wHNtBwYEwTG4pU4K9taDG) | [Heaven Scent](https://open.spotify.com/album/4ZkLW5cSNvLXZC2pmRxLdV) | 4:43 |
+| 33 | [Back To Reality \- Original Mix \- Mixed](https://open.spotify.com/track/5LM5D4axlHlw25FSLB9yqN) | [RMS](https://open.spotify.com/artist/4pJ8HL3kT31Gc3fqXQBG9c) | [DJ Hybrid presents Welcome To The Jungle \(DJ MIX\)](https://open.spotify.com/album/0px7ovg0arQC3wZvRGo74C) | 1:24 |
+| 34 | [The Heads That Know \(feat\. Comma Dee\)](https://open.spotify.com/track/5TH2FmWFED58bejTlKQXVi) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso), [Comma Dee](https://open.spotify.com/artist/2K2k6w3rhyifPmKC4U86VY) | [The Heads That Know](https://open.spotify.com/album/5nCHAjDBoIwmtf8dKOvdB7) | 7:03 |
 | 35 | [Lazy Haze](https://open.spotify.com/track/4U3FH4HfSRtFyVhuRiDYuP) | [Yere](https://open.spotify.com/artist/4lzDszfgtJrnmeBfDu9dt7), [Bicycle Ride](https://open.spotify.com/artist/1aEKpfW8sw5XryObAyPUFE) | [Lazy Haze](https://open.spotify.com/album/7ogyBA2ovnKRNOdSJnZ1Kt) | 2:06 |
 | 36 | [Back 2 Back](https://open.spotify.com/track/13DIg33b655IuPHHdnlimm) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Back 2 Back](https://open.spotify.com/album/4lnsaWcuoXUzDINVbyG9ak) | 3:07 |
 | 37 | [Leave Your Life \- Lonely Hearts Mix](https://open.spotify.com/track/4byAVCrUbP9O89nyIeclaL) | [Alex Kassian](https://open.spotify.com/artist/3YcfGOBLEsPKVZj5Ecu0QY) | [Leave Your Life](https://open.spotify.com/album/4qeik8tRjrndVWsaS7bRBS) | 6:09 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 45 | [Night Moves](https://open.spotify.com/track/3txXtinyEJNYIifRyLK3z2) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5), [Enzo is Burning](https://open.spotify.com/artist/2KIWGryAlZJj1PwpdRTDCB) | [Night Moves](https://open.spotify.com/album/6jsl3oV9zfqb7l7rpbQDki) | 3:21 |
 | 46 | [Fuck My Computer](https://open.spotify.com/track/2Gt39sy5hTo4huF2Og9XEj) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [Fuck My Computer](https://open.spotify.com/album/1oX8Dje3jHWVmKNfTbzrcy) | 3:10 |
 | 47 | [Who Are They?](https://open.spotify.com/track/49981XZ6QqcqRJ1LDQWDB2) | [Hedonics](https://open.spotify.com/artist/24rnH82g3EdeLwIl9BBGvS) | [Who Are They?](https://open.spotify.com/album/12PEHRDDMkmP12U79JDaCM) | 4:54 |
-| 48 | [Badder](https://open.spotify.com/track/6HnnU52OLpINwucbbiXy5v) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI), [Champion](https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR) | [Badder](https://open.spotify.com/album/4xq8NcQXxBMezVM937XYHo) | 2:50 |
-| 49 | [Birth4000](https://open.spotify.com/track/658gtQhSGDuPtIlpCSqNek) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Cascade](https://open.spotify.com/album/4IYnAmZ8GvmNFF2ZxxKT8L) | 4:46 |
+| 48 | [Birth4000](https://open.spotify.com/track/658gtQhSGDuPtIlpCSqNek) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Cascade](https://open.spotify.com/album/4IYnAmZ8GvmNFF2ZxxKT8L) | 4:46 |
+| 49 | [Badder](https://open.spotify.com/track/6HnnU52OLpINwucbbiXy5v) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI), [Champion](https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR) | [Badder](https://open.spotify.com/album/4xq8NcQXxBMezVM937XYHo) | 2:50 |
 | 50 | [Wicked Sound](https://open.spotify.com/track/6vITRyQ93GruFeNnR6OQ1U) | [Sekta](https://open.spotify.com/artist/06PMrOCpEXRYONKv8KlLXD) | [Wicked Rhythm EP](https://open.spotify.com/album/6MRN1oX33WDwUf9fJGMxNj) | 2:53 |
 
 Snapshot ID: `AAAAACaN9MwyoOP7WOTcsz6bui2upjhi`

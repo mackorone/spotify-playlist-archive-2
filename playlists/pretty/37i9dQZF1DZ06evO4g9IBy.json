@@ -1,12 +1,12 @@
 {
   "description": "This is Stevie Nicks. The essential tracks, all in one playlist.",
-  "num_followers": 172995,
+  "num_followers": 173004,
   "original_name": "This Is Stevie Nicks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afU+gAAAAAD1xCTcQRf5Khw+fCubcpFx",
+  "snapshot_id": "afaQAAAAAACYzbFs16O6cQiSV+RbQ9o+",
   "tracks": [
     {
       "added_at": null,
@@ -63,8 +63,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rock a Little",
-        "url": "https://open.spotify.com/album/0guJSEAsHAQ1gXPC18u7hc"
+        "name": "The Other Side of the Mirror",
+        "url": "https://open.spotify.com/album/520iW3fXcWW5mbQToP0hs0"
       },
       "artists": [
         {
@@ -72,9 +72,9 @@
           "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
         }
       ],
-      "duration_ms": 250026,
-      "name": "Talk to Me",
-      "url": "https://open.spotify.com/track/0lqNtjLgTJYScspOhJXxtx"
+      "duration_ms": 274520,
+      "name": "Rooms on Fire",
+      "url": "https://open.spotify.com/track/0QVlQTzp10Tj4Xql9ZRJzo"
     },
     {
       "added_at": null,
@@ -99,8 +99,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Other Side of the Mirror",
-        "url": "https://open.spotify.com/album/520iW3fXcWW5mbQToP0hs0"
+        "name": "Rock a Little",
+        "url": "https://open.spotify.com/album/0guJSEAsHAQ1gXPC18u7hc"
       },
       "artists": [
         {
@@ -108,9 +108,9 @@
           "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
         }
       ],
-      "duration_ms": 274520,
-      "name": "Rooms on Fire",
-      "url": "https://open.spotify.com/track/0QVlQTzp10Tj4Xql9ZRJzo"
+      "duration_ms": 250026,
+      "name": "Talk to Me",
+      "url": "https://open.spotify.com/track/0lqNtjLgTJYScspOhJXxtx"
     },
     {
       "added_at": null,
@@ -327,6 +327,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Practical Magic (Music From The Motion Picture)",
+        "url": "https://open.spotify.com/album/2N7TdBow0ClqvPIdmuOgtw"
+      },
+      "artists": [
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        }
+      ],
+      "duration_ms": 251080,
+      "name": "If You Ever Did Believe",
+      "url": "https://open.spotify.com/track/5CQmmcGVX9L0NOOkLR6uve"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Buckingham Nicks",
         "url": "https://open.spotify.com/album/0MNvghevbRjjP8X3qPVrxv"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 179014,
       "name": "Crying in the Night",
       "url": "https://open.spotify.com/track/3FBJq7wLTogeipvXMbTNrU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Practical Magic (Music From The Motion Picture)",
-        "url": "https://open.spotify.com/album/2N7TdBow0ClqvPIdmuOgtw"
-      },
-      "artists": [
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        }
-      ],
-      "duration_ms": 251080,
-      "name": "If You Ever Did Believe",
-      "url": "https://open.spotify.com/track/5CQmmcGVX9L0NOOkLR6uve"
     },
     {
       "added_at": null,
@@ -399,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trouble in Shangri-La",
-        "url": "https://open.spotify.com/album/77Q6ef8LmG5pCA34yyRjOg"
-      },
-      "artists": [
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        }
-      ],
-      "duration_ms": 285666,
-      "name": "Planets of the Universe",
-      "url": "https://open.spotify.com/track/2TctyZ6BMrifNwN3iL7DFJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "George Is On",
         "url": "https://open.spotify.com/album/58evCxTgeud6x03IDjI1xT"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 279110,
       "name": "Dreams - Album Mix",
       "url": "https://open.spotify.com/track/7sAnK4CFoiYmJRGiAF00xs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trouble in Shangri-La",
+        "url": "https://open.spotify.com/album/77Q6ef8LmG5pCA34yyRjOg"
+      },
+      "artists": [
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        }
+      ],
+      "duration_ms": 285666,
+      "name": "Planets of the Universe",
+      "url": "https://open.spotify.com/track/2TctyZ6BMrifNwN3iL7DFJ"
     },
     {
       "added_at": null,
@@ -679,26 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pack Up The Plantation: Live!",
-        "url": "https://open.spotify.com/album/5HutXQpnb17yRXVnrolKR0"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        },
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        }
-      ],
-      "duration_ms": 145201,
-      "name": "Needles And Pins - Live At The The Forum/1981",
-      "url": "https://open.spotify.com/track/6Alshe3WYMVZRbYWgijYWT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Wild Heart (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0zuIUmEvxMf8tIYZ5wxJHI"
       },
@@ -711,6 +691,22 @@
       "duration_ms": 369520,
       "name": "Wild Heart - 2016 Remaster",
       "url": "https://open.spotify.com/track/39csEPv4OCAsyQiePzTpIa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Crystal Visions...The Very Best of Stevie Nicks",
+        "url": "https://open.spotify.com/album/7q0dYnAjmqZBJLhMBre8aL"
+      },
+      "artists": [
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        }
+      ],
+      "duration_ms": 421800,
+      "name": "Rhiannon - Live 2005",
+      "url": "https://open.spotify.com/track/3brPoiEss4oQsy6BxUzbFe"
     },
     {
       "added_at": null,
@@ -739,18 +735,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Crystal Visions...The Very Best of Stevie Nicks",
-        "url": "https://open.spotify.com/album/7q0dYnAjmqZBJLhMBre8aL"
+        "name": "Pack Up The Plantation: Live!",
+        "url": "https://open.spotify.com/album/5HutXQpnb17yRXVnrolKR0"
       },
       "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        },
         {
           "name": "Stevie Nicks",
           "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
         }
       ],
-      "duration_ms": 421800,
-      "name": "Rhiannon - Live 2005",
-      "url": "https://open.spotify.com/track/3brPoiEss4oQsy6BxUzbFe"
+      "duration_ms": 145201,
+      "name": "Needles And Pins - Live At The The Forum/1981",
+      "url": "https://open.spotify.com/track/6Alshe3WYMVZRbYWgijYWT"
     },
     {
       "added_at": null,

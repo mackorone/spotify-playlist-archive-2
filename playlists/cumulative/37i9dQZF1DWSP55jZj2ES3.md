@@ -4,14 +4,14 @@
 
 > Indie jams that sound like lounging under the sun with friends.
 
-322 songs - 18 hr 28 min
+323 songs - 18 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1901](https://open.spotify.com/track/1Ug5wxoHthwxctyWTUMGta) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I) | 3:13 | 2024-04-22 | 2025-01-14 |
 | [1st Time](https://open.spotify.com/track/4udjo5nLK61pKajakfrndc) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [1st Time](https://open.spotify.com/album/1ecGfFfdYXsJnRRLuENEtG) | 3:01 | 2021-10-26 |  |
 | [20191009 I Like Her](https://open.spotify.com/track/3oUn55qKRZ1JFzfQNbJjS1) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [One Wayne G](https://open.spotify.com/album/70hX7IYqmUGV97OXs2v848) | 2:16 | 2023-09-16 |  |
-| [25MPH](https://open.spotify.com/track/6BeEg9qR8jDuEpH3YtMJHd) | [Public Library Commute](https://open.spotify.com/artist/2FEdyVgGMSclOsYJ4wAQUY) | [1000 Summers](https://open.spotify.com/album/2OyMqlLzU0ZVguQeCnN2Nw) | 3:03 | 2021-10-26 |  |
+| [25MPH](https://open.spotify.com/track/6BeEg9qR8jDuEpH3YtMJHd) | [Public Library Commute](https://open.spotify.com/artist/2FEdyVgGMSclOsYJ4wAQUY) | [1000 Summers](https://open.spotify.com/album/2OyMqlLzU0ZVguQeCnN2Nw) | 3:03 | 2021-10-26 | 2026-05-05 |
 | [3005](https://open.spotify.com/track/2ZltjIqztEpZtafc8w0I9t) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Because the Internet](https://open.spotify.com/album/4GNIhgEGXzWGAefgN5qjdU) | 3:54 | 2021-10-26 | 2022-07-29 |
 | [50 Ways to Leave Your Lover](https://open.spotify.com/track/6Qb7gtV6Q4MnUjSbkFcopl) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Still Crazy After All These Years](https://open.spotify.com/album/4A366gjTrYQwmRtkTezF2W) | 3:37 | 2022-03-29 | 2022-04-16 |
 | [8TEEN](https://open.spotify.com/track/5bgwqaRSS3M8WHWruHgSL5) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [American Teen](https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg) | 3:48 | 2022-03-17 | 2022-07-29 |
@@ -308,6 +308,7 @@
 | [Tuesday](https://open.spotify.com/track/5LjKOTy2cNgmcmXVVMWGZe) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [Tuesday](https://open.spotify.com/album/60WYgmEkFT4MpbjOovAkSG) | 3:11 | 2023-09-16 |  |
 | [Two Worlds Apart](https://open.spotify.com/track/29nCFkQzewlDZKOnYSinZO) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/0DBoWQ52XUHtrZQdfAqOVj) | 2:58 | 2022-03-17 | 2022-11-02 |
 | [Two Worlds Apart](https://open.spotify.com/track/34qvgmIagzNQdZTRL2poiv) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW) | 2:58 | 2022-07-28 | 2024-04-19 |
+| [Type of Girl](https://open.spotify.com/track/4rzB3e4GvQUO5quMCKySp4) | [Teilz](https://open.spotify.com/artist/5FXeiHtcyalHwoeViwaEno) | [Type of Girl](https://open.spotify.com/album/4HGw9M865EeOCeRUWnKeJd) | 4:16 | 2026-01-20 |  |
 | [upside down](https://open.spotify.com/track/27dLE8w9LrbjMNU88kUv0G) | [lentra](https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT) | [upside down](https://open.spotify.com/album/7L5hYe5cJOppfwmR7qmBcR) | 2:02 | 2021-10-26 | 2022-07-29 |
 | [Vienna](https://open.spotify.com/track/4U45aEWtQhrm8A5mxPaFZ7) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Stranger \(Legacy Edition\)](https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6) | 3:34 | 2022-03-29 | 2022-07-01 |
 | [Vintage \- Flight Facilities Remix](https://open.spotify.com/track/2VNR4FAD2u60AeJDXL8a9x) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC), [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM) | [Vintage \(Flight Facilities Remix\)](https://open.spotify.com/album/5XnMvmihDUqq395LJ48Omx) | 3:42 | 2022-06-30 |  |

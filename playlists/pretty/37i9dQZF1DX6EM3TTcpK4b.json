@@ -1,6 +1,6 @@
 {
   "description": "Pa' cantar, bailar y pistear. \u00a1Qu\u00e9 suene el mariachi! En portada: Lola Beltr\u00e1n",
-  "num_followers": 471292,
+  "num_followers": 471351,
   "original_name": "Cl\u00e1sicas del Mariachi",
   "owner": {
     "name": "Spotify",
@@ -107,22 +107,6 @@
     {
       "added_at": "2024-07-03 18:18:42",
       "album": {
-        "name": "Canta A Juan Gabriel",
-        "url": "https://open.spotify.com/album/0KXlM36v51VrPceSsiz42M"
-      },
-      "artists": [
-        {
-          "name": "Roc\u00edo D\u00farcal",
-          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
-        }
-      ],
-      "duration_ms": 272866,
-      "name": "Costumbres",
-      "url": "https://open.spotify.com/track/4y42VnzfGCV7gXr1qcL302"
-    },
-    {
-      "added_at": "2024-07-03 18:18:42",
-      "album": {
         "name": "Le Hace Falta Un Beso",
         "url": "https://open.spotify.com/album/2XlX0h0yr51DxxAuGA5Nld"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 167897,
       "name": "Le Hace Falta Un Beso",
       "url": "https://open.spotify.com/track/1SwY9YgXVgRbZM6uzxS4vU"
+    },
+    {
+      "added_at": "2024-07-03 18:18:42",
+      "album": {
+        "name": "Canta A Juan Gabriel",
+        "url": "https://open.spotify.com/album/0KXlM36v51VrPceSsiz42M"
+      },
+      "artists": [
+        {
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+        }
+      ],
+      "duration_ms": 272866,
+      "name": "Costumbres",
+      "url": "https://open.spotify.com/track/4y42VnzfGCV7gXr1qcL302"
     },
     {
       "added_at": "2024-07-03 18:18:42",
@@ -539,6 +539,22 @@
     {
       "added_at": "2024-07-03 18:18:42",
       "album": {
+        "name": "Orgullo De Mujer",
+        "url": "https://open.spotify.com/album/4fbZPlF487LFDjYetlqmk3"
+      },
+      "artists": [
+        {
+          "name": "Alicia Villarreal",
+          "url": "https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn"
+        }
+      ],
+      "duration_ms": 243933,
+      "name": "Insensible A Ti (Me Pone A Mil)",
+      "url": "https://open.spotify.com/track/6WP2v1QpghefM2iM4x5L4a"
+    },
+    {
+      "added_at": "2024-07-03 18:18:42",
+      "album": {
         "name": "Canta A Juan Gabriel",
         "url": "https://open.spotify.com/album/0KXlM36v51VrPceSsiz42M"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 222760,
       "name": "D\u00e9jame Vivir (with Juan Gabriel)",
       "url": "https://open.spotify.com/track/3ic95qCcp0njJNb3mJTZaP"
-    },
-    {
-      "added_at": "2024-07-03 18:18:42",
-      "album": {
-        "name": "Orgullo De Mujer",
-        "url": "https://open.spotify.com/album/4fbZPlF487LFDjYetlqmk3"
-      },
-      "artists": [
-        {
-          "name": "Alicia Villarreal",
-          "url": "https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn"
-        }
-      ],
-      "duration_ms": 243933,
-      "name": "Insensible A Ti (Me Pone A Mil)",
-      "url": "https://open.spotify.com/track/6WP2v1QpghefM2iM4x5L4a"
     },
     {
       "added_at": "2024-07-03 18:18:42",
@@ -659,18 +659,18 @@
     {
       "added_at": "2024-07-03 18:18:42",
       "album": {
-        "name": "60 Rancheras Inmortales",
-        "url": "https://open.spotify.com/album/7r20ZE4dXhmE7Ldc9sGeok"
+        "name": "Los Boleros Morunos Solis",
+        "url": "https://open.spotify.com/album/5fJVD81W2XvK9a2IBHyEjq"
       },
       "artists": [
         {
-          "name": "Pedro Infante",
-          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
+          "name": "Javier Sol\u00eds",
+          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
         }
       ],
-      "duration_ms": 207360,
-      "name": "Cu\u00e1ndo sale la luna",
-      "url": "https://open.spotify.com/track/7CLge2qFvAzm9hvgSlKd1z"
+      "duration_ms": 177013,
+      "name": "Esclavo y Amo",
+      "url": "https://open.spotify.com/track/6FdA99MiSW1e18f2vEAx27"
     },
     {
       "added_at": "2024-07-03 18:18:42",
@@ -691,18 +691,18 @@
     {
       "added_at": "2024-07-03 18:18:42",
       "album": {
-        "name": "Los Boleros Morunos Solis",
-        "url": "https://open.spotify.com/album/5fJVD81W2XvK9a2IBHyEjq"
+        "name": "60 Rancheras Inmortales",
+        "url": "https://open.spotify.com/album/7r20ZE4dXhmE7Ldc9sGeok"
       },
       "artists": [
         {
-          "name": "Javier Sol\u00eds",
-          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
+          "name": "Pedro Infante",
+          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
         }
       ],
-      "duration_ms": 177013,
-      "name": "Esclavo y Amo",
-      "url": "https://open.spotify.com/track/6FdA99MiSW1e18f2vEAx27"
+      "duration_ms": 207360,
+      "name": "Cu\u00e1ndo sale la luna",
+      "url": "https://open.spotify.com/track/7CLge2qFvAzm9hvgSlKd1z"
     },
     {
       "added_at": "2024-07-03 18:18:42",
@@ -887,22 +887,6 @@
     {
       "added_at": "2024-07-03 18:18:42",
       "album": {
-        "name": "Canciones De Sus Peliculas",
-        "url": "https://open.spotify.com/album/4b0LLrVt3PWfWBV1Oz4fjL"
-      },
-      "artists": [
-        {
-          "name": "Javier Sol\u00eds",
-          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
-        }
-      ],
-      "duration_ms": 150666,
-      "name": "Entrega Total",
-      "url": "https://open.spotify.com/track/1Hh7gEOhoCBG1ob7Aw6biK"
-    },
-    {
-      "added_at": "2024-07-03 18:18:42",
-      "album": {
         "name": "Serie De Colecc. 15 Aut\u00e9nticos Exitos",
         "url": "https://open.spotify.com/album/2NBlTAiYb311082CIMKqjU"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 176520,
       "name": "Sin Fortuna",
       "url": "https://open.spotify.com/track/4JBHcA19SAq5EzNgZZOy9O"
+    },
+    {
+      "added_at": "2024-07-03 18:18:42",
+      "album": {
+        "name": "Canciones De Sus Peliculas",
+        "url": "https://open.spotify.com/album/4b0LLrVt3PWfWBV1Oz4fjL"
+      },
+      "artists": [
+        {
+          "name": "Javier Sol\u00eds",
+          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
+        }
+      ],
+      "duration_ms": 150666,
+      "name": "Entrega Total",
+      "url": "https://open.spotify.com/track/1Hh7gEOhoCBG1ob7Aw6biK"
     },
     {
       "added_at": "2024-07-03 18:18:42",
@@ -951,6 +951,22 @@
     {
       "added_at": "2024-07-03 18:18:42",
       "album": {
+        "name": "El Cantinero",
+        "url": "https://open.spotify.com/album/7Gxn1LKL1SUSW8CVJugfES"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Alfredo Jimenez",
+          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
+        }
+      ],
+      "duration_ms": 129400,
+      "name": "El Rey",
+      "url": "https://open.spotify.com/track/4ihZFukyNotzCUtxI4qpu8"
+    },
+    {
+      "added_at": "2024-07-03 18:18:42",
+      "album": {
         "name": "15 Inmortales de Pedro Infante",
         "url": "https://open.spotify.com/album/0EUGqkj07wWx27XADAq3Ba"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 174173,
       "name": "El Loco",
       "url": "https://open.spotify.com/track/4srM8XuNfNMFXKgU4ybkrP"
-    },
-    {
-      "added_at": "2024-07-03 18:18:42",
-      "album": {
-        "name": "El Cantinero",
-        "url": "https://open.spotify.com/album/7Gxn1LKL1SUSW8CVJugfES"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Alfredo Jimenez",
-          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
-        }
-      ],
-      "duration_ms": 129400,
-      "name": "El Rey",
-      "url": "https://open.spotify.com/track/4ihZFukyNotzCUtxI4qpu8"
     },
     {
       "added_at": "2024-07-03 18:18:42",
@@ -1451,22 +1451,18 @@
     {
       "added_at": "2024-07-03 18:18:42",
       "album": {
-        "name": "Por Amor A Mi Pueblo",
-        "url": "https://open.spotify.com/album/6Fzh7DxhjZ1fImQAHBe8od"
+        "name": "En Vivo, Desde Su Lugar",
+        "url": "https://open.spotify.com/album/0O56jcmx3fpovZWOJeO0LC"
       },
       "artists": [
         {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
-        },
-        {
-          "name": "Los Bukis",
-          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
+          "name": "Paquita La Del Barrio",
+          "url": "https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7"
         }
       ],
-      "duration_ms": 265853,
-      "name": "Himno A La Humildad",
-      "url": "https://open.spotify.com/track/73VnO22Ad7K9lJSpUZT9QT"
+      "duration_ms": 162146,
+      "name": "Cheque En Blanco - Live",
+      "url": "https://open.spotify.com/track/2aqarSktx1bU8WrZE9lW1X"
     },
     {
       "added_at": "2024-07-03 18:18:42",
@@ -1487,18 +1483,22 @@
     {
       "added_at": "2024-07-03 18:18:42",
       "album": {
-        "name": "En Vivo, Desde Su Lugar",
-        "url": "https://open.spotify.com/album/0O56jcmx3fpovZWOJeO0LC"
+        "name": "Por Amor A Mi Pueblo",
+        "url": "https://open.spotify.com/album/6Fzh7DxhjZ1fImQAHBe8od"
       },
       "artists": [
         {
-          "name": "Paquita La Del Barrio",
-          "url": "https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7"
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+        },
+        {
+          "name": "Los Bukis",
+          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
         }
       ],
-      "duration_ms": 162146,
-      "name": "Cheque En Blanco - Live",
-      "url": "https://open.spotify.com/track/2aqarSktx1bU8WrZE9lW1X"
+      "duration_ms": 265853,
+      "name": "Himno A La Humildad",
+      "url": "https://open.spotify.com/track/73VnO22Ad7K9lJSpUZT9QT"
     },
     {
       "added_at": "2024-07-03 18:18:42",

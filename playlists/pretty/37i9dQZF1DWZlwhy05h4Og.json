@@ -1,12 +1,12 @@
 {
   "description": "The sweetest bops. Cover: BINI",
-  "num_followers": 72335,
+  "num_followers": 72358,
   "original_name": "SUGAR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANlnnBOqjDQjUvsQnvT+kknjN6+j",
+  "snapshot_id": "AAAAAE2eLanOiOPfIG7e3Qc5HIAgQlMd",
   "tracks": [
     {
       "added_at": "2026-04-10 14:20:23",
@@ -25,10 +25,10 @@
       "url": "https://open.spotify.com/track/1yhQJwdcU0HAwAKZdRURfM"
     },
     {
-      "added_at": "2026-04-07 02:40:52",
+      "added_at": "2026-05-04 16:15:31",
       "album": {
-        "name": "Bubee",
-        "url": "https://open.spotify.com/album/1Tisomh3VWj3TeI8bFG5Tr"
+        "name": "MAMIHLAPINATAPAI",
+        "url": "https://open.spotify.com/album/5VIt2dA2StboE900mllWdJ"
       },
       "artists": [
         {
@@ -36,9 +36,41 @@
           "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
         }
       ],
-      "duration_ms": 182448,
-      "name": "Bubee",
-      "url": "https://open.spotify.com/track/3Y2pwdrZKIOUqK0HvsWf0c"
+      "duration_ms": 138284,
+      "name": "It's Me",
+      "url": "https://open.spotify.com/track/1D5L58KLBbceOynTP4DQnY"
+    },
+    {
+      "added_at": "2026-05-04 16:15:31",
+      "album": {
+        "name": "CELEBRATION",
+        "url": "https://open.spotify.com/album/47nSJKWgIL0t2zFQCUemaL"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "duration_ms": 153000,
+      "name": "CELEBRATION",
+      "url": "https://open.spotify.com/track/7Cy79KgYPsjOTX7VITI1U1"
+    },
+    {
+      "added_at": "2026-04-10 14:20:23",
+      "album": {
+        "name": "PINKY UP",
+        "url": "https://open.spotify.com/album/5tLy0MEMDVqiHKso6B4jnz"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "duration_ms": 131437,
+      "name": "PINKY UP",
+      "url": "https://open.spotify.com/track/4KmkJjHTNlr1jFY56Lyz4E"
     },
     {
       "added_at": "2026-04-10 14:20:23",
@@ -107,22 +139,6 @@
       "duration_ms": 200089,
       "name": "Bittersweet",
       "url": "https://open.spotify.com/track/1fDbHRMmrjT0Jhkj5gOb2l"
-    },
-    {
-      "added_at": "2026-04-10 14:20:23",
-      "album": {
-        "name": "PINKY UP",
-        "url": "https://open.spotify.com/album/5tLy0MEMDVqiHKso6B4jnz"
-      },
-      "artists": [
-        {
-          "name": "KATSEYE",
-          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
-        }
-      ],
-      "duration_ms": 131437,
-      "name": "PINKY UP",
-      "url": "https://open.spotify.com/track/4KmkJjHTNlr1jFY56Lyz4E"
     },
     {
       "added_at": "2026-04-07 02:40:52",
@@ -795,22 +811,6 @@
       "duration_ms": 136627,
       "name": "Mantra",
       "url": "https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb"
-    },
-    {
-      "added_at": "2026-04-07 02:40:52",
-      "album": {
-        "name": "CRAZY",
-        "url": "https://open.spotify.com/album/538vEfAgLJ6g2I8ubuOlap"
-      },
-      "artists": [
-        {
-          "name": "LE SSERAFIM",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
-        }
-      ],
-      "duration_ms": 164554,
-      "name": "CRAZY",
-      "url": "https://open.spotify.com/track/3AoEQRuFf8zVXWqSLo2UOi"
     },
     {
       "added_at": "2026-04-07 02:40:52",

@@ -4,7 +4,7 @@
 
 > Hip Hop and Rap songs guaranteed to get you hyped\. Cover: Blaqbonez
 
-637 songs - 1 day 7 hr 49 min
+638 songs - 1 day 7 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -404,7 +404,7 @@
 | [No Joke](https://open.spotify.com/track/2HvW7GzIbiRQGAGytSBQz6) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [No Joke](https://open.spotify.com/album/6N9L2cPBhx54BGLIQBZzvj) | 2:42 | 2023-11-10 | 2024-02-03 |
 | [No More](https://open.spotify.com/track/7cNUMPXO8gGjKnKkXVn5T0) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [No More](https://open.spotify.com/album/1xoLz54rjNeQpRmfQB2BZk) | 3:02 | 2023-06-29 | 2025-06-28 |
 | [NO MÁS \(feat\. Quavo, J\. Balvin, Anitta, and Pharrell\)](https://open.spotify.com/track/0ZWNQi6wgNjKFcQx6QuLm0) | [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [NO MÁS \(feat\. Quavo, J\. Balvin, Anitta, and Pharrell\)](https://open.spotify.com/album/1S9RtU8lIT4oTtaE4GFuNT) | 3:16 | 2022-07-27 | 2023-04-28 |
-| [No Option](https://open.spotify.com/track/3mxm7OJDadZK1HYN9ZP8gf) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Gbagada Express Vol 2: Moving Mad](https://open.spotify.com/album/7bFrLfofeujIbvs4WcHn3p) | 2:32 | 2023-06-02 |  |
+| [No Option](https://open.spotify.com/track/3mxm7OJDadZK1HYN9ZP8gf) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Gbagada Express Vol 2: Moving Mad](https://open.spotify.com/album/7bFrLfofeujIbvs4WcHn3p) | 2:32 | 2023-06-02 | 2026-05-05 |
 | [No Regrets](https://open.spotify.com/track/1Bi8XmQs9vNPPkMQ3wyOux) | [Blackway](https://open.spotify.com/artist/1QvK8bFc2WREH4LDlJcJbi), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [No Regrets](https://open.spotify.com/album/7nmxATrQKN8u04O0IASv0b) | 2:25 | 2024-01-05 | 2024-01-21 |
 | [NO SECRET \(feat\. Drake\)](https://open.spotify.com/track/1Gb6r4iX8w60t6OFTvWI4K) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [GOD DID](https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50) | 0:47 | 2022-08-26 | 2023-02-06 |
 | [No Sharing \(feat\. Luh Tyler\)](https://open.spotify.com/track/3C6F5YZOGUVURgkkgLzwa2) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [No Sharing \(feat\. Luh Tyler\)](https://open.spotify.com/album/4r7ka5fpiOgHI2DuE3nqLT) | 3:31 | 2025-08-08 | 2026-03-27 |
@@ -444,6 +444,7 @@
 | [Open The Front Door](https://open.spotify.com/track/4kqpXbmZyHMwVByAV6mdtP) | [Omotee](https://open.spotify.com/artist/3a4SFbgqSV3PtCDSPL6FLt), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Open The Front Door](https://open.spotify.com/album/3s6R1QUm992adma0tFufO6) | 2:49 | 2023-04-14 | 2023-04-21 |
 | [Oppress](https://open.spotify.com/track/0Xp3jkTLbquF9DVII3VDsT) | [DanDizzy](https://open.spotify.com/artist/6xXPMuWSjIYafdBhXLpVZK), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk), [DTG](https://open.spotify.com/artist/6kZWqUZqptyxb8Ki5DyBAg), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Oppress](https://open.spotify.com/album/4DS8vOME5sr3exIbiodfK4) | 3:42 | 2025-03-07 | 2025-03-22 |
 | [Options \(feat\. Lil Baby\)](https://open.spotify.com/track/4oQ49ddwS8JEatZvzObZIy) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Options \(feat\. Lil Baby\)](https://open.spotify.com/album/4KKJBvUhEHZpW6vJPp3aKR) | 2:32 | 2024-10-18 | 2025-03-07 |
+| [Orishirishi](https://open.spotify.com/track/17OusDSt07Pg76wxPbE25r) | [Reeplay](https://open.spotify.com/artist/2UausQcu26M23zEr5rUODB), [Dremo](https://open.spotify.com/artist/47fErV0VDIx6PmuhtWGTYu) | [Pick 2](https://open.spotify.com/album/4KkP6qfBV2UbZWXYtORZp7) | 3:19 | 2026-05-01 |  |
 | [Out the Mud](https://open.spotify.com/track/0vFqhxaJg7WrNmMoHHxAAK) | [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [Out the Mud](https://open.spotify.com/album/6Gj0e4m1LwALsd3iI8vI1q) | 2:26 | 2025-05-09 |  |
 | [Out thë way](https://open.spotify.com/track/6IyoLWzljeR3ldQo4KWHT6) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Lyfë](https://open.spotify.com/album/6Xo2PDEoQKzCndIbks2kvu) | 2:30 | 2023-03-11 | 2023-03-31 |
 | [Outside](https://open.spotify.com/track/139nLHDFZNr3anx8CpUy7u) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Outside](https://open.spotify.com/album/3yFZYSdLY7V209cDXPEeae) | 3:26 | 2025-06-20 | 2025-08-26 |

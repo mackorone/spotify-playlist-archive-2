@@ -1,6 +1,6 @@
 {
   "description": "Mellow songs from the 1950s. Cover: Frank Sinatra.",
-  "num_followers": 530615,
+  "num_followers": 530658,
   "original_name": "Soft 50s",
   "owner": {
     "name": "Spotify",
@@ -43,8 +43,8 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "Love, Ella",
-        "url": "https://open.spotify.com/album/1y5KGkUKO0NG32MhIIagCA"
+        "name": "Porgy And Bess",
+        "url": "https://open.spotify.com/album/1vvnTmmNWnGmqvVFjVIINf"
       },
       "artists": [
         {
@@ -56,9 +56,9 @@
           "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
         }
       ],
-      "duration_ms": 185160,
-      "name": "Dream A Little Dream Of Me - Single Version",
-      "url": "https://open.spotify.com/track/78MI7mu1LV1k4IA2HzKmHe"
+      "duration_ms": 298133,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/2gNjmvuQiEd2z9SqyYi8HH"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -131,8 +131,8 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "Porgy And Bess",
-        "url": "https://open.spotify.com/album/1vvnTmmNWnGmqvVFjVIINf"
+        "name": "Love, Ella",
+        "url": "https://open.spotify.com/album/1y5KGkUKO0NG32MhIIagCA"
       },
       "artists": [
         {
@@ -144,9 +144,9 @@
           "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
         }
       ],
-      "duration_ms": 298133,
-      "name": "Summertime",
-      "url": "https://open.spotify.com/track/2gNjmvuQiEd2z9SqyYi8HH"
+      "duration_ms": 185160,
+      "name": "Dream A Little Dream Of Me - Single Version",
+      "url": "https://open.spotify.com/track/78MI7mu1LV1k4IA2HzKmHe"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -627,22 +627,6 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "Ritchie",
-        "url": "https://open.spotify.com/album/4PqrYD6697CVleVCdLJXle"
-      },
-      "artists": [
-        {
-          "name": "Ritchie Valens",
-          "url": "https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P"
-        }
-      ],
-      "duration_ms": 144160,
-      "name": "Stay Beside Me - Single Version",
-      "url": "https://open.spotify.com/track/7zoSpb1iJ0C39KFgwt9dT2"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/5LzeNR0ssOIfaUpNQbthH9"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 164413,
       "name": "You're Gonna Miss Me",
       "url": "https://open.spotify.com/track/1yLsZ8fuQJqk2cm1VDWTGb"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
+        "name": "Ritchie",
+        "url": "https://open.spotify.com/album/4PqrYD6697CVleVCdLJXle"
+      },
+      "artists": [
+        {
+          "name": "Ritchie Valens",
+          "url": "https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P"
+        }
+      ],
+      "duration_ms": 144160,
+      "name": "Stay Beside Me - Single Version",
+      "url": "https://open.spotify.com/track/7zoSpb1iJ0C39KFgwt9dT2"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -691,22 +691,6 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "25 All-Time Greatest Hits",
-        "url": "https://open.spotify.com/album/7kcp2w8QADWNtzNJXRbgN8"
-      },
-      "artists": [
-        {
-          "name": "Frankie Avalon",
-          "url": "https://open.spotify.com/artist/5zNOI87gG4RttFmYAZWaxQ"
-        }
-      ],
-      "duration_ms": 143760,
-      "name": "Venus",
-      "url": "https://open.spotify.com/track/1odzZRPb3CvbIT2xU5vFma"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
         "name": "Unforgettable",
         "url": "https://open.spotify.com/album/7GBvXtxnvBluo2f4xBVNkm"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 197200,
       "name": "Red Sails In The Sunset",
       "url": "https://open.spotify.com/track/01JYtQf53bne6dOGzrneNU"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
+        "name": "25 All-Time Greatest Hits",
+        "url": "https://open.spotify.com/album/7kcp2w8QADWNtzNJXRbgN8"
+      },
+      "artists": [
+        {
+          "name": "Frankie Avalon",
+          "url": "https://open.spotify.com/artist/5zNOI87gG4RttFmYAZWaxQ"
+        }
+      ],
+      "duration_ms": 143760,
+      "name": "Venus",
+      "url": "https://open.spotify.com/track/1odzZRPb3CvbIT2xU5vFma"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "Since I Don't Have You",
-        "url": "https://open.spotify.com/album/68AidMa2IJie0sDbMpuwBL"
-      },
-      "artists": [
-        {
-          "name": "The Skyliners",
-          "url": "https://open.spotify.com/artist/4JeG1IusHcsL2owYnsJ7wk"
-        }
-      ],
-      "duration_ms": 160573,
-      "name": "Since I Don't Have You",
-      "url": "https://open.spotify.com/track/1vkbmoEPyp1MxrfWvmV5KD"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/5Okmxm0sMbAifTrTd2dTy2"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 168706,
       "name": "True Love Ways",
       "url": "https://open.spotify.com/track/7ljPNANyoIDc7sL0PWaJlu"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
+        "name": "Since I Don't Have You",
+        "url": "https://open.spotify.com/album/68AidMa2IJie0sDbMpuwBL"
+      },
+      "artists": [
+        {
+          "name": "The Skyliners",
+          "url": "https://open.spotify.com/artist/4JeG1IusHcsL2owYnsJ7wk"
+        }
+      ],
+      "duration_ms": 160573,
+      "name": "Since I Don't Have You",
+      "url": "https://open.spotify.com/track/1vkbmoEPyp1MxrfWvmV5KD"
     },
     {
       "added_at": "2022-05-30 12:59:00",

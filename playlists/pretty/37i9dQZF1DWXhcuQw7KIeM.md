@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXhcuQw7KIeM.md) - [plain]
 
 > From the very deep spirit of the almighty North.
 
-[Spotify](https://open.spotify.com/user/spotify) - 584,531 likes - 75 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 584,641 likes - 75 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXhcuQw7KIeM.md) - [plain]
 | 53 | [Akva \- Live](https://open.spotify.com/track/5sCfp94Viu01VFQlNL1Zf2) | [KAUAN](https://open.spotify.com/artist/2QgzO1Z5XYu9zj3nOYsXUa) | [Akva \(Live\)](https://open.spotify.com/album/0vJfKqs1FC63IShbggiyyu) | 6:44 |
 | 54 | [Shelter](https://open.spotify.com/track/2WBybEifpPpXx38HUUegV5) | [Equilibrium](https://open.spotify.com/artist/5KvkOKroKLz202ioXfGWR2) | [Shelter](https://open.spotify.com/album/1mznHNl2GKfIdiZYZThVsM) | 4:39 |
 | 55 | [Sun and the Morning Star](https://open.spotify.com/track/5UcGAYuUcxiGt7Wc2SwWBu) | [Romuvos](https://open.spotify.com/artist/0GlwrXB5cmvWo091lMFeud) | [Sun and the Morning Star](https://open.spotify.com/album/5Lg1rhYDzoYgL6XFEnHnKA) | 5:23 |
-| 56 | [Set the Sails](https://open.spotify.com/track/6ZOx4ehXa8K2LESIQzIaqA) | [Storm Seeker](https://open.spotify.com/artist/4zAK8a87dIdPw6xRYvsr4c) | [Set the Sails](https://open.spotify.com/album/32yJV9RCY9rHW8Hc2isL1c) | 3:16 |
-| 57 | [Relics of the Natural Realm](https://open.spotify.com/track/5cbnif2ROYIXzqWWJ6ZUMa) | [Sojourner](https://open.spotify.com/artist/0XFkf3NSP76nB7zhzPdM9X) | [Perennial](https://open.spotify.com/album/3zxt9rDcbBMJBPL6fmgTeJ) | 5:20 |
+| 56 | [Relics of the Natural Realm](https://open.spotify.com/track/5cbnif2ROYIXzqWWJ6ZUMa) | [Sojourner](https://open.spotify.com/artist/0XFkf3NSP76nB7zhzPdM9X) | [Perennial](https://open.spotify.com/album/3zxt9rDcbBMJBPL6fmgTeJ) | 5:20 |
+| 57 | [Set the Sails](https://open.spotify.com/track/6ZOx4ehXa8K2LESIQzIaqA) | [Storm Seeker](https://open.spotify.com/artist/4zAK8a87dIdPw6xRYvsr4c) | [Set the Sails](https://open.spotify.com/album/32yJV9RCY9rHW8Hc2isL1c) | 3:16 |
 | 58 | [Hersir](https://open.spotify.com/track/14peV9O1Fm2QpOIzesUudO) | [Hulkoff](https://open.spotify.com/artist/2ztj3MdrAuEMrU1P4HrZwH) | [Hersir](https://open.spotify.com/album/0A00Ykp2mAq35Ob6sQmqzD) | 2:25 |
 | 59 | [Saga of the North](https://open.spotify.com/track/5YuyHtVMCHDEcaNGgiTQOL) | [Tokt](https://open.spotify.com/artist/01CEsyk6W2k8Pgw5TrEty0) | [Tales from the North](https://open.spotify.com/album/3BG4tlGVST1q4yrHshwHLx) | 3:32 |
 | 60 | [Anaia](https://open.spotify.com/track/3zV5XvBjP9uvQlfW2z7hCC) | [IANAI](https://open.spotify.com/artist/1yGcDrrvQWSoki7RrXWPhh), [Client N](https://open.spotify.com/artist/4ItT2MdjEl4l5HrxkWT9QF) | [Sunir](https://open.spotify.com/album/4LmG2mr04QCWGQ51SiDrWA) | 6:38 |
@@ -77,11 +77,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXhcuQw7KIeM.md) - [plain]
 | 67 | [Crystalline](https://open.spotify.com/track/40Wmu8qja6oJYzDsZ4jek5) | [Suldusk](https://open.spotify.com/artist/27bhelNsrdlX5Y5H7yigfg) | [Crystalline](https://open.spotify.com/album/4qhT2L4SCZdvBz51rkdJ6u) | 5:48 |
 | 68 | [Malströmsbrus](https://open.spotify.com/track/2iaTeZJ8QD2ZS312KQTBgV) | [Vintersorg](https://open.spotify.com/artist/6LfdGx71ZHRWgP4tBRmQf6) | [Malströmsbrus](https://open.spotify.com/album/4961f5lFlgmf38sd9K5wgl) | 6:43 |
 | 69 | [Die Welle](https://open.spotify.com/track/3r46i87MmG57Nmrrnfo2Mj) | [Rauhbein](https://open.spotify.com/artist/0neCOkQjYXJMLW7cvOw6fe) | [Die Welle](https://open.spotify.com/album/7KTsLcGCa66kwmjYsXCTZl) | 4:42 |
-| 70 | [Wulfwiga](https://open.spotify.com/track/37g06WD4w62ipxpBIbQN16) | [Sowulo](https://open.spotify.com/artist/4BkdqpIEhl0tKZ5xpAo5pR) | [Mann](https://open.spotify.com/album/7K6iSnHtArU3SaXBFseCob) | 4:16 |
+| 70 | [Ymir](https://open.spotify.com/track/6OMd2Tyoo1t331SqqnTdKR) | [Danheim](https://open.spotify.com/artist/1J1DiyVfll4d0cos64VSZb), [Gealdýr](https://open.spotify.com/artist/0T3UezATgzQo2sJkjzEsmM) | [Ymir](https://open.spotify.com/album/4nlE0mUHyiIe7Tdk6Jse5o) | 4:17 |
 | 71 | [Midvinter](https://open.spotify.com/track/1qlSpiCwjxCsD2VVWpJV1H) | [Ereb Altor](https://open.spotify.com/artist/11sL6ZJmmfutSoWopcXbFm) | [Midvinter](https://open.spotify.com/album/6OPbBT3bjSX3Md6lPIznjy) | 6:32 |
-| 72 | [Helvegen](https://open.spotify.com/track/3TEHaGREmft4lec2TrcR8C) | [Wardruna](https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA) | [Runaljod – Yggdrasil](https://open.spotify.com/album/0rA5rQVW5kPq0SmUGFtbO1) | 7:11 |
-| 73 | [Hausbrjótr \- Skullcrusher](https://open.spotify.com/track/3rcDnOMm4TCKE0f2FZ54Pt) | [Einar Selvik](https://open.spotify.com/artist/4QwiYnKp4dh2PTv1Vgw3c5) | [Assassin's Creed Valhalla: The Ravens Saga \(Original Soundtrack\)](https://open.spotify.com/album/5gxCjYgosIC6xWfQd9Px7K) | 5:15 |
-| 74 | [Hemkomst](https://open.spotify.com/track/6zZ4iLIL9u8ozZ9DllB7ln) | [Forndom](https://open.spotify.com/artist/1DO3ytbfXlJUOoy77yH7IH) | [Faþir](https://open.spotify.com/album/7cOPDPI7NelUNNmbw8pHPC) | 5:40 |
-| 75 | [Ymir](https://open.spotify.com/track/6OMd2Tyoo1t331SqqnTdKR) | [Danheim](https://open.spotify.com/artist/1J1DiyVfll4d0cos64VSZb), [Gealdýr](https://open.spotify.com/artist/0T3UezATgzQo2sJkjzEsmM) | [Ymir](https://open.spotify.com/album/4nlE0mUHyiIe7Tdk6Jse5o) | 4:17 |
+| 72 | [Wulfwiga](https://open.spotify.com/track/37g06WD4w62ipxpBIbQN16) | [Sowulo](https://open.spotify.com/artist/4BkdqpIEhl0tKZ5xpAo5pR) | [Mann](https://open.spotify.com/album/7K6iSnHtArU3SaXBFseCob) | 4:16 |
+| 73 | [Hemkomst](https://open.spotify.com/track/6zZ4iLIL9u8ozZ9DllB7ln) | [Forndom](https://open.spotify.com/artist/1DO3ytbfXlJUOoy77yH7IH) | [Faþir](https://open.spotify.com/album/7cOPDPI7NelUNNmbw8pHPC) | 5:40 |
+| 74 | [Helvegen](https://open.spotify.com/track/3TEHaGREmft4lec2TrcR8C) | [Wardruna](https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA) | [Runaljod – Yggdrasil](https://open.spotify.com/album/0rA5rQVW5kPq0SmUGFtbO1) | 7:11 |
+| 75 | [Hausbrjótr \- Skullcrusher](https://open.spotify.com/track/3rcDnOMm4TCKE0f2FZ54Pt) | [Einar Selvik](https://open.spotify.com/artist/4QwiYnKp4dh2PTv1Vgw3c5) | [Assassin's Creed Valhalla: The Ravens Saga \(Original Soundtrack\)](https://open.spotify.com/album/5gxCjYgosIC6xWfQd9Px7K) | 5:15 |
 
 Snapshot ID: `AAAAAOIaNZmlIkqLyHeTv3KMI2LpJtjY`

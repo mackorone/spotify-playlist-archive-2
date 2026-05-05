@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 
 > いま話題の曲を週末にまとめてチェック。Cover: 嵐
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,277 likes - 60 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,270 likes - 59 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,6 +67,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 | 57 | [This is who I am](https://open.spotify.com/track/1yBrxyqT56pCeCxmKQ1MkE) | [NOAHRI](https://open.spotify.com/artist/09tiq23cyNN66fhNuj6rB8) | [ODYSSEY](https://open.spotify.com/album/532BH4vaymoFHPTLqowQ5k) | 3:49 |
 | 58 | [Beat It](https://open.spotify.com/track/3BovdzfaX4jb5KFQwoPfAw) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ) | 4:18 |
 | 59 | [サイレン](https://open.spotify.com/track/3eUiKQbxK0wknnKodmvOlA) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [サイレン](https://open.spotify.com/album/67i9p8iI1wU1tszaQjM0lM) | 3:23 |
-| 60 | [Fire In My Soul](https://open.spotify.com/track/6WuEfJMRmX865YsvnM9Rpv) | [Charin Mendes](https://open.spotify.com/artist/0oAHxVBwb9WKz52MCCz6YP) | [Fire In My Soul](https://open.spotify.com/album/2WclcQl5tY72h0qFGubkbH) | 3:41 |
 
-Snapshot ID: `AAAAABIbBxZhZM08YVKfApw6vDNsRqPe`
+Snapshot ID: `AAAAAKQgn9YGpYNiD8E0YCyTGKZirtsE`

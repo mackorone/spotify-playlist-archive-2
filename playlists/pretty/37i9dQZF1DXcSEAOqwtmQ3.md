@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSEAOqwtmQ3.md) - [plain]
 
 > Kick nostalgia up a notch with these throwback bangers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,199 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,213 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,19 +32,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSEAOqwtmQ3.md) - [plain]
 | 22 | [Yori Yori](https://open.spotify.com/track/1zPbuWCj1bx0MyDUdFnTF8) | [Bracket](https://open.spotify.com/artist/6yd6lB5T20BZjUVkSlwojA) | [Least Expected](https://open.spotify.com/album/0CHBnB0nEDMhjNe1izWpoc) | 3:38 |
 | 23 | [Dangote](https://open.spotify.com/track/7JbaXy70jy2d2kHLvks8Ei) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [African Giant](https://open.spotify.com/album/277z75G1Gdz0SWN9pegrrs) | 3:45 |
 | 24 | [Dumebi](https://open.spotify.com/track/6CJD4LDNULzE645JA2XHpx) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rema Compilation](https://open.spotify.com/album/5H6TAMOUgLUX1RfSOG1Al5) | 2:59 |
-| 25 | [FIA](https://open.spotify.com/track/6sfdU1tGLpXhjjLjGJa0zA) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [FIA](https://open.spotify.com/album/7kknjkTumdJA57Ogy0Fq7Z) | 3:34 |
+| 25 | [Pana](https://open.spotify.com/track/3ddd0nUY2jZtPYzg0r0wTb) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Pana](https://open.spotify.com/album/62sUZK9tqrSH3AMg4gOSmz) | 4:02 |
 | 26 | [My Woman, My Everything \(feat\. Wandecoal\)](https://open.spotify.com/track/5MAScTGPHzWAeivPjpATa9) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [My Woman, My Everything \(feat\. Wandecoal\) \- Single](https://open.spotify.com/album/0cUhwhoX9Yi7vhJgHfgRm4) | 3:53 |
-| 27 | [Pana](https://open.spotify.com/track/3ddd0nUY2jZtPYzg0r0wTb) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Pana](https://open.spotify.com/album/62sUZK9tqrSH3AMg4gOSmz) | 4:02 |
+| 27 | [FIA](https://open.spotify.com/track/6sfdU1tGLpXhjjLjGJa0zA) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [FIA](https://open.spotify.com/album/7kknjkTumdJA57Ogy0Fq7Z) | 3:34 |
 | 28 | [Love My Baby](https://open.spotify.com/track/7xdHQUxVj0aOAvUOGLCYj3) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Superstar](https://open.spotify.com/album/16xW2AvG6yVXJJ0ZYJ5Dlb) | 4:06 |
 | 29 | [Electric \(feat\. Wizkid & London\)](https://open.spotify.com/track/2g59YEtG3OZq3lp4eDj97p) | [StarBoy](https://open.spotify.com/artist/6w2IGYYbcQENdjdjU2IFo4), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [London](https://open.spotify.com/artist/48XO5sXDsZ0NgyVmGT5qxW) | [SoundMan Vol\. 1](https://open.spotify.com/album/5nhLODdncnkg3rVlzva3YY) | 2:58 |
-| 30 | [Risky](https://open.spotify.com/track/56HnJIjgi41kpjh6L3Y1Ca) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Risky](https://open.spotify.com/album/5xqH5tZFoMLLJL8NbmTFBu) | 4:30 |
-| 31 | [Oleku \(feat\. Brymo\)](https://open.spotify.com/track/0mDRuZmReEm6DquPLJlcEm) | [Ice Prince](https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn), [Brymo](https://open.spotify.com/artist/094nOQ29vLC8FjZ3PhnM2u) | [Oleku \(feat\. Brymo\)](https://open.spotify.com/album/2mHvknGmv5MyUlTeoD7KBc) | 4:51 |
-| 32 | [Obianuju](https://open.spotify.com/track/12n8d0AfedBQysTcN4Tg6W) | [Duncan Mighty](https://open.spotify.com/artist/5N47dnIfPuGH8kIHpf8gZK) | [Legacy \(Ahamefuna\)](https://open.spotify.com/album/5qfyyCq5qZYIlpeBhE0Bl2) | 3:41 |
+| 30 | [Oleku \(feat\. Brymo\)](https://open.spotify.com/track/0mDRuZmReEm6DquPLJlcEm) | [Ice Prince](https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn), [Brymo](https://open.spotify.com/artist/094nOQ29vLC8FjZ3PhnM2u) | [Oleku \(feat\. Brymo\)](https://open.spotify.com/album/2mHvknGmv5MyUlTeoD7KBc) | 4:51 |
+| 31 | [Obianuju](https://open.spotify.com/track/12n8d0AfedBQysTcN4Tg6W) | [Duncan Mighty](https://open.spotify.com/artist/5N47dnIfPuGH8kIHpf8gZK) | [Legacy \(Ahamefuna\)](https://open.spotify.com/album/5qfyyCq5qZYIlpeBhE0Bl2) | 3:41 |
+| 32 | [Risky](https://open.spotify.com/track/56HnJIjgi41kpjh6L3Y1Ca) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Risky](https://open.spotify.com/album/5xqH5tZFoMLLJL8NbmTFBu) | 4:30 |
 | 33 | [Don't Dull](https://open.spotify.com/track/7AT7oI9QTl5OAulYItiz6v) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Superstar](https://open.spotify.com/album/16xW2AvG6yVXJJ0ZYJ5Dlb) | 4:39 |
 | 34 | [See Me So](https://open.spotify.com/track/0RdXMS28fH63l6Is3eHZXM) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [VIP](https://open.spotify.com/artist/38wGnQ9uC7XyV0TFHaEiO4) | [Grass 2 Grace](https://open.spotify.com/album/37wGpWfZrk5wZax5cdJVSA) | 4:40 |
-| 35 | [Blow My Mind](https://open.spotify.com/track/1xJTW86sJ1OoloXeOret6t) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Blow My Mind](https://open.spotify.com/album/31Z5vOXMKPSZjpERQHtaSp) | 3:19 |
-| 36 | [Corny](https://open.spotify.com/track/2LOlSWqi18gZeJb5aZ63dE) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rema Compilation](https://open.spotify.com/album/5H6TAMOUgLUX1RfSOG1Al5) | 3:47 |
-| 37 | [Portharcourt Son](https://open.spotify.com/track/0PI1HlGuWWQPdXSRvLqOSS) | [Duncan Mighty](https://open.spotify.com/artist/5N47dnIfPuGH8kIHpf8gZK) | [Legacy \(Ahamefuna\)](https://open.spotify.com/album/5qfyyCq5qZYIlpeBhE0Bl2) | 5:45 |
+| 35 | [Corny](https://open.spotify.com/track/2LOlSWqi18gZeJb5aZ63dE) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rema Compilation](https://open.spotify.com/album/5H6TAMOUgLUX1RfSOG1Al5) | 3:47 |
+| 36 | [Portharcourt Son](https://open.spotify.com/track/0PI1HlGuWWQPdXSRvLqOSS) | [Duncan Mighty](https://open.spotify.com/artist/5N47dnIfPuGH8kIHpf8gZK) | [Legacy \(Ahamefuna\)](https://open.spotify.com/album/5qfyyCq5qZYIlpeBhE0Bl2) | 5:45 |
+| 37 | [Blow My Mind](https://open.spotify.com/track/1xJTW86sJ1OoloXeOret6t) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Blow My Mind](https://open.spotify.com/album/31Z5vOXMKPSZjpERQHtaSp) | 3:19 |
 | 38 | [Ara](https://open.spotify.com/track/4WS3bhnGgDjxwtAUWaPyNW) | [Brymo](https://open.spotify.com/artist/094nOQ29vLC8FjZ3PhnM2u) | [\#TheSonOfaKapenta](https://open.spotify.com/album/6IQebSMfM7Hnm7hgoJf8mU) | 4:13 |
 | 39 | [The Mood](https://open.spotify.com/track/6gHUiXF4BiJ9d7biTNmdKR) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Chulo Vibes](https://open.spotify.com/album/1JlzIGbFMWsyL5WBEADj6Q) | 2:41 |
 | 40 | [Over The Moon Ft\. K\-Switch](https://open.spotify.com/track/3R963wuVpbDXyzKHUS25Tc) | [Dr SID](https://open.spotify.com/artist/1A1IEvjX2MyuMXDDsSW8sD) | [Turning Point](https://open.spotify.com/album/2FwDRA8NiC7IoaO9V3AH8k) | 3:53 |

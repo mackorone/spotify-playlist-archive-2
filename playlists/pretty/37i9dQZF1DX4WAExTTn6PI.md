@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WAExTTn6PI.md) - [plain]
 
 > Rising voices, enduring roots\. Cover:  Fancy Hagood
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,764 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,772 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WAExTTn6PI.md) - [plain]
 | 40 | [Dream Song](https://open.spotify.com/track/4rtDHsmEdYnQ90V0LLAOtD) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Dream Song](https://open.spotify.com/album/7hB4iSq2vdaVMJ5esXxe6t) | 4:35 |
 | 41 | [Black Bird](https://open.spotify.com/track/12K1fspXetlrNt5nGdLcmb) | [Destinie Lynn](https://open.spotify.com/artist/06s9YMqa9jvRYKKE2qrLrb) | [Black Bird](https://open.spotify.com/album/2RDbuNxjXQ3q45FUgGuW2k) | 2:39 |
 | 42 | [Nothing's Wrong](https://open.spotify.com/track/3ejswiDrCHaq6OxOB21iLe) | [Jacob McCoy](https://open.spotify.com/artist/1ZF1pknOx8smpDfSgsb7uh) | [Nothing's Wrong](https://open.spotify.com/album/12LA0B9aSUiE5zaTydkFnr) | 3:42 |
-| 43 | [The Boy And The Swan](https://open.spotify.com/track/3OhnER1sVL5LlIdeBAvkFZ) | [Bird](https://open.spotify.com/artist/2bdmTAor9skjnI4YX2Uk6N) | [The Boy And The Swan](https://open.spotify.com/album/1paQiW4t0eYyP4VvERxjjo) | 4:08 |
+| 43 | [The Boy And The Swan](https://open.spotify.com/track/3OhnER1sVL5LlIdeBAvkFZ) | [Bird](https://open.spotify.com/artist/2bdmTAor9skjnI4YX2Uk6N) | [The Boy And The Swan](https://open.spotify.com/album/1paQiW4t0eYyP4VvERxjjo) | 4:09 |
 | 44 | [Reds](https://open.spotify.com/track/2LKf1r9pY8BhAOa9cRiLxG) | [Olivia Barnes](https://open.spotify.com/artist/6OlUNIT9FUO9BkFDPrixVa) | [Reds](https://open.spotify.com/album/7tCBbhU2CJKzXpSN10tx1w) | 3:35 |
 | 45 | [Riding in Cars with Boys](https://open.spotify.com/track/0w9ioOmHyRtTDQS0fpB7J3) | [Hannah Jane Lewis](https://open.spotify.com/artist/62ih54WQXcbwFrvhffPxcq) | [Riding in Cars with Boys](https://open.spotify.com/album/2FWLYpxwKgpfV2pixWzzto) | 3:12 |
 | 46 | [Angela](https://open.spotify.com/track/0Cktuhx8xiuQe78Ewr8f26) | [Hayden Everett](https://open.spotify.com/artist/6sIPNR4ZDctKr2OSiAVtBc) | [Angela](https://open.spotify.com/album/10Pn7wMH8XWsMtgZihYlnM) | 3:32 |

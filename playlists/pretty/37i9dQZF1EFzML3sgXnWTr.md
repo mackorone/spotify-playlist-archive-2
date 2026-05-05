@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzML3sgXnWTr.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2RXuZnFEt8P7rr9UUIsyZo">Alessandro La Cava</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,901 likes - 94 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,902 likes - 94 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzML3sgXnWTr.md) - [plain]
 | 64 | [DI TUTTI](https://open.spotify.com/track/24cXuGIIlZKOsBztMwgrEK) | [Jacopo Sol](https://open.spotify.com/artist/5aKF7BwuAUUSdteoSkq5ng) | [DI TUTTI](https://open.spotify.com/album/73wOQCcvqPi9oQQ2yTRbby) | 3:24 |
 | 65 | [VITA LENTA](https://open.spotify.com/track/6iqB8oRV4rhzHv6iSVkeah) | [Emma](https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX) | [SOUVENIR \(Extended Edition\)](https://open.spotify.com/album/7JajfTaMnKAwz3BcM67Zx9) | 2:10 |
 | 66 | [luci allo xeno](https://open.spotify.com/track/3zBsXyqrOj6QVVoGJtjOaZ) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [luci allo xeno](https://open.spotify.com/album/78ItbaiDnbYt7cy9ecMUmN) | 2:53 |
-| 67 | [Standard](https://open.spotify.com/track/3y34Oj2rgQ2wrXsWpIFJH8) | [Vybes](https://open.spotify.com/artist/1CCl7am3EnML5UThCzoVJE) | [Standard](https://open.spotify.com/album/16hacsVcvQ2w9oQK5lRw0p) | 3:05 |
-| 68 | [Lame \(feat\. CLARA, Tedua\)](https://open.spotify.com/track/5sHB0BW7azchwsEINurkIM) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2), [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [GLORIA](https://open.spotify.com/album/6mygYhUqwT2zaoPcuCBBwf) | 2:28 |
+| 67 | [Lame \(feat\. CLARA, Tedua\)](https://open.spotify.com/track/5sHB0BW7azchwsEINurkIM) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2), [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [GLORIA](https://open.spotify.com/album/6mygYhUqwT2zaoPcuCBBwf) | 2:28 |
+| 68 | [Standard](https://open.spotify.com/track/3y34Oj2rgQ2wrXsWpIFJH8) | [Vybes](https://open.spotify.com/artist/1CCl7am3EnML5UThCzoVJE) | [Standard](https://open.spotify.com/album/16hacsVcvQ2w9oQK5lRw0p) | 3:05 |
 | 69 | [La Storia Più Bella Di Sempre](https://open.spotify.com/track/5Dwi8UxcZkZ74C7tYzRqGv) | [Will](https://open.spotify.com/artist/7qIrqNF6i1kRLkGLgGXuZq) | [Manchester](https://open.spotify.com/album/1fzL3WefoCP6F7sEzlU8mg) | 2:49 |
 | 70 | [CORALLO \(feat\. chiamamifaro\)](https://open.spotify.com/track/4Ug7Xin5w20S5iI8lH2a1R) | [Lortex](https://open.spotify.com/artist/0ItmqfCN0IYX9N8LcDHj45), [chiamamifaro](https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe) | [CHIAMO](https://open.spotify.com/album/4Kfp3DudUiFoQamrhT4c44) | 3:23 |
 | 71 | [parolacce](https://open.spotify.com/track/61zba7lHT4kUUXrGXLWjjj) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [CADERE VOLARE](https://open.spotify.com/album/5IQdzZjqyRJ9oVIRX6LXPD) | 3:02 |
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzML3sgXnWTr.md) - [plain]
 | 93 | [Non cambia mai](https://open.spotify.com/track/4huAaH4Q2zf6pj6dhiCqOn) | [Luigi Strangis](https://open.spotify.com/artist/7kuB7tieHx2PaQwRTNFcnZ) | [Voglio la gonna](https://open.spotify.com/album/3NNCpZojXm9nasubGE0JTr) | 3:10 |
 | 94 | [Per sempre si](https://open.spotify.com/track/5lzOrsEUpdwykAnwRyoigL) | [Dune Filter](https://open.spotify.com/artist/6ArEC79lELbr2BGaaE3nQM) | [Desert Echoes of Sanremo 2026 \(Remix\)](https://open.spotify.com/album/2oCyg93atTjh8KLZfc2H8N) | 3:16 |
 
-Snapshot ID: `AcQiXgAAAAAiusFb1UoJ/eMGl87MK/0a`
+Snapshot ID: `AcQoMAAAAABDgLPVaD7R/7+dQ2FnbPeS`

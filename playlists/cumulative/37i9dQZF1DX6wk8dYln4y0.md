@@ -4,7 +4,7 @@
 
 > music that just \*hits different\* Cover: grentperez
 
-707 songs - 1 day 14 hr 3 min
+709 songs - 1 day 14 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Bottle Blonde](https://open.spotify.com/track/49k0czI5y5CFTB2P6tcxVS) | [Holly Hebe](https://open.spotify.com/artist/3K511ClkYJM2a9tcaf2R3t) | [Bottle Blonde](https://open.spotify.com/album/6iV7cJxPKSyVwa1chM61FH) | 2:51 | 2024-08-27 | 2024-10-04 |
 | [Bowling alley](https://open.spotify.com/track/47I8eRmRwU4EUX3HUqhFfp) | [Audrey Hobert](https://open.spotify.com/artist/4N0TAwz9vhnQtjCqS65aKS) | [Bowling alley](https://open.spotify.com/album/3d9Fsp7MNINAFJDTdQ5x4k) | 2:34 | 2025-06-26 | 2025-08-22 |
 | [Boy](https://open.spotify.com/track/3eFUpyUIWFMSQ3RvUpxZXu) | [Rol3ert](https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E) | [Boy](https://open.spotify.com/album/78wMwOnARAhRxBv7Q37XOl) | 3:06 | 2026-04-23 |  |
+| [BOY IN RED](https://open.spotify.com/track/7B2ygRXyWZulEpO4G1CHZf) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [IT'S BEEN AWFUL](https://open.spotify.com/album/2ZDgH9uDdjRFNdjEyQCZtH) | 3:09 | 2026-04-30 |  |
 | [boy that's loving you](https://open.spotify.com/track/3zuhn8OqdMQFjrQdlZJ5Hw) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [boy that's loving you](https://open.spotify.com/album/1wjkQnmMpbXyNkMJjmmLgW) | 3:04 | 2026-04-23 |  |
 | [Boy's a liar Pt\. 2](https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Boy's a liar Pt\. 2](https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN) | 2:11 | 2023-03-16 | 2024-02-09 |
 | [Brazil](https://open.spotify.com/track/4sNG6zQBmtq7M8aeeKJRMQ) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [What Do You Think About the Car?](https://open.spotify.com/album/3HJiLDJgWA9Z0MvCxlzHYQ) | 4:12 | 2023-04-17 | 2023-06-11 |
@@ -112,6 +113,7 @@
 | [cardigan](https://open.spotify.com/track/4R2kfaDFhslZEMJqAFNpdd) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 3:59 | 2023-08-25 | 2024-06-19 |
 | [Cards On The Table](https://open.spotify.com/track/56NeC5RB6XA4ctZ8FctwG4) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Cards On The Table](https://open.spotify.com/album/3QOKfNss8qymLZprTy2jox) | 2:56 | 2024-04-11 | 2024-04-19 |
 | [Carry On](https://open.spotify.com/track/5SHtU2P8fASB2tjdOh1jMc) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Carry On](https://open.spotify.com/album/5OJhuYB4q2uBULPe5Lof4g) | 2:48 | 2026-03-26 |  |
+| [Carry the Weight](https://open.spotify.com/track/7p3oJMceNz5skGLw52ZOjY) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [The Great Impersonator \(Deluxe\)](https://open.spotify.com/album/6ehD64XkegXwfsA2hYhkKr) | 3:09 | 2026-04-30 |  |
 | [Casual](https://open.spotify.com/track/3WSOUb3U7tqURbBSgZTrZX) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:52 | 2024-06-04 | 2025-06-13 |
 | [Catch Catch](https://open.spotify.com/track/2O9bMJticxbQ8FH3NiQ7Xh) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) | [LOVE CATCHER](https://open.spotify.com/album/1IxQnpYIIFY9F2IVVsD27F) | 3:00 | 2026-03-19 |  |
 | [Cats on the Ceiling](https://open.spotify.com/track/6cj79wCb9j6UZbB2WQq19P) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Cats on the Ceiling](https://open.spotify.com/album/1mdZldhSr3BhLx3lHNZPow) | 3:33 | 2024-10-17 | 2024-11-15 |
@@ -454,7 +456,7 @@
 | [ONLY U](https://open.spotify.com/track/3QLgzA5l763xGxsOyz0vrS) | [Newport](https://open.spotify.com/artist/3BfSHf6fsuUA1KMXLX1Tur) | [ONLY U](https://open.spotify.com/album/4IXp95i53zj8l0YPoCWdxu) | 3:41 | 2025-09-11 | 2025-10-24 |
 | [Oontz](https://open.spotify.com/track/63edfGFGTKUTejLeFt3oPA) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [Oontz](https://open.spotify.com/album/6u9KEtaprDU8f2IJXR0ODS) | 3:01 | 2024-07-18 | 2024-08-28 |
 | [Open Arms \(feat\. Travis Scott\)](https://open.spotify.com/track/0xaFw2zDYf1rIJWl2dXiSF) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:59 | 2023-05-10 | 2023-05-30 |
-| [ORIGAMI](https://open.spotify.com/track/72NmXqiEP6N6eXBgEBzlWZ) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [SINK NOW, SWIM LATER](https://open.spotify.com/album/3I4wGPLbEK018FP6jk124k) | 3:02 | 2026-01-15 |  |
+| [ORIGAMI](https://open.spotify.com/track/72NmXqiEP6N6eXBgEBzlWZ) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [SINK NOW, SWIM LATER](https://open.spotify.com/album/3I4wGPLbEK018FP6jk124k) | 3:02 | 2026-01-15 | 2026-05-05 |
 | [Out of the Blue](https://open.spotify.com/track/2gyibgga6kveFORdRYvJAu) | [Holly Hebe](https://open.spotify.com/artist/3K511ClkYJM2a9tcaf2R3t), [ioakim](https://open.spotify.com/artist/7rv4I8TmSimvUct7xd7qeE) | [Out of the Blue](https://open.spotify.com/album/5F1WisCbMkTQscHZcDVnvY) | 2:56 | 2024-07-26 | 2024-08-02 |
 | [Pain](https://open.spotify.com/track/4S4QJfBGGrC8jRIjJHf1Ka) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [to hell with it](https://open.spotify.com/album/65YAjLCn7Jp33nJpOxIPMe) | 1:38 | 2023-12-19 | 2024-11-22 |
 | [Painkiller](https://open.spotify.com/track/1YlulsUKDduOmC7WxvXYPW) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Free Time](https://open.spotify.com/album/6b5iXFsc488so2TO4kUHfr) | 3:33 | 2024-02-08 | 2024-02-23 |
@@ -518,7 +520,7 @@
 | [Shinunoga E\-Wa](https://open.spotify.com/track/0o9zmvc5f3EFApU52PPIyW) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [HELP EVER HURT NEVER](https://open.spotify.com/album/1OojCidx0eoPKch2M0Kz31) | 3:05 | 2023-03-16 | 2023-11-10 |
 | [Shooting Star](https://open.spotify.com/track/2qYVrnuPTVaZGuTxkzW4ow) | [Nick Ward](https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9) | [Shooting Star](https://open.spotify.com/album/3vXZeXvMBIgqEQaPeQ57f0) | 2:26 | 2024-04-18 | 2024-06-01 |
 | [Shut up My Moms Calling](https://open.spotify.com/track/3hxIUxnT27p5WcmjGUXNwx) | [Hotel Ugly](https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb) | [Shut up My Moms Calling](https://open.spotify.com/album/4qVzNqB4cskFInYfrC7P0S) | 2:44 | 2023-03-16 | 2024-06-28 |
-| [Shy](https://open.spotify.com/track/2N6md2JtrNake4sJ14KJ72) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [BITE ME](https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN) | 3:12 | 2025-07-31 |  |
+| [Shy](https://open.spotify.com/track/2N6md2JtrNake4sJ14KJ72) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [BITE ME](https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN) | 3:12 | 2025-07-31 | 2026-05-05 |
 | [Shy Girl](https://open.spotify.com/track/2LIOTreGvPk5GdpeGUqYIu) | [Haute & Freddy](https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR) | [Big Disgrace](https://open.spotify.com/album/3iyn2K7YlhKie8qrmUV6lS) | 3:07 | 2026-04-09 |  |
 | [Sideshow](https://open.spotify.com/track/3AfqWj9c2YkDXQiG57maQC) | [Carla Wehbe](https://open.spotify.com/artist/7G8jUNhcaie5DslhcoCB9w) | [Sideshow](https://open.spotify.com/album/200ad5LFRYHGxmUsgja0Xq) | 3:14 | 2024-04-04 | 2024-04-12 |
 | [Silver Bullet](https://open.spotify.com/track/5kePuQb32DnG04KanvphDW) | [Chloe Parché](https://open.spotify.com/artist/6jCOKlQ9OBPbQgPoZ3haov) | [Silver Bullet](https://open.spotify.com/album/5qPV6KqFt5qIkm1GzkdCBR) | 3:21 | 2026-02-19 | 2026-04-10 |

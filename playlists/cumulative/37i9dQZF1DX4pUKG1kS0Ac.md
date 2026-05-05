@@ -4,7 +4,7 @@
 
 > You say guilty, we say non stop bangers!
 
-476 songs - 1 day 6 hr 30 min
+477 songs - 1 day 6 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [5, 6, 7, 8](https://open.spotify.com/track/3oWZwdnnwsCwMukQbPsEiy) | [Steps](https://open.spotify.com/artist/17UkABEasVRlCcIFZ3wHb7) | [Step One](https://open.spotify.com/album/0LLP9HeDd489SxAGAaRYIq) | 3:22 | 2021-12-28 | 2022-07-29 |
 | [50 Ways to Say Goodbye](https://open.spotify.com/track/2NniAhAtkRACaMeYt48xlD) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [California 37](https://open.spotify.com/album/5zseibu9WEsPaZmkJUMkz1) | 4:07 | 2024-04-06 |  |
 | [9 to 5](https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [9 To 5 And Odd Jobs](https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd) | 2:46 | 2021-11-13 |  |
-| [A Little Respect](https://open.spotify.com/track/2RVQIq7bLi4Eu6xHPyQ46t) | [Erasure](https://open.spotify.com/artist/0z5DFXmhT4ZNzWElsM7V89) | [The Innocents](https://open.spotify.com/album/7BS88XlHgbYq4bEnO6sICd) | 3:33 | 2022-01-05 |  |
+| [A Little Respect](https://open.spotify.com/track/2RVQIq7bLi4Eu6xHPyQ46t) | [Erasure](https://open.spotify.com/artist/0z5DFXmhT4ZNzWElsM7V89) | [The Innocents](https://open.spotify.com/album/7BS88XlHgbYq4bEnO6sICd) | 3:33 | 2022-01-05 | 2026-05-05 |
 | [A Moment Like This](https://open.spotify.com/track/4kvdX9zzsix7jYHsRVkVUH) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Thankful](https://open.spotify.com/album/5ErgI599IvfYniy0UWVGBN) | 3:48 | 2021-11-13 | 2022-07-29 |
 | [A Thousand Miles](https://open.spotify.com/track/4w1lzcaoZ1IC2K5TwjalRP) | [Vanessa Carlton](https://open.spotify.com/artist/5ILrArfIV0tMURcHJN8Q07) | [Be Not Nobody](https://open.spotify.com/album/5e7T2qUigzt0oIr50KsOld) | 3:57 | 2021-11-13 |  |
 | [Achy Breaky Heart](https://open.spotify.com/track/2EoIt9vdgFRNW03u5IvFsQ) | [Billy Ray Cyrus](https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa) | [Some Gave All](https://open.spotify.com/album/2Rh2JyaBjJwPMFR9Dl60nV) | 3:23 | 2021-11-13 |  |
@@ -129,6 +129,7 @@
 | [Dragostea Din Tei](https://open.spotify.com/track/4nnHlGaBwJHb1rBetqj0Yl) | [O\-Zone](https://open.spotify.com/artist/5M5PjPSiKeXynM6Ohu350r) | [DiscO\-Zone](https://open.spotify.com/album/5Tz9AVbzCljIpaOs8TnJmt) | 3:33 | 2022-04-07 | 2022-04-17 |
 | [Drops of Jupiter \(Tell Me\)](https://open.spotify.com/track/2hKdd3qO7cWr2Jo0Bcs0MA) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Drops Of Jupiter](https://open.spotify.com/album/6j6Zgm7vzAZegr48UppFVT) | 4:19 | 2021-11-13 |  |
 | [Escape \(The Pina Colada Song\)](https://open.spotify.com/track/5IMtdHjJ1OtkxbGe4zfUxQ) | [Rupert Holmes](https://open.spotify.com/artist/0TqIPD4IS1w4e30R38B3vj) | [Partners In Crime](https://open.spotify.com/album/163iYwl7Kdm9ayTnD4VyfN) | 4:36 | 2021-12-28 |  |
+| [Every 1's a Winner \- Single Version](https://open.spotify.com/track/5MXXbGYNmRHR7ULMvZYo5R) | [Hot Chocolate](https://open.spotify.com/artist/72VzFto8DYvKHocaHYNWSi) | [Every 1's a Winner](https://open.spotify.com/album/2MdCe2CS9EcdJ9V20TKzxo) | 4:49 | 2024-07-02 |  |
 | [Every Morning](https://open.spotify.com/track/2ouURa1AIXp3AvkS52Jry5) | [Sugar Ray](https://open.spotify.com/artist/4uN3DsfENc7dp0OLO0FEIb) | [14:59](https://open.spotify.com/album/43NNW7iDuAE8pIouzvwWWi) | 3:39 | 2022-04-07 |  |
 | [Every time we touch](https://open.spotify.com/track/2gOlrge3YTmYPwsCGgU62K) | [Cascada](https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp) | [Everytime We Touch \[Premium Edition\]](https://open.spotify.com/album/37UdEjtwrEEqIYiY131xCs) | 3:17 | 2021-11-13 | 2022-07-29 |
 | [Everybody \(Backstreet's Back\) \- Radio Edit](https://open.spotify.com/track/4rTeOSYqwXNz5qPR2DUTFZ) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [This Is The End: Original Motion Picture Soundtrack](https://open.spotify.com/album/1SFKmqhTTEkE3PmSBEMpa3) | 3:44 | 2022-09-05 | 2022-11-20 |

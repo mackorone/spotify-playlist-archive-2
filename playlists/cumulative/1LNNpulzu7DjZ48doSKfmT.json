@@ -6151,21 +6151,13 @@
     },
     {
       "album": {
-        "name": "Glimmer",
+        "name": "Glimmer (Danny Drum accelerate & ghostly echoes Remix)",
         "url": "https://open.spotify.com/album/5IA16s2l3eVg465eQm9OMA"
       },
       "artists": [
         {
           "name": "PAWPAWTHEDAWG",
           "url": "https://open.spotify.com/artist/7AbDcmHZnaA3O5cIsQuyd1"
-        },
-        {
-          "name": "Danny Drum",
-          "url": "https://open.spotify.com/artist/6sSiVnfs2AnbOfRaE0kXZf"
-        },
-        {
-          "name": "accelerate",
-          "url": "https://open.spotify.com/artist/7IErGg6ZCfFyJJoKGUUBpv"
         },
         {
           "name": "lucii.",
@@ -6180,6 +6172,14 @@
           "url": "https://open.spotify.com/artist/0iW40cwS4dJsPjfMu0t5zD"
         },
         {
+          "name": "Danny Drum",
+          "url": "https://open.spotify.com/artist/6sSiVnfs2AnbOfRaE0kXZf"
+        },
+        {
+          "name": "accelerate",
+          "url": "https://open.spotify.com/artist/7IErGg6ZCfFyJJoKGUUBpv"
+        },
+        {
           "name": "ghostly echoes",
           "url": "https://open.spotify.com/artist/6U65hm7m0hVAVGV0SXNFMw"
         }
@@ -6188,7 +6188,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 230559,
-      "name": "Glimmer",
+      "name": "Glimmer - Danny Drum accelerate & ghostly echoes Remix",
       "url": "https://open.spotify.com/track/1vxgVt5T6oS8HeuQKIwi7J"
     },
     {

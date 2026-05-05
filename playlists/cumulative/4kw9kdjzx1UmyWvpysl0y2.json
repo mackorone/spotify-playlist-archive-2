@@ -22395,6 +22395,24 @@
     },
     {
       "album": {
+        "name": "Monstercat Instinct Selections 02",
+        "url": "https://open.spotify.com/album/6DCXQ7sTyFktwFGwsPBzNQ"
+      },
+      "artists": [
+        {
+          "name": "Nohost",
+          "url": "https://open.spotify.com/artist/0LJ2EQmZqB05sPEtr1nTuI"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217272,
+      "name": "Theory",
+      "url": "https://open.spotify.com/track/1qCEAyfBpdPhs7hLcZO9Dn"
+    },
+    {
+      "album": {
         "name": "Therapy (VIP)",
         "url": "https://open.spotify.com/album/7aBvVvj3FvFtC1324hgKmM"
       },

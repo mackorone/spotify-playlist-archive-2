@@ -1,15 +1,159 @@
 {
   "description": "Jam out with the whole family to music from Netflix Dr. Seuss Tunes.",
-  "num_followers": 2561,
+  "num_followers": 2601,
   "original_name": "Dr. Seuss Tunes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKLN/3YbBYGZCF6wWxE8v/rLb5di",
+  "snapshot_id": "AAAAAHXAH3uB6yfQviAiSZm144HfjBkp",
   "tracks": [
     {
-      "added_at": "2026-01-05 20:56:33",
+      "added_at": "2026-05-04 13:00:07",
+      "album": {
+        "name": "Dr. Seuss's Horton!: Vol. 2 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/6K6XoxTf0mkT5cpVFg8kPK"
+      },
+      "artists": [
+        {
+          "name": "Dr. Seuss's Horton! - Cast",
+          "url": "https://open.spotify.com/artist/2brJCIiQhXmcL3CDPioFEu"
+        },
+        {
+          "name": "Ethan Monaghan",
+          "url": "https://open.spotify.com/artist/0X3ANEAMRcRj45WG6ARBQr"
+        },
+        {
+          "name": "Max Mittelman",
+          "url": "https://open.spotify.com/artist/5cmu2qQqAisZsWx8PRZ6Tx"
+        }
+      ],
+      "duration_ms": 99426,
+      "name": "Magoot's Lullaby",
+      "url": "https://open.spotify.com/track/7zFB5KXBAcLvMTd3GCBFW6"
+    },
+    {
+      "added_at": "2026-05-04 13:00:07",
+      "album": {
+        "name": "Dr. Seuss's Horton!: Vol. 2 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/6K6XoxTf0mkT5cpVFg8kPK"
+      },
+      "artists": [
+        {
+          "name": "Dr. Seuss's Horton! - Cast",
+          "url": "https://open.spotify.com/artist/2brJCIiQhXmcL3CDPioFEu"
+        },
+        {
+          "name": "Ethan Monaghan",
+          "url": "https://open.spotify.com/artist/0X3ANEAMRcRj45WG6ARBQr"
+        },
+        {
+          "name": "Max Mittelman",
+          "url": "https://open.spotify.com/artist/5cmu2qQqAisZsWx8PRZ6Tx"
+        }
+      ],
+      "duration_ms": 67357,
+      "name": "Twinkleberry Time Is Here",
+      "url": "https://open.spotify.com/track/7rFxFtPy9IKpKntqZiQN46"
+    },
+    {
+      "added_at": "2026-05-04 13:00:07",
+      "album": {
+        "name": "Dr. Seuss's Horton!: Vol. 2 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/6K6XoxTf0mkT5cpVFg8kPK"
+      },
+      "artists": [
+        {
+          "name": "Vidjay Beerepoot",
+          "url": "https://open.spotify.com/artist/3fLXP3gGtD7le4XPvny3Nt"
+        }
+      ],
+      "duration_ms": 56945,
+      "name": "Catch That Kite",
+      "url": "https://open.spotify.com/track/4EICjVk7hyPjIq6ccbdYxs"
+    },
+    {
+      "added_at": "2026-05-04 13:00:07",
+      "album": {
+        "name": "Dr. Seuss's Horton!: Vol. 2 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/6K6XoxTf0mkT5cpVFg8kPK"
+      },
+      "artists": [
+        {
+          "name": "Vidjay Beerepoot",
+          "url": "https://open.spotify.com/artist/3fLXP3gGtD7le4XPvny3Nt"
+        }
+      ],
+      "duration_ms": 48125,
+      "name": "Fireflies",
+      "url": "https://open.spotify.com/track/0ett2Gz4bzWdAMufiMTwE3"
+    },
+    {
+      "added_at": "2026-05-04 13:00:07",
+      "album": {
+        "name": "Dr. Seuss's Horton!: Vol. 2 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/6K6XoxTf0mkT5cpVFg8kPK"
+      },
+      "artists": [
+        {
+          "name": "Vidjay Beerepoot",
+          "url": "https://open.spotify.com/artist/3fLXP3gGtD7le4XPvny3Nt"
+        }
+      ],
+      "duration_ms": 33336,
+      "name": "Magical Forest",
+      "url": "https://open.spotify.com/track/7nK5vYd7zZOFxWv1DZzwu6"
+    },
+    {
+      "added_at": "2026-05-04 13:00:07",
+      "album": {
+        "name": "Dr. Seuss's Horton!: Vol. 2 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/6K6XoxTf0mkT5cpVFg8kPK"
+      },
+      "artists": [
+        {
+          "name": "Vidjay Beerepoot",
+          "url": "https://open.spotify.com/artist/3fLXP3gGtD7le4XPvny3Nt"
+        }
+      ],
+      "duration_ms": 51328,
+      "name": "This Duck Can Fly",
+      "url": "https://open.spotify.com/track/03KNww8iqWkdiD6ybqVf7w"
+    },
+    {
+      "added_at": "2026-05-04 13:00:07",
+      "album": {
+        "name": "Dr. Seuss's Horton!: Vol. 2 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/6K6XoxTf0mkT5cpVFg8kPK"
+      },
+      "artists": [
+        {
+          "name": "Vidjay Beerepoot",
+          "url": "https://open.spotify.com/artist/3fLXP3gGtD7le4XPvny3Nt"
+        }
+      ],
+      "duration_ms": 39288,
+      "name": "Gliding Through An Ice Cave",
+      "url": "https://open.spotify.com/track/0XGe23MvyhqwrLDN0hems8"
+    },
+    {
+      "added_at": "2026-05-04 13:00:07",
+      "album": {
+        "name": "Dr. Seuss's Horton!: Vol. 2 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/6K6XoxTf0mkT5cpVFg8kPK"
+      },
+      "artists": [
+        {
+          "name": "Vidjay Beerepoot",
+          "url": "https://open.spotify.com/artist/3fLXP3gGtD7le4XPvny3Nt"
+        }
+      ],
+      "duration_ms": 62384,
+      "name": "Operation Flying Elephant",
+      "url": "https://open.spotify.com/track/1vaxiCtGS9lg0psOsIWkb8"
+    },
+    {
+      "added_at": "2026-05-04 13:00:07",
       "album": {
         "name": "Dr. Seuss's Red Fish, Blue Fish (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/2ALnLhNczfzTqJGu1Ob2UR"
@@ -25,7 +169,7 @@
       "url": "https://open.spotify.com/track/4nklZ8ttc2wdXAdJQOc1DS"
     },
     {
-      "added_at": "2026-01-05 20:56:33",
+      "added_at": "2026-05-04 13:00:07",
       "album": {
         "name": "Dr. Seuss's Red Fish, Blue Fish (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/2ALnLhNczfzTqJGu1Ob2UR"
@@ -41,7 +185,7 @@
       "url": "https://open.spotify.com/track/4SpOr5cvRGcQ3Izond7ZPM"
     },
     {
-      "added_at": "2026-01-05 20:56:33",
+      "added_at": "2026-05-04 13:00:07",
       "album": {
         "name": "Dr. Seuss's Red Fish, Blue Fish (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/2ALnLhNczfzTqJGu1Ob2UR"
@@ -57,7 +201,7 @@
       "url": "https://open.spotify.com/track/44ggeKYbiUD3FzMqyv4ZFE"
     },
     {
-      "added_at": "2026-01-05 20:56:33",
+      "added_at": "2026-05-04 13:00:07",
       "album": {
         "name": "Dr. Seuss's Red Fish, Blue Fish (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/2ALnLhNczfzTqJGu1Ob2UR"
@@ -73,7 +217,7 @@
       "url": "https://open.spotify.com/track/3kZLIWwMgxBrwQ0Ak1k27r"
     },
     {
-      "added_at": "2026-01-05 20:56:33",
+      "added_at": "2026-05-04 13:00:07",
       "album": {
         "name": "Dr. Seuss's Red Fish, Blue Fish (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/2ALnLhNczfzTqJGu1Ob2UR"
@@ -93,7 +237,7 @@
       "url": "https://open.spotify.com/track/1uvVUQA0EFMTJp0q305c4c"
     },
     {
-      "added_at": "2026-01-05 20:56:33",
+      "added_at": "2026-05-04 13:00:07",
       "album": {
         "name": "Dr. Seuss's Red Fish, Blue Fish (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/2ALnLhNczfzTqJGu1Ob2UR"
@@ -113,7 +257,7 @@
       "url": "https://open.spotify.com/track/2oqexTRkKu02UqH9wXtGqv"
     },
     {
-      "added_at": "2026-01-05 20:56:33",
+      "added_at": "2026-05-04 13:00:07",
       "album": {
         "name": "Dr. Seuss's Red Fish, Blue Fish (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/2ALnLhNczfzTqJGu1Ob2UR"
@@ -129,7 +273,7 @@
       "url": "https://open.spotify.com/track/3oLEm4uKNOJZGJzgXSKYMl"
     },
     {
-      "added_at": "2026-01-05 20:56:33",
+      "added_at": "2026-05-04 13:00:07",
       "album": {
         "name": "Dr. Seuss's Red Fish, Blue Fish (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/2ALnLhNczfzTqJGu1Ob2UR"
@@ -145,7 +289,7 @@
       "url": "https://open.spotify.com/track/08V8qTWeIvIY5KhJL6CSJJ"
     },
     {
-      "added_at": "2026-01-05 20:56:33",
+      "added_at": "2026-05-04 13:00:07",
       "album": {
         "name": "Dr. Seuss's The Sneetches (Soundtrack from the Netflix Special)",
         "url": "https://open.spotify.com/album/7KAavnMbS1JbV3c3Y0yh6a"
@@ -169,7 +313,7 @@
       "url": "https://open.spotify.com/track/5pIFNCPCL7Ezcxus2257aQ"
     },
     {
-      "added_at": "2026-01-05 20:56:33",
+      "added_at": "2026-05-04 13:00:07",
       "album": {
         "name": "Dr. Seuss's The Sneetches (Soundtrack from the Netflix Special)",
         "url": "https://open.spotify.com/album/7KAavnMbS1JbV3c3Y0yh6a"
@@ -189,7 +333,7 @@
       "url": "https://open.spotify.com/track/1XlC16LIyaKn45wr6RMoNR"
     },
     {
-      "added_at": "2026-01-05 20:56:33",
+      "added_at": "2026-05-04 13:00:07",
       "album": {
         "name": "Dr. Seuss's The Sneetches (Soundtrack from the Netflix Special)",
         "url": "https://open.spotify.com/album/7KAavnMbS1JbV3c3Y0yh6a"
@@ -213,7 +357,7 @@
       "url": "https://open.spotify.com/track/35PRvhfaa8XC4dNqR2XY0O"
     },
     {
-      "added_at": "2026-01-05 20:56:33",
+      "added_at": "2026-05-04 13:00:07",
       "album": {
         "name": "Dr. Seuss's The Sneetches (Soundtrack from the Netflix Special)",
         "url": "https://open.spotify.com/album/7KAavnMbS1JbV3c3Y0yh6a"
@@ -229,7 +373,7 @@
       "url": "https://open.spotify.com/track/6RFsXEtSnVfx9tTrS9jZN0"
     },
     {
-      "added_at": "2026-01-05 20:56:33",
+      "added_at": "2026-05-04 13:00:07",
       "album": {
         "name": "Dr. Seuss's The Sneetches (Soundtrack from the Netflix Special)",
         "url": "https://open.spotify.com/album/7KAavnMbS1JbV3c3Y0yh6a"
@@ -245,7 +389,7 @@
       "url": "https://open.spotify.com/track/6cQzCk2fpmH4KJrnT4xFyq"
     },
     {
-      "added_at": "2026-01-05 20:56:33",
+      "added_at": "2026-05-04 13:00:07",
       "album": {
         "name": "Dr. Seuss's The Sneetches (Soundtrack from the Netflix Special)",
         "url": "https://open.spotify.com/album/7KAavnMbS1JbV3c3Y0yh6a"
@@ -261,7 +405,7 @@
       "url": "https://open.spotify.com/track/79yeBcwHQrLkTYVNnuzBst"
     },
     {
-      "added_at": "2026-01-05 20:56:33",
+      "added_at": "2026-05-04 13:00:07",
       "album": {
         "name": "Dr. Seuss's The Sneetches (Soundtrack from the Netflix Special)",
         "url": "https://open.spotify.com/album/7KAavnMbS1JbV3c3Y0yh6a"
@@ -277,7 +421,7 @@
       "url": "https://open.spotify.com/track/5n2T3hGIj8kanzIVAOmnlw"
     },
     {
-      "added_at": "2026-01-05 20:56:33",
+      "added_at": "2026-05-04 13:00:07",
       "album": {
         "name": "Dr. Seuss's The Sneetches (Soundtrack from the Netflix Special)",
         "url": "https://open.spotify.com/album/7KAavnMbS1JbV3c3Y0yh6a"
@@ -293,7 +437,7 @@
       "url": "https://open.spotify.com/track/4DPKz9rKSOekNBoUOnSRXw"
     },
     {
-      "added_at": "2026-01-05 20:56:33",
+      "added_at": "2026-05-04 13:00:07",
       "album": {
         "name": "Dr. Seuss's Horton! (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/2dhJMHvT5yW6L6IczsgQoq"
@@ -313,7 +457,7 @@
       "url": "https://open.spotify.com/track/5mPwgYrURi4ZnhecWCJra1"
     },
     {
-      "added_at": "2026-01-05 20:56:33",
+      "added_at": "2026-05-04 13:00:07",
       "album": {
         "name": "Dr. Seuss's Horton! (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/2dhJMHvT5yW6L6IczsgQoq"
@@ -337,7 +481,7 @@
       "url": "https://open.spotify.com/track/4WKHfofKhe2qSLvlL1VEJT"
     },
     {
-      "added_at": "2026-01-05 20:56:33",
+      "added_at": "2026-05-04 13:00:07",
       "album": {
         "name": "Dr. Seuss's Horton! (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/2dhJMHvT5yW6L6IczsgQoq"
@@ -361,7 +505,7 @@
       "url": "https://open.spotify.com/track/5lOFNCPxIqtl39wrgJJHMI"
     },
     {
-      "added_at": "2026-01-05 20:56:33",
+      "added_at": "2026-05-04 13:00:07",
       "album": {
         "name": "Dr. Seuss's Horton! (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/2dhJMHvT5yW6L6IczsgQoq"
@@ -385,7 +529,7 @@
       "url": "https://open.spotify.com/track/4MDs8BGnbmfA4OaTWNQB6f"
     },
     {
-      "added_at": "2026-01-05 20:56:33",
+      "added_at": "2026-05-04 13:00:07",
       "album": {
         "name": "Dr. Seuss's Horton! (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/2dhJMHvT5yW6L6IczsgQoq"
@@ -409,7 +553,7 @@
       "url": "https://open.spotify.com/track/5tq8NV6DIpSrl4U0e8KRJF"
     },
     {
-      "added_at": "2026-01-05 20:56:33",
+      "added_at": "2026-05-04 13:00:07",
       "album": {
         "name": "Dr. Seuss's Red Fish, Blue Fish (Songs from the World of the Netflix Series)",
         "url": "https://open.spotify.com/album/2ooexw11NRx4AyhDsGb6qr"
@@ -425,7 +569,7 @@
       "url": "https://open.spotify.com/track/1rWBg3ay1AYzTaGmNAgrnE"
     },
     {
-      "added_at": "2026-01-05 20:56:33",
+      "added_at": "2026-05-04 13:00:07",
       "album": {
         "name": "Dr. Seuss's Red Fish, Blue Fish (Songs from the World of the Netflix Series)",
         "url": "https://open.spotify.com/album/2ooexw11NRx4AyhDsGb6qr"
@@ -441,7 +585,7 @@
       "url": "https://open.spotify.com/track/0EONr3toIQ9bLakCX4qXRP"
     },
     {
-      "added_at": "2026-01-05 20:56:33",
+      "added_at": "2026-05-04 13:00:07",
       "album": {
         "name": "Dr. Seuss's Red Fish, Blue Fish (Songs from the World of the Netflix Series)",
         "url": "https://open.spotify.com/album/2ooexw11NRx4AyhDsGb6qr"
@@ -457,7 +601,7 @@
       "url": "https://open.spotify.com/track/06DLOnjW68rsr3TQg05mbX"
     },
     {
-      "added_at": "2026-01-05 20:56:33",
+      "added_at": "2026-05-04 13:00:07",
       "album": {
         "name": "Dr. Seuss's Red Fish, Blue Fish (Songs from the World of the Netflix Series)",
         "url": "https://open.spotify.com/album/2ooexw11NRx4AyhDsGb6qr"
@@ -473,7 +617,7 @@
       "url": "https://open.spotify.com/track/5DPIvYe6u2n5i1ekHXLLVh"
     },
     {
-      "added_at": "2026-01-05 20:56:33",
+      "added_at": "2026-05-04 13:00:07",
       "album": {
         "name": "Dr. Seuss's Red Fish, Blue Fish (Songs from the World of the Netflix Series)",
         "url": "https://open.spotify.com/album/2ooexw11NRx4AyhDsGb6qr"
@@ -489,7 +633,7 @@
       "url": "https://open.spotify.com/track/4HFVMRk8QdcgxZp5AvOrNc"
     },
     {
-      "added_at": "2026-01-05 20:56:33",
+      "added_at": "2026-05-04 13:00:07",
       "album": {
         "name": "Dr. Seuss's Red Fish, Blue Fish (Songs from the World of the Netflix Series)",
         "url": "https://open.spotify.com/album/2ooexw11NRx4AyhDsGb6qr"
@@ -505,7 +649,7 @@
       "url": "https://open.spotify.com/track/027QL2kORIrnGpmDS8O8yV"
     },
     {
-      "added_at": "2026-01-05 20:56:33",
+      "added_at": "2026-05-04 13:00:07",
       "album": {
         "name": "Dr. Seuss's Red Fish, Blue Fish (Songs from the World of the Netflix Series)",
         "url": "https://open.spotify.com/album/2ooexw11NRx4AyhDsGb6qr"

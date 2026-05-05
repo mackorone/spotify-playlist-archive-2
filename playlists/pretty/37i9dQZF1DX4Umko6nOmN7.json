@@ -1,6 +1,6 @@
 {
   "description": "Favoritl\u00e5tar f\u00f6r lugna och sk\u00f6na stunder.",
-  "num_followers": 612865,
+  "num_followers": 612837,
   "original_name": "Lugnt & Sk\u00f6nt",
   "owner": {
     "name": "Spotify",
@@ -147,6 +147,26 @@
     {
       "added_at": "2026-04-16 22:01:21",
       "album": {
+        "name": "Kingmaker (with Julia Michaels)",
+        "url": "https://open.spotify.com/album/0VuY51BeTd6TvBc4DeiRdb"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        },
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "duration_ms": 188106,
+      "name": "Kingmaker (with Julia Michaels)",
+      "url": "https://open.spotify.com/track/6viL4eHTn5njVOxPGev6nx"
+    },
+    {
+      "added_at": "2026-04-16 22:01:21",
+      "album": {
         "name": "All The Little Lights (Anniversary Edition)",
         "url": "https://open.spotify.com/album/25bKp06DTIMODKnzXQf4gR"
       },
@@ -179,26 +199,6 @@
       "duration_ms": 166676,
       "name": "Take Me Home, Country Roads",
       "url": "https://open.spotify.com/track/7qF0FfuzBFwMe1lNHkEDxW"
-    },
-    {
-      "added_at": "2026-04-16 22:01:21",
-      "album": {
-        "name": "Kingmaker (with Julia Michaels)",
-        "url": "https://open.spotify.com/album/0VuY51BeTd6TvBc4DeiRdb"
-      },
-      "artists": [
-        {
-          "name": "Maisie Peters",
-          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
-        },
-        {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
-        }
-      ],
-      "duration_ms": 188106,
-      "name": "Kingmaker (with Julia Michaels)",
-      "url": "https://open.spotify.com/track/6viL4eHTn5njVOxPGev6nx"
     },
     {
       "added_at": "2026-04-16 22:01:21",
@@ -367,22 +367,6 @@
     {
       "added_at": "2026-04-16 22:01:21",
       "album": {
-        "name": "Memories",
-        "url": "https://open.spotify.com/album/4UCjvqGiMnghqo31aPQQ09"
-      },
-      "artists": [
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        }
-      ],
-      "duration_ms": 179534,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/2VDTqhsSzrRxsbjvv4KLPl"
-    },
-    {
-      "added_at": "2026-04-16 22:01:21",
-      "album": {
         "name": "TRUSTFALL (Tour Deluxe Edition)",
         "url": "https://open.spotify.com/album/4hgincUyDza4A228fFQRiK"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 212304,
       "name": "All Out Of Fight",
       "url": "https://open.spotify.com/track/0ZtWVho1KKMD9w55XYoDPl"
+    },
+    {
+      "added_at": "2026-04-16 22:01:21",
+      "album": {
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/4UCjvqGiMnghqo31aPQQ09"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "duration_ms": 179534,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/2VDTqhsSzrRxsbjvv4KLPl"
     },
     {
       "added_at": "2026-04-16 22:01:21",
@@ -567,22 +567,6 @@
     {
       "added_at": "2026-04-16 22:01:21",
       "album": {
-        "name": "Goodbye to the Valley Low (Side A)",
-        "url": "https://open.spotify.com/album/4y08yRIEOIAcGkuJWwWZ91"
-      },
-      "artists": [
-        {
-          "name": "Hazlett",
-          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
-        }
-      ],
-      "duration_ms": 181130,
-      "name": "Stolen Seasons",
-      "url": "https://open.spotify.com/track/4I1MhYsQQ71wkE5DiCWw5T"
-    },
-    {
-      "added_at": "2026-04-16 22:01:21",
-      "album": {
         "name": "Min v\u00e4n och jag",
         "url": "https://open.spotify.com/album/2XCaCiPFPnZCF5tnCrOm0K"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 165760,
       "name": "Barfotabarn",
       "url": "https://open.spotify.com/track/318Y9u8zsQfV0G9ToH4JUB"
+    },
+    {
+      "added_at": "2026-04-16 22:01:21",
+      "album": {
+        "name": "Goodbye to the Valley Low (Side A)",
+        "url": "https://open.spotify.com/album/4y08yRIEOIAcGkuJWwWZ91"
+      },
+      "artists": [
+        {
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+        }
+      ],
+      "duration_ms": 181130,
+      "name": "Stolen Seasons",
+      "url": "https://open.spotify.com/track/4I1MhYsQQ71wkE5DiCWw5T"
     },
     {
       "added_at": "2026-04-16 22:01:21",
@@ -683,22 +683,6 @@
     {
       "added_at": "2026-04-16 22:01:21",
       "album": {
-        "name": "Feeling Good (triple j Like A Version)",
-        "url": "https://open.spotify.com/album/6YQtpgkFSYr9sF8fTsHbMs"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 239299,
-      "name": "Feeling Good - triple j Like A Version",
-      "url": "https://open.spotify.com/track/4kY3cAWzzKVn3ZmYfOOJul"
-    },
-    {
-      "added_at": "2026-04-16 22:01:21",
-      "album": {
         "name": "Best Friend",
         "url": "https://open.spotify.com/album/7AF8UxAKHt77J9j8ZBpH7J"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 189152,
       "name": "Best Friend",
       "url": "https://open.spotify.com/track/7mABSSPLVFF6HGlVLhmSsZ"
+    },
+    {
+      "added_at": "2026-04-16 22:01:21",
+      "album": {
+        "name": "Feeling Good (triple j Like A Version)",
+        "url": "https://open.spotify.com/album/6YQtpgkFSYr9sF8fTsHbMs"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 239299,
+      "name": "Feeling Good - triple j Like A Version",
+      "url": "https://open.spotify.com/track/4kY3cAWzzKVn3ZmYfOOJul"
     },
     {
       "added_at": "2026-04-16 22:01:21",
@@ -787,6 +787,22 @@
     {
       "added_at": "2026-04-16 22:01:21",
       "album": {
+        "name": "80's",
+        "url": "https://open.spotify.com/album/6FPJRjSJpm6dDcgKOS0dOV"
+      },
+      "artists": [
+        {
+          "name": "Moonica Mac",
+          "url": "https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n"
+        }
+      ],
+      "duration_ms": 210500,
+      "name": "80's",
+      "url": "https://open.spotify.com/track/2cGlzTR9gC93lc12cZ8afB"
+    },
+    {
+      "added_at": "2026-04-16 22:01:21",
+      "album": {
         "name": "Dansa Med Mig (Stripped Version) [feat. Julia Lov]",
         "url": "https://open.spotify.com/album/6IRITh06BmYY5OdplF8mhl"
       },
@@ -803,38 +819,6 @@
       "duration_ms": 169213,
       "name": "Dansa Med Mig (Stripped Version) [feat. Julia Lov]",
       "url": "https://open.spotify.com/track/12e80YV3Nhkbfymj0SiSz0"
-    },
-    {
-      "added_at": "2026-04-16 22:01:21",
-      "album": {
-        "name": "Bones Shake",
-        "url": "https://open.spotify.com/album/4b4XkDZLCOUqD3gXZ3y2Yk"
-      },
-      "artists": [
-        {
-          "name": "Hazlett",
-          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
-        }
-      ],
-      "duration_ms": 226011,
-      "name": "Bones Shake",
-      "url": "https://open.spotify.com/track/2TX0eN7jdjQiGx7NHSax7l"
-    },
-    {
-      "added_at": "2026-04-16 22:01:21",
-      "album": {
-        "name": "80's",
-        "url": "https://open.spotify.com/album/6FPJRjSJpm6dDcgKOS0dOV"
-      },
-      "artists": [
-        {
-          "name": "Moonica Mac",
-          "url": "https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n"
-        }
-      ],
-      "duration_ms": 210500,
-      "name": "80's",
-      "url": "https://open.spotify.com/track/2cGlzTR9gC93lc12cZ8afB"
     },
     {
       "added_at": "2026-04-16 22:01:21",
@@ -871,6 +855,22 @@
       "duration_ms": 204913,
       "name": "Utan dina andetag - Spotify Singles",
       "url": "https://open.spotify.com/track/4bLVAX1N6G8e3Lpq7rwIFm"
+    },
+    {
+      "added_at": "2026-04-16 22:01:21",
+      "album": {
+        "name": "Bones Shake",
+        "url": "https://open.spotify.com/album/4b4XkDZLCOUqD3gXZ3y2Yk"
+      },
+      "artists": [
+        {
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+        }
+      ],
+      "duration_ms": 226011,
+      "name": "Bones Shake",
+      "url": "https://open.spotify.com/track/2TX0eN7jdjQiGx7NHSax7l"
     },
     {
       "added_at": "2026-04-16 22:01:21",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2026-04-16 22:01:21",
       "album": {
+        "name": "Your Bones",
+        "url": "https://open.spotify.com/album/4DYdcN6zXdIH8lWmtd1FQV"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Cutler",
+          "url": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
+        }
+      ],
+      "duration_ms": 159400,
+      "name": "Your Bones",
+      "url": "https://open.spotify.com/track/6bIJHwyaNb1txgOKbYh0rH"
+    },
+    {
+      "added_at": "2026-04-16 22:01:21",
+      "album": {
         "name": "Swan Upon Leda",
         "url": "https://open.spotify.com/album/7m6BGvx8EBvA7VXsoOKMuk"
       },
@@ -1099,18 +1115,18 @@
     {
       "added_at": "2026-04-16 22:01:21",
       "album": {
-        "name": "Your Bones",
-        "url": "https://open.spotify.com/album/4DYdcN6zXdIH8lWmtd1FQV"
+        "name": "Angel Face",
+        "url": "https://open.spotify.com/album/6CczqhUdYOH4qLSDnN3zkg"
       },
       "artists": [
         {
-          "name": "Chelsea Cutler",
-          "url": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
+          "name": "Stephen Sanchez",
+          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
         }
       ],
-      "duration_ms": 159400,
-      "name": "Your Bones",
-      "url": "https://open.spotify.com/track/6bIJHwyaNb1txgOKbYh0rH"
+      "duration_ms": 232277,
+      "name": "Doesn\u2019t Do Me Any Good",
+      "url": "https://open.spotify.com/track/3Rou7KR8ctza5jeqQfyer0"
     },
     {
       "added_at": "2026-04-16 22:01:21",
@@ -1135,18 +1151,18 @@
     {
       "added_at": "2026-04-16 22:01:21",
       "album": {
-        "name": "Angel Face",
-        "url": "https://open.spotify.com/album/6CczqhUdYOH4qLSDnN3zkg"
+        "name": "Stockholm \u00e4r f\u00f6r stort",
+        "url": "https://open.spotify.com/album/341ScRYl1Nuz3wPvelqdxk"
       },
       "artists": [
         {
-          "name": "Stephen Sanchez",
-          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
+          "name": "Amani Smith",
+          "url": "https://open.spotify.com/artist/05ibPxjpnmCVAq5z2kOe9M"
         }
       ],
-      "duration_ms": 232277,
-      "name": "Doesn\u2019t Do Me Any Good",
-      "url": "https://open.spotify.com/track/3Rou7KR8ctza5jeqQfyer0"
+      "duration_ms": 185421,
+      "name": "Stockholm \u00e4r f\u00f6r stort",
+      "url": "https://open.spotify.com/track/3tiBjKLsRIF3kHIXynvGXv"
     },
     {
       "added_at": "2026-04-16 22:01:21",
@@ -1167,22 +1183,6 @@
     {
       "added_at": "2026-04-16 22:01:21",
       "album": {
-        "name": "Hard To Be Human",
-        "url": "https://open.spotify.com/album/7Fo8WHPyK3fmdUb2sfHW71"
-      },
-      "artists": [
-        {
-          "name": "Anson Seabra",
-          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
-        }
-      ],
-      "duration_ms": 170414,
-      "name": "Hard To Be Human",
-      "url": "https://open.spotify.com/track/3rhcTGF7AK0QsSzMmLVkqu"
-    },
-    {
-      "added_at": "2026-04-16 22:01:21",
-      "album": {
         "name": "Where Am I?",
         "url": "https://open.spotify.com/album/5JoRXCu751qGLUiGB56E8X"
       },
@@ -1195,6 +1195,22 @@
       "duration_ms": 162373,
       "name": "If You Died Today",
       "url": "https://open.spotify.com/track/5HvkvFJeLOOEbCfHPatHAh"
+    },
+    {
+      "added_at": "2026-04-16 22:01:21",
+      "album": {
+        "name": "Hard To Be Human",
+        "url": "https://open.spotify.com/album/7Fo8WHPyK3fmdUb2sfHW71"
+      },
+      "artists": [
+        {
+          "name": "Anson Seabra",
+          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
+        }
+      ],
+      "duration_ms": 170414,
+      "name": "Hard To Be Human",
+      "url": "https://open.spotify.com/track/3rhcTGF7AK0QsSzMmLVkqu"
     },
     {
       "added_at": "2026-04-16 22:01:21",
@@ -1215,22 +1231,6 @@
     {
       "added_at": "2026-04-16 22:01:21",
       "album": {
-        "name": "Row Your Boat",
-        "url": "https://open.spotify.com/album/4LSD9CPFBbfpqu3Pc99RA8"
-      },
-      "artists": [
-        {
-          "name": "Peder Elias",
-          "url": "https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL"
-        }
-      ],
-      "duration_ms": 175030,
-      "name": "Row Your Boat",
-      "url": "https://open.spotify.com/track/3WXGdXrITAcaMUQiZuu04n"
-    },
-    {
-      "added_at": "2026-04-16 22:01:21",
-      "album": {
         "name": "VENUS",
         "url": "https://open.spotify.com/album/0qqZ6HD72So93exL9rH7zi"
       },
@@ -1247,18 +1247,34 @@
     {
       "added_at": "2026-04-16 22:01:21",
       "album": {
-        "name": "Stockholm \u00e4r f\u00f6r stort",
-        "url": "https://open.spotify.com/album/341ScRYl1Nuz3wPvelqdxk"
+        "name": "Row Your Boat",
+        "url": "https://open.spotify.com/album/4LSD9CPFBbfpqu3Pc99RA8"
       },
       "artists": [
         {
-          "name": "Amani Smith",
-          "url": "https://open.spotify.com/artist/05ibPxjpnmCVAq5z2kOe9M"
+          "name": "Peder Elias",
+          "url": "https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL"
         }
       ],
-      "duration_ms": 185421,
-      "name": "Stockholm \u00e4r f\u00f6r stort",
-      "url": "https://open.spotify.com/track/3tiBjKLsRIF3kHIXynvGXv"
+      "duration_ms": 175030,
+      "name": "Row Your Boat",
+      "url": "https://open.spotify.com/track/3WXGdXrITAcaMUQiZuu04n"
+    },
+    {
+      "added_at": "2026-04-16 22:01:21",
+      "album": {
+        "name": "Middle Ground",
+        "url": "https://open.spotify.com/album/5jmEjw5krglNmuEy45URZT"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "duration_ms": 219800,
+      "name": "Middle Ground",
+      "url": "https://open.spotify.com/track/3xiccJ9jlTVwC8Yl66eGv5"
     },
     {
       "added_at": "2026-04-16 22:01:21",
@@ -1291,22 +1307,6 @@
       "duration_ms": 175550,
       "name": "Sad Forever",
       "url": "https://open.spotify.com/track/63jCeAYGLcRL21xm0jKlgn"
-    },
-    {
-      "added_at": "2026-04-16 22:01:21",
-      "album": {
-        "name": "Middle Ground",
-        "url": "https://open.spotify.com/album/5jmEjw5krglNmuEy45URZT"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        }
-      ],
-      "duration_ms": 219800,
-      "name": "Middle Ground",
-      "url": "https://open.spotify.com/track/3xiccJ9jlTVwC8Yl66eGv5"
     },
     {
       "added_at": "2026-04-16 22:01:21",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2026-04-16 22:01:21",
       "album": {
-        "name": "Please Like Me",
-        "url": "https://open.spotify.com/album/0uB17I8AT9aGuQwO8X0aaC"
-      },
-      "artists": [
-        {
-          "name": "Rhys Frank",
-          "url": "https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU"
-        }
-      ],
-      "duration_ms": 209206,
-      "name": "Adam",
-      "url": "https://open.spotify.com/track/2uGBnu8TR4Lx8oxRCgYPd7"
-    },
-    {
-      "added_at": "2026-04-16 22:01:21",
-      "album": {
         "name": "Sarkofag",
         "url": "https://open.spotify.com/album/4EF0wMJarr99uFx1yrJbZm"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 231907,
       "name": "logical",
       "url": "https://open.spotify.com/track/3dKYak9dKL8YeHx5jMokoP"
+    },
+    {
+      "added_at": "2026-04-16 22:01:21",
+      "album": {
+        "name": "Please Like Me",
+        "url": "https://open.spotify.com/album/0uB17I8AT9aGuQwO8X0aaC"
+      },
+      "artists": [
+        {
+          "name": "Rhys Frank",
+          "url": "https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU"
+        }
+      ],
+      "duration_ms": 209206,
+      "name": "Adam",
+      "url": "https://open.spotify.com/track/2uGBnu8TR4Lx8oxRCgYPd7"
     },
     {
       "added_at": "2026-04-16 22:01:21",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2026-04-16 22:01:21",
       "album": {
+        "name": "Deep Down (From the Film \u2018The Abyss\u2019)",
+        "url": "https://open.spotify.com/album/0x5GZNE8nfCVKa5UhPwq1u"
+      },
+      "artists": [
+        {
+          "name": "Molly Hammar",
+          "url": "https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM"
+        }
+      ],
+      "duration_ms": 167843,
+      "name": "Deep Down - From the Film \u2018The Abyss\u2019",
+      "url": "https://open.spotify.com/track/2WceL6NsGULw1kZb3hGR0y"
+    },
+    {
+      "added_at": "2026-04-16 22:01:21",
+      "album": {
         "name": "Younger",
         "url": "https://open.spotify.com/album/6xR58S23eubMHUlwWGOq4E"
       },
@@ -1551,22 +1567,6 @@
       "duration_ms": 181200,
       "name": "It's Not Easy to Write a Love Song",
       "url": "https://open.spotify.com/track/6rOuxWBbbGG61MoEpfnzoI"
-    },
-    {
-      "added_at": "2026-04-16 22:01:21",
-      "album": {
-        "name": "Deep Down (From the Film \u2018The Abyss\u2019)",
-        "url": "https://open.spotify.com/album/0x5GZNE8nfCVKa5UhPwq1u"
-      },
-      "artists": [
-        {
-          "name": "Molly Hammar",
-          "url": "https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM"
-        }
-      ],
-      "duration_ms": 167843,
-      "name": "Deep Down - From the Film \u2018The Abyss\u2019",
-      "url": "https://open.spotify.com/track/2WceL6NsGULw1kZb3hGR0y"
     },
     {
       "added_at": "2026-04-16 22:01:21",

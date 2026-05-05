@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe74lXHc7E5A.md) - [plain]
 
 > Hip Hop and Rap songs guaranteed to get you hyped\. Cover: Blaqbonez
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,532 likes - 60 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,554 likes - 60 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe74lXHc7E5A.md) - [plain]
 | 16 | [Muzz](https://open.spotify.com/track/7Dh41uXgydFUlQjwmPAOlE) | [Zaylevelten](https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH) | [Muzz](https://open.spotify.com/album/5C3Lcv1cBFZH3L46yWHL1x) | 2:02 |
 | 17 | [2:02PM IN LONDON \(FREESTYLE\)](https://open.spotify.com/track/7fkCiUlTXr6AAHXXtrIRd4) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [2:02PM IN LONDON \(FREESTYLE\)](https://open.spotify.com/album/1Tn7MQ77vIlV8aXIVYLxqR) | 3:43 |
 | 18 | [Gated Community](https://open.spotify.com/track/459tlRYmJbqHJW0aqFtnNp) | [Haeven](https://open.spotify.com/artist/5JTZ0MKURW6cUUT2y18w5H) | [Gated Community](https://open.spotify.com/album/4ICMNWmZNDphwugXPedUy1) | 2:43 |
-| 19 | [NO SLEEP $$$ \(feat\. Young Jonn\)](https://open.spotify.com/track/7ydy7ryXw7XM5QtE3bNYaW) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Emeka Must Shine](https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj) | 3:07 |
+| 19 | [Lord I'm Amazed](https://open.spotify.com/track/6u1G4pHAwnkOQBJCvl6D3O) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Lord I'm Amazed](https://open.spotify.com/album/3u7exEZx2J3pCtvQxGHiQ9) | 2:26 |
 | 20 | [FLAKO](https://open.spotify.com/track/4gNOP9BGhyl2apkm8Xy7Eg) | [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [FLAKO](https://open.spotify.com/album/0JPDGiGSSfjSw0VPFXKHjX) | 2:54 |
-| 21 | [Lord I'm Amazed](https://open.spotify.com/track/6u1G4pHAwnkOQBJCvl6D3O) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Lord I'm Amazed](https://open.spotify.com/album/3u7exEZx2J3pCtvQxGHiQ9) | 2:26 |
+| 21 | [NO SLEEP $$$ \(feat\. Young Jonn\)](https://open.spotify.com/track/7ydy7ryXw7XM5QtE3bNYaW) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Emeka Must Shine](https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj) | 3:07 |
 | 22 | [Digga](https://open.spotify.com/track/1oh95MuaCB9hd1gckqyRXA) | [Yôrkk](https://open.spotify.com/artist/4KLrpPDaqivMxsrJ7X6byv), [ARTSALGHUL](https://open.spotify.com/artist/3hXlGRJuBMCg9xJ41BSWkf) | [Digga](https://open.spotify.com/album/3WbPHstTziKAuJVx9vIQQI) | 3:07 |
 | 23 | [HIM \(feat\. Gunna\)](https://open.spotify.com/track/3YaLrZQLOggK3fPxUAihUW) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [HIM](https://open.spotify.com/album/22RwSA5nTQT9t0icR9ZwWV) | 3:22 |
 | 24 | [Cloak & Dagger \(feat\. J Hus\)](https://open.spotify.com/track/519SuHU1ai91BsRxDnT9Ki) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr) | [Love, Damini](https://open.spotify.com/album/1xaHgMftad2egI7Q4DX7Bc) | 3:31 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe74lXHc7E5A.md) - [plain]
 | 34 | [Fela In Versace](https://open.spotify.com/track/4VmIqdbPsBUMAxCf2nnLD3) | [AKA](https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX) | [Touch My Blood](https://open.spotify.com/album/1cCpD6ImDJDP1nrsZVhV7O) | 5:28 |
 | 35 | [NYEM EGO \(feat\. Jeriq\)](https://open.spotify.com/track/2GG6ETOQ8jiXcKYrwhNi0M) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [Emeka Must Shine](https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj) | 2:35 |
 | 36 | [Shut Up](https://open.spotify.com/track/3LuSjVLN13xR6WO01Mv5ta) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Shut Up](https://open.spotify.com/album/4kvqQHjh1FTCxFPhBdHu0j) | 3:12 |
-| 37 | [Diamonds](https://open.spotify.com/track/4me9zDEParfetwhlguxvHp) | [LeoStayTrill](https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Diamonds](https://open.spotify.com/album/7rybIiBcDPQ2Y4nOp8w13G) | 3:12 |
-| 38 | [US](https://open.spotify.com/track/2dVhrkNkcQQi4D3oLfxNkw) | [Swayvee](https://open.spotify.com/artist/3cPgRGBJymiZW5BdA1K6es), [Young Stunna](https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ) | [US](https://open.spotify.com/album/1HpxshaCESBT4OA7i8mY7X) | 2:19 |
+| 37 | [US](https://open.spotify.com/track/2dVhrkNkcQQi4D3oLfxNkw) | [Swayvee](https://open.spotify.com/artist/3cPgRGBJymiZW5BdA1K6es), [Young Stunna](https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ) | [US](https://open.spotify.com/album/1HpxshaCESBT4OA7i8mY7X) | 2:19 |
+| 38 | [Diamonds](https://open.spotify.com/track/4me9zDEParfetwhlguxvHp) | [LeoStayTrill](https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Diamonds](https://open.spotify.com/album/7rybIiBcDPQ2Y4nOp8w13G) | 3:12 |
 | 39 | [Big Smile \(Pose For Me\) \[feat\. ODUMODUBLVCK\]](https://open.spotify.com/track/70kzTb35rANBc5TRvX2OH6) | [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Afrikan Alien](https://open.spotify.com/album/5eG18IPEzrhgGIkn1az3ct) | 3:01 |
 | 40 | [Everlasting Taker](https://open.spotify.com/track/4fuLcIzYkc6MtFc09GG1mZ) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Everlasting Taker](https://open.spotify.com/album/2KDt3GJumWApNjXbGBaWH6) | 1:58 |
 | 41 | [PICANTO](https://open.spotify.com/track/32R7SBDSQmhDM4qUgzTc6z) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [ECko Miles](https://open.spotify.com/artist/7F57A9yjaUOkPcsEjyv4MD) | [PICANTO](https://open.spotify.com/album/02rMmHXgJwTxkulqSrcgJc) | 3:04 |
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe74lXHc7E5A.md) - [plain]
 | 57 | [Rebel Music](https://open.spotify.com/track/6Yao9XJedGa6cFON02GIVV) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Rebel Music](https://open.spotify.com/album/2Cp4EexmXeDgaxOe2ldAZT) | 2:41 |
 | 58 | [Press 2](https://open.spotify.com/track/3zLOIvEldB1gIquM8FFqRm) | [4K & SYDER](https://open.spotify.com/artist/0t6ol0asVlzV0xbDxGdGGN), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [Press 2](https://open.spotify.com/album/4PKJyjI7pt0EpHKjFodziL) | 4:26 |
 | 59 | [ESCAPE PLAN](https://open.spotify.com/track/6HdDrTn5SCULtmZg4vNdEm) | [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [ESCAPE PLAN](https://open.spotify.com/album/0ziQ2r1K4QV1oIJhnF5JtT) | 2:28 |
-| 60 | [No Option](https://open.spotify.com/track/3mxm7OJDadZK1HYN9ZP8gf) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Gbagada Express Vol 2: Moving Mad](https://open.spotify.com/album/7bFrLfofeujIbvs4WcHn3p) | 2:32 |
+| 60 | [Orishirishi](https://open.spotify.com/track/17OusDSt07Pg76wxPbE25r) | [Reeplay](https://open.spotify.com/artist/2UausQcu26M23zEr5rUODB), [Dremo](https://open.spotify.com/artist/47fErV0VDIx6PmuhtWGTYu) | [Pick 2](https://open.spotify.com/album/4KkP6qfBV2UbZWXYtORZp7) | 3:19 |
 
 Snapshot ID: `AAAAAPdWjQjeFPHOTBUsr2laeib+KllW`

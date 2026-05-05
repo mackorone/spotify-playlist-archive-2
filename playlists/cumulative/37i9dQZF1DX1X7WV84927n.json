@@ -149,6 +149,24 @@
     },
     {
       "album": {
+        "name": "...hospice",
+        "url": "https://open.spotify.com/album/4b3RL8jcpg4Un9fpHAgxhf"
+      },
+      "artists": [
+        {
+          "name": "Static Dress",
+          "url": "https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253174,
+      "name": "...hospice",
+      "url": "https://open.spotify.com/track/2s8S6JBYD4plEJUkkMzLSW"
+    },
+    {
+      "album": {
         "name": "10,000 Volts",
         "url": "https://open.spotify.com/album/0b6pU7qCqJLKc9vDo02QTf"
       },
@@ -16308,7 +16326,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 334117,
       "name": "Mercia",
       "url": "https://open.spotify.com/track/0ptNPzAaewqAlfoQFCoiLT"

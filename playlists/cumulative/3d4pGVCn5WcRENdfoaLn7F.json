@@ -5629,6 +5629,24 @@
     },
     {
       "album": {
+        "name": "What's the Deal",
+        "url": "https://open.spotify.com/album/2nZMIWpDc27QL0NAFKWk4C"
+      },
+      "artists": [
+        {
+          "name": "Paranoize",
+          "url": "https://open.spotify.com/artist/2IsNoOamJMVdmEKK4dQKcS"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157173,
+      "name": "What's the Deal",
+      "url": "https://open.spotify.com/track/65mwECblaHqM3LSRBTT1nE"
+    },
+    {
+      "album": {
         "name": "What's Wrong With You?",
         "url": "https://open.spotify.com/album/493LfPZPFGetvhsX9xH3KK"
       },

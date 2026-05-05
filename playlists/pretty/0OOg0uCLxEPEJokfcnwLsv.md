@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 
 > These are some independent rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 965 likes - 117 songs - 7 hr 12 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 968 likes - 119 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -125,5 +125,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 | 115 | [Haunted](https://open.spotify.com/track/7zoHmY3t1BKRyRADFjiK3P) | [Follow Deep](https://open.spotify.com/artist/0pi2JVymYDQ1helz6Z1AOg) | [Haunted](https://open.spotify.com/album/3OMhyOKxU8AxOMr6dOjJCd) | 3:37 |
 | 116 | [Line Them Up](https://open.spotify.com/track/1qpnSa87IPUX0u5xl0JIMx) | [The Ratskins](https://open.spotify.com/artist/6ge5wjSR7ea1mgxcodIF8V) | [Line Them Up](https://open.spotify.com/album/7xXnNyCNRY0vortmzd7shM) | 2:47 |
 | 117 | [Set Your Life On Fire](https://open.spotify.com/track/5Nx6BHTGLSITqrERad64nk) | [The Last Pioneers](https://open.spotify.com/artist/47VNhQMeBaWxOZG6aJHYvM) | [Set Your Life On Fire](https://open.spotify.com/album/4rUIlLpeOwgUvfJ8NMkmeD) | 3:28 |
+| 118 | [Echo](https://open.spotify.com/track/3uWbd2PbEScUsakim9ChzO) | [Salad Slush](https://open.spotify.com/artist/3RlKnZ8ITYDL1Yqq4lkx0Z) | [Echo](https://open.spotify.com/album/1bAebW2AS0ShcgUX7QKtQm) | 3:22 |
+| 119 | [America](https://open.spotify.com/track/1lF0cXPNLyNUmvcgS7kUwp) | [Skags](https://open.spotify.com/artist/3C0AhBs8F5zmWqpbSgi8ux) | [America](https://open.spotify.com/album/5EIxl0YXV9E9OOJxMGeP7j) | 4:05 |
 
-Snapshot ID: `AAAF5t4zdq4f3wVPnD2QuRvduV1VayXC`
+Snapshot ID: `AAAF6Ivt3F0IbW5cNCgFICP4LQauh2A2`

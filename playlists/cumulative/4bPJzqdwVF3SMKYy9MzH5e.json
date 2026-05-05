@@ -13323,6 +13323,24 @@
     },
     {
       "album": {
+        "name": "shut the fuck up talking to me",
+        "url": "https://open.spotify.com/album/2As0TCvNIO3mJ4yAthXtYZ"
+      },
+      "artists": [
+        {
+          "name": "Zack Fox",
+          "url": "https://open.spotify.com/artist/1UH80jhsYsFztK0anu2FNS"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158466,
+      "name": "fafo",
+      "url": "https://open.spotify.com/track/59N5Xs2k47ESLEeRB84hWW"
+    },
+    {
+      "album": {
         "name": "Korn",
         "url": "https://open.spotify.com/album/7D3XFJlfZIkmGWqZXm2X8z"
       },

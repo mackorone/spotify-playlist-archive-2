@@ -4,7 +4,7 @@
 
 > These are some independent rock bands you need to hear.
 
-474 songs - 1 day 5 hr 22 min
+476 songs - 1 day 5 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Almas Crueles](https://open.spotify.com/track/18w7lvGQeQErLHd6DhIpOo) | [MARSEYA](https://open.spotify.com/artist/6LysldjbzfwmtMTCzFF2Rg) | [Almas Crueles](https://open.spotify.com/album/0AmyYFl8hQOrlxGUbr4dxE) | 5:24 | 2026-03-20 | 2026-04-20 |
 | [Alone In LA](https://open.spotify.com/track/6hezehHsgXu0FvNzOMOLWK) | [Andrew Cärter](https://open.spotify.com/artist/5hng4ZEPzBFLEY0jfmFCdt) | [Alone In LA](https://open.spotify.com/album/1j8p383R5oRrfA6l48XZxH) | 3:05 | 2025-10-30 | 2025-11-22 |
 | [Alright](https://open.spotify.com/track/206t9kiN5fvPUOCzIayQuV) | [Hat Pin Panic](https://open.spotify.com/artist/77f1HkjJ9kj51sNjprGklj) | [Turn Past Tomorrow](https://open.spotify.com/album/3jWcJlU5XrV1b381It9xUw) | 3:24 | 2025-12-29 | 2026-01-21 |
+| [America](https://open.spotify.com/track/1lF0cXPNLyNUmvcgS7kUwp) | [Skags](https://open.spotify.com/artist/3C0AhBs8F5zmWqpbSgi8ux) | [America](https://open.spotify.com/album/5EIxl0YXV9E9OOJxMGeP7j) | 4:05 | 2026-05-04 |  |
 | [Anemia](https://open.spotify.com/track/3bWz0GzNoQfYN4j7ZCU5Dh) | [M30](https://open.spotify.com/artist/5NXrqwzWNRoJ9iJr6pM8Fz) | [Anemia](https://open.spotify.com/album/2hVCVRqUQt7UE41lNrh9DZ) | 2:43 | 2026-03-15 | 2026-04-20 |
 | [Anfang unsrer Zeit](https://open.spotify.com/track/4Gny5yM4G2ZeXpttdDgZw4) | [Voltwechsel](https://open.spotify.com/artist/2uf0QPyHmDcE3UG5etXM0j) | [Anfang unsrer Zeit](https://open.spotify.com/album/53WSXWPec4A5hUslMBdA5t) | 3:28 | 2026-04-16 |  |
 | [Another Broken Life](https://open.spotify.com/track/2C4uQkC2n41IDhKzr4ZfzI) | [Jasper Lane](https://open.spotify.com/artist/7Jy6PeI8aqpMobGCpaFSEw) | [Becoming The Angel](https://open.spotify.com/album/201udL0wJkhD9Md9s18KjC) | 4:18 | 2025-12-23 | 2026-01-21 |
@@ -134,6 +135,7 @@
 | [Down to My Feet](https://open.spotify.com/track/2DlausN3Iu4vDkdAID6w2c) | [Tuesday Morality](https://open.spotify.com/artist/2cFjxotbhCT7shNvSC4NxS) | [PARASITES](https://open.spotify.com/album/0OYvlXzuH05dKaP9uLsjYa) | 5:03 | 2025-12-05 | 2025-12-28 |
 | [Drink Deep](https://open.spotify.com/track/7gikiS1tbe16Xh3FPkRojT) | [The Rabbit Council](https://open.spotify.com/artist/1nSm3sva0zgXWbnUjsu5nf) | [Camera 321/Tivoli Park/Drink Deep](https://open.spotify.com/album/2U7atN68CngRU0oJk6BkOx) | 4:02 | 2025-11-26 | 2026-01-21 |
 | [Easy Rollin](https://open.spotify.com/track/32v73Yi63EoEukVxoaSv93) | [CHOCA BLUES](https://open.spotify.com/artist/3cCPBFA3njtllaTGO7Av2W) | [The Way We Roll](https://open.spotify.com/album/1QkiIps2aHo0aqkw3xWukw) | 2:48 | 2026-02-20 |  |
+| [Echo](https://open.spotify.com/track/3uWbd2PbEScUsakim9ChzO) | [Salad Slush](https://open.spotify.com/artist/3RlKnZ8ITYDL1Yqq4lkx0Z) | [Echo](https://open.spotify.com/album/1bAebW2AS0ShcgUX7QKtQm) | 3:22 | 2026-05-04 |  |
 | [Eighty\-Six](https://open.spotify.com/track/5qx78NNc9QLN0PeWXgveUf) | [Lake Point Drive](https://open.spotify.com/artist/0gcWzPRyPbChJiJ4kTWivn) | [Eighty\-Six](https://open.spotify.com/album/1iJgSclWGAiQWpwCZvlcrG) | 3:43 | 2026-02-20 | 2026-03-22 |
 | [El Despertar](https://open.spotify.com/track/065JBPwhEMyodKOZhmrWI0) | [Rober Mateos](https://open.spotify.com/artist/0b914nKij88tAr6TkZ93ml) | [El Despertar](https://open.spotify.com/album/2SKEGvt1F2dUGLfRywQ3Jm) | 3:28 | 2026-03-20 | 2026-04-20 |
 | [El Dilema](https://open.spotify.com/track/4agirhYgist2lFc31siLMJ) | [Jules Daud](https://open.spotify.com/artist/1tNRwa7nMv1Mn95KSxdQKI) | [El Dilema](https://open.spotify.com/album/3Sr0vFiBoB70RsDi27hjen) | 2:34 | 2025-11-22 | 2025-12-12 |

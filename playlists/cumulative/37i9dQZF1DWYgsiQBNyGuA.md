@@ -4,7 +4,7 @@
 
 > Soul to brighten up your day\. Cover: Durand Bernarr
 
-285 songs - 17 hr 48 min
+286 songs - 17 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [blessed like that](https://open.spotify.com/track/7FDtZrkFgI6WJbxWWsXwE7) | [threetwenty](https://open.spotify.com/artist/5DP3h81xD3klfn0M47GZlK) | [separate from the noise](https://open.spotify.com/album/3pteKawLGPDRRCGgFvlqPZ) | 2:57 | 2025-12-12 |  |
 | [Blue Magic \(Waikiki\)](https://open.spotify.com/track/3auSQjs9kylJwN0aU7S5Qc) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [New Magic](https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9) | 3:33 | 2022-01-05 | 2025-04-26 |
 | [Body Language \(feat\. Sasha Keable\)](https://open.spotify.com/track/5EUh2m1rTsojG22W7XrCBG) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Body Language \(feat\. Sasha Keable\)](https://open.spotify.com/album/2aeEO30e5qXXujdeJjL7kY) | 4:02 | 2025-02-21 |  |
-| [Breathe](https://open.spotify.com/track/07GWBE0uO09Yq4JJosrurR) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl) | [Violet](https://open.spotify.com/album/0q4ElxLsNfykdm4nNwVEl6) | 3:47 | 2025-01-24 |  |
+| [Breathe](https://open.spotify.com/track/07GWBE0uO09Yq4JJosrurR) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl) | [Violet](https://open.spotify.com/album/0q4ElxLsNfykdm4nNwVEl6) | 3:47 | 2025-01-24 | 2026-05-05 |
 | [BREATHE!](https://open.spotify.com/track/7pQ5f4zkmaS5G264xtbCvf) | [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [BREATHE!](https://open.spotify.com/album/2DK3WE4fJz4YgvaPz4ZXkw) | 3:29 | 2026-01-23 |  |
 | [Call Me](https://open.spotify.com/track/0W5qBuHbbBfCzszFxrQWMc) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Half the City](https://open.spotify.com/album/6s7QZPmc8m8s2TJGg1cyXQ) | 2:51 | 2022-01-05 | 2024-08-31 |
 | [Call Me](https://open.spotify.com/track/5Z0MrFDEIDB075We9w9276) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Half The City](https://open.spotify.com/album/6BN0KczNzSrfmKoQzd6lMS) | 2:51 | 2022-01-05 | 2024-04-19 |
@@ -64,6 +64,7 @@
 | [Crysalis](https://open.spotify.com/track/0JTaxloJYWa8xu8VZ9DqbF) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [CRYSALIS](https://open.spotify.com/album/18OM4kStC0UfGiJZcqePgX) | 1:47 | 2025-08-08 |  |
 | [Da Du Dah](https://open.spotify.com/track/0VcvKN17fqyvbznfwypjDB) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Tuff Times Never Last](https://open.spotify.com/album/7LsYc5gkR6w8VMOME78YmM) | 3:48 | 2025-07-11 |  |
 | [Dance My Way Back](https://open.spotify.com/track/6gwDGra690TbcUx3noEug5) | [Nothing But Funk](https://open.spotify.com/artist/32RSzgTDqApMWHr6tLNLBF), [Groove Safari](https://open.spotify.com/artist/1jnLp3FtI86FT8ND2vnncD), [Joe Killington](https://open.spotify.com/artist/0QvtEuDIDAsKpfuOe2a237) | [Dance My Way Back](https://open.spotify.com/album/6anNmKSdX8tjNdt3p7kdSP) | 3:27 | 2024-03-08 | 2024-11-02 |
+| [DAYDREAMING](https://open.spotify.com/track/6yivKcIUlFdpQvHFIzgWVM) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [The Crown](https://open.spotify.com/album/64a2yWLGIWj9MlHIcaav9e) | 3:48 | 2025-04-25 |  |
 | [Don't Give It Up](https://open.spotify.com/track/6R5J8hj4Nh8qSubFuI5gPc) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [It Could Be Worse](https://open.spotify.com/album/1mRgtlHEIpq6xOg71TxGqV) | 2:46 | 2026-01-23 |  |
 | [Don't Remind Me \(with Anderson .Paak\)](https://open.spotify.com/track/1kUJ7401ShEYzAgdTfg2Dp) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Pretty Idea](https://open.spotify.com/album/5OKVgysqIZvSUMVdEmilCu) | 3:38 | 2025-10-10 |  |
 | [Don't You Know](https://open.spotify.com/track/0jecTSpHjOy5CyqEdfod5c) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [American Love Call](https://open.spotify.com/album/7FU0CDJvPwKDWRXtHYcsoY) | 3:20 | 2022-01-05 | 2024-04-19 |

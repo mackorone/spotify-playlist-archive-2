@@ -1,6 +1,6 @@
 {
   "description": "Tu dosis diaria de rock \ud83d\udcf8 NTVG",
-  "num_followers": 194234,
+  "num_followers": 194251,
   "original_name": "Rock del D\u00eda",
   "owner": {
     "name": "Spotify",
@@ -655,6 +655,22 @@
     {
       "added_at": "2026-04-24 03:01:10",
       "album": {
+        "name": "Especial",
+        "url": "https://open.spotify.com/album/6jnYqzP7SLpLabodU9Ie0E"
+      },
+      "artists": [
+        {
+          "name": "Viejas Locas",
+          "url": "https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV"
+        }
+      ],
+      "duration_ms": 214600,
+      "name": "Todo Sigue Igual",
+      "url": "https://open.spotify.com/track/75dqA2rQHnUtP7XjvkmKh2"
+    },
+    {
+      "added_at": "2026-04-24 03:01:10",
+      "album": {
         "name": "Otras Canciones",
         "url": "https://open.spotify.com/album/72SqrtijWJKq6ukitktd1D"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 237873,
       "name": "De Nada Sirve",
       "url": "https://open.spotify.com/track/2CFDPiNUxcSOqfQtUHYNxF"
-    },
-    {
-      "added_at": "2026-04-24 03:01:10",
-      "album": {
-        "name": "Especial",
-        "url": "https://open.spotify.com/album/6jnYqzP7SLpLabodU9Ie0E"
-      },
-      "artists": [
-        {
-          "name": "Viejas Locas",
-          "url": "https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV"
-        }
-      ],
-      "duration_ms": 214600,
-      "name": "Todo Sigue Igual",
-      "url": "https://open.spotify.com/track/75dqA2rQHnUtP7XjvkmKh2"
     },
     {
       "added_at": "2026-04-24 03:01:10",
@@ -887,22 +887,6 @@
     {
       "added_at": "2026-04-24 03:01:10",
       "album": {
-        "name": "Jessico",
-        "url": "https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh"
-      },
-      "artists": [
-        {
-          "name": "Babasonicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
-        }
-      ],
-      "duration_ms": 277011,
-      "name": "Los Calientes",
-      "url": "https://open.spotify.com/track/7L2arBxHMxVXbWQzaHKgnY"
-    },
-    {
-      "added_at": "2026-04-24 03:01:10",
-      "album": {
         "name": "Buscando un Amor",
         "url": "https://open.spotify.com/album/4AMgSDaOROvCGSNSz3rfYw"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 161133,
       "name": "Juntos a la Par",
       "url": "https://open.spotify.com/track/1Ig4pCPanhzXl7C86MmBUc"
+    },
+    {
+      "added_at": "2026-04-24 03:01:10",
+      "album": {
+        "name": "Jessico",
+        "url": "https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh"
+      },
+      "artists": [
+        {
+          "name": "Babasonicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+        }
+      ],
+      "duration_ms": 277011,
+      "name": "Los Calientes",
+      "url": "https://open.spotify.com/track/7L2arBxHMxVXbWQzaHKgnY"
     },
     {
       "added_at": "2026-04-24 03:01:10",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2026-04-24 03:01:10",
       "album": {
+        "name": "De La Cabeza Con Bersuit Vergarabat (Live In Buenos Aires / 2001)",
+        "url": "https://open.spotify.com/album/7xdsaV2y15dItFMlsoWTqu"
+      },
+      "artists": [
+        {
+          "name": "Bersuit Vergarabat",
+          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
+        }
+      ],
+      "duration_ms": 321640,
+      "name": "El Tiempo No Para - Live In Buenos Aires / 2001",
+      "url": "https://open.spotify.com/track/1PBFuWxDnAj0iRkPaePboA"
+    },
+    {
+      "added_at": "2026-04-24 03:01:10",
+      "album": {
         "name": "Al Parecer Todo Ha Sido una Trampa",
         "url": "https://open.spotify.com/album/25wv6eU2tDQDPLAYTyuj2Q"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 183882,
       "name": "Volver a Casa",
       "url": "https://open.spotify.com/track/7jFRaaxunWW0nFabUC5Omt"
-    },
-    {
-      "added_at": "2026-04-24 03:01:10",
-      "album": {
-        "name": "De La Cabeza Con Bersuit Vergarabat (Live In Buenos Aires / 2001)",
-        "url": "https://open.spotify.com/album/7xdsaV2y15dItFMlsoWTqu"
-      },
-      "artists": [
-        {
-          "name": "Bersuit Vergarabat",
-          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
-        }
-      ],
-      "duration_ms": 321640,
-      "name": "El Tiempo No Para - Live In Buenos Aires / 2001",
-      "url": "https://open.spotify.com/track/1PBFuWxDnAj0iRkPaePboA"
     },
     {
       "added_at": "2026-04-24 03:01:10",
@@ -1071,26 +1071,6 @@
     {
       "added_at": "2026-04-24 03:01:10",
       "album": {
-        "name": "Nada Es Tarde",
-        "url": "https://open.spotify.com/album/4N2vqVDcAjDpe44wYdDrKU"
-      },
-      "artists": [
-        {
-          "name": "La Franela",
-          "url": "https://open.spotify.com/artist/5P57GCRyvU7ln5GwNXU8ku"
-        },
-        {
-          "name": "EMI",
-          "url": "https://open.spotify.com/artist/6ITLgutvUhAIXVBbdr7FB1"
-        }
-      ],
-      "duration_ms": 295373,
-      "name": "Fue Tan Bueno",
-      "url": "https://open.spotify.com/track/0i2elQQdEZwsDX5icf0Co8"
-    },
-    {
-      "added_at": "2026-04-24 03:01:10",
-      "album": {
         "name": "Parte De La Religion",
         "url": "https://open.spotify.com/album/4MrFVzdNEgxfZbJyC2RQt9"
       },
@@ -1107,18 +1087,22 @@
     {
       "added_at": "2026-04-24 03:01:10",
       "album": {
-        "name": "Puertas",
-        "url": "https://open.spotify.com/album/0YyiLprwcLOytMKd4ES5tq"
+        "name": "Nada Es Tarde",
+        "url": "https://open.spotify.com/album/4N2vqVDcAjDpe44wYdDrKU"
       },
       "artists": [
         {
-          "name": "El Cuarteto De Nos",
-          "url": "https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH"
+          "name": "La Franela",
+          "url": "https://open.spotify.com/artist/5P57GCRyvU7ln5GwNXU8ku"
+        },
+        {
+          "name": "EMI",
+          "url": "https://open.spotify.com/artist/6ITLgutvUhAIXVBbdr7FB1"
         }
       ],
-      "duration_ms": 278818,
-      "name": "Espl\u00edn",
-      "url": "https://open.spotify.com/track/1CjA0TtKx6IMlSmKer9Wyw"
+      "duration_ms": 295373,
+      "name": "Fue Tan Bueno",
+      "url": "https://open.spotify.com/track/0i2elQQdEZwsDX5icf0Co8"
     },
     {
       "added_at": "2026-04-24 03:01:10",
@@ -1155,18 +1139,18 @@
     {
       "added_at": "2026-04-24 03:01:10",
       "album": {
-        "name": "Girando",
-        "url": "https://open.spotify.com/album/5uXPldCWi4gWWQRkbT0m5B"
+        "name": "Puertas",
+        "url": "https://open.spotify.com/album/0YyiLprwcLOytMKd4ES5tq"
       },
       "artists": [
         {
-          "name": "Ratones Paranoicos",
-          "url": "https://open.spotify.com/artist/5fVtUielMhdztOA34ArB6c"
+          "name": "El Cuarteto De Nos",
+          "url": "https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH"
         }
       ],
-      "duration_ms": 238506,
-      "name": "Sigue Girando",
-      "url": "https://open.spotify.com/track/4wjbUTC312rQO7rziAONDa"
+      "duration_ms": 278818,
+      "name": "Espl\u00edn",
+      "url": "https://open.spotify.com/track/1CjA0TtKx6IMlSmKer9Wyw"
     },
     {
       "added_at": "2026-04-24 03:01:10",
@@ -1187,6 +1171,22 @@
       "duration_ms": 186466,
       "name": "Tu Amor",
       "url": "https://open.spotify.com/track/3obYcaXHdTB1EvZE3PVQhd"
+    },
+    {
+      "added_at": "2026-04-24 03:01:10",
+      "album": {
+        "name": "Girando",
+        "url": "https://open.spotify.com/album/5uXPldCWi4gWWQRkbT0m5B"
+      },
+      "artists": [
+        {
+          "name": "Ratones Paranoicos",
+          "url": "https://open.spotify.com/artist/5fVtUielMhdztOA34ArB6c"
+        }
+      ],
+      "duration_ms": 238506,
+      "name": "Sigue Girando",
+      "url": "https://open.spotify.com/track/4wjbUTC312rQO7rziAONDa"
     },
     {
       "added_at": "2026-04-24 03:01:10",

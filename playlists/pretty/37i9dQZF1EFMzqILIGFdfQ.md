@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMzqILIGFdfQ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6usZxRd8e7TQwcksnohR1U">Denisia "Blu June" Andrews</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,041 likes - 119 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,042 likes - 119 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -128,4 +128,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMzqILIGFdfQ.md) - [plain]
 | 118 | [Free Fall \(feat\. Blu June\)](https://open.spotify.com/track/5A00izo7E1u9NcMaCVwIgR) | [Young Dro](https://open.spotify.com/artist/3ZooCJzNMTLpmJaIRUEorI), [Blu June](https://open.spotify.com/artist/33ccitBWLlxrI5sJN4ccuw) | [High Times](https://open.spotify.com/album/2gopJnmJD2S1yXtAWR9MVP) | 4:18 |
 | 119 | [Tattoo \(feat\. Jeremih\)](https://open.spotify.com/track/2A6ToOoGwznmWMhTM64Gud) | [Gillie Da Kid](https://open.spotify.com/artist/467NioAq9fvSiEnANCOGzE), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Welcome To Gilladelphia](https://open.spotify.com/album/0AH03qFsdih3raMGNMEpF2) | 3:36 |
 
-Snapshot ID: `AcQifAAAAAA6KK1DRwkxijVKmIp3JNEG`
+Snapshot ID: `AcQoHAAAAADYVLDthHu54lbuLmpalzXf`

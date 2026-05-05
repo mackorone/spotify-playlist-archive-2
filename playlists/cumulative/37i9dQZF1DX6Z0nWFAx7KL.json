@@ -4406,7 +4406,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 180000,
       "name": "Magic",
       "url": "https://open.spotify.com/track/19PWHVgbnzUZjwKlkQwL5S"
@@ -4834,6 +4834,24 @@
       "duration_ms": 124000,
       "name": "My Girl",
       "url": "https://open.spotify.com/track/4vnCOTT3hRLXWogSFfFd1j"
+    },
+    {
+      "album": {
+        "name": "Need A Break",
+        "url": "https://open.spotify.com/album/3ayu0iDvhYm0QEP7G2tO2j"
+      },
+      "artists": [
+        {
+          "name": "MAKS (FR)",
+          "url": "https://open.spotify.com/artist/0C3AuNGBY39ioSTA79TzMz"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147692,
+      "name": "Need A Break",
+      "url": "https://open.spotify.com/track/0est3WrsDX02oU8CumrLpz"
     },
     {
       "album": {

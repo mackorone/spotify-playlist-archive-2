@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR1U4quwaERH.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0B0BPkmlJbG5tsDwTUUcBq">Blush</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 183 likes - 90 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 182 likes - 90 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,11 +92,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR1U4quwaERH.md) - [plain]
 | 82 | [Nothing Like I Used To Be](https://open.spotify.com/track/3OWB60FMHQ7V1hPevITp4X) | [Tucker Nichol](https://open.spotify.com/artist/3M9ugSI1Vjp5mg1YpSjrVL) | [Nothing Like I Used To Be](https://open.spotify.com/album/0OEk2M4TSQFs9gWQqEWNyo) | 3:28 |
 | 83 | [Hold Out](https://open.spotify.com/track/6c65pbTsWaRowkkFhBPRrR) | [Shea Diamond](https://open.spotify.com/artist/5blcro89qJueGv0DGQ2rsH) | [Hold Out](https://open.spotify.com/album/3WH3rUjZNuKvXOEMruRmk2) | 3:32 |
 | 84 | [Bittersweet](https://open.spotify.com/track/2XVx3CrFPfBft2UOeNrphk) | [Blush](https://open.spotify.com/artist/31rc0iQFBQBf1PcS7L3wIN) | [Bittersweet](https://open.spotify.com/album/1k6BwqyMHqnUAwbpsL27G4) | 3:21 |
-| 85 | [Cheers](https://open.spotify.com/track/74SFVRttFhSJ39uBIVL6cG) | [Tucker Nichol](https://open.spotify.com/artist/3M9ugSI1Vjp5mg1YpSjrVL) | [i swear i'm fine](https://open.spotify.com/album/5vc312BLfbRpBvX3GLdfDs) | 4:15 |
-| 86 | [Don't Know What to Call It](https://open.spotify.com/track/6zfZyw34dIJZh8WCZWMGMT) | [Blush](https://open.spotify.com/artist/31rc0iQFBQBf1PcS7L3wIN) | [Don't Know What to Call It](https://open.spotify.com/album/4cyMu0ajv2wk0C9YMItSuA) | 3:16 |
-| 87 | [Body Like](https://open.spotify.com/track/2KjiUXQ6LyvIEyHBeic0Pl) | [Tucker Nichol](https://open.spotify.com/artist/3M9ugSI1Vjp5mg1YpSjrVL) | [can you keep a secret](https://open.spotify.com/album/4NykbCCKaLZyrEND5C2IOF) | 4:08 |
-| 88 | [Multiplicity](https://open.spotify.com/track/5FJrp4xbFzQmup3qKAl3Zd) | [India Shawn](https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL) | [Subject To Change](https://open.spotify.com/album/1qcVJ1Bp9CmACPIj0jmbmr) | 3:22 |
+| 85 | [Multiplicity](https://open.spotify.com/track/5FJrp4xbFzQmup3qKAl3Zd) | [India Shawn](https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL) | [Subject To Change](https://open.spotify.com/album/1qcVJ1Bp9CmACPIj0jmbmr) | 3:22 |
+| 86 | [Cheers](https://open.spotify.com/track/74SFVRttFhSJ39uBIVL6cG) | [Tucker Nichol](https://open.spotify.com/artist/3M9ugSI1Vjp5mg1YpSjrVL) | [i swear i'm fine](https://open.spotify.com/album/5vc312BLfbRpBvX3GLdfDs) | 4:15 |
+| 87 | [Don't Know What to Call It](https://open.spotify.com/track/6zfZyw34dIJZh8WCZWMGMT) | [Blush](https://open.spotify.com/artist/31rc0iQFBQBf1PcS7L3wIN) | [Don't Know What to Call It](https://open.spotify.com/album/4cyMu0ajv2wk0C9YMItSuA) | 3:16 |
+| 88 | [Body Like](https://open.spotify.com/track/2KjiUXQ6LyvIEyHBeic0Pl) | [Tucker Nichol](https://open.spotify.com/artist/3M9ugSI1Vjp5mg1YpSjrVL) | [can you keep a secret](https://open.spotify.com/album/4NykbCCKaLZyrEND5C2IOF) | 4:08 |
 | 89 | [WADE](https://open.spotify.com/track/4oZRhm2x62qN6prKI3S4fO) | [Parker Phillips](https://open.spotify.com/artist/4G4U0Pmtl0I2JKqI7uvsJw) | [AWAKENING](https://open.spotify.com/album/4xblTWNkBQJQQF9l5p9suu) | 2:46 |
 | 90 | [Fire](https://open.spotify.com/track/3Ic9ajFl2aBmmQFXQus3Ed) | [Hawk Love](https://open.spotify.com/artist/3mNH3Eq13YnMTwo8vWwwTR) | [Fire](https://open.spotify.com/album/1h88EmeUgoP9Yjpdhz60Jh) | 4:16 |
 
-Snapshot ID: `AcQihgAAAABcF13ZoSzbqBrOXFPpl5V6`
+Snapshot ID: `AcQoJgAAAADWaIIvP4RUYHQkGWYuU8Dq`

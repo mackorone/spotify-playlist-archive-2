@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3qhOHj.md) - [plain]
 
 > This is Mr\. Big\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,762 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,764 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3qhOHj.md) - [plain]
 | 44 | [Voodoo Kiss](https://open.spotify.com/track/3LdABwumpWjN7VAzXZh1xF) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Lean Into It \[Expanded\]](https://open.spotify.com/album/6CrjpyjlfjK95oHF6dvEnQ) | 4:07 |
 | 45 | [Just Let Your Heart Decide](https://open.spotify.com/track/0kHY2RwiRyOvL0WX9C7Brn) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [...The Stories We Could Tell](https://open.spotify.com/album/7n9ucIrj2GIE0VpLSU8Wpe) | 4:19 |
 | 46 | [Lost In America](https://open.spotify.com/track/3JG9t9qhTYktLGEA3UXZYr) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Actual Size](https://open.spotify.com/album/3l02aZ9l93Pyoq2nXkfQPq) | 4:52 |
-| 47 | [Damn I'm In Love Again](https://open.spotify.com/track/46b9DcpbBoMmTWK1zmLqMy) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Defying Gravity](https://open.spotify.com/album/0HOvcOEPF8JnjuJAw6GWME) | 2:55 |
-| 48 | [Electrified](https://open.spotify.com/track/4sRcPII8MiwTQGxptPdDVF) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Get Over It](https://open.spotify.com/album/49pbcb2iALtFnSAZDcdBDE) | 4:11 |
+| 47 | [Electrified](https://open.spotify.com/track/4sRcPII8MiwTQGxptPdDVF) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Get Over It](https://open.spotify.com/album/49pbcb2iALtFnSAZDcdBDE) | 4:11 |
+| 48 | [Damn I'm In Love Again](https://open.spotify.com/track/46b9DcpbBoMmTWK1zmLqMy) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Defying Gravity](https://open.spotify.com/album/0HOvcOEPF8JnjuJAw6GWME) | 2:55 |
 | 49 | [As Far As I Can See](https://open.spotify.com/track/7K3IcXuMFzd3gTZBZNBKxf) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [What If...](https://open.spotify.com/album/1HSKINJIwGJj6ECnx9gSiP) | 3:54 |
 | 50 | [The Frame](https://open.spotify.com/track/14Cn2Hu9CJvI4FomISSlkw) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Ten](https://open.spotify.com/album/3HA5is8uSDPpJcfZnBGkU9) | 3:56 |
 
-Snapshot ID: `afU+gAAAAACrcGlKTjPZaJbxikwyS4MY`
+Snapshot ID: `afaQAAAAAABs7sb1nUjif4frH+ejqxUG`

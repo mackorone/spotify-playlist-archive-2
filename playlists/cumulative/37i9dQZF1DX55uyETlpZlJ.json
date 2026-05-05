@@ -6583,6 +6583,28 @@
     },
     {
       "album": {
+        "name": "Life",
+        "url": "https://open.spotify.com/album/3Uu2bHn8aSM5Ig971gr9Rx"
+      },
+      "artists": [
+        {
+          "name": "CHARLIE",
+          "url": "https://open.spotify.com/artist/4lab8XoG0x9TbeClnEHmFA"
+        },
+        {
+          "name": "Freedom Beats",
+          "url": "https://open.spotify.com/artist/0BXbPlmnqZKVrPNsLZGGid"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172051,
+      "name": "Life",
+      "url": "https://open.spotify.com/track/6IryKSsE8v4pJcra0Hn0yn"
+    },
+    {
+      "album": {
         "name": "Life Is Casino",
         "url": "https://open.spotify.com/album/5SVm1UvQuDgoJVburb1lmv"
       },

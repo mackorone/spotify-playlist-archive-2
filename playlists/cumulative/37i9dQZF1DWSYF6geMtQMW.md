@@ -4,7 +4,7 @@
 
 > הפלייליסט הכי גדול בישראל, עם השירים הכי חמים של היום ומחר\. קאבר: בן צור
 
-224 songs - 12 hr 0 min
+225 songs - 12 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [אהבה ראשונה](https://open.spotify.com/track/6JPlSTk7mpboMx3VRxiFTC) | [נדב חנציס](https://open.spotify.com/artist/4ZXLucEFePscKcgUlD0Sf9) | [שירים בפתקים](https://open.spotify.com/album/3W7rpLDKrMVpNR0UwINLb2) | 3:01 | 2026-02-09 |  |
 | [אהבת השם](https://open.spotify.com/track/0rNhXjwIf1748jqeHo3n6z) | [בן צור](https://open.spotify.com/artist/13Bny64Z0lG2BQFHhrMTPb) | [חלק א' \- הוויה](https://open.spotify.com/album/4fZUiRvlUJrLzW9WNvocrV) | 2:15 | 2026-03-09 |  |
 | [אהבת חיי](https://open.spotify.com/track/4T87Z2bkvgdLI9sECWYF7i) | [חנן בן ארי](https://open.spotify.com/artist/343YYaA5MSjiZZ5cGyTr4u) | [אהבת חיי](https://open.spotify.com/album/74pNigP1FQzmaxpCt5cOxq) | 3:27 | 2025-12-09 | 2025-12-23 |
+| [אהבת חיי](https://open.spotify.com/track/0A1D1YYzOJjpqUTImCkIgA) | [רואי אדם](https://open.spotify.com/artist/0UaHRQkfX3cJ90fsXYvjjG) | [אהבת חיי](https://open.spotify.com/album/6MCx3UTuwxqibfwN5QCtrf) | 3:01 | 2026-05-04 |  |
 | [אהובתי כבר לא רואה אותי](https://open.spotify.com/track/2QkVXq7dLpefWAiETsvIOs) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [לחנים שבורים](https://open.spotify.com/album/6qBbLMrB32FOw0uitKl2RR) | 3:10 | 2024-11-18 | 2025-07-01 |
 | [או לה פופה](https://open.spotify.com/track/0evZ3J8iWcFH7kRYmg5Mzw) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [או לה פופה](https://open.spotify.com/album/1GDt5qgg0VLq9kjgO3QWT2) | 2:30 | 2026-02-23 |  |
 | [אחי](https://open.spotify.com/track/33KkOQIrkeKi3kOYwFdCxu) | [חנן בן ארי](https://open.spotify.com/artist/343YYaA5MSjiZZ5cGyTr4u) | [אחי](https://open.spotify.com/album/13U7rF5uDRFyPUNF73VBNk) | 3:10 | 2025-09-11 | 2025-10-07 |
@@ -132,7 +133,7 @@
 | [היום קמתי שמח](https://open.spotify.com/track/28hmfseWQTUSMuTNuXg4eI) | [Hanan Ben Ari](https://open.spotify.com/artist/343YYaA5MSjiZZ5cGyTr4u) | [היום קמתי שמח](https://open.spotify.com/album/4wQGldP9I0DP3G93syKX8v) | 3:49 | 2025-01-27 | 2025-04-15 |
 | [הלוואי](https://open.spotify.com/track/6MwsuFL115vgX9mCHlTZyU) | [פאר טסי](https://open.spotify.com/artist/24HI9hevLjIQtj7xp2CeHs), [חנן בן ארי](https://open.spotify.com/artist/343YYaA5MSjiZZ5cGyTr4u) | [הלוואי](https://open.spotify.com/album/2NxRJboinERkx6D6k675Ei) | 3:49 | 2026-04-13 |  |
 | [המבט בעיניך](https://open.spotify.com/track/6VYbnnpUYShqFn22MERtmP) | [Agam Buhbut](https://open.spotify.com/artist/3JPKPnzWJGjccn8SnjwA5i) | [21](https://open.spotify.com/album/6Fvp2M2J5FRFPC7dYIGD34) | 3:08 | 2025-11-10 |  |
-| [המלחמה האחרונה](https://open.spotify.com/track/1u7dx4QxbZbcWWEGfgFo0z) | [יאיר אלייצור](https://open.spotify.com/artist/7m09aLn1QHUz5D7hqNnkW2), [בר קופרשטיין](https://open.spotify.com/artist/4UMGNDRC0FJGJ7axLEYKKI) | [המלחמה האחרונה](https://open.spotify.com/album/3UKO9mogGg9UVqH3kDVqRZ) | 3:40 | 2026-04-07 |  |
+| [המלחמה האחרונה](https://open.spotify.com/track/1u7dx4QxbZbcWWEGfgFo0z) | [יאיר אלייצור](https://open.spotify.com/artist/7m09aLn1QHUz5D7hqNnkW2), [בר קופרשטיין](https://open.spotify.com/artist/4UMGNDRC0FJGJ7axLEYKKI) | [המלחמה האחרונה](https://open.spotify.com/album/3UKO9mogGg9UVqH3kDVqRZ) | 3:40 | 2026-04-07 | 2026-05-05 |
 | [השיר שאת אהבת](https://open.spotify.com/track/5Sn3aXG5AWFmd1ij2PTisj) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [תסמינים של פרידה](https://open.spotify.com/album/5zW2JPL3VdVwRwntUZ0F43) | 3:38 | 2025-06-16 |  |
 | [השם ירחם](https://open.spotify.com/track/3XSSUNQJHy7GTWtSHHITq5) | [Tuna](https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL) | [רובים ותלתלים](https://open.spotify.com/album/2IUqqrHhooIUMDoSHvSknW) | 3:53 | 2025-06-30 | 2026-04-08 |
 | [התקדמתי ממך](https://open.spotify.com/track/6svDE1ySQelKOFfW7kCn2B) | [Itay Levi](https://open.spotify.com/artist/6VdxGMRiiFQhI8F0FkuQZg), [ששון איפרם שאולוב](https://open.spotify.com/artist/1Wq2STGiL7ZaIHAm5jMakc) | [התקדמתי ממך](https://open.spotify.com/album/5xmE85c0FA5CL8ANqYAujL) | 3:07 | 2024-12-02 | 2025-10-07 |

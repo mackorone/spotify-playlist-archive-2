@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la M\u00fasica Mexicana. Cover: Chayito Valdez Hija \ud83d\udd25",
-  "num_followers": 580368,
+  "num_followers": 580345,
   "original_name": "Women of M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
@@ -339,22 +339,6 @@
     {
       "added_at": "2026-05-02 16:51:19",
       "album": {
-        "name": "Soy Fan",
-        "url": "https://open.spotify.com/album/5IOMxDPKMtuqX72hEwhz3Z"
-      },
-      "artists": [
-        {
-          "name": "RIA",
-          "url": "https://open.spotify.com/artist/21suutlchqrS2j8b2tjEWt"
-        }
-      ],
-      "duration_ms": 176714,
-      "name": "Soy Fan",
-      "url": "https://open.spotify.com/track/214dHBkQIghUJArTL083fZ"
-    },
-    {
-      "added_at": "2026-05-02 16:51:19",
-      "album": {
         "name": "\u00bfARDIDA QUI\u00c9N?",
         "url": "https://open.spotify.com/album/4oxsCPmw0U4j8Rg5jg6ygJ"
       },
@@ -375,54 +359,18 @@
     {
       "added_at": "2026-05-02 16:51:19",
       "album": {
-        "name": "BOTITAS",
-        "url": "https://open.spotify.com/album/7rUasUEfoC9BOjtKLfHA92"
+        "name": "Soy Fan",
+        "url": "https://open.spotify.com/album/5IOMxDPKMtuqX72hEwhz3Z"
       },
       "artists": [
         {
-          "name": "Isa La Mexicana",
-          "url": "https://open.spotify.com/artist/4RYI87k6c5m0asFEPE1vjK"
+          "name": "RIA",
+          "url": "https://open.spotify.com/artist/21suutlchqrS2j8b2tjEWt"
         }
       ],
-      "duration_ms": 166285,
-      "name": "BOTITAS",
-      "url": "https://open.spotify.com/track/2pCR8I7m7IaKIJoVR5eOOK"
-    },
-    {
-      "added_at": "2026-05-02 16:51:19",
-      "album": {
-        "name": "VOLV\u00cd",
-        "url": "https://open.spotify.com/album/4ZCC095ls57ZsnyHrq0OGo"
-      },
-      "artists": [
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        }
-      ],
-      "duration_ms": 181500,
-      "name": "VOLV\u00cd",
-      "url": "https://open.spotify.com/track/5HCOVIFYzLi5kMxoWVIyV3"
-    },
-    {
-      "added_at": "2026-05-02 16:51:19",
-      "album": {
-        "name": "Piensa en m\u00ed",
-        "url": "https://open.spotify.com/album/5rMtRy2rK07v1CSthUb8ev"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        },
-        {
-          "name": "Daniela Spalla",
-          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
-        }
-      ],
-      "duration_ms": 173102,
-      "name": "Piensa en m\u00ed",
-      "url": "https://open.spotify.com/track/1XwNYoMOeD7399kxslic0Q"
+      "duration_ms": 176714,
+      "name": "Soy Fan",
+      "url": "https://open.spotify.com/track/214dHBkQIghUJArTL083fZ"
     },
     {
       "added_at": "2026-05-02 16:51:19",
@@ -443,6 +391,58 @@
       "duration_ms": 213749,
       "name": "Hazy x Ti",
       "url": "https://open.spotify.com/track/32PH9SwqGeEpmyHfe64bn9"
+    },
+    {
+      "added_at": "2026-05-02 16:51:19",
+      "album": {
+        "name": "VOLV\u00cd",
+        "url": "https://open.spotify.com/album/4ZCC095ls57ZsnyHrq0OGo"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "duration_ms": 181500,
+      "name": "VOLV\u00cd",
+      "url": "https://open.spotify.com/track/5HCOVIFYzLi5kMxoWVIyV3"
+    },
+    {
+      "added_at": "2026-05-02 16:51:19",
+      "album": {
+        "name": "BOTITAS",
+        "url": "https://open.spotify.com/album/7rUasUEfoC9BOjtKLfHA92"
+      },
+      "artists": [
+        {
+          "name": "Isa La Mexicana",
+          "url": "https://open.spotify.com/artist/4RYI87k6c5m0asFEPE1vjK"
+        }
+      ],
+      "duration_ms": 166285,
+      "name": "BOTITAS",
+      "url": "https://open.spotify.com/track/2pCR8I7m7IaKIJoVR5eOOK"
+    },
+    {
+      "added_at": "2026-05-02 16:51:19",
+      "album": {
+        "name": "Piensa en m\u00ed",
+        "url": "https://open.spotify.com/album/5rMtRy2rK07v1CSthUb8ev"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
+        {
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+        }
+      ],
+      "duration_ms": 173102,
+      "name": "Piensa en m\u00ed",
+      "url": "https://open.spotify.com/track/1XwNYoMOeD7399kxslic0Q"
     },
     {
       "added_at": "2026-05-02 16:51:19",
@@ -531,22 +531,6 @@
     {
       "added_at": "2026-05-02 16:51:19",
       "album": {
-        "name": "A Pierna Suelta",
-        "url": "https://open.spotify.com/album/3MvE3jfLf0X7PJAZlJjmFR"
-      },
-      "artists": [
-        {
-          "name": "Lili Zetina",
-          "url": "https://open.spotify.com/artist/1At8hpss4elY0GBg2qP31j"
-        }
-      ],
-      "duration_ms": 177840,
-      "name": "A Pierna Suelta",
-      "url": "https://open.spotify.com/track/4bXD3k2GRkqjxCe9hTEyps"
-    },
-    {
-      "added_at": "2026-05-02 16:51:19",
-      "album": {
         "name": "Malagradecido",
         "url": "https://open.spotify.com/album/5krkvlcYYbvYnuiUVwDFa9"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 174133,
       "name": "Malagradecido",
       "url": "https://open.spotify.com/track/09GKeaFkvYFasYLWC0S0Fm"
+    },
+    {
+      "added_at": "2026-05-02 16:51:19",
+      "album": {
+        "name": "A Pierna Suelta",
+        "url": "https://open.spotify.com/album/3MvE3jfLf0X7PJAZlJjmFR"
+      },
+      "artists": [
+        {
+          "name": "Lili Zetina",
+          "url": "https://open.spotify.com/artist/1At8hpss4elY0GBg2qP31j"
+        }
+      ],
+      "duration_ms": 177840,
+      "name": "A Pierna Suelta",
+      "url": "https://open.spotify.com/track/4bXD3k2GRkqjxCe9hTEyps"
     },
     {
       "added_at": "2026-05-02 16:51:19",
@@ -611,26 +611,6 @@
       "duration_ms": 188671,
       "name": "Chingos De Amor",
       "url": "https://open.spotify.com/track/7BR2AICzC6Rd2hWRXd6WWp"
-    },
-    {
-      "added_at": "2026-05-02 16:51:19",
-      "album": {
-        "name": "MAMI",
-        "url": "https://open.spotify.com/album/2ghjonEq2YTFUKEFKAliPX"
-      },
-      "artists": [
-        {
-          "name": "Juan Freer",
-          "url": "https://open.spotify.com/artist/0a9vSkyCTnB36E2iZbRVtl"
-        },
-        {
-          "name": "Elaine Haro",
-          "url": "https://open.spotify.com/artist/2g55yY73Y02L4FpXJT02gS"
-        }
-      ],
-      "duration_ms": 158037,
-      "name": "MAMI",
-      "url": "https://open.spotify.com/track/2ntfgqBFCGLrtyOXqzjiEY"
     },
     {
       "added_at": "2026-05-02 16:51:19",
@@ -691,6 +671,42 @@
     {
       "added_at": "2026-05-02 16:51:19",
       "album": {
+        "name": "C\u00f3mo se baila",
+        "url": "https://open.spotify.com/album/5fqHmPxJjkkCSmLXjwXrmQ"
+      },
+      "artists": [
+        {
+          "name": "La Corea\u00f1era",
+          "url": "https://open.spotify.com/artist/74XNnqjblniM4XXlcJFak7"
+        }
+      ],
+      "duration_ms": 193285,
+      "name": "C\u00f3mo se baila",
+      "url": "https://open.spotify.com/track/3AgHkjyoFtuZuTnvFNDpe5"
+    },
+    {
+      "added_at": "2026-05-02 16:51:19",
+      "album": {
+        "name": "MAMI",
+        "url": "https://open.spotify.com/album/2ghjonEq2YTFUKEFKAliPX"
+      },
+      "artists": [
+        {
+          "name": "Juan Freer",
+          "url": "https://open.spotify.com/artist/0a9vSkyCTnB36E2iZbRVtl"
+        },
+        {
+          "name": "Elaine Haro",
+          "url": "https://open.spotify.com/artist/2g55yY73Y02L4FpXJT02gS"
+        }
+      ],
+      "duration_ms": 158037,
+      "name": "MAMI",
+      "url": "https://open.spotify.com/track/2ntfgqBFCGLrtyOXqzjiEY"
+    },
+    {
+      "added_at": "2026-05-02 16:51:19",
+      "album": {
         "name": "Y Nos Dieron Las 10",
         "url": "https://open.spotify.com/album/6O8iK5p2JYaPESpaSTawKu"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 316883,
       "name": "Y Nos Dieron Las 10",
       "url": "https://open.spotify.com/track/5VTTS6tweu30FEBcMhhz0P"
-    },
-    {
-      "added_at": "2026-05-02 16:51:19",
-      "album": {
-        "name": "C\u00f3mo se baila",
-        "url": "https://open.spotify.com/album/5fqHmPxJjkkCSmLXjwXrmQ"
-      },
-      "artists": [
-        {
-          "name": "La Corea\u00f1era",
-          "url": "https://open.spotify.com/artist/74XNnqjblniM4XXlcJFak7"
-        }
-      ],
-      "duration_ms": 193285,
-      "name": "C\u00f3mo se baila",
-      "url": "https://open.spotify.com/track/3AgHkjyoFtuZuTnvFNDpe5"
     },
     {
       "added_at": "2026-05-02 16:51:19",
@@ -763,22 +763,6 @@
     {
       "added_at": "2026-05-02 16:51:19",
       "album": {
-        "name": "18",
-        "url": "https://open.spotify.com/album/2qvKHTgVmbWmP4ofcZ9r2M"
-      },
-      "artists": [
-        {
-          "name": "Conexi\u00f3n Divina",
-          "url": "https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy"
-        }
-      ],
-      "duration_ms": 158804,
-      "name": "AUNQUE SEA EN DOS",
-      "url": "https://open.spotify.com/track/0wCsiKqiUwa1BB2bIrTDTs"
-    },
-    {
-      "added_at": "2026-05-02 16:51:19",
-      "album": {
         "name": "No soy para ti",
         "url": "https://open.spotify.com/album/1IrCd6P6dHbnSJdFa3ndoT"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 124785,
       "name": "No soy para ti",
       "url": "https://open.spotify.com/track/5ZDdNrpUuCZfbSbkHYpmWi"
+    },
+    {
+      "added_at": "2026-05-02 16:51:19",
+      "album": {
+        "name": "18",
+        "url": "https://open.spotify.com/album/2qvKHTgVmbWmP4ofcZ9r2M"
+      },
+      "artists": [
+        {
+          "name": "Conexi\u00f3n Divina",
+          "url": "https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy"
+        }
+      ],
+      "duration_ms": 158804,
+      "name": "AUNQUE SEA EN DOS",
+      "url": "https://open.spotify.com/track/0wCsiKqiUwa1BB2bIrTDTs"
     },
     {
       "added_at": "2026-05-02 16:51:19",
@@ -879,18 +879,18 @@
     {
       "added_at": "2026-05-02 16:51:19",
       "album": {
-        "name": "Me Acost\u00e9 Con Otro",
-        "url": "https://open.spotify.com/album/1syBSmGIPpAbMdmxjafVzW"
+        "name": "De Beso En Cuando",
+        "url": "https://open.spotify.com/album/6TVICULyTlgdXqhY06Ecuq"
       },
       "artists": [
         {
-          "name": "Olga Valkiria",
-          "url": "https://open.spotify.com/artist/6AkGdw07a7wxybz7y4pMj4"
+          "name": "Vilax",
+          "url": "https://open.spotify.com/artist/2COneGRGNI8iBBjrYN0xHr"
         }
       ],
-      "duration_ms": 200928,
-      "name": "Me Acost\u00e9 Con Otro",
-      "url": "https://open.spotify.com/track/1K9jcV0q1ptUH9FlPc8k4O"
+      "duration_ms": 156013,
+      "name": "De Beso En Cuando",
+      "url": "https://open.spotify.com/track/2Djiqy1ptXFvlKizkaga2a"
     },
     {
       "added_at": "2026-05-02 16:51:19",
@@ -911,70 +911,18 @@
     {
       "added_at": "2026-05-02 16:51:19",
       "album": {
-        "name": "De Beso En Cuando",
-        "url": "https://open.spotify.com/album/6TVICULyTlgdXqhY06Ecuq"
+        "name": "Me Acost\u00e9 Con Otro",
+        "url": "https://open.spotify.com/album/1syBSmGIPpAbMdmxjafVzW"
       },
       "artists": [
         {
-          "name": "Vilax",
-          "url": "https://open.spotify.com/artist/2COneGRGNI8iBBjrYN0xHr"
+          "name": "Olga Valkiria",
+          "url": "https://open.spotify.com/artist/6AkGdw07a7wxybz7y4pMj4"
         }
       ],
-      "duration_ms": 156013,
-      "name": "De Beso En Cuando",
-      "url": "https://open.spotify.com/track/2Djiqy1ptXFvlKizkaga2a"
-    },
-    {
-      "added_at": "2026-05-02 16:51:19",
-      "album": {
-        "name": "Nos Acostumbramos",
-        "url": "https://open.spotify.com/album/6gZi86AB67FMhdD26202rJ"
-      },
-      "artists": [
-        {
-          "name": "Helen Ochoa",
-          "url": "https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD"
-        },
-        {
-          "name": "Am\u00e9rica Sierra",
-          "url": "https://open.spotify.com/artist/6iK7hlQHfupGjQHrxQIMly"
-        }
-      ],
-      "duration_ms": 179647,
-      "name": "Nos Acostumbramos",
-      "url": "https://open.spotify.com/track/0GnSyaviaDBEtitiaH9TST"
-    },
-    {
-      "added_at": "2026-05-02 16:51:19",
-      "album": {
-        "name": "Esa Perra Ya Me Mordi\u00f3",
-        "url": "https://open.spotify.com/album/0J19wntQXd72hlcOZ7ucnC"
-      },
-      "artists": [
-        {
-          "name": "Erika Vidrio",
-          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
-        }
-      ],
-      "duration_ms": 210592,
-      "name": "Esa Perra Ya Me Mordi\u00f3",
-      "url": "https://open.spotify.com/track/1meWqNTdwoGQXdbizpKOUd"
-    },
-    {
-      "added_at": "2026-05-02 16:51:19",
-      "album": {
-        "name": "MEXICANA VOL. 2",
-        "url": "https://open.spotify.com/album/5TI6LSYMxe2Tl21NnUb8u4"
-      },
-      "artists": [
-        {
-          "name": "Carmen Goett",
-          "url": "https://open.spotify.com/artist/4oVApCVBzpV2e8GXntnNXf"
-        }
-      ],
-      "duration_ms": 195060,
-      "name": "Mi Reh\u00e9n",
-      "url": "https://open.spotify.com/track/7IvhK66l8t2UQICRlg38W1"
+      "duration_ms": 200928,
+      "name": "Me Acost\u00e9 Con Otro",
+      "url": "https://open.spotify.com/track/1K9jcV0q1ptUH9FlPc8k4O"
     },
     {
       "added_at": "2026-05-02 16:51:19",
@@ -999,6 +947,74 @@
     {
       "added_at": "2026-05-02 16:51:19",
       "album": {
+        "name": "Esa Perra Ya Me Mordi\u00f3",
+        "url": "https://open.spotify.com/album/0J19wntQXd72hlcOZ7ucnC"
+      },
+      "artists": [
+        {
+          "name": "Erika Vidrio",
+          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
+        }
+      ],
+      "duration_ms": 210592,
+      "name": "Esa Perra Ya Me Mordi\u00f3",
+      "url": "https://open.spotify.com/track/1meWqNTdwoGQXdbizpKOUd"
+    },
+    {
+      "added_at": "2026-05-02 16:51:19",
+      "album": {
+        "name": "Nos Acostumbramos",
+        "url": "https://open.spotify.com/album/6gZi86AB67FMhdD26202rJ"
+      },
+      "artists": [
+        {
+          "name": "Helen Ochoa",
+          "url": "https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD"
+        },
+        {
+          "name": "Am\u00e9rica Sierra",
+          "url": "https://open.spotify.com/artist/6iK7hlQHfupGjQHrxQIMly"
+        }
+      ],
+      "duration_ms": 179647,
+      "name": "Nos Acostumbramos",
+      "url": "https://open.spotify.com/track/0GnSyaviaDBEtitiaH9TST"
+    },
+    {
+      "added_at": "2026-05-02 16:51:19",
+      "album": {
+        "name": "Que Ganas De No Verte Nunca M\u00e1s",
+        "url": "https://open.spotify.com/album/2hkLkzcmOqFnlhZPpx58kw"
+      },
+      "artists": [
+        {
+          "name": "ANDYVERE",
+          "url": "https://open.spotify.com/artist/5XxeDwviA9LNx9xMBUAZxa"
+        }
+      ],
+      "duration_ms": 209920,
+      "name": "Que Ganas De No Verte Nunca M\u00e1s",
+      "url": "https://open.spotify.com/track/0Z1Hwnp3Ts3tpK4Lki5KOp"
+    },
+    {
+      "added_at": "2026-05-02 16:51:19",
+      "album": {
+        "name": "MEXICANA VOL. 2",
+        "url": "https://open.spotify.com/album/5TI6LSYMxe2Tl21NnUb8u4"
+      },
+      "artists": [
+        {
+          "name": "Carmen Goett",
+          "url": "https://open.spotify.com/artist/4oVApCVBzpV2e8GXntnNXf"
+        }
+      ],
+      "duration_ms": 195060,
+      "name": "Mi Reh\u00e9n",
+      "url": "https://open.spotify.com/track/7IvhK66l8t2UQICRlg38W1"
+    },
+    {
+      "added_at": "2026-05-02 16:51:19",
+      "album": {
         "name": "Hoy Lo Vi Pasar",
         "url": "https://open.spotify.com/album/4EsqMRhaRNkK5fmLLKyg6u"
       },
@@ -1011,6 +1027,22 @@
       "duration_ms": 213480,
       "name": "Hoy Lo Vi Pasar",
       "url": "https://open.spotify.com/track/66L6J0eHhh5ks7xu5oJ2UO"
+    },
+    {
+      "added_at": "2026-05-02 16:51:19",
+      "album": {
+        "name": "El Hielo Est\u00e1 Quemando",
+        "url": "https://open.spotify.com/album/6sIF5BI4afDsFPidOpz7mQ"
+      },
+      "artists": [
+        {
+          "name": "Erika Vidrio",
+          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
+        }
+      ],
+      "duration_ms": 189884,
+      "name": "El Hielo Est\u00e1 Quemando",
+      "url": "https://open.spotify.com/track/4Rl2jgJ9QCf0gWCnMUU9uj"
     },
     {
       "added_at": "2026-05-02 16:51:19",
@@ -1031,22 +1063,6 @@
       "duration_ms": 165000,
       "name": "Ahora Te Aguantas",
       "url": "https://open.spotify.com/track/6zB7NJW1QfOMN85gJteqfm"
-    },
-    {
-      "added_at": "2026-05-02 16:51:19",
-      "album": {
-        "name": "El Hielo Est\u00e1 Quemando",
-        "url": "https://open.spotify.com/album/6sIF5BI4afDsFPidOpz7mQ"
-      },
-      "artists": [
-        {
-          "name": "Erika Vidrio",
-          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
-        }
-      ],
-      "duration_ms": 189884,
-      "name": "El Hielo Est\u00e1 Quemando",
-      "url": "https://open.spotify.com/track/4Rl2jgJ9QCf0gWCnMUU9uj"
     },
     {
       "added_at": "2026-05-02 16:51:19",
@@ -1087,22 +1103,6 @@
     {
       "added_at": "2026-05-02 16:51:19",
       "album": {
-        "name": "Que Ganas De No Verte Nunca M\u00e1s",
-        "url": "https://open.spotify.com/album/2hkLkzcmOqFnlhZPpx58kw"
-      },
-      "artists": [
-        {
-          "name": "ANDYVERE",
-          "url": "https://open.spotify.com/artist/5XxeDwviA9LNx9xMBUAZxa"
-        }
-      ],
-      "duration_ms": 209920,
-      "name": "Que Ganas De No Verte Nunca M\u00e1s",
-      "url": "https://open.spotify.com/track/0Z1Hwnp3Ts3tpK4Lki5KOp"
-    },
-    {
-      "added_at": "2026-05-02 16:51:19",
-      "album": {
         "name": "Caminos De Michoacan (En Vivo)",
         "url": "https://open.spotify.com/album/2onjf4QRJiGJWCwkXSDTxp"
       },
@@ -1131,6 +1131,22 @@
       "duration_ms": 150880,
       "name": "Cuando Ama Una Mujer",
       "url": "https://open.spotify.com/track/28prtlzyG5n8cItBlePn9o"
+    },
+    {
+      "added_at": "2026-05-02 16:51:19",
+      "album": {
+        "name": "\u00bfQui\u00e9n Es Usted?",
+        "url": "https://open.spotify.com/album/5IcZe5B1FZzVRtKT8sNYgS"
+      },
+      "artists": [
+        {
+          "name": "Ximena Ocampo",
+          "url": "https://open.spotify.com/artist/3NWb6W7xGBAxFUGp2e21ho"
+        }
+      ],
+      "duration_ms": 195245,
+      "name": "\u00bfQui\u00e9n Es Usted?",
+      "url": "https://open.spotify.com/track/5KWvrJF3O2w5niGvaaZt9K"
     },
     {
       "added_at": "2026-05-02 16:51:19",
@@ -1167,6 +1183,38 @@
     {
       "added_at": "2026-05-02 16:51:19",
       "album": {
+        "name": "Cuando Abras Los Ojos (En Vivo)",
+        "url": "https://open.spotify.com/album/4bVfMcEwztp8nUaqj5Pueq"
+      },
+      "artists": [
+        {
+          "name": "Las Mar\u00edas",
+          "url": "https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w"
+        }
+      ],
+      "duration_ms": 200745,
+      "name": "Cuando Abras Los Ojos (En Vivo)",
+      "url": "https://open.spotify.com/track/0Qe97fMABeUgesEKr51Xwl"
+    },
+    {
+      "added_at": "2026-05-02 16:51:19",
+      "album": {
+        "name": "Si A\u00fan Me Piensas",
+        "url": "https://open.spotify.com/album/4TcuzBNnFqqL1OHXQNhAbW"
+      },
+      "artists": [
+        {
+          "name": "Griss Romero",
+          "url": "https://open.spotify.com/artist/36eqG3jM0MhxTR7Cuw7BQA"
+        }
+      ],
+      "duration_ms": 178265,
+      "name": "Tragos de amargo licor",
+      "url": "https://open.spotify.com/track/7tLshdCe1K9QaEuUnnvQb8"
+    },
+    {
+      "added_at": "2026-05-02 16:51:19",
+      "album": {
         "name": "De Mi Enam\u00f3rate",
         "url": "https://open.spotify.com/album/1Uuwm9dLAENLFkQcXhEGfL"
       },
@@ -1195,74 +1243,6 @@
     {
       "added_at": "2026-05-02 16:51:19",
       "album": {
-        "name": "Cuando Abras Los Ojos (En Vivo)",
-        "url": "https://open.spotify.com/album/4bVfMcEwztp8nUaqj5Pueq"
-      },
-      "artists": [
-        {
-          "name": "Las Mar\u00edas",
-          "url": "https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w"
-        }
-      ],
-      "duration_ms": 200745,
-      "name": "Cuando Abras Los Ojos (En Vivo)",
-      "url": "https://open.spotify.com/track/0Qe97fMABeUgesEKr51Xwl"
-    },
-    {
-      "added_at": "2026-05-02 16:51:19",
-      "album": {
-        "name": "\u00bfQui\u00e9n Es Usted?",
-        "url": "https://open.spotify.com/album/5IcZe5B1FZzVRtKT8sNYgS"
-      },
-      "artists": [
-        {
-          "name": "Ximena Ocampo",
-          "url": "https://open.spotify.com/artist/3NWb6W7xGBAxFUGp2e21ho"
-        }
-      ],
-      "duration_ms": 195245,
-      "name": "\u00bfQui\u00e9n Es Usted?",
-      "url": "https://open.spotify.com/track/5KWvrJF3O2w5niGvaaZt9K"
-    },
-    {
-      "added_at": "2026-05-02 16:51:19",
-      "album": {
-        "name": "Si A\u00fan Me Piensas",
-        "url": "https://open.spotify.com/album/4TcuzBNnFqqL1OHXQNhAbW"
-      },
-      "artists": [
-        {
-          "name": "Griss Romero",
-          "url": "https://open.spotify.com/artist/36eqG3jM0MhxTR7Cuw7BQA"
-        }
-      ],
-      "duration_ms": 178265,
-      "name": "Tragos de amargo licor",
-      "url": "https://open.spotify.com/track/7tLshdCe1K9QaEuUnnvQb8"
-    },
-    {
-      "added_at": "2026-05-02 16:51:19",
-      "album": {
-        "name": "Se Me Sigue Olvidando",
-        "url": "https://open.spotify.com/album/0ghyA4LynKnYbejvvWPWFg"
-      },
-      "artists": [
-        {
-          "name": "Grupo Triunfadores",
-          "url": "https://open.spotify.com/artist/74TcxUH2X0cCpOD1uMWzWQ"
-        },
-        {
-          "name": "Posadas",
-          "url": "https://open.spotify.com/artist/5H855iUf9G9bfBIVpVUNCg"
-        }
-      ],
-      "duration_ms": 179566,
-      "name": "Se Me Sigue Olvidando",
-      "url": "https://open.spotify.com/track/61rsUkZSrsaP53mSVEPfWu"
-    },
-    {
-      "added_at": "2026-05-02 16:51:19",
-      "album": {
         "name": "All\u00e1 Donde Vayas",
         "url": "https://open.spotify.com/album/6w4pWVHHj7Adwh3Pe8u9fn"
       },
@@ -1275,6 +1255,22 @@
       "duration_ms": 213316,
       "name": "All\u00e1 Donde Vayas",
       "url": "https://open.spotify.com/track/2ZWIqmP9Y9AChlfMp9G9Jl"
+    },
+    {
+      "added_at": "2026-05-02 16:51:19",
+      "album": {
+        "name": "Regalame una Noche",
+        "url": "https://open.spotify.com/album/3ZeSujQTtsmXZRYjtucIWz"
+      },
+      "artists": [
+        {
+          "name": "Arhian",
+          "url": "https://open.spotify.com/artist/51RHZMpW7LcEybWvkZHrzT"
+        }
+      ],
+      "duration_ms": 219273,
+      "name": "Regalame una Noche",
+      "url": "https://open.spotify.com/track/3mJ7vdxAelGjfLxRAvk55a"
     },
     {
       "added_at": "2026-05-02 16:51:19",
@@ -1295,18 +1291,22 @@
     {
       "added_at": "2026-05-02 16:51:19",
       "album": {
-        "name": "Regalame una Noche",
-        "url": "https://open.spotify.com/album/3ZeSujQTtsmXZRYjtucIWz"
+        "name": "Se Me Sigue Olvidando",
+        "url": "https://open.spotify.com/album/0ghyA4LynKnYbejvvWPWFg"
       },
       "artists": [
         {
-          "name": "Arhian",
-          "url": "https://open.spotify.com/artist/51RHZMpW7LcEybWvkZHrzT"
+          "name": "Grupo Triunfadores",
+          "url": "https://open.spotify.com/artist/74TcxUH2X0cCpOD1uMWzWQ"
+        },
+        {
+          "name": "Posadas",
+          "url": "https://open.spotify.com/artist/5H855iUf9G9bfBIVpVUNCg"
         }
       ],
-      "duration_ms": 219273,
-      "name": "Regalame una Noche",
-      "url": "https://open.spotify.com/track/3mJ7vdxAelGjfLxRAvk55a"
+      "duration_ms": 179566,
+      "name": "Se Me Sigue Olvidando",
+      "url": "https://open.spotify.com/track/61rsUkZSrsaP53mSVEPfWu"
     },
     {
       "added_at": "2026-05-02 16:51:19",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2026-05-02 16:51:19",
       "album": {
-        "name": "Amigos No Por Favor",
-        "url": "https://open.spotify.com/album/0InEKfmd3uDp6i7pyHsGJ0"
-      },
-      "artists": [
-        {
-          "name": "Decibel Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/2CADP4a67sWx3GN3lJ9Wgu"
-        }
-      ],
-      "duration_ms": 242076,
-      "name": "Amigos No Por Favor",
-      "url": "https://open.spotify.com/track/5n3LTNCeqa3MmZFsCzddZm"
-    },
-    {
-      "added_at": "2026-05-02 16:51:19",
-      "album": {
         "name": "Mor\u00ed",
         "url": "https://open.spotify.com/album/5hfajor7a8h94UvEeIsbQd"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 213701,
       "name": "Mor\u00ed",
       "url": "https://open.spotify.com/track/7y6AeEz1yfkdagSUUEIB0m"
+    },
+    {
+      "added_at": "2026-05-02 16:51:19",
+      "album": {
+        "name": "Amigos No Por Favor",
+        "url": "https://open.spotify.com/album/0InEKfmd3uDp6i7pyHsGJ0"
+      },
+      "artists": [
+        {
+          "name": "Decibel Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/2CADP4a67sWx3GN3lJ9Wgu"
+        }
+      ],
+      "duration_ms": 242076,
+      "name": "Amigos No Por Favor",
+      "url": "https://open.spotify.com/track/5n3LTNCeqa3MmZFsCzddZm"
     },
     {
       "added_at": "2026-05-02 16:51:19",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2026-05-02 16:51:19",
       "album": {
-        "name": "F\u00c9NIX",
-        "url": "https://open.spotify.com/album/6Ex5X0AqZ7PvEtBr4ynksB"
-      },
-      "artists": [
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        }
-      ],
-      "duration_ms": 197288,
-      "name": "F\u00c9NIX",
-      "url": "https://open.spotify.com/track/6tkpFXONb3TLwIZUGeiXiB"
-    },
-    {
-      "added_at": "2026-05-02 16:51:19",
-      "album": {
         "name": "Que Tal?",
         "url": "https://open.spotify.com/album/3xX5hsUxsPjiK5MHKvm1U8"
       },
@@ -1503,18 +1487,18 @@
     {
       "added_at": "2026-05-02 16:51:19",
       "album": {
-        "name": "MEXICANA: EN VIVO (Live)",
-        "url": "https://open.spotify.com/album/2vhsyZLikuL3F9qTKD5yPQ"
+        "name": "F\u00c9NIX",
+        "url": "https://open.spotify.com/album/6Ex5X0AqZ7PvEtBr4ynksB"
       },
       "artists": [
         {
-          "name": "Carmen Goett",
-          "url": "https://open.spotify.com/artist/4oVApCVBzpV2e8GXntnNXf"
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
         }
       ],
-      "duration_ms": 256000,
-      "name": "Me Gustas para a Veces - Live",
-      "url": "https://open.spotify.com/track/7rJuQz3iSeg427iVrkcrzR"
+      "duration_ms": 197288,
+      "name": "F\u00c9NIX",
+      "url": "https://open.spotify.com/track/6tkpFXONb3TLwIZUGeiXiB"
     },
     {
       "added_at": "2026-05-02 16:51:19",
@@ -1531,6 +1515,22 @@
       "duration_ms": 193866,
       "name": "Ahora Somos",
       "url": "https://open.spotify.com/track/4M6r7BwrNtSyAGfYOOmcln"
+    },
+    {
+      "added_at": "2026-05-02 16:51:19",
+      "album": {
+        "name": "MEXICANA: EN VIVO (Live)",
+        "url": "https://open.spotify.com/album/2vhsyZLikuL3F9qTKD5yPQ"
+      },
+      "artists": [
+        {
+          "name": "Carmen Goett",
+          "url": "https://open.spotify.com/artist/4oVApCVBzpV2e8GXntnNXf"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "Me Gustas para a Veces - Live",
+      "url": "https://open.spotify.com/track/7rJuQz3iSeg427iVrkcrzR"
     },
     {
       "added_at": "2026-05-02 16:51:19",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2026-05-02 16:51:19",
       "album": {
-        "name": "Lo Tenia Chiquito",
-        "url": "https://open.spotify.com/album/0Y4w5Jp6MvRHNkT2tzXqYN"
-      },
-      "artists": [
-        {
-          "name": "Grupo Mal Tercio",
-          "url": "https://open.spotify.com/artist/6OQZ0w6pu9eCwvAUd92LaT"
-        }
-      ],
-      "duration_ms": 131593,
-      "name": "Lo Tenia Chiquito",
-      "url": "https://open.spotify.com/track/3Tkxzqu2XjEf2fJS4EPRo3"
-    },
-    {
-      "added_at": "2026-05-02 16:51:19",
-      "album": {
         "name": "La Bruta (En Vivo)",
         "url": "https://open.spotify.com/album/2c0n8wO3gVg2WhmOIUtpGA"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 174227,
       "name": "La Bruta - En Vivo",
       "url": "https://open.spotify.com/track/163temcvEe9TOytyKIBM0r"
+    },
+    {
+      "added_at": "2026-05-02 16:51:19",
+      "album": {
+        "name": "Lo Tenia Chiquito",
+        "url": "https://open.spotify.com/album/0Y4w5Jp6MvRHNkT2tzXqYN"
+      },
+      "artists": [
+        {
+          "name": "Grupo Mal Tercio",
+          "url": "https://open.spotify.com/artist/6OQZ0w6pu9eCwvAUd92LaT"
+        }
+      ],
+      "duration_ms": 131593,
+      "name": "Lo Tenia Chiquito",
+      "url": "https://open.spotify.com/track/3Tkxzqu2XjEf2fJS4EPRo3"
     },
     {
       "added_at": "2026-05-02 16:51:19",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2026-05-02 16:51:19",
       "album": {
-        "name": "Quisiera ser Ella",
-        "url": "https://open.spotify.com/album/3nKJFjupZzpCMvur1ZYI9D"
-      },
-      "artists": [
-        {
-          "name": "Alejandra Paniagua",
-          "url": "https://open.spotify.com/artist/428BJ6UrRiqssMjAWEujtR"
-        }
-      ],
-      "duration_ms": 210857,
-      "name": "Quisiera ser Ella",
-      "url": "https://open.spotify.com/track/1s3FlXg5zGkzKyopHhHjUA"
-    },
-    {
-      "added_at": "2026-05-02 16:51:19",
-      "album": {
         "name": "Amor Migajero",
         "url": "https://open.spotify.com/album/1DnyW8BiuysCcr6RgnRXEf"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 176374,
       "name": "Amor Migajero",
       "url": "https://open.spotify.com/track/7A0uJAjQ3oH8lsDhDF8g0m"
+    },
+    {
+      "added_at": "2026-05-02 16:51:19",
+      "album": {
+        "name": "Quisiera ser Ella",
+        "url": "https://open.spotify.com/album/3nKJFjupZzpCMvur1ZYI9D"
+      },
+      "artists": [
+        {
+          "name": "Alejandra Paniagua",
+          "url": "https://open.spotify.com/artist/428BJ6UrRiqssMjAWEujtR"
+        }
+      ],
+      "duration_ms": 210857,
+      "name": "Quisiera ser Ella",
+      "url": "https://open.spotify.com/track/1s3FlXg5zGkzKyopHhHjUA"
     }
   ],
   "unique_name": "Women of M\u00fasica Mexicana",

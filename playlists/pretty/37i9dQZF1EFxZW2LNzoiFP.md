@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3rXMJJovziaMDuWRKpDI6f">Gianluca Buccellati</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 133 likes - 283 songs - 16 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 134 likes - 283 songs - 16 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -272,8 +272,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 262 | [Come Into The Light](https://open.spotify.com/track/3kjDnoYuBJ2hyU5A18GGRt) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Hang Up the Lights](https://open.spotify.com/album/2BA3GdQiKcy2OWSo18Otfb) | 2:48 |
 | 263 | [teya teya](https://open.spotify.com/track/3PPcYJR6ASVxK7VKFVlPxw) | [Bien et Toi](https://open.spotify.com/artist/4suQx12DObcRABlwiuA96a) | [teya teya](https://open.spotify.com/album/2gTAk0cukmal4jaqAhvRUA) | 2:53 |
 | 264 | [Heart of Mine](https://open.spotify.com/track/1JTeVyVOUcSJhlWsJc2dau) | [Still Eye](https://open.spotify.com/artist/6DWaAKLqOqWs7GvEoslkTL) | [Heart of Mine](https://open.spotify.com/album/3Cy3PAQStwxw9PGvkogTBg) | 3:06 |
-| 265 | [You Messed up](https://open.spotify.com/track/71Fd6U35FeS9eZnPXZWz2c) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Vibes](https://open.spotify.com/album/7tX62HHF8Z0I9NjGs4oG2x) | 3:25 |
-| 266 | [Hold On To That Feelin'](https://open.spotify.com/track/0JYbyV3lEwDtHREABiaS0T) | [Jordan Paul](https://open.spotify.com/artist/31QZ4RJ3RRju0BT8z5ke2N) | [Hold On To That Feelin'](https://open.spotify.com/album/6BfCtnQsqADj2K4mVZ1oXH) | 2:43 |
+| 265 | [Hold On To That Feelin'](https://open.spotify.com/track/0JYbyV3lEwDtHREABiaS0T) | [Jordan Paul](https://open.spotify.com/artist/31QZ4RJ3RRju0BT8z5ke2N) | [Hold On To That Feelin'](https://open.spotify.com/album/6BfCtnQsqADj2K4mVZ1oXH) | 2:43 |
+| 266 | [You Messed up](https://open.spotify.com/track/71Fd6U35FeS9eZnPXZWz2c) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Vibes](https://open.spotify.com/album/7tX62HHF8Z0I9NjGs4oG2x) | 3:25 |
 | 267 | [Jerks](https://open.spotify.com/track/2mRqulmiK3UKOMZcEHWX2v) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Vibes](https://open.spotify.com/album/7tX62HHF8Z0I9NjGs4oG2x) | 4:10 |
 | 268 | [123456](https://open.spotify.com/track/7zVTLv5K9qk73GVtOyCL3c) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [DITV](https://open.spotify.com/album/7mToPuaOfKRuzuutEsFiMC) | 3:01 |
 | 269 | [When I Come Back](https://open.spotify.com/track/0GCHW7uIaVh4WBUI2QIkSO) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Vibes](https://open.spotify.com/album/7tX62HHF8Z0I9NjGs4oG2x) | 4:44 |
@@ -292,4 +292,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 282 | [Water Lily](https://open.spotify.com/track/635tpDIpccjgHnOmd80WfP) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [III](https://open.spotify.com/album/0nsv6a3ClDLQKjpRlQWaza) | 2:45 |
 | 283 | [SPIKE JONZE](https://open.spotify.com/track/1jUlAFuYm0iTbfy8neFL1P) | [SUNFEELS](https://open.spotify.com/artist/3CcplobEljGcerDRDbMJKl) | [SUNFEELS](https://open.spotify.com/album/0jmXQK0xYNCeigwyhgC5Op) | 1:27 |
 
-Snapshot ID: `AcQihgAAAAC4mgMLJ9FAeLBzT/uCLBTj`
+Snapshot ID: `AcQoJgAAAAAleLW6Bt9XyoFGP4H7szMu`

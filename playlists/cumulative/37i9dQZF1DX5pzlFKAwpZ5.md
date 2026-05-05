@@ -4,7 +4,7 @@
 
 > The calming space of Japanese Ambient and Environmental music.
 
-386 songs - 1 day 3 hr 54 min
+387 songs - 1 day 3 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,7 @@
 | [Dear \- Haruhisa Tanaka Remix](https://open.spotify.com/track/2ywToZCo1xMtpjNiajUN15) | [I.P.U](https://open.spotify.com/artist/3I1SIa0FykFwmby0dic6kD), [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [Dear \(Haruhisa Tanaka Remix\)](https://open.spotify.com/album/31gQHe5f40ebWcPxgUyUG3) | 2:10 | 2023-08-24 |  |
 | [Deep Slope](https://open.spotify.com/track/3vnxDCohhQne2ae9RYbTZ6) | [Shinji Wakasa](https://open.spotify.com/artist/0Z0FNsj58WHvVPj5RTkrNO) | [Deep Slope](https://open.spotify.com/album/6Odd0pQof21z3lkmu1ncZz) | 6:43 | 2022-08-19 | 2025-01-25 |
 | [Deep Slope](https://open.spotify.com/track/7eMuRAkos8JufYmNwjxshE) | [Shinji Wakasa](https://open.spotify.com/artist/0Z0FNsj58WHvVPj5RTkrNO) | [Deep Slope](https://open.spotify.com/album/5iAC5AAza3lS6gUIpCuz6N) | 6:43 | 2023-01-06 | 2024-04-19 |
-| [drizzle](https://open.spotify.com/track/7uMejNc2Z9zbLQtDjBiaJc) | [Masafumi Teruyama](https://open.spotify.com/artist/7JvohrvesZBdTIDC2r1n7P) | [drizzle](https://open.spotify.com/album/1HhtP45ahsxWLgOVO56VaJ) | 1:13 | 2026-03-09 |  |
+| [drizzle](https://open.spotify.com/track/7uMejNc2Z9zbLQtDjBiaJc) | [Masafumi Teruyama](https://open.spotify.com/artist/7JvohrvesZBdTIDC2r1n7P) | [drizzle](https://open.spotify.com/album/1HhtP45ahsxWLgOVO56VaJ) | 1:13 | 2026-03-09 | 2026-05-05 |
 | [Ear Dreamin'](https://open.spotify.com/track/2b7h7hMkxj5hDorhGfTGoU) | [Yoshiaki Ochi](https://open.spotify.com/artist/13mbePwXckXt3I7My0oypo) | [Kankyō Ongaku: Japanese Ambient, Environmental & New Age Music 1980\-1990](https://open.spotify.com/album/63x6MwkzIVtoH6lbHIYEtr) | 4:45 | 2022-12-30 | 2025-03-07 |
 | [Early Morning](https://open.spotify.com/track/4QMTjiyxQZyHkJkd5kOVjo) | [Yuki Ishii](https://open.spotify.com/artist/7uNHU1YLG5NsxBgwkx60SR) | [REFLECTION](https://open.spotify.com/album/2X2kWxa1i0mMX07XFgmgW2) | 1:32 | 2022-01-07 | 2025-06-13 |
 | [ease](https://open.spotify.com/track/06pU69J6u4taE4LK9ku2vb) | [Seizan Ishigaki](https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0) | [ease](https://open.spotify.com/album/2SIYEfjIPKkJ2NnfJg8ARL) | 2:50 | 2024-03-07 |  |
@@ -350,11 +350,11 @@
 | [Uprise](https://open.spotify.com/track/6Irafr3hWhoQOgWkNUQXIr) | [Keigo Tanaka](https://open.spotify.com/artist/6t4tsh9Xx0oPZQayHbxLb3) | [Uprise](https://open.spotify.com/album/4KZAgayKyBYJaD4ZQ9cxH2) | 8:15 | 2022-03-25 |  |
 | [Variation I](https://open.spotify.com/track/03DhSqOpC0WShbijAAmdYZ) | [aus](https://open.spotify.com/artist/2JHQIdLnjfyobZpDbVGdKV) | [eau](https://open.spotify.com/album/7cFPblcCkLc6105lfgAP2o) | 5:54 | 2025-12-12 |  |
 | [Veil](https://open.spotify.com/track/59fyg6qoudEnDdbZFTnifW) | [P3PPER](https://open.spotify.com/artist/0iq9s28aS7Tzobq9Yznwnj), [Milkoi](https://open.spotify.com/artist/1k5UEOU4igPC0NoHjEekha) | [잔물결 \(janmulgyeol\)](https://open.spotify.com/album/1jIKfpjeGejpLvmkQFId1i) | 3:06 | 2022-10-15 | 2026-04-01 |
-| [vein](https://open.spotify.com/track/49G3HACR0IyFpJRAoqGEJo) | [Masafumi Teruyama](https://open.spotify.com/artist/7JvohrvesZBdTIDC2r1n7P) | [vein](https://open.spotify.com/album/2plekO82mLrp2VYp8MhfZV) | 2:08 | 2025-08-01 | 2026-05-01 |
+| [vein](https://open.spotify.com/track/49G3HACR0IyFpJRAoqGEJo) | [Masafumi Teruyama](https://open.spotify.com/artist/7JvohrvesZBdTIDC2r1n7P) | [vein](https://open.spotify.com/album/2plekO82mLrp2VYp8MhfZV) | 2:08 | 2025-08-01 |  |
 | [Vein City](https://open.spotify.com/track/7EXGCsLaZ7cpqZUd20OnQh) | [Tokyo Psychedelic Orchestra](https://open.spotify.com/artist/2PEDfFyUgIx55dhCLmjBcI) | [Vein City](https://open.spotify.com/album/4bbCNoen5ZyurPFxzvGeei) | 2:23 | 2026-01-23 | 2026-03-05 |
 | [Vertigo 1](https://open.spotify.com/track/23PPXZPM0MIkrv9MRxh9MU) | [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [Vertigo](https://open.spotify.com/album/0ODGgBETKrOrUgakvvvTxF) | 2:58 | 2023-03-11 | 2023-08-25 |
 | [vi \(almost equal to\) ix](https://open.spotify.com/track/5JZq6B2jtxGVvmausM9Xed) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [vi \(almost equal to\) ix](https://open.spotify.com/album/6HeluvAtfAwsWp2e7sTCOf) | 3:44 | 2022-05-06 |  |
-| [Walking in the Sea](https://open.spotify.com/track/0rFhXk6S4OFZ5j8bm2ALAz) | [Tomo\-Nakaguchi](https://open.spotify.com/artist/5x9yhEiHELdwW5zDBA6ueZ) | [Walking in the Sea](https://open.spotify.com/album/36Mp35DUrNArzQKzwamY23) | 4:46 | 2023-03-11 |  |
+| [Walking in the Sea](https://open.spotify.com/track/0rFhXk6S4OFZ5j8bm2ALAz) | [Tomo\-Nakaguchi](https://open.spotify.com/artist/5x9yhEiHELdwW5zDBA6ueZ) | [Walking in the Sea](https://open.spotify.com/album/36Mp35DUrNArzQKzwamY23) | 4:46 | 2023-03-11 | 2026-05-05 |
 | [Wanderer](https://open.spotify.com/track/7d3AfivASmxXlmF93jFegO) | [HAL ca](https://open.spotify.com/artist/4PtZB4ONshF7mdbYQgVWtm) | [Wanderer](https://open.spotify.com/album/4LjFjTFlduHdM4zXXJFb87) | 7:51 | 2024-08-08 | 2026-04-28 |
 | [Warm Rain in June I](https://open.spotify.com/track/6Le1Cc6RGvSJjOcqNmrVL0) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Black Swallow](https://open.spotify.com/album/5Jjb86zs7y0MmchMBNvpNU) | 3:34 | 2022-01-07 |  |
 | [Wash Away](https://open.spotify.com/track/5ssOenJilur3jusYUMlxE5) | [KENJI KIHARA](https://open.spotify.com/artist/4JsGTBZYjVz58foTVKslRi) | [Wash Away](https://open.spotify.com/album/77ouSeJzcbTjz3IWh3uezq) | 3:01 | 2022-01-07 |  |
@@ -366,6 +366,7 @@
 | [What It Means to Me](https://open.spotify.com/track/50zcUtpLD8yp5s2lTARxvV) | [Ex Confusion](https://open.spotify.com/artist/2L74iwWkXmtJwADx8DoK1E) | [With Love](https://open.spotify.com/album/2bLN1o2TlcAqYSjzLQ9ok7) | 3:46 | 2022-07-22 | 2023-04-30 |
 | [What It Means to Me](https://open.spotify.com/track/7swpWyjiKAnAvaPvsK5kJ9) | [Ex Confusion](https://open.spotify.com/artist/2L74iwWkXmtJwADx8DoK1E) | [With Love](https://open.spotify.com/album/4tk08ZYNtt6I5GMesH7ODT) | 3:46 | 2022-01-07 | 2026-02-01 |
 | [when fossils dream](https://open.spotify.com/track/14fW5Ka6MstcnK7LczezYk) | [invisible design](https://open.spotify.com/artist/0PGLAS23Jf5WcA4xaCmxLM) | [night museum](https://open.spotify.com/album/58EvMt6aO7smm3cFjWqkGf) | 5:12 | 2025-10-03 | 2025-12-03 |
+| [When the Planets Align2040 To the next future](https://open.spotify.com/track/0XEfObHLoTTHWSw5hGzcZs) | [I.P.U](https://open.spotify.com/artist/3I1SIa0FykFwmby0dic6kD) | [When the Planets Align2040 To the next future](https://open.spotify.com/album/2JEFR4wer5OWZOCPMFNd7U) | 3:01 | 2026-04-27 |  |
 | [Whirlwind](https://open.spotify.com/track/4fEmztNkFn2Edb6lN4t2Zx) | [Kazuma Okabayashi](https://open.spotify.com/artist/5wERxGUf4rAPnGdfLDrewa) | [Great Wind](https://open.spotify.com/album/6pt8OMCD3Q50VoM1mKICaw) | 3:04 | 2023-01-20 | 2025-02-10 |
 | [Wrapped](https://open.spotify.com/track/2hP5fvJv3YlaHsKHauQo8g) | [Akira Noumi](https://open.spotify.com/artist/5tUffhZ8wsHXifLfzhwNPm) | [Wrapped](https://open.spotify.com/album/2NHnwthgoUZbyuddHdVamb) | 2:44 | 2024-06-15 | 2025-12-14 |
 | [YACHIMATA\_160308](https://open.spotify.com/track/6PO1iv4vQLphE9rnjQAtqa) | [Miyauchi Yuri](https://open.spotify.com/artist/1AVCRg5rAMfIXaUcz2fi3p) | [YACHIMATA](https://open.spotify.com/album/7mFeKzLa9K3mz6AZPT7NVl) | 3:22 | 2022-01-07 | 2022-07-29 |

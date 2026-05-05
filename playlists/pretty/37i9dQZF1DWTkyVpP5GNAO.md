@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkyVpP5GNAO.md) - [plain]
 
 > Dale a Dios toda la gloria y alabanza! Foto: Su Presencia
 
-[Spotify](https://open.spotify.com/user/spotify) - 558,302 likes - 70 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 558,375 likes - 70 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkyVpP5GNAO.md) - [plain]
 | 69 | [En Tu Nombre](https://open.spotify.com/track/7plucZK8XQbeXEWu6t9FGl) | [Toni Romero](https://open.spotify.com/artist/69BWizWNZTCdBWLb1zllgw), [Factor de Cambio](https://open.spotify.com/artist/4diJ4cXKwaaGZZn5L9G7cb) | [En Tu Nombre](https://open.spotify.com/album/4ur5GcEtwszqg8AbcBBKws) | 7:14 |
 | 70 | [Mi Rey Siempre Serás](https://open.spotify.com/track/0dGwd2FdpxJ7VC45WW7VNf) | [Seth Condrey](https://open.spotify.com/artist/4DeiqSO9kyWDr1KuQTYMVg) | [Mi Rey Siempre Serás](https://open.spotify.com/album/6lPMJC8PrwcLPbg08MHe8l) | 4:13 |
 
-Snapshot ID: `AAAAAFLIWIrGNJUP3RCR06gISqtbn9V5`
+Snapshot ID: `AAAAAAbHY7eZLjT+FyexKpQhh544OugW`

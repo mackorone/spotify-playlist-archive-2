@@ -1,6 +1,6 @@
 {
   "description": "Pos\u0142uchaj zwyci\u0119zc\u00f3w i nominowanych do nagr\u00f3d Fryderyk w kategorii muzyka rozrywkowa i jazz.",
-  "num_followers": 19307,
+  "num_followers": 19306,
   "original_name": "Fryderyk 2025",
   "owner": {
     "name": "Spotify",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
+        "name": "Edi",
+        "url": "https://open.spotify.com/album/2eVNqBKwSgxSpMnuFFGXKv"
+      },
+      "artists": [
+        {
+          "name": "Grzegorz Kupczyk",
+          "url": "https://open.spotify.com/artist/3lkaXtLLG1tXxxN50g3Rgu"
+        }
+      ],
+      "duration_ms": 203543,
+      "name": "Edi",
+      "url": "https://open.spotify.com/track/44KoYpJ0kv0CpZzU5NWuuL"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
         "name": "United Kingdom Of Anxiety",
         "url": "https://open.spotify.com/album/1iuoxBPvyLVjTRBFvc1IID"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 230489,
       "name": "Better Off",
       "url": "https://open.spotify.com/track/0ZzE5aySLbUQpb71oRjCCs"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
-        "name": "Edi",
-        "url": "https://open.spotify.com/album/2eVNqBKwSgxSpMnuFFGXKv"
-      },
-      "artists": [
-        {
-          "name": "Grzegorz Kupczyk",
-          "url": "https://open.spotify.com/artist/3lkaXtLLG1tXxxN50g3Rgu"
-        }
-      ],
-      "duration_ms": 203543,
-      "name": "Edi",
-      "url": "https://open.spotify.com/track/44KoYpJ0kv0CpZzU5NWuuL"
     },
     {
       "added_at": "2025-04-06 08:27:45",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
+        "name": "Rugs / Carpets",
+        "url": "https://open.spotify.com/album/2lAkcayHkpOwdDzyVHrKxk"
+      },
+      "artists": [
+        {
+          "name": "Tymek Papior",
+          "url": "https://open.spotify.com/artist/4Md0g2WKat1VqfXvOjaIjt"
+        }
+      ],
+      "duration_ms": 312842,
+      "name": "Tear",
+      "url": "https://open.spotify.com/track/6zjdgDTLPzSCZdLwYQVIiF"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
         "name": "W\u0119druj\u0105cy Ptak",
         "url": "https://open.spotify.com/album/6rIbLAAY1oh8fniB0cStlA"
       },
@@ -1347,22 +1363,6 @@
       "duration_ms": 157780,
       "name": "Letila zozula czerez moju chatu",
       "url": "https://open.spotify.com/track/5kVJA3uPz9HJn2ZaQBosoT"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
-        "name": "Rugs / Carpets",
-        "url": "https://open.spotify.com/album/2lAkcayHkpOwdDzyVHrKxk"
-      },
-      "artists": [
-        {
-          "name": "Tymek Papior",
-          "url": "https://open.spotify.com/artist/4Md0g2WKat1VqfXvOjaIjt"
-        }
-      ],
-      "duration_ms": 312842,
-      "name": "Tear",
-      "url": "https://open.spotify.com/track/6zjdgDTLPzSCZdLwYQVIiF"
     },
     {
       "added_at": "2025-04-06 08:27:45",

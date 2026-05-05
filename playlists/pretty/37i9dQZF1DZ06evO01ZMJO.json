@@ -1,12 +1,12 @@
 {
   "description": "This is Outsiders. The essential tracks, all in one playlist.",
-  "num_followers": 25449,
+  "num_followers": 25462,
   "original_name": "This Is Outsiders",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afU+gAAAAABIYI4M3/kU9Sb4Ov7THz6d",
+  "snapshot_id": "afaQAAAAAADnZ3hs5Ad0KEFZfZk+P4PE",
   "tracks": [
     {
       "added_at": null,
@@ -707,6 +707,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "We Komen Terug",
+        "url": "https://open.spotify.com/album/5UqxdIOij5LRc15mdauC07"
+      },
+      "artists": [
+        {
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        },
+        {
+          "name": "Django Wagner",
+          "url": "https://open.spotify.com/artist/2onmCslqboJDdDoCo7ZPd2"
+        }
+      ],
+      "duration_ms": 274377,
+      "name": "We Komen Terug",
+      "url": "https://open.spotify.com/track/1apqmtB0RRQuF7YMgNd5aF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Schooier (feat. Chicco)",
         "url": "https://open.spotify.com/album/4EZ2RE6eZtPRJopw0rW2SV"
       },
@@ -727,26 +747,6 @@
       "duration_ms": 218322,
       "name": "Schooier (feat. Chicco)",
       "url": "https://open.spotify.com/track/45Wtlihsfygwj4GcXl59sS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "We Komen Terug",
-        "url": "https://open.spotify.com/album/5UqxdIOij5LRc15mdauC07"
-      },
-      "artists": [
-        {
-          "name": "Outsiders",
-          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
-        },
-        {
-          "name": "Django Wagner",
-          "url": "https://open.spotify.com/artist/2onmCslqboJDdDoCo7ZPd2"
-        }
-      ],
-      "duration_ms": 274377,
-      "name": "We Komen Terug",
-      "url": "https://open.spotify.com/track/1apqmtB0RRQuF7YMgNd5aF"
     },
     {
       "added_at": null,

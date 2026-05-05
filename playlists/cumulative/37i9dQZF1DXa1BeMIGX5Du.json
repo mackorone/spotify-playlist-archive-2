@@ -994,7 +994,7 @@
       ],
       "date_added": "2024-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 248071,
       "name": "By the Coastline",
       "url": "https://open.spotify.com/track/4pnKKWhKflXZZl2ILUaKS1"
@@ -1942,7 +1942,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 337467,
       "name": "Dream For You",
       "url": "https://open.spotify.com/track/0U1RRuNfZSSKrY1zqjDaRO"
@@ -3025,6 +3025,24 @@
     },
     {
       "album": {
+        "name": "Grain by Grain",
+        "url": "https://open.spotify.com/album/2AZA6MxPVcnQ98wLkwSTeA"
+      },
+      "artists": [
+        {
+          "name": "Mel Parsons",
+          "url": "https://open.spotify.com/artist/2mKPHz3RD0bMrQqKFnrwrC"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229655,
+      "name": "Grain by Grain",
+      "url": "https://open.spotify.com/track/2sUR1qY51anvjBXMpfQGNa"
+    },
+    {
+      "album": {
         "name": "The Rose Of Jericho",
         "url": "https://open.spotify.com/album/4j2eJNkZ3qiGdCW8wnO5Wu"
       },
@@ -3162,7 +3180,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 213026,
       "name": "heaven above me",
       "url": "https://open.spotify.com/track/6YNzXVnWbXt1WG7xD5gxaj"
@@ -4098,7 +4116,7 @@
       ],
       "date_added": "2024-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 184334,
       "name": "Just Like North",
       "url": "https://open.spotify.com/track/1AWsIwO7b5LqJ9vyVfIX2X"
@@ -5416,6 +5434,42 @@
       "duration_ms": 239762,
       "name": "On My Mind",
       "url": "https://open.spotify.com/track/5eVbEjdJk07nWV5gifPonA"
+    },
+    {
+      "album": {
+        "name": "One and Only",
+        "url": "https://open.spotify.com/album/6Zv62Ogeixl5RpZdVRKlDa"
+      },
+      "artists": [
+        {
+          "name": "Georgia Gets By",
+          "url": "https://open.spotify.com/artist/03vcsySpQ2gtPoaPeJRhb9"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125440,
+      "name": "One and Only",
+      "url": "https://open.spotify.com/track/0Xz6zddG4bqj4xRagO8YJ6"
+    },
+    {
+      "album": {
+        "name": "only human",
+        "url": "https://open.spotify.com/album/5qCvxLDPjQ7IPZz9IIhZgm"
+      },
+      "artists": [
+        {
+          "name": "Vancouver Sleep Clinic",
+          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214032,
+      "name": "only human",
+      "url": "https://open.spotify.com/track/4EPemjVgAz4YbDgaRYUdta"
     },
     {
       "album": {

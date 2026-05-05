@@ -4,7 +4,7 @@
 
 > Six Sex en portada.
 
-643 songs - 1 day 9 hr 38 min
+644 songs - 1 day 9 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [19](https://open.spotify.com/track/00WIAzbf3lxd19SrbvsC2u) | [Catalina Ammaturo](https://open.spotify.com/artist/2qDGiovKpP5yS5jD2WfH7a) | [19](https://open.spotify.com/album/7zZQf07iMUNH5YCFePfCtS) | 3:27 | 2023-10-13 | 2023-11-11 |
 | [40 y MM](https://open.spotify.com/track/7DBZjgdH5YHr8CQY5DKDAc) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [40 y MM](https://open.spotify.com/album/3kwh1wumBMqfivrWVKEGNO) | 3:22 | 2023-10-13 | 2023-10-21 |
 | [5 Dollar Pony Rides](https://open.spotify.com/track/3ob86O0HYEc7PDkBpdzSoT) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [5 Dollar Pony Rides](https://open.spotify.com/album/63QYYtqaXBVJMDp161amnY) | 3:42 | 2025-01-10 | 2025-11-20 |
+| [5 minutos +](https://open.spotify.com/track/20tmHoUwRQRjsO3pKkfDAz) | [La Valenti](https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ), [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs) | [La Capitana](https://open.spotify.com/album/5CFQALv8JBWIdH5fULS2ra) | 2:39 | 2026-05-04 |  |
 | [5 minutos +](https://open.spotify.com/track/2krHtqq5meoiFnZEbBy8h2) | [La Valenti](https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ), [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs) | [La Capitana](https://open.spotify.com/album/682RUQW42qEbdFZJjxovNd) | 2:39 | 2024-11-08 | 2025-02-08 |
 | [9472](https://open.spotify.com/track/2daFEwbB9winHzL9t5Ub7R) | [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR) | [LUNA 18 \(Deluxe\)](https://open.spotify.com/album/4reJOCjzw6ifHh6sXBRgc8) | 2:39 | 2024-11-29 | 2024-12-21 |
 | [A la Deriva](https://open.spotify.com/track/5mRuTcc2NFb0dxokBDNKJ5) | [Varese](https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg), [Folgar](https://open.spotify.com/artist/4VUsFXk67zxZVz1UJxBNV6) | [A La Deriva](https://open.spotify.com/album/7LwjG3xraK6w8krZpXfCun) | 6:39 | 2025-12-19 |  |
@@ -485,7 +486,7 @@
 | [Querido chico](https://open.spotify.com/track/3jyCGPvVavcRnvOMvlJOOO) | [Nina Suárez](https://open.spotify.com/artist/1NQmLvlEcg6hE8CQ0r31GV) | [Querido chico](https://open.spotify.com/album/3Qh9uYKdwMnhZLXdI0BZsu) | 2:50 | 2025-07-05 | 2025-11-20 |
 | [Quieren Rock](https://open.spotify.com/track/72ZJmxjPVSaze6EJMJSigT) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1) | [Quieren Rock](https://open.spotify.com/album/6ac8a2d1p3ZiIuh6Zlg6Mf) | 2:26 | 2025-01-24 | 2025-03-01 |
 | [Quieto](https://open.spotify.com/track/6L6GbSoWzfm0ZDZGsskkN5) | [Farol](https://open.spotify.com/artist/3kBISQeVHtMyOH3Va7UXqu), [Josearmen](https://open.spotify.com/artist/2RB7pU0xCVApiluKSjpwyf), [Francisco Sola](https://open.spotify.com/artist/0ek16Ht9DeNuxjdwq9ODRu) | [Quieto](https://open.spotify.com/album/2dqfvBw8Vgw98JL6CpqS41) | 3:03 | 2024-10-25 | 2025-09-02 |
-| [QUISIERA CHOCAR DESPACIO](https://open.spotify.com/track/5V0tSROru0adtqgwFP29v5) | [Juana Rozas](https://open.spotify.com/artist/73flNW7YBYMrnp83TEl5Hq) | [QUISIERA CHOCAR DESPACIO](https://open.spotify.com/album/0cFElNdosDKPNGpv0qiTQ6) | 3:53 | 2026-03-20 |  |
+| [QUISIERA CHOCAR DESPACIO](https://open.spotify.com/track/5V0tSROru0adtqgwFP29v5) | [Juana Rozas](https://open.spotify.com/artist/73flNW7YBYMrnp83TEl5Hq) | [QUISIERA CHOCAR DESPACIO](https://open.spotify.com/album/0cFElNdosDKPNGpv0qiTQ6) | 3:53 | 2026-03-20 | 2026-05-05 |
 | [quitate las BAPE](https://open.spotify.com/track/4CWDezkT4hk8wwOOYMn1C7) | [Frozouda](https://open.spotify.com/artist/6pCBRiHhyUMQBqs0WUSxEL) | [FRO! 2](https://open.spotify.com/album/370xkuwfRmcqz1FAx81oJu) | 2:01 | 2025-08-18 | 2025-11-29 |
 | [quitate los Jeans](https://open.spotify.com/track/3x6gtoIxAcKd8HNYxxN85n) | [FRO!](https://open.spotify.com/artist/6pCBRiHhyUMQBqs0WUSxEL) | [FRO! 2](https://open.spotify.com/album/370xkuwfRmcqz1FAx81oJu) | 1:43 | 2026-04-03 |  |
 | [Qué puede pasar?](https://open.spotify.com/track/13kE2E9Tpd6WPrreALolQ3) | [LoLo](https://open.spotify.com/artist/04gHmjV4hmiIrT3PHXlTbZ), [choosey](https://open.spotify.com/artist/7CJ5oCr5eaX5oO4inn2fji) | [OU OU OU](https://open.spotify.com/album/1R34cRh0qEd4YNRaGosZHY) | 3:56 | 2026-04-03 |  |

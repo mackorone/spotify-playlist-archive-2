@@ -4,14 +4,14 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7Co1jvHSQ9FFXOEY0TdPHQ">Hillary Lindsey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-442 songs - 1 day 2 hr 3 min
+443 songs - 1 day 2 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(No One's Gonna\) Break Me Down](https://open.spotify.com/track/67xenxD9QjNqTN85yt6eU1) | [Wynonna](https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1) | [What The World Needs Now Is Love](https://open.spotify.com/album/3Jx9WXotFej9KE0AlOLPUN) | 3:16 | 2024-02-27 |  |
 | [1x1](https://open.spotify.com/track/3E25cZhRlHVWrmfstuc9H9) | [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [1x1](https://open.spotify.com/album/4bK3rdCDBq8D7VXtdtg3cR) | 3:12 | 2024-02-27 | 2024-07-12 |
 | [1x1](https://open.spotify.com/track/3WzkONrbRHl4h8lyQiEOj2) | [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [1x1](https://open.spotify.com/album/4tFhgNCbU19lXjYkIMFw8T) | 3:12 | 2024-07-11 |  |
-| [23 Degrees And South](https://open.spotify.com/track/3eKwcOjuBr5xKwuguvUIYE) | [Billy Currington](https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt) | [We Are Tonight](https://open.spotify.com/album/1UrEMAvTDJdsJsZdsBux4h) | 4:00 | 2024-02-27 |  |
+| [23 Degrees And South](https://open.spotify.com/track/3eKwcOjuBr5xKwuguvUIYE) | [Billy Currington](https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt) | [We Are Tonight](https://open.spotify.com/album/1UrEMAvTDJdsJsZdsBux4h) | 4:00 | 2024-02-27 | 2026-05-05 |
 | [538 Stars](https://open.spotify.com/track/0f87YpSjkrL5TkumwPW0kN) | [Tara Oram](https://open.spotify.com/artist/0XOiK5F7wta3jBwX7pNqd9) | [Chasing The Sun](https://open.spotify.com/album/5mnwATZQWZMX3ORKbm4gdH) | 3:41 | 2024-02-27 |  |
 | [A Beautiful Noise](https://open.spotify.com/track/4Z8DyhYIN47p8LgrPVOYeL) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [ALICIA](https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1) | 3:19 | 2024-02-27 |  |
 | [A\-YO](https://open.spotify.com/track/6Az2Ll2CPnWYQ2BgiHf4Di) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Joanne \(Deluxe\)](https://open.spotify.com/album/2ZUwFxlWo0gwTsvZ6L4Meh) | 3:27 | 2024-02-27 |  |
@@ -107,6 +107,7 @@
 | [End of the World](https://open.spotify.com/track/60myXm48xMbtq52nQRgEWc) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Unapologetically](https://open.spotify.com/album/76TPKafjzyzB1PjXOuvRtT) | 3:28 | 2024-02-27 |  |
 | [End Up With You](https://open.spotify.com/track/5XIrB4tNKqmGxtVbYpTllz) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Cry Pretty](https://open.spotify.com/album/6LURWtPusB5fGenqj0lbFd) | 3:13 | 2024-02-27 |  |
 | [Eraser](https://open.spotify.com/track/3RCGz3c6nnYlMaw5INhWmh) | [The Knux](https://open.spotify.com/artist/52gwRVa1eX4gTCplPd2tlq) | [Eraser](https://open.spotify.com/album/5k8Ej3pUvCsEfcVWaSUsyu) | 3:53 | 2024-02-27 |  |
+| [Every Time](https://open.spotify.com/track/2WnWvJZFkhPXC3Vy1Kzhjv) | [Jessica Andrews](https://open.spotify.com/artist/5rNhVm2CnqiO5Lv4Dt2lck) | [Who I Am](https://open.spotify.com/album/2jv2pSKJiOhmmol92202Vy) | 4:05 | 2026-05-04 |  |
 | [Everything](https://open.spotify.com/track/2F4SgPHq9V6GAnZUzclVOm) | [Tune Robbers](https://open.spotify.com/artist/0rpos3tdyyc5uoxMM8Ptg9) | [Best Hits for Punchball](https://open.spotify.com/album/5sWV9f4gJ6ttHp0Hgy0PtD) | 4:08 | 2026-02-19 |  |
 | [Everything \(Karaoke Version With Lead Vocal\) \[Originally Performed By Jessica Andrews\]](https://open.spotify.com/track/7jLsz9fup5JHANKCaw3XLd) | [Country Karaoke Cow Boys](https://open.spotify.com/artist/1T9rOYmodcUr7fU94l3EB1) | [Everything](https://open.spotify.com/album/21tLYuZvwdw1OynFGigcDf) | 4:08 | 2024-07-19 | 2026-02-20 |
 | [Everything \(Karaoke Version\) \- Originally Performed By Jessica Andrews](https://open.spotify.com/track/6cfwvFeHG6Tf8EZWMDCKxJ) | [Pro Choice Karaoke](https://open.spotify.com/artist/39SxEZ3tqMcObAi3T9QJzB) | [Karaoke Quick Tracks \- Sing the Hits of Jessica Andrews \(Karaoke Version\) \(Originally Performed By Jessica Andrews\)](https://open.spotify.com/album/4xlhT7jOQJT71ZcJXVtT4O) | 4:04 | 2024-02-27 | 2024-09-16 |

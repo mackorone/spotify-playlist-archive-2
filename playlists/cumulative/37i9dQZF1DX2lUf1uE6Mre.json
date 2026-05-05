@@ -1523,6 +1523,28 @@
     },
     {
       "album": {
+        "name": "BOMBA",
+        "url": "https://open.spotify.com/album/55nMza6I5YB14vZo6Yn9v9"
+      },
+      "artists": [
+        {
+          "name": "RAF Camora",
+          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
+        },
+        {
+          "name": "Lvbel C5",
+          "url": "https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165799,
+      "name": "BOMBA",
+      "url": "https://open.spotify.com/track/25P9EcttXxSTTRESdfTWoT"
+    },
+    {
+      "album": {
         "name": "BONITA",
         "url": "https://open.spotify.com/album/6FvsHBY2Sfsk3zpkvpICwR"
       },
@@ -2752,7 +2774,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 126125,
       "name": "DON'T STOP",
       "url": "https://open.spotify.com/track/2A4TPMbJQxxppjPEui035c"
@@ -5114,7 +5136,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 151500,
       "name": "LOEWE",
       "url": "https://open.spotify.com/track/346KKbkVI1LNqhRYD1TKX1"
@@ -6432,7 +6454,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 206053,
       "name": "NuR Du :/",
       "url": "https://open.spotify.com/track/3DYJ9tHSIhZqCVT8l5QAd0"
@@ -7584,7 +7606,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 151986,
       "name": "Sehnsucht",
       "url": "https://open.spotify.com/track/1eFsgzBlLNKrOcJfnNbDLp"
@@ -7668,6 +7690,28 @@
       "duration_ms": 139253,
       "name": "SHAWTY",
       "url": "https://open.spotify.com/track/1NnkKgNvWpVPT6h7NCie2W"
+    },
+    {
+      "album": {
+        "name": "Show",
+        "url": "https://open.spotify.com/album/5RwUQCDLsWPGwtI4kBzcnj"
+      },
+      "artists": [
+        {
+          "name": "Farid Bang",
+          "url": "https://open.spotify.com/artist/2JwyRtuXf2l6sTnSnGVIa1"
+        },
+        {
+          "name": "Bobby Vandamme",
+          "url": "https://open.spotify.com/artist/054k3bx4tpjx1tfypvq3eq"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161146,
+      "name": "Show",
+      "url": "https://open.spotify.com/track/5GGScNcyGVQGjdkIxc8DfJ"
     },
     {
       "album": {
@@ -8948,7 +8992,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 144253,
       "name": "Valentine",
       "url": "https://open.spotify.com/track/19rgyUBShlb3SOuxvLkZzK"
@@ -9032,6 +9076,28 @@
       "duration_ms": 145560,
       "name": "VER KA\u00c7",
       "url": "https://open.spotify.com/track/4PrHQoEWfiqbwYfvpki3xf"
+    },
+    {
+      "album": {
+        "name": "Vermisse",
+        "url": "https://open.spotify.com/album/0MyJNG4dGUzXMOKRHQ20OB"
+      },
+      "artists": [
+        {
+          "name": "Dardan",
+          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
+        },
+        {
+          "name": "Azet",
+          "url": "https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154653,
+      "name": "Vermisse",
+      "url": "https://open.spotify.com/track/0DAe8XAFqCfdL2F649pgN0"
     },
     {
       "album": {
@@ -9266,6 +9332,28 @@
       "duration_ms": 141046,
       "name": "Vrumm",
       "url": "https://open.spotify.com/track/6lx99yqF0e7NuDHZsvwBmM"
+    },
+    {
+      "album": {
+        "name": "Wach",
+        "url": "https://open.spotify.com/album/4DhRuriyYCsegMVxUmy854"
+      },
+      "artists": [
+        {
+          "name": "RIN",
+          "url": "https://open.spotify.com/artist/18ISxWwWjV6rPLoVCXf1dz"
+        },
+        {
+          "name": "reezy",
+          "url": "https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169736,
+      "name": "Wach",
+      "url": "https://open.spotify.com/track/1v560KmmtY34B8GmMHg1Hv"
     },
     {
       "album": {
@@ -9664,6 +9752,24 @@
       "duration_ms": 176492,
       "name": "Wunder",
       "url": "https://open.spotify.com/track/16f4ZN6XOfrIO8fJkm28HM"
+    },
+    {
+      "album": {
+        "name": "wya?",
+        "url": "https://open.spotify.com/album/2VI2NMWoqDWzmhbEUAgryS"
+      },
+      "artists": [
+        {
+          "name": "BILLA JOE",
+          "url": "https://open.spotify.com/artist/72y6W9pGy97xTM44dwy3F6"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118360,
+      "name": "wya?",
+      "url": "https://open.spotify.com/track/621sv3P9Q1bZsJYqHrZvrS"
     },
     {
       "album": {

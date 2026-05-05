@@ -1,12 +1,12 @@
 {
   "description": "This is Barry White. The essential tracks, all in one playlist.",
-  "num_followers": 234473,
+  "num_followers": 234480,
   "original_name": "This Is Barry White",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afU+gAAAAACxDS5CMr1NcAMjcp/ubmsx",
+  "snapshot_id": "afaQAAAAAADHHhX+5krfrKj65WnVwOyM",
   "tracks": [
     {
       "added_at": null,
@@ -527,6 +527,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Complete 20th Century Records Singles (1973-1979)",
+        "url": "https://open.spotify.com/album/4jpsKvXyMWyAnr778cJ4Um"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 344600,
+      "name": "Anything You Want Me To",
+      "url": "https://open.spotify.com/track/7wBvzcLC4iXR5UxKVvPPPm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Q's Jook Joint",
         "url": "https://open.spotify.com/album/5zq1m9RP5iwHBRQlgbROx1"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 450600,
       "name": "Slow Jams",
       "url": "https://open.spotify.com/track/6CtrSJaPZxcGn991fLgxJF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Complete 20th Century Records Singles (1973-1979)",
-        "url": "https://open.spotify.com/album/4jpsKvXyMWyAnr778cJ4Um"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 344600,
-      "name": "Anything You Want Me To",
-      "url": "https://open.spotify.com/track/7wBvzcLC4iXR5UxKVvPPPm"
     },
     {
       "added_at": null,
@@ -667,6 +667,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Put Me In Your Mix",
+        "url": "https://open.spotify.com/album/6ZB7sec84vKJ6mBXocdfwL"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 345333,
+      "name": "Volare",
+      "url": "https://open.spotify.com/track/1LqKlCrgljbKSrjwIfF6cy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Staying Power",
         "url": "https://open.spotify.com/album/4N5IZ7S83zs2UQGxtzkDdS"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 299226,
       "name": "I Love You More Than Anything (In This World Girl)",
       "url": "https://open.spotify.com/track/4Ltz2LvHKcegbx1D6PpdVI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Put Me In Your Mix",
-        "url": "https://open.spotify.com/album/6ZB7sec84vKJ6mBXocdfwL"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 345333,
-      "name": "Volare",
-      "url": "https://open.spotify.com/track/1LqKlCrgljbKSrjwIfF6cy"
     },
     {
       "added_at": null,
@@ -783,22 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Man",
-        "url": "https://open.spotify.com/album/4QxIEYrQKckIbgKutD2FSR"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 452306,
-      "name": "Sha La La Means I Love You",
-      "url": "https://open.spotify.com/track/1lztvguhaWcOVV4l5Ovuyb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Icon Is Love",
         "url": "https://open.spotify.com/album/6DLabZuKLRrCt6erq8SAGJ"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 639600,
       "name": "Whatever We Had, We Had",
       "url": "https://open.spotify.com/track/6Lu3H89JgTh2QzGRnZqYku"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Man",
+        "url": "https://open.spotify.com/album/4QxIEYrQKckIbgKutD2FSR"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 452306,
+      "name": "Sha La La Means I Love You",
+      "url": "https://open.spotify.com/track/1lztvguhaWcOVV4l5Ovuyb"
     },
     {
       "added_at": null,

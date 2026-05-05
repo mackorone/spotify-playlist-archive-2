@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Your ears on the ground in Music City\. Cover: Blake Whiten
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,373 likes - 204 songs - 11 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,392 likes - 204 songs - 11 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 48 | [Between an Old Memory and Me](https://open.spotify.com/track/78csC5VYY57PGzQuC2Qak4) | [William Michael Morgan](https://open.spotify.com/artist/03tfKFHhDoDqF73vCI3cxn) | [Between an Old Memory and Me](https://open.spotify.com/album/2GoYjLIyig4b5Paxog1Ap4) | 3:11 |
 | 49 | [Campdraft Queen](https://open.spotify.com/track/0TmTKYWgUlQMJf8GQw6U9a) | [Mack Geiger](https://open.spotify.com/artist/1ylRveckaItA2kOhQh8rnQ) | [Campdraft Queen](https://open.spotify.com/album/6mM8BIYzDO0m1l0LZX4v4D) | 3:33 |
 | 50 | [B\-Y\-O\-Beach](https://open.spotify.com/track/2v1s8HgCWHWRDWbiahm4qJ) | [Brian Kelley](https://open.spotify.com/artist/46c50yWMo9wiTgVe1VxBbQ), [Niko Moon](https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU) | [B\-Y\-O\-Beach](https://open.spotify.com/album/6Iupvbndibg7ThCBPDnzJ1) | 2:53 |
-| 51 | [Half Gone \(feat\. Averie Bielski\)](https://open.spotify.com/track/4qCQmC3ZsVVClG1uMo4I5D) | [Scoot Teasley](https://open.spotify.com/artist/0E9OojU6St18Zi8hPGD2kJ), [Averie Bielski](https://open.spotify.com/artist/676QIPEG5lmdat856mRPo7) | [Half Gone](https://open.spotify.com/album/19Hdb1zLQgm5UEEcqalwlv) | 2:45 |
+| 51 | [Half Gone \(feat\. Averie Bielski\)](https://open.spotify.com/track/4qCQmC3ZsVVClG1uMo4I5D) | [Scoot Teasley](https://open.spotify.com/artist/0E9OojU6St18Zi8hPGD2kJ), [Averie Bielski](https://open.spotify.com/artist/676QIPEG5lmdat856mRPo7) | [Half Gone \(feat\. Averie Bielski\)](https://open.spotify.com/album/19Hdb1zLQgm5UEEcqalwlv) | 2:45 |
 | 52 | [Radio's Talkin'](https://open.spotify.com/track/5rhwrC5TdSLyitdHbNkpYi) | [Adam Doleac](https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew) | [Radio's Talkin'](https://open.spotify.com/album/6gQmIBiNe7I1nv7MPsZbNl) | 3:25 |
 | 53 | [Never Getting Over You](https://open.spotify.com/track/4e8qcuR913gzGXUMZdsZtB) | [Eric Paslay](https://open.spotify.com/artist/4TONBKcqVR1LmPdfJxvkMU) | [Never Getting Over You](https://open.spotify.com/album/6yuziF85tkVch5Ngq8Iamb) | 3:36 |
 | 54 | [Covered in Dirt](https://open.spotify.com/track/4HP3EEljqPSsbeULNpKEaX) | [Sam Donald](https://open.spotify.com/artist/33HvGTT4l89zxUyt5VTFJs) | [Covered in Dirt](https://open.spotify.com/album/3fYdjLaETYkgR9YN3lfXB0) | 2:33 |

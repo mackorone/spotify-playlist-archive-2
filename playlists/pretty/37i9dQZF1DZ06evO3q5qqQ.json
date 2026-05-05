@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afU+gAAAAACksRTNc9MCMpId3eBQNx2Q",
+  "snapshot_id": "afaQAAAAAABHO1/jDEAaBr/7B+2Pv5O+",
   "tracks": [
     {
       "added_at": null,
@@ -383,26 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alumno Y Maestro",
-        "url": "https://open.spotify.com/album/3G37quZRXG46KePSj4uMat"
-      },
-      "artists": [
-        {
-          "name": "Los Chavalitos",
-          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
-        },
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 179786,
-      "name": "Alumno Y Maestro",
-      "url": "https://open.spotify.com/track/5ZBHGCgLDISEHmhSZXIDMa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Se\u00f1or De La Monta\u00f1a",
         "url": "https://open.spotify.com/album/3yJ7amzvZuunZNifBM6KNl"
       },
@@ -423,6 +403,26 @@
       "duration_ms": 145600,
       "name": "El Se\u00f1or De La Monta\u00f1a",
       "url": "https://open.spotify.com/track/1rjI7wcOffMI560HsHU5q7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alumno Y Maestro",
+        "url": "https://open.spotify.com/album/3G37quZRXG46KePSj4uMat"
+      },
+      "artists": [
+        {
+          "name": "Los Chavalitos",
+          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
+        },
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 179786,
+      "name": "Alumno Y Maestro",
+      "url": "https://open.spotify.com/track/5ZBHGCgLDISEHmhSZXIDMa"
     },
     {
       "added_at": null,
@@ -595,6 +595,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Los Tiempos De Aguas",
+        "url": "https://open.spotify.com/album/4wCvnmJE6EVQs341JWtbnO"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 171989,
+      "name": "El Bolas",
+      "url": "https://open.spotify.com/track/4DBOOahsOYymk6uAXfrQ4i"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ra\u00edces de Acero",
         "url": "https://open.spotify.com/album/0YjOVBSJx2XHYN9m7hdqlG"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 160325,
       "name": "Me Preparaste Para Todo",
       "url": "https://open.spotify.com/track/0bRsRqYTxqOXPtlRVfwOX9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Los Tiempos De Aguas",
-        "url": "https://open.spotify.com/album/4wCvnmJE6EVQs341JWtbnO"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 171989,
-      "name": "El Bolas",
-      "url": "https://open.spotify.com/track/4DBOOahsOYymk6uAXfrQ4i"
     },
     {
       "added_at": null,
@@ -811,26 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pisteando Entre Amigos (En Vivo)",
-        "url": "https://open.spotify.com/album/6LX4xXXcu3GuO8mpMCwWKo"
-      },
-      "artists": [
-        {
-          "name": "Chuy Lopez",
-          "url": "https://open.spotify.com/artist/6VwUtgHcDXb3cLnlIKidVM"
-        },
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 218443,
-      "name": "La Sombra Del Sombrero - En Vivo",
-      "url": "https://open.spotify.com/track/1kyAxI5VF8BQ9rfL07QV75"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Amor No Es Para Todos",
         "url": "https://open.spotify.com/album/0APtA8s9HseAH0sbWEHMES"
       },
@@ -851,6 +831,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pisteando Entre Amigos (En Vivo)",
+        "url": "https://open.spotify.com/album/6LX4xXXcu3GuO8mpMCwWKo"
+      },
+      "artists": [
+        {
+          "name": "Chuy Lopez",
+          "url": "https://open.spotify.com/artist/6VwUtgHcDXb3cLnlIKidVM"
+        },
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 218443,
+      "name": "La Sombra Del Sombrero - En Vivo",
+      "url": "https://open.spotify.com/track/1kyAxI5VF8BQ9rfL07QV75"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Soy Benjam\u00edn",
         "url": "https://open.spotify.com/album/51rDwORHTvCR9kcStvUGWe"
       },
@@ -867,22 +867,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Resiliencia",
-        "url": "https://open.spotify.com/album/2UEVtNtjdV9m8GXYVLm7Ve"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 140608,
-      "name": "Diosa Griega",
-      "url": "https://open.spotify.com/track/2hoFmWhpgL4S9VV1AbApMS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A La Sombra De Un \u00c1rbol, Vol. II (En Vivo)",
         "url": "https://open.spotify.com/album/4YkZWo36gl5YrcyFxT6foX"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 170410,
       "name": "El Chivo Tatemado - En Vivo",
       "url": "https://open.spotify.com/track/637f732grvgAbQkGZwrEKC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Resiliencia",
+        "url": "https://open.spotify.com/album/2UEVtNtjdV9m8GXYVLm7Ve"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 140608,
+      "name": "Diosa Griega",
+      "url": "https://open.spotify.com/track/2hoFmWhpgL4S9VV1AbApMS"
     }
   ],
   "unique_name": "This Is Grupo Arriesgado",

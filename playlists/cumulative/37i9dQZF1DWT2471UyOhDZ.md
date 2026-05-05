@@ -4,7 +4,7 @@
 
 > A hand\-picked selection for an extraordinary palette\. Cover: Bleachers
 
-432 songs - 1 day 3 hr 58 min
+434 songs - 1 day 4 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Black James Dean](https://open.spotify.com/track/4V6u2JRED2D0936h6NPucc) | [Pigeon](https://open.spotify.com/artist/2BQ03tTneAqHqm6qWjFKBU) | [Black James Dean](https://open.spotify.com/album/3ipPjBzXI1iqWIgF991UK8) | 5:22 | 2026-04-30 |  |
 | [Black Poppies](https://open.spotify.com/track/3txBT43QunqzMHvsifpxrT) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [Black Poppies](https://open.spotify.com/album/5fCUtI8PdXP8uzxMLURH2n) | 2:52 | 2024-10-06 | 2024-11-23 |
 | [Black Sand](https://open.spotify.com/track/7rL4ouaj7AqQM9kgQ5aQrY) | [Glass Beams](https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF) | [Mahal](https://open.spotify.com/album/32yQDx3IeVTHLPxT07PFDy) | 4:38 | 2024-06-14 | 2025-03-22 |
+| [Black Ulysses](https://open.spotify.com/track/75IorrAVPCZfzET2ICkVx7) | [Liz Lawrence](https://open.spotify.com/artist/5v4XGACPGcMZs2ANXBzVmC) | [Vespers, Tracks 1\-4](https://open.spotify.com/album/71eLI9GjL6lzcqCLRLHrZG) | 3:14 | 2026-04-30 |  |
 | [Blankspace](https://open.spotify.com/track/0y4l286JVQCzFf2mC1esgl) | [Whitelands](https://open.spotify.com/artist/4B9oWJTIts1eOPLGKy4mro) | [Blankspace](https://open.spotify.com/album/7x4uL7q989pphBMwV3g54g) | 3:04 | 2026-01-12 | 2026-02-07 |
 | [Bluebird Singing](https://open.spotify.com/track/7LlmSAqvcpjheDytACHfDu) | [John Vincent III](https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb) | [Songs For The Canyon](https://open.spotify.com/album/1k7iymTuRK6I4tvn0SX38I) | 4:00 | 2024-06-14 | 2025-03-22 |
 | [Blues](https://open.spotify.com/track/7nGhBjDpYtI7jJ5Tel9jDt) | [Geordie Greep](https://open.spotify.com/artist/65Msz2E34NUtbjEbsrsJlJ) | [Blues](https://open.spotify.com/album/17MCK1RRgBwKzmOLioiap3) | 5:42 | 2024-10-06 | 2025-01-17 |
@@ -181,6 +182,7 @@
 | [Greyhound](https://open.spotify.com/track/60DSysH1dDIThBHXpNxSNv) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [Greyhound](https://open.spotify.com/album/4SVuAXDREVQ4JTAAAW9tCx) | 3:46 | 2025-01-17 | 2025-10-24 |
 | [gut health](https://open.spotify.com/track/6sDD5wCAJIGjCqPlPwSOck) | [Pem](https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs) | [gut health](https://open.spotify.com/album/0fHoOMkM8YOuSlPWNOvjnP) | 4:03 | 2024-06-14 | 2024-08-15 |
 | [Guy Fawkes Tesco Dissociation](https://open.spotify.com/track/6bPvOeqJRytjU4KFl6Wzdy) | [jasmine.4.t](https://open.spotify.com/artist/2mSYfudGtQzxNYHApMjZBm) | [You Are The Morning](https://open.spotify.com/album/4amlS1zcZeSWkphaXn3lEq) | 4:36 | 2025-01-17 | 2025-10-22 |
+| [Hail](https://open.spotify.com/track/450ZDkFvuRfdsfbbeDQfyq) | [Josephine Illingworth](https://open.spotify.com/artist/47tAxYSbAuzh3Pm6FDTUDQ) | [Bright Things I Found In The Dark](https://open.spotify.com/album/2xLweeSXmZEPeXMWoRpudT) | 4:40 | 2026-04-30 |  |
 | [Hangman](https://open.spotify.com/track/47sdIyGJrff7WH00KEaCUm) | [Divorce](https://open.spotify.com/artist/0YMVzWF9HWGbV4DZHfCyKo) | [Hangman](https://open.spotify.com/album/6M3Vp81hUWQJpErD7eTXV9) | 3:09 | 2025-02-07 | 2025-03-27 |
 | [He Wants Me](https://open.spotify.com/track/4sh97EIcM6xkHeyGB44Prq) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [If You Asked For A Picture](https://open.spotify.com/album/0b4ieMOkv7WGdJ4qYXbtzZ) | 3:29 | 2025-05-08 | 2026-02-21 |
 | [He Will Follow You With His Eyes](https://open.spotify.com/track/4kP5P9xl4iu191ZvPzGuZW) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [Black Rainbows](https://open.spotify.com/album/741jF1Njwj0i1dQAPdvKZ1) | 3:45 | 2024-06-14 | 2025-03-22 |
@@ -386,7 +388,7 @@
 | [The Scythe](https://open.spotify.com/track/1EQZbseQ6EVX8JdhqyXHhw) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [The Scythe](https://open.spotify.com/album/2MwuyCkxawMNjBf1LwATQW) | 4:45 | 2025-09-04 |  |
 | [The Silence That Remains](https://open.spotify.com/track/2c7R7EiIW5s5u8CJGD1JQu) | [The Horrors](https://open.spotify.com/artist/7EFB09NxZrMi9pGlOnuBpd) | [The Silence That Remains](https://open.spotify.com/album/4hEx4JzgPX0DxMZ0OA5Y95) | 5:42 | 2024-10-06 | 2025-03-23 |
 | [The Sofa](https://open.spotify.com/track/1ssxK9B6clZ8Gku2bYQHTh) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [The Sofa](https://open.spotify.com/album/34fIl0miNnfkRTpejFsDXE) | 4:26 | 2025-07-18 | 2025-10-29 |
-| [The Sound And The Summer](https://open.spotify.com/track/4TydIMmvW6ugl5zEM5KbbJ) | [Suede](https://open.spotify.com/artist/6PHIK3kjWggLtVygsOtpqS) | [Antidepressants](https://open.spotify.com/album/6N0IlrIaCkdqM4V6u3BYxk) | 3:42 | 2025-09-04 |  |
+| [The Sound And The Summer](https://open.spotify.com/track/4TydIMmvW6ugl5zEM5KbbJ) | [Suede](https://open.spotify.com/artist/6PHIK3kjWggLtVygsOtpqS) | [Antidepressants](https://open.spotify.com/album/6N0IlrIaCkdqM4V6u3BYxk) | 3:42 | 2025-09-04 | 2026-05-05 |
 | [The Spirit](https://open.spotify.com/track/4WnsGUynB9D65tenA7U5gI) | [Mark Pritchard](https://open.spotify.com/artist/7wDfZhaCORLgP3K62R3MJK), [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau) | [Tall Tales](https://open.spotify.com/album/6KIRln7GBcc3eO22UDy8T2) | 4:55 | 2025-05-08 | 2026-05-01 |
 | [The Thief](https://open.spotify.com/track/5yTixFP31a9CFwyh8vP80n) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [People Who Aren’t There Anymore](https://open.spotify.com/album/3QdtCfrX94pXYujQemM3ZM) | 3:21 | 2024-06-14 | 2025-03-22 |
 | [The Yellow Mile](https://open.spotify.com/track/3d6CZ2dTOoSLqvfQG0rqjJ) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [Big Sigh](https://open.spotify.com/album/5eoEqqiZy86YGeZvI2f1ST) | 3:03 | 2024-06-14 | 2025-01-19 |
@@ -394,7 +396,7 @@
 | [THINGS BEHIND THINGS BEHIND THINGS](https://open.spotify.com/track/2kyL1eP0mluFHYlAwKySzj) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [SABLE,](https://open.spotify.com/album/2Cwxsws0uZcu61gliYLOEm) | 3:20 | 2024-10-17 | 2025-05-31 |
 | [this is my california](https://open.spotify.com/track/43cAeXFkMQvARz9NDqXPTf) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [this is my california](https://open.spotify.com/album/0IpI61Av7JVRPhXb3RJFdq) | 4:58 | 2024-11-15 | 2025-05-09 |
 | [This is the Killer Speaking](https://open.spotify.com/track/1mduxXxLvhu5OzebDWMYqX) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [This is the Killer Speaking](https://open.spotify.com/album/1ztxCUku3RIu2lBs0cJdDn) | 4:54 | 2025-07-18 |  |
-| [This Is The Silence](https://open.spotify.com/track/0eAzpCq4dpoPNNaY6EUyv3) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [The Forest Is The Path \(Extended Edition\)](https://open.spotify.com/album/6irdOmMm1renAtesHgETEv) | 2:59 | 2025-03-21 |  |
+| [This Is The Silence](https://open.spotify.com/track/0eAzpCq4dpoPNNaY6EUyv3) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [The Forest Is The Path \(Extended Edition\)](https://open.spotify.com/album/6irdOmMm1renAtesHgETEv) | 2:59 | 2025-03-21 | 2026-05-05 |
 | [Time For Slurp](https://open.spotify.com/track/6wZDkz0R5igIna0rHlR1EY) | [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [SHHHHHHH!](https://open.spotify.com/album/1zvvdEwZHfPQvLsADalPmf) | 1:57 | 2024-07-18 | 2025-05-09 |
 | [Tina](https://open.spotify.com/track/7uFif00qArtq2USCkQEGac) | [Pulp](https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD) | [More](https://open.spotify.com/album/4et2xBFMKmsaWQPjlKTbG6) | 3:32 | 2025-06-06 |  |
 | [Tired Boy](https://open.spotify.com/track/1eaRpdsgUxH5AY0W9W3Mcc) | [Sunday \(1994\)](https://open.spotify.com/artist/1vTFaCiaR50b2IXELHW52U) | [Tired Boy](https://open.spotify.com/album/0kuLoUuLTKV4kd59C3iXoW) | 4:30 | 2024-06-14 | 2024-11-01 |

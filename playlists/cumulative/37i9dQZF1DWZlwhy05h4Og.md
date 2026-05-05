@@ -4,7 +4,7 @@
 
 > The sweetest bops\. Cover: BINI
 
-276 songs - 13 hr 30 min
+278 songs - 13 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,12 +42,13 @@
 | [Boys Like You](https://open.spotify.com/track/34y2pV3RGFiCHSP12bNHVk) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Boys Like You](https://open.spotify.com/album/1KYgerdWcEqB7KbppYtdXU) | 3:43 | 2023-03-22 | 2023-08-19 |
 | [Break My Heart Myself \(feat\. YEJI & RYUJIN of ITZY\)](https://open.spotify.com/track/5Av4jZOAbtY8STz7KPsNDB) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3), [YEJI & RYUJIN of ITZY](https://open.spotify.com/artist/4TYswX6bKUjM9rbEL7CMBH) | [Break My Heart Myself \(feat\. YEJI & RYUJIN of ITZY\)](https://open.spotify.com/album/6nHECY2OnWXVmd4QjGhJEm) | 2:42 | 2023-03-22 | 2024-10-12 |
 | [BTG](https://open.spotify.com/track/0YJVQS3v3ocOMPzVy9yuXE) | [KiiiKiii](https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP) | [UNCUT GEM](https://open.spotify.com/album/08goLajOh9geJzsBalNa2n) | 3:10 | 2025-03-28 |  |
-| [Bubee](https://open.spotify.com/track/3Y2pwdrZKIOUqK0HvsWf0c) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Bubee](https://open.spotify.com/album/1Tisomh3VWj3TeI8bFG5Tr) | 3:02 | 2026-04-07 |  |
+| [Bubee](https://open.spotify.com/track/3Y2pwdrZKIOUqK0HvsWf0c) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Bubee](https://open.spotify.com/album/1Tisomh3VWj3TeI8bFG5Tr) | 3:02 | 2026-04-07 | 2026-05-05 |
 | [CAKE](https://open.spotify.com/track/3syxwxJqX5jpgjNYmvzdW6) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [KILL MY DOUBT](https://open.spotify.com/album/6P01cKb7sdwfnNpuMLNEik) | 3:18 | 2023-08-04 | 2024-01-11 |
 | [Can't Complain](https://open.spotify.com/track/1vDMeYgFqDeicy8OtIr9nB) | [Chase Behar](https://open.spotify.com/artist/28B346ru2FJIXLEW859YbG) | [Can't Complain](https://open.spotify.com/album/0nRdDiS1USIQgFr0fCLhQL) | 2:40 | 2024-07-05 | 2024-10-05 |
 | [CAPPUCCINO](https://open.spotify.com/track/1w3fokRBNk1ge6nyEQgmRk) | [Gyubin](https://open.spotify.com/artist/7nScMbyBG94XsSpe7yrImS) | [CAPPUCCINO](https://open.spotify.com/album/79XKfHFB4DDjK9qsFzGtwr) | 2:57 | 2025-11-14 |  |
 | [Cardboard Box](https://open.spotify.com/track/2rf9i0Enr8cw1JRME8Rsvq) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Cardboard Box](https://open.spotify.com/album/51OgsspyNulg111Dti5Sdj) | 2:41 | 2023-03-22 | 2024-07-06 |
 | [Caught in Your Love](https://open.spotify.com/track/2xpbZxV34gnvg3QwUvG370) | [Boys World](https://open.spotify.com/artist/0YgZTREOQz8oOGVABXEoXi) | [Caught in Your Love](https://open.spotify.com/album/4fNIHOD3cYbbTT09tGt8xH) | 2:18 | 2024-04-12 | 2025-02-12 |
+| [CELEBRATION](https://open.spotify.com/track/7Cy79KgYPsjOTX7VITI1U1) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CELEBRATION](https://open.spotify.com/album/47nSJKWgIL0t2zFQCUemaL) | 2:33 | 2026-05-04 |  |
 | [Chasin' \(feat\. Meghan Trainor\)](https://open.spotify.com/track/4FtJXKZofhG9jt9reeahSg) | [Paris Hilton](https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Chasin' \(feat\. Meghan Trainor\)](https://open.spotify.com/album/5GzcpXxpQsBKJGPX2oDvvj) | 3:17 | 2024-07-26 | 2025-07-03 |
 | [Cheeky But Charming \(feat\. KUROMI\)](https://open.spotify.com/track/2VqXiJCKjkEKbI1SChyG4m) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E), [KUROMI](https://open.spotify.com/artist/1nah1bp3mzMd4FhMUxhU4d) | [Cheeky But Charming \(feat\. KUROMI\)](https://open.spotify.com/album/3By2H5WNB4ZpLN5Llmwrr8) | 2:08 | 2023-10-27 | 2025-05-03 |
 | [Cherish \(My Love\)](https://open.spotify.com/track/2MoUuJhpSO4a0czxvsrSC6) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [I'LL LIKE YOU](https://open.spotify.com/album/7CBwpeVQ27cWwyEYjByVH1) | 2:56 | 2024-11-08 | 2025-06-21 |
@@ -58,7 +59,7 @@
 | [Commas](https://open.spotify.com/track/0S7hKhEMgMKcA1O1ZKmwoE) | [GIRLSET](https://open.spotify.com/artist/3D2TVeexyIXOtc8F4qEZ6P) | [Commas](https://open.spotify.com/album/42tnvJGEEhjtaHf4l387PK) | 2:02 | 2025-08-29 |  |
 | [Confetti](https://open.spotify.com/track/5AoVOt7QjIJIPIynAKqkRR) | [MISAMO](https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo) | [PLAY](https://open.spotify.com/album/2Y6S52I2kx6FLvaOkZK7un) | 2:38 | 2026-02-06 |  |
 | [Cosmic](https://open.spotify.com/track/0kE4TRJ0pWoRKzKdtbx8To) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Cosmic](https://open.spotify.com/album/5E8apoFsaUFhZxGGSju6aW) | 3:45 | 2024-06-28 | 2025-03-22 |
-| [CRAZY](https://open.spotify.com/track/3AoEQRuFf8zVXWqSLo2UOi) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CRAZY](https://open.spotify.com/album/538vEfAgLJ6g2I8ubuOlap) | 2:44 | 2024-08-30 |  |
+| [CRAZY](https://open.spotify.com/track/3AoEQRuFf8zVXWqSLo2UOi) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CRAZY](https://open.spotify.com/album/538vEfAgLJ6g2I8ubuOlap) | 2:44 | 2024-08-30 | 2026-05-05 |
 | [Cruel Summer](https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 2:58 | 2023-08-18 | 2025-11-22 |
 | [CRUSH](https://open.spotify.com/track/7fjno2HOtZoIEMAgcSwOyy) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs) | [CRUSH](https://open.spotify.com/album/3jZED8IBbTnmpGPRqBHDXC) | 3:02 | 2024-07-05 | 2025-03-15 |
 | [Cupid \- Twin Ver.](https://open.spotify.com/track/3yphjkz7V5xFXdfBEXVKL6) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning](https://open.spotify.com/album/4lmebGP87hUt2h4nwsfd73) | 2:53 | 2024-04-05 | 2024-04-19 |
@@ -142,6 +143,7 @@
 | [In Another World](https://open.spotify.com/track/2TTTiaXJZJn7y4ZC6YGXlv) | [EJAE](https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY) | [In Another World](https://open.spotify.com/album/2PKwr5WeVaZlX6coR33aQ3) | 2:55 | 2025-10-24 |  |
 | [in my bag](https://open.spotify.com/track/2anphMUvFBgj9KVWcmo1kq) | [Meg Donnelly](https://open.spotify.com/artist/0jcl46xRBm9LKIwrKGQPE6) | [in my bag](https://open.spotify.com/album/55bpPR804d4conpkaB1myb) | 2:35 | 2024-11-25 | 2025-10-25 |
 | [It Is What It Is](https://open.spotify.com/track/1558CwDaXSZiCplq9AaH0q) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [It Is What It Is](https://open.spotify.com/album/1WFMXKtfmcwsojf8gSEXm5) | 2:26 | 2023-08-04 | 2025-08-14 |
+| [It's Me](https://open.spotify.com/track/1D5L58KLBbceOynTP4DQnY) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [MAMIHLAPINATAPAI](https://open.spotify.com/album/5VIt2dA2StboE900mllWdJ) | 2:18 | 2026-05-04 |  |
 | [IYKYK](https://open.spotify.com/track/2lkhdnz6pWlErZuRLnBXTt) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [IYKYK](https://open.spotify.com/album/7wdkikXCR5G3KhzffeTMCL) | 3:00 | 2024-10-11 | 2025-09-21 |
 | [JUMP](https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [JUMP](https://open.spotify.com/album/3hzoZlx2KwtvJEUl9piPWr) | 2:44 | 2025-07-11 |  |
 | [Juno](https://open.spotify.com/track/21B4gaTWnTkuSh77iWEXdS) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 3:43 | 2024-10-18 | 2026-03-10 |

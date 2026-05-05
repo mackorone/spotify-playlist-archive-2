@@ -1,6 +1,6 @@
 {
   "description": "Keep calm with this mix of laidback, acoustic tracks.",
-  "num_followers": 2142109,
+  "num_followers": 2141913,
   "original_name": "Acoustic Chill",
   "owner": {
     "name": "Spotify",
@@ -507,6 +507,22 @@
     {
       "added_at": "2026-01-09 13:51:16",
       "album": {
+        "name": "Blue Heron Suite",
+        "url": "https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV"
+      },
+      "artists": [
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+        }
+      ],
+      "duration_ms": 208746,
+      "name": "Morning",
+      "url": "https://open.spotify.com/track/7wStk0361hcPEtJc4KbOPf"
+    },
+    {
+      "added_at": "2026-01-09 13:51:16",
+      "album": {
         "name": "America",
         "url": "https://open.spotify.com/album/1LbsN7ZwjjnafolKPbnDZK"
       },
@@ -539,22 +555,6 @@
     {
       "added_at": "2026-01-09 13:51:16",
       "album": {
-        "name": "Blue Heron Suite",
-        "url": "https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV"
-      },
-      "artists": [
-        {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
-        }
-      ],
-      "duration_ms": 208746,
-      "name": "Morning",
-      "url": "https://open.spotify.com/track/7wStk0361hcPEtJc4KbOPf"
-    },
-    {
-      "added_at": "2026-01-09 13:51:16",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/79Eaui1AldvjTjHIY7V6vu"
       },
@@ -567,6 +567,22 @@
       "duration_ms": 307534,
       "name": "Such A Simple Thing - Recorded at Sound Stage Studios Nashville",
       "url": "https://open.spotify.com/track/1xYMyM7MxFi4OuzDA2op9Q"
+    },
+    {
+      "added_at": "2026-01-09 13:51:16",
+      "album": {
+        "name": "Neptune",
+        "url": "https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS"
+      },
+      "artists": [
+        {
+          "name": "Tall Heights",
+          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
+        }
+      ],
+      "duration_ms": 244951,
+      "name": "Horse to Water",
+      "url": "https://open.spotify.com/track/0szmjOw9XbtbQYWz0GvXSp"
     },
     {
       "added_at": "2026-01-09 13:51:16",
@@ -599,22 +615,6 @@
       "duration_ms": 233026,
       "name": "System",
       "url": "https://open.spotify.com/track/15mRJR5eMKMtV3e5fU2aDE"
-    },
-    {
-      "added_at": "2026-01-09 13:51:16",
-      "album": {
-        "name": "Neptune",
-        "url": "https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS"
-      },
-      "artists": [
-        {
-          "name": "Tall Heights",
-          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
-        }
-      ],
-      "duration_ms": 244951,
-      "name": "Horse to Water",
-      "url": "https://open.spotify.com/track/0szmjOw9XbtbQYWz0GvXSp"
     },
     {
       "added_at": "2026-01-09 13:51:16",
@@ -691,22 +691,6 @@
     {
       "added_at": "2026-01-09 13:51:16",
       "album": {
-        "name": "After Rain",
-        "url": "https://open.spotify.com/album/7bz0csv8S71eFRnWuopQsA"
-      },
-      "artists": [
-        {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
-        }
-      ],
-      "duration_ms": 294000,
-      "name": "After Rain",
-      "url": "https://open.spotify.com/track/5fQa04cwDF11Giq5N2tGdU"
-    },
-    {
-      "added_at": "2026-01-09 13:51:16",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1fL8ABOXukxK8fbjLLNcBk"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 280827,
       "name": "When Doves Cry - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/4LLTqpc4ywNrx89seBQi3w"
+    },
+    {
+      "added_at": "2026-01-09 13:51:16",
+      "album": {
+        "name": "After Rain",
+        "url": "https://open.spotify.com/album/7bz0csv8S71eFRnWuopQsA"
+      },
+      "artists": [
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        }
+      ],
+      "duration_ms": 294000,
+      "name": "After Rain",
+      "url": "https://open.spotify.com/track/5fQa04cwDF11Giq5N2tGdU"
     },
     {
       "added_at": "2026-01-09 13:51:16",
@@ -775,22 +775,6 @@
     {
       "added_at": "2026-01-09 13:51:16",
       "album": {
-        "name": "An Alien in Minneapolis",
-        "url": "https://open.spotify.com/album/0v6BWLBbaTRtVIC2d09Jmk"
-      },
-      "artists": [
-        {
-          "name": "Ondara",
-          "url": "https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W"
-        }
-      ],
-      "duration_ms": 259607,
-      "name": "An Alien In Minneapolis - Edit",
-      "url": "https://open.spotify.com/track/5YhOK0XMfjtW5L42FODqzK"
-    },
-    {
-      "added_at": "2026-01-09 13:51:16",
-      "album": {
         "name": "Build Me Up From Bones",
         "url": "https://open.spotify.com/album/3WgIxB4vFl8i5ZHCypubIK"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 216173,
       "name": "Build Me Up From Bones",
       "url": "https://open.spotify.com/track/1I9dSqB5XSdwOfn9M8zpRg"
+    },
+    {
+      "added_at": "2026-01-09 13:51:16",
+      "album": {
+        "name": "An Alien in Minneapolis",
+        "url": "https://open.spotify.com/album/0v6BWLBbaTRtVIC2d09Jmk"
+      },
+      "artists": [
+        {
+          "name": "Ondara",
+          "url": "https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W"
+        }
+      ],
+      "duration_ms": 259607,
+      "name": "An Alien In Minneapolis - Edit",
+      "url": "https://open.spotify.com/track/5YhOK0XMfjtW5L42FODqzK"
     },
     {
       "added_at": "2026-01-09 13:51:16",
@@ -839,22 +839,6 @@
     {
       "added_at": "2026-01-09 13:51:16",
       "album": {
-        "name": "Rosemary",
-        "url": "https://open.spotify.com/album/4FH3kwVRrLQHwp88j1i22h"
-      },
-      "artists": [
-        {
-          "name": "Molly Parden",
-          "url": "https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5"
-        }
-      ],
-      "duration_ms": 254200,
-      "name": "Feel Alive Again",
-      "url": "https://open.spotify.com/track/2wgCnWW5jtA6aNAJxgcEN2"
-    },
-    {
-      "added_at": "2026-01-09 13:51:16",
-      "album": {
         "name": "In His Arms",
         "url": "https://open.spotify.com/album/6scCDinSi95lzxNqEW6kpV"
       },
@@ -879,18 +863,18 @@
     {
       "added_at": "2026-01-09 13:51:16",
       "album": {
-        "name": "The Meetings of the Waters",
-        "url": "https://open.spotify.com/album/4cx595VqVPFHf5PwJjQ7lJ"
+        "name": "Rosemary",
+        "url": "https://open.spotify.com/album/4FH3kwVRrLQHwp88j1i22h"
       },
       "artists": [
         {
-          "name": "Fionn Regan",
-          "url": "https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy"
+          "name": "Molly Parden",
+          "url": "https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5"
         }
       ],
-      "duration_ms": 300277,
-      "name": "The Meetings of the Waters",
-      "url": "https://open.spotify.com/track/3wQXP3617fqclHgzA7dONN"
+      "duration_ms": 254200,
+      "name": "Feel Alive Again",
+      "url": "https://open.spotify.com/track/2wgCnWW5jtA6aNAJxgcEN2"
     },
     {
       "added_at": "2026-01-09 13:51:16",
@@ -907,6 +891,22 @@
       "duration_ms": 212026,
       "name": "Dream in Blue",
       "url": "https://open.spotify.com/track/1Bx9I2NyzUpTfmpAQ4BSsR"
+    },
+    {
+      "added_at": "2026-01-09 13:51:16",
+      "album": {
+        "name": "The Meetings of the Waters",
+        "url": "https://open.spotify.com/album/4cx595VqVPFHf5PwJjQ7lJ"
+      },
+      "artists": [
+        {
+          "name": "Fionn Regan",
+          "url": "https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy"
+        }
+      ],
+      "duration_ms": 300277,
+      "name": "The Meetings of the Waters",
+      "url": "https://open.spotify.com/track/3wQXP3617fqclHgzA7dONN"
     },
     {
       "added_at": "2026-01-09 13:51:16",
@@ -943,22 +943,6 @@
     {
       "added_at": "2026-01-09 13:51:16",
       "album": {
-        "name": "Weatherman",
-        "url": "https://open.spotify.com/album/4GkmkJSF88GEnP2LFuCl0r"
-      },
-      "artists": [
-        {
-          "name": "Hush Kids",
-          "url": "https://open.spotify.com/artist/4XzsOuqFltgBcdHF3RZQbh"
-        }
-      ],
-      "duration_ms": 211509,
-      "name": "Weatherman",
-      "url": "https://open.spotify.com/track/4i3ayapBXkyHJZLVOUqTmc"
-    },
-    {
-      "added_at": "2026-01-09 13:51:16",
-      "album": {
         "name": "If I Didn\u2019t Love You",
         "url": "https://open.spotify.com/album/3dS67NuXz81GhplmI45iEG"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 233013,
       "name": "Shiver",
       "url": "https://open.spotify.com/track/1ODA4mZMaoBzT1TbPBW8B1"
+    },
+    {
+      "added_at": "2026-01-09 13:51:16",
+      "album": {
+        "name": "Weatherman",
+        "url": "https://open.spotify.com/album/4GkmkJSF88GEnP2LFuCl0r"
+      },
+      "artists": [
+        {
+          "name": "Hush Kids",
+          "url": "https://open.spotify.com/artist/4XzsOuqFltgBcdHF3RZQbh"
+        }
+      ],
+      "duration_ms": 211509,
+      "name": "Weatherman",
+      "url": "https://open.spotify.com/track/4i3ayapBXkyHJZLVOUqTmc"
     },
     {
       "added_at": "2026-01-09 13:51:16",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2026-01-09 13:51:16",
       "album": {
-        "name": "Water",
-        "url": "https://open.spotify.com/album/1F4rsdXzl1jda8iHIkXU8w"
-      },
-      "artists": [
-        {
-          "name": "Ryan Montbleau",
-          "url": "https://open.spotify.com/artist/5Q2ZtOZ0vOdtcjGDOq6ZQc"
-        }
-      ],
-      "duration_ms": 304880,
-      "name": "I Don't Want to Go",
-      "url": "https://open.spotify.com/track/6v72fV6Nao5E4MOoQ8ZvzD"
-    },
-    {
-      "added_at": "2026-01-09 13:51:16",
-      "album": {
         "name": "Palindrome Hunches",
         "url": "https://open.spotify.com/album/6nWn2IqFMPLfo5fEi42XOe"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 220866,
       "name": "Digging Shelters",
       "url": "https://open.spotify.com/track/5z0rixDlXqm0iXZ1Zxz3YX"
+    },
+    {
+      "added_at": "2026-01-09 13:51:16",
+      "album": {
+        "name": "Water",
+        "url": "https://open.spotify.com/album/1F4rsdXzl1jda8iHIkXU8w"
+      },
+      "artists": [
+        {
+          "name": "Ryan Montbleau",
+          "url": "https://open.spotify.com/artist/5Q2ZtOZ0vOdtcjGDOq6ZQc"
+        }
+      ],
+      "duration_ms": 304880,
+      "name": "I Don't Want to Go",
+      "url": "https://open.spotify.com/track/6v72fV6Nao5E4MOoQ8ZvzD"
     },
     {
       "added_at": "2026-01-09 13:51:16",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2026-01-09 13:51:16",
       "album": {
-        "name": "Rubber",
-        "url": "https://open.spotify.com/album/6Q5lfwMABVKmk5sv6uS1mV"
-      },
-      "artists": [
-        {
-          "name": "Ruston Kelly",
-          "url": "https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I"
-        }
-      ],
-      "duration_ms": 198373,
-      "name": "Rubber",
-      "url": "https://open.spotify.com/track/3dsZCq57TheazHh1GVAJwO"
-    },
-    {
-      "added_at": "2026-01-09 13:51:16",
-      "album": {
         "name": "Colony of Bees",
         "url": "https://open.spotify.com/album/22ydepp9MkmGOVOG89v9DU"
       },
@@ -1315,34 +1299,18 @@
     {
       "added_at": "2026-01-09 13:51:16",
       "album": {
-        "name": "Cool Girl",
-        "url": "https://open.spotify.com/album/0TCc51KQYlnJ6WuFOgN6hI"
+        "name": "Rubber",
+        "url": "https://open.spotify.com/album/6Q5lfwMABVKmk5sv6uS1mV"
       },
       "artists": [
         {
-          "name": "dodie",
-          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
+          "name": "Ruston Kelly",
+          "url": "https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I"
         }
       ],
-      "duration_ms": 199384,
-      "name": "Cool Girl",
-      "url": "https://open.spotify.com/track/0FSOenCj42lbikl1vd5ah9"
-    },
-    {
-      "added_at": "2026-01-09 13:51:16",
-      "album": {
-        "name": "BRIGHTSIDE",
-        "url": "https://open.spotify.com/album/5Vb119mjQekK46CfEWDQXW"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 228960,
-      "name": "ROLLERCOASTER",
-      "url": "https://open.spotify.com/track/5jwgqsTNFsKQIMrwhGZ5et"
+      "duration_ms": 198373,
+      "name": "Rubber",
+      "url": "https://open.spotify.com/track/3dsZCq57TheazHh1GVAJwO"
     },
     {
       "added_at": "2026-01-09 13:51:16",
@@ -1363,6 +1331,22 @@
     {
       "added_at": "2026-01-09 13:51:16",
       "album": {
+        "name": "Cool Girl",
+        "url": "https://open.spotify.com/album/0TCc51KQYlnJ6WuFOgN6hI"
+      },
+      "artists": [
+        {
+          "name": "dodie",
+          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
+        }
+      ],
+      "duration_ms": 199384,
+      "name": "Cool Girl",
+      "url": "https://open.spotify.com/track/0FSOenCj42lbikl1vd5ah9"
+    },
+    {
+      "added_at": "2026-01-09 13:51:16",
+      "album": {
         "name": "Meet The Moonlight",
         "url": "https://open.spotify.com/album/6A5YfsWJbtLqFenuOQCsDG"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 305607,
       "name": "Meet The Moonlight",
       "url": "https://open.spotify.com/track/6M70kLblnAfCQ9uj8BdcUR"
+    },
+    {
+      "added_at": "2026-01-09 13:51:16",
+      "album": {
+        "name": "BRIGHTSIDE",
+        "url": "https://open.spotify.com/album/5Vb119mjQekK46CfEWDQXW"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 228960,
+      "name": "ROLLERCOASTER",
+      "url": "https://open.spotify.com/track/5jwgqsTNFsKQIMrwhGZ5et"
     },
     {
       "added_at": "2026-01-09 13:51:16",
@@ -1459,6 +1459,26 @@
     {
       "added_at": "2026-01-09 13:51:16",
       "album": {
+        "name": "Manly Man",
+        "url": "https://open.spotify.com/album/79topiJ4Bj0SRE5XiBkpuH"
+      },
+      "artists": [
+        {
+          "name": "Delacey",
+          "url": "https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb"
+        },
+        {
+          "name": "Emily Weisband",
+          "url": "https://open.spotify.com/artist/1am9EW2QubqpkCbg29vu5n"
+        }
+      ],
+      "duration_ms": 210963,
+      "name": "Manly Man",
+      "url": "https://open.spotify.com/track/3W8tRjkiC0TQZuUq0wA5zI"
+    },
+    {
+      "added_at": "2026-01-09 13:51:16",
+      "album": {
         "name": "Cold Feet",
         "url": "https://open.spotify.com/album/0l1Hm8MBege3nX4dAMypB8"
       },
@@ -1519,26 +1539,6 @@
       "duration_ms": 182253,
       "name": "Drugstore Houses",
       "url": "https://open.spotify.com/track/2vOWeduJdE3pDR3c8uCE7Z"
-    },
-    {
-      "added_at": "2026-01-09 13:51:16",
-      "album": {
-        "name": "Manly Man",
-        "url": "https://open.spotify.com/album/79topiJ4Bj0SRE5XiBkpuH"
-      },
-      "artists": [
-        {
-          "name": "Delacey",
-          "url": "https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb"
-        },
-        {
-          "name": "Emily Weisband",
-          "url": "https://open.spotify.com/artist/1am9EW2QubqpkCbg29vu5n"
-        }
-      ],
-      "duration_ms": 210963,
-      "name": "Manly Man",
-      "url": "https://open.spotify.com/track/3W8tRjkiC0TQZuUq0wA5zI"
     },
     {
       "added_at": "2026-01-09 13:51:16",
@@ -1895,26 +1895,6 @@
     {
       "added_at": "2026-01-09 13:51:16",
       "album": {
-        "name": "I Hope It Takes You Higher (Acoustic)",
-        "url": "https://open.spotify.com/album/6NmGBBMgSEzqXprwqAIGad"
-      },
-      "artists": [
-        {
-          "name": "Toulouse",
-          "url": "https://open.spotify.com/artist/4Vy0AbsAmU5l3ZWOxhilzr"
-        },
-        {
-          "name": "iRO",
-          "url": "https://open.spotify.com/artist/3TNpNnN7Y8QhtJJnQ08YeF"
-        }
-      ],
-      "duration_ms": 220864,
-      "name": "I Hope It Takes You Higher - Acoustic",
-      "url": "https://open.spotify.com/track/71aHrUacV9bMtm1qCqJuwZ"
-    },
-    {
-      "added_at": "2026-01-09 13:51:16",
-      "album": {
         "name": "It Wasn't Enough",
         "url": "https://open.spotify.com/album/2uYM8TunmJhRP1U3ULUgXv"
       },
@@ -1931,18 +1911,22 @@
     {
       "added_at": "2026-01-09 13:51:16",
       "album": {
-        "name": "Hearts On Fire",
-        "url": "https://open.spotify.com/album/5o6LtYCoemB8ijmObK1U0V"
+        "name": "I Hope It Takes You Higher (Acoustic)",
+        "url": "https://open.spotify.com/album/6NmGBBMgSEzqXprwqAIGad"
       },
       "artists": [
         {
-          "name": "Jessie Reid",
-          "url": "https://open.spotify.com/artist/5KjGwF0TkKmKSC42Mtq2VV"
+          "name": "Toulouse",
+          "url": "https://open.spotify.com/artist/4Vy0AbsAmU5l3ZWOxhilzr"
+        },
+        {
+          "name": "iRO",
+          "url": "https://open.spotify.com/artist/3TNpNnN7Y8QhtJJnQ08YeF"
         }
       ],
-      "duration_ms": 219811,
-      "name": "Hearts On Fire - Acoustic",
-      "url": "https://open.spotify.com/track/5rF4khMrrwHgEjCLC6sB1f"
+      "duration_ms": 220864,
+      "name": "I Hope It Takes You Higher - Acoustic",
+      "url": "https://open.spotify.com/track/71aHrUacV9bMtm1qCqJuwZ"
     },
     {
       "added_at": "2026-01-09 13:51:16",
@@ -1999,6 +1983,22 @@
     {
       "added_at": "2026-01-09 13:51:16",
       "album": {
+        "name": "Hearts On Fire",
+        "url": "https://open.spotify.com/album/5o6LtYCoemB8ijmObK1U0V"
+      },
+      "artists": [
+        {
+          "name": "Jessie Reid",
+          "url": "https://open.spotify.com/artist/5KjGwF0TkKmKSC42Mtq2VV"
+        }
+      ],
+      "duration_ms": 219811,
+      "name": "Hearts On Fire - Acoustic",
+      "url": "https://open.spotify.com/track/5rF4khMrrwHgEjCLC6sB1f"
+    },
+    {
+      "added_at": "2026-01-09 13:51:16",
+      "album": {
         "name": "Blood Money",
         "url": "https://open.spotify.com/album/4A0CeSpGWbvGQ57rBnTHj4"
       },
@@ -2031,22 +2031,6 @@
     {
       "added_at": "2026-01-09 13:51:16",
       "album": {
-        "name": "Day Plan",
-        "url": "https://open.spotify.com/album/5pgIguDeta2y82ccJTWK3w"
-      },
-      "artists": [
-        {
-          "name": "Izzy Heltai",
-          "url": "https://open.spotify.com/artist/609L5isoR1bZrX1oB0y6dF"
-        }
-      ],
-      "duration_ms": 226033,
-      "name": "Day Plan",
-      "url": "https://open.spotify.com/track/0erC8baMqhTGIHIGjvrxXD"
-    },
-    {
-      "added_at": "2026-01-09 13:51:16",
-      "album": {
         "name": "Do You See The Light Around Me?",
         "url": "https://open.spotify.com/album/4ryLljFHWYTslwrz8l0UTK"
       },
@@ -2059,6 +2043,22 @@
       "duration_ms": 204034,
       "name": "Do You See The Light Around Me?",
       "url": "https://open.spotify.com/track/6pPfKmVvvu1ztJxqvpQ4Vm"
+    },
+    {
+      "added_at": "2026-01-09 13:51:16",
+      "album": {
+        "name": "Day Plan",
+        "url": "https://open.spotify.com/album/5pgIguDeta2y82ccJTWK3w"
+      },
+      "artists": [
+        {
+          "name": "Izzy Heltai",
+          "url": "https://open.spotify.com/artist/609L5isoR1bZrX1oB0y6dF"
+        }
+      ],
+      "duration_ms": 226033,
+      "name": "Day Plan",
+      "url": "https://open.spotify.com/track/0erC8baMqhTGIHIGjvrxXD"
     },
     {
       "added_at": "2026-01-09 13:51:16",

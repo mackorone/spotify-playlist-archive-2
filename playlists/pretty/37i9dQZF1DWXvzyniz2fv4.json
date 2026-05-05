@@ -1,6 +1,6 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 158802,
+  "num_followers": 158790,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
@@ -359,22 +359,6 @@
     {
       "added_at": "2026-04-20 14:17:08",
       "album": {
-        "name": "Favorita",
-        "url": "https://open.spotify.com/album/20rjum05KirLwgB42dOHei"
-      },
-      "artists": [
-        {
-          "name": "Giana Mello",
-          "url": "https://open.spotify.com/artist/2z4LMq3xuAqNh0gNIicsVi"
-        }
-      ],
-      "duration_ms": 151000,
-      "name": "Favorita",
-      "url": "https://open.spotify.com/track/3c2ymV9wzu8hN250I8R7EJ"
-    },
-    {
-      "added_at": "2026-04-20 14:17:08",
-      "album": {
         "name": "At\u00e9 o Final",
         "url": "https://open.spotify.com/album/7JkPXfrHRDk8LA4hSeRoZ5"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 144682,
       "name": "At\u00e9 o Final",
       "url": "https://open.spotify.com/track/688hyNXeh5JnbRc7tkxmGw"
+    },
+    {
+      "added_at": "2026-04-20 14:17:08",
+      "album": {
+        "name": "Favorita",
+        "url": "https://open.spotify.com/album/20rjum05KirLwgB42dOHei"
+      },
+      "artists": [
+        {
+          "name": "Giana Mello",
+          "url": "https://open.spotify.com/artist/2z4LMq3xuAqNh0gNIicsVi"
+        }
+      ],
+      "duration_ms": 151000,
+      "name": "Favorita",
+      "url": "https://open.spotify.com/track/3c2ymV9wzu8hN250I8R7EJ"
     },
     {
       "added_at": "2026-04-20 14:17:08",
@@ -691,6 +691,22 @@
     {
       "added_at": "2026-04-20 14:17:08",
       "album": {
+        "name": "OBRA PRIMA",
+        "url": "https://open.spotify.com/album/059jQeL3t3lHZqzcTcs39N"
+      },
+      "artists": [
+        {
+          "name": "MC Gustavinho",
+          "url": "https://open.spotify.com/artist/77yd8ef29EG05232JEQzXu"
+        }
+      ],
+      "duration_ms": 169855,
+      "name": "OBRA PRIMA",
+      "url": "https://open.spotify.com/track/0IEHquF8iEgFBtTntygFcv"
+    },
+    {
+      "added_at": "2026-04-20 14:17:08",
+      "album": {
         "name": "Ravi",
         "url": "https://open.spotify.com/album/6cQ9MrRLvyqXj30x3jTctL"
       },
@@ -715,38 +731,18 @@
     {
       "added_at": "2026-04-20 14:17:08",
       "album": {
-        "name": "OBRA PRIMA",
-        "url": "https://open.spotify.com/album/059jQeL3t3lHZqzcTcs39N"
+        "name": "Ac\u00fastico: Sem Perceber + 4 da Manh\u00e3",
+        "url": "https://open.spotify.com/album/6wInOtdqAA15z0ZK6v0AjR"
       },
       "artists": [
         {
-          "name": "MC Gustavinho",
-          "url": "https://open.spotify.com/artist/77yd8ef29EG05232JEQzXu"
+          "name": "Vitinho",
+          "url": "https://open.spotify.com/artist/09djLPsTydbIFC9duW5mQp"
         }
       ],
-      "duration_ms": 169855,
-      "name": "OBRA PRIMA",
-      "url": "https://open.spotify.com/track/0IEHquF8iEgFBtTntygFcv"
-    },
-    {
-      "added_at": "2026-04-20 14:17:08",
-      "album": {
-        "name": "AIRBNB",
-        "url": "https://open.spotify.com/album/3NLPJ8I2HZrE9XIGuiaL3x"
-      },
-      "artists": [
-        {
-          "name": "UM44K",
-          "url": "https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2"
-        },
-        {
-          "name": "Cave",
-          "url": "https://open.spotify.com/artist/3TKi2ihPsE1ViCKxLKxQm7"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "AIRBNB",
-      "url": "https://open.spotify.com/track/4fHx6m5TVZWvzGH8ME5OPD"
+      "duration_ms": 208485,
+      "name": "4 da Manh\u00e3 - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/57bo2W60Td9nuMYvwCCty2"
     },
     {
       "added_at": "2026-04-20 14:17:08",
@@ -775,18 +771,38 @@
     {
       "added_at": "2026-04-20 14:17:08",
       "album": {
-        "name": "Ac\u00fastico: Sem Perceber + 4 da Manh\u00e3",
-        "url": "https://open.spotify.com/album/6wInOtdqAA15z0ZK6v0AjR"
+        "name": "AIRBNB",
+        "url": "https://open.spotify.com/album/3NLPJ8I2HZrE9XIGuiaL3x"
       },
       "artists": [
         {
-          "name": "Vitinho",
-          "url": "https://open.spotify.com/artist/09djLPsTydbIFC9duW5mQp"
+          "name": "UM44K",
+          "url": "https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2"
+        },
+        {
+          "name": "Cave",
+          "url": "https://open.spotify.com/artist/3TKi2ihPsE1ViCKxLKxQm7"
         }
       ],
-      "duration_ms": 208485,
-      "name": "4 da Manh\u00e3 - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/57bo2W60Td9nuMYvwCCty2"
+      "duration_ms": 146000,
+      "name": "AIRBNB",
+      "url": "https://open.spotify.com/track/4fHx6m5TVZWvzGH8ME5OPD"
+    },
+    {
+      "added_at": "2026-04-20 14:17:08",
+      "album": {
+        "name": "QUENTE",
+        "url": "https://open.spotify.com/album/4Mwlgd9ZeQF8WQwI4dGHoE"
+      },
+      "artists": [
+        {
+          "name": "Amanda Sarmento",
+          "url": "https://open.spotify.com/artist/2QFGLsI0ugeKkmGSggCr73"
+        }
+      ],
+      "duration_ms": 123128,
+      "name": "QUENTE",
+      "url": "https://open.spotify.com/track/2el8CvqyDnolMrKdcEpFJR"
     },
     {
       "added_at": "2026-04-20 14:17:08",
@@ -839,22 +855,6 @@
     {
       "added_at": "2026-04-20 14:17:08",
       "album": {
-        "name": "QUENTE",
-        "url": "https://open.spotify.com/album/4Mwlgd9ZeQF8WQwI4dGHoE"
-      },
-      "artists": [
-        {
-          "name": "Amanda Sarmento",
-          "url": "https://open.spotify.com/artist/2QFGLsI0ugeKkmGSggCr73"
-        }
-      ],
-      "duration_ms": 123128,
-      "name": "QUENTE",
-      "url": "https://open.spotify.com/track/2el8CvqyDnolMrKdcEpFJR"
-    },
-    {
-      "added_at": "2026-04-20 14:17:08",
-      "album": {
         "name": "Original MTK #2 - Se Voc\u00ea Vier",
         "url": "https://open.spotify.com/album/420rc6s3uRgnBnogGrjAfP"
       },
@@ -899,6 +899,26 @@
     {
       "added_at": "2026-04-20 14:17:08",
       "album": {
+        "name": "Oriente Ac\u00fastico",
+        "url": "https://open.spotify.com/album/3WJzYyIeffgxWIT0o0N7J1"
+      },
+      "artists": [
+        {
+          "name": "Oriente",
+          "url": "https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE"
+        },
+        {
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+        }
+      ],
+      "duration_ms": 215936,
+      "name": "Luz da Lua",
+      "url": "https://open.spotify.com/track/6MjNdgoDAWesTjXUYg1ETC"
+    },
+    {
+      "added_at": "2026-04-20 14:17:08",
+      "album": {
         "name": "Beira do Mar",
         "url": "https://open.spotify.com/album/5ZrXrgWZl4lcoIDrHsezda"
       },
@@ -919,26 +939,6 @@
       "duration_ms": 187988,
       "name": "Beira do Mar",
       "url": "https://open.spotify.com/track/3cy3gXlEPK5QyUHfHYim6n"
-    },
-    {
-      "added_at": "2026-04-20 14:17:08",
-      "album": {
-        "name": "Oriente Ac\u00fastico",
-        "url": "https://open.spotify.com/album/3WJzYyIeffgxWIT0o0N7J1"
-      },
-      "artists": [
-        {
-          "name": "Oriente",
-          "url": "https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE"
-        },
-        {
-          "name": "Ferrugem",
-          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
-        }
-      ],
-      "duration_ms": 215936,
-      "name": "Luz da Lua",
-      "url": "https://open.spotify.com/track/6MjNdgoDAWesTjXUYg1ETC"
     },
     {
       "added_at": "2026-04-20 14:17:08",
@@ -1179,26 +1179,6 @@
     {
       "added_at": "2026-04-20 14:17:08",
       "album": {
-        "name": "Ciclo Vicioso",
-        "url": "https://open.spotify.com/album/5NN6jAsZ5ePXElnkk3gCuJ"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Andr\u00e9 Nine",
-          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
-        }
-      ],
-      "duration_ms": 206142,
-      "name": "Pegando Carona",
-      "url": "https://open.spotify.com/track/4tc1q7IeDAfld5pKg0k4TA"
-    },
-    {
-      "added_at": "2026-04-20 14:17:08",
-      "album": {
         "name": "ALAKASAM",
         "url": "https://open.spotify.com/album/6OvCm5b3mYCKuNEzFB63A6"
       },
@@ -1219,6 +1199,26 @@
       "duration_ms": 212400,
       "name": "Sem Press\u00e3o",
       "url": "https://open.spotify.com/track/3kljvt39F20M9GWxS32jSy"
+    },
+    {
+      "added_at": "2026-04-20 14:17:08",
+      "album": {
+        "name": "Ciclo Vicioso",
+        "url": "https://open.spotify.com/album/5NN6jAsZ5ePXElnkk3gCuJ"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Andr\u00e9 Nine",
+          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
+        }
+      ],
+      "duration_ms": 206142,
+      "name": "Pegando Carona",
+      "url": "https://open.spotify.com/track/4tc1q7IeDAfld5pKg0k4TA"
     },
     {
       "added_at": "2026-04-20 14:17:08",

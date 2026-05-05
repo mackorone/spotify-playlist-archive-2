@@ -1071,6 +1071,24 @@
     },
     {
       "album": {
+        "name": "Heroine",
+        "url": "https://open.spotify.com/album/4xT3ryrqfutVzV1cJN79Ww"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155192,
+      "name": "Heroine",
+      "url": "https://open.spotify.com/track/04OCeDuqT4ympbgDZ8dcfT"
+    },
+    {
+      "album": {
         "name": "Hold Me Tight",
         "url": "https://open.spotify.com/album/0SoA6rouuRtGQ2nTtggs9X"
       },
@@ -1169,6 +1187,28 @@
     },
     {
       "album": {
+        "name": "Middle of Nowhere",
+        "url": "https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        },
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163689,
+      "name": "Horses and Divorces (feat. Miranda Lambert)",
+      "url": "https://open.spotify.com/track/44tr6kkaMRgd2UVG44wqv7"
+    },
+    {
+      "album": {
         "name": "You Were Wrong",
         "url": "https://open.spotify.com/album/6qpDp066saTszT71b8pm3t"
       },
@@ -1234,7 +1274,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 169400,
       "name": "I Want You Back",
       "url": "https://open.spotify.com/track/3R6oFy7EQiWhqJagxIblHM"
@@ -1556,7 +1596,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 242287,
       "name": "LOVE, LOVE, LOVE",
       "url": "https://open.spotify.com/track/3j49aLXWWkbjQyUyvngokI"
@@ -1632,6 +1672,24 @@
       "duration_ms": 294141,
       "name": "masshiro (pure white)",
       "url": "https://open.spotify.com/track/00WTRpkXPTms4ah74VurQi"
+    },
+    {
+      "album": {
+        "name": "The Devil Wears Prada 2 (Music From The Motion Picture)",
+        "url": "https://open.spotify.com/album/5FKnRUB5lt7z5ac1lmu3BE"
+      },
+      "artists": [
+        {
+          "name": "SIENNA SPIRO",
+          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178016,
+      "name": "Material Lover",
+      "url": "https://open.spotify.com/track/2NT5EOtSEOrjfisvwmSv5S"
     },
     {
       "album": {
@@ -3110,7 +3168,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 226557,
       "name": "\u30bf\u30a4\u30e0\u30d1\u30e9\u30c9\u30c3\u30af\u30b9",
       "url": "https://open.spotify.com/track/3jNwPOqdPvQIr5dRT0hzgY"

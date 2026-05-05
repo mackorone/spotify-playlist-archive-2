@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbgtqUuhUMh3.md) - [plain]
 
 > Listen to women, at full volume\. Emel is co\-curating EQUAL Arabia this month.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,340 likes - 64 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,343 likes - 64 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbgtqUuhUMh3.md) - [plain]
 | 19 | [Borders & Promises](https://open.spotify.com/track/5qY06W2svsKdzGGmAcKiu1) | [Haya Zaatry](https://open.spotify.com/artist/7BbiOEvJs6qrSDp54s1EUB) | [Borders & Promises](https://open.spotify.com/album/5uIkhTCloRamttkbQ3TgE9) | 3:56 |
 | 20 | [Nassam Alayna El Hawa](https://open.spotify.com/track/7BXhyXma11NSNQlQDZOgiN) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Bent El Hares](https://open.spotify.com/album/0lf0V72GGI3YVA6d7jA9M5) | 4:03 |
 | 21 | [Rivière](https://open.spotify.com/track/7E39jnOmNQV52Yxe1kRuXr) | [ROZA](https://open.spotify.com/artist/6u6EYh8TWZ7EPZTWRWTmHG) | [Système ouvert](https://open.spotify.com/album/6n3j7qjz0Wg4rplQlmROMx) | 3:02 |
-| 22 | [Mezzaluna](https://open.spotify.com/track/1xrnIqOGEz5iu179fXB8m8) | [TÄRA](https://open.spotify.com/artist/0ez4Y0vHwlRCrqGIkChC3Q) | [Mezzaluna](https://open.spotify.com/album/1UI5d9aBC5CqrY2qfTeycp) | 2:51 |
+| 22 | [Mezzaluna](https://open.spotify.com/track/1xrnIqOGEz5iu179fXB8m8) | [TÄRA](https://open.spotify.com/artist/0ez4Y0vHwlRCrqGIkChC3Q) | [Mezzaluna](https://open.spotify.com/album/1UI5d9aBC5CqrY2qfTeycp) | 2:50 |
 | 23 | [مريض](https://open.spotify.com/track/5xzcP0BtxlTijbIBZT2AlV) | [Maha Ftouni](https://open.spotify.com/artist/2alZWWB8btL8F9NCeoR1Xn) | [مريض](https://open.spotify.com/album/5g8TrAiKZ4YC1WKtvbkwNi) | 2:42 |
 | 24 | [Sebtely Alby](https://open.spotify.com/track/4737Q6tMY1c8uSxNHMVQO7) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [Sebtely Alby](https://open.spotify.com/album/5siBJGS4A5yxVDNkzo3oIk) | 4:02 |
 | 25 | [Fi Hagat](https://open.spotify.com/track/4rvgSBrTVQ2brjrCmSmAWp) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Nancy 7](https://open.spotify.com/album/11wjLyox9zqa83zKltR2gP) | 4:26 |

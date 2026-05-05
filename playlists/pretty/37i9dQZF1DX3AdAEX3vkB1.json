@@ -1,6 +1,6 @@
 {
   "description": "The biggest party hits of the 1960s.",
-  "num_followers": 333685,
+  "num_followers": 333750,
   "original_name": "60s Party",
   "owner": {
     "name": "Spotify",
@@ -235,22 +235,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Green Onions",
-        "url": "https://open.spotify.com/album/2aGFVLz0oQPa3uxCfq9lcU"
-      },
-      "artists": [
-        {
-          "name": "Booker T. & the M.G.'s",
-          "url": "https://open.spotify.com/artist/2vDV0T8sxx2ENnKXds75e5"
-        }
-      ],
-      "duration_ms": 176333,
-      "name": "Green Onions",
-      "url": "https://open.spotify.com/track/4fQMGlCawbTkH9yPPZ49kP"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Smiley Smile (Remastered)",
         "url": "https://open.spotify.com/album/37rNuexqEXWeSIOiJtn3A9"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 219026,
       "name": "Good Vibrations - Remastered 2001",
       "url": "https://open.spotify.com/track/5t9KYe0Fhd5cW6UYT4qP8f"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Green Onions",
+        "url": "https://open.spotify.com/album/2aGFVLz0oQPa3uxCfq9lcU"
+      },
+      "artists": [
+        {
+          "name": "Booker T. & the M.G.'s",
+          "url": "https://open.spotify.com/artist/2vDV0T8sxx2ENnKXds75e5"
+        }
+      ],
+      "duration_ms": 176333,
+      "name": "Green Onions",
+      "url": "https://open.spotify.com/track/4fQMGlCawbTkH9yPPZ49kP"
     },
     {
       "added_at": "2023-05-30 09:14:29",
@@ -283,22 +283,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Help! (Remastered)",
-        "url": "https://open.spotify.com/album/0PT5m6hwPRrpBwIHVnvbFX"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 139560,
-      "name": "Help! - Remastered 2009",
-      "url": "https://open.spotify.com/track/7DD7eSuYSC5xk2ArU62esN"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Ring Of Fire: The Best Of Johnny Cash",
         "url": "https://open.spotify.com/album/0ucV57dbnqmrGv9d60r6X2"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 158426,
       "name": "Ring of Fire",
       "url": "https://open.spotify.com/track/6YffUZJ2R06kyxyK6onezL"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Help! (Remastered)",
+        "url": "https://open.spotify.com/album/0PT5m6hwPRrpBwIHVnvbFX"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 139560,
+      "name": "Help! - Remastered 2009",
+      "url": "https://open.spotify.com/track/7DD7eSuYSC5xk2ArU62esN"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -361,6 +361,22 @@
       "url": "https://open.spotify.com/track/0wJoRiX5K5BxlqZTolB2LD"
     },
     {
+      "added_at": "2023-05-30 09:14:29",
+      "album": {
+        "name": "The Second",
+        "url": "https://open.spotify.com/album/2Y5GORWYwVAZ8msuEuh5FN"
+      },
+      "artists": [
+        {
+          "name": "Steppenwolf",
+          "url": "https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m"
+        }
+      ],
+      "duration_ms": 271573,
+      "name": "Magic Carpet Ride",
+      "url": "https://open.spotify.com/track/4c4jJJoaiY21t2TyRZgdWS"
+    },
+    {
       "added_at": "2022-06-16 22:02:00",
       "album": {
         "name": "The Beatles 1962 - 1966 (Remastered)",
@@ -395,22 +411,6 @@
     {
       "added_at": "2023-05-30 09:14:29",
       "album": {
-        "name": "The Second",
-        "url": "https://open.spotify.com/album/2Y5GORWYwVAZ8msuEuh5FN"
-      },
-      "artists": [
-        {
-          "name": "Steppenwolf",
-          "url": "https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m"
-        }
-      ],
-      "duration_ms": 271573,
-      "name": "Magic Carpet Ride",
-      "url": "https://open.spotify.com/track/4c4jJJoaiY21t2TyRZgdWS"
-    },
-    {
-      "added_at": "2023-05-30 09:14:29",
-      "album": {
         "name": "Surrealistic Pillow",
         "url": "https://open.spotify.com/album/6lPb7Eoon6QPbscWbMsk6a"
       },
@@ -441,22 +441,6 @@
       "url": "https://open.spotify.com/track/1zW2csx1vVJrKfvDrFQNVt"
     },
     {
-      "added_at": "2023-05-30 09:14:29",
-      "album": {
-        "name": "Please Please Me (Remastered)",
-        "url": "https://open.spotify.com/album/3KzAvEXcqJKBF97HrXwlgf"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 173946,
-      "name": "I Saw Her Standing There - Remastered 2009",
-      "url": "https://open.spotify.com/track/3KiexfmhxHvG5IgAElmTkd"
-    },
-    {
       "added_at": "2022-06-16 22:02:00",
       "album": {
         "name": "Where Did Our Love Go",
@@ -471,6 +455,22 @@
       "duration_ms": 158040,
       "name": "Baby Love",
       "url": "https://open.spotify.com/track/5uES1C2NgkdrNHiCwf9jRr"
+    },
+    {
+      "added_at": "2023-05-30 09:14:29",
+      "album": {
+        "name": "Please Please Me (Remastered)",
+        "url": "https://open.spotify.com/album/3KzAvEXcqJKBF97HrXwlgf"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 173946,
+      "name": "I Saw Her Standing There - Remastered 2009",
+      "url": "https://open.spotify.com/track/3KiexfmhxHvG5IgAElmTkd"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -507,22 +507,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "The Exciting Wilson Pickett",
-        "url": "https://open.spotify.com/album/3fxWzXNMhTz01uShzMARnm"
-      },
-      "artists": [
-        {
-          "name": "Wilson Pickett",
-          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
-        }
-      ],
-      "duration_ms": 146973,
-      "name": "Land of 1000 Dances",
-      "url": "https://open.spotify.com/track/76ICmoJ4PcoMWoooaTxnQs"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Do you Believe In Magic",
         "url": "https://open.spotify.com/album/5bx2ZHa0KUDMD5T0r9V030"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 125826,
       "name": "Do You Believe in Magic?",
       "url": "https://open.spotify.com/track/1udKn1oNKYQSQ9OmiIWCMu"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "The Exciting Wilson Pickett",
+        "url": "https://open.spotify.com/album/3fxWzXNMhTz01uShzMARnm"
+      },
+      "artists": [
+        {
+          "name": "Wilson Pickett",
+          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
+        }
+      ],
+      "duration_ms": 146973,
+      "name": "Land of 1000 Dances",
+      "url": "https://open.spotify.com/track/76ICmoJ4PcoMWoooaTxnQs"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -587,22 +587,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Beatles For Sale (Remastered)",
-        "url": "https://open.spotify.com/album/1vANZV20H5B4Fk6yf7Ot9a"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 163600,
-      "name": "Eight Days A Week - Remastered 2009",
-      "url": "https://open.spotify.com/track/1Dg4dFJr3HW7sbA7vPejre"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "The Best Of Canned Heat",
         "url": "https://open.spotify.com/album/0TBmLh3U5sk1F8eF0twjwi"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 171373,
       "name": "Going Up The Country",
       "url": "https://open.spotify.com/track/57460SJgSpCXaRJ9YIYHxy"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Beatles For Sale (Remastered)",
+        "url": "https://open.spotify.com/album/1vANZV20H5B4Fk6yf7Ot9a"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 163600,
+      "name": "Eight Days A Week - Remastered 2009",
+      "url": "https://open.spotify.com/track/1Dg4dFJr3HW7sbA7vPejre"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -667,22 +667,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Four Tops",
-        "url": "https://open.spotify.com/album/6TPCze8g5Q3yCRYyA42qAm"
-      },
-      "artists": [
-        {
-          "name": "Four Tops",
-          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
-        }
-      ],
-      "duration_ms": 166026,
-      "name": "Baby I Need Your Loving",
-      "url": "https://open.spotify.com/track/3aCbwWCYCT3MJjZeUnlcp4"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "This Old Heart Of Mine",
         "url": "https://open.spotify.com/album/6iIk47TPgtfIxzL2ALdBSN"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 172733,
       "name": "This Old Heart Of Mine (Is Weak For You)",
       "url": "https://open.spotify.com/track/5c33j1xFVOL4G24zxYhssB"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Four Tops",
+        "url": "https://open.spotify.com/album/6TPCze8g5Q3yCRYyA42qAm"
+      },
+      "artists": [
+        {
+          "name": "Four Tops",
+          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
+        }
+      ],
+      "duration_ms": 166026,
+      "name": "Baby I Need Your Loving",
+      "url": "https://open.spotify.com/track/3aCbwWCYCT3MJjZeUnlcp4"
     },
     {
       "added_at": "2023-05-30 09:14:29",
@@ -843,6 +843,22 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
+        "name": "Take Good Care Of My Baby",
+        "url": "https://open.spotify.com/album/4yB0nAAZLuRNK4xdme2axu"
+      },
+      "artists": [
+        {
+          "name": "Bobby Vee",
+          "url": "https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO"
+        }
+      ],
+      "duration_ms": 149800,
+      "name": "Take Good Care Of My Baby",
+      "url": "https://open.spotify.com/track/06JokgprGDKrtZ1eP6z2CQ"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
         "name": "The House of the Rising Sun: Best of The Animals",
         "url": "https://open.spotify.com/album/2GkmC6hsvA8854l5kLsTOg"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 189840,
       "name": "Knock on Wood",
       "url": "https://open.spotify.com/track/3YJx77Xx8JSwEoxqrkQO5c"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
-        "name": "Take Good Care Of My Baby",
-        "url": "https://open.spotify.com/album/4yB0nAAZLuRNK4xdme2axu"
-      },
-      "artists": [
-        {
-          "name": "Bobby Vee",
-          "url": "https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO"
-        }
-      ],
-      "duration_ms": 149800,
-      "name": "Take Good Care Of My Baby",
-      "url": "https://open.spotify.com/track/06JokgprGDKrtZ1eP6z2CQ"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1033,6 +1033,22 @@
       "url": "https://open.spotify.com/track/760clbeDBWmBsBLbszWuNZ"
     },
     {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Rick Is 21",
+        "url": "https://open.spotify.com/album/0eWkaY2z2iBw1t7M8eHKQe"
+      },
+      "artists": [
+        {
+          "name": "Ricky Nelson",
+          "url": "https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS"
+        }
+      ],
+      "duration_ms": 138546,
+      "name": "Hello Mary Lou, Goodbye Heart - Remastered",
+      "url": "https://open.spotify.com/track/6ImmlZj8ysK2jDnqqbKp60"
+    },
+    {
       "added_at": "2023-05-30 09:14:29",
       "album": {
         "name": "The Complete Johnny Kidd Vol 1 & 2",
@@ -1083,22 +1099,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Rick Is 21",
-        "url": "https://open.spotify.com/album/0eWkaY2z2iBw1t7M8eHKQe"
-      },
-      "artists": [
-        {
-          "name": "Ricky Nelson",
-          "url": "https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS"
-        }
-      ],
-      "duration_ms": 138546,
-      "name": "Hello Mary Lou, Goodbye Heart - Remastered",
-      "url": "https://open.spotify.com/track/6ImmlZj8ysK2jDnqqbKp60"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "The Chiffons Absolutely The Best!",
         "url": "https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq"
       },
@@ -1111,22 +1111,6 @@
       "duration_ms": 112520,
       "name": "He's So Fine - Remastered 2000",
       "url": "https://open.spotify.com/track/2Bs1Lw9LX8hBm70t1iGdlh"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
-        "name": "The Good Life With the Drifters",
-        "url": "https://open.spotify.com/album/1lvcXSmZa8rTR5M03tihq5"
-      },
-      "artists": [
-        {
-          "name": "The Drifters",
-          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
-        }
-      ],
-      "duration_ms": 153626,
-      "name": "Saturday Night at the Movies",
-      "url": "https://open.spotify.com/track/0jrdWPwYjUZvqfJcwE8ddh"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1147,6 +1131,22 @@
       "duration_ms": 177666,
       "name": "It Takes Two",
       "url": "https://open.spotify.com/track/0UERoCKd24PKovd4BwRzBQ"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "The Good Life With the Drifters",
+        "url": "https://open.spotify.com/album/1lvcXSmZa8rTR5M03tihq5"
+      },
+      "artists": [
+        {
+          "name": "The Drifters",
+          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
+        }
+      ],
+      "duration_ms": 153626,
+      "name": "Saturday Night at the Movies",
+      "url": "https://open.spotify.com/track/0jrdWPwYjUZvqfJcwE8ddh"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Hot Rocks 1964-1971",
-        "url": "https://open.spotify.com/album/0aqZJlugIkTUWW1sa4BANp"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 222746,
-      "name": "(I Can't Get No) Satisfaction - Mono",
-      "url": "https://open.spotify.com/track/5FKkbyGm42hw1y08l2knlO"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "No Place To Hide",
         "url": "https://open.spotify.com/album/7CPcd7Sl9L4TahP1gTqR5q"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 129758,
       "name": "It's In The Kiss (The Shoop Shoop Song)",
       "url": "https://open.spotify.com/track/35hfuechuOqaW31ogdauO7"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Hot Rocks 1964-1971",
+        "url": "https://open.spotify.com/album/0aqZJlugIkTUWW1sa4BANp"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 222746,
+      "name": "(I Can't Get No) Satisfaction - Mono",
+      "url": "https://open.spotify.com/track/5FKkbyGm42hw1y08l2knlO"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "The Monkees (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0YoVLoHDgFdeRfVxCJWjLq"
-      },
-      "artists": [
-        {
-          "name": "The Monkees",
-          "url": "https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck"
-        }
-      ],
-      "duration_ms": 164093,
-      "name": "Last Train to Clarksville - Original Stereo Version; 2006 Remaster",
-      "url": "https://open.spotify.com/track/20wbR4HxNaR4gWjMLQvUp2"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "The Hits",
         "url": "https://open.spotify.com/album/77KLEElnsx9lRInnzCqMBW"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 149626,
       "name": "Let's Dance",
       "url": "https://open.spotify.com/track/2Qm5DrmotzWvqNM3JlcQYo"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "The Monkees (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0YoVLoHDgFdeRfVxCJWjLq"
+      },
+      "artists": [
+        {
+          "name": "The Monkees",
+          "url": "https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck"
+        }
+      ],
+      "duration_ms": 164093,
+      "name": "Last Train to Clarksville - Original Stereo Version; 2006 Remaster",
+      "url": "https://open.spotify.com/track/20wbR4HxNaR4gWjMLQvUp2"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Pure... '60s",
-        "url": "https://open.spotify.com/album/3cceuam4ZfqSSC4uVchxvx"
-      },
-      "artists": [
-        {
-          "name": "Love Affair",
-          "url": "https://open.spotify.com/artist/7aXDGr3cUBmH2Kx1yBC7Ux"
-        }
-      ],
-      "duration_ms": 181746,
-      "name": "Everlasting Love",
-      "url": "https://open.spotify.com/track/2Rp4qTPWa91ctCSq0pu3zv"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Get Down With It!: The OKeh Sessions",
         "url": "https://open.spotify.com/album/3XJdo12CbRAzzG58QbzKkk"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 157160,
       "name": "In the Midnight Hour",
       "url": "https://open.spotify.com/track/4Px3eyuChcQdX1GXytgxF2"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Pure... '60s",
+        "url": "https://open.spotify.com/album/3cceuam4ZfqSSC4uVchxvx"
+      },
+      "artists": [
+        {
+          "name": "Love Affair",
+          "url": "https://open.spotify.com/artist/7aXDGr3cUBmH2Kx1yBC7Ux"
+        }
+      ],
+      "duration_ms": 181746,
+      "name": "Everlasting Love",
+      "url": "https://open.spotify.com/track/2Rp4qTPWa91ctCSq0pu3zv"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1887,38 +1887,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "More Hits By The Supremes - Expanded Edition",
-        "url": "https://open.spotify.com/album/5Z9hrH7aGLMT9s6lNYx2HH"
-      },
-      "artists": [
-        {
-          "name": "The Supremes",
-          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
-        }
-      ],
-      "duration_ms": 172933,
-      "name": "Stop! In The Name Of Love",
-      "url": "https://open.spotify.com/track/5yfrc6CGOXxDWx3nGUDcNj"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
-        "name": "#1 Hits of the 60's",
-        "url": "https://open.spotify.com/album/6Mio3JCszE0BTyjTmfYsLY"
-      },
-      "artists": [
-        {
-          "name": "Del Shannon",
-          "url": "https://open.spotify.com/artist/3c8WoNjBfyLJhFObE6RHgs"
-        }
-      ],
-      "duration_ms": 147080,
-      "name": "Runaway (Rerecorded)",
-      "url": "https://open.spotify.com/track/0E59YEu2gtTp8MoEWV8KFk"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Trojan Presents: Mod Ska",
         "url": "https://open.spotify.com/album/1yHoapFf9ehxEkQOUdoFOq"
       },
@@ -1971,50 +1939,34 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "20 Golden Greats",
-        "url": "https://open.spotify.com/album/5ourevL93kFzjWH6lIyT42"
+        "name": "More Hits By The Supremes - Expanded Edition",
+        "url": "https://open.spotify.com/album/5Z9hrH7aGLMT9s6lNYx2HH"
       },
       "artists": [
         {
-          "name": "The Hollies",
-          "url": "https://open.spotify.com/artist/6waa8mKu91GjzD4NlONlNJ"
+          "name": "The Supremes",
+          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
         }
       ],
-      "duration_ms": 174640,
-      "name": "Bus Stop",
-      "url": "https://open.spotify.com/track/5rVj0WJEGMO0WQeX9GG4kh"
+      "duration_ms": 172933,
+      "name": "Stop! In The Name Of Love",
+      "url": "https://open.spotify.com/track/5yfrc6CGOXxDWx3nGUDcNj"
     },
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Keep On Running",
-        "url": "https://open.spotify.com/album/3Z0XNzsJC1cY6szFkxVE1h"
+        "name": "#1 Hits of the 60's",
+        "url": "https://open.spotify.com/album/6Mio3JCszE0BTyjTmfYsLY"
       },
       "artists": [
         {
-          "name": "The Spencer Davis Group",
-          "url": "https://open.spotify.com/artist/3i9hP422d2KMjaupTzBNVS"
+          "name": "Del Shannon",
+          "url": "https://open.spotify.com/artist/3c8WoNjBfyLJhFObE6RHgs"
         }
       ],
-      "duration_ms": 173973,
-      "name": "Gimme Some Lovin' - Single Mix",
-      "url": "https://open.spotify.com/track/0g6UcrVsACnRJyTGX6uSHu"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
-        "name": "The Ultimate Collection: Martha Reeves & The Vandellas",
-        "url": "https://open.spotify.com/album/0kvY6WYTWWJXQnesQRJZUZ"
-      },
-      "artists": [
-        {
-          "name": "Martha Reeves & The Vandellas",
-          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
-        }
-      ],
-      "duration_ms": 160306,
-      "name": "Dancing In The Street - Single Version",
-      "url": "https://open.spotify.com/track/32k7kVzz4SpmI7Q5xI856l"
+      "duration_ms": 147080,
+      "name": "Runaway (Rerecorded)",
+      "url": "https://open.spotify.com/track/0E59YEu2gtTp8MoEWV8KFk"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -2035,6 +1987,54 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
+        "name": "Keep On Running",
+        "url": "https://open.spotify.com/album/3Z0XNzsJC1cY6szFkxVE1h"
+      },
+      "artists": [
+        {
+          "name": "The Spencer Davis Group",
+          "url": "https://open.spotify.com/artist/3i9hP422d2KMjaupTzBNVS"
+        }
+      ],
+      "duration_ms": 173973,
+      "name": "Gimme Some Lovin' - Single Mix",
+      "url": "https://open.spotify.com/track/0g6UcrVsACnRJyTGX6uSHu"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "20 Golden Greats",
+        "url": "https://open.spotify.com/album/5ourevL93kFzjWH6lIyT42"
+      },
+      "artists": [
+        {
+          "name": "The Hollies",
+          "url": "https://open.spotify.com/artist/6waa8mKu91GjzD4NlONlNJ"
+        }
+      ],
+      "duration_ms": 174640,
+      "name": "Bus Stop",
+      "url": "https://open.spotify.com/track/5rVj0WJEGMO0WQeX9GG4kh"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "The Ultimate Collection: Martha Reeves & The Vandellas",
+        "url": "https://open.spotify.com/album/0kvY6WYTWWJXQnesQRJZUZ"
+      },
+      "artists": [
+        {
+          "name": "Martha Reeves & The Vandellas",
+          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
+        }
+      ],
+      "duration_ms": 160306,
+      "name": "Dancing In The Street - Single Version",
+      "url": "https://open.spotify.com/track/32k7kVzz4SpmI7Q5xI856l"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
         "name": "Along Came Tom Jones",
         "url": "https://open.spotify.com/album/4qhk3MMtFC8V29bUn9GB5g"
       },
@@ -2051,18 +2051,18 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "20 Golden Greats",
-        "url": "https://open.spotify.com/album/5ourevL93kFzjWH6lIyT42"
+        "name": "Twist & Shout",
+        "url": "https://open.spotify.com/album/7tUyCuhlC8ag79kPg6rO6J"
       },
       "artists": [
         {
-          "name": "The Hollies",
-          "url": "https://open.spotify.com/artist/6waa8mKu91GjzD4NlONlNJ"
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
         }
       ],
-      "duration_ms": 175893,
-      "name": "Carrie Anne",
-      "url": "https://open.spotify.com/track/7hbS99uuSAjqwFwcYgUdEV"
+      "duration_ms": 155400,
+      "name": "Twist And Shout",
+      "url": "https://open.spotify.com/track/0URp9jOJtiWKR1AfMGH2Qj"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -2079,6 +2079,22 @@
       "duration_ms": 154946,
       "name": "I Only Want To Be With You",
       "url": "https://open.spotify.com/track/0FlITClPKfKqQxVHzFD3iF"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "20 Golden Greats",
+        "url": "https://open.spotify.com/album/5ourevL93kFzjWH6lIyT42"
+      },
+      "artists": [
+        {
+          "name": "The Hollies",
+          "url": "https://open.spotify.com/artist/6waa8mKu91GjzD4NlONlNJ"
+        }
+      ],
+      "duration_ms": 175893,
+      "name": "Carrie Anne",
+      "url": "https://open.spotify.com/track/7hbS99uuSAjqwFwcYgUdEV"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -2191,22 +2207,6 @@
       "duration_ms": 144160,
       "name": "It's My Party",
       "url": "https://open.spotify.com/track/5A9Lz0DPD0wo2QDqGm4zh9"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
-        "name": "Twist & Shout",
-        "url": "https://open.spotify.com/album/7tUyCuhlC8ag79kPg6rO6J"
-      },
-      "artists": [
-        {
-          "name": "The Isley Brothers",
-          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
-        }
-      ],
-      "duration_ms": 155400,
-      "name": "Twist And Shout",
-      "url": "https://open.spotify.com/track/0URp9jOJtiWKR1AfMGH2Qj"
     },
     {
       "added_at": "2022-06-16 22:02:00",

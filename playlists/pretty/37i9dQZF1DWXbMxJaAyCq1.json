@@ -1,6 +1,6 @@
 {
   "description": "This is the remix... esc\u00fachalos ac\u00e1. Foto: Kybba, Ryan Castro, Busy Signal",
-  "num_followers": 478511,
+  "num_followers": 478520,
   "original_name": "Remixes Urbanos",
   "owner": {
     "name": "Spotify",
@@ -487,34 +487,6 @@
     {
       "added_at": "2025-07-31 00:00:34",
       "album": {
-        "name": "Ultra Complicado (feat. Sebas) [Remix]",
-        "url": "https://open.spotify.com/album/5e90EkJ4CrMDooT8EeRkgh"
-      },
-      "artists": [
-        {
-          "name": "Kenny Die",
-          "url": "https://open.spotify.com/artist/6CHaM7DPIvAhLVOB5wNncN"
-        },
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        },
-        {
-          "name": "Kris R.",
-          "url": "https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK"
-        },
-        {
-          "name": "Sebas",
-          "url": "https://open.spotify.com/artist/4tVYC7sel44em6IS6WqA4J"
-        }
-      ],
-      "duration_ms": 257333,
-      "name": "Ultra Complicado (feat. Sebas) - Remix",
-      "url": "https://open.spotify.com/track/569xAmXCkpM3IsEOiG4hWe"
-    },
-    {
-      "added_at": "2025-07-31 00:00:34",
-      "album": {
         "name": "La Criatura",
         "url": "https://open.spotify.com/album/3C2Y8YZGNyGqXZLPHPUMj3"
       },
@@ -543,6 +515,34 @@
       "duration_ms": 217093,
       "name": "B\u00e1ilame - Remix",
       "url": "https://open.spotify.com/track/4l3xGFwoTinvYxsePytOOf"
+    },
+    {
+      "added_at": "2025-07-31 00:00:34",
+      "album": {
+        "name": "Ultra Complicado (feat. Sebas) [Remix]",
+        "url": "https://open.spotify.com/album/5e90EkJ4CrMDooT8EeRkgh"
+      },
+      "artists": [
+        {
+          "name": "Kenny Die",
+          "url": "https://open.spotify.com/artist/6CHaM7DPIvAhLVOB5wNncN"
+        },
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Kris R.",
+          "url": "https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK"
+        },
+        {
+          "name": "Sebas",
+          "url": "https://open.spotify.com/artist/4tVYC7sel44em6IS6WqA4J"
+        }
+      ],
+      "duration_ms": 257333,
+      "name": "Ultra Complicado (feat. Sebas) - Remix",
+      "url": "https://open.spotify.com/track/569xAmXCkpM3IsEOiG4hWe"
     },
     {
       "added_at": "2025-07-31 00:00:34",
@@ -667,38 +667,6 @@
     {
       "added_at": "2025-07-31 00:00:34",
       "album": {
-        "name": "Hola (Remix)",
-        "url": "https://open.spotify.com/album/65Pp2tO1Ul66KcCmmkRGWZ"
-      },
-      "artists": [
-        {
-          "name": "Dalex",
-          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
-        },
-        {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
-        },
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
-        },
-        {
-          "name": "Juhn",
-          "url": "https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr"
-        },
-        {
-          "name": "D\u00edmelo Flow",
-          "url": "https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx"
-        }
-      ],
-      "duration_ms": 249520,
-      "name": "Hola - Remix",
-      "url": "https://open.spotify.com/track/5stPVcRqb4qixbafP9e8lt"
-    },
-    {
-      "added_at": "2025-07-31 00:00:34",
-      "album": {
         "name": "Otro Trago (Remix)",
         "url": "https://open.spotify.com/album/3hiJmThCss4ugTPzvgUnT1"
       },
@@ -727,6 +695,38 @@
       "duration_ms": 287773,
       "name": "Otro Trago - Remix",
       "url": "https://open.spotify.com/track/4bTZeO72FwMa6wKOiqoynL"
+    },
+    {
+      "added_at": "2025-07-31 00:00:34",
+      "album": {
+        "name": "Hola (Remix)",
+        "url": "https://open.spotify.com/album/65Pp2tO1Ul66KcCmmkRGWZ"
+      },
+      "artists": [
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        },
+        {
+          "name": "Juhn",
+          "url": "https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr"
+        },
+        {
+          "name": "D\u00edmelo Flow",
+          "url": "https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx"
+        }
+      ],
+      "duration_ms": 249520,
+      "name": "Hola - Remix",
+      "url": "https://open.spotify.com/track/5stPVcRqb4qixbafP9e8lt"
     },
     {
       "added_at": "2025-07-31 00:00:34",
@@ -807,6 +807,26 @@
     {
       "added_at": "2025-07-31 00:00:34",
       "album": {
+        "name": "911 (Remix)",
+        "url": "https://open.spotify.com/album/57ppCWTeAnqooyrR4DzbwR"
+      },
+      "artists": [
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        },
+        {
+          "name": "JHAYCO",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "duration_ms": 208631,
+      "name": "911 (Remix)",
+      "url": "https://open.spotify.com/track/27RSJHEA99Y0Vsow7nA37A"
+    },
+    {
+      "added_at": "2025-07-31 00:00:34",
+      "album": {
         "name": "ETA (RMX)",
         "url": "https://open.spotify.com/album/3gRImh7Qfr9rspysznv2Jr"
       },
@@ -835,26 +855,6 @@
       "duration_ms": 462561,
       "name": "ETA - RMX",
       "url": "https://open.spotify.com/track/6ir1I4ZtHzJfdV8TjIbLEY"
-    },
-    {
-      "added_at": "2025-07-31 00:00:34",
-      "album": {
-        "name": "911 (Remix)",
-        "url": "https://open.spotify.com/album/57ppCWTeAnqooyrR4DzbwR"
-      },
-      "artists": [
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        },
-        {
-          "name": "JHAYCO",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        }
-      ],
-      "duration_ms": 208631,
-      "name": "911 (Remix)",
-      "url": "https://open.spotify.com/track/27RSJHEA99Y0Vsow7nA37A"
     },
     {
       "added_at": "2025-07-31 00:00:34",
@@ -1215,26 +1215,26 @@
     {
       "added_at": "2025-07-31 00:00:34",
       "album": {
-        "name": "Persia (Remix)",
-        "url": "https://open.spotify.com/album/4ELBi3Egy3cub0EzlJAN4W"
+        "name": "Ella No Es Tuya (Remix)",
+        "url": "https://open.spotify.com/album/5Jk2ROWL8a4RxmFNiT8pvA"
       },
       "artists": [
         {
-          "name": "Jossef",
-          "url": "https://open.spotify.com/artist/7kaC28XGoTp1ViSZAA0iuX"
+          "name": "Rochy RD",
+          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
         },
         {
-          "name": "Jamby El Favo",
-          "url": "https://open.spotify.com/artist/128ftF9X7Kd7Di2fq3wYVs"
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
         },
         {
-          "name": "Eix",
-          "url": "https://open.spotify.com/artist/384MqcXCGGFh9UcjI5Tpc5"
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
         }
       ],
-      "duration_ms": 250906,
-      "name": "Persia - Remix",
-      "url": "https://open.spotify.com/track/3SgybTfx3GWHAcjhK9iPmz"
+      "duration_ms": 218000,
+      "name": "Ella No Es Tuya - Remix",
+      "url": "https://open.spotify.com/track/5YYW3yRktprLRr47WK219Y"
     },
     {
       "added_at": "2025-07-31 00:00:34",
@@ -1263,30 +1263,6 @@
       "duration_ms": 240365,
       "name": "Miss Lonely - Dimelo Flow Remix",
       "url": "https://open.spotify.com/track/1ndlOUUT3Eq1SDCSdKJASw"
-    },
-    {
-      "added_at": "2025-07-31 00:00:34",
-      "album": {
-        "name": "Ella No Es Tuya (Remix)",
-        "url": "https://open.spotify.com/album/5Jk2ROWL8a4RxmFNiT8pvA"
-      },
-      "artists": [
-        {
-          "name": "Rochy RD",
-          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        },
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "Ella No Es Tuya - Remix",
-      "url": "https://open.spotify.com/track/5YYW3yRktprLRr47WK219Y"
     },
     {
       "added_at": "2025-07-31 00:00:34",
@@ -1363,6 +1339,30 @@
       "duration_ms": 413110,
       "name": "Cay\u00f3 La Noche (feat. Cruz Cafun\u00e9, Abhir Hathi, Bejo, EL IMA) [Remix]",
       "url": "https://open.spotify.com/track/0Bv7O6fmZk3GrNQFYJaXPn"
+    },
+    {
+      "added_at": "2025-07-31 00:00:34",
+      "album": {
+        "name": "Persia (Remix)",
+        "url": "https://open.spotify.com/album/4ELBi3Egy3cub0EzlJAN4W"
+      },
+      "artists": [
+        {
+          "name": "Jossef",
+          "url": "https://open.spotify.com/artist/7kaC28XGoTp1ViSZAA0iuX"
+        },
+        {
+          "name": "Jamby El Favo",
+          "url": "https://open.spotify.com/artist/128ftF9X7Kd7Di2fq3wYVs"
+        },
+        {
+          "name": "Eix",
+          "url": "https://open.spotify.com/artist/384MqcXCGGFh9UcjI5Tpc5"
+        }
+      ],
+      "duration_ms": 250906,
+      "name": "Persia - Remix",
+      "url": "https://open.spotify.com/track/3SgybTfx3GWHAcjhK9iPmz"
     },
     {
       "added_at": "2025-07-31 00:00:34",
@@ -1707,42 +1707,6 @@
     {
       "added_at": "2025-07-31 00:00:34",
       "album": {
-        "name": "Travesuras (Remix)",
-        "url": "https://open.spotify.com/album/1rQpXDegLbNBpe0fshpeKa"
-      },
-      "artists": [
-        {
-          "name": "Nio Garcia",
-          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
-        },
-        {
-          "name": "Casper Magico",
-          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Wisin & Yandel",
-          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        },
-        {
-          "name": "Flow La Movie",
-          "url": "https://open.spotify.com/artist/2oT7xd9iTO2ejLsNGIMa5f"
-        }
-      ],
-      "duration_ms": 324426,
-      "name": "Travesuras - Remix",
-      "url": "https://open.spotify.com/track/0VWLId2RwPCno9s1cJm2Vy"
-    },
-    {
-      "added_at": "2025-07-31 00:00:34",
-      "album": {
         "name": "Poblado (Remix)",
         "url": "https://open.spotify.com/album/1avDIEjBJ9ayO1Lj7LxNM7"
       },
@@ -1775,6 +1739,42 @@
       "duration_ms": 393280,
       "name": "Poblado - Remix",
       "url": "https://open.spotify.com/track/1WedZeiezCmCEOzLwhx0hV"
+    },
+    {
+      "added_at": "2025-07-31 00:00:34",
+      "album": {
+        "name": "Travesuras (Remix)",
+        "url": "https://open.spotify.com/album/1rQpXDegLbNBpe0fshpeKa"
+      },
+      "artists": [
+        {
+          "name": "Nio Garcia",
+          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
+        },
+        {
+          "name": "Casper Magico",
+          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Flow La Movie",
+          "url": "https://open.spotify.com/artist/2oT7xd9iTO2ejLsNGIMa5f"
+        }
+      ],
+      "duration_ms": 324426,
+      "name": "Travesuras - Remix",
+      "url": "https://open.spotify.com/track/0VWLId2RwPCno9s1cJm2Vy"
     },
     {
       "added_at": "2025-07-31 00:00:34",
@@ -1899,30 +1899,6 @@
     {
       "added_at": "2025-07-31 00:00:34",
       "album": {
-        "name": "No Podemos (Remix)",
-        "url": "https://open.spotify.com/album/4jz8jaitW6YNNBS9ikHJ4z"
-      },
-      "artists": [
-        {
-          "name": "Ele A El Dominio",
-          "url": "https://open.spotify.com/artist/4SzD0wClEg9NKVJZbCRFqS"
-        },
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "No Podemos - Remix",
-      "url": "https://open.spotify.com/track/489YQCIt2Mi0P1lRdx7uJz"
-    },
-    {
-      "added_at": "2025-07-31 00:00:34",
-      "album": {
         "name": "No Te Enamores (Remix)",
         "url": "https://open.spotify.com/album/77aeZo4yYPoMsnnRtPPpuk"
       },
@@ -1999,6 +1975,30 @@
       "duration_ms": 234820,
       "name": "Pr\u00e9stame - Remix",
       "url": "https://open.spotify.com/track/6zltLA09hCYa1UI39WjE4b"
+    },
+    {
+      "added_at": "2025-07-31 00:00:34",
+      "album": {
+        "name": "No Podemos (Remix)",
+        "url": "https://open.spotify.com/album/4jz8jaitW6YNNBS9ikHJ4z"
+      },
+      "artists": [
+        {
+          "name": "Ele A El Dominio",
+          "url": "https://open.spotify.com/artist/4SzD0wClEg9NKVJZbCRFqS"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "No Podemos - Remix",
+      "url": "https://open.spotify.com/track/489YQCIt2Mi0P1lRdx7uJz"
     },
     {
       "added_at": "2025-07-31 00:00:34",

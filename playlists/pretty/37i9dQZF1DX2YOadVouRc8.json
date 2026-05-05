@@ -1,6 +1,6 @@
 {
   "description": "afrobeats: best served chill",
-  "num_followers": 47253,
+  "num_followers": 47262,
   "original_name": "Afro Chill",
   "owner": {
     "name": "Spotify",
@@ -451,26 +451,22 @@
     {
       "added_at": "2026-05-01 00:01:51",
       "album": {
-        "name": "Birthday",
-        "url": "https://open.spotify.com/album/0x1Q0qm394QlhVrqdVMI5d"
+        "name": "Prince of the Street",
+        "url": "https://open.spotify.com/album/6eAuO5yaH0N9ALkeKtuiaW"
       },
       "artists": [
         {
-          "name": "Fredo",
-          "url": "https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z"
+          "name": "Ayo Maff",
+          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
         },
         {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "Steel Banglez",
-          "url": "https://open.spotify.com/artist/6k970rXaWAWVfWMjqWtFNI"
+          "name": "Chike",
+          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
         }
       ],
-      "duration_ms": 155753,
-      "name": "Birthday",
-      "url": "https://open.spotify.com/track/0703G3CAQ3oDJAzaVIvUJ9"
+      "duration_ms": 133624,
+      "name": "Realness",
+      "url": "https://open.spotify.com/track/6Uh5S2WjXoFPkgcVHaQV0d"
     },
     {
       "added_at": "2026-05-01 00:01:51",
@@ -491,22 +487,26 @@
     {
       "added_at": "2026-05-01 00:01:51",
       "album": {
-        "name": "Prince of the Street",
-        "url": "https://open.spotify.com/album/6eAuO5yaH0N9ALkeKtuiaW"
+        "name": "Birthday",
+        "url": "https://open.spotify.com/album/0x1Q0qm394QlhVrqdVMI5d"
       },
       "artists": [
         {
-          "name": "Ayo Maff",
-          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
+          "name": "Fredo",
+          "url": "https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z"
         },
         {
-          "name": "Chike",
-          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Steel Banglez",
+          "url": "https://open.spotify.com/artist/6k970rXaWAWVfWMjqWtFNI"
         }
       ],
-      "duration_ms": 133624,
-      "name": "Realness",
-      "url": "https://open.spotify.com/track/6Uh5S2WjXoFPkgcVHaQV0d"
+      "duration_ms": 155753,
+      "name": "Birthday",
+      "url": "https://open.spotify.com/track/0703G3CAQ3oDJAzaVIvUJ9"
     },
     {
       "added_at": "2026-05-01 00:01:51",
@@ -675,18 +675,18 @@
     {
       "added_at": "2026-05-01 00:01:51",
       "album": {
-        "name": "Pressure",
-        "url": "https://open.spotify.com/album/0O7179ieea0SQIwxyFaL68"
+        "name": "5ive",
+        "url": "https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8"
       },
       "artists": [
         {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
         }
       ],
-      "duration_ms": 159994,
-      "name": "Pressure",
-      "url": "https://open.spotify.com/track/05lhFsOWPXRjfGA7xY7XJz"
+      "duration_ms": 136755,
+      "name": "10 Kilo",
+      "url": "https://open.spotify.com/track/2IOMDdgUZfjlsPYXGeeoaH"
     },
     {
       "added_at": "2026-05-01 00:01:51",
@@ -707,18 +707,18 @@
     {
       "added_at": "2026-05-01 00:01:51",
       "album": {
-        "name": "5ive",
-        "url": "https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8"
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/0O7179ieea0SQIwxyFaL68"
       },
       "artists": [
         {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
         }
       ],
-      "duration_ms": 136755,
-      "name": "10 Kilo",
-      "url": "https://open.spotify.com/track/2IOMDdgUZfjlsPYXGeeoaH"
+      "duration_ms": 159994,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/05lhFsOWPXRjfGA7xY7XJz"
     },
     {
       "added_at": "2026-05-01 00:01:51",
@@ -879,6 +879,22 @@
     {
       "added_at": "2026-05-01 00:01:51",
       "album": {
+        "name": "Only Fans",
+        "url": "https://open.spotify.com/album/2JEoO3X2c9JShuhcsDFiBu"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "duration_ms": 149126,
+      "name": "Only Fans",
+      "url": "https://open.spotify.com/track/2JkjBVJIukdat5jNJeYyzz"
+    },
+    {
+      "added_at": "2026-05-01 00:01:51",
+      "album": {
         "name": "DON'T LOVE ME",
         "url": "https://open.spotify.com/album/6ko11fruKOL5nq8WiQH6L9"
       },
@@ -919,18 +935,54 @@
     {
       "added_at": "2026-05-01 00:01:51",
       "album": {
-        "name": "Only Fans",
-        "url": "https://open.spotify.com/album/2JEoO3X2c9JShuhcsDFiBu"
+        "name": "Why You Lying",
+        "url": "https://open.spotify.com/album/1iwiVSNUzS3ylg3XqHcmID"
       },
       "artists": [
         {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+          "name": "oSHAMO",
+          "url": "https://open.spotify.com/artist/6T8LsW0wEmWLi2IriLoQgA"
         }
       ],
-      "duration_ms": 149126,
-      "name": "Only Fans",
-      "url": "https://open.spotify.com/track/2JkjBVJIukdat5jNJeYyzz"
+      "duration_ms": 163200,
+      "name": "Why You Lying",
+      "url": "https://open.spotify.com/track/0Xol9bu4ZcAhxbUYZDKKVf"
+    },
+    {
+      "added_at": "2026-05-01 00:01:51",
+      "album": {
+        "name": "Compose",
+        "url": "https://open.spotify.com/album/21sRdNR6C6BHH4iqpQ2EpV"
+      },
+      "artists": [
+        {
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+        },
+        {
+          "name": "taves",
+          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Compose",
+      "url": "https://open.spotify.com/track/2z13PLFl2jTiV2JLvQZtwI"
+    },
+    {
+      "added_at": "2026-05-01 00:01:51",
+      "album": {
+        "name": "Olamid\u00e9",
+        "url": "https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure"
+      },
+      "artists": [
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "duration_ms": 170191,
+      "name": "Luvaluvah",
+      "url": "https://open.spotify.com/track/00uXDC6A3RK2HJlTK6h0Ak"
     },
     {
       "added_at": "2026-05-01 00:01:51",
@@ -955,50 +1007,22 @@
     {
       "added_at": "2026-05-01 00:01:51",
       "album": {
-        "name": "Olamid\u00e9",
-        "url": "https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure"
+        "name": "Sobobo",
+        "url": "https://open.spotify.com/album/0VauoW1IvT5UzwXdGjOs9k"
       },
       "artists": [
         {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        }
-      ],
-      "duration_ms": 170191,
-      "name": "Luvaluvah",
-      "url": "https://open.spotify.com/track/00uXDC6A3RK2HJlTK6h0Ak"
-    },
-    {
-      "added_at": "2026-05-01 00:01:51",
-      "album": {
-        "name": "Why You Lying",
-        "url": "https://open.spotify.com/album/1iwiVSNUzS3ylg3XqHcmID"
-      },
-      "artists": [
+          "name": "Ayjay bobo",
+          "url": "https://open.spotify.com/artist/5L1Xcdtf6MxLmEvpGMw3g4"
+        },
         {
-          "name": "oSHAMO",
-          "url": "https://open.spotify.com/artist/6T8LsW0wEmWLi2IriLoQgA"
+          "name": "K-Zaka",
+          "url": "https://open.spotify.com/artist/2JUE0RwHFKDPk2mzNDhdeR"
         }
       ],
-      "duration_ms": 163200,
-      "name": "Why You Lying",
-      "url": "https://open.spotify.com/track/0Xol9bu4ZcAhxbUYZDKKVf"
-    },
-    {
-      "added_at": "2026-05-01 00:01:51",
-      "album": {
-        "name": "For All The Right Reasons Vol. 1",
-        "url": "https://open.spotify.com/album/36KvnNSPeyCHUrAQVpgwwN"
-      },
-      "artists": [
-        {
-          "name": "Lekan",
-          "url": "https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "What They Want?",
-      "url": "https://open.spotify.com/track/3SOgkXsCWNQYSoaZuMztK3"
+      "duration_ms": 139441,
+      "name": "SoBoBo",
+      "url": "https://open.spotify.com/track/0aEoCfJ7sVrrdfgYBsa5gB"
     },
     {
       "added_at": "2026-05-01 00:01:51",
@@ -1023,22 +1047,18 @@
     {
       "added_at": "2026-05-01 00:01:51",
       "album": {
-        "name": "Sobobo",
-        "url": "https://open.spotify.com/album/0VauoW1IvT5UzwXdGjOs9k"
+        "name": "For All The Right Reasons Vol. 1",
+        "url": "https://open.spotify.com/album/36KvnNSPeyCHUrAQVpgwwN"
       },
       "artists": [
         {
-          "name": "Ayjay bobo",
-          "url": "https://open.spotify.com/artist/5L1Xcdtf6MxLmEvpGMw3g4"
-        },
-        {
-          "name": "K-Zaka",
-          "url": "https://open.spotify.com/artist/2JUE0RwHFKDPk2mzNDhdeR"
+          "name": "Lekan",
+          "url": "https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv"
         }
       ],
-      "duration_ms": 139441,
-      "name": "SoBoBo",
-      "url": "https://open.spotify.com/track/0aEoCfJ7sVrrdfgYBsa5gB"
+      "duration_ms": 180000,
+      "name": "What They Want?",
+      "url": "https://open.spotify.com/track/3SOgkXsCWNQYSoaZuMztK3"
     },
     {
       "added_at": "2026-05-01 00:01:51",
@@ -1055,26 +1075,6 @@
       "duration_ms": 187590,
       "name": "Ashimolowo",
       "url": "https://open.spotify.com/track/1dKs7tZ3xfoDn2Ap7tgzRv"
-    },
-    {
-      "added_at": "2026-05-01 00:01:51",
-      "album": {
-        "name": "Compose",
-        "url": "https://open.spotify.com/album/21sRdNR6C6BHH4iqpQ2EpV"
-      },
-      "artists": [
-        {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
-        },
-        {
-          "name": "taves",
-          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Compose",
-      "url": "https://open.spotify.com/track/2z13PLFl2jTiV2JLvQZtwI"
     },
     {
       "added_at": "2026-05-01 00:01:51",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2026-05-01 00:01:51",
       "album": {
-        "name": "Phenomena",
-        "url": "https://open.spotify.com/album/7d1uJdESkLI3mrGgBXkkr7"
-      },
-      "artists": [
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 202861,
-      "name": "Phenomena",
-      "url": "https://open.spotify.com/track/7jDMQi5XZooBgF5i7m3DBo"
-    },
-    {
-      "added_at": "2026-05-01 00:01:51",
-      "album": {
         "name": "Toro - A COLORS SHOW",
         "url": "https://open.spotify.com/album/04VbzJIXJCG2AZ3j4at6by"
       },
@@ -1183,22 +1167,18 @@
     {
       "added_at": "2026-05-01 00:01:51",
       "album": {
-        "name": "Catapult",
-        "url": "https://open.spotify.com/album/3wggJeCAlQiFbx7LK7bHOb"
+        "name": "Phenomena",
+        "url": "https://open.spotify.com/album/7d1uJdESkLI3mrGgBXkkr7"
       },
       "artists": [
         {
-          "name": "Strei",
-          "url": "https://open.spotify.com/artist/4ecfG9zQhMOr4yMTqgD79g"
-        },
-        {
-          "name": "Dxtiny",
-          "url": "https://open.spotify.com/artist/5bAj0wNTQ1Ig6lMzndMkdZ"
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
         }
       ],
-      "duration_ms": 208000,
-      "name": "Catapult",
-      "url": "https://open.spotify.com/track/1oWzy39dcfQk7NdRFwaN7Q"
+      "duration_ms": 202861,
+      "name": "Phenomena",
+      "url": "https://open.spotify.com/track/7jDMQi5XZooBgF5i7m3DBo"
     },
     {
       "added_at": "2026-05-01 00:01:51",
@@ -1223,6 +1203,26 @@
       "duration_ms": 129449,
       "name": "BMF \u200b(f\u200beat\u200b. Byron Messia, Fireboy DML\u200b)",
       "url": "https://open.spotify.com/track/5479b6rH90I7QnI5QF1vnA"
+    },
+    {
+      "added_at": "2026-05-01 00:01:51",
+      "album": {
+        "name": "Catapult",
+        "url": "https://open.spotify.com/album/3wggJeCAlQiFbx7LK7bHOb"
+      },
+      "artists": [
+        {
+          "name": "Strei",
+          "url": "https://open.spotify.com/artist/4ecfG9zQhMOr4yMTqgD79g"
+        },
+        {
+          "name": "Dxtiny",
+          "url": "https://open.spotify.com/artist/5bAj0wNTQ1Ig6lMzndMkdZ"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Catapult",
+      "url": "https://open.spotify.com/track/1oWzy39dcfQk7NdRFwaN7Q"
     },
     {
       "added_at": "2026-05-01 00:01:51",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2026-05-01 00:01:51",
       "album": {
+        "name": "I'm Available",
+        "url": "https://open.spotify.com/album/0ZHpEgfNlcyqDCqVTrkMZ8"
+      },
+      "artists": [
+        {
+          "name": "Johnny Drille",
+          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
+        }
+      ],
+      "duration_ms": 196530,
+      "name": "I'm Available",
+      "url": "https://open.spotify.com/track/0OBUEQiL8nzKcOg80cgGke"
+    },
+    {
+      "added_at": "2026-05-01 00:01:51",
+      "album": {
         "name": "Crazily",
         "url": "https://open.spotify.com/album/0C9ArjDsTSnFiJjUzLMi3k"
       },
@@ -1311,18 +1327,22 @@
     {
       "added_at": "2026-05-01 00:01:51",
       "album": {
-        "name": "I'm Available",
-        "url": "https://open.spotify.com/album/0ZHpEgfNlcyqDCqVTrkMZ8"
+        "name": "US",
+        "url": "https://open.spotify.com/album/1HpxshaCESBT4OA7i8mY7X"
       },
       "artists": [
         {
-          "name": "Johnny Drille",
-          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
+          "name": "Swayvee",
+          "url": "https://open.spotify.com/artist/3cPgRGBJymiZW5BdA1K6es"
+        },
+        {
+          "name": "Young Stunna",
+          "url": "https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ"
         }
       ],
-      "duration_ms": 196530,
-      "name": "I'm Available",
-      "url": "https://open.spotify.com/track/0OBUEQiL8nzKcOg80cgGke"
+      "duration_ms": 139047,
+      "name": "US",
+      "url": "https://open.spotify.com/track/2dVhrkNkcQQi4D3oLfxNkw"
     },
     {
       "added_at": "2026-05-01 00:01:51",
@@ -1343,26 +1363,6 @@
       "duration_ms": 168072,
       "name": "So Much Sense",
       "url": "https://open.spotify.com/track/2bd4mGioqIx2KUlLGB7rOo"
-    },
-    {
-      "added_at": "2026-05-01 00:01:51",
-      "album": {
-        "name": "US",
-        "url": "https://open.spotify.com/album/1HpxshaCESBT4OA7i8mY7X"
-      },
-      "artists": [
-        {
-          "name": "Swayvee",
-          "url": "https://open.spotify.com/artist/3cPgRGBJymiZW5BdA1K6es"
-        },
-        {
-          "name": "Young Stunna",
-          "url": "https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ"
-        }
-      ],
-      "duration_ms": 139047,
-      "name": "US",
-      "url": "https://open.spotify.com/track/2dVhrkNkcQQi4D3oLfxNkw"
     },
     {
       "added_at": "2026-05-01 00:01:51",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2026-05-01 00:01:51",
       "album": {
-        "name": "Celine",
-        "url": "https://open.spotify.com/album/6YJUI25aCamOyfKgOij3dt"
-      },
-      "artists": [
-        {
-          "name": "Yarden",
-          "url": "https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd"
-        }
-      ],
-      "duration_ms": 181727,
-      "name": "Celine",
-      "url": "https://open.spotify.com/track/5CJyViQs3FjWV0jSs3Ue59"
-    },
-    {
-      "added_at": "2026-05-01 00:01:51",
-      "album": {
         "name": "Ouu wee (brown)",
         "url": "https://open.spotify.com/album/0g8LWq9ClBfOkass2cIeYl"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 166285,
       "name": "Ouu wee (brown)",
       "url": "https://open.spotify.com/track/1AhteYWd9IcNqUXEktUlfi"
+    },
+    {
+      "added_at": "2026-05-01 00:01:51",
+      "album": {
+        "name": "Celine",
+        "url": "https://open.spotify.com/album/6YJUI25aCamOyfKgOij3dt"
+      },
+      "artists": [
+        {
+          "name": "Yarden",
+          "url": "https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd"
+        }
+      ],
+      "duration_ms": 181727,
+      "name": "Celine",
+      "url": "https://open.spotify.com/track/5CJyViQs3FjWV0jSs3Ue59"
     },
     {
       "added_at": "2026-05-01 00:01:51",
@@ -1471,6 +1471,22 @@
       "duration_ms": 156190,
       "name": "US III",
       "url": "https://open.spotify.com/track/1HHNy0QJKUL8uO6G750zp5"
+    },
+    {
+      "added_at": "2026-05-01 00:01:51",
+      "album": {
+        "name": "NIGHT",
+        "url": "https://open.spotify.com/album/722VVxNwKl5ZZZ1HduMUhr"
+      },
+      "artists": [
+        {
+          "name": "Strei",
+          "url": "https://open.spotify.com/artist/4ecfG9zQhMOr4yMTqgD79g"
+        }
+      ],
+      "duration_ms": 159848,
+      "name": "Obobe",
+      "url": "https://open.spotify.com/track/4R7ue5kkKglzqr7NMjqGB1"
     },
     {
       "added_at": "2026-05-01 00:01:51",
@@ -1535,22 +1551,6 @@
       "duration_ms": 128683,
       "name": "Bebe",
       "url": "https://open.spotify.com/track/3P0dv391ifXeo4wjJbWd2I"
-    },
-    {
-      "added_at": "2026-05-01 00:01:51",
-      "album": {
-        "name": "Verily",
-        "url": "https://open.spotify.com/album/7vU3HmCgSJfCmreSA9LXOR"
-      },
-      "artists": [
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        }
-      ],
-      "duration_ms": 195816,
-      "name": "Verily",
-      "url": "https://open.spotify.com/track/78JnyPSDt67KvELlYdQvcw"
     }
   ],
   "unique_name": "Afro Chill",

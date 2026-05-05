@@ -1,12 +1,12 @@
 {
   "description": "This is Juliana. The essential tracks, all in one playlist.",
-  "num_followers": 5658,
+  "num_followers": 5669,
   "original_name": "This Is Juliana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afU+gAAAAAB+tuSB9twKJO1M5IhWqCh+",
+  "snapshot_id": "afaQAAAAAABtVq99LESw+YLjfmEArYUH",
   "tracks": [
     {
       "added_at": null,
@@ -511,6 +511,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Instrucciones Para Ser Feliz",
+        "url": "https://open.spotify.com/album/3ZtTmeeKnDUWqlQRMmjUtV"
+      },
+      "artists": [
+        {
+          "name": "Monsieur Perin\u00e9",
+          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
+        },
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        }
+      ],
+      "duration_ms": 149312,
+      "name": "Mariposa",
+      "url": "https://open.spotify.com/track/6AjUPlLbv6uZvlNccKMKhN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Siempre Fui Yo 2 (Banda Sonora Original)",
         "url": "https://open.spotify.com/album/4KAbxF4x33ZrI1PnRTZ6Lw"
       },
@@ -531,22 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con las Que Crec\u00ed (Sesi\u00f3n en Vivo)",
-        "url": "https://open.spotify.com/album/7mmgvSwgtVu8OhQNW6z0cr"
-      },
-      "artists": [
-        {
-          "name": "Juliana",
-          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
-        }
-      ],
-      "duration_ms": 202381,
-      "name": "Burbujas de Amor - (Sesi\u00f3n en vivo)",
-      "url": "https://open.spotify.com/track/2kipawZSvwFIVD0y6tT2LG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DOS DOS DOS",
         "url": "https://open.spotify.com/album/0mND2TIOaPmbkchdyu59TP"
       },
@@ -563,22 +567,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Instrucciones Para Ser Feliz",
-        "url": "https://open.spotify.com/album/3ZtTmeeKnDUWqlQRMmjUtV"
+        "name": "Con las Que Crec\u00ed (Sesi\u00f3n en Vivo)",
+        "url": "https://open.spotify.com/album/7mmgvSwgtVu8OhQNW6z0cr"
       },
       "artists": [
-        {
-          "name": "Monsieur Perin\u00e9",
-          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
-        },
         {
           "name": "Juliana",
           "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
         }
       ],
-      "duration_ms": 149312,
-      "name": "Mariposa",
-      "url": "https://open.spotify.com/track/6AjUPlLbv6uZvlNccKMKhN"
+      "duration_ms": 202381,
+      "name": "Burbujas de Amor - (Sesi\u00f3n en vivo)",
+      "url": "https://open.spotify.com/track/2kipawZSvwFIVD0y6tT2LG"
     },
     {
       "added_at": null,
@@ -623,26 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Si Dios Perdona",
-        "url": "https://open.spotify.com/album/70fClqkoidHfZivofJHZmc"
-      },
-      "artists": [
-        {
-          "name": "Juliana",
-          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
-        },
-        {
-          "name": "Pipe Bueno",
-          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
-        }
-      ],
-      "duration_ms": 180748,
-      "name": "Si Dios Perdona",
-      "url": "https://open.spotify.com/track/1RtvzGGRmDnATLCd3HrTFT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Minuto Cien",
         "url": "https://open.spotify.com/album/0VgrHzob67ddWvWakNphCx"
       },
@@ -659,6 +639,26 @@
       "duration_ms": 194526,
       "name": "Minuto Cien",
       "url": "https://open.spotify.com/track/2TAyzkX6AvXtsq8ToVSi0C"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Si Dios Perdona",
+        "url": "https://open.spotify.com/album/70fClqkoidHfZivofJHZmc"
+      },
+      "artists": [
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        },
+        {
+          "name": "Pipe Bueno",
+          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
+        }
+      ],
+      "duration_ms": 180748,
+      "name": "Si Dios Perdona",
+      "url": "https://open.spotify.com/track/1RtvzGGRmDnATLCd3HrTFT"
     },
     {
       "added_at": null,
@@ -715,22 +715,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Si Quieres Marcharte Feat. Dstance (Cap. 1)",
-        "url": "https://open.spotify.com/album/2inN1Sd7GBOyIIDpIlkhZX"
+        "name": "Ens\u00e9\u00f1ame",
+        "url": "https://open.spotify.com/album/34KSApIN48IpEUePEJYV97"
       },
       "artists": [
         {
           "name": "Juliana",
           "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
-        },
-        {
-          "name": "Dstance",
-          "url": "https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2"
         }
       ],
-      "duration_ms": 170896,
-      "name": "Si Quieres Marcharte Feat. Dstance (Cap. 1)",
-      "url": "https://open.spotify.com/track/6ZuMhCPd0VP6vfjQIuJaOX"
+      "duration_ms": 217350,
+      "name": "Ens\u00e9\u00f1ame",
+      "url": "https://open.spotify.com/track/2MzA4qntR39kCOeiNnGzZ2"
     },
     {
       "added_at": null,
@@ -767,18 +763,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ens\u00e9\u00f1ame",
-        "url": "https://open.spotify.com/album/34KSApIN48IpEUePEJYV97"
+        "name": "Si Quieres Marcharte Feat. Dstance (Cap. 1)",
+        "url": "https://open.spotify.com/album/2inN1Sd7GBOyIIDpIlkhZX"
       },
       "artists": [
         {
           "name": "Juliana",
           "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        },
+        {
+          "name": "Dstance",
+          "url": "https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2"
         }
       ],
-      "duration_ms": 217350,
-      "name": "Ens\u00e9\u00f1ame",
-      "url": "https://open.spotify.com/track/2MzA4qntR39kCOeiNnGzZ2"
+      "duration_ms": 170896,
+      "name": "Si Quieres Marcharte Feat. Dstance (Cap. 1)",
+      "url": "https://open.spotify.com/track/6ZuMhCPd0VP6vfjQIuJaOX"
     },
     {
       "added_at": null,

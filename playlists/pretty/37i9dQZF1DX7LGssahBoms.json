@@ -1,6 +1,6 @@
 {
   "description": "Le meilleur des ann\u00e9es 70 en 70 titres.",
-  "num_followers": 206103,
+  "num_followers": 206117,
   "original_name": "Ann\u00e9es 70",
   "owner": {
     "name": "Spotify",
@@ -511,22 +511,6 @@
     {
       "added_at": "2026-03-19 15:33:21",
       "album": {
-        "name": "Love For Sale",
-        "url": "https://open.spotify.com/album/4MOaqIKUdWuojXZYgOa7GM"
-      },
-      "artists": [
-        {
-          "name": "Boney M.",
-          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
-        }
-      ],
-      "duration_ms": 276080,
-      "name": "Ma Baker",
-      "url": "https://open.spotify.com/track/1BqnZOkYJbvYLOhN0qPJDm"
-    },
-    {
-      "added_at": "2026-03-19 15:33:21",
-      "album": {
         "name": "Peter Gabriel 1: Car (Remastered)",
         "url": "https://open.spotify.com/album/0kDFjyfGFtiIMXlxJ120Ok"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 261560,
       "name": "Solsbury Hill",
       "url": "https://open.spotify.com/track/6vZZtivPrtpggT5SSXsYTy"
+    },
+    {
+      "added_at": "2026-03-19 15:33:21",
+      "album": {
+        "name": "Love For Sale",
+        "url": "https://open.spotify.com/album/4MOaqIKUdWuojXZYgOa7GM"
+      },
+      "artists": [
+        {
+          "name": "Boney M.",
+          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
+        }
+      ],
+      "duration_ms": 276080,
+      "name": "Ma Baker",
+      "url": "https://open.spotify.com/track/1BqnZOkYJbvYLOhN0qPJDm"
     },
     {
       "added_at": "2026-03-19 15:33:21",
@@ -579,22 +579,6 @@
     {
       "added_at": "2026-03-19 15:33:21",
       "album": {
-        "name": "Even In The Quietest Moments",
-        "url": "https://open.spotify.com/album/4X87hQ57jTYQTcYTaJWK5w"
-      },
-      "artists": [
-        {
-          "name": "Supertramp",
-          "url": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
-        }
-      ],
-      "duration_ms": 248173,
-      "name": "Give A Little Bit",
-      "url": "https://open.spotify.com/track/6XUHsYE38CEbYunT983O9G"
-    },
-    {
-      "added_at": "2026-03-19 15:33:21",
-      "album": {
         "name": "Ladies of the Canyon",
         "url": "https://open.spotify.com/album/7JOdtLDLyXJIppDRB7kxr9"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 134800,
       "name": "Big Yellow Taxi",
       "url": "https://open.spotify.com/track/6UkMcAA19lTdjs22jtB7o2"
+    },
+    {
+      "added_at": "2026-03-19 15:33:21",
+      "album": {
+        "name": "Even In The Quietest Moments",
+        "url": "https://open.spotify.com/album/4X87hQ57jTYQTcYTaJWK5w"
+      },
+      "artists": [
+        {
+          "name": "Supertramp",
+          "url": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
+        }
+      ],
+      "duration_ms": 248173,
+      "name": "Give A Little Bit",
+      "url": "https://open.spotify.com/track/6XUHsYE38CEbYunT983O9G"
     },
     {
       "added_at": "2026-03-19 15:33:21",
@@ -659,22 +659,6 @@
     {
       "added_at": "2026-03-19 15:33:21",
       "album": {
-        "name": "The Best Of",
-        "url": "https://open.spotify.com/album/6lap95wPl0DwJva1FLGIfx"
-      },
-      "artists": [
-        {
-          "name": "Thelma Houston",
-          "url": "https://open.spotify.com/artist/3sgUnR8TF35euWEV07RPyO"
-        }
-      ],
-      "duration_ms": 217733,
-      "name": "Don't Leave Me This Way",
-      "url": "https://open.spotify.com/track/4Af8yzidDPc520TFd4TmkE"
-    },
-    {
-      "added_at": "2026-03-19 15:33:21",
-      "album": {
         "name": "Parallel Lines (Remastered)",
         "url": "https://open.spotify.com/album/5wc12ZsmXNIlppTmNFZFLU"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 350240,
       "name": "Heart Of Glass [24-Bit Digitally Remastered 01] - Remastered 2001",
       "url": "https://open.spotify.com/track/5XJ1J9QPxaOzdpkGxKU4lA"
+    },
+    {
+      "added_at": "2026-03-19 15:33:21",
+      "album": {
+        "name": "The Best Of",
+        "url": "https://open.spotify.com/album/6lap95wPl0DwJva1FLGIfx"
+      },
+      "artists": [
+        {
+          "name": "Thelma Houston",
+          "url": "https://open.spotify.com/artist/3sgUnR8TF35euWEV07RPyO"
+        }
+      ],
+      "duration_ms": 217733,
+      "name": "Don't Leave Me This Way",
+      "url": "https://open.spotify.com/track/4Af8yzidDPc520TFd4TmkE"
     },
     {
       "added_at": "2026-03-19 15:33:21",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2026-03-19 15:33:21",
       "album": {
-        "name": "All Things Must Pass (Remastered 2014)",
-        "url": "https://open.spotify.com/album/4I4xtHaIFOzhZfp1NIHkY6"
-      },
-      "artists": [
-        {
-          "name": "George Harrison",
-          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
-        }
-      ],
-      "duration_ms": 281226,
-      "name": "My Sweet Lord - Remastered 2014",
-      "url": "https://open.spotify.com/track/0qdQUeKVyevrbKhAo0ibxS"
-    },
-    {
-      "added_at": "2026-03-19 15:33:21",
-      "album": {
         "name": "The Fool",
         "url": "https://open.spotify.com/album/32NiN3HsKzBrSSo1PV2cpa"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 188054,
       "name": "The Fool - Version Remasteris\u00e9e 2021",
       "url": "https://open.spotify.com/track/256L5lP9i1w5PFIPEdZ1DJ"
+    },
+    {
+      "added_at": "2026-03-19 15:33:21",
+      "album": {
+        "name": "All Things Must Pass (Remastered 2014)",
+        "url": "https://open.spotify.com/album/4I4xtHaIFOzhZfp1NIHkY6"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "duration_ms": 281226,
+      "name": "My Sweet Lord - Remastered 2014",
+      "url": "https://open.spotify.com/track/0qdQUeKVyevrbKhAo0ibxS"
     },
     {
       "added_at": "2026-03-19 15:33:21",

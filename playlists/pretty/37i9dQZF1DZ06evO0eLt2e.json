@@ -1,12 +1,12 @@
 {
   "description": "This is Kris Kristofferson. The essential tracks, all in one playlist.",
-  "num_followers": 31891,
+  "num_followers": 31890,
   "original_name": "This Is Kris Kristofferson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afU+gAAAAABZi0JpNHN+vZxWw/Wc9Tcg",
+  "snapshot_id": "afaQAAAAAABZTh2kZGTK4EWWfcTiX2SV",
   "tracks": [
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live - American Outlaws",
-        "url": "https://open.spotify.com/album/3chopONx6vQ8Ky4q5xqtbR"
+        "name": "Highwayman",
+        "url": "https://open.spotify.com/album/6rFM5jHaGzwut3hGbG9pGU"
       },
       "artists": [
         {
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
         }
       ],
-      "duration_ms": 147453,
-      "name": "Mammas Don't Let Your Babies Grow Up to Be Cowboys - Live at Nassau Coliseum, Uniondale, NY - March 1990",
-      "url": "https://open.spotify.com/track/4yxlMScRJzhghqmccPhgQP"
+      "duration_ms": 169326,
+      "name": "Big River",
+      "url": "https://open.spotify.com/track/1ip07xbQWgehduEDY6j8r8"
     },
     {
       "added_at": null,
@@ -379,54 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Highwayman",
-        "url": "https://open.spotify.com/album/6rFM5jHaGzwut3hGbG9pGU"
-      },
-      "artists": [
-        {
-          "name": "The Highwaymen",
-          "url": "https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        },
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        },
-        {
-          "name": "Waylon Jennings",
-          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
-        },
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 169326,
-      "name": "Big River",
-      "url": "https://open.spotify.com/track/1ip07xbQWgehduEDY6j8r8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kristofferson",
-        "url": "https://open.spotify.com/album/4HN8SWymMSOxquR6wY2vke"
-      },
-      "artists": [
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 264871,
-      "name": "Me and Bobby McGee",
-      "url": "https://open.spotify.com/track/68p2wVoGWkDKGJtdsRZDP6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Live - American Outlaws",
         "url": "https://open.spotify.com/album/3chopONx6vQ8Ky4q5xqtbR"
       },
@@ -452,9 +404,25 @@
           "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
         }
       ],
-      "duration_ms": 305506,
-      "name": "City of New Orleans - Live at Nassau Coliseum, Uniondale, NY - March 1990",
-      "url": "https://open.spotify.com/track/6FaNaSx1Z2WwdQIeqePjto"
+      "duration_ms": 147453,
+      "name": "Mammas Don't Let Your Babies Grow Up to Be Cowboys - Live at Nassau Coliseum, Uniondale, NY - March 1990",
+      "url": "https://open.spotify.com/track/4yxlMScRJzhghqmccPhgQP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kristofferson",
+        "url": "https://open.spotify.com/album/4HN8SWymMSOxquR6wY2vke"
+      },
+      "artists": [
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 264871,
+      "name": "Me and Bobby McGee",
+      "url": "https://open.spotify.com/track/68p2wVoGWkDKGJtdsRZDP6"
     },
     {
       "added_at": null,
@@ -487,6 +455,38 @@
       "duration_ms": 272253,
       "name": "Sunday Morning Comin' Down",
       "url": "https://open.spotify.com/track/7MF59N5Uhql4yd68wzCraQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live - American Outlaws",
+        "url": "https://open.spotify.com/album/3chopONx6vQ8Ky4q5xqtbR"
+      },
+      "artists": [
+        {
+          "name": "The Highwaymen",
+          "url": "https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        },
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        },
+        {
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        },
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 305506,
+      "name": "City of New Orleans - Live at Nassau Coliseum, Uniondale, NY - March 1990",
+      "url": "https://open.spotify.com/track/6FaNaSx1Z2WwdQIeqePjto"
     },
     {
       "added_at": null,
@@ -979,26 +979,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Star Is Born",
-        "url": "https://open.spotify.com/album/435mubtZvkoTYIPXWy3seP"
-      },
-      "artists": [
-        {
-          "name": "Barbra Streisand",
-          "url": "https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6"
-        },
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 174560,
-      "name": "Lost Inside of You",
-      "url": "https://open.spotify.com/track/1eZfMt7r4l33HkFHJ6ffJo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Live - American Outlaws",
         "url": "https://open.spotify.com/album/3chopONx6vQ8Ky4q5xqtbR"
       },
@@ -1027,6 +1007,26 @@
       "duration_ms": 263986,
       "name": "Help Me Make It Through the Night - Live at Nassau Coliseum, Uniondale, NY - March 1990",
       "url": "https://open.spotify.com/track/6LVPKE3YlFHPWtYJJ4YWHm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Star Is Born",
+        "url": "https://open.spotify.com/album/435mubtZvkoTYIPXWy3seP"
+      },
+      "artists": [
+        {
+          "name": "Barbra Streisand",
+          "url": "https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6"
+        },
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 174560,
+      "name": "Lost Inside of You",
+      "url": "https://open.spotify.com/track/1eZfMt7r4l33HkFHJ6ffJo"
     },
     {
       "added_at": null,
@@ -1095,22 +1095,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Austin Sessions",
-        "url": "https://open.spotify.com/album/32A8UJ6MXprzzhpLA9J2hA"
-      },
-      "artists": [
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 209066,
-      "name": "Who's to Bless and Who's to Blame",
-      "url": "https://open.spotify.com/track/3iHeBDBH9aObEBPZWL7HFN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Closer to the Bone",
         "url": "https://open.spotify.com/album/04rij6WooSg0tyBU7rw8Cz"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 170920,
       "name": "Good Morning John",
       "url": "https://open.spotify.com/track/6FCZfUsAc9khfsEiFQ9MSG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Austin Sessions",
+        "url": "https://open.spotify.com/album/32A8UJ6MXprzzhpLA9J2hA"
+      },
+      "artists": [
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 209066,
+      "name": "Who's to Bless and Who's to Blame",
+      "url": "https://open.spotify.com/track/3iHeBDBH9aObEBPZWL7HFN"
     },
     {
       "added_at": null,
@@ -1183,6 +1183,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Closer to the Bone",
+        "url": "https://open.spotify.com/album/04rij6WooSg0tyBU7rw8Cz"
+      },
+      "artists": [
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 212306,
+      "name": "From Here to Forever",
+      "url": "https://open.spotify.com/track/2yPUVAm73P5lU5S904nDsP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Highwayman 2",
         "url": "https://open.spotify.com/album/7ftmg3XnQcA0bzbWolYzOn"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 177638,
       "name": "Songs That Make a Difference",
       "url": "https://open.spotify.com/track/7pcpTlDSjqceuUHWqFiMLf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Closer to the Bone",
-        "url": "https://open.spotify.com/album/04rij6WooSg0tyBU7rw8Cz"
-      },
-      "artists": [
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 212306,
-      "name": "From Here to Forever",
-      "url": "https://open.spotify.com/track/2yPUVAm73P5lU5S904nDsP"
     },
     {
       "added_at": null,
@@ -1379,8 +1379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Breakaway",
-        "url": "https://open.spotify.com/album/5E2qk8NPadk7IY7yXiOXtB"
+        "name": "Natural Act",
+        "url": "https://open.spotify.com/album/2IvMbmUbKiExapaqMn3EWc"
       },
       "artists": [
         {
@@ -1392,9 +1392,9 @@
           "url": "https://open.spotify.com/artist/1vnIL4DMlivP55ioM6KitW"
         }
       ],
-      "duration_ms": 190960,
-      "name": "I'd Rather Be Sorry",
-      "url": "https://open.spotify.com/track/09jOL3zPV1bHBEA7wlQJa2"
+      "duration_ms": 249520,
+      "name": "Loving You Was Easier",
+      "url": "https://open.spotify.com/track/13cL4LLa5jGliVReET6GRJ"
     }
   ],
   "unique_name": "This Is Kris Kristofferson",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-29",
-  "description": "<a href=spotify:playlist:37i9dQZF1EIUVhDkMc6n10>Kanye West</a>, <a href=spotify:playlist:37i9dQZF1EIX6JB3qtkBJY>Dominic Fike</a>, <a href=spotify:playlist:37i9dQZF1EIZFSv8zffo2I>Arctic Monkeys</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIVSVBvHzTcKt>Tame Impala</a>, <a href=spotify:playlist:37i9dQZF1EIYHlfEDwnhiL>Frank Ocean</a>, <a href=spotify:playlist:37i9dQZF1EIXwkdkoDV3G5>J. Cole</a> and more",
   "name": "Chill Mix",
   "tracks": [
     {
@@ -4660,7 +4660,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-17",
+      "date_removed": null,
       "duration_ms": 205308,
       "name": "Dracula",
       "url": "https://open.spotify.com/track/1NXbNEAcPvY5G1xvfN57aA"
@@ -4866,7 +4866,7 @@
       ],
       "date_added": "2025-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-01",
+      "date_removed": null,
       "duration_ms": 151500,
       "name": "Earrings",
       "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ"
@@ -5467,6 +5467,32 @@
     },
     {
       "album": {
+        "name": "Remember Me?",
+        "url": "https://open.spotify.com/album/6zhucaGBTNY1OdGkiZzNz2"
+      },
+      "artists": [
+        {
+          "name": "Kaneee",
+          "url": "https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09"
+        },
+        {
+          "name": "STUTS",
+          "url": "https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d"
+        },
+        {
+          "name": "Yo-Sea",
+          "url": "https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198097,
+      "name": "Feel Missing",
+      "url": "https://open.spotify.com/track/6FtSuG6TbvD3u5wydy7I2d"
+    },
+    {
+      "album": {
         "name": "Feel This Way",
         "url": "https://open.spotify.com/album/1PuFhcKSZmJQlaBPVf8CIb"
       },
@@ -5692,7 +5718,7 @@
       ],
       "date_added": "2025-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 237506,
       "name": "Flashing Lights",
       "url": "https://open.spotify.com/track/5TRPicyLGbAF2LGBFbHGvO"
@@ -11792,7 +11818,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-25",
+      "date_removed": null,
       "duration_ms": 292799,
       "name": "No Role Modelz",
       "url": "https://open.spotify.com/track/68Dni7IE4VyPkTOH9mRWHr"
@@ -15316,7 +15342,7 @@
       ],
       "date_added": "2026-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-04",
+      "date_removed": null,
       "duration_ms": 229200,
       "name": "Soul",
       "url": "https://open.spotify.com/track/11UD9IOlsEbK4fUURUziTj"
@@ -16046,7 +16072,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 161774,
       "name": "SUNSET (feat. IO & Yo-Sea)",
       "url": "https://open.spotify.com/track/5XAasKwKOjFVG7BUkOagLc"
@@ -19136,7 +19162,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 144101,
       "name": "White Keys",
       "url": "https://open.spotify.com/track/5ViLKrbyL3HD6wsq3AB9eI"
@@ -19262,7 +19288,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 161123,
       "name": "Why'd You Only Call Me When You're High?",
       "url": "https://open.spotify.com/track/086myS9r57YsLbJpU0TgK9"
@@ -19432,7 +19458,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-03",
+      "date_removed": null,
       "duration_ms": 215323,
       "name": "Wonder Wall feat. 5lack",
       "url": "https://open.spotify.com/track/02d5vi1oeKdFz66cN98DBb"
@@ -19468,7 +19494,7 @@
       ],
       "date_added": "2026-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 224786,
       "name": "Wonderland",
       "url": "https://open.spotify.com/track/3DMz5XiVasCKSHXgYrSc9i"
@@ -19920,7 +19946,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 217037,
       "name": "\u3059\u304d\u306b\u3084\u308b",
       "url": "https://open.spotify.com/track/1zLe4IUbEVDYa1UudvdT9G"
@@ -20143,6 +20169,24 @@
     },
     {
       "album": {
+        "name": "2016-2020",
+        "url": "https://open.spotify.com/album/72PtcfQ3lKg1ztP4e6qYii"
+      },
+      "artists": [
+        {
+          "name": "iri",
+          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271880,
+      "name": "\u4f1a\u3044\u305f\u3044\u308f",
+      "url": "https://open.spotify.com/track/7nLAfMQtlDHII3wczJH9C2"
+    },
+    {
+      "album": {
         "name": "HELP EVER HURT NEVER",
         "url": "https://open.spotify.com/album/03QiFOKDh6xMiSTkOnsmMG"
       },
@@ -20176,7 +20220,7 @@
       ],
       "date_added": "2026-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 294026,
       "name": "\u591c\u3092\u4f7f\u3044\u306f\u305f\u3057\u3066 feat. PUNPEE",
       "url": "https://open.spotify.com/track/5UxtXZBNTO1EDBVZH4I9Mf"

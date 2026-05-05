@@ -1,6 +1,6 @@
 {
   "description": "Life sucks...i need some rock!",
-  "num_followers": 302584,
+  "num_followers": 302582,
   "original_name": "Anger Management",
   "owner": {
     "name": "Spotify",
@@ -111,6 +111,22 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
+        "name": "Come Clean",
+        "url": "https://open.spotify.com/album/4oWz3E9jTrBe9sVkiX2sJ5"
+      },
+      "artists": [
+        {
+          "name": "Puddle Of Mudd",
+          "url": "https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5"
+        }
+      ],
+      "duration_ms": 230066,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/575Sz3R4xOhueUstPObylF"
+    },
+    {
+      "added_at": "2024-12-03 09:27:47",
+      "album": {
         "name": "Tickets To My Downfall",
         "url": "https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK"
       },
@@ -127,22 +143,6 @@
       "duration_ms": 171620,
       "name": "forget me too (feat. Halsey)",
       "url": "https://open.spotify.com/track/1VSuFS7PahCN3SWbOcQ98m"
-    },
-    {
-      "added_at": "2024-12-03 09:27:47",
-      "album": {
-        "name": "Come Clean",
-        "url": "https://open.spotify.com/album/4oWz3E9jTrBe9sVkiX2sJ5"
-      },
-      "artists": [
-        {
-          "name": "Puddle Of Mudd",
-          "url": "https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5"
-        }
-      ],
-      "duration_ms": 230066,
-      "name": "Control",
-      "url": "https://open.spotify.com/track/575Sz3R4xOhueUstPObylF"
     },
     {
       "added_at": "2024-12-03 09:27:47",
@@ -371,22 +371,6 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
-        "name": "Without You I'm Nothing",
-        "url": "https://open.spotify.com/album/4wxoPjHSYFYurNyKaEiZNT"
-      },
-      "artists": [
-        {
-          "name": "Placebo",
-          "url": "https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB"
-        }
-      ],
-      "duration_ms": 254760,
-      "name": "Pure Morning",
-      "url": "https://open.spotify.com/track/32F0zqsDgqpIEYApk2b8sr"
-    },
-    {
-      "added_at": "2024-12-03 09:27:47",
-      "album": {
         "name": "Endgame",
         "url": "https://open.spotify.com/album/2Gq0ERke26yxdGuRvrqFTD"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 237480,
       "name": "Help Is On The Way",
       "url": "https://open.spotify.com/track/09jPXOz0LS0kpqmkQRaFPO"
+    },
+    {
+      "added_at": "2024-12-03 09:27:47",
+      "album": {
+        "name": "Without You I'm Nothing",
+        "url": "https://open.spotify.com/album/4wxoPjHSYFYurNyKaEiZNT"
+      },
+      "artists": [
+        {
+          "name": "Placebo",
+          "url": "https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB"
+        }
+      ],
+      "duration_ms": 254760,
+      "name": "Pure Morning",
+      "url": "https://open.spotify.com/track/32F0zqsDgqpIEYApk2b8sr"
     },
     {
       "added_at": "2024-12-03 09:27:47",
@@ -907,22 +907,6 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
-        "name": "The Lonely Position Of Neutral",
-        "url": "https://open.spotify.com/album/2fjLRxrWTlE20dPbICrNnh"
-      },
-      "artists": [
-        {
-          "name": "TRUSTcompany",
-          "url": "https://open.spotify.com/artist/21ALJSG7U07dShegeJQ2xA"
-        }
-      ],
-      "duration_ms": 208266,
-      "name": "Falling Apart",
-      "url": "https://open.spotify.com/track/1oFe7QvpwY3xZVyABI2TXP"
-    },
-    {
-      "added_at": "2024-12-03 09:27:47",
-      "album": {
         "name": "But Here We Are",
         "url": "https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 283469,
       "name": "But Here We Are",
       "url": "https://open.spotify.com/track/5s18NymFEHOtiUMfVr6E3H"
+    },
+    {
+      "added_at": "2024-12-03 09:27:47",
+      "album": {
+        "name": "The Lonely Position Of Neutral",
+        "url": "https://open.spotify.com/album/2fjLRxrWTlE20dPbICrNnh"
+      },
+      "artists": [
+        {
+          "name": "TRUSTcompany",
+          "url": "https://open.spotify.com/artist/21ALJSG7U07dShegeJQ2xA"
+        }
+      ],
+      "duration_ms": 208266,
+      "name": "Falling Apart",
+      "url": "https://open.spotify.com/track/1oFe7QvpwY3xZVyABI2TXP"
     },
     {
       "added_at": "2024-12-03 09:27:47",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
-        "name": "What Does Your Soul Look Like",
-        "url": "https://open.spotify.com/album/6SMBc0IPPwSrlqx9meQOeV"
-      },
-      "artists": [
-        {
-          "name": "Wayside",
-          "url": "https://open.spotify.com/artist/30dxyV2Ax6tiLYdaIFmm2x"
-        }
-      ],
-      "duration_ms": 204499,
-      "name": "Parallax Error",
-      "url": "https://open.spotify.com/track/361VLQqrej2KgPNvjK344Q"
-    },
-    {
-      "added_at": "2024-12-03 09:27:47",
-      "album": {
         "name": "Once In A Lifetime",
         "url": "https://open.spotify.com/album/4IV3UUGKbd9bZeRZlZDNJd"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 258648,
       "name": "Rescued",
       "url": "https://open.spotify.com/track/6mgzUNNr3NY6NbTzNzwYq9"
+    },
+    {
+      "added_at": "2024-12-03 09:27:47",
+      "album": {
+        "name": "What Does Your Soul Look Like",
+        "url": "https://open.spotify.com/album/6SMBc0IPPwSrlqx9meQOeV"
+      },
+      "artists": [
+        {
+          "name": "Wayside",
+          "url": "https://open.spotify.com/artist/30dxyV2Ax6tiLYdaIFmm2x"
+        }
+      ],
+      "duration_ms": 204499,
+      "name": "Parallax Error",
+      "url": "https://open.spotify.com/track/361VLQqrej2KgPNvjK344Q"
     },
     {
       "added_at": "2024-12-03 09:27:47",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
-        "name": "Ours Is Chrome",
-        "url": "https://open.spotify.com/album/2D2fnA0gaDp5ITUIvsHCmE"
-      },
-      "artists": [
-        {
-          "name": "Superheaven",
-          "url": "https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc"
-        }
-      ],
-      "duration_ms": 244358,
-      "name": "Next To Nothing",
-      "url": "https://open.spotify.com/track/4kyCTcAbtt78Q2LC5ASSED"
-    },
-    {
-      "added_at": "2024-12-03 09:27:47",
-      "album": {
         "name": "Typhoons",
         "url": "https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 261511,
       "name": "Love Dies Young",
       "url": "https://open.spotify.com/track/5suO1J3cXSVWJ7ED3kasKQ"
+    },
+    {
+      "added_at": "2024-12-03 09:27:47",
+      "album": {
+        "name": "Ours Is Chrome",
+        "url": "https://open.spotify.com/album/2D2fnA0gaDp5ITUIvsHCmE"
+      },
+      "artists": [
+        {
+          "name": "Superheaven",
+          "url": "https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc"
+        }
+      ],
+      "duration_ms": 244358,
+      "name": "Next To Nothing",
+      "url": "https://open.spotify.com/track/4kyCTcAbtt78Q2LC5ASSED"
     },
     {
       "added_at": "2024-12-03 09:27:47",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
-        "name": "Moral Panic (The Complete Edition)",
-        "url": "https://open.spotify.com/album/3hDxbjNyiWDhOFBXSThxVF"
-      },
-      "artists": [
-        {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
-        }
-      ],
-      "duration_ms": 180575,
-      "name": "Ce n'est Rien",
-      "url": "https://open.spotify.com/track/6KeX6s6Q2FzInw2qvnqyOh"
-    },
-    {
-      "added_at": "2024-12-03 09:27:47",
-      "album": {
         "name": "Year Of The Snake",
         "url": "https://open.spotify.com/album/0zWHPn6Hlv1JSLMnarvVLE"
       },
@@ -1371,18 +1355,18 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
-        "name": "Money (Hope Ain\u2019t Gone)",
-        "url": "https://open.spotify.com/album/5S7XyZNwnnskgC2tFnm4dA"
+        "name": "Moral Panic (The Complete Edition)",
+        "url": "https://open.spotify.com/album/3hDxbjNyiWDhOFBXSThxVF"
       },
       "artists": [
         {
-          "name": "STONE",
-          "url": "https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H"
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
         }
       ],
-      "duration_ms": 246139,
-      "name": "Money (Hope Ain\u2019t Gone)",
-      "url": "https://open.spotify.com/track/2gZBIM1qpCq5XlO0X3tjIs"
+      "duration_ms": 180575,
+      "name": "Ce n'est Rien",
+      "url": "https://open.spotify.com/track/6KeX6s6Q2FzInw2qvnqyOh"
     },
     {
       "added_at": "2024-12-03 09:27:47",
@@ -1403,18 +1387,18 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
-        "name": "30 Seconds To Mars",
-        "url": "https://open.spotify.com/album/5zUm6nApm20NjtX913O6Nz"
+        "name": "Money (Hope Ain\u2019t Gone)",
+        "url": "https://open.spotify.com/album/5S7XyZNwnnskgC2tFnm4dA"
       },
       "artists": [
         {
-          "name": "Thirty Seconds To Mars",
-          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
+          "name": "STONE",
+          "url": "https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H"
         }
       ],
-      "duration_ms": 345133,
-      "name": "Buddha For Mary",
-      "url": "https://open.spotify.com/track/0PBW0dslhDROHvWlkYxKLq"
+      "duration_ms": 246139,
+      "name": "Money (Hope Ain\u2019t Gone)",
+      "url": "https://open.spotify.com/track/2gZBIM1qpCq5XlO0X3tjIs"
     },
     {
       "added_at": "2024-12-03 09:27:47",
@@ -1431,6 +1415,22 @@
       "duration_ms": 250213,
       "name": "Let You Down",
       "url": "https://open.spotify.com/track/2UcXM8xEP95IYz7rguHSnA"
+    },
+    {
+      "added_at": "2024-12-03 09:27:47",
+      "album": {
+        "name": "30 Seconds To Mars",
+        "url": "https://open.spotify.com/album/5zUm6nApm20NjtX913O6Nz"
+      },
+      "artists": [
+        {
+          "name": "Thirty Seconds To Mars",
+          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
+        }
+      ],
+      "duration_ms": 345133,
+      "name": "Buddha For Mary",
+      "url": "https://open.spotify.com/track/0PBW0dslhDROHvWlkYxKLq"
     },
     {
       "added_at": "2024-12-03 09:27:47",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
-        "name": "Sunday / Medicine",
-        "url": "https://open.spotify.com/album/3vVBTMmnaRBkJacdaY1sl1"
-      },
-      "artists": [
-        {
-          "name": "Narrow Head",
-          "url": "https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu"
-        }
-      ],
-      "duration_ms": 256466,
-      "name": "Medicine",
-      "url": "https://open.spotify.com/track/0J2Xun0cRXE37bEzL9JQHB"
-    },
-    {
-      "added_at": "2024-12-03 09:27:47",
-      "album": {
         "name": "JOY",
         "url": "https://open.spotify.com/album/2a4MBOEXbXtV8UbrweOkDG"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 226898,
       "name": "JOY",
       "url": "https://open.spotify.com/track/1th9pHQFEu9scMGLQ6JIUX"
+    },
+    {
+      "added_at": "2024-12-03 09:27:47",
+      "album": {
+        "name": "Sunday / Medicine",
+        "url": "https://open.spotify.com/album/3vVBTMmnaRBkJacdaY1sl1"
+      },
+      "artists": [
+        {
+          "name": "Narrow Head",
+          "url": "https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu"
+        }
+      ],
+      "duration_ms": 256466,
+      "name": "Medicine",
+      "url": "https://open.spotify.com/track/0J2Xun0cRXE37bEzL9JQHB"
     },
     {
       "added_at": "2024-12-03 09:27:47",

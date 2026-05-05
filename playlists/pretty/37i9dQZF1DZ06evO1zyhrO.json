@@ -1,12 +1,12 @@
 {
   "description": "This is Craig David. The essential tracks, all in one playlist.",
-  "num_followers": 104255,
+  "num_followers": 104259,
   "original_name": "This Is Craig David",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afU+gAAAAAAm+uRhLXTufL23eoT1e04y",
+  "snapshot_id": "afaQAAAAAADp1lZArlMP+o36AMdZNzN8",
   "tracks": [
     {
       "added_at": null,
@@ -931,8 +931,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rain",
-        "url": "https://open.spotify.com/album/6effz36583EebaQcS3ZOrM"
+        "name": "Following My Intuition (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0Vop2iSyeir0QntOrgamFN"
       },
       "artists": [
         {
@@ -940,9 +940,9 @@
           "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
         }
       ],
-      "duration_ms": 214884,
-      "name": "Rain",
-      "url": "https://open.spotify.com/track/7kY1WABmdU172DhChtsdAP"
+      "duration_ms": 181480,
+      "name": "Couldn't Be Mine",
+      "url": "https://open.spotify.com/track/4BUYYtxQYG8eoHPieyc9Tx"
     },
     {
       "added_at": null,
@@ -967,8 +967,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Following My Intuition (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0Vop2iSyeir0QntOrgamFN"
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/6effz36583EebaQcS3ZOrM"
       },
       "artists": [
         {
@@ -976,9 +976,9 @@
           "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
         }
       ],
-      "duration_ms": 181480,
-      "name": "Couldn't Be Mine",
-      "url": "https://open.spotify.com/track/4BUYYtxQYG8eoHPieyc9Tx"
+      "duration_ms": 214884,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/7kY1WABmdU172DhChtsdAP"
     }
   ],
   "unique_name": "This Is Craig David",

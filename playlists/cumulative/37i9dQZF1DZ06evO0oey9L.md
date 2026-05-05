@@ -4,7 +4,7 @@
 
 > This is El de La Guitarra\. The essential tracks, all in one playlist.
 
-125 songs - 6 hr 10 min
+126 songs - 6 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [De La Escuelita Graduado](https://open.spotify.com/track/7t78b9kNHPzECSZ0wyzTc3) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [De La Escuelita Graduado](https://open.spotify.com/album/5WCODFEvrpKj4Aifd1Fxnp) | 2:43 | 2025-11-10 |  |
 | [Derecha La Flecha](https://open.spotify.com/track/6Qei0rSgoDr6jjsvbZ0sCp) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Derecha La Flecha](https://open.spotify.com/album/1xiSb0JPOxGd1JnOejlAVY) | 2:58 | 2026-04-20 |  |
 | [Diamantes De Esfera](https://open.spotify.com/track/2G7lzDzR0Bz3x7LoD3r27I) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda \(Vol.4\)](https://open.spotify.com/album/3xOwDpuBJiCY7nxJEDQR71) | 2:00 | 2023-10-05 | 2025-11-18 |
-| [Dime x Que](https://open.spotify.com/track/67SiSGW15EcJe8muSJUNzU) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Dime x Que](https://open.spotify.com/album/6ucVQoyr47QMbtc963azmg) | 2:53 | 2025-07-06 |  |
+| [Dime x Que](https://open.spotify.com/track/67SiSGW15EcJe8muSJUNzU) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Dime x Que](https://open.spotify.com/album/6ucVQoyr47QMbtc963azmg) | 2:53 | 2025-07-06 | 2026-05-05 |
 | [El 7](https://open.spotify.com/track/2CSB2buyBO4fRRNepjHRq5) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [El 7](https://open.spotify.com/album/2f9SmGJPGVkdQmq4hbS7rd) | 3:45 | 2024-01-29 | 2024-10-07 |
 | [EL CH](https://open.spotify.com/track/1435eaau7EznWMUd1Kr1Kd) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [EL CH](https://open.spotify.com/album/0tL2W3AxUGbAOtZHP48VBs) | 2:33 | 2025-10-06 |  |
 | [El Chava](https://open.spotify.com/track/5Tr6YTRAFfsnFd2k36DAh5) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda Vol.2](https://open.spotify.com/album/4lPJVD5JmytPu0jnJAU7PS) | 2:21 | 2022-07-28 | 2022-07-30 |
@@ -57,6 +57,7 @@
 | [El Roque](https://open.spotify.com/track/6WxSL4jaPaxEa1mm7p2uMd) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Instinto](https://open.spotify.com/album/7KlLuBZiwOzCTL7Q3J26cq) | 2:44 | 2022-07-25 | 2022-07-31 |
 | [En La Bola \(feat\. El De La Guitarra\)](https://open.spotify.com/track/1MKSWLFVyxgdLKE8YUby50) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Pura Lumbre](https://open.spotify.com/album/5kyGKlaPLJ3SQB8KfZCcbz) | 2:50 | 2022-06-01 |  |
 | [Estilo Militar](https://open.spotify.com/track/5YzIk26HIxTcchwGwWQ5p9) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk), [Los De La Villa](https://open.spotify.com/artist/4k0T7XGZDSFv5fnAnZUNHl) | [Estilo Militar](https://open.spotify.com/album/5e51uEalSKB8Rb6PChOkCQ) | 2:55 | 2023-04-04 | 2024-01-30 |
+| [Fin De Semana](https://open.spotify.com/track/4N5Qpos9bnbTFOXHBHANJQ) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Fin De Semana](https://open.spotify.com/album/1GBuuYtkHBUXxY2j1XrLff) | 3:00 | 2026-05-05 |  |
 | [Fino El Porteson](https://open.spotify.com/track/0Kkw5A0E9THKHiZwpqY78h) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Instinto](https://open.spotify.com/album/7KlLuBZiwOzCTL7Q3J26cq) | 2:27 | 2022-07-23 | 2022-08-11 |
 | [Fino El Porteson](https://open.spotify.com/track/6QqbWrnaAFOKI9jv0nbAkf) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Instinto](https://open.spotify.com/album/47wc9jfJLLeaWQUPzKVFk1) | 2:27 | 2022-08-10 | 2025-12-26 |
 | [Gabbana Es El Porte](https://open.spotify.com/track/4KSo7rlreDnU5TuilX7vLi) | [Ismael CM](https://open.spotify.com/artist/3HU9m7qsanEKWC9kwxWsRR), [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Gabbana Es El Porte](https://open.spotify.com/album/3BJkR82p0ArgHkjaZLyAld) | 2:31 | 2023-07-15 | 2025-10-25 |

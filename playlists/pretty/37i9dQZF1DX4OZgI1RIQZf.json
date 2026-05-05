@@ -1,6 +1,6 @@
 {
   "description": "The best indie songs from all decades for your Halloween party",
-  "num_followers": 141862,
+  "num_followers": 141850,
   "original_name": "Indie Halloween",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2026-04-24 13:27:34",
       "album": {
-        "name": "Call Me The Witch",
-        "url": "https://open.spotify.com/album/0yfHcJzLqipWIvB8KPHTnz"
-      },
-      "artists": [
-        {
-          "name": "l\u00f9isa",
-          "url": "https://open.spotify.com/artist/0we7IYHF0G5i1j934KBxUa"
-        }
-      ],
-      "duration_ms": 186151,
-      "name": "Call Me The Witch",
-      "url": "https://open.spotify.com/track/3xQG9PIAhv20rO1tusH380"
-    },
-    {
-      "added_at": "2026-04-24 13:27:34",
-      "album": {
         "name": "Friendly Fires",
         "url": "https://open.spotify.com/album/2IYQugcYGspBIJRz67Ppft"
       },
@@ -603,6 +587,22 @@
     {
       "added_at": "2026-04-24 13:27:34",
       "album": {
+        "name": "Call Me The Witch",
+        "url": "https://open.spotify.com/album/0yfHcJzLqipWIvB8KPHTnz"
+      },
+      "artists": [
+        {
+          "name": "l\u00f9isa",
+          "url": "https://open.spotify.com/artist/0we7IYHF0G5i1j934KBxUa"
+        }
+      ],
+      "duration_ms": 186151,
+      "name": "Call Me The Witch",
+      "url": "https://open.spotify.com/track/3xQG9PIAhv20rO1tusH380"
+    },
+    {
+      "added_at": "2026-04-24 13:27:34",
+      "album": {
         "name": "Mellon Collie And The Infinite Sadness (Deluxe Edition)",
         "url": "https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV"
       },
@@ -619,22 +619,6 @@
     {
       "added_at": "2026-04-24 13:27:34",
       "album": {
-        "name": "Beat the Devil's Tattoo (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5hqmEMXO32v9e8mjWljKkP"
-      },
-      "artists": [
-        {
-          "name": "Black Rebel Motorcycle Club",
-          "url": "https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G"
-        }
-      ],
-      "duration_ms": 232786,
-      "name": "River Styx",
-      "url": "https://open.spotify.com/track/6F9KW2QPgUH7GNxVWku4Nu"
-    },
-    {
-      "added_at": "2026-04-24 13:27:34",
-      "album": {
         "name": "Dead Man's Bones",
         "url": "https://open.spotify.com/album/4xGTfawtEfy5f2yGYtRqlr"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 180186,
       "name": "Dead Man's Bones",
       "url": "https://open.spotify.com/track/6vLgqz7K77h0kRraU31R5x"
+    },
+    {
+      "added_at": "2026-04-24 13:27:34",
+      "album": {
+        "name": "Beat the Devil's Tattoo (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5hqmEMXO32v9e8mjWljKkP"
+      },
+      "artists": [
+        {
+          "name": "Black Rebel Motorcycle Club",
+          "url": "https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G"
+        }
+      ],
+      "duration_ms": 232786,
+      "name": "River Styx",
+      "url": "https://open.spotify.com/track/6F9KW2QPgUH7GNxVWku4Nu"
     },
     {
       "added_at": "2026-04-24 13:27:34",
@@ -763,26 +763,6 @@
     {
       "added_at": "2026-04-24 13:27:34",
       "album": {
-        "name": "I See A Darkness",
-        "url": "https://open.spotify.com/album/1EtJZ2zWwSqYHRh3l1btZA"
-      },
-      "artists": [
-        {
-          "name": "Anna Calvi",
-          "url": "https://open.spotify.com/artist/50sSN9E5i4DJzYDclAXlSo"
-        },
-        {
-          "name": "Perfume Genius",
-          "url": "https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn"
-        }
-      ],
-      "duration_ms": 265346,
-      "name": "I See A Darkness",
-      "url": "https://open.spotify.com/track/6WXWmDC0ltuc1NPD3ZTx2B"
-    },
-    {
-      "added_at": "2026-04-24 13:27:34",
-      "album": {
         "name": "Introducing The Sonics",
         "url": "https://open.spotify.com/album/2EmUijeHFyILSHUC2kzxXv"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 307400,
       "name": "Skeleton Song",
       "url": "https://open.spotify.com/track/6r2PtKqXYf0MfAG74uLvsL"
+    },
+    {
+      "added_at": "2026-04-24 13:27:34",
+      "album": {
+        "name": "I See A Darkness",
+        "url": "https://open.spotify.com/album/1EtJZ2zWwSqYHRh3l1btZA"
+      },
+      "artists": [
+        {
+          "name": "Anna Calvi",
+          "url": "https://open.spotify.com/artist/50sSN9E5i4DJzYDclAXlSo"
+        },
+        {
+          "name": "Perfume Genius",
+          "url": "https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn"
+        }
+      ],
+      "duration_ms": 265346,
+      "name": "I See A Darkness",
+      "url": "https://open.spotify.com/track/6WXWmDC0ltuc1NPD3ZTx2B"
     },
     {
       "added_at": "2026-04-24 13:27:34",
@@ -1159,18 +1159,18 @@
     {
       "added_at": "2026-04-24 13:27:34",
       "album": {
-        "name": "Final Girl",
-        "url": "https://open.spotify.com/album/0iuT0lgZ7hzwIENcggBOj4"
+        "name": "Nancy Nightmare",
+        "url": "https://open.spotify.com/album/7bjgFaOouB7zLsHH2d5mb2"
       },
       "artists": [
         {
-          "name": "Lazygirl",
-          "url": "https://open.spotify.com/artist/1YV0K79qt0uLTxtGflXTH9"
+          "name": "David Boring",
+          "url": "https://open.spotify.com/artist/3jlBKVMzOyLuwLWxkkiwKj"
         }
       ],
-      "duration_ms": 154960,
-      "name": "Final Girl",
-      "url": "https://open.spotify.com/track/3fok9plswB5ajvSFNZYQX1"
+      "duration_ms": 302000,
+      "name": "Nancy Nightmare",
+      "url": "https://open.spotify.com/track/56pbBTkY6PAokTBZy84znF"
     },
     {
       "added_at": "2026-04-24 13:27:34",
@@ -1191,18 +1191,18 @@
     {
       "added_at": "2026-04-24 13:27:34",
       "album": {
-        "name": "Nancy Nightmare",
-        "url": "https://open.spotify.com/album/7bjgFaOouB7zLsHH2d5mb2"
+        "name": "Final Girl",
+        "url": "https://open.spotify.com/album/0iuT0lgZ7hzwIENcggBOj4"
       },
       "artists": [
         {
-          "name": "David Boring",
-          "url": "https://open.spotify.com/artist/3jlBKVMzOyLuwLWxkkiwKj"
+          "name": "Lazygirl",
+          "url": "https://open.spotify.com/artist/1YV0K79qt0uLTxtGflXTH9"
         }
       ],
-      "duration_ms": 302000,
-      "name": "Nancy Nightmare",
-      "url": "https://open.spotify.com/track/56pbBTkY6PAokTBZy84znF"
+      "duration_ms": 154960,
+      "name": "Final Girl",
+      "url": "https://open.spotify.com/track/3fok9plswB5ajvSFNZYQX1"
     },
     {
       "added_at": "2026-04-24 13:27:34",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2026-04-24 13:27:34",
       "album": {
-        "name": "A Weekend In the City",
-        "url": "https://open.spotify.com/album/3OiE2agv6jj4K0vh6wOh7y"
-      },
-      "artists": [
-        {
-          "name": "Bloc Party",
-          "url": "https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ"
-        }
-      ],
-      "duration_ms": 211493,
-      "name": "Hunting for Witches",
-      "url": "https://open.spotify.com/track/0ZXCTJS5QaNQcYK4PgTvYl"
-    },
-    {
-      "added_at": "2026-04-24 13:27:34",
-      "album": {
         "name": "To Lose My Life ...",
         "url": "https://open.spotify.com/album/1ySdrRPZa9ZRvlcUoGv8UE"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 191040,
       "name": "To Lose My Life",
       "url": "https://open.spotify.com/track/2hUHm19fmQnJ40LZXqjhZt"
+    },
+    {
+      "added_at": "2026-04-24 13:27:34",
+      "album": {
+        "name": "A Weekend In the City",
+        "url": "https://open.spotify.com/album/3OiE2agv6jj4K0vh6wOh7y"
+      },
+      "artists": [
+        {
+          "name": "Bloc Party",
+          "url": "https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ"
+        }
+      ],
+      "duration_ms": 211493,
+      "name": "Hunting for Witches",
+      "url": "https://open.spotify.com/track/0ZXCTJS5QaNQcYK4PgTvYl"
     },
     {
       "added_at": "2026-04-24 13:27:34",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2026-04-24 13:27:34",
       "album": {
-        "name": "Blood Red Moon",
-        "url": "https://open.spotify.com/album/3clEQCPrQ7MAfW3vUasGpj"
-      },
-      "artists": [
-        {
-          "name": "The Hives",
-          "url": "https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt"
-        }
-      ],
-      "duration_ms": 271546,
-      "name": "Blood Red Moon",
-      "url": "https://open.spotify.com/track/6PlzmahLfw9VTRARbIdGT7"
-    },
-    {
-      "added_at": "2026-04-24 13:27:34",
-      "album": {
         "name": "Carry On The Grudge",
         "url": "https://open.spotify.com/album/3dvHXz1aCtrPvvpIMDJFfs"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 246186,
       "name": "Zombie",
       "url": "https://open.spotify.com/track/5tbZBnWJAw72ZRjmMsrh0D"
+    },
+    {
+      "added_at": "2026-04-24 13:27:34",
+      "album": {
+        "name": "Blood Red Moon",
+        "url": "https://open.spotify.com/album/3clEQCPrQ7MAfW3vUasGpj"
+      },
+      "artists": [
+        {
+          "name": "The Hives",
+          "url": "https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt"
+        }
+      ],
+      "duration_ms": 271546,
+      "name": "Blood Red Moon",
+      "url": "https://open.spotify.com/track/6PlzmahLfw9VTRARbIdGT7"
     },
     {
       "added_at": "2026-04-24 13:27:34",

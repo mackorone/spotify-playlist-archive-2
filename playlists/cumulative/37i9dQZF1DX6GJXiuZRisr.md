@@ -4,7 +4,7 @@
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-681 songs - 1 day 22 hr 42 min
+682 songs - 1 day 22 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -247,6 +247,7 @@
 | [Heartbeat](https://open.spotify.com/track/6autWijbEdpktfTNI5fkx5) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Heartbeat](https://open.spotify.com/album/0mZhESlUF6AQ9aUAer6LI1) | 3:01 | 2024-05-17 | 2024-08-07 |
 | [Heartbreak](https://open.spotify.com/track/5HopfU98O15r6TiQorUxSD) | [Jack Wins](https://open.spotify.com/artist/5v8ZROs9c26k4yGMxUkebt), [SHELLS](https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN) | [Heartbreak](https://open.spotify.com/album/5bcLZ1o7ub4dgrVhaQBlDG) | 2:50 | 2022-08-19 | 2022-11-20 |
 | [Heaven Knows](https://open.spotify.com/track/3TnVOV85DaxEMP02xWbQfH) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Heaven Knows](https://open.spotify.com/album/5k8cHlDuk2szbc6VlPaL5L) | 3:53 | 2024-11-22 |  |
+| [Help I'm Alive \- BYNX Rework](https://open.spotify.com/track/6cc4X3CBJhdPbARRbyaJkP) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl), [BYNX](https://open.spotify.com/artist/2HDr90mJP3k5gaCkPIKdEn) | [Help I'm Alive \(BYNX Rework\)](https://open.spotify.com/album/4JlaaaXai3SkY4aOzGyz1f) | 2:49 | 2026-05-01 |  |
 | [Hero](https://open.spotify.com/track/5XAQO5MN3T7Z5ecAAql0JV) | [Estiva](https://open.spotify.com/artist/1ltDgA6tV4utKM6y1BOYIE), [Dezza](https://open.spotify.com/artist/3p7y4jD6cIfONGyx6xaFik) | [Spectacle](https://open.spotify.com/album/6TABqazLHONbP5kyTWIFW1) | 3:13 | 2021-05-07 | 2023-03-29 |
 | [Hey Boy Hey Girl \- ARTBAT Remix](https://open.spotify.com/track/6ncIQAyVDdHePrHc8HxIjv) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo), [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1) | [Hey Boy Hey Girl \(ARTBAT Remix\)](https://open.spotify.com/album/5iPUTw7ZqnL3X53FdUVWmz) | 3:12 | 2024-05-24 | 2026-03-21 |
 | [Hide and Seek \- Le Youth Remix](https://open.spotify.com/track/6uSLLJJ5r936DO1SASSViy) | [Catie Turner](https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa), [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx) | [Hide and Seek \(Le Youth Remix\)](https://open.spotify.com/album/0scTzt9c9pgTQJM5jPthaO) | 3:51 | 2021-05-07 | 2023-11-18 |
@@ -677,7 +678,7 @@
 | [Womaa](https://open.spotify.com/track/5JFrgSCrW4aSeYKSK9MyyC) | [Spencer Brown](https://open.spotify.com/artist/4L9PX6lwPWo2NeuXL9kyJK), [Wilt Claybourne](https://open.spotify.com/artist/0r7cF3rN56BbPaJVYIXMz9) | [Womaa](https://open.spotify.com/album/63709yULZc1XOJXhPeudYZ) | 6:51 | 2021-05-07 | 2022-07-29 |
 | [Worlds Apart](https://open.spotify.com/track/6TZvMl21P031RvQhFkEyUq) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco) | [Worlds Apart](https://open.spotify.com/album/3Z28rtxKPfOrkbspjCg7IN) | 3:39 | 2023-12-08 | 2024-10-12 |
 | [Worlds Apart](https://open.spotify.com/track/3mtiGwAl0rFEaxTuA8EEd8) | [Guy J](https://open.spotify.com/artist/7Em4kWZ5atMYknHwSkp3gD) | [Worlds Apart / Surreal](https://open.spotify.com/album/7ENofwwhQGA7OWxGr4hMUc) | 8:31 | 2025-10-10 |  |
-| [You](https://open.spotify.com/track/6srHm0yHwDO6bALuR253JJ) | [Cosmic Gate](https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS) | [You](https://open.spotify.com/album/411WDzcQy7CVDVt1UYUiPj) | 3:33 | 2025-10-17 |  |
+| [You](https://open.spotify.com/track/6srHm0yHwDO6bALuR253JJ) | [Cosmic Gate](https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS) | [You](https://open.spotify.com/album/411WDzcQy7CVDVt1UYUiPj) | 3:33 | 2025-10-17 | 2026-05-05 |
 | [You](https://open.spotify.com/track/7eydI7R5mMKl0H6FqlS9hi) | [Jesabel](https://open.spotify.com/artist/1hbXMN5DALO8IblEjSJw2I) | [You](https://open.spotify.com/album/2II2V6aLtisPP0G2JicKEl) | 3:26 | 2024-08-09 | 2024-10-26 |
 | [You Can't Stop Me](https://open.spotify.com/track/5PsoWaIrI0S398z8pTy7BW) | [Ferry Corsten](https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP) | [You Can't Stop Me](https://open.spotify.com/album/59IhytiO3MDX4ogjV22Zcf) | 3:09 | 2022-08-19 | 2022-09-12 |
 | [You Take My Hand](https://open.spotify.com/track/4Lq4TjaQWTNmo5viydoLLa) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Jamie Irrepressible](https://open.spotify.com/artist/1kq2ZvBA7AX9mdZTk9SkpU) | [You Take My Hand](https://open.spotify.com/album/3meERbSehneA03lgl071Io) | 5:15 | 2021-11-26 | 2024-04-13 |

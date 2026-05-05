@@ -4,7 +4,7 @@
 
 > From the trenches\. Through the streets.<br/>Cover: Asake
 
-469 songs - 21 hr 27 min
+470 songs - 21 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Ara \(600M\)](https://open.spotify.com/track/7oHYgZelWF1QOTCtR75rnj) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [ARA](https://open.spotify.com/album/7fluxAs5HSUVmyChevBl2W) | 3:05 | 2026-04-24 |  |
 | [Ara \(Gen Gen Tin\)](https://open.spotify.com/track/1j9I9JrUTXNblSWazCq9CU) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Ara \(Gen Gen Tin\)](https://open.spotify.com/album/4ysDR8PYoFO4R6rNMOYSSO) | 2:26 | 2023-03-10 | 2024-04-22 |
 | [Are you there?](https://open.spotify.com/track/10y7iW3rc8bzGbhAC3mNPA) | [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [MAFFIAN](https://open.spotify.com/album/34MCeC9R3RzTxf3vzEJmWi) | 2:36 | 2024-08-25 |  |
-| [ASAP](https://open.spotify.com/track/6FZlSfQrD9aoB4SSnoAzWk) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Shakespopi](https://open.spotify.com/album/3DLGqqI7dfoKvk9EIpwpm4) | 2:40 | 2024-04-12 | 2026-05-02 |
+| [ASAP](https://open.spotify.com/track/6FZlSfQrD9aoB4SSnoAzWk) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Shakespopi](https://open.spotify.com/album/3DLGqqI7dfoKvk9EIpwpm4) | 2:40 | 2024-04-12 |  |
 | [Ashewo Boy](https://open.spotify.com/track/3VwRxqjO4kvpaiBefwzZ1S) | [Ayox](https://open.spotify.com/artist/1lxw1eewbvAVmEwJrYUDEx), [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Last Son of a Widow](https://open.spotify.com/album/5ggCK28dJNwpH58dNI8BFr) | 2:26 | 2023-10-20 | 2023-12-15 |
 | [Ask About Me](https://open.spotify.com/track/7E86nXdcmISA9vBH0Egx7O) | [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [Ask About Me](https://open.spotify.com/album/6u0gaySWdi8suKJ8WE91Z9) | 2:55 | 2023-04-14 | 2024-06-22 |
 | [Astalavista](https://open.spotify.com/track/3kKZsfJfTLHQOraQWL1KYE) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Astalavista](https://open.spotify.com/album/43SgoLOqhyoefGdGy1lxb8) | 2:51 | 2022-11-25 | 2024-06-13 |
@@ -247,7 +247,7 @@
 | [Juju Pro](https://open.spotify.com/track/0N7DEvhWW02wnppAzxNhF5) | [PRA](https://open.spotify.com/artist/6iQXgvrjqZRVmKjDljaePY), [Smur Lee](https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A) | [Juju Pro](https://open.spotify.com/album/1j7jtuErCBXVBpY0WyHDBx) | 2:53 | 2025-08-15 | 2025-09-05 |
 | [JUNGLE](https://open.spotify.com/track/6hp8DmDElPmM53iOP5ZMq9) | [Ayox](https://open.spotify.com/artist/1lxw1eewbvAVmEwJrYUDEx) | [JUNGLE](https://open.spotify.com/album/6mGPEzv6LoeyV9u2hiyty4) | 2:40 | 2024-11-07 |  |
 | [Jungle](https://open.spotify.com/track/4sDJ96gu68rfMzlDNLh5M5) | [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP) | [Jungle](https://open.spotify.com/album/5aVMinMjVyCFBRAAIlfXNS) | 2:35 | 2025-11-21 | 2026-01-15 |
-| [Kaizen's Intro](https://open.spotify.com/track/05wzOC5B76dXhpT2z9xgKO) | [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [Kaizen](https://open.spotify.com/album/7oxgkgER8SwORZr7Yejlmu) | 2:54 | 2025-11-07 |  |
+| [Kaizen's Intro](https://open.spotify.com/track/05wzOC5B76dXhpT2z9xgKO) | [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [Kaizen](https://open.spotify.com/album/7oxgkgER8SwORZr7Yejlmu) | 2:54 | 2025-11-07 | 2026-05-05 |
 | [Kan Ye \(with Minz\)](https://open.spotify.com/track/1Sy0TOykPMdoVFivlhpsb3) | [10Ten](https://open.spotify.com/artist/7urO0i2T8Ta9E9xAuOD1d6), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [Kan Ye \(with Minz\)](https://open.spotify.com/album/3BobEjjYPHa1ct0bCGC30N) | 2:08 | 2025-10-10 | 2025-11-07 |
 | [KELEBU](https://open.spotify.com/track/6aoKNOL481xVNuqeayQjPj) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [KELEBU](https://open.spotify.com/album/0dTlxJzKKFaUdPoW7aIQIa) | 2:52 | 2025-08-01 | 2026-01-15 |
 | [Kelegbe](https://open.spotify.com/track/0cyG4z70VsqPCjC61v1Oz7) | [21 Payne](https://open.spotify.com/artist/3emxEA3Ja0Ul61lHUIDwuE), [Hotkeed](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj) | [Kelegbe](https://open.spotify.com/album/5kUKkIrrkJ43rhmDkEP3UW) | 3:00 | 2024-09-13 | 2024-09-20 |
@@ -293,8 +293,9 @@
 | [Mara pass Mara Beat](https://open.spotify.com/track/2nfq8lunsGzwURhFN8OpX7) | [Dj khalipha](https://open.spotify.com/artist/26l8B7ThPgYc7a1rZbdStB) | [Mara pass Mara Beat](https://open.spotify.com/album/62ZqjZDrqpIWVnuPiOszJW) | 5:15 | 2023-04-20 | 2023-10-29 |
 | [Mara pass Mara Beat](https://open.spotify.com/track/7LoImJ4ayDQjr9IMAW8N9L) | [Dj khalipha](https://open.spotify.com/artist/26l8B7ThPgYc7a1rZbdStB) | [Mara pass Mara Beat](https://open.spotify.com/album/7Ci2ggn7o9HEunUEwzAxPu) | 5:15 | 2023-04-14 | 2023-04-22 |
 | [MARIO KART](https://open.spotify.com/track/52ZxqHSe1HesJPwuuBiW4U) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Children of Africa](https://open.spotify.com/album/6oattTuSkHpcHFeOqyhjKF) | 2:51 | 2025-03-14 | 2026-01-15 |
+| [MCBH](https://open.spotify.com/track/36PS8XCemqmPvigIL8S40B) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [M$NEY](https://open.spotify.com/album/07iqzVICrgPFOpXem6MEpU) | 2:50 | 2026-05-01 |  |
 | [Mental](https://open.spotify.com/track/5j7OST3AEbe2N3nmMZflWg) | [Bad Boy Timz](https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS) | [No Bad Boy, No Party](https://open.spotify.com/album/3haflscpuVSkTXo1yw3ghT) | 3:06 | 2023-06-22 | 2023-06-27 |
-| [Metaverse](https://open.spotify.com/track/0WeU5EfNFu1wmlmCdMNDEJ) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Ikigai / 生き甲斐, Vol\. 1](https://open.spotify.com/album/4L4439Ev3pC3bRZdmKUCgI) | 2:59 | 2024-06-28 |  |
+| [Metaverse](https://open.spotify.com/track/0WeU5EfNFu1wmlmCdMNDEJ) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Ikigai / 生き甲斐, Vol\. 1](https://open.spotify.com/album/4L4439Ev3pC3bRZdmKUCgI) | 2:59 | 2024-06-28 | 2026-05-05 |
 | [Metro](https://open.spotify.com/track/3ncCdwV4rnFY9YNzsh4KGo) | [Hotkid](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj), [Yo X](https://open.spotify.com/artist/5Dv0JAo4jUBcrG1rHzCzcV) | [Metro](https://open.spotify.com/album/3SIBRVHyi8IkfXig7nFhiq) | 2:10 | 2024-01-05 | 2024-04-26 |
 | [Mofe](https://open.spotify.com/track/1w8lSGDuMUgRh7rygMp7VB) | [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9) | [Mofe](https://open.spotify.com/album/6Pshl1rktRcEVRGlPO9BrB) | 3:05 | 2026-03-06 |  |
 | [Money Moves](https://open.spotify.com/track/4otA4JHWkokv4qAj1Pp2U5) | [Fido](https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74) | [Money Moves](https://open.spotify.com/album/2WmYykdXI1SCFrkglLVTPX) | 2:43 | 2025-05-23 | 2026-02-21 |

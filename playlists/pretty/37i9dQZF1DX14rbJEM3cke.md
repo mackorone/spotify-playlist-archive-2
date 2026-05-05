@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rbJEM3cke.md) - [plain]
 
 > New Rock & Alt driving the current\. Cover: Master Peace
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,938 likes - 88 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,941 likes - 88 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rbJEM3cke.md) - [plain]
 | 87 | [NORTHERN LIGHTS//](https://open.spotify.com/track/3sC1NBKIjCtkR7tIOzdFSj) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [NORTHERN LIGHTS//](https://open.spotify.com/album/3bZ8pVQSBpeGqJjMC5bB43) | 4:40 |
 | 88 | [Wake Up](https://open.spotify.com/track/4QFR6iukDHNOQEUpzO9iZ2) | [Backxwash](https://open.spotify.com/artist/4du3q8TIzsZxZZKdRT23Jg) | [Only Dust Remains](https://open.spotify.com/album/0fqGVBHxLeXu5sm20DgQWs) | 7:08 |
 
-Snapshot ID: `AAAAAFS7qr+ZVAPOs4mZoN7YM/OTBZrk`
+Snapshot ID: `AAAAAGkAXHTgU0pbteyWvhV9IoGrcxH+`

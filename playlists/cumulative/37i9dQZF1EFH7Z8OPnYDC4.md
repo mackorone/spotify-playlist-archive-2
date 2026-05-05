@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1pTbqkP3uq7DV5ytFGYR8N">Richard Rodgers \(of Rodgers & Hammerstein\)</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-435 songs - 1 day 2 hr 10 min
+436 songs - 1 day 2 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -291,6 +291,7 @@
 | [Rings Around Rabaul](https://open.spotify.com/track/5JLkyHNTMuL6oPWwY0LU3f) | [Robert Russell Bennett](https://open.spotify.com/artist/52SryVadriXLIyUJx3pU9Q) | [Victory At Sea, Vol\. 3](https://open.spotify.com/album/6LXxzBOThAxE9FfhL3Fq4g) | 6:26 | 2024-07-26 |  |
 | [Rings Around Rabaul \- 1992 Remastered](https://open.spotify.com/track/6Nm0Zzr6CNPykTXKjoz8MO) | [Robert Russell Bennett](https://open.spotify.com/artist/52SryVadriXLIyUJx3pU9Q), [Richard Rodgers](https://open.spotify.com/artist/4IbAZwt75dpehMOgcC3GnP) | [More Victory At Sea](https://open.spotify.com/album/6hla3dU1TefIfcAJpIC3MY) | 6:06 | 2024-07-26 |  |
 | [Rodgers: Suite From "The Valiant Years"](https://open.spotify.com/track/1CL0bPf6dr7fUqrvu3fiUb) | [Richard Rodgers](https://open.spotify.com/artist/4IbAZwt75dpehMOgcC3GnP), [Erich Kunzel](https://open.spotify.com/artist/6a9IGvEOlro1FRZmeEH48Z), [Cincinnati Pops Orchestra](https://open.spotify.com/artist/1FV3sKugQJFGWgWpMIA2Fy) | [Selections From Victory At Sea, War And Remembrance & Other Favorites](https://open.spotify.com/album/7nt38HuGwWM9BgEc7qCzdq) | 4:38 | 2024-07-26 |  |
+| [Saturday \- Dimitri from Paris Remix](https://open.spotify.com/track/4BkvWpbjarlOMSzaJHJsTY) | [Norma Jean Wright](https://open.spotify.com/artist/2Tq4xKjGkoZyAzdklz74oM) | [Saturday](https://open.spotify.com/album/6Nnzx8ibbSpz3zJcdE47qq) | 9:47 | 2026-05-04 |  |
 | [Sentimental Me \- 1991 Remastered](https://open.spotify.com/track/60thv0ckjCnMZ3w62HQg6B) | [Glenn Miller](https://open.spotify.com/artist/2aAHdB5HweT3mFcRzm0swc) | [Legendary Performer](https://open.spotify.com/album/0axJx1eOS6W0FbM5QT0R9a) | 2:30 | 2024-07-26 |  |
 | [Shall I Tell You What I Think Of You](https://open.spotify.com/track/260zXOAiMXBR5annwDYRZS) | [Kelli O'Hara](https://open.spotify.com/artist/7p8IggUKyVuZy23HxdiNY9), [Ted Sperling](https://open.spotify.com/artist/52V4Y04hrgiMi9uTaaTnl2), [Orchestra](https://open.spotify.com/artist/21ND47q78JLAfDR1qpKQmj) | [The King And I \(The 2015 Broadway Cast Recording\)](https://open.spotify.com/album/3fAq8Hfg4VH1Ce2jVilkBB) | 4:40 | 2024-07-26 |  |
 | [Shall We Dance'](https://open.spotify.com/track/1Slx4INt9vGDrF1VD0SwXN) | [Yul Brynner, Marni Nixon & Deborah Kerr](https://open.spotify.com/artist/1R6DiplUJF4EUJ1hXvifVb) | [The King and I \(original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Wi3PgLve618qnUr3v6n7a) | 4:23 | 2024-07-26 | 2026-02-20 |

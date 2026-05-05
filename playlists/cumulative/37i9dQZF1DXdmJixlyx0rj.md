@@ -2,9 +2,9 @@
 
 ### [Electronii\[K\]](https://open.spotify.com/playlist/37i9dQZF1DXdmJixlyx0rj)
 
-> New & best K\-Electronic music is here\. \(Cover: Yves\)
+> New & best K\-Electronic music is here\. \(Cover: xiihu\)
 
-298 songs - 16 hr 46 min
+299 songs - 16 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,7 @@
 | [FOREVER 1 \- Mar Vista Remix](https://open.spotify.com/track/34Y5PQPsFdjTGspPKIFSom) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c), [Mar Vista](https://open.spotify.com/artist/52jyvbzmj80qTr2NEWhczo) | [iScreaM Vol.19 : FOREVER 1 Remixes](https://open.spotify.com/album/4DXE5rt8VQUZHmKIG57AYu) | 3:17 | 2024-04-05 | 2024-06-29 |
 | [FOREVER 1 \- Matisse & Sadko Remix](https://open.spotify.com/track/5dJ6HlXlZw4MvIkH9293M5) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c), [Matisse & Sadko](https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88) | [iScreaM Vol.19 : FOREVER 1 Remixes](https://open.spotify.com/album/4DXE5rt8VQUZHmKIG57AYu) | 3:33 | 2024-04-05 |  |
 | [Forever Only \- SHINDRUM Remix](https://open.spotify.com/track/2J21A2R7x9HTzTPz44Ct6I) | [JAEHYUN](https://open.spotify.com/artist/0qQI2kmsvSe2ex9k94T5vu), [SHINDRUM](https://open.spotify.com/artist/0Zvh7pzTiN04XiiDAOzHjB) | [iScreaM Vol.20 : Forever Only Remix](https://open.spotify.com/album/0qGWYp3eoGi3NK27XhwF6i) | 3:22 | 2024-04-05 | 2024-06-29 |
-| [FYA](https://open.spotify.com/track/0KmrKOdScRDVYwWS8hkkdv) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h) | 3:00 | 2026-03-23 |  |
+| [FYA](https://open.spotify.com/track/0KmrKOdScRDVYwWS8hkkdv) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h) | 3:00 | 2026-03-23 | 2026-05-05 |
 | [Gatha](https://open.spotify.com/track/7r8NrNn8ttKczTCqnGSgcV) | [XXOK](https://open.spotify.com/artist/4mNaf6h2zBKJvFsTATvB5E) | [Seoul 01 : Part Yin](https://open.spotify.com/album/4tu8rN61IRW23NRl6ZkGtq) | 5:41 | 2025-07-22 | 2025-07-30 |
 | [Get A Guitar \(English Version\) \- Chromeo Remix](https://open.spotify.com/track/5iOn6Blh3DVovnLQRWGWM4) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [iScreaM Vol\. 28: Get A Guitar Remixes](https://open.spotify.com/album/49AQvxM6i13Zwjm4o3PyHo) | 2:47 | 2024-04-05 | 2024-06-29 |
 | [Get A Guitar \- Chromeo Remix](https://open.spotify.com/track/2unK3dXVGcy4BpJu3gFY9g) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [iScreaM Vol\. 28: Get A Guitar Remixes](https://open.spotify.com/album/49AQvxM6i13Zwjm4o3PyHo) | 2:47 | 2024-04-05 | 2024-06-29 |
@@ -228,6 +228,7 @@
 | [Raingurl](https://open.spotify.com/track/4XXfQ8fBHMIgcygY4hV6RC) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [EP2](https://open.spotify.com/album/6zB32HTy4cewV8V7TuHzKJ) | 3:57 | 2024-04-05 |  |
 | [Re: searchlight](https://open.spotify.com/track/7u7mFTVWBbWcAc3NQzOmgq) | [Aiobahn](https://open.spotify.com/artist/3AMFQZ3Tt549kShRG2IBYT), [yanaginagi](https://open.spotify.com/artist/15MlyDyZofFYpLb5MrLKVo) | [Re: searchlight](https://open.spotify.com/album/4OgPOKPx8KrrwDRrLImBgQ) | 5:10 | 2024-06-28 |  |
 | [Red Flavor \- Mar Vista Remix](https://open.spotify.com/track/5yQEgFSwf12O3n5flJjcgX) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM), [MAR VISTA](https://open.spotify.com/artist/52jyvbzmj80qTr2NEWhczo) | [iScreaM Vol.25 : Red Flavor Remix](https://open.spotify.com/album/10M8ccltzArj4gzfYQu9hn) | 3:36 | 2024-04-05 |  |
+| [Residue](https://open.spotify.com/track/6uOgK7b93PDAdofUK1fomL) | [xiihu](https://open.spotify.com/artist/1VkBOxWu1Zt1mdsd7Ex1u1) | [Residue](https://open.spotify.com/album/04qz3xZdam9aGpU4kkfl6k) | 2:37 | 2026-05-04 |  |
 | [Rich Man \- Yellow Claw Remix](https://open.spotify.com/track/3cs4cGO4EgZDATiKgoAqpO) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh) | [Rich Man \(Remixes\)](https://open.spotify.com/album/6XoOzE5Ie7Z6CjVANGB4Mk) | 3:10 | 2025-09-22 |  |
 | [Ridin' \- IMLAY Remix](https://open.spotify.com/track/2oQmOWx2DCkYm8uKuk5iVG) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02), [IMLAY](https://open.spotify.com/artist/4b7ZEkk5uXPlwX2IPuV7Q2) | [iScreaM Vol.2 : Ridin' Remixes](https://open.spotify.com/album/2hgdXJ0nks91XuWstwLwuN) | 3:34 | 2024-04-05 | 2024-06-29 |
 | [Ridin' \- Will Not Fear Remix](https://open.spotify.com/track/4SzTxy50i4bNdqT8FFYWBp) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02), [Will Not Fear](https://open.spotify.com/artist/3zQf6Ogadb67LzdBTHaZ0N) | [iScreaM Vol.2 : Ridin' Remixes](https://open.spotify.com/album/2hgdXJ0nks91XuWstwLwuN) | 3:00 | 2024-04-05 | 2025-09-23 |

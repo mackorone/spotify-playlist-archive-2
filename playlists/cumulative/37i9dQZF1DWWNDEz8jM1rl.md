@@ -4,7 +4,7 @@
 
 > ¡Vamos a bailar con Dios!
 
-237 songs - 13 hr 47 min
+238 songs - 13 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,6 +178,7 @@
 | [Party Love](https://open.spotify.com/track/7adbOWjIdUJC6oBFSfVO1h) | [Kev Miranda](https://open.spotify.com/artist/5mAsjDDm81xwtAbB6TrWVR), [DOMINICO GONZALEZ](https://open.spotify.com/artist/72zhW2gZnxEz4jKsutwSLw), [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Party Love](https://open.spotify.com/album/4L66sciwtXBjMMNgVwlqXy) | 3:16 | 2020-09-18 | 2023-10-28 |
 | [Pasa La Pagina](https://open.spotify.com/track/4uEjtzySgNys9SE5zsjnYC) | [Triple Seven](https://open.spotify.com/artist/7cOcEjYXnkleFMc5J8ypBN) | [The Comeback](https://open.spotify.com/album/6QHrG7LHkxHllhPJWPoler) | 2:57 | 2025-12-12 |  |
 | [Paz En La Tormenta](https://open.spotify.com/track/0vEQ3fQREP0tIObiMfuScP) | [Ander](https://open.spotify.com/artist/5twxq8MG0kp3dWPN1UKMCm) | [30 Bachatas Cristianas Pegaditas](https://open.spotify.com/album/7kK9agRpkwjNHsiCVE4hKt) | 3:45 | 2020-09-18 | 2024-07-05 |
+| [Pa’ Colombia](https://open.spotify.com/track/2V3EI83Xwl4R9cTuisRbBN) | [R Nova](https://open.spotify.com/artist/7rXuCCgw2Intfg2EJdQypx) | [Pa’ Colombia](https://open.spotify.com/album/7CLGj0KlC6vypzSUc7FXpw) | 1:35 | 2026-04-25 |  |
 | [Pentagrama](https://open.spotify.com/track/1DofNh9ulHsQkybB81XMPj) | [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd) | [DTOX](https://open.spotify.com/album/3Pe3gBLsaciO2Oae7Q5pw1) | 3:17 | 2024-08-23 | 2024-09-07 |
 | [Perfecto Amor](https://open.spotify.com/track/0jBbeVhkryAwD2APDFLF7v) | [Tommy Royale](https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs), [CRYS](https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI) | [Ya Casi \(EP\)](https://open.spotify.com/album/5D37Ew73jCOQzlLdMznYrb) | 3:30 | 2024-12-11 |  |
 | [Pero Tengo a Cristo \- Remix](https://open.spotify.com/track/5nGxRkdnZIUmXg5Dkvv39C) | [R Nova](https://open.spotify.com/artist/7rXuCCgw2Intfg2EJdQypx), [El Philippe](https://open.spotify.com/artist/3COYG9FFfTZQEB5B58Ufi1), [Ander Bock](https://open.spotify.com/artist/3ARwD7QJqYlDmcFeB6oPQM), [Arasay](https://open.spotify.com/artist/4M2hXmjCgSssWbolWLGFE4) | [Pero Tengo a Cristo \(Remix\)](https://open.spotify.com/album/2KueafqItELNjYDLcojc9I) | 3:41 | 2024-12-11 |  |
@@ -225,7 +226,7 @@
 | [Todo Se Lo Debo a El](https://open.spotify.com/track/3954VWv51e6kVHKAupQj2m) | [Ezequiel Colón](https://open.spotify.com/artist/44V8q3JGpAcyDho7d3dPvJ) | [Sólo Éxitos Tropicales](https://open.spotify.com/album/3WcAFQZcY6hVCbO4CiKNPH) | 4:32 | 2020-09-18 | 2024-04-19 |
 | [Todo Te Lo Debo a Tí](https://open.spotify.com/track/3efRYKgebXZjbuVGJHuiAa) | [Benji Rosales](https://open.spotify.com/artist/7lPKCFrwz7pGGHFturn8b7) | [Todo Te Lo Debo a Tí](https://open.spotify.com/album/7EDpwwypsWlh2bxP64SOq6) | 2:49 | 2024-07-05 | 2026-03-24 |
 | [Tu Eres \(feat\. Andrea Dominguez\)](https://open.spotify.com/track/5hYZyaj6vaEwP5tEjsKBSA) | [Mikey A](https://open.spotify.com/artist/1l6CSnpOO3rlki99yADeks), [Andrea Dominguez](https://open.spotify.com/artist/25YZT94TGT0kKiLaTybU3O) | [Por Amor](https://open.spotify.com/album/3e2VFF2ZVNODx11mQGCdAy) | 3:39 | 2020-09-18 | 2025-03-29 |
-| [Tu Eres Mi Alegría](https://open.spotify.com/track/3hKH4XhqFAFWaPz8ZSkcyg) | [Nitro X](https://open.spotify.com/artist/10L8JkR6O9qlT7tZHMjnqW), [Kaelyn Reese](https://open.spotify.com/artist/0ZkULBMxdmXuVGzA0xSOnl), [TTIMO](https://open.spotify.com/artist/6uQtVt05v9t3SmaYZlgaG9) | [Tu Eres Mi Alegría](https://open.spotify.com/album/0RoX4wyu0X44BsiILlt41z) | 3:28 | 2026-03-23 |  |
+| [Tu Eres Mi Alegría](https://open.spotify.com/track/3hKH4XhqFAFWaPz8ZSkcyg) | [Nitro X](https://open.spotify.com/artist/10L8JkR6O9qlT7tZHMjnqW), [Kaelyn Reese](https://open.spotify.com/artist/0ZkULBMxdmXuVGzA0xSOnl), [TTIMO](https://open.spotify.com/artist/6uQtVt05v9t3SmaYZlgaG9) | [Tu Eres Mi Alegría](https://open.spotify.com/album/0RoX4wyu0X44BsiILlt41z) | 3:28 | 2026-03-23 | 2026-05-05 |
 | [Tu Luz](https://open.spotify.com/track/4lEtb16YCHqT3NTxuZ1rzk) | [Odanis BSK](https://open.spotify.com/artist/2equ79Fk9Rj9vmQsuJpIJ9) | [Tu Luz](https://open.spotify.com/album/0L3vH9q7z4R1c7LaVs9bDC) | 2:49 | 2025-09-14 |  |
 | [TUS PASOS](https://open.spotify.com/track/3rDbU0WH0slihpeuBYVy6Z) | [ANMILY](https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT) | [TUS PASOS](https://open.spotify.com/album/4OFv2OF8dY1e6jDr0Ivh2p) | 2:40 | 2025-12-12 |  |
 | [Un adorador](https://open.spotify.com/track/2KqBbw9NKRbxcqI1i9Mcho) | [Nicold Frias](https://open.spotify.com/artist/2mWMcOU54bpKuJySMu6nGv) | [Los Éxitos De Marcos Witt En Bachata](https://open.spotify.com/album/4LbSSVP1c7BU0O8KXOi6WW) | 4:19 | 2020-09-18 | 2025-03-29 |

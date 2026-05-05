@@ -1,6 +1,6 @@
 {
   "description": "Jazzy love songs. Cover: Lady Gaga & Tony Bennett",
-  "num_followers": 1297539,
+  "num_followers": 1297549,
   "original_name": "Jazzy Romance",
   "owner": {
     "name": "Spotify",
@@ -443,22 +443,6 @@
     {
       "added_at": "2026-04-24 08:23:24",
       "album": {
-        "name": "I've Got You Under My Skin",
-        "url": "https://open.spotify.com/album/4ygkbddQCe8tUTaaRdpppP"
-      },
-      "artists": [
-        {
-          "name": "Matt Dusk",
-          "url": "https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs"
-        }
-      ],
-      "duration_ms": 209848,
-      "name": "I've Got You Under My Skin",
-      "url": "https://open.spotify.com/track/0YtdBOitNPB7oYgLvm2z8g"
-    },
-    {
-      "added_at": "2026-04-24 08:23:24",
-      "album": {
         "name": "Sings The Rodgers & Hart Songbook",
         "url": "https://open.spotify.com/album/7Jqbp0XnGbsBjpPPcwSzcN"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 299213,
       "name": "A Time For Love",
       "url": "https://open.spotify.com/track/6kkYQ0DI1ZMQyuqNGCcZ09"
+    },
+    {
+      "added_at": "2026-04-24 08:23:24",
+      "album": {
+        "name": "I've Got You Under My Skin",
+        "url": "https://open.spotify.com/album/4ygkbddQCe8tUTaaRdpppP"
+      },
+      "artists": [
+        {
+          "name": "Matt Dusk",
+          "url": "https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs"
+        }
+      ],
+      "duration_ms": 209848,
+      "name": "I've Got You Under My Skin",
+      "url": "https://open.spotify.com/track/0YtdBOitNPB7oYgLvm2z8g"
     },
     {
       "added_at": "2026-04-24 08:23:24",
@@ -531,18 +531,22 @@
     {
       "added_at": "2026-04-24 08:23:24",
       "album": {
-        "name": "The Nearness Of You",
-        "url": "https://open.spotify.com/album/1aKnLcluIO8BHNQwp99PPR"
+        "name": "Partners (Deluxe)",
+        "url": "https://open.spotify.com/album/0vpZmvUH5x2ByXTYtXB4mG"
       },
       "artists": [
         {
-          "name": "Matt Dusk",
-          "url": "https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs"
+          "name": "Barbra Streisand",
+          "url": "https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6"
+        },
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
         }
       ],
-      "duration_ms": 135421,
-      "name": "The Nearness Of You",
-      "url": "https://open.spotify.com/track/4QAhBQW8Jhe6BlIYiLqkSz"
+      "duration_ms": 251530,
+      "name": "Come Rain or Come Shine (with John Mayer)",
+      "url": "https://open.spotify.com/track/0eqjKiAEZgLSbwTMqyZI1c"
     },
     {
       "added_at": "2026-04-24 08:23:24",
@@ -563,22 +567,18 @@
     {
       "added_at": "2026-04-24 08:23:24",
       "album": {
-        "name": "Partners (Deluxe)",
-        "url": "https://open.spotify.com/album/0vpZmvUH5x2ByXTYtXB4mG"
+        "name": "The Nearness Of You",
+        "url": "https://open.spotify.com/album/1aKnLcluIO8BHNQwp99PPR"
       },
       "artists": [
         {
-          "name": "Barbra Streisand",
-          "url": "https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6"
-        },
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+          "name": "Matt Dusk",
+          "url": "https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs"
         }
       ],
-      "duration_ms": 251530,
-      "name": "Come Rain or Come Shine (with John Mayer)",
-      "url": "https://open.spotify.com/track/0eqjKiAEZgLSbwTMqyZI1c"
+      "duration_ms": 135421,
+      "name": "The Nearness Of You",
+      "url": "https://open.spotify.com/track/4QAhBQW8Jhe6BlIYiLqkSz"
     },
     {
       "added_at": "2026-04-24 08:23:24",
@@ -615,22 +615,6 @@
       "duration_ms": 278901,
       "name": "All The Things You Are",
       "url": "https://open.spotify.com/track/7dW9KIZvcQJnjQb3vy5Q6i"
-    },
-    {
-      "added_at": "2026-04-24 08:23:24",
-      "album": {
-        "name": "Move On: A Sondheim Adventure",
-        "url": "https://open.spotify.com/album/21rqFgEooG35NUhxxwOqTs"
-      },
-      "artists": [
-        {
-          "name": "Cyrille Aimee",
-          "url": "https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM"
-        }
-      ],
-      "duration_ms": 171949,
-      "name": "Loving You",
-      "url": "https://open.spotify.com/track/226aNk2hiOlW3joJHIvSVe"
     },
     {
       "added_at": "2026-04-24 08:23:24",
@@ -683,6 +667,22 @@
     {
       "added_at": "2026-04-24 08:23:24",
       "album": {
+        "name": "Move On: A Sondheim Adventure",
+        "url": "https://open.spotify.com/album/21rqFgEooG35NUhxxwOqTs"
+      },
+      "artists": [
+        {
+          "name": "Cyrille Aimee",
+          "url": "https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM"
+        }
+      ],
+      "duration_ms": 171949,
+      "name": "Loving You",
+      "url": "https://open.spotify.com/track/226aNk2hiOlW3joJHIvSVe"
+    },
+    {
+      "added_at": "2026-04-24 08:23:24",
+      "album": {
         "name": "An Evening with/ Andy James & John Patitucci",
         "url": "https://open.spotify.com/album/3wmErkWqIMYJiQhplNUPhl"
       },
@@ -715,22 +715,6 @@
     {
       "added_at": "2026-04-24 08:23:24",
       "album": {
-        "name": "True Love: A Celebration Of Cole Porter",
-        "url": "https://open.spotify.com/album/0irC2WRtxeSoJ33XpeDwyR"
-      },
-      "artists": [
-        {
-          "name": "Harry Connick, Jr.",
-          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
-        }
-      ],
-      "duration_ms": 209040,
-      "name": "Mind If I Make Love To You",
-      "url": "https://open.spotify.com/track/40DjEEXkrujfsOjeOwwis0"
-    },
-    {
-      "added_at": "2026-04-24 08:23:24",
-      "album": {
         "name": "For One to Love",
         "url": "https://open.spotify.com/album/7HPMR4vGuzd6vnGS4H3ppu"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 121039,
       "name": "Monday",
       "url": "https://open.spotify.com/track/4FYmHTavxSVFUPyM2GUpPb"
+    },
+    {
+      "added_at": "2026-04-24 08:23:24",
+      "album": {
+        "name": "True Love: A Celebration Of Cole Porter",
+        "url": "https://open.spotify.com/album/0irC2WRtxeSoJ33XpeDwyR"
+      },
+      "artists": [
+        {
+          "name": "Harry Connick, Jr.",
+          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
+        }
+      ],
+      "duration_ms": 209040,
+      "name": "Mind If I Make Love To You",
+      "url": "https://open.spotify.com/track/40DjEEXkrujfsOjeOwwis0"
     },
     {
       "added_at": "2026-04-24 08:23:24",
@@ -787,26 +787,6 @@
     {
       "added_at": "2026-04-24 08:23:24",
       "album": {
-        "name": "Our Love Is Here to Stay",
-        "url": "https://open.spotify.com/album/6VCxDrD0Cms6BZqdVDrpnK"
-      },
-      "artists": [
-        {
-          "name": "Brandon Sanders",
-          "url": "https://open.spotify.com/artist/1CWtiXjdoNR8ipBPdsxXQD"
-        },
-        {
-          "name": "Jazzmeia Horn",
-          "url": "https://open.spotify.com/artist/3sRX2AuJCF5rblkGm2wMSM"
-        }
-      ],
-      "duration_ms": 381733,
-      "name": "Our Love Is Here to Stay",
-      "url": "https://open.spotify.com/track/3WhovG1qE9Vi60bbm6ot9r"
-    },
-    {
-      "added_at": "2026-04-24 08:23:24",
-      "album": {
         "name": "Stop Searching for Love (feat. Kate Ceberano)",
         "url": "https://open.spotify.com/album/6s063r0rmt7nFgsyobzQvr"
       },
@@ -823,6 +803,26 @@
       "duration_ms": 306960,
       "name": "Stop Searching for Love (feat. Kate Ceberano)",
       "url": "https://open.spotify.com/track/7yi1OPcs7d2nfIQVPYAkky"
+    },
+    {
+      "added_at": "2026-04-24 08:23:24",
+      "album": {
+        "name": "Our Love Is Here to Stay",
+        "url": "https://open.spotify.com/album/6VCxDrD0Cms6BZqdVDrpnK"
+      },
+      "artists": [
+        {
+          "name": "Brandon Sanders",
+          "url": "https://open.spotify.com/artist/1CWtiXjdoNR8ipBPdsxXQD"
+        },
+        {
+          "name": "Jazzmeia Horn",
+          "url": "https://open.spotify.com/artist/3sRX2AuJCF5rblkGm2wMSM"
+        }
+      ],
+      "duration_ms": 381733,
+      "name": "Our Love Is Here to Stay",
+      "url": "https://open.spotify.com/track/3WhovG1qE9Vi60bbm6ot9r"
     },
     {
       "added_at": "2026-04-24 08:23:24",
@@ -1023,26 +1023,6 @@
     {
       "added_at": "2026-04-24 08:23:24",
       "album": {
-        "name": "Wild Is Love",
-        "url": "https://open.spotify.com/album/1KaPoOODukFswUMyjlK2ec"
-      },
-      "artists": [
-        {
-          "name": "Naama",
-          "url": "https://open.spotify.com/artist/1m4JqvlkZXqZxFZjWaY1jg"
-        },
-        {
-          "name": "Peter Bernstein",
-          "url": "https://open.spotify.com/artist/5vCIoZWrnWUkjCKmtaADQc"
-        }
-      ],
-      "duration_ms": 222533,
-      "name": "Wild Is Love",
-      "url": "https://open.spotify.com/track/1DKnLQHPxHB7bMgewS3JSk"
-    },
-    {
-      "added_at": "2026-04-24 08:23:24",
-      "album": {
         "name": "Waiting For Dawn",
         "url": "https://open.spotify.com/album/7BPR07qyqeuxBo715ON7Jd"
       },
@@ -1067,6 +1047,26 @@
       "duration_ms": 347493,
       "name": "Hours Of Ours",
       "url": "https://open.spotify.com/track/3noDxclU0hTMOCZJJu6vi6"
+    },
+    {
+      "added_at": "2026-04-24 08:23:24",
+      "album": {
+        "name": "Wild Is Love",
+        "url": "https://open.spotify.com/album/1KaPoOODukFswUMyjlK2ec"
+      },
+      "artists": [
+        {
+          "name": "Naama",
+          "url": "https://open.spotify.com/artist/1m4JqvlkZXqZxFZjWaY1jg"
+        },
+        {
+          "name": "Peter Bernstein",
+          "url": "https://open.spotify.com/artist/5vCIoZWrnWUkjCKmtaADQc"
+        }
+      ],
+      "duration_ms": 222533,
+      "name": "Wild Is Love",
+      "url": "https://open.spotify.com/track/1DKnLQHPxHB7bMgewS3JSk"
     },
     {
       "added_at": "2026-04-24 08:23:24",
@@ -1139,18 +1139,34 @@
     {
       "added_at": "2026-04-24 08:23:24",
       "album": {
-        "name": "Reflections of a Voice",
-        "url": "https://open.spotify.com/album/7nGWElWBanIzLOX3S6jeQH"
+        "name": "The Richard Rodgers Songbook",
+        "url": "https://open.spotify.com/album/2nsWi2RA4XDmgOuuMKW87h"
       },
       "artists": [
         {
-          "name": "Elisabeth Melander",
-          "url": "https://open.spotify.com/artist/09FsiQ9vAnKdvZcM5DZGYm"
+          "name": "Jaimee Paul",
+          "url": "https://open.spotify.com/artist/09VxnBvEC5lDFLmMkEYOmr"
+        },
+        {
+          "name": "Andre Reiss",
+          "url": "https://open.spotify.com/artist/1O4RYTCy8m5JgaPpxytDDE"
+        },
+        {
+          "name": "Pat Coil",
+          "url": "https://open.spotify.com/artist/2B8UFlcrZdKZD5qV83m503"
+        },
+        {
+          "name": "Jacob Jezioro",
+          "url": "https://open.spotify.com/artist/2LItgcmlHsUt6BikoXc1Df"
+        },
+        {
+          "name": "Danny Gottlieb",
+          "url": "https://open.spotify.com/artist/29aflj7NM4ocg7fMqbhifM"
         }
       ],
-      "duration_ms": 265746,
-      "name": "Like Someone in Love",
-      "url": "https://open.spotify.com/track/1my1nf6O10GIZEZRp2Cxv7"
+      "duration_ms": 207409,
+      "name": "Blue Moon",
+      "url": "https://open.spotify.com/track/5qwcaOKZbXMze0ChEL4MsX"
     },
     {
       "added_at": "2026-04-24 08:23:24",
@@ -1199,6 +1215,22 @@
       "duration_ms": 178426,
       "name": "People Will Say We're In Love",
       "url": "https://open.spotify.com/track/7d5WHGfv4DqTWtjQGHrwij"
+    },
+    {
+      "added_at": "2026-04-24 08:23:24",
+      "album": {
+        "name": "Reflections of a Voice",
+        "url": "https://open.spotify.com/album/7nGWElWBanIzLOX3S6jeQH"
+      },
+      "artists": [
+        {
+          "name": "Elisabeth Melander",
+          "url": "https://open.spotify.com/artist/09FsiQ9vAnKdvZcM5DZGYm"
+        }
+      ],
+      "duration_ms": 265746,
+      "name": "Like Someone in Love",
+      "url": "https://open.spotify.com/track/1my1nf6O10GIZEZRp2Cxv7"
     },
     {
       "added_at": "2026-04-24 08:23:24",
@@ -1263,38 +1295,6 @@
       "duration_ms": 272085,
       "name": "My Funny Valentine",
       "url": "https://open.spotify.com/track/0ULm3rFCZSbIZcdFUOrgSm"
-    },
-    {
-      "added_at": "2026-04-24 08:23:24",
-      "album": {
-        "name": "The Richard Rodgers Songbook",
-        "url": "https://open.spotify.com/album/2nsWi2RA4XDmgOuuMKW87h"
-      },
-      "artists": [
-        {
-          "name": "Jaimee Paul",
-          "url": "https://open.spotify.com/artist/09VxnBvEC5lDFLmMkEYOmr"
-        },
-        {
-          "name": "Andre Reiss",
-          "url": "https://open.spotify.com/artist/1O4RYTCy8m5JgaPpxytDDE"
-        },
-        {
-          "name": "Pat Coil",
-          "url": "https://open.spotify.com/artist/2B8UFlcrZdKZD5qV83m503"
-        },
-        {
-          "name": "Jacob Jezioro",
-          "url": "https://open.spotify.com/artist/2LItgcmlHsUt6BikoXc1Df"
-        },
-        {
-          "name": "Danny Gottlieb",
-          "url": "https://open.spotify.com/artist/29aflj7NM4ocg7fMqbhifM"
-        }
-      ],
-      "duration_ms": 207409,
-      "name": "Blue Moon",
-      "url": "https://open.spotify.com/track/5qwcaOKZbXMze0ChEL4MsX"
     },
     {
       "added_at": "2026-04-24 08:23:24",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2026-04-24 08:23:24",
       "album": {
+        "name": "Ballads: Remembering John Coltrane",
+        "url": "https://open.spotify.com/album/5z4JBgjuPRJa0o3KFmWAOp"
+      },
+      "artists": [
+        {
+          "name": "Karrin Allyson",
+          "url": "https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs"
+        }
+      ],
+      "duration_ms": 361306,
+      "name": "Every Time We Say Goodbye",
+      "url": "https://open.spotify.com/track/1Ka7lYWoj2t7PHbOXjls3W"
+    },
+    {
+      "added_at": "2026-04-24 08:23:24",
+      "album": {
         "name": "As We Are",
         "url": "https://open.spotify.com/album/4NbKMvjr3BYWJydaVvwWjx"
       },
@@ -1451,18 +1467,18 @@
     {
       "added_at": "2026-04-24 08:23:24",
       "album": {
-        "name": "I Fall in Love Too Easily",
-        "url": "https://open.spotify.com/album/1HYUmEhSymsPgtTHGCnweI"
+        "name": "On an Evening in Roma (Sott'er Celo de Roma)",
+        "url": "https://open.spotify.com/album/1Ze2q03kDXWfyZwqfIcsYJ"
       },
       "artists": [
         {
-          "name": "Katharine McPhee",
-          "url": "https://open.spotify.com/artist/5oWOx0BBDSMoFB8JDrjQre"
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
         }
       ],
-      "duration_ms": 235866,
-      "name": "All the Way",
-      "url": "https://open.spotify.com/track/4OPXzKlS84fnRcZI3Kv5S6"
+      "duration_ms": 162520,
+      "name": "On an Evening in Roma (Sott'er Celo de Roma)",
+      "url": "https://open.spotify.com/track/5phLXp2XdLBwLuftxbGe2T"
     },
     {
       "added_at": "2026-04-24 08:23:24",
@@ -1479,6 +1495,22 @@
       "duration_ms": 299533,
       "name": "Little Paradise",
       "url": "https://open.spotify.com/track/0eyAeKA9YPiuzsgm2fiYIp"
+    },
+    {
+      "added_at": "2026-04-24 08:23:24",
+      "album": {
+        "name": "I Fall in Love Too Easily",
+        "url": "https://open.spotify.com/album/1HYUmEhSymsPgtTHGCnweI"
+      },
+      "artists": [
+        {
+          "name": "Katharine McPhee",
+          "url": "https://open.spotify.com/artist/5oWOx0BBDSMoFB8JDrjQre"
+        }
+      ],
+      "duration_ms": 235866,
+      "name": "All the Way",
+      "url": "https://open.spotify.com/track/4OPXzKlS84fnRcZI3Kv5S6"
     },
     {
       "added_at": "2026-04-24 08:23:24",
@@ -1535,22 +1567,6 @@
     {
       "added_at": "2026-04-24 08:23:24",
       "album": {
-        "name": "I Know I Dream : The Orchestral Sessions (Deluxe Version)",
-        "url": "https://open.spotify.com/album/053FwZ4XD8d2xY2GhMB9sH"
-      },
-      "artists": [
-        {
-          "name": "Stacey Kent",
-          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
-        }
-      ],
-      "duration_ms": 367213,
-      "name": "Photograph",
-      "url": "https://open.spotify.com/track/0yKhFtDzzxV1t0VpM37uLp"
-    },
-    {
-      "added_at": "2026-04-24 08:23:24",
-      "album": {
         "name": "What Love Is",
         "url": "https://open.spotify.com/album/7mNaZiHXdEWQV9CJ2ha63o"
       },
@@ -1563,6 +1579,22 @@
       "duration_ms": 279346,
       "name": "Let's Make The Most Of A Beautiful Thing",
       "url": "https://open.spotify.com/track/7zrgXzhF8eSA1O9TvYippG"
+    },
+    {
+      "added_at": "2026-04-24 08:23:24",
+      "album": {
+        "name": "I Know I Dream : The Orchestral Sessions (Deluxe Version)",
+        "url": "https://open.spotify.com/album/053FwZ4XD8d2xY2GhMB9sH"
+      },
+      "artists": [
+        {
+          "name": "Stacey Kent",
+          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
+        }
+      ],
+      "duration_ms": 367213,
+      "name": "Photograph",
+      "url": "https://open.spotify.com/track/0yKhFtDzzxV1t0VpM37uLp"
     },
     {
       "added_at": "2026-04-24 08:23:24",
@@ -1615,38 +1647,6 @@
     {
       "added_at": "2026-04-24 08:23:24",
       "album": {
-        "name": "Tenderly",
-        "url": "https://open.spotify.com/album/2czMrhriDhqmFnAc0fB43J"
-      },
-      "artists": [
-        {
-          "name": "Stacey Kent",
-          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "In the Wee Small Hours of the Morning",
-      "url": "https://open.spotify.com/track/3WKcw4BjJjHxQlXXc9Izgn"
-    },
-    {
-      "added_at": "2026-04-24 08:23:24",
-      "album": {
-        "name": "Ballads: Remembering John Coltrane",
-        "url": "https://open.spotify.com/album/5z4JBgjuPRJa0o3KFmWAOp"
-      },
-      "artists": [
-        {
-          "name": "Karrin Allyson",
-          "url": "https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs"
-        }
-      ],
-      "duration_ms": 361306,
-      "name": "Every Time We Say Goodbye",
-      "url": "https://open.spotify.com/track/1Ka7lYWoj2t7PHbOXjls3W"
-    },
-    {
-      "added_at": "2026-04-24 08:23:24",
-      "album": {
         "name": "Harlem on My Mind",
         "url": "https://open.spotify.com/album/4ke3olYfrnMtMkYORPzGO5"
       },
@@ -1659,6 +1659,22 @@
       "duration_ms": 292288,
       "name": "Don't Take Your Love from Me",
       "url": "https://open.spotify.com/track/0yU5Oa00MqxV6GvVQ0CQu6"
+    },
+    {
+      "added_at": "2026-04-24 08:23:24",
+      "album": {
+        "name": "Tenderly",
+        "url": "https://open.spotify.com/album/2czMrhriDhqmFnAc0fB43J"
+      },
+      "artists": [
+        {
+          "name": "Stacey Kent",
+          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "In the Wee Small Hours of the Morning",
+      "url": "https://open.spotify.com/track/3WKcw4BjJjHxQlXXc9Izgn"
     },
     {
       "added_at": "2026-04-24 08:23:24",
@@ -1783,22 +1799,6 @@
       "duration_ms": 176495,
       "name": "Unforgettable",
       "url": "https://open.spotify.com/track/3hMtwMsTU2H3iD5mu0cpiE"
-    },
-    {
-      "added_at": "2026-04-24 08:23:24",
-      "album": {
-        "name": "One Step Ahead - Single",
-        "url": "https://open.spotify.com/album/6fIfmucwqUc3n0pjg2kEy6"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9cile McLorin Salvant",
-          "url": "https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn"
-        }
-      ],
-      "duration_ms": 129127,
-      "name": "One Step Ahead",
-      "url": "https://open.spotify.com/track/0MaUUswNytVFfcYYXfvpRQ"
     }
   ],
   "unique_name": "Jazzy Romance",

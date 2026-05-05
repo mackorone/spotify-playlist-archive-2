@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afU+gAAAAAAw1GqIY3tC0twHLrjRGeVZ",
+  "snapshot_id": "afaQAAAAAABYS/Nxo38u5ZoIBf++WgzY",
   "tracks": [
     {
       "added_at": null,
@@ -447,22 +447,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Origens",
-        "url": "https://open.spotify.com/album/5HZSxTHV1Okqedi83jpnbG"
+        "name": "Verdade Ou Consequ\u00eancia",
+        "url": "https://open.spotify.com/album/3GZP7Jg4KRiH64vMnsIM0a"
       },
       "artists": [
         {
-          "name": "Edi Rock",
-          "url": "https://open.spotify.com/artist/2fYAyTS2erZgqEHKHYqgi2"
+          "name": "Carol & Vitoria",
+          "url": "https://open.spotify.com/artist/5zA07XrRPmMYEAdwtfRtSD"
         },
         {
           "name": "Bivolt",
           "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
         }
       ],
-      "duration_ms": 195097,
-      "name": "Pense Bem",
-      "url": "https://open.spotify.com/track/0LjgRlaDaXcdinRJyGkpIS"
+      "duration_ms": 167142,
+      "name": "Verdade Ou Consequ\u00eancia",
+      "url": "https://open.spotify.com/track/1gu0krGFrPjz4LV0IiiIYJ"
     },
     {
       "added_at": null,
@@ -511,22 +511,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Verdade Ou Consequ\u00eancia",
-        "url": "https://open.spotify.com/album/3GZP7Jg4KRiH64vMnsIM0a"
+        "name": "Origens",
+        "url": "https://open.spotify.com/album/5HZSxTHV1Okqedi83jpnbG"
       },
       "artists": [
         {
-          "name": "Carol & Vitoria",
-          "url": "https://open.spotify.com/artist/5zA07XrRPmMYEAdwtfRtSD"
+          "name": "Edi Rock",
+          "url": "https://open.spotify.com/artist/2fYAyTS2erZgqEHKHYqgi2"
         },
         {
           "name": "Bivolt",
           "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
         }
       ],
-      "duration_ms": 167142,
-      "name": "Verdade Ou Consequ\u00eancia",
-      "url": "https://open.spotify.com/track/1gu0krGFrPjz4LV0IiiIYJ"
+      "duration_ms": 195097,
+      "name": "Pense Bem",
+      "url": "https://open.spotify.com/track/0LjgRlaDaXcdinRJyGkpIS"
     },
     {
       "added_at": null,
@@ -927,30 +927,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gl\u00f3ria",
-        "url": "https://open.spotify.com/album/5CzkyEDf1muZQdpv3Lvc5q"
-      },
-      "artists": [
-        {
-          "name": "Iza Sabino",
-          "url": "https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3"
-        },
-        {
-          "name": "Coyote Beatz",
-          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
-        },
-        {
-          "name": "Bivolt",
-          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
-        }
-      ],
-      "duration_ms": 185884,
-      "name": "Imaginei",
-      "url": "https://open.spotify.com/track/2JKAtEvUOHmtfEjgSbVRAL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bivolt no Est\u00fadio Showlivre (Ao Vivo)",
         "url": "https://open.spotify.com/album/54Hy0G86AMIiRvEd9KsP65"
       },
@@ -967,26 +943,6 @@
       "duration_ms": 300153,
       "name": "Olhos Negros - Ao Vivo",
       "url": "https://open.spotify.com/track/2EjqZpbPUrVgY1oGqfw0WA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chave",
-        "url": "https://open.spotify.com/album/6SqzpkCbDN3FjdNvISmWcB"
-      },
-      "artists": [
-        {
-          "name": "Bivolt",
-          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
-        },
-        {
-          "name": "Nave",
-          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
-        }
-      ],
-      "duration_ms": 156183,
-      "name": "Luiza Mel",
-      "url": "https://open.spotify.com/track/5GYUVMxUKKgPBBR18iFFci"
     },
     {
       "added_at": null,
@@ -1019,6 +975,26 @@
       "duration_ms": 156353,
       "name": "Ta\u00e7as",
       "url": "https://open.spotify.com/track/43wU9QMeq9jJrCxAvpCEXP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chave",
+        "url": "https://open.spotify.com/album/6SqzpkCbDN3FjdNvISmWcB"
+      },
+      "artists": [
+        {
+          "name": "Bivolt",
+          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
+        },
+        {
+          "name": "Nave",
+          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
+        }
+      ],
+      "duration_ms": 156183,
+      "name": "Luiza Mel",
+      "url": "https://open.spotify.com/track/5GYUVMxUKKgPBBR18iFFci"
     },
     {
       "added_at": null,
@@ -1071,18 +1047,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vista Loka",
-        "url": "https://open.spotify.com/album/3lPDSgCpGJNJrQLKQ5VkFs"
+        "name": "Gl\u00f3ria",
+        "url": "https://open.spotify.com/album/5CzkyEDf1muZQdpv3Lvc5q"
       },
       "artists": [
+        {
+          "name": "Iza Sabino",
+          "url": "https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3"
+        },
+        {
+          "name": "Coyote Beatz",
+          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
+        },
         {
           "name": "Bivolt",
           "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
         }
       ],
-      "duration_ms": 208747,
-      "name": "Vista Loka",
-      "url": "https://open.spotify.com/track/1AU9m2wkxMbaZpzIqd6Gr8"
+      "duration_ms": 185884,
+      "name": "Imaginei",
+      "url": "https://open.spotify.com/track/2JKAtEvUOHmtfEjgSbVRAL"
     },
     {
       "added_at": null,
@@ -1115,6 +1099,50 @@
       "duration_ms": 318139,
       "name": "Eu Avisei",
       "url": "https://open.spotify.com/track/6WEZWKz0Z6Qgb3nZ32OY8a"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SET DO ECOLOGYK 1.0",
+        "url": "https://open.spotify.com/album/67Zzg6YfQIULJrpt91LXUI"
+      },
+      "artists": [
+        {
+          "name": "Ecologyk",
+          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
+        },
+        {
+          "name": "Mc Pedrinho",
+          "url": "https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m"
+        },
+        {
+          "name": "Mc Lipi",
+          "url": "https://open.spotify.com/artist/0cjkWe9VXcECGiOEHFuTfc"
+        },
+        {
+          "name": "MC PH",
+          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
+        },
+        {
+          "name": "Duzz",
+          "url": "https://open.spotify.com/artist/4oPnjkJcLqOim9KJxvIYMz"
+        },
+        {
+          "name": "Bivolt",
+          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
+        },
+        {
+          "name": "MC Igu",
+          "url": "https://open.spotify.com/artist/5K854sjdzabwOy9KltU3Po"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 338274,
+      "name": "SET DO ECOLOGYK 1.0",
+      "url": "https://open.spotify.com/track/3IcsmbNAb1ez7a7hUc7XZG"
     },
     {
       "added_at": null,
@@ -1167,46 +1195,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "SET DO ECOLOGYK 1.0",
-        "url": "https://open.spotify.com/album/67Zzg6YfQIULJrpt91LXUI"
+        "name": "Vista Loka",
+        "url": "https://open.spotify.com/album/3lPDSgCpGJNJrQLKQ5VkFs"
       },
       "artists": [
         {
-          "name": "Ecologyk",
-          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
-        },
-        {
-          "name": "Mc Pedrinho",
-          "url": "https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m"
-        },
-        {
-          "name": "Mc Lipi",
-          "url": "https://open.spotify.com/artist/0cjkWe9VXcECGiOEHFuTfc"
-        },
-        {
-          "name": "MC PH",
-          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
-        },
-        {
-          "name": "Duzz",
-          "url": "https://open.spotify.com/artist/4oPnjkJcLqOim9KJxvIYMz"
-        },
-        {
           "name": "Bivolt",
           "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
-        },
-        {
-          "name": "MC Igu",
-          "url": "https://open.spotify.com/artist/5K854sjdzabwOy9KltU3Po"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
         }
       ],
-      "duration_ms": 338274,
-      "name": "SET DO ECOLOGYK 1.0",
-      "url": "https://open.spotify.com/track/3IcsmbNAb1ez7a7hUc7XZG"
+      "duration_ms": 208747,
+      "name": "Vista Loka",
+      "url": "https://open.spotify.com/track/1AU9m2wkxMbaZpzIqd6Gr8"
     },
     {
       "added_at": null,

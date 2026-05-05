@@ -1,6 +1,6 @@
 {
   "description": "Listen to selected nominees for the 68th GRAMMY Awards.",
-  "num_followers": 166690,
+  "num_followers": 166686,
   "original_name": "The GRAMMYs Official Playlist",
   "owner": {
     "name": "Spotify",
@@ -443,22 +443,6 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
-        "name": "The Subway",
-        "url": "https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira"
-      },
-      "artists": [
-        {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        }
-      ],
-      "duration_ms": 252276,
-      "name": "The Subway",
-      "url": "https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq"
-    },
-    {
-      "added_at": "2025-11-12 17:50:29",
-      "album": {
         "name": "A Matter of Time",
         "url": "https://open.spotify.com/album/5rMOCuiWWbEBcHaKM69Hmv"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 164400,
       "name": "Lover Girl",
       "url": "https://open.spotify.com/track/4nwjvcUjV7cexhwA40Bh5i"
+    },
+    {
+      "added_at": "2025-11-12 17:50:29",
+      "album": {
+        "name": "The Subway",
+        "url": "https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 252276,
+      "name": "The Subway",
+      "url": "https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq"
     },
     {
       "added_at": "2025-11-12 17:50:29",
@@ -635,26 +635,6 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
-        "name": "SOS Deluxe: LANA",
-        "url": "https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        },
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 278277,
-      "name": "30 For 30 (with Kendrick Lamar)",
-      "url": "https://open.spotify.com/track/3aSWXU6owkZeVhh94XxEWO"
-    },
-    {
-      "added_at": "2025-11-12 17:50:29",
-      "album": {
         "name": "It Depends (feat. Bryson Tiller)",
         "url": "https://open.spotify.com/album/6FA7O8oQl5eReFrDYjkusP"
       },
@@ -671,6 +651,26 @@
       "duration_ms": 271875,
       "name": "It Depends (feat. Bryson Tiller)",
       "url": "https://open.spotify.com/track/0t3pcqgBjuAVBgY2oEUIlH"
+    },
+    {
+      "added_at": "2025-11-12 17:50:29",
+      "album": {
+        "name": "SOS Deluxe: LANA",
+        "url": "https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 278277,
+      "name": "30 For 30 (with Kendrick Lamar)",
+      "url": "https://open.spotify.com/track/3aSWXU6owkZeVhh94XxEWO"
     },
     {
       "added_at": "2025-11-12 17:50:29",
@@ -899,26 +899,6 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
-        "name": "Where I've Been, Isn't Where I'm Going: The Complete Edition",
-        "url": "https://open.spotify.com/album/7h7fjoD137eLq9B3KHWXtW"
-      },
-      "artists": [
-        {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        },
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 197403,
-      "name": "Amen",
-      "url": "https://open.spotify.com/track/2iSfSJrho5XkU2NmAnZ9ZV"
-    },
-    {
-      "added_at": "2025-11-12 17:50:29",
-      "album": {
         "name": "MUTT",
         "url": "https://open.spotify.com/album/0SzoksypeognxYJJOJEYip"
       },
@@ -955,6 +935,26 @@
       "duration_ms": 429454,
       "name": "I Know A Name",
       "url": "https://open.spotify.com/track/4TXK7iqOnXCr8XWyj3b4dJ"
+    },
+    {
+      "added_at": "2025-11-12 17:50:29",
+      "album": {
+        "name": "Where I've Been, Isn't Where I'm Going: The Complete Edition",
+        "url": "https://open.spotify.com/album/7h7fjoD137eLq9B3KHWXtW"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 197403,
+      "name": "Amen",
+      "url": "https://open.spotify.com/track/2iSfSJrho5XkU2NmAnZ9ZV"
     },
     {
       "added_at": "2025-11-12 17:50:29",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
-        "name": "NEVER ENOUGH",
-        "url": "https://open.spotify.com/album/52yD51X7yDinwlg6tbCtpP"
-      },
-      "artists": [
-        {
-          "name": "Turnstile",
-          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
-        }
-      ],
-      "duration_ms": 287159,
-      "name": "NEVER ENOUGH",
-      "url": "https://open.spotify.com/track/1zoXDi9AY4TF5JoUuCCTL6"
-    },
-    {
-      "added_at": "2025-11-12 17:50:29",
-      "album": {
         "name": "ASTROPICAL",
         "url": "https://open.spotify.com/album/21U3vjlzUXb642LW0Ventl"
       },
@@ -1119,18 +1103,18 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
-        "name": "Mixteip",
-        "url": "https://open.spotify.com/album/5ZhcTmzBym8cwsVkNNrHgS"
+        "name": "NEVER ENOUGH",
+        "url": "https://open.spotify.com/album/52yD51X7yDinwlg6tbCtpP"
       },
       "artists": [
         {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
         }
       ],
-      "duration_ms": 188386,
-      "name": "Rio",
-      "url": "https://open.spotify.com/track/4m6FwXQm2GQNMn4u9xPhm2"
+      "duration_ms": 287159,
+      "name": "NEVER ENOUGH",
+      "url": "https://open.spotify.com/track/1zoXDi9AY4TF5JoUuCCTL6"
     },
     {
       "added_at": "2025-11-12 17:50:29",
@@ -1151,6 +1135,22 @@
       "duration_ms": 179928,
       "name": "A Song To Sing",
       "url": "https://open.spotify.com/track/7L9N5bxblTyzTknaxo7duX"
+    },
+    {
+      "added_at": "2025-11-12 17:50:29",
+      "album": {
+        "name": "Mixteip",
+        "url": "https://open.spotify.com/album/5ZhcTmzBym8cwsVkNNrHgS"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 188386,
+      "name": "Rio",
+      "url": "https://open.spotify.com/track/4m6FwXQm2GQNMn4u9xPhm2"
     },
     {
       "added_at": "2025-11-12 17:50:29",
@@ -1507,6 +1507,26 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
+        "name": "FERXXO VOL X: Sagrado",
+        "url": "https://open.spotify.com/album/4Fa9OpneHJPjj5jsrCQuMC"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 150370,
+      "name": "DALLAX",
+      "url": "https://open.spotify.com/track/5rjWda7HRizhVkcMwikjHN"
+    },
+    {
+      "added_at": "2025-11-12 17:50:29",
+      "album": {
         "name": "SINF\u00d3NICO (En Vivo)",
         "url": "https://open.spotify.com/album/6qBMMQeQLfUxEs47lK085F"
       },
@@ -1539,46 +1559,6 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
-        "name": "FERXXO VOL X: Sagrado",
-        "url": "https://open.spotify.com/album/4Fa9OpneHJPjj5jsrCQuMC"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 150370,
-      "name": "DALLAX",
-      "url": "https://open.spotify.com/track/5rjWda7HRizhVkcMwikjHN"
-    },
-    {
-      "added_at": "2025-11-12 17:50:29",
-      "album": {
-        "name": "NAIKI",
-        "url": "https://open.spotify.com/album/0pjOf0aWfj0YQCJd1wPCic"
-      },
-      "artists": [
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        },
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        }
-      ],
-      "duration_ms": 145714,
-      "name": "MASCARA",
-      "url": "https://open.spotify.com/track/4CDD9QvqxvcquJYxAIPuOL"
-    },
-    {
-      "added_at": "2025-11-12 17:50:29",
-      "album": {
         "name": "God Does Like Ugly",
         "url": "https://open.spotify.com/album/2tU04u3hxtziB4sOVJKak3"
       },
@@ -1599,6 +1579,26 @@
       "duration_ms": 225763,
       "name": "Wholeheartedly (with Ty Dolla $ign & 6LACK)",
       "url": "https://open.spotify.com/track/314sW8ZsMHGiYkn2fAOW9e"
+    },
+    {
+      "added_at": "2025-11-12 17:50:29",
+      "album": {
+        "name": "NAIKI",
+        "url": "https://open.spotify.com/album/0pjOf0aWfj0YQCJd1wPCic"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "duration_ms": 145714,
+      "name": "MASCARA",
+      "url": "https://open.spotify.com/track/4CDD9QvqxvcquJYxAIPuOL"
     },
     {
       "added_at": "2025-11-12 17:50:29",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
-        "name": "Parasomnia",
-        "url": "https://open.spotify.com/album/0ER7sdwIe6mfM63TbWcHmd"
-      },
-      "artists": [
-        {
-          "name": "Dream Theater",
-          "url": "https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep"
-        }
-      ],
-      "duration_ms": 595160,
-      "name": "Night Terror",
-      "url": "https://open.spotify.com/track/2eEY3SOjaDoZmx6mC2QTLU"
-    },
-    {
-      "added_at": "2025-11-12 17:50:29",
-      "album": {
         "name": "Songs Of A Lost World",
         "url": "https://open.spotify.com/album/4wjxmqXnSQvBZWL3IbYngX"
       },
@@ -1755,18 +1739,18 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
-        "name": "God Does Like Ugly",
-        "url": "https://open.spotify.com/album/2tU04u3hxtziB4sOVJKak3"
+        "name": "Parasomnia",
+        "url": "https://open.spotify.com/album/0ER7sdwIe6mfM63TbWcHmd"
       },
       "artists": [
         {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+          "name": "Dream Theater",
+          "url": "https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep"
         }
       ],
-      "duration_ms": 194095,
-      "name": "WRK",
-      "url": "https://open.spotify.com/track/0jxd4JBrPUZ4Pf2AwtH6JO"
+      "duration_ms": 595160,
+      "name": "Night Terror",
+      "url": "https://open.spotify.com/track/2eEY3SOjaDoZmx6mC2QTLU"
     },
     {
       "added_at": "2025-11-12 17:50:29",
@@ -1791,18 +1775,18 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
-        "name": "Where I've Been, Isn't Where I'm Going: The Complete Edition",
-        "url": "https://open.spotify.com/album/7h7fjoD137eLq9B3KHWXtW"
+        "name": "God Does Like Ugly",
+        "url": "https://open.spotify.com/album/2tU04u3hxtziB4sOVJKak3"
       },
       "artists": [
         {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
         }
       ],
-      "duration_ms": 199209,
-      "name": "Good News",
-      "url": "https://open.spotify.com/track/4izQNhcqRT0tuqh9dWTKvi"
+      "duration_ms": 194095,
+      "name": "WRK",
+      "url": "https://open.spotify.com/track/0jxd4JBrPUZ4Pf2AwtH6JO"
     },
     {
       "added_at": "2025-11-12 17:50:29",
@@ -1823,6 +1807,22 @@
       "duration_ms": 189746,
       "name": "Honky Tonk Hall Of Fame",
       "url": "https://open.spotify.com/track/3ETCVKhAVXx0a8ohAeSP7d"
+    },
+    {
+      "added_at": "2025-11-12 17:50:29",
+      "album": {
+        "name": "Where I've Been, Isn't Where I'm Going: The Complete Edition",
+        "url": "https://open.spotify.com/album/7h7fjoD137eLq9B3KHWXtW"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "duration_ms": 199209,
+      "name": "Good News",
+      "url": "https://open.spotify.com/track/4izQNhcqRT0tuqh9dWTKvi"
     },
     {
       "added_at": "2025-11-12 17:50:29",
@@ -1943,22 +1943,6 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
-        "name": "Something Beautiful (Deluxe)",
-        "url": "https://open.spotify.com/album/3jyvGlsdgbUkdZnbpbZCCb"
-      },
-      "artists": [
-        {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        }
-      ],
-      "duration_ms": 250483,
-      "name": "End of the World",
-      "url": "https://open.spotify.com/track/7C5lLwXJadUtDjb5Ijh12m"
-    },
-    {
-      "added_at": "2025-11-12 17:50:29",
-      "album": {
         "name": "Hard Headed Woman",
         "url": "https://open.spotify.com/album/1q03d1hYDfMWALV5t8Rbaw"
       },
@@ -1975,6 +1959,22 @@
       "duration_ms": 267133,
       "name": "Love Me Like You Used To Do [Feat. Tyler Childers]",
       "url": "https://open.spotify.com/track/28520OoA1qXG46koPHUcSG"
+    },
+    {
+      "added_at": "2025-11-12 17:50:29",
+      "album": {
+        "name": "Something Beautiful (Deluxe)",
+        "url": "https://open.spotify.com/album/3jyvGlsdgbUkdZnbpbZCCb"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "duration_ms": 250483,
+      "name": "End of the World",
+      "url": "https://open.spotify.com/track/7C5lLwXJadUtDjb5Ijh12m"
     },
     {
       "added_at": "2025-11-12 17:50:29",
@@ -2095,6 +2095,26 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
+        "name": "Treasure Self Love",
+        "url": "https://open.spotify.com/album/2xD9ACxjRvtjAPOpR2mFBf"
+      },
+      "artists": [
+        {
+          "name": "Lila Ik\u00e9",
+          "url": "https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO"
+        },
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "duration_ms": 221751,
+      "name": "He Loves Us Both (with H.E.R.)",
+      "url": "https://open.spotify.com/track/5t273TViREJdH5RtHtupyY"
+    },
+    {
+      "added_at": "2025-11-12 17:50:29",
+      "album": {
         "name": "Reconstruction",
         "url": "https://open.spotify.com/album/0uwbHaYo7t65nwqE62AyZl"
       },
@@ -2115,26 +2135,6 @@
       "duration_ms": 221894,
       "name": "Headphones",
       "url": "https://open.spotify.com/track/7pMJ2uIwF5C04AY5ZNdWOF"
-    },
-    {
-      "added_at": "2025-11-12 17:50:29",
-      "album": {
-        "name": "Treasure Self Love",
-        "url": "https://open.spotify.com/album/2xD9ACxjRvtjAPOpR2mFBf"
-      },
-      "artists": [
-        {
-          "name": "Lila Ik\u00e9",
-          "url": "https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO"
-        },
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        }
-      ],
-      "duration_ms": 221751,
-      "name": "He Loves Us Both (with H.E.R.)",
-      "url": "https://open.spotify.com/track/5t273TViREJdH5RtHtupyY"
     },
     {
       "added_at": "2025-11-12 17:50:29",

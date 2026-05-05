@@ -1,6 +1,6 @@
 {
   "description": "Las canciones esenciales de la escena alternativa en espa\u00f1ol. Con Diamante El\u00e9ctrico en portada.",
-  "num_followers": 409102,
+  "num_followers": 408965,
   "original_name": "Lo Mejor del Indie Latino  ",
   "owner": {
     "name": "Spotify",
@@ -163,22 +163,18 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "MEMORIA FUTURO",
-        "url": "https://open.spotify.com/album/4XFeZO8Do9fdappVKRzbcH"
+        "name": "B\u00e1lsamo",
+        "url": "https://open.spotify.com/album/7av9VVRYT6rgVRshaVDEPQ"
       },
       "artists": [
         {
-          "name": "Siddhartha",
-          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
-        },
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
         }
       ],
-      "duration_ms": 221390,
-      "name": "Respiro (Cap. 8)",
-      "url": "https://open.spotify.com/track/5O612Iau2nHDR3yv8jAFXs"
+      "duration_ms": 196266,
+      "name": "Brillo Mio",
+      "url": "https://open.spotify.com/track/7eCDfoEl8UGeWqcpRO5lgz"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -199,18 +195,22 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "B\u00e1lsamo",
-        "url": "https://open.spotify.com/album/7av9VVRYT6rgVRshaVDEPQ"
+        "name": "MEMORIA FUTURO",
+        "url": "https://open.spotify.com/album/4XFeZO8Do9fdappVKRzbcH"
       },
       "artists": [
         {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+          "name": "Siddhartha",
+          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
         }
       ],
-      "duration_ms": 196266,
-      "name": "Brillo Mio",
-      "url": "https://open.spotify.com/track/7eCDfoEl8UGeWqcpRO5lgz"
+      "duration_ms": 221390,
+      "name": "Respiro (Cap. 8)",
+      "url": "https://open.spotify.com/track/5O612Iau2nHDR3yv8jAFXs"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -395,22 +395,6 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "1999 (o como generar incendios de nieve con una lupa enfocando la luna)",
-        "url": "https://open.spotify.com/album/1vvfLVVcU1o8sPMq25CxpF"
-      },
-      "artists": [
-        {
-          "name": "Love of Lesbian",
-          "url": "https://open.spotify.com/artist/6VCoG3MG7ZKRxDjaYOvtrF"
-        }
-      ],
-      "duration_ms": 337453,
-      "name": "All\u00ed donde sol\u00edamos gritar",
-      "url": "https://open.spotify.com/track/29tVNOmg85qDLh2wVnJxpv"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
         "name": "La Sintesis O'Konor",
         "url": "https://open.spotify.com/album/7oEJJ7TxrfWGJXczcuOWpK"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 327739,
       "name": "La Noche Eterna",
       "url": "https://open.spotify.com/track/58zB7AczXbwRfmPmiVjeqh"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
+        "name": "1999 (o como generar incendios de nieve con una lupa enfocando la luna)",
+        "url": "https://open.spotify.com/album/1vvfLVVcU1o8sPMq25CxpF"
+      },
+      "artists": [
+        {
+          "name": "Love of Lesbian",
+          "url": "https://open.spotify.com/artist/6VCoG3MG7ZKRxDjaYOvtrF"
+        }
+      ],
+      "duration_ms": 337453,
+      "name": "All\u00ed donde sol\u00edamos gritar",
+      "url": "https://open.spotify.com/track/29tVNOmg85qDLh2wVnJxpv"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "1999 (o como generar incendios de nieve con una lupa enfocando la luna)",
-        "url": "https://open.spotify.com/album/1vvfLVVcU1o8sPMq25CxpF"
-      },
-      "artists": [
-        {
-          "name": "Love of Lesbian",
-          "url": "https://open.spotify.com/artist/6VCoG3MG7ZKRxDjaYOvtrF"
-        }
-      ],
-      "duration_ms": 231160,
-      "name": "Club de fans de John Boy",
-      "url": "https://open.spotify.com/track/1KhqSLS8YafrUCbjrn8WxZ"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
         "name": "Donde los Ponys Pastan",
         "url": "https://open.spotify.com/album/0trdxYmH6A4QEtdlbYWjtx"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 322013,
       "name": "Espiral",
       "url": "https://open.spotify.com/track/3LLMudAmQlHRqmD5BG3CQS"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
+        "name": "1999 (o como generar incendios de nieve con una lupa enfocando la luna)",
+        "url": "https://open.spotify.com/album/1vvfLVVcU1o8sPMq25CxpF"
+      },
+      "artists": [
+        {
+          "name": "Love of Lesbian",
+          "url": "https://open.spotify.com/artist/6VCoG3MG7ZKRxDjaYOvtrF"
+        }
+      ],
+      "duration_ms": 231160,
+      "name": "Club de fans de John Boy",
+      "url": "https://open.spotify.com/track/1KhqSLS8YafrUCbjrn8WxZ"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -743,22 +743,6 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Santacruz",
-        "url": "https://open.spotify.com/album/6F0M6o2oFl8pf52SbckNWf"
-      },
-      "artists": [
-        {
-          "name": "Supersubmarina",
-          "url": "https://open.spotify.com/artist/61C3cEhdoJ9YiQSQSwYB4K"
-        }
-      ],
-      "duration_ms": 286920,
-      "name": "De las Dudas Infinitas",
-      "url": "https://open.spotify.com/track/2lfwPw1lQ2ITeneLe7xm22"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
         "name": "Un Bossa +",
         "url": "https://open.spotify.com/album/0E9Yu1or2WPe82OTuFv51o"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 86000,
       "name": "Un Bossa +",
       "url": "https://open.spotify.com/track/3uz2tyLRgSzSlhOIXCz0DB"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
+        "name": "Santacruz",
+        "url": "https://open.spotify.com/album/6F0M6o2oFl8pf52SbckNWf"
+      },
+      "artists": [
+        {
+          "name": "Supersubmarina",
+          "url": "https://open.spotify.com/artist/61C3cEhdoJ9YiQSQSwYB4K"
+        }
+      ],
+      "duration_ms": 286920,
+      "name": "De las Dudas Infinitas",
+      "url": "https://open.spotify.com/track/2lfwPw1lQ2ITeneLe7xm22"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -859,6 +859,22 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
+        "name": "Besos en la Espalda",
+        "url": "https://open.spotify.com/album/7KDc628gSoRVXdJxDNGNG3"
+      },
+      "artists": [
+        {
+          "name": "Indios",
+          "url": "https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp"
+        }
+      ],
+      "duration_ms": 166573,
+      "name": "Perdiendo la Cabeza",
+      "url": "https://open.spotify.com/track/3KuWAnuZHNMsp7VIJyPyyr"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
         "name": "Amador",
         "url": "https://open.spotify.com/album/2IsJL5SdD7FnplHSrlS6A0"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 193840,
       "name": "Amor Sin Fin",
       "url": "https://open.spotify.com/track/5wPsMPU6dTGckf8VLW2fsg"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
-        "name": "Besos en la Espalda",
-        "url": "https://open.spotify.com/album/7KDc628gSoRVXdJxDNGNG3"
-      },
-      "artists": [
-        {
-          "name": "Indios",
-          "url": "https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp"
-        }
-      ],
-      "duration_ms": 166573,
-      "name": "Perdiendo la Cabeza",
-      "url": "https://open.spotify.com/track/3KuWAnuZHNMsp7VIJyPyyr"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -947,22 +947,6 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Correspondencia",
-        "url": "https://open.spotify.com/album/1AYrH8rgkrGL2MBZZiaCSa"
-      },
-      "artists": [
-        {
-          "name": "Tessa Ia",
-          "url": "https://open.spotify.com/artist/2Bo0gW1bqWSjD27xOcVtjg"
-        }
-      ],
-      "duration_ms": 202053,
-      "name": "Acic\u00e1lame",
-      "url": "https://open.spotify.com/track/5Ew6ieSRFMoGZlF3rWtDNM"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
         "name": "Pol\u00edtico",
         "url": "https://open.spotify.com/album/7vkBraQBpz7zEjbtjUR9Zt"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 226742,
       "name": "M\u00e9xico",
       "url": "https://open.spotify.com/track/7p4VHeroqCBJJL0RbCf8yx"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
+        "name": "Correspondencia",
+        "url": "https://open.spotify.com/album/1AYrH8rgkrGL2MBZZiaCSa"
+      },
+      "artists": [
+        {
+          "name": "Tessa Ia",
+          "url": "https://open.spotify.com/artist/2Bo0gW1bqWSjD27xOcVtjg"
+        }
+      ],
+      "duration_ms": 202053,
+      "name": "Acic\u00e1lame",
+      "url": "https://open.spotify.com/track/5Ew6ieSRFMoGZlF3rWtDNM"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -999,22 +999,18 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Murasaki",
-        "url": "https://open.spotify.com/album/6Wbe28xhFeR3q8gjhxgjrj"
+        "name": "Si Me Voy",
+        "url": "https://open.spotify.com/album/1IucviBb2OOIZsrb49NJEq"
       },
       "artists": [
         {
-          "name": "Comisario Pantera",
-          "url": "https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR"
-        },
-        {
-          "name": "Luis Humberto Navejas",
-          "url": "https://open.spotify.com/artist/7KSYCds3IeHtit1aYZZR4A"
+          "name": "Salvapantallas",
+          "url": "https://open.spotify.com/artist/1VZQhmsaBc4voNvRGvFUgK"
         }
       ],
-      "duration_ms": 213133,
-      "name": "Murasaki",
-      "url": "https://open.spotify.com/track/033BH9v7RyCCdHzgxyiU5R"
+      "duration_ms": 186000,
+      "name": "Si Me Voy",
+      "url": "https://open.spotify.com/track/39PaCcsOLhJx3U9To1Qxak"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -1035,18 +1031,22 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Si Me Voy",
-        "url": "https://open.spotify.com/album/1IucviBb2OOIZsrb49NJEq"
+        "name": "Murasaki",
+        "url": "https://open.spotify.com/album/6Wbe28xhFeR3q8gjhxgjrj"
       },
       "artists": [
         {
-          "name": "Salvapantallas",
-          "url": "https://open.spotify.com/artist/1VZQhmsaBc4voNvRGvFUgK"
+          "name": "Comisario Pantera",
+          "url": "https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR"
+        },
+        {
+          "name": "Luis Humberto Navejas",
+          "url": "https://open.spotify.com/artist/7KSYCds3IeHtit1aYZZR4A"
         }
       ],
-      "duration_ms": 186000,
-      "name": "Si Me Voy",
-      "url": "https://open.spotify.com/track/39PaCcsOLhJx3U9To1Qxak"
+      "duration_ms": 213133,
+      "name": "Murasaki",
+      "url": "https://open.spotify.com/track/033BH9v7RyCCdHzgxyiU5R"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Colores Paganos",
-        "url": "https://open.spotify.com/album/52qqkgnvRbNW9wW0VT3OgY"
-      },
-      "artists": [
-        {
-          "name": "TOURISTA",
-          "url": "https://open.spotify.com/artist/5gOlm0kBmadY4qgw4UssxM"
-        }
-      ],
-      "duration_ms": 204585,
-      "name": "Explotar Contigo",
-      "url": "https://open.spotify.com/track/4ZCRkqTO36YSyMEjQukC9s"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
         "name": "Hice Todo Mal",
         "url": "https://open.spotify.com/album/3WkSvs5LcrBVpcCdDowpcb"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 194999,
       "name": "Hice Todo Mal",
       "url": "https://open.spotify.com/track/75vOAe2y7zhW6XCLU60FaW"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
+        "name": "Colores Paganos",
+        "url": "https://open.spotify.com/album/52qqkgnvRbNW9wW0VT3OgY"
+      },
+      "artists": [
+        {
+          "name": "TOURISTA",
+          "url": "https://open.spotify.com/artist/5gOlm0kBmadY4qgw4UssxM"
+        }
+      ],
+      "duration_ms": 204585,
+      "name": "Explotar Contigo",
+      "url": "https://open.spotify.com/track/4ZCRkqTO36YSyMEjQukC9s"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Feroza",
-        "url": "https://open.spotify.com/album/3Ear2Vze1ZV4JDk4ZfWp2A"
-      },
-      "artists": [
-        {
-          "name": "Feli Colina",
-          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
-        }
-      ],
-      "duration_ms": 178756,
-      "name": "Susurrito",
-      "url": "https://open.spotify.com/track/7btTCfo8fyFOhqFXFdMi7b"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
         "name": "SMS",
         "url": "https://open.spotify.com/album/2D2JNUc0IzRwyiDR8X2sHh"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 188660,
       "name": "Me Conecto (feat. Jorge Drexler)",
       "url": "https://open.spotify.com/track/6X99UPXCpHWCih4OcZN9pg"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
+        "name": "Feroza",
+        "url": "https://open.spotify.com/album/3Ear2Vze1ZV4JDk4ZfWp2A"
+      },
+      "artists": [
+        {
+          "name": "Feli Colina",
+          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
+        }
+      ],
+      "duration_ms": 178756,
+      "name": "Susurrito",
+      "url": "https://open.spotify.com/track/7btTCfo8fyFOhqFXFdMi7b"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -1407,26 +1407,6 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Canciones Sin Ropa",
-        "url": "https://open.spotify.com/album/0L9cqmT0jwp00pj6r49Ttj"
-      },
-      "artists": [
-        {
-          "name": "Pedrina y Rio",
-          "url": "https://open.spotify.com/artist/6JkcXRzUF8IXV78ATWAHRK"
-        },
-        {
-          "name": "Pedrina",
-          "url": "https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1"
-        }
-      ],
-      "duration_ms": 213487,
-      "name": "Enamorada",
-      "url": "https://open.spotify.com/track/5crUoUnVrtjHaHHhDQuf8z"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
         "name": "Ca\u00f3tica Belleza",
         "url": "https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS"
       },
@@ -1447,6 +1427,22 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
+        "name": "Mediocre [Edici\u00f3n Especial]",
+        "url": "https://open.spotify.com/album/4XorEyilYOodayD0mbzTcq"
+      },
+      "artists": [
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 253600,
+      "name": "No vuelvo m\u00e1s",
+      "url": "https://open.spotify.com/track/5cSOp6pWzatLGzCSuFDh0u"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
         "name": "Todo Estaba Bien",
         "url": "https://open.spotify.com/album/7KPVPMG8NmmqMsuPlQDl8P"
       },
@@ -1463,22 +1459,6 @@
       "duration_ms": 188222,
       "name": "Todo Estaba Bien",
       "url": "https://open.spotify.com/track/72m6x9D3NCMs2MsE4wHMIC"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
-        "name": "Mediocre [Edici\u00f3n Especial]",
-        "url": "https://open.spotify.com/album/4XorEyilYOodayD0mbzTcq"
-      },
-      "artists": [
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 253600,
-      "name": "No vuelvo m\u00e1s",
-      "url": "https://open.spotify.com/track/5cSOp6pWzatLGzCSuFDh0u"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -1515,6 +1495,42 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
+        "name": "Teoria Espacial",
+        "url": "https://open.spotify.com/album/4Xu9USd1LkXxBAu2GETnqi"
+      },
+      "artists": [
+        {
+          "name": "Barbi Recanati",
+          "url": "https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD"
+        }
+      ],
+      "duration_ms": 230833,
+      "name": "Teoria Espacial",
+      "url": "https://open.spotify.com/track/5VizzlCG9Dk90xauIBB0Ym"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
+        "name": "Canciones Sin Ropa",
+        "url": "https://open.spotify.com/album/0L9cqmT0jwp00pj6r49Ttj"
+      },
+      "artists": [
+        {
+          "name": "Pedrina y Rio",
+          "url": "https://open.spotify.com/artist/6JkcXRzUF8IXV78ATWAHRK"
+        },
+        {
+          "name": "Pedrina",
+          "url": "https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1"
+        }
+      ],
+      "duration_ms": 213487,
+      "name": "Enamorada",
+      "url": "https://open.spotify.com/track/5crUoUnVrtjHaHHhDQuf8z"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
         "name": "O Marineros",
         "url": "https://open.spotify.com/album/6K5aPsu50qj7aoM32GiO8I"
       },
@@ -1543,22 +1559,6 @@
       "duration_ms": 205346,
       "name": "No Longer Fun",
       "url": "https://open.spotify.com/track/2gPCcMmgh2qM6oaKefJ6tW"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
-        "name": "Teoria Espacial",
-        "url": "https://open.spotify.com/album/4Xu9USd1LkXxBAu2GETnqi"
-      },
-      "artists": [
-        {
-          "name": "Barbi Recanati",
-          "url": "https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD"
-        }
-      ],
-      "duration_ms": 230833,
-      "name": "Teoria Espacial",
-      "url": "https://open.spotify.com/track/5VizzlCG9Dk90xauIBB0Ym"
     },
     {
       "added_at": "2024-06-14 04:59:00",

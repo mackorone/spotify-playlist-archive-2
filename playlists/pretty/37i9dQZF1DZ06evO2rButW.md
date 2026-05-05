@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2rButW.md) - [plain]
 
 > This is Mon Laferte\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 783,092 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 783,221 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,11 +14,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2rButW.md) - [plain]
 | 4 | [Supermercado](https://open.spotify.com/track/7L72ZKa8nvYc0SvrYkhoux) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [1940 Carmen](https://open.spotify.com/album/7hWWrisl7wIunR9dKiyjEL) | 3:34 |
 | 5 | [Mi Buen Amor](https://open.spotify.com/track/28UP90XhjCovLtieduYr9P) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr), [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT) | [La Trenza](https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE) | 3:47 |
 | 6 | [Si Tú Me Quisieras](https://open.spotify.com/track/7EySX8ldJHoeWjJhJyZ8Tq) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Mon Laferte \(Vol\. 1\)](https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0) | 3:22 |
-| 7 | [Otra Noche de Llorar](https://open.spotify.com/track/4oP6sZWbkC3fJghTsyOgkZ) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [FEMME FATALE](https://open.spotify.com/album/7q2GxttTFDWOihvnSWdwWw) | 3:39 |
+| 7 | [Melancolía](https://open.spotify.com/track/5r9xrWqBtkiSFeEBk4VibB) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [FEMME FATALE](https://open.spotify.com/album/7q2GxttTFDWOihvnSWdwWw) | 3:50 |
 | 8 | [Química Mayor](https://open.spotify.com/track/1G9wM0DIuyxn0m0QeENIkl) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [1940 Carmen](https://open.spotify.com/album/7hWWrisl7wIunR9dKiyjEL) | 3:51 |
 | 9 | [Pa’ Dónde Se Fue](https://open.spotify.com/track/2TPZomzhdB7toV3cx0hj08) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [La Trenza](https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE) | 4:09 |
 | 10 | [Amor Completo](https://open.spotify.com/track/00kIWJu9IHiQ6i0qJAU0Z9) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Mon Laferte \(Vol\. 1\)](https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0) | 4:01 |
-| 11 | [Melancolía](https://open.spotify.com/track/5r9xrWqBtkiSFeEBk4VibB) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [FEMME FATALE](https://open.spotify.com/album/7q2GxttTFDWOihvnSWdwWw) | 3:50 |
+| 11 | [Otra Noche de Llorar](https://open.spotify.com/track/4oP6sZWbkC3fJghTsyOgkZ) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [FEMME FATALE](https://open.spotify.com/album/7q2GxttTFDWOihvnSWdwWw) | 3:39 |
 | 12 | [Antes De Ti](https://open.spotify.com/track/5IkOnAKGDJT5M8KpFIHzsd) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Antes De Ti](https://open.spotify.com/album/0r2OaEU4I8vfWw4hALciVN) | 4:02 |
 | 13 | [Flaco](https://open.spotify.com/track/3HMYsT5mnqQ57tVjvqlETb) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [La Trenza](https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE) | 4:16 |
 | 14 | [Rue Vieille Du Temple \- Live](https://open.spotify.com/track/3a9KZagWgkTU2YSsCtlMRl) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Metrópolis \(Live\)](https://open.spotify.com/album/6tfg5rWLaauuz4b9009iQT) | 3:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2rButW.md) - [plain]
 | 49 | [Algo Es Mejor](https://open.spotify.com/track/5GB8RBBzQLojlzQXtABIRp) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [1940 Carmen](https://open.spotify.com/album/7hWWrisl7wIunR9dKiyjEL) | 4:00 |
 | 50 | [Vuelve](https://open.spotify.com/track/4cVXTKRTbV6UGEhXOQNV8d) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [JuanesTeban](https://open.spotify.com/album/5iAsaLrEdtuC40rR2LbgbU) | 2:55 |
 
-Snapshot ID: `afU+gAAAAADDHn66VH1Wo+uNiOaLSV2H`
+Snapshot ID: `afaQAAAAAAD1YQo0/sifXkm3H16V4Arq`

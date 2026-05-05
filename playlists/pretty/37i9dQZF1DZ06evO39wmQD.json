@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afU+gAAAAABK7gcPiGozreVIUoMx1qY1",
+  "snapshot_id": "afaQAAAAAAA1cA8IHMuQOGjBeRocqzP6",
   "tracks": [
     {
       "added_at": null,
@@ -594,15 +594,11 @@
         {
           "name": "Auli'i Cravalho",
           "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
-        },
-        {
-          "name": "Manny Jacinto",
-          "url": "https://open.spotify.com/artist/1fGRFzOGmJH0BtpXvQ8NPz"
         }
       ],
-      "duration_ms": 88284,
-      "name": "You Fit Me Perfectly",
-      "url": "https://open.spotify.com/track/1J7H4msE4xhXAdCNPMfB6i"
+      "duration_ms": 178166,
+      "name": "The Future's in My Hands - Theme from \"Hailey's On It!\"",
+      "url": "https://open.spotify.com/track/2EDhyd2FMEeV1P0iwA1eWt"
     },
     {
       "added_at": null,
@@ -686,11 +682,15 @@
         {
           "name": "Auli'i Cravalho",
           "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        },
+        {
+          "name": "Manny Jacinto",
+          "url": "https://open.spotify.com/artist/1fGRFzOGmJH0BtpXvQ8NPz"
         }
       ],
-      "duration_ms": 178166,
-      "name": "The Future's in My Hands - Theme from \"Hailey's On It!\"",
-      "url": "https://open.spotify.com/track/2EDhyd2FMEeV1P0iwA1eWt"
+      "duration_ms": 88284,
+      "name": "You Fit Me Perfectly",
+      "url": "https://open.spotify.com/track/1J7H4msE4xhXAdCNPMfB6i"
     },
     {
       "added_at": null,

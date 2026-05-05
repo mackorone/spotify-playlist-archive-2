@@ -2,38 +2,38 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 
 ### [GLOW](https://open.spotify.com/playlist/37i9dQZF1DX3LyU0mhfqgP)
 
-> Songs from LGBTQIA+ artists\. Cover: Milune
+> Songs from LGBTQIA+ artists\. Cover: Ouineta
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,074,059 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,074,020 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [SWITCH](https://open.spotify.com/track/2WeWR36jTi4GKAYu36lPUb) | [Milune](https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe) | [SWITCH](https://open.spotify.com/album/5m2RiG98LyHcsFaXmmafjn) | 2:41 |
+| 1 | [Evil Ouineta](https://open.spotify.com/track/0iAWAAmntI83pzhNEeaTEC) | [Ouineta](https://open.spotify.com/artist/3a1trTgNtHPigdFxMGg1e3) | [Ouineta Verificada](https://open.spotify.com/album/5lMyr087un4jnw6KUKqTus) | 2:50 |
 | 2 | [CRANK](https://open.spotify.com/track/6eqQLOOiqBnrwKQEzXoHll) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [WOR$T GIRL IN AMERICA](https://open.spotify.com/album/5siV9C6eK0NpAqER2FfCVA) | 2:55 |
-| 3 | [A Different Corner](https://open.spotify.com/track/7bt4SUQM5Mh6CIlFLkXHdn) | [Nakhane](https://open.spotify.com/artist/2nrShcJFP8D5bQT8RgdBhH) | [A Different Corner](https://open.spotify.com/album/04KqIOGtMv9uJkagkupONe) | 3:59 |
-| 4 | [UNCANNY VALLEY](https://open.spotify.com/track/5CTcF00NFuaDfuwzpQBZ0I) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [HADES](https://open.spotify.com/album/7jwikgbD6e5Oht9gJzaR3l) | 3:16 |
-| 5 | [halfway to Hanna's](https://open.spotify.com/track/7uHGSKUBi948VP3Y9FmGMe) | [joel](https://open.spotify.com/artist/01iqB1OLOnd5sNm6wo1jSR) | [world's worst cowboy](https://open.spotify.com/album/4OYxKkGiz1GxJRh9dUJr3l) | 3:38 |
-| 6 | [I'm Crying, Are You?](https://open.spotify.com/track/5Gxcn52HxfnJ5PON6N5OeZ) | [August Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [I'm Crying, Are You?](https://open.spotify.com/album/3lbMAsFE6E9q2apfBnNWjY) | 3:00 |
-| 7 | [Tractor Beam](https://open.spotify.com/track/6wZePFKufqT4ZRQwTY3TiH) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Ricochet](https://open.spotify.com/album/5b7UrNnuckYDfCp6ZW0Sji) | 3:34 |
-| 8 | [idea 1](https://open.spotify.com/track/3ZTKg748vW7Zrll3wzwjJy) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [idea 1](https://open.spotify.com/album/0d0V3ranIJdJ0RjSo4Q7Qm) | 3:25 |
-| 9 | [Responso](https://open.spotify.com/track/32OBrzQDUYNhaWY4GzRXwm) | [IOLANDA](https://open.spotify.com/artist/37VYsW0OfWchi5qpCDOv1b) | [Responso](https://open.spotify.com/album/4kJa2LZOab7gZOsfeFJQ2p) | 2:52 |
-| 10 | [Heaven](https://open.spotify.com/track/4zgFh0ZXkVcyXpJbteYviU) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Heaven](https://open.spotify.com/album/3sfKUG1wBGK0SwFQKltZtr) | 4:26 |
-| 11 | [Hold It For Her](https://open.spotify.com/track/3x8ROvzmBSnxj6t1LELGwf) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Porcelain](https://open.spotify.com/album/0dkYcY21sT5qZ1cHkD8Llw) | 3:48 |
-| 12 | [Love Freely](https://open.spotify.com/track/3tzRMtdyVxmfPCmOS6vD9q) | [Kristian Kristensen](https://open.spotify.com/artist/75ZTlOo6olxm9thcXVh6Ta) | [Love Freely](https://open.spotify.com/album/6D8D2LMhVQ1XSk8atnhWgs) | 3:52 |
-| 13 | [Tan Lines](https://open.spotify.com/track/5oDT7KAJxuOy4kvat3bzlf) | [That Kid](https://open.spotify.com/artist/7mUQPmZ6OzwtJEEXDOqyOY) | [Tan Lines](https://open.spotify.com/album/5K8JMSph1hfovoB0LoHvGo) | 2:38 |
-| 14 | [Folklore](https://open.spotify.com/track/1Ve9sqEU0LCpDh6L2RbtWl) | [Paula Maffia](https://open.spotify.com/artist/4soieU4IFUQEcYULczxzFa) | [Folklore](https://open.spotify.com/album/0zy0pgyPmIsHV4gPJVjfiS) | 3:58 |
-| 15 | [Dressin'](https://open.spotify.com/track/0fR98swBUtvJP3p8gyQAVR) | [Priyanka](https://open.spotify.com/artist/1RSalo3q49NotNwKB2jtjO) | [Dressin'](https://open.spotify.com/album/6uL9jAno7bic63OfT8ZN2e) | 2:26 |
-| 16 | [Bitter Tea](https://open.spotify.com/track/1SDajggyX8SjcW2kg3iS5P) | [Dope Saint Jude](https://open.spotify.com/artist/47e6jtFUUl53YpTpvzOOMN) | [I Said What I Said](https://open.spotify.com/album/6BRyewEnSwMnpFiOJrNVuH) | 3:17 |
-| 17 | [Decilo](https://open.spotify.com/track/1VwdEHTP3qy6bNlEtmqaJq) | [Melanie Williams](https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31), [MEIEN](https://open.spotify.com/artist/7ciZlFBa0GrlGHL2jfeKGU), [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [MEIEN](https://open.spotify.com/album/4bczaWboiY4MjOWuou1zFS) | 3:13 |
-| 18 | [Jealous](https://open.spotify.com/track/6kMwpe62x72ozIAGRLRR0u) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [Gold Star Baby](https://open.spotify.com/album/5f6o1GrIrDjFnuxDd0c4GK) | 2:25 |
-| 19 | [Safe Ground](https://open.spotify.com/track/3Bt0GlzLP4O0UUyii2FmzV) | [Katie Tupper](https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW) | [Safe Ground](https://open.spotify.com/album/0o0F5wVfqU1Vld0peDnPzA) | 3:13 |
-| 20 | [Wannabeher](https://open.spotify.com/track/1484JjdWM2WvUlYZi77E8G) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Wannabeher](https://open.spotify.com/album/01oCHTrPyBx1Ut5hLHjZn9) | 2:34 |
-| 21 | [Griever](https://open.spotify.com/track/0kGmMyiYwIfkYdDOHPzYiS) | [Avery Cochrane](https://open.spotify.com/artist/2I0aPV0zqzG1LKhsMaKFDR) | [Male Validation and Other Drugs](https://open.spotify.com/album/2n0EAYrWThiwLndOZZ95dM) | 2:31 |
-| 22 | [nie zrozumiesz!](https://open.spotify.com/track/62w0zy7AVdRHvgOZJM0C1K) | [villaz](https://open.spotify.com/artist/7Dgc5VSOtvobxlOOmNsvJp), [stas kropka](https://open.spotify.com/artist/7mwWs7UzQdHaTvI66p99x1), [connorr](https://open.spotify.com/artist/09kC6DXxyZ9TMr2THWZLyI) | [nocami, do świtu](https://open.spotify.com/album/1xdIsORRS3nfikdVFb42i8) | 3:05 |
-| 23 | [Same Life](https://open.spotify.com/track/10KS3LMV89Agd6NBLfnvHO) | [GUS](https://open.spotify.com/artist/3SdiTECGpryAOC4TKsA2ij) | [Same Life](https://open.spotify.com/album/46mxte5lGijXlFCWSksOfu) | 3:18 |
-| 24 | [6 \(O Meu Sangue\)](https://open.spotify.com/track/4unP9bGmcZYsRRCGJTPmyu) | [Filipe Sambado](https://open.spotify.com/artist/4DBnj3zFrGcRiFME23yT0q) | [5678](https://open.spotify.com/album/4kmTzxgXt1cSBlem21sEnj) | 2:24 |
-| 25 | [Shot In The Dark](https://open.spotify.com/track/2EbdsGq1E2fySR2iACw3ur) | [Cole Redding](https://open.spotify.com/artist/3nU2FtGgLXCVBK4i1YXwQR) | [Shot In The Dark](https://open.spotify.com/album/7tjCQmc3sGfCtXc3XcZ5FN) | 2:32 |
-| 26 | [Evil Ouineta](https://open.spotify.com/track/0iAWAAmntI83pzhNEeaTEC) | [Ouineta](https://open.spotify.com/artist/3a1trTgNtHPigdFxMGg1e3) | [Ouineta Verificada](https://open.spotify.com/album/5lMyr087un4jnw6KUKqTus) | 2:50 |
+| 3 | [SWITCH](https://open.spotify.com/track/2WeWR36jTi4GKAYu36lPUb) | [Milune](https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe) | [SWITCH](https://open.spotify.com/album/5m2RiG98LyHcsFaXmmafjn) | 2:41 |
+| 4 | [A Different Corner](https://open.spotify.com/track/7bt4SUQM5Mh6CIlFLkXHdn) | [Nakhane](https://open.spotify.com/artist/2nrShcJFP8D5bQT8RgdBhH) | [A Different Corner](https://open.spotify.com/album/04KqIOGtMv9uJkagkupONe) | 3:59 |
+| 5 | [UNCANNY VALLEY](https://open.spotify.com/track/5CTcF00NFuaDfuwzpQBZ0I) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [HADES](https://open.spotify.com/album/7jwikgbD6e5Oht9gJzaR3l) | 3:16 |
+| 6 | [halfway to Hanna's](https://open.spotify.com/track/7uHGSKUBi948VP3Y9FmGMe) | [joel](https://open.spotify.com/artist/01iqB1OLOnd5sNm6wo1jSR) | [world's worst cowboy](https://open.spotify.com/album/4OYxKkGiz1GxJRh9dUJr3l) | 3:38 |
+| 7 | [I'm Crying, Are You?](https://open.spotify.com/track/5Gxcn52HxfnJ5PON6N5OeZ) | [August Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [I'm Crying, Are You?](https://open.spotify.com/album/3lbMAsFE6E9q2apfBnNWjY) | 3:00 |
+| 8 | [Tractor Beam](https://open.spotify.com/track/6wZePFKufqT4ZRQwTY3TiH) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Ricochet](https://open.spotify.com/album/5b7UrNnuckYDfCp6ZW0Sji) | 3:34 |
+| 9 | [idea 1](https://open.spotify.com/track/3ZTKg748vW7Zrll3wzwjJy) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [idea 1](https://open.spotify.com/album/0d0V3ranIJdJ0RjSo4Q7Qm) | 3:25 |
+| 10 | [Responso](https://open.spotify.com/track/32OBrzQDUYNhaWY4GzRXwm) | [IOLANDA](https://open.spotify.com/artist/37VYsW0OfWchi5qpCDOv1b) | [Responso](https://open.spotify.com/album/4kJa2LZOab7gZOsfeFJQ2p) | 2:52 |
+| 11 | [Heaven](https://open.spotify.com/track/4zgFh0ZXkVcyXpJbteYviU) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Heaven](https://open.spotify.com/album/3sfKUG1wBGK0SwFQKltZtr) | 4:26 |
+| 12 | [Hold It For Her](https://open.spotify.com/track/3x8ROvzmBSnxj6t1LELGwf) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Porcelain](https://open.spotify.com/album/0dkYcY21sT5qZ1cHkD8Llw) | 3:48 |
+| 13 | [Love Freely](https://open.spotify.com/track/3tzRMtdyVxmfPCmOS6vD9q) | [Kristian Kristensen](https://open.spotify.com/artist/75ZTlOo6olxm9thcXVh6Ta) | [Love Freely](https://open.spotify.com/album/6D8D2LMhVQ1XSk8atnhWgs) | 3:52 |
+| 14 | [Tan Lines](https://open.spotify.com/track/5oDT7KAJxuOy4kvat3bzlf) | [That Kid](https://open.spotify.com/artist/7mUQPmZ6OzwtJEEXDOqyOY) | [Tan Lines](https://open.spotify.com/album/5K8JMSph1hfovoB0LoHvGo) | 2:38 |
+| 15 | [Folklore](https://open.spotify.com/track/1Ve9sqEU0LCpDh6L2RbtWl) | [Paula Maffia](https://open.spotify.com/artist/4soieU4IFUQEcYULczxzFa) | [Folklore](https://open.spotify.com/album/0zy0pgyPmIsHV4gPJVjfiS) | 3:58 |
+| 16 | [Dressin'](https://open.spotify.com/track/0fR98swBUtvJP3p8gyQAVR) | [Priyanka](https://open.spotify.com/artist/1RSalo3q49NotNwKB2jtjO) | [Dressin'](https://open.spotify.com/album/6uL9jAno7bic63OfT8ZN2e) | 2:26 |
+| 17 | [Bitter Tea](https://open.spotify.com/track/1SDajggyX8SjcW2kg3iS5P) | [Dope Saint Jude](https://open.spotify.com/artist/47e6jtFUUl53YpTpvzOOMN) | [I Said What I Said](https://open.spotify.com/album/6BRyewEnSwMnpFiOJrNVuH) | 3:17 |
+| 18 | [Decilo](https://open.spotify.com/track/1VwdEHTP3qy6bNlEtmqaJq) | [Melanie Williams](https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31), [MEIEN](https://open.spotify.com/artist/7ciZlFBa0GrlGHL2jfeKGU), [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [MEIEN](https://open.spotify.com/album/4bczaWboiY4MjOWuou1zFS) | 3:13 |
+| 19 | [Jealous](https://open.spotify.com/track/6kMwpe62x72ozIAGRLRR0u) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [Gold Star Baby](https://open.spotify.com/album/5f6o1GrIrDjFnuxDd0c4GK) | 2:25 |
+| 20 | [Safe Ground](https://open.spotify.com/track/3Bt0GlzLP4O0UUyii2FmzV) | [Katie Tupper](https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW) | [Safe Ground](https://open.spotify.com/album/0o0F5wVfqU1Vld0peDnPzA) | 3:13 |
+| 21 | [Wannabeher](https://open.spotify.com/track/1484JjdWM2WvUlYZi77E8G) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Wannabeher](https://open.spotify.com/album/01oCHTrPyBx1Ut5hLHjZn9) | 2:34 |
+| 22 | [Griever](https://open.spotify.com/track/0kGmMyiYwIfkYdDOHPzYiS) | [Avery Cochrane](https://open.spotify.com/artist/2I0aPV0zqzG1LKhsMaKFDR) | [Male Validation and Other Drugs](https://open.spotify.com/album/2n0EAYrWThiwLndOZZ95dM) | 2:31 |
+| 23 | [nie zrozumiesz!](https://open.spotify.com/track/62w0zy7AVdRHvgOZJM0C1K) | [villaz](https://open.spotify.com/artist/7Dgc5VSOtvobxlOOmNsvJp), [stas kropka](https://open.spotify.com/artist/7mwWs7UzQdHaTvI66p99x1), [connorr](https://open.spotify.com/artist/09kC6DXxyZ9TMr2THWZLyI) | [nocami, do świtu](https://open.spotify.com/album/1xdIsORRS3nfikdVFb42i8) | 3:05 |
+| 24 | [Same Life](https://open.spotify.com/track/10KS3LMV89Agd6NBLfnvHO) | [GUS](https://open.spotify.com/artist/3SdiTECGpryAOC4TKsA2ij) | [Same Life](https://open.spotify.com/album/46mxte5lGijXlFCWSksOfu) | 3:18 |
+| 25 | [6 \(O Meu Sangue\)](https://open.spotify.com/track/4unP9bGmcZYsRRCGJTPmyu) | [Filipe Sambado](https://open.spotify.com/artist/4DBnj3zFrGcRiFME23yT0q) | [5678](https://open.spotify.com/album/4kmTzxgXt1cSBlem21sEnj) | 2:24 |
+| 26 | [Shot In The Dark](https://open.spotify.com/track/2EbdsGq1E2fySR2iACw3ur) | [Cole Redding](https://open.spotify.com/artist/3nU2FtGgLXCVBK4i1YXwQR) | [Shot In The Dark](https://open.spotify.com/album/7tjCQmc3sGfCtXc3XcZ5FN) | 2:32 |
 | 27 | [CROCO](https://open.spotify.com/track/0XOPtbmm2xAAocenNTPzZR) | [Olivia Addams](https://open.spotify.com/artist/56o9EclNeDcE7p8txENfLn) | [CROCO](https://open.spotify.com/album/5ZtZOLqn1enQcfHNJMJ9QH) | 2:10 |
 | 28 | [Ballerina](https://open.spotify.com/track/4e7vjOrdM6uMm9tRZQA414) | [JJ](https://open.spotify.com/artist/4W9cXg9c6w38cHSUfUWPcP) | [Ballerina](https://open.spotify.com/album/7aAuZXSEFbOa9reM4U7eX7) | 3:43 |
 | 29 | [Lemonade and Cyanide](https://open.spotify.com/track/71ZAwuJfQ6p1wCMLOqyh93) | [DEZI](https://open.spotify.com/artist/3X9hlPTLBIZ9pEONCQnjTm) | [Lemonade and Cyanide](https://open.spotify.com/album/3VzTpNpktjZMwkpxI8scrk) | 3:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 49 | [небо](https://open.spotify.com/track/1irFslQQnNQvplilvjjqup) | [MELOVIN](https://open.spotify.com/artist/4nym9MDEPnWmPfuWwsyKeL) | [MRoom13 \(Deluxe Edition\)](https://open.spotify.com/album/6jG5iVKJ9D2qtCeuBlvLNs) | 2:44 |
 | 50 | [Big Titties \(Little Titties\)](https://open.spotify.com/track/4NnUHyX1Ne2ZxXUU6NC8t5) | [Djanaba](https://open.spotify.com/artist/4bxUDYFtReRPY0uBnNyqFr), [Beks](https://open.spotify.com/artist/3yPTH9Cm5CqJUBvZ2PIOVW) | [Doin 2 Me](https://open.spotify.com/album/1YLhVGIipGLapMe9RAcYKv) | 2:10 |
 
-Snapshot ID: `AAAAAErVT/YUKlFlTENKfJyDpQh06OFw`
+Snapshot ID: `AAAAACXnlYnhMoeuKkuNb3QBd2GWKZ9d`

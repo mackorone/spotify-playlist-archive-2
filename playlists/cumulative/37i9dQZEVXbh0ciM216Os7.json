@@ -1524,7 +1524,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 125874,
       "name": ":( again :)",
       "url": "https://open.spotify.com/track/3c58iYS20gg5d6rSrVgd5r"
@@ -4474,7 +4474,7 @@
       ],
       "date_added": "2026-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 241053,
       "name": "ATLAS",
       "url": "https://open.spotify.com/track/6eexx60SxFCVqNQopwqA5k"
@@ -10179,6 +10179,28 @@
     },
     {
       "album": {
+        "name": "IT'S BEEN AWFUL",
+        "url": "https://open.spotify.com/album/2ZDgH9uDdjRFNdjEyQCZtH"
+      },
+      "artists": [
+        {
+          "name": "Isaiah Rashad",
+          "url": "https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM"
+        },
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228872,
+      "name": "CAMERAS",
+      "url": "https://open.spotify.com/track/7aKPbNFx51OwUZBbZ7pqlj"
+    },
+    {
+      "album": {
         "name": "Trip Tape III",
         "url": "https://open.spotify.com/album/2msYWXAkZvkbOBUHLs3QcM"
       },
@@ -14568,7 +14590,7 @@
       ],
       "date_added": "2026-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 129634,
       "name": "Dear Younger Me",
       "url": "https://open.spotify.com/track/01IpRJRofGOJ7XDB5SCN7E"
@@ -26342,7 +26364,7 @@
       ],
       "date_added": "2026-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 189047,
       "name": "Golden",
       "url": "https://open.spotify.com/track/5URsT6B9lcgk0M8av28q4u"
@@ -39557,6 +39579,24 @@
     },
     {
       "album": {
+        "name": "Love Me",
+        "url": "https://open.spotify.com/album/7t0GsYTsTodsWg3Oyuhx4r"
+      },
+      "artists": [
+        {
+          "name": "The Pretty Reckless",
+          "url": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263279,
+      "name": "Love Me",
+      "url": "https://open.spotify.com/track/6P8GSsFudw7kcEmSyUT8Bb"
+    },
+    {
+      "album": {
         "name": "Love Songs",
         "url": "https://open.spotify.com/album/4bPgrWgCXGtFkieGEJRioB"
       },
@@ -44880,6 +44920,32 @@
       "duration_ms": 152013,
       "name": "No Bad News (feat. Kanye West)",
       "url": "https://open.spotify.com/track/5XsAOpPWPJLrwC9sgtigTp"
+    },
+    {
+      "album": {
+        "name": "NO BATID\u00c3O (W&W REMIX)",
+        "url": "https://open.spotify.com/album/7IqK13JbMT6ZKJAhrsOBBc"
+      },
+      "artists": [
+        {
+          "name": "ZXKAI",
+          "url": "https://open.spotify.com/artist/5tIkxADHN80ca0K6HCpWIt"
+        },
+        {
+          "name": "slxughter",
+          "url": "https://open.spotify.com/artist/1M02J1PLobtQYok93DEvVa"
+        },
+        {
+          "name": "W&W",
+          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156996,
+      "name": "NO BATID\u00c3O - W&W REMIX",
+      "url": "https://open.spotify.com/track/1Wm1I7wQ8OoYTiHxHsljRH"
     },
     {
       "album": {
@@ -51390,7 +51456,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-01",
+      "date_removed": null,
       "duration_ms": 1166904,
       "name": "Prison from Einstein on the Beach (arranged for Two Pianos)",
       "url": "https://open.spotify.com/track/0pgA6dDBQWT4CeTsve9wyD"
@@ -51606,7 +51672,7 @@
       ],
       "date_added": "2026-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 886034,
       "name": "Protest from Satyagraha (arranged for Two Pianos)",
       "url": "https://open.spotify.com/track/1fKeRYlYHNpqanDN86hdd2"
@@ -52070,6 +52136,28 @@
     {
       "album": {
         "name": "Brightside",
+        "url": "https://open.spotify.com/album/1i3CrWoE4leIYcXYqVt8fk"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        },
+        {
+          "name": "Big Boi",
+          "url": "https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247867,
+      "name": "Racism Is a Killa (feat. Big Boi)",
+      "url": "https://open.spotify.com/track/00LWbZ6vxawXdu1CVv91lX"
+    },
+    {
+      "album": {
+        "name": "Brightside",
         "url": "https://open.spotify.com/album/4aJHr1kwmCQYnOrkYUc4gK"
       },
       "artists": [
@@ -52084,7 +52172,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 247867,
       "name": "Racism Is A Killa (feat. Big Boi)",
       "url": "https://open.spotify.com/track/2gEbs4rKfNzmDBEuv92S2t"
@@ -56026,7 +56114,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 242541,
       "name": "Senses ft. Sampha",
       "url": "https://open.spotify.com/track/53j4dcm9Jn47sFJx8nVz5X"
@@ -57388,7 +57476,7 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 312824,
       "name": "Sinnerman - Remix",
       "url": "https://open.spotify.com/track/2iHUw3XgD9coFjTFHvcodM"
@@ -66654,7 +66742,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 195320,
       "name": "This Thing We Call Love",
       "url": "https://open.spotify.com/track/1soDkGmh7QwHQE2UcNybUV"
@@ -68080,6 +68168,28 @@
       "duration_ms": 247094,
       "name": "Trinity - Mono Version",
       "url": "https://open.spotify.com/track/0r6d8zHVOGbPONSEyraqcX"
+    },
+    {
+      "album": {
+        "name": "From Takoma With Love",
+        "url": "https://open.spotify.com/album/71c0PWXhJIn5mj5hyiUhrz"
+      },
+      "artists": [
+        {
+          "name": "Oddisee",
+          "url": "https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC"
+        },
+        {
+          "name": "Heno.",
+          "url": "https://open.spotify.com/artist/3mr6jeVpPIXBp8IMMb60aD"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138920,
+      "name": "Trish Status",
+      "url": "https://open.spotify.com/track/61KfQrwYsZuOuKteYFPYEE"
     },
     {
       "album": {
@@ -71082,6 +71192,24 @@
       "duration_ms": 158174,
       "name": "Waterslides",
       "url": "https://open.spotify.com/track/1SBfaO3swtjh8dV07MExuP"
+    },
+    {
+      "album": {
+        "name": "Watery Road",
+        "url": "https://open.spotify.com/album/7MK12aHPkHe1CrKs1L152I"
+      },
+      "artists": [
+        {
+          "name": "JW Francis",
+          "url": "https://open.spotify.com/artist/11DpUQDuQFFuGU8VXny3K6"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167876,
+      "name": "Watery Road",
+      "url": "https://open.spotify.com/track/1v0ui5crCRDpaMKUrLTSab"
     },
     {
       "album": {

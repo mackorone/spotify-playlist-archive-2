@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZCBBm.md) - [plain]
 
 > This is The Used\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,249 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,250 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,11 +29,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZCBBm.md) - [plain]
 | 19 | [Hospital](https://open.spotify.com/track/6PSRgNVdVo7PeiDzOzzDsD) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Lies for the Liars](https://open.spotify.com/album/2UTLJA4Rxsth81uNh4Q6ox) | 2:56 |
 | 20 | [I'm a Fake](https://open.spotify.com/track/5li1sKlA0UhTk2rY0JIVUv) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [In Love and Death](https://open.spotify.com/album/10Mw53MGdbK8KjIhBM0Wx2) | 4:06 |
 | 21 | [Poetic Tragedy](https://open.spotify.com/track/58sdfzX722CMoU7m0s5dUi) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [The Used](https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv) | 3:44 |
-| 22 | [Fuck You](https://open.spotify.com/track/6gKlgCnExEWpuHJg0FP3Bq) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [MEDZ](https://open.spotify.com/album/4dSpScBjwvvoCtLRzSnnbb) | 2:57 |
+| 22 | [MEDZ](https://open.spotify.com/track/02GBAcnrvBhiQiXcauxBE1) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [MEDZ](https://open.spotify.com/album/4dSpScBjwvvoCtLRzSnnbb) | 2:45 |
 | 23 | [Earthquake](https://open.spotify.com/track/6yvlln6XHkgcZzKxMelh1X) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Lies for the Liars](https://open.spotify.com/album/2UTLJA4Rxsth81uNh4Q6ox) | 3:29 |
 | 24 | [Listening](https://open.spotify.com/track/528rajP3OyhornDwrsQrt4) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [In Love and Death](https://open.spotify.com/album/10Mw53MGdbK8KjIhBM0Wx2) | 2:46 |
 | 25 | [Empty With You](https://open.spotify.com/track/7caJcFZTtLzy0ZSol1AXKH) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Artwork](https://open.spotify.com/album/0jfPsx2EKO0kvWcuYGNNTI) | 3:23 |
-| 26 | [MEDZ](https://open.spotify.com/track/02GBAcnrvBhiQiXcauxBE1) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [MEDZ](https://open.spotify.com/album/4dSpScBjwvvoCtLRzSnnbb) | 2:45 |
+| 26 | [Fuck You](https://open.spotify.com/track/6gKlgCnExEWpuHJg0FP3Bq) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [MEDZ](https://open.spotify.com/album/4dSpScBjwvvoCtLRzSnnbb) | 2:57 |
 | 27 | [Liar Liar \(Burn in Hell\)](https://open.spotify.com/track/68A7cJ9HuOOwrilOhwOW5D) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Lies for the Liars](https://open.spotify.com/album/2UTLJA4Rxsth81uNh4Q6ox) | 2:52 |
 | 28 | [Paradise Lost, a poem by John Milton](https://open.spotify.com/track/0brRAViWRg60fyrCynTPxl) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Heartwork](https://open.spotify.com/album/7nuTopxM42gzBYG7iPbAGp) | 2:47 |
 | 29 | [Giving Up](https://open.spotify.com/track/5XYoKiujAKGiHwnU2G0P7C) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Toxic Positivity](https://open.spotify.com/album/3eFVX7tq5tCU0uqol29fis) | 3:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZCBBm.md) - [plain]
 | 49 | [The Lighthouse](https://open.spotify.com/track/5rnWJiqTb5mN5Cr3sKtxeU) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL), [Mark Hoppus](https://open.spotify.com/artist/0FOYGJujASE1pCw5WNHf0g) | [Heartwork](https://open.spotify.com/album/7nuTopxM42gzBYG7iPbAGp) | 2:51 |
 | 50 | [I Come Alive](https://open.spotify.com/track/006JXPV4FsK49ehd5lrWYG) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Vulnerable](https://open.spotify.com/album/4Onu4JUb8cK11LGvVOZ4N8) | 3:16 |
 
-Snapshot ID: `afU+gAAAAABnShbGffwm6JO3E3+nOPBq`
+Snapshot ID: `afaQAAAAAAB9zGgLzH+MkxispiIjfANQ`

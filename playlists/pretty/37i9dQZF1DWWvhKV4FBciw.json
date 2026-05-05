@@ -1,6 +1,6 @@
 {
   "description": "A selection of the greatest funk & soul records ever made.",
-  "num_followers": 1885807,
+  "num_followers": 1885916,
   "original_name": "Funk & Soul Classics",
   "owner": {
     "name": "Spotify",
@@ -471,22 +471,6 @@
     {
       "added_at": "2024-07-12 16:10:47",
       "album": {
-        "name": "Dreamer",
-        "url": "https://open.spotify.com/album/5OkHt7JZ6HSkJH359y2H31"
-      },
-      "artists": [
-        {
-          "name": "Bobby \"Blue\" Bland",
-          "url": "https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj"
-        }
-      ],
-      "duration_ms": 233560,
-      "name": "Ain't No Love In The Heart Of The City - Single Version",
-      "url": "https://open.spotify.com/track/4qYHnP5AmKzXbJhciPV8si"
-    },
-    {
-      "added_at": "2024-07-12 16:10:47",
-      "album": {
         "name": "Higher And Higher",
         "url": "https://open.spotify.com/album/4OgYmImCWz3VK7At9GTWHN"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 179120,
       "name": "(Your Love Keeps Lifting Me) Higher & Higher",
       "url": "https://open.spotify.com/track/5qyq1H5OPMlfuvZQ1wQNo7"
+    },
+    {
+      "added_at": "2024-07-12 16:10:47",
+      "album": {
+        "name": "Dreamer",
+        "url": "https://open.spotify.com/album/5OkHt7JZ6HSkJH359y2H31"
+      },
+      "artists": [
+        {
+          "name": "Bobby \"Blue\" Bland",
+          "url": "https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj"
+        }
+      ],
+      "duration_ms": 233560,
+      "name": "Ain't No Love In The Heart Of The City - Single Version",
+      "url": "https://open.spotify.com/track/4qYHnP5AmKzXbJhciPV8si"
     },
     {
       "added_at": "2024-07-12 16:10:47",
@@ -751,22 +751,6 @@
     {
       "added_at": "2024-07-12 16:10:47",
       "album": {
-        "name": "The Soul Album",
-        "url": "https://open.spotify.com/album/3YKQkIPHtWGuvkBeVNIMhg"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 240800,
-      "name": "Cigarettes and Coffee",
-      "url": "https://open.spotify.com/track/4PFiLGx8jAzcAJxwPLUeZ9"
-    },
-    {
-      "added_at": "2024-07-12 16:10:47",
-      "album": {
         "name": "Midnight Mover: The Bobby Womack Story",
         "url": "https://open.spotify.com/album/7eVKCG0KD8FCvIlx8E1pBG"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 230506,
       "name": "Across 110th Street",
       "url": "https://open.spotify.com/track/2zyTP97uGsIc1C4KNNEkyn"
+    },
+    {
+      "added_at": "2024-07-12 16:10:47",
+      "album": {
+        "name": "The Soul Album",
+        "url": "https://open.spotify.com/album/3YKQkIPHtWGuvkBeVNIMhg"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 240800,
+      "name": "Cigarettes and Coffee",
+      "url": "https://open.spotify.com/track/4PFiLGx8jAzcAJxwPLUeZ9"
     },
     {
       "added_at": "2024-07-12 16:10:47",
@@ -911,18 +911,18 @@
     {
       "added_at": "2024-07-12 16:10:47",
       "album": {
-        "name": "The Meters",
-        "url": "https://open.spotify.com/album/1Nt14TE6bKZGzJrROip36y"
+        "name": "Wild And Peaceful",
+        "url": "https://open.spotify.com/album/3MRgojA0LfPka4RG7aRjsI"
       },
       "artists": [
         {
-          "name": "The Meters",
-          "url": "https://open.spotify.com/artist/2JRvXPGWiINrnJljNJhG5s"
+          "name": "Kool & The Gang",
+          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
         }
       ],
-      "duration_ms": 186853,
-      "name": "Cissy Strut",
-      "url": "https://open.spotify.com/track/0WSlOSMLJWoWUpWci9nnRb"
+      "duration_ms": 279933,
+      "name": "Hollywood Swinging",
+      "url": "https://open.spotify.com/track/6igsoAR6Co9u7Rq3U7mlOD"
     },
     {
       "added_at": "2024-07-12 16:10:47",
@@ -943,18 +943,18 @@
     {
       "added_at": "2024-07-12 16:10:47",
       "album": {
-        "name": "Wild And Peaceful",
-        "url": "https://open.spotify.com/album/3MRgojA0LfPka4RG7aRjsI"
+        "name": "The Meters",
+        "url": "https://open.spotify.com/album/1Nt14TE6bKZGzJrROip36y"
       },
       "artists": [
         {
-          "name": "Kool & The Gang",
-          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
+          "name": "The Meters",
+          "url": "https://open.spotify.com/artist/2JRvXPGWiINrnJljNJhG5s"
         }
       ],
-      "duration_ms": 279933,
-      "name": "Hollywood Swinging",
-      "url": "https://open.spotify.com/track/6igsoAR6Co9u7Rq3U7mlOD"
+      "duration_ms": 186853,
+      "name": "Cissy Strut",
+      "url": "https://open.spotify.com/track/0WSlOSMLJWoWUpWci9nnRb"
     },
     {
       "added_at": "2024-07-12 16:10:47",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2024-07-12 16:10:47",
       "album": {
-        "name": "I Can't Stand the Rain",
-        "url": "https://open.spotify.com/album/67Sjm7EwrWbnnyojmhP4KL"
-      },
-      "artists": [
-        {
-          "name": "Ann Peebles",
-          "url": "https://open.spotify.com/artist/5dM7jA0PXh0Ozz8LT2YOCB"
-        }
-      ],
-      "duration_ms": 150400,
-      "name": "I Can't Stand the Rain",
-      "url": "https://open.spotify.com/track/0CcL4kSHKIEwF3IW0BGgb6"
-    },
-    {
-      "added_at": "2024-07-12 16:10:47",
-      "album": {
         "name": "Curtis (Expanded Edition)",
         "url": "https://open.spotify.com/album/3tgJmEz0R0ZsRSrpwafp4R"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 535333,
       "name": "Move on Up - Extended Version",
       "url": "https://open.spotify.com/track/01gDLZsi0j5fWC28FLPNO8"
+    },
+    {
+      "added_at": "2024-07-12 16:10:47",
+      "album": {
+        "name": "I Can't Stand the Rain",
+        "url": "https://open.spotify.com/album/67Sjm7EwrWbnnyojmhP4KL"
+      },
+      "artists": [
+        {
+          "name": "Ann Peebles",
+          "url": "https://open.spotify.com/artist/5dM7jA0PXh0Ozz8LT2YOCB"
+        }
+      ],
+      "duration_ms": 150400,
+      "name": "I Can't Stand the Rain",
+      "url": "https://open.spotify.com/track/0CcL4kSHKIEwF3IW0BGgb6"
     },
     {
       "added_at": "2024-07-12 16:10:47",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2024-07-12 16:10:47",
       "album": {
-        "name": "I Love The Way You Love",
-        "url": "https://open.spotify.com/album/4dCm84vJLO30e0fiS3sgPi"
-      },
-      "artists": [
-        {
-          "name": "Betty Wright",
-          "url": "https://open.spotify.com/artist/0PDqlUGugF5Jt6DZyATvfz"
-        }
-      ],
-      "duration_ms": 169533,
-      "name": "Clean up Woman",
-      "url": "https://open.spotify.com/track/6uqTETWok9npbL4c9cuLVh"
-    },
-    {
-      "added_at": "2024-07-12 16:10:47",
-      "album": {
         "name": "Freedom Flight",
         "url": "https://open.spotify.com/album/7suTZDEkiDpzkouw300noM"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 239906,
       "name": "Strawberry Letter 23",
       "url": "https://open.spotify.com/track/4W8IEREeLldaSQyGXcZQ2I"
+    },
+    {
+      "added_at": "2024-07-12 16:10:47",
+      "album": {
+        "name": "I Love The Way You Love",
+        "url": "https://open.spotify.com/album/4dCm84vJLO30e0fiS3sgPi"
+      },
+      "artists": [
+        {
+          "name": "Betty Wright",
+          "url": "https://open.spotify.com/artist/0PDqlUGugF5Jt6DZyATvfz"
+        }
+      ],
+      "duration_ms": 169533,
+      "name": "Clean up Woman",
+      "url": "https://open.spotify.com/track/6uqTETWok9npbL4c9cuLVh"
     },
     {
       "added_at": "2024-07-12 16:10:47",

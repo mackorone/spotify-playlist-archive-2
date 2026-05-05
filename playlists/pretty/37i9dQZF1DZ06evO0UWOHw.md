@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UWOHw.md) - [plain]
 
 > This is Victony\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,696 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,708 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UWOHw.md) - [plain]
 | 10 | [Cough Syrup](https://open.spotify.com/track/1pheB3ku1OKy80SaB8VXqG) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [CAPTAIN](https://open.spotify.com/album/5jqvO2VFTZ4n5MlE393wwT) | 3:10 |
 | 11 | [Babylon](https://open.spotify.com/track/0V9hYbo9uL11hqLP3u0yqA) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [WORLD BEST](https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY) | 2:57 |
 | 12 | [Risk](https://open.spotify.com/track/7ElIoXjT2p1bcDzsUL3X89) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Stubborn](https://open.spotify.com/album/0HAMypn9IWyVZ3ytw6R6qr) | 3:22 |
-| 13 | [Rosemary](https://open.spotify.com/track/5UkYn7xBZ3HEArQpF0XTsq) | [Savage](https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Utopia](https://open.spotify.com/album/70h7xI9GmGV56rEL5nacut) | 3:08 |
-| 14 | [V.S\. Freestyle](https://open.spotify.com/track/0WEjE529QbSQsEGrPr686Q) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Very Stubborn](https://open.spotify.com/album/4qvBmFi6a3W6Fz5Wvzj6X6) | 2:16 |
+| 13 | [V.S\. Freestyle](https://open.spotify.com/track/0WEjE529QbSQsEGrPr686Q) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Very Stubborn](https://open.spotify.com/album/4qvBmFi6a3W6Fz5Wvzj6X6) | 2:16 |
+| 14 | [Rosemary](https://open.spotify.com/track/5UkYn7xBZ3HEArQpF0XTsq) | [Savage](https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Utopia](https://open.spotify.com/album/70h7xI9GmGV56rEL5nacut) | 3:08 |
 | 15 | [Different Size \(feat\. Victony\)](https://open.spotify.com/track/5Z1vl9fO2iaqB7M6B6MLat) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Love, Damini](https://open.spotify.com/album/1xaHgMftad2egI7Q4DX7Bc) | 3:29 |
 | 16 | [Tanko \(feat\. Terry G\)](https://open.spotify.com/track/3XoYWo0jdGq0T25KfNIr3L) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Terry G](https://open.spotify.com/artist/0Azkx5tjOLekLGEavycJ3S) | [Tanko \(feat\. Terry G\)](https://open.spotify.com/album/7FyAwmXXi3r1fwJZI7HZXN) | 3:47 |
 | 17 | [Jolene](https://open.spotify.com/track/6OeHAhsVn22nStOm1XRHLQ) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [KTIZO](https://open.spotify.com/artist/4iRmNYPp7K9YaLrQXohMPr) | [Outlaw](https://open.spotify.com/album/2k9UloVzoBNJtCY1TvxTNj) | 2:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UWOHw.md) - [plain]
 | 49 | [Selema \(Po Po\) \- Remix](https://open.spotify.com/track/4etb2MbOkYa90Rvf08kMVf) | [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Loui](https://open.spotify.com/artist/53SBWd8nuUmKxJPS9quQi5) | [Selema \(Po Po\) \[Remix\]](https://open.spotify.com/album/4i88bfyHm8i2rgepa4kcrp) | 5:31 |
 | 50 | [No Other](https://open.spotify.com/track/16Kk1ZJ39vXGcdFphFKRqv) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Hypertension](https://open.spotify.com/album/3opLRe2XgBsWPtccbGUGL8) | 2:48 |
 
-Snapshot ID: `afU+gAAAAAB9DhV5y8nwmNuLh5FA7HFA`
+Snapshot ID: `afaQAAAAAACqH+4N+zbl4svhCnDjahkU`

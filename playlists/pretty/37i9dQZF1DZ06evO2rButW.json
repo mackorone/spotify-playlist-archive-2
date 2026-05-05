@@ -1,12 +1,12 @@
 {
   "description": "This is Mon Laferte. The essential tracks, all in one playlist.",
-  "num_followers": 783092,
+  "num_followers": 783221,
   "original_name": "This Is Mon Laferte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afU+gAAAAADDHn66VH1Wo+uNiOaLSV2H",
+  "snapshot_id": "afaQAAAAAAD1YQo0/sifXkm3H16V4Arq",
   "tracks": [
     {
       "added_at": null,
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
         }
       ],
-      "duration_ms": 219949,
-      "name": "Otra Noche de Llorar",
-      "url": "https://open.spotify.com/track/4oP6sZWbkC3fJghTsyOgkZ"
+      "duration_ms": 230723,
+      "name": "Melancol\u00eda",
+      "url": "https://open.spotify.com/track/5r9xrWqBtkiSFeEBk4VibB"
     },
     {
       "added_at": null,
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
         }
       ],
-      "duration_ms": 230723,
-      "name": "Melancol\u00eda",
-      "url": "https://open.spotify.com/track/5r9xrWqBtkiSFeEBk4VibB"
+      "duration_ms": 219949,
+      "name": "Otra Noche de Llorar",
+      "url": "https://open.spotify.com/track/4oP6sZWbkC3fJghTsyOgkZ"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO42EWMo.md) - [plain]
 
 > This is Amy Winehouse\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,202,645 likes - 45 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,202,706 likes - 45 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,11 +19,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO42EWMo.md) - [plain]
 | 9 | [Stronger Than Me](https://open.spotify.com/track/5LC7nItIEFp4nzdFdEGbf9) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [AMY \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Fb59VtYjJNTXPcNGpoDU3) | 3:34 |
 | 10 | [Will You Still Love Me Tomorrow? \- 2011](https://open.spotify.com/track/0LbK1bodGLc9xmV1cS9jvL) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Lioness: Hidden Treasures](https://open.spotify.com/album/4xdRjOhY9NHmMpI7U3e2c3) | 4:22 |
 | 11 | [Fuck Me Pumps](https://open.spotify.com/track/1FLzTxrNNgqrAEsQvHJ9Gx) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Frank \(Deluxe Edition\)](https://open.spotify.com/album/2rWBGF3pKx8Jla9VYMQ8Xc) | 3:20 |
-| 12 | [Love Is A Losing Game](https://open.spotify.com/track/570ZDO2Lmh6NQChOU5xPUL) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black](https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV) | 2:34 |
+| 12 | [Rehab](https://open.spotify.com/track/1L5tZi0izXsi5Kk5OJf4W0) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black](https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV) | 3:33 |
 | 13 | [Body and Soul](https://open.spotify.com/track/01hJnhpAmjzg85Etnz2ECH) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Duets II](https://open.spotify.com/album/5ktAYFq8wJ1hcWHaxl6AQf) | 3:20 |
 | 14 | [Half Time](https://open.spotify.com/track/4d0dY3ZeMdoYrD5YmdFvWZ) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Lioness: Hidden Treasures](https://open.spotify.com/album/4xdRjOhY9NHmMpI7U3e2c3) | 3:50 |
 | 15 | [What Is It About Men](https://open.spotify.com/track/6QIdkhQ33eTSPBHu4NWl7l) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Frank \(Deluxe Edition\)](https://open.spotify.com/album/2rWBGF3pKx8Jla9VYMQ8Xc) | 3:29 |
-| 16 | [Rehab](https://open.spotify.com/track/1L5tZi0izXsi5Kk5OJf4W0) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black](https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV) | 3:33 |
+| 16 | [Love Is A Losing Game](https://open.spotify.com/track/570ZDO2Lmh6NQChOU5xPUL) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black](https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV) | 2:34 |
 | 17 | [Mr Magic \(Through The Smoke\)](https://open.spotify.com/track/5ZTZL5UlpF3UZ8H7BhoI9N) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Frank](https://open.spotify.com/album/3kGbxqlVl3LqjifxlubtcT) | 3:56 |
 | 18 | [Tears Dry \- Original Version](https://open.spotify.com/track/0IEGGuRHP8ylbCXausRF9p) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Lioness: Hidden Treasures](https://open.spotify.com/album/4xdRjOhY9NHmMpI7U3e2c3) | 4:08 |
 | 19 | [Help Yourself](https://open.spotify.com/track/5TImISmK9CQtBrt0rLbq0R) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Frank \(Deluxe Edition\)](https://open.spotify.com/album/2rWBGF3pKx8Jla9VYMQ8Xc) | 5:01 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO42EWMo.md) - [plain]
 | 44 | [Lullaby Of Birdland \- Live From The Stables / 2004](https://open.spotify.com/track/52nsOnLZuRQSNJr7940Xyb) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [At The BBC](https://open.spotify.com/album/741JhzvIOudONDzRg6wuWJ) | 2:34 |
 | 45 | [Monkey Man \- Live On Jools Holland Hootenanny / 2006](https://open.spotify.com/track/11RwX2XrkrduAwdmug89ja) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR), [Jools Holland](https://open.spotify.com/artist/6eLbRJP12OhyvUv4ntto4e) | [At The BBC](https://open.spotify.com/album/741JhzvIOudONDzRg6wuWJ) | 3:19 |
 
-Snapshot ID: `afU+gAAAAACaZjCNUgOZNuHeJKbVPQeW`
+Snapshot ID: `afaQAAAAAADjkDRG360KDoIUpNJzfhYT`

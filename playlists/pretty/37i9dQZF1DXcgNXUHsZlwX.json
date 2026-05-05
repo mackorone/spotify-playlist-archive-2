@@ -1,6 +1,6 @@
 {
   "description": "De la douceur pour accompagner votre journ\u00e9e. \ud83c\udf37",
-  "num_followers": 143623,
+  "num_followers": 143621,
   "original_name": "Caf\u00e9 montr\u00e9alais",
   "owner": {
     "name": "Spotify",
@@ -95,18 +95,18 @@
     {
       "added_at": "2026-05-01 04:04:35",
       "album": {
-        "name": "Nameless",
-        "url": "https://open.spotify.com/album/1jKa3DaEBF3uBSJQ911noU"
+        "name": "Dizzy",
+        "url": "https://open.spotify.com/album/0dD2rA5I3QnNxbzxmnHNe7"
       },
       "artists": [
         {
-          "name": "Dominique Fils-Aim\u00e9",
-          "url": "https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC"
+          "name": "Edward Rogers",
+          "url": "https://open.spotify.com/artist/45nWsdrg5SQJevmlzfCuo1"
         }
       ],
-      "duration_ms": 221824,
-      "name": "Birds",
-      "url": "https://open.spotify.com/track/08TmRNaaezzsowLSXk9zYO"
+      "duration_ms": 183275,
+      "name": "Dizzy",
+      "url": "https://open.spotify.com/track/3ii39q3PlsdGcL2QAxc2pe"
     },
     {
       "added_at": "2026-05-01 04:04:35",
@@ -143,50 +143,18 @@
     {
       "added_at": "2026-05-01 04:04:35",
       "album": {
-        "name": "Dizzy",
-        "url": "https://open.spotify.com/album/0dD2rA5I3QnNxbzxmnHNe7"
+        "name": "Nameless",
+        "url": "https://open.spotify.com/album/1jKa3DaEBF3uBSJQ911noU"
       },
       "artists": [
         {
-          "name": "Edward Rogers",
-          "url": "https://open.spotify.com/artist/45nWsdrg5SQJevmlzfCuo1"
+          "name": "Dominique Fils-Aim\u00e9",
+          "url": "https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC"
         }
       ],
-      "duration_ms": 183275,
-      "name": "Dizzy",
-      "url": "https://open.spotify.com/track/3ii39q3PlsdGcL2QAxc2pe"
-    },
-    {
-      "added_at": "2026-05-01 04:04:35",
-      "album": {
-        "name": "Unessential Oils",
-        "url": "https://open.spotify.com/album/7wv2WyE90zTTbgEGKVWtaq"
-      },
-      "artists": [
-        {
-          "name": "Unessential Oils",
-          "url": "https://open.spotify.com/artist/34dPqKupUgAXZRn6beb0Zu"
-        }
-      ],
-      "duration_ms": 265880,
-      "name": "Solutions to My Gloom",
-      "url": "https://open.spotify.com/track/3Cq3SRFSWK7qhfSvSWMkxg"
-    },
-    {
-      "added_at": "2026-05-01 04:04:35",
-      "album": {
-        "name": "Packing Away",
-        "url": "https://open.spotify.com/album/3fPRotEVFhpXF39u0dtYqj"
-      },
-      "artists": [
-        {
-          "name": "Eman Alali",
-          "url": "https://open.spotify.com/artist/6lV73BGgSYasE0ikD3Bs1W"
-        }
-      ],
-      "duration_ms": 266047,
-      "name": "Packing Away",
-      "url": "https://open.spotify.com/track/0BHKTPnV73ok6RpVcGZc5m"
+      "duration_ms": 221824,
+      "name": "Birds",
+      "url": "https://open.spotify.com/track/08TmRNaaezzsowLSXk9zYO"
     },
     {
       "added_at": "2026-05-01 04:04:35",
@@ -207,54 +175,34 @@
     {
       "added_at": "2026-05-01 04:04:35",
       "album": {
-        "name": "Uh Oh",
-        "url": "https://open.spotify.com/album/3QUfCdvvPLOflf0OHsBYL0"
+        "name": "Packing Away",
+        "url": "https://open.spotify.com/album/3fPRotEVFhpXF39u0dtYqj"
       },
       "artists": [
         {
-          "name": "Patrick Watson",
-          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
-        },
-        {
-          "name": "Sea Oleena",
-          "url": "https://open.spotify.com/artist/4WnK1atCqqiU7DRaOChhKP"
+          "name": "Eman Alali",
+          "url": "https://open.spotify.com/artist/6lV73BGgSYasE0ikD3Bs1W"
         }
       ],
-      "duration_ms": 228613,
-      "name": "Uh Oh",
-      "url": "https://open.spotify.com/track/4goLYQrqyQ5vNANg88gwrK"
+      "duration_ms": 266047,
+      "name": "Packing Away",
+      "url": "https://open.spotify.com/track/0BHKTPnV73ok6RpVcGZc5m"
     },
     {
       "added_at": "2026-05-01 04:04:35",
       "album": {
-        "name": "Les grandes art\u00e8res",
-        "url": "https://open.spotify.com/album/2HGCx9cx51b0MlkBdzUiaY"
+        "name": "Unessential Oils",
+        "url": "https://open.spotify.com/album/7wv2WyE90zTTbgEGKVWtaq"
       },
       "artists": [
         {
-          "name": "Louis-Jean Cormier",
-          "url": "https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G"
+          "name": "Unessential Oils",
+          "url": "https://open.spotify.com/artist/34dPqKupUgAXZRn6beb0Zu"
         }
       ],
-      "duration_ms": 204013,
-      "name": "Si tu reviens",
-      "url": "https://open.spotify.com/track/4jfDgYNK4VcADKD6mSSyFs"
-    },
-    {
-      "added_at": "2026-05-01 04:04:35",
-      "album": {
-        "name": "si je ne suis pas",
-        "url": "https://open.spotify.com/album/7vGj6cne4fb0fbuTm1fVsE"
-      },
-      "artists": [
-        {
-          "name": "Vermeil",
-          "url": "https://open.spotify.com/artist/2umQO1NjunQcWQSDGKNTRZ"
-        }
-      ],
-      "duration_ms": 258895,
-      "name": "si je ne suis pas",
-      "url": "https://open.spotify.com/track/2Y56oJERnOe72VfPT9qd1x"
+      "duration_ms": 265880,
+      "name": "Solutions to My Gloom",
+      "url": "https://open.spotify.com/track/3Cq3SRFSWK7qhfSvSWMkxg"
     },
     {
       "added_at": "2026-05-01 04:04:35",
@@ -279,6 +227,58 @@
     {
       "added_at": "2026-05-01 04:04:35",
       "album": {
+        "name": "Uh Oh",
+        "url": "https://open.spotify.com/album/3QUfCdvvPLOflf0OHsBYL0"
+      },
+      "artists": [
+        {
+          "name": "Patrick Watson",
+          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
+        },
+        {
+          "name": "Sea Oleena",
+          "url": "https://open.spotify.com/artist/4WnK1atCqqiU7DRaOChhKP"
+        }
+      ],
+      "duration_ms": 228613,
+      "name": "Uh Oh",
+      "url": "https://open.spotify.com/track/4goLYQrqyQ5vNANg88gwrK"
+    },
+    {
+      "added_at": "2026-05-01 04:04:35",
+      "album": {
+        "name": "si je ne suis pas",
+        "url": "https://open.spotify.com/album/7vGj6cne4fb0fbuTm1fVsE"
+      },
+      "artists": [
+        {
+          "name": "Vermeil",
+          "url": "https://open.spotify.com/artist/2umQO1NjunQcWQSDGKNTRZ"
+        }
+      ],
+      "duration_ms": 258895,
+      "name": "si je ne suis pas",
+      "url": "https://open.spotify.com/track/2Y56oJERnOe72VfPT9qd1x"
+    },
+    {
+      "added_at": "2026-05-01 04:04:35",
+      "album": {
+        "name": "Les grandes art\u00e8res",
+        "url": "https://open.spotify.com/album/2HGCx9cx51b0MlkBdzUiaY"
+      },
+      "artists": [
+        {
+          "name": "Louis-Jean Cormier",
+          "url": "https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G"
+        }
+      ],
+      "duration_ms": 204013,
+      "name": "Si tu reviens",
+      "url": "https://open.spotify.com/track/4jfDgYNK4VcADKD6mSSyFs"
+    },
+    {
+      "added_at": "2026-05-01 04:04:35",
+      "album": {
         "name": "Aliocha Schneider",
         "url": "https://open.spotify.com/album/5wSrUAHl9x25A4w0wXpJLO"
       },
@@ -295,22 +295,18 @@
     {
       "added_at": "2026-05-01 04:04:35",
       "album": {
-        "name": "Silencio",
-        "url": "https://open.spotify.com/album/4s8FVmmxk68BPzV0l6OIpg"
+        "name": "Old Love",
+        "url": "https://open.spotify.com/album/6mYFCScWWqFGpJAWc6FOxg"
       },
       "artists": [
         {
-          "name": "Patrick Watson",
-          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
-        },
-        {
-          "name": "November Ultra",
-          "url": "https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr"
+          "name": "Dominique Fils-Aim\u00e9",
+          "url": "https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC"
         }
       ],
-      "duration_ms": 261379,
-      "name": "Silencio",
-      "url": "https://open.spotify.com/track/7oVr43P8O8ksvEX7TFMD6k"
+      "duration_ms": 205769,
+      "name": "Old Love",
+      "url": "https://open.spotify.com/track/3NwrnNYWLgDzNqqPj3HdyH"
     },
     {
       "added_at": "2026-05-01 04:04:35",
@@ -331,18 +327,22 @@
     {
       "added_at": "2026-05-01 04:04:35",
       "album": {
-        "name": "Old Love",
-        "url": "https://open.spotify.com/album/6mYFCScWWqFGpJAWc6FOxg"
+        "name": "Silencio",
+        "url": "https://open.spotify.com/album/4s8FVmmxk68BPzV0l6OIpg"
       },
       "artists": [
         {
-          "name": "Dominique Fils-Aim\u00e9",
-          "url": "https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC"
+          "name": "Patrick Watson",
+          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
+        },
+        {
+          "name": "November Ultra",
+          "url": "https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr"
         }
       ],
-      "duration_ms": 205769,
-      "name": "Old Love",
-      "url": "https://open.spotify.com/track/3NwrnNYWLgDzNqqPj3HdyH"
+      "duration_ms": 261379,
+      "name": "Silencio",
+      "url": "https://open.spotify.com/track/7oVr43P8O8ksvEX7TFMD6k"
     },
     {
       "added_at": "2026-05-01 04:04:35",
@@ -399,22 +399,6 @@
     {
       "added_at": "2026-05-01 04:04:35",
       "album": {
-        "name": "Answers",
-        "url": "https://open.spotify.com/album/4fGYs2TDBA1LzQEDIc0C4a"
-      },
-      "artists": [
-        {
-          "name": "The Franklin Electric",
-          "url": "https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN"
-        }
-      ],
-      "duration_ms": 167732,
-      "name": "Answers",
-      "url": "https://open.spotify.com/track/3P6fiFnHTkaryP2WmwV6Ch"
-    },
-    {
-      "added_at": "2026-05-01 04:04:35",
-      "album": {
         "name": "A Week in Nashville",
         "url": "https://open.spotify.com/album/2fAW7oQpHAHNg31yVgMWg1"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 199909,
       "name": "Did Life Work Out for You?",
       "url": "https://open.spotify.com/track/16pDdqp376bpBsBFAZqb0R"
+    },
+    {
+      "added_at": "2026-05-01 04:04:35",
+      "album": {
+        "name": "Answers",
+        "url": "https://open.spotify.com/album/4fGYs2TDBA1LzQEDIc0C4a"
+      },
+      "artists": [
+        {
+          "name": "The Franklin Electric",
+          "url": "https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN"
+        }
+      ],
+      "duration_ms": 167732,
+      "name": "Answers",
+      "url": "https://open.spotify.com/track/3P6fiFnHTkaryP2WmwV6Ch"
     },
     {
       "added_at": "2026-05-01 04:04:35",
@@ -447,22 +447,22 @@
     {
       "added_at": "2026-05-01 04:04:35",
       "album": {
-        "name": "Snowpath",
-        "url": "https://open.spotify.com/album/53piZ0a4vXwSbHZrymx7rT"
+        "name": "Bridge Back to Me (Acoustic)",
+        "url": "https://open.spotify.com/album/0TVdCyrVFP1Iyu8n7od5u4"
       },
       "artists": [
         {
-          "name": "Jonah Yano",
-          "url": "https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ"
+          "name": "Al Nicol",
+          "url": "https://open.spotify.com/artist/7MlkcMZ5n9BgU5wNgYcNvu"
         },
         {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+          "name": "Benedikt MacIsaac",
+          "url": "https://open.spotify.com/artist/6qD9LwEvJDCeiLJUHxRMnA"
         }
       ],
-      "duration_ms": 133000,
-      "name": "Snowpath",
-      "url": "https://open.spotify.com/track/1e1QnRkEXG5HFMOUFo3V4L"
+      "duration_ms": 166506,
+      "name": "Bridge Back to Me - Acoustic",
+      "url": "https://open.spotify.com/track/7hCgoPQ1R2A1vUYNPeqBzJ"
     },
     {
       "added_at": "2026-05-01 04:04:35",
@@ -503,22 +503,22 @@
     {
       "added_at": "2026-05-01 04:04:35",
       "album": {
-        "name": "Bridge Back to Me (Acoustic)",
-        "url": "https://open.spotify.com/album/0TVdCyrVFP1Iyu8n7od5u4"
+        "name": "Snowpath",
+        "url": "https://open.spotify.com/album/53piZ0a4vXwSbHZrymx7rT"
       },
       "artists": [
         {
-          "name": "Al Nicol",
-          "url": "https://open.spotify.com/artist/7MlkcMZ5n9BgU5wNgYcNvu"
+          "name": "Jonah Yano",
+          "url": "https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ"
         },
         {
-          "name": "Benedikt MacIsaac",
-          "url": "https://open.spotify.com/artist/6qD9LwEvJDCeiLJUHxRMnA"
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
         }
       ],
-      "duration_ms": 166506,
-      "name": "Bridge Back to Me - Acoustic",
-      "url": "https://open.spotify.com/track/7hCgoPQ1R2A1vUYNPeqBzJ"
+      "duration_ms": 133000,
+      "name": "Snowpath",
+      "url": "https://open.spotify.com/track/1e1QnRkEXG5HFMOUFo3V4L"
     },
     {
       "added_at": "2026-05-01 04:04:35",
@@ -675,22 +675,6 @@
     {
       "added_at": "2026-05-01 04:04:35",
       "album": {
-        "name": "Colors",
-        "url": "https://open.spotify.com/album/2lecuAW041jFGznJIATbhz"
-      },
-      "artists": [
-        {
-          "name": "Ana\u00efs Cardot",
-          "url": "https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU"
-        }
-      ],
-      "duration_ms": 248759,
-      "name": "Colors",
-      "url": "https://open.spotify.com/track/7N3wyYCiyIEMsFdaL9BcRF"
-    },
-    {
-      "added_at": "2026-05-01 04:04:35",
-      "album": {
         "name": "L'\u00e9trange pays",
         "url": "https://open.spotify.com/album/13hzRu1yUCald5cfl6xtsp"
       },
@@ -707,18 +691,18 @@
     {
       "added_at": "2026-05-01 04:04:35",
       "album": {
-        "name": "Dans une autre cour",
-        "url": "https://open.spotify.com/album/2pbm1dBkHpVlIn6jxKU0iN"
+        "name": "Colors",
+        "url": "https://open.spotify.com/album/2lecuAW041jFGznJIATbhz"
       },
       "artists": [
         {
-          "name": "Justin Roy",
-          "url": "https://open.spotify.com/artist/0fQlhpsdr8Qg3w1PDQ7xIc"
+          "name": "Ana\u00efs Cardot",
+          "url": "https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU"
         }
       ],
-      "duration_ms": 144173,
-      "name": "Dans une autre cour",
-      "url": "https://open.spotify.com/track/4bogJtkAPlJ8C6kE3IJ0v8"
+      "duration_ms": 248759,
+      "name": "Colors",
+      "url": "https://open.spotify.com/track/7N3wyYCiyIEMsFdaL9BcRF"
     },
     {
       "added_at": "2026-05-01 04:04:35",
@@ -739,6 +723,22 @@
       "duration_ms": 174023,
       "name": "SHouLd I sMiLe?",
       "url": "https://open.spotify.com/track/343Vbk8eNtuA8BHSg3OkVz"
+    },
+    {
+      "added_at": "2026-05-01 04:04:35",
+      "album": {
+        "name": "Dans une autre cour",
+        "url": "https://open.spotify.com/album/2pbm1dBkHpVlIn6jxKU0iN"
+      },
+      "artists": [
+        {
+          "name": "Justin Roy",
+          "url": "https://open.spotify.com/artist/0fQlhpsdr8Qg3w1PDQ7xIc"
+        }
+      ],
+      "duration_ms": 144173,
+      "name": "Dans une autre cour",
+      "url": "https://open.spotify.com/track/4bogJtkAPlJ8C6kE3IJ0v8"
     },
     {
       "added_at": "2026-05-01 04:04:35",
@@ -799,6 +799,22 @@
     {
       "added_at": "2026-05-01 04:04:35",
       "album": {
+        "name": "Tu ne mourras pas",
+        "url": "https://open.spotify.com/album/0EurJWfHMVyIeQ4oEKYeS1"
+      },
+      "artists": [
+        {
+          "name": "Maude Audet",
+          "url": "https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5"
+        }
+      ],
+      "duration_ms": 201557,
+      "name": "Tu trembleras encore",
+      "url": "https://open.spotify.com/track/2lo2Sv1jLOp7aNhGvgt6qQ"
+    },
+    {
+      "added_at": "2026-05-01 04:04:35",
+      "album": {
         "name": "Eldorado (Acoustique)",
         "url": "https://open.spotify.com/album/07i8dt35vq11eDTyBuyhSB"
       },
@@ -819,22 +835,6 @@
     {
       "added_at": "2026-05-01 04:04:35",
       "album": {
-        "name": "Tu ne mourras pas",
-        "url": "https://open.spotify.com/album/0EurJWfHMVyIeQ4oEKYeS1"
-      },
-      "artists": [
-        {
-          "name": "Maude Audet",
-          "url": "https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5"
-        }
-      ],
-      "duration_ms": 201557,
-      "name": "Tu trembleras encore",
-      "url": "https://open.spotify.com/track/2lo2Sv1jLOp7aNhGvgt6qQ"
-    },
-    {
-      "added_at": "2026-05-01 04:04:35",
-      "album": {
         "name": "Cantalou",
         "url": "https://open.spotify.com/album/7lwqLBU7E94RuXQGCpiUSd"
       },
@@ -847,22 +847,6 @@
       "duration_ms": 215560,
       "name": "L'\u00eele \u00e0 vingt-cinq sous",
       "url": "https://open.spotify.com/track/02HOfaxe6KpIqrnLFdHhYc"
-    },
-    {
-      "added_at": "2026-05-01 04:04:35",
-      "album": {
-        "name": "fin pm",
-        "url": "https://open.spotify.com/album/5aQA5dQiOjahrXv7M9W3xv"
-      },
-      "artists": [
-        {
-          "name": "Maddie Bay",
-          "url": "https://open.spotify.com/artist/5l9YeES7fYai24xXRFeKgd"
-        }
-      ],
-      "duration_ms": 191226,
-      "name": "fin pm",
-      "url": "https://open.spotify.com/track/5RfuZ5YOvLicj7LbKs0NPl"
     },
     {
       "added_at": "2026-05-01 04:04:35",
@@ -915,6 +899,22 @@
     {
       "added_at": "2026-05-01 04:04:35",
       "album": {
+        "name": "fin pm",
+        "url": "https://open.spotify.com/album/5aQA5dQiOjahrXv7M9W3xv"
+      },
+      "artists": [
+        {
+          "name": "Maddie Bay",
+          "url": "https://open.spotify.com/artist/5l9YeES7fYai24xXRFeKgd"
+        }
+      ],
+      "duration_ms": 191226,
+      "name": "fin pm",
+      "url": "https://open.spotify.com/track/5RfuZ5YOvLicj7LbKs0NPl"
+    },
+    {
+      "added_at": "2026-05-01 04:04:35",
+      "album": {
         "name": "Une Version Am\u00e9lior\u00e9e De La Tristesse",
         "url": "https://open.spotify.com/album/6LEzxNkoWFGGDEOErpG8jr"
       },
@@ -947,22 +947,6 @@
     {
       "added_at": "2026-05-01 04:04:35",
       "album": {
-        "name": "Bright Green Vibrant Gray",
-        "url": "https://open.spotify.com/album/6nZGvx9KlQsM23CTuqIMEO"
-      },
-      "artists": [
-        {
-          "name": "Helena Deland",
-          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
-        }
-      ],
-      "duration_ms": 219507,
-      "name": "Bright Green Vibrant Gray",
-      "url": "https://open.spotify.com/track/4nq1ycSKzbzGcMoRfD6lCN"
-    },
-    {
-      "added_at": "2026-05-01 04:04:35",
-      "album": {
         "name": "Eleven Songs",
         "url": "https://open.spotify.com/album/77m8od7UnE2rznmbLzpp76"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 169320,
       "name": "Flash in the Pan",
       "url": "https://open.spotify.com/track/0uY0U9VPR26rHcYf3oyZK0"
+    },
+    {
+      "added_at": "2026-05-01 04:04:35",
+      "album": {
+        "name": "Bright Green Vibrant Gray",
+        "url": "https://open.spotify.com/album/6nZGvx9KlQsM23CTuqIMEO"
+      },
+      "artists": [
+        {
+          "name": "Helena Deland",
+          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
+        }
+      ],
+      "duration_ms": 219507,
+      "name": "Bright Green Vibrant Gray",
+      "url": "https://open.spotify.com/track/4nq1ycSKzbzGcMoRfD6lCN"
     },
     {
       "added_at": "2026-05-01 04:04:35",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2026-05-01 04:04:35",
       "album": {
-        "name": "Demain",
-        "url": "https://open.spotify.com/album/5yrVMu7WgtlwdDf4vnLxF1"
-      },
-      "artists": [
-        {
-          "name": "Zach Boileau",
-          "url": "https://open.spotify.com/artist/1mqeUauj1VuSpUlKNQITEO"
-        }
-      ],
-      "duration_ms": 229047,
-      "name": "Demain",
-      "url": "https://open.spotify.com/track/3jQaZdtiJSqgqNFWr0sTQi"
-    },
-    {
-      "added_at": "2026-05-01 04:04:35",
-      "album": {
         "name": "Et on pleurera ensemble",
         "url": "https://open.spotify.com/album/1xS5iWIeXKgWqNfWX1x7CM"
       },
@@ -1059,18 +1043,18 @@
     {
       "added_at": "2026-05-01 04:04:35",
       "album": {
-        "name": "Que ta lumi\u00e8re",
-        "url": "https://open.spotify.com/album/6s980Fk6p3ZTq8obc8QWVO"
+        "name": "Demain",
+        "url": "https://open.spotify.com/album/5yrVMu7WgtlwdDf4vnLxF1"
       },
       "artists": [
         {
-          "name": "Maude Audet",
-          "url": "https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5"
+          "name": "Zach Boileau",
+          "url": "https://open.spotify.com/artist/1mqeUauj1VuSpUlKNQITEO"
         }
       ],
-      "duration_ms": 232319,
-      "name": "Que ta lumi\u00e8re",
-      "url": "https://open.spotify.com/track/7HnHrPmhNbpj7Dim9MhoiD"
+      "duration_ms": 229047,
+      "name": "Demain",
+      "url": "https://open.spotify.com/track/3jQaZdtiJSqgqNFWr0sTQi"
     },
     {
       "added_at": "2026-05-01 04:04:35",
@@ -1091,18 +1075,34 @@
     {
       "added_at": "2026-05-01 04:04:35",
       "album": {
-        "name": "2 go\u00e9lands",
-        "url": "https://open.spotify.com/album/7L12QeyV06gZhadVSI64Zf"
+        "name": "L'\u00e9trange pays",
+        "url": "https://open.spotify.com/album/13hzRu1yUCald5cfl6xtsp"
       },
       "artists": [
         {
-          "name": "Marie C\u00e9leste",
-          "url": "https://open.spotify.com/artist/6CSL6Sb3kje1JRJPFTrPQQ"
+          "name": "Jean Leloup",
+          "url": "https://open.spotify.com/artist/4wxSKb9ur3AbGRCv81xFAd"
         }
       ],
-      "duration_ms": 178306,
-      "name": "2 go\u00e9lands",
-      "url": "https://open.spotify.com/track/2FQ3gf8fk67DdDgXEdfgmv"
+      "duration_ms": 200706,
+      "name": "Passe ton chemin",
+      "url": "https://open.spotify.com/track/6wKUnfSAJRQagiCuvNgMbB"
+    },
+    {
+      "added_at": "2026-05-01 04:04:35",
+      "album": {
+        "name": "Que ta lumi\u00e8re",
+        "url": "https://open.spotify.com/album/6s980Fk6p3ZTq8obc8QWVO"
+      },
+      "artists": [
+        {
+          "name": "Maude Audet",
+          "url": "https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5"
+        }
+      ],
+      "duration_ms": 232319,
+      "name": "Que ta lumi\u00e8re",
+      "url": "https://open.spotify.com/track/7HnHrPmhNbpj7Dim9MhoiD"
     },
     {
       "added_at": "2026-05-01 04:04:35",
@@ -1155,34 +1155,18 @@
     {
       "added_at": "2026-05-01 04:04:35",
       "album": {
-        "name": "L'\u00e9trange pays",
-        "url": "https://open.spotify.com/album/13hzRu1yUCald5cfl6xtsp"
+        "name": "2 go\u00e9lands",
+        "url": "https://open.spotify.com/album/7L12QeyV06gZhadVSI64Zf"
       },
       "artists": [
         {
-          "name": "Jean Leloup",
-          "url": "https://open.spotify.com/artist/4wxSKb9ur3AbGRCv81xFAd"
+          "name": "Marie C\u00e9leste",
+          "url": "https://open.spotify.com/artist/6CSL6Sb3kje1JRJPFTrPQQ"
         }
       ],
-      "duration_ms": 200706,
-      "name": "Passe ton chemin",
-      "url": "https://open.spotify.com/track/6wKUnfSAJRQagiCuvNgMbB"
-    },
-    {
-      "added_at": "2026-05-01 04:04:35",
-      "album": {
-        "name": "Les oiseaux",
-        "url": "https://open.spotify.com/album/6mwxPyeT0gkLxj1MGwWDyu"
-      },
-      "artists": [
-        {
-          "name": "Fleur de Peau",
-          "url": "https://open.spotify.com/artist/6EoKem2HNXbpL23782Daoi"
-        }
-      ],
-      "duration_ms": 244083,
-      "name": "Les oiseaux",
-      "url": "https://open.spotify.com/track/4meeC3HOeSgQenFRtxpLrP"
+      "duration_ms": 178306,
+      "name": "2 go\u00e9lands",
+      "url": "https://open.spotify.com/track/2FQ3gf8fk67DdDgXEdfgmv"
     },
     {
       "added_at": "2026-05-01 04:04:35",
@@ -1207,22 +1191,6 @@
     {
       "added_at": "2026-05-01 04:04:35",
       "album": {
-        "name": "Disparition",
-        "url": "https://open.spotify.com/album/6eieaysfbghuloWpmlBgp2"
-      },
-      "artists": [
-        {
-          "name": "Guillaume Beauregard",
-          "url": "https://open.spotify.com/artist/1XnUQWVOlMnmexDpFVbp9T"
-        }
-      ],
-      "duration_ms": 272910,
-      "name": "Nos larmes",
-      "url": "https://open.spotify.com/track/3gGFmjQbjwQT6wWGcFuzzs"
-    },
-    {
-      "added_at": "2026-05-01 04:04:35",
-      "album": {
         "name": "Sailors",
         "url": "https://open.spotify.com/album/2ZkWGXSW6wuOp8maQ5vbp7"
       },
@@ -1239,6 +1207,38 @@
       "duration_ms": 241462,
       "name": "Sailors",
       "url": "https://open.spotify.com/track/2zo2zOxH0wpLWX80jYsaWF"
+    },
+    {
+      "added_at": "2026-05-01 04:04:35",
+      "album": {
+        "name": "Disparition",
+        "url": "https://open.spotify.com/album/6eieaysfbghuloWpmlBgp2"
+      },
+      "artists": [
+        {
+          "name": "Guillaume Beauregard",
+          "url": "https://open.spotify.com/artist/1XnUQWVOlMnmexDpFVbp9T"
+        }
+      ],
+      "duration_ms": 272910,
+      "name": "Nos larmes",
+      "url": "https://open.spotify.com/track/3gGFmjQbjwQT6wWGcFuzzs"
+    },
+    {
+      "added_at": "2026-05-01 04:04:35",
+      "album": {
+        "name": "Les oiseaux",
+        "url": "https://open.spotify.com/album/6mwxPyeT0gkLxj1MGwWDyu"
+      },
+      "artists": [
+        {
+          "name": "Fleur de Peau",
+          "url": "https://open.spotify.com/artist/6EoKem2HNXbpL23782Daoi"
+        }
+      ],
+      "duration_ms": 244083,
+      "name": "Les oiseaux",
+      "url": "https://open.spotify.com/track/4meeC3HOeSgQenFRtxpLrP"
     },
     {
       "added_at": "2026-05-01 04:04:35",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2026-05-01 04:04:35",
       "album": {
-        "name": "Saving Face",
-        "url": "https://open.spotify.com/album/0bhpmu6VscDZUJNScNElnM"
-      },
-      "artists": [
-        {
-          "name": "Olivia Khoury",
-          "url": "https://open.spotify.com/artist/0NVasoKMOapxEKosfVofPe"
-        }
-      ],
-      "duration_ms": 241870,
-      "name": "Saving Face",
-      "url": "https://open.spotify.com/track/7LT1q8J9axukyYYLD1w7oN"
-    },
-    {
-      "added_at": "2026-05-01 04:04:35",
-      "album": {
         "name": "Ce que je te donne ne dispara\u00eet pas",
         "url": "https://open.spotify.com/album/6cD91XtPpIgoAxFttrH3kJ"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 226586,
       "name": "Des histoires qui ne seront jamais finies",
       "url": "https://open.spotify.com/track/0lQ6omsWPn0jUDkT4frBuu"
+    },
+    {
+      "added_at": "2026-05-01 04:04:35",
+      "album": {
+        "name": "Saving Face",
+        "url": "https://open.spotify.com/album/0bhpmu6VscDZUJNScNElnM"
+      },
+      "artists": [
+        {
+          "name": "Olivia Khoury",
+          "url": "https://open.spotify.com/artist/0NVasoKMOapxEKosfVofPe"
+        }
+      ],
+      "duration_ms": 241870,
+      "name": "Saving Face",
+      "url": "https://open.spotify.com/track/7LT1q8J9axukyYYLD1w7oN"
     },
     {
       "added_at": "2026-05-01 04:04:35",
@@ -1423,6 +1423,30 @@
     {
       "added_at": "2026-05-01 04:04:35",
       "album": {
+        "name": "Quel tourment !",
+        "url": "https://open.spotify.com/album/5lH7pG039yqIIryX9XUmPO"
+      },
+      "artists": [
+        {
+          "name": "Caroline Savoie",
+          "url": "https://open.spotify.com/artist/0XTtTfY9lTNs1wPgpICfBb"
+        },
+        {
+          "name": "Jeanne C\u00f4t\u00e9",
+          "url": "https://open.spotify.com/artist/2dNYXvbpBSHNjYc8eAvQB7"
+        },
+        {
+          "name": "Ponteix",
+          "url": "https://open.spotify.com/artist/1v0LRrF0AKvsTKrzNqVTEl"
+        }
+      ],
+      "duration_ms": 202821,
+      "name": "Quel tourment !",
+      "url": "https://open.spotify.com/track/5TTrU6eheAdQYyHSL7dnR7"
+    },
+    {
+      "added_at": "2026-05-01 04:04:35",
+      "album": {
         "name": "Those Years When Everything Changed",
         "url": "https://open.spotify.com/album/2Khi3PQnMSlBA9aUG6IXaM"
       },
@@ -1455,6 +1479,54 @@
       "duration_ms": 223663,
       "name": "Bras solaires",
       "url": "https://open.spotify.com/track/6Wn4vLDWj71DD5l5ZjIH4p"
+    },
+    {
+      "added_at": "2026-05-01 04:04:35",
+      "album": {
+        "name": "\u00c9coute",
+        "url": "https://open.spotify.com/album/6jZzuXLPJFgottCyUEgJ3F"
+      },
+      "artists": [
+        {
+          "name": "\u00c9tienne Copp\u00e9e",
+          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
+        }
+      ],
+      "duration_ms": 152893,
+      "name": "\u00c9coute",
+      "url": "https://open.spotify.com/track/0ibGf52f3J60HlcSvuizKs"
+    },
+    {
+      "added_at": "2026-05-01 04:04:35",
+      "album": {
+        "name": "Ici",
+        "url": "https://open.spotify.com/album/6QLplsDGfUNQLp8KaEZgs9"
+      },
+      "artists": [
+        {
+          "name": "La Steppe",
+          "url": "https://open.spotify.com/artist/6yPLwJZvsWaw6VMuUFppOf"
+        }
+      ],
+      "duration_ms": 168358,
+      "name": "Ici",
+      "url": "https://open.spotify.com/track/2bkFu4kRYkFslkXjDEV1G7"
+    },
+    {
+      "added_at": "2026-05-01 04:04:35",
+      "album": {
+        "name": "Islands in the Stream",
+        "url": "https://open.spotify.com/album/31VCgzXOzA4fxrr2HCw2l8"
+      },
+      "artists": [
+        {
+          "name": "Beyries",
+          "url": "https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn"
+        }
+      ],
+      "duration_ms": 194699,
+      "name": "Islands in the Stream",
+      "url": "https://open.spotify.com/track/6bdpnSQXkd69cZk3A9Are3"
     },
     {
       "added_at": "2026-05-01 04:04:35",
@@ -1495,66 +1567,18 @@
     {
       "added_at": "2026-05-01 04:04:35",
       "album": {
-        "name": "Ici",
-        "url": "https://open.spotify.com/album/6QLplsDGfUNQLp8KaEZgs9"
+        "name": "Cloudless Sky Of None",
+        "url": "https://open.spotify.com/album/32ZEv6QQSFtC5NRAve0kFU"
       },
       "artists": [
         {
-          "name": "La Steppe",
-          "url": "https://open.spotify.com/artist/6yPLwJZvsWaw6VMuUFppOf"
+          "name": "Korovo",
+          "url": "https://open.spotify.com/artist/4sfnIK0CpZEovyUqHX3hE2"
         }
       ],
-      "duration_ms": 168358,
-      "name": "Ici",
-      "url": "https://open.spotify.com/track/2bkFu4kRYkFslkXjDEV1G7"
-    },
-    {
-      "added_at": "2026-05-01 04:04:35",
-      "album": {
-        "name": "Islands in the Stream",
-        "url": "https://open.spotify.com/album/31VCgzXOzA4fxrr2HCw2l8"
-      },
-      "artists": [
-        {
-          "name": "Beyries",
-          "url": "https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn"
-        }
-      ],
-      "duration_ms": 194699,
-      "name": "Islands in the Stream",
-      "url": "https://open.spotify.com/track/6bdpnSQXkd69cZk3A9Are3"
-    },
-    {
-      "added_at": "2026-05-01 04:04:35",
-      "album": {
-        "name": "\u00c9coute",
-        "url": "https://open.spotify.com/album/6jZzuXLPJFgottCyUEgJ3F"
-      },
-      "artists": [
-        {
-          "name": "\u00c9tienne Copp\u00e9e",
-          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
-        }
-      ],
-      "duration_ms": 152893,
-      "name": "\u00c9coute",
-      "url": "https://open.spotify.com/track/0ibGf52f3J60HlcSvuizKs"
-    },
-    {
-      "added_at": "2026-05-01 04:04:35",
-      "album": {
-        "name": "Swimmer",
-        "url": "https://open.spotify.com/album/0QddKPlPXH5Yb5TrCUGt8N"
-      },
-      "artists": [
-        {
-          "name": "Helena Deland",
-          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
-        }
-      ],
-      "duration_ms": 213107,
-      "name": "Swimmer",
-      "url": "https://open.spotify.com/track/6tXYijeguaEFXSok2BQy01"
+      "duration_ms": 206574,
+      "name": "Cloudless Sky Of None",
+      "url": "https://open.spotify.com/track/1TGT9DVmsPxmNpUpGyf90y"
     },
     {
       "added_at": "2026-05-01 04:04:35",
@@ -1579,22 +1603,6 @@
     {
       "added_at": "2026-05-01 04:04:35",
       "album": {
-        "name": "Treize chansons d\u00e9mod\u00e9es pour ceux qui ont le c\u0153ur ab\u00eem\u00e9",
-        "url": "https://open.spotify.com/album/20xnLUc9BHbjhXi2uVbxrx"
-      },
-      "artists": [
-        {
-          "name": "Pierre Lapointe",
-          "url": "https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP"
-        }
-      ],
-      "duration_ms": 166266,
-      "name": "S'il te pla\u00eet, fais-moi danser",
-      "url": "https://open.spotify.com/track/0y1UQYcAeo7YS1haA7pTCy"
-    },
-    {
-      "added_at": "2026-05-01 04:04:35",
-      "album": {
         "name": "Velours et Acide",
         "url": "https://open.spotify.com/album/4WIAf9PKlvUfI0DoSD2Mjy"
       },
@@ -1611,18 +1619,18 @@
     {
       "added_at": "2026-05-01 04:04:35",
       "album": {
-        "name": "M\u00e8res",
-        "url": "https://open.spotify.com/album/6QMvif9c8hUCi2Vp8dz7BY"
+        "name": "Swimmer",
+        "url": "https://open.spotify.com/album/0QddKPlPXH5Yb5TrCUGt8N"
       },
       "artists": [
         {
-          "name": "Ingrid St-Pierre",
-          "url": "https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w"
+          "name": "Helena Deland",
+          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
         }
       ],
-      "duration_ms": 273933,
-      "name": "M\u00e8res",
-      "url": "https://open.spotify.com/track/3oT9wRGegiAcMp8T798k4e"
+      "duration_ms": 213107,
+      "name": "Swimmer",
+      "url": "https://open.spotify.com/track/6tXYijeguaEFXSok2BQy01"
     },
     {
       "added_at": "2026-05-01 04:04:35",
@@ -1647,50 +1655,34 @@
     {
       "added_at": "2026-05-01 04:04:35",
       "album": {
-        "name": "Tout ce qui compte",
-        "url": "https://open.spotify.com/album/42mi3DpqsjtKTrm4IvX2MU"
+        "name": "Treize chansons d\u00e9mod\u00e9es pour ceux qui ont le c\u0153ur ab\u00eem\u00e9",
+        "url": "https://open.spotify.com/album/20xnLUc9BHbjhXi2uVbxrx"
       },
       "artists": [
         {
-          "name": "Classe Moyenne",
-          "url": "https://open.spotify.com/artist/4MStgkjCDOLFVmyMMmUo9v"
-        },
-        {
-          "name": "Gabriel Fredette",
-          "url": "https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4"
-        },
-        {
-          "name": "Justin Roy",
-          "url": "https://open.spotify.com/artist/0fQlhpsdr8Qg3w1PDQ7xIc"
-        },
-        {
-          "name": "Phil Rxcket",
-          "url": "https://open.spotify.com/artist/6WvhHcxi6ddlrEoaeYrRVt"
-        },
-        {
-          "name": "Zach Chico",
-          "url": "https://open.spotify.com/artist/3vBQx85S7A8c09r9FATr37"
+          "name": "Pierre Lapointe",
+          "url": "https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP"
         }
       ],
-      "duration_ms": 146597,
-      "name": "My Love",
-      "url": "https://open.spotify.com/track/2ozuVNKw0Sy6nqEOXWZaDO"
+      "duration_ms": 166266,
+      "name": "S'il te pla\u00eet, fais-moi danser",
+      "url": "https://open.spotify.com/track/0y1UQYcAeo7YS1haA7pTCy"
     },
     {
       "added_at": "2026-05-01 04:04:35",
       "album": {
-        "name": "Wish You Well",
-        "url": "https://open.spotify.com/album/5ctm1YamC4YOm4Sp3RRPID"
+        "name": "M\u00e8res",
+        "url": "https://open.spotify.com/album/6QMvif9c8hUCi2Vp8dz7BY"
       },
       "artists": [
         {
-          "name": "Cath Darbouze",
-          "url": "https://open.spotify.com/artist/27UCUxjYYoK3djQnSTdPWV"
+          "name": "Ingrid St-Pierre",
+          "url": "https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w"
         }
       ],
-      "duration_ms": 207318,
-      "name": "Wish You Well",
-      "url": "https://open.spotify.com/track/1iVesG6O65FVRdzrtvC3rJ"
+      "duration_ms": 273933,
+      "name": "M\u00e8res",
+      "url": "https://open.spotify.com/track/3oT9wRGegiAcMp8T798k4e"
     },
     {
       "added_at": "2026-05-01 04:04:35",

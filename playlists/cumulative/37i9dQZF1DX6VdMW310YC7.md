@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,891 songs - 5 day 8 hr 26 min
+1,892 songs - 5 day 8 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1245,6 +1245,7 @@
 | [orbit](https://open.spotify.com/track/0HFmccZuHdcYqn9A34MnMI) | [silvershore](https://open.spotify.com/artist/5ugiiDMswZlkI97yinhvEt), [Anki](https://open.spotify.com/artist/6IDgN356to8svgrWLUAIoC) | [orbit](https://open.spotify.com/album/4V23yXMJlkoqh8XxscaV5e) | 3:28 | 2022-06-10 | 2022-07-29 |
 | [Original Sin](https://open.spotify.com/track/0fp6PDlnCkmdE0F3s0tfr6) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Original Sin](https://open.spotify.com/album/4DB6Xuvp4AlrNRNGRdhdEW) | 2:51 | 2022-02-04 | 2024-03-23 |
 | [Orizia](https://open.spotify.com/track/13Mslbc4IomO3gkYj5isrD) | [bad tuner](https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm) | [Orizia/Camero](https://open.spotify.com/album/2BA5f1IQocgC1dOywjLhr5) | 3:37 | 2020-03-16 | 2020-07-03 |
+| [Otherside \- Orsay Remix](https://open.spotify.com/track/0D23mxf4TPEXdodbmsxKzg) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Thunder Jackson](https://open.spotify.com/artist/3o0xJMKswwtXz2PhrRCHhJ), [MiiRACLES](https://open.spotify.com/artist/6zsHYQWjSH9RbUYoc07Kp5), [Orsay](https://open.spotify.com/artist/0jbyfa9yocQWIf7nXO8LH4) | [Otherside \(Orsay Remix\)](https://open.spotify.com/album/6InmumYgo06ZDPtnLtNFAo) | 3:58 | 2026-05-01 |  |
 | [Our Home \- Vince Forwards Remix](https://open.spotify.com/track/1kQedHgln1x6vFKlumpNtH) | [Mark & Lukas](https://open.spotify.com/artist/5RO3il4O2kpXI6nAfLT9xr), [Vince Forwards](https://open.spotify.com/artist/3MFkKJGVRe2atQ3pYEPBEa) | [Our Home \[The Remixes\]](https://open.spotify.com/album/74Dn1rNG7a4QZNjEp1iY1c) | 8:03 | 2020-03-30 | 2022-06-23 |
 | [Our Love Is Our Love](https://open.spotify.com/track/61m6aeqYw9pI9OlqMGZQH7) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih), [Kiesza](https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo) | [Weird Kid](https://open.spotify.com/album/0exttWypl3tW1MIkkeqgVu) | 3:29 | 2020-03-20 | 2022-01-19 |
 | [Our World](https://open.spotify.com/track/5PbNYwspE2n9nRj3BPO0pk) | [Rezident](https://open.spotify.com/artist/0hzZTaZ59eR5lESXHRVgkc), [Elmar](https://open.spotify.com/artist/7EHz93VYnMoRUKt46XUnom) | [Our World](https://open.spotify.com/album/3vVKZcaF3qb82yN3cGWpZ5) | 3:40 | 2025-01-04 | 2026-02-21 |
@@ -1319,7 +1320,7 @@
 | [Priviet](https://open.spotify.com/track/3e66lQYqNYhZX1X2mBeO4L) | [Pierce Fulton](https://open.spotify.com/artist/5p0zkKpBuRguKebwRe0RI2) | [Keeping the Little Things](https://open.spotify.com/album/1pT7zb48i6eE1YHC76IcLQ) | 4:55 | 2020-08-20 | 2020-10-09 |
 | [Problems](https://open.spotify.com/track/3GlJE0D0d8TsmcDLaCpVCq) | [Guille Alvarez](https://open.spotify.com/artist/4fe5ql9g8VB9jiBy37SuLY) | [Problems](https://open.spotify.com/album/1tPnmiEsktiEAVMjruALtI) | 2:37 | 2022-08-05 | 2022-10-13 |
 | [Programmer](https://open.spotify.com/track/02f2u3zaWbEYDcBnqNZz2r) | [Aiiso](https://open.spotify.com/artist/5VMSahxKcDwmz2nYaBOd3V) | [City Lights / Programmer](https://open.spotify.com/album/2b0CwkJoJyfIoQOiTgzvJO) | 4:06 | 2020-02-29\* | 2020-03-16 |
-| [Promise Me](https://open.spotify.com/track/6kNNnAq3m0H8zgz5vd8umB) | [Harmonee](https://open.spotify.com/artist/5bcriaD6a4mOYI2Bqr0yh2) | [Promise Me](https://open.spotify.com/album/1MIt6ANHK9beYtRBQqxup4) | 4:26 | 2025-12-19 |  |
+| [Promise Me](https://open.spotify.com/track/6kNNnAq3m0H8zgz5vd8umB) | [Harmonee](https://open.spotify.com/artist/5bcriaD6a4mOYI2Bqr0yh2) | [Promise Me](https://open.spotify.com/album/1MIt6ANHK9beYtRBQqxup4) | 4:26 | 2025-12-19 | 2026-05-05 |
 | [Protected](https://open.spotify.com/track/1cRRIRrUiPnLOvsnWNhoH9) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs), [Richard Walters](https://open.spotify.com/artist/3rUqgY188kWz0hKkqnpk9F) | [Protected](https://open.spotify.com/album/4MOIA5rcy0XfN7kRWmSukG) | 4:00 | 2025-01-10 | 2025-08-30 |
 | [Proxima](https://open.spotify.com/track/5KeQ9CJ5dMgHkRjZTmDfJZ) | [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp) | [Proxima](https://open.spotify.com/album/2sbxil0PPjCnynktwKcMyJ) | 3:33 | 2022-05-27 | 2022-07-27 |
 | [Purple](https://open.spotify.com/track/4mMYRb2AZyZiI6XiHzqHBo) | [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A), [Liam Thomas](https://open.spotify.com/artist/0CDvUUuendAExit0nkRVpN) | [Purple](https://open.spotify.com/album/1TYUytf3KP39fBUe4ZS4pl) | 3:09 | 2021-12-03 | 2022-07-28 |

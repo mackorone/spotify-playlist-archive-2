@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxGv3yVVJefk.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/02Zegjy92TEyYM8PSxvf8Y">Luther Vandross</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 445 likes - 63 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 447 likes - 63 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxGv3yVVJefk.md) - [plain]
 | 5 | [Please Come Home for Christmas](https://open.spotify.com/track/2mOtx6P21hecOcPoVuZbzF) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [This Is Christmas](https://open.spotify.com/album/6QkoN5LPk7PbD5c9RVrey6) | 3:37 |
 | 6 | [Don't You Know That?](https://open.spotify.com/track/5RooV1JApOOviPiQcho9xx) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Never Too Much](https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn) | 4:02 |
 | 7 | [There's Nothing Better Than Love](https://open.spotify.com/track/5ufz4Pc89GU8FBAp1lPatq) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Give Me The Reason](https://open.spotify.com/album/3uWgCaZ1ixRuMvBZniwxJj) | 4:45 |
-| 8 | [Every Year, Every Christmas](https://open.spotify.com/track/5lPlakX2SJa6dOaMY8LiDj) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [This Is Christmas](https://open.spotify.com/album/6QkoN5LPk7PbD5c9RVrey6) | 5:06 |
-| 9 | [If I Didn't Know Better](https://open.spotify.com/track/6GBxfhz2eKwlF1OaYGy7Cx) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Dance With My Father](https://open.spotify.com/album/43Ci8cugIRwfmkXEyEgfVM) | 4:07 |
+| 8 | [If I Didn't Know Better](https://open.spotify.com/track/6GBxfhz2eKwlF1OaYGy7Cx) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Dance With My Father](https://open.spotify.com/album/43Ci8cugIRwfmkXEyEgfVM) | 4:07 |
+| 9 | [Every Year, Every Christmas](https://open.spotify.com/track/5lPlakX2SJa6dOaMY8LiDj) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [This Is Christmas](https://open.spotify.com/album/6QkoN5LPk7PbD5c9RVrey6) | 5:06 |
 | 10 | [Your Secret Love](https://open.spotify.com/track/56JRqiQ6QRaehxkG8852pL) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Your Secret Love](https://open.spotify.com/album/3F4E8x0AIxDFBFjFlLYPeN) | 4:12 |
 | 11 | [Wait for Love](https://open.spotify.com/track/0y2O8TW10Pj3fel0Upqa54) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [The Night I Fell In Love](https://open.spotify.com/album/20okHMjdnVL1rDtgPo81vY) | 5:17 |
 | 12 | [Give Me the Reason](https://open.spotify.com/track/4jwj7WcGHwNpG0ovatCbST) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Give Me The Reason](https://open.spotify.com/album/3uWgCaZ1ixRuMvBZniwxJj) | 4:47 |
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxGv3yVVJefk.md) - [plain]
 | 14 | [Keeping My Faith In You](https://open.spotify.com/track/7ji63VKn7BttCU7hqnbZxF) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [I Know](https://open.spotify.com/album/7tcFetI7thjbKImCIXIDmT) | 4:55 |
 | 15 | [Liberation Agitato / A Brand New Day / Liberation Ballet](https://open.spotify.com/track/3isUhqgO9KBLLP4fJ4oESl) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl), [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm), [Nipsey Russell](https://open.spotify.com/artist/4SgnrTFxTLvwUfw98OsRsF), [Ted Ross](https://open.spotify.com/artist/3XeCvWBEUvxkF1IHZmB6rq), [The Wiz Choir](https://open.spotify.com/artist/1tT2npbBvB62y5sjsdfve2) | [The Wiz](https://open.spotify.com/album/2QrINaaKpAWNtQfjzNaP5y) | 7:48 |
 | 16 | [Get It Right](https://open.spotify.com/track/1zaigPe4NB94tc4CRshK46) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Get It Right](https://open.spotify.com/album/0Pe124sDVootFFmCMhqeHO) | 6:15 |
-| 17 | [Forever, For Always, For Love](https://open.spotify.com/track/6tQX9qDeJ88Vhk7uZfFvNo) | [Lalah Hathaway](https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo) | [Outrun The Sky](https://open.spotify.com/album/6owHkIavlncFxnnbUMJwbE) | 5:52 |
-| 18 | [Now That I Have You](https://open.spotify.com/track/6vWs38PNWldAaIWLfYXbI4) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [I Know](https://open.spotify.com/album/7tcFetI7thjbKImCIXIDmT) | 5:01 |
+| 17 | [Now That I Have You](https://open.spotify.com/track/6vWs38PNWldAaIWLfYXbI4) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [I Know](https://open.spotify.com/album/7tcFetI7thjbKImCIXIDmT) | 5:01 |
+| 18 | [Forever, For Always, For Love](https://open.spotify.com/track/6tQX9qDeJ88Vhk7uZfFvNo) | [Lalah Hathaway](https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo) | [Outrun The Sky](https://open.spotify.com/album/6owHkIavlncFxnnbUMJwbE) | 5:52 |
 | 19 | [Power of Love / Love Power](https://open.spotify.com/track/6ep87j7rt6j8Fok55N9NOs) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Power Of Love](https://open.spotify.com/album/4mSFu3YmqIHfPngFDqZl4f) | 6:42 |
 | 20 | [Think About You](https://open.spotify.com/track/0sIkUPLns02tRPM7pjQEj4) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Dance With My Father](https://open.spotify.com/album/43Ci8cugIRwfmkXEyEgfVM) | 5:04 |
 | 21 | [Promise Me](https://open.spotify.com/track/4R1DpQ9KA9ov9gXrdmDaaQ) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Forever, For Always, For Love](https://open.spotify.com/album/3oG1ai7tyPHOm2w2ZkjpLi) | 4:42 |
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxGv3yVVJefk.md) - [plain]
 | 62 | [This Strange Feeling](https://open.spotify.com/track/2iukFid6vhDSEXMgo4Ycng) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP), [Luther](https://open.spotify.com/artist/0LK2gak2mwCnKaINYPl8iM) | [Luther](https://open.spotify.com/album/06bM5GxUptd8xlB6ORNjdG) | 4:44 |
 | 63 | [In This Lonely Hour](https://open.spotify.com/track/1lYOzU0fzs3yQuhXB9bHlj) | [Delores Hall](https://open.spotify.com/artist/0EpH9VlSM5qidHHnDORvS6) | [Hall\-Mark!!](https://open.spotify.com/album/7vWxgfco70D8I6ZslLZHcd) | 2:34 |
 
-Snapshot ID: `AcQiXgAAAAAwIj9WrCv8lbmf4COCEt0y`
+Snapshot ID: `AcQn/gAAAADM2b+YR6u0Q8TnA8h5MzpR`

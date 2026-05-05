@@ -1,6 +1,6 @@
 {
   "description": "The essential pop rock songs from the 2000s. Cover: Avril Lavigne",
-  "num_followers": 339164,
+  "num_followers": 339330,
   "original_name": "00s Pop Rock",
   "owner": {
     "name": "Spotify",
@@ -155,18 +155,18 @@
     {
       "added_at": "2024-07-02 21:20:51",
       "album": {
-        "name": "How To Save A Life",
-        "url": "https://open.spotify.com/album/1IM3GwptCGYjRkzCBolyFK"
+        "name": "Oracular Spectacular",
+        "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
       },
       "artists": [
         {
-          "name": "The Fray",
-          "url": "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
+          "name": "MGMT",
+          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
         }
       ],
-      "duration_ms": 262533,
-      "name": "How to Save a Life",
-      "url": "https://open.spotify.com/track/5fVZC9GiM4e8vu99W0Xf6J"
+      "duration_ms": 302840,
+      "name": "Kids",
+      "url": "https://open.spotify.com/track/1jJci4qxiYcOHhQR247rEU"
     },
     {
       "added_at": "2024-07-02 21:20:51",
@@ -187,18 +187,18 @@
     {
       "added_at": "2024-07-02 21:20:51",
       "album": {
-        "name": "Oracular Spectacular",
-        "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
+        "name": "How To Save A Life",
+        "url": "https://open.spotify.com/album/1IM3GwptCGYjRkzCBolyFK"
       },
       "artists": [
         {
-          "name": "MGMT",
-          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+          "name": "The Fray",
+          "url": "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
         }
       ],
-      "duration_ms": 302840,
-      "name": "Kids",
-      "url": "https://open.spotify.com/track/1jJci4qxiYcOHhQR247rEU"
+      "duration_ms": 262533,
+      "name": "How to Save a Life",
+      "url": "https://open.spotify.com/track/5fVZC9GiM4e8vu99W0Xf6J"
     },
     {
       "added_at": "2024-07-02 21:20:51",
@@ -299,22 +299,6 @@
     {
       "added_at": "2024-07-02 21:20:51",
       "album": {
-        "name": "Away From The Sun",
-        "url": "https://open.spotify.com/album/72olNArm75vOycSziqIX9Y"
-      },
-      "artists": [
-        {
-          "name": "3 Doors Down",
-          "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
-        }
-      ],
-      "duration_ms": 238733,
-      "name": "Here Without You",
-      "url": "https://open.spotify.com/track/3NLrRZoMF0Lx6zTlYqeIo4"
-    },
-    {
-      "added_at": "2024-07-02 21:20:51",
-      "album": {
         "name": "All That We Needed",
         "url": "https://open.spotify.com/album/4vUClKTFaDWnsHE8rK52GY"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 232533,
       "name": "Hey There Delilah",
       "url": "https://open.spotify.com/track/4RCWB3V8V0dignt99LZ8vH"
+    },
+    {
+      "added_at": "2024-07-02 21:20:51",
+      "album": {
+        "name": "Away From The Sun",
+        "url": "https://open.spotify.com/album/72olNArm75vOycSziqIX9Y"
+      },
+      "artists": [
+        {
+          "name": "3 Doors Down",
+          "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
+        }
+      ],
+      "duration_ms": 238733,
+      "name": "Here Without You",
+      "url": "https://open.spotify.com/track/3NLrRZoMF0Lx6zTlYqeIo4"
     },
     {
       "added_at": "2024-07-02 21:20:51",
@@ -523,22 +523,6 @@
     {
       "added_at": "2024-07-02 21:20:51",
       "album": {
-        "name": "The Long Road",
-        "url": "https://open.spotify.com/album/4fygErqiNgFUic5hU42Z3E"
-      },
-      "artists": [
-        {
-          "name": "Nickelback",
-          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
-        }
-      ],
-      "duration_ms": 207466,
-      "name": "Someday",
-      "url": "https://open.spotify.com/track/4PkJ7c9y1CwpuVOiJODnCZ"
-    },
-    {
-      "added_at": "2024-07-02 21:20:51",
-      "album": {
         "name": "A Fever You Can't Sweat Out",
         "url": "https://open.spotify.com/album/2YeOhhJg3OWpN0F1VYPxtW"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 186634,
       "name": "I Write Sins Not Tragedies",
       "url": "https://open.spotify.com/track/4bPQs0PHn4xbipzdPfn6du"
+    },
+    {
+      "added_at": "2024-07-02 21:20:51",
+      "album": {
+        "name": "The Long Road",
+        "url": "https://open.spotify.com/album/4fygErqiNgFUic5hU42Z3E"
+      },
+      "artists": [
+        {
+          "name": "Nickelback",
+          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
+        }
+      ],
+      "duration_ms": 207466,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/4PkJ7c9y1CwpuVOiJODnCZ"
     },
     {
       "added_at": "2024-07-02 21:20:51",
@@ -571,22 +571,6 @@
     {
       "added_at": "2024-07-02 21:20:51",
       "album": {
-        "name": "Lifehouse",
-        "url": "https://open.spotify.com/album/2hOY4rDu51XSBvtwfWgSmz"
-      },
-      "artists": [
-        {
-          "name": "Lifehouse",
-          "url": "https://open.spotify.com/artist/5PokPZn11xzZXyXSfnvIM3"
-        }
-      ],
-      "duration_ms": 195493,
-      "name": "You And Me",
-      "url": "https://open.spotify.com/track/0815caqt2Lytro5EIzMufT"
-    },
-    {
-      "added_at": "2024-07-02 21:20:51",
-      "album": {
         "name": "Daniel Powter",
         "url": "https://open.spotify.com/album/4zhigAhPwqp43XVHBiVeQI"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 233640,
       "name": "Bad Day",
       "url": "https://open.spotify.com/track/0mUyMawtxj1CJ76kn9gIZK"
+    },
+    {
+      "added_at": "2024-07-02 21:20:51",
+      "album": {
+        "name": "Lifehouse",
+        "url": "https://open.spotify.com/album/2hOY4rDu51XSBvtwfWgSmz"
+      },
+      "artists": [
+        {
+          "name": "Lifehouse",
+          "url": "https://open.spotify.com/artist/5PokPZn11xzZXyXSfnvIM3"
+        }
+      ],
+      "duration_ms": 195493,
+      "name": "You And Me",
+      "url": "https://open.spotify.com/track/0815caqt2Lytro5EIzMufT"
     },
     {
       "added_at": "2024-07-02 21:20:51",
@@ -699,22 +699,6 @@
     {
       "added_at": "2024-07-02 21:20:51",
       "album": {
-        "name": "The Script",
-        "url": "https://open.spotify.com/album/2hWSBJTWE0ce0NqJv2vzCc"
-      },
-      "artists": [
-        {
-          "name": "The Script",
-          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
-        }
-      ],
-      "duration_ms": 241373,
-      "name": "The Man Who Can't Be Moved",
-      "url": "https://open.spotify.com/track/4AFwnrH5atiJoAd5xS5QtR"
-    },
-    {
-      "added_at": "2024-07-02 21:20:51",
-      "album": {
         "name": "You Gotta Go There To Come Back",
         "url": "https://open.spotify.com/album/65ekRZTdz7ufM6yULqgjo8"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 272946,
       "name": "Maybe Tomorrow",
       "url": "https://open.spotify.com/track/6SXy02aTZU3ysoGUixYCz0"
+    },
+    {
+      "added_at": "2024-07-02 21:20:51",
+      "album": {
+        "name": "The Script",
+        "url": "https://open.spotify.com/album/2hWSBJTWE0ce0NqJv2vzCc"
+      },
+      "artists": [
+        {
+          "name": "The Script",
+          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
+        }
+      ],
+      "duration_ms": 241373,
+      "name": "The Man Who Can't Be Moved",
+      "url": "https://open.spotify.com/track/4AFwnrH5atiJoAd5xS5QtR"
     },
     {
       "added_at": "2024-07-02 21:20:51",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2024-07-02 21:20:51",
       "album": {
-        "name": "Under Rug Swept",
-        "url": "https://open.spotify.com/album/0kKfmdca8GY7bDWFWtY801"
-      },
-      "artists": [
-        {
-          "name": "Alanis Morissette",
-          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
-        }
-      ],
-      "duration_ms": 269400,
-      "name": "Hands Clean",
-      "url": "https://open.spotify.com/track/2LVxvGhl2U5p2ql2ujc6vZ"
-    },
-    {
-      "added_at": "2024-07-02 21:20:51",
-      "album": {
         "name": "The Invisible Band",
         "url": "https://open.spotify.com/album/7hktYMjRekLPK3BZRr4sIQ"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 239240,
       "name": "Side",
       "url": "https://open.spotify.com/track/5gfmEhfgMIcV3He1wgDGJY"
+    },
+    {
+      "added_at": "2024-07-02 21:20:51",
+      "album": {
+        "name": "Under Rug Swept",
+        "url": "https://open.spotify.com/album/0kKfmdca8GY7bDWFWtY801"
+      },
+      "artists": [
+        {
+          "name": "Alanis Morissette",
+          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+        }
+      ],
+      "duration_ms": 269400,
+      "name": "Hands Clean",
+      "url": "https://open.spotify.com/track/2LVxvGhl2U5p2ql2ujc6vZ"
     },
     {
       "added_at": "2024-07-02 21:20:51",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2024-07-02 21:20:51",
       "album": {
-        "name": "Something to Be",
-        "url": "https://open.spotify.com/album/07hC5JSKAodpBIVR6A772E"
-      },
-      "artists": [
-        {
-          "name": "Rob Thomas",
-          "url": "https://open.spotify.com/artist/3aBkeBhwadnWMWoVJ2CxJC"
-        }
-      ],
-      "duration_ms": 256600,
-      "name": "Ever the Same",
-      "url": "https://open.spotify.com/track/02acUMylPHMjJ9miDc9b38"
-    },
-    {
-      "added_at": "2024-07-02 21:20:51",
-      "album": {
         "name": "Songs From An American Movie: Learning How To Smile",
         "url": "https://open.spotify.com/album/2GQ3ljlp19JGE7qvE89PqF"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 240466,
       "name": "Show Me What I'm Looking For",
       "url": "https://open.spotify.com/track/2h8iXIwEdEnQywhFC4q5e5"
+    },
+    {
+      "added_at": "2024-07-02 21:20:51",
+      "album": {
+        "name": "Something to Be",
+        "url": "https://open.spotify.com/album/07hC5JSKAodpBIVR6A772E"
+      },
+      "artists": [
+        {
+          "name": "Rob Thomas",
+          "url": "https://open.spotify.com/artist/3aBkeBhwadnWMWoVJ2CxJC"
+        }
+      ],
+      "duration_ms": 256600,
+      "name": "Ever the Same",
+      "url": "https://open.spotify.com/track/02acUMylPHMjJ9miDc9b38"
     },
     {
       "added_at": "2024-07-02 21:20:51",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2024-07-02 21:20:51",
       "album": {
-        "name": "Cradlesong",
-        "url": "https://open.spotify.com/album/72aNaOna8AV0GZADXRbFlX"
-      },
-      "artists": [
-        {
-          "name": "Rob Thomas",
-          "url": "https://open.spotify.com/artist/3aBkeBhwadnWMWoVJ2CxJC"
-        }
-      ],
-      "duration_ms": 280000,
-      "name": "Her Diamonds",
-      "url": "https://open.spotify.com/track/3LtwmK1OfN0dGs9jf3qSjn"
-    },
-    {
-      "added_at": "2024-07-02 21:20:51",
-      "album": {
         "name": "C'mon, C'mon",
         "url": "https://open.spotify.com/album/5SPkapdx8WH82UhGPfeoc4"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 192893,
       "name": "Nine in the Afternoon",
       "url": "https://open.spotify.com/track/59kTVUKhpcFw9zMLPSbFvH"
+    },
+    {
+      "added_at": "2024-07-02 21:20:51",
+      "album": {
+        "name": "Cradlesong",
+        "url": "https://open.spotify.com/album/72aNaOna8AV0GZADXRbFlX"
+      },
+      "artists": [
+        {
+          "name": "Rob Thomas",
+          "url": "https://open.spotify.com/artist/3aBkeBhwadnWMWoVJ2CxJC"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "Her Diamonds",
+      "url": "https://open.spotify.com/track/3LtwmK1OfN0dGs9jf3qSjn"
     },
     {
       "added_at": "2024-07-02 21:20:51",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2024-07-02 21:20:51",
       "album": {
-        "name": "Move Along",
-        "url": "https://open.spotify.com/album/3PWEGZ6CYvXRnr0JCECsDe"
-      },
-      "artists": [
-        {
-          "name": "The All-American Rejects",
-          "url": "https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT"
-        }
-      ],
-      "duration_ms": 193653,
-      "name": "Dirty Little Secret",
-      "url": "https://open.spotify.com/track/5lDriBxJd22IhOH9zTcFrV"
-    },
-    {
-      "added_at": "2024-07-02 21:20:51",
-      "album": {
         "name": "Kris Allen",
         "url": "https://open.spotify.com/album/5fM41TOegBBrRO7NhmFYvP"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 212506,
       "name": "Live Like We're Dying",
       "url": "https://open.spotify.com/track/1HfxPaJggVwFsvOtHbVzMz"
+    },
+    {
+      "added_at": "2024-07-02 21:20:51",
+      "album": {
+        "name": "The First Cut Is The Deepest",
+        "url": "https://open.spotify.com/album/2zBc7QlIkKDrKwzhiCfMc5"
+      },
+      "artists": [
+        {
+          "name": "Sheryl Crow",
+          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+        }
+      ],
+      "duration_ms": 227293,
+      "name": "The First Cut Is The Deepest",
+      "url": "https://open.spotify.com/track/16RgOvGr4RpkitCiWK5sqU"
     }
   ],
   "unique_name": "00s Pop Rock",

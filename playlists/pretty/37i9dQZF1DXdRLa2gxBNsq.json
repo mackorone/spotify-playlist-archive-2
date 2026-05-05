@@ -1,6 +1,6 @@
 {
   "description": "No, el punk espa\u00f1ol NO EST\u00c1 MUERTO. Foto: Non Servium.",
-  "num_followers": 115512,
+  "num_followers": 115527,
   "original_name": "Punk Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -59,18 +59,18 @@
     {
       "added_at": "2026-04-09 22:00:22",
       "album": {
-        "name": "Tiempos Oscuros",
-        "url": "https://open.spotify.com/album/7aQjiTfTyA9eMNkuMc09k9"
+        "name": "Siglo XXI",
+        "url": "https://open.spotify.com/album/2fwFXVTTeMyJj7IbIoFQZy"
       },
       "artists": [
         {
-          "name": "Soziedad Alkoholika",
-          "url": "https://open.spotify.com/artist/2S5OOMthdyp3Qu4IbTGAQ3"
+          "name": "Gatillazo",
+          "url": "https://open.spotify.com/artist/3XrunnoiCGkRTanrnsPRam"
         }
       ],
-      "duration_ms": 195600,
-      "name": "Piedra Contra Tijera",
-      "url": "https://open.spotify.com/track/05ZxYc1glaSTsNVbjBO9Ty"
+      "duration_ms": 159826,
+      "name": "Esclavos del Siglo XXI",
+      "url": "https://open.spotify.com/track/0tk6HwFFBSkbrn8sGKaZgq"
     },
     {
       "added_at": "2026-04-09 22:00:22",
@@ -135,18 +135,18 @@
     {
       "added_at": "2026-04-09 22:00:22",
       "album": {
-        "name": "Siglo XXI",
-        "url": "https://open.spotify.com/album/2fwFXVTTeMyJj7IbIoFQZy"
+        "name": "Tiempos Oscuros",
+        "url": "https://open.spotify.com/album/7aQjiTfTyA9eMNkuMc09k9"
       },
       "artists": [
         {
-          "name": "Gatillazo",
-          "url": "https://open.spotify.com/artist/3XrunnoiCGkRTanrnsPRam"
+          "name": "Soziedad Alkoholika",
+          "url": "https://open.spotify.com/artist/2S5OOMthdyp3Qu4IbTGAQ3"
         }
       ],
-      "duration_ms": 159826,
-      "name": "Esclavos del Siglo XXI",
-      "url": "https://open.spotify.com/track/0tk6HwFFBSkbrn8sGKaZgq"
+      "duration_ms": 195600,
+      "name": "Piedra Contra Tijera",
+      "url": "https://open.spotify.com/track/05ZxYc1glaSTsNVbjBO9Ty"
     },
     {
       "added_at": "2026-04-09 22:00:22",
@@ -207,22 +207,6 @@
     {
       "added_at": "2026-04-09 22:00:22",
       "album": {
-        "name": "Demasiados Enemigos",
-        "url": "https://open.spotify.com/album/06jJMaPtFcbDkuzuIeKywk"
-      },
-      "artists": [
-        {
-          "name": "Eskorbuto",
-          "url": "https://open.spotify.com/artist/3AXQ8iTveAp1uA5NlbK8qb"
-        }
-      ],
-      "duration_ms": 267038,
-      "name": "Adios Reina Mia",
-      "url": "https://open.spotify.com/track/52hHIF5rYiUi0AtPyvMrY2"
-    },
-    {
-      "added_at": "2026-04-09 22:00:22",
-      "album": {
         "name": "Siglo XXI",
         "url": "https://open.spotify.com/album/2fwFXVTTeMyJj7IbIoFQZy"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 192800,
       "name": "La \u00daltima Patada",
       "url": "https://open.spotify.com/track/0QobiDnqGnnbbW8Duu9j90"
+    },
+    {
+      "added_at": "2026-04-09 22:00:22",
+      "album": {
+        "name": "Demasiados Enemigos",
+        "url": "https://open.spotify.com/album/06jJMaPtFcbDkuzuIeKywk"
+      },
+      "artists": [
+        {
+          "name": "Eskorbuto",
+          "url": "https://open.spotify.com/artist/3AXQ8iTveAp1uA5NlbK8qb"
+        }
+      ],
+      "duration_ms": 267038,
+      "name": "Adios Reina Mia",
+      "url": "https://open.spotify.com/track/52hHIF5rYiUi0AtPyvMrY2"
     },
     {
       "added_at": "2026-04-09 22:00:22",
@@ -715,26 +715,6 @@
     {
       "added_at": "2026-04-09 22:00:22",
       "album": {
-        "name": "Discobolo",
-        "url": "https://open.spotify.com/album/4RJ2f70YrdG7cGVJ2IgYFU"
-      },
-      "artists": [
-        {
-          "name": "Manolo Kabezabolo",
-          "url": "https://open.spotify.com/artist/0mCVBnmmGLp7tjBR4J8Q3M"
-        },
-        {
-          "name": "Parabellum",
-          "url": "https://open.spotify.com/artist/0JbJ9sG3cB719QmmkIRTPQ"
-        }
-      ],
-      "duration_ms": 135626,
-      "name": "Pogo",
-      "url": "https://open.spotify.com/track/2Bs5xnNBDiKuWhX2LFxpoc"
-    },
-    {
-      "added_at": "2026-04-09 22:00:22",
-      "album": {
         "name": "Camino hacia la ruina",
         "url": "https://open.spotify.com/album/7z6A7KRuF72XBB8VcvUbIh"
       },
@@ -767,6 +747,26 @@
       "duration_ms": 200168,
       "name": "Mi \u00fanica salida",
       "url": "https://open.spotify.com/track/1Iq05aiCe4fPyJXDiSsHIW"
+    },
+    {
+      "added_at": "2026-04-09 22:00:22",
+      "album": {
+        "name": "Discobolo",
+        "url": "https://open.spotify.com/album/4RJ2f70YrdG7cGVJ2IgYFU"
+      },
+      "artists": [
+        {
+          "name": "Manolo Kabezabolo",
+          "url": "https://open.spotify.com/artist/0mCVBnmmGLp7tjBR4J8Q3M"
+        },
+        {
+          "name": "Parabellum",
+          "url": "https://open.spotify.com/artist/0JbJ9sG3cB719QmmkIRTPQ"
+        }
+      ],
+      "duration_ms": 135626,
+      "name": "Pogo",
+      "url": "https://open.spotify.com/track/2Bs5xnNBDiKuWhX2LFxpoc"
     },
     {
       "added_at": "2026-04-09 22:00:22",
@@ -819,22 +819,6 @@
     {
       "added_at": "2026-04-09 22:00:22",
       "album": {
-        "name": "La Buena M\u00fasica",
-        "url": "https://open.spotify.com/album/4MsDjFy2xpRc7t7Iakglr6"
-      },
-      "artists": [
-        {
-          "name": "Kaos Et\u00edliko",
-          "url": "https://open.spotify.com/artist/5y9aHzw345UfAGA1Db5BPy"
-        }
-      ],
-      "duration_ms": 177421,
-      "name": "La Buena M\u00fasica",
-      "url": "https://open.spotify.com/track/09Y2rADdCOBtv7N1LBRNTx"
-    },
-    {
-      "added_at": "2026-04-09 22:00:22",
-      "album": {
         "name": "A Bocajarro + Sopla Sopla",
         "url": "https://open.spotify.com/album/2QoZ36rmjP1gyQIQ2aAB9r"
       },
@@ -875,6 +859,22 @@
     {
       "added_at": "2026-04-09 22:00:22",
       "album": {
+        "name": "La Buena M\u00fasica",
+        "url": "https://open.spotify.com/album/4MsDjFy2xpRc7t7Iakglr6"
+      },
+      "artists": [
+        {
+          "name": "Kaos Et\u00edliko",
+          "url": "https://open.spotify.com/artist/5y9aHzw345UfAGA1Db5BPy"
+        }
+      ],
+      "duration_ms": 177421,
+      "name": "La Buena M\u00fasica",
+      "url": "https://open.spotify.com/track/09Y2rADdCOBtv7N1LBRNTx"
+    },
+    {
+      "added_at": "2026-04-09 22:00:22",
+      "album": {
         "name": "Sudapollismo Ilustrado",
         "url": "https://open.spotify.com/album/4vkp4b9gVT5Lg8E5ppkLsr"
       },
@@ -887,6 +887,22 @@
       "duration_ms": 190426,
       "name": "Sudapollismo Ilustrado",
       "url": "https://open.spotify.com/track/0BB5RNNNGtHfkYIP0EyQt6"
+    },
+    {
+      "added_at": "2026-04-09 22:00:22",
+      "album": {
+        "name": "Ahora soy un punkarra",
+        "url": "https://open.spotify.com/album/1c1By2uCsRcq6TN20WmYFK"
+      },
+      "artists": [
+        {
+          "name": "Desklate",
+          "url": "https://open.spotify.com/artist/1XzYJOnCCtzY8jJtnmjInT"
+        }
+      ],
+      "duration_ms": 144944,
+      "name": "Ahora soy un punkarra",
+      "url": "https://open.spotify.com/track/0LxrU6acqExF3yRqm4CGNP"
     },
     {
       "added_at": "2026-04-09 22:00:22",
@@ -907,22 +923,6 @@
       "duration_ms": 234813,
       "name": "Abolici\u00f3n",
       "url": "https://open.spotify.com/track/4dz3C2nGPambZMxb7Op4uu"
-    },
-    {
-      "added_at": "2026-04-09 22:00:22",
-      "album": {
-        "name": "Ahora soy un punkarra",
-        "url": "https://open.spotify.com/album/1c1By2uCsRcq6TN20WmYFK"
-      },
-      "artists": [
-        {
-          "name": "Desklate",
-          "url": "https://open.spotify.com/artist/1XzYJOnCCtzY8jJtnmjInT"
-        }
-      ],
-      "duration_ms": 144944,
-      "name": "Ahora soy un punkarra",
-      "url": "https://open.spotify.com/track/0LxrU6acqExF3yRqm4CGNP"
     },
     {
       "added_at": "2026-04-09 22:00:22",
@@ -995,22 +995,6 @@
     {
       "added_at": "2026-04-09 22:00:22",
       "album": {
-        "name": "Garrote Vil",
-        "url": "https://open.spotify.com/album/1g2gfrZYqVz51765ogVnwD"
-      },
-      "artists": [
-        {
-          "name": "XpresidentX",
-          "url": "https://open.spotify.com/artist/55xp25jpoTYjWrUjGoJftK"
-        }
-      ],
-      "duration_ms": 105386,
-      "name": "Jubilaci\u00f3n a los 18",
-      "url": "https://open.spotify.com/track/3LGK9ODTGbdAkgeD6ZOOp5"
-    },
-    {
-      "added_at": "2026-04-09 22:00:22",
-      "album": {
         "name": "Antifascismo",
         "url": "https://open.spotify.com/album/1NB2KlLDkVFJLJPlMg7zXU"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 260127,
       "name": "Antifascismo",
       "url": "https://open.spotify.com/track/0V945W0o8KQijRUY98x59d"
+    },
+    {
+      "added_at": "2026-04-09 22:00:22",
+      "album": {
+        "name": "Garrote Vil",
+        "url": "https://open.spotify.com/album/1g2gfrZYqVz51765ogVnwD"
+      },
+      "artists": [
+        {
+          "name": "XpresidentX",
+          "url": "https://open.spotify.com/artist/55xp25jpoTYjWrUjGoJftK"
+        }
+      ],
+      "duration_ms": 105386,
+      "name": "Jubilaci\u00f3n a los 18",
+      "url": "https://open.spotify.com/track/3LGK9ODTGbdAkgeD6ZOOp5"
     },
     {
       "added_at": "2026-04-09 22:00:22",
@@ -1135,6 +1135,38 @@
     {
       "added_at": "2026-04-09 22:00:22",
       "album": {
+        "name": "Borratxos y Orgullosos",
+        "url": "https://open.spotify.com/album/5ID6tz1P5QOQlS6z2ht7IE"
+      },
+      "artists": [
+        {
+          "name": "Josetxu Piperrak & The Riber Rock Band",
+          "url": "https://open.spotify.com/artist/3CMa7KMGEivE5STGjWSlxG"
+        }
+      ],
+      "duration_ms": 223950,
+      "name": "Borratxos y Orgullosos",
+      "url": "https://open.spotify.com/track/3pcyr7HKRhEAf6RZ9UFLdc"
+    },
+    {
+      "added_at": "2026-04-09 22:00:22",
+      "album": {
+        "name": "Asesinos",
+        "url": "https://open.spotify.com/album/795sm61CeAsygXN9TlRnNc"
+      },
+      "artists": [
+        {
+          "name": "Manifa",
+          "url": "https://open.spotify.com/artist/7ynFnXnaMHYbTeT4JQ97tc"
+        }
+      ],
+      "duration_ms": 176117,
+      "name": "Asesinos",
+      "url": "https://open.spotify.com/track/0CRt6D5Rvprkc7ldCixcSJ"
+    },
+    {
+      "added_at": "2026-04-09 22:00:22",
+      "album": {
         "name": "CABE\u00c7A",
         "url": "https://open.spotify.com/album/2sA1DJhkHm3hxPZOcEL1c3"
       },
@@ -1179,38 +1211,6 @@
     {
       "added_at": "2026-04-09 22:00:22",
       "album": {
-        "name": "Borratxos y Orgullosos",
-        "url": "https://open.spotify.com/album/5ID6tz1P5QOQlS6z2ht7IE"
-      },
-      "artists": [
-        {
-          "name": "Josetxu Piperrak & The Riber Rock Band",
-          "url": "https://open.spotify.com/artist/3CMa7KMGEivE5STGjWSlxG"
-        }
-      ],
-      "duration_ms": 223950,
-      "name": "Borratxos y Orgullosos",
-      "url": "https://open.spotify.com/track/3pcyr7HKRhEAf6RZ9UFLdc"
-    },
-    {
-      "added_at": "2026-04-09 22:00:22",
-      "album": {
-        "name": "Asesinos",
-        "url": "https://open.spotify.com/album/795sm61CeAsygXN9TlRnNc"
-      },
-      "artists": [
-        {
-          "name": "Manifa",
-          "url": "https://open.spotify.com/artist/7ynFnXnaMHYbTeT4JQ97tc"
-        }
-      ],
-      "duration_ms": 176117,
-      "name": "Asesinos",
-      "url": "https://open.spotify.com/track/0CRt6D5Rvprkc7ldCixcSJ"
-    },
-    {
-      "added_at": "2026-04-09 22:00:22",
-      "album": {
         "name": "Control de Masas",
         "url": "https://open.spotify.com/album/0wDmAO63FZOYvotxqeCOlm"
       },
@@ -1223,22 +1223,6 @@
       "duration_ms": 221144,
       "name": "Control de Masas",
       "url": "https://open.spotify.com/track/1wraUGXXMRMPpFglQuZhU4"
-    },
-    {
-      "added_at": "2026-04-09 22:00:22",
-      "album": {
-        "name": "Noches sin Luna",
-        "url": "https://open.spotify.com/album/6dZzwhTELHgpFyIvC0TMVK"
-      },
-      "artists": [
-        {
-          "name": "La Mercury Punk",
-          "url": "https://open.spotify.com/artist/5Fz3D2AtzaclCUr00tsnRo"
-        }
-      ],
-      "duration_ms": 259310,
-      "name": "Noches sin Luna",
-      "url": "https://open.spotify.com/track/4sITI73ZbmS3a0veXw9LVb"
     },
     {
       "added_at": "2026-04-09 22:00:22",
@@ -1259,6 +1243,22 @@
       "duration_ms": 176481,
       "name": "Vuelvo",
       "url": "https://open.spotify.com/track/117c3qQUL3vBRVxEZs8RY0"
+    },
+    {
+      "added_at": "2026-04-09 22:00:22",
+      "album": {
+        "name": "Noches sin Luna",
+        "url": "https://open.spotify.com/album/6dZzwhTELHgpFyIvC0TMVK"
+      },
+      "artists": [
+        {
+          "name": "La Mercury Punk",
+          "url": "https://open.spotify.com/artist/5Fz3D2AtzaclCUr00tsnRo"
+        }
+      ],
+      "duration_ms": 259310,
+      "name": "Noches sin Luna",
+      "url": "https://open.spotify.com/track/4sITI73ZbmS3a0veXw9LVb"
     },
     {
       "added_at": "2026-04-09 22:00:22",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2026-04-09 22:00:22",
       "album": {
-        "name": "Pura dinamita",
-        "url": "https://open.spotify.com/album/40FbSqsn2UaGp9n58PPZs9"
-      },
-      "artists": [
-        {
-          "name": "Kamikazes",
-          "url": "https://open.spotify.com/artist/4PkKM2KE5z1OhO6rHvD5Vy"
-        }
-      ],
-      "duration_ms": 236888,
-      "name": "Pura dinamita",
-      "url": "https://open.spotify.com/track/4HTiRTeezS06D5LkLrNkKC"
-    },
-    {
-      "added_at": "2026-04-09 22:00:22",
-      "album": {
         "name": "El Mutante del Barrio Chino",
         "url": "https://open.spotify.com/album/0IzirXfpxJt753nbjyMV7j"
       },
@@ -1436,9 +1420,25 @@
           "url": "https://open.spotify.com/artist/0kya4eL7YgduZ1RAbO6Uou"
         }
       ],
-      "duration_ms": 249719,
-      "name": "Kualkier D\u00eda",
-      "url": "https://open.spotify.com/track/1I9u9TGitfcJzOXV1fCM9B"
+      "duration_ms": 170686,
+      "name": "Mi Primer Amor",
+      "url": "https://open.spotify.com/track/2oRmhBSPhWNScSkwR7x8xi"
+    },
+    {
+      "added_at": "2026-04-09 22:00:22",
+      "album": {
+        "name": "Pura dinamita",
+        "url": "https://open.spotify.com/album/40FbSqsn2UaGp9n58PPZs9"
+      },
+      "artists": [
+        {
+          "name": "Kamikazes",
+          "url": "https://open.spotify.com/artist/4PkKM2KE5z1OhO6rHvD5Vy"
+        }
+      ],
+      "duration_ms": 236888,
+      "name": "Pura dinamita",
+      "url": "https://open.spotify.com/track/4HTiRTeezS06D5LkLrNkKC"
     },
     {
       "added_at": "2026-04-09 22:00:22",
@@ -1475,6 +1475,38 @@
     {
       "added_at": "2026-04-09 22:00:22",
       "album": {
+        "name": "Envenenado",
+        "url": "https://open.spotify.com/album/5GO7H2fSWsSs8QA7ahTcsK"
+      },
+      "artists": [
+        {
+          "name": "Parabellum",
+          "url": "https://open.spotify.com/artist/0JbJ9sG3cB719QmmkIRTPQ"
+        }
+      ],
+      "duration_ms": 186493,
+      "name": "Nos Enga\u00f1an - original",
+      "url": "https://open.spotify.com/track/0WFeE2O8RI03RheJ4PPbDr"
+    },
+    {
+      "added_at": "2026-04-09 22:00:22",
+      "album": {
+        "name": "Arde Ribera",
+        "url": "https://open.spotify.com/album/4miZbn6vSzsHLvCUMSBX1s"
+      },
+      "artists": [
+        {
+          "name": "Piperrak",
+          "url": "https://open.spotify.com/artist/0kya4eL7YgduZ1RAbO6Uou"
+        }
+      ],
+      "duration_ms": 249719,
+      "name": "Kualkier D\u00eda",
+      "url": "https://open.spotify.com/track/1I9u9TGitfcJzOXV1fCM9B"
+    },
+    {
+      "added_at": "2026-04-09 22:00:22",
+      "album": {
         "name": "Salve",
         "url": "https://open.spotify.com/album/1XCAxFWUmdLpI0WEtfBYmU"
       },
@@ -1503,22 +1535,6 @@
       "duration_ms": 198773,
       "name": "Su Falso Mundo - original",
       "url": "https://open.spotify.com/track/1ru5Wf0fK3c1XHcdKIjvrg"
-    },
-    {
-      "added_at": "2026-04-09 22:00:22",
-      "album": {
-        "name": "Arde Ribera",
-        "url": "https://open.spotify.com/album/4miZbn6vSzsHLvCUMSBX1s"
-      },
-      "artists": [
-        {
-          "name": "Piperrak",
-          "url": "https://open.spotify.com/artist/0kya4eL7YgduZ1RAbO6Uou"
-        }
-      ],
-      "duration_ms": 170686,
-      "name": "Mi Primer Amor",
-      "url": "https://open.spotify.com/track/2oRmhBSPhWNScSkwR7x8xi"
     },
     {
       "added_at": "2026-04-09 22:00:22",
@@ -1571,22 +1587,6 @@
     {
       "added_at": "2026-04-09 22:00:22",
       "album": {
-        "name": "No Hay Agua",
-        "url": "https://open.spotify.com/album/1apZlul36uZlJunetvaxoq"
-      },
-      "artists": [
-        {
-          "name": "Kaos Et\u00edliko",
-          "url": "https://open.spotify.com/artist/5y9aHzw345UfAGA1Db5BPy"
-        }
-      ],
-      "duration_ms": 124853,
-      "name": "Mi Mejor Colega - original",
-      "url": "https://open.spotify.com/track/4kzDs6iR4VsQnZhhrWHcOE"
-    },
-    {
-      "added_at": "2026-04-09 22:00:22",
-      "album": {
         "name": "Hace falta\u2026?",
         "url": "https://open.spotify.com/album/5t0HwnzCCMGcMmervnzQRY"
       },
@@ -1599,6 +1599,22 @@
       "duration_ms": 233000,
       "name": "La locura - original",
       "url": "https://open.spotify.com/track/4qoiW7KuyMkiShQgZkRGc6"
+    },
+    {
+      "added_at": "2026-04-09 22:00:22",
+      "album": {
+        "name": "No Hay Agua",
+        "url": "https://open.spotify.com/album/1apZlul36uZlJunetvaxoq"
+      },
+      "artists": [
+        {
+          "name": "Kaos Et\u00edliko",
+          "url": "https://open.spotify.com/artist/5y9aHzw345UfAGA1Db5BPy"
+        }
+      ],
+      "duration_ms": 124853,
+      "name": "Mi Mejor Colega - original",
+      "url": "https://open.spotify.com/track/4kzDs6iR4VsQnZhhrWHcOE"
     },
     {
       "added_at": "2026-04-09 22:00:22",
@@ -1679,22 +1695,6 @@
       "duration_ms": 163757,
       "name": "Por ti",
       "url": "https://open.spotify.com/track/7tbmPVO7BOZ3uBTkQ4lwFV"
-    },
-    {
-      "added_at": "2026-04-09 22:00:22",
-      "album": {
-        "name": "J\u00f3dete",
-        "url": "https://open.spotify.com/album/1AQXxv2pGU4QSh6v34FufL"
-      },
-      "artists": [
-        {
-          "name": "M.C.D.",
-          "url": "https://open.spotify.com/artist/2sKHlDMJUO4uCZLsEmcun3"
-        }
-      ],
-      "duration_ms": 227992,
-      "name": "Gernika",
-      "url": "https://open.spotify.com/track/2U24O0XkSyQ36T8yMnaeDp"
     }
   ],
   "unique_name": "Punk Espa\u00f1ol",

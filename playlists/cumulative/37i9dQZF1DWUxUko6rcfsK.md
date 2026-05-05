@@ -4,7 +4,7 @@
 
 > Het leven is 'beautiful' en dat verdient fijne muziek!
 
-234 songs - 13 hr 14 min
+237 songs - 13 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [All Behind](https://open.spotify.com/track/0zqTjVEqt6YsLG1DwLWW9E) | [Danny Vera](https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x) | [All Behind](https://open.spotify.com/album/3Vtcyh9oWdZtNFrikeONaZ) | 4:05 | 2025-10-28 | 2025-11-08 |
 | [All I Know](https://open.spotify.com/track/3Rg3MovzxzR6RdYw7hhZjB) | [Tors](https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0) | [All I Know](https://open.spotify.com/album/0cY4ctAngwJRl77crCckSE) | 2:53 | 2026-01-10 | 2026-04-21 |
 | [ALL MY LOVE](https://open.spotify.com/track/6iYxkBHyMpsgVxUgfy5fSx) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Moon Music](https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6) | 3:42 | 2025-03-28 | 2026-02-07 |
-| [All You'll Ever Need](https://open.spotify.com/track/2wrusxZV6l4uo01yap3OVQ) | [Jack and the Weatherman](https://open.spotify.com/artist/3ydwrOmRBy5TtHpTDaauOQ) | [All You'll Ever Need](https://open.spotify.com/album/1zVgHffIaekW9JKs2aRizP) | 2:33 | 2025-08-29 |  |
+| [All You'll Ever Need](https://open.spotify.com/track/2wrusxZV6l4uo01yap3OVQ) | [Jack and the Weatherman](https://open.spotify.com/artist/3ydwrOmRBy5TtHpTDaauOQ) | [All You'll Ever Need](https://open.spotify.com/album/1zVgHffIaekW9JKs2aRizP) | 2:33 | 2025-08-29 | 2026-05-05 |
 | [Another Year Will Pass](https://open.spotify.com/track/2kK1NHAOsnl4WmRf4Zlv9B) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [Another Year Will Pass](https://open.spotify.com/album/5upyUvc97PJ25cRb1vLLDI) | 3:15 | 2026-04-13 |  |
 | [Atomic City](https://open.spotify.com/track/0Zp4PR3jLHfxcXdBdRLh7M) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Atomic City](https://open.spotify.com/album/5ghPJVqhDvidfznC4O7tW3) | 3:30 | 2024-07-01 | 2025-02-04 |
 | [Before It Might Be Gone](https://open.spotify.com/track/4QqixSXWSTWq1rC5DzCz92) | [The Vices](https://open.spotify.com/artist/6TSjJlhB2taxea58rCkMkj) | [Before It Might Be Gone](https://open.spotify.com/album/3EVICWZusdGvnKGYkY9AGM) | 4:56 | 2025-04-04 | 2026-01-31 |
@@ -23,6 +23,7 @@
 | [Believer](https://open.spotify.com/track/6zRsQkn99LTGcGAcgHYEMm) | [MICHA](https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6) | [Believer](https://open.spotify.com/album/6Gy8bgQT87rQxCZGC7lkl2) | 2:47 | 2025-12-04 |  |
 | [Best Day Of My Life](https://open.spotify.com/track/5Hroj5K7vLpIG4FNCRIjbP) | [American Authors](https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3) | [Oh, What A Life](https://open.spotify.com/album/0V4laGZGshNCpurfIdUhHv) | 3:14 | 2024-08-01 | 2024-12-21 |
 | [Black Friday](https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Black Friday](https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp) | 3:41 | 2024-07-01 | 2024-07-16 |
+| [Bones](https://open.spotify.com/track/55KnFJZVQEsS9aEKni2XQ0) | [Josua Peter](https://open.spotify.com/artist/1cOAQlxoO4hLqaCHeJEDFt) | [Bones](https://open.spotify.com/album/2MtGjWXXG2Dr7fRlhxNgrv) | 2:51 | 2026-05-04 |  |
 | [Born To Be Alive](https://open.spotify.com/track/3t5o6aDBXWyNZiyFQylraq) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [Born To Be Alive](https://open.spotify.com/album/3FfMjxeN7TOVyUwDqPCaXE) | 2:37 | 2024-07-01 | 2024-09-20 |
 | [Born With a Broken Heart](https://open.spotify.com/track/36r085cj95tQcGaOoPLfc5) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [FUNNY little FEARS](https://open.spotify.com/album/4xc5MKpCUw1LREm6cnBtOa) | 3:28 | 2025-10-02 |  |
 | [Broke](https://open.spotify.com/track/3UeVin0MUnhQdSRF4pxgfn) | [Wulf](https://open.spotify.com/artist/134sCDSe1w2zPnfCG4hT0f) | [Broke](https://open.spotify.com/album/0O32VuAQRu1yxK8kYGw13E) | 2:41 | 2025-04-11 | 2026-01-15 |
@@ -87,6 +88,7 @@
 | [High](https://open.spotify.com/track/5hlPrSCx9BvnQ3rCTkblMZ) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Angel Face](https://open.spotify.com/album/6CczqhUdYOH4qLSDnN3zkg) | 2:41 | 2024-07-15 | 2025-04-18 |
 | [Higher Love](https://open.spotify.com/track/1fYN7EbQCFgz7rhy7zoUfU) | [MELL VF](https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8) | [Higher Love](https://open.spotify.com/album/7MZZANSLtVsVBCXsXMdow9) | 3:00 | 2024-07-01 | 2025-01-24 |
 | [Honey \- Single Version](https://open.spotify.com/track/7JplJCCUuo2o6emhE3f3SK) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Honey](https://open.spotify.com/album/2tgMULeDaymA173kWVgCZS) | 3:15 | 2025-04-17 | 2026-03-20 |
+| [How Am I Gonna Love Myself](https://open.spotify.com/track/2XQZn07ixmAvy4VwCYZ0R0) | [The Indien](https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb), [Marcel Veenendaal](https://open.spotify.com/artist/0hfRYFpwyGSFZtOPfEqUHD) | [How Am I Gonna Love Myself](https://open.spotify.com/album/5x9kqNOUiD5qinQu58cRDB) | 3:17 | 2026-05-04 |  |
 | [How Beautiful This Life Is](https://open.spotify.com/track/7z8k59NKAcnwK6OOHt3i3k) | [Berre](https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW) | [How Beautiful This Life Is](https://open.spotify.com/album/0KYAQzaK5SAmll1FYTDNDx) | 3:14 | 2025-10-09 |  |
 | [How Does It Feel](https://open.spotify.com/track/5uGGSdXz791jTxkUJUZ7M1) | [The Vices](https://open.spotify.com/artist/6TSjJlhB2taxea58rCkMkj) | [How Does It Feel](https://open.spotify.com/album/4yC8BBuXd9faD7Ln1FB3mt) | 3:24 | 2025-02-03 | 2025-10-10 |
 | [How Many Nights](https://open.spotify.com/track/565PkWWdrqFITixrqoNSRi) | [The Indien](https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb) | [The Indien](https://open.spotify.com/album/05PciBASYTdhW356MVCSLS) | 3:20 | 2024-11-04 | 2025-06-14 |
@@ -160,8 +162,8 @@
 | [Plastic Jesus](https://open.spotify.com/track/0KVwciQag47CcNY3VfzqId) | [Danny Vera](https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x) | [The Way Home](https://open.spotify.com/album/2bjURBzkemslFuEbyntUFy) | 3:02 | 2026-04-13 |  |
 | [Polaroid](https://open.spotify.com/track/4jUlyXRwL5C2BhqgZ4UR3Y) | [BAY](https://open.spotify.com/artist/1Abn5FOJHEdk52uZfcjpet), [Bobbie Wall](https://open.spotify.com/artist/6HW856GZA6qu5O5pmkXVsI), [aniika](https://open.spotify.com/artist/2wi4P025ZjQKNvhTpjncc3), [Yentl](https://open.spotify.com/artist/6M2IE7XTPYn2pzfhpnDyWE) | [Polaroid](https://open.spotify.com/album/5euf6AsCmjTB1upXRmaII0) | 3:12 | 2026-03-19 |  |
 | [Queen of my Castle](https://open.spotify.com/track/5xvL8aAtHOj0R7Fpz4eAVS) | [MELL VF](https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8) | [Queen of my Castle](https://open.spotify.com/album/4RRplsBhzIVuwUeFcQnDJr) | 3:12 | 2024-09-24 | 2025-06-27 |
-| [Reason](https://open.spotify.com/track/7gq3qbUWbmSTIlGND1CXAJ) | [Bastian Steven](https://open.spotify.com/artist/1WjUPqHiUz3DrX0l1PLsC5) | [Reason](https://open.spotify.com/album/3u0XBQJaKbbE4GcAAFuXrj) | 3:38 | 2025-09-15 |  |
-| [Red Flag Magician](https://open.spotify.com/track/2Or2qg4qhw5RXDbyCTGIdb) | [Hiqpy](https://open.spotify.com/artist/7Iff7uMHGSpOygBkCsdcHq) | [Red Flag Magician](https://open.spotify.com/album/1gRciLdgJ2GetUgTSher9p) | 5:28 | 2025-07-04 |  |
+| [Reason](https://open.spotify.com/track/7gq3qbUWbmSTIlGND1CXAJ) | [Bastian Steven](https://open.spotify.com/artist/1WjUPqHiUz3DrX0l1PLsC5) | [Reason](https://open.spotify.com/album/3u0XBQJaKbbE4GcAAFuXrj) | 3:38 | 2025-09-15 | 2026-05-05 |
+| [Red Flag Magician](https://open.spotify.com/track/2Or2qg4qhw5RXDbyCTGIdb) | [Hiqpy](https://open.spotify.com/artist/7Iff7uMHGSpOygBkCsdcHq) | [Red Flag Magician](https://open.spotify.com/album/1gRciLdgJ2GetUgTSher9p) | 5:28 | 2025-07-04 | 2026-05-05 |
 | [Redemption](https://open.spotify.com/track/5oIoO34h2YoprTIJm5uPcm) | [The Magic Mumble Jumble](https://open.spotify.com/artist/18lm5VtpoiMth7H3EOts54) | [Redemption](https://open.spotify.com/album/3P49EDTKHNRLmkXIHKosg5) | 3:16 | 2026-02-13 |  |
 | [Remember Me](https://open.spotify.com/track/60DTWHQSXLdOMairERdoOn) | [Lusaint](https://open.spotify.com/artist/35v2YILQxee0yatdWj6Kg7) | [Self Sabotage](https://open.spotify.com/album/2LMv04vlituVhg9BD2VUVL) | 3:25 | 2025-03-07 | 2026-01-24 |
 | [Remind Me](https://open.spotify.com/track/6VIYEyjNW71NnIGEduf8D8) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Remind Me](https://open.spotify.com/album/0fL8J5En5o6sd8vSHAbKGt) | 3:31 | 2024-07-01 | 2024-07-27 |
@@ -217,6 +219,7 @@
 | [Truth](https://open.spotify.com/track/5PIVsmRNAY3Jm4rjiZF4Wy) | [Gildor](https://open.spotify.com/artist/2DyS2mSsaFkj5nFB3P6KqU) | [Truth](https://open.spotify.com/album/1boryF8Znj8KXWvXbTlO8k) | 4:21 | 2026-03-19 |  |
 | [Unbind](https://open.spotify.com/track/4TvpYr1gFtYxtZ4yn2LVuI) | [Eloi Youssef](https://open.spotify.com/artist/4y0egYlrx2v3IzeciScO2A) | [Unbind](https://open.spotify.com/album/04wo4zBOGQzQlbYADhO8xO) | 3:27 | 2025-10-07 |  |
 | [Used To Be Young](https://open.spotify.com/track/41WQUSINanQHfhfKpFDsms) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:11 | 2024-07-01 | 2025-01-07 |
+| [Walls](https://open.spotify.com/track/23maC3cddA5XAxmeVVxpr3) | [MELL VF](https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8) | [Walls](https://open.spotify.com/album/6SRWhcfH94UmcQrvXRuFWS) | 3:06 | 2026-05-04 |  |
 | [Was It Love](https://open.spotify.com/track/7nVhyVqs9T4g13mXls53yP) | [Tors](https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0) | [Songs From The Road, Vol\. 2](https://open.spotify.com/album/6eXBYIuotAqO0S1xPilYc7) | 4:10 | 2026-03-26 |  |
 | [Wastelands](https://open.spotify.com/track/0XFPoeF4wAc2lBckxnoKdP) | [DI\-RECT](https://open.spotify.com/artist/0d1nFNO90pwRmCeeqjOx2Q) | [Sphinx](https://open.spotify.com/album/65aaWX8pDif9qt6u4kNPpq) | 3:40 | 2025-01-06 | 2026-01-24 |
 | [We all need someone](https://open.spotify.com/track/6x3EGr8fohAjTekpiBAcRK) | [TP Le Green](https://open.spotify.com/artist/0jUArnj5Djqg2vZKfmFhIz) | [We all need someone](https://open.spotify.com/album/623d15xTlB6RC5zhVAy0uM) | 4:25 | 2026-01-29 |  |

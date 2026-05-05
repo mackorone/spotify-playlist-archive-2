@@ -1,6 +1,6 @@
 {
   "description": "El don de cantar y componer, una playlist llena de talento. Foto: Joaqu\u00edn Sabina.",
-  "num_followers": 350036,
+  "num_followers": 350059,
   "original_name": "Cantautores",
   "owner": {
     "name": "Spotify",
@@ -983,6 +983,22 @@
     {
       "added_at": "2026-04-30 22:02:04",
       "album": {
+        "name": "Canciones De Amor Para Tiempos Dificiles",
+        "url": "https://open.spotify.com/album/1HITxEQK7ac082gDH7ynDR"
+      },
+      "artists": [
+        {
+          "name": "Miguel R\u00edos",
+          "url": "https://open.spotify.com/artist/1dpnxi6xgoB2kaRYnnoatZ"
+        }
+      ],
+      "duration_ms": 225800,
+      "name": "Santa Lucia",
+      "url": "https://open.spotify.com/track/4rOf6mtF2MpDwWipaila0L"
+    },
+    {
+      "added_at": "2026-04-30 22:02:04",
+      "album": {
         "name": "Solo para Ti",
         "url": "https://open.spotify.com/album/5jan6YmFUSlMdOg0mgz9yq"
       },
@@ -1003,38 +1019,6 @@
       "duration_ms": 215343,
       "name": "Solo para Ti",
       "url": "https://open.spotify.com/track/6el7pMTZwQEWfpFNg5leuh"
-    },
-    {
-      "added_at": "2026-04-30 22:02:04",
-      "album": {
-        "name": "Canciones De Amor Para Tiempos Dificiles",
-        "url": "https://open.spotify.com/album/1HITxEQK7ac082gDH7ynDR"
-      },
-      "artists": [
-        {
-          "name": "Miguel R\u00edos",
-          "url": "https://open.spotify.com/artist/1dpnxi6xgoB2kaRYnnoatZ"
-        }
-      ],
-      "duration_ms": 225800,
-      "name": "Santa Lucia",
-      "url": "https://open.spotify.com/track/4rOf6mtF2MpDwWipaila0L"
-    },
-    {
-      "added_at": "2026-04-30 22:02:04",
-      "album": {
-        "name": "Qu\u00e9 bonito",
-        "url": "https://open.spotify.com/album/6YFOEsBJhxOo2T05Y1eJLX"
-      },
-      "artists": [
-        {
-          "name": "Valeria Castro",
-          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Qu\u00e9 bonito",
-      "url": "https://open.spotify.com/track/20nWXGPfwZuvZfpK1CrF6t"
     },
     {
       "added_at": "2026-04-30 22:02:04",
@@ -1067,6 +1051,22 @@
       "duration_ms": 185826,
       "name": "Quiero Abrazarte Tanto",
       "url": "https://open.spotify.com/track/4VBSpxGwGLtgxlsDsuEd1P"
+    },
+    {
+      "added_at": "2026-04-30 22:02:04",
+      "album": {
+        "name": "Qu\u00e9 bonito",
+        "url": "https://open.spotify.com/album/6YFOEsBJhxOo2T05Y1eJLX"
+      },
+      "artists": [
+        {
+          "name": "Valeria Castro",
+          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Qu\u00e9 bonito",
+      "url": "https://open.spotify.com/track/20nWXGPfwZuvZfpK1CrF6t"
     },
     {
       "added_at": "2026-04-30 22:02:04",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2026-04-30 22:02:04",
       "album": {
-        "name": "Deseos de cosas imposibles",
-        "url": "https://open.spotify.com/album/7tD1j4gre4QQaFTCH3MpAk"
-      },
-      "artists": [
-        {
-          "name": "Valeria Castro",
-          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
-        }
-      ],
-      "duration_ms": 214881,
-      "name": "Deseos de cosas imposibles",
-      "url": "https://open.spotify.com/track/1bEhmOoBkeINjLcLA2z0rp"
-    },
-    {
-      "added_at": "2026-04-30 22:02:04",
-      "album": {
         "name": "Miguel Hernandez",
         "url": "https://open.spotify.com/album/16CjMJTRsm3KSEgudueP2S"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 171013,
       "name": "Para la Libertad",
       "url": "https://open.spotify.com/track/2MbBeecWBAEHAYEC37Gk6s"
+    },
+    {
+      "added_at": "2026-04-30 22:02:04",
+      "album": {
+        "name": "Deseos de cosas imposibles",
+        "url": "https://open.spotify.com/album/7tD1j4gre4QQaFTCH3MpAk"
+      },
+      "artists": [
+        {
+          "name": "Valeria Castro",
+          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
+        }
+      ],
+      "duration_ms": 214881,
+      "name": "Deseos de cosas imposibles",
+      "url": "https://open.spotify.com/track/1bEhmOoBkeINjLcLA2z0rp"
     },
     {
       "added_at": "2026-04-30 22:02:04",
@@ -1403,18 +1403,18 @@
     {
       "added_at": "2026-04-30 22:02:04",
       "album": {
-        "name": "Auterretratos",
-        "url": "https://open.spotify.com/album/6D0h0IHPCoZag4aphOG7Mv"
+        "name": "Cecilia",
+        "url": "https://open.spotify.com/album/50Pefah2v2rCOfXSdLNkg0"
       },
       "artists": [
         {
-          "name": "Luis Eduardo Aute",
-          "url": "https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS"
+          "name": "Cecilia",
+          "url": "https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR"
         }
       ],
-      "duration_ms": 233000,
-      "name": "La Belleza",
-      "url": "https://open.spotify.com/track/5oMnRH2HJ3N3leLRh3AWCw"
+      "duration_ms": 198106,
+      "name": "Dama Dama (Album Version)",
+      "url": "https://open.spotify.com/track/50tK3gc47HHVffxRehbRuC"
     },
     {
       "added_at": "2026-04-30 22:02:04",
@@ -1451,18 +1451,18 @@
     {
       "added_at": "2026-04-30 22:02:04",
       "album": {
-        "name": "Cecilia",
-        "url": "https://open.spotify.com/album/50Pefah2v2rCOfXSdLNkg0"
+        "name": "Auterretratos",
+        "url": "https://open.spotify.com/album/6D0h0IHPCoZag4aphOG7Mv"
       },
       "artists": [
         {
-          "name": "Cecilia",
-          "url": "https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR"
+          "name": "Luis Eduardo Aute",
+          "url": "https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS"
         }
       ],
-      "duration_ms": 198106,
-      "name": "Dama Dama (Album Version)",
-      "url": "https://open.spotify.com/track/50tK3gc47HHVffxRehbRuC"
+      "duration_ms": 233000,
+      "name": "La Belleza",
+      "url": "https://open.spotify.com/track/5oMnRH2HJ3N3leLRh3AWCw"
     },
     {
       "added_at": "2026-04-30 22:02:04",
@@ -1627,18 +1627,18 @@
     {
       "added_at": "2026-04-30 22:02:04",
       "album": {
-        "name": "Ef\u00edmera",
-        "url": "https://open.spotify.com/album/76zI7H8SmY6myHlHdWQKJS"
+        "name": "De Lo Perdido Y Otras Coplas",
+        "url": "https://open.spotify.com/album/53XJCziWiXOOrBCmbVLXGC"
       },
       "artists": [
         {
-          "name": "Rozal\u00e9n",
-          "url": "https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz"
+          "name": "Carlos Cano",
+          "url": "https://open.spotify.com/artist/3DmpE6oHcvPFhtMTSlLMFB"
         }
       ],
-      "duration_ms": 193294,
-      "name": "Ef\u00edmera",
-      "url": "https://open.spotify.com/track/1W76QpRI7fzJZS93KVZ9Hw"
+      "duration_ms": 346920,
+      "name": "Habaneras de C\u00e1diz",
+      "url": "https://open.spotify.com/track/6Mhw12JZfaRullIwuiDrnW"
     },
     {
       "added_at": "2026-04-30 22:02:04",
@@ -1679,18 +1679,18 @@
     {
       "added_at": "2026-04-30 22:02:04",
       "album": {
-        "name": "De Lo Perdido Y Otras Coplas",
-        "url": "https://open.spotify.com/album/53XJCziWiXOOrBCmbVLXGC"
+        "name": "Ef\u00edmera",
+        "url": "https://open.spotify.com/album/76zI7H8SmY6myHlHdWQKJS"
       },
       "artists": [
         {
-          "name": "Carlos Cano",
-          "url": "https://open.spotify.com/artist/3DmpE6oHcvPFhtMTSlLMFB"
+          "name": "Rozal\u00e9n",
+          "url": "https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz"
         }
       ],
-      "duration_ms": 346920,
-      "name": "Habaneras de C\u00e1diz",
-      "url": "https://open.spotify.com/track/6Mhw12JZfaRullIwuiDrnW"
+      "duration_ms": 193294,
+      "name": "Ef\u00edmera",
+      "url": "https://open.spotify.com/track/1W76QpRI7fzJZS93KVZ9Hw"
     },
     {
       "added_at": "2026-04-30 22:02:04",

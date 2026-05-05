@@ -4,7 +4,7 @@
 
 > Bask in the sound of soul, old and new.
 
-172 songs - 10 hr 17 min
+173 songs - 10 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Head Above Water](https://open.spotify.com/track/280voyNiWMpSELBtCuMVCs) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [Head Above Water](https://open.spotify.com/album/243xtJO49rvMqy5yx1DYxz) | 3:10 | 2025-03-09 | 2025-09-07 |
 | [Head in a Jar](https://open.spotify.com/track/0y56rCLTldeTurCf3LugTZ) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [Head in a Jar](https://open.spotify.com/album/75JRyqkCNN6DQRdT5et7I3) | 3:16 | 2025-09-06 |  |
 | [Healing](https://open.spotify.com/track/42cpWOkiSQPcVIYGbw8IRC) | [Caleb Kunle](https://open.spotify.com/artist/3ummHhJhcQSykZfeZlw4MY) | [Healing](https://open.spotify.com/album/3lcnhk95qdnXkvcGeVuKXo) | 5:03 | 2025-03-09 | 2025-10-12 |
+| [Hold of Me](https://open.spotify.com/track/7KY1unDGI0vtiHlvgPUwn6) | [K.ZIA](https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY) | [Hold of Me](https://open.spotify.com/album/2DWEwljuTE9nyq1Z65aCsN) | 3:33 | 2026-04-16 |  |
 | [Hope](https://open.spotify.com/track/2Yu76lZYP18wgBw7hmlW9U) | [Grace Carter](https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC) | [A Little Lost, A Little Found](https://open.spotify.com/album/7yxmuuj0a8Ha2yhjA6Ovq2) | 3:02 | 2023-11-24 | 2024-02-28 |
 | [Hurt Me So Good](https://open.spotify.com/track/5r5ZnPLcNEZf6BGKi7y3aZ) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Heaux Tales, Mo' Tales: The Deluxe](https://open.spotify.com/album/4cogt2uqKoSyL61tzWaQei) | 3:31 | 2023-11-24 |  |
 | [I Get The Sweetest Feeling](https://open.spotify.com/track/7F1eoVZd2ySSJ70iP3PN1m) | [Jackie Wilson](https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju) | [I Get The Sweetest Feeling](https://open.spotify.com/album/35PUYxZnmBjyVSbw5ictX6) | 2:58 | 2023-11-24 |  |
@@ -113,7 +114,7 @@
 | [On God!](https://open.spotify.com/track/3AcH92WhF4cBsbUvoDgu30) | [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9) | [Fool Me Once](https://open.spotify.com/album/15moNc4Pg5E1qXrXHM2WNl) | 3:21 | 2024-02-28 | 2025-09-07 |
 | [Open Light](https://open.spotify.com/track/0SYNPBvXt0bDUlcFpftz8h) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [For The Deported](https://open.spotify.com/album/1ElxyRN9oENPlRi6cDEuDY) | 3:38 | 2025-01-31 | 2025-09-07 |
 | [Other Side Of Love \(Remix\) \[feat\. Alicia Keys\]](https://open.spotify.com/track/3Bnbwbe6ReNLOQwBoTxBC7) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Why Not More? \(MORE!\)](https://open.spotify.com/album/6mG2LhKSQ8H5DxmaC1vZ8M) | 3:12 | 2025-09-06 | 2026-04-17 |
-| [Outside](https://open.spotify.com/track/7HUWDK8W290h5FD9G5t3eH) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Outside](https://open.spotify.com/album/48GGRBVO34uMUTyCII8ZpY) | 3:25 | 2023-11-24 |  |
+| [Outside](https://open.spotify.com/track/7HUWDK8W290h5FD9G5t3eH) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Outside](https://open.spotify.com/album/48GGRBVO34uMUTyCII8ZpY) | 3:25 | 2023-11-24 | 2026-05-05 |
 | [Overjoyed](https://open.spotify.com/track/2lnQcP5hr4RKR63TFvnI4k) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [In Square Circle](https://open.spotify.com/album/1nLKZqTGA48v3I8dNFkvQt) | 3:42 | 2023-11-24 |  |
 | [Peace in the Madness](https://open.spotify.com/track/5izaiHIPiaywLEUZ5eYOs1) | [Sipprell](https://open.spotify.com/artist/065qyjvmeguYcKpAln7buu) | [Peace in the Madness](https://open.spotify.com/album/35tJhjmneu0LOm19AD7HSw) | 3:05 | 2023-11-24 | 2024-02-28 |
 | [Pieces](https://open.spotify.com/track/0PoXdM2shs4zsmZJb2tgHD) | [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [Pieces](https://open.spotify.com/album/4JnytkyfWkIoiBB7pEr0SD) | 2:57 | 2025-04-25 | 2025-08-26 |

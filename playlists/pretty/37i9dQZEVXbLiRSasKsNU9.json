@@ -1,15 +1,31 @@
 {
   "description": "Your daily update of the most viral tracks right now - Global.",
-  "num_followers": 1787573,
+  "num_followers": 1787583,
   "original_name": "Viral 50 - Global",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MYq8eAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MYwN+AAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2026-05-03 13:49:45",
+      "added_at": "2026-05-04 14:18:55",
+      "album": {
+        "name": "Celebrate Me",
+        "url": "https://open.spotify.com/album/3ggKdQGatbrPLhmOPxfX4W"
+      },
+      "artists": [
+        {
+          "name": "IngaRose",
+          "url": "https://open.spotify.com/artist/6Nh6lQwzJsftDphRVG7AU1"
+        }
+      ],
+      "duration_ms": 217524,
+      "name": "Celebrate Me",
+      "url": "https://open.spotify.com/track/5ocmMJjV69WuPYj5T9IkwZ"
+    },
+    {
+      "added_at": "2026-05-04 14:18:55",
       "album": {
         "name": "Six Seven",
         "url": "https://open.spotify.com/album/7yXhf4bGlGkjA9mfJy5gPg"
@@ -37,7 +53,7 @@
       "url": "https://open.spotify.com/track/1tApKPSsMXfJf528fR1o93"
     },
     {
-      "added_at": "2026-05-03 13:49:45",
+      "added_at": "2026-05-04 14:18:55",
       "album": {
         "name": "Eller \u00dczer",
         "url": "https://open.spotify.com/album/5pMJtaEOanoR0cWndtA0p4"
@@ -53,7 +69,7 @@
       "url": "https://open.spotify.com/track/2wV6HTsxC6lk4XbMkzU3hA"
     },
     {
-      "added_at": "2026-05-03 13:49:45",
+      "added_at": "2026-05-04 14:18:55",
       "album": {
         "name": "Like a Prayer",
         "url": "https://open.spotify.com/album/5idIpPylcHvSsVNoK6wMx5"
@@ -69,7 +85,7 @@
       "url": "https://open.spotify.com/track/5eh2pLJmBVjgtUzKl7Ambt"
     },
     {
-      "added_at": "2026-05-03 13:49:45",
+      "added_at": "2026-05-04 14:18:55",
       "album": {
         "name": "Majboor",
         "url": "https://open.spotify.com/album/15AHQmI89vZpF6a5o8i3J7"
@@ -89,7 +105,7 @@
       "url": "https://open.spotify.com/track/0lp3WWhjxFVUht81AQmWX8"
     },
     {
-      "added_at": "2026-05-03 13:49:45",
+      "added_at": "2026-05-04 14:18:55",
       "album": {
         "name": "Freakin\u2019 Out",
         "url": "https://open.spotify.com/album/3hToTQIS84qGNxEhrZHiWf"
@@ -105,7 +121,7 @@
       "url": "https://open.spotify.com/track/2SaWT781xr3hHLdbVt5DB7"
     },
     {
-      "added_at": "2026-05-03 13:49:45",
+      "added_at": "2026-05-04 14:18:55",
       "album": {
         "name": "Self Aware",
         "url": "https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M"
@@ -121,7 +137,7 @@
       "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
     },
     {
-      "added_at": "2026-05-03 13:49:45",
+      "added_at": "2026-05-04 14:18:55",
       "album": {
         "name": "Amsham - \u0d05\u0d02\u0d36\u0d02",
         "url": "https://open.spotify.com/album/2S8ZSnpmlReMfteHNp3zju"
@@ -149,7 +165,7 @@
       "url": "https://open.spotify.com/track/0Dt5EqEckM8jcfMYEdlx2Z"
     },
     {
-      "added_at": "2026-05-03 13:49:45",
+      "added_at": "2026-05-04 14:18:55",
       "album": {
         "name": "Kicau Mania",
         "url": "https://open.spotify.com/album/2HWEzZJ50Zys0qC6I1kViC"
@@ -165,7 +181,7 @@
       "url": "https://open.spotify.com/track/5ULdxGvJLwydoNt0J62ZIB"
     },
     {
-      "added_at": "2026-05-03 13:49:45",
+      "added_at": "2026-05-04 14:18:55",
       "album": {
         "name": "Boston",
         "url": "https://open.spotify.com/album/4YLIRb8DdBTXbgHiFLicH2"
@@ -181,39 +197,7 @@
       "url": "https://open.spotify.com/track/36idurZmYRjJ56KQ8JD9bN"
     },
     {
-      "added_at": "2026-05-03 13:49:45",
-      "album": {
-        "name": "Ci\u0105gle tutaj jestem (diss na raka)",
-        "url": "https://open.spotify.com/album/61ZsllmBRIiz5QO5Hp4nzj"
-      },
-      "artists": [
-        {
-          "name": "Bedoes 2115",
-          "url": "https://open.spotify.com/artist/0LX2VNf5w4iOHW1yyIqb74"
-        },
-        {
-          "name": "Maja Mecan",
-          "url": "https://open.spotify.com/artist/2o92Q0VLN8KIMTm7Xj4Kbe"
-        },
-        {
-          "name": "Fundacja Cancer Fighters",
-          "url": "https://open.spotify.com/artist/4uQMFJbG5e9wBn8CWasdmf"
-        },
-        {
-          "name": "Kubi Producent",
-          "url": "https://open.spotify.com/artist/0WDJa0qnagyOnMaiD26wht"
-        },
-        {
-          "name": "Voskovy",
-          "url": "https://open.spotify.com/artist/5nJBmBtvFT2vyiZxdA6pgE"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Ci\u0105gle tutaj jestem (diss na raka)",
-      "url": "https://open.spotify.com/track/0wvxzE8JEintqBBhaWVvoU"
-    },
-    {
-      "added_at": "2026-05-03 13:49:45",
+      "added_at": "2026-05-04 14:18:55",
       "album": {
         "name": "Bang Bang Bang",
         "url": "https://open.spotify.com/album/2zFrkINzgIXLOXMAiQQVP7"
@@ -229,7 +213,7 @@
       "url": "https://open.spotify.com/track/6T80kNfM3iJMRO6uzeOzRG"
     },
     {
-      "added_at": "2026-05-03 13:49:45",
+      "added_at": "2026-05-04 14:18:55",
       "album": {
         "name": "LET ME BE",
         "url": "https://open.spotify.com/album/4mqcYdXFQJGtduC8XWX8op"
@@ -245,23 +229,7 @@
       "url": "https://open.spotify.com/track/3Ggrf13afYb41oxbnpafPR"
     },
     {
-      "added_at": "2026-05-03 13:49:45",
-      "album": {
-        "name": "NALAKA",
-        "url": "https://open.spotify.com/album/7sE9isq4Y1SbEVHdaR6Gmb"
-      },
-      "artists": [
-        {
-          "name": "K\u00d6K$VL",
-          "url": "https://open.spotify.com/artist/5fO16dsHVrojWL2mPzcdpq"
-        }
-      ],
-      "duration_ms": 106666,
-      "name": "NALAKA",
-      "url": "https://open.spotify.com/track/5h5QPBDmsxIGuH55zsBgRU"
-    },
-    {
-      "added_at": "2026-05-03 13:49:45",
+      "added_at": "2026-05-04 14:18:55",
       "album": {
         "name": "NOBLE",
         "url": "https://open.spotify.com/album/0g2so560PUSwl895vWwaQK"
@@ -277,7 +245,7 @@
       "url": "https://open.spotify.com/track/2LSmH4vxyRhkJ2pPqcmkXw"
     },
     {
-      "added_at": "2026-05-03 13:49:45",
+      "added_at": "2026-05-04 14:18:55",
       "album": {
         "name": "Jane!",
         "url": "https://open.spotify.com/album/03HZu3A0gz8fPjrGfDKAsu"
@@ -293,7 +261,23 @@
       "url": "https://open.spotify.com/track/0IjdXwCEhZR7JIwq6Za8j5"
     },
     {
-      "added_at": "2026-05-03 13:49:45",
+      "added_at": "2026-05-04 14:18:55",
+      "album": {
+        "name": "PUERTA ABIERTA",
+        "url": "https://open.spotify.com/album/6WxZB5gxWmzRvKVzG2Pu9P"
+      },
+      "artists": [
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        }
+      ],
+      "duration_ms": 185728,
+      "name": "A La Ni\u00f1a Que Fui",
+      "url": "https://open.spotify.com/track/1QOIgb4mC4s5nYc6cWNWI0"
+    },
+    {
+      "added_at": "2026-05-04 14:18:55",
       "album": {
         "name": "Resenha do Cabral (Ao Vivo)",
         "url": "https://open.spotify.com/album/5VV3PEsxdSkbhojw5hQnkL"
@@ -341,23 +325,27 @@
       "url": "https://open.spotify.com/track/0UbftifCuaos8xnNT1K8Us"
     },
     {
-      "added_at": "2026-05-03 13:49:45",
+      "added_at": "2026-05-04 14:18:55",
       "album": {
-        "name": "PUERTA ABIERTA",
-        "url": "https://open.spotify.com/album/6WxZB5gxWmzRvKVzG2Pu9P"
+        "name": "Rock My Body",
+        "url": "https://open.spotify.com/album/57yjy0SQCdRUCfPYPdWAjs"
       },
       "artists": [
         {
-          "name": "Kany Garc\u00eda",
-          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+          "name": "AZKA SLIDE",
+          "url": "https://open.spotify.com/artist/0IaSf2VeRVlexFtNBrDhLF"
+        },
+        {
+          "name": "ADAM AF",
+          "url": "https://open.spotify.com/artist/2dqTmr4ZfggU5h7kROZWBA"
         }
       ],
-      "duration_ms": 185728,
-      "name": "A La Ni\u00f1a Que Fui",
-      "url": "https://open.spotify.com/track/1QOIgb4mC4s5nYc6cWNWI0"
+      "duration_ms": 133920,
+      "name": "Rock My Body",
+      "url": "https://open.spotify.com/track/3sp3dw9tCzp3Dod1Kd1FNx"
     },
     {
-      "added_at": "2026-05-03 13:49:45",
+      "added_at": "2026-05-04 14:18:55",
       "album": {
         "name": "Pra N\u00e3o Esquecer De Mim",
         "url": "https://open.spotify.com/album/0Kb7GeuzMK4sS45zb3O06h"
@@ -385,27 +373,7 @@
       "url": "https://open.spotify.com/track/7dLw4FM0rYgwJEzkbwRVr1"
     },
     {
-      "added_at": "2026-05-03 13:49:45",
-      "album": {
-        "name": "Rock My Body",
-        "url": "https://open.spotify.com/album/57yjy0SQCdRUCfPYPdWAjs"
-      },
-      "artists": [
-        {
-          "name": "AZKA SLIDE",
-          "url": "https://open.spotify.com/artist/0IaSf2VeRVlexFtNBrDhLF"
-        },
-        {
-          "name": "ADAM AF",
-          "url": "https://open.spotify.com/artist/2dqTmr4ZfggU5h7kROZWBA"
-        }
-      ],
-      "duration_ms": 133920,
-      "name": "Rock My Body",
-      "url": "https://open.spotify.com/track/3sp3dw9tCzp3Dod1Kd1FNx"
-    },
-    {
-      "added_at": "2026-05-03 13:49:45",
+      "added_at": "2026-05-04 14:18:55",
       "album": {
         "name": "Ayer Hable Con Dios",
         "url": "https://open.spotify.com/album/3kzwAO9Ra7CGc0Hn7Eu7TV"
@@ -421,7 +389,7 @@
       "url": "https://open.spotify.com/track/59JHSgCS2nbh0GqusOLQjS"
     },
     {
-      "added_at": "2026-05-03 13:49:45",
+      "added_at": "2026-05-04 14:18:55",
       "album": {
         "name": "MONTAGEM PEGADORA",
         "url": "https://open.spotify.com/album/4TAUgrPMoySQAGKignMCbL"
@@ -445,7 +413,7 @@
       "url": "https://open.spotify.com/track/1xKMSHgGIQ26RhDDxmIjan"
     },
     {
-      "added_at": "2026-05-03 13:49:45",
+      "added_at": "2026-05-04 14:18:55",
       "album": {
         "name": "Free Your Mind",
         "url": "https://open.spotify.com/album/0uo2O3BcYrZJzCnHk0I0BU"
@@ -465,7 +433,7 @@
       "url": "https://open.spotify.com/track/6TWbY1dq8eYtFiMiGdBlOa"
     },
     {
-      "added_at": "2026-05-03 13:49:45",
+      "added_at": "2026-05-04 14:18:55",
       "album": {
         "name": "Demasiado",
         "url": "https://open.spotify.com/album/3ktp3oCNrvg07DzfK7Ti3l"
@@ -485,23 +453,23 @@
       "url": "https://open.spotify.com/track/29bjrg0oCg69lUOVN7NLLT"
     },
     {
-      "added_at": "2026-05-03 13:49:45",
+      "added_at": "2026-05-04 14:18:55",
       "album": {
-        "name": "Bairan",
-        "url": "https://open.spotify.com/album/3ZIsrV7xUXWX4tR0vk1CGF"
+        "name": "Born In The Echoes",
+        "url": "https://open.spotify.com/album/3XUVUh6hisN43r2eZAOJRD"
       },
       "artists": [
         {
-          "name": "Banjaare",
-          "url": "https://open.spotify.com/artist/7IbxsPdlYelceWNyHAor55"
+          "name": "The Chemical Brothers",
+          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
         }
       ],
-      "duration_ms": 150857,
-      "name": "Bairan",
-      "url": "https://open.spotify.com/track/0RsH8g8DxdYZgdGcod5I36"
+      "duration_ms": 260696,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/2Xhd1kYKj2aee7JR3nIlRe"
     },
     {
-      "added_at": "2026-05-03 13:49:45",
+      "added_at": "2026-05-04 14:18:55",
       "album": {
         "name": "The Devil Wears Prada 2 (Music From The Motion Picture)",
         "url": "https://open.spotify.com/album/5FKnRUB5lt7z5ac1lmu3BE"
@@ -521,7 +489,39 @@
       "url": "https://open.spotify.com/track/5jZHUZY0vQsH6A5gqFveJf"
     },
     {
-      "added_at": "2026-05-03 13:49:45",
+      "added_at": "2026-05-04 14:18:55",
+      "album": {
+        "name": "Ci\u0105gle tutaj jestem (diss na raka)",
+        "url": "https://open.spotify.com/album/61ZsllmBRIiz5QO5Hp4nzj"
+      },
+      "artists": [
+        {
+          "name": "Bedoes 2115",
+          "url": "https://open.spotify.com/artist/0LX2VNf5w4iOHW1yyIqb74"
+        },
+        {
+          "name": "Maja Mecan",
+          "url": "https://open.spotify.com/artist/2o92Q0VLN8KIMTm7Xj4Kbe"
+        },
+        {
+          "name": "Fundacja Cancer Fighters",
+          "url": "https://open.spotify.com/artist/4uQMFJbG5e9wBn8CWasdmf"
+        },
+        {
+          "name": "Kubi Producent",
+          "url": "https://open.spotify.com/artist/0WDJa0qnagyOnMaiD26wht"
+        },
+        {
+          "name": "Voskovy",
+          "url": "https://open.spotify.com/artist/5nJBmBtvFT2vyiZxdA6pgE"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Ci\u0105gle tutaj jestem (diss na raka)",
+      "url": "https://open.spotify.com/track/0wvxzE8JEintqBBhaWVvoU"
+    },
+    {
+      "added_at": "2026-05-04 14:18:55",
       "album": {
         "name": "So Much To Tell You",
         "url": "https://open.spotify.com/album/28JEdFG4Mk0D0QGkL5vUxG"
@@ -537,23 +537,23 @@
       "url": "https://open.spotify.com/track/6DKSK32WwzBMZ0qAq28Zon"
     },
     {
-      "added_at": "2026-05-03 13:49:45",
+      "added_at": "2026-05-04 14:18:55",
       "album": {
-        "name": "Khat",
-        "url": "https://open.spotify.com/album/6BLTFvPRIlWqqhcQxuJjqd"
+        "name": "Bairan",
+        "url": "https://open.spotify.com/album/3ZIsrV7xUXWX4tR0vk1CGF"
       },
       "artists": [
         {
-          "name": "Navjot Ahuja",
-          "url": "https://open.spotify.com/artist/7pVf872VEuJQBwiuRFSg4w"
+          "name": "Banjaare",
+          "url": "https://open.spotify.com/artist/7IbxsPdlYelceWNyHAor55"
         }
       ],
-      "duration_ms": 296222,
-      "name": "Khat",
-      "url": "https://open.spotify.com/track/3gixnmepHSsyAuho34rprN"
+      "duration_ms": 150857,
+      "name": "Bairan",
+      "url": "https://open.spotify.com/track/0RsH8g8DxdYZgdGcod5I36"
     },
     {
-      "added_at": "2026-05-03 13:49:45",
+      "added_at": "2026-05-04 14:18:55",
       "album": {
         "name": "Just The Way You Are",
         "url": "https://open.spotify.com/album/1fN8LTM10sYFZl5BCzIPlj"
@@ -569,7 +569,23 @@
       "url": "https://open.spotify.com/track/7K3Lc3TfSR14aTOjIH7TUj"
     },
     {
-      "added_at": "2026-05-03 13:49:45",
+      "added_at": "2026-05-04 14:18:55",
+      "album": {
+        "name": "Khat",
+        "url": "https://open.spotify.com/album/6BLTFvPRIlWqqhcQxuJjqd"
+      },
+      "artists": [
+        {
+          "name": "Navjot Ahuja",
+          "url": "https://open.spotify.com/artist/7pVf872VEuJQBwiuRFSg4w"
+        }
+      ],
+      "duration_ms": 296222,
+      "name": "Khat",
+      "url": "https://open.spotify.com/track/3gixnmepHSsyAuho34rprN"
+    },
+    {
+      "added_at": "2026-05-04 14:18:55",
       "album": {
         "name": "Aarzu",
         "url": "https://open.spotify.com/album/0TU6nutUkqYYUqZHeB0JHs"
@@ -593,7 +609,7 @@
       "url": "https://open.spotify.com/track/0wHYuCTWPntEgWiUVED4wB"
     },
     {
-      "added_at": "2026-05-03 13:49:45",
+      "added_at": "2026-05-04 14:18:55",
       "album": {
         "name": "Se Saudade Sentir (Se Prepara 3)",
         "url": "https://open.spotify.com/album/5APsVdTA5JWdzyGT9pmWKi"
@@ -621,39 +637,23 @@
       "url": "https://open.spotify.com/track/3lJMJl6alsAqw5OiXOOdVi"
     },
     {
-      "added_at": "2026-05-03 13:49:45",
+      "added_at": "2026-05-04 14:18:55",
       "album": {
-        "name": "Born In The Echoes",
-        "url": "https://open.spotify.com/album/3XUVUh6hisN43r2eZAOJRD"
+        "name": "IT'S BEEN AWFUL",
+        "url": "https://open.spotify.com/album/2ZDgH9uDdjRFNdjEyQCZtH"
       },
       "artists": [
         {
-          "name": "The Chemical Brothers",
-          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
+          "name": "Isaiah Rashad",
+          "url": "https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM"
         }
       ],
-      "duration_ms": 260696,
-      "name": "Go",
-      "url": "https://open.spotify.com/track/2Xhd1kYKj2aee7JR3nIlRe"
+      "duration_ms": 193294,
+      "name": "SAME SH!T",
+      "url": "https://open.spotify.com/track/6gbcv097aD6bzPeUo2BLhl"
     },
     {
-      "added_at": "2026-05-03 13:49:45",
-      "album": {
-        "name": "Sina de Of\u00e9lia",
-        "url": "https://open.spotify.com/album/1pt3iz8edLcNuk61eozHeG"
-      },
-      "artists": [
-        {
-          "name": "Heitor Santos",
-          "url": "https://open.spotify.com/artist/2FQg4JX9rAIDnakUJb8hgj"
-        }
-      ],
-      "duration_ms": 150204,
-      "name": "Sina de Of\u00e9lia",
-      "url": "https://open.spotify.com/track/2NB3fpuHCFsJ1vuaZkRhp5"
-    },
-    {
-      "added_at": "2026-05-03 13:49:45",
+      "added_at": "2026-05-04 14:18:55",
       "album": {
         "name": "Ela Quer Viver No Pantanal",
         "url": "https://open.spotify.com/album/08iHgLAUGm5f9x8ZfaCNp4"
@@ -673,39 +673,23 @@
       "url": "https://open.spotify.com/track/6Jal5aUvxKmglaFcCsIVxT"
     },
     {
-      "added_at": "2026-05-03 13:49:45",
+      "added_at": "2026-05-04 14:18:55",
       "album": {
-        "name": "IT'S BEEN AWFUL",
-        "url": "https://open.spotify.com/album/2ZDgH9uDdjRFNdjEyQCZtH"
+        "name": "Sina de Of\u00e9lia",
+        "url": "https://open.spotify.com/album/1pt3iz8edLcNuk61eozHeG"
       },
       "artists": [
         {
-          "name": "Isaiah Rashad",
-          "url": "https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM"
+          "name": "Heitor Santos",
+          "url": "https://open.spotify.com/artist/2FQg4JX9rAIDnakUJb8hgj"
         }
       ],
-      "duration_ms": 193294,
-      "name": "SAME SH!T",
-      "url": "https://open.spotify.com/track/6gbcv097aD6bzPeUo2BLhl"
+      "duration_ms": 150204,
+      "name": "Sina de Of\u00e9lia",
+      "url": "https://open.spotify.com/track/2NB3fpuHCFsJ1vuaZkRhp5"
     },
     {
-      "added_at": "2026-05-03 13:49:45",
-      "album": {
-        "name": "Actin' Tough",
-        "url": "https://open.spotify.com/album/0lL98VdijOX8PAeg6sl8MZ"
-      },
-      "artists": [
-        {
-          "name": "Dean Turnley",
-          "url": "https://open.spotify.com/artist/3BcWcwYXVjvLWHMGKsuvsd"
-        }
-      ],
-      "duration_ms": 187285,
-      "name": "Actin' Tough",
-      "url": "https://open.spotify.com/track/507j66jaEEUU11uFSTOHFM"
-    },
-    {
-      "added_at": "2026-05-03 13:49:45",
+      "added_at": "2026-05-04 14:18:55",
       "album": {
         "name": "Dichavate",
         "url": "https://open.spotify.com/album/4yRbCIuNyOezf81L8yR3jF"
@@ -737,7 +721,39 @@
       "url": "https://open.spotify.com/track/6Ab2trdJulkRRhaJ9zVGQa"
     },
     {
-      "added_at": "2026-05-03 13:49:45",
+      "added_at": "2026-05-04 14:18:55",
+      "album": {
+        "name": "Actin' Tough",
+        "url": "https://open.spotify.com/album/0lL98VdijOX8PAeg6sl8MZ"
+      },
+      "artists": [
+        {
+          "name": "Dean Turnley",
+          "url": "https://open.spotify.com/artist/3BcWcwYXVjvLWHMGKsuvsd"
+        }
+      ],
+      "duration_ms": 187285,
+      "name": "Actin' Tough",
+      "url": "https://open.spotify.com/track/507j66jaEEUU11uFSTOHFM"
+    },
+    {
+      "added_at": "2026-05-04 14:18:55",
+      "album": {
+        "name": "Once Upon a Rhyme",
+        "url": "https://open.spotify.com/album/6YfHzMRBscPjVqcxIQoXom"
+      },
+      "artists": [
+        {
+          "name": "David Allan Coe",
+          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
+        }
+      ],
+      "duration_ms": 316026,
+      "name": "You Never Even Called Me by My Name",
+      "url": "https://open.spotify.com/track/2mV4xg3mvO5aXPLMoD7WrR"
+    },
+    {
+      "added_at": "2026-05-04 14:18:55",
       "album": {
         "name": "Ada Bommale (From \"Vaazha 2\")",
         "url": "https://open.spotify.com/album/2NgATqmHeZ5haUnoD7qlhX"
@@ -769,23 +785,7 @@
       "url": "https://open.spotify.com/track/6QQmefVNuQNJ0U7vD6Rto9"
     },
     {
-      "added_at": "2026-05-03 13:49:45",
-      "album": {
-        "name": "Lifetime (Reimagined)",
-        "url": "https://open.spotify.com/album/66mI9LxUO2orGDAKd5135x"
-      },
-      "artists": [
-        {
-          "name": "Ben&Ben",
-          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
-        }
-      ],
-      "duration_ms": 277894,
-      "name": "Lifetime (Reimagined)",
-      "url": "https://open.spotify.com/track/2c5JKO8gPaOFVxQ0elwXEG"
-    },
-    {
-      "added_at": "2026-05-03 13:49:45",
+      "added_at": "2026-05-04 14:18:55",
       "album": {
         "name": "Sweet Boy",
         "url": "https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ"
@@ -801,39 +801,7 @@
       "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ"
     },
     {
-      "added_at": "2026-05-03 13:49:45",
-      "album": {
-        "name": "Once Upon a Rhyme",
-        "url": "https://open.spotify.com/album/6YfHzMRBscPjVqcxIQoXom"
-      },
-      "artists": [
-        {
-          "name": "David Allan Coe",
-          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
-        }
-      ],
-      "duration_ms": 316026,
-      "name": "You Never Even Called Me by My Name",
-      "url": "https://open.spotify.com/track/2mV4xg3mvO5aXPLMoD7WrR"
-    },
-    {
-      "added_at": "2026-05-03 13:49:45",
-      "album": {
-        "name": "Echoes Of Anatolia",
-        "url": "https://open.spotify.com/album/1dv8sZaatrst6pGBGbn8v4"
-      },
-      "artists": [
-        {
-          "name": "Ankara Echoes",
-          "url": "https://open.spotify.com/artist/18SuKvcITcf0mACwhitMeM"
-        }
-      ],
-      "duration_ms": 169090,
-      "name": "Beni Al",
-      "url": "https://open.spotify.com/track/5iMubxU4DwNpW3JOAN4PGF"
-    },
-    {
-      "added_at": "2026-05-03 13:49:45",
+      "added_at": "2026-05-04 14:18:55",
       "album": {
         "name": "worry",
         "url": "https://open.spotify.com/album/6jyJS5ZnqJfKi1jHQGsQML"
@@ -853,7 +821,39 @@
       "url": "https://open.spotify.com/track/5zE2NfNO04DYlvdUrp4tQk"
     },
     {
-      "added_at": "2026-05-03 13:49:45",
+      "added_at": "2026-05-04 14:18:55",
+      "album": {
+        "name": "Echoes Of Anatolia",
+        "url": "https://open.spotify.com/album/1dv8sZaatrst6pGBGbn8v4"
+      },
+      "artists": [
+        {
+          "name": "Ankara Echoes",
+          "url": "https://open.spotify.com/artist/18SuKvcITcf0mACwhitMeM"
+        }
+      ],
+      "duration_ms": 169090,
+      "name": "Beni Al",
+      "url": "https://open.spotify.com/track/5iMubxU4DwNpW3JOAN4PGF"
+    },
+    {
+      "added_at": "2026-05-04 14:18:55",
+      "album": {
+        "name": "Lifetime (Reimagined)",
+        "url": "https://open.spotify.com/album/66mI9LxUO2orGDAKd5135x"
+      },
+      "artists": [
+        {
+          "name": "Ben&Ben",
+          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
+        }
+      ],
+      "duration_ms": 277894,
+      "name": "Lifetime (Reimagined)",
+      "url": "https://open.spotify.com/track/2c5JKO8gPaOFVxQ0elwXEG"
+    },
+    {
+      "added_at": "2026-05-04 14:18:55",
       "album": {
         "name": "White Trails (Expanded)",
         "url": "https://open.spotify.com/album/4ZCCd0IZB5RizC5sz5IguU"
@@ -869,63 +869,7 @@
       "url": "https://open.spotify.com/track/5Ctzx0mMiUPAu9JqbAOY9n"
     },
     {
-      "added_at": "2026-05-03 13:49:45",
-      "album": {
-        "name": "PINKY UP",
-        "url": "https://open.spotify.com/album/5tLy0MEMDVqiHKso6B4jnz"
-      },
-      "artists": [
-        {
-          "name": "KATSEYE",
-          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
-        }
-      ],
-      "duration_ms": 131437,
-      "name": "PINKY UP",
-      "url": "https://open.spotify.com/track/4KmkJjHTNlr1jFY56Lyz4E"
-    },
-    {
-      "added_at": "2026-05-03 13:49:45",
-      "album": {
-        "name": "ETERNO",
-        "url": "https://open.spotify.com/album/6yNzRHzjoxFZ4rpgvCudT7"
-      },
-      "artists": [
-        {
-          "name": "Calle 24",
-          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
-        },
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        }
-      ],
-      "duration_ms": 204321,
-      "name": "Noche Perfecta",
-      "url": "https://open.spotify.com/track/3DEPnIQZWIcpRUwH5O0J6O"
-    },
-    {
-      "added_at": "2026-05-03 13:49:45",
-      "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/5cxMa6oLINJzmZ8lF7wWQN"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 227986,
-      "name": "Beauty And A Beat",
-      "url": "https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7"
-    },
-    {
-      "added_at": "2026-05-03 13:49:45",
+      "added_at": "2026-05-04 14:18:55",
       "album": {
         "name": "No Dogs Allowed",
         "url": "https://open.spotify.com/album/7mXf592qrnsQ7qAvV7Aluz"
@@ -941,7 +885,39 @@
       "url": "https://open.spotify.com/track/33KU9huHP1Lv1UWWVkuTYd"
     },
     {
-      "added_at": "2026-05-03 13:49:45",
+      "added_at": "2026-05-04 14:18:55",
+      "album": {
+        "name": "PINKY UP",
+        "url": "https://open.spotify.com/album/5tLy0MEMDVqiHKso6B4jnz"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "duration_ms": 131437,
+      "name": "PINKY UP",
+      "url": "https://open.spotify.com/track/4KmkJjHTNlr1jFY56Lyz4E"
+    },
+    {
+      "added_at": "2026-05-04 14:18:55",
+      "album": {
+        "name": "Skokka",
+        "url": "https://open.spotify.com/album/7zMvvxOXqVcXJDGQahGVEX"
+      },
+      "artists": [
+        {
+          "name": "Huan62",
+          "url": "https://open.spotify.com/artist/08yYd8o1CrOjIpGHP2I6zU"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Skokka",
+      "url": "https://open.spotify.com/track/2wzrS1Y8Oy4NvUw8bnOfKi"
+    },
+    {
+      "added_at": "2026-05-04 14:18:55",
       "album": {
         "name": "G\u00fcm G\u00fcm (Serhat Karada\u011f Remix) (feat. Onurr)",
         "url": "https://open.spotify.com/album/5t4zxaoJRFxNBnzXQeSWIO"
@@ -965,7 +941,43 @@
       "url": "https://open.spotify.com/track/3IgB5XnUKnrcKto3tsNcKI"
     },
     {
-      "added_at": "2026-05-03 13:49:45",
+      "added_at": "2026-05-04 14:18:55",
+      "album": {
+        "name": "Dandelion",
+        "url": "https://open.spotify.com/album/6nrtxtgaD9zSYBl9APvOCH"
+      },
+      "artists": [
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "duration_ms": 231746,
+      "name": "Choosin' Texas",
+      "url": "https://open.spotify.com/track/7scFxt9VhL4FJwuPSfRlfN"
+    },
+    {
+      "added_at": "2026-05-04 14:18:55",
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/5cxMa6oLINJzmZ8lF7wWQN"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 227986,
+      "name": "Beauty And A Beat",
+      "url": "https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7"
+    },
+    {
+      "added_at": "2026-05-04 14:18:55",
       "album": {
         "name": "RUH HASSASI",
         "url": "https://open.spotify.com/album/2s8crPj9fbE1ErzejEj1gE"
@@ -979,22 +991,6 @@
       "duration_ms": 189061,
       "name": "Olacak Gibi De\u011fil",
       "url": "https://open.spotify.com/track/0TWf33C7t2ljNcTJ8VoQ8v"
-    },
-    {
-      "added_at": "2026-05-03 13:49:45",
-      "album": {
-        "name": "Skokka",
-        "url": "https://open.spotify.com/album/7zMvvxOXqVcXJDGQahGVEX"
-      },
-      "artists": [
-        {
-          "name": "Huan62",
-          "url": "https://open.spotify.com/artist/08yYd8o1CrOjIpGHP2I6zU"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Skokka",
-      "url": "https://open.spotify.com/track/2wzrS1Y8Oy4NvUw8bnOfKi"
     }
   ],
   "unique_name": "Viral 50 - Global",

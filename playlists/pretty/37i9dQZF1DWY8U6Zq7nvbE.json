@@ -1,6 +1,6 @@
 {
   "description": "Soft and cozy acoustic covers of famous songs.",
-  "num_followers": 2463742,
+  "num_followers": 2463867,
   "original_name": "Chill Acoustic Covers",
   "owner": {
     "name": "Spotify",
@@ -59,22 +59,6 @@
     {
       "added_at": "2026-03-19 12:18:11",
       "album": {
-        "name": "Big Girls Don't Cry",
-        "url": "https://open.spotify.com/album/6t7KpPbua4qyuK4VYPs4T6"
-      },
-      "artists": [
-        {
-          "name": "Nelly Hope",
-          "url": "https://open.spotify.com/artist/2MYa23iZLfrK6Yj4eAIOGt"
-        }
-      ],
-      "duration_ms": 163636,
-      "name": "Big Girls Don't Cry",
-      "url": "https://open.spotify.com/track/55eqiKZdQSdbya2Oty6vDE"
-    },
-    {
-      "added_at": "2026-03-19 12:18:11",
-      "album": {
         "name": "Hands To Myself",
         "url": "https://open.spotify.com/album/22F8uvXf7OYOoWxa2zKJdI"
       },
@@ -91,34 +75,18 @@
     {
       "added_at": "2026-03-19 12:18:11",
       "album": {
-        "name": "Habits (Stay High)",
-        "url": "https://open.spotify.com/album/0ETh59PJQx7TpO7xkJNBYm"
+        "name": "Big Girls Don't Cry",
+        "url": "https://open.spotify.com/album/6t7KpPbua4qyuK4VYPs4T6"
       },
       "artists": [
         {
-          "name": "Alice Nordstrom",
-          "url": "https://open.spotify.com/artist/6tZEMBPWeYyxYIKEubuJD3"
+          "name": "Nelly Hope",
+          "url": "https://open.spotify.com/artist/2MYa23iZLfrK6Yj4eAIOGt"
         }
       ],
-      "duration_ms": 228000,
-      "name": "Habits (Stay High)",
-      "url": "https://open.spotify.com/track/4trkclJUGWRuXo1mlPLSAR"
-    },
-    {
-      "added_at": "2026-03-19 12:18:11",
-      "album": {
-        "name": "all night long",
-        "url": "https://open.spotify.com/album/5EZ1Gg6Qq4ZBPqPNZ64gTO"
-      },
-      "artists": [
-        {
-          "name": "Gracie Schram",
-          "url": "https://open.spotify.com/artist/3TOUW1MYPgYX13UXBm552d"
-        }
-      ],
-      "duration_ms": 194018,
-      "name": "all night long",
-      "url": "https://open.spotify.com/track/61wHg8g1eNbBatDAijJ2IT"
+      "duration_ms": 163636,
+      "name": "Big Girls Don't Cry",
+      "url": "https://open.spotify.com/track/55eqiKZdQSdbya2Oty6vDE"
     },
     {
       "added_at": "2026-03-19 12:18:11",
@@ -139,6 +107,38 @@
     {
       "added_at": "2026-03-19 12:18:11",
       "album": {
+        "name": "all night long",
+        "url": "https://open.spotify.com/album/5EZ1Gg6Qq4ZBPqPNZ64gTO"
+      },
+      "artists": [
+        {
+          "name": "Gracie Schram",
+          "url": "https://open.spotify.com/artist/3TOUW1MYPgYX13UXBm552d"
+        }
+      ],
+      "duration_ms": 194018,
+      "name": "all night long",
+      "url": "https://open.spotify.com/track/61wHg8g1eNbBatDAijJ2IT"
+    },
+    {
+      "added_at": "2026-03-19 12:18:11",
+      "album": {
+        "name": "Habits (Stay High)",
+        "url": "https://open.spotify.com/album/0ETh59PJQx7TpO7xkJNBYm"
+      },
+      "artists": [
+        {
+          "name": "Alice Nordstrom",
+          "url": "https://open.spotify.com/artist/6tZEMBPWeYyxYIKEubuJD3"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Habits (Stay High)",
+      "url": "https://open.spotify.com/track/4trkclJUGWRuXo1mlPLSAR"
+    },
+    {
+      "added_at": "2026-03-19 12:18:11",
+      "album": {
         "name": "Circles",
         "url": "https://open.spotify.com/album/0gEywDBtvFbB5dqpwTOK6r"
       },
@@ -151,22 +151,6 @@
       "duration_ms": 132024,
       "name": "Circles",
       "url": "https://open.spotify.com/track/3bgtpRltZVISs1jo7ouspO"
-    },
-    {
-      "added_at": "2026-03-19 12:18:11",
-      "album": {
-        "name": "Waterfalls",
-        "url": "https://open.spotify.com/album/2xoeY7T8uj7C0ITIPNBoPz"
-      },
-      "artists": [
-        {
-          "name": "Tobey Rosen",
-          "url": "https://open.spotify.com/artist/7xW6v5mmwGhWtoZ0x2AhLN"
-        }
-      ],
-      "duration_ms": 170884,
-      "name": "Waterfalls",
-      "url": "https://open.spotify.com/track/3lKlGhiNTsv3moOzbMXBUf"
     },
     {
       "added_at": "2026-03-19 12:18:11",
@@ -199,6 +183,22 @@
       "duration_ms": 233150,
       "name": "When I Get There",
       "url": "https://open.spotify.com/track/6AmEwM3ioCs9zQZx3TcYNK"
+    },
+    {
+      "added_at": "2026-03-19 12:18:11",
+      "album": {
+        "name": "Waterfalls",
+        "url": "https://open.spotify.com/album/2xoeY7T8uj7C0ITIPNBoPz"
+      },
+      "artists": [
+        {
+          "name": "Tobey Rosen",
+          "url": "https://open.spotify.com/artist/7xW6v5mmwGhWtoZ0x2AhLN"
+        }
+      ],
+      "duration_ms": 170884,
+      "name": "Waterfalls",
+      "url": "https://open.spotify.com/track/3lKlGhiNTsv3moOzbMXBUf"
     },
     {
       "added_at": "2026-03-19 12:18:11",
@@ -347,22 +347,6 @@
     {
       "added_at": "2026-03-19 12:18:11",
       "album": {
-        "name": "BLACKBIRD",
-        "url": "https://open.spotify.com/album/2Zm5k1FWYAyl1AdjWy0vsW"
-      },
-      "artists": [
-        {
-          "name": "JML",
-          "url": "https://open.spotify.com/artist/4eUw7FO3xhglLxCYeUTmlG"
-        }
-      ],
-      "duration_ms": 128009,
-      "name": "BLACKBIRD",
-      "url": "https://open.spotify.com/track/332d9YxpG0xw4TKu6PwDCr"
-    },
-    {
-      "added_at": "2026-03-19 12:18:11",
-      "album": {
         "name": "Here I Go Again - Acoustic EP",
         "url": "https://open.spotify.com/album/5WFy0zXYRVXAdjhWgS3xJ3"
       },
@@ -379,18 +363,18 @@
     {
       "added_at": "2026-03-19 12:18:11",
       "album": {
-        "name": "Girls Just Want to Have Fun",
-        "url": "https://open.spotify.com/album/0ANpeLpdSK3wVjIt8nJgI4"
+        "name": "BLACKBIRD",
+        "url": "https://open.spotify.com/album/2Zm5k1FWYAyl1AdjWy0vsW"
       },
       "artists": [
         {
-          "name": "everlow",
-          "url": "https://open.spotify.com/artist/6J0QEb88vQc3qthztPSYWd"
+          "name": "JML",
+          "url": "https://open.spotify.com/artist/4eUw7FO3xhglLxCYeUTmlG"
         }
       ],
-      "duration_ms": 173954,
-      "name": "Girls Just Want to Have Fun",
-      "url": "https://open.spotify.com/track/6CEzzw32qK4EqmmdFXaGEv"
+      "duration_ms": 128009,
+      "name": "BLACKBIRD",
+      "url": "https://open.spotify.com/track/332d9YxpG0xw4TKu6PwDCr"
     },
     {
       "added_at": "2026-03-19 12:18:11",
@@ -411,8 +395,24 @@
     {
       "added_at": "2026-03-19 12:18:11",
       "album": {
-        "name": "Call Me Maybe - Acoustic",
-        "url": "https://open.spotify.com/album/1iOPpvvfeNAslLpKHjw9Vr"
+        "name": "Girls Just Want to Have Fun",
+        "url": "https://open.spotify.com/album/0ANpeLpdSK3wVjIt8nJgI4"
+      },
+      "artists": [
+        {
+          "name": "everlow",
+          "url": "https://open.spotify.com/artist/6J0QEb88vQc3qthztPSYWd"
+        }
+      ],
+      "duration_ms": 173954,
+      "name": "Girls Just Want to Have Fun",
+      "url": "https://open.spotify.com/track/6CEzzw32qK4EqmmdFXaGEv"
+    },
+    {
+      "added_at": "2026-03-19 12:18:11",
+      "album": {
+        "name": "Manchild",
+        "url": "https://open.spotify.com/album/608G8jyLGprAIfZK8YEbQF"
       },
       "artists": [
         {
@@ -420,25 +420,9 @@
           "url": "https://open.spotify.com/artist/5LPJmnBnq8R8c5qG3B7K2K"
         }
       ],
-      "duration_ms": 210473,
-      "name": "Call Me Maybe - Acoustic",
-      "url": "https://open.spotify.com/track/1CSi4vh5zKb3bN2FtXHa8O"
-    },
-    {
-      "added_at": "2026-03-19 12:18:11",
-      "album": {
-        "name": "Torn",
-        "url": "https://open.spotify.com/album/0og0ExNcAjYK1nCWKyklL6"
-      },
-      "artists": [
-        {
-          "name": "Eloise Freud",
-          "url": "https://open.spotify.com/artist/4fCVdhbvs0qYEAQozKSyOh"
-        }
-      ],
-      "duration_ms": 223874,
-      "name": "Torn",
-      "url": "https://open.spotify.com/track/4INNiMO9R9UnwpLOtzizn6"
+      "duration_ms": 205238,
+      "name": "Manchild",
+      "url": "https://open.spotify.com/track/336eGxP8vyMyfU8gDPhf6c"
     },
     {
       "added_at": "2026-03-19 12:18:11",
@@ -475,6 +459,22 @@
     {
       "added_at": "2026-03-19 12:18:11",
       "album": {
+        "name": "Never Forget You",
+        "url": "https://open.spotify.com/album/7BFZdaPawpH98vgHFhEors"
+      },
+      "artists": [
+        {
+          "name": "late september",
+          "url": "https://open.spotify.com/artist/6vmXDaMIqG9xlTi4d65wuc"
+        }
+      ],
+      "duration_ms": 191879,
+      "name": "Never Forget You",
+      "url": "https://open.spotify.com/track/7fH1He9bsEfczjdRHxVqmz"
+    },
+    {
+      "added_at": "2026-03-19 12:18:11",
+      "album": {
         "name": "Young Folks",
         "url": "https://open.spotify.com/album/2hRvjklnit9MwpwW6CRJkT"
       },
@@ -491,8 +491,8 @@
     {
       "added_at": "2026-03-19 12:18:11",
       "album": {
-        "name": "Manchild",
-        "url": "https://open.spotify.com/album/608G8jyLGprAIfZK8YEbQF"
+        "name": "Call Me Maybe - Acoustic",
+        "url": "https://open.spotify.com/album/1iOPpvvfeNAslLpKHjw9Vr"
       },
       "artists": [
         {
@@ -500,25 +500,25 @@
           "url": "https://open.spotify.com/artist/5LPJmnBnq8R8c5qG3B7K2K"
         }
       ],
-      "duration_ms": 205238,
-      "name": "Manchild",
-      "url": "https://open.spotify.com/track/336eGxP8vyMyfU8gDPhf6c"
+      "duration_ms": 210473,
+      "name": "Call Me Maybe - Acoustic",
+      "url": "https://open.spotify.com/track/1CSi4vh5zKb3bN2FtXHa8O"
     },
     {
       "added_at": "2026-03-19 12:18:11",
       "album": {
-        "name": "Crazy",
-        "url": "https://open.spotify.com/album/17xJ0M1bBeUxR7yrc7hMpp"
+        "name": "Torn",
+        "url": "https://open.spotify.com/album/0og0ExNcAjYK1nCWKyklL6"
       },
       "artists": [
         {
-          "name": "late september",
-          "url": "https://open.spotify.com/artist/6vmXDaMIqG9xlTi4d65wuc"
+          "name": "Eloise Freud",
+          "url": "https://open.spotify.com/artist/4fCVdhbvs0qYEAQozKSyOh"
         }
       ],
-      "duration_ms": 203608,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/1xGVmK3MKRxlr5p9QQJ7hg"
+      "duration_ms": 223874,
+      "name": "Torn",
+      "url": "https://open.spotify.com/track/4INNiMO9R9UnwpLOtzizn6"
     },
     {
       "added_at": "2026-03-19 12:18:11",
@@ -535,6 +535,22 @@
       "duration_ms": 170074,
       "name": "Too Good At Goodbyes",
       "url": "https://open.spotify.com/track/43Ty2f8GqR6CpUYWNxgRqu"
+    },
+    {
+      "added_at": "2026-03-19 12:18:11",
+      "album": {
+        "name": "Crazy",
+        "url": "https://open.spotify.com/album/17xJ0M1bBeUxR7yrc7hMpp"
+      },
+      "artists": [
+        {
+          "name": "late september",
+          "url": "https://open.spotify.com/artist/6vmXDaMIqG9xlTi4d65wuc"
+        }
+      ],
+      "duration_ms": 203608,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/1xGVmK3MKRxlr5p9QQJ7hg"
     },
     {
       "added_at": "2026-03-19 12:18:11",
@@ -571,38 +587,6 @@
     {
       "added_at": "2026-03-19 12:18:11",
       "album": {
-        "name": "Just The Two Of Us - Acoustic",
-        "url": "https://open.spotify.com/album/4YL2SB1NKBwkBvMC1k01dz"
-      },
-      "artists": [
-        {
-          "name": "VDVM",
-          "url": "https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4"
-        }
-      ],
-      "duration_ms": 186008,
-      "name": "Just the Two of Us - Acoustic",
-      "url": "https://open.spotify.com/track/4PF2XC8shB2w4g66MaXyEH"
-    },
-    {
-      "added_at": "2026-03-19 12:18:11",
-      "album": {
-        "name": "Never Forget You",
-        "url": "https://open.spotify.com/album/7BFZdaPawpH98vgHFhEors"
-      },
-      "artists": [
-        {
-          "name": "late september",
-          "url": "https://open.spotify.com/artist/6vmXDaMIqG9xlTi4d65wuc"
-        }
-      ],
-      "duration_ms": 191879,
-      "name": "Never Forget You",
-      "url": "https://open.spotify.com/track/7fH1He9bsEfczjdRHxVqmz"
-    },
-    {
-      "added_at": "2026-03-19 12:18:11",
-      "album": {
         "name": "I Don't Want To Miss A Thing",
         "url": "https://open.spotify.com/album/6KvHrixwNkjbvDNeccvPcX"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 187286,
       "name": "I Don't Want To Miss A Thing",
       "url": "https://open.spotify.com/track/28QoOJZgUI44vB0z9oThfH"
+    },
+    {
+      "added_at": "2026-03-19 12:18:11",
+      "album": {
+        "name": "Just The Two Of Us - Acoustic",
+        "url": "https://open.spotify.com/album/4YL2SB1NKBwkBvMC1k01dz"
+      },
+      "artists": [
+        {
+          "name": "VDVM",
+          "url": "https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4"
+        }
+      ],
+      "duration_ms": 186008,
+      "name": "Just the Two of Us - Acoustic",
+      "url": "https://open.spotify.com/track/4PF2XC8shB2w4g66MaXyEH"
     },
     {
       "added_at": "2026-03-19 12:18:11",
@@ -667,6 +667,22 @@
     {
       "added_at": "2026-03-19 12:18:11",
       "album": {
+        "name": "One Dance",
+        "url": "https://open.spotify.com/album/0kWyfddavCea1xEhaPPdi8"
+      },
+      "artists": [
+        {
+          "name": "POOL KIDS",
+          "url": "https://open.spotify.com/artist/3BWaTyIRQj4KFTCHwvLyHR"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "One Dance",
+      "url": "https://open.spotify.com/track/2StjDIpRLEKBHcOGsZ2bk1"
+    },
+    {
+      "added_at": "2026-03-19 12:18:11",
+      "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/5eW7UCMMuW9NlfaOgQSXsn"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 172741,
       "name": "Love Or Something Like It",
       "url": "https://open.spotify.com/track/5eyR23bfxuwk2zykBxf2Xp"
-    },
-    {
-      "added_at": "2026-03-19 12:18:11",
-      "album": {
-        "name": "One Dance",
-        "url": "https://open.spotify.com/album/0kWyfddavCea1xEhaPPdi8"
-      },
-      "artists": [
-        {
-          "name": "POOL KIDS",
-          "url": "https://open.spotify.com/artist/3BWaTyIRQj4KFTCHwvLyHR"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "One Dance",
-      "url": "https://open.spotify.com/track/2StjDIpRLEKBHcOGsZ2bk1"
     },
     {
       "added_at": "2026-03-19 12:18:11",

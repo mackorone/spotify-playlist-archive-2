@@ -1,8 +1,8 @@
 pretty - [cumulative](/playlists/cumulative/0ET0FLTld1LuRbQaJPFk0e.md) - [plain](/playlists/plain/0ET0FLTld1LuRbQaJPFk0e) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/0ET0FLTld1LuRbQaJPFk0e)
 
-### [90s Music](https://open.spotify.com/playlist/0ET0FLTld1LuRbQaJPFk0e)
+### [Throwback Thursday \(3\)](https://open.spotify.com/playlist/0ET0FLTld1LuRbQaJPFk0e)
 
-> 
+> 80s, 90s, 00s
 
 [Gee Nelson](https://open.spotify.com/user/marijkeschouten85) - 632 likes - 54 songs - 3 hr 45 min
 
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/0ET0FLTld1LuRbQaJPFk0e.md) - [plain]
 | 53 | [Sonnet](https://open.spotify.com/track/1wTy1vx06bkJUvyOwbbPle) | [The Verve](https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84) | [Urban Hymns \(Deluxe / Remastered 2016\)](https://open.spotify.com/album/5aY2ZGwROKS4QU5QDW3SqD) | 4:21 |
 | 54 | [On & On](https://open.spotify.com/track/2AVRiqNBp1cMVL7PQNzLc4) | [Longpigs](https://open.spotify.com/artist/1o7zIbVAgDDHKijLVuLASg) | [The Sun Is Often Out](https://open.spotify.com/album/1QQKv2Y9uONbj8Dw6GUMB6) | 4:10 |
 
-Snapshot ID: `AAADU8ti55bDF8kkohLVmDeLKUnRZ+5j`
+Snapshot ID: `AAADVTcjdSfRxPRHUmYYqof0aCXyFLqP`

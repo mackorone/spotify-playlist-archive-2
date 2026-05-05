@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR6cgRxMHrfZ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6VGYv5vpzG5D6Votiqpolb">Cal Shapiro</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 246 likes - 170 songs - 8 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 250 likes - 170 songs - 8 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR6cgRxMHrfZ.md) - [plain]
 | 26 | [Catch My Breath](https://open.spotify.com/track/4aha3sFO6kTx0Jq4Fp5b3y) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid \(Chapter 1\)](https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo) | 3:12 |
 | 27 | [The Outside](https://open.spotify.com/track/0uaomEw1vvehttoRNBngKd) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid](https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK) | 3:03 |
 | 28 | [First Time On Earth](https://open.spotify.com/track/3z87a8YWdfBTWwrspCN4g8) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid](https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK) | 2:41 |
-| 29 | [I Choose U](https://open.spotify.com/track/75NpB97pPgk2OcVF8d7zgV) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [After Hours](https://open.spotify.com/album/4xltDDKkCArA03HKOZnuQD) | 3:47 |
-| 30 | [Never Be Far](https://open.spotify.com/track/73ktcMfFRcoXlednsDvH3X) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid](https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK) | 3:17 |
+| 29 | [Never Be Far](https://open.spotify.com/track/73ktcMfFRcoXlednsDvH3X) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid](https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK) | 3:17 |
+| 30 | [I Choose U](https://open.spotify.com/track/75NpB97pPgk2OcVF8d7zgV) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [After Hours](https://open.spotify.com/album/4xltDDKkCArA03HKOZnuQD) | 3:47 |
 | 31 | [Last Call](https://open.spotify.com/track/5QOKsL8sdbosNPxDFJNPQz) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Last Call](https://open.spotify.com/album/1Va7zXtwepB11AFFmJAq1l) | 2:31 |
 | 32 | [Adelaide](https://open.spotify.com/track/6Ptb2JSW4var9dPGCmsm3s) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW) | [It’s Never Really Over \(Expanded\)](https://open.spotify.com/album/5UtK7iPrjxMrxsQe1bPqkm) | 3:02 |
 | 33 | [Little Bit](https://open.spotify.com/track/1CCtxXoJGt2EnTuVufRTxT) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [Little Bit](https://open.spotify.com/album/4CKqbCxNCPt0hnGdvqDeex) | 2:43 |
@@ -66,15 +66,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR6cgRxMHrfZ.md) - [plain]
 | 56 | [Problem](https://open.spotify.com/track/67tePq03Cv6zsBF4bsItEE) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [The Hard Way \(Deluxe\)](https://open.spotify.com/album/5RHdOTPKxJ63HPEAslOZhv) | 2:34 |
 | 57 | [Long Way Home](https://open.spotify.com/track/6YG4gGjVGf2IzNmxZUOLsV) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Long Way Home](https://open.spotify.com/album/3MmEb9UgXMbg02WG29sE3a) | 3:05 |
 | 58 | [Nobody Has to Know](https://open.spotify.com/track/015oVWITPHkpoDfiisMrb0) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [Nobody Has to Know](https://open.spotify.com/album/0qsusdOTBlyyP9tvPFEG32) | 3:37 |
-| 59 | [Insomniac](https://open.spotify.com/track/5LFGS3o3H1OSIf6y9lH8oP) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [Just For Fun](https://open.spotify.com/album/17QkdaxVp5VTcu2DyABHoi) | 2:59 |
-| 60 | [You and Me](https://open.spotify.com/track/0vuj9C2EaijzROiGd4yAvz) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [You and Me](https://open.spotify.com/album/2XhdejNPxAfbGZwuoeBEqo) | 2:46 |
+| 59 | [You and Me](https://open.spotify.com/track/0vuj9C2EaijzROiGd4yAvz) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [You and Me](https://open.spotify.com/album/2XhdejNPxAfbGZwuoeBEqo) | 2:46 |
+| 60 | [Insomniac](https://open.spotify.com/track/5LFGS3o3H1OSIf6y9lH8oP) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [Just For Fun](https://open.spotify.com/album/17QkdaxVp5VTcu2DyABHoi) | 2:59 |
 | 61 | [Thick Skin](https://open.spotify.com/track/6AUdIUa9taPXjYv2IuyMh1) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [THE ART OF BEING A MESS \(DELUXE\)](https://open.spotify.com/album/1zv8XVn1rFyaZJS2Uih0xU) | 2:32 |
 | 62 | [Beast](https://open.spotify.com/track/6LxYLEHqoPvKDyhoTU0d9F) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [After Hours](https://open.spotify.com/album/7612v2NCnEexfvOHwK0Ttr) | 3:14 |
 | 63 | [Comedown](https://open.spotify.com/track/4BijsA9UwhonQHErVbzH4L) | [Taska Black](https://open.spotify.com/artist/3XFcu2NnGWceLNdxRCfYH3) | [Comedown](https://open.spotify.com/album/0GiUcSBb1JXpGsPwX4eAfn) | 2:48 |
 | 64 | [Be Easy](https://open.spotify.com/track/1rVRvYpH6numR6NfRtwJAo) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [To Dream](https://open.spotify.com/album/4hXGxuxXLcpbVTQUqOSZCJ) | 3:11 |
 | 65 | [Call For You](https://open.spotify.com/track/34HlyukOVl1gK1nfP5UXqs) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [The Hard Way](https://open.spotify.com/album/01rtI8jY5h2ZdPHMXnWJtb) | 3:38 |
-| 66 | [For You](https://open.spotify.com/track/7152P5rQMwjwoyepSuHx1B) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [The Scotch Tape](https://open.spotify.com/album/2W2J97vm3aul3LuE2DygGk) | 4:46 |
-| 67 | [Pretty Little](https://open.spotify.com/track/7ci9LUxqlht8OegSfmQLk0) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [The Hard Way](https://open.spotify.com/album/01rtI8jY5h2ZdPHMXnWJtb) | 2:35 |
+| 66 | [Pretty Little](https://open.spotify.com/track/7ci9LUxqlht8OegSfmQLk0) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [The Hard Way](https://open.spotify.com/album/01rtI8jY5h2ZdPHMXnWJtb) | 2:35 |
+| 67 | [For You](https://open.spotify.com/track/7152P5rQMwjwoyepSuHx1B) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [The Scotch Tape](https://open.spotify.com/album/2W2J97vm3aul3LuE2DygGk) | 4:46 |
 | 68 | [Somebody Gon Get It](https://open.spotify.com/track/4A1rRMHAJ7ZXmJynGTiZQE) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [After Hours](https://open.spotify.com/album/7612v2NCnEexfvOHwK0Ttr) | 3:32 |
 | 69 | [How Can It Be Christmas](https://open.spotify.com/track/7xVQOFm6ql6S1mJCsxH7TB) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW) | [How Can It Be Christmas](https://open.spotify.com/album/1NWaOsKAEnp5rdg4jmmK5f) | 3:15 |
 | 70 | [rock bottom](https://open.spotify.com/track/4AsIb3tfOTpQYSpe8goH6c) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [SUPERBLOOM](https://open.spotify.com/album/59f3BAKRdlWeaGTetnUPob) | 3:10 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR6cgRxMHrfZ.md) - [plain]
 | 79 | [Heartbreak Souvenirs](https://open.spotify.com/track/6WjZxOLrAhUiGCPf3tMfK8) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [A Heart Is a Terrible Thing to Break](https://open.spotify.com/album/6mBNXZGN2V1JmcUhjlxU3q) | 3:13 |
 | 80 | [I Believe](https://open.spotify.com/track/12oetV9XTJwHAzJgXtkSTA) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [Warning Signs](https://open.spotify.com/album/0c8G4kwWZRRBNf0O7HfWjF) | 3:50 |
 | 81 | [Holiday](https://open.spotify.com/track/75A2Cy7UhkRFUDbWMuDd4b) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [The Hard Way](https://open.spotify.com/album/01rtI8jY5h2ZdPHMXnWJtb) | 3:00 |
-| 82 | [Why'd It Have To Be Now](https://open.spotify.com/track/0ijlRt2f9BTH1wI8dS5IuZ) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [Too Much](https://open.spotify.com/album/3BmIiIVp13T2mlqH39gos5) | 2:56 |
-| 83 | [Lose Me](https://open.spotify.com/track/2oiK2e9MKtpEPeOHaa2OUD) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [The Hard Way](https://open.spotify.com/album/01rtI8jY5h2ZdPHMXnWJtb) | 2:46 |
+| 82 | [Lose Me](https://open.spotify.com/track/2oiK2e9MKtpEPeOHaa2OUD) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [The Hard Way](https://open.spotify.com/album/01rtI8jY5h2ZdPHMXnWJtb) | 2:46 |
+| 83 | [Why'd It Have To Be Now](https://open.spotify.com/track/0ijlRt2f9BTH1wI8dS5IuZ) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [Too Much](https://open.spotify.com/album/3BmIiIVp13T2mlqH39gos5) | 2:56 |
 | 84 | [Detonate](https://open.spotify.com/track/4fBsY6VFPeCW9x6o79eZME) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [The Scotch Tape](https://open.spotify.com/album/2W2J97vm3aul3LuE2DygGk) | 4:28 |
 | 85 | [Crossroads](https://open.spotify.com/track/71ocfE3ICFhTDUXz9hmHIU) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [To Dream](https://open.spotify.com/album/4hXGxuxXLcpbVTQUqOSZCJ) | 3:45 |
 | 86 | [AFU](https://open.spotify.com/track/1ofgiVRjJTfLDOXBh3HvVU) | [CAL](https://open.spotify.com/artist/4VmI5ZXt5FnlYIA8xHCLGH) | [The Identity Crisis: Side A](https://open.spotify.com/album/0frneG4jiVupF47MCKJR4I) | 3:07 |
@@ -125,9 +125,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR6cgRxMHrfZ.md) - [plain]
 | 115 | [Cars, Money and Fame](https://open.spotify.com/track/2KZuyTQ55zvRylakqgxUBd) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [Cars, Money and Fame](https://open.spotify.com/album/0tVbFZUbPNY1gFcWUAcBHL) | 3:54 |
 | 116 | [King For A Day](https://open.spotify.com/track/0sibWY7yGsr4UO7lxrKy1M) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [The Hard Way \(Deluxe\)](https://open.spotify.com/album/5RHdOTPKxJ63HPEAslOZhv) | 3:11 |
 | 117 | [Everything I Do](https://open.spotify.com/track/0Uf2BnvU6DbS6cS8B7dGME) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [The Scotch Tape](https://open.spotify.com/album/2W2J97vm3aul3LuE2DygGk) | 5:01 |
-| 118 | [Stunner](https://open.spotify.com/track/7eES9EHo6h20R2ZgUPrx8n) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [The Scotch Tape](https://open.spotify.com/album/2W2J97vm3aul3LuE2DygGk) | 4:15 |
-| 119 | [Fade](https://open.spotify.com/track/5PSXmJVvwYXfekSLbCKPev) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [The Scotch Tape](https://open.spotify.com/album/2W2J97vm3aul3LuE2DygGk) | 4:24 |
-| 120 | [Sounds Like Heaven](https://open.spotify.com/track/6oPW5eZePLKr2mzPNfHR7L) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Deep Water](https://open.spotify.com/album/76BPHH4pYbhKuFjym0FW78) | 2:53 |
+| 118 | [Sounds Like Heaven](https://open.spotify.com/track/6oPW5eZePLKr2mzPNfHR7L) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Deep Water](https://open.spotify.com/album/76BPHH4pYbhKuFjym0FW78) | 2:53 |
+| 119 | [Stunner](https://open.spotify.com/track/7eES9EHo6h20R2ZgUPrx8n) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [The Scotch Tape](https://open.spotify.com/album/2W2J97vm3aul3LuE2DygGk) | 4:15 |
+| 120 | [Fade](https://open.spotify.com/track/5PSXmJVvwYXfekSLbCKPev) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [The Scotch Tape](https://open.spotify.com/album/2W2J97vm3aul3LuE2DygGk) | 4:24 |
 | 121 | [Hitch Hiking](https://open.spotify.com/track/5nkg0pxD5dN91JBzlvI90W) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [Only Started Growing](https://open.spotify.com/album/7HcrXJXrfaPrXzPnZggZoC) | 2:50 |
 | 122 | [Last Night](https://open.spotify.com/track/3WfreEZXsEDUcI01Eaj9w9) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [Just For Fun](https://open.spotify.com/album/17QkdaxVp5VTcu2DyABHoi) | 2:53 |
 | 123 | [Over Love](https://open.spotify.com/track/5Uv9ENfh8jIh4lU2gkVCsr) | [Jordi](https://open.spotify.com/artist/5ZTJEC2UH1RXQT9K1mDCJ3) | [Jordi](https://open.spotify.com/album/0A3Wbzsq8IHa6K5BTfcoMr) | 2:35 |
@@ -179,4 +179,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR6cgRxMHrfZ.md) - [plain]
 | 169 | [Drink Us Back Together](https://open.spotify.com/track/5dANkvVBO2q1vqty0jNp4i) | [17 Memphis](https://open.spotify.com/artist/4vqV8IpWyagD7V8RjMO63g) | [17 MEMPHIS FOREVER](https://open.spotify.com/album/2XYynyaDxQk1h2d6vWv4iI) | 3:12 |
 | 170 | [Give You Love](https://open.spotify.com/track/2UO5W95ydfVo5AmCQNzVxJ) | [Jackie Castro](https://open.spotify.com/artist/6blpGtm31QFko8NcqeOxvN) | [Give You Love](https://open.spotify.com/album/4AhCVQ2AZkSQD7N3Mp3ksC) | 3:04 |
 
-Snapshot ID: `AcQifAAAAABAoGnoN6wMP8yNGd2Mi2b4`
+Snapshot ID: `AcQoHAAAAACxJpVrvQd/7KYy4RUH6u9Y`

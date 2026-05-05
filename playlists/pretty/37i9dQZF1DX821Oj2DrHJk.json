@@ -1,6 +1,6 @@
 {
   "description": "Rock on repeat during the summers of the 1970s.",
-  "num_followers": 31997,
+  "num_followers": 31999,
   "original_name": "70s Summer Rock",
   "owner": {
     "name": "Spotify",
@@ -623,22 +623,6 @@
     {
       "added_at": "2024-07-12 14:53:15",
       "album": {
-        "name": "A Night At The Opera (2011 Remaster)",
-        "url": "https://open.spotify.com/album/1GbtB4zTqAsyfZEsm1RZfx"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 170786,
-      "name": "You're My Best Friend - Remastered 2011",
-      "url": "https://open.spotify.com/track/4vhVDkSx9RSb2k6mWFMYNI"
-    },
-    {
-      "added_at": "2024-07-12 14:53:15",
-      "album": {
         "name": "Stranger In Town",
         "url": "https://open.spotify.com/album/1vhib5WLHRVdOpRjiTHk15"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 302626,
       "name": "Hollywood Nights",
       "url": "https://open.spotify.com/track/5VbePtZp1at8gH990zVyTI"
+    },
+    {
+      "added_at": "2024-07-12 14:53:15",
+      "album": {
+        "name": "A Night At The Opera (2011 Remaster)",
+        "url": "https://open.spotify.com/album/1GbtB4zTqAsyfZEsm1RZfx"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 170786,
+      "name": "You're My Best Friend - Remastered 2011",
+      "url": "https://open.spotify.com/track/4vhVDkSx9RSb2k6mWFMYNI"
     },
     {
       "added_at": "2024-07-12 14:53:15",
@@ -735,22 +735,6 @@
     {
       "added_at": "2024-07-12 14:53:15",
       "album": {
-        "name": "Even In The Quietest Moments",
-        "url": "https://open.spotify.com/album/4X87hQ57jTYQTcYTaJWK5w"
-      },
-      "artists": [
-        {
-          "name": "Supertramp",
-          "url": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
-        }
-      ],
-      "duration_ms": 248173,
-      "name": "Give A Little Bit",
-      "url": "https://open.spotify.com/track/6XUHsYE38CEbYunT983O9G"
-    },
-    {
-      "added_at": "2024-07-12 14:53:15",
-      "album": {
         "name": "Cosmo's Factory (Expanded Edition)",
         "url": "https://open.spotify.com/album/4GLxEXWI3JiRKp6H7bfTIK"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 198706,
       "name": "Love Gun",
       "url": "https://open.spotify.com/track/0SPBrxOUEMIKugXR4bFhxs"
+    },
+    {
+      "added_at": "2024-07-12 14:53:15",
+      "album": {
+        "name": "Even In The Quietest Moments",
+        "url": "https://open.spotify.com/album/4X87hQ57jTYQTcYTaJWK5w"
+      },
+      "artists": [
+        {
+          "name": "Supertramp",
+          "url": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
+        }
+      ],
+      "duration_ms": 248173,
+      "name": "Give A Little Bit",
+      "url": "https://open.spotify.com/track/6XUHsYE38CEbYunT983O9G"
     },
     {
       "added_at": "2024-07-12 14:53:15",
@@ -863,18 +863,18 @@
     {
       "added_at": "2024-07-12 14:53:15",
       "album": {
-        "name": "Who's Next (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ"
+        "name": "It Ain't Easy",
+        "url": "https://open.spotify.com/album/0tJT9ZnxnlElGa34DRj59l"
       },
       "artists": [
         {
-          "name": "The Who",
-          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+          "name": "Three Dog Night",
+          "url": "https://open.spotify.com/artist/4FAEZeJcsYYBkNq2D3KGTV"
         }
       ],
-      "duration_ms": 511400,
-      "name": "Won't Get Fooled Again - Original Album Version",
-      "url": "https://open.spotify.com/track/0cJPLFrlV7TTCyPLupHzcH"
+      "duration_ms": 198933,
+      "name": "Mama Told Me (Not To Come) - Single Version",
+      "url": "https://open.spotify.com/track/1CAO7hiNOxJRPW4nFv2aRO"
     },
     {
       "added_at": "2024-07-12 14:53:15",
@@ -895,18 +895,18 @@
     {
       "added_at": "2024-07-12 14:53:15",
       "album": {
-        "name": "It Ain't Easy",
-        "url": "https://open.spotify.com/album/0tJT9ZnxnlElGa34DRj59l"
+        "name": "Who's Next (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ"
       },
       "artists": [
         {
-          "name": "Three Dog Night",
-          "url": "https://open.spotify.com/artist/4FAEZeJcsYYBkNq2D3KGTV"
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
         }
       ],
-      "duration_ms": 198933,
-      "name": "Mama Told Me (Not To Come) - Single Version",
-      "url": "https://open.spotify.com/track/1CAO7hiNOxJRPW4nFv2aRO"
+      "duration_ms": 511400,
+      "name": "Won't Get Fooled Again - Original Album Version",
+      "url": "https://open.spotify.com/track/0cJPLFrlV7TTCyPLupHzcH"
     },
     {
       "added_at": "2024-07-12 14:53:15",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-07-12 14:53:15",
       "album": {
-        "name": "Smashes Thrashes & Hits",
-        "url": "https://open.spotify.com/album/2TrudRaCE8XYG56z1Xbmh6"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 228560,
-      "name": "Detroit Rock City",
-      "url": "https://open.spotify.com/track/3uz0O62HqYoyRiWZjS61KK"
-    },
-    {
-      "added_at": "2024-07-12 14:53:15",
-      "album": {
         "name": "Book Of Dreams",
         "url": "https://open.spotify.com/album/36G9sqbDXXbE7Mv9GTDMXd"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 265840,
       "name": "Jet Airliner",
       "url": "https://open.spotify.com/track/4PMx9RSiKlgry322H27rrZ"
+    },
+    {
+      "added_at": "2024-07-12 14:53:15",
+      "album": {
+        "name": "Smashes Thrashes & Hits",
+        "url": "https://open.spotify.com/album/2TrudRaCE8XYG56z1Xbmh6"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 228560,
+      "name": "Detroit Rock City",
+      "url": "https://open.spotify.com/track/3uz0O62HqYoyRiWZjS61KK"
     },
     {
       "added_at": "2024-07-12 14:53:15",

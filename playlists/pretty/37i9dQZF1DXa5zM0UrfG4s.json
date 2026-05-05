@@ -1,6 +1,6 @@
 {
   "description": "r\u00f8lp og s\u00e5nt",
-  "num_followers": 117797,
+  "num_followers": 117793,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
@@ -443,6 +443,22 @@
     {
       "added_at": "2026-04-30 22:00:55",
       "album": {
+        "name": "Staut",
+        "url": "https://open.spotify.com/album/7rdWNBNXVcwfko6Yj9BCpD"
+      },
+      "artists": [
+        {
+          "name": "Staut",
+          "url": "https://open.spotify.com/artist/3Gm11qlnZpq0J9ee9rUJ3P"
+        }
+      ],
+      "duration_ms": 206053,
+      "name": "Sj\u00e5 sole",
+      "url": "https://open.spotify.com/track/2JlwcKF4s6GGZpC37FBNbQ"
+    },
+    {
+      "added_at": "2026-04-30 22:00:55",
+      "album": {
         "name": "Sl\u00e5ss f\u00f6r dig",
         "url": "https://open.spotify.com/album/0kYxCy6xwAHN70YtRFMRG5"
       },
@@ -459,26 +475,6 @@
       "duration_ms": 131807,
       "name": "Sl\u00e5ss f\u00f6r dig",
       "url": "https://open.spotify.com/track/3cm5WFZ2flczXiGq671KkY"
-    },
-    {
-      "added_at": "2026-04-30 22:00:55",
-      "album": {
-        "name": "Cowboyhatten",
-        "url": "https://open.spotify.com/album/73IJih4EONlwyZpKRHqGuS"
-      },
-      "artists": [
-        {
-          "name": "ZadeKing",
-          "url": "https://open.spotify.com/artist/1HFOFTPBhTc2hxFWJw1yzw"
-        },
-        {
-          "name": "Carina Dahl",
-          "url": "https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt"
-        }
-      ],
-      "duration_ms": 171667,
-      "name": "Cowboyhatten",
-      "url": "https://open.spotify.com/track/3t6vxZjhkjadUP9G1vfEl9"
     },
     {
       "added_at": "2026-04-30 22:00:55",
@@ -519,22 +515,6 @@
     {
       "added_at": "2026-04-30 22:00:55",
       "album": {
-        "name": "Staut",
-        "url": "https://open.spotify.com/album/7rdWNBNXVcwfko6Yj9BCpD"
-      },
-      "artists": [
-        {
-          "name": "Staut",
-          "url": "https://open.spotify.com/artist/3Gm11qlnZpq0J9ee9rUJ3P"
-        }
-      ],
-      "duration_ms": 206053,
-      "name": "Sj\u00e5 sole",
-      "url": "https://open.spotify.com/track/2JlwcKF4s6GGZpC37FBNbQ"
-    },
-    {
-      "added_at": "2026-04-30 22:00:55",
-      "album": {
         "name": "B\u00e6st I Test",
         "url": "https://open.spotify.com/album/3uk4DtG5e9pMRXodwV3pxk"
       },
@@ -547,6 +527,26 @@
       "duration_ms": 186453,
       "name": "K\u00e6m Tok Ho Me S\u00e6",
       "url": "https://open.spotify.com/track/6h5hwJ9ZfFZ81JqBjhgLwe"
+    },
+    {
+      "added_at": "2026-04-30 22:00:55",
+      "album": {
+        "name": "Cowboyhatten",
+        "url": "https://open.spotify.com/album/73IJih4EONlwyZpKRHqGuS"
+      },
+      "artists": [
+        {
+          "name": "ZadeKing",
+          "url": "https://open.spotify.com/artist/1HFOFTPBhTc2hxFWJw1yzw"
+        },
+        {
+          "name": "Carina Dahl",
+          "url": "https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt"
+        }
+      ],
+      "duration_ms": 171667,
+      "name": "Cowboyhatten",
+      "url": "https://open.spotify.com/track/3t6vxZjhkjadUP9G1vfEl9"
     },
     {
       "added_at": "2026-04-30 22:00:55",
@@ -615,26 +615,6 @@
     {
       "added_at": "2026-04-30 22:00:55",
       "album": {
-        "name": "Festen er aldri over",
-        "url": "https://open.spotify.com/album/1s0bb0vyEtksisba9J1OfA"
-      },
-      "artists": [
-        {
-          "name": "Morgan Sulele",
-          "url": "https://open.spotify.com/artist/3EaDukxGx5viO0MTLW1a5X"
-        },
-        {
-          "name": "Staysman",
-          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
-        }
-      ],
-      "duration_ms": 134265,
-      "name": "Ingen som skal hjem (feat. Staysman)",
-      "url": "https://open.spotify.com/track/3YZhm7RPnWzRV3vajxP6qr"
-    },
-    {
-      "added_at": "2026-04-30 22:00:55",
-      "album": {
         "name": "En d\u00e5rlig id\u00e9",
         "url": "https://open.spotify.com/album/4Y2TYeSlK4dEM89Yece7dy"
       },
@@ -667,6 +647,26 @@
       "duration_ms": 278457,
       "name": "S\u00e5nn So Det Va F\u00f8r",
       "url": "https://open.spotify.com/track/4s6yGnZ8L7PqTsKftYgADQ"
+    },
+    {
+      "added_at": "2026-04-30 22:00:55",
+      "album": {
+        "name": "Festen er aldri over",
+        "url": "https://open.spotify.com/album/1s0bb0vyEtksisba9J1OfA"
+      },
+      "artists": [
+        {
+          "name": "Morgan Sulele",
+          "url": "https://open.spotify.com/artist/3EaDukxGx5viO0MTLW1a5X"
+        },
+        {
+          "name": "Staysman",
+          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
+        }
+      ],
+      "duration_ms": 134265,
+      "name": "Ingen som skal hjem (feat. Staysman)",
+      "url": "https://open.spotify.com/track/3YZhm7RPnWzRV3vajxP6qr"
     },
     {
       "added_at": "2026-04-30 22:00:55",
@@ -875,58 +875,6 @@
     {
       "added_at": "2026-04-30 22:00:55",
       "album": {
-        "name": "De g\u00e6rne har det godt",
-        "url": "https://open.spotify.com/album/517ciheoZHAntktdQcBaxx"
-      },
-      "artists": [
-        {
-          "name": "Sandra Lyng",
-          "url": "https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf"
-        },
-        {
-          "name": "rOlfFa",
-          "url": "https://open.spotify.com/artist/4Rdh0AevBwePcuPgt8fNeM"
-        }
-      ],
-      "duration_ms": 128653,
-      "name": "De g\u00e6rne har det godt",
-      "url": "https://open.spotify.com/track/2uWzRb60LK37cremgoTxJd"
-    },
-    {
-      "added_at": "2026-04-30 22:00:55",
-      "album": {
-        "name": "Gamlehjem",
-        "url": "https://open.spotify.com/album/7bwo9g7xMxlVYYxZIsNBCU"
-      },
-      "artists": [
-        {
-          "name": "Halva Priset",
-          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
-        }
-      ],
-      "duration_ms": 181648,
-      "name": "Gamlehjem",
-      "url": "https://open.spotify.com/track/2GY30sRduLyBQQHkTDDpK9"
-    },
-    {
-      "added_at": "2026-04-30 22:00:55",
-      "album": {
-        "name": "Singel til jeg d\u00f8r",
-        "url": "https://open.spotify.com/album/57hUp9ecLiQODZpexmgd6f"
-      },
-      "artists": [
-        {
-          "name": "Staysman",
-          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
-        }
-      ],
-      "duration_ms": 142620,
-      "name": "Singel til jeg d\u00f8r",
-      "url": "https://open.spotify.com/track/3OSzx7DOBwR10pCsbMOUwF"
-    },
-    {
-      "added_at": "2026-04-30 22:00:55",
-      "album": {
         "name": "Helt \u00c6rlig",
         "url": "https://open.spotify.com/album/5tpY3sc8z7TFGeCixCgW0Y"
       },
@@ -947,6 +895,62 @@
     {
       "added_at": "2026-04-30 22:00:55",
       "album": {
+        "name": "Besseggen",
+        "url": "https://open.spotify.com/album/3hXvPMpfoGRSTb9DSoYQhw"
+      },
+      "artists": [
+        {
+          "name": "Halva Priset",
+          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
+        }
+      ],
+      "duration_ms": 165612,
+      "name": "Besseggen",
+      "url": "https://open.spotify.com/track/3evPFHyagVIQqNDKi6jkp8"
+    },
+    {
+      "added_at": "2026-04-30 22:00:55",
+      "album": {
+        "name": "De g\u00e6rne har det godt",
+        "url": "https://open.spotify.com/album/517ciheoZHAntktdQcBaxx"
+      },
+      "artists": [
+        {
+          "name": "Sandra Lyng",
+          "url": "https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf"
+        },
+        {
+          "name": "rOlfFa",
+          "url": "https://open.spotify.com/artist/4Rdh0AevBwePcuPgt8fNeM"
+        }
+      ],
+      "duration_ms": 128653,
+      "name": "De g\u00e6rne har det godt",
+      "url": "https://open.spotify.com/track/2uWzRb60LK37cremgoTxJd"
+    },
+    {
+      "added_at": "2026-04-30 22:00:55",
+      "album": {
+        "name": "Norge rundt med Staysman",
+        "url": "https://open.spotify.com/album/6sqoMds60LzzOc39td4hA3"
+      },
+      "artists": [
+        {
+          "name": "Staysman",
+          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
+        },
+        {
+          "name": "Halva Priset",
+          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
+        }
+      ],
+      "duration_ms": 138454,
+      "name": "Hytta Mi",
+      "url": "https://open.spotify.com/track/6gyGtshjMiOrtqXJp553FZ"
+    },
+    {
+      "added_at": "2026-04-30 22:00:55",
+      "album": {
         "name": "Kunna vorre v\u00e6r",
         "url": "https://open.spotify.com/album/6IlY83C4YmJPr27MsYlfgt"
       },
@@ -959,6 +963,38 @@
       "duration_ms": 138388,
       "name": "Kunna vorre v\u00e6r",
       "url": "https://open.spotify.com/track/0ZsuXLSv1szZycoL5x9zOV"
+    },
+    {
+      "added_at": "2026-04-30 22:00:55",
+      "album": {
+        "name": "Langt igjen \u00e5 g\u00e5",
+        "url": "https://open.spotify.com/album/0cHxs6tHUNshJrzAg4M867"
+      },
+      "artists": [
+        {
+          "name": "Rotlaus",
+          "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
+        }
+      ],
+      "duration_ms": 182824,
+      "name": "Langt igjen \u00e5 g\u00e5",
+      "url": "https://open.spotify.com/track/4sSG00XcjhgtSMbeCMIKsn"
+    },
+    {
+      "added_at": "2026-04-30 22:00:55",
+      "album": {
+        "name": "Gamlehjem",
+        "url": "https://open.spotify.com/album/7bwo9g7xMxlVYYxZIsNBCU"
+      },
+      "artists": [
+        {
+          "name": "Halva Priset",
+          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
+        }
+      ],
+      "duration_ms": 181648,
+      "name": "Gamlehjem",
+      "url": "https://open.spotify.com/track/2GY30sRduLyBQQHkTDDpK9"
     },
     {
       "added_at": "2026-04-30 22:00:55",
@@ -987,54 +1023,18 @@
     {
       "added_at": "2026-04-30 22:00:55",
       "album": {
-        "name": "Besseggen",
-        "url": "https://open.spotify.com/album/3hXvPMpfoGRSTb9DSoYQhw"
-      },
-      "artists": [
-        {
-          "name": "Halva Priset",
-          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
-        }
-      ],
-      "duration_ms": 165612,
-      "name": "Besseggen",
-      "url": "https://open.spotify.com/track/3evPFHyagVIQqNDKi6jkp8"
-    },
-    {
-      "added_at": "2026-04-30 22:00:55",
-      "album": {
-        "name": "Norge rundt med Staysman",
-        "url": "https://open.spotify.com/album/6sqoMds60LzzOc39td4hA3"
+        "name": "Singel til jeg d\u00f8r",
+        "url": "https://open.spotify.com/album/57hUp9ecLiQODZpexmgd6f"
       },
       "artists": [
         {
           "name": "Staysman",
           "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
-        },
-        {
-          "name": "Halva Priset",
-          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
         }
       ],
-      "duration_ms": 138454,
-      "name": "Hytta Mi",
-      "url": "https://open.spotify.com/track/6gyGtshjMiOrtqXJp553FZ"
-    },
-    {
-      "added_at": "2026-04-30 22:00:55",
-      "album": {
-        "name": "Langt igjen \u00e5 g\u00e5",
-        "url": "https://open.spotify.com/album/0cHxs6tHUNshJrzAg4M867"
-      },
-      "artists": [
-        {
-          "name": "Rotlaus",
-          "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
-        }
-      ],
-      "duration_ms": 182824,
-      "name": "Langt igjen \u00e5 g\u00e5",
-      "url": "https://open.spotify.com/track/4sSG00XcjhgtSMbeCMIKsn"
+      "duration_ms": 142620,
+      "name": "Singel til jeg d\u00f8r",
+      "url": "https://open.spotify.com/track/3OSzx7DOBwR10pCsbMOUwF"
     },
     {
       "added_at": "2026-04-30 22:00:55",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2026-04-30 22:00:55",
       "album": {
-        "name": "Bara vara med dig",
-        "url": "https://open.spotify.com/album/19crRDKzeSR2trs3X5DBXY"
-      },
-      "artists": [
-        {
-          "name": "Kevin Boine",
-          "url": "https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu"
-        }
-      ],
-      "duration_ms": 161267,
-      "name": "Bara vara med dig",
-      "url": "https://open.spotify.com/track/6XyttiDC9XtzILqteIADau"
-    },
-    {
-      "added_at": "2026-04-30 22:00:55",
-      "album": {
         "name": "Sv\u00e6re Pupper",
         "url": "https://open.spotify.com/album/17bmLiibdB9L5lrwi3EY1h"
       },
@@ -1087,18 +1071,18 @@
     {
       "added_at": "2026-04-30 22:00:55",
       "album": {
-        "name": "Gikk en tur p\u00e5 stien",
-        "url": "https://open.spotify.com/album/1xx33P54osSgrtU0yMcpdS"
+        "name": "Bara vara med dig",
+        "url": "https://open.spotify.com/album/19crRDKzeSR2trs3X5DBXY"
       },
       "artists": [
         {
-          "name": "Staysman",
-          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
+          "name": "Kevin Boine",
+          "url": "https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu"
         }
       ],
-      "duration_ms": 143085,
-      "name": "Gikk en tur p\u00e5 stien",
-      "url": "https://open.spotify.com/track/0t8E42WWXZQ9Jd8XibIiZz"
+      "duration_ms": 161267,
+      "name": "Bara vara med dig",
+      "url": "https://open.spotify.com/track/6XyttiDC9XtzILqteIADau"
     },
     {
       "added_at": "2026-04-30 22:00:55",
@@ -1115,6 +1099,22 @@
       "duration_ms": 170526,
       "name": "N\u00e5 er det freda'n igjen",
       "url": "https://open.spotify.com/track/096d1z40MQXAEZALorCnC4"
+    },
+    {
+      "added_at": "2026-04-30 22:00:55",
+      "album": {
+        "name": "Gikk en tur p\u00e5 stien",
+        "url": "https://open.spotify.com/album/1xx33P54osSgrtU0yMcpdS"
+      },
+      "artists": [
+        {
+          "name": "Staysman",
+          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
+        }
+      ],
+      "duration_ms": 143085,
+      "name": "Gikk en tur p\u00e5 stien",
+      "url": "https://open.spotify.com/track/0t8E42WWXZQ9Jd8XibIiZz"
     },
     {
       "added_at": "2026-04-30 22:00:55",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2026-04-30 22:00:55",
       "album": {
+        "name": "N\u00e5r sol\u00e5 g\u00e5r ned",
+        "url": "https://open.spotify.com/album/6Fnzvn4reiS3UJVrYOaqQo"
+      },
+      "artists": [
+        {
+          "name": "Stavangerkameratene",
+          "url": "https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA"
+        }
+      ],
+      "duration_ms": 199920,
+      "name": "N\u00e5r sol\u00e5 g\u00e5r ned",
+      "url": "https://open.spotify.com/track/4AqDTmKxJMMAOsNhhKVI5V"
+    },
+    {
+      "added_at": "2026-04-30 22:00:55",
+      "album": {
         "name": "F\u00f8dt i nord",
         "url": "https://open.spotify.com/album/2dDMye7V9k7u1gOgJlhG1K"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 156030,
       "name": "F\u00f8dt i nord",
       "url": "https://open.spotify.com/track/7mrXev5OYtn2FQz9R6U7ja"
-    },
-    {
-      "added_at": "2026-04-30 22:00:55",
-      "album": {
-        "name": "N\u00e5r sol\u00e5 g\u00e5r ned",
-        "url": "https://open.spotify.com/album/6Fnzvn4reiS3UJVrYOaqQo"
-      },
-      "artists": [
-        {
-          "name": "Stavangerkameratene",
-          "url": "https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA"
-        }
-      ],
-      "duration_ms": 199920,
-      "name": "N\u00e5r sol\u00e5 g\u00e5r ned",
-      "url": "https://open.spotify.com/track/4AqDTmKxJMMAOsNhhKVI5V"
     },
     {
       "added_at": "2026-04-30 22:00:55",

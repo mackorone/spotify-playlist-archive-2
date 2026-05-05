@@ -1,6 +1,6 @@
 {
   "description": "Underground dance and alternative that went on to define a new millennium.",
-  "num_followers": 168823,
+  "num_followers": 168875,
   "original_name": "Generation Electronica",
   "owner": {
     "name": "Spotify",
@@ -451,22 +451,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Debut",
-        "url": "https://open.spotify.com/album/3icT9XGrBfhlV8BKK4WEGX"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        }
-      ],
-      "duration_ms": 252360,
-      "name": "Human Behaviour",
-      "url": "https://open.spotify.com/track/5OnyZ56HLhrWOXdzeETqLk"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "Gettin' High On Your Own Supply",
         "url": "https://open.spotify.com/album/0OiWmi1Jt8URgnt8SS4YtP"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 212400,
       "name": "Stop the Rock",
       "url": "https://open.spotify.com/track/37jrubWAb4F9TY2GgSRG56"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "Debut",
+        "url": "https://open.spotify.com/album/3icT9XGrBfhlV8BKK4WEGX"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "duration_ms": 252360,
+      "name": "Human Behaviour",
+      "url": "https://open.spotify.com/track/5OnyZ56HLhrWOXdzeETqLk"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -515,22 +515,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Metropol",
-        "url": "https://open.spotify.com/album/1XOuXmeh4RlQLTzfA18T6n"
-      },
-      "artists": [
-        {
-          "name": "Lunatic Calm",
-          "url": "https://open.spotify.com/artist/4Fh6eC8hJz13eXsboxXlcX"
-        }
-      ],
-      "duration_ms": 192640,
-      "name": "Leave You Far Behind",
-      "url": "https://open.spotify.com/track/1Abqb6agIOK1XLPaJhWm3G"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "Exit Planet Dust",
         "url": "https://open.spotify.com/album/1Bmuyq89rXZJNK1w8pauEg"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 332788,
       "name": "Leave Home",
       "url": "https://open.spotify.com/track/4mFDB35IaTzrzqMn4spMqo"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "Metropol",
+        "url": "https://open.spotify.com/album/1XOuXmeh4RlQLTzfA18T6n"
+      },
+      "artists": [
+        {
+          "name": "Lunatic Calm",
+          "url": "https://open.spotify.com/artist/4Fh6eC8hJz13eXsboxXlcX"
+        }
+      ],
+      "duration_ms": 192640,
+      "name": "Leave You Far Behind",
+      "url": "https://open.spotify.com/track/1Abqb6agIOK1XLPaJhWm3G"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1119,18 +1119,18 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "...I Care Because You Do",
-        "url": "https://open.spotify.com/album/0VG7XLJ8gSynEQDVnpHNNU"
+        "name": "The Singles",
+        "url": "https://open.spotify.com/album/5YBiwZtLNfixvdnZfue2HC"
       },
       "artists": [
         {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+          "name": "Basement Jaxx",
+          "url": "https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ"
         }
       ],
-      "duration_ms": 310746,
-      "name": "Alberto Balsalm",
-      "url": "https://open.spotify.com/track/21Phj46KeUHOWyZW9A9b7P"
+      "duration_ms": 218026,
+      "name": "Red Alert (Jaxx Radio Mix)",
+      "url": "https://open.spotify.com/track/5uTjEhlLv2YHNna0ojb5Az"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1159,18 +1159,18 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "The Singles",
-        "url": "https://open.spotify.com/album/5YBiwZtLNfixvdnZfue2HC"
+        "name": "...I Care Because You Do",
+        "url": "https://open.spotify.com/album/0VG7XLJ8gSynEQDVnpHNNU"
       },
       "artists": [
         {
-          "name": "Basement Jaxx",
-          "url": "https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ"
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
         }
       ],
-      "duration_ms": 218026,
-      "name": "Red Alert (Jaxx Radio Mix)",
-      "url": "https://open.spotify.com/track/5uTjEhlLv2YHNna0ojb5Az"
+      "duration_ms": 310746,
+      "name": "Alberto Balsalm",
+      "url": "https://open.spotify.com/track/21Phj46KeUHOWyZW9A9b7P"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1207,18 +1207,18 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Windowlicker",
-        "url": "https://open.spotify.com/album/64XdBdXNdguPHzBg8bdk5A"
+        "name": "Since I Left You",
+        "url": "https://open.spotify.com/album/3GBnNRYsxBfEeMSMmTpJ25"
       },
       "artists": [
         {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+          "name": "The Avalanches",
+          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
         }
       ],
-      "duration_ms": 368400,
-      "name": "Windowlicker",
-      "url": "https://open.spotify.com/track/60Pe9j2pCBa4Zp4ztf5nhd"
+      "duration_ms": 288346,
+      "name": "Frontier Psychiatrist",
+      "url": "https://open.spotify.com/track/0E2UdlzNQP9I70MYumYlFo"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1243,18 +1243,18 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Since I Left You",
-        "url": "https://open.spotify.com/album/3GBnNRYsxBfEeMSMmTpJ25"
+        "name": "Windowlicker",
+        "url": "https://open.spotify.com/album/64XdBdXNdguPHzBg8bdk5A"
       },
       "artists": [
         {
-          "name": "The Avalanches",
-          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
         }
       ],
-      "duration_ms": 288346,
-      "name": "Frontier Psychiatrist",
-      "url": "https://open.spotify.com/track/0E2UdlzNQP9I70MYumYlFo"
+      "duration_ms": 368400,
+      "name": "Windowlicker",
+      "url": "https://open.spotify.com/track/60Pe9j2pCBa4Zp4ztf5nhd"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
+        "name": "Reconstructed : The Best Of DJ Shadow (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6nhxaoHgGJ07EwUPlhPiNN"
+      },
+      "artists": [
+        {
+          "name": "DJ Shadow",
+          "url": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
+        }
+      ],
+      "duration_ms": 238680,
+      "name": "High Noon",
+      "url": "https://open.spotify.com/track/4GblofF1pKJvQM3PS7LL2G"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
         "name": "The Fat of the Land",
         "url": "https://open.spotify.com/album/0cThoJ3Tz1XFYyHjUyEiw6"
       },
@@ -1383,22 +1399,6 @@
       "duration_ms": 342733,
       "name": "Smack My Bitch Up",
       "url": "https://open.spotify.com/track/1TXBYUD9hRWkuVb3uLw5Yx"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
-        "name": "Endtroducing.....",
-        "url": "https://open.spotify.com/album/4wvqGLk1HThPA0b5lzRK2l"
-      },
-      "artists": [
-        {
-          "name": "DJ Shadow",
-          "url": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
-        }
-      ],
-      "duration_ms": 117240,
-      "name": "Organ Donor",
-      "url": "https://open.spotify.com/track/6TdnvxC5E146AXv1doDshO"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
+        "name": "Endtroducing.....",
+        "url": "https://open.spotify.com/album/4wvqGLk1HThPA0b5lzRK2l"
+      },
+      "artists": [
+        {
+          "name": "DJ Shadow",
+          "url": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
+        }
+      ],
+      "duration_ms": 117240,
+      "name": "Organ Donor",
+      "url": "https://open.spotify.com/track/6TdnvxC5E146AXv1doDshO"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
         "name": "Decksandrumsandrockandroll 20th anniversary",
         "url": "https://open.spotify.com/album/0FJ4Yv9u3PSc1Fg5KnBzNz"
       },
@@ -1467,22 +1483,6 @@
       "duration_ms": 242533,
       "name": "History Repeating - Knee Length Mix",
       "url": "https://open.spotify.com/track/4CiWchFxrlhqLxrkNFzd3p"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
-        "name": "Reconstructed : The Best Of DJ Shadow (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6nhxaoHgGJ07EwUPlhPiNN"
-      },
-      "artists": [
-        {
-          "name": "DJ Shadow",
-          "url": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
-        }
-      ],
-      "duration_ms": 238680,
-      "name": "High Noon",
-      "url": "https://open.spotify.com/track/4GblofF1pKJvQM3PS7LL2G"
     }
   ],
   "unique_name": "Generation Electronica",

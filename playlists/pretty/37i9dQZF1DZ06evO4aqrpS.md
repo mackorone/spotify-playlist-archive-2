@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4aqrpS.md) - [plain]
 
 > This is Silvana Estrada\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,836 likes - 44 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,872 likes - 44 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4aqrpS.md) - [plain]
 | 2 | [Como Un Pájaro](https://open.spotify.com/track/0F1OOqdNXZctaw0y4QVWJB) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Como Un Pájaro](https://open.spotify.com/album/2RpAWWOjVelOhj1VW39FSL) | 3:30 |
 | 3 | [Te Guardo](https://open.spotify.com/track/0MbiIQrfTj9U3MXzv3AsoK) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Primeras Canciones](https://open.spotify.com/album/3WkIaEpJxuzpMUc3tBD2jA) | 3:21 |
 | 4 | [Tregua](https://open.spotify.com/track/0gxO1ztpMMOy7wOw9GNrmz) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Vendrán Suaves Lluvias](https://open.spotify.com/album/4PXqCA2P1xLNjIbn2pOQMm) | 2:10 |
-| 5 | [Tenías Que Ser Tú](https://open.spotify.com/track/2rIKsynpXAj5bHFdY6ESE1) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7), [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Tenías Que Ser Tú](https://open.spotify.com/album/0S2fWlZm0i6m8CtlnspJyj) | 2:21 |
-| 6 | [Dividido](https://open.spotify.com/track/4xmZql4J71yDsU0krsZnBT) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1), [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Sublime](https://open.spotify.com/album/7rdezKlUOq26Dypydp5p9y) | 3:34 |
+| 5 | [Dividido](https://open.spotify.com/track/4xmZql4J71yDsU0krsZnBT) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1), [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Sublime](https://open.spotify.com/album/7rdezKlUOq26Dypydp5p9y) | 3:34 |
+| 6 | [Tenías Que Ser Tú](https://open.spotify.com/track/2rIKsynpXAj5bHFdY6ESE1) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7), [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Tenías Que Ser Tú](https://open.spotify.com/album/0S2fWlZm0i6m8CtlnspJyj) | 2:21 |
 | 7 | [Al Norte](https://open.spotify.com/track/5hBI1he3oDinoZPS2IaRIp) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Primeras Canciones](https://open.spotify.com/album/3WkIaEpJxuzpMUc3tBD2jA) | 3:19 |
 | 8 | [Dime](https://open.spotify.com/track/0tTDmG5WqLVc1CPuvuL22Z) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Vendrán Suaves Lluvias](https://open.spotify.com/album/4PXqCA2P1xLNjIbn2pOQMm) | 3:40 |
 | 9 | [Para vivir](https://open.spotify.com/track/6SFt1kzei45M8plu3VVdtT) | [El Kanka](https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL), [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Cosas de los vivientes](https://open.spotify.com/album/00gE14v4P0wQj8Qicor3yu) | 3:42 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4aqrpS.md) - [plain]
 | 43 | [La Caña](https://open.spotify.com/track/6gSwd2DF4CvniStQTuk1fi) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7), [Xinto Stevenz](https://open.spotify.com/artist/1uEiRl4WQ98wcfAdLX0Xgg), [Juan Cubas](https://open.spotify.com/artist/7mhLvp0kBLclELTbMTRcY1) | [Música por Mi México](https://open.spotify.com/album/2DNB5RNYoffk6eLSYaeIVr) | 6:43 |
 | 44 | [Lo Sagrado](https://open.spotify.com/track/6bhAUwtrHTPLuFRY2GYCdL) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7), [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc) | [Lo Sagrado](https://open.spotify.com/album/2S6If8uEdoGMoIPgChe9T2) | 3:30 |
 
-Snapshot ID: `afU+gAAAAABrbm73IIkZuYrigLz2MhQu`
+Snapshot ID: `afaQAAAAAADFjqcZoB+WWunWG4u1yJdd`

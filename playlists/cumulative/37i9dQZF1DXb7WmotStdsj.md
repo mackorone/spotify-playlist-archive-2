@@ -4,7 +4,7 @@
 
 > أفضل أغاني الراي
 
-243 songs - 19 hr 49 min
+244 songs - 19 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,7 +181,7 @@
 | [OMRI](https://open.spotify.com/track/08hX3lnqw1Nj2qhaNZ3dPM) | [Acim Music](https://open.spotify.com/artist/2i5v6LrS28a8RVj2e4jZCb) | [OMRI](https://open.spotify.com/album/1Wki9YbkZwOvhrAYbOtn65) | 3:02 | 2024-10-15 | 2026-01-29 |
 | [Pour Le Moment Manich Nhas](https://open.spotify.com/track/57y5tBvYYARdxgFEIKftBi) | [Cheb Rami](https://open.spotify.com/artist/7eqYQ9gRxYnCr3gQ1uarEo) | [Pour Le Moment Manich Nhas](https://open.spotify.com/album/1ap64eynUsY3uxbjK9n1Si) | 5:35 | 2025-08-13 |  |
 | [Raki Dalmetni](https://open.spotify.com/track/5ZneftpoYQtDYac23jXLQA) | [Abdou Gambetta](https://open.spotify.com/artist/1tK2o8xfVFCjGVs41FWhT2) | [Raki Dalmetni](https://open.spotify.com/album/5Wse1dL3VSYfQTnB9Z4dkq) | 4:57 | 2022-09-20 | 2023-05-26 |
-| [Rani Maghboun](https://open.spotify.com/track/4XYuaMdBaaMhjJRLnLT4UL) | [Hichem Smati](https://open.spotify.com/artist/4NqyeNqz4XfIeEWrXPknYJ), [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh) | [Rani Maghboun](https://open.spotify.com/album/1SsVP5ORISo4tbs1SQbd8K) | 6:59 | 2023-07-18 |  |
+| [Rani Maghboun](https://open.spotify.com/track/4XYuaMdBaaMhjJRLnLT4UL) | [Hichem Smati](https://open.spotify.com/artist/4NqyeNqz4XfIeEWrXPknYJ), [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh) | [Rani Maghboun](https://open.spotify.com/album/1SsVP5ORISo4tbs1SQbd8K) | 6:59 | 2023-07-18 | 2026-05-05 |
 | [Rani Nbet Hay](https://open.spotify.com/track/6Y4bRkSHNbjyUetAvix8sd) | [Cheb Djalil](https://open.spotify.com/artist/4ZzMtjQsjtaAOm3GPqmjeQ) | [Rani Nbet Hay](https://open.spotify.com/album/5PX8lRCsHDj1Q6L5RKzmoa) | 6:58 | 2023-01-06 | 2025-02-26 |
 | [Rani out](https://open.spotify.com/track/1teqXEof0gFqC8tye8xOc6) | [Abdou Gambetta](https://open.spotify.com/artist/1tK2o8xfVFCjGVs41FWhT2), [Raouf Samourai](https://open.spotify.com/artist/68sGJdtxTd8GgSc9oVcaIK) | [Rani out](https://open.spotify.com/album/0lPxOlFubIMhcCK4CTEBiy) | 4:32 | 2025-06-08 |  |
 | [Rohou Hawlouha \\ Rani Mtwahchha](https://open.spotify.com/track/6Of36mRcQXOZUhNFOeMg3t) | [Didou Parisien](https://open.spotify.com/artist/2LWOOorT0uVplVdL6CRncj) | [Rohou Hawlouha \\ Rani Mtwahchha](https://open.spotify.com/album/2IuSc2fo9KnuZ8JhJB4MxH) | 8:58 | 2021-10-19 | 2024-09-02 |
@@ -199,6 +199,7 @@
 | [Twahacht Hnantek](https://open.spotify.com/track/3oDiYHVVnvPPDpxMNmXXSw) | [Cheb Mehdi](https://open.spotify.com/artist/2uonXDQdHacpjve01wdIGE) | [Twahacht Hnantek](https://open.spotify.com/album/7yG1ZSbQcJrJuf7eEKiAM4) | 4:48 | 2022-09-20 | 2022-12-01 |
 | [Twahachtek ana](https://open.spotify.com/track/2kfxJQaJsGpe0eYjM8pIxE) | [Faycel Sghir](https://open.spotify.com/artist/6nWoudLNCfWwFYW0h2HTb1) | [Twahachtek ana](https://open.spotify.com/album/08QVX3oPM46w3beaRWgfGE) | 4:03 | 2021-10-19 | 2023-10-12 |
 | [Twahachtek Omri](https://open.spotify.com/track/1QcJ7OsYeuhFsCzKyy1j4L) | [Kader Japonais](https://open.spotify.com/artist/3e3cKwH1kUr02bvIm7VaIe) | [Twahachtek Omri](https://open.spotify.com/album/7DIDz2uxqKJ4mhhBqCj4jZ) | 4:38 | 2021-10-19 | 2022-11-21 |
+| [Twehachtek Grave](https://open.spotify.com/track/3omnAT9Aee3I2szep6R894) | [Cheba Souad](https://open.spotify.com/artist/2mtGLDeonPnIV8HDyrxCfl), [Hichem Smati](https://open.spotify.com/artist/4NqyeNqz4XfIeEWrXPknYJ) | [Twehachtek Grave](https://open.spotify.com/album/5QnK7ki9llQLXpHFofM4Ns) | 3:26 | 2026-05-04 |  |
 | [Wa3er Sougueh Wa3r \- بعثرلي المشاعر](https://open.spotify.com/track/36QDmF68FrLMKAkbUdsGpf) | [Cheikh Pititou](https://open.spotify.com/artist/160ZVD0gJqMWCNDEs2DYTU), [Tchikou 22](https://open.spotify.com/artist/1PQR1mOLesI2wPJDXcyl7H) | [Wa3er Sougueh Wa3r \(بعثرلي المشاعر\)](https://open.spotify.com/album/7etRoj59vSF8nGNEN0QXKY) | 4:44 | 2024-04-23 |  |
 | [Wah wah wah](https://open.spotify.com/track/64aYuL3Ex4BiVBzH2UjTXl) | [jilali boumelah](https://open.spotify.com/artist/6Iw0Ex7lNpa8j9kJmygfep) | [Wah wah wah](https://open.spotify.com/album/2vNS4WI2WROlRUhBKzpHUJ) | 4:06 | 2023-08-28 |  |
 | [Wahda Bwahda](https://open.spotify.com/track/4Ws6cRdfazsptOVi6lS25W) | [Cheb Nassim](https://open.spotify.com/artist/36HNrlSe0rp6bFPEDRRXHo) | [Wahda Bwahda](https://open.spotify.com/album/4uxtyscFwFbNrck3U4lvjQ) | 4:41 | 2022-09-27 | 2022-11-21 |

@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Toxic",
-  "num_followers": 69277,
+  "num_followers": 69300,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMoTfTAz0UZwQ2b0VlO6IQNF53jw",
+  "snapshot_id": "AAAAAEBoILkmKI32rWcWESc4KIMVBqiD",
   "tracks": [
     {
       "added_at": "2026-03-02 07:46:32",
@@ -27,6 +27,78 @@
       "duration_ms": 257604,
       "name": "Tabaahi - From \"Toxic - Kannada\"",
       "url": "https://open.spotify.com/track/4gzQdQ2frmP1dWugnOHJKb"
+    },
+    {
+      "added_at": "2026-05-04 11:03:23",
+      "album": {
+        "name": "Radha Radha (From \"Brindhavihari\")",
+        "url": "https://open.spotify.com/album/1lhOYwQzLZ3R0M2Osbqi34"
+      },
+      "artists": [
+        {
+          "name": "Hesham Abdul Wahab",
+          "url": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
+        },
+        {
+          "name": "V Nagendra Prasad",
+          "url": "https://open.spotify.com/artist/0BLgMgfFCQWmye32Yrt6UU"
+        },
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        },
+        {
+          "name": "Chinmayi",
+          "url": "https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ"
+        }
+      ],
+      "duration_ms": 270150,
+      "name": "Radha Radha (From \"Brindhavihari\")",
+      "url": "https://open.spotify.com/track/1zyvE0Ik0EPVZPbG9jk7mt"
+    },
+    {
+      "added_at": "2026-05-04 11:03:23",
+      "album": {
+        "name": "Neene Nee Nanna (From \"Karikaada - Kannada\")",
+        "url": "https://open.spotify.com/album/469vUjMDv57fczo4UOk83N"
+      },
+      "artists": [
+        {
+          "name": "Anuradha Bhat",
+          "url": "https://open.spotify.com/artist/7sJSfUsXlD9HT8JxFGXGiY"
+        },
+        {
+          "name": "Athishay Jain",
+          "url": "https://open.spotify.com/artist/2zPvFiANV9zd9lA1zzMjmb"
+        },
+        {
+          "name": "Gilli Venkatesh",
+          "url": "https://open.spotify.com/artist/3EISdTvkjnETXtRbCjr1Pv"
+        }
+      ],
+      "duration_ms": 219130,
+      "name": "Neene Nee Nanna (From \"Karikaada - Kannada\")",
+      "url": "https://open.spotify.com/track/3ZEXEt5tt2wZBltNoaVCWD"
+    },
+    {
+      "added_at": "2026-05-04 11:03:23",
+      "album": {
+        "name": "Nanaginnu Ninna (From \"Shravani\")",
+        "url": "https://open.spotify.com/album/3VeN3UIZqN3es6SvCQLof5"
+      },
+      "artists": [
+        {
+          "name": "Rohith Poojary",
+          "url": "https://open.spotify.com/artist/7hThmZrEhyKkYJDJ3PnfFg"
+        },
+        {
+          "name": "K P Milan Kumar",
+          "url": "https://open.spotify.com/artist/2qDNsvM0P9WXNOtqXT6HlJ"
+        }
+      ],
+      "duration_ms": 200327,
+      "name": "Nanaginnu Ninna (From \"Shravani\")",
+      "url": "https://open.spotify.com/track/2mvJD6TWQ462mH15HjeWOS"
     },
     {
       "added_at": "2026-03-16 10:43:48",

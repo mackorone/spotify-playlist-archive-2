@@ -1,6 +1,6 @@
 {
   "description": "Let's go! \ud83d\udcaa\u200a",
-  "num_followers": 772163,
+  "num_followers": 772168,
   "original_name": "Fit Beats ",
   "owner": {
     "name": "Spotify",
@@ -131,26 +131,30 @@
     {
       "added_at": "2026-04-23 22:03:23",
       "album": {
-        "name": "Boyz In Paris (with VINAI)",
-        "url": "https://open.spotify.com/album/3FrWieInAhMTL33yALP6H0"
+        "name": "LET'S GET FKD UP (feat. Tribbs)",
+        "url": "https://open.spotify.com/album/1zz2cxnkEpgyLdSmoPBEjK"
       },
       "artists": [
         {
-          "name": "Marnik",
-          "url": "https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc"
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
         },
         {
-          "name": "Naeleck",
-          "url": "https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF"
+          "name": "Mondello'G",
+          "url": "https://open.spotify.com/artist/77lzQa2JgjlkP4uA5ptyo7"
         },
         {
-          "name": "VINAI",
-          "url": "https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx"
+          "name": "CERES",
+          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
+        },
+        {
+          "name": "Tribbs",
+          "url": "https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L"
         }
       ],
-      "duration_ms": 151589,
-      "name": "Boyz In Paris (with VINAI)",
-      "url": "https://open.spotify.com/track/17NHXI2CJp7KgdcwcDnRx4"
+      "duration_ms": 121500,
+      "name": "LET'S GET FKD UP",
+      "url": "https://open.spotify.com/track/0iB5f04XdJ2tcfhoVkeLV8"
     },
     {
       "added_at": "2026-04-23 22:03:23",
@@ -187,30 +191,26 @@
     {
       "added_at": "2026-04-23 22:03:23",
       "album": {
-        "name": "LET'S GET FKD UP (feat. Tribbs)",
-        "url": "https://open.spotify.com/album/1zz2cxnkEpgyLdSmoPBEjK"
+        "name": "Boyz In Paris (with VINAI)",
+        "url": "https://open.spotify.com/album/3FrWieInAhMTL33yALP6H0"
       },
       "artists": [
         {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+          "name": "Marnik",
+          "url": "https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc"
         },
         {
-          "name": "Mondello'G",
-          "url": "https://open.spotify.com/artist/77lzQa2JgjlkP4uA5ptyo7"
+          "name": "Naeleck",
+          "url": "https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF"
         },
         {
-          "name": "CERES",
-          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
-        },
-        {
-          "name": "Tribbs",
-          "url": "https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L"
+          "name": "VINAI",
+          "url": "https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx"
         }
       ],
-      "duration_ms": 121500,
-      "name": "LET'S GET FKD UP",
-      "url": "https://open.spotify.com/track/0iB5f04XdJ2tcfhoVkeLV8"
+      "duration_ms": 151589,
+      "name": "Boyz In Paris (with VINAI)",
+      "url": "https://open.spotify.com/track/17NHXI2CJp7KgdcwcDnRx4"
     },
     {
       "added_at": "2026-04-23 22:03:23",
@@ -463,6 +463,26 @@
     {
       "added_at": "2026-04-23 22:03:23",
       "album": {
+        "name": "A New Day (feat. Celine Dion)",
+        "url": "https://open.spotify.com/album/0hWZe6IdHgUji11F12nVY0"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Ingrosso",
+          "url": "https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP"
+        },
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 207223,
+      "name": "A New Day (feat. Celine Dion)",
+      "url": "https://open.spotify.com/track/0NRIWkmQiSoIaEs3wvoSS7"
+    },
+    {
+      "added_at": "2026-04-23 22:03:23",
+      "album": {
         "name": "Holy Atlantis",
         "url": "https://open.spotify.com/album/6FbfMrCx8r37hzH0HbdFLZ"
       },
@@ -483,22 +503,22 @@
     {
       "added_at": "2026-04-23 22:03:23",
       "album": {
-        "name": "A New Day (feat. Celine Dion)",
-        "url": "https://open.spotify.com/album/0hWZe6IdHgUji11F12nVY0"
+        "name": "tell you straight (Speed Garage)",
+        "url": "https://open.spotify.com/album/7k9LXSIhJe0FDIPZJh1VGn"
       },
       "artists": [
         {
-          "name": "Sebastian Ingrosso",
-          "url": "https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP"
+          "name": "Strn.",
+          "url": "https://open.spotify.com/artist/4UdZWeX7Nkt2LtdoGEzlsH"
         },
         {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+          "name": "ALEXYS",
+          "url": "https://open.spotify.com/artist/2hZSRabELx8cqDED0Dd5jT"
         }
       ],
-      "duration_ms": 207223,
-      "name": "A New Day (feat. Celine Dion)",
-      "url": "https://open.spotify.com/track/0NRIWkmQiSoIaEs3wvoSS7"
+      "duration_ms": 94344,
+      "name": "tell you straight - Sped Up",
+      "url": "https://open.spotify.com/track/4zWWGFmM2LhtnMAVrTmYBg"
     },
     {
       "added_at": "2026-04-23 22:03:23",
@@ -523,26 +543,6 @@
       "duration_ms": 202176,
       "name": "Sweet Nothing - 2025 Edit",
       "url": "https://open.spotify.com/track/4ClVzfSYEea03HjEoDYOX3"
-    },
-    {
-      "added_at": "2026-04-23 22:03:23",
-      "album": {
-        "name": "tell you straight (Speed Garage)",
-        "url": "https://open.spotify.com/album/7k9LXSIhJe0FDIPZJh1VGn"
-      },
-      "artists": [
-        {
-          "name": "Strn.",
-          "url": "https://open.spotify.com/artist/4UdZWeX7Nkt2LtdoGEzlsH"
-        },
-        {
-          "name": "ALEXYS",
-          "url": "https://open.spotify.com/artist/2hZSRabELx8cqDED0Dd5jT"
-        }
-      ],
-      "duration_ms": 94344,
-      "name": "tell you straight - Sped Up",
-      "url": "https://open.spotify.com/track/4zWWGFmM2LhtnMAVrTmYBg"
     },
     {
       "added_at": "2026-04-23 22:03:23",
@@ -611,26 +611,6 @@
     {
       "added_at": "2026-04-23 22:03:23",
       "album": {
-        "name": "ODYSSEY",
-        "url": "https://open.spotify.com/album/1Y2uYmUgox5SpSMHXu8iPC"
-      },
-      "artists": [
-        {
-          "name": "ILLENIUM",
-          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
-        },
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Don't Want Your Love",
-      "url": "https://open.spotify.com/track/0ddLd0n19FHwawkSmhXwgg"
-    },
-    {
-      "added_at": "2026-04-23 22:03:23",
-      "album": {
         "name": "Would You (go to bed with me?)",
         "url": "https://open.spotify.com/album/41f0FqPlL8qM5Dx5LS57j1"
       },
@@ -651,22 +631,6 @@
     {
       "added_at": "2026-04-23 22:03:23",
       "album": {
-        "name": "Be The One",
-        "url": "https://open.spotify.com/album/03CJTIUvULKcMHjr0qjZtK"
-      },
-      "artists": [
-        {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        }
-      ],
-      "duration_ms": 169852,
-      "name": "Be The One",
-      "url": "https://open.spotify.com/track/1cQld05IcUDw3RCFt7uymW"
-    },
-    {
-      "added_at": "2026-04-23 22:03:23",
-      "album": {
         "name": "Tattoo (Topic Remix)",
         "url": "https://open.spotify.com/album/1nAJInWgfbBTHuK4osAGM9"
       },
@@ -683,6 +647,42 @@
       "duration_ms": 211400,
       "name": "Tattoo - Topic Remix",
       "url": "https://open.spotify.com/track/2HJBsWX5LQK8Y95JzPJ4zp"
+    },
+    {
+      "added_at": "2026-04-23 22:03:23",
+      "album": {
+        "name": "ODYSSEY",
+        "url": "https://open.spotify.com/album/1Y2uYmUgox5SpSMHXu8iPC"
+      },
+      "artists": [
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Don't Want Your Love",
+      "url": "https://open.spotify.com/track/0ddLd0n19FHwawkSmhXwgg"
+    },
+    {
+      "added_at": "2026-04-23 22:03:23",
+      "album": {
+        "name": "Be The One",
+        "url": "https://open.spotify.com/album/03CJTIUvULKcMHjr0qjZtK"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        }
+      ],
+      "duration_ms": 169852,
+      "name": "Be The One",
+      "url": "https://open.spotify.com/track/1cQld05IcUDw3RCFt7uymW"
     },
     {
       "added_at": "2026-04-23 22:03:23",
@@ -759,6 +759,22 @@
     {
       "added_at": "2026-04-23 22:03:23",
       "album": {
+        "name": "Crusade",
+        "url": "https://open.spotify.com/album/0m0Gyk4zUNfLc5kfZKomPQ"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        }
+      ],
+      "duration_ms": 179400,
+      "name": "Crusade - Club Edit",
+      "url": "https://open.spotify.com/track/0jPHJDzPCT5tGkqnb0aeDo"
+    },
+    {
+      "added_at": "2026-04-23 22:03:23",
+      "album": {
         "name": "All of the Lights",
         "url": "https://open.spotify.com/album/69PbEmFXdjV6D5icCoDU3F"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 120000,
       "name": "All of the Lights",
       "url": "https://open.spotify.com/track/0hSU77xrJln8H28BKrSx4R"
-    },
-    {
-      "added_at": "2026-04-23 22:03:23",
-      "album": {
-        "name": "Crusade",
-        "url": "https://open.spotify.com/album/0m0Gyk4zUNfLc5kfZKomPQ"
-      },
-      "artists": [
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        }
-      ],
-      "duration_ms": 179400,
-      "name": "Crusade - Club Edit",
-      "url": "https://open.spotify.com/track/0jPHJDzPCT5tGkqnb0aeDo"
     },
     {
       "added_at": "2026-04-23 22:03:23",
@@ -975,6 +975,22 @@
     {
       "added_at": "2026-04-23 22:03:23",
       "album": {
+        "name": "LOL",
+        "url": "https://open.spotify.com/album/0epvmB1B0FCNiyZft9GpXD"
+      },
+      "artists": [
+        {
+          "name": "BOVSKI",
+          "url": "https://open.spotify.com/artist/3MWeawb18cHiDxt4ip7GY9"
+        }
+      ],
+      "duration_ms": 151202,
+      "name": "LOL",
+      "url": "https://open.spotify.com/track/1SIvPp7W5mMXLmkf4RSItq"
+    },
+    {
+      "added_at": "2026-04-23 22:03:23",
+      "album": {
         "name": "Flames (feat. Bandit)",
         "url": "https://open.spotify.com/album/1b8vR0TRZsK1BDtk12sg5O"
       },
@@ -995,18 +1011,26 @@
     {
       "added_at": "2026-04-23 22:03:23",
       "album": {
-        "name": "LOL",
-        "url": "https://open.spotify.com/album/0epvmB1B0FCNiyZft9GpXD"
+        "name": "Go Back (feat. Julia Church)",
+        "url": "https://open.spotify.com/album/1X6nBOWHHVwjWCcMgm2vdk"
       },
       "artists": [
         {
-          "name": "BOVSKI",
-          "url": "https://open.spotify.com/artist/3MWeawb18cHiDxt4ip7GY9"
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "Sub Focus",
+          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
+        },
+        {
+          "name": "Julia Church",
+          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
         }
       ],
-      "duration_ms": 151202,
-      "name": "LOL",
-      "url": "https://open.spotify.com/track/1SIvPp7W5mMXLmkf4RSItq"
+      "duration_ms": 220538,
+      "name": "Go Back (feat. Julia Church)",
+      "url": "https://open.spotify.com/track/68R0zVUeMJ2C852Ov6d2Mh"
     },
     {
       "added_at": "2026-04-23 22:03:23",
@@ -1023,22 +1047,6 @@
       "duration_ms": 167832,
       "name": "All Good Things (Come To An End)",
       "url": "https://open.spotify.com/track/5I97xVqU6oRY3ErMUVz4qB"
-    },
-    {
-      "added_at": "2026-04-23 22:03:23",
-      "album": {
-        "name": "Ghost",
-        "url": "https://open.spotify.com/album/4JLFGihahYS4bXj5zrYvQk"
-      },
-      "artists": [
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/3DMrjvJqGduO1dXz4stFue"
     }
   ],
   "unique_name": "Fit Beats ",

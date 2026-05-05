@@ -1,6 +1,6 @@
 {
   "description": "\ud55c \uc904, \ud55c \uc904 \uac10\uc131\uc744 \ub354\ud574\uc8fc\ub294 \uac00\uc0ac\uc640 \ube44\ud2b8\ub97c \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 14548,
+  "num_followers": 14554,
   "original_name": "\uac10\uc131\ud799\ud569",
   "owner": {
     "name": "Spotify",
@@ -527,26 +527,6 @@
     {
       "added_at": "2026-04-01 10:58:09",
       "album": {
-        "name": "Lovey Dovey",
-        "url": "https://open.spotify.com/album/3TqLzwIwkkIqAoSISGip4k"
-      },
-      "artists": [
-        {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
-        },
-        {
-          "name": "meenoi",
-          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
-        }
-      ],
-      "duration_ms": 219093,
-      "name": "Lovey Dovey (Feat. meenoi)",
-      "url": "https://open.spotify.com/track/1s3AJx7XASsPSA2cKJdXG6"
-    },
-    {
-      "added_at": "2026-04-01 10:58:09",
-      "album": {
         "name": "Life is Wet",
         "url": "https://open.spotify.com/album/5UBenAYbpBGhynO1tq6N9Z"
       },
@@ -563,6 +543,26 @@
       "duration_ms": 186000,
       "name": "Life is Wet",
       "url": "https://open.spotify.com/track/5LuuUXI3Msm4L2iUNHi3JB"
+    },
+    {
+      "added_at": "2026-04-01 10:58:09",
+      "album": {
+        "name": "Lovey Dovey",
+        "url": "https://open.spotify.com/album/3TqLzwIwkkIqAoSISGip4k"
+      },
+      "artists": [
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        },
+        {
+          "name": "meenoi",
+          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
+        }
+      ],
+      "duration_ms": 219093,
+      "name": "Lovey Dovey (Feat. meenoi)",
+      "url": "https://open.spotify.com/track/1s3AJx7XASsPSA2cKJdXG6"
     },
     {
       "added_at": "2026-04-01 10:58:09",
@@ -587,46 +587,6 @@
     {
       "added_at": "2026-04-01 10:58:09",
       "album": {
-        "name": "AURA (feat. pH-1)",
-        "url": "https://open.spotify.com/album/4P52Fw6ZiYcSL5rT4p3fc9"
-      },
-      "artists": [
-        {
-          "name": "JUNNY",
-          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
-        },
-        {
-          "name": "pH-1",
-          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
-        }
-      ],
-      "duration_ms": 206640,
-      "name": "AURA (feat. pH-1) (Prod. GXXD)",
-      "url": "https://open.spotify.com/track/6dQ4nj3aDaw7WWlI7Rbj34"
-    },
-    {
-      "added_at": "2026-04-01 10:58:09",
-      "album": {
-        "name": "MELOH",
-        "url": "https://open.spotify.com/album/4FsOISPX2LQ3xqq9TZZfm1"
-      },
-      "artists": [
-        {
-          "name": "MELOH",
-          "url": "https://open.spotify.com/artist/5Qb6QmI6WUeGFaJeGB5fdg"
-        },
-        {
-          "name": "Gist",
-          "url": "https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk"
-        }
-      ],
-      "duration_ms": 160104,
-      "name": "Understand",
-      "url": "https://open.spotify.com/track/0gVqDsMxAOREJ6WcdOuVHk"
-    },
-    {
-      "added_at": "2026-04-01 10:58:09",
-      "album": {
         "name": "On the street",
         "url": "https://open.spotify.com/album/6ItJ5CozK65pukSempmAcU"
       },
@@ -643,6 +603,26 @@
       "duration_ms": 209154,
       "name": "On the street (Feat. ASH ISLAND)",
       "url": "https://open.spotify.com/track/0b0E2uQdDqRljyLY89SE7O"
+    },
+    {
+      "added_at": "2026-04-01 10:58:09",
+      "album": {
+        "name": "AURA (feat. pH-1)",
+        "url": "https://open.spotify.com/album/4P52Fw6ZiYcSL5rT4p3fc9"
+      },
+      "artists": [
+        {
+          "name": "JUNNY",
+          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
+        },
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        }
+      ],
+      "duration_ms": 206640,
+      "name": "AURA (feat. pH-1) (Prod. GXXD)",
+      "url": "https://open.spotify.com/track/6dQ4nj3aDaw7WWlI7Rbj34"
     },
     {
       "added_at": "2026-04-01 10:58:09",
@@ -671,6 +651,26 @@
       "duration_ms": 247718,
       "name": "CREDIT (Feat. YUMDDA, GIRIBOY, Zion.T)",
       "url": "https://open.spotify.com/track/2lHmx4nJOTGHx2PkEFMADF"
+    },
+    {
+      "added_at": "2026-04-01 10:58:09",
+      "album": {
+        "name": "MELOH",
+        "url": "https://open.spotify.com/album/4FsOISPX2LQ3xqq9TZZfm1"
+      },
+      "artists": [
+        {
+          "name": "MELOH",
+          "url": "https://open.spotify.com/artist/5Qb6QmI6WUeGFaJeGB5fdg"
+        },
+        {
+          "name": "Gist",
+          "url": "https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk"
+        }
+      ],
+      "duration_ms": 160104,
+      "name": "Understand",
+      "url": "https://open.spotify.com/track/0gVqDsMxAOREJ6WcdOuVHk"
     },
     {
       "added_at": "2026-04-01 10:58:09",

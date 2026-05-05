@@ -1,6 +1,6 @@
 {
   "description": "The best soft rock from the 1970s. Cover: Jimmy Buffett",
-  "num_followers": 321037,
+  "num_followers": 321148,
   "original_name": "70s Soft Rock",
   "owner": {
     "name": "Spotify",
@@ -95,22 +95,6 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "Chicago X",
-        "url": "https://open.spotify.com/album/4asBn7hzIq2Ka7rDzJN24P"
-      },
-      "artists": [
-        {
-          "name": "Chicago",
-          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
-        }
-      ],
-      "duration_ms": 235373,
-      "name": "If You Leave Me Now",
-      "url": "https://open.spotify.com/track/0KMGxYKeUzK9wc5DZCt3HT"
-    },
-    {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
         "name": "City to City",
         "url": "https://open.spotify.com/album/35yZZTWeSrszSKjRlFETwf"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 267773,
       "name": "Right Down the Line",
       "url": "https://open.spotify.com/track/2Xb6wJYGi0QXwURw5WWvI5"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
+        "name": "Chicago X",
+        "url": "https://open.spotify.com/album/4asBn7hzIq2Ka7rDzJN24P"
+      },
+      "artists": [
+        {
+          "name": "Chicago",
+          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
+        }
+      ],
+      "duration_ms": 235373,
+      "name": "If You Leave Me Now",
+      "url": "https://open.spotify.com/track/0KMGxYKeUzK9wc5DZCt3HT"
     },
     {
       "added_at": "2023-03-29 17:34:27",
@@ -365,22 +365,6 @@
       "url": "https://open.spotify.com/track/7i3xpu7SFWvzhGa9AZyySR"
     },
     {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
-        "name": "Nights Are Forever",
-        "url": "https://open.spotify.com/album/1lAMkHFW0e51taMt34LUQ2"
-      },
-      "artists": [
-        {
-          "name": "England Dan & John Ford Coley",
-          "url": "https://open.spotify.com/artist/01W8kYNqFHyKicPfR0pLwO"
-        }
-      ],
-      "duration_ms": 159106,
-      "name": "I'd Really Love to See You Tonight",
-      "url": "https://open.spotify.com/track/2r008pcfVYc0zgQvSRqUJE"
-    },
-    {
       "added_at": "2023-03-29 20:20:24",
       "album": {
         "name": "Endless Flight",
@@ -395,6 +379,22 @@
       "duration_ms": 219466,
       "name": "You Make Me Feel Like Dancing - Remastered",
       "url": "https://open.spotify.com/track/6gTrbqZnyljwXdYQTyBkSx"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
+        "name": "Nights Are Forever",
+        "url": "https://open.spotify.com/album/1lAMkHFW0e51taMt34LUQ2"
+      },
+      "artists": [
+        {
+          "name": "England Dan & John Ford Coley",
+          "url": "https://open.spotify.com/artist/01W8kYNqFHyKicPfR0pLwO"
+        }
+      ],
+      "duration_ms": 159106,
+      "name": "I'd Really Love to See You Tonight",
+      "url": "https://open.spotify.com/track/2r008pcfVYc0zgQvSRqUJE"
     },
     {
       "added_at": "2023-03-29 17:34:27",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "Holiday",
-        "url": "https://open.spotify.com/album/4jOItHaJyNyXJxz8toGytx"
-      },
-      "artists": [
-        {
-          "name": "America",
-          "url": "https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo"
-        }
-      ],
-      "duration_ms": 150226,
-      "name": "Lonely People",
-      "url": "https://open.spotify.com/track/5coTcHT7K8O3G97y9T4LOU"
-    },
-    {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
         "name": "The Michael Johnson Album",
         "url": "https://open.spotify.com/album/5VKyy4iNK1F6aS5bohAMb4"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 179666,
       "name": "Bluer Than Blue",
       "url": "https://open.spotify.com/track/1cAHI9tJN6oHMdG4ghlQKY"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
+        "name": "Holiday",
+        "url": "https://open.spotify.com/album/4jOItHaJyNyXJxz8toGytx"
+      },
+      "artists": [
+        {
+          "name": "America",
+          "url": "https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo"
+        }
+      ],
+      "duration_ms": 150226,
+      "name": "Lonely People",
+      "url": "https://open.spotify.com/track/5coTcHT7K8O3G97y9T4LOU"
     },
     {
       "added_at": "2023-03-29 17:34:27",
@@ -623,6 +623,22 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
+        "name": "Doctor Hook",
+        "url": "https://open.spotify.com/album/0WmdelW8OCAAsxayYY7vHm"
+      },
+      "artists": [
+        {
+          "name": "Dr. Hook",
+          "url": "https://open.spotify.com/artist/2Mhi3jfuRSdbVZPdjqsnnN"
+        }
+      ],
+      "duration_ms": 228333,
+      "name": "Sylvia's Mother",
+      "url": "https://open.spotify.com/track/4hLk7Bjz1XJWNDiqovvgBW"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
         "name": "Ambrosia",
         "url": "https://open.spotify.com/album/4WLSlSsZR6RZSaZm2ZB1WI"
       },
@@ -643,22 +659,6 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "Doctor Hook",
-        "url": "https://open.spotify.com/album/0WmdelW8OCAAsxayYY7vHm"
-      },
-      "artists": [
-        {
-          "name": "Dr. Hook",
-          "url": "https://open.spotify.com/artist/2Mhi3jfuRSdbVZPdjqsnnN"
-        }
-      ],
-      "duration_ms": 228333,
-      "name": "Sylvia's Mother",
-      "url": "https://open.spotify.com/track/4hLk7Bjz1XJWNDiqovvgBW"
-    },
-    {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
         "name": "Firefall",
         "url": "https://open.spotify.com/album/4AFZXGTZBMj0T1H20laj7o"
       },
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "Some Things Don't Come Easy",
-        "url": "https://open.spotify.com/album/3e01nCW3aisPnPOkePoUGW"
-      },
-      "artists": [
-        {
-          "name": "England Dan & John Ford Coley",
-          "url": "https://open.spotify.com/artist/01W8kYNqFHyKicPfR0pLwO"
-        }
-      ],
-      "duration_ms": 172240,
-      "name": "We'll Never Have to Say Goodbye Again - Single Version",
-      "url": "https://open.spotify.com/track/7gfF9nA0mUeaRCPE5ezZLj"
-    },
-    {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
         "name": "Changes In Latitudes, Changes In Attitudes",
         "url": "https://open.spotify.com/album/3JWlQzyse21gwhqu2D6UQD"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 197333,
       "name": "Changes In Latitudes, Changes In Attitudes",
       "url": "https://open.spotify.com/track/5nIqitaV7WyyuM3KVUju1G"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
+        "name": "Some Things Don't Come Easy",
+        "url": "https://open.spotify.com/album/3e01nCW3aisPnPOkePoUGW"
+      },
+      "artists": [
+        {
+          "name": "England Dan & John Ford Coley",
+          "url": "https://open.spotify.com/artist/01W8kYNqFHyKicPfR0pLwO"
+        }
+      ],
+      "duration_ms": 172240,
+      "name": "We'll Never Have to Say Goodbye Again - Single Version",
+      "url": "https://open.spotify.com/track/7gfF9nA0mUeaRCPE5ezZLj"
     },
     {
       "added_at": "2023-03-30 13:21:39",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "Luna Sea",
-        "url": "https://open.spotify.com/album/1u3Ax4Zywsk4oW0XR4CL75"
-      },
-      "artists": [
-        {
-          "name": "Firefall",
-          "url": "https://open.spotify.com/artist/1tfXh4XxILEuMU2qZupFn8"
-        }
-      ],
-      "duration_ms": 196893,
-      "name": "Just Remember I Love You",
-      "url": "https://open.spotify.com/track/2u8DFrCzgVuviSHB6RCEIO"
-    },
-    {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
         "name": "Stranger In Town",
         "url": "https://open.spotify.com/album/1vhib5WLHRVdOpRjiTHk15"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 234360,
       "name": "Till It Shines",
       "url": "https://open.spotify.com/track/2TXLiR7TNeAIRy7fvavgYO"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
+        "name": "Luna Sea",
+        "url": "https://open.spotify.com/album/1u3Ax4Zywsk4oW0XR4CL75"
+      },
+      "artists": [
+        {
+          "name": "Firefall",
+          "url": "https://open.spotify.com/artist/1tfXh4XxILEuMU2qZupFn8"
+        }
+      ],
+      "duration_ms": 196893,
+      "name": "Just Remember I Love You",
+      "url": "https://open.spotify.com/track/2u8DFrCzgVuviSHB6RCEIO"
     },
     {
       "added_at": "2023-03-29 17:34:27",
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "Chicago XI",
-        "url": "https://open.spotify.com/album/2Uq6uCf2FOmVl30J6028N1"
-      },
-      "artists": [
-        {
-          "name": "Chicago",
-          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
-        }
-      ],
-      "duration_ms": 183666,
-      "name": "Baby, What a Big Surprise - Edit",
-      "url": "https://open.spotify.com/track/11dAtktxQQzipxuLqljEfY"
-    },
-    {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
         "name": "Legend",
         "url": "https://open.spotify.com/album/5pC3jEw11eiVY5Vi9z1ooi"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 176800,
       "name": "Crazy Love",
       "url": "https://open.spotify.com/track/4l6uTQ4A2eWZrOzjgm1bey"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
+        "name": "Chicago XI",
+        "url": "https://open.spotify.com/album/2Uq6uCf2FOmVl30J6028N1"
+      },
+      "artists": [
+        {
+          "name": "Chicago",
+          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
+        }
+      ],
+      "duration_ms": 183666,
+      "name": "Baby, What a Big Surprise - Edit",
+      "url": "https://open.spotify.com/track/11dAtktxQQzipxuLqljEfY"
     },
     {
       "added_at": "2023-03-29 17:34:27",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "Partners In Crime",
-        "url": "https://open.spotify.com/album/163iYwl7Kdm9ayTnD4VyfN"
-      },
-      "artists": [
-        {
-          "name": "Rupert Holmes",
-          "url": "https://open.spotify.com/artist/0TqIPD4IS1w4e30R38B3vj"
-        }
-      ],
-      "duration_ms": 246293,
-      "name": "Him",
-      "url": "https://open.spotify.com/track/5rMthFHPxRDi4Uxg06iK6H"
-    },
-    {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
         "name": "Desperado (2013 Remaster)",
         "url": "https://open.spotify.com/album/09WBxbis5Sixt01FVMs8UM"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 207059,
       "name": "Doolin-Dalton - 2013 Remaster",
       "url": "https://open.spotify.com/track/0huHTieLTlluurvasQLB74"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
+        "name": "Partners In Crime",
+        "url": "https://open.spotify.com/album/163iYwl7Kdm9ayTnD4VyfN"
+      },
+      "artists": [
+        {
+          "name": "Rupert Holmes",
+          "url": "https://open.spotify.com/artist/0TqIPD4IS1w4e30R38B3vj"
+        }
+      ],
+      "duration_ms": 246293,
+      "name": "Him",
+      "url": "https://open.spotify.com/track/5rMthFHPxRDi4Uxg06iK6H"
     },
     {
       "added_at": "2023-03-29 17:34:27",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "Late for the Sky (Remastered)",
-        "url": "https://open.spotify.com/album/0aiTqo8YZI0dKDgcCnkkzP"
-      },
-      "artists": [
-        {
-          "name": "Jackson Browne",
-          "url": "https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m"
-        }
-      ],
-      "duration_ms": 341690,
-      "name": "Late for the Sky - Remastered",
-      "url": "https://open.spotify.com/track/2WCoRl4kKbaZ6oGN6KD4HQ"
-    },
-    {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
         "name": "Sometimes You Win",
         "url": "https://open.spotify.com/album/7DxsMT1vegybVpiiSLTZ22"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 182346,
       "name": "Better Love Next Time",
       "url": "https://open.spotify.com/track/3LrFVEZ9w4hVHS3sIRmzZk"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
+        "name": "Late for the Sky (Remastered)",
+        "url": "https://open.spotify.com/album/0aiTqo8YZI0dKDgcCnkkzP"
+      },
+      "artists": [
+        {
+          "name": "Jackson Browne",
+          "url": "https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m"
+        }
+      ],
+      "duration_ms": 341690,
+      "name": "Late for the Sky - Remastered",
+      "url": "https://open.spotify.com/track/2WCoRl4kKbaZ6oGN6KD4HQ"
     },
     {
       "added_at": "2023-03-29 17:34:27",

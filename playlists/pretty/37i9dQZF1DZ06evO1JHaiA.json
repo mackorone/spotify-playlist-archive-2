@@ -1,12 +1,12 @@
 {
   "description": "This is The Intruders. The essential tracks, all in one playlist.",
-  "num_followers": 3104,
+  "num_followers": 3106,
   "original_name": "This Is The Intruders",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afU+gAAAAAARnQKdYMPtqI2uwXeGRDVu",
+  "snapshot_id": "afaQAAAAAACJpF5GC3PrRTc9erCoDsQB",
   "tracks": [
     {
       "added_at": null,
@@ -603,6 +603,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Gamble Records All-Stars",
+        "url": "https://open.spotify.com/album/5XwPEweRZRgXoaicBAF0gl"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "duration_ms": 169093,
+      "name": "Give Her a Transplant",
+      "url": "https://open.spotify.com/track/2aVqUmlGpPE55BeUzjDIfw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "When We Get Married",
         "url": "https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7"
       },
@@ -619,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Gamble Records All-Stars",
-        "url": "https://open.spotify.com/album/5XwPEweRZRgXoaicBAF0gl"
+        "name": "Ben-Lee Recordings 1963-65",
+        "url": "https://open.spotify.com/album/2qZAQvx07N2D7AzKY3kAec"
       },
       "artists": [
         {
@@ -628,9 +644,9 @@
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
         }
       ],
-      "duration_ms": 169093,
-      "name": "Give Her a Transplant",
-      "url": "https://open.spotify.com/track/2aVqUmlGpPE55BeUzjDIfw"
+      "duration_ms": 134373,
+      "name": "You're My One & Only Baby",
+      "url": "https://open.spotify.com/track/3uq8W20KfDh10oPQkLhph0"
     },
     {
       "added_at": null,
@@ -659,8 +675,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ben-Lee Recordings 1963-65",
-        "url": "https://open.spotify.com/album/2qZAQvx07N2D7AzKY3kAec"
+        "name": "Old Town Doo Wop, Vol. 5",
+        "url": "https://open.spotify.com/album/5Lv8TMJkF1HYwoAyyJOuuF"
       },
       "artists": [
         {
@@ -668,9 +684,9 @@
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
         }
       ],
-      "duration_ms": 134373,
-      "name": "You're My One & Only Baby",
-      "url": "https://open.spotify.com/track/3uq8W20KfDh10oPQkLhph0"
+      "duration_ms": 148991,
+      "name": "Gloria",
+      "url": "https://open.spotify.com/track/0Nu3tJkKb4UBDBLRMVRV2s"
     },
     {
       "added_at": null,
@@ -691,8 +707,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Old Town Doo Wop, Vol. 5",
-        "url": "https://open.spotify.com/album/5Lv8TMJkF1HYwoAyyJOuuF"
+        "name": "Ben-Lee Recordings 1963-65",
+        "url": "https://open.spotify.com/album/2qZAQvx07N2D7AzKY3kAec"
       },
       "artists": [
         {
@@ -700,9 +716,9 @@
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
         }
       ],
-      "duration_ms": 148991,
-      "name": "Gloria",
-      "url": "https://open.spotify.com/track/0Nu3tJkKb4UBDBLRMVRV2s"
+      "duration_ms": 133413,
+      "name": "Dance Boy",
+      "url": "https://open.spotify.com/track/3ldpPfTpKMP4eksHXWW25A"
     },
     {
       "added_at": null,
@@ -731,8 +747,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ben-Lee Recordings 1963-65",
-        "url": "https://open.spotify.com/album/2qZAQvx07N2D7AzKY3kAec"
+        "name": "Let's Go Instro",
+        "url": "https://open.spotify.com/album/2TRMwS7hcYepMtwbU1QOd1"
       },
       "artists": [
         {
@@ -740,9 +756,9 @@
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
         }
       ],
-      "duration_ms": 133413,
-      "name": "Dance Boy",
-      "url": "https://open.spotify.com/track/3ldpPfTpKMP4eksHXWW25A"
+      "duration_ms": 135800,
+      "name": "Rockamaroll",
+      "url": "https://open.spotify.com/track/5hWwB1t4DZHyyoFJ7O7oyl"
     },
     {
       "added_at": null,
@@ -779,22 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let's Go Instro",
-        "url": "https://open.spotify.com/album/2TRMwS7hcYepMtwbU1QOd1"
-      },
-      "artists": [
-        {
-          "name": "The Intruders",
-          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
-        }
-      ],
-      "duration_ms": 135800,
-      "name": "Rockamaroll",
-      "url": "https://open.spotify.com/track/5hWwB1t4DZHyyoFJ7O7oyl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ben-Lee Recordings 1963-65",
         "url": "https://open.spotify.com/album/2qZAQvx07N2D7AzKY3kAec"
       },
@@ -811,22 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "When We Get Married",
-        "url": "https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7"
-      },
-      "artists": [
-        {
-          "name": "The Intruders",
-          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
-        }
-      ],
-      "duration_ms": 166126,
-      "name": "I Didn't Know",
-      "url": "https://open.spotify.com/track/61j8TzAwSBSiSwHpJRuo68"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Koko-Mojo Diner, Vol. 2 - Cornbread & Cabbage Greens",
         "url": "https://open.spotify.com/album/56sNGZKmZ8NJmLID2DeQZ4"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 117933,
       "name": "Fried Eggs",
       "url": "https://open.spotify.com/track/3NwMSgyUmb2fbZoqwiizB1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "When We Get Married",
+        "url": "https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "duration_ms": 166126,
+      "name": "I Didn't Know",
+      "url": "https://open.spotify.com/track/61j8TzAwSBSiSwHpJRuo68"
     },
     {
       "added_at": null,

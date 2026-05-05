@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-[Lucciago](https://open.spotify.com/user/1217609118) - 570 likes - 2,586 songs - 6 day 6 hr 59 min
+[Lucciago](https://open.spotify.com/user/1217609118) - 570 likes - 2,596 songs - 6 day 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1761,7 +1761,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 | 1751 | [I Miss You](https://open.spotify.com/track/0N3RRyG2ZEOb8eqjjoAtlT) | [Andy Leech](https://open.spotify.com/artist/5rz0WsqMcYyV7lAmLlBdWj) | [I Miss You](https://open.spotify.com/album/7yqtizyVDSojY1Y6qy1Cg7) | 4:22 |
 | 1752 | [Te Espero na Vila](https://open.spotify.com/track/6PSOLC5WrMLGEgCJbElHdN) | [Pedro Perez](https://open.spotify.com/artist/1CGwo6DAk0o4UVxcuDZ20X) | [Te Espero na Vila](https://open.spotify.com/album/40Nr94jt2qyxY1VQJISBS5) | 2:39 |
 | 1753 | [God Loves Me](https://open.spotify.com/track/5jGv5QhAyqffQYLYRIGWHC) | [Uno Ogarekpe](https://open.spotify.com/artist/1q7xabkhQTlDPqXXrYD7mE) | [God Loves Me](https://open.spotify.com/album/0thpcJgKf7NGiMdAkBMY5s) | 2:59 |
-| 1754 | [mrs\. Smith](https://open.spotify.com/track/4t0jVjWAjbPaR9y2gMObIF) | [Guillaume Grise](https://open.spotify.com/artist/325TvGrXGiOWECHMXRsXVQ) | [mrs\. Smith](https://open.spotify.com/album/5kElYITvP6nhhzDRIDnDQc) | 3:43 |
+| 1754 | [mrs\. Smith](https://open.spotify.com/track/4t0jVjWAjbPaR9y2gMObIF) | [grise](https://open.spotify.com/artist/6aakoO1wEQvG5e3GwtI0hI) | [mrs\. Smith](https://open.spotify.com/album/5kElYITvP6nhhzDRIDnDQc) | 3:43 |
 | 1755 | [3.32](https://open.spotify.com/track/59mnJcXOSvRZ9ac99Ans7r) | [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [3.32](https://open.spotify.com/album/472ZMnbtlayJCQWlopwf5i) | 2:32 |
 | 1756 | [Cántico \(Cinco Piezas Venezolanas\)](https://open.spotify.com/track/2DOsa54jGvBVlsDwC3K4jq) | [Vicente Emilio Sojo](https://open.spotify.com/artist/1TIwuRYqFH02B9d9oUqZY5), [Adrián Nuez Vera](https://open.spotify.com/artist/4gcuJG0kGfr9pilwPWr7GF) | [Cántico \(Cinco Piezas Venezolanas\)](https://open.spotify.com/album/419UzjDL5RUqXNaEkEBjct) | 1:39 |
 | 1757 | [Un dernier rock’n’roll](https://open.spotify.com/track/5hSh9ABtMqwDgcFk5w6nxh) | [Jibb Valley](https://open.spotify.com/artist/4QAMcP1l4n3nw5vuXXTNUe) | [Jukebox](https://open.spotify.com/album/5sI1pXASo2JjckL346dcA5) | 2:32 |
@@ -1882,7 +1882,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 | 1872 | [Smoke Spot](https://open.spotify.com/track/0P2RQZocAubwcVTTDU45WF) | [Aflu Enza](https://open.spotify.com/artist/3DYCDgO6xWXXUPg7fHPyxz), [Devin C Askounis](https://open.spotify.com/artist/2jWWcQXysR4kG07VaImzHp) | [Smoke Spot](https://open.spotify.com/album/31LA6JcQ6O7ZmHh6SvuS75) | 2:18 |
 | 1873 | [Great Big Love](https://open.spotify.com/track/52JSXUd61yeauZVa5XxN6p) | [SOUTHDOGROCK](https://open.spotify.com/artist/75YwHvnDPylgINOig25YhA) | [Great Big Love](https://open.spotify.com/album/5RBNwywDWK05lzzbzhmRke) | 4:11 |
 | 1874 | [Teal & Orange](https://open.spotify.com/track/7mAT2BEIXszAeSDOGZ3Pxg) | [Sirob](https://open.spotify.com/artist/5KtS4msY2oTDyKR6v8yRjz), [Doriima](https://open.spotify.com/artist/1rjtnSQuAcnWSU6J1GT4RO) | [Teal & Orange](https://open.spotify.com/album/5BtGtHoWbQjMXj0u6BhJyI) | 2:46 |
-| 1875 | [mrs\. Smith](https://open.spotify.com/track/4t0jVjWAjbPaR9y2gMObIF) | [Guillaume Grise](https://open.spotify.com/artist/325TvGrXGiOWECHMXRsXVQ) | [mrs\. Smith](https://open.spotify.com/album/5kElYITvP6nhhzDRIDnDQc) | 3:43 |
+| 1875 | [mrs\. Smith](https://open.spotify.com/track/4t0jVjWAjbPaR9y2gMObIF) | [grise](https://open.spotify.com/artist/6aakoO1wEQvG5e3GwtI0hI) | [mrs\. Smith](https://open.spotify.com/album/5kElYITvP6nhhzDRIDnDQc) | 3:43 |
 | 1876 | [Burning The Horizon](https://open.spotify.com/track/1Ugfd1PmBna3HYhH0Rm1ws) | [TREKHAAK.](https://open.spotify.com/artist/47EmVcbLry0jMkpqrirO2T) | [Burning The Horizon](https://open.spotify.com/album/72EHjLIQAJ65zzETtrIK1Q) | 3:20 |
 | 1877 | [Fama Drama](https://open.spotify.com/track/1z9ix3duj6QUsB8Q9g7QaJ) | [Tiago Amorim](https://open.spotify.com/artist/1blXm9FViuataPse8jKebH) | [Fama Drama](https://open.spotify.com/album/6QiMD6Cfr3QmcpLezXr5YD) | 3:10 |
 | 1878 | [Do You Wanna Try It?](https://open.spotify.com/track/4HSc0DULC96HpEllAHYZYM) | [Cepe](https://open.spotify.com/artist/0gwdhf9ArHLIOnyZUxACtJ) | [Do You Wanna Try It?](https://open.spotify.com/album/5VMCUBwA8tbtMcUMXtVLij) | 2:52 |
@@ -2594,5 +2594,15 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 | 2584 | [Another Day](https://open.spotify.com/track/2EDvPdNKvtYm7rHLfbryEm) | [Shot Country Music](https://open.spotify.com/artist/6SD9T39XbxmQ0U0fWkhiM7) | [Another Day](https://open.spotify.com/album/3MMdSh0seRTFxfKDRny8Jk) | 3:54 |
 | 2585 | [Ready for the Night](https://open.spotify.com/track/7Azpn8KM9E6N0atZ4QiCWE) | [9R4Y](https://open.spotify.com/artist/5n3xdPC0zbQqVSeDhmHXKi) | [Ready for the Night](https://open.spotify.com/album/0p3hnk7MLrndeUHYaseRY1) | 2:59 |
 | 2586 | [My Bet](https://open.spotify.com/track/1iGN1uof6nBX6QhLlm9TVL) | [Matt Vandenbosch](https://open.spotify.com/artist/7LqZeuirV62YpCrjusWckb) | [My Bet](https://open.spotify.com/album/2jbcRY4XlxOa9s29boIM8S) | 3:34 |
+| 2587 | [The Old Cat](https://open.spotify.com/track/3yC0SnQCoJ6pJC65eeyBGL) | [Saint Maybe Band](https://open.spotify.com/artist/3m1z7HkUpPPcsMZLwrPBSY) | [The Old Cat](https://open.spotify.com/album/5fAUgzOmlXjdny7PAVlGRd) | 5:26 |
+| 2588 | [Backyard Kings](https://open.spotify.com/track/7qrRSrYdSbW7ESfOFhbat1) | [nwmhb](https://open.spotify.com/artist/1MJR8Z36dtmgxMjwqwTsxl) | [Backyard Kings](https://open.spotify.com/album/0XigRjeeyL65dPAdnQYdJL) | 2:26 |
+| 2589 | [Balorda nostalgia](https://open.spotify.com/track/2K5ijyYylUoDEYMYxz5E95) | [Michele Blasco](https://open.spotify.com/artist/0LsldhiLiieaUY63tH9QfW) | [Balorda nostalgia](https://open.spotify.com/album/4disZdaEkZIGag3qTJfiWV) | 3:15 |
+| 2590 | [City at Night](https://open.spotify.com/track/7FDho76XO5GIiAXFEXymM7) | [DaveTheBlade](https://open.spotify.com/artist/4J4WjDNimS0BEfqHKCrxa9) | [City at Night](https://open.spotify.com/album/1q8SH61ryIGCGMDELF6xw4) | 3:03 |
+| 2591 | [The Infinite End](https://open.spotify.com/track/3N175OXw7jMPp6HX2klA8O) | [Draig](https://open.spotify.com/artist/3bPNs4WxtWGGaWGY9HSFLR) | [Barefoot](https://open.spotify.com/album/2z2LWb5kJqtUASMgmnAbAv) | 2:17 |
+| 2592 | [Resurgence](https://open.spotify.com/track/0Y4bw6ZN1zERQXxmpMZuFP) | [LuxMusik](https://open.spotify.com/artist/43LUen9CySWTTmF4PyMuCj) | [Luminus](https://open.spotify.com/album/7belTXFkfrgBRp5i9fyrkM) | 5:33 |
+| 2593 | [Forever Homesick](https://open.spotify.com/track/50H1XrhXYQAemFKDpzWQS6) | [Ward Hayden & the Outliers](https://open.spotify.com/artist/5ucHWsMlG8NB9Q5vhdPCZr) | [Forever Homesick](https://open.spotify.com/album/3O0v8uOHr3ESQPXY8bIYHw) | 2:52 |
+| 2594 | [Debaixo do Céu](https://open.spotify.com/track/4cM2d7RQFTjYOYzbIt55yP) | [Marie Saintonge](https://open.spotify.com/artist/4zoazU56tM6R4SgnnlLEcb) | [Céu de Caju](https://open.spotify.com/album/0HSYrkXLqisr3lj1Uig00W) | 3:45 |
+| 2595 | [新しい道](https://open.spotify.com/track/4HvCrr886QkYXJr7we1hkc) | [akayama joao](https://open.spotify.com/artist/6A5QcwzvKrjllstEJnADfg) | [新しい道](https://open.spotify.com/album/6ig74kMAPD0FxCjPIf2h2Y) | 2:41 |
+| 2596 | [Way](https://open.spotify.com/track/1cl7PUBvbYsSMnwJjGUVhn) | [Koli Gustine](https://open.spotify.com/artist/0y5zZkZNR056Z0r0F5ruKm), [The outrider](https://open.spotify.com/artist/7F3FtmX1PzrVOsjUquQ70M) | [Drama in the Circus](https://open.spotify.com/album/4sapmSZbvRK2fuSoELrWED) | 2:33 |
 
-Snapshot ID: `AAAKsyQtS9XEGa7Xz216ju/+EKYBHf5t`
+Snapshot ID: `AAAKva5atTacN8L0MdXYgq7jF7zfwH3J`

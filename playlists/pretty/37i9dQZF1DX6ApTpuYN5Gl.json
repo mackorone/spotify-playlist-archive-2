@@ -1,6 +1,6 @@
 {
   "description": "sad beats. deep vibes. ",
-  "num_followers": 242845,
+  "num_followers": 242844,
   "original_name": "melancholia",
   "owner": {
     "name": "Spotify",
@@ -187,26 +187,6 @@
     {
       "added_at": "2024-08-01 10:59:15",
       "album": {
-        "name": "Lonely",
-        "url": "https://open.spotify.com/album/6qqa82E8e1qMK9mv3OZ6uj"
-      },
-      "artists": [
-        {
-          "name": "VisionV",
-          "url": "https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf"
-        },
-        {
-          "name": "PHEA",
-          "url": "https://open.spotify.com/artist/746BKR1BgUEsXfFtpdTeWL"
-        }
-      ],
-      "duration_ms": 165961,
-      "name": "Lonely",
-      "url": "https://open.spotify.com/track/5s0S3Y5Ciq1suPbzRCKYpo"
-    },
-    {
-      "added_at": "2024-08-01 10:59:15",
-      "album": {
         "name": "The Last Goodbye",
         "url": "https://open.spotify.com/album/4vpnU0Hu4c0KNq2p4nz4U2"
       },
@@ -223,6 +203,26 @@
       "duration_ms": 358983,
       "name": "The Last Goodbye",
       "url": "https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC"
+    },
+    {
+      "added_at": "2024-08-01 10:59:15",
+      "album": {
+        "name": "Lonely",
+        "url": "https://open.spotify.com/album/6qqa82E8e1qMK9mv3OZ6uj"
+      },
+      "artists": [
+        {
+          "name": "VisionV",
+          "url": "https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf"
+        },
+        {
+          "name": "PHEA",
+          "url": "https://open.spotify.com/artist/746BKR1BgUEsXfFtpdTeWL"
+        }
+      ],
+      "duration_ms": 165961,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/5s0S3Y5Ciq1suPbzRCKYpo"
     },
     {
       "added_at": "2024-08-01 10:59:15",
@@ -259,26 +259,6 @@
     {
       "added_at": "2024-08-01 10:59:15",
       "album": {
-        "name": "Olympia",
-        "url": "https://open.spotify.com/album/3r4dG6bUfL4jasKeo50kLE"
-      },
-      "artists": [
-        {
-          "name": "Gorgon City",
-          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
-        },
-        {
-          "name": "DRAMA",
-          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
-        }
-      ],
-      "duration_ms": 212893,
-      "name": "You've Done Enough",
-      "url": "https://open.spotify.com/track/77VqW84V88aKD8Bi8CzEsP"
-    },
-    {
-      "added_at": "2024-08-01 10:59:15",
-      "album": {
         "name": "The Best Part",
         "url": "https://open.spotify.com/album/71f51ihuW0oVdl2s4yFzSU"
       },
@@ -299,6 +279,26 @@
       "duration_ms": 250000,
       "name": "The Best Part",
       "url": "https://open.spotify.com/track/04BNQFaBlFF7WDeTb1V0AP"
+    },
+    {
+      "added_at": "2024-08-01 10:59:15",
+      "album": {
+        "name": "Olympia",
+        "url": "https://open.spotify.com/album/3r4dG6bUfL4jasKeo50kLE"
+      },
+      "artists": [
+        {
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        },
+        {
+          "name": "DRAMA",
+          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
+        }
+      ],
+      "duration_ms": 212893,
+      "name": "You've Done Enough",
+      "url": "https://open.spotify.com/track/77VqW84V88aKD8Bi8CzEsP"
     },
     {
       "added_at": "2024-08-01 10:59:15",
@@ -423,26 +423,6 @@
     {
       "added_at": "2024-08-01 10:59:15",
       "album": {
-        "name": "Dive",
-        "url": "https://open.spotify.com/album/6HM2HWm4h2WymgqHEtDNgU"
-      },
-      "artists": [
-        {
-          "name": "Taiki Nulight",
-          "url": "https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a"
-        },
-        {
-          "name": "Rue More",
-          "url": "https://open.spotify.com/artist/26bowrYXXcMtHgx8g7sPKa"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "Dive",
-      "url": "https://open.spotify.com/track/2lRvisx71Qh4dI3nhHN7gf"
-    },
-    {
-      "added_at": "2024-08-01 10:59:15",
-      "album": {
         "name": "Alive",
         "url": "https://open.spotify.com/album/424AkXXKYZsnsoiBrW64oh"
       },
@@ -483,6 +463,26 @@
     {
       "added_at": "2024-08-01 10:59:15",
       "album": {
+        "name": "Dive",
+        "url": "https://open.spotify.com/album/6HM2HWm4h2WymgqHEtDNgU"
+      },
+      "artists": [
+        {
+          "name": "Taiki Nulight",
+          "url": "https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a"
+        },
+        {
+          "name": "Rue More",
+          "url": "https://open.spotify.com/artist/26bowrYXXcMtHgx8g7sPKa"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "Dive",
+      "url": "https://open.spotify.com/track/2lRvisx71Qh4dI3nhHN7gf"
+    },
+    {
+      "added_at": "2024-08-01 10:59:15",
+      "album": {
         "name": "Allein Allein",
         "url": "https://open.spotify.com/album/2oLn47kWsw7iYC3NOtNEx2"
       },
@@ -507,6 +507,22 @@
     {
       "added_at": "2024-08-01 10:59:15",
       "album": {
+        "name": "Lose It All (I Don't Wanna)",
+        "url": "https://open.spotify.com/album/2oYcDcUIFEuqhDp2wIHx34"
+      },
+      "artists": [
+        {
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        }
+      ],
+      "duration_ms": 139046,
+      "name": "Lose It All (I Don't Wanna)",
+      "url": "https://open.spotify.com/track/6FWAIkMvnS0ABEdBKcIp5K"
+    },
+    {
+      "added_at": "2024-08-01 10:59:15",
+      "album": {
         "name": "Alone Together",
         "url": "https://open.spotify.com/album/4TXtU60U4NQ8zZXpZRiIZE"
       },
@@ -527,22 +543,6 @@
     {
       "added_at": "2024-08-01 10:59:15",
       "album": {
-        "name": "Lose It All (I Don't Wanna)",
-        "url": "https://open.spotify.com/album/2oYcDcUIFEuqhDp2wIHx34"
-      },
-      "artists": [
-        {
-          "name": "BUNT.",
-          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
-        }
-      ],
-      "duration_ms": 139046,
-      "name": "Lose It All (I Don't Wanna)",
-      "url": "https://open.spotify.com/track/6FWAIkMvnS0ABEdBKcIp5K"
-    },
-    {
-      "added_at": "2024-08-01 10:59:15",
-      "album": {
         "name": "Begin Again",
         "url": "https://open.spotify.com/album/1ZwkNGxlonmG4bjmLbV1Rr"
       },
@@ -559,26 +559,6 @@
       "duration_ms": 213507,
       "name": "Home",
       "url": "https://open.spotify.com/track/2FsUQgO3jopRHjW6rQ7jMc"
-    },
-    {
-      "added_at": "2024-08-01 10:59:15",
-      "album": {
-        "name": "Fragments",
-        "url": "https://open.spotify.com/album/4KjbNbnTnJ97kZgQkOHr6v"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        },
-        {
-          "name": "Jordan Rakei",
-          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
-        }
-      ],
-      "duration_ms": 285093,
-      "name": "Shadows",
-      "url": "https://open.spotify.com/track/7aLYQgzGLy8duSSdTJa1ik"
     },
     {
       "added_at": "2024-08-01 10:59:15",
@@ -615,6 +595,26 @@
       "duration_ms": 201023,
       "name": "All I Need",
       "url": "https://open.spotify.com/track/2N1teUVGfP3vWKKGq0ZxvH"
+    },
+    {
+      "added_at": "2024-08-01 10:59:15",
+      "album": {
+        "name": "Fragments",
+        "url": "https://open.spotify.com/album/4KjbNbnTnJ97kZgQkOHr6v"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        },
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        }
+      ],
+      "duration_ms": 285093,
+      "name": "Shadows",
+      "url": "https://open.spotify.com/track/7aLYQgzGLy8duSSdTJa1ik"
     },
     {
       "added_at": "2024-08-01 10:59:15",
@@ -779,6 +779,22 @@
     {
       "added_at": "2024-08-01 10:59:15",
       "album": {
+        "name": "GLY",
+        "url": "https://open.spotify.com/album/3G2e7Ruldtt69hWO9ArJDB"
+      },
+      "artists": [
+        {
+          "name": "Catching Flies",
+          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
+        }
+      ],
+      "duration_ms": 220623,
+      "name": "GLY",
+      "url": "https://open.spotify.com/track/6yGNvSOyCZvNOCtHs3hfrH"
+    },
+    {
+      "added_at": "2024-08-01 10:59:15",
+      "album": {
         "name": "Goodbye",
         "url": "https://open.spotify.com/album/7zA83f7raZgu5ve9msmeLH"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 177120,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/3vzBf1egEjRliBlnIJTW1T"
-    },
-    {
-      "added_at": "2024-08-01 10:59:15",
-      "album": {
-        "name": "GLY",
-        "url": "https://open.spotify.com/album/3G2e7Ruldtt69hWO9ArJDB"
-      },
-      "artists": [
-        {
-          "name": "Catching Flies",
-          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
-        }
-      ],
-      "duration_ms": 220623,
-      "name": "GLY",
-      "url": "https://open.spotify.com/track/6yGNvSOyCZvNOCtHs3hfrH"
     },
     {
       "added_at": "2024-08-01 10:59:15",
@@ -855,26 +855,6 @@
     {
       "added_at": "2024-08-01 10:59:15",
       "album": {
-        "name": "Laika.",
-        "url": "https://open.spotify.com/album/67BUFgh99F0rfnZOKrxPSP"
-      },
-      "artists": [
-        {
-          "name": "Montee",
-          "url": "https://open.spotify.com/artist/2rgFqpsqtoEJGOr0JzFxtG"
-        },
-        {
-          "name": "Misc.Inc",
-          "url": "https://open.spotify.com/artist/3qRe4C6xUFaW1GXJsRC4oi"
-        }
-      ],
-      "duration_ms": 180458,
-      "name": "Laika.",
-      "url": "https://open.spotify.com/track/3EA4UHJwQhkGDEoESpz0px"
-    },
-    {
-      "added_at": "2024-08-01 10:59:15",
-      "album": {
         "name": "Healing",
         "url": "https://open.spotify.com/album/0A8OvnT0h2rXSqZjdSdwQF"
       },
@@ -907,6 +887,26 @@
       "duration_ms": 219295,
       "name": "3AMStillAlive - Remix",
       "url": "https://open.spotify.com/track/0GViNWO0W2BzucFjWWJq6p"
+    },
+    {
+      "added_at": "2024-08-01 10:59:15",
+      "album": {
+        "name": "Laika.",
+        "url": "https://open.spotify.com/album/67BUFgh99F0rfnZOKrxPSP"
+      },
+      "artists": [
+        {
+          "name": "Montee",
+          "url": "https://open.spotify.com/artist/2rgFqpsqtoEJGOr0JzFxtG"
+        },
+        {
+          "name": "Misc.Inc",
+          "url": "https://open.spotify.com/artist/3qRe4C6xUFaW1GXJsRC4oi"
+        }
+      ],
+      "duration_ms": 180458,
+      "name": "Laika.",
+      "url": "https://open.spotify.com/track/3EA4UHJwQhkGDEoESpz0px"
     },
     {
       "added_at": "2024-08-01 10:59:15",

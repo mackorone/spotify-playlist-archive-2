@@ -1,6 +1,6 @@
 {
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
-  "num_followers": 222635,
+  "num_followers": 222680,
   "original_name": "Nordic Folk",
   "owner": {
     "name": "Spotify",
@@ -515,22 +515,6 @@
     {
       "added_at": "2026-04-30 22:00:26",
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/0YneOS1OMqNFfnOTtccqwv"
-      },
-      "artists": [
-        {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
-        }
-      ],
-      "duration_ms": 304226,
-      "name": "Emmylou - Spotify Sessions",
-      "url": "https://open.spotify.com/track/7exdcu9SmgcrZ7hW9ZdcYo"
-    },
-    {
-      "added_at": "2026-04-30 22:00:26",
-      "album": {
         "name": "I Miss You",
         "url": "https://open.spotify.com/album/0lLQNchoJCqE6R1ThbopDO"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 152874,
       "name": "I Miss You",
       "url": "https://open.spotify.com/track/729Rt2RbcFwecV0Jo5UmNu"
+    },
+    {
+      "added_at": "2026-04-30 22:00:26",
+      "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/0YneOS1OMqNFfnOTtccqwv"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "duration_ms": 304226,
+      "name": "Emmylou - Spotify Sessions",
+      "url": "https://open.spotify.com/track/7exdcu9SmgcrZ7hW9ZdcYo"
     },
     {
       "added_at": "2026-04-30 22:00:26",
@@ -619,22 +619,6 @@
     {
       "added_at": "2026-04-30 22:00:26",
       "album": {
-        "name": "Against The Dying Of The Light",
-        "url": "https://open.spotify.com/album/7cTCFQBgZ7ywhyp44I82FI"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
-        }
-      ],
-      "duration_ms": 148920,
-      "name": "Against The Dying Of The Light",
-      "url": "https://open.spotify.com/track/1PaWcBii4kigvhEG46a7QP"
-    },
-    {
-      "added_at": "2026-04-30 22:00:26",
-      "album": {
         "name": "Part Of The Story",
         "url": "https://open.spotify.com/album/7jUYwxe12GrrCeFQjL6HsG"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 187173,
       "name": "Part Of The Story",
       "url": "https://open.spotify.com/track/6jS0yEHw2vNXyCbY1DJJU4"
+    },
+    {
+      "added_at": "2026-04-30 22:00:26",
+      "album": {
+        "name": "Against The Dying Of The Light",
+        "url": "https://open.spotify.com/album/7cTCFQBgZ7ywhyp44I82FI"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+        }
+      ],
+      "duration_ms": 148920,
+      "name": "Against The Dying Of The Light",
+      "url": "https://open.spotify.com/track/1PaWcBii4kigvhEG46a7QP"
     },
     {
       "added_at": "2026-04-30 22:00:26",
@@ -715,6 +715,22 @@
     {
       "added_at": "2026-04-30 22:00:26",
       "album": {
+        "name": "Never Gonna Last",
+        "url": "https://open.spotify.com/album/09kV21v80qDfWgNBSp92yL"
+      },
+      "artists": [
+        {
+          "name": "Jesper Lindell",
+          "url": "https://open.spotify.com/artist/3P9Fc9AmQyNFIu2WJdeWoN"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "Never Gonna Last - Radio Edit",
+      "url": "https://open.spotify.com/track/3ANGMbmBfuw91UMgCPrrUT"
+    },
+    {
+      "added_at": "2026-04-30 22:00:26",
+      "album": {
         "name": "Cult to A Saint",
         "url": "https://open.spotify.com/album/5J51HUdRQFacntDsIhRmbf"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 218400,
       "name": "Cult to A Saint",
       "url": "https://open.spotify.com/track/6LiZv6hKaSY9DMMqVO3hgy"
-    },
-    {
-      "added_at": "2026-04-30 22:00:26",
-      "album": {
-        "name": "Never Gonna Last",
-        "url": "https://open.spotify.com/album/09kV21v80qDfWgNBSp92yL"
-      },
-      "artists": [
-        {
-          "name": "Jesper Lindell",
-          "url": "https://open.spotify.com/artist/3P9Fc9AmQyNFIu2WJdeWoN"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "Never Gonna Last - Radio Edit",
-      "url": "https://open.spotify.com/track/3ANGMbmBfuw91UMgCPrrUT"
     },
     {
       "added_at": "2026-04-30 22:00:26",
@@ -783,18 +783,18 @@
     {
       "added_at": "2026-04-30 22:00:26",
       "album": {
-        "name": "Little Storm",
-        "url": "https://open.spotify.com/album/3SG6ai3jzNsouC1LIn6BIx"
+        "name": "Laminar Flow",
+        "url": "https://open.spotify.com/album/5kPtNtdTsetojNrljTLF42"
       },
       "artists": [
         {
-          "name": "Beth McBride",
-          "url": "https://open.spotify.com/artist/5pCLyj9brVtNc1UuTeWl73"
+          "name": "AKA lisa",
+          "url": "https://open.spotify.com/artist/0WTTqGh79njNF2o4Cgklc1"
         }
       ],
-      "duration_ms": 221733,
-      "name": "Warm Weather Song",
-      "url": "https://open.spotify.com/track/0a6MgmYXX8QCCmCPNRMshq"
+      "duration_ms": 133613,
+      "name": "forever, for a while",
+      "url": "https://open.spotify.com/track/3TXIqqudMSSS0kkQ3sQV0S"
     },
     {
       "added_at": "2026-04-30 22:00:26",
@@ -815,6 +815,22 @@
     {
       "added_at": "2026-04-30 22:00:26",
       "album": {
+        "name": "Little Storm",
+        "url": "https://open.spotify.com/album/3SG6ai3jzNsouC1LIn6BIx"
+      },
+      "artists": [
+        {
+          "name": "Beth McBride",
+          "url": "https://open.spotify.com/artist/5pCLyj9brVtNc1UuTeWl73"
+        }
+      ],
+      "duration_ms": 221733,
+      "name": "Warm Weather Song",
+      "url": "https://open.spotify.com/track/0a6MgmYXX8QCCmCPNRMshq"
+    },
+    {
+      "added_at": "2026-04-30 22:00:26",
+      "album": {
         "name": "9 to 5",
         "url": "https://open.spotify.com/album/0L3NpPVZEoyF6KvFUcHhua"
       },
@@ -831,22 +847,6 @@
     {
       "added_at": "2026-04-30 22:00:26",
       "album": {
-        "name": "Laminar Flow",
-        "url": "https://open.spotify.com/album/5kPtNtdTsetojNrljTLF42"
-      },
-      "artists": [
-        {
-          "name": "AKA lisa",
-          "url": "https://open.spotify.com/artist/0WTTqGh79njNF2o4Cgklc1"
-        }
-      ],
-      "duration_ms": 133613,
-      "name": "forever, for a while",
-      "url": "https://open.spotify.com/track/3TXIqqudMSSS0kkQ3sQV0S"
-    },
-    {
-      "added_at": "2026-04-30 22:00:26",
-      "album": {
         "name": "Pixie's Parasol",
         "url": "https://open.spotify.com/album/4giKFINYxPLvnV0fBsv4Vw"
       },
@@ -859,22 +859,6 @@
       "duration_ms": 182946,
       "name": "Pixie's Parasol",
       "url": "https://open.spotify.com/track/00Gbi2ytn6ZmA1ObVcPT93"
-    },
-    {
-      "added_at": "2026-04-30 22:00:26",
-      "album": {
-        "name": "Coming Home",
-        "url": "https://open.spotify.com/album/3LwI5RofgqphzuUo4TvYdR"
-      },
-      "artists": [
-        {
-          "name": "Jakob Friis",
-          "url": "https://open.spotify.com/artist/4W65uXff8s1QiO5ZoQis5D"
-        }
-      ],
-      "duration_ms": 237373,
-      "name": "So Damn Lucky",
-      "url": "https://open.spotify.com/track/7brPUw5WQgZcDkyCPMu5Ft"
     },
     {
       "added_at": "2026-04-30 22:00:26",
@@ -927,18 +911,18 @@
     {
       "added_at": "2026-04-30 22:00:26",
       "album": {
-        "name": "Tennessee",
-        "url": "https://open.spotify.com/album/2s2VJj5SNBnkUuBZlzoP7s"
+        "name": "Coming Home",
+        "url": "https://open.spotify.com/album/3LwI5RofgqphzuUo4TvYdR"
       },
       "artists": [
         {
-          "name": "Clara Mae",
-          "url": "https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu"
+          "name": "Jakob Friis",
+          "url": "https://open.spotify.com/artist/4W65uXff8s1QiO5ZoQis5D"
         }
       ],
-      "duration_ms": 159697,
-      "name": "Tennessee",
-      "url": "https://open.spotify.com/track/3aUYO9yu8Q3MzNPToWkkBc"
+      "duration_ms": 237373,
+      "name": "So Damn Lucky",
+      "url": "https://open.spotify.com/track/7brPUw5WQgZcDkyCPMu5Ft"
     },
     {
       "added_at": "2026-04-30 22:00:26",
@@ -971,6 +955,22 @@
       "duration_ms": 293400,
       "name": "i went outside",
       "url": "https://open.spotify.com/track/6kV6ZzRW1h7I6eU9910mvJ"
+    },
+    {
+      "added_at": "2026-04-30 22:00:26",
+      "album": {
+        "name": "Tennessee",
+        "url": "https://open.spotify.com/album/2s2VJj5SNBnkUuBZlzoP7s"
+      },
+      "artists": [
+        {
+          "name": "Clara Mae",
+          "url": "https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu"
+        }
+      ],
+      "duration_ms": 159697,
+      "name": "Tennessee",
+      "url": "https://open.spotify.com/track/3aUYO9yu8Q3MzNPToWkkBc"
     },
     {
       "added_at": "2026-04-30 22:00:26",

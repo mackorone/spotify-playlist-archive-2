@@ -4,7 +4,7 @@
 
 > The best of current & contemporary Reggae\.  Cover: Buju Banton
 
-309 songs - 19 hr 1 min
+310 songs - 19 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Blaze Away](https://open.spotify.com/track/3JBcOPPiLz7mQYSm6wMHpF) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW), [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [Blaze Away](https://open.spotify.com/album/2VI5sZ40Lewd51hhtF58cc) | 3:09 | 2021-10-24 |  |
 | [Blessed \(feat\. Damian Marley\)](https://open.spotify.com/track/3QO1m6i0nsrp8aOnapvbkx) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 4:22 | 2021-10-24 |  |
 | [Blood Money](https://open.spotify.com/track/5e1k77pDTPzOYN9TOwpWn6) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr) | [Blood Money](https://open.spotify.com/album/5x0RPMWoS4YzhXs6lRSB8i) | 3:48 | 2023-07-10 | 2023-08-08 |
-| [Born A Rebel](https://open.spotify.com/track/3d53gVUXptSl1R9oOwohp6) | [Lion D](https://open.spotify.com/artist/6dV7tQuFIXDX8nbGkWCSnz), [Bizzarri](https://open.spotify.com/artist/6u2JGZYGitPzTfCRjnAAie) | [Born A Rebel](https://open.spotify.com/album/62RIMe1gQ87UWX70jqYtsY) | 3:37 | 2021-10-24 |  |
+| [Born A Rebel](https://open.spotify.com/track/3d53gVUXptSl1R9oOwohp6) | [Lion D](https://open.spotify.com/artist/6dV7tQuFIXDX8nbGkWCSnz), [Bizzarri](https://open.spotify.com/artist/6u2JGZYGitPzTfCRjnAAie) | [Born A Rebel](https://open.spotify.com/album/62RIMe1gQ87UWX70jqYtsY) | 3:37 | 2021-10-24 | 2026-05-05 |
 | [Butterflies](https://open.spotify.com/track/6rJ4Wf8HZZNIukRXINmuv6) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [Butterflies](https://open.spotify.com/album/0nMqTIKccDako5MXgaGD8i) | 2:34 | 2026-04-23 |  |
 | [By Any Mean$ \(with Jesse Royal\)](https://open.spotify.com/track/6bFbSluNoeF83UVJRi6YiG) | [KA$E](https://open.spotify.com/artist/11p4fDNXEPs2gMtNVEYmKG), [Jesse Royal](https://open.spotify.com/artist/4aXUVIuNCDbLoRAYfuVDi1), [Loud City](https://open.spotify.com/artist/32qMqnULiJK7mNiYKrx3P1) | [By Any Mean$ \(with Jesse Royal\)](https://open.spotify.com/album/2Hrl1LzZTfBQ9yyr0ME1rB) | 2:48 | 2026-02-20 |  |
 | [Bye Bye Bye \(feat\. Chronixx\)](https://open.spotify.com/track/5t7DR7W68CiC393I1amWD0) | [SHY FX](https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j), [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Raggamuffin SoundTape](https://open.spotify.com/album/5CZ869wDUrKqvtmJXRZxkl) | 2:45 | 2023-08-07 | 2023-11-25 |
@@ -95,6 +95,7 @@
 | [GOODLOVE](https://open.spotify.com/track/1qA672RAmDGPSuCiwxwOm4) | [Runkus](https://open.spotify.com/artist/3HtqLmblZBFHozJBuKZTzQ), [Toddla T](https://open.spotify.com/artist/3l1C23aRp4lfkBK3lLAp2m), [Ky\-Mani Marley](https://open.spotify.com/artist/1XTGADISSMRf8B4TcVGYUC) | [GOODLOVE](https://open.spotify.com/album/56GCZRwzq8fAHUpdeebIuv) | 4:07 | 2023-05-15 | 2024-11-10 |
 | [Guide Over Us](https://open.spotify.com/track/2GGOhEJtbs11QPem39SMTg) | [Sizzla](https://open.spotify.com/artist/72T7x96EAqN2UWvAgobYfv) | [Black Woman & Child](https://open.spotify.com/album/76H37zOd2MOkLKe4p0jT32) | 3:38 | 2023-07-10 | 2023-08-08 |
 | [Gunman Town](https://open.spotify.com/track/48r2Nnf0nBUbcBMgIzuXkW) | [Pressure Busspipe](https://open.spotify.com/artist/61meTZVdfRrHMotU1AJipD), [Capleton](https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf) | [Gunman Town](https://open.spotify.com/album/41GAvPH9GV6aLrwGZnJ19X) | 2:50 | 2025-05-29 |  |
+| [Hallelujah](https://open.spotify.com/track/2d0xBDrSxKqLacd8OJkeZ6) | [Spragga Benz](https://open.spotify.com/artist/2RUW6D53228zMHAXjaQI8f) | [Hallelujah](https://open.spotify.com/album/3EmG2SaJaGoLoknL0Ad1oo) | 4:07 | 2026-04-23 |  |
 | [He Loves Us Both \(feat\. H.E.R.\)](https://open.spotify.com/track/5SvKcEK87sdbOyrthx9ZAU) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [He Loves Us Both \(feat\. H.E.R.\)](https://open.spotify.com/album/0x1tZBPycC2BPbosebRSr5) | 3:41 | 2024-06-18 |  |
 | [Heartbreak Anniversary](https://open.spotify.com/track/65H6zAYtExeRjsH15S6kBS) | [Tarrus Riley](https://open.spotify.com/artist/4frHO7KPcfMjhnVdIMJ98c) | [Heartbreak Anniversary](https://open.spotify.com/album/0szRq2sdHTy7NvJMZMsgc7) | 4:11 | 2023-07-10 | 2023-08-08 |
 | [Helping Hand](https://open.spotify.com/track/0ouLZmfGnrvxXGpY3k4IaB) | [Irie Souljah](https://open.spotify.com/artist/1Qfee1zwAFUrtaaPMbkpsw) | [Helping Hand](https://open.spotify.com/album/5huEQQmNFdO6sZtm81fbqk) | 4:14 | 2022-07-29 | 2022-12-19 |

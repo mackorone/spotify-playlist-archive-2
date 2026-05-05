@@ -1,12 +1,12 @@
 {
   "description": "Random AF.... Huge playlist to brighten long days, from all genres. Shuffle it! New music added DAILY :) www.avondalerecords.com",
-  "num_followers": 1325,
+  "num_followers": 1327,
   "original_name": "Shuffle Roulette",
   "owner": {
     "name": "Avondale Records",
     "url": "https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq"
   },
-  "snapshot_id": "AAAOxeq3iRm8fSrx+71gAgeK0cN+cbjt",
+  "snapshot_id": "AAAOzAvCS8RFzgie4LyB89BGtnOKxMhV",
   "tracks": [
     {
       "added_at": "2026-04-23 04:57:04",
@@ -155,6 +155,58 @@
       "duration_ms": 170117,
       "name": "Everything Is Forever Until It Ends",
       "url": "https://open.spotify.com/track/50pDOdKch7VKkPlxfV2wNf"
+    },
+    {
+      "added_at": "2026-05-04 21:39:27",
+      "album": {
+        "name": "Empowerment",
+        "url": "https://open.spotify.com/album/1DuhQBnpHYVi6Pmbl5zS3A"
+      },
+      "artists": [
+        {
+          "name": "Contact Zone LCHC",
+          "url": "https://open.spotify.com/artist/2BzwwVCBrro0CWuLh5oOYh"
+        },
+        {
+          "name": "Neha - That's Why I Left",
+          "url": "https://open.spotify.com/artist/4JteJH41hpg9zDud1UHGbL"
+        }
+      ],
+      "duration_ms": 139386,
+      "name": "Empowerment",
+      "url": "https://open.spotify.com/track/3pPkm5L398KUY6hbxJ1gry"
+    },
+    {
+      "added_at": "2026-05-04 21:37:24",
+      "album": {
+        "name": "DUVET!",
+        "url": "https://open.spotify.com/album/2gfMJKQymKMlsLhBV4mNAK"
+      },
+      "artists": [
+        {
+          "name": "Stovetop Gemini",
+          "url": "https://open.spotify.com/artist/4RuYpxDqzsQooSQ1B8VD6h"
+        }
+      ],
+      "duration_ms": 169544,
+      "name": "DUVET!",
+      "url": "https://open.spotify.com/track/59ciEZFBLHmCR8Bukn5Ajh"
+    },
+    {
+      "added_at": "2026-05-04 07:40:43",
+      "album": {
+        "name": "Vamonos",
+        "url": "https://open.spotify.com/album/5rqPxrLZkOMKQnqEMW9qDI"
+      },
+      "artists": [
+        {
+          "name": "The Hellflowers",
+          "url": "https://open.spotify.com/artist/788GHLc01twMuQ56Cyied2"
+        }
+      ],
+      "duration_ms": 158893,
+      "name": "Fucked Up Nation",
+      "url": "https://open.spotify.com/track/3I2amMW47X5PiVNiAELfrx"
     },
     {
       "added_at": "2025-08-03 07:05:37",
@@ -416,7 +468,7 @@
           "url": "https://open.spotify.com/artist/7fShwUYcErNtrfzEYB2fgE"
         }
       ],
-      "duration_ms": 197441,
+      "duration_ms": 195687,
       "name": "Thanks, No Thanks",
       "url": "https://open.spotify.com/track/3r4fD8lzm7neojLh9ApuDV"
     },
@@ -1759,22 +1811,6 @@
       "duration_ms": 175500,
       "name": "War (In our city)",
       "url": "https://open.spotify.com/track/7f9V3CsJkjxvwPZmD5Mg9m"
-    },
-    {
-      "added_at": "2026-04-03 10:39:22",
-      "album": {
-        "name": "Bruxism",
-        "url": "https://open.spotify.com/album/2lvi2hoZk7WDIfgTXRE7l8"
-      },
-      "artists": [
-        {
-          "name": "Grandma's Ashes",
-          "url": "https://open.spotify.com/artist/3njH8IdvpiDn8UIV0BoYoY"
-        }
-      ],
-      "duration_ms": 202705,
-      "name": "Saints Kiss",
-      "url": "https://open.spotify.com/track/3rBfqEyvLEthsS26sGHpbO"
     },
     {
       "added_at": "2026-03-31 11:19:08",
@@ -4875,6 +4911,54 @@
       "duration_ms": 189659,
       "name": "Brothers in Arms",
       "url": "https://open.spotify.com/track/4m0cBgQzOYZAfC1cc2t3PS"
+    },
+    {
+      "added_at": "2026-05-04 21:44:49",
+      "album": {
+        "name": "When The Roots Don't Hold (2026 Remaster)",
+        "url": "https://open.spotify.com/album/2SbHvfSxTxkOY3yzOGCH8g"
+      },
+      "artists": [
+        {
+          "name": "Dead Poet Warrior Zone",
+          "url": "https://open.spotify.com/artist/4SkvaDIyFyeGYsMUcwte2T"
+        }
+      ],
+      "duration_ms": 216374,
+      "name": "When The Roots Don't Hold - 2026 Remaster",
+      "url": "https://open.spotify.com/track/0WutAvKPCuTDZ8us6mstGA"
+    },
+    {
+      "added_at": "2026-05-04 21:44:34",
+      "album": {
+        "name": "Shakin'",
+        "url": "https://open.spotify.com/album/24jIAykL2F0SzJZrRMnjhQ"
+      },
+      "artists": [
+        {
+          "name": "W. Charles Hall",
+          "url": "https://open.spotify.com/artist/1YJgR9U2T5deghpvxv7VSj"
+        }
+      ],
+      "duration_ms": 185861,
+      "name": "Shakin'",
+      "url": "https://open.spotify.com/track/60YO17Cz85qfjJgkkplEnj"
+    },
+    {
+      "added_at": "2026-05-04 21:45:17",
+      "album": {
+        "name": "No Angel Is Watching",
+        "url": "https://open.spotify.com/album/68XNOikZKxIdeg4OncW44B"
+      },
+      "artists": [
+        {
+          "name": "Ludwig Jonsson",
+          "url": "https://open.spotify.com/artist/6pWJeM6v6cLKjblDNWYNdx"
+        }
+      ],
+      "duration_ms": 175146,
+      "name": "No Angel Is Watching",
+      "url": "https://open.spotify.com/track/3Cjct6UfADZsVdXdRHmOae"
     }
   ],
   "unique_name": "Shuffle Roulette",

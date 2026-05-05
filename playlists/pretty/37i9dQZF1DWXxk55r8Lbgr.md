@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxk55r8Lbgr.md) - [plain]
 
 > 蘑菇濃湯來了！快點快點快點呦！和寶貝一起快樂唱唱跳跳吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,734 likes - 50 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,736 likes - 50 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxk55r8Lbgr.md) - [plain]
 | 22 | [捏泥巴](https://open.spotify.com/track/6cs1kK33Fn6a9fBI2G6qVE) | [YOYO家族藝人](https://open.spotify.com/artist/6s8WAcX7G8VMpOH1926RMi) | [YoYo點點名8 \- 動物音樂課](https://open.spotify.com/album/45Puppm2SF0vj3RKSkXQlx) | 2:36 |
 | 23 | [快乐起床歌](https://open.spotify.com/track/7hpxOLxRObL1GdlOrEONTG) | [张晶晶](https://open.spotify.com/artist/6uGRh9i4m8kSWZ6kus65B2) | [快乐起床歌](https://open.spotify.com/album/2a1jzAssMtAQtCAqkS1kae) | 3:30 |
 | 24 | [兩隻老虎](https://open.spotify.com/track/5Br1IWBAQtjDSR8Q5mD6Jn) | [MIKA STUDIO](https://open.spotify.com/artist/7lz1tdWhI9ye85uzmrICN2) | [樂唱童學會 世界經典童謠 中文演唱版](https://open.spotify.com/album/2pfQFJ5G0GjZaNiLqxzL5R) | 0:56 |
-| 25 | [開場歌1大聲說哈囉](https://open.spotify.com/track/3AWQihVPxAqCSefg6D2tGt) | [miki施孟琪](https://open.spotify.com/artist/6TuF5P2WJtAqlJy0Wim7jt) | [miki's LOVE](https://open.spotify.com/album/7hruXsIAMq5VG5hh0hwyU3) | 0:49 |
-| 26 | [宝贝宝贝](https://open.spotify.com/track/7pXEcYfvlgpQnnbKwkI0Th) | [贝瓦儿歌](https://open.spotify.com/artist/5p42zNY1SK6ILxAZJ4Rkh7) | [宝贝宝贝](https://open.spotify.com/album/3GusfGBQswY0g0AtHoX2yF) | 3:20 |
+| 25 | [宝贝宝贝](https://open.spotify.com/track/7pXEcYfvlgpQnnbKwkI0Th) | [贝瓦儿歌](https://open.spotify.com/artist/5p42zNY1SK6ILxAZJ4Rkh7) | [宝贝宝贝](https://open.spotify.com/album/3GusfGBQswY0g0AtHoX2yF) | 3:20 |
+| 26 | [開場歌1大聲說哈囉](https://open.spotify.com/track/3AWQihVPxAqCSefg6D2tGt) | [miki施孟琪](https://open.spotify.com/artist/6TuF5P2WJtAqlJy0Wim7jt) | [miki's LOVE](https://open.spotify.com/album/7hruXsIAMq5VG5hh0hwyU3) | 0:49 |
 | 27 | [棒棒棒](https://open.spotify.com/track/0EnTWjXgf8U0NTZB5lyspk) | [YOYO家族藝人](https://open.spotify.com/artist/6s8WAcX7G8VMpOH1926RMi) | [YoYo點點名9 \- 愛是大明星](https://open.spotify.com/album/3o77dNfJDrzyWm65RpcAjn) | 2:19 |
 | 28 | [雞蛋搖滾樂](https://open.spotify.com/track/5nCsZqNzSigMY7fbk1t2pz) | [圈圈寶貝](https://open.spotify.com/artist/1Giu7rHJqraf75o6fAOHEw) | [愛你愛我](https://open.spotify.com/album/1ptlSgxhd9E8lFIo3imzG1) | 2:59 |
 | 29 | [起床歌](https://open.spotify.com/track/5du31s5tXWd2S6qG4wOwp7) | [謝欣芷](https://open.spotify.com/artist/4f2iKhkX8mIKNK4G4Ba5iJ) | [寶貝的呢喃歌](https://open.spotify.com/album/2jea9wsUdrk2v2qF3FYH9h) | 3:39 |

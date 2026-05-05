@@ -1,6 +1,6 @@
 {
   "description": "Where hip-hop and soul meets jazz. Cover: Digable Planets",
-  "num_followers": 382552,
+  "num_followers": 382608,
   "original_name": "Acid Jazz",
   "owner": {
     "name": "Spotify",
@@ -299,6 +299,22 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
+        "name": "Love Approach (Bonus Track)",
+        "url": "https://open.spotify.com/album/7MKr7uOdenxSKTk0RCZ0mP"
+      },
+      "artists": [
+        {
+          "name": "Tom Browne",
+          "url": "https://open.spotify.com/artist/4Ytvi4r3WPIZmEw1Ndmkp9"
+        }
+      ],
+      "duration_ms": 282080,
+      "name": "Funkin' for Jamaica",
+      "url": "https://open.spotify.com/track/55xXj4qc4ByMxcVRb5Slc4"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
         "name": "Hard Groove",
         "url": "https://open.spotify.com/album/7ocjymC4B0S00K0BZ71M9X"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 470546,
       "name": "I'll Stay",
       "url": "https://open.spotify.com/track/6CAYXIhkBARYmy7kVNDIOi"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "Love Approach (Bonus Track)",
-        "url": "https://open.spotify.com/album/7MKr7uOdenxSKTk0RCZ0mP"
-      },
-      "artists": [
-        {
-          "name": "Tom Browne",
-          "url": "https://open.spotify.com/artist/4Ytvi4r3WPIZmEw1Ndmkp9"
-        }
-      ],
-      "duration_ms": 282080,
-      "name": "Funkin' for Jamaica",
-      "url": "https://open.spotify.com/track/55xXj4qc4ByMxcVRb5Slc4"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -399,22 +399,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Soundpieces: Da Antidote",
-        "url": "https://open.spotify.com/album/7qK8lMl95Xc1nlMSH5Z2RC"
-      },
-      "artists": [
-        {
-          "name": "Lootpack",
-          "url": "https://open.spotify.com/artist/2D0NqDyt2R9RVar9MNs8kP"
-        }
-      ],
-      "duration_ms": 165693,
-      "name": "Whenimondamic",
-      "url": "https://open.spotify.com/track/1zAFB2woHMnip3O0WJJA41"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Friends & Strangers",
         "url": "https://open.spotify.com/album/6kTEtsawfwnyzPhaEGVu4a"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 289013,
       "name": "Friends And Strangers",
       "url": "https://open.spotify.com/track/6vkvSBJIrpdbwwrmBrER8V"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Soundpieces: Da Antidote",
+        "url": "https://open.spotify.com/album/7qK8lMl95Xc1nlMSH5Z2RC"
+      },
+      "artists": [
+        {
+          "name": "Lootpack",
+          "url": "https://open.spotify.com/artist/2D0NqDyt2R9RVar9MNs8kP"
+        }
+      ],
+      "duration_ms": 165693,
+      "name": "Whenimondamic",
+      "url": "https://open.spotify.com/track/1zAFB2woHMnip3O0WJJA41"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -493,22 +493,6 @@
       "url": "https://open.spotify.com/track/4JW5zLMjI7JymdPrjo0UGh"
     },
     {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "Your Queen Is A Reptile",
-        "url": "https://open.spotify.com/album/4pxnDGBdoGu88h8ZInX5f5"
-      },
-      "artists": [
-        {
-          "name": "Sons Of Kemet",
-          "url": "https://open.spotify.com/artist/3pvRbmrqOyFxB2Eext4Dki"
-        }
-      ],
-      "duration_ms": 314693,
-      "name": "My Queen Is Albertina Sisulu",
-      "url": "https://open.spotify.com/track/28uZjhU60BosFYSMJLJoQ3"
-    },
-    {
       "added_at": "2024-03-26 13:58:29",
       "album": {
         "name": "Road To Freedom",
@@ -523,6 +507,22 @@
       "duration_ms": 321426,
       "name": "Apparently Nothin' - Soul River",
       "url": "https://open.spotify.com/track/5tjFtfGhmq1emybxdG6gIl"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Your Queen Is A Reptile",
+        "url": "https://open.spotify.com/album/4pxnDGBdoGu88h8ZInX5f5"
+      },
+      "artists": [
+        {
+          "name": "Sons Of Kemet",
+          "url": "https://open.spotify.com/artist/3pvRbmrqOyFxB2Eext4Dki"
+        }
+      ],
+      "duration_ms": 314693,
+      "name": "My Queen Is Albertina Sisulu",
+      "url": "https://open.spotify.com/track/28uZjhU60BosFYSMJLJoQ3"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -747,22 +747,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Once In The Life (Original Motion Picture Soundtrack) [Digitally Remastered]",
-        "url": "https://open.spotify.com/album/1OZ06WuBDhR2fS4r5huztx"
-      },
-      "artists": [
-        {
-          "name": "Buckshot LeFonque",
-          "url": "https://open.spotify.com/artist/1wbW8PchZM0iSKq1V8HsRF"
-        }
-      ],
-      "duration_ms": 354640,
-      "name": "Breakfast At Denny's",
-      "url": "https://open.spotify.com/track/7uLrf2TyeptKCxsAVRIsXi"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Brass Construction",
         "url": "https://open.spotify.com/album/4tBHzXGoN740Spk0oxUapV"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 494960,
       "name": "Changin'",
       "url": "https://open.spotify.com/track/1YJHxl53keKuB8QywSlFhb"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Once In The Life (Original Motion Picture Soundtrack) [Digitally Remastered]",
+        "url": "https://open.spotify.com/album/1OZ06WuBDhR2fS4r5huztx"
+      },
+      "artists": [
+        {
+          "name": "Buckshot LeFonque",
+          "url": "https://open.spotify.com/artist/1wbW8PchZM0iSKq1V8HsRF"
+        }
+      ],
+      "duration_ms": 354640,
+      "name": "Breakfast At Denny's",
+      "url": "https://open.spotify.com/track/7uLrf2TyeptKCxsAVRIsXi"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -799,22 +799,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "In the Hand of the Inevitable",
-        "url": "https://open.spotify.com/album/4XTXpbLvjAvzyzInkgK992"
-      },
-      "artists": [
-        {
-          "name": "James Taylor Quartet",
-          "url": "https://open.spotify.com/artist/4yJ5JaEQvtAynbcucAiN0R"
-        }
-      ],
-      "duration_ms": 294240,
-      "name": "Free Your Mind",
-      "url": "https://open.spotify.com/track/6YjqkGsBgRHqdnbCS4pbjs"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "urban lounge",
         "url": "https://open.spotify.com/album/18S1slBXavEGjhjJgVEPhr"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 240053,
       "name": "Apparently Nothin' - Edit",
       "url": "https://open.spotify.com/track/5OpfYk7WM53sDn3GQdrnZt"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "In the Hand of the Inevitable",
+        "url": "https://open.spotify.com/album/4XTXpbLvjAvzyzInkgK992"
+      },
+      "artists": [
+        {
+          "name": "James Taylor Quartet",
+          "url": "https://open.spotify.com/artist/4yJ5JaEQvtAynbcucAiN0R"
+        }
+      ],
+      "duration_ms": 294240,
+      "name": "Free Your Mind",
+      "url": "https://open.spotify.com/track/6YjqkGsBgRHqdnbCS4pbjs"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -991,22 +991,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Sounds from the Ancestors",
-        "url": "https://open.spotify.com/album/1PjB6iaRaTUUwdwDmzTNFd"
-      },
-      "artists": [
-        {
-          "name": "Kenny Garrett",
-          "url": "https://open.spotify.com/artist/0Vz0vgVrclNJlHBLrgjklY"
-        }
-      ],
-      "duration_ms": 313720,
-      "name": "Hargrove",
-      "url": "https://open.spotify.com/track/5tkioBRK2vVoinDRJbyUlp"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Ring of Saturn",
         "url": "https://open.spotify.com/album/2VTLDohCGomGkyOOvKi96p"
       },
@@ -1063,6 +1047,22 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
+        "name": "Sounds from the Ancestors",
+        "url": "https://open.spotify.com/album/1PjB6iaRaTUUwdwDmzTNFd"
+      },
+      "artists": [
+        {
+          "name": "Kenny Garrett",
+          "url": "https://open.spotify.com/artist/0Vz0vgVrclNJlHBLrgjklY"
+        }
+      ],
+      "duration_ms": 313720,
+      "name": "Hargrove",
+      "url": "https://open.spotify.com/track/5tkioBRK2vVoinDRJbyUlp"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
         "name": "Pizza Pie",
         "url": "https://open.spotify.com/album/2LlVQ5iXALu8K2FwD55LlF"
       },
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
+        "name": "Brass Construction II",
+        "url": "https://open.spotify.com/album/0c8782gtKBLYzPls3Wtat6"
+      },
+      "artists": [
+        {
+          "name": "Brass Construction",
+          "url": "https://open.spotify.com/artist/5jWuVnPLmjABrgCGianzs9"
+        }
+      ],
+      "duration_ms": 358333,
+      "name": "Now Is Tomorrow (Anticipation)",
+      "url": "https://open.spotify.com/track/3MiiMAoyj2UWIBEjwVXyQ8"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
         "name": "Nuyorican Soul",
         "url": "https://open.spotify.com/album/7vJTJEMC5FYSCD61O5KFvf"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 319733,
       "name": "I Am The Black Gold Of The Sun",
       "url": "https://open.spotify.com/track/6OMfk1Gei14BexfcSzjLrB"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "Brass Construction II",
-        "url": "https://open.spotify.com/album/0c8782gtKBLYzPls3Wtat6"
-      },
-      "artists": [
-        {
-          "name": "Brass Construction",
-          "url": "https://open.spotify.com/artist/5jWuVnPLmjABrgCGianzs9"
-        }
-      ],
-      "duration_ms": 358333,
-      "name": "Now Is Tomorrow (Anticipation)",
-      "url": "https://open.spotify.com/track/3MiiMAoyj2UWIBEjwVXyQ8"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
+        "name": "The Best of Acid Jazz Vol. 2",
+        "url": "https://open.spotify.com/album/5TagkuIHtwtdmDKqdMdv9f"
+      },
+      "artists": [
+        {
+          "name": "The Brand New Heavies",
+          "url": "https://open.spotify.com/artist/3DEveX6KVzhPDqq2VRuN14"
+        }
+      ],
+      "duration_ms": 231093,
+      "name": "Don't Let It Go to Your Head",
+      "url": "https://open.spotify.com/track/0NQ61HS437hTIsl57U0GNw"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
         "name": "Woman Of The Ghetto (Reimagined)",
         "url": "https://open.spotify.com/album/2rjniBoJTfY4IIn8aPaR19"
       },
@@ -1257,22 +1273,6 @@
       "url": "https://open.spotify.com/track/0TPpaCh6kiqIJEZOGosUTg"
     },
     {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "The Best of Acid Jazz Vol. 2",
-        "url": "https://open.spotify.com/album/5TagkuIHtwtdmDKqdMdv9f"
-      },
-      "artists": [
-        {
-          "name": "The Brand New Heavies",
-          "url": "https://open.spotify.com/artist/3DEveX6KVzhPDqq2VRuN14"
-        }
-      ],
-      "duration_ms": 231093,
-      "name": "Don't Let It Go to Your Head",
-      "url": "https://open.spotify.com/track/0NQ61HS437hTIsl57U0GNw"
-    },
-    {
       "added_at": "2022-07-18 17:17:22",
       "album": {
         "name": "Black Rhythm Happening",
@@ -1289,22 +1289,6 @@
       "url": "https://open.spotify.com/track/1OBGwJ6cCv4QYRcPlb67IQ"
     },
     {
-      "added_at": "2024-08-12 13:49:26",
-      "album": {
-        "name": "In The Breaks",
-        "url": "https://open.spotify.com/album/0NprC2Nx1OAmDaUChFAvMm"
-      },
-      "artists": [
-        {
-          "name": "Galliano",
-          "url": "https://open.spotify.com/artist/5wCNzQ86Wfer6KdOxaPlQG"
-        }
-      ],
-      "duration_ms": 289933,
-      "name": "In The Breaks",
-      "url": "https://open.spotify.com/track/34IBYWXWppPwRJa9mCuPtc"
-    },
-    {
       "added_at": "2022-07-14 19:24:43",
       "album": {
         "name": "On The One",
@@ -1319,6 +1303,22 @@
       "duration_ms": 332933,
       "name": "Pete's Sake",
       "url": "https://open.spotify.com/track/0CrzPm81c6W4uwXWSu1rB8"
+    },
+    {
+      "added_at": "2024-08-12 13:49:26",
+      "album": {
+        "name": "In The Breaks",
+        "url": "https://open.spotify.com/album/0NprC2Nx1OAmDaUChFAvMm"
+      },
+      "artists": [
+        {
+          "name": "Galliano",
+          "url": "https://open.spotify.com/artist/5wCNzQ86Wfer6KdOxaPlQG"
+        }
+      ],
+      "duration_ms": 289933,
+      "name": "In The Breaks",
+      "url": "https://open.spotify.com/track/34IBYWXWppPwRJa9mCuPtc"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
+        "name": "Bring It On",
+        "url": "https://open.spotify.com/album/5kXQHuKM8aN4JuUXSZLup1"
+      },
+      "artists": [
+        {
+          "name": "New Cool Collective",
+          "url": "https://open.spotify.com/artist/6d6i5VzXGwecR7EtMasWsZ"
+        }
+      ],
+      "duration_ms": 260973,
+      "name": "Bring It On",
+      "url": "https://open.spotify.com/track/5oz5BN9nXXRrepQPDDb8pO"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
         "name": "The Sun )",
         "url": "https://open.spotify.com/album/0c7qsiBET91icyneq7KccE"
       },
@@ -1403,22 +1419,6 @@
       "duration_ms": 176342,
       "name": "The Sun )",
       "url": "https://open.spotify.com/track/6zQjXYLv8zx0FWezhp6yoo"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "Bring It On",
-        "url": "https://open.spotify.com/album/5kXQHuKM8aN4JuUXSZLup1"
-      },
-      "artists": [
-        {
-          "name": "New Cool Collective",
-          "url": "https://open.spotify.com/artist/6d6i5VzXGwecR7EtMasWsZ"
-        }
-      ],
-      "duration_ms": 260973,
-      "name": "Bring It On",
-      "url": "https://open.spotify.com/track/5oz5BN9nXXRrepQPDDb8pO"
     },
     {
       "added_at": "2025-03-21 04:00:36",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
+        "name": "One for All",
+        "url": "https://open.spotify.com/album/2R3q5gMNeQpSNRnAYay6Sm"
+      },
+      "artists": [
+        {
+          "name": "Brand Nubian",
+          "url": "https://open.spotify.com/artist/3YyZFf9ZN2YbkqeZia8zHX"
+        }
+      ],
+      "duration_ms": 303040,
+      "name": "Slow Down",
+      "url": "https://open.spotify.com/track/6i4Gu9ogL4kClgBzj3NZ6g"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
         "name": "Crazy That You Love",
         "url": "https://open.spotify.com/album/4itLRse7LQuZRpBiogq4Tf"
       },
@@ -1535,38 +1551,18 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "One for All",
-        "url": "https://open.spotify.com/album/2R3q5gMNeQpSNRnAYay6Sm"
+        "name": "Do You Want More?!!!??!",
+        "url": "https://open.spotify.com/album/3N0wHnD5Rd8jnTUvNqOXGz"
       },
       "artists": [
         {
-          "name": "Brand Nubian",
-          "url": "https://open.spotify.com/artist/3YyZFf9ZN2YbkqeZia8zHX"
+          "name": "The Roots",
+          "url": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
         }
       ],
-      "duration_ms": 303040,
-      "name": "Slow Down",
-      "url": "https://open.spotify.com/track/6i4Gu9ogL4kClgBzj3NZ6g"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "Back & Forth",
-        "url": "https://open.spotify.com/album/55mgFgnWo4vJJc6pydpB1A"
-      },
-      "artists": [
-        {
-          "name": "Nikitch",
-          "url": "https://open.spotify.com/artist/7H9Yrb2KoVErAUw0S0UVvv"
-        },
-        {
-          "name": "Kuna Maze",
-          "url": "https://open.spotify.com/artist/62vXfDbVL0oQEbYd6yP0oj"
-        }
-      ],
-      "duration_ms": 430785,
-      "name": "Coffee Kingdom",
-      "url": "https://open.spotify.com/track/4iGTyu7gIuqcs278VEZdPo"
+      "duration_ms": 281866,
+      "name": "Mellow My Man",
+      "url": "https://open.spotify.com/track/7v7tFiNePGwLOrB2tAW3kg"
     }
   ],
   "unique_name": "Acid Jazz",

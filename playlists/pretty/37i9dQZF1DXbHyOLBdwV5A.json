@@ -1,6 +1,6 @@
 {
   "description": "A palavra do Senhor pra voc\u00ea dan\u00e7ar.",
-  "num_followers": 132913,
+  "num_followers": 132918,
   "original_name": "Balada Gospel",
   "owner": {
     "name": "Spotify",
@@ -191,22 +191,6 @@
     {
       "added_at": "2025-08-29 03:01:05",
       "album": {
-        "name": "Sou Casa (Remix)",
-        "url": "https://open.spotify.com/album/2bKQcmE54MPnLkRR4RRfPK"
-      },
-      "artists": [
-        {
-          "name": "DJ Marcos Andre",
-          "url": "https://open.spotify.com/artist/65e0Jrglrzx2wsS0HQ6b61"
-        }
-      ],
-      "duration_ms": 209632,
-      "name": "Sou Casa - Remix",
-      "url": "https://open.spotify.com/track/6ahG2VlyTDhmFUqMYPPLSV"
-    },
-    {
-      "added_at": "2025-08-29 03:01:05",
-      "album": {
         "name": "Eu Confio Em Ti (Remix)",
         "url": "https://open.spotify.com/album/21VyZUFN7Epq1Xo1j8FChN"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 235468,
       "name": "Eu Confio Em Ti - Remix",
       "url": "https://open.spotify.com/track/6hEX6wvD3uMUHxAOifSKn1"
+    },
+    {
+      "added_at": "2025-08-29 03:01:05",
+      "album": {
+        "name": "Sou Casa (Remix)",
+        "url": "https://open.spotify.com/album/2bKQcmE54MPnLkRR4RRfPK"
+      },
+      "artists": [
+        {
+          "name": "DJ Marcos Andre",
+          "url": "https://open.spotify.com/artist/65e0Jrglrzx2wsS0HQ6b61"
+        }
+      ],
+      "duration_ms": 209632,
+      "name": "Sou Casa - Remix",
+      "url": "https://open.spotify.com/track/6ahG2VlyTDhmFUqMYPPLSV"
     },
     {
       "added_at": "2025-08-29 03:01:05",
@@ -319,22 +319,22 @@
     {
       "added_at": "2025-08-29 03:01:05",
       "album": {
-        "name": "Controle (Remix)",
-        "url": "https://open.spotify.com/album/5SKNgPWB0axicM6fUOWSSs"
+        "name": "Vivo Est\u00e1s (feat. Val\u00e9ria Amanaj\u00e1z)",
+        "url": "https://open.spotify.com/album/7uOOb6I4j5v2J65kWjRrKS"
       },
       "artists": [
         {
-          "name": "DJ Roger Vale",
-          "url": "https://open.spotify.com/artist/07YSzRpBPsuBZ1ZR9RrVqo"
+          "name": "Leandro Alencar",
+          "url": "https://open.spotify.com/artist/5bZTDTpuiv6SkLkbhDOh0x"
         },
         {
-          "name": "Brunno Ramos",
-          "url": "https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb"
+          "name": "Val\u00e9ria Amanaj\u00e1z",
+          "url": "https://open.spotify.com/artist/2cjN4qvOzLumg97QS0ZCPM"
         }
       ],
-      "duration_ms": 159640,
-      "name": "Controle (Remix)",
-      "url": "https://open.spotify.com/track/0UNEQA9OCMcZ8QwUJsbOgS"
+      "duration_ms": 160818,
+      "name": "Vivo Est\u00e1s (feat. Val\u00e9ria Amanaj\u00e1z)",
+      "url": "https://open.spotify.com/track/61PHeyXdbZnXkd1oKkrdQL"
     },
     {
       "added_at": "2025-08-29 03:01:05",
@@ -387,22 +387,22 @@
     {
       "added_at": "2025-08-29 03:01:05",
       "album": {
-        "name": "Vivo Est\u00e1s (feat. Val\u00e9ria Amanaj\u00e1z)",
-        "url": "https://open.spotify.com/album/7uOOb6I4j5v2J65kWjRrKS"
+        "name": "Controle (Remix)",
+        "url": "https://open.spotify.com/album/5SKNgPWB0axicM6fUOWSSs"
       },
       "artists": [
         {
-          "name": "Leandro Alencar",
-          "url": "https://open.spotify.com/artist/5bZTDTpuiv6SkLkbhDOh0x"
+          "name": "DJ Roger Vale",
+          "url": "https://open.spotify.com/artist/07YSzRpBPsuBZ1ZR9RrVqo"
         },
         {
-          "name": "Val\u00e9ria Amanaj\u00e1z",
-          "url": "https://open.spotify.com/artist/2cjN4qvOzLumg97QS0ZCPM"
+          "name": "Brunno Ramos",
+          "url": "https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb"
         }
       ],
-      "duration_ms": 160818,
-      "name": "Vivo Est\u00e1s (feat. Val\u00e9ria Amanaj\u00e1z)",
-      "url": "https://open.spotify.com/track/61PHeyXdbZnXkd1oKkrdQL"
+      "duration_ms": 159640,
+      "name": "Controle (Remix)",
+      "url": "https://open.spotify.com/track/0UNEQA9OCMcZ8QwUJsbOgS"
     },
     {
       "added_at": "2025-08-29 03:01:05",
@@ -611,26 +611,6 @@
     {
       "added_at": "2025-08-29 03:01:05",
       "album": {
-        "name": "Respirar e Confiar",
-        "url": "https://open.spotify.com/album/3dmStxhcGEBKhPzJ6UBXxP"
-      },
-      "artists": [
-        {
-          "name": "Dj Yuuki",
-          "url": "https://open.spotify.com/artist/1NzRv31U5R4nhzNFipOhUb"
-        },
-        {
-          "name": "Jessi Dias",
-          "url": "https://open.spotify.com/artist/6L8137JRkMls0kVJr7jP83"
-        }
-      ],
-      "duration_ms": 216470,
-      "name": "Respirar e Confiar",
-      "url": "https://open.spotify.com/track/0Z5DQErCulcYwwstMWIMjl"
-    },
-    {
-      "added_at": "2025-08-29 03:01:05",
-      "album": {
         "name": "Queima de Novo (Remix)",
         "url": "https://open.spotify.com/album/2vx7A0hcCoG3rKSoz9BVP8"
       },
@@ -651,6 +631,26 @@
       "duration_ms": 225712,
       "name": "Queima de Novo - Remix",
       "url": "https://open.spotify.com/track/4uZmD5i0iGXQjDJ6t1fGN5"
+    },
+    {
+      "added_at": "2025-08-29 03:01:05",
+      "album": {
+        "name": "Respirar e Confiar",
+        "url": "https://open.spotify.com/album/3dmStxhcGEBKhPzJ6UBXxP"
+      },
+      "artists": [
+        {
+          "name": "Dj Yuuki",
+          "url": "https://open.spotify.com/artist/1NzRv31U5R4nhzNFipOhUb"
+        },
+        {
+          "name": "Jessi Dias",
+          "url": "https://open.spotify.com/artist/6L8137JRkMls0kVJr7jP83"
+        }
+      ],
+      "duration_ms": 216470,
+      "name": "Respirar e Confiar",
+      "url": "https://open.spotify.com/track/0Z5DQErCulcYwwstMWIMjl"
     },
     {
       "added_at": "2025-08-29 03:01:05",
@@ -695,26 +695,6 @@
     {
       "added_at": "2025-08-29 03:01:05",
       "album": {
-        "name": "A Sua Chance",
-        "url": "https://open.spotify.com/album/3Mx7c1qi99FGGlTjEFW2dY"
-      },
-      "artists": [
-        {
-          "name": "Dj Roony Moura",
-          "url": "https://open.spotify.com/artist/0ZmLY2GPdBJSEPaGfEAQlL"
-        },
-        {
-          "name": "Diego Tiguez",
-          "url": "https://open.spotify.com/artist/1ghipBHakOKPGsliNK7ZPP"
-        }
-      ],
-      "duration_ms": 241162,
-      "name": "A Sua Chance",
-      "url": "https://open.spotify.com/track/328Xjnw4Oqehh3kHCfPrm1"
-    },
-    {
-      "added_at": "2025-08-29 03:01:05",
-      "album": {
         "name": "A Vida \u00c9 Boa (Remix)",
         "url": "https://open.spotify.com/album/0MUQZQTFRdeUzzuG5oE3w7"
       },
@@ -735,6 +715,26 @@
       "duration_ms": 129836,
       "name": "A Vida \u00c9 Boa - Remix",
       "url": "https://open.spotify.com/track/6dMhYMlH4dmeklYm04a6DU"
+    },
+    {
+      "added_at": "2025-08-29 03:01:05",
+      "album": {
+        "name": "A Sua Chance",
+        "url": "https://open.spotify.com/album/3Mx7c1qi99FGGlTjEFW2dY"
+      },
+      "artists": [
+        {
+          "name": "Dj Roony Moura",
+          "url": "https://open.spotify.com/artist/0ZmLY2GPdBJSEPaGfEAQlL"
+        },
+        {
+          "name": "Diego Tiguez",
+          "url": "https://open.spotify.com/artist/1ghipBHakOKPGsliNK7ZPP"
+        }
+      ],
+      "duration_ms": 241162,
+      "name": "A Sua Chance",
+      "url": "https://open.spotify.com/track/328Xjnw4Oqehh3kHCfPrm1"
     },
     {
       "added_at": "2025-08-29 03:01:05",
@@ -795,26 +795,6 @@
     {
       "added_at": "2025-08-29 03:01:05",
       "album": {
-        "name": "Voc\u00ea Me Amou",
-        "url": "https://open.spotify.com/album/4h29dNFAppnSIFqZ83P5ZK"
-      },
-      "artists": [
-        {
-          "name": "D\u00e9bora Ulhoa",
-          "url": "https://open.spotify.com/artist/0WBHp81TcpbOKldBXWTSYz"
-        },
-        {
-          "name": "GV3",
-          "url": "https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr"
-        }
-      ],
-      "duration_ms": 179200,
-      "name": "Voc\u00ea Me Amou",
-      "url": "https://open.spotify.com/track/3Qgh8ad1gvpCMUCmimytUQ"
-    },
-    {
-      "added_at": "2025-08-29 03:01:05",
-      "album": {
         "name": "N\u00e3o Sou Merecedor",
         "url": "https://open.spotify.com/album/0sG4KwG7HjTesGVUru3e89"
       },
@@ -839,18 +819,22 @@
     {
       "added_at": "2025-08-29 03:01:05",
       "album": {
-        "name": "Sobre Todo Nome",
-        "url": "https://open.spotify.com/album/0IN2rCcGJsnjar5072ylVh"
+        "name": "Voc\u00ea Me Amou",
+        "url": "https://open.spotify.com/album/4h29dNFAppnSIFqZ83P5ZK"
       },
       "artists": [
         {
-          "name": "Tomatti",
-          "url": "https://open.spotify.com/artist/6QSaldbCVLPl1QYQFYALrR"
+          "name": "D\u00e9bora Ulhoa",
+          "url": "https://open.spotify.com/artist/0WBHp81TcpbOKldBXWTSYz"
+        },
+        {
+          "name": "GV3",
+          "url": "https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr"
         }
       ],
-      "duration_ms": 151330,
-      "name": "Sobre Todo Nome",
-      "url": "https://open.spotify.com/track/392NrPdV17IuOG8YDvgPKj"
+      "duration_ms": 179200,
+      "name": "Voc\u00ea Me Amou",
+      "url": "https://open.spotify.com/track/3Qgh8ad1gvpCMUCmimytUQ"
     },
     {
       "added_at": "2025-08-29 03:01:05",
@@ -871,6 +855,22 @@
       "duration_ms": 247862,
       "name": "Controle",
       "url": "https://open.spotify.com/track/2VSmP3IrPdaXp3Ll5RKAHR"
+    },
+    {
+      "added_at": "2025-08-29 03:01:05",
+      "album": {
+        "name": "Sobre Todo Nome",
+        "url": "https://open.spotify.com/album/0IN2rCcGJsnjar5072ylVh"
+      },
+      "artists": [
+        {
+          "name": "Tomatti",
+          "url": "https://open.spotify.com/artist/6QSaldbCVLPl1QYQFYALrR"
+        }
+      ],
+      "duration_ms": 151330,
+      "name": "Sobre Todo Nome",
+      "url": "https://open.spotify.com/track/392NrPdV17IuOG8YDvgPKj"
     },
     {
       "added_at": "2025-08-29 03:01:05",
@@ -943,6 +943,30 @@
     {
       "added_at": "2025-08-29 03:01:05",
       "album": {
+        "name": "Vamo Com Tudo",
+        "url": "https://open.spotify.com/album/3JG2veeth9hEJJ9tWToZqG"
+      },
+      "artists": [
+        {
+          "name": "Kennto",
+          "url": "https://open.spotify.com/artist/1LowrYvOkGJcVk5piBkvD3"
+        },
+        {
+          "name": "YoungJhow",
+          "url": "https://open.spotify.com/artist/594qTcHwWxBHZAy6NSRGko"
+        },
+        {
+          "name": "JoyFull",
+          "url": "https://open.spotify.com/artist/3fsEN3GFq4UYojJ9YKWAZ5"
+        }
+      ],
+      "duration_ms": 179527,
+      "name": "Vamo Com Tudo",
+      "url": "https://open.spotify.com/track/0xto6kOf1WTk2VfQ9ItPkm"
+    },
+    {
+      "added_at": "2025-08-29 03:01:05",
+      "album": {
         "name": "Encontrar",
         "url": "https://open.spotify.com/album/2Mwju9MPuVu6msQXmoWsKc"
       },
@@ -999,30 +1023,6 @@
       "duration_ms": 163125,
       "name": "Impar\u00e1vel",
       "url": "https://open.spotify.com/track/13uOw9VAS34D34jx64rGEk"
-    },
-    {
-      "added_at": "2025-08-29 03:01:05",
-      "album": {
-        "name": "Vamo Com Tudo",
-        "url": "https://open.spotify.com/album/3JG2veeth9hEJJ9tWToZqG"
-      },
-      "artists": [
-        {
-          "name": "Kennto",
-          "url": "https://open.spotify.com/artist/1LowrYvOkGJcVk5piBkvD3"
-        },
-        {
-          "name": "YoungJhow",
-          "url": "https://open.spotify.com/artist/594qTcHwWxBHZAy6NSRGko"
-        },
-        {
-          "name": "JoyFull",
-          "url": "https://open.spotify.com/artist/3fsEN3GFq4UYojJ9YKWAZ5"
-        }
-      ],
-      "duration_ms": 179527,
-      "name": "Vamo Com Tudo",
-      "url": "https://open.spotify.com/track/0xto6kOf1WTk2VfQ9ItPkm"
     },
     {
       "added_at": "2025-08-29 03:01:05",

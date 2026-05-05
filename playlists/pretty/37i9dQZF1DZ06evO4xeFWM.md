@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xeFWM.md) - [plain]
 
 > This is Bastille\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,647 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,648 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xeFWM.md) - [plain]
 | 40 | [Won't Let You Go](https://open.spotify.com/track/70F7cMgI25aFyipi4HsjoJ) | [FRENSHIP](https://open.spotify.com/artist/7xEFii6utZmQ61kX59HmLH), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Vacation](https://open.spotify.com/album/08RH5oSOsDss5CuJBzaPzz) | 3:54 |
 | 41 | [Warmth](https://open.spotify.com/track/4hVJIlulH29qKVYGCT6cky) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Wild World \(Complete Edition\)](https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE) | 3:49 |
 | 42 | [Eve & Paradise Lost](https://open.spotify.com/track/3nsAgjl7PI0bcbdY6sDczi) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [“&” \(Ampersand\)](https://open.spotify.com/album/5jGm5pF4v30t5lUWBrNO37) | 3:10 |
-| 43 | [Bathsheba & Him](https://open.spotify.com/track/29qGW0onbNeEq29cTg4NzD) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Bathsheba & Him](https://open.spotify.com/album/492qsKqel0nuWnIdGHXbDT) | 3:33 |
-| 44 | [Liar Liar \(Feat\. Bastille\)](https://open.spotify.com/track/3CGAtMSboRN65Jo4wb3eOH) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Liar Liar \(Feat\. Bastille\)](https://open.spotify.com/album/1Z63CEuNOQf5UIZ1LoI9fP) | 2:54 |
+| 43 | [Liar Liar \(Feat\. Bastille\)](https://open.spotify.com/track/3CGAtMSboRN65Jo4wb3eOH) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Liar Liar \(Feat\. Bastille\)](https://open.spotify.com/album/1Z63CEuNOQf5UIZ1LoI9fP) | 2:54 |
+| 44 | [Bathsheba & Him](https://open.spotify.com/track/29qGW0onbNeEq29cTg4NzD) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Bathsheba & Him](https://open.spotify.com/album/492qsKqel0nuWnIdGHXbDT) | 3:33 |
 | 45 | [Fake It](https://open.spotify.com/track/5OALp7wDh1vM2nza1qDArn) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Wild World \(Complete Edition\)](https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE) | 4:04 |
 | 46 | [Intros & Narrators](https://open.spotify.com/track/2DvAtokcDWk3acZkRT7OZD) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [“&” \(Ampersand\)](https://open.spotify.com/album/5jGm5pF4v30t5lUWBrNO37) | 3:53 |
 | 47 | [Million Pieces](https://open.spotify.com/track/7DjnfQNHk36aiMK4aLucMa) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Doom Days](https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF) | 4:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xeFWM.md) - [plain]
 | 49 | [Distorted Light Beam](https://open.spotify.com/track/7bREivF1RTm0vOYB2wi7nE) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Distorted Light Beam](https://open.spotify.com/album/5FnEu6Hpo6dZ8qIp3BX5Bz) | 2:57 |
 | 50 | [Mademoiselle & The Nunnery Blaze](https://open.spotify.com/track/58tyzBvsTPDzNuhu87MEqU) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [“&” \(Ampersand\)](https://open.spotify.com/album/5jGm5pF4v30t5lUWBrNO37) | 3:59 |
 
-Snapshot ID: `afU+gAAAAADqRvg9zRyUpwVkRtmJVYNl`
+Snapshot ID: `afaQAAAAAABG3A/71q196I6vnNpAOGLp`

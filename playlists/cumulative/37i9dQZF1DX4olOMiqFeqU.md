@@ -2,7 +2,7 @@
 
 ### [OPM Favorites](https://open.spotify.com/playlist/37i9dQZF1DX4olOMiqFeqU)
 
-> 100% Pinoy hits from your favorite artists! Cover: juan karlos
+> 100% Pinoy hits from your favorite artists!
 
 203 songs - 14 hr 27 min
 
@@ -35,7 +35,7 @@
 | [Binibini](https://open.spotify.com/track/2X5AFygz5SDYlXagyPw8kX) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Binibini](https://open.spotify.com/album/0oJLtle44OSumLZj1WDEf0) | 3:41 | 2022-04-19 | 2024-07-29 |
 | [Bulong](https://open.spotify.com/track/5rV7xueHNNXaZqOLroaUta) | [December Avenue](https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m) | [Langit Mong Bughaw](https://open.spotify.com/album/7eXlJM2M5i3iDd8xgd0qwr) | 4:30 | 2025-08-23 |  |
 | [Burnout](https://open.spotify.com/track/0ZCCbW4Aym7b5QdQUKfVdv) | [Sugarfree](https://open.spotify.com/artist/5I3uAFbAOhuVSKdrcG5mgy) | [Sa Wakas](https://open.spotify.com/album/5TgWcKNeogXr2cPNDcXZRb) | 3:30 | 2025-03-25 | 2025-11-02 |
-| [Buwan](https://open.spotify.com/track/5f9808hpiCpuNyqqdXmpF2) | [juan karlos](https://open.spotify.com/artist/0a4r2EnsevvHCukoJ1xFwJ) | [Buwan](https://open.spotify.com/album/2CF1utwLM2yXHMZhwFGVY1) | 5:43 | 2022-06-13 | 2026-04-30 |
+| [Buwan](https://open.spotify.com/track/5f9808hpiCpuNyqqdXmpF2) | [juan karlos](https://open.spotify.com/artist/0a4r2EnsevvHCukoJ1xFwJ) | [Buwan](https://open.spotify.com/album/2CF1utwLM2yXHMZhwFGVY1) | 5:43 | 2022-06-13 |  |
 | [Closer You and I](https://open.spotify.com/track/4yefFdkOF4T8rN6OAO7RIP) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [Closer You and I](https://open.spotify.com/album/3oiv09ehNwGqaLWk3TDBgA) | 4:00 | 2024-05-08 | 2024-07-02 |
 | [Dalangin](https://open.spotify.com/track/2cIxxsxXNvOXNFVvDJpF3x) | [Earl Agustin](https://open.spotify.com/artist/48veLPCIJh5NVQxhyNRKCm) | [Dalangin](https://open.spotify.com/album/5HEC19abEhLQQ7IuNuKixV) | 4:12 | 2025-03-25 |  |
 | [Dating Tayo](https://open.spotify.com/track/1l7TuyIge9siMw39a0dqXd) | [TJ Monterde](https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0) | [TJ Monterde](https://open.spotify.com/album/3BNVpFNizGDG0IxfsEYhXU) | 3:59 | 2023-01-04 | 2024-04-19 |
@@ -204,7 +204,7 @@
 | [Uhaw \(Tayong Lahat\)](https://open.spotify.com/track/47OFMuRu5lzJHRbtEXPBbs) | [Dilaw](https://open.spotify.com/artist/6Dp4LInLyMVA2qhRqQ6AGL) | [Uhaw \(Tayong Lahat\)](https://open.spotify.com/album/35qpGQN1On4Un7ZUdTVQgD) | 4:01 | 2024-01-10 |  |
 | [Umaasa](https://open.spotify.com/track/4AULw1VRyJP17zMvwgTIUs) | [Calein](https://open.spotify.com/artist/0DpLoyGVbhOHNR3ht2oO9y) | [Umaasa](https://open.spotify.com/album/5CoCHo5Uln3nDpd1q2aewW) | 5:35 | 2024-03-06 |  |
 | [Unang Sayaw](https://open.spotify.com/track/4iRRAvxPPWXQp3mV1rAbPF) | [NOBITA](https://open.spotify.com/artist/5GVk1KCKa1tdHRev4bMw7V) | [Unang Sayaw](https://open.spotify.com/album/05VgPoz2XrqlgnnOYBaPsk) | 4:38 | 2022-04-19 | 2025-08-11 |
-| [Wala Na Bang Pag\-ibig](https://open.spotify.com/track/6D0jXlvOC2llxT2xEEGQBh) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [RD Covers \(Live\)](https://open.spotify.com/album/0RGrPvTkxQV7x5gX6FNrpT) | 4:36 | 2026-03-18 |  |
+| [Wala Na Bang Pag\-ibig](https://open.spotify.com/track/6D0jXlvOC2llxT2xEEGQBh) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [RD Covers \(Live\)](https://open.spotify.com/album/0RGrPvTkxQV7x5gX6FNrpT) | 4:36 | 2026-03-18 | 2026-05-05 |
 | [Walang Kapalit \(AM VER.\)](https://open.spotify.com/track/4HxaLxk986KQdqNIyI4KUb) | [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce) | [Walang Kapalit \(AM VER.\)](https://open.spotify.com/album/6SgJspX5hiL8lPcd6shyAs) | 3:38 | 2024-01-31 | 2024-05-09 |
 | [Why Can't It Be](https://open.spotify.com/track/0zFYa7NIpKhmom8zrZx7Ga) | [Kaye Cal](https://open.spotify.com/artist/0xNog7ZdcTq9sJFiIXJJTH) | [Kaye Cal](https://open.spotify.com/album/77ZkVwowfs27AEXl6GHiET) | 4:08 | 2022-04-19 | 2022-07-26 |
 | [With a Smile \(feat\. Kelly Badon\)](https://open.spotify.com/track/6XmskR1cMfgys1W7dExmgi) | [South Border](https://open.spotify.com/artist/6ZgBJRjJsK1iOJGKGZxEUv), [Kelly Badon](https://open.spotify.com/artist/32pTJUDIqu5vvX5McsyU26) | [Ultraelectromagnetic Jam](https://open.spotify.com/album/7tfDmiKEApFiZmT5MzIN1o) | 4:24 | 2022-04-19 | 2022-07-28 |

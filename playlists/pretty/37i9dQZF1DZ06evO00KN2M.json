@@ -1,12 +1,12 @@
 {
   "description": "This is Fleetwood Mac. The essential tracks, all in one playlist.",
-  "num_followers": 1162645,
+  "num_followers": 1162809,
   "original_name": "This Is Fleetwood Mac",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afU+gAAAAAA0oW0Xy2ag8QNt9gfUqsUA",
+  "snapshot_id": "afaQAAAAAAAGW9H1XzX2TrSO+QszeBNp",
   "tracks": [
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tango In the Night (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 247133,
-      "name": "Family Man - 2017 Remaster",
-      "url": "https://open.spotify.com/track/56yLJIyy1EfAyujm5HSxJR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mirage (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1dZNgJ3Gh3wp6ohzk29JUG"
       },
@@ -555,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bare Trees",
-        "url": "https://open.spotify.com/album/4yjFzAgg5VcidLwoZiQmbi"
+        "name": "Tango In the Night (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F"
       },
       "artists": [
         {
@@ -564,9 +548,9 @@
           "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
         }
       ],
-      "duration_ms": 190666,
-      "name": "Sunny Side of Heaven",
-      "url": "https://open.spotify.com/track/3kpH1izy0QrjIDBFbz83YD"
+      "duration_ms": 247133,
+      "name": "Family Man - 2017 Remaster",
+      "url": "https://open.spotify.com/track/56yLJIyy1EfAyujm5HSxJR"
     },
     {
       "added_at": null,
@@ -587,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fleetwood Mac",
-        "url": "https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo"
+        "name": "Bare Trees",
+        "url": "https://open.spotify.com/album/4yjFzAgg5VcidLwoZiQmbi"
       },
       "artists": [
         {
@@ -596,9 +580,25 @@
           "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
         }
       ],
-      "duration_ms": 262533,
-      "name": "I'm so Afraid",
-      "url": "https://open.spotify.com/track/1fXvxcQdz9OEe5IeNHQh72"
+      "duration_ms": 190666,
+      "name": "Sunny Side of Heaven",
+      "url": "https://open.spotify.com/track/3kpH1izy0QrjIDBFbz83YD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Then Play On (2013 Remaster; Expanded Edition)",
+        "url": "https://open.spotify.com/album/5Z83CVFqNYSIoItAZVaHeR"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 202400,
+      "name": "Oh Well, Pt. 1 - 2013 Remaster",
+      "url": "https://open.spotify.com/track/0QdagWnOd3GzMCBu57efgp"
     },
     {
       "added_at": null,
@@ -619,6 +619,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fleetwood Mac",
+        "url": "https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 262533,
+      "name": "I'm so Afraid",
+      "url": "https://open.spotify.com/track/1fXvxcQdz9OEe5IeNHQh72"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tango In the Night (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 189760,
       "name": "Mystified - 2017 Remaster",
       "url": "https://open.spotify.com/track/524nCOIQg9fi0pETVnbpv8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Then Play On (2013 Remaster; Expanded Edition)",
-        "url": "https://open.spotify.com/album/5Z83CVFqNYSIoItAZVaHeR"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 202400,
-      "name": "Oh Well, Pt. 1 - 2013 Remaster",
-      "url": "https://open.spotify.com/track/0QdagWnOd3GzMCBu57efgp"
     },
     {
       "added_at": null,

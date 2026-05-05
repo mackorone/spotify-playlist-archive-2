@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU3Zl0elDUa.md) - [plain]
 
 > Essential club anthems from the golden era of house music\. Cover: Crystal Waters
 
-[Spotify](https://open.spotify.com/user/spotify) - 567,615 likes - 60 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 567,815 likes - 60 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU3Zl0elDUa.md) - [plain]
 | 3 | [Music Sounds Better With You \- Radio Edit](https://open.spotify.com/track/1mv4lh1rW1K6xhxhJmEezy) | [Stardust](https://open.spotify.com/artist/2w7IutHv5g4e8LumrwtjWR), [Benjamin Diamond](https://open.spotify.com/artist/2XOvFG8pp1XAV1V6ZJABim), [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW), [Thomas Bangalter](https://open.spotify.com/artist/41vv2Tj1knysv6MuFUmdwi) | [Music Sounds Better With You](https://open.spotify.com/album/7Kusf5plZjl76X5ARWJbNO) | 4:20 |
 | 4 | [Groove Is in the Heart](https://open.spotify.com/track/2He3NOyqtLNE3RQPpeDdSb) | [Deee\-Lite](https://open.spotify.com/artist/4eQJIXFEujzhTVVS1gIfu5) | [World Clique](https://open.spotify.com/album/4sTAgYLZy5zwqR3kT1g0oh) | 3:51 |
 | 5 | [Ride on Time](https://open.spotify.com/track/3pgainA2dH9c7e8JVYGRCN) | [Black Box](https://open.spotify.com/artist/6tsRo8ErXzpHk3tQeH6GBW) | [Dreamland](https://open.spotify.com/album/6r4vIr4aUsK00mGHDiQkrl) | 4:32 |
-| 6 | [Dreamer \- Janice Robinson Vocal](https://open.spotify.com/track/6wetvpPWooBdmAEOKnDhpo) | [Livin' Joy](https://open.spotify.com/artist/3PUzVXdNnsJGPDTIU7xvqu) | [Don’t Stop Movin’](https://open.spotify.com/album/78Iw3pQjjmhlZ9JqJsFl71) | 3:43 |
-| 7 | [Good Life](https://open.spotify.com/track/5sJiLlgQKBL81QCTOkoLB5) | [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp) | [Paradise](https://open.spotify.com/album/2CwxbRPETEraKmAKDNrEcs) | 4:04 |
+| 6 | [Good Life](https://open.spotify.com/track/5sJiLlgQKBL81QCTOkoLB5) | [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp) | [Paradise](https://open.spotify.com/album/2CwxbRPETEraKmAKDNrEcs) | 4:04 |
+| 7 | [Dreamer \- Janice Robinson Vocal](https://open.spotify.com/track/6wetvpPWooBdmAEOKnDhpo) | [Livin' Joy](https://open.spotify.com/artist/3PUzVXdNnsJGPDTIU7xvqu) | [Don’t Stop Movin’](https://open.spotify.com/album/78Iw3pQjjmhlZ9JqJsFl71) | 3:43 |
 | 8 | [Get Get Down](https://open.spotify.com/track/4h4AEqy0iBbjdlbtWvIx5O) | [Paul Johnson](https://open.spotify.com/artist/4BqZuFqHJ8CLn3ig0f1m0G) | [Get Get Down](https://open.spotify.com/album/1ND1coyFl0AIA9D5OujGgg) | 6:07 |
 | 9 | [U Don't Know Me \(feat\. Duane Harden\)](https://open.spotify.com/track/0TN9m8rp3ZuNi4JwCKSans) | [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE), [Duane Harden](https://open.spotify.com/artist/6t8VAB5OTHKxi4p1I5aqn0) | [2 Future 4 U](https://open.spotify.com/album/00XVrVh53A6ENcRbErr81y) | 8:04 |
 | 10 | [Everybody Everybody](https://open.spotify.com/track/6wBMTv8yTiNh50fqTkT0JC) | [Black Box](https://open.spotify.com/artist/6tsRo8ErXzpHk3tQeH6GBW) | [Dreamland](https://open.spotify.com/album/6r4vIr4aUsK00mGHDiQkrl) | 4:07 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU3Zl0elDUa.md) - [plain]
 | 42 | [Rich in Paradise \(Going Back to My Roots\) \- Vocal Remix](https://open.spotify.com/track/7aetPME2AVagb4pKlIVbHM) | [FPI Project](https://open.spotify.com/artist/6HNYPrYPF6UzZhVFu2sLeh) | [Rich in Paradise \(Going Back to My Roots\)](https://open.spotify.com/album/4XTPgyDIA0ve6BUPAH03A8) | 5:51 |
 | 43 | [Beat Dis](https://open.spotify.com/track/6L8xB44ZvgAJjQEY9Zx6y6) | [Bomb The Bass](https://open.spotify.com/artist/1G3Eh23f2hwhEnAMw7HsZ6) | [80s 100 Hits \- Volume 2](https://open.spotify.com/album/56QkBFCRUIGCMWnKKKheXC) | 3:22 |
 | 44 | [Nothing Better \- Tmvs Club Mix](https://open.spotify.com/track/5lAb1UQMTC9ANal1QrFCx2) | [Colourblind](https://open.spotify.com/artist/7IiGgQFgfCPx3U34PlS4nC), [Dina Roache](https://open.spotify.com/artist/5lPgWCOAaBImIvLXXZkEnO) | [Underground Gems, Vol\. 2](https://open.spotify.com/album/4RIvMqg9amqYXRaVxhSLOa) | 6:35 |
-| 45 | [Sweet Sticky](https://open.spotify.com/track/7wAPKByejF2gAMm9PoWkXN) | [Theo Parrish](https://open.spotify.com/artist/3qMRvSHJpaRjGDkIeNMoGz) | [First Floor](https://open.spotify.com/album/5iVsUH1RQbojywBR2SoVua) | 7:15 |
-| 46 | [Sandman \- Original 12" Mix](https://open.spotify.com/track/1caNzSrWtZhB2UNvSt5EK0) | [Blue Boy](https://open.spotify.com/artist/5wAkbDfgFUeXzWO4rdPQiG) | [Sandman](https://open.spotify.com/album/1Bc7tTII5uNdjME3RUqiQX) | 5:50 |
+| 45 | [Sandman \- Original 12" Mix](https://open.spotify.com/track/1caNzSrWtZhB2UNvSt5EK0) | [Blue Boy](https://open.spotify.com/artist/5wAkbDfgFUeXzWO4rdPQiG) | [Sandman](https://open.spotify.com/album/1Bc7tTII5uNdjME3RUqiQX) | 5:50 |
+| 46 | [Sweet Sticky](https://open.spotify.com/track/7wAPKByejF2gAMm9PoWkXN) | [Theo Parrish](https://open.spotify.com/artist/3qMRvSHJpaRjGDkIeNMoGz) | [First Floor](https://open.spotify.com/album/5iVsUH1RQbojywBR2SoVua) | 7:15 |
 | 47 | [Anthem \- The Mafia Mix](https://open.spotify.com/track/2FGRiUB2H6umLZSBHHj35y) | [N Joi](https://open.spotify.com/artist/0hcjDfqTgMJdAY7e83gSxs), [Mafia Productions](https://open.spotify.com/artist/71Feqz2UNoJsx4HfhWrShO) | [Anthem \(The Mafia Mix\)](https://open.spotify.com/album/5vd2RI19tkXCq9vC2XFAlq) | 4:49 |
 | 48 | [I'll Be Your Friend \- Original Mix \(2011 Remastered Version\)](https://open.spotify.com/track/5SMnHUNB2iBm3rkuoHpIZO) | [Robert Owens](https://open.spotify.com/artist/407nV5hO7mZap3UJdpTr4t) | [I'll Be Your Friend](https://open.spotify.com/album/5GMblrMHV0VJsgig37YazI) | 7:36 |
 | 49 | [Bar A Thym](https://open.spotify.com/track/44EI5kN4bHMLhC7lNjcnuK) | [Kerri Chandler](https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W) | [Bar A Thym](https://open.spotify.com/album/427uD7Rynht1g02trUY1Nr) | 3:08 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU3Zl0elDUa.md) - [plain]
 | 59 | [Trouble](https://open.spotify.com/track/3kdJEtRfy0SMVMyuwU8KJs) | [Joi Cardwell](https://open.spotify.com/artist/1t6dTIhZsZgxGUHycTVnDZ) | [The World is Full of Trouble](https://open.spotify.com/album/09soF2h5LvSOvHQKrJgHSn) | 7:26 |
 | 60 | [Let The Freak](https://open.spotify.com/track/2KKmMowig9ZMrZLmaEw9A6) | [Epitome Of Hype](https://open.spotify.com/artist/60SjdVjFjUhR70M8nlqDV5) | [Ladies With An Attitude \(2016 Remaster\)](https://open.spotify.com/album/6CpoJjaKIIdnP5kLpImuxA) | 6:10 |
 
-Snapshot ID: `AAAAAC2MdVfxbTnj3oAvWo3HiL0ZIFZI`
+Snapshot ID: `AAAAAHkxnL41D5UY7ALyoMbn7ynseNX8`

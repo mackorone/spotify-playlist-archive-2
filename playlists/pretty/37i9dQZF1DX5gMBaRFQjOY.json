@@ -1,6 +1,6 @@
 {
   "description": "Country classics you know and love.",
-  "num_followers": 622620,
+  "num_followers": 622750,
   "original_name": "Classic Country",
   "owner": {
     "name": "Spotify",
@@ -279,18 +279,22 @@
     {
       "added_at": "2026-02-11 22:45:47",
       "album": {
-        "name": "Southern Comfort",
-        "url": "https://open.spotify.com/album/4IBg62LpRIejaV7VFcsyl9"
+        "name": "Ol' Waylon",
+        "url": "https://open.spotify.com/album/54cYJhrv7x97hbI047BxMO"
       },
       "artists": [
         {
-          "name": "Conway Twitty",
-          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 174640,
-      "name": "Slow Hand",
-      "url": "https://open.spotify.com/track/2h1Xj6D76ygKS3tu9DgIY5"
+      "duration_ms": 201898,
+      "name": "Luckenbach, Texas (Back to the Basics of Love) (feat. Willie Nelson)",
+      "url": "https://open.spotify.com/track/4WScDSwAa9m48pgHugVkCo"
     },
     {
       "added_at": "2026-02-11 22:45:47",
@@ -311,22 +315,18 @@
     {
       "added_at": "2026-02-11 22:45:47",
       "album": {
-        "name": "Ol' Waylon",
-        "url": "https://open.spotify.com/album/54cYJhrv7x97hbI047BxMO"
+        "name": "Southern Comfort",
+        "url": "https://open.spotify.com/album/4IBg62LpRIejaV7VFcsyl9"
       },
       "artists": [
         {
-          "name": "Waylon Jennings",
-          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+          "name": "Conway Twitty",
+          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
         }
       ],
-      "duration_ms": 201898,
-      "name": "Luckenbach, Texas (Back to the Basics of Love) (feat. Willie Nelson)",
-      "url": "https://open.spotify.com/track/4WScDSwAa9m48pgHugVkCo"
+      "duration_ms": 174640,
+      "name": "Slow Hand",
+      "url": "https://open.spotify.com/track/2h1Xj6D76ygKS3tu9DgIY5"
     },
     {
       "added_at": "2026-02-11 22:45:47",
@@ -739,22 +739,6 @@
     {
       "added_at": "2026-02-11 22:45:47",
       "album": {
-        "name": "Memorial Album (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4Cdvtu5XUmCKPwcnue11xS"
-      },
-      "artists": [
-        {
-          "name": "Hank Williams",
-          "url": "https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW"
-        }
-      ],
-      "duration_ms": 176893,
-      "name": "Hey, Good Lookin'",
-      "url": "https://open.spotify.com/track/0deAIqyKFFw55JDMGWTcdA"
-    },
-    {
-      "added_at": "2026-02-11 22:45:47",
-      "album": {
         "name": "David Allan Coe - 16 Biggest Hits",
         "url": "https://open.spotify.com/album/7oSNiyE3ZinACkLFKikw7l"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 314226,
       "name": "You Never Even Called Me By My Name",
       "url": "https://open.spotify.com/track/29TI0GvP5gMQMPTJjdMe0H"
+    },
+    {
+      "added_at": "2026-02-11 22:45:47",
+      "album": {
+        "name": "Memorial Album (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4Cdvtu5XUmCKPwcnue11xS"
+      },
+      "artists": [
+        {
+          "name": "Hank Williams",
+          "url": "https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW"
+        }
+      ],
+      "duration_ms": 176893,
+      "name": "Hey, Good Lookin'",
+      "url": "https://open.spotify.com/track/0deAIqyKFFw55JDMGWTcdA"
     },
     {
       "added_at": "2026-02-11 22:45:47",
@@ -883,22 +883,6 @@
     {
       "added_at": "2026-02-11 22:45:47",
       "album": {
-        "name": "Love Songs",
-        "url": "https://open.spotify.com/album/08pcOepE6bfonEfT07TUmL"
-      },
-      "artists": [
-        {
-          "name": "Charlie Rich",
-          "url": "https://open.spotify.com/artist/218kRJZ7FJs0hWIk8Ynzhz"
-        }
-      ],
-      "duration_ms": 174666,
-      "name": "Behind Closed Doors",
-      "url": "https://open.spotify.com/track/6d7Jz2np6jtNaZv1DiWfJs"
-    },
-    {
-      "added_at": "2026-02-11 22:45:47",
-      "album": {
         "name": "Down Every Road 1962-1994",
         "url": "https://open.spotify.com/album/40Wi0Ej08sw9B4URIOabOI"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 164106,
       "name": "Okie From Muskogee",
       "url": "https://open.spotify.com/track/7e4jSwxQw6w4qHc9WmAh7c"
+    },
+    {
+      "added_at": "2026-02-11 22:45:47",
+      "album": {
+        "name": "Love Songs",
+        "url": "https://open.spotify.com/album/08pcOepE6bfonEfT07TUmL"
+      },
+      "artists": [
+        {
+          "name": "Charlie Rich",
+          "url": "https://open.spotify.com/artist/218kRJZ7FJs0hWIk8Ynzhz"
+        }
+      ],
+      "duration_ms": 174666,
+      "name": "Behind Closed Doors",
+      "url": "https://open.spotify.com/track/6d7Jz2np6jtNaZv1DiWfJs"
     },
     {
       "added_at": "2026-02-11 22:45:47",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2026-02-11 22:45:47",
       "album": {
-        "name": "Glen Campbell - The Capitol Years 1965 - 1977",
-        "url": "https://open.spotify.com/album/5MrXG5mhgenrHar4S8iQdy"
-      },
-      "artists": [
-        {
-          "name": "Glen Campbell",
-          "url": "https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U"
-        }
-      ],
-      "duration_ms": 160866,
-      "name": "Galveston",
-      "url": "https://open.spotify.com/track/6oXkUmLOdmsEQS4AlEIKZ8"
-    },
-    {
-      "added_at": "2026-02-11 22:45:47",
-      "album": {
         "name": "When I Dream",
         "url": "https://open.spotify.com/album/6yjOONx5zNbysHWi6a9sah"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 174520,
       "name": "Talking In Your Sleep",
       "url": "https://open.spotify.com/track/4JqusF4byBFBfcv43ZPyjc"
+    },
+    {
+      "added_at": "2026-02-11 22:45:47",
+      "album": {
+        "name": "Glen Campbell - The Capitol Years 1965 - 1977",
+        "url": "https://open.spotify.com/album/5MrXG5mhgenrHar4S8iQdy"
+      },
+      "artists": [
+        {
+          "name": "Glen Campbell",
+          "url": "https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U"
+        }
+      ],
+      "duration_ms": 160866,
+      "name": "Galveston",
+      "url": "https://open.spotify.com/track/6oXkUmLOdmsEQS4AlEIKZ8"
     },
     {
       "added_at": "2026-02-11 22:45:47",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2026-02-11 22:45:47",
       "album": {
-        "name": "Tammy's Greatest Hits",
-        "url": "https://open.spotify.com/album/5QF3r0KyftGsWWs6zmyfNI"
-      },
-      "artists": [
-        {
-          "name": "Tammy Wynette",
-          "url": "https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id"
-        }
-      ],
-      "duration_ms": 154626,
-      "name": "I Don't Wanna Play House",
-      "url": "https://open.spotify.com/track/0mSywazXcVFQZRk2Gg9ImX"
-    },
-    {
-      "added_at": "2026-02-11 22:45:47",
-      "album": {
         "name": "The Essential Marty Robbins 1951-1982",
         "url": "https://open.spotify.com/album/4qbCscFZUKcUSTj1Pb2YSl"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 145640,
       "name": "Singing the Blues",
       "url": "https://open.spotify.com/track/4vcHOxfV846dVjyToPFBRp"
+    },
+    {
+      "added_at": "2026-02-11 22:45:47",
+      "album": {
+        "name": "Tammy's Greatest Hits",
+        "url": "https://open.spotify.com/album/5QF3r0KyftGsWWs6zmyfNI"
+      },
+      "artists": [
+        {
+          "name": "Tammy Wynette",
+          "url": "https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id"
+        }
+      ],
+      "duration_ms": 154626,
+      "name": "I Don't Wanna Play House",
+      "url": "https://open.spotify.com/track/0mSywazXcVFQZRk2Gg9ImX"
     },
     {
       "added_at": "2026-02-11 22:45:47",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2026-02-11 22:45:47",
       "album": {
-        "name": "Abilene",
-        "url": "https://open.spotify.com/album/5hEPstUqc8b4ySF5LCmR5M"
-      },
-      "artists": [
-        {
-          "name": "George Hamilton IV",
-          "url": "https://open.spotify.com/artist/6G39Gakqv1r26pZzijSWti"
-        }
-      ],
-      "duration_ms": 133333,
-      "name": "Abilene",
-      "url": "https://open.spotify.com/track/5bA26v8eeZrbHJpD4YPKAX"
-    },
-    {
-      "added_at": "2026-02-11 22:45:47",
-      "album": {
         "name": "20th Century Masters: The Millennium Collection: Best Of Webb Pierce",
         "url": "https://open.spotify.com/album/6LlsOhQeU1WQQbGaaFANSy"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 113640,
       "name": "I Ain't Never - Single Version",
       "url": "https://open.spotify.com/track/57X5xjtkK1Mo9TYAcxgJlx"
+    },
+    {
+      "added_at": "2026-02-11 22:45:47",
+      "album": {
+        "name": "Abilene",
+        "url": "https://open.spotify.com/album/5hEPstUqc8b4ySF5LCmR5M"
+      },
+      "artists": [
+        {
+          "name": "George Hamilton IV",
+          "url": "https://open.spotify.com/artist/6G39Gakqv1r26pZzijSWti"
+        }
+      ],
+      "duration_ms": 133333,
+      "name": "Abilene",
+      "url": "https://open.spotify.com/track/5bA26v8eeZrbHJpD4YPKAX"
     },
     {
       "added_at": "2026-02-11 22:45:47",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2026-02-11 22:45:47",
       "album": {
-        "name": "The Dance Album",
-        "url": "https://open.spotify.com/album/2mDKmUu61YwkVAJfvD81HK"
-      },
-      "artists": [
-        {
-          "name": "Carl Perkins",
-          "url": "https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f"
-        }
-      ],
-      "duration_ms": 134445,
-      "name": "Blue Suede Shoes",
-      "url": "https://open.spotify.com/track/5d6ZRqgbz26Sg4bk1oifQw"
-    },
-    {
-      "added_at": "2026-02-11 22:45:47",
-      "album": {
         "name": "The Very Best Of Rosanne Cash",
         "url": "https://open.spotify.com/album/2Wc3y0qSYX4fxYBWeiYnFa"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 137106,
       "name": "Honeycomb",
       "url": "https://open.spotify.com/track/7MqkjX5YCXhazcaAlHvPmJ"
+    },
+    {
+      "added_at": "2026-02-11 22:45:47",
+      "album": {
+        "name": "The Dance Album",
+        "url": "https://open.spotify.com/album/2mDKmUu61YwkVAJfvD81HK"
+      },
+      "artists": [
+        {
+          "name": "Carl Perkins",
+          "url": "https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f"
+        }
+      ],
+      "duration_ms": 134445,
+      "name": "Blue Suede Shoes",
+      "url": "https://open.spotify.com/track/5d6ZRqgbz26Sg4bk1oifQw"
     },
     {
       "added_at": "2026-02-11 22:45:47",

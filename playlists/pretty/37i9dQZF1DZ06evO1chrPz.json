@@ -1,12 +1,12 @@
 {
   "description": "This is Bethel Music. The essential tracks, all in one playlist.",
-  "num_followers": 208028,
+  "num_followers": 208036,
   "original_name": "This Is Bethel Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afU+gAAAAAAO3ZRJmsmYWkAiiUN3voXh",
+  "snapshot_id": "afaQAAAAAABuQQYXC5muHHhEIHb7sqXH",
   "tracks": [
     {
       "added_at": null,
@@ -331,6 +331,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "After All These Years",
+        "url": "https://open.spotify.com/album/5gQXbANgL26uyI9X9A46Ft"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        }
+      ],
+      "duration_ms": 292226,
+      "name": "Only Jesus (Instrumental)",
+      "url": "https://open.spotify.com/track/02i6EK1A76R7wX8DBIlF4o"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "We Will Not Be Shaken",
         "url": "https://open.spotify.com/album/2jOzvNrgmgcSXAOI8OuQux"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 415079,
       "name": "Jesus We Love You",
       "url": "https://open.spotify.com/track/1OMwaR5rsyfT2wB48Dm5aK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "After All These Years",
-        "url": "https://open.spotify.com/album/5gQXbANgL26uyI9X9A46Ft"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        }
-      ],
-      "duration_ms": 292226,
-      "name": "Only Jesus (Instrumental)",
-      "url": "https://open.spotify.com/track/02i6EK1A76R7wX8DBIlF4o"
     },
     {
       "added_at": null,
@@ -727,26 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Peace",
-        "url": "https://open.spotify.com/album/0fmHDS2IKGrGRZTTQOMOtE"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "We The Kingdom",
-          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
-        }
-      ],
-      "duration_ms": 374554,
-      "name": "Dancing on the Waves",
-      "url": "https://open.spotify.com/track/7D2dX1omKWoLatKZyYMhCV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Revival's In The Air (Live)",
         "url": "https://open.spotify.com/album/4WkiqAKSiWoP4dMWP7ejt9"
       },
@@ -763,6 +743,26 @@
       "duration_ms": 382600,
       "name": "Egypt (Live)",
       "url": "https://open.spotify.com/track/2OoaLn8pQfXWjjImmZwp8w"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Peace",
+        "url": "https://open.spotify.com/album/0fmHDS2IKGrGRZTTQOMOtE"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "We The Kingdom",
+          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
+        }
+      ],
+      "duration_ms": 374554,
+      "name": "Dancing on the Waves",
+      "url": "https://open.spotify.com/track/7D2dX1omKWoLatKZyYMhCV"
     },
     {
       "added_at": null,
@@ -807,6 +807,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Without Words: Synesthesia",
+        "url": "https://open.spotify.com/album/0O7oDrkgr0TWlyChIOosiG"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        }
+      ],
+      "duration_ms": 248910,
+      "name": "Luminosity",
+      "url": "https://open.spotify.com/track/34yggSxAScYbY0cAKjh4G6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Peace",
         "url": "https://open.spotify.com/album/0fmHDS2IKGrGRZTTQOMOtE"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 339041,
       "name": "Reckless Love",
       "url": "https://open.spotify.com/track/3UwwW9Ymz3xob5SxHx4uLO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Without Words: Synesthesia",
-        "url": "https://open.spotify.com/album/0O7oDrkgr0TWlyChIOosiG"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        }
-      ],
-      "duration_ms": 248910,
-      "name": "Luminosity",
-      "url": "https://open.spotify.com/track/34yggSxAScYbY0cAKjh4G6"
     },
     {
       "added_at": null,
@@ -883,26 +883,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Peace",
-        "url": "https://open.spotify.com/album/0fmHDS2IKGrGRZTTQOMOtE"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Kari Jobe",
-          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
-        }
-      ],
-      "duration_ms": 301090,
-      "name": "Surrounded (Fight My Battles)",
-      "url": "https://open.spotify.com/track/1bG33I9qQ5jOTLyNQvvSni"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Holy Hands (Live)",
         "url": "https://open.spotify.com/album/0TlNPCiRxU36TmSo9ovB6P"
       },
@@ -923,6 +903,26 @@
       "duration_ms": 434745,
       "name": "Holy Hands - Live",
       "url": "https://open.spotify.com/track/1CRnlPeWgRyep3kfulcaVp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Peace",
+        "url": "https://open.spotify.com/album/0fmHDS2IKGrGRZTTQOMOtE"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Kari Jobe",
+          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+        }
+      ],
+      "duration_ms": 301090,
+      "name": "Surrounded (Fight My Battles)",
+      "url": "https://open.spotify.com/track/1bG33I9qQ5jOTLyNQvvSni"
     },
     {
       "added_at": null,
@@ -987,26 +987,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Elohim (Live)",
-        "url": "https://open.spotify.com/album/494zDW6D8pA2QUi4CTcQdR"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Noah Paul Harrison",
-          "url": "https://open.spotify.com/artist/3n04pKYj4LrOJ9eUsQGXn4"
-        }
-      ],
-      "duration_ms": 446196,
-      "name": "Elohim - Live",
-      "url": "https://open.spotify.com/track/15VivzmIja8IDxDE7zxRwC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Revival's In The Air (Live)",
         "url": "https://open.spotify.com/album/4WkiqAKSiWoP4dMWP7ejt9"
       },
@@ -1023,6 +1003,26 @@
       "duration_ms": 415059,
       "name": "We Praise You (Live)",
       "url": "https://open.spotify.com/track/3t8IxqbGlWeILQM6bPt5VU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Elohim (Live)",
+        "url": "https://open.spotify.com/album/494zDW6D8pA2QUi4CTcQdR"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Noah Paul Harrison",
+          "url": "https://open.spotify.com/artist/3n04pKYj4LrOJ9eUsQGXn4"
+        }
+      ],
+      "duration_ms": 446196,
+      "name": "Elohim - Live",
+      "url": "https://open.spotify.com/track/15VivzmIja8IDxDE7zxRwC"
     }
   ],
   "unique_name": "This Is Bethel Music",

@@ -6495,6 +6495,28 @@
     },
     {
       "album": {
+        "name": "Dil Ka Rang",
+        "url": "https://open.spotify.com/album/3pjwkfEu7hGdjma80i7ke6"
+      },
+      "artists": [
+        {
+          "name": "Shradha Mishra",
+          "url": "https://open.spotify.com/artist/4nhFZoBTFnDpi17pbaDgd7"
+        },
+        {
+          "name": "Yash Mishra",
+          "url": "https://open.spotify.com/artist/70sU4yuUbhERtc7LQWuTQi"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162882,
+      "name": "Dil Ka Rang",
+      "url": "https://open.spotify.com/track/5AU1cGBBTdAK1uDP6xUFmW"
+    },
+    {
+      "album": {
         "name": "Dil Ke Paas",
         "url": "https://open.spotify.com/album/3JRjUL5w1m59BNbcrkXTYr"
       },
@@ -29808,7 +29830,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 137922,
       "name": "Zaalim",
       "url": "https://open.spotify.com/track/3PkyX5wo04jGbJNfsmbBQJ"

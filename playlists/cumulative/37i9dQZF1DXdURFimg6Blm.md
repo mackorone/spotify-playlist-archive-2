@@ -4,7 +4,7 @@
 
 > Boost your energy with these dance tracks.
 
-746 songs - 1 day 13 hr 0 min
+747 songs - 1 day 13 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,6 +190,7 @@
 | [Drag Me Out](https://open.spotify.com/track/2SDG2dYcoW5ksPGsiFGt7V) | [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [Drag Me Out](https://open.spotify.com/album/2ulgg6hyu3NPgjpURpNYfs) | 2:19 | 2022-03-18 | 2022-07-30 |
 | [Dream A Little Dream](https://open.spotify.com/track/3QLYpJeGjyLMIDj7roEphJ) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Sam Gray](https://open.spotify.com/artist/4sW5R5XKTge9Vwv44p9p18) | [Dream A Little Dream](https://open.spotify.com/album/0zM0LsWsNxdXAkNCGpli9B) | 2:56 | 2025-04-25 | 2025-09-24 |
 | [Dreamin \(feat\. Daya\)](https://open.spotify.com/track/6e2uvfP3pRdxsQLFSnbJPO) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Dreamin \(feat\. Daya\)](https://open.spotify.com/album/5qzM79iDx3eeLKgGi2pdgN) | 2:51 | 2025-02-07 |  |
+| [Dreams](https://open.spotify.com/track/2OthEiwV03Y4uMCEix6oZ5) | [Seven Lions](https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp), [FORS](https://open.spotify.com/artist/3IG2AmQqnXTje1NHlIQViX) | [The Dreams Strange and Eternal](https://open.spotify.com/album/0HNfjZPkOShrNG7SDlPEHM) | 3:53 | 2026-05-01 |  |
 | [Drifting](https://open.spotify.com/track/4EmH2iRucAgCOnhuJRotUi) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Drifting](https://open.spotify.com/album/2kLk6nNB65O9AA6EmaI5DG) | 2:27 | 2023-07-07 | 2023-11-11 |
 | [Drinkin'](https://open.spotify.com/track/2LCd6P35jFyZ9SN37o9D2q) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Drinkin'](https://open.spotify.com/album/2OjEzu9OvZLeGOJnAOxphI) | 2:29 | 2023-09-15 | 2024-06-22 |
 | [Drinks on MI](https://open.spotify.com/track/3EnaAIwiciqClp6bnI40gr) | [Minelli](https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc) | [Silver & Gold \- Chapter II](https://open.spotify.com/album/6IffxaOUNV88w4yxw561vT) | 2:41 | 2023-03-06 | 2023-04-22 |
@@ -695,7 +696,7 @@
 | [Up Down](https://open.spotify.com/track/5jqEybi7fIl2BpT0njbfhO) | [bradeazy](https://open.spotify.com/artist/1dESZUZevzhd5dzq9ZsMLI), [TyriqueOrDie](https://open.spotify.com/artist/6IyH7Och2DBHZAEBH9t9dE) | [Up Down](https://open.spotify.com/album/3rClZY3iOdiE4bwY6P25hY) | 2:52 | 2025-09-26 |  |
 | [Upside Down \(feat\. Poppy Baskcomb\)](https://open.spotify.com/track/2UDycsru4dEa1UFmyIvKYU) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Upside Down \(feat\. Poppy Baskcomb\)](https://open.spotify.com/album/2FmCevNKGGSYOa9uCuXydm) | 2:54 | 2023-04-21 | 2024-04-30 |
 | [Used To This](https://open.spotify.com/track/6IlL9Xlnm0Oq6wXSe6TH9v) | [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r), [Issey Cross](https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U) | [Used to This](https://open.spotify.com/album/48vV65b1zjT4lCeO5MplHm) | 3:46 | 2022-01-07 | 2022-04-09 |
-| [Vandal](https://open.spotify.com/track/34negURT6NVTALh9x2J6ue) | [MARTHA](https://open.spotify.com/artist/1HE0B5Oou0HaoNW90uYG7w) | [Vandal EP](https://open.spotify.com/album/6gkJ1vjjgtkc3axIiuh5KX) | 4:05 | 2026-04-17 |  |
+| [Vandal](https://open.spotify.com/track/34negURT6NVTALh9x2J6ue) | [MARTHA](https://open.spotify.com/artist/1HE0B5Oou0HaoNW90uYG7w) | [Vandal EP](https://open.spotify.com/album/6gkJ1vjjgtkc3axIiuh5KX) | 4:05 | 2026-04-17 | 2026-05-05 |
 | [Vent](https://open.spotify.com/track/4yMXKeuRDOIzrh3fBiJYds) | [NOIT](https://open.spotify.com/artist/7tP7gxk3jhX8DWrl3thctC) | [Vent](https://open.spotify.com/album/5wr0mILtj1RIw3ig141YpU) | 2:56 | 2024-04-19 | 2025-04-16 |
 | [VHS RAVE](https://open.spotify.com/track/1zgs6QpTBuJ67TQvXMtp7L) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [VHS RAVE](https://open.spotify.com/album/6jBRSFPY0Kbg7V3Ey2uDYX) | 3:11 | 2024-10-04 | 2025-01-30 |
 | [Victory Lap](https://open.spotify.com/track/1lbNgoJ5iMrMluCyhI4OQP) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS) | [Victory Lap](https://open.spotify.com/album/1wD2xMSjGRFSVX8zkFEuMo) | 2:45 | 2025-07-01 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Brandi Carlile. The essential tracks, all in one playlist.",
-  "num_followers": 121844,
+  "num_followers": 121853,
   "original_name": "This Is Brandi Carlile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afU+gAAAAAADe3NYx/O4aaJO73e2nxNZ",
+  "snapshot_id": "afaQAAAAAAByPf1wGxySjyChPKtKmeAp",
   "tracks": [
     {
       "added_at": null,
@@ -23,22 +23,6 @@
       "duration_ms": 238493,
       "name": "The Story",
       "url": "https://open.spotify.com/track/0EKBV6GybPtALXUgWqWrym"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "In These Silent Days",
-        "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 206267,
-      "name": "This Time Tomorrow",
-      "url": "https://open.spotify.com/track/1Cu8QneXq0Hq1HJqkZDPbN"
     },
     {
       "added_at": null,
@@ -75,6 +59,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "In These Silent Days",
+        "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 206267,
+      "name": "This Time Tomorrow",
+      "url": "https://open.spotify.com/track/1Cu8QneXq0Hq1HJqkZDPbN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bear Creek",
         "url": "https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE"
       },
@@ -103,26 +103,6 @@
       "duration_ms": 279373,
       "name": "The Joke",
       "url": "https://open.spotify.com/track/18k8IlS52uxRWObykDUZFG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "In These Silent Days",
-        "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        },
-        {
-          "name": "Lucius",
-          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
-        }
-      ],
-      "duration_ms": 230098,
-      "name": "You and Me On The Rock (feat. Lucius)",
-      "url": "https://open.spotify.com/track/61X73CJcpwGIxgQgKEXbw0"
     },
     {
       "added_at": null,
@@ -163,6 +143,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "In These Silent Days",
+        "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        },
+        {
+          "name": "Lucius",
+          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
+        }
+      ],
+      "duration_ms": 230098,
+      "name": "You and Me On The Rock (feat. Lucius)",
+      "url": "https://open.spotify.com/track/61X73CJcpwGIxgQgKEXbw0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Salt Then Sour Then Sweet (feat. Brandi Carlile)",
         "url": "https://open.spotify.com/album/005JQVpgEboxr9WAAE8VWr"
       },
@@ -199,22 +199,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In These Silent Days",
-        "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 185228,
-      "name": "Right on Time",
-      "url": "https://open.spotify.com/track/5i4WgW0TL9VSosy73Q3Ttv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Endless Summer Vacation",
         "url": "https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 231000,
       "name": "Thousand Miles (feat. Brandi Carlile)",
       "url": "https://open.spotify.com/track/3DoSolxGSDoV7G7MtcIPiZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In These Silent Days",
+        "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 185228,
+      "name": "Right on Time",
+      "url": "https://open.spotify.com/track/5i4WgW0TL9VSosy73Q3Ttv"
     },
     {
       "added_at": null,
@@ -719,18 +719,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "In These Silent Days",
-        "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
+        "name": "You're Not Alone [Feat. Brandi Carlile]",
+        "url": "https://open.spotify.com/album/6uBCu9hARcX7SlAvOD501U"
       },
       "artists": [
+        {
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+        },
         {
           "name": "Brandi Carlile",
           "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
         }
       ],
-      "duration_ms": 220720,
-      "name": "Letter To The Past",
-      "url": "https://open.spotify.com/track/0RxUz1GCgFRLO4hQwkobkg"
+      "duration_ms": 309746,
+      "name": "You're Not Alone [Feat. Brandi Carlile]",
+      "url": "https://open.spotify.com/track/4ltCYG04Xhzv5cViM6mp16"
     },
     {
       "added_at": null,
@@ -751,22 +755,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "You're Not Alone [Feat. Brandi Carlile]",
-        "url": "https://open.spotify.com/album/6uBCu9hARcX7SlAvOD501U"
+        "name": "In These Silent Days",
+        "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
       },
       "artists": [
-        {
-          "name": "Allison Russell",
-          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
-        },
         {
           "name": "Brandi Carlile",
           "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
         }
       ],
-      "duration_ms": 309746,
-      "name": "You're Not Alone [Feat. Brandi Carlile]",
-      "url": "https://open.spotify.com/track/4ltCYG04Xhzv5cViM6mp16"
+      "duration_ms": 220720,
+      "name": "Letter To The Past",
+      "url": "https://open.spotify.com/track/0RxUz1GCgFRLO4hQwkobkg"
     },
     {
       "added_at": null,
@@ -803,18 +803,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "In These Silent Days",
-        "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
+        "name": "Greenfields: The Gibb Brothers' Songbook (Vol. 1)",
+        "url": "https://open.spotify.com/album/3IFJ7ZGMjHErGmW9NAOdkp"
       },
       "artists": [
+        {
+          "name": "Barry Gibb",
+          "url": "https://open.spotify.com/artist/7Hd38PVp634oGEb9pIDs5d"
+        },
         {
           "name": "Brandi Carlile",
           "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
         }
       ],
-      "duration_ms": 303593,
-      "name": "Broken Horses",
-      "url": "https://open.spotify.com/track/0vAGNjNpJhjZTxvtcGeAib"
+      "duration_ms": 202391,
+      "name": "Run To Me (feat. Brandi Carlile)",
+      "url": "https://open.spotify.com/track/2IE70yrr4bynUzXi7O8Gek"
     },
     {
       "added_at": null,
@@ -835,22 +839,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greenfields: The Gibb Brothers' Songbook (Vol. 1)",
-        "url": "https://open.spotify.com/album/3IFJ7ZGMjHErGmW9NAOdkp"
+        "name": "In These Silent Days",
+        "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
       },
       "artists": [
-        {
-          "name": "Barry Gibb",
-          "url": "https://open.spotify.com/artist/7Hd38PVp634oGEb9pIDs5d"
-        },
         {
           "name": "Brandi Carlile",
           "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
         }
       ],
-      "duration_ms": 202391,
-      "name": "Run To Me (feat. Brandi Carlile)",
-      "url": "https://open.spotify.com/track/2IE70yrr4bynUzXi7O8Gek"
+      "duration_ms": 303593,
+      "name": "Broken Horses",
+      "url": "https://open.spotify.com/track/0vAGNjNpJhjZTxvtcGeAib"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > get into the groove with a selection of new underground deep house
 
-664 songs - 2 day 14 hr 26 min
+665 songs - 2 day 14 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -484,6 +484,7 @@
 | [Set You Free](https://open.spotify.com/track/1hRTVpNilLWj2un5mlKUjh) | [Fritz Kalkbrenner](https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM) | [Set You Free](https://open.spotify.com/album/55NADInZR3P0WdgcEBWoDE) | 3:24 | 2023-11-30 | 2024-10-24 |
 | [Seven Mile \(feat\. Moodymann\) \- Dennis Quin Remix Short Edit](https://open.spotify.com/track/7rqW8ZLgibbBIyhhyraSVt) | [Louie Vega](https://open.spotify.com/artist/5dncbrnveDMX9DgxcedeUg), [Moodymann](https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX), [Dennis Quin](https://open.spotify.com/artist/1iaGffGcjxdzSFkwfCN2Ul) | [Seven Mile \(feat\. Moodymann\) \[Remixes\]](https://open.spotify.com/album/6i5rReIhtBSpJgbOxD3DqG) | 3:26 | 2025-06-05 |  |
 | [Shadows of the Lost \- Remix](https://open.spotify.com/track/6pvvX1TZ1guOwMYmutumcY) | [Timothy and the Apocalypse](https://open.spotify.com/artist/1Vn2elOesHPjL1hnX3x7Fx), [Erik Buschmann](https://open.spotify.com/artist/6ayPPyDLx13CCYtvlO9YhD) | [Shadows of the Lost \(Remix\)](https://open.spotify.com/album/418WYFJpByedVP6HHdJtzw) | 5:25 | 2023-04-07 | 2024-03-22 |
+| [She Just](https://open.spotify.com/track/3gBpTCjn54mNZ0iEjiF2I8) | [Lex Ludlow](https://open.spotify.com/artist/5kVUN3bQAW2h5iIU1YVHhU) | [She Just](https://open.spotify.com/album/4vNhXxMvVensDEnaOBwgLa) | 5:06 | 2026-05-04 |  |
 | [Shenkin \(pi\-c remix\)](https://open.spotify.com/track/57pHVJns05fr1dB8rckLbn) | [Iris Ell](https://open.spotify.com/artist/0Sk1qaUGMbaLJ6bStLeXdm), [Frida Melando](https://open.spotify.com/artist/534ZY7H55kjUhBSk0Ln5vh), [pi\-c](https://open.spotify.com/artist/3ME6Xrst3i91iKU61wcjZo) | [Shenkin \(Remixes\)](https://open.spotify.com/album/0K33p5RA9r3pX8imhF76dp) | 4:48 | 2023-10-04 | 2024-03-22 |
 | [Shy Time](https://open.spotify.com/track/0Yhxm9o77f5ftrVgeOrhJi) | [Anil Aras](https://open.spotify.com/artist/6Ja4lS5NicOn4D0cUFwdbl) | [When Souls Collide EP](https://open.spotify.com/album/3CnFLT0ZXgWrSMV2Bf9aBC) | 3:50 | 2024-12-05 | 2025-05-26 |
 | [Silence & Secrets \- Black Coffee Remix](https://open.spotify.com/track/3ZZDwhwD6ZsFQW0IGfiKrG) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Silence & Secrets \(Black Coffee Remix\)](https://open.spotify.com/album/6yaDQvusuMpB2BqrsmhSRI) | 7:54 | 2022-09-15 | 2023-07-08 |

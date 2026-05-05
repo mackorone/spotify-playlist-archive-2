@@ -1,12 +1,12 @@
 {
   "description": "This is Ken Carson. The essential tracks, all in one playlist.",
-  "num_followers": 45897,
+  "num_followers": 45903,
   "original_name": "This Is Ken Carson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afU+gAAAAAAWk0LINQ8IocL8KhQLHynq",
+  "snapshot_id": "afaQAAAAAACoV488J3RBg8O1iQQ9POmQ",
   "tracks": [
     {
       "added_at": null,
@@ -43,6 +43,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Great Chaos",
+        "url": "https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 150401,
+      "name": "Fighting My Demons",
+      "url": "https://open.spotify.com/track/2c7sRekhMGlj7u1WIIzoQu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "the acronym (with Destroy Lonely)",
         "url": "https://open.spotify.com/album/2hrihzusVRHJXJoZkcKqN7"
       },
@@ -59,22 +75,6 @@
       "duration_ms": 147495,
       "name": "the acronym (with Destroy Lonely)",
       "url": "https://open.spotify.com/track/3Q1XHO8wAsa6WJ6urhF1xQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Great Chaos",
-        "url": "https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 150401,
-      "name": "Fighting My Demons",
-      "url": "https://open.spotify.com/track/2c7sRekhMGlj7u1WIIzoQu"
     },
     {
       "added_at": null,
@@ -111,22 +111,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "X",
-        "url": "https://open.spotify.com/album/191PJkW2uvXGUJPyl9KcdF"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 138319,
-      "name": "Freestyle 2",
-      "url": "https://open.spotify.com/track/28niVl6iodHnHpE1bCeJiV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Great Chaos",
         "url": "https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 148760,
       "name": "i need u",
       "url": "https://open.spotify.com/track/3YBU7JlsPHIXhEuc7OXrIT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "X",
+        "url": "https://open.spotify.com/album/191PJkW2uvXGUJPyl9KcdF"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 138319,
+      "name": "Freestyle 2",
+      "url": "https://open.spotify.com/track/28niVl6iodHnHpE1bCeJiV"
     },
     {
       "added_at": null,
@@ -175,22 +175,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "yes",
-        "url": "https://open.spotify.com/album/7IKQ2LS9mqFhGMB1M0IJrt"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 174989,
-      "name": "yes",
-      "url": "https://open.spotify.com/track/0AsznzqG4tJ0qnrWBZHrJO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Great Chaos",
         "url": "https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 149892,
       "name": "Succubus",
       "url": "https://open.spotify.com/track/2pcv4nUQqaZnJk1kYvCfXV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "yes",
+        "url": "https://open.spotify.com/album/7IKQ2LS9mqFhGMB1M0IJrt"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 174989,
+      "name": "yes",
+      "url": "https://open.spotify.com/track/0AsznzqG4tJ0qnrWBZHrJO"
     },
     {
       "added_at": null,
@@ -251,22 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "catastrophe",
-        "url": "https://open.spotify.com/album/1JZmYxLAjD3XgMFnhuiPPd"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 130422,
-      "name": "catastrophe",
-      "url": "https://open.spotify.com/track/7LLIyWvrVCoOW35WqG9Jx7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Great Chaos",
         "url": "https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 188701,
       "name": "Green Room",
       "url": "https://open.spotify.com/track/3MtB4aOzFkXJvAREmsy1Dj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "catastrophe",
+        "url": "https://open.spotify.com/album/1JZmYxLAjD3XgMFnhuiPPd"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 130422,
+      "name": "catastrophe",
+      "url": "https://open.spotify.com/track/7LLIyWvrVCoOW35WqG9Jx7"
     },
     {
       "added_at": null,
@@ -315,6 +315,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Great Chaos",
+        "url": "https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 158515,
+      "name": "Jennifer\u2019s Body",
+      "url": "https://open.spotify.com/track/04hgBWsBDEyVP8pH0BCZbG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "DOPAMINE",
         "url": "https://open.spotify.com/album/0CLqdKIh14TmKqLZCs9dml"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 177534,
       "name": "Tic Tac Toe (with Ken Carson)",
       "url": "https://open.spotify.com/track/0YgyE3xIbYNzYhaPPHqrXJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Great Chaos",
-        "url": "https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 158515,
-      "name": "Jennifer\u2019s Body",
-      "url": "https://open.spotify.com/track/04hgBWsBDEyVP8pH0BCZbG"
     },
     {
       "added_at": null,
@@ -383,6 +383,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Great Chaos",
+        "url": "https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 95687,
+      "name": "It\u2019s Over",
+      "url": "https://open.spotify.com/track/6dhLnWxKnrrCszvUKRPkNq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "NO STYLIST",
         "url": "https://open.spotify.com/album/0G4XTKDAeBmdfV8pZFaYu2"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 176326,
       "name": "VETERAN (feat. Ken Carson)",
       "url": "https://open.spotify.com/track/6nB8lELQBAmRXeNQivxBJ4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Great Chaos",
-        "url": "https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 95687,
-      "name": "It\u2019s Over",
-      "url": "https://open.spotify.com/track/6dhLnWxKnrrCszvUKRPkNq"
     },
     {
       "added_at": null,

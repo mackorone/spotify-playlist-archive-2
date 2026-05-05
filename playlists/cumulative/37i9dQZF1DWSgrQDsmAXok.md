@@ -2,7 +2,7 @@
 
 ### [This Is 藤井 風 \- Fujii Kaze \- ](https://open.spotify.com/playlist/37i9dQZF1DWSgrQDsmAXok)
 
-> The all\-timers from a rising singer\-songwriter from Japan, Fujii Kaze\. 藤井 風の代表曲をひとつのプレイリストで。
+> \[Happy Children's Day! / 今日はこどもの日\] The all\-timers from a rising singer\-songwriter from Japan, Fujii Kaze\. 藤井 風の代表曲をひとつのプレイリストで。
 
 69 songs - 4 hr 54 min
 

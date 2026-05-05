@@ -1,12 +1,12 @@
 {
   "description": "This is Am\u00e9n. The essential tracks, all in one playlist.",
-  "num_followers": 7103,
+  "num_followers": 7104,
   "original_name": "This Is Am\u00e9n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afU+gAAAAABzbUnJYryl+wAEob0hHKZH",
+  "snapshot_id": "afaQAAAAAABq7ZuPf8C1W4DBqNYJDTCU",
   "tracks": [
     {
       "added_at": null,
@@ -155,8 +155,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Libre",
-        "url": "https://open.spotify.com/album/257eRjejmoHnl7OBFw4IsH"
+        "name": "Tiempos de Resurrecci\u00f3n",
+        "url": "https://open.spotify.com/album/30y9YTNOcSKGK3ii0qJxIG"
       },
       "artists": [
         {
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
         }
       ],
-      "duration_ms": 233693,
-      "name": "Libre",
-      "url": "https://open.spotify.com/track/29FAw4iBbQtN5T7hU3Jpd8"
+      "duration_ms": 239000,
+      "name": "Entre Tus LLamas (El Tunche)",
+      "url": "https://open.spotify.com/track/09AqvczNeHDNbaUsAtOXtX"
     },
     {
       "added_at": null,
@@ -187,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tiempos de Resurrecci\u00f3n",
-        "url": "https://open.spotify.com/album/30y9YTNOcSKGK3ii0qJxIG"
+        "name": "Libre",
+        "url": "https://open.spotify.com/album/257eRjejmoHnl7OBFw4IsH"
       },
       "artists": [
         {
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
         }
       ],
-      "duration_ms": 239000,
-      "name": "Entre Tus LLamas (El Tunche)",
-      "url": "https://open.spotify.com/track/09AqvczNeHDNbaUsAtOXtX"
+      "duration_ms": 233693,
+      "name": "Libre",
+      "url": "https://open.spotify.com/track/29FAw4iBbQtN5T7hU3Jpd8"
     },
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Somos la Gente (Somos Uno)",
-        "url": "https://open.spotify.com/album/2kjfs84og5dMwgOgHm7XSr"
-      },
-      "artists": [
-        {
-          "name": "Am\u00e9n",
-          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
-        }
-      ],
-      "duration_ms": 219840,
-      "name": "Blues Ciego",
-      "url": "https://open.spotify.com/track/0znYWOEldU5c7Tj25AGAI8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "2020",
         "url": "https://open.spotify.com/album/1oXZpcZxhAIPejsCHdpq8o"
       },
@@ -443,6 +427,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Somos la Gente (Somos Uno)",
+        "url": "https://open.spotify.com/album/2kjfs84og5dMwgOgHm7XSr"
+      },
+      "artists": [
+        {
+          "name": "Am\u00e9n",
+          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
+        }
+      ],
+      "duration_ms": 219840,
+      "name": "Blues Ciego",
+      "url": "https://open.spotify.com/track/0znYWOEldU5c7Tj25AGAI8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tiempos de Resurrecci\u00f3n",
         "url": "https://open.spotify.com/album/30y9YTNOcSKGK3ii0qJxIG"
       },
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
         }
       ],
-      "duration_ms": 216500,
-      "name": "Love N' Shit",
-      "url": "https://open.spotify.com/track/4z9UDkzehWjnA4bC4iCnyi"
+      "duration_ms": 130500,
+      "name": "El Tunel del Amor",
+      "url": "https://open.spotify.com/track/3nv5hPCPj12B2bwYRbHf4F"
     },
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pagando el precio",
-        "url": "https://open.spotify.com/album/68DUrpCWFKIsRjynDOQdXg"
-      },
-      "artists": [
-        {
-          "name": "Am\u00e9n",
-          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
-        }
-      ],
-      "duration_ms": 215076,
-      "name": "Pagando el precio",
-      "url": "https://open.spotify.com/track/6STWRUlgr4kxD4N2WLgipr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "2020",
         "url": "https://open.spotify.com/album/1oXZpcZxhAIPejsCHdpq8o"
       },
@@ -507,6 +491,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pagando el precio",
+        "url": "https://open.spotify.com/album/68DUrpCWFKIsRjynDOQdXg"
+      },
+      "artists": [
+        {
+          "name": "Am\u00e9n",
+          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
+        }
+      ],
+      "duration_ms": 215076,
+      "name": "Pagando el precio",
+      "url": "https://open.spotify.com/track/6STWRUlgr4kxD4N2WLgipr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tiempos de Resurrecci\u00f3n",
         "url": "https://open.spotify.com/album/30y9YTNOcSKGK3ii0qJxIG"
       },
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
         }
       ],
-      "duration_ms": 130500,
-      "name": "El Tunel del Amor",
-      "url": "https://open.spotify.com/track/3nv5hPCPj12B2bwYRbHf4F"
+      "duration_ms": 216500,
+      "name": "Love N' Shit",
+      "url": "https://open.spotify.com/track/4z9UDkzehWjnA4bC4iCnyi"
     },
     {
       "added_at": null,

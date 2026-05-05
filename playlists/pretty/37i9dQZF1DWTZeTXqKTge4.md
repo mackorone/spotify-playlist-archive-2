@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 
 > Le rap québécois, servi tout frais tout chaud\. Photo: Monsi, Monzo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,850 likes - 89 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,849 likes - 89 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 | 53 | [SDLM](https://open.spotify.com/track/2AYQeUndgdNhBYb4UzOhXc) | [L.Teez](https://open.spotify.com/artist/1EmB5R56dDKiZEapIvJYOL) | [SDLM](https://open.spotify.com/album/66ThzKGGX6NtBT5lgMA77R) | 2:52 |
 | 54 | [The Equation](https://open.spotify.com/track/5k3R7EVELQypomg1Pl0bVr) | [Mighty Sampson](https://open.spotify.com/artist/3c6nIHDmmcDQRvbMBiIiRn) | [Sunshowers EP](https://open.spotify.com/album/4fHUfXT4Yj0pg9GmHJRniM) | 4:25 |
 | 55 | [Cachette](https://open.spotify.com/track/5u3TUGijryB8AHWQfju6jA) | [Izzy Scal](https://open.spotify.com/artist/1QQAK4Aln0ZyfR1xd729V9) | [Cachette](https://open.spotify.com/album/5WHs8lyAsauSF8gHujBlRR) | 2:43 |
-| 56 | [Détour](https://open.spotify.com/track/1tNkPq82RnRFLbADmE91v4) | [Koriass](https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq), [St\-Prince](https://open.spotify.com/artist/4l9XlDeGxPJgWnF7OoEpgC) | [Détour](https://open.spotify.com/album/0lBDkYz9Wc1jlo1YdvTfA4) | 3:39 |
+| 56 | [DÉTOUR](https://open.spotify.com/track/1tNkPq82RnRFLbADmE91v4) | [Koriass](https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq), [St\-Prince](https://open.spotify.com/artist/4l9XlDeGxPJgWnF7OoEpgC) | [DÉTOUR](https://open.spotify.com/album/0lBDkYz9Wc1jlo1YdvTfA4) | 3:39 |
 | 57 | [€L€GANT$](https://open.spotify.com/track/6nSEbCPuqtRyrhYpmUximj) | [Eman](https://open.spotify.com/artist/0577M91sH51YDk2o3cGko9), [LOU FRE$H](https://open.spotify.com/artist/57uDLvB9OultBUM7mkjzyQ) | [£A JU$TIC€ €T £A PAIX DAN$ £€ MOND€ \(Hosted par Papa T\)](https://open.spotify.com/album/3tV0pxZ6Ck4QD7RWzqQO2H) | 3:46 |
 | 58 | [Des inc et des comptables](https://open.spotify.com/track/18WRKLBWFffG38LWlZgJG3) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b), [Hellboy](https://open.spotify.com/artist/6aHeuHilScrq6AbFhR00K4) | [Des inc et des comptables](https://open.spotify.com/album/5lbziSlBFCC7wJknLTYtO1) | 2:46 |
 | 59 | [Dopamine](https://open.spotify.com/track/72zxhDtfzlU8hskSF2avzQ) | [Die\-On](https://open.spotify.com/artist/3PiPx0tAJVVmdwScvelkq3), [Tel Kel](https://open.spotify.com/artist/1pT5N4DANkbWPnrXQuDJPM), [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [Dopamine](https://open.spotify.com/album/2s4Fl2jD3bLsaP4q10gVCP) | 3:31 |

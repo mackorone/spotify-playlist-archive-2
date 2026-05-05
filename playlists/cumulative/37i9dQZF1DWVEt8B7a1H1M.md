@@ -4,7 +4,7 @@
 
 > Bird sounds in the background
 
-174 songs - 9 hr 40 min
+175 songs - 9 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [Birds near the river in Columbia](https://open.spotify.com/track/4YjV6QkrEGCIq66DBeO4Ky) | [Nicoguga](https://open.spotify.com/artist/7h3EBgqROmytU7UE4UwFoS) | [Birds near the river in Columbia](https://open.spotify.com/album/0zUtoR2O9ZiM8uoiVKAOuP) | 1:59 | 2026-04-02 |  |
 | [Birds Of Fern Valley \- Seamless](https://open.spotify.com/track/4dyxi3hwcorIIswprEjCPg) | [Luvbyrds](https://open.spotify.com/artist/4Jej21yNK07VQxiJ30bllw) | [Idyllwild Placid](https://open.spotify.com/album/3yEc4L6FBMR21lAlDZo5BG) | 2:36 | 2022-03-21 | 2022-07-05 |
 | [Birds Of Sonoma](https://open.spotify.com/track/3jl9eaLHME02Bt84BkXaXU) | [Organic Nature Sounds](https://open.spotify.com/artist/0FjF4Knsp7DEVujXASJBdO) | [Peaceful Wildlife](https://open.spotify.com/album/0x1729ILqSXzbNEIpHmWjq) | 3:42 | 2021-12-08 | 2022-07-05 |
-| [Birds of Spring](https://open.spotify.com/track/69H7jdNnRPmik90SG9U8Ee) | [Peaceful Birds](https://open.spotify.com/artist/772Y6DzYn0qwzVkbGe5qcK) | [Beautiful Spring Birds](https://open.spotify.com/album/1TmnpMigOjg2thZUiwDld8) | 2:02 | 2024-08-23 |  |
+| [Birds of Spring](https://open.spotify.com/track/69H7jdNnRPmik90SG9U8Ee) | [Peaceful Birds](https://open.spotify.com/artist/772Y6DzYn0qwzVkbGe5qcK) | [Beautiful Spring Birds](https://open.spotify.com/album/1TmnpMigOjg2thZUiwDld8) | 2:02 | 2024-08-23 | 2026-05-05 |
 | [Birds Of the Rainforest](https://open.spotify.com/track/4KbwasB5txiAwLRFQsrZ07) | [Lively Nature Sounds](https://open.spotify.com/artist/4hYhL32tebI7EDJR8aDNWL) | [Wild Life Birds and Rain](https://open.spotify.com/album/7hGDH33pjK2feH0YSPZjyG) | 2:35 | 2025-11-11 |  |
 | [Birds on the Trees](https://open.spotify.com/track/6ch7RYczmgPI83KO4D3Icq) | [Birds In The Forest](https://open.spotify.com/artist/3Zo4WNsztJ80TsvnvjarTU), [Sounds of Nature Zone](https://open.spotify.com/artist/00q2xMmecN41NpqjvO0z8R), [Nature Sounds Reserve](https://open.spotify.com/artist/4468t4IVuB1IH8wBUnePR4) | [Birds in the Forest: Natural Birds Voices](https://open.spotify.com/album/05DBlew7RGX0waWkarybnL) | 2:40 | 2021-12-08 | 2022-11-22 |
 | [Birds Singin' In The Rain](https://open.spotify.com/track/0aX8eoqvYKDzaxD6zVffNc) | [Rain In Spain](https://open.spotify.com/artist/5eDzrKBgV4C8kovSd9vup9) | [Part 1](https://open.spotify.com/album/20wvLsO0wBMd2L2bLGHSUK) | 3:16 | 2021-12-08 | 2022-02-19 |
@@ -103,6 +103,7 @@
 | [Jungle Midnight Calm, Borneo](https://open.spotify.com/track/2rIFfdTbET7IDjZjIcGFy4) | [Naoxos](https://open.spotify.com/artist/3rOQCk7GXQhyVt0GPDzOGn) | [Jungle Midnight Calm, Borneo](https://open.spotify.com/album/6bHAVMbGHxv0dx4BZnSk8b) | 2:35 | 2026-04-02 |  |
 | [Kaupe Spring Birds](https://open.spotify.com/track/6ajC6vMrdlIN3lO6cgaaiK) | [KPR Sounds](https://open.spotify.com/artist/3nfWQXN1xjbpJOlIrd71AD) | [Soothing Birds](https://open.spotify.com/album/3YxvBOnaOmEGehyj9p4I7j) | 2:38 | 2021-12-08 | 2025-07-22 |
 | [Lakeside Repose](https://open.spotify.com/track/58rgF4KUtRIMH3LTczh1wY) | [Sounds of the Forest](https://open.spotify.com/artist/1Ip11InkOnNCOLpDIw5mu6) | [Thicket Winging](https://open.spotify.com/album/2x4Qi7jqGL5dW8BiOwU28l) | 6:16 | 2021-12-08 | 2022-07-05 |
+| [Lastovo Island Summer Bird Song](https://open.spotify.com/track/3j8Sl52J5JhGx8k7WpIJiI) | [Natural Song](https://open.spotify.com/artist/3ztSSZCBD8e03TBMqPTQF3) | [Lastovo Island Summer Bird Song](https://open.spotify.com/album/6VyiGolVtAZvMam8UgxOwt) | 3:15 | 2026-04-02 |  |
 | [Light Wind Makes Happy Birds](https://open.spotify.com/track/3SomCxh7ENRm5FiTLu4eih) | [Singing Birds](https://open.spotify.com/artist/41EnYap10lERFyb9cem7Qk) | [Early Morning Island Birds](https://open.spotify.com/album/3mn2JY5cbEY1DtT0iSAV2B) | 1:03 | 2021-12-08 | 2022-07-05 |
 | [Lively Rainforest](https://open.spotify.com/track/738rAS3K2PE4aMiluAAbl3) | [Daily Calm](https://open.spotify.com/artist/1RFbFQgjNdi8M4qM5gzgfj) | [Calm Rain](https://open.spotify.com/album/7jRKQ6G04oCT4O1QA0A5X3) | 3:38 | 2025-07-21 | 2025-08-18 |
 | [Magical Rainforest](https://open.spotify.com/track/5gKbTObGEDjqpB6pTzu1Ht) | [Accuweather](https://open.spotify.com/artist/2Y7k2YqDWE9s1eSuQlaWNi) | [The Sound Of Rain](https://open.spotify.com/album/4GarWDiMBHvz8hQudi2Ql4) | 2:25 | 2025-11-11 |  |
@@ -129,7 +130,7 @@
 | [Nature Spa](https://open.spotify.com/track/58U9Vz4WItLGFOK2H5Nza6) | [Mindwhisper](https://open.spotify.com/artist/5BX3dSELFDJypM7828gUaL) | [Nature Spa](https://open.spotify.com/album/1TOe8ijERlKamh7aFB2ZJz) | 2:34 | 2023-06-19 | 2026-04-08 |
 | [Nectar Rain](https://open.spotify.com/track/2BNnlyMecPqvEp6rzIEsTz) | [Herbird](https://open.spotify.com/artist/35zC83DS27iISaGLzmXk8S) | [Nectar Rain](https://open.spotify.com/album/3hDnVO9C6LWboK7VP3GnBD) | 2:59 | 2025-11-11 |  |
 | [Night Forest](https://open.spotify.com/track/3OrDEsaqIYNaXMjtoNTmGn) | [Nature's Essence](https://open.spotify.com/artist/0JklQwIpSXSIxaSP1IbT8j) | [Night Forest](https://open.spotify.com/album/4XrhapfKtOHM8vM9oRAkCi) | 3:14 | 2026-04-02 |  |
-| [Northern Birds](https://open.spotify.com/track/7pmoGrDQTWH0PHgRvJcHAm) | [Creatress](https://open.spotify.com/artist/6wwfROG3fnqz3jyGV3ngPQ) | [Spring Birds](https://open.spotify.com/album/1V9jTmnMPdFCPEyLQuy5ZQ) | 2:51 | 2021-12-08 | 2026-04-03 |
+| [Northern Birds](https://open.spotify.com/track/7pmoGrDQTWH0PHgRvJcHAm) | [Creatress](https://open.spotify.com/artist/6wwfROG3fnqz3jyGV3ngPQ) | [Spring Birds](https://open.spotify.com/album/1V9jTmnMPdFCPEyLQuy5ZQ) | 2:51 | 2021-12-08 |  |
 | [Park Bird Fountain](https://open.spotify.com/track/3fWN0qCRDDYByi6rGRgEBa) | [Sleep Sounds of Nature](https://open.spotify.com/artist/59FRAcMcsHQupc8lupy5uH) | [Ambient Nature Serenity](https://open.spotify.com/album/6hbt6OWGfes8YpfpZXnMSL) | 3:50 | 2021-12-08 | 2022-07-05 |
 | [Park Birds](https://open.spotify.com/track/0oeGHx6RGBv7fiWj3J5yCz) | [Sweet Sounds of Nature](https://open.spotify.com/artist/3Vr7XPFNttaK3QkKFu9lHl) | [Birds Chirping Blues](https://open.spotify.com/album/0Dnwydy2uL0wtmbk4r6rNK) | 2:12 | 2023-06-19 | 2025-07-22 |
 | [Peaceful Birds In Scandinavian Forest](https://open.spotify.com/track/7AAsnLgmAxiZBuUtPJhHT9) | [Nano Sounds](https://open.spotify.com/artist/3hbAGbjrJ4esXMyjnzODz7) | [Spring Birds](https://open.spotify.com/album/4kYNRxa2LdgTQbChn0jasg) | 3:00 | 2021-12-08 | 2025-10-21 |
@@ -140,7 +141,7 @@
 | [Rain Forest Birds](https://open.spotify.com/track/15ovQxV8biA0iMQMrkJg6q) | [S\. Key](https://open.spotify.com/artist/4qtNIq9FnFG0UYLN8eMIp3) | [Rain Forest Bird Sounds](https://open.spotify.com/album/08DMQ9qH0U7vef2xE48l4c) | 1:48 | 2021-12-08 | 2022-07-05 |
 | [Rain Forest Birds](https://open.spotify.com/track/2C9TaqPP3rgZriyjBxAlIT) | [Swedish\-Bird\-Sounds](https://open.spotify.com/artist/7r4MqLN5DpsHNTexMJPakD) | [Swedish Morning Birds](https://open.spotify.com/album/4GGkrc2HZyOsZphGmvWRYF) | 3:00 | 2021-12-22 | 2025-11-07 |
 | [Rain Forest Birds](https://open.spotify.com/track/2IYxIeTZCkcjWrXOAZ7QFc) | [The Weather Channel](https://open.spotify.com/artist/6oRsQFv60pMDQmDWkpH4Nu) | [Autumn Rain](https://open.spotify.com/album/7tjr0VEI6SgRVK8VB1UmhI) | 3:12 | 2025-11-11 | 2026-01-29 |
-| [Rain Healing](https://open.spotify.com/track/7bOMWkpdJzXNnEsuf508pq) | [Heal Your Soul](https://open.spotify.com/artist/67Ids2ljNbqqydXuFkpamw) | [Rain Healing](https://open.spotify.com/album/4M1SM1am0TFgRp3RJOcjmX) | 2:54 | 2025-11-11 |  |
+| [Rain Healing](https://open.spotify.com/track/7bOMWkpdJzXNnEsuf508pq) | [Heal Your Soul](https://open.spotify.com/artist/67Ids2ljNbqqydXuFkpamw) | [Rain Healing](https://open.spotify.com/album/4M1SM1am0TFgRp3RJOcjmX) | 2:54 | 2025-11-11 | 2026-05-05 |
 | [Rain in the Andorran Forest](https://open.spotify.com/track/7BOmtKLiQX5yqk2Qji1X03) | [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [Chill Palm](https://open.spotify.com/artist/5bUGPaWS2tccpbiid4MSNE) | [Soothing Rain Songs](https://open.spotify.com/album/15CC9woREqBQPmVNOIfoQg) | 3:07 | 2025-11-11 |  |
 | [Rain In The Forest](https://open.spotify.com/track/59qpYkbZNKjClf9lm4EPyw) | [Celestial Elements](https://open.spotify.com/artist/4B3XxiV12KMgcJgh0uo9I4) | [Rain In The Forest](https://open.spotify.com/album/4gxhbBMd0f76hxLXPOZsvZ) | 2:38 | 2026-04-02 |  |
 | [Rain Streams](https://open.spotify.com/track/20QS2IhUNQj7kmljqpVjcN) | [Outdoor Field Recorders](https://open.spotify.com/artist/71ep4LtjRagWcfM1rZ6lUr) | [Relaxing Sounds of Nature](https://open.spotify.com/album/2QGcmnsvluOe2W71WSfTyG) | 2:43 | 2025-11-11 |  |

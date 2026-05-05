@@ -4,7 +4,7 @@
 
 > Celebrating the iconic tracks from the black queer club scene in 1980s and 1990s Chicago \- the defining era of house music\. Cover: Frankie Knuckles
 
-86 songs - 9 hr 0 min
+87 songs - 9 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,8 +65,9 @@
 | [May Datroit](https://open.spotify.com/track/51BkUYUUCjHmQ0l1gRVT59) | [Glenn Underground](https://open.spotify.com/artist/1ZdinLDX0e8r5dIlWLpmAc) | [Atmosfear](https://open.spotify.com/album/6l6VDvfN2xbSz6sFDXWJxz) | 5:34 | 2021-06-01 |  |
 | [Missing You](https://open.spotify.com/track/1b6iU8nzAEdugEbUIrCALC) | [Larry Heard](https://open.spotify.com/artist/3j7teie3p6UnbA8nW51Trz) | [Genesis](https://open.spotify.com/album/45yUTfKObHBzr8saIHQMBc) | 6:36 | 2021-06-01 |  |
 | [Missing You](https://open.spotify.com/track/06hANyT8h4lWypiU6PJPrR) | [Larry Heard](https://open.spotify.com/artist/3j7teie3p6UnbA8nW51Trz) | [Charles Webster \- Coast2Coast](https://open.spotify.com/album/0J3maXTgCWzdpFC3CQs6MO) | 6:36 | 2021-06-01 | 2024-04-19 |
-| [Move Your Body](https://open.spotify.com/track/5eAymAmVU6CyejjFJxvcMI) | [Marshall Jefferson](https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz) | [Frankie Knuckles Presents: His Greatest Hits from Trax Records](https://open.spotify.com/album/0FV16C1tWVlaSSYUYofPwT) | 6:45 | 2026-04-15 |  |
+| [Move Your Body](https://open.spotify.com/track/5eAymAmVU6CyejjFJxvcMI) | [Marshall Jefferson](https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz) | [Frankie Knuckles Presents: His Greatest Hits from Trax Records](https://open.spotify.com/album/0FV16C1tWVlaSSYUYofPwT) | 6:45 | 2026-04-15 | 2026-05-05 |
 | [Move Your Body](https://open.spotify.com/track/0dVDcEuOSqco3xlIRZ6Iji) | [Marshall Jefferson](https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz) | [Move Your Body](https://open.spotify.com/album/65K0e0Zmet0xlAo7dq7nNI) | 7:49 | 2021-06-01 | 2026-04-16 |
+| [Move Your Body \(The House Music Anthem\) \- Remaster \[feat\. Curtis McClain\]](https://open.spotify.com/track/6hG8qz5Tc6syPSQMG5wRsR) | [Marshall Jefferson](https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz), [Curtis McClain](https://open.spotify.com/artist/0Ik99Pnfq97cEn0ScUrczM) | [Move Your Body \(The House Music Anthem\) \- Remaster \[feat\. Curtis McClain\]](https://open.spotify.com/album/7KlYBYVRKAzjQA5lZHZ3r1) | 4:52 | 2026-05-04 |  |
 | [Move Your Body \- Jerry C King \(Kingdom\) Remix](https://open.spotify.com/track/3HUWzCRJXO8oQryPVCmQHg) | [Curtis McClain](https://open.spotify.com/artist/0Ik99Pnfq97cEn0ScUrczM) | [Legends of Chicago, Vol\. 2](https://open.spotify.com/album/0G9DLcK1XFirHbGfdKeYjA) | 7:47 | 2023-06-01 | 2024-04-19 |
 | [Mystery of Love](https://open.spotify.com/track/1E8hMeQvfgvQPjN3BZ2viF) | [Mr\. Fingers](https://open.spotify.com/artist/0dRiUTGvNV17AMIULRYsvn) | [Amnesia](https://open.spotify.com/album/201nAW1V2QI2jDbGci7K3g) | 7:10 | 2021-06-01 |  |
 | [Mystery Of Love](https://open.spotify.com/track/6AvtRMA6AzFNYZ3qEMYpch) | [Mr\. Fingers](https://open.spotify.com/artist/0dRiUTGvNV17AMIULRYsvn) | [Amnesia](https://open.spotify.com/album/3qcIddqx4v69RvwyY5hfSH) | 7:10 | 2021-06-01 |  |

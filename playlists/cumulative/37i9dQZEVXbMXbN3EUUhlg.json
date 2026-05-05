@@ -206,7 +206,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-01",
+      "date_removed": null,
       "duration_ms": 154037,
       "name": "10 SEGUNDOS",
       "url": "https://open.spotify.com/track/48SYVECjCIwWWsqogDHWVF"
@@ -18706,7 +18706,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 173858,
       "name": "Lembrei de Tu",
       "url": "https://open.spotify.com/track/1lokGTw8YKDexcSPtQ8AQ3"
@@ -27452,7 +27452,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 110769,
       "name": "PEGA A MALDADE DA BANDIDA",
       "url": "https://open.spotify.com/track/588PdhJdtsuypJdUb4ms4K"
@@ -31640,7 +31640,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-29",
+      "date_removed": null,
       "duration_ms": 153103,
       "name": "Saudade De Quem Eu Sou (Ao Vivo)",
       "url": "https://open.spotify.com/track/3xgrWGYrqZVL7aAvZTm2MA"
@@ -35214,6 +35214,24 @@
       "duration_ms": 170880,
       "name": "Tchuco Nela",
       "url": "https://open.spotify.com/track/3ShKPhFkexrwl7WoyTtNND"
+    },
+    {
+      "album": {
+        "name": "Te Amar \u00c9 Meu Talento (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6WspHQm4g3ZBk44vUr6jDd"
+      },
+      "artists": [
+        {
+          "name": "Fred & Fabr\u00edcio",
+          "url": "https://open.spotify.com/artist/37eYuWTOZtUG8PgFOsj9h8"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163207,
+      "name": "Te Amar \u00c9 Meu Talento - Ao Vivo",
+      "url": "https://open.spotify.com/track/0Jn2mV8cW1bkTGkyuB26Fs"
     },
     {
       "album": {
@@ -39922,7 +39940,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 281774,
       "name": "Vou pela Madrugada",
       "url": "https://open.spotify.com/track/3p58wJmZqIc9RjsdeZ5Jfq"

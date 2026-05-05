@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO271ive.md) - [plain]
 
 > This is Sexyy Red\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,200 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,209 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO271ive.md) - [plain]
 | 49 | [Come Here \(feat\. Sexyy Red\)](https://open.spotify.com/track/3djPfGkkCxWMP68yy2GulG) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Mr Beat The Road](https://open.spotify.com/album/3x3G6TKWWgRS1vWp03FoNb) | 3:14 |
 | 50 | [Born By the River](https://open.spotify.com/track/1dR964asWRagIvbk5FsJqc) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Sukihana](https://open.spotify.com/artist/3EJmmU8C3pk268dP7IbOt7) | [Hood Hottest Princess](https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42) | 2:35 |
 
-Snapshot ID: `afU+gAAAAACtLwFug1dEL5kXun8LMev4`
+Snapshot ID: `afaQAAAAAAB1DovX34xY2IwvzldgbfSv`

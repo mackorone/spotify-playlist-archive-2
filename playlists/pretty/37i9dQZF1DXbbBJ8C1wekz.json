@@ -1,6 +1,6 @@
 {
   "description": "O trap nacional pra qualquer hora, daquele jeit\u00e3o",
-  "num_followers": 182494,
+  "num_followers": 182587,
   "original_name": "Trap Classe",
   "owner": {
     "name": "Spotify",
@@ -107,26 +107,18 @@
     {
       "added_at": "2026-02-06 16:15:18",
       "album": {
-        "name": "CAOS DLX",
-        "url": "https://open.spotify.com/album/4F0IyhC2CjV5DtBK0uo5eM"
+        "name": "Vagabundo de Luxo",
+        "url": "https://open.spotify.com/album/4xemDx7QFi5hUSETm5auUv"
       },
       "artists": [
         {
-          "name": "Alee",
-          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
-        },
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "Qualywav1",
-          "url": "https://open.spotify.com/artist/7MbiFVDZ7SKyG18Im8WGLn"
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
         }
       ],
-      "duration_ms": 225391,
-      "name": "TUDO DE NOVO",
-      "url": "https://open.spotify.com/track/31X6ihiAWsNnKRky0R8532"
+      "duration_ms": 197903,
+      "name": "Vidigal",
+      "url": "https://open.spotify.com/track/42XLOKRo2bv2Ne9lTOGSQA"
     },
     {
       "added_at": "2026-02-06 16:15:18",
@@ -203,46 +195,26 @@
     {
       "added_at": "2026-02-06 16:15:18",
       "album": {
-        "name": "Vagabundo de Luxo",
-        "url": "https://open.spotify.com/album/4xemDx7QFi5hUSETm5auUv"
+        "name": "CAOS DLX",
+        "url": "https://open.spotify.com/album/4F0IyhC2CjV5DtBK0uo5eM"
       },
       "artists": [
         {
-          "name": "WIU",
-          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+          "name": "Alee",
+          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
+        },
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Qualywav1",
+          "url": "https://open.spotify.com/artist/7MbiFVDZ7SKyG18Im8WGLn"
         }
       ],
-      "duration_ms": 197903,
-      "name": "Vidigal",
-      "url": "https://open.spotify.com/track/42XLOKRo2bv2Ne9lTOGSQA"
-    },
-    {
-      "added_at": "2026-02-06 16:15:18",
-      "album": {
-        "name": "MAGIC SHOW",
-        "url": "https://open.spotify.com/album/5lxnAXkn1mXv4LQSrnVtGW"
-      },
-      "artists": [
-        {
-          "name": "Nagalli",
-          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
-        },
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        },
-        {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
-        },
-        {
-          "name": "Supernova Ent",
-          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
-        }
-      ],
-      "duration_ms": 145812,
-      "name": "CONFISS\u00d5ES PT2",
-      "url": "https://open.spotify.com/track/0Q1ySdDoHDiotYn4nbMXNm"
+      "duration_ms": 225391,
+      "name": "TUDO DE NOVO",
+      "url": "https://open.spotify.com/track/31X6ihiAWsNnKRky0R8532"
     },
     {
       "added_at": "2026-02-06 16:15:18",
@@ -283,6 +255,34 @@
     {
       "added_at": "2026-02-06 16:15:18",
       "album": {
+        "name": "MAGIC SHOW",
+        "url": "https://open.spotify.com/album/5lxnAXkn1mXv4LQSrnVtGW"
+      },
+      "artists": [
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        },
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        }
+      ],
+      "duration_ms": 145812,
+      "name": "CONFISS\u00d5ES PT2",
+      "url": "https://open.spotify.com/track/0Q1ySdDoHDiotYn4nbMXNm"
+    },
+    {
+      "added_at": "2026-02-06 16:15:18",
+      "album": {
         "name": "CONFIA",
         "url": "https://open.spotify.com/album/4U4UGmipseImDNZBY1Njt3"
       },
@@ -303,26 +303,6 @@
       "duration_ms": 204813,
       "name": "N\u00f3s Combina",
       "url": "https://open.spotify.com/track/4ZrKyfCV1UcHuZjbLp03fM"
-    },
-    {
-      "added_at": "2026-02-06 16:15:18",
-      "album": {
-        "name": "Mist\u00e9rios",
-        "url": "https://open.spotify.com/album/7EXbbKbkFrFFGqWIV7vEhH"
-      },
-      "artists": [
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        },
-        {
-          "name": "Murillo e LT no Beat",
-          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
-        }
-      ],
-      "duration_ms": 136695,
-      "name": "Mist\u00e9rios",
-      "url": "https://open.spotify.com/track/1K14aw84e0i5IHFHkq7aNn"
     },
     {
       "added_at": "2026-02-06 16:15:18",
@@ -355,6 +335,30 @@
       "duration_ms": 200000,
       "name": "Ballena",
       "url": "https://open.spotify.com/track/1Vy9Wn5sbiduZKBqBlH3Mc"
+    },
+    {
+      "added_at": "2026-02-06 16:15:18",
+      "album": {
+        "name": "Contradi\u00e7\u00f5es",
+        "url": "https://open.spotify.com/album/1vR5pzEPXx1i7h8zwosa7D"
+      },
+      "artists": [
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "Marquinho no Beat",
+          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
+        },
+        {
+          "name": "Wall Hein",
+          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
+        }
+      ],
+      "duration_ms": 104145,
+      "name": "Segredo",
+      "url": "https://open.spotify.com/track/6hu4HvpNzrW2RIEEAZC3vD"
     },
     {
       "added_at": "2026-02-06 16:15:18",
@@ -395,6 +399,42 @@
     {
       "added_at": "2026-02-06 16:15:18",
       "album": {
+        "name": "Amor e \u00d3dio",
+        "url": "https://open.spotify.com/album/4XjGW9ICzbGHxtWeI7dUAt"
+      },
+      "artists": [
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "RUXN",
+          "url": "https://open.spotify.com/artist/30Hiyu8fW3upjYdoXoXy8i"
+        },
+        {
+          "name": "Palma",
+          "url": "https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp"
+        },
+        {
+          "name": "Kizzy",
+          "url": "https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic"
+        }
+      ],
+      "duration_ms": 179945,
+      "name": "Loucura",
+      "url": "https://open.spotify.com/track/4QCwvUs4ob87Tq9VP07Uo3"
+    },
+    {
+      "added_at": "2026-02-06 16:15:18",
+      "album": {
         "name": "Melhor Vibe",
         "url": "https://open.spotify.com/album/4ZoSMD7wD1xMzq0iXlEach"
       },
@@ -431,8 +471,8 @@
     {
       "added_at": "2026-02-06 16:15:18",
       "album": {
-        "name": "Contradi\u00e7\u00f5es",
-        "url": "https://open.spotify.com/album/1vR5pzEPXx1i7h8zwosa7D"
+        "name": "Mist\u00e9rios",
+        "url": "https://open.spotify.com/album/7EXbbKbkFrFFGqWIV7vEhH"
       },
       "artists": [
         {
@@ -440,53 +480,13 @@
           "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
         },
         {
-          "name": "Marquinho no Beat",
-          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
-        },
-        {
-          "name": "Wall Hein",
-          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
+          "name": "Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
         }
       ],
-      "duration_ms": 104145,
-      "name": "Segredo",
-      "url": "https://open.spotify.com/track/6hu4HvpNzrW2RIEEAZC3vD"
-    },
-    {
-      "added_at": "2026-02-06 16:15:18",
-      "album": {
-        "name": "Amor e \u00d3dio",
-        "url": "https://open.spotify.com/album/4XjGW9ICzbGHxtWeI7dUAt"
-      },
-      "artists": [
-        {
-          "name": "Borges",
-          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
-        },
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
-        },
-        {
-          "name": "RUXN",
-          "url": "https://open.spotify.com/artist/30Hiyu8fW3upjYdoXoXy8i"
-        },
-        {
-          "name": "Palma",
-          "url": "https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp"
-        },
-        {
-          "name": "Kizzy",
-          "url": "https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic"
-        }
-      ],
-      "duration_ms": 179945,
-      "name": "Loucura",
-      "url": "https://open.spotify.com/track/4QCwvUs4ob87Tq9VP07Uo3"
+      "duration_ms": 136695,
+      "name": "Mist\u00e9rios",
+      "url": "https://open.spotify.com/track/1K14aw84e0i5IHFHkq7aNn"
     },
     {
       "added_at": "2026-02-06 16:15:18",
@@ -663,22 +663,6 @@
     {
       "added_at": "2026-02-06 16:15:18",
       "album": {
-        "name": "333",
-        "url": "https://open.spotify.com/album/5CP84pfi4AFe95UTACFWrk"
-      },
-      "artists": [
-        {
-          "name": "Matu\u00ea",
-          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
-        }
-      ],
-      "duration_ms": 154418,
-      "name": "Crack com Mussilon",
-      "url": "https://open.spotify.com/track/4ssHL7bSnOAE7HjiuLx6Co"
-    },
-    {
-      "added_at": "2026-02-06 16:15:18",
-      "album": {
         "name": "Mixtape Chir\u00f3",
         "url": "https://open.spotify.com/album/2hqitsZt4GZdgn7lFxw08S"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 232941,
       "name": "Sanguessuga",
       "url": "https://open.spotify.com/track/7pDSJgKFL4pnlACmswR0Eb"
+    },
+    {
+      "added_at": "2026-02-06 16:15:18",
+      "album": {
+        "name": "Vagabundo de Luxo",
+        "url": "https://open.spotify.com/album/4xemDx7QFi5hUSETm5auUv"
+      },
+      "artists": [
+        {
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+        }
+      ],
+      "duration_ms": 166153,
+      "name": "Rainha da Finesse",
+      "url": "https://open.spotify.com/track/0w7vodPWFEcuEYvWpbNbOu"
     },
     {
       "added_at": "2026-02-06 16:15:18",
@@ -723,22 +723,6 @@
       "duration_ms": 127058,
       "name": "Mandona (Se eu te dissesse)",
       "url": "https://open.spotify.com/track/0yZRkiCSy4ra9EykuYyGo0"
-    },
-    {
-      "added_at": "2026-02-06 16:15:18",
-      "album": {
-        "name": "Vagabundo de Luxo",
-        "url": "https://open.spotify.com/album/4xemDx7QFi5hUSETm5auUv"
-      },
-      "artists": [
-        {
-          "name": "WIU",
-          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
-        }
-      ],
-      "duration_ms": 166153,
-      "name": "Rainha da Finesse",
-      "url": "https://open.spotify.com/track/0w7vodPWFEcuEYvWpbNbOu"
     },
     {
       "added_at": "2026-02-06 16:15:18",
@@ -787,6 +771,22 @@
       "duration_ms": 165882,
       "name": "Fim de Semana no Rio",
       "url": "https://open.spotify.com/track/7afaZ37wJJL6880z1NRgJS"
+    },
+    {
+      "added_at": "2026-02-06 16:15:18",
+      "album": {
+        "name": "333",
+        "url": "https://open.spotify.com/album/5CP84pfi4AFe95UTACFWrk"
+      },
+      "artists": [
+        {
+          "name": "Matu\u00ea",
+          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
+        }
+      ],
+      "duration_ms": 154418,
+      "name": "Crack com Mussilon",
+      "url": "https://open.spotify.com/track/4ssHL7bSnOAE7HjiuLx6Co"
     },
     {
       "added_at": "2026-02-06 16:15:18",
@@ -867,6 +867,22 @@
     {
       "added_at": "2026-02-06 16:15:18",
       "album": {
+        "name": "previas.zip",
+        "url": "https://open.spotify.com/album/1Mp4qx0rzYoZHXmTX5ViS4"
+      },
+      "artists": [
+        {
+          "name": "Teto",
+          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
+        }
+      ],
+      "duration_ms": 177442,
+      "name": "Manha",
+      "url": "https://open.spotify.com/track/3ow7zYRhbIO7f4yyHI4ZaD"
+    },
+    {
+      "added_at": "2026-02-06 16:15:18",
+      "album": {
         "name": "Outros Corpos",
         "url": "https://open.spotify.com/album/7wIVaMzhi9Rbfh7syq39zb"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 188976,
       "name": "Outros Corpos",
       "url": "https://open.spotify.com/track/0ghm6bTrXuqnLDyvfsv2at"
-    },
-    {
-      "added_at": "2026-02-06 16:15:18",
-      "album": {
-        "name": "previas.zip",
-        "url": "https://open.spotify.com/album/1Mp4qx0rzYoZHXmTX5ViS4"
-      },
-      "artists": [
-        {
-          "name": "Teto",
-          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
-        }
-      ],
-      "duration_ms": 177442,
-      "name": "Manha",
-      "url": "https://open.spotify.com/track/3ow7zYRhbIO7f4yyHI4ZaD"
     },
     {
       "added_at": "2026-02-06 16:15:18",
@@ -1243,26 +1243,6 @@
     {
       "added_at": "2026-02-06 16:15:18",
       "album": {
-        "name": "CAOS",
-        "url": "https://open.spotify.com/album/6fgLXQA1I40kOPXy8G4BK8"
-      },
-      "artists": [
-        {
-          "name": "Alee",
-          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
-        },
-        {
-          "name": "Klisman",
-          "url": "https://open.spotify.com/artist/1lpgPh5SV2b2aKmss0AhlY"
-        }
-      ],
-      "duration_ms": 140343,
-      "name": "ALPINISTA SOCIAL",
-      "url": "https://open.spotify.com/track/5SuhtRofSXwsvto7BXUk9z"
-    },
-    {
-      "added_at": "2026-02-06 16:15:18",
-      "album": {
         "name": "Nois \u00e9 Nois",
         "url": "https://open.spotify.com/album/42I7nPQNGF5TxZiP8Esk2X"
       },
@@ -1279,6 +1259,26 @@
       "duration_ms": 120000,
       "name": "Nois \u00e9 Nois",
       "url": "https://open.spotify.com/track/1k1egPmIPWQ0J44PWgMDwA"
+    },
+    {
+      "added_at": "2026-02-06 16:15:18",
+      "album": {
+        "name": "CAOS",
+        "url": "https://open.spotify.com/album/6fgLXQA1I40kOPXy8G4BK8"
+      },
+      "artists": [
+        {
+          "name": "Alee",
+          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
+        },
+        {
+          "name": "Klisman",
+          "url": "https://open.spotify.com/artist/1lpgPh5SV2b2aKmss0AhlY"
+        }
+      ],
+      "duration_ms": 140343,
+      "name": "ALPINISTA SOCIAL",
+      "url": "https://open.spotify.com/track/5SuhtRofSXwsvto7BXUk9z"
     },
     {
       "added_at": "2026-02-06 16:15:18",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2026-02-06 16:15:18",
       "album": {
-        "name": "carta aberta",
-        "url": "https://open.spotify.com/album/7yGXpufcJyZEZ5fcyv2NGq"
-      },
-      "artists": [
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        }
-      ],
-      "duration_ms": 262258,
-      "name": "carta aberta",
-      "url": "https://open.spotify.com/track/4VI4yOAb7fWrFCnuGBIaeG"
-    },
-    {
-      "added_at": "2026-02-06 16:15:18",
-      "album": {
         "name": "O Mais Novo Rom\u00e2ntico",
         "url": "https://open.spotify.com/album/6bUVIZIeTsNvW9QyWsaqYj"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 187680,
       "name": "Do Seu Lado",
       "url": "https://open.spotify.com/track/1a1CZOOOgsm1bGf0G92Zrn"
+    },
+    {
+      "added_at": "2026-02-06 16:15:18",
+      "album": {
+        "name": "carta aberta",
+        "url": "https://open.spotify.com/album/7yGXpufcJyZEZ5fcyv2NGq"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        }
+      ],
+      "duration_ms": 262258,
+      "name": "carta aberta",
+      "url": "https://open.spotify.com/track/4VI4yOAb7fWrFCnuGBIaeG"
     },
     {
       "added_at": "2026-02-06 16:15:18",
@@ -1575,6 +1575,38 @@
       "duration_ms": 157297,
       "name": "Queridinho Do Chefe",
       "url": "https://open.spotify.com/track/5VRt7meHLJRwvpejHbXJA4"
+    },
+    {
+      "added_at": "2026-02-06 16:15:18",
+      "album": {
+        "name": "O Cen\u00e1rio Certo para o Teatro Perfeito",
+        "url": "https://open.spotify.com/album/7wjzkS9hpvRHEadLHagk4D"
+      },
+      "artists": [
+        {
+          "name": "Danzo",
+          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
+        },
+        {
+          "name": "Labbel Rec",
+          "url": "https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX"
+        },
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "Bvga Beatz",
+          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
+        },
+        {
+          "name": "Toledo",
+          "url": "https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Desfile na Favela",
+      "url": "https://open.spotify.com/track/4ODMkKdMusKLAMWolKAchh"
     },
     {
       "added_at": "2026-02-06 16:15:18",
@@ -1631,58 +1663,6 @@
     {
       "added_at": "2026-02-06 16:15:18",
       "album": {
-        "name": "O Cen\u00e1rio Certo para o Teatro Perfeito",
-        "url": "https://open.spotify.com/album/7wjzkS9hpvRHEadLHagk4D"
-      },
-      "artists": [
-        {
-          "name": "Danzo",
-          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
-        },
-        {
-          "name": "Labbel Rec",
-          "url": "https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX"
-        },
-        {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
-        },
-        {
-          "name": "Bvga Beatz",
-          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
-        },
-        {
-          "name": "Toledo",
-          "url": "https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Desfile na Favela",
-      "url": "https://open.spotify.com/track/4ODMkKdMusKLAMWolKAchh"
-    },
-    {
-      "added_at": "2026-02-06 16:15:18",
-      "album": {
-        "name": "Brutas Amam, Choram e Sentem Raiva",
-        "url": "https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj"
-      },
-      "artists": [
-        {
-          "name": "AJULLIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "MAT",
-          "url": "https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Queen Chavosa",
-      "url": "https://open.spotify.com/track/1qDfZrxU4JFbJpb6u4ojCQ"
-    },
-    {
-      "added_at": "2026-02-06 16:15:18",
-      "album": {
         "name": "Perdas & Ganhos",
         "url": "https://open.spotify.com/album/3qwvyGMmybAvkvyIKhlGwB"
       },
@@ -1711,6 +1691,42 @@
       "duration_ms": 178407,
       "name": "2023",
       "url": "https://open.spotify.com/track/4sfY9Q4rQKVwxQVKo6v04i"
+    },
+    {
+      "added_at": "2026-02-06 16:15:18",
+      "album": {
+        "name": "zumzumzum",
+        "url": "https://open.spotify.com/album/11NxigNYgrmmNMBXcqjJyx"
+      },
+      "artists": [
+        {
+          "name": "Teto",
+          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "zumzumzum",
+      "url": "https://open.spotify.com/track/6cRyy0XvzIdbSNzjYAOoFf"
+    },
+    {
+      "added_at": "2026-02-06 16:15:18",
+      "album": {
+        "name": "Brutas Amam, Choram e Sentem Raiva",
+        "url": "https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj"
+      },
+      "artists": [
+        {
+          "name": "AJULLIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "MAT",
+          "url": "https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Queen Chavosa",
+      "url": "https://open.spotify.com/track/1qDfZrxU4JFbJpb6u4ojCQ"
     },
     {
       "added_at": "2026-02-06 16:15:18",
@@ -1751,22 +1767,6 @@
     {
       "added_at": "2026-02-06 16:15:18",
       "album": {
-        "name": "zumzumzum",
-        "url": "https://open.spotify.com/album/11NxigNYgrmmNMBXcqjJyx"
-      },
-      "artists": [
-        {
-          "name": "Teto",
-          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "zumzumzum",
-      "url": "https://open.spotify.com/track/6cRyy0XvzIdbSNzjYAOoFf"
-    },
-    {
-      "added_at": "2026-02-06 16:15:18",
-      "album": {
         "name": "Embalo",
         "url": "https://open.spotify.com/album/7gcHlsouDpaTaP1t03ajdj"
       },
@@ -1791,30 +1791,6 @@
     {
       "added_at": "2026-02-06 16:15:18",
       "album": {
-        "name": "Trap The Fato Deluxe",
-        "url": "https://open.spotify.com/album/0un91YASLvkBJCWKdCPj4t"
-      },
-      "artists": [
-        {
-          "name": "Derek",
-          "url": "https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td"
-        },
-        {
-          "name": "Emit\u00ea \u00danico",
-          "url": "https://open.spotify.com/artist/4z8ieq95PTFrqoxYhozY75"
-        },
-        {
-          "name": "Senndy",
-          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
-        }
-      ],
-      "duration_ms": 180923,
-      "name": "7 NOVINHA PRA 2 MLK - BONUS TRACK",
-      "url": "https://open.spotify.com/track/53d5THIukxStMHSJrGOOvu"
-    },
-    {
-      "added_at": "2026-02-06 16:15:18",
-      "album": {
         "name": "Dior",
         "url": "https://open.spotify.com/album/79fVjt1Csv8t5s2XqN2xqN"
       },
@@ -1835,6 +1811,34 @@
       "duration_ms": 134634,
       "name": "Dior",
       "url": "https://open.spotify.com/track/5wtUQY9UnGkbRlVYxGppry"
+    },
+    {
+      "added_at": "2026-02-06 16:15:18",
+      "album": {
+        "name": "Amor e \u00d3dio",
+        "url": "https://open.spotify.com/album/4XjGW9ICzbGHxtWeI7dUAt"
+      },
+      "artists": [
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+        },
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "TkN",
+          "url": "https://open.spotify.com/artist/3SB4jbHhsv6NQTh7ZT5GzS"
+        },
+        {
+          "name": "Mindu",
+          "url": "https://open.spotify.com/artist/3shZdnoMWegcOdZUPuMXhB"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Lenda",
+      "url": "https://open.spotify.com/track/6XSTDJMW7yUr4Zuzyr4Ht6"
     },
     {
       "added_at": "2026-02-06 16:15:18",
@@ -1867,82 +1871,26 @@
     {
       "added_at": "2026-02-06 16:15:18",
       "album": {
-        "name": "Franco, The Sir! On The Radar Freestyle",
-        "url": "https://open.spotify.com/album/1n1VqHx9HS0ty0QnbhXBv4"
+        "name": "Trap The Fato Deluxe",
+        "url": "https://open.spotify.com/album/0un91YASLvkBJCWKdCPj4t"
       },
       "artists": [
         {
-          "name": "On The Radar",
-          "url": "https://open.spotify.com/artist/24dIBlB22aVJyMNmLSEVZz"
-        },
-        {
-          "name": "Franco, The Sir!",
-          "url": "https://open.spotify.com/artist/2dSdEXb846NGEN95MkLTYU"
-        }
-      ],
-      "duration_ms": 126433,
-      "name": "Franco, The Sir! On The Radar Freestyle",
-      "url": "https://open.spotify.com/track/28XT01pAGWnQTJrrGXcJh5"
-    },
-    {
-      "added_at": "2026-02-06 16:15:18",
-      "album": {
-        "name": "ESQV",
-        "url": "https://open.spotify.com/album/7gbBD8I0aWWzngQm5P4g7i"
-      },
-      "artists": [
-        {
-          "name": "Ryu, The Runner",
-          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
+          "name": "Derek",
+          "url": "https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td"
         },
         {
           "name": "Emit\u00ea \u00danico",
           "url": "https://open.spotify.com/artist/4z8ieq95PTFrqoxYhozY75"
         },
         {
-          "name": "6ee",
-          "url": "https://open.spotify.com/artist/44sYX4gwGmUZBnNT2AZTPW"
+          "name": "Senndy",
+          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
         }
       ],
-      "duration_ms": 144533,
-      "name": "ESQV",
-      "url": "https://open.spotify.com/track/5KnGDIGzxFCZz87q7nkDds"
-    },
-    {
-      "added_at": "2026-02-06 16:15:18",
-      "album": {
-        "name": "THE BOX MEDLEY 8",
-        "url": "https://open.spotify.com/album/76uk8PJEw73A8ElxrSCqFk"
-      },
-      "artists": [
-        {
-          "name": "THE BOX",
-          "url": "https://open.spotify.com/artist/7gHzR22tDNSWGS4HkvvPgw"
-        },
-        {
-          "name": "Salvador Da Rima",
-          "url": "https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV"
-        },
-        {
-          "name": "Borges",
-          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
-        },
-        {
-          "name": "Dudu",
-          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
-        },
-        {
-          "name": "MC Igu",
-          "url": "https://open.spotify.com/artist/5K854sjdzabwOy9KltU3Po"
-        },
-        {
-          "name": "Ecologyk",
-          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
-        }
-      ],
-      "duration_ms": 293337,
-      "name": "THE BOX MEDLEY 8",
-      "url": "https://open.spotify.com/track/6isHalUdU4dVvJrSa7bfKK"
+      "duration_ms": 180923,
+      "name": "7 NOVINHA PRA 2 MLK - BONUS TRACK",
+      "url": "https://open.spotify.com/track/53d5THIukxStMHSJrGOOvu"
     },
     {
       "added_at": "2026-02-06 16:15:18",
@@ -1983,30 +1931,82 @@
     {
       "added_at": "2026-02-06 16:15:18",
       "album": {
-        "name": "Amor e \u00d3dio",
-        "url": "https://open.spotify.com/album/4XjGW9ICzbGHxtWeI7dUAt"
+        "name": "Franco, The Sir! On The Radar Freestyle",
+        "url": "https://open.spotify.com/album/1n1VqHx9HS0ty0QnbhXBv4"
       },
       "artists": [
+        {
+          "name": "On The Radar",
+          "url": "https://open.spotify.com/artist/24dIBlB22aVJyMNmLSEVZz"
+        },
+        {
+          "name": "Franco, The Sir!",
+          "url": "https://open.spotify.com/artist/2dSdEXb846NGEN95MkLTYU"
+        }
+      ],
+      "duration_ms": 126433,
+      "name": "Franco, The Sir! On The Radar Freestyle",
+      "url": "https://open.spotify.com/track/28XT01pAGWnQTJrrGXcJh5"
+    },
+    {
+      "added_at": "2026-02-06 16:15:18",
+      "album": {
+        "name": "THE BOX MEDLEY 8",
+        "url": "https://open.spotify.com/album/76uk8PJEw73A8ElxrSCqFk"
+      },
+      "artists": [
+        {
+          "name": "THE BOX",
+          "url": "https://open.spotify.com/artist/7gHzR22tDNSWGS4HkvvPgw"
+        },
+        {
+          "name": "Salvador Da Rima",
+          "url": "https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV"
+        },
         {
           "name": "Borges",
           "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
         },
         {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+          "name": "Dudu",
+          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
         },
         {
-          "name": "TkN",
-          "url": "https://open.spotify.com/artist/3SB4jbHhsv6NQTh7ZT5GzS"
+          "name": "MC Igu",
+          "url": "https://open.spotify.com/artist/5K854sjdzabwOy9KltU3Po"
         },
         {
-          "name": "Mindu",
-          "url": "https://open.spotify.com/artist/3shZdnoMWegcOdZUPuMXhB"
+          "name": "Ecologyk",
+          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Lenda",
-      "url": "https://open.spotify.com/track/6XSTDJMW7yUr4Zuzyr4Ht6"
+      "duration_ms": 293337,
+      "name": "THE BOX MEDLEY 8",
+      "url": "https://open.spotify.com/track/6isHalUdU4dVvJrSa7bfKK"
+    },
+    {
+      "added_at": "2026-02-06 16:15:18",
+      "album": {
+        "name": "ESQV",
+        "url": "https://open.spotify.com/album/7gbBD8I0aWWzngQm5P4g7i"
+      },
+      "artists": [
+        {
+          "name": "Ryu, The Runner",
+          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
+        },
+        {
+          "name": "Emit\u00ea \u00danico",
+          "url": "https://open.spotify.com/artist/4z8ieq95PTFrqoxYhozY75"
+        },
+        {
+          "name": "6ee",
+          "url": "https://open.spotify.com/artist/44sYX4gwGmUZBnNT2AZTPW"
+        }
+      ],
+      "duration_ms": 144533,
+      "name": "ESQV",
+      "url": "https://open.spotify.com/track/5KnGDIGzxFCZz87q7nkDds"
     },
     {
       "added_at": "2026-02-06 16:15:18",
@@ -2051,6 +2051,34 @@
     {
       "added_at": "2026-02-06 16:15:18",
       "album": {
+        "name": "FNB>BKB",
+        "url": "https://open.spotify.com/album/6Y6PHaGPDkAYVuOxGfISi0"
+      },
+      "artists": [
+        {
+          "name": "Japa",
+          "url": "https://open.spotify.com/artist/3455RNeKZ9giouA4pde2qA"
+        },
+        {
+          "name": "Ryu, The Runner",
+          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
+        },
+        {
+          "name": "Neckklace",
+          "url": "https://open.spotify.com/artist/3914e1ewXuF036M63rgK0d"
+        },
+        {
+          "name": "Lucchini",
+          "url": "https://open.spotify.com/artist/2w2YbWSulMlPaCCSjNmMBR"
+        }
+      ],
+      "duration_ms": 168196,
+      "name": "FNB",
+      "url": "https://open.spotify.com/track/5JX23868UTT3DBgj7i5yrK"
+    },
+    {
+      "added_at": "2026-02-06 16:15:18",
+      "album": {
         "name": "THE BOX MEDLEY 5",
         "url": "https://open.spotify.com/album/6qqxoTPnsQM5yHapA7WF6u"
       },
@@ -2079,34 +2107,6 @@
       "duration_ms": 189658,
       "name": "THE BOX MEDLEY 5",
       "url": "https://open.spotify.com/track/35djHlD5VERjzdKzFknuUs"
-    },
-    {
-      "added_at": "2026-02-06 16:15:18",
-      "album": {
-        "name": "FNB>BKB",
-        "url": "https://open.spotify.com/album/6Y6PHaGPDkAYVuOxGfISi0"
-      },
-      "artists": [
-        {
-          "name": "Japa",
-          "url": "https://open.spotify.com/artist/3455RNeKZ9giouA4pde2qA"
-        },
-        {
-          "name": "Ryu, The Runner",
-          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
-        },
-        {
-          "name": "Neckklace",
-          "url": "https://open.spotify.com/artist/3914e1ewXuF036M63rgK0d"
-        },
-        {
-          "name": "Lucchini",
-          "url": "https://open.spotify.com/artist/2w2YbWSulMlPaCCSjNmMBR"
-        }
-      ],
-      "duration_ms": 168196,
-      "name": "FNB",
-      "url": "https://open.spotify.com/track/5JX23868UTT3DBgj7i5yrK"
     },
     {
       "added_at": "2026-02-06 16:15:18",
@@ -2143,6 +2143,70 @@
     {
       "added_at": "2026-02-06 16:15:18",
       "album": {
+        "name": "Viz\u00e3o de Cria 3",
+        "url": "https://open.spotify.com/album/1g1yMCBXSznyHPyf2YAK0l"
+      },
+      "artists": [
+        {
+          "name": "Caio Luccas",
+          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
+        },
+        {
+          "name": "PJ HOUDINI",
+          "url": "https://open.spotify.com/artist/3nfVTPYDnppERKGCRS4vim"
+        },
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Anezzi",
+          "url": "https://open.spotify.com/artist/1RaUlYy9nsEiDlucisa5Bk"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+        },
+        {
+          "name": "MC Maneirinho",
+          "url": "https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        }
+      ],
+      "duration_ms": 324413,
+      "name": "Viz\u00e3o de Cria 3",
+      "url": "https://open.spotify.com/track/7BE8gYIIFPJsx3EjXk77yT"
+    },
+    {
+      "added_at": "2026-02-06 16:15:18",
+      "album": {
+        "name": "808 CLUB",
+        "url": "https://open.spotify.com/album/155txpbYywt6aLgZIQSAwq"
+      },
+      "artists": [
+        {
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+        }
+      ],
+      "duration_ms": 196800,
+      "name": "MUNDO DO WIU",
+      "url": "https://open.spotify.com/track/2M5dL30uouNRi8kwhI5QRD"
+    },
+    {
+      "added_at": "2026-02-06 16:15:18",
+      "album": {
         "name": "Empate T\u00e9cnico",
         "url": "https://open.spotify.com/album/60PEgr3BmEjcGvM7u7cDF8"
       },
@@ -2163,22 +2227,6 @@
       "duration_ms": 188601,
       "name": "A Comitiva",
       "url": "https://open.spotify.com/track/4rqdcTkE0cVq2Xilp5wqeX"
-    },
-    {
-      "added_at": "2026-02-06 16:15:18",
-      "album": {
-        "name": "808 CLUB",
-        "url": "https://open.spotify.com/album/155txpbYywt6aLgZIQSAwq"
-      },
-      "artists": [
-        {
-          "name": "WIU",
-          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
-        }
-      ],
-      "duration_ms": 196800,
-      "name": "MUNDO DO WIU",
-      "url": "https://open.spotify.com/track/2M5dL30uouNRi8kwhI5QRD"
     },
     {
       "added_at": "2026-02-06 16:15:18",
@@ -2235,54 +2283,6 @@
     {
       "added_at": "2026-02-06 16:15:18",
       "album": {
-        "name": "Viz\u00e3o de Cria 3",
-        "url": "https://open.spotify.com/album/1g1yMCBXSznyHPyf2YAK0l"
-      },
-      "artists": [
-        {
-          "name": "Caio Luccas",
-          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
-        },
-        {
-          "name": "PJ HOUDINI",
-          "url": "https://open.spotify.com/artist/3nfVTPYDnppERKGCRS4vim"
-        },
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "Anezzi",
-          "url": "https://open.spotify.com/artist/1RaUlYy9nsEiDlucisa5Bk"
-        },
-        {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
-        },
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        },
-        {
-          "name": "NADAMAL",
-          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
-        },
-        {
-          "name": "MC Maneirinho",
-          "url": "https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ"
-        },
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        }
-      ],
-      "duration_ms": 324413,
-      "name": "Viz\u00e3o de Cria 3",
-      "url": "https://open.spotify.com/track/7BE8gYIIFPJsx3EjXk77yT"
-    },
-    {
-      "added_at": "2026-02-06 16:15:18",
-      "album": {
         "name": "PRA SEMPRE NO MESMO BAIRRO",
         "url": "https://open.spotify.com/album/5Cc1z7x5KA1eo20fmWG4Zi"
       },
@@ -2303,74 +2303,6 @@
       "duration_ms": 185806,
       "name": "Tudo Passa",
       "url": "https://open.spotify.com/track/5rjrAYHovnVBJ9pfJU3FsA"
-    },
-    {
-      "added_at": "2026-02-06 16:15:18",
-      "album": {
-        "name": "Sexto Sentido",
-        "url": "https://open.spotify.com/album/00nkUxwRwjX0eXCGvUafEf"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Prod Malax",
-          "url": "https://open.spotify.com/artist/5X5jKBLJ88Ji6tzwfL0g4c"
-        },
-        {
-          "name": "Bvga Beatz",
-          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
-        }
-      ],
-      "duration_ms": 127500,
-      "name": "Rotina 2",
-      "url": "https://open.spotify.com/track/0c5V12H7qQwmtjvMY9zxOY"
-    },
-    {
-      "added_at": "2026-02-06 16:15:18",
-      "album": {
-        "name": "Turma da Duq",
-        "url": "https://open.spotify.com/album/2ScZ4RsKsuQ0mgYObUuHMb"
-      },
-      "artists": [
-        {
-          "name": "Duquesa",
-          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
-        },
-        {
-          "name": "Go Dassisti",
-          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
-        }
-      ],
-      "duration_ms": 143202,
-      "name": "Turma da Duq",
-      "url": "https://open.spotify.com/track/7EUPOI7uEQU7AxKRtoZs3g"
-    },
-    {
-      "added_at": "2026-02-06 16:15:18",
-      "album": {
-        "name": "Mas Existe um Lugar",
-        "url": "https://open.spotify.com/album/7yndifwpVcv6LAZ2FVwoso"
-      },
-      "artists": [
-        {
-          "name": "Cryzin",
-          "url": "https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH"
-        },
-        {
-          "name": "Kaio Viana",
-          "url": "https://open.spotify.com/artist/2XGuDrQEuJXo3FfBQMeUn4"
-        },
-        {
-          "name": "Noemi Leal",
-          "url": "https://open.spotify.com/artist/15elHVyIMS1aobjNNJXcvK"
-        }
-      ],
-      "duration_ms": 183652,
-      "name": "Mas Existe um Lugar",
-      "url": "https://open.spotify.com/track/7IN41XfDoGETfFsARAHOsv"
     },
     {
       "added_at": "2026-02-06 16:15:18",
@@ -2411,6 +2343,74 @@
       "duration_ms": 232195,
       "name": "Close Friends",
       "url": "https://open.spotify.com/track/4v6TGGmgoJC3P2gqToqJLr"
+    },
+    {
+      "added_at": "2026-02-06 16:15:18",
+      "album": {
+        "name": "Sexto Sentido",
+        "url": "https://open.spotify.com/album/00nkUxwRwjX0eXCGvUafEf"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Prod Malax",
+          "url": "https://open.spotify.com/artist/5X5jKBLJ88Ji6tzwfL0g4c"
+        },
+        {
+          "name": "Bvga Beatz",
+          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
+        }
+      ],
+      "duration_ms": 127500,
+      "name": "Rotina 2",
+      "url": "https://open.spotify.com/track/0c5V12H7qQwmtjvMY9zxOY"
+    },
+    {
+      "added_at": "2026-02-06 16:15:18",
+      "album": {
+        "name": "Mas Existe um Lugar",
+        "url": "https://open.spotify.com/album/7yndifwpVcv6LAZ2FVwoso"
+      },
+      "artists": [
+        {
+          "name": "Cryzin",
+          "url": "https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH"
+        },
+        {
+          "name": "Kaio Viana",
+          "url": "https://open.spotify.com/artist/2XGuDrQEuJXo3FfBQMeUn4"
+        },
+        {
+          "name": "Noemi Leal",
+          "url": "https://open.spotify.com/artist/15elHVyIMS1aobjNNJXcvK"
+        }
+      ],
+      "duration_ms": 183652,
+      "name": "Mas Existe um Lugar",
+      "url": "https://open.spotify.com/track/7IN41XfDoGETfFsARAHOsv"
+    },
+    {
+      "added_at": "2026-02-06 16:15:18",
+      "album": {
+        "name": "Turma da Duq",
+        "url": "https://open.spotify.com/album/2ScZ4RsKsuQ0mgYObUuHMb"
+      },
+      "artists": [
+        {
+          "name": "Duquesa",
+          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
+        },
+        {
+          "name": "Go Dassisti",
+          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
+        }
+      ],
+      "duration_ms": 143202,
+      "name": "Turma da Duq",
+      "url": "https://open.spotify.com/track/7EUPOI7uEQU7AxKRtoZs3g"
     },
     {
       "added_at": "2026-02-06 16:15:18",
@@ -2479,6 +2479,42 @@
     {
       "added_at": "2026-02-06 16:15:18",
       "album": {
+        "name": "2 L3Trinha",
+        "url": "https://open.spotify.com/album/4cbEBTjZqyqvjADtg2mgBN"
+      },
+      "artists": [
+        {
+          "name": "LH CHUCRO",
+          "url": "https://open.spotify.com/artist/3Im4m6K9QvxFBUJIOttSuH"
+        },
+        {
+          "name": "prodmelo!",
+          "url": "https://open.spotify.com/artist/2g6DsXyUDFSxE6ld7WzAFZ"
+        }
+      ],
+      "duration_ms": 130671,
+      "name": "Pepp@ 2",
+      "url": "https://open.spotify.com/track/4Yrs6DDP7GRTZIj9oJ4SPS"
+    },
+    {
+      "added_at": "2026-02-06 16:15:18",
+      "album": {
+        "name": "Nada \u00c9 do Nada",
+        "url": "https://open.spotify.com/album/3h0IJlTyH9xxnyrmYVhbDL"
+      },
+      "artists": [
+        {
+          "name": "ZackZin",
+          "url": "https://open.spotify.com/artist/6lrWmdRj2k37Hc5ugFNygs"
+        }
+      ],
+      "duration_ms": 115801,
+      "name": "Ref!",
+      "url": "https://open.spotify.com/track/7aPfhw5HVcha8xa4pQKRx6"
+    },
+    {
+      "added_at": "2026-02-06 16:15:18",
+      "album": {
         "name": "Reuni\u00e3o De Matuto",
         "url": "https://open.spotify.com/album/2mHoPItlzud0E3NKyp4Uli"
       },
@@ -2503,62 +2539,26 @@
     {
       "added_at": "2026-02-06 16:15:18",
       "album": {
-        "name": "Nada \u00c9 do Nada",
-        "url": "https://open.spotify.com/album/3h0IJlTyH9xxnyrmYVhbDL"
+        "name": "Tropa do Flamengo",
+        "url": "https://open.spotify.com/album/4oxAkEOGF9T1efL7LTqRkd"
       },
       "artists": [
         {
-          "name": "ZackZin",
-          "url": "https://open.spotify.com/artist/6lrWmdRj2k37Hc5ugFNygs"
-        }
-      ],
-      "duration_ms": 115801,
-      "name": "Ref!",
-      "url": "https://open.spotify.com/track/7aPfhw5HVcha8xa4pQKRx6"
-    },
-    {
-      "added_at": "2026-02-06 16:15:18",
-      "album": {
-        "name": "HIGH LIFE (feat. Teto & Ryu, the Runner)",
-        "url": "https://open.spotify.com/album/7j1IKPLbtTnGEavaqfShHt"
-      },
-      "artists": [
-        {
-          "name": "Mizzy Miles",
-          "url": "https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I"
+          "name": "Chefin",
+          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
         },
         {
-          "name": "Teto",
-          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
         },
         {
-          "name": "Ryu, The Runner",
-          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
+          "name": "LB \u00danico",
+          "url": "https://open.spotify.com/artist/7w1eimo0NMZhuwNZTf4MHY"
         }
       ],
-      "duration_ms": 192000,
-      "name": "HIGH LIFE (feat. Teto & Ryu, the Runner)",
-      "url": "https://open.spotify.com/track/5PBsyWagJYlO0OIfcGBLQH"
-    },
-    {
-      "added_at": "2026-02-06 16:15:18",
-      "album": {
-        "name": "2 L3Trinha",
-        "url": "https://open.spotify.com/album/4cbEBTjZqyqvjADtg2mgBN"
-      },
-      "artists": [
-        {
-          "name": "LH CHUCRO",
-          "url": "https://open.spotify.com/artist/3Im4m6K9QvxFBUJIOttSuH"
-        },
-        {
-          "name": "prodmelo!",
-          "url": "https://open.spotify.com/artist/2g6DsXyUDFSxE6ld7WzAFZ"
-        }
-      ],
-      "duration_ms": 130671,
-      "name": "Pepp@ 2",
-      "url": "https://open.spotify.com/track/4Yrs6DDP7GRTZIj9oJ4SPS"
+      "duration_ms": 161136,
+      "name": "Tropa do Flamengo",
+      "url": "https://open.spotify.com/track/6hSs4NAiWub47nULLBtUj1"
     }
   ],
   "unique_name": "Trap Classe",

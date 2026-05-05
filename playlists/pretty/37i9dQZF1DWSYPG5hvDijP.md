@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 
 > Naya Hip\-Hop Hindi! Cover: Karma
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,775 likes - 75 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,791 likes - 75 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 | 16 | [Without You](https://open.spotify.com/track/5CA8YseM0TqBLYsEuywyt1) | [Aniket Langer](https://open.spotify.com/artist/7fAWCAlo9XtnTDacXEH7ym) | [Without You](https://open.spotify.com/album/3TlfTVmQnOVK5FOZStUzD3) | 3:16 |
 | 17 | [Kendrick Kumar](https://open.spotify.com/track/7KBQV4wjvPfgrAdxwwxtEc) | [Y2G](https://open.spotify.com/artist/256yoxp9hzlq7KpFAWH43X), [TEDD](https://open.spotify.com/artist/53xSTy4zJgZLaP4OR5kzCQ) | [Kendrick Kumar](https://open.spotify.com/album/76TVPS5KMjj26yUOMkVogE) | 2:14 |
 | 18 | [Katega Katega](https://open.spotify.com/track/1N1POYS4gc5djPt2YyPxIx) | [Nkul](https://open.spotify.com/artist/2W0o1iGV78AA1qrw7ZoEE9) | [Katega Katega](https://open.spotify.com/album/6KwlWe67XpI7Zo3MMuGPgK) | 2:23 |
-| 19 | [Headshot](https://open.spotify.com/track/2jlfjfq0WKMuebVGPVb3cj) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU), [Mahlan Wala 59](https://open.spotify.com/artist/6AONermxpKHYKrOPPAI5gS), [Utkarsh Singh](https://open.spotify.com/artist/6oij0m7xOVP5DUCsJdFMa1) | [Lukkhe \(Original Series Soundtrack\)](https://open.spotify.com/album/7MwKD3kEFMov4LQqyhnmzL) | 3:10 |
+| 19 | [Headshot](https://open.spotify.com/track/2jlfjfq0WKMuebVGPVb3cj) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU), [Mahlan Wala 59](https://open.spotify.com/artist/6AONermxpKHYKrOPPAI5gS), [UKato](https://open.spotify.com/artist/3Ab5cmMFplOMvYwWOaMWUI) | [Lukkhe \(Original Series Soundtrack\)](https://open.spotify.com/album/7MwKD3kEFMov4LQqyhnmzL) | 3:10 |
 | 20 | [Never Again](https://open.spotify.com/track/75attVB5RrvhBRSomTxsgg) | [Ether](https://open.spotify.com/artist/2v8ceY9zTEnoxbliA6qiic) | [Above The Noise](https://open.spotify.com/album/4FvIKvrZEExx24hZzTm9MC) | 2:26 |
 | 21 | [Hope](https://open.spotify.com/track/30eRDY8dZvxo2XK24i2hBu) | [KALAM INK](https://open.spotify.com/artist/6VbH1XK4t6KE5s3k85MTBd), [CJ CHIRAG](https://open.spotify.com/artist/5FcuZLglRfOZQMF0tDPxDV) | [I.S.H.A THE LAST MIXTAPE](https://open.spotify.com/album/1adIaolxHLmB4ZseJAs0Jo) | 2:56 |
 | 22 | [Escape](https://open.spotify.com/track/73BjJ8OHds1mR7Qc3N2gxc) | [KARYAWAAHI](https://open.spotify.com/artist/0jCViUzxha1IPd2ckwJKLs), [Insane Muzik](https://open.spotify.com/artist/3i0fKusLUkw5dq9ypNQMzq) | [Escape](https://open.spotify.com/album/0t1B2luW33tTcicMUhrYLt) | 2:48 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-14",
-  "description": "Turn this playlist all the way up! Featuring, Blxst &amp; Big Sad 1900, Money Man &amp; more.",
+  "description": "Turn this playlist all the way up! Featuring, Asake, LUCKI &amp; more.",
   "name": "All The Way Up",
   "tracks": [
     {
@@ -1793,6 +1793,24 @@
     },
     {
       "album": {
+        "name": "M$NEY",
+        "url": "https://open.spotify.com/album/07iqzVICrgPFOpXem6MEpU"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158569,
+      "name": "Forgiveness",
+      "url": "https://open.spotify.com/track/5u4rozuOBse9MgrAzGspQy"
+    },
+    {
+      "album": {
         "name": "Free Mr. Banks",
         "url": "https://open.spotify.com/album/0hSUTpnHqOgP8hy7XKBPyg"
       },
@@ -1914,6 +1932,24 @@
       "duration_ms": 129160,
       "name": "Gangsta Lean",
       "url": "https://open.spotify.com/track/0EFY0o5DqcD8n7JKDtfgf9"
+    },
+    {
+      "album": {
+        "name": "Most Hated 2",
+        "url": "https://open.spotify.com/album/6xQrmsJcsLLZnPfYErWuKW"
+      },
+      "artists": [
+        {
+          "name": "Fredo Bang",
+          "url": "https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173493,
+      "name": "Gates Flow 2 (She Don't Wanna)",
+      "url": "https://open.spotify.com/track/7DxOo87U0J785h5cWEEZ5z"
     },
     {
       "album": {
@@ -3767,6 +3803,28 @@
     },
     {
       "album": {
+        "name": "DaysB4Bad*",
+        "url": "https://open.spotify.com/album/34O3GmCvXd2Ozttd7SHqKj"
+      },
+      "artists": [
+        {
+          "name": "LUCKI",
+          "url": "https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253545,
+      "name": "Sex Mula / Pete",
+      "url": "https://open.spotify.com/track/3GYHuDB41dr237iGsj6jQ8"
+    },
+    {
+      "album": {
         "name": "Sexiest Soul",
         "url": "https://open.spotify.com/album/72jsSqGStDlREVxc5DT9nd"
       },
@@ -4776,6 +4834,28 @@
       "duration_ms": 230591,
       "name": "Won't Be Lonely",
       "url": "https://open.spotify.com/track/1IV5X8CiOr1dfbQcmP2AWO"
+    },
+    {
+      "album": {
+        "name": "M$NEY",
+        "url": "https://open.spotify.com/album/07iqzVICrgPFOpXem6MEpU"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        },
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163055,
+      "name": "WORSHIP",
+      "url": "https://open.spotify.com/track/20KiwQQUDsuzAC8AZQJq26"
     },
     {
       "album": {

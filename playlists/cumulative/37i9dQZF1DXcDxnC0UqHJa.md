@@ -4,7 +4,7 @@
 
 > Folksy takes on your favorite tracks\. Cover: The Brudi Brothers
 
-305 songs - 19 hr 25 min
+306 songs - 19 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,7 +138,7 @@
 | [Higher Love](https://open.spotify.com/track/3rocTBn0NsGrVAHGOZNzH5) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [We Don't Eat EP](https://open.spotify.com/album/0wk8Gzx0HhV71P4IpYFsEy) | 3:34 | 2022-06-03 | 2024-03-01 |
 | [Higher Love](https://open.spotify.com/track/35dMUmp6Jh3AE9IaqM0Osn) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [We Don't Eat](https://open.spotify.com/album/0F9QZJSssWELg5ZTJp1NQy) | 3:35 | 2022-01-21 |  |
 | [Hit 'Em up Style](https://open.spotify.com/track/4Cfn1AAAAUJC9cI4AwGAld) | [Carolina Chocolate Drops](https://open.spotify.com/artist/6H8Sj9gFyDYJ3T63LA3DKz) | [Genuine Negro Jig](https://open.spotify.com/album/7gXh0cuAlgJhr9sr3bi3l9) | 3:57 | 2021-12-13 |  |
-| [Hot Knife](https://open.spotify.com/track/4R4Ly8fyz89vGLr8dWfblY) | [Mountain Man](https://open.spotify.com/artist/5kmPNusdo1mCTyz4u1uEGm) | [Sings Fiona Apple](https://open.spotify.com/album/5vktfCTcDjO8o7fpQCUISC) | 2:23 | 2021-12-13 |  |
+| [Hot Knife](https://open.spotify.com/track/4R4Ly8fyz89vGLr8dWfblY) | [Mountain Man](https://open.spotify.com/artist/5kmPNusdo1mCTyz4u1uEGm) | [Sings Fiona Apple](https://open.spotify.com/album/5vktfCTcDjO8o7fpQCUISC) | 2:23 | 2021-12-13 | 2026-05-05 |
 | [House Of The Rising Sun \- Live in Denver](https://open.spotify.com/track/6r6lV2hf0QE27BpJ5Pm6Vq) | [The Brudi Brothers](https://open.spotify.com/artist/7pOVIu213yYI9X7Ylfyh2K) | [House Of The Rising Sun \(Live in Denver\)](https://open.spotify.com/album/6MmI1NpknaKeMhOsYBqB9r) | 6:00 | 2025-08-22 |  |
 | [How I Long for Peace](https://open.spotify.com/track/1c1GPJWgvwyrBk7sT7vio9) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM), [Resistance Revival Chorus](https://open.spotify.com/artist/5GAZngXqtUrssaaExOGeT1), [Crys Matthews](https://open.spotify.com/artist/4amdI0ryPLlEzWrxW7B2RC) | [How I Long for Peace](https://open.spotify.com/album/5Fc5PKHmDK4OMxjgHFvToG) | 4:30 | 2024-09-20 |  |
 | [How Sweet It Is](https://open.spotify.com/track/69BNeK0GK76eo8qgIOw8AH) | [Julia Stone](https://open.spotify.com/artist/4gZRt9wlRx1IsxT9glJdrc) | [Justine](https://open.spotify.com/album/51gyYFmyu4KL0y6kxPiHrX) | 3:21 | 2022-06-03 | 2023-01-14 |
@@ -203,6 +203,7 @@
 | [my future](https://open.spotify.com/track/3c7TKVVuRrsem9PdJM0D0L) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [I Still Haven't Found What I'm Looking For / my future](https://open.spotify.com/album/1mgj4CyzzcC05pQQGoPzLN) | 3:11 | 2021-12-13 |  |
 | [My Happiness \(feat\. Fiona Prine\)](https://open.spotify.com/track/0IxA2nFzbC3yvUKcDTcyqM) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT), [Fiona Prine](https://open.spotify.com/artist/56guN2NYtFiK7bhRdDAzvI) | [For Better, Or Worse](https://open.spotify.com/album/1bf1EYVB9GkgDkbGTrSiyT) | 2:55 | 2021-12-13 | 2024-11-15 |
 | [My Life in Art](https://open.spotify.com/track/3x122zrezspip9MUfAz2se) | [Squirrel Flower](https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni), [Babehoven](https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70) | [My Life in Art](https://open.spotify.com/album/3v68k1YXxKESVaoeymU8AR) | 5:08 | 2025-11-21 |  |
+| [Naked As We Came](https://open.spotify.com/track/3Q5khrOntaziWweKNWAD0U) | [Lydia Luce](https://open.spotify.com/artist/5e1SaJPn6U7YpOrNTkW1jH) | [Naked As We Came](https://open.spotify.com/album/6TOmX9ZjT6KAKc8plvN5SF) | 2:30 | 2026-05-01 |  |
 | [Nebraska \- Acoustic](https://open.spotify.com/track/0gEOycr5Mb2WJaqZwcIyjn) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Nebraska \(Acoustic\)](https://open.spotify.com/album/7my4IbcOeSYbTrd0UYyKps) | 3:48 | 2021-12-13 | 2022-07-29 |
 | [Nebraska \- Acoustic](https://open.spotify.com/track/35rs6w32FH0qie0kLfdtla) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [In the Magic Hour Solo Sessions](https://open.spotify.com/album/3cTvxUix8USFUfjiyre6B4) | 3:48 | 2022-06-03 | 2023-04-30 |
 | [Nebraska \- Acoustic](https://open.spotify.com/track/5H3hNv8kLr15zQxFUiuIqT) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [In the Magic Hour Solo Sessions](https://open.spotify.com/album/1XxOQRUB7eOOQWryZM3YZM) | 3:48 | 2023-05-05 | 2024-04-19 |

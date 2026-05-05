@@ -1,12 +1,12 @@
 {
   "description": "This is Deep Purple. The essential tracks, all in one playlist.",
-  "num_followers": 302459,
+  "num_followers": 302479,
   "original_name": "This Is Deep Purple",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afU+gAAAAAD9zzNupuYxRY5PYxUrqyo6",
+  "snapshot_id": "afaQAAAAAAA+faKZa440iVLY7AudXOgf",
   "tracks": [
     {
       "added_at": null,
@@ -59,22 +59,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Machine Head - 25th Anniversary Edition",
-        "url": "https://open.spotify.com/album/3XXboc1gvm976jCATDdunA"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 212493,
-      "name": "When A Blind Man Cries (1997 Remix)",
-      "url": "https://open.spotify.com/track/1KYLDfzlWrcBlAbwi4DDLN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stormbringer (Remastered)",
         "url": "https://open.spotify.com/album/3k4Sw1t7tzEaE0LAR1J4YU"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 204880,
       "name": "Soldier Of Fortune - 2009 Digital Remaster",
       "url": "https://open.spotify.com/track/60ifqqPhbselSwXyGrGyMK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Machine Head - 25th Anniversary Edition",
+        "url": "https://open.spotify.com/album/3XXboc1gvm976jCATDdunA"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 212493,
+      "name": "When A Blind Man Cries (1997 Remix)",
+      "url": "https://open.spotify.com/track/1KYLDfzlWrcBlAbwi4DDLN"
     },
     {
       "added_at": null,
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Turning to Crime",
-        "url": "https://open.spotify.com/album/4rsA0I5GWl2bnrQLI4ODVm"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 293213,
-      "name": "White Room",
-      "url": "https://open.spotify.com/track/3nWDytplyudbnv36JdKmeW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Come Taste The Band: 35th Anniversary Edition",
         "url": "https://open.spotify.com/album/6zleJIShCZ0opG8jGuOGMy"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 218173,
       "name": "Gettin' Tighter - 2010 Digital Remaster",
       "url": "https://open.spotify.com/track/2cEx6PZgsWqu3aa0JTvsho"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Turning to Crime",
+        "url": "https://open.spotify.com/album/4rsA0I5GWl2bnrQLI4ODVm"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 293213,
+      "name": "White Room",
+      "url": "https://open.spotify.com/track/3nWDytplyudbnv36JdKmeW"
     },
     {
       "added_at": null,

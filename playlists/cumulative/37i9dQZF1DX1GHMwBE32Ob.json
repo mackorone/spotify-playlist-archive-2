@@ -870,7 +870,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-02",
+      "date_removed": null,
       "duration_ms": 160375,
       "name": "ASAP",
       "url": "https://open.spotify.com/track/6FZlSfQrD9aoB4SSnoAzWk"
@@ -4990,7 +4990,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 174545,
       "name": "Kaizen's Intro",
       "url": "https://open.spotify.com/track/05wzOC5B76dXhpT2z9xgKO"
@@ -5919,6 +5919,24 @@
     },
     {
       "album": {
+        "name": "M$NEY",
+        "url": "https://open.spotify.com/album/07iqzVICrgPFOpXem6MEpU"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170526,
+      "name": "MCBH",
+      "url": "https://open.spotify.com/track/36PS8XCemqmPvigIL8S40B"
+    },
+    {
+      "album": {
         "name": "No Bad Boy, No Party",
         "url": "https://open.spotify.com/album/3haflscpuVSkTXo1yw3ghT"
       },
@@ -5948,7 +5966,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 179478,
       "name": "Metaverse",
       "url": "https://open.spotify.com/track/0WeU5EfNFu1wmlmCdMNDEJ"

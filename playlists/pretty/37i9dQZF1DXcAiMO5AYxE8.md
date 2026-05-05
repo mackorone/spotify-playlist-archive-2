@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAiMO5AYxE8.md) - [plain]
 
 > All the best soul disco sounds for getting down.
 
-[Spotify](https://open.spotify.com/user/spotify) - 547,942 likes - 62 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 547,968 likes - 62 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAiMO5AYxE8.md) - [plain]
 | 18 | [Lost in Music \- 1995 Remaster](https://open.spotify.com/track/7zpm7lTY2EZn7AfFm3mGg2) | [Sister Sledge](https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays) | [The Best of Sister Sledge \(1973\-1985\)](https://open.spotify.com/album/4L1Astvd0LwOkF49jQ2Uyt) | 4:47 |
 | 19 | [Taste of Bitter Love](https://open.spotify.com/track/0EAtqMkJ13QYAN7QDcFiDs) | [Gladys Knight & The Pips](https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1) | [About Love \(Expanded Edition\)](https://open.spotify.com/album/0rPCO55x3MGthe8qkn64o6) | 4:38 |
 | 20 | [Yes Sir, I Can Boogie](https://open.spotify.com/track/1UNP66Mr3sPB3ItYt5bEUe) | [Baccara](https://open.spotify.com/artist/4dn4KQgTE4P3jrwa3iIVzQ) | [Best Of](https://open.spotify.com/album/40coqImDQgGDlN8TxMhJwJ) | 4:35 |
-| 21 | [Jack and Jill](https://open.spotify.com/track/5KDT5BDSmomPMe2AXuGInR) | [Raydio](https://open.spotify.com/artist/1VQ7baxc9Okx2YuRnpKMMR) | [Raydio](https://open.spotify.com/album/36AmrTuGmb1LyYSimTHRkE) | 4:35 |
-| 22 | [Shame](https://open.spotify.com/track/0uRzka6sn4LVUj8sHQELYz) | [Evelyn "Champagne" King](https://open.spotify.com/artist/4JCt4xrbbBB9blkKwNlcJ7) | [Legends](https://open.spotify.com/album/1snEinjkdX67nwrb2A9Y4C) | 6:33 |
+| 21 | [Shame](https://open.spotify.com/track/0uRzka6sn4LVUj8sHQELYz) | [Evelyn "Champagne" King](https://open.spotify.com/artist/4JCt4xrbbBB9blkKwNlcJ7) | [Legends](https://open.spotify.com/album/1snEinjkdX67nwrb2A9Y4C) | 6:33 |
+| 22 | [Jack and Jill](https://open.spotify.com/track/5KDT5BDSmomPMe2AXuGInR) | [Raydio](https://open.spotify.com/artist/1VQ7baxc9Okx2YuRnpKMMR) | [Raydio](https://open.spotify.com/album/36AmrTuGmb1LyYSimTHRkE) | 4:35 |
 | 23 | [Bad Luck \(feat\. Teddy Pendergrass\)](https://open.spotify.com/track/5XTeeHxsfAe2kC3oFZzgas) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [To Be True \(Expanded Edition\) \(feat\. Teddy Pendergrass\)](https://open.spotify.com/album/5C0EIMdlDPa8AEEs1fgpM3) | 6:26 |
 | 24 | [Shine On](https://open.spotify.com/track/69IFOdcqRAceXkikTCblWA) | [George Duke](https://open.spotify.com/artist/3EB0uKE2lGw6BB1UFJrONl) | [DREAM ON](https://open.spotify.com/album/3bgbVCy73fCJcGky7q6xFg) | 5:12 |
 | 25 | [T.S.O.P\. \(The Sound of Philadelphia\) \(feat\. The Three Degrees\) \- "A Tom Moulton Mix"](https://open.spotify.com/track/5WYFSYfwfUH7pv2fs6BbDD) | [MFSB](https://open.spotify.com/artist/2mknvtcck8i82nKxDPDibv), [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Best Of MFSB: Love Is The Message](https://open.spotify.com/album/5zeco1PwkqbFAWd9yNpz6S) | 5:48 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAiMO5AYxE8.md) - [plain]
 | 39 | [Native New Yorker \- 12" Disco Mix](https://open.spotify.com/track/1SqON2D7N5VeiOdT5fZE4F) | [Odyssey](https://open.spotify.com/artist/5b4SvpTqll0LSqJWPpXya5) | [The Greatest Hits](https://open.spotify.com/album/1yvcYE6kYQR2OOdEgdkIKz) | 5:34 |
 | 40 | [Relight My Fire \- Single Version](https://open.spotify.com/track/1PheCxmNb4A4d0LhW3ZtQp) | [Dan Hartman](https://open.spotify.com/artist/1HvcqyRLS9nF8hAbTWOqpr) | [Disco 100](https://open.spotify.com/album/3WRLDCKSLD9eDajX6m3xUU) | 3:43 |
 | 41 | [Best Love](https://open.spotify.com/track/3MyRX9OXpnzqH2UYdA6KDg) | [Rose Royce](https://open.spotify.com/artist/1OxJzMLmR9l5zPLap9OxuO) | [Disco 100](https://open.spotify.com/album/3WRLDCKSLD9eDajX6m3xUU) | 3:46 |
-| 42 | [Funkin' for Jamaica](https://open.spotify.com/track/1es1B258zAVeXx6uzksrJd) | [Tom Browne](https://open.spotify.com/artist/4Ytvi4r3WPIZmEw1Ndmkp9) | [The Best Year Of My Life: 1981G010004775674D](https://open.spotify.com/album/34psLr9vLAgw49ehAgo6SJ) | 3:53 |
-| 43 | [I Can't Stand the Rain](https://open.spotify.com/track/7n6c2YLAejUpmfuXAVWIQR) | [Eruption](https://open.spotify.com/artist/3R6f1aBWwde7ZqGv7hf4dY) | [Disco Party](https://open.spotify.com/album/7Kneel529obA7Qd9glamb4) | 3:05 |
+| 42 | [I Can't Stand the Rain](https://open.spotify.com/track/7n6c2YLAejUpmfuXAVWIQR) | [Eruption](https://open.spotify.com/artist/3R6f1aBWwde7ZqGv7hf4dY) | [Disco Party](https://open.spotify.com/album/7Kneel529obA7Qd9glamb4) | 3:05 |
+| 43 | [Funkin' for Jamaica](https://open.spotify.com/track/1es1B258zAVeXx6uzksrJd) | [Tom Browne](https://open.spotify.com/artist/4Ytvi4r3WPIZmEw1Ndmkp9) | [The Best Year Of My Life: 1981G010004775674D](https://open.spotify.com/album/34psLr9vLAgw49ehAgo6SJ) | 3:53 |
 | 44 | [Boogie Oogie Oogie](https://open.spotify.com/track/2Z477zQnVVTcZ9ZDzTpk8L) | [G.Q.](https://open.spotify.com/artist/18YelxQioKKPXK1PE5hh1n) | [Masters Series \- 70's Disco Party](https://open.spotify.com/album/7DvNg8jcR8VCw9ZncT1ShF) | 4:13 |
 | 45 | [Holdin' Out for Love](https://open.spotify.com/track/5edCx91wk8zKkuF7o50uGp) | [Angela Bofill](https://open.spotify.com/artist/07CTbCcLVHYwZqp1YMdf4t) | [The Definitive Collection](https://open.spotify.com/album/6SF49J0lhxZYTBzl2VR7RB) | 3:24 |
 | 46 | [This Is It](https://open.spotify.com/track/4y9iH8fG2E3sdM4ccUEmHx) | [Melba Moore](https://open.spotify.com/artist/0uMy5ZKVPBHauBYTTfCojq) | [Disco 100](https://open.spotify.com/album/3WRLDCKSLD9eDajX6m3xUU) | 3:29 |

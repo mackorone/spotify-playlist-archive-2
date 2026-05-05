@@ -1,6 +1,6 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Wiz Khalifa and Curren$y",
-  "num_followers": 1567019,
+  "num_followers": 1566942,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
@@ -495,22 +495,6 @@
     {
       "added_at": "2026-05-01 04:03:46",
       "album": {
-        "name": "Ca$ino",
-        "url": "https://open.spotify.com/album/21xGzx6HTydCnvfZTvLf6b"
-      },
-      "artists": [
-        {
-          "name": "Baby Keem",
-          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
-        }
-      ],
-      "duration_ms": 166469,
-      "name": "No Blame",
-      "url": "https://open.spotify.com/track/4OiF7pHMapELmWxgwShCbK"
-    },
-    {
-      "added_at": "2026-05-01 04:03:46",
-      "album": {
         "name": "Life Is Beautiful",
         "url": "https://open.spotify.com/album/7KldyyeQxbaR4oXtMprIJD"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 186360,
       "name": "Life Is Beautiful",
       "url": "https://open.spotify.com/track/6hh74g3EXXM8dF1Boamcyn"
+    },
+    {
+      "added_at": "2026-05-01 04:03:46",
+      "album": {
+        "name": "Ca$ino",
+        "url": "https://open.spotify.com/album/21xGzx6HTydCnvfZTvLf6b"
+      },
+      "artists": [
+        {
+          "name": "Baby Keem",
+          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+        }
+      ],
+      "duration_ms": 166469,
+      "name": "No Blame",
+      "url": "https://open.spotify.com/track/4OiF7pHMapELmWxgwShCbK"
     },
     {
       "added_at": "2026-05-01 04:03:46",
@@ -771,30 +771,6 @@
     {
       "added_at": "2026-05-01 04:03:46",
       "album": {
-        "name": "Leadbelly (feat. MIKE)",
-        "url": "https://open.spotify.com/album/3y6xpGcglPjbrpUZAMymiI"
-      },
-      "artists": [
-        {
-          "name": "MIKE",
-          "url": "https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU"
-        },
-        {
-          "name": "Earl Sweatshirt",
-          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
-        },
-        {
-          "name": "SURF GANG",
-          "url": "https://open.spotify.com/artist/0rTeZQSxEg1XzZ1dFz6Moz"
-        }
-      ],
-      "duration_ms": 152349,
-      "name": "Leadbelly - feat. MIKE",
-      "url": "https://open.spotify.com/track/3VzXDNlINnvGTYWXtQlQr1"
-    },
-    {
-      "added_at": "2026-05-01 04:03:46",
-      "album": {
         "name": "e.t.d.s. A Mixtape by .idk.",
         "url": "https://open.spotify.com/album/0CfaDINhy5bFTz9UwM7WAF"
       },
@@ -815,6 +791,26 @@
       "duration_ms": 149503,
       "name": "FLAKKA",
       "url": "https://open.spotify.com/track/7JXgFyQNzpxcfIILwryyJZ"
+    },
+    {
+      "added_at": "2026-05-01 04:03:46",
+      "album": {
+        "name": "Blue Marlin",
+        "url": "https://open.spotify.com/album/1DzaCBnbqK7pcVaUoE8isD"
+      },
+      "artists": [
+        {
+          "name": "Blade Brown",
+          "url": "https://open.spotify.com/artist/4E0mDf341TLViBbNefSrsK"
+        },
+        {
+          "name": "Benny The Butcher",
+          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
+        }
+      ],
+      "duration_ms": 201308,
+      "name": "Blue Marlin",
+      "url": "https://open.spotify.com/track/0xbz3yFshoRNPohArK6Q5l"
     },
     {
       "added_at": "2026-05-01 04:03:46",
@@ -879,22 +875,22 @@
     {
       "added_at": "2026-05-01 04:03:46",
       "album": {
-        "name": "Blue Marlin",
-        "url": "https://open.spotify.com/album/1DzaCBnbqK7pcVaUoE8isD"
+        "name": "Muddy Waters Too",
+        "url": "https://open.spotify.com/album/5aahGTQnyEzNwR8Wy2lEpi"
       },
       "artists": [
         {
-          "name": "Blade Brown",
-          "url": "https://open.spotify.com/artist/4E0mDf341TLViBbNefSrsK"
+          "name": "Redman",
+          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
         },
         {
-          "name": "Benny The Butcher",
-          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
         }
       ],
-      "duration_ms": 201308,
-      "name": "Blue Marlin",
-      "url": "https://open.spotify.com/track/0xbz3yFshoRNPohArK6Q5l"
+      "duration_ms": 198842,
+      "name": "Lalala",
+      "url": "https://open.spotify.com/track/36u1dV1zt17N8Cv7Ptct4u"
     },
     {
       "added_at": "2026-05-01 04:03:46",
@@ -923,22 +919,26 @@
     {
       "added_at": "2026-05-01 04:03:46",
       "album": {
-        "name": "Muddy Waters Too",
-        "url": "https://open.spotify.com/album/5aahGTQnyEzNwR8Wy2lEpi"
+        "name": "Leadbelly (feat. MIKE)",
+        "url": "https://open.spotify.com/album/3y6xpGcglPjbrpUZAMymiI"
       },
       "artists": [
         {
-          "name": "Redman",
-          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+          "name": "MIKE",
+          "url": "https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU"
         },
         {
-          "name": "Method Man",
-          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+          "name": "Earl Sweatshirt",
+          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+        },
+        {
+          "name": "SURF GANG",
+          "url": "https://open.spotify.com/artist/0rTeZQSxEg1XzZ1dFz6Moz"
         }
       ],
-      "duration_ms": 198842,
-      "name": "Lalala",
-      "url": "https://open.spotify.com/track/36u1dV1zt17N8Cv7Ptct4u"
+      "duration_ms": 152349,
+      "name": "Leadbelly - feat. MIKE",
+      "url": "https://open.spotify.com/track/3VzXDNlINnvGTYWXtQlQr1"
     },
     {
       "added_at": "2026-05-01 04:03:46",
@@ -967,26 +967,6 @@
     {
       "added_at": "2026-05-01 04:03:46",
       "album": {
-        "name": "God Does Like Ugly",
-        "url": "https://open.spotify.com/album/2tU04u3hxtziB4sOVJKak3"
-      },
-      "artists": [
-        {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
-        },
-        {
-          "name": "Mereba",
-          "url": "https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL"
-        }
-      ],
-      "duration_ms": 396806,
-      "name": "Of Blue (with Mereba)",
-      "url": "https://open.spotify.com/track/12Wh0aUUoJUFffOQdY1ouy"
-    },
-    {
-      "added_at": "2026-05-01 04:03:46",
-      "album": {
         "name": "EGYPT (Remix)",
         "url": "https://open.spotify.com/album/3XC0hyQcq2vsrpGXZKtGs2"
       },
@@ -1007,22 +987,22 @@
     {
       "added_at": "2026-05-01 04:03:46",
       "album": {
-        "name": "Home on the Range // Back Home",
-        "url": "https://open.spotify.com/album/5FMSAdmLudQYXyLWLfoya7"
+        "name": "God Does Like Ugly",
+        "url": "https://open.spotify.com/album/2tU04u3hxtziB4sOVJKak3"
       },
       "artists": [
         {
-          "name": "Earl Sweatshirt",
-          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
         },
         {
-          "name": "SURF GANG",
-          "url": "https://open.spotify.com/artist/0rTeZQSxEg1XzZ1dFz6Moz"
+          "name": "Mereba",
+          "url": "https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL"
         }
       ],
-      "duration_ms": 97874,
-      "name": "Home on the Range",
-      "url": "https://open.spotify.com/track/4QiWYpCnD5TipN2AycUy2i"
+      "duration_ms": 396806,
+      "name": "Of Blue (with Mereba)",
+      "url": "https://open.spotify.com/track/12Wh0aUUoJUFffOQdY1ouy"
     },
     {
       "added_at": "2026-05-01 04:03:46",
@@ -1039,6 +1019,26 @@
       "duration_ms": 224639,
       "name": "Die Together",
       "url": "https://open.spotify.com/track/4mtpjNb1aZ5TVBpqCGtqv0"
+    },
+    {
+      "added_at": "2026-05-01 04:03:46",
+      "album": {
+        "name": "Home on the Range // Back Home",
+        "url": "https://open.spotify.com/album/5FMSAdmLudQYXyLWLfoya7"
+      },
+      "artists": [
+        {
+          "name": "Earl Sweatshirt",
+          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+        },
+        {
+          "name": "SURF GANG",
+          "url": "https://open.spotify.com/artist/0rTeZQSxEg1XzZ1dFz6Moz"
+        }
+      ],
+      "duration_ms": 97874,
+      "name": "Home on the Range",
+      "url": "https://open.spotify.com/track/4QiWYpCnD5TipN2AycUy2i"
     }
   ],
   "unique_name": "Spilled Ink",

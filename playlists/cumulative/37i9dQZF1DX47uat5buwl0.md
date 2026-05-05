@@ -4,7 +4,7 @@
 
 > Banger na banger\. Cover: Lil Kleine 🔥
 
-164 songs - 7 hr 12 min
+165 songs - 7 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [Aan](https://open.spotify.com/track/4nFslMaQEbvAKAuJ0UryJB) | [Ritse](https://open.spotify.com/artist/7CKb0N4FZ4f1MG1vViQB1d) | [Aan](https://open.spotify.com/album/4GU1OnO8qLvOy5IOWZfb50) | 2:11 | 2026-02-26 | 2026-04-03 |
 | [Achteruit \(feat\. Bizzey & Trobi\)](https://open.spotify.com/track/4iMT7wRGEJdLvknC3JFjwS) | [Sjorleone](https://open.spotify.com/artist/6MrSjWpFS9A84jo0yR2nM4), [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8), [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR) | [Achteruit \(feat\. Bizzey & Trobi\)](https://open.spotify.com/album/0TqtTiVPUo1CjarIxlL2DH) | 1:51 | 2025-07-17 | 2026-03-10 |
 | [ADHD](https://open.spotify.com/track/4XdXOs0nb6GwLYQjl1WuaB) | [Nachtdienst](https://open.spotify.com/artist/3064mDVay7KaKF8TyuD8kw) | [ADHD](https://open.spotify.com/album/25KH0GIrdIVtbJAWeixbdJ) | 2:54 | 2025-08-28 |  |
-| [Adten](https://open.spotify.com/track/1fAAnr492hYqf2XC0nsX9u) | [Young Dylan](https://open.spotify.com/artist/6qqRfVXPotai8VXd2Umpyc) | [Adten](https://open.spotify.com/album/1d2nnKHZC1Z0FUP168kF6i) | 2:36 | 2026-04-02 |  |
+| [Adten](https://open.spotify.com/track/1fAAnr492hYqf2XC0nsX9u) | [Young Dylan](https://open.spotify.com/artist/6qqRfVXPotai8VXd2Umpyc) | [Adten](https://open.spotify.com/album/1d2nnKHZC1Z0FUP168kF6i) | 2:36 | 2026-04-02 | 2026-05-05 |
 | [Afterparty](https://open.spotify.com/track/0nvPj2VhAABt6Ac467PEL3) | [Gotu Jim](https://open.spotify.com/artist/5rpTehBPpr3mo7L0ZDZhrQ) | [Afterparty](https://open.spotify.com/album/4X6bUbNF7ZM1hNNzPSWhw6) | 2:22 | 2025-07-17 | 2025-12-12 |
 | [Ain't No Party](https://open.spotify.com/track/4OjT5tTYsmQl29oQT6OHab) | [Lance Savali](https://open.spotify.com/artist/3BJfXq3PuHFiHrD6PcfpCd) | [Ain't No Party](https://open.spotify.com/album/3WEW6RrQrhxOB0wdlU6mGb) | 3:05 | 2025-11-13 |  |
 | [Ain't Nobody](https://open.spotify.com/track/2gnEndVbpPiaSAn2gEA0WH) | [Mr\. Belt & Wezol](https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6), [RUZE](https://open.spotify.com/artist/4UDibtvT2aaea2hEB3O3PP) | [Ain't Nobody](https://open.spotify.com/album/3AfZApPiVNmPESFq3J9R9Q) | 2:34 | 2025-09-16 |  |
@@ -148,6 +148,7 @@
 | [These Words](https://open.spotify.com/track/7leW1Dmvs9A4oDh9i5Qwpz) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3), [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [These Words](https://open.spotify.com/album/3boWgDZHAI5tHYwdLuMuwq) | 2:16 | 2025-07-17 | 2026-01-16 |
 | [This is my house](https://open.spotify.com/track/1xfcLBSl1IZ0F4ynzqoO71) | [Ninochello](https://open.spotify.com/artist/6JdcexCU89cX0E9tDtTcsF) | [This is my house](https://open.spotify.com/album/0zGJRSvG0TdKTDqqC7KzI3) | 2:14 | 2026-01-13 |  |
 | [Tropical Mami](https://open.spotify.com/track/6DlTkjyvBLrQVHnTJnwqMU) | [Noise Cartel](https://open.spotify.com/artist/5yDz8X7IIvH7PheEXbo3VN), [K\-Liber](https://open.spotify.com/artist/551ZoX3knGOBIB6HrPPgq2) | [Tropical Mami](https://open.spotify.com/album/5yL59VsRdLb1gIWR6qaY2b) | 2:13 | 2025-07-17 | 2025-10-08 |
+| [tutututututu](https://open.spotify.com/track/7zbMhwqbFLjSi7Tuh4w4sR) | [Turfy Gang](https://open.spotify.com/artist/7DOOGHZ6CXsF8bvNrnDE6W) | [tutututututu](https://open.spotify.com/album/1tCcfIT6r9t2Q4lkjDX6mu) | 2:38 | 2026-05-04 |  |
 | [Uitslover](https://open.spotify.com/track/3HUpSJBn9COpunhZJczbQw) | [Samuel Welten](https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9), [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Uitslover](https://open.spotify.com/album/6YDru2ioziRTAmmZ4iDZS6) | 2:35 | 2026-03-04 |  |
 | [Ushuaia](https://open.spotify.com/track/2AeMy7dwvoPuof6xDmncUP) | [Turfy Gang](https://open.spotify.com/artist/7DOOGHZ6CXsF8bvNrnDE6W), [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee) | [Ushuaia](https://open.spotify.com/album/69HpOZiGi9xDwEYjMgPrv6) | 2:37 | 2025-07-17 |  |
 | [Vaitimbora](https://open.spotify.com/track/0QAUgW2vTmlUWhbiNeSkWm) | [Mari Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S), [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan) | [Vaitimbora](https://open.spotify.com/album/0cIKxynxh628Q7qOyamXLe) | 2:15 | 2025-07-17 |  |

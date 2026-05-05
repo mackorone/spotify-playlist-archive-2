@@ -1,12 +1,12 @@
 {
   "description": "This is Los Invasores De Nuevo Le\u00f3n. The essential tracks, all in one playlist.",
-  "num_followers": 199047,
+  "num_followers": 199072,
   "original_name": "This Is Los Invasores De Nuevo Le\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afU+gAAAAADud/flvERdFSA2sNtAR99W",
+  "snapshot_id": "afaQAAAAAADsM7PwmSzghgFCqpWeaHdP",
   "tracks": [
     {
       "added_at": null,
@@ -75,8 +75,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos De Pegue",
-        "url": "https://open.spotify.com/album/2iStr0qc3jeFmGeud0h29Q"
+        "name": "Ni Dada La Quiero",
+        "url": "https://open.spotify.com/album/1wJklr611fFhZoveD89y4F"
       },
       "artists": [
         {
@@ -84,9 +84,9 @@
           "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
         }
       ],
-      "duration_ms": 219826,
-      "name": "Clave 7",
-      "url": "https://open.spotify.com/track/29m95um0i0NThLbWA765Lg"
+      "duration_ms": 182786,
+      "name": "Eslab\u00f3n Por Eslab\u00f3n",
+      "url": "https://open.spotify.com/track/75vBz6v4IrakqmnqNTdnE0"
     },
     {
       "added_at": null,
@@ -107,8 +107,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ni Dada La Quiero",
-        "url": "https://open.spotify.com/album/1wJklr611fFhZoveD89y4F"
+        "name": "Corridos De Pegue",
+        "url": "https://open.spotify.com/album/2iStr0qc3jeFmGeud0h29Q"
       },
       "artists": [
         {
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
         }
       ],
-      "duration_ms": 182786,
-      "name": "Eslab\u00f3n Por Eslab\u00f3n",
-      "url": "https://open.spotify.com/track/75vBz6v4IrakqmnqNTdnE0"
+      "duration_ms": 219826,
+      "name": "Clave 7",
+      "url": "https://open.spotify.com/track/29m95um0i0NThLbWA765Lg"
     },
     {
       "added_at": null,
@@ -239,22 +239,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos De Pegue",
-        "url": "https://open.spotify.com/album/2iStr0qc3jeFmGeud0h29Q"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 162266,
-      "name": "Mi Caballo Pobre",
-      "url": "https://open.spotify.com/track/6SQfZKwce4nGuMwrcVwK8C"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Laurita Garza",
         "url": "https://open.spotify.com/album/6CVR7Bsz5h7IkzyNAqpLsg"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 188800,
       "name": "Rosalinda",
       "url": "https://open.spotify.com/track/76JjJHMjVRSpI86NOzbWeZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos De Pegue",
+        "url": "https://open.spotify.com/album/2iStr0qc3jeFmGeud0h29Q"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 162266,
+      "name": "Mi Caballo Pobre",
+      "url": "https://open.spotify.com/track/6SQfZKwce4nGuMwrcVwK8C"
     },
     {
       "added_at": null,
@@ -383,22 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ni Dada La Quiero",
-        "url": "https://open.spotify.com/album/1wJklr611fFhZoveD89y4F"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 186573,
-      "name": "Ni Dada La Quiero",
-      "url": "https://open.spotify.com/track/30OPXBFUQcldoejVcGvwDv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bajo Mil Llaves",
         "url": "https://open.spotify.com/album/4lRqDjjNXMEoDpgynnWiKq"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 150533,
       "name": "Bajo Mil Llaves",
       "url": "https://open.spotify.com/track/4fSiPSoUlssxoUsafN5HLO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ni Dada La Quiero",
+        "url": "https://open.spotify.com/album/1wJklr611fFhZoveD89y4F"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 186573,
+      "name": "Ni Dada La Quiero",
+      "url": "https://open.spotify.com/track/30OPXBFUQcldoejVcGvwDv"
     },
     {
       "added_at": null,
@@ -515,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mil Pedazos",
-        "url": "https://open.spotify.com/album/1ZJRBIV1t8h1BkiuQeEt36"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 194506,
-      "name": "Me Refiero A T\u00ed",
-      "url": "https://open.spotify.com/track/2XXODc6DG0sBs3uhiXQQpq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Trono Caido",
         "url": "https://open.spotify.com/album/6HwoWKpl3PhOrCfvueiHEb"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 186893,
       "name": "Coraz\u00f3n De Oro",
       "url": "https://open.spotify.com/track/0QLxVp77k6Ioz6qSBjUPUL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mil Pedazos",
+        "url": "https://open.spotify.com/album/1ZJRBIV1t8h1BkiuQeEt36"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 194506,
+      "name": "Me Refiero A T\u00ed",
+      "url": "https://open.spotify.com/track/2XXODc6DG0sBs3uhiXQQpq"
     },
     {
       "added_at": null,
@@ -563,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hasta El Final",
-        "url": "https://open.spotify.com/album/3uJX93KsrS6PxobrPQfPc9"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 170440,
-      "name": "Puedes Irte",
-      "url": "https://open.spotify.com/track/7DXfMfBmAYQMewI2I68y8P"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos De Pegue",
         "url": "https://open.spotify.com/album/2iStr0qc3jeFmGeud0h29Q"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 197160,
       "name": "Alfredo Galeana",
       "url": "https://open.spotify.com/track/2NG18tx27J4dBTszPLJluP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hasta El Final",
+        "url": "https://open.spotify.com/album/3uJX93KsrS6PxobrPQfPc9"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 170440,
+      "name": "Puedes Irte",
+      "url": "https://open.spotify.com/track/7DXfMfBmAYQMewI2I68y8P"
     },
     {
       "added_at": null,
@@ -627,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi H\u00e9roe",
-        "url": "https://open.spotify.com/album/1Flg5XJrhqjvd70wX6QV9C"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 159013,
-      "name": "Degenerado",
-      "url": "https://open.spotify.com/track/413NV5nNVfbEh7vG1x2GTl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos De Pegue",
         "url": "https://open.spotify.com/album/2iStr0qc3jeFmGeud0h29Q"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 193706,
       "name": "Lucio Pe\u00f1a",
       "url": "https://open.spotify.com/track/2szJfT5bYhIB0jdjsgpWNj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mi H\u00e9roe",
+        "url": "https://open.spotify.com/album/1Flg5XJrhqjvd70wX6QV9C"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 159013,
+      "name": "Degenerado",
+      "url": "https://open.spotify.com/track/413NV5nNVfbEh7vG1x2GTl"
     },
     {
       "added_at": null,

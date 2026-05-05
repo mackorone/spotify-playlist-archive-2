@@ -1,12 +1,12 @@
 {
   "description": "This is Luis R Conriquez. The essential tracks, all in one playlist.",
-  "num_followers": 390018,
+  "num_followers": 390046,
   "original_name": "This Is Luis R Conriquez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afU+gAAAAAD3YwhfdIKBaXOatfso8zc5",
+  "snapshot_id": "afaQAAAAAACR0ft0cWo/eShyvPP7q7yb",
   "tracks": [
     {
       "added_at": null,
@@ -191,6 +191,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Muchacho Alegre",
+        "url": "https://open.spotify.com/album/6BLz2jnev8ezl6NvPSo6oz"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 188121,
+      "name": "Muchacho Alegre",
+      "url": "https://open.spotify.com/track/5xLyrOUjlel6P0lghNv2I3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mi Vida En Un Cigarro 2",
         "url": "https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb"
       },
@@ -207,22 +223,6 @@
       "duration_ms": 135611,
       "name": "Los Botones Azules",
       "url": "https://open.spotify.com/track/3ZGkdrigbWXLgHungXfZkt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Muchacho Alegre",
-        "url": "https://open.spotify.com/album/6BLz2jnev8ezl6NvPSo6oz"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 188121,
-      "name": "Muchacho Alegre",
-      "url": "https://open.spotify.com/track/5xLyrOUjlel6P0lghNv2I3"
     },
     {
       "added_at": null,
@@ -287,26 +287,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MALEDUCADO",
-        "url": "https://open.spotify.com/album/6lUUo7CpyEPN5zKUDJ1hmM"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        }
-      ],
-      "duration_ms": 159548,
-      "name": "MALEDUCADO",
-      "url": "https://open.spotify.com/track/0VktYX8a8tvlPa3epPNCka"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Siempre Pendientes",
         "url": "https://open.spotify.com/album/3ri7jQpYUr63gKKyoihGCN"
       },
@@ -323,6 +303,26 @@
       "duration_ms": 186828,
       "name": "Siempre Pendientes",
       "url": "https://open.spotify.com/track/3gfSH9aYZbyGjdmbeoWliw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MALEDUCADO",
+        "url": "https://open.spotify.com/album/6lUUo7CpyEPN5zKUDJ1hmM"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "duration_ms": 159548,
+      "name": "MALEDUCADO",
+      "url": "https://open.spotify.com/track/0VktYX8a8tvlPa3epPNCka"
     },
     {
       "added_at": null,

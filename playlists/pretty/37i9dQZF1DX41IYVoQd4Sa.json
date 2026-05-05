@@ -1,6 +1,6 @@
 {
   "description": "\u05de\u05d0\u05d9\u05e0\u05d3\u05d9 \u05d5\u05e2\u05d3 \u05e8\u05d5\u05e7, \u05e7\u05d1\u05dc\u05d5 \u05d0\u05ea \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05d9\u05e4\u05d9\u05dd \u05e9\u05dc \u05d4\u05e1\u05e6\u05e0\u05d4 \u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1\u05d9\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc : \u05d0\u05d1\u05e0\u05e8 \u05d8\u05d5\u05d0\u05d2",
-  "num_followers": 33654,
+  "num_followers": 33660,
   "original_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",
   "owner": {
     "name": "Spotify",
@@ -575,6 +575,22 @@
     {
       "added_at": "2026-04-30 21:00:29",
       "album": {
+        "name": "\u05d0\u05d5\u05dc\u05d9 \u05d9\u05db\u05d5\u05dc\u05ea\u05d9 \u05d9\u05d5\u05ea\u05e8",
+        "url": "https://open.spotify.com/album/3o2QYnNyEY2u8u0h4uNNqh"
+      },
+      "artists": [
+        {
+          "name": "Ninet Tayeb",
+          "url": "https://open.spotify.com/artist/4oEhVAb4wkpqQbOqVMroI4"
+        }
+      ],
+      "duration_ms": 241046,
+      "name": "\u05d0\u05d5\u05dc\u05d9 \u05d9\u05db\u05d5\u05dc\u05ea\u05d9 \u05d9\u05d5\u05ea\u05e8",
+      "url": "https://open.spotify.com/track/4XfuFnOvQv7FsKdSlmrCUy"
+    },
+    {
+      "added_at": "2026-04-30 21:00:29",
+      "album": {
         "name": "Everybody Needs To Be",
         "url": "https://open.spotify.com/album/75pIwBgLfpKV4UNs7Xzt3Q"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 170107,
       "name": "Everybody Needs To Be",
       "url": "https://open.spotify.com/track/57nR701tskrQisI9GZJ9oq"
-    },
-    {
-      "added_at": "2026-04-30 21:00:29",
-      "album": {
-        "name": "\u05d0\u05d5\u05dc\u05d9 \u05d9\u05db\u05d5\u05dc\u05ea\u05d9 \u05d9\u05d5\u05ea\u05e8",
-        "url": "https://open.spotify.com/album/3o2QYnNyEY2u8u0h4uNNqh"
-      },
-      "artists": [
-        {
-          "name": "Ninet Tayeb",
-          "url": "https://open.spotify.com/artist/4oEhVAb4wkpqQbOqVMroI4"
-        }
-      ],
-      "duration_ms": 241046,
-      "name": "\u05d0\u05d5\u05dc\u05d9 \u05d9\u05db\u05d5\u05dc\u05ea\u05d9 \u05d9\u05d5\u05ea\u05e8",
-      "url": "https://open.spotify.com/track/4XfuFnOvQv7FsKdSlmrCUy"
     },
     {
       "added_at": "2026-04-30 21:00:29",
@@ -823,22 +823,6 @@
     {
       "added_at": "2026-04-30 21:00:29",
       "album": {
-        "name": "89 \u05e9\u05e0\u05d9\u05d5\u05ea",
-        "url": "https://open.spotify.com/album/3vzweL9BFuBqgriv3fq3fL"
-      },
-      "artists": [
-        {
-          "name": "Anat Moshkovski",
-          "url": "https://open.spotify.com/artist/1b8wOY9TQjOLjxAsXvwi49"
-        }
-      ],
-      "duration_ms": 169160,
-      "name": "\u05d3\u05d9\u05e0\u05d4",
-      "url": "https://open.spotify.com/track/5XmwcmebBMGaPrI7UPedDj"
-    },
-    {
-      "added_at": "2026-04-30 21:00:29",
-      "album": {
         "name": "\u05de\u05d9\u05dc\u05d9\u05dd \u05d0\u05d4\u05d1\u05d4 \u05d5\u05d9\u05d9\u05df",
         "url": "https://open.spotify.com/album/5AKPGUxw9RTTMuuYXYkTVQ"
       },
@@ -860,16 +844,16 @@
       },
       "artists": [
         {
-          "name": "Pulkes",
-          "url": "https://open.spotify.com/artist/3GuD5lqoDUYEPVx5lyC5gP"
+          "name": "Tuval Haim",
+          "url": "https://open.spotify.com/artist/7bV9WTLQ86dYHoz6xFRSSH"
         },
         {
           "name": "Berry Sakharof",
           "url": "https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC"
         },
         {
-          "name": "Tuval Haim",
-          "url": "https://open.spotify.com/artist/7bV9WTLQ86dYHoz6xFRSSH"
+          "name": "Pulkes",
+          "url": "https://open.spotify.com/artist/3GuD5lqoDUYEPVx5lyC5gP"
         }
       ],
       "duration_ms": 239411,
@@ -879,22 +863,34 @@
     {
       "added_at": "2026-04-30 21:00:29",
       "album": {
-        "name": "\u05de\u05e0\u05d2\u05d9\u05e0\u05ea \u05d4\u05dc\u05d1",
-        "url": "https://open.spotify.com/album/4uV4c9I1SiCEZLwDpSZ190"
+        "name": "89 \u05e9\u05e0\u05d9\u05d5\u05ea",
+        "url": "https://open.spotify.com/album/3vzweL9BFuBqgriv3fq3fL"
       },
       "artists": [
         {
-          "name": "Aviv Geffen",
-          "url": "https://open.spotify.com/artist/73ieysHN7XpJYEnEAYsO3K"
-        },
-        {
-          "name": "Berry Sakharof",
-          "url": "https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC"
+          "name": "Anat Moshkovski",
+          "url": "https://open.spotify.com/artist/1b8wOY9TQjOLjxAsXvwi49"
         }
       ],
-      "duration_ms": 165303,
-      "name": "\u05de\u05e0\u05d2\u05d9\u05e0\u05ea \u05d4\u05dc\u05d1",
-      "url": "https://open.spotify.com/track/262Qkoq8jUNyzBTUnvT549"
+      "duration_ms": 169160,
+      "name": "\u05d3\u05d9\u05e0\u05d4",
+      "url": "https://open.spotify.com/track/5XmwcmebBMGaPrI7UPedDj"
+    },
+    {
+      "added_at": "2026-04-30 21:00:29",
+      "album": {
+        "name": "Midnight Blue",
+        "url": "https://open.spotify.com/album/6d9kdw3DKd8821NezRmK6Q"
+      },
+      "artists": [
+        {
+          "name": "Omer Netzer",
+          "url": "https://open.spotify.com/artist/6yCGdZHId0vWEO5NxS4g8d"
+        }
+      ],
+      "duration_ms": 229099,
+      "name": "Midnight Blue",
+      "url": "https://open.spotify.com/track/60qwBKu1GnzJmfbISwAl3T"
     }
   ],
   "unique_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",

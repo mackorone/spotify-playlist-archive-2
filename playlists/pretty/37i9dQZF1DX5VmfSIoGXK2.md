@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VmfSIoGXK2.md) - [plain]
 
 > the glorious sounds of Jazz House, from Lagos & beyond 🕊️ featuring SPINALL
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,491 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,566 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

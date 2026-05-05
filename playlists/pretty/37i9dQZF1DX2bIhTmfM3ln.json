@@ -1,6 +1,6 @@
 {
   "description": "love is in the air...breathe in",
-  "num_followers": 59339,
+  "num_followers": 59354,
   "original_name": "AfroBae",
   "owner": {
     "name": "Spotify",
@@ -315,22 +315,6 @@
     {
       "added_at": "2026-05-01 00:02:42",
       "album": {
-        "name": "FUJI MOTO",
-        "url": "https://open.spotify.com/album/0hFlRO0BYOF3WySD9jEhMT"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 157714,
-      "name": "AMA",
-      "url": "https://open.spotify.com/track/5lSDdHPmeqsDJcqiMYtUHN"
-    },
-    {
-      "added_at": "2026-05-01 00:02:42",
-      "album": {
         "name": "All Over You",
         "url": "https://open.spotify.com/album/7m2pHHLujtRpWFnz3aLSdb"
       },
@@ -343,6 +327,30 @@
       "duration_ms": 145519,
       "name": "All Over You",
       "url": "https://open.spotify.com/track/6EzsUkZqhkXet4vVTc7kKv"
+    },
+    {
+      "added_at": "2026-05-01 00:02:42",
+      "album": {
+        "name": "SHABA",
+        "url": "https://open.spotify.com/album/1yQJjYlbpPEsepf57EsyHA"
+      },
+      "artists": [
+        {
+          "name": "SPINALL",
+          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
+        },
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        },
+        {
+          "name": "DETO BLACK",
+          "url": "https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT"
+        }
+      ],
+      "duration_ms": 121338,
+      "name": "SHABA",
+      "url": "https://open.spotify.com/track/3Mkn6UjdPtKdySe78jVfxg"
     },
     {
       "added_at": "2026-05-01 00:02:42",
@@ -415,26 +423,18 @@
     {
       "added_at": "2026-05-01 00:02:42",
       "album": {
-        "name": "SHABA",
-        "url": "https://open.spotify.com/album/1yQJjYlbpPEsepf57EsyHA"
+        "name": "FUJI MOTO",
+        "url": "https://open.spotify.com/album/0hFlRO0BYOF3WySD9jEhMT"
       },
       "artists": [
         {
-          "name": "SPINALL",
-          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
-        },
-        {
-          "name": "Mavo",
-          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
-        },
-        {
-          "name": "DETO BLACK",
-          "url": "https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT"
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
         }
       ],
-      "duration_ms": 121338,
-      "name": "SHABA",
-      "url": "https://open.spotify.com/track/3Mkn6UjdPtKdySe78jVfxg"
+      "duration_ms": 157714,
+      "name": "AMA",
+      "url": "https://open.spotify.com/track/5lSDdHPmeqsDJcqiMYtUHN"
     },
     {
       "added_at": "2026-05-01 00:02:42",
@@ -763,6 +763,22 @@
     {
       "added_at": "2026-05-01 00:02:42",
       "album": {
+        "name": "Go Crazy",
+        "url": "https://open.spotify.com/album/1kyywoFIbu2xBRi90JyiNE"
+      },
+      "artists": [
+        {
+          "name": "Kidd Carder",
+          "url": "https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Go Crazy",
+      "url": "https://open.spotify.com/track/7jZaRjGVgywP7xgaJJ8Imp"
+    },
+    {
+      "added_at": "2026-05-01 00:02:42",
+      "album": {
         "name": "Solace",
         "url": "https://open.spotify.com/album/7Lcd2dZBnj167BUMKRSmqA"
       },
@@ -779,18 +795,18 @@
     {
       "added_at": "2026-05-01 00:02:42",
       "album": {
-        "name": "Go Crazy",
-        "url": "https://open.spotify.com/album/1kyywoFIbu2xBRi90JyiNE"
+        "name": "Only Fans",
+        "url": "https://open.spotify.com/album/2JEoO3X2c9JShuhcsDFiBu"
       },
       "artists": [
         {
-          "name": "Kidd Carder",
-          "url": "https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI"
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
         }
       ],
-      "duration_ms": 156000,
-      "name": "Go Crazy",
-      "url": "https://open.spotify.com/track/7jZaRjGVgywP7xgaJJ8Imp"
+      "duration_ms": 149126,
+      "name": "Only Fans",
+      "url": "https://open.spotify.com/track/2JkjBVJIukdat5jNJeYyzz"
     },
     {
       "added_at": "2026-05-01 00:02:42",
@@ -835,22 +851,6 @@
       "duration_ms": 155004,
       "name": "Love Sick Crazy",
       "url": "https://open.spotify.com/track/0owbHldQEENBOUXpl0QEIj"
-    },
-    {
-      "added_at": "2026-05-01 00:02:42",
-      "album": {
-        "name": "Only Fans",
-        "url": "https://open.spotify.com/album/2JEoO3X2c9JShuhcsDFiBu"
-      },
-      "artists": [
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        }
-      ],
-      "duration_ms": 149126,
-      "name": "Only Fans",
-      "url": "https://open.spotify.com/track/2JkjBVJIukdat5jNJeYyzz"
     },
     {
       "added_at": "2026-05-01 00:02:42",
@@ -911,6 +911,22 @@
     {
       "added_at": "2026-05-01 00:02:42",
       "album": {
+        "name": "Stick to the Plan",
+        "url": "https://open.spotify.com/album/1Qg0C5ICE3bsQTSym87OaL"
+      },
+      "artists": [
+        {
+          "name": "Bayanni",
+          "url": "https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG"
+        }
+      ],
+      "duration_ms": 117362,
+      "name": "Stick to the Plan",
+      "url": "https://open.spotify.com/track/2RkUTD0pHL6zWVWpfWqnIT"
+    },
+    {
+      "added_at": "2026-05-01 00:02:42",
+      "album": {
         "name": "Mariana",
         "url": "https://open.spotify.com/album/6IDE7vBvoNuLeQaEGHYIWX"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 148153,
       "name": "Mariana",
       "url": "https://open.spotify.com/track/0eN2iadqY8XAVqlx20EM6R"
-    },
-    {
-      "added_at": "2026-05-01 00:02:42",
-      "album": {
-        "name": "Stick to the Plan",
-        "url": "https://open.spotify.com/album/1Qg0C5ICE3bsQTSym87OaL"
-      },
-      "artists": [
-        {
-          "name": "Bayanni",
-          "url": "https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG"
-        }
-      ],
-      "duration_ms": 117362,
-      "name": "Stick to the Plan",
-      "url": "https://open.spotify.com/track/2RkUTD0pHL6zWVWpfWqnIT"
     },
     {
       "added_at": "2026-05-01 00:02:42",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2026-05-01 00:02:42",
       "album": {
-        "name": "Holy Romance",
-        "url": "https://open.spotify.com/album/3F3rEgznhfUMH925IUKc2v"
-      },
-      "artists": [
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        }
-      ],
-      "duration_ms": 155377,
-      "name": "Holy Romance",
-      "url": "https://open.spotify.com/track/4dsxF6UWyzVM7lutvZkyca"
-    },
-    {
-      "added_at": "2026-05-01 00:02:42",
-      "album": {
         "name": "I'm Available",
         "url": "https://open.spotify.com/album/0ZHpEgfNlcyqDCqVTrkMZ8"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 196530,
       "name": "I'm Available",
       "url": "https://open.spotify.com/track/0OBUEQiL8nzKcOg80cgGke"
+    },
+    {
+      "added_at": "2026-05-01 00:02:42",
+      "album": {
+        "name": "Holy Romance",
+        "url": "https://open.spotify.com/album/3F3rEgznhfUMH925IUKc2v"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        }
+      ],
+      "duration_ms": 155377,
+      "name": "Holy Romance",
+      "url": "https://open.spotify.com/track/4dsxF6UWyzVM7lutvZkyca"
     },
     {
       "added_at": "2026-05-01 00:02:42",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2026-05-01 00:02:42",
       "album": {
+        "name": "NIGHT",
+        "url": "https://open.spotify.com/album/722VVxNwKl5ZZZ1HduMUhr"
+      },
+      "artists": [
+        {
+          "name": "Strei",
+          "url": "https://open.spotify.com/artist/4ecfG9zQhMOr4yMTqgD79g"
+        }
+      ],
+      "duration_ms": 159848,
+      "name": "Obobe",
+      "url": "https://open.spotify.com/track/4R7ue5kkKglzqr7NMjqGB1"
+    },
+    {
+      "added_at": "2026-05-01 00:02:42",
+      "album": {
         "name": "Over The Moon",
         "url": "https://open.spotify.com/album/34FtA5y3NfmDleizvsjiWD"
       },
@@ -1183,26 +1199,6 @@
       "duration_ms": 165714,
       "name": "Over The Moon",
       "url": "https://open.spotify.com/track/5CHi28woINyyaqdi1t7FZM"
-    },
-    {
-      "added_at": "2026-05-01 00:02:42",
-      "album": {
-        "name": "Dive In",
-        "url": "https://open.spotify.com/album/4sYyq8J4gHzzTIoYg2Bxos"
-      },
-      "artists": [
-        {
-          "name": "Joshua Baraka",
-          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
-        },
-        {
-          "name": "JAE5",
-          "url": "https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p"
-        }
-      ],
-      "duration_ms": 195589,
-      "name": "Dive In",
-      "url": "https://open.spotify.com/track/4Ws9OfmKBzjw7FaJV0Xp1A"
     },
     {
       "added_at": "2026-05-01 00:02:42",
@@ -1227,18 +1223,22 @@
     {
       "added_at": "2026-05-01 00:02:42",
       "album": {
-        "name": "Sorry I'm Busy",
-        "url": "https://open.spotify.com/album/1lZd6dVzx246LSOxv54c4w"
+        "name": "Dive In",
+        "url": "https://open.spotify.com/album/4sYyq8J4gHzzTIoYg2Bxos"
       },
       "artists": [
         {
-          "name": "Lovn",
-          "url": "https://open.spotify.com/artist/7yzmckMWwaSZdJQC5QZ7ws"
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        },
+        {
+          "name": "JAE5",
+          "url": "https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p"
         }
       ],
-      "duration_ms": 142709,
-      "name": "Sorry I'm Busy",
-      "url": "https://open.spotify.com/track/7MsGvKF7W1W07vlp7cbEsZ"
+      "duration_ms": 195589,
+      "name": "Dive In",
+      "url": "https://open.spotify.com/track/4Ws9OfmKBzjw7FaJV0Xp1A"
     },
     {
       "added_at": "2026-05-01 00:02:42",
@@ -1255,6 +1255,22 @@
       "duration_ms": 155094,
       "name": "Intentions",
       "url": "https://open.spotify.com/track/3pngOEYFiJfEfYyTPftvdk"
+    },
+    {
+      "added_at": "2026-05-01 00:02:42",
+      "album": {
+        "name": "Sorry I'm Busy",
+        "url": "https://open.spotify.com/album/1lZd6dVzx246LSOxv54c4w"
+      },
+      "artists": [
+        {
+          "name": "Lovn",
+          "url": "https://open.spotify.com/artist/7yzmckMWwaSZdJQC5QZ7ws"
+        }
+      ],
+      "duration_ms": 142709,
+      "name": "Sorry I'm Busy",
+      "url": "https://open.spotify.com/track/7MsGvKF7W1W07vlp7cbEsZ"
     },
     {
       "added_at": "2026-05-01 00:02:42",
@@ -1383,6 +1399,30 @@
     {
       "added_at": "2026-05-01 00:02:42",
       "album": {
+        "name": "Pressure II",
+        "url": "https://open.spotify.com/album/0UGn6SKerPlUVGfBcvr0rH"
+      },
+      "artists": [
+        {
+          "name": "WLR",
+          "url": "https://open.spotify.com/artist/5OUSeRjRJmhGoeZ3iYYKfT"
+        },
+        {
+          "name": "MYRON",
+          "url": "https://open.spotify.com/artist/4zkMLMoQabRa9pPEfaTG2W"
+        },
+        {
+          "name": "Berri-Tiga",
+          "url": "https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB"
+        }
+      ],
+      "duration_ms": 198305,
+      "name": "Pressure II",
+      "url": "https://open.spotify.com/track/1lu5gxuLEmX27Jivnzy2Vc"
+    },
+    {
+      "added_at": "2026-05-01 00:02:42",
+      "album": {
         "name": "Pain Killer",
         "url": "https://open.spotify.com/album/0IsBgS4ulHe5hchLBo5Xvc"
       },
@@ -1443,42 +1483,6 @@
       "duration_ms": 215368,
       "name": "Ol\u00f3w\u00f3 Or\u00edmi",
       "url": "https://open.spotify.com/track/0jnY0KM7DPfzQHuv6wheFd"
-    },
-    {
-      "added_at": "2026-05-01 00:02:42",
-      "album": {
-        "name": "Call My Name / Best Whine",
-        "url": "https://open.spotify.com/album/71tDHMZDhF8qjCfXtZYyK1"
-      },
-      "artists": [
-        {
-          "name": "Hyce",
-          "url": "https://open.spotify.com/artist/1KQuzZH1ix85vt0n3iiRTA"
-        },
-        {
-          "name": "YKB",
-          "url": "https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE"
-        }
-      ],
-      "duration_ms": 170396,
-      "name": "Best Whine",
-      "url": "https://open.spotify.com/track/5yR8rJt2YTqaKGO7ADZboE"
-    },
-    {
-      "added_at": "2026-05-01 00:02:42",
-      "album": {
-        "name": "Chaos",
-        "url": "https://open.spotify.com/album/30CBB6bBJGEKKCFWM1mhA1"
-      },
-      "artists": [
-        {
-          "name": "Daboy Kenzi",
-          "url": "https://open.spotify.com/artist/77HPdxhFodvllNDHT3JBmf"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Chaos",
-      "url": "https://open.spotify.com/track/43jWipklxg90r0zx3sLiSA"
     }
   ],
   "unique_name": "AfroBae",

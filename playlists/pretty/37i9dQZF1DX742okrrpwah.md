@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Madonna x Sabrina Carpenter, Lacrim et Asake au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 404,860 likes - 90 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 404,816 likes - 90 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 17 | [Punching the Flowers](https://open.spotify.com/track/56es3ImztwXSwpYmtS6c4A) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Punching the Flowers](https://open.spotify.com/album/7M1MydZE4a34uIo3iQrthu) | 3:11 |
 | 18 | [i'm not joking](https://open.spotify.com/track/06v2x2dttlLFyF2JaBROpF) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [i'm not joking](https://open.spotify.com/album/6kn0sKYNf2rnfk0Gr9lxUP) | 3:54 |
 | 19 | [Medicine](https://open.spotify.com/track/1A3G4OXseKQZUrFD5U5ZSU) | [Emma Louise](https://open.spotify.com/artist/1A96iePIMNFBjLrjXEl718) | [Sunshine For Happiness](https://open.spotify.com/album/5ObLOwWHmSdIFWYY7kOgnE) | 3:38 |
-| 20 | [Papillons](https://open.spotify.com/track/54GTl6q8VYEtd9FxvHcFqN) | [EMA](https://open.spotify.com/artist/5sBs3oeSyC5mNZimFy1QHY) | [Papillons](https://open.spotify.com/album/5wN17JXmD8stoZsVoWYPOf) | 2:26 |
+| 20 | [Papillons](https://open.spotify.com/track/54GTl6q8VYEtd9FxvHcFqN) | [EMA](https://open.spotify.com/artist/5sBs3oeSyC5mNZimFy1QHY) | [Papillons](https://open.spotify.com/album/5wN17JXmD8stoZsVoWYPOf) | 2:25 |
 | 21 | [Heroine](https://open.spotify.com/track/04OCeDuqT4ympbgDZ8dcfT) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Heroine](https://open.spotify.com/album/4xT3ryrqfutVzV1cJN79Ww) | 2:35 |
 | 22 | [Echo](https://open.spotify.com/track/2jPYazutYa3HCyxbsLgdw1) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [Echo \(FIFA World Cup 2026™\)](https://open.spotify.com/album/7k1aRcg1pB0wDlOyB3HwrH) | 2:15 |
 | 23 | [TRUE FORM](https://open.spotify.com/track/0dF5kHxB1lKB1mH7fdEM7K) | [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332) | [TRUE FORM](https://open.spotify.com/album/7zhcYEHSJgJEtTWRRvG5hx) | 2:47 |

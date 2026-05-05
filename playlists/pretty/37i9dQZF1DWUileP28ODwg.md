@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 
 > Tune in here for new and current hits in Contemporary Christian music! Cover: Tauren Wells
 
-[Spotify](https://open.spotify.com/user/spotify) - 447,128 likes - 80 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 447,144 likes - 80 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 | 79 | [Wonder & Awe](https://open.spotify.com/track/1DTKaZqF5TqzEUCqVBLhvZ) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [Wonder & Awe](https://open.spotify.com/album/5BHHmCWwiCPVFzbsHhzcJL) | 3:46 |
 | 80 | [After All This Time](https://open.spotify.com/track/6R6cldyeIPH1pBGrSUYBJ8) | [Van Buren](https://open.spotify.com/artist/3Yu0KVIiHkzduNTv4V8QNl) | [After All This Time](https://open.spotify.com/album/5DCcYRli3V8rdF0gn5BSz2) | 3:38 |
 
-Snapshot ID: `AAAAAEuRkWaVh3FhwpNiAeJYK5rZjzjs`
+Snapshot ID: `AAAAAP5Vxmw37g2q1KMyTglkDh384Ikx`

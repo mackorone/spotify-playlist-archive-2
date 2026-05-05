@@ -1,6 +1,6 @@
 {
   "description": "Descubre la escena del jazz en M\u00e9xico \ud83c\udfb7\ud83c\udfb9\ud83c\udfb6\ud83c\uddf2\ud83c\uddfd",
-  "num_followers": 65322,
+  "num_followers": 65325,
   "original_name": "Jazz en M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -107,22 +107,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Tino Contreras",
-        "url": "https://open.spotify.com/album/1kyt03TDrHd4JPoBPjHMJ2"
-      },
-      "artists": [
-        {
-          "name": "Tino Contreras",
-          "url": "https://open.spotify.com/artist/48kCMQ00lfjWnQZCUPOYrX"
-        }
-      ],
-      "duration_ms": 168198,
-      "name": "Orfeo en los Tambores",
-      "url": "https://open.spotify.com/track/4CZdNa7dLY6xH7FTMKq5DG"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "...Un Poco M\u00e1s",
         "url": "https://open.spotify.com/album/5lAACEe8qGeTZhrzlCr8wM"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 303893,
       "name": "Naila",
       "url": "https://open.spotify.com/track/28V7R9TGxz2Nn6mhZXwHGh"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Tino Contreras",
+        "url": "https://open.spotify.com/album/1kyt03TDrHd4JPoBPjHMJ2"
+      },
+      "artists": [
+        {
+          "name": "Tino Contreras",
+          "url": "https://open.spotify.com/artist/48kCMQ00lfjWnQZCUPOYrX"
+        }
+      ],
+      "duration_ms": 168198,
+      "name": "Orfeo en los Tambores",
+      "url": "https://open.spotify.com/track/4CZdNa7dLY6xH7FTMKq5DG"
     },
     {
       "added_at": "2023-01-07 01:43:47",
@@ -205,6 +205,22 @@
       "url": "https://open.spotify.com/track/7JIuo1FbYeIdJlwXXztn01"
     },
     {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "...Un Poco M\u00e1s",
+        "url": "https://open.spotify.com/album/5lAACEe8qGeTZhrzlCr8wM"
+      },
+      "artists": [
+        {
+          "name": "Na'rimbo",
+          "url": "https://open.spotify.com/artist/3WM7lsbcWyFWHFYmwTQKLt"
+        }
+      ],
+      "duration_ms": 370613,
+      "name": "Al Son de la Marimba",
+      "url": "https://open.spotify.com/track/2ASMYuPSrYkM3zk3E8uBWh"
+    },
+    {
       "added_at": "2023-04-12 01:24:34",
       "album": {
         "name": "El Patio",
@@ -235,22 +251,6 @@
       "duration_ms": 113613,
       "name": "Dej\u00e9 mi amor en San Francisco (I Left My Heart in San Francisco)",
       "url": "https://open.spotify.com/track/0cPLgRRnadBPngTCXW8IQp"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "...Un Poco M\u00e1s",
-        "url": "https://open.spotify.com/album/5lAACEe8qGeTZhrzlCr8wM"
-      },
-      "artists": [
-        {
-          "name": "Na'rimbo",
-          "url": "https://open.spotify.com/artist/3WM7lsbcWyFWHFYmwTQKLt"
-        }
-      ],
-      "duration_ms": 370613,
-      "name": "Al Son de la Marimba",
-      "url": "https://open.spotify.com/track/2ASMYuPSrYkM3zk3E8uBWh"
     },
     {
       "added_at": "2023-03-16 20:51:30",
@@ -333,6 +333,22 @@
       "url": "https://open.spotify.com/track/6dmMJruFIptrKqtaeBMuAm"
     },
     {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Jazz Mariachi",
+        "url": "https://open.spotify.com/album/3aoFmJGzas336JTwS4DGFh"
+      },
+      "artists": [
+        {
+          "name": "Tino Contreras",
+          "url": "https://open.spotify.com/artist/48kCMQ00lfjWnQZCUPOYrX"
+        }
+      ],
+      "duration_ms": 211026,
+      "name": "Luna Taxque\u00f1a - Jazz Mariachi",
+      "url": "https://open.spotify.com/track/3KV4Rqy4xUPFDxtNQ9yTqp"
+    },
+    {
       "added_at": "2022-08-16 16:23:25",
       "album": {
         "name": "Cronolog\u00edas",
@@ -351,22 +367,6 @@
       "duration_ms": 403365,
       "name": "Era La Luz De Abril",
       "url": "https://open.spotify.com/track/4BcjeQiwliBHPVoqZAPmEc"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Jazz Mariachi",
-        "url": "https://open.spotify.com/album/3aoFmJGzas336JTwS4DGFh"
-      },
-      "artists": [
-        {
-          "name": "Tino Contreras",
-          "url": "https://open.spotify.com/artist/48kCMQ00lfjWnQZCUPOYrX"
-        }
-      ],
-      "duration_ms": 211026,
-      "name": "Luna Taxque\u00f1a - Jazz Mariachi",
-      "url": "https://open.spotify.com/track/3KV4Rqy4xUPFDxtNQ9yTqp"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -747,6 +747,22 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
+        "name": "Eco",
+        "url": "https://open.spotify.com/album/1bQ17AkcZNNda4ogkEUdFx"
+      },
+      "artists": [
+        {
+          "name": "Aaron Cruz Tr\u00edo",
+          "url": "https://open.spotify.com/artist/2OeEjkq0aHzQxxCbAupVIL"
+        }
+      ],
+      "duration_ms": 378493,
+      "name": "A la Ventana Carolina",
+      "url": "https://open.spotify.com/track/1JFYLc7GyftevczE418CcE"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
         "name": "Claroscuro",
         "url": "https://open.spotify.com/album/11r4oKZ7DA9XEnCmhlN08o"
       },
@@ -763,18 +779,26 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Eco",
-        "url": "https://open.spotify.com/album/1bQ17AkcZNNda4ogkEUdFx"
+        "name": "Triology",
+        "url": "https://open.spotify.com/album/5C5oSHXWJZW48TAhCkPnuS"
       },
       "artists": [
         {
-          "name": "Aaron Cruz Tr\u00edo",
-          "url": "https://open.spotify.com/artist/2OeEjkq0aHzQxxCbAupVIL"
+          "name": "Eddie G\u00f3mez",
+          "url": "https://open.spotify.com/artist/6HBVTGmPHytchERPb8YGPr"
+        },
+        {
+          "name": "Alberto Medina",
+          "url": "https://open.spotify.com/artist/070NUxDs12dhcmiHpW8v4Z"
+        },
+        {
+          "name": "Pablo Prieto",
+          "url": "https://open.spotify.com/artist/6n85URYIwliA5KkdI3Hb25"
         }
       ],
-      "duration_ms": 378493,
-      "name": "A la Ventana Carolina",
-      "url": "https://open.spotify.com/track/1JFYLc7GyftevczE418CcE"
+      "duration_ms": 428720,
+      "name": "Once I Loved",
+      "url": "https://open.spotify.com/track/3NNk5X50Cf1BuGXLedKv5K"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -803,30 +827,6 @@
       "duration_ms": 238039,
       "name": "La Danza de Helmut",
       "url": "https://open.spotify.com/track/3XIuXL9FZBfoQe0KK7tdqc"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Triology",
-        "url": "https://open.spotify.com/album/5C5oSHXWJZW48TAhCkPnuS"
-      },
-      "artists": [
-        {
-          "name": "Eddie G\u00f3mez",
-          "url": "https://open.spotify.com/artist/6HBVTGmPHytchERPb8YGPr"
-        },
-        {
-          "name": "Alberto Medina",
-          "url": "https://open.spotify.com/artist/070NUxDs12dhcmiHpW8v4Z"
-        },
-        {
-          "name": "Pablo Prieto",
-          "url": "https://open.spotify.com/artist/6n85URYIwliA5KkdI3Hb25"
-        }
-      ],
-      "duration_ms": 428720,
-      "name": "Once I Loved",
-      "url": "https://open.spotify.com/track/3NNk5X50Cf1BuGXLedKv5K"
     },
     {
       "added_at": "2022-01-14 03:44:06",

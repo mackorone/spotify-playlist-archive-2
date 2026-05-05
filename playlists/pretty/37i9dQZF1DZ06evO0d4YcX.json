@@ -1,12 +1,12 @@
 {
   "description": "This is Amber Mark. The essential tracks, all in one playlist.",
-  "num_followers": 16301,
+  "num_followers": 16302,
   "original_name": "This Is Amber Mark",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afU+gAAAAABVN3v9wwwQ7XkaYjVPZQz8",
+  "snapshot_id": "afaQAAAAAADp6i87h3jL3FDW1LV0S6ZO",
   "tracks": [
     {
       "added_at": null,
@@ -643,22 +643,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "MAKER'S DESIGN",
-        "url": "https://open.spotify.com/album/2TunGa3NkPq54qjCozALUl"
+        "name": "Lovely Day",
+        "url": "https://open.spotify.com/album/4OI5GHBHHCUHYiKDntOiAy"
       },
       "artists": [
-        {
-          "name": "Sherwyn",
-          "url": "https://open.spotify.com/artist/4cxJUMXdHetYoijH951DRV"
-        },
         {
           "name": "Amber Mark",
           "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
         }
       ],
-      "duration_ms": 209773,
-      "name": "GODDESS REIGN",
-      "url": "https://open.spotify.com/track/1PTYb9Ta9dBHSXexc9etic"
+      "duration_ms": 180839,
+      "name": "Lovely Day",
+      "url": "https://open.spotify.com/track/4kx8ErC9E73WvzjZYBXjiO"
     },
     {
       "added_at": null,
@@ -699,18 +695,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lovely Day",
-        "url": "https://open.spotify.com/album/4OI5GHBHHCUHYiKDntOiAy"
+        "name": "MAKER'S DESIGN",
+        "url": "https://open.spotify.com/album/2TunGa3NkPq54qjCozALUl"
       },
       "artists": [
+        {
+          "name": "Sherwyn",
+          "url": "https://open.spotify.com/artist/4cxJUMXdHetYoijH951DRV"
+        },
         {
           "name": "Amber Mark",
           "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
         }
       ],
-      "duration_ms": 180839,
-      "name": "Lovely Day",
-      "url": "https://open.spotify.com/track/4kx8ErC9E73WvzjZYBXjiO"
+      "duration_ms": 209773,
+      "name": "GODDESS REIGN",
+      "url": "https://open.spotify.com/track/1PTYb9Ta9dBHSXexc9etic"
     },
     {
       "added_at": null,

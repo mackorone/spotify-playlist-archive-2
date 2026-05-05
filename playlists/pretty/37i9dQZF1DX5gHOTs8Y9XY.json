@@ -1,6 +1,6 @@
 {
   "description": "A beginners introduction to the beauty of Jazz. Cover: Chet Baker",
-  "num_followers": 14089,
+  "num_followers": 14169,
   "original_name": "Jazz for Beginners",
   "owner": {
     "name": "Spotify",
@@ -111,22 +111,6 @@
     {
       "added_at": "2024-07-17 12:31:26",
       "album": {
-        "name": "Chet Baker Sings",
-        "url": "https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 201440,
-      "name": "I Fall In Love Too Easily",
-      "url": "https://open.spotify.com/track/0F845nujLVqCb0XMZCh5Pc"
-    },
-    {
-      "added_at": "2024-07-17 12:31:26",
-      "album": {
         "name": "The Astrud Gilberto Album",
         "url": "https://open.spotify.com/album/6haDxdERWK3rdVCGc2jr8E"
       },
@@ -143,6 +127,22 @@
       "duration_ms": 138013,
       "name": "\u00c1gua de Beber",
       "url": "https://open.spotify.com/track/3QKJELWORZZ7rUZDWeMWSA"
+    },
+    {
+      "added_at": "2024-07-17 12:31:26",
+      "album": {
+        "name": "Chet Baker Sings",
+        "url": "https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 201440,
+      "name": "I Fall In Love Too Easily",
+      "url": "https://open.spotify.com/track/0F845nujLVqCb0XMZCh5Pc"
     },
     {
       "added_at": "2024-07-17 12:31:26",
@@ -203,22 +203,6 @@
     {
       "added_at": "2024-07-17 12:31:26",
       "album": {
-        "name": "Chet Baker Sings",
-        "url": "https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 141133,
-      "name": "My Funny Valentine",
-      "url": "https://open.spotify.com/track/4l9hml2UCnxoNI3yCdL1BW"
-    },
-    {
-      "added_at": "2024-07-17 12:31:26",
-      "album": {
         "name": "The Shadow Of Your Smile",
         "url": "https://open.spotify.com/album/37xKx9ymHBSgYX02zZhwb9"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 142533,
       "name": "Fly Me To The Moon",
       "url": "https://open.spotify.com/track/7ilc2TB1RZXbQJyFs5qCiC"
+    },
+    {
+      "added_at": "2024-07-17 12:31:26",
+      "album": {
+        "name": "Chet Baker Sings",
+        "url": "https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 141133,
+      "name": "My Funny Valentine",
+      "url": "https://open.spotify.com/track/4l9hml2UCnxoNI3yCdL1BW"
     },
     {
       "added_at": "2024-07-17 12:31:26",
@@ -367,6 +367,22 @@
     {
       "added_at": "2024-07-17 12:31:26",
       "album": {
+        "name": "Satchmo Serenades",
+        "url": "https://open.spotify.com/album/17fcllu2aPjrx4ZCm05jMc"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 181493,
+      "name": "A Kiss To Build A Dream On - Single Version",
+      "url": "https://open.spotify.com/track/5y8zb3grlQonjdqd27K39T"
+    },
+    {
+      "added_at": "2024-07-17 12:31:26",
+      "album": {
         "name": "The President Plays With The Oscar Peterson Trio",
         "url": "https://open.spotify.com/album/7JkisS9bjzaQCgJ9btGjfq"
       },
@@ -387,22 +403,6 @@
     {
       "added_at": "2024-07-17 12:31:26",
       "album": {
-        "name": "Satchmo Serenades",
-        "url": "https://open.spotify.com/album/17fcllu2aPjrx4ZCm05jMc"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 181493,
-      "name": "A Kiss To Build A Dream On - Single Version",
-      "url": "https://open.spotify.com/track/5y8zb3grlQonjdqd27K39T"
-    },
-    {
-      "added_at": "2024-07-17 12:31:26",
-      "album": {
         "name": "Night Train (Expanded Edition)",
         "url": "https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v"
       },
@@ -415,22 +415,6 @@
       "duration_ms": 223973,
       "name": "Georgia On My Mind",
       "url": "https://open.spotify.com/track/7p6ZeiNtEHJKmc4YWBZELG"
-    },
-    {
-      "added_at": "2024-07-17 12:31:26",
-      "album": {
-        "name": "Chet Baker Sings",
-        "url": "https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 166760,
-      "name": "Time After Time - Vocal Version",
-      "url": "https://open.spotify.com/track/4m6OC8u2rC6LMFtFWsME7d"
     },
     {
       "added_at": "2024-07-17 12:31:26",
@@ -451,18 +435,18 @@
     {
       "added_at": "2024-07-17 12:31:26",
       "album": {
-        "name": "Waltz For Debby (Original Jazz Classics Remaster 2010)",
-        "url": "https://open.spotify.com/album/0MjlKhtsyax9HSWNkYaWM2"
+        "name": "Chet Baker Sings",
+        "url": "https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4"
       },
       "artists": [
         {
-          "name": "Bill Evans Trio",
-          "url": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
         }
       ],
-      "duration_ms": 297320,
-      "name": "My Foolish Heart",
-      "url": "https://open.spotify.com/track/6yKkA8HzwWTZ5taIMaG4Nm"
+      "duration_ms": 166760,
+      "name": "Time After Time - Vocal Version",
+      "url": "https://open.spotify.com/track/4m6OC8u2rC6LMFtFWsME7d"
     },
     {
       "added_at": "2024-07-17 12:31:26",
@@ -499,18 +483,18 @@
     {
       "added_at": "2024-07-17 12:31:26",
       "album": {
-        "name": "Chet Baker Sings",
-        "url": "https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4"
+        "name": "Waltz For Debby (Original Jazz Classics Remaster 2010)",
+        "url": "https://open.spotify.com/album/0MjlKhtsyax9HSWNkYaWM2"
       },
       "artists": [
         {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+          "name": "Bill Evans Trio",
+          "url": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
         }
       ],
-      "duration_ms": 179640,
-      "name": "I Get Along Without You Very Well (Except Sometimes) - Vocal Version",
-      "url": "https://open.spotify.com/track/4gFlHAye7To29Fs4UszQUH"
+      "duration_ms": 297320,
+      "name": "My Foolish Heart",
+      "url": "https://open.spotify.com/track/6yKkA8HzwWTZ5taIMaG4Nm"
     },
     {
       "added_at": "2024-07-17 12:31:26",
@@ -527,6 +511,22 @@
       "duration_ms": 570720,
       "name": "Moanin'",
       "url": "https://open.spotify.com/track/4Vkk3iD1VrENHJEACNddvt"
+    },
+    {
+      "added_at": "2024-07-17 12:31:26",
+      "album": {
+        "name": "Chet Baker Sings",
+        "url": "https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 179640,
+      "name": "I Get Along Without You Very Well (Except Sometimes) - Vocal Version",
+      "url": "https://open.spotify.com/track/4gFlHAye7To29Fs4UszQUH"
     },
     {
       "added_at": "2024-07-17 12:31:26",
@@ -579,6 +579,22 @@
     {
       "added_at": "2024-07-17 12:31:26",
       "album": {
+        "name": "Sarah Vaughan's Golden Hits",
+        "url": "https://open.spotify.com/album/6pZ5dSsfNRSuMV9RcMyfwU"
+      },
+      "artists": [
+        {
+          "name": "Sarah Vaughan",
+          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+        }
+      ],
+      "duration_ms": 179373,
+      "name": "Misty",
+      "url": "https://open.spotify.com/track/7gHFBNy0Qn86xGKJ9OdFTw"
+    },
+    {
+      "added_at": "2024-07-17 12:31:26",
+      "album": {
         "name": "The Changing Lights (Bonus Edition)",
         "url": "https://open.spotify.com/album/1pPiNmApPW6E2yPCGth1RA"
       },
@@ -611,22 +627,6 @@
     {
       "added_at": "2024-07-17 12:31:26",
       "album": {
-        "name": "Twentysomething",
-        "url": "https://open.spotify.com/album/6FbhvZweI6o9Szb2j9ls9o"
-      },
-      "artists": [
-        {
-          "name": "Jamie Cullum",
-          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
-        }
-      ],
-      "duration_ms": 201400,
-      "name": "These Are The Days",
-      "url": "https://open.spotify.com/track/1eWgwHZXvYG6Odpx7QwJmT"
-    },
-    {
-      "added_at": "2024-07-17 12:31:26",
-      "album": {
         "name": "The Complete Dinah Washington On Mercury, Vol.4 (1954-1956)",
         "url": "https://open.spotify.com/album/7MpI5x3ALFKVNTO0OZ7NfB"
       },
@@ -643,18 +643,18 @@
     {
       "added_at": "2024-07-17 12:31:26",
       "album": {
-        "name": "Sarah Vaughan's Golden Hits",
-        "url": "https://open.spotify.com/album/6pZ5dSsfNRSuMV9RcMyfwU"
+        "name": "Twentysomething",
+        "url": "https://open.spotify.com/album/6FbhvZweI6o9Szb2j9ls9o"
       },
       "artists": [
         {
-          "name": "Sarah Vaughan",
-          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
         }
       ],
-      "duration_ms": 179373,
-      "name": "Misty",
-      "url": "https://open.spotify.com/track/7gHFBNy0Qn86xGKJ9OdFTw"
+      "duration_ms": 201400,
+      "name": "These Are The Days",
+      "url": "https://open.spotify.com/track/1eWgwHZXvYG6Odpx7QwJmT"
     },
     {
       "added_at": "2024-07-17 12:31:26",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2024-07-17 12:31:26",
       "album": {
-        "name": "Greatest Performances Original Recordings",
-        "url": "https://open.spotify.com/album/0HnXnEBr9Whc6Go4Bw0km6"
-      },
-      "artists": [
-        {
-          "name": "Judy Garland",
-          "url": "https://open.spotify.com/artist/0hItVPjwJLVZrFqOyIsxPf"
-        }
-      ],
-      "duration_ms": 167466,
-      "name": "Over The Rainbow",
-      "url": "https://open.spotify.com/track/3wAIcORchxdSkWv6v5AkaU"
-    },
-    {
-      "added_at": "2024-07-17 12:31:26",
-      "album": {
         "name": "Ken Burns Jazz-Benny Goodman",
         "url": "https://open.spotify.com/album/2fIAk4u4vd8yy8th8ZSlbS"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 520133,
       "name": "Sing, Sing, Sing",
       "url": "https://open.spotify.com/track/61znp1Iy11bdJ2YAbwaqw7"
+    },
+    {
+      "added_at": "2024-07-17 12:31:26",
+      "album": {
+        "name": "Greatest Performances Original Recordings",
+        "url": "https://open.spotify.com/album/0HnXnEBr9Whc6Go4Bw0km6"
+      },
+      "artists": [
+        {
+          "name": "Judy Garland",
+          "url": "https://open.spotify.com/artist/0hItVPjwJLVZrFqOyIsxPf"
+        }
+      ],
+      "duration_ms": 167466,
+      "name": "Over The Rainbow",
+      "url": "https://open.spotify.com/track/3wAIcORchxdSkWv6v5AkaU"
     },
     {
       "added_at": "2024-07-17 12:31:26",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2024-07-17 12:31:26",
       "album": {
-        "name": "The Astrud Gilberto Album",
-        "url": "https://open.spotify.com/album/6haDxdERWK3rdVCGc2jr8E"
-      },
-      "artists": [
-        {
-          "name": "Astrud Gilberto",
-          "url": "https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF"
-        }
-      ],
-      "duration_ms": 161173,
-      "name": "Dindi",
-      "url": "https://open.spotify.com/track/13Nh6UPBy8WgoTc5l7iGR8"
-    },
-    {
-      "added_at": "2024-07-17 12:31:26",
-      "album": {
         "name": "The Sidewinder (The Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/1n1trPeeY9Q5H4eLbbHHRg"
       },
@@ -1219,18 +1203,18 @@
     {
       "added_at": "2024-07-17 12:31:26",
       "album": {
-        "name": "Don't Go To Strangers",
-        "url": "https://open.spotify.com/album/7qK1Ds1huhA9XyVZBx9kkx"
+        "name": "The Astrud Gilberto Album",
+        "url": "https://open.spotify.com/album/6haDxdERWK3rdVCGc2jr8E"
       },
       "artists": [
         {
-          "name": "Etta Jones",
-          "url": "https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0"
+          "name": "Astrud Gilberto",
+          "url": "https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF"
         }
       ],
-      "duration_ms": 230066,
-      "name": "If I Had You",
-      "url": "https://open.spotify.com/track/79nMHWTfds6KJu5zWQbQ4n"
+      "duration_ms": 161173,
+      "name": "Dindi",
+      "url": "https://open.spotify.com/track/13Nh6UPBy8WgoTc5l7iGR8"
     },
     {
       "added_at": "2024-07-17 12:31:26",
@@ -1247,6 +1231,22 @@
       "duration_ms": 160853,
       "name": "Beautiful Love",
       "url": "https://open.spotify.com/track/3lXgCSYCH9wCTHHLnpBzig"
+    },
+    {
+      "added_at": "2024-07-17 12:31:26",
+      "album": {
+        "name": "Don't Go To Strangers",
+        "url": "https://open.spotify.com/album/7qK1Ds1huhA9XyVZBx9kkx"
+      },
+      "artists": [
+        {
+          "name": "Etta Jones",
+          "url": "https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0"
+        }
+      ],
+      "duration_ms": 230066,
+      "name": "If I Had You",
+      "url": "https://open.spotify.com/track/79nMHWTfds6KJu5zWQbQ4n"
     },
     {
       "added_at": "2024-07-17 12:31:26",

@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-1,180 songs - 3 day 14 hr 48 min
+1,181 songs - 3 day 14 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Above](https://open.spotify.com/track/0TCBdI2nBP9EPd0DobvegE) | [Liam Mour](https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0) | [Above](https://open.spotify.com/album/5SkzoviL3Yb4OADgc3cV6k) | 3:07 | 2021-11-26 |  |
 | [Abrasive](https://open.spotify.com/track/4nj6E9ulLdptv9yELjV4gF) | [Milton Breech](https://open.spotify.com/artist/4m9ky9cpnow3EZ44QgB90k) | [Abrasive](https://open.spotify.com/album/0Lp93hgJq0UTlZz3qbPKMW) | 2:49 | 2019-06-19 | 2020-08-26 |
 | [ACE OF CUPS](https://open.spotify.com/track/1upAhgDBWCV0AvUxgAU6SR) | [LSDREAM](https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND) | [RENEGADES OF LIGHT](https://open.spotify.com/album/4KVo7hcHmc7x12sszqdLAN) | 2:59 | 2019-06-19\* |  |
-| [Acrobat](https://open.spotify.com/track/5UEM8XAADYEki5PBqR9wbI) | [Marco Shuttle](https://open.spotify.com/artist/2DqPerh6whhlts8Pb0BUJi) | [Cobalt Desert Oasis](https://open.spotify.com/album/5CF51zMpCiEKUReRLJyoDb) | 4:16 | 2025-12-18 |  |
+| [Acrobat](https://open.spotify.com/track/5UEM8XAADYEki5PBqR9wbI) | [Marco Shuttle](https://open.spotify.com/artist/2DqPerh6whhlts8Pb0BUJi) | [Cobalt Desert Oasis](https://open.spotify.com/album/5CF51zMpCiEKUReRLJyoDb) | 4:16 | 2025-12-18 | 2026-05-05 |
 | [Actually Smiling](https://open.spotify.com/track/0v3GjBnLt14cwS849QuX3p) | [Geotic](https://open.spotify.com/artist/30wki8WYREGLQPm623vzkZ) | [Abysma](https://open.spotify.com/album/19fG1FIY9GZUyxM4ehuTvV) | 4:54 | 2023-06-22 | 2023-09-17 |
 | [Adagio for Square](https://open.spotify.com/track/5IlR8G1OEn99cV3WB49O7o) | [Worakls](https://open.spotify.com/artist/5RPzPJCg4ER1LzQkorZ31p) | [Adagio For Square](https://open.spotify.com/album/21405c2hee8mPCH11ng0Ie) | 5:40 | 2019-05-26\* | 2019-06-19 |
 | [Adieu](https://open.spotify.com/track/2M5qth30iBEU1DwurvxaAE) | [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi) | [Divide & Conquer](https://open.spotify.com/album/2EvKkEYA4lEptctltrFEpz) | 1:40 | 2019-05-26\* | 2020-10-22 |
@@ -719,7 +719,7 @@
 | [Olo](https://open.spotify.com/track/2P8CicrYJacONOh0F9awzs) | [Ivy Lab](https://open.spotify.com/artist/3VXCvo9Sr0hbZ4mk6VOKBs) | [Olo](https://open.spotify.com/album/27sPbhj334yQduAIlmLwy7) | 4:37 | 2024-08-02 | 2024-09-23 |
 | [On Deck](https://open.spotify.com/track/7hNWjvl7amThfh2uiZjoOa) | [Facta](https://open.spotify.com/artist/5qdAJ2QyXRasXUmyesONEn) | [Blush](https://open.spotify.com/album/1yGxezsFucvvSt7prKCQje) | 3:35 | 2021-04-27 | 2022-04-19 |
 | [Once Around](https://open.spotify.com/track/17C3EXdU2eFGKnesQTkEJr) | [Cubicolor](https://open.spotify.com/artist/4nMIbZxtt1kWqUZ8VNKvjU) | [Hardly A Day, Hardly A Night](https://open.spotify.com/album/3sXK7ip7DA3SZSKeYFbf6Q) | 3:42 | 2020-04-23 |  |
-| [One Day \- Polygonia Remix](https://open.spotify.com/track/0IRh622wqPUllaAb74TEbO) | [Lenxi](https://open.spotify.com/artist/441uI2vVpAjd9FzhIQGsfA), [Polygonia](https://open.spotify.com/artist/1bvMkEwyURFPl2eDGZieUm) | [One Day \(Polygonia Remix\)](https://open.spotify.com/album/2OTDiJyHtlGAFfr03R1wHD) | 5:29 | 2026-04-16 |  |
+| [One Day \- Polygonia Remix](https://open.spotify.com/track/0IRh622wqPUllaAb74TEbO) | [Lenxi](https://open.spotify.com/artist/441uI2vVpAjd9FzhIQGsfA), [Polygonia](https://open.spotify.com/artist/1bvMkEwyURFPl2eDGZieUm) | [One Day \(Polygonia Remix\)](https://open.spotify.com/album/2OTDiJyHtlGAFfr03R1wHD) | 5:29 | 2026-04-16 | 2026-05-05 |
 | [One More Hour](https://open.spotify.com/track/1sWnKhSzwYXkdS9ri2HwPE) | [Amtrac](https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J) | [One More Hour](https://open.spotify.com/album/0sp3BCsO6JxuD7JkWl8HAH) | 5:37 | 2024-06-14 |  |
 | [One Step Forward](https://open.spotify.com/track/0rIzxXL4cQzPBFtF2NsOSI) | [Direct](https://open.spotify.com/artist/5eOyDcFvvdc7D7BD6gCdsi) | [Trust in Me \- EP](https://open.spotify.com/album/0f8vVaVqgqyVnzeB4m67R0) | 3:19 | 2019-06-19\* | 2022-04-21 |
 | [One Step Forward](https://open.spotify.com/track/5Xo1kp4UljShBuvV5PZfLj) | [Direct](https://open.spotify.com/artist/5eOyDcFvvdc7D7BD6gCdsi) | [Trust In Me](https://open.spotify.com/album/1PXbhHNw3nz8hhYXyICbpA) | 3:19 | 2022-09-09 | 2024-04-19 |
@@ -1151,6 +1151,7 @@
 | [What You Thought That Day](https://open.spotify.com/track/5Y0PzgW5d8zIC7AeX6qhme) | [IDRA](https://open.spotify.com/artist/2hESzaxeYE9Iecec5TwYCH) | [What You Thought That Day](https://open.spotify.com/album/0EFi8FOJEFcEtzZQCj5wzS) | 3:04 | 2024-05-10 | 2026-05-01 |
 | [Whelk Then](https://open.spotify.com/track/3C2EoVLfPVajaocjUBlooV) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [W:/2016ALBUM/](https://open.spotify.com/album/1m1V83RrHAsSfmmM8aKy0x) | 5:39 | 2019-06-24 | 2020-08-26 |
 | [When I Look Into Your Eyes](https://open.spotify.com/track/0uWA1iX0tEOOSfkZs7XYP5) | [Liam Mour](https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0) | [When I Look Into Your Eyes](https://open.spotify.com/album/1JkaeIKoQe9IAJLVjOYH9Z) | 4:12 | 2021-01-17 |  |
+| [When I'm gone](https://open.spotify.com/track/1AkPmTlArQfBCRjCSdrJbJ) | [E.VAX](https://open.spotify.com/artist/12m4a5ljGoe6yyYPpVi7Hr), [Ratatat](https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E) | [When I'm gone](https://open.spotify.com/album/3RZCLzbJDbnZqSKJwaZmNE) | 3:27 | 2026-05-01 |  |
 | [When Will I Learn](https://open.spotify.com/track/15iCIkRtJkYoJJavwSbA3n) | [Tora](https://open.spotify.com/artist/7KGI0OwY8iAL5rI5p47YyK) | [When Will I Learn](https://open.spotify.com/album/5YXLWx2SHUt8AD1iOAFdaR) | 2:49 | 2021-06-10 | 2023-10-14 |
 | [Where Angels Fear To Tread](https://open.spotify.com/track/4vgXDV9qcqnwMQkdyGLSpL) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Where Angels Fear To Tread](https://open.spotify.com/album/0t37MK4qYK7lp7yZaMBYe0) | 3:45 | 2019-06-19\* | 2020-10-19 |
 | [wherever you end up](https://open.spotify.com/track/7LLL33wfg5jS9ApaUCK0YO) | [dj poolboi](https://open.spotify.com/artist/3uL9a8QRwQ6J8Sc7NYK7oJ) | [wherever you end up](https://open.spotify.com/album/1tfclMy22yk1IeCrwb5LIn) | 2:28 | 2024-06-14 | 2025-07-04 |
@@ -1180,7 +1181,7 @@
 | [Yellow Bird](https://open.spotify.com/track/1r5J8bYOWq1Dal5jMQ06WX) | [Pretty Lights](https://open.spotify.com/artist/4iVhFmG8YCCEHANGeUUS9q) | [A Color Map of the Sun \(Deluxe Version\)](https://open.spotify.com/album/4LcmZzFiH4gmNk8meb66iO) | 5:39 | 2019-06-24 | 2020-08-26 |
 | [Yip, Yip, Yip](https://open.spotify.com/track/0Jdoa0h7JwqZIxuRbddFAD) | [LI YILEI](https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp) | [Yip, Yip, Yip](https://open.spotify.com/album/0rk3qC18ghOoB7M4ge5kyO) | 2:03 | 2024-02-12 | 2024-05-09 |
 | [You Left Me](https://open.spotify.com/track/18IYGcquutjcLam5wN7HRq) | [Croquet Club](https://open.spotify.com/artist/6Fn7vKaPgzA6AAIb7EhhV6) | [Love Exposure](https://open.spotify.com/album/3GOcUvecKCw6ImtEP8wldX) | 3:21 | 2021-01-11 |  |
-| [Yu](https://open.spotify.com/track/00EGZT3cVfYHUKEONXdk3Q) | [Player Dave](https://open.spotify.com/artist/1rQItbnVgtRiJkTxHRBUc0) | [Yu](https://open.spotify.com/album/0iwiwHyXryr3N8zjHzJdRm) | 2:40 | 2024-05-24 | 2026-04-22 |
+| [Yu](https://open.spotify.com/track/00EGZT3cVfYHUKEONXdk3Q) | [Player Dave](https://open.spotify.com/artist/1rQItbnVgtRiJkTxHRBUc0) | [Yu](https://open.spotify.com/album/0iwiwHyXryr3N8zjHzJdRm) | 2:40 | 2024-05-24 |  |
 | [Yūrei](https://open.spotify.com/track/0WGzvQMqARePYxra8qZgOr) | [Parris](https://open.spotify.com/artist/438TWpixWUH0KLP6ARfymt) | [Polychrome Swim](https://open.spotify.com/album/5BdjVQkPnr10XILcaiVwhi) | 3:58 | 2020-11-13 | 2022-04-16 |
 | [zero hour contract](https://open.spotify.com/track/0OfvPrxmGF63QBUjnXyzU3) | [ELLES](https://open.spotify.com/artist/6EbSbVKlRuKxfIfr8H7mCo) | [emo\_ecstasy\_everything](https://open.spotify.com/album/5Z7spMFDZwAAQsNhS16gV8) | 4:12 | 2020-10-28 | 2022-06-22 |
 | [zin2 test5](https://open.spotify.com/track/6OGlcUOK8B9Nfy8v5LHsYQ) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Blackbox Life Recorder 21f / in a room7 F760](https://open.spotify.com/album/0yp0GVa92trHmWZuEZTuL2) | 2:39 | 2023-07-28 | 2023-10-14 |

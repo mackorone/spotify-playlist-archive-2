@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QB6oe.md) - [plain]
 
 > This is Pedro Capó\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,623 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,627 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QB6oe.md) - [plain]
 | 25 | [Si Tú Me Lo Pides \(feat\. Kany García\)](https://open.spotify.com/track/3es7XP3HS7TqZqC9Z6cdmd) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy), [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV) | [Pedro Capó](https://open.spotify.com/album/09WFxztbheRZxTiUZezCiz) | 4:12 |
 | 26 | [Quédate](https://open.spotify.com/track/0is5MOZLNpo5iAY3M0B9ml) | [Debi Nova](https://open.spotify.com/artist/5zaG384VZzAb6AMfEnSy2r), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Quédate](https://open.spotify.com/album/2DoBcaHj1t8enwJ8sygr3g) | 2:55 |
 | 27 | [Sin Haber Dormido](https://open.spotify.com/track/4NfO9rUJEMgZ1C9Vw059vc) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Hasta El Alma](https://open.spotify.com/album/6LP2T6ARkvQcoqBornwcox) | 3:07 |
-| 28 | [Sabe Bien](https://open.spotify.com/track/36LDPQfypNqhflhok841qb) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Sabe Bien](https://open.spotify.com/album/2ntsVWNEOkxCYevBecgpvq) | 2:40 |
-| 29 | [Aprender a Vivir](https://open.spotify.com/track/3qKiIjv5OSH6OfgcMcgbzi) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt), [Chambao](https://open.spotify.com/artist/2qhLqZ1pkiUl5HNrU2Nz0R) | [La Carretera](https://open.spotify.com/album/5rVIdtoCee1JB1OaLkTo00) | 3:26 |
+| 28 | [Aprender a Vivir](https://open.spotify.com/track/3qKiIjv5OSH6OfgcMcgbzi) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt), [Chambao](https://open.spotify.com/artist/2qhLqZ1pkiUl5HNrU2Nz0R) | [La Carretera](https://open.spotify.com/album/5rVIdtoCee1JB1OaLkTo00) | 3:26 |
+| 29 | [Sabe Bien](https://open.spotify.com/track/36LDPQfypNqhflhok841qb) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Sabe Bien](https://open.spotify.com/album/2ntsVWNEOkxCYevBecgpvq) | 2:40 |
 | 30 | [Estoy Enamorado](https://open.spotify.com/track/1twgctCV8hHwexACjTzBRn) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [En Letra de Otro](https://open.spotify.com/album/2FSiTQRfhKBOb0my3NK60n) | 3:56 |
 | 31 | [Esto Se Jodió](https://open.spotify.com/track/1PPJODzFMJ0pnn5DgknzSS) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Esto Se Jodió](https://open.spotify.com/album/0F0A7affQSG3f8yJEH8KlY) | 2:39 |
 | 32 | [Para Ayudarte a Reir](https://open.spotify.com/track/6JkWvuiNPt4fmnEdBE4fir) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Aquila](https://open.spotify.com/album/6kNA5bH9hxoZuoUHZJt3fI) | 3:21 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QB6oe.md) - [plain]
 | 41 | [La Neta](https://open.spotify.com/track/0DKIkTI5jB14BEC6sJlsFm) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [La Neta](https://open.spotify.com/album/4jL4G1XbqAKQjp3irG9kl1) | 3:25 |
 | 42 | [Jardín](https://open.spotify.com/track/6SpEFYmSZQJGuyL8tiyhnZ) | [Ale Zéguer](https://open.spotify.com/artist/1jIeEiC6KkryFux23ekWmQ), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Mis No Lugares](https://open.spotify.com/album/5UTVOml5TfH7wUeCkqxM8k) | 2:58 |
 | 43 | [Besos Escondíos \(feat\. Pedro Capó\)](https://open.spotify.com/track/2GzZdNShX80JKeeGSwYtCu) | [India Martinez](https://open.spotify.com/artist/6FOpWOxsjQxKEbLiJpU1xV), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Palmeras](https://open.spotify.com/album/44T0wt9lD2FnxPg5d2qXJL) | 2:42 |
-| 44 | [Libre](https://open.spotify.com/track/4kmeo6vgaOwksRN95HgY9E) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Aquila](https://open.spotify.com/album/6kNA5bH9hxoZuoUHZJt3fI) | 3:58 |
-| 45 | [Cae de Una](https://open.spotify.com/track/3NG3wfTRRPiGLxysGXG5RU) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [PAUSA](https://open.spotify.com/album/3hS1wzvOJuioDs9VV6HW3R) | 3:38 |
+| 44 | [Cae de Una](https://open.spotify.com/track/3NG3wfTRRPiGLxysGXG5RU) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [PAUSA](https://open.spotify.com/album/3hS1wzvOJuioDs9VV6HW3R) | 3:38 |
+| 45 | [Libre](https://open.spotify.com/track/4kmeo6vgaOwksRN95HgY9E) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Aquila](https://open.spotify.com/album/6kNA5bH9hxoZuoUHZJt3fI) | 3:58 |
 | 46 | [El Aprendiz \(with Pedro Capó\) \- En Vivo Desde Guanajuato](https://open.spotify.com/track/6wC2vAyhQo40HeENRI23aq) | [Samo](https://open.spotify.com/artist/68QUssU8KffP7KmgO3Z6Ye), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Me Quito el Sombrero \(En Vivo Desde Guanajuato\)](https://open.spotify.com/album/7cT5blE7IUCgqb20TzbQiJ) | 4:23 |
 | 47 | [La Carretera](https://open.spotify.com/track/42ch5aWgNSzXlTgNpWM2kY) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [La Carretera](https://open.spotify.com/album/5rVIdtoCee1JB1OaLkTo00) | 3:15 |
 | 48 | [¿De qué vamos a hablar?](https://open.spotify.com/track/3Ra7HSy3xOJo3gkdXFZ3NB) | [Camilú](https://open.spotify.com/artist/305uX4OPy99KGVU2dhE2AF), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [¿De qué vamos a hablar?](https://open.spotify.com/album/1dexhNnGvId5xMSu1hlTqh) | 3:05 |
 | 49 | [Detalles](https://open.spotify.com/track/096jMYuaNreIRkEQ4EuM5Z) | [Chambao](https://open.spotify.com/artist/2qhLqZ1pkiUl5HNrU2Nz0R), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Chambao 25 Aniversario](https://open.spotify.com/album/49fgCXV3zoBSdUhsGl6V7A) | 3:25 |
 | 50 | [Piel Canela \(Casa Sole\)](https://open.spotify.com/track/44WRi9pjOVWlAv3tmYKOln) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy), [Chango Spasiuk](https://open.spotify.com/artist/0qGRkfnUqWeG49vbCv6rMY) | [Piel Canela \(Casa Sole\)](https://open.spotify.com/album/5HuL8cVtREOCRVr60LcUtU) | 3:12 |
 
-Snapshot ID: `afU+gAAAAABTw4ibdBLqosl6qe/DPNPh`
+Snapshot ID: `afaQAAAAAABb8Nb4NiEuh2TpoiGp7kyp`

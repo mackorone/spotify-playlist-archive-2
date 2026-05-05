@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09XVCM.md) - [plain]
 
 > This is Ziggy Marley\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,161 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,171 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09XVCM.md) - [plain]
 | 10 | [The Chapel](https://open.spotify.com/track/63S7jRVkIHo97J2vgMTbF6) | [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Revelation Part 1: The Root Of Life](https://open.spotify.com/album/3tRUM2HJcrvRzwQCDRUS73) | 4:52 |
 | 11 | [A Lifetime](https://open.spotify.com/track/0SoUvs8IebBx2ZoDBwGqSk) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Love Is My Religion](https://open.spotify.com/album/6gbz6snf68aII9mDozVdkp) | 4:48 |
 | 12 | [Spin It Faster](https://open.spotify.com/track/65kIGQ8TIXVLKxcZahctVO) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Spin It Faster](https://open.spotify.com/album/1T6SLtqelpeRnPQAG2ehKI) | 3:56 |
-| 13 | [High On Life](https://open.spotify.com/track/43fy3v7rNHzhR0XypcpCQc) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Rebellion Rises](https://open.spotify.com/album/21neJIeMqBu6WFZvS6ZIwj) | 3:04 |
-| 14 | [Roots, Rock, Reggae \- Live](https://open.spotify.com/track/2AVcwdUR9479DrbWDRK07l) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Bob Marley 75th Celebration \(Pt.1\) \[Live\]](https://open.spotify.com/album/4hcPkbsM5RqsxOym5uLzR6) | 4:52 |
+| 13 | [Roots, Rock, Reggae \- Live](https://open.spotify.com/track/2AVcwdUR9479DrbWDRK07l) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Bob Marley 75th Celebration \(Pt.1\) \[Live\]](https://open.spotify.com/album/4hcPkbsM5RqsxOym5uLzR6) | 4:52 |
+| 14 | [High On Life](https://open.spotify.com/track/43fy3v7rNHzhR0XypcpCQc) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Rebellion Rises](https://open.spotify.com/album/21neJIeMqBu6WFZvS6ZIwj) | 3:04 |
 | 15 | [What a Wonderful World](https://open.spotify.com/track/36bNugatsCkXmPz3uJOdIx) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [The Disney Reggae Club](https://open.spotify.com/album/4TwY0yW17Tqf4qNcr6tVSg) | 3:18 |
 | 16 | [América Vibra](https://open.spotify.com/track/3RZtzSdjGLrETsnm2JVqMB) | [Natiruts](https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [Yalitza Aparicio](https://open.spotify.com/artist/3Spa8nHPVqwproM33tHfE8) | [Good Vibration \- Vol\. 1](https://open.spotify.com/album/4F6bIheCKeB1DdoG5OaoYG) | 4:21 |
 | 17 | [Good Ol' Days \(featuring Cedella Marley\)](https://open.spotify.com/track/28Q2F391hseaFE88B3jki4) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Dragonfly](https://open.spotify.com/album/62Ot058LfUzRFxbramAggQ) | 4:17 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09XVCM.md) - [plain]
 | 30 | [Personal Revolution](https://open.spotify.com/track/18zWYolDSOdfJIEyMLyGWa) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Wild and Free](https://open.spotify.com/album/6yek0cOvHIJMWrqhamDq4o) | 4:54 |
 | 31 | [One Love/People Get Ready \- Live](https://open.spotify.com/track/72O23qlY7x6kh45WWhAhZB) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Bob Marley 75th Celebration \(Pt.1\) \[Live\]](https://open.spotify.com/album/4hcPkbsM5RqsxOym5uLzR6) | 5:06 |
 | 32 | [Sedjedo](https://open.spotify.com/track/7gb6UolAvBNPad7IIXLoAB) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Djin Djin](https://open.spotify.com/album/1Bb5UeMGzTX0n8Gm3U86MY) | 3:56 |
-| 33 | [Never Deny You](https://open.spotify.com/track/1s880jwzyxe6OTaiPJ8i9S) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Dragonfly](https://open.spotify.com/album/62Ot058LfUzRFxbramAggQ) | 4:02 |
-| 34 | [Sunshine \(feat\. RUSL\) \- RUSL Remix](https://open.spotify.com/track/7ljp7KHGbCoXSWB8rq6g76) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [RUSL](https://open.spotify.com/artist/2xubHcmLfIGaulRsuseccA) | [Remixes](https://open.spotify.com/album/1UPInuHMWkRodfsDYPyhYx) | 3:08 |
+| 33 | [Sunshine \(feat\. RUSL\) \- RUSL Remix](https://open.spotify.com/track/7ljp7KHGbCoXSWB8rq6g76) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [RUSL](https://open.spotify.com/artist/2xubHcmLfIGaulRsuseccA) | [Remixes](https://open.spotify.com/album/1UPInuHMWkRodfsDYPyhYx) | 3:08 |
+| 34 | [Never Deny You](https://open.spotify.com/track/1s880jwzyxe6OTaiPJ8i9S) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Dragonfly](https://open.spotify.com/album/62Ot058LfUzRFxbramAggQ) | 4:02 |
 | 35 | [Positive Vibration \- Live](https://open.spotify.com/track/586RM5fmoVHHCrjMKZHj8O) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Bob Marley 75th Celebration \(Pt.1\) \[Live\]](https://open.spotify.com/album/4hcPkbsM5RqsxOym5uLzR6) | 4:16 |
 | 36 | [Cornerstone](https://open.spotify.com/track/5GMU4f9HzsXfap1QGQAwW6) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1), [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi), [The Marley Brothers](https://open.spotify.com/artist/53lYQjtmgJPaOseKa1sttY), [Ky\-Mani Marley](https://open.spotify.com/artist/1XTGADISSMRf8B4TcVGYUC), [Julian Marley](https://open.spotify.com/artist/7a4td2FhkuH58dApiBvnrv) | [Cornerstone](https://open.spotify.com/album/2jqGD1iy3gicuNA83FXx9E) | 3:56 |
 | 37 | [See Dem Fake Leaders](https://open.spotify.com/track/4gqqpISVZZFunkgIBuo0ht) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Rebellion Rises](https://open.spotify.com/album/21neJIeMqBu6WFZvS6ZIwj) | 3:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09XVCM.md) - [plain]
 | 49 | [Lift Our Spirits Raise Our Voice](https://open.spotify.com/track/7IHx43ARFywJyi0SDbY85D) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Lift Our Spirits Raise Our Voice](https://open.spotify.com/album/6adgWIIDhXZrs4WgZWxqUQ) | 3:56 |
 | 50 | [Family Time \(feat\. Judah Marley\)](https://open.spotify.com/track/34OvVyZ6Vq0AcAnI6LMnjM) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [Judah Marley](https://open.spotify.com/artist/5n4DiYhGBepDhn9AJymujP) | [Family Time](https://open.spotify.com/album/3wsu2mRApfZ2eV3lYtg2l3) | 4:20 |
 
-Snapshot ID: `afU+gAAAAABDiWruu3DpGlXCa0PhYaZZ`
+Snapshot ID: `afaQAAAAAAC7PRzI9M1ykikonqma6KZv`

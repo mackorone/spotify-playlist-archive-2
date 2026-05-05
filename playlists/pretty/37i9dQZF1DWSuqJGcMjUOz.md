@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuqJGcMjUOz.md) - [plain]
 
 > Découvrez les artistes à l'affiche de l’édition 2026 des Francos de Montréal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,753 likes - 112 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,781 likes - 112 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuqJGcMjUOz.md) - [plain]
 | 10 | [Ce n'est rien](https://open.spotify.com/track/0klbnFP6UwMYpUuKjhleKT) | [Julien Clerc](https://open.spotify.com/artist/7gVzeNvBbUpj6PXX5ekCMs) | [Niagara](https://open.spotify.com/album/4PXN6s7jgy76nUzLdPFGvU) | 3:34 |
 | 11 | [Zouk la sé sél médikaman nou ni](https://open.spotify.com/track/1ClNPMTFEKVSZBgTBVoweW) | [Kassav'](https://open.spotify.com/artist/3y21aFfQQ1Y9dALQLIJ4vj) | [Best of 20ème anniversaire](https://open.spotify.com/album/3iJNet71632y62wPG29sJJ) | 5:23 |
 | 12 | [Sans visage](https://open.spotify.com/track/1x8L6dzrA5JhWjh1OXoAA5) | [Klô Pelgag](https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi) | [Abracadabra](https://open.spotify.com/album/1Qx4Ifq9PMRQhjF7pChakY) | 4:12 |
-| 13 | [Détour](https://open.spotify.com/track/1tNkPq82RnRFLbADmE91v4) | [Koriass](https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq), [St\-Prince](https://open.spotify.com/artist/4l9XlDeGxPJgWnF7OoEpgC) | [Détour](https://open.spotify.com/album/0lBDkYz9Wc1jlo1YdvTfA4) | 3:39 |
+| 13 | [DÉTOUR](https://open.spotify.com/track/1tNkPq82RnRFLbADmE91v4) | [Koriass](https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq), [St\-Prince](https://open.spotify.com/artist/4l9XlDeGxPJgWnF7OoEpgC) | [DÉTOUR](https://open.spotify.com/album/0lBDkYz9Wc1jlo1YdvTfA4) | 3:39 |
 | 14 | [La ziguezon](https://open.spotify.com/track/2Vmf6V7IQAVZlUcjE2FbDc) | [La Bottine Souriante](https://open.spotify.com/artist/7ba7eFah7fB6SbgnSufYBJ) | [Chic & Swell](https://open.spotify.com/album/4YH9MXN39Roa0QdQKceH9l) | 3:42 |
 | 15 | [Le Dôme](https://open.spotify.com/track/2OJfEiydhwZE0TVRFe8kbd) | [Jean Leloup](https://open.spotify.com/artist/4wxSKb9ur3AbGRCv81xFAd) | [Le Dôme](https://open.spotify.com/album/4hu7QPcrXSE3IlxWQrLklg) | 4:36 |
 | 16 | [Je serai \(ta meilleure amie\)](https://open.spotify.com/track/4FL6ttDXeXjgxXLII24wEX) | [Lorie](https://open.spotify.com/artist/2ixb8I8BVdLRywPPklssgM) | [Près de toi](https://open.spotify.com/album/1B6RzSe2BIlIGlysDj3HLw) | 3:29 |

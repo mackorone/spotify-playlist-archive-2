@@ -310,22 +310,6 @@
         {
           "name": "Shyness!",
           "url": "https://open.spotify.com/artist/4qAVYs7aD1BMBRPn9dAKym"
-        },
-        {
-          "name": "Iwona Skwarek",
-          "url": "https://open.spotify.com/artist/5H6f0xe7z2To6V8Z0WdU1T"
-        },
-        {
-          "name": "Joanna Bielawska",
-          "url": "https://open.spotify.com/artist/7CfyoPk6HC3LjVaF40ism9"
-        },
-        {
-          "name": "Julia Pacy\u0144ska",
-          "url": "https://open.spotify.com/artist/5HnD6lhPPa8T6WzWUWHZBP"
-        },
-        {
-          "name": "Iga Krzysik",
-          "url": "https://open.spotify.com/artist/4BaCkCy0LxxoypCakzYTSd"
         }
       ],
       "duration_ms": 205038,
@@ -388,12 +372,12 @@
       },
       "artists": [
         {
-          "name": "Domin",
-          "url": "https://open.spotify.com/artist/5BrYU5AWfh1TfOPGOEVQkn"
-        },
-        {
           "name": "Faustyna Maciejczuk",
           "url": "https://open.spotify.com/artist/3CIcRH4j4mWpUv8n2UrImj"
+        },
+        {
+          "name": "Domin",
+          "url": "https://open.spotify.com/artist/5BrYU5AWfh1TfOPGOEVQkn"
         }
       ],
       "duration_ms": 132187,

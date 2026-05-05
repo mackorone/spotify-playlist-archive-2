@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 > Hottest indie sounds from Asia\. Cover: Balming Tiger \(Korea\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,553 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,557 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Home](https://open.spotify.com/track/4Jh1j1eW0QHit7mDXnU9mA) | [Balming Tiger](https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1) | [Home](https://open.spotify.com/album/7LU8MORZ4LZQtNyrtpYcct) | 3:55 |
-| 2 | [Window](https://open.spotify.com/track/4iUxryTOl8KT0ZLETYNZjv) | [Wellsaid](https://open.spotify.com/artist/03YL8KDv0Ui8DNBe1KJwnG), [Lil Gato](https://open.spotify.com/artist/2nkrdVHRpBCTvjyRpaHzCV) | [Window / Home \(7"\)](https://open.spotify.com/album/5oBTvB6jI4ZFdtXHSmpa9w) | 4:44 |
+| 2 | [Window](https://open.spotify.com/track/4iUxryTOl8KT0ZLETYNZjv) | [Wellsaid](https://open.spotify.com/artist/03YL8KDv0Ui8DNBe1KJwnG), [Lilly Gato](https://open.spotify.com/artist/0eJvw0ezIgTIHJTDyog4zr) | [Window / Home \(7"\)](https://open.spotify.com/album/5oBTvB6jI4ZFdtXHSmpa9w) | 4:44 |
 | 3 | [small flower](https://open.spotify.com/track/6y678ZhvSqMBeqRylknMo5) | [OurR](https://open.spotify.com/artist/5lC9qDfzcZb5iQp6x17ASP) | [small flower](https://open.spotify.com/album/6BceS6U3tyBiusj5Fx4Wl9) | 3:27 |
 | 4 | [Day One](https://open.spotify.com/track/6wldZLtGqvQ8vUiy11FtTt) | [FIG](https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8) | [Day One](https://open.spotify.com/album/4jg8dWycV6IFL8kEUKVoCw) | 2:27 |
 | 5 | [I DON'T WANNA DIE!](https://open.spotify.com/track/6wfgtLGaf3CRNHUrl27OdF) | [Tempalay](https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP) | [I DON'T WANNA DIE!](https://open.spotify.com/album/48811XY5WEWKtkPZZK6JEk) | 3:15 |

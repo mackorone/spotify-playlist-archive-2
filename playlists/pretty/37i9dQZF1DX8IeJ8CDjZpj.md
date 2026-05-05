@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8IeJ8CDjZpj.md) - [plain]
 
 > ¡Vamos a sudar la gota gorda al ritmo de la tuba y Los Recorditos! 🥵💪🏽🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,433 likes - 40 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,355 likes - 40 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,10 +41,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8IeJ8CDjZpj.md) - [plain]
 | 31 | [Pelotero](https://open.spotify.com/track/6kn38zU13HMcg7C9PXljsT) | [Carlos Sarabia](https://open.spotify.com/artist/1aLC6PgrX4A5tfrpQozpQw) | [Misconsentidas Vol 2](https://open.spotify.com/album/4AaSZXkKJhhLt13FOX0ntX) | 2:29 |
 | 32 | [Tacones Rojos \- Versión Banda](https://open.spotify.com/track/2FQU2RwRs9dBzp27a8zaSL) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Tacones Rojos \(Versión Banda\)](https://open.spotify.com/album/6oDVmxBdleet63McEWxnRh) | 3:11 |
 | 33 | [S Cool...ito](https://open.spotify.com/track/5Ru0MfnGGTxpSsLLLpG4mR) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [S Cool...ito](https://open.spotify.com/album/4w8BHpxUYiFrMnwlCyk6L1) | 2:28 |
-| 34 | [COQUETO TAZO DORADO](https://open.spotify.com/track/3em90DscDPoispuwsdd2aT) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [COQUETO TAZO DORADO](https://open.spotify.com/album/0Tv8a7UNMKcvNXMCntg7fC) | 3:30 |
+| 34 | [Popurrí De Cumbias Y Rock And Roll](https://open.spotify.com/track/4fxUwmiIzsj9jghcOrqM8D) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Popurrí De Cumbias Y Rock And Roll](https://open.spotify.com/album/112LmpBOxGXwSdTV97ErcM) | 7:50 |
 | 35 | [Pasito Perrón](https://open.spotify.com/track/1eAkbvqdffsTXr3xkOrdQi) | [La Poderosa Banda San Juan](https://open.spotify.com/artist/3U1u6ytK0DaM89dqiVxB0u) | [Pasito Perrón](https://open.spotify.com/album/1PdqqVYxEInKTxObuRQdWK) | 3:31 |
 | 36 | [Si Tu Boquita Fuera](https://open.spotify.com/track/5HQ9HWg2T6ZWeQ2JeasHo0) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Se Pronostican Borracheras](https://open.spotify.com/album/2d1vtKw2auTTDRKYgnDMiW) | 2:16 |
-| 37 | [Popurrí De Cumbias Y Rock And Roll](https://open.spotify.com/track/4fxUwmiIzsj9jghcOrqM8D) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Popurrí De Cumbias Y Rock And Roll](https://open.spotify.com/album/112LmpBOxGXwSdTV97ErcM) | 7:50 |
+| 37 | [COQUETO TAZO DORADO](https://open.spotify.com/track/3em90DscDPoispuwsdd2aT) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [COQUETO TAZO DORADO](https://open.spotify.com/album/0Tv8a7UNMKcvNXMCntg7fC) | 3:30 |
 | 38 | [Qué Bonita / El Farol \- En Vivo](https://open.spotify.com/track/67nMeE7X39HTFTKPeh6UDN) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [En Vivo Desde Japón](https://open.spotify.com/album/3qEJVLGwdN4Xel22AzLl1I) | 4:52 |
 | 39 | [La Quebradora / Vámonos De Fiesta \- En Vivo](https://open.spotify.com/track/5F1Mrz56k3u8muoVK7t6pj) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [En Vivo Desde Japón](https://open.spotify.com/album/3qEJVLGwdN4Xel22AzLl1I) | 6:18 |
 | 40 | [Que A Toda Madre \(Que A Todo Dar\)](https://open.spotify.com/track/2f5VfxUVvxyW7KzvsbVZ2o) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Que A Toda Madre \(Que A Todo Dar\)](https://open.spotify.com/album/0eAdK466N9NX7XGbpqF7iD) | 2:53 |

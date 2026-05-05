@@ -4,11 +4,11 @@
 
 > This is Carl Carlton\. The essential tracks, all in one playlist.
 
-46 songs - 2 hr 55 min
+47 songs - 2 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Ain't Been No One Before You](https://open.spotify.com/track/3P1vhPtCccWnN2T8I22TUM) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [I Wanna Be With You](https://open.spotify.com/album/1ylIK4HqN5u8zMDz3fNQBJ) | 3:16 | 2025-12-18 |  |
+| [Ain't Been No One Before You](https://open.spotify.com/track/3P1vhPtCccWnN2T8I22TUM) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [I Wanna Be With You](https://open.spotify.com/album/1ylIK4HqN5u8zMDz3fNQBJ) | 3:16 | 2025-12-18 | 2026-05-05 |
 | [Baby I Need Your Loving \- Remix](https://open.spotify.com/track/2x84C823vh3IxX4arSlrof) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Baby I Need Your Loving \(Remix\)](https://open.spotify.com/album/5eB48OLr1RQyowxYZkb9J8) | 3:55 | 2025-12-18 |  |
 | [Bring down \- Foggy Day Mix](https://open.spotify.com/track/4rCGAWGK22AEDfiVOLflxJ) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Selected Grooves, Vol\. 1 \(Special House Beats Selection\)](https://open.spotify.com/album/1bdvbSFluDFHNOtXWijZSl) | 3:12 | 2025-12-18 |  |
 | [Classic Shit \(feat\. Darryl J\)](https://open.spotify.com/track/7eGrNYTDoHQBEwbLRPpELk) | [BANKKNOT P](https://open.spotify.com/artist/3vRcNA61txR7YLC01dUwoK), [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P), [Darryl J](https://open.spotify.com/artist/4J4HwYBtMIjXShTzt68YrR) | [Classic Shit \(feat\. Darryl J\)](https://open.spotify.com/album/7KN7e2uelEcRvvo98TA0kD) | 3:12 | 2026-03-30 |  |
@@ -45,6 +45,7 @@
 | [Spend the Night](https://open.spotify.com/track/7GfdXWpwnUeqAtzDXsCV0i) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [I Wanna Be With You](https://open.spotify.com/album/1ylIK4HqN5u8zMDz3fNQBJ) | 6:18 | 2025-12-18 |  |
 | [Stand By Me](https://open.spotify.com/track/2VsBpRY1animyX0KmVVG1Q) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Private Property](https://open.spotify.com/album/78sYYdjYiy7XgpjXqOEJwU) | 3:39 | 2025-12-18 |  |
 | [Thank You for Sticking Around](https://open.spotify.com/track/4XA7G7vlHRnMK6eEQYJDLs) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Private Property](https://open.spotify.com/album/78sYYdjYiy7XgpjXqOEJwU) | 3:52 | 2025-12-18 |  |
+| [Things Ain't Always Been This Good](https://open.spotify.com/track/4AlHAYIdsSHoVBEFOiT9tT) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [I Wanna Be With You](https://open.spotify.com/album/1ylIK4HqN5u8zMDz3fNQBJ) | 3:28 | 2026-05-05 |  |
 | [This feeling's rated extra](https://open.spotify.com/track/3d9DTKYyBWqj1aKqbAeTeT) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Rare Sweet & Soul 12](https://open.spotify.com/album/5tHj3OaG7TdK70nooRsuKK) | 4:09 | 2025-12-18 |  |
 | [This Feeling’s Rated X\-tra](https://open.spotify.com/track/26roeqrOoh8x55Dhn0EK06) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Carl Carlton \(Expanded Edition\)](https://open.spotify.com/album/47PRIVK9fSdMzABbJFbQes) | 4:11 | 2025-12-18 |  |
 | [Three Way Love](https://open.spotify.com/track/3cs4NayPNNcJ03KIjDJFBO) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Three Way Love](https://open.spotify.com/album/4J8klFc6tXtpSwRt9Z6gvF) | 2:29 | 2025-12-18 |  |

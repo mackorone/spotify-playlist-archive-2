@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfhphOFdiHz.md) - [plain]
 
 > Bops and LGBTQIA+ artists only\. Cover: MUNA
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,520 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,520 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Wannabeher](https://open.spotify.com/track/1484JjdWM2WvUlYZi77E8G) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Wannabeher](https://open.spotify.com/album/01oCHTrPyBx1Ut5hLHjZn9) | 2:34 |
+| 1 | [Eastside Girls](https://open.spotify.com/track/2GmMuH5UXe9DazNasUgGgM) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Dancing On The Wall](https://open.spotify.com/album/2CJw4ooOgUAxJkJpNiKcd3) | 3:50 |
 | 2 | [That Girl.](https://open.spotify.com/track/0RyZ3U7Q3kG9fnRkqRxSEB) | [Sarah Defne Gray](https://open.spotify.com/artist/6TbjlN6D9H1Oa7I1o31QtS) | [That Girl.](https://open.spotify.com/album/71P51UX8x9RZSy4dm8F4Q7) | 2:32 |
 | 3 | [Should've Known Better](https://open.spotify.com/track/5W5d518pSKjB8JtscaU3ZL) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Should've Known Better](https://open.spotify.com/album/5YejHoJ2w4gXBsdhwQ2wQt) | 3:16 |
 | 4 | [keep your head up kid](https://open.spotify.com/track/45WBtl8nSjheQbjxPEqWq7) | [WRABEL](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [keep your head up kid](https://open.spotify.com/album/3AgxZBsMx8ikkIv4c1nDH5) | 4:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfhphOFdiHz.md) - [plain]
 | 49 | [Hospital Blue](https://open.spotify.com/track/4FCZ8hxMvHiYWx1mdLoqEs) | [Ryan Nealon](https://open.spotify.com/artist/6eeu1cHi3LjiKnTxa7eJux) | [What Would I Look Like Without A Brave Face? \(Deluxe\)](https://open.spotify.com/album/3Hj9SMz8qehBEn6KQGkCC6) | 2:43 |
 | 50 | [HANDS](https://open.spotify.com/track/6LERtOJrTXTKq5J391pDLA) | [EARTH TO EMILY](https://open.spotify.com/artist/29becY8WA0wuCwIpFMIyk2) | [E2E](https://open.spotify.com/album/31tmdkhoxjChUpoe6x4wsd) | 2:36 |
 
-Snapshot ID: `AAAAANfbVCGXbf1cp7LdfhrCMm7WiJ50`
+Snapshot ID: `AAAAALA78D1agrOofoWdVWuBdgCn/kuj`

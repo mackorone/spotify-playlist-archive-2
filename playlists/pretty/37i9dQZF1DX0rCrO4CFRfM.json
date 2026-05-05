@@ -1,6 +1,6 @@
 {
   "description": "Relax to acoustic versions of your favorite rock songs.",
-  "num_followers": 1089516,
+  "num_followers": 1089564,
   "original_name": "Acoustic Rock",
   "owner": {
     "name": "Spotify",
@@ -391,22 +391,6 @@
     {
       "added_at": "2026-04-08 19:46:17",
       "album": {
-        "name": "The Poison (Deluxe Version)",
-        "url": "https://open.spotify.com/album/4uNzDULQ9RAy0nxGaPbCDn"
-      },
-      "artists": [
-        {
-          "name": "Bullet For My Valentine",
-          "url": "https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT"
-        }
-      ],
-      "duration_ms": 277533,
-      "name": "Tears Don't Fall - Acoustic Version",
-      "url": "https://open.spotify.com/track/5fG83KM7CgRmjcKwmBNx2p"
-    },
-    {
-      "added_at": "2026-04-08 19:46:17",
-      "album": {
         "name": "Come Clean",
         "url": "https://open.spotify.com/album/4oWz3E9jTrBe9sVkiX2sJ5"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 247920,
       "name": "Control - Acoustic Version",
       "url": "https://open.spotify.com/track/325aNb4eh8HesYlrJmLSMX"
+    },
+    {
+      "added_at": "2026-04-08 19:46:17",
+      "album": {
+        "name": "The Poison (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4uNzDULQ9RAy0nxGaPbCDn"
+      },
+      "artists": [
+        {
+          "name": "Bullet For My Valentine",
+          "url": "https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT"
+        }
+      ],
+      "duration_ms": 277533,
+      "name": "Tears Don't Fall - Acoustic Version",
+      "url": "https://open.spotify.com/track/5fG83KM7CgRmjcKwmBNx2p"
     },
     {
       "added_at": "2026-04-08 19:46:17",
@@ -535,22 +535,6 @@
     {
       "added_at": "2026-04-08 19:46:17",
       "album": {
-        "name": "Shooting Stars (in the Woods)",
-        "url": "https://open.spotify.com/album/3PDSx1HCnP3I2byYCTjrG1"
-      },
-      "artists": [
-        {
-          "name": "Rival Sons",
-          "url": "https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf"
-        }
-      ],
-      "duration_ms": 263088,
-      "name": "Shooting Stars - in the Woods",
-      "url": "https://open.spotify.com/track/69mwPY097BcpVDYHOFIAT7"
-    },
-    {
-      "added_at": "2026-04-08 19:46:17",
-      "album": {
         "name": "Order In Decline B-Sides",
         "url": "https://open.spotify.com/album/0Yo21ZkARyJ5vmGzDMrAko"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 240019,
       "name": "Catching Fire (Acoustic)",
       "url": "https://open.spotify.com/track/5ULYE2LqN7zp0uCNWG1CHA"
+    },
+    {
+      "added_at": "2026-04-08 19:46:17",
+      "album": {
+        "name": "Shooting Stars (in the Woods)",
+        "url": "https://open.spotify.com/album/3PDSx1HCnP3I2byYCTjrG1"
+      },
+      "artists": [
+        {
+          "name": "Rival Sons",
+          "url": "https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf"
+        }
+      ],
+      "duration_ms": 263088,
+      "name": "Shooting Stars - in the Woods",
+      "url": "https://open.spotify.com/track/69mwPY097BcpVDYHOFIAT7"
     },
     {
       "added_at": "2026-04-08 19:46:17",
@@ -747,22 +747,6 @@
     {
       "added_at": "2026-04-08 19:46:17",
       "album": {
-        "name": "Simulation Theory (Super Deluxe)",
-        "url": "https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 226333,
-      "name": "Something Human (Acoustic)",
-      "url": "https://open.spotify.com/track/1D2ISRyHAs9QBHIWVQIbgM"
-    },
-    {
-      "added_at": "2026-04-08 19:46:17",
-      "album": {
         "name": "Seventeen Going Under (Acoustic)",
         "url": "https://open.spotify.com/album/5jInHIOP1Ca3j1vza33bvu"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 312226,
       "name": "Seventeen Going Under - Acoustic",
       "url": "https://open.spotify.com/track/7bSHKIEXocorAU4pvmJaeN"
+    },
+    {
+      "added_at": "2026-04-08 19:46:17",
+      "album": {
+        "name": "Simulation Theory (Super Deluxe)",
+        "url": "https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 226333,
+      "name": "Something Human (Acoustic)",
+      "url": "https://open.spotify.com/track/1D2ISRyHAs9QBHIWVQIbgM"
     },
     {
       "added_at": "2026-04-08 19:46:17",

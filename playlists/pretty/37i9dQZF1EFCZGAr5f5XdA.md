@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCZGAr5f5XdA.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7v5dzv9oB0T3lZKkN2rduc">Jon Bellion</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,811 likes - 220 songs - 12 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,812 likes - 220 songs - 12 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -191,8 +191,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCZGAr5f5XdA.md) - [plain]
 | 181 | [Dead Presidents \(feat\. Jon Bellion\)](https://open.spotify.com/track/5zxTvYR4KtFVBdOVKWdLKM) | [Travis Mendes](https://open.spotify.com/artist/3PXLYt1l21hYC4eLDGVgT1), [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [Closure](https://open.spotify.com/album/14YwIucMmKcVi6IW2P9vt8) | 3:33 |
 | 182 | [Hip Replacement](https://open.spotify.com/track/66raFn343Bxxfec5ByE5Yd) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [Family Business](https://open.spotify.com/album/6r4O8UTnfCu8GTyzowcpF9) | 4:13 |
 | 183 | [bottomline \(feat\. JoJo\)](https://open.spotify.com/track/1lKFDImYTHzIGPtiQQZSwu) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr), [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [TORI\. \(+ a lil more\)](https://open.spotify.com/album/3dWoEpuWxKeSv1GLWh42tg) | 3:22 |
-| 184 | [GET IT RIGHT](https://open.spotify.com/track/3opHXLp5teEhmdVdDA9MJ9) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [FATHER FIGURE](https://open.spotify.com/album/5xKTTHKTTFyNxtOLGtznaR) | 4:13 |
-| 185 | [Two Car Garage](https://open.spotify.com/track/57ZFmLushr2mLmY1NMoZwI) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [FANDOM](https://open.spotify.com/artist/2A854MGtNE2Gi7Tp9BMQuv) | [Two Car Garage](https://open.spotify.com/album/35SWvZWmYD6O60FVna7sgP) | 3:02 |
+| 184 | [Two Car Garage](https://open.spotify.com/track/57ZFmLushr2mLmY1NMoZwI) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [FANDOM](https://open.spotify.com/artist/2A854MGtNE2Gi7Tp9BMQuv) | [Two Car Garage](https://open.spotify.com/album/35SWvZWmYD6O60FVna7sgP) | 3:02 |
+| 185 | [GET IT RIGHT](https://open.spotify.com/track/3opHXLp5teEhmdVdDA9MJ9) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [FATHER FIGURE](https://open.spotify.com/album/5xKTTHKTTFyNxtOLGtznaR) | 4:13 |
 | 186 | [ITALIA BREEZE](https://open.spotify.com/track/2P4p0vLttYRbUc754WQJNW) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [FATHER FIGURE](https://open.spotify.com/album/5xKTTHKTTFyNxtOLGtznaR) | 3:20 |
 | 187 | [Difficult](https://open.spotify.com/track/7rY8Iw9HQtmLMDVe6wQ4f3) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [Difficult](https://open.spotify.com/album/4flPdmSeK3DAaiSduOVd2q) | 3:20 |
 | 188 | [Mother](https://open.spotify.com/track/0breJW7kUS0qXn4tn2w7as) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Higher](https://open.spotify.com/album/6b6xEoiubMlgeGN6nrWM2V) | 3:57 |
@@ -229,4 +229,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCZGAr5f5XdA.md) - [plain]
 | 219 | [Break These Walls](https://open.spotify.com/track/7gDFRvhxYbvlCiEtncnCmQ) | [Imua Garza](https://open.spotify.com/artist/3ExFFbNEL1NWmOh9keikr7), [Kamu Sing](https://open.spotify.com/artist/2v97aslimxgi78AWRyqQom) | [Harmony City](https://open.spotify.com/album/0wdTfLFDfMVMdxtGf1iHzL) | 3:51 |
 | 220 | [Bad for Me](https://open.spotify.com/track/1vkQ1EwVJrCi90UFfpzMuv) | [JustinLee](https://open.spotify.com/artist/4Tf3jFnlqCpYMeeFkvF1Mz) | [Tennessee Backroad](https://open.spotify.com/album/7F0po7F6sk6HrJnv0zerrs) | 0:56 |
 
-Snapshot ID: `AcQiXgAAAADjBIDzu1/0GPJc9uSh1x2y`
+Snapshot ID: `AcQn/gAAAACPV9OQBSrVbsfRaTKKcLfS`

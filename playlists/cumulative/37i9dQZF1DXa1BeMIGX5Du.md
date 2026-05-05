@@ -4,7 +4,7 @@
 
 > The perfectly brewed cup, the perfect songs to match\. Your happy place is right here.
 
-466 songs - 1 day 4 hr 19 min
+469 songs - 1 day 4 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [BRING A BETTER DAY](https://open.spotify.com/track/1H8COchF8YcT42jgLNW8xO) | [Mia Lovelock](https://open.spotify.com/artist/2AB8ggIujbUjihfh6qku2C) | [BRING A BETTER DAY](https://open.spotify.com/album/2UOhxBAgwBSS1YMdNmmQdv) | 3:16 | 2024-04-18 | 2024-09-23 |
 | [Buffalo Replaced \- Spotify Singles](https://open.spotify.com/track/2Io4hOyIeXESirgQWXMlDB) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Spotify Singles](https://open.spotify.com/album/7424HIQbzV8bI0JSYwTFni) | 2:33 | 2024-03-14 | 2024-07-29 |
 | [Butterflies](https://open.spotify.com/track/3aufVGeeYQHSq5coMrYFEd) | [Aodhan](https://open.spotify.com/artist/3rlMJg2MzNFDMUoupg8EPB) | [Butterflies](https://open.spotify.com/album/4uHW0jJ8QehbccNuNjWw9I) | 2:55 | 2022-03-25 | 2024-03-08 |
-| [By the Coastline](https://open.spotify.com/track/4pnKKWhKflXZZl2ILUaKS1) | [Rod Coote](https://open.spotify.com/artist/5xifoiBHJPatPhtG96G1ck) | [By the Coastline](https://open.spotify.com/album/5LZXE8mmoRGryQhbhPOESD) | 4:08 | 2024-07-21 |  |
+| [By the Coastline](https://open.spotify.com/track/4pnKKWhKflXZZl2ILUaKS1) | [Rod Coote](https://open.spotify.com/artist/5xifoiBHJPatPhtG96G1ck) | [By the Coastline](https://open.spotify.com/album/5LZXE8mmoRGryQhbhPOESD) | 4:08 | 2024-07-21 | 2026-05-05 |
 | [Calico](https://open.spotify.com/track/7CCjLo2MrzvWXOepY9PGnA) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Violence in a Quiet Mind](https://open.spotify.com/album/60K7CiMQEqZC7mi6BjxgY6) | 3:51 | 2023-09-22 | 2024-04-12 |
 | [Calico](https://open.spotify.com/track/7EWwiyBXMaLzoSXwWZkYyU) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Calico](https://open.spotify.com/album/6ocDemfIGrj8hpvvpjDFoc) | 3:51 | 2022-03-25 | 2023-12-09 |
 | [Candy Eyes](https://open.spotify.com/track/3wsFy2qbDtWRuAqzfu86hd) | [HOKO](https://open.spotify.com/artist/7DBibsUWd2RMKmXbple4xZ) | [Candy Eyes](https://open.spotify.com/album/5fvuhLcnFzgiLKAvVUVazX) | 2:50 | 2022-03-25 | 2024-02-17 |
@@ -113,7 +113,7 @@
 | [Down](https://open.spotify.com/track/3uHWdehoLyQZJECjiTI4a6) | [Jack Curley](https://open.spotify.com/artist/1Unwe9Xco0JDlTTwpDVrcK) | [Tomorrow EP](https://open.spotify.com/album/4uVBOgsiFX3qsvAvtgoW4X) | 3:04 | 2022-06-17 | 2024-04-05 |
 | [Down](https://open.spotify.com/track/6wpdCYRRzFtBT7HzdEqgK9) | [Jack Curley](https://open.spotify.com/artist/1Unwe9Xco0JDlTTwpDVrcK) | [Tomorrow EP](https://open.spotify.com/album/3sUfbClZ6oRx9KtOLdzqTf) | 3:04 | 2022-03-25 | 2022-07-29 |
 | [Down By The River \- Acoustic](https://open.spotify.com/track/3VOi2BitiKinqGGIWp8pgR) | [JEFFE](https://open.spotify.com/artist/1Hgq78NaXI41PHyKKDEExF) | [Down By The River](https://open.spotify.com/album/7AbiXCbjtLAJtYyGW8hE6B) | 4:21 | 2024-04-02 | 2025-01-22 |
-| [Dream For You](https://open.spotify.com/track/0U1RRuNfZSSKrY1zqjDaRO) | [Georgia Gets By](https://open.spotify.com/artist/03vcsySpQ2gtPoaPeJRhb9) | [Dream For You](https://open.spotify.com/album/2S3VmAHo9nbvayQfEMfbh0) | 5:37 | 2026-04-08 |  |
+| [Dream For You](https://open.spotify.com/track/0U1RRuNfZSSKrY1zqjDaRO) | [Georgia Gets By](https://open.spotify.com/artist/03vcsySpQ2gtPoaPeJRhb9) | [Dream For You](https://open.spotify.com/album/2S3VmAHo9nbvayQfEMfbh0) | 5:37 | 2026-04-08 | 2026-05-05 |
 | [Drunk On A Flight](https://open.spotify.com/track/61gNWcpFdezb20Oc4uMrr6) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Drunk On A Flight](https://open.spotify.com/album/7gErkAlkyVUKrDeNnFV9fq) | 3:02 | 2023-01-27 | 2024-04-19 |
 | [Drunk On A Flight](https://open.spotify.com/track/6K6cG964OPWfRIyGDAiQzd) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Drunk On A Flight](https://open.spotify.com/album/4CdeQksM2ApHyRrKX2InNk) | 3:02 | 2023-01-27 | 2024-05-17 |
 | [Drunk, Running](https://open.spotify.com/track/0OQFriWHtnIzsRp3uImlGt) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older](https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM) | 4:05 | 2024-04-04 | 2024-06-19 |
@@ -172,6 +172,7 @@
 | [Good Fight](https://open.spotify.com/track/1VXbLiiSGBNmOPHYrkAiRw) | [Phoebe Go](https://open.spotify.com/artist/4WZlZAyyBNVwoG4Zrh1tfC) | [Marmalade](https://open.spotify.com/album/6xYR9GAWKVMhiR1iqhz2R8) | 3:43 | 2024-05-16 | 2025-12-16 |
 | [Good Thing](https://open.spotify.com/track/1avgH7udg2X4mx82V1ChDC) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [To Enjoy is the Only Thing](https://open.spotify.com/album/0TyGoqeYSQepO17jg08VvK) | 4:12 | 2024-02-16 | 2024-09-23 |
 | [goodbye](https://open.spotify.com/track/4CgpqIHgo979yH4gu9AU66) | [Amistat](https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU) | [goodbye](https://open.spotify.com/album/59txMlbVSKHpifWj0pN5Vq) | 2:50 | 2024-12-24 |  |
+| [Grain by Grain](https://open.spotify.com/track/2sUR1qY51anvjBXMpfQGNa) | [Mel Parsons](https://open.spotify.com/artist/2mKPHz3RD0bMrQqKFnrwrC) | [Grain by Grain](https://open.spotify.com/album/2AZA6MxPVcnQ98wLkwSTeA) | 3:49 | 2026-05-04 |  |
 | [Grand Illusion](https://open.spotify.com/track/4ungm58VUft86geFgszTa6) | [Georgia Lines](https://open.spotify.com/artist/6mLG8h9CeWZ2QsuHIgka3c) | [The Rose Of Jericho](https://open.spotify.com/album/4j2eJNkZ3qiGdCW8wnO5Wu) | 4:26 | 2024-07-12 | 2025-04-23 |
 | [Gummy Bamarra](https://open.spotify.com/track/3JvBNayk94KpTpHbS32jow) | [Jungaji](https://open.spotify.com/artist/22kfA8FEtj4hY3z5c0elVg) | [Gummy Bamarra](https://open.spotify.com/album/1YirWSzBWhbZTyb3CJfb4B) | 4:43 | 2024-06-04 | 2024-09-10 |
 | [Hands](https://open.spotify.com/track/7esb7bZv9LaaqYNcvGXcuq) | [Lilly Carron](https://open.spotify.com/artist/2cKfPWgeyf4nVe1VVRJ91K) | [Hands](https://open.spotify.com/album/6Y6vPRTT6n4uMIz3tC4vzp) | 2:51 | 2024-03-07 | 2024-09-23 |
@@ -179,7 +180,7 @@
 | [Heading Home](https://open.spotify.com/track/4zhLheQgQWmapYQ4r1y7ZL) | [The Dreggs](https://open.spotify.com/artist/4wL43zal5A0AOJwhlYsJZ1) | [Heading Home](https://open.spotify.com/album/7nyZWT6TFCXpO6ltRMNQKt) | 3:33 | 2026-04-20 |  |
 | [Heartbreakdown](https://open.spotify.com/track/3JxE1VLDvO3B0l27LPunRt) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Heartbreakdown](https://open.spotify.com/album/0EDaM1SqlZIyOeWqsJfsKY) | 4:14 | 2025-02-17 | 2025-05-20 |
 | [Heaven](https://open.spotify.com/track/5T00EN4oZmDQx3hqVAC4Fx) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 3:44 | 2023-09-22 | 2024-05-24 |
-| [heaven above me](https://open.spotify.com/track/6YNzXVnWbXt1WG7xD5gxaj) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [heaven above me](https://open.spotify.com/album/2CABJpyPdVBRWPBssiHB2i) | 3:33 | 2025-12-15 |  |
+| [heaven above me](https://open.spotify.com/track/6YNzXVnWbXt1WG7xD5gxaj) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [heaven above me](https://open.spotify.com/album/2CABJpyPdVBRWPBssiHB2i) | 3:33 | 2025-12-15 | 2026-05-05 |
 | [Heaven's Daughter](https://open.spotify.com/track/3r35yMKLwL1q52pV2SQGAf) | [Tomo](https://open.spotify.com/artist/7eMEpq0mpOCPTnLZaMZqAM) | [Heaven's Daughter](https://open.spotify.com/album/6NdI87tagkpWZWEwvLtmnZ) | 2:23 | 2025-01-07 |  |
 | [Heavy Hearts](https://open.spotify.com/track/6nIJe0uujNETpZWWMlDazL) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Nobody Lives Here](https://open.spotify.com/album/779IZOhupymkjX6dzygMl9) | 2:57 | 2025-04-07 |  |
 | [Here for you](https://open.spotify.com/track/2RQJF2iZRinvYetvAq4EEd) | [Rod Coote](https://open.spotify.com/artist/5xifoiBHJPatPhtG96G1ck) | [Here for you](https://open.spotify.com/album/3TJB3OPxG8fA6pImMWmWHB) | 2:38 | 2026-02-09 |  |
@@ -229,7 +230,7 @@
 | [It’s Alright](https://open.spotify.com/track/0qolNSuJWgA9diit13iCpC) | [Sons Of The East](https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej) | [SONS](https://open.spotify.com/album/6swcZeJGkihDlNt2y8pPEa) | 2:34 | 2025-06-30 |  |
 | [I’ll Go Anywhere](https://open.spotify.com/track/2K4XkJgiPjUGtnwSIM6xxi) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Dunya](https://open.spotify.com/album/16sGrLUTzqz0Z43j9qMn8S) | 2:34 | 2024-10-06 | 2026-04-08 |
 | [Just Like A Movie](https://open.spotify.com/track/2BTch3q4AJMKfgRPUXrK1E) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Just Like A Movie](https://open.spotify.com/album/5kEqBFvXUsZMTGS8F8U60y) | 3:18 | 2024-04-02 | 2024-05-24 |
-| [Just Like North](https://open.spotify.com/track/1AWsIwO7b5LqJ9vyVfIX2X) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Just Like North](https://open.spotify.com/album/7dy3rpDg0KQRR9Eee7Zgld) | 3:04 | 2024-07-28 |  |
+| [Just Like North](https://open.spotify.com/track/1AWsIwO7b5LqJ9vyVfIX2X) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Just Like North](https://open.spotify.com/album/7dy3rpDg0KQRR9Eee7Zgld) | 3:04 | 2024-07-28 | 2026-05-05 |
 | [Karaoke](https://open.spotify.com/track/2B2g136lFHdVblX24YhpAs) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Thundering Hopes](https://open.spotify.com/album/6fiK3VPNK38HEYhnWzsIrw) | 3:20 | 2022-08-25 | 2024-02-17 |
 | [Karaoke](https://open.spotify.com/track/5e6sklOXEsNqSrEPDR1T3Z) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Thundering Hopes](https://open.spotify.com/album/2oRfOLHwgEjqUC2f6YKv0U) | 3:20 | 2022-03-25 | 2022-08-27 |
 | [King of Disappointment](https://open.spotify.com/track/2Iw07pDIocxjnRK4CpBNse) | [Jem Cassar\-Daley](https://open.spotify.com/artist/589TqkGa2orXeVV4EK653j) | [King of Disappointment](https://open.spotify.com/album/23fehF8H0YmZyTW6kPDN3X) | 4:11 | 2023-05-09 | 2024-02-17 |
@@ -301,6 +302,8 @@
 | [Okay](https://open.spotify.com/track/2Z9oOIEPqIA1RPepcDyG8y) | [Tulliah](https://open.spotify.com/artist/6gdXkpJpXAh1XJGBMOveLq) | [Fre$h Hugs](https://open.spotify.com/album/35LKB6WhagH9EVouPmcDvE) | 4:13 | 2022-10-10 | 2024-03-15 |
 | [On Her Side](https://open.spotify.com/track/27EEp3yjPGh4XQGi0JDJ5Y) | [Erin Rae](https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6) | [On Her Side](https://open.spotify.com/album/5shg1mmDuduoXQxKuezRI7) | 2:35 | 2024-06-18 | 2025-11-18 |
 | [On My Mind](https://open.spotify.com/track/5eVbEjdJk07nWV5gifPonA) | [Dusty Boots](https://open.spotify.com/artist/4f7aac6rSCC2VopLH049zY) | [On My Mind](https://open.spotify.com/album/39csSCarZ5sZysoftHtPSO) | 3:59 | 2024-03-21 | 2024-10-22 |
+| [One and Only](https://open.spotify.com/track/0Xz6zddG4bqj4xRagO8YJ6) | [Georgia Gets By](https://open.spotify.com/artist/03vcsySpQ2gtPoaPeJRhb9) | [One and Only](https://open.spotify.com/album/6Zv62Ogeixl5RpZdVRKlDa) | 2:05 | 2026-05-04 |  |
+| [only human](https://open.spotify.com/track/4EPemjVgAz4YbDgaRYUdta) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [only human](https://open.spotify.com/album/5qCvxLDPjQ7IPZz9IIhZgm) | 3:34 | 2026-05-04 |  |
 | [Only You](https://open.spotify.com/track/6RnK69iWbnoCZ1vW4lCr36) | [Riley Pearce](https://open.spotify.com/artist/0A3HlWZGV8WrCcqxKM2neg) | [Only You](https://open.spotify.com/album/5EAKyTe7nOvmozisIdMU2C) | 3:06 | 2024-04-04 | 2024-06-05 |
 | [Open to the Light](https://open.spotify.com/track/7wBO6TRRB4TYx3VbToSK6j) | [Fletcher Kent](https://open.spotify.com/artist/296NGRpJWhJMiY68OVtZiR) | [Open to the Light](https://open.spotify.com/album/1nZPMXqMArC4btqTCaUxGa) | 3:43 | 2025-12-15 |  |
 | [Outlaw](https://open.spotify.com/track/2udLBb0lhqk0896glynEib) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [Outlaw](https://open.spotify.com/album/64vCs9clQBe4ogjQJsrBfq) | 2:22 | 2024-06-18 | 2025-02-25 |

@@ -1,28 +1,28 @@
 {
   "description": "100 % chill, 100 % Montr\u00e9al. Photo: Thierry Larose",
-  "num_followers": 142007,
+  "num_followers": 142015,
   "original_name": "Montr\u00e9al Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKsR1UimKsrGZdiPVw2tB9khLD/g",
+  "snapshot_id": "AAAAAITlXrfVlfU2ig0i5deBHwL2+oIC",
   "tracks": [
     {
       "added_at": "2026-05-01 04:04:40",
       "album": {
-        "name": "Wash You Out",
-        "url": "https://open.spotify.com/album/6iX4dOEqWg6YgKCfgzSItF"
+        "name": "LFDM",
+        "url": "https://open.spotify.com/album/1OMxJOk8AfVNK115bPasye"
       },
       "artists": [
         {
-          "name": "Born At Midnite",
-          "url": "https://open.spotify.com/artist/3ejfr3ZL4rEFokdVb33dPa"
+          "name": "Tom Leger",
+          "url": "https://open.spotify.com/artist/6ItAywuaMIvQ0BfETENUcK"
         }
       ],
-      "duration_ms": 136800,
-      "name": "Wash You Out",
-      "url": "https://open.spotify.com/track/7yupAV8AOHwAecLb0Cnnnq"
+      "duration_ms": 197040,
+      "name": "LFDM",
+      "url": "https://open.spotify.com/track/2NeLSUa3bSjvyhkmU0WCTj"
     },
     {
       "added_at": "2026-05-01 04:04:40",
@@ -71,22 +71,6 @@
       "duration_ms": 180361,
       "name": "Fais comme si",
       "url": "https://open.spotify.com/track/3raXlp55TvRY4oZGcGfJwY"
-    },
-    {
-      "added_at": "2026-05-01 04:04:40",
-      "album": {
-        "name": "LFDM",
-        "url": "https://open.spotify.com/album/1OMxJOk8AfVNK115bPasye"
-      },
-      "artists": [
-        {
-          "name": "Tom Leger",
-          "url": "https://open.spotify.com/artist/6ItAywuaMIvQ0BfETENUcK"
-        }
-      ],
-      "duration_ms": 197040,
-      "name": "LFDM",
-      "url": "https://open.spotify.com/track/2NeLSUa3bSjvyhkmU0WCTj"
     },
     {
       "added_at": "2026-05-01 04:04:40",
@@ -175,6 +159,22 @@
       "duration_ms": 171939,
       "name": "Kicking & screaming",
       "url": "https://open.spotify.com/track/5ydb6mhv4W8e6mdWte91z9"
+    },
+    {
+      "added_at": "2026-05-01 04:04:40",
+      "album": {
+        "name": "Wash You Out",
+        "url": "https://open.spotify.com/album/6iX4dOEqWg6YgKCfgzSItF"
+      },
+      "artists": [
+        {
+          "name": "Born At Midnite",
+          "url": "https://open.spotify.com/artist/3ejfr3ZL4rEFokdVb33dPa"
+        }
+      ],
+      "duration_ms": 136800,
+      "name": "Wash You Out",
+      "url": "https://open.spotify.com/track/7yupAV8AOHwAecLb0Cnnnq"
     },
     {
       "added_at": "2026-05-01 04:04:40",
@@ -359,6 +359,26 @@
       "duration_ms": 184487,
       "name": "Animal imberbe",
       "url": "https://open.spotify.com/track/6F1rqilX9K5oZ85F6brq0Q"
+    },
+    {
+      "added_at": "2026-05-04 20:47:01",
+      "album": {
+        "name": "Rose lueur",
+        "url": "https://open.spotify.com/album/7eVxlt3PfOurJfSNHiFw0m"
+      },
+      "artists": [
+        {
+          "name": "Soleil Secret",
+          "url": "https://open.spotify.com/artist/4IQCnobNBeEGanSiX0iU1K"
+        },
+        {
+          "name": "Secret sun",
+          "url": "https://open.spotify.com/artist/3v7tbK2VbPQC4A3Isn2G1y"
+        }
+      ],
+      "duration_ms": 198883,
+      "name": "Aucune fleur",
+      "url": "https://open.spotify.com/track/1JydHvzhSmrHsxoTOYhog7"
     },
     {
       "added_at": "2026-05-01 04:04:40",
@@ -1103,22 +1123,6 @@
       "duration_ms": 229047,
       "name": "Demain",
       "url": "https://open.spotify.com/track/3jQaZdtiJSqgqNFWr0sTQi"
-    },
-    {
-      "added_at": "2026-05-01 04:04:40",
-      "album": {
-        "name": "Contemplating You",
-        "url": "https://open.spotify.com/album/548tEzzOv6yKgaCyAAooca"
-      },
-      "artists": [
-        {
-          "name": "Jennarie",
-          "url": "https://open.spotify.com/artist/3vvIH5V5MjAhLrQgfQvlhX"
-        }
-      ],
-      "duration_ms": 185834,
-      "name": "Contemplating You",
-      "url": "https://open.spotify.com/track/6yo7B6kNrbHDFAppCxZzI1"
     },
     {
       "added_at": "2026-05-01 04:04:40",

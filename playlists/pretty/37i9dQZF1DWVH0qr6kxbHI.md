@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVH0qr6kxbHI.md) - [plain]
 
 > Canciones inmortales, sentimientos a flor de piel y figuras gigantescas de nuestra música\. Foto: Rocío Jurado
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,334 likes - 75 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,351 likes - 75 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVH0qr6kxbHI.md) - [plain]
 | 37 | [Hazme Tuya una Vez Mas](https://open.spotify.com/track/6nRaI3IcbXMi3iHbfuiiVk) | [Isabel Pantoja](https://open.spotify.com/artist/0G2qO3Wbj6WmCTFgcsJ1Eo) | [Desde Andalucia](https://open.spotify.com/album/2z0nGeab4W4lk2AjxG3kbw) | 6:07 |
 | 38 | [Se nos rompió el amor](https://open.spotify.com/track/5V8MiatwmSYw80Teq4d3li) | [Rocío Jurado](https://open.spotify.com/artist/1FlYevYLENR3IMgMlnMvf9) | [Tan Solo Una Mujer](https://open.spotify.com/album/1rKjcPNljCVlg0gRHnENMd) | 4:31 |
 | 39 | [Se me olvidó otra vez](https://open.spotify.com/track/3KsMjQthWGfFhNYM6k2R8G) | [María Jiménez](https://open.spotify.com/artist/3xg8yTZPuoRF0uFGl1O0FS) | [Seguir viviendo](https://open.spotify.com/album/7qBLnnVJEexyI47wLfQlyq) | 3:06 |
-| 40 | [S.O.S.](https://open.spotify.com/track/2UHz5julqHL9gtroI5c1Vt) | [Falete](https://open.spotify.com/artist/4y7BzzNw7IVw2J7IjDHaqD) | [Amar Duele](https://open.spotify.com/album/1kytw4zNG55ejk7a4xI3u2) | 3:46 |
-| 41 | [Dama Dama \(Album Version\)](https://open.spotify.com/track/50tK3gc47HHVffxRehbRuC) | [Cecilia](https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR) | [Cecilia](https://open.spotify.com/album/50Pefah2v2rCOfXSdLNkg0) | 3:18 |
+| 40 | [Dama Dama \(Album Version\)](https://open.spotify.com/track/50tK3gc47HHVffxRehbRuC) | [Cecilia](https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR) | [Cecilia](https://open.spotify.com/album/50Pefah2v2rCOfXSdLNkg0) | 3:18 |
+| 41 | [S.O.S.](https://open.spotify.com/track/2UHz5julqHL9gtroI5c1Vt) | [Falete](https://open.spotify.com/artist/4y7BzzNw7IVw2J7IjDHaqD) | [Amar Duele](https://open.spotify.com/album/1kytw4zNG55ejk7a4xI3u2) | 3:46 |
 | 42 | [Una estrella en mi jardín](https://open.spotify.com/track/2nbX9cz1hpsLsi5fqVnlKK) | [Mari Trini](https://open.spotify.com/artist/0CVHw8AAgA5brxfblp1lsQ) | [Una estrella en mi jardín](https://open.spotify.com/album/63KTRdfNbLMuJoMWKeaavu) | 5:03 |
 | 43 | [Si No Te Hubieras Ido](https://open.spotify.com/track/0qSlVX5N1OCTIjQhI6uc8F) | [Tamara](https://open.spotify.com/artist/1BY90fgPEPLRdSrdIV9zrz) | [20 Años De Amor](https://open.spotify.com/album/0KduP5O1M4iAwubhBzFs9A) | 4:26 |
 | 44 | [Sola](https://open.spotify.com/track/2EMkMUHKcocs6BJatgmyfI) | [Diana Navarro](https://open.spotify.com/artist/2UPK6yJypnotLzHuUBiVa2) | [No te olvides de mi \(edicion original\)](https://open.spotify.com/album/1CNbzyIo5xgLVZz2nZLA1V) | 5:05 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVH0qr6kxbHI.md) - [plain]
 | 61 | [Alma Mía](https://open.spotify.com/track/2zDaBWpjsLnciaxQBU3mVY) | [Martirio](https://open.spotify.com/artist/7r4rviBG63cmxn51zRuMav), [Chano Dominguez](https://open.spotify.com/artist/63Znb1LZJ0KljCmhuxcRMI) | [A Bola De Nieve](https://open.spotify.com/album/0EI7n1PYhbPayZzbTaZt7o) | 4:22 |
 | 62 | [Baladilla De Los Tres Ríos](https://open.spotify.com/track/4LExk9S2etjsOKYQnipaar) | [Pasión Vega](https://open.spotify.com/artist/1SP2KiLZvq07zY1KUoZ3ey) | [Baladilla De Los Tres Ríos](https://open.spotify.com/album/1i9rCl0H6r9v33Bo2LV5lh) | 3:12 |
 | 63 | [La Violetera](https://open.spotify.com/track/63OP6ToFMyPZJ8TFC0fm24) | [Sara Montiel](https://open.spotify.com/artist/4wQ4PEx8pDp2f0wpsvaSDF), [Juan Quintero](https://open.spotify.com/artist/3No5HqLrMqJbmpJ1nUjUiM), [Greg Segura](https://open.spotify.com/artist/6c56bTIooYywJzaP8tURJ7) | [La Violetera \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/40w3Abk3i32h9Mylnn6Vrp) | 3:45 |
-| 64 | [A Tu Vera](https://open.spotify.com/track/4awJGQ6TIS542X4XS7PWu7) | [Lola Flores](https://open.spotify.com/artist/1ZcvF2meiXi5UPDJWxrKR5) | [La Inimitable](https://open.spotify.com/album/1XgissTsraQasZKaNzxWvZ) | 3:28 |
-| 65 | [El Talismán](https://open.spotify.com/track/2DY2ZBvw0YK4fha1Ou5zNv) | [Sole Gimenez](https://open.spotify.com/artist/56FObtReljLqgs2bgQ0kZS) | [Mujeres de Música](https://open.spotify.com/album/3R5uLGZ1DpE9HqG7Vgcoim) | 4:03 |
+| 64 | [El Talismán](https://open.spotify.com/track/2DY2ZBvw0YK4fha1Ou5zNv) | [Sole Gimenez](https://open.spotify.com/artist/56FObtReljLqgs2bgQ0kZS) | [Mujeres de Música](https://open.spotify.com/album/3R5uLGZ1DpE9HqG7Vgcoim) | 4:03 |
+| 65 | [A Tu Vera](https://open.spotify.com/track/4awJGQ6TIS542X4XS7PWu7) | [Lola Flores](https://open.spotify.com/artist/1ZcvF2meiXi5UPDJWxrKR5) | [La Inimitable](https://open.spotify.com/album/1XgissTsraQasZKaNzxWvZ) | 3:28 |
 | 66 | [HEY](https://open.spotify.com/track/1XxRrTL5TWbR5kuY5RB0Ck) | [Tamara Jerez](https://open.spotify.com/artist/2FPHGOUBcRzwPfXwqt3Ie7) | [HEY](https://open.spotify.com/album/7EP44d7bse5iPx1xv3LWK9) | 4:43 |
 | 67 | [Amigo Conductor](https://open.spotify.com/track/27m6FU6uMMmrhiOwgIQAjh) | [Perlita de Huelva](https://open.spotify.com/artist/5zTPEWVkwm8Bl7ORmaPyyk) | [Amigo Conductor](https://open.spotify.com/album/3o56rtilWI16b1gFSKK1Ub) | 3:33 |
 | 68 | [El Relicario](https://open.spotify.com/track/5tmITkfdgcnqsVIsC5pMLT) | [Sara Montiel](https://open.spotify.com/artist/4wQ4PEx8pDp2f0wpsvaSDF) | [El Ultimo Cuplé \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/758MDONBlZBcpl7ipTESj9) | 3:48 |

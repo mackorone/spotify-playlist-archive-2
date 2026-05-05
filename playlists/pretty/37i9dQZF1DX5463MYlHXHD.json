@@ -1,6 +1,6 @@
 {
   "description": "Vieja escuela y de ahora \ud83d\udcf8 Mala Fama.",
-  "num_followers": 595754,
+  "num_followers": 595782,
   "original_name": "Cumbia villera",
   "owner": {
     "name": "Spotify",
@@ -211,22 +211,22 @@
     {
       "added_at": "2026-02-13 19:04:43",
       "album": {
-        "name": "Tu Turrito",
-        "url": "https://open.spotify.com/album/6FKqbKsNvN2hT8vXdT0N02"
+        "name": "Me Muero de Amor (En Vivo)",
+        "url": "https://open.spotify.com/album/2QvyND4UnCt20ZvJAykc88"
       },
       "artists": [
         {
-          "name": "Rei",
-          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
         },
         {
-          "name": "Callejero Fino",
-          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
+          "name": "El Viejo Marquez",
+          "url": "https://open.spotify.com/artist/4EAV5xJot3hs1RICAsxSHA"
         }
       ],
-      "duration_ms": 164701,
-      "name": "Tu Turrito",
-      "url": "https://open.spotify.com/track/45dlaEXrXW47TVbrQ4gK7E"
+      "duration_ms": 208619,
+      "name": "Me Muero de Amor - En Vivo",
+      "url": "https://open.spotify.com/track/1vX3eIWSPr9EH3nSy1JhMN"
     },
     {
       "added_at": "2026-02-13 19:04:43",
@@ -255,22 +255,22 @@
     {
       "added_at": "2026-02-13 19:04:43",
       "album": {
-        "name": "Me Muero de Amor (En Vivo)",
-        "url": "https://open.spotify.com/album/2QvyND4UnCt20ZvJAykc88"
+        "name": "Tu Turrito",
+        "url": "https://open.spotify.com/album/6FKqbKsNvN2hT8vXdT0N02"
       },
       "artists": [
         {
-          "name": "Damas Gratis",
-          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+          "name": "Rei",
+          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
         },
         {
-          "name": "El Viejo Marquez",
-          "url": "https://open.spotify.com/artist/4EAV5xJot3hs1RICAsxSHA"
+          "name": "Callejero Fino",
+          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
         }
       ],
-      "duration_ms": 208619,
-      "name": "Me Muero de Amor - En Vivo",
-      "url": "https://open.spotify.com/track/1vX3eIWSPr9EH3nSy1JhMN"
+      "duration_ms": 164701,
+      "name": "Tu Turrito",
+      "url": "https://open.spotify.com/track/45dlaEXrXW47TVbrQ4gK7E"
     },
     {
       "added_at": "2026-02-13 19:04:43",
@@ -315,6 +315,22 @@
     {
       "added_at": "2026-02-13 19:04:43",
       "album": {
+        "name": "100% Negro Cumbiero",
+        "url": "https://open.spotify.com/album/1sbZFQTIJl41nnRvXYI4gf"
+      },
+      "artists": [
+        {
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+        }
+      ],
+      "duration_ms": 212253,
+      "name": "El humo de mi fasito",
+      "url": "https://open.spotify.com/track/0afBIRqOPTLPNHzRMPLEf0"
+    },
+    {
+      "added_at": "2026-02-13 19:04:43",
+      "album": {
         "name": "Tamo Chelo",
         "url": "https://open.spotify.com/album/0Qq7s35RRXlEWQKsZIJ2DD"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 112507,
       "name": "Tamo Chelo",
       "url": "https://open.spotify.com/track/1Hv5uEwnI5UQEFvHWJaL3T"
-    },
-    {
-      "added_at": "2026-02-13 19:04:43",
-      "album": {
-        "name": "Eres",
-        "url": "https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5"
-      },
-      "artists": [
-        {
-          "name": "Grupo uno",
-          "url": "https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA"
-        }
-      ],
-      "duration_ms": 214093,
-      "name": "Poeta Enamorado",
-      "url": "https://open.spotify.com/track/7hz1CZ9EqizK9QjAIQFqRi"
     },
     {
       "added_at": "2026-02-13 19:04:43",
@@ -371,18 +371,18 @@
     {
       "added_at": "2026-02-13 19:04:43",
       "album": {
-        "name": "100% Negro Cumbiero",
-        "url": "https://open.spotify.com/album/1sbZFQTIJl41nnRvXYI4gf"
+        "name": "Eres",
+        "url": "https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5"
       },
       "artists": [
         {
-          "name": "Damas Gratis",
-          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+          "name": "Grupo uno",
+          "url": "https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA"
         }
       ],
-      "duration_ms": 212253,
-      "name": "El humo de mi fasito",
-      "url": "https://open.spotify.com/track/0afBIRqOPTLPNHzRMPLEf0"
+      "duration_ms": 214093,
+      "name": "Poeta Enamorado",
+      "url": "https://open.spotify.com/track/7hz1CZ9EqizK9QjAIQFqRi"
     },
     {
       "added_at": "2026-02-13 19:04:43",
@@ -399,6 +399,30 @@
       "duration_ms": 248440,
       "name": "Un Beso y una Flor",
       "url": "https://open.spotify.com/track/2Gw02zy3Me82k56qTQ5qFk"
+    },
+    {
+      "added_at": "2026-02-13 19:04:43",
+      "album": {
+        "name": "Perrito Malvado",
+        "url": "https://open.spotify.com/album/2rnOLCz5J5YHo2zVM0sJdQ"
+      },
+      "artists": [
+        {
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+        },
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        },
+        {
+          "name": "Marita",
+          "url": "https://open.spotify.com/artist/0W2GTHZvmVrIbQReJ9L0EJ"
+        }
+      ],
+      "duration_ms": 280895,
+      "name": "Perrito Malvado",
+      "url": "https://open.spotify.com/track/1sZ39ZxvFo8FyMz4s7iVlf"
     },
     {
       "added_at": "2026-02-13 19:04:43",
@@ -435,6 +459,22 @@
     {
       "added_at": "2026-02-13 19:04:43",
       "album": {
+        "name": "La Champions Liga",
+        "url": "https://open.spotify.com/album/62CXOSLSYEgIUONJ8Mu9gm"
+      },
+      "artists": [
+        {
+          "name": "La Champions Liga",
+          "url": "https://open.spotify.com/artist/4osqF39bEPXPsJfVUXeCh3"
+        }
+      ],
+      "duration_ms": 127973,
+      "name": "Dime si eres feliz",
+      "url": "https://open.spotify.com/track/2FsKAVOxpmnxhxmEsqrZOD"
+    },
+    {
+      "added_at": "2026-02-13 19:04:43",
+      "album": {
         "name": "Amor De Chat (Remix)",
         "url": "https://open.spotify.com/album/5c9pBkdi15fKAfcw7D0cTe"
       },
@@ -455,30 +495,6 @@
       "duration_ms": 185142,
       "name": "Amor De Chat - Remix",
       "url": "https://open.spotify.com/track/3XfKWVuM7egYc2cMdCOyNX"
-    },
-    {
-      "added_at": "2026-02-13 19:04:43",
-      "album": {
-        "name": "Perrito Malvado",
-        "url": "https://open.spotify.com/album/2rnOLCz5J5YHo2zVM0sJdQ"
-      },
-      "artists": [
-        {
-          "name": "Damas Gratis",
-          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
-        },
-        {
-          "name": "L-Gante",
-          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
-        },
-        {
-          "name": "Marita",
-          "url": "https://open.spotify.com/artist/0W2GTHZvmVrIbQReJ9L0EJ"
-        }
-      ],
-      "duration_ms": 280895,
-      "name": "Perrito Malvado",
-      "url": "https://open.spotify.com/track/1sZ39ZxvFo8FyMz4s7iVlf"
     },
     {
       "added_at": "2026-02-13 19:04:43",
@@ -543,18 +559,18 @@
     {
       "added_at": "2026-02-13 19:04:43",
       "album": {
-        "name": "La Champions Liga",
-        "url": "https://open.spotify.com/album/62CXOSLSYEgIUONJ8Mu9gm"
+        "name": "M\u00e1s Solida",
+        "url": "https://open.spotify.com/album/1JgEomLE67XLgt24p50XAC"
       },
       "artists": [
         {
-          "name": "La Champions Liga",
-          "url": "https://open.spotify.com/artist/4osqF39bEPXPsJfVUXeCh3"
+          "name": "La Base",
+          "url": "https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0"
         }
       ],
-      "duration_ms": 127973,
-      "name": "Dime si eres feliz",
-      "url": "https://open.spotify.com/track/2FsKAVOxpmnxhxmEsqrZOD"
+      "duration_ms": 183240,
+      "name": "Me Enamore",
+      "url": "https://open.spotify.com/track/6A9DihD83oqsUF6dC9PuAi"
     },
     {
       "added_at": "2026-02-13 19:04:43",
@@ -575,22 +591,6 @@
       "duration_ms": 149504,
       "name": "PONTE PERRO | DJ TAO Turreo Sessions #24",
       "url": "https://open.spotify.com/track/0T25HZGE0WwyELWBlXQVbY"
-    },
-    {
-      "added_at": "2026-02-13 19:04:43",
-      "album": {
-        "name": "M\u00e1s Solida",
-        "url": "https://open.spotify.com/album/1JgEomLE67XLgt24p50XAC"
-      },
-      "artists": [
-        {
-          "name": "La Base",
-          "url": "https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0"
-        }
-      ],
-      "duration_ms": 183240,
-      "name": "Me Enamore",
-      "url": "https://open.spotify.com/track/6A9DihD83oqsUF6dC9PuAi"
     },
     {
       "added_at": "2026-02-13 19:04:43",
@@ -703,26 +703,6 @@
     {
       "added_at": "2026-02-13 19:04:43",
       "album": {
-        "name": "CALLEJERO FINO | Mission 10",
-        "url": "https://open.spotify.com/album/3iqAvQSDTyB34WTmKmL7hB"
-      },
-      "artists": [
-        {
-          "name": "Alan Gomez",
-          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
-        },
-        {
-          "name": "Callejero Fino",
-          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
-        }
-      ],
-      "duration_ms": 168994,
-      "name": "CALLEJERO FINO | Mission 10",
-      "url": "https://open.spotify.com/track/12BLBKATlbWXPhuSNL8eAr"
-    },
-    {
-      "added_at": "2026-02-13 19:04:43",
-      "album": {
         "name": "Sencillo",
         "url": "https://open.spotify.com/album/5iFfv4w4GLj8dA1OEyT5tX"
       },
@@ -755,6 +735,26 @@
       "duration_ms": 235368,
       "name": "Vengo de la casa de ella",
       "url": "https://open.spotify.com/track/3wyLQdYYslrohkFNitbtgD"
+    },
+    {
+      "added_at": "2026-02-13 19:04:43",
+      "album": {
+        "name": "CALLEJERO FINO | Mission 10",
+        "url": "https://open.spotify.com/album/3iqAvQSDTyB34WTmKmL7hB"
+      },
+      "artists": [
+        {
+          "name": "Alan Gomez",
+          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
+        },
+        {
+          "name": "Callejero Fino",
+          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
+        }
+      ],
+      "duration_ms": 168994,
+      "name": "CALLEJERO FINO | Mission 10",
+      "url": "https://open.spotify.com/track/12BLBKATlbWXPhuSNL8eAr"
     },
     {
       "added_at": "2026-02-13 19:04:43",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2026-02-13 19:04:43",
       "album": {
+        "name": "Triste Palomita",
+        "url": "https://open.spotify.com/album/2wyrgXe79p4vY4Y0QlyFB7"
+      },
+      "artists": [
+        {
+          "name": "Escucha!",
+          "url": "https://open.spotify.com/artist/2U4caDhaqjDdjVg9Uyp0bp"
+        }
+      ],
+      "duration_ms": 256463,
+      "name": "Quiero una chica",
+      "url": "https://open.spotify.com/track/41sxeJzkP7TMCEDAvmaXBO"
+    },
+    {
+      "added_at": "2026-02-13 19:04:43",
+      "album": {
         "name": "Barrio Prendido",
         "url": "https://open.spotify.com/album/1y2ar7cUSgVihUHXeCI21J"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 240008,
       "name": "Barrio Prendido",
       "url": "https://open.spotify.com/track/2I3qA0KslRCxFTfZnPyDhf"
-    },
-    {
-      "added_at": "2026-02-13 19:04:43",
-      "album": {
-        "name": "Triste Palomita",
-        "url": "https://open.spotify.com/album/2wyrgXe79p4vY4Y0QlyFB7"
-      },
-      "artists": [
-        {
-          "name": "Escucha!",
-          "url": "https://open.spotify.com/artist/2U4caDhaqjDdjVg9Uyp0bp"
-        }
-      ],
-      "duration_ms": 256463,
-      "name": "Quiero una chica",
-      "url": "https://open.spotify.com/track/41sxeJzkP7TMCEDAvmaXBO"
     },
     {
       "added_at": "2026-02-13 19:04:43",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2026-02-13 19:04:43",
       "album": {
-        "name": "Cumbia Villera",
-        "url": "https://open.spotify.com/album/42K3CKzIBfuN9YnIZgLzmd"
-      },
-      "artists": [
-        {
-          "name": "Yerba Brava",
-          "url": "https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6"
-        }
-      ],
-      "duration_ms": 239493,
-      "name": "La Canci\u00f3n Del Yuta",
-      "url": "https://open.spotify.com/track/3WL1JRWYnfjqpfz8gHqcgL"
-    },
-    {
-      "added_at": "2026-02-13 19:04:43",
-      "album": {
         "name": "Triste Palomita",
         "url": "https://open.spotify.com/album/2wyrgXe79p4vY4Y0QlyFB7"
       },
@@ -1155,6 +1139,26 @@
       "duration_ms": 230448,
       "name": "Sigue bailando mi amor",
       "url": "https://open.spotify.com/track/5YMmXk3DlySsw2z5BS47Hq"
+    },
+    {
+      "added_at": "2026-02-13 19:04:43",
+      "album": {
+        "name": "LA T Y LA M | DJ TAO Turreo Sessions #16",
+        "url": "https://open.spotify.com/album/4mvqMbo0qR6NJZV8oCapIm"
+      },
+      "artists": [
+        {
+          "name": "DJ Tao",
+          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
+        },
+        {
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+        }
+      ],
+      "duration_ms": 140109,
+      "name": "LA T Y LA M | DJ TAO Turreo Sessions #16",
+      "url": "https://open.spotify.com/track/06lBXefqaA4ZUhJCNKkhIv"
     },
     {
       "added_at": "2026-02-13 19:04:43",
@@ -1183,6 +1187,22 @@
     {
       "added_at": "2026-02-13 19:04:43",
       "album": {
+        "name": "Cumbia Villera",
+        "url": "https://open.spotify.com/album/42K3CKzIBfuN9YnIZgLzmd"
+      },
+      "artists": [
+        {
+          "name": "Yerba Brava",
+          "url": "https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6"
+        }
+      ],
+      "duration_ms": 239493,
+      "name": "La Canci\u00f3n Del Yuta",
+      "url": "https://open.spotify.com/track/3WL1JRWYnfjqpfz8gHqcgL"
+    },
+    {
+      "added_at": "2026-02-13 19:04:43",
+      "album": {
         "name": "Evoluci\u00f3n",
         "url": "https://open.spotify.com/album/3gY0jtnuvBNLTASCvdkjRB"
       },
@@ -1195,26 +1215,6 @@
       "duration_ms": 241093,
       "name": "Encararte",
       "url": "https://open.spotify.com/track/5gnLRLGvpP5lAzam0VQf0T"
-    },
-    {
-      "added_at": "2026-02-13 19:04:43",
-      "album": {
-        "name": "LA T Y LA M | DJ TAO Turreo Sessions #16",
-        "url": "https://open.spotify.com/album/4mvqMbo0qR6NJZV8oCapIm"
-      },
-      "artists": [
-        {
-          "name": "DJ Tao",
-          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
-        },
-        {
-          "name": "La T y La M",
-          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
-        }
-      ],
-      "duration_ms": 140109,
-      "name": "LA T Y LA M | DJ TAO Turreo Sessions #16",
-      "url": "https://open.spotify.com/track/06lBXefqaA4ZUhJCNKkhIv"
     },
     {
       "added_at": "2026-02-13 19:04:43",
@@ -1235,18 +1235,22 @@
     {
       "added_at": "2026-02-13 19:04:43",
       "album": {
-        "name": "Su Majestad",
-        "url": "https://open.spotify.com/album/3uv1INMxhlwiW8MnHk6LY5"
+        "name": "BM | DJ TAO Turreo Sessions #17",
+        "url": "https://open.spotify.com/album/7IRENolKvEF0bCjNp6TTrZ"
       },
       "artists": [
         {
-          "name": "Jimmy Y Su Combo Negro",
-          "url": "https://open.spotify.com/artist/2Kos2hpYxoC9itiKmODwNY"
+          "name": "DJ Tao",
+          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
+        },
+        {
+          "name": "BM",
+          "url": "https://open.spotify.com/artist/43bRAoXHmsKR7rt92ciFU3"
         }
       ],
-      "duration_ms": 223059,
-      "name": "Caprichosa",
-      "url": "https://open.spotify.com/track/39W4LyMK4hrF9fQeq8fOEM"
+      "duration_ms": 176144,
+      "name": "BM | DJ TAO Turreo Sessions #17",
+      "url": "https://open.spotify.com/track/0zIA89ERtLoWZF8zMYgWoL"
     },
     {
       "added_at": "2026-02-13 19:04:43",
@@ -1283,22 +1287,18 @@
     {
       "added_at": "2026-02-13 19:04:43",
       "album": {
-        "name": "BM | DJ TAO Turreo Sessions #17",
-        "url": "https://open.spotify.com/album/7IRENolKvEF0bCjNp6TTrZ"
+        "name": "Su Majestad",
+        "url": "https://open.spotify.com/album/3uv1INMxhlwiW8MnHk6LY5"
       },
       "artists": [
         {
-          "name": "DJ Tao",
-          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
-        },
-        {
-          "name": "BM",
-          "url": "https://open.spotify.com/artist/43bRAoXHmsKR7rt92ciFU3"
+          "name": "Jimmy Y Su Combo Negro",
+          "url": "https://open.spotify.com/artist/2Kos2hpYxoC9itiKmODwNY"
         }
       ],
-      "duration_ms": 176144,
-      "name": "BM | DJ TAO Turreo Sessions #17",
-      "url": "https://open.spotify.com/track/0zIA89ERtLoWZF8zMYgWoL"
+      "duration_ms": 223059,
+      "name": "Caprichosa",
+      "url": "https://open.spotify.com/track/39W4LyMK4hrF9fQeq8fOEM"
     },
     {
       "added_at": "2026-02-13 19:04:43",
@@ -1315,38 +1315,6 @@
       "duration_ms": 104973,
       "name": "Vuelve a Mi Lado",
       "url": "https://open.spotify.com/track/318gvXrsPsP1r3ocHcFIcH"
-    },
-    {
-      "added_at": "2026-02-13 19:04:43",
-      "album": {
-        "name": "El Autentico Creador De La Cumbia Callejera",
-        "url": "https://open.spotify.com/album/4zruxAuHRzEjbpGB07ycdq"
-      },
-      "artists": [
-        {
-          "name": "Pala Ancha",
-          "url": "https://open.spotify.com/artist/2DRTGjBvhQtEYN9wYM3opQ"
-        }
-      ],
-      "duration_ms": 266475,
-      "name": "Padre Ejemplar",
-      "url": "https://open.spotify.com/track/5qqe7ydFECpDN17CDcMSOw"
-    },
-    {
-      "added_at": "2026-02-13 19:04:43",
-      "album": {
-        "name": "No Voy a Parar",
-        "url": "https://open.spotify.com/album/79YZJXxGTVZcyUUcToIdAN"
-      },
-      "artists": [
-        {
-          "name": "Roman El Original",
-          "url": "https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ"
-        }
-      ],
-      "duration_ms": 269113,
-      "name": "Si Te Vas",
-      "url": "https://open.spotify.com/track/3VmasUuFOaQPRFMPuGLpjw"
     },
     {
       "added_at": "2026-02-13 19:04:43",
@@ -1375,6 +1343,22 @@
     {
       "added_at": "2026-02-13 19:04:43",
       "album": {
+        "name": "No Voy a Parar",
+        "url": "https://open.spotify.com/album/79YZJXxGTVZcyUUcToIdAN"
+      },
+      "artists": [
+        {
+          "name": "Roman El Original",
+          "url": "https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ"
+        }
+      ],
+      "duration_ms": 269113,
+      "name": "Si Te Vas",
+      "url": "https://open.spotify.com/track/3VmasUuFOaQPRFMPuGLpjw"
+    },
+    {
+      "added_at": "2026-02-13 19:04:43",
+      "album": {
         "name": "Alta Gira",
         "url": "https://open.spotify.com/album/1tlUQn78wbsFerurcSe8Hy"
       },
@@ -1387,6 +1371,38 @@
       "duration_ms": 247144,
       "name": "Vos de Bebe",
       "url": "https://open.spotify.com/track/2mVBkHUzTGdHZsZ90F77bF"
+    },
+    {
+      "added_at": "2026-02-13 19:04:43",
+      "album": {
+        "name": "El Autentico Creador De La Cumbia Callejera",
+        "url": "https://open.spotify.com/album/4zruxAuHRzEjbpGB07ycdq"
+      },
+      "artists": [
+        {
+          "name": "Pala Ancha",
+          "url": "https://open.spotify.com/artist/2DRTGjBvhQtEYN9wYM3opQ"
+        }
+      ],
+      "duration_ms": 266475,
+      "name": "Padre Ejemplar",
+      "url": "https://open.spotify.com/track/5qqe7ydFECpDN17CDcMSOw"
+    },
+    {
+      "added_at": "2026-02-13 19:04:43",
+      "album": {
+        "name": "La Noche",
+        "url": "https://open.spotify.com/album/3LWqiBwblO6Lv2eVBGNykL"
+      },
+      "artists": [
+        {
+          "name": "El negro tecla",
+          "url": "https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75"
+        }
+      ],
+      "duration_ms": 164651,
+      "name": "La Noche",
+      "url": "https://open.spotify.com/track/3QRuuoKLd8KoyHb1lxumPi"
     },
     {
       "added_at": "2026-02-13 19:04:43",
@@ -1415,22 +1431,6 @@
     {
       "added_at": "2026-02-13 19:04:43",
       "album": {
-        "name": "FERNANDITO",
-        "url": "https://open.spotify.com/album/7LVRFI3cZTRI2nbY6vEanX"
-      },
-      "artists": [
-        {
-          "name": "Roze Oficial",
-          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
-        }
-      ],
-      "duration_ms": 131853,
-      "name": "FERNANDITO",
-      "url": "https://open.spotify.com/track/4ZaFsXbTTSMyszBp70I6KW"
-    },
-    {
-      "added_at": "2026-02-13 19:04:43",
-      "album": {
         "name": "Close de Ort!",
         "url": "https://open.spotify.com/album/0U5ea4VoRnGRuqUQ7Ca07f"
       },
@@ -1451,18 +1451,18 @@
     {
       "added_at": "2026-02-13 19:04:43",
       "album": {
-        "name": "La Noche",
-        "url": "https://open.spotify.com/album/3LWqiBwblO6Lv2eVBGNykL"
+        "name": "FERNANDITO",
+        "url": "https://open.spotify.com/album/7LVRFI3cZTRI2nbY6vEanX"
       },
       "artists": [
         {
-          "name": "El negro tecla",
-          "url": "https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75"
+          "name": "Roze Oficial",
+          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
         }
       ],
-      "duration_ms": 164651,
-      "name": "La Noche",
-      "url": "https://open.spotify.com/track/3QRuuoKLd8KoyHb1lxumPi"
+      "duration_ms": 131853,
+      "name": "FERNANDITO",
+      "url": "https://open.spotify.com/track/4ZaFsXbTTSMyszBp70I6KW"
     },
     {
       "added_at": "2026-02-13 19:04:43",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2026-02-13 19:04:43",
       "album": {
-        "name": "KaKa Nene",
-        "url": "https://open.spotify.com/album/02LewP3z5YibPTMFArcXmF"
-      },
-      "artists": [
-        {
-          "name": "La Repandilla",
-          "url": "https://open.spotify.com/artist/4TeM4orWQq9H1Wj2intCub"
-        }
-      ],
-      "duration_ms": 143213,
-      "name": "Arriba, Arriba",
-      "url": "https://open.spotify.com/track/1l37tXRzuBzbOlNCgGlEG1"
-    },
-    {
-      "added_at": "2026-02-13 19:04:43",
-      "album": {
         "name": "Podran Imitarnos, Jam\u00e1s Igualarnos",
         "url": "https://open.spotify.com/album/6219k00SRfp4PcsgTv2BCX"
       },
@@ -1511,22 +1495,6 @@
       "duration_ms": 170319,
       "name": "El Fog\u00f3n",
       "url": "https://open.spotify.com/track/3y8Pe96NSEaReDgrRYPSaO"
-    },
-    {
-      "added_at": "2026-02-13 19:04:43",
-      "album": {
-        "name": "Salvaje",
-        "url": "https://open.spotify.com/album/1CBTqGy6fo7NzRcHGxe9lP"
-      },
-      "artists": [
-        {
-          "name": "Los Dragones",
-          "url": "https://open.spotify.com/artist/0FtOEaKA25lR6G48iP1Jnt"
-        }
-      ],
-      "duration_ms": 211461,
-      "name": "El Mamado del Auto",
-      "url": "https://open.spotify.com/track/59a51WlcUh2OiYm3HZQuXk"
     },
     {
       "added_at": "2026-02-13 19:04:43",
@@ -1547,6 +1515,38 @@
     {
       "added_at": "2026-02-13 19:04:43",
       "album": {
+        "name": "Salvaje",
+        "url": "https://open.spotify.com/album/1CBTqGy6fo7NzRcHGxe9lP"
+      },
+      "artists": [
+        {
+          "name": "Los Dragones",
+          "url": "https://open.spotify.com/artist/0FtOEaKA25lR6G48iP1Jnt"
+        }
+      ],
+      "duration_ms": 211461,
+      "name": "El Mamado del Auto",
+      "url": "https://open.spotify.com/track/59a51WlcUh2OiYm3HZQuXk"
+    },
+    {
+      "added_at": "2026-02-13 19:04:43",
+      "album": {
+        "name": "KaKa Nene",
+        "url": "https://open.spotify.com/album/02LewP3z5YibPTMFArcXmF"
+      },
+      "artists": [
+        {
+          "name": "La Repandilla",
+          "url": "https://open.spotify.com/artist/4TeM4orWQq9H1Wj2intCub"
+        }
+      ],
+      "duration_ms": 143213,
+      "name": "Arriba, Arriba",
+      "url": "https://open.spotify.com/track/1l37tXRzuBzbOlNCgGlEG1"
+    },
+    {
+      "added_at": "2026-02-13 19:04:43",
+      "album": {
         "name": "Moviendo la Cola",
         "url": "https://open.spotify.com/album/3eQBSHn1c0CBiDY1LrMs3O"
       },
@@ -1559,22 +1559,6 @@
       "duration_ms": 200373,
       "name": "Siempre Es la Misma Situaci\u00f3n",
       "url": "https://open.spotify.com/track/0m3IyXg5G0fjN7juaFihTv"
-    },
-    {
-      "added_at": "2026-02-13 19:04:43",
-      "album": {
-        "name": "Me Vas a Hacer Llorar",
-        "url": "https://open.spotify.com/album/4sHb67vKNCwIU7bsxoSrQf"
-      },
-      "artists": [
-        {
-          "name": "Debora",
-          "url": "https://open.spotify.com/artist/4MFYWIUUwy9yzkVaMSyuYk"
-        }
-      ],
-      "duration_ms": 227680,
-      "name": "La Miel de Tus Labios",
-      "url": "https://open.spotify.com/track/06OLRKwj3Sp2k9jBokQSsi"
     },
     {
       "added_at": "2026-02-13 19:04:43",
@@ -1603,22 +1587,6 @@
     {
       "added_at": "2026-02-13 19:04:43",
       "album": {
-        "name": "La 2da del Boxeador",
-        "url": "https://open.spotify.com/album/0qhvY5ilIjQJsQMw7Y4T2X"
-      },
-      "artists": [
-        {
-          "name": "Repiola",
-          "url": "https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ"
-        }
-      ],
-      "duration_ms": 157826,
-      "name": "Caramelito",
-      "url": "https://open.spotify.com/track/6UIvUdhVbtd5jgbBzfZYgg"
-    },
-    {
-      "added_at": "2026-02-13 19:04:43",
-      "album": {
         "name": "Ritmo Sustancia",
         "url": "https://open.spotify.com/album/1MozmfW6obuEiUg2EqqQA1"
       },
@@ -1631,6 +1599,38 @@
       "duration_ms": 197093,
       "name": "Estoy de Nuevo",
       "url": "https://open.spotify.com/track/3GcdJ5OfdILjl9qBuOMapT"
+    },
+    {
+      "added_at": "2026-02-13 19:04:43",
+      "album": {
+        "name": "Me Vas a Hacer Llorar",
+        "url": "https://open.spotify.com/album/4sHb67vKNCwIU7bsxoSrQf"
+      },
+      "artists": [
+        {
+          "name": "Debora",
+          "url": "https://open.spotify.com/artist/4MFYWIUUwy9yzkVaMSyuYk"
+        }
+      ],
+      "duration_ms": 227680,
+      "name": "La Miel de Tus Labios",
+      "url": "https://open.spotify.com/track/06OLRKwj3Sp2k9jBokQSsi"
+    },
+    {
+      "added_at": "2026-02-13 19:04:43",
+      "album": {
+        "name": "La 2da del Boxeador",
+        "url": "https://open.spotify.com/album/0qhvY5ilIjQJsQMw7Y4T2X"
+      },
+      "artists": [
+        {
+          "name": "Repiola",
+          "url": "https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ"
+        }
+      ],
+      "duration_ms": 157826,
+      "name": "Caramelito",
+      "url": "https://open.spotify.com/track/6UIvUdhVbtd5jgbBzfZYgg"
     },
     {
       "added_at": "2026-02-13 19:04:43",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2026-02-13 19:04:43",
       "album": {
-        "name": "Y Si Est\u00e1s Perseguido...!",
-        "url": "https://open.spotify.com/album/4UeRqgzWD9WsGWpbpsiAeq"
-      },
-      "artists": [
-        {
-          "name": "El Perro",
-          "url": "https://open.spotify.com/artist/7eCZ5oRjRXT5FGfJ36pPTM"
-        }
-      ],
-      "duration_ms": 161410,
-      "name": "Te Escapas De Mis Brazos",
-      "url": "https://open.spotify.com/track/2sSWZSjYU38Hmy32P6ECt8"
-    },
-    {
-      "added_at": "2026-02-13 19:04:43",
-      "album": {
         "name": "6to Sentido (Una Vuelta)",
         "url": "https://open.spotify.com/album/4u3hJm3bh7L8lcANjjUINr"
       },
@@ -1775,6 +1759,22 @@
       "duration_ms": 128265,
       "name": "6to Sentido (Una Vuelta)",
       "url": "https://open.spotify.com/track/0j2p4MTvu6tfrK8UsKLS31"
+    },
+    {
+      "added_at": "2026-02-13 19:04:43",
+      "album": {
+        "name": "Y Si Est\u00e1s Perseguido...!",
+        "url": "https://open.spotify.com/album/4UeRqgzWD9WsGWpbpsiAeq"
+      },
+      "artists": [
+        {
+          "name": "El Perro",
+          "url": "https://open.spotify.com/artist/7eCZ5oRjRXT5FGfJ36pPTM"
+        }
+      ],
+      "duration_ms": 161410,
+      "name": "Te Escapas De Mis Brazos",
+      "url": "https://open.spotify.com/track/2sSWZSjYU38Hmy32P6ECt8"
     },
     {
       "added_at": "2026-02-13 19:04:43",
@@ -1819,6 +1819,22 @@
     {
       "added_at": "2026-02-13 19:04:43",
       "album": {
+        "name": "De Culo",
+        "url": "https://open.spotify.com/album/4uWmPFt2rsaSqHslirD3S2"
+      },
+      "artists": [
+        {
+          "name": "Yerba Brava",
+          "url": "https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6"
+        }
+      ],
+      "duration_ms": 275356,
+      "name": "El reloj cu cu",
+      "url": "https://open.spotify.com/track/2vW9tweB3LKfNayGp6wQ8t"
+    },
+    {
+      "added_at": "2026-02-13 19:04:43",
+      "album": {
         "name": "M\u00e1s Duros que Nunca",
         "url": "https://open.spotify.com/album/04iZ6FHnHyuJIOdWUwB8yS"
       },
@@ -1851,22 +1867,6 @@
       "duration_ms": 215525,
       "name": "Libre y Soltero",
       "url": "https://open.spotify.com/track/536QxwgXCGfycZZzCxeCt1"
-    },
-    {
-      "added_at": "2026-02-13 19:04:43",
-      "album": {
-        "name": "Conecta 2",
-        "url": "https://open.spotify.com/album/6jyhrM5X4yw1xfAh4lCr8s"
-      },
-      "artists": [
-        {
-          "name": "La Fase Buk",
-          "url": "https://open.spotify.com/artist/5b0t98sO8PmHcr3eAXcSMg"
-        }
-      ],
-      "duration_ms": 196186,
-      "name": "Se Me Va la Voz",
-      "url": "https://open.spotify.com/track/4i7j1PdXPJeftm9gj8J1DL"
     }
   ],
   "unique_name": "Cumbia villera",

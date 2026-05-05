@@ -1,6 +1,6 @@
 {
   "description": "Mielenkiintoisimmat biisit ensisoitossa. Kannessa Olivia Rodrigo.",
-  "num_followers": 26764,
+  "num_followers": 26762,
   "original_name": "Ensisoitossa",
   "owner": {
     "name": "Spotify",
@@ -579,22 +579,6 @@
     {
       "added_at": "2026-04-23 21:00:04",
       "album": {
-        "name": "KiLL iT QUEEN",
-        "url": "https://open.spotify.com/album/5YD2OXFbiw3S7kdL88p3X2"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 168387,
-      "name": "KiLL iT QUEEN",
-      "url": "https://open.spotify.com/track/0vEbs5wZEqnrTnRppLGZaU"
-    },
-    {
-      "added_at": "2026-04-23 21:00:04",
-      "album": {
         "name": "Mansion Music",
         "url": "https://open.spotify.com/album/3OHRVdYcu2pavk5YNz73py"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 205000,
       "name": "Palamaan",
       "url": "https://open.spotify.com/track/5oOeg8tJgIl4y2YFCj4tId"
+    },
+    {
+      "added_at": "2026-04-23 21:00:04",
+      "album": {
+        "name": "KiLL iT QUEEN",
+        "url": "https://open.spotify.com/album/5YD2OXFbiw3S7kdL88p3X2"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 168387,
+      "name": "KiLL iT QUEEN",
+      "url": "https://open.spotify.com/track/0vEbs5wZEqnrTnRppLGZaU"
     },
     {
       "added_at": "2026-04-23 21:00:04",
@@ -655,6 +655,46 @@
     {
       "added_at": "2026-04-23 21:00:04",
       "album": {
+        "name": "Ja Eller Nej",
+        "url": "https://open.spotify.com/album/1rJNbgGjn3wQrqMC1d4oQS"
+      },
+      "artists": [
+        {
+          "name": "K\u00e4\u00e4rij\u00e4",
+          "url": "https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r"
+        },
+        {
+          "name": "Basshunter",
+          "url": "https://open.spotify.com/artist/37DdwREpvvQHmGLFEZ4h0Q"
+        }
+      ],
+      "duration_ms": 152691,
+      "name": "Ja Eller Nej",
+      "url": "https://open.spotify.com/track/7o69dnp93PF9iICofCRIMR"
+    },
+    {
+      "added_at": "2026-04-23 21:00:04",
+      "album": {
+        "name": "Mansion Music",
+        "url": "https://open.spotify.com/album/3OHRVdYcu2pavk5YNz73py"
+      },
+      "artists": [
+        {
+          "name": "Isac Elliot",
+          "url": "https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D"
+        },
+        {
+          "name": "Turisti",
+          "url": "https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Mannerheim",
+      "url": "https://open.spotify.com/track/1XroWO4bK8wj5mYgvc9Dvo"
+    },
+    {
+      "added_at": "2026-04-23 21:00:04",
+      "album": {
         "name": "Sisko ja sen veli",
         "url": "https://open.spotify.com/album/1ZsxL73Hpo3JpiS4GqkqKg"
       },
@@ -691,46 +731,6 @@
     {
       "added_at": "2026-04-23 21:00:04",
       "album": {
-        "name": "Mansion Music",
-        "url": "https://open.spotify.com/album/3OHRVdYcu2pavk5YNz73py"
-      },
-      "artists": [
-        {
-          "name": "Isac Elliot",
-          "url": "https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D"
-        },
-        {
-          "name": "Turisti",
-          "url": "https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Mannerheim",
-      "url": "https://open.spotify.com/track/1XroWO4bK8wj5mYgvc9Dvo"
-    },
-    {
-      "added_at": "2026-04-23 21:00:04",
-      "album": {
-        "name": "Ja Eller Nej",
-        "url": "https://open.spotify.com/album/1rJNbgGjn3wQrqMC1d4oQS"
-      },
-      "artists": [
-        {
-          "name": "K\u00e4\u00e4rij\u00e4",
-          "url": "https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r"
-        },
-        {
-          "name": "Basshunter",
-          "url": "https://open.spotify.com/artist/37DdwREpvvQHmGLFEZ4h0Q"
-        }
-      ],
-      "duration_ms": 152691,
-      "name": "Ja Eller Nej",
-      "url": "https://open.spotify.com/track/7o69dnp93PF9iICofCRIMR"
-    },
-    {
-      "added_at": "2026-04-23 21:00:04",
-      "album": {
         "name": "Aris",
         "url": "https://open.spotify.com/album/7woVOwWOTjrixtxhIPjRXd"
       },
@@ -747,22 +747,6 @@
       "duration_ms": 174453,
       "name": "Ik\u00e4v\u00e4, kyll\u00e4",
       "url": "https://open.spotify.com/track/0ODbSS6Tq4WqqazALjwksv"
-    },
-    {
-      "added_at": "2026-04-23 21:00:04",
-      "album": {
-        "name": "Criminal (From the Original Motion Picture Scream 7)",
-        "url": "https://open.spotify.com/album/2nmVXKVnYRht1PxXZ6aguS"
-      },
-      "artists": [
-        {
-          "name": "Jessie Murph",
-          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
-        }
-      ],
-      "duration_ms": 199305,
-      "name": "Criminal - From the Original Motion Picture Scream 7",
-      "url": "https://open.spotify.com/track/7FzmTWZg0cmBXOr5428N8R"
     },
     {
       "added_at": "2026-04-23 21:00:04",
@@ -799,6 +783,22 @@
       "duration_ms": 183124,
       "name": "Four Seasons",
       "url": "https://open.spotify.com/track/02nEidsI2MiwbrSaXznrin"
+    },
+    {
+      "added_at": "2026-04-23 21:00:04",
+      "album": {
+        "name": "Criminal (From the Original Motion Picture Scream 7)",
+        "url": "https://open.spotify.com/album/2nmVXKVnYRht1PxXZ6aguS"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        }
+      ],
+      "duration_ms": 199305,
+      "name": "Criminal - From the Original Motion Picture Scream 7",
+      "url": "https://open.spotify.com/track/7FzmTWZg0cmBXOr5428N8R"
     },
     {
       "added_at": "2026-04-23 21:00:04",
@@ -919,6 +919,22 @@
     {
       "added_at": "2026-04-23 21:00:04",
       "album": {
+        "name": "SHOTIT",
+        "url": "https://open.spotify.com/album/7ICfYQtWxs54jhJ1D0qUcQ"
+      },
+      "artists": [
+        {
+          "name": "OLGA",
+          "url": "https://open.spotify.com/artist/5lrrAnWHek9LEQgB3MCfub"
+        }
+      ],
+      "duration_ms": 154659,
+      "name": "SHOTIT",
+      "url": "https://open.spotify.com/track/72S4WLsyHM9dj4eIZd3zPc"
+    },
+    {
+      "added_at": "2026-04-23 21:00:04",
+      "album": {
         "name": "FATHER (I Will Never Confess)",
         "url": "https://open.spotify.com/album/787MQtQSxspIiK7b06vwzk"
       },
@@ -935,18 +951,18 @@
     {
       "added_at": "2026-04-23 21:00:04",
       "album": {
-        "name": "SHOTIT",
-        "url": "https://open.spotify.com/album/7ICfYQtWxs54jhJ1D0qUcQ"
+        "name": "Kuudes aisti",
+        "url": "https://open.spotify.com/album/2Tg2KL8vIdRhtXHW9HaV3y"
       },
       "artists": [
         {
-          "name": "OLGA",
-          "url": "https://open.spotify.com/artist/5lrrAnWHek9LEQgB3MCfub"
+          "name": "BESS",
+          "url": "https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw"
         }
       ],
-      "duration_ms": 154659,
-      "name": "SHOTIT",
-      "url": "https://open.spotify.com/track/72S4WLsyHM9dj4eIZd3zPc"
+      "duration_ms": 193965,
+      "name": "Kuudes aisti",
+      "url": "https://open.spotify.com/track/1iIA9450UQFYhStCPlyB68"
     },
     {
       "added_at": "2026-04-23 21:00:04",
@@ -971,22 +987,6 @@
     {
       "added_at": "2026-04-23 21:00:04",
       "album": {
-        "name": "Kuudes aisti",
-        "url": "https://open.spotify.com/album/2Tg2KL8vIdRhtXHW9HaV3y"
-      },
-      "artists": [
-        {
-          "name": "BESS",
-          "url": "https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw"
-        }
-      ],
-      "duration_ms": 193965,
-      "name": "Kuudes aisti",
-      "url": "https://open.spotify.com/track/1iIA9450UQFYhStCPlyB68"
-    },
-    {
-      "added_at": "2026-04-23 21:00:04",
-      "album": {
         "name": "KATULAPSI",
         "url": "https://open.spotify.com/album/5lroKDiW0qQOrLDJDC3YUW"
       },
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2026-04-23 21:00:04",
       "album": {
-        "name": "\u00c4l\u00e4 sano sua rumaksi",
-        "url": "https://open.spotify.com/album/6Dq6bC1xg4O3awxY3xAKJc"
-      },
-      "artists": [
-        {
-          "name": "ELLIMEI",
-          "url": "https://open.spotify.com/artist/6rPI72mU3VRYb9YCKGi3ra"
-        }
-      ],
-      "duration_ms": 153135,
-      "name": "\u00c4l\u00e4 sano sua rumaksi",
-      "url": "https://open.spotify.com/track/6pV8EIckMcd64Fwz0bsu6b"
-    },
-    {
-      "added_at": "2026-04-23 21:00:04",
-      "album": {
         "name": "Kun tulee pimee",
         "url": "https://open.spotify.com/album/11F1C9T1fQ4jxh69ThhDFt"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 165269,
       "name": "Kun tulee pimee",
       "url": "https://open.spotify.com/track/6OXlDwwI4SGHnbCbpfY6Io"
+    },
+    {
+      "added_at": "2026-04-23 21:00:04",
+      "album": {
+        "name": "\u00c4l\u00e4 sano sua rumaksi",
+        "url": "https://open.spotify.com/album/6Dq6bC1xg4O3awxY3xAKJc"
+      },
+      "artists": [
+        {
+          "name": "ELLIMEI",
+          "url": "https://open.spotify.com/artist/6rPI72mU3VRYb9YCKGi3ra"
+        }
+      ],
+      "duration_ms": 153135,
+      "name": "\u00c4l\u00e4 sano sua rumaksi",
+      "url": "https://open.spotify.com/track/6pV8EIckMcd64Fwz0bsu6b"
     },
     {
       "added_at": "2026-04-23 21:00:04",

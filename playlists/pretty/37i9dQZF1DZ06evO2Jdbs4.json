@@ -1,12 +1,12 @@
 {
   "description": "This is Bobby Pulido. The essential tracks, all in one playlist.",
-  "num_followers": 31792,
+  "num_followers": 31791,
   "original_name": "This Is Bobby Pulido",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afU+gAAAAADq2ep3vTt8CHLunzrqb2GU",
+  "snapshot_id": "afaQAAAAAABZwHdTQ1GjEcmrSm5PhO71",
   "tracks": [
     {
       "added_at": null,
@@ -531,22 +531,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bobby Pulido & Friends Una Tuya Y Una M\u00eda (Vol. 1 / En Vivo)",
-        "url": "https://open.spotify.com/album/1n8dn1igCydDN4AKRnjMN8"
+        "name": "D\u00edas de Ayer",
+        "url": "https://open.spotify.com/album/5G24MWnlBvrynYjrlIQt5j"
       },
       "artists": [
         {
           "name": "Bobby Pulido",
           "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        },
-        {
-          "name": "Alicia Villarreal",
-          "url": "https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn"
         }
       ],
-      "duration_ms": 187066,
-      "name": "Besos y Copas - En Vivo",
-      "url": "https://open.spotify.com/track/4U3pbbjrFtyLUIfiYZvuv2"
+      "duration_ms": 206213,
+      "name": "D\u00edas de Ayer",
+      "url": "https://open.spotify.com/track/3nNExpEv8J5DNv5oSQUIII"
     },
     {
       "added_at": null,
@@ -567,18 +563,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "D\u00edas de Ayer",
-        "url": "https://open.spotify.com/album/5G24MWnlBvrynYjrlIQt5j"
+        "name": "Bobby Pulido & Friends Una Tuya Y Una M\u00eda (Vol. 1 / En Vivo)",
+        "url": "https://open.spotify.com/album/1n8dn1igCydDN4AKRnjMN8"
       },
       "artists": [
         {
           "name": "Bobby Pulido",
           "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        },
+        {
+          "name": "Alicia Villarreal",
+          "url": "https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn"
         }
       ],
-      "duration_ms": 206213,
-      "name": "D\u00edas de Ayer",
-      "url": "https://open.spotify.com/track/3nNExpEv8J5DNv5oSQUIII"
+      "duration_ms": 187066,
+      "name": "Besos y Copas - En Vivo",
+      "url": "https://open.spotify.com/track/4U3pbbjrFtyLUIfiYZvuv2"
     },
     {
       "added_at": null,
@@ -719,22 +719,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "El \u00daltimo Rom\u00e1ntico",
-        "url": "https://open.spotify.com/album/4AQ6qn5bLcBCU8H0PDtZRC"
+        "name": "Y Te Lo Pido (En Vivo)",
+        "url": "https://open.spotify.com/album/5k8O7c9p1Bn8ejkkwYKQG8"
       },
       "artists": [
         {
-          "name": "Meste\u00f1o",
-          "url": "https://open.spotify.com/artist/4sDNXNlCrk7zHUZTYggE4K"
-        },
-        {
           "name": "Bobby Pulido",
           "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        },
+        {
+          "name": "David Olivarez",
+          "url": "https://open.spotify.com/artist/41WfhF5UfpKXMpkkCXbeCm"
         }
       ],
-      "duration_ms": 186000,
-      "name": "El \u00daltimo Rom\u00e1ntico",
-      "url": "https://open.spotify.com/track/1uh8sWHg8QcCs8K9S2NDZM"
+      "duration_ms": 287205,
+      "name": "Y Te Lo Pido - En Vivo",
+      "url": "https://open.spotify.com/track/55vESIhEP4GHWw36RnxFRu"
     },
     {
       "added_at": null,
@@ -759,22 +759,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Y Te Lo Pido (En Vivo)",
-        "url": "https://open.spotify.com/album/5k8O7c9p1Bn8ejkkwYKQG8"
+        "name": "El \u00daltimo Rom\u00e1ntico",
+        "url": "https://open.spotify.com/album/4AQ6qn5bLcBCU8H0PDtZRC"
       },
       "artists": [
         {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+          "name": "Meste\u00f1o",
+          "url": "https://open.spotify.com/artist/4sDNXNlCrk7zHUZTYggE4K"
         },
         {
-          "name": "David Olivarez",
-          "url": "https://open.spotify.com/artist/41WfhF5UfpKXMpkkCXbeCm"
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
         }
       ],
-      "duration_ms": 287205,
-      "name": "Y Te Lo Pido - En Vivo",
-      "url": "https://open.spotify.com/track/55vESIhEP4GHWw36RnxFRu"
+      "duration_ms": 186000,
+      "name": "El \u00daltimo Rom\u00e1ntico",
+      "url": "https://open.spotify.com/track/1uh8sWHg8QcCs8K9S2NDZM"
     },
     {
       "added_at": null,

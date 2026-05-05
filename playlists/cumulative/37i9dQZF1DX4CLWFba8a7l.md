@@ -4,7 +4,7 @@
 
 > In this house we celebrate Australian music\. Cover: Ecca Vandal
 
-629 songs - 1 day 11 hr 9 min
+630 songs - 1 day 11 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [C'est La Vie](https://open.spotify.com/track/5yUE8vmVO2IxrEfcyyy6oB) | [B Wise](https://open.spotify.com/artist/0NgUGQAd79J00Nf7o2tgkg), [Valentino Rose](https://open.spotify.com/artist/0qIB4W2DllGjdIdeDK4l8t) | [C'est La Vie](https://open.spotify.com/album/5T7zOERFtSw0kANCLNpjgJ) | 3:04 | 2025-09-01 | 2025-09-05 |
 | [Call My Name](https://open.spotify.com/track/79G8bdHuXIbHCAOsyuDWzN) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB) | [Call My Name](https://open.spotify.com/album/0nY0X0q9Kv4b1iEiv1ORFq) | 5:03 | 2025-03-13 |  |
 | [Calling Out Your Name](https://open.spotify.com/track/67QwptDtovlQWguTfHSeR5) | [Velvet Trip](https://open.spotify.com/artist/0YFqlnAFjvDH5a6CxineVK) | [Calling Out Your Name](https://open.spotify.com/album/7o8G8YqFdqefHY4RT3Al3U) | 3:34 | 2025-02-06 | 2025-02-14 |
+| [Campdraft Queen](https://open.spotify.com/track/0TmTKYWgUlQMJf8GQw6U9a) | [Mack Geiger](https://open.spotify.com/artist/1ylRveckaItA2kOhQh8rnQ) | [Campdraft Queen](https://open.spotify.com/album/6mM8BIYzDO0m1l0LZX4v4D) | 3:33 | 2026-05-01 |  |
 | [Can We Talk When It's Over](https://open.spotify.com/track/0S4ZcooG0l16yqP944jnO1) | [Lotte Gallagher](https://open.spotify.com/artist/2JxsTclANm7fsrgko9AUgx) | [Can We Talk When It's Over](https://open.spotify.com/album/5Ywk7ua8Xc6L30URTR5qpL) | 3:35 | 2025-02-06 | 2025-02-14 |
 | [Can You Swim?](https://open.spotify.com/track/2dWjtV6SUgVT1oPpA45wQH) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Can You Swim?](https://open.spotify.com/album/3xiBXsB2pmzFwLh8WiWXEc) | 4:55 | 2025-12-04 | 2026-01-24 |
 | [Can't Stand To Lose](https://open.spotify.com/track/7r4FAKAU499KcT5E83zEYs) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Can't Stand To Lose](https://open.spotify.com/album/53MctoRNyj3OmoUVFgZcab) | 4:52 | 2025-02-13 | 2025-02-21 |
@@ -294,7 +295,7 @@
 | [Jump](https://open.spotify.com/track/5P9d2eG2DJzQFDathA52FF) | [JJ4K](https://open.spotify.com/artist/2mjKgESiyb135Ci7YcSrHD) | [Jump](https://open.spotify.com/album/6HcV3NG1aOqzvESgojMTor) | 2:33 | 2025-04-08 | 2025-09-05 |
 | [Just Like North](https://open.spotify.com/track/1AWsIwO7b5LqJ9vyVfIX2X) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Just Like North](https://open.spotify.com/album/7dy3rpDg0KQRR9Eee7Zgld) | 3:04 | 2024-07-25 | 2025-04-25 |
 | [Keep It Moving](https://open.spotify.com/track/1otNlqVX2CmlWyA98afSdr) | [Lisi](https://open.spotify.com/artist/01Gj5Tpdz9igIh1uqH8bvu) | [Keep It Moving](https://open.spotify.com/album/5KpuWvdMTjfysTeQQMHuYc) | 2:50 | 2025-06-05 | 2025-06-13 |
-| [Keith](https://open.spotify.com/track/3mwb8NjfPRCcNgYdJTACU3) | [Playlunch](https://open.spotify.com/artist/0KeXd4EkaUHseJoZQhNR4u) | [Keith](https://open.spotify.com/album/13Ro0ysFRQupwe8EiA9gzI) | 4:10 | 2026-01-22 |  |
+| [Keith](https://open.spotify.com/track/3mwb8NjfPRCcNgYdJTACU3) | [Playlunch](https://open.spotify.com/artist/0KeXd4EkaUHseJoZQhNR4u) | [Keith](https://open.spotify.com/album/13Ro0ysFRQupwe8EiA9gzI) | 4:10 | 2026-01-22 | 2026-05-05 |
 | [Kickboxer](https://open.spotify.com/track/08Q6bcPGaSSeBttJjToFJN) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK) | [House of Cards](https://open.spotify.com/album/5V0ZWdLXKyHg9Ry1tRhVv5) | 2:46 | 2026-04-23 |  |
 | [Kiss Me Like You're Leaving](https://open.spotify.com/track/6rA5wCxRTEE5G2EWwrQY4e) | [Jem Cassar\-Daley](https://open.spotify.com/artist/589TqkGa2orXeVV4EK653j) | [Kiss Me Like You're Leaving](https://open.spotify.com/album/4kStSM0UKjniVUclhDnieM) | 3:40 | 2025-05-01 | 2025-06-06 |
 | [Kiss the Sky](https://open.spotify.com/track/0lzJGFS25DUEXxiAMyl3Xm) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Return to the Roots](https://open.spotify.com/album/5aPo5ap8k9H0v3MNSgcI02) | 5:16 | 2025-05-29 | 2025-08-08 |

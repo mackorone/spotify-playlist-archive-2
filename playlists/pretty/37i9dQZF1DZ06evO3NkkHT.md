@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3NkkHT.md) - [plain]
 
 > This is BigXthaPlug\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,884 likes - 50 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,925 likes - 50 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3NkkHT.md) - [plain]
 | 13 | [Cold \(feat\. Post Malone\)](https://open.spotify.com/track/7fIIi2KQB2AUqRgmpreKYj) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [I Hope You're Happy \(Deluxe\)](https://open.spotify.com/album/7xXWOU9SOmwwPBDBdCdlIX) | 3:08 |
 | 14 | [Home \(feat\. Shaboozey\)](https://open.spotify.com/track/59a0H53cBcHWDVn7eAyk4F) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [I Hope You're Happy \(Commentary Version\)](https://open.spotify.com/album/7yJCzSTBRhJIisv20lXlQ5) | 2:15 |
 | 15 | [6WA](https://open.spotify.com/track/6fODAgyTJdN7ATeJOP81dj) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Ro$ama](https://open.spotify.com/artist/6sacEP77oivRMuZRlOuSCr), [MurdaGang PB](https://open.spotify.com/artist/5vdwkO2Let6z32D2Oa9MEr), [Yung Hood](https://open.spotify.com/artist/3OTNDa1tTW4HSiGfxZuJkI) | [6WA](https://open.spotify.com/album/23YB6arrlcMYHpeMT72TaO) | 2:08 |
-| 16 | [Change](https://open.spotify.com/track/4a7CRQloQmNJ2HMPmxQOac) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [AMAR](https://open.spotify.com/album/7edOMLcHlhP4Y1b6tzJbn4) | 2:13 |
-| 17 | [PISTOL PACCIN](https://open.spotify.com/track/3ScMs95OaNlkrZuRe7gyYa) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Cottonwood 2 \(Deluxe 2.0\)](https://open.spotify.com/album/1ugjPDt5OYUeYmwYkgqEfQ) | 2:29 |
+| 16 | [PISTOL PACCIN](https://open.spotify.com/track/3ScMs95OaNlkrZuRe7gyYa) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Cottonwood 2 \(Deluxe 2.0\)](https://open.spotify.com/album/1ugjPDt5OYUeYmwYkgqEfQ) | 2:29 |
+| 17 | [Change](https://open.spotify.com/track/4a7CRQloQmNJ2HMPmxQOac) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [AMAR](https://open.spotify.com/album/7edOMLcHlhP4Y1b6tzJbn4) | 2:13 |
 | 18 | [Pray Hard \(feat\. Luke Combs\)](https://open.spotify.com/track/1SFWLN2UHw5N7RdkEHGoSD) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [I Hope You're Happy \(Commentary Version\)](https://open.spotify.com/album/7yJCzSTBRhJIisv20lXlQ5) | 2:06 |
 | 19 | [Change Me](https://open.spotify.com/track/1AKXrejQiFURJnr9UKIjDb) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [TAKE CARE](https://open.spotify.com/album/6LU7SYL9BWAt3TgEK4DdAc) | 2:16 |
 | 20 | [6IXER PARTY \(FEAT\. SNOOP DOGG\)](https://open.spotify.com/track/0bWbDcx2GyvCFjCOW9XvlH) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Ro$ama](https://open.spotify.com/artist/6sacEP77oivRMuZRlOuSCr), [MurdaGang PB](https://open.spotify.com/artist/5vdwkO2Let6z32D2Oa9MEr), [Yung Hood](https://open.spotify.com/artist/3OTNDa1tTW4HSiGfxZuJkI), [600 Ent.](https://open.spotify.com/artist/0TrRaMO8jDnJDcva8BWgkU) | [6WA](https://open.spotify.com/album/1ycJGUC68zkGwUHdlCqre0) | 3:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3NkkHT.md) - [plain]
 | 49 | [Gas Station Love \- remix](https://open.spotify.com/track/43uvpEvaYB3jxp6TqIwzON) | [EJ Jones](https://open.spotify.com/artist/1Ub0AUonKoIZuFvy1WZbIC), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Gas Station Love \(remix\)](https://open.spotify.com/album/7raN9uFr6FwxhFB1R6R0D3) | 4:05 |
 | 50 | [Feeling Like Dennis](https://open.spotify.com/track/4uf7osy1qeGgYkft0Bbtoa) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Feeling Like Dennis](https://open.spotify.com/album/2bgIZirxXFHBmji9MeX8Lt) | 2:41 |
 
-Snapshot ID: `afU+gAAAAAALEr9yfYPxgtVQh1CgZQYx`
+Snapshot ID: `afaQAAAAAACMKhaaZ+4AiX0MuLsgdcY2`

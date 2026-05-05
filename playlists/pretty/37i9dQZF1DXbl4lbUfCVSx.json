@@ -1,6 +1,6 @@
 {
   "description": "Sa k'ap f\u00e8t! Enjoy Ha\u00efti\u2019s national music, a smooth modern m\u00e9ringue sound.",
-  "num_followers": 36779,
+  "num_followers": 36787,
   "original_name": "Kompas Dir\u00e8k",
   "owner": {
     "name": "Spotify",
@@ -499,22 +499,6 @@
     {
       "added_at": "2026-04-24 04:03:41",
       "album": {
-        "name": "Option",
-        "url": "https://open.spotify.com/album/277RwBDM8eq0dUZnbOaMYz"
-      },
-      "artists": [
-        {
-          "name": "Oswald",
-          "url": "https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ"
-        }
-      ],
-      "duration_ms": 274106,
-      "name": "Ti doudou",
-      "url": "https://open.spotify.com/track/2smDVXQFS3NNinZZO4i1TZ"
-    },
-    {
-      "added_at": "2026-04-24 04:03:41",
-      "album": {
         "name": "Our Own World",
         "url": "https://open.spotify.com/album/23Gcw0J4M7u0Lp3llF3EGD"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 293918,
       "name": "It's Getting Late",
       "url": "https://open.spotify.com/track/3xyHkaONRVaVFt6iOtzB1B"
+    },
+    {
+      "added_at": "2026-04-24 04:03:41",
+      "album": {
+        "name": "Option",
+        "url": "https://open.spotify.com/album/277RwBDM8eq0dUZnbOaMYz"
+      },
+      "artists": [
+        {
+          "name": "Oswald",
+          "url": "https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ"
+        }
+      ],
+      "duration_ms": 274106,
+      "name": "Ti doudou",
+      "url": "https://open.spotify.com/track/2smDVXQFS3NNinZZO4i1TZ"
     },
     {
       "added_at": "2026-04-24 04:03:41",
@@ -703,18 +703,18 @@
     {
       "added_at": "2026-04-24 04:03:41",
       "album": {
-        "name": "No Dead End",
-        "url": "https://open.spotify.com/album/7sUJTtv1O1MbTD31ykgqlT"
+        "name": "Mete'm alez",
+        "url": "https://open.spotify.com/album/0EbHjaICJ8Zzrj7wwjl2ep"
       },
       "artists": [
         {
-          "name": "Zenglen",
-          "url": "https://open.spotify.com/artist/2yxotUcQyVGm6LGYfPW8Mj"
+          "name": "Zo Konpa",
+          "url": "https://open.spotify.com/artist/5ZAbRapf7rFYPjxPYuQlG5"
         }
       ],
-      "duration_ms": 316706,
-      "name": "Grev B\u00e8b\u00e8",
-      "url": "https://open.spotify.com/track/6tsLuq6GUSaoMLScuuAL8I"
+      "duration_ms": 293035,
+      "name": "Wet the hell map vini - Zouk",
+      "url": "https://open.spotify.com/track/3jTIX1lylzAwOIdBjZC3t2"
     }
   ],
   "unique_name": "Kompas Dir\u00e8k",

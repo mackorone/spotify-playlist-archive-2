@@ -1,12 +1,12 @@
 {
   "description": "This is Victor Thompson. The essential tracks, all in one playlist.",
-  "num_followers": 5979,
+  "num_followers": 5982,
   "original_name": "This Is Victor Thompson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afU+gAAAAACE1wNnDQy1TeH5Vcjq69f4",
+  "snapshot_id": "afaQAAAAAAAj6Hq98l0EuanrQn3ZziGq",
   "tracks": [
     {
       "added_at": null,
@@ -179,22 +179,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HIGH",
-        "url": "https://open.spotify.com/album/3ikNIUzsRLbG8jpsZUkilH"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 162058,
-      "name": "HIGH",
-      "url": "https://open.spotify.com/track/5GhAOp2A9gtQ2wkezEVE5n"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ROOTED",
         "url": "https://open.spotify.com/album/52HK0MKJgUQsNM5sKCtS7s"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 247719,
       "name": "Yahweh Will Manifest Himself",
       "url": "https://open.spotify.com/track/6bM1l2umRdewjcskt8HnE8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HIGH",
+        "url": "https://open.spotify.com/album/3ikNIUzsRLbG8jpsZUkilH"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "duration_ms": 162058,
+      "name": "HIGH",
+      "url": "https://open.spotify.com/track/5GhAOp2A9gtQ2wkezEVE5n"
     },
     {
       "added_at": null,
@@ -408,9 +408,9 @@
           "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
         }
       ],
-      "duration_ms": 287316,
-      "name": "Reckless Love",
-      "url": "https://open.spotify.com/track/3TgwaMBjmLa8T0DGZgVaoH"
+      "duration_ms": 234586,
+      "name": "Absolutely Nothing",
+      "url": "https://open.spotify.com/track/4yuCAyPTdA7zVVEeLy7x6Y"
     },
     {
       "added_at": null,
@@ -472,9 +472,9 @@
           "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
         }
       ],
-      "duration_ms": 234586,
-      "name": "Absolutely Nothing",
-      "url": "https://open.spotify.com/track/4yuCAyPTdA7zVVEeLy7x6Y"
+      "duration_ms": 287316,
+      "name": "Reckless Love",
+      "url": "https://open.spotify.com/track/3TgwaMBjmLa8T0DGZgVaoH"
     },
     {
       "added_at": null,
@@ -631,22 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "You are Lifted (Spontaneous Worship)",
-        "url": "https://open.spotify.com/album/3GL93N3e9sBtznX6BIHzng"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 2461616,
-      "name": "You are Lifted (Spontaneous Worship)",
-      "url": "https://open.spotify.com/track/4O9kmanzq6i11XhGOyNXfN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BLESSINGS",
         "url": "https://open.spotify.com/album/0GHp6F6kRcQnsabEO0fpTU"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 824408,
       "name": "BLESSINGS",
       "url": "https://open.spotify.com/track/1vo3XKyNdpYtofLD9CihXP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "You are Lifted (Spontaneous Worship)",
+        "url": "https://open.spotify.com/album/3GL93N3e9sBtznX6BIHzng"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "duration_ms": 2461616,
+      "name": "You are Lifted (Spontaneous Worship)",
+      "url": "https://open.spotify.com/track/4O9kmanzq6i11XhGOyNXfN"
     },
     {
       "added_at": null,
@@ -688,9 +688,9 @@
           "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
         }
       ],
-      "duration_ms": 190500,
-      "name": "Water",
-      "url": "https://open.spotify.com/track/4zKGsQ2ryuPyP4yNIQDRB6"
+      "duration_ms": 169687,
+      "name": "Halle",
+      "url": "https://open.spotify.com/track/3b8q3iDLUUTEzkexbVgkxy"
     },
     {
       "added_at": null,
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
         }
       ],
-      "duration_ms": 169687,
-      "name": "Halle",
-      "url": "https://open.spotify.com/track/3b8q3iDLUUTEzkexbVgkxy"
+      "duration_ms": 190500,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/4zKGsQ2ryuPyP4yNIQDRB6"
     },
     {
       "added_at": null,

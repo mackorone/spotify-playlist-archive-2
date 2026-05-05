@@ -1,6 +1,6 @@
 {
   "description": "Coloque a bota e o ch\u00e1peu que hoje o trabalho vai render!",
-  "num_followers": 433645,
+  "num_followers": 433569,
   "original_name": "Sertanejo no Trabalho",
   "owner": {
     "name": "Spotify",
@@ -59,22 +59,6 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
-        "name": "A Hora \u00c9 Agora (Ao Vivo Em Jurer\u00ea)",
-        "url": "https://open.spotify.com/album/0Pz2s3BtUdMlf8K7MQ1OmN"
-      },
-      "artists": [
-        {
-          "name": "Jorge & Mateus",
-          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
-        }
-      ],
-      "duration_ms": 191720,
-      "name": "Eu Quero S\u00f3 Voc\u00ea - Ao Vivo",
-      "url": "https://open.spotify.com/track/7blWdaLlmXMEh4ej2IPP8N"
-    },
-    {
-      "added_at": "2026-01-16 03:03:24",
-      "album": {
         "name": "Len\u00e7ol Dobrado",
         "url": "https://open.spotify.com/album/39vanCalSWRrvIEOWdyxPY"
       },
@@ -91,6 +75,22 @@
       "duration_ms": 179164,
       "name": "Len\u00e7ol Dobrado",
       "url": "https://open.spotify.com/track/72xB2J9ZeBl0Rzxq2XmzdY"
+    },
+    {
+      "added_at": "2026-01-16 03:03:24",
+      "album": {
+        "name": "A Hora \u00c9 Agora (Ao Vivo Em Jurer\u00ea)",
+        "url": "https://open.spotify.com/album/0Pz2s3BtUdMlf8K7MQ1OmN"
+      },
+      "artists": [
+        {
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+        }
+      ],
+      "duration_ms": 191720,
+      "name": "Eu Quero S\u00f3 Voc\u00ea - Ao Vivo",
+      "url": "https://open.spotify.com/track/7blWdaLlmXMEh4ej2IPP8N"
     },
     {
       "added_at": "2026-01-16 03:03:24",
@@ -143,22 +143,6 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
-        "name": "Terra Sem Cep (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7uhBra7AiFJm6Nd6YGpqGp"
-      },
-      "artists": [
-        {
-          "name": "Jorge & Mateus",
-          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
-        }
-      ],
-      "duration_ms": 141934,
-      "name": "Propaganda - Ao Vivo",
-      "url": "https://open.spotify.com/track/74n5d5M21JnC4WJ6gdkggK"
-    },
-    {
-      "added_at": "2026-01-16 03:03:24",
-      "album": {
         "name": "O Embaixador (Ao Vivo)",
         "url": "https://open.spotify.com/album/37nwqMqf3kqIsssO30l8MG"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 178208,
       "name": "Sujeito - Ao Vivo",
       "url": "https://open.spotify.com/track/1CwyRAon1uO8TarUHrXZyP"
+    },
+    {
+      "added_at": "2026-01-16 03:03:24",
+      "album": {
+        "name": "Terra Sem Cep (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7uhBra7AiFJm6Nd6YGpqGp"
+      },
+      "artists": [
+        {
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+        }
+      ],
+      "duration_ms": 141934,
+      "name": "Propaganda - Ao Vivo",
+      "url": "https://open.spotify.com/track/74n5d5M21JnC4WJ6gdkggK"
     },
     {
       "added_at": "2026-01-16 03:03:24",
@@ -355,18 +355,22 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
-        "name": "Terra Sem Cep (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7uhBra7AiFJm6Nd6YGpqGp"
+        "name": "S de Saudade",
+        "url": "https://open.spotify.com/album/07Dh4IqK31xeV1jetfPWvL"
       },
       "artists": [
         {
-          "name": "Jorge & Mateus",
-          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+          "name": "Lu\u00edza & Maur\u00edlio",
+          "url": "https://open.spotify.com/artist/0UbJJayomun8CvZKCPH9j3"
+        },
+        {
+          "name": "Z\u00e9 Neto & Cristiano",
+          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
         }
       ],
-      "duration_ms": 166517,
-      "name": "Cora\u00e7\u00e3o Calejado - Ao Vivo",
-      "url": "https://open.spotify.com/track/58Kv71AxpWF6ab0Z76jQId"
+      "duration_ms": 174863,
+      "name": "S de Saudade",
+      "url": "https://open.spotify.com/track/3J5Pu25BODMex4Jpy4l6FL"
     },
     {
       "added_at": "2026-01-16 03:03:24",
@@ -387,22 +391,18 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
-        "name": "S de Saudade",
-        "url": "https://open.spotify.com/album/07Dh4IqK31xeV1jetfPWvL"
+        "name": "Terra Sem Cep (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7uhBra7AiFJm6Nd6YGpqGp"
       },
       "artists": [
         {
-          "name": "Lu\u00edza & Maur\u00edlio",
-          "url": "https://open.spotify.com/artist/0UbJJayomun8CvZKCPH9j3"
-        },
-        {
-          "name": "Z\u00e9 Neto & Cristiano",
-          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
         }
       ],
-      "duration_ms": 174863,
-      "name": "S de Saudade",
-      "url": "https://open.spotify.com/track/3J5Pu25BODMex4Jpy4l6FL"
+      "duration_ms": 166517,
+      "name": "Cora\u00e7\u00e3o Calejado - Ao Vivo",
+      "url": "https://open.spotify.com/track/58Kv71AxpWF6ab0Z76jQId"
     },
     {
       "added_at": "2026-01-16 03:03:24",
@@ -483,22 +483,6 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
-        "name": "Esquece o Mundo L\u00e1 Fora (Ao Vivo | Deluxe)",
-        "url": "https://open.spotify.com/album/0wQ5Sn6RU4yL6WpeiWSaBN"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9 Neto & Cristiano",
-          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
-        }
-      ],
-      "duration_ms": 136977,
-      "name": "A Gente Continua - Ao Vivo",
-      "url": "https://open.spotify.com/track/53TSKwq0ZmtT3UYUHZF9Vh"
-    },
-    {
-      "added_at": "2026-01-16 03:03:24",
-      "album": {
         "name": "Rel\u00f3gio Parado (Ao Vivo)",
         "url": "https://open.spotify.com/album/60uEVgPGWNBFOYH8EcJglb"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 180736,
       "name": "Rel\u00f3gio Parado (Ao Vivo)",
       "url": "https://open.spotify.com/track/5n8Y78Pl5q8lqS7sJP61qw"
+    },
+    {
+      "added_at": "2026-01-16 03:03:24",
+      "album": {
+        "name": "Esquece o Mundo L\u00e1 Fora (Ao Vivo | Deluxe)",
+        "url": "https://open.spotify.com/album/0wQ5Sn6RU4yL6WpeiWSaBN"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Neto & Cristiano",
+          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
+        }
+      ],
+      "duration_ms": 136977,
+      "name": "A Gente Continua - Ao Vivo",
+      "url": "https://open.spotify.com/track/53TSKwq0ZmtT3UYUHZF9Vh"
     },
     {
       "added_at": "2026-01-16 03:03:24",
@@ -691,22 +691,6 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
-        "name": "Made in Ro\u00e7a (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3rRfJJYjeoqranLMo1udIU"
-      },
-      "artists": [
-        {
-          "name": "Loubet",
-          "url": "https://open.spotify.com/artist/6DtpcJP3QBgHfte3eKzUCI"
-        }
-      ],
-      "duration_ms": 187595,
-      "name": "Mui\u00e9, Chap\u00e9u e Butina - Ao Vivo",
-      "url": "https://open.spotify.com/track/1ZB3pjR7MdkIBbBzz4Fg9C"
-    },
-    {
-      "added_at": "2026-01-16 03:03:24",
-      "album": {
         "name": "No Pelo Em Campo Grande (ao Vivo)",
         "url": "https://open.spotify.com/album/2Kk36Wo3Ie2fAHwleHygie"
       },
@@ -723,18 +707,18 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
-        "name": "Mc Len\u00e7ol e Dj Travesseiro",
-        "url": "https://open.spotify.com/album/6eBS5yuROQbX05f81qtbru"
+        "name": "Made in Ro\u00e7a (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3rRfJJYjeoqranLMo1udIU"
       },
       "artists": [
         {
-          "name": "Luan Santana",
-          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+          "name": "Loubet",
+          "url": "https://open.spotify.com/artist/6DtpcJP3QBgHfte3eKzUCI"
         }
       ],
-      "duration_ms": 178700,
-      "name": "MC Len\u00e7ol e DJ Travesseiro",
-      "url": "https://open.spotify.com/track/2ozsutWRgcaZKJsQ6DvFFv"
+      "duration_ms": 187595,
+      "name": "Mui\u00e9, Chap\u00e9u e Butina - Ao Vivo",
+      "url": "https://open.spotify.com/track/1ZB3pjR7MdkIBbBzz4Fg9C"
     },
     {
       "added_at": "2026-01-16 03:03:24",
@@ -755,6 +739,22 @@
       "duration_ms": 168080,
       "name": "Libera Ela - Ao Vivo",
       "url": "https://open.spotify.com/track/0SJtvFn4vqgJPscSbEPaql"
+    },
+    {
+      "added_at": "2026-01-16 03:03:24",
+      "album": {
+        "name": "Mc Len\u00e7ol e Dj Travesseiro",
+        "url": "https://open.spotify.com/album/6eBS5yuROQbX05f81qtbru"
+      },
+      "artists": [
+        {
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+        }
+      ],
+      "duration_ms": 178700,
+      "name": "MC Len\u00e7ol e DJ Travesseiro",
+      "url": "https://open.spotify.com/track/2ozsutWRgcaZKJsQ6DvFFv"
     },
     {
       "added_at": "2026-01-16 03:03:24",
@@ -831,22 +831,6 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
-        "name": "Pegada Que Desgrama",
-        "url": "https://open.spotify.com/album/220NbAbuobNt9ccRGNV0An"
-      },
-      "artists": [
-        {
-          "name": "Naiara Azevedo",
-          "url": "https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l"
-        }
-      ],
-      "duration_ms": 182368,
-      "name": "Pegada Que Desgrama",
-      "url": "https://open.spotify.com/track/2gl2F5Z6ReNVh0wcyPLCKA"
-    },
-    {
-      "added_at": "2026-01-16 03:03:24",
-      "album": {
         "name": "Buteco Raiz (S\u00f3 As Derramadas) [Ao Vivo]",
         "url": "https://open.spotify.com/album/2QUwcnKuQauMomrEftu2Ai"
       },
@@ -863,18 +847,18 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
-        "name": "Sigilo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7GRukQVPHOjQW1l6o3W9aa"
+        "name": "Pegada Que Desgrama",
+        "url": "https://open.spotify.com/album/220NbAbuobNt9ccRGNV0An"
       },
       "artists": [
         {
-          "name": "Guilherme & Benuto",
-          "url": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
+          "name": "Naiara Azevedo",
+          "url": "https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l"
         }
       ],
-      "duration_ms": 165366,
-      "name": "Sigilo - Ao Vivo",
-      "url": "https://open.spotify.com/track/6vnKRiOjUjYT59xl4awHTx"
+      "duration_ms": 182368,
+      "name": "Pegada Que Desgrama",
+      "url": "https://open.spotify.com/track/2gl2F5Z6ReNVh0wcyPLCKA"
     },
     {
       "added_at": "2026-01-16 03:03:24",
@@ -895,6 +879,22 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
+        "name": "Sigilo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7GRukQVPHOjQW1l6o3W9aa"
+      },
+      "artists": [
+        {
+          "name": "Guilherme & Benuto",
+          "url": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
+        }
+      ],
+      "duration_ms": 165366,
+      "name": "Sigilo - Ao Vivo",
+      "url": "https://open.spotify.com/track/6vnKRiOjUjYT59xl4awHTx"
+    },
+    {
+      "added_at": "2026-01-16 03:03:24",
+      "album": {
         "name": "Espelho Meu (Ao Vivo)",
         "url": "https://open.spotify.com/album/3KM4EBZiYYhusvKoOgAZBC"
       },
@@ -907,6 +907,22 @@
       "duration_ms": 161152,
       "name": "Espelho Meu - Ao Vivo",
       "url": "https://open.spotify.com/track/5vAH9kwRajhfewbqBczqwJ"
+    },
+    {
+      "added_at": "2026-01-16 03:03:24",
+      "album": {
+        "name": "Esquenta Do Felipe Ara\u00fajo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2t0KATEqI2hGmuDy6BzU33"
+      },
+      "artists": [
+        {
+          "name": "Felipe Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB"
+        }
+      ],
+      "duration_ms": 162391,
+      "name": "Ainda Sou T\u00e3o Seu - Ao Vivo",
+      "url": "https://open.spotify.com/track/07PHNpknqZFw6N3GzNQWB8"
     },
     {
       "added_at": "2026-01-16 03:03:24",
@@ -939,22 +955,6 @@
       "duration_ms": 211324,
       "name": "Eu Era",
       "url": "https://open.spotify.com/track/09hQbo0PphvZ7y3ZZK9AJw"
-    },
-    {
-      "added_at": "2026-01-16 03:03:24",
-      "album": {
-        "name": "Esquenta Do Felipe Ara\u00fajo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2t0KATEqI2hGmuDy6BzU33"
-      },
-      "artists": [
-        {
-          "name": "Felipe Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB"
-        }
-      ],
-      "duration_ms": 162391,
-      "name": "Ainda Sou T\u00e3o Seu - Ao Vivo",
-      "url": "https://open.spotify.com/track/07PHNpknqZFw6N3GzNQWB8"
     },
     {
       "added_at": "2026-01-16 03:03:24",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
+        "name": "Z\u00e9 da Reca\u00edda",
+        "url": "https://open.spotify.com/album/6GpuBgy6WQZhWrnCsBeMma"
+      },
+      "artists": [
+        {
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+        }
+      ],
+      "duration_ms": 168458,
+      "name": "Z\u00e9 da Reca\u00edda",
+      "url": "https://open.spotify.com/track/4iGwWeV7XVIWO9Yy5QExOr"
+    },
+    {
+      "added_at": "2026-01-16 03:03:24",
+      "album": {
         "name": "Start In S\u00e3o Paulo (ao Vivo)",
         "url": "https://open.spotify.com/album/33pKsFhYvUCQkZTmUx4h9k"
       },
@@ -1139,22 +1155,6 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
-        "name": "Z\u00e9 da Reca\u00edda",
-        "url": "https://open.spotify.com/album/6GpuBgy6WQZhWrnCsBeMma"
-      },
-      "artists": [
-        {
-          "name": "Gusttavo Lima",
-          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
-        }
-      ],
-      "duration_ms": 168458,
-      "name": "Z\u00e9 da Reca\u00edda",
-      "url": "https://open.spotify.com/track/4iGwWeV7XVIWO9Yy5QExOr"
-    },
-    {
-      "added_at": "2026-01-16 03:03:24",
-      "album": {
         "name": "Cuidado Que Eu Te Supero",
         "url": "https://open.spotify.com/album/5cy77CZQvesZwpCbgZzHfz"
       },
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
-        "name": "Nosso cupido foi Deus",
-        "url": "https://open.spotify.com/album/4NdRHk0mCKC0ncMp25ACVH"
-      },
-      "artists": [
-        {
-          "name": "Paula Mattos",
-          "url": "https://open.spotify.com/artist/03lJxNYml1ArLjcZLxfIvz"
-        }
-      ],
-      "duration_ms": 186276,
-      "name": "Nosso cupido foi Deus",
-      "url": "https://open.spotify.com/track/7DK52ZiA1fAJJUr26p9R7X"
-    },
-    {
-      "added_at": "2026-01-16 03:03:24",
-      "album": {
         "name": "Do Jeito que N\u00f3is Gosta 2",
         "url": "https://open.spotify.com/album/3i7XBb2cgTp2QCCv3xcQwM"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 161529,
       "name": "Se Eu Te Procurar",
       "url": "https://open.spotify.com/track/7dYm9m4c51h4IeICvu6b1O"
+    },
+    {
+      "added_at": "2026-01-16 03:03:24",
+      "album": {
+        "name": "Nosso cupido foi Deus",
+        "url": "https://open.spotify.com/album/4NdRHk0mCKC0ncMp25ACVH"
+      },
+      "artists": [
+        {
+          "name": "Paula Mattos",
+          "url": "https://open.spotify.com/artist/03lJxNYml1ArLjcZLxfIvz"
+        }
+      ],
+      "duration_ms": 186276,
+      "name": "Nosso cupido foi Deus",
+      "url": "https://open.spotify.com/track/7DK52ZiA1fAJJUr26p9R7X"
     },
     {
       "added_at": "2026-01-16 03:03:24",
@@ -1375,22 +1375,18 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
-        "name": "Bom Rapaz (feat. Jorge & Mateus) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/5353UyoQBadJ6oombQLQVS"
+        "name": "Sou do Interior (Ao Vivo) [Deluxe]",
+        "url": "https://open.spotify.com/album/7wo5bswQTsr4Nmk97UNG3V"
       },
       "artists": [
         {
           "name": "Fernando & Sorocaba",
           "url": "https://open.spotify.com/artist/1oSgjdbgLYULVmEBojPRw8"
-        },
-        {
-          "name": "Jorge & Mateus",
-          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
         }
       ],
-      "duration_ms": 234592,
-      "name": "Bom Rapaz (feat. Jorge & Mateus) - Ao Vivo",
-      "url": "https://open.spotify.com/track/2WVZwImXEOdSSvPZg0TQyx"
+      "duration_ms": 176835,
+      "name": "Terapinga - Ao Vivo",
+      "url": "https://open.spotify.com/track/2YCTACQ3QfMr9QtlGI2tQE"
     },
     {
       "added_at": "2026-01-16 03:03:24",
@@ -1439,26 +1435,6 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
-        "name": "Volta Marcada",
-        "url": "https://open.spotify.com/album/3tGRBso3V5BMLM65tFSy9a"
-      },
-      "artists": [
-        {
-          "name": "Juan Marcus & Vin\u00edcius",
-          "url": "https://open.spotify.com/artist/0GVW2S0kS9yOIEo93ZCNLW"
-        },
-        {
-          "name": "Lauana Prado",
-          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
-        }
-      ],
-      "duration_ms": 167573,
-      "name": "Volta Marcada",
-      "url": "https://open.spotify.com/track/0V0k5MpqZ55XwJRTQq2GbM"
-    },
-    {
-      "added_at": "2026-01-16 03:03:24",
-      "album": {
         "name": "Short Jeans (Ao Vivo)",
         "url": "https://open.spotify.com/album/5LFwQQi2Ay3oYY3NZ6bZ7x"
       },
@@ -1479,22 +1455,6 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
-        "name": "Sou do Interior (Ao Vivo) [Deluxe]",
-        "url": "https://open.spotify.com/album/7wo5bswQTsr4Nmk97UNG3V"
-      },
-      "artists": [
-        {
-          "name": "Fernando & Sorocaba",
-          "url": "https://open.spotify.com/artist/1oSgjdbgLYULVmEBojPRw8"
-        }
-      ],
-      "duration_ms": 176835,
-      "name": "Terapinga - Ao Vivo",
-      "url": "https://open.spotify.com/track/2YCTACQ3QfMr9QtlGI2tQE"
-    },
-    {
-      "added_at": "2026-01-16 03:03:24",
-      "album": {
         "name": "Noites Frustradas (Ao Vivo)",
         "url": "https://open.spotify.com/album/2pr2utTIV4RJNcrI7fafEv"
       },
@@ -1511,6 +1471,46 @@
       "duration_ms": 196662,
       "name": "Noites Frustradas - Ao Vivo",
       "url": "https://open.spotify.com/track/5sby99lbxTE3F2RA3YWGyM"
+    },
+    {
+      "added_at": "2026-01-16 03:03:24",
+      "album": {
+        "name": "Bom Rapaz (feat. Jorge & Mateus) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/5353UyoQBadJ6oombQLQVS"
+      },
+      "artists": [
+        {
+          "name": "Fernando & Sorocaba",
+          "url": "https://open.spotify.com/artist/1oSgjdbgLYULVmEBojPRw8"
+        },
+        {
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+        }
+      ],
+      "duration_ms": 234592,
+      "name": "Bom Rapaz (feat. Jorge & Mateus) - Ao Vivo",
+      "url": "https://open.spotify.com/track/2WVZwImXEOdSSvPZg0TQyx"
+    },
+    {
+      "added_at": "2026-01-16 03:03:24",
+      "album": {
+        "name": "Volta Marcada",
+        "url": "https://open.spotify.com/album/3tGRBso3V5BMLM65tFSy9a"
+      },
+      "artists": [
+        {
+          "name": "Juan Marcus & Vin\u00edcius",
+          "url": "https://open.spotify.com/artist/0GVW2S0kS9yOIEo93ZCNLW"
+        },
+        {
+          "name": "Lauana Prado",
+          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
+        }
+      ],
+      "duration_ms": 167573,
+      "name": "Volta Marcada",
+      "url": "https://open.spotify.com/track/0V0k5MpqZ55XwJRTQq2GbM"
     },
     {
       "added_at": "2026-01-16 03:03:24",
@@ -1691,22 +1691,22 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
-        "name": "Cancela o Sentimento (feat. Mar\u00edlia Mendon\u00e7a)",
-        "url": "https://open.spotify.com/album/6BUjNYSPOiRcyARuPkcwhn"
+        "name": "Surra de Cama",
+        "url": "https://open.spotify.com/album/7AYYczZNBEyORW1pvWr7kf"
       },
       "artists": [
         {
-          "name": "Marcos & Belutti",
-          "url": "https://open.spotify.com/artist/0NsJZ5PMjqghGDuMzY7CuT"
+          "name": "Xand Avi\u00e3o",
+          "url": "https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616"
         },
         {
-          "name": "Mar\u00edlia Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+          "name": "Lauana Prado",
+          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
         }
       ],
-      "duration_ms": 191161,
-      "name": "Cancela o Sentimento (feat. Mar\u00edlia Mendon\u00e7a)",
-      "url": "https://open.spotify.com/track/0PVjuxjgUJldBATilksYW2"
+      "duration_ms": 178216,
+      "name": "Surra de Cama",
+      "url": "https://open.spotify.com/track/7eFezDGsbmX3bawb3rmtAr"
     },
     {
       "added_at": "2026-01-16 03:03:24",
@@ -1727,22 +1727,22 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
-        "name": "Surra de Cama",
-        "url": "https://open.spotify.com/album/7AYYczZNBEyORW1pvWr7kf"
+        "name": "Cancela o Sentimento (feat. Mar\u00edlia Mendon\u00e7a)",
+        "url": "https://open.spotify.com/album/6BUjNYSPOiRcyARuPkcwhn"
       },
       "artists": [
         {
-          "name": "Xand Avi\u00e3o",
-          "url": "https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616"
+          "name": "Marcos & Belutti",
+          "url": "https://open.spotify.com/artist/0NsJZ5PMjqghGDuMzY7CuT"
         },
         {
-          "name": "Lauana Prado",
-          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
         }
       ],
-      "duration_ms": 178216,
-      "name": "Surra de Cama",
-      "url": "https://open.spotify.com/track/7eFezDGsbmX3bawb3rmtAr"
+      "duration_ms": 191161,
+      "name": "Cancela o Sentimento (feat. Mar\u00edlia Mendon\u00e7a)",
+      "url": "https://open.spotify.com/track/0PVjuxjgUJldBATilksYW2"
     }
   ],
   "unique_name": "Sertanejo no Trabalho",

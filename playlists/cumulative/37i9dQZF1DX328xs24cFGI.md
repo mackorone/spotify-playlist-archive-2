@@ -4,7 +4,7 @@
 
 > 恋してるあなたに寄り添う、素敵なラブソングを集めました。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-528 songs - 1 day 9 hr 24 min
+529 songs - 1 day 9 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,7 @@
 | [LAD Romance](https://open.spotify.com/track/6HZOiTBJ1Z7gJyaEdcg7vR) | [LET ME KNOW](https://open.spotify.com/artist/1B4fAs5bODEsdgj2MGmJu3) | [LAD Romance](https://open.spotify.com/album/0qgzwzKkqzKSmhm6SBfpce) | 3:59 | 2024-02-20 | 2024-03-13 |
 | [LAD浪漫's](https://open.spotify.com/track/3XKrQIVTnr5IxzJi1My4Wy) | [LET ME KNOW](https://open.spotify.com/artist/1B4fAs5bODEsdgj2MGmJu3) | [LAD浪漫's](https://open.spotify.com/album/39bDkft5Qk2H6EQQwJZQjG) | 3:59 | 2024-02-20 | 2024-02-22 |
 | [LA･LA･LA LOVE SONG](https://open.spotify.com/track/2NFKSwzaNKXAqBqlXgeTEo) | [Toshinobu Kubota](https://open.spotify.com/artist/45JvI0rkPkFFL14Cj0eput), [Naomi Campbell](https://open.spotify.com/artist/4IKQKM9T5OIshijgLD8ZyK) | [LA･LA･LA LOVE THANG](https://open.spotify.com/album/3sqTfrcrrVXqmquAQ5LqGc) | 4:46 | 2025-10-08 |  |
-| [Let you go](https://open.spotify.com/track/3NQJrSDeyKGmUVqjQmzSVq) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX), [HIROTO \(INI\)](https://open.spotify.com/artist/4K4TI6LdTWSKtRT3b7OC7m) | [Let you go](https://open.spotify.com/album/43L1TE2SrCQqFTPo44roFp) | 3:33 | 2026-03-17 |  |
+| [Let you go](https://open.spotify.com/track/3NQJrSDeyKGmUVqjQmzSVq) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX), [HIROTO \(INI\)](https://open.spotify.com/artist/4K4TI6LdTWSKtRT3b7OC7m) | [Let you go](https://open.spotify.com/album/43L1TE2SrCQqFTPo44roFp) | 3:33 | 2026-03-17 | 2026-05-05 |
 | [Love \(feat\. Skaai\)](https://open.spotify.com/track/33WmukupZpPsnobClDyZzs) | [yonawo](https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ), [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [Love \(feat\. Skaai\)](https://open.spotify.com/album/3CTierTEtJQyHX3s6XlEUd) | 4:18 | 2023-02-09 | 2023-04-04 |
 | [Love Confession](https://open.spotify.com/track/1lWtiO8O8cr2CdbHxxsJaT) | [TRACK15](https://open.spotify.com/artist/2yBeBpGsS9sgRa4rlJldIT) | [Love Confession](https://open.spotify.com/album/6sGTFfE8eBhYCCuwQUdyLz) | 2:59 | 2025-02-11 | 2025-03-12 |
 | [Love in the EYE](https://open.spotify.com/track/6xlSFLefgdzaUs5PiwwbbS) | [ニイナ](https://open.spotify.com/artist/3awoctCVai4GDLEzZREbPV) | [Love in the EYE](https://open.spotify.com/album/5X68eZsoTlDru3Kz3q7IHk) | 2:39 | 2025-02-25 | 2025-03-12 |
@@ -150,6 +150,7 @@
 | [Marry You](https://open.spotify.com/track/6cQxdnfEg5IL6C5FCOvGXu) | [Yaffle](https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV), [Leina](https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae) | [Marry You](https://open.spotify.com/album/2OnOcxJMaL6JfaofYnAIpP) | 3:15 | 2025-06-17 | 2025-07-30 |
 | [medicine](https://open.spotify.com/track/72SOp62ne2tErJqwlGEHQj) | [Leina](https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae) | [medicine](https://open.spotify.com/album/4zJib3YlaVcLh9NLRpg8MV) | 2:42 | 2025-04-29 | 2025-10-08 |
 | [Mint](https://open.spotify.com/track/7oZTWApCLOc29vElqEFubs) | [Schuwa Schuwa](https://open.spotify.com/artist/3Zcl5m1Mre2ZlfVU7xYSC8) | [Mint](https://open.spotify.com/album/1yL6i7ZqJZeCGRAOeamfWZ) | 2:55 | 2024-10-22 | 2024-11-06 |
+| [Missing](https://open.spotify.com/track/3qjHbrnu71IJ04InWjmjvJ) | [Toshinobu Kubota](https://open.spotify.com/artist/45JvI0rkPkFFL14Cj0eput) | [SHAKE IT PARADISE](https://open.spotify.com/album/4ZA8qvyScEfx6IHAEO5d3z) | 4:22 | 2026-04-28 |  |
 | [Momoiro Romance](https://open.spotify.com/track/2PXMKL01QCkwl1CVoFWFyf) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [Hint](https://open.spotify.com/album/7qqBOg3696VUcjqzlqwhSa) | 4:02 | 2026-03-10 | 2026-03-18 |
 | [MoonLight](https://open.spotify.com/track/4EvjxBxeSjHq160dzNc9fq) | [Naoto Inti Raymi](https://open.spotify.com/artist/77SZmOd2zA3L3n9x697iWb) | [MoonLight](https://open.spotify.com/album/2QxJBmcOf3dkA1K7tgUpVI) | 3:08 | 2023-12-26 | 2024-01-17 |
 | [More Than A Romance](https://open.spotify.com/track/5DjWI07qafgrDNKcZCF1AW) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [TOPAZ](https://open.spotify.com/album/1rGicdQ568MjzdI8Z4Djt6) | 6:28 | 2023-02-09 | 2023-04-04 |

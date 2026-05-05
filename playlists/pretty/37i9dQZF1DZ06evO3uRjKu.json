@@ -1,12 +1,12 @@
 {
   "description": "This is Vilma Palma e Vampiros. The essential tracks, all in one playlist.",
-  "num_followers": 75871,
+  "num_followers": 75879,
   "original_name": "This Is Vilma Palma e Vampiros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afU+gAAAAADV3wxrRxjB++7j/EphjABF",
+  "snapshot_id": "afaQAAAAAACLch6Wh2bPcyo8bVMbSwbh",
   "tracks": [
     {
       "added_at": null,
@@ -483,6 +483,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Pachanga",
+        "url": "https://open.spotify.com/album/6xEaCs71qwGCQJiotOycSr"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "duration_ms": 350712,
+      "name": "Demasiado Tarde",
+      "url": "https://open.spotify.com/track/5Oa1k1gOxhP018PPRw1Sys"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Muchachos",
         "url": "https://open.spotify.com/album/35cgI9kKr9N6pZfTmWdakM"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 229469,
       "name": "Te Quiero Comer la Boca",
       "url": "https://open.spotify.com/track/0jOcYlFjCBNSq1cXACI1D3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Pachanga",
-        "url": "https://open.spotify.com/album/6xEaCs71qwGCQJiotOycSr"
-      },
-      "artists": [
-        {
-          "name": "Vilma Palma e Vampiros",
-          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
-        }
-      ],
-      "duration_ms": 350712,
-      "name": "Demasiado Tarde",
-      "url": "https://open.spotify.com/track/5Oa1k1gOxhP018PPRw1Sys"
     },
     {
       "added_at": null,
@@ -651,6 +651,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Agarrate Fuerte",
+        "url": "https://open.spotify.com/album/7z4q6L1G8IFwyavj5aKQr7"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "duration_ms": 195666,
+      "name": "Agarrate Fuerte",
+      "url": "https://open.spotify.com/track/3lUBSiPCNkJGVmd9jG6T39"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Psic\u00f3tico",
         "url": "https://open.spotify.com/album/5Nb3kbLr4Y6I7SX25Xwzkc"
       },
@@ -687,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Agarrate Fuerte",
-        "url": "https://open.spotify.com/album/7z4q6L1G8IFwyavj5aKQr7"
-      },
-      "artists": [
-        {
-          "name": "Vilma Palma e Vampiros",
-          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
-        }
-      ],
-      "duration_ms": 195666,
-      "name": "Agarrate Fuerte",
-      "url": "https://open.spotify.com/track/3lUBSiPCNkJGVmd9jG6T39"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Boomerang",
         "url": "https://open.spotify.com/album/7ceZgHQI7VWGueZkhjY8BD"
       },
@@ -715,6 +715,38 @@
       "duration_ms": 300053,
       "name": "Hechicera Crayon",
       "url": "https://open.spotify.com/track/0HE9ttmrZ1Ir01F82oBKh7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Agarrate Fuerte",
+        "url": "https://open.spotify.com/album/7z4q6L1G8IFwyavj5aKQr7"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "duration_ms": 278480,
+      "name": "Reina del Club",
+      "url": "https://open.spotify.com/track/0MlWFjOxbBAHg9JuQNHZoH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo Que Pienso de Vos (En Vivo)",
+        "url": "https://open.spotify.com/album/3PCMQFO6UHrQWyrSbqCx1r"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "duration_ms": 192699,
+      "name": "Lo Que Pienso de Vos - En Vivo",
+      "url": "https://open.spotify.com/track/0fTMTM9GhIls1pt2O6C8mJ"
     },
     {
       "added_at": null,
@@ -739,8 +771,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Que Pienso de Vos (En Vivo)",
-        "url": "https://open.spotify.com/album/3PCMQFO6UHrQWyrSbqCx1r"
+        "name": "Boomerang",
+        "url": "https://open.spotify.com/album/7ceZgHQI7VWGueZkhjY8BD"
       },
       "artists": [
         {
@@ -748,9 +780,9 @@
           "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
         }
       ],
-      "duration_ms": 192699,
-      "name": "Lo Que Pienso de Vos - En Vivo",
-      "url": "https://open.spotify.com/track/0fTMTM9GhIls1pt2O6C8mJ"
+      "duration_ms": 195186,
+      "name": "Vamos Linda",
+      "url": "https://open.spotify.com/track/6Ik6K1CUVXRSYHeWLveSbA"
     },
     {
       "added_at": null,
@@ -764,25 +796,9 @@
           "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
         }
       ],
-      "duration_ms": 278480,
-      "name": "Reina del Club",
-      "url": "https://open.spotify.com/track/0MlWFjOxbBAHg9JuQNHZoH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Boomerang",
-        "url": "https://open.spotify.com/album/7ceZgHQI7VWGueZkhjY8BD"
-      },
-      "artists": [
-        {
-          "name": "Vilma Palma e Vampiros",
-          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
-        }
-      ],
-      "duration_ms": 195186,
-      "name": "Vamos Linda",
-      "url": "https://open.spotify.com/track/6Ik6K1CUVXRSYHeWLveSbA"
+      "duration_ms": 267213,
+      "name": "Pasar\u00e1",
+      "url": "https://open.spotify.com/track/3k9YsjdlHyvgx8ddwHXvaa"
     },
     {
       "added_at": null,
@@ -815,22 +831,6 @@
       "duration_ms": 293035,
       "name": "Ya Ves",
       "url": "https://open.spotify.com/track/3ETi80uYYe1gyGNir04jem"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Agarrate Fuerte",
-        "url": "https://open.spotify.com/album/7z4q6L1G8IFwyavj5aKQr7"
-      },
-      "artists": [
-        {
-          "name": "Vilma Palma e Vampiros",
-          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
-        }
-      ],
-      "duration_ms": 267213,
-      "name": "Pasar\u00e1",
-      "url": "https://open.spotify.com/track/3k9YsjdlHyvgx8ddwHXvaa"
     }
   ],
   "unique_name": "This Is Vilma Palma e Vampiros",

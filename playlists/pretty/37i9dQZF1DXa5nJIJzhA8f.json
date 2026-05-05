@@ -1,6 +1,6 @@
 {
   "description": "Meticulously selected by Spotify music experts.",
-  "num_followers": 98851,
+  "num_followers": 98836,
   "original_name": "Editors' Picks: Best Songs of 2025",
   "owner": {
     "name": "Spotify",
@@ -75,22 +75,6 @@
     {
       "added_at": "2026-02-04 14:24:46",
       "album": {
-        "name": "The Subway",
-        "url": "https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira"
-      },
-      "artists": [
-        {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        }
-      ],
-      "duration_ms": 252276,
-      "name": "The Subway",
-      "url": "https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq"
-    },
-    {
-      "added_at": "2026-02-04 14:24:46",
-      "album": {
         "name": "MAYHEM",
         "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 223398,
       "name": "Abracadabra",
       "url": "https://open.spotify.com/track/2LHNTC9QZxsL3nWpt8iaSR"
+    },
+    {
+      "added_at": "2026-02-04 14:24:46",
+      "album": {
+        "name": "The Subway",
+        "url": "https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 252276,
+      "name": "The Subway",
+      "url": "https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq"
     },
     {
       "added_at": "2026-02-04 14:24:46",
@@ -551,22 +551,6 @@
     {
       "added_at": "2026-02-04 14:24:46",
       "album": {
-        "name": "PAPOTA",
-        "url": "https://open.spotify.com/album/1NDJk94691Vydq1IrIeGC0"
-      },
-      "artists": [
-        {
-          "name": "CA7RIEL & Paco Amoroso",
-          "url": "https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX"
-        }
-      ],
-      "duration_ms": 157937,
-      "name": "IMPOSTOR",
-      "url": "https://open.spotify.com/track/4Jx56iDETiOYzYSgW1CcmM"
-    },
-    {
-      "added_at": "2026-02-04 14:24:46",
-      "album": {
         "name": "Bodies",
         "url": "https://open.spotify.com/album/5xHE0icKPFByUlGL0ygWd6"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 178708,
       "name": "Bodies",
       "url": "https://open.spotify.com/track/4zhdSsssstuVDXyGDb3pYi"
+    },
+    {
+      "added_at": "2026-02-04 14:24:46",
+      "album": {
+        "name": "PAPOTA",
+        "url": "https://open.spotify.com/album/1NDJk94691Vydq1IrIeGC0"
+      },
+      "artists": [
+        {
+          "name": "CA7RIEL & Paco Amoroso",
+          "url": "https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX"
+        }
+      ],
+      "duration_ms": 157937,
+      "name": "IMPOSTOR",
+      "url": "https://open.spotify.com/track/4Jx56iDETiOYzYSgW1CcmM"
     },
     {
       "added_at": "2026-02-04 14:24:46",
@@ -703,22 +703,6 @@
     {
       "added_at": "2026-02-04 14:24:46",
       "album": {
-        "name": "EURO-COUNTRY",
-        "url": "https://open.spotify.com/album/6p8GFQi9D44s9ODeml47ag"
-      },
-      "artists": [
-        {
-          "name": "CMAT",
-          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
-        }
-      ],
-      "duration_ms": 272266,
-      "name": "When A Good Man Cries",
-      "url": "https://open.spotify.com/track/6VXIZWHmdOTHIFhsSkYFgQ"
-    },
-    {
-      "added_at": "2026-02-04 14:24:46",
-      "album": {
         "name": "Double Infinity",
         "url": "https://open.spotify.com/album/1yEo1ZJE5ZgIF7LYrDTbMK"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 237134,
       "name": "Los Angeles",
       "url": "https://open.spotify.com/track/5TSj6ySt4WqDuljv61Q4D5"
+    },
+    {
+      "added_at": "2026-02-04 14:24:46",
+      "album": {
+        "name": "EURO-COUNTRY",
+        "url": "https://open.spotify.com/album/6p8GFQi9D44s9ODeml47ag"
+      },
+      "artists": [
+        {
+          "name": "CMAT",
+          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
+        }
+      ],
+      "duration_ms": 272266,
+      "name": "When A Good Man Cries",
+      "url": "https://open.spotify.com/track/6VXIZWHmdOTHIFhsSkYFgQ"
     },
     {
       "added_at": "2026-02-04 14:24:46",
@@ -903,22 +903,6 @@
     {
       "added_at": "2026-02-04 14:24:46",
       "album": {
-        "name": "Raw",
-        "url": "https://open.spotify.com/album/2CJ61dRA06lmlIw8hVvmak"
-      },
-      "artists": [
-        {
-          "name": "MPH",
-          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
-        }
-      ],
-      "duration_ms": 192121,
-      "name": "Raw",
-      "url": "https://open.spotify.com/track/2U9RtZORzcu54vkWI19PIL"
-    },
-    {
-      "added_at": "2026-02-04 14:24:46",
-      "album": {
         "name": "Earthstar Mountain",
         "url": "https://open.spotify.com/album/2aS0NR1iVCRE2DEr197fe2"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 243455,
       "name": "Earthstar",
       "url": "https://open.spotify.com/track/0SC0WzJk80snenOopsPzvM"
+    },
+    {
+      "added_at": "2026-02-04 14:24:46",
+      "album": {
+        "name": "Raw",
+        "url": "https://open.spotify.com/album/2CJ61dRA06lmlIw8hVvmak"
+      },
+      "artists": [
+        {
+          "name": "MPH",
+          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
+        }
+      ],
+      "duration_ms": 192121,
+      "name": "Raw",
+      "url": "https://open.spotify.com/track/2U9RtZORzcu54vkWI19PIL"
     },
     {
       "added_at": "2026-02-04 14:24:46",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2026-02-04 14:24:46",
       "album": {
-        "name": "SAYA",
-        "url": "https://open.spotify.com/album/4w5yIvQJ8vlxDnMyN8A8qE"
-      },
-      "artists": [
-        {
-          "name": "Saya Gray",
-          "url": "https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl"
-        }
-      ],
-      "duration_ms": 251273,
-      "name": "PUDDLE ( OF ME )",
-      "url": "https://open.spotify.com/track/4xNl7wvrgaTDofpLenB9Mo"
-    },
-    {
-      "added_at": "2026-02-04 14:24:46",
-      "album": {
         "name": "London Summers",
         "url": "https://open.spotify.com/album/6L0fjCZSfZxhavSOOh4ohF"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 217636,
       "name": "London Summers",
       "url": "https://open.spotify.com/track/1vCnTZE7PVUakwkqCnIhrn"
+    },
+    {
+      "added_at": "2026-02-04 14:24:46",
+      "album": {
+        "name": "SAYA",
+        "url": "https://open.spotify.com/album/4w5yIvQJ8vlxDnMyN8A8qE"
+      },
+      "artists": [
+        {
+          "name": "Saya Gray",
+          "url": "https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl"
+        }
+      ],
+      "duration_ms": 251273,
+      "name": "PUDDLE ( OF ME )",
+      "url": "https://open.spotify.com/track/4xNl7wvrgaTDofpLenB9Mo"
     },
     {
       "added_at": "2026-02-04 14:24:46",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2026-02-04 14:24:46",
       "album": {
-        "name": "Mark William Lewis",
-        "url": "https://open.spotify.com/album/1vbTtLdHvOUjv3rfVRr45Y"
-      },
-      "artists": [
-        {
-          "name": "mark william lewis",
-          "url": "https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k"
-        }
-      ],
-      "duration_ms": 148440,
-      "name": "Still Above",
-      "url": "https://open.spotify.com/track/3cTjgotFYaQcI6u8Ocny5U"
-    },
-    {
-      "added_at": "2026-02-04 14:24:46",
-      "album": {
         "name": "LIVE-ACTION",
         "url": "https://open.spotify.com/album/6KpA380vLBVA6d6lYebIk3"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 202270,
       "name": "UNDEFEATED",
       "url": "https://open.spotify.com/track/5fwKEMTyS0FqLk7KVdGQwl"
+    },
+    {
+      "added_at": "2026-02-04 14:24:46",
+      "album": {
+        "name": "Mark William Lewis",
+        "url": "https://open.spotify.com/album/1vbTtLdHvOUjv3rfVRr45Y"
+      },
+      "artists": [
+        {
+          "name": "mark william lewis",
+          "url": "https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k"
+        }
+      ],
+      "duration_ms": 148440,
+      "name": "Still Above",
+      "url": "https://open.spotify.com/track/3cTjgotFYaQcI6u8Ocny5U"
     },
     {
       "added_at": "2026-02-04 14:24:46",

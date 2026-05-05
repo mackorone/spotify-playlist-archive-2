@@ -4,7 +4,7 @@
 
 > Setting sights on banging <a href="spotify:genre:0JQ5DAqbMKFFfBKlpu08ru">trance and progressive</a> with the one & only Tiësto
 
-1,271 songs - 3 day 4 hr 2 min
+1,272 songs - 3 day 4 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -880,6 +880,7 @@
 | [React](https://open.spotify.com/track/3pvwyFjHzt85FCHsmLP54G) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [React](https://open.spotify.com/album/0tWWEvTFSeuPxd7mOPir5u) | 3:36 | 2024-11-08 | 2025-03-29 |
 | [ReActiv8](https://open.spotify.com/track/1UNY1TSerTwdwNrh8EhCSs) | [Ben Gold](https://open.spotify.com/artist/4DXcK8M3bJkCFfhHIkudyL) | [ReActiv8](https://open.spotify.com/album/6qsrkUfGoVBN7SedlMruvA) | 2:33 | 2025-01-10 | 2025-02-15 |
 | [Ready](https://open.spotify.com/track/4oOogqFgu0UdI654KYOy3g) | [Alexander Popov](https://open.spotify.com/artist/4zNhfG6i4QlfUuzt1hBGu2), [Whiteout](https://open.spotify.com/artist/35wRsBUrfQziBPzvJTr9bt), [Cari](https://open.spotify.com/artist/6UAL6sAn9OZc6VQGOOp3re) | [Ready](https://open.spotify.com/album/6QxPadNVThUrA4u4UFJgYv) | 3:06 | 2022-01-21 | 2022-10-15 |
+| [Ready to Fly](https://open.spotify.com/track/4AUqJ9BYqjQO141t5qe4qC) | [Modeā](https://open.spotify.com/artist/6dsy10LVNALrvHyVEadrsJ), [Bryan Kearney](https://open.spotify.com/artist/5fBbVsFxoa0jDCqocaEdBx) | [Ready to Fly](https://open.spotify.com/album/3ZtYDkyonSlzp6atr7LjEO) | 3:08 | 2026-05-01 |  |
 | [Reborn](https://open.spotify.com/track/3wTA4xEmnv08k6DT3T3wNI) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza) | [Reborn](https://open.spotify.com/album/0ik3Z4zEU1HbFCKUZmZR3w) | 3:20 | 2025-12-12 |  |
 | [Recover](https://open.spotify.com/track/1xfO2RuAESfLizI7EaN0O8) | [Purple Haze](https://open.spotify.com/artist/35ClM9mD81Evb2EIuYq5en) | [Recover](https://open.spotify.com/album/5N7D1sAZ6XipCHLhKD6YWC) | 3:55 | 2021-12-17 | 2022-03-12 |
 | [Rectify](https://open.spotify.com/track/0EjQ11NHcGwEhYHStzB4li) | [Redfield](https://open.spotify.com/artist/2cW1LUTqGx2JMe0oAGx9OV) | [Rectify](https://open.spotify.com/album/2u0P3ZhgmtHmTAEJpdMt6Z) | 3:27 | 2021-12-17 | 2022-02-26 |
@@ -915,7 +916,7 @@
 | [Rise Again](https://open.spotify.com/track/27a7ojdqMexeIDYIOOJapD) | [Alexander Popov](https://open.spotify.com/artist/4zNhfG6i4QlfUuzt1hBGu2), [Simon & Phil](https://open.spotify.com/artist/7lv2ETc0piWDxN0uwfJJ05) | [Rise Again](https://open.spotify.com/album/0Qe9RKMZQi00h2UIdgBnoh) | 3:23 | 2024-04-19 | 2025-05-17 |
 | [Rise Up](https://open.spotify.com/track/2n08N1ofRMc9dfbjGnxS6l) | [Ferry Corsten](https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP), [Ruben de Ronde](https://open.spotify.com/artist/3q7BRw9D1DupXTONJdr94m), [NRG2000](https://open.spotify.com/artist/6jVTGNBl4oociC25d6U4iy) | [Rise Up](https://open.spotify.com/album/7JkeFNWMO44IneNli188wr) | 2:39 | 2025-08-01 |  |
 | [Rising Hope](https://open.spotify.com/track/6ljf0bXhTXdLAfxEr8ffbC) | [Kyau & Albert](https://open.spotify.com/artist/0pyi4vNCq5T6GgV1rt7ncc) | [Rising Hope](https://open.spotify.com/album/75g4Ldc9rWfj0HedXKzuxx) | 2:13 | 2023-04-29 | 2024-02-17 |
-| [Ritual](https://open.spotify.com/track/5gOrkkYCf0zXWIrNLrGg17) | [Nitrous Oxide](https://open.spotify.com/artist/0UJQXkmx6GjqUxugf7zzkR), [Seb Hennig](https://open.spotify.com/artist/0fSDz25ERt4MdUqzGnazbZ) | [Ritual](https://open.spotify.com/album/3nO7pK4ilTMXqjVdb2yLRs) | 3:58 | 2025-01-10 |  |
+| [Ritual](https://open.spotify.com/track/5gOrkkYCf0zXWIrNLrGg17) | [Nitrous Oxide](https://open.spotify.com/artist/0UJQXkmx6GjqUxugf7zzkR), [Seb Hennig](https://open.spotify.com/artist/0fSDz25ERt4MdUqzGnazbZ) | [Ritual](https://open.spotify.com/album/3nO7pK4ilTMXqjVdb2yLRs) | 3:58 | 2025-01-10 | 2026-05-05 |
 | [River](https://open.spotify.com/track/7KyFygbtNWmhr25gg8OhXh) | [Andrew Rayel](https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr), [AIDYL](https://open.spotify.com/artist/63YNSGgVHzU8j43ngzTw1f) | [River](https://open.spotify.com/album/4CN9wlSiA4WzXuxBQvYskA) | 4:00 | 2021-12-17 | 2022-01-08 |
 | [Riverside](https://open.spotify.com/track/3GQ0DStEyr87WqgpZ0vNw2) | [John O'Callaghan](https://open.spotify.com/artist/6H2JQ8igAAa5UBr2u496mb) | [Riverside](https://open.spotify.com/album/6wts2eujrZVvoR8GiXVJW2) | 3:52 | 2023-09-08 | 2025-03-22 |
 | [Road To Nowhere](https://open.spotify.com/track/35BmsYzLgajLCrvMxJqlA4) | [Jaytech](https://open.spotify.com/artist/5mpJ1Z8BYEOG0rrdO4a2nG) | [Galactic EP](https://open.spotify.com/album/2NDUH8BaU7LGifaMCt8NUV) | 4:12 | 2021-12-17 | 2022-04-02 |

@@ -5762,7 +5762,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 208000,
       "name": "Pink Noise Balance",
       "url": "https://open.spotify.com/track/6RWo80soxwN9KIWJmZWB86"
@@ -7137,6 +7137,24 @@
     },
     {
       "album": {
+        "name": "Pink Noise Hush",
+        "url": "https://open.spotify.com/album/3aajDyd1G3Qkr72989lKNq"
+      },
+      "artists": [
+        {
+          "name": "Tranquility Sound Machine",
+          "url": "https://open.spotify.com/artist/7rdHn837SCQCIZ1HOQsJsj"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Pink Noise Hush",
+      "url": "https://open.spotify.com/track/18OLsYZqg9C1lU2WAYiUAi"
+    },
+    {
+      "album": {
         "name": "Pink Noise in Motion",
         "url": "https://open.spotify.com/album/56O9XkQZ13ERRduFmnW7Qk"
       },
@@ -8106,7 +8124,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 263551,
       "name": "Pink Noise Syllabus",
       "url": "https://open.spotify.com/track/6kYaRxSqEUgKNU59jn7QCq"
@@ -11170,6 +11188,24 @@
       "duration_ms": 206000,
       "name": "Surrounded by Pink Noise",
       "url": "https://open.spotify.com/track/2sj5wfw7LJWebgQpIDzrRF"
+    },
+    {
+      "album": {
+        "name": "Tender Pink Noise",
+        "url": "https://open.spotify.com/album/5WzLf457ekiqSseQZiD5qf"
+      },
+      "artists": [
+        {
+          "name": "Noise Advisor",
+          "url": "https://open.spotify.com/artist/28Xwzrz7nVTqirstVfbxF1"
+        }
+      ],
+      "date_added": "2026-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181736,
+      "name": "Tender Pink Noise",
+      "url": "https://open.spotify.com/track/5UnjndzxRz97qpkcIvSe1W"
     },
     {
       "album": {

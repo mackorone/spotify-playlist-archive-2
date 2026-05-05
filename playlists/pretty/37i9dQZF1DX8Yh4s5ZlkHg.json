@@ -1,6 +1,6 @@
 {
   "description": "Intimate, sultry, satisfying. =",
-  "num_followers": 996898,
+  "num_followers": 997303,
   "original_name": "sexy indie",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2026-01-20 16:43:32",
       "album": {
-        "name": "JAMIE",
-        "url": "https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "Destroy Myself Just For You",
-      "url": "https://open.spotify.com/track/40Fmr4mXhz4PtrMAPTnoXB"
-    },
-    {
-      "added_at": "2026-01-20 16:43:32",
-      "album": {
         "name": "Faith",
         "url": "https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 158359,
       "name": "Charmed",
       "url": "https://open.spotify.com/track/6DYLWAdxEJvwWmT7EkeDkX"
+    },
+    {
+      "added_at": "2026-01-20 16:43:32",
+      "album": {
+        "name": "JAMIE",
+        "url": "https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "Destroy Myself Just For You",
+      "url": "https://open.spotify.com/track/40Fmr4mXhz4PtrMAPTnoXB"
     },
     {
       "added_at": "2026-01-20 16:43:32",
@@ -815,22 +815,6 @@
     {
       "added_at": "2026-01-20 16:43:32",
       "album": {
-        "name": "Superclean, Vol. I",
-        "url": "https://open.spotify.com/album/5XX1xVOP61GDQCGaZMLjhO"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 170893,
-      "name": "Only in My Dreams",
-      "url": "https://open.spotify.com/track/190IqlryWu91WBKeDgZqZz"
-    },
-    {
-      "added_at": "2026-01-20 16:43:32",
-      "album": {
         "name": "Freetown Sound",
         "url": "https://open.spotify.com/album/3Z2XUjgVj5ZkCGpU7b2qtY"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 225747,
       "name": "Best to You",
       "url": "https://open.spotify.com/track/1p2TWJxUlHE5JR0sE6E1d7"
+    },
+    {
+      "added_at": "2026-01-20 16:43:32",
+      "album": {
+        "name": "Superclean, Vol. I",
+        "url": "https://open.spotify.com/album/5XX1xVOP61GDQCGaZMLjhO"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 170893,
+      "name": "Only in My Dreams",
+      "url": "https://open.spotify.com/track/190IqlryWu91WBKeDgZqZz"
     }
   ],
   "unique_name": "sexy indie",

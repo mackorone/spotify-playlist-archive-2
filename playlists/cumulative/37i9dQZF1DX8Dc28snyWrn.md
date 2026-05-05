@@ -4,7 +4,7 @@
 
 > Take a breath with these lively, cathartic songs.
 
-125 songs - 7 hr 29 min
+130 songs - 7 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Better Me For You \(Brown Eyes\)](https://open.spotify.com/track/4Iu73sdCNxZXZUIyClMoPZ) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [Night Diving](https://open.spotify.com/album/10hjsM00M8pghNdZRwOShY) | 3:14 | 2025-10-24 |  |
 | [Bloodline](https://open.spotify.com/track/2qPQcfUgizNDOIv1orkTAd) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [You'll Be Alright, Kid](https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK) | 3:02 | 2025-10-24 |  |
 | [Bloom \- Bonus Track](https://open.spotify.com/track/1HMQmOWrkieKYWlFsjUP3D) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Woodland](https://open.spotify.com/album/1lq6KMHFACcE6GQZysxnSZ) | 3:30 | 2023-01-06 |  |
+| [Boston](https://open.spotify.com/track/36idurZmYRjJ56KQ8JD9bN) | [STELLA LEFTY](https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2) | [Boston](https://open.spotify.com/album/4YLIRb8DdBTXbgHiFLicH2) | 2:50 | 2026-05-04 |  |
 | [Bruises](https://open.spotify.com/track/4KCcxVTDOuOntQCaXZkN3R) | [Chairlift](https://open.spotify.com/artist/7hAolICGSgXJuM6DUpK5rp) | [Does You Inspire You](https://open.spotify.com/album/0LxYnbZ4oZcDYF9UIFxqLF) | 4:01 | 2024-01-23 | 2024-04-19 |
 | [Bruises](https://open.spotify.com/track/4mdyVTV7Tr5YDFnD2kvSM4) | [Chairlift](https://open.spotify.com/artist/7hAolICGSgXJuM6DUpK5rp) | [Does You Inspire You](https://open.spotify.com/album/3JuIBAoHi6gUmS3tgF4CPg) | 4:01 | 2023-06-13 | 2025-07-26 |
 | [Bubbly](https://open.spotify.com/track/0rFOs9paloAvEtzwDX1Kmc) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [Coco](https://open.spotify.com/album/0gX4aTUhxNbdFTJBXX7OrH) | 3:16 | 2023-01-06 | 2023-06-13 |
@@ -26,6 +27,7 @@
 | [Counting Stars](https://open.spotify.com/track/2tpWsVSb9UEmDRxAl1zhX1) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Native](https://open.spotify.com/album/20lOt6G8MHv8ZO7ViOmiP7) | 4:17 | 2023-01-06 | 2023-06-13 |
 | [Counting Stars](https://open.spotify.com/track/6sy3LkhNFjJWlaeSMNwQ62) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Native](https://open.spotify.com/album/2bbhW5ifCwOYM8DMkqoYBF) | 4:17 | 2023-01-06 | 2023-05-07 |
 | [Dandelions](https://open.spotify.com/track/2eAvDnpXP5W0cVtiI0PUxV) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Safe Haven](https://open.spotify.com/album/6FgtuX3PtiB5civjHYhc52) | 3:53 | 2023-06-13 |  |
+| [Dashboard](https://open.spotify.com/track/6rlU0kRQNjMZ7t5I92yCIi) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide](https://open.spotify.com/album/2fnkyn9EybagIoFJ7a13oz) | 3:50 | 2026-05-04 |  |
 | [demons](https://open.spotify.com/track/5HXFe0eb5lCfJpsqoqIbRS) | [Josiah Queen](https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2) | [demons](https://open.spotify.com/album/6KAkZgA0rnazv1gQKLcOyW) | 3:10 | 2026-01-23 |  |
 | [Dog Days Are Over](https://open.spotify.com/track/1YLJVmuzeM2YSUkCCaTNUB) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Edition\)](https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ) | 4:11 | 2023-01-06 |  |
 | [Don't Dream It's Over \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/4PFnROqBlAVnizUrhF1x7C) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Spotify Singles](https://open.spotify.com/album/7txW0oEFE7Cxj1OPROdRvq) | 4:33 | 2023-06-13 | 2025-11-08 |
@@ -40,6 +42,7 @@
 | [Fire and Gasoline](https://open.spotify.com/track/5HsnuFpwo1LsNPKwV8KS3W) | [Zach Seabaugh](https://open.spotify.com/artist/3bmlmoASHg6ycjrKV05CP2) | [Fire and Gasoline](https://open.spotify.com/album/0Hyd1LmlK4jrLzjzNFjvF3) | 3:09 | 2025-10-24 |  |
 | [First Day of My Life](https://open.spotify.com/track/0eBryM7ePQH3Klt3jz8xZd) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [I'm Wide Awake, It's Morning](https://open.spotify.com/album/6MwSuZphL6GmuSVIYUGUF7) | 3:08 | 2023-01-06 | 2023-06-13 |
 | [First Love/Late Spring](https://open.spotify.com/track/3sslYZcFKtUvIEWN9lADgr) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Bury Me At Makeout Creek](https://open.spotify.com/album/3I2KkX13lHXuYqfBjSOopo) | 4:38 | 2023-06-13 | 2023-11-16 |
+| [Fool's Gold](https://open.spotify.com/track/54uoj9Bb6k97wSQ9MezOYU) | [Buffalo Traffic Jam](https://open.spotify.com/artist/22LEPYRDhoThnbpShy6fV7) | [Fool's Gold](https://open.spotify.com/album/5v8FMiboqfjBxM7UgkIgtG) | 3:17 | 2026-05-04 |  |
 | [Games](https://open.spotify.com/track/7xR4soaVnkl0IunRwUO5Dw) | [Ian Harrison](https://open.spotify.com/artist/5KNwR0B4tskwLbpfPtt1LG) | [Games](https://open.spotify.com/album/0qhjCNkQX5WQGFcY3ZOOfG) | 2:50 | 2026-01-09 |  |
 | [Geronimo](https://open.spotify.com/track/19cL3SOKpwnwoKkII7U3Wh) | [Sheppard](https://open.spotify.com/artist/6VxCmtR7S3yz4vnzsJqhSV) | [Bombs Away](https://open.spotify.com/album/2Yi29VOccHCwktsZNqtxbt) | 3:38 | 2023-01-06 | 2024-04-28 |
 | [Giving Up \(with JOSEPH\)](https://open.spotify.com/track/5VEoJBwpMt3cvEa5ptpsET) | [Michigander](https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu), [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [Giving Up \(with JOSEPH\)](https://open.spotify.com/album/5W2jEjoYv8uwgDYkNQKHLU) | 3:14 | 2025-08-02 |  |
@@ -67,6 +70,7 @@
 | [It's Time](https://open.spotify.com/track/6BtmXhTJMM9sBTHeYYASGz) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Night Visions](https://open.spotify.com/album/6htgf3qv7vGcsdxLCDxKp8) | 3:57 | 2023-01-06 |  |
 | [Keep Your Head Up](https://open.spotify.com/track/4Jz4bjXeiF2SXVj9P4YfY5) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Andy Grammer](https://open.spotify.com/album/2c93mTBuqEHQMiyg53P69R) | 3:09 | 2023-01-06 |  |
 | [Keep Your Head Up \(Album Version\)](https://open.spotify.com/track/2kebNtlS7DqWE54Z66FZIt) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Andy Grammer](https://open.spotify.com/album/2wp1jec3BcuaaXyM8VucWZ) | 3:10 | 2023-06-13 | 2024-04-19 |
+| [Kingdom of Fear](https://open.spotify.com/track/4Es6f0zquGHCrv9Hespx9W) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Kingdom of Fear](https://open.spotify.com/album/6nE9zag2eaoLn58KZSqRVZ) | 2:41 | 2026-05-04 |  |
 | [Light On](https://open.spotify.com/track/6UnCGAEmrbGIOSmGRZQ1M2) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Heard It In A Past Life](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) | 3:53 | 2023-06-13 | 2024-04-28 |
 | [Little Talks](https://open.spotify.com/track/2ihCaVdNZmnHZWt0fvAM7B) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [My Head Is An Animal](https://open.spotify.com/album/4p9dVvZDaZliSjTCbFRhJy) | 4:26 | 2023-01-06 |  |
 | [Loving You \(Get Used To\)](https://open.spotify.com/track/2GubuHtAHGMbjjWnXEAZAm) | [Isaac Levi](https://open.spotify.com/artist/4g75VELuqAmS29Xhlu7ZFC) | [Loving You \(Get Used To\)](https://open.spotify.com/album/4qc8a0VpjHZpoggqkbwoEg) | 2:47 | 2026-03-28 |  |
@@ -82,6 +86,7 @@
 | [Out of My League](https://open.spotify.com/track/0i5spxZKedPA2TgGuvJ3AL) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [More Than Just a Dream](https://open.spotify.com/album/4JkiXUUfINCrEtgN71JtkD) | 3:29 | 2024-01-23 | 2025-10-25 |
 | [Out of My League](https://open.spotify.com/track/2AYEOC02WLhUiOoaig2SEH) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [More Than Just a Dream \(Deluxe Edition\)](https://open.spotify.com/album/3IWUFJCM3CvCCQIHQ4vtRK) | 3:29 | 2023-01-06 | 2024-04-19 |
 | [Photograph](https://open.spotify.com/track/6fxVffaTuwjgEk5h9QyRjy) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Wembley Edition\)](https://open.spotify.com/album/6NoBzYmh5gUusGPCfg0pct) | 4:18 | 2023-01-06 | 2025-10-25 |
+| [Plastic Soul](https://open.spotify.com/track/6O0xnpq8xNi4VNvS6yezHN) | [Mondo Cozmo](https://open.spotify.com/artist/7ybnRZKtRbWQzJfKyYSyh6) | [Plastic Soul](https://open.spotify.com/album/0LASSuakCUPGw4mVBSnXnA) | 4:58 | 2026-05-04 |  |
 | [Please Don't Go](https://open.spotify.com/track/3cNjgVBKTJ1SvKhunrCdVy) | [Joel Adams](https://open.spotify.com/artist/36jaGQtMj5UWD0eO1fCVdD) | [Please Don't Go](https://open.spotify.com/album/2SF8Wbc61u8hlQkZYGVCnx) | 3:30 | 2023-01-06 | 2023-06-13 |
 | [Pompeii](https://open.spotify.com/track/3gbBpTdY8lnQwqxNCcf795) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Bad Blood](https://open.spotify.com/album/64fQ94AVziavTPdnkCS6Nj) | 3:34 | 2023-01-06 | 2026-01-06 |
 | [Pumped Up Kicks](https://open.spotify.com/track/7w87IxuO7BDcJ3YUqCyMTT) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Torches](https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT) | 3:59 | 2023-01-06 | 2025-11-22 |

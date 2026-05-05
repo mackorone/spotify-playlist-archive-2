@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > Weekly new Hardstyle releases! Cover: Devin Wild
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,169 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,188 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 99 | [Infinite Power](https://open.spotify.com/track/1bZd6xIrzaj7H2Lj2yYYMI) | [Damaxy](https://open.spotify.com/artist/7iH754eigCrs80sQ08MFAx), [Disaster](https://open.spotify.com/artist/33WBeVngRhTAZbv1Z9Z5ov) | [Infinite Power](https://open.spotify.com/album/3lZ0Nb6fxJkHBizF94W3u2) | 2:51 |
 | 100 | [Bizarre](https://open.spotify.com/track/6PLYd6RqpKjiD3Lk5kNKGS) | [GLDY LX](https://open.spotify.com/artist/5W8ur0q0526Cj59h4qbmjl) | [Bizarre](https://open.spotify.com/album/2WgxtNzbpV83a7FrJYmY70) | 2:45 |
 
-Snapshot ID: `AAAAABazlmuMn9f50JA5cR6ZzGSKZXYs`
+Snapshot ID: `AAAAAN/mANmxzIHzrKv97GOJwMLnWjps`

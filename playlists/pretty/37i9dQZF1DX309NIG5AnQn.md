@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX309NIG5AnQn.md) - [plain]
 
 > rock alternativo argentino\. <br/>📷 Señorita Novio & Shitstem
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,676 likes - 85 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,677 likes - 85 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX309NIG5AnQn.md) - [plain]
 | 51 | [Tan Adorable](https://open.spotify.com/track/7cSnscdxaW12w0T6eQzMAT) | [Marina Fages](https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3) | [ATALAYA AVALANCHA](https://open.spotify.com/album/50Tx2aMQD2tI4mZDR7xRaQ) | 2:27 |
 | 52 | [Morfina](https://open.spotify.com/track/5tjOXv02KtdMLIAv35F3iv) | [Posguerra](https://open.spotify.com/artist/6LXuhZRap06bMFoMDxGDAf) | [Morfina](https://open.spotify.com/album/4J0CA7aRj6X2RM1tE8MgJq) | 2:40 |
 | 53 | [Ataques en mi ciudad](https://open.spotify.com/track/5bPlBlbed488nYF8lWkvvX) | [Sakatumba](https://open.spotify.com/artist/205zSqF4seFuqDGmmQEMad) | [Ataques en mi ciudad](https://open.spotify.com/album/5Uf4QqRyjV8sVwzCGjDAcC) | 2:39 |
-| 54 | [El Rock and Roll está matando mi Rock and Roll](https://open.spotify.com/track/64ZOcVsJlDloqNgApIQrzt) | [Winona Riders](https://open.spotify.com/artist/6ipac2Z0d0L6LWS7tTudcp) | [0%](https://open.spotify.com/album/7mZ4SWBx5IMJLXqQ2Fdx6W) | 2:10 |
+| 54 | [El Rock and Roll Está Matando Mi Rock and Roll](https://open.spotify.com/track/64ZOcVsJlDloqNgApIQrzt) | [Winona Riders](https://open.spotify.com/artist/6ipac2Z0d0L6LWS7tTudcp) | [0%](https://open.spotify.com/album/7mZ4SWBx5IMJLXqQ2Fdx6W) | 2:10 |
 | 55 | [No esperes nada](https://open.spotify.com/track/2zUu0Yxl8kbawwgemMv1Xt) | [Mujer Cebra](https://open.spotify.com/artist/6UZQzfJ09W8Dqmr0UoU5HL) | [No esperes nada](https://open.spotify.com/album/7wwlW8Om4ZeOHNDdD1TIpr) | 3:54 |
 | 56 | [Me Tiré](https://open.spotify.com/track/0ApZq70y3QiAZIVFeXkXP7) | [Los Títeres](https://open.spotify.com/artist/48nIgxyfgJKBLXrIwT7GZZ) | [Me Tiré](https://open.spotify.com/album/2qphEdvWd6vCJWQsI4Q99m) | 5:16 |
 | 57 | [Envejecer](https://open.spotify.com/track/0okBFKTi6txpRPV4NenIVb) | [DOSMILDOS](https://open.spotify.com/artist/5HLVzM3Asmcjtxa2KxIFOh) | [Envejecer](https://open.spotify.com/album/2QA6ePvqlYD28L3qOj0afX) | 2:47 |

@@ -1,6 +1,6 @@
 {
   "description": "The best new songs of the month, handpicked by Spotify editors. Cover: Momo Boyd",
-  "num_followers": 90446,
+  "num_followers": 90579,
   "original_name": "Editors' Picks: Best Songs of April",
   "owner": {
     "name": "Spotify",
@@ -47,6 +47,22 @@
     {
       "added_at": "2026-05-01 04:00:10",
       "album": {
+        "name": "The Great Divide",
+        "url": "https://open.spotify.com/album/2fnkyn9EybagIoFJ7a13oz"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 231086,
+      "name": "Doors",
+      "url": "https://open.spotify.com/track/3iU2qsthCTo5EeTE03l3Si"
+    },
+    {
+      "added_at": "2026-05-01 04:00:10",
+      "album": {
         "name": "SHE DID IT AGAIN (feat. Zara Larsson)",
         "url": "https://open.spotify.com/album/13DVwg7TPRUC8BnLjblv5B"
       },
@@ -67,22 +83,6 @@
     {
       "added_at": "2026-05-01 04:00:10",
       "album": {
-        "name": "The Great Divide",
-        "url": "https://open.spotify.com/album/2fnkyn9EybagIoFJ7a13oz"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 231086,
-      "name": "Doors",
-      "url": "https://open.spotify.com/track/3iU2qsthCTo5EeTE03l3Si"
-    },
-    {
-      "added_at": "2026-05-01 04:00:10",
-      "album": {
         "name": "Dandelion",
         "url": "https://open.spotify.com/album/6nrtxtgaD9zSYBl9APvOCH"
       },
@@ -95,22 +95,6 @@
       "duration_ms": 183853,
       "name": "Broken",
       "url": "https://open.spotify.com/track/65t42trkFQjspA3vzjl7bF"
-    },
-    {
-      "added_at": "2026-05-01 04:00:10",
-      "album": {
-        "name": "I Feel So Free",
-        "url": "https://open.spotify.com/album/1BpCZSS9KQ3Dd2eb8ADt1y"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 303528,
-      "name": "I Feel So Free",
-      "url": "https://open.spotify.com/track/04o2ES37jkiK5Qy8PR5XLk"
     },
     {
       "added_at": "2026-05-01 04:00:10",
@@ -131,6 +115,22 @@
       "duration_ms": 275898,
       "name": "Despu\u00e9s de ti",
       "url": "https://open.spotify.com/track/6PbhFQkpQjoojWo2b6Ghoi"
+    },
+    {
+      "added_at": "2026-05-01 04:00:10",
+      "album": {
+        "name": "I Feel So Free",
+        "url": "https://open.spotify.com/album/1BpCZSS9KQ3Dd2eb8ADt1y"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 303528,
+      "name": "I Feel So Free",
+      "url": "https://open.spotify.com/track/04o2ES37jkiK5Qy8PR5XLk"
     },
     {
       "added_at": "2026-05-01 04:00:10",
@@ -171,6 +171,26 @@
     {
       "added_at": "2026-05-01 04:00:10",
       "album": {
+        "name": "Kehlani",
+        "url": "https://open.spotify.com/album/2xkYTmqjear3lSGydIn7wh"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 241927,
+      "name": "Anotha Luva (feat. Lil Wayne)",
+      "url": "https://open.spotify.com/track/1LCiGi699HYk4nznLRQovN"
+    },
+    {
+      "added_at": "2026-05-01 04:00:10",
+      "album": {
         "name": "Reputation (feat. Dominic Fike)",
         "url": "https://open.spotify.com/album/0GagxhdItrfNoWwTI6mogx"
       },
@@ -203,26 +223,6 @@
       "duration_ms": 275599,
       "name": "Sarniezz",
       "url": "https://open.spotify.com/track/6iDKiCR13L8Ba6bkK6cqqt"
-    },
-    {
-      "added_at": "2026-05-01 04:00:10",
-      "album": {
-        "name": "Kehlani",
-        "url": "https://open.spotify.com/album/2xkYTmqjear3lSGydIn7wh"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 241927,
-      "name": "Anotha Luva (feat. Lil Wayne)",
-      "url": "https://open.spotify.com/track/1LCiGi699HYk4nznLRQovN"
     },
     {
       "added_at": "2026-05-01 04:00:10",
@@ -275,6 +275,42 @@
     {
       "added_at": "2026-05-01 04:00:10",
       "album": {
+        "name": "car crash",
+        "url": "https://open.spotify.com/album/1lP8AhonyWZZKNgnEcjSV0"
+      },
+      "artists": [
+        {
+          "name": "jigitz",
+          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
+        },
+        {
+          "name": "Charlotte Plank",
+          "url": "https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO"
+        }
+      ],
+      "duration_ms": 160626,
+      "name": "car crash",
+      "url": "https://open.spotify.com/track/47z8JPQCgjtRcFqt1kUyoA"
+    },
+    {
+      "added_at": "2026-05-01 04:00:10",
+      "album": {
+        "name": "Kehlani",
+        "url": "https://open.spotify.com/album/2xkYTmqjear3lSGydIn7wh"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 213283,
+      "name": "Still",
+      "url": "https://open.spotify.com/track/0Ntgg91du8iTGOobonADUu"
+    },
+    {
+      "added_at": "2026-05-01 04:00:10",
+      "album": {
         "name": "Bloom",
         "url": "https://open.spotify.com/album/3QMZPDDxfm5EQxEGWOYgR7"
       },
@@ -311,22 +347,6 @@
     {
       "added_at": "2026-05-01 04:00:10",
       "album": {
-        "name": "Kehlani",
-        "url": "https://open.spotify.com/album/2xkYTmqjear3lSGydIn7wh"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 213283,
-      "name": "Still",
-      "url": "https://open.spotify.com/track/0Ntgg91du8iTGOobonADUu"
-    },
-    {
-      "added_at": "2026-05-01 04:00:10",
-      "album": {
         "name": "GOMF (feat. GloRilla)",
         "url": "https://open.spotify.com/album/7woXVG8V3g8TQjDd8WV5JO"
       },
@@ -359,26 +379,6 @@
       "duration_ms": 178001,
       "name": "the van",
       "url": "https://open.spotify.com/track/4C2o68XUoLpjvncsNsgwjA"
-    },
-    {
-      "added_at": "2026-05-01 04:00:10",
-      "album": {
-        "name": "car crash",
-        "url": "https://open.spotify.com/album/1lP8AhonyWZZKNgnEcjSV0"
-      },
-      "artists": [
-        {
-          "name": "jigitz",
-          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
-        },
-        {
-          "name": "Charlotte Plank",
-          "url": "https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO"
-        }
-      ],
-      "duration_ms": 160626,
-      "name": "car crash",
-      "url": "https://open.spotify.com/track/47z8JPQCgjtRcFqt1kUyoA"
     },
     {
       "added_at": "2026-05-01 04:00:10",
@@ -423,6 +423,22 @@
     {
       "added_at": "2026-05-01 04:00:10",
       "album": {
+        "name": "Middle of Nowhere",
+        "url": "https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 188767,
+      "name": "Hell On Me",
+      "url": "https://open.spotify.com/track/4XzAJ5UubRHl8mSx3T4Aab"
+    },
+    {
+      "added_at": "2026-05-01 04:00:10",
+      "album": {
         "name": "idea 1",
         "url": "https://open.spotify.com/album/0d0V3ranIJdJ0RjSo4Q7Qm"
       },
@@ -439,6 +455,42 @@
     {
       "added_at": "2026-05-01 04:00:10",
       "album": {
+        "name": "babygirl",
+        "url": "https://open.spotify.com/album/31CPIp0vMvr5UNB0xvnMiL"
+      },
+      "artists": [
+        {
+          "name": "JPEGMAFIA",
+          "url": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
+        }
+      ],
+      "duration_ms": 147491,
+      "name": "babygirl",
+      "url": "https://open.spotify.com/track/5ouETFDqJv0SQMzwKlQLlP"
+    },
+    {
+      "added_at": "2026-05-01 04:00:10",
+      "album": {
+        "name": "Say Please (Don't Leave Me Lonely) [feat. BigXthaPlug]",
+        "url": "https://open.spotify.com/album/42u78y3vwF6rNh81djS2SF"
+      },
+      "artists": [
+        {
+          "name": "Fredo Bang",
+          "url": "https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv"
+        },
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 194716,
+      "name": "Say Please (Don't Leave Me Lonely) (feat. BigXthaPlug)",
+      "url": "https://open.spotify.com/track/3gq1jrwHUDFN0VyQu2yvrQ"
+    },
+    {
+      "added_at": "2026-05-01 04:00:10",
+      "album": {
         "name": "2515",
         "url": "https://open.spotify.com/album/4n98iy8MVJkh2cELKgazOR"
       },
@@ -451,6 +503,38 @@
       "duration_ms": 241100,
       "name": "2515",
       "url": "https://open.spotify.com/track/6oJRAA2pF2VK8fmxTncqiG"
+    },
+    {
+      "added_at": "2026-05-01 04:00:10",
+      "album": {
+        "name": "IT'S BEEN AWFUL",
+        "url": "https://open.spotify.com/album/2ZDgH9uDdjRFNdjEyQCZtH"
+      },
+      "artists": [
+        {
+          "name": "Isaiah Rashad",
+          "url": "https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM"
+        }
+      ],
+      "duration_ms": 152868,
+      "name": "GTKY",
+      "url": "https://open.spotify.com/track/3uS7PGMubHFbgxyS8cfqkL"
+    },
+    {
+      "added_at": "2026-05-01 04:00:10",
+      "album": {
+        "name": "esperando que vuelvas",
+        "url": "https://open.spotify.com/album/1vqUjUxGNccr4r4kgFTd7M"
+      },
+      "artists": [
+        {
+          "name": "Marc Segu\u00ed",
+          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
+        }
+      ],
+      "duration_ms": 216594,
+      "name": "esperando que vuelvas",
+      "url": "https://open.spotify.com/track/7hOpmWDACdtAeuksK2BseS"
     },
     {
       "added_at": "2026-05-01 04:00:10",
@@ -475,38 +559,38 @@
     {
       "added_at": "2026-05-01 04:00:10",
       "album": {
-        "name": "esperando que vuelvas",
-        "url": "https://open.spotify.com/album/1vqUjUxGNccr4r4kgFTd7M"
+        "name": "American Dream",
+        "url": "https://open.spotify.com/album/45NVjCLXsyk3X8gxD5d18s"
       },
       "artists": [
         {
-          "name": "Marc Segu\u00ed",
-          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
+          "name": "Alabama Shakes",
+          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
         }
       ],
-      "duration_ms": 216594,
-      "name": "esperando que vuelvas",
-      "url": "https://open.spotify.com/track/7hOpmWDACdtAeuksK2BseS"
+      "duration_ms": 267693,
+      "name": "American Dream",
+      "url": "https://open.spotify.com/track/2hEtEN8dt6Hj2djG33DT6e"
     },
     {
       "added_at": "2026-05-01 04:00:10",
       "album": {
-        "name": "Say Please (Don't Leave Me Lonely) [feat. BigXthaPlug]",
-        "url": "https://open.spotify.com/album/42u78y3vwF6rNh81djS2SF"
+        "name": "Tu Coraz\u00f3n (Your Heart)",
+        "url": "https://open.spotify.com/album/18b9Dj6RtCqtorAu7l9PKX"
       },
       "artists": [
         {
-          "name": "Fredo Bang",
-          "url": "https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv"
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
         },
         {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+          "name": "The Warning",
+          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
         }
       ],
-      "duration_ms": 194716,
-      "name": "Say Please (Don't Leave Me Lonely) (feat. BigXthaPlug)",
-      "url": "https://open.spotify.com/track/3gq1jrwHUDFN0VyQu2yvrQ"
+      "duration_ms": 180120,
+      "name": "Tu Coraz\u00f3n (Your Heart)",
+      "url": "https://open.spotify.com/track/64PXpstU2BDJ1iMcPNLJyS"
     },
     {
       "added_at": "2026-05-01 04:00:10",
@@ -535,38 +619,18 @@
     {
       "added_at": "2026-05-01 04:00:10",
       "album": {
-        "name": "Tu Coraz\u00f3n (Your Heart)",
-        "url": "https://open.spotify.com/album/18b9Dj6RtCqtorAu7l9PKX"
+        "name": "CULE POCO (sirena_besarico_coste\u00f1a)",
+        "url": "https://open.spotify.com/album/2AjV3IQ9rioKsjNPW2JiPC"
       },
       "artists": [
         {
-          "name": "PNAU",
-          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
-        },
-        {
-          "name": "The Warning",
-          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
+          "name": "ARIA VEGA",
+          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
         }
       ],
-      "duration_ms": 180120,
-      "name": "Tu Coraz\u00f3n (Your Heart)",
-      "url": "https://open.spotify.com/track/64PXpstU2BDJ1iMcPNLJyS"
-    },
-    {
-      "added_at": "2026-05-01 04:00:10",
-      "album": {
-        "name": "American Dream",
-        "url": "https://open.spotify.com/album/45NVjCLXsyk3X8gxD5d18s"
-      },
-      "artists": [
-        {
-          "name": "Alabama Shakes",
-          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
-        }
-      ],
-      "duration_ms": 267693,
-      "name": "American Dream",
-      "url": "https://open.spotify.com/track/2hEtEN8dt6Hj2djG33DT6e"
+      "duration_ms": 140461,
+      "name": "CULE POCO (sirena_besarico_coste\u00f1a)",
+      "url": "https://open.spotify.com/track/3j0avHj4G5EPk6sCCj8NdQ"
     },
     {
       "added_at": "2026-05-01 04:00:10",
@@ -663,22 +727,6 @@
     {
       "added_at": "2026-05-01 04:00:10",
       "album": {
-        "name": "babygirl",
-        "url": "https://open.spotify.com/album/31CPIp0vMvr5UNB0xvnMiL"
-      },
-      "artists": [
-        {
-          "name": "JPEGMAFIA",
-          "url": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
-        }
-      ],
-      "duration_ms": 147491,
-      "name": "babygirl",
-      "url": "https://open.spotify.com/track/5ouETFDqJv0SQMzwKlQLlP"
-    },
-    {
-      "added_at": "2026-05-01 04:00:10",
-      "album": {
         "name": "The Perfect One",
         "url": "https://open.spotify.com/album/0FMOM9uORDUmqqRbGJqw0u"
       },
@@ -715,22 +763,6 @@
     {
       "added_at": "2026-05-01 04:00:10",
       "album": {
-        "name": "SAME DIFFERENCE",
-        "url": "https://open.spotify.com/album/3EUDvHdTIYlB3Hl1WFOIrS"
-      },
-      "artists": [
-        {
-          "name": "Swae Lee",
-          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "THE GOSPEL",
-      "url": "https://open.spotify.com/track/4RF4iHAWjpMgZlYKTUKG3L"
-    },
-    {
-      "added_at": "2026-05-01 04:00:10",
-      "album": {
         "name": "Sensitive to the room",
         "url": "https://open.spotify.com/album/2HD4BmFejncyUP0fhoes6Q"
       },
@@ -747,6 +779,22 @@
     {
       "added_at": "2026-05-01 04:00:10",
       "album": {
+        "name": "SAME DIFFERENCE",
+        "url": "https://open.spotify.com/album/3EUDvHdTIYlB3Hl1WFOIrS"
+      },
+      "artists": [
+        {
+          "name": "Swae Lee",
+          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "THE GOSPEL",
+      "url": "https://open.spotify.com/track/4RF4iHAWjpMgZlYKTUKG3L"
+    },
+    {
+      "added_at": "2026-05-01 04:00:10",
+      "album": {
         "name": "Blue Angel Sparkling Silver 2",
         "url": "https://open.spotify.com/album/6jWka3XgiDpdNIuo04NMor"
       },
@@ -759,6 +807,22 @@
       "duration_ms": 186446,
       "name": "You Say I Love You",
       "url": "https://open.spotify.com/track/2kv2epe0oiyQs8msJXbn9w"
+    },
+    {
+      "added_at": "2026-05-01 04:00:10",
+      "album": {
+        "name": "In All Of My Tomorrows",
+        "url": "https://open.spotify.com/album/52gf1YDvLm2WfjW5URSQkg"
+      },
+      "artists": [
+        {
+          "name": "ORKID",
+          "url": "https://open.spotify.com/artist/2fTfS7krIHHUCF6dRQmbkG"
+        }
+      ],
+      "duration_ms": 209850,
+      "name": "In All Of My Tomorrows",
+      "url": "https://open.spotify.com/track/7j8M0MdmOs2sacS1JAcP2y"
     },
     {
       "added_at": "2026-05-01 04:00:10",
@@ -807,38 +871,6 @@
     {
       "added_at": "2026-05-01 04:00:10",
       "album": {
-        "name": "If You",
-        "url": "https://open.spotify.com/album/2KvJjcipHCM9DsjwEJXblM"
-      },
-      "artists": [
-        {
-          "name": "Ceri Wax",
-          "url": "https://open.spotify.com/artist/6m62Dx1zgJshfmKYQHImew"
-        }
-      ],
-      "duration_ms": 200348,
-      "name": "If You",
-      "url": "https://open.spotify.com/track/2PvVkI3P9Z2on1G1vNn2uB"
-    },
-    {
-      "added_at": "2026-05-01 04:00:10",
-      "album": {
-        "name": "In All Of My Tomorrows",
-        "url": "https://open.spotify.com/album/52gf1YDvLm2WfjW5URSQkg"
-      },
-      "artists": [
-        {
-          "name": "ORKID",
-          "url": "https://open.spotify.com/artist/2fTfS7krIHHUCF6dRQmbkG"
-        }
-      ],
-      "duration_ms": 209850,
-      "name": "In All Of My Tomorrows",
-      "url": "https://open.spotify.com/track/7j8M0MdmOs2sacS1JAcP2y"
-    },
-    {
-      "added_at": "2026-05-01 04:00:10",
-      "album": {
         "name": "No Trick (feat. Trim)",
         "url": "https://open.spotify.com/album/2Ef9wMwtKu70uEH2MUQDec"
       },
@@ -855,6 +887,46 @@
       "duration_ms": 123866,
       "name": "No Trick (feat. Trim)",
       "url": "https://open.spotify.com/track/10675f8RVNLuoz4cp2Jpc2"
+    },
+    {
+      "added_at": "2026-05-01 04:00:10",
+      "album": {
+        "name": "If You",
+        "url": "https://open.spotify.com/album/2KvJjcipHCM9DsjwEJXblM"
+      },
+      "artists": [
+        {
+          "name": "Ceri Wax",
+          "url": "https://open.spotify.com/artist/6m62Dx1zgJshfmKYQHImew"
+        }
+      ],
+      "duration_ms": 200348,
+      "name": "If You",
+      "url": "https://open.spotify.com/track/2PvVkI3P9Z2on1G1vNn2uB"
+    },
+    {
+      "added_at": "2026-05-01 04:00:10",
+      "album": {
+        "name": "Irish Tears",
+        "url": "https://open.spotify.com/album/34NLecq6KxI9VGtQ3UVsxK"
+      },
+      "artists": [
+        {
+          "name": "Thaiboy Digital",
+          "url": "https://open.spotify.com/artist/3cGojc1Yu89IHXx8OeSnee"
+        },
+        {
+          "name": "swedm\u00ae",
+          "url": "https://open.spotify.com/artist/0JoFtJei4JUZYBqN0dk8UK"
+        },
+        {
+          "name": "Bladee",
+          "url": "https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Irish Tears - Radio Edit",
+      "url": "https://open.spotify.com/track/3U1aPqHP4mRwnCy9oW55YL"
     },
     {
       "added_at": "2026-05-01 04:00:10",
@@ -883,30 +955,6 @@
       "duration_ms": 138310,
       "name": "Barney",
       "url": "https://open.spotify.com/track/3Z1MunMxvhyk6l36QiyTop"
-    },
-    {
-      "added_at": "2026-05-01 04:00:10",
-      "album": {
-        "name": "Irish Tears",
-        "url": "https://open.spotify.com/album/34NLecq6KxI9VGtQ3UVsxK"
-      },
-      "artists": [
-        {
-          "name": "Thaiboy Digital",
-          "url": "https://open.spotify.com/artist/3cGojc1Yu89IHXx8OeSnee"
-        },
-        {
-          "name": "swedm\u00ae",
-          "url": "https://open.spotify.com/artist/0JoFtJei4JUZYBqN0dk8UK"
-        },
-        {
-          "name": "Bladee",
-          "url": "https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Irish Tears - Radio Edit",
-      "url": "https://open.spotify.com/track/3U1aPqHP4mRwnCy9oW55YL"
     },
     {
       "added_at": "2026-05-01 04:00:10",
@@ -995,6 +1043,22 @@
     {
       "added_at": "2026-05-01 04:00:10",
       "album": {
+        "name": "sweet talk",
+        "url": "https://open.spotify.com/album/6wjU9WgKaA8auGXzfSaemY"
+      },
+      "artists": [
+        {
+          "name": "nomi.",
+          "url": "https://open.spotify.com/artist/2scpaVg6mZa6OmhTqHRvo4"
+        }
+      ],
+      "duration_ms": 146315,
+      "name": "sweet talk",
+      "url": "https://open.spotify.com/track/5stCKPzR4uSF3Sr5aJS60Y"
+    },
+    {
+      "added_at": "2026-05-01 04:00:10",
+      "album": {
         "name": "SHAKEUP",
         "url": "https://open.spotify.com/album/4lPV3eMg0fcb0cCDkXhaq5"
       },
@@ -1027,22 +1091,6 @@
       "duration_ms": 195428,
       "name": "mind be so numb",
       "url": "https://open.spotify.com/track/3ePwGn599lcCF9Hxpfw7Iw"
-    },
-    {
-      "added_at": "2026-05-01 04:00:10",
-      "album": {
-        "name": "sweet talk",
-        "url": "https://open.spotify.com/album/6wjU9WgKaA8auGXzfSaemY"
-      },
-      "artists": [
-        {
-          "name": "nomi.",
-          "url": "https://open.spotify.com/artist/2scpaVg6mZa6OmhTqHRvo4"
-        }
-      ],
-      "duration_ms": 146315,
-      "name": "sweet talk",
-      "url": "https://open.spotify.com/track/5stCKPzR4uSF3Sr5aJS60Y"
     },
     {
       "added_at": "2026-05-01 04:00:10",
@@ -1167,54 +1215,6 @@
       "duration_ms": 159614,
       "name": "DHS Inc. (feat. ALLBLACK & 22nd Jim)",
       "url": "https://open.spotify.com/track/1HS0SlJ269bUV4HLh47C9L"
-    },
-    {
-      "added_at": "2026-05-01 04:00:10",
-      "album": {
-        "name": "Elktorn / All I Could Think Of",
-        "url": "https://open.spotify.com/album/3BxXWUYHyBQUpEwuXYCaqw"
-      },
-      "artists": [
-        {
-          "name": "Loukeman",
-          "url": "https://open.spotify.com/artist/10JL2s5aUztzFyURrFrxtL"
-        }
-      ],
-      "duration_ms": 158709,
-      "name": "Elktorn",
-      "url": "https://open.spotify.com/track/7eNm3jioKKGq2XF7qiTesW"
-    },
-    {
-      "added_at": "2026-05-01 04:00:10",
-      "album": {
-        "name": "Choo Choo",
-        "url": "https://open.spotify.com/album/1K9FBRQLKXTdbXr7kkzC7t"
-      },
-      "artists": [
-        {
-          "name": "Friko",
-          "url": "https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR"
-        }
-      ],
-      "duration_ms": 200768,
-      "name": "Choo Choo",
-      "url": "https://open.spotify.com/track/2CftoriIV6cBsAcFMzm5Cx"
-    },
-    {
-      "added_at": "2026-05-01 04:00:10",
-      "album": {
-        "name": "Cruel World",
-        "url": "https://open.spotify.com/album/3aV5cU7oLh6RpNpNpHD1wq"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 225985,
-      "name": "White Noise",
-      "url": "https://open.spotify.com/track/1jZ5HUwdrcYbDjwYmw9ccP"
     }
   ],
   "unique_name": "Editors' Picks: Best Songs of April",

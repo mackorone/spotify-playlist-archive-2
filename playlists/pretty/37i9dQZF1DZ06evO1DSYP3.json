@@ -1,12 +1,12 @@
 {
   "description": "This is P-Lo. The essential tracks, all in one playlist.",
-  "num_followers": 5742,
+  "num_followers": 5743,
   "original_name": "This Is P-Lo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afU+gAAAAAD+ef1r2hXlLsNFtwpMhb+i",
+  "snapshot_id": "afaQAAAAAAD8QI8+jey2taND5sSF7Wq6",
   "tracks": [
     {
       "added_at": null,
@@ -535,6 +535,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Feel Me?",
+        "url": "https://open.spotify.com/album/319EhuTWQQRHTQqSutFXsl"
+      },
+      "artists": [
+        {
+          "name": "Miles Minnick",
+          "url": "https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        },
+        {
+          "name": "DaBoii",
+          "url": "https://open.spotify.com/artist/1R4jDezcLcFxrJ9PHNrbG0"
+        }
+      ],
+      "duration_ms": 139427,
+      "name": "Feel Me?",
+      "url": "https://open.spotify.com/track/5LGJYig5XDRbS0f5pXGmmH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "What We On (feat. E-40)",
         "url": "https://open.spotify.com/album/6NCCYWOcEUB5jCMzBtgiql"
       },
@@ -559,30 +583,6 @@
       "duration_ms": 173000,
       "name": "What We On (feat. E-40)",
       "url": "https://open.spotify.com/track/0TLAn4Hzf9fTtprPfDgjY4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Feel Me?",
-        "url": "https://open.spotify.com/album/319EhuTWQQRHTQqSutFXsl"
-      },
-      "artists": [
-        {
-          "name": "Miles Minnick",
-          "url": "https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        },
-        {
-          "name": "DaBoii",
-          "url": "https://open.spotify.com/artist/1R4jDezcLcFxrJ9PHNrbG0"
-        }
-      ],
-      "duration_ms": 139427,
-      "name": "Feel Me?",
-      "url": "https://open.spotify.com/track/5LGJYig5XDRbS0f5pXGmmH"
     },
     {
       "added_at": null,
@@ -755,22 +755,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Out The Box (feat. Bosko)",
-        "url": "https://open.spotify.com/album/3tJqpSeV4fXw2wZS1Yc28S"
+        "name": "Going To Work - Single",
+        "url": "https://open.spotify.com/album/0CTn4BqFFTsfDuWrPguexd"
       },
       "artists": [
         {
           "name": "P-Lo",
           "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        },
-        {
-          "name": "Bosko",
-          "url": "https://open.spotify.com/artist/16PgF1vgup7ohBZnteQGvx"
         }
       ],
-      "duration_ms": 162804,
-      "name": "Out The Box (feat. Bosko)",
-      "url": "https://open.spotify.com/track/2E8AxnMhRi71GN6eLS2HEq"
+      "duration_ms": 197187,
+      "name": "Going To Work",
+      "url": "https://open.spotify.com/track/1iri2k9wVGJl2UQuHlNxrM"
     },
     {
       "added_at": null,
@@ -795,18 +791,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Going To Work - Single",
-        "url": "https://open.spotify.com/album/0CTn4BqFFTsfDuWrPguexd"
+        "name": "Out The Box (feat. Bosko)",
+        "url": "https://open.spotify.com/album/3tJqpSeV4fXw2wZS1Yc28S"
       },
       "artists": [
         {
           "name": "P-Lo",
           "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        },
+        {
+          "name": "Bosko",
+          "url": "https://open.spotify.com/artist/16PgF1vgup7ohBZnteQGvx"
         }
       ],
-      "duration_ms": 197187,
-      "name": "Going To Work",
-      "url": "https://open.spotify.com/track/1iri2k9wVGJl2UQuHlNxrM"
+      "duration_ms": 162804,
+      "name": "Out The Box (feat. Bosko)",
+      "url": "https://open.spotify.com/track/2E8AxnMhRi71GN6eLS2HEq"
     },
     {
       "added_at": null,
@@ -1007,6 +1007,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "You Should Know",
+        "url": "https://open.spotify.com/album/3L5OWAmBC0sIaTcLf35vrr"
+      },
+      "artists": [
+        {
+          "name": "Will Hill ",
+          "url": "https://open.spotify.com/artist/1VHBVh64cAfUWRpWT3pVJh"
+        },
+        {
+          "name": "Hollywood Cole",
+          "url": "https://open.spotify.com/artist/60rgnKzRvebLmv6lWS0rTT"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "Mack",
+      "url": "https://open.spotify.com/track/1lv6YHO3cxqQ8o2tG9xTAK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Make a Move",
         "url": "https://open.spotify.com/album/49BAsVfGKE1OUwWkPmGWhX"
       },
@@ -1023,26 +1047,6 @@
       "duration_ms": 144060,
       "name": "Make a Move",
       "url": "https://open.spotify.com/track/4hCQuHqA48AFbT99bP87Dx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kaseya",
-        "url": "https://open.spotify.com/album/4OdeR2lheGeHaYOR8Mvnwn"
-      },
-      "artists": [
-        {
-          "name": "Yeek",
-          "url": "https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 143551,
-      "name": "Kaseya",
-      "url": "https://open.spotify.com/track/5ZZDpzdRyNC4fPdLXNwqfR"
     },
     {
       "added_at": null,
@@ -1067,26 +1071,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Should Know",
-        "url": "https://open.spotify.com/album/3L5OWAmBC0sIaTcLf35vrr"
+        "name": "Kaseya",
+        "url": "https://open.spotify.com/album/4OdeR2lheGeHaYOR8Mvnwn"
       },
       "artists": [
         {
-          "name": "Will Hill ",
-          "url": "https://open.spotify.com/artist/1VHBVh64cAfUWRpWT3pVJh"
-        },
-        {
-          "name": "Hollywood Cole",
-          "url": "https://open.spotify.com/artist/60rgnKzRvebLmv6lWS0rTT"
+          "name": "Yeek",
+          "url": "https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM"
         },
         {
           "name": "P-Lo",
           "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
         }
       ],
-      "duration_ms": 177000,
-      "name": "Mack",
-      "url": "https://open.spotify.com/track/1lv6YHO3cxqQ8o2tG9xTAK"
+      "duration_ms": 143551,
+      "name": "Kaseya",
+      "url": "https://open.spotify.com/track/5ZZDpzdRyNC4fPdLXNwqfR"
     }
   ],
   "unique_name": "This Is P-Lo",

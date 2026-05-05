@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJz1gREcIti0.md) - [plain]
 | 51 | [Questions For The Universe](https://open.spotify.com/track/7kle3wveNJelYdI1khvHDb) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/777K2ytcKbDsX0AZ2y8CBS) | 3:23 |
 | 52 | [Change My Mind](https://open.spotify.com/track/1ClklkdqMsWNvC0YdjNb1X) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [Moongate](https://open.spotify.com/album/0teV5HNso0WGi7EwyASosR) | 2:54 |
 | 53 | [My Whole Life](https://open.spotify.com/track/4lKgbYUNuv7feL3FP1rFvB) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [It Was Divine](https://open.spotify.com/album/6aZ4ZtDzQNNIOFeHUj51No) | 2:42 |
-| 54 | [Mandy](https://open.spotify.com/track/13cdHbMDnKqwKXMt37gyB2) | [Scribz Riley](https://open.spotify.com/artist/6UJ1HBEJnAZ1aVPlJZPf61) | [Wish Me Luck](https://open.spotify.com/album/57UGysEyFzO6F6PQLYKRjt) | 3:05 |
-| 55 | [How I Get](https://open.spotify.com/track/3rxGjJQOourXRZ6DFXQaHy) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time: The Final Hour](https://open.spotify.com/album/7cbnBLsnivg6Of3MDkFPcW) | 3:39 |
+| 54 | [How I Get](https://open.spotify.com/track/3rxGjJQOourXRZ6DFXQaHy) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time: The Final Hour](https://open.spotify.com/album/7cbnBLsnivg6Of3MDkFPcW) | 3:39 |
+| 55 | [Mandy](https://open.spotify.com/track/13cdHbMDnKqwKXMt37gyB2) | [Scribz Riley](https://open.spotify.com/artist/6UJ1HBEJnAZ1aVPlJZPf61) | [Wish Me Luck](https://open.spotify.com/album/57UGysEyFzO6F6PQLYKRjt) | 3:05 |
 | 56 | [Grade A \(feat\. JAWNY\)](https://open.spotify.com/track/6ek40cFUiRjxA2KrOHNfi3) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r), [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [Grade A \(feat\. JAWNY\)](https://open.spotify.com/album/55yLoYwGsnb7tCg10LmKIJ) | 1:46 |
 | 57 | [Between Us](https://open.spotify.com/track/5Jqp5YuySyuTOTfFBLkY6K) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [Sunbeam](https://open.spotify.com/album/5BRZHdsYHxgipEIy5Am2Ig) | 3:08 |
 | 58 | [Cry about it! \(feat\. Ravyn Lenae\)](https://open.spotify.com/track/2qMymtxoafC1JRtiiXUVFN) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Sincerely: P.S.](https://open.spotify.com/album/0lnZiBZPbGiBuNrMy25Yux) | 2:51 |
@@ -156,4 +156,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJz1gREcIti0.md) - [plain]
 | 146 | [Free Fall \- Edit](https://open.spotify.com/track/5rQtSoeRRO4y3d54z1Kd1f) | [Beckah Amani](https://open.spotify.com/artist/6AlUh97NNEBLo3OqYORyIi) | [Free Fall](https://open.spotify.com/album/4df4LmPcayUQczAkV63sn4) | 3:01 |
 | 147 | [Mockingbird](https://open.spotify.com/track/1AlxrPQuJNXOl3wQOXyv68) | [Paul Dally](https://open.spotify.com/artist/6OQd6IInCegvnBJ3eWeokE) | [Rave](https://open.spotify.com/album/4ETd0GtmlvoPnD8woGy2sX) | 3:28 |
 
-Snapshot ID: `AcQiXgAAAABs6oucwBn8giYcT7eyFn7h`
+Snapshot ID: `AcQoMAAAAAARxNdXqFm47jRw/ea9mMOX`

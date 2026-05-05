@@ -4,7 +4,7 @@
 
 > The best of folk\-infused pop and singer\-songwriter\. Cover: Late Night Thoughts
 
-582 songs - 1 day 8 hr 59 min
+583 songs - 1 day 9 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -265,6 +265,7 @@
 | [I Hate That Part](https://open.spotify.com/track/2vKUa0RyA8xIzFteB7mikF) | [Caroline Glaser](https://open.spotify.com/artist/4qiAhwxeFLSbkNq6tFEWpJ) | [Caroline Glaser](https://open.spotify.com/album/4zd3piahMJULe7zBWeZcxJ) | 3:54 | 2021-11-12 | 2022-03-01 |
 | [I Keep Ticking On](https://open.spotify.com/track/1Etp6DlUsn2P5im8f7J9HP) | [The Harmaleighs](https://open.spotify.com/artist/0JpiOyzO3e8FYCsDe8EaUN) | [Pretty Picture, Dirty Brush](https://open.spotify.com/album/6gRMw9HleQT2CGc7gIPPdj) | 2:36 | 2022-03-12 | 2024-03-23 |
 | [I Keep Ticking On](https://open.spotify.com/track/7BgN5iMlbla6J4LpEDrFMn) | [The Harmaleighs](https://open.spotify.com/artist/0JpiOyzO3e8FYCsDe8EaUN) | [Pretty Picture, Dirty Brush](https://open.spotify.com/album/3xFx5kmywwhfFtTlbX5u2U) | 2:36 | 2022-03-12 | 2022-04-25 |
+| [I Know I Know](https://open.spotify.com/track/1Ot6QuJzCY66UdLK1ci3sc) | [STELLA LEFTY](https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2) | [I Know I Know](https://open.spotify.com/album/6vt7I2vcCWzmo8ExiTahAA) | 2:39 | 2026-05-04 |  |
 | [I Know the Way Home](https://open.spotify.com/track/2TkbdIwr5UmOMqUcQmD5sE) | [Andrew Galucki](https://open.spotify.com/artist/0Z00sSHBoJ9wsqTY5hT3mP) | [I Know the Way Home](https://open.spotify.com/album/7uoGfhhJZZgeEGL22VfipY) | 3:21 | 2021-11-12 | 2022-07-29 |
 | [I Know the Way Home](https://open.spotify.com/track/4uTnmU2jXpoI87haPWMqTi) | [Andrew Galucki](https://open.spotify.com/artist/0Z00sSHBoJ9wsqTY5hT3mP) | [I Know the Way Home](https://open.spotify.com/album/3xyzbwzDORDLA6QgQRASvj) | 3:21 | 2022-03-12 | 2022-10-11 |
 | [I Know the Way Home](https://open.spotify.com/track/7mZedsGVcUJOl6hSy17ykh) | [Andrew Galucki](https://open.spotify.com/artist/0Z00sSHBoJ9wsqTY5hT3mP) | [I Know the Way Home](https://open.spotify.com/album/028PxoVXaGF8zlD3wxfraR) | 3:21 | 2022-10-14 | 2023-09-30 |
@@ -577,7 +578,7 @@
 | [Wonderland](https://open.spotify.com/track/69OY9Ujexp9qK4MHtD6Tzr) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Wonderland](https://open.spotify.com/album/770No61AWG74gR1xQaRYzL) | 3:32 | 2023-03-17 | 2023-07-08 |
 | [Worry No More](https://open.spotify.com/track/6Sf1IjXhbfTIYOHhaj5DG0) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Worry No More](https://open.spotify.com/album/3TS9LGoHqv0vyvIy2Lg6aL) | 3:41 | 2021-11-12 | 2024-02-20 |
 | [Worth the Walk](https://open.spotify.com/track/0b6sdOUZ6DMiE8rhTpGuzK) | [Vincent Lima](https://open.spotify.com/artist/7AB7bdCR5saJ0b9C4RuceX) | [To Love A Thing That Fades](https://open.spotify.com/album/1mBprt4SXV2ih1O6HVRbUK) | 3:20 | 2025-09-19 |  |
-| [Yellow Brick Road](https://open.spotify.com/track/3pEOD1EmWMAPRDmBxg299G) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Yellow Brick Road](https://open.spotify.com/album/23AaCgxiZqSapLnnIvmW3K) | 2:32 | 2025-06-06 |  |
+| [Yellow Brick Road](https://open.spotify.com/track/3pEOD1EmWMAPRDmBxg299G) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Yellow Brick Road](https://open.spotify.com/album/23AaCgxiZqSapLnnIvmW3K) | 2:32 | 2025-06-06 | 2026-05-05 |
 | [Yellow Paper Daisy](https://open.spotify.com/track/5aQe0faFOjeskrHwpleXLJ) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [Yellow Paper Daisy](https://open.spotify.com/album/13ATYLc7i4HuNbQrAEawOH) | 3:19 | 2022-03-12 | 2024-01-19 |
 | [You Again](https://open.spotify.com/track/1Ki5PqMFMTKQfjB1uet9pG) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [You Again](https://open.spotify.com/album/2Chkb8Apocqiq73DnOC56m) | 3:14 | 2025-07-25 |  |
 | [You and Me On The Rock \(feat\. Lucius\)](https://open.spotify.com/track/61X73CJcpwGIxgQgKEXbw0) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [In These Silent Days](https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f) | 3:50 | 2021-11-12 | 2024-03-30 |

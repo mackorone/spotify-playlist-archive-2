@@ -1,6 +1,6 @@
 {
   "description": "Mujeres que escriben la historia del Tango. Foto: Julieta Laso.",
-  "num_followers": 22198,
+  "num_followers": 22202,
   "original_name": "Mujeres del Tango",
   "owner": {
     "name": "Spotify",
@@ -267,18 +267,22 @@
     {
       "added_at": "2024-08-02 17:18:29",
       "album": {
-        "name": "Tesoros De Coleccion - Libertad Lamarque",
-        "url": "https://open.spotify.com/album/5MOU8QeUpJ7vCBfVi5sM1p"
+        "name": "Serie De Oro",
+        "url": "https://open.spotify.com/album/7Id8NVwwWDmiRjPEoRDObj"
       },
       "artists": [
         {
-          "name": "Libertad Lamarque",
-          "url": "https://open.spotify.com/artist/4obTALkglm8PARkVVik9KZ"
+          "name": "Tita Merello",
+          "url": "https://open.spotify.com/artist/7r4Bb7uhP2AhJ4qlRp2vgP"
+        },
+        {
+          "name": "Francisco Canaro Y Su Orquesta Tipica",
+          "url": "https://open.spotify.com/artist/66vYcFTYX0PoYsOOURFaGf"
         }
       ],
-      "duration_ms": 178706,
-      "name": "Tango Negro",
-      "url": "https://open.spotify.com/track/4uW2GXaccUXFxCcBzLaxtE"
+      "duration_ms": 113213,
+      "name": "Pipistrela",
+      "url": "https://open.spotify.com/track/6MZlsIdezdAiBwrZrxweNd"
     },
     {
       "added_at": "2024-08-02 17:18:29",
@@ -371,38 +375,18 @@
     {
       "added_at": "2024-08-02 17:18:29",
       "album": {
-        "name": "Serie De Oro",
-        "url": "https://open.spotify.com/album/7Id8NVwwWDmiRjPEoRDObj"
+        "name": "Tesoros De Coleccion - Libertad Lamarque",
+        "url": "https://open.spotify.com/album/5MOU8QeUpJ7vCBfVi5sM1p"
       },
       "artists": [
         {
-          "name": "Tita Merello",
-          "url": "https://open.spotify.com/artist/7r4Bb7uhP2AhJ4qlRp2vgP"
-        },
-        {
-          "name": "Francisco Canaro Y Su Orquesta Tipica",
-          "url": "https://open.spotify.com/artist/66vYcFTYX0PoYsOOURFaGf"
+          "name": "Libertad Lamarque",
+          "url": "https://open.spotify.com/artist/4obTALkglm8PARkVVik9KZ"
         }
       ],
-      "duration_ms": 113213,
-      "name": "Pipistrela",
-      "url": "https://open.spotify.com/track/6MZlsIdezdAiBwrZrxweNd"
-    },
-    {
-      "added_at": "2024-08-02 17:18:29",
-      "album": {
-        "name": "Toda Mi Vida",
-        "url": "https://open.spotify.com/album/17AJEwOMBmI6xhykdOBCI7"
-      },
-      "artists": [
-        {
-          "name": "Adriana Varela",
-          "url": "https://open.spotify.com/artist/5diAzb0BD6mSdU1xOhM7dc"
-        }
-      ],
-      "duration_ms": 248613,
-      "name": "Garganta Con Arena",
-      "url": "https://open.spotify.com/track/6BjIumHEDyRxgocfAfwsXL"
+      "duration_ms": 178706,
+      "name": "Tango Negro",
+      "url": "https://open.spotify.com/track/4uW2GXaccUXFxCcBzLaxtE"
     },
     {
       "added_at": "2024-08-02 17:18:29",
@@ -423,18 +407,18 @@
     {
       "added_at": "2024-08-02 17:18:29",
       "album": {
-        "name": "Tangos Inmortales de Libertad Lamarque (Remastered)",
-        "url": "https://open.spotify.com/album/5iq55ODBLnuVtHr0SX5AJR"
+        "name": "Toda Mi Vida",
+        "url": "https://open.spotify.com/album/17AJEwOMBmI6xhykdOBCI7"
       },
       "artists": [
         {
-          "name": "Libertad Lamarque",
-          "url": "https://open.spotify.com/artist/4obTALkglm8PARkVVik9KZ"
+          "name": "Adriana Varela",
+          "url": "https://open.spotify.com/artist/5diAzb0BD6mSdU1xOhM7dc"
         }
       ],
-      "duration_ms": 156155,
-      "name": "El d\u00eda que me quieras - Remastered",
-      "url": "https://open.spotify.com/track/02TbTxbu4H9heTFaXe3iVQ"
+      "duration_ms": 248613,
+      "name": "Garganta Con Arena",
+      "url": "https://open.spotify.com/track/6BjIumHEDyRxgocfAfwsXL"
     },
     {
       "added_at": "2024-08-02 17:18:29",
@@ -467,6 +451,22 @@
       "duration_ms": 242826,
       "name": "En Ese Ayer/Ventarr\u00f3n",
       "url": "https://open.spotify.com/track/6yzikW529P1w3mwxAoMC3H"
+    },
+    {
+      "added_at": "2024-08-02 17:18:29",
+      "album": {
+        "name": "Tangos Inmortales de Libertad Lamarque (Remastered)",
+        "url": "https://open.spotify.com/album/5iq55ODBLnuVtHr0SX5AJR"
+      },
+      "artists": [
+        {
+          "name": "Libertad Lamarque",
+          "url": "https://open.spotify.com/artist/4obTALkglm8PARkVVik9KZ"
+        }
+      ],
+      "duration_ms": 156155,
+      "name": "El d\u00eda que me quieras - Remastered",
+      "url": "https://open.spotify.com/track/02TbTxbu4H9heTFaXe3iVQ"
     },
     {
       "added_at": "2024-08-02 17:18:29",
@@ -887,6 +887,22 @@
     {
       "added_at": "2024-08-02 17:18:29",
       "album": {
+        "name": "Mujeres del Tango",
+        "url": "https://open.spotify.com/album/0piBCUMD8KTGPzDZJKi8ut"
+      },
+      "artists": [
+        {
+          "name": "Liliana Dominguez",
+          "url": "https://open.spotify.com/artist/4EnoBd9xImGMu78bSO2OSo"
+        }
+      ],
+      "duration_ms": 133000,
+      "name": "Malena",
+      "url": "https://open.spotify.com/track/1U0UYJWWUzmrJ0mhj9wwRw"
+    },
+    {
+      "added_at": "2024-08-02 17:18:29",
+      "album": {
         "name": "Plebeyas (Ellas, Yo y Superellas)",
         "url": "https://open.spotify.com/album/3PxWFYnFej0Uhb1DKCvkUI"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 132540,
       "name": "India de Tango",
       "url": "https://open.spotify.com/track/6Gw79GdafladbPqbXPW2A9"
-    },
-    {
-      "added_at": "2024-08-02 17:18:29",
-      "album": {
-        "name": "Mujeres del Tango",
-        "url": "https://open.spotify.com/album/0piBCUMD8KTGPzDZJKi8ut"
-      },
-      "artists": [
-        {
-          "name": "Liliana Dominguez",
-          "url": "https://open.spotify.com/artist/4EnoBd9xImGMu78bSO2OSo"
-        }
-      ],
-      "duration_ms": 133000,
-      "name": "Malena",
-      "url": "https://open.spotify.com/track/1U0UYJWWUzmrJ0mhj9wwRw"
     },
     {
       "added_at": "2024-08-02 17:18:29",
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-08-02 17:18:29",
       "album": {
-        "name": "Mujeres del Tango",
-        "url": "https://open.spotify.com/album/0piBCUMD8KTGPzDZJKi8ut"
-      },
-      "artists": [
-        {
-          "name": "Las Del Abasto",
-          "url": "https://open.spotify.com/artist/2f7l4mZd4Fnc1yW6OHsEQE"
-        }
-      ],
-      "duration_ms": 171533,
-      "name": "Quejas de Bandone\u00f3n",
-      "url": "https://open.spotify.com/track/2kCx1Q1N6Xj7yqA2P1GvaQ"
-    },
-    {
-      "added_at": "2024-08-02 17:18:29",
-      "album": {
         "name": "Mi Buenos Aires Querido",
         "url": "https://open.spotify.com/album/5ToOxGt228WpFbX6TOyY3n"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 223255,
       "name": "Mi Buenos Aires Querido",
       "url": "https://open.spotify.com/track/7I81caW5uhQUdQUDHLDMj1"
+    },
+    {
+      "added_at": "2024-08-02 17:18:29",
+      "album": {
+        "name": "Mujeres del Tango",
+        "url": "https://open.spotify.com/album/0piBCUMD8KTGPzDZJKi8ut"
+      },
+      "artists": [
+        {
+          "name": "Las Del Abasto",
+          "url": "https://open.spotify.com/artist/2f7l4mZd4Fnc1yW6OHsEQE"
+        }
+      ],
+      "duration_ms": 171533,
+      "name": "Quejas de Bandone\u00f3n",
+      "url": "https://open.spotify.com/track/2kCx1Q1N6Xj7yqA2P1GvaQ"
     },
     {
       "added_at": "2024-08-02 17:18:29",

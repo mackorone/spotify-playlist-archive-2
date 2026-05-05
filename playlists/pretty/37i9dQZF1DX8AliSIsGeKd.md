@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Notre Dame
 
-[Spotify](https://open.spotify.com/user/spotify) - 746,366 likes - 89 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 746,437 likes - 89 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 31 | [Intermezzo](https://open.spotify.com/track/3QHgXz4CMg9aFW041ij9Oc) | [D\-Formation](https://open.spotify.com/artist/5wt6ykFuNy0WtBpYVaG7OY), [Alex Medina](https://open.spotify.com/artist/110rQdN8A00wYaqmUWi0q2), [YES TO ALL](https://open.spotify.com/artist/40lMWHuG3a2SlrdeAYEhOf) | [Opus](https://open.spotify.com/album/4y0CM5jQNic5EmF1BPbF31) | 3:24 |
 | 32 | [Song for the Quiet Ones](https://open.spotify.com/track/161IZzbP1HNQXLY5tunGkI) | [Klangphonics](https://open.spotify.com/artist/0UoXOPQo2BAZ3pSfkt5XZA), [Anna Metko](https://open.spotify.com/artist/5tRkZWpev6swx7Nl5cRe2r) | [Song for the Quiet Ones](https://open.spotify.com/album/3I1BdEN1OeXfjUTMnxjx9T) | 3:55 |
 | 33 | [Dancing Reflections \- Edit](https://open.spotify.com/track/4jiB56CgX7Qy6V1DKLrZ1r) | [Hurlee](https://open.spotify.com/artist/7cJptXBja9xYQWV6wz90b7) | [Dancing Reflections](https://open.spotify.com/album/4uze9LVZnInEFKdKKYu9Mr) | 3:00 |
-| 34 | [On Display](https://open.spotify.com/track/7Hnw2OSKBahLItogMXSeMZ) | [Nuran](https://open.spotify.com/artist/5oYcT2rO56Rff3AExXCzYC), [Differ](https://open.spotify.com/artist/0ivmXXhkqLJtg0LZxRCEO7) | [On Display](https://open.spotify.com/album/1dFPbKxgBfrxHckmUZRQpw) | 3:11 |
+| 34 | [On Display](https://open.spotify.com/track/7Hnw2OSKBahLItogMXSeMZ) | [Differ](https://open.spotify.com/artist/0ivmXXhkqLJtg0LZxRCEO7), [NURAN](https://open.spotify.com/artist/0GwaDQL8h37L435sHBrKXZ) | [On Display](https://open.spotify.com/album/1dFPbKxgBfrxHckmUZRQpw) | 3:11 |
 | 35 | [Dune](https://open.spotify.com/track/5lEqYYe8ORuSTfSzARD3Sq) | [Solee](https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C) | [States of Trance](https://open.spotify.com/album/0zNZ6RSzraUvkKnM1jIBTS) | 5:08 |
 | 36 | [Boston Strangler](https://open.spotify.com/track/5Ebb9ikwYB4pPisQtjowxb) | [Moonbootica](https://open.spotify.com/artist/1YkHCcMgZ6fTQMeEQyYKTf) | [Boston Strangler](https://open.spotify.com/album/42qwqKOu3Ka0db3z1FBfxO) | 3:49 |
 | 37 | [Keep Moving](https://open.spotify.com/track/3etpVoJvsNwq0YaVaNf34v) | [Knorst](https://open.spotify.com/artist/72VmJeabwbXWiHrJzZ5Htg) | [Keep Moving EP](https://open.spotify.com/album/4JDSHZOWevdQkSOdJWaKab) | 3:48 |

@@ -1,6 +1,6 @@
 {
   "description": "\u7dba\u9e97\u4e8b\u306f\u805e\u304d\u305f\u304f\u306a\u3044\u3002\u672c\u97f3\u3067\u3064\u3065\u3089\u308c\u305f\u5504\u3002Illustration by <a href=\"https://twitter.com/hoshieri7\">\u5317\u6751\u82f1\u7406</a>(Eri Kitamura)",
-  "num_followers": 22552,
+  "num_followers": 22550,
   "original_name": "\u305b\u304d\u3089\u3089",
   "owner": {
     "name": "Spotify",
@@ -599,22 +599,6 @@
     {
       "added_at": "2026-02-03 15:00:13",
       "album": {
-        "name": "Like a Flower",
-        "url": "https://open.spotify.com/album/5QzFZu9OghWzEE9iSlPUl4"
-      },
-      "artists": [
-        {
-          "name": "LANA",
-          "url": "https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT"
-        }
-      ],
-      "duration_ms": 151793,
-      "name": "Like a Flower",
-      "url": "https://open.spotify.com/track/3SS77BL8QoIWyoK0u7pDGQ"
-    },
-    {
-      "added_at": "2026-02-03 15:00:13",
-      "album": {
         "name": "\u6b4c\u306b\u3057\u3066\u3057\u307e\u3048\u3070\u3001\u3069\u3093\u306a\u3053\u3068\u3067\u3082\u8a31\u3055\u308c\u308b\u3068\u601d\u3063\u3066\u3044\u305f",
         "url": "https://open.spotify.com/album/6PuiGsnDm2d8zKPkK9Iq1e"
       },
@@ -631,18 +615,18 @@
     {
       "added_at": "2026-02-03 15:00:13",
       "album": {
-        "name": "\u3082\u3046\u4e00\u5ea6",
-        "url": "https://open.spotify.com/album/1DceuvwdLYSdS4V50pg2ey"
+        "name": "Like a Flower",
+        "url": "https://open.spotify.com/album/5QzFZu9OghWzEE9iSlPUl4"
       },
       "artists": [
         {
-          "name": "Tani Yuuki",
-          "url": "https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX"
+          "name": "LANA",
+          "url": "https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT"
         }
       ],
-      "duration_ms": 250766,
-      "name": "\u3082\u3046\u4e00\u5ea6",
-      "url": "https://open.spotify.com/track/1RChlirFdgtS1ZPH45dJX0"
+      "duration_ms": 151793,
+      "name": "Like a Flower",
+      "url": "https://open.spotify.com/track/3SS77BL8QoIWyoK0u7pDGQ"
     },
     {
       "added_at": "2026-02-03 15:00:13",
@@ -659,6 +643,22 @@
       "duration_ms": 237739,
       "name": "\u30e9\u30f3\u30c7\u30f4\u30fc",
       "url": "https://open.spotify.com/track/7gSiIKxphi5BGr7SDrSKod"
+    },
+    {
+      "added_at": "2026-02-03 15:00:13",
+      "album": {
+        "name": "\u3082\u3046\u4e00\u5ea6",
+        "url": "https://open.spotify.com/album/1DceuvwdLYSdS4V50pg2ey"
+      },
+      "artists": [
+        {
+          "name": "Tani Yuuki",
+          "url": "https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX"
+        }
+      ],
+      "duration_ms": 250766,
+      "name": "\u3082\u3046\u4e00\u5ea6",
+      "url": "https://open.spotify.com/track/1RChlirFdgtS1ZPH45dJX0"
     },
     {
       "added_at": "2026-02-03 15:00:13",
@@ -695,22 +695,6 @@
     {
       "added_at": "2026-02-03 15:00:13",
       "album": {
-        "name": "\u9a19\u30b7\u611b - Damashiai",
-        "url": "https://open.spotify.com/album/470z0sAlM5eAVSyLNdUvPZ"
-      },
-      "artists": [
-        {
-          "name": "tuki.",
-          "url": "https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o"
-        }
-      ],
-      "duration_ms": 236066,
-      "name": "\u9a19\u30b7\u611b - Damashiai",
-      "url": "https://open.spotify.com/track/48N9nuZilWYtqAKqxVPtAR"
-    },
-    {
-      "added_at": "2026-02-03 15:00:13",
-      "album": {
         "name": "\u30af\u30ed\u30ce\u30b9\u30bf\u30b7\u30b9",
         "url": "https://open.spotify.com/album/4upctURy2F1F2rVfltc2P6"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 339870,
       "name": "\u30af\u30ed\u30ce\u30b9\u30bf\u30b7\u30b9",
       "url": "https://open.spotify.com/track/6Pd73yNBtoVpTRM6xLwOGp"
+    },
+    {
+      "added_at": "2026-02-03 15:00:13",
+      "album": {
+        "name": "\u9a19\u30b7\u611b - Damashiai",
+        "url": "https://open.spotify.com/album/470z0sAlM5eAVSyLNdUvPZ"
+      },
+      "artists": [
+        {
+          "name": "tuki.",
+          "url": "https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o"
+        }
+      ],
+      "duration_ms": 236066,
+      "name": "\u9a19\u30b7\u611b - Damashiai",
+      "url": "https://open.spotify.com/track/48N9nuZilWYtqAKqxVPtAR"
     },
     {
       "added_at": "2026-02-03 15:00:13",
@@ -807,26 +807,18 @@
     {
       "added_at": "2026-02-03 15:00:13",
       "album": {
-        "name": "ENDROLL",
-        "url": "https://open.spotify.com/album/0VxAQil0vOXx4Iq5u5KAXy"
+        "name": "\u30d9\u30eb\u30d9\u30c3\u30c8\u306e\u8a69",
+        "url": "https://open.spotify.com/album/0qmE5lDI6Z8enOel9hzkS8"
       },
       "artists": [
         {
-          "name": "Yoohei Kawakami",
-          "url": "https://open.spotify.com/artist/1KSlyFkLhfmrzCa6d8PKB5"
-        },
-        {
-          "name": "SennaRin",
-          "url": "https://open.spotify.com/artist/05Thl0cxDfoKilfQ5Hwo7D"
-        },
-        {
-          "name": "Sawano Hiroyuki",
-          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
+          "name": "back number",
+          "url": "https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g"
         }
       ],
-      "duration_ms": 182772,
-      "name": "ENDROLL",
-      "url": "https://open.spotify.com/track/0zqQccMOU98P0gPDhqgnGg"
+      "duration_ms": 254160,
+      "name": "\u30d9\u30eb\u30d9\u30c3\u30c8\u306e\u8a69",
+      "url": "https://open.spotify.com/track/2N4lCwOeFRX7qrbMPRcZ7d"
     }
   ],
   "unique_name": "\u305b\u304d\u3089\u3089",

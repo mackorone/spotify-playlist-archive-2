@@ -1,6 +1,6 @@
 {
   "description": "The best Canadian songs of the month, handpicked by Spotify Canada editors. Cover: Angine de Poitrine",
-  "num_followers": 1420,
+  "num_followers": 1440,
   "original_name": "Editors' Picks: Best Canadian Songs of April",
   "owner": {
     "name": "Spotify",
@@ -27,18 +27,22 @@
     {
       "added_at": "2026-05-01 04:04:33",
       "album": {
-        "name": "Give 'Er Hell",
-        "url": "https://open.spotify.com/album/0p1xtZSyS5Ke7kezDsSFZj"
+        "name": "Bottles & Lights",
+        "url": "https://open.spotify.com/album/5Wvm7Co0vhdyPk5Ac0uZk6"
       },
       "artists": [
         {
-          "name": "Josh Ross",
-          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
+          "name": "Chxrry",
+          "url": "https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ"
+        },
+        {
+          "name": "Mariah the Scientist",
+          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
         }
       ],
-      "duration_ms": 201468,
-      "name": "Give 'Er Hell",
-      "url": "https://open.spotify.com/track/0kopcRj073aQTVbQVeHWm3"
+      "duration_ms": 205714,
+      "name": "Bottles & Lights",
+      "url": "https://open.spotify.com/track/1it6w7qVrXo10od5OMjn7H"
     },
     {
       "added_at": "2026-05-01 04:04:33",
@@ -55,6 +59,42 @@
       "duration_ms": 275599,
       "name": "Sarniezz",
       "url": "https://open.spotify.com/track/6iDKiCR13L8Ba6bkK6cqqt"
+    },
+    {
+      "added_at": "2026-05-01 04:04:33",
+      "album": {
+        "name": "Give 'Er Hell",
+        "url": "https://open.spotify.com/album/0p1xtZSyS5Ke7kezDsSFZj"
+      },
+      "artists": [
+        {
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
+        }
+      ],
+      "duration_ms": 201468,
+      "name": "Give 'Er Hell",
+      "url": "https://open.spotify.com/track/0kopcRj073aQTVbQVeHWm3"
+    },
+    {
+      "added_at": "2026-05-01 04:04:33",
+      "album": {
+        "name": "Bother Me (feat. Victony)",
+        "url": "https://open.spotify.com/album/7svkXljH25hpPavMawyyb2"
+      },
+      "artists": [
+        {
+          "name": "Os\u00e9",
+          "url": "https://open.spotify.com/artist/31iLIUM0MeqrkbswnUpUaj"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 180959,
+      "name": "Bother Me (feat. Victony)",
+      "url": "https://open.spotify.com/track/2JpcOAR1EGQSxFOVnYCMl0"
     },
     {
       "added_at": "2026-05-01 04:04:33",
@@ -83,42 +123,18 @@
     {
       "added_at": "2026-05-01 04:04:33",
       "album": {
-        "name": "Bother Me (feat. Victony)",
-        "url": "https://open.spotify.com/album/7svkXljH25hpPavMawyyb2"
+        "name": "I'll Let You Finish",
+        "url": "https://open.spotify.com/album/7HOR1xOpbfjfOinjMqKv2L"
       },
       "artists": [
         {
-          "name": "Os\u00e9",
-          "url": "https://open.spotify.com/artist/31iLIUM0MeqrkbswnUpUaj"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+          "name": "Finn Wolfhard",
+          "url": "https://open.spotify.com/artist/2nmWcAqQtfgNp8Kpixa2CG"
         }
       ],
-      "duration_ms": 180959,
-      "name": "Bother Me (feat. Victony)",
-      "url": "https://open.spotify.com/track/2JpcOAR1EGQSxFOVnYCMl0"
-    },
-    {
-      "added_at": "2026-05-01 04:04:33",
-      "album": {
-        "name": "Bottles & Lights",
-        "url": "https://open.spotify.com/album/5Wvm7Co0vhdyPk5Ac0uZk6"
-      },
-      "artists": [
-        {
-          "name": "Chxrry",
-          "url": "https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ"
-        },
-        {
-          "name": "Mariah the Scientist",
-          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "Bottles & Lights",
-      "url": "https://open.spotify.com/track/1it6w7qVrXo10od5OMjn7H"
+      "duration_ms": 234055,
+      "name": "I'll Let You Finish",
+      "url": "https://open.spotify.com/track/4rie7uUf3XRgxK92tAMjCt"
     },
     {
       "added_at": "2026-05-01 04:04:33",
@@ -139,18 +155,26 @@
     {
       "added_at": "2026-05-01 04:04:33",
       "album": {
-        "name": "I'll Let You Finish",
-        "url": "https://open.spotify.com/album/7HOR1xOpbfjfOinjMqKv2L"
+        "name": "Lots of Love",
+        "url": "https://open.spotify.com/album/50vTpftBnpvCMzTGLZ0cYH"
       },
       "artists": [
         {
-          "name": "Finn Wolfhard",
-          "url": "https://open.spotify.com/artist/2nmWcAqQtfgNp8Kpixa2CG"
+          "name": "Brothers Macklovitch",
+          "url": "https://open.spotify.com/artist/74ituHOQ0RtRfPGwyfZYPl"
+        },
+        {
+          "name": "DRAMA",
+          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
+        },
+        {
+          "name": "A-Trak",
+          "url": "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
         }
       ],
-      "duration_ms": 234055,
-      "name": "I'll Let You Finish",
-      "url": "https://open.spotify.com/track/4rie7uUf3XRgxK92tAMjCt"
+      "duration_ms": 187965,
+      "name": "Lots of Love",
+      "url": "https://open.spotify.com/track/3ZOgyddOAOBl3jpY6gLIC4"
     },
     {
       "added_at": "2026-05-01 04:04:33",
@@ -187,26 +211,18 @@
     {
       "added_at": "2026-05-01 04:04:33",
       "album": {
-        "name": "Lots of Love",
-        "url": "https://open.spotify.com/album/50vTpftBnpvCMzTGLZ0cYH"
+        "name": "Si on revenait en arri\u00e8re",
+        "url": "https://open.spotify.com/album/2449LHRK2A0B94ph3fdg76"
       },
       "artists": [
         {
-          "name": "Brothers Macklovitch",
-          "url": "https://open.spotify.com/artist/74ituHOQ0RtRfPGwyfZYPl"
-        },
-        {
-          "name": "DRAMA",
-          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
-        },
-        {
-          "name": "A-Trak",
-          "url": "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
+          "name": "Fredz",
+          "url": "https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT"
         }
       ],
-      "duration_ms": 187965,
-      "name": "Lots of Love",
-      "url": "https://open.spotify.com/track/3ZOgyddOAOBl3jpY6gLIC4"
+      "duration_ms": 139005,
+      "name": "Si on revenait en arri\u00e8re",
+      "url": "https://open.spotify.com/track/6hmxkqlC4SbeA2ZGykbQSP"
     },
     {
       "added_at": "2026-05-01 04:04:33",
@@ -223,22 +239,6 @@
       "duration_ms": 208997,
       "name": "collagen",
       "url": "https://open.spotify.com/track/2oD5n6V9bhvyUEdwFGvnu0"
-    },
-    {
-      "added_at": "2026-05-01 04:04:33",
-      "album": {
-        "name": "Si on revenait en arri\u00e8re",
-        "url": "https://open.spotify.com/album/2449LHRK2A0B94ph3fdg76"
-      },
-      "artists": [
-        {
-          "name": "Fredz",
-          "url": "https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT"
-        }
-      ],
-      "duration_ms": 139005,
-      "name": "Si on revenait en arri\u00e8re",
-      "url": "https://open.spotify.com/track/6hmxkqlC4SbeA2ZGykbQSP"
     },
     {
       "added_at": "2026-05-01 04:04:33",
@@ -283,70 +283,6 @@
     {
       "added_at": "2026-05-01 04:04:33",
       "album": {
-        "name": "SpiceKick",
-        "url": "https://open.spotify.com/album/58PCIgUueFleyunThXBdf4"
-      },
-      "artists": [
-        {
-          "name": "Magi Merlin",
-          "url": "https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2"
-        }
-      ],
-      "duration_ms": 149174,
-      "name": "SpiceKick",
-      "url": "https://open.spotify.com/track/0s6ESjDmU3DNbhXrPoIxrX"
-    },
-    {
-      "added_at": "2026-05-01 04:04:33",
-      "album": {
-        "name": "lemonlime",
-        "url": "https://open.spotify.com/album/4Wx1qHpwOLTt96L8I0Kt3u"
-      },
-      "artists": [
-        {
-          "name": "Purity Ring",
-          "url": "https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "lemonlime",
-      "url": "https://open.spotify.com/track/68utYAhxFqE4xK7cmObExo"
-    },
-    {
-      "added_at": "2026-05-01 04:04:33",
-      "album": {
-        "name": "Therapy & Yoga",
-        "url": "https://open.spotify.com/album/5zn2yH96a43N0CgB5Fd8jf"
-      },
-      "artists": [
-        {
-          "name": "JESSIA",
-          "url": "https://open.spotify.com/artist/6DdbeAeBlrYj8bNToZv4TY"
-        }
-      ],
-      "duration_ms": 166360,
-      "name": "Almost Over",
-      "url": "https://open.spotify.com/track/1nGFesHICoTP5VVsnaKYJ5"
-    },
-    {
-      "added_at": "2026-05-01 04:04:33",
-      "album": {
-        "name": "The Call",
-        "url": "https://open.spotify.com/album/61LVjKvyP3uRXdjnNv7kwC"
-      },
-      "artists": [
-        {
-          "name": "Broken Social Scene",
-          "url": "https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd"
-        }
-      ],
-      "duration_ms": 253306,
-      "name": "The Call",
-      "url": "https://open.spotify.com/track/4teod5AtonjsogVrSl2EEW"
-    },
-    {
-      "added_at": "2026-05-01 04:04:33",
-      "album": {
         "name": "AMi Vol. 1",
         "url": "https://open.spotify.com/album/4yZVkEpL1rV8n4KmSINpYb"
       },
@@ -367,18 +303,50 @@
     {
       "added_at": "2026-05-01 04:04:33",
       "album": {
-        "name": "Pink Living Room",
-        "url": "https://open.spotify.com/album/6Sua86pFF6JuJzns3XEeRs"
+        "name": "lemonlime",
+        "url": "https://open.spotify.com/album/4Wx1qHpwOLTt96L8I0Kt3u"
       },
       "artists": [
         {
-          "name": "Bella White",
-          "url": "https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V"
+          "name": "Purity Ring",
+          "url": "https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4"
         }
       ],
-      "duration_ms": 236739,
-      "name": "Pink Living Room",
-      "url": "https://open.spotify.com/track/1Eu49CiR5D5x85kymc70ar"
+      "duration_ms": 205000,
+      "name": "lemonlime",
+      "url": "https://open.spotify.com/track/68utYAhxFqE4xK7cmObExo"
+    },
+    {
+      "added_at": "2026-05-01 04:04:33",
+      "album": {
+        "name": "SpiceKick",
+        "url": "https://open.spotify.com/album/58PCIgUueFleyunThXBdf4"
+      },
+      "artists": [
+        {
+          "name": "Magi Merlin",
+          "url": "https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2"
+        }
+      ],
+      "duration_ms": 149174,
+      "name": "SpiceKick",
+      "url": "https://open.spotify.com/track/0s6ESjDmU3DNbhXrPoIxrX"
+    },
+    {
+      "added_at": "2026-05-01 04:04:33",
+      "album": {
+        "name": "SUGAR WATER",
+        "url": "https://open.spotify.com/album/7bL5SEk32HW0e6WxePXWcZ"
+      },
+      "artists": [
+        {
+          "name": "THEHONESTGUY",
+          "url": "https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt"
+        }
+      ],
+      "duration_ms": 190248,
+      "name": "SUGAR WATER",
+      "url": "https://open.spotify.com/track/6zkoIozGGyFgk3EIAIs6oF"
     },
     {
       "added_at": "2026-05-01 04:04:33",
@@ -399,18 +367,82 @@
     {
       "added_at": "2026-05-01 04:04:33",
       "album": {
-        "name": "SUGAR WATER",
-        "url": "https://open.spotify.com/album/7bL5SEk32HW0e6WxePXWcZ"
+        "name": "The Call",
+        "url": "https://open.spotify.com/album/61LVjKvyP3uRXdjnNv7kwC"
       },
       "artists": [
         {
-          "name": "THEHONESTGUY",
-          "url": "https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt"
+          "name": "Broken Social Scene",
+          "url": "https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd"
         }
       ],
-      "duration_ms": 190248,
-      "name": "SUGAR WATER",
-      "url": "https://open.spotify.com/track/6zkoIozGGyFgk3EIAIs6oF"
+      "duration_ms": 253306,
+      "name": "The Call",
+      "url": "https://open.spotify.com/track/4teod5AtonjsogVrSl2EEW"
+    },
+    {
+      "added_at": "2026-05-01 04:04:33",
+      "album": {
+        "name": "Pink Living Room",
+        "url": "https://open.spotify.com/album/6Sua86pFF6JuJzns3XEeRs"
+      },
+      "artists": [
+        {
+          "name": "Bella White",
+          "url": "https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V"
+        }
+      ],
+      "duration_ms": 236739,
+      "name": "Pink Living Room",
+      "url": "https://open.spotify.com/track/1Eu49CiR5D5x85kymc70ar"
+    },
+    {
+      "added_at": "2026-05-01 04:04:33",
+      "album": {
+        "name": "Therapy & Yoga",
+        "url": "https://open.spotify.com/album/5zn2yH96a43N0CgB5Fd8jf"
+      },
+      "artists": [
+        {
+          "name": "JESSIA",
+          "url": "https://open.spotify.com/artist/6DdbeAeBlrYj8bNToZv4TY"
+        }
+      ],
+      "duration_ms": 166360,
+      "name": "Almost Over",
+      "url": "https://open.spotify.com/track/1nGFesHICoTP5VVsnaKYJ5"
+    },
+    {
+      "added_at": "2026-05-01 04:04:33",
+      "album": {
+        "name": "HOME WAS ALWAYS ME",
+        "url": "https://open.spotify.com/album/3LjjkS2s2b2RdluM00NWLD"
+      },
+      "artists": [
+        {
+          "name": "WHIPPED CREAM",
+          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
+        }
+      ],
+      "duration_ms": 137538,
+      "name": "midnight moon",
+      "url": "https://open.spotify.com/track/5fu8pfEsXXA9mY0F9grAce"
+    },
+    {
+      "added_at": "2026-05-01 04:04:33",
+      "album": {
+        "name": "Qui je suis",
+        "url": "https://open.spotify.com/album/4GUr2nwOgVYxFAslKpFlw1"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Fredette",
+          "url": "https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4"
+        }
+      ],
+      "duration_ms": 135275,
+      "name": "Le bon choix",
+      "url": "https://open.spotify.com/track/0V2DYyeSvQeiMfq10ED6M6"
     },
     {
       "added_at": "2026-05-01 04:04:33",
@@ -439,18 +471,18 @@
     {
       "added_at": "2026-05-01 04:04:33",
       "album": {
-        "name": "Qui je suis",
-        "url": "https://open.spotify.com/album/4GUr2nwOgVYxFAslKpFlw1"
+        "name": "tangerine!",
+        "url": "https://open.spotify.com/album/4e4WfNz2OUB7oqsRJL2PQl"
       },
       "artists": [
         {
-          "name": "Gabriel Fredette",
-          "url": "https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4"
+          "name": "Jahson Paynter",
+          "url": "https://open.spotify.com/artist/73SbrIktK3Na0OTmhZpMy8"
         }
       ],
-      "duration_ms": 135275,
-      "name": "Le bon choix",
-      "url": "https://open.spotify.com/track/0V2DYyeSvQeiMfq10ED6M6"
+      "duration_ms": 158117,
+      "name": "tangerine!",
+      "url": "https://open.spotify.com/track/3CElLbVHAx5oqgDozDdpwR"
     },
     {
       "added_at": "2026-05-01 04:04:33",
@@ -467,22 +499,6 @@
       "duration_ms": 178928,
       "name": "Selfish",
       "url": "https://open.spotify.com/track/0pazSLd8RRdX44dDtbmrta"
-    },
-    {
-      "added_at": "2026-05-01 04:04:33",
-      "album": {
-        "name": "tangerine!",
-        "url": "https://open.spotify.com/album/4e4WfNz2OUB7oqsRJL2PQl"
-      },
-      "artists": [
-        {
-          "name": "Jahson Paynter",
-          "url": "https://open.spotify.com/artist/73SbrIktK3Na0OTmhZpMy8"
-        }
-      ],
-      "duration_ms": 158117,
-      "name": "tangerine!",
-      "url": "https://open.spotify.com/track/3CElLbVHAx5oqgDozDdpwR"
     },
     {
       "added_at": "2026-05-01 04:04:33",
@@ -519,6 +535,22 @@
     {
       "added_at": "2026-05-01 04:04:33",
       "album": {
+        "name": "Si j'avais un clou",
+        "url": "https://open.spotify.com/album/5Ta4hSDVG7dcLf2PSCFTpl"
+      },
+      "artists": [
+        {
+          "name": "Thierry Larose",
+          "url": "https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt"
+        }
+      ],
+      "duration_ms": 229720,
+      "name": "Si j'avais un clou",
+      "url": "https://open.spotify.com/track/5Q5sQJpdEJpD5oXLJkAwAm"
+    },
+    {
+      "added_at": "2026-05-01 04:04:33",
+      "album": {
         "name": "Misstape 2",
         "url": "https://open.spotify.com/album/0huxZwTSdGZcd9KaDwTh6k"
       },
@@ -535,22 +567,6 @@
       "duration_ms": 148857,
       "name": "Faux Real",
       "url": "https://open.spotify.com/track/3DHsps2o59HhPxhEdbp3gm"
-    },
-    {
-      "added_at": "2026-05-01 04:04:33",
-      "album": {
-        "name": "Si j'avais un clou",
-        "url": "https://open.spotify.com/album/5Ta4hSDVG7dcLf2PSCFTpl"
-      },
-      "artists": [
-        {
-          "name": "Thierry Larose",
-          "url": "https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt"
-        }
-      ],
-      "duration_ms": 229720,
-      "name": "Si j'avais un clou",
-      "url": "https://open.spotify.com/track/5Q5sQJpdEJpD5oXLJkAwAm"
     },
     {
       "added_at": "2026-05-01 04:04:33",
@@ -603,22 +619,6 @@
     {
       "added_at": "2026-05-01 04:04:33",
       "album": {
-        "name": "No Wonder",
-        "url": "https://open.spotify.com/album/4sLCUGAZIFKoDkNLB9CEFs"
-      },
-      "artists": [
-        {
-          "name": "Diamond Cafe",
-          "url": "https://open.spotify.com/artist/5iy5vWoWLniL8EMg5pFRrh"
-        }
-      ],
-      "duration_ms": 141714,
-      "name": "No Wonder",
-      "url": "https://open.spotify.com/track/20cteJb81MYmbLMiuft2EA"
-    },
-    {
-      "added_at": "2026-05-01 04:04:33",
-      "album": {
         "name": "Through The Storm",
         "url": "https://open.spotify.com/album/18d8Y0CfIwSR1gr4nFkkrO"
       },
@@ -631,6 +631,22 @@
       "duration_ms": 153568,
       "name": "I Been",
       "url": "https://open.spotify.com/track/25zKoVubfweF7RvWbdnII7"
+    },
+    {
+      "added_at": "2026-05-01 04:04:33",
+      "album": {
+        "name": "No Wonder",
+        "url": "https://open.spotify.com/album/4sLCUGAZIFKoDkNLB9CEFs"
+      },
+      "artists": [
+        {
+          "name": "Diamond Cafe",
+          "url": "https://open.spotify.com/artist/5iy5vWoWLniL8EMg5pFRrh"
+        }
+      ],
+      "duration_ms": 141714,
+      "name": "No Wonder",
+      "url": "https://open.spotify.com/track/20cteJb81MYmbLMiuft2EA"
     },
     {
       "added_at": "2026-05-01 04:04:33",
@@ -703,6 +719,22 @@
     {
       "added_at": "2026-05-01 04:04:33",
       "album": {
+        "name": "Pain (Lonesome Version)",
+        "url": "https://open.spotify.com/album/7G2eiZtTNpFADoBqvzKFs6"
+      },
+      "artists": [
+        {
+          "name": "Fernie",
+          "url": "https://open.spotify.com/artist/5PemoTSZMQp59WnXZZ4EhI"
+        }
+      ],
+      "duration_ms": 263560,
+      "name": "Pain - Lonesome Version",
+      "url": "https://open.spotify.com/track/17PLTUNOheE8k9M2oOonFF"
+    },
+    {
+      "added_at": "2026-05-01 04:04:33",
+      "album": {
         "name": "Can't Shake This Feeling",
         "url": "https://open.spotify.com/album/4PQOJiIIvUYNaFQbe0F8Sd"
       },
@@ -767,22 +799,6 @@
     {
       "added_at": "2026-05-01 04:04:33",
       "album": {
-        "name": "Pain (Lonesome Version)",
-        "url": "https://open.spotify.com/album/7G2eiZtTNpFADoBqvzKFs6"
-      },
-      "artists": [
-        {
-          "name": "Fernie",
-          "url": "https://open.spotify.com/artist/5PemoTSZMQp59WnXZZ4EhI"
-        }
-      ],
-      "duration_ms": 263560,
-      "name": "Pain - Lonesome Version",
-      "url": "https://open.spotify.com/track/17PLTUNOheE8k9M2oOonFF"
-    },
-    {
-      "added_at": "2026-05-01 04:04:33",
-      "album": {
         "name": "Same Life",
         "url": "https://open.spotify.com/album/46mxte5lGijXlFCWSksOfu"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 112375,
       "name": "GEAR",
       "url": "https://open.spotify.com/track/34V32D276vNbF2WUtDWluJ"
-    },
-    {
-      "added_at": "2026-05-01 04:04:33",
-      "album": {
-        "name": "Country Club",
-        "url": "https://open.spotify.com/album/4RxtNebG0fjQiC8ZM0P90x"
-      },
-      "artists": [
-        {
-          "name": "Brittany Kennell",
-          "url": "https://open.spotify.com/artist/5LqrMo8Uh0K7mJ6zoWd3CP"
-        }
-      ],
-      "duration_ms": 204277,
-      "name": "Country Club",
-      "url": "https://open.spotify.com/track/1ONn9Syk42LP1LAJ9Km2aU"
     },
     {
       "added_at": "2026-05-01 04:04:33",

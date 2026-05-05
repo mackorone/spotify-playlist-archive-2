@@ -4,7 +4,7 @@
 
 > Bops and LGBTQIA+ artists only\. Cover: MUNA
 
-522 songs - 1 day 3 hr 58 min
+523 songs - 1 day 4 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [Dust Bowl](https://open.spotify.com/track/7aamc4vRYmHLYI2aKTDjdJ) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Willoughby Tucker, I'll Always Love You](https://open.spotify.com/album/3iSPMfhw4P30tFrROrbkFm) | 6:26 | 2025-08-08 | 2026-01-15 |
 | [Dysphoria Hoodie](https://open.spotify.com/track/4nchByjtPvq3iPYrgijp17) | [Laura Jane Grace](https://open.spotify.com/artist/4yfPiAauSgUfyc4k4WtwM9) | [Dysphoria Hoodie](https://open.spotify.com/album/2eRNpPskxaHcCWGhtojJi2) | 2:34 | 2023-12-15 | 2024-09-07 |
 | [Déjà trop loin](https://open.spotify.com/track/6PzE9gPiJo5tqcD599IBDa) | [Jules](https://open.spotify.com/artist/067eVTSlIc2fqaaHyRrWmt) | [Déjà trop loin](https://open.spotify.com/album/798eCVlIUWmB0sWCJEELin) | 4:28 | 2025-11-14 | 2026-02-14 |
+| [Eastside Girls](https://open.spotify.com/track/2GmMuH5UXe9DazNasUgGgM) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Dancing On The Wall](https://open.spotify.com/album/2CJw4ooOgUAxJkJpNiKcd3) | 3:50 | 2026-05-04 |  |
 | [Eau Salée](https://open.spotify.com/track/44JotNzVMsJaqCF1hUfeAi) | [Roselle](https://open.spotify.com/artist/1ed5I5Y5G6Tn8CpI4LlKb3) | [Eau Salée](https://open.spotify.com/album/0XTdxh8O2YXTcDDdsjtq8F) | 4:16 | 2026-03-10 | 2026-04-11 |
 | [Edge of the Earth](https://open.spotify.com/track/4Zy6m1QjUivLl8Zt7E8uxr) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame My Ex](https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc) | 2:40 | 2024-02-02 | 2024-07-13 |
 | [El Que](https://open.spotify.com/track/2EShywiZbc7jwAMu4oCUNe) | [Angélica Garcia](https://open.spotify.com/artist/2rjGbM0H8EUQzTVx6BgUlG) | [El Que](https://open.spotify.com/album/6iiAJazaFpnfByzoWJsE6U) | 5:25 | 2023-12-15 | 2025-02-08 |
@@ -503,7 +504,7 @@
 | [Violence](https://open.spotify.com/track/5e2ydjRaOjau1Atnv9zZ3Z) | [FIGHTMASTER](https://open.spotify.com/artist/3ejIpQTvOb6XjUhX96RrMw) | [Violence](https://open.spotify.com/album/6sbuipZaNdrMC3egrQTIpE) | 4:51 | 2023-12-15 | 2024-06-01 |
 | [Waiting for God in the Garden](https://open.spotify.com/track/5kt5I9DFuzWlEFFjGhH1Cc) | [CLAY](https://open.spotify.com/artist/20aPu5vizjmoX2A7f7AOWL) | [Waiting for God in the Garden](https://open.spotify.com/album/2cJvCqyoG0fJQMwPkU7vKR) | 3:00 | 2024-03-08 | 2025-05-31 |
 | [Wanna Get Along?](https://open.spotify.com/track/5yHm4fwAC3Y8jArEHpKvEy) | [Hyaenas](https://open.spotify.com/artist/3WURoSXW6bsmAW6JtgYiYU) | [Wanna Get Along?](https://open.spotify.com/album/6nXoVCjgTkOEfg4FZyO7IY) | 3:33 | 2026-04-10 | 2026-05-02 |
-| [Wannabeher](https://open.spotify.com/track/1484JjdWM2WvUlYZi77E8G) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Wannabeher](https://open.spotify.com/album/01oCHTrPyBx1Ut5hLHjZn9) | 2:34 | 2026-04-17 |  |
+| [Wannabeher](https://open.spotify.com/track/1484JjdWM2WvUlYZi77E8G) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Wannabeher](https://open.spotify.com/album/01oCHTrPyBx1Ut5hLHjZn9) | 2:34 | 2026-04-17 | 2026-05-05 |
 | [Wasn't Your Type \- Radio Edit](https://open.spotify.com/track/362fSh6bBIqZsUyJbZUCeI) | [Daisha McBride](https://open.spotify.com/artist/3gTb0Vm6wFbRFVTAhDTgId) | [Wasn't Your Type](https://open.spotify.com/album/1IV4En5QCRKoj5lAcgDQEv) | 2:33 | 2026-04-17 | 2026-05-02 |
 | [WASSUP](https://open.spotify.com/track/32SJM4tQyJHsB8rgVtZURn) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [WASSUP](https://open.spotify.com/album/0vKAvn3uWijgBplDXSLSkM) | 2:42 | 2025-05-30 | 2025-09-27 |
 | [Wasted](https://open.spotify.com/track/5SqxE0hnHs7oNZfvBSmioi) | [ADONXS](https://open.spotify.com/artist/2Wipb14FDfbuu8b8LWpiNM) | [Wasted](https://open.spotify.com/album/41QJxyII5nFU1czS9QemhG) | 2:49 | 2025-09-26 | 2025-11-15 |

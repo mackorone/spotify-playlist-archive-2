@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q8JGw.md) - [plain]
 
 > This is Pearl Jam\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 803,793 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 803,854 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q8JGw.md) - [plain]
 | 49 | [Thumbing My Way](https://open.spotify.com/track/42JkURlKrerwh2JdlwEkg4) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Riot Act](https://open.spotify.com/album/7AOWw68DEPnDmTpquZw8bG) | 4:10 |
 | 50 | [Nothing As It Seems](https://open.spotify.com/track/1pNSYQkmeFSqsSOGwwxs5L) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Binaural](https://open.spotify.com/album/1RuYprt6Qlqu286h1f4dzZ) | 5:22 |
 
-Snapshot ID: `afU+gAAAAAAVpBRnLwpNFlpPKnztjjyG`
+Snapshot ID: `afaQAAAAAAAmXltXq3Trhwmqq9zdAmwu`

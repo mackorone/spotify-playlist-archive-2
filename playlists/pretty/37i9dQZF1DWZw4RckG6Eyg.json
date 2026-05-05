@@ -1,6 +1,6 @@
 {
   "description": "All the indie gems from 2025 that we can't get enough of. Cover: she's green",
-  "num_followers": 46101,
+  "num_followers": 46108,
   "original_name": "Indie Editors' Hyperfixations of 2025 ",
   "owner": {
     "name": "Spotify",
@@ -687,6 +687,22 @@
     {
       "added_at": "2025-12-03 12:16:12",
       "album": {
+        "name": "Make Way For The Sun",
+        "url": "https://open.spotify.com/album/7CAfzXeR5jTdPAx5UCP8Di"
+      },
+      "artists": [
+        {
+          "name": "O & The Mo",
+          "url": "https://open.spotify.com/artist/6BxU8WANw4zXnBceJykdKX"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Icarus",
+      "url": "https://open.spotify.com/track/1bSfVVhaBtPkDUGCvbijZB"
+    },
+    {
+      "added_at": "2025-12-03 12:16:12",
+      "album": {
         "name": "Dealerz",
         "url": "https://open.spotify.com/album/3gT4OeIXlqJZ9xrhXlR1OT"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 166344,
       "name": "Dealerz",
       "url": "https://open.spotify.com/track/5wCYpFI6oW9BejmzlBiXIs"
-    },
-    {
-      "added_at": "2025-12-03 12:16:12",
-      "album": {
-        "name": "Make Way For The Sun",
-        "url": "https://open.spotify.com/album/7CAfzXeR5jTdPAx5UCP8Di"
-      },
-      "artists": [
-        {
-          "name": "O & The Mo",
-          "url": "https://open.spotify.com/artist/6BxU8WANw4zXnBceJykdKX"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "Icarus",
-      "url": "https://open.spotify.com/track/1bSfVVhaBtPkDUGCvbijZB"
     },
     {
       "added_at": "2025-12-03 12:16:12",
@@ -823,22 +823,6 @@
     {
       "added_at": "2025-12-03 12:16:12",
       "album": {
-        "name": "Body Break",
-        "url": "https://open.spotify.com/album/0UhmToxL1sZ4Ld0zmbUhHi"
-      },
-      "artists": [
-        {
-          "name": "Beryl",
-          "url": "https://open.spotify.com/artist/6BSlVdBcQTPh8txkqgad0n"
-        }
-      ],
-      "duration_ms": 215649,
-      "name": "If I go",
-      "url": "https://open.spotify.com/track/6uTTNETm26JZlksu0KFgJu"
-    },
-    {
-      "added_at": "2025-12-03 12:16:12",
-      "album": {
         "name": "Dime",
         "url": "https://open.spotify.com/album/6X4VcwQyRbZoYunMhh8avd"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 202415,
       "name": "Verrans Corner",
       "url": "https://open.spotify.com/track/5d252aEyyIxG9CI2v9anKK"
+    },
+    {
+      "added_at": "2025-12-03 12:16:12",
+      "album": {
+        "name": "Body Break",
+        "url": "https://open.spotify.com/album/0UhmToxL1sZ4Ld0zmbUhHi"
+      },
+      "artists": [
+        {
+          "name": "Beryl",
+          "url": "https://open.spotify.com/artist/6BSlVdBcQTPh8txkqgad0n"
+        }
+      ],
+      "duration_ms": 215649,
+      "name": "If I go",
+      "url": "https://open.spotify.com/track/6uTTNETm26JZlksu0KFgJu"
     },
     {
       "added_at": "2025-12-03 12:16:12",
@@ -923,38 +923,6 @@
     {
       "added_at": "2025-12-03 12:16:12",
       "album": {
-        "name": "Groupie",
-        "url": "https://open.spotify.com/album/2NMqz2mYpb0UkszvWhPKwV"
-      },
-      "artists": [
-        {
-          "name": "Leonie Biney",
-          "url": "https://open.spotify.com/artist/4fG5iQ1bDCtgOmhbVNWilq"
-        }
-      ],
-      "duration_ms": 172415,
-      "name": "Groupie",
-      "url": "https://open.spotify.com/track/6H7CJfDODbdbwcCO3E5mCM"
-    },
-    {
-      "added_at": "2025-12-03 12:16:12",
-      "album": {
-        "name": "GUSTO",
-        "url": "https://open.spotify.com/album/6nBSHPBq1iqXBjeQ4hVCPO"
-      },
-      "artists": [
-        {
-          "name": "Boko Yout",
-          "url": "https://open.spotify.com/artist/4WRA6GylKtbbRMUugHQuxP"
-        }
-      ],
-      "duration_ms": 141160,
-      "name": "GUSTO",
-      "url": "https://open.spotify.com/track/3DzgoqqPwtCxvyqKCj9hq7"
-    },
-    {
-      "added_at": "2025-12-03 12:16:12",
-      "album": {
         "name": "Forget In Mass",
         "url": "https://open.spotify.com/album/0yyMJ8gsghOX71XTvV2pAP"
       },
@@ -967,6 +935,22 @@
       "duration_ms": 187344,
       "name": "House Fire",
       "url": "https://open.spotify.com/track/1RFLkDNFSUKB9n7USEdw3X"
+    },
+    {
+      "added_at": "2025-12-03 12:16:12",
+      "album": {
+        "name": "Groupie",
+        "url": "https://open.spotify.com/album/2NMqz2mYpb0UkszvWhPKwV"
+      },
+      "artists": [
+        {
+          "name": "Leonie Biney",
+          "url": "https://open.spotify.com/artist/4fG5iQ1bDCtgOmhbVNWilq"
+        }
+      ],
+      "duration_ms": 172415,
+      "name": "Groupie",
+      "url": "https://open.spotify.com/track/6H7CJfDODbdbwcCO3E5mCM"
     },
     {
       "added_at": "2025-12-03 12:16:12",
@@ -987,6 +971,22 @@
     {
       "added_at": "2025-12-03 12:16:12",
       "album": {
+        "name": "GUSTO",
+        "url": "https://open.spotify.com/album/6nBSHPBq1iqXBjeQ4hVCPO"
+      },
+      "artists": [
+        {
+          "name": "Boko Yout",
+          "url": "https://open.spotify.com/artist/4WRA6GylKtbbRMUugHQuxP"
+        }
+      ],
+      "duration_ms": 141160,
+      "name": "GUSTO",
+      "url": "https://open.spotify.com/track/3DzgoqqPwtCxvyqKCj9hq7"
+    },
+    {
+      "added_at": "2025-12-03 12:16:12",
+      "album": {
         "name": "See You Around",
         "url": "https://open.spotify.com/album/0FiO5yMTGOmBNJfbyIgIAf"
       },
@@ -999,6 +999,22 @@
       "duration_ms": 242000,
       "name": "See You Around",
       "url": "https://open.spotify.com/track/0i0g60BEOSriL0mJJu7N3S"
+    },
+    {
+      "added_at": "2025-12-03 12:16:12",
+      "album": {
+        "name": "Slugger",
+        "url": "https://open.spotify.com/album/1QZJzByKliJB2xyhgrYk4j"
+      },
+      "artists": [
+        {
+          "name": "DERBY",
+          "url": "https://open.spotify.com/artist/5WFUn8WTVNDiOHZCEzxIQZ"
+        }
+      ],
+      "duration_ms": 172690,
+      "name": "Two Step",
+      "url": "https://open.spotify.com/track/5GfjnLf8aMzfr7VuFiIB0H"
     },
     {
       "added_at": "2025-12-03 12:16:12",
@@ -1019,22 +1035,6 @@
     {
       "added_at": "2025-12-03 12:16:12",
       "album": {
-        "name": "GUSTO",
-        "url": "https://open.spotify.com/album/6nBSHPBq1iqXBjeQ4hVCPO"
-      },
-      "artists": [
-        {
-          "name": "Boko Yout",
-          "url": "https://open.spotify.com/artist/4WRA6GylKtbbRMUugHQuxP"
-        }
-      ],
-      "duration_ms": 192253,
-      "name": "9-2-5",
-      "url": "https://open.spotify.com/track/5v80CZosPY0BPUtk3wzDY3"
-    },
-    {
-      "added_at": "2025-12-03 12:16:12",
-      "album": {
         "name": "Describe",
         "url": "https://open.spotify.com/album/6MZlKkSCbG2A5HhmKpsAOI"
       },
@@ -1051,18 +1051,18 @@
     {
       "added_at": "2025-12-03 12:16:12",
       "album": {
-        "name": "Slugger",
-        "url": "https://open.spotify.com/album/1QZJzByKliJB2xyhgrYk4j"
+        "name": "GUSTO",
+        "url": "https://open.spotify.com/album/6nBSHPBq1iqXBjeQ4hVCPO"
       },
       "artists": [
         {
-          "name": "DERBY",
-          "url": "https://open.spotify.com/artist/5WFUn8WTVNDiOHZCEzxIQZ"
+          "name": "Boko Yout",
+          "url": "https://open.spotify.com/artist/4WRA6GylKtbbRMUugHQuxP"
         }
       ],
-      "duration_ms": 172690,
-      "name": "Two Step",
-      "url": "https://open.spotify.com/track/5GfjnLf8aMzfr7VuFiIB0H"
+      "duration_ms": 192253,
+      "name": "9-2-5",
+      "url": "https://open.spotify.com/track/5v80CZosPY0BPUtk3wzDY3"
     },
     {
       "added_at": "2025-12-03 12:16:12",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2025-12-03 12:16:12",
       "album": {
-        "name": "I Want It All",
-        "url": "https://open.spotify.com/album/3RJmsUsvKZyneGHeZPOYqg"
-      },
-      "artists": [
-        {
-          "name": "Ullah",
-          "url": "https://open.spotify.com/artist/6DJbA69u1iLhG6s8H9tVqP"
-        }
-      ],
-      "duration_ms": 216628,
-      "name": "I Want It All",
-      "url": "https://open.spotify.com/track/711qQxgXzTRc7UzXBG8MHe"
-    },
-    {
-      "added_at": "2025-12-03 12:16:12",
-      "album": {
         "name": "System",
         "url": "https://open.spotify.com/album/4aweXXTsOD2Jx6XMGfLfru"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 196226,
       "name": "It's Only You",
       "url": "https://open.spotify.com/track/4UxJfZyHENxiSp60UzTGLW"
+    },
+    {
+      "added_at": "2025-12-03 12:16:12",
+      "album": {
+        "name": "I Want It All",
+        "url": "https://open.spotify.com/album/3RJmsUsvKZyneGHeZPOYqg"
+      },
+      "artists": [
+        {
+          "name": "Ullah",
+          "url": "https://open.spotify.com/artist/6DJbA69u1iLhG6s8H9tVqP"
+        }
+      ],
+      "duration_ms": 216628,
+      "name": "I Want It All",
+      "url": "https://open.spotify.com/track/711qQxgXzTRc7UzXBG8MHe"
     },
     {
       "added_at": "2025-12-03 12:16:12",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2025-12-03 12:16:12",
       "album": {
-        "name": "Stone Femmes",
-        "url": "https://open.spotify.com/album/2byXC960vYk4iRRxL9FSBc"
-      },
-      "artists": [
-        {
-          "name": "Ydegirl",
-          "url": "https://open.spotify.com/artist/3YAUbceL2MyJfajlikdn1V"
-        }
-      ],
-      "duration_ms": 179325,
-      "name": "Stone Femmes",
-      "url": "https://open.spotify.com/track/7tQZcX1IDSgJcs9Dt92VzD"
-    },
-    {
-      "added_at": "2025-12-03 12:16:12",
-      "album": {
         "name": "Patience, Moonbeam",
         "url": "https://open.spotify.com/album/0cEVL87PbprdLn7E8Fs8ct"
       },
@@ -1331,18 +1315,18 @@
     {
       "added_at": "2025-12-03 12:16:12",
       "album": {
-        "name": "for us",
-        "url": "https://open.spotify.com/album/0dLV7pFGKpSsJBMQr0FAjf"
+        "name": "Stone Femmes",
+        "url": "https://open.spotify.com/album/2byXC960vYk4iRRxL9FSBc"
       },
       "artists": [
         {
-          "name": "nate sib",
-          "url": "https://open.spotify.com/artist/4TNu2ZIE566yKwEhOT8eTv"
+          "name": "Ydegirl",
+          "url": "https://open.spotify.com/artist/3YAUbceL2MyJfajlikdn1V"
         }
       ],
-      "duration_ms": 105205,
-      "name": "tonight",
-      "url": "https://open.spotify.com/track/4qi16r93Cx4KnGcwwVD8iZ"
+      "duration_ms": 179325,
+      "name": "Stone Femmes",
+      "url": "https://open.spotify.com/track/7tQZcX1IDSgJcs9Dt92VzD"
     },
     {
       "added_at": "2025-12-03 12:16:12",
@@ -1363,18 +1347,18 @@
     {
       "added_at": "2025-12-03 12:16:12",
       "album": {
-        "name": "Preacher",
-        "url": "https://open.spotify.com/album/44zFgUMiKVZ4OQgSlFR0ew"
+        "name": "for us",
+        "url": "https://open.spotify.com/album/0dLV7pFGKpSsJBMQr0FAjf"
       },
       "artists": [
         {
-          "name": "Local the Neighbour",
-          "url": "https://open.spotify.com/artist/1sxWrNyQmTVxjoc7bohhu5"
+          "name": "nate sib",
+          "url": "https://open.spotify.com/artist/4TNu2ZIE566yKwEhOT8eTv"
         }
       ],
-      "duration_ms": 174560,
-      "name": "Preacher",
-      "url": "https://open.spotify.com/track/4PiOcOwysCeODx3d5oOHTK"
+      "duration_ms": 105205,
+      "name": "tonight",
+      "url": "https://open.spotify.com/track/4qi16r93Cx4KnGcwwVD8iZ"
     },
     {
       "added_at": "2025-12-03 12:16:12",
@@ -1395,6 +1379,22 @@
     {
       "added_at": "2025-12-03 12:16:12",
       "album": {
+        "name": "Preacher",
+        "url": "https://open.spotify.com/album/44zFgUMiKVZ4OQgSlFR0ew"
+      },
+      "artists": [
+        {
+          "name": "Local the Neighbour",
+          "url": "https://open.spotify.com/artist/1sxWrNyQmTVxjoc7bohhu5"
+        }
+      ],
+      "duration_ms": 174560,
+      "name": "Preacher",
+      "url": "https://open.spotify.com/track/4PiOcOwysCeODx3d5oOHTK"
+    },
+    {
+      "added_at": "2025-12-03 12:16:12",
+      "album": {
         "name": "Electric Hour",
         "url": "https://open.spotify.com/album/5glk52BEcA9c9RODElJkqF"
       },
@@ -1407,22 +1407,6 @@
       "duration_ms": 330199,
       "name": "Even if it's Just a Dream",
       "url": "https://open.spotify.com/track/0RfXPfvVaCXQWTbHfXlVQI"
-    },
-    {
-      "added_at": "2025-12-03 12:16:12",
-      "album": {
-        "name": "Holy Water",
-        "url": "https://open.spotify.com/album/3PxjhJ8Lj3YE2PodJ1BVIa"
-      },
-      "artists": [
-        {
-          "name": "Hether",
-          "url": "https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3"
-        }
-      ],
-      "duration_ms": 233221,
-      "name": "Images of Love",
-      "url": "https://open.spotify.com/track/4Iyni4uugM3tRXvo2Xuzwt"
     },
     {
       "added_at": "2025-12-03 12:16:12",
@@ -1475,6 +1459,22 @@
       "duration_ms": 207616,
       "name": "Should've known better (choices)",
       "url": "https://open.spotify.com/track/2HDjCwD2V4cpAvIvpwcmMF"
+    },
+    {
+      "added_at": "2025-12-03 12:16:12",
+      "album": {
+        "name": "Holy Water",
+        "url": "https://open.spotify.com/album/3PxjhJ8Lj3YE2PodJ1BVIa"
+      },
+      "artists": [
+        {
+          "name": "Hether",
+          "url": "https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3"
+        }
+      ],
+      "duration_ms": 233221,
+      "name": "Images of Love",
+      "url": "https://open.spotify.com/track/4Iyni4uugM3tRXvo2Xuzwt"
     },
     {
       "added_at": "2025-12-03 12:16:12",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2025-12-03 12:16:12",
       "album": {
-        "name": "The Feast",
-        "url": "https://open.spotify.com/album/0eNHN1wdo7BA0kP0a2P7Gu"
-      },
-      "artists": [
-        {
-          "name": "Mary Middlefield",
-          "url": "https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs"
-        }
-      ],
-      "duration_ms": 302882,
-      "name": "The Feast",
-      "url": "https://open.spotify.com/track/3zX3qdlhBdjSs0uE1mST8V"
-    },
-    {
-      "added_at": "2025-12-03 12:16:12",
-      "album": {
         "name": "Earthstar Mountain",
         "url": "https://open.spotify.com/album/2aS0NR1iVCRE2DEr197fe2"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 202336,
       "name": "Baby You're Lying",
       "url": "https://open.spotify.com/track/3vCH4YzLnacmiOnWSEUkDK"
+    },
+    {
+      "added_at": "2025-12-03 12:16:12",
+      "album": {
+        "name": "The Feast",
+        "url": "https://open.spotify.com/album/0eNHN1wdo7BA0kP0a2P7Gu"
+      },
+      "artists": [
+        {
+          "name": "Mary Middlefield",
+          "url": "https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs"
+        }
+      ],
+      "duration_ms": 302882,
+      "name": "The Feast",
+      "url": "https://open.spotify.com/track/3zX3qdlhBdjSs0uE1mST8V"
     },
     {
       "added_at": "2025-12-03 12:16:12",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2025-12-03 12:16:12",
       "album": {
-        "name": "DJ Set",
-        "url": "https://open.spotify.com/album/29Xl0gLS3K9IMhJMLl3O1u"
-      },
-      "artists": [
-        {
-          "name": "Mouseatouille",
-          "url": "https://open.spotify.com/artist/1RCFAywt6h42PGjgTOBNfa"
-        }
-      ],
-      "duration_ms": 186118,
-      "name": "Dogshow",
-      "url": "https://open.spotify.com/track/7lC4Wl7usQ2t9ZyJo8xXYJ"
-    },
-    {
-      "added_at": "2025-12-03 12:16:12",
-      "album": {
         "name": "into a pretty room",
         "url": "https://open.spotify.com/album/2t0Npgqlh3rGvMLQeOQirC"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 244653,
       "name": "barnyard",
       "url": "https://open.spotify.com/track/6hE02Os7Gn1uBYbQl4FVvi"
+    },
+    {
+      "added_at": "2025-12-03 12:16:12",
+      "album": {
+        "name": "DJ Set",
+        "url": "https://open.spotify.com/album/29Xl0gLS3K9IMhJMLl3O1u"
+      },
+      "artists": [
+        {
+          "name": "Mouseatouille",
+          "url": "https://open.spotify.com/artist/1RCFAywt6h42PGjgTOBNfa"
+        }
+      ],
+      "duration_ms": 186118,
+      "name": "Dogshow",
+      "url": "https://open.spotify.com/track/7lC4Wl7usQ2t9ZyJo8xXYJ"
     }
   ],
   "unique_name": "Indie Editors' Hyperfixations of 2025 ",

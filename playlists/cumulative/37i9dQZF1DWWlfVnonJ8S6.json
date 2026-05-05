@@ -4506,12 +4506,12 @@
       },
       "artists": [
         {
-          "name": "Rahat Fateh Ali Khan",
-          "url": "https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0"
-        },
-        {
           "name": "Tulsi Kumar",
           "url": "https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1"
+        },
+        {
+          "name": "Rahat Fateh Ali Khan",
+          "url": "https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0"
         },
         {
           "name": "Asees Kaur",
@@ -4528,6 +4528,18 @@
         {
           "name": "DJ Nyk",
           "url": "https://open.spotify.com/artist/6tTBTKIvckFAIzxeNAvnnF"
+        },
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Irshad Kamil",
+          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
+        },
+        {
+          "name": "Rashmi Virag",
+          "url": "https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo"
         }
       ],
       "date_added": "2022-05-27",

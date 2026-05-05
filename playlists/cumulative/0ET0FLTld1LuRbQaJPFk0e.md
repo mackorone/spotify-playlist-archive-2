@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/0ET0FLTld1LuRbQaJPFk0e.md) - cumulative - [plain](/playlists/plain/0ET0FLTld1LuRbQaJPFk0e) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/0ET0FLTld1LuRbQaJPFk0e)
 
-### [90s Music](https://open.spotify.com/playlist/0ET0FLTld1LuRbQaJPFk0e)
+### [Throwback Thursday \(3\)](https://open.spotify.com/playlist/0ET0FLTld1LuRbQaJPFk0e)
 
-> 
+> 80s, 90s, 00s
 
 100 songs - 6 hr 38 min
 

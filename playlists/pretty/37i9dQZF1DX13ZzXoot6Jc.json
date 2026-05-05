@@ -1,6 +1,6 @@
 {
   "description": "Luke Combs and Country hits that will have you singing every word.",
-  "num_followers": 450684,
+  "num_followers": 450676,
   "original_name": "Country Favourites",
   "owner": {
     "name": "Spotify",
@@ -343,6 +343,26 @@
     {
       "added_at": "2025-07-04 04:00:22",
       "album": {
+        "name": "you look like you love me (feat. Riley Green)",
+        "url": "https://open.spotify.com/album/69iNwop7x6VMhFMLEEtY1j"
+      },
+      "artists": [
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        },
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "duration_ms": 224280,
+      "name": "you look like you love me (feat. Riley Green)",
+      "url": "https://open.spotify.com/track/0y5Ex8oQ8zCH5TQxHUy1Eo"
+    },
+    {
+      "added_at": "2025-07-04 04:00:22",
+      "album": {
         "name": "Love Somebody",
         "url": "https://open.spotify.com/album/0TxewlKVKdpP18dGg279ep"
       },
@@ -375,26 +395,6 @@
     {
       "added_at": "2025-07-04 04:00:22",
       "album": {
-        "name": "you look like you love me (feat. Riley Green)",
-        "url": "https://open.spotify.com/album/69iNwop7x6VMhFMLEEtY1j"
-      },
-      "artists": [
-        {
-          "name": "Ella Langley",
-          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
-        },
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        }
-      ],
-      "duration_ms": 224280,
-      "name": "you look like you love me (feat. Riley Green)",
-      "url": "https://open.spotify.com/track/0y5Ex8oQ8zCH5TQxHUy1Eo"
-    },
-    {
-      "added_at": "2025-07-04 04:00:22",
-      "album": {
         "name": "Good News",
         "url": "https://open.spotify.com/album/7cBvtedB1E62VoOdnGx51w"
       },
@@ -407,6 +407,22 @@
       "duration_ms": 199209,
       "name": "Good News",
       "url": "https://open.spotify.com/track/54p6vNJwGkt4FTaM8SCsxt"
+    },
+    {
+      "added_at": "2025-07-04 04:00:22",
+      "album": {
+        "name": "After All The Bars Are Closed",
+        "url": "https://open.spotify.com/album/07gfJHUBVX2VxXovVuUGjA"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        }
+      ],
+      "duration_ms": 191839,
+      "name": "After All The Bars Are Closed",
+      "url": "https://open.spotify.com/track/0oBbkZuDLkT8DY9DK67kfr"
     },
     {
       "added_at": "2025-07-04 04:00:22",
@@ -443,18 +459,18 @@
     {
       "added_at": "2025-07-04 04:00:22",
       "album": {
-        "name": "After All The Bars Are Closed",
-        "url": "https://open.spotify.com/album/07gfJHUBVX2VxXovVuUGjA"
+        "name": "Family Ties",
+        "url": "https://open.spotify.com/album/2037mw8neL72exAlwyoCSc"
       },
       "artists": [
         {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+          "name": "Charles Wesley Godwin",
+          "url": "https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC"
         }
       ],
-      "duration_ms": 191839,
-      "name": "After All The Bars Are Closed",
-      "url": "https://open.spotify.com/track/0oBbkZuDLkT8DY9DK67kfr"
+      "duration_ms": 228346,
+      "name": "All Again",
+      "url": "https://open.spotify.com/track/5etrSAugIe3FXuG6em9Atj"
     },
     {
       "added_at": "2025-07-04 04:00:22",
@@ -475,22 +491,6 @@
     {
       "added_at": "2025-07-04 04:00:22",
       "album": {
-        "name": "Family Ties",
-        "url": "https://open.spotify.com/album/2037mw8neL72exAlwyoCSc"
-      },
-      "artists": [
-        {
-          "name": "Charles Wesley Godwin",
-          "url": "https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC"
-        }
-      ],
-      "duration_ms": 228346,
-      "name": "All Again",
-      "url": "https://open.spotify.com/track/5etrSAugIe3FXuG6em9Atj"
-    },
-    {
-      "added_at": "2025-07-04 04:00:22",
-      "album": {
         "name": "High Road",
         "url": "https://open.spotify.com/album/5cWglkyJvWPOeH14VLvbeu"
       },
@@ -503,6 +503,22 @@
       "duration_ms": 199893,
       "name": "High Road",
       "url": "https://open.spotify.com/track/4CcozggmhXmndssEDH6YHR"
+    },
+    {
+      "added_at": "2025-07-04 04:00:22",
+      "album": {
+        "name": "Whirlwind",
+        "url": "https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 240120,
+      "name": "Whirlwind",
+      "url": "https://open.spotify.com/track/1avlmOsNBhIaHDxpEOPQYz"
     },
     {
       "added_at": "2025-07-04 04:00:22",
@@ -527,18 +543,18 @@
     {
       "added_at": "2025-07-04 04:00:22",
       "album": {
-        "name": "Whirlwind",
-        "url": "https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8"
+        "name": "Bluebird Days",
+        "url": "https://open.spotify.com/album/6izHNYgyKzGdRpYwtYFaaG"
       },
       "artists": [
         {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
         }
       ],
-      "duration_ms": 240120,
-      "name": "Whirlwind",
-      "url": "https://open.spotify.com/track/1avlmOsNBhIaHDxpEOPQYz"
+      "duration_ms": 172853,
+      "name": "Tucson Too Late",
+      "url": "https://open.spotify.com/track/2hNQDbZcN3vqRAuwiz7poI"
     },
     {
       "added_at": "2025-07-04 04:00:22",
@@ -555,22 +571,6 @@
       "duration_ms": 177811,
       "name": "I'm The Problem",
       "url": "https://open.spotify.com/track/3HlWVKwU0JqJXqJK9DWHnZ"
-    },
-    {
-      "added_at": "2025-07-04 04:00:22",
-      "album": {
-        "name": "Bluebird Days",
-        "url": "https://open.spotify.com/album/6izHNYgyKzGdRpYwtYFaaG"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 172853,
-      "name": "Tucson Too Late",
-      "url": "https://open.spotify.com/track/2hNQDbZcN3vqRAuwiz7poI"
     },
     {
       "added_at": "2026-01-23 05:01:12",
@@ -875,6 +875,22 @@
     {
       "added_at": "2025-07-04 04:00:22",
       "album": {
+        "name": "Bar None",
+        "url": "https://open.spotify.com/album/2dbV2Hkxmm5CiUu7a5tBjI"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 173064,
+      "name": "Bar None",
+      "url": "https://open.spotify.com/track/212xtcXoSqbbwFAYd0zvNP"
+    },
+    {
+      "added_at": "2025-07-04 04:00:22",
+      "album": {
         "name": "Texas (feat. Maren Morris)",
         "url": "https://open.spotify.com/album/0eFUKdJ9A9TeBoRbnLlIcK"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 198106,
       "name": "Texas (feat. Maren Morris)",
       "url": "https://open.spotify.com/track/7IP075Nyr92maaJNS52hUM"
-    },
-    {
-      "added_at": "2025-07-04 04:00:22",
-      "album": {
-        "name": "Bar None",
-        "url": "https://open.spotify.com/album/2dbV2Hkxmm5CiUu7a5tBjI"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 173064,
-      "name": "Bar None",
-      "url": "https://open.spotify.com/track/212xtcXoSqbbwFAYd0zvNP"
     },
     {
       "added_at": "2025-07-04 04:00:22",
@@ -963,6 +963,22 @@
     {
       "added_at": "2025-07-04 04:00:22",
       "album": {
+        "name": "I Ain't Sayin'",
+        "url": "https://open.spotify.com/album/3U0pFKPURiE6x5gWFhDr8d"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 174060,
+      "name": "I Ain't Sayin'",
+      "url": "https://open.spotify.com/track/7lCs3stpWCtAn5Y2lmnPhV"
+    },
+    {
+      "added_at": "2025-07-04 04:00:22",
+      "album": {
         "name": "Blink Twice",
         "url": "https://open.spotify.com/album/33EhLLKE9Bo2v3ITgAxvuW"
       },
@@ -983,38 +999,6 @@
     {
       "added_at": "2025-07-04 04:00:22",
       "album": {
-        "name": "I Ain't Sayin'",
-        "url": "https://open.spotify.com/album/3U0pFKPURiE6x5gWFhDr8d"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 174060,
-      "name": "I Ain't Sayin'",
-      "url": "https://open.spotify.com/track/7lCs3stpWCtAn5Y2lmnPhV"
-    },
-    {
-      "added_at": "2025-07-04 04:00:22",
-      "album": {
-        "name": "Fix What You Didn't Break",
-        "url": "https://open.spotify.com/album/7d0hS6Qa9gXEjwlbsJbaEr"
-      },
-      "artists": [
-        {
-          "name": "Nate Smith",
-          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
-        }
-      ],
-      "duration_ms": 201555,
-      "name": "Fix What You Didn't Break",
-      "url": "https://open.spotify.com/track/0GJ8peTqHq9pu5Yf2vHjjX"
-    },
-    {
-      "added_at": "2025-07-04 04:00:22",
-      "album": {
         "name": "Mamaw's House",
         "url": "https://open.spotify.com/album/33U85sBjvKsbCsYo5DeEUa"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 187269,
       "name": "Mamaw's House",
       "url": "https://open.spotify.com/track/3eNOyXmzuA46bUvi8FkIoW"
+    },
+    {
+      "added_at": "2025-07-04 04:00:22",
+      "album": {
+        "name": "Fix What You Didn't Break",
+        "url": "https://open.spotify.com/album/7d0hS6Qa9gXEjwlbsJbaEr"
+      },
+      "artists": [
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
+        }
+      ],
+      "duration_ms": 201555,
+      "name": "Fix What You Didn't Break",
+      "url": "https://open.spotify.com/track/0GJ8peTqHq9pu5Yf2vHjjX"
     },
     {
       "added_at": "2025-07-04 04:00:22",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2025-07-04 04:00:22",
       "album": {
+        "name": "Deeper Well",
+        "url": "https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 160053,
+      "name": "Too Good to be True",
+      "url": "https://open.spotify.com/track/27RDQ0TfxzWMlQFuKrPT11"
+    },
+    {
+      "added_at": "2025-07-04 04:00:22",
+      "album": {
         "name": "Strangers",
         "url": "https://open.spotify.com/album/6x3Jiy9Tb3ju6huNiXGzxq"
       },
@@ -1235,22 +1251,6 @@
     {
       "added_at": "2025-07-04 04:00:22",
       "album": {
-        "name": "Deeper Well",
-        "url": "https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 160053,
-      "name": "Too Good to be True",
-      "url": "https://open.spotify.com/track/27RDQ0TfxzWMlQFuKrPT11"
-    },
-    {
-      "added_at": "2025-07-04 04:00:22",
-      "album": {
         "name": "Beautiful As You",
         "url": "https://open.spotify.com/album/4vxNYdHwi4uGsgYDHlKLVG"
       },
@@ -1283,26 +1283,6 @@
     {
       "added_at": "2025-07-04 04:00:22",
       "album": {
-        "name": "Cowboys Cry Too (with Noah Kahan)",
-        "url": "https://open.spotify.com/album/4csGSJBfWDrWklYInvXzhU"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        },
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 230600,
-      "name": "Cowboys Cry Too (with Noah Kahan)",
-      "url": "https://open.spotify.com/track/1t2MQpMDtJT5VL2tAPHrGN"
-    },
-    {
-      "added_at": "2025-07-04 04:00:22",
-      "album": {
         "name": "Happy Ever After You",
         "url": "https://open.spotify.com/album/0CVVcusljbMQIa71biQm4v"
       },
@@ -1323,6 +1303,26 @@
       "duration_ms": 197071,
       "name": "Happy Ever After You",
       "url": "https://open.spotify.com/track/4TW2iaLFzZrLMST78bvv4i"
+    },
+    {
+      "added_at": "2025-07-04 04:00:22",
+      "album": {
+        "name": "Cowboys Cry Too (with Noah Kahan)",
+        "url": "https://open.spotify.com/album/4csGSJBfWDrWklYInvXzhU"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        },
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 230600,
+      "name": "Cowboys Cry Too (with Noah Kahan)",
+      "url": "https://open.spotify.com/track/1t2MQpMDtJT5VL2tAPHrGN"
     },
     {
       "added_at": "2025-07-04 04:00:22",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2025-07-04 04:00:22",
       "album": {
-        "name": "Leave Me Too",
-        "url": "https://open.spotify.com/album/6c3KEWO4IGcHfPAekbiarD"
-      },
-      "artists": [
-        {
-          "name": "Josh Ross",
-          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
-        }
-      ],
-      "duration_ms": 191928,
-      "name": "Leave Me Too",
-      "url": "https://open.spotify.com/track/06CYe9F4IaMmSTAswOHQDD"
-    },
-    {
-      "added_at": "2025-07-04 04:00:22",
-      "album": {
         "name": "Country's Cool Again",
         "url": "https://open.spotify.com/album/2ktPg8ikDApRGiGSWNUC92"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 218280,
       "name": "Country's Cool Again",
       "url": "https://open.spotify.com/track/6fL5O5y6pSeU5Hjx9SgKar"
+    },
+    {
+      "added_at": "2025-07-04 04:00:22",
+      "album": {
+        "name": "Leave Me Too",
+        "url": "https://open.spotify.com/album/6c3KEWO4IGcHfPAekbiarD"
+      },
+      "artists": [
+        {
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
+        }
+      ],
+      "duration_ms": 191928,
+      "name": "Leave Me Too",
+      "url": "https://open.spotify.com/track/06CYe9F4IaMmSTAswOHQDD"
     },
     {
       "added_at": "2025-07-04 04:00:22",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2025-07-04 04:00:22",
       "album": {
-        "name": "Complicated",
-        "url": "https://open.spotify.com/album/4KHD5LGWqkmyZSyZOU08l0"
-      },
-      "artists": [
-        {
-          "name": "Josh Ross",
-          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
-        }
-      ],
-      "duration_ms": 177313,
-      "name": "Complicated",
-      "url": "https://open.spotify.com/track/3GtjS01mYbI1FGUr9xy29d"
-    },
-    {
-      "added_at": "2025-07-04 04:00:22",
-      "album": {
         "name": "Pretty Little Poison",
         "url": "https://open.spotify.com/album/2s7CBSj6aKbWmkfBU8eEsg"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 183040,
       "name": "Some Whiskey",
       "url": "https://open.spotify.com/track/5Z48gU2EpgzhECkuuXp4Ev"
+    },
+    {
+      "added_at": "2025-07-04 04:00:22",
+      "album": {
+        "name": "Complicated",
+        "url": "https://open.spotify.com/album/4KHD5LGWqkmyZSyZOU08l0"
+      },
+      "artists": [
+        {
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
+        }
+      ],
+      "duration_ms": 177313,
+      "name": "Complicated",
+      "url": "https://open.spotify.com/track/3GtjS01mYbI1FGUr9xy29d"
     },
     {
       "added_at": "2025-07-04 04:00:22",
@@ -1703,18 +1703,18 @@
     {
       "added_at": "2025-07-04 04:00:22",
       "album": {
-        "name": "Casino",
-        "url": "https://open.spotify.com/album/5paVgclX8qQ6hIURCWCD6f"
+        "name": "Carolyn's Boy",
+        "url": "https://open.spotify.com/album/475EaXHvy2e2QvNXkt6twf"
       },
       "artists": [
         {
-          "name": "Tucker Wetmore",
-          "url": "https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0"
+          "name": "Darius Rucker",
+          "url": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
         }
       ],
-      "duration_ms": 158400,
-      "name": "Casino",
-      "url": "https://open.spotify.com/track/5ZMthjrGsLUB0zGUVyr2dU"
+      "duration_ms": 226546,
+      "name": "Fires Don't Start Themselves",
+      "url": "https://open.spotify.com/track/07NRJ7TdZHv6x6oN5ag3HV"
     }
   ],
   "unique_name": "Country Favourites",

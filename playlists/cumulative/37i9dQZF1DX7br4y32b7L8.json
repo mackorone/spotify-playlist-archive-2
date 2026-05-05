@@ -7340,7 +7340,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 163874,
       "name": "In My Room",
       "url": "https://open.spotify.com/track/79IgD1wf3xltQdDK3l5Why"
@@ -12559,6 +12559,44 @@
     },
     {
       "album": {
+        "name": "Punta cana (feat. ADF Antje, Trapmoneybiggie & Carel)",
+        "url": "https://open.spotify.com/album/3EZYBf3uZB5ilS6Olfammf"
+      },
+      "artists": [
+        {
+          "name": "ADF",
+          "url": "https://open.spotify.com/artist/6VT2Npi6yGDqn3H07qI1DY"
+        },
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+        },
+        {
+          "name": "DJ DYLVN",
+          "url": "https://open.spotify.com/artist/0UW6JJvOT28AEOnu9H9d5l"
+        },
+        {
+          "name": "ADF Antje",
+          "url": "https://open.spotify.com/artist/0CKK7htZL4Vhg1OycK8FFP"
+        },
+        {
+          "name": "Trapmoneybiggie",
+          "url": "https://open.spotify.com/artist/2chklSpWYaRe261GLkvKrv"
+        },
+        {
+          "name": "Carel",
+          "url": "https://open.spotify.com/artist/5qbldCiZAkn2KfwyUfithX"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146666,
+      "name": "Punta cana (feat. ADF Antje, Trapmoneybiggie & Carel)",
+      "url": "https://open.spotify.com/track/6zDGORdshSWpR5nYMnEUZH"
+    },
+    {
+      "album": {
         "name": "Purple Rain",
         "url": "https://open.spotify.com/album/2umoqwMrmjBBPeaqgYu6J9"
       },
@@ -13550,7 +13588,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 122818,
       "name": "Sensa",
       "url": "https://open.spotify.com/track/4OByoXgJXbXD4KXtHeA4Xi"
@@ -14478,6 +14516,28 @@
       "duration_ms": 214975,
       "name": "Stiekem Gedanst",
       "url": "https://open.spotify.com/track/7hIR9M1Gz5COo3UQGfM0sy"
+    },
+    {
+      "album": {
+        "name": "STORM",
+        "url": "https://open.spotify.com/album/6QaIcWWsEpkU9ybIP8mMZA"
+      },
+      "artists": [
+        {
+          "name": "GENER8ION",
+          "url": "https://open.spotify.com/artist/5xXSrTidFvVRJmiam2Zh1o"
+        },
+        {
+          "name": "Yung Lean",
+          "url": "https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173433,
+      "name": "STORM II",
+      "url": "https://open.spotify.com/track/0FZd4IaxB12sUTKSUUGwWq"
     },
     {
       "album": {

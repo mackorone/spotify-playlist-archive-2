@@ -1,13 +1,37 @@
 {
   "description": "Check out the emerging independent tracks from these Telugu Artists!\nCover : Anirudh Suswaram",
-  "num_followers": 43990,
+  "num_followers": 43998,
   "original_name": "Telugu Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAB9/EqeZ/l+Cp0kXxZ0p7MuYhELj",
+  "snapshot_id": "AAAAAI4h6p+WzTL7gkdZL9NbHrwmkOtq",
   "tracks": [
+    {
+      "added_at": "2026-05-04 09:49:26",
+      "album": {
+        "name": "Evare",
+        "url": "https://open.spotify.com/album/2nYjlrqfgV7HaadrJV676Y"
+      },
+      "artists": [
+        {
+          "name": "SS Vardhan",
+          "url": "https://open.spotify.com/artist/0KoZrlePZVOyfMntY1RftL"
+        },
+        {
+          "name": "Pavan Kalyan",
+          "url": "https://open.spotify.com/artist/0gpmv3FkE6npT2OWGPrJvi"
+        },
+        {
+          "name": "Ananya Bhaskar",
+          "url": "https://open.spotify.com/artist/2ASPehpzXvICVG33VxStFr"
+        }
+      ],
+      "duration_ms": 297308,
+      "name": "Evare",
+      "url": "https://open.spotify.com/track/0tqltBDUtMxr880sGdub7C"
+    },
     {
       "added_at": "2026-05-01 00:31:27",
       "album": {
@@ -31,6 +55,74 @@
       "duration_ms": 227666,
       "name": "Ee Premanthaa Neeve",
       "url": "https://open.spotify.com/track/1QFEtarIwjZapBf7PMxKMM"
+    },
+    {
+      "added_at": "2026-05-04 09:38:37",
+      "album": {
+        "name": "Paravasame",
+        "url": "https://open.spotify.com/album/2kuwQYiup392L0setiugzf"
+      },
+      "artists": [
+        {
+          "name": "Hemanth Kashyap",
+          "url": "https://open.spotify.com/artist/4ZNSNlmiVP3hZcCErVPolq"
+        },
+        {
+          "name": "Aishwarya Daruri",
+          "url": "https://open.spotify.com/artist/3qTd6UfFRiDnDucDLWAAyf"
+        }
+      ],
+      "duration_ms": 244285,
+      "name": "Paravasame",
+      "url": "https://open.spotify.com/track/6nIEPjR7IchU95oxV3qOGc"
+    },
+    {
+      "added_at": "2026-05-04 06:27:21",
+      "album": {
+        "name": "Arthamaina Adhyayam",
+        "url": "https://open.spotify.com/album/4QYGexAakxHjR5RuN2Ugf1"
+      },
+      "artists": [
+        {
+          "name": "Vrusha Balu",
+          "url": "https://open.spotify.com/artist/5jhSfBeqM0W5nyTHA3EUjT"
+        },
+        {
+          "name": "Adithya RK",
+          "url": "https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm"
+        }
+      ],
+      "duration_ms": 267857,
+      "name": "Ye Ramasilaka",
+      "url": "https://open.spotify.com/track/01bofO4sNrsVWuBUb3jNh9"
+    },
+    {
+      "added_at": "2026-05-04 06:27:21",
+      "album": {
+        "name": "Will You Be Mine (Telugu)",
+        "url": "https://open.spotify.com/album/6jc404XykoDoRtI6ArGqmo"
+      },
+      "artists": [
+        {
+          "name": "Shravan Sridhar",
+          "url": "https://open.spotify.com/artist/0TMLPi3f3qrkHV8y7Ccvec"
+        },
+        {
+          "name": "Siva Sravan",
+          "url": "https://open.spotify.com/artist/5z5hcFAteOuDjIAC05JTUQ"
+        },
+        {
+          "name": "Ramya RamC",
+          "url": "https://open.spotify.com/artist/5eB3DzLMr1y7Hh05jd7buD"
+        },
+        {
+          "name": "Shanmukha Bharadwaj",
+          "url": "https://open.spotify.com/artist/6MzSHtji9Z61LAc1c8GyNd"
+        }
+      ],
+      "duration_ms": 187496,
+      "name": "Will You Be Mine (Telugu)",
+      "url": "https://open.spotify.com/track/3rXe2JaKT1Lq0ROkH5Rjbk"
     },
     {
       "added_at": "2026-05-01 00:31:27",
@@ -99,6 +191,22 @@
       "duration_ms": 154830,
       "name": "Deela Paddaane",
       "url": "https://open.spotify.com/track/5p9JV175zSaixDW2lMsnD4"
+    },
+    {
+      "added_at": "2026-05-04 06:27:21",
+      "album": {
+        "name": "Arthamaina Adhyayam",
+        "url": "https://open.spotify.com/album/4QYGexAakxHjR5RuN2Ugf1"
+      },
+      "artists": [
+        {
+          "name": "Adithya RK",
+          "url": "https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm"
+        }
+      ],
+      "duration_ms": 275647,
+      "name": "Nee Parichayame",
+      "url": "https://open.spotify.com/track/4zgLrMrPEMXaTokloGJwPA"
     },
     {
       "added_at": "2026-03-12 14:20:28",

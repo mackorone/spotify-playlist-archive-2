@@ -1,6 +1,6 @@
 {
   "description": "Cozy Christmas jazz tunes for your shopping, wrapping, cooking, studying or relaxing.",
-  "num_followers": 39127,
+  "num_followers": 39121,
   "original_name": "Jazzy Christmas Chill\ud83c\udf84\u2728",
   "owner": {
     "name": "Spotify",
@@ -123,22 +123,6 @@
     {
       "added_at": "2025-12-19 14:32:05",
       "album": {
-        "name": "I Saw Three Ships",
-        "url": "https://open.spotify.com/album/72Eg5ywjro4gFFqgG8ewqS"
-      },
-      "artists": [
-        {
-          "name": "Charlie James-Walker",
-          "url": "https://open.spotify.com/artist/7apm9TJQ66v5ykLahf9B3U"
-        }
-      ],
-      "duration_ms": 147547,
-      "name": "In the Bleak Midwinter",
-      "url": "https://open.spotify.com/track/5QCub19WJvIa3TDtJaHl8I"
-    },
-    {
-      "added_at": "2025-12-19 14:32:05",
-      "album": {
         "name": "Here Comes Santa Claus",
         "url": "https://open.spotify.com/album/6ENVnAPjnAitIUGlyS72Jj"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 140124,
       "name": "Here Comes Santa Claus",
       "url": "https://open.spotify.com/track/5J47ZMg53bfHMH1xChF7Go"
+    },
+    {
+      "added_at": "2025-12-19 14:32:05",
+      "album": {
+        "name": "I Saw Three Ships",
+        "url": "https://open.spotify.com/album/72Eg5ywjro4gFFqgG8ewqS"
+      },
+      "artists": [
+        {
+          "name": "Charlie James-Walker",
+          "url": "https://open.spotify.com/artist/7apm9TJQ66v5ykLahf9B3U"
+        }
+      ],
+      "duration_ms": 147547,
+      "name": "In the Bleak Midwinter",
+      "url": "https://open.spotify.com/track/5QCub19WJvIa3TDtJaHl8I"
     },
     {
       "added_at": "2025-12-19 14:32:05",
@@ -315,22 +315,6 @@
     {
       "added_at": "2025-12-19 14:32:05",
       "album": {
-        "name": "The greatest gift we've got",
-        "url": "https://open.spotify.com/album/28xA0XgYaLhtGl9z3XMQjr"
-      },
-      "artists": [
-        {
-          "name": "Gottfried Barber Trio",
-          "url": "https://open.spotify.com/artist/1QO8UVy5AHBqOWgHWEYywf"
-        }
-      ],
-      "duration_ms": 217014,
-      "name": "The greatest gift we've got",
-      "url": "https://open.spotify.com/track/7kKeIMx30LYBbdXx3a2WFQ"
-    },
-    {
-      "added_at": "2025-12-19 14:32:05",
-      "album": {
         "name": "White Christmas",
         "url": "https://open.spotify.com/album/4VQwViovYI2PTh3keI92lz"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 182681,
       "name": "White Christmas",
       "url": "https://open.spotify.com/track/57IolfqCz7kXFdE5bGXXQB"
+    },
+    {
+      "added_at": "2025-12-19 14:32:05",
+      "album": {
+        "name": "The greatest gift we've got",
+        "url": "https://open.spotify.com/album/28xA0XgYaLhtGl9z3XMQjr"
+      },
+      "artists": [
+        {
+          "name": "Gottfried Barber Trio",
+          "url": "https://open.spotify.com/artist/1QO8UVy5AHBqOWgHWEYywf"
+        }
+      ],
+      "duration_ms": 217014,
+      "name": "The greatest gift we've got",
+      "url": "https://open.spotify.com/track/7kKeIMx30LYBbdXx3a2WFQ"
     },
     {
       "added_at": "2025-12-19 14:32:05",
@@ -363,22 +363,6 @@
     {
       "added_at": "2025-12-19 14:32:05",
       "album": {
-        "name": "Christmas Is Coming",
-        "url": "https://open.spotify.com/album/6wilsjE6jfGO0ggnBV5QUU"
-      },
-      "artists": [
-        {
-          "name": "Isac Solo Trio",
-          "url": "https://open.spotify.com/artist/0PQJ8CW64ZpCQTXIWvpkUN"
-        }
-      ],
-      "duration_ms": 184167,
-      "name": "Christmas Is Coming",
-      "url": "https://open.spotify.com/track/149nYuNSxKF3rPGpReOjtv"
-    },
-    {
-      "added_at": "2025-12-19 14:32:05",
-      "album": {
         "name": "Happy Christmas, Little Friend",
         "url": "https://open.spotify.com/album/66xxXSW7xjV4bLQwj3FXtF"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 320071,
       "name": "You're All I Want For Christmas",
       "url": "https://open.spotify.com/track/3TKli016N6D1XnU0Jz8xVx"
+    },
+    {
+      "added_at": "2025-12-19 14:32:05",
+      "album": {
+        "name": "Christmas Is Coming",
+        "url": "https://open.spotify.com/album/6wilsjE6jfGO0ggnBV5QUU"
+      },
+      "artists": [
+        {
+          "name": "Isac Solo Trio",
+          "url": "https://open.spotify.com/artist/0PQJ8CW64ZpCQTXIWvpkUN"
+        }
+      ],
+      "duration_ms": 184167,
+      "name": "Christmas Is Coming",
+      "url": "https://open.spotify.com/track/149nYuNSxKF3rPGpReOjtv"
     },
     {
       "added_at": "2025-12-19 14:32:05",
@@ -439,6 +439,22 @@
       "duration_ms": 175217,
       "name": "Hard Candy Christmas",
       "url": "https://open.spotify.com/track/3VHpv7iHs0PHfXns1ZfpNA"
+    },
+    {
+      "added_at": "2025-12-19 14:32:05",
+      "album": {
+        "name": "O Come, All Ye Faithful",
+        "url": "https://open.spotify.com/album/1UsbNMO5iRcpE0ByR3iZfA"
+      },
+      "artists": [
+        {
+          "name": "Grayville Trio",
+          "url": "https://open.spotify.com/artist/6ll13Y20dnndy8mAuF9tgk"
+        }
+      ],
+      "duration_ms": 177874,
+      "name": "O Come, All Ye Faithful",
+      "url": "https://open.spotify.com/track/4dCXTJhIjUlSMPwIFGeZlt"
     },
     {
       "added_at": "2025-12-19 14:32:05",
@@ -523,22 +539,6 @@
     {
       "added_at": "2025-12-19 14:32:05",
       "album": {
-        "name": "The Gift of Joy",
-        "url": "https://open.spotify.com/album/5eRAFq93ULac7FqDP2uKna"
-      },
-      "artists": [
-        {
-          "name": "Tyrone Coates & Friends",
-          "url": "https://open.spotify.com/artist/2XSpojB87LHkWSrF4yBNmC"
-        }
-      ],
-      "duration_ms": 177215,
-      "name": "The Gift of Joy",
-      "url": "https://open.spotify.com/track/4depPKWxAgfS0Okw7ZY41V"
-    },
-    {
-      "added_at": "2025-12-19 14:32:05",
-      "album": {
         "name": "Rudolph the Red Nosed Rain Deer",
         "url": "https://open.spotify.com/album/1hMXOVW1GQ7qRqyZ4ffxFN"
       },
@@ -551,6 +551,22 @@
       "duration_ms": 145884,
       "name": "Rudolph the Red Nosed Rain Deer",
       "url": "https://open.spotify.com/track/00zEutyWPkwIbwl50L1fop"
+    },
+    {
+      "added_at": "2025-12-19 14:32:05",
+      "album": {
+        "name": "The Gift of Joy",
+        "url": "https://open.spotify.com/album/5eRAFq93ULac7FqDP2uKna"
+      },
+      "artists": [
+        {
+          "name": "Tyrone Coates & Friends",
+          "url": "https://open.spotify.com/artist/2XSpojB87LHkWSrF4yBNmC"
+        }
+      ],
+      "duration_ms": 177215,
+      "name": "The Gift of Joy",
+      "url": "https://open.spotify.com/track/4depPKWxAgfS0Okw7ZY41V"
     },
     {
       "added_at": "2025-12-19 14:32:05",
@@ -635,22 +651,6 @@
     {
       "added_at": "2025-12-19 14:32:05",
       "album": {
-        "name": "O Come, All Ye Faithful",
-        "url": "https://open.spotify.com/album/1UsbNMO5iRcpE0ByR3iZfA"
-      },
-      "artists": [
-        {
-          "name": "Grayville Trio",
-          "url": "https://open.spotify.com/artist/6ll13Y20dnndy8mAuF9tgk"
-        }
-      ],
-      "duration_ms": 177874,
-      "name": "O Come, All Ye Faithful",
-      "url": "https://open.spotify.com/track/4dCXTJhIjUlSMPwIFGeZlt"
-    },
-    {
-      "added_at": "2025-12-19 14:32:05",
-      "album": {
         "name": "What Are You Doing New Years Eve?",
         "url": "https://open.spotify.com/album/0gGaWw6lmiwuuItDRd697c"
       },
@@ -683,22 +683,6 @@
     {
       "added_at": "2025-12-19 14:32:05",
       "album": {
-        "name": "O Tannenbaum",
-        "url": "https://open.spotify.com/album/0bUeT7ZJYJgnulpvq30EHN"
-      },
-      "artists": [
-        {
-          "name": "A Little Time",
-          "url": "https://open.spotify.com/artist/3GjKdKhPY5KYrtJaWe6xfR"
-        }
-      ],
-      "duration_ms": 123173,
-      "name": "O Tannenbaum",
-      "url": "https://open.spotify.com/track/0Qh82xyuVeCP8TU9LHZOk7"
-    },
-    {
-      "added_at": "2025-12-19 14:32:05",
-      "album": {
         "name": "Away in a manger",
         "url": "https://open.spotify.com/album/5aO0KpQkTRPpVKErKhE3Wz"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 126007,
       "name": "Away in a manger",
       "url": "https://open.spotify.com/track/0E6J6VqH8KDsWoRW9uwNBY"
+    },
+    {
+      "added_at": "2025-12-19 14:32:05",
+      "album": {
+        "name": "O Tannenbaum",
+        "url": "https://open.spotify.com/album/0bUeT7ZJYJgnulpvq30EHN"
+      },
+      "artists": [
+        {
+          "name": "A Little Time",
+          "url": "https://open.spotify.com/artist/3GjKdKhPY5KYrtJaWe6xfR"
+        }
+      ],
+      "duration_ms": 123173,
+      "name": "O Tannenbaum",
+      "url": "https://open.spotify.com/track/0Qh82xyuVeCP8TU9LHZOk7"
     },
     {
       "added_at": "2025-12-19 14:32:05",
@@ -891,22 +891,6 @@
     {
       "added_at": "2025-12-19 14:32:05",
       "album": {
-        "name": "Christmas Time",
-        "url": "https://open.spotify.com/album/4O0xBHOwwopsTrx6Jo3MRt"
-      },
-      "artists": [
-        {
-          "name": "Dan Evans-Parker",
-          "url": "https://open.spotify.com/artist/4OSxWbYWRbUZzmkKS6PRM4"
-        }
-      ],
-      "duration_ms": 73034,
-      "name": "Up on the Housetop",
-      "url": "https://open.spotify.com/track/2vGxnEVP4CQXSij7f2Bil9"
-    },
-    {
-      "added_at": "2025-12-19 14:32:05",
-      "album": {
         "name": "Give love on christmas day",
         "url": "https://open.spotify.com/album/5JcVL1T06yF9q8CoEsGBM4"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 201431,
       "name": "Give love on christmas day",
       "url": "https://open.spotify.com/track/0dSzcKjA1PWamU3iokaKBc"
+    },
+    {
+      "added_at": "2025-12-19 14:32:05",
+      "album": {
+        "name": "Christmas Time",
+        "url": "https://open.spotify.com/album/4O0xBHOwwopsTrx6Jo3MRt"
+      },
+      "artists": [
+        {
+          "name": "Dan Evans-Parker",
+          "url": "https://open.spotify.com/artist/4OSxWbYWRbUZzmkKS6PRM4"
+        }
+      ],
+      "duration_ms": 73034,
+      "name": "Up on the Housetop",
+      "url": "https://open.spotify.com/track/2vGxnEVP4CQXSij7f2Bil9"
     },
     {
       "added_at": "2025-12-19 14:32:05",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2025-12-19 14:32:05",
       "album": {
-        "name": "Deck the Halls",
-        "url": "https://open.spotify.com/album/3ih4Z7j1laYHVbeCzxssop"
-      },
-      "artists": [
-        {
-          "name": "Michael Stylez & Co",
-          "url": "https://open.spotify.com/artist/64jHiDhZlL99Y3MxOwQ4qT"
-        }
-      ],
-      "duration_ms": 99179,
-      "name": "Deck the Halls",
-      "url": "https://open.spotify.com/track/1GyVQ3Lyz2XVTxYl42f1Kq"
-    },
-    {
-      "added_at": "2025-12-19 14:32:05",
-      "album": {
         "name": "Under My Christmas Tree",
         "url": "https://open.spotify.com/album/3486nX6gEewOk56YcHVrxA"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 186139,
       "name": "Under My Christmas Tree",
       "url": "https://open.spotify.com/track/4tKd4QHmVtC0EB4FvVCWyf"
+    },
+    {
+      "added_at": "2025-12-19 14:32:05",
+      "album": {
+        "name": "Deck the Halls",
+        "url": "https://open.spotify.com/album/3ih4Z7j1laYHVbeCzxssop"
+      },
+      "artists": [
+        {
+          "name": "Michael Stylez & Co",
+          "url": "https://open.spotify.com/artist/64jHiDhZlL99Y3MxOwQ4qT"
+        }
+      ],
+      "duration_ms": 99179,
+      "name": "Deck the Halls",
+      "url": "https://open.spotify.com/track/1GyVQ3Lyz2XVTxYl42f1Kq"
     }
   ],
   "unique_name": "Jazzy Christmas Chill\ud83c\udf84\u2728",

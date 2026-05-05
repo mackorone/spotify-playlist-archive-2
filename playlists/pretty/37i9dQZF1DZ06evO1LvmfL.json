@@ -1,12 +1,12 @@
 {
   "description": "This is Teddy Swims. The essential tracks, all in one playlist.",
-  "num_followers": 471498,
+  "num_followers": 471631,
   "original_name": "This Is Teddy Swims",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afU+gAAAAAD8oPYTDUW3J0BCBwJguagS",
+  "snapshot_id": "afaQAAAAAADZBRUSObLZkxSVPwooliIB",
   "tracks": [
     {
       "added_at": null,
@@ -463,26 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bed on Fire (with Ingrid Andress)",
-        "url": "https://open.spotify.com/album/1tOEXqqFrTxoyHTXhvb8E5"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        },
-        {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        }
-      ],
-      "duration_ms": 228507,
-      "name": "Bed on Fire (with Ingrid Andress)",
-      "url": "https://open.spotify.com/track/0739yB1rNxAQeLda9pOrEP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Broke (feat. Thomas Rhett)",
         "url": "https://open.spotify.com/album/6G1IliLfJTzCkHBvj5idiS"
       },
@@ -499,6 +479,26 @@
       "duration_ms": 160692,
       "name": "Broke (feat. Thomas Rhett)",
       "url": "https://open.spotify.com/track/1etcoCl2mkHpMHkMVco8iz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bed on Fire (with Ingrid Andress)",
+        "url": "https://open.spotify.com/album/1tOEXqqFrTxoyHTXhvb8E5"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        },
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "duration_ms": 228507,
+      "name": "Bed on Fire (with Ingrid Andress)",
+      "url": "https://open.spotify.com/track/0739yB1rNxAQeLda9pOrEP"
     },
     {
       "added_at": null,
@@ -671,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sleep is Exhausting",
-        "url": "https://open.spotify.com/album/0fc1W53T3llTmKSzRgaj3s"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 177930,
-      "name": "Someone Who Loved You",
-      "url": "https://open.spotify.com/track/144wciVMFV19YTkmZ50g4z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I've Tried Everything But Therapy (Part 2)",
         "url": "https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 215740,
       "name": "Northern Lights",
       "url": "https://open.spotify.com/track/53LrdNXkfGaS6pdyWDype0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sleep is Exhausting",
+        "url": "https://open.spotify.com/album/0fc1W53T3llTmKSzRgaj3s"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 177930,
+      "name": "Someone Who Loved You",
+      "url": "https://open.spotify.com/track/144wciVMFV19YTkmZ50g4z"
     },
     {
       "added_at": null,

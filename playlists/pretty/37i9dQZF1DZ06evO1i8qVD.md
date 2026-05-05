@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1i8qVD.md) - [plain]
 
 > This is Buddy Guy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,935 likes - 50 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,942 likes - 50 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1i8qVD.md) - [plain]
 | 25 | [Rememberin' Stevie](https://open.spotify.com/track/4LGjbJo0qtnuL8O5x7NbkT) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Damn Right, I've Got The Blues](https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj) | 6:58 |
 | 26 | [One Room Country Shack](https://open.spotify.com/track/40Gg9yXs1RSE7qcWAferU4) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [A Man And The Blues](https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ) | 5:39 |
 | 27 | [Blue No More \(feat\. James Bay\)](https://open.spotify.com/track/4qsvEqf7xQVKxgu53WspSn) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [The Blues Is Alive And Well](https://open.spotify.com/album/425gWaQU4t3KOvcM7z3VGk) | 3:39 |
-| 28 | [I Go By Feel](https://open.spotify.com/track/599KFVKTx45bNXIYhdVCxn) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Rhythm & Blues](https://open.spotify.com/album/5IyOwYWSw2m1mwD4OEpFeM) | 4:15 |
+| 28 | [Been There Done That](https://open.spotify.com/track/58fNv64oeBSZdAsYipR5pj) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Ain't Done With The Blues](https://open.spotify.com/album/2MIp3zMbggiFAgOOLUgU50) | 3:48 |
 | 29 | [Where Is the Next One Coming From \(feat\. Mark Knopfler\)](https://open.spotify.com/track/2yJPlXbIlR9rQEFp7hB4by) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Mark Knopfler](https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug) | [Damn Right, I've Got The Blues](https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj) | 4:35 |
-| 30 | [Been There Done That](https://open.spotify.com/track/58fNv64oeBSZdAsYipR5pj) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Ain't Done With The Blues](https://open.spotify.com/album/2MIp3zMbggiFAgOOLUgU50) | 3:48 |
+| 30 | [I Go By Feel](https://open.spotify.com/track/599KFVKTx45bNXIYhdVCxn) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Rhythm & Blues](https://open.spotify.com/album/5IyOwYWSw2m1mwD4OEpFeM) | 4:15 |
 | 31 | [Mary Had A Little Lamb](https://open.spotify.com/track/6TNNss0QAjTi14I5CVfMpJ) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [A Man And The Blues](https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ) | 2:32 |
 | 32 | [Skin Deep \(feat\. Derek Trucks\)](https://open.spotify.com/track/2hqFZeakNfYmO0h4ZFmDyg) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Derek Trucks](https://open.spotify.com/artist/1xJPYI7GXasA3ariMSftPq) | [Skin Deep](https://open.spotify.com/album/0ROkOFhb4cqlys1e8e3m2W) | 4:28 |
 | 33 | [I'm Ready](https://open.spotify.com/track/5OlzDwX94z4dNX9bhkg065) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A), [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Somebody Tried To Sell Me A Bridge](https://open.spotify.com/album/3oKljjJDJyZl4trREah2pp) | 3:29 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1i8qVD.md) - [plain]
 | 36 | [\(Baby\) You Got What It Takes \(feat\. Joss Stone\)](https://open.spotify.com/track/31dzIMOW5SH3UejDcmY6Ws) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [Born To Play Guitar](https://open.spotify.com/album/05GcLcffb84BOLzo7BMz9W) | 3:17 |
 | 37 | [Rock Me Baby](https://open.spotify.com/track/3DMND9loKpbSj2t8DJTYao) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A), [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Somebody Tried To Sell Me A Bridge](https://open.spotify.com/album/3oKljjJDJyZl4trREah2pp) | 5:32 |
 | 38 | [Hoodoo Man Blues](https://open.spotify.com/track/7dVUGBGYrYBJakUw1JKhrq) | [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK), [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Hoodoo Man Blues](https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4) | 2:06 |
-| 39 | [Where The Blues Begins \(feat\. Carlos Santana\)](https://open.spotify.com/track/4XVNiv2nZLz2MxXGRUAle7) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Carlos Santana](https://open.spotify.com/artist/0MsXN56oNCyqorqEPViWgQ) | [Living Proof](https://open.spotify.com/album/3WH2ZpwBApxjDMQf3tEArm) | 4:37 |
-| 40 | [Miss Ida B](https://open.spotify.com/track/6sEi4jQuygl91z4gQbSbSh) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Buddy's Baddest: The Best Of Buddy Guy](https://open.spotify.com/album/1XHcMcEFuTbPQS3ulriFx5) | 6:30 |
+| 39 | [Miss Ida B](https://open.spotify.com/track/6sEi4jQuygl91z4gQbSbSh) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Buddy's Baddest: The Best Of Buddy Guy](https://open.spotify.com/album/1XHcMcEFuTbPQS3ulriFx5) | 6:30 |
+| 40 | [Where The Blues Begins \(feat\. Carlos Santana\)](https://open.spotify.com/track/4XVNiv2nZLz2MxXGRUAle7) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Carlos Santana](https://open.spotify.com/artist/0MsXN56oNCyqorqEPViWgQ) | [Living Proof](https://open.spotify.com/album/3WH2ZpwBApxjDMQf3tEArm) | 4:37 |
 | 41 | [Just Teasin'](https://open.spotify.com/track/7qR9FrZIWNzOMkfzjINkiH) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [DJ Play My Blues](https://open.spotify.com/album/0wN1Cv8D4Ht38g8TMx7psy) | 4:42 |
 | 42 | [It Keeps Me Young \(feat\. Peter Frampton\)](https://open.spotify.com/track/2pZANYwnL6wilk3BySvfML) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Peter Frampton](https://open.spotify.com/artist/0543y7yrvny4KymoaneT4W) | [Ain't Done With The Blues](https://open.spotify.com/album/2MIp3zMbggiFAgOOLUgU50) | 2:56 |
 | 43 | [Good Morning Schoolgirl](https://open.spotify.com/track/0jcggWMJbg0VfBsuiWb57T) | [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK), [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Hoodoo Man Blues](https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4) | 3:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1i8qVD.md) - [plain]
 | 49 | [Blues Chase The Blues Away](https://open.spotify.com/track/6dDpAO5lP55K0T78HQF3ZS) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Blues Chase The Blues Away](https://open.spotify.com/album/6dvnLC5c0ISNbZWJuoALhx) | 4:49 |
 | 50 | [Ships On The Ocean](https://open.spotify.com/track/28fsOjMzmiw6iphB2ty19x) | [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK), [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Hoodoo Man Blues](https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4) | 4:09 |
 
-Snapshot ID: `afU+gAAAAACZiEOZkmpnQeekC0RA3GXu`
+Snapshot ID: `afaQAAAAAABNFRnvKp2u3JUAyg3fUBdT`

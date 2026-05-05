@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,297 likes - 124 songs - 7 hr 17 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,296 likes - 127 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -132,5 +132,8 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 122 | [Fensterblick](https://open.spotify.com/track/6LgGyauokP9POhNgfiCkmo) | [GINSHER](https://open.spotify.com/artist/4JjoAxWIfPKrhuRZwGvOPS) | [Fensterblick](https://open.spotify.com/album/7BU1ICcPreRxSDag8mwRSM) | 2:47 |
 | 123 | [Legacy](https://open.spotify.com/track/7jOPhjdRyBB164fW32Ue6P) | [T\-WINNN](https://open.spotify.com/artist/5DgJEIByQ2L0y5Nmzw4zq0), [Crisisbeatzz](https://open.spotify.com/artist/4477MF4pLmodsnC5bLBM4x), [Chucky Cat](https://open.spotify.com/artist/3cEyhRbqLRp5Xhb7t9pzvL) | [Legacy](https://open.spotify.com/album/67RNmiKtujZncgztrWJRkv) | 4:13 |
 | 124 | [Shimmer](https://open.spotify.com/track/1US4crD9pXZuIHEGBTGOmV) | [The Multides](https://open.spotify.com/artist/0EBOhu8N5TYGpwRIWe1oQG) | [Shimmer](https://open.spotify.com/album/03NF1wfBJToukVqmRD1G62) | 4:13 |
+| 125 | [Querendo se amar](https://open.spotify.com/track/7zzt1qN5liyVqDjhKLNUmD) | [MARÉ MANSA](https://open.spotify.com/artist/0aqA11WetNWTGzgeHm6aF7) | [Querendo se amar](https://open.spotify.com/album/1lPc2hHods1EXP2aRwCKc7) | 2:44 |
+| 126 | [No Control](https://open.spotify.com/track/7dFxIoBEfGZns3Pd1Fcze0) | [Kon](https://open.spotify.com/artist/0Bgp4Jbe1OEqrn24HVKj9b) | [No Control](https://open.spotify.com/album/5e5rJL3GDeHguqRBgmXnhS) | 2:38 |
+| 127 | [blue moon \(remastered\)](https://open.spotify.com/track/590SzWRpBK7UOyFXnqVH8Z) | [Reject Madrigal](https://open.spotify.com/artist/7lOQKkSHBPbmIexScbnPlu) | [Technicolor \(Side A\)](https://open.spotify.com/album/7HiQFIAt9nK0LeALQOLYib) | 4:51 |
 
-Snapshot ID: `AAATwh+UElfDCDNMOPd9/OEMkCYKWQpF`
+Snapshot ID: `AAATxfta+3kDaHmRRsjRazUWbu2MpGQo`

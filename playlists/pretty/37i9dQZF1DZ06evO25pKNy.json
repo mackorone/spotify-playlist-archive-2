@@ -1,12 +1,12 @@
 {
   "description": "This is Los Hijos De Garcia. The essential tracks, all in one playlist.",
-  "num_followers": 6162,
+  "num_followers": 6163,
   "original_name": "This Is Los Hijos De Garcia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afU+gAAAAAC0ABNDkW4A3iAUxB0b2vGb",
+  "snapshot_id": "afaQAAAAAABTTCCj8uOIhJHr1DP0U0qk",
   "tracks": [
     {
       "added_at": null,
@@ -579,18 +579,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lujos y Libras",
-        "url": "https://open.spotify.com/album/76hHnxL9jGOpddvX4Gor2R"
+        "name": "De Botas O Gabanas",
+        "url": "https://open.spotify.com/album/1SgK2Myee9Gpohf5L8d5Mp"
       },
       "artists": [
+        {
+          "name": "Los Nuevos Originales Del Bajio",
+          "url": "https://open.spotify.com/artist/18rmI6HslUFyiOEI9xRlOg"
+        },
         {
           "name": "Los Hijos De Garcia",
           "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
         }
       ],
-      "duration_ms": 187565,
-      "name": "Willy Checks",
-      "url": "https://open.spotify.com/track/6I6HAGDrih43MD4CyTPNhr"
+      "duration_ms": 170842,
+      "name": "De Botas O Gabanas",
+      "url": "https://open.spotify.com/track/7gt6tXgzx8zvVepdf7Kmp4"
     },
     {
       "added_at": null,
@@ -611,22 +615,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Botas O Gabanas",
-        "url": "https://open.spotify.com/album/1SgK2Myee9Gpohf5L8d5Mp"
+        "name": "Lujos y Libras",
+        "url": "https://open.spotify.com/album/76hHnxL9jGOpddvX4Gor2R"
       },
       "artists": [
-        {
-          "name": "Los Nuevos Originales Del Bajio",
-          "url": "https://open.spotify.com/artist/18rmI6HslUFyiOEI9xRlOg"
-        },
         {
           "name": "Los Hijos De Garcia",
           "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
         }
       ],
-      "duration_ms": 170842,
-      "name": "De Botas O Gabanas",
-      "url": "https://open.spotify.com/track/7gt6tXgzx8zvVepdf7Kmp4"
+      "duration_ms": 187565,
+      "name": "Willy Checks",
+      "url": "https://open.spotify.com/track/6I6HAGDrih43MD4CyTPNhr"
     },
     {
       "added_at": null,
@@ -663,22 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lujos y Libras",
-        "url": "https://open.spotify.com/album/76hHnxL9jGOpddvX4Gor2R"
-      },
-      "artists": [
-        {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        }
-      ],
-      "duration_ms": 189789,
-      "name": "Cuando Me Muera",
-      "url": "https://open.spotify.com/track/3F9Xch0uZUTA30K7MFkh2F"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Desde La 48",
         "url": "https://open.spotify.com/album/5i8wSDSUoEBSEd9r18e4LD"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 191994,
       "name": "Andaba En Pausa",
       "url": "https://open.spotify.com/track/5fMmWArt0QdYewK6HKE4Tq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lujos y Libras",
+        "url": "https://open.spotify.com/album/76hHnxL9jGOpddvX4Gor2R"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        }
+      ],
+      "duration_ms": 189789,
+      "name": "Cuando Me Muera",
+      "url": "https://open.spotify.com/track/3F9Xch0uZUTA30K7MFkh2F"
     },
     {
       "added_at": null,
@@ -783,26 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jimmy Humilde Presenta Lo Mejor De Los 90's",
-        "url": "https://open.spotify.com/album/1osJOSkOwfD5UBZ50ksQsH"
-      },
-      "artists": [
-        {
-          "name": "Voces Del Rancho",
-          "url": "https://open.spotify.com/artist/1fGlKY2s0o51QUA9gScpWR"
-        },
-        {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        }
-      ],
-      "duration_ms": 199138,
-      "name": "Contrato Con La Muerte",
-      "url": "https://open.spotify.com/track/7KFDZYka1XWE7a6RIrdmaP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Classroom Love",
         "url": "https://open.spotify.com/album/0cbyUdPh5smj24zGOuwF5o"
       },
@@ -831,6 +811,26 @@
       "duration_ms": 237166,
       "name": "Le Pegue a lo Grande",
       "url": "https://open.spotify.com/track/0JMNj5ZXQK74Nyfq05O88Y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jimmy Humilde Presenta Lo Mejor De Los 90's",
+        "url": "https://open.spotify.com/album/1osJOSkOwfD5UBZ50ksQsH"
+      },
+      "artists": [
+        {
+          "name": "Voces Del Rancho",
+          "url": "https://open.spotify.com/artist/1fGlKY2s0o51QUA9gScpWR"
+        },
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        }
+      ],
+      "duration_ms": 199138,
+      "name": "Contrato Con La Muerte",
+      "url": "https://open.spotify.com/track/7KFDZYka1XWE7a6RIrdmaP"
     },
     {
       "added_at": null,
@@ -867,22 +867,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Recordando Al Chavalon",
-        "url": "https://open.spotify.com/album/6uO6AxhUMDd06Un78tIZr8"
-      },
-      "artists": [
-        {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        }
-      ],
-      "duration_ms": 132555,
-      "name": "Recordando Al Chavalon",
-      "url": "https://open.spotify.com/track/6hUXWt86hN6CktnTHanG06"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nuestro Estilo",
         "url": "https://open.spotify.com/album/6rGQO5ibbf2JhX4N6BmL5r"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 195221,
       "name": "Por Buen Camino",
       "url": "https://open.spotify.com/track/7s3erZkEkuTJ29qB2d0MDX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Recordando Al Chavalon",
+        "url": "https://open.spotify.com/album/6uO6AxhUMDd06Un78tIZr8"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        }
+      ],
+      "duration_ms": 132555,
+      "name": "Recordando Al Chavalon",
+      "url": "https://open.spotify.com/track/6hUXWt86hN6CktnTHanG06"
     }
   ],
   "unique_name": "This Is Los Hijos De Garcia",

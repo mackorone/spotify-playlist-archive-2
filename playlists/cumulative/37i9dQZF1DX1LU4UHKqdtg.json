@@ -5245,6 +5245,24 @@
     },
     {
       "album": {
+        "name": "CHOOM",
+        "url": "https://open.spotify.com/album/2BGC5qI7Kg1ejJnza3Cy5k"
+      },
+      "artists": [
+        {
+          "name": "BABYMONSTER",
+          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178880,
+      "name": "CHOOM",
+      "url": "https://open.spotify.com/track/6gunPOwkADFspLkQtmVuZT"
+    },
+    {
+      "album": {
         "name": "Christmas EveL",
         "url": "https://open.spotify.com/album/2zr4ZyuHVj2rL0Gw2zoNgL"
       },
@@ -10882,6 +10900,24 @@
       "duration_ms": 154386,
       "name": "Good Thing",
       "url": "https://open.spotify.com/track/3GFeuIIJQDgCpVHjsLkEgw"
+    },
+    {
+      "album": {
+        "name": "Goodbye With A Smile (Recorded in 2016) (Prod.Jinyoung)",
+        "url": "https://open.spotify.com/album/5RwpaUNCs8Ak1rTWRj25Od"
+      },
+      "artists": [
+        {
+          "name": "I.O.I",
+          "url": "https://open.spotify.com/artist/6RKnXXyprPjhBdCvL802Ku"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Goodbye With A Smile (Recorded in 2016) (Prod.Jinyoung)",
+      "url": "https://open.spotify.com/track/26ZXmnV2EoILwZxDitGBUz"
     },
     {
       "album": {
@@ -29302,7 +29338,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 186973,
       "name": "WE GO UP",
       "url": "https://open.spotify.com/track/1tonXoW6dcb7GGNpec3PTl"
@@ -30268,7 +30304,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 217000,
       "name": "Wish to Wish",
       "url": "https://open.spotify.com/track/6h49pP33Is5rIPyn70nKzt"

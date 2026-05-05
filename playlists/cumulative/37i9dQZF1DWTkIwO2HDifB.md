@@ -2,7 +2,7 @@
 
 ### [Funk Hits](https://open.spotify.com/playlist/37i9dQZF1DWTkIwO2HDifB)
 
-> Os funks mais 🔑 do Brasil / Foto: Mc Livinho, Mc Pedrinho, Perera DJ, DJ JB Mix
+> Os funks mais 🔑 do Brasil / Foto: Mc Lele JP
 
 436 songs - 1 day 1 hr 49 min
 

@@ -4,7 +4,7 @@
 
 > de skarpeste knive i dansk musik  📸    Cover: BJØRN
 
-418 songs - 21 hr 27 min
+420 songs - 21 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Bedøvende](https://open.spotify.com/track/3oswKE6oPvZWvnfJRRUNdl) | [Josef](https://open.spotify.com/artist/3NpkkvYFWSFAazQIF7NYbB) | [Bedøvende](https://open.spotify.com/album/5bKpoipS6WMBCYf8v7f5IO) | 2:24 | 2025-05-29 | 2025-09-05 |
 | [Begår Tyveri](https://open.spotify.com/track/0e0hgjpnPbO89eobiVAsnV) | [Jung](https://open.spotify.com/artist/2P6G4CYRAhpRKMXy097RSL) | [Forfra Forbundet](https://open.spotify.com/album/0gq6IFI5AgEr5ygk1CjEMW) | 3:14 | 2024-06-27 | 2024-08-30 |
 | [Berlin \(feat\. Marcus.wav\)](https://open.spotify.com/track/79pkpQo5RSxW8QKzktg7Su) | [USSEL](https://open.spotify.com/artist/13wADF4gMaMun7o6VzOzZp), [Marcus.wav](https://open.spotify.com/artist/2IwoU1JvxmNCdD1i69FmKr) | [Berlin \(feat\. Marcus.wav\)](https://open.spotify.com/album/3UoNkriZF8Mtot3EcPU7cL) | 2:52 | 2024-06-27 | 2025-03-08 |
-| [better as a stranger](https://open.spotify.com/track/3HiXP8dtSyJwVG5JuP8cUh) | [lucca](https://open.spotify.com/artist/0wkRL12dR8YrRM3JPzXd1N) | [better as a stranger](https://open.spotify.com/album/74XCWIwZ01RkhM4Hj0ILaf) | 3:24 | 2026-03-27 |  |
+| [better as a stranger](https://open.spotify.com/track/3HiXP8dtSyJwVG5JuP8cUh) | [lucca](https://open.spotify.com/artist/0wkRL12dR8YrRM3JPzXd1N) | [better as a stranger](https://open.spotify.com/album/74XCWIwZ01RkhM4Hj0ILaf) | 3:24 | 2026-03-27 | 2026-05-05 |
 | [Big city life](https://open.spotify.com/track/02DduZyB33c2EpkSx2Zr4C) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [Big city life](https://open.spotify.com/album/6C14WjZp4TYn9AXkhdx5Qd) | 2:08 | 2025-05-22 | 2025-09-05 |
 | [Big Deal](https://open.spotify.com/track/1QjVJm65BfSr63wbpzk86Q) | [Pascoe](https://open.spotify.com/artist/3EUDC2YMBp9j5hgOVoQE4c) | [Big Deal](https://open.spotify.com/album/6O0cIr1fA4U7hB3z7p6ydQ) | 3:37 | 2025-08-14 | 2025-08-22 |
 | [Big Mistake](https://open.spotify.com/track/24nUZ74vZNof2v7wkK6JV3) | [eee gee](https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN) | [Big Mistake](https://open.spotify.com/album/6Hvh4GrjdaKUQWkIpXmjnU) | 3:35 | 2026-04-23 |  |
@@ -108,6 +108,7 @@
 | [En Vandretur i Peru](https://open.spotify.com/track/08IL88yJTN613mf0G7IIiz) | [PATINA](https://open.spotify.com/artist/6SQ0yQG7sRlasn0yrSz7Gh) | [En Vandretur i Peru](https://open.spotify.com/album/7vL0hjoIGeOqDO2rWdz7YU) | 3:28 | 2025-04-10 | 2025-05-07 |
 | [Ender Altid Hos Dig](https://open.spotify.com/track/4Zp401EEGLDe557Jx7uaLv) | [Dos Santos](https://open.spotify.com/artist/5MCNh315T9Mi2yQTD4bYkn) | [4CANTOS](https://open.spotify.com/album/1QSx9yNnaglCCs2hMb3qBw) | 2:20 | 2025-10-23 |  |
 | [ENDORFINER](https://open.spotify.com/track/2HvqyWJEzmr51bWogSVIb2) | [USSEL](https://open.spotify.com/artist/13wADF4gMaMun7o6VzOzZp) | [ENDORFINER \(JEG VIL IKKE VIDE DU FINDES\)](https://open.spotify.com/album/2Hq70DHdUVp1Y5jsx4rGyg) | 3:08 | 2024-06-27 | 2024-09-19 |
+| [Errr](https://open.spotify.com/track/4ecSUTrx8xrIlwprm8bhwU) | [A Good Year](https://open.spotify.com/artist/30F8R1qAerw8VvYtRGGg0j), [Suisse air](https://open.spotify.com/artist/3aYP9prAwAH0eNSR4zMiZl) | [Errr](https://open.spotify.com/album/2y0oCsmZNt5cm9mxUvABFm) | 3:02 | 2026-05-02 |  |
 | [Et Sted på Vesterbro](https://open.spotify.com/track/1gWXpKhwYDqAT0Ct29NjdZ) | [Augusta Schackinger](https://open.spotify.com/artist/0A1gtg9Bzgv4Tlpn0D9IVm) | [Et Sted på Vesterbro](https://open.spotify.com/album/6b4gxg1zLkUbY68IrQgYRn) | 2:28 | 2025-03-13 |  |
 | [Falder I](https://open.spotify.com/track/4YtgUbrhVuBiGTemZ9BnO9) | [Dos Santos](https://open.spotify.com/artist/5MCNh315T9Mi2yQTD4bYkn) | [Falder I](https://open.spotify.com/album/2dWHihGERxkPBR1zLKv3yw) | 3:00 | 2024-08-09 | 2024-08-30 |
 | [Falling Behind](https://open.spotify.com/track/2PjPwiqoTs8RREFzR9e9Jz) | [Betty Bass](https://open.spotify.com/artist/0TwII45Qeh2MAqMjEIoQ8b) | [Falling Behind](https://open.spotify.com/album/0FIHlq0Hn44YivHaUJCBPH) | 3:14 | 2025-10-30 | 2025-11-20 |
@@ -175,6 +176,7 @@
 | [Hvis jeg ku'](https://open.spotify.com/track/74eJCVzPl499tMbiD8FpRM) | [Mona Moroni](https://open.spotify.com/artist/38PAFXQi0atIV2ztzlIdAS) | [Hvis jeg ku'](https://open.spotify.com/album/3kNHoFmsaqrnd0cPtlKM3c) | 3:49 | 2025-12-19 |  |
 | [Hvor er vi på vej hen?](https://open.spotify.com/track/5C1xmJdaIVhIMCwNHWXyS3) | [Asger](https://open.spotify.com/artist/63ROoz2PyporZ9RAkffc1d) | [Hvor er vi på vej hen?](https://open.spotify.com/album/7kbvhJjoQFj76Ii43ofUjd) | 2:41 | 2026-02-26 | 2026-03-06 |
 | [Hvor Skabet Skal Stå](https://open.spotify.com/track/1VtcllLThCZaQpTC0912PQ) | [Niko Blonde](https://open.spotify.com/artist/5SyUnGMUPI7fYGjwEB3jU5) | [Nimbus](https://open.spotify.com/album/583YsSUYDxrag3ipPEToiK) | 2:43 | 2025-10-16 | 2025-10-24 |
+| [Hvorfor skulle jeg vide det?](https://open.spotify.com/track/2PtVNvdWQDCVgmviVljEBr) | [KEDDE](https://open.spotify.com/artist/1Vh77WpgUBG9bYi1X0kMQZ), [Saint clara](https://open.spotify.com/artist/7c1rIwBQdZMoJD4VE9luoS) | [Hvorfor skulle jeg vide det?](https://open.spotify.com/album/360MgRzxQLYOT70TgyPyg4) | 2:15 | 2026-05-02 |  |
 | [Hvornår](https://open.spotify.com/track/0HrgO9iNsl46VdIGXxETYp) | [Tosomhed](https://open.spotify.com/artist/2FvINsykw40GeQeofZROi4) | [Hvornår](https://open.spotify.com/album/1yYJKSVjCg4A2e7y8Bbeem) | 3:06 | 2025-08-21 | 2025-08-29 |
 | [Hæng En Mand](https://open.spotify.com/track/2zvhn9ULZDvygD0tuGuo4W) | [Von Quar](https://open.spotify.com/artist/5B7f5pkLEMpnY20go77xX3) | [Hæng En Mand](https://open.spotify.com/album/2vH3tgHnpa3n8Vy8R45nEa) | 5:12 | 2025-10-02 |  |
 | [Højhus \(Hvor Går Vi Hen\)](https://open.spotify.com/track/2yGQDtB1DuJqFGrLKh6yrF) | [Statisk](https://open.spotify.com/artist/3iMPlKfT0MyTfFKht7LfgN) | [Højhus \(Hvor Går Vi Hen\)](https://open.spotify.com/album/1RpzwZgl2SKr1h5fvTbV50) | 3:11 | 2024-06-27 | 2025-02-07 |
@@ -186,7 +188,7 @@
 | [I'm The Man](https://open.spotify.com/track/57aE7FawyhBY7FFHtddVv8) | [Viktor Borges](https://open.spotify.com/artist/1PXoIxJE1PjbTkiCctfaWW) | [I'm The Man](https://open.spotify.com/album/6L0b9s2o7p1pmsAJLog89q) | 2:12 | 2025-03-13 | 2025-03-28 |
 | [Idiot](https://open.spotify.com/track/2kz6Tlbmx37JJmehWobN1x) | [Von Quar](https://open.spotify.com/artist/5B7f5pkLEMpnY20go77xX3) | [Kraftidiot](https://open.spotify.com/album/37jQgF1Jh6vaofnRFT8A82) | 2:45 | 2026-02-05 |  |
 | [If Eyes Could Kill \(BBYBITES x ELOQ\)](https://open.spotify.com/track/0x6muMyvn26GPjGu5fP6ju) | [BBYBITES](https://open.spotify.com/artist/3PZ4vwOarmd1QJil6kY3SW), [ELOQ](https://open.spotify.com/artist/36mHwYa65L0WZbAXY2iSGw) | [If Eyes Could Kill \(BBYBITES x ELOQ\)](https://open.spotify.com/album/26VlSymjHZe3tv6Lp6ymxT) | 2:10 | 2025-01-16 | 2025-04-09 |
-| [If I](https://open.spotify.com/track/1l0d4cUKLLafugiEUSyZdB) | [A Good Year](https://open.spotify.com/artist/30F8R1qAerw8VvYtRGGg0j), [Alba Akvama](https://open.spotify.com/artist/0aOHcQWEx7wsZg277ZOcGe) | [If I](https://open.spotify.com/album/5rdeXSZ2oLrt4DoKXAxnzo) | 2:56 | 2026-03-05 |  |
+| [If I](https://open.spotify.com/track/1l0d4cUKLLafugiEUSyZdB) | [A Good Year](https://open.spotify.com/artist/30F8R1qAerw8VvYtRGGg0j), [Alba Akvama](https://open.spotify.com/artist/0aOHcQWEx7wsZg277ZOcGe) | [If I](https://open.spotify.com/album/5rdeXSZ2oLrt4DoKXAxnzo) | 2:56 | 2026-03-05 | 2026-05-05 |
 | [Ik Er Her.](https://open.spotify.com/track/0TzGNfAXYBWpbo5YqCchM2) | [FRSLV](https://open.spotify.com/artist/7eFy8x4GPEMGr2iwf52ejZ) | [Det Frslv.](https://open.spotify.com/album/4qOSab4b42c9RoSWIxRxSr) | 2:16 | 2025-10-30 | 2025-11-14 |
 | [Ik Tænk Twice](https://open.spotify.com/track/6yjI0tbfhbqv8qMP9diEin) | [Bette](https://open.spotify.com/artist/4gepV1NXit1T15YxX0Bv27) | [Ik Tænk Twice](https://open.spotify.com/album/5nZTkrieTKTclZw5IhpZw5) | 2:53 | 2025-06-05 | 2025-09-26 |
 | [Ildfluer](https://open.spotify.com/track/44AFri447xop1t5EblgHbE) | [First Flush](https://open.spotify.com/artist/3rdxGMdJ33uN89az9Hm9cj) | [Ildfluer](https://open.spotify.com/album/7IqD3qu5GyL4r4diTeUTpj) | 3:32 | 2024-09-19 | 2024-10-11 |

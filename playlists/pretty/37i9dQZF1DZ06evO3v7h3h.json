@@ -1,12 +1,12 @@
 {
   "description": "This is Rashid. The essential tracks, all in one playlist.",
-  "num_followers": 46002,
+  "num_followers": 46003,
   "original_name": "This Is Rashid",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afU+gAAAAAD8WhpwEoBD4/GTuA6lGqoo",
+  "snapshot_id": "afaQAAAAAACY29enmttwlKYkqXw8krrt",
   "tracks": [
     {
       "added_at": null,
@@ -315,6 +315,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Conversas Que Nunca Tivemos",
+        "url": "https://open.spotify.com/album/1MLyVrnXygy0ObhQyvAg90"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        }
+      ],
+      "duration_ms": 283469,
+      "name": "Conversas Que Nunca Tivemos",
+      "url": "https://open.spotify.com/track/2Dh5TVjbQc6jb1swFQ7dLr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Crise",
         "url": "https://open.spotify.com/album/5gtoxo8VoETM0EhENX6k91"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 255914,
       "name": "Se Tudo Der Errado Amanh\u00e3 (feat. Ellen Ol\u00e9ria)",
       "url": "https://open.spotify.com/track/2COHyMe84ZLbkZRXt4MUK7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Conversas Que Nunca Tivemos",
-        "url": "https://open.spotify.com/album/1MLyVrnXygy0ObhQyvAg90"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        }
-      ],
-      "duration_ms": 283469,
-      "name": "Conversas Que Nunca Tivemos",
-      "url": "https://open.spotify.com/track/2Dh5TVjbQc6jb1swFQ7dLr"
     },
     {
       "added_at": null,
@@ -727,6 +727,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fiquei assim",
+        "url": "https://open.spotify.com/album/6lwP5k0KjFzM2Rk1sIdCfN"
+      },
+      "artists": [
+        {
+          "name": "THAMI",
+          "url": "https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL"
+        },
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        }
+      ],
+      "duration_ms": 218662,
+      "name": "Fiquei assim",
+      "url": "https://open.spotify.com/track/4F9xeQ3OJF2DOtdZdcCxnz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Meu Sol",
         "url": "https://open.spotify.com/album/2C0wXtAfYl7xeW1bCOzVee"
       },
@@ -767,26 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fiquei assim",
-        "url": "https://open.spotify.com/album/6lwP5k0KjFzM2Rk1sIdCfN"
-      },
-      "artists": [
-        {
-          "name": "THAMI",
-          "url": "https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL"
-        },
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        }
-      ],
-      "duration_ms": 218662,
-      "name": "Fiquei assim",
-      "url": "https://open.spotify.com/track/4F9xeQ3OJF2DOtdZdcCxnz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Portal",
         "url": "https://open.spotify.com/album/6N08e31kV1LFzuBJ7UIzZx"
       },
@@ -807,6 +807,26 @@
       "duration_ms": 184445,
       "name": "Sem Norte",
       "url": "https://open.spotify.com/track/76oZnQuNBeUOZulyZpKZD5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "At\u00e9 O Amanhecer",
+        "url": "https://open.spotify.com/album/3zSLT2ErzzistZs3ij9wce"
+      },
+      "artists": [
+        {
+          "name": "Lucas e Orelha",
+          "url": "https://open.spotify.com/artist/1hX5P2lkCP3LrzVRlJmQX8"
+        },
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        }
+      ],
+      "duration_ms": 179818,
+      "name": "At\u00e9 O Amanhecer",
+      "url": "https://open.spotify.com/track/1oeFF7vzI6vqdX35mj6JAl"
     },
     {
       "added_at": null,
@@ -839,26 +859,6 @@
       "duration_ms": 243400,
       "name": "Porque Eu Rimo",
       "url": "https://open.spotify.com/track/25xKAsnTAkwYSe2beEw3ns"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "At\u00e9 O Amanhecer",
-        "url": "https://open.spotify.com/album/3zSLT2ErzzistZs3ij9wce"
-      },
-      "artists": [
-        {
-          "name": "Lucas e Orelha",
-          "url": "https://open.spotify.com/artist/1hX5P2lkCP3LrzVRlJmQX8"
-        },
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        }
-      ],
-      "duration_ms": 179818,
-      "name": "At\u00e9 O Amanhecer",
-      "url": "https://open.spotify.com/track/1oeFF7vzI6vqdX35mj6JAl"
     },
     {
       "added_at": null,
@@ -911,30 +911,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Planos Pra N\u00f3s",
-        "url": "https://open.spotify.com/album/5oGkjDXvk1QGMFORSBdN0B"
-      },
-      "artists": [
-        {
-          "name": "Duda Raupp",
-          "url": "https://open.spotify.com/artist/1TblNIhFNuu2fTJbTp6rDp"
-        },
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "IVYSON",
-          "url": "https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu"
-        }
-      ],
-      "duration_ms": 245500,
-      "name": "Planos Pra N\u00f3s",
-      "url": "https://open.spotify.com/track/0NhGVKzZikTQGbuQR5996s"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Coragem da Luz",
         "url": "https://open.spotify.com/album/29zjQC9qL5BEBd9gecQeHl"
       },
@@ -955,6 +931,30 @@
       "duration_ms": 211301,
       "name": "Ruaterapia (feat. Mano Brown & Max De Castro)",
       "url": "https://open.spotify.com/track/2ZGZ0fvF2TmYWWxsUmxcui"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Planos Pra N\u00f3s",
+        "url": "https://open.spotify.com/album/5oGkjDXvk1QGMFORSBdN0B"
+      },
+      "artists": [
+        {
+          "name": "Duda Raupp",
+          "url": "https://open.spotify.com/artist/1TblNIhFNuu2fTJbTp6rDp"
+        },
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "IVYSON",
+          "url": "https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu"
+        }
+      ],
+      "duration_ms": 245500,
+      "name": "Planos Pra N\u00f3s",
+      "url": "https://open.spotify.com/track/0NhGVKzZikTQGbuQR5996s"
     },
     {
       "added_at": null,
@@ -1015,6 +1015,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gratid\u00e3o",
+        "url": "https://open.spotify.com/album/74bFWd3N2kKb76W7unhGg0"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        }
+      ],
+      "duration_ms": 214612,
+      "name": "Gratid\u00e3o",
+      "url": "https://open.spotify.com/track/7KS9hVnDI7CUf9E7KxbXPI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Milenar Arte De Meter O Louco",
         "url": "https://open.spotify.com/album/2TsL9NFMTknpXO7P962oyj"
       },
@@ -1035,22 +1051,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gratid\u00e3o",
-        "url": "https://open.spotify.com/album/74bFWd3N2kKb76W7unhGg0"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        }
-      ],
-      "duration_ms": 214612,
-      "name": "Gratid\u00e3o",
-      "url": "https://open.spotify.com/track/7KS9hVnDI7CUf9E7KxbXPI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Confundindo S\u00e1bios",
         "url": "https://open.spotify.com/album/73vP5dotg2gtDXVl1VoLYU"
       },
@@ -1063,6 +1063,30 @@
       "duration_ms": 206982,
       "name": "A Fila Anda",
       "url": "https://open.spotify.com/track/0LewYp7T0K8wpkPBprMpEK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quem Vai Ser?",
+        "url": "https://open.spotify.com/album/2NP2vLsbMBD6fcFWkb3lsz"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00edlia Lopes",
+          "url": "https://open.spotify.com/artist/2TGcXvWmLlIaFMuYWoys1U"
+        },
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "CANETARIA",
+          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
+        }
+      ],
+      "duration_ms": 157918,
+      "name": "Quem Vai Ser?",
+      "url": "https://open.spotify.com/track/3b3TgmrEVvWEQ3VCTbz95m"
     },
     {
       "added_at": null,
@@ -1107,30 +1131,6 @@
       "duration_ms": 219360,
       "name": "Quem Sou",
       "url": "https://open.spotify.com/track/0XevUDqotTLOl7KNdZzjbk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Quem Vai Ser?",
-        "url": "https://open.spotify.com/album/2NP2vLsbMBD6fcFWkb3lsz"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00edlia Lopes",
-          "url": "https://open.spotify.com/artist/2TGcXvWmLlIaFMuYWoys1U"
-        },
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "CANETARIA",
-          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
-        }
-      ],
-      "duration_ms": 157918,
-      "name": "Quem Vai Ser?",
-      "url": "https://open.spotify.com/track/3b3TgmrEVvWEQ3VCTbz95m"
     },
     {
       "added_at": null,

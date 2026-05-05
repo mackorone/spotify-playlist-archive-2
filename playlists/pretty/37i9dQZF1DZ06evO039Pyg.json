@@ -1,12 +1,12 @@
 {
   "description": "This is Kehlani. The essential tracks, all in one playlist.",
-  "num_followers": 334406,
+  "num_followers": 334452,
   "original_name": "This Is Kehlani",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afU+gAAAAADHlXexNyeEzfTR6+zQC5xc",
+  "snapshot_id": "afaQAAAAAAC/ygCtjFeHgWr/I3Jhxjs7",
   "tracks": [
     {
       "added_at": null,
@@ -400,13 +400,33 @@
           "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
         },
         {
-          "name": "Clipse",
-          "url": "https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2"
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
         }
       ],
-      "duration_ms": 220478,
-      "name": "No Such Thing (feat. Clipse)",
-      "url": "https://open.spotify.com/track/4juXNV2tlVXBmqlDjraYcm"
+      "duration_ms": 241927,
+      "name": "Anotha Luva (feat. Lil Wayne)",
+      "url": "https://open.spotify.com/track/1LCiGi699HYk4nznLRQovN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Midnight Sun: Girls Trip",
+        "url": "https://open.spotify.com/album/4WMcRlbt7NvpKrrqO8ykQf"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 192723,
+      "name": "Blue Moon - Girls Trip",
+      "url": "https://open.spotify.com/track/7pVos5ARWPPoss91LDu9Hx"
     },
     {
       "added_at": null,
@@ -423,22 +443,6 @@
       "duration_ms": 235693,
       "name": "Distraction",
       "url": "https://open.spotify.com/track/2wSQyp6VzUopSFBinRo1iD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "blue water road",
-        "url": "https://open.spotify.com/album/2WfV3cpI2BUuIxMISh9nqF"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 207551,
-      "name": "everything",
-      "url": "https://open.spotify.com/track/6pyM30WDpG70VTfwoQg4m2"
     },
     {
       "added_at": null,
@@ -468,13 +472,29 @@
           "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
         },
         {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+          "name": "Clipse",
+          "url": "https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2"
         }
       ],
-      "duration_ms": 241927,
-      "name": "Anotha Luva (feat. Lil Wayne)",
-      "url": "https://open.spotify.com/track/1LCiGi699HYk4nznLRQovN"
+      "duration_ms": 220478,
+      "name": "No Such Thing (feat. Clipse)",
+      "url": "https://open.spotify.com/track/4juXNV2tlVXBmqlDjraYcm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "blue water road",
+        "url": "https://open.spotify.com/album/2WfV3cpI2BUuIxMISh9nqF"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 207551,
+      "name": "everything",
+      "url": "https://open.spotify.com/track/6pyM30WDpG70VTfwoQg4m2"
     },
     {
       "added_at": null,
@@ -495,26 +515,6 @@
       "duration_ms": 179974,
       "name": "KEHLANI (REMIX) [feat. Kehlani]",
       "url": "https://open.spotify.com/track/4rugSJgsPQ1KlbWYZnoEsa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Midnight Sun: Girls Trip",
-        "url": "https://open.spotify.com/album/4WMcRlbt7NvpKrrqO8ykQf"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 192723,
-      "name": "Blue Moon - Girls Trip",
-      "url": "https://open.spotify.com/track/7pVos5ARWPPoss91LDu9Hx"
     },
     {
       "added_at": null,

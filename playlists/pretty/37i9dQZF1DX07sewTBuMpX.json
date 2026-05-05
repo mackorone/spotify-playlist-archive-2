@@ -1,6 +1,6 @@
 {
   "description": "De beste tunes op repeat. Cover: CHO",
-  "num_followers": 141141,
+  "num_followers": 141140,
   "original_name": "Pull Up Hits",
   "owner": {
     "name": "Spotify",
@@ -631,6 +631,30 @@
     {
       "added_at": "2026-04-02 22:02:08",
       "album": {
+        "name": "Ben Met SRNO",
+        "url": "https://open.spotify.com/album/5b77xXOGpcgfaoHvsGVbOs"
+      },
+      "artists": [
+        {
+          "name": "Mensa",
+          "url": "https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC"
+        },
+        {
+          "name": "SRNO",
+          "url": "https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q"
+        },
+        {
+          "name": "Dopebwoy",
+          "url": "https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr"
+        }
+      ],
+      "duration_ms": 150822,
+      "name": "Ben Met SRNO",
+      "url": "https://open.spotify.com/track/75gHd5DLUJraDEGuQukMsK"
+    },
+    {
+      "added_at": "2026-04-02 22:02:08",
+      "album": {
         "name": "LOCO",
         "url": "https://open.spotify.com/album/5ym9a0EgZNubqWMQXI9cha"
       },
@@ -667,30 +691,6 @@
       "duration_ms": 147116,
       "name": "Niet Genoeg (feat. Idaly)",
       "url": "https://open.spotify.com/track/5NNcU38EVLajKZbYydu6tR"
-    },
-    {
-      "added_at": "2026-04-02 22:02:08",
-      "album": {
-        "name": "Ben Met SRNO",
-        "url": "https://open.spotify.com/album/5b77xXOGpcgfaoHvsGVbOs"
-      },
-      "artists": [
-        {
-          "name": "Mensa",
-          "url": "https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC"
-        },
-        {
-          "name": "SRNO",
-          "url": "https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q"
-        },
-        {
-          "name": "Dopebwoy",
-          "url": "https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr"
-        }
-      ],
-      "duration_ms": 150822,
-      "name": "Ben Met SRNO",
-      "url": "https://open.spotify.com/track/75gHd5DLUJraDEGuQukMsK"
     },
     {
       "added_at": "2026-04-02 22:02:08",
@@ -883,6 +883,22 @@
     {
       "added_at": "2026-04-02 22:02:08",
       "album": {
+        "name": "Luv Again",
+        "url": "https://open.spotify.com/album/1BmGUnyQvlpEQaaUe47NJv"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        }
+      ],
+      "duration_ms": 220606,
+      "name": "Luv Again",
+      "url": "https://open.spotify.com/track/0BlBcMUDVI68fwwNGulSGM"
+    },
+    {
+      "added_at": "2026-04-02 22:02:08",
+      "album": {
         "name": "De Ene Hand Wast De Ander",
         "url": "https://open.spotify.com/album/1JZOSXy4Fjjh5bo9FOcTBX"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 182352,
       "name": "Waterkant",
       "url": "https://open.spotify.com/track/7oogv7kVuYNY7hzUZyOpD6"
-    },
-    {
-      "added_at": "2026-04-02 22:02:08",
-      "album": {
-        "name": "Luv Again",
-        "url": "https://open.spotify.com/album/1BmGUnyQvlpEQaaUe47NJv"
-      },
-      "artists": [
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        }
-      ],
-      "duration_ms": 220606,
-      "name": "Luv Again",
-      "url": "https://open.spotify.com/track/0BlBcMUDVI68fwwNGulSGM"
     },
     {
       "added_at": "2026-04-02 22:02:08",
@@ -939,30 +939,46 @@
     {
       "added_at": "2026-04-02 22:02:08",
       "album": {
-        "name": "Festival",
-        "url": "https://open.spotify.com/album/4oxdUH6eGKuQWF2H4vcHF5"
+        "name": "Carrousel",
+        "url": "https://open.spotify.com/album/7yTJXbUMRfyHnkRqoXtkLt"
       },
       "artists": [
         {
-          "name": "Yssi SB",
-          "url": "https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8"
+          "name": "Jinho 9",
+          "url": "https://open.spotify.com/artist/3gPtUdMiLkJgmQIxFpEhAk"
         },
         {
-          "name": "Diquenza",
-          "url": "https://open.spotify.com/artist/3DIhZ8xOvMa1KpXPV6BZXV"
+          "name": "KATNUF",
+          "url": "https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo"
         },
         {
-          "name": "Henkie T",
-          "url": "https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El"
-        },
-        {
-          "name": "Dopebwoy",
-          "url": "https://open.spotify.com/artist/3kw9wqwYyvRCI6Q2rqsfNS"
+          "name": "JayKoppig",
+          "url": "https://open.spotify.com/artist/6uQiTAaIF0UBTED52UMcZp"
         }
       ],
-      "duration_ms": 146778,
-      "name": "Festival",
-      "url": "https://open.spotify.com/track/7Jvfgj6mmATe6hq7dSdseM"
+      "duration_ms": 130546,
+      "name": "Carrousel",
+      "url": "https://open.spotify.com/track/3L5rczaS3ZiXepUbTIvHAp"
+    },
+    {
+      "added_at": "2026-04-02 22:02:08",
+      "album": {
+        "name": "Broski\u2019s",
+        "url": "https://open.spotify.com/album/6QQveJTy0ZAbqBMTYwpS3V"
+      },
+      "artists": [
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        },
+        {
+          "name": "Mula B",
+          "url": "https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi"
+        }
+      ],
+      "duration_ms": 179346,
+      "name": "Broski\u2019s",
+      "url": "https://open.spotify.com/track/3D0wRuJbUqjoLdeXEYc5E3"
     },
     {
       "added_at": "2026-04-02 22:02:08",
@@ -991,46 +1007,30 @@
     {
       "added_at": "2026-04-02 22:02:08",
       "album": {
-        "name": "Broski\u2019s",
-        "url": "https://open.spotify.com/album/6QQveJTy0ZAbqBMTYwpS3V"
+        "name": "Festival",
+        "url": "https://open.spotify.com/album/4oxdUH6eGKuQWF2H4vcHF5"
       },
       "artists": [
         {
-          "name": "Frenna",
-          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+          "name": "Yssi SB",
+          "url": "https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8"
         },
         {
-          "name": "Mula B",
-          "url": "https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi"
+          "name": "Diquenza",
+          "url": "https://open.spotify.com/artist/3DIhZ8xOvMa1KpXPV6BZXV"
+        },
+        {
+          "name": "Henkie T",
+          "url": "https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El"
+        },
+        {
+          "name": "Dopebwoy",
+          "url": "https://open.spotify.com/artist/3kw9wqwYyvRCI6Q2rqsfNS"
         }
       ],
-      "duration_ms": 179346,
-      "name": "Broski\u2019s",
-      "url": "https://open.spotify.com/track/3D0wRuJbUqjoLdeXEYc5E3"
-    },
-    {
-      "added_at": "2026-04-02 22:02:08",
-      "album": {
-        "name": "Carrousel",
-        "url": "https://open.spotify.com/album/7yTJXbUMRfyHnkRqoXtkLt"
-      },
-      "artists": [
-        {
-          "name": "Jinho 9",
-          "url": "https://open.spotify.com/artist/3gPtUdMiLkJgmQIxFpEhAk"
-        },
-        {
-          "name": "KATNUF",
-          "url": "https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo"
-        },
-        {
-          "name": "JayKoppig",
-          "url": "https://open.spotify.com/artist/6uQiTAaIF0UBTED52UMcZp"
-        }
-      ],
-      "duration_ms": 130546,
-      "name": "Carrousel",
-      "url": "https://open.spotify.com/track/3L5rczaS3ZiXepUbTIvHAp"
+      "duration_ms": 146778,
+      "name": "Festival",
+      "url": "https://open.spotify.com/track/7Jvfgj6mmATe6hq7dSdseM"
     },
     {
       "added_at": "2026-04-02 22:02:08",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2026-04-02 22:02:08",
       "album": {
+        "name": "Tuesday",
+        "url": "https://open.spotify.com/album/0QvhqTigV3PbcHT93q3Sfn"
+      },
+      "artists": [
+        {
+          "name": "Jonna Fraser",
+          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
+        }
+      ],
+      "duration_ms": 174433,
+      "name": "Tuesday",
+      "url": "https://open.spotify.com/track/7zPOZujiZy4q0RYIx7mKKh"
+    },
+    {
+      "added_at": "2026-04-02 22:02:08",
+      "album": {
         "name": "February Stories",
         "url": "https://open.spotify.com/album/3hkRbcvcmfrj1fWrBe2oY3"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 143346,
       "name": "February Stories",
       "url": "https://open.spotify.com/track/5RpEwmsV97REIDvj3rVPJ9"
-    },
-    {
-      "added_at": "2026-04-02 22:02:08",
-      "album": {
-        "name": "Tuesday",
-        "url": "https://open.spotify.com/album/0QvhqTigV3PbcHT93q3Sfn"
-      },
-      "artists": [
-        {
-          "name": "Jonna Fraser",
-          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
-        }
-      ],
-      "duration_ms": 174433,
-      "name": "Tuesday",
-      "url": "https://open.spotify.com/track/7zPOZujiZy4q0RYIx7mKKh"
     },
     {
       "added_at": "2026-04-02 22:02:08",
@@ -1215,26 +1215,6 @@
     {
       "added_at": "2026-04-02 22:02:08",
       "album": {
-        "name": "Voorzichtig",
-        "url": "https://open.spotify.com/album/6EvtZrcitziggFFbxyAcqM"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00eb Tauran",
-          "url": "https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi"
-        },
-        {
-          "name": "Idaly",
-          "url": "https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM"
-        }
-      ],
-      "duration_ms": 143015,
-      "name": "Voorzichtig",
-      "url": "https://open.spotify.com/track/5D50iIozof7VABnwls2H13"
-    },
-    {
-      "added_at": "2026-04-02 22:02:08",
-      "album": {
         "name": "Don Julio Daddy",
         "url": "https://open.spotify.com/album/5vUg7yoxgbQKBNt2FLtKJH"
       },
@@ -1251,6 +1231,26 @@
       "duration_ms": 176518,
       "name": "Don Julio Daddy",
       "url": "https://open.spotify.com/track/29OyY2QfQnTP9KgdAmNviU"
+    },
+    {
+      "added_at": "2026-04-02 22:02:08",
+      "album": {
+        "name": "Voorzichtig",
+        "url": "https://open.spotify.com/album/6EvtZrcitziggFFbxyAcqM"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00eb Tauran",
+          "url": "https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi"
+        },
+        {
+          "name": "Idaly",
+          "url": "https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM"
+        }
+      ],
+      "duration_ms": 143015,
+      "name": "Voorzichtig",
+      "url": "https://open.spotify.com/track/5D50iIozof7VABnwls2H13"
     },
     {
       "added_at": "2026-04-02 22:02:08",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2026-04-02 22:02:08",
       "album": {
-        "name": "Update",
-        "url": "https://open.spotify.com/album/2HX58CDc9At5raER932yCf"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 207865,
-      "name": "Update",
-      "url": "https://open.spotify.com/track/7Lgy23A9cl92VD0fNC0LiG"
-    },
-    {
-      "added_at": "2026-04-02 22:02:08",
-      "album": {
         "name": "I Need Your Love",
         "url": "https://open.spotify.com/album/2OKk9baUzD5hvaQ9JxlEZ0"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 163760,
       "name": "I Need Your Love",
       "url": "https://open.spotify.com/track/2fnhMzGEEPKvFtExQ3FMMo"
+    },
+    {
+      "added_at": "2026-04-02 22:02:08",
+      "album": {
+        "name": "Update",
+        "url": "https://open.spotify.com/album/2HX58CDc9At5raER932yCf"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 207865,
+      "name": "Update",
+      "url": "https://open.spotify.com/track/7Lgy23A9cl92VD0fNC0LiG"
     },
     {
       "added_at": "2026-04-02 22:02:08",
@@ -1515,22 +1515,26 @@
     {
       "added_at": "2026-04-02 22:02:08",
       "album": {
-        "name": "Stemgeluid",
-        "url": "https://open.spotify.com/album/31q5PSjc9lvGbg6glT3dsk"
+        "name": "Noncha",
+        "url": "https://open.spotify.com/album/24JYo2Oexp5FVyvSpFVWNQ"
       },
       "artists": [
         {
-          "name": "Vlins",
-          "url": "https://open.spotify.com/artist/3qV1LDx1ZWWJVdnLuVXAB5"
+          "name": "Dubbel R",
+          "url": "https://open.spotify.com/artist/2k7e8KVpfI8vSlhhC2quhR"
         },
         {
-          "name": "Laura Yasmin",
-          "url": "https://open.spotify.com/artist/2ifdw2Mu8P2fCey9VLhuu2"
+          "name": "Jinho 9",
+          "url": "https://open.spotify.com/artist/3gPtUdMiLkJgmQIxFpEhAk"
+        },
+        {
+          "name": "GEM-Z",
+          "url": "https://open.spotify.com/artist/3P7ZxTeZ8t4ZfWNxQOyYfp"
         }
       ],
-      "duration_ms": 175263,
-      "name": "Stemgeluid",
-      "url": "https://open.spotify.com/track/1HFFfvXM13DA5hYt6SjhZj"
+      "duration_ms": 198750,
+      "name": "Noncha",
+      "url": "https://open.spotify.com/track/0eAi8M0qEFxa9EfCAuemKk"
     },
     {
       "added_at": "2026-04-02 22:02:08",
@@ -1559,30 +1563,6 @@
     {
       "added_at": "2026-04-02 22:02:08",
       "album": {
-        "name": "Noncha",
-        "url": "https://open.spotify.com/album/24JYo2Oexp5FVyvSpFVWNQ"
-      },
-      "artists": [
-        {
-          "name": "Dubbel R",
-          "url": "https://open.spotify.com/artist/2k7e8KVpfI8vSlhhC2quhR"
-        },
-        {
-          "name": "Jinho 9",
-          "url": "https://open.spotify.com/artist/3gPtUdMiLkJgmQIxFpEhAk"
-        },
-        {
-          "name": "GEM-Z",
-          "url": "https://open.spotify.com/artist/3P7ZxTeZ8t4ZfWNxQOyYfp"
-        }
-      ],
-      "duration_ms": 198750,
-      "name": "Noncha",
-      "url": "https://open.spotify.com/track/0eAi8M0qEFxa9EfCAuemKk"
-    },
-    {
-      "added_at": "2026-04-02 22:02:08",
-      "album": {
         "name": "PAPARAZZI",
         "url": "https://open.spotify.com/album/0rJk1wo346iln3FupbnF3b"
       },
@@ -1595,6 +1575,26 @@
       "duration_ms": 147641,
       "name": "PAPARAZZI",
       "url": "https://open.spotify.com/track/7eVAdBJEHMk25YKKFftmJt"
+    },
+    {
+      "added_at": "2026-04-02 22:02:08",
+      "album": {
+        "name": "Stemgeluid",
+        "url": "https://open.spotify.com/album/31q5PSjc9lvGbg6glT3dsk"
+      },
+      "artists": [
+        {
+          "name": "Vlins",
+          "url": "https://open.spotify.com/artist/3qV1LDx1ZWWJVdnLuVXAB5"
+        },
+        {
+          "name": "Laura Yasmin",
+          "url": "https://open.spotify.com/artist/2ifdw2Mu8P2fCey9VLhuu2"
+        }
+      ],
+      "duration_ms": 175263,
+      "name": "Stemgeluid",
+      "url": "https://open.spotify.com/track/1HFFfvXM13DA5hYt6SjhZj"
     },
     {
       "added_at": "2026-04-02 22:02:08",

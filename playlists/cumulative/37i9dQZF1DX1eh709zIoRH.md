@@ -4,7 +4,7 @@
 
 > Certified hits\. Cover: Ceebo
 
-89 songs - 4 hr 18 min
+90 songs - 4 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [No Comment](https://open.spotify.com/track/16YfvpZgzzdxzrulTpIwvB) | [Fredo](https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z) | [No Comment](https://open.spotify.com/album/7lJucfUoSX4vCCDAa0Nyss) | 3:02 | 2025-10-10 |  |
 | [Not Like Us](https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Not Like Us](https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ) | 4:34 | 2025-10-10 |  |
 | [née\-nah](https://open.spotify.com/track/2yUzr8Sr6ldG8vmHhZwTnz) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 3:40 | 2025-10-10 |  |
-| [Ololufe \(feat\. Wande Coal\)](https://open.spotify.com/track/0x3sDnom0itB72oEVrRE7v) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [S2](https://open.spotify.com/album/24bAAFr3dK2TMVMaCZWMJM) | 3:30 | 2025-11-14 |  |
+| [Ololufe \(feat\. Wande Coal\)](https://open.spotify.com/track/0x3sDnom0itB72oEVrRE7v) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [S2](https://open.spotify.com/album/24bAAFr3dK2TMVMaCZWMJM) | 3:30 | 2025-11-14 | 2026-05-05 |
 | [ONE CALL](https://open.spotify.com/track/69phA1R4gmQsBFRQ3INW8C) | [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd) | [Ghetto Fabulous](https://open.spotify.com/album/2D1j7mjB55lvygjMmYgTYT) | 2:01 | 2025-10-10 |  |
 | [one of wun](https://open.spotify.com/track/4Na2HfNSr58chvfX69fy36) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [One of Wun](https://open.spotify.com/album/7g0PJ7VbsOkYTECUFkyNPN) | 2:24 | 2025-10-10 |  |
 | [Peggy](https://open.spotify.com/track/6UPiTNzNmUFE59YkkyCs9n) | [Ceechynaa](https://open.spotify.com/artist/0K71lFgGGmekeFSUrWaRhg) | [Peggy](https://open.spotify.com/album/6sDFqQIVuSySxkc1F0tWCR) | 2:39 | 2025-10-10 |  |
@@ -83,6 +83,7 @@
 | [Rock Bottom](https://open.spotify.com/track/6zJi62orFGAdxyqiYIt2L7) | [Kidwild](https://open.spotify.com/artist/5IR3SxDdtCCw6KD1aoF6w9) | [Rock Bottom](https://open.spotify.com/album/3zMteQdj1SgctkfEoFKPKN) | 1:40 | 2025-10-10 |  |
 | [Slimed In](https://open.spotify.com/track/2GLWhy9iiO1wrLUF5l4FtJ) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [WE DON'T TRUST YOU](https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn) | 3:14 | 2025-10-10 |  |
 | [Summertime](https://open.spotify.com/track/2uMkradY7AwoycLaupIpNP) | [SL](https://open.spotify.com/artist/0wY1K9SgxbaRfoFRmSR5x5), [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa), [Sainté](https://open.spotify.com/artist/3DEdNjxF3ea9taOMCXouZ6) | [Summertime](https://open.spotify.com/album/2Ne4WxL1YgJMf6r16br4mk) | 1:49 | 2025-10-10 |  |
+| [Suns Out](https://open.spotify.com/track/6qb9tjy50uyJwHyB6yb7QW) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [Suns Out](https://open.spotify.com/album/7t2XVkWXu069lM8qaGghXy) | 2:31 | 2025-11-14 |  |
 | [the gospel \(as according to tony blair\)](https://open.spotify.com/track/0cH4xuc2UOGWg2wpTxj77y) | [Ceebo](https://open.spotify.com/artist/4wtelmF043mIcSEjNs7wWB) | [blair babies](https://open.spotify.com/album/5o7UOnKJFoPn38FPH4HNZL) | 3:31 | 2025-11-14 |  |
 | [This My Life \(with Lil Tecca, The Kid LAROI & Lil Skies\)](https://open.spotify.com/track/5CT3zRd2FKM7F81KEacXIP) | [Lyrical Lemonade](https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Lil Skies](https://open.spotify.com/artist/7d3WFRME3vBY2cgoP38RDo) | [All Is Yellow](https://open.spotify.com/album/4NGIX0BP6xxRaGh64hhJhe) | 2:49 | 2025-10-10 |  |
 | [TILL L4TE \(feat\. Pozer\)](https://open.spotify.com/track/4mw07NphEKSc0ZnamviJZ0) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF), [Pozer](https://open.spotify.com/artist/438fi8qqvXNEPoUrYLIO7J) | [4](https://open.spotify.com/album/7IYdKvQYX8lzDPKKwldfkW) | 2:08 | 2025-11-14 | 2026-01-05 |

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Vive la salsa de los '80! El Gran Combo de Puerto Rico en portada.",
-  "num_followers": 274805,
+  "num_followers": 274863,
   "original_name": "Salsa: Los '80",
   "owner": {
     "name": "Spotify",
@@ -511,6 +511,22 @@
     {
       "added_at": "2024-07-11 00:51:42",
       "album": {
+        "name": "Nuestra Musica",
+        "url": "https://open.spotify.com/album/2qsUMz7N4aGYk0ObNbKqCE"
+      },
+      "artists": [
+        {
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+        }
+      ],
+      "duration_ms": 268106,
+      "name": "No Hay Cama Pa' Tanta Gente",
+      "url": "https://open.spotify.com/track/6InAsgddPjAcuF7mSHDT8K"
+    },
+    {
+      "added_at": "2024-07-11 00:51:42",
+      "album": {
         "name": "Doble Energ\u00eda",
         "url": "https://open.spotify.com/album/1t9CWp3ykgHF83aO4uYYmU"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 412106,
       "name": "No Me Digan Que Es Muy Tarde",
       "url": "https://open.spotify.com/track/5kiRyGmKOdmc2SyD3JqcSI"
-    },
-    {
-      "added_at": "2024-07-11 00:51:42",
-      "album": {
-        "name": "Nuestra Musica",
-        "url": "https://open.spotify.com/album/2qsUMz7N4aGYk0ObNbKqCE"
-      },
-      "artists": [
-        {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
-        }
-      ],
-      "duration_ms": 268106,
-      "name": "No Hay Cama Pa' Tanta Gente",
-      "url": "https://open.spotify.com/track/6InAsgddPjAcuF7mSHDT8K"
     },
     {
       "added_at": "2024-07-11 00:51:42",
@@ -579,26 +579,6 @@
     {
       "added_at": "2024-07-11 00:51:42",
       "album": {
-        "name": "Bambol\u00e9o",
-        "url": "https://open.spotify.com/album/10FXtMH6uOwaTMFs9bpmY2"
-      },
-      "artists": [
-        {
-          "name": "Fania All Stars",
-          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
-        },
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 391320,
-      "name": "Siento",
-      "url": "https://open.spotify.com/track/2El808Nt5lh2gI1H0Vd08T"
-    },
-    {
-      "added_at": "2024-07-11 00:51:42",
-      "album": {
         "name": "Coleccion de Oro",
         "url": "https://open.spotify.com/album/6eK3n2MpVdKqhIOnH9BCe5"
       },
@@ -627,6 +607,26 @@
       "duration_ms": 247186,
       "name": "Te Regalo el Corazon",
       "url": "https://open.spotify.com/track/6aUDFm5EBgpKJnzzIosTla"
+    },
+    {
+      "added_at": "2024-07-11 00:51:42",
+      "album": {
+        "name": "Bambol\u00e9o",
+        "url": "https://open.spotify.com/album/10FXtMH6uOwaTMFs9bpmY2"
+      },
+      "artists": [
+        {
+          "name": "Fania All Stars",
+          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 391320,
+      "name": "Siento",
+      "url": "https://open.spotify.com/track/2El808Nt5lh2gI1H0Vd08T"
     },
     {
       "added_at": "2024-07-11 00:51:42",
@@ -663,26 +663,6 @@
     {
       "added_at": "2024-07-11 00:51:42",
       "album": {
-        "name": "Bambol\u00e9o",
-        "url": "https://open.spotify.com/album/10FXtMH6uOwaTMFs9bpmY2"
-      },
-      "artists": [
-        {
-          "name": "Fania All Stars",
-          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
-        },
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 327466,
-      "name": "Bambol\u00e9o",
-      "url": "https://open.spotify.com/track/4Gu8MRCmbJbX2sGueXipVg"
-    },
-    {
-      "added_at": "2024-07-11 00:51:42",
-      "album": {
         "name": "Coleccion de Oro",
         "url": "https://open.spotify.com/album/6eK3n2MpVdKqhIOnH9BCe5"
       },
@@ -711,6 +691,26 @@
       "duration_ms": 336160,
       "name": "Aventura",
       "url": "https://open.spotify.com/track/7fjMKxJiTrE4IZ8f2ZMftS"
+    },
+    {
+      "added_at": "2024-07-11 00:51:42",
+      "album": {
+        "name": "Bambol\u00e9o",
+        "url": "https://open.spotify.com/album/10FXtMH6uOwaTMFs9bpmY2"
+      },
+      "artists": [
+        {
+          "name": "Fania All Stars",
+          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 327466,
+      "name": "Bambol\u00e9o",
+      "url": "https://open.spotify.com/track/4Gu8MRCmbJbX2sGueXipVg"
     },
     {
       "added_at": "2024-07-11 00:51:42",
@@ -747,6 +747,22 @@
     {
       "added_at": "2024-07-11 00:51:42",
       "album": {
+        "name": "Coleccion de Oro",
+        "url": "https://open.spotify.com/album/6eK3n2MpVdKqhIOnH9BCe5"
+      },
+      "artists": [
+        {
+          "name": "Luis Enrique",
+          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
+        }
+      ],
+      "duration_ms": 286413,
+      "name": "Date un Chance",
+      "url": "https://open.spotify.com/track/0kBdq1VTuJNeAX3gF3A7Mj"
+    },
+    {
+      "added_at": "2024-07-11 00:51:42",
+      "album": {
         "name": "Salsa Legends",
         "url": "https://open.spotify.com/album/2QuOloo4ttkd4SxYzgu5nT"
       },
@@ -767,18 +783,18 @@
     {
       "added_at": "2024-07-11 00:51:42",
       "album": {
-        "name": "Coleccion de Oro",
-        "url": "https://open.spotify.com/album/6eK3n2MpVdKqhIOnH9BCe5"
+        "name": "Mas Grande Que Nunca",
+        "url": "https://open.spotify.com/album/3jjv7kRQ4vXoGg35jrazQz"
       },
       "artists": [
         {
-          "name": "Luis Enrique",
-          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
+          "name": "Frankie Ruiz",
+          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
         }
       ],
-      "duration_ms": 286413,
-      "name": "Date un Chance",
-      "url": "https://open.spotify.com/track/0kBdq1VTuJNeAX3gF3A7Mj"
+      "duration_ms": 266013,
+      "name": "Tu Eres",
+      "url": "https://open.spotify.com/track/7cmBAZF5FSlNLRKaPmBKHZ"
     },
     {
       "added_at": "2024-07-11 00:51:42",
@@ -795,22 +811,6 @@
       "duration_ms": 254360,
       "name": "El Hombre Increible",
       "url": "https://open.spotify.com/track/1i2yBsnCHSanfHCVmw3dE0"
-    },
-    {
-      "added_at": "2024-07-11 00:51:42",
-      "album": {
-        "name": "Mas Grande Que Nunca",
-        "url": "https://open.spotify.com/album/3jjv7kRQ4vXoGg35jrazQz"
-      },
-      "artists": [
-        {
-          "name": "Frankie Ruiz",
-          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
-        }
-      ],
-      "duration_ms": 266013,
-      "name": "Tu Eres",
-      "url": "https://open.spotify.com/track/7cmBAZF5FSlNLRKaPmBKHZ"
     },
     {
       "added_at": "2024-07-11 00:51:42",
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-07-11 00:51:42",
       "album": {
-        "name": "\u00cdconos 25 \u00c9xitos",
-        "url": "https://open.spotify.com/album/49yBL8VWJ0AtHPfW6Gix6z"
-      },
-      "artists": [
-        {
-          "name": "Tommy Olivencia",
-          "url": "https://open.spotify.com/artist/38fLjRT1W1x3RR6SWWxL0x"
-        }
-      ],
-      "duration_ms": 275453,
-      "name": "No Soy Autom\u00e1tico",
-      "url": "https://open.spotify.com/track/0jRXZABgFIsPCI7235h5u2"
-    },
-    {
-      "added_at": "2024-07-11 00:51:42",
-      "album": {
         "name": "Mas Grande Que Nunca",
         "url": "https://open.spotify.com/album/3jjv7kRQ4vXoGg35jrazQz"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 261880,
       "name": "Amantes De Otro Tiempo",
       "url": "https://open.spotify.com/track/2NQsj4HzvWYw5VbDJRrlJY"
+    },
+    {
+      "added_at": "2024-07-11 00:51:42",
+      "album": {
+        "name": "\u00cdconos 25 \u00c9xitos",
+        "url": "https://open.spotify.com/album/49yBL8VWJ0AtHPfW6Gix6z"
+      },
+      "artists": [
+        {
+          "name": "Tommy Olivencia",
+          "url": "https://open.spotify.com/artist/38fLjRT1W1x3RR6SWWxL0x"
+        }
+      ],
+      "duration_ms": 275453,
+      "name": "No Soy Autom\u00e1tico",
+      "url": "https://open.spotify.com/track/0jRXZABgFIsPCI7235h5u2"
     },
     {
       "added_at": "2024-07-11 00:51:42",
@@ -1031,18 +1031,18 @@
     {
       "added_at": "2024-07-11 00:51:42",
       "album": {
-        "name": "En Concierto",
-        "url": "https://open.spotify.com/album/3zA2XZrvoW8Yatqlbv2Orf"
+        "name": "SALSEANDO CON... UNO",
+        "url": "https://open.spotify.com/album/3bPX120qXpWjTiBhLE5VP6"
       },
       "artists": [
         {
-          "name": "Tony Vega",
-          "url": "https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY"
+          "name": "Salseando",
+          "url": "https://open.spotify.com/artist/2GV8emlDQZ9U3xbDPsGsv0"
         }
       ],
-      "duration_ms": 351813,
-      "name": "Esa Mujer",
-      "url": "https://open.spotify.com/track/2GBTcQdwU4pEEreRvAQkqI"
+      "duration_ms": 309386,
+      "name": "Fantasia Herida",
+      "url": "https://open.spotify.com/track/64IXm03vNARlDsFdT1H6R2"
     },
     {
       "added_at": "2024-07-11 00:51:42",
@@ -1063,6 +1063,22 @@
       "duration_ms": 287459,
       "name": "Por Retenerte",
       "url": "https://open.spotify.com/track/6ADkHioGKvBpqDkXVhMZKr"
+    },
+    {
+      "added_at": "2024-07-11 00:51:42",
+      "album": {
+        "name": "En Concierto",
+        "url": "https://open.spotify.com/album/3zA2XZrvoW8Yatqlbv2Orf"
+      },
+      "artists": [
+        {
+          "name": "Tony Vega",
+          "url": "https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY"
+        }
+      ],
+      "duration_ms": 351813,
+      "name": "Esa Mujer",
+      "url": "https://open.spotify.com/track/2GBTcQdwU4pEEreRvAQkqI"
     },
     {
       "added_at": "2024-07-11 00:51:42",
@@ -1095,22 +1111,6 @@
       "duration_ms": 328760,
       "name": "Si Me Ves Llorar",
       "url": "https://open.spotify.com/track/0vMywJjFDTF7fhUxTBD3a3"
-    },
-    {
-      "added_at": "2024-07-11 00:51:42",
-      "album": {
-        "name": "SALSEANDO CON... UNO",
-        "url": "https://open.spotify.com/album/3bPX120qXpWjTiBhLE5VP6"
-      },
-      "artists": [
-        {
-          "name": "Salseando",
-          "url": "https://open.spotify.com/artist/2GV8emlDQZ9U3xbDPsGsv0"
-        }
-      ],
-      "duration_ms": 309386,
-      "name": "Fantasia Herida",
-      "url": "https://open.spotify.com/track/64IXm03vNARlDsFdT1H6R2"
     },
     {
       "added_at": "2024-07-11 00:51:42",

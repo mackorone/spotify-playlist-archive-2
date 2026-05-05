@@ -4,7 +4,7 @@
 
 > afrobeats: best served chill
 
-753 songs - 1 day 12 hr 26 min
+754 songs - 1 day 12 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -462,6 +462,7 @@
 | [nwayi](https://open.spotify.com/track/7guk0rwtRbpnNVraNaIpfL) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [nwayi](https://open.spotify.com/album/2ytwmK8ETbEVZKueoNYKIQ) | 3:04 | 2023-06-02 | 2023-08-04 |
 | [nwayi](https://open.spotify.com/track/7iD3LM5BcWm5yZbNPpIhnE) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sad Romance \(Deluxe\)](https://open.spotify.com/album/1gC4BgOWemcVLQBM8pnIsZ) | 3:04 | 2023-08-03 | 2024-04-19 |
 | [obaa sima](https://open.spotify.com/track/3DmBkPi3DjThsopnHVt2cA) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Outside / obaa sima](https://open.spotify.com/album/2KiBlKHtsrlaJIwriKI1Qi) | 3:06 | 2023-12-08 | 2024-10-26 |
+| [Obobe](https://open.spotify.com/track/4R7ue5kkKglzqr7NMjqGB1) | [Strei](https://open.spotify.com/artist/4ecfG9zQhMOr4yMTqgD79g) | [NIGHT](https://open.spotify.com/album/722VVxNwKl5ZZZ1HduMUhr) | 2:39 | 2026-05-01 |  |
 | [Obsessed](https://open.spotify.com/track/0V8My1NtUo51470iBrav0Y) | [Ronis Goliath](https://open.spotify.com/artist/7ab3brrz3yehEwzYJf7F8t) | [Obsessed](https://open.spotify.com/album/7rfG2qzNG150rC2L3UzCAi) | 2:40 | 2024-07-05 | 2024-08-02 |
 | [Odeshi](https://open.spotify.com/track/6D3uyxSdlOQpScbqlawnME) | [Abstraktt](https://open.spotify.com/artist/2H5FFLsniz7p7rled2S4pD), [Oladapo](https://open.spotify.com/artist/6HAro8NBhDtn8csZDPEBuB) | [Odeshi](https://open.spotify.com/album/6q9zanWSA5C5e8pCSUxjQ9) | 2:15 | 2025-05-30 | 2025-06-28 |
 | [Oha](https://open.spotify.com/track/2PZlJEj06ZZZAe13OdHM22) | [SYEMCA](https://open.spotify.com/artist/7qsm8Kz0oIz1gu492D5WJa) | [Crave](https://open.spotify.com/album/15OKHri5NUgFB11KpzmfW3) | 3:12 | 2022-06-09 | 2022-10-01 |
@@ -695,7 +696,7 @@
 | [Vanity](https://open.spotify.com/track/7CT9KE85Muc2n7UG6JS0dv) | [capespring.](https://open.spotify.com/artist/2VF53usTu5Chbp1fmxjUeS) | [Vanity](https://open.spotify.com/album/07xgzcCcQz2uahUuO1xnkq) | 2:32 | 2023-07-20 | 2023-07-29 |
 | [Vawulence](https://open.spotify.com/track/0tu7UAep0cBH35Lzln2Fjw) | [Yaadman fka Yung L](https://open.spotify.com/artist/0XnH3M78JKVEjutHn1146c) | [Vawulence](https://open.spotify.com/album/09EXBWpvIYBAwO9lCNZMvw) | 2:12 | 2023-08-10 | 2023-10-13 |
 | [Vawulence \(Remix\)](https://open.spotify.com/track/26zrOWI3JO2y0grY3UyTGj) | [Yaadman fka Yung L](https://open.spotify.com/artist/0XnH3M78JKVEjutHn1146c), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Ice Prince](https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn) | [Vawulence \(Remix\)](https://open.spotify.com/album/1hkosTcAidMQWeEdYgMEri) | 2:54 | 2024-01-12 | 2024-03-30 |
-| [Verily](https://open.spotify.com/track/78JnyPSDt67KvELlYdQvcw) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Verily](https://open.spotify.com/album/7vU3HmCgSJfCmreSA9LXOR) | 3:15 | 2025-02-21 |  |
+| [Verily](https://open.spotify.com/track/78JnyPSDt67KvELlYdQvcw) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Verily](https://open.spotify.com/album/7vU3HmCgSJfCmreSA9LXOR) | 3:15 | 2025-02-21 | 2026-05-05 |
 | [Vibration](https://open.spotify.com/track/3yEPVODnT2tXcc3NN6ymIN) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [Vibration](https://open.spotify.com/album/3UN7Hvdib6FUBXVOZHNYjh) | 3:01 | 2024-05-24 | 2024-11-22 |
 | [Vision](https://open.spotify.com/track/5jLBhr4USswMtmsItEAFqf) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Qing Madi](https://open.spotify.com/album/03pDzWfMzVVQL3BRVIutJn) | 2:26 | 2023-11-17 | 2024-11-22 |
 | [Vision Remix \(feat\. Chlöe\)](https://open.spotify.com/track/43ZEiGYEJ5vcmjlBwanwyW) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Vision Remix \(feat\. Chlöe\)](https://open.spotify.com/album/1cdHnVkU4QloSiH06bI8pA) | 2:46 | 2024-05-03 | 2024-11-22 |

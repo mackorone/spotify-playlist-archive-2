@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4O0AdBo80OE.md) - [plain]
 
 > Suaaaaaaave 📸 Charles Ans, Sabino, DAAZ,  Yubeili y  Caztro
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,121 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,133 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

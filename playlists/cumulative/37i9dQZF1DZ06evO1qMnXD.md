@@ -4,7 +4,7 @@
 
 > This is Mitski\. The essential tracks, all in one playlist.
 
-75 songs - 3 hr 38 min
+76 songs - 3 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Sanctuary](https://open.spotify.com/track/6HEWgg6dWX226zCg5D3442) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH), [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Sanctuary](https://open.spotify.com/album/6i7qwDdRw1MsSQa61qDiWt) | 3:31 | 2025-01-28 | 2025-05-08 |
 | [Shame](https://open.spotify.com/track/6x5yiC9qgFIO0XPekWdjF1) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Retired from Sad, New Career in Business](https://open.spotify.com/album/7K4SuWzgUEweJScduBcC6f) | 2:24 | 2024-04-28 |  |
 | [Should've Been Me](https://open.spotify.com/track/5FQ9NDyx3KZXhovWWq4Gxo) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Laurel Hell](https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22) | 3:11 | 2023-05-02 |  |
+| [Square](https://open.spotify.com/track/64u6Y9b4sRGREmG4a6PX9E) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Retired from Sad, New Career in Business](https://open.spotify.com/album/7K4SuWzgUEweJScduBcC6f) | 3:10 | 2026-05-05 |  |
 | [Star](https://open.spotify.com/track/4Gv6lS9SMvaT6nS6yMYuUC) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Star b/w Heaven](https://open.spotify.com/album/31JzBxnoBhjRRaEGijOGxU) | 2:59 | 2023-08-25 | 2023-09-22 |
 | [Stay Soft](https://open.spotify.com/track/07zVQBJfbOuaAhpT3stRFL) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Laurel Hell](https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22) | 3:16 | 2023-05-02 |  |
 | [Strawberry Blond](https://open.spotify.com/track/1EO9dn7V0ufwPHJngZThO5) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Retired from Sad, New Career in Business](https://open.spotify.com/album/7K4SuWzgUEweJScduBcC6f) | 1:54 | 2023-05-02 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPHCzPqDlCiW.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1c2S9zEjadnB6Mt2aOOLWn">Ollie Green</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 242 likes - 162 songs - 8 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 243 likes - 162 songs - 8 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPHCzPqDlCiW.md) - [plain]
 | 88 | [Everburn](https://open.spotify.com/track/3Ny8IsnTGd2cJd8P6X9xKl) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Changes All The Time \(Deluxe\)](https://open.spotify.com/album/441Y4TBgKQWHBJYlQBomI1) | 3:18 |
 | 89 | [Can't Do Both \(with Clara Mae\)](https://open.spotify.com/track/3RaQdJDvaIa46MAMCwzWDa) | [Jonasu](https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT), [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [Cutting Through Noise \(Deluxe\)](https://open.spotify.com/album/3SxsGilpR10AEOgA2iYT7E) | 2:57 |
 | 90 | [Standing in His Shoes](https://open.spotify.com/track/0tClc3XkyyH1JyauQyDRSZ) | [René Miller](https://open.spotify.com/artist/6ngF3kF5I0prOoapltjAps) | [Standing in His Shoes](https://open.spotify.com/album/7LoVmENUMntLeiwUc01M2C) | 3:13 |
-| 91 | [DILF](https://open.spotify.com/track/2Q8Ky0A9wVrjIiQIcUfYz4) | [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [Why Can’t I Have Two? \(2468\) / DILF](https://open.spotify.com/album/5R06NvE2q2iQm8akxCC3F5) | 2:19 |
-| 92 | [365](https://open.spotify.com/track/3nNBdrHfqSZrFQKCzWq7kR) | [Talia Mar](https://open.spotify.com/artist/7zoc6JsY8GWVcl2qFwiKay) | [365](https://open.spotify.com/album/33ege18fnUmm373M0YrGDk) | 3:07 |
+| 91 | [365](https://open.spotify.com/track/3nNBdrHfqSZrFQKCzWq7kR) | [Talia Mar](https://open.spotify.com/artist/7zoc6JsY8GWVcl2qFwiKay) | [365](https://open.spotify.com/album/33ege18fnUmm373M0YrGDk) | 3:07 |
+| 92 | [DILF](https://open.spotify.com/track/2Q8Ky0A9wVrjIiQIcUfYz4) | [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [Why Can’t I Have Two? \(2468\) / DILF](https://open.spotify.com/album/5R06NvE2q2iQm8akxCC3F5) | 2:19 |
 | 93 | [Back To You](https://open.spotify.com/track/2tyuENyThWUw9kQ4TZpgsK) | [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b) | [Take Me Somewhere](https://open.spotify.com/album/6ThORuBvLXZAHyvjThpiR7) | 3:03 |
 | 94 | [Kingdom](https://open.spotify.com/track/45ElBVDOkxxAdSQlB8sN0T) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [The Sweetest Part](https://open.spotify.com/album/0b4Skg0UskddlJ9v4XRQ0S) | 3:28 |
 | 95 | [Problems](https://open.spotify.com/track/5CUOsDruna0oPEw5Q2axyy) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [What Ifs & Maybes](https://open.spotify.com/album/3CWP6u3BR6KmyodkIoyE6F) | 3:27 |
@@ -118,8 +118,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPHCzPqDlCiW.md) - [plain]
 | 108 | [Anger](https://open.spotify.com/track/4TAVEEOHOdwwzMyr78veol) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Mountain Music](https://open.spotify.com/album/1Q1C9JR5mIRc48MgJqu1G5) | 2:57 |
 | 109 | [Daydream](https://open.spotify.com/track/5gTmdhzrBZD7Of2418Loxv) | [Leo Kalyan](https://open.spotify.com/artist/62lbPZcnp95moF4T4afcPn) | [Daydream](https://open.spotify.com/album/5P1po53bsy5NJxQdHB59le) | 3:38 |
 | 110 | [The Side I Never Show](https://open.spotify.com/track/4o4QUsLfstZmPoq39R7SJD) | [Jack Curley](https://open.spotify.com/artist/1Unwe9Xco0JDlTTwpDVrcK) | [My Heart Can't Take the Music](https://open.spotify.com/album/6HXA21x7DwmcMOvbYcRzir) | 3:48 |
-| 111 | [Evergreen](https://open.spotify.com/track/6af1RTPe8LUU2nzKQc88zf) | [NURKO](https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4), [Jordan Shaw](https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr) | [United](https://open.spotify.com/album/4e4Zi2CSqcIr9cMKN9vg6S) | 3:58 |
-| 112 | [Running](https://open.spotify.com/track/1QIfgOhKg7jb6WbkO4IwFa) | [St\. Lundi](https://open.spotify.com/artist/3i94wxAKQqlJyiPLDmjNdH) | [The Island](https://open.spotify.com/album/1sDwclBLUytS3yXeelFMK9) | 2:59 |
+| 111 | [Running](https://open.spotify.com/track/1QIfgOhKg7jb6WbkO4IwFa) | [St\. Lundi](https://open.spotify.com/artist/3i94wxAKQqlJyiPLDmjNdH) | [The Island](https://open.spotify.com/album/1sDwclBLUytS3yXeelFMK9) | 2:59 |
+| 112 | [Evergreen](https://open.spotify.com/track/6af1RTPe8LUU2nzKQc88zf) | [NURKO](https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4), [Jordan Shaw](https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr) | [United](https://open.spotify.com/album/4e4Zi2CSqcIr9cMKN9vg6S) | 3:58 |
 | 113 | [Stay Awake](https://open.spotify.com/track/7f71BTXWubBCTIlbEqKeUi) | [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Stay Awake](https://open.spotify.com/album/5Ev62f2XpQUWw9XdSsYuDL) | 3:28 |
 | 114 | [PAPER PLANE](https://open.spotify.com/track/0bvQXr2UBC7XvWKhBESl8b) | [ISAAK](https://open.spotify.com/artist/4EsPdQD7LDT8meZpX0MX4p) | [PAPER PLANE](https://open.spotify.com/album/6cHX3SG9HQKd3UIzETvQiP) | 2:49 |
 | 115 | [Air](https://open.spotify.com/track/24xjtgb8iTOIicQPckLhV7) | [JONES](https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv) | [37 Adventures Presents Odd Numbers Vol\. 1](https://open.spotify.com/album/26hQ13HaEXraD2GTYZ337y) | 4:02 |
@@ -131,8 +131,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPHCzPqDlCiW.md) - [plain]
 | 121 | [Roots](https://open.spotify.com/track/4660UGjHeuUS1wvNwa2aVV) | [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [Roots](https://open.spotify.com/album/6rqhYGB9okEjw3KuciklEV) | 2:52 |
 | 122 | [Beautiful Life](https://open.spotify.com/track/15pViH8S6yor5SmFrV03ic) | [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Beautiful Life](https://open.spotify.com/album/2sGLInJA6FWZs6c8PeAG6i) | 2:57 |
 | 123 | [Out of This World](https://open.spotify.com/track/47mWCYAYOuLlQULZ5CxgmY) | [JONES](https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv) | [New Skin](https://open.spotify.com/album/7kssLuW4quDDfOA4Krm2Rx) | 3:29 |
-| 124 | [Spiral](https://open.spotify.com/track/5H4bI4Sk5tCMgBRTOU5XkS) | [Rebecca Clements](https://open.spotify.com/artist/3e13PrKuO8pPF0nt8I1zII) | [Spiral](https://open.spotify.com/album/2LPwS46wjPwkWDmeyH0Evj) | 3:43 |
-| 125 | [5 In The Morning \(feat\. Sam Harper\)](https://open.spotify.com/track/6amSPEhJTzMFi8PnwxrGnC) | [XANDRA](https://open.spotify.com/artist/0R7QDPXqFaQ9F0FdTZUeca), [Sam Harper](https://open.spotify.com/artist/0czTwfZBBvlvlOiypvDvwe) | [5 In The Morning \(feat\. Sam Harper\)](https://open.spotify.com/album/2Bgwg2XoDhGjNvTxRlQXTd) | 2:41 |
+| 124 | [5 In The Morning \(feat\. Sam Harper\)](https://open.spotify.com/track/6amSPEhJTzMFi8PnwxrGnC) | [XANDRA](https://open.spotify.com/artist/0R7QDPXqFaQ9F0FdTZUeca), [Sam Harper](https://open.spotify.com/artist/0czTwfZBBvlvlOiypvDvwe) | [5 In The Morning \(feat\. Sam Harper\)](https://open.spotify.com/album/2Bgwg2XoDhGjNvTxRlQXTd) | 2:41 |
+| 125 | [Spiral](https://open.spotify.com/track/5H4bI4Sk5tCMgBRTOU5XkS) | [Rebecca Clements](https://open.spotify.com/artist/3e13PrKuO8pPF0nt8I1zII) | [Spiral](https://open.spotify.com/album/2LPwS46wjPwkWDmeyH0Evj) | 3:43 |
 | 126 | [Lovebug](https://open.spotify.com/track/2pFRr20vrPWveznPTwQADB) | [Zoe Nash](https://open.spotify.com/artist/1yFie7615gesdLbvVVpYU5) | [Lovebug](https://open.spotify.com/album/62PT5tJV8q2LhXZwbMlAk1) | 3:09 |
 | 127 | [Devilish](https://open.spotify.com/track/667e12dKpBCoEHdklKzYIJ) | [Alex Newell](https://open.spotify.com/artist/2vGaSKEDFsVPBgcnGxqlBN), [Digital Farm Animals](https://open.spotify.com/artist/5fyDppLDl1juIu1BcUT5zh) | [POWER](https://open.spotify.com/album/2zN5EUVUBfNFiEwb48vGfW) | 3:44 |
 | 128 | [Like I Loved You](https://open.spotify.com/track/5muegCnW652zCwuklts55e) | [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [How Were We To Know](https://open.spotify.com/album/4OiI1TaZbM2NBOCWEeGM4c) | 3:32 |
@@ -140,8 +140,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPHCzPqDlCiW.md) - [plain]
 | 130 | [Ex\-Friend](https://open.spotify.com/track/5UxboRMB49Gi4X7ESngKnw) | [Allie Sherlock](https://open.spotify.com/artist/2yTmZ1PwFKkO0FjQp2flPl) | [Ex\-Friend](https://open.spotify.com/album/2FIyPHZSjTToAG9CEtasUt) | 2:45 |
 | 131 | [Roses](https://open.spotify.com/track/6EEXnHK3SYLTj74ynXAHtj) | [Nosi](https://open.spotify.com/artist/4XECs6DHU3xRrr0uydWY2R), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Roses](https://open.spotify.com/album/2qIx0ueLDqtvYJtZdOLffk) | 3:38 |
 | 132 | [Storm Warning](https://open.spotify.com/track/2A5c5E66FvZGhVtqPIyBXg) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Goldrush](https://open.spotify.com/album/21pu6GFhO61NL2ZgzEsHjm) | 2:22 |
-| 133 | [Anyone](https://open.spotify.com/track/0SvS0K6Hehf58MRhUSdpDT) | [Morgan Page](https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b) | [Anyone](https://open.spotify.com/album/7mq2F1PMmHZNGVatKOsSu7) | 3:21 |
-| 134 | [All Yours Again](https://open.spotify.com/track/3x3diAZ3AuNCyPnmwxKmQN) | [Guy Sebastian](https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci) | [100 Times Around the Sun](https://open.spotify.com/album/0jBrdQ1CTtlG2oenpcT1by) | 2:47 |
+| 133 | [All Yours Again](https://open.spotify.com/track/3x3diAZ3AuNCyPnmwxKmQN) | [Guy Sebastian](https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci) | [100 Times Around the Sun](https://open.spotify.com/album/0jBrdQ1CTtlG2oenpcT1by) | 2:47 |
+| 134 | [Anyone](https://open.spotify.com/track/0SvS0K6Hehf58MRhUSdpDT) | [Morgan Page](https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b) | [Anyone](https://open.spotify.com/album/7mq2F1PMmHZNGVatKOsSu7) | 3:21 |
 | 135 | [Small Town Syndrome](https://open.spotify.com/track/5zcZWauQFIqz90488s06Xn) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E) | [Small Town Syndrome](https://open.spotify.com/album/1YMO805X4i11iqElzNXfjB) | 2:59 |
 | 136 | [Ocean](https://open.spotify.com/track/7LKsAuk6QUbh92y2bX6Nel) | [Vize Verza](https://open.spotify.com/artist/7866WqAIb0XvXRlRPTUCir) | [Ocean](https://open.spotify.com/album/0g2AIhkbIqZez1FE5xSUGh) | 3:00 |
 | 137 | [You Were Never My Boyfriend](https://open.spotify.com/track/0HF7qznaTH3qe9cJv7rMsw) | [Ariana and the Rose](https://open.spotify.com/artist/5HgPIUp6b7DVdhWK3tkl83) | [You Were Never My Boyfriend](https://open.spotify.com/album/4wj1fiaQDXK4IT3vZ1ZKoS) | 2:48 |
@@ -171,4 +171,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPHCzPqDlCiW.md) - [plain]
 | 161 | [Cry Baby](https://open.spotify.com/track/6CUhst2FN306kgbPZRDMlX) | [Vize Verza](https://open.spotify.com/artist/7866WqAIb0XvXRlRPTUCir) | [Cry Baby](https://open.spotify.com/album/3qw9vLNZSZVp0nspvfnYMQ) | 2:54 |
 | 162 | [Mother](https://open.spotify.com/track/6w0UT19dw0IRWtLMQyn1Sq) | [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [Mother](https://open.spotify.com/album/3PzaUA5NnjrDsDECx5tcSe) | 3:19 |
 
-Snapshot ID: `AcQihgAAAADbflvHUpCI2A4L3qXoOhIS`
+Snapshot ID: `AcQoJgAAAADFiOJeMj2y7VhAP2VGk9tR`

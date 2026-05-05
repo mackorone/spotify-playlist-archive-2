@@ -805,6 +805,24 @@
     },
     {
       "album": {
+        "name": "In Riva al Mare",
+        "url": "https://open.spotify.com/album/2ngEw2SeGsUHglVZhurK54"
+      },
+      "artists": [
+        {
+          "name": "La Vacanza",
+          "url": "https://open.spotify.com/artist/4QB0Q6SVWTC05ixWGZOaBr"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279346,
+      "name": "Dammi dammi",
+      "url": "https://open.spotify.com/track/27xvqzA4XdoEZ1zGpaQKAX"
+    },
+    {
+      "album": {
         "name": "My Home Is Not In This World",
         "url": "https://open.spotify.com/album/1JTg8PaBqbrOd1gdUadXpp"
       },
@@ -1344,6 +1362,24 @@
       "duration_ms": 258626,
       "name": "F*ck My Life Up Again",
       "url": "https://open.spotify.com/track/4L9VTwdne2g1k8aBsgT9Zv"
+    },
+    {
+      "album": {
+        "name": "1000 Smiles",
+        "url": "https://open.spotify.com/album/2coGljzacUFergWPnD8hoF"
+      },
+      "artists": [
+        {
+          "name": "Alsogood",
+          "url": "https://open.spotify.com/artist/5OysFKzPrUU0KnLdCLCkSG"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "Feliz",
+      "url": "https://open.spotify.com/track/5eiK2HgzkMrnuW8OXiJxXb"
     },
     {
       "album": {
@@ -2430,7 +2466,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 73235,
       "name": "Loverboy",
       "url": "https://open.spotify.com/track/3XCpEFU4uXsBq5WmVQQKC9"
@@ -2582,7 +2618,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 274838,
       "name": "Melodies",
       "url": "https://open.spotify.com/track/0Bnat14c6fH2h1MUTPVaTN"

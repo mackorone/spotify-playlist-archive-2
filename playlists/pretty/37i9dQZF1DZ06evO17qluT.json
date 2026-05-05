@@ -1,12 +1,12 @@
 {
   "description": "This is BK. The essential tracks, all in one playlist.",
-  "num_followers": 105153,
+  "num_followers": 105224,
   "original_name": "This Is BK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afU+gAAAAACb6O6VQ9R7K61bj1TBYRkG",
+  "snapshot_id": "afaQAAAAAADNp941y+x5RGNH/C1uvmPT",
   "tracks": [
     {
       "added_at": null,
@@ -507,30 +507,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nume - Ep\u00edlogo",
-        "url": "https://open.spotify.com/album/4xFE545VDYSeK8mHiTpdC5"
+        "name": "PRODUTO DO AMBIENTE",
+        "url": "https://open.spotify.com/album/3OB3nqd1Vm38NSTT4gC1gN"
       },
       "artists": [
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
         {
           "name": "BK",
           "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
         },
         {
-          "name": "Sain",
-          "url": "https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55"
-        },
-        {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+          "name": "$amuka",
+          "url": "https://open.spotify.com/artist/2rgAT15zhmX8wrjbYcXTFj"
         }
       ],
-      "duration_ms": 258782,
-      "name": "KGL's",
-      "url": "https://open.spotify.com/track/5MNGPjPiQbs0IQWLmpLb13"
+      "duration_ms": 189914,
+      "name": "Gatilhos",
+      "url": "https://open.spotify.com/track/3kPQJBcNyV2VjuksuhKtWf"
     },
     {
       "added_at": null,
@@ -563,22 +555,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "PRODUTO DO AMBIENTE",
-        "url": "https://open.spotify.com/album/3OB3nqd1Vm38NSTT4gC1gN"
+        "name": "Nume - Ep\u00edlogo",
+        "url": "https://open.spotify.com/album/4xFE545VDYSeK8mHiTpdC5"
       },
       "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
         {
           "name": "BK",
           "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
         },
         {
-          "name": "$amuka",
-          "url": "https://open.spotify.com/artist/2rgAT15zhmX8wrjbYcXTFj"
+          "name": "Sain",
+          "url": "https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
         }
       ],
-      "duration_ms": 189914,
-      "name": "Gatilhos",
-      "url": "https://open.spotify.com/track/3kPQJBcNyV2VjuksuhKtWf"
+      "duration_ms": 258782,
+      "name": "KGL's",
+      "url": "https://open.spotify.com/track/5MNGPjPiQbs0IQWLmpLb13"
     },
     {
       "added_at": null,
@@ -599,62 +599,6 @@
       "duration_ms": 167999,
       "name": "Caminhos",
       "url": "https://open.spotify.com/track/1cLYvKsm34lAPyhNKY7HZ0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Antes dos Gigantes Chegarem, Vol. 2",
-        "url": "https://open.spotify.com/album/2s8fQ4CCEtFzebalX0unvp"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "JXNV$",
-          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
-        },
-        {
-          "name": "El Lif Beatz",
-          "url": "https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k"
-        },
-        {
-          "name": "Juy\u00e8",
-          "url": "https://open.spotify.com/artist/5QQhNWixMHMDwo3vlOcgxb"
-        }
-      ],
-      "duration_ms": 227093,
-      "name": "Almas",
-      "url": "https://open.spotify.com/track/2nOaBepWvTS9HdZ25YYode"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Diamantes, L\u00e1grimas e Rostos para Esquecer",
-        "url": "https://open.spotify.com/album/1OQpOh2CpuG85LuJzomUC3"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "JXNV$",
-          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
-        },
-        {
-          "name": "Pretinho da Serrinha",
-          "url": "https://open.spotify.com/artist/4qDFGliScFrzPiFS9caqnw"
-        },
-        {
-          "name": "Trio Mocoto",
-          "url": "https://open.spotify.com/artist/5nriuBVz6NDh6k8gTU5WgP"
-        }
-      ],
-      "duration_ms": 230400,
-      "name": "N\u00e3o Adianta Chorar",
-      "url": "https://open.spotify.com/track/5gxljBy1tymSkb9hJZJaEl"
     },
     {
       "added_at": null,
@@ -687,6 +631,62 @@
     {
       "added_at": null,
       "album": {
+        "name": "Diamantes, L\u00e1grimas e Rostos para Esquecer",
+        "url": "https://open.spotify.com/album/1OQpOh2CpuG85LuJzomUC3"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "JXNV$",
+          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
+        },
+        {
+          "name": "Pretinho da Serrinha",
+          "url": "https://open.spotify.com/artist/4qDFGliScFrzPiFS9caqnw"
+        },
+        {
+          "name": "Trio Mocoto",
+          "url": "https://open.spotify.com/artist/5nriuBVz6NDh6k8gTU5WgP"
+        }
+      ],
+      "duration_ms": 230400,
+      "name": "N\u00e3o Adianta Chorar",
+      "url": "https://open.spotify.com/track/5gxljBy1tymSkb9hJZJaEl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Antes dos Gigantes Chegarem, Vol. 2",
+        "url": "https://open.spotify.com/album/2s8fQ4CCEtFzebalX0unvp"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "JXNV$",
+          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
+        },
+        {
+          "name": "El Lif Beatz",
+          "url": "https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k"
+        },
+        {
+          "name": "Juy\u00e8",
+          "url": "https://open.spotify.com/artist/5QQhNWixMHMDwo3vlOcgxb"
+        }
+      ],
+      "duration_ms": 227093,
+      "name": "Almas",
+      "url": "https://open.spotify.com/track/2nOaBepWvTS9HdZ25YYode"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Castelos & Ru\u00ednas",
         "url": "https://open.spotify.com/album/4PLPuHFM0cnpLLWYBCzuY9"
       },
@@ -711,34 +711,6 @@
       "duration_ms": 309618,
       "name": "Quadros",
       "url": "https://open.spotify.com/track/4SOHLqfBQe0fdl1GtisjCb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Antes dos Gigantes Chegarem, Vol. 2",
-        "url": "https://open.spotify.com/album/2s8fQ4CCEtFzebalX0unvp"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "JXNV$",
-          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
-        },
-        {
-          "name": "Juy\u00e8",
-          "url": "https://open.spotify.com/artist/5QQhNWixMHMDwo3vlOcgxb"
-        },
-        {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/6KA24IQsAVtlI34fSZR0Xa"
-        }
-      ],
-      "duration_ms": 305002,
-      "name": "Antes dos Gigantes Chegarem",
-      "url": "https://open.spotify.com/track/6Q2NfBPqVv0AVYGSHyG3gX"
     },
     {
       "added_at": null,
@@ -783,6 +755,34 @@
       "duration_ms": 224266,
       "name": "Vivendo Avan\u00e7ado - Ao Vivo",
       "url": "https://open.spotify.com/track/5DaJJxTkFXv2ymTfiqunQd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Antes dos Gigantes Chegarem, Vol. 2",
+        "url": "https://open.spotify.com/album/2s8fQ4CCEtFzebalX0unvp"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "JXNV$",
+          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
+        },
+        {
+          "name": "Juy\u00e8",
+          "url": "https://open.spotify.com/artist/5QQhNWixMHMDwo3vlOcgxb"
+        },
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/6KA24IQsAVtlI34fSZR0Xa"
+        }
+      ],
+      "duration_ms": 305002,
+      "name": "Antes dos Gigantes Chegarem",
+      "url": "https://open.spotify.com/track/6Q2NfBPqVv0AVYGSHyG3gX"
     },
     {
       "added_at": null,

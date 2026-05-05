@@ -43,20 +43,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iOisK.md) - [plain]
 | 33 | [ファイアスターター](https://open.spotify.com/track/34zx9CE9xviVXZk5tyj5Ut) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [4](https://open.spotify.com/album/5But7Bof89100t1dGas3vE) | 3:52 |
 | 34 | [スクランブル](https://open.spotify.com/track/4jBUKFupufxaeaVrwSozbl) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [轍～Wadachi～](https://open.spotify.com/album/5IgvSUIyXgrR0cvpcOVqho) | 4:26 |
 | 35 | [Bring the Beat Back](https://open.spotify.com/track/5Sw1HLZCZ1iIBX4ekr45YH) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [RE\-BIRTH](https://open.spotify.com/album/1sR5KzprQKpzjuJc1u586m) | 2:58 |
-| 36 | [THIS IS HOW WE ROCK](https://open.spotify.com/track/3BNlW6QAR8xiONRS0wRmPE) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [KINGDOM](https://open.spotify.com/album/4uPXRFvnyXL13UV154reKX) | 3:56 |
-| 37 | [Born To Be Loud](https://open.spotify.com/track/7Fw38gA686VM1lgJUu4ViS) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [BEST OF THE BEST](https://open.spotify.com/album/68QoEUuuoo734ojnUufXJ3) | 3:54 |
+| 36 | [Born To Be Loud](https://open.spotify.com/track/7Fw38gA686VM1lgJUu4ViS) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [BEST OF THE BEST](https://open.spotify.com/album/68QoEUuuoo734ojnUufXJ3) | 3:54 |
+| 37 | [THIS IS HOW WE ROCK](https://open.spotify.com/track/3BNlW6QAR8xiONRS0wRmPE) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [KINGDOM](https://open.spotify.com/album/4uPXRFvnyXL13UV154reKX) | 3:56 |
 | 38 | [MOVIN' ON](https://open.spotify.com/track/0PQJTbwPTgwqbCrREYxZnQ) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [Just Do It](https://open.spotify.com/album/1D5hC2BtE1Dy7UFSdKwG33) | 2:59 |
 | 39 | [GLORY](https://open.spotify.com/track/09d17LY5kmCMBgcxgs8xoV) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [BEST](https://open.spotify.com/album/6tQGlVKPllcFPSmlbv2mVx) | 3:47 |
-| 40 | [MIDNIGHT](https://open.spotify.com/track/5KeU7MslMMU4NZcJ2GIJdK) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [KINGDOM](https://open.spotify.com/album/4uPXRFvnyXL13UV154reKX) | 3:56 |
-| 41 | [ROCKIN' OUT](https://open.spotify.com/track/2gIJD9tlR11NQhgrhQPC30) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [4](https://open.spotify.com/album/5But7Bof89100t1dGas3vE) | 3:30 |
-| 42 | [SINGING](https://open.spotify.com/track/23CvdoP44hvsQQHzZmBEWB) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [LIAR](https://open.spotify.com/album/5Q7cs4fbLi9ouR8FpLHikk) | 4:05 |
+| 40 | [SINGING](https://open.spotify.com/track/23CvdoP44hvsQQHzZmBEWB) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [LIAR](https://open.spotify.com/album/5Q7cs4fbLi9ouR8FpLHikk) | 4:05 |
+| 41 | [MIDNIGHT](https://open.spotify.com/track/5KeU7MslMMU4NZcJ2GIJdK) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [KINGDOM](https://open.spotify.com/album/4uPXRFvnyXL13UV154reKX) | 3:56 |
+| 42 | [ROCKIN' OUT](https://open.spotify.com/track/2gIJD9tlR11NQhgrhQPC30) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [4](https://open.spotify.com/album/5But7Bof89100t1dGas3vE) | 3:30 |
 | 43 | [あの頃、僕らは同じ未来を](https://open.spotify.com/track/1gR5yiekZEQtB0XLS4LBx5) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [BEST](https://open.spotify.com/album/6tQGlVKPllcFPSmlbv2mVx) | 4:56 |
 | 44 | [Winding Road](https://open.spotify.com/track/1kV6pij3pjXHbAbvhehnOY) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [MILLION](https://open.spotify.com/album/1gijAmde8RoTtzFIy4pa58) | 4:40 |
-| 45 | [COME IN SUMMER](https://open.spotify.com/track/1qmg9NdpEaRE70MgSjLath) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [4](https://open.spotify.com/album/5But7Bof89100t1dGas3vE) | 3:45 |
-| 46 | [Get over it](https://open.spotify.com/track/0bd3mjHcB0y5NV3j0Qg1rl) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [UNITE](https://open.spotify.com/album/1ZKqKNaTjM3yuWYRmv33m4) | 3:36 |
+| 45 | [Get over it](https://open.spotify.com/track/0bd3mjHcB0y5NV3j0Qg1rl) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [UNITE](https://open.spotify.com/album/1ZKqKNaTjM3yuWYRmv33m4) | 3:36 |
+| 46 | [COME IN SUMMER](https://open.spotify.com/track/1qmg9NdpEaRE70MgSjLath) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [4](https://open.spotify.com/album/5But7Bof89100t1dGas3vE) | 3:45 |
 | 47 | [君がいた夏](https://open.spotify.com/track/4ZE0oGkJo6jSWtg2nKKdUi) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [KINGDOM](https://open.spotify.com/album/4uPXRFvnyXL13UV154reKX) | 5:00 |
 | 48 | [STAR](https://open.spotify.com/track/6tWWNHpJMwIsy3NeSGGvYi) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [Naked](https://open.spotify.com/album/3KYvw9yizdKqQPa7K1iEd9) | 3:49 |
-| 49 | [Stand by me](https://open.spotify.com/track/1qXYlZxHMMoLyIG7nTHatU) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [4](https://open.spotify.com/album/5But7Bof89100t1dGas3vE) | 3:52 |
-| 50 | [OVERLOAD](https://open.spotify.com/track/3zJD8i4v5bM3D7uyxAVI4P) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [MILLION](https://open.spotify.com/album/1gijAmde8RoTtzFIy4pa58) | 3:05 |
+| 49 | [OVERLOAD](https://open.spotify.com/track/3zJD8i4v5bM3D7uyxAVI4P) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [MILLION](https://open.spotify.com/album/1gijAmde8RoTtzFIy4pa58) | 3:05 |
+| 50 | [Stand by me](https://open.spotify.com/track/1qXYlZxHMMoLyIG7nTHatU) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [4](https://open.spotify.com/album/5But7Bof89100t1dGas3vE) | 3:52 |
 
-Snapshot ID: `afU+gAAAAADrACuSIQ1U3RZ9VQofFhHv`
+Snapshot ID: `afaQAAAAAAAiKzosKFvVz9Jo0/I4ebrW`

@@ -1,6 +1,6 @@
 {
   "description": "Pop country hits of today and tomorrow. Cover: Ingrid Andress",
-  "num_followers": 251046,
+  "num_followers": 251101,
   "original_name": "Pop Country",
   "owner": {
     "name": "Spotify",
@@ -635,26 +635,6 @@
     {
       "added_at": "2026-04-24 04:02:39",
       "album": {
-        "name": "Holy Water",
-        "url": "https://open.spotify.com/album/6DD756fhA5jj74FmDBncgU"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 149669,
-      "name": "Holy Water",
-      "url": "https://open.spotify.com/track/5Xnkr4b6swk6BA5IinCIlU"
-    },
-    {
-      "added_at": "2026-04-24 04:02:39",
-      "album": {
         "name": "One Of Them Girls",
         "url": "https://open.spotify.com/album/42Rl6aaMTG6EgYxzjP41qp"
       },
@@ -667,6 +647,22 @@
       "duration_ms": 188893,
       "name": "One Of Them Girls",
       "url": "https://open.spotify.com/track/14GwnOeC9qYEKEA6uOZepa"
+    },
+    {
+      "added_at": "2026-04-24 04:02:39",
+      "album": {
+        "name": "5 Foot 9",
+        "url": "https://open.spotify.com/album/5CTNA7y4WYhLcCd8ijsnRr"
+      },
+      "artists": [
+        {
+          "name": "Tyler Hubbard",
+          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
+        }
+      ],
+      "duration_ms": 189780,
+      "name": "5 Foot 9",
+      "url": "https://open.spotify.com/track/6AqwH2Y9FJwhUE2dCSkw1u"
     },
     {
       "added_at": "2026-04-24 04:02:39",
@@ -687,18 +683,22 @@
     {
       "added_at": "2026-04-24 04:02:39",
       "album": {
-        "name": "5 Foot 9",
-        "url": "https://open.spotify.com/album/5CTNA7y4WYhLcCd8ijsnRr"
+        "name": "Holy Water",
+        "url": "https://open.spotify.com/album/6DD756fhA5jj74FmDBncgU"
       },
       "artists": [
         {
-          "name": "Tyler Hubbard",
-          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
         }
       ],
-      "duration_ms": 189780,
-      "name": "5 Foot 9",
-      "url": "https://open.spotify.com/track/6AqwH2Y9FJwhUE2dCSkw1u"
+      "duration_ms": 149669,
+      "name": "Holy Water",
+      "url": "https://open.spotify.com/track/5Xnkr4b6swk6BA5IinCIlU"
     },
     {
       "added_at": "2026-04-24 04:02:39",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2026-04-24 04:02:39",
       "album": {
+        "name": "The Otherside",
+        "url": "https://open.spotify.com/album/5MVSCE7VkkqDA6TS9Ug1rW"
+      },
+      "artists": [
+        {
+          "name": "Cam",
+          "url": "https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO"
+        }
+      ],
+      "duration_ms": 195533,
+      "name": "Till There's Nothing Left",
+      "url": "https://open.spotify.com/track/6rIIhxmidzI07z1kgiOqY8"
+    },
+    {
+      "added_at": "2026-04-24 04:02:39",
+      "album": {
         "name": "I Dare You",
         "url": "https://open.spotify.com/album/5XSUjqKWdL4H36HkOni7zX"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 228066,
       "name": "I Dare You",
       "url": "https://open.spotify.com/track/3QcZ0HiwWxwQYT2F17DCTm"
-    },
-    {
-      "added_at": "2026-04-24 04:02:39",
-      "album": {
-        "name": "The Otherside",
-        "url": "https://open.spotify.com/album/5MVSCE7VkkqDA6TS9Ug1rW"
-      },
-      "artists": [
-        {
-          "name": "Cam",
-          "url": "https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO"
-        }
-      ],
-      "duration_ms": 195533,
-      "name": "Till There's Nothing Left",
-      "url": "https://open.spotify.com/track/6rIIhxmidzI07z1kgiOqY8"
     },
     {
       "added_at": "2026-04-24 04:02:39",
@@ -1359,26 +1359,6 @@
     {
       "added_at": "2026-04-24 04:02:39",
       "album": {
-        "name": "Bulletproof (feat. Avril Lavigne)",
-        "url": "https://open.spotify.com/album/1tEc7o0AbTqnl3RA873yHK"
-      },
-      "artists": [
-        {
-          "name": "Nate Smith",
-          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
-        },
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        }
-      ],
-      "duration_ms": 183919,
-      "name": "Bulletproof (feat. Avril Lavigne)",
-      "url": "https://open.spotify.com/track/3Hns0fETEXY84fGjboAbT7"
-    },
-    {
-      "added_at": "2026-04-24 04:02:39",
-      "album": {
         "name": "Anything She Says",
         "url": "https://open.spotify.com/album/0xuuAAiiNHuLd3QUstmwMQ"
       },
@@ -1395,6 +1375,26 @@
       "duration_ms": 169154,
       "name": "Anything She Says",
       "url": "https://open.spotify.com/track/6LQxv30jh0lCISHsPYwqoy"
+    },
+    {
+      "added_at": "2026-04-24 04:02:39",
+      "album": {
+        "name": "Bulletproof (feat. Avril Lavigne)",
+        "url": "https://open.spotify.com/album/1tEc7o0AbTqnl3RA873yHK"
+      },
+      "artists": [
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
+        },
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "duration_ms": 183919,
+      "name": "Bulletproof (feat. Avril Lavigne)",
+      "url": "https://open.spotify.com/track/3Hns0fETEXY84fGjboAbT7"
     },
     {
       "added_at": "2026-04-24 04:02:39",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2026-04-24 04:02:39",
       "album": {
-        "name": "Simple Things",
-        "url": "https://open.spotify.com/album/2hXLLTOWuaygcf7EaRiQEB"
-      },
-      "artists": [
-        {
-          "name": "Ne-Yo",
-          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
-        }
-      ],
-      "duration_ms": 178846,
-      "name": "Simple Things",
-      "url": "https://open.spotify.com/track/4WKsZmIYlkcyqX5OuTmfTs"
-    },
-    {
-      "added_at": "2026-04-24 04:02:39",
-      "album": {
         "name": "Home Sweet",
         "url": "https://open.spotify.com/album/5O5Y7X9y24GiOijvy19ef8"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 205946,
       "name": "Home Sweet",
       "url": "https://open.spotify.com/track/7xMFk2Vj2hALyMdzHFopJl"
+    },
+    {
+      "added_at": "2026-04-24 04:02:39",
+      "album": {
+        "name": "Simple Things",
+        "url": "https://open.spotify.com/album/2hXLLTOWuaygcf7EaRiQEB"
+      },
+      "artists": [
+        {
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+        }
+      ],
+      "duration_ms": 178846,
+      "name": "Simple Things",
+      "url": "https://open.spotify.com/track/4WKsZmIYlkcyqX5OuTmfTs"
     },
     {
       "added_at": "2026-04-24 04:02:39",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2026-04-24 04:02:39",
       "album": {
-        "name": "Better Liar",
-        "url": "https://open.spotify.com/album/6GQ5SLUlVBc95MZiDJrU2j"
-      },
-      "artists": [
-        {
-          "name": "Julia Cole",
-          "url": "https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene"
-        }
-      ],
-      "duration_ms": 169736,
-      "name": "Better Liar",
-      "url": "https://open.spotify.com/track/4HykouKy5aX0JT3oplCi1O"
-    },
-    {
-      "added_at": "2026-04-24 04:02:39",
-      "album": {
         "name": "Wasted (feat. Kodak Black & Koe Wetzel)",
         "url": "https://open.spotify.com/album/3H6onVGHhKCNYV3ctLLMBf"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 155495,
       "name": "Wasted (feat. Kodak Black & Koe Wetzel)",
       "url": "https://open.spotify.com/track/7ndDjjFDzw6Q68TmIzgHep"
+    },
+    {
+      "added_at": "2026-04-24 04:02:39",
+      "album": {
+        "name": "Better Liar",
+        "url": "https://open.spotify.com/album/6GQ5SLUlVBc95MZiDJrU2j"
+      },
+      "artists": [
+        {
+          "name": "Julia Cole",
+          "url": "https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene"
+        }
+      ],
+      "duration_ms": 169736,
+      "name": "Better Liar",
+      "url": "https://open.spotify.com/track/4HykouKy5aX0JT3oplCi1O"
     },
     {
       "added_at": "2026-04-24 04:02:39",
@@ -1599,6 +1599,22 @@
     {
       "added_at": "2026-04-24 04:02:39",
       "album": {
+        "name": "Please Please Please",
+        "url": "https://open.spotify.com/album/0IAo42WYRRTgBtaRUCSMK1"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 181485,
+      "name": "Please Please Please - Acoustic",
+      "url": "https://open.spotify.com/track/6g5I925i0ti3ajw2A6IXnQ"
+    },
+    {
+      "added_at": "2026-04-24 04:02:39",
+      "album": {
         "name": "Good Beer",
         "url": "https://open.spotify.com/album/3PuVtau24hELLklY6dcd3q"
       },
@@ -1655,38 +1671,6 @@
     {
       "added_at": "2026-04-24 04:02:39",
       "album": {
-        "name": "Please Please Please",
-        "url": "https://open.spotify.com/album/0IAo42WYRRTgBtaRUCSMK1"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 181485,
-      "name": "Please Please Please - Acoustic",
-      "url": "https://open.spotify.com/track/6g5I925i0ti3ajw2A6IXnQ"
-    },
-    {
-      "added_at": "2026-04-24 04:02:39",
-      "album": {
-        "name": "When I Go",
-        "url": "https://open.spotify.com/album/4c8ZAnCNfoJQN0BxloIgbS"
-      },
-      "artists": [
-        {
-          "name": "Dylan Conrique",
-          "url": "https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30"
-        }
-      ],
-      "duration_ms": 199173,
-      "name": "When I Go",
-      "url": "https://open.spotify.com/track/3f14ZwIm04kRnPiqBBIcui"
-    },
-    {
-      "added_at": "2026-04-24 04:02:39",
-      "album": {
         "name": "Diplo Presents Thomas Wesley: Chapter 1 - Snake Oil (Deluxe)",
         "url": "https://open.spotify.com/album/6QkaLeuxTaYibek4fhwpmF"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 150909,
       "name": "Bottle\u2019s Bout Dead (feat. ERNEST)",
       "url": "https://open.spotify.com/track/5QVJ97UEhK7tUe84OYs96p"
+    },
+    {
+      "added_at": "2026-04-24 04:02:39",
+      "album": {
+        "name": "When I Go",
+        "url": "https://open.spotify.com/album/4c8ZAnCNfoJQN0BxloIgbS"
+      },
+      "artists": [
+        {
+          "name": "Dylan Conrique",
+          "url": "https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30"
+        }
+      ],
+      "duration_ms": 199173,
+      "name": "When I Go",
+      "url": "https://open.spotify.com/track/3f14ZwIm04kRnPiqBBIcui"
     },
     {
       "added_at": "2026-04-24 04:02:39",

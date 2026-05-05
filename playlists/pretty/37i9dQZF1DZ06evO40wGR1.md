@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO40wGR1.md) - [plain]
 
 > This is Liran' Roll\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,600 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,604 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO40wGR1.md) - [plain]
 | 31 | [Josefina](https://open.spotify.com/track/3hI44ZnraKYADDH5tKo71q) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [Momentos](https://open.spotify.com/album/0Mot1VW7pPX7lBl02XjoCN) | 4:02 |
 | 32 | [Chamán](https://open.spotify.com/track/4RWdBsWdQ2VBEOMz58EXa8) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [Chamán](https://open.spotify.com/album/0NQkOlwA4imtZD3SkOMErU) | 4:45 |
 | 33 | [Piensa en Mi](https://open.spotify.com/track/2982dNBIFDZkjdjLhnYcOH) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [D.F.](https://open.spotify.com/album/6bsZtXHmanZNWEa0YdgMTh) | 4:39 |
-| 34 | [No Puedo Soñar](https://open.spotify.com/track/4WSYpYixYW8e5jW9OUliLc) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [Recuerdos](https://open.spotify.com/album/3s289NXXERpHfvkRYNbYQs) | 4:18 |
+| 34 | [Eres Fuego](https://open.spotify.com/track/5gk0b8wA06lvW2xxVHTbu7) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [Cambios](https://open.spotify.com/album/1XjPdYX6t4bE8fDE3Hqj4B) | 3:59 |
 | 35 | [Abrázame](https://open.spotify.com/track/2Npx6hoMEEBiJDPXrZ3KOm) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [Momentos](https://open.spotify.com/album/0Mot1VW7pPX7lBl02XjoCN) | 2:12 |
-| 36 | [Eres Fuego](https://open.spotify.com/track/5gk0b8wA06lvW2xxVHTbu7) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [Cambios](https://open.spotify.com/album/1XjPdYX6t4bE8fDE3Hqj4B) | 3:59 |
+| 36 | [No Puedo Soñar](https://open.spotify.com/track/4WSYpYixYW8e5jW9OUliLc) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [Recuerdos](https://open.spotify.com/album/3s289NXXERpHfvkRYNbYQs) | 4:18 |
 | 37 | [California](https://open.spotify.com/track/5ElUJL40Y3LI4KQHbEjQLv) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [Disco de Aniversario](https://open.spotify.com/album/2B06d9gCFyAoSQdjtqVbwc) | 3:20 |
 | 38 | [Porque Te Amo](https://open.spotify.com/track/6Knh4ir11etn5Agk73HkOH) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [María \(Remastered\)](https://open.spotify.com/album/0hIFRE4KyYl4RZHASuJYgF) | 4:25 |
 | 39 | [El Tren](https://open.spotify.com/track/7FEVzk8oZ43d1s09X6zrdd) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [El Diablo](https://open.spotify.com/album/3bLB1fxupRpzlj3heJkAzP) | 3:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO40wGR1.md) - [plain]
 | 49 | [El Pasado](https://open.spotify.com/track/4NjpCEcK6ja9lysf1mNqky) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [Juntos por el Rock, Vol\. 2](https://open.spotify.com/album/3QkDfFUpzoOUYlIo9feu9a) | 4:20 |
 | 50 | [La Falsa](https://open.spotify.com/track/6eWXNEADmfH0yCXZEZ2yHH) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [En Vivo, Vol\. 1](https://open.spotify.com/album/6NwUNxmwxnNDiYoxNU2q2u) | 3:37 |
 
-Snapshot ID: `afU+gAAAAAApe+otm3+Oqp7mOO1xugh6`
+Snapshot ID: `afaQAAAAAAAPtcww2WhJS9/vTNPOgqt1`

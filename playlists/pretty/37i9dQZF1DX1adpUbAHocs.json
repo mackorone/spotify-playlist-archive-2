@@ -1,6 +1,6 @@
 {
   "description": "hop in and take the long way.",
-  "num_followers": 636571,
+  "num_followers": 636509,
   "original_name": "Scenic Route",
   "owner": {
     "name": "Spotify",
@@ -11,18 +11,18 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
-        "name": "RMCM",
-        "url": "https://open.spotify.com/album/2weOG4ZiOjfxiuFMsHm9JQ"
+        "name": "Dream Your Life Away",
+        "url": "https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg"
       },
       "artists": [
         {
-          "name": "Richy Mitch & The Coal Miners",
-          "url": "https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau"
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
         }
       ],
-      "duration_ms": 87000,
-      "name": "Evergreen",
-      "url": "https://open.spotify.com/track/6me7F0aaZjwDo6RJ5MrfBD"
+      "duration_ms": 204280,
+      "name": "Riptide",
+      "url": "https://open.spotify.com/track/7yq4Qj7cqayVTp3FF9CWbm"
     },
     {
       "added_at": "2024-07-05 20:58:56",
@@ -43,18 +43,18 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
-        "name": "Dream Your Life Away",
-        "url": "https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg"
+        "name": "RMCM",
+        "url": "https://open.spotify.com/album/2weOG4ZiOjfxiuFMsHm9JQ"
       },
       "artists": [
         {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+          "name": "Richy Mitch & The Coal Miners",
+          "url": "https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau"
         }
       ],
-      "duration_ms": 204280,
-      "name": "Riptide",
-      "url": "https://open.spotify.com/track/7yq4Qj7cqayVTp3FF9CWbm"
+      "duration_ms": 87000,
+      "name": "Evergreen",
+      "url": "https://open.spotify.com/track/6me7F0aaZjwDo6RJ5MrfBD"
     },
     {
       "added_at": "2024-07-05 20:58:56",
@@ -323,22 +323,6 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
-        "name": "III",
-        "url": "https://open.spotify.com/album/5DIgFG1fM76vmNYlvfv2JJ"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 270892,
-      "name": "Salt And The Sea",
-      "url": "https://open.spotify.com/track/6d2MCbByfqhU85Fmj8WCAN"
-    },
-    {
-      "added_at": "2024-07-05 20:58:56",
-      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/6Wpawdx7fSuBAKY0t793fx"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 463653,
       "name": "Away From The Mire",
       "url": "https://open.spotify.com/track/6oPDKGwBri4OLQX5IYu02T"
+    },
+    {
+      "added_at": "2024-07-05 20:58:56",
+      "album": {
+        "name": "III",
+        "url": "https://open.spotify.com/album/5DIgFG1fM76vmNYlvfv2JJ"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 270892,
+      "name": "Salt And The Sea",
+      "url": "https://open.spotify.com/track/6d2MCbByfqhU85Fmj8WCAN"
     },
     {
       "added_at": "2024-07-05 20:58:56",
@@ -371,22 +371,6 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
-        "name": "A Sailor's Guide to Earth",
-        "url": "https://open.spotify.com/album/5I3UdCxtIh6hkQ7rMPUvA4"
-      },
-      "artists": [
-        {
-          "name": "Sturgill Simpson",
-          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
-        }
-      ],
-      "duration_ms": 212586,
-      "name": "Breakers Roar",
-      "url": "https://open.spotify.com/track/7rR5X9RKz5VprclstYOLb5"
-    },
-    {
-      "added_at": "2024-07-05 20:58:56",
-      "album": {
         "name": "Lukas Nelson & Promise Of The Real",
         "url": "https://open.spotify.com/album/7FRf2pzChLAhYLWL55hmlH"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 376333,
       "name": "Find Yourself",
       "url": "https://open.spotify.com/track/058T5UiAWu70uTAYDN67kY"
+    },
+    {
+      "added_at": "2024-07-05 20:58:56",
+      "album": {
+        "name": "A Sailor's Guide to Earth",
+        "url": "https://open.spotify.com/album/5I3UdCxtIh6hkQ7rMPUvA4"
+      },
+      "artists": [
+        {
+          "name": "Sturgill Simpson",
+          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
+        }
+      ],
+      "duration_ms": 212586,
+      "name": "Breakers Roar",
+      "url": "https://open.spotify.com/track/7rR5X9RKz5VprclstYOLb5"
     },
     {
       "added_at": "2024-07-05 20:58:56",
@@ -551,22 +551,6 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
-        "name": "By the Way, I Forgive You",
-        "url": "https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 241146,
-      "name": "Every Time I Hear That Song",
-      "url": "https://open.spotify.com/track/0hoRmVUp5cZ1empu0nSHU8"
-    },
-    {
-      "added_at": "2024-07-05 20:58:56",
-      "album": {
         "name": "The Future",
         "url": "https://open.spotify.com/album/48KAdMIRvmqIq7py0qw3rh"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 279186,
       "name": "Face Down In The Moment",
       "url": "https://open.spotify.com/track/5yTpyXVKcB20zOGXU1ffgf"
+    },
+    {
+      "added_at": "2024-07-05 20:58:56",
+      "album": {
+        "name": "By the Way, I Forgive You",
+        "url": "https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 241146,
+      "name": "Every Time I Hear That Song",
+      "url": "https://open.spotify.com/track/0hoRmVUp5cZ1empu0nSHU8"
     },
     {
       "added_at": "2024-07-05 20:58:56",
@@ -831,22 +831,6 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
-        "name": "Northern Attitude",
-        "url": "https://open.spotify.com/album/7CsdJMncx766H8wUfvbQtR"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 267256,
-      "name": "Northern Attitude",
-      "url": "https://open.spotify.com/track/3vbtOMZEVRt6NKqyzMWqxq"
-    },
-    {
-      "added_at": "2024-07-05 20:58:56",
-      "album": {
         "name": "Reunions",
         "url": "https://open.spotify.com/album/5XIafkwTpyvL7jjLJx1xKz"
       },
@@ -867,6 +851,22 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
+        "name": "Northern Attitude",
+        "url": "https://open.spotify.com/album/7CsdJMncx766H8wUfvbQtR"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 267256,
+      "name": "Northern Attitude",
+      "url": "https://open.spotify.com/track/3vbtOMZEVRt6NKqyzMWqxq"
+    },
+    {
+      "added_at": "2024-07-05 20:58:56",
+      "album": {
         "name": "The Emitt Rhodes Recordings (1969-1973)",
         "url": "https://open.spotify.com/album/6r4mUQIagaCmJjrOBW3SIB"
       },
@@ -879,6 +879,38 @@
       "duration_ms": 146680,
       "name": "Somebody Made For Me",
       "url": "https://open.spotify.com/track/2hq50hCUUknhUXZ9uL3wgq"
+    },
+    {
+      "added_at": "2024-07-05 20:58:56",
+      "album": {
+        "name": "The Third Gleam",
+        "url": "https://open.spotify.com/album/6qHVJFxoizJAdhB7CdbaV2"
+      },
+      "artists": [
+        {
+          "name": "The Avett Brothers",
+          "url": "https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q"
+        }
+      ],
+      "duration_ms": 244280,
+      "name": "Untitled #4",
+      "url": "https://open.spotify.com/track/1kq9lzEHoY3p8naHWpqNlh"
+    },
+    {
+      "added_at": "2024-07-05 20:58:56",
+      "album": {
+        "name": "Lucifer On The Sofa",
+        "url": "https://open.spotify.com/album/1szMY4QqnQZgNuyLBC4jUQ"
+      },
+      "artists": [
+        {
+          "name": "Spoon",
+          "url": "https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe"
+        }
+      ],
+      "duration_ms": 193277,
+      "name": "Wild",
+      "url": "https://open.spotify.com/track/05uhED0miR9OJYPalPi7tx"
     },
     {
       "added_at": "2024-07-05 20:58:56",
@@ -911,38 +943,6 @@
       "duration_ms": 177366,
       "name": "Not Dead Yet",
       "url": "https://open.spotify.com/track/5NRbNXwXHM9mYgxMhzVWTP"
-    },
-    {
-      "added_at": "2024-07-05 20:58:56",
-      "album": {
-        "name": "Lucifer On The Sofa",
-        "url": "https://open.spotify.com/album/1szMY4QqnQZgNuyLBC4jUQ"
-      },
-      "artists": [
-        {
-          "name": "Spoon",
-          "url": "https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe"
-        }
-      ],
-      "duration_ms": 193277,
-      "name": "Wild",
-      "url": "https://open.spotify.com/track/05uhED0miR9OJYPalPi7tx"
-    },
-    {
-      "added_at": "2024-07-05 20:58:56",
-      "album": {
-        "name": "The Third Gleam",
-        "url": "https://open.spotify.com/album/6qHVJFxoizJAdhB7CdbaV2"
-      },
-      "artists": [
-        {
-          "name": "The Avett Brothers",
-          "url": "https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q"
-        }
-      ],
-      "duration_ms": 244280,
-      "name": "Untitled #4",
-      "url": "https://open.spotify.com/track/1kq9lzEHoY3p8naHWpqNlh"
     },
     {
       "added_at": "2024-07-05 20:58:56",
@@ -1027,18 +1027,22 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
-        "name": "Faithless",
-        "url": "https://open.spotify.com/album/02jRAhRPMCdjOGnp7vxFfh"
+        "name": "Lotta Love",
+        "url": "https://open.spotify.com/album/5x4bbGHyxTYhEnhXXmN2OE"
       },
       "artists": [
         {
-          "name": "The Airborne Toxic Event",
-          "url": "https://open.spotify.com/artist/7xovAENFxmyEWhzbnHsB3Z"
+          "name": "Helado Negro",
+          "url": "https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ"
+        },
+        {
+          "name": "Flock of Dimes",
+          "url": "https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP"
         }
       ],
-      "duration_ms": 250565,
-      "name": "Faithless",
-      "url": "https://open.spotify.com/track/6Ehy2SxoGNmLoJQxGUr9fq"
+      "duration_ms": 197624,
+      "name": "Lotta Love",
+      "url": "https://open.spotify.com/track/4xPoGj1cAY9v5AGardly8e"
     },
     {
       "added_at": "2024-07-05 20:58:56",
@@ -1063,26 +1067,6 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
-        "name": "Lotta Love",
-        "url": "https://open.spotify.com/album/5x4bbGHyxTYhEnhXXmN2OE"
-      },
-      "artists": [
-        {
-          "name": "Helado Negro",
-          "url": "https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ"
-        },
-        {
-          "name": "Flock of Dimes",
-          "url": "https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP"
-        }
-      ],
-      "duration_ms": 197624,
-      "name": "Lotta Love",
-      "url": "https://open.spotify.com/track/4xPoGj1cAY9v5AGardly8e"
-    },
-    {
-      "added_at": "2024-07-05 20:58:56",
-      "album": {
         "name": "Old Time Feeling",
         "url": "https://open.spotify.com/album/157xeDtGxPmnZIQfdJjQFT"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 176600,
       "name": "Supertramp",
       "url": "https://open.spotify.com/track/0XUC0NWE9vAakeCgvaekVs"
+    },
+    {
+      "added_at": "2024-07-05 20:58:56",
+      "album": {
+        "name": "Faithless",
+        "url": "https://open.spotify.com/album/02jRAhRPMCdjOGnp7vxFfh"
+      },
+      "artists": [
+        {
+          "name": "The Airborne Toxic Event",
+          "url": "https://open.spotify.com/artist/7xovAENFxmyEWhzbnHsB3Z"
+        }
+      ],
+      "duration_ms": 250565,
+      "name": "Faithless",
+      "url": "https://open.spotify.com/track/6Ehy2SxoGNmLoJQxGUr9fq"
     },
     {
       "added_at": "2024-07-05 20:58:56",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
-        "name": "South Gotta Change",
-        "url": "https://open.spotify.com/album/2fqnpucDvUPFqFTTn3MTiQ"
-      },
-      "artists": [
-        {
-          "name": "Adia Victoria",
-          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
-        }
-      ],
-      "duration_ms": 225266,
-      "name": "South Gotta Change",
-      "url": "https://open.spotify.com/track/4hDxqXmufOdDFlqnUqcamD"
-    },
-    {
-      "added_at": "2024-07-05 20:58:56",
-      "album": {
         "name": "Black Hole Rainbow",
         "url": "https://open.spotify.com/album/0F6GEmGd1mErhB4Ie2d2So"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 245080,
       "name": "The Good Life",
       "url": "https://open.spotify.com/track/2tiq10rhGegBQmBa81etVS"
+    },
+    {
+      "added_at": "2024-07-05 20:58:56",
+      "album": {
+        "name": "South Gotta Change",
+        "url": "https://open.spotify.com/album/2fqnpucDvUPFqFTTn3MTiQ"
+      },
+      "artists": [
+        {
+          "name": "Adia Victoria",
+          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
+        }
+      ],
+      "duration_ms": 225266,
+      "name": "South Gotta Change",
+      "url": "https://open.spotify.com/track/4hDxqXmufOdDFlqnUqcamD"
     },
     {
       "added_at": "2024-07-05 20:58:56",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
-        "name": "The Unseen In Between",
-        "url": "https://open.spotify.com/album/349hcptM7Y0HRpgrsSY570"
-      },
-      "artists": [
-        {
-          "name": "Steve Gunn",
-          "url": "https://open.spotify.com/artist/7uLXW75DlTRahz2WKJZGeO"
-        }
-      ],
-      "duration_ms": 310360,
-      "name": "New Moon",
-      "url": "https://open.spotify.com/track/0ZWliPPI1OGqhcDSBJUHim"
-    },
-    {
-      "added_at": "2024-07-05 20:58:56",
-      "album": {
         "name": "Heigh Ho",
         "url": "https://open.spotify.com/album/05oav7mCaoTnTpuIFSv7T6"
       },
@@ -1323,18 +1307,18 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
-        "name": "The Only Ones",
-        "url": "https://open.spotify.com/album/72jSY4ND11mZ9qeOmIsVJh"
+        "name": "The Unseen In Between",
+        "url": "https://open.spotify.com/album/349hcptM7Y0HRpgrsSY570"
       },
       "artists": [
         {
-          "name": "The Milk Carton Kids",
-          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
+          "name": "Steve Gunn",
+          "url": "https://open.spotify.com/artist/7uLXW75DlTRahz2WKJZGeO"
         }
       ],
-      "duration_ms": 144946,
-      "name": "I'll Be Gone",
-      "url": "https://open.spotify.com/track/2z4NCsQxVucYfAeUU1ljE2"
+      "duration_ms": 310360,
+      "name": "New Moon",
+      "url": "https://open.spotify.com/track/0ZWliPPI1OGqhcDSBJUHim"
     },
     {
       "added_at": "2024-07-05 20:58:56",
@@ -1351,6 +1335,22 @@
       "duration_ms": 166440,
       "name": "Shakedown",
       "url": "https://open.spotify.com/track/6vyVxWBHLIqNdhy4IGz1LN"
+    },
+    {
+      "added_at": "2024-07-05 20:58:56",
+      "album": {
+        "name": "The Only Ones",
+        "url": "https://open.spotify.com/album/72jSY4ND11mZ9qeOmIsVJh"
+      },
+      "artists": [
+        {
+          "name": "The Milk Carton Kids",
+          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
+        }
+      ],
+      "duration_ms": 144946,
+      "name": "I'll Be Gone",
+      "url": "https://open.spotify.com/track/2z4NCsQxVucYfAeUU1ljE2"
     },
     {
       "added_at": "2024-07-05 20:58:56",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
+        "name": "The Moon And Stars: Prescriptions For Dreamers",
+        "url": "https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 210346,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/5MOHiX0uAj555wbYJyBnDy"
+    },
+    {
+      "added_at": "2024-07-05 20:58:56",
+      "album": {
         "name": "It\u2019s a good day (to fight the system) [feat. Joy Oladokun]",
         "url": "https://open.spotify.com/album/4PLKogyBkZU5ApXNogSDIF"
       },
@@ -1419,22 +1435,6 @@
       "duration_ms": 197474,
       "name": "It\u2019s a good day (to fight the system) - feat. Joy Oladokun",
       "url": "https://open.spotify.com/track/0E5MOJcS4Fluq18lTvTVkf"
-    },
-    {
-      "added_at": "2024-07-05 20:58:56",
-      "album": {
-        "name": "The Moon And Stars: Prescriptions For Dreamers",
-        "url": "https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 210346,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/5MOHiX0uAj555wbYJyBnDy"
     },
     {
       "added_at": "2024-07-05 20:58:56",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
-        "name": "Tight Knit",
-        "url": "https://open.spotify.com/album/4vS4ELlf7HddnAg5mactkC"
-      },
-      "artists": [
-        {
-          "name": "Vetiver",
-          "url": "https://open.spotify.com/artist/7ACSlU8kTcQIbvpwLWze8E"
-        }
-      ],
-      "duration_ms": 318893,
-      "name": "Rolling Sea",
-      "url": "https://open.spotify.com/track/5BI2FOOcSqnrjsjZL29YuS"
-    },
-    {
-      "added_at": "2024-07-05 20:58:56",
-      "album": {
         "name": "Good Luck With Whatever",
         "url": "https://open.spotify.com/album/3esEgXmUs1zjBVqijbZ6RQ"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 332853,
       "name": "Didn't Fix Me",
       "url": "https://open.spotify.com/track/4pqcb6b9PoBnK3HSt4tIeo"
+    },
+    {
+      "added_at": "2024-07-05 20:58:56",
+      "album": {
+        "name": "Tight Knit",
+        "url": "https://open.spotify.com/album/4vS4ELlf7HddnAg5mactkC"
+      },
+      "artists": [
+        {
+          "name": "Vetiver",
+          "url": "https://open.spotify.com/artist/7ACSlU8kTcQIbvpwLWze8E"
+        }
+      ],
+      "duration_ms": 318893,
+      "name": "Rolling Sea",
+      "url": "https://open.spotify.com/track/5BI2FOOcSqnrjsjZL29YuS"
     },
     {
       "added_at": "2024-07-05 20:58:56",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
-        "name": "Blue Eyes, The Harlot, The Queer, The Pusher & Me",
-        "url": "https://open.spotify.com/album/3dhsordyEnHpn6TWNSx4Co"
-      },
-      "artists": [
-        {
-          "name": "Waylon Payne",
-          "url": "https://open.spotify.com/artist/0G3qRFPXLTrujOBCEqSPXE"
-        }
-      ],
-      "duration_ms": 256352,
-      "name": "Santa Ana Winds",
-      "url": "https://open.spotify.com/track/4gOfeoHv1858gkHlITsr3Q"
-    },
-    {
-      "added_at": "2024-07-05 20:58:56",
-      "album": {
         "name": "Road Trippin'",
         "url": "https://open.spotify.com/album/1GwMpo5f1BhiVvnWO9i0ys"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 318000,
       "name": "Road Trippin'",
       "url": "https://open.spotify.com/track/5LiVFwvlEeqMlCei96JkR3"
+    },
+    {
+      "added_at": "2024-07-05 20:58:56",
+      "album": {
+        "name": "Blue Eyes, The Harlot, The Queer, The Pusher & Me",
+        "url": "https://open.spotify.com/album/3dhsordyEnHpn6TWNSx4Co"
+      },
+      "artists": [
+        {
+          "name": "Waylon Payne",
+          "url": "https://open.spotify.com/artist/0G3qRFPXLTrujOBCEqSPXE"
+        }
+      ],
+      "duration_ms": 256352,
+      "name": "Santa Ana Winds",
+      "url": "https://open.spotify.com/track/4gOfeoHv1858gkHlITsr3Q"
     },
     {
       "added_at": "2024-07-05 20:58:56",

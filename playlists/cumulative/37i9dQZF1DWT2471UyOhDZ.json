@@ -897,6 +897,24 @@
     },
     {
       "album": {
+        "name": "Vespers, Tracks 1-4",
+        "url": "https://open.spotify.com/album/71eLI9GjL6lzcqCLRLHrZG"
+      },
+      "artists": [
+        {
+          "name": "Liz Lawrence",
+          "url": "https://open.spotify.com/artist/5v4XGACPGcMZs2ANXBzVmC"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194013,
+      "name": "Black Ulysses",
+      "url": "https://open.spotify.com/track/75IorrAVPCZfzET2ICkVx7"
+    },
+    {
+      "album": {
         "name": "Blankspace",
         "url": "https://open.spotify.com/album/7x4uL7q989pphBMwV3g54g"
       },
@@ -3232,6 +3250,24 @@
       "duration_ms": 276437,
       "name": "Guy Fawkes Tesco Dissociation",
       "url": "https://open.spotify.com/track/6bPvOeqJRytjU4KFl6Wzdy"
+    },
+    {
+      "album": {
+        "name": "Bright Things I Found In The Dark",
+        "url": "https://open.spotify.com/album/2xLweeSXmZEPeXMWoRpudT"
+      },
+      "artists": [
+        {
+          "name": "Josephine Illingworth",
+          "url": "https://open.spotify.com/artist/47tAxYSbAuzh3Pm6FDTUDQ"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280506,
+      "name": "Hail",
+      "url": "https://open.spotify.com/track/450ZDkFvuRfdsfbbeDQfyq"
     },
     {
       "album": {
@@ -7020,7 +7056,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 222031,
       "name": "The Sound And The Summer",
       "url": "https://open.spotify.com/track/4TydIMmvW6ugl5zEM5KbbJ"
@@ -7168,7 +7204,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 179122,
       "name": "This Is The Silence",
       "url": "https://open.spotify.com/track/0eAzpCq4dpoPNNaY6EUyv3"

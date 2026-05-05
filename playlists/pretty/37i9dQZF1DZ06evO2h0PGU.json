@@ -1,12 +1,12 @@
 {
   "description": "This is Yeah Yeah Yeahs. The essential tracks, all in one playlist.",
-  "num_followers": 54147,
+  "num_followers": 54152,
   "original_name": "This Is Yeah Yeah Yeahs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afU+gAAAAABKzUBBE6jdvX/6d/qlbOgn",
+  "snapshot_id": "afaQAAAAAABkmpDwbA/icce9NqgkA7DL",
   "tracks": [
     {
       "added_at": null,
@@ -83,22 +83,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cool It Down",
-        "url": "https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        }
-      ],
-      "duration_ms": 245120,
-      "name": "Burning",
-      "url": "https://open.spotify.com/track/4JFet0crxTPHFV2n1ZqZKV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Show Your Bones",
         "url": "https://open.spotify.com/album/4vILeh9sgKiDXnyL2pHCiz"
       },
@@ -111,6 +95,22 @@
       "duration_ms": 187133,
       "name": "Gold Lion",
       "url": "https://open.spotify.com/track/6ttg1sxtU12beFZkjoc6j5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cool It Down",
+        "url": "https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "duration_ms": 245120,
+      "name": "Burning",
+      "url": "https://open.spotify.com/track/4JFet0crxTPHFV2n1ZqZKV"
     },
     {
       "added_at": null,
@@ -563,8 +563,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "It's Blitz! (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2SIaQf1NRVarE8HDX5j8zG"
+        "name": "IS IS",
+        "url": "https://open.spotify.com/album/6wt9UTlj4kyhYyyLlWDDSi"
       },
       "artists": [
         {
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
         }
       ],
-      "duration_ms": 242080,
-      "name": "Dragon Queen",
-      "url": "https://open.spotify.com/track/1ek6eqeBi1u72pUpDi37oF"
+      "duration_ms": 224133,
+      "name": "10 x 10",
+      "url": "https://open.spotify.com/track/0xaSl0JwnQXUYPG0rtDCda"
     },
     {
       "added_at": null,
@@ -627,8 +627,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "IS IS",
-        "url": "https://open.spotify.com/album/6wt9UTlj4kyhYyyLlWDDSi"
+        "name": "It's Blitz! (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2SIaQf1NRVarE8HDX5j8zG"
       },
       "artists": [
         {
@@ -636,9 +636,9 @@
           "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
         }
       ],
-      "duration_ms": 224133,
-      "name": "10 x 10",
-      "url": "https://open.spotify.com/track/0xaSl0JwnQXUYPG0rtDCda"
+      "duration_ms": 242080,
+      "name": "Dragon Queen",
+      "url": "https://open.spotify.com/track/1ek6eqeBi1u72pUpDi37oF"
     },
     {
       "added_at": null,
@@ -659,6 +659,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "IS IS",
+        "url": "https://open.spotify.com/album/6wt9UTlj4kyhYyyLlWDDSi"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "duration_ms": 240106,
+      "name": "Isis",
+      "url": "https://open.spotify.com/track/2NYq8NiOFp4k1b4UKgW2n1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Yeah Yeah Yeahs",
         "url": "https://open.spotify.com/album/17rd4SKYEpyWUndWXOuWb9"
       },
@@ -675,8 +691,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "It's Blitz!",
-        "url": "https://open.spotify.com/album/0EZNeEs8bgLH2QoqouxCcm"
+        "name": "Spotify Singles (Recorded At Spotify Studios NYC)",
+        "url": "https://open.spotify.com/album/2G0u5GF3ShGtNqpsrdPzcY"
       },
       "artists": [
         {
@@ -684,25 +700,9 @@
           "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
         }
       ],
-      "duration_ms": 212880,
-      "name": "Faces",
-      "url": "https://open.spotify.com/track/6Yw3IyoSf5S05g1nTB6woC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "IS IS",
-        "url": "https://open.spotify.com/album/6wt9UTlj4kyhYyyLlWDDSi"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        }
-      ],
-      "duration_ms": 240106,
-      "name": "Isis",
-      "url": "https://open.spotify.com/track/2NYq8NiOFp4k1b4UKgW2n1"
+      "duration_ms": 197759,
+      "name": "Thirteen - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2VsdSmOcXPGJVRfp9EP7nL"
     },
     {
       "added_at": null,
@@ -723,6 +723,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "It's Blitz!",
+        "url": "https://open.spotify.com/album/0EZNeEs8bgLH2QoqouxCcm"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "duration_ms": 212880,
+      "name": "Faces",
+      "url": "https://open.spotify.com/track/6Yw3IyoSf5S05g1nTB6woC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Yeah Yeah Yeahs",
         "url": "https://open.spotify.com/album/17rd4SKYEpyWUndWXOuWb9"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 120773,
       "name": "Art Star",
       "url": "https://open.spotify.com/track/4qGVGT2JQbwUk9XzUKhnNY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Spotify Singles (Recorded At Spotify Studios NYC)",
-        "url": "https://open.spotify.com/album/2G0u5GF3ShGtNqpsrdPzcY"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        }
-      ],
-      "duration_ms": 197759,
-      "name": "Thirteen - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2VsdSmOcXPGJVRfp9EP7nL"
     },
     {
       "added_at": null,

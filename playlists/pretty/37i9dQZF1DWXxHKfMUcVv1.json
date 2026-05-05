@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica refrescante, para vencer el calor.",
-  "num_followers": 127144,
+  "num_followers": 127147,
   "original_name": "Mi Terer\u00e9",
   "owner": {
     "name": "Spotify",
@@ -95,6 +95,22 @@
     {
       "added_at": "2025-03-14 20:46:39",
       "album": {
+        "name": "Verdades Que Duelen",
+        "url": "https://open.spotify.com/album/5ydJDyrELkgYhHuZx6xytA"
+      },
+      "artists": [
+        {
+          "name": "Los Rehenes",
+          "url": "https://open.spotify.com/artist/5IaAggho4F1gWHE5REe1e8"
+        }
+      ],
+      "duration_ms": 173653,
+      "name": "No Me Importa",
+      "url": "https://open.spotify.com/track/53ysAoMfLuAcThnhxhFwNk"
+    },
+    {
+      "added_at": "2025-03-14 20:46:39",
+      "album": {
         "name": "Welcome To The Jungle",
         "url": "https://open.spotify.com/album/6ZDd9FZ6CDmNjTkPx8t9rz"
       },
@@ -111,22 +127,6 @@
       "duration_ms": 208640,
       "name": "He Querido Quererte",
       "url": "https://open.spotify.com/track/5buC1VFP7FSaB0YokvP0EJ"
-    },
-    {
-      "added_at": "2025-03-14 20:46:39",
-      "album": {
-        "name": "Verdades Que Duelen",
-        "url": "https://open.spotify.com/album/5ydJDyrELkgYhHuZx6xytA"
-      },
-      "artists": [
-        {
-          "name": "Los Rehenes",
-          "url": "https://open.spotify.com/artist/5IaAggho4F1gWHE5REe1e8"
-        }
-      ],
-      "duration_ms": 173653,
-      "name": "No Me Importa",
-      "url": "https://open.spotify.com/track/53ysAoMfLuAcThnhxhFwNk"
     },
     {
       "added_at": "2025-03-14 20:46:39",
@@ -251,6 +251,22 @@
     {
       "added_at": "2025-03-14 20:46:39",
       "album": {
+        "name": "Bailalo Como Quieras, Que Esto Cumbia Villera",
+        "url": "https://open.spotify.com/album/1BfrDLGjWr6BTQjW2ZTSAV"
+      },
+      "artists": [
+        {
+          "name": "El Monchi Papa",
+          "url": "https://open.spotify.com/artist/7n20wi37wBgwQbqabzrMTB"
+        }
+      ],
+      "duration_ms": 215981,
+      "name": "Una Cerveza",
+      "url": "https://open.spotify.com/track/3LUxexs29ODGnrup1G4y89"
+    },
+    {
+      "added_at": "2025-03-14 20:46:39",
+      "album": {
         "name": "El Gallo Rojo",
         "url": "https://open.spotify.com/album/1Yl7ncZUEE2OSmYE95RZOH"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 155191,
       "name": "El Gallo Rojo",
       "url": "https://open.spotify.com/track/6fofmRFBOcURZhv1erfaJ3"
-    },
-    {
-      "added_at": "2025-03-14 20:46:39",
-      "album": {
-        "name": "Bailalo Como Quieras, Que Esto Cumbia Villera",
-        "url": "https://open.spotify.com/album/1BfrDLGjWr6BTQjW2ZTSAV"
-      },
-      "artists": [
-        {
-          "name": "El Monchi Papa",
-          "url": "https://open.spotify.com/artist/7n20wi37wBgwQbqabzrMTB"
-        }
-      ],
-      "duration_ms": 215981,
-      "name": "Una Cerveza",
-      "url": "https://open.spotify.com/track/3LUxexs29ODGnrup1G4y89"
     },
     {
       "added_at": "2025-03-14 20:46:39",
@@ -319,22 +319,6 @@
     {
       "added_at": "2025-03-14 20:46:39",
       "album": {
-        "name": "Emergencia de Amor",
-        "url": "https://open.spotify.com/album/4Ep0QJGPadz7Agnejcy8jK"
-      },
-      "artists": [
-        {
-          "name": "Chapa C",
-          "url": "https://open.spotify.com/artist/6x87eYql5aUn7gBRe1KEKb"
-        }
-      ],
-      "duration_ms": 227971,
-      "name": "Si T\u00fa Supieras",
-      "url": "https://open.spotify.com/track/1Pt5Ne6IbnPyLdBnYiChHV"
-    },
-    {
-      "added_at": "2025-03-14 20:46:39",
-      "album": {
         "name": "Christian Puga y los Ladrones Sueltos",
         "url": "https://open.spotify.com/album/2sCnMd9nQOtUqBEWLNuw3E"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 223093,
       "name": "Ruge Uge",
       "url": "https://open.spotify.com/track/4qUDaUEXqZtGzxiwQbNC82"
+    },
+    {
+      "added_at": "2025-03-14 20:46:39",
+      "album": {
+        "name": "Emergencia de Amor",
+        "url": "https://open.spotify.com/album/4Ep0QJGPadz7Agnejcy8jK"
+      },
+      "artists": [
+        {
+          "name": "Chapa C",
+          "url": "https://open.spotify.com/artist/6x87eYql5aUn7gBRe1KEKb"
+        }
+      ],
+      "duration_ms": 227971,
+      "name": "Si T\u00fa Supieras",
+      "url": "https://open.spotify.com/track/1Pt5Ne6IbnPyLdBnYiChHV"
     },
     {
       "added_at": "2025-03-14 20:46:39",
@@ -703,22 +703,6 @@
     {
       "added_at": "2025-03-14 20:46:39",
       "album": {
-        "name": "Estamos Solos (Nderehe'y)",
-        "url": "https://open.spotify.com/album/1KMbrF7GXhwWcslv5BgjbH"
-      },
-      "artists": [
-        {
-          "name": "Yamila Ruiz",
-          "url": "https://open.spotify.com/artist/3Mh1fBv8JR5AhW6INfwiTl"
-        }
-      ],
-      "duration_ms": 174461,
-      "name": "Estamos Solos (Nderehe'y)",
-      "url": "https://open.spotify.com/track/7KTWO0fIqXdsX1XDtUIzWu"
-    },
-    {
-      "added_at": "2025-03-14 20:46:39",
-      "album": {
         "name": "Me Haces Falta",
         "url": "https://open.spotify.com/album/1LAAMDXoeGYZkOsW8omDwW"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 204950,
       "name": "Me Haces Falta",
       "url": "https://open.spotify.com/track/2p5HdaHUaVSpIhSyqSAGjG"
+    },
+    {
+      "added_at": "2025-03-14 20:46:39",
+      "album": {
+        "name": "Estamos Solos (Nderehe'y)",
+        "url": "https://open.spotify.com/album/1KMbrF7GXhwWcslv5BgjbH"
+      },
+      "artists": [
+        {
+          "name": "Yamila Ruiz",
+          "url": "https://open.spotify.com/artist/3Mh1fBv8JR5AhW6INfwiTl"
+        }
+      ],
+      "duration_ms": 174461,
+      "name": "Estamos Solos (Nderehe'y)",
+      "url": "https://open.spotify.com/track/7KTWO0fIqXdsX1XDtUIzWu"
     },
     {
       "added_at": "2025-03-14 20:46:39",

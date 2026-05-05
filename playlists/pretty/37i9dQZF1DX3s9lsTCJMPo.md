@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s9lsTCJMPo.md) - [plain]
 
 > Nothing but the classics, the best in Soca anthems from the Caribbean\. Cover: Kes
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,785 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,799 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Hello](https://open.spotify.com/track/3cmdQZ2yzUjtKTedabLjqu) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Folklore Riddim](https://open.spotify.com/album/48nubh7FCkPvIG8DqHdLbm) | 3:18 |
-| 2 | [Jump](https://open.spotify.com/track/3lfPuyvkKQsWFFAIhE73ww) | [Rupee](https://open.spotify.com/artist/60TYV12IFUaDfnUA0S67zb) | [1 On 1](https://open.spotify.com/album/3Uq7mIN3ccKNODOAfTjRiy) | 3:34 |
-| 3 | [Famalay](https://open.spotify.com/track/2XRkyBiKyHPyJ0krDmK4MA) | [Skinny Fabulous](https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x), [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Bunji Garlin](https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54) | [Famalay](https://open.spotify.com/album/6ZhAG5mWqLEq3ZB3C1dx5q) | 3:19 |
+| 2 | [Famalay](https://open.spotify.com/track/2XRkyBiKyHPyJ0krDmK4MA) | [Skinny Fabulous](https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x), [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Bunji Garlin](https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54) | [Famalay](https://open.spotify.com/album/6ZhAG5mWqLEq3ZB3C1dx5q) | 3:19 |
+| 3 | [Jump](https://open.spotify.com/track/3lfPuyvkKQsWFFAIhE73ww) | [Rupee](https://open.spotify.com/artist/60TYV12IFUaDfnUA0S67zb) | [1 On 1](https://open.spotify.com/album/3Uq7mIN3ccKNODOAfTjRiy) | 3:34 |
 | 4 | [Roll It Gal](https://open.spotify.com/track/1dhrBVOBJVRAomxv0sqfmK) | [Alison Hinds](https://open.spotify.com/artist/4FdhiagLyTmvDqAVUxsQ57) | [Soca Queen](https://open.spotify.com/album/5SzcUTZQjYFZNcpgCZoyuJ) | 3:58 |
 | 5 | [Fast Wine](https://open.spotify.com/track/4NwVmwGWpiiPdJj3NCehe9) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Fast Wine](https://open.spotify.com/album/2htMNG5thjmStMpHtdE9iH) | 3:24 |
 | 6 | [Cocoa Tea](https://open.spotify.com/track/1x89dD1bENfCHL6MiZurDI) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Cocoa Tea](https://open.spotify.com/album/4bKlTsxPKoojrBks3j7JSL) | 3:31 |
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s9lsTCJMPo.md) - [plain]
 | 30 | [Sing In The Party](https://open.spotify.com/track/02KBvh3N2OobcJebwyHGJJ) | [Scrunter](https://open.spotify.com/artist/4fcEF7tAojSzwIeOfj7sqd) | [Soca Gold](https://open.spotify.com/album/1esm7dLptV1ALm7ItdTUlw) | 5:52 |
 | 31 | [N.O.W\. \(No One Waiting\)](https://open.spotify.com/track/0dENBYxK7LjyqCC2fSN9tR) | [Nadia Batson](https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t), [Destra Garcia](https://open.spotify.com/artist/288xQS2bj5XdAQNF3MghLp) | [In My Feelings](https://open.spotify.com/album/7cUTMtzLnLjf3WFd0ctyDF) | 3:36 |
 | 32 | [Get On](https://open.spotify.com/track/20xMfsI1oNOxRRPmz6isyA) | [Fay\-Ann Lyons](https://open.spotify.com/artist/3FaDIXA3ByDklrL4mcoCYb) | [Soca Gold 2008](https://open.spotify.com/album/0yZvpoJJHkPE9y4bfbKIeT) | 4:03 |
-| 33 | [Tay Lay Lay](https://open.spotify.com/track/134k1h3GaQ8QZY6XnnjCLu) | [Xtatik](https://open.spotify.com/artist/5szs7oPKYJGaEQv1LWwLhm) | [Caribbean Road March 2001 and More](https://open.spotify.com/album/2FxiaiO16VA04ZUnhJo9NP) | 4:33 |
+| 33 | [Feels Like I'm Home Again](https://open.spotify.com/track/1rd1OgVjWmyY0MXya8oDRq) | [Edwin Yearwood](https://open.spotify.com/artist/0QL8EzrRciKCQ9LUy1ZbMe) | [Soca Gold 2008](https://open.spotify.com/album/0yZvpoJJHkPE9y4bfbKIeT) | 4:13 |
 | 34 | [Calypso Music](https://open.spotify.com/track/4dwCppS8jnWDzDUSH8hYBG) | [David Rudder](https://open.spotify.com/artist/56LHUp2Q0S83IaayCWNavq) | [The Gilded Collection 1986 \- 1989](https://open.spotify.com/album/0CzxSJnapStc3Yh2rEst7H) | 7:13 |
-| 35 | [Feels Like I'm Home Again](https://open.spotify.com/track/1rd1OgVjWmyY0MXya8oDRq) | [Edwin Yearwood](https://open.spotify.com/artist/0QL8EzrRciKCQ9LUy1ZbMe) | [Soca Gold 2008](https://open.spotify.com/album/0yZvpoJJHkPE9y4bfbKIeT) | 4:13 |
+| 35 | [Tay Lay Lay](https://open.spotify.com/track/134k1h3GaQ8QZY6XnnjCLu) | [Xtatik](https://open.spotify.com/artist/5szs7oPKYJGaEQv1LWwLhm) | [Caribbean Road March 2001 and More](https://open.spotify.com/album/2FxiaiO16VA04ZUnhJo9NP) | 4:33 |
 | 36 | [Doh Back Back](https://open.spotify.com/track/43P9uBVBo2Vpc7XsmJNBhq) | [Sparrow](https://open.spotify.com/artist/6sEmGgkNrUVlZLhfBuWt5H) | [Soca Gold 2](https://open.spotify.com/album/67tWcKDetfKQS7o3sLV71y) | 6:12 |
 | 37 | [Soka Junkie](https://open.spotify.com/track/6fuR9OzQAkEE4IA5TkjQBz) | [Mr\. Dale](https://open.spotify.com/artist/63MhCRdpN7I70vaMAaNFtD) | [Soca Gold 2008](https://open.spotify.com/album/0yZvpoJJHkPE9y4bfbKIeT) | 4:14 |
 | 38 | [Bassman](https://open.spotify.com/track/0OxXxJVW6h5NwAR71GLCuE) | [Shadow](https://open.spotify.com/artist/3KTiJdOTAN4wmzBtIGZF2a) | [The Best of the Shadow Vol\. 1](https://open.spotify.com/album/4x7MieciF1guO0NmlaXPqI) | 5:05 |

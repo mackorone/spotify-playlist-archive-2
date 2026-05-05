@@ -1,6 +1,6 @@
 {
   "description": "Workout with Haryanvi Songs.",
-  "num_followers": 57095,
+  "num_followers": 57132,
   "original_name": "Haryanvi Workout",
   "owner": {
     "name": "Spotify",
@@ -963,6 +963,42 @@
     {
       "added_at": "2026-04-07 18:46:40",
       "album": {
+        "name": "Haryana Side",
+        "url": "https://open.spotify.com/album/0Io4qN1ciIoZwubHch7Use"
+      },
+      "artists": [
+        {
+          "name": "Ash Bhardwaj",
+          "url": "https://open.spotify.com/artist/3S0GVWEMxgcQgMM7EScrX5"
+        },
+        {
+          "name": "Dhruv Balyaan",
+          "url": "https://open.spotify.com/artist/1xG2KakaKLMD1hrVHryZTw"
+        }
+      ],
+      "duration_ms": 166051,
+      "name": "Haryana Side",
+      "url": "https://open.spotify.com/track/7fHUxpAV4YIPnk0QIzmtGP"
+    },
+    {
+      "added_at": "2026-04-07 18:46:40",
+      "album": {
+        "name": "Dole Laadle",
+        "url": "https://open.spotify.com/album/5Ca9Nx2w4IUCXAtBy5vuyq"
+      },
+      "artists": [
+        {
+          "name": "Gulzaar Chhaniwala",
+          "url": "https://open.spotify.com/artist/1LOB46pDsJhtIXW1nbHYZo"
+        }
+      ],
+      "duration_ms": 181194,
+      "name": "Dole Laadle",
+      "url": "https://open.spotify.com/track/4vDGNh41YgJrSHPxnAJnOS"
+    },
+    {
+      "added_at": "2026-04-07 18:46:40",
+      "album": {
         "name": "KNL To LHR",
         "url": "https://open.spotify.com/album/4eLwKIAxknztWvHmLMVl0x"
       },
@@ -987,54 +1023,22 @@
     {
       "added_at": "2026-04-07 18:46:40",
       "album": {
-        "name": "Haryana Side",
-        "url": "https://open.spotify.com/album/0Io4qN1ciIoZwubHch7Use"
+        "name": "Albedi",
+        "url": "https://open.spotify.com/album/4wgSAxKaTsBRsQClR0kR1H"
       },
       "artists": [
         {
-          "name": "Ash Bhardwaj",
-          "url": "https://open.spotify.com/artist/3S0GVWEMxgcQgMM7EScrX5"
+          "name": "Sangam Vigyaanik",
+          "url": "https://open.spotify.com/artist/6QCNlu5DCtRhOTxGovAols"
         },
         {
-          "name": "Dhruv Balyaan",
-          "url": "https://open.spotify.com/artist/1xG2KakaKLMD1hrVHryZTw"
+          "name": "Elvish Yadav",
+          "url": "https://open.spotify.com/artist/7IBZqnYGLR2eOTP3YJ1asp"
         }
       ],
-      "duration_ms": 166051,
-      "name": "Haryana Side",
-      "url": "https://open.spotify.com/track/7fHUxpAV4YIPnk0QIzmtGP"
-    },
-    {
-      "added_at": "2026-04-07 18:46:40",
-      "album": {
-        "name": "Jat Supremacy",
-        "url": "https://open.spotify.com/album/3rDnXnhPvYyPVj0uT4MMzl"
-      },
-      "artists": [
-        {
-          "name": "Ndee Kundu",
-          "url": "https://open.spotify.com/artist/61P6g4b3TgZ9m2caJlXS4K"
-        }
-      ],
-      "duration_ms": 158333,
-      "name": "Jat Supremacy",
-      "url": "https://open.spotify.com/track/5H8UVQwQKebV6PaB6iTQX8"
-    },
-    {
-      "added_at": "2026-04-07 18:46:40",
-      "album": {
-        "name": "Dole Laadle",
-        "url": "https://open.spotify.com/album/5Ca9Nx2w4IUCXAtBy5vuyq"
-      },
-      "artists": [
-        {
-          "name": "Gulzaar Chhaniwala",
-          "url": "https://open.spotify.com/artist/1LOB46pDsJhtIXW1nbHYZo"
-        }
-      ],
-      "duration_ms": 181194,
-      "name": "Dole Laadle",
-      "url": "https://open.spotify.com/track/4vDGNh41YgJrSHPxnAJnOS"
+      "duration_ms": 180000,
+      "name": "Albedi",
+      "url": "https://open.spotify.com/track/0qFp9OBd6h4l6XelnBNzlZ"
     }
   ],
   "unique_name": "Haryanvi Workout",

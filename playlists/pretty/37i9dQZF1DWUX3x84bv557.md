@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > Frisse Nederlandse pop\. Cover: Zoë Tauran
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,964 likes - 85 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,960 likes - 85 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Waar Ben Jij](https://open.spotify.com/track/5MfppCV3LbvXdQV6UXx7Xp) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Waar Ben Jij](https://open.spotify.com/album/6hlHpnyjty0fwvPT3Ro7Fp) | 3:43 |
 | 2 | [Roulette](https://open.spotify.com/track/7rZ40tv8wag9JkyQelJ4o9) | [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K) | [Roulette](https://open.spotify.com/album/0dD84yXv3JlqH49B0J34DW) | 2:17 |
-| 3 | [Schuilen](https://open.spotify.com/track/4HgOcLYz9T8jZLr3xyc40T) | [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2) | [Schuilen](https://open.spotify.com/album/5NhKivSjyoAOpvl4bMjPGg) | 3:29 |
-| 4 | [Maak Me Nou Niet Gek](https://open.spotify.com/track/0q8Ft87t6fIUZdtve5PwKW) | [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT), [Samuel Welten](https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9), [De Amsterdamse Zomer](https://open.spotify.com/artist/41B0yDQQJEFnLDxTNNtlmJ) | [Maak Me Nou Niet Gek](https://open.spotify.com/album/5jOHbWlFPTHrQbkrIXP5kI) | 2:57 |
-| 5 | [Weer Een Dagje Ouder](https://open.spotify.com/track/7zAYKczeN7LibBSPX48qrW) | [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR), [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk), [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD) | [Samen Is Leuker Dan Alleen](https://open.spotify.com/album/48Y7pJ00km4Md3neQJM9Tf) | 2:43 |
-| 6 | [Constant in beweging](https://open.spotify.com/track/27A3bay3r6t8017eO0AyrA) | [Willem](https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Constant in beweging](https://open.spotify.com/album/6pKZupLQoqrC9QBcH0lVVK) | 3:04 |
-| 7 | [Je Hoort Nog Steeds Bij Mij](https://open.spotify.com/track/7ijzPwiRgNqNqa65zHnRD2) | [FLEUR](https://open.spotify.com/artist/5jE7YqOC3yRqDh0QsOmTV0) | [Je Hoort Nog Steeds Bij Mij](https://open.spotify.com/album/3O6Fegs8MtjUGwVzXAlFMm) | 2:51 |
+| 3 | [Maak Me Nou Niet Gek](https://open.spotify.com/track/0q8Ft87t6fIUZdtve5PwKW) | [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT), [Samuel Welten](https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9), [De Amsterdamse Zomer](https://open.spotify.com/artist/41B0yDQQJEFnLDxTNNtlmJ) | [Maak Me Nou Niet Gek](https://open.spotify.com/album/5jOHbWlFPTHrQbkrIXP5kI) | 2:57 |
+| 4 | [Schuilen](https://open.spotify.com/track/4HgOcLYz9T8jZLr3xyc40T) | [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2) | [Schuilen](https://open.spotify.com/album/5NhKivSjyoAOpvl4bMjPGg) | 3:29 |
+| 5 | [Je Hoort Nog Steeds Bij Mij](https://open.spotify.com/track/7ijzPwiRgNqNqa65zHnRD2) | [FLEUR](https://open.spotify.com/artist/5jE7YqOC3yRqDh0QsOmTV0) | [Je Hoort Nog Steeds Bij Mij](https://open.spotify.com/album/3O6Fegs8MtjUGwVzXAlFMm) | 2:51 |
+| 6 | [Weer Een Dagje Ouder](https://open.spotify.com/track/7zAYKczeN7LibBSPX48qrW) | [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR), [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk), [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD) | [Samen Is Leuker Dan Alleen](https://open.spotify.com/album/48Y7pJ00km4Md3neQJM9Tf) | 2:43 |
+| 7 | [Constant in beweging](https://open.spotify.com/track/27A3bay3r6t8017eO0AyrA) | [Willem](https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Constant in beweging](https://open.spotify.com/album/6pKZupLQoqrC9QBcH0lVVK) | 3:04 |
 | 8 | [Last Man Standing In De Kroeg](https://open.spotify.com/track/5hN17w1WEvwrpP78dWu3rd) | [Yung Felix](https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu), [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8), [Bokoesam](https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI), [Def](https://open.spotify.com/artist/7xSvzzpRGlGKyXVOI6IeWk) | [Last Man Standing In De Kroeg](https://open.spotify.com/album/4rM8noIB9AoqIB5GIttm5f) | 2:51 |
 | 9 | [Kingsize Bed](https://open.spotify.com/track/1V7NFChveWl2i1QkT4PyBb) | [Hansen Tomas](https://open.spotify.com/artist/6LpWW2eQCLzIIJEVys9Xg5) | [Kingsize Bed](https://open.spotify.com/album/14h229HZfdrktan1EQaaIT) | 2:34 |
 | 10 | [Wat Er Allemaal Al Is](https://open.spotify.com/track/4dFy0k1lCs6KUgNT10DRwY) | [Lola Cedès](https://open.spotify.com/artist/2v9aoqXvaM4EYpccxBYeJ0) | [Wat Er Allemaal Al Is](https://open.spotify.com/album/60uGogykzONylIhI17Jcj3) | 2:29 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 84 | [Waar Ben Jij Geweest](https://open.spotify.com/track/4ignFg2a7xfM4Glns0mzIM) | [LAUF](https://open.spotify.com/artist/5ZTKDvzvC98RpTs4TUbilD) | [Waar Ben Jij Geweest](https://open.spotify.com/album/2P2xSOgYCDEPi1n9fTQcT3) | 2:48 |
 | 85 | [Jouw Adres](https://open.spotify.com/track/0daNdINz7hhgm7KYRswsKJ) | [Vlins](https://open.spotify.com/artist/3qV1LDx1ZWWJVdnLuVXAB5), [Laura Yasmin](https://open.spotify.com/artist/2ifdw2Mu8P2fCey9VLhuu2) | [Jouw Adres](https://open.spotify.com/album/4cwPu3BX8jWSpo8nOigTN8) | 2:33 |
 
-Snapshot ID: `AAAAAC58l2Q0wnSaf2Y/WBBHaODmeJ7S`
+Snapshot ID: `AAAAAMNgpUA06ODnMMeZLLllNdFJJTIJ`

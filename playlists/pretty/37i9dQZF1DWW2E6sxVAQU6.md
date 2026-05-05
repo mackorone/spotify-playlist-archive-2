@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2E6sxVAQU6.md) - [plain]
 
 > Dedicata a chi non ha rischiato ed è sempre andato al massimo  ⚡️
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,372 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,376 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2E6sxVAQU6.md) - [plain]
 | 6 | [Ciao Ciao](https://open.spotify.com/track/0jLeyuu6mtsD384054xLah) | [La rappresentante di lista](https://open.spotify.com/artist/0YmQyGKpZgGSDxsC8iEGQU) | [Ciao Ciao](https://open.spotify.com/album/0pK7UNY1nXMQeeJKiAZMMj) | 3:04 |
 | 7 | [Una Vita In Vacanza](https://open.spotify.com/track/6134tdWf6qjAGgQs1xJRyA) | [Lo Stato Sociale](https://open.spotify.com/artist/1MBjY2JFotAGoTYDfO80cM) | [Primati](https://open.spotify.com/album/5zbqOeGsHkqezYWdjl4VpQ) | 3:53 |
 | 8 | [SESSO OCCASIONALE](https://open.spotify.com/track/0Dz9zyx2w3zYtRK6yp3VKD) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s) | [SESSO OCCASIONALE](https://open.spotify.com/album/51lcCxrqnkTxRLbmbL7KX6) | 3:15 |
-| 9 | [Il Ragazzo Della Via Gluck](https://open.spotify.com/track/5iLoVWRuwPity9CuN1VTJ8) | [Adriano Celentano](https://open.spotify.com/artist/1yq9UuPp5DIb5w6eswGbKV) | [Il Ragazzo Della Via Gluck \(2012 Remaster\)](https://open.spotify.com/album/5S22BsWZcjENeRpXRKiB4V) | 4:13 |
-| 10 | [Andamento lento](https://open.spotify.com/track/5HAri7dfAKqA7vTAt8vwMB) | [Tullio De Piscopo](https://open.spotify.com/artist/677NtrMPiyPumrSUs8lBKk) | [1998…e I miei grandi successi](https://open.spotify.com/album/4Vas2bDBwoX9SmeJ9ucL1Q) | 4:16 |
+| 9 | [Andamento lento](https://open.spotify.com/track/5HAri7dfAKqA7vTAt8vwMB) | [Tullio De Piscopo](https://open.spotify.com/artist/677NtrMPiyPumrSUs8lBKk) | [1998…e I miei grandi successi](https://open.spotify.com/album/4Vas2bDBwoX9SmeJ9ucL1Q) | 4:16 |
+| 10 | [Il Ragazzo Della Via Gluck](https://open.spotify.com/track/5iLoVWRuwPity9CuN1VTJ8) | [Adriano Celentano](https://open.spotify.com/artist/1yq9UuPp5DIb5w6eswGbKV) | [Il Ragazzo Della Via Gluck \(2012 Remaster\)](https://open.spotify.com/album/5S22BsWZcjENeRpXRKiB4V) | 4:13 |
 | 11 | [Mai Dire Mai \(La Locura\)](https://open.spotify.com/track/4jmvkbDw0cuWD2Fi9VswFQ) | [Willie Peyote](https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC) | [Mai Dire Mai \(La Locura\)](https://open.spotify.com/album/6Ly8jC23vIa4evVzICvZRu) | 3:28 |
 | 12 | [Quelli Che Non Hanno Età \- Gabry Ponte Power Cut](https://open.spotify.com/track/2mz1KvlR3aHoLSJTdh1nwR) | [Eiffel 65](https://open.spotify.com/artist/64rxQRJsLgZwHHyWKB8fiF), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Eiffel 65 \(Italian Album\)](https://open.spotify.com/album/1JhmNKRWia4bEo6IH8AFpg) | 3:59 |
 | 13 | [Allo stadio](https://open.spotify.com/track/1vbGCz41lKI9QZqnCslW3L) | [Stadio](https://open.spotify.com/artist/4zf0kIjnzqjWlI3Eaw5VlA) | [La Faccia Delle Donne](https://open.spotify.com/album/76rFF7v6dK477ZuNohtqPh) | 3:39 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2E6sxVAQU6.md) - [plain]
 | 36 | [Mamma Non Lo Sa](https://open.spotify.com/track/0XByMyQh8zv94pmr9SnbqG) | [Almamegretta](https://open.spotify.com/artist/7qE9giF76uQ8UcFwlZhiP6) | [Controra](https://open.spotify.com/album/5TizU1nhmP8zngvjbMibLd) | 3:12 |
 | 37 | [Sugli sugli bane bane](https://open.spotify.com/track/13o2dU3sWYYKqB3D3npOR6) | [Le Figlie del Vento](https://open.spotify.com/artist/5KdQM9MsxN0vGes2TlO3zb) | [Mai dire compilation!](https://open.spotify.com/album/0gs0mysY0cv4AuZ3HdebGV) | 2:41 |
 | 38 | [Faccia di cane](https://open.spotify.com/track/4pxSUeyBMAdSWjs69J8RZQ) | [New Trolls](https://open.spotify.com/artist/5RN8L3RHQZ87m7gNWUyFmu) | [Aldebaran..\. e altre emozioni](https://open.spotify.com/album/47HDlTeacOGiaTVwfOZ0GR) | 4:07 |
-| 39 | [Cose Veloci](https://open.spotify.com/track/18ZdbJMhUcNpXtbk9kTA1B) | [Garbo](https://open.spotify.com/artist/7klJT9ZfZwUiXaprwIxbso) | [Fotografie](https://open.spotify.com/album/0VUxmTTE6ka4B6iw56kufZ) | 4:07 |
-| 40 | [La bottega del caffe'](https://open.spotify.com/track/4vgziFK1AtMxdnZllyaDnC) | [Alberto Camerini](https://open.spotify.com/artist/7kOQR3ATctYUODFM38PUOI) | [Rockmantic Collection](https://open.spotify.com/album/47UVu4TaCdXT12GFQPswt3) | 3:40 |
+| 39 | [La bottega del caffe'](https://open.spotify.com/track/4vgziFK1AtMxdnZllyaDnC) | [Alberto Camerini](https://open.spotify.com/artist/7kOQR3ATctYUODFM38PUOI) | [Rockmantic Collection](https://open.spotify.com/album/47UVu4TaCdXT12GFQPswt3) | 3:40 |
+| 40 | [Cose Veloci](https://open.spotify.com/track/18ZdbJMhUcNpXtbk9kTA1B) | [Garbo](https://open.spotify.com/artist/7klJT9ZfZwUiXaprwIxbso) | [Fotografie](https://open.spotify.com/album/0VUxmTTE6ka4B6iw56kufZ) | 4:07 |
 | 41 | [Pafff.\. bum!](https://open.spotify.com/track/3rIyt8qnPDXR8GRaWeiVtX) | [Gianfranco Reverberi](https://open.spotify.com/artist/0LDkZ7eiExUAygRAbJEzdq), [Lucio Dalla](https://open.spotify.com/artist/25MkkfEousyfp2eyh38FUl) | [12000 lune](https://open.spotify.com/album/6FAodIEfgmPYI0sL3KEWHQ) | 2:21 |
 | 42 | [Innamoratissimo](https://open.spotify.com/track/6zFbHceSJ23viD2FKoXS06) | [Righeira](https://open.spotify.com/artist/6hfVCgKTJbLM6M18e2z7OI) | [Righeira The 80's Hit Songs](https://open.spotify.com/album/0kXv5aOToWfQDF31IfM7mm) | 3:49 |
 | 43 | [Sinue' \- Alternative Version](https://open.spotify.com/track/4RG8tAMD8kCDiW8W6TAb0P) | [Tony Esposito](https://open.spotify.com/artist/2E236rsxSkaqZfJpv57gYF) | [Sinue' \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5R9RmrSBzjR4PzEnp7c5OO) | 3:51 |

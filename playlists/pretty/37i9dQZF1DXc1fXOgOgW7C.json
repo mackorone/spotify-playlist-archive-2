@@ -1,6 +1,6 @@
 {
   "description": "Las canciones que marcaron una \u00e9poca.",
-  "num_followers": 52717,
+  "num_followers": 52720,
   "original_name": "Los 2010 Argentina",
   "owner": {
     "name": "Spotify",
@@ -271,18 +271,18 @@
     {
       "added_at": "2024-06-12 22:23:25",
       "album": {
-        "name": "Vicentico 5",
-        "url": "https://open.spotify.com/album/1XKqjErvJYimD94yD3v6ky"
+        "name": "Magistral",
+        "url": "https://open.spotify.com/album/1OZjewK6BpdLB24XlLkBbS"
       },
       "artists": [
         {
-          "name": "Vicentico",
-          "url": "https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ"
+          "name": "Miranda!",
+          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
         }
       ],
-      "duration_ms": 190640,
-      "name": "Creo Que Me Enamor\u00e9",
-      "url": "https://open.spotify.com/track/0EC4pUdeehtjl7Yh5GiV3u"
+      "duration_ms": 178800,
+      "name": "Ya Lo Sab\u00eda",
+      "url": "https://open.spotify.com/track/1fLa7ba2l141LWPUt7Bcok"
     },
     {
       "added_at": "2024-06-12 22:23:25",
@@ -303,18 +303,18 @@
     {
       "added_at": "2024-06-12 22:23:25",
       "album": {
-        "name": "Magistral",
-        "url": "https://open.spotify.com/album/1OZjewK6BpdLB24XlLkBbS"
+        "name": "Vicentico 5",
+        "url": "https://open.spotify.com/album/1XKqjErvJYimD94yD3v6ky"
       },
       "artists": [
         {
-          "name": "Miranda!",
-          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
+          "name": "Vicentico",
+          "url": "https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ"
         }
       ],
-      "duration_ms": 178800,
-      "name": "Ya Lo Sab\u00eda",
-      "url": "https://open.spotify.com/track/1fLa7ba2l141LWPUt7Bcok"
+      "duration_ms": 190640,
+      "name": "Creo Que Me Enamor\u00e9",
+      "url": "https://open.spotify.com/track/0EC4pUdeehtjl7Yh5GiV3u"
     },
     {
       "added_at": "2024-06-12 22:23:25",
@@ -339,6 +339,22 @@
     {
       "added_at": "2024-06-12 22:23:25",
       "album": {
+        "name": "Conociendo Rusia",
+        "url": "https://open.spotify.com/album/1xP7EDeNa518tfq8vxT4cT"
+      },
+      "artists": [
+        {
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
+        }
+      ],
+      "duration_ms": 257176,
+      "name": "Loco en el Desierto",
+      "url": "https://open.spotify.com/track/392fECmnYZTQjL97hqEElg"
+    },
+    {
+      "added_at": "2024-06-12 22:23:25",
+      "album": {
         "name": "Suenan Las Alarmas",
         "url": "https://open.spotify.com/album/5j5VrewC19P5osNjNanIu6"
       },
@@ -351,26 +367,6 @@
       "duration_ms": 257040,
       "name": "Prendido Fuego",
       "url": "https://open.spotify.com/track/0h8P7C86KyfkjnqC4TaDhC"
-    },
-    {
-      "added_at": "2024-06-12 22:23:25",
-      "album": {
-        "name": "Nada Es Tarde",
-        "url": "https://open.spotify.com/album/4N2vqVDcAjDpe44wYdDrKU"
-      },
-      "artists": [
-        {
-          "name": "La Franela",
-          "url": "https://open.spotify.com/artist/5P57GCRyvU7ln5GwNXU8ku"
-        },
-        {
-          "name": "EMI",
-          "url": "https://open.spotify.com/artist/6ITLgutvUhAIXVBbdr7FB1"
-        }
-      ],
-      "duration_ms": 295373,
-      "name": "Fue Tan Bueno",
-      "url": "https://open.spotify.com/track/0i2elQQdEZwsDX5icf0Co8"
     },
     {
       "added_at": "2024-06-12 22:23:25",
@@ -391,18 +387,22 @@
     {
       "added_at": "2024-06-12 22:23:25",
       "album": {
-        "name": "Conociendo Rusia",
-        "url": "https://open.spotify.com/album/1xP7EDeNa518tfq8vxT4cT"
+        "name": "Nada Es Tarde",
+        "url": "https://open.spotify.com/album/4N2vqVDcAjDpe44wYdDrKU"
       },
       "artists": [
         {
-          "name": "Conociendo Rusia",
-          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
+          "name": "La Franela",
+          "url": "https://open.spotify.com/artist/5P57GCRyvU7ln5GwNXU8ku"
+        },
+        {
+          "name": "EMI",
+          "url": "https://open.spotify.com/artist/6ITLgutvUhAIXVBbdr7FB1"
         }
       ],
-      "duration_ms": 257176,
-      "name": "Loco en el Desierto",
-      "url": "https://open.spotify.com/track/392fECmnYZTQjL97hqEElg"
+      "duration_ms": 295373,
+      "name": "Fue Tan Bueno",
+      "url": "https://open.spotify.com/track/0i2elQQdEZwsDX5icf0Co8"
     },
     {
       "added_at": "2024-06-12 22:23:25",
@@ -763,6 +763,22 @@
     {
       "added_at": "2024-06-12 22:23:25",
       "album": {
+        "name": "Bohemio",
+        "url": "https://open.spotify.com/album/0rvKuIaaoeOlU1NDBI0EVm"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+        }
+      ],
+      "duration_ms": 194692,
+      "name": "Bohemio",
+      "url": "https://open.spotify.com/track/1EOm4quqIz2IhJNFsUP6Yj"
+    },
+    {
+      "added_at": "2024-06-12 22:23:25",
+      "album": {
         "name": "El Club De Los Martes",
         "url": "https://open.spotify.com/album/0BDe1xU84IYJoM6kZi3z9G"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 229842,
       "name": "A 1200 Km",
       "url": "https://open.spotify.com/track/4zdEcOj9IEAE1cWG7zzYxB"
-    },
-    {
-      "added_at": "2024-06-12 22:23:25",
-      "album": {
-        "name": "Bohemio",
-        "url": "https://open.spotify.com/album/0rvKuIaaoeOlU1NDBI0EVm"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
-        }
-      ],
-      "duration_ms": 194692,
-      "name": "Bohemio",
-      "url": "https://open.spotify.com/track/1EOm4quqIz2IhJNFsUP6Yj"
     },
     {
       "added_at": "2024-06-12 22:23:25",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-06-12 22:23:25",
       "album": {
-        "name": "Bandera",
-        "url": "https://open.spotify.com/album/318AKHHgLilno4gE3AiEAA"
-      },
-      "artists": [
-        {
-          "name": "1915",
-          "url": "https://open.spotify.com/artist/4jwnlVc9Lj5vMkL32978d1"
-        }
-      ],
-      "duration_ms": 234675,
-      "name": "Polic\u00eda",
-      "url": "https://open.spotify.com/track/0pDooPTaMUaDQfnBdbPdYo"
-    },
-    {
-      "added_at": "2024-06-12 22:23:25",
-      "album": {
         "name": "Leb\u00f3n & Co.",
         "url": "https://open.spotify.com/album/2VuiXEQmTm3WcwGVha8wW2"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 166573,
       "name": "Perdiendo la Cabeza",
       "url": "https://open.spotify.com/track/3KuWAnuZHNMsp7VIJyPyyr"
+    },
+    {
+      "added_at": "2024-06-12 22:23:25",
+      "album": {
+        "name": "Bandera",
+        "url": "https://open.spotify.com/album/318AKHHgLilno4gE3AiEAA"
+      },
+      "artists": [
+        {
+          "name": "1915",
+          "url": "https://open.spotify.com/artist/4jwnlVc9Lj5vMkL32978d1"
+        }
+      ],
+      "duration_ms": 234675,
+      "name": "Polic\u00eda",
+      "url": "https://open.spotify.com/track/0pDooPTaMUaDQfnBdbPdYo"
     },
     {
       "added_at": "2024-06-12 22:23:25",
@@ -943,26 +943,6 @@
     {
       "added_at": "2024-06-12 22:23:25",
       "album": {
-        "name": "Push",
-        "url": "https://open.spotify.com/album/7sNuGriubnM5iunQGKt24O"
-      },
-      "artists": [
-        {
-          "name": "Los Tipitos",
-          "url": "https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt"
-        },
-        {
-          "name": "Ale Sergi",
-          "url": "https://open.spotify.com/artist/6oKLWbs4OqvmeXnREk0flZ"
-        }
-      ],
-      "duration_ms": 260760,
-      "name": "Apostar al Amor",
-      "url": "https://open.spotify.com/track/6PyBNCpOX5uOjKDNjNNgjq"
-    },
-    {
-      "added_at": "2024-06-12 22:23:25",
-      "album": {
         "name": "Destilar",
         "url": "https://open.spotify.com/album/0RpJ96qNoqzpjvh0xrPdrh"
       },
@@ -979,6 +959,26 @@
       "duration_ms": 260523,
       "name": "La Luna de Neuqu\u00e9n",
       "url": "https://open.spotify.com/track/6ZznUaja8PfIbU7UPUJrj4"
+    },
+    {
+      "added_at": "2024-06-12 22:23:25",
+      "album": {
+        "name": "Push",
+        "url": "https://open.spotify.com/album/7sNuGriubnM5iunQGKt24O"
+      },
+      "artists": [
+        {
+          "name": "Los Tipitos",
+          "url": "https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt"
+        },
+        {
+          "name": "Ale Sergi",
+          "url": "https://open.spotify.com/artist/6oKLWbs4OqvmeXnREk0flZ"
+        }
+      ],
+      "duration_ms": 260760,
+      "name": "Apostar al Amor",
+      "url": "https://open.spotify.com/track/6PyBNCpOX5uOjKDNjNNgjq"
     },
     {
       "added_at": "2024-06-12 22:23:25",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2024-06-12 22:23:25",
       "album": {
-        "name": "Cabildo y Juramento",
-        "url": "https://open.spotify.com/album/5N3ahntioMGhMCkEOuNJUn"
-      },
-      "artists": [
-        {
-          "name": "Conociendo Rusia",
-          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
-        }
-      ],
-      "duration_ms": 340920,
-      "name": "Cosas para Decirte",
-      "url": "https://open.spotify.com/track/4bLEdN7hL33Qv4fCz5VLMG"
-    },
-    {
-      "added_at": "2024-06-12 22:23:25",
-      "album": {
         "name": "Historias Perdidas",
         "url": "https://open.spotify.com/album/4QWS9kxQIVo6eHtuYaBfnX"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 223979,
       "name": "\u00bfA d\u00f3nde vas?",
       "url": "https://open.spotify.com/track/0T28vJFKjxSscEEavTeR4R"
+    },
+    {
+      "added_at": "2024-06-12 22:23:25",
+      "album": {
+        "name": "Cabildo y Juramento",
+        "url": "https://open.spotify.com/album/5N3ahntioMGhMCkEOuNJUn"
+      },
+      "artists": [
+        {
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
+        }
+      ],
+      "duration_ms": 340920,
+      "name": "Cosas para Decirte",
+      "url": "https://open.spotify.com/track/4bLEdN7hL33Qv4fCz5VLMG"
     },
     {
       "added_at": "2024-06-12 22:23:25",

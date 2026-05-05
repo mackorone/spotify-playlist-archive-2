@@ -1,6 +1,6 @@
 {
   "description": "Soft edges and slow motion moments \ud83e\udeb4",
-  "num_followers": 1324335,
+  "num_followers": 1324247,
   "original_name": "Easy",
   "owner": {
     "name": "Spotify",
@@ -359,22 +359,6 @@
     {
       "added_at": "2026-04-16 23:00:52",
       "album": {
-        "name": "mood swings",
-        "url": "https://open.spotify.com/album/2jvTYHZayLQaa6ZPz5qqJe"
-      },
-      "artists": [
-        {
-          "name": "Henry Moodie",
-          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
-        }
-      ],
-      "duration_ms": 130653,
-      "name": "ten years time",
-      "url": "https://open.spotify.com/track/2OupMbGCv1k6UDN0ay6sdt"
-    },
-    {
-      "added_at": "2026-04-16 23:00:52",
-      "album": {
         "name": "Anyone In Love",
         "url": "https://open.spotify.com/album/2XWTgpZp4up1zFIIUApP3G"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 186990,
       "name": "Anyone In Love",
       "url": "https://open.spotify.com/track/5fjaHwIsvJKxkhODCYY0EB"
+    },
+    {
+      "added_at": "2026-04-16 23:00:52",
+      "album": {
+        "name": "mood swings",
+        "url": "https://open.spotify.com/album/2jvTYHZayLQaa6ZPz5qqJe"
+      },
+      "artists": [
+        {
+          "name": "Henry Moodie",
+          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
+        }
+      ],
+      "duration_ms": 130653,
+      "name": "ten years time",
+      "url": "https://open.spotify.com/track/2OupMbGCv1k6UDN0ay6sdt"
     },
     {
       "added_at": "2026-04-16 23:00:52",
@@ -615,6 +615,22 @@
     {
       "added_at": "2026-04-16 23:00:52",
       "album": {
+        "name": "Where Were You",
+        "url": "https://open.spotify.com/album/5qbZtAhc1eF1mdImrJlKIs"
+      },
+      "artists": [
+        {
+          "name": "Vicky Sometani",
+          "url": "https://open.spotify.com/artist/29uVFPS7wo6RBGzewIc6pt"
+        }
+      ],
+      "duration_ms": 205768,
+      "name": "Where Were You",
+      "url": "https://open.spotify.com/track/0cxALQcd48GTLTnSAUw25U"
+    },
+    {
+      "added_at": "2026-04-16 23:00:52",
+      "album": {
         "name": "Don't Put It All On Me (feat. Fleet Foxes)",
         "url": "https://open.spotify.com/album/2oj7wFuIFkVPcUENYjkS9U"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 247306,
       "name": "Don't Put It All On Me (feat. Fleet Foxes)",
       "url": "https://open.spotify.com/track/4xZK9tK3N0aOIO18k1Ldul"
-    },
-    {
-      "added_at": "2026-04-16 23:00:52",
-      "album": {
-        "name": "Where Were You",
-        "url": "https://open.spotify.com/album/5qbZtAhc1eF1mdImrJlKIs"
-      },
-      "artists": [
-        {
-          "name": "Vicky Sometani",
-          "url": "https://open.spotify.com/artist/29uVFPS7wo6RBGzewIc6pt"
-        }
-      ],
-      "duration_ms": 205768,
-      "name": "Where Were You",
-      "url": "https://open.spotify.com/track/0cxALQcd48GTLTnSAUw25U"
     },
     {
       "added_at": "2026-04-16 23:00:52",
@@ -763,22 +763,6 @@
     {
       "added_at": "2026-04-16 23:00:52",
       "album": {
-        "name": "Shhugar",
-        "url": "https://open.spotify.com/album/52ktymYrZxeaE07TNU39yk"
-      },
-      "artists": [
-        {
-          "name": "Baby Nova",
-          "url": "https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf"
-        }
-      ],
-      "duration_ms": 213552,
-      "name": "Dodge",
-      "url": "https://open.spotify.com/track/0vNVin6XAa7EU6SGABR1gc"
-    },
-    {
-      "added_at": "2026-04-16 23:00:52",
-      "album": {
         "name": "Small Talk",
         "url": "https://open.spotify.com/album/2V5ZSRBGvmyHmlLGNC6Nt0"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 188870,
       "name": "Small Talk",
       "url": "https://open.spotify.com/track/64YlBjot2BfgtQElfOKN3D"
+    },
+    {
+      "added_at": "2026-04-16 23:00:52",
+      "album": {
+        "name": "Shhugar",
+        "url": "https://open.spotify.com/album/52ktymYrZxeaE07TNU39yk"
+      },
+      "artists": [
+        {
+          "name": "Baby Nova",
+          "url": "https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf"
+        }
+      ],
+      "duration_ms": 213552,
+      "name": "Dodge",
+      "url": "https://open.spotify.com/track/0vNVin6XAa7EU6SGABR1gc"
     },
     {
       "added_at": "2026-04-16 23:00:52",
@@ -811,22 +811,6 @@
     {
       "added_at": "2026-04-16 23:00:52",
       "album": {
-        "name": "Old Man",
-        "url": "https://open.spotify.com/album/7kAoW0zL7wkpCrkMk1lFP5"
-      },
-      "artists": [
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        }
-      ],
-      "duration_ms": 207242,
-      "name": "Old Man",
-      "url": "https://open.spotify.com/track/5KjR1RHch1sHoG7kr5Aazg"
-    },
-    {
-      "added_at": "2026-04-16 23:00:52",
-      "album": {
         "name": "This Must Be Love",
         "url": "https://open.spotify.com/album/61SlbP9mxTiEp36mM0Rfsw"
       },
@@ -843,18 +827,18 @@
     {
       "added_at": "2026-04-16 23:00:52",
       "album": {
-        "name": "Warm on a Cold Night (10 Years)",
-        "url": "https://open.spotify.com/album/655tvIsyYr1pjfO25GzMVa"
+        "name": "Old Man",
+        "url": "https://open.spotify.com/album/7kAoW0zL7wkpCrkMk1lFP5"
       },
       "artists": [
         {
-          "name": "HONNE",
-          "url": "https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac"
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
         }
       ],
-      "duration_ms": 318120,
-      "name": "Warm on a Cold Night (10 Years)",
-      "url": "https://open.spotify.com/track/1NQYxJSgMvzG3jp6g55b6t"
+      "duration_ms": 207242,
+      "name": "Old Man",
+      "url": "https://open.spotify.com/track/5KjR1RHch1sHoG7kr5Aazg"
     },
     {
       "added_at": "2026-04-16 23:00:52",
@@ -871,6 +855,22 @@
       "duration_ms": 224093,
       "name": "I Can\u2019t Believe We Never Went Out Dancing",
       "url": "https://open.spotify.com/track/3lHK21L8Kf4Ajdwhjh0zDm"
+    },
+    {
+      "added_at": "2026-04-16 23:00:52",
+      "album": {
+        "name": "Warm on a Cold Night (10 Years)",
+        "url": "https://open.spotify.com/album/655tvIsyYr1pjfO25GzMVa"
+      },
+      "artists": [
+        {
+          "name": "HONNE",
+          "url": "https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac"
+        }
+      ],
+      "duration_ms": 318120,
+      "name": "Warm on a Cold Night (10 Years)",
+      "url": "https://open.spotify.com/track/1NQYxJSgMvzG3jp6g55b6t"
     },
     {
       "added_at": "2026-04-16 23:00:52",
@@ -959,26 +959,6 @@
     {
       "added_at": "2026-04-16 23:00:52",
       "album": {
-        "name": "Even (with Cat Burns)",
-        "url": "https://open.spotify.com/album/6uxqYbEgP9HE4twJFCZCIQ"
-      },
-      "artists": [
-        {
-          "name": "Rachel Chinouriri",
-          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
-        },
-        {
-          "name": "Cat Burns",
-          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
-        }
-      ],
-      "duration_ms": 151373,
-      "name": "Even (with Cat Burns)",
-      "url": "https://open.spotify.com/track/5CeJU8nNGuwR6LWUzJa5QF"
-    },
-    {
-      "added_at": "2026-04-16 23:00:52",
-      "album": {
         "name": "it's like I never left",
         "url": "https://open.spotify.com/album/0qaGB6BxRJBvwwYSg6mI56"
       },
@@ -991,6 +971,22 @@
       "duration_ms": 175636,
       "name": "Ama said",
       "url": "https://open.spotify.com/track/29BR9FPwLRYH7UiXpN3D34"
+    },
+    {
+      "added_at": "2026-04-16 23:00:52",
+      "album": {
+        "name": "Olive Tree",
+        "url": "https://open.spotify.com/album/16PHvU7FdshoSHOOizxOEG"
+      },
+      "artists": [
+        {
+          "name": "Quinn XCII",
+          "url": "https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd"
+        }
+      ],
+      "duration_ms": 241060,
+      "name": "Olive Tree",
+      "url": "https://open.spotify.com/track/52vHgE4QfUoEyn8h3IqT7T"
     },
     {
       "added_at": "2026-04-16 23:00:52",
@@ -1011,18 +1007,22 @@
     {
       "added_at": "2026-04-16 23:00:52",
       "album": {
-        "name": "Olive Tree",
-        "url": "https://open.spotify.com/album/16PHvU7FdshoSHOOizxOEG"
+        "name": "Even (with Cat Burns)",
+        "url": "https://open.spotify.com/album/6uxqYbEgP9HE4twJFCZCIQ"
       },
       "artists": [
         {
-          "name": "Quinn XCII",
-          "url": "https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd"
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        },
+        {
+          "name": "Cat Burns",
+          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
         }
       ],
-      "duration_ms": 241060,
-      "name": "Olive Tree",
-      "url": "https://open.spotify.com/track/52vHgE4QfUoEyn8h3IqT7T"
+      "duration_ms": 151373,
+      "name": "Even (with Cat Burns)",
+      "url": "https://open.spotify.com/track/5CeJU8nNGuwR6LWUzJa5QF"
     },
     {
       "added_at": "2026-04-16 23:00:52",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2026-04-16 23:00:52",
       "album": {
-        "name": "What A Devastating Turn of Events",
-        "url": "https://open.spotify.com/album/1Td1oiZTQFYR7N1QX00uhr"
-      },
-      "artists": [
-        {
-          "name": "Rachel Chinouriri",
-          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
-        }
-      ],
-      "duration_ms": 217237,
-      "name": "My Blood",
-      "url": "https://open.spotify.com/track/5IJg89vIvi2AWSc1lUVFAc"
-    },
-    {
-      "added_at": "2026-04-16 23:00:52",
-      "album": {
         "name": "Brat and it\u2019s completely different but also still brat",
         "url": "https://open.spotify.com/album/0W5woeQnfOZmVLSbggRRlR"
       },
@@ -1111,18 +1095,18 @@
     {
       "added_at": "2026-04-16 23:00:52",
       "album": {
-        "name": "Let's Try Love",
-        "url": "https://open.spotify.com/album/3kpWWrdHtwYKnrhL2Wt4nM"
+        "name": "What A Devastating Turn of Events",
+        "url": "https://open.spotify.com/album/1Td1oiZTQFYR7N1QX00uhr"
       },
       "artists": [
         {
-          "name": "Picture This",
-          "url": "https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW"
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
         }
       ],
-      "duration_ms": 139493,
-      "name": "Let's Try Love",
-      "url": "https://open.spotify.com/track/5jRrOieyEnmCCmN6YOa9Qy"
+      "duration_ms": 217237,
+      "name": "My Blood",
+      "url": "https://open.spotify.com/track/5IJg89vIvi2AWSc1lUVFAc"
     },
     {
       "added_at": "2026-04-16 23:00:52",
@@ -1139,6 +1123,22 @@
       "duration_ms": 179600,
       "name": "evergreen",
       "url": "https://open.spotify.com/track/5MgPSPCD90L8hq5U1nZRmB"
+    },
+    {
+      "added_at": "2026-04-16 23:00:52",
+      "album": {
+        "name": "Let's Try Love",
+        "url": "https://open.spotify.com/album/3kpWWrdHtwYKnrhL2Wt4nM"
+      },
+      "artists": [
+        {
+          "name": "Picture This",
+          "url": "https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW"
+        }
+      ],
+      "duration_ms": 139493,
+      "name": "Let's Try Love",
+      "url": "https://open.spotify.com/track/5jRrOieyEnmCCmN6YOa9Qy"
     },
     {
       "added_at": "2026-04-16 23:00:52",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2026-04-16 23:00:52",
       "album": {
-        "name": "Little Miss Sunshine",
-        "url": "https://open.spotify.com/album/28Y1YHAmV6ZaqFRZa52F2v"
-      },
-      "artists": [
-        {
-          "name": "Charlie Noordewier",
-          "url": "https://open.spotify.com/artist/0SDfEluak7Z8ML7o1K2Ljk"
-        }
-      ],
-      "duration_ms": 315245,
-      "name": "Little Miss Sunshine",
-      "url": "https://open.spotify.com/track/4ALTbG2KpqPEHo4r8OtrRy"
-    },
-    {
-      "added_at": "2026-04-16 23:00:52",
-      "album": {
         "name": "Portland",
         "url": "https://open.spotify.com/album/44HhRymrweWh8rKCHOpsWf"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 172872,
       "name": "Portland",
       "url": "https://open.spotify.com/track/43IbZJjKp3vo7t88TGjocB"
+    },
+    {
+      "added_at": "2026-04-16 23:00:52",
+      "album": {
+        "name": "Little Miss Sunshine",
+        "url": "https://open.spotify.com/album/28Y1YHAmV6ZaqFRZa52F2v"
+      },
+      "artists": [
+        {
+          "name": "Charlie Noordewier",
+          "url": "https://open.spotify.com/artist/0SDfEluak7Z8ML7o1K2Ljk"
+        }
+      ],
+      "duration_ms": 315245,
+      "name": "Little Miss Sunshine",
+      "url": "https://open.spotify.com/track/4ALTbG2KpqPEHo4r8OtrRy"
     },
     {
       "added_at": "2026-04-16 23:00:52",
@@ -1631,18 +1631,18 @@
     {
       "added_at": "2026-04-16 23:00:52",
       "album": {
-        "name": "missing everything",
-        "url": "https://open.spotify.com/album/7fU4363JFr3dxRGua9eZfT"
+        "name": "Enough",
+        "url": "https://open.spotify.com/album/2chEGfaMozvHc1GJuFF2Wg"
       },
       "artists": [
         {
-          "name": "Amie Blu",
-          "url": "https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC"
+          "name": "Billianne",
+          "url": "https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC"
         }
       ],
-      "duration_ms": 186751,
-      "name": "missing everything",
-      "url": "https://open.spotify.com/track/6vALwkIUxaGmXvV7DuXtb8"
+      "duration_ms": 231011,
+      "name": "Enough",
+      "url": "https://open.spotify.com/track/7xGfUFdnjjkKjNaIzicum6"
     }
   ],
   "unique_name": "Easy",

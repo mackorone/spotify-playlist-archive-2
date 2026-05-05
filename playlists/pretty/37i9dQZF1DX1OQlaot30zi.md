@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Nerissima Serpe, Rame e Marracash, Flaco G e molti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,392 likes - 100 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,393 likes - 100 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 29 | [Euphon](https://open.spotify.com/track/55zeosblxcVqvOjYUbLymx) | [tretreaura](https://open.spotify.com/artist/1EhU56ndTtTBZjoo77GscN), [Olli](https://open.spotify.com/artist/6TjVxYjWKkg9kI8tsg8zDi) | [Euphon](https://open.spotify.com/album/4ZCPCeyc8OG2MGOPd9RB31) | 1:39 |
 | 30 | [NGIARM](https://open.spotify.com/track/6LLeV3Z2CKqeVrHBAUC5XU) | [Erness](https://open.spotify.com/artist/0ai9hSxhZEP5cTjreUnR58) | [NGIARM](https://open.spotify.com/album/28hXSfEVy4c3f5KHVb2z7K) | 2:33 |
 | 31 | [VESTITO EXCLUSIVE](https://open.spotify.com/track/2TnZYAmCSKlTq4ZBDA3I3D) | [Smookid](https://open.spotify.com/artist/2mLQ8JfGyC8pFZTNIhejPR) | [VESTITO EXCLUSIVE](https://open.spotify.com/album/1dLywovsRSmhkZUPtYs8LY) | 2:14 |
-| 32 | [Nati per vincere](https://open.spotify.com/track/1oNNLl87OsqReYLxG9YmG9) | [Roys](https://open.spotify.com/artist/6YBMjHnWmDCE7Kr1uHS2IA), [Capozanarky](https://open.spotify.com/artist/4L2hq3OboU70UVsqOrU6qt) | [Nati per vincere](https://open.spotify.com/album/3gyWXHm35VcrcNKxzpsNL2) | 2:12 |
+| 32 | [NATI PER VINCERE](https://open.spotify.com/track/1oNNLl87OsqReYLxG9YmG9) | [Roys](https://open.spotify.com/artist/6YBMjHnWmDCE7Kr1uHS2IA), [Capozanarky](https://open.spotify.com/artist/4L2hq3OboU70UVsqOrU6qt) | [NATI PER VINCERE](https://open.spotify.com/album/3gyWXHm35VcrcNKxzpsNL2) | 2:12 |
 | 33 | [UN'ALTRA VITA](https://open.spotify.com/track/2STxlu5WFNhEDWI2YrMczu) | [KLIMA](https://open.spotify.com/artist/6NHTkpBxWi4lWRZnpwPYm8) | [UN'ALTRA VITA](https://open.spotify.com/album/4PEiYjmIo9II7Yqs1y7aDf) | 2:20 |
 | 34 | [COST TO COST](https://open.spotify.com/track/0n8b3Gs5t0KehJhsezOik4) | [Cosse](https://open.spotify.com/artist/0LDESJcgTtM2KjhzIIFnq1), [Gale](https://open.spotify.com/artist/0MLdj7ABckNxmKWlrxBuUL), [goon!](https://open.spotify.com/artist/433ELfo0sY6Bp9KxbCIJbW) | [COST TO COST](https://open.spotify.com/album/3nXP7A8UFgdNPDJi7cGnAN) | 2:52 |
 | 35 | [Martin Scorsese](https://open.spotify.com/track/0eXg79Qy30oEDijyuoZ6Cs) | [Clemi](https://open.spotify.com/artist/315sdH2D4pWLT8Q45Bv6ai) | [Martin Scorsese](https://open.spotify.com/album/6NKJi1UGmc4gJQVsiNVKYi) | 2:51 |

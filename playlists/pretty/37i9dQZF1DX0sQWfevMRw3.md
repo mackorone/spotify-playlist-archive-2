@@ -4,27 +4,27 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > 🇳🇴🤝🇸🇪
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,373 likes - 119 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,366 likes - 119 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [JIGGY](https://open.spotify.com/track/4xD69C3ikfS93BRnFI6V3s) | [Kudos](https://open.spotify.com/artist/2uz5pGGHltzQNOmxOd95g7), [Y2K](https://open.spotify.com/artist/1rIHiWJNWxRES9XM09uBfm) | [JIGGY](https://open.spotify.com/album/0Khh1IS7m5yEyOGddsz7vk) | 2:29 |
+| 1 | [Ja Eller Nej](https://open.spotify.com/track/7o69dnp93PF9iICofCRIMR) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r), [Basshunter](https://open.spotify.com/artist/37DdwREpvvQHmGLFEZ4h0Q) | [Ja Eller Nej](https://open.spotify.com/album/1rJNbgGjn3wQrqMC1d4oQS) | 2:32 |
 | 2 | [Sunnanvind](https://open.spotify.com/track/4lBiRh68gJguY2GInzXb6I) | [KaptenX](https://open.spotify.com/artist/5m1kkyZcYNKkjeAh6o9XLp) | [Sunnanvind](https://open.spotify.com/album/2fYINDjJ1eX5g4GFACpyd2) | 2:13 |
-| 3 | [Partylåt](https://open.spotify.com/track/1QXbp74RttGXJDu2I4G56U) | [Mange Makers](https://open.spotify.com/artist/3h4mC2mtKfxToywPSrVPcC) | [Partylåt](https://open.spotify.com/album/4G3jSvEwmF4aDuMx07jifM) | 2:40 |
-| 4 | [Ja Eller Nej](https://open.spotify.com/track/7o69dnp93PF9iICofCRIMR) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r), [Basshunter](https://open.spotify.com/artist/37DdwREpvvQHmGLFEZ4h0Q) | [Ja Eller Nej](https://open.spotify.com/album/1rJNbgGjn3wQrqMC1d4oQS) | 2:32 |
+| 3 | [JIGGY](https://open.spotify.com/track/4xD69C3ikfS93BRnFI6V3s) | [Kudos](https://open.spotify.com/artist/2uz5pGGHltzQNOmxOd95g7), [Y2K](https://open.spotify.com/artist/1rIHiWJNWxRES9XM09uBfm) | [JIGGY](https://open.spotify.com/album/0Khh1IS7m5yEyOGddsz7vk) | 2:29 |
+| 4 | [Far](https://open.spotify.com/track/5Fg1ecVcWgzrAV7IkVjuLC) | [Kuselofte](https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2) | [Far](https://open.spotify.com/album/4uBudhdPJ0Qq6irWpmZrrH) | 2:21 |
 | 5 | [Hela världen sjunger](https://open.spotify.com/track/6ZzZ6u7ue64raIPTwEUbB8) | [Dom Första](https://open.spotify.com/artist/10uLT8GVnmWiYqegEwaO70) | [Hela världen sjunger](https://open.spotify.com/album/1KKfgJfANIUpjgxhMerRJp) | 2:59 |
-| 6 | [På en tur \(Eller hur?\)](https://open.spotify.com/track/1QbyGkRBxMWNL0u50HVgkk) | [Kaptenen](https://open.spotify.com/artist/6DSprS2EbPUhzEly95Ptvl) | [På en tur \(Eller hur?\)](https://open.spotify.com/album/44yp9vkgl3qF3R7UEdqrYL) | 1:49 |
-| 7 | [Håpløs](https://open.spotify.com/track/4SbpGcPIMBFFwPO5B7cuvl) | [Roc Boyz](https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa), [vinni](https://open.spotify.com/artist/2rvUlmaAfN7eKSVAcaRj9t) | [Håpløs](https://open.spotify.com/album/5qampg6B8BB77GrP433F6O) | 3:01 |
-| 8 | [GALEN](https://open.spotify.com/track/0p8ZLtBVdfCjysRxwdCE1k) | [BAKI$](https://open.spotify.com/artist/5Cbn1PScGFcG2PlibZY65u) | [GALEN](https://open.spotify.com/album/5pvXNR9xl7e8RVr1YlG84H) | 2:16 |
-| 9 | [Far](https://open.spotify.com/track/5Fg1ecVcWgzrAV7IkVjuLC) | [Kuselofte](https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2) | [Far](https://open.spotify.com/album/4uBudhdPJ0Qq6irWpmZrrH) | 2:21 |
-| 10 | [Noreg](https://open.spotify.com/track/2oWeiMKGzgd1ewM8XEGRQC) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [Noreg](https://open.spotify.com/album/771Xi1dBWsfNgMaxN2vM1n) | 3:32 |
-| 11 | [My House](https://open.spotify.com/track/5PRkEy2WzT2fYeWo65u9Yx) | [Hjorterud Allé](https://open.spotify.com/artist/1bimLJXbk003FxHablh4b7), [Sleiken](https://open.spotify.com/artist/0l2QmwUY1pWAjK8RcoXQ2v) | [My House](https://open.spotify.com/album/1igBUnHek3kjOoc3KjAJTr) | 2:08 |
-| 12 | [Digg](https://open.spotify.com/track/73QBUSZZDcC5o8CBr6dk4o) | [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt) | [Digg](https://open.spotify.com/album/6186N5x9c4MFouIFpKMvrw) | 2:27 |
-| 13 | [JAG DRAR NU](https://open.spotify.com/track/1WhSOYg6wbj1tHna5KeMZ8) | [Sofie Svensson & Dom Där](https://open.spotify.com/artist/7LBwVPl8kIn3I949KmBVim) | [JAG DRAR NU](https://open.spotify.com/album/62VtCQjpzn0XEecHbLFcTs) | 2:51 |
-| 14 | [TAPPAT ALLT](https://open.spotify.com/track/2iIC5CEW9v4nFNGvJp3XL5) | [Emil Assergård](https://open.spotify.com/artist/3fpHdW8mp95bOCzRLcauZm) | [TAPPAT ALLT](https://open.spotify.com/album/3CYZw8AwUc1Ffdu1TfoQtl) | 2:41 |
-| 15 | [Ljabrur Provisjon](https://open.spotify.com/track/2HPJLOJc86dQ4TkdezsU4o) | [Sleiken](https://open.spotify.com/artist/0l2QmwUY1pWAjK8RcoXQ2v), [Rockmeister](https://open.spotify.com/artist/5jTr3UTf79m3EPzMxIaNlP), [Busemannen](https://open.spotify.com/artist/7GFo5trHkvdopEyIv5pQeQ) | [Ljabrur Provisjon](https://open.spotify.com/album/4L5OCh7lE0TIzE3slaSVNa) | 2:55 |
-| 16 | [Autobahn](https://open.spotify.com/track/69omUBf5OpVyjhXKcPevoF) | [Albatraoz](https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x) | [Autobahn](https://open.spotify.com/album/3sUdzCjeHR5mI5nuHtfQKm) | 2:33 |
-| 17 | [Economy PLUS](https://open.spotify.com/track/0QEasyD0inY0gmEMkXvHuV) | [KAJ](https://open.spotify.com/artist/4blbIMKwfzTxHGvN0Est1t) | [Economy PLUS](https://open.spotify.com/album/35oWqxJND9YW6bM2Xu1Irf) | 3:00 |
+| 6 | [Partylåt](https://open.spotify.com/track/1QXbp74RttGXJDu2I4G56U) | [Mange Makers](https://open.spotify.com/artist/3h4mC2mtKfxToywPSrVPcC) | [Partylåt](https://open.spotify.com/album/4G3jSvEwmF4aDuMx07jifM) | 2:40 |
+| 7 | [På en tur \(Eller hur?\)](https://open.spotify.com/track/1QbyGkRBxMWNL0u50HVgkk) | [Kaptenen](https://open.spotify.com/artist/6DSprS2EbPUhzEly95Ptvl) | [På en tur \(Eller hur?\)](https://open.spotify.com/album/44yp9vkgl3qF3R7UEdqrYL) | 1:49 |
+| 8 | [JAG DRAR NU](https://open.spotify.com/track/1WhSOYg6wbj1tHna5KeMZ8) | [Sofie Svensson & Dom Där](https://open.spotify.com/artist/7LBwVPl8kIn3I949KmBVim) | [JAG DRAR NU](https://open.spotify.com/album/62VtCQjpzn0XEecHbLFcTs) | 2:51 |
+| 9 | [GALEN](https://open.spotify.com/track/0p8ZLtBVdfCjysRxwdCE1k) | [BAKI$](https://open.spotify.com/artist/5Cbn1PScGFcG2PlibZY65u) | [GALEN](https://open.spotify.com/album/5pvXNR9xl7e8RVr1YlG84H) | 2:16 |
+| 10 | [TAPPAT ALLT](https://open.spotify.com/track/2iIC5CEW9v4nFNGvJp3XL5) | [Emil Assergård](https://open.spotify.com/artist/3fpHdW8mp95bOCzRLcauZm) | [TAPPAT ALLT](https://open.spotify.com/album/3CYZw8AwUc1Ffdu1TfoQtl) | 2:41 |
+| 11 | [Noreg](https://open.spotify.com/track/2oWeiMKGzgd1ewM8XEGRQC) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [Noreg](https://open.spotify.com/album/771Xi1dBWsfNgMaxN2vM1n) | 3:32 |
+| 12 | [My House](https://open.spotify.com/track/5PRkEy2WzT2fYeWo65u9Yx) | [Hjorterud Allé](https://open.spotify.com/artist/1bimLJXbk003FxHablh4b7), [Sleiken](https://open.spotify.com/artist/0l2QmwUY1pWAjK8RcoXQ2v) | [My House](https://open.spotify.com/album/1igBUnHek3kjOoc3KjAJTr) | 2:08 |
+| 13 | [Economy PLUS](https://open.spotify.com/track/0QEasyD0inY0gmEMkXvHuV) | [KAJ](https://open.spotify.com/artist/4blbIMKwfzTxHGvN0Est1t) | [Economy PLUS](https://open.spotify.com/album/35oWqxJND9YW6bM2Xu1Irf) | 3:00 |
+| 14 | [Håpløs](https://open.spotify.com/track/4SbpGcPIMBFFwPO5B7cuvl) | [Roc Boyz](https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa), [vinni](https://open.spotify.com/artist/2rvUlmaAfN7eKSVAcaRj9t) | [Håpløs](https://open.spotify.com/album/5qampg6B8BB77GrP433F6O) | 3:01 |
+| 15 | [Digg](https://open.spotify.com/track/73QBUSZZDcC5o8CBr6dk4o) | [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt) | [Digg](https://open.spotify.com/album/6186N5x9c4MFouIFpKMvrw) | 2:27 |
+| 16 | [Ljabrur Provisjon](https://open.spotify.com/track/2HPJLOJc86dQ4TkdezsU4o) | [Sleiken](https://open.spotify.com/artist/0l2QmwUY1pWAjK8RcoXQ2v), [Rockmeister](https://open.spotify.com/artist/5jTr3UTf79m3EPzMxIaNlP), [Busemannen](https://open.spotify.com/artist/7GFo5trHkvdopEyIv5pQeQ) | [Ljabrur Provisjon](https://open.spotify.com/album/4L5OCh7lE0TIzE3slaSVNa) | 2:55 |
+| 17 | [Autobahn](https://open.spotify.com/track/69omUBf5OpVyjhXKcPevoF) | [Albatraoz](https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x) | [Autobahn](https://open.spotify.com/album/3sUdzCjeHR5mI5nuHtfQKm) | 2:33 |
 | 18 | [FAKK MITT EX](https://open.spotify.com/track/6RXBmjvRX1XWZyS8jF416I) | [Crille](https://open.spotify.com/artist/40HMc5TsB4jkjnSlDK0V9Z), [KLIKK](https://open.spotify.com/artist/5KzAtk6MPVaEFBvrvfFh69) | [FAKK MITT EX](https://open.spotify.com/album/72QDi4ww9Hn3zz6V1A0oBK) | 2:54 |
 | 19 | [Mörkt](https://open.spotify.com/track/2egNAMVxbWgsWnf8aAyafh) | [OKVH](https://open.spotify.com/artist/2KlhZOYTfG8pidklQFSSRQ), [KYPARN](https://open.spotify.com/artist/2p9OeruY0AAgWRu84YZMPw) | [Mörkt](https://open.spotify.com/album/5tpFWteao7KZEBhNS5an3d) | 2:36 |
 | 20 | [Sommarkatt](https://open.spotify.com/track/06SBaFS25FItwI86Euk05d) | [KaptenX](https://open.spotify.com/artist/5m1kkyZcYNKkjeAh6o9XLp) | [Sommarkatt](https://open.spotify.com/album/0CT043iJqTjICBNuQKcMsn) | 1:58 |
@@ -128,4 +128,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 118 | [FUCK MITT EX](https://open.spotify.com/track/5uZbNtwrtQKOCkXFoVOGxX) | [Kaptenen](https://open.spotify.com/artist/6DSprS2EbPUhzEly95Ptvl) | [FUCK MITT EX](https://open.spotify.com/album/1FzUlKjvO9lEdKj5XUcrvU) | 2:50 |
 | 119 | [Det Løser Seg](https://open.spotify.com/track/1uvYRZPOtfnI9SbYzgqV4S) | [Soppgirobygget](https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i) | [Det Løser Seg](https://open.spotify.com/album/6hygzpsQObLO2CrgnTIO9W) | 2:12 |
 
-Snapshot ID: `AAAAABDwRP3NMQgLszIgzF8rv2TgH/1q`
+Snapshot ID: `AAAAAPnChcNVQTejJHbeOJ9s2LwQcnKA`

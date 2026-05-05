@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2qBJch9g3qw.md) - [plain]
 
 > lost in a haze
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,313 likes - 60 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,291 likes - 60 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,17 +49,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2qBJch9g3qw.md) - [plain]
 | 39 | [Make It Right](https://open.spotify.com/track/3uWZInj0LhM1SKBcL25HE2) | [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv) | [Make It Right](https://open.spotify.com/album/0G261JpPvWe41UOUsIUyZJ) | 3:14 |
 | 40 | [Me And Those Dreamin' Eyes Of Mine](https://open.spotify.com/track/5MjUkhqCpr5uZ39xZmLZxe) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Brown Sugar](https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4) | 4:46 |
 | 41 | [Doc Whiler](https://open.spotify.com/track/2xkib9MAHlGtxJRhIesSAX) | [Alex Banin](https://open.spotify.com/artist/2fTTmPI3XaJwqM19w5QiRz) | [Since Winona](https://open.spotify.com/album/7D9vZwRiwIzwEXHzsVutdK) | 2:29 |
-| 42 | [Are You Looking Up](https://open.spotify.com/track/1sWYVBg7ix2WAq43J9nY7E) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Two Star & The Dream Police](https://open.spotify.com/album/6DlLdXBGCsSDPOV8R2pCl7) | 2:46 |
-| 43 | [Downers](https://open.spotify.com/track/1fnU60yGjhsP1QY335rH2m) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [Downers](https://open.spotify.com/album/1luS1QdwBrhQzsnbJlyySt) | 3:38 |
-| 44 | [Addicted](https://open.spotify.com/track/3vMtiUewPWlK5UsIlE8lIy) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Addicted](https://open.spotify.com/album/4oGNxeyb9Qe4LcS98Szhcs) | 3:24 |
+| 42 | [Downers](https://open.spotify.com/track/1fnU60yGjhsP1QY335rH2m) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [Downers](https://open.spotify.com/album/1luS1QdwBrhQzsnbJlyySt) | 3:38 |
+| 43 | [Addicted](https://open.spotify.com/track/3vMtiUewPWlK5UsIlE8lIy) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Addicted](https://open.spotify.com/album/4oGNxeyb9Qe4LcS98Szhcs) | 3:24 |
+| 44 | [no cinderella](https://open.spotify.com/track/6MLRXGIIpGXOR7ZvQm3xHF) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [no cinderella](https://open.spotify.com/album/1H0KnxzyaQmncQHMqbRJ3D) | 2:23 |
 | 45 | [Miss You](https://open.spotify.com/track/5zHB3dyXGTS00HuvgSnBUj) | [Tia Gordon](https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc) | [Miss You](https://open.spotify.com/album/2lNL8dWOB8s3RpJ8RcmNqZ) | 3:51 |
-| 46 | [no cinderella](https://open.spotify.com/track/6MLRXGIIpGXOR7ZvQm3xHF) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [no cinderella](https://open.spotify.com/album/1H0KnxzyaQmncQHMqbRJ3D) | 2:23 |
-| 47 | [Gave You My All](https://open.spotify.com/track/2WEgOHRhsCMNiV4qcWNxAX) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [EMIL](https://open.spotify.com/artist/0qcYzMPOCqc66SyT0hyfQb) | [Thoughts I Never Said](https://open.spotify.com/album/2Sz9KQ4T0nCCXBMDQ8TjFl) | 3:01 |
+| 46 | [Gave You My All](https://open.spotify.com/track/2WEgOHRhsCMNiV4qcWNxAX) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [EMIL](https://open.spotify.com/artist/0qcYzMPOCqc66SyT0hyfQb) | [Thoughts I Never Said](https://open.spotify.com/album/2Sz9KQ4T0nCCXBMDQ8TjFl) | 3:01 |
+| 47 | [Are You Looking Up](https://open.spotify.com/track/1sWYVBg7ix2WAq43J9nY7E) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Two Star & The Dream Police](https://open.spotify.com/album/6DlLdXBGCsSDPOV8R2pCl7) | 2:46 |
 | 48 | [Give It Up 2 Me](https://open.spotify.com/track/3X7wVYr4XpzGgoXmQVnrJo) | [Ojerime](https://open.spotify.com/artist/2kVmW0EZG23dqsqeRZ4Jg0) | [B4 I Breakdown](https://open.spotify.com/album/2KAWX279th7yUtgVIfD6TU) | 2:58 |
 | 49 | [Endless No Mores \- A COLORS SHOW](https://open.spotify.com/track/0UpZJ1hUK4q1yzjQzXI32B) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Endless No Mores \- A COLORS SHOW](https://open.spotify.com/album/50yfipy2MBrEIxT36zC1gk) | 2:59 |
-| 50 | [Candy](https://open.spotify.com/track/6TeJroHNM4rXP4GluTvKXV) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Two Star & The Dream Police](https://open.spotify.com/album/6DlLdXBGCsSDPOV8R2pCl7) | 2:54 |
-| 51 | [Adore You \(feat\. Abhi Dijon\)](https://open.spotify.com/track/25isxLhIKV8lNSecmvY700) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC), [Abhi//Dijon](https://open.spotify.com/artist/1crlEwxm5dcQjCcgCJEyqg) | [For All We Know](https://open.spotify.com/album/2BmceJHiy9RTyvaB1IU0P6) | 3:31 |
-| 52 | [Fall in Love With Her](https://open.spotify.com/track/3qk0TOeA6WtKsLbwQC8I8J) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg), [Tanerélle](https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH) | [Fall In Love With Her](https://open.spotify.com/album/5FLWW34mtPlu7S691mEQQ9) | 4:05 |
+| 50 | [Adore You \(feat\. Abhi Dijon\)](https://open.spotify.com/track/25isxLhIKV8lNSecmvY700) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC), [Abhi//Dijon](https://open.spotify.com/artist/1crlEwxm5dcQjCcgCJEyqg) | [For All We Know](https://open.spotify.com/album/2BmceJHiy9RTyvaB1IU0P6) | 3:31 |
+| 51 | [Fall in Love With Her](https://open.spotify.com/track/3qk0TOeA6WtKsLbwQC8I8J) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg), [Tanerélle](https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH) | [Fall In Love With Her](https://open.spotify.com/album/5FLWW34mtPlu7S691mEQQ9) | 4:05 |
+| 52 | [Candy](https://open.spotify.com/track/6TeJroHNM4rXP4GluTvKXV) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Two Star & The Dream Police](https://open.spotify.com/album/6DlLdXBGCsSDPOV8R2pCl7) | 2:54 |
 | 53 | [Is This Real Love? \(feat\. Lucky Daye\) \- Remix](https://open.spotify.com/track/2RNCC8Bn7umBNJKNbtDFgO) | [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Is This Real Love? \(feat\. Lucky Daye\)](https://open.spotify.com/album/7wEXjP2EIz3p3EmmCXg958) | 2:59 |
 | 54 | [mileys riddim](https://open.spotify.com/track/22tPhE4Osvl0LGnKrjNCIR) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [homeless n\*gga pop music](https://open.spotify.com/album/5j9zothL0paSMkfcdjCdHA) | 1:59 |
 | 55 | [Don't Cry Mama](https://open.spotify.com/track/6FRR67NLpX4lUjnCVhwfe4) | [Saskia](https://open.spotify.com/artist/400qpwg5b70L39fD95JSaB) | [Don't Cry Mama](https://open.spotify.com/album/79GK5Ec1fgvxqUGkgwkg77) | 3:37 |

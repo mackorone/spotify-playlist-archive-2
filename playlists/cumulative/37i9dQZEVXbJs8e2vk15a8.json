@@ -21031,6 +21031,24 @@
     },
     {
       "album": {
+        "name": "H\u00e1blate de M\u00ed",
+        "url": "https://open.spotify.com/album/5DtrZ74RgqpVVqLWncmqyZ"
+      },
+      "artists": [
+        {
+          "name": "J\u00f3sean Log",
+          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188612,
+      "name": "Doma",
+      "url": "https://open.spotify.com/track/58cLm4PaHNt8DDr9ayZnNz"
+    },
+    {
+      "album": {
         "name": "Domingo",
         "url": "https://open.spotify.com/album/48j80zdRZsVcqO1jK2Khpl"
       },
@@ -33274,6 +33292,24 @@
       "duration_ms": 137732,
       "name": "Huella Letal",
       "url": "https://open.spotify.com/track/4aOobk7xXbsvhUFiLCUHOv"
+    },
+    {
+      "album": {
+        "name": "Thriller",
+        "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245837,
+      "name": "Human Nature",
+      "url": "https://open.spotify.com/track/4cgjA7B4fJBHyB9Ya2bu0t"
     },
     {
       "album": {
@@ -51836,7 +51872,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 186461,
       "name": "No Va a Chocar",
       "url": "https://open.spotify.com/track/6mxnut3OxI5xxUnbYgDnXk"
@@ -63414,7 +63450,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 200000,
       "name": "RUDE!",
       "url": "https://open.spotify.com/track/0WA27lZzPKFJKAbiDRmQDc"
@@ -63432,7 +63468,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-04",
+      "date_removed": null,
       "duration_ms": 200000,
       "name": "RUDE!",
       "url": "https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl"
@@ -70600,7 +70636,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 89809,
       "name": "TAKA LA DENTRO",
       "url": "https://open.spotify.com/track/4SN97PWG1WzClH2W08x8dr"
@@ -71602,7 +71638,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-05",
       "duration_ms": 190003,
       "name": "Te llevo tatuada",
       "url": "https://open.spotify.com/track/2i5QOIGSKHw8TP5ljZJg5w"
@@ -75568,6 +75604,24 @@
       "duration_ms": 107183,
       "name": "Tu Me Dice",
       "url": "https://open.spotify.com/track/1mFGB3ipJigkwnzzkmHLls"
+    },
+    {
+      "album": {
+        "name": "Tu Me Le\u00edste",
+        "url": "https://open.spotify.com/album/0QpLo38mkM51SnUXmll9wt"
+      },
+      "artists": [
+        {
+          "name": "OnMusic",
+          "url": "https://open.spotify.com/artist/5DlbOBe9kXAA8o1RXFAuBJ"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128968,
+      "name": "Tu Me Le\u00edste",
+      "url": "https://open.spotify.com/track/2IGyZWbIaORLt4EFYkZ6rB"
     },
     {
       "album": {

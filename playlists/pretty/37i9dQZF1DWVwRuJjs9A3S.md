@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > Det senaste och bästa från världen av indie\. Cover: Esther
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,136 likes - 242 songs - 13 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,138 likes - 242 songs - 13 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

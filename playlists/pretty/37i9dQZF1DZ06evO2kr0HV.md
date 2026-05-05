@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2kr0HV.md) - [plain]
 
 > This is Esteman\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,838 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,840 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,9 +13,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2kr0HV.md) - [plain]
 | 3 | [Fuimos Amor](https://open.spotify.com/track/6wkPUUWrRhBUFAqC5UCcG4) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Amor Libre](https://open.spotify.com/album/3ZNcUIksSrVfc5Ow7f4J6F) | 4:09 |
 | 4 | [Mr.Trance](https://open.spotify.com/track/1EmplgI51VcVtLHYOHOfHc) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Mr.Trance \(Soundtrack From The Animated Series\)](https://open.spotify.com/album/7osyDyziI2EhWM60gcPtlV) | 2:49 |
 | 5 | [Bar de corazones rotos](https://open.spotify.com/track/5S5JoPBIF68V9R7Nkenqok) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Amorío](https://open.spotify.com/album/0OZ2DcvZOEnSufkLxvXumm) | 3:26 |
-| 6 | [Reina Leona](https://open.spotify.com/track/4fcZ0HZdaloV9ZSU3xPPD5) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Secretos](https://open.spotify.com/album/2anoc6bJ4VPsGZQxrWZTOD) | 3:07 |
+| 6 | [El Observador](https://open.spotify.com/track/21tti59fYYrESA5SjxY5Ep) | [Duplat](https://open.spotify.com/artist/74Bgwc5zD9KyNHiMqy2QJO), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [El Observador](https://open.spotify.com/album/2LKVBvvtASD8v1213UXXw3) | 2:35 |
 | 7 | [Noche Sensorial](https://open.spotify.com/track/3GezDPu1wDhp31VMqgGwox) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Amor Libre](https://open.spotify.com/album/3ZNcUIksSrVfc5Ow7f4J6F) | 3:21 |
-| 8 | [El Observador](https://open.spotify.com/track/21tti59fYYrESA5SjxY5Ep) | [Duplat](https://open.spotify.com/artist/74Bgwc5zD9KyNHiMqy2QJO), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [El Observador](https://open.spotify.com/album/2LKVBvvtASD8v1213UXXw3) | 2:35 |
+| 8 | [Reina Leona](https://open.spotify.com/track/4fcZ0HZdaloV9ZSU3xPPD5) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Secretos](https://open.spotify.com/album/2anoc6bJ4VPsGZQxrWZTOD) | 3:07 |
 | 9 | [El acuerdo](https://open.spotify.com/track/1LLWnqc93bK8DgWxmYvARN) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Amorío](https://open.spotify.com/album/0OZ2DcvZOEnSufkLxvXumm) | 3:25 |
 | 10 | [El Distractor](https://open.spotify.com/track/2U9clWgCEFDCwUM5Rdw6dv) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [1er Acto](https://open.spotify.com/album/2x5iHcA02lEoWUECIZ9gzg) | 3:05 |
 | 11 | [Problemas de Conversación](https://open.spotify.com/track/0g28lX74uH6EYchTkuY26O) | [Ana Torroja](https://open.spotify.com/artist/5YekZn3GGnPIURNA6RG124), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Problemas de Conversación](https://open.spotify.com/album/2PfTXHRmn6UVpa48VXFtc8) | 2:56 |
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2kr0HV.md) - [plain]
 | 24 | [Si Volviera A Nacer](https://open.spotify.com/track/6K7J8BsFt49NA2Hx35RI4v) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Si Volviera A Nacer](https://open.spotify.com/album/0rc8MShj37cLImmPbUt8Pq) | 3:44 |
 | 25 | [Hasta Morir](https://open.spotify.com/track/7CK7oTOmccQz7VJZ4Ajcqv) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Secretos](https://open.spotify.com/album/2anoc6bJ4VPsGZQxrWZTOD) | 2:48 |
 | 26 | [Llorando en el avión](https://open.spotify.com/track/1io59pmyuTfVEnIsFjbL5I) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Amorío](https://open.spotify.com/album/0OZ2DcvZOEnSufkLxvXumm) | 2:44 |
-| 27 | [Bailando](https://open.spotify.com/track/3h5c3ZEwvruxM1tBemCggZ) | [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Ruzzicovers](https://open.spotify.com/album/6lPwJVOofbiHP27GRbyOay) | 3:07 |
-| 28 | [Esa Parte de Mí](https://open.spotify.com/track/5zE2XYc6zON8lIYgDi6ZvP) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Esa Parte de Mí](https://open.spotify.com/album/1fzcF6XsOj2O9UfxJm0LZd) | 3:35 |
+| 27 | [Esa Parte de Mí](https://open.spotify.com/track/5zE2XYc6zON8lIYgDi6ZvP) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Esa Parte de Mí](https://open.spotify.com/album/1fzcF6XsOj2O9UfxJm0LZd) | 3:35 |
+| 28 | [Bailando](https://open.spotify.com/track/3h5c3ZEwvruxM1tBemCggZ) | [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Ruzzicovers](https://open.spotify.com/album/6lPwJVOofbiHP27GRbyOay) | 3:07 |
 | 29 | [Una Noche Más](https://open.spotify.com/track/42yqhdvpet3rMgwnfbibh8) | [Adrián Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Bailemos en la Sala](https://open.spotify.com/album/1AGFRwoIQhzXjkxAVEMn2W) | 3:31 |
 | 30 | [Juan Y Paul](https://open.spotify.com/track/1FUKWcdbjLj872lLhgdVeu) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY) | [Si Volviera A Nacer](https://open.spotify.com/album/0rc8MShj37cLImmPbUt8Pq) | 3:41 |
 | 31 | [Duele](https://open.spotify.com/track/1jdRfL23ge6oJHnEtcvr8n) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Duele](https://open.spotify.com/album/79b5yLLMqlbw9uEhWRCks3) | 3:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2kr0HV.md) - [plain]
 | 49 | [Te Amé Temprano](https://open.spotify.com/track/0lWowR8X67uvdZLAOpVcTa) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [IRENE ALEJANDRA](https://open.spotify.com/album/1EtK1Zju9gAMz9uoQ0q9rb) | 3:37 |
 | 50 | [Desconocidos](https://open.spotify.com/track/2dyP9LDKtL2QpU7No6Zxri) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Recoversión](https://open.spotify.com/artist/0NdB1t0K23mQgPxlAvqN1r) | [Desconocidos](https://open.spotify.com/album/24milmfp1Ttd2ZYjRjezWC) | 3:15 |
 
-Snapshot ID: `afU+gAAAAADUdBoBhFDzfw3gnqP2XIf4`
+Snapshot ID: `afaQAAAAAAAPqs0fUkcu7gGvF2rnUV2+`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWQ9H258ygx.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/keithpowers/">Keith Powers</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,449 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,460 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWQ9H258ygx.md) - [plain]
 | 11 | [Massive](https://open.spotify.com/track/28JBD8p18xNuOfyV7Cotdn) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 5:36 |
 | 12 | [Rules](https://open.spotify.com/track/1TMWcbxL5YF8rKsFHv5hAP) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Hot Pink](https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3) | 3:07 |
 | 13 | [Static](https://open.spotify.com/track/4OmfWzukSVD140NiAIEjem) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 2:36 |
-| 14 | [Lights Up](https://open.spotify.com/track/4jAIqgrPjKLTY9Gbez25Qb) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 2:52 |
-| 15 | [Time Moves Slow](https://open.spotify.com/track/1IqF5PUDUnaykHLs0RWbDO) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Samuel T\. Herring](https://open.spotify.com/artist/6K4I1MPd7m8IztUdtrF4YU) | [IV](https://open.spotify.com/album/5wAGlQICfKYQfaBppnUbmP) | 4:33 |
+| 14 | [Time Moves Slow](https://open.spotify.com/track/1IqF5PUDUnaykHLs0RWbDO) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Samuel T\. Herring](https://open.spotify.com/artist/6K4I1MPd7m8IztUdtrF4YU) | [IV](https://open.spotify.com/album/5wAGlQICfKYQfaBppnUbmP) | 4:33 |
+| 15 | [Lights Up](https://open.spotify.com/track/4jAIqgrPjKLTY9Gbez25Qb) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 2:52 |
 | 16 | [Club Paradise](https://open.spotify.com/track/6MR5IBSNfDmiwnrlQpVw4w) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Care Package](https://open.spotify.com/album/7dqpveMVcWgbzqYrOdkFTD) | 4:43 |
 | 17 | [JACKIE BROWN](https://open.spotify.com/track/2IlT65thKQQw248mhk2PjQ) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 2:49 |
 | 18 | [Helmet](https://open.spotify.com/track/0DmkBOGgEWMbUJlL6VwwF2) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 3:21 |
@@ -42,12 +42,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWQ9H258ygx.md) - [plain]
 | 32 | [So Appalled](https://open.spotify.com/track/6K07Ahf6V7CAQn0ikrOztl) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [JAŸ\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [CyHi](https://open.spotify.com/artist/18HVMQsV3tINaTyzT5UIjH), [Swizz Beatz](https://open.spotify.com/artist/2cADQgiLMjNhbsfeN52Bf3), [RZA](https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn) | [My Beautiful Dark Twisted Fantasy](https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv) | 6:37 |
 | 33 | [Favorite Mistake](https://open.spotify.com/track/4rHIfYRQw6ittRQXAlurk0) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TAKE TIME](https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C) | 2:52 |
 | 34 | [Wat U Sed \(feat\. Doechii & Kal Banx\)](https://open.spotify.com/track/0VYchQkqpeEyh95D1pWqy2) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [Kal Banx](https://open.spotify.com/artist/2TYRz7cFNZNPLUWRijsJNL) | [The House Is Burning](https://open.spotify.com/album/6TQ8nqw43uUOWu7Yqp58ko) | 2:56 |
-| 35 | [Land Of The Snakes](https://open.spotify.com/track/0hW72l6tZgSY7Od2OUVDIC) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Born Sinner \(Deluxe Version\)](https://open.spotify.com/album/5FP9keIJnlSCKnkdVOf623) | 4:14 |
-| 36 | [King Of The Fall](https://open.spotify.com/track/7o3Mcis1uKcYDuuJD1W0Rm) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [King Of The Fall](https://open.spotify.com/album/5ELWxtRpadxkLUUvbzpiZO) | 5:01 |
+| 35 | [King Of The Fall](https://open.spotify.com/track/7o3Mcis1uKcYDuuJD1W0Rm) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [King Of The Fall](https://open.spotify.com/album/5ELWxtRpadxkLUUvbzpiZO) | 5:01 |
+| 36 | [Land Of The Snakes](https://open.spotify.com/track/0hW72l6tZgSY7Od2OUVDIC) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Born Sinner \(Deluxe Version\)](https://open.spotify.com/album/5FP9keIJnlSCKnkdVOf623) | 4:14 |
 | 37 | [Green Light](https://open.spotify.com/track/4n7c4QoSavoKz7qLitbQbD) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Ghetto Gospel](https://open.spotify.com/album/1ft5RivOWEdZT3nfqThV7K) | 2:01 |
 | 38 | [CORSO](https://open.spotify.com/track/46oHvXwpEZOFX518we1nJD) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CALL ME IF YOU GET LOST](https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9) | 2:26 |
-| 39 | [Overrated](https://open.spotify.com/track/6Fc9IYSkbmVwv4dlzn8hJb) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [No Love Lost](https://open.spotify.com/album/0pwGvLOBpgIgFlrQVSRqh9) | 2:26 |
-| 40 | [WHEN SPARKS FLY](https://open.spotify.com/track/1jhdCONafFj1hzJsPvZx27) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [RAMONA PARK BROKE MY HEART](https://open.spotify.com/album/2G549zeda2XNICgLmU0pNW) | 3:47 |
+| 39 | [WHEN SPARKS FLY](https://open.spotify.com/track/1jhdCONafFj1hzJsPvZx27) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [RAMONA PARK BROKE MY HEART](https://open.spotify.com/album/2G549zeda2XNICgLmU0pNW) | 3:47 |
+| 40 | [Overrated](https://open.spotify.com/track/6Fc9IYSkbmVwv4dlzn8hJb) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [No Love Lost](https://open.spotify.com/album/0pwGvLOBpgIgFlrQVSRqh9) | 2:26 |
 | 41 | [DYING 4 YOUR LOVE](https://open.spotify.com/track/1Yx1TbWg1zbl6gQ3SCOFCN) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [TEMPORARY HIGHS IN THE VIOLET SKIES](https://open.spotify.com/album/57ttk3xzHMWLr6CGrEa8F3) | 3:24 |
 | 42 | [Just How It Is](https://open.spotify.com/track/5KYhIFNTp4VQUqlsbLWTTu) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [So Much Fun](https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh) | 3:27 |
 | 43 | [Tryna Be](https://open.spotify.com/track/0h1ednFFd4xK5SCO8mXNOe) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Give Or Take](https://open.spotify.com/album/64LkgCfNbLqjclQYCTid8L) | 2:50 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWQ9H258ygx.md) - [plain]
 | 46 | [Chrome Heart Tags](https://open.spotify.com/track/46mT9NR7N9Zf5MolcrBgE3) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Eternal Atake](https://open.spotify.com/album/7IyoGB8J31fvQDwGtHAq9m) | 3:32 |
 | 47 | [Be Alone](https://open.spotify.com/track/7tjtWVu8RsshzPxQm8oT3y) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [No Love Lost](https://open.spotify.com/album/0pwGvLOBpgIgFlrQVSRqh9) | 2:34 |
 | 48 | [Babylon \(feat\. Kendrick Lamar\)](https://open.spotify.com/track/6Aj2H0Z0v0JgnSfPEwCgW0) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Z](https://open.spotify.com/album/2qCyMMQ785sPH4Yx25GQZ8) | 3:54 |
-| 49 | [Tonight \(I Wish I Was Your Boy\)](https://open.spotify.com/track/7DmTaJoM7L020qm3egqNsM) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Notes On A Conditional Form](https://open.spotify.com/album/0o5xjCboti8vXhdoUG9LYi) | 4:07 |
-| 50 | [SUMMER](https://open.spotify.com/track/7zmleW3XZx0uUsL2CkFuDe) | [The Carters](https://open.spotify.com/artist/4fpTMHe34LC5t3h5ztK8qu) | [EVERYTHING IS LOVE \(Clean\)](https://open.spotify.com/album/1x7IPmap6ALHrqcyWGnFT2) | 4:45 |
+| 49 | [SUMMER](https://open.spotify.com/track/7zmleW3XZx0uUsL2CkFuDe) | [The Carters](https://open.spotify.com/artist/4fpTMHe34LC5t3h5ztK8qu) | [EVERYTHING IS LOVE \(Clean\)](https://open.spotify.com/album/1x7IPmap6ALHrqcyWGnFT2) | 4:45 |
+| 50 | [Tonight \(I Wish I Was Your Boy\)](https://open.spotify.com/track/7DmTaJoM7L020qm3egqNsM) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Notes On A Conditional Form](https://open.spotify.com/album/0o5xjCboti8vXhdoUG9LYi) | 4:07 |
 
 Snapshot ID: `AAAAABaIM9vadKDQeqweVcl77IUMxpa9`

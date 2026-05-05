@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Rc8G4.md) - [plain]
 
 > This is Kylie Minogue\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,315 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,321 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,11 +18,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Rc8G4.md) - [plain]
 | 8 | [last night i dreamt i fell in love](https://open.spotify.com/track/6t1pBY6VYjNM9SJEBieyJw) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [last night i dreamt i fell in love](https://open.spotify.com/album/2guIXbgAa9lVRKQSlb1uvA) | 2:06 |
 | 9 | [Dance Alone](https://open.spotify.com/track/1XZy2eprbATl4AnL9Fpsw1) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Dance Alone](https://open.spotify.com/album/6VFvESDvhvsBjCSlIXpIXw) | 2:52 |
 | 10 | [Get Outta My Way](https://open.spotify.com/track/2VZ5Vtjn16RThAvaFz3sJZ) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Aphrodite](https://open.spotify.com/album/3V5sFyVl69QrnHkZ8tcWnI) | 3:38 |
-| 11 | [Come into My World \- Radio Edit](https://open.spotify.com/track/39DW02MW41A8bBIxH7nT1V) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Fever](https://open.spotify.com/album/4WzTXHp8bVKkKNu3UQ2Fqu) | 4:06 |
-| 12 | [I Should Be so Lucky](https://open.spotify.com/track/0RggFSMfsJvAsrI4itTIzr) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Kylie](https://open.spotify.com/album/7lZXsT33rkuXF3WBZc5rQv) | 3:24 |
-| 13 | [Spinning Around](https://open.spotify.com/track/3eXI3pYpiY1nRwhvW0c8Qi) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Light Years](https://open.spotify.com/album/7vPWwkCumK2sGsdADtBlwB) | 3:27 |
+| 11 | [I Should Be so Lucky](https://open.spotify.com/track/0RggFSMfsJvAsrI4itTIzr) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Kylie](https://open.spotify.com/album/7lZXsT33rkuXF3WBZc5rQv) | 3:24 |
+| 12 | [Come into My World \- Radio Edit](https://open.spotify.com/track/39DW02MW41A8bBIxH7nT1V) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Fever](https://open.spotify.com/album/4WzTXHp8bVKkKNu3UQ2Fqu) | 4:06 |
+| 13 | [Especially for You](https://open.spotify.com/track/0mVEYOASqm8DX7mCmHgIWt) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Jason Donovan](https://open.spotify.com/artist/5bnNgwp3nooah9yHAHsnR4) | [Especially for You](https://open.spotify.com/album/0DXTYW6fxh7RmQbZwjGsqP) | 4:00 |
 | 14 | [All the Lovers](https://open.spotify.com/track/18JKvOJ3cXbGUePQWT3bLW) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Aphrodite](https://open.spotify.com/album/3V5sFyVl69QrnHkZ8tcWnI) | 3:19 |
-| 15 | [Especially for You](https://open.spotify.com/track/0mVEYOASqm8DX7mCmHgIWt) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Jason Donovan](https://open.spotify.com/artist/5bnNgwp3nooah9yHAHsnR4) | [Especially for You](https://open.spotify.com/album/0DXTYW6fxh7RmQbZwjGsqP) | 4:00 |
+| 15 | [Spinning Around](https://open.spotify.com/track/3eXI3pYpiY1nRwhvW0c8Qi) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Light Years](https://open.spotify.com/album/7vPWwkCumK2sGsdADtBlwB) | 3:27 |
 | 16 | [Magic](https://open.spotify.com/track/3buAGGo2YxasAhMkXqCiA0) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [DISCO \(Deluxe\)](https://open.spotify.com/album/140JX9hRDcAmfANQeKSnmG) | 4:10 |
 | 17 | [Midnight Ride](https://open.spotify.com/track/6J26td5uctWg0UlzdzCj7Y) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Stampede](https://open.spotify.com/album/3vi7hLbbjQBJypfAA2gafE) | 3:31 |
 | 18 | [Tension](https://open.spotify.com/track/6435Ra0NWQzPyZAcd1ojWI) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension \(Deluxe\)](https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g) | 3:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Rc8G4.md) - [plain]
 | 49 | [Someone For Me](https://open.spotify.com/track/4RqWoB5cfvROXfgO8pYKzL) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension II](https://open.spotify.com/album/0edaiVumHgKoTUCTfQXMuw) | 2:34 |
 | 50 | [Got to Be Certain](https://open.spotify.com/track/7hsOcTJHQS6BxxPIyaNlvw) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Kylie](https://open.spotify.com/album/7lZXsT33rkuXF3WBZc5rQv) | 3:20 |
 
-Snapshot ID: `afU+gAAAAACnQhjfQEJQ/NNrjcwn/PHO`
+Snapshot ID: `afaQAAAAAABQ4MSfxT5wol16JQfVfOru`

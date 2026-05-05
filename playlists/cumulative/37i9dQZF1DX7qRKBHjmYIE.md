@@ -4,7 +4,7 @@
 
 > De aquí y de allá \~ un poquito de todo ✨ en un vibe con maye.
 
-1,002 songs - 2 day 5 hr 58 min
+1,003 songs - 2 day 6 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [balearico](https://open.spotify.com/track/1wAkBB3pOOjOPAWnjJKvoh) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [balearico](https://open.spotify.com/album/0Ck8RKyWCJv77wBlgFOPrA) | 2:30 | 2024-10-11 | 2026-01-17 |
 | [bandOlerO](https://open.spotify.com/track/6fzvTjGv5I65Waaam5UTVv) | [Oliver Berg](https://open.spotify.com/artist/7jJ4OfX2RBNl7dK4MG5JZv) | [bandOlerO](https://open.spotify.com/album/4ci6a270otpgbQ0J1sWGi9) | 3:16 | 2025-10-24 |  |
 | [Barbed Wire](https://open.spotify.com/track/0Q5D0qPpJ30jLY9l5GK5Dm) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Silvia](https://open.spotify.com/album/1wI1VI8bdgUsK7HhQO0s3l) | 3:22 | 2023-08-25 | 2024-02-11 |
+| [BARBIE](https://open.spotify.com/track/3JmqKgkmWzwfM8W600UCIy) | [Mi Compa el Chino](https://open.spotify.com/artist/2DdimmphdLA00UsduU3SX4), [rodrii](https://open.spotify.com/artist/2Iu7IdA9ZZ4CP9JuASNhDi), [Hillkidd](https://open.spotify.com/artist/4nk1I74jOOJiPdKPU6GfWk) | [BARBIE](https://open.spotify.com/album/3TinbkrnP1G8QTZvD67PLz) | 3:27 | 2026-05-01 |  |
 | [Barco](https://open.spotify.com/track/2x6pJL7zRMTT4GMLWcUTLL) | [Noa Sainz](https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [Barco](https://open.spotify.com/album/4kBwg7WWtpNMnm4LfNYXkK) | 3:58 | 2023-06-23 | 2023-08-26 |
 | [barquito \- bonus track](https://open.spotify.com/track/3p8qlvSvFlFtlzADchNJpi) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [barquito \(bonus track\)](https://open.spotify.com/album/3szw5BHAAHGTkYsDoK75k0) | 3:24 | 2026-03-06 |  |
 | [Barra Payan](https://open.spotify.com/track/3cdRDgp3swnjyrUQf4VybR) | [Planta Industrial](https://open.spotify.com/artist/2vfT28l8lKF4o9HuVkJ3Pw), [aka the darknight](https://open.spotify.com/artist/3yb2AwODgJ3ug0l3jKcD5j), [Saso](https://open.spotify.com/artist/7z3W8OunO3RH0quodR8Zsu) | [Barra Payan](https://open.spotify.com/album/4kyRtcVqVxmWpT5fPT9Wx7) | 2:52 | 2026-02-27 |  |
@@ -115,7 +116,7 @@
 | [Believe What I Say](https://open.spotify.com/track/73uxnSsFMeJ15POpd3zgrV) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 4:02 | 2022-01-24 | 2022-07-23 |
 | [Bella](https://open.spotify.com/track/5KA4V0ZJMkz6jpi13Zgk9w) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1), [Los Miranda](https://open.spotify.com/artist/1gEJUDZiXSNjVJBDzpZh8f) | [Bella](https://open.spotify.com/album/6govxhovGzVddUXNOlA74I) | 3:08 | 2024-03-01 | 2024-07-27 |
 | [bend&break](https://open.spotify.com/track/5K3ULL04iSyZo0on8cBkHt) | [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC) | [Hasta La Dorada](https://open.spotify.com/album/0A0Ez9RZ22c9NWW9pVm5d1) | 3:03 | 2023-02-17 | 2023-03-29 |
-| [BENDITA SEA LA HORA](https://open.spotify.com/track/3WSmQtAcuTqfsSUjy5CKar) | [PARDOPARDO](https://open.spotify.com/artist/4jK6qJJ6s34BziEutGFMra) | [BENDITA SEA LA HORA](https://open.spotify.com/album/7BaxtDkRZ1mxfhNb4WIYFW) | 2:27 | 2024-11-15 |  |
+| [BENDITA SEA LA HORA](https://open.spotify.com/track/3WSmQtAcuTqfsSUjy5CKar) | [PARDOPARDO](https://open.spotify.com/artist/4jK6qJJ6s34BziEutGFMra) | [BENDITA SEA LA HORA](https://open.spotify.com/album/7BaxtDkRZ1mxfhNb4WIYFW) | 2:27 | 2024-11-15 | 2026-05-05 |
 | [Bendito Vicio](https://open.spotify.com/track/03pzxEy3IkfZgYRWKRTOT3) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Bendito Vicio](https://open.spotify.com/album/01IslxV0ythFtzyAhQsWRQ) | 4:31 | 2026-02-13 |  |
 | [BES4ME](https://open.spotify.com/track/4YoHssP1wgFxKIrgkAJRDD) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [BES4ME](https://open.spotify.com/album/2pDTIwOIb85dGC7Pj0RUay) | 2:33 | 2026-02-27 |  |
 | [Besos Ricos](https://open.spotify.com/track/1AeVenKA9w42gepptaabsD) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX) | [Besos Ricos](https://open.spotify.com/album/53ykeMtGt4deG7mnkMEgeU) | 3:07 | 2023-09-01 | 2023-10-14 |
