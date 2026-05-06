@@ -1,6 +1,6 @@
 {
   "description": "afrobeats: best served chill",
-  "num_followers": 47262,
+  "num_followers": 47277,
   "original_name": "Afro Chill",
   "owner": {
     "name": "Spotify",
@@ -723,26 +723,6 @@
     {
       "added_at": "2026-05-01 00:01:51",
       "album": {
-        "name": "Xin Mao",
-        "url": "https://open.spotify.com/album/2xBdv4TVpVXG9U8K3om1WQ"
-      },
-      "artists": [
-        {
-          "name": "Tml Vibez",
-          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
-        },
-        {
-          "name": "Lasmid",
-          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
-        }
-      ],
-      "duration_ms": 143882,
-      "name": "Maria",
-      "url": "https://open.spotify.com/track/4Tgt15dD8P2m68HYxA8DCG"
-    },
-    {
-      "added_at": "2026-05-01 00:01:51",
-      "album": {
         "name": "ONE CALL",
         "url": "https://open.spotify.com/album/4jrDs3Kg7zJlgQnIZrZP8a"
       },
@@ -763,6 +743,26 @@
       "duration_ms": 158712,
       "name": "ONE CALL",
       "url": "https://open.spotify.com/track/3qSk5TP4A8gQIsb8iNVwnx"
+    },
+    {
+      "added_at": "2026-05-01 00:01:51",
+      "album": {
+        "name": "Xin Mao",
+        "url": "https://open.spotify.com/album/2xBdv4TVpVXG9U8K3om1WQ"
+      },
+      "artists": [
+        {
+          "name": "Tml Vibez",
+          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
+        },
+        {
+          "name": "Lasmid",
+          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
+        }
+      ],
+      "duration_ms": 143882,
+      "name": "Maria",
+      "url": "https://open.spotify.com/track/4Tgt15dD8P2m68HYxA8DCG"
     },
     {
       "added_at": "2026-05-01 00:01:51",
@@ -1207,8 +1207,8 @@
     {
       "added_at": "2026-05-01 00:01:51",
       "album": {
-        "name": "Catapult",
-        "url": "https://open.spotify.com/album/3wggJeCAlQiFbx7LK7bHOb"
+        "name": "Crazily",
+        "url": "https://open.spotify.com/album/0C9ArjDsTSnFiJjUzLMi3k"
       },
       "artists": [
         {
@@ -1216,13 +1216,13 @@
           "url": "https://open.spotify.com/artist/4ecfG9zQhMOr4yMTqgD79g"
         },
         {
-          "name": "Dxtiny",
-          "url": "https://open.spotify.com/artist/5bAj0wNTQ1Ig6lMzndMkdZ"
+          "name": "Babyboy AV",
+          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
         }
       ],
-      "duration_ms": 208000,
-      "name": "Catapult",
-      "url": "https://open.spotify.com/track/1oWzy39dcfQk7NdRFwaN7Q"
+      "duration_ms": 149333,
+      "name": "Crazily",
+      "url": "https://open.spotify.com/track/2PMC6BUbCK4zjDarK65Lxk"
     },
     {
       "added_at": "2026-05-01 00:01:51",
@@ -1307,8 +1307,8 @@
     {
       "added_at": "2026-05-01 00:01:51",
       "album": {
-        "name": "Crazily",
-        "url": "https://open.spotify.com/album/0C9ArjDsTSnFiJjUzLMi3k"
+        "name": "Catapult",
+        "url": "https://open.spotify.com/album/3wggJeCAlQiFbx7LK7bHOb"
       },
       "artists": [
         {
@@ -1316,13 +1316,13 @@
           "url": "https://open.spotify.com/artist/4ecfG9zQhMOr4yMTqgD79g"
         },
         {
-          "name": "Babyboy AV",
-          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
+          "name": "Dxtiny",
+          "url": "https://open.spotify.com/artist/5bAj0wNTQ1Ig6lMzndMkdZ"
         }
       ],
-      "duration_ms": 149333,
-      "name": "Crazily",
-      "url": "https://open.spotify.com/track/2PMC6BUbCK4zjDarK65Lxk"
+      "duration_ms": 208000,
+      "name": "Catapult",
+      "url": "https://open.spotify.com/track/1oWzy39dcfQk7NdRFwaN7Q"
     },
     {
       "added_at": "2026-05-01 00:01:51",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2026-05-01 00:01:51",
       "album": {
+        "name": "NIGHT",
+        "url": "https://open.spotify.com/album/722VVxNwKl5ZZZ1HduMUhr"
+      },
+      "artists": [
+        {
+          "name": "Strei",
+          "url": "https://open.spotify.com/artist/4ecfG9zQhMOr4yMTqgD79g"
+        }
+      ],
+      "duration_ms": 159848,
+      "name": "Obobe",
+      "url": "https://open.spotify.com/track/4R7ue5kkKglzqr7NMjqGB1"
+    },
+    {
+      "added_at": "2026-05-01 00:01:51",
+      "album": {
         "name": "Celine",
         "url": "https://open.spotify.com/album/6YJUI25aCamOyfKgOij3dt"
       },
@@ -1471,22 +1487,6 @@
       "duration_ms": 156190,
       "name": "US III",
       "url": "https://open.spotify.com/track/1HHNy0QJKUL8uO6G750zp5"
-    },
-    {
-      "added_at": "2026-05-01 00:01:51",
-      "album": {
-        "name": "NIGHT",
-        "url": "https://open.spotify.com/album/722VVxNwKl5ZZZ1HduMUhr"
-      },
-      "artists": [
-        {
-          "name": "Strei",
-          "url": "https://open.spotify.com/artist/4ecfG9zQhMOr4yMTqgD79g"
-        }
-      ],
-      "duration_ms": 159848,
-      "name": "Obobe",
-      "url": "https://open.spotify.com/track/4R7ue5kkKglzqr7NMjqGB1"
     },
     {
       "added_at": "2026-05-01 00:01:51",

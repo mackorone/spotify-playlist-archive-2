@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "4bout you",
+        "url": "https://open.spotify.com/album/43hDGpjzBmIUa1gadeMd89"
+      },
+      "artists": [
+        {
+          "name": "flip-flops",
+          "url": "https://open.spotify.com/artist/0kIWft47tbC7DorFdGEDWz"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164869,
+      "name": "4bout you",
+      "url": "https://open.spotify.com/track/1NgJkiFpXDqO6KeUHZkwlm"
+    },
+    {
+      "album": {
         "name": "Abrupt",
         "url": "https://open.spotify.com/album/31cifPhTXIuhZbqDv9pAg3"
       },
@@ -720,7 +738,7 @@
       ],
       "date_added": "2025-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 175727,
       "name": "BOW AND ARROW",
       "url": "https://open.spotify.com/track/0NHu2Lo9MWkvhOggEy1bYg"
@@ -2124,7 +2142,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 170625,
       "name": "HYPNOTIZE",
       "url": "https://open.spotify.com/track/5r2FAkZaMsO5SsHwcywQTi"
@@ -3538,6 +3556,24 @@
       "duration_ms": 215324,
       "name": "One Two Three",
       "url": "https://open.spotify.com/track/5CEYf8aWwIXLg4cHhn5fou"
+    },
+    {
+      "album": {
+        "name": "OTAGAISAMA",
+        "url": "https://open.spotify.com/album/0LQPUOmo9ApWdoQjJ73XDt"
+      },
+      "artists": [
+        {
+          "name": "Conton Candy",
+          "url": "https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237640,
+      "name": "OTAGAISAMA",
+      "url": "https://open.spotify.com/track/79q0msEh7B5nn8wOtbWjEW"
     },
     {
       "album": {
@@ -7024,7 +7060,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 203300,
       "name": "\u30b9\u30ab\u30fc\u30c8",
       "url": "https://open.spotify.com/track/7aaYbFm20BmgF4zEcZi0or"
@@ -7530,10 +7566,28 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 219200,
       "name": "\u30d5\u30a1\u30bf\u30fc\u30eb - Fatal",
       "url": "https://open.spotify.com/track/7gJD9BarjoFwL2BNQ0rpWT"
+    },
+    {
+      "album": {
+        "name": "\u30d5\u30a7\u30a4\u30af\u30fb\u30d5\u30a3\u30af\u30b7\u30e7\u30f3",
+        "url": "https://open.spotify.com/album/3mz9VOaQRE8iZY974CAJaG"
+      },
+      "artists": [
+        {
+          "name": "YANK",
+          "url": "https://open.spotify.com/artist/2AF0go9ujPsUZCrVIqkrMq"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242752,
+      "name": "\u30d5\u30a7\u30a4\u30af\u30fb\u30d5\u30a3\u30af\u30b7\u30e7\u30f3",
+      "url": "https://open.spotify.com/track/4AwNJSgXtOPy9qhKulmPj2"
     },
     {
       "album": {
@@ -8892,6 +8946,24 @@
       "duration_ms": 252115,
       "name": "\u5343\u9ce5",
       "url": "https://open.spotify.com/track/61uep4aDBpNnnFGfm6yzUF"
+    },
+    {
+      "album": {
+        "name": "\u5348\u524d\u56db\u6642",
+        "url": "https://open.spotify.com/album/6toxmIPqcXIB1qmlbBdSVL"
+      },
+      "artists": [
+        {
+          "name": "KOMAGOME",
+          "url": "https://open.spotify.com/artist/4yi7xi9fRysQclHSMAkQpY"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187800,
+      "name": "\u5348\u524d\u56db\u6642",
+      "url": "https://open.spotify.com/track/0wQdYrJT00p7OKoUiBZZaW"
     },
     {
       "album": {

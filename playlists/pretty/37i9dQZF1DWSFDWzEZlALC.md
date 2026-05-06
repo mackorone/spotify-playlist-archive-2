@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: skuth
 
-[Spotify](https://open.spotify.com/user/spotify) - 462,064 likes - 75 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 462,036 likes - 75 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [AUF DICH](https://open.spotify.com/track/2otC9SlXj6GmQhMAwK5DyR) | [skuth](https://open.spotify.com/artist/4vdOkcx43Ugl9key4kRFDw) | [AUF DICH](https://open.spotify.com/album/7yVxOCiTP4JLdmYXrymuZw) | 2:07 |
+| 1 | [Auf dich](https://open.spotify.com/track/2otC9SlXj6GmQhMAwK5DyR) | [skuth](https://open.spotify.com/artist/4vdOkcx43Ugl9key4kRFDw) | [Auf dich](https://open.spotify.com/album/7yVxOCiTP4JLdmYXrymuZw) | 2:07 |
 | 2 | [hooligan](https://open.spotify.com/track/4pGMfb7Vyl1aa0fq6gijk2) | [Blumengarten](https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS) | [hooligan](https://open.spotify.com/album/5KYxvLVO7k0gJsfD0K8Ym6) | 2:18 |
 | 3 | [wunderschön](https://open.spotify.com/track/1zFQF4A7SOCcBFvcZZNKns) | [Mika Noé](https://open.spotify.com/artist/19uFRUcB0YIBJHTdHiqlo9) | [wunderschön](https://open.spotify.com/album/7FZb8KVTiFmxpUmTaduyJT) | 2:59 |
 | 4 | [luzifer](https://open.spotify.com/track/67etqcB3Ay4k9FwrH8k60k) | [numa](https://open.spotify.com/artist/6Pj1tkkuqbi4DopxZbHdqK) | [luzifer](https://open.spotify.com/album/7gwJDVnWTI17qhFbbYDWpT) | 2:09 |

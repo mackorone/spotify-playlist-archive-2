@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-[Lucciago](https://open.spotify.com/user/1217609118) - 570 likes - 2,596 songs - 6 day 7 hr 33 min
+[Lucciago](https://open.spotify.com/user/1217609118) - 571 likes - 2,612 songs - 6 day 8 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2604,5 +2604,21 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 | 2594 | [Debaixo do Céu](https://open.spotify.com/track/4cM2d7RQFTjYOYzbIt55yP) | [Marie Saintonge](https://open.spotify.com/artist/4zoazU56tM6R4SgnnlLEcb) | [Céu de Caju](https://open.spotify.com/album/0HSYrkXLqisr3lj1Uig00W) | 3:45 |
 | 2595 | [新しい道](https://open.spotify.com/track/4HvCrr886QkYXJr7we1hkc) | [akayama joao](https://open.spotify.com/artist/6A5QcwzvKrjllstEJnADfg) | [新しい道](https://open.spotify.com/album/6ig74kMAPD0FxCjPIf2h2Y) | 2:41 |
 | 2596 | [Way](https://open.spotify.com/track/1cl7PUBvbYsSMnwJjGUVhn) | [Koli Gustine](https://open.spotify.com/artist/0y5zZkZNR056Z0r0F5ruKm), [The outrider](https://open.spotify.com/artist/7F3FtmX1PzrVOsjUquQ70M) | [Drama in the Circus](https://open.spotify.com/album/4sapmSZbvRK2fuSoELrWED) | 2:33 |
+| 2597 | [WHAT DID I DO](https://open.spotify.com/track/0VrCNhzQhiI4oOaY4Dgqjl) | [MPS](https://open.spotify.com/artist/4k48xpgCzAhVTSKl9YPNPB) | [WHAT DID I DO](https://open.spotify.com/album/5crs3GqN8uPKkewH6TBQry) | 1:07 |
+| 2598 | [Tahan na aking tahanan](https://open.spotify.com/track/1ALWISY4LHoQ8AuOfSZobV) | [RHAYO](https://open.spotify.com/artist/0uJmLRARhyUaPEsUDLk9F4) | [Tahan na aking tahanan](https://open.spotify.com/album/5ky0iKjbLgOoxybOk0PXam) | 3:56 |
+| 2599 | [Cajá](https://open.spotify.com/track/3vzTnk5x8L1fnYn8Ry0a8H) | [Gerry Barbuda](https://open.spotify.com/artist/2SNNG8jF3aKZKg1KjDQF6b) | [Cajá](https://open.spotify.com/album/5964MbBxiyk3mE3DHlNSg6) | 2:25 |
+| 2600 | [Risk Taker](https://open.spotify.com/track/4aBrdORHpznaLWDQO6w59e) | [Esskell](https://open.spotify.com/artist/5FfOQtcy7KmNpJ8k2PDp0G), [Paul Christie](https://open.spotify.com/artist/78NVId0wtzXGLLlcXzPP9D) | [Risk Taker](https://open.spotify.com/album/2qGeMWAmAJpt4W4qX8Rh9H) | 4:06 |
+| 2601 | [Me 2](https://open.spotify.com/track/0NT3gTIP2azjVYgEjZSwQa) | [M4leza](https://open.spotify.com/artist/57E9bkwzidHRBByGyDAXlC) | [Qì](https://open.spotify.com/album/3VrcCuZ6v0Yf13LSobBvP4) | 3:11 |
+| 2602 | [Hello](https://open.spotify.com/track/5RmWtdRIvAoZqwCYMcSxJf) | [Banu Dino](https://open.spotify.com/artist/3u5W9KLzkSBEVwKban2KTb) | [Hello](https://open.spotify.com/album/5kI8YJC7lGDZsY0ULQ0Y0q) | 3:44 |
+| 2603 | [It Is What It Is](https://open.spotify.com/track/2aqL67JM0j4CODLfG90N01) | [8 Ball Nation](https://open.spotify.com/artist/1NtVMvCpFHZQLsqsPuBwhZ) | [It Is What It Is](https://open.spotify.com/album/3ysNbsLSS7MjxAlskrzHLl) | 4:47 |
+| 2604 | [Driving at night \- Original](https://open.spotify.com/track/3lprZOKe5LtbHEejIfUvfM) | [Jurt the Gurt](https://open.spotify.com/artist/05S1R7dGgMGfAjiYEz9eut) | [Driving at night \(Original\)](https://open.spotify.com/album/78dr2tCDSpWNaNEHoRUPrM) | 2:24 |
+| 2605 | [SMMM](https://open.spotify.com/track/29BCxhkezu3ufYrOAG4Mup) | [YoungNils](https://open.spotify.com/artist/2V6kvONEWkoHDNzZz6FaPJ) | [SMMM](https://open.spotify.com/album/5tU2BlpuQqH15m13oUqXoQ) | 2:43 |
+| 2606 | [Money?](https://open.spotify.com/track/3PRek3cqIFjYtrPZh7Gd8D) | [southpaw](https://open.spotify.com/artist/57X6NKq2ZyeJAIlAlNRItD), [Blvck Svm](https://open.spotify.com/artist/7gwpZPmZHIx4B2uLl6uimj), [Era 51](https://open.spotify.com/artist/3vxacLf1tP9PILySz0wgY0) | [Don't Run From the Rain](https://open.spotify.com/album/4UQlvsO5uEIr7qhr0fxsPg) | 2:32 |
+| 2607 | [Cornerstone](https://open.spotify.com/track/3JJVmTGiasfHOvwBFP0yTR) | [DJ Galactic](https://open.spotify.com/artist/42XFUQSO1X5rOvd35Yhv9h) | [Cornerstone](https://open.spotify.com/album/1FfScHyBJEF44v9OsMxTTD) | 4:31 |
+| 2608 | [Cyber Boat](https://open.spotify.com/track/2DGpnS4l9A1R3vDkALrqxY) | [VibeCreator](https://open.spotify.com/artist/2gX3FN31FeQMa0Y7myRa8G) | [Cyber Boat](https://open.spotify.com/album/0npby7a2QEsxDCsNNDoXfu) | 1:39 |
+| 2609 | [Ghosts of Appalachia](https://open.spotify.com/track/1qDxZ1oZMrCZ1EZY4DZirH) | [Lucas Lutter](https://open.spotify.com/artist/0eU98CzYOtXqvjbCtthN8b) | [Ghosts of Appalachia](https://open.spotify.com/album/1qwfyCyhidy5C97leRWxIp) | 2:57 |
+| 2610 | [Slow Day](https://open.spotify.com/track/4Mj5RC9pHkTUByduocvkiQ) | [Tempr](https://open.spotify.com/artist/5MMqbQjXAMn6ihkmmDwWOm) | [Slow Day](https://open.spotify.com/album/07rmaPoBopDMWCOJWwlKRt) | 3:24 |
+| 2611 | [Mud Truck Chevy](https://open.spotify.com/track/70LISARPAn0GlhY5vfc5Gg) | [Tree Line Anthem](https://open.spotify.com/artist/200te1a90wi4qjyO4OJwBG) | [Mud Truck Chevy](https://open.spotify.com/album/3RkLcvlVXjMx0eUHqsPdvH) | 3:31 |
+| 2612 | [Adorez](https://open.spotify.com/track/1sHv5GiLT7x5i7OA6kNA9x) | [Rig3l](https://open.spotify.com/artist/5ryTQIDSl4xWKGQOcAq8ne) | [Adorez](https://open.spotify.com/album/15U58fWWViUriPkYUlk8iY) | 3:14 |
 
-Snapshot ID: `AAAKva5atTacN8L0MdXYgq7jF7zfwH3J`
+Snapshot ID: `AAAKzaWUQI39dMnX0/OD6vlHrSRtue75`

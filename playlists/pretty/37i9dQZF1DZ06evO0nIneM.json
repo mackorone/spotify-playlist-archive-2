@@ -1,12 +1,12 @@
 {
   "description": "This is BL\u00d8F. The essential tracks, all in one playlist.",
-  "num_followers": 94015,
+  "num_followers": 94018,
   "original_name": "This Is BL\u00d8F",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afaQAAAAAACKB611oPyPjGa3LQEkfyWX",
+  "snapshot_id": "affhgAAAAAD0oL4yiwGT67Zp3hWPhsew",
   "tracks": [
     {
       "added_at": null,
@@ -151,22 +151,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Helder (inclusief Live Bonus Tracks)",
-        "url": "https://open.spotify.com/album/72x70QVko5v9g0F1GCtAi0"
-      },
-      "artists": [
-        {
-          "name": "BL\u00d8F",
-          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
-        }
-      ],
-      "duration_ms": 290733,
-      "name": "Wat Zou Je Doen? - Live From The Nighttrain, Netherlands / 1998",
-      "url": "https://open.spotify.com/track/2mJyFLhoJtIcl2zh69JxuX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hier - Het Beste Van 20 Jaar BL\u00d8F",
         "url": "https://open.spotify.com/album/5JhhV6NYORFNFjJ7Xy270v"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 232666,
       "name": "Holiday In Spain",
       "url": "https://open.spotify.com/track/5OaQpcK7S28EitZlVQbWBQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Helder (inclusief Live Bonus Tracks)",
+        "url": "https://open.spotify.com/album/72x70QVko5v9g0F1GCtAi0"
+      },
+      "artists": [
+        {
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        }
+      ],
+      "duration_ms": 290733,
+      "name": "Wat Zou Je Doen? - Live From The Nighttrain, Netherlands / 1998",
+      "url": "https://open.spotify.com/track/2mJyFLhoJtIcl2zh69JxuX"
     },
     {
       "added_at": null,
@@ -223,22 +223,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Helder (inclusief Live Bonus Tracks)",
-        "url": "https://open.spotify.com/album/72x70QVko5v9g0F1GCtAi0"
-      },
-      "artists": [
-        {
-          "name": "BL\u00d8F",
-          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
-        }
-      ],
-      "duration_ms": 238893,
-      "name": "Liefs Uit Londen",
-      "url": "https://open.spotify.com/track/0KCcRzDsTMAbivhwGzdFZx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blauwe Ruis",
         "url": "https://open.spotify.com/album/1fkpvvE4Y5nZh6TAM9SOmK"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 261133,
       "name": "Dichterbij Dan Ooit",
       "url": "https://open.spotify.com/track/7GUINjT9Hi5zxqL4MgVtwY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Helder (inclusief Live Bonus Tracks)",
+        "url": "https://open.spotify.com/album/72x70QVko5v9g0F1GCtAi0"
+      },
+      "artists": [
+        {
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        }
+      ],
+      "duration_ms": 238893,
+      "name": "Liefs Uit Londen",
+      "url": "https://open.spotify.com/track/0KCcRzDsTMAbivhwGzdFZx"
     },
     {
       "added_at": null,
@@ -391,22 +391,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Levenslang",
-        "url": "https://open.spotify.com/album/6SgbamvUI8Nzuhw7NIEW5s"
-      },
-      "artists": [
-        {
-          "name": "BL\u00d8F",
-          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
-        }
-      ],
-      "duration_ms": 224844,
-      "name": "Levenslang",
-      "url": "https://open.spotify.com/track/1Vk4hsnhJAgZxZDRG9jThx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Umoja",
         "url": "https://open.spotify.com/album/09epXZm5KJ3IdblOCILVyt"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 283333,
       "name": "Aanzoek Zonder Ringen",
       "url": "https://open.spotify.com/track/6Cc0qQpIw9Dzm9c9GSFjRt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Levenslang",
+        "url": "https://open.spotify.com/album/6SgbamvUI8Nzuhw7NIEW5s"
+      },
+      "artists": [
+        {
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        }
+      ],
+      "duration_ms": 224844,
+      "name": "Levenslang",
+      "url": "https://open.spotify.com/track/1Vk4hsnhJAgZxZDRG9jThx"
     },
     {
       "added_at": null,

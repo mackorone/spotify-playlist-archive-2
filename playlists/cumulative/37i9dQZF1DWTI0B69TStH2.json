@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Najciekawsze muzyczne odkrycia od niezale\u017cnych polskich artyst\u00f3w. Cover:  <a href=\"spotify:artist:0rQ5OCXcg33fZtgN6hv76Z\">ciiicho</a>",
+  "description": "Najciekawsze muzyczne odkrycia od niezale\u017cnych polskich artyst\u00f3w. Cover:  <a href=\"spotify:artist:6Ktj597K5DEKDYyJv38nkI\">MeryMaks</a>",
   "name": "Fresh Finds Polska",
   "tracks": [
     {
@@ -4069,6 +4069,24 @@
     },
     {
       "album": {
+        "name": "BBY WAGON",
+        "url": "https://open.spotify.com/album/4BvRWjZ42EdCw7TDNwjOPd"
+      },
+      "artists": [
+        {
+          "name": "AJLA",
+          "url": "https://open.spotify.com/artist/0DKSIQmQ284IrIKpNdl36H"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143118,
+      "name": "BBY WAGON",
+      "url": "https://open.spotify.com/track/7AKgVRnGVFpiYJoXw0Un1P"
+    },
+    {
+      "album": {
         "name": "BEAU MONDE",
         "url": "https://open.spotify.com/album/6OUQyIUZCM5HZ1RpmsitpB"
       },
@@ -7168,7 +7186,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 253527,
       "name": "Byleby",
       "url": "https://open.spotify.com/track/574jVsMu11LWTF7aZCd85p"
@@ -19052,7 +19070,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 141428,
       "name": "Gdzie jeste\u015b",
       "url": "https://open.spotify.com/track/4IWyM27SOSi2RuukvowgxM"
@@ -32665,6 +32683,24 @@
     },
     {
       "album": {
+        "name": "Makaron",
+        "url": "https://open.spotify.com/album/3kc6WjsOJiYa65RIElB2By"
+      },
+      "artists": [
+        {
+          "name": "HELA ME RY",
+          "url": "https://open.spotify.com/artist/0xoFZYnEQDOeZDcs9PGYPO"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160266,
+      "name": "Makaron",
+      "url": "https://open.spotify.com/track/0AsoJLa7e8QGaKgExIUTct"
+    },
+    {
+      "album": {
         "name": "MALINOWY BUCH",
         "url": "https://open.spotify.com/album/1DGRiRSkzlPyvUFn4wYa5d"
       },
@@ -39027,6 +39063,24 @@
     },
     {
       "album": {
+        "name": "nie chce by\u0107 tym z\u0142ym",
+        "url": "https://open.spotify.com/album/7mTDFdMwMLUpXfuNVe8vcv"
+      },
+      "artists": [
+        {
+          "name": "ej stachu",
+          "url": "https://open.spotify.com/artist/5iBttWnzPiDq6pJ4NIfc2d"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164255,
+      "name": "nie chce by\u0107 tym z\u0142ym",
+      "url": "https://open.spotify.com/track/5g3T3fhd9ZBRfKXFApUfTn"
+    },
+    {
+      "album": {
         "name": "nie chce dram",
         "url": "https://open.spotify.com/album/6IOYHKiddxecgeLs2gKZkU"
       },
@@ -40344,7 +40398,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 200347,
       "name": "Nie mo\u017cesz teraz odej\u015b\u0107",
       "url": "https://open.spotify.com/track/1J8gF267PesNe2tS1mdldL"
@@ -44974,6 +45028,24 @@
       "duration_ms": 186500,
       "name": "Oddech",
       "url": "https://open.spotify.com/track/2HMDRVaALcVamX5VtVweDl"
+    },
+    {
+      "album": {
+        "name": "oddech",
+        "url": "https://open.spotify.com/album/3fIyIvxNqNqWfcrHsU4KHj"
+      },
+      "artists": [
+        {
+          "name": "Meatballs",
+          "url": "https://open.spotify.com/artist/7nK5edQ65TmhMUVQYtpnMn"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215700,
+      "name": "oddech",
+      "url": "https://open.spotify.com/track/5THWrKMHF59yO3aW3dyQQ3"
     },
     {
       "album": {
@@ -50194,7 +50266,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 157258,
       "name": "Po co tyle m\u00f3wi\u0107",
       "url": "https://open.spotify.com/track/1sWLhSjvxrwbIBpOpOap80"
@@ -51540,6 +51612,24 @@
       "duration_ms": 153766,
       "name": "Potwory \u015bpi\u0105 dzi\u015b obok mnie",
       "url": "https://open.spotify.com/track/3fPkWnVOI2K2jLkZwEI1Rw"
+    },
+    {
+      "album": {
+        "name": "Potw\u00f3r z szafy",
+        "url": "https://open.spotify.com/album/0Fb5IR6FSAzOXj4lTcfL3j"
+      },
+      "artists": [
+        {
+          "name": "Meg Mell",
+          "url": "https://open.spotify.com/artist/4HXy7mRjbdJwHHia5eG48k"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235058,
+      "name": "Potw\u00f3r z szafy",
+      "url": "https://open.spotify.com/track/52jh3hKl9hy4stbpYmYVfl"
     },
     {
       "album": {
@@ -57683,6 +57773,24 @@
     },
     {
       "album": {
+        "name": "shotgun",
+        "url": "https://open.spotify.com/album/4jZda0jAoglNpWlmLSgXvN"
+      },
+      "artists": [
+        {
+          "name": "MISSI",
+          "url": "https://open.spotify.com/artist/2cv6HFwLykuUwNhdw0d5Fp"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141000,
+      "name": "shotgun",
+      "url": "https://open.spotify.com/track/4xR7d9UnjwGR4v3EVvQPuZ"
+    },
+    {
+      "album": {
         "name": "Show Me Your Scars",
         "url": "https://open.spotify.com/album/2RSiU6RLQlU9iOfRXKv8HC"
       },
@@ -57770,7 +57878,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 195534,
       "name": "Sick of You",
       "url": "https://open.spotify.com/track/3AS0nquQpD8x4RJR2Um5Fp"
@@ -60516,7 +60624,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 251219,
       "name": "Stingray",
       "url": "https://open.spotify.com/track/1h1U7JumXWSnePv83U5znN"
@@ -61302,7 +61410,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 165500,
       "name": "Swobodnie",
       "url": "https://open.spotify.com/track/4YYvrnhbJKYOp7GFoj29pr"
@@ -61592,6 +61700,24 @@
       "duration_ms": 136200,
       "name": "Szaleniec",
       "url": "https://open.spotify.com/track/5QwCH5tuwJlmx3b6eTB4Wk"
+    },
+    {
+      "album": {
+        "name": "SZAMPAN",
+        "url": "https://open.spotify.com/album/4JhxKvwGKXX0hfTyDrfTj3"
+      },
+      "artists": [
+        {
+          "name": "RAF",
+          "url": "https://open.spotify.com/artist/1alcdAcSxQfrx5GmgWAqGk"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204255,
+      "name": "SZAMPAN",
+      "url": "https://open.spotify.com/track/0wts90I1idvzrHPAr110vy"
     },
     {
       "album": {
@@ -72812,7 +72938,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 181791,
       "name": "Wi\u0119cej",
       "url": "https://open.spotify.com/track/3ByByCFVlvPljSTUHAMd4h"
@@ -78512,6 +78638,28 @@
     {
       "album": {
         "name": "Zwolnij",
+        "url": "https://open.spotify.com/album/2wE1JjJIGRURsUdx2q7Hq0"
+      },
+      "artists": [
+        {
+          "name": "filit",
+          "url": "https://open.spotify.com/artist/1lnfnJFVIaKY0wWil9MEG4"
+        },
+        {
+          "name": "Tw\u00f3j, Dawid",
+          "url": "https://open.spotify.com/artist/0t94HGOfXAG5BnHlRWlIqk"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161545,
+      "name": "Zwolnij",
+      "url": "https://open.spotify.com/track/0X7yldPd0EZUvohZpaQLUP"
+    },
+    {
+      "album": {
+        "name": "Zwolnij",
         "url": "https://open.spotify.com/album/4FHEgo5Ws9uLG1WF8b52jh"
       },
       "artists": [
@@ -78848,7 +78996,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 240618,
       "name": "\u0106ma",
       "url": "https://open.spotify.com/track/6RLLf19sS5M3DUCBLzV1BK"
@@ -80076,6 +80224,24 @@
       "duration_ms": 235102,
       "name": "\u017b\u00d3\u0141TA CZAPKA",
       "url": "https://open.spotify.com/track/7Mbwkrtni29Th2zhRk1zZv"
+    },
+    {
+      "album": {
+        "name": "\u017b\u00f3\u0142te kwiaty",
+        "url": "https://open.spotify.com/album/2K0Y30uWIEVj9UNDUtVzrz"
+      },
+      "artists": [
+        {
+          "name": "MeryMaks",
+          "url": "https://open.spotify.com/artist/6Ktj597K5DEKDYyJv38nkI"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190312,
+      "name": "\u017b\u00f3\u0142te kwiaty",
+      "url": "https://open.spotify.com/track/0ZoSMW9Hv7RpfXXXI6aRd9"
     },
     {
       "album": {

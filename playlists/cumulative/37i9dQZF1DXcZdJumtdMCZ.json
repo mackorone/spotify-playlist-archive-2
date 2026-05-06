@@ -1784,7 +1784,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 151122,
       "name": "Gomma",
       "url": "https://open.spotify.com/track/5gLOXGdvIw7BXijWKcrDSh"
@@ -2220,7 +2220,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 258119,
       "name": "Idhaya Milan",
       "url": "https://open.spotify.com/track/757cZVMa5i2Q9wKM0RnjjA"
@@ -2578,7 +2578,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 147927,
       "name": "JOKER",
       "url": "https://open.spotify.com/track/61KZDKA4pZrfndd7yCp9jA"
@@ -2726,6 +2726,28 @@
       "duration_ms": 128307,
       "name": "Kadala Curry",
       "url": "https://open.spotify.com/track/5n3yg2rW8wQNK44zPAymgp"
+    },
+    {
+      "album": {
+        "name": "Kadaya Saathu",
+        "url": "https://open.spotify.com/album/0IHCidk3LUuQEFzClZpxvs"
+      },
+      "artists": [
+        {
+          "name": "ofRO",
+          "url": "https://open.spotify.com/artist/3sZ8UlybnehTap4i1B3Wts"
+        },
+        {
+          "name": "Vaasi",
+          "url": "https://open.spotify.com/artist/5vlliAPuYaEl9AC4AzO8eJ"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159374,
+      "name": "Kadaya Saathu",
+      "url": "https://open.spotify.com/track/75Evj1BuXZ1wFrvqyYjzap"
     },
     {
       "album": {
@@ -5908,7 +5930,7 @@
       ],
       "date_added": "2025-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 148000,
       "name": "Summer time",
       "url": "https://open.spotify.com/track/4pctI9qSCIrSigQSSHAdbS"

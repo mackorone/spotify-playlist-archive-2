@@ -1511,6 +1511,24 @@
     },
     {
       "album": {
+        "name": "Green Until Morning",
+        "url": "https://open.spotify.com/album/3vNdLwCQ5Eo6sjyTqjsnhn"
+      },
+      "artists": [
+        {
+          "name": "The Long Nap",
+          "url": "https://open.spotify.com/artist/2fTkJnbdhe9vfUyUbo7kaU"
+        }
+      ],
+      "date_added": "2026-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124693,
+      "name": "Green Until Morning",
+      "url": "https://open.spotify.com/track/1ITX87YFb7grS21U6fmLRt"
+    },
+    {
+      "album": {
         "name": "Birds by the Creek",
         "url": "https://open.spotify.com/album/5tk2REf1nK7U5eqr01YFbg"
       },
@@ -2232,7 +2250,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 171000,
       "name": "Northern Birds",
       "url": "https://open.spotify.com/track/7pmoGrDQTWH0PHgRvJcHAm"

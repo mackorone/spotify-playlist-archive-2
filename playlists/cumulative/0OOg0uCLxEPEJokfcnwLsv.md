@@ -4,7 +4,7 @@
 
 > These are some independent rock bands you need to hear.
 
-476 songs - 1 day 5 hr 29 min
+479 songs - 1 day 5 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -281,6 +281,7 @@
 | [No Sympathy](https://open.spotify.com/track/26gB1uyvQVxwFDNOs68Tfw) | [Tia Rose](https://open.spotify.com/artist/1gGadeENa0utvSOoPSlLSc) | [No Sympathy](https://open.spotify.com/album/32faOwJCBADaLbFoPtrcbx) | 3:27 | 2025-12-11 | 2026-01-05 |
 | [No Thanks](https://open.spotify.com/track/2anuBT1LsOHNxz5H9qXXkN) | [Fat Fungus](https://open.spotify.com/artist/5JvuLxzIE57fVdo7U29d2D) | [No Thanks](https://open.spotify.com/album/0652xN2MATBffKJ2tapEky) | 4:35 | 2026-04-16 |  |
 | [Noir](https://open.spotify.com/track/4zuMFhWwNSNjv3JBEGu4mD) | [Summoners](https://open.spotify.com/artist/2Q9wu4il52v9GylIMrq8Mn) | [Noir](https://open.spotify.com/album/0u9Wfry4L6EIsPHohmYUN2) | 3:21 | 2026-03-21 | 2026-04-20 |
+| [NORMIE FUCK](https://open.spotify.com/track/5HJyslBPhejHh1p2VlPWuC) | [Meerkat](https://open.spotify.com/artist/5LmeYGFo0QRpiiJpYdtRal) | [NORMIE FUCK](https://open.spotify.com/album/0mvePeDg6YsuHXEkJ8RqQH) | 2:25 | 2026-05-05 |  |
 | [Notopia](https://open.spotify.com/track/2cuabAoFvJj2yx1xDhjxee) | [Dez Dare](https://open.spotify.com/artist/1elbB348tXNuC92QkZlHLF) | [CHERYL! Your Love Shines Down Like A Supernova’s Death](https://open.spotify.com/album/2FaiLx82IYqLWVtyRPCPRT) | 3:55 | 2025-10-27 | 2025-11-22 |
 | [Nuestro Camino](https://open.spotify.com/track/0UpD8nhlWeDDmGIsbhEYVj) | [Demonios Del Cielo](https://open.spotify.com/artist/3b2hIDjJn9MhCussAdvBkm) | [Nuestro Camino](https://open.spotify.com/album/0YkzKQaESw6nPRyOHTfZWy) | 4:44 | 2025-11-04 | 2025-12-12 |
 | [Objects in the Mirrors](https://open.spotify.com/track/7FgMPd1QmYQlcCTu2yMum3) | [The Paperbags](https://open.spotify.com/artist/0xWOcjzU2TvVdqM6pmsMJk) | [Objects in the Mirrors](https://open.spotify.com/album/5iZG0EZiKBMSlomcPjxdVF) | 4:23 | 2026-01-29 | 2026-02-18 |
@@ -297,6 +298,7 @@
 | [Pale Face](https://open.spotify.com/track/0JhnzPFQMiU9rX6KF6b6B9) | [Katrina](https://open.spotify.com/artist/2hpCkArHzQ852NRLx6TG2o) | [Pale Face](https://open.spotify.com/album/46VywIGGdZzTVNta5HTcy5) | 4:22 | 2026-01-22 | 2026-02-23 |
 | [Paper Mache](https://open.spotify.com/track/49aASBTHzF8GhtqgOXSlfg) | [Katrina](https://open.spotify.com/artist/2hpCkArHzQ852NRLx6TG2o) | [Paper Mache](https://open.spotify.com/album/0sZw1vxa8YcDceWAnTqNS0) | 2:09 | 2025-11-04 | 2025-11-22 |
 | [Parte de Mi Sangre](https://open.spotify.com/track/77Ksuuc2iN2SlK4vGmoeFj) | [JaNNus](https://open.spotify.com/artist/6UzFYM28tp9IjqbjVdnmTb), [Cristian Argonz](https://open.spotify.com/artist/1tvPKCfCxBoYEpbd0VjCVR) | [Nueva Era](https://open.spotify.com/album/6aBPq0mvfWPYuSv1OzPhL5) | 3:25 | 2026-04-13 |  |
+| [Patroklos](https://open.spotify.com/track/60rTJmGVhv7t5czioq3Tgc) | [Meerkat](https://open.spotify.com/artist/5LmeYGFo0QRpiiJpYdtRal) | [Patroklos](https://open.spotify.com/album/4h72XgIDG3kBcCGyqmssrq) | 3:21 | 2026-05-05 |  |
 | [Pear Tree](https://open.spotify.com/track/7DzSWxZSWw1s9DtD9PIxNn) | [Latvija](https://open.spotify.com/artist/4Zy2ssMFKgmYzpaGVJ4j2R) | [Pear Tree](https://open.spotify.com/album/5tvAeyesEagq1JOtZoDlRr) | 3:10 | 2026-02-04 | 2026-02-23 |
 | [Perilous Crests](https://open.spotify.com/track/0SjeRsyPzUfOWQgEfbtnNO) | [KXENIA](https://open.spotify.com/artist/4xGnce5EXkdJNeOxaZeYTL) | [Perilous Crests](https://open.spotify.com/album/664kp9PX6QSxOuCuP0lvS1) | 3:47 | 2026-01-24 | 2026-02-23 |
 | [Perspectives](https://open.spotify.com/track/4E5vUYWAQPmRHDbVZriqt1) | [Slackrr](https://open.spotify.com/artist/17JbSCGvIPoMMl9xGcR8lu) | [A Light On The Horizon](https://open.spotify.com/album/6zRSgRECoeWvyG6UQq2Fdw) | 3:19 | 2026-04-30 |  |
@@ -466,6 +468,7 @@
 | [Wings to go back](https://open.spotify.com/track/6Xn61zWFMyCP6U8977UTXM) | [SOAVE](https://open.spotify.com/artist/67OEL9vCpXIheb7L9WpPCG) | [Wings to go back](https://open.spotify.com/album/59zHfQ01fPeXk15jkFSG4G) | 3:53 | 2026-04-02 | 2026-04-20 |
 | [Wish Me Luck](https://open.spotify.com/track/1H1y2fumUdS2YiKPxHJ4jl) | [Carl Schonbeck](https://open.spotify.com/artist/64G455sXZCInt8gPhAe7mF) | [Twenty\-Four Seven](https://open.spotify.com/album/6kGDbKew5FJ0AUErB6gyty) | 3:06 | 2026-01-17 | 2026-02-18 |
 | [With The Radio On](https://open.spotify.com/track/2D8Pe8G3mrE7sftHvvmQx9) | [Northfield](https://open.spotify.com/artist/51rLG6ENMAwu7WMcNHffyl) | [Lost and Found](https://open.spotify.com/album/1eBsLVrjcZHPSPMukzJkXV) | 3:39 | 2025-10-31 | 2025-11-22 |
+| [With You](https://open.spotify.com/track/7LLHGsm4xICcdq84TIYvF4) | [TS Chris](https://open.spotify.com/artist/57Ui8J7CkhuIdZELypG3Vv) | [With You](https://open.spotify.com/album/0PKRfRbbVawBDRcjGKtJeH) | 3:35 | 2026-05-05 |  |
 | [Without You](https://open.spotify.com/track/1TwapdaPvDJ1ABCDDMMQ1f) | [Dead Horse Riding](https://open.spotify.com/artist/7wqNTaQeGwXNjejl4XLokL) | [Without You](https://open.spotify.com/album/2XnDsmaRabXtnnGFOs6JW8) | 3:49 | 2026-03-20 | 2026-04-20 |
 | [Wolfman](https://open.spotify.com/track/335KIfI6iRzLsdHTi1PSMc) | [Matt Malone & The Holy Spirits](https://open.spotify.com/artist/24uJIeIX3E40nyx51WZO9M) | [Wolfman](https://open.spotify.com/album/1CpD6xutceVgnNhxK2aW5E) | 3:20 | 2025-11-02 | 2025-11-22 |
 | [Wolves \(Instrumental Version\)](https://open.spotify.com/track/3fPmoZmxjh4b8oJpi7NCeK) | [Open Strum](https://open.spotify.com/artist/1Xh9igcpw9BvisCWyVQ932), [Danny Bourgeois](https://open.spotify.com/artist/0j2o3txfia5ATDt4sPqAnr) | [Open Strum 2](https://open.spotify.com/album/1jIdsJW3n2lfxaP7IQnwko) | 2:07 | 2025-11-17 | 2025-12-12 |

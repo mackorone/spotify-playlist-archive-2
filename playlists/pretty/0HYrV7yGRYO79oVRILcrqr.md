@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,806 likes - 111 songs - 7 hr 13 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,807 likes - 115 songs - 7 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,5 +119,9 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 109 | [Rust and Ruin](https://open.spotify.com/track/3kB1rGX0EteP1IPVBXHlFU) | [The Copperhead Saints](https://open.spotify.com/artist/25r3BsZgbzPfLCarFu1zTS) | [Hymns for the Hard\-Hearted](https://open.spotify.com/album/76qFdjyzqdqGjFewTlreh2) | 5:04 |
 | 110 | [Nuove Rotte](https://open.spotify.com/track/59nbSqtxgppRtUVa65xwHk) | [Lorenzo Colucci](https://open.spotify.com/artist/4BRWgyOnIuVwX5T3yEpE6c) | [Nuove Rotte](https://open.spotify.com/album/3bMnU5S6r8mhq7Rt9sXkcd) | 3:15 |
 | 111 | [Catch Catch](https://open.spotify.com/track/2O9bMJticxbQ8FH3NiQ7Xh) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) | [LOVE CATCHER](https://open.spotify.com/album/1IxQnpYIIFY9F2IVVsD27F) | 3:00 |
+| 112 | [For So Long](https://open.spotify.com/track/2cQ5CeTRxGA2prgkS9mN3C) | [K W Hoffman](https://open.spotify.com/artist/11NQwwc952s3dgAPbR5VPD) | [For So Long](https://open.spotify.com/album/1HV2Wz9Ntwy0DXopB9gnnm) | 2:46 |
+| 113 | [Gods of Karma](https://open.spotify.com/track/6xYVg6FqtKUuRO7BFUfmUQ) | [Nathan J Lark](https://open.spotify.com/artist/5gTZaw7bOLKdFyGQsjHMcG) | [Gods of Karma](https://open.spotify.com/album/5UF7fKwX15lsBuzRF1h4hb) | 5:29 |
+| 114 | [Lo Que Pudo Ser](https://open.spotify.com/track/0IwYsw7OECCgoHTbZWKmXU) | [Puerto Mariel](https://open.spotify.com/artist/4RYkqvK3dICXDfPhGaQa1C) | [Lo Que Pudo Ser](https://open.spotify.com/album/7JlXBgjl3Jrz2T6D8oevHP) | 3:50 |
+| 115 | [Lullaby](https://open.spotify.com/track/6Y6rNeW1Efcl7Jq0MT9TOV) | [Svetlana Bakushina](https://open.spotify.com/artist/1fGAIRdys4yhkkIJqz2bXL), [Carlos Rufo Martins](https://open.spotify.com/artist/0WDrIGBxrkxVF632AoVCdJ) | [Lullaby](https://open.spotify.com/album/01nMm9B1zVmQlGW1EmAlIb) | 3:37 |
 
-Snapshot ID: `AAALQ4hxmov8PNPABbhWSbOey5siJX+Y`
+Snapshot ID: `AAALR1jYgpfsQ9LhgS9xP9oqjCFEtxvi`

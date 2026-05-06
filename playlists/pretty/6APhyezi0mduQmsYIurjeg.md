@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6APhyezi0mduQmsYIurjeg.md) - [plain]
 
 > Submit your song: https:&\#x2F;&\#x2F;dailyplaylists.com&\#x2F;playlists&\#x2F;6APhyezi0mduQmsYIurjeg
 
-[RADIO PLUG PRO](https://open.spotify.com/user/31j62y3lgk2wiycoov2nuie5hp3e) - 1,280 likes - 540 songs - 1 day 8 hr 39 min
+[RADIO PLUG PRO](https://open.spotify.com/user/31j62y3lgk2wiycoov2nuie5hp3e) - 1,281 likes - 547 songs - 1 day 9 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -548,5 +548,12 @@ pretty - [cumulative](/playlists/cumulative/6APhyezi0mduQmsYIurjeg.md) - [plain]
 | 538 | [New Horizon](https://open.spotify.com/track/0iDmGKJ9Mwzn4H7BDBmxqi) | [Lemonhead](https://open.spotify.com/artist/01eYzyZnS4aE2rwtJKBNcs) | [New Horizon](https://open.spotify.com/album/5Rog51AJLE1rtcnXQP2DSP) | 3:14 |
 | 539 | [Alone](https://open.spotify.com/track/5IOmXE3jdhQp2vXvumHeR9) | [Smoking Twinz](https://open.spotify.com/artist/2aIYbcsZ3GlFy8fDPDJrcc) | [Alone](https://open.spotify.com/album/52NSwtP9ARhPFlRpfKFrYc) | 2:48 |
 | 540 | [Break the Chain](https://open.spotify.com/track/0AA9NZXJtDtqkjRevrDgv7) | [Harold Payne](https://open.spotify.com/artist/1BfgVctke9PP5LJDIWrUxC) | [My Tribe \- EP](https://open.spotify.com/album/782Sz599wkUZsZOXhuOTOh) | 3:27 |
+| 541 | [Desert Roll](https://open.spotify.com/track/1i3jPowCNmyemFeiJtvLSA) | [A VIOLET IN YOUTH](https://open.spotify.com/artist/3Gqlvwb5U3hbST19eSdJqB) | [Desert Roll, Exactly.](https://open.spotify.com/album/5s5LGNDHjvLzEkRDYKBkaE) | 3:21 |
+| 542 | [We Never Ever Together Again](https://open.spotify.com/track/6cFaBjtKyh1V8sIi5le7GW) | [RYN SKY](https://open.spotify.com/artist/0LWSuwMqKEWQfFEFOariZg) | [HEY! BOY We Never Ever Together Again](https://open.spotify.com/album/68ExNbA2PAVgMvD31bpDUB) | 3:04 |
+| 543 | [HAHAHA\-MALE](https://open.spotify.com/track/1JAs0kroTc4E0MFbbL8Ret) | [RYN SKY](https://open.spotify.com/artist/0LWSuwMqKEWQfFEFOariZg) | [HAHAHA\-MALE](https://open.spotify.com/album/7nds5UPmp9SO4Lw6TgHRpT) | 3:02 |
+| 544 | [Tu cara en cada calle](https://open.spotify.com/track/6OHJeyGv9ab5jqiZfzSDwO) | [Ribera del Júcar Revival](https://open.spotify.com/artist/04gcWUfNrbcWSklXOdnmjY) | [El regreso de Misha](https://open.spotify.com/album/1WzQvW37ruDPOL1jPk9FKb) | 7:23 |
+| 545 | [Girl](https://open.spotify.com/track/1hVXKdgZSoZJrvCoJL3OeW) | [Clixé](https://open.spotify.com/artist/7afbJErY3XznRo0LOv1CIx) | [Girl](https://open.spotify.com/album/1zwTPOKt5DEom2E35RnOQK) | 2:01 |
+| 546 | [Got What You Wanted](https://open.spotify.com/track/3ror7WRrkgwHorcSy4n8v9) | [Ugly Bridesmaids](https://open.spotify.com/artist/0gj5NWtV59oZATC9oRiCuB) | [Got What You Wanted](https://open.spotify.com/album/4EpAS3weiZ4RsVk4zqWC5b) | 2:42 |
+| 547 | [Bleeding out](https://open.spotify.com/track/2HqhuCXfwrdPo7AobkzsJx) | [Faiyaz and the Wasted Chances](https://open.spotify.com/artist/2q0ffFKV6xgukfE7HN3jMW) | [Bleeding out](https://open.spotify.com/album/23LMkImDL43YosQAjRPH5W) | 1:30 |
 
-Snapshot ID: `AAACsfZxuZrV5jm3BSjdYKJPmDNsVjbl`
+Snapshot ID: `AAACuNK15mMw7tJ9aBNi6ltGJE2UY9eC`

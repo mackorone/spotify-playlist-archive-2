@@ -1458,7 +1458,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 284466,
       "name": "Chiru Chiru",
       "url": "https://open.spotify.com/track/6O1VWYPfl85dDeKiaCJKza"
@@ -3447,6 +3447,40 @@
     },
     {
       "album": {
+        "name": "Jingala (From \"Gaayapadda Simham\")",
+        "url": "https://open.spotify.com/album/06hAtQ523iLJGY9Ykqi4wW"
+      },
+      "artists": [
+        {
+          "name": "Nakash Aziz",
+          "url": "https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB"
+        },
+        {
+          "name": "Sweekar Agasthi",
+          "url": "https://open.spotify.com/artist/7w4ACCsPEsD4KTxUNPXftc"
+        },
+        {
+          "name": "Kasyap Sreenivas",
+          "url": "https://open.spotify.com/artist/5C3E7cuDvssrVfeREJcMdD"
+        },
+        {
+          "name": "Sunil Karamkanti",
+          "url": "https://open.spotify.com/artist/7srEUXZLsXMGknZuDLwzS8"
+        },
+        {
+          "name": "Srini Josyula",
+          "url": "https://open.spotify.com/artist/7kzKBqMZSOU7EvNPl2wgGq"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244841,
+      "name": "Jingala - From \"Gaayapadda Simham\"",
+      "url": "https://open.spotify.com/track/5g2dQPSCxS8SmSbSGZ1EEt"
+    },
+    {
+      "album": {
         "name": "Jinthaak Chithaka (From \"Dhamaka\")",
         "url": "https://open.spotify.com/album/0SIS7waWuiUPBNokeQJrXY"
       },
@@ -4568,7 +4602,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 188505,
       "name": "Monica (From \"Coolie\") (Telugu)",
       "url": "https://open.spotify.com/track/6ZjyKXvQIwalLNmJo3exz3"
@@ -7770,7 +7804,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-19",
+      "date_removed": null,
       "duration_ms": 250402,
       "name": "Vachindamma",
       "url": "https://open.spotify.com/track/6WQcCaXK4B1MYEMiV90j1O"

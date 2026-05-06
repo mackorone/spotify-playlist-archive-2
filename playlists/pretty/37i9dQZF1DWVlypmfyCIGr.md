@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: ラナメリサ
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,987 likes - 80 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,982 likes - 80 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 79 | [ガンバラナイけどいいでしょう](https://open.spotify.com/track/5wwFd1NdctXGLapUK3m7m3) | [Takuro Yoshida](https://open.spotify.com/artist/7uv8wNS8ConwlmWKpP8Lz7) | [午前中に...](https://open.spotify.com/album/5tVD88F5LkUSpVMXWQIe2k) | 5:33 |
 | 80 | [FOOL ON THE PLANET](https://open.spotify.com/track/6mDHjUx1gmOaneekEdRP0g) | [TM NETWORK](https://open.spotify.com/artist/6aXIcqTy3R1dqSml9HQZUB) | [TM NETWORK THE SINGLES 2](https://open.spotify.com/album/7c6VPmT5XeEuuIa6fc916r) | 5:31 |
 
-Snapshot ID: `AAAAAMuppJUJycAR252F6wAHlbUs7Sqs`
+Snapshot ID: `AAAAAKQh0BA+KGsJF3Xu7MmrMfGtyPvd`

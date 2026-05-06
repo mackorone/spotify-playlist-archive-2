@@ -4,7 +4,7 @@
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-450 songs - 23 hr 8 min
+451 songs - 23 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [All In My Head](https://open.spotify.com/track/6m9QICIVcwpLZipsNmMXRK) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO) | [All In My Head](https://open.spotify.com/album/6sodqAChgdZX5pR2tCuXfs) | 3:04 | 2026-01-01 |  |
 | [All We've Ever Known](https://open.spotify.com/track/0BrcT26Jb5SNAJSVRMPdVo) | [Cartoon](https://open.spotify.com/artist/2sf28o6euxEDpYkG9dMtuM), [Immy Odon](https://open.spotify.com/artist/01QdfMidctuieFa8ERASX4), [Fred V](https://open.spotify.com/artist/0k3dnuEr9LghUE4jxS0PT4) | [All We've Ever Known](https://open.spotify.com/album/5MuveroOf9KvC6mC3IUOeF) | 2:40 | 2025-08-29 |  |
 | [Alone](https://open.spotify.com/track/4kvIwyqoAVaho3Ea7feClh) | [Cajama](https://open.spotify.com/artist/3YiP0AyiXuD61EE5xTaTbY) | [Alone EP](https://open.spotify.com/album/3QS6cvgnMj7JuA0gB12Lq8) | 3:34 | 2022-05-20 | 2023-08-11 |
+| [Anesthesia](https://open.spotify.com/track/1cewsBM8XcwWrTWbzfGUlH) | [Oxlo](https://open.spotify.com/artist/7HwebOTQA4h0tCSTQCNKTK) | [Anesthesia](https://open.spotify.com/album/1Smq4kS6r9vZRAvD9u5dxp) | 1:26 | 2026-05-05 |  |
 | [Annabelle's Tea Party](https://open.spotify.com/track/6nPkoJ32PlIiCmmhnxxZKj) | [NIVIRO](https://open.spotify.com/artist/2nsCjA4fEasmnlOK0wXU7T) | [Annabelle's Tea Party](https://open.spotify.com/album/0G2m4IHWmXSqKQFSPnQN24) | 3:08 | 2022-10-28 | 2022-10-31 |
 | [Arcade Dwellers](https://open.spotify.com/track/3b3A8AcfVhRVVizAQmQls5) | [Chime](https://open.spotify.com/artist/3hMTYaexWgGkXqvbkt6EIS), [MDK](https://open.spotify.com/artist/4AFmCAFHwoV2o3QR1Wgup4) | [Arcade Dwellers](https://open.spotify.com/album/1NMgVxkMZ92QCgLjAJswQ3) | 4:20 | 2022-02-03 | 2023-08-11 |
 | [Ares \(Tear Up My Horizon\)](https://open.spotify.com/track/7vdtjVAVnH6KPbm8jiWoZs) | [Fourier](https://open.spotify.com/artist/5mmT6NkPjCotEVXbx8Tpi5), [Reverse Prodigy](https://open.spotify.com/artist/6zXaDDbpZlywcU9kb61gHI), [ZAM](https://open.spotify.com/artist/7k8AX7vkTQ3qRxkJL1EanQ) | [Ares \(Tear Up My Horizon\)](https://open.spotify.com/album/5oXOMGsmdvXOrVpNXeA2RX) | 2:55 | 2024-09-17 |  |

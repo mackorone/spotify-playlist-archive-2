@@ -1290,7 +1290,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 225600,
       "name": "Aye Khudaa (From \"Ginny Wedss Sunny 2\")",
       "url": "https://open.spotify.com/track/5g4j0e8mb5XqpLQuYg1R0p"
@@ -4448,7 +4448,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 261818,
       "name": "Ek Din Title Track - From \"Ek Din\"",
       "url": "https://open.spotify.com/track/2abR4ilhs5JWqZq12SB3GB"
@@ -8141,6 +8141,36 @@
     },
     {
       "album": {
+        "name": "Khasiyat (From \"Chand Mera Dil\")",
+        "url": "https://open.spotify.com/album/6xF7xWsTnKiAYQlpuCaJY5"
+      },
+      "artists": [
+        {
+          "name": "Sachin-Jigar",
+          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+        },
+        {
+          "name": "Raghav Chaitanya",
+          "url": "https://open.spotify.com/artist/3qpyErDI4i90q5EGgSRmNK"
+        },
+        {
+          "name": "Jonita Gandhi",
+          "url": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243893,
+      "name": "Khasiyat (From \"Chand Mera Dil\")",
+      "url": "https://open.spotify.com/track/3nbhiLr2K8xVTqRXU0vzoE"
+    },
+    {
+      "album": {
         "name": "Khatt 2.0",
         "url": "https://open.spotify.com/album/0Fsud8vJ0tkYHeoiycAan6"
       },
@@ -8487,6 +8517,32 @@
     },
     {
       "album": {
+        "name": "Koyaliya",
+        "url": "https://open.spotify.com/album/1cJt7BpJ2cTCVC7vaH43Af"
+      },
+      "artists": [
+        {
+          "name": "Apurva Nisshad",
+          "url": "https://open.spotify.com/artist/6tG0yoFntJvbl7fScSJsVQ"
+        },
+        {
+          "name": "Abhishek Bonthu",
+          "url": "https://open.spotify.com/artist/2Npi8Fvuiey2YK0sWreWl5"
+        },
+        {
+          "name": "Pranav Barange",
+          "url": "https://open.spotify.com/artist/1XWKVQFj0cr91jLKaz1jHI"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258000,
+      "name": "Koyaliya",
+      "url": "https://open.spotify.com/track/6Vv1rS5OeR1NeGoScEilOz"
+    },
+    {
+      "album": {
         "name": "Tu Meri Poori Kahani",
         "url": "https://open.spotify.com/album/6LfZLLWvHlfEeLuXt5AsCm"
       },
@@ -8674,8 +8730,8 @@
           "url": "https://open.spotify.com/artist/4gzrZDyL5gYiROkv27pYKx"
         },
         {
-          "name": "Debattama Saha",
-          "url": "https://open.spotify.com/artist/0ppCDYzRxeofr5xceFQVtW"
+          "name": "Debattama",
+          "url": "https://open.spotify.com/artist/6VFfxgDEayurfp7m98ucqi"
         },
         {
           "name": "Ronak Phukan",
@@ -9208,7 +9264,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 273818,
       "name": "Main Hoon (From \"Maatrubhumi: May War Rest in Peace\")",
       "url": "https://open.spotify.com/track/6FwqKbjHn0BBx3iFzyhWRr"
@@ -9548,6 +9604,36 @@
       "duration_ms": 205714,
       "name": "Mashooqa",
       "url": "https://open.spotify.com/track/2YFOrvNbTSBGifeGzfX9Vv"
+    },
+    {
+      "album": {
+        "name": "Maskara (From \"Main Vaapas Aaunga\")",
+        "url": "https://open.spotify.com/album/0C5hxl6tOmNgFSxX6nr14g"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Vedang Raina",
+          "url": "https://open.spotify.com/artist/1X95l2wU2j5wskoTNOwfLB"
+        },
+        {
+          "name": "Nilanjana Ghosh",
+          "url": "https://open.spotify.com/artist/3CElBT0gzSRhujhhTm8gRC"
+        },
+        {
+          "name": "Irshad Kamil",
+          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233741,
+      "name": "Maskara (From \"Main Vaapas Aaunga\")",
+      "url": "https://open.spotify.com/track/1ayv6xv4m0zk0iyHuXfuJ4"
     },
     {
       "album": {
@@ -10376,7 +10462,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 198006,
       "name": "Na Jaaney Kyun",
       "url": "https://open.spotify.com/track/7EZmoVJNJfda66TJ44aME6"
@@ -14333,6 +14419,24 @@
     },
     {
       "album": {
+        "name": "Sukoon Hai",
+        "url": "https://open.spotify.com/album/5VqUUGtXgI9BWA5c8hjiS8"
+      },
+      "artists": [
+        {
+          "name": "Shaan",
+          "url": "https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182195,
+      "name": "Sukoon Hai",
+      "url": "https://open.spotify.com/track/64EPJUD7fOuYOnqv8bo9mq"
+    },
+    {
+      "album": {
         "name": "Rangeen (Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/6UoKIcd7WhB83XcSGQhMXz"
       },
@@ -16833,6 +16937,28 @@
     },
     {
       "album": {
+        "name": "Ya Tum",
+        "url": "https://open.spotify.com/album/2TFy2Lp4HyEIyHMGIS6FCL"
+      },
+      "artists": [
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Prajakta Shukre",
+          "url": "https://open.spotify.com/artist/025mNMOyhsDIKHAVTHp9xB"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227178,
+      "name": "Ya Tum",
+      "url": "https://open.spotify.com/track/0afUzDQQ4QavsET1wxwQyc"
+    },
+    {
+      "album": {
         "name": "Yaad Aaye Woh Din",
         "url": "https://open.spotify.com/album/3V4KVaoiFAxrTh8o8piSJx"
       },
@@ -16896,7 +17022,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 170720,
       "name": "Yaadon Ke Sahaare Chal - From \"Mercy\"",
       "url": "https://open.spotify.com/track/3NKaxgdz3yMhDYMcmq4OEZ"

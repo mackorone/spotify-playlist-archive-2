@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, pra você garimpar lançamentos\. Foto: Emitê Único, Leviano,  Soh Lopez, DESSIIIK
 
-[Spotify](https://open.spotify.com/user/spotify) - 610,191 likes - 75 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 610,172 likes - 75 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 11 | [Uen Uen Uen](https://open.spotify.com/track/6KugUjPZU5ppLRumh4P3eC) | [Suiky](https://open.spotify.com/artist/3nDW2GZ3lX2zuT5aYentM6) | [Uen Uen Uen](https://open.spotify.com/album/3lOWqe9C98T0ItSVRVwUTv) | 3:28 |
 | 12 | [HORA DO KARMA REAGIR](https://open.spotify.com/track/1Wy90o0P6QcJ6PxFlvbXdo) | [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l), [João Pastor](https://open.spotify.com/artist/4o1yYKtnF4zkHTrHvb1wUs) | [HORA DO KARMA REAGIR](https://open.spotify.com/album/1ngpFiahIhE8icddv1uLR2) | 4:26 |
 | 13 | [Indiferente](https://open.spotify.com/track/3JUmNcneDnSEkqgitOwJ0i) | [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l) | [Indiferente](https://open.spotify.com/album/2q5jwon1ku6oOdq0qzFKoP) | 3:31 |
-| 14 | [Oração do filho de Deus](https://open.spotify.com/track/54Bz8FYJ98BL3LoqxabJnr) | [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [Viper](https://open.spotify.com/artist/7lr4WifTmPssQJgBmbjiJq), [Rocco](https://open.spotify.com/artist/5OvehyyUJ5edWaogL9o4Ka) | [Oração do filho de Deus](https://open.spotify.com/album/1GQoZffG6EEBAtX3cY8OkA) | 3:30 |
+| 14 | [Oração do filho de Deus](https://open.spotify.com/track/54Bz8FYJ98BL3LoqxabJnr) | [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [Viper](https://open.spotify.com/artist/7lr4WifTmPssQJgBmbjiJq), [Rocco](https://open.spotify.com/artist/5OvehyyUJ5edWaogL9o4Ka) | [Oração do filho de Deus](https://open.spotify.com/album/1GQoZffG6EEBAtX3cY8OkA) | 3:30 |
 | 15 | [drive by](https://open.spotify.com/track/289f3fB3mR8R2ExKicf4TR) | [Dfideliz](https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10) | [Um Menino Bom](https://open.spotify.com/album/5z2lnD5GH411EpZjeiF1JE) | 2:45 |
 | 16 | [VIDA DE ILUSÃO](https://open.spotify.com/track/671zmu4aFMn7u16sTKL5dl) | [Sueth](https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX), [Th DaB](https://open.spotify.com/artist/1Vx0bnfBGRwBsqziNlf4H7), [CHIMOTO](https://open.spotify.com/artist/4gAHD78EU5OSEYhSsRKpJd) | [VIDA DE ILUSÃO](https://open.spotify.com/album/7JhdBWpvumB1bYR5kJhu7T) | 3:30 |
 | 17 | [ICE](https://open.spotify.com/track/4QMWwYSQuRAEOUzKlso99B) | [Franco, The Sir!](https://open.spotify.com/artist/2dSdEXb846NGEN95MkLTYU), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW), [Pascon](https://open.spotify.com/artist/6LUA1e130vjHgN0xeBgDUi), [Asfalto Rec](https://open.spotify.com/artist/0QGicFlDrqHZqBIVSjWWMv) | [ICE](https://open.spotify.com/album/2STAYDW8pSzp50BixLEgpD) | 2:19 |

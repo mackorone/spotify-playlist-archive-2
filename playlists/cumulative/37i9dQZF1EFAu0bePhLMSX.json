@@ -1027,6 +1027,24 @@
     },
     {
       "album": {
+        "name": "Northern Star",
+        "url": "https://open.spotify.com/album/6TjfhQSmmBOEwIXkoT3fdZ"
+      },
+      "artists": [
+        {
+          "name": "Melanie C",
+          "url": "https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215960,
+      "name": "Goin' Down",
+      "url": "https://open.spotify.com/track/28PRXrS8AkRX32FGL6S0DU"
+    },
+    {
+      "album": {
         "name": "Let It Go (Bonus Tracks)",
         "url": "https://open.spotify.com/album/2ubU9zi8NfQ1qXRNGkLIoi"
       },

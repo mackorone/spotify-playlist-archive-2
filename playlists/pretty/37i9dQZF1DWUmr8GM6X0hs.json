@@ -1,6 +1,6 @@
 {
   "description": "El inolvidable sonido del amor nunca hab\u00eda estado tan cerca de ti.",
-  "num_followers": 105787,
+  "num_followers": 105800,
   "original_name": "Boleros en Casa",
   "owner": {
     "name": "Spotify",
@@ -811,6 +811,26 @@
     {
       "added_at": "2025-12-19 04:59:16",
       "album": {
+        "name": "Brillantes - Eydie Gorme Y Los Panchos",
+        "url": "https://open.spotify.com/album/2x0Uc0vEeVPsX1z80i3VcO"
+      },
+      "artists": [
+        {
+          "name": "Eydie Gorm\u00e9",
+          "url": "https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z"
+        },
+        {
+          "name": "Los Panchos",
+          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
+        }
+      ],
+      "duration_ms": 138840,
+      "name": "Piel Canela",
+      "url": "https://open.spotify.com/track/5aJW8qYYA4acvy7HBaIQV8"
+    },
+    {
+      "added_at": "2025-12-19 04:59:16",
+      "album": {
         "name": "30 Mejores: Alci Acosta",
         "url": "https://open.spotify.com/album/0rVePJ6T1cPv3wG06wFpmv"
       },
@@ -843,22 +863,6 @@
     {
       "added_at": "2025-12-19 04:59:16",
       "album": {
-        "name": "Boleros para Enamorarse, Vol. 2",
-        "url": "https://open.spotify.com/album/3eWzi2pLdTWzkIT9pxhzOZ"
-      },
-      "artists": [
-        {
-          "name": "Consuelo Vel\u00e1zquez",
-          "url": "https://open.spotify.com/artist/3LXU2rvQWxMGvbmnoAqRMU"
-        }
-      ],
-      "duration_ms": 181960,
-      "name": "Besame Mucho",
-      "url": "https://open.spotify.com/track/7ID2XpnDroizAWSvzAZsy7"
-    },
-    {
-      "added_at": "2025-12-19 04:59:16",
-      "album": {
         "name": "Quiz\u00e1s (La Historia de Nosotros)",
         "url": "https://open.spotify.com/album/6iS5SVopMVmHe6fXFniSB7"
       },
@@ -875,22 +879,18 @@
     {
       "added_at": "2025-12-19 04:59:16",
       "album": {
-        "name": "Brillantes - Eydie Gorme Y Los Panchos",
-        "url": "https://open.spotify.com/album/2x0Uc0vEeVPsX1z80i3VcO"
+        "name": "Boleros para Enamorarse, Vol. 2",
+        "url": "https://open.spotify.com/album/3eWzi2pLdTWzkIT9pxhzOZ"
       },
       "artists": [
         {
-          "name": "Eydie Gorm\u00e9",
-          "url": "https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z"
-        },
-        {
-          "name": "Los Panchos",
-          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
+          "name": "Consuelo Vel\u00e1zquez",
+          "url": "https://open.spotify.com/artist/3LXU2rvQWxMGvbmnoAqRMU"
         }
       ],
-      "duration_ms": 138840,
-      "name": "Piel Canela",
-      "url": "https://open.spotify.com/track/5aJW8qYYA4acvy7HBaIQV8"
+      "duration_ms": 181960,
+      "name": "Besame Mucho",
+      "url": "https://open.spotify.com/track/7ID2XpnDroizAWSvzAZsy7"
     },
     {
       "added_at": "2025-12-19 04:59:16",

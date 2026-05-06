@@ -1,12 +1,12 @@
 {
   "description": "This is No Doubt. The essential tracks, all in one playlist.",
-  "num_followers": 120116,
+  "num_followers": 120144,
   "original_name": "This Is No Doubt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afaQAAAAAABt5RoJaJ+yYJUsPNwnUC3d",
+  "snapshot_id": "affhgAAAAABskSZJDsBMJUHHUH1Orcf+",
   "tracks": [
     {
       "added_at": null,
@@ -352,9 +352,9 @@
           "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
         }
       ],
-      "duration_ms": 277200,
-      "name": "Marry Me",
-      "url": "https://open.spotify.com/track/6yIuUtYsmbJXQ5NdRU7yzp"
+      "duration_ms": 234506,
+      "name": "Artificial Sweetener",
+      "url": "https://open.spotify.com/track/04h8XEp9JDbOxTBzm91jR3"
     },
     {
       "added_at": null,
@@ -416,9 +416,9 @@
           "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
         }
       ],
-      "duration_ms": 234506,
-      "name": "Artificial Sweetener",
-      "url": "https://open.spotify.com/track/04h8XEp9JDbOxTBzm91jR3"
+      "duration_ms": 277200,
+      "name": "Marry Me",
+      "url": "https://open.spotify.com/track/6yIuUtYsmbJXQ5NdRU7yzp"
     },
     {
       "added_at": null,

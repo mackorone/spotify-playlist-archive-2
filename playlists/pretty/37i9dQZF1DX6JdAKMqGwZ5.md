@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JdAKMqGwZ5.md) - [plain]
 
 > Descubre los temas emergentes del mundo indie\. Foto: Hnos Munoz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,836 likes - 120 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,825 likes - 120 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JdAKMqGwZ5.md) - [plain]
 | 65 | [Aa Mamá](https://open.spotify.com/track/1UVfA3ocDO8asSbQJ2zFKy) | [GOMZ](https://open.spotify.com/artist/7BLezVBmCyG6aFk101o7vA) | [Aa Mamá](https://open.spotify.com/album/7bbisrM50D2hRE5BOw8hYa) | 3:02 |
 | 66 | [Qué Pena](https://open.spotify.com/track/7MDl8VL8Pt5QdlbXTc8j2y) | [Emilia, Pardo y Bazán](https://open.spotify.com/artist/3Wu21kxlNyuHhyGbCndp7j) | [Qué Pena](https://open.spotify.com/album/51w894CGEBIy57G7xetuNq) | 3:03 |
 | 67 | [Lo Que Me Pasa](https://open.spotify.com/track/3GBWdd8w6zqMM6mUsmfcRR) | [Maria Rodés](https://open.spotify.com/artist/2uCphK8yRHj9DHJmmE5Isf), [Albert Cases](https://open.spotify.com/artist/61llloTcQIbaT4ojaBOJbS) | [Lo Que Me Pasa](https://open.spotify.com/album/3bjFlNdShEBcKmQVd7KvZm) | 2:52 |
-| 68 | [todo amaina](https://open.spotify.com/track/7w1kycTdajNwaLYz0jnlZz) | [Tanxugueiras](https://open.spotify.com/artist/1iHb53TMjvMaXZm0s4RWZi) | [todo amaina](https://open.spotify.com/album/5gVI8SaZsM2dTFI1fMOSox) | 2:32 |
+| 68 | [todo amaina](https://open.spotify.com/track/7w1kycTdajNwaLYz0jnlZz) | [Tanxugueiras](https://open.spotify.com/artist/1iHb53TMjvMaXZm0s4RWZi) | [todo amaina](https://open.spotify.com/album/5gVI8SaZsM2dTFI1fMOSox) | 2:42 |
 | 69 | [El Idilio](https://open.spotify.com/track/614sBZeyzY4x7CApm8BSDR) | [Sr\. Chinarro](https://open.spotify.com/artist/3bEHj6WUeCJey0vLrffSQp), [J](https://open.spotify.com/artist/020TECbJNvzquIiMMR4jV0) | [El Idilio](https://open.spotify.com/album/3q27DHwxfAmhF6VyHnGcji) | 4:02 |
 | 70 | [Un beso y una flor](https://open.spotify.com/track/5W31WXmdZiFUzKcBmspJdG) | [Niños Bravos](https://open.spotify.com/artist/5yJc14614Bzi1g5WLSNO3U) | [Un beso y una flor](https://open.spotify.com/album/4Qu1tWIqp9wzL18E5xfiRx) | 2:50 |
 | 71 | [Mi querido vino blanco](https://open.spotify.com/track/053j2JKI8hEZKVvz6D36dt) | [Celine Van Heel](https://open.spotify.com/artist/3WunZoCCWuZ1kpUiCqfgN1) | [Naufrage](https://open.spotify.com/album/5org8LtiD1V5dwPBgOmqco) | 2:41 |
@@ -119,7 +119,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JdAKMqGwZ5.md) - [plain]
 | 109 | [no me queda energía](https://open.spotify.com/track/1X8bOg3XDK38V0rN9sbKxY) | [Carmen Lancho](https://open.spotify.com/artist/4Axkq7hPn8hlKLQSBE3rd4) | [no me queda energía](https://open.spotify.com/album/5jxnCejWk26GOqYxq4HG7D) | 1:05 |
 | 110 | [Aa Hermana](https://open.spotify.com/track/52LbkOsKnSGobyEymMN65C) | [GOMZ](https://open.spotify.com/artist/7BLezVBmCyG6aFk101o7vA) | [Aa](https://open.spotify.com/album/3EZvaYqi6Mbmbu7LMPrLn9) | 3:01 |
 | 111 | [Infancia Mal Calibrada](https://open.spotify.com/track/75EqPDFPtq70WU5AyWl3uP) | [Barry B](https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy) | [Infancia Mal Calibrada](https://open.spotify.com/album/58guaRgiN85BmxlHXzAYmT) | 3:28 |
-| 112 | [chorar, chorei](https://open.spotify.com/track/2qzaczFHLJLRXWWX9Qg5NH) | [Tanxugueiras](https://open.spotify.com/artist/1iHb53TMjvMaXZm0s4RWZi) | [chorar, chorei](https://open.spotify.com/album/1N8BnDEXP0qku4pqPs6EKA) | 3:08 |
+| 112 | [chorar, chorei](https://open.spotify.com/track/2qzaczFHLJLRXWWX9Qg5NH) | [Tanxugueiras](https://open.spotify.com/artist/1iHb53TMjvMaXZm0s4RWZi) | [chorar, chorei](https://open.spotify.com/album/1N8BnDEXP0qku4pqPs6EKA) | 3:12 |
 | 113 | [No Vuelvas](https://open.spotify.com/track/3kJa00o6zwy3cGX6VgHgoL) | [Alba Morena](https://open.spotify.com/artist/6wTv4tZgFHEWy8MyTaP9E5) | [No Vuelvas](https://open.spotify.com/album/12QEUlpF1TMJ9VTEOKs3o6) | 2:50 |
 | 114 | [Ojos Que No Ven](https://open.spotify.com/track/3skn1ixoxKguFs28kRgc5e) | [CURRO](https://open.spotify.com/artist/4XhT1FjFitmnu6N6UE38eH) | [Ojos Que No Ven](https://open.spotify.com/album/27cI5W9et79v0i2PisxTcK) | 3:09 |
 | 115 | [El Precipicio](https://open.spotify.com/track/0yu3ASlGmwus66Huo9nC8Z) | [Sofía Comas](https://open.spotify.com/artist/4W8QcZ9XWkdnFcMFVwL6Rb), [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [El Precipicio](https://open.spotify.com/album/6uhPar3IWdU6kA7aKG2ddV) | 3:08 |

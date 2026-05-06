@@ -1,6 +1,6 @@
 {
   "description": "We're celebrating the 20th anniversary of Miranda Lambert's hit album \"Kerosene\" on 2000s Country!\n",
-  "num_followers": 983462,
+  "num_followers": 983610,
   "original_name": "2000s Country",
   "owner": {
     "name": "Spotify",
@@ -431,18 +431,22 @@
     {
       "added_at": "2026-01-21 18:25:23",
       "album": {
-        "name": "That Lonesome Song",
-        "url": "https://open.spotify.com/album/3mb6QMOelljOicaqCo4F6i"
+        "name": "Unleashed",
+        "url": "https://open.spotify.com/album/7ExectJocqn8sMKq4Tn4LY"
       },
       "artists": [
         {
-          "name": "Jamey Johnson",
-          "url": "https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8"
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 290680,
-      "name": "In Color",
-      "url": "https://open.spotify.com/track/7CNd7rjfVt74TFlcOcnZgN"
+      "duration_ms": 204000,
+      "name": "Beer For My Horses",
+      "url": "https://open.spotify.com/track/7E2DqvnVtbIrFrL5X6YH9Q"
     },
     {
       "added_at": "2026-01-21 18:25:23",
@@ -463,22 +467,18 @@
     {
       "added_at": "2026-01-21 18:25:23",
       "album": {
-        "name": "Unleashed",
-        "url": "https://open.spotify.com/album/7ExectJocqn8sMKq4Tn4LY"
+        "name": "That Lonesome Song",
+        "url": "https://open.spotify.com/album/3mb6QMOelljOicaqCo4F6i"
       },
       "artists": [
         {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+          "name": "Jamey Johnson",
+          "url": "https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8"
         }
       ],
-      "duration_ms": 204000,
-      "name": "Beer For My Horses",
-      "url": "https://open.spotify.com/track/7E2DqvnVtbIrFrL5X6YH9Q"
+      "duration_ms": 290680,
+      "name": "In Color",
+      "url": "https://open.spotify.com/track/7CNd7rjfVt74TFlcOcnZgN"
     },
     {
       "added_at": "2026-01-21 18:25:23",
@@ -891,18 +891,18 @@
     {
       "added_at": "2026-01-21 18:25:23",
       "album": {
-        "name": "Blake Shelton",
-        "url": "https://open.spotify.com/album/4BRHk20nhD24APuvO9PvC8"
+        "name": "I Hope You Dance",
+        "url": "https://open.spotify.com/album/5NwzdF5qHEtXT6SepzhWJv"
       },
       "artists": [
         {
-          "name": "Blake Shelton",
-          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+          "name": "Lee Ann Womack",
+          "url": "https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet"
         }
       ],
-      "duration_ms": 230333,
-      "name": "Austin",
-      "url": "https://open.spotify.com/track/2WQAknZHrJAEQOFXe0F44P"
+      "duration_ms": 294533,
+      "name": "I Hope You Dance",
+      "url": "https://open.spotify.com/track/65B1tEOv5W294uCKbmEcFV"
     },
     {
       "added_at": "2026-01-21 18:25:23",
@@ -939,18 +939,18 @@
     {
       "added_at": "2026-01-21 18:25:23",
       "album": {
-        "name": "I Hope You Dance",
-        "url": "https://open.spotify.com/album/5NwzdF5qHEtXT6SepzhWJv"
+        "name": "Blake Shelton",
+        "url": "https://open.spotify.com/album/4BRHk20nhD24APuvO9PvC8"
       },
       "artists": [
         {
-          "name": "Lee Ann Womack",
-          "url": "https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet"
+          "name": "Blake Shelton",
+          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
         }
       ],
-      "duration_ms": 294533,
-      "name": "I Hope You Dance",
-      "url": "https://open.spotify.com/track/65B1tEOv5W294uCKbmEcFV"
+      "duration_ms": 230333,
+      "name": "Austin",
+      "url": "https://open.spotify.com/track/2WQAknZHrJAEQOFXe0F44P"
     },
     {
       "added_at": "2026-01-21 18:25:23",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2026-01-21 18:25:23",
       "album": {
-        "name": "One More Day",
-        "url": "https://open.spotify.com/album/43WoT1H0ferVcZ0NVjOubF"
-      },
-      "artists": [
-        {
-          "name": "Diamond Rio",
-          "url": "https://open.spotify.com/artist/0svyIX7Xu3DVMkrOtB88i6"
-        }
-      ],
-      "duration_ms": 216173,
-      "name": "One More Day",
-      "url": "https://open.spotify.com/track/3TNoNv8Z80M3pfm6CcODsh"
-    },
-    {
-      "added_at": "2026-01-21 18:25:23",
-      "album": {
         "name": "Phil Vassar",
         "url": "https://open.spotify.com/album/5F5mOJ0WkMwpqVkK1AwMHC"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 233880,
       "name": "Just Another Day In Paradise",
       "url": "https://open.spotify.com/track/4LlNoNZflek4hZyZigCxpW"
+    },
+    {
+      "added_at": "2026-01-21 18:25:23",
+      "album": {
+        "name": "One More Day",
+        "url": "https://open.spotify.com/album/43WoT1H0ferVcZ0NVjOubF"
+      },
+      "artists": [
+        {
+          "name": "Diamond Rio",
+          "url": "https://open.spotify.com/artist/0svyIX7Xu3DVMkrOtB88i6"
+        }
+      ],
+      "duration_ms": 216173,
+      "name": "One More Day",
+      "url": "https://open.spotify.com/track/3TNoNv8Z80M3pfm6CcODsh"
     },
     {
       "added_at": "2026-01-21 18:25:23",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2026-01-21 18:25:23",
       "album": {
-        "name": "Smoke Rings In The Dark (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7AfIfaS5H3UWCvELRpKMLX"
-      },
-      "artists": [
-        {
-          "name": "Gary Allan",
-          "url": "https://open.spotify.com/artist/37W8SKV5Vc8lcGtdyWCA5m"
-        }
-      ],
-      "duration_ms": 257646,
-      "name": "Smoke Rings In The Dark",
-      "url": "https://open.spotify.com/track/47tVV7s6UzdcyTJBoIW7aX"
-    },
-    {
-      "added_at": "2026-01-21 18:25:23",
-      "album": {
         "name": "Amigo",
         "url": "https://open.spotify.com/album/59t8xEk9Yw0RPxHTlUyarW"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 275053,
       "name": "Riding With Private Malone",
       "url": "https://open.spotify.com/track/7nBuud01OFM3kHoUhvVI0l"
+    },
+    {
+      "added_at": "2026-01-21 18:25:23",
+      "album": {
+        "name": "Smoke Rings In The Dark (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7AfIfaS5H3UWCvELRpKMLX"
+      },
+      "artists": [
+        {
+          "name": "Gary Allan",
+          "url": "https://open.spotify.com/artist/37W8SKV5Vc8lcGtdyWCA5m"
+        }
+      ],
+      "duration_ms": 257646,
+      "name": "Smoke Rings In The Dark",
+      "url": "https://open.spotify.com/track/47tVV7s6UzdcyTJBoIW7aX"
     },
     {
       "added_at": "2026-01-21 18:25:23",

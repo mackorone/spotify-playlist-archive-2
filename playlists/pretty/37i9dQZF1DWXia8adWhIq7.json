@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a as novidades e sucessos do Pop Crist\u00e3o. Foto: Gui Neris",
-  "num_followers": 112567,
+  "num_followers": 112563,
   "original_name": "Pop Gospel",
   "owner": {
     "name": "Spotify",
@@ -155,8 +155,8 @@
     {
       "added_at": "2026-04-10 17:16:27",
       "album": {
-        "name": "Entre Milh\u00f5es",
-        "url": "https://open.spotify.com/album/24zbpVWJfdko6LTVjDHJhJ"
+        "name": "Esque\u00e7o At\u00e9 o Tempo",
+        "url": "https://open.spotify.com/album/6PeOq6vvMPDB1TixVs3AjU"
       },
       "artists": [
         {
@@ -164,13 +164,17 @@
           "url": "https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1"
         },
         {
-          "name": "Margem Norte",
-          "url": "https://open.spotify.com/artist/1qRtV6ebPkjaHAxXM4Mzi1"
+          "name": "Feliz7Play",
+          "url": "https://open.spotify.com/artist/6LD4cDaG4K0B2oguawXfIG"
+        },
+        {
+          "name": "Benjamim Silva",
+          "url": "https://open.spotify.com/artist/7kHaI4UMrNTMHBJrvtNOuX"
         }
       ],
-      "duration_ms": 251000,
-      "name": "Entre Milh\u00f5es",
-      "url": "https://open.spotify.com/track/2V4oWQWf6LKvEEsSskyM2j"
+      "duration_ms": 159825,
+      "name": "Esque\u00e7o At\u00e9 o Tempo (Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/73v7T2BnMUZBgvazzWS8eZ"
     },
     {
       "added_at": "2026-04-10 17:16:27",
@@ -251,8 +255,8 @@
     {
       "added_at": "2026-04-10 17:16:27",
       "album": {
-        "name": "Esque\u00e7o At\u00e9 o Tempo",
-        "url": "https://open.spotify.com/album/6PeOq6vvMPDB1TixVs3AjU"
+        "name": "Entre Milh\u00f5es",
+        "url": "https://open.spotify.com/album/24zbpVWJfdko6LTVjDHJhJ"
       },
       "artists": [
         {
@@ -260,17 +264,13 @@
           "url": "https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1"
         },
         {
-          "name": "Feliz7Play",
-          "url": "https://open.spotify.com/artist/6LD4cDaG4K0B2oguawXfIG"
-        },
-        {
-          "name": "Benjamim Silva",
-          "url": "https://open.spotify.com/artist/7kHaI4UMrNTMHBJrvtNOuX"
+          "name": "Margem Norte",
+          "url": "https://open.spotify.com/artist/1qRtV6ebPkjaHAxXM4Mzi1"
         }
       ],
-      "duration_ms": 159825,
-      "name": "Esque\u00e7o At\u00e9 o Tempo (Ac\u00fastico)",
-      "url": "https://open.spotify.com/track/73v7T2BnMUZBgvazzWS8eZ"
+      "duration_ms": 251000,
+      "name": "Entre Milh\u00f5es",
+      "url": "https://open.spotify.com/track/2V4oWQWf6LKvEEsSskyM2j"
     },
     {
       "added_at": "2026-04-10 17:16:27",
@@ -479,22 +479,6 @@
     {
       "added_at": "2026-04-10 17:16:27",
       "album": {
-        "name": "Festa no Deserto (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5KVAXZ4gX0alasxFXhi2QC"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9 e Felipe",
-          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
-        }
-      ],
-      "duration_ms": 227717,
-      "name": "Festa no Deserto - Ao Vivo",
-      "url": "https://open.spotify.com/track/31FV1KWZD274iuKlqRe08T"
-    },
-    {
-      "added_at": "2026-04-10 17:16:27",
-      "album": {
         "name": "Tens o Meu Sim",
         "url": "https://open.spotify.com/album/57Fxlm00hYPsdzsaFYfUfx"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 224000,
       "name": "Tens o Meu Sim",
       "url": "https://open.spotify.com/track/2VW8ntuRL6gWNyhQ1tJmCQ"
+    },
+    {
+      "added_at": "2026-04-10 17:16:27",
+      "album": {
+        "name": "Festa no Deserto (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5KVAXZ4gX0alasxFXhi2QC"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 e Felipe",
+          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
+        }
+      ],
+      "duration_ms": 227717,
+      "name": "Festa no Deserto - Ao Vivo",
+      "url": "https://open.spotify.com/track/31FV1KWZD274iuKlqRe08T"
     },
     {
       "added_at": "2026-04-10 17:16:27",
@@ -719,22 +719,6 @@
     {
       "added_at": "2026-04-10 17:16:27",
       "album": {
-        "name": "SL.27.4",
-        "url": "https://open.spotify.com/album/1dRT83wTKwey6FeWv177iy"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Gomes",
-          "url": "https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE"
-        }
-      ],
-      "duration_ms": 237209,
-      "name": "Tudo",
-      "url": "https://open.spotify.com/track/5wbSVolmtQA6kodui95x40"
-    },
-    {
-      "added_at": "2026-04-10 17:16:27",
-      "album": {
         "name": "\u00c9 Mais Que Uma Honra",
         "url": "https://open.spotify.com/album/4IItVJeLdLmppzqHqymA94"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 296058,
       "name": "\u00c9 Mais Que Uma Honra",
       "url": "https://open.spotify.com/track/0FleYfjQOtce0GXPq1CJPI"
+    },
+    {
+      "added_at": "2026-04-10 17:16:27",
+      "album": {
+        "name": "SL.27.4",
+        "url": "https://open.spotify.com/album/1dRT83wTKwey6FeWv177iy"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Gomes",
+          "url": "https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE"
+        }
+      ],
+      "duration_ms": 237209,
+      "name": "Tudo",
+      "url": "https://open.spotify.com/track/5wbSVolmtQA6kodui95x40"
     },
     {
       "added_at": "2026-04-10 17:16:27",
@@ -783,22 +783,6 @@
     {
       "added_at": "2026-04-10 17:16:27",
       "album": {
-        "name": "\u00c9 de Cora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/5i6tJzC8I16Rwc6YTsmFK4"
-      },
-      "artists": [
-        {
-          "name": "Welcson",
-          "url": "https://open.spotify.com/artist/24KBFgKuNtKpvYdxm5CAqN"
-        }
-      ],
-      "duration_ms": 196306,
-      "name": "\u00c9 de Cora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/0GcE9fifKZiHDX0EroenSk"
-    },
-    {
-      "added_at": "2026-04-10 17:16:27",
-      "album": {
         "name": "Faltava Voc\u00ea",
         "url": "https://open.spotify.com/album/2VRthZpnrLNcoM9gvy5717"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 194643,
       "name": "Faltava Voc\u00ea",
       "url": "https://open.spotify.com/track/2p9hwoULyrP14ccQmIMqFO"
+    },
+    {
+      "added_at": "2026-04-10 17:16:27",
+      "album": {
+        "name": "\u00c9 de Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/5i6tJzC8I16Rwc6YTsmFK4"
+      },
+      "artists": [
+        {
+          "name": "Welcson",
+          "url": "https://open.spotify.com/artist/24KBFgKuNtKpvYdxm5CAqN"
+        }
+      ],
+      "duration_ms": 196306,
+      "name": "\u00c9 de Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/0GcE9fifKZiHDX0EroenSk"
     },
     {
       "added_at": "2026-04-10 17:16:27",
@@ -1087,26 +1087,6 @@
     {
       "added_at": "2026-04-10 17:16:27",
       "album": {
-        "name": "A Gente Aprende a Ser",
-        "url": "https://open.spotify.com/album/6itU1pUMHCd6d98B9AOjdz"
-      },
-      "artists": [
-        {
-          "name": "Grupo Versos",
-          "url": "https://open.spotify.com/artist/3R4RUXjmQuMktdO8CHCCPk"
-        },
-        {
-          "name": "Julia Costa",
-          "url": "https://open.spotify.com/artist/5aLsHlPCjfRhvBlCTLBe24"
-        }
-      ],
-      "duration_ms": 248601,
-      "name": "A Gente Aprende a Ser",
-      "url": "https://open.spotify.com/track/3Icpn3LFDFf2jKYZujlntR"
-    },
-    {
-      "added_at": "2026-04-10 17:16:27",
-      "album": {
         "name": "Tudo Novo (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/3gWsO95tq0c0qTAyogPlHk"
       },
@@ -1127,6 +1107,26 @@
       "duration_ms": 179998,
       "name": "Tudo Novo - Ac\u00fastico",
       "url": "https://open.spotify.com/track/77uSoHkw1ot5r6JdfvtTmi"
+    },
+    {
+      "added_at": "2026-04-10 17:16:27",
+      "album": {
+        "name": "A Gente Aprende a Ser",
+        "url": "https://open.spotify.com/album/6itU1pUMHCd6d98B9AOjdz"
+      },
+      "artists": [
+        {
+          "name": "Grupo Versos",
+          "url": "https://open.spotify.com/artist/3R4RUXjmQuMktdO8CHCCPk"
+        },
+        {
+          "name": "Julia Costa",
+          "url": "https://open.spotify.com/artist/5aLsHlPCjfRhvBlCTLBe24"
+        }
+      ],
+      "duration_ms": 248601,
+      "name": "A Gente Aprende a Ser",
+      "url": "https://open.spotify.com/track/3Icpn3LFDFf2jKYZujlntR"
     },
     {
       "added_at": "2026-04-10 17:16:27",
@@ -1215,18 +1215,18 @@
     {
       "added_at": "2026-04-10 17:16:27",
       "album": {
-        "name": "Voltar",
-        "url": "https://open.spotify.com/album/7IhZtnkevW11CFBDn0MtMw"
+        "name": "Casulo",
+        "url": "https://open.spotify.com/album/4qMEh38ilE4hFKebd2Akva"
       },
       "artists": [
         {
-          "name": "Eric Cortes",
-          "url": "https://open.spotify.com/artist/7Mvuu6yhnhyYtZATxe5C8F"
+          "name": "Isabella Lopes",
+          "url": "https://open.spotify.com/artist/4Anc0OS4S3ZOLk295QoHds"
         }
       ],
-      "duration_ms": 256874,
-      "name": "Voltar",
-      "url": "https://open.spotify.com/track/7nGWHqmxy7YbXSW2bQ3gwM"
+      "duration_ms": 219903,
+      "name": "Casulo",
+      "url": "https://open.spotify.com/track/74YwOpRL2QlSo4Z1c2XpZs"
     },
     {
       "added_at": "2026-04-10 17:16:27",
@@ -1247,18 +1247,18 @@
     {
       "added_at": "2026-04-10 17:16:27",
       "album": {
-        "name": "Casulo",
-        "url": "https://open.spotify.com/album/4qMEh38ilE4hFKebd2Akva"
+        "name": "Voltar",
+        "url": "https://open.spotify.com/album/7IhZtnkevW11CFBDn0MtMw"
       },
       "artists": [
         {
-          "name": "Isabella Lopes",
-          "url": "https://open.spotify.com/artist/4Anc0OS4S3ZOLk295QoHds"
+          "name": "Eric Cortes",
+          "url": "https://open.spotify.com/artist/7Mvuu6yhnhyYtZATxe5C8F"
         }
       ],
-      "duration_ms": 219903,
-      "name": "Casulo",
-      "url": "https://open.spotify.com/track/74YwOpRL2QlSo4Z1c2XpZs"
+      "duration_ms": 256874,
+      "name": "Voltar",
+      "url": "https://open.spotify.com/track/7nGWHqmxy7YbXSW2bQ3gwM"
     },
     {
       "added_at": "2026-04-10 17:16:27",
@@ -1331,26 +1331,6 @@
     {
       "added_at": "2026-04-10 17:16:27",
       "album": {
-        "name": "Deixa Esse Medo",
-        "url": "https://open.spotify.com/album/6E2eSQG04ZY7zep1UAicvN"
-      },
-      "artists": [
-        {
-          "name": "Jess\u00e9 Alcantara",
-          "url": "https://open.spotify.com/artist/5T7DnnHhIPE3aaftSLRJ0X"
-        },
-        {
-          "name": "Urban Music",
-          "url": "https://open.spotify.com/artist/1rlhLZKrDNMRbPUMbbgAgY"
-        }
-      ],
-      "duration_ms": 125890,
-      "name": "Deixa Esse Medo",
-      "url": "https://open.spotify.com/track/7fKi87WxPP93vIVPxBfX4u"
-    },
-    {
-      "added_at": "2026-04-10 17:16:27",
-      "album": {
         "name": "Pense Bem",
         "url": "https://open.spotify.com/album/2HLEZqD8E8VxUTJJAQWtOJ"
       },
@@ -1367,6 +1347,26 @@
       "duration_ms": 240000,
       "name": "Pense Bem",
       "url": "https://open.spotify.com/track/6MbLxZrhRG0aWpL4xYtKGE"
+    },
+    {
+      "added_at": "2026-04-10 17:16:27",
+      "album": {
+        "name": "Deixa Esse Medo",
+        "url": "https://open.spotify.com/album/6E2eSQG04ZY7zep1UAicvN"
+      },
+      "artists": [
+        {
+          "name": "Jess\u00e9 Alcantara",
+          "url": "https://open.spotify.com/artist/5T7DnnHhIPE3aaftSLRJ0X"
+        },
+        {
+          "name": "Urban Music",
+          "url": "https://open.spotify.com/artist/1rlhLZKrDNMRbPUMbbgAgY"
+        }
+      ],
+      "duration_ms": 125890,
+      "name": "Deixa Esse Medo",
+      "url": "https://open.spotify.com/track/7fKi87WxPP93vIVPxBfX4u"
     },
     {
       "added_at": "2026-04-10 17:16:27",

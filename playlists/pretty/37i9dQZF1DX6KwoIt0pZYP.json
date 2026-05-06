@@ -1,6 +1,6 @@
 {
   "description": "soft, chewy & good for the soul. uwu",
-  "num_followers": 259441,
+  "num_followers": 259471,
   "original_name": "tapioca",
   "owner": {
     "name": "Spotify",
@@ -1079,26 +1079,6 @@
     {
       "added_at": "2026-03-19 19:58:12",
       "album": {
-        "name": "BINIverse",
-        "url": "https://open.spotify.com/album/0N41GI4E4w6irltx8mJhY5"
-      },
-      "artists": [
-        {
-          "name": "BINI",
-          "url": "https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga"
-        },
-        {
-          "name": "eaJ",
-          "url": "https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN"
-        }
-      ],
-      "duration_ms": 204650,
-      "name": "Secrets (feat. eaJ)",
-      "url": "https://open.spotify.com/track/0hzFVTCkNnMgRrBiTgRuXC"
-    },
-    {
-      "added_at": "2026-03-19 19:58:12",
-      "album": {
         "name": "twin flames",
         "url": "https://open.spotify.com/album/4xW0IPIKToGIy3HMAnYOj1"
       },
@@ -1115,6 +1095,26 @@
       "duration_ms": 173000,
       "name": "twin flames",
       "url": "https://open.spotify.com/track/0Ik9LPqXs0DYConyjqvEFR"
+    },
+    {
+      "added_at": "2026-03-19 19:58:12",
+      "album": {
+        "name": "BINIverse",
+        "url": "https://open.spotify.com/album/0N41GI4E4w6irltx8mJhY5"
+      },
+      "artists": [
+        {
+          "name": "BINI",
+          "url": "https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga"
+        },
+        {
+          "name": "eaJ",
+          "url": "https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN"
+        }
+      ],
+      "duration_ms": 204650,
+      "name": "Secrets (feat. eaJ)",
+      "url": "https://open.spotify.com/track/0hzFVTCkNnMgRrBiTgRuXC"
     },
     {
       "added_at": "2026-03-19 19:58:12",
@@ -1579,6 +1579,22 @@
     {
       "added_at": "2026-03-19 19:58:12",
       "album": {
+        "name": "put it on me",
+        "url": "https://open.spotify.com/album/7ISjczr1BMdAZrrMkxnjhz"
+      },
+      "artists": [
+        {
+          "name": "eaJ",
+          "url": "https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN"
+        }
+      ],
+      "duration_ms": 131061,
+      "name": "put it on me",
+      "url": "https://open.spotify.com/track/3WSGp3kqtSEbVKLzCWvGGQ"
+    },
+    {
+      "added_at": "2026-03-19 19:58:12",
+      "album": {
         "name": "Night Drive",
         "url": "https://open.spotify.com/album/2ewjJwbolSuFdspnL2xhRw"
       },
@@ -1599,22 +1615,6 @@
       "duration_ms": 208251,
       "name": "Night Drive",
       "url": "https://open.spotify.com/track/1dytu44RfqZTQJNuSxs07o"
-    },
-    {
-      "added_at": "2026-03-19 19:58:12",
-      "album": {
-        "name": "put it on me",
-        "url": "https://open.spotify.com/album/7ISjczr1BMdAZrrMkxnjhz"
-      },
-      "artists": [
-        {
-          "name": "eaJ",
-          "url": "https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN"
-        }
-      ],
-      "duration_ms": 131061,
-      "name": "put it on me",
-      "url": "https://open.spotify.com/track/3WSGp3kqtSEbVKLzCWvGGQ"
     },
     {
       "added_at": "2026-03-19 19:58:12",
@@ -1675,6 +1675,22 @@
     {
       "added_at": "2026-03-19 19:58:12",
       "album": {
+        "name": "dishonesty",
+        "url": "https://open.spotify.com/album/2DgqzDo9Zo8XVkRBgqbUu6"
+      },
+      "artists": [
+        {
+          "name": "Gareth.T",
+          "url": "https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx"
+        }
+      ],
+      "duration_ms": 179216,
+      "name": "dishonesty",
+      "url": "https://open.spotify.com/track/2UyUm1slyOjBSWh8sDVUx9"
+    },
+    {
+      "added_at": "2026-03-19 19:58:12",
+      "album": {
         "name": "RABBITHOLE",
         "url": "https://open.spotify.com/album/0OptWsRKyw5TsNeiEshGfr"
       },
@@ -1703,22 +1719,6 @@
       "duration_ms": 210543,
       "name": "Snacks & Wine",
       "url": "https://open.spotify.com/track/5YZR3UQJQ8OLWYjhieJ6hn"
-    },
-    {
-      "added_at": "2026-03-19 19:58:12",
-      "album": {
-        "name": "dishonesty",
-        "url": "https://open.spotify.com/album/2DgqzDo9Zo8XVkRBgqbUu6"
-      },
-      "artists": [
-        {
-          "name": "Gareth.T",
-          "url": "https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx"
-        }
-      ],
-      "duration_ms": 179216,
-      "name": "dishonesty",
-      "url": "https://open.spotify.com/track/2UyUm1slyOjBSWh8sDVUx9"
     }
   ],
   "unique_name": "tapioca",

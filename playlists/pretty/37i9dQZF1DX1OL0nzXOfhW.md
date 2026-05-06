@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OL0nzXOfhW.md) - [plain]
 
 ### [RADAR HK](https://open.spotify.com/playlist/37i9dQZF1DX1OL0nzXOfhW)
 
-> 2026 RADAR登場！持續發掘香港未來新聲！Cover: CONSTANCE
+> 2026 RADAR登場！持續發掘香港未來新聲！Cover: inablankat
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,840 likes - 42 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,842 likes - 42 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OL0nzXOfhW.md) - [plain]
 | 2 | [取消追蹤](https://open.spotify.com/track/7zRtyJIbpVGtIviihExl42) | [REGENT 林暐竣](https://open.spotify.com/artist/0fC5VBIUXbh9Fltzxn12Mp) | [取消追蹤](https://open.spotify.com/album/524TeR4HcUHBCCNiOdQK9j) | 4:11 |
 | 3 | [要還](https://open.spotify.com/track/0htSMEYzCEqaVedtTUYuCt) | [CONSTANCE](https://open.spotify.com/artist/3d1QXYgWNVRHT5V5j5NozP) | [要還](https://open.spotify.com/album/0VuUCTaVoxR1HWIfRQLBai) | 3:34 |
 | 4 | [PICKY](https://open.spotify.com/track/2IccNAIFnWsgRfIVfTNRZv) | [Jaime Cheung](https://open.spotify.com/artist/0HlQqnAtrcPAXQcfdKqz5h) | [PICKY](https://open.spotify.com/album/0x1XlFTb3Gx4s6Z36ABV6e) | 2:08 |
-| 5 | [沒有你的0430](https://open.spotify.com/track/20rrb4jVMWtgV3BPwNhMK3) | [Paula 區子琳](https://open.spotify.com/artist/7dsWh013wkjVc4RJPBK7hY) | [沒有你的0430](https://open.spotify.com/album/7rxwYtzcmoWTNl40dqGXS0) | 3:56 |
+| 5 | [沒有你的0430](https://open.spotify.com/track/20rrb4jVMWtgV3BPwNhMK3) | [Paula 區子琳](https://open.spotify.com/artist/1wJ1hjR8MO4yvGO2ItLl4I) | [沒有你的0430](https://open.spotify.com/album/7rxwYtzcmoWTNl40dqGXS0) | 3:56 |
 | 6 | [story that never ends](https://open.spotify.com/track/1U92diBuPuPhWpQ3KbPPGd) | [CONSTANCE](https://open.spotify.com/artist/3d1QXYgWNVRHT5V5j5NozP) | [story that never ends](https://open.spotify.com/album/4aiPkG3hycKgbDJrT3rwkq) | 3:28 |
 | 7 | [在憂鬱的熱帶](https://open.spotify.com/track/1USIBsCwsHlRNlddUWhLC3) | [Hedgehog](https://open.spotify.com/artist/1rDjU7YKKDhieHkjaJNbEO) | [在憂鬱的熱帶](https://open.spotify.com/album/0hZUeIpNSBw7mjoZLDkzeW) | 3:46 |
 | 8 | [當我們不再說晚安](https://open.spotify.com/track/5nft8DV4HTOPyt5RJ5xBA9) | [晚安莉莉](https://open.spotify.com/artist/5QGALLXDjpaWbNlw4NL8gj) | [當我們不再說晚安](https://open.spotify.com/album/6gzB8wOU4M97H6dosO2uY8) | 4:00 |
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OL0nzXOfhW.md) - [plain]
 | 10 | [原生結](https://open.spotify.com/track/0KFnJisJRHA8m68fOjaS1n) | [The Hertz](https://open.spotify.com/artist/7fzX9P6uA9rnaPvp4QRD1b) | [ngo⁵](https://open.spotify.com/album/41KGazA3CEnkvVVr2FQuNN) | 4:28 |
 | 11 | [今次動真格](https://open.spotify.com/track/43TAdcNSQwqX5kfXiwvbzG) | [Teddy Fan](https://open.spotify.com/artist/2xcfjDx4F8seDu5jN0geQH) | [今次動真格](https://open.spotify.com/album/0EAiKz8T1MvS8G6EcV5bxF) | 3:19 |
 | 12 | [sweetcut](https://open.spotify.com/track/2BOdz9vtarbYxpuSmsmvDc) | [inablankat](https://open.spotify.com/artist/70mPT0gHw71WYtG8ozj590) | [sweetcut / nahnah](https://open.spotify.com/album/6LvYGRsgwRbtR1ZEAiupJ8) | 3:33 |
-| 13 | [Honey Pancake](https://open.spotify.com/track/5Y68dgN0xOvUHIkMgRfGzc) | [Paula 區子琳](https://open.spotify.com/artist/7dsWh013wkjVc4RJPBK7hY) | [Honey Pancake](https://open.spotify.com/album/1cQenGAtPW1jHCYHtiodU0) | 3:21 |
+| 13 | [Honey Pancake](https://open.spotify.com/track/5Y68dgN0xOvUHIkMgRfGzc) | [Paula 區子琳](https://open.spotify.com/artist/1wJ1hjR8MO4yvGO2ItLl4I) | [Honey Pancake](https://open.spotify.com/album/1cQenGAtPW1jHCYHtiodU0) | 3:21 |
 | 14 | [和所有錯的人談戀愛](https://open.spotify.com/track/3WsQJc0GNpktaMQfw21LGL) | [REGENT 林暐竣](https://open.spotify.com/artist/0fC5VBIUXbh9Fltzxn12Mp) | [和所有錯的人談戀愛](https://open.spotify.com/album/5SfVRd3MsWJBQjrIyW0MEQ) | 3:43 |
 | 15 | [粉月](https://open.spotify.com/track/1uB4ISd6swklwx3Nd5zQvm) | [Amy Lo](https://open.spotify.com/artist/1GUOcVj0qkEYcb2mKWxG7a) | [粉月](https://open.spotify.com/album/2apIRmL06ZwxNKOiuZFidM) | 3:19 |
 | 16 | [我看見今晚的月色很美，你呢？](https://open.spotify.com/track/0m6n3IqumWw9HVEDo930CZ) | [晚安莉莉](https://open.spotify.com/artist/5QGALLXDjpaWbNlw4NL8gj) | [Goodnight, Lillie.](https://open.spotify.com/album/0kFPWqhXlXqg6wffRY78IR) | 4:04 |
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OL0nzXOfhW.md) - [plain]
 | 19 | [Red Flag](https://open.spotify.com/track/1wbex2AZ9pwXpaGXsBJvb1) | [Amy Lo](https://open.spotify.com/artist/1GUOcVj0qkEYcb2mKWxG7a) | [Red Flag](https://open.spotify.com/album/23KmQS9hwU8uGgV7W69wnS) | 2:52 |
 | 20 | [講給我聽聽](https://open.spotify.com/track/1KGb3xBc6LHfUeFzXLG4jw) | [Jaime Cheung](https://open.spotify.com/artist/0HlQqnAtrcPAXQcfdKqz5h) | [Based On True Stories](https://open.spotify.com/album/0nvkolp7jXcubRKImPEHML) | 3:03 |
 | 21 | [告別式](https://open.spotify.com/track/0s9HaP0FI2JI6Gaexv3cQe) | [Teddy Fan](https://open.spotify.com/artist/2xcfjDx4F8seDu5jN0geQH) | [告別式](https://open.spotify.com/album/7hXJYLRXpllxx8DxVLn8v7) | 4:43 |
-| 22 | [瘟疫在愛蔓延時](https://open.spotify.com/track/0csQxHJEzcEMAOvQgDAy1J) | [Paula 區子琳](https://open.spotify.com/artist/7dsWh013wkjVc4RJPBK7hY) | [瘟疫在愛蔓延時](https://open.spotify.com/album/3JaU7N18bOxeHVLktXIX36) | 3:23 |
+| 22 | [瘟疫在愛蔓延時](https://open.spotify.com/track/0csQxHJEzcEMAOvQgDAy1J) | [Paula 區子琳](https://open.spotify.com/artist/1wJ1hjR8MO4yvGO2ItLl4I) | [瘟疫在愛蔓延時](https://open.spotify.com/album/3JaU7N18bOxeHVLktXIX36) | 3:23 |
 | 23 | [當昨日凝視着我](https://open.spotify.com/track/5MHvlmXlJgBtCA5niF73Fv) | [晚安莉莉](https://open.spotify.com/artist/5QGALLXDjpaWbNlw4NL8gj) | [Goodnight, Lillie.](https://open.spotify.com/album/0kFPWqhXlXqg6wffRY78IR) | 3:48 |
 | 24 | [i told chatgpt about you](https://open.spotify.com/track/0bFhKx00u59mp57ICYhwCM) | [Jaime Cheung](https://open.spotify.com/artist/0HlQqnAtrcPAXQcfdKqz5h) | [i told chatgpt about you](https://open.spotify.com/album/7jMn0C4Thymtq0OKKA5qlZ) | 3:14 |
 | 25 | [勿憂大師](https://open.spotify.com/track/2GA7EOO0XXsbJH5phkWTY1) | [The Hertz](https://open.spotify.com/artist/7fzX9P6uA9rnaPvp4QRD1b) | [ngo⁵](https://open.spotify.com/album/41KGazA3CEnkvVVr2FQuNN) | 3:38 |
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OL0nzXOfhW.md) - [plain]
 | 30 | [不想放假](https://open.spotify.com/track/3ZjieYjmYG4A4VJdPYUFnA) | [Teddy Fan](https://open.spotify.com/artist/2xcfjDx4F8seDu5jN0geQH), [Billy Choi](https://open.spotify.com/artist/1tHLv9kMiqAZhpMEGZ4rFw) | [不想放假](https://open.spotify.com/album/7Ghei8Zj2DWB7Y4iNIoP7Y) | 2:30 |
 | 31 | [晚安莉莉](https://open.spotify.com/track/0p5J6e2EQqmQC1nG2mlOlV) | [晚安莉莉](https://open.spotify.com/artist/5QGALLXDjpaWbNlw4NL8gj) | [Goodnight, Lillie.](https://open.spotify.com/album/0kFPWqhXlXqg6wffRY78IR) | 3:36 |
 | 32 | [最終局](https://open.spotify.com/track/0Kp3qB6FtdbGkVkvxz6KgN) | [The Hertz](https://open.spotify.com/artist/7fzX9P6uA9rnaPvp4QRD1b) | [ngo⁵](https://open.spotify.com/album/41KGazA3CEnkvVVr2FQuNN) | 3:32 |
-| 33 | [I'm not 18 or 22](https://open.spotify.com/track/0r7003wUZqwlkPvbkNaPVP) | [Paula 區子琳](https://open.spotify.com/artist/7dsWh013wkjVc4RJPBK7hY) | [I'm not 18 or 22](https://open.spotify.com/album/0hdn5KwP8cucS0pc2IjUo5) | 2:37 |
+| 33 | [I'm not 18 or 22](https://open.spotify.com/track/0r7003wUZqwlkPvbkNaPVP) | [Paula 區子琳](https://open.spotify.com/artist/1wJ1hjR8MO4yvGO2ItLl4I) | [I'm not 18 or 22](https://open.spotify.com/album/0hdn5KwP8cucS0pc2IjUo5) | 2:37 |
 | 34 | [大有](https://open.spotify.com/track/3WT0JXvJp6D0xGdGUuisHX) | [Hedgehog](https://open.spotify.com/artist/1rDjU7YKKDhieHkjaJNbEO) | [大有](https://open.spotify.com/album/1bEOMxmg5JyqWgjMIsbj8T) | 3:48 |
 | 35 | [二都夜想曲](https://open.spotify.com/track/1nMnEUTOhfDUsLpyrmc1r2) | [Hedgehog](https://open.spotify.com/artist/1rDjU7YKKDhieHkjaJNbEO), [wapiti](https://open.spotify.com/artist/0yWUMWzT5OnBurSaKi356m) | [二都夜想曲](https://open.spotify.com/album/19mx3ysGi9Xdd0HiyFXFL2) | 4:09 |
 | 36 | [二都夜想曲 \- 一人幻想篇](https://open.spotify.com/track/69hnrKn1Tqc4sQFy7AHn4C) | [Hedgehog](https://open.spotify.com/artist/1rDjU7YKKDhieHkjaJNbEO), [Revery](https://open.spotify.com/artist/6RvZ5IrpCh6dKzd5qwBg8Z) | [二都夜想曲 \(一人幻想篇\)](https://open.spotify.com/album/2u3SGETwUfHNDbgcWjOkDT) | 4:09 |

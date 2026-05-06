@@ -4,7 +4,7 @@
 
 > Die Playlist zur Wasserpfeife\. Cover: YUNG SAINT PAUL
 
-488 songs - 20 hr 34 min
+489 songs - 20 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,6 +163,7 @@
 | [Eurosport](https://open.spotify.com/track/1IncGnjnnKmBkFw0vIf0lV) | [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp), [Azet](https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh) | [Eurosport](https://open.spotify.com/album/6jGAdXROnVnPKtncSr7jj8) | 2:42 | 2024-06-28 | 2024-10-25 |
 | [ex und so](https://open.spotify.com/track/2qGCbovPihUJFbaRlGsFLL) | [IBRA](https://open.spotify.com/artist/7cuo0m2sTg2Pc65nc6vZTb) | [ex und so](https://open.spotify.com/album/5a1RQxsWXpvWrB1cuFvtnl) | 2:15 | 2024-08-26 |  |
 | [FABRIZIO ROMANO](https://open.spotify.com/track/1kTb0z5lNHCmDVhG5bBHfd) | [reezy](https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q) | [FABRIZIO ROMANO](https://open.spotify.com/album/1Kwpn9m7a5vkTR7ctmIoIa) | 2:56 | 2026-03-19 | 2026-04-10 |
+| [Familie](https://open.spotify.com/track/7uDmgnVUcrqvSnqqaT99TM) | [Ardian Bujupi](https://open.spotify.com/artist/0pOruKWwgyqSLZhn4Xovs9) | [Familie](https://open.spotify.com/album/0jCfNl7mqO5nlDi4tS2CvN) | 2:53 | 2026-04-30 |  |
 | [Fantasia](https://open.spotify.com/track/5xypiIRm7ILzbz0kze92u6) | [Olexesh](https://open.spotify.com/artist/2Z9KL8Zmqx5Sg3cd7Fldhl), [Devito](https://open.spotify.com/artist/0JQ4vokBBqHxHzRb36fSWN) | [Fantasia](https://open.spotify.com/album/5NXVPkMBEozDLKI25LCrtu) | 2:20 | 2024-07-25 | 2024-09-10 |
 | [Farbenblind](https://open.spotify.com/track/6jnslZYy0L9PUx41LhY2rS) | [Vokuz](https://open.spotify.com/artist/6doXiwnEk5F9MToIeEy2uS), [Ché Salah](https://open.spotify.com/artist/6WOkXoxrbPnZXLHVcNqJCT), [Ataypapi](https://open.spotify.com/artist/6vRKWcwC6OphUNy3Ds5O0U) | [Farbenblind](https://open.spotify.com/album/0cB4YgrmaAZFALlJrGuaqv) | 2:25 | 2026-01-22 | 2026-02-11 |
 | [Fashion Killa](https://open.spotify.com/track/4bGE5BdC6qUND3OMhp1dt0) | [Ceren](https://open.spotify.com/artist/6sgeY4vovk7KfxVwiu2V9E) | [Fashion Killa](https://open.spotify.com/album/6BVxAzp75T4l3Mwn97vjNg) | 2:12 | 2026-04-09 |  |
@@ -177,7 +178,7 @@
 | [Gerade Lines](https://open.spotify.com/track/0K4m3o2CZVKWPaK113ICXc) | [Nimo](https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN) | [FÜNF](https://open.spotify.com/album/72fhK5IkZdUOmQwJp4Ds7P) | 2:18 | 2024-12-16 | 2025-11-15 |
 | [Gesegnet](https://open.spotify.com/track/0fvFSGvEAPDDMfweKvDJVa) | [Apache 207](https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6), [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [Gesegnet](https://open.spotify.com/album/28znTBZh9uV0BCoJ0w6xuk) | 3:11 | 2025-01-16 | 2025-04-25 |
 | [GET LOW](https://open.spotify.com/track/6qP4Fs2q3PGCxuobxeOdXt) | [Jamal](https://open.spotify.com/artist/3DwUvt0kzO3j1fMQa6UfTU), [HoodBlaq](https://open.spotify.com/artist/1Wic7dyEeEpQXDBbDf6HKm) | [GET LOW](https://open.spotify.com/album/3IJ5WPkhv8yeIrzsX04LbP) | 2:30 | 2025-08-14 |  |
-| [GETRENNTE SOMMERNACHT](https://open.spotify.com/track/1TRFYbhEcFndwa9b9zdrSh) | [OMAR](https://open.spotify.com/artist/0h0Iypw4Zpe2pWEKIS9So3) | [GETRENNTE SOMMERNACHT](https://open.spotify.com/album/2lM8bDgDSMbLeUaMGT1Rrl) | 2:41 | 2025-10-23 |  |
+| [GETRENNTE SOMMERNACHT](https://open.spotify.com/track/1TRFYbhEcFndwa9b9zdrSh) | [OMAR](https://open.spotify.com/artist/0h0Iypw4Zpe2pWEKIS9So3) | [GETRENNTE SOMMERNACHT](https://open.spotify.com/album/2lM8bDgDSMbLeUaMGT1Rrl) | 2:41 | 2025-10-23 | 2026-05-06 |
 | [GHETTOGIRL](https://open.spotify.com/track/0G5x5rALxKOkwicMjKta79) | [CAPO](https://open.spotify.com/artist/5y9wg9qkGBl0n9v9RzaPKu) | [HYAT](https://open.spotify.com/album/4VjkWLgSYG48sOxXu7aX8b) | 2:45 | 2025-11-04 |  |
 | [Gold & Eis](https://open.spotify.com/track/6IBgJ6GAEYTGWo4rk2rg6N) | [Dorian](https://open.spotify.com/artist/3Wxidvy1joh0HaRNyvpIdb) | [Gold & Eis](https://open.spotify.com/album/2YkTzSnKZ7Ri6OqUopVUxa) | 2:29 | 2025-11-26 |  |
 | [golden retriever](https://open.spotify.com/track/4bee4dpw6E3jP7VIoGvyQl) | [Sampagne](https://open.spotify.com/artist/7vohy1W7YNLxHynG44UFjS), [YUNG SAINT PAUL](https://open.spotify.com/artist/7KPX8F8F0fLE0sYMTU4p9R) | [backtoback](https://open.spotify.com/album/1ROn8y69vSgolGXPCNFmp4) | 2:55 | 2025-11-27 | 2026-01-23 |

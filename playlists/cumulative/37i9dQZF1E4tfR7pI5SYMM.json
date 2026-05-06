@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With photophor, SCHANZ, MIK's Reaction and more",
+  "description": "With Dystopian X Vision, SCHANZ, Haneke Twins and more",
   "name": "Bipolar Superstar Radio",
   "tracks": [
     {
@@ -652,7 +652,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 240000,
       "name": "Beyond the Mirrors",
       "url": "https://open.spotify.com/track/5kl6kB7l36sDkOfestcW0e"
@@ -1718,7 +1718,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 218090,
       "name": "Death Is On the Way",
       "url": "https://open.spotify.com/track/0rqvCzTbRnQTQLFpbg7Xbh"
@@ -2166,7 +2166,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 174269,
       "name": "dose",
       "url": "https://open.spotify.com/track/4W20hsjRf54J0cM8oNY78A"
@@ -2454,7 +2454,7 @@
       ],
       "date_added": "2026-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-04",
+      "date_removed": null,
       "duration_ms": 352720,
       "name": "Ein Stern",
       "url": "https://open.spotify.com/track/1gb9zmaAAv5ZPvl7XUNxZO"
@@ -2476,7 +2476,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 280625,
       "name": "Ekko",
       "url": "https://open.spotify.com/track/31mgiH8koyfFT4hl0tpNMf"
@@ -2710,7 +2710,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-05",
+      "date_removed": null,
       "duration_ms": 230624,
       "name": "Es Mi Calma",
       "url": "https://open.spotify.com/track/6EN6e88k9JTTyshxyLZkRJ"
@@ -3038,7 +3038,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 99552,
       "name": "Fall Of A Good Man",
       "url": "https://open.spotify.com/track/0gtVlHOD1LKtzq202AdvFf"
@@ -3222,7 +3222,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-05",
+      "date_removed": null,
       "duration_ms": 277200,
       "name": "Fight (Neo Tokio Chronicles Main Theme)",
       "url": "https://open.spotify.com/track/4LGDFArm0bZRDgNrQJRenX"
@@ -3608,7 +3608,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 208661,
       "name": "Greetings From The Half Life",
       "url": "https://open.spotify.com/track/5r89EqCofA1SbES6otsK4Z"
@@ -3626,7 +3626,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-01",
+      "date_removed": null,
       "duration_ms": 303464,
       "name": "Grief",
       "url": "https://open.spotify.com/track/36oVY58DO6phaiLLdVOyjh"
@@ -4946,7 +4946,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 340000,
       "name": "Life Whisper & New Life - Reprise",
       "url": "https://open.spotify.com/track/6FhnVWokFfKBvsW33H5HCA"
@@ -5538,7 +5538,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 247994,
       "name": "Memories",
       "url": "https://open.spotify.com/track/5TuY7LoTVng1mXt9yDYbZt"
@@ -5596,7 +5596,7 @@
       ],
       "date_added": "2026-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-03",
+      "date_removed": null,
       "duration_ms": 228705,
       "name": "Midnight Static",
       "url": "https://open.spotify.com/track/3MSIhIH9UdowEDIqM5YiO8"
@@ -5752,6 +5752,24 @@
       "duration_ms": 497734,
       "name": "Moments I Pray",
       "url": "https://open.spotify.com/track/42eYrYsfvkcqkDiy6gLhPA"
+    },
+    {
+      "album": {
+        "name": "Heartwood",
+        "url": "https://open.spotify.com/album/3tEilxPa7GlJgSQa4MJUTF"
+      },
+      "artists": [
+        {
+          "name": "Iterum Nata",
+          "url": "https://open.spotify.com/artist/2haCAnM4Yi8B2lhUTT0rbY"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221867,
+      "name": "Mona Lisa Smile",
+      "url": "https://open.spotify.com/track/3Z9zw1N9xvhZ9y3r9ch7bi"
     },
     {
       "album": {
@@ -6058,7 +6076,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 299896,
       "name": "My Remains",
       "url": "https://open.spotify.com/track/2CgUeZgikS4M19YwxgxLte"
@@ -6166,7 +6184,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-02",
+      "date_removed": null,
       "duration_ms": 299311,
       "name": "Never the Same",
       "url": "https://open.spotify.com/track/37RaDHuCzwcZeRzgqhf3Dv"
@@ -7010,7 +7028,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 336333,
       "name": "Perunu",
       "url": "https://open.spotify.com/track/2v8nZFLEzXEWUZPbenELM6"
@@ -7184,7 +7202,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 267826,
       "name": "Prettyache",
       "url": "https://open.spotify.com/track/7vnOGAR7bAujocgwE9cfFH"
@@ -7765,6 +7783,24 @@
     },
     {
       "album": {
+        "name": "Echoes from the Void",
+        "url": "https://open.spotify.com/album/6iSjdwyitWSmjIKPIFS8cn"
+      },
+      "artists": [
+        {
+          "name": "Sakis Tolis",
+          "url": "https://open.spotify.com/artist/2Mbwnv9a97OLrSoClsRd9D"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319590,
+      "name": "Sera-(The Dance of War)",
+      "url": "https://open.spotify.com/track/3IoGv5RPjVw1eGfFqwQUvk"
+    },
+    {
+      "album": {
         "name": "Serenade",
         "url": "https://open.spotify.com/album/5LluJR2yxtV1y4Co7MKCGo"
       },
@@ -7895,6 +7931,24 @@
     },
     {
       "album": {
+        "name": "Eternal Monsters",
+        "url": "https://open.spotify.com/album/0peinRqUBXRymdXpE3sLBz"
+      },
+      "artists": [
+        {
+          "name": "Inkubus Sukkubus",
+          "url": "https://open.spotify.com/artist/5TcSmqbuyYcyn396CFLwPr"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341659,
+      "name": "She's a Killer",
+      "url": "https://open.spotify.com/track/3HRQ6CkJzKk2pdiTy5FUQS"
+    },
+    {
+      "album": {
         "name": "A Slight Case of The Sisters of Mercy-covers, Vol. 3",
         "url": "https://open.spotify.com/album/1pHKP3WglEUrvJNk1lueZy"
       },
@@ -7906,7 +7960,7 @@
       ],
       "date_added": "2026-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 175710,
       "name": "She's a Monster",
       "url": "https://open.spotify.com/track/7o51VO13qSZu11iVoVZzPC"
@@ -8392,7 +8446,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 365902,
       "name": "Station To Station - 50th Anniversary",
       "url": "https://open.spotify.com/track/1TRnxAoUZWXLUHH2jYeXq7"
@@ -8706,7 +8760,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-17",
+      "date_removed": null,
       "duration_ms": 230823,
       "name": "Symphony In Minor",
       "url": "https://open.spotify.com/track/4HLGfdfrRgB4YntkFv4Cw0"
@@ -9522,7 +9576,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-29",
+      "date_removed": null,
       "duration_ms": 239999,
       "name": "The Watch",
       "url": "https://open.spotify.com/track/6BRoDKsvlWjjPxS4cJ7ESG"
@@ -9620,7 +9674,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-05",
+      "date_removed": null,
       "duration_ms": 174481,
       "name": "The Year Of The Snake",
       "url": "https://open.spotify.com/track/3H4GFRUJlKdpf09kvj2YUW"
@@ -10026,7 +10080,7 @@
       ],
       "date_added": "2026-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-04",
+      "date_removed": null,
       "duration_ms": 243972,
       "name": "Traitor",
       "url": "https://open.spotify.com/track/3cJOKprFvZUYXjJ4no3eoN"
@@ -10466,6 +10520,24 @@
       "duration_ms": 260739,
       "name": "Viek\u00e4\u00e4 Tuhkatkin Pes\u00e4st\u00e4",
       "url": "https://open.spotify.com/track/16CU3aiHWDdFjQsW5FAEl7"
+    },
+    {
+      "album": {
+        "name": "Vincent",
+        "url": "https://open.spotify.com/album/1u4E9AS04weqYugR8flvMl"
+      },
+      "artists": [
+        {
+          "name": "Ecce Shnak",
+          "url": "https://open.spotify.com/artist/68FPED3x2R93hhmzw4E3rm"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85697,
+      "name": "Vincent",
+      "url": "https://open.spotify.com/track/6JatgJTf5P1sO1rQau2Gdy"
     },
     {
       "album": {
@@ -11062,7 +11134,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 234615,
       "name": "Wraith",
       "url": "https://open.spotify.com/track/66uKTF2h1yZoAP60hbXhPo"
@@ -11445,6 +11517,24 @@
     },
     {
       "album": {
+        "name": "\u043e \u043f\u043b\u043e\u0445\u043e\u043c",
+        "url": "https://open.spotify.com/album/3evTXfNH7zY2zQahPNEz7O"
+      },
+      "artists": [
+        {
+          "name": "\u043c\u043e\u0439 \u0434\u0440\u0443\u0433 \u043c\u0430\u0433\u043d\u0438\u0442\u043e\u0444\u043e\u043d",
+          "url": "https://open.spotify.com/artist/2qLJ6xUS6zj2lRhShgoPOA"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264578,
+      "name": "\u043e \u043f\u043b\u043e\u0445\u043e\u043c",
+      "url": "https://open.spotify.com/track/7arRjgmHGrJ65sYwzvbk96"
+    },
+    {
+      "album": {
         "name": "\u0421\u043d\u0456\u0433",
         "url": "https://open.spotify.com/album/5682QOpMeLCPiNnqbOil34"
       },
@@ -11492,7 +11582,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 249493,
       "name": "\u0429\u043e \u0442\u0430\u043c \u0443 \u0442\u0435\u043c\u0440\u044f\u0432\u0456, \u043a\u043e\u043b\u0438 \u0442\u0438 \u0441\u043f\u0438\u0448?",
       "url": "https://open.spotify.com/track/4jhA8Non6FqdLSLcRItUdH"

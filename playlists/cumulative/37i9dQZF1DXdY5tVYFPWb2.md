@@ -4,7 +4,7 @@
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-960 songs - 2 day 15 hr 19 min
+961 songs - 2 day 15 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -643,6 +643,7 @@
 | [your room](https://open.spotify.com/track/0ny70e6ql2HOEmQVfnWI8N) | [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK), [Mikeneko Homeless](https://open.spotify.com/artist/2I9uX6V9umuZP9CH5ufBEB) | [your room](https://open.spotify.com/album/3JijWekYCz4gBkWB1jFeX6) | 3:35 | 2022-10-25 | 2023-04-30 |
 | [your room](https://open.spotify.com/track/1SQyaGfArVFSknUxwXzn80) | [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK), [Mikeneko Homeless](https://open.spotify.com/artist/2I9uX6V9umuZP9CH5ufBEB) | [your room](https://open.spotify.com/album/7khBUxZhpj2K9019INmwGe) | 3:35 | 2022-10-25 | 2022-10-27 |
 | [Your Song On The Radio](https://open.spotify.com/track/1IQshfYUQE7H2z00aRMTqE) | [Pictured Resort](https://open.spotify.com/artist/7BCf2R7bgylYjfgeq5Zrrm) | [Your Song On The Radio](https://open.spotify.com/album/03Epz45tqENNY3BS4uP1V3) | 3:01 | 2023-04-20 | 2023-05-16 |
+| [YOWANOTSUKI](https://open.spotify.com/track/4ibupLr4YYsixGxOCLhbmF) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR) | [YOWANOTSUKI](https://open.spotify.com/album/6iSWk4SFJD2hpnGPuEy4Ss) | 3:46 | 2026-05-05 |  |
 | [yugi](https://open.spotify.com/track/2SgXOT2HryYnbtWL7JfIFy) | [yonawo](https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ) | [yugi](https://open.spotify.com/album/7eexbOyxF5ZxRboSPVuNVc) | 3:21 | 2022-07-07 | 2025-03-12 |
 | [Yume de Aetara](https://open.spotify.com/track/3NWzlQGyXmsVeGkY7OHFDy) | [kim taehoon](https://open.spotify.com/artist/6qQHzLu9pasNUZGt1cdD1N) | [Yume de Aetara](https://open.spotify.com/album/3FMoztMSsW5rYtyWEPq82q) | 3:31 | 2023-05-16 | 2023-05-31 |
 | [YUMENO TSUZUKI](https://open.spotify.com/track/1iLgBip9901XeDLjnm74Xd) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [Nulbarich](https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD) | [YUMENO TSUZUKI](https://open.spotify.com/album/1V7pP6ZOx1v3uDYu8e8Bs5) | 4:16 | 2024-04-02 | 2024-04-19 |
@@ -654,7 +655,7 @@
 | [あいつのLIFE](https://open.spotify.com/track/6BA4MNy5ADPO4A65Cgi3RM) | [Shin Rizumu](https://open.spotify.com/artist/0KZ7Lk1c6rpp0nwvY9EuD4) | [Musica Popular Japonesa](https://open.spotify.com/album/01NUYwN3OhNLqkKaDrTy2M) | 4:28 | 2022-11-22 | 2022-12-14 |
 | [あなたとContigo](https://open.spotify.com/track/5VTCQoa0aLoSxZcked94A5) | [HITOMITOI](https://open.spotify.com/artist/3Uj4f5PGdIJEhCJkqysb3l), [Juanpalitoschinos](https://open.spotify.com/artist/2QznoP8SaZXOHkgZfvHlZa) | [Telepa Telepa](https://open.spotify.com/album/4ZepYRvl5D4aMx3WSVdorF) | 3:20 | 2025-03-25 | 2025-10-01 |
 | [あなたはトリコ](https://open.spotify.com/track/2gkYR4SyJu4TDHz8r39B7y) | [RYUSENKEI](https://open.spotify.com/artist/1gBNLiQMaCcBdQ9fIP4ltM) | [あなたはトリコ](https://open.spotify.com/album/6FceyUYmiyCgs67TWi3OhA) | 4:45 | 2024-04-23 | 2024-08-03 |
-| [あなたゆずり](https://open.spotify.com/track/0ayWf9vhCaUhMNHTOvNXI3) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [Living Room](https://open.spotify.com/album/17wsj6ok978OcBQhmNexce) | 4:11 | 2022-05-24 |  |
+| [あなたゆずり](https://open.spotify.com/track/0ayWf9vhCaUhMNHTOvNXI3) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [Living Room](https://open.spotify.com/album/17wsj6ok978OcBQhmNexce) | 4:11 | 2022-05-24 | 2026-05-06 |
 | [あらわれないで](https://open.spotify.com/track/4J355x8SX4orM1H3tyPBFa) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [あらわれないで](https://open.spotify.com/album/3Of0ZbIf2fr4VTCoy8YNxY) | 3:57 | 2024-01-30 |  |
 | [あらわれないで](https://open.spotify.com/track/64SO6pPvPRA1MrdyepGx1p) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [離婚伝説](https://open.spotify.com/album/6EUUyYF65ypQvxmhjk17zb) | 3:57 | 2024-05-14 | 2024-07-31 |
 | [あれはたしかSEPTEMBER](https://open.spotify.com/track/791HxlnHPH2qEATdus4Uyq) | [ジャンク フジヤマ](https://open.spotify.com/artist/3Adpfee3Od5HH729hCQM7p) | [DREAMIN'](https://open.spotify.com/album/6ycN0LEaNvitT5fHFWopvI) | 3:49 | 2023-08-01 | 2023-08-03 |

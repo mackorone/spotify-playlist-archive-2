@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-21",
-  "description": "The best new music by independent artists and labels from the MENA region. Updates every Wednesday. Cover: El Nashmy. Artwork: Isu Kim",
+  "description": "The best new music by independent artists and labels from the MENA region. Updates every Wednesday. Cover: Kordofani. Artwork: Isu Kim",
   "name": "Fresh Finds Arabia",
   "tracks": [
     {
@@ -215,6 +215,28 @@
     },
     {
       "album": {
+        "name": "5 shai",
+        "url": "https://open.spotify.com/album/797GVWhPAMWStbp9w1Q7Ev"
+      },
+      "artists": [
+        {
+          "name": "3osman",
+          "url": "https://open.spotify.com/artist/479S6JSd0M1O2BuaRrylu7"
+        },
+        {
+          "name": "KATCHTHEKASH",
+          "url": "https://open.spotify.com/artist/2jgevVmndhswUX4CsYQO7f"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139384,
+      "name": "5 shai",
+      "url": "https://open.spotify.com/track/3Ppc8kj5WDH71xVNKl1u30"
+    },
+    {
+      "album": {
         "name": "70's",
         "url": "https://open.spotify.com/album/5sWPxAhokrsRcZfKiIaX0v"
       },
@@ -226,7 +248,7 @@
       ],
       "date_added": "2025-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 171837,
       "name": "70's",
       "url": "https://open.spotify.com/track/4Blh7kOHMqddHNw9dihg3y"
@@ -669,6 +691,24 @@
     },
     {
       "album": {
+        "name": "As2ela",
+        "url": "https://open.spotify.com/album/3IY5PQ1fXwxQgB37D12wf5"
+      },
+      "artists": [
+        {
+          "name": "Sine",
+          "url": "https://open.spotify.com/artist/1MQryKKB1q19LauQsB4GzI"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221123,
+      "name": "As2ela",
+      "url": "https://open.spotify.com/track/4e2TJUe9uUjBjc6fbnWHtH"
+    },
+    {
+      "album": {
         "name": "Asliyah",
         "url": "https://open.spotify.com/album/4asoomU1I56N5Bt6CunOgU"
       },
@@ -1070,7 +1110,7 @@
       ],
       "date_added": "2025-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 134237,
       "name": "BENT LA VILLE",
       "url": "https://open.spotify.com/track/2YvytImQbrU0VT1tbudn56"
@@ -1240,6 +1280,24 @@
       "duration_ms": 147506,
       "name": "Btebrom",
       "url": "https://open.spotify.com/track/5Nks9uLwSQkCQ8QmBqcdUA"
+    },
+    {
+      "album": {
+        "name": "U Can\u2019t Do It Better",
+        "url": "https://open.spotify.com/album/6lvtObHS3zndXdpXVZCyL9"
+      },
+      "artists": [
+        {
+          "name": "Omaarr",
+          "url": "https://open.spotify.com/artist/40f8gJJimKAaU6IJsU5N2M"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127366,
+      "name": "Btnsh",
+      "url": "https://open.spotify.com/track/5bZmNDsnBvvQHlOGU0JckW"
     },
     {
       "album": {
@@ -1645,6 +1703,28 @@
     },
     {
       "album": {
+        "name": "Dahab",
+        "url": "https://open.spotify.com/album/5XokvpN2Rl5HGZGPNaUVJZ"
+      },
+      "artists": [
+        {
+          "name": "Syco",
+          "url": "https://open.spotify.com/artist/7E4EnfxLfQkcMdPKrWxlxH"
+        },
+        {
+          "name": "Dekv",
+          "url": "https://open.spotify.com/artist/2IkwG2Xq4Rn90snBMjZCOy"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193076,
+      "name": "Dahab",
+      "url": "https://open.spotify.com/track/0PlRoi7FmoL2d9yY1H2hEZ"
+    },
+    {
+      "album": {
         "name": "The Plug",
         "url": "https://open.spotify.com/album/5VqYWDvAaCb7OdNW0qy0Km"
       },
@@ -1704,6 +1784,24 @@
       "duration_ms": 144901,
       "name": "DARWIN",
       "url": "https://open.spotify.com/track/2GWgo7f6OoHeyTxVb1GCWT"
+    },
+    {
+      "album": {
+        "name": "HOWA",
+        "url": "https://open.spotify.com/album/4NkoVXTwjGoMCdVfc54w6p"
+      },
+      "artists": [
+        {
+          "name": "Mazyn",
+          "url": "https://open.spotify.com/artist/1MJhIfVlwyrtzcrC9x2IaA"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163605,
+      "name": "DAWAMA",
+      "url": "https://open.spotify.com/track/5NZ8tIcWKIyrJvSJBOc485"
     },
     {
       "album": {
@@ -1834,7 +1932,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 238322,
       "name": "Dhu l Qarnayn",
       "url": "https://open.spotify.com/track/1UoiRFxBi6x2UtT84YkoZt"
@@ -3013,6 +3111,24 @@
     },
     {
       "album": {
+        "name": "Sametou Sawtan",
+        "url": "https://open.spotify.com/album/44QCQVi3ysrrP5tyJew8v5"
+      },
+      "artists": [
+        {
+          "name": "SANAM",
+          "url": "https://open.spotify.com/artist/5s860hZNkN59QRBx6wQ3Da"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311347,
+      "name": "Harik",
+      "url": "https://open.spotify.com/track/2NsqQfFeLiohp5KZpMRmHO"
+    },
+    {
+      "album": {
         "name": "Hayni Hoon",
         "url": "https://open.spotify.com/album/2WrZYy9wUqMi9bQ3nN2pDr"
       },
@@ -3024,7 +3140,7 @@
       ],
       "date_added": "2025-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 187587,
       "name": "Hayni Hoon",
       "url": "https://open.spotify.com/track/4snQ2N9PijxVCyRaeefvUk"
@@ -4545,6 +4661,24 @@
     },
     {
       "album": {
+        "name": "Love TKO",
+        "url": "https://open.spotify.com/album/0EYqnoNrlvfObgfIO4lb0P"
+      },
+      "artists": [
+        {
+          "name": "Layal",
+          "url": "https://open.spotify.com/artist/0rxqySAJPQZJ2SJMBfTGyG"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Love TKO",
+      "url": "https://open.spotify.com/track/3HMfqbXxvOXdYpjXaZChNH"
+    },
+    {
+      "album": {
         "name": "LOW KEY",
         "url": "https://open.spotify.com/album/1hdMKomW6YdWdN6ZkXd0cV"
       },
@@ -5204,7 +5338,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 180062,
       "name": "Midnight Cruising",
       "url": "https://open.spotify.com/track/0xa4flflOYX1HAQIHhEjbe"
@@ -5240,7 +5374,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 174318,
       "name": "Mio!",
       "url": "https://open.spotify.com/track/2mjlM5jqoSXp56MypyTPSO"
@@ -6647,6 +6781,28 @@
     },
     {
       "album": {
+        "name": "RADAR",
+        "url": "https://open.spotify.com/album/6q0mtfCvxzMQVL64cWAnOs"
+      },
+      "artists": [
+        {
+          "name": "\u0645\u064a\u0644\u0648",
+          "url": "https://open.spotify.com/artist/3mXE7BL3H3oCL16lpDtycN"
+        },
+        {
+          "name": "Andrew Amir",
+          "url": "https://open.spotify.com/artist/7fTioWTi2v7zik4MMkHRsC"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140326,
+      "name": "RADAR",
+      "url": "https://open.spotify.com/track/5vWZfGQMTId1KtSzs2vr6y"
+    },
+    {
+      "album": {
         "name": "RAS L'KHEIT",
         "url": "https://open.spotify.com/album/2BL8Jg0gyzTxoJU5Qn679Y"
       },
@@ -7220,7 +7376,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 144000,
       "name": "Shoot",
       "url": "https://open.spotify.com/track/5G6GMEcuuw92z2Co6YhYBv"
@@ -8231,6 +8387,24 @@
     },
     {
       "album": {
+        "name": "Tupac",
+        "url": "https://open.spotify.com/album/7LUXJ7YnuIjFr7edJpZTco"
+      },
+      "artists": [
+        {
+          "name": "TURKI",
+          "url": "https://open.spotify.com/artist/5n2ElPqdyps62DuMbKSH4g"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Tupac",
+      "url": "https://open.spotify.com/track/3tBM6jvbIm0si0hTRxkEzb"
+    },
+    {
+      "album": {
         "name": "TUTA - \u062a\u0648\u062a\u0647",
         "url": "https://open.spotify.com/album/3lrJTMp0zrm0QGusIyOPk3"
       },
@@ -8633,6 +8807,24 @@
     },
     {
       "album": {
+        "name": "WSHOOSH",
+        "url": "https://open.spotify.com/album/3vOaY3a1IzmA6mw5OTpSeQ"
+      },
+      "artists": [
+        {
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/1mqp58ziyqiLUkQrS7cDkO"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185454,
+      "name": "WSHOOSH",
+      "url": "https://open.spotify.com/track/4rbaeKs3uN7iMSXZ2XQ0AE"
+    },
+    {
+      "album": {
         "name": "XXL",
         "url": "https://open.spotify.com/album/7n5XLQPoZ72i3D5X52qiTS"
       },
@@ -8926,6 +9118,28 @@
       "duration_ms": 256185,
       "name": "Zero",
       "url": "https://open.spotify.com/track/7xYfaaut5INqsSL0gWdvq2"
+    },
+    {
+      "album": {
+        "name": "KARMA",
+        "url": "https://open.spotify.com/album/00VAMSqhWhHZS9aEQzChce"
+      },
+      "artists": [
+        {
+          "name": "Alshaikh",
+          "url": "https://open.spotify.com/artist/7MgFtgGEvXlgQOVw07qHJ2"
+        },
+        {
+          "name": "Alyoung",
+          "url": "https://open.spotify.com/artist/0cCdSqBWH0WY1rg6yFTA3C"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184695,
+      "name": "ZI",
+      "url": "https://open.spotify.com/track/15B5pkBRRFluY6s34CVBTh"
     },
     {
       "album": {
@@ -9496,6 +9710,24 @@
       "duration_ms": 204173,
       "name": "\u063a\u0627\u0644\u064a\u0629 \u0639\u0644\u064a\u0627",
       "url": "https://open.spotify.com/track/2V0UuB9SnKJFQ6ubekgI6Y"
+    },
+    {
+      "album": {
+        "name": "\u0641\u064a \u0630\u0627",
+        "url": "https://open.spotify.com/album/5T91pZZMEQpgt0QorLwD5l"
+      },
+      "artists": [
+        {
+          "name": "Khalid Assiri",
+          "url": "https://open.spotify.com/artist/03i94h760x5J6t57VRTsAb"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169471,
+      "name": "\u0641\u064a \u0630\u0627",
+      "url": "https://open.spotify.com/track/3wTK1pk4vNjmhQKPMSCAuq"
     },
     {
       "album": {

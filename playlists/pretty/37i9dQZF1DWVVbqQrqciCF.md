@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVVbqQrqciCF.md) - [plain]
 
 ### [This Is YOASOBI](https://open.spotify.com/playlist/37i9dQZF1DWVVbqQrqciCF)
 
-> \[Happy Children's Day! / 今日はこどもの日\] Japanese music duo formed in 2019, consisting of vocalist ikura and producer Ayase\. YOASOBIの楽曲をひとつのプレイリストに。
+> Japanese music duo formed in 2019, consisting of vocalist ikura and producer Ayase\. YOASOBIの楽曲をひとつのプレイリストに。
 
-[Spotify](https://open.spotify.com/user/spotify) - 338,100 likes - 78 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 338,273 likes - 78 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVVbqQrqciCF.md) - [plain]
 | 77 | [The Brave](https://open.spotify.com/track/4idatWI87uECptpg5EYMPp) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [E\-SIDE 3](https://open.spotify.com/album/2HBkR5qNDKoo1EDrCaSy0U) | 3:15 |
 | 78 | [Idol](https://open.spotify.com/track/6hBPSAsflvq3VVl3O34FfW) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [E\-SIDE 3](https://open.spotify.com/album/2HBkR5qNDKoo1EDrCaSy0U) | 3:32 |
 
-Snapshot ID: `AAAAABM+6rY5MwY0yXxkeYx88ymWupKF`
+Snapshot ID: `AAAAAMvE8HOF+Sq3Eu/B6Ej5r2ocjkpY`

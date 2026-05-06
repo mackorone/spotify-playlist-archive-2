@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 279 likes - 4,419 songs - 9 day 19 hr 36 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 279 likes - 4,422 songs - 9 day 19 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4427,5 +4427,8 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4417 | [Crash & Burn](https://open.spotify.com/track/1ZyxzmQoyXmjzfcjQNCwUK) | [Gravel State](https://open.spotify.com/artist/230J2QSIILiDyJFcnxAsc3) | [The Long Way Home](https://open.spotify.com/album/6XAWHzo671bBsroOWUJsrU) | 3:09 |
 | 4418 | [Red Sea](https://open.spotify.com/track/65CBVvFFb0FxAGTrtIcpbB) | [Thesis](https://open.spotify.com/artist/2f2Lm3RVxYFYG2oqvbNxct) | [Red Sea](https://open.spotify.com/album/5Yw6aE5sMft2MrkeV3osUg) | 5:21 |
 | 4419 | [Mothman](https://open.spotify.com/track/38gi9OlVKpj6zwtNKK0dDc) | [Apex89](https://open.spotify.com/artist/0jdPGIACeHmp89qaOUEsWZ) | [Mothman](https://open.spotify.com/album/2Ep74PqtVoHvQYwZ033Nvs) | 5:11 |
+| 4420 | [The Mirror](https://open.spotify.com/track/6pUnpsCM1fvQrQsNxboHfZ) | [Upwood Avenue](https://open.spotify.com/artist/6vxgfCzu5GGJWOfARnonrI) | [The Mirror](https://open.spotify.com/album/4ptWnwJL8v7UJLAcAgr9Bl) | 3:43 |
+| 4421 | [La marea](https://open.spotify.com/track/5m4cTTcv22aQ9KMjoZVLaS) | [Exilio a Plutón](https://open.spotify.com/artist/0RDcwUWOCSUSxJe3mMNhqh) | [Caronte](https://open.spotify.com/album/5rqL6C7JSvi45eBjE86B2o) | 3:49 |
+| 4422 | [Wanted \(Vivo o Morto\)](https://open.spotify.com/track/2KujPMCu0Pn17EW13Z97Rp) | [Godiva Grunge](https://open.spotify.com/artist/1pt5AfwdHnxg9gYsqi5UB2) | [Sono Solo Come Te / Wanted](https://open.spotify.com/album/2uyx6597JkzlWJLuHrlZZR) | 4:14 |
 
-Snapshot ID: `AAAIgQSHxQWfEQQ8bW8zvv/P23L0nuD7`
+Snapshot ID: `AAAIhFcEVBcBYE/FbQNPjtDqOUgQMhk4`

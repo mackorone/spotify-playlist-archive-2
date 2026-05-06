@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 
 > These are some independent alternative rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 648 likes - 100 songs - 5 hr 49 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 653 likes - 107 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,5 +108,12 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 | 98 | [Cristina](https://open.spotify.com/track/3zslKraslO9HGthkAAQ1EU) | [Dave Christen](https://open.spotify.com/artist/3pLpSZzfhqSloT7Cidly8l) | [Cristina](https://open.spotify.com/album/6fNPJiXckogSPudXMCPrBv) | 3:37 |
 | 99 | [Set Your Life On Fire](https://open.spotify.com/track/5Nx6BHTGLSITqrERad64nk) | [The Last Pioneers](https://open.spotify.com/artist/47VNhQMeBaWxOZG6aJHYvM) | [Set Your Life On Fire](https://open.spotify.com/album/4rUIlLpeOwgUvfJ8NMkmeD) | 3:28 |
 | 100 | [What's the Deal](https://open.spotify.com/track/65mwECblaHqM3LSRBTT1nE) | [Paranoize](https://open.spotify.com/artist/2IsNoOamJMVdmEKK4dQKcS) | [What's the Deal](https://open.spotify.com/album/2nZMIWpDc27QL0NAFKWk4C) | 2:37 |
+| 101 | [All That We Need](https://open.spotify.com/track/6YdIHTbtkfjXuE1sDTQzAy) | [Southern States](https://open.spotify.com/artist/2hpxrkZg9qkbadFtXnD0g2) | [All That We Need](https://open.spotify.com/album/3aFfX6KlURt9DGYVDEk0Qq) | 2:52 |
+| 102 | [XOXO \(Ex oh, Ex ow!\)](https://open.spotify.com/track/4P1CmDbce9sBKsuEx2SBF4) | [Lord Sebastian](https://open.spotify.com/artist/06ADavaxngMDpbcRPXHBvm) | [XOXO \(Ex oh, Ex ow!\)](https://open.spotify.com/album/7KjY597wS0kTiC4TucLvop) | 3:08 |
+| 103 | [Patroklos](https://open.spotify.com/track/60rTJmGVhv7t5czioq3Tgc) | [Meerkat](https://open.spotify.com/artist/5LmeYGFo0QRpiiJpYdtRal) | [Patroklos](https://open.spotify.com/album/4h72XgIDG3kBcCGyqmssrq) | 3:21 |
+| 104 | [NORMIE FUCK](https://open.spotify.com/track/5HJyslBPhejHh1p2VlPWuC) | [Meerkat](https://open.spotify.com/artist/5LmeYGFo0QRpiiJpYdtRal) | [NORMIE FUCK](https://open.spotify.com/album/0mvePeDg6YsuHXEkJ8RqQH) | 2:25 |
+| 105 | [To The Moon](https://open.spotify.com/track/6DVsYLEObwwI5j8TMbMecX) | [Stopgap Solution](https://open.spotify.com/artist/0H2WxOdnVCqVeXCwyfJgAb) | [To The Moon](https://open.spotify.com/album/2ElBuY7uYQpk55T1GHgZz5) | 3:44 |
+| 106 | [Bar Talk](https://open.spotify.com/track/6cfLuWMV55gwD7TA19ifhM) | [UNCLE](https://open.spotify.com/artist/64kcwpH0XroEG2GQ4h6Zc9) | [Bar Talk](https://open.spotify.com/album/6Z6xRyyIedaVOs7HakvOaL) | 2:49 |
+| 107 | [Doc Holliday](https://open.spotify.com/track/3OohvRQPyZSKfyAeg1ph9A) | [Austin\-Tucker](https://open.spotify.com/artist/2872bA5szcRoCBEQSlpWhq) | [Doc Holliday](https://open.spotify.com/album/4XByeZcCRXXAl1jjnHGfro) | 4:49 |
 
-Snapshot ID: `AAADX+Rddp4DjtOrWNoDfW/OA5WTrtWe`
+Snapshot ID: `AAADZhv1IMOnKJGlKpC16YdxuQY4ASYk`

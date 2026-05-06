@@ -2,9 +2,9 @@
 
 ### [Novità Rap Italiano](https://open.spotify.com/playlist/37i9dQZF1DX1OQlaot30zi)
 
-> Sempre aggiornata\. Con nuovi brani di Nerissima Serpe, Rame e Marracash, Flaco G e molti altri.
+> Sempre aggiornata\. Con nuovi brani di Nerissima Serpe,  Sayf, Rame e Marracash, Flaco G e molti altri.
 
-7,167 songs - 13 day 4 hr 40 min
+7,168 songs - 13 day 4 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5835,6 +5835,7 @@
 | [SEX](https://open.spotify.com/track/2O1PBcDUETxGxoO6hUPnZE) | [Shaka Muni](https://open.spotify.com/artist/7AnocrRYGg5OxqfZPjaQIY) | [SEX](https://open.spotify.com/album/72Vg94BZFC82AMBbO3uA6T) | 2:00 | 2024-04-11 | 2024-04-26 |
 | [Sex Appeal](https://open.spotify.com/track/7um15LqVMfsUNaqtpv0cBG) | [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL) | [Sex Appeal](https://open.spotify.com/album/1xrXkVdiu7BlPV1z0KYapO) | 2:24 | 2024-10-03 | 2024-11-01 |
 | [Sex Drugs Money](https://open.spotify.com/track/7wIPI84dqSrD7bgPPgHygA) | [Rayan](https://open.spotify.com/artist/6doCr3greqY545Eo7IsY3m), [Intifaya](https://open.spotify.com/artist/1sSz8a84ezDX1LhXCIgt41) | [4ever Young \(Deluxe\)](https://open.spotify.com/album/0gm6fM3b5HrfV306e20I5l) | 2:28 | 2024-04-04 | 2024-04-26 |
+| [SEX ON LA SANTA](https://open.spotify.com/track/2GsyqK3mBsl3Osf1wIxcpE) | [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB) | [SEX ON LA SANTA](https://open.spotify.com/album/2kMqJfDVCbqS8Is2wMOT6R) | 1:36 | 2026-05-05 |  |
 | [Sex Pistols](https://open.spotify.com/track/47jzbaq1cxQTjdOcGjXbEA) | [Taxi B](https://open.spotify.com/artist/5FkcU4BVzPptuB6AjobZIL) | [Sex Pistols](https://open.spotify.com/album/2fBwG4OHm8OTfcvx0fiV6j) | 3:01 | 2023-10-12 | 2023-10-27 |
 | [SEX TRAP REPEAT](https://open.spotify.com/track/7jhVsioCwQDGQSXFL35cEF) | [Flaco G](https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9) | [SEX TRAP REPEAT](https://open.spotify.com/album/5nPq2Nmm3NU2BNCrWBcFep) | 2:25 | 2026-04-17 |  |
 | [SEXTING](https://open.spotify.com/track/60wzYORsvLUZtlmGGPrbRt) | [Kunta](https://open.spotify.com/artist/2yJDUGrAgtX7NyJ1RULAnX) | [SEXTING](https://open.spotify.com/album/2vWSVoc1V0ZXNy0qWt1Pl2) | 3:04 | 2024-03-21 | 2024-04-12 |

@@ -1,12 +1,12 @@
 {
   "description": "#fyp\n",
-  "num_followers": 856370,
+  "num_followers": 856443,
   "original_name": "t'as la ref ?",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAL6RdHzNWR5PE3JSTdqdR3EAFl0f",
+  "snapshot_id": "AAAAADzO0hF52H1QiJzXHDE6blsyY8b/",
   "tracks": [
     {
       "added_at": "2026-04-10 15:09:16",
@@ -205,6 +205,22 @@
       "url": "https://open.spotify.com/track/0AYCidYCYS3NUcRCcMip1a"
     },
     {
+      "added_at": "2026-05-05 14:38:31",
+      "album": {
+        "name": "PELELE",
+        "url": "https://open.spotify.com/album/3uo4C6Q0yQVQZwfNglnT5C"
+      },
+      "artists": [
+        {
+          "name": "WIXO & LA2S",
+          "url": "https://open.spotify.com/artist/0VWHKHfSFwUhP0cuvVUfRN"
+        }
+      ],
+      "duration_ms": 127998,
+      "name": "PELELE",
+      "url": "https://open.spotify.com/track/2fgkY8Ffg7aGooiYwz0OpQ"
+    },
+    {
       "added_at": "2026-02-17 16:32:14",
       "album": {
         "name": "NOUS#2",
@@ -219,6 +235,26 @@
       "duration_ms": 177743,
       "name": "NOUS#2",
       "url": "https://open.spotify.com/track/0TnrSFmoT09nbrh0lK0G7e"
+    },
+    {
+      "added_at": "2026-05-05 14:15:01",
+      "album": {
+        "name": "spleen. social club",
+        "url": "https://open.spotify.com/album/6zfiNo6nUuPrVoawomWkEK"
+      },
+      "artists": [
+        {
+          "name": "aupinard",
+          "url": "https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne"
+        },
+        {
+          "name": "Ino Casablanca",
+          "url": "https://open.spotify.com/artist/5blvB6N3OACeH0gJL9BRqf"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "P&P",
+      "url": "https://open.spotify.com/track/7bUZKgIAuwNPo1Qmktbw9E"
     },
     {
       "added_at": "2026-04-30 17:09:08",
@@ -673,26 +709,6 @@
       "url": "https://open.spotify.com/track/3zs1RJzrhgt0JsNsPopubX"
     },
     {
-      "added_at": "2026-04-03 13:47:08",
-      "album": {
-        "name": "Jungle de b\u00e9ton",
-        "url": "https://open.spotify.com/album/04ygxk6RCq4ANAILA9aDbY"
-      },
-      "artists": [
-        {
-          "name": "Don Choa",
-          "url": "https://open.spotify.com/artist/3nRUvKHrGi4lrRF01yTzod"
-        },
-        {
-          "name": "Zaho",
-          "url": "https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o"
-        }
-      ],
-      "duration_ms": 236386,
-      "name": "Lune de miel (feat. Zaho)",
-      "url": "https://open.spotify.com/track/6Ww5r82aRfiOHsCz7NMIAP"
-    },
-    {
       "added_at": "2026-02-17 16:32:14",
       "album": {
         "name": "Tour du monde",
@@ -711,6 +727,26 @@
       "duration_ms": 171489,
       "name": "Tour du monde",
       "url": "https://open.spotify.com/track/3JzeDkdvorMWUvaAnU7BCX"
+    },
+    {
+      "added_at": "2026-04-03 13:47:08",
+      "album": {
+        "name": "Jungle de b\u00e9ton",
+        "url": "https://open.spotify.com/album/04ygxk6RCq4ANAILA9aDbY"
+      },
+      "artists": [
+        {
+          "name": "Don Choa",
+          "url": "https://open.spotify.com/artist/3nRUvKHrGi4lrRF01yTzod"
+        },
+        {
+          "name": "Zaho",
+          "url": "https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o"
+        }
+      ],
+      "duration_ms": 236386,
+      "name": "Lune de miel (feat. Zaho)",
+      "url": "https://open.spotify.com/track/6Ww5r82aRfiOHsCz7NMIAP"
     },
     {
       "added_at": "2026-04-10 15:09:16",
@@ -1151,22 +1187,6 @@
     {
       "added_at": "2026-02-17 16:32:14",
       "album": {
-        "name": "TP sur TP",
-        "url": "https://open.spotify.com/album/0QVdVUGfsa967bG0cU6Xfo"
-      },
-      "artists": [
-        {
-          "name": "Jul",
-          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
-        }
-      ],
-      "duration_ms": 201586,
-      "name": "Triste everyday",
-      "url": "https://open.spotify.com/track/0Y8SAJX7NICrCgiAwwcYJN"
-    },
-    {
-      "added_at": "2026-02-17 16:32:14",
-      "album": {
         "name": "The Gifted",
         "url": "https://open.spotify.com/album/1f2ggF7K0aDz88Xg4b3Vr2"
       },
@@ -1367,22 +1387,6 @@
       "duration_ms": 209720,
       "name": "Dracula - JENNIE Remix",
       "url": "https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM"
-    },
-    {
-      "added_at": "2026-02-27 12:50:24",
-      "album": {
-        "name": "Coeur ab\u00eem\u00e9",
-        "url": "https://open.spotify.com/album/2ih0Mb78av8rvhvPdfeIid"
-      },
-      "artists": [
-        {
-          "name": "UZI",
-          "url": "https://open.spotify.com/artist/5U05AU34EcZ8pfohg2dicI"
-        }
-      ],
-      "duration_ms": 152413,
-      "name": "Madre Mia",
-      "url": "https://open.spotify.com/track/62ThRDrcqddtQSt5v7lQY7"
     },
     {
       "added_at": "2026-04-24 16:15:59",

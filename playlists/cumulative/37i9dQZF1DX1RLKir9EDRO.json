@@ -142,7 +142,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 179016,
       "name": "Acaba \u015eu An",
       "url": "https://open.spotify.com/track/7quAvGpkn84oKkhs40RhTV"
@@ -4388,7 +4388,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 198300,
       "name": "Bulam\u0131yorum Art\u0131k",
       "url": "https://open.spotify.com/track/5SiZ0rnQL10k42tUN40uF0"
@@ -7050,7 +7050,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 186293,
       "name": "Falezler",
       "url": "https://open.spotify.com/track/51zI47BWxvCx4zLLv73e0v"
@@ -7566,6 +7566,24 @@
       "duration_ms": 166736,
       "name": "Gel Konu\u015fal\u0131m Bi'",
       "url": "https://open.spotify.com/track/1RG1GitgYQybDpy5cQz1Cz"
+    },
+    {
+      "album": {
+        "name": "TUR101",
+        "url": "https://open.spotify.com/album/6hV2PKx03vVYV71wjFFljS"
+      },
+      "artists": [
+        {
+          "name": "The Dirty Duo",
+          "url": "https://open.spotify.com/artist/6iA3wtdaV8ssFUQfHUm6OZ"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242385,
+      "name": "Gelen Gider",
+      "url": "https://open.spotify.com/track/5E6lqZ9jztvUSlaQDad7yt"
     },
     {
       "album": {
@@ -10522,6 +10540,24 @@
       "duration_ms": 128034,
       "name": "\u0130yice",
       "url": "https://open.spotify.com/track/426wK2C1H84Hbc6prZ867Y"
+    },
+    {
+      "album": {
+        "name": "\u0130yiler Kazan\u0131r",
+        "url": "https://open.spotify.com/album/2hzT1woGP3YNR8uHI2Ysry"
+      },
+      "artists": [
+        {
+          "name": "Pus",
+          "url": "https://open.spotify.com/artist/6BOUB5akfQ6iQT0qS7XrNU"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235540,
+      "name": "\u0130yiler Kazan\u0131r",
+      "url": "https://open.spotify.com/track/6fjyJZUq7N8WrJzgpE0lEi"
     },
     {
       "album": {
@@ -20223,6 +20259,24 @@
     },
     {
       "album": {
+        "name": "Yan",
+        "url": "https://open.spotify.com/album/7vO4ecOw8e0OFb00ddsbI9"
+      },
+      "artists": [
+        {
+          "name": "Sosyete '25",
+          "url": "https://open.spotify.com/artist/5mL5uiuawlR6b4TI86vX3u"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216863,
+      "name": "Yan",
+      "url": "https://open.spotify.com/track/1929VxKhRIbwSdFpRsYO5p"
+    },
+    {
+      "album": {
         "name": "Yana Yana",
         "url": "https://open.spotify.com/album/1sIMooIR30Ogq7iOL4Ef0c"
       },
@@ -21545,6 +21599,24 @@
     },
     {
       "album": {
+        "name": "Yolculuk",
+        "url": "https://open.spotify.com/album/1URklVB5gO7JZL2Q02M01R"
+      },
+      "artists": [
+        {
+          "name": "Kafamda Kurduklar\u0131m",
+          "url": "https://open.spotify.com/artist/7HQGBCT4R0yguqLR6IZvQj"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "Yolculuk",
+      "url": "https://open.spotify.com/track/3NsdQwkzo45eox23KH7wPl"
+    },
+    {
+      "album": {
         "name": "Yollar\u0131m\u0131z Ayr\u0131",
         "url": "https://open.spotify.com/album/0x4cJk9evfq0szTcoFfmqb"
       },
@@ -22692,7 +22764,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 230500,
       "name": "\u00c7\u0131plak",
       "url": "https://open.spotify.com/track/5oxizVShpILcpdVuZCOyAd"

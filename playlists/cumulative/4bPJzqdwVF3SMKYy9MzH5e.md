@@ -4,7 +4,7 @@
 
 > 
 
-2,405 songs - 5 day 9 hr 18 min
+2,407 songs - 5 day 9 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1359,6 +1359,7 @@
 | [Million Dollar Houses \(The Painter\)](https://open.spotify.com/track/0iWCpaSaiIZVPSqjZ9YB5L) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Selfish Machines](https://open.spotify.com/album/01dcOm8Whefyve6zChrq9Q) | 4:01 | 2021-12-30 |  |
 | [Minerva](https://open.spotify.com/track/1gzWd0ILFaCoHUfQSkCIvl) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Deftones](https://open.spotify.com/album/6252G7bGCVijXlqAjtjeDP) | 4:17 | 2022-02-18 |  |
 | [Minus Blindfold](https://open.spotify.com/track/5zFalOg043nNnRYtU7TS1T) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Adrenaline](https://open.spotify.com/album/30YN03R4Bjl8Qwz8wPRoXG) | 4:04 | 2022-04-03 |  |
+| [Mira](https://open.spotify.com/track/4StszRDsbHSV4JogQ1MPFn) | [rommulas](https://open.spotify.com/artist/4QsDoxai6urbmrML19OYa3) | [ANIMÁL](https://open.spotify.com/album/49V0qh51JtzuNQmI5Nl4FX) | 1:41 | 2026-05-05 |  |
 | [Mirage](https://open.spotify.com/track/1w327AHTCoChRIkJUprAnV) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [A Collection of Fleeting Moments and Daydreams](https://open.spotify.com/album/1Ckbuzoh1dYKFnpNYmVEof) | 0:57 | 2024-09-06 |  |
 | [Miss Camaraderie](https://open.spotify.com/track/5mEkLflNw2BilpJvJ0W7UC) | [Azealia Banks](https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I) | [Broke with Expensive Taste](https://open.spotify.com/album/6ptPMZzScoFqSVfzph6m9B) | 5:09 | 2021-08-05 |  |
 | [Miss The Rage](https://open.spotify.com/track/3JCWS5rqUVZ04M73lDHd8u) | [shya](https://open.spotify.com/artist/4pED9bj1zFjI6tpBV3ilLe) | [Patreon](https://open.spotify.com/album/1QYmMkiOPTN9CcCs6kLvKk) | 2:34 | 2022-08-08 |  |
@@ -1475,6 +1476,7 @@
 | [No Drama](https://open.spotify.com/track/5SVfd6OmaQJFbFQZhVStWR) | [Blue Hawaii](https://open.spotify.com/artist/41y1iPh0WqB7tyGdzyeinZ) | [Under 1 House](https://open.spotify.com/album/1PkQpn0KN9pJhKfzJQejjv) | 2:58 | 2026-02-20 |  |
 | [NO ESCAPE](https://open.spotify.com/track/5Xg5bGbWHToIMSsqWxOsej) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth), [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [DISCO4 :: PART II](https://open.spotify.com/album/4pk3IXbfaU0cK7oHuEdbEJ) | 3:34 | 2023-01-02 |  |
 | [No Idea](https://open.spotify.com/track/7AzlLxHn24DxjgQX73F9fU) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Heaven Or Hell](https://open.spotify.com/album/7z4GhRfLqfSkqrj5F3Yt2B) | 2:34 | 2021-08-05 |  |
+| [No Me Importa](https://open.spotify.com/track/0DYiFPr3MjEO8jbK23fbDS) | [rommulas](https://open.spotify.com/artist/4QsDoxai6urbmrML19OYa3) | [No Me Importa](https://open.spotify.com/album/2zfzwlF5CDIYeAIBc4xpEm) | 2:13 | 2026-05-05 |  |
 | [No More Sorrow](https://open.spotify.com/track/4CWhc9FaMMfBTt4ANjfbOf) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Minutes to Midnight](https://open.spotify.com/album/2tlTBLz2w52rpGCLBGyGw6) | 3:41 | 2021-08-05 |  |
 | [No Nein](https://open.spotify.com/track/4qeIlzP0Z1JFXh0AckDcX8) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4), [Mietze Conte](https://open.spotify.com/artist/3ETvRzzQK7ppB28GcAE8rN) | [No Nein](https://open.spotify.com/album/5vmCLooZQ8zXFbabT1nvxP) | 2:31 | 2024-10-25 |  |
 | [No No No](https://open.spotify.com/track/5mZB7pYtcAPo7wo5DtW939) | [TheFatRat](https://open.spotify.com/artist/3OKg7YbOIatODzkRIbLJR4) | [No No No](https://open.spotify.com/album/2yMZG60giAh24Zh9RjYaBO) | 3:01 | 2021-08-05 |  |

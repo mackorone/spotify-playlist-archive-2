@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2nSEYi9ueqDn2wxo1Tmceg.md) - [plain]
 
 > Domino present you with their selection of the best independent music around\. Enjoy! Cover: <a>Georgia</a>
 
-[Domino Recording Company](https://open.spotify.com/user/dominorecords) - 61,318 likes - 50 songs - 3 hr 34 min
+[Domino Recording Company](https://open.spotify.com/user/dominorecords) - 61,314 likes - 50 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

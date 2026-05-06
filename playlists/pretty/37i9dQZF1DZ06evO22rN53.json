@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afaQAAAAAACfIQeURDMJMUIbX5SQmQ5R",
+  "snapshot_id": "affhgAAAAABifipt4K0vVrGud2BwsM14",
   "tracks": [
     {
       "added_at": null,
@@ -74,15 +74,11 @@
         {
           "name": "Victor Ray",
           "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
-        },
-        {
-          "name": "Debbie",
-          "url": "https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17"
         }
       ],
-      "duration_ms": 200946,
-      "name": "Falling Into Place",
-      "url": "https://open.spotify.com/track/0XPMEaoR4neOwCvmGx54At"
+      "duration_ms": 148906,
+      "name": "It Only Cost Everything",
+      "url": "https://open.spotify.com/track/0ZASotGnRRIJ1vjTytHsLt"
     },
     {
       "added_at": null,
@@ -99,22 +95,6 @@
       "duration_ms": 211106,
       "name": "You & I",
       "url": "https://open.spotify.com/track/54ZUT13x6aO366youOmO9p"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "It Only Cost Everything",
-        "url": "https://open.spotify.com/album/0ciuSJpaytL7XoDSyt4jhl"
-      },
-      "artists": [
-        {
-          "name": "Victor Ray",
-          "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
-        }
-      ],
-      "duration_ms": 148146,
-      "name": "It Only Cost Everything",
-      "url": "https://open.spotify.com/track/1kT0mt9AstPDGUJCNiQI0T"
     },
     {
       "added_at": null,
@@ -139,22 +119,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I AM. MIXTAPE",
-        "url": "https://open.spotify.com/album/1fj6GxAiOwzGlT16GTQ5X6"
-      },
-      "artists": [
-        {
-          "name": "Victor Ray",
-          "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
-        }
-      ],
-      "duration_ms": 205720,
-      "name": "Disappear",
-      "url": "https://open.spotify.com/track/3GaogYQuDRFs0qhtriRvxX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hollow",
         "url": "https://open.spotify.com/album/4dVnjYdYgCGrdKoRG7dWn3"
       },
@@ -167,6 +131,26 @@
       "duration_ms": 203419,
       "name": "Hollow",
       "url": "https://open.spotify.com/track/6d0nwrhZwPGRy9RptimFW6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I AM. MIXTAPE",
+        "url": "https://open.spotify.com/album/1fj6GxAiOwzGlT16GTQ5X6"
+      },
+      "artists": [
+        {
+          "name": "Victor Ray",
+          "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
+        },
+        {
+          "name": "Debbie",
+          "url": "https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17"
+        }
+      ],
+      "duration_ms": 200946,
+      "name": "Falling Into Place",
+      "url": "https://open.spotify.com/track/0XPMEaoR4neOwCvmGx54At"
     },
     {
       "added_at": null,
@@ -203,22 +187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I AM. MIXTAPE",
-        "url": "https://open.spotify.com/album/1fj6GxAiOwzGlT16GTQ5X6"
-      },
-      "artists": [
-        {
-          "name": "Victor Ray",
-          "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
-        }
-      ],
-      "duration_ms": 196600,
-      "name": "Halfway There",
-      "url": "https://open.spotify.com/track/759be6jBpD7jw2BGX4yVuw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Still The Same",
         "url": "https://open.spotify.com/album/3bGZJDlp1lBNJYrcdGR1F4"
       },
@@ -231,6 +199,22 @@
       "duration_ms": 194928,
       "name": "Still The Same",
       "url": "https://open.spotify.com/track/1ALggh912tizrjndhRLY63"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I AM. MIXTAPE",
+        "url": "https://open.spotify.com/album/1fj6GxAiOwzGlT16GTQ5X6"
+      },
+      "artists": [
+        {
+          "name": "Victor Ray",
+          "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
+        }
+      ],
+      "duration_ms": 205720,
+      "name": "Disappear",
+      "url": "https://open.spotify.com/track/3GaogYQuDRFs0qhtriRvxX"
     },
     {
       "added_at": null,
@@ -268,6 +252,22 @@
           "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
         }
       ],
+      "duration_ms": 196600,
+      "name": "Halfway There",
+      "url": "https://open.spotify.com/track/759be6jBpD7jw2BGX4yVuw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I AM. MIXTAPE",
+        "url": "https://open.spotify.com/album/1fj6GxAiOwzGlT16GTQ5X6"
+      },
+      "artists": [
+        {
+          "name": "Victor Ray",
+          "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
+        }
+      ],
       "duration_ms": 175653,
       "name": "Contagious",
       "url": "https://open.spotify.com/track/4Q2XCNVJpBAKq5JYip3wye"
@@ -287,22 +287,6 @@
       "duration_ms": 167026,
       "name": "Sink or Swim",
       "url": "https://open.spotify.com/track/3e2vffxfcTZxQe4b6O9u42"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I AM. MIXTAPE",
-        "url": "https://open.spotify.com/album/1fj6GxAiOwzGlT16GTQ5X6"
-      },
-      "artists": [
-        {
-          "name": "Victor Ray",
-          "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
-        }
-      ],
-      "duration_ms": 191640,
-      "name": "Off Balance",
-      "url": "https://open.spotify.com/track/4TpuUq3YpUxDodC2KLC81T"
     }
   ],
   "unique_name": "This Is Victor Ray",

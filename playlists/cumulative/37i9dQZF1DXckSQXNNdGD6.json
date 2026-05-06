@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "La banda sonora de tu orgullo. Foto: Ouineta.",
+  "description": "La banda sonora de tu orgullo. Foto: Martin.",
   "name": "Glow Espa\u00f1a",
   "tracks": [
     {
@@ -516,7 +516,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 202781,
       "name": "Asereg\u00e9",
       "url": "https://open.spotify.com/track/04f2tTJjVwknNobTRPm4iT"
@@ -538,6 +538,24 @@
       "duration_ms": 170602,
       "name": "ASTUTA",
       "url": "https://open.spotify.com/track/6mNlvsPSYm8xQ24fORjpyN"
+    },
+    {
+      "album": {
+        "name": "Ave de Paso",
+        "url": "https://open.spotify.com/album/5AwzxGNJnTMx94XOB0wUKG"
+      },
+      "artists": [
+        {
+          "name": "BR\u00dcNNE ROMEO",
+          "url": "https://open.spotify.com/artist/3dDNNqsdrGpFlD1yGXLWRF"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230588,
+      "name": "Ave de Paso",
+      "url": "https://open.spotify.com/track/2RmeHwa9PczrBGmYJFdRgA"
     },
     {
       "album": {
@@ -683,6 +701,24 @@
     },
     {
       "album": {
+        "name": "Bandolero",
+        "url": "https://open.spotify.com/album/5c6b7AbvBmCTZwmuwjWiQE"
+      },
+      "artists": [
+        {
+          "name": "David Rees",
+          "url": "https://open.spotify.com/artist/2CQHyfluB4mliyv193Qn2L"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157924,
+      "name": "Bandolero",
+      "url": "https://open.spotify.com/track/03zEcizMmmeaZ6jCZ077ap"
+    },
+    {
+      "album": {
         "name": "Benvingudes a l'Afterparty",
         "url": "https://open.spotify.com/album/0h1OlyCmYC7jsQqfwxhyvs"
       },
@@ -822,6 +858,24 @@
       "duration_ms": 125102,
       "name": "Caballona",
       "url": "https://open.spotify.com/track/1KNNQjYtiI34jErXIvE34e"
+    },
+    {
+      "album": {
+        "name": "Calypso",
+        "url": "https://open.spotify.com/album/7rfrQpTh58BeQfjmA4n2Yi"
+      },
+      "artists": [
+        {
+          "name": "Guitarricadelafuente",
+          "url": "https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151357,
+      "name": "Calypso",
+      "url": "https://open.spotify.com/track/0xDX2eQsx9F4xHVMNPvVge"
     },
     {
       "album": {
@@ -1354,7 +1408,7 @@
       ],
       "date_added": "2025-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 152650,
       "name": "Deber\u00eda estar brillando",
       "url": "https://open.spotify.com/track/4454W7eg7cvvIlRJwhctfK"
@@ -1568,6 +1622,24 @@
       "duration_ms": 243773,
       "name": "Dramas y comedias",
       "url": "https://open.spotify.com/track/0XxJX5RIwUkX37UIdGZu9C"
+    },
+    {
+      "album": {
+        "name": "La Insolaci\u00f3n",
+        "url": "https://open.spotify.com/album/2MXZYf9orI7MEZhgSs0j5j"
+      },
+      "artists": [
+        {
+          "name": "Martin",
+          "url": "https://open.spotify.com/artist/7axPkSaeZBpVJRyOj5vKPC"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187634,
+      "name": "D\u00e9jalo Ir",
+      "url": "https://open.spotify.com/track/3dwNV44galFE5WawZyK9Z7"
     },
     {
       "album": {
@@ -1835,6 +1907,24 @@
     },
     {
       "album": {
+        "name": "Estoy Buscona",
+        "url": "https://open.spotify.com/album/3RBnIa108gQWHzImhg35Eh"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Pel\u00e1e",
+          "url": "https://open.spotify.com/artist/1b6ctmaHGrw89ZUmm0nGXq"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196756,
+      "name": "Estoy Buscona",
+      "url": "https://open.spotify.com/track/7mGw95qIFGc6Bb9LajHRVA"
+    },
+    {
+      "album": {
         "name": "Ouineta Verificada",
         "url": "https://open.spotify.com/album/5lMyr087un4jnw6KUKqTus"
       },
@@ -1846,7 +1936,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 170229,
       "name": "Evil Ouineta",
       "url": "https://open.spotify.com/track/0iAWAAmntI83pzhNEeaTEC"
@@ -2332,7 +2422,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 138467,
       "name": "Honey",
       "url": "https://open.spotify.com/track/3yYWcIuxJ2bE30uWYwMrGz"
@@ -2434,6 +2524,24 @@
       "duration_ms": 153954,
       "name": "IDGaF",
       "url": "https://open.spotify.com/track/6mvFyxmyH65O4menM21wWr"
+    },
+    {
+      "album": {
+        "name": "LUNA",
+        "url": "https://open.spotify.com/album/3rqrPnCubpsQm76uYOkJVy"
+      },
+      "artists": [
+        {
+          "name": "Luna Ki",
+          "url": "https://open.spotify.com/artist/5yD3wtXDmbOloiFzO3km1M"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145600,
+      "name": "iGL\u00fa",
+      "url": "https://open.spotify.com/track/4Yx33i7VKzJqimf3tXy6e6"
     },
     {
       "album": {
@@ -2664,6 +2772,28 @@
       "duration_ms": 129229,
       "name": "Kandinsky (Rencor)",
       "url": "https://open.spotify.com/track/5ukZjGNnjnfc75tDlofiYr"
+    },
+    {
+      "album": {
+        "name": "KERRREBOTE!",
+        "url": "https://open.spotify.com/album/4a1KCU8w8JBND5dXQLjG8p"
+      },
+      "artists": [
+        {
+          "name": "Kadriana Massri",
+          "url": "https://open.spotify.com/artist/3VQnM4BnAzAcEwr7RZl8mz"
+        },
+        {
+          "name": "MIGUELITA",
+          "url": "https://open.spotify.com/artist/5ft3Lm4NT2TwfPbzEmudjN"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177914,
+      "name": "KERRREBOTE!",
+      "url": "https://open.spotify.com/track/7Jq2VLAHVTXq6UkxS0f4EN"
     },
     {
       "album": {
@@ -2978,7 +3108,7 @@
       ],
       "date_added": "2025-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 203586,
       "name": "Lesbian Garros",
       "url": "https://open.spotify.com/track/3xW7zApfPMvHYumqN4ByoC"
@@ -3654,7 +3784,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 180673,
       "name": "Mu\u00e9rdeme",
       "url": "https://open.spotify.com/track/4C4F7r2as1mPaDWrNT44PD"
@@ -3730,6 +3860,24 @@
       "duration_ms": 177237,
       "name": "Nada Nuevo",
       "url": "https://open.spotify.com/track/4DcWD1rC1xRGNxig8kYwgX"
+    },
+    {
+      "album": {
+        "name": "Nascuda al Paral\u00b7lel",
+        "url": "https://open.spotify.com/album/7q3Tlb80kVw0IZtcBgqNja"
+      },
+      "artists": [
+        {
+          "name": "Ru\u00efnosa y las Strippers de Rahola",
+          "url": "https://open.spotify.com/artist/6JcoLHQLRlm12My6cACmlT"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208994,
+      "name": "Nascuda al Paral\u00b7lel",
+      "url": "https://open.spotify.com/track/2tm5o5VxD0bmTS7qIBain1"
     },
     {
       "album": {
@@ -3936,7 +4084,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 117869,
       "name": "Novio o novia",
       "url": "https://open.spotify.com/track/3Kn35ojAyhYVogKD8Bk70U"
@@ -4088,6 +4236,28 @@
       "duration_ms": 161454,
       "name": "Olor a perfume caro y tabaco",
       "url": "https://open.spotify.com/track/6zIJaBIjllZpehbTkcurFV"
+    },
+    {
+      "album": {
+        "name": "Omaigach",
+        "url": "https://open.spotify.com/album/453JEsE7EoOcvyBo4Qia7W"
+      },
+      "artists": [
+        {
+          "name": "Chico Blanco",
+          "url": "https://open.spotify.com/artist/7xLtt3vnhKGANQKpsaIMVa"
+        },
+        {
+          "name": "Girl Ultra",
+          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214545,
+      "name": "Omaigach",
+      "url": "https://open.spotify.com/track/0CUf3C7SNW7y4PyWgWFFK6"
     },
     {
       "album": {
@@ -4996,7 +5166,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 177680,
       "name": "Reset",
       "url": "https://open.spotify.com/track/77CM7X0G61viIVZ4Wbfpo8"
@@ -5742,7 +5912,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 147113,
       "name": "Treu-te el Bikini",
       "url": "https://open.spotify.com/track/3aSniXUsdmFyrmWNJHO5FL"
@@ -5988,7 +6158,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 176135,
       "name": "Vogue",
       "url": "https://open.spotify.com/track/2ThAF4cOs9Jw5M0qHdqT93"
@@ -6104,6 +6274,24 @@
       "duration_ms": 192942,
       "name": "Y Yo Que Pensaba",
       "url": "https://open.spotify.com/track/17mylzsL9LodcuVLakNWcQ"
+    },
+    {
+      "album": {
+        "name": "Yo quiero un affaire",
+        "url": "https://open.spotify.com/album/4xZJ0Ak8kZS4XdDVJOxkmj"
+      },
+      "artists": [
+        {
+          "name": "Jimena Amarillo",
+          "url": "https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184970,
+      "name": "Yo quiero un affaire",
+      "url": "https://open.spotify.com/track/3z9X4FONGlgEjttQHW2gLV"
     },
     {
       "album": {

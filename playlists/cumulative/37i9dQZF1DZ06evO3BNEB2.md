@@ -4,7 +4,7 @@
 
 > This is Wale\. The essential tracks, all in one playlist.
 
-55 songs - 3 hr 32 min
+56 songs - 3 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,11 +26,12 @@
 | [Conundrum](https://open.spotify.com/track/2j3ZeRQLyJyMTWzNkHFRtb) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [everything is a lot.](https://open.spotify.com/album/0AIADbs20wMj3229QY0XnN) | 2:08 | 2026-02-21 |  |
 | [Dearly Beloved \(feat\. Jamie Foxx\)](https://open.spotify.com/track/0JQ0F7iBZ3rIZaY9PTlBpT) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Jamie Foxx](https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w) | [Folarin II](https://open.spotify.com/album/2hWG79pDHBFMCr5PQsCtF9) | 1:49 | 2026-02-21 |  |
 | [Diced Pineapples](https://open.spotify.com/track/27mF2eUbhExYWiOT0y9cuc) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [God Forgives, I Don't \(Deluxe Edition\)](https://open.spotify.com/album/1YSb516nyR6ALY2ji1eCAV) | 4:36 | 2026-02-21 |  |
+| [Down South \(feat\. Yella Beezy & Maxo Kream\)](https://open.spotify.com/track/3iBTlAs9ki435FDkt7LXUA) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv), [Yella Beezy](https://open.spotify.com/artist/7kwCkEJ384PWm0UQW3hxjS) | [Folarin II](https://open.spotify.com/album/1GyvDV1vj6x3GH61CNRv3H) | 3:59 | 2026-05-06 |  |
 | [FEELINGS ON SILENT \(feat\. Wale\)](https://open.spotify.com/track/0XQFACvy0OCADmCIgHNtXJ) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [MUTT](https://open.spotify.com/album/0SzoksypeognxYJJOJEYip) | 3:29 | 2026-02-21 |  |
 | [Fly Away](https://open.spotify.com/track/6boHVtRiLPHR1sm1I1ZdJr) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [everything is a lot.](https://open.spotify.com/album/0AIADbs20wMj3229QY0XnN) | 2:55 | 2026-02-21 |  |
 | [French Toast \(feat\. Wale & Joyce Wrice\)](https://open.spotify.com/track/0RoV9OBxlqxkzFEv6LAm84) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum) | [Pray for Paris](https://open.spotify.com/album/6nfJMRoIjyRwk3ZTHNm0PY) | 4:48 | 2026-03-22 |  |
 | [In My Bed](https://open.spotify.com/track/6XM53PbvlzhuNtJZtpl7RP) | [Rotimi](https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [The Beauty of Becoming](https://open.spotify.com/album/1AUSfQC9x3SsqNQhFq05l7) | 3:05 | 2026-02-21 |  |
-| [James Freestyle](https://open.spotify.com/track/0TCwOV4kb3zDKBd9U8dL1j) | [Don Cannon](https://open.spotify.com/artist/0jE9L2jmYpWwthSocLCILD), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [James Freestyle](https://open.spotify.com/album/4uXfh6zoUUX861mzCMhXWI) | 2:26 | 2026-02-21 |  |
+| [James Freestyle](https://open.spotify.com/track/0TCwOV4kb3zDKBd9U8dL1j) | [Don Cannon](https://open.spotify.com/artist/0jE9L2jmYpWwthSocLCILD), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [James Freestyle](https://open.spotify.com/album/4uXfh6zoUUX861mzCMhXWI) | 2:26 | 2026-02-21 | 2026-05-06 |
 | [Lotus Flower Bomb \(feat\. Miguel\)](https://open.spotify.com/track/3MAgQuClHcAV8E9CbeBS6f) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Ambition](https://open.spotify.com/album/0jCVC8ndYYOooEY2YTO1l6) | 3:33 | 2026-02-21 |  |
 | [Love..\. \(Her Fault\) \[feat\. Bryson Tiller\]](https://open.spotify.com/track/6cSBm4mtcuFtClN6yDvjQo) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Wow..\. That's Crazy](https://open.spotify.com/album/0JRDNN0AuZZiwyrOWkNDXC) | 3:32 | 2026-02-21 |  |
 | [LoveHate Thing \(feat\. Sam Dew\)](https://open.spotify.com/track/6kx16R0LMAyoXDvGqddZFy) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Sam Dew](https://open.spotify.com/artist/1SIw8nXWjvAKeb6Dhh85cz) | [The Gifted](https://open.spotify.com/album/2m1DkB7oqaZu8BzAAUfwlq) | 4:27 | 2026-02-21 |  |

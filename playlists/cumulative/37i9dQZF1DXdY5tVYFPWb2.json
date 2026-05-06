@@ -12291,6 +12291,24 @@
     },
     {
       "album": {
+        "name": "YOWANOTSUKI",
+        "url": "https://open.spotify.com/album/6iSWk4SFJD2hpnGPuEy4Ss"
+      },
+      "artists": [
+        {
+          "name": "YONA YONA WEEKENDERS",
+          "url": "https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226762,
+      "name": "YOWANOTSUKI",
+      "url": "https://open.spotify.com/track/4ibupLr4YYsixGxOCLhbmF"
+    },
+    {
+      "album": {
         "name": "yugi",
         "url": "https://open.spotify.com/album/7eexbOyxF5ZxRboSPVuNVc"
       },
@@ -12512,7 +12530,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 251600,
       "name": "\u3042\u306a\u305f\u3086\u305a\u308a",
       "url": "https://open.spotify.com/track/0ayWf9vhCaUhMNHTOvNXI3"

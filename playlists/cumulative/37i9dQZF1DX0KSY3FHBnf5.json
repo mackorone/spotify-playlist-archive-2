@@ -688,7 +688,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 172444,
       "name": "Blues",
       "url": "https://open.spotify.com/track/5fgLlepwOuApu2Cjej7EyG"
@@ -804,7 +804,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 98126,
       "name": "burning memories",
       "url": "https://open.spotify.com/track/6vzpm2Q4NPpuowQG7pNtUg"
@@ -1121,6 +1121,24 @@
     },
     {
       "album": {
+        "name": "core memories",
+        "url": "https://open.spotify.com/album/5oKTC3zUvBOYubD32UO28T"
+      },
+      "artists": [
+        {
+          "name": "Nova Dust",
+          "url": "https://open.spotify.com/artist/5UyiEIfJDSqqBP0lRVQUVI"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102857,
+      "name": "core memories",
+      "url": "https://open.spotify.com/track/0LWAy3bHfo9CJvNMASckMS"
+    },
+    {
+      "album": {
         "name": "could u stay (slowed + reverb)",
         "url": "https://open.spotify.com/album/0BdiSQEyN7ibjVOWe1FZf4"
       },
@@ -1288,6 +1306,28 @@
       "duration_ms": 152184,
       "name": "demons, but it's ambient - deep version",
       "url": "https://open.spotify.com/track/4z2Vab3OXSFDa5IXSVyyGt"
+    },
+    {
+      "album": {
+        "name": "dense cloud",
+        "url": "https://open.spotify.com/album/16NbOH9WFuwsD0eSAn896k"
+      },
+      "artists": [
+        {
+          "name": "Unknown Melodiez",
+          "url": "https://open.spotify.com/artist/6VN5ir5EJQgUIC5uz3pcmU"
+        },
+        {
+          "name": "\u00d8XMI",
+          "url": "https://open.spotify.com/artist/2ZwYlOl3XChBOCL6CBGrBn"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105560,
+      "name": "dense cloud",
+      "url": "https://open.spotify.com/track/2Xci88tZoVpDs51WXwkSQe"
     },
     {
       "album": {
@@ -1666,6 +1706,24 @@
       "duration_ms": 185360,
       "name": "Dreamstolgia",
       "url": "https://open.spotify.com/track/2wWAVmad9W7uOnjk9aVtHU"
+    },
+    {
+      "album": {
+        "name": "Drifting Away",
+        "url": "https://open.spotify.com/album/1ylUoet7xjKr1JRGYih4Fs"
+      },
+      "artists": [
+        {
+          "name": "where??",
+          "url": "https://open.spotify.com/artist/6bUr4trSlpbXmrXvVhRuRL"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169411,
+      "name": "Drifting Away",
+      "url": "https://open.spotify.com/track/74CtYa2TgYQQ8YZWj88ZbU"
     },
     {
       "album": {
@@ -2704,7 +2762,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 139459,
       "name": "heart shut down",
       "url": "https://open.spotify.com/track/1Xw3lylOByAdMHHSrk9DNP"
@@ -2936,7 +2994,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 103417,
       "name": "hummingbird (alternate version)",
       "url": "https://open.spotify.com/track/5BuSTk6Mg1oj1NDsO5o9Bs"
@@ -3487,6 +3545,24 @@
     },
     {
       "album": {
+        "name": "light at the end of the tunnel",
+        "url": "https://open.spotify.com/album/6tluhH3bVXobNHiSWesf8v"
+      },
+      "artists": [
+        {
+          "name": "too unbothered.",
+          "url": "https://open.spotify.com/artist/49HcpD2VfoTVNN2zTMsfxN"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118356,
+      "name": "light at the end of the tunnel",
+      "url": "https://open.spotify.com/track/0QpSE8DtVvf7pANM3E8t07"
+    },
+    {
+      "album": {
         "name": "light leak",
         "url": "https://open.spotify.com/album/62dyfkqxw7fl4pkf5xmTeP"
       },
@@ -4021,6 +4097,24 @@
     },
     {
       "album": {
+        "name": "moving apart",
+        "url": "https://open.spotify.com/album/1Eb1e4JjoUaQJFGjfsJUvk"
+      },
+      "artists": [
+        {
+          "name": "undercurrent.",
+          "url": "https://open.spotify.com/artist/1GadL8gKNORWAIsnnaJcpO"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101052,
+      "name": "moving apart",
+      "url": "https://open.spotify.com/track/6uqJlpkXxnStPvXyEuhDy1"
+    },
+    {
+      "album": {
         "name": "Murmur Forest",
         "url": "https://open.spotify.com/album/1WuZjB8SO1G0oIGm4dpect"
       },
@@ -4293,6 +4387,24 @@
     },
     {
       "album": {
+        "name": "nothing to say",
+        "url": "https://open.spotify.com/album/42HHkh4AzrUsTpPTZTCuur"
+      },
+      "artists": [
+        {
+          "name": "cinar",
+          "url": "https://open.spotify.com/artist/4BuDScLx2f14Rv0C2ARnL6"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80447,
+      "name": "nothing to say",
+      "url": "https://open.spotify.com/track/20Fem5hwVq15N3UBzPrj2V"
+    },
+    {
+      "album": {
         "name": "Nova",
         "url": "https://open.spotify.com/album/0alk8zJzhETdnniJGQwOub"
       },
@@ -4463,6 +4575,28 @@
     },
     {
       "album": {
+        "name": "only you",
+        "url": "https://open.spotify.com/album/7ISbX5xwbVdoUQx3FXf49s"
+      },
+      "artists": [
+        {
+          "name": "Kidrumii",
+          "url": "https://open.spotify.com/artist/5oK06emCzN90ZNrNNfvbrr"
+        },
+        {
+          "name": "ambient sounds club",
+          "url": "https://open.spotify.com/artist/563BfPzZfOxRpNbyrTKbTl"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155924,
+      "name": "only you",
+      "url": "https://open.spotify.com/track/4kgqTKaMUz0EmNaWRyxjxl"
+    },
+    {
+      "album": {
         "name": "Paris",
         "url": "https://open.spotify.com/album/7LSOjGfETku2oPC7mr6ubo"
       },
@@ -4550,7 +4684,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 103418,
       "name": "outside of nowhere",
       "url": "https://open.spotify.com/track/4n5G3HaDjRig4EueqRDtMT"
@@ -6043,6 +6177,24 @@
     },
     {
       "album": {
+        "name": "tomorrow is another day",
+        "url": "https://open.spotify.com/album/1xjt9e886XzxjTIhCnKRih"
+      },
+      "artists": [
+        {
+          "name": "hir\u00e6th",
+          "url": "https://open.spotify.com/artist/3eeveX1dMtylueBGenVFDf"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169479,
+      "name": "tomorrow is another day",
+      "url": "https://open.spotify.com/track/4V0VSolG4dOYKfUWkWeGtY"
+    },
+    {
+      "album": {
         "name": "tomorrow never comes",
         "url": "https://open.spotify.com/album/1mUSORPqLfV1F3yqj456oD"
       },
@@ -6327,6 +6479,28 @@
     },
     {
       "album": {
+        "name": "somewhere after goodbye",
+        "url": "https://open.spotify.com/album/1kGhsAlorFfmTPXooeAXfM"
+      },
+      "artists": [
+        {
+          "name": "Fieldn\u00f8te",
+          "url": "https://open.spotify.com/artist/0lFZFORfkO4KUR7f2a3gLN"
+        },
+        {
+          "name": "Peter Mowry",
+          "url": "https://open.spotify.com/artist/4mafztcbCRLBcgsVyf19nU"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114000,
+      "name": "we knew each other by heart",
+      "url": "https://open.spotify.com/track/6ip6T0WS8w8bVvQlJadJ1O"
+    },
+    {
+      "album": {
         "name": "we'll meet someday",
         "url": "https://open.spotify.com/album/0HxOJ39F4YvKr2m4PaYoFm"
       },
@@ -6512,6 +6686,24 @@
       "duration_ms": 145942,
       "name": "whatever happens",
       "url": "https://open.spotify.com/track/3yhIlekGzARbycsRhAWlt1"
+    },
+    {
+      "album": {
+        "name": "when the city sleeps",
+        "url": "https://open.spotify.com/album/0KmBNdVAUmKrMQxgeQXbbU"
+      },
+      "artists": [
+        {
+          "name": "I'm flying",
+          "url": "https://open.spotify.com/artist/3usEtaz39XkcPQZuVheueS"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142000,
+      "name": "when the city sleeps",
+      "url": "https://open.spotify.com/track/4KXxXsBpvCfSuOmhn7OpCx"
     },
     {
       "album": {

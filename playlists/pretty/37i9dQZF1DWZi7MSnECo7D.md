@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 
 > Música brasileira fora da curva\. Foto: Exclusive Os Cabides
 
-[Spotify](https://open.spotify.com/user/spotify) - 772,655 likes - 66 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 772,514 likes - 66 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Kacey Musgraves, Madonna, Lady Gaga, BLOND:ISH, Jessie Reyez, Mikayla Geier and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 590,515 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 590,472 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 
 > De nieuwste Hollands & Volkspop releases\. Cover: Dries Roelvink
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,747 likes - 100 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,735 likes - 100 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Tante Jetje](https://open.spotify.com/track/6jPFnEnuXaOtTsAXUCuhy5) | [Dries Roelvink](https://open.spotify.com/artist/2eIeNd8ZrIkk8R4q3zud09) | [Tante Jetje](https://open.spotify.com/album/4d7e0D6oOIIlepqR2cJoSO) | 3:14 |
 | 2 | [Hoe De Liefde Gaat](https://open.spotify.com/track/1ttwvoS4i4o69EgKQoP7T4) | [Rene Froger](https://open.spotify.com/artist/5MvyMusqNikgVgkKHLc3pb), [Waylon](https://open.spotify.com/artist/5iuXjsXsTXs8lwmqzsF6dZ) | [Hoe De Liefde Gaat](https://open.spotify.com/album/1rjIr84CoKQpiocgtqzhyW) | 3:11 |
-| 3 | [Niet Voor 1 Keer](https://open.spotify.com/track/4aR4GlPiahBUGUtbA0Fd4A) | [Gerard Joling](https://open.spotify.com/artist/5V2zReaoPvB7EsZ4160uLG) | [Niet Voor 1 Keer](https://open.spotify.com/album/2AiDcyCJNIrAhGEa2yr259) | 2:51 |
-| 4 | [Maak Me Nou Niet Gek](https://open.spotify.com/track/0q8Ft87t6fIUZdtve5PwKW) | [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT), [Samuel Welten](https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9), [De Amsterdamse Zomer](https://open.spotify.com/artist/41B0yDQQJEFnLDxTNNtlmJ) | [Maak Me Nou Niet Gek](https://open.spotify.com/album/5jOHbWlFPTHrQbkrIXP5kI) | 2:57 |
-| 5 | [De Nacht Is Mijn Leven \- 2026](https://open.spotify.com/track/1VBEhXmsOk839WvzgpvW5m) | [André Hazes Jr.](https://open.spotify.com/artist/5l2Xy4aUoJDRSpsYHyOumD) | [De Nacht Is Mijn Leven \(2026\)](https://open.spotify.com/album/4Hisi2H261bzzzWEf6gwPg) | 3:16 |
+| 3 | [De Nacht Is Mijn Leven \- 2026](https://open.spotify.com/track/1VBEhXmsOk839WvzgpvW5m) | [André Hazes Jr.](https://open.spotify.com/artist/5l2Xy4aUoJDRSpsYHyOumD) | [De Nacht Is Mijn Leven \(2026\)](https://open.spotify.com/album/4Hisi2H261bzzzWEf6gwPg) | 3:16 |
+| 4 | [Niet Voor 1 Keer](https://open.spotify.com/track/4aR4GlPiahBUGUtbA0Fd4A) | [Gerard Joling](https://open.spotify.com/artist/5V2zReaoPvB7EsZ4160uLG) | [Niet Voor 1 Keer](https://open.spotify.com/album/2AiDcyCJNIrAhGEa2yr259) | 2:51 |
+| 5 | [Maak Me Nou Niet Gek](https://open.spotify.com/track/0q8Ft87t6fIUZdtve5PwKW) | [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT), [Samuel Welten](https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9), [De Amsterdamse Zomer](https://open.spotify.com/artist/41B0yDQQJEFnLDxTNNtlmJ) | [Maak Me Nou Niet Gek](https://open.spotify.com/album/5jOHbWlFPTHrQbkrIXP5kI) | 2:57 |
 | 6 | [Boevenpad](https://open.spotify.com/track/2rGArT59YV48WR0CUcVseI) | [Sven Versteeg](https://open.spotify.com/artist/0NJI3CV8t7MIgRhC3Ov2vV), [Lange Frans](https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE) | [Boevenpad](https://open.spotify.com/album/2gfZmjatxDRbFbqEFyIsHq) | 2:50 |
-| 7 | [Zij Hoort Bij Mij](https://open.spotify.com/track/4NzVNVrPqz7APlA5C0TuBP) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [Jan Smit](https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq), [Frans Bauer](https://open.spotify.com/artist/0v4CvkMzWBQ1wZIMl2BqQW) | [Zij Hoort Bij Mij](https://open.spotify.com/album/5DIbGZCUppQpa7eZ3RWN8o) | 2:06 |
-| 8 | [Vlam In De Pan](https://open.spotify.com/track/0X63JmpyxWMguhDLAjdN3V) | [Jari Hellegers](https://open.spotify.com/artist/2jPuZfXN0BcFiNowWQk4au) | [Vlam In De Pan](https://open.spotify.com/album/4EXIEwAErM3OqO3G1S6VKK) | 2:40 |
+| 7 | [Vlam In De Pan](https://open.spotify.com/track/0X63JmpyxWMguhDLAjdN3V) | [Jari Hellegers](https://open.spotify.com/artist/2jPuZfXN0BcFiNowWQk4au) | [Vlam In De Pan](https://open.spotify.com/album/4EXIEwAErM3OqO3G1S6VKK) | 2:40 |
+| 8 | [Zij Hoort Bij Mij](https://open.spotify.com/track/4NzVNVrPqz7APlA5C0TuBP) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [Jan Smit](https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq), [Frans Bauer](https://open.spotify.com/artist/0v4CvkMzWBQ1wZIMl2BqQW) | [Zij Hoort Bij Mij](https://open.spotify.com/album/5DIbGZCUppQpa7eZ3RWN8o) | 2:06 |
 | 9 | [Route Du Soleil](https://open.spotify.com/track/3gObOLbNKma8EjpByEieBp) | [Wolter Kroes](https://open.spotify.com/artist/3aERYLqcdKbyI7pjmOgIpU) | [Route Du Soleil](https://open.spotify.com/album/1W1tLQGBFZZgNlo5Z9sMU7) | 2:28 |
 | 10 | [Gappie Sappie](https://open.spotify.com/track/2FCDwCdXpMnSq3QuHWZ3UM) | [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa), [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW) | [Gappie Sappie](https://open.spotify.com/album/7FE9PW71kUT5Ry6N1D0TDo) | 2:17 |
 | 11 | [Waarom Ben Jij Gegaan \- Akoestisch](https://open.spotify.com/track/6f8Nda8vkpFrwsMX5l320t) | [Django Wagner](https://open.spotify.com/artist/2onmCslqboJDdDoCo7ZPd2) | [Akoestische Sessie](https://open.spotify.com/album/0r4P6VRT9rB1sUuRf706bx) | 3:36 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 | 99 | [Ga Maar Weg](https://open.spotify.com/track/5hKzFdijIotT1gIqz0OeSU) | [Gianluca](https://open.spotify.com/artist/2yL7gNaFIc8VoJeH7GxUkN) | [Ga Maar Weg](https://open.spotify.com/album/1LdSdblkB9FyS7UgMqV7dG) | 2:49 |
 | 100 | [Eenzaamheid Maakt Alle Mensen Gelijk](https://open.spotify.com/track/3qjKAJvIbedMgBDvuXKBnS) | [William Burg](https://open.spotify.com/artist/4NsbHQrXLybMMQCmVBHo2y) | [Eenzaamheid Maakt Alle Mensen Gelijk](https://open.spotify.com/album/0OVJFJ9wm0ESDjUbXjY3nt) | 3:08 |
 
-Snapshot ID: `AAAAAN8ZF19m6coxPgidE+smVJBgf0EG`
+Snapshot ID: `AAAAAE9AEIHLx9PtvcPTgzkn8OG4mUSu`

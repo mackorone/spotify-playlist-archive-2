@@ -4,7 +4,7 @@
 
 > Meet the best Korean vocalists who will melt your eardrums! \(Cover: Yang Da Il\(양다일\)\) 여러분의 고막을 녹여줄 한국 최고의 보컬들을 만나보세요!\)
 
-651 songs - 1 day 18 hr 32 min
+652 songs - 1 day 18 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -559,7 +559,7 @@
 | [voKal\_Kim Kyung Ho](https://open.spotify.com/track/3EnUqfVZyac1sDXMN1Hshp) | [Kim Kyung Ho](https://open.spotify.com/artist/15Tra1ytu0naoNByIhZArl) | [v o K a l Audio Liners](https://open.spotify.com/album/7pZLUC0UxIdCEbbwUmtY1f) | 0:04 | 2024-05-29 | 2024-06-06 |
 | [Waiting \(20th Anniversary Edition\)](https://open.spotify.com/track/33uA9i4mmbHbaFZ3i8GgxS) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [YOUNHA 20th Anniversary Digital Single 'Waiting'](https://open.spotify.com/album/3znNdjJYbYwU54zlvXbs0n) | 4:46 | 2024-01-12 | 2024-02-21 |
 | [Waiting For You \(feat\. Danny Koo\)](https://open.spotify.com/track/2upF0nACk3Afl8njq0zunH) | [Klozer](https://open.spotify.com/artist/0MLjzVggVZ5yYyA3NUFOGC), [대니 구\(Danny Koo\)](https://open.spotify.com/artist/4M76P0tK97Ia9zTOz8wWOn) | [Waiting For You \(feat\. Danny Koo\)](https://open.spotify.com/album/2UE0mGldffDWffKQLNIDuQ) | 3:41 | 2025-12-18 | 2026-01-28 |
-| [Walk With Me](https://open.spotify.com/track/71awe49SI4ZCz4JYChmSV0) | [YOUNGJAE](https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ) | [Walk With Me](https://open.spotify.com/album/3E4D5ojNyym9TEc9uTlwAd) | 4:06 | 2022-03-24 |  |
+| [Walk With Me](https://open.spotify.com/track/71awe49SI4ZCz4JYChmSV0) | [YOUNGJAE](https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ) | [Walk With Me](https://open.spotify.com/album/3E4D5ojNyym9TEc9uTlwAd) | 4:06 | 2022-03-24 | 2026-05-06 |
 | [Walking Slowly](https://open.spotify.com/track/2zahaztD28KVpM84zFoeQ9) | [Shin Yong Jae](https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR) | [Faith OST](https://open.spotify.com/album/0uFJieT8zGkryWddYK7Vkd) | 4:27 | 2022-04-01 | 2023-10-11 |
 | [Way](https://open.spotify.com/track/5jQRsJZzu8jicHgC3wgiY5) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo), [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) | [Way \- SM STATION](https://open.spotify.com/album/5Pq73EZamFkp9SQpI6Zw7Y) | 3:58 | 2021-12-20 | 2026-01-04 |
 | [We Are Broken Up](https://open.spotify.com/track/5B2Ly3nOWf6MCb5yRxBX9O) | [Lim Sa Rang](https://open.spotify.com/artist/5fRgaatTAoOJk24oK86Bjo) | [We Are Broken Up](https://open.spotify.com/album/4N43CJ7mRyOu38sw4f4ioh) | 3:27 | 2022-08-18 | 2022-10-06 |
@@ -588,6 +588,7 @@
 | [Winter in your eyes](https://open.spotify.com/track/6XPEXAXBVykCQVR0lQJxMV) | [Soul People](https://open.spotify.com/artist/4osIclpwZM5DUwI2JgBJp3) | [Winter in your eyes](https://open.spotify.com/album/6u4vWQGQVlqYBJGkAqb5ya) | 4:02 | 2022-02-10 | 2022-04-18 |
 | [with you](https://open.spotify.com/track/2aPyJyUGGLj33QiXRfLG05) | [Hee brothers](https://open.spotify.com/artist/7qXJEle1HRJwOW1wuTEgwz) | [with you](https://open.spotify.com/album/78zpI0u5fJDfbjFvqpwKxi) | 3:27 | 2022-07-04 | 2022-07-08 |
 | [With you](https://open.spotify.com/track/2gzhQaCTeNgxpeB2TPllyY) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY), [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU) | [Our Blues, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/3Zu8uym76sjmYEGTFsXnSy) | 3:21 | 2022-05-01 |  |
+| [With You](https://open.spotify.com/track/78kjGxSfPU6YV5Rjej6Ebt) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [With You \(from Sold Out On You \(Original Soundtrack\) part 5\)](https://open.spotify.com/album/7rSG8qogZHS0vUk251fSRi) | 3:16 | 2026-04-30 |  |
 | [Without Me](https://open.spotify.com/track/6c0RvlZu9VWyVtnwaaurMA) | [BIG MAMA](https://open.spotify.com/artist/34SKCchNLFzBWclGa6l6tQ) | [Without Me](https://open.spotify.com/album/7fyfvL22yu3LMQVhQ8zI1p) | 4:13 | 2023-12-13 | 2024-01-13 |
 | [Word](https://open.spotify.com/track/3AK5YY1nLRhYxkSCemcNgE) | [Naul](https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1) | [Soul Pop City](https://open.spotify.com/album/6Rl0C2mMz4Xb4O3xhK8h5C) | 4:41 | 2023-08-16 | 2023-09-01 |
 | [Words From The Wind](https://open.spotify.com/track/1pgLgR2J3uviJoZeyn3ZBQ) | [Forestella](https://open.spotify.com/artist/4Phfy4o60wGqoPQFl5oCP8) | [Words From The Wind](https://open.spotify.com/album/3tTot2iuMI0qcBviT62OWB) | 3:58 | 2021-12-20 | 2022-07-27 |

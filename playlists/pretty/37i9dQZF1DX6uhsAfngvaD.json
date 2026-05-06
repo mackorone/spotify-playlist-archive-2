@@ -1,6 +1,6 @@
 {
   "description": "Blissful indie for dreamers.",
-  "num_followers": 321486,
+  "num_followers": 321489,
   "original_name": "Dreampop",
   "owner": {
     "name": "Spotify",
@@ -303,26 +303,6 @@
     {
       "added_at": "2025-05-01 21:52:32",
       "album": {
-        "name": "DJ-Kicks: Logic1000",
-        "url": "https://open.spotify.com/album/6TTv31Q89IYhRzxTVrENNx"
-      },
-      "artists": [
-        {
-          "name": "Oklou",
-          "url": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
-        },
-        {
-          "name": "Casey MQ",
-          "url": "https://open.spotify.com/artist/2LCeCCDzbmCOqnV33eB3q8"
-        }
-      ],
-      "duration_ms": 169997,
-      "name": "Lurk - Mixed",
-      "url": "https://open.spotify.com/track/064kl8lbsGVBN07jKkl014"
-    },
-    {
-      "added_at": "2025-05-01 21:52:32",
-      "album": {
         "name": "You and Me",
         "url": "https://open.spotify.com/album/4WmQIWuFrxPQc7Ae3LKDUQ"
       },
@@ -339,6 +319,26 @@
       "duration_ms": 225618,
       "name": "You and Me",
       "url": "https://open.spotify.com/track/4KE91Xg3FL51yMhnpSqRvE"
+    },
+    {
+      "added_at": "2025-05-01 21:52:32",
+      "album": {
+        "name": "DJ-Kicks: Logic1000",
+        "url": "https://open.spotify.com/album/6TTv31Q89IYhRzxTVrENNx"
+      },
+      "artists": [
+        {
+          "name": "Oklou",
+          "url": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
+        },
+        {
+          "name": "Casey MQ",
+          "url": "https://open.spotify.com/artist/2LCeCCDzbmCOqnV33eB3q8"
+        }
+      ],
+      "duration_ms": 169997,
+      "name": "Lurk - Mixed",
+      "url": "https://open.spotify.com/track/064kl8lbsGVBN07jKkl014"
     },
     {
       "added_at": "2025-05-01 21:52:32",
@@ -483,22 +483,6 @@
     {
       "added_at": "2025-05-01 21:52:32",
       "album": {
-        "name": "Love Song",
-        "url": "https://open.spotify.com/album/3CzGMHubMJyVA7Cp2UeYqH"
-      },
-      "artists": [
-        {
-          "name": "Softcult",
-          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
-        }
-      ],
-      "duration_ms": 171563,
-      "name": "Love Song",
-      "url": "https://open.spotify.com/track/3rQaxZaozQfrUEQx1PzT14"
-    },
-    {
-      "added_at": "2025-05-01 21:52:32",
-      "album": {
         "name": "Cellar",
         "url": "https://open.spotify.com/album/3SYtJKO826EDWOwvZvhdb8"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 245998,
       "name": "Cellar",
       "url": "https://open.spotify.com/track/6PWjL98PtO7QBbMzBYszNY"
+    },
+    {
+      "added_at": "2025-05-01 21:52:32",
+      "album": {
+        "name": "Love Song",
+        "url": "https://open.spotify.com/album/3CzGMHubMJyVA7Cp2UeYqH"
+      },
+      "artists": [
+        {
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+        }
+      ],
+      "duration_ms": 171563,
+      "name": "Love Song",
+      "url": "https://open.spotify.com/track/3rQaxZaozQfrUEQx1PzT14"
     },
     {
       "added_at": "2025-05-01 21:52:32",
@@ -731,6 +731,22 @@
     {
       "added_at": "2025-05-01 21:52:32",
       "album": {
+        "name": "Stay And Rest For A While",
+        "url": "https://open.spotify.com/album/1bSl8vFRJFYjLppddo8VrL"
+      },
+      "artists": [
+        {
+          "name": "Good Dog",
+          "url": "https://open.spotify.com/artist/1oJPedap0VtK48hM9Wm6S1"
+        }
+      ],
+      "duration_ms": 173259,
+      "name": "Stay And Rest For A While",
+      "url": "https://open.spotify.com/track/4tHWZg3t5LpOkdRd53gal2"
+    },
+    {
+      "added_at": "2025-05-01 21:52:32",
+      "album": {
         "name": "sulky baby",
         "url": "https://open.spotify.com/album/3MvISUCBgt0rFXGhuxJ7IJ"
       },
@@ -747,18 +763,18 @@
     {
       "added_at": "2025-05-01 21:52:32",
       "album": {
-        "name": "Stay And Rest For A While",
-        "url": "https://open.spotify.com/album/1bSl8vFRJFYjLppddo8VrL"
+        "name": "baby's out of luck again",
+        "url": "https://open.spotify.com/album/2iIFClmEgZcnxsq7F95NUs"
       },
       "artists": [
         {
-          "name": "Good Dog",
-          "url": "https://open.spotify.com/artist/1oJPedap0VtK48hM9Wm6S1"
+          "name": "april june",
+          "url": "https://open.spotify.com/artist/4WreACyfQITcXGx86xxYkG"
         }
       ],
-      "duration_ms": 173259,
-      "name": "Stay And Rest For A While",
-      "url": "https://open.spotify.com/track/4tHWZg3t5LpOkdRd53gal2"
+      "duration_ms": 149443,
+      "name": "baby\u2019s out of luck again",
+      "url": "https://open.spotify.com/track/2vvwLTYoHLSVqNslT91zgU"
     },
     {
       "added_at": "2025-05-01 21:52:32",
@@ -779,22 +795,6 @@
       "duration_ms": 263801,
       "name": "Back Into Your Arms",
       "url": "https://open.spotify.com/track/0RXXhrHZgLinM2Tb8k2ROk"
-    },
-    {
-      "added_at": "2025-05-01 21:52:32",
-      "album": {
-        "name": "baby's out of luck again",
-        "url": "https://open.spotify.com/album/2iIFClmEgZcnxsq7F95NUs"
-      },
-      "artists": [
-        {
-          "name": "april june",
-          "url": "https://open.spotify.com/artist/4WreACyfQITcXGx86xxYkG"
-        }
-      ],
-      "duration_ms": 149443,
-      "name": "baby\u2019s out of luck again",
-      "url": "https://open.spotify.com/track/2vvwLTYoHLSVqNslT91zgU"
     },
     {
       "added_at": "2025-05-01 21:52:32",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2025-05-01 21:52:32",
       "album": {
-        "name": "Honeybee",
-        "url": "https://open.spotify.com/album/31TfscfSs0SHkqhA7KEYwK"
-      },
-      "artists": [
-        {
-          "name": "Peach Luffe",
-          "url": "https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui"
-        }
-      ],
-      "duration_ms": 169477,
-      "name": "Honeybee",
-      "url": "https://open.spotify.com/track/0RRkuQwb77DpJ29Z2CDgHH"
-    },
-    {
-      "added_at": "2025-05-01 21:52:32",
-      "album": {
         "name": "Memoria",
         "url": "https://open.spotify.com/album/7w5COkBSsfMksBbXnDVog2"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 259642,
       "name": "No More Kissing In The Rain",
       "url": "https://open.spotify.com/track/6euR55gwJ65nxIPeXLPPwo"
+    },
+    {
+      "added_at": "2025-05-01 21:52:32",
+      "album": {
+        "name": "Honeybee",
+        "url": "https://open.spotify.com/album/31TfscfSs0SHkqhA7KEYwK"
+      },
+      "artists": [
+        {
+          "name": "Peach Luffe",
+          "url": "https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui"
+        }
+      ],
+      "duration_ms": 169477,
+      "name": "Honeybee",
+      "url": "https://open.spotify.com/track/0RRkuQwb77DpJ29Z2CDgHH"
     },
     {
       "added_at": "2025-05-01 21:52:32",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-[pma4real](https://open.spotify.com/user/jasonwaroff) - 784 likes - 106 songs - 5 hr 55 min
+[pma4real](https://open.spotify.com/user/jasonwaroff) - 790 likes - 109 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,5 +114,8 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 | 104 | [Heir To The Throne](https://open.spotify.com/track/3A0cKdejEnyr8wojgntQVH) | [Sweet Electric](https://open.spotify.com/artist/2I2JaAstxZhlU1fmnRZSEm) | [Heir To The Throne](https://open.spotify.com/album/3NekfNDmU7iDJbPqM5PzFB) | 4:09 |
 | 105 | [It's Cool](https://open.spotify.com/track/33gvSmXDDYTWGn3Y25GW0x) | [St.Arnaud](https://open.spotify.com/artist/320bGhRu3ZAem1ZWjXmRA5) | [St.Arnaud](https://open.spotify.com/album/2YdWz8Pzqj2f8jNS3EjIVV) | 4:23 |
 | 106 | [She Wants To Walk Away \(Distribution\)](https://open.spotify.com/track/4bzxN8X4P0vLf60nNOxeRn) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9) | [She Wants To Walk Away](https://open.spotify.com/album/2j7luFA0VH7aMbwF70JHCk) | 3:14 |
+| 107 | [Black Lashes](https://open.spotify.com/track/6GzppPjh6RuuoF9gkkRefR) | [The Jaded Lips](https://open.spotify.com/artist/6orV08XQAM5wA7Sm1BlrLx) | [Lip Service](https://open.spotify.com/album/4dQF4Bp3SoiFTkvGzv9ohI) | 4:02 |
+| 108 | [Amnesia](https://open.spotify.com/track/7FD4lLp5GBsRVEMWwYBBUp) | [Corey Drumz](https://open.spotify.com/artist/1FahdwAmCrNJVrH1rHGlML), [CeStyle](https://open.spotify.com/artist/6zDcQZkvdVjUv5HyqRKHCm) | [Amnesia](https://open.spotify.com/album/0a5SZcSO05pTCUXZOKBpfI) | 4:00 |
+| 109 | [1721](https://open.spotify.com/track/2o9VXvH23n3IGgkaogject) | [Recheal Chrismild](https://open.spotify.com/artist/0Y0N5wtZyxYHA67np5VXIO) | [1721](https://open.spotify.com/album/0CoDvYVYINl0w9eJAXBNpl) | 3:44 |
 
-Snapshot ID: `AAADli/pV7K+X+pMdc0xAgrWrWGI3qVh`
+Snapshot ID: `AAADma/D9bfoQOVm/l2OxgFX5ZKfbNr+`

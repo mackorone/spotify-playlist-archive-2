@@ -8656,7 +8656,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 244000,
       "name": "For A Feeling",
       "url": "https://open.spotify.com/track/7em1ClnL48z9Cak7rIyNrT"
@@ -16513,6 +16513,32 @@
     },
     {
       "album": {
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/6bP4727zYW6NemjkYYoolB"
+      },
+      "artists": [
+        {
+          "name": "nilsix",
+          "url": "https://open.spotify.com/artist/00S0dnexJEwjUFTEMTUC9I"
+        },
+        {
+          "name": "Orjan Nilsen",
+          "url": "https://open.spotify.com/artist/1YuNQvsvOsMBm0ahbxB8qM"
+        },
+        {
+          "name": "Mark Sixma",
+          "url": "https://open.spotify.com/artist/3ePCIHipMKD4n8IBXBYWSm"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169714,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/6gzCY0obpFYBdG09qAfWaC"
+    },
+    {
+      "album": {
         "name": "Nostos",
         "url": "https://open.spotify.com/album/58yo3r535V9qODGx2uzbHp"
       },
@@ -17368,7 +17394,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-02",
+      "date_removed": null,
       "duration_ms": 212903,
       "name": "Origins",
       "url": "https://open.spotify.com/track/7qBNcYFqCEKFsxxICaaxqO"
@@ -17854,7 +17880,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 260578,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/0MD3uMPbhJiX4QTz0i9iqA"

@@ -1,6 +1,6 @@
 {
   "description": "No, el punk espa\u00f1ol NO EST\u00c1 MUERTO. Foto: Non Servium.",
-  "num_followers": 115527,
+  "num_followers": 115543,
   "original_name": "Punk Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -751,6 +751,22 @@
     {
       "added_at": "2026-04-09 22:00:22",
       "album": {
+        "name": "Quiero que sepas",
+        "url": "https://open.spotify.com/album/63eBCTHHIFZw0gyEapFaIz"
+      },
+      "artists": [
+        {
+          "name": "Segismundo Toxic\u00f3mano",
+          "url": "https://open.spotify.com/artist/0sKBEhvr6hz7Wpptw0fY8U"
+        }
+      ],
+      "duration_ms": 170662,
+      "name": "Quiero que sepas",
+      "url": "https://open.spotify.com/track/33Dh6Ot8qS3nC13zAopC5y"
+    },
+    {
+      "added_at": "2026-04-09 22:00:22",
+      "album": {
         "name": "Discobolo",
         "url": "https://open.spotify.com/album/4RJ2f70YrdG7cGVJ2IgYFU"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 135626,
       "name": "Pogo",
       "url": "https://open.spotify.com/track/2Bs5xnNBDiKuWhX2LFxpoc"
-    },
-    {
-      "added_at": "2026-04-09 22:00:22",
-      "album": {
-        "name": "Quiero que sepas",
-        "url": "https://open.spotify.com/album/63eBCTHHIFZw0gyEapFaIz"
-      },
-      "artists": [
-        {
-          "name": "Segismundo Toxic\u00f3mano",
-          "url": "https://open.spotify.com/artist/0sKBEhvr6hz7Wpptw0fY8U"
-        }
-      ],
-      "duration_ms": 170662,
-      "name": "Quiero que sepas",
-      "url": "https://open.spotify.com/track/33Dh6Ot8qS3nC13zAopC5y"
     },
     {
       "added_at": "2026-04-09 22:00:22",
@@ -875,22 +875,6 @@
     {
       "added_at": "2026-04-09 22:00:22",
       "album": {
-        "name": "Sudapollismo Ilustrado",
-        "url": "https://open.spotify.com/album/4vkp4b9gVT5Lg8E5ppkLsr"
-      },
-      "artists": [
-        {
-          "name": "Carry",
-          "url": "https://open.spotify.com/artist/3P9Gth6aFRSStkfDZsYUcG"
-        }
-      ],
-      "duration_ms": 190426,
-      "name": "Sudapollismo Ilustrado",
-      "url": "https://open.spotify.com/track/0BB5RNNNGtHfkYIP0EyQt6"
-    },
-    {
-      "added_at": "2026-04-09 22:00:22",
-      "album": {
         "name": "Ahora soy un punkarra",
         "url": "https://open.spotify.com/album/1c1By2uCsRcq6TN20WmYFK"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 144944,
       "name": "Ahora soy un punkarra",
       "url": "https://open.spotify.com/track/0LxrU6acqExF3yRqm4CGNP"
+    },
+    {
+      "added_at": "2026-04-09 22:00:22",
+      "album": {
+        "name": "Sudapollismo Ilustrado",
+        "url": "https://open.spotify.com/album/4vkp4b9gVT5Lg8E5ppkLsr"
+      },
+      "artists": [
+        {
+          "name": "Carry",
+          "url": "https://open.spotify.com/artist/3P9Gth6aFRSStkfDZsYUcG"
+        }
+      ],
+      "duration_ms": 190426,
+      "name": "Sudapollismo Ilustrado",
+      "url": "https://open.spotify.com/track/0BB5RNNNGtHfkYIP0EyQt6"
     },
     {
       "added_at": "2026-04-09 22:00:22",
@@ -927,22 +927,6 @@
     {
       "added_at": "2026-04-09 22:00:22",
       "album": {
-        "name": "No Olvidamos, 3 de Marzo - Single",
-        "url": "https://open.spotify.com/album/0p3A6vidvVSIaA8lXxATVE"
-      },
-      "artists": [
-        {
-          "name": "Soziedad Alkoholika",
-          "url": "https://open.spotify.com/artist/2S5OOMthdyp3Qu4IbTGAQ3"
-        }
-      ],
-      "duration_ms": 231593,
-      "name": "No Olvidamos, 3 de Marzo",
-      "url": "https://open.spotify.com/track/4l7gui5pGuOs7sHLkGqeCX"
-    },
-    {
-      "added_at": "2026-04-09 22:00:22",
-      "album": {
         "name": "Figurante",
         "url": "https://open.spotify.com/album/09lLkyUYYdWGTfaDm6qiSt"
       },
@@ -959,22 +943,34 @@
     {
       "added_at": "2026-04-09 22:00:22",
       "album": {
-        "name": "Ana Curra y los 13 Ap\u00f3stoles Presentan: La \u00daltima Cena de Par\u00e1lisis Permanente",
-        "url": "https://open.spotify.com/album/0COz15FUuwBr02ogUbGdJA"
+        "name": "No Olvidamos, 3 de Marzo - Single",
+        "url": "https://open.spotify.com/album/0p3A6vidvVSIaA8lXxATVE"
       },
       "artists": [
         {
-          "name": "Ana Curra",
-          "url": "https://open.spotify.com/artist/17GqenWaUzLjbkH0IKJA5m"
-        },
-        {
-          "name": "Bala",
-          "url": "https://open.spotify.com/artist/5Cqy5kUi1EY01scjbz87eJ"
+          "name": "Soziedad Alkoholika",
+          "url": "https://open.spotify.com/artist/2S5OOMthdyp3Qu4IbTGAQ3"
         }
       ],
-      "duration_ms": 189493,
-      "name": "Adictos a la Lujuria - con \u00c1nxela (Bala)",
-      "url": "https://open.spotify.com/track/36aKaIj6aD2MLkBiCTT1hZ"
+      "duration_ms": 231593,
+      "name": "No Olvidamos, 3 de Marzo",
+      "url": "https://open.spotify.com/track/4l7gui5pGuOs7sHLkGqeCX"
+    },
+    {
+      "added_at": "2026-04-09 22:00:22",
+      "album": {
+        "name": "Antifascismo",
+        "url": "https://open.spotify.com/album/1NB2KlLDkVFJLJPlMg7zXU"
+      },
+      "artists": [
+        {
+          "name": "Kaos Urbano",
+          "url": "https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4"
+        }
+      ],
+      "duration_ms": 260127,
+      "name": "Antifascismo",
+      "url": "https://open.spotify.com/track/0V945W0o8KQijRUY98x59d"
     },
     {
       "added_at": "2026-04-09 22:00:22",
@@ -995,18 +991,22 @@
     {
       "added_at": "2026-04-09 22:00:22",
       "album": {
-        "name": "Antifascismo",
-        "url": "https://open.spotify.com/album/1NB2KlLDkVFJLJPlMg7zXU"
+        "name": "Ana Curra y los 13 Ap\u00f3stoles Presentan: La \u00daltima Cena de Par\u00e1lisis Permanente",
+        "url": "https://open.spotify.com/album/0COz15FUuwBr02ogUbGdJA"
       },
       "artists": [
         {
-          "name": "Kaos Urbano",
-          "url": "https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4"
+          "name": "Ana Curra",
+          "url": "https://open.spotify.com/artist/17GqenWaUzLjbkH0IKJA5m"
+        },
+        {
+          "name": "Bala",
+          "url": "https://open.spotify.com/artist/5Cqy5kUi1EY01scjbz87eJ"
         }
       ],
-      "duration_ms": 260127,
-      "name": "Antifascismo",
-      "url": "https://open.spotify.com/track/0V945W0o8KQijRUY98x59d"
+      "duration_ms": 189493,
+      "name": "Adictos a la Lujuria - con \u00c1nxela (Bala)",
+      "url": "https://open.spotify.com/track/36aKaIj6aD2MLkBiCTT1hZ"
     },
     {
       "added_at": "2026-04-09 22:00:22",
@@ -1099,26 +1099,6 @@
     {
       "added_at": "2026-04-09 22:00:22",
       "album": {
-        "name": "O Mundo Toleou",
-        "url": "https://open.spotify.com/album/0SGKBiTKEXGACMk9mepESk"
-      },
-      "artists": [
-        {
-          "name": "Residuos Do Sistema",
-          "url": "https://open.spotify.com/artist/3jQFONl2KOkCENGhDnJzWo"
-        },
-        {
-          "name": "Soak",
-          "url": "https://open.spotify.com/artist/1sFx9AKYzR2OQYrUin52Pa"
-        }
-      ],
-      "duration_ms": 218227,
-      "name": "O Mundo Toleou",
-      "url": "https://open.spotify.com/track/0L3iUfeunkRbkftq1ZnYsA"
-    },
-    {
-      "added_at": "2026-04-09 22:00:22",
-      "album": {
         "name": "Molestar",
         "url": "https://open.spotify.com/album/1WNGYIGYF0NdeFAZBIAoa8"
       },
@@ -1151,6 +1131,26 @@
     {
       "added_at": "2026-04-09 22:00:22",
       "album": {
+        "name": "O Mundo Toleou",
+        "url": "https://open.spotify.com/album/0SGKBiTKEXGACMk9mepESk"
+      },
+      "artists": [
+        {
+          "name": "Residuos Do Sistema",
+          "url": "https://open.spotify.com/artist/3jQFONl2KOkCENGhDnJzWo"
+        },
+        {
+          "name": "Soak",
+          "url": "https://open.spotify.com/artist/1sFx9AKYzR2OQYrUin52Pa"
+        }
+      ],
+      "duration_ms": 218227,
+      "name": "O Mundo Toleou",
+      "url": "https://open.spotify.com/track/0L3iUfeunkRbkftq1ZnYsA"
+    },
+    {
+      "added_at": "2026-04-09 22:00:22",
+      "album": {
         "name": "Asesinos",
         "url": "https://open.spotify.com/album/795sm61CeAsygXN9TlRnNc"
       },
@@ -1163,26 +1163,6 @@
       "duration_ms": 176117,
       "name": "Asesinos",
       "url": "https://open.spotify.com/track/0CRt6D5Rvprkc7ldCixcSJ"
-    },
-    {
-      "added_at": "2026-04-09 22:00:22",
-      "album": {
-        "name": "CABE\u00c7A",
-        "url": "https://open.spotify.com/album/2sA1DJhkHm3hxPZOcEL1c3"
-      },
-      "artists": [
-        {
-          "name": "Sandr\u00e9",
-          "url": "https://open.spotify.com/artist/5jO693ntO8nc5utL8HpE4H"
-        },
-        {
-          "name": "Miguelito Garc\u00eda",
-          "url": "https://open.spotify.com/artist/0hGbfFHeG8GY5idG4PO31p"
-        }
-      ],
-      "duration_ms": 182160,
-      "name": "CABE\u00c7A",
-      "url": "https://open.spotify.com/track/0u5uK4KlYcKuqstlOeBI41"
     },
     {
       "added_at": "2026-04-09 22:00:22",
@@ -1207,6 +1187,26 @@
       "duration_ms": 220942,
       "name": "Una y Nos Vamos - Versi\u00f3n 2024",
       "url": "https://open.spotify.com/track/1ojM4BgQqqAMeOVhuoSaqx"
+    },
+    {
+      "added_at": "2026-04-09 22:00:22",
+      "album": {
+        "name": "CABE\u00c7A",
+        "url": "https://open.spotify.com/album/2sA1DJhkHm3hxPZOcEL1c3"
+      },
+      "artists": [
+        {
+          "name": "Sandr\u00e9",
+          "url": "https://open.spotify.com/artist/5jO693ntO8nc5utL8HpE4H"
+        },
+        {
+          "name": "Miguelito Garc\u00eda",
+          "url": "https://open.spotify.com/artist/0hGbfFHeG8GY5idG4PO31p"
+        }
+      ],
+      "duration_ms": 182160,
+      "name": "CABE\u00c7A",
+      "url": "https://open.spotify.com/track/0u5uK4KlYcKuqstlOeBI41"
     },
     {
       "added_at": "2026-04-09 22:00:22",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2026-04-09 22:00:22",
       "album": {
-        "name": "Arde Ribera",
-        "url": "https://open.spotify.com/album/4miZbn6vSzsHLvCUMSBX1s"
-      },
-      "artists": [
-        {
-          "name": "Piperrak",
-          "url": "https://open.spotify.com/artist/0kya4eL7YgduZ1RAbO6Uou"
-        }
-      ],
-      "duration_ms": 170686,
-      "name": "Mi Primer Amor",
-      "url": "https://open.spotify.com/track/2oRmhBSPhWNScSkwR7x8xi"
-    },
-    {
-      "added_at": "2026-04-09 22:00:22",
-      "album": {
         "name": "Pura dinamita",
         "url": "https://open.spotify.com/album/40FbSqsn2UaGp9n58PPZs9"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 236888,
       "name": "Pura dinamita",
       "url": "https://open.spotify.com/track/4HTiRTeezS06D5LkLrNkKC"
+    },
+    {
+      "added_at": "2026-04-09 22:00:22",
+      "album": {
+        "name": "Arde Ribera",
+        "url": "https://open.spotify.com/album/4miZbn6vSzsHLvCUMSBX1s"
+      },
+      "artists": [
+        {
+          "name": "Piperrak",
+          "url": "https://open.spotify.com/artist/0kya4eL7YgduZ1RAbO6Uou"
+        }
+      ],
+      "duration_ms": 170686,
+      "name": "Mi Primer Amor",
+      "url": "https://open.spotify.com/track/2oRmhBSPhWNScSkwR7x8xi"
     },
     {
       "added_at": "2026-04-09 22:00:22",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2026-04-09 22:00:22",
       "album": {
-        "name": "Arde Ribera",
-        "url": "https://open.spotify.com/album/4miZbn6vSzsHLvCUMSBX1s"
-      },
-      "artists": [
-        {
-          "name": "Piperrak",
-          "url": "https://open.spotify.com/artist/0kya4eL7YgduZ1RAbO6Uou"
-        }
-      ],
-      "duration_ms": 249719,
-      "name": "Kualkier D\u00eda",
-      "url": "https://open.spotify.com/track/1I9u9TGitfcJzOXV1fCM9B"
-    },
-    {
-      "added_at": "2026-04-09 22:00:22",
-      "album": {
         "name": "Salve",
         "url": "https://open.spotify.com/album/1XCAxFWUmdLpI0WEtfBYmU"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 186000,
       "name": "Salve",
       "url": "https://open.spotify.com/track/3A5g4sFwzahqS2B3NeqNV2"
+    },
+    {
+      "added_at": "2026-04-09 22:00:22",
+      "album": {
+        "name": "Arde Ribera",
+        "url": "https://open.spotify.com/album/4miZbn6vSzsHLvCUMSBX1s"
+      },
+      "artists": [
+        {
+          "name": "Piperrak",
+          "url": "https://open.spotify.com/artist/0kya4eL7YgduZ1RAbO6Uou"
+        }
+      ],
+      "duration_ms": 249719,
+      "name": "Kualkier D\u00eda",
+      "url": "https://open.spotify.com/track/1I9u9TGitfcJzOXV1fCM9B"
     },
     {
       "added_at": "2026-04-09 22:00:22",

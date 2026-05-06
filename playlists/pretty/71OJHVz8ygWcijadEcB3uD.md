@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/71OJHVz8ygWcijadEcB3uD.md) - [plain]
 
 > Listen to the best Rock musics🔥.
 
-[BLX RECORDS](https://open.spotify.com/user/31kk7jt42cb2wl27pkokzrwdsl7q) - 813 likes - 518 songs - 1 day 7 hr 22 min
+[BLX RECORDS](https://open.spotify.com/user/31kk7jt42cb2wl27pkokzrwdsl7q) - 813 likes - 519 songs - 1 day 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -526,5 +526,6 @@ pretty - [cumulative](/playlists/cumulative/71OJHVz8ygWcijadEcB3uD.md) - [plain]
 | 516 | [Altercations](https://open.spotify.com/track/2aM4hkQFepJgw2ficSl0wR) | [Dead Gaze NL](https://open.spotify.com/artist/4kPDKixHbo3tXZXzQZhJ2A) | [Altercations](https://open.spotify.com/album/00Mly2yRdIZ40v7BTtrMiA) | 5:10 |
 | 517 | [Stoneward Bound](https://open.spotify.com/track/0pqdMbZ1Mp1pcMeSLfq422) | [Dead Gaze NL](https://open.spotify.com/artist/4kPDKixHbo3tXZXzQZhJ2A) | [Stoneward Bound](https://open.spotify.com/album/0P78NFFiWeIKkKpAqVzEwl) | 3:04 |
 | 518 | [On A Roll](https://open.spotify.com/track/7E9HCL0ZI61UI6ndHLPTx7) | [Altered Edge](https://open.spotify.com/artist/1LK0zVegel8RFJsECz7QQ5) | [On A Roll](https://open.spotify.com/album/2zIQdy96c3oWTLsf7d6J6B) | 3:52 |
+| 519 | [Entre Dois Andares](https://open.spotify.com/track/0scmdc0oEyDjMPgVERTrHj) | [Andre Thanatos](https://open.spotify.com/artist/2WYOgSQsYe0F3Xr8JzDRyC) | [Entre Dois Andares](https://open.spotify.com/album/4m69QWihV60vQiFBuvMwFW) | 3:59 |
 
-Snapshot ID: `AAAExhqKIM0F7Ew4Uax8ZReM0QO3vlK7`
+Snapshot ID: `AAAEx9EfrSk7v+5oPh47sjq5vC58VWk9`

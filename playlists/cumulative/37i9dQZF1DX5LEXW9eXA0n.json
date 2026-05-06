@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "New & hot K-Pop ballads. (Cover: \uc774\ucc3d\uc12d (LEECHANGSUB ) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "New & hot K-Pop ballads. (Cover: \uc18c\uc218\ube48(So Soo Bin)) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "\ubc1c\ub77c\ub4dc, \ub824\uc694 (K-Pop Ballad Hits)",
   "tracks": [
     {
@@ -330,6 +330,24 @@
       "duration_ms": 224640,
       "name": "A Fairy Tale",
       "url": "https://open.spotify.com/track/6wiZ4T7wd5HtvMCjsZ9w4S"
+    },
+    {
+      "album": {
+        "name": "LEESEOKHOON Digital Single 'A Fairytale for You and Me'",
+        "url": "https://open.spotify.com/album/3hgIg0OkatYzBmwIxqftsP"
+      },
+      "artists": [
+        {
+          "name": "Lee Seok Hoon",
+          "url": "https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207320,
+      "name": "A Fairytale for You and Me",
+      "url": "https://open.spotify.com/track/6LSk4i1D5XwzsnAkYb4RJT"
     },
     {
       "album": {
@@ -686,7 +704,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 237954,
       "name": "A Story I Never Told You",
       "url": "https://open.spotify.com/track/5nZ8BMC3OCcEBX5pnGoKdR"
@@ -4463,6 +4481,24 @@
     },
     {
       "album": {
+        "name": "Yumi's Cells 3, Pt. 5 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/53SS9cdnjlMDZ1LAurBtDM"
+      },
+      "artists": [
+        {
+          "name": "ANTON",
+          "url": "https://open.spotify.com/artist/4J1Agk3SPA2vnNutZIrizP"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Close to Me",
+      "url": "https://open.spotify.com/track/7MCeiN7GRhf6x2YV79uaFt"
+    },
+    {
+      "album": {
         "name": "When the Stars Gossip OST Part.3",
         "url": "https://open.spotify.com/album/5dQAvvKAG5diJ5DLEHCGcc"
       },
@@ -5540,7 +5576,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-02",
+      "date_removed": null,
       "duration_ms": 253000,
       "name": "Do you know",
       "url": "https://open.spotify.com/track/5skgrMCFS9SiBSOhcvJ9EQ"
@@ -9108,6 +9144,24 @@
       "duration_ms": 179811,
       "name": "Have You Been Well?",
       "url": "https://open.spotify.com/track/6qZ6fPm0thFsNiV0IoXPqP"
+    },
+    {
+      "album": {
+        "name": "He Broke Up",
+        "url": "https://open.spotify.com/album/6ZqhKdNbdssQzaJKFTlb8F"
+      },
+      "artists": [
+        {
+          "name": "Gavy NJ",
+          "url": "https://open.spotify.com/artist/6Iyc2IvCGBNStXUmPa8hmu"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263786,
+      "name": "He Broke Up",
+      "url": "https://open.spotify.com/track/5TT2xjJZ9BtmnTvJEgI9uu"
     },
     {
       "album": {
@@ -14568,7 +14622,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 218861,
       "name": "Life is a Drama",
       "url": "https://open.spotify.com/track/3doz1ZA13QjszPBEgze1pn"
@@ -14846,7 +14900,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 225000,
       "name": "Like Spring",
       "url": "https://open.spotify.com/track/67YLguFMT7wbJl2dSXeNGE"
@@ -15470,7 +15524,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 216000,
       "name": "lost & found",
       "url": "https://open.spotify.com/track/1Qn1DdATozoac8hFISJg4z"
@@ -17663,6 +17717,24 @@
     },
     {
       "album": {
+        "name": "Perfect Crown OST Part.7",
+        "url": "https://open.spotify.com/album/6CvlT4A9KaR3R9lEsBrIf2"
+      },
+      "artists": [
+        {
+          "name": "So Soo Bin",
+          "url": "https://open.spotify.com/artist/5ghNwcHNesKq0Q3zfK39ic"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163000,
+      "name": "My Favorite Part",
+      "url": "https://open.spotify.com/track/5dIOCXso34DrUcMSYl9oCc"
+    },
+    {
+      "album": {
         "name": "My Feelings for You will Never Change",
         "url": "https://open.spotify.com/album/6JAaQPpuauWTLTxQuSpBFq"
       },
@@ -17692,7 +17764,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 250000,
       "name": "My first and last love",
       "url": "https://open.spotify.com/track/46BTa0mRxUNMkIper1akV7"
@@ -20536,6 +20608,24 @@
       "duration_ms": 252000,
       "name": "Prayer",
       "url": "https://open.spotify.com/track/4H2LzU0FcdA3MrIkk4RSRD"
+    },
+    {
+      "album": {
+        "name": "PRESENT",
+        "url": "https://open.spotify.com/album/3G7FhoPI5RzbGEF1XfrPUg"
+      },
+      "artists": [
+        {
+          "name": "OYEON",
+          "url": "https://open.spotify.com/artist/70Bw6088swdPQR9ryUJ8Q9"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236769,
+      "name": "PRESENT",
+      "url": "https://open.spotify.com/track/064DkO0Ud4OVAd1KIlreZY"
     },
     {
       "album": {
@@ -24650,7 +24740,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-02",
+      "date_removed": null,
       "duration_ms": 180000,
       "name": "Tell The World",
       "url": "https://open.spotify.com/track/4Por0pRb3LvDDlLuQxXEfM"
@@ -26256,7 +26346,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 212000,
       "name": "Think About You",
       "url": "https://open.spotify.com/track/7ldVvgxxR9DFYq8UJoBnud"
@@ -31598,7 +31688,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 251000,
       "name": "\uc18c\ub780\uc2a4\ub7f0 \uc774\ubcc4 (Our Loud Goodbye)",
       "url": "https://open.spotify.com/track/1kSN5UZ3XToeK6aNORsNMf"

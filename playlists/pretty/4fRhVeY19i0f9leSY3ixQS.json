@@ -6,7 +6,7 @@
     "name": "Avondale Records",
     "url": "https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq"
   },
-  "snapshot_id": "AAAOzAvCS8RFzgie4LyB89BGtnOKxMhV",
+  "snapshot_id": "AAAO2tX8vPmCsUvrqMOiLqXwwA/z6lu4",
   "tracks": [
     {
       "added_at": "2026-04-23 04:57:04",
@@ -141,6 +141,62 @@
       "url": "https://open.spotify.com/track/0fnFRIU30fd7hyEmTajgoh"
     },
     {
+      "added_at": "2025-08-03 07:05:37",
+      "album": {
+        "name": "Can't Get You Out of My Head (Audio Pulleys Remix)",
+        "url": "https://open.spotify.com/album/4QoRaGoXtHZueTqvhzOXQU"
+      },
+      "artists": [
+        {
+          "name": "Pickap.art",
+          "url": "https://open.spotify.com/artist/4TMb7hw4kEDZdxMK9IYLUc"
+        },
+        {
+          "name": "Audio Pulleys",
+          "url": "https://open.spotify.com/artist/6R1MH58VI4crgVPxnlxK7t"
+        }
+      ],
+      "duration_ms": 185777,
+      "name": "Can't Get You Out of My Head - Audio Pulleys Remix",
+      "url": "https://open.spotify.com/track/0TizK9mGVoFiRebj7JP3AP"
+    },
+    {
+      "added_at": "2026-05-06 03:15:15",
+      "album": {
+        "name": "Wisdom Teeth",
+        "url": "https://open.spotify.com/album/2Ck3lqyg3Js0kQgOxmm8AB"
+      },
+      "artists": [
+        {
+          "name": "Wisdom Teeth",
+          "url": "https://open.spotify.com/artist/6CHrghLIZxb7jPZaHQmT9Q"
+        }
+      ],
+      "duration_ms": 163759,
+      "name": "Set Me Free",
+      "url": "https://open.spotify.com/track/04XeYsa4gKn6Se1cEonolA"
+    },
+    {
+      "added_at": "2026-05-06 03:03:36",
+      "album": {
+        "name": "Playing With Fire",
+        "url": "https://open.spotify.com/album/4Z5ZpRDeGXiBNIZZ3Ewm4J"
+      },
+      "artists": [
+        {
+          "name": "The PennyPound",
+          "url": "https://open.spotify.com/artist/2QhZfUGvvm4AA07JNVY4SS"
+        },
+        {
+          "name": "Michael Ivor",
+          "url": "https://open.spotify.com/artist/1ECUGtk3IDoH9PvIYu4R6A"
+        }
+      ],
+      "duration_ms": 153258,
+      "name": "Playing With Fire",
+      "url": "https://open.spotify.com/track/6xaMY5HgrVf5Wz1ItwzkvR"
+    },
+    {
       "added_at": "2026-05-01 15:38:24",
       "album": {
         "name": "A Violent Phenomenon",
@@ -155,6 +211,42 @@
       "duration_ms": 170117,
       "name": "Everything Is Forever Until It Ends",
       "url": "https://open.spotify.com/track/50pDOdKch7VKkPlxfV2wNf"
+    },
+    {
+      "added_at": "2026-05-05 13:30:39",
+      "album": {
+        "name": "Desert Rain",
+        "url": "https://open.spotify.com/album/73I0Frj5Kzq74qYKiNOCFh"
+      },
+      "artists": [
+        {
+          "name": "The Operating Room",
+          "url": "https://open.spotify.com/artist/4EvlkZr3kmmMH3w3cZ7yfP"
+        }
+      ],
+      "duration_ms": 225312,
+      "name": "Desert Rain",
+      "url": "https://open.spotify.com/track/1kF4Qbv0xdZzBT0iQUWA40"
+    },
+    {
+      "added_at": "2026-05-05 13:27:11",
+      "album": {
+        "name": "Blue Skies",
+        "url": "https://open.spotify.com/album/1RBlxsu43h0kjVgYfmf3yI"
+      },
+      "artists": [
+        {
+          "name": "lovelost",
+          "url": "https://open.spotify.com/artist/2FcM9tp729UkOueuN2rR4E"
+        },
+        {
+          "name": "Ghost Year",
+          "url": "https://open.spotify.com/artist/6eXnQT7YLQReLrW7XyT16E"
+        }
+      ],
+      "duration_ms": 192710,
+      "name": "Blue Skies",
+      "url": "https://open.spotify.com/track/7fHkcRj0Qu1M25WyCucgmB"
     },
     {
       "added_at": "2026-05-04 21:39:27",
@@ -207,26 +299,6 @@
       "duration_ms": 158893,
       "name": "Fucked Up Nation",
       "url": "https://open.spotify.com/track/3I2amMW47X5PiVNiAELfrx"
-    },
-    {
-      "added_at": "2025-08-03 07:05:37",
-      "album": {
-        "name": "Can't Get You Out of My Head (Audio Pulleys Remix)",
-        "url": "https://open.spotify.com/album/4QoRaGoXtHZueTqvhzOXQU"
-      },
-      "artists": [
-        {
-          "name": "Pickap.art",
-          "url": "https://open.spotify.com/artist/4TMb7hw4kEDZdxMK9IYLUc"
-        },
-        {
-          "name": "Audio Pulleys",
-          "url": "https://open.spotify.com/artist/6R1MH58VI4crgVPxnlxK7t"
-        }
-      ],
-      "duration_ms": 185777,
-      "name": "Can't Get You Out of My Head - Audio Pulleys Remix",
-      "url": "https://open.spotify.com/track/0TizK9mGVoFiRebj7JP3AP"
     },
     {
       "added_at": "2026-05-01 14:07:49",
@@ -1763,54 +1835,6 @@
       "duration_ms": 177693,
       "name": "Shrine 2026",
       "url": "https://open.spotify.com/track/11ipToPPa63Bhny2MXULu0"
-    },
-    {
-      "added_at": "2026-04-04 20:45:07",
-      "album": {
-        "name": "The Great Mistake",
-        "url": "https://open.spotify.com/album/4y0Eaazuth5SRSAWSdDcQi"
-      },
-      "artists": [
-        {
-          "name": "Victories",
-          "url": "https://open.spotify.com/artist/3xz80Fjc2rPTVwxJEILllA"
-        }
-      ],
-      "duration_ms": 157000,
-      "name": "The Great Mistake",
-      "url": "https://open.spotify.com/track/0lZuhiK4QZJcuf6gGMSTyi"
-    },
-    {
-      "added_at": "2026-04-04 15:49:00",
-      "album": {
-        "name": "Feral Lane",
-        "url": "https://open.spotify.com/album/2OASBR0A91EgmBK8BnEiNc"
-      },
-      "artists": [
-        {
-          "name": "Beyond Brookhaven",
-          "url": "https://open.spotify.com/artist/0csy52k7kF3hehUZUd5G5g"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "Feral Lane",
-      "url": "https://open.spotify.com/track/43ve0SDtFW96YcHCYIv4Bd"
-    },
-    {
-      "added_at": "2026-04-04 05:30:00",
-      "album": {
-        "name": "War / Modern Slavery",
-        "url": "https://open.spotify.com/album/3ArgHxxt8iJZvLpAyGQrQf"
-      },
-      "artists": [
-        {
-          "name": "Sikmetra",
-          "url": "https://open.spotify.com/artist/1Jlw34Un9ZfXIdakewsDvI"
-        }
-      ],
-      "duration_ms": 175500,
-      "name": "War (In our city)",
-      "url": "https://open.spotify.com/track/7f9V3CsJkjxvwPZmD5Mg9m"
     },
     {
       "added_at": "2026-03-31 11:19:08",
@@ -4959,6 +4983,90 @@
       "duration_ms": 175146,
       "name": "No Angel Is Watching",
       "url": "https://open.spotify.com/track/3Cjct6UfADZsVdXdRHmOae"
+    },
+    {
+      "added_at": "2026-05-05 13:32:18",
+      "album": {
+        "name": "Close My Eyes",
+        "url": "https://open.spotify.com/album/1HYQzX8zOgvdqacpqBCV4a"
+      },
+      "artists": [
+        {
+          "name": "Twentysixscarydays",
+          "url": "https://open.spotify.com/artist/79SjYJNUoP2c2Nnvw4Z4YT"
+        }
+      ],
+      "duration_ms": 184301,
+      "name": "Close My Eyes",
+      "url": "https://open.spotify.com/track/0V9X536h968KmcmHRObqVt"
+    },
+    {
+      "added_at": "2026-05-05 13:34:13",
+      "album": {
+        "name": "THELASTIME",
+        "url": "https://open.spotify.com/album/6RscKRqZ5aTdYOgYDMi0jT"
+      },
+      "artists": [
+        {
+          "name": "Aflu Enza",
+          "url": "https://open.spotify.com/artist/3DYCDgO6xWXXUPg7fHPyxz"
+        }
+      ],
+      "duration_ms": 170602,
+      "name": "Low-Poly Demake",
+      "url": "https://open.spotify.com/track/59abIdqujbaNscfsMEnAoy"
+    },
+    {
+      "added_at": "2026-05-06 03:00:49",
+      "album": {
+        "name": "Faithlessly",
+        "url": "https://open.spotify.com/album/1wTuFBEAb8rOAKpQgcbCaX"
+      },
+      "artists": [
+        {
+          "name": "Future Mondays",
+          "url": "https://open.spotify.com/artist/3VMpqGkVVuW4nTUJw9v2rt"
+        }
+      ],
+      "duration_ms": 153653,
+      "name": "Faithlessly",
+      "url": "https://open.spotify.com/track/5UC1GFndf9Mk6SzKPT9gu1"
+    },
+    {
+      "added_at": "2026-05-06 03:01:39",
+      "album": {
+        "name": "Blue, Deepest Blue",
+        "url": "https://open.spotify.com/album/33pzXi7wLOKUn1Xzn21UOm"
+      },
+      "artists": [
+        {
+          "name": "Bad Script",
+          "url": "https://open.spotify.com/artist/6z0JS9G1jFH6DgwYsEZK3j"
+        },
+        {
+          "name": "Eisbaer",
+          "url": "https://open.spotify.com/artist/0m7zIZso0fkCszNBALVd3G"
+        }
+      ],
+      "duration_ms": 361442,
+      "name": "Valley",
+      "url": "https://open.spotify.com/track/7q7OzKG9tmTLkIteBE4I45"
+    },
+    {
+      "added_at": "2026-05-06 03:02:20",
+      "album": {
+        "name": "56",
+        "url": "https://open.spotify.com/album/1KJ6BkYzHFNOn353EEtS1q"
+      },
+      "artists": [
+        {
+          "name": "Undermine",
+          "url": "https://open.spotify.com/artist/5nCmlca0TXzHtF3gGXJ8eZ"
+        }
+      ],
+      "duration_ms": 98910,
+      "name": "56",
+      "url": "https://open.spotify.com/track/4AxTb7Qv6fvAYgOKD5GYs8"
     }
   ],
   "unique_name": "Shuffle Roulette",

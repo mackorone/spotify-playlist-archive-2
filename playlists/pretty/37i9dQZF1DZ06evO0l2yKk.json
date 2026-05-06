@@ -1,12 +1,12 @@
 {
   "description": "This is Cardenales De Nuevo Le\u00f3n. The essential tracks, all in one playlist.",
-  "num_followers": 202023,
+  "num_followers": 202066,
   "original_name": "This Is Cardenales De Nuevo Le\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afaQAAAAAAByF7GFLehp6kLGGx5sJLpc",
+  "snapshot_id": "affhgAAAAABBgDjc6VFOJEUmcjE5+tUx",
   "tracks": [
     {
       "added_at": null,
@@ -587,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "20 Corridos Bien Perrones",
-        "url": "https://open.spotify.com/album/2b8XaXRNRzEGPkQrHHk0lk"
+        "name": "Fuego Contra Fuego",
+        "url": "https://open.spotify.com/album/0IAQTzZUZkgwMfN5hZJjp3"
       },
       "artists": [
         {
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
         }
       ],
-      "duration_ms": 193666,
-      "name": "Misa De Cuerpo Presente",
-      "url": "https://open.spotify.com/track/1jrYMPk03g06ijNO6Qq8AH"
+      "duration_ms": 186146,
+      "name": "Fuego Contra Fuego",
+      "url": "https://open.spotify.com/track/16nv4K5VMV5UkE4KdE81Ow"
     },
     {
       "added_at": null,
@@ -619,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fuego Contra Fuego",
-        "url": "https://open.spotify.com/album/0IAQTzZUZkgwMfN5hZJjp3"
+        "name": "20 Corridos Bien Perrones",
+        "url": "https://open.spotify.com/album/2b8XaXRNRzEGPkQrHHk0lk"
       },
       "artists": [
         {
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
         }
       ],
-      "duration_ms": 186146,
-      "name": "Fuego Contra Fuego",
-      "url": "https://open.spotify.com/track/16nv4K5VMV5UkE4KdE81Ow"
+      "duration_ms": 193666,
+      "name": "Misa De Cuerpo Presente",
+      "url": "https://open.spotify.com/track/1jrYMPk03g06ijNO6Qq8AH"
     },
     {
       "added_at": null,
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con Muchas Ganas",
-        "url": "https://open.spotify.com/album/2MOExkDSqVzW1ahSYTBU3V"
-      },
-      "artists": [
-        {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        }
-      ],
-      "duration_ms": 180546,
-      "name": "No Puedo Mas",
-      "url": "https://open.spotify.com/track/0g9Rjljak6cAUeR0he3oo9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Que Nadie Sepa",
         "url": "https://open.spotify.com/album/6JVwjpwLcZgWMw56dDVSxr"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 167066,
       "name": "Por las Damas Caballero",
       "url": "https://open.spotify.com/track/5O5Ys0jXCp1jFcrqkq54yj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Con Muchas Ganas",
+        "url": "https://open.spotify.com/album/2MOExkDSqVzW1ahSYTBU3V"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        }
+      ],
+      "duration_ms": 180546,
+      "name": "No Puedo Mas",
+      "url": "https://open.spotify.com/track/0g9Rjljak6cAUeR0he3oo9"
     }
   ],
   "unique_name": "This Is Cardenales De Nuevo Le\u00f3n",

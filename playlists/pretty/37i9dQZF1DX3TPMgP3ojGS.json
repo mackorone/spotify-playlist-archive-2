@@ -1,6 +1,6 @@
 {
   "description": "Soft (the quietest of them all), subtle, no words needed. Take a sip and enjoy the music of composers from around the world.",
-  "num_followers": 477701,
+  "num_followers": 477748,
   "original_name": "Coffee and Piano",
   "owner": {
     "name": "Spotify",
@@ -63,18 +63,18 @@
     {
       "added_at": "2026-04-17 03:51:33",
       "album": {
-        "name": "Cataverdis",
-        "url": "https://open.spotify.com/album/7tGqajhsfJf24VmrE96j9s"
+        "name": "Arbor",
+        "url": "https://open.spotify.com/album/3UqI8H7dI34eg3yTf7aa1C"
       },
       "artists": [
         {
-          "name": "Ren Lockhart",
-          "url": "https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp"
+          "name": "Samuel Kees",
+          "url": "https://open.spotify.com/artist/6KGVoP7dCFZ2FILUCCj4rn"
         }
       ],
-      "duration_ms": 149629,
-      "name": "Cataverdis",
-      "url": "https://open.spotify.com/track/6Qqto6duuFLcAUvTEsacwS"
+      "duration_ms": 155500,
+      "name": "Arbor",
+      "url": "https://open.spotify.com/track/0BDaM0EnJiCl6jmWAIERk3"
     },
     {
       "added_at": "2026-04-17 03:51:33",
@@ -111,18 +111,18 @@
     {
       "added_at": "2026-04-17 03:51:33",
       "album": {
-        "name": "Arbor",
-        "url": "https://open.spotify.com/album/3UqI8H7dI34eg3yTf7aa1C"
+        "name": "Cataverdis",
+        "url": "https://open.spotify.com/album/7tGqajhsfJf24VmrE96j9s"
       },
       "artists": [
         {
-          "name": "Samuel Kees",
-          "url": "https://open.spotify.com/artist/6KGVoP7dCFZ2FILUCCj4rn"
+          "name": "Ren Lockhart",
+          "url": "https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp"
         }
       ],
-      "duration_ms": 155500,
-      "name": "Arbor",
-      "url": "https://open.spotify.com/track/0BDaM0EnJiCl6jmWAIERk3"
+      "duration_ms": 149629,
+      "name": "Cataverdis",
+      "url": "https://open.spotify.com/track/6Qqto6duuFLcAUvTEsacwS"
     },
     {
       "added_at": "2026-04-17 03:51:33",
@@ -663,22 +663,6 @@
     {
       "added_at": "2026-04-17 03:51:33",
       "album": {
-        "name": "Under",
-        "url": "https://open.spotify.com/album/0tVEjAfGFPBdtvql2BUHKs"
-      },
-      "artists": [
-        {
-          "name": "Hideyuki Hashimoto",
-          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Turn",
-      "url": "https://open.spotify.com/track/0y7I045qDUH1carkgTB2UG"
-    },
-    {
-      "added_at": "2026-04-17 03:51:33",
-      "album": {
         "name": "Lofoten",
         "url": "https://open.spotify.com/album/0FsLOcwk1jL1yB1e64LKXD"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 161913,
       "name": "Lofoten",
       "url": "https://open.spotify.com/track/3cn7PHrN7FdhOrH2wqPeKe"
+    },
+    {
+      "added_at": "2026-04-17 03:51:33",
+      "album": {
+        "name": "Under",
+        "url": "https://open.spotify.com/album/0tVEjAfGFPBdtvql2BUHKs"
+      },
+      "artists": [
+        {
+          "name": "Hideyuki Hashimoto",
+          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "Turn",
+      "url": "https://open.spotify.com/track/0y7I045qDUH1carkgTB2UG"
     },
     {
       "added_at": "2026-04-17 03:51:33",
@@ -727,22 +727,6 @@
     {
       "added_at": "2026-04-17 03:51:33",
       "album": {
-        "name": "Afterlight",
-        "url": "https://open.spotify.com/album/4dNFgryxb6P7wJDsdPaupX"
-      },
-      "artists": [
-        {
-          "name": "Arlo Thiem",
-          "url": "https://open.spotify.com/artist/7eUaOSOuEptG91onQNFSCd"
-        }
-      ],
-      "duration_ms": 200250,
-      "name": "Afterlight",
-      "url": "https://open.spotify.com/track/0X3mDFl8poPzyNQmrTe9fr"
-    },
-    {
-      "added_at": "2026-04-17 03:51:33",
-      "album": {
         "name": "Come close",
         "url": "https://open.spotify.com/album/27r1Al7Uf7dtsd4zNCqXb6"
       },
@@ -775,18 +759,18 @@
     {
       "added_at": "2026-04-17 03:51:33",
       "album": {
-        "name": "Pines and Cedars",
-        "url": "https://open.spotify.com/album/6TwmI0pB1GkkKUfXUadzdA"
+        "name": "Afterlight",
+        "url": "https://open.spotify.com/album/4dNFgryxb6P7wJDsdPaupX"
       },
       "artists": [
         {
-          "name": "Logan Jameison",
-          "url": "https://open.spotify.com/artist/1qGVG7uUHFWBfuUXIon1gt"
+          "name": "Arlo Thiem",
+          "url": "https://open.spotify.com/artist/7eUaOSOuEptG91onQNFSCd"
         }
       ],
-      "duration_ms": 150898,
-      "name": "Pines and Cedars",
-      "url": "https://open.spotify.com/track/4EIbWNNAT3TqvzflNhGKyU"
+      "duration_ms": 200250,
+      "name": "Afterlight",
+      "url": "https://open.spotify.com/track/0X3mDFl8poPzyNQmrTe9fr"
     },
     {
       "added_at": "2026-04-17 03:51:33",
@@ -851,6 +835,22 @@
       "duration_ms": 178000,
       "name": "Ellie",
       "url": "https://open.spotify.com/track/4QfPxrgEAfWt0DEjrR1CXw"
+    },
+    {
+      "added_at": "2026-04-17 03:51:33",
+      "album": {
+        "name": "Pines and Cedars",
+        "url": "https://open.spotify.com/album/6TwmI0pB1GkkKUfXUadzdA"
+      },
+      "artists": [
+        {
+          "name": "Logan Jameison",
+          "url": "https://open.spotify.com/artist/1qGVG7uUHFWBfuUXIon1gt"
+        }
+      ],
+      "duration_ms": 150898,
+      "name": "Pines and Cedars",
+      "url": "https://open.spotify.com/track/4EIbWNNAT3TqvzflNhGKyU"
     },
     {
       "added_at": "2026-04-17 03:51:33",
@@ -983,22 +983,6 @@
     {
       "added_at": "2026-04-17 03:51:33",
       "album": {
-        "name": "Felt Improv No. 4",
-        "url": "https://open.spotify.com/album/1nKAO1c4f6iVYEarQHaHg4"
-      },
-      "artists": [
-        {
-          "name": "Elias Kiefer",
-          "url": "https://open.spotify.com/artist/1zCiyHNwt0y29fTHrBvamB"
-        }
-      ],
-      "duration_ms": 125500,
-      "name": "Felt Improv No. 4",
-      "url": "https://open.spotify.com/track/4U9X7vhbPaRiYihnQOSyj5"
-    },
-    {
-      "added_at": "2026-04-17 03:51:33",
-      "album": {
         "name": "Mare Nostrum",
         "url": "https://open.spotify.com/album/0ZMMkZ9tnJNTQZf66cHlp7"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 195416,
       "name": "Mare Nostrum",
       "url": "https://open.spotify.com/track/08NywOqVYmiuQ8mLpQaUeG"
+    },
+    {
+      "added_at": "2026-04-17 03:51:33",
+      "album": {
+        "name": "Felt Improv No. 4",
+        "url": "https://open.spotify.com/album/1nKAO1c4f6iVYEarQHaHg4"
+      },
+      "artists": [
+        {
+          "name": "Elias Kiefer",
+          "url": "https://open.spotify.com/artist/1zCiyHNwt0y29fTHrBvamB"
+        }
+      ],
+      "duration_ms": 125500,
+      "name": "Felt Improv No. 4",
+      "url": "https://open.spotify.com/track/4U9X7vhbPaRiYihnQOSyj5"
     },
     {
       "added_at": "2026-04-17 03:51:33",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2026-04-17 03:51:33",
       "album": {
-        "name": "Valse Naturelle",
-        "url": "https://open.spotify.com/album/1HOd4BmPXDtJ1I6BXsFZnD"
-      },
-      "artists": [
-        {
-          "name": "Etienne Balestre",
-          "url": "https://open.spotify.com/artist/1kU0UlLxEnWOfLnmUQHBpd"
-        }
-      ],
-      "duration_ms": 139624,
-      "name": "Valse Naturelle",
-      "url": "https://open.spotify.com/track/5IevvlxHT4pygUgmZlxhNy"
-    },
-    {
-      "added_at": "2026-04-17 03:51:33",
-      "album": {
         "name": "Morning Rain",
         "url": "https://open.spotify.com/album/44kNZrMvuQjZamAb3vmuvB"
       },
@@ -1063,18 +1047,18 @@
     {
       "added_at": "2026-04-17 03:51:33",
       "album": {
-        "name": "Testimony (EP)",
-        "url": "https://open.spotify.com/album/0HjtIrigoEWGcSKn8xKVPq"
+        "name": "Valse Naturelle",
+        "url": "https://open.spotify.com/album/1HOd4BmPXDtJ1I6BXsFZnD"
       },
       "artists": [
         {
-          "name": "Genevieve Melton",
-          "url": "https://open.spotify.com/artist/6qbFrBijq88ljdzAy0CRVr"
+          "name": "Etienne Balestre",
+          "url": "https://open.spotify.com/artist/1kU0UlLxEnWOfLnmUQHBpd"
         }
       ],
-      "duration_ms": 164000,
-      "name": "Testimony",
-      "url": "https://open.spotify.com/track/1NgM2SEuhj7pAzeVTF6Oe5"
+      "duration_ms": 139624,
+      "name": "Valse Naturelle",
+      "url": "https://open.spotify.com/track/5IevvlxHT4pygUgmZlxhNy"
     },
     {
       "added_at": "2026-04-17 03:51:33",
@@ -1107,6 +1091,22 @@
       "duration_ms": 117625,
       "name": "A Gentle Sunlight",
       "url": "https://open.spotify.com/track/2QV0SPhmLDd9jqshZRnLY5"
+    },
+    {
+      "added_at": "2026-04-17 03:51:33",
+      "album": {
+        "name": "Testimony (EP)",
+        "url": "https://open.spotify.com/album/0HjtIrigoEWGcSKn8xKVPq"
+      },
+      "artists": [
+        {
+          "name": "Genevieve Melton",
+          "url": "https://open.spotify.com/artist/6qbFrBijq88ljdzAy0CRVr"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Testimony",
+      "url": "https://open.spotify.com/track/1NgM2SEuhj7pAzeVTF6Oe5"
     },
     {
       "added_at": "2026-04-17 03:51:33",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2026-04-17 03:51:33",
       "album": {
-        "name": "A Bad Dream That Will Pass Away",
-        "url": "https://open.spotify.com/album/4VCzs0bZIXVoNxQq5sGAnm"
-      },
-      "artists": [
-        {
-          "name": "Luke Howard",
-          "url": "https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "A Bad Dream That Will Pass Away",
-      "url": "https://open.spotify.com/track/6XTKYGyydndSUV3OHHDwZU"
-    },
-    {
-      "added_at": "2026-04-17 03:51:33",
-      "album": {
         "name": "A bed of tulips",
         "url": "https://open.spotify.com/album/6ssyw1LvXTs859YSEXx4tc"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 172482,
       "name": "Blue Skies Are Coming",
       "url": "https://open.spotify.com/track/29WaVQCJPqk7thJmKPNhQv"
+    },
+    {
+      "added_at": "2026-04-17 03:51:33",
+      "album": {
+        "name": "A Bad Dream That Will Pass Away",
+        "url": "https://open.spotify.com/album/4VCzs0bZIXVoNxQq5sGAnm"
+      },
+      "artists": [
+        {
+          "name": "Luke Howard",
+          "url": "https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "A Bad Dream That Will Pass Away",
+      "url": "https://open.spotify.com/track/6XTKYGyydndSUV3OHHDwZU"
     },
     {
       "added_at": "2026-04-17 03:51:33",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2026-04-17 03:51:33",
       "album": {
-        "name": "Hymn",
-        "url": "https://open.spotify.com/album/0Qy2yQC2LvEBpEDC8PMr89"
-      },
-      "artists": [
-        {
-          "name": "Matt Lingus",
-          "url": "https://open.spotify.com/artist/0mnRAVVSkBG8afaNTkh3r5"
-        }
-      ],
-      "duration_ms": 177705,
-      "name": "Hymn",
-      "url": "https://open.spotify.com/track/1fyzSisXLaQ552QD31P4ot"
-    },
-    {
-      "added_at": "2026-04-17 03:51:33",
-      "album": {
         "name": "Somewhere",
         "url": "https://open.spotify.com/album/6OqeW7XaGyyQvz6BHGNeL7"
       },
@@ -1591,6 +1575,22 @@
     {
       "added_at": "2026-04-17 03:51:33",
       "album": {
+        "name": "Hymn",
+        "url": "https://open.spotify.com/album/0Qy2yQC2LvEBpEDC8PMr89"
+      },
+      "artists": [
+        {
+          "name": "Matt Lingus",
+          "url": "https://open.spotify.com/artist/0mnRAVVSkBG8afaNTkh3r5"
+        }
+      ],
+      "duration_ms": 177705,
+      "name": "Hymn",
+      "url": "https://open.spotify.com/track/1fyzSisXLaQ552QD31P4ot"
+    },
+    {
+      "added_at": "2026-04-17 03:51:33",
+      "album": {
         "name": "Laredo",
         "url": "https://open.spotify.com/album/1bQGsaI0TyfTeZrg8JW3dq"
       },
@@ -1607,18 +1607,18 @@
     {
       "added_at": "2026-04-17 03:51:33",
       "album": {
-        "name": "fields of forever (sleep rework)",
-        "url": "https://open.spotify.com/album/2qYKIfapv7QBqNvZzzAOHS"
+        "name": "Luce",
+        "url": "https://open.spotify.com/album/00EHlFdUT07StJKAk4al8H"
       },
       "artists": [
         {
-          "name": "Chad Lawson",
-          "url": "https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8"
+          "name": "Nascondiglio",
+          "url": "https://open.spotify.com/artist/6ySvmMDgTOV3XTT6sgIovK"
         }
       ],
-      "duration_ms": 221702,
-      "name": "fields of forever - sleep rework",
-      "url": "https://open.spotify.com/track/1g3qZv1GGqwMBrXzogTpTx"
+      "duration_ms": 130403,
+      "name": "Luce",
+      "url": "https://open.spotify.com/track/3eGygw8GYEYWknt1JeZAQ1"
     }
   ],
   "unique_name": "Coffee and Piano",

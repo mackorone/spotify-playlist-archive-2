@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUB4Jn6piqKS.md) - [plain]
 
 > Stompers, floaters and floorshakers \- these are the tracks that defined the Northern Soul movement.
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,896 likes - 100 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,907 likes - 100 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUB4Jn6piqKS.md) - [plain]
 | 48 | [A Man Like Me](https://open.spotify.com/track/4CLKhjVUCZf00wVghhRImp) | [Jimmy James](https://open.spotify.com/artist/3wBTuRBjr25nNlyRKNn81D) | [Northern Soul Keep the Faith](https://open.spotify.com/album/5y658PIi7zfsQGgWXgKj2B) | 3:01 |
 | 49 | [They'll Never Know Why](https://open.spotify.com/track/61ExFIsgW2M5vdz0n8mtKY) | [Freddie Chavez](https://open.spotify.com/artist/4np4Khr8CgejECr7DCxysU) | [They'll Never Know Why / Baby I'm Sorry](https://open.spotify.com/album/4cEsAXMCFvm0XS4SdSnNU9) | 2:51 |
 | 50 | [Crackin' Up Over You](https://open.spotify.com/track/0APVQoFKh7ohj8nobnaGhT) | [Roy Hamilton](https://open.spotify.com/artist/03heaC5xiTnpquwHyHXr2s) | [The Northern Soul Story Vol.2: The Golden Torch](https://open.spotify.com/album/4zfzl9fPsQccToLbNMsoLM) | 2:17 |
-| 51 | [Back Street](https://open.spotify.com/track/3RkJsA0JxopALjE3Nkfrm7) | [Edwin Starr](https://open.spotify.com/artist/1B8AXU6gIIafpyLEpbcv1u) | [The Hits Of Edwin Starr](https://open.spotify.com/album/0nMlRmiHrtFGSPnACFZaWX) | 2:48 |
-| 52 | [Nothing But A Heartache](https://open.spotify.com/track/0QeeVcFYQPpqO4KHeOrzPK) | [The Flirtations](https://open.spotify.com/artist/3Hra0KQr00Pe9oqmQdVtvp) | [The Northern Soul Scene](https://open.spotify.com/album/67UoZsODIDU1g4gN1uJmSk) | 2:41 |
+| 51 | [Nothing But A Heartache](https://open.spotify.com/track/0QeeVcFYQPpqO4KHeOrzPK) | [The Flirtations](https://open.spotify.com/artist/3Hra0KQr00Pe9oqmQdVtvp) | [The Northern Soul Scene](https://open.spotify.com/album/67UoZsODIDU1g4gN1uJmSk) | 2:41 |
+| 52 | [Back Street](https://open.spotify.com/track/3RkJsA0JxopALjE3Nkfrm7) | [Edwin Starr](https://open.spotify.com/artist/1B8AXU6gIIafpyLEpbcv1u) | [The Hits Of Edwin Starr](https://open.spotify.com/album/0nMlRmiHrtFGSPnACFZaWX) | 2:48 |
 | 53 | [You Didn't Say A Word](https://open.spotify.com/track/5nmNOKN0PUHoxpuGbkO5Jl) | [Yvonne Baker](https://open.spotify.com/artist/0WaDGCDKeOn5C9UKNec3MD) | [Wigan Casino 40th Anniversary Album](https://open.spotify.com/album/2sPZKGxvg2RZF4d2ioEYjz) | 2:38 |
 | 54 | [You Don't Love Me](https://open.spotify.com/track/68uVSzhYCHlQK59uhOe1wm) | [The Epitome Of Sound](https://open.spotify.com/artist/6sizzJIZoe7uwMw110WH0Z) | [You Don't Love Me](https://open.spotify.com/album/7zvspDmbM2UD3vAgTAkD7I) | 2:44 |
 | 55 | [Walkin' up a One Way Street](https://open.spotify.com/track/4PBUEbH92briGYuDbnHZuw) | [Willie Tee](https://open.spotify.com/artist/0J4hhNPKGkF96BvCakh2Ab) | [Walking up a One Way Street](https://open.spotify.com/album/4eNiXrq0bdXDcZd892i54P) | 2:41 |
@@ -94,10 +94,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUB4Jn6piqKS.md) - [plain]
 | 84 | [Name It You Got It](https://open.spotify.com/track/4rf0BgkvLftBjVCfCA9qXV) | [Micky Moonshine](https://open.spotify.com/artist/7KSmZ7H3mfxLiuh27Fc2L7) | [The Northern Soul Scene](https://open.spotify.com/album/67UoZsODIDU1g4gN1uJmSk) | 3:24 |
 | 85 | [It Really Hurts Me Girl](https://open.spotify.com/track/7ARc5XRTlhg5KMrZeFnjbi) | [The Carstairs](https://open.spotify.com/artist/1RSTlxBlVr8XeyoFFa8qo0) | [The Stars Of Northern Soul Volume 1](https://open.spotify.com/album/1x6I4OVVnsZGTSBznVw9WY) | 3:27 |
 | 86 | [Just Say You're Wanted And Needed](https://open.spotify.com/track/6lYPe6tQFzIZ3P5TeOpiet) | [Gwen Owens](https://open.spotify.com/artist/4fUOCXYxfIUnhJ82T3Iw4N) | [The Stars Of Northern Soul Volume 3](https://open.spotify.com/album/3RkPb0R6HpKjIPuMm8tVuk) | 2:54 |
-| 87 | [Lonely for You Baby](https://open.spotify.com/track/5ygQ9rWpRvPohptLMshLki) | [Sam Dees](https://open.spotify.com/artist/25kvpgmZP82Hn719lpTrlX) | [I Need You Girl / Lonely for You Baby](https://open.spotify.com/album/3O5SUnJj3sjjpzujPHkd9a) | 2:52 |
-| 88 | [What Shall I Do](https://open.spotify.com/track/4vHlngqfKqieP4z48uSGoH) | [Frankie & The Classicals](https://open.spotify.com/artist/4UWGfxt79IQdviWgqwTWV6) | [Northern Soul: The Collection](https://open.spotify.com/album/3uCwV0WZeLe6ElssasAInn) | 2:01 |
-| 89 | [You Just Don't Know \(What You Do To Me\)](https://open.spotify.com/track/4Q6gZa8pEcTuaMteHEEYdl) | [Chubby Checker](https://open.spotify.com/artist/7qQJQ3YtcGlqaLg5tcypN2) | [The Hits Of '65](https://open.spotify.com/album/5ajbK1dMjom8xX40BEgmU9) | 2:30 |
-| 90 | [Just Like the Weather](https://open.spotify.com/track/1wGUSWGhLZvChd0fxsvsU0) | [Nolan Chance](https://open.spotify.com/artist/5x18L4ZZtCIepz8EelL1fm) | [Constellation of Chicago Soul](https://open.spotify.com/album/1t7urpNm3RvRxOZrWG52Fm) | 2:35 |
+| 87 | [What Shall I Do](https://open.spotify.com/track/4vHlngqfKqieP4z48uSGoH) | [Frankie & The Classicals](https://open.spotify.com/artist/4UWGfxt79IQdviWgqwTWV6) | [Northern Soul: The Collection](https://open.spotify.com/album/3uCwV0WZeLe6ElssasAInn) | 2:01 |
+| 88 | [Lonely for You Baby](https://open.spotify.com/track/5ygQ9rWpRvPohptLMshLki) | [Sam Dees](https://open.spotify.com/artist/25kvpgmZP82Hn719lpTrlX) | [I Need You Girl / Lonely for You Baby](https://open.spotify.com/album/3O5SUnJj3sjjpzujPHkd9a) | 2:52 |
+| 89 | [Just Like the Weather](https://open.spotify.com/track/1wGUSWGhLZvChd0fxsvsU0) | [Nolan Chance](https://open.spotify.com/artist/5x18L4ZZtCIepz8EelL1fm) | [Constellation of Chicago Soul](https://open.spotify.com/album/1t7urpNm3RvRxOZrWG52Fm) | 2:35 |
+| 90 | [You Just Don't Know \(What You Do To Me\)](https://open.spotify.com/track/4Q6gZa8pEcTuaMteHEEYdl) | [Chubby Checker](https://open.spotify.com/artist/7qQJQ3YtcGlqaLg5tcypN2) | [The Hits Of '65](https://open.spotify.com/album/5ajbK1dMjom8xX40BEgmU9) | 2:30 |
 | 91 | [Ain't That Terrible](https://open.spotify.com/track/1fh9MVjrGCmwRQpWipM6uT) | [Roy Redmond](https://open.spotify.com/artist/75nH9SHblpaAtYck60wjIY) | [Northern Soul 45's](https://open.spotify.com/album/1qsPuK9y5vkLO09lZRMkx9) | 2:32 |
 | 92 | [Temptation Is Calling My Name \- Single Version](https://open.spotify.com/track/6pOJd5tcIdae5RFprqyHHw) | [Lee David](https://open.spotify.com/artist/7AZpPOy6ZtFoPS4hBxpZSQ) | [Haynes Ultimate Guide to Northern Soul](https://open.spotify.com/album/2YZ5MjpwfRaCd1hunGOZzH) | 2:21 |
 | 93 | [You've Got Your Mind On Other Things](https://open.spotify.com/track/4I6dr0herCKmSfrPjmVr10) | [Beverly Ann](https://open.spotify.com/artist/0vR6zDg8i1J85fNUYV1fiw) | [The Northern Soul Story Vol.4: Wigan Casino](https://open.spotify.com/album/6PgTpu4A3QmoR79tNmk4Ml) | 2:17 |

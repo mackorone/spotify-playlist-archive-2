@@ -1,6 +1,6 @@
 {
   "description": "The best indie songs from all decades for your Halloween party",
-  "num_followers": 141850,
+  "num_followers": 141840,
   "original_name": "Indie Halloween",
   "owner": {
     "name": "Spotify",
@@ -267,22 +267,6 @@
     {
       "added_at": "2026-04-24 13:27:34",
       "album": {
-        "name": "Melt",
-        "url": "https://open.spotify.com/album/4Arf0rqtYsnJ5hhscuqCLB"
-      },
-      "artists": [
-        {
-          "name": "Not For Radio",
-          "url": "https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT"
-        }
-      ],
-      "duration_ms": 251601,
-      "name": "Swan",
-      "url": "https://open.spotify.com/track/5DyUNx3kgGOZv0f0MqBllI"
-    },
-    {
-      "added_at": "2026-04-24 13:27:34",
-      "album": {
         "name": "dc snuff film / waste yrself",
         "url": "https://open.spotify.com/album/1QMZJabCAFTaiuq4toibdt"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 165671,
       "name": "haunt me (x 3)",
       "url": "https://open.spotify.com/track/1QUMpZT7HG6sO3RiBu1LAJ"
+    },
+    {
+      "added_at": "2026-04-24 13:27:34",
+      "album": {
+        "name": "Melt",
+        "url": "https://open.spotify.com/album/4Arf0rqtYsnJ5hhscuqCLB"
+      },
+      "artists": [
+        {
+          "name": "Not For Radio",
+          "url": "https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT"
+        }
+      ],
+      "duration_ms": 251601,
+      "name": "Swan",
+      "url": "https://open.spotify.com/track/5DyUNx3kgGOZv0f0MqBllI"
     },
     {
       "added_at": "2026-04-24 13:27:34",
@@ -731,22 +731,6 @@
     {
       "added_at": "2026-04-24 13:27:34",
       "album": {
-        "name": "Frankenstein",
-        "url": "https://open.spotify.com/album/48ULeYOIxptWfLQdebRfVB"
-      },
-      "artists": [
-        {
-          "name": "Editors",
-          "url": "https://open.spotify.com/artist/6e9wIFWhBPHLE9bXK8gtBI"
-        }
-      ],
-      "duration_ms": 268186,
-      "name": "Frankenstein",
-      "url": "https://open.spotify.com/track/2N0vFGHku7wNk66Aw5HZSR"
-    },
-    {
-      "added_at": "2026-04-24 13:27:34",
-      "album": {
         "name": "Season of Freaks",
         "url": "https://open.spotify.com/album/4WGqGwUleATixVRxGRvKKd"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 230501,
       "name": "Season of Freaks",
       "url": "https://open.spotify.com/track/2zXMvhx7FN3KMumYFxkXaE"
+    },
+    {
+      "added_at": "2026-04-24 13:27:34",
+      "album": {
+        "name": "Frankenstein",
+        "url": "https://open.spotify.com/album/48ULeYOIxptWfLQdebRfVB"
+      },
+      "artists": [
+        {
+          "name": "Editors",
+          "url": "https://open.spotify.com/artist/6e9wIFWhBPHLE9bXK8gtBI"
+        }
+      ],
+      "duration_ms": 268186,
+      "name": "Frankenstein",
+      "url": "https://open.spotify.com/track/2N0vFGHku7wNk66Aw5HZSR"
     },
     {
       "added_at": "2026-04-24 13:27:34",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2026-04-24 13:27:34",
       "album": {
-        "name": "To Lose My Life ...",
-        "url": "https://open.spotify.com/album/1ySdrRPZa9ZRvlcUoGv8UE"
-      },
-      "artists": [
-        {
-          "name": "White Lies",
-          "url": "https://open.spotify.com/artist/6ssXMmc5EOUrauZxirM910"
-        }
-      ],
-      "duration_ms": 191040,
-      "name": "To Lose My Life",
-      "url": "https://open.spotify.com/track/2hUHm19fmQnJ40LZXqjhZt"
-    },
-    {
-      "added_at": "2026-04-24 13:27:34",
-      "album": {
         "name": "A Weekend In the City",
         "url": "https://open.spotify.com/album/3OiE2agv6jj4K0vh6wOh7y"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 211493,
       "name": "Hunting for Witches",
       "url": "https://open.spotify.com/track/0ZXCTJS5QaNQcYK4PgTvYl"
+    },
+    {
+      "added_at": "2026-04-24 13:27:34",
+      "album": {
+        "name": "To Lose My Life ...",
+        "url": "https://open.spotify.com/album/1ySdrRPZa9ZRvlcUoGv8UE"
+      },
+      "artists": [
+        {
+          "name": "White Lies",
+          "url": "https://open.spotify.com/artist/6ssXMmc5EOUrauZxirM910"
+        }
+      ],
+      "duration_ms": 191040,
+      "name": "To Lose My Life",
+      "url": "https://open.spotify.com/track/2hUHm19fmQnJ40LZXqjhZt"
     },
     {
       "added_at": "2026-04-24 13:27:34",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2026-04-24 13:27:34",
       "album": {
+        "name": "Carry On The Grudge",
+        "url": "https://open.spotify.com/album/3dvHXz1aCtrPvvpIMDJFfs"
+      },
+      "artists": [
+        {
+          "name": "Jamie T",
+          "url": "https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh"
+        }
+      ],
+      "duration_ms": 246186,
+      "name": "Zombie",
+      "url": "https://open.spotify.com/track/5tbZBnWJAw72ZRjmMsrh0D"
+    },
+    {
+      "added_at": "2026-04-24 13:27:34",
+      "album": {
         "name": "Never Truly Happy",
         "url": "https://open.spotify.com/album/2rIOtKl8QJRs40MkZ84Unh"
       },
@@ -1371,18 +1387,18 @@
     {
       "added_at": "2026-04-24 13:27:34",
       "album": {
-        "name": "Carry On The Grudge",
-        "url": "https://open.spotify.com/album/3dvHXz1aCtrPvvpIMDJFfs"
+        "name": "Breakfast",
+        "url": "https://open.spotify.com/album/0OaVZJwUqAyLlniMCB5O6K"
       },
       "artists": [
         {
-          "name": "Jamie T",
-          "url": "https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh"
+          "name": "Teleman",
+          "url": "https://open.spotify.com/artist/3wrtQM9ICPPeHwoc1GWiyV"
         }
       ],
-      "duration_ms": 246186,
-      "name": "Zombie",
-      "url": "https://open.spotify.com/track/5tbZBnWJAw72ZRjmMsrh0D"
+      "duration_ms": 217880,
+      "name": "Skeleton Dance",
+      "url": "https://open.spotify.com/track/2Un5ghpSnfy4gRnun3pUTn"
     },
     {
       "added_at": "2026-04-24 13:27:34",
@@ -1431,22 +1447,6 @@
       "duration_ms": 196893,
       "name": "Halloween Blues",
       "url": "https://open.spotify.com/track/3Wby5EleliIk9ZF9aYynX9"
-    },
-    {
-      "added_at": "2026-04-24 13:27:34",
-      "album": {
-        "name": "Breakfast",
-        "url": "https://open.spotify.com/album/0OaVZJwUqAyLlniMCB5O6K"
-      },
-      "artists": [
-        {
-          "name": "Teleman",
-          "url": "https://open.spotify.com/artist/3wrtQM9ICPPeHwoc1GWiyV"
-        }
-      ],
-      "duration_ms": 217880,
-      "name": "Skeleton Dance",
-      "url": "https://open.spotify.com/track/2Un5ghpSnfy4gRnun3pUTn"
     },
     {
       "added_at": "2026-04-24 13:27:34",

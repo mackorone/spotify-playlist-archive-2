@@ -1,6 +1,6 @@
 {
   "description": "Your escape to the world of chill Indian pop. Cover - Thoda Thoda Pyaar",
-  "num_followers": 129006,
+  "num_followers": 129054,
   "original_name": "I-Pop Chill",
   "owner": {
     "name": "Spotify",
@@ -191,8 +191,8 @@
     {
       "added_at": "2026-04-28 09:22:39",
       "album": {
-        "name": "With You",
-        "url": "https://open.spotify.com/album/30eM1PJ8qLZJeEykhcje0j"
+        "name": "Thinking of You",
+        "url": "https://open.spotify.com/album/7zSGzs1r6SF5I2T5ZfzNCa"
       },
       "artists": [
         {
@@ -200,9 +200,9 @@
           "url": "https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB"
         }
       ],
-      "duration_ms": 154554,
-      "name": "With You",
-      "url": "https://open.spotify.com/track/0xIuPDzJSnJywALez8dwKR"
+      "duration_ms": 180217,
+      "name": "Thinking of You",
+      "url": "https://open.spotify.com/track/0rSU2KwpOCqLVDCPwd4WbE"
     },
     {
       "added_at": "2026-04-28 09:22:39",
@@ -287,8 +287,8 @@
     {
       "added_at": "2026-04-28 09:22:39",
       "album": {
-        "name": "Thinking of You",
-        "url": "https://open.spotify.com/album/7zSGzs1r6SF5I2T5ZfzNCa"
+        "name": "With You",
+        "url": "https://open.spotify.com/album/30eM1PJ8qLZJeEykhcje0j"
       },
       "artists": [
         {
@@ -296,9 +296,9 @@
           "url": "https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB"
         }
       ],
-      "duration_ms": 180217,
-      "name": "Thinking of You",
-      "url": "https://open.spotify.com/track/0rSU2KwpOCqLVDCPwd4WbE"
+      "duration_ms": 154554,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/0xIuPDzJSnJywALez8dwKR"
     },
     {
       "added_at": "2026-04-28 09:22:39",
@@ -935,6 +935,26 @@
     {
       "added_at": "2026-04-28 09:22:39",
       "album": {
+        "name": "Tu Hai",
+        "url": "https://open.spotify.com/album/3pFzzo6Z1oD7qaxk4DBJpY"
+      },
+      "artists": [
+        {
+          "name": "Darshan Raval",
+          "url": "https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS"
+        },
+        {
+          "name": "Prakriti Giri",
+          "url": "https://open.spotify.com/artist/0dzcXimfMVH1JQawG72WJJ"
+        }
+      ],
+      "duration_ms": 164100,
+      "name": "Tu Hai",
+      "url": "https://open.spotify.com/track/2fsBaSK1551VvUD9Uvbb9Q"
+    },
+    {
+      "added_at": "2026-04-28 09:22:39",
+      "album": {
         "name": "Raja Hindustani",
         "url": "https://open.spotify.com/album/6xUlvwWAmelBN0VLU4KYGd"
       },
@@ -959,26 +979,6 @@
     {
       "added_at": "2026-04-28 09:22:39",
       "album": {
-        "name": "Tu Hai",
-        "url": "https://open.spotify.com/album/3pFzzo6Z1oD7qaxk4DBJpY"
-      },
-      "artists": [
-        {
-          "name": "Darshan Raval",
-          "url": "https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS"
-        },
-        {
-          "name": "Prakriti Giri",
-          "url": "https://open.spotify.com/artist/0dzcXimfMVH1JQawG72WJJ"
-        }
-      ],
-      "duration_ms": 164100,
-      "name": "Tu Hai",
-      "url": "https://open.spotify.com/track/2fsBaSK1551VvUD9Uvbb9Q"
-    },
-    {
-      "added_at": "2026-04-28 09:22:39",
-      "album": {
         "name": "Milenge Hum Nahi",
         "url": "https://open.spotify.com/album/46WiNmrfHH0Xu1uKG83s0K"
       },
@@ -999,18 +999,26 @@
     {
       "added_at": "2026-04-28 09:22:39",
       "album": {
-        "name": "Gumshuda",
-        "url": "https://open.spotify.com/album/3Re9vlX5wIp2BsWQJbmcSv"
+        "name": "Assi Sajna",
+        "url": "https://open.spotify.com/album/1nXJCJwv0ORoiGUvG1ZA0U"
       },
       "artists": [
         {
-          "name": "Iqlipse Nova",
-          "url": "https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk"
+          "name": "Jasleen Royal",
+          "url": "https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c"
+        },
+        {
+          "name": "Intense",
+          "url": "https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN"
+        },
+        {
+          "name": "Aditya Sharma",
+          "url": "https://open.spotify.com/artist/70RAfkLNWG5J2bsnJqBpLQ"
         }
       ],
-      "duration_ms": 191118,
-      "name": "Gumshuda",
-      "url": "https://open.spotify.com/track/6gG0DORD3lrsrnXDLKQIPt"
+      "duration_ms": 183536,
+      "name": "Assi Sajna",
+      "url": "https://open.spotify.com/track/3xIyi0QRmcz0cBDbVPTNGd"
     }
   ],
   "unique_name": "I-Pop Chill",

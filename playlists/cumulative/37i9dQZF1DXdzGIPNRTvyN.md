@@ -4,7 +4,7 @@
 
 > Wander into the magical mix of music, water, birds, and calmness.
 
-521 songs - 1 day 0 hr 27 min
+522 songs - 1 day 0 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [big blue](https://open.spotify.com/track/5OdMECOOVFwGSAoXW67gt9) | [drift in blue](https://open.spotify.com/artist/7Fdf7Z7Yu68K726WE64Ifv) | [floating in circles](https://open.spotify.com/album/3BoCsNBuT1umaQwO9ilAtN) | 2:32 | 2026-03-16 | 2026-04-04 |
 | [Birds In The Cul\-De\-Sac](https://open.spotify.com/track/6Vv7pOvG9e8zFWOwIKJTqA) | [Nature Dreams](https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo) | [Birds In The Cul\-De\-Sac](https://open.spotify.com/album/7sUigBnrLRsr8JD3oCVNfq) | 1:05 | 2026-04-03 |  |
 | [Birds Singing In The Park](https://open.spotify.com/track/6PvZUOTuc5K7hHawZv8FD9) | [Nature Dreams](https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo) | [Birds Singing In The Park](https://open.spotify.com/album/2wdnVPooTFEX6h6N1OFoVV) | 1:02 | 2026-04-03 |  |
-| [Blooming Flowers](https://open.spotify.com/track/713dLHQqGsLpHRxOyZfQsS) | [Ari Einarsson](https://open.spotify.com/artist/4phG0P0DDFhm0ZORDBMaSk) | [Blooming Flowers](https://open.spotify.com/album/041bD9COQS0TGAsZCNFUJg) | 2:55 | 2025-10-01 |  |
+| [Blooming Flowers](https://open.spotify.com/track/713dLHQqGsLpHRxOyZfQsS) | [Ari Einarsson](https://open.spotify.com/artist/4phG0P0DDFhm0ZORDBMaSk) | [Blooming Flowers](https://open.spotify.com/album/041bD9COQS0TGAsZCNFUJg) | 2:55 | 2025-10-01 | 2026-05-06 |
 | [Blue River Hills](https://open.spotify.com/track/1Qp4ZHQYLCH3PjVvmKGuaS) | [Nolan West](https://open.spotify.com/artist/25DKElOUj8NYekti1LTyzS) | [Blue River Hills](https://open.spotify.com/album/5HJiGeDUsdAuouuEOVPZH9) | 2:37 | 2026-04-03 |  |
 | [Blue Shadows](https://open.spotify.com/track/1S5UW31xDfoNW3Tc7rNyKp) | [Maira](https://open.spotify.com/artist/6x0Xdy7LgcYtyIWBG7CA04) | [Blue Shadows](https://open.spotify.com/album/1Iy98GEoDPSUJHx6iIKh5E) | 2:52 | 2025-03-14 | 2026-03-17 |
 | [Bonvoya](https://open.spotify.com/track/312nTGasaGeNatMGWsjc56) | [Livrunna](https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz) | [Bonvoya](https://open.spotify.com/album/0WzgkSpotQa1C2cDhrJDu1) | 2:37 | 2024-10-03 |  |
@@ -318,6 +318,7 @@
 | [Nemora](https://open.spotify.com/track/5gplkckudyKkAp3qnxikb0) | [Richome](https://open.spotify.com/artist/7wT96tCUu2nwZ056pObwZS) | [Nemora](https://open.spotify.com/album/68wGpiY8PWGypZqXofzdm7) | 2:15 | 2026-02-18 |  |
 | [Nemuru](https://open.spotify.com/track/7ijrcNdiapZN38vYSvavTz) | [Aydols](https://open.spotify.com/artist/53F1RqaWYLrqvrZuvubBEv) | [Nemuru](https://open.spotify.com/album/5FdIDykBzbqefQiBt0RByS) | 2:48 | 2023-09-01 |  |
 | [Nidra](https://open.spotify.com/track/2S6PhX39o91uuRNHgQWrhe) | [Quiet Notes](https://open.spotify.com/artist/6o4TgXVQ6lPBqMXXyjrMjt) | [Nidra](https://open.spotify.com/album/6lsGTwVj3XHsiMK2P5F4GP) | 3:09 | 2023-10-26 | 2025-07-02 |
+| [Nine Forests](https://open.spotify.com/track/7wcHkclQEQ4Sf9p9vWPHoy) | [Reitius Rex](https://open.spotify.com/artist/4dNsq3pEddyli2GElCpGdd) | [Nine Forests](https://open.spotify.com/album/66q8ze9crmqKWcMg8no9Yu) | 2:50 | 2026-04-17 |  |
 | [Nocturne in the rain](https://open.spotify.com/track/1fColVDTMjOFRu4kDMKMP2) | [Oscar Sergel](https://open.spotify.com/artist/0di12xR3Qca66XeRGBn1z8) | [Nocturne in the rain](https://open.spotify.com/album/1DQQanFJj3DqKH5oD9JadF) | 2:30 | 2023-03-13 | 2024-06-04 |
 | [Nordic Nature](https://open.spotify.com/track/3sw3OyQfASazznWZz0w1EU) | [Nature Pulse](https://open.spotify.com/artist/70vUxFU28oeZCt4GremOQ0) | [Nordic Nature](https://open.spotify.com/album/01Pb8nwmMw9acSDIceI8yO) | 3:08 | 2024-01-30 | 2025-04-30 |
 | [Northwest](https://open.spotify.com/track/7L448q1PmOLAczKmDNkVXv) | [Waveframe](https://open.spotify.com/artist/6qllkUXzVK9b2C1HRVsp2T) | [Northwest](https://open.spotify.com/album/4zRVDtjiuzE8tcuMQNmmSa) | 2:38 | 2025-05-16 | 2025-10-02 |

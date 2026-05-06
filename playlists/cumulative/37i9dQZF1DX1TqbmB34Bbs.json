@@ -578,7 +578,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 170490,
       "name": "1llusion",
       "url": "https://open.spotify.com/track/17jWB9tfanpXJGWJ8FSiEe"
@@ -12890,7 +12890,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 280280,
       "name": "How We Rock",
       "url": "https://open.spotify.com/track/4sgkNvy1qee1srpns8VdoJ"
@@ -29191,6 +29191,24 @@
     },
     {
       "album": {
+        "name": "GREENGREEN",
+        "url": "https://open.spotify.com/album/2zEdi42kfgLEySoikGJMFT"
+      },
+      "artists": [
+        {
+          "name": "CORTIS",
+          "url": "https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184520,
+      "name": "Wassup",
+      "url": "https://open.spotify.com/track/3dCdcURa0Kk5UWXRY00HQy"
+    },
+    {
+      "album": {
         "name": "X",
         "url": "https://open.spotify.com/album/3y8hoaCZeVeVlXzkz8l9O0"
       },
@@ -31620,6 +31638,24 @@
       "duration_ms": 200815,
       "name": "YOUNG POSSE UP (feat.Verbal Jint, NSW yoon, Token)",
       "url": "https://open.spotify.com/track/19rwdftkfTj3oqqhRevov7"
+    },
+    {
+      "album": {
+        "name": "GREENGREEN",
+        "url": "https://open.spotify.com/album/2zEdi42kfgLEySoikGJMFT"
+      },
+      "artists": [
+        {
+          "name": "CORTIS",
+          "url": "https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P"
+        }
+      ],
+      "date_added": "2026-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176987,
+      "name": "YOUNGCREATORCREW",
+      "url": "https://open.spotify.com/track/2vKNzC9T3kdU2JECcvob3V"
     },
     {
       "album": {

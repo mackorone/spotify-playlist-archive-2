@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwrjTQRJ4LX.md) - [plain]
 
 > <a href="spotify:artist:62k5LKMhymqlDNo2DWOvvv">Boys Noize</a>'s favorite tracks\. Updated regularly\. Curated by Boys Noize\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,259 likes - 53 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,276 likes - 53 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwrjTQRJ4LX.md) - [plain]
 | 36 | [Fake Denim](https://open.spotify.com/track/4l1u4uXrGE8DMLhkYrymJD) | [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u) | [Fake Denim](https://open.spotify.com/album/2gpruJPGNa8BMvwjYa8Gnc) | 3:20 |
 | 37 | [My Melody](https://open.spotify.com/track/4G2JfzFjdM4uD0b55w4k8e) | [TEED](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Always With Me](https://open.spotify.com/album/4E3yDqnMgUfLxRYH3LDkiE) | 4:38 |
 | 38 | [Up Is Down with DJ Genesis](https://open.spotify.com/track/1JIqLhfgaLP1EB4mseWCmP) | [Paranoid London](https://open.spotify.com/artist/0KyUH5WmspOhuIQAnw42Fb), [DJ GENESIS](https://open.spotify.com/artist/066cv8rRZSEaeDRLLLn9WI) | [Arseholes, Liars, and Electronic Pioneers](https://open.spotify.com/album/37hDTCk3GbkSpiu89OMqtz) | 4:42 |
-| 39 | [Mania](https://open.spotify.com/track/07Scld4OmuhvuokTkOHneZ) | [Josh Caffé](https://open.spotify.com/artist/0xfgTbJfcAgsRLqJ6y0PAp) | [Poppa Zesque](https://open.spotify.com/album/6EW1u8G8ZAMKgDYrLVAEpg) | 6:10 |
+| 39 | [Mania](https://open.spotify.com/track/07Scld4OmuhvuokTkOHneZ) | [Josh Caffé](https://open.spotify.com/artist/3JOct1LuzqDQHeCHuHjpM2) | [Poppa Zesque](https://open.spotify.com/album/6EW1u8G8ZAMKgDYrLVAEpg) | 6:10 |
 | 40 | [Bang the Box](https://open.spotify.com/track/3mLYQG6kcULwyB2xVkawYP) | [DJ Hell](https://open.spotify.com/artist/4WgFczZafuUFBvsCuSK44C) | [NEOCLASH](https://open.spotify.com/album/3AxYDQIJAioVgNDXBF36GG) | 6:14 |
 | 41 | [Bone and Signal](https://open.spotify.com/track/0jexmppaVp8c53TzpUpSHT) | [François X](https://open.spotify.com/artist/5sHHgrgK3vQ0jwKIT1D4xu) | [The Skin Between Us](https://open.spotify.com/album/6ea1YYIqsGWnxptGzWK0Rl) | 5:29 |
 | 42 | [Under The Ocean](https://open.spotify.com/track/4JQNvmZIDSG2xWL40txXNf) | [Ellen Allien](https://open.spotify.com/artist/5lsC3H1vh9YSRQckyGv0Up) | [Under The Ocean](https://open.spotify.com/album/4m2CIu8Pkh32Z2pgZD0Zli) | 5:13 |

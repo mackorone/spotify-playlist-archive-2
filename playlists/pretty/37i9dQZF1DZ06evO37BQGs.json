@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afaQAAAAAABGv5URwhY5k3fSJF4xMd1c",
+  "snapshot_id": "affhgAAAAABYdEIBoFIDuw+WzPV8hB5R",
   "tracks": [
     {
       "added_at": null,
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
         }
       ],
-      "duration_ms": 229573,
-      "name": "New Glasses",
-      "url": "https://open.spotify.com/track/3N8PrkWhSMtzQrlslY6EQg"
+      "duration_ms": 196186,
+      "name": "It Suits You",
+      "url": "https://open.spotify.com/track/3aehHnqlvoi05DxnDR4qmE"
     },
     {
       "added_at": null,
@@ -284,7 +284,7 @@
       "added_at": null,
       "album": {
         "name": "Glorious Sunset",
-        "url": "https://open.spotify.com/album/7c7Ls32YEt5ifi8BbrLX3D"
+        "url": "https://open.spotify.com/album/71maDCJKDDfxPR1QcIHmaU"
       },
       "artists": [
         {
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
         }
       ],
-      "duration_ms": 196186,
-      "name": "It Suits You",
-      "url": "https://open.spotify.com/track/3aehHnqlvoi05DxnDR4qmE"
+      "duration_ms": 167080,
+      "name": "Done",
+      "url": "https://open.spotify.com/track/0UPwyz3aaQdWPUGn6pEkrh"
     },
     {
       "added_at": null,
@@ -348,7 +348,7 @@
       "added_at": null,
       "album": {
         "name": "Glorious Sunset",
-        "url": "https://open.spotify.com/album/71maDCJKDDfxPR1QcIHmaU"
+        "url": "https://open.spotify.com/album/7c7Ls32YEt5ifi8BbrLX3D"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
         }
       ],
-      "duration_ms": 167080,
-      "name": "Done",
-      "url": "https://open.spotify.com/track/0UPwyz3aaQdWPUGn6pEkrh"
+      "duration_ms": 229573,
+      "name": "New Glasses",
+      "url": "https://open.spotify.com/track/3N8PrkWhSMtzQrlslY6EQg"
     },
     {
       "added_at": null,
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
         }
       ],
-      "duration_ms": 238573,
-      "name": "Boy",
-      "url": "https://open.spotify.com/track/0XvuRaxgYMSWbFng8vHvDv"
+      "duration_ms": 222493,
+      "name": "Sick Little Masquerade",
+      "url": "https://open.spotify.com/track/76jTPFhV40C0eJXTswyRrC"
     },
     {
       "added_at": null,
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
         }
       ],
-      "duration_ms": 222493,
-      "name": "Sick Little Masquerade",
-      "url": "https://open.spotify.com/track/76jTPFhV40C0eJXTswyRrC"
+      "duration_ms": 238573,
+      "name": "Boy",
+      "url": "https://open.spotify.com/track/0XvuRaxgYMSWbFng8vHvDv"
     },
     {
       "added_at": null,

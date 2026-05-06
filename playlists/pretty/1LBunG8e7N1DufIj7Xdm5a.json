@@ -6,7 +6,7 @@
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAIgQSHxQWfEQQ8bW8zvv/P23L0nuD7",
+  "snapshot_id": "AAAIhFcEVBcBYE/FbQNPjtDqOUgQMhk4",
   "tracks": [
     {
       "added_at": "2026-04-14 21:44:21",
@@ -72067,6 +72067,54 @@
       "duration_ms": 311479,
       "name": "Mothman",
       "url": "https://open.spotify.com/track/38gi9OlVKpj6zwtNKK0dDc"
+    },
+    {
+      "added_at": "2026-05-05 13:40:16",
+      "album": {
+        "name": "The Mirror",
+        "url": "https://open.spotify.com/album/4ptWnwJL8v7UJLAcAgr9Bl"
+      },
+      "artists": [
+        {
+          "name": "Upwood Avenue",
+          "url": "https://open.spotify.com/artist/6vxgfCzu5GGJWOfARnonrI"
+        }
+      ],
+      "duration_ms": 223653,
+      "name": "The Mirror",
+      "url": "https://open.spotify.com/track/6pUnpsCM1fvQrQsNxboHfZ"
+    },
+    {
+      "added_at": "2026-05-05 22:43:41",
+      "album": {
+        "name": "Caronte",
+        "url": "https://open.spotify.com/album/5rqL6C7JSvi45eBjE86B2o"
+      },
+      "artists": [
+        {
+          "name": "Exilio a Plut\u00f3n",
+          "url": "https://open.spotify.com/artist/0RDcwUWOCSUSxJe3mMNhqh"
+        }
+      ],
+      "duration_ms": 229866,
+      "name": "La marea",
+      "url": "https://open.spotify.com/track/5m4cTTcv22aQ9KMjoZVLaS"
+    },
+    {
+      "added_at": "2026-05-05 22:45:11",
+      "album": {
+        "name": "Sono Solo Come Te / Wanted",
+        "url": "https://open.spotify.com/album/2uyx6597JkzlWJLuHrlZZR"
+      },
+      "artists": [
+        {
+          "name": "Godiva Grunge",
+          "url": "https://open.spotify.com/artist/1pt5AfwdHnxg9gYsqi5UB2"
+        }
+      ],
+      "duration_ms": 254960,
+      "name": "Wanted (Vivo o Morto)",
+      "url": "https://open.spotify.com/track/2KujPMCu0Pn17EW13Z97Rp"
     }
   ],
   "unique_name": "playlist spotify free",

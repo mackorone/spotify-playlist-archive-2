@@ -16568,7 +16568,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 282138,
       "name": "In Your Name",
       "url": "https://open.spotify.com/track/5MC8y7w5E0DUEqii0sP4Fm"
@@ -28166,6 +28166,24 @@
       "duration_ms": 220649,
       "name": "Shortest Fuse",
       "url": "https://open.spotify.com/track/10fl9iLpPKi4WVJh59hZ8c"
+    },
+    {
+      "album": {
+        "name": "Should've Known Better",
+        "url": "https://open.spotify.com/album/5YejHoJ2w4gXBsdhwQ2wQt"
+      },
+      "artists": [
+        {
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+        }
+      ],
+      "date_added": "2026-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196227,
+      "name": "Should've Known Better",
+      "url": "https://open.spotify.com/track/5W5d518pSKjB8JtscaU3ZL"
     },
     {
       "album": {

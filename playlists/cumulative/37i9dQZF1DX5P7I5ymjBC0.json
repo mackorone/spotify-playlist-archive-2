@@ -993,6 +993,32 @@
     },
     {
       "album": {
+        "name": "Ee Premanthaa Neeve",
+        "url": "https://open.spotify.com/album/1yucluSfbWVLGh9vQ6YfK5"
+      },
+      "artists": [
+        {
+          "name": "Mayukh Velagapudi",
+          "url": "https://open.spotify.com/artist/5oa1Qaay6FkJzDNlgwQxde"
+        },
+        {
+          "name": "Srirag Vadlakonda",
+          "url": "https://open.spotify.com/artist/6OCxOIWN5WGB9iZSnYqwRb"
+        },
+        {
+          "name": "Sindhuja Rajesh",
+          "url": "https://open.spotify.com/artist/2CPCFLvdcyRLTZrHHFwiUz"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227666,
+      "name": "Ee Premanthaa Neeve",
+      "url": "https://open.spotify.com/track/1QFEtarIwjZapBf7PMxKMM"
+    },
+    {
+      "album": {
         "name": "Gandhi - Mantras Of Compassion",
         "url": "https://open.spotify.com/album/64nu6ReZ5mlP7saHh3sgVK"
       },
@@ -2366,7 +2392,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 278160,
       "name": "Mystical Yearning",
       "url": "https://open.spotify.com/track/20rlTK4OGzb4mAYWfmjTCW"

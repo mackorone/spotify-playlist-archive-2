@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Neue Musik von Madonna, Sabrina Carpenter, RIN, reezy, Lada Gaga & vielen mehr!
 
-[Spotify](https://open.spotify.com/user/spotify) - 916,695 likes - 97 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 916,600 likes - 97 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 89 | [She Does It Right](https://open.spotify.com/track/1pO3dqvwGvCQzRQV67xfZd) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Peaches!](https://open.spotify.com/album/4wl0lStE236Kc7pJ7eTpgq) | 3:43 |
 | 90 | [AIN'T U TIRED? \(with Muni Long\)](https://open.spotify.com/track/2WJ0xtMr2AVWfBWFAmtxdd) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [AIN'T U TIRED? \(with Muni Long\)](https://open.spotify.com/album/7n7FoM7nC98uihlxb87OUX) | 3:41 |
 | 91 | [luzifer](https://open.spotify.com/track/67etqcB3Ay4k9FwrH8k60k) | [numa](https://open.spotify.com/artist/6Pj1tkkuqbi4DopxZbHdqK) | [luzifer](https://open.spotify.com/album/7gwJDVnWTI17qhFbbYDWpT) | 2:09 |
-| 92 | [AUF DICH](https://open.spotify.com/track/2otC9SlXj6GmQhMAwK5DyR) | [skuth](https://open.spotify.com/artist/4vdOkcx43Ugl9key4kRFDw) | [AUF DICH](https://open.spotify.com/album/7yVxOCiTP4JLdmYXrymuZw) | 2:07 |
+| 92 | [Auf dich](https://open.spotify.com/track/2otC9SlXj6GmQhMAwK5DyR) | [skuth](https://open.spotify.com/artist/4vdOkcx43Ugl9key4kRFDw) | [Auf dich](https://open.spotify.com/album/7yVxOCiTP4JLdmYXrymuZw) | 2:07 |
 | 93 | [It's Me](https://open.spotify.com/track/1D5L58KLBbceOynTP4DQnY) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [MAMIHLAPINATAPAI](https://open.spotify.com/album/5VIt2dA2StboE900mllWdJ) | 2:18 |
 | 94 | [Forever](https://open.spotify.com/track/5pNs6lPWpytU3rp7k5m9YN) | [Hekt](https://open.spotify.com/artist/0SOn6FeWwXGHcF9JEGM4Y1), [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [Forever](https://open.spotify.com/album/2evfxJ4FdqTp65s05zfVFQ) | 3:00 |
 | 95 | [Model 3](https://open.spotify.com/track/4IKvDZ3KoxvKvDyVb9vFqt) | [OMG](https://open.spotify.com/artist/2gSIgsQWEHbWvOiFvhvx3g) | [Model 3](https://open.spotify.com/album/3GA7dUlWI5Y3ghGzfxOTYE) | 1:53 |

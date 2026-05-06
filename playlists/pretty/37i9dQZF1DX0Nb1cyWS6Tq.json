@@ -1,6 +1,6 @@
 {
   "description": "Release the bats... The Cure on cover.",
-  "num_followers": 954119,
+  "num_followers": 954184,
   "original_name": "Dark & Gothic",
   "owner": {
     "name": "Spotify",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2026-03-20 04:00:51",
       "album": {
-        "name": "Lonely Is An Eyesore",
-        "url": "https://open.spotify.com/album/3lgwTWVYdTRhCtaOAMJDvc"
-      },
-      "artists": [
-        {
-          "name": "Clan of Xymox",
-          "url": "https://open.spotify.com/artist/1wHmR7I0UlF58WFQexCPha"
-        }
-      ],
-      "duration_ms": 243066,
-      "name": "Muscoviet Mosquito",
-      "url": "https://open.spotify.com/track/0VkLpkFFjIRS4XDCdW6NdO"
-    },
-    {
-      "added_at": "2026-03-20 04:00:51",
-      "album": {
         "name": "All About Eve",
         "url": "https://open.spotify.com/album/72KSAG3XBDNT7zBbz2l2Ki"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 265573,
       "name": "Flowers In Our Hair",
       "url": "https://open.spotify.com/track/5epK3IsFQ8XHnDNRcKgt1S"
+    },
+    {
+      "added_at": "2026-03-20 04:00:51",
+      "album": {
+        "name": "Lonely Is An Eyesore",
+        "url": "https://open.spotify.com/album/3lgwTWVYdTRhCtaOAMJDvc"
+      },
+      "artists": [
+        {
+          "name": "Clan of Xymox",
+          "url": "https://open.spotify.com/artist/1wHmR7I0UlF58WFQexCPha"
+        }
+      ],
+      "duration_ms": 243066,
+      "name": "Muscoviet Mosquito",
+      "url": "https://open.spotify.com/track/0VkLpkFFjIRS4XDCdW6NdO"
     },
     {
       "added_at": "2026-03-20 04:00:51",

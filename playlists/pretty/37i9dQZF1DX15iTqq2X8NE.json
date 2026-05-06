@@ -1,6 +1,6 @@
 {
   "description": "A journey in the modern & old Sudanese sounds.\n",
-  "num_followers": 19882,
+  "num_followers": 19885,
   "original_name": "Sudan Sounds",
   "owner": {
     "name": "Spotify",
@@ -303,22 +303,6 @@
     {
       "added_at": "2024-08-14 15:57:08",
       "album": {
-        "name": "\u0627\u0644\u062d\u0642\u064a\u0642\u0629",
-        "url": "https://open.spotify.com/album/6BfJKMdN2X8QIDODtHWLIE"
-      },
-      "artists": [
-        {
-          "name": "Connan",
-          "url": "https://open.spotify.com/artist/2rwkjlKZ4WoJXfkqUt3L45"
-        }
-      ],
-      "duration_ms": 126101,
-      "name": "\u0627\u0644\u062d\u0642\u064a\u0642\u0629",
-      "url": "https://open.spotify.com/track/3R3kbAiHl5Ir08AIWkmoAb"
-    },
-    {
-      "added_at": "2024-08-14 15:57:08",
-      "album": {
         "name": "Modarab",
         "url": "https://open.spotify.com/album/3dzdj41YMNwyT4BPoCpujO"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 131000,
       "name": "Modarab",
       "url": "https://open.spotify.com/track/4FmRfOUWREoooYkcT9DFW6"
+    },
+    {
+      "added_at": "2024-08-14 15:57:08",
+      "album": {
+        "name": "\u0627\u0644\u062d\u0642\u064a\u0642\u0629",
+        "url": "https://open.spotify.com/album/6BfJKMdN2X8QIDODtHWLIE"
+      },
+      "artists": [
+        {
+          "name": "Connan",
+          "url": "https://open.spotify.com/artist/2rwkjlKZ4WoJXfkqUt3L45"
+        }
+      ],
+      "duration_ms": 126101,
+      "name": "\u0627\u0644\u062d\u0642\u064a\u0642\u0629",
+      "url": "https://open.spotify.com/track/3R3kbAiHl5Ir08AIWkmoAb"
     },
     {
       "added_at": "2024-08-14 15:57:08",
@@ -387,22 +387,6 @@
     {
       "added_at": "2024-08-14 15:57:08",
       "album": {
-        "name": "Ganay Albreedo",
-        "url": "https://open.spotify.com/album/1dntlbkIw0jZGk3HIDxu2q"
-      },
-      "artists": [
-        {
-          "name": "Taha Suliman",
-          "url": "https://open.spotify.com/artist/0f8AQFo3xYsmSvDIrLG94a"
-        }
-      ],
-      "duration_ms": 335960,
-      "name": "Ganay Albreedo",
-      "url": "https://open.spotify.com/track/0S45re7HsNZYqlktnE9niZ"
-    },
-    {
-      "added_at": "2024-08-14 15:57:08",
-      "album": {
         "name": "3bdo Mota",
         "url": "https://open.spotify.com/album/0JP5fr97ytUIM5IYzAzDw2"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 185874,
       "name": "3bdo Mota",
       "url": "https://open.spotify.com/track/46uwZwCZk6K5VKBQhGoDNa"
+    },
+    {
+      "added_at": "2024-08-14 15:57:08",
+      "album": {
+        "name": "Ganay Albreedo",
+        "url": "https://open.spotify.com/album/1dntlbkIw0jZGk3HIDxu2q"
+      },
+      "artists": [
+        {
+          "name": "Taha Suliman",
+          "url": "https://open.spotify.com/artist/0f8AQFo3xYsmSvDIrLG94a"
+        }
+      ],
+      "duration_ms": 335960,
+      "name": "Ganay Albreedo",
+      "url": "https://open.spotify.com/track/0S45re7HsNZYqlktnE9niZ"
     },
     {
       "added_at": "2024-08-14 15:57:08",
@@ -883,22 +883,6 @@
     {
       "added_at": "2024-08-14 15:57:08",
       "album": {
-        "name": "Hegira",
-        "url": "https://open.spotify.com/album/7LPjjzAikDcyN8IDa7W0px"
-      },
-      "artists": [
-        {
-          "name": "Adiga Music Band",
-          "url": "https://open.spotify.com/artist/5U7XnFuuPanGY0TnJfqtlK"
-        }
-      ],
-      "duration_ms": 227124,
-      "name": "Mashy",
-      "url": "https://open.spotify.com/track/5apy8FTSLpwUU06Dbrsp6T"
-    },
-    {
-      "added_at": "2024-08-14 15:57:08",
-      "album": {
         "name": "Abn9",
         "url": "https://open.spotify.com/album/3FrBeNIVoFXaSj5qRRhK2v"
       },
@@ -915,18 +899,18 @@
     {
       "added_at": "2024-08-14 15:57:08",
       "album": {
-        "name": "\u0627\u0644\u062d\u0632\u0646 \u0627\u0644\u0646\u0628\u064a\u0644",
-        "url": "https://open.spotify.com/album/4VHzt5ldOK5UU3QAde1gOj"
+        "name": "Hegira",
+        "url": "https://open.spotify.com/album/7LPjjzAikDcyN8IDa7W0px"
       },
       "artists": [
         {
-          "name": "Mostafa Sid Ahmed",
-          "url": "https://open.spotify.com/artist/4Uh5nF1SKIp4no3YzmZyDO"
+          "name": "Adiga Music Band",
+          "url": "https://open.spotify.com/artist/5U7XnFuuPanGY0TnJfqtlK"
         }
       ],
-      "duration_ms": 688326,
-      "name": "\u0627\u0644\u062d\u0632\u0646 \u0627\u0644\u0646\u0628\u064a\u0644",
-      "url": "https://open.spotify.com/track/4Mqiut95E3p232OapUrZ9I"
+      "duration_ms": 227124,
+      "name": "Mashy",
+      "url": "https://open.spotify.com/track/5apy8FTSLpwUU06Dbrsp6T"
     },
     {
       "added_at": "2024-08-14 15:57:08",
@@ -963,6 +947,22 @@
       "duration_ms": 135553,
       "name": "slow dance",
       "url": "https://open.spotify.com/track/1nD3OTwIppymPUbNkmv1sK"
+    },
+    {
+      "added_at": "2024-08-14 15:57:08",
+      "album": {
+        "name": "\u0627\u0644\u062d\u0632\u0646 \u0627\u0644\u0646\u0628\u064a\u0644",
+        "url": "https://open.spotify.com/album/4VHzt5ldOK5UU3QAde1gOj"
+      },
+      "artists": [
+        {
+          "name": "Mostafa Sid Ahmed",
+          "url": "https://open.spotify.com/artist/4Uh5nF1SKIp4no3YzmZyDO"
+        }
+      ],
+      "duration_ms": 688326,
+      "name": "\u0627\u0644\u062d\u0632\u0646 \u0627\u0644\u0646\u0628\u064a\u0644",
+      "url": "https://open.spotify.com/track/4Mqiut95E3p232OapUrZ9I"
     },
     {
       "added_at": "2024-08-14 15:57:08",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2024-08-14 15:57:08",
       "album": {
-        "name": "Picasso (Outro)",
-        "url": "https://open.spotify.com/album/5FHpioMLjDuoJMvCg8GWQw"
-      },
-      "artists": [
-        {
-          "name": "O'd",
-          "url": "https://open.spotify.com/artist/0LwmaxKGW5M2qF7Mas5ejk"
-        }
-      ],
-      "duration_ms": 240138,
-      "name": "Picasso (Outro)",
-      "url": "https://open.spotify.com/track/09foknzEQOePhFgW1wvxeb"
-    },
-    {
-      "added_at": "2024-08-14 15:57:08",
-      "album": {
         "name": "Queen of Hena",
         "url": "https://open.spotify.com/album/6f17UYNXDEEUeyvK7BF41O"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 243357,
       "name": "My Girl",
       "url": "https://open.spotify.com/track/0YYZD5ntcIRy5QlI8F0B7s"
+    },
+    {
+      "added_at": "2024-08-14 15:57:08",
+      "album": {
+        "name": "Picasso (Outro)",
+        "url": "https://open.spotify.com/album/5FHpioMLjDuoJMvCg8GWQw"
+      },
+      "artists": [
+        {
+          "name": "O'd",
+          "url": "https://open.spotify.com/artist/0LwmaxKGW5M2qF7Mas5ejk"
+        }
+      ],
+      "duration_ms": 240138,
+      "name": "Picasso (Outro)",
+      "url": "https://open.spotify.com/track/09foknzEQOePhFgW1wvxeb"
     },
     {
       "added_at": "2024-08-14 15:57:08",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2024-08-14 15:57:08",
       "album": {
-        "name": "O'd the EP",
-        "url": "https://open.spotify.com/album/3yPFtPM6fwAlfbr1pLkp9I"
-      },
-      "artists": [
-        {
-          "name": "O'd",
-          "url": "https://open.spotify.com/artist/0LwmaxKGW5M2qF7Mas5ejk"
-        }
-      ],
-      "duration_ms": 313220,
-      "name": "Waraga",
-      "url": "https://open.spotify.com/track/5d7lKOsOxblM7m6uI4nz9J"
-    },
-    {
-      "added_at": "2024-08-14 15:57:08",
-      "album": {
         "name": "\u062d\u0628\u0643 \u0648\u0637\u0646",
         "url": "https://open.spotify.com/album/7MjP1UWvKqJHHjicEZXXU8"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 212954,
       "name": "Voyage",
       "url": "https://open.spotify.com/track/0Uz6OrAFUnaRPV3TzpslHR"
+    },
+    {
+      "added_at": "2024-08-14 15:57:08",
+      "album": {
+        "name": "O'd the EP",
+        "url": "https://open.spotify.com/album/3yPFtPM6fwAlfbr1pLkp9I"
+      },
+      "artists": [
+        {
+          "name": "O'd",
+          "url": "https://open.spotify.com/artist/0LwmaxKGW5M2qF7Mas5ejk"
+        }
+      ],
+      "duration_ms": 313220,
+      "name": "Waraga",
+      "url": "https://open.spotify.com/track/5d7lKOsOxblM7m6uI4nz9J"
     },
     {
       "added_at": "2024-08-14 15:57:08",
@@ -1207,26 +1207,6 @@
     {
       "added_at": "2024-08-14 15:57:08",
       "album": {
-        "name": "Zaman Maf",
-        "url": "https://open.spotify.com/album/5m1ZHWPTBZq9V7xeV27IO3"
-      },
-      "artists": [
-        {
-          "name": "O'd",
-          "url": "https://open.spotify.com/artist/0LwmaxKGW5M2qF7Mas5ejk"
-        },
-        {
-          "name": "A7MD",
-          "url": "https://open.spotify.com/artist/4lG8ClDdSczGV2g7b2G7Qx"
-        }
-      ],
-      "duration_ms": 218983,
-      "name": "Zaman Maf",
-      "url": "https://open.spotify.com/track/3RHQmKlOaVqew8UZ5AbmOP"
-    },
-    {
-      "added_at": "2024-08-14 15:57:08",
-      "album": {
         "name": "23",
         "url": "https://open.spotify.com/album/6sNXpHky9jR10fStq9E6vP"
       },
@@ -1255,6 +1235,26 @@
       "duration_ms": 177884,
       "name": "Apocalypto",
       "url": "https://open.spotify.com/track/3RTdo0zHATe4q1FI6iPTng"
+    },
+    {
+      "added_at": "2024-08-14 15:57:08",
+      "album": {
+        "name": "Zaman Maf",
+        "url": "https://open.spotify.com/album/5m1ZHWPTBZq9V7xeV27IO3"
+      },
+      "artists": [
+        {
+          "name": "O'd",
+          "url": "https://open.spotify.com/artist/0LwmaxKGW5M2qF7Mas5ejk"
+        },
+        {
+          "name": "A7MD",
+          "url": "https://open.spotify.com/artist/4lG8ClDdSczGV2g7b2G7Qx"
+        }
+      ],
+      "duration_ms": 218983,
+      "name": "Zaman Maf",
+      "url": "https://open.spotify.com/track/3RHQmKlOaVqew8UZ5AbmOP"
     },
     {
       "added_at": "2024-08-14 15:57:08",

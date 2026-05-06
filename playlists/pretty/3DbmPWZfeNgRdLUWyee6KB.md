@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,296 likes - 127 songs - 7 hr 27 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,300 likes - 134 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -135,5 +135,12 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 125 | [Querendo se amar](https://open.spotify.com/track/7zzt1qN5liyVqDjhKLNUmD) | [MARÉ MANSA](https://open.spotify.com/artist/0aqA11WetNWTGzgeHm6aF7) | [Querendo se amar](https://open.spotify.com/album/1lPc2hHods1EXP2aRwCKc7) | 2:44 |
 | 126 | [No Control](https://open.spotify.com/track/7dFxIoBEfGZns3Pd1Fcze0) | [Kon](https://open.spotify.com/artist/0Bgp4Jbe1OEqrn24HVKj9b) | [No Control](https://open.spotify.com/album/5e5rJL3GDeHguqRBgmXnhS) | 2:38 |
 | 127 | [blue moon \(remastered\)](https://open.spotify.com/track/590SzWRpBK7UOyFXnqVH8Z) | [Reject Madrigal](https://open.spotify.com/artist/7lOQKkSHBPbmIexScbnPlu) | [Technicolor \(Side A\)](https://open.spotify.com/album/7HiQFIAt9nK0LeALQOLYib) | 4:51 |
+| 128 | [Broken Conversations](https://open.spotify.com/track/6MwAfAJrR9SQfXU4eqERuH) | [Gizem Demirhan](https://open.spotify.com/artist/1E0M9BtLjPMUurgqUqpi7o) | [Broken Conversations](https://open.spotify.com/album/6i0l2X4NgBrSr2iowHKwjQ) | 3:43 |
+| 129 | [Un dia más](https://open.spotify.com/track/5CoArSA5E3RF9oCC8rre89) | [Raúl Cabo](https://open.spotify.com/artist/5A0xF7wdd6jdeirVtqjvF2) | [Un dia más](https://open.spotify.com/album/1OLDwFDUrKgP5pEItqi2bj) | 3:27 |
+| 130 | [Mama](https://open.spotify.com/track/1bpNDJEYv5MNIkBRIqZOFZ) | [Crazy Trottles](https://open.spotify.com/artist/6N3TSJcbEEqiHeiv6qqFxz) | [Mama](https://open.spotify.com/album/5VNar54xP0Pc5Qw6EtMhvv) | 3:09 |
+| 131 | [If You Knew](https://open.spotify.com/track/60webe4QTzSut52YgyFKqI) | [Brian Grey](https://open.spotify.com/artist/3pPN42kSubPiCcWQfuCHF2) | [If You Knew](https://open.spotify.com/album/41j5WlgXUUHoeF34uA1mIM) | 4:05 |
+| 132 | [Stick Around](https://open.spotify.com/track/3EtjIZlARqyTTaGghFPi8h) | [Drawing on Scars](https://open.spotify.com/artist/6cQZAXvhiIhuzJlN7XmeKu), [Jodie Reid](https://open.spotify.com/artist/08oMRYJ7LRlDPN7QXE5l9u) | [Stick Around](https://open.spotify.com/album/3ab29ho6kVAV8qfecsxEmf) | 4:29 |
+| 133 | [Земне Життя](https://open.spotify.com/track/6idVqezW5gYMSsW2YDRNID) | [YANKEE](https://open.spotify.com/artist/2H4v0yVZxaCTgekZFBCR5V) | [Земне Життя](https://open.spotify.com/album/6fVSuI4RtrPRY5XesycuUl) | 2:13 |
+| 134 | [Sleep tight](https://open.spotify.com/track/0Lrr38F3fCSL0ERjoOrjBO) | [Tsjabowski](https://open.spotify.com/artist/5jh3Uorc4wBHMUyfIwcMaV) | [Middernachtmagie](https://open.spotify.com/album/47LdJPaZrscgqAf2Qt6wuc) | 3:16 |
 
-Snapshot ID: `AAATxfta+3kDaHmRRsjRazUWbu2MpGQo`
+Snapshot ID: `AAATzKnHv2VJRfnb0jP88YLiGW+2Toko`

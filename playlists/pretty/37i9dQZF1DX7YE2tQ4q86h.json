@@ -1,12 +1,12 @@
 {
   "description": "Kim Petras is having a main pop girl emergency \ud83c\udd98",
-  "num_followers": 226893,
+  "num_followers": 227038,
   "original_name": "OBSESSED",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPxUfK/rQqtE67R1b7ycxVYK2yf7",
+  "snapshot_id": "AAAAALzrjaUS+zYOsQIuwWs4ikeRAiiK",
   "tracks": [
     {
       "added_at": "2026-04-24 04:01:24",
@@ -203,6 +203,22 @@
       "duration_ms": 171010,
       "name": "RUNWAY",
       "url": "https://open.spotify.com/track/7BjcYqD0CqXnG45ezWSTYR"
+    },
+    {
+      "added_at": "2026-05-05 15:32:55",
+      "album": {
+        "name": "Prettiest Girl In America",
+        "url": "https://open.spotify.com/album/1u84VfX6FaeXPj7k8ahb1f"
+      },
+      "artists": [
+        {
+          "name": "Meg Stalter",
+          "url": "https://open.spotify.com/artist/2uz4LewowsAwg9k88MRDzG"
+        }
+      ],
+      "duration_ms": 164277,
+      "name": "Prettiest Girl In America",
+      "url": "https://open.spotify.com/track/3GhfqidPZ0XMPThWZg6H3B"
     },
     {
       "added_at": "2026-05-01 04:02:23",
@@ -1283,22 +1299,6 @@
       "duration_ms": 133282,
       "name": "JOEY RUBBER",
       "url": "https://open.spotify.com/track/75wLYjS1en69GHsxEOL6vx"
-    },
-    {
-      "added_at": "2026-03-06 05:00:09",
-      "album": {
-        "name": "Kiss All The Time. Disco, Occasionally.",
-        "url": "https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 216026,
-      "name": "Pop",
-      "url": "https://open.spotify.com/track/028i7HBfp8uE5epmx5ieMA"
     },
     {
       "added_at": "2026-02-27 05:00:35",

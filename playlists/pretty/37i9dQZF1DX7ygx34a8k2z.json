@@ -1,6 +1,6 @@
 {
   "description": "dig through the record bin.",
-  "num_followers": 313205,
+  "num_followers": 313235,
   "original_name": "Thrifted",
   "owner": {
     "name": "Spotify",
@@ -703,6 +703,22 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
+        "name": "You'd Prefer An Astronaut",
+        "url": "https://open.spotify.com/album/2qx0YtBEDcbpclLlqzRi2o"
+      },
+      "artists": [
+        {
+          "name": "Hum",
+          "url": "https://open.spotify.com/artist/6sM2JCBjZprP7JLMTZZSxX"
+        }
+      ],
+      "duration_ms": 309106,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/6lQE6LF3MU63Z6VyhPxaV3"
+    },
+    {
+      "added_at": "2025-01-15 04:11:50",
+      "album": {
         "name": "Protection",
         "url": "https://open.spotify.com/album/5CnZjFfPDmxOX7KnWLLqpC"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 471560,
       "name": "Protection",
       "url": "https://open.spotify.com/track/3kKVqFF4pv4EXeQe428zl2"
-    },
-    {
-      "added_at": "2025-01-15 04:11:50",
-      "album": {
-        "name": "You'd Prefer An Astronaut",
-        "url": "https://open.spotify.com/album/2qx0YtBEDcbpclLlqzRi2o"
-      },
-      "artists": [
-        {
-          "name": "Hum",
-          "url": "https://open.spotify.com/artist/6sM2JCBjZprP7JLMTZZSxX"
-        }
-      ],
-      "duration_ms": 309106,
-      "name": "Stars",
-      "url": "https://open.spotify.com/track/6lQE6LF3MU63Z6VyhPxaV3"
     },
     {
       "added_at": "2025-01-15 04:11:50",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "Stoned and Dethroned (Expanded Version)",
-        "url": "https://open.spotify.com/album/6ufoOtpwsgx0wpbQBQOH7H"
-      },
-      "artists": [
-        {
-          "name": "The Jesus and Mary Chain",
-          "url": "https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs"
-        }
-      ],
-      "duration_ms": 151960,
-      "name": "Sometimes Always",
-      "url": "https://open.spotify.com/track/16vuZiAS0YQkQvAkRtI2d3"
-    },
-    {
-      "added_at": "2025-01-15 04:11:50",
-      "album": {
         "name": "Kill the Moonlight",
         "url": "https://open.spotify.com/album/519PD4UWRalte2kjiiPY8i"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 159386,
       "name": "The Way We Get By",
       "url": "https://open.spotify.com/track/2k6TManBkFAweRUCH6jYny"
+    },
+    {
+      "added_at": "2025-01-15 04:11:50",
+      "album": {
+        "name": "Stoned and Dethroned (Expanded Version)",
+        "url": "https://open.spotify.com/album/6ufoOtpwsgx0wpbQBQOH7H"
+      },
+      "artists": [
+        {
+          "name": "The Jesus and Mary Chain",
+          "url": "https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs"
+        }
+      ],
+      "duration_ms": 151960,
+      "name": "Sometimes Always",
+      "url": "https://open.spotify.com/track/16vuZiAS0YQkQvAkRtI2d3"
     },
     {
       "added_at": "2025-01-15 04:11:50",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
+        "name": "Monster (25th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2Q6XCez8NWMKNKYMsm54DK"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "duration_ms": 278653,
+      "name": "Crush With Eyeliner - Remastered",
+      "url": "https://open.spotify.com/track/3uQfQjvDBmGF4L4QzNlB9K"
+    },
+    {
+      "added_at": "2025-01-15 04:11:50",
+      "album": {
         "name": "Alien Lanes",
         "url": "https://open.spotify.com/album/4QV8iMlscaIpidQHcErzbE"
       },
@@ -1355,22 +1371,6 @@
       "duration_ms": 230973,
       "name": "Shady Lane",
       "url": "https://open.spotify.com/track/0JZAGUbzkwWSnoInuWoBgd"
-    },
-    {
-      "added_at": "2025-01-15 04:11:50",
-      "album": {
-        "name": "Monster (25th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/2Q6XCez8NWMKNKYMsm54DK"
-      },
-      "artists": [
-        {
-          "name": "R.E.M.",
-          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
-        }
-      ],
-      "duration_ms": 278653,
-      "name": "Crush With Eyeliner - Remastered",
-      "url": "https://open.spotify.com/track/3uQfQjvDBmGF4L4QzNlB9K"
     },
     {
       "added_at": "2025-01-15 04:11:50",

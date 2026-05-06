@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ENQ5d8ERww.md) - [plain]
 
 > Die Klassiker des Schweizer Hip\-Hop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,206 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,210 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ENQ5d8ERww.md) - [plain]
 | 24 | [Läbenslauf](https://open.spotify.com/track/3DdMYzqyIg7mXI47UTcNmN) | [Wrecked Mob](https://open.spotify.com/artist/0QIYFbo3qmvlapTnwPM6i3), [Dj Thomilla](https://open.spotify.com/artist/2WLE4ikok9I4HuBm9637rx) | [Läbenslauf](https://open.spotify.com/album/3hGDhRc16xd2dhfjLQsHZh) | 4:02 |
 | 25 | [Luftloch](https://open.spotify.com/track/2DlKLCqqfzbwKKGHOXZF8N) | [Moskito](https://open.spotify.com/artist/7uL3oi3QRjKzhzYM2zI4Va) | [Maxilla](https://open.spotify.com/album/3YE7DohC6p9fImF9AJx9Su) | 4:55 |
 | 26 | [Vom Feinste](https://open.spotify.com/track/5KwBrbPh4g6JH4OzQ8vb2b) | [Ruff](https://open.spotify.com/artist/6c4A4szzdPRitveDWGOP87), [Arthi](https://open.spotify.com/artist/4jNAeGaooM9Is7PEXBmhP9), [Jears](https://open.spotify.com/artist/0g9eVkK9DaH2pyZmCQK7iP) | [Uhrsprung](https://open.spotify.com/album/6OpzGy7N8uv0BB7BJnDHPb) | 4:13 |
-| 27 | [I dier](https://open.spotify.com/track/6rMrK337tJujRXWYMs2QnF) | [Rotchopf](https://open.spotify.com/artist/2O6CRAwvhDRQEPSBcdIl2z) | [Freshman 2015](https://open.spotify.com/album/2atDkxK4rK89hcOWvoVNr0) | 3:20 |
-| 28 | [Ein Koenig Regiert](https://open.spotify.com/track/0cqPlbcY2DUsusJyO59zV0) | [EKR](https://open.spotify.com/artist/7zuDLo0n0dSSeGWtT2xPVL) | [Fresh Stuff 3](https://open.spotify.com/album/1tKRkMvEIbImAElUAEVGWF) | 4:59 |
+| 27 | [Ein Koenig Regiert](https://open.spotify.com/track/0cqPlbcY2DUsusJyO59zV0) | [EKR](https://open.spotify.com/artist/7zuDLo0n0dSSeGWtT2xPVL) | [Fresh Stuff 3](https://open.spotify.com/album/1tKRkMvEIbImAElUAEVGWF) | 4:59 |
+| 28 | [I dier](https://open.spotify.com/track/6rMrK337tJujRXWYMs2QnF) | [Rotchopf](https://open.spotify.com/artist/2O6CRAwvhDRQEPSBcdIl2z) | [Freshman 2015](https://open.spotify.com/album/2atDkxK4rK89hcOWvoVNr0) | 3:20 |
 | 29 | [Nackt](https://open.spotify.com/track/0M4egOl3bq3YnaYm2H7651) | [CBN](https://open.spotify.com/artist/6J4GECNmYunLtUBdV3kknJ) | [Papillon](https://open.spotify.com/album/6xSCPgzot5N8EEHZ8Px85J) | 3:45 |
 | 30 | [Wenn I Läb, Wenn I Stirb](https://open.spotify.com/track/539kZ2pC0Z6SgfXz6vOZaP) | [Boys On Pills](https://open.spotify.com/artist/4q432HNxWLljhWJlYBaUDb) | [Nacht](https://open.spotify.com/album/7K0Zi0wRJt4CDVot8tvpXh) | 3:03 |
 | 31 | [Weisch Du no?](https://open.spotify.com/track/23Sd2rLCLz1Bd9BHbZb9iQ) | [Knackeboul](https://open.spotify.com/artist/5bp4bA5lgte1Iag0omrGYw), [Polo Hofer](https://open.spotify.com/artist/5J0q4JXRlR7EjwTU8gThxF) | [Picasso](https://open.spotify.com/album/15CdVyhICOqQrPprJEh7v2) | 2:50 |

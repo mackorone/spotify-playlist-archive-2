@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 
 > The newest arrivals\. Cover: Asake
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,827 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,829 likes - 45 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,18 +45,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 | 35 | [Racism Is A Killa \(feat\. Big Boi\)](https://open.spotify.com/track/2gEbs4rKfNzmDBEuv92S2t) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [Big Boi](https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB) | [Brightside](https://open.spotify.com/album/4aJHr1kwmCQYnOrkYUc4gK) | 4:07 |
 | 36 | [SHOOK](https://open.spotify.com/track/0wdSmyHGxoNaJmLENqcaUj) | [H33RA](https://open.spotify.com/artist/1NHGoS1F3ejgcKg5sE95LM) | [SHOOK](https://open.spotify.com/album/4lSYuGsPUTHGel906TJCqZ) | 3:03 |
 | 37 | [WHAT FOR](https://open.spotify.com/track/0KjM9s4TiiN28i4utEk7R5) | [ONES](https://open.spotify.com/artist/2eKt2klgJbaK8qAqvkAte6) | [WHAT FOR](https://open.spotify.com/album/2ofSDkCh7kPatJKmizByke) | 2:56 |
-| 38 | [Pretty Ugly \- Girls Trip](https://open.spotify.com/track/3t6k4z2biWM5y3RaKYHo4W) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m), [Margo XS](https://open.spotify.com/artist/4TfgyYjNRfHUdPJSQGUke0) | [Midnight Sun: Girls Trip](https://open.spotify.com/album/4WMcRlbt7NvpKrrqO8ykQf) | 2:28 |
-| 39 | [Blue Moon \- Girls Trip](https://open.spotify.com/track/7pVos5ARWPPoss91LDu9Hx) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Midnight Sun: Girls Trip](https://open.spotify.com/album/4WMcRlbt7NvpKrrqO8ykQf) | 3:12 |
-| 40 | [Stand Still](https://open.spotify.com/track/1867RP4RmHjiGnBlpk0f3w) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2) | [Stand Still](https://open.spotify.com/album/4oabzSr5LNJ049MLW6iH37) | 2:24 |
-| 41 | [Shoulda Never \(feat\. USHER\)](https://open.spotify.com/track/1ITJflybJsfarsUtiBvkfK) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Kehlani](https://open.spotify.com/album/2xkYTmqjear3lSGydIn7wh) | 3:06 |
-| 42 | [Rice Bowl](https://open.spotify.com/track/3QZugtgEClvPtugTwxu5jn) | [Young T & Bugsey](https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z), [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Rice Bowl](https://open.spotify.com/album/2Trn9ft8Tc9aZ8gyzLdoyO) | 3:06 |
-| 43 | [BACK IN MY ARMS](https://open.spotify.com/track/7wRTxFb9tIWH9SCyrEQdZI) | [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT) | [BACK IN MY ARMS](https://open.spotify.com/album/7aeSVs5NhejLtWfuLgZkJd) | 3:43 |
-| 44 | [Fell Again](https://open.spotify.com/track/6S86CLAoA7S19wk8WeQjRs) | [cikho](https://open.spotify.com/artist/3K5lshiZhzx2bvme3n4hTz) | [Fell Again / Stranger What's Your Name?](https://open.spotify.com/album/5ug1JL9PFc1gCxokrSh1yo) | 2:41 |
-| 45 | [Greatest Rapper Alive](https://open.spotify.com/track/7FaOYLeWDVpNxF86A5PBEL) | [Clavish](https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1) | [Greatest Rapper Alive](https://open.spotify.com/album/7CvFn3e9wZBrNQUnRvbrCq) | 5:11 |
-| 46 | [It Never Ends](https://open.spotify.com/track/1TeknOxmMXAfvyuM4PTAMd) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68), [Femi Koleoso](https://open.spotify.com/artist/2C8JLkxN7evbT2t08IIV9V) | [Between Us](https://open.spotify.com/album/2n3AdEZI379D0sAAWvTHEa) | 3:17 |
-| 47 | [Mind is a Dancer](https://open.spotify.com/track/33ljpH5mxnf6LAU96WtWiC) | [Bel Cobain](https://open.spotify.com/artist/6JvEcv04PhUKWrUYZJrj1F) | [Kizzy](https://open.spotify.com/album/2kQDQctLqaMMOnX84ZIzcw) | 4:28 |
-| 48 | [Treading Water](https://open.spotify.com/track/2vy2VwvIHGUowBOvyTb9gg) | [Quinn Oulton](https://open.spotify.com/artist/2lqAPLmP9BsHPymfa6UFO7) | [Treading Water](https://open.spotify.com/album/48TTmFUOAmJNVUSNzdiMjr) | 3:04 |
-| 49 | [We Still Good??](https://open.spotify.com/track/42LIEv6ZRSrouYUhz5UT71) | [Leah Music](https://open.spotify.com/artist/3FrtVf61eHTo2BZNG1qTOK) | [We Still Good??](https://open.spotify.com/album/58Tex34A783zyGDC1amh2v) | 2:18 |
-| 50 | [DEM MAN](https://open.spotify.com/track/1oHfbYJxiJ87kidsNiuBmY) | [TR Gobrazy](https://open.spotify.com/artist/2bWovm0DNeEkCevemRHN0C) | [DEM MAN](https://open.spotify.com/album/2tbTYKRjQigIvWaAZAXoge) | 1:58 |
+| 38 | [Stand Still](https://open.spotify.com/track/1867RP4RmHjiGnBlpk0f3w) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2) | [Stand Still](https://open.spotify.com/album/4oabzSr5LNJ049MLW6iH37) | 2:24 |
+| 39 | [Shoulda Never \(feat\. USHER\)](https://open.spotify.com/track/1ITJflybJsfarsUtiBvkfK) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Kehlani](https://open.spotify.com/album/2xkYTmqjear3lSGydIn7wh) | 3:06 |
+| 40 | [Rice Bowl](https://open.spotify.com/track/3QZugtgEClvPtugTwxu5jn) | [Young T & Bugsey](https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z), [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Rice Bowl](https://open.spotify.com/album/2Trn9ft8Tc9aZ8gyzLdoyO) | 3:06 |
+| 41 | [BACK IN MY ARMS](https://open.spotify.com/track/7wRTxFb9tIWH9SCyrEQdZI) | [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT) | [BACK IN MY ARMS](https://open.spotify.com/album/7aeSVs5NhejLtWfuLgZkJd) | 3:43 |
+| 42 | [Fell Again](https://open.spotify.com/track/6S86CLAoA7S19wk8WeQjRs) | [cikho](https://open.spotify.com/artist/3K5lshiZhzx2bvme3n4hTz) | [Fell Again / Stranger What's Your Name?](https://open.spotify.com/album/5ug1JL9PFc1gCxokrSh1yo) | 2:41 |
+| 43 | [Greatest Rapper Alive](https://open.spotify.com/track/7FaOYLeWDVpNxF86A5PBEL) | [Clavish](https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1) | [Greatest Rapper Alive](https://open.spotify.com/album/7CvFn3e9wZBrNQUnRvbrCq) | 5:11 |
+| 44 | [It Never Ends](https://open.spotify.com/track/1TeknOxmMXAfvyuM4PTAMd) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68), [Femi Koleoso](https://open.spotify.com/artist/2C8JLkxN7evbT2t08IIV9V) | [Between Us](https://open.spotify.com/album/2n3AdEZI379D0sAAWvTHEa) | 3:17 |
+| 45 | [Mind is a Dancer](https://open.spotify.com/track/33ljpH5mxnf6LAU96WtWiC) | [Bel Cobain](https://open.spotify.com/artist/6JvEcv04PhUKWrUYZJrj1F) | [Kizzy](https://open.spotify.com/album/2kQDQctLqaMMOnX84ZIzcw) | 4:28 |
 
-Snapshot ID: `AAAAAHfjAxNztxHZSLSuqPIGUdB7z+XU`
+Snapshot ID: `AAAAADLTv/jjCAj+v5bWwlAtWF/l2M+D`

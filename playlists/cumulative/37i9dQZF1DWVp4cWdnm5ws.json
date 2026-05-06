@@ -1085,6 +1085,40 @@
     },
     {
       "album": {
+        "name": "DANCE WITH ME",
+        "url": "https://open.spotify.com/album/63EnT6IyINg2wXeove6VaV"
+      },
+      "artists": [
+        {
+          "name": "Ron David",
+          "url": "https://open.spotify.com/artist/2Be24H7MmbWqAAlo283VNa"
+        },
+        {
+          "name": "Elh\u00e9",
+          "url": "https://open.spotify.com/artist/2cISyyoc7B4kws6seWRzao"
+        },
+        {
+          "name": "SJ Maglana",
+          "url": "https://open.spotify.com/artist/28lD6fIj7acTZNQHr7UIqc"
+        },
+        {
+          "name": "Cozyivy",
+          "url": "https://open.spotify.com/artist/3x8luodoKaUDBXV4xnXWdS"
+        },
+        {
+          "name": "$NPRD",
+          "url": "https://open.spotify.com/artist/1bHNpzVQ7bDb9arASspvu6"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "DANCE WITH ME",
+      "url": "https://open.spotify.com/track/5q6J1vJEa0hEvVi2x0CYLe"
+    },
+    {
+      "album": {
         "name": "Darling, Darling",
         "url": "https://open.spotify.com/album/1a72z6O7pUejkSYW8nRb7Z"
       },
@@ -3686,7 +3720,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 242280,
       "name": "nananabik",
       "url": "https://open.spotify.com/track/0Qo45W6C2QeMz6o4bJ1m9b"
@@ -5136,7 +5170,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 223416,
       "name": "Stranger's Funeral",
       "url": "https://open.spotify.com/track/0xsKzUbzpcqQ9kGLV1tZ16"

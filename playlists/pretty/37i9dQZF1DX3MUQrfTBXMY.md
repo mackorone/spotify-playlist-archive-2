@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MUQrfTBXMY.md) - [plain]
 
 > Headbangers of Bangladesh\. Cover : Shironamhin
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,312 likes - 72 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,327 likes - 72 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,10 +22,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MUQrfTBXMY.md) - [plain]
 | 12 | [Ekanto Golaap](https://open.spotify.com/track/7LvHieZe4yPYpDRF0OPCmk) | [Indalo](https://open.spotify.com/artist/37LGjqM0je1KNrLRD3MZ47) | [Ekanto Golaap](https://open.spotify.com/album/16PdkicE350PBwzKQAHmkw) | 4:17 |
 | 13 | [Aushomapto](https://open.spotify.com/track/1S10omnF4NT8QhcLNSxRse) | [Aurthohin](https://open.spotify.com/artist/2W4I7PFzMsSXVpNNhvGF3A) | [Aushomapto 1](https://open.spotify.com/album/7whmpn7eMWOJjZUaYd2AIS) | 4:59 |
 | 14 | [Purnota](https://open.spotify.com/track/4bxMJf8FEJNn1I4I2oT1ax) | [Warfaze](https://open.spotify.com/artist/06eRdiCBgFUhiuFjei0eH2) | [Shotto](https://open.spotify.com/album/6arzq3H2uuaYsfBBe2BYC3) | 5:59 |
-| 15 | [Moho](https://open.spotify.com/track/0OtKBLidTecETe735woxQ9) | [Aftermath](https://open.spotify.com/artist/79iOqoOkavfzftyQjx21qp) | [Moho](https://open.spotify.com/album/4LcS0FVjTgbOUl8E8EzQXg) | 4:25 |
+| 15 | [Moho](https://open.spotify.com/track/0OtKBLidTecETe735woxQ9) | [Aftermath Bangladesh](https://open.spotify.com/artist/0GWjDZKtXkFM2AC8AOvmDn) | [Moho](https://open.spotify.com/album/4LcS0FVjTgbOUl8E8EzQXg) | 4:25 |
 | 16 | [Ghum \(Official\)](https://open.spotify.com/track/18xxOCfmxqBD5YgTFpzp5d) | [Odd Signature](https://open.spotify.com/artist/4j8byCgeZUKS1oeXdwD1GC) | [Ghum \(Official\)](https://open.spotify.com/album/5NXiZMrsbAyswRpt369KJm) | 3:49 |
 | 17 | [Rupkotha](https://open.spotify.com/track/2PBFiC8VnGTbSol2VLnLca) | [Warfaze](https://open.spotify.com/artist/06eRdiCBgFUhiuFjei0eH2) | [Shotto](https://open.spotify.com/album/6arzq3H2uuaYsfBBe2BYC3) | 6:37 |
-| 18 | [Utshorgo](https://open.spotify.com/track/1R6wyKCXta1578Q2d49n9w) | [Aftermath](https://open.spotify.com/artist/79iOqoOkavfzftyQjx21qp) | [Jed](https://open.spotify.com/album/7BIpxVzZrxj0r7dczRoJyK) | 5:52 |
+| 18 | [Utshorgo](https://open.spotify.com/track/1R6wyKCXta1578Q2d49n9w) | [Aftermath Bangladesh](https://open.spotify.com/artist/0GWjDZKtXkFM2AC8AOvmDn) | [Jed](https://open.spotify.com/album/7BIpxVzZrxj0r7dczRoJyK) | 5:52 |
 | 19 | [Golokdhadha \- Version 01](https://open.spotify.com/track/4wG7zBOjjpT7YXS3EEozn1) | [Kaaktaal](https://open.spotify.com/artist/7fhlWsdi6oTTxj8d3uYIAn) | [Kaaktaal Raw, Vol\. 1](https://open.spotify.com/album/08tt1cKGY2LGaVN5HbyuQs) | 3:52 |
 | 20 | [Khachar Bhetor Ochin Pakhi](https://open.spotify.com/track/7MRoAC5UHDbx0FoXQWNihB) | [Shunno](https://open.spotify.com/artist/2S7h1jilqmzK8iyU47nmSk) | [Gorbo Bangladesh](https://open.spotify.com/album/0nAuXmUo9SZSLSgfeQdOfO) | 5:53 |
 | 21 | [Batighor](https://open.spotify.com/track/0hUennvBRzCBz7WeaXkRr5) | [Shironamhin](https://open.spotify.com/artist/3zoceu8YD9dVjL4jaleJLg) | [Batighor](https://open.spotify.com/album/5FLqB9JhcOaVi7xCLbpITO) | 6:07 |

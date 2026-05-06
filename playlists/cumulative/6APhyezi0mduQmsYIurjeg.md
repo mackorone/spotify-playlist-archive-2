@@ -4,7 +4,7 @@
 
 > Submit your song: https:&\#x2F;&\#x2F;dailyplaylists.com&\#x2F;playlists&\#x2F;6APhyezi0mduQmsYIurjeg
 
-534 songs - 1 day 8 hr 16 min
+541 songs - 1 day 8 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Black & White](https://open.spotify.com/track/0VhAHkQyGQWrQrGjXOkDY9) | [The Multides](https://open.spotify.com/artist/7HqgbkLWNLbSNK7BjCU6Sq) | [I Have No Legs](https://open.spotify.com/album/0xxsEy17UxM9oMRdKxGACA) | 2:21 | 2023-01-12 |  |
 | [Blanket of Stars](https://open.spotify.com/track/6HBsIshyys6vD7vf0Pm1Ut) | [Quilted Snowflake](https://open.spotify.com/artist/3iWXOvz68AzL0gUCpUvTVA) | [Lemonade](https://open.spotify.com/album/7jmbQmCv3wMaqwLNkjQXw4) | 2:55 | 2023-01-14 |  |
 | [Bleed For Me](https://open.spotify.com/track/1YIANFV5hxw4dZvPRqOAuv) | [Fortium](https://open.spotify.com/artist/3QMdvX2IxPYLNQJ83aQVxG) | [Volume 35](https://open.spotify.com/album/48CoiktHLylYVPy8SLyqVh) | 4:26 | 2025-05-06 |  |
+| [Bleeding out](https://open.spotify.com/track/2HqhuCXfwrdPo7AobkzsJx) | [Faiyaz and the Wasted Chances](https://open.spotify.com/artist/2q0ffFKV6xgukfE7HN3jMW) | [Bleeding out](https://open.spotify.com/album/23LMkImDL43YosQAjRPH5W) | 1:30 | 2026-05-05 |  |
 | [Blood In The Wind](https://open.spotify.com/track/0wiZY2mNtv2JGAhvuXjj2f) | [LIMBO](https://open.spotify.com/artist/5EzLNKZ3c47dmCidLBxzAJ) | [Blood In The Wind](https://open.spotify.com/album/4Ipva7SlOHNSRwE5pCDDeA) | 2:44 | 2023-03-08 |  |
 | [Blown Apart](https://open.spotify.com/track/1gvhsSExg5oDsL3aNnyYDT) | [Michael Ballantyne](https://open.spotify.com/artist/6K4J9zzadb1xVRiM1N3BEI) | [Blown Apart](https://open.spotify.com/album/2D62x8FW99HMnimjJeJ98r) | 4:25 | 2023-03-08 |  |
 | [Boda](https://open.spotify.com/track/65eMwIuTJFx21MkscoYl8B) | [Rainer](https://open.spotify.com/artist/11SThJcXiDJsyjTdumI9Tz) | [Boda](https://open.spotify.com/album/4MZV6vnaJLERWQlTnkD4SR) | 3:22 | 2025-03-31 |  |
@@ -104,6 +105,7 @@
 | [Delirios del rock and roll](https://open.spotify.com/track/6s89ZX8nuYOmNyk4L474tX) | [Sergio Medina](https://open.spotify.com/artist/0ORqJysjGs60RzE1FRVzrB), [los errantes](https://open.spotify.com/artist/5SYbFTyYHqROBnwWEioqqV) | [1982](https://open.spotify.com/album/2LKgyvwKnS0oBvDFXJYvJr) | 4:57 | 2024-12-24 |  |
 | [Demolición](https://open.spotify.com/track/3LsFQmV6T8vhATbQS7oQWk) | [Los Mortymer](https://open.spotify.com/artist/3DZIhZBP83i5TuJRy43rkZ) | [Menú Degustación](https://open.spotify.com/album/1nLuziQNV4Ywe4CV9ItkJx) | 2:53 | 2023-03-13 |  |
 | [Dentro de Mí](https://open.spotify.com/track/47dLconR9DkOs8hY2eboaW) | [Agentes Invisibles](https://open.spotify.com/artist/5fehjtVEJT4M4sVbHqA0J9) | [Dentro de Mí](https://open.spotify.com/album/6TFhiUXPvGkNQ6FEiEjREg) | 3:49 | 2023-02-22 |  |
+| [Desert Roll](https://open.spotify.com/track/1i3jPowCNmyemFeiJtvLSA) | [A VIOLET IN YOUTH](https://open.spotify.com/artist/3Gqlvwb5U3hbST19eSdJqB) | [Desert Roll, Exactly.](https://open.spotify.com/album/5s5LGNDHjvLzEkRDYKBkaE) | 3:21 | 2026-05-05 |  |
 | [Desperate Measures](https://open.spotify.com/track/6jEP1QEofhEI5vRkqcafRX) | [Twist & Writhe](https://open.spotify.com/artist/4zRz9OrERKG1EJriVM7U0s) | [all things in time...](https://open.spotify.com/album/1PMHRcps40wlFFfb36sFGy) | 4:03 | 2024-11-25 |  |
 | [Different Underneath](https://open.spotify.com/track/3ARsMwOxZLVRIlPuNWAtPO) | [Chavez Cartel](https://open.spotify.com/artist/6xOc7vQz5A564U7xBlP4e4) | [Different Underneath](https://open.spotify.com/album/52TRy8qFSY3hWYqkC56HP3) | 4:46 | 2025-02-20 |  |
 | [DIGGINGMYGRAVE](https://open.spotify.com/track/3Tgft6wj5LweFrcC9HVlsM) | [Kris Russ](https://open.spotify.com/artist/4zozSGDgFZCbbZkegA48yO) | [DIGGINGMYGRAVE](https://open.spotify.com/album/6qXASJ40pjxNCBnHPvwRDo) | 3:22 | 2024-11-18 |  |
@@ -164,9 +166,11 @@
 | [G6](https://open.spotify.com/track/4GPXn9CdhywOTp9v25RNgJ) | [ciggy sunday](https://open.spotify.com/artist/0QwvTI58dfvAdVnuJggykY) | [G6](https://open.spotify.com/album/51I4SCFeObyHhPIBv2YB7H) | 4:01 | 2024-12-09 |  |
 | [Ganância](https://open.spotify.com/track/52exrDs5KivzWvtg4e7LEc) | [BRAVA HC](https://open.spotify.com/artist/5xCfJYUnnIkUjjuIA0tfUn) | [Ganância](https://open.spotify.com/album/5bvIVnNAxlGJLVcKpm2pWY) | 3:16 | 2025-03-08 |  |
 | [Giganti](https://open.spotify.com/track/1ZSnyK7bm8jbSeNlgZd9Ig) | [Nosexfor](https://open.spotify.com/artist/5cSqNiNzNdO1juc0qXx7lU) | [Giganti](https://open.spotify.com/album/7cufzZ6Kk5t8s9WJNAcdTv) | 3:02 | 2024-10-03 |  |
+| [Girl](https://open.spotify.com/track/1hVXKdgZSoZJrvCoJL3OeW) | [Clixé](https://open.spotify.com/artist/7afbJErY3XznRo0LOv1CIx) | [Girl](https://open.spotify.com/album/1zwTPOKt5DEom2E35RnOQK) | 2:01 | 2026-05-05 |  |
 | [Godforsaken Town](https://open.spotify.com/track/3dhkHlAOSF65ZZgNKaUbuZ) | [Arthur Smith And The Skycruisers](https://open.spotify.com/artist/5oxjtUm1DYNBYPJP2GVneD) | [Godforsaken Town](https://open.spotify.com/album/084WXGY2xz5xSJOxaXuIhw) | 3:35 | 2025-10-28 |  |
 | [Going out on Top](https://open.spotify.com/track/2tTTnNdQ8tSN9sOgiHg0hG) | [Come On Tiger](https://open.spotify.com/artist/1afu8g2MsViBZAmFWpS5ut) | [Going out on Top](https://open.spotify.com/album/6I4QoJqLAAYc8koIRKs1YU) | 2:04 | 2025-03-26 |  |
 | [Goodbye](https://open.spotify.com/track/2z3WyomadxyX1NwupEaWEK) | [The Marica Frequency](https://open.spotify.com/artist/0s9He55onisVMQR4FVMWm0) | [Nursery Rhymes](https://open.spotify.com/album/2ThVxUa6vIbtEvzFv18WpF) | 2:20 | 2023-02-18 |  |
+| [Got What You Wanted](https://open.spotify.com/track/3ror7WRrkgwHorcSy4n8v9) | [Ugly Bridesmaids](https://open.spotify.com/artist/0gj5NWtV59oZATC9oRiCuB) | [Got What You Wanted](https://open.spotify.com/album/4EpAS3weiZ4RsVk4zqWC5b) | 2:42 | 2026-05-05 |  |
 | [Gotta Know Why](https://open.spotify.com/track/0M15bHavfahXOXetIFFDIG) | [Rash Panzer](https://open.spotify.com/artist/0FNJbtdNLwP2xEZ5lLtsuo) | [Gotta Know Why](https://open.spotify.com/album/7MZHyvtu6prRUDRmit0aAI) | 3:11 | 2025-01-07 |  |
 | [Graduation](https://open.spotify.com/track/0DVsB3C8e43uoFwjXJQCda) | [Roses!Hands!](https://open.spotify.com/artist/2IIPLXX4gc8oKR37sOsa9o) | [MMXXII](https://open.spotify.com/album/6vRRH7PlhC05goJHMlpwGN) | 3:02 | 2025-11-04 |  |
 | [Grandad](https://open.spotify.com/track/4mz7xsSJMistbDcs1wsJuL) | [Don't Tell John](https://open.spotify.com/artist/3jOxFGJf9LSJpuZ4q7BVb7) | [Grandad](https://open.spotify.com/album/7pdtfnuD1PmqnRI718i7Dn) | 5:02 | 2025-01-08 |  |
@@ -174,6 +178,7 @@
 | [Gray Hand](https://open.spotify.com/track/4hAKwRmTQ0Ifmu7M44wxqS) | [clearvvater](https://open.spotify.com/artist/4jxL2Wm2OoE5fl0b5tFjfN) | [Gray Hand](https://open.spotify.com/album/6Pte9dPeB7qtYmYLGLtRtI) | 4:58 | 2023-04-19 |  |
 | [Great Big Love](https://open.spotify.com/track/0tW1IXCbVq5mmYPmVjTeSV) | [SOUTHDOGROCK](https://open.spotify.com/artist/75YwHvnDPylgINOig25YhA) | [Great Big Love](https://open.spotify.com/album/6fdqe2r0xYrEmc0Rt5DP8L) | 4:11 | 2024-10-03 |  |
 | [Grow](https://open.spotify.com/track/4ZNeUmFWYsaMkV8TYoX7LB) | [New Exhibit](https://open.spotify.com/artist/1K5vj83CCgJxO26oFnZX8E) | [Grow](https://open.spotify.com/album/6nT5Woi7ELzacEnxRq0ACq) | 4:57 | 2023-03-13 |  |
+| [HAHAHA\-MALE](https://open.spotify.com/track/1JAs0kroTc4E0MFbbL8Ret) | [RYN SKY](https://open.spotify.com/artist/0LWSuwMqKEWQfFEFOariZg) | [HAHAHA\-MALE](https://open.spotify.com/album/7nds5UPmp9SO4Lw6TgHRpT) | 3:02 | 2026-05-05 |  |
 | [Halfway to heaven](https://open.spotify.com/track/4nHu7yR8etHMqfZuWVO3q2) | [Honey Ruin](https://open.spotify.com/artist/2m4dcbfzc5WQDTZ6RAO8Lf) | [Halfway to heaven](https://open.spotify.com/album/2mjAWJp71ZsPIKjFdZU2oH) | 4:29 | 2025-11-05 |  |
 | [Hallowed Ground](https://open.spotify.com/track/2Hi5qdrJTklBRFEzdZ8jb4) | [The Marica Frequency](https://open.spotify.com/artist/0s9He55onisVMQR4FVMWm0) | [Nursery Rhymes](https://open.spotify.com/album/2ThVxUa6vIbtEvzFv18WpF) | 2:25 | 2023-07-20 |  |
 | [Halloween Every Day](https://open.spotify.com/track/05GeKjRj0xlF6XYgFzuPQ8) | [Brenso](https://open.spotify.com/artist/56W6bwD2W4blOzdXURs1DE) | [Halloween Every Day](https://open.spotify.com/album/7GE4Fj5k4OewpL4PMgylwA) | 2:38 | 2024-11-18 |  |
@@ -496,6 +501,7 @@
 | [Träume](https://open.spotify.com/track/7uIWIBImy0vSdjxdPQR2Mw) | [Who's Amber?](https://open.spotify.com/artist/1k1JkZDYdPfGr7sMhuzReV) | [No More Serenades](https://open.spotify.com/album/7hg2r5z10RFSoWQrBm1up3) | 3:29 | 2024-02-26 |  |
 | [Tu Aroma](https://open.spotify.com/track/3A6JkCmA0c5WaDsLPXLNEs) | [Daniela Andrea](https://open.spotify.com/artist/6UOHvkCo1MGmDicW6hzyR1) | [Tu Aroma](https://open.spotify.com/album/4hCVAmUeB98XjwccbLukbF) | 3:34 | 2024-05-01 |  |
 | [Tu Boca \- Chill](https://open.spotify.com/track/7jEwAo8z6r1gqlNU2hY3Ew) | [ZonaEquis](https://open.spotify.com/artist/5w1WVUNSVwhLWoMPpxrt6V) | [Tu Boca \- Chill](https://open.spotify.com/album/7LmSugSPaArnX1apEHcpQq) | 4:11 | 2025-01-07 |  |
+| [Tu cara en cada calle](https://open.spotify.com/track/6OHJeyGv9ab5jqiZfzSDwO) | [Ribera del Júcar Revival](https://open.spotify.com/artist/04gcWUfNrbcWSklXOdnmjY) | [El regreso de Misha](https://open.spotify.com/album/1WzQvW37ruDPOL1jPk9FKb) | 7:23 | 2026-05-05 |  |
 | [TWIST](https://open.spotify.com/track/2kM8OoQYaPetarV2TkGmRY) | [Joe T\. Johnson](https://open.spotify.com/artist/1KfLg5hchfgDMS2e0kaVDF) | [TWIST](https://open.spotify.com/album/7gKyjunMzjHqL24YbTGQsx) | 2:27 | 2023-11-22 |  |
 | [Tá se achando patriota](https://open.spotify.com/track/2Zar2LJOi2Mu5p7CVsrP2P) | [Eu próprio](https://open.spotify.com/artist/0zGMwbbVAjN827DwfU9HJI) | [Tá se achando patriota](https://open.spotify.com/album/2HAlYvgIhLSxuUGMTBONvB) | 2:22 | 2023-04-11 |  |
 | [Ugly Brothers](https://open.spotify.com/track/58KNPMBuPKAMLT9Qvla2TX) | [SOUTHDOGROCK](https://open.spotify.com/artist/75YwHvnDPylgINOig25YhA) | [Ugly Brothers](https://open.spotify.com/album/5N3zVEGTsgoChyJzfoN5hB) | 4:08 | 2025-03-24 |  |
@@ -510,6 +516,7 @@
 | [Water](https://open.spotify.com/track/60tkxa6c2q95YGn6Zgf79w) | [w3stt](https://open.spotify.com/artist/4kjNXjzlZxlfm3wHj7bP94) | [Water](https://open.spotify.com/album/1SlvXUsy7qOGs8ohhFzyF1) | 2:26 | 2024-06-26 |  |
 | [Watered Down](https://open.spotify.com/track/4G0YenML4cYG6Ace0kjpNo) | [Lazy Loners](https://open.spotify.com/artist/5cEEoEIJTc1myRb2kjNCkg) | [I dropped my phone in the ocean, so sorry if i missed your call](https://open.spotify.com/album/6fhB5nZbzEzEsrenw3Q4us) | 3:45 | 2025-01-08 |  |
 | [We Are The Brigade](https://open.spotify.com/track/2XuU4KVL8r4NPg26fVRcz2) | [Prison City Brigade](https://open.spotify.com/artist/7maNFIhSlNcIFRTseqrPbh) | [War On Boredom](https://open.spotify.com/album/6uTltXZzQARyC7PEAFcm2E) | 3:20 | 2024-07-11 |  |
+| [We Never Ever Together Again](https://open.spotify.com/track/6cFaBjtKyh1V8sIi5le7GW) | [RYN SKY](https://open.spotify.com/artist/0LWSuwMqKEWQfFEFOariZg) | [HEY! BOY We Never Ever Together Again](https://open.spotify.com/album/68ExNbA2PAVgMvD31bpDUB) | 3:04 | 2026-05-05 |  |
 | [Weirdo](https://open.spotify.com/track/2YOnELA8Fde3cTcu6KP8Km) | [Indi Faulkner](https://open.spotify.com/artist/7AETAXt2VZjJIf8axgm6GZ) | [Weirdo](https://open.spotify.com/album/2FnagKcfG2aWPFpA3YUN0A) | 3:24 | 2024-12-09 |  |
 | [What She Wants](https://open.spotify.com/track/2OVNsb1qUWRqlVZ9a1ugVY) | [Ken Valdez](https://open.spotify.com/artist/6ROgm2FfyLwikfAInjSH5r) | [Every Little Lie](https://open.spotify.com/album/1joSAwpv6bMOtlsWsFzuMf) | 4:20 | 2024-10-03 |  |
 | [When Things Fall Down](https://open.spotify.com/track/0HzyLGMXzsKK1sVrWDezgE) | [The Marica Frequency](https://open.spotify.com/artist/0s9He55onisVMQR4FVMWm0) | [When Things Fall Down](https://open.spotify.com/album/7qSivtU9W3yiZEwyfoz7vY) | 5:19 | 2023-06-12 |  |

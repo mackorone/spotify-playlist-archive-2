@@ -1,6 +1,6 @@
 {
   "description": "de sfeer van 6 uur in de ochtend in de buitenlucht",
-  "num_followers": 190925,
+  "num_followers": 190914,
   "original_name": "rustig aan",
   "owner": {
     "name": "Spotify",
@@ -235,22 +235,18 @@
     {
       "added_at": "2026-04-23 22:03:08",
       "album": {
-        "name": "Always The Same (feat. St. Vincent)",
-        "url": "https://open.spotify.com/album/1ymjKA3yey1nVI4GuktFk0"
+        "name": "Biotope",
+        "url": "https://open.spotify.com/album/4BmVz5436mMpbUegwu09xd"
       },
       "artists": [
         {
-          "name": "Cate Le Bon",
-          "url": "https://open.spotify.com/artist/0LZac5VicY19QLaIUvIB0G"
-        },
-        {
-          "name": "St. Vincent",
-          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+          "name": "Ciska Ciska",
+          "url": "https://open.spotify.com/artist/6V1Hbm6ydOli9zOuVmZFmC"
         }
       ],
-      "duration_ms": 256875,
-      "name": "Always The Same (feat. St. Vincent)",
-      "url": "https://open.spotify.com/track/4gWVMKnpY7zU1SfNr7sFbg"
+      "duration_ms": 168000,
+      "name": "Biotope",
+      "url": "https://open.spotify.com/track/4xUDSGjehVdoEkaC62rsTL"
     },
     {
       "added_at": "2026-04-23 22:03:08",
@@ -275,18 +271,22 @@
     {
       "added_at": "2026-04-23 22:03:08",
       "album": {
-        "name": "Biotope",
-        "url": "https://open.spotify.com/album/4BmVz5436mMpbUegwu09xd"
+        "name": "Always The Same (feat. St. Vincent)",
+        "url": "https://open.spotify.com/album/1ymjKA3yey1nVI4GuktFk0"
       },
       "artists": [
         {
-          "name": "Ciska Ciska",
-          "url": "https://open.spotify.com/artist/6V1Hbm6ydOli9zOuVmZFmC"
+          "name": "Cate Le Bon",
+          "url": "https://open.spotify.com/artist/0LZac5VicY19QLaIUvIB0G"
+        },
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Biotope",
-      "url": "https://open.spotify.com/track/4xUDSGjehVdoEkaC62rsTL"
+      "duration_ms": 256875,
+      "name": "Always The Same (feat. St. Vincent)",
+      "url": "https://open.spotify.com/track/4gWVMKnpY7zU1SfNr7sFbg"
     },
     {
       "added_at": "2026-04-23 22:03:08",
@@ -403,22 +403,6 @@
     {
       "added_at": "2026-04-23 22:03:08",
       "album": {
-        "name": "Baby Blue (Acoustic)",
-        "url": "https://open.spotify.com/album/6vJn1u5GBTMDUM4OLyQ13c"
-      },
-      "artists": [
-        {
-          "name": "Penny Roox",
-          "url": "https://open.spotify.com/artist/5DXArm1WRDZcLjxEAsEDdg"
-        }
-      ],
-      "duration_ms": 185114,
-      "name": "Baby Blue - Acoustic",
-      "url": "https://open.spotify.com/track/40iPujUUM58f2qsC7KKjg5"
-    },
-    {
-      "added_at": "2026-04-23 22:03:08",
-      "album": {
         "name": "Covers",
         "url": "https://open.spotify.com/album/6080Ueecr7AVcjohNEO8su"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 275686,
       "name": "Into My Arms",
       "url": "https://open.spotify.com/track/4sA3EIk4BlutdVGJ7hY4Uk"
+    },
+    {
+      "added_at": "2026-04-23 22:03:08",
+      "album": {
+        "name": "Baby Blue (Acoustic)",
+        "url": "https://open.spotify.com/album/6vJn1u5GBTMDUM4OLyQ13c"
+      },
+      "artists": [
+        {
+          "name": "Penny Roox",
+          "url": "https://open.spotify.com/artist/5DXArm1WRDZcLjxEAsEDdg"
+        }
+      ],
+      "duration_ms": 185114,
+      "name": "Baby Blue - Acoustic",
+      "url": "https://open.spotify.com/track/40iPujUUM58f2qsC7KKjg5"
     },
     {
       "added_at": "2026-04-23 22:03:08",
@@ -623,22 +623,6 @@
     {
       "added_at": "2026-04-23 22:03:08",
       "album": {
-        "name": "Can",
-        "url": "https://open.spotify.com/album/0aWzHhNvUVfII5KkLsvLy9"
-      },
-      "artists": [
-        {
-          "name": "Soft Loft",
-          "url": "https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t"
-        }
-      ],
-      "duration_ms": 201557,
-      "name": "Can",
-      "url": "https://open.spotify.com/track/5WgC4W0XtrOaUK63WqsDAy"
-    },
-    {
-      "added_at": "2026-04-23 22:03:08",
-      "album": {
         "name": "somebody's daughter",
         "url": "https://open.spotify.com/album/3QGCPkdYR0ciqEgq9pgplK"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 200806,
       "name": "i'm not afraid of dying",
       "url": "https://open.spotify.com/track/5b82NDDYznzAYwu3iT6tky"
+    },
+    {
+      "added_at": "2026-04-23 22:03:08",
+      "album": {
+        "name": "Can",
+        "url": "https://open.spotify.com/album/0aWzHhNvUVfII5KkLsvLy9"
+      },
+      "artists": [
+        {
+          "name": "Soft Loft",
+          "url": "https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t"
+        }
+      ],
+      "duration_ms": 201557,
+      "name": "Can",
+      "url": "https://open.spotify.com/track/5WgC4W0XtrOaUK63WqsDAy"
     },
     {
       "added_at": "2026-04-23 22:03:08",
@@ -991,22 +991,6 @@
     {
       "added_at": "2026-04-23 22:03:08",
       "album": {
-        "name": "Leaving - Reminisce",
-        "url": "https://open.spotify.com/album/2R1cDeLDQthyEMIlSZnPiZ"
-      },
-      "artists": [
-        {
-          "name": "Annelie",
-          "url": "https://open.spotify.com/artist/0Rm9NmU9uyvf7tfVt4YNKC"
-        }
-      ],
-      "duration_ms": 324453,
-      "name": "Leaving",
-      "url": "https://open.spotify.com/track/2BlK3gDtP5pgK11lVk3MsE"
-    },
-    {
-      "added_at": "2026-04-23 22:03:08",
-      "album": {
         "name": "Getting Up",
         "url": "https://open.spotify.com/album/3AzIKoISg41u5XXtchOyFI"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 274719,
       "name": "Getting Up",
       "url": "https://open.spotify.com/track/1JVFosBNwHoMJayaSG3wra"
+    },
+    {
+      "added_at": "2026-04-23 22:03:08",
+      "album": {
+        "name": "Leaving - Reminisce",
+        "url": "https://open.spotify.com/album/2R1cDeLDQthyEMIlSZnPiZ"
+      },
+      "artists": [
+        {
+          "name": "Annelie",
+          "url": "https://open.spotify.com/artist/0Rm9NmU9uyvf7tfVt4YNKC"
+        }
+      ],
+      "duration_ms": 324453,
+      "name": "Leaving",
+      "url": "https://open.spotify.com/track/2BlK3gDtP5pgK11lVk3MsE"
     },
     {
       "added_at": "2026-04-23 22:03:08",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2026-04-23 22:03:08",
       "album": {
-        "name": "Bleeding Colours",
-        "url": "https://open.spotify.com/album/7sfZa50WlIFYIYaCICcrF6"
-      },
-      "artists": [
-        {
-          "name": "Benni",
-          "url": "https://open.spotify.com/artist/331VAK6qkIiNdWoE2BGFWq"
-        }
-      ],
-      "duration_ms": 220543,
-      "name": "You",
-      "url": "https://open.spotify.com/track/4iyMFaZq5EYehqeZo0VPhJ"
-    },
-    {
-      "added_at": "2026-04-23 22:03:08",
-      "album": {
         "name": "Something Ain't Right (Acoustic)",
         "url": "https://open.spotify.com/album/1d0d9udPhXSTJEyWD0A3Cx"
       },
@@ -1091,18 +1075,18 @@
     {
       "added_at": "2026-04-23 22:03:08",
       "album": {
-        "name": "Queen-Size Life",
-        "url": "https://open.spotify.com/album/7e5CvNi9fnhAIJ9ntZnlDB"
+        "name": "Bleeding Colours",
+        "url": "https://open.spotify.com/album/7sfZa50WlIFYIYaCICcrF6"
       },
       "artists": [
         {
-          "name": "Mountaineer",
-          "url": "https://open.spotify.com/artist/5ayGJVSrPdzT28dxwsxgOj"
+          "name": "Benni",
+          "url": "https://open.spotify.com/artist/331VAK6qkIiNdWoE2BGFWq"
         }
       ],
-      "duration_ms": 216690,
-      "name": "Queen-Size Life",
-      "url": "https://open.spotify.com/track/3Ci3PhwCqFUTNlfQ59Nj3z"
+      "duration_ms": 220543,
+      "name": "You",
+      "url": "https://open.spotify.com/track/4iyMFaZq5EYehqeZo0VPhJ"
     },
     {
       "added_at": "2026-04-23 22:03:08",
@@ -1119,6 +1103,22 @@
       "duration_ms": 308293,
       "name": "Boat",
       "url": "https://open.spotify.com/track/2nWj5r88reOB7RXxZc3DvE"
+    },
+    {
+      "added_at": "2026-04-23 22:03:08",
+      "album": {
+        "name": "Queen-Size Life",
+        "url": "https://open.spotify.com/album/7e5CvNi9fnhAIJ9ntZnlDB"
+      },
+      "artists": [
+        {
+          "name": "Mountaineer",
+          "url": "https://open.spotify.com/artist/5ayGJVSrPdzT28dxwsxgOj"
+        }
+      ],
+      "duration_ms": 216690,
+      "name": "Queen-Size Life",
+      "url": "https://open.spotify.com/track/3Ci3PhwCqFUTNlfQ59Nj3z"
     },
     {
       "added_at": "2026-04-23 22:03:08",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2026-04-23 22:03:08",
       "album": {
-        "name": "the bed-ties",
-        "url": "https://open.spotify.com/album/2R8Fri8R7n1q3za8By1MnL"
-      },
-      "artists": [
-        {
-          "name": "MAYA MARIA",
-          "url": "https://open.spotify.com/artist/7HPzShbwmLfVSs5Yd3bvvy"
-        }
-      ],
-      "duration_ms": 220080,
-      "name": "Way Back",
-      "url": "https://open.spotify.com/track/6PS7UXENl8M47HDDg3uW1x"
-    },
-    {
-      "added_at": "2026-04-23 22:03:08",
-      "album": {
         "name": "I do",
         "url": "https://open.spotify.com/album/2NgybCTiLpld17LTGcDymR"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 221373,
       "name": "I do",
       "url": "https://open.spotify.com/track/0QlMBEVCrI1fwarVSG2mO1"
+    },
+    {
+      "added_at": "2026-04-23 22:03:08",
+      "album": {
+        "name": "the bed-ties",
+        "url": "https://open.spotify.com/album/2R8Fri8R7n1q3za8By1MnL"
+      },
+      "artists": [
+        {
+          "name": "MAYA MARIA",
+          "url": "https://open.spotify.com/artist/7HPzShbwmLfVSs5Yd3bvvy"
+        }
+      ],
+      "duration_ms": 220080,
+      "name": "Way Back",
+      "url": "https://open.spotify.com/track/6PS7UXENl8M47HDDg3uW1x"
     },
     {
       "added_at": "2026-04-23 22:03:08",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2026-04-23 22:03:08",
       "album": {
-        "name": "In My Head Today",
-        "url": "https://open.spotify.com/album/5ApOG5o1JKyDreecmUYIdL"
-      },
-      "artists": [
-        {
-          "name": "Send Me Flowers",
-          "url": "https://open.spotify.com/artist/12XFstDiWIWvVnYOvPU8Z5"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "In My Head Today",
-      "url": "https://open.spotify.com/track/6LvwKP5nY8ESrLTn6TvnkL"
-    },
-    {
-      "added_at": "2026-04-23 22:03:08",
-      "album": {
         "name": "More Than Enough",
         "url": "https://open.spotify.com/album/2N0laeE3SqH46ADFdgcs34"
       },
@@ -1331,18 +1315,18 @@
     {
       "added_at": "2026-04-23 22:03:08",
       "album": {
-        "name": "The Distance",
-        "url": "https://open.spotify.com/album/2Wc0fRSE7K6ZI4xX3DGqud"
+        "name": "In My Head Today",
+        "url": "https://open.spotify.com/album/5ApOG5o1JKyDreecmUYIdL"
       },
       "artists": [
         {
-          "name": "Prize Collect",
-          "url": "https://open.spotify.com/artist/1QL9FUDTuHnhRI2qp1rogr"
+          "name": "Send Me Flowers",
+          "url": "https://open.spotify.com/artist/12XFstDiWIWvVnYOvPU8Z5"
         }
       ],
-      "duration_ms": 184715,
-      "name": "The Distance",
-      "url": "https://open.spotify.com/track/0DQgWaerMRpgyB0VEZsFO2"
+      "duration_ms": 148000,
+      "name": "In My Head Today",
+      "url": "https://open.spotify.com/track/6LvwKP5nY8ESrLTn6TvnkL"
     },
     {
       "added_at": "2026-04-23 22:03:08",
@@ -1363,6 +1347,22 @@
     {
       "added_at": "2026-04-23 22:03:08",
       "album": {
+        "name": "The Distance",
+        "url": "https://open.spotify.com/album/2Wc0fRSE7K6ZI4xX3DGqud"
+      },
+      "artists": [
+        {
+          "name": "Prize Collect",
+          "url": "https://open.spotify.com/artist/1QL9FUDTuHnhRI2qp1rogr"
+        }
+      ],
+      "duration_ms": 184715,
+      "name": "The Distance",
+      "url": "https://open.spotify.com/track/0DQgWaerMRpgyB0VEZsFO2"
+    },
+    {
+      "added_at": "2026-04-23 22:03:08",
+      "album": {
         "name": "Don't Worry About The Rain",
         "url": "https://open.spotify.com/album/2SC76QjYJ4oIoAiypWlj93"
       },
@@ -1375,22 +1375,6 @@
       "duration_ms": 227840,
       "name": "Don't Worry About The Rain",
       "url": "https://open.spotify.com/track/08Vk3LcVrkbEphzkLvvBSq"
-    },
-    {
-      "added_at": "2026-04-23 22:03:08",
-      "album": {
-        "name": "Kaleidoscope Eyes",
-        "url": "https://open.spotify.com/album/7MqL14X34ldt6xyXNj7637"
-      },
-      "artists": [
-        {
-          "name": "Kiki Annette",
-          "url": "https://open.spotify.com/artist/2M1xxVsfnDhcmP8wGmjFB8"
-        }
-      ],
-      "duration_ms": 238542,
-      "name": "Kaleidoscope Eyes",
-      "url": "https://open.spotify.com/track/3RKrbJIppvkKbfqltaSOgo"
     },
     {
       "added_at": "2026-04-23 22:03:08",
@@ -1427,6 +1411,22 @@
     {
       "added_at": "2026-04-23 22:03:08",
       "album": {
+        "name": "Kaleidoscope Eyes",
+        "url": "https://open.spotify.com/album/7MqL14X34ldt6xyXNj7637"
+      },
+      "artists": [
+        {
+          "name": "Kiki Annette",
+          "url": "https://open.spotify.com/artist/2M1xxVsfnDhcmP8wGmjFB8"
+        }
+      ],
+      "duration_ms": 238542,
+      "name": "Kaleidoscope Eyes",
+      "url": "https://open.spotify.com/track/3RKrbJIppvkKbfqltaSOgo"
+    },
+    {
+      "added_at": "2026-04-23 22:03:08",
+      "album": {
         "name": "The Seasons: Winter",
         "url": "https://open.spotify.com/album/1Ky0DgdzRVJmFdYA4cuuVf"
       },
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2026-04-23 22:03:08",
       "album": {
+        "name": "My Hands",
+        "url": "https://open.spotify.com/album/1PHbCItyhGrNHBIwwdxdFD"
+      },
+      "artists": [
+        {
+          "name": "Christopher Green",
+          "url": "https://open.spotify.com/artist/7hsSRTKla7JWIsGRlq0LvL"
+        }
+      ],
+      "duration_ms": 218701,
+      "name": "My Hands",
+      "url": "https://open.spotify.com/track/0SvSlr8HPXE577UkIMOT2P"
+    },
+    {
+      "added_at": "2026-04-23 22:03:08",
+      "album": {
         "name": "no difference (ft. LUWTEN)",
         "url": "https://open.spotify.com/album/7jJs8iE9q1ENo3fCmYdjq1"
       },
@@ -1475,22 +1491,6 @@
       "duration_ms": 246773,
       "name": "no difference (ft. LUWTEN)",
       "url": "https://open.spotify.com/track/3Pve3DY4yQ2CxXdaESmSZ2"
-    },
-    {
-      "added_at": "2026-04-23 22:03:08",
-      "album": {
-        "name": "My Hands",
-        "url": "https://open.spotify.com/album/1PHbCItyhGrNHBIwwdxdFD"
-      },
-      "artists": [
-        {
-          "name": "Christopher Green",
-          "url": "https://open.spotify.com/artist/7hsSRTKla7JWIsGRlq0LvL"
-        }
-      ],
-      "duration_ms": 218701,
-      "name": "My Hands",
-      "url": "https://open.spotify.com/track/0SvSlr8HPXE577UkIMOT2P"
     },
     {
       "added_at": "2026-04-23 22:03:08",

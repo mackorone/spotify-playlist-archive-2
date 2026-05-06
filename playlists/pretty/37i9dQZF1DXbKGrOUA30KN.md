@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKGrOUA30KN.md) - [plain]
 
 > Deutschpop, der jetzt passiert\. Cover: Gregor Hägele
 
-[Spotify](https://open.spotify.com/user/spotify) - 651,225 likes - 90 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 651,178 likes - 90 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKGrOUA30KN.md) - [plain]
 | 9 | [KOKO BRAUN](https://open.spotify.com/track/1tIdM2hlXTftWoh4Nb7Ztg) | [Tream](https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp), [treamiboii](https://open.spotify.com/artist/4jsmk00NuPR1FfXqUCF1ac) | [KOKO BRAUN](https://open.spotify.com/album/5WXm0wemHefxOO4KyENH7T) | 2:34 |
 | 10 | [LIEBE MACHEN](https://open.spotify.com/track/6UJUjQRU8OlTlQQLvfXPRV) | [Luna Antonia](https://open.spotify.com/artist/5wql7oielCnJBx098O8Thc) | [HANDSCHRIFT](https://open.spotify.com/album/25699iSfQDZWojNmfPvwYp) | 2:08 |
 | 11 | [Boomerang](https://open.spotify.com/track/6QhZFB1VeFMSMirbXnNL58) | [Christoph Sakwerda](https://open.spotify.com/artist/04R6CrSnQeDoB6j6Z7x8Lq), [KAYEF](https://open.spotify.com/artist/4hXT6A14n901v8DU5Of337) | [Boomerang](https://open.spotify.com/album/2MgQCb7ylpLeq2m19bg5LR) | 2:21 |
-| 12 | [AUF DICH](https://open.spotify.com/track/2otC9SlXj6GmQhMAwK5DyR) | [skuth](https://open.spotify.com/artist/4vdOkcx43Ugl9key4kRFDw) | [AUF DICH](https://open.spotify.com/album/7yVxOCiTP4JLdmYXrymuZw) | 2:07 |
+| 12 | [Auf dich](https://open.spotify.com/track/2otC9SlXj6GmQhMAwK5DyR) | [skuth](https://open.spotify.com/artist/4vdOkcx43Ugl9key4kRFDw) | [Auf dich](https://open.spotify.com/album/7yVxOCiTP4JLdmYXrymuZw) | 2:07 |
 | 13 | [Wenn der Tag anbricht](https://open.spotify.com/track/3YDzmIpERgs9JbpQ5drWv9) | [Sallva](https://open.spotify.com/artist/2O7NtJ9X3MqqvIWrGh0z4X), [ILO](https://open.spotify.com/artist/6DGJCqeSYkItszdXCTR4dP) | [Wenn der Tag anbricht](https://open.spotify.com/album/4FrjaZ337IaFyeJqwnxCAg) | 3:01 |
 | 14 | [Beste Fremde](https://open.spotify.com/track/3FEhwVkqGyKrPhGrIJcsR3) | [ela.](https://open.spotify.com/artist/7hCkk48aIsK8myLaEbeXHx) | [Beste Fremde](https://open.spotify.com/album/7n0cqdDYE6HlCWCXXLS1qb) | 2:26 |
 | 15 | [Glück](https://open.spotify.com/track/7j1OD1NADcP0m05LpZvBrl) | [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc), [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq) | [Glück](https://open.spotify.com/album/4Mgv8693VB0RY2REV6jnOO) | 2:44 |

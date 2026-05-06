@@ -5851,6 +5851,24 @@
     },
     {
       "album": {
+        "name": "Deewana",
+        "url": "https://open.spotify.com/album/53rZmpmSdJ4nM5aQaM9ZvI"
+      },
+      "artists": [
+        {
+          "name": "Eden's Echo",
+          "url": "https://open.spotify.com/artist/6QGcgVC3LDSc23W8THAWtd"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172602,
+      "name": "Deewana",
+      "url": "https://open.spotify.com/track/7zFLX3HBQVkMLtOufiybXU"
+    },
+    {
+      "album": {
         "name": "Deewani",
         "url": "https://open.spotify.com/album/2WBOsknsh2EiQEa606KQgR"
       },
@@ -16894,7 +16912,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 213000,
       "name": "Manmaaniya",
       "url": "https://open.spotify.com/track/00BuCPO4S8gwyyjX58TLqU"

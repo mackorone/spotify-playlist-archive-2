@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 💯 Suomi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,461 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,448 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,16 +22,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 12 | [Sisko ja sen veli](https://open.spotify.com/track/4QK7HRDhvO5ujhMhWG2wuD) | [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK) | [Sisko ja sen veli](https://open.spotify.com/album/1ZsxL73Hpo3JpiS4GqkqKg) | 3:08 |
 | 13 | [MMG](https://open.spotify.com/track/78F5qg3GeuvulXePGIL3vJ) | [Jami Faltin](https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf), [ANI](https://open.spotify.com/artist/7aaGp8b4O2FQUwHY23MV0T), [Mirella](https://open.spotify.com/artist/5m8QXFAKCuty66pOzy9aPZ) | [MMG](https://open.spotify.com/album/2TbFAQtfMExiXwaQqksQvW) | 3:06 |
 | 14 | [Se ei mennyt niin](https://open.spotify.com/track/1oEOPyKoBkdn5QYHWIOBJW) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9), [Vesala](https://open.spotify.com/artist/5fyBhURKALJ81CC9X4DvZP) | [Aris](https://open.spotify.com/album/7woVOwWOTjrixtxhIPjRXd) | 2:50 |
-| 15 | [Täälpäin](https://open.spotify.com/track/0Gf5abbjb5XibbQRAwsCPq) | [Gettomasa](https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g), [Van Hegen](https://open.spotify.com/artist/5SpJ7wupgkKXKKpMATIhe9) | [Täälpäin](https://open.spotify.com/album/32Tow3LoxvoHqW4EO0fVbv) | 3:14 |
+| 15 | [Syvä pääty](https://open.spotify.com/track/4eKb3URMF19IeCXcBkbVoN) | [Gettomasa](https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g), [Cledos](https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe) | [Syvä pääty](https://open.spotify.com/album/5vAcp73b5x6zBo3qzvDyhM) | 3:08 |
 | 16 | [Pardon Me](https://open.spotify.com/track/0a6vdHzevxC1SgbLyQ1mmO) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ) | [Pardon Me](https://open.spotify.com/album/41IBjyJdjcdZJB5D1XKK1Y) | 2:14 |
 | 17 | [Sydän \(feat\. Alina Burnet\)](https://open.spotify.com/track/6MjKwFIStXtCRC5V6YK8oW) | [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV), [Alina Burnet](https://open.spotify.com/artist/6pBVcV1vX0IUU9Rr1xtB2J) | [Sydän \(feat\. Alina Burnet\)](https://open.spotify.com/album/74pG57KJSOWtbOtSPQWtlg) | 3:45 |
 | 18 | [Ei voi \(feat\. Luwa.Mp4\)](https://open.spotify.com/track/6xpZg3sfg49gNihQZGLsl1) | [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp), [Luwa.Mp4](https://open.spotify.com/artist/6CS6NjMmo93ligNiiZ97LZ) | [Ei voi \(feat\. Luwa.Mp4\)](https://open.spotify.com/album/2hdZSRF3c42AzLGRrCuvDG) | 3:10 |
-| 19 | [Mutta millä hinnalla](https://open.spotify.com/track/5suG6Qed1VC7QtGkrHIxAd) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9) | [Mutta millä hinnalla](https://open.spotify.com/album/1nwaC7MbyUc5sQju47xbJp) | 2:57 |
-| 20 | [Syvä pääty](https://open.spotify.com/track/4eKb3URMF19IeCXcBkbVoN) | [Gettomasa](https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g), [Cledos](https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe) | [Syvä pääty](https://open.spotify.com/album/5vAcp73b5x6zBo3qzvDyhM) | 3:08 |
+| 19 | [Toivottavasti](https://open.spotify.com/track/1TJCHMekCEtSTHJwGy1rBX) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9) | [Aris](https://open.spotify.com/album/7woVOwWOTjrixtxhIPjRXd) | 2:43 |
+| 20 | [Täälpäin](https://open.spotify.com/track/0Gf5abbjb5XibbQRAwsCPq) | [Gettomasa](https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g), [Van Hegen](https://open.spotify.com/artist/5SpJ7wupgkKXKKpMATIhe9) | [Täälpäin](https://open.spotify.com/album/32Tow3LoxvoHqW4EO0fVbv) | 3:14 |
 | 21 | [PETSHOP](https://open.spotify.com/track/1pEhxch5kmJr2RbMKoNguI) | [Nelli Matula](https://open.spotify.com/artist/4D8m6VLd1ySVC6A2tzFvrE), [OLGA](https://open.spotify.com/artist/5lrrAnWHek9LEQgB3MCfub), [Senya](https://open.spotify.com/artist/49OC47dLyKYSl2EPaZLUaO) | [PETSHOP](https://open.spotify.com/album/57iAh3QvNudObASmZccMzD) | 3:09 |
 | 22 | [Totuus Sattuu](https://open.spotify.com/track/42AWyhI6hD9Q4J4NLcqKdP) | [MELO](https://open.spotify.com/artist/4FHSjUpacxrQeyXkOyX6hz) | [Stallion](https://open.spotify.com/album/7pi5d32VXj6J9vBiupq9Wo) | 4:32 |
 | 23 | [Elämää Suurempaa](https://open.spotify.com/track/59P3bZ1wyLSZetsU2Jovmo) | [Jami Faltin](https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf) | [Elämää Suurempaa](https://open.spotify.com/album/6NNqEWHtfa4ZTg1N5VAitK) | 3:02 |
-| 24 | [Toivottavasti](https://open.spotify.com/track/1TJCHMekCEtSTHJwGy1rBX) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9) | [Aris](https://open.spotify.com/album/7woVOwWOTjrixtxhIPjRXd) | 2:43 |
+| 24 | [Mutta millä hinnalla](https://open.spotify.com/track/5suG6Qed1VC7QtGkrHIxAd) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9) | [Mutta millä hinnalla](https://open.spotify.com/album/1nwaC7MbyUc5sQju47xbJp) | 2:57 |
 | 25 | [Kirjotettu tähtiin](https://open.spotify.com/track/6JKClwOEbYMZrSJGRACtY2) | [Gettomasa](https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g) | [Kirjotettu tähtiin](https://open.spotify.com/album/2jnDXAJYyg6170tk9cQ7JT) | 2:38 |
 | 26 | [et millään saa](https://open.spotify.com/track/3rW5FiOaJQjAXGycPkmboL) | [Ella Herold](https://open.spotify.com/artist/7sokmrbjchlLzeqcOrX9aM), [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk) | [et millään saa](https://open.spotify.com/album/0vqeoxfVqYQtOjXxag51Cs) | 2:54 |
 | 27 | [Yksin tääl \(feat\. Lauri Haav\)](https://open.spotify.com/track/5elZ9A56hUsDtI8KwBSukS) | [Lage](https://open.spotify.com/artist/7zakYXqhliziu6I44dJa9c), [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV) | [Yksin tääl \(feat\. Lauri Haav\)](https://open.spotify.com/album/0RXpXtg3Iwuu0yrJWwHWBC) | 2:24 |

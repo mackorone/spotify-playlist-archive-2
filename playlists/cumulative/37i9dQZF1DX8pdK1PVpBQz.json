@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels. Cover: DRIZZZ",
+  "description": "The best new music by independent artists and labels. Cover: Indigo King",
   "name": "Fresh Finds AU & NZ",
   "tracks": [
     {
@@ -110,7 +110,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 166315,
       "name": "1&Only",
       "url": "https://open.spotify.com/track/2h2cMzRArMOqzTzryHGK8j"
@@ -21912,7 +21912,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 161707,
       "name": "Electrolytes",
       "url": "https://open.spotify.com/track/1PKB4cIGJM4HYyvLniraDO"
@@ -25118,7 +25118,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 230000,
       "name": "Figure It Out",
       "url": "https://open.spotify.com/track/4BuO1GyW43Z2XBTzzA7RNo"
@@ -28306,7 +28306,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 143987,
       "name": "GHETTO KID",
       "url": "https://open.spotify.com/track/3KBv8LwIbRX8sRdQSl9gPB"
@@ -29114,6 +29114,28 @@
       "duration_ms": 123296,
       "name": "god complex",
       "url": "https://open.spotify.com/track/0DKzJ57P5U7hGlyntNOzk2"
+    },
+    {
+      "album": {
+        "name": "god left (this place long ago)",
+        "url": "https://open.spotify.com/album/5EWbVdoRMbsdCZsgp8d99L"
+      },
+      "artists": [
+        {
+          "name": "waist",
+          "url": "https://open.spotify.com/artist/2DU5AUPrWK9Fo6UK7bWeJB"
+        },
+        {
+          "name": "Soft Porn",
+          "url": "https://open.spotify.com/artist/3w9KjJ4MUUmfer22cou2dZ"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182568,
+      "name": "god left (this place long ago)",
+      "url": "https://open.spotify.com/track/4HEzvASTk0JAJH1KwkhxLU"
     },
     {
       "album": {
@@ -51865,6 +51887,24 @@
     },
     {
       "album": {
+        "name": "North West Coastal Highway",
+        "url": "https://open.spotify.com/album/7qHK6n4P8hkKh8WWVcHRUq"
+      },
+      "artists": [
+        {
+          "name": "RATSALAD.",
+          "url": "https://open.spotify.com/artist/3zTboMc9nTwFmqSWI2bkPz"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107714,
+      "name": "North West Coastal Highway",
+      "url": "https://open.spotify.com/track/5aDhgpcK0OEBEDPT4HgL5l"
+    },
+    {
+      "album": {
         "name": "Northside",
         "url": "https://open.spotify.com/album/7H0V17nIruoQ8As5A4sxCH"
       },
@@ -56383,6 +56423,24 @@
     },
     {
       "album": {
+        "name": "Pet",
+        "url": "https://open.spotify.com/album/4Qi205DGFBRe5oVors4uTi"
+      },
+      "artists": [
+        {
+          "name": "Mia June",
+          "url": "https://open.spotify.com/artist/3nGsiPPwDm3hNizqMYxtRi"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201624,
+      "name": "Pet",
+      "url": "https://open.spotify.com/track/72OZvuSbJdtetbkeCaNLS8"
+    },
+    {
+      "album": {
         "name": "Petals In The Rain",
         "url": "https://open.spotify.com/album/5EJ0dXq7JWRpFEvMZWsHoX"
       },
@@ -60074,7 +60132,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 196617,
       "name": "Red Moon",
       "url": "https://open.spotify.com/track/4mv3WLkbINj3Fuq42uULfV"
@@ -78689,6 +78747,24 @@
     },
     {
       "album": {
+        "name": "Waaalk",
+        "url": "https://open.spotify.com/album/2jDwGQw9Xi02RkNuTquVuV"
+      },
+      "artists": [
+        {
+          "name": "Kuzco",
+          "url": "https://open.spotify.com/artist/41gAwOVRxPXax5jUQ3Ub6Q"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323440,
+      "name": "Waaalk",
+      "url": "https://open.spotify.com/track/5ZzxwSEbO6BSyJtOtdAs7w"
+    },
+    {
+      "album": {
         "name": "Waiting",
         "url": "https://open.spotify.com/album/2ABgtjIQPQgSvt1JH6kRPJ"
       },
@@ -80260,6 +80336,24 @@
       "duration_ms": 259277,
       "name": "Web of Lies",
       "url": "https://open.spotify.com/track/4IhtU9s4EtE1YgITLqX5c3"
+    },
+    {
+      "album": {
+        "name": "Wednesday",
+        "url": "https://open.spotify.com/album/3gIN69ag56ITdMSzOFrHF6"
+      },
+      "artists": [
+        {
+          "name": "Indigo King",
+          "url": "https://open.spotify.com/artist/03BzBCwJtblDY5k3LYg0Sw"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284708,
+      "name": "Wednesday",
+      "url": "https://open.spotify.com/track/75hy0i8AqWx7GTbGBge3m1"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Enjoy music from "CHIBI MARUKO CHAN"! ©SAKURA PRODUCTION/NIPPON ANIMATION
 
-28 songs - 1 hr 37 min
+29 songs - 1 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [アララの呪文/ちびまる子ちゃんwith爆チュー問題](https://open.spotify.com/track/0qrXfYnBlM5evgPlZXsMW2) | [Chibi Maruko Chan](https://open.spotify.com/artist/6MINhV2wjwirRk4iMcIN4A) | [お笑い芸人★SONG STYLE](https://open.spotify.com/album/3EgBn5cW6LEWWlOMxeSBe3) | 3:10 | 2026-03-29 |  |
 | [キミを忘れないよ](https://open.spotify.com/track/4ClDTyw9XakQONBFENhdar) | [Sakurako Ohara](https://open.spotify.com/artist/5TS11vZTUaDP4maTjFCcBU) | [V](https://open.spotify.com/album/5EMbywoRGYkMs5JKQNxC1Y) | 4:36 | 2026-03-29 |  |
 | [ハミングがきこえる](https://open.spotify.com/track/34iGoi7EDtpJOJo1hTuHbh) | [Kahimi Karie](https://open.spotify.com/artist/3UsQ4XdEqcQ1PoUI1wV0Lb) | [ハミングがきこえる](https://open.spotify.com/album/6HIPFWVi79MOF5exTcBgde) | 3:31 | 2026-03-29 |  |
+| [パッパパラダイス](https://open.spotify.com/track/5uxuw38KCxQg5OmJvoVImg) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [パッパパラダイス](https://open.spotify.com/album/17T7zbi0mnfD5MPaz67nvQ) | 3:50 | 2026-05-05 |  |
 | [人生いろいろ](https://open.spotify.com/track/5hIBNRNYo7zVcXNgbO4kCD) | [Chiyoko Shimakura](https://open.spotify.com/artist/53cuVCnpOQkB0gnNcoS3SC) | [浜口庫之助作品集を唄う](https://open.spotify.com/album/14B4MJcVtitpXxJmvwUAOZ) | 3:54 | 2026-03-29 |  |
 | [休日の歌（Viva La Vida）](https://open.spotify.com/track/4zi98A17mgNez5yqdL1rEl) | [DELiGHTED MINT](https://open.spotify.com/artist/0wJhg4uHETZjVz2aa7oyd6) | [THE BEST HITS](https://open.spotify.com/album/3YPC7lTaic1gL4KyLdf7Tf) | 3:47 | 2026-03-29 |  |
 | [呪い](https://open.spotify.com/track/2ZvHVDjTYwRGnSAkQC0vCb) | [Hako Yamazaki](https://open.spotify.com/artist/271VKuMFfkvkOARw07aM3H) | [ハコのお箱](https://open.spotify.com/album/12Obk8FrTQWIwiYSeY7OcS) | 3:55 | 2026-03-29 |  |

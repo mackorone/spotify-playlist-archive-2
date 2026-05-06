@@ -1,6 +1,6 @@
 {
   "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Sons of Legion",
-  "num_followers": 1068786,
+  "num_followers": 1068785,
   "original_name": "Blues Roots",
   "owner": {
     "name": "Spotify",
@@ -263,22 +263,6 @@
     {
       "added_at": "2026-05-01 04:01:36",
       "album": {
-        "name": "Blacksnake Blues",
-        "url": "https://open.spotify.com/album/0x9kL2LgGGnwUVm6ZesWCz"
-      },
-      "artists": [
-        {
-          "name": "All Them Witches",
-          "url": "https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65"
-        }
-      ],
-      "duration_ms": 674000,
-      "name": "Blacksnake Blues",
-      "url": "https://open.spotify.com/track/6FttMYQiHyM0lVZafG3eXO"
-    },
-    {
-      "added_at": "2026-05-01 04:01:36",
-      "album": {
         "name": "LONG WAY FROM THE BOTTOM",
         "url": "https://open.spotify.com/album/2BZdAFl884lkn6ButA2MUT"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 153730,
       "name": "LONG WAY FROM THE BOTTOM",
       "url": "https://open.spotify.com/track/4tbiu83l7TZjLEq5ycyqEF"
+    },
+    {
+      "added_at": "2026-05-01 04:01:36",
+      "album": {
+        "name": "Blacksnake Blues",
+        "url": "https://open.spotify.com/album/0x9kL2LgGGnwUVm6ZesWCz"
+      },
+      "artists": [
+        {
+          "name": "All Them Witches",
+          "url": "https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65"
+        }
+      ],
+      "duration_ms": 674000,
+      "name": "Blacksnake Blues",
+      "url": "https://open.spotify.com/track/6FttMYQiHyM0lVZafG3eXO"
     },
     {
       "added_at": "2026-05-01 04:01:36",
@@ -335,6 +335,26 @@
     {
       "added_at": "2026-05-01 04:01:36",
       "album": {
+        "name": "Don't Leave Me",
+        "url": "https://open.spotify.com/album/1zi38GN7sht32SQbjiuM65"
+      },
+      "artists": [
+        {
+          "name": "Alex Lambert",
+          "url": "https://open.spotify.com/artist/6iQBhWmcQcl9s4w1hL5lnN"
+        },
+        {
+          "name": "Dylan Chambers",
+          "url": "https://open.spotify.com/artist/2jP4GO0BDgY15BqUcUVhG9"
+        }
+      ],
+      "duration_ms": 210428,
+      "name": "Don't Leave Me",
+      "url": "https://open.spotify.com/track/0AgUASgDyd1kZ2wFTMc9UC"
+    },
+    {
+      "added_at": "2026-05-01 04:01:36",
+      "album": {
         "name": "Man's World",
         "url": "https://open.spotify.com/album/7xDsxa6yIrJVBGk8XaNKrD"
       },
@@ -363,26 +383,6 @@
       "duration_ms": 199874,
       "name": "Deep Stays Down",
       "url": "https://open.spotify.com/track/2IbB995oiJcMJXTfkMHioG"
-    },
-    {
-      "added_at": "2026-05-01 04:01:36",
-      "album": {
-        "name": "Don't Leave Me",
-        "url": "https://open.spotify.com/album/1zi38GN7sht32SQbjiuM65"
-      },
-      "artists": [
-        {
-          "name": "Alex Lambert",
-          "url": "https://open.spotify.com/artist/6iQBhWmcQcl9s4w1hL5lnN"
-        },
-        {
-          "name": "Dylan Chambers",
-          "url": "https://open.spotify.com/artist/2jP4GO0BDgY15BqUcUVhG9"
-        }
-      ],
-      "duration_ms": 210428,
-      "name": "Don't Leave Me",
-      "url": "https://open.spotify.com/track/0AgUASgDyd1kZ2wFTMc9UC"
     },
     {
       "added_at": "2026-05-01 04:01:36",
@@ -455,22 +455,18 @@
     {
       "added_at": "2026-05-01 04:01:36",
       "album": {
-        "name": "JPEG RAW",
-        "url": "https://open.spotify.com/album/09XurHGqbBgvj7SH96UbPV"
+        "name": "Justified",
+        "url": "https://open.spotify.com/album/2LLMqNFixxuY0ea3pzRvc5"
       },
       "artists": [
         {
-          "name": "Gary Clark Jr.",
-          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
-        },
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+          "name": "Ghost Hounds",
+          "url": "https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor"
         }
       ],
-      "duration_ms": 279359,
-      "name": "What About The Children",
-      "url": "https://open.spotify.com/track/4bGTNdEbmrDlvqYJKRKJxR"
+      "duration_ms": 253657,
+      "name": "Justified",
+      "url": "https://open.spotify.com/track/1AYBEB31ytpqhUZGeXtJi8"
     },
     {
       "added_at": "2026-05-01 04:01:36",
@@ -507,18 +503,22 @@
     {
       "added_at": "2026-05-01 04:01:36",
       "album": {
-        "name": "Justified",
-        "url": "https://open.spotify.com/album/2LLMqNFixxuY0ea3pzRvc5"
+        "name": "JPEG RAW",
+        "url": "https://open.spotify.com/album/09XurHGqbBgvj7SH96UbPV"
       },
       "artists": [
         {
-          "name": "Ghost Hounds",
-          "url": "https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor"
+          "name": "Gary Clark Jr.",
+          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
+        },
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
         }
       ],
-      "duration_ms": 253657,
-      "name": "Justified",
-      "url": "https://open.spotify.com/track/1AYBEB31ytpqhUZGeXtJi8"
+      "duration_ms": 279359,
+      "name": "What About The Children",
+      "url": "https://open.spotify.com/track/4bGTNdEbmrDlvqYJKRKJxR"
     },
     {
       "added_at": "2026-05-01 04:01:36",
@@ -591,22 +591,6 @@
     {
       "added_at": "2026-05-01 04:01:36",
       "album": {
-        "name": "Let It Die Here",
-        "url": "https://open.spotify.com/album/1hd41YWRm4P78xmjGYkqoJ"
-      },
-      "artists": [
-        {
-          "name": "Linda Perry",
-          "url": "https://open.spotify.com/artist/5tfiJ40SRxluWNgA6ruvSo"
-        }
-      ],
-      "duration_ms": 223523,
-      "name": "Let It Die Here",
-      "url": "https://open.spotify.com/track/0qs2O2RK1mdxv2rzvs0OTT"
-    },
-    {
-      "added_at": "2026-05-01 04:01:36",
-      "album": {
         "name": "13 Years",
         "url": "https://open.spotify.com/album/4NIJG4kamBBJqjonUtmqZG"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 402240,
       "name": "13 Years",
       "url": "https://open.spotify.com/track/5qAZiFTk5rLhJmrOZVYgx1"
+    },
+    {
+      "added_at": "2026-05-01 04:01:36",
+      "album": {
+        "name": "Let It Die Here",
+        "url": "https://open.spotify.com/album/1hd41YWRm4P78xmjGYkqoJ"
+      },
+      "artists": [
+        {
+          "name": "Linda Perry",
+          "url": "https://open.spotify.com/artist/5tfiJ40SRxluWNgA6ruvSo"
+        }
+      ],
+      "duration_ms": 223523,
+      "name": "Let It Die Here",
+      "url": "https://open.spotify.com/track/0qs2O2RK1mdxv2rzvs0OTT"
     },
     {
       "added_at": "2026-05-01 04:01:36",
@@ -647,22 +647,6 @@
     {
       "added_at": "2026-05-01 04:01:36",
       "album": {
-        "name": "Upside",
-        "url": "https://open.spotify.com/album/4b2rsJxm5i3BTj1mkhGGSJ"
-      },
-      "artists": [
-        {
-          "name": "Southern Avenue",
-          "url": "https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ"
-        }
-      ],
-      "duration_ms": 301395,
-      "name": "Upside",
-      "url": "https://open.spotify.com/track/2mYnzR2Gm5mGNft7rZsInE"
-    },
-    {
-      "added_at": "2026-05-01 04:01:36",
-      "album": {
         "name": "The Love Endeavour",
         "url": "https://open.spotify.com/album/40IiLXS7PRcNBriqxjkZlE"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 275712,
       "name": "The Love Endeavour",
       "url": "https://open.spotify.com/track/6BcEUibSqPqWJAxHgiZrle"
+    },
+    {
+      "added_at": "2026-05-01 04:01:36",
+      "album": {
+        "name": "Upside",
+        "url": "https://open.spotify.com/album/4b2rsJxm5i3BTj1mkhGGSJ"
+      },
+      "artists": [
+        {
+          "name": "Southern Avenue",
+          "url": "https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ"
+        }
+      ],
+      "duration_ms": 301395,
+      "name": "Upside",
+      "url": "https://open.spotify.com/track/2mYnzR2Gm5mGNft7rZsInE"
     },
     {
       "added_at": "2026-05-01 04:01:36",
@@ -711,22 +711,6 @@
     {
       "added_at": "2026-05-01 04:01:36",
       "album": {
-        "name": "House On Fire (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/31vki7hqYMXMrVZePwMzKj"
-      },
-      "artists": [
-        {
-          "name": "Toby Lee",
-          "url": "https://open.spotify.com/artist/059zYnVrxnkUTiNIrHHYyz"
-        }
-      ],
-      "duration_ms": 201733,
-      "name": "Saviour - Unplugged",
-      "url": "https://open.spotify.com/track/3tZ3CSFytTQT6ZfYedDebH"
-    },
-    {
-      "added_at": "2026-05-01 04:01:36",
-      "album": {
         "name": "Shoulda Been",
         "url": "https://open.spotify.com/album/3YM3tMxwTxvHAkdPruItCP"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 157125,
       "name": "Man I Used To Be",
       "url": "https://open.spotify.com/track/7mhT5jd6rL9SBWRxZv8o3U"
+    },
+    {
+      "added_at": "2026-05-01 04:01:36",
+      "album": {
+        "name": "House On Fire (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/31vki7hqYMXMrVZePwMzKj"
+      },
+      "artists": [
+        {
+          "name": "Toby Lee",
+          "url": "https://open.spotify.com/artist/059zYnVrxnkUTiNIrHHYyz"
+        }
+      ],
+      "duration_ms": 201733,
+      "name": "Saviour - Unplugged",
+      "url": "https://open.spotify.com/track/3tZ3CSFytTQT6ZfYedDebH"
     },
     {
       "added_at": "2026-05-01 04:01:36",
@@ -887,6 +887,22 @@
     {
       "added_at": "2026-05-01 04:01:36",
       "album": {
+        "name": "Switch On",
+        "url": "https://open.spotify.com/album/5hz1I6rOVfEQWglUoS9ZJt"
+      },
+      "artists": [
+        {
+          "name": "Sweet Talk",
+          "url": "https://open.spotify.com/artist/6ZsvU0pOzv89XZ1FoBeSSi"
+        }
+      ],
+      "duration_ms": 258218,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/1I9Uda51gz1rbjh0z7Xu6T"
+    },
+    {
+      "added_at": "2026-05-01 04:01:36",
+      "album": {
         "name": "Everything's Fine",
         "url": "https://open.spotify.com/album/1h64ZVnu3Zds9ZKRJcOE8k"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 234596,
       "name": "Everything's Fine",
       "url": "https://open.spotify.com/track/4zAonFIPy28okpnSUMzceT"
-    },
-    {
-      "added_at": "2026-05-01 04:01:36",
-      "album": {
-        "name": "Switch On",
-        "url": "https://open.spotify.com/album/5hz1I6rOVfEQWglUoS9ZJt"
-      },
-      "artists": [
-        {
-          "name": "Sweet Talk",
-          "url": "https://open.spotify.com/artist/6ZsvU0pOzv89XZ1FoBeSSi"
-        }
-      ],
-      "duration_ms": 258218,
-      "name": "Hurricane",
-      "url": "https://open.spotify.com/track/1I9Uda51gz1rbjh0z7Xu6T"
     },
     {
       "added_at": "2026-05-01 04:01:36",
@@ -963,22 +963,6 @@
     {
       "added_at": "2026-05-01 04:01:36",
       "album": {
-        "name": "Blues Worse Than I Ever Had",
-        "url": "https://open.spotify.com/album/1nmEVJtFdtgi57jDtmLBUg"
-      },
-      "artists": [
-        {
-          "name": "Marcus King",
-          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
-        }
-      ],
-      "duration_ms": 211666,
-      "name": "Blues Worse Than I Ever Had",
-      "url": "https://open.spotify.com/track/5RXTvloOBm9W714kbJU0gQ"
-    },
-    {
-      "added_at": "2026-05-01 04:01:36",
-      "album": {
         "name": "What I Wouldn't Do",
         "url": "https://open.spotify.com/album/1AmOfiZW1WaiU5l2hBaR5A"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 189739,
       "name": "What I Wouldn't Do",
       "url": "https://open.spotify.com/track/0pVvXJtzmqExa15afINt9C"
+    },
+    {
+      "added_at": "2026-05-01 04:01:36",
+      "album": {
+        "name": "Blues Worse Than I Ever Had",
+        "url": "https://open.spotify.com/album/1nmEVJtFdtgi57jDtmLBUg"
+      },
+      "artists": [
+        {
+          "name": "Marcus King",
+          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
+        }
+      ],
+      "duration_ms": 211666,
+      "name": "Blues Worse Than I Ever Had",
+      "url": "https://open.spotify.com/track/5RXTvloOBm9W714kbJU0gQ"
     },
     {
       "added_at": "2026-05-01 04:01:36",
@@ -1063,18 +1063,18 @@
     {
       "added_at": "2026-05-01 04:01:36",
       "album": {
-        "name": "Crisscross Way",
-        "url": "https://open.spotify.com/album/4ieVGOXktMLGjcLYv8i7Jb"
+        "name": "Slow Lightning (Deluxe)",
+        "url": "https://open.spotify.com/album/7Mz65cNLCpxl7qzFIxfCVA"
       },
       "artists": [
         {
-          "name": "ggwendolyn",
-          "url": "https://open.spotify.com/artist/6IcYZpRmCcm5E3MMfA42Hi"
+          "name": "The Bones of J.R. Jones",
+          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
         }
       ],
-      "duration_ms": 164344,
-      "name": "Crisscross Way",
-      "url": "https://open.spotify.com/track/1meNMO8MXPNLm5I5mxQiv5"
+      "duration_ms": 234266,
+      "name": "Out for Blood",
+      "url": "https://open.spotify.com/track/7739yFrjY8ZOg3619Y07yH"
     },
     {
       "added_at": "2026-05-01 04:01:36",
@@ -1095,18 +1095,18 @@
     {
       "added_at": "2026-05-01 04:01:36",
       "album": {
-        "name": "Slow Lightning (Deluxe)",
-        "url": "https://open.spotify.com/album/7Mz65cNLCpxl7qzFIxfCVA"
+        "name": "Crisscross Way",
+        "url": "https://open.spotify.com/album/4ieVGOXktMLGjcLYv8i7Jb"
       },
       "artists": [
         {
-          "name": "The Bones of J.R. Jones",
-          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
+          "name": "ggwendolyn",
+          "url": "https://open.spotify.com/artist/6IcYZpRmCcm5E3MMfA42Hi"
         }
       ],
-      "duration_ms": 234266,
-      "name": "Out for Blood",
-      "url": "https://open.spotify.com/track/7739yFrjY8ZOg3619Y07yH"
+      "duration_ms": 164344,
+      "name": "Crisscross Way",
+      "url": "https://open.spotify.com/track/1meNMO8MXPNLm5I5mxQiv5"
     },
     {
       "added_at": "2026-05-01 04:01:36",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2026-05-01 04:01:36",
       "album": {
-        "name": "Coast of Light",
-        "url": "https://open.spotify.com/album/5ZNpCyaXw6GYlwfBd9QkBb"
-      },
-      "artists": [
-        {
-          "name": "Luke Winslow-King",
-          "url": "https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC"
-        }
-      ],
-      "duration_ms": 217581,
-      "name": "Teacher's Desk",
-      "url": "https://open.spotify.com/track/5k2bTDnCsEi1EZIHzAAri8"
-    },
-    {
-      "added_at": "2026-05-01 04:01:36",
-      "album": {
         "name": "Days of Mellow",
         "url": "https://open.spotify.com/album/60IzFmXwMFetX2JaC9xbeu"
       },
@@ -1215,18 +1199,18 @@
     {
       "added_at": "2026-05-01 04:01:36",
       "album": {
-        "name": "You Can't Love Me",
-        "url": "https://open.spotify.com/album/7tijSpRn4KSVy4w7foF55l"
+        "name": "Coast of Light",
+        "url": "https://open.spotify.com/album/5ZNpCyaXw6GYlwfBd9QkBb"
       },
       "artists": [
         {
-          "name": "Kenny Wayne Shepherd",
-          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
+          "name": "Luke Winslow-King",
+          "url": "https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC"
         }
       ],
-      "duration_ms": 251946,
-      "name": "You Can't Love Me",
-      "url": "https://open.spotify.com/track/4dHYQ1XOK8iTCRlTh9TDNE"
+      "duration_ms": 217581,
+      "name": "Teacher's Desk",
+      "url": "https://open.spotify.com/track/5k2bTDnCsEi1EZIHzAAri8"
     },
     {
       "added_at": "2026-05-01 04:01:36",
@@ -1243,6 +1227,22 @@
       "duration_ms": 273121,
       "name": "Love On My Brain",
       "url": "https://open.spotify.com/track/1SifJq6qcWrT6jgpkKAtgD"
+    },
+    {
+      "added_at": "2026-05-01 04:01:36",
+      "album": {
+        "name": "You Can't Love Me",
+        "url": "https://open.spotify.com/album/7tijSpRn4KSVy4w7foF55l"
+      },
+      "artists": [
+        {
+          "name": "Kenny Wayne Shepherd",
+          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
+        }
+      ],
+      "duration_ms": 251946,
+      "name": "You Can't Love Me",
+      "url": "https://open.spotify.com/track/4dHYQ1XOK8iTCRlTh9TDNE"
     },
     {
       "added_at": "2026-05-01 04:01:36",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2026-05-01 04:01:36",
       "album": {
-        "name": "Companions",
-        "url": "https://open.spotify.com/album/53QsuWFAeqe5ihfdsL8VsN"
-      },
-      "artists": [
-        {
-          "name": "Adam Douglas",
-          "url": "https://open.spotify.com/artist/2Qwxl6F6JSkr546OaCsgOG"
-        }
-      ],
-      "duration_ms": 225106,
-      "name": "My Own Disguise",
-      "url": "https://open.spotify.com/track/0vIbWBOYgO6TTkWe4ZarrH"
-    },
-    {
-      "added_at": "2026-05-01 04:01:36",
-      "album": {
         "name": "Trouble",
         "url": "https://open.spotify.com/album/7gi6AMVZhuRCjqLfSl4kOd"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 243219,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/02OxBW5LOc4PAjf0dj1buK"
+    },
+    {
+      "added_at": "2026-05-01 04:01:36",
+      "album": {
+        "name": "Companions",
+        "url": "https://open.spotify.com/album/53QsuWFAeqe5ihfdsL8VsN"
+      },
+      "artists": [
+        {
+          "name": "Adam Douglas",
+          "url": "https://open.spotify.com/artist/2Qwxl6F6JSkr546OaCsgOG"
+        }
+      ],
+      "duration_ms": 225106,
+      "name": "My Own Disguise",
+      "url": "https://open.spotify.com/track/0vIbWBOYgO6TTkWe4ZarrH"
     },
     {
       "added_at": "2026-05-01 04:01:36",
@@ -1483,6 +1483,26 @@
       "duration_ms": 288256,
       "name": "Muddy Water",
       "url": "https://open.spotify.com/track/02FcRwLxP00Bwx3ZNTIMzw"
+    },
+    {
+      "added_at": "2026-05-01 04:01:36",
+      "album": {
+        "name": "Close To Me (with Madison Hughes)",
+        "url": "https://open.spotify.com/album/5cW5YQbeLiPAllNclJEjfG"
+      },
+      "artists": [
+        {
+          "name": "The Deltaz",
+          "url": "https://open.spotify.com/artist/2Ux8BRWypmo461Vdorxx9G"
+        },
+        {
+          "name": "Madison Hughes",
+          "url": "https://open.spotify.com/artist/03rZGNLcaUYnzsTxlXpJ3F"
+        }
+      ],
+      "duration_ms": 178869,
+      "name": "Close To Me (with Madison Hughes)",
+      "url": "https://open.spotify.com/track/3us3Ixr3f3gvG18X1SVe94"
     },
     {
       "added_at": "2026-05-01 04:01:36",
@@ -1635,22 +1655,6 @@
     {
       "added_at": "2026-05-01 04:01:36",
       "album": {
-        "name": "Noah's Children",
-        "url": "https://open.spotify.com/album/6mg5QcrnRs8u2CuX1NWRTS"
-      },
-      "artists": [
-        {
-          "name": "Josh Ritter",
-          "url": "https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo"
-        }
-      ],
-      "duration_ms": 264629,
-      "name": "Noah's Children",
-      "url": "https://open.spotify.com/track/3h4ECnl24qRZmQ53a5zBzl"
-    },
-    {
-      "added_at": "2026-05-01 04:01:36",
-      "album": {
         "name": "Seasons Change",
         "url": "https://open.spotify.com/album/1DjF9YaLZ3PKdzmwNPdwok"
       },
@@ -1663,6 +1667,22 @@
       "duration_ms": 207931,
       "name": "Seasons Change",
       "url": "https://open.spotify.com/track/6s9DuDzSqgGqKoGTSWdpPu"
+    },
+    {
+      "added_at": "2026-05-01 04:01:36",
+      "album": {
+        "name": "Noah's Children",
+        "url": "https://open.spotify.com/album/6mg5QcrnRs8u2CuX1NWRTS"
+      },
+      "artists": [
+        {
+          "name": "Josh Ritter",
+          "url": "https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo"
+        }
+      ],
+      "duration_ms": 264629,
+      "name": "Noah's Children",
+      "url": "https://open.spotify.com/track/3h4ECnl24qRZmQ53a5zBzl"
     },
     {
       "added_at": "2026-05-01 04:01:36",
@@ -1695,26 +1715,6 @@
       "duration_ms": 247013,
       "name": "Hey! You Know You Wanna!",
       "url": "https://open.spotify.com/track/7afo9mIshxqUKPEPALwROk"
-    },
-    {
-      "added_at": "2026-05-01 04:01:36",
-      "album": {
-        "name": "What's Not To Love?",
-        "url": "https://open.spotify.com/album/2305uR83zej8iwsMkNzdd2"
-      },
-      "artists": [
-        {
-          "name": "John C. Reilly",
-          "url": "https://open.spotify.com/artist/5SL8972vfCQ4PFqlmf9B5G"
-        },
-        {
-          "name": "Mister Romantic",
-          "url": "https://open.spotify.com/artist/6X4nLwC4iwnFlvIoW831O0"
-        }
-      ],
-      "duration_ms": 199174,
-      "name": "I Guess I\u2019ll Get The Papers And Go Home",
-      "url": "https://open.spotify.com/track/26qinPvPXEC2rYkg2288K0"
     }
   ],
   "unique_name": "Blues Roots",

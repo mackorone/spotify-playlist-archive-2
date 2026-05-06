@@ -2,9 +2,9 @@
 
 ### [rap dk](https://open.spotify.com/playlist/37i9dQZF1DXdhDukKQ88Cc)
 
-> 🔥 den nyeste rap i dk 🔥 cover: Artigeardit
+> 🔥 den nyeste rap i dk 🔥 cover: Michael Williams
 
-532 songs - 22 hr 40 min
+534 songs - 22 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -248,7 +248,7 @@
 | [HVA KA DE](https://open.spotify.com/track/0MAfswMT0Ait4OlVNAuF9e) | [ATYPISK](https://open.spotify.com/artist/3L1jDbMK9J4Rd6XVv0KDjS) | [HVA KA DE](https://open.spotify.com/album/0BlXLPofQ4KfoL8DeN6X06) | 2:24 | 2024-10-31 | 2024-11-08 |
 | [hva status](https://open.spotify.com/track/4uD38j8IHpg5g8LFOlV1XV) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [nu hvor vi er her](https://open.spotify.com/album/4V23js9gaPVRSmhcSSb0lc) | 2:57 | 2023-09-21 | 2024-02-23 |
 | [Hva' Chancen](https://open.spotify.com/track/6ZCU8onvUZgBl11AX92Pq6) | [Kundo](https://open.spotify.com/artist/2GGL93jyTZ4X7uidHSJhIr), [Thor Farlov](https://open.spotify.com/artist/0YF2oUwHHPo0VTGuqgYG0X) | [Hva' Chancen](https://open.spotify.com/album/0eTnh0LyOkN3FMbZRqKDyR) | 3:15 | 2025-09-11 | 2025-10-24 |
-| [Hvad Forventer De Freestyle](https://open.spotify.com/track/6RmGU9ICkzy6iE9gZf48yL) | [Anton Westerlin](https://open.spotify.com/artist/5NYUb39ntjgN7cRtN4y25T), [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [Hvad Forventer De Freestyle](https://open.spotify.com/album/4QAoPfSuW02X1wgDOqbkgq) | 2:12 | 2025-07-17 |  |
+| [Hvad Forventer De Freestyle](https://open.spotify.com/track/6RmGU9ICkzy6iE9gZf48yL) | [Anton Westerlin](https://open.spotify.com/artist/5NYUb39ntjgN7cRtN4y25T), [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [Hvad Forventer De Freestyle](https://open.spotify.com/album/4QAoPfSuW02X1wgDOqbkgq) | 2:12 | 2025-07-17 | 2026-05-06 |
 | [Hvad Vi Vil](https://open.spotify.com/track/0dH7vsh51sKniPT5H2kSCW) | [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD) | [Hvad Vi Vil](https://open.spotify.com/album/5GFIXuuthiNh3WbmuUoomk) | 3:31 | 2024-02-29 | 2024-05-14 |
 | [Hvem Har Stedet](https://open.spotify.com/track/7gA1XMv2BnRU6h1hjj5iUA) | [Kundo](https://open.spotify.com/artist/2GGL93jyTZ4X7uidHSJhIr) | [Hvem Har Stedet](https://open.spotify.com/album/6QxcuBWX5mHp4OiKp5g4xU) | 2:01 | 2025-03-27 | 2025-05-30 |
 | [Hver Dag](https://open.spotify.com/track/2oaR5QU69kcdbeQvJV3yLd) | [Kundo](https://open.spotify.com/artist/2GGL93jyTZ4X7uidHSJhIr) | [Hver Dag](https://open.spotify.com/album/5Dicwkd8fam4tqR6nCGyEL) | 2:32 | 2026-03-12 |  |
@@ -288,6 +288,7 @@
 | [K Flow \(feat\. wicky\)](https://open.spotify.com/track/4ieFtpbjZ75P1f5Er1zsXi) | [Merro8](https://open.spotify.com/artist/5LcNaarbF34TMSkVLE7YQc), [wicky](https://open.spotify.com/artist/79ky6ZBdwtfcMNf2LqRzvP) | [K Flow \(feat\. wicky\)](https://open.spotify.com/album/4W54sHGYoQxuteHhfpEPkw) | 2:24 | 2025-08-21 | 2026-04-10 |
 | [K\-City \(feat\. Stepz\)](https://open.spotify.com/track/12gl0uMirrvJL9DzTgcRXR) | [EZ](https://open.spotify.com/artist/1KQsdrbzpa7RQfYq2U0ABb), [Stepz](https://open.spotify.com/artist/21gbsnlPT5hyxKDKHsBtQj) | [K\-City \(feat\. Stepz\)](https://open.spotify.com/album/6DKZHaI2sj7p7rMxNnouhf) | 2:33 | 2023-09-21 | 2024-01-19 |
 | [Karma](https://open.spotify.com/track/189ayDQCwwVulVP8hA5ofU) | [ATYPISK](https://open.spotify.com/artist/3L1jDbMK9J4Rd6XVv0KDjS) | [Karma](https://open.spotify.com/album/4g5PxfnORxEAObcyMlAYqo) | 1:59 | 2026-01-08 | 2026-01-23 |
+| [Kastrup Freestyle](https://open.spotify.com/track/7wq3KkTArpwCzCXv72myB0) | [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp) | [Kastrup Freestyle](https://open.spotify.com/album/72cSZLP1lfkwwuyTmFDfmU) | 2:35 | 2026-05-05 |  |
 | [Katte \(feat\. Artigeardit\)](https://open.spotify.com/track/2jBvbnYDmG01ocNv1AZhHM) | [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt), [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [Katte \(feat\. Artigeardit\)](https://open.spotify.com/album/7FG45mLhsw5ejuaCg6Folx) | 2:10 | 2025-06-26 | 2025-09-05 |
 | [Keem \(feat\. Benny Jamz\)](https://open.spotify.com/track/5mFQvwwjVjy1cO0HxxbsoR) | [Kundo](https://open.spotify.com/artist/2GGL93jyTZ4X7uidHSJhIr), [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD) | [24](https://open.spotify.com/album/4Z47LEsa5VjVEVB34qlHc8) | 3:15 | 2025-05-30 | 2025-11-14 |
 | [Kensington](https://open.spotify.com/track/3F9G0gY3LFkHhUSnHTmidi) | [Cizzo](https://open.spotify.com/artist/4mDyp9yRHugUnXvIBrt9xP) | [Kensington](https://open.spotify.com/album/2aWaeRcrVIT3M4oeEYbzpH) | 1:50 | 2025-10-16 | 2025-10-31 |
@@ -307,6 +308,7 @@
 | [Lad Lyset Brænde](https://open.spotify.com/track/3ByfEHW1oFSuGCk3ujAWLt) | [Matongo](https://open.spotify.com/artist/2TtN6WlbGQ2DAN7xJzHlG6), [BJØRN](https://open.spotify.com/artist/6JgNOXKB2X1JjGYReJIa9D) | [Lad Lyset Brænde](https://open.spotify.com/album/21G4pjeINYtCKs5pxaBCJe) | 2:57 | 2026-02-26 | 2026-03-06 |
 | [Lad Mig Lande \(feat\. Gilli, KESI, Kimbo & Sivas\)](https://open.spotify.com/track/50kvRbk8GLtPtgxoMeasSK) | [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE), [Kimbo](https://open.spotify.com/artist/4a88Q5HOh8FSXQ1gPcQu2U), [Sivas](https://open.spotify.com/artist/3W7YeaPmcpi1UFutTF49kx) | [Noahs Ark](https://open.spotify.com/album/4oExjnLMuvThxFs2UR80R8) | 3:32 | 2024-03-21 | 2024-06-22 |
 | [LAG PÅ LAG](https://open.spotify.com/track/3okKedyibuPyKZy16clOWH) | [Naoui](https://open.spotify.com/artist/0AvmzQcrG34vvnXwwXy06A), [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [LAG PÅ LAG](https://open.spotify.com/album/7qgIprL7S4IdbsSgPsUtL0) | 2:15 | 2024-01-04 | 2024-01-17 |
+| [Lagkagehuset Freestyle](https://open.spotify.com/track/3klUfjdR7eOQ1ugy82Mio9) | [Anton Westerlin](https://open.spotify.com/artist/5NYUb39ntjgN7cRtN4y25T), [Michael Williams](https://open.spotify.com/artist/4pA9UUTKYrz88wP5NzYyVE) | [Bag Gardinerne S1+S2](https://open.spotify.com/album/5QIuBky3csmGXvocvp0Q0R) | 2:31 | 2026-05-05 |  |
 | [Langsom](https://open.spotify.com/track/5kGceOsJc3EP5BZ7a7OrvQ) | [LAY](https://open.spotify.com/artist/1n8Fd2279g0K5EPnxPc7J0), [Asta Brix](https://open.spotify.com/artist/7jdou2ayaa86lDotGOCwpg) | [HØJERE](https://open.spotify.com/album/1vhjwh1XoAqwaqQ2AMn0QO) | 2:59 | 2025-06-26 | 2026-04-10 |
 | [Langt Væk](https://open.spotify.com/track/29wJ4iomPWiJLXaXYhowRu) | [ZK](https://open.spotify.com/artist/4uvOZHqwKYuWz1ywTBN5En) | [Langt Væk](https://open.spotify.com/album/21xYB9rpuvfWagpQkuAxdV) | 2:09 | 2024-10-10 | 2024-11-01 |
 | [Lean Back](https://open.spotify.com/track/3C5GTbN0DjMWqoW8MrfsaS) | [LEE](https://open.spotify.com/artist/0tQ5b76y1jrXNQ63299Sgv) | [Lean Back](https://open.spotify.com/album/2X19I3nqDmmzm0bhxS4ww0) | 1:55 | 2023-11-10 | 2023-12-14 |

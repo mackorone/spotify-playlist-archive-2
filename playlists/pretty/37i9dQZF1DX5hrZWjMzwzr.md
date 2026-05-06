@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrZWjMzwzr.md) - [plain]
 
 > Nagrody rozdane! Posłuchaj zwycięzców i  nominowanych utworów w kategorii singiel roku.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,818 likes - 79 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,817 likes - 79 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrZWjMzwzr.md) - [plain]
 | 26 | [Kawior](https://open.spotify.com/track/5U501QvKEdHNON4LGFAhvj) | [Avi](https://open.spotify.com/artist/5NmRijhUHZnaADekOLcOyl), [BL Beatz](https://open.spotify.com/artist/2B3kmkvUmxESyeXpT2OMH6) | [Kawior](https://open.spotify.com/album/1GIZyPMXjFNJK7jkXfyVYo) | 2:37 |
 | 27 | [Lovestory](https://open.spotify.com/track/138nZjrDtHcnJmGjpKgxUV) | [White 2115](https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd) | [ROCKST4R DELUXE](https://open.spotify.com/album/0lMLPqfCx8TkueptXjUZUn) | 2:40 |
 | 28 | [NIE MA CB \(PRZY MNIE TU\)](https://open.spotify.com/track/6VUFiHo3hE3ZAyIAkQOyol) | [Kinny Zimmer](https://open.spotify.com/artist/19zuiWthJYU6FCqnV4mJYC), [White 2115](https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd), [Kaptur](https://open.spotify.com/artist/4NJA8jbfxc4daVM2wi9ybd) | [NIE MA CB \(PRZY MNIE TU\)](https://open.spotify.com/album/2ZBuaxJT22uoSJdsJEOmiw) | 3:33 |
-| 29 | [KTO MA STYL](https://open.spotify.com/track/4LeiikqM8SP6y943JAvrqy) | [MODELKI](https://open.spotify.com/artist/3cBLJizprytrMpuFbnRnaE), [Vłodarski](https://open.spotify.com/artist/75wMNgYkzacOI08FN7BaG0) | [KTO MA STYL](https://open.spotify.com/album/3jCqpBKAq0S52X0O2Bd0I4) | 2:16 |
-| 30 | [Różowe Diamenty](https://open.spotify.com/track/3IXuxsI9ltJw3WpRzVtSPL) | [Young Leosia](https://open.spotify.com/artist/0iBTVnJ1Sff92zCDujfvyJ), [Deemz](https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt) | [Różowe Diamenty](https://open.spotify.com/album/5FRwgkqHl0NWdawXB8m6q4) | 2:33 |
+| 29 | [Różowe Diamenty](https://open.spotify.com/track/3IXuxsI9ltJw3WpRzVtSPL) | [Young Leosia](https://open.spotify.com/artist/0iBTVnJ1Sff92zCDujfvyJ), [Deemz](https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt) | [Różowe Diamenty](https://open.spotify.com/album/5FRwgkqHl0NWdawXB8m6q4) | 2:33 |
+| 30 | [KTO MA STYL](https://open.spotify.com/track/4LeiikqM8SP6y943JAvrqy) | [MODELKI](https://open.spotify.com/artist/3cBLJizprytrMpuFbnRnaE), [Vłodarski](https://open.spotify.com/artist/75wMNgYkzacOI08FN7BaG0) | [KTO MA STYL](https://open.spotify.com/album/3jCqpBKAq0S52X0O2Bd0I4) | 2:16 |
 | 31 | [CERTYFIKAT](https://open.spotify.com/track/4wqzjszg4AWKQoeY7swyci) | [Eryk Moczko](https://open.spotify.com/artist/6BqCCSNavmsoUg5WLnQGhd) | [CERTYFIKAT](https://open.spotify.com/album/4nNNcLFT17QWgHSSzQYwrb) | 2:21 |
 | 32 | [Quattro](https://open.spotify.com/track/0lMpZ1eELPt7WENvcei807) | [Kabe](https://open.spotify.com/artist/4Q3xLVaD2uBZGVxmCYuSkt), [Opiat](https://open.spotify.com/artist/001oyhl94fb7YKL6fVqHOo) | [Quattro](https://open.spotify.com/album/264RetMxM0ihGubycm2Y4L) | 2:57 |
 | 33 | [W co ja się wjebałem \- Nowe Rozdanie \| S1](https://open.spotify.com/track/5LreD4p6buqBGNwV84YsZb) | [po prostu Kajtek](https://open.spotify.com/artist/2kk3YwIOrWbZHk9O3HKNY3), [Zippy Ogar](https://open.spotify.com/artist/4Gtcjb9mBxQhQMIoktLSkU), [Shelast](https://open.spotify.com/artist/7K7hYrJz4X6lkVPp8kWX7o), [matiorzel](https://open.spotify.com/artist/7k77M3ebwl8FbsAWbquOMN), [Nowe Rozdanie](https://open.spotify.com/artist/0M7n5Rct99GLcaEoD5wPt8) | [W co ja się wjebałem \- Nowe Rozdanie \| S1](https://open.spotify.com/album/6PnfYYqAiGUgPr1JV8zPQ8) | 3:06 |

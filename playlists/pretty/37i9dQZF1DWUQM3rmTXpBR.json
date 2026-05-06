@@ -1,13 +1,93 @@
 {
   "description": "Alternative Arabic songs. Cover: Seera",
-  "num_followers": 151213,
+  "num_followers": 151227,
   "original_name": "Arab Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAN0VYMCQHgfjWFn2yFVN6RjrAr5O",
+  "snapshot_id": "AAAAAKf3J26TfEVsNm0TpTjCqyGdk+ZJ",
   "tracks": [
+    {
+      "added_at": "2026-01-21 08:42:53",
+      "album": {
+        "name": "Sarab (\u0633\u0631\u0627\u0628)",
+        "url": "https://open.spotify.com/album/1iNbgYCR4hjyxWFvtvenei"
+      },
+      "artists": [
+        {
+          "name": "Seera",
+          "url": "https://open.spotify.com/artist/2F1QgtQgZA2gx2ovc1bEkc"
+        }
+      ],
+      "duration_ms": 333949,
+      "name": "Zaman (\u0632\u0645\u0646)",
+      "url": "https://open.spotify.com/track/7FuKhxqlfiqEZdtcTZtmP9"
+    },
+    {
+      "added_at": "2025-12-26 11:37:22",
+      "album": {
+        "name": "Afkarik",
+        "url": "https://open.spotify.com/album/4aATb7Kb0iTifiMphvFpbW"
+      },
+      "artists": [
+        {
+          "name": "Salim Tarabay",
+          "url": "https://open.spotify.com/artist/4gLyumFZwjNYDdiHPpl9Pq"
+        }
+      ],
+      "duration_ms": 222316,
+      "name": "Afkarik",
+      "url": "https://open.spotify.com/track/1ebIGIiewKtLSjLf6n76KX"
+    },
+    {
+      "added_at": "2025-12-26 11:37:22",
+      "album": {
+        "name": "Leh Ya Hana ?",
+        "url": "https://open.spotify.com/album/4uWS5ntd91UbXbekxpDdLN"
+      },
+      "artists": [
+        {
+          "name": "Arnabeat",
+          "url": "https://open.spotify.com/artist/31OlJhazERjXIrCE9SQQbM"
+        }
+      ],
+      "duration_ms": 234775,
+      "name": "Leh Ya Hana ?",
+      "url": "https://open.spotify.com/track/4ZblA6ehlUEGgy3cpENRrx"
+    },
+    {
+      "added_at": "2025-12-26 11:37:22",
+      "album": {
+        "name": "El Rajol El Khashabi",
+        "url": "https://open.spotify.com/album/4XL6KSM5Dqu83lzuPprMGm"
+      },
+      "artists": [
+        {
+          "name": "El Far3i",
+          "url": "https://open.spotify.com/artist/5DOOqoefvhVdksKzrvA30t"
+        }
+      ],
+      "duration_ms": 249023,
+      "name": "Tghayarti",
+      "url": "https://open.spotify.com/track/2UCflIlO6RFX1cIfuu2pmR"
+    },
+    {
+      "added_at": "2025-12-26 11:37:22",
+      "album": {
+        "name": "Salute To Al Ghor",
+        "url": "https://open.spotify.com/album/0AxxTNSX7y6nJO651y4q7A"
+      },
+      "artists": [
+        {
+          "name": "Ayloul",
+          "url": "https://open.spotify.com/artist/2LxGXSPzPdONjfaKwRyKmq"
+        }
+      ],
+      "duration_ms": 221040,
+      "name": "Emsekni B Eydi",
+      "url": "https://open.spotify.com/track/4R97D5BbATpAJ30s4EY7a0"
+    },
     {
       "added_at": "2026-02-27 19:01:52",
       "album": {
@@ -29,22 +109,6 @@
       "url": "https://open.spotify.com/track/5lYSkHKGVBzPNRyVtLpORG"
     },
     {
-      "added_at": "2026-01-21 08:42:53",
-      "album": {
-        "name": "Sarab (\u0633\u0631\u0627\u0628)",
-        "url": "https://open.spotify.com/album/1iNbgYCR4hjyxWFvtvenei"
-      },
-      "artists": [
-        {
-          "name": "Seera",
-          "url": "https://open.spotify.com/artist/2F1QgtQgZA2gx2ovc1bEkc"
-        }
-      ],
-      "duration_ms": 333949,
-      "name": "Zaman (\u0632\u0645\u0646)",
-      "url": "https://open.spotify.com/track/7FuKhxqlfiqEZdtcTZtmP9"
-    },
-    {
       "added_at": "2026-01-22 07:38:33",
       "album": {
         "name": "Hannen",
@@ -61,10 +125,10 @@
       "url": "https://open.spotify.com/track/1tuvDoD0kG32dVuZziBTQ3"
     },
     {
-      "added_at": "2026-01-22 07:39:38",
+      "added_at": "2025-12-26 11:37:22",
       "album": {
-        "name": "Aleem Allah \u0639\u0644\u064a\u0645 \u0627\u0644\u0644\u0647 (Galbi Wadani Lawain \u0642\u0644\u0628\u064a \u0648\u062f\u0627\u0646\u064a \u0644\u0648\u064a\u0646)",
-        "url": "https://open.spotify.com/album/1Y69tspoX8E1X6MOKIKhOB"
+        "name": "Bas7ab Kalami \u0628\u0633\u062d\u0628 \u0643\u0644\u0627\u0645\u064a",
+        "url": "https://open.spotify.com/album/5oFTSkuZ3KzhrQfZr3oSTi"
       },
       "artists": [
         {
@@ -72,9 +136,9 @@
           "url": "https://open.spotify.com/artist/4WtbPWxKvsXj9lWBi5buWJ"
         }
       ],
-      "duration_ms": 238152,
-      "name": "Aleem Allah \u0639\u0644\u064a\u0645 \u0627\u0644\u0644\u0647 (Galbi Wadani Lawain \u0642\u0644\u0628\u064a \u0648\u062f\u0627\u0646\u064a \u0644\u0648\u064a\u0646)",
-      "url": "https://open.spotify.com/track/3vOYS16Twv5u9sLO0yxswF"
+      "duration_ms": 221038,
+      "name": "Bas7ab Kalami \u0628\u0633\u062d\u0628 \u0643\u0644\u0627\u0645\u064a",
+      "url": "https://open.spotify.com/track/30Bkjnh9HaUgxAF6SBb1fP"
     },
     {
       "added_at": "2026-01-21 08:42:53",
@@ -91,22 +155,6 @@
       "duration_ms": 151578,
       "name": "Mesh Bet2ooly leh \u0645\u0634 \u0628\u062a\u0642\u0648\u0644\u064a \u0644\u064a\u0647",
       "url": "https://open.spotify.com/track/11g8MT4npcCvkTee8njIM0"
-    },
-    {
-      "added_at": "2025-12-26 11:37:22",
-      "album": {
-        "name": "Bas7ab Kalami \u0628\u0633\u062d\u0628 \u0643\u0644\u0627\u0645\u064a",
-        "url": "https://open.spotify.com/album/5oFTSkuZ3KzhrQfZr3oSTi"
-      },
-      "artists": [
-        {
-          "name": "Autostrad",
-          "url": "https://open.spotify.com/artist/4WtbPWxKvsXj9lWBi5buWJ"
-        }
-      ],
-      "duration_ms": 221038,
-      "name": "Bas7ab Kalami \u0628\u0633\u062d\u0628 \u0643\u0644\u0627\u0645\u064a",
-      "url": "https://open.spotify.com/track/30Bkjnh9HaUgxAF6SBb1fP"
     },
     {
       "added_at": "2025-12-26 11:37:22",
@@ -263,6 +311,22 @@
     {
       "added_at": "2025-12-26 11:37:22",
       "album": {
+        "name": "El Hal Romancy",
+        "url": "https://open.spotify.com/album/0WV17sD6xRIcndI9o20HqP"
+      },
+      "artists": [
+        {
+          "name": "Mashrou' Leila",
+          "url": "https://open.spotify.com/artist/2RIrl9cApI8HwM6aF4Jt5m"
+        }
+      ],
+      "duration_ms": 203133,
+      "name": "Inni Mneeh",
+      "url": "https://open.spotify.com/track/5DZqSd5MS5ubyXnc7PIMtR"
+    },
+    {
+      "added_at": "2025-12-26 11:37:22",
+      "album": {
         "name": "El 3asal",
         "url": "https://open.spotify.com/album/3TE0kPmcSenKkNKyfTLLWS"
       },
@@ -329,6 +393,22 @@
       "url": "https://open.spotify.com/track/0SVfaNq8jB4boSfBjEQhf3"
     },
     {
+      "added_at": "2026-01-22 07:39:38",
+      "album": {
+        "name": "Aleem Allah \u0639\u0644\u064a\u0645 \u0627\u0644\u0644\u0647 (Galbi Wadani Lawain \u0642\u0644\u0628\u064a \u0648\u062f\u0627\u0646\u064a \u0644\u0648\u064a\u0646)",
+        "url": "https://open.spotify.com/album/1Y69tspoX8E1X6MOKIKhOB"
+      },
+      "artists": [
+        {
+          "name": "Autostrad",
+          "url": "https://open.spotify.com/artist/4WtbPWxKvsXj9lWBi5buWJ"
+        }
+      ],
+      "duration_ms": 238152,
+      "name": "Aleem Allah \u0639\u0644\u064a\u0645 \u0627\u0644\u0644\u0647 (Galbi Wadani Lawain \u0642\u0644\u0628\u064a \u0648\u062f\u0627\u0646\u064a \u0644\u0648\u064a\u0646)",
+      "url": "https://open.spotify.com/track/3vOYS16Twv5u9sLO0yxswF"
+    },
+    {
       "added_at": "2025-12-26 11:37:22",
       "album": {
         "name": "Mashaweer",
@@ -371,22 +451,6 @@
     {
       "added_at": "2025-12-26 11:37:22",
       "album": {
-        "name": "El Rajol El Khashabi",
-        "url": "https://open.spotify.com/album/4XL6KSM5Dqu83lzuPprMGm"
-      },
-      "artists": [
-        {
-          "name": "El Far3i",
-          "url": "https://open.spotify.com/artist/5DOOqoefvhVdksKzrvA30t"
-        }
-      ],
-      "duration_ms": 249023,
-      "name": "Tghayarti",
-      "url": "https://open.spotify.com/track/2UCflIlO6RFX1cIfuu2pmR"
-    },
-    {
-      "added_at": "2025-12-26 11:37:22",
-      "album": {
         "name": "Hashrab Hashish",
         "url": "https://open.spotify.com/album/0GDXEudxSlauLzuQxfq2KO"
       },
@@ -399,22 +463,6 @@
       "duration_ms": 184058,
       "name": "Hashrab Hashish",
       "url": "https://open.spotify.com/track/4S7oLETjomhx5WCDHf1166"
-    },
-    {
-      "added_at": "2025-12-26 11:37:22",
-      "album": {
-        "name": "El Hal Romancy",
-        "url": "https://open.spotify.com/album/0WV17sD6xRIcndI9o20HqP"
-      },
-      "artists": [
-        {
-          "name": "Mashrou' Leila",
-          "url": "https://open.spotify.com/artist/2RIrl9cApI8HwM6aF4Jt5m"
-        }
-      ],
-      "duration_ms": 203133,
-      "name": "Inni Mneeh",
-      "url": "https://open.spotify.com/track/5DZqSd5MS5ubyXnc7PIMtR"
     },
     {
       "added_at": "2025-12-26 11:37:22",
@@ -467,38 +515,6 @@
       "duration_ms": 213944,
       "name": "Nadini",
       "url": "https://open.spotify.com/track/58y6fLuPSyI1MQlojS3MFe"
-    },
-    {
-      "added_at": "2025-12-26 11:37:22",
-      "album": {
-        "name": "Salute To Al Ghor",
-        "url": "https://open.spotify.com/album/0AxxTNSX7y6nJO651y4q7A"
-      },
-      "artists": [
-        {
-          "name": "Ayloul",
-          "url": "https://open.spotify.com/artist/2LxGXSPzPdONjfaKwRyKmq"
-        }
-      ],
-      "duration_ms": 221040,
-      "name": "Emsekni B Eydi",
-      "url": "https://open.spotify.com/track/4R97D5BbATpAJ30s4EY7a0"
-    },
-    {
-      "added_at": "2025-12-26 11:37:22",
-      "album": {
-        "name": "Afkarik",
-        "url": "https://open.spotify.com/album/4aATb7Kb0iTifiMphvFpbW"
-      },
-      "artists": [
-        {
-          "name": "Salim Tarabay",
-          "url": "https://open.spotify.com/artist/4gLyumFZwjNYDdiHPpl9Pq"
-        }
-      ],
-      "duration_ms": 222316,
-      "name": "Afkarik",
-      "url": "https://open.spotify.com/track/1ebIGIiewKtLSjLf6n76KX"
     },
     {
       "added_at": "2025-12-26 11:37:22",
@@ -571,22 +587,6 @@
       "duration_ms": 262222,
       "name": "Zay El Qetar",
       "url": "https://open.spotify.com/track/1taIkurFqmaPmw4zSR0Hkm"
-    },
-    {
-      "added_at": "2025-12-26 11:37:22",
-      "album": {
-        "name": "Leh Ya Hana ?",
-        "url": "https://open.spotify.com/album/4uWS5ntd91UbXbekxpDdLN"
-      },
-      "artists": [
-        {
-          "name": "Arnabeat",
-          "url": "https://open.spotify.com/artist/31OlJhazERjXIrCE9SQQbM"
-        }
-      ],
-      "duration_ms": 234775,
-      "name": "Leh Ya Hana ?",
-      "url": "https://open.spotify.com/track/4ZblA6ehlUEGgy3cpENRrx"
     },
     {
       "added_at": "2025-12-26 11:37:22",

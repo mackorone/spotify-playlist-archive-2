@@ -4,7 +4,7 @@
 
 > Kim Petras is having a main pop girl emergency 🆘
 
-1,683 songs - 3 day 12 hr 25 min
+1,684 songs - 3 day 12 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1180,7 +1180,7 @@
 | [Polo](https://open.spotify.com/track/1kIaWGC4L8NhLYGh0rZg6z) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Polo](https://open.spotify.com/album/2ffckMinRVzIozuYrMWLjM) | 2:31 | 2025-06-27 | 2025-08-05 |
 | [Pookie](https://open.spotify.com/track/6vw9OTw8rBhatDSdlxVIuF) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Day & Night](https://open.spotify.com/album/087SnCtQCK0szSftQ2KYTF) | 2:32 | 2025-05-02 | 2025-08-30 |
 | [POOL](https://open.spotify.com/track/7El03GRicPnYpkPIKZ81KM) | [Snow Wife](https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33) | [POOL](https://open.spotify.com/album/0qkEAnrlTH04CwcqYZvdLs) | 2:44 | 2024-06-28 | 2024-12-14 |
-| [Pop](https://open.spotify.com/track/028i7HBfp8uE5epmx5ieMA) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Kiss All The Time\. Disco, Occasionally.](https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR) | 3:36 | 2026-03-06 |  |
+| [Pop](https://open.spotify.com/track/028i7HBfp8uE5epmx5ieMA) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Kiss All The Time\. Disco, Occasionally.](https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR) | 3:36 | 2026-03-06 | 2026-05-06 |
 | [POP GIRL](https://open.spotify.com/track/1diiLBOnInnwZjMnRyKWQT) | [Lexie Liu](https://open.spotify.com/artist/6fs2or0cKLEM2xohWq8SoX) | [POP GIRL](https://open.spotify.com/album/794FeYrpWfWp4eDcWHuu5d) | 2:34 | 2025-03-21 | 2025-09-06 |
 | [Pop Princess 2.0](https://open.spotify.com/track/1YojUWXxVYSp1uY1VXT9Ej) | [RYL0](https://open.spotify.com/artist/4LwTWGYy9UJ1WYVkniVnSh), [Bentley Robles](https://open.spotify.com/artist/2LOSfMfEVu8XgmHqwuixWT) | [Pop Princess 2.0](https://open.spotify.com/album/5BntVwr162jahgpDB5f25e) | 3:15 | 2025-01-24 | 2025-02-22 |
 | [Pose at Films \- Cry at Films \- Dummy Department Version](https://open.spotify.com/track/6FlMQQ7Ne6pxlXtVLwXSgZ) | [Bright Light Bright Light](https://open.spotify.com/artist/25bvQC4jyyFUce6jbzNlwb) | [Cry at Films \(Solo Voice Version\)](https://open.spotify.com/album/6s1hui6gxAePH0Z2WX5KfV) | 3:00 | 2022-05-27 | 2022-06-11 |
@@ -1188,6 +1188,7 @@
 | [Prayer \- edit for the impatient](https://open.spotify.com/track/3XCjErqlkiaZs0MFxvsqAT) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Prayer](https://open.spotify.com/album/4DkMUoCLqAKVOBDEoItt4Q) | 3:41 | 2026-01-16 |  |
 | [PRE MADONNA](https://open.spotify.com/track/7HEVw1CmTyeCvB1RjpVf1i) | [Todrick Hall](https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH) | [PRE MADONNA](https://open.spotify.com/album/6QhCqLrj6v9BAMkTJ2mGLt) | 3:08 | 2022-04-29 | 2022-06-04 |
 | [Prettier Than You](https://open.spotify.com/track/61aanGqaF4FFuoNMS9nyHJ) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Prettier Than You](https://open.spotify.com/album/1KoPn0GTKiL2UdC7AUtwkg) | 3:22 | 2022-09-30 | 2023-02-01 |
+| [Prettiest Girl In America](https://open.spotify.com/track/3GhfqidPZ0XMPThWZg6H3B) | [Meg Stalter](https://open.spotify.com/artist/2uz4LewowsAwg9k88MRDzG) | [Prettiest Girl In America](https://open.spotify.com/album/1u84VfX6FaeXPj7k8ahb1f) | 2:44 | 2026-05-05 |  |
 | [Pretty Devil](https://open.spotify.com/track/5rLTJ0f8Gyvf96KhT3dz5I) | [Alessandra](https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw) | [Pretty Devil](https://open.spotify.com/album/0AqUF9uVkaZHuAGR55UDgi) | 2:49 | 2023-06-09 | 2023-07-29 |
 | [Pretty Girl Era](https://open.spotify.com/track/3w6JB9UckmYZBn4Tsq2kpM) | [LU KALA](https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg) | [Pretty Girl Era](https://open.spotify.com/album/6G32ymoo3YjIUKVMGIKJUY) | 2:35 | 2022-12-02 | 2023-03-11 |
 | [PRETTY GIRL PARTY](https://open.spotify.com/track/05pY7oV9FTyS2gCGdUR32Z) | [Miss Madeline](https://open.spotify.com/artist/697XzB9DackcbNfKz4Ry7v), [CLIP](https://open.spotify.com/artist/3gkLLAZaxTaJhHnUaxQzCl) | [So Dramatic](https://open.spotify.com/album/3AptlscWlH1LNL9P5qP7gp) | 2:41 | 2024-08-23 | 2024-09-21 |

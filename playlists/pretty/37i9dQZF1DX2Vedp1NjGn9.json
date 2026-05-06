@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2011. Cover: AWOLNATION",
-  "num_followers": 142503,
+  "num_followers": 142526,
   "original_name": "Best of Indie 2011",
   "owner": {
     "name": "Spotify",
@@ -707,18 +707,18 @@
     {
       "added_at": "2025-03-14 11:55:08",
       "album": {
-        "name": "The Year of Hibernation",
-        "url": "https://open.spotify.com/album/7jG32gfkuo10qarPgmWC7q"
+        "name": "Cults",
+        "url": "https://open.spotify.com/album/0OvMqTVXYlNpWbGuxQrt6M"
       },
       "artists": [
         {
-          "name": "Youth Lagoon",
-          "url": "https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti"
+          "name": "Cults",
+          "url": "https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8"
         }
       ],
-      "duration_ms": 236000,
-      "name": "17",
-      "url": "https://open.spotify.com/track/5UVBumEwdUnzvqxrXOYLFA"
+      "duration_ms": 203066,
+      "name": "Go Outside",
+      "url": "https://open.spotify.com/track/0V8jGgK39sLsj2yAHHPigU"
     },
     {
       "added_at": "2025-03-14 11:55:08",
@@ -763,18 +763,18 @@
     {
       "added_at": "2025-03-14 11:55:08",
       "album": {
-        "name": "Cults",
-        "url": "https://open.spotify.com/album/0OvMqTVXYlNpWbGuxQrt6M"
+        "name": "The Year of Hibernation",
+        "url": "https://open.spotify.com/album/7jG32gfkuo10qarPgmWC7q"
       },
       "artists": [
         {
-          "name": "Cults",
-          "url": "https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8"
+          "name": "Youth Lagoon",
+          "url": "https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti"
         }
       ],
-      "duration_ms": 203066,
-      "name": "Go Outside",
-      "url": "https://open.spotify.com/track/0V8jGgK39sLsj2yAHHPigU"
+      "duration_ms": 236000,
+      "name": "17",
+      "url": "https://open.spotify.com/track/5UVBumEwdUnzvqxrXOYLFA"
     },
     {
       "added_at": "2025-03-14 11:55:08",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2025-03-14 11:55:08",
       "album": {
-        "name": "You Are All I See",
-        "url": "https://open.spotify.com/album/0naMIQoMmwqmpXiO7qFqCX"
-      },
-      "artists": [
-        {
-          "name": "Active Child",
-          "url": "https://open.spotify.com/artist/54KTsBl98buzGkELjGlnuU"
-        }
-      ],
-      "duration_ms": 321453,
-      "name": "Hanging On",
-      "url": "https://open.spotify.com/track/6o4lFpp8OAFhBqGQbWyAob"
-    },
-    {
-      "added_at": "2025-03-14 11:55:08",
-      "album": {
         "name": "The Rip Tide",
         "url": "https://open.spotify.com/album/5o6rAfcrvCMOE2Xdu1SHIz"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 254386,
       "name": "Santa Fe",
       "url": "https://open.spotify.com/track/3gQZdiGlObKaY274Q3lnoH"
+    },
+    {
+      "added_at": "2025-03-14 11:55:08",
+      "album": {
+        "name": "You Are All I See",
+        "url": "https://open.spotify.com/album/0naMIQoMmwqmpXiO7qFqCX"
+      },
+      "artists": [
+        {
+          "name": "Active Child",
+          "url": "https://open.spotify.com/artist/54KTsBl98buzGkELjGlnuU"
+        }
+      ],
+      "duration_ms": 321453,
+      "name": "Hanging On",
+      "url": "https://open.spotify.com/track/6o4lFpp8OAFhBqGQbWyAob"
     },
     {
       "added_at": "2025-03-14 11:55:08",
@@ -1427,6 +1427,38 @@
     {
       "added_at": "2025-03-14 11:55:08",
       "album": {
+        "name": "Shake! Shake! Shake!",
+        "url": "https://open.spotify.com/album/4T56NnPsWvFAcpJWyPAJa1"
+      },
+      "artists": [
+        {
+          "name": "Bronze Radio Return",
+          "url": "https://open.spotify.com/artist/2ic4xySjQ39N7DJ0HZemeG"
+        }
+      ],
+      "duration_ms": 163236,
+      "name": "Shake, Shake, Shake",
+      "url": "https://open.spotify.com/track/197IjFuW5x1q3VazxmWQJQ"
+    },
+    {
+      "added_at": "2025-03-14 11:55:08",
+      "album": {
+        "name": "The Rip Tide",
+        "url": "https://open.spotify.com/album/5o6rAfcrvCMOE2Xdu1SHIz"
+      },
+      "artists": [
+        {
+          "name": "Beirut",
+          "url": "https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX"
+        }
+      ],
+      "duration_ms": 238546,
+      "name": "East Harlem",
+      "url": "https://open.spotify.com/track/3QaM3srTDYXfPKmBf9ZYMU"
+    },
+    {
+      "added_at": "2025-03-14 11:55:08",
+      "album": {
         "name": "How Deep Is Your Love?",
         "url": "https://open.spotify.com/album/2fPp5TSew1Efr8ppshMpdf"
       },
@@ -1507,18 +1539,18 @@
     {
       "added_at": "2025-03-14 11:55:08",
       "album": {
-        "name": "The Rip Tide",
-        "url": "https://open.spotify.com/album/5o6rAfcrvCMOE2Xdu1SHIz"
+        "name": "His Young Heart",
+        "url": "https://open.spotify.com/album/4Yta830PArc3skiC2U7VLC"
       },
       "artists": [
         {
-          "name": "Beirut",
-          "url": "https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX"
+          "name": "Daughter",
+          "url": "https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me"
         }
       ],
-      "duration_ms": 238546,
-      "name": "East Harlem",
-      "url": "https://open.spotify.com/track/3QaM3srTDYXfPKmBf9ZYMU"
+      "duration_ms": 263809,
+      "name": "Landfill",
+      "url": "https://open.spotify.com/track/0v51xNSZkeHzRDBirv6KPv"
     },
     {
       "added_at": "2025-03-14 11:55:08",
@@ -1555,38 +1587,6 @@
     {
       "added_at": "2025-03-14 11:55:08",
       "album": {
-        "name": "His Young Heart",
-        "url": "https://open.spotify.com/album/4Yta830PArc3skiC2U7VLC"
-      },
-      "artists": [
-        {
-          "name": "Daughter",
-          "url": "https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me"
-        }
-      ],
-      "duration_ms": 263809,
-      "name": "Landfill",
-      "url": "https://open.spotify.com/track/0v51xNSZkeHzRDBirv6KPv"
-    },
-    {
-      "added_at": "2025-03-14 11:55:08",
-      "album": {
-        "name": "Shake! Shake! Shake!",
-        "url": "https://open.spotify.com/album/4T56NnPsWvFAcpJWyPAJa1"
-      },
-      "artists": [
-        {
-          "name": "Bronze Radio Return",
-          "url": "https://open.spotify.com/artist/2ic4xySjQ39N7DJ0HZemeG"
-        }
-      ],
-      "duration_ms": 163236,
-      "name": "Shake, Shake, Shake",
-      "url": "https://open.spotify.com/track/197IjFuW5x1q3VazxmWQJQ"
-    },
-    {
-      "added_at": "2025-03-14 11:55:08",
-      "album": {
         "name": "Kaputt",
         "url": "https://open.spotify.com/album/4WtvNVR7QeHUZGtHth9zND"
       },
@@ -1603,34 +1603,34 @@
     {
       "added_at": "2025-03-14 11:55:08",
       "album": {
-        "name": "The Head and the Heart",
-        "url": "https://open.spotify.com/album/3d7xzl9F5kB5quLHUVI20I"
+        "name": "Zonoscope",
+        "url": "https://open.spotify.com/album/4JTBXeHQ3n6koQtMxnWLJu"
       },
       "artists": [
         {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+          "name": "Cut Copy",
+          "url": "https://open.spotify.com/artist/4EENT7N7rCBwrddM3s0vFS"
         }
       ],
-      "duration_ms": 303653,
-      "name": "Down in the Valley",
-      "url": "https://open.spotify.com/track/1VwJcYyhfIL45OnOwIC1gi"
+      "duration_ms": 369386,
+      "name": "Need You Now",
+      "url": "https://open.spotify.com/track/3TjGopIWapEoeWfRsHFRjs"
     },
     {
       "added_at": "2025-03-14 11:55:08",
       "album": {
-        "name": "Bon Iver",
-        "url": "https://open.spotify.com/album/3JKDDYSBFozqcjWwSV3Yj3"
+        "name": "Actor-Caster",
+        "url": "https://open.spotify.com/album/0DC9Zvz2cpb0cBGrZGFmig"
       },
       "artists": [
         {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+          "name": "Generationals",
+          "url": "https://open.spotify.com/artist/57MtJQ6Sc4tIxrXIhrqVJL"
         }
       ],
-      "duration_ms": 232440,
-      "name": "Minnesota, WI",
-      "url": "https://open.spotify.com/track/7CLa6x8HlyEcgZhZcADRNO"
+      "duration_ms": 202613,
+      "name": "Ten-Twenty-Ten",
+      "url": "https://open.spotify.com/track/2dU1YAowJQIg42Aqj3xbjT"
     }
   ],
   "unique_name": "Best of Indie 2011",

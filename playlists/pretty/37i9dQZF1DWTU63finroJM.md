@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 
 > Meet the future of music around the world\. Cover: dia
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,525 likes - 26 songs - 1 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,528 likes - 26 songs - 1 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 15 | [Oxygen](https://open.spotify.com/track/6IHodicddcuL8RqlvMfYwL) | [Celine Wanyi](https://open.spotify.com/artist/6TDH7ncjLQmNKM1SdbggnZ) | [Oxygen](https://open.spotify.com/album/157wCjGBfjmL0R0wzKr57o) | 2:32 |
 | 16 | [2 u](https://open.spotify.com/track/1YllcxF83MuX91skLPWibK) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [stranger](https://open.spotify.com/album/3zx9SPca8Igs9PsN6Yf0xV) | 2:16 |
 | 17 | [Zarii](https://open.spotify.com/track/2yHBq4DRKITMUypmWT136A) | [rohh](https://open.spotify.com/artist/2ZRhDLITL8RK1IbK9dDGhf), [Mr\. Doss](https://open.spotify.com/artist/4oluNv7Wba9L5uGIIrXWKG), [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT) | [Zarii](https://open.spotify.com/album/70ZVp8tkKTz2VUl6TIvjDS) | 2:51 |
-| 18 | [PICKY](https://open.spotify.com/track/2IccNAIFnWsgRfIVfTNRZv) | [Jaime Cheung](https://open.spotify.com/artist/0HlQqnAtrcPAXQcfdKqz5h) | [PICKY](https://open.spotify.com/album/0x1XlFTb3Gx4s6Z36ABV6e) | 2:08 |
-| 19 | [Ye SUBAH](https://open.spotify.com/track/68Kq0B0ZdM6c00puZv1HwQ) | [Sameer Rahat](https://open.spotify.com/artist/0GjCAhxXdNW2Cje8YIHxp0) | [Ye SUBAH](https://open.spotify.com/album/3uXDLXxjHTcpj48rXarsHu) | 3:49 |
+| 18 | [Ye SUBAH](https://open.spotify.com/track/68Kq0B0ZdM6c00puZv1HwQ) | [Sameer Rahat](https://open.spotify.com/artist/0GjCAhxXdNW2Cje8YIHxp0) | [Ye SUBAH](https://open.spotify.com/album/3uXDLXxjHTcpj48rXarsHu) | 3:49 |
+| 19 | [PICKY](https://open.spotify.com/track/2IccNAIFnWsgRfIVfTNRZv) | [Jaime Cheung](https://open.spotify.com/artist/0HlQqnAtrcPAXQcfdKqz5h) | [PICKY](https://open.spotify.com/album/0x1XlFTb3Gx4s6Z36ABV6e) | 2:08 |
 | 20 | [Limerence](https://open.spotify.com/track/7GX3fsty0E2X2ZE8GivcGm) | [Celine Wanyi](https://open.spotify.com/artist/6TDH7ncjLQmNKM1SdbggnZ) | [Limerence](https://open.spotify.com/album/0EM7cPfo622WFhZVFCDtFt) | 2:08 |
 | 21 | [silly nature](https://open.spotify.com/track/39TQI4MMElmwhA0f07apQ8) | [pami](https://open.spotify.com/artist/4cC1AQC0SUwmemy2FHBST8) | [puffette](https://open.spotify.com/album/0EgK8AZDWXirHjaYi9l2z4) | 2:27 |
 | 22 | [RUDE BOYS](https://open.spotify.com/track/1JM9T6BscsTCG7MLvliLTw) | [Marte](https://open.spotify.com/artist/3IWdXZamAg5bhIa0KyRBNb) | [METAMORFOSI](https://open.spotify.com/album/4Xxeo92mq7Nr9jlZyr0yza) | 2:21 |

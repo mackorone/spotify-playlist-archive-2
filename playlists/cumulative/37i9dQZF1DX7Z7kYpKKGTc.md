@@ -4,7 +4,7 @@
 
 > The romantic side of classic rock and metal
 
-479 songs - 1 day 12 hr 28 min
+480 songs - 1 day 12 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Black Gives Way to Blue](https://open.spotify.com/track/7A4XQjmM6VZ2H7MJIJY4qJ) | [Alice In Chains](https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL) | [Black Gives Way to Blue](https://open.spotify.com/album/3F2cL1E3FXYa74V7D7oAoI) | 3:03 | 2024-05-13 | 2025-07-24 |
 | [Black Rose](https://open.spotify.com/track/4m6r4M964oZpp2G0I7dEsR) | [Doro](https://open.spotify.com/artist/5GLeyUhj8B8f5pJxqZllKl) | [Magic Diamonds \- Best of Rock, Ballads & Rare Treasures](https://open.spotify.com/album/0eYfEiYCAQi8T3d3I6GVAe) | 3:42 | 2022-03-30 | 2022-05-11 |
 | [Bleeding Heart](https://open.spotify.com/track/4m2HvlrZ1kKsgFpcLh5h0V) | [ANGRA](https://open.spotify.com/artist/7IAXZaLTb6nkJr8RmVPn5y) | [Hunters and Prey](https://open.spotify.com/album/7InbifA9jm46xap6mBG2FA) | 4:06 | 2022-03-30 | 2022-04-03 |
+| [Blurry](https://open.spotify.com/track/0FLBNqc5oAiTt4J2e3fe3y) | [Puddle Of Mudd](https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5) | [Come Clean](https://open.spotify.com/album/4oWz3E9jTrBe9sVkiX2sJ5) | 5:03 | 2025-11-13 |  |
 | [Boat On The River](https://open.spotify.com/track/4o9DSo7c1ICv4CtFWFSmGx) | [Styx](https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh) | [Cornerstone](https://open.spotify.com/album/0RhPpU4BvtF44qdvFnGQuh) | 3:10 | 2022-03-30 | 2022-04-20 |
 | [Born to Touch Your Feelings \- Studio Edit](https://open.spotify.com/track/5BqIggxXDObXGOgcaEgaKz) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Born To Touch Your Feelings \- Best of Rock Ballads](https://open.spotify.com/album/3peZuKMnLFrGtS5sBrHKPG) | 4:01 | 2022-03-30 | 2022-04-14 |
 | [Bridge to Cross](https://open.spotify.com/track/5eSHCkfACRxO32LbH7HqlU) | [Black Label Society](https://open.spotify.com/artist/0zfT626RwO6zN3RDYeRit5) | [1919 Eternal](https://open.spotify.com/album/2KS7Ktzy44A0yKiqrZIJVW) | 5:49 | 2024-05-13 | 2024-08-17 |
@@ -483,7 +484,7 @@
 | [You're All I Need](https://open.spotify.com/track/4n4W0yJsGYXzFwStMYMLxj) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Girls, Girls, Girls](https://open.spotify.com/album/0Tnve4bDxyiBCRaj03qO8z) | 4:35 | 2022-03-30 | 2022-04-11 |
 | [You're All I Need](https://open.spotify.com/track/4C8qZRxrteBY9F8r2oZrV3) | [White Lion](https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG) | [Mane Attraction](https://open.spotify.com/album/49q8hRnhM6xM5PD5tQSGxb) | 4:25 | 2021-12-20 | 2022-07-29 |
 | [You're in My Heart \(The Final Acclaim\)](https://open.spotify.com/track/4P9kOK2PafbamK95SJOCbO) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [If We Fall in Love Tonight](https://open.spotify.com/album/2GmrcFfoRPSKmmSyh36Bu6) | 4:27 | 2022-03-30 | 2022-04-03 |
-| [You're the Inspiration \- 2006 Remaster](https://open.spotify.com/track/36lkJSDyMEZoWTqtRj8Q8q) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago 17 \(Expanded & Remastered\)](https://open.spotify.com/album/1ICKrl6sDjJD1YdR9VDfPR) | 3:49 | 2021-12-20 |  |
+| [You're the Inspiration \- 2006 Remaster](https://open.spotify.com/track/36lkJSDyMEZoWTqtRj8Q8q) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago 17 \(Expanded & Remastered\)](https://open.spotify.com/album/1ICKrl6sDjJD1YdR9VDfPR) | 3:49 | 2021-12-20 | 2026-05-06 |
 | [Your Guardian Angel](https://open.spotify.com/track/7qsaNYiLplfDOz31VhRIkq) | [The Red Jumpsuit Apparatus](https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo) | [Don't You Fake It](https://open.spotify.com/album/2GHV89zHsF96jefjMYBsTE) | 3:49 | 2022-03-30 | 2022-04-16 |
 | [Your Love Is in Vain](https://open.spotify.com/track/3feSg8pPsHu1oP2rmpE7VR) | [Beggars & Thieves](https://open.spotify.com/artist/2dK29Nsq8gvhmSUvjvmtBK) | [Beggars & Thieves](https://open.spotify.com/album/28J7y3iaUVXhUscbdS0GW9) | 5:08 | 2021-12-20 |  |
 | [Your Precious Love \- 2020 Remix](https://open.spotify.com/track/0PnkI4zpYHgZ0isFG3MfUj) | [Whitesnake](https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP), [Chris Collier](https://open.spotify.com/artist/1taWFSDSElKxklyuXIJaEy) | [Love Songs \(2020 Remix\)](https://open.spotify.com/album/36Fg5BRhoXvdqIH3qwTF9m) | 4:33 | 2022-03-30 | 2022-04-19 |

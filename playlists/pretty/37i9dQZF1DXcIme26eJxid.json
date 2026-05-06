@@ -1,6 +1,6 @@
 {
   "description": "The most known Afro-pop classics, all in one place! Cover: Lijadu Sisters",
-  "num_followers": 130228,
+  "num_followers": 130267,
   "original_name": "Classic Afropop",
   "owner": {
     "name": "Spotify",
@@ -523,6 +523,22 @@
     {
       "added_at": "2025-09-30 11:32:09",
       "album": {
+        "name": "Best of The Black President",
+        "url": "https://open.spotify.com/album/7325GfKum2hDK231i3LqA7"
+      },
+      "artists": [
+        {
+          "name": "Fela Kuti",
+          "url": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
+        }
+      ],
+      "duration_ms": 591706,
+      "name": "Water No Get Enemy - Edit",
+      "url": "https://open.spotify.com/track/43ile6cBzr9uaC4bJf6J3N"
+    },
+    {
+      "added_at": "2025-09-30 11:32:09",
+      "album": {
         "name": "Love & Death",
         "url": "https://open.spotify.com/album/22gNWSHQclzKln0X8C69v5"
       },
@@ -539,18 +555,18 @@
     {
       "added_at": "2025-09-30 11:32:09",
       "album": {
-        "name": "Best of The Black President",
-        "url": "https://open.spotify.com/album/7325GfKum2hDK231i3LqA7"
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/23nI37GDlJScXONSCGJo4r"
       },
       "artists": [
         {
-          "name": "Fela Kuti",
-          "url": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
         }
       ],
-      "duration_ms": 591706,
-      "name": "Water No Get Enemy - Edit",
-      "url": "https://open.spotify.com/track/43ile6cBzr9uaC4bJf6J3N"
+      "duration_ms": 182226,
+      "name": "Pata Pata",
+      "url": "https://open.spotify.com/track/6rFHmnI9Vd2zUasDXuw59j"
     },
     {
       "added_at": "2025-09-30 11:32:09",
@@ -619,22 +635,6 @@
     {
       "added_at": "2025-09-30 11:32:09",
       "album": {
-        "name": "The Best Of The Black President 2",
-        "url": "https://open.spotify.com/album/5Nx9r4mbuWkfPsVZIvqWx2"
-      },
-      "artists": [
-        {
-          "name": "Fela Kuti",
-          "url": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
-        }
-      ],
-      "duration_ms": 793200,
-      "name": "Expensive Shit",
-      "url": "https://open.spotify.com/track/2g72QoX5ZZlEqQpKfnOdrj"
-    },
-    {
-      "added_at": "2025-09-30 11:32:09",
-      "album": {
         "name": "Neria",
         "url": "https://open.spotify.com/album/5B7lY3JZxODBU5wiC3q8E2"
       },
@@ -655,18 +655,18 @@
     {
       "added_at": "2025-09-30 11:32:09",
       "album": {
-        "name": "Reflections",
-        "url": "https://open.spotify.com/album/23nI37GDlJScXONSCGJo4r"
+        "name": "The Best Of The Black President 2",
+        "url": "https://open.spotify.com/album/5Nx9r4mbuWkfPsVZIvqWx2"
       },
       "artists": [
         {
-          "name": "Miriam Makeba",
-          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+          "name": "Fela Kuti",
+          "url": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
         }
       ],
-      "duration_ms": 182226,
-      "name": "Pata Pata",
-      "url": "https://open.spotify.com/track/6rFHmnI9Vd2zUasDXuw59j"
+      "duration_ms": 793200,
+      "name": "Expensive Shit",
+      "url": "https://open.spotify.com/track/2g72QoX5ZZlEqQpKfnOdrj"
     }
   ],
   "unique_name": "Classic Afropop",

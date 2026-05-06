@@ -4,7 +4,7 @@
 
 > Submit your song: https:&\#x2F;&\#x2F;dailyplaylists.com&\#x2F;playlists&\#x2F;1sxp36xhSTsWgyoJTwHYTS
 
-241 songs - 12 hr 55 min
+243 songs - 13 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,6 +198,7 @@
 | [Rêves Part\. 2](https://open.spotify.com/track/459xWah2FAd9aQO4H823la) | [Chicho](https://open.spotify.com/artist/0hh5lHx4BxY3xwvXr9PU2l), [Ysos](https://open.spotify.com/artist/1SQBvSuDIDiab53e3JCuLP) | [Rêves Part\. 2](https://open.spotify.com/album/5JEGpubRRkN4ThvyFhqX6G) | 2:44 | 2023-04-24 |  |
 | [S O L O](https://open.spotify.com/track/0XYSZIWghUqRloE0dAZ6Zb) | [Sonaali](https://open.spotify.com/artist/6vlvtNXe2AKyaXSF580aIO) | [S O L O](https://open.spotify.com/album/3pHWGdshiSpIHUzhsRxCNj) | 3:31 | 2024-05-01 |  |
 | [Sad Mood](https://open.spotify.com/track/1I48g9IQTyLbP4gDzVDmbi) | [The Samu](https://open.spotify.com/artist/1hyzQSk08cK1aPlEKx5dOP), [Zeitian](https://open.spotify.com/artist/0e8VEOHUYcqpiUDUibosrL) | [Sad Mood](https://open.spotify.com/album/0TfUyJu8HavaDuqSqoM70F) | 2:15 | 2024-07-23 |  |
+| [Sans laisser d’adresse](https://open.spotify.com/track/6gPsBNNPs9Sx9BvGbJApmw) | [Svend48](https://open.spotify.com/artist/5u4b2A5VnjVTMzNxs5QhCc) | [Sans laisser d’adresse](https://open.spotify.com/album/7piSg0rmkQoMRYSz7yX9gV) | 3:22 | 2026-05-05 |  |
 | [Sans Toi](https://open.spotify.com/track/4BWAOjv0HKmH0JdqQINsSq) | [Buschi & Anni](https://open.spotify.com/artist/3Z0CQia4uuLqSqeb6ic854) | [Pequod](https://open.spotify.com/album/0DAFt6KnPKKqhvmrUsqmxa) | 3:48 | 2024-06-26 |  |
 | [sans toi](https://open.spotify.com/track/3cskDzbaKBttYzzoA6LN7m) | [Paul\-Hervé](https://open.spotify.com/artist/2AIXQvdJJnLyHMgUlK8Yip), [créature sonore](https://open.spotify.com/artist/1oex6GCeWzSxHupAa6Fbnb) | [sans toi](https://open.spotify.com/album/6jBU6MgZLoXzRsKrEbjPb5) | 2:00 | 2024-01-27 |  |
 | [Sarakhan](https://open.spotify.com/track/1lGrZ0cuzjSB1hBR38QbYM) | [Ella Music](https://open.spotify.com/artist/4D2cZR53IpB5zdLSsY1ztc) | [Sarakhan](https://open.spotify.com/album/5WvavKN62jI4dSusb1QEFt) | 2:09 | 2024-10-08 |  |
@@ -215,6 +216,7 @@
 | [Stealth Mode](https://open.spotify.com/track/2GzE47Cou2JjgjITB5NgKz) | [Vic Rippa](https://open.spotify.com/artist/0qIiZJu0uKIgAcYhh84A7S) | [Concrete Butterfly](https://open.spotify.com/album/7lyq0IBqpRbODK7jH4KSJW) | 2:44 | 2024-10-08 |  |
 | [Stop](https://open.spotify.com/track/4Kez80MISuZA4SpafYkSId) | [DreTTz](https://open.spotify.com/artist/1ZDQrgVbThytMoTDejzAXN) | [Stop](https://open.spotify.com/album/4jWOTKTJ5lVqZOW4lGhe36) | 2:30 | 2025-03-19 |  |
 | [Sua Boca e o Amor](https://open.spotify.com/track/7pzKxluKWOEG1NIC4zw2tG) | [Romero Latino](https://open.spotify.com/artist/1nIA8LadQhr6Lwgjm29Zhs) | [Sua Boca e o Amor](https://open.spotify.com/album/4z3KDIusUBveXn5XlthmvE) | 2:53 | 2023-03-08 |  |
+| [T WALCOTT](https://open.spotify.com/track/1n2Kh5u72sr89cs2eSQBgw) | [Muermo](https://open.spotify.com/artist/1CYMpVs1QBgDrOFkC8AFzO) | [T WALCOTT](https://open.spotify.com/album/260r4B3VThjQeOQPzV2UER) | 2:43 | 2026-05-05 |  |
 | [T'es mon héros](https://open.spotify.com/track/7c6n5z2M44ALTi77ZtmE0k) | [LagShoot](https://open.spotify.com/artist/1yibPUIS6LTAkrJ42btfFT) | [T'es mon héros](https://open.spotify.com/album/3No0hCqagCpWa2vyxZP5NI) | 3:06 | 2024-12-26 |  |
 | [TALK](https://open.spotify.com/track/0JH4BWfouPMW5uAc8ER8hn) | [Lupo Prospero](https://open.spotify.com/artist/2oW8dDaeHsnelFSYrnhs5J) | [TALK](https://open.spotify.com/album/1H9WVJ1SX7y3AXrHfZzfsD) | 1:58 | 2023-01-31 |  |
 | [Tant d'argent...peu d'bonheur](https://open.spotify.com/track/2Q0QyZomBMUCniMq8WMxGl) | [TheRealPerrez](https://open.spotify.com/artist/3xoh6XMCDp5IXfffa98xOh) | [BAT](https://open.spotify.com/album/1gyUHIwGiSud2Z1DL7yrzc) | 2:37 | 2023-06-12 |  |

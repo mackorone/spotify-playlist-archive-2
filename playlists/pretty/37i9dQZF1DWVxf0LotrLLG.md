@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 
 > Descubre los nuevos álbumes del 2026\. Hit shuffle for a mixed listening experience\. Cover: Carlos Vives
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,349 likes - 144 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,354 likes - 144 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

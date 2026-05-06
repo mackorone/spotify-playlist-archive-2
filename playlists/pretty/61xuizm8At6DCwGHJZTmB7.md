@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 
 ### [Top Christian Worship 2026](https://open.spotify.com/playlist/61xuizm8At6DCwGHJZTmB7)
 
-> Top Christian Worship 2026 \| Praise and Worship with today's top Worship tracks\. From Bible study to Sunday Morning Worship\. Featuring artist's like Chris Tomlin, Kari Jobe, Cody Carnes and Tauren Wells! Soaking worship music \| Jelly Roll gospel songs \. teddy swims gospel songs jelly roll christian
+> Top Christian Worship 2026 \| Praise and Worship with today's top Worship tracks\. From Bible study to Sunday Morning Worship\. Featuring artist's like Chris Tomlin, Kari Jobe, Cody Carnes and Tauren Wells! Soaking worship music \| Jelly Roll gospel \. cinco de mayo , gospel songs jelly roll christian
 
-[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 117,894 likes - 153 songs - 14 hr 9 min
+[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 117,893 likes - 153 songs - 14 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -162,4 +162,4 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 | 152 | [Rest On Us](https://open.spotify.com/track/25p9WwZkKwI07cZiHxFask) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD), [Harvest Grapevine](https://open.spotify.com/artist/1fHsA04cL5A4gkCzl9gAW0) | [How To Start A Housefire \(Pt\. II\)](https://open.spotify.com/album/00AeTGkKMb4C827JlzT8Uk) | 9:24 |
 | 153 | [Fear of God ∞](https://open.spotify.com/track/27GcUxI5ScpItTrA82fwSD) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [INFINITY](https://open.spotify.com/album/026YDYCcrzKoCrELvYR1ZM) | 4:33 |
 
-Snapshot ID: `AAAiMQgsonBZGCQGt17mGDm44t9LL9C8`
+Snapshot ID: `AAAiMvFjxZ7B6cMAVXMVXXuR0oLJ8u+D`

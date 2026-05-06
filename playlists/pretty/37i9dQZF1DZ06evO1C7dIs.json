@@ -1,12 +1,12 @@
 {
   "description": "This is Nightwish. The essential tracks, all in one playlist.",
-  "num_followers": 264830,
+  "num_followers": 264844,
   "original_name": "This Is Nightwish",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afaQAAAAAAD5uYOL0ZH6kJBApmgo/L5/",
+  "snapshot_id": "affhgAAAAADEU0GT6hUZtT092O015wDq",
   "tracks": [
     {
       "added_at": null,
@@ -587,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bye Bye Beautiful",
-        "url": "https://open.spotify.com/album/4qomktB4Z9mQVPm42eEYwd"
+        "name": "Wish I Had an Angel",
+        "url": "https://open.spotify.com/album/2l0KYO3zjZtfFzls7rSPA7"
       },
       "artists": [
         {
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
         }
       ],
-      "duration_ms": 301853,
-      "name": "Escapist",
-      "url": "https://open.spotify.com/track/66X2i4bMFJB9zGgff9gyzq"
+      "duration_ms": 232813,
+      "name": "Where Were You Last Night",
+      "url": "https://open.spotify.com/track/1BZ2yeGFtYN0Sk5yrgvMdk"
     },
     {
       "added_at": null,
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
         }
       ],
-      "duration_ms": 274426,
-      "name": "Come Cover Me",
-      "url": "https://open.spotify.com/track/1RSKK7hj4emItvmh45crcX"
+      "duration_ms": 238973,
+      "name": "The Kinslayer",
+      "url": "https://open.spotify.com/track/7JrKMhfBOMr78l3KbCAF1q"
     },
     {
       "added_at": null,
@@ -635,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wish I Had an Angel",
-        "url": "https://open.spotify.com/album/2l0KYO3zjZtfFzls7rSPA7"
+        "name": "Bye Bye Beautiful",
+        "url": "https://open.spotify.com/album/4qomktB4Z9mQVPm42eEYwd"
       },
       "artists": [
         {
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
         }
       ],
-      "duration_ms": 232813,
-      "name": "Where Were You Last Night",
-      "url": "https://open.spotify.com/track/1BZ2yeGFtYN0Sk5yrgvMdk"
+      "duration_ms": 301853,
+      "name": "Escapist",
+      "url": "https://open.spotify.com/track/66X2i4bMFJB9zGgff9gyzq"
     },
     {
       "added_at": null,
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
         }
       ],
-      "duration_ms": 238973,
-      "name": "The Kinslayer",
-      "url": "https://open.spotify.com/track/7JrKMhfBOMr78l3KbCAF1q"
+      "duration_ms": 274426,
+      "name": "Come Cover Me",
+      "url": "https://open.spotify.com/track/1RSKK7hj4emItvmh45crcX"
     },
     {
       "added_at": null,

@@ -221,6 +221,24 @@
     },
     {
       "album": {
+        "name": "Along a Familiar Path",
+        "url": "https://open.spotify.com/album/2F7hZ1ksY7ZlqCoynYmER5"
+      },
+      "artists": [
+        {
+          "name": "Infam Enn",
+          "url": "https://open.spotify.com/artist/23AEFnMnAxHi3UfuJlR9R6"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173802,
+      "name": "Along a Familiar Path",
+      "url": "https://open.spotify.com/track/59RyFqlzfuC0VCR0MF7zc3"
+    },
+    {
+      "album": {
         "name": "Alpine",
         "url": "https://open.spotify.com/album/2bHLrxpHfCRXv0meqA4QGv"
       },
@@ -1670,7 +1688,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 137250,
       "name": "Echomare",
       "url": "https://open.spotify.com/track/02v3iqE7seorNepl7UJUsg"

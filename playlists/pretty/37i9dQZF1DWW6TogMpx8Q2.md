@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6TogMpx8Q2.md) - [plain]
 
 > Biggest Cantopop MV Hits! MVs only available for Spotify premium subscribers\.  Cover: REGENT 林暐竣
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,247 likes - 99 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,253 likes - 99 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6TogMpx8Q2.md) - [plain]
 | 65 | [蛻 SWITCH](https://open.spotify.com/track/2OcVtRLi5BTnkjD2MPKog8) | [JACE](https://open.spotify.com/artist/1SCaQu3jTbcKIjy8aC7KHa) | [蛻 SWITCH](https://open.spotify.com/album/6OcCfNZtFBskQByvaGygLu) | 2:49 |
 | 66 | [離別時刻](https://open.spotify.com/track/3quF1XqhzlctAjyX0a2Con) | [Yan Ting](https://open.spotify.com/artist/1VSepPOw3REo0L6LFeii0Q) | [離別時刻](https://open.spotify.com/album/0eXW7eOeYD3zYL0oIYrJxZ) | 3:41 |
 | 67 | [不打烊珈琲屋](https://open.spotify.com/track/7KL8beadxLE9818kgIIWMU) | [力臻 Lagchun](https://open.spotify.com/artist/41OlgB0qOZFB786hN2CP1k) | [不打烊珈琲屋](https://open.spotify.com/album/1HrPW5BCJfoKx3J3bXK4z8) | 3:08 |
-| 68 | [Honey Pancake](https://open.spotify.com/track/5Y68dgN0xOvUHIkMgRfGzc) | [Paula 區子琳](https://open.spotify.com/artist/7dsWh013wkjVc4RJPBK7hY) | [Honey Pancake](https://open.spotify.com/album/1cQenGAtPW1jHCYHtiodU0) | 3:21 |
+| 68 | [Honey Pancake](https://open.spotify.com/track/5Y68dgN0xOvUHIkMgRfGzc) | [Paula 區子琳](https://open.spotify.com/artist/1wJ1hjR8MO4yvGO2ItLl4I) | [Honey Pancake](https://open.spotify.com/album/1cQenGAtPW1jHCYHtiodU0) | 3:21 |
 | 69 | [差一點你就是永遠](https://open.spotify.com/track/1EZuLBCtxLfraJfiF4yF9n) | [PER SE](https://open.spotify.com/artist/4MR8lE0GqFrysJi3s18woQ) | [差一點你就是永遠](https://open.spotify.com/album/1IMGPE2e0QVnHzezlLwBxm) | 4:49 |
 | 70 | [求救的勇氣](https://open.spotify.com/track/1Fj6ahpJNC7sJyG8SRxuaf) | [Panther Chan](https://open.spotify.com/artist/3jS58yKkLzOd8S8IHyCsEm) | [求救的勇氣](https://open.spotify.com/album/4IXv3ydm9NmhdSDBPf1XmK) | 4:37 |
 | 71 | [Diss你咪Diss你](https://open.spotify.com/track/12OzfJtPuAHVrlQzQTE9Px) | [FINALLY](https://open.spotify.com/artist/1uEfUcuO9CIMvWwXCyxmuu) | [Diss你咪Diss你](https://open.spotify.com/album/4Fvaw2m3vZYTMK4tMxlzQY) | 2:32 |
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6TogMpx8Q2.md) - [plain]
 | 90 | [拜託](https://open.spotify.com/track/1wNJcZPwOanXp5YLU8ivC9) | [Kaho Hung](https://open.spotify.com/artist/3wYcmejLVtOoHIq9szUugh) | [拜託](https://open.spotify.com/album/3gVFE0wdEnrwgD4fZi6lWu) | 3:55 |
 | 91 | [普渡眾生 \- 《破．地獄》 THE LAST DANCE 電影主題曲](https://open.spotify.com/track/6Yjk3YE3PYllze79YyRWp3) | [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [普渡眾生 \(《破．地獄》 THE LAST DANCE 電影主題曲\)](https://open.spotify.com/album/1BtkZSoKfOpQGVvJals1gp) | 3:56 |
 | 92 | [無答案](https://open.spotify.com/track/5QNCEZY7agUhCLWpLpGo2d) | [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [無答案](https://open.spotify.com/album/0TKpr27GQEr151D7rzHAt0) | 4:02 |
-| 93 | [I'm not 18 or 22](https://open.spotify.com/track/0r7003wUZqwlkPvbkNaPVP) | [Paula 區子琳](https://open.spotify.com/artist/7dsWh013wkjVc4RJPBK7hY) | [I'm not 18 or 22](https://open.spotify.com/album/0hdn5KwP8cucS0pc2IjUo5) | 2:37 |
+| 93 | [I'm not 18 or 22](https://open.spotify.com/track/0r7003wUZqwlkPvbkNaPVP) | [Paula 區子琳](https://open.spotify.com/artist/1wJ1hjR8MO4yvGO2ItLl4I) | [I'm not 18 or 22](https://open.spotify.com/album/0hdn5KwP8cucS0pc2IjUo5) | 2:37 |
 | 94 | [A0.5](https://open.spotify.com/track/23LbINkNjfv4585fFHcmaE) | [XiX](https://open.spotify.com/artist/4GoZP54zjLUTt2HICmYOGU) | [A0.5](https://open.spotify.com/album/6TahHovloxqubDkN2aCTxV) | 3:33 |
 | 95 | [關於後悔](https://open.spotify.com/track/35pDgGzJ1ssvKwSvOWZC0G) | [Jason Chan](https://open.spotify.com/artist/1IDuSpntFl2Mutofvrrutc) | [關於後悔](https://open.spotify.com/album/20Sk9TmOqyiHzifoMRgjw5) | 3:54 |
 | 96 | [孤獨遊](https://open.spotify.com/track/6OnFMZWrAZsCEZ8Plycqaq) | [Zpecial](https://open.spotify.com/artist/56Ac1JJiopOrWDuRIb330x) | [孤獨遊](https://open.spotify.com/album/6Pc9i3zb4bBQ2M9DrOBh4K) | 4:04 |

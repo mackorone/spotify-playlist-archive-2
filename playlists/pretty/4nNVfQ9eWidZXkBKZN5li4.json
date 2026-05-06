@@ -1,37 +1,13 @@
 {
   "description": "Groove to Desi chart-toppers and Bollywood\u2019s top TikTok hits &amp; Reels Anthems \u2014featuring Arijit Singh, Badshah, AP Dhillon, Shreya Ghoshal, Neha Kakkar, Sunidhi Chauhan, A.R. Rahman, Pritam, and Tanishk Bagchi!",
-  "num_followers": 228480,
+  "num_followers": 228467,
   "original_name": "Bollywood Top 50",
   "owner": {
     "name": "Filtr India",
     "url": "https://open.spotify.com/user/filtrindia"
   },
-  "snapshot_id": "AAAYj1GwjSRbatzBgeaIW5SvJ+WpzQL+",
+  "snapshot_id": "AAAYkAvt1BD3aNvj5f+ALj2wOiWF1uV+",
   "tracks": [
-    {
-      "added_at": "2025-12-08 05:58:30",
-      "album": {
-        "name": "Sitaare (From \"Ikkis\")",
-        "url": "https://open.spotify.com/album/2tEc5YZxGIMLRamt8ZmRUL"
-      },
-      "artists": [
-        {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-        },
-        {
-          "name": "Sachin-Jigar",
-          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
-        },
-        {
-          "name": "Amitabh Bhattacharya",
-          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
-        }
-      ],
-      "duration_ms": 242916,
-      "name": "Sitaare (From \"Ikkis\")",
-      "url": "https://open.spotify.com/track/6WlARP6h4CDVOcY386wW0W"
-    },
     {
       "added_at": "2026-04-22 05:59:54",
       "album": {
@@ -55,6 +31,30 @@
       "duration_ms": 280909,
       "name": "Chand Mera Dil - Title Track",
       "url": "https://open.spotify.com/track/7GQB2CWQcahCLCCNQHKWXM"
+    },
+    {
+      "added_at": "2025-12-08 05:58:30",
+      "album": {
+        "name": "Sitaare (From \"Ikkis\")",
+        "url": "https://open.spotify.com/album/2tEc5YZxGIMLRamt8ZmRUL"
+      },
+      "artists": [
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Sachin-Jigar",
+          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "duration_ms": 242916,
+      "name": "Sitaare (From \"Ikkis\")",
+      "url": "https://open.spotify.com/track/6WlARP6h4CDVOcY386wW0W"
     },
     {
       "added_at": "2023-02-07 07:34:43",

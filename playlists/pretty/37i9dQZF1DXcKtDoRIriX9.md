@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKtDoRIriX9.md) - [plain]
 
 > <a href="spotify:artist:0W8ZVf53GqJkTOPRWQaaBq">CHLOE</a>'s favourite tracks\. Updated regularly\. Curated by CHLOE\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,456 likes - 56 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,457 likes - 56 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKtDoRIriX9.md) - [plain]
 | 3 | [House For All \- Original Mix](https://open.spotify.com/track/09GUoBFkZmMNBQ2h4JFsZT) | [Blunted Dummies](https://open.spotify.com/artist/2efpM0m0EfenvZirh0haFd) | [House For All](https://open.spotify.com/album/7bafiRy2e8REJmif9weLoH) | 3:54 |
 | 4 | [Re\-Engineering](https://open.spotify.com/track/2AWDlcEjxarDFSJjZtWmZ4) | [Heatsick](https://open.spotify.com/artist/1tHWNdHDvNs5Qi2c36Ju7g) | [Re\-Engineering](https://open.spotify.com/album/4u7yjibgsXzJvwB6JmBsL2) | 3:51 |
 | 5 | [Mum](https://open.spotify.com/track/6MxOpA401IY8C3Al22eNxA) | [Louen Poppé](https://open.spotify.com/artist/5knUskE7izmmWZxwNxc8TE) | [Mum](https://open.spotify.com/album/4G0UtxxzmtrTe8gtliChx8) | 4:22 |
-| 6 | [Talk Dirty](https://open.spotify.com/track/4NWHFFGDXCU2pxuqi6PiDH) | [Paranoid London](https://open.spotify.com/artist/0KyUH5WmspOhuIQAnw42Fb), [Josh Caffé](https://open.spotify.com/artist/0xfgTbJfcAgsRLqJ6y0PAp) | [Talk Dirty / Revolution](https://open.spotify.com/album/3mC1OzkgG1CtWpK7at7zJ0) | 5:47 |
+| 6 | [Talk Dirty](https://open.spotify.com/track/4NWHFFGDXCU2pxuqi6PiDH) | [Paranoid London](https://open.spotify.com/artist/0KyUH5WmspOhuIQAnw42Fb), [Josh Caffé](https://open.spotify.com/artist/3JOct1LuzqDQHeCHuHjpM2) | [Talk Dirty / Revolution](https://open.spotify.com/album/3mC1OzkgG1CtWpK7at7zJ0) | 5:47 |
 | 7 | [Distorted Dance](https://open.spotify.com/track/1Tx3nNQLTttCuPH0YC7DOA) | [CHLOE \(Thévenin\)](https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq) | [Distorted Dance](https://open.spotify.com/album/1szqHflGFVKYFMkyVbcXaZ) | 6:54 |
 | 8 | [Swamp \- Ricardo Villalobos Version](https://open.spotify.com/track/5Qoa4qWW14x9bTKvyVSZvi) | [Ricardo Villalobos](https://open.spotify.com/artist/0s2YIpNnjdf0FY4tNrF8Y4), [Mohammad Reza Mortazavi](https://open.spotify.com/artist/7JuRnCPB2mrwvXfTwPlLqB) | [Swamp \(Ricardo Villalobos Version\)](https://open.spotify.com/album/1BF0rGSYVxE84ntMKIpnuK) | 24:42 |
 | 9 | [Let's All Be Influenced](https://open.spotify.com/track/7Ay8rIsUTJ7bASMsX9m9Zr) | [Klon Dump](https://open.spotify.com/artist/0jkfYGjTpIDpqpxw1kWmwT) | [Let's All Be Influenced By The Same Things At The Same Time](https://open.spotify.com/album/4U0uEEJqJFRxpo6uZzSSDe) | 7:01 |
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKtDoRIriX9.md) - [plain]
 | 26 | [One Two Three \(No Gravity\)](https://open.spotify.com/track/6KhNQSvGibETR9XPwviaaH) | [Closer Musik](https://open.spotify.com/artist/2j7JwncWKK8w0Lfb2xjKdy) | [Kompakt: Total 2](https://open.spotify.com/album/7gNetPYs1EUcH2xBKnOayU) | 6:49 |
 | 27 | [Passi Mai](https://open.spotify.com/track/1uC1vnVzCCrjMrvrha6muj) | [System Olympia](https://open.spotify.com/artist/2qtARFvBzCjOuGbXFAF0iX) | [Apron X Patta \- Better Together](https://open.spotify.com/album/0DCd8yS0hEzTi9poXKThJ9) | 4:07 |
 | 28 | [Gliding Through The Mainframe](https://open.spotify.com/track/6lm4C7Tsie9A2vUOg8bv71) | [Casino Times](https://open.spotify.com/artist/1AW6kxEtVfzpjtg8V6sRcU) | [Headrush EP](https://open.spotify.com/album/2RP576Twmi1DdOXjQEQfQa) | 7:47 |
-| 29 | [Lesson \#1](https://open.spotify.com/track/5EbMqkHe85GCamakRbpA7i) | [Josh Caffé](https://open.spotify.com/artist/0xfgTbJfcAgsRLqJ6y0PAp) | [Box of Talk](https://open.spotify.com/album/0lEnLUYsp4uaVb9O24k0wj) | 5:56 |
+| 29 | [Lesson \#1](https://open.spotify.com/track/5EbMqkHe85GCamakRbpA7i) | [Josh Caffé](https://open.spotify.com/artist/3JOct1LuzqDQHeCHuHjpM2) | [Box of Talk](https://open.spotify.com/album/0lEnLUYsp4uaVb9O24k0wj) | 5:56 |
 | 30 | [Warm gun](https://open.spotify.com/track/1C3q0ZcIZ485063uHUF0Gx) | [CHLOE \(Thévenin\)](https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq) | [Warm gun](https://open.spotify.com/album/3buuQse1ah1KoOx25US4UJ) | 6:11 |
 | 31 | [Soul Controller](https://open.spotify.com/track/2pMWuESLSMPg4tZZATl6ej) | [DJ Bone](https://open.spotify.com/artist/5nAtXl2yhbQubn2gT9lhIg) | [Soul Controller](https://open.spotify.com/album/6ea5N86xbXfC450wzOmSY7) | 5:29 |
 | 32 | [Dream Boat \- Edit](https://open.spotify.com/track/67LPgCFQFuFu1R2flqpxHY) | [Rhode & Brown](https://open.spotify.com/artist/3tA0d4G3jC6CXf6MXEZE5T) | [Eleganza](https://open.spotify.com/album/5IbiJ323rZDRK6XqK9PAXR) | 3:34 |

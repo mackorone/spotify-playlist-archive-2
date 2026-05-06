@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 
 > Descubre el futuro de las música en México en compañía de iza tkm
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,341 likes - 51 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,367 likes - 51 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 | 50 | [Se nos hizo tarde](https://open.spotify.com/track/0mTK39yGzyyU9ysPVZpAsd) | [Sullen](https://open.spotify.com/artist/6U4Xuc6Hoa8FfBAWcwGYh9), [daga!](https://open.spotify.com/artist/6hZvGI9FnsNyWylfdoMK0D), [xust.](https://open.spotify.com/artist/2Y2UOYYwgQJjRWAA71cJRf) | [Se nos hizo tarde](https://open.spotify.com/album/6UV1aLZjsS3z6AiLpKEc4f) | 2:59 |
 | 51 | [buttermilk 2](https://open.spotify.com/track/2yT6DwSVxB3WgyIUmDrnDZ) | [GRLS](https://open.spotify.com/artist/6hH7QHJ88Vy6KKiWANlIam), [RIVVAA](https://open.spotify.com/artist/1EJ9teYCbzR1V2uGOaqzK5) | [T.V ADDICT \(nitro\)](https://open.spotify.com/album/727LHY7Z8C6n1S9qbbxbnJ) | 3:30 |
 
-Snapshot ID: `AAAAAGrpx8ei4C0rvTeb0SV0j7cBGz0T`
+Snapshot ID: `AAAAAJeDvEIvIag87x0QOKRwWLWkjAHe`

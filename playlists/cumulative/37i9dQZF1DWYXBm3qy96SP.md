@@ -4,7 +4,7 @@
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover: Angine de Poitrine
 
-2,017 songs - 4 day 21 hr 18 min
+2,018 songs - 4 day 21 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -890,7 +890,7 @@
 | [In The Modern World](https://open.spotify.com/track/7ht9gaFe8hSIp5R795x87h) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [In The Modern World](https://open.spotify.com/album/52hEWkt7HEi8WZLXDwg7R0) | 4:26 | 2024-08-23 | 2024-10-11 |
 | [In The Silence](https://open.spotify.com/track/1klDKOUmMD566cwy91pqEO) | [Caskets](https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK) | [Reflections](https://open.spotify.com/album/3HmGULnPeH7ZhDkQlDibh3) | 3:32 | 2023-08-10 | 2023-08-18 |
 | [In Your City](https://open.spotify.com/track/6eZj6copAxs0la9V8FTJmA) | [The Moving Stills](https://open.spotify.com/artist/5MXKeoHi08yq7nnRNe3t4w) | [Wabi Sabi](https://open.spotify.com/album/0kPjOeepHuRmHR43CtmUlD) | 3:21 | 2023-11-23 | 2023-12-01 |
-| [In Your Name](https://open.spotify.com/track/5MC8y7w5E0DUEqii0sP4Fm) | [Vana](https://open.spotify.com/artist/6o2D1YBpFJDDaMwZYGyW3T) | [In Your Name](https://open.spotify.com/album/5z3UBg2HZS5tqNyzRZ7wAD) | 4:42 | 2026-04-09 |  |
+| [In Your Name](https://open.spotify.com/track/5MC8y7w5E0DUEqii0sP4Fm) | [Vana](https://open.spotify.com/artist/6o2D1YBpFJDDaMwZYGyW3T) | [In Your Name](https://open.spotify.com/album/5z3UBg2HZS5tqNyzRZ7wAD) | 4:42 | 2026-04-09 | 2026-05-06 |
 | [Incomprehensible](https://open.spotify.com/track/1sXdUadp0TcENaTscPUu8v) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Incomprehensible](https://open.spotify.com/album/7IcMyoc3AX2VU0WG6vpMB7) | 3:53 | 2025-06-05 | 2025-08-27 |
 | [Infernoids](https://open.spotify.com/track/0pok6MZVjACv63B032iF7W) | [Adora](https://open.spotify.com/artist/6hlmeO5GSiAKHjBgZlKPmB) | [Infernoids \- Single](https://open.spotify.com/album/1UThdhct5a4WeVQc8croan) | 3:11 | 2024-05-16 | 2024-06-01 |
 | [infinite source](https://open.spotify.com/track/3txlvthoUa9vWvG1zr2Lnr) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [private music](https://open.spotify.com/album/1gmWnG5TeRj91Tdm2lpEvJ) | 3:32 | 2025-08-21 | 2026-03-13 |
@@ -1520,6 +1520,7 @@
 | [Shiner In The Dark](https://open.spotify.com/track/0zSSanWJnvCX5xHawmMKa9) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Back To The Water Below](https://open.spotify.com/album/4B9IAqwQaPYHQi7kJcpPFQ) | 3:27 | 2023-08-31 | 2023-09-15 |
 | [Shoplifting](https://open.spotify.com/track/4DnfluGk0mleygfT9clm0v) | [Lip Critic](https://open.spotify.com/artist/4ABuKdLlVyzLztIFR8ETX9) | [Theft World](https://open.spotify.com/album/6UQvKJID9tTP81IIFRt9Dk) | 3:02 | 2026-04-30 |  |
 | [Shortest Fuse](https://open.spotify.com/track/10fl9iLpPKi4WVJh59hZ8c) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Shortest Fuse](https://open.spotify.com/album/1SeIVW1aJeueGTY1LKXOC6) | 3:40 | 2024-02-01 | 2024-02-09 |
+| [Should've Known Better](https://open.spotify.com/track/5W5d518pSKjB8JtscaU3ZL) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Should've Known Better](https://open.spotify.com/album/5YejHoJ2w4gXBsdhwQ2wQt) | 3:16 | 2026-04-30 |  |
 | [Shouting Eyes](https://open.spotify.com/track/0dDsKbyrs6etmNdcsrVrTV) | [Tilly Birds](https://open.spotify.com/artist/4esoPgrgPKbWa6gwU8EGmH) | [I'll Remember To Forget You](https://open.spotify.com/album/7Im3JtbRs16KKZB6efGQYe) | 4:01 | 2026-01-29 | 2026-02-06 |
 | [Shovel in His Hands](https://open.spotify.com/track/7HY9w064cDeuin7gh7GcIz) | [The View](https://open.spotify.com/artist/1fy3AQc7grjf5LnCd7snSg) | [Shovel in His Hands](https://open.spotify.com/album/6kuA9bJ8IzYZqT74ozWXZb) | 3:47 | 2023-05-18 | 2023-06-02 |
 | [Show Me How](https://open.spotify.com/track/4wJ2mw9b5hTZTKTtbLKDJZ) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Show Me How](https://open.spotify.com/album/5apa1NQ3BXK4XlBsbc4MPz) | 4:53 | 2023-05-25 | 2023-06-12 |

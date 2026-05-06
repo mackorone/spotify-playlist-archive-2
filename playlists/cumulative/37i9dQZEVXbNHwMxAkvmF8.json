@@ -2013,6 +2013,28 @@
     },
     {
       "album": {
+        "name": "Always be mine",
+        "url": "https://open.spotify.com/album/3Y1seqGP7erq5ZL1HqBGJ2"
+      },
+      "artists": [
+        {
+          "name": "BSW",
+          "url": "https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA"
+        },
+        {
+          "name": "Nagy Bogi",
+          "url": "https://open.spotify.com/artist/3VgOKuwKvAYU4aT7atESfM"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Always be mine",
+      "url": "https://open.spotify.com/track/3HeA087njNOUOBvTQ2f9jV"
+    },
+    {
+      "album": {
         "name": "Kiss All The Time. Disco, Occasionally.",
         "url": "https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR"
       },
@@ -8656,7 +8678,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-12",
+      "date_removed": null,
       "duration_ms": 205308,
       "name": "Dracula",
       "url": "https://open.spotify.com/track/1NXbNEAcPvY5G1xvfN57aA"
@@ -10586,7 +10608,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-05",
+      "date_removed": null,
       "duration_ms": 181530,
       "name": "Feledn\u00e9d",
       "url": "https://open.spotify.com/track/3Mls3f2j9xGRqRRsoKA0Ef"
@@ -18686,7 +18708,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 200646,
       "name": "Lush Life",
       "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
@@ -20866,7 +20888,7 @@
       ],
       "date_added": "2024-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 163375,
       "name": "MOKKA",
       "url": "https://open.spotify.com/track/3u582Ft7ws5CvUxCsBHxwT"
@@ -30680,7 +30702,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 144203,
       "name": "S\u00d6T\u00c9T",
       "url": "https://open.spotify.com/track/68SnGU5Oa3SEV7y8w1L9bk"
@@ -33930,7 +33952,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-03",
+      "date_removed": null,
       "duration_ms": 117284,
       "name": "Valamit majd kital\u00e1lok",
       "url": "https://open.spotify.com/track/3xOLEbTj6e4OiWdSjxOIyB"
@@ -36978,7 +37000,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 160000,
       "name": "\u00c9GJEN",
       "url": "https://open.spotify.com/track/6e7m8OLYFLODlVHzGZ60yO"

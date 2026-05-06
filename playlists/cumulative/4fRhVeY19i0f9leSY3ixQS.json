@@ -221,6 +221,24 @@
     },
     {
       "album": {
+        "name": "56",
+        "url": "https://open.spotify.com/album/1KJ6BkYzHFNOn353EEtS1q"
+      },
+      "artists": [
+        {
+          "name": "Undermine",
+          "url": "https://open.spotify.com/artist/5nCmlca0TXzHtF3gGXJ8eZ"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98910,
+      "name": "56",
+      "url": "https://open.spotify.com/track/4AxTb7Qv6fvAYgOKD5GYs8"
+    },
+    {
+      "album": {
         "name": "7 Stories High",
         "url": "https://open.spotify.com/album/7jicdugUw0UuzGNOqoQUPE"
       },
@@ -2497,6 +2515,28 @@
     },
     {
       "album": {
+        "name": "Blue Skies",
+        "url": "https://open.spotify.com/album/1RBlxsu43h0kjVgYfmf3yI"
+      },
+      "artists": [
+        {
+          "name": "lovelost",
+          "url": "https://open.spotify.com/artist/2FcM9tp729UkOueuN2rR4E"
+        },
+        {
+          "name": "Ghost Year",
+          "url": "https://open.spotify.com/artist/6eXnQT7YLQReLrW7XyT16E"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192710,
+      "name": "Blue Skies",
+      "url": "https://open.spotify.com/track/7fHkcRj0Qu1M25WyCucgmB"
+    },
+    {
+      "album": {
         "name": "blur",
         "url": "https://open.spotify.com/album/4hVWlKRMHvpHFnwaWKViZG"
       },
@@ -4115,6 +4155,24 @@
     },
     {
       "album": {
+        "name": "Close My Eyes",
+        "url": "https://open.spotify.com/album/1HYQzX8zOgvdqacpqBCV4a"
+      },
+      "artists": [
+        {
+          "name": "Twentysixscarydays",
+          "url": "https://open.spotify.com/artist/79SjYJNUoP2c2Nnvw4Z4YT"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184301,
+      "name": "Close My Eyes",
+      "url": "https://open.spotify.com/track/0V9X536h968KmcmHRObqVt"
+    },
+    {
+      "album": {
         "name": "Closing Time",
         "url": "https://open.spotify.com/album/1lFArKD7f0LQyqVovtIofr"
       },
@@ -5420,6 +5478,24 @@
       "duration_ms": 321200,
       "name": "Descent",
       "url": "https://open.spotify.com/track/24nuSMoXe84JsXSH5upNmK"
+    },
+    {
+      "album": {
+        "name": "Desert Rain",
+        "url": "https://open.spotify.com/album/73I0Frj5Kzq74qYKiNOCFh"
+      },
+      "artists": [
+        {
+          "name": "The Operating Room",
+          "url": "https://open.spotify.com/artist/4EvlkZr3kmmMH3w3cZ7yfP"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225312,
+      "name": "Desert Rain",
+      "url": "https://open.spotify.com/track/1kF4Qbv0xdZzBT0iQUWA40"
     },
     {
       "album": {
@@ -7487,6 +7563,24 @@
     },
     {
       "album": {
+        "name": "Faithlessly",
+        "url": "https://open.spotify.com/album/1wTuFBEAb8rOAKpQgcbCaX"
+      },
+      "artists": [
+        {
+          "name": "Future Mondays",
+          "url": "https://open.spotify.com/artist/3VMpqGkVVuW4nTUJw9v2rt"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153653,
+      "name": "Faithlessly",
+      "url": "https://open.spotify.com/track/5UC1GFndf9Mk6SzKPT9gu1"
+    },
+    {
+      "album": {
         "name": "SOME RANDOM GIRL THAT NEVER MADE IT ON THE INTERNET",
         "url": "https://open.spotify.com/album/20JtgJAcabJ7eb74csa1Eq"
       },
@@ -7732,7 +7826,7 @@
       ],
       "date_added": "2026-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 202000,
       "name": "Feral Lane",
       "url": "https://open.spotify.com/track/43ve0SDtFW96YcHCYIv4Bd"
@@ -13315,6 +13409,24 @@
     },
     {
       "album": {
+        "name": "THELASTIME",
+        "url": "https://open.spotify.com/album/6RscKRqZ5aTdYOgYDMi0jT"
+      },
+      "artists": [
+        {
+          "name": "Aflu Enza",
+          "url": "https://open.spotify.com/artist/3DYCDgO6xWXXUPg7fHPyxz"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170602,
+      "name": "Low-Poly Demake",
+      "url": "https://open.spotify.com/track/59abIdqujbaNscfsMEnAoy"
+    },
+    {
+      "album": {
         "name": "We Are Legion",
         "url": "https://open.spotify.com/album/0SkYNxbu2XwUkfdIy6Wyuc"
       },
@@ -16859,6 +16971,28 @@
     },
     {
       "album": {
+        "name": "Playing With Fire",
+        "url": "https://open.spotify.com/album/4Z5ZpRDeGXiBNIZZ3Ewm4J"
+      },
+      "artists": [
+        {
+          "name": "The PennyPound",
+          "url": "https://open.spotify.com/artist/2QhZfUGvvm4AA07JNVY4SS"
+        },
+        {
+          "name": "Michael Ivor",
+          "url": "https://open.spotify.com/artist/1ECUGtk3IDoH9PvIYu4R6A"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153258,
+      "name": "Playing With Fire",
+      "url": "https://open.spotify.com/track/6xaMY5HgrVf5Wz1ItwzkvR"
+    },
+    {
+      "album": {
         "name": "LOUD NOISES",
         "url": "https://open.spotify.com/album/3td0OGM48SevIvq1jkUxAM"
       },
@@ -18944,6 +19078,24 @@
       "duration_ms": 211120,
       "name": "Set Me Free",
       "url": "https://open.spotify.com/track/5fxw1RLijozvFDMCFnLRg5"
+    },
+    {
+      "album": {
+        "name": "Wisdom Teeth",
+        "url": "https://open.spotify.com/album/2Ck3lqyg3Js0kQgOxmm8AB"
+      },
+      "artists": [
+        {
+          "name": "Wisdom Teeth",
+          "url": "https://open.spotify.com/artist/6CHrghLIZxb7jPZaHQmT9Q"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163759,
+      "name": "Set Me Free",
+      "url": "https://open.spotify.com/track/04XeYsa4gKn6Se1cEonolA"
     },
     {
       "album": {
@@ -22290,7 +22442,7 @@
       ],
       "date_added": "2026-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 157000,
       "name": "The Great Mistake",
       "url": "https://open.spotify.com/track/0lZuhiK4QZJcuf6gGMSTyi"
@@ -24063,6 +24215,28 @@
     },
     {
       "album": {
+        "name": "Blue, Deepest Blue",
+        "url": "https://open.spotify.com/album/33pzXi7wLOKUn1Xzn21UOm"
+      },
+      "artists": [
+        {
+          "name": "Bad Script",
+          "url": "https://open.spotify.com/artist/6z0JS9G1jFH6DgwYsEZK3j"
+        },
+        {
+          "name": "Eisbaer",
+          "url": "https://open.spotify.com/artist/0m7zIZso0fkCszNBALVd3G"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361442,
+      "name": "Valley",
+      "url": "https://open.spotify.com/track/7q7OzKG9tmTLkIteBE4I45"
+    },
+    {
+      "album": {
         "name": "Varis",
         "url": "https://open.spotify.com/album/0pwfvMM4RIfjPVJjaBiUFh"
       },
@@ -24514,7 +24688,7 @@
       ],
       "date_added": "2026-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 175500,
       "name": "War (In our city)",
       "url": "https://open.spotify.com/track/7f9V3CsJkjxvwPZmD5Mg9m"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 
 > La nuova scena pop italiana 🇮🇹 cover: Santamarea
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,063 likes - 100 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,091 likes - 99 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,8 +105,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 | 95 | [PENSO](https://open.spotify.com/track/0DiZWLr7Ho2DZjnMrQ8vPs) | [DOBRO](https://open.spotify.com/artist/12MCNZ3FEHpQtCYYHIRwNI), [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0) | [ECLISSI](https://open.spotify.com/album/6rNMDa7dkZJw3CYTZvPvo0) | 2:40 |
 | 96 | [Filosofia Dello Stare Bene](https://open.spotify.com/track/42z88dhlj7hs3HxvG3B0jt) | [Carolina Bubbico](https://open.spotify.com/artist/0HWrWCAD8nN3DnbR02wVxW) | [Vocália](https://open.spotify.com/album/3871bVwyeAftS4jiuG0Z5r) | 2:45 |
 | 97 | [JURNATA 'E SOLE](https://open.spotify.com/track/7IqOqo9LfqTxzj174TETUH) | [STE](https://open.spotify.com/artist/16i7FBlZiqIoL0E5NzzLWz) | [JURNATA 'E SOLE](https://open.spotify.com/album/0CkovfE5wxMjWrLU4xcz7E) | 2:46 |
-| 98 | [aria](https://open.spotify.com/track/4taiyQqjMskoH2zz0WXAYg) | [camillewhy?](https://open.spotify.com/artist/2V5hPlElFF3NE02WYbnqT7), [Goss Vinyard](https://open.spotify.com/artist/2w3jmxjfaLRyLhJ8GfqyiV) | [aria](https://open.spotify.com/album/1Wk0ir3BNaiYJWLzjWnOSa) | 3:15 |
-| 99 | [una cosa leggera](https://open.spotify.com/track/3jVAFCoDciG24tUa0b2zcN) | [FRENÈSYA](https://open.spotify.com/artist/3kiRuZtCjfRNm4o0mhMteW), [Atoker](https://open.spotify.com/artist/0gTzWbhRobuLLJnd3CsBwb), [chaze](https://open.spotify.com/artist/7bgFap2WFAW0nHGbmUVn4Y) | [una cosa leggera](https://open.spotify.com/album/5XQ75pxbbAAHFJM1qSTzIc) | 2:00 |
-| 100 | [STAR](https://open.spotify.com/track/72AJt7cnhbzdzHipYgtQFP) | [ENÈ](https://open.spotify.com/artist/4M4lQeVzadkoOMueYCRETr) | [STAR](https://open.spotify.com/album/0Q0QAHoAWoEaD1p8sRYHcO) | 2:56 |
+| 98 | [una cosa leggera](https://open.spotify.com/track/3jVAFCoDciG24tUa0b2zcN) | [FRENÈSYA](https://open.spotify.com/artist/3kiRuZtCjfRNm4o0mhMteW), [Atoker](https://open.spotify.com/artist/0gTzWbhRobuLLJnd3CsBwb), [chaze](https://open.spotify.com/artist/7bgFap2WFAW0nHGbmUVn4Y) | [una cosa leggera](https://open.spotify.com/album/5XQ75pxbbAAHFJM1qSTzIc) | 2:00 |
+| 99 | [STAR](https://open.spotify.com/track/72AJt7cnhbzdzHipYgtQFP) | [ENÈ](https://open.spotify.com/artist/4M4lQeVzadkoOMueYCRETr) | [STAR](https://open.spotify.com/album/0Q0QAHoAWoEaD1p8sRYHcO) | 2:56 |
 
-Snapshot ID: `AAAAANihtHiCuBC3HtrrWNvj3dwnZwqm`
+Snapshot ID: `AAAAADXx9exLbX5gEGQFoSlo2EsWsCCZ`

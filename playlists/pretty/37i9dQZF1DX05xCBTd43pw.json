@@ -1,6 +1,6 @@
 {
   "description": "Aus der Schweiz f\u00fcr dich \u2013 musique suisse \u2013 musica svizzera \ud83c\udde8\ud83c\udded\nCover: Eileen Alister",
-  "num_followers": 37744,
+  "num_followers": 37743,
   "original_name": "Swiss Made",
   "owner": {
     "name": "Spotify",
@@ -463,18 +463,22 @@
     {
       "added_at": "2026-04-30 22:02:30",
       "album": {
-        "name": "No Good For Me",
-        "url": "https://open.spotify.com/album/5wnz1WogLgn1bU9VGaSD2W"
+        "name": "Happy Here",
+        "url": "https://open.spotify.com/album/5SoVqbsyAO0Qplj4hxT7Z9"
       },
       "artists": [
         {
-          "name": "Roxane",
-          "url": "https://open.spotify.com/artist/5Gr80iuuvY4PmSLDoIx4WD"
+          "name": "Remady",
+          "url": "https://open.spotify.com/artist/3JxNeLgMuJI0DEmDt9dLzc"
+        },
+        {
+          "name": "MaWayy",
+          "url": "https://open.spotify.com/artist/6p6hgLendP25D8QRQINsPp"
         }
       ],
-      "duration_ms": 193271,
-      "name": "No Good For Me",
-      "url": "https://open.spotify.com/track/6SDTjpUUegMrlkM7wzeM71"
+      "duration_ms": 174000,
+      "name": "Happy Here",
+      "url": "https://open.spotify.com/track/2HmUgFWhCMs44ONcQAFhkm"
     },
     {
       "added_at": "2026-04-30 22:02:30",
@@ -495,22 +499,18 @@
     {
       "added_at": "2026-04-30 22:02:30",
       "album": {
-        "name": "Happy Here",
-        "url": "https://open.spotify.com/album/5SoVqbsyAO0Qplj4hxT7Z9"
+        "name": "No Good For Me",
+        "url": "https://open.spotify.com/album/5wnz1WogLgn1bU9VGaSD2W"
       },
       "artists": [
         {
-          "name": "Remady",
-          "url": "https://open.spotify.com/artist/3JxNeLgMuJI0DEmDt9dLzc"
-        },
-        {
-          "name": "MaWayy",
-          "url": "https://open.spotify.com/artist/6p6hgLendP25D8QRQINsPp"
+          "name": "Roxane",
+          "url": "https://open.spotify.com/artist/5Gr80iuuvY4PmSLDoIx4WD"
         }
       ],
-      "duration_ms": 174000,
-      "name": "Happy Here",
-      "url": "https://open.spotify.com/track/2HmUgFWhCMs44ONcQAFhkm"
+      "duration_ms": 193271,
+      "name": "No Good For Me",
+      "url": "https://open.spotify.com/track/6SDTjpUUegMrlkM7wzeM71"
     },
     {
       "added_at": "2026-04-30 22:02:30",
@@ -627,22 +627,6 @@
     {
       "added_at": "2026-04-30 22:02:30",
       "album": {
-        "name": "Love Me Better",
-        "url": "https://open.spotify.com/album/4t0x0qFxsOdcZAhMvZ9G9H"
-      },
-      "artists": [
-        {
-          "name": "Luca H\u00e4nni",
-          "url": "https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ"
-        }
-      ],
-      "duration_ms": 133200,
-      "name": "Love Me Better",
-      "url": "https://open.spotify.com/track/3VKKs2Usdi4cVIEE1qHzF2"
-    },
-    {
-      "added_at": "2026-04-30 22:02:30",
-      "album": {
         "name": "Fire To The Sky",
         "url": "https://open.spotify.com/album/1Fz5JAZlatqEDYC9gpThwl"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 165206,
       "name": "Fire To The Sky",
       "url": "https://open.spotify.com/track/64z7HtT0PDMdlWaUwacAuz"
+    },
+    {
+      "added_at": "2026-04-30 22:02:30",
+      "album": {
+        "name": "Love Me Better",
+        "url": "https://open.spotify.com/album/4t0x0qFxsOdcZAhMvZ9G9H"
+      },
+      "artists": [
+        {
+          "name": "Luca H\u00e4nni",
+          "url": "https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ"
+        }
+      ],
+      "duration_ms": 133200,
+      "name": "Love Me Better",
+      "url": "https://open.spotify.com/track/3VKKs2Usdi4cVIEE1qHzF2"
     },
     {
       "added_at": "2026-04-30 22:02:30",
@@ -695,22 +695,6 @@
     {
       "added_at": "2026-04-30 22:02:30",
       "album": {
-        "name": "Will You Take Me As I Am?",
-        "url": "https://open.spotify.com/album/5ozgfuDI2e1vjcSKwXkRaF"
-      },
-      "artists": [
-        {
-          "name": "Mary Middlefield",
-          "url": "https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs"
-        }
-      ],
-      "duration_ms": 199983,
-      "name": "Take me as i am",
-      "url": "https://open.spotify.com/track/2XQW9PF9na8qextnDmjg9K"
-    },
-    {
-      "added_at": "2026-04-30 22:02:30",
-      "album": {
         "name": "Starcrossed",
         "url": "https://open.spotify.com/album/0EotHssXwipeSqR7x8smCC"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 183157,
       "name": "Starcrossed",
       "url": "https://open.spotify.com/track/0vIAdlejSPRVJZwY5h7pqe"
+    },
+    {
+      "added_at": "2026-04-30 22:02:30",
+      "album": {
+        "name": "Will You Take Me As I Am?",
+        "url": "https://open.spotify.com/album/5ozgfuDI2e1vjcSKwXkRaF"
+      },
+      "artists": [
+        {
+          "name": "Mary Middlefield",
+          "url": "https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs"
+        }
+      ],
+      "duration_ms": 199983,
+      "name": "Take me as i am",
+      "url": "https://open.spotify.com/track/2XQW9PF9na8qextnDmjg9K"
     },
     {
       "added_at": "2026-04-30 22:02:30",
@@ -775,18 +775,22 @@
     {
       "added_at": "2026-04-30 22:02:30",
       "album": {
-        "name": "The World (AR)",
-        "url": "https://open.spotify.com/album/0Z3Y8pPAKhiJpVZTd1p8t6"
+        "name": "Bailar Bachata",
+        "url": "https://open.spotify.com/album/1GuwfVXyDfqq9PgUM3S9J3"
       },
       "artists": [
         {
-          "name": "Benjamin Amaru",
-          "url": "https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp"
+          "name": "Juan Dani\u00e9l",
+          "url": "https://open.spotify.com/artist/5WW37hDz5ZbsDIEPfuKvLh"
+        },
+        {
+          "name": "Loco Escrito",
+          "url": "https://open.spotify.com/artist/00UMLCX51uNiBzMhQKlwyQ"
         }
       ],
-      "duration_ms": 227651,
-      "name": "The World (AR)",
-      "url": "https://open.spotify.com/track/7yNz3NhMVoWP4g7zqdEvns"
+      "duration_ms": 169158,
+      "name": "Bailar Bachata",
+      "url": "https://open.spotify.com/track/0Y9Ur7tkHfN43EF24K85AN"
     },
     {
       "added_at": "2026-04-30 22:02:30",
@@ -807,22 +811,18 @@
     {
       "added_at": "2026-04-30 22:02:30",
       "album": {
-        "name": "Bailar Bachata",
-        "url": "https://open.spotify.com/album/1GuwfVXyDfqq9PgUM3S9J3"
+        "name": "The World (AR)",
+        "url": "https://open.spotify.com/album/0Z3Y8pPAKhiJpVZTd1p8t6"
       },
       "artists": [
         {
-          "name": "Juan Dani\u00e9l",
-          "url": "https://open.spotify.com/artist/5WW37hDz5ZbsDIEPfuKvLh"
-        },
-        {
-          "name": "Loco Escrito",
-          "url": "https://open.spotify.com/artist/00UMLCX51uNiBzMhQKlwyQ"
+          "name": "Benjamin Amaru",
+          "url": "https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp"
         }
       ],
-      "duration_ms": 169158,
-      "name": "Bailar Bachata",
-      "url": "https://open.spotify.com/track/0Y9Ur7tkHfN43EF24K85AN"
+      "duration_ms": 227651,
+      "name": "The World (AR)",
+      "url": "https://open.spotify.com/track/7yNz3NhMVoWP4g7zqdEvns"
     },
     {
       "added_at": "2026-04-30 22:02:30",
@@ -959,22 +959,6 @@
     {
       "added_at": "2026-04-30 22:02:30",
       "album": {
-        "name": "Des montagnes de toi",
-        "url": "https://open.spotify.com/album/2YgOkEKH4iJbGz4SOwHEAe"
-      },
-      "artists": [
-        {
-          "name": "Vendredi sur Mer",
-          "url": "https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B"
-        }
-      ],
-      "duration_ms": 181333,
-      "name": "Des montagnes de toi",
-      "url": "https://open.spotify.com/track/4SyrpjEFYjsYJKq2kNhzSs"
-    },
-    {
-      "added_at": "2026-04-30 22:02:30",
-      "album": {
         "name": "Caught",
         "url": "https://open.spotify.com/album/2BL51vTtCfJwkZ32pdQzTA"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 190593,
       "name": "Caught",
       "url": "https://open.spotify.com/track/60F4PkVYMwIE74a9ssuWJl"
+    },
+    {
+      "added_at": "2026-04-30 22:02:30",
+      "album": {
+        "name": "Des montagnes de toi",
+        "url": "https://open.spotify.com/album/2YgOkEKH4iJbGz4SOwHEAe"
+      },
+      "artists": [
+        {
+          "name": "Vendredi sur Mer",
+          "url": "https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B"
+        }
+      ],
+      "duration_ms": 181333,
+      "name": "Des montagnes de toi",
+      "url": "https://open.spotify.com/track/4SyrpjEFYjsYJKq2kNhzSs"
     },
     {
       "added_at": "2026-04-30 22:02:30",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2026-04-30 22:02:30",
       "album": {
+        "name": "Love Is A Lie",
+        "url": "https://open.spotify.com/album/4UFBXEuqazPcVNvzcm11M4"
+      },
+      "artists": [
+        {
+          "name": "Luca H\u00e4nni",
+          "url": "https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ"
+        }
+      ],
+      "duration_ms": 139683,
+      "name": "Love Is A Lie",
+      "url": "https://open.spotify.com/track/3Ji9fllpDPn8DQGkFnLaBY"
+    },
+    {
+      "added_at": "2026-04-30 22:02:30",
+      "album": {
         "name": "Stuck",
         "url": "https://open.spotify.com/album/01QDUNNyYF3RftaKnAZZJB"
       },
@@ -1135,18 +1151,18 @@
     {
       "added_at": "2026-04-30 22:02:30",
       "album": {
-        "name": "Love Is A Lie",
-        "url": "https://open.spotify.com/album/4UFBXEuqazPcVNvzcm11M4"
+        "name": "Power",
+        "url": "https://open.spotify.com/album/2cHXXBz5wRN0kNbU53sD7D"
       },
       "artists": [
         {
-          "name": "Luca H\u00e4nni",
-          "url": "https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ"
+          "name": "Stefanie Heinzmann",
+          "url": "https://open.spotify.com/artist/0bm9qSmVJmT9CEukIhhZY5"
         }
       ],
-      "duration_ms": 139683,
-      "name": "Love Is A Lie",
-      "url": "https://open.spotify.com/track/3Ji9fllpDPn8DQGkFnLaBY"
+      "duration_ms": 164066,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/4wSKiYLFHTcG3HRXgbjNyI"
     },
     {
       "added_at": "2026-04-30 22:02:30",
@@ -1163,22 +1179,6 @@
       "duration_ms": 173302,
       "name": "This I Know",
       "url": "https://open.spotify.com/track/5tKuFGcwytK8EMw0YqMQae"
-    },
-    {
-      "added_at": "2026-04-30 22:02:30",
-      "album": {
-        "name": "Power",
-        "url": "https://open.spotify.com/album/2cHXXBz5wRN0kNbU53sD7D"
-      },
-      "artists": [
-        {
-          "name": "Stefanie Heinzmann",
-          "url": "https://open.spotify.com/artist/0bm9qSmVJmT9CEukIhhZY5"
-        }
-      ],
-      "duration_ms": 164066,
-      "name": "Power",
-      "url": "https://open.spotify.com/track/4wSKiYLFHTcG3HRXgbjNyI"
     },
     {
       "added_at": "2026-04-30 22:02:30",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2026-04-30 22:02:30",
       "album": {
+        "name": "Dawn",
+        "url": "https://open.spotify.com/album/3QuUHhU4RHkxSSKMcR4MnT"
+      },
+      "artists": [
+        {
+          "name": "Natascha Polk\u00e9",
+          "url": "https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96"
+        }
+      ],
+      "duration_ms": 199125,
+      "name": "Let Myself Go",
+      "url": "https://open.spotify.com/track/4QSeTgII6hxgHk9ZsBxIMH"
+    },
+    {
+      "added_at": "2026-04-30 22:02:30",
+      "album": {
         "name": "How Much Can a Heart Break",
         "url": "https://open.spotify.com/album/6UO64Z8AgMqPdSgoljbaRx"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 165062,
       "name": "Blindsided",
       "url": "https://open.spotify.com/track/73CnJCOx1kW7M46WsB7Zed"
-    },
-    {
-      "added_at": "2026-04-30 22:02:30",
-      "album": {
-        "name": "Dawn",
-        "url": "https://open.spotify.com/album/3QuUHhU4RHkxSSKMcR4MnT"
-      },
-      "artists": [
-        {
-          "name": "Natascha Polk\u00e9",
-          "url": "https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96"
-        }
-      ],
-      "duration_ms": 199125,
-      "name": "Let Myself Go",
-      "url": "https://open.spotify.com/track/4QSeTgII6hxgHk9ZsBxIMH"
     },
     {
       "added_at": "2026-04-30 22:02:30",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2026-04-30 22:02:30",
       "album": {
-        "name": "Low Tide",
-        "url": "https://open.spotify.com/album/1jmxE0EMixooHHrPMwLGeM"
-      },
-      "artists": [
-        {
-          "name": "DANA",
-          "url": "https://open.spotify.com/artist/3rQLVRDmnGhPhFBp4Q35Rr"
-        }
-      ],
-      "duration_ms": 161340,
-      "name": "Low Tide",
-      "url": "https://open.spotify.com/track/44LdsGW3nKLfkp0WeInuEC"
-    },
-    {
-      "added_at": "2026-04-30 22:02:30",
-      "album": {
         "name": "Down To My Bones",
         "url": "https://open.spotify.com/album/6qrZVY8wS9AiYjNaHTXreD"
       },
@@ -1435,6 +1419,22 @@
     {
       "added_at": "2026-04-30 22:02:30",
       "album": {
+        "name": "Low Tide",
+        "url": "https://open.spotify.com/album/1jmxE0EMixooHHrPMwLGeM"
+      },
+      "artists": [
+        {
+          "name": "DANA",
+          "url": "https://open.spotify.com/artist/3rQLVRDmnGhPhFBp4Q35Rr"
+        }
+      ],
+      "duration_ms": 161340,
+      "name": "Low Tide",
+      "url": "https://open.spotify.com/track/44LdsGW3nKLfkp0WeInuEC"
+    },
+    {
+      "added_at": "2026-04-30 22:02:30",
+      "album": {
         "name": "Lovers",
         "url": "https://open.spotify.com/album/570kqavY51UzlC6nYTOKo4"
       },
@@ -1447,22 +1447,6 @@
       "duration_ms": 176769,
       "name": "Lovers",
       "url": "https://open.spotify.com/track/3RyPjY4LSckFzV0VstzTQD"
-    },
-    {
-      "added_at": "2026-04-30 22:02:30",
-      "album": {
-        "name": "January",
-        "url": "https://open.spotify.com/album/5CuTx7FzFZa3HvNHi6wlC2"
-      },
-      "artists": [
-        {
-          "name": "Pablo Nouvelle",
-          "url": "https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P"
-        }
-      ],
-      "duration_ms": 136767,
-      "name": "You Hurt Me",
-      "url": "https://open.spotify.com/track/5DhoEhRFe9zk65yJwDQ71D"
     },
     {
       "added_at": "2026-04-30 22:02:30",
@@ -1495,6 +1479,22 @@
       "duration_ms": 138443,
       "name": "Trapped in the Middle",
       "url": "https://open.spotify.com/track/5auKT8Cuq3ROPPRxZhMlle"
+    },
+    {
+      "added_at": "2026-04-30 22:02:30",
+      "album": {
+        "name": "January",
+        "url": "https://open.spotify.com/album/5CuTx7FzFZa3HvNHi6wlC2"
+      },
+      "artists": [
+        {
+          "name": "Pablo Nouvelle",
+          "url": "https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P"
+        }
+      ],
+      "duration_ms": 136767,
+      "name": "You Hurt Me",
+      "url": "https://open.spotify.com/track/5DhoEhRFe9zk65yJwDQ71D"
     },
     {
       "added_at": "2026-04-30 22:02:30",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2026-04-30 22:02:30",
       "album": {
-        "name": "I've Got Everything",
-        "url": "https://open.spotify.com/album/5floZ9g4WVBKsUP1DBq85F"
-      },
-      "artists": [
-        {
-          "name": "Linda Elys",
-          "url": "https://open.spotify.com/artist/3uB8CiuJs0I1cDNUaVpdjf"
-        }
-      ],
-      "duration_ms": 181891,
-      "name": "I've Got Everything",
-      "url": "https://open.spotify.com/track/5PYk8MWuTPatFEWQCJSU2X"
-    },
-    {
-      "added_at": "2026-04-30 22:02:30",
-      "album": {
         "name": "Prosecco",
         "url": "https://open.spotify.com/album/4fDTqKqjw8HO5gTLdyU6ug"
       },
@@ -1599,18 +1583,18 @@
     {
       "added_at": "2026-04-30 22:02:30",
       "album": {
-        "name": "Ehrlich",
-        "url": "https://open.spotify.com/album/3SxtFi80kNDFfnjSHBoZe3"
+        "name": "I've Got Everything",
+        "url": "https://open.spotify.com/album/5floZ9g4WVBKsUP1DBq85F"
       },
       "artists": [
         {
-          "name": "Baschi",
-          "url": "https://open.spotify.com/artist/6XzAV5lONpTgoSJDsF2Ubz"
+          "name": "Linda Elys",
+          "url": "https://open.spotify.com/artist/3uB8CiuJs0I1cDNUaVpdjf"
         }
       ],
-      "duration_ms": 230310,
-      "name": "Ehrlich",
-      "url": "https://open.spotify.com/track/2CpYkZOMP8Xmac4akYnAxF"
+      "duration_ms": 181891,
+      "name": "I've Got Everything",
+      "url": "https://open.spotify.com/track/5PYk8MWuTPatFEWQCJSU2X"
     },
     {
       "added_at": "2026-04-30 22:02:30",
@@ -1631,18 +1615,18 @@
     {
       "added_at": "2026-04-30 22:02:30",
       "album": {
-        "name": "Good",
-        "url": "https://open.spotify.com/album/17d8AeWoYu428twNlwtXjI"
+        "name": "Ehrlich",
+        "url": "https://open.spotify.com/album/3SxtFi80kNDFfnjSHBoZe3"
       },
       "artists": [
         {
-          "name": "Stefanie Heinzmann",
-          "url": "https://open.spotify.com/artist/0bm9qSmVJmT9CEukIhhZY5"
+          "name": "Baschi",
+          "url": "https://open.spotify.com/artist/6XzAV5lONpTgoSJDsF2Ubz"
         }
       ],
-      "duration_ms": 227413,
-      "name": "Good",
-      "url": "https://open.spotify.com/track/22LulLIuYZS8qspHQeVi7w"
+      "duration_ms": 230310,
+      "name": "Ehrlich",
+      "url": "https://open.spotify.com/track/2CpYkZOMP8Xmac4akYnAxF"
     },
     {
       "added_at": "2026-04-30 22:02:30",
@@ -1659,6 +1643,22 @@
       "duration_ms": 184761,
       "name": "oxygen",
       "url": "https://open.spotify.com/track/2mi0tvl5H88Z7hVvQVA27T"
+    },
+    {
+      "added_at": "2026-04-30 22:02:30",
+      "album": {
+        "name": "Good",
+        "url": "https://open.spotify.com/album/17d8AeWoYu428twNlwtXjI"
+      },
+      "artists": [
+        {
+          "name": "Stefanie Heinzmann",
+          "url": "https://open.spotify.com/artist/0bm9qSmVJmT9CEukIhhZY5"
+        }
+      ],
+      "duration_ms": 227413,
+      "name": "Good",
+      "url": "https://open.spotify.com/track/22LulLIuYZS8qspHQeVi7w"
     }
   ],
   "unique_name": "Swiss Made",

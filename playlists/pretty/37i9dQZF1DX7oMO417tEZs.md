@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 
 > ⁺‧₊˚ ཐིA curated space for the avant\-garde⋆ཋྀ ˚₊‧⁺ Cover: Jump Source
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,598 likes - 84 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,614 likes - 84 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

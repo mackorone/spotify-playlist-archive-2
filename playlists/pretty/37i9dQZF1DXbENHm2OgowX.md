@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbENHm2OgowX.md) - [plain]
 
 > wandering the forest as the fog floats through the trees
 
-[Spotify](https://open.spotify.com/user/spotify) - 337,741 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 337,956 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbENHm2OgowX.md) - [plain]
 | 14 | [Forever Held](https://open.spotify.com/track/1xp8KLwH1VbCcWSE1RtrBf) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Forever Held](https://open.spotify.com/album/4kltw3bgytAYd9DiwbeI58) | 2:38 |
 | 15 | [Where Souls Linger](https://open.spotify.com/track/2ghAHl6x2S1Tw26fbgVEw4) | [Nightcall](https://open.spotify.com/artist/74oOUKkcJV5s3bEWXGebHY), [Nocturne.](https://open.spotify.com/artist/5eCbPTXb2UPSyDrptrvjq9) | [Where Souls Linger](https://open.spotify.com/album/3OD0qLaIu62n4fBb1wHFfy) | 2:15 |
 | 16 | [Words](https://open.spotify.com/track/01OXa5tVuCssU6j8TY7kxr) | [Low](https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH) | [I Could Live In Hope](https://open.spotify.com/album/61dByu8oBt4qdym9Rkz39w) | 5:48 |
-| 17 | [fields of forever \- helios rework](https://open.spotify.com/track/0eE1sEnpryJdapFNbMm9Ox) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8), [Helios](https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w) | [drift \(ambient remixes\)](https://open.spotify.com/album/5ukXJo5pYLBnfzatdJpwDH) | 3:49 |
-| 18 | [her story](https://open.spotify.com/track/0yWZZiE75vuh2kIE3gzqcO) | [leadwave](https://open.spotify.com/artist/4v6Vm2UFM3PS4iHY9TZfcb) | [her story](https://open.spotify.com/album/0GtSeHGELDodCkG38O9x8m) | 1:57 |
+| 17 | [her story](https://open.spotify.com/track/0yWZZiE75vuh2kIE3gzqcO) | [leadwave](https://open.spotify.com/artist/4v6Vm2UFM3PS4iHY9TZfcb) | [her story](https://open.spotify.com/album/0GtSeHGELDodCkG38O9x8m) | 1:57 |
+| 18 | [fields of forever \- helios rework](https://open.spotify.com/track/0eE1sEnpryJdapFNbMm9Ox) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8), [Helios](https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w) | [drift \(ambient remixes\)](https://open.spotify.com/album/5ukXJo5pYLBnfzatdJpwDH) | 3:49 |
 | 19 | [RITUAL \(nothing is lost\)](https://open.spotify.com/track/7xrsufKq2fEmuUL70bi1WN) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [RITUAL \(nothing is lost\)](https://open.spotify.com/album/011DfCTPYJDAcHt8Tahjei) | 3:15 |
 | 20 | [Air](https://open.spotify.com/track/3gGIaiIRbkGntFSK5FjcL9) | [Jessie Marcella](https://open.spotify.com/artist/6BWY7ghwnw3YP1Mx21PJfb) | [Air](https://open.spotify.com/album/2VY88ocDU7BdpXI3sK0Mn6) | 6:59 |
 | 21 | [Sapphire Hour](https://open.spotify.com/track/5STv1mLmLNjXdzFIuNGd0L) | [City of Dawn](https://open.spotify.com/artist/16TKNLx6K4oJmIgSX0s4Y2) | [Sapphire Hour](https://open.spotify.com/album/28OO1f0EZJLcBwDpUAu6oU) | 5:31 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbENHm2OgowX.md) - [plain]
 | 67 | [Heaven in Time](https://open.spotify.com/track/6XNxEFDlgG6MVfay6uGf9d) | [BAILE](https://open.spotify.com/artist/135mViPxje2MED7hOnn2j9) | [Heaven in Time](https://open.spotify.com/album/50k7TzyHX3wq9auHlbsyUw) | 2:44 |
 | 68 | [For One Another](https://open.spotify.com/track/76Q7prOhYcczSlOrHfNQnj) | [Hollie Kenniff](https://open.spotify.com/artist/5jz9oievmO3hrSV0XOxHHS), [Goldmund](https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw), [Harbors](https://open.spotify.com/artist/6lOZ3w183ZOw3cEJc7lt8R) | [For One Another](https://open.spotify.com/album/556MxCxr9kDtL0NIQJvNKw) | 3:50 |
 | 69 | [Perpetual Care](https://open.spotify.com/track/00obKbt8QTLsUoSNGvVd2e) | [Vile Karimi](https://open.spotify.com/artist/0bnejaF6VYzssOaUveetsL) | [Womb Trails](https://open.spotify.com/album/2JNoncPfQy0XJGxzADRGBG) | 3:20 |
-| 70 | [No Way Out](https://open.spotify.com/track/0ZAOZMZcHZcfw5oNUcjyFh) | [NxxxxxS](https://open.spotify.com/artist/36r4ltZmLqtiDBdAs9XSqn) | [No Way Out](https://open.spotify.com/album/3PZfyjREHL04N4ua1GS8Ev) | 2:26 |
-| 71 | [Polaroid](https://open.spotify.com/track/0ViKD5cWI2NaPeTMhKp9EO) | [Dead Melodies](https://open.spotify.com/artist/34dfHqxGTjPV0tY4sHfHxu) | [Murken Hollow](https://open.spotify.com/album/695X5Psh92bFf5ytDQn44q) | 6:57 |
+| 70 | [Polaroid](https://open.spotify.com/track/0ViKD5cWI2NaPeTMhKp9EO) | [Dead Melodies](https://open.spotify.com/artist/34dfHqxGTjPV0tY4sHfHxu) | [Murken Hollow](https://open.spotify.com/album/695X5Psh92bFf5ytDQn44q) | 6:57 |
+| 71 | [No Way Out](https://open.spotify.com/track/0ZAOZMZcHZcfw5oNUcjyFh) | [NxxxxxS](https://open.spotify.com/artist/36r4ltZmLqtiDBdAs9XSqn) | [No Way Out](https://open.spotify.com/album/3PZfyjREHL04N4ua1GS8Ev) | 2:26 |
 | 72 | [Nebel](https://open.spotify.com/track/5eT7cM9qUIZ8ruUkJilnCz) | [David Cordero](https://open.spotify.com/artist/5yE5AG06GxRrh6Hw9qSJOQ) | [Nebel](https://open.spotify.com/album/4gyklZEAM1QW9lOiIPAZCO) | 3:14 |
 | 73 | [Close](https://open.spotify.com/track/2qZBYY1G1guH9FjToCn0g4) | [Deaf Center](https://open.spotify.com/artist/0GQJRlsTD8irKEDcClYiiA) | [Vintage Well](https://open.spotify.com/album/6Yq2E5sFMqeT3SsOsdVHTm) | 2:50 |
 | 74 | [Stray](https://open.spotify.com/track/2qJ1lpSOeAsbHr5WP86KtF) | [David Allred](https://open.spotify.com/artist/05XWJrLfEbTiyv1oirnMSm) | [The Beautiful World](https://open.spotify.com/album/2mYF47xMK4YdDipgj88DSD) | 2:58 |

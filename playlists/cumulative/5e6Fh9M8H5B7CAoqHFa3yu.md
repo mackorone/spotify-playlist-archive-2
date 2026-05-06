@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,183 songs - 5 day 9 hr 22 min
+2,187 songs - 5 day 9 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -536,6 +536,7 @@
 | [Easy](https://open.spotify.com/track/7kHsUC130CgJgVNjsUhh71) | [CrisVola](https://open.spotify.com/artist/2UHuefqH026GvDNMJjmsTo) | [Easy](https://open.spotify.com/album/59YZHomQFKn0in43lI0Px9) | 4:10 | 2023-03-15 |  |
 | [EAT MY ACID](https://open.spotify.com/track/68hR7nF4saDsSrn0eREvue) | [EMM](https://open.spotify.com/artist/1pYPWJEmCbWjcqnxw3qcyo) | [BLACK DIAMOND](https://open.spotify.com/album/00aWPd7iB5wgq8oaarPFKf) | 2:55 | 2025-11-04 |  |
 | [Ecco la primavera](https://open.spotify.com/track/1lRJo7MOJaDuB3MJ66qDhD) | [Francesco Landini](https://open.spotify.com/artist/4yvZ9OueU8lXBhmon7qswI), [Pablo Despeyroux](https://open.spotify.com/artist/5PIQKptSn7b9KGsMrK296N) | [Música Antigua Para Cítola Y Vihuela](https://open.spotify.com/album/03xRLo5mXY5KsALtg92jCh) | 1:01 | 2025-08-11 |  |
+| [Echo](https://open.spotify.com/track/4pG2Pg3ztUzabkNBpVfd71) | [Peritz](https://open.spotify.com/artist/31NVoBcFNTbpsKAvh5jYDp) | [Echo](https://open.spotify.com/album/0JUNQkyJV3qpA7oacViTHp) | 2:32 | 2026-05-05 |  |
 | [Echo Of You](https://open.spotify.com/track/5cWmg3WlMZeTQbHhGuKm21) | [VANYRA X](https://open.spotify.com/artist/3rWPyQgHJ9pvXOK7KtBX1Z) | [Echo Of You](https://open.spotify.com/album/1uxa967QvZrV3185K7Vbow) | 3:34 | 2026-03-01 |  |
 | [Echoes of the Embers \- Special Version](https://open.spotify.com/track/600D7s8LSYbGvBkNiNq1XN) | [Roberto Senchiu](https://open.spotify.com/artist/6YOzBCyZMjxlDtQmpYvgoC) | [Echoes of the Embers \(Special Version\)](https://open.spotify.com/album/2bG2B4aIQuyRfNJyzw1xkW) | 4:13 | 2026-03-23 |  |
 | [Ecstasy](https://open.spotify.com/track/6xBW4A7n8RTca1RzvOwVmo) | [kBeats](https://open.spotify.com/artist/5w3SUOG1J2oz1vsUQyvIyt) | [Ecstasy](https://open.spotify.com/album/0j9AYqvQKoytF3B9nmeaX7) | 2:03 | 2026-04-28 |  |
@@ -1188,6 +1189,7 @@
 | [Merri \- Go](https://open.spotify.com/track/5sgEWkDU0LZ1TtH5TZ9Ibp) | [JayzDayz](https://open.spotify.com/artist/6pd58j15goA4rLevfgIVAC) | [Jealousy Never Blooms](https://open.spotify.com/album/4UIZSIxQ32CLauUcxfRHBC) | 2:58 | 2026-01-10 |  |
 | [Merry Go Round](https://open.spotify.com/track/3VegC0PZiHjGxb80DER8XU) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h) | 3:49 | 2026-04-12 |  |
 | [Message Man](https://open.spotify.com/track/4Oyl6oYSNeeZZP0OAxPVaU) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Blurryface](https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1) | 4:00 | 2024-03-04 |  |
+| [Metro Melodies](https://open.spotify.com/track/48hQq8H1xFlzzfJwhjojq7) | [Mister BoO](https://open.spotify.com/artist/6r70GFn8sPjePrZadKcPHu), [Carlito Home](https://open.spotify.com/artist/0txTwV2vs7SBaepqBjalf0) | [Metro Melodies](https://open.spotify.com/album/2LBQhg9d5SnhkZ3yf2CKuU) | 2:52 | 2026-05-05 |  |
 | [Mi manca \(feat\. Ermal Meta\)](https://open.spotify.com/track/14QmYMPcfpIbOH1k7EmqNq) | [Bugo](https://open.spotify.com/artist/01U4yWwtUKMckbI55OiT7g), [Ermal Meta](https://open.spotify.com/artist/4XWTdNlsP8jqo5BDn5hgmd) | [Cristian Bugatti](https://open.spotify.com/album/3NX7t2LAvYFjf5GwA1MOCJ) | 4:07 | 2023-03-15 |  |
 | [Mi Mejor Yo](https://open.spotify.com/track/4uJI4ReR3zkM1Rc0RPt4f7) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Mi Mejor Yo](https://open.spotify.com/album/0wDhgjnA5voHYiWqi84ZF0) | 2:18 | 2026-01-18 |  |
 | [Mi Mundo Entero](https://open.spotify.com/track/1ZxKhZJyhexk0BZWPw0vPM) | [R A U](https://open.spotify.com/artist/1dymQTdVtx6SWGFLg0Vi8z) | [Mi Mundo Entero](https://open.spotify.com/album/67zO4G01EisEJsHX4NGFKC) | 4:18 | 2025-08-20 |  |
@@ -1754,6 +1756,7 @@
 | [Spiagge di sera](https://open.spotify.com/track/6haNxnzWguHh9GTUEdxGpd) | [Ego Semper](https://open.spotify.com/artist/2cu7ObYlLsf3yTDHDniIiH) | [Spiagge di sera](https://open.spotify.com/album/6HYwlCAWsWl2T1tglIkc13) | 2:36 | 2024-06-05 |  |
 | [Spiral Dreams](https://open.spotify.com/track/0Xa5kZ6d8Jq1aRjYEcUvGc) | [King Of Eye](https://open.spotify.com/artist/58wGcPeQ30H9MwJmNBZs08) | [Reggae Sunjam](https://open.spotify.com/album/6kYiNLr72LY5Wdz98ArSi2) | 3:50 | 2024-03-23 |  |
 | [Spiritual Calling](https://open.spotify.com/track/01YDSmbXOzuYb8nxmaLv8x) | [Dub Idren](https://open.spotify.com/artist/2JK5x7zdkSrijrqj5mHWed), [RootsyBeats](https://open.spotify.com/artist/4dQf5YSC5GRqId5gxkx9RL) | [Spiritual Calling](https://open.spotify.com/album/2YbmnYPxkVKvGRnwW7PT6Y) | 4:45 | 2025-10-01 |  |
+| [Spiritual Practice \- Radio Edit](https://open.spotify.com/track/6qtt8kolYSo78Uhdhq2qpt) | [Ottantotto](https://open.spotify.com/artist/1d9PT3XLty88WBDUmPhVxm) | [Spiritual Practice \(Radio Edit\)](https://open.spotify.com/album/4WC1WzA0EWq0ndV436U9vD) | 2:36 | 2026-05-05 |  |
 | [Spiritual Slavery \- Discomix](https://open.spotify.com/track/6duBGNgvWmdDGt6w21JwIs) | [Messian Dread](https://open.spotify.com/artist/04yVvk0AJ4uHQwNoQbXROj) | [Tunes For Thoughts](https://open.spotify.com/album/1N9A7fipWS65oAObMYN37U) | 9:24 | 2024-05-01 |  |
 | [Spitting Image](https://open.spotify.com/track/5zc822kc1XnKLTxrmYyxQU) | [Release the Captive](https://open.spotify.com/artist/1v6EAnmC8SD44ntg7OT7uj) | [Spitting Image](https://open.spotify.com/album/37zO3PXRdt5VBbGFs16oUQ) | 4:52 | 2024-04-10 |  |
 | [Splash](https://open.spotify.com/track/7EZcLhi3EhKMb408cHOQOU) | [Colapesce](https://open.spotify.com/artist/2KX2VLr3Eu6sn6EtxzCtvf), [Dimartino](https://open.spotify.com/artist/1k3zqz5SgrYCE0wpcfJX3g) | [Splash](https://open.spotify.com/album/7963LrIHyvVfjRCIQWc55t) | 3:29 | 2023-03-15 |  |
@@ -1932,6 +1935,7 @@
 | [Time Is A Weapon](https://open.spotify.com/track/7F0rYUVBoEV4wEFeXG070e) | [Julience](https://open.spotify.com/artist/4SlykBMGNk8EXDDFfphLvL) | [Time Is A Weapon](https://open.spotify.com/album/46wy0eBBTvxxI3llxxWkAE) | 3:30 | 2026-02-15 |  |
 | [Time of the Season \- Mono Remastered](https://open.spotify.com/track/6lx1n63qJmhzPpirxxksbI) | [The Zombies](https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5) | [Odessey and Oracle \(Mono Remastered\)](https://open.spotify.com/album/1Rad3I77vbl5L65DjbSIzJ) | 3:30 | 2025-10-01 |  |
 | [Time Slips Away](https://open.spotify.com/track/65vKyPGbuAmYwdMSiRlAPg) | [DiaZero](https://open.spotify.com/artist/7o5pN1XmIndmtyoBGNJ1Fa) | [Time Slips Away](https://open.spotify.com/album/3C8elZHA5p4Y4eLZbBO9NM) | 4:10 | 2025-10-26 |  |
+| [Tiny Soldiers on a Cheese Cake \- Live from Nowhere](https://open.spotify.com/track/18HT52ua8Cp8kXBARmnTV6) | [Riccardo Cantarelli](https://open.spotify.com/artist/58JQ6umDec53Xhx0yJz2Wf) | [Tiny Soldiers on a Cheese Cake](https://open.spotify.com/album/4GCk3PEIVm3CnwGJEtL2qa) | 4:11 | 2026-05-05 |  |
 | [Tiny Speck](https://open.spotify.com/track/6kPjfKphSOuffaeXzGRBZN) | [The Foxholes](https://open.spotify.com/artist/24IuJuUEzisrkHQSvpzlE2) | [Un Mal Menor](https://open.spotify.com/album/2YVnJHNShcNAkedJq4GJl3) | 3:26 | 2025-07-27 |  |
 | [TNT in My Brain](https://open.spotify.com/track/5IrwtZ7gmlW98mvLaTLUp8) | [Komadub](https://open.spotify.com/artist/5QSz1eRMvZIAkvBATsz4ob), [Alphadub](https://open.spotify.com/artist/2ggOeqoxpNZiuvQMNHXGtJ) | [Do Good](https://open.spotify.com/album/7zuEb5FEYogyGK6Ntjh2XE) | 4:15 | 2024-03-25 |  |
 | [To Myself](https://open.spotify.com/track/1Lcd50j95y2ChgX9epkKTf) | [OOTEBS](https://open.spotify.com/artist/6mjlNdKlY7hTXXLKRhc0dU) | [To Myself](https://open.spotify.com/album/5CI2FtvvwlG7ELXAmS0MvC) | 2:36 | 2025-10-31 |  |

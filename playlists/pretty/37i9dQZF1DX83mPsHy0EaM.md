@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83mPsHy0EaM.md) - [plain]
 
 > Let's rewind to the OPM Rock Hits\. Music videos available for Spotify premium subscribers! Cover: Ely Buendia
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,182 likes - 20 songs - 1 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,237 likes - 20 songs - 1 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

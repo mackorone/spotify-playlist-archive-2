@@ -1,12 +1,12 @@
 {
   "description": "Get ready to these songs that'll make you feel like you're the QUEEEEN! \nCover : Sreeleela",
-  "num_followers": 60800,
+  "num_followers": 60833,
   "original_name": "#GRWM Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPw4zc53tJDbmQtjnMLmaXfC/PDF",
+  "snapshot_id": "AAAAAFGZj5Lj87shWDkSv6N3JX1kaN0Z",
   "tracks": [
     {
       "added_at": "2026-04-01 13:34:11",
@@ -709,22 +709,6 @@
       "url": "https://open.spotify.com/track/4NugyVw9Of2Z4uyBXf33tX"
     },
     {
-      "added_at": "2022-10-13 05:39:22",
-      "album": {
-        "name": "Parugu",
-        "url": "https://open.spotify.com/album/7eJXTAO0qIPduGIE4Pqk5C"
-      },
-      "artists": [
-        {
-          "name": "Saketh Naidu",
-          "url": "https://open.spotify.com/artist/6Xwwyea7gPu9LG0nWWHg0v"
-        }
-      ],
-      "duration_ms": 286639,
-      "name": "Nammavemo",
-      "url": "https://open.spotify.com/track/5DN8dF1Q0K8G6pgCQjqVvF"
-    },
-    {
       "added_at": "2023-02-02 11:15:02",
       "album": {
         "name": "Govindudu Andarivaadele",
@@ -739,22 +723,6 @@
       "duration_ms": 264000,
       "name": "Gulabi Kallu Rendu Mullu",
       "url": "https://open.spotify.com/track/7Kd2C4NcmMRk0N7M3LRvLS"
-    },
-    {
-      "added_at": "2022-10-13 05:39:22",
-      "album": {
-        "name": "Nuvvostanante Nenoddantana",
-        "url": "https://open.spotify.com/album/5I3dEH9cXdYmo8MVIdOkxO"
-      },
-      "artists": [
-        {
-          "name": "Shankar Mahadevan",
-          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
-        }
-      ],
-      "duration_ms": 255292,
-      "name": "Chandrullo Unde",
-      "url": "https://open.spotify.com/track/4b4xkbpRpA8jHbP8GVLYWR"
     },
     {
       "added_at": "2022-10-13 05:39:22",
@@ -775,6 +743,38 @@
       "duration_ms": 415503,
       "name": "Poovullo Daagunna",
       "url": "https://open.spotify.com/track/4M8dRVFWKMfh7hPzGCYxra"
+    },
+    {
+      "added_at": "2022-10-13 05:39:22",
+      "album": {
+        "name": "Nuvvostanante Nenoddantana",
+        "url": "https://open.spotify.com/album/5I3dEH9cXdYmo8MVIdOkxO"
+      },
+      "artists": [
+        {
+          "name": "Shankar Mahadevan",
+          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
+        }
+      ],
+      "duration_ms": 255292,
+      "name": "Chandrullo Unde",
+      "url": "https://open.spotify.com/track/4b4xkbpRpA8jHbP8GVLYWR"
+    },
+    {
+      "added_at": "2022-10-13 05:39:22",
+      "album": {
+        "name": "Parugu",
+        "url": "https://open.spotify.com/album/7eJXTAO0qIPduGIE4Pqk5C"
+      },
+      "artists": [
+        {
+          "name": "Saketh Naidu",
+          "url": "https://open.spotify.com/artist/6Xwwyea7gPu9LG0nWWHg0v"
+        }
+      ],
+      "duration_ms": 286639,
+      "name": "Nammavemo",
+      "url": "https://open.spotify.com/track/5DN8dF1Q0K8G6pgCQjqVvF"
     },
     {
       "added_at": "2022-10-13 05:39:22",

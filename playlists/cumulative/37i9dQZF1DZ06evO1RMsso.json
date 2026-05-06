@@ -478,7 +478,7 @@
       ],
       "date_added": "2025-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 532706,
       "name": "Journey To The Island",
       "url": "https://open.spotify.com/track/0QCvok3TPhk7JhQF0gYmBw"
@@ -514,7 +514,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-21",
+      "date_removed": null,
       "duration_ms": 121440,
       "name": "Kylo Ren Arrives at the Battle",
       "url": "https://open.spotify.com/track/4iMmW8NcVFU5ytJkHa6IbA"
@@ -536,6 +536,28 @@
       "duration_ms": 133573,
       "name": "Leaving Hogwarts",
       "url": "https://open.spotify.com/track/15yScQGLH5QOuXm9XbhnPb"
+    },
+    {
+      "album": {
+        "name": "Star Wars: Attack of the Clones (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4RSVY5851aNeCttrDpdj7A"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 510186,
+      "name": "Love Pledge and the Arena",
+      "url": "https://open.spotify.com/track/45DuBzsgfiterhMTTsewpH"
     },
     {
       "album": {

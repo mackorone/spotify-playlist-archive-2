@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。A Collection of Songs by Japanese Women Vocalists\.  cover: MoMo
 
-3,770 songs - 10 day 0 hr 7 min
+3,772 songs - 10 day 0 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1360,6 +1360,7 @@
 | [ohayo\-gozaimasu](https://open.spotify.com/track/7o4hJFL3HpWLOk8oHry12b) | [lecca](https://open.spotify.com/artist/0IeQisXdixzRUBpYSxQJDu) | [ohayo\-gozaimasu](https://open.spotify.com/album/3zrgpk7dFCf4QKjOQusoDj) | 3:17 | 2023-07-11 | 2023-07-19 |
 | [ohhh!](https://open.spotify.com/track/6QnhQ4DMD2GcQ3b1N6eeJa) | [Chara](https://open.spotify.com/artist/2v3eFzDOUnyWP1drW2dPTp) | [ohhh!](https://open.spotify.com/album/3D4Y8HjCtnKoSBeEhcXshA) | 3:40 | 2023-06-06 | 2023-07-05 |
 | [OK](https://open.spotify.com/track/6aQodoR5W5mnGGvGpWPH9l) | [Sakura Fujiwara](https://open.spotify.com/artist/5tvnQkP9zNAqYW2YKYk1Et) | [OK](https://open.spotify.com/album/2qUZYHZL8wIABuv5OOcA9Q) | 3:03 | 2025-12-23 | 2026-02-18 |
+| [OK! GO!](https://open.spotify.com/track/61OAIwTrH9C5oITjPOkrCD) | [ayaka](https://open.spotify.com/artist/22FsmLO3ZyvgWBy5QbfcQi) | [OK! GO!](https://open.spotify.com/album/1cXPneXLMQLpz1ScS3VQmY) | 3:35 | 2026-05-05 |  |
 | [OKASHi NA DEAi](https://open.spotify.com/track/1G0ZZ3vKImarwxWFwf9wHD) | [フレンズ](https://open.spotify.com/artist/7I045Ct8xfI1QlSYq4XuBh) | [OKASHi NA DEAi](https://open.spotify.com/album/6XtHOEb6BZHR6WUnylSUQz) | 4:07 | 2023-04-18 | 2023-05-10 |
 | [OKAY](https://open.spotify.com/track/2kZ9uyjybOCfmjnzjJfDZd) | [SUNNY YAMAMOTO](https://open.spotify.com/artist/2nobHJsAQCxBD7cFq4XIsj), [yuzuna](https://open.spotify.com/artist/6mvgiewb7uH8l4qlSuFIgh) | [OKAY](https://open.spotify.com/album/3Untl8deaO2sePXF3GPZDT) | 3:16 | 2024-05-28 | 2024-06-05 |
 | [Okay](https://open.spotify.com/track/2KNNI7uuMdjTvlAHlDezID) | [UA](https://open.spotify.com/artist/43XHGbWVe5qKVCuI0HMep0) | [Are U Romantic?](https://open.spotify.com/album/7mDjC27mmAVS3mnrPUjgZS) | 4:16 | 2022-05-29 | 2022-06-01 |
@@ -2184,7 +2185,7 @@
 | [Zinnia](https://open.spotify.com/track/1yHcyNZMzLW6aRG9jMTJ52) | [CENT](https://open.spotify.com/artist/6XoPPVd3Cqm3yXoZAdn8ms) | [Zinnia](https://open.spotify.com/album/5UfVCGfL5jwPGGviRbwOv4) | 4:20 | 2025-01-07 | 2025-01-15 |
 | [zoo](https://open.spotify.com/track/1lWajrL6NoG6ZDEtdWdhBN) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [zoo](https://open.spotify.com/album/5B5PoyeYH7Tep7UFdKik1a) | 2:39 | 2023-12-05 | 2024-01-09 |
 | [Zutto Sobade Mimamotteiruyo](https://open.spotify.com/track/7G1ceuGVkXK6SrVxUGOabw) | [Hitomi Yaida](https://open.spotify.com/artist/4Xho9HlopbIH2VpxfDkVXn) | [Zutto Sobade Mimamotteiruyo](https://open.spotify.com/album/4Yc32RuQzuwylAjCnmmYOa) | 3:59 | 2022-09-06 | 2022-09-09 |
-| [Água de Beber](https://open.spotify.com/track/0udVW76Es96emCsJ834ZJr) | [Lisa Ono](https://open.spotify.com/artist/4WJ4FSFiEsJbK4SpGi4w1k) | [Água de Beber](https://open.spotify.com/album/3HNX3RRr6M3Az3AosGxuYX) | 4:11 | 2026-02-24 |  |
+| [Água de Beber](https://open.spotify.com/track/0udVW76Es96emCsJ834ZJr) | [Lisa Ono](https://open.spotify.com/artist/4WJ4FSFiEsJbK4SpGi4w1k) | [Água de Beber](https://open.spotify.com/album/3HNX3RRr6M3Az3AosGxuYX) | 4:11 | 2026-02-24 | 2026-05-06 |
 | [étoile](https://open.spotify.com/track/4tNJEcWkXQQDes9P7cdNwA) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [風に乗る](https://open.spotify.com/album/756umARKInXvcyVNY1fq4p) | 3:26 | 2026-03-17 |  |
 | [√\-1](https://open.spotify.com/track/7kBXeppBRSa8YVGCg6Uq3k) | [Natsuko Nisshoku](https://open.spotify.com/artist/4GnFg9D7Ds99UI0r5t9PZK) | [ミメーシス](https://open.spotify.com/album/6Hmg8fviJ3BmaYjHMIhOTY) | 3:22 | 2022-06-07 | 2022-07-25 |
 | [∞](https://open.spotify.com/track/6ZrX2IRdkDrYwLT2uwnllG) | [HACHI](https://open.spotify.com/artist/2ksMoRs5T9ErEe5H7gxv7C) | [∞](https://open.spotify.com/album/43tk1aJAbtbnlIPDtrKIJ9) | 3:57 | 2026-01-20 | 2026-04-01 |
@@ -3009,6 +3010,7 @@
 | [十七の詩](https://open.spotify.com/track/3cYEqvsdMhdACgUQD2kKET) | [友利 あゆ](https://open.spotify.com/artist/6XEP7fsojbvnXpk8G7qE8r) | [十七の詩](https://open.spotify.com/album/3dpI1abWoyCI7PYVW9Q0mN) | 4:40 | 2025-02-04 | 2025-02-12 |
 | [十字路に立つ](https://open.spotify.com/track/5UgmUHaao6b2QwcDV5tBaw) | [HARUKATOMIYUKI](https://open.spotify.com/artist/6NEfWGRmyUfFmRTzlfWUWl) | [十字路に立つ](https://open.spotify.com/album/4XqRzPApAFVEyJblH6GCcs) | 4:18 | 2022-11-23 | 2023-01-25 |
 | [千鳥](https://open.spotify.com/track/61uep4aDBpNnnFGfm6yzUF) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [二人称](https://open.spotify.com/album/0eYZtVRBgZDpEibSKVri8P) | 4:12 | 2026-03-03 |  |
+| [午前四時](https://open.spotify.com/track/0wQdYrJT00p7OKoUiBZZaW) | [KOMAGOME](https://open.spotify.com/artist/4yi7xi9fRysQclHSMAkQpY) | [午前四時](https://open.spotify.com/album/6toxmIPqcXIB1qmlbBdSVL) | 3:07 | 2026-05-05 |  |
 | [卑弥呼](https://open.spotify.com/track/3TEVu2fI0WZJmug0xuY6PP) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [ネオン](https://open.spotify.com/album/4tlqOW9ThwLtEBHPLWD27C) | 3:07 | 2022-05-29 | 2022-08-20 |
 | [卒業](https://open.spotify.com/track/0hYCof6amQzAcKAqNUp4wR) | [Regal Lily](https://open.spotify.com/artist/75eQ7NabzgaaUYcrqSY0FK) | [卒業](https://open.spotify.com/album/4wiaREGxvMVJVrXhm0qrst) | 4:24 | 2025-02-04 | 2025-02-19 |
 | [卒業写真](https://open.spotify.com/track/1H2g5KkF6b4V0nmJ35xzKa) | [JUJU](https://open.spotify.com/artist/5VLVogbPeBgFHXQPZQzBej) | [卒業写真](https://open.spotify.com/album/25qpu2qyXCVcEBdwbjXpDc) | 4:21 | 2022-05-29 | 2022-07-26 |
@@ -3438,7 +3440,7 @@
 | [淡雪](https://open.spotify.com/track/4MtS7gCstq3BrVINPW444c) | [Blu\-Swing](https://open.spotify.com/artist/3dKCIyXK94LWUnyvD8LepD) | [淡雪](https://open.spotify.com/album/2RIcS21eGsyF3OhWgKFbYW) | 3:22 | 2025-05-21 | 2025-05-28 |
 | [渚のアンラッキーボーイズ](https://open.spotify.com/track/5bkLoZFiC5ZeGxrxfIS5EM) | [Natsu Summer](https://open.spotify.com/artist/4l3pCmSMjqdSkhWUZp6jCD), [流線形](https://open.spotify.com/artist/1gBNLiQMaCcBdQ9fIP4ltM) | [渚のアンラッキーボーイズ](https://open.spotify.com/album/1xFfuM57uda9hb7wMizQPS) | 5:21 | 2022-05-29 | 2022-06-01 |
 | [渦 \(neon\)](https://open.spotify.com/track/3Fis4bk5TSHQ9yupVAI1IB) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [neon](https://open.spotify.com/album/6MFq8UGpeyZW8dxFR6PNMp) | 5:13 | 2022-06-14 | 2022-07-19 |
-| [温度と一部](https://open.spotify.com/track/0HNUvAmscgfyIMyQfsZn5x) | [エルスウェア紀行](https://open.spotify.com/artist/6lWxoCU3pEVd1k3QuP2HVb) | [ghost walk e.p.](https://open.spotify.com/album/5TJTOPc0NuRLPCNs9fBuqj) | 3:57 | 2026-03-03 |  |
+| [温度と一部](https://open.spotify.com/track/0HNUvAmscgfyIMyQfsZn5x) | [エルスウェア紀行](https://open.spotify.com/artist/6lWxoCU3pEVd1k3QuP2HVb) | [ghost walk e.p.](https://open.spotify.com/album/5TJTOPc0NuRLPCNs9fBuqj) | 3:57 | 2026-03-03 | 2026-05-06 |
 | [溶愛](https://open.spotify.com/track/18gSUw02jJnLiCzbB8ayFO) | [透花。](https://open.spotify.com/artist/6JKgk9U7uueLjmXyQ9QYXE) | [溶愛](https://open.spotify.com/album/4mJfNVOjMxW9dxY6GT3ggc) | 3:49 | 2022-05-31 | 2022-06-01 |
 | [漂流教室](https://open.spotify.com/track/3de6nOtyZc1KGPL4yITXiV) | [宮本沙也佳](https://open.spotify.com/artist/7fpqf4zJPZiobNSMbCmTo7) | [ギター弾き語り10番勝負](https://open.spotify.com/album/5RHHOfQlPEBUgB1EVrMm5g) | 2:32 | 2023-11-21 | 2023-11-29 |
 | [潮風](https://open.spotify.com/track/1aX7o9KQGvj0ogr2esJktT) | [浦小雪](https://open.spotify.com/artist/5PHZ4PVOsKViz2yF868wUP) | [潮風](https://open.spotify.com/album/4XkrdSm52HgNHCzDv2o9UN) | 4:01 | 2023-06-06 | 2023-06-14 |

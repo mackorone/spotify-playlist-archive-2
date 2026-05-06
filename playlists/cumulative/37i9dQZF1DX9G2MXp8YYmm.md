@@ -4,7 +4,7 @@
 
 > Pop'un sevilen isimleri\. Kapak: Zerrin Özer
 
-577 songs - 1 day 5 hr 18 min
+578 songs - 1 day 5 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -306,7 +306,7 @@
 | [Karıştırıcam O Uykularını](https://open.spotify.com/track/7uUtowgQK3CVBN4BFvWRJp) | [Demet Akalın](https://open.spotify.com/artist/1U449OOb70EZlElNjLMwCM) | [Karıştırıcam O Uykularını](https://open.spotify.com/album/7mXPzLgQeTzUsw4c7RySNy) | 3:07 | 2024-06-27 | 2024-12-18 |
 | [Kasım Yağmurları](https://open.spotify.com/track/0ZWcAIUTkccr5aPVDUwXeB) | [Kalben](https://open.spotify.com/artist/4sldxVDeyb0J8OMoYApqfV) | [Kasım Yağmurları](https://open.spotify.com/album/3kfJ6gODA7UPqZqc8Fz8Mi) | 3:51 | 2025-11-13 | 2025-12-04 |
 | [Katilime Aşıktım](https://open.spotify.com/track/1Okel22j5wxQ08BJtdIXGm) | [Mehmet Elmas](https://open.spotify.com/artist/10BA29Asr9YbvkcBFJixDb) | [Katilime Aşıktım](https://open.spotify.com/album/3o1EIMxZ3Xaec4AqFRnadQ) | 2:15 | 2025-04-03 | 2025-06-15 |
-| [Kayboldum Masalında](https://open.spotify.com/track/1BpEKaFPwQY2KtoDQawpt2) | [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn), [Mabel Matiz](https://open.spotify.com/artist/1dpqJqIuNqideTvmxBsSku) | [Kayboldum Masalında](https://open.spotify.com/album/7M2QsyKsuRE2We8pTa2oEc) | 4:15 | 2025-05-29 |  |
+| [Kayboldum Masalında](https://open.spotify.com/track/1BpEKaFPwQY2KtoDQawpt2) | [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn), [Mabel Matiz](https://open.spotify.com/artist/1dpqJqIuNqideTvmxBsSku) | [Kayboldum Masalında](https://open.spotify.com/album/7M2QsyKsuRE2We8pTa2oEc) | 4:15 | 2025-05-29 | 2026-05-06 |
 | [Kaybolsam](https://open.spotify.com/track/3Qr4C2suSijySxbehezuNB) | [Berkay Altunyay](https://open.spotify.com/artist/7DDrfx7EEOeHSZUkpTIn59) | [Kaybolsam](https://open.spotify.com/album/6Yo1LuAKJTzBZJxNdPQ4dv) | 1:40 | 2025-09-25 | 2025-10-10 |
 | [Kaç Kez Öldüm?](https://open.spotify.com/track/4tXNPXBd4nzSi99XDqSjA8) | [Paptircem](https://open.spotify.com/artist/6c5OFegHscPZXitA884R1b) | [Kaç Kez Öldüm?](https://open.spotify.com/album/0sPKsSl0p5igQFbppBng3t) | 3:34 | 2025-10-09 | 2025-10-24 |
 | [Kaçak Göçek](https://open.spotify.com/track/4y0kg2hqDbEG04NevUqNPF) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ) | [Kaçak Göçek](https://open.spotify.com/album/5ckK7xIaAG6ZYxxdS6Emi5) | 3:43 | 2024-09-05 | 2025-07-29 |
@@ -536,6 +536,7 @@
 | [Yine Ölmem](https://open.spotify.com/track/0u14UiZ4t76LhOU1D16Xmc) | [Hande Ünsal](https://open.spotify.com/artist/6YapGsI8u59kfewJjjJ2LJ) | [Yine Ölmem](https://open.spotify.com/album/0kflPDxezDaMTQ18WonlXA) | 1:38 | 2024-12-19 | 2025-02-09 |
 | [Yo](https://open.spotify.com/track/5ikFGOKtCdl9YC2xJh9hho) | [Tarkan](https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k) | [Kuantum 51](https://open.spotify.com/album/7jra0F6rSOJ36HIsTmwFfC) | 3:45 | 2024-06-27 | 2024-11-15 |
 | [Yok Başka Hayalim](https://open.spotify.com/track/6VDMOQPxx7JTv82AAZ83RZ) | [Tan Taşçı](https://open.spotify.com/artist/2rNgr1pkSDfxQTYhqCT45D) | [Yok Başka Hayalim](https://open.spotify.com/album/2pZkhpw70j61o5uAkDnaBn) | 5:11 | 2025-01-09 | 2026-04-10 |
+| [Yok Öyle Bir Dünya](https://open.spotify.com/track/6crqBm4GlneFo96LjG39A0) | [Derya Bedavacı](https://open.spotify.com/artist/6eBKQVpzyvlMoQaR7buvX8) | [Yok Öyle Bir Dünya](https://open.spotify.com/album/1H0zEr5hpQLheRJBsVjUq9) | 3:15 | 2026-05-01 |  |
 | [Yokluğun Dokunmadı Bana](https://open.spotify.com/track/7g57EJTfSuKO6kfn4MJxCI) | [Sertab Erener](https://open.spotify.com/artist/4W31XN2JH8mC54NkHdh04s) | [Yokluğun Dokunmadı Bana](https://open.spotify.com/album/1ntIzqcXLSDu9ykdMFtAzY) | 4:21 | 2025-02-20 | 2025-04-06 |
 | [Yoksun](https://open.spotify.com/track/0Rb3Zf4wemUX45NNoo5H0L) | [Ebru Yaşar](https://open.spotify.com/artist/0Qbd0AGWuzggX61s306wZN), [Siyam](https://open.spotify.com/artist/20VUzeHAjxKUEJuXT6EiMo) | [Yoksun](https://open.spotify.com/album/5l3AhfIKrcdqJiYUMySwNb) | 2:16 | 2024-06-27 | 2024-09-13 |
 | [Yolda Bıraktın](https://open.spotify.com/track/4kJEvIxJy5I3E3dxjVsXwy) | [Mela Bedel](https://open.spotify.com/artist/55WpZ8ig2SFNvQpDHPUrgY) | [Yolda Bıraktın](https://open.spotify.com/album/4ITjljaGAy5MquOHlULvh0) | 3:08 | 2026-02-26 |  |

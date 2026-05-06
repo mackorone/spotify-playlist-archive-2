@@ -8713,6 +8713,24 @@
     },
     {
       "album": {
+        "name": "Born In The Echoes",
+        "url": "https://open.spotify.com/album/3XUVUh6hisN43r2eZAOJRD"
+      },
+      "artists": [
+        {
+          "name": "The Chemical Brothers",
+          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260696,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/2Xhd1kYKj2aee7JR3nIlRe"
+    },
+    {
+      "album": {
         "name": "Ego Trippin'",
         "url": "https://open.spotify.com/album/5VvZWtDFBXYldTujOYb5xG"
       },
@@ -20085,6 +20103,24 @@
     },
     {
       "album": {
+        "name": "Stake",
+        "url": "https://open.spotify.com/album/3uWePNZOEP3onhZ2cdumeg"
+      },
+      "artists": [
+        {
+          "name": "StaJe",
+          "url": "https://open.spotify.com/artist/5SeXFc1f3INXLRq7TiyYlS"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101880,
+      "name": "Stake",
+      "url": "https://open.spotify.com/track/5KixcD6puS5z74OuurTnar"
+    },
+    {
+      "album": {
         "name": "very sorrow days",
         "url": "https://open.spotify.com/album/5gjjoo5iGYywpQ5eu5LD1m"
       },
@@ -26772,7 +26808,7 @@
       ],
       "date_added": "2025-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 150583,
       "name": "\u0412\u0440\u0443\u0431\u0430\u0439",
       "url": "https://open.spotify.com/track/4w4qGjcvOgsYRyO4x9Ci0U"
@@ -27660,7 +27696,7 @@
       ],
       "date_added": "2025-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 177000,
       "name": "\u0413\u0440\u0443\u0448\u043a\u0430",
       "url": "https://open.spotify.com/track/3nGKzV2k4C3BcbLxeydqHr"
@@ -30634,7 +30670,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 144235,
       "name": "\u041a\u0430\u0441\u0435\u0442\u0430",
       "url": "https://open.spotify.com/track/4MQmxIxM5CXKjdq4IrCWhd"
@@ -38656,6 +38692,24 @@
       "duration_ms": 151807,
       "name": "\u0422\u0430\u043c \u0433\u0434\u0435 \u044f",
       "url": "https://open.spotify.com/track/7qx0R3fTXITFGaMqhEwVgH"
+    },
+    {
+      "album": {
+        "name": "\u0423\u043b\u0438\u0446\u0430 \u211664",
+        "url": "https://open.spotify.com/album/4NtNZDObaIhcBxYUQRY1cc"
+      },
+      "artists": [
+        {
+          "name": "\u043b\u0438\u043b \u043a\u0438\u0434\u0434",
+          "url": "https://open.spotify.com/artist/3Z2vHWmx7ie1caAJwz2QtN"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115041,
+      "name": "\u0422\u0430\u043c\u0430\u0433\u043e\u0447\u0438",
+      "url": "https://open.spotify.com/track/24nvAx6G5mU000yIZ95JSp"
     },
     {
       "album": {

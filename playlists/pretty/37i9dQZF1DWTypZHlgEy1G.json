@@ -1,6 +1,6 @@
 {
   "description": "Le patrimoine de la chanson fran\u00e7aise. Photo : \u00c9dith Piaf",
-  "num_followers": 533576,
+  "num_followers": 533568,
   "original_name": "Standards de la Chanson Fran\u00e7aise",
   "owner": {
     "name": "Spotify",
@@ -235,18 +235,18 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
-        "name": "Dave",
-        "url": "https://open.spotify.com/album/7n5DNjnkerFIrz6PXleX7o"
+        "name": "En Vogue",
+        "url": "https://open.spotify.com/album/2nGL73TqdduRKepdcwJvdm"
       },
       "artists": [
         {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/39Fh4OTce0hxKCiuyB21dg"
+          "name": "Jacques Dutronc",
+          "url": "https://open.spotify.com/artist/3ayds6VIVBx3CU5NSNCDbq"
         }
       ],
-      "duration_ms": 180200,
-      "name": "Du c\u00f4te de chez Swann",
-      "url": "https://open.spotify.com/track/5vuh4FAd5apHmhD85XJOyH"
+      "duration_ms": 177946,
+      "name": "J'aime les filles",
+      "url": "https://open.spotify.com/track/196fYCjVMKAQb8uwOWxpUo"
     },
     {
       "added_at": "2024-07-25 13:22:22",
@@ -267,18 +267,18 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
-        "name": "En Vogue",
-        "url": "https://open.spotify.com/album/2nGL73TqdduRKepdcwJvdm"
+        "name": "La Montagne",
+        "url": "https://open.spotify.com/album/4VG6Utj03XZ26BnoCH8C0P"
       },
       "artists": [
         {
-          "name": "Jacques Dutronc",
-          "url": "https://open.spotify.com/artist/3ayds6VIVBx3CU5NSNCDbq"
+          "name": "Jean Ferrat",
+          "url": "https://open.spotify.com/artist/4GAdDePOvBsOl3n3nVHWpt"
         }
       ],
-      "duration_ms": 177946,
-      "name": "J'aime les filles",
-      "url": "https://open.spotify.com/track/196fYCjVMKAQb8uwOWxpUo"
+      "duration_ms": 184813,
+      "name": "La montagne",
+      "url": "https://open.spotify.com/track/1IsYgxPzYd4cBB2qMGZ1mG"
     },
     {
       "added_at": "2024-07-25 13:22:22",
@@ -299,18 +299,18 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
-        "name": "La Montagne",
-        "url": "https://open.spotify.com/album/4VG6Utj03XZ26BnoCH8C0P"
+        "name": "Dave",
+        "url": "https://open.spotify.com/album/7n5DNjnkerFIrz6PXleX7o"
       },
       "artists": [
         {
-          "name": "Jean Ferrat",
-          "url": "https://open.spotify.com/artist/4GAdDePOvBsOl3n3nVHWpt"
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/39Fh4OTce0hxKCiuyB21dg"
         }
       ],
-      "duration_ms": 184813,
-      "name": "La montagne",
-      "url": "https://open.spotify.com/track/1IsYgxPzYd4cBB2qMGZ1mG"
+      "duration_ms": 180200,
+      "name": "Du c\u00f4te de chez Swann",
+      "url": "https://open.spotify.com/track/5vuh4FAd5apHmhD85XJOyH"
     },
     {
       "added_at": "2024-07-25 13:22:22",
@@ -523,22 +523,6 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
-        "name": "Forever Dalida",
-        "url": "https://open.spotify.com/album/5x57Ce1LSOrBpOeOSecDqa"
-      },
-      "artists": [
-        {
-          "name": "Dalida",
-          "url": "https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig"
-        }
-      ],
-      "duration_ms": 175026,
-      "name": "Il venait d'avoir 18 ans",
-      "url": "https://open.spotify.com/track/1S39BVV8IFikZtlmPjchBd"
-    },
-    {
-      "added_at": "2024-07-25 13:22:22",
-      "album": {
         "name": "Edith Piaf - The Best Of",
         "url": "https://open.spotify.com/album/6I2DFKuP1jIsibWllFGY3Q"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 162226,
       "name": "Paris",
       "url": "https://open.spotify.com/track/2ALK3U3XsDzz85bynK1hnt"
+    },
+    {
+      "added_at": "2024-07-25 13:22:22",
+      "album": {
+        "name": "Forever Dalida",
+        "url": "https://open.spotify.com/album/5x57Ce1LSOrBpOeOSecDqa"
+      },
+      "artists": [
+        {
+          "name": "Dalida",
+          "url": "https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig"
+        }
+      ],
+      "duration_ms": 175026,
+      "name": "Il venait d'avoir 18 ans",
+      "url": "https://open.spotify.com/track/1S39BVV8IFikZtlmPjchBd"
     },
     {
       "added_at": "2024-07-25 13:22:22",
@@ -603,22 +603,6 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
-        "name": "Yves Montand",
-        "url": "https://open.spotify.com/album/41hNqtbMJTaTYCIq6W0571"
-      },
-      "artists": [
-        {
-          "name": "Yves Montand",
-          "url": "https://open.spotify.com/artist/5ru2x3pjrNn67D22BRwlFP"
-        }
-      ],
-      "duration_ms": 176200,
-      "name": "Sous le ciel de Paris",
-      "url": "https://open.spotify.com/track/7A3JZum5yfNq9I3TtFVMMt"
-    },
-    {
-      "added_at": "2024-07-25 13:22:22",
-      "album": {
         "name": "Fr\u00e9hel [Collection disques Path\u00e9]",
         "url": "https://open.spotify.com/album/4ikZGhHqdMf24sWQA4v4UI"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 165893,
       "name": "La java bleue",
       "url": "https://open.spotify.com/track/1vveZRFXBiFrnO4wUpgArq"
+    },
+    {
+      "added_at": "2024-07-25 13:22:22",
+      "album": {
+        "name": "Yves Montand",
+        "url": "https://open.spotify.com/album/41hNqtbMJTaTYCIq6W0571"
+      },
+      "artists": [
+        {
+          "name": "Yves Montand",
+          "url": "https://open.spotify.com/artist/5ru2x3pjrNn67D22BRwlFP"
+        }
+      ],
+      "duration_ms": 176200,
+      "name": "Sous le ciel de Paris",
+      "url": "https://open.spotify.com/track/7A3JZum5yfNq9I3TtFVMMt"
     },
     {
       "added_at": "2024-07-25 13:22:22",
@@ -683,22 +683,6 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
-        "name": "Ferrat Chante Aragon: L'int\u00e9grale",
-        "url": "https://open.spotify.com/album/1zRWFeLiYxPW48gefbBpV5"
-      },
-      "artists": [
-        {
-          "name": "Jean Ferrat",
-          "url": "https://open.spotify.com/artist/4GAdDePOvBsOl3n3nVHWpt"
-        }
-      ],
-      "duration_ms": 143026,
-      "name": "Aimer \u00e0 perdre la raison",
-      "url": "https://open.spotify.com/track/5okI57GiUG0innS360o2bH"
-    },
-    {
-      "added_at": "2024-07-25 13:22:22",
-      "album": {
         "name": "Edition 60e anniversaire",
         "url": "https://open.spotify.com/album/50RvSoNqk5x7zFROrImpIL"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 159746,
       "name": "Et maintenant (Version 1966) - Remasteris\u00e9 en 2011",
       "url": "https://open.spotify.com/track/5z3LJpwfI91bj3ogU8l0sk"
+    },
+    {
+      "added_at": "2024-07-25 13:22:22",
+      "album": {
+        "name": "Ferrat Chante Aragon: L'int\u00e9grale",
+        "url": "https://open.spotify.com/album/1zRWFeLiYxPW48gefbBpV5"
+      },
+      "artists": [
+        {
+          "name": "Jean Ferrat",
+          "url": "https://open.spotify.com/artist/4GAdDePOvBsOl3n3nVHWpt"
+        }
+      ],
+      "duration_ms": 143026,
+      "name": "Aimer \u00e0 perdre la raison",
+      "url": "https://open.spotify.com/track/5okI57GiUG0innS360o2bH"
     },
     {
       "added_at": "2024-07-25 13:22:22",
@@ -1000,9 +1000,9 @@
           "url": "https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT"
         }
       ],
-      "duration_ms": 212200,
-      "name": "Emmenez Moi",
-      "url": "https://open.spotify.com/track/7A0piuknKPVbFtf9gxI6le"
+      "duration_ms": 140826,
+      "name": "Hier encore",
+      "url": "https://open.spotify.com/track/0DXyFek0JfbNE34s2u2bDD"
     },
     {
       "added_at": "2024-07-25 13:22:22",
@@ -1080,9 +1080,9 @@
           "url": "https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT"
         }
       ],
-      "duration_ms": 140826,
-      "name": "Hier encore",
-      "url": "https://open.spotify.com/track/0DXyFek0JfbNE34s2u2bDD"
+      "duration_ms": 212200,
+      "name": "Emmenez Moi",
+      "url": "https://open.spotify.com/track/7A0piuknKPVbFtf9gxI6le"
     },
     {
       "added_at": "2024-07-25 13:22:22",

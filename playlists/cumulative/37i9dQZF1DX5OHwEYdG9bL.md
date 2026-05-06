@@ -4,7 +4,7 @@
 
 > 뮤직비디오 기능이 지원되는 노래들을 플레이리스트로 즐겨보세요! \(Cover: CORTIS\) \(Enjoy a playlist of songs that support music video features!\)
 
-217 songs - 11 hr 59 min
+218 songs - 12 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,6 +197,7 @@
 | [THUNDER](https://open.spotify.com/track/4S9OkX4V06u1dnr9aT5Cea) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [THUNDER](https://open.spotify.com/album/1RXgOXRdYXozyHD2RTCCKu) | 3:05 | 2025-07-15 |  |
 | [Tick\-Tack](https://open.spotify.com/track/5oedjtQyoPTEJhUnHTguBz) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Tick\-Tack](https://open.spotify.com/album/6Jk6wX6HHfenDr1OlEaJAO) | 2:56 | 2025-07-15 | 2025-08-20 |
 | [TNT](https://open.spotify.com/track/6Lk7XYiqOGSuhqRknpABRd) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [TNT](https://open.spotify.com/album/69TADlEQFDfRHjrvqypxdC) | 3:00 | 2026-05-04 |  |
+| [TNT \(Conceptual Performance Film\)](https://open.spotify.com/track/6IlTq3fsXD37YdX95Cca9a) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [TNT \(Conceptual Performance Film\)](https://open.spotify.com/album/09XVwkKFGFWxWDFClHoDXD) | 2:04 | 2026-05-04 |  |
 | [TOO BAD \(feat\. Anderson .Paak\)](https://open.spotify.com/track/0vG5TNf1YGMTtqgaVw04Oc) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [TOO BAD](https://open.spotify.com/album/7rZRKrdT6HJ4rvSxeRLF2w) | 2:39 | 2025-07-15 | 2025-08-20 |
 | [TOUGH LOVE](https://open.spotify.com/track/7r8rcxbKcAE5EAb4lvrMPS) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo) | [TOUGH LOVE](https://open.spotify.com/album/4rDmV4gUqWCfJBnA88Rb8o) | 3:37 | 2026-03-20 |  |
 | [TOXIC](https://open.spotify.com/track/3eXhM2BpZx3vL9yFIl69El) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [TOXIC](https://open.spotify.com/album/7gGo6eHRpn6hwkU2NIB6KQ) | 3:14 | 2025-07-15 | 2025-08-20 |

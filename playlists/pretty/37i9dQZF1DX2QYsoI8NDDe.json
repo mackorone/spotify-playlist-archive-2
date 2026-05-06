@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la M\u00fasica Mexicana. Cover: Chayito Valdez Hija \ud83d\udd25",
-  "num_followers": 580345,
+  "num_followers": 580337,
   "original_name": "Women of M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
@@ -339,6 +339,26 @@
     {
       "added_at": "2026-05-02 16:51:19",
       "album": {
+        "name": "Hazy x Ti",
+        "url": "https://open.spotify.com/album/3MuYnh1VWMP2ZPIdbbsMCh"
+      },
+      "artists": [
+        {
+          "name": "Loreto",
+          "url": "https://open.spotify.com/artist/3CIaj6zebZCp6FUdl4SBHh"
+        },
+        {
+          "name": "Las Mar\u00edas",
+          "url": "https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w"
+        }
+      ],
+      "duration_ms": 213749,
+      "name": "Hazy x Ti",
+      "url": "https://open.spotify.com/track/32PH9SwqGeEpmyHfe64bn9"
+    },
+    {
+      "added_at": "2026-05-02 16:51:19",
+      "album": {
         "name": "\u00bfARDIDA QUI\u00c9N?",
         "url": "https://open.spotify.com/album/4oxsCPmw0U4j8Rg5jg6ygJ"
       },
@@ -375,26 +395,6 @@
     {
       "added_at": "2026-05-02 16:51:19",
       "album": {
-        "name": "Hazy x Ti",
-        "url": "https://open.spotify.com/album/3MuYnh1VWMP2ZPIdbbsMCh"
-      },
-      "artists": [
-        {
-          "name": "Loreto",
-          "url": "https://open.spotify.com/artist/3CIaj6zebZCp6FUdl4SBHh"
-        },
-        {
-          "name": "Las Mar\u00edas",
-          "url": "https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w"
-        }
-      ],
-      "duration_ms": 213749,
-      "name": "Hazy x Ti",
-      "url": "https://open.spotify.com/track/32PH9SwqGeEpmyHfe64bn9"
-    },
-    {
-      "added_at": "2026-05-02 16:51:19",
-      "album": {
         "name": "VOLV\u00cd",
         "url": "https://open.spotify.com/album/4ZCC095ls57ZsnyHrq0OGo"
       },
@@ -407,22 +407,6 @@
       "duration_ms": 181500,
       "name": "VOLV\u00cd",
       "url": "https://open.spotify.com/track/5HCOVIFYzLi5kMxoWVIyV3"
-    },
-    {
-      "added_at": "2026-05-02 16:51:19",
-      "album": {
-        "name": "BOTITAS",
-        "url": "https://open.spotify.com/album/7rUasUEfoC9BOjtKLfHA92"
-      },
-      "artists": [
-        {
-          "name": "Isa La Mexicana",
-          "url": "https://open.spotify.com/artist/4RYI87k6c5m0asFEPE1vjK"
-        }
-      ],
-      "duration_ms": 166285,
-      "name": "BOTITAS",
-      "url": "https://open.spotify.com/track/2pCR8I7m7IaKIJoVR5eOOK"
     },
     {
       "added_at": "2026-05-02 16:51:19",
@@ -443,6 +427,22 @@
       "duration_ms": 173102,
       "name": "Piensa en m\u00ed",
       "url": "https://open.spotify.com/track/1XwNYoMOeD7399kxslic0Q"
+    },
+    {
+      "added_at": "2026-05-02 16:51:19",
+      "album": {
+        "name": "BOTITAS",
+        "url": "https://open.spotify.com/album/7rUasUEfoC9BOjtKLfHA92"
+      },
+      "artists": [
+        {
+          "name": "Isa La Mexicana",
+          "url": "https://open.spotify.com/artist/4RYI87k6c5m0asFEPE1vjK"
+        }
+      ],
+      "duration_ms": 166285,
+      "name": "BOTITAS",
+      "url": "https://open.spotify.com/track/2pCR8I7m7IaKIJoVR5eOOK"
     },
     {
       "added_at": "2026-05-02 16:51:19",
@@ -651,6 +651,22 @@
     {
       "added_at": "2026-05-02 16:51:19",
       "album": {
+        "name": "C\u00f3mo se baila",
+        "url": "https://open.spotify.com/album/5fqHmPxJjkkCSmLXjwXrmQ"
+      },
+      "artists": [
+        {
+          "name": "La Corea\u00f1era",
+          "url": "https://open.spotify.com/artist/74XNnqjblniM4XXlcJFak7"
+        }
+      ],
+      "duration_ms": 193285,
+      "name": "C\u00f3mo se baila",
+      "url": "https://open.spotify.com/track/3AgHkjyoFtuZuTnvFNDpe5"
+    },
+    {
+      "added_at": "2026-05-02 16:51:19",
+      "album": {
         "name": "Coleccionando Heridas",
         "url": "https://open.spotify.com/album/3cRD1iHJDCV1InslSYOz3P"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 201340,
       "name": "Coleccionando Heridas",
       "url": "https://open.spotify.com/track/1Moi1EHc7X9cceNOk1TDZS"
-    },
-    {
-      "added_at": "2026-05-02 16:51:19",
-      "album": {
-        "name": "C\u00f3mo se baila",
-        "url": "https://open.spotify.com/album/5fqHmPxJjkkCSmLXjwXrmQ"
-      },
-      "artists": [
-        {
-          "name": "La Corea\u00f1era",
-          "url": "https://open.spotify.com/artist/74XNnqjblniM4XXlcJFak7"
-        }
-      ],
-      "duration_ms": 193285,
-      "name": "C\u00f3mo se baila",
-      "url": "https://open.spotify.com/track/3AgHkjyoFtuZuTnvFNDpe5"
     },
     {
       "added_at": "2026-05-02 16:51:19",
@@ -707,6 +707,22 @@
     {
       "added_at": "2026-05-02 16:51:19",
       "album": {
+        "name": "T\u00fa Me Juraste",
+        "url": "https://open.spotify.com/album/4r7lu3B0x4cT9OFEUd4mis"
+      },
+      "artists": [
+        {
+          "name": "Fatima Campo",
+          "url": "https://open.spotify.com/artist/02rwaHFS6g69zSkS3kh1jn"
+        }
+      ],
+      "duration_ms": 207307,
+      "name": "T\u00fa Me Juraste",
+      "url": "https://open.spotify.com/track/7H0UpwPK8u7KZZmztK4lyG"
+    },
+    {
+      "added_at": "2026-05-02 16:51:19",
+      "album": {
         "name": "Y Nos Dieron Las 10",
         "url": "https://open.spotify.com/album/6O8iK5p2JYaPESpaSTawKu"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 316883,
       "name": "Y Nos Dieron Las 10",
       "url": "https://open.spotify.com/track/5VTTS6tweu30FEBcMhhz0P"
-    },
-    {
-      "added_at": "2026-05-02 16:51:19",
-      "album": {
-        "name": "T\u00fa Me Juraste",
-        "url": "https://open.spotify.com/album/4r7lu3B0x4cT9OFEUd4mis"
-      },
-      "artists": [
-        {
-          "name": "Fatima Campo",
-          "url": "https://open.spotify.com/artist/02rwaHFS6g69zSkS3kh1jn"
-        }
-      ],
-      "duration_ms": 207307,
-      "name": "T\u00fa Me Juraste",
-      "url": "https://open.spotify.com/track/7H0UpwPK8u7KZZmztK4lyG"
     },
     {
       "added_at": "2026-05-02 16:51:19",
@@ -947,18 +947,18 @@
     {
       "added_at": "2026-05-02 16:51:19",
       "album": {
-        "name": "Esa Perra Ya Me Mordi\u00f3",
-        "url": "https://open.spotify.com/album/0J19wntQXd72hlcOZ7ucnC"
+        "name": "Que Ganas De No Verte Nunca M\u00e1s",
+        "url": "https://open.spotify.com/album/2hkLkzcmOqFnlhZPpx58kw"
       },
       "artists": [
         {
-          "name": "Erika Vidrio",
-          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
+          "name": "ANDYVERE",
+          "url": "https://open.spotify.com/artist/5XxeDwviA9LNx9xMBUAZxa"
         }
       ],
-      "duration_ms": 210592,
-      "name": "Esa Perra Ya Me Mordi\u00f3",
-      "url": "https://open.spotify.com/track/1meWqNTdwoGQXdbizpKOUd"
+      "duration_ms": 209920,
+      "name": "Que Ganas De No Verte Nunca M\u00e1s",
+      "url": "https://open.spotify.com/track/0Z1Hwnp3Ts3tpK4Lki5KOp"
     },
     {
       "added_at": "2026-05-02 16:51:19",
@@ -983,18 +983,18 @@
     {
       "added_at": "2026-05-02 16:51:19",
       "album": {
-        "name": "Que Ganas De No Verte Nunca M\u00e1s",
-        "url": "https://open.spotify.com/album/2hkLkzcmOqFnlhZPpx58kw"
+        "name": "Esa Perra Ya Me Mordi\u00f3",
+        "url": "https://open.spotify.com/album/0J19wntQXd72hlcOZ7ucnC"
       },
       "artists": [
         {
-          "name": "ANDYVERE",
-          "url": "https://open.spotify.com/artist/5XxeDwviA9LNx9xMBUAZxa"
+          "name": "Erika Vidrio",
+          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
         }
       ],
-      "duration_ms": 209920,
-      "name": "Que Ganas De No Verte Nunca M\u00e1s",
-      "url": "https://open.spotify.com/track/0Z1Hwnp3Ts3tpK4Lki5KOp"
+      "duration_ms": 210592,
+      "name": "Esa Perra Ya Me Mordi\u00f3",
+      "url": "https://open.spotify.com/track/1meWqNTdwoGQXdbizpKOUd"
     },
     {
       "added_at": "2026-05-02 16:51:19",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2026-05-02 16:51:19",
       "album": {
-        "name": "El Hielo Est\u00e1 Quemando",
-        "url": "https://open.spotify.com/album/6sIF5BI4afDsFPidOpz7mQ"
-      },
-      "artists": [
-        {
-          "name": "Erika Vidrio",
-          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
-        }
-      ],
-      "duration_ms": 189884,
-      "name": "El Hielo Est\u00e1 Quemando",
-      "url": "https://open.spotify.com/track/4Rl2jgJ9QCf0gWCnMUU9uj"
-    },
-    {
-      "added_at": "2026-05-02 16:51:19",
-      "album": {
         "name": "Ahora Te Aguantas",
         "url": "https://open.spotify.com/album/2vzjM97QfvPxG9tm2Ys2Dm"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 254227,
       "name": "Con Todo Y Mi Tristeza - En Vivo Desde Tenampa 100",
       "url": "https://open.spotify.com/track/1KZ7bZLmto31FCm4G3dURQ"
+    },
+    {
+      "added_at": "2026-05-02 16:51:19",
+      "album": {
+        "name": "El Hielo Est\u00e1 Quemando",
+        "url": "https://open.spotify.com/album/6sIF5BI4afDsFPidOpz7mQ"
+      },
+      "artists": [
+        {
+          "name": "Erika Vidrio",
+          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
+        }
+      ],
+      "duration_ms": 189884,
+      "name": "El Hielo Est\u00e1 Quemando",
+      "url": "https://open.spotify.com/track/4Rl2jgJ9QCf0gWCnMUU9uj"
     },
     {
       "added_at": "2026-05-02 16:51:19",
@@ -1151,18 +1151,18 @@
     {
       "added_at": "2026-05-02 16:51:19",
       "album": {
-        "name": "Completamente Yo",
-        "url": "https://open.spotify.com/album/1QvzdccK49fZrHg171Albu"
+        "name": "Si A\u00fan Me Piensas",
+        "url": "https://open.spotify.com/album/4TcuzBNnFqqL1OHXQNhAbW"
       },
       "artists": [
         {
-          "name": "Jacqie Rivera",
-          "url": "https://open.spotify.com/artist/7gOu74yQzNuOjbiuJCP9QB"
+          "name": "Griss Romero",
+          "url": "https://open.spotify.com/artist/36eqG3jM0MhxTR7Cuw7BQA"
         }
       ],
-      "duration_ms": 186203,
-      "name": "Completamente Yo",
-      "url": "https://open.spotify.com/track/2i4ip32pwwrL6J45ib1ZjN"
+      "duration_ms": 178265,
+      "name": "Tragos de amargo licor",
+      "url": "https://open.spotify.com/track/7tLshdCe1K9QaEuUnnvQb8"
     },
     {
       "added_at": "2026-05-02 16:51:19",
@@ -1199,18 +1199,34 @@
     {
       "added_at": "2026-05-02 16:51:19",
       "album": {
-        "name": "Si A\u00fan Me Piensas",
-        "url": "https://open.spotify.com/album/4TcuzBNnFqqL1OHXQNhAbW"
+        "name": "Completamente Yo",
+        "url": "https://open.spotify.com/album/1QvzdccK49fZrHg171Albu"
       },
       "artists": [
         {
-          "name": "Griss Romero",
-          "url": "https://open.spotify.com/artist/36eqG3jM0MhxTR7Cuw7BQA"
+          "name": "Jacqie Rivera",
+          "url": "https://open.spotify.com/artist/7gOu74yQzNuOjbiuJCP9QB"
         }
       ],
-      "duration_ms": 178265,
-      "name": "Tragos de amargo licor",
-      "url": "https://open.spotify.com/track/7tLshdCe1K9QaEuUnnvQb8"
+      "duration_ms": 186203,
+      "name": "Completamente Yo",
+      "url": "https://open.spotify.com/track/2i4ip32pwwrL6J45ib1ZjN"
+    },
+    {
+      "added_at": "2026-05-02 16:51:19",
+      "album": {
+        "name": "Regalame una Noche",
+        "url": "https://open.spotify.com/album/3ZeSujQTtsmXZRYjtucIWz"
+      },
+      "artists": [
+        {
+          "name": "Arhian",
+          "url": "https://open.spotify.com/artist/51RHZMpW7LcEybWvkZHrzT"
+        }
+      ],
+      "duration_ms": 219273,
+      "name": "Regalame una Noche",
+      "url": "https://open.spotify.com/track/3mJ7vdxAelGjfLxRAvk55a"
     },
     {
       "added_at": "2026-05-02 16:51:19",
@@ -1259,22 +1275,6 @@
     {
       "added_at": "2026-05-02 16:51:19",
       "album": {
-        "name": "Regalame una Noche",
-        "url": "https://open.spotify.com/album/3ZeSujQTtsmXZRYjtucIWz"
-      },
-      "artists": [
-        {
-          "name": "Arhian",
-          "url": "https://open.spotify.com/artist/51RHZMpW7LcEybWvkZHrzT"
-        }
-      ],
-      "duration_ms": 219273,
-      "name": "Regalame una Noche",
-      "url": "https://open.spotify.com/track/3mJ7vdxAelGjfLxRAvk55a"
-    },
-    {
-      "added_at": "2026-05-02 16:51:19",
-      "album": {
         "name": "Canciones Sin Tiempo",
         "url": "https://open.spotify.com/album/0uKJ1IJ62Bx0xvy4pdXD1y"
       },
@@ -1300,8 +1300,8 @@
           "url": "https://open.spotify.com/artist/74TcxUH2X0cCpOD1uMWzWQ"
         },
         {
-          "name": "Posadas",
-          "url": "https://open.spotify.com/artist/5H855iUf9G9bfBIVpVUNCg"
+          "name": "Las Posada",
+          "url": "https://open.spotify.com/artist/4A9rAqUsLJOh3tEr5YTyll"
         }
       ],
       "duration_ms": 179566,
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2026-05-02 16:51:19",
       "album": {
-        "name": "Que Tal?",
-        "url": "https://open.spotify.com/album/3xX5hsUxsPjiK5MHKvm1U8"
-      },
-      "artists": [
-        {
-          "name": "Rocio Jasso",
-          "url": "https://open.spotify.com/artist/26XEeP9QiBScGDRxcueg4b"
-        }
-      ],
-      "duration_ms": 260500,
-      "name": "Que Tal?",
-      "url": "https://open.spotify.com/track/4yeodKx69oHZKlG0p1d4An"
-    },
-    {
-      "added_at": "2026-05-02 16:51:19",
-      "album": {
         "name": "F\u00c9NIX",
         "url": "https://open.spotify.com/album/6Ex5X0AqZ7PvEtBr4ynksB"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 197288,
       "name": "F\u00c9NIX",
       "url": "https://open.spotify.com/track/6tkpFXONb3TLwIZUGeiXiB"
+    },
+    {
+      "added_at": "2026-05-02 16:51:19",
+      "album": {
+        "name": "Que Tal?",
+        "url": "https://open.spotify.com/album/3xX5hsUxsPjiK5MHKvm1U8"
+      },
+      "artists": [
+        {
+          "name": "Rocio Jasso",
+          "url": "https://open.spotify.com/artist/26XEeP9QiBScGDRxcueg4b"
+        }
+      ],
+      "duration_ms": 260500,
+      "name": "Que Tal?",
+      "url": "https://open.spotify.com/track/4yeodKx69oHZKlG0p1d4An"
     },
     {
       "added_at": "2026-05-02 16:51:19",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2026-05-02 16:51:19",
       "album": {
-        "name": "MEXICANA: EN VIVO (Live)",
-        "url": "https://open.spotify.com/album/2vhsyZLikuL3F9qTKD5yPQ"
-      },
-      "artists": [
-        {
-          "name": "Carmen Goett",
-          "url": "https://open.spotify.com/artist/4oVApCVBzpV2e8GXntnNXf"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "Me Gustas para a Veces - Live",
-      "url": "https://open.spotify.com/track/7rJuQz3iSeg427iVrkcrzR"
-    },
-    {
-      "added_at": "2026-05-02 16:51:19",
-      "album": {
         "name": "Noche Bohemia",
         "url": "https://open.spotify.com/album/7FbLBvk0oXvWPPEsNYduH4"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 251086,
       "name": "Am\u00e9",
       "url": "https://open.spotify.com/track/5fWOE0l5UDeNo2TkNOMpFL"
+    },
+    {
+      "added_at": "2026-05-02 16:51:19",
+      "album": {
+        "name": "MEXICANA: EN VIVO (Live)",
+        "url": "https://open.spotify.com/album/2vhsyZLikuL3F9qTKD5yPQ"
+      },
+      "artists": [
+        {
+          "name": "Carmen Goett",
+          "url": "https://open.spotify.com/artist/4oVApCVBzpV2e8GXntnNXf"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "Me Gustas para a Veces - Live",
+      "url": "https://open.spotify.com/track/7rJuQz3iSeg427iVrkcrzR"
     },
     {
       "added_at": "2026-05-02 16:51:19",
@@ -1663,26 +1663,6 @@
     {
       "added_at": "2026-05-02 16:51:19",
       "album": {
-        "name": "3",
-        "url": "https://open.spotify.com/album/5ESokdETxEpSz3A0tbmvXn"
-      },
-      "artists": [
-        {
-          "name": "Destiny Navaira",
-          "url": "https://open.spotify.com/artist/3od00zk4OBhNuBGEIsqZ6e"
-        },
-        {
-          "name": "David Lee Garza",
-          "url": "https://open.spotify.com/artist/38329DTMLBuu9dxx2a8Nke"
-        }
-      ],
-      "duration_ms": 183814,
-      "name": "Mi X",
-      "url": "https://open.spotify.com/track/3n3mxOb3KRTlDS70PmpMxO"
-    },
-    {
-      "added_at": "2026-05-02 16:51:19",
-      "album": {
         "name": "Amor Migajero",
         "url": "https://open.spotify.com/album/1DnyW8BiuysCcr6RgnRXEf"
       },
@@ -1711,6 +1691,26 @@
       "duration_ms": 210857,
       "name": "Quisiera ser Ella",
       "url": "https://open.spotify.com/track/1s3FlXg5zGkzKyopHhHjUA"
+    },
+    {
+      "added_at": "2026-05-02 16:51:19",
+      "album": {
+        "name": "3",
+        "url": "https://open.spotify.com/album/5ESokdETxEpSz3A0tbmvXn"
+      },
+      "artists": [
+        {
+          "name": "Destiny Navaira",
+          "url": "https://open.spotify.com/artist/3od00zk4OBhNuBGEIsqZ6e"
+        },
+        {
+          "name": "David Lee Garza",
+          "url": "https://open.spotify.com/artist/38329DTMLBuu9dxx2a8Nke"
+        }
+      ],
+      "duration_ms": 183814,
+      "name": "Mi X",
+      "url": "https://open.spotify.com/track/3n3mxOb3KRTlDS70PmpMxO"
     }
   ],
   "unique_name": "Women of M\u00fasica Mexicana",

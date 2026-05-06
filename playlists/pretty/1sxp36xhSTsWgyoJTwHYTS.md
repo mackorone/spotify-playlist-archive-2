@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1sxp36xhSTsWgyoJTwHYTS.md) - [plain]
 
 > Submit your song: https:&\#x2F;&\#x2F;dailyplaylists.com&\#x2F;playlists&\#x2F;1sxp36xhSTsWgyoJTwHYTS
 
-[RADIO PLUG PRO](https://open.spotify.com/user/31j62y3lgk2wiycoov2nuie5hp3e) - 640 likes - 243 songs - 13 hr 3 min
+[RADIO PLUG PRO](https://open.spotify.com/user/31j62y3lgk2wiycoov2nuie5hp3e) - 640 likes - 245 songs - 13 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -251,5 +251,7 @@ pretty - [cumulative](/playlists/cumulative/1sxp36xhSTsWgyoJTwHYTS.md) - [plain]
 | 241 | [The Price of Not Being Me](https://open.spotify.com/track/5QEcw5tlMYZlbmTq1qxjdV) | [Donkey Shots](https://open.spotify.com/artist/30je3FKxjeqo7gHq3VYVNx) | [The Price of Not Being Me](https://open.spotify.com/album/7dUP5R8LClZXSqEuSOVdUA) | 3:34 |
 | 242 | [Leva\-me](https://open.spotify.com/track/3ZKcjylD8tr3F3H9Jt14rc) | [Silvia Lages](https://open.spotify.com/artist/7HTQNoKHH3G6n2O1uB3Rlt) | [Leva\-me](https://open.spotify.com/album/05nxsfhrAMpZlb5SYgv3YK) | 3:39 |
 | 243 | [Trébucher](https://open.spotify.com/track/4roChB3Zs2dosxi70iLPSn) | [Manutea](https://open.spotify.com/artist/1GSVBffbibC6Av1lhEPlHg) | [Trébucher](https://open.spotify.com/album/7lh0sYQ40uPuJjR9ug9gwm) | 3:03 |
+| 244 | [T WALCOTT](https://open.spotify.com/track/1n2Kh5u72sr89cs2eSQBgw) | [Muermo](https://open.spotify.com/artist/1CYMpVs1QBgDrOFkC8AFzO) | [T WALCOTT](https://open.spotify.com/album/260r4B3VThjQeOQPzV2UER) | 2:43 |
+| 245 | [Sans laisser d’adresse](https://open.spotify.com/track/6gPsBNNPs9Sx9BvGbJApmw) | [Svend48](https://open.spotify.com/artist/5u4b2A5VnjVTMzNxs5QhCc) | [Sans laisser d’adresse](https://open.spotify.com/album/7piSg0rmkQoMRYSz7yX9gV) | 3:22 |
 
-Snapshot ID: `AAABHAlsxCjLiJ99GuU2SFVD1iNEdVLR`
+Snapshot ID: `AAABHsBiLmEEWfsCO6kEzfrkeTs/Uhz1`

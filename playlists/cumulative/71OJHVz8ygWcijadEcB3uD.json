@@ -2121,6 +2121,24 @@
     },
     {
       "album": {
+        "name": "Entre Dois Andares",
+        "url": "https://open.spotify.com/album/4m69QWihV60vQiFBuvMwFW"
+      },
+      "artists": [
+        {
+          "name": "Andre Thanatos",
+          "url": "https://open.spotify.com/artist/2WYOgSQsYe0F3Xr8JzDRyC"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239959,
+      "name": "Entre Dois Andares",
+      "url": "https://open.spotify.com/track/0scmdc0oEyDjMPgVERTrHj"
+    },
+    {
+      "album": {
         "name": "Miscellaneous",
         "url": "https://open.spotify.com/album/3suDk3EaTehsxRL6yoEx5s"
       },

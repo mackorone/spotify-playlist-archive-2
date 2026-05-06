@@ -2,7 +2,7 @@
 
 ### [This Is YOASOBI](https://open.spotify.com/playlist/37i9dQZF1DWVVbqQrqciCF)
 
-> \[Happy Children's Day! / 今日はこどもの日\] Japanese music duo formed in 2019, consisting of vocalist ikura and producer Ayase\. YOASOBIの楽曲をひとつのプレイリストに。
+> Japanese music duo formed in 2019, consisting of vocalist ikura and producer Ayase\. YOASOBIの楽曲をひとつのプレイリストに。
 
 90 songs - 6 hr 18 min
 

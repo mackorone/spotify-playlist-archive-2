@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo6CepmjMNI.md) - [plain]
 
 > เพลงอินดี้ใหม่และดีที่อยากแนะนำ\. ศิลปิน: SOBBOY
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,973 likes - 50 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,977 likes - 50 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo6CepmjMNI.md) - [plain]
 | 7 | [สุขสันต์วันเลิกรา](https://open.spotify.com/track/0bPEFj9SX6MQbAet6jfKfI) | [DUMB.RONG](https://open.spotify.com/artist/7wI6vCvzp0run9phNqu4ua) | [สุขสันต์วันเลิกรา](https://open.spotify.com/album/00keaZw1TAM5szqXRcR83A) | 4:27 |
 | 8 | [หากเธอจะยอมรับมัน \(YOURS\)](https://open.spotify.com/track/3jLrDEEe2JdqTiikceqhGi) | [Varis](https://open.spotify.com/artist/53DTvTbpR2jK1KUrR13431) | [หากเธอจะยอมรับมัน \(YOURS\)](https://open.spotify.com/album/6vRogRMbe9A090xSSACu9s) | 4:18 |
 | 9 | [ถ้าเราบังเอิญได้พบกัน \(What If\)](https://open.spotify.com/track/5AEAu3zGi43VzBfgiUJvzE) | [SaltySalmon](https://open.spotify.com/artist/3nk2SXIpTCKwG5GW8SuYxO) | [ถ้าเราบังเอิญได้พบกัน \(What If\)](https://open.spotify.com/album/7bJKCarxScjCO7CWATzwpe) | 3:48 |
-| 10 | [พบกัน \- Other Side](https://open.spotify.com/track/0mHEr0RxeC51sigzX0bUDP) | [whimp](https://open.spotify.com/artist/6dt1IwUXvGH1NvA7C1K8cG) | [พบกัน \(Other Side\)](https://open.spotify.com/album/78XqnXjci1RJ8VikYAnPce) | 4:07 |
+| 10 | [พบกัน \(Other Side\)](https://open.spotify.com/track/0mHEr0RxeC51sigzX0bUDP) | [whimp](https://open.spotify.com/artist/6dt1IwUXvGH1NvA7C1K8cG) | [พบกัน \(Other Side\)](https://open.spotify.com/album/78XqnXjci1RJ8VikYAnPce) | 4:07 |
 | 11 | [โดพามีน \(Dopamine\)](https://open.spotify.com/track/0jfldE751eWtWo2K1VXjHT) | [ANYSIDE](https://open.spotify.com/artist/0VcGii0wCyoi5E0Hf8fII0) | [โดพามีน \(Dopamine\)](https://open.spotify.com/album/0rDyYO85nyHQ9k3lUzofeR) | 4:15 |
 | 12 | [Summer sui](https://open.spotify.com/track/5xJcNCTFrBYAtvbBmAErws) | [PLASUI PLASUI](https://open.spotify.com/artist/5sL9SQbnub24DHQ2gITtEX) | [Summer sui](https://open.spotify.com/album/1uVYT0anDaVkfYAuvM5qn1) | 6:12 |
 | 13 | [She's \(เธอคือ\)](https://open.spotify.com/track/6byhxMLHsIDfCbFxWi7hfy) | [Wednesday Calling](https://open.spotify.com/artist/6KNfHqzqVizyQI0Z2xt6iy) | [She's \(เธอคือ\)](https://open.spotify.com/album/0KAXjyEVSVsuhZCkL3MGXI) | 4:29 |

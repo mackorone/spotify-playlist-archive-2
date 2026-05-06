@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2XvZn2.md) - [plain]
 
 > This is Evaluna Montaner\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,852 likes - 43 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,854 likes - 43 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2XvZn2.md) - [plain]
 | 33 | [Alíviame](https://open.spotify.com/track/3Gdpd6fMO2Zz0B8ymwMsKH) | [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC), [Club 57 Cast](https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr) | [Club 57](https://open.spotify.com/album/6yENR9cVDPtcvcitHH4mAI) | 3:24 |
 | 34 | [Te Digo Adiós \(feat\. Fefi Oliveira\)](https://open.spotify.com/track/1NIVpauTuDo7hvRNMi0KMw) | [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC), [Club 57 Cast](https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr), [Fefi Oliveira](https://open.spotify.com/artist/0q7queXJVvPOq2Ej8d2McH) | [Te Digo Adiós \(feat\. Fefi Oliveira\)](https://open.spotify.com/album/4eld4UYUr1RxKt5Z8ktFcI) | 3:11 |
 | 35 | [Muchacha Solitaria](https://open.spotify.com/track/6fzLYr1KgfXsPOEjSaEHj0) | [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC), [Club 57 Cast](https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr) | [Muchacha Solitaria](https://open.spotify.com/album/4EevwBc81RN2RYqEKW4lpe) | 3:41 |
-| 36 | [Eva \(feat\. Riccardo Frascari\)](https://open.spotify.com/track/2z2Zwa8JCOi4CLbJlI9DTf) | [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC), [Club 57 Cast](https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr), [Riccardo Frascari](https://open.spotify.com/artist/0Bn3IBeAqidIrY3pURxJ76) | [Eva \(feat\. Riccardo Frascari\)](https://open.spotify.com/album/5etNIcaFHbH0LbcTFoeCMB) | 2:34 |
-| 37 | [Wings](https://open.spotify.com/track/7syytOgiI58LYp9wMB1Bw4) | [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Wings](https://open.spotify.com/album/17MekhFSuXoftJ7aCXVZxQ) | 4:14 |
+| 36 | [Wings](https://open.spotify.com/track/7syytOgiI58LYp9wMB1Bw4) | [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Wings](https://open.spotify.com/album/17MekhFSuXoftJ7aCXVZxQ) | 4:14 |
+| 37 | [Eva \(feat\. Riccardo Frascari\)](https://open.spotify.com/track/2z2Zwa8JCOi4CLbJlI9DTf) | [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC), [Club 57 Cast](https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr), [Riccardo Frascari](https://open.spotify.com/artist/0Bn3IBeAqidIrY3pURxJ76) | [Eva \(feat\. Riccardo Frascari\)](https://open.spotify.com/album/5etNIcaFHbH0LbcTFoeCMB) | 2:34 |
 | 38 | [Nadie Como Yo \(feat\. Riccardo Frascari\)](https://open.spotify.com/track/2AuwBMf8LAIyxPx8kQp3z8) | [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC), [Club 57 Cast](https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr), [Riccardo Frascari](https://open.spotify.com/artist/0Bn3IBeAqidIrY3pURxJ76) | [Nadie Como Yo \(feat\. Riccardo Frascari\)](https://open.spotify.com/album/77wgeN8InWCzZuh7vrHhLn) | 2:40 |
 | 39 | [Nunca Es Tarde](https://open.spotify.com/track/7cSvEaSTGNtdQ2AwUjKOBL) | [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [KOATI Original Soundtrack](https://open.spotify.com/album/30RgJ2qSHc37DgnJcdVaAb) | 2:16 |
 | 40 | [Amazing Grace](https://open.spotify.com/track/458rrfw1uCfILgIJsNPJpX) | [Arthur Hanlon](https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Piano y Mujer](https://open.spotify.com/album/4bdhzQQBT7RePZjTMiiLQ1) | 3:18 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2XvZn2.md) - [plain]
 | 42 | [Unforgettable \(feat\. Evaluna Montaner\)](https://open.spotify.com/track/2l4iMLWm3dlZErGtsXUNZf) | [Arthur Hanlon](https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Unforgettable \(feat\. Evaluna Montaner\)](https://open.spotify.com/album/7wxgyL41IUJnZZO7kIJvvG) | 3:28 |
 | 43 | [It's Never Too Late](https://open.spotify.com/track/6kK3nZHrrGG7ONIv3W8umV) | [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [KOATI Original Soundtrack](https://open.spotify.com/album/30RgJ2qSHc37DgnJcdVaAb) | 2:16 |
 
-Snapshot ID: `afaQAAAAAAB7NYKHoIjOqO06ZaiKjsxz`
+Snapshot ID: `affhgAAAAABtkbWJdiMheCRumWg7aC6k`

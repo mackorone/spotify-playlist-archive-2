@@ -1,6 +1,6 @@
 {
   "description": "Stank face activated. Cover: Rezz",
-  "num_followers": 271247,
+  "num_followers": 271263,
   "original_name": "Bangers",
   "owner": {
     "name": "Spotify",
@@ -859,26 +859,6 @@
     {
       "added_at": "2026-05-01 04:01:53",
       "album": {
-        "name": "Faded (Blacklizt Version)(HNTR Remix)",
-        "url": "https://open.spotify.com/album/69JzonS2xBTsz9UMYpD3dC"
-      },
-      "artists": [
-        {
-          "name": "ZHU",
-          "url": "https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2"
-        },
-        {
-          "name": "HNTR",
-          "url": "https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU"
-        }
-      ],
-      "duration_ms": 193005,
-      "name": "Faded (Blacklizt Version) - HNTR Remix",
-      "url": "https://open.spotify.com/track/3NWERP0Tt6CTnBp86jFRxB"
-    },
-    {
-      "added_at": "2026-05-01 04:01:53",
-      "album": {
         "name": "Club Rompas, Vol. 2",
         "url": "https://open.spotify.com/album/5TbqhCXehVUcD9htuxteQX"
       },
@@ -903,6 +883,26 @@
       "duration_ms": 169090,
       "name": "Rock The Rhythm (I Like That)",
       "url": "https://open.spotify.com/track/5IH4qsWYYpC4o1SNm1aQX2"
+    },
+    {
+      "added_at": "2026-05-01 04:01:53",
+      "album": {
+        "name": "Faded (Blacklizt Version)(HNTR Remix)",
+        "url": "https://open.spotify.com/album/69JzonS2xBTsz9UMYpD3dC"
+      },
+      "artists": [
+        {
+          "name": "ZHU",
+          "url": "https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2"
+        },
+        {
+          "name": "HNTR",
+          "url": "https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU"
+        }
+      ],
+      "duration_ms": 193005,
+      "name": "Faded (Blacklizt Version) - HNTR Remix",
+      "url": "https://open.spotify.com/track/3NWERP0Tt6CTnBp86jFRxB"
     },
     {
       "added_at": "2026-05-01 04:01:53",
@@ -1011,30 +1011,6 @@
     {
       "added_at": "2026-05-01 04:01:53",
       "album": {
-        "name": "My Own Thang EP",
-        "url": "https://open.spotify.com/album/4oP18eb48EO1ogI15teHU1"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Sophiegrophy",
-          "url": "https://open.spotify.com/artist/4VbLknkcJMhSninTvMZbfE"
-        },
-        {
-          "name": "Walker & Royce",
-          "url": "https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV"
-        }
-      ],
-      "duration_ms": 178153,
-      "name": "My Own Thang (To The Beat)",
-      "url": "https://open.spotify.com/track/4u6u4sdrJ0CPWHAzV8ygVd"
-    },
-    {
-      "added_at": "2026-05-01 04:01:53",
-      "album": {
         "name": "Girls MIA",
         "url": "https://open.spotify.com/album/54bjkUTJnTTktRXEBnMfJc"
       },
@@ -1055,6 +1031,30 @@
       "duration_ms": 133848,
       "name": "Girls MIA",
       "url": "https://open.spotify.com/track/7dHtHyIsxcDzgeFWLxfW4q"
+    },
+    {
+      "added_at": "2026-05-01 04:01:53",
+      "album": {
+        "name": "My Own Thang EP",
+        "url": "https://open.spotify.com/album/4oP18eb48EO1ogI15teHU1"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Sophiegrophy",
+          "url": "https://open.spotify.com/artist/4VbLknkcJMhSninTvMZbfE"
+        },
+        {
+          "name": "Walker & Royce",
+          "url": "https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV"
+        }
+      ],
+      "duration_ms": 178153,
+      "name": "My Own Thang (To The Beat)",
+      "url": "https://open.spotify.com/track/4u6u4sdrJ0CPWHAzV8ygVd"
     },
     {
       "added_at": "2026-05-01 04:01:53",
@@ -1131,6 +1131,30 @@
     {
       "added_at": "2026-05-01 04:01:53",
       "album": {
+        "name": "WHO (You Know What I'm Waiting For)",
+        "url": "https://open.spotify.com/album/5UsK5bC1PptKzN6YGNxsaH"
+      },
+      "artists": [
+        {
+          "name": "Tujamo",
+          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
+        },
+        {
+          "name": "Plastik Funk",
+          "url": "https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v"
+        },
+        {
+          "name": "Luciana",
+          "url": "https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV"
+        }
+      ],
+      "duration_ms": 134400,
+      "name": "WHO (You Know What I'm Waiting For)",
+      "url": "https://open.spotify.com/track/6eTWVeUjiHH9BeWZI5oyyq"
+    },
+    {
+      "added_at": "2026-05-01 04:01:53",
+      "album": {
         "name": "Bass Dhol",
         "url": "https://open.spotify.com/album/6zPVFPc0OjKODf5SkRSlNu"
       },
@@ -1179,30 +1203,6 @@
     {
       "added_at": "2026-05-01 04:01:53",
       "album": {
-        "name": "WHO (You Know What I'm Waiting For)",
-        "url": "https://open.spotify.com/album/5UsK5bC1PptKzN6YGNxsaH"
-      },
-      "artists": [
-        {
-          "name": "Tujamo",
-          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
-        },
-        {
-          "name": "Plastik Funk",
-          "url": "https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v"
-        },
-        {
-          "name": "Luciana",
-          "url": "https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV"
-        }
-      ],
-      "duration_ms": 134400,
-      "name": "WHO (You Know What I'm Waiting For)",
-      "url": "https://open.spotify.com/track/6eTWVeUjiHH9BeWZI5oyyq"
-    },
-    {
-      "added_at": "2026-05-01 04:01:53",
-      "album": {
         "name": "This isn\u2019t what you think it is (EP)",
         "url": "https://open.spotify.com/album/4OcCeiJxG51PNH2Eh1rz8u"
       },
@@ -1223,26 +1223,6 @@
     {
       "added_at": "2026-05-01 04:01:53",
       "album": {
-        "name": "Contact",
-        "url": "https://open.spotify.com/album/06z3wshQtpYwZnDoVle3pw"
-      },
-      "artists": [
-        {
-          "name": "Sub Focus",
-          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
-        },
-        {
-          "name": "Grimes",
-          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
-        }
-      ],
-      "duration_ms": 220689,
-      "name": "Entwined (feat. Grimes)",
-      "url": "https://open.spotify.com/track/3plRcdquOfuCdNmYffVxRs"
-    },
-    {
-      "added_at": "2026-05-01 04:01:53",
-      "album": {
         "name": "Naughty All Night",
         "url": "https://open.spotify.com/album/2bZO9BuO9ZylUm2CZys4ZY"
       },
@@ -1259,6 +1239,26 @@
       "duration_ms": 166016,
       "name": "All Night",
       "url": "https://open.spotify.com/track/4MX4VyYyd36joubmqhv0rI"
+    },
+    {
+      "added_at": "2026-05-01 04:01:53",
+      "album": {
+        "name": "Contact",
+        "url": "https://open.spotify.com/album/06z3wshQtpYwZnDoVle3pw"
+      },
+      "artists": [
+        {
+          "name": "Sub Focus",
+          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
+        },
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        }
+      ],
+      "duration_ms": 220689,
+      "name": "Entwined (feat. Grimes)",
+      "url": "https://open.spotify.com/track/3plRcdquOfuCdNmYffVxRs"
     },
     {
       "added_at": "2026-05-01 04:01:53",
@@ -1651,6 +1651,26 @@
     {
       "added_at": "2026-05-01 04:01:53",
       "album": {
+        "name": "Visualize",
+        "url": "https://open.spotify.com/album/57b5uW1BNSl2EfR4CjswEz"
+      },
+      "artists": [
+        {
+          "name": "Mary Droppinz",
+          "url": "https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS"
+        },
+        {
+          "name": "Finnuh",
+          "url": "https://open.spotify.com/artist/3YLDaKhikm7TdqKUUejjzA"
+        }
+      ],
+      "duration_ms": 198857,
+      "name": "Visualize",
+      "url": "https://open.spotify.com/track/1MttZtFQZkkCWbkeFfdKVQ"
+    },
+    {
+      "added_at": "2026-05-01 04:01:53",
+      "album": {
         "name": "Without You",
         "url": "https://open.spotify.com/album/2wUoe5FrQIOGxdta7BY56D"
       },
@@ -1755,26 +1775,6 @@
       "duration_ms": 193273,
       "name": "Disguise",
       "url": "https://open.spotify.com/track/5ZWJAsrrjXUBPv3tYxaHEN"
-    },
-    {
-      "added_at": "2026-05-01 04:01:53",
-      "album": {
-        "name": "Visualize",
-        "url": "https://open.spotify.com/album/57b5uW1BNSl2EfR4CjswEz"
-      },
-      "artists": [
-        {
-          "name": "Mary Droppinz",
-          "url": "https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS"
-        },
-        {
-          "name": "Finnuh",
-          "url": "https://open.spotify.com/artist/3YLDaKhikm7TdqKUUejjzA"
-        }
-      ],
-      "duration_ms": 198857,
-      "name": "Visualize",
-      "url": "https://open.spotify.com/track/1MttZtFQZkkCWbkeFfdKVQ"
     },
     {
       "added_at": "2026-05-01 04:01:53",

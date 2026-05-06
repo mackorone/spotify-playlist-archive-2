@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 
 > Holdin' it down for the westside\. Cover: Shoreline Mafia
 
-[Spotify](https://open.spotify.com/user/spotify) - 760,489 likes - 105 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 760,464 likes - 105 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

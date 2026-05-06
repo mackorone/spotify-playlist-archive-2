@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbiccytJ5L7.md) - [plain]
 
 > Country rap hits of today and tomorrow\. Cover: Bailey Zimmerman and BigXthaPlug
 
-[Spotify](https://open.spotify.com/user/spotify) - 300,085 likes - 116 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 300,234 likes - 116 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbiccytJ5L7.md) - [plain]
 | 27 | [Runnin](https://open.spotify.com/track/19g5N41kZEdlfTmNSif6D9) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA) | [Recess](https://open.spotify.com/album/5Bo68f3J0Ufnb0d9iHf4FZ) | 3:07 |
 | 28 | [Shot for You](https://open.spotify.com/track/6drWeyOfzFSp5MHBtO7cbJ) | [Savannah Dexter](https://open.spotify.com/artist/1e2nwjPRhYpmY7m906NFwz) | [Shot for You](https://open.spotify.com/album/16xY44VL9nAocX855PN4PR) | 3:03 |
 | 29 | [FKN Hate You](https://open.spotify.com/track/5siIfgfQ1ZmmUOpPsBcALG) | [honestav](https://open.spotify.com/artist/5LvRazQ7EDZLfQU4HYc6XF), [JaYy Wick](https://open.spotify.com/artist/1Ks9gnyut4jMphTwjlfz4u) | [FKN Hate You](https://open.spotify.com/album/6ZItnHl9phSgmCyPdgWYxQ) | 2:31 |
-| 30 | [Z71 \(BOOSTED\) \[feat\. Colt Graves\]](https://open.spotify.com/track/1v5kQnkl0RRDPGEnwOo2Wo) | [Sean Stemaly](https://open.spotify.com/artist/2dZ1l4hWgtbMS0N5T9Oalb), [Colt Graves](https://open.spotify.com/artist/26YgSVVJxvx1LQsollyBjQ) | [Z71 \(BOOSTED\) \[feat\. Colt Graves\]](https://open.spotify.com/album/5JGKYXY2nUPqaJLcwZfkTx) | 3:23 |
+| 30 | [Z71 \(BOOSTED\) \(feat\. Colt Graves\)](https://open.spotify.com/track/1v5kQnkl0RRDPGEnwOo2Wo) | [Sean Stemaly](https://open.spotify.com/artist/2dZ1l4hWgtbMS0N5T9Oalb), [Colt Graves](https://open.spotify.com/artist/26YgSVVJxvx1LQsollyBjQ) | [Z71 \(BOOSTED\) \[feat\. Colt Graves\]](https://open.spotify.com/album/5JGKYXY2nUPqaJLcwZfkTx) | 3:23 |
 | 31 | [About You \(feat\. Tucker Wetmore\)](https://open.spotify.com/track/4mDeL6rcWzsCLVYcdnzDo5) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Tucker Wetmore](https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0) | [I Hope You're Happy](https://open.spotify.com/album/4llPc4sijqW69zcet6TAEC) | 2:56 |
 | 32 | [COUNTRY GRIPPIN](https://open.spotify.com/track/78cht5chnXRJwouQNouAfr) | [Charlie Farley](https://open.spotify.com/artist/7c9KnWYDsZgK8k5QiCi9wk), [Demun Jones](https://open.spotify.com/artist/1LkLu8Wywk1qLvWUYAQiZR) | [COUNTRY GRIPPIN](https://open.spotify.com/album/6ZsqzXvIif4OsRBIDUutJs) | 2:56 |
 | 33 | [Firewood](https://open.spotify.com/track/4jkp3lwbbXDbqiaRib0Irt) | [Charlie Farley](https://open.spotify.com/artist/7c9KnWYDsZgK8k5QiCi9wk) | [Firewood](https://open.spotify.com/album/4Uqf1mfIBwljmWI03YjsUC) | 3:09 |

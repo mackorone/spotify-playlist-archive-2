@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > Les meilleurs sons du mois sélectionnés par les éditos de Spotify.
 
-[Spotify](https://open.spotify.com/user/spotify) - 402,197 likes - 45 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 402,190 likes - 45 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,16 +22,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 12 | [Ride Lonesome](https://open.spotify.com/track/4ZNjYG7CW4ogsOtIB36h1j) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Ride Lonesome](https://open.spotify.com/album/47450DcHOgvjj4D21gBHGC) | 4:32 |
 | 13 | [SHABA](https://open.spotify.com/track/3Mkn6UjdPtKdySe78jVfxg) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9), [DETO BLACK](https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT) | [SHABA](https://open.spotify.com/album/1yQJjYlbpPEsepf57EsyHA) | 2:01 |
 | 14 | [Senses ft\. Sampha](https://open.spotify.com/track/53j4dcm9Jn47sFJx8nVz5X) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Ambiguous Desire](https://open.spotify.com/album/2l7Qtf3Mffx6ZIDTpyaMtS) | 4:02 |
-| 15 | [American Dream](https://open.spotify.com/track/2hEtEN8dt6Hj2djG33DT6e) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [American Dream](https://open.spotify.com/album/45NVjCLXsyk3X8gxD5d18s) | 4:27 |
-| 16 | [July](https://open.spotify.com/track/7LwR08L58CiifSFw7tqdOl) | [Wesley Joseph](https://open.spotify.com/artist/1uf6plWcu7QbKiASVlTUPa), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Forever Ends Someday](https://open.spotify.com/album/7GVpOkI5do8Hb8NOtqb39y) | 2:32 |
+| 15 | [July](https://open.spotify.com/track/7LwR08L58CiifSFw7tqdOl) | [Wesley Joseph](https://open.spotify.com/artist/1uf6plWcu7QbKiASVlTUPa), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Forever Ends Someday](https://open.spotify.com/album/7GVpOkI5do8Hb8NOtqb39y) | 2:32 |
+| 16 | [American Dream](https://open.spotify.com/track/2hEtEN8dt6Hj2djG33DT6e) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [American Dream](https://open.spotify.com/album/45NVjCLXsyk3X8gxD5d18s) | 4:27 |
 | 17 | [PELELE](https://open.spotify.com/track/2fgkY8Ffg7aGooiYwz0OpQ) | [WIXO & LA2S](https://open.spotify.com/artist/0VWHKHfSFwUhP0cuvVUfRN) | [PELELE](https://open.spotify.com/album/3uo4C6Q0yQVQZwfNglnT5C) | 2:07 |
 | 18 | [Chase Your Tail](https://open.spotify.com/track/21QZn1gYqOE7HG3s6LHaxF) | [BOY SODA](https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW) | [Chase Your Tail](https://open.spotify.com/album/2VBxycc0YtWBprEsQxOmby) | 3:13 |
 | 19 | [It Never Ends](https://open.spotify.com/track/1TeknOxmMXAfvyuM4PTAMd) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68), [Femi Koleoso](https://open.spotify.com/artist/2C8JLkxN7evbT2t08IIV9V) | [Between Us](https://open.spotify.com/album/2n3AdEZI379D0sAAWvTHEa) | 3:17 |
 | 20 | [Rien à fêter](https://open.spotify.com/track/2SraRNXafpI7MzEDSssAs3) | [Camille Yembe](https://open.spotify.com/artist/1SRVawVdGv7lue3kE6Ajl9) | [Rien à fêter](https://open.spotify.com/album/6Is9iEcP8QVpihebTOLh7i) | 2:55 |
-| 21 | [Coquelicot](https://open.spotify.com/track/2OmiV4VCHXDzGgsOjdJ5dB) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ), [disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g) | [Coquelicot](https://open.spotify.com/album/5VT0KSzFLeyVOPfmNfQfqO) | 2:53 |
-| 22 | [SITUATION CHEAP](https://open.spotify.com/track/6t3f9Sl83g4viuGWsnEiQm) | [BB NOYAA](https://open.spotify.com/artist/5K3zqOMrHMocBFB5q9AG8I), [Ino Casablanca](https://open.spotify.com/artist/5blvB6N3OACeH0gJL9BRqf) | [SITUATION CHEAP](https://open.spotify.com/album/1TjF0xCufULcSRrmUQ1igm) | 2:45 |
-| 23 | [With You Around](https://open.spotify.com/track/3KCCWIuxFn3ghegQfX2YaL) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [With You Around](https://open.spotify.com/album/7fhO709Na7oHVFGtcXEuY6) | 3:53 |
-| 24 | [Boys In Blue](https://open.spotify.com/track/0R3sddzRt8fbbY9GKmv1lw) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Boys In Blue](https://open.spotify.com/album/4Gc4rNpM6O60fm6seAbhqH) | 2:33 |
+| 21 | [With You Around](https://open.spotify.com/track/3KCCWIuxFn3ghegQfX2YaL) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [With You Around](https://open.spotify.com/album/7fhO709Na7oHVFGtcXEuY6) | 3:53 |
+| 22 | [Boys In Blue](https://open.spotify.com/track/0R3sddzRt8fbbY9GKmv1lw) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Boys In Blue](https://open.spotify.com/album/4Gc4rNpM6O60fm6seAbhqH) | 2:33 |
+| 23 | [Coquelicot](https://open.spotify.com/track/2OmiV4VCHXDzGgsOjdJ5dB) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ), [disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g) | [Coquelicot](https://open.spotify.com/album/5VT0KSzFLeyVOPfmNfQfqO) | 2:53 |
+| 24 | [SITUATION CHEAP](https://open.spotify.com/track/6t3f9Sl83g4viuGWsnEiQm) | [BB NOYAA](https://open.spotify.com/artist/5K3zqOMrHMocBFB5q9AG8I), [Ino Casablanca](https://open.spotify.com/artist/5blvB6N3OACeH0gJL9BRqf) | [SITUATION CHEAP](https://open.spotify.com/album/1TjF0xCufULcSRrmUQ1igm) | 2:45 |
 | 25 | [ciel azur](https://open.spotify.com/track/2mRq38Iw2Wtf5gJyu8Y8bB) | [aupinard](https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne), [Anaïs Cardot](https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU) | [spleen\. social club](https://open.spotify.com/album/6zfiNo6nUuPrVoawomWkEK) | 2:21 |
 | 26 | [Moi](https://open.spotify.com/track/5xBznzl74AmnZsmhqME24s) | [Yoa](https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy) | [Moi](https://open.spotify.com/album/6nTICAZHGjKVtB3krnlHEe) | 3:03 |
 | 27 | [Tia Na Sé](https://open.spotify.com/track/6zzRjzMRxt3MGBsyx75wOh) | [Rambo goyard](https://open.spotify.com/artist/0RRp1XbMoTmW8zSWC1synA) | [Tia Na Sé](https://open.spotify.com/album/7AhjQKIKkggT6me7NFLjkT) | 2:45 |

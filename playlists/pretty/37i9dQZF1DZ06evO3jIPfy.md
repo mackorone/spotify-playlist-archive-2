@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3jIPfy.md) - [plain]
 
 > This is Yo\-Yo Ma\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,539 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,550 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3jIPfy.md) - [plain]
 | 49 | [Piano Trio No\. 3 in C Minor, Op\. 1, No\. 3: II\. Andante cantabile con variazioni](https://open.spotify.com/track/0F2Htrs5xXvQaid44GLIHq) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk), [Emanuel Ax](https://open.spotify.com/artist/17yd2V3A2UmwD0a00hmjX5), [Leonidas Kavakos](https://open.spotify.com/artist/16XP6b4v1MdN8UYRBlgVKn) | [Piano Trio No\. 3 in C Minor, Op\. 1, No\. 3/II\. Andante cantabile con variazioni](https://open.spotify.com/album/68q3yTkL4BARSPZDzaOkSa) | 7:38 |
 | 50 | [Unaccompanied Cello Suite No\. 2 in D Minor, BWV 1008: III\. Courante](https://open.spotify.com/track/1xvvuNKdndTwtS6EH4AxFZ) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk) | [Six Evolutions \- Bach: Cello Suites](https://open.spotify.com/album/6XaCGjrIRFiS5D5IVg66vb) | 1:48 |
 
-Snapshot ID: `afaQAAAAAAAsl23MyvAYMDw/tjlTdOD8`
+Snapshot ID: `affhgAAAAADe3bQ+dqKh1qdP4vih/DKb`

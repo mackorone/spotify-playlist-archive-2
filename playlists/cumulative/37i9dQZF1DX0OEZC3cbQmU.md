@@ -2,9 +2,9 @@
 
 ### [Sucessos Gospel](https://open.spotify.com/playlist/37i9dQZF1DX0OEZC3cbQmU)
 
-> A palavra do Senhor na voz de grandes adoradores do Brasil\. Foto: Get Worship
+> A palavra do Senhor na voz de grandes adoradores do Brasil\. Foto: MORADA
 
-209 songs - 21 hr 49 min
+210 songs - 21 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [Nada Pode Calar Um Adorador](https://open.spotify.com/track/6oKhFyUz7kapALHaK0oPfR) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Nada Pode Calar Um Adorador](https://open.spotify.com/album/4q13cIdJiccllKtmogMEkT) | 4:52 | 2022-09-02 | 2024-08-31 |
 | [Ninguém Explica Deus \(feat\. Gabriela Rocha\) \- Ao Vivo](https://open.spotify.com/track/682XjN6L1Qhs5rXbuGSQKK) | [Preto no Branco](https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Preto no Branco \(Ao Vivo\)](https://open.spotify.com/album/5HtYrFWRTSbUjvoov6YAsG) | 6:30 | 2022-09-02 | 2024-07-19 |
 | [Ninguém Pode Parar \- Ao Vivo](https://open.spotify.com/track/7jm9CmeGfY42Dq3xCSn7oA) | [Theo Rubia](https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe), [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Ninguém Pode Parar \(Ao Vivo\)](https://open.spotify.com/album/74ecO8nFOGDmRiXXjnUYFn) | 5:41 | 2024-11-22 | 2026-02-07 |
+| [NÃO CHORE JOÃO](https://open.spotify.com/track/6dvUdd19BulcH9rIkZd18F) | [MORADA](https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN) | [{Ao Senhor•Aos Santos•Ao Mundo}](https://open.spotify.com/album/1p8TnsMRhfPCTLd0u3NeOF) | 5:03 | 2026-05-05 |  |
 | [Não Há Nome Maior](https://open.spotify.com/track/4WkdRazRRMtnsvdyiiC7FB) | [REVERE](https://open.spotify.com/artist/4O2WXMRRTS8XqmqSTcBnrb), [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Não Há Nome Maior](https://open.spotify.com/album/6vuoxQ1WYRV4xAKBm7f9ok) | 5:09 | 2022-09-02 | 2023-06-03 |
 | [Não Me Deixe Esquecer \- Ao Vivo](https://open.spotify.com/track/5l8vkQjZJz8EXmo28YoaPr) | [Valesca Mayssa](https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Não Me Deixe Esquecer \(Ao Vivo\)](https://open.spotify.com/album/1bpa2Hycu9w4xWU6QRKi1r) | 6:20 | 2026-04-22 |  |
 | [Não Pare](https://open.spotify.com/track/3VCfmjE0oEMYQUil14wd0J) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Não Pare](https://open.spotify.com/album/56P1CgGN8DGhG4ksRz0tfF) | 4:53 | 2022-09-02 | 2025-02-15 |
@@ -196,7 +197,7 @@
 | [Um Novo Dia \- Ao Vivo](https://open.spotify.com/track/3kpWSH8AGR9MkGinPA4XDJ) | [Get Worship](https://open.spotify.com/artist/5ZynjHkFMZINvXZm7DD4Yp), [Get Records](https://open.spotify.com/artist/1CYUWfGfCUbH4AfbK6NG67), [Melk Villar](https://open.spotify.com/artist/2aE9MDAGfmKUGmTTKWjKCn), [Vinicius Cruz](https://open.spotify.com/artist/0cb8UlJzotLRPM0L0wfm4V) | [Um Novo Dia \(Ao Vivo\)](https://open.spotify.com/album/2PgHfrGTk7oyN7XscjbFrE) | 6:00 | 2025-09-29 |  |
 | [Um Refrão Pra Sua Alma](https://open.spotify.com/track/4wQtpt8H34SIyIvz4FG5Mx) | [Leandro Borges](https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Um Refrão Pra Sua Alma](https://open.spotify.com/album/4ZutxcTq9XmVHdKhGto4OI) | 4:16 | 2022-09-02 | 2024-04-20 |
 | [Uma Carta Viva \- Ao Vivo](https://open.spotify.com/track/6CxtFCLyCaDbi0iSO83aHr) | [Get Worship](https://open.spotify.com/artist/5ZynjHkFMZINvXZm7DD4Yp), [Get Records](https://open.spotify.com/artist/1CYUWfGfCUbH4AfbK6NG67), [Vinicius Cruz](https://open.spotify.com/artist/0cb8UlJzotLRPM0L0wfm4V), [Paulo Neto](https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko) | [Uma Carta Viva \(Ao Vivo\)](https://open.spotify.com/album/6spnacimvh1AKK0QA9ZJ09) | 4:59 | 2026-03-13 |  |
-| [Unção Pelo Ar \- Ao Vivo](https://open.spotify.com/track/51K9AGSwKC6QTEMt7ic35E) | [Gabi Sampaio](https://open.spotify.com/artist/1mwuQroxtrC6ANU2Jwb8ZQ), [SOM DO CÉU](https://open.spotify.com/artist/4Tq5E0plsM6uNnLmxJWKNp), [Nívea Izabella](https://open.spotify.com/artist/22dXmOwdGFFSJhRnB9oXWJ) | [Unção Pelo Ar \(Ao Vivo\)](https://open.spotify.com/album/1vf5HDDGqzLvBsNV92pA22) | 10:41 | 2024-07-19 |  |
+| [Unção Pelo Ar \- Ao Vivo](https://open.spotify.com/track/51K9AGSwKC6QTEMt7ic35E) | [Gabi Sampaio](https://open.spotify.com/artist/1mwuQroxtrC6ANU2Jwb8ZQ), [SOM DO CÉU](https://open.spotify.com/artist/4Tq5E0plsM6uNnLmxJWKNp), [Nívea Izabella](https://open.spotify.com/artist/22dXmOwdGFFSJhRnB9oXWJ) | [Unção Pelo Ar \(Ao Vivo\)](https://open.spotify.com/album/1vf5HDDGqzLvBsNV92pA22) | 10:41 | 2024-07-19 | 2026-05-06 |
 | [Vai Passar \- Acústico](https://open.spotify.com/track/1hFe34pro0Dt4a74njqOhB) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Vai Passar \(Acústico\)](https://open.spotify.com/album/7fstEEn2fBN6WM4zE12Ovm) | 4:45 | 2022-09-02 | 2023-09-26 |
 | [Vem Me Buscar \- Ao Vivo](https://open.spotify.com/track/0bMAWV9DDN2fllpvCtpzWl) | [Jefferson & Suellen](https://open.spotify.com/artist/4Cp8MAVITZ6a8qjTVvhV28) | [Vem Me Buscar \(Ao Vivo\)](https://open.spotify.com/album/1IKD5Kb7LNGNo4D14yjinQ) | 6:58 | 2023-02-06 | 2025-02-22 |
 | [Venho a Ti](https://open.spotify.com/track/360gCLBRm4Caa50Vlbluhy) | [Luma Elpidio](https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR) | [Venho a Ti](https://open.spotify.com/album/2sDPeFaxd85ktY7juWm36t) | 5:46 | 2022-09-02 | 2023-02-25 |

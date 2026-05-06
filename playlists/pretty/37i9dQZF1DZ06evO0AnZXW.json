@@ -1,12 +1,12 @@
 {
   "description": "This is XXXTENTACION. The essential tracks, all in one playlist.",
-  "num_followers": 2946436,
+  "num_followers": 2946413,
   "original_name": "This Is XXXTENTACION",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afaQAAAAAABZmqqRkcVZNvBg1O9hgSU5",
+  "snapshot_id": "affhgAAAAADaLXVSvaL1JqRwKEhN9Fjr",
   "tracks": [
     {
       "added_at": null,
@@ -807,6 +807,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "SKINS",
+        "url": "https://open.spotify.com/album/1qsQOC4Jn0fnaUZLAbs4dz"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "duration_ms": 76973,
+      "name": "difference (interlude)",
+      "url": "https://open.spotify.com/track/5itzep0nGnq7hxCfFNsTIR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "XXXTENTACION Presents: Members Only, Vol. 3",
         "url": "https://open.spotify.com/album/7ifkO4gppMVf0HNy7JJDHn"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 118360,
       "name": "Curse",
       "url": "https://open.spotify.com/track/5BYCMWNQqz4nqErN1ReRGL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SKINS",
-        "url": "https://open.spotify.com/album/1qsQOC4Jn0fnaUZLAbs4dz"
-      },
-      "artists": [
-        {
-          "name": "XXXTENTACION",
-          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
-        }
-      ],
-      "duration_ms": 76973,
-      "name": "difference (interlude)",
-      "url": "https://open.spotify.com/track/5itzep0nGnq7hxCfFNsTIR"
     },
     {
       "added_at": null,

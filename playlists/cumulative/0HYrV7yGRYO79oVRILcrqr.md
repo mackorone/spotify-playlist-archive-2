@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-472 songs - 1 day 5 hr 28 min
+476 songs - 1 day 5 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [Fine](https://open.spotify.com/track/1acTG3McucI4PvWXxjGwoV) | [Brian Wolff](https://open.spotify.com/artist/5tW2IMfCtMzMHLij0PlQht) | [Fine](https://open.spotify.com/album/0wxCT2YorPsh4VKkei1jfP) | 4:10 | 2025-10-02 | 2025-12-17 |
 | [Fingers Crossed](https://open.spotify.com/track/3vFYVPDRiQjCRJnqgzNbE6) | [Annabelle Grace](https://open.spotify.com/artist/20lr4qe8AZ4I2vuVl6NlL7) | [Fingers Crossed](https://open.spotify.com/album/3rtqRLOBd3NMTmocyqu54Q) | 3:48 | 2026-04-27 |  |
 | [FLICK MY HAIR](https://open.spotify.com/track/6kUmbD1EfBxaa95s05UhTU) | [ABELA](https://open.spotify.com/artist/3t19go2ralbBNKL0LggZW0) | [FLICK MY HAIR](https://open.spotify.com/album/0cNFUNwrBZw5WCSocHkpGI) | 2:47 | 2026-04-11 | 2026-04-21 |
+| [For So Long](https://open.spotify.com/track/2cQ5CeTRxGA2prgkS9mN3C) | [K W Hoffman](https://open.spotify.com/artist/11NQwwc952s3dgAPbR5VPD) | [For So Long](https://open.spotify.com/album/1HV2Wz9Ntwy0DXopB9gnnm) | 2:46 | 2026-05-05 |  |
 | [Forgive](https://open.spotify.com/track/5ytMfGDejFHiRfVmdjF78L) | [Death is a Bastard](https://open.spotify.com/artist/2sQoCJHOl4SChaJkymcsPY) | [Forgive](https://open.spotify.com/album/0zGmjvzjzdqKpdVa5iHVBB) | 5:46 | 2026-04-12 |  |
 | [Former Familiars](https://open.spotify.com/track/42nPI8i0ytjsI9s8qaBZ1Q) | [Nicolust](https://open.spotify.com/artist/0uZVCERmBAm9C9PWvbIwlb) | [Former Familiars](https://open.spotify.com/album/2oR5fZvdLWdJndK28PdXv4) | 4:21 | 2026-03-16 | 2026-04-21 |
 | [Free Way Out](https://open.spotify.com/track/7gSjuNcfiqLaUDYS5jEBPD) | [Voodoo Queen](https://open.spotify.com/artist/4TCJrwz91dvytiaX8RZhi6) | [Free Way Out](https://open.spotify.com/album/0KppBhyakdpAXmc9HAi6hM) | 4:11 | 2025-09-22 | 2025-12-17 |
@@ -168,6 +169,7 @@
 | [GIVE ME A LITTLE SOMETHING](https://open.spotify.com/track/31g6LI5FcZIg8qtwJu9adO) | [Whiskey South](https://open.spotify.com/artist/3FW9jdn2u4rDfo73WkfLsk) | [GIVE ME A LITTLE SOMETHING](https://open.spotify.com/album/3EQVs1LxN2BAc1rSHHp9iB) | 2:49 | 2026-01-27 | 2026-03-18 |
 | [GO, ASPES, GO!](https://open.spotify.com/track/1mpuTkfVafb22RRsbyVYqm) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb), [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [GO, ASPES, GO!](https://open.spotify.com/album/5v5VtoURQd0LyfEumtJwW9) | 2:13 | 2026-04-21 |  |
 | [Goblin Knight](https://open.spotify.com/track/2ubz5puXCEXgeyk0xIj4lC) | [Digiplayer.13](https://open.spotify.com/artist/32yRrtY4Az7zXL2a2nf9gk), [Zona.13](https://open.spotify.com/artist/5bRr4E3eT9fn7FGxK730YU), [Twilight.13](https://open.spotify.com/artist/4N1jpZDATwsCAU75B8Bh99) | [Goblin Knight](https://open.spotify.com/album/0i6ImkD3jN1XI1Iw0OvcJK) | 2:53 | 2025-12-29 | 2026-03-18 |
+| [Gods of Karma](https://open.spotify.com/track/6xYVg6FqtKUuRO7BFUfmUQ) | [Nathan J Lark](https://open.spotify.com/artist/5gTZaw7bOLKdFyGQsjHMcG) | [Gods of Karma](https://open.spotify.com/album/5UF7fKwX15lsBuzRF1h4hb) | 5:29 | 2026-05-05 |  |
 | [Goes like this](https://open.spotify.com/track/75u3OSWmlthee7G1k149hA) | [FH Baloo](https://open.spotify.com/artist/7rkZjZIX74Z5uG5ayplthd) | [Goes like this](https://open.spotify.com/album/2fRbbTLonnCV19IAYyjqmX) | 5:14 | 2025-09-02 |  |
 | [Good ain't easy](https://open.spotify.com/track/7ic4oLf0a1zRr4dRPdLltR) | [Billy Witch](https://open.spotify.com/artist/2ZWJj4PwlFSk50k0Oca1Bw) | [Good ain't easy](https://open.spotify.com/album/0anYwqjjH7DryavMxjKjv0) | 3:19 | 2025-11-10 | 2025-12-17 |
 | [Good Bye Baby](https://open.spotify.com/track/7wKQ4aUYEPXIq0FuWTIiS3) | [Bruce Derby](https://open.spotify.com/artist/3L7v52f5rkuzgDWI2BIhJl) | [Good Bye Baby](https://open.spotify.com/album/2C0ez6GxS1biRCR0AwH7fB) | 4:34 | 2025-11-12 | 2025-12-17 |
@@ -243,6 +245,7 @@
 | [Limitless](https://open.spotify.com/track/3d6SDGekSWy5FpiQx70d1C) | [W\. Charles Hall](https://open.spotify.com/artist/1YJgR9U2T5deghpvxv7VSj) | [Heartland](https://open.spotify.com/album/3qamfjUyjGNTFBDxI6g9uY) | 3:42 | 2026-03-16 | 2026-04-21 |
 | [Little Bit Closer](https://open.spotify.com/track/41ibNw69vc7EOi6jv9EqEU) | [Mary Wiles](https://open.spotify.com/artist/1U4MNNHHmj3YK2weAeiUTl) | [Why Not Take A Chance](https://open.spotify.com/album/5KsoXtKHhjGc8bPgSjjQey) | 2:54 | 2025-10-30 | 2025-12-17 |
 | [Little Girl](https://open.spotify.com/track/62lgxs50xzYUAjFLPTgfPj) | [Ryan Hanifl](https://open.spotify.com/artist/1AuTC05dE8pv2qIT1hIjMD) | [Sourpuss](https://open.spotify.com/album/6hQSWrkqdDJ1fRDxKw6jTM) | 4:13 | 2025-10-05 | 2025-11-28 |
+| [Lo Que Pudo Ser](https://open.spotify.com/track/0IwYsw7OECCgoHTbZWKmXU) | [Puerto Mariel](https://open.spotify.com/artist/4RYkqvK3dICXDfPhGaQa1C) | [Lo Que Pudo Ser](https://open.spotify.com/album/7JlXBgjl3Jrz2T6D8oevHP) | 3:50 | 2026-05-05 |  |
 | [Love Bomb Me](https://open.spotify.com/track/7qZgGW3dEySJaU9aXgQmn9) | [Who's Amber?](https://open.spotify.com/artist/1k1JkZDYdPfGr7sMhuzReV) | [Love Bomb Me](https://open.spotify.com/album/0Ht9x8uHVCDnGVG8yYiT1a) | 4:02 | 2025-10-04 | 2025-12-17 |
 | [LOVE CRY](https://open.spotify.com/track/1jZitmjNQnvi4bIAMaa6ED) | [The Morning Sons](https://open.spotify.com/artist/5Q0x4IVSxDcFgOwgyikTwD) | [LOVE CRY](https://open.spotify.com/album/1igVBGMLk0OiqaWjhFp1uV) | 5:15 | 2026-03-01 |  |
 | [Love dont live here no more](https://open.spotify.com/track/46ddaPksuVwz9I1I0MELlU) | [Ario Nanaj](https://open.spotify.com/artist/3oxKAakkUQ02MoRb5Z6qrq) | [Echos From The Mountains](https://open.spotify.com/album/06rsDsZw8cpL50L92qtRmT) | 4:25 | 2026-01-27 | 2026-03-18 |
@@ -251,6 +254,7 @@
 | [Love Lies Cold](https://open.spotify.com/track/2ppN2JHxGi6wps7RBBlZUu) | [Julience](https://open.spotify.com/artist/4SlykBMGNk8EXDDFfphLvL) | [Love Lies Cold](https://open.spotify.com/album/4BvAfPva3VDcDqAvb8n9sO) | 4:11 | 2026-05-03 |  |
 | [LTK](https://open.spotify.com/track/44Qqn1dhvDng9pLPANoRGh) | [Steve Schwartz](https://open.spotify.com/artist/0rFuKciUQDbtEQmQ6XJ4YQ) | [LTK](https://open.spotify.com/album/3j7jt2dabJflTVhsgznvVO) | 3:52 | 2025-12-22 | 2026-04-21 |
 | [Lucha](https://open.spotify.com/track/3uukDbfr18JxhaGbqijTWT) | [Flores & Mcewen](https://open.spotify.com/artist/1qpP1qC1284dxZNqHwoGnp) | [Lucha](https://open.spotify.com/album/6YiYSdZZMLpnjlMwM4Ljm0) | 3:15 | 2026-03-14 | 2026-04-21 |
+| [Lullaby](https://open.spotify.com/track/6Y6rNeW1Efcl7Jq0MT9TOV) | [Svetlana Bakushina](https://open.spotify.com/artist/1fGAIRdys4yhkkIJqz2bXL), [Carlos Rufo Martins](https://open.spotify.com/artist/0WDrIGBxrkxVF632AoVCdJ) | [Lullaby](https://open.spotify.com/album/01nMm9B1zVmQlGW1EmAlIb) | 3:37 | 2026-05-05 |  |
 | [Mad Puppies](https://open.spotify.com/track/1BCF3qP2Tm8YL9Lo1VmcHA) | [Bit Commander](https://open.spotify.com/artist/53aISfz35xV7ZbrD9vQBPF) | [Mad Puppies](https://open.spotify.com/album/08M39olgNPLTRMjpa6pf0u) | 2:08 | 2025-12-16 | 2026-04-21 |
 | [Madhouse Holiday](https://open.spotify.com/track/6zeZvQfCUgngpOLXqrssXs) | [Methody Nightingale](https://open.spotify.com/artist/2V9RL8G3rCcT0n2H0jdpEw) | [Madhouse Holiday](https://open.spotify.com/album/5ZRaOTR2U8al2Gi7UMn1ny) | 6:43 | 2026-02-22 | 2026-03-18 |
 | [Make Love](https://open.spotify.com/track/3ijoP1G48nhRcBY2QB2y4o) | [CLARASCHEIN](https://open.spotify.com/artist/3G6VR0fzmyjvNSxZx6480w), [Vittorio Longobardi](https://open.spotify.com/artist/06qOVeNb3n8mq1UhbWG3TE) | [Make Love](https://open.spotify.com/album/0kJwIehJg21K07TgHVzCcS) | 2:37 | 2026-01-28 | 2026-03-18 |

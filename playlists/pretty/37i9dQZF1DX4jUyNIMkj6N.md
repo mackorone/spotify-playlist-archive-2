@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,680 likes - 60 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,756 likes - 60 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 | 5 | [Julia](https://open.spotify.com/track/3R6Tl3h7z21hPVz55ZEMeQ) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [Julia](https://open.spotify.com/album/71VHBPBBSf8P93F4uoo3si) | 4:45 |
 | 6 | [When it’s Dark](https://open.spotify.com/track/2mJoK5jMdS6RtiJzcqs9mR) | [Days of August](https://open.spotify.com/artist/0yWSMZXHERES9DFEqgwYGf) | [When it’s Dark](https://open.spotify.com/album/7DCE2ezJTh6tA9LQoQWHpg) | 3:36 |
 | 7 | [If We Were Vampires](https://open.spotify.com/track/1GffRISfxWmLTwWlN13qLE) | [Silver Lining](https://open.spotify.com/artist/2fpiIE5NAH8HpcYthaxm97) | [Four Little Songs](https://open.spotify.com/album/6Ds0b3VYhaYtxztw5hh5pJ) | 3:25 |
-| 8 | [Hour Of The Wolf](https://open.spotify.com/track/6Zirl4DI0nDDvhbnX6AYYF) | [Freja Drakenberg](https://open.spotify.com/artist/2SKLZYthHIaik4nPTqcboR), [Freja The Dragon](https://open.spotify.com/artist/78zIVRdVKJ8tl8TTtsC3Ke) | [Hour Of The Wolf](https://open.spotify.com/album/29Sjzrz2LofwS2F0PpZ319) | 2:44 |
+| 8 | [Hour Of The Wolf](https://open.spotify.com/track/6Zirl4DI0nDDvhbnX6AYYF) | [Freja Drakenberg](https://open.spotify.com/artist/2SKLZYthHIaik4nPTqcboR) | [Hour Of The Wolf](https://open.spotify.com/album/29Sjzrz2LofwS2F0PpZ319) | 2:44 |
 | 9 | [To Know A Girl](https://open.spotify.com/track/1Wym8u72A2GXzdJnr1LV37) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [To Know A Girl](https://open.spotify.com/album/6KnpVvB8AeJmxnVSscHgOg) | 2:01 |
 | 10 | [No Fear](https://open.spotify.com/track/7jIpbeX9pgpxDF8AlDoxXl) | [Freyr](https://open.spotify.com/artist/0XEC2bQgKvaq09BZFPDA9y) | [No Fear](https://open.spotify.com/album/4FFPLBRqTbPJiE9btO3sJe) | 3:44 |
 | 11 | [member](https://open.spotify.com/track/3oP9C1RYEOzRWMmnKtC8wh) | [AKA lisa](https://open.spotify.com/artist/0WTTqGh79njNF2o4Cgklc1) | [member](https://open.spotify.com/album/6Qss7SVxhsnDImYCXUvdNE) | 3:07 |
@@ -58,15 +58,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 | 48 | [forever, for a while](https://open.spotify.com/track/3TXIqqudMSSS0kkQ3sQV0S) | [AKA lisa](https://open.spotify.com/artist/0WTTqGh79njNF2o4Cgklc1) | [Laminar Flow](https://open.spotify.com/album/5kPtNtdTsetojNrljTLF42) | 2:13 |
 | 49 | [Viking Fair](https://open.spotify.com/track/4WDhZnRugs36yOeqdvNMAP) | [forfedre](https://open.spotify.com/artist/56lSAnlEsyFYGXvdzXyICW) | [Viking Fair](https://open.spotify.com/album/22FZK52VbGzyPtzBpBK5D4) | 1:07 |
 | 50 | [Warm Weather Song](https://open.spotify.com/track/0a6MgmYXX8QCCmCPNRMshq) | [Beth McBride](https://open.spotify.com/artist/5pCLyj9brVtNc1UuTeWl73) | [Little Storm](https://open.spotify.com/album/3SG6ai3jzNsouC1LIn6BIx) | 3:41 |
-| 51 | [9 to 5](https://open.spotify.com/track/5OvkbpZ2ANLbLpzPbz0VAd) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [9 to 5](https://open.spotify.com/album/0L3NpPVZEoyF6KvFUcHhua) | 3:21 |
-| 52 | [Pixie's Parasol](https://open.spotify.com/track/00Gbi2ytn6ZmA1ObVcPT93) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [Pixie's Parasol](https://open.spotify.com/album/4giKFINYxPLvnV0fBsv4Vw) | 3:02 |
+| 51 | [Pixie's Parasol](https://open.spotify.com/track/00Gbi2ytn6ZmA1ObVcPT93) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [Pixie's Parasol](https://open.spotify.com/album/4giKFINYxPLvnV0fBsv4Vw) | 3:02 |
+| 52 | [9 to 5](https://open.spotify.com/track/5OvkbpZ2ANLbLpzPbz0VAd) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [9 to 5](https://open.spotify.com/album/0L3NpPVZEoyF6KvFUcHhua) | 3:21 |
 | 53 | [Feels like That](https://open.spotify.com/track/6odNsNmG4RJbxIkNBe9otp) | [Victor Lundberg](https://open.spotify.com/artist/3aPt0ITiKD1r1GXV3RvOUh) | [Feels like That](https://open.spotify.com/album/74iE9zshOGQsSLWsAtmPlq) | 3:36 |
 | 54 | [Noe enkelt](https://open.spotify.com/track/7yTpaET2jjkSPLnhTFT75r) | [Erlend Ropstad](https://open.spotify.com/artist/5DEpvCUOqEagldzoh25m1t) | [Noe enkelt](https://open.spotify.com/album/3tii6B8NjGqRqGc39rxTai) | 6:15 |
-| 55 | [Wild Geese, Wild Love](https://open.spotify.com/track/6AKLCejap9zRZ4QDKyrmSR) | [Amanda Bergman](https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80) | [Wild Geese, Wild Love / Day 2000 Awake](https://open.spotify.com/album/66GZtWDeK1hpl8runVWZQB) | 5:23 |
-| 56 | [So Damn Lucky](https://open.spotify.com/track/7brPUw5WQgZcDkyCPMu5Ft) | [Jakob Friis](https://open.spotify.com/artist/4W65uXff8s1QiO5ZoQis5D) | [Coming Home](https://open.spotify.com/album/3LwI5RofgqphzuUo4TvYdR) | 3:57 |
+| 55 | [So Damn Lucky](https://open.spotify.com/track/7brPUw5WQgZcDkyCPMu5Ft) | [Jakob Friis](https://open.spotify.com/artist/4W65uXff8s1QiO5ZoQis5D) | [Coming Home](https://open.spotify.com/album/3LwI5RofgqphzuUo4TvYdR) | 3:57 |
+| 56 | [Wild Geese, Wild Love](https://open.spotify.com/track/6AKLCejap9zRZ4QDKyrmSR) | [Amanda Bergman](https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80) | [Wild Geese, Wild Love / Day 2000 Awake](https://open.spotify.com/album/66GZtWDeK1hpl8runVWZQB) | 5:23 |
 | 57 | [I Let the Good Ones Go](https://open.spotify.com/track/3Q30mwHAXv4cYoIQFiIWt8) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [A Chosen Family](https://open.spotify.com/album/5edXe34CzaJQps4q5ADGdr) | 3:55 |
 | 58 | [i went outside](https://open.spotify.com/track/6kV6ZzRW1h7I6eU9910mvJ) | [Arny Margret](https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW) | [i went outside](https://open.spotify.com/album/0V6oGX0dgiLotHW6DwEF4F) | 4:53 |
 | 59 | [Tennessee](https://open.spotify.com/track/3aUYO9yu8Q3MzNPToWkkBc) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [Tennessee](https://open.spotify.com/album/2s2VJj5SNBnkUuBZlzoP7s) | 2:39 |
-| 60 | [Hey Judy](https://open.spotify.com/track/4iCE97DfG7KbiVbiXFQUt2) | [Beth McBride](https://open.spotify.com/artist/5pCLyj9brVtNc1UuTeWl73) | [Hey Judy](https://open.spotify.com/album/0pMk1n2uuRifp4jla352aJ) | 3:41 |
+| 60 | [Roses](https://open.spotify.com/track/3D8ZM1wtK9TOoJTzlFrSNU) | [Beinir](https://open.spotify.com/artist/0SA6vUUcuORGdt3ZjjJzjf) | [Roses](https://open.spotify.com/album/2gxfakFxfl2nBHFtSFRnzV) | 3:09 |
 
 Snapshot ID: `AAAAAMt7aUsUWlQnmQ6+QpvHO7dq6w0H`

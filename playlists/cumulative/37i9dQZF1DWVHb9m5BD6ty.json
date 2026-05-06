@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "The newest from UK & Ireland driving the current. Cover: Master Peace",
+  "description": "The newest from UK & Ireland driving the current. Cover: Nia Archives",
   "name": "Frequency UK & Ireland",
   "tracks": [
     {
@@ -164,7 +164,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 214320,
       "name": "9 Months",
       "url": "https://open.spotify.com/track/5ytyIX649Ky20J20yVJUbh"
@@ -707,6 +707,24 @@
     },
     {
       "album": {
+        "name": "Boys In Blue",
+        "url": "https://open.spotify.com/album/4Gc4rNpM6O60fm6seAbhqH"
+      },
+      "artists": [
+        {
+          "name": "Nia Archives",
+          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153045,
+      "name": "Boys In Blue",
+      "url": "https://open.spotify.com/track/0R3sddzRt8fbbY9GKmv1lw"
+    },
+    {
+      "album": {
         "name": "Brown",
         "url": "https://open.spotify.com/album/7no3izZxAhxrQTas2QKoZo"
       },
@@ -870,7 +888,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 103441,
       "name": "Close to you",
       "url": "https://open.spotify.com/track/6CBurTHmYJhIcDD72Qgjnm"
@@ -1251,6 +1269,24 @@
     },
     {
       "album": {
+        "name": "Fell Again / Stranger What's Your Name?",
+        "url": "https://open.spotify.com/album/5ug1JL9PFc1gCxokrSh1yo"
+      },
+      "artists": [
+        {
+          "name": "cikho",
+          "url": "https://open.spotify.com/artist/3K5lshiZhzx2bvme3n4hTz"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161764,
+      "name": "Fell Again",
+      "url": "https://open.spotify.com/track/6S86CLAoA7S19wk8WeQjRs"
+    },
+    {
+      "album": {
         "name": "Figures On The Wall",
         "url": "https://open.spotify.com/album/6hY9QAvmK9VgXrknFcLFqi"
       },
@@ -1262,7 +1298,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 182546,
       "name": "Figures On The Wall",
       "url": "https://open.spotify.com/track/5gtVkK1PFQ7kMDfddHxMuH"
@@ -1544,7 +1580,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 157183,
       "name": "Guitar",
       "url": "https://open.spotify.com/track/4nJkFvJmrEllCKHlrDJcN7"
@@ -2737,6 +2773,24 @@
     },
     {
       "album": {
+        "name": "Oiii DJ",
+        "url": "https://open.spotify.com/album/2pAjAum20KgmBY3aCeTkII"
+      },
+      "artists": [
+        {
+          "name": "\u00a3MONZO",
+          "url": "https://open.spotify.com/artist/3cqU5Vi6bp8KZxwbJyZ6lv"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144857,
+      "name": "Oiii DJ",
+      "url": "https://open.spotify.com/track/4PnPLsW50W3AoX8gYf3e7i"
+    },
+    {
+      "album": {
         "name": "On My Ones",
         "url": "https://open.spotify.com/album/1R3uyALjRTwNuYXf3zJQt7"
       },
@@ -3541,6 +3595,24 @@
     },
     {
       "album": {
+        "name": "So LDN",
+        "url": "https://open.spotify.com/album/7v1RIDQubIyrZRm5nqNRaL"
+      },
+      "artists": [
+        {
+          "name": "Chy Cartier",
+          "url": "https://open.spotify.com/artist/4qxFzMJxrNzlv11J7pCY5q"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160416,
+      "name": "So LDN",
+      "url": "https://open.spotify.com/track/3fbvgXvMuGBY29RH3wvlt7"
+    },
+    {
+      "album": {
         "name": "Feline's Return",
         "url": "https://open.spotify.com/album/2Mk8d4jvxyyNYbVZcY98hR"
       },
@@ -3684,6 +3756,24 @@
       "duration_ms": 172904,
       "name": "Sorry I'm Like This",
       "url": "https://open.spotify.com/track/4F3aBBLzNf56Yx23TZFfgJ"
+    },
+    {
+      "album": {
+        "name": "So\u2026",
+        "url": "https://open.spotify.com/album/0OzdBCnFDAXd02FELiFPuN"
+      },
+      "artists": [
+        {
+          "name": "Ama",
+          "url": "https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196631,
+      "name": "So\u2026",
+      "url": "https://open.spotify.com/track/1W31Osw7XybJ4YcS3NCOZ5"
     },
     {
       "album": {
@@ -3994,7 +4084,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 125186,
       "name": "The Money Song",
       "url": "https://open.spotify.com/track/4ttS3N5CJaCObiwmJqMmF7"

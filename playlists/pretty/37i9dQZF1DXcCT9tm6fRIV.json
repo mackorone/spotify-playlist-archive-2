@@ -1,6 +1,6 @@
 {
   "description": "Disfruta esta fina selecci\u00f3n de los mejores Tangos argentinos.",
-  "num_followers": 247516,
+  "num_followers": 247520,
   "original_name": "Tangos y Milongas",
   "owner": {
     "name": "Spotify",
@@ -99,26 +99,6 @@
     {
       "added_at": "2025-12-05 15:53:48",
       "album": {
-        "name": "Uno",
-        "url": "https://open.spotify.com/album/4bk560hRfrAuBCHOpitRcp"
-      },
-      "artists": [
-        {
-          "name": "Roberto Goyeneche",
-          "url": "https://open.spotify.com/artist/3tkyefEX4NNjb0AILRLq2A"
-        },
-        {
-          "name": "Armando Pontier",
-          "url": "https://open.spotify.com/artist/1szZbhqQOu1TDHF4bqDeVM"
-        }
-      ],
-      "duration_ms": 246600,
-      "name": "Uno",
-      "url": "https://open.spotify.com/track/1IU4Tq9toArBH7dincawc6"
-    },
-    {
-      "added_at": "2025-12-05 15:53:48",
-      "album": {
         "name": "El Firulete",
         "url": "https://open.spotify.com/album/3Gs3IScxQIDPlkUK2QibPV"
       },
@@ -135,6 +115,26 @@
       "duration_ms": 185626,
       "name": "El Ultimo Caf\u00e9 (with Leopoldo Federico y Su Orquesta)",
       "url": "https://open.spotify.com/track/0c19zOgwp0OFKv7tlNYebl"
+    },
+    {
+      "added_at": "2025-12-05 15:53:48",
+      "album": {
+        "name": "Uno",
+        "url": "https://open.spotify.com/album/4bk560hRfrAuBCHOpitRcp"
+      },
+      "artists": [
+        {
+          "name": "Roberto Goyeneche",
+          "url": "https://open.spotify.com/artist/3tkyefEX4NNjb0AILRLq2A"
+        },
+        {
+          "name": "Armando Pontier",
+          "url": "https://open.spotify.com/artist/1szZbhqQOu1TDHF4bqDeVM"
+        }
+      ],
+      "duration_ms": 246600,
+      "name": "Uno",
+      "url": "https://open.spotify.com/track/1IU4Tq9toArBH7dincawc6"
     },
     {
       "added_at": "2025-12-05 15:53:48",
@@ -187,18 +187,22 @@
     {
       "added_at": "2025-12-05 15:53:48",
       "album": {
-        "name": "Ausencia",
-        "url": "https://open.spotify.com/album/5FgdIk8Td9O66U74UF7slF"
+        "name": "El Tango Lo Siento As\u00ed",
+        "url": "https://open.spotify.com/album/7amr3RlvimM5xJ3ipKCiv9"
       },
       "artists": [
         {
-          "name": "Osvaldo Pugliese",
-          "url": "https://open.spotify.com/artist/2HO9rAU2R7CRnmhx0ytN41"
+          "name": "Julio Sosa",
+          "url": "https://open.spotify.com/artist/7Cg2eqV6oHNE0P54WfajIX"
+        },
+        {
+          "name": "Leopoldo Federico y su Orquesta",
+          "url": "https://open.spotify.com/artist/2QtuDqkuMbNQlmGgMbPBOA"
         }
       ],
-      "duration_ms": 175626,
-      "name": "Desde El Alma - Instrumental",
-      "url": "https://open.spotify.com/track/7hc9R31zHkGP84yPheNFFG"
+      "duration_ms": 192266,
+      "name": "Mano a Mano (with Leopoldo Federico y Su Orquesta)",
+      "url": "https://open.spotify.com/track/6Wo9pGMG6SeqTyhjAbcQbw"
     },
     {
       "added_at": "2025-12-05 15:53:48",
@@ -243,22 +247,18 @@
     {
       "added_at": "2025-12-05 15:53:48",
       "album": {
-        "name": "El Tango Lo Siento As\u00ed",
-        "url": "https://open.spotify.com/album/7amr3RlvimM5xJ3ipKCiv9"
+        "name": "Ausencia",
+        "url": "https://open.spotify.com/album/5FgdIk8Td9O66U74UF7slF"
       },
       "artists": [
         {
-          "name": "Julio Sosa",
-          "url": "https://open.spotify.com/artist/7Cg2eqV6oHNE0P54WfajIX"
-        },
-        {
-          "name": "Leopoldo Federico y su Orquesta",
-          "url": "https://open.spotify.com/artist/2QtuDqkuMbNQlmGgMbPBOA"
+          "name": "Osvaldo Pugliese",
+          "url": "https://open.spotify.com/artist/2HO9rAU2R7CRnmhx0ytN41"
         }
       ],
-      "duration_ms": 192266,
-      "name": "Mano a Mano (with Leopoldo Federico y Su Orquesta)",
-      "url": "https://open.spotify.com/track/6Wo9pGMG6SeqTyhjAbcQbw"
+      "duration_ms": 175626,
+      "name": "Desde El Alma - Instrumental",
+      "url": "https://open.spotify.com/track/7hc9R31zHkGP84yPheNFFG"
     },
     {
       "added_at": "2025-12-05 15:53:48",
@@ -275,6 +275,22 @@
       "duration_ms": 169033,
       "name": "Gipsy Vals",
       "url": "https://open.spotify.com/track/2dlDO0UnTyur4GVjZCi04K"
+    },
+    {
+      "added_at": "2025-12-05 15:53:48",
+      "album": {
+        "name": "Var\u00f3n (Remastered)",
+        "url": "https://open.spotify.com/album/1mIJOhB8422u9D6b7Fjow9"
+      },
+      "artists": [
+        {
+          "name": "Julio Sosa",
+          "url": "https://open.spotify.com/artist/7Cg2eqV6oHNE0P54WfajIX"
+        }
+      ],
+      "duration_ms": 192815,
+      "name": "Qu\u00e9 me van a hablar de amor - Remastered",
+      "url": "https://open.spotify.com/track/3FfcNuVn1yyNkikUxm6qwW"
     },
     {
       "added_at": "2025-12-05 15:53:48",
@@ -299,22 +315,6 @@
       "duration_ms": 202240,
       "name": "Volver",
       "url": "https://open.spotify.com/track/70abt7HwRBCHQA3G5oa1JF"
-    },
-    {
-      "added_at": "2025-12-05 15:53:48",
-      "album": {
-        "name": "From Argentina To The World",
-        "url": "https://open.spotify.com/album/0U52Cb4CVMYMZ4vWCXOd8G"
-      },
-      "artists": [
-        {
-          "name": "Osvaldo Pugliese",
-          "url": "https://open.spotify.com/artist/2HO9rAU2R7CRnmhx0ytN41"
-        }
-      ],
-      "duration_ms": 213720,
-      "name": "Gallo Ciego - Instrumental",
-      "url": "https://open.spotify.com/track/0fIgeZTUAs6FKTrBWJBJl5"
     },
     {
       "added_at": "2025-12-05 15:53:48",
@@ -375,34 +375,34 @@
     {
       "added_at": "2025-12-05 15:53:48",
       "album": {
-        "name": "Var\u00f3n (Remastered)",
-        "url": "https://open.spotify.com/album/1mIJOhB8422u9D6b7Fjow9"
+        "name": "From Argentina To The World",
+        "url": "https://open.spotify.com/album/0U52Cb4CVMYMZ4vWCXOd8G"
       },
       "artists": [
         {
-          "name": "Julio Sosa",
-          "url": "https://open.spotify.com/artist/7Cg2eqV6oHNE0P54WfajIX"
+          "name": "Osvaldo Pugliese",
+          "url": "https://open.spotify.com/artist/2HO9rAU2R7CRnmhx0ytN41"
         }
       ],
-      "duration_ms": 192815,
-      "name": "Qu\u00e9 me van a hablar de amor - Remastered",
-      "url": "https://open.spotify.com/track/3FfcNuVn1yyNkikUxm6qwW"
+      "duration_ms": 213720,
+      "name": "Gallo Ciego - Instrumental",
+      "url": "https://open.spotify.com/track/0fIgeZTUAs6FKTrBWJBJl5"
     },
     {
       "added_at": "2025-12-05 15:53:48",
       "album": {
-        "name": "Antologia Roberto Goyeneche",
-        "url": "https://open.spotify.com/album/6mkrR53e4FhE59s92qE0gX"
+        "name": "Milonguera: Des femmes et du tango",
+        "url": "https://open.spotify.com/album/37rcqU2wI70tmbQOQsmJlw"
       },
       "artists": [
         {
-          "name": "Roberto Goyeneche",
-          "url": "https://open.spotify.com/artist/3tkyefEX4NNjb0AILRLq2A"
+          "name": "Carlos Gardel",
+          "url": "https://open.spotify.com/artist/05Q9xndTxhXhD5trpmTtfU"
         }
       ],
-      "duration_ms": 168773,
-      "name": "Yira...Yira",
-      "url": "https://open.spotify.com/track/4OdgV0DhEd9gnXwQf4giSh"
+      "duration_ms": 124146,
+      "name": "Chorra",
+      "url": "https://open.spotify.com/track/1URyyv3KRVnqlVkQQi3OlQ"
     },
     {
       "added_at": "2025-12-05 15:53:48",
@@ -427,34 +427,18 @@
     {
       "added_at": "2025-12-05 15:53:48",
       "album": {
-        "name": "Milonguera: Des femmes et du tango",
-        "url": "https://open.spotify.com/album/37rcqU2wI70tmbQOQsmJlw"
+        "name": "Antologia Roberto Goyeneche",
+        "url": "https://open.spotify.com/album/6mkrR53e4FhE59s92qE0gX"
       },
       "artists": [
         {
-          "name": "Carlos Gardel",
-          "url": "https://open.spotify.com/artist/05Q9xndTxhXhD5trpmTtfU"
+          "name": "Roberto Goyeneche",
+          "url": "https://open.spotify.com/artist/3tkyefEX4NNjb0AILRLq2A"
         }
       ],
-      "duration_ms": 124146,
-      "name": "Chorra",
-      "url": "https://open.spotify.com/track/1URyyv3KRVnqlVkQQi3OlQ"
-    },
-    {
-      "added_at": "2025-12-05 15:53:48",
-      "album": {
-        "name": "Ausencia",
-        "url": "https://open.spotify.com/album/5FgdIk8Td9O66U74UF7slF"
-      },
-      "artists": [
-        {
-          "name": "Osvaldo Pugliese",
-          "url": "https://open.spotify.com/artist/2HO9rAU2R7CRnmhx0ytN41"
-        }
-      ],
-      "duration_ms": 166773,
-      "name": "La Yumba - Instrumental",
-      "url": "https://open.spotify.com/track/6B11DcP8lV8vq720QEfC9B"
+      "duration_ms": 168773,
+      "name": "Yira...Yira",
+      "url": "https://open.spotify.com/track/4OdgV0DhEd9gnXwQf4giSh"
     },
     {
       "added_at": "2025-12-05 15:53:48",
@@ -471,6 +455,22 @@
       "duration_ms": 140032,
       "name": "El Dia Que Me Quieras",
       "url": "https://open.spotify.com/track/5dk0nQ1vHHMhQMb9ngbpRY"
+    },
+    {
+      "added_at": "2025-12-05 15:53:48",
+      "album": {
+        "name": "Ausencia",
+        "url": "https://open.spotify.com/album/5FgdIk8Td9O66U74UF7slF"
+      },
+      "artists": [
+        {
+          "name": "Osvaldo Pugliese",
+          "url": "https://open.spotify.com/artist/2HO9rAU2R7CRnmhx0ytN41"
+        }
+      ],
+      "duration_ms": 166773,
+      "name": "La Yumba - Instrumental",
+      "url": "https://open.spotify.com/track/6B11DcP8lV8vq720QEfC9B"
     },
     {
       "added_at": "2025-12-05 15:53:48",
@@ -531,6 +531,22 @@
     {
       "added_at": "2025-12-05 15:53:48",
       "album": {
+        "name": "Antolog\u00eda, Vol. 1: Gardel y Le Pera",
+        "url": "https://open.spotify.com/album/0nfXjFRLFngleV9mIkhEMQ"
+      },
+      "artists": [
+        {
+          "name": "Angelito Martinez",
+          "url": "https://open.spotify.com/artist/5g1vnuJPRdxecXJDxw1Gf2"
+        }
+      ],
+      "duration_ms": 154794,
+      "name": "Por una Cabeza",
+      "url": "https://open.spotify.com/track/3Z34yqQzVeD8wExZGCw9po"
+    },
+    {
+      "added_at": "2025-12-05 15:53:48",
+      "album": {
         "name": "Toda Mi Vida",
         "url": "https://open.spotify.com/album/1sbMaJCTwvmgMr1LUXtcyR"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 183560,
       "name": "Tinta Roja",
       "url": "https://open.spotify.com/track/0DoNdCNH3E85mYS6KS4PbL"
-    },
-    {
-      "added_at": "2025-12-05 15:53:48",
-      "album": {
-        "name": "Antolog\u00eda, Vol. 1: Gardel y Le Pera",
-        "url": "https://open.spotify.com/album/0nfXjFRLFngleV9mIkhEMQ"
-      },
-      "artists": [
-        {
-          "name": "Angelito Martinez",
-          "url": "https://open.spotify.com/artist/5g1vnuJPRdxecXJDxw1Gf2"
-        }
-      ],
-      "duration_ms": 154794,
-      "name": "Por una Cabeza",
-      "url": "https://open.spotify.com/track/3Z34yqQzVeD8wExZGCw9po"
     },
     {
       "added_at": "2025-12-05 15:53:48",
@@ -603,22 +603,6 @@
     {
       "added_at": "2025-12-05 15:53:48",
       "album": {
-        "name": "Raul Lavi\u00e9-Los Elegidos",
-        "url": "https://open.spotify.com/album/1AztB8HKYIcxdDSgPte8SV"
-      },
-      "artists": [
-        {
-          "name": "Ra\u00fal Lavi\u00e9",
-          "url": "https://open.spotify.com/artist/2GFIX098sqpvCSY9ZQHI4D"
-        }
-      ],
-      "duration_ms": 158373,
-      "name": "Los Mareados",
-      "url": "https://open.spotify.com/track/03bPLvobYz452ePAEksJgY"
-    },
-    {
-      "added_at": "2025-12-05 15:53:48",
-      "album": {
         "name": "En El Underground",
         "url": "https://open.spotify.com/album/6I123wp2nUkU8hiY0vzu7o"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 205453,
       "name": "Yuyo Verde",
       "url": "https://open.spotify.com/track/7AYunCgwVKF1oh2k7f653e"
+    },
+    {
+      "added_at": "2025-12-05 15:53:48",
+      "album": {
+        "name": "Raul Lavi\u00e9-Los Elegidos",
+        "url": "https://open.spotify.com/album/1AztB8HKYIcxdDSgPte8SV"
+      },
+      "artists": [
+        {
+          "name": "Ra\u00fal Lavi\u00e9",
+          "url": "https://open.spotify.com/artist/2GFIX098sqpvCSY9ZQHI4D"
+        }
+      ],
+      "duration_ms": 158373,
+      "name": "Los Mareados",
+      "url": "https://open.spotify.com/track/03bPLvobYz452ePAEksJgY"
     },
     {
       "added_at": "2025-12-05 15:53:48",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2025-12-05 15:53:48",
       "album": {
-        "name": "Antolog\u00eda, Vol.2: Viejas Alegrias",
-        "url": "https://open.spotify.com/album/3p1lXEENvPdfbtivMxBZbS"
-      },
-      "artists": [
-        {
-          "name": "Angelito Martinez",
-          "url": "https://open.spotify.com/artist/5g1vnuJPRdxecXJDxw1Gf2"
-        }
-      ],
-      "duration_ms": 204714,
-      "name": "Trenzas",
-      "url": "https://open.spotify.com/track/1PXmOgfoM78vdhBjrjrTzu"
-    },
-    {
-      "added_at": "2025-12-05 15:53:48",
-      "album": {
         "name": "Todo Es Amor",
         "url": "https://open.spotify.com/album/2kV8huoq9yaO65m6LeCkl5"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 253573,
       "name": "Todo Es Amor",
       "url": "https://open.spotify.com/track/1cj8FcBF6bs8mWXqAfwgoH"
+    },
+    {
+      "added_at": "2025-12-05 15:53:48",
+      "album": {
+        "name": "Antolog\u00eda, Vol.2: Viejas Alegrias",
+        "url": "https://open.spotify.com/album/3p1lXEENvPdfbtivMxBZbS"
+      },
+      "artists": [
+        {
+          "name": "Angelito Martinez",
+          "url": "https://open.spotify.com/artist/5g1vnuJPRdxecXJDxw1Gf2"
+        }
+      ],
+      "duration_ms": 204714,
+      "name": "Trenzas",
+      "url": "https://open.spotify.com/track/1PXmOgfoM78vdhBjrjrTzu"
     },
     {
       "added_at": "2025-12-05 15:53:48",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2025-12-05 15:53:48",
       "album": {
-        "name": "Oto\u00f1o Porte\u00f1o",
-        "url": "https://open.spotify.com/album/7l2DNm9VNrLevUMU2CaKKT"
-      },
-      "artists": [
-        {
-          "name": "Ventarr\u00f3n",
-          "url": "https://open.spotify.com/artist/019R06cxxEUXY1QyQThspX"
-        }
-      ],
-      "duration_ms": 291586,
-      "name": "Oto\u00f1o porte\u00f1o",
-      "url": "https://open.spotify.com/track/2pqBec6TekUJhK4bdkiPBM"
-    },
-    {
-      "added_at": "2025-12-05 15:53:48",
-      "album": {
         "name": "Bien de Arriba",
         "url": "https://open.spotify.com/album/2VYKIZq8hhxRJnvHzgKOOw"
       },
@@ -1207,18 +1191,18 @@
     {
       "added_at": "2025-12-05 15:53:48",
       "album": {
-        "name": "Antolog\u00eda, Vol. 3: Yuyo Verde",
-        "url": "https://open.spotify.com/album/7kuPFrlocZ0Rgw6gBujNeT"
+        "name": "Oto\u00f1o Porte\u00f1o",
+        "url": "https://open.spotify.com/album/7l2DNm9VNrLevUMU2CaKKT"
       },
       "artists": [
         {
-          "name": "Angelito Martinez",
-          "url": "https://open.spotify.com/artist/5g1vnuJPRdxecXJDxw1Gf2"
+          "name": "Ventarr\u00f3n",
+          "url": "https://open.spotify.com/artist/019R06cxxEUXY1QyQThspX"
         }
       ],
-      "duration_ms": 133760,
-      "name": "Si Tu Quisieras",
-      "url": "https://open.spotify.com/track/627r41lcqFbypDLnKg9uuY"
+      "duration_ms": 291586,
+      "name": "Oto\u00f1o porte\u00f1o",
+      "url": "https://open.spotify.com/track/2pqBec6TekUJhK4bdkiPBM"
     },
     {
       "added_at": "2025-12-05 15:53:48",
@@ -1239,6 +1223,22 @@
       "duration_ms": 209866,
       "name": "Fruta Amarga",
       "url": "https://open.spotify.com/track/7dsCiWTBKpyI8UYPxicyCu"
+    },
+    {
+      "added_at": "2025-12-05 15:53:48",
+      "album": {
+        "name": "Antolog\u00eda, Vol. 3: Yuyo Verde",
+        "url": "https://open.spotify.com/album/7kuPFrlocZ0Rgw6gBujNeT"
+      },
+      "artists": [
+        {
+          "name": "Angelito Martinez",
+          "url": "https://open.spotify.com/artist/5g1vnuJPRdxecXJDxw1Gf2"
+        }
+      ],
+      "duration_ms": 133760,
+      "name": "Si Tu Quisieras",
+      "url": "https://open.spotify.com/track/627r41lcqFbypDLnKg9uuY"
     },
     {
       "added_at": "2025-12-05 15:53:48",
@@ -1355,6 +1355,26 @@
     {
       "added_at": "2025-12-05 15:53:48",
       "album": {
+        "name": "De Criollos y Tangueros",
+        "url": "https://open.spotify.com/album/3WiPN6KoVo58KwADQQ7FZU"
+      },
+      "artists": [
+        {
+          "name": "Guillermo Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/2zzYRIDKcVq20xeBefKO2J"
+        },
+        {
+          "name": "Walter Laborde",
+          "url": "https://open.spotify.com/artist/3i15UUNyqKV2PJpVhkn4mQ"
+        }
+      ],
+      "duration_ms": 253769,
+      "name": "Payada Gardel-Razzano",
+      "url": "https://open.spotify.com/track/0JHgMRz4WxRkIsdeorFzxX"
+    },
+    {
+      "added_at": "2025-12-05 15:53:48",
+      "album": {
         "name": "La Tana Con Todo",
         "url": "https://open.spotify.com/album/3oGlLY8Hy4jFS8jAzos8X1"
       },
@@ -1407,38 +1427,22 @@
     {
       "added_at": "2025-12-05 15:53:48",
       "album": {
-        "name": "De Criollos y Tangueros",
-        "url": "https://open.spotify.com/album/3WiPN6KoVo58KwADQQ7FZU"
+        "name": "Flor de Tangos y Poemas (feat. Juan Trepiana)",
+        "url": "https://open.spotify.com/album/0nAClewMjDbOhV1rCIx2Hz"
       },
       "artists": [
         {
-          "name": "Guillermo Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/2zzYRIDKcVq20xeBefKO2J"
+          "name": "Horacio Ferrer",
+          "url": "https://open.spotify.com/artist/2YVUCSYeU9bgnXbno2WCu5"
         },
         {
-          "name": "Walter Laborde",
-          "url": "https://open.spotify.com/artist/3i15UUNyqKV2PJpVhkn4mQ"
+          "name": "Juan Trepiana",
+          "url": "https://open.spotify.com/artist/1raFv3PXteep5J6poiA6we"
         }
       ],
-      "duration_ms": 253769,
-      "name": "Payada Gardel-Razzano",
-      "url": "https://open.spotify.com/track/0JHgMRz4WxRkIsdeorFzxX"
-    },
-    {
-      "added_at": "2025-12-05 15:53:48",
-      "album": {
-        "name": "El Tango",
-        "url": "https://open.spotify.com/album/7akIfhOcL4nMi4vwILqXsX"
-      },
-      "artists": [
-        {
-          "name": "Chino Laborde",
-          "url": "https://open.spotify.com/artist/5OrKrSqxhTFrtScoJhqLrP"
-        }
-      ],
-      "duration_ms": 158487,
-      "name": "Desencuentro",
-      "url": "https://open.spotify.com/track/7hpCXzUdgp4I1aX45W7514"
+      "duration_ms": 231520,
+      "name": "La Bicicleta Blanca",
+      "url": "https://open.spotify.com/track/52gnzovIQX4fc8CzmXV3qI"
     }
   ],
   "unique_name": "Tangos y Milongas",

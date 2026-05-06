@@ -1,6 +1,6 @@
 {
   "description": "New music by the heaviest independent artists and labels every Wednesday. Cover: PINKNOISE",
-  "num_followers": 34857,
+  "num_followers": 34895,
   "original_name": "Fresh Finds Heavy",
   "owner": {
     "name": "Spotify",
@@ -238,6 +238,10 @@
         {
           "name": "Paul Ortiz",
           "url": "https://open.spotify.com/artist/3YDZDmOmdEaywtM8O3HMsa"
+        },
+        {
+          "name": "Kristyn Hope",
+          "url": "https://open.spotify.com/artist/5537Jz9oy5neAlivBv5MbU"
         }
       ],
       "duration_ms": 307293,

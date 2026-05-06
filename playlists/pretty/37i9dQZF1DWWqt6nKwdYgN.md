@@ -8,7 +8,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Fuego Azul](https://open.spotify.com/track/1qBXIowcVO9kZ0C4cD8CLK) | [Under Side 821](https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1), [Richard Ahumada](https://open.spotify.com/artist/4oR06FdpsOJTcTnOkSzUsC) | [Fuego Azul](https://open.spotify.com/album/4AKAJlQMHgAp2eqrbGhyp7) | 6:00 |
+| 1 | [Fuego Azul](https://open.spotify.com/track/1qBXIowcVO9kZ0C4cD8CLK) | [Under Side 821](https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1), [Richard Ahumada](https://open.spotify.com/artist/4oR06FdpsOJTcTnOkSzUsC), [Pablito Calavera](https://open.spotify.com/artist/2TH4NXRgjM7vIW76o7pbas) | [Fuego Azul](https://open.spotify.com/album/4AKAJlQMHgAp2eqrbGhyp7) | 6:00 |
 | 2 | [El Pana Deiby](https://open.spotify.com/track/0p5vebYEqSahFULjaYB8LY) | [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym) | [El Pana Deiby](https://open.spotify.com/album/6ugV5SZ0KALBO8BAt1vYXr) | 4:11 |
 | 3 | [Costra](https://open.spotify.com/track/1KPPXNEFBj6lA6uujiJXlE) | [Afromak](https://open.spotify.com/artist/00QZMNWkHo1k4dFLQVpqHK), [Selene](https://open.spotify.com/artist/3hk133tFNlWGS6SKHSeE7j) | [Costra](https://open.spotify.com/album/0FMyMmdM0GvgKZwKd4F7kb) | 2:32 |
 | 4 | [Con Usted](https://open.spotify.com/track/5CUGu94Rlr4wnILUt8PEzB) | [Teo LB](https://open.spotify.com/artist/0HwtulWF8xZD2g2IMhNXwo) | [Con Usted](https://open.spotify.com/album/2EI5cB51OnmvZcFXoQIukA) | 2:35 |

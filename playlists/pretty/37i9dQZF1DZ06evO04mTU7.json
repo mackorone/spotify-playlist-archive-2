@@ -1,12 +1,12 @@
 {
   "description": "This is AJULLIACOSTA. The essential tracks, all in one playlist.",
-  "num_followers": 14829,
+  "num_followers": 14872,
   "original_name": "This Is AJULLIACOSTA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afaQAAAAAAAnBhVrI60NhlQ1lP7BxFWf",
+  "snapshot_id": "affhgAAAAABoP04y0Ep779GKN8jF9mts",
   "tracks": [
     {
       "added_at": null,
@@ -147,6 +147,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Aju",
+        "url": "https://open.spotify.com/album/314Y3jI9qbT6VjMLLRxBG6"
+      },
+      "artists": [
+        {
+          "name": "AJULLIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "Dj Victor",
+          "url": "https://open.spotify.com/artist/5kKzlgNRX8FgC6Bni5DNNC"
+        }
+      ],
+      "duration_ms": 190733,
+      "name": "Homens Como Voc\u00ea (feat. Dj Victor)",
+      "url": "https://open.spotify.com/track/6bOXlMdMuwTTvkC7jNzKU2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "THE BOX MEDLEY 12",
         "url": "https://open.spotify.com/album/1UAvKSK9Mc7Euv0HwVej1C"
       },
@@ -191,26 +211,6 @@
       "duration_ms": 352951,
       "name": "THE BOX MEDLEY 12",
       "url": "https://open.spotify.com/track/6TmtNB90rBnhIiJeJuEyWu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Aju",
-        "url": "https://open.spotify.com/album/314Y3jI9qbT6VjMLLRxBG6"
-      },
-      "artists": [
-        {
-          "name": "AJULLIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "Dj Victor",
-          "url": "https://open.spotify.com/artist/5kKzlgNRX8FgC6Bni5DNNC"
-        }
-      ],
-      "duration_ms": 190733,
-      "name": "Homens Como Voc\u00ea (feat. Dj Victor)",
-      "url": "https://open.spotify.com/track/6bOXlMdMuwTTvkC7jNzKU2"
     },
     {
       "added_at": null,
@@ -379,26 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aju",
-        "url": "https://open.spotify.com/album/314Y3jI9qbT6VjMLLRxBG6"
-      },
-      "artists": [
-        {
-          "name": "AJULLIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "MAT",
-          "url": "https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U"
-        }
-      ],
-      "duration_ms": 154666,
-      "name": "N\u00e3o Foi do Nada",
-      "url": "https://open.spotify.com/track/5hL0bECq8dT8S8nsMdlswx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "AJULLIACOSTA: WE4Sessions",
         "url": "https://open.spotify.com/album/4hlz09t1ElUNWchQPwLo6W"
       },
@@ -415,6 +395,26 @@
       "duration_ms": 260976,
       "name": "Part The Box / Quero Saber",
       "url": "https://open.spotify.com/track/2tmZzbGfZDkbEreOzTZBEI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aju",
+        "url": "https://open.spotify.com/album/314Y3jI9qbT6VjMLLRxBG6"
+      },
+      "artists": [
+        {
+          "name": "AJULLIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "MAT",
+          "url": "https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U"
+        }
+      ],
+      "duration_ms": 154666,
+      "name": "N\u00e3o Foi do Nada",
+      "url": "https://open.spotify.com/track/5hL0bECq8dT8S8nsMdlswx"
     },
     {
       "added_at": null,

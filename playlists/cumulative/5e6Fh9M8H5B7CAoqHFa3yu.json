@@ -10157,6 +10157,24 @@
     },
     {
       "album": {
+        "name": "Echo",
+        "url": "https://open.spotify.com/album/0JUNQkyJV3qpA7oacViTHp"
+      },
+      "artists": [
+        {
+          "name": "Peritz",
+          "url": "https://open.spotify.com/artist/31NVoBcFNTbpsKAvh5jYDp"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152307,
+      "name": "Echo",
+      "url": "https://open.spotify.com/track/4pG2Pg3ztUzabkNBpVfd71"
+    },
+    {
+      "album": {
         "name": "Echo Of You",
         "url": "https://open.spotify.com/album/1uxa967QvZrV3185K7Vbow"
       },
@@ -22541,6 +22559,28 @@
     },
     {
       "album": {
+        "name": "Metro Melodies",
+        "url": "https://open.spotify.com/album/2LBQhg9d5SnhkZ3yf2CKuU"
+      },
+      "artists": [
+        {
+          "name": "Mister BoO",
+          "url": "https://open.spotify.com/artist/6r70GFn8sPjePrZadKcPHu"
+        },
+        {
+          "name": "Carlito Home",
+          "url": "https://open.spotify.com/artist/0txTwV2vs7SBaepqBjalf0"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172394,
+      "name": "Metro Melodies",
+      "url": "https://open.spotify.com/track/48hQq8H1xFlzzfJwhjojq7"
+    },
+    {
+      "album": {
         "name": "Cristian Bugatti",
         "url": "https://open.spotify.com/album/3NX7t2LAvYFjf5GwA1MOCJ"
       },
@@ -33229,6 +33269,24 @@
     },
     {
       "album": {
+        "name": "Spiritual Practice (Radio Edit)",
+        "url": "https://open.spotify.com/album/4WC1WzA0EWq0ndV436U9vD"
+      },
+      "artists": [
+        {
+          "name": "Ottantotto",
+          "url": "https://open.spotify.com/artist/1d9PT3XLty88WBDUmPhVxm"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156428,
+      "name": "Spiritual Practice - Radio Edit",
+      "url": "https://open.spotify.com/track/6qtt8kolYSo78Uhdhq2qpt"
+    },
+    {
+      "album": {
         "name": "Tunes For Thoughts",
         "url": "https://open.spotify.com/album/1N9A7fipWS65oAObMYN37U"
       },
@@ -36602,6 +36660,24 @@
       "duration_ms": 250344,
       "name": "Time Slips Away",
       "url": "https://open.spotify.com/track/65vKyPGbuAmYwdMSiRlAPg"
+    },
+    {
+      "album": {
+        "name": "Tiny Soldiers on a Cheese Cake",
+        "url": "https://open.spotify.com/album/4GCk3PEIVm3CnwGJEtL2qa"
+      },
+      "artists": [
+        {
+          "name": "Riccardo Cantarelli",
+          "url": "https://open.spotify.com/artist/58JQ6umDec53Xhx0yJz2Wf"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251962,
+      "name": "Tiny Soldiers on a Cheese Cake - Live from Nowhere",
+      "url": "https://open.spotify.com/track/18HT52ua8Cp8kXBARmnTV6"
     },
     {
       "album": {

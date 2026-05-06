@@ -2,22 +2,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAZ0XePuYqW.md) - [plain]
 
 ### [Bounce](https://open.spotify.com/playlist/37i9dQZF1DWTAZ0XePuYqW)
 
-> Young Miko's got that big energy.
+> Lady Gaga & Doechii's got that big energy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,737 likes - 55 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,743 likes - 55 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [TUN](https://open.spotify.com/track/1ZZMnUVw6oGQpx8TQPTZz2) | [LZee](https://open.spotify.com/artist/3HnjTikMlwQmZt88pd5ONe) | [TUN](https://open.spotify.com/album/0JkE09AhoA564cEbsTtA3d) | 3:33 |
-| 2 | [BIAF <3](https://open.spotify.com/track/2niaqfUN4XWJ6BuDEm77Vh) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [BIAF <3](https://open.spotify.com/album/0GnGHUSD8DxEU0ejWjvCNA) | 2:50 |
-| 3 | [Heart Attack](https://open.spotify.com/track/4Q63gQ3yLIUIGMSt4BYghb) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ) | [CANDY](https://open.spotify.com/album/2mFRV8KGxPzFSzGPqkuPxD) | 2:52 |
-| 4 | [Countdown](https://open.spotify.com/track/2wZGmq3vcBixu4gnehL6D2) | [Preme](https://open.spotify.com/artist/0bdJZl7TDeiymDYzMJnVh2), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Countdown](https://open.spotify.com/album/50AJpCZEjNa941pyXEL2wF) | 2:04 |
-| 5 | [MAKE DAT BOOTY](https://open.spotify.com/track/5sGA0qlCU2usW6Mws8icCu) | [KE\-YEN](https://open.spotify.com/artist/0GXVEDSyiFrdaTBX2EQGiE), [Respondent](https://open.spotify.com/artist/3mrk91thNdLlVpdXnCdKpK) | [MAKE DAT BOOTY](https://open.spotify.com/album/0EGDaeH1FcgGCc4XkCsoyn) | 3:32 |
-| 6 | [Eskimo](https://open.spotify.com/track/5XRhQZweGbmOQUF3ug04dA) | [Wiley](https://open.spotify.com/artist/7k9T7lZlHjRAM1bb0r9Rm3) | [I Love Grime](https://open.spotify.com/album/3L80jGET63TTvrnyOzeVch) | 4:19 |
-| 7 | [Baby Come On](https://open.spotify.com/track/4ElbVcg0yGMxaSNzGVuw3q) | [RP Boo](https://open.spotify.com/artist/678aHai0twQ5ZJcqO1KYWl) | [Classics Vol\. 1](https://open.spotify.com/album/69jcDhDreyz4hdy13oBiUS) | 5:13 |
-| 8 | [House Jam](https://open.spotify.com/track/5nputVTyUHyggGzxKP1er4) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ), [FAUCET](https://open.spotify.com/artist/5BlglOc7NoqrjoXtypMBVn) | [House Jam](https://open.spotify.com/album/0pKBP05mxza4KvXQbniKoN) | 4:36 |
-| 9 | [Ice Drop](https://open.spotify.com/track/7FAW04U4KSWT2vsskjNYo0) | [DJ Lag](https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO) | [DJ Lag EP](https://open.spotify.com/album/5hXYqoYNsIMFgRTeCLBcw2) | 6:10 |
-| 10 | [RUNWAY](https://open.spotify.com/track/7BjcYqD0CqXnG45ezWSTYR) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [RUNWAY](https://open.spotify.com/album/0WY1wVmchFYlH4f1yZMc90) | 2:51 |
+| 1 | [RUNWAY](https://open.spotify.com/track/7BjcYqD0CqXnG45ezWSTYR) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [RUNWAY](https://open.spotify.com/album/0WY1wVmchFYlH4f1yZMc90) | 2:51 |
+| 2 | [TUN](https://open.spotify.com/track/1ZZMnUVw6oGQpx8TQPTZz2) | [LZee](https://open.spotify.com/artist/3HnjTikMlwQmZt88pd5ONe) | [TUN](https://open.spotify.com/album/0JkE09AhoA564cEbsTtA3d) | 3:33 |
+| 3 | [BIAF <3](https://open.spotify.com/track/2niaqfUN4XWJ6BuDEm77Vh) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [BIAF <3](https://open.spotify.com/album/0GnGHUSD8DxEU0ejWjvCNA) | 2:50 |
+| 4 | [Heart Attack](https://open.spotify.com/track/4Q63gQ3yLIUIGMSt4BYghb) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ) | [CANDY](https://open.spotify.com/album/2mFRV8KGxPzFSzGPqkuPxD) | 2:52 |
+| 5 | [Countdown](https://open.spotify.com/track/2wZGmq3vcBixu4gnehL6D2) | [Preme](https://open.spotify.com/artist/0bdJZl7TDeiymDYzMJnVh2), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Countdown](https://open.spotify.com/album/50AJpCZEjNa941pyXEL2wF) | 2:04 |
+| 6 | [MAKE DAT BOOTY](https://open.spotify.com/track/5sGA0qlCU2usW6Mws8icCu) | [KE\-YEN](https://open.spotify.com/artist/0GXVEDSyiFrdaTBX2EQGiE), [Respondent](https://open.spotify.com/artist/3mrk91thNdLlVpdXnCdKpK) | [MAKE DAT BOOTY](https://open.spotify.com/album/0EGDaeH1FcgGCc4XkCsoyn) | 3:32 |
+| 7 | [Eskimo](https://open.spotify.com/track/5XRhQZweGbmOQUF3ug04dA) | [Wiley](https://open.spotify.com/artist/7k9T7lZlHjRAM1bb0r9Rm3) | [I Love Grime](https://open.spotify.com/album/3L80jGET63TTvrnyOzeVch) | 4:19 |
+| 8 | [Baby Come On](https://open.spotify.com/track/4ElbVcg0yGMxaSNzGVuw3q) | [RP Boo](https://open.spotify.com/artist/678aHai0twQ5ZJcqO1KYWl) | [Classics Vol\. 1](https://open.spotify.com/album/69jcDhDreyz4hdy13oBiUS) | 5:13 |
+| 9 | [House Jam](https://open.spotify.com/track/5nputVTyUHyggGzxKP1er4) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ), [FAUCET](https://open.spotify.com/artist/5BlglOc7NoqrjoXtypMBVn) | [House Jam](https://open.spotify.com/album/0pKBP05mxza4KvXQbniKoN) | 4:36 |
+| 10 | [Ice Drop](https://open.spotify.com/track/7FAW04U4KSWT2vsskjNYo0) | [DJ Lag](https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO) | [DJ Lag EP](https://open.spotify.com/album/5hXYqoYNsIMFgRTeCLBcw2) | 6:10 |
 | 11 | [FLACKITO JODYE \(feat\. Tokischa\)](https://open.spotify.com/track/5evBKaW1C74pRKBoQIyZ8C) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [Don't Be Dumb](https://open.spotify.com/album/0atfWEzoZMgo9zCwFd5nEN) | 2:20 |
 | 12 | [Jamaican \(Bam Bam\)](https://open.spotify.com/track/1ExjoMeJQxAYtHFke6eW31) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [SOLTO \(FR\)](https://open.spotify.com/artist/0F3tUZeb9dLNEpxCpzEBQt) | [Jamaican \(Bam Bam\)](https://open.spotify.com/album/1BweAtoAn6XFcPa4iJtO6G) | 2:36 |
 | 13 | [212](https://open.spotify.com/track/7mDKRYiqejoHzP7dQGxLys) | [Azealia Banks](https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I), [Lazy Jay](https://open.spotify.com/artist/4vUAD0POkGvO6J9c9hv6qR) | [Broke with Expensive Taste](https://open.spotify.com/album/6hORzuqVAquk6Szm1NRoRt) | 3:24 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAZ0XePuYqW.md) - [plain]
 | 54 | [Noises + JT](https://open.spotify.com/track/36e4mRTGXQL283nBFSA9Tv) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [Fancy Some More?](https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF) | 2:07 |
 | 55 | [Remember \(feat\. Ravyn Lenae & Scrufizzer\)](https://open.spotify.com/track/2HlT1qcOgxlnbzBFirVz0K) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [INFINITY CLUB II](https://open.spotify.com/album/65rerxGdYHjGKB9Fx26rYK) | 2:45 |
 
-Snapshot ID: `AAAAAOhyNWyPlWqfevaW92jzxGWxxdAi`
+Snapshot ID: `AAAAAPbwArQUV3tOhTNcUC8nrx+saJqO`

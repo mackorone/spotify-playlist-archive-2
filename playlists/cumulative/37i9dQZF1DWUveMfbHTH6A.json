@@ -240,7 +240,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 175000,
       "name": "BADASS",
       "url": "https://open.spotify.com/track/3xYk4ZSzHGS6lw5hBg0xKm"
@@ -2154,6 +2154,24 @@
       "duration_ms": 190000,
       "name": "safe space",
       "url": "https://open.spotify.com/track/7lOsJPdQuDAVmm3ZZsvG9f"
+    },
+    {
+      "album": {
+        "name": "Romantica",
+        "url": "https://open.spotify.com/album/5XCjEt4FxEgvC8qSwQShcc"
+      },
+      "artists": [
+        {
+          "name": "Niah Steiner",
+          "url": "https://open.spotify.com/artist/0w3DFcH0s3X5siAjB6C9T7"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177230,
+      "name": "Say Ciao",
+      "url": "https://open.spotify.com/track/2gDCKgrPUXLfNTtwNbmE8T"
     },
     {
       "album": {

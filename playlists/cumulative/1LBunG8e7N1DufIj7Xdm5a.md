@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,353 songs - 9 day 16 hr 12 min
+4,356 songs - 9 day 16 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2055,6 +2055,7 @@
 | [La Macchina Urla](https://open.spotify.com/track/7uDhoTRN0312TxtgGxTNz2) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Postatomic in italian vol.2](https://open.spotify.com/album/2zR5iN4XMlyWBz77ZdG9s1) | 3:03 | 2025-09-17 |  |
 | [La Macchina Urla \(another\)](https://open.spotify.com/track/7hpIKOiq6XaOv5rcWcVXKC) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Postatomic in italian vol.2](https://open.spotify.com/album/2zR5iN4XMlyWBz77ZdG9s1) | 3:16 | 2025-09-17 |  |
 | [La Marcia del Fantasmino](https://open.spotify.com/track/29yemI2khtRXYbsuKWpDP5) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [La Marcia del Fantasmino](https://open.spotify.com/album/57t9Tw0sCVAQh46CmrQ3qs) | 2:03 | 2025-12-10 |  |
+| [La marea](https://open.spotify.com/track/5m4cTTcv22aQ9KMjoZVLaS) | [Exilio a Plutón](https://open.spotify.com/artist/0RDcwUWOCSUSxJe3mMNhqh) | [Caronte](https://open.spotify.com/album/5rqL6C7JSvi45eBjE86B2o) | 3:49 | 2026-05-05 |  |
 | [La Mia Ombra \(another\) Musica virale italiana amore gioco divertimento gioia bello bella musica rap disco virale viral trap rap pop](https://open.spotify.com/track/6jpcMJ4f6I4yTz33WBD9OQ) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Musica virale italiana amore gioco divertimento gioia bello bella musica rap disco virale viral trap rap pop](https://open.spotify.com/album/3Ldlz4AkeXLMfzHDs9kD8D) | 2:57 | 2025-09-17 |  |
 | [La Mia Ombra Musica virale italiana amore gioco divertimento gioia bello bella musica rap disco virale viral trap rap pop](https://open.spotify.com/track/1A4qxHw3HchevUTUmnwfsG) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Musica virale italiana amore gioco divertimento gioia bello bella musica rap disco virale viral trap rap pop](https://open.spotify.com/album/3Ldlz4AkeXLMfzHDs9kD8D) | 3:49 | 2025-09-17 |  |
 | [La Mia Ombra Sul Muro](https://open.spotify.com/track/68v9ctRObukM7ByZ4v0ZiY) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Sentimental rock in italiano](https://open.spotify.com/album/2EOjsJXWreQdfwj6zAjaZU) | 3:04 | 2025-09-13 |  |
@@ -3762,6 +3763,7 @@
 | [The Media Swarm oh](https://open.spotify.com/track/4JaGuO7NA6CEDHFDerd828) | [The second coast](https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi) | [FOR CHARLIE](https://open.spotify.com/album/0Xn5dxCEWmsvZkMHsXNy23) | 2:25 | 2026-04-13 |  |
 | [The Melody of Love](https://open.spotify.com/track/6kixdGJJdq1B4wqVofyGmo) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Best Music](https://open.spotify.com/album/7MTHw4nXXx8QfsaKXJZSVp) | 2:13 | 2025-09-19 |  |
 | [The Melody of Love \(another\)](https://open.spotify.com/track/0CPCGTl6o3U75q2SqZP3o4) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Best Music](https://open.spotify.com/album/7MTHw4nXXx8QfsaKXJZSVp) | 2:28 | 2025-09-19 |  |
+| [The Mirror](https://open.spotify.com/track/6pUnpsCM1fvQrQsNxboHfZ) | [Upwood Avenue](https://open.spotify.com/artist/6vxgfCzu5GGJWOfARnonrI) | [The Mirror](https://open.spotify.com/album/4ptWnwJL8v7UJLAcAgr9Bl) | 3:43 | 2026-05-05 |  |
 | [the Mirror Song](https://open.spotify.com/track/6szZzNJadIyb2FHgJEPK2A) | [Devil's Degree](https://open.spotify.com/artist/0zGOAhPOYhMCw7er97nMer) | [19Hz](https://open.spotify.com/album/7gOO3LABrfDSW9P1OAXqop) | 5:19 | 2025-06-04 |  |
 | [THE MORNING AFTER](https://open.spotify.com/track/7dC6KRKZCB4EU7Sbi4JPyH) | [AN.GA](https://open.spotify.com/artist/48MGjcil56lYnTupg2P3Vm) | [THE MORNING AFTER](https://open.spotify.com/album/7thwOuqabc4da6ehGhe2ta) | 3:53 | 2025-06-01 |  |
 | [the Neglect](https://open.spotify.com/track/1xARVRSpZlHmQI2MUjjkOR) | [Devil's Degree](https://open.spotify.com/artist/0zGOAhPOYhMCw7er97nMer) | [19Hz](https://open.spotify.com/album/7gOO3LABrfDSW9P1OAXqop) | 3:50 | 2025-06-04 |  |
@@ -4117,6 +4119,7 @@
 | [Wanderlust \(another\)](https://open.spotify.com/track/1p2imXNN83QnTt8Iq68rZr) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Indie Music Style](https://open.spotify.com/album/5d5v2cAyrOm0sSQd9O8gx6) | 2:08 | 2025-09-19 |  |
 | [Wanna Be Free](https://open.spotify.com/track/3LcJKM6wdRhPkBu2DuvtAg) | [Routi](https://open.spotify.com/artist/0B3uouY3r7w7uJLIcORpIX) | [Sunrise EP](https://open.spotify.com/album/7JDicUKhX8bbuQxM0xxW2J) | 4:28 | 2025-10-09 |  |
 | [Wanted](https://open.spotify.com/track/7JhPM8ltIx7vC4b8GjtyNR) | [The Trifecta Experiment](https://open.spotify.com/artist/7pHqumppIzVSlnYsCzWnLv) | [Organized chaos](https://open.spotify.com/album/6wpg5HE62C8oHssYy4YBfd) | 4:27 | 2025-08-19 |  |
+| [Wanted \(Vivo o Morto\)](https://open.spotify.com/track/2KujPMCu0Pn17EW13Z97Rp) | [Godiva Grunge](https://open.spotify.com/artist/1pt5AfwdHnxg9gYsqi5UB2) | [Sono Solo Come Te / Wanted](https://open.spotify.com/album/2uyx6597JkzlWJLuHrlZZR) | 4:14 | 2026-05-05 |  |
 | [Wapas Aaja Meri Baahon Mein \- Reprise](https://open.spotify.com/track/1d4bYFi16sN1Zt2WK9Ruru) | [Dark Sirens](https://open.spotify.com/artist/4CSodsgXfqKTUuXpNcFZQG) | [Khoon Aur Aansu 2.0](https://open.spotify.com/album/2HzFzRawqiHSUr8f0LD3Ls) | 3:46 | 2025-07-02 |  |
 | [WAR IN THE TRENCHES](https://open.spotify.com/track/6sp6cLIfhSh9edvvjDKQti) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih) | [Subaru Boys : FINAL HEAVEN](https://open.spotify.com/album/0t69hftoCPq776cXlSpqFl) | 2:37 | 2025-05-16 |  |
 | [Warm it up](https://open.spotify.com/track/2Svxk5G1Al9Lim42GxioN0) | [HOZATHEBOSS](https://open.spotify.com/artist/5qlQBBPsnIsx0UxLSVotFj) | [Warm it up](https://open.spotify.com/album/7LNsEtAubcQLFXwoiIOIV8) | 2:33 | 2025-11-25 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIbUU3VrXZpU.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6ZdaKEG7LCXZGLiHuZuJgZ">Missy Elliott</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,184 likes - 378 songs - 1 day 0 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,187 likes - 378 songs - 1 day 0 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -225,8 +225,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIbUU3VrXZpU.md) - [plain]
 | 215 | [Bite Our Style \(Interlude\)](https://open.spotify.com/track/6y1HxKKNY5iNqie88XiWl4) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Supa Dupa Fly](https://open.spotify.com/album/6UkdyvPElK6JDkyeRClbI2) | 0:43 |
 | 216 | [I'm Talkin'](https://open.spotify.com/track/5Ey8dGEX8LL0XiVqvzUNC5) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Supa Dupa Fly](https://open.spotify.com/album/6UkdyvPElK6JDkyeRClbI2) | 5:02 |
 | 217 | [Keep It Movin' \(feat\. Elephant Man\)](https://open.spotify.com/track/15mqAOPSOKyLrYhrvqKGYc) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Elephant Man](https://open.spotify.com/artist/6NOvBZrkd83MSD51xkq4on) | [This Is Not a Test!](https://open.spotify.com/album/4ffXByMAjLpd25ZyzEJNMK) | 3:39 |
-| 218 | [Anything \(To Find You\) \(feat\. Rick Ross\)](https://open.spotify.com/track/23B9t2KkUZass35ec6GFXq) | [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [New Life \(Deluxe Version\)](https://open.spotify.com/album/5VIhuAApA7u4R62cPtTd3u) | 3:42 |
-| 219 | [Open Invite \(feat\. KAYTRANADA\)](https://open.spotify.com/track/1DbNmSluOpaqCvv9ADIP9k) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Escape Room](https://open.spotify.com/album/7Aya7D6bm5P2iRrlnNsFQf) | 1:56 |
+| 218 | [Open Invite \(feat\. KAYTRANADA\)](https://open.spotify.com/track/1DbNmSluOpaqCvv9ADIP9k) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Escape Room](https://open.spotify.com/album/7Aya7D6bm5P2iRrlnNsFQf) | 1:56 |
+| 219 | [Anything \(To Find You\) \(feat\. Rick Ross\)](https://open.spotify.com/track/23B9t2KkUZass35ec6GFXq) | [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [New Life \(Deluxe Version\)](https://open.spotify.com/album/5VIhuAApA7u4R62cPtTd3u) | 3:42 |
 | 220 | [U Can't Resist \(feat\. Juvenile & B.G.\)](https://open.spotify.com/track/0ksK78NXpAxgBej3YDdD9B) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [B.G.](https://open.spotify.com/artist/36HvjE9pV91jEjO1qBRidS), [JUVENILE](https://open.spotify.com/artist/0rG0AZBscc8S8q1ahIsasI) | [Da Real World](https://open.spotify.com/album/47QQsqlgvkxme4jrh5QQ4i) | 4:36 |
 | 221 | [Selfish \(I Want U 2 Myself\) \(feat\. Missy Elliott\)](https://open.spotify.com/track/5hDiiKJcv1vt5AnBgQcZ6D) | [Fantasia](https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Free Yourself](https://open.spotify.com/album/09akBiw2Divm9zvF7GMJup) | 3:24 |
 | 222 | [This Way](https://open.spotify.com/track/6VTyqHUiKUGA09awhVa9mQ) | [Star.One](https://open.spotify.com/artist/11HK31aj8j8QJ3ZnSlqox4), [Trillary Banks](https://open.spotify.com/artist/6WX6lXXKTBrmL9kqVTztfY) | [This Way](https://open.spotify.com/album/50Sml54fhVty4rg37gDYla) | 2:39 |
@@ -387,4 +387,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIbUU3VrXZpU.md) - [plain]
 | 377 | [Missy's Finale \- Spoken Word](https://open.spotify.com/track/3BgwOI1jT8l6dFeAiESJVM) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Supa Dupa Fly](https://open.spotify.com/album/6UkdyvPElK6JDkyeRClbI2) | 0:24 |
 | 378 | [Take That \(Instrumental Version\)](https://open.spotify.com/track/2YRMCKHZ9D0bP0HzECy2Cw) | [The Hit Co.](https://open.spotify.com/artist/2UxjiPpWHNc2txHrYy5EF3) | [The Instrumental R&B and Hip\-Hop Collection, Vol\. 25](https://open.spotify.com/album/13L5EoUGMwwzuz595uQyVu) | 3:53 |
 
-Snapshot ID: `AcQoJgAAAAAmnUnGU9HPZ2Bh38Hpm+aP`
+Snapshot ID: `AcQtvAAAAABtShwS8ki7+ciy+XjU4uq/`

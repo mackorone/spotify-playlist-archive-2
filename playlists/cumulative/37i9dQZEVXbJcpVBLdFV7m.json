@@ -3520,7 +3520,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 153281,
       "name": "Bad Angel (with LISA)",
       "url": "https://open.spotify.com/track/4QR40LqFAbMdabh4AoZJGZ"
@@ -4400,7 +4400,7 @@
       ],
       "date_added": "2026-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 227986,
       "name": "Beauty And A Beat",
       "url": "https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7"
@@ -6880,7 +6880,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-27",
+      "date_removed": null,
       "duration_ms": 180000,
       "name": "Catch Catch",
       "url": "https://open.spotify.com/track/2O9bMJticxbQ8FH3NiQ7Xh"
@@ -7360,7 +7360,7 @@
       ],
       "date_added": "2026-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-04",
+      "date_removed": null,
       "duration_ms": 209000,
       "name": "Chasten sluchay",
       "url": "https://open.spotify.com/track/1TjCPGXe9lZ8AKaYKg2f04"
@@ -11170,6 +11170,24 @@
       "duration_ms": 180373,
       "name": "Driving with My Darling",
       "url": "https://open.spotify.com/track/5HlRJ3ZIO1fOPXqKNAWrmT"
+    },
+    {
+      "album": {
+        "name": "drop dead (taken that eurostar to france video)",
+        "url": "https://open.spotify.com/album/6yWUYijJvHyjvcw43abyWD"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224998,
+      "name": "drop dead",
+      "url": "https://open.spotify.com/track/7Hc6qcJG4NtyZgbNvQyd8U"
     },
     {
       "album": {
@@ -18015,6 +18033,24 @@
     },
     {
       "album": {
+        "name": "I Feel So Free",
+        "url": "https://open.spotify.com/album/1BpCZSS9KQ3Dd2eb8ADt1y"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303528,
+      "name": "I Feel So Free",
+      "url": "https://open.spotify.com/track/04o2ES37jkiK5Qy8PR5XLk"
+    },
+    {
+      "album": {
         "name": "Battleground of Broken Hearts",
         "url": "https://open.spotify.com/album/3QcLfv0F8tO6Wd9UHOM2P0"
       },
@@ -20703,6 +20739,24 @@
     },
     {
       "album": {
+        "name": "KGB",
+        "url": "https://open.spotify.com/album/06wdsqUb4GSuR29Luwiu8n"
+      },
+      "artists": [
+        {
+          "name": "AD\u00c9LA",
+          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157316,
+      "name": "KGB",
+      "url": "https://open.spotify.com/track/7C7vnAW3L8ahsOGsZKY6EP"
+    },
+    {
+      "album": {
         "name": "Stranger Things, Vol. 1 (A Netflix Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/1puplOrvmUGoq2VxsB0ENJ"
       },
@@ -21806,7 +21860,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 134117,
       "name": "LEGACY",
       "url": "https://open.spotify.com/track/2jwpT2tPlP8HYVpFXfZMqM"
@@ -25094,7 +25148,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 117053,
       "name": "Mi Chico",
       "url": "https://open.spotify.com/track/3hEtikqJXwlhC6Erz6pBrO"
@@ -26410,7 +26464,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 182109,
       "name": "Morning Coffee",
       "url": "https://open.spotify.com/track/0U62uEAcEBfWab5CyQLaEg"
@@ -26870,6 +26924,24 @@
       "duration_ms": 208520,
       "name": "My Bubble Gum",
       "url": "https://open.spotify.com/track/37IZHbmUmuhZITM4SW6PtV"
+    },
+    {
+      "album": {
+        "name": "My Destiny",
+        "url": "https://open.spotify.com/album/6pKjuGQznyiCo4vPb4qB2d"
+      },
+      "artists": [
+        {
+          "name": "BLMD",
+          "url": "https://open.spotify.com/artist/5D6I2KwymyRXc1E5t3foaU"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265665,
+      "name": "My Destiny - Bassline Club Mix",
+      "url": "https://open.spotify.com/track/02EDVUYYzasXADcsJchDez"
     },
     {
       "album": {
@@ -30778,7 +30850,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 131437,
       "name": "PINKY UP",
       "url": "https://open.spotify.com/track/4KmkJjHTNlr1jFY56Lyz4E"
@@ -32222,6 +32294,24 @@
       "duration_ms": 155200,
       "name": "Redemption (feat. Nemzzz)",
       "url": "https://open.spotify.com/track/4YnC3EgoRzP14QXVDBuTfF"
+    },
+    {
+      "album": {
+        "name": "REDRED",
+        "url": "https://open.spotify.com/album/52J8GQoNp2vgDJ6992NjiM"
+      },
+      "artists": [
+        {
+          "name": "CORTIS",
+          "url": "https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163001,
+      "name": "REDRED",
+      "url": "https://open.spotify.com/track/2fCwv2ppU5nTRTckomIGsd"
     },
     {
       "album": {
@@ -34498,6 +34588,28 @@
       "duration_ms": 249880,
       "name": "Shape",
       "url": "https://open.spotify.com/track/4QNkRMOrqBEac43cOcEx1w"
+    },
+    {
+      "album": {
+        "name": "SHE DID IT AGAIN (feat. Zara Larsson)",
+        "url": "https://open.spotify.com/album/13DVwg7TPRUC8BnLjblv5B"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        },
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213241,
+      "name": "SHE DID IT AGAIN (feat. Zara Larsson)",
+      "url": "https://open.spotify.com/track/3jucj0h0tajme6rUEadmWN"
     },
     {
       "album": {
@@ -38168,7 +38280,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 240446,
       "name": "Te Khelas",
       "url": "https://open.spotify.com/track/26vk0Xdt4Z9bCqgOLRt4MG"
@@ -39036,7 +39148,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 121294,
       "name": "the kill 2",
       "url": "https://open.spotify.com/track/7MZyREIMPkgc7v5vzCGw87"
@@ -46563,6 +46675,24 @@
     },
     {
       "album": {
+        "name": "\u0411\u0440\u043e\u044f \u0437\u0432\u0435\u0437\u0434\u0438",
+        "url": "https://open.spotify.com/album/4FBAtLoILNnTc3FXmcPxTE"
+      },
+      "artists": [
+        {
+          "name": "Dara Ekimova",
+          "url": "https://open.spotify.com/artist/1ow8YzLZ6aRPqE2zev82sa"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149917,
+      "name": "\u0411\u0440\u043e\u044f \u0437\u0432\u0435\u0437\u0434\u0438",
+      "url": "https://open.spotify.com/track/3QScLVI4liiSfF6AqSEbig"
+    },
+    {
+      "album": {
         "name": "\u0411\u0443\u043b\u0435\u0432\u0430\u0440\u0434\u0430",
         "url": "https://open.spotify.com/album/0VA962s1a7RdtalYaugoi0"
       },
@@ -50350,7 +50480,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 129320,
       "name": "\u041f\u0438\u044f",
       "url": "https://open.spotify.com/track/5cSEtuSERSBd4PEJS8ThUU"

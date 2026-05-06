@@ -1,6 +1,6 @@
 {
   "description": "A softer space.",
-  "num_followers": 615113,
+  "num_followers": 615072,
   "original_name": "Gentle",
   "owner": {
     "name": "Spotify",
@@ -557,6 +557,22 @@
       "url": "https://open.spotify.com/track/6PGNpgfoGIpfZVJFHdK7bV"
     },
     {
+      "added_at": "2024-10-10 23:35:59",
+      "album": {
+        "name": "For Sure",
+        "url": "https://open.spotify.com/album/5xFn52znOHVXnZlaDQVqrh"
+      },
+      "artists": [
+        {
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+        }
+      ],
+      "duration_ms": 593346,
+      "name": "For Sure",
+      "url": "https://open.spotify.com/track/2dUPhgv2YYEnbFrLZ16Ojt"
+    },
+    {
       "added_at": "2024-05-31 15:25:10",
       "album": {
         "name": "Beneath The Skin",
@@ -587,22 +603,6 @@
       "duration_ms": 164566,
       "name": "The Bomb",
       "url": "https://open.spotify.com/track/6QAztdj5jtr41PL56WcgvP"
-    },
-    {
-      "added_at": "2024-10-10 23:35:59",
-      "album": {
-        "name": "For Sure",
-        "url": "https://open.spotify.com/album/5xFn52znOHVXnZlaDQVqrh"
-      },
-      "artists": [
-        {
-          "name": "Ethel Cain",
-          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
-        }
-      ],
-      "duration_ms": 593346,
-      "name": "For Sure",
-      "url": "https://open.spotify.com/track/2dUPhgv2YYEnbFrLZ16Ojt"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -637,22 +637,6 @@
       "url": "https://open.spotify.com/track/0C6dSPCqwKqwos6s1CrDrh"
     },
     {
-      "added_at": "2024-10-10 23:35:59",
-      "album": {
-        "name": "Moon Music",
-        "url": "https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 240508,
-      "name": "JUPiTER",
-      "url": "https://open.spotify.com/track/3EbRbM7qyJq9qjRqDIwBTO"
-    },
-    {
       "added_at": "2024-08-29 19:59:48",
       "album": {
         "name": "Brooklyn Baby - Spotify Singles",
@@ -667,6 +651,22 @@
       "duration_ms": 345600,
       "name": "Brooklyn Baby - Spotify Singles",
       "url": "https://open.spotify.com/track/7oPy7n1yowiREvMyypIBEC"
+    },
+    {
+      "added_at": "2024-10-10 23:35:59",
+      "album": {
+        "name": "Moon Music",
+        "url": "https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 240508,
+      "name": "JUPiTER",
+      "url": "https://open.spotify.com/track/3EbRbM7qyJq9qjRqDIwBTO"
     },
     {
       "added_at": "2024-10-10 23:35:59",
@@ -991,6 +991,22 @@
     {
       "added_at": "2024-05-31 15:25:10",
       "album": {
+        "name": "Seventeen Going Under (Deluxe)",
+        "url": "https://open.spotify.com/album/4FKOLaEGqA7ZFYYW5r4X9z"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "duration_ms": 238333,
+      "name": "The Dying Light",
+      "url": "https://open.spotify.com/track/0Ecl06jrr4EG4xOltXDuth"
+    },
+    {
+      "added_at": "2024-05-31 15:25:10",
+      "album": {
         "name": "Spiderwebs",
         "url": "https://open.spotify.com/album/4QtlSNN8B8AxiHEllspqDl"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 169519,
       "name": "Dream police",
       "url": "https://open.spotify.com/track/5jdlKW2oMtQkOaZp5YOS4G"
-    },
-    {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
-        "name": "Seventeen Going Under (Deluxe)",
-        "url": "https://open.spotify.com/album/4FKOLaEGqA7ZFYYW5r4X9z"
-      },
-      "artists": [
-        {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
-        }
-      ],
-      "duration_ms": 238333,
-      "name": "The Dying Light",
-      "url": "https://open.spotify.com/track/0Ecl06jrr4EG4xOltXDuth"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2024-05-31 15:25:10",
       "album": {
-        "name": "Your Hero Is Not Dead",
-        "url": "https://open.spotify.com/album/45gjNMd3mAP0zyTQMOQdGk"
-      },
-      "artists": [
-        {
-          "name": "Westerman",
-          "url": "https://open.spotify.com/artist/09s6bLEw45wioK9ytf3nsA"
-        }
-      ],
-      "duration_ms": 258265,
-      "name": "Confirmation (SSBD)",
-      "url": "https://open.spotify.com/track/0gcNTflElPYcxajA1LelYd"
-    },
-    {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
         "name": "Maybe I\u2019m Lonely",
         "url": "https://open.spotify.com/album/7cGahzr5hx2AfLnrd0aoKM"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 152141,
       "name": "Maybe I\u2019m Lonely",
       "url": "https://open.spotify.com/track/3X3cftpXwcSXQM4fC5ihdo"
+    },
+    {
+      "added_at": "2024-05-31 15:25:10",
+      "album": {
+        "name": "Your Hero Is Not Dead",
+        "url": "https://open.spotify.com/album/45gjNMd3mAP0zyTQMOQdGk"
+      },
+      "artists": [
+        {
+          "name": "Westerman",
+          "url": "https://open.spotify.com/artist/09s6bLEw45wioK9ytf3nsA"
+        }
+      ],
+      "duration_ms": 258265,
+      "name": "Confirmation (SSBD)",
+      "url": "https://open.spotify.com/track/0gcNTflElPYcxajA1LelYd"
     },
     {
       "added_at": "2024-10-10 23:35:59",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2024-05-31 15:25:10",
       "album": {
-        "name": "The Death Of Summer & Other Promises",
-        "url": "https://open.spotify.com/album/0esL2lh3mMULygf9eA6RlV"
-      },
-      "artists": [
-        {
-          "name": "Etta Marcus",
-          "url": "https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg"
-        }
-      ],
-      "duration_ms": 269411,
-      "name": "Skin Parade",
-      "url": "https://open.spotify.com/track/2ULTiHf6StaL4Hbyarfr2h"
-    },
-    {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
         "name": "Four\u00b0 In Winter (Deluxe)",
         "url": "https://open.spotify.com/album/3G1jxG3M4rwWm3CZG4S1Wq"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 202873,
       "name": "If Only",
       "url": "https://open.spotify.com/track/4EdAQ5rPO3X9NClqwhqsIt"
+    },
+    {
+      "added_at": "2024-05-31 15:25:10",
+      "album": {
+        "name": "The Death Of Summer & Other Promises",
+        "url": "https://open.spotify.com/album/0esL2lh3mMULygf9eA6RlV"
+      },
+      "artists": [
+        {
+          "name": "Etta Marcus",
+          "url": "https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg"
+        }
+      ],
+      "duration_ms": 269411,
+      "name": "Skin Parade",
+      "url": "https://open.spotify.com/track/2ULTiHf6StaL4Hbyarfr2h"
     },
     {
       "added_at": "2024-05-31 15:25:10",

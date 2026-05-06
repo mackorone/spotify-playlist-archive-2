@@ -1,6 +1,6 @@
 {
   "description": "Descubre la escena del jazz en M\u00e9xico \ud83c\udfb7\ud83c\udfb9\ud83c\udfb6\ud83c\uddf2\ud83c\uddfd",
-  "num_followers": 65325,
+  "num_followers": 65334,
   "original_name": "Jazz en M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -187,6 +187,22 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
+        "name": "...Un Poco M\u00e1s",
+        "url": "https://open.spotify.com/album/5lAACEe8qGeTZhrzlCr8wM"
+      },
+      "artists": [
+        {
+          "name": "Na'rimbo",
+          "url": "https://open.spotify.com/artist/3WM7lsbcWyFWHFYmwTQKLt"
+        }
+      ],
+      "duration_ms": 370613,
+      "name": "Al Son de la Marimba",
+      "url": "https://open.spotify.com/track/2ASMYuPSrYkM3zk3E8uBWh"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
         "name": "As\u00ed Era Entonces, Ahora...",
         "url": "https://open.spotify.com/album/7DvwqriKTJbGOnrXQot7tX"
       },
@@ -203,22 +219,6 @@
       "duration_ms": 270466,
       "name": "Los Peque\u00f1os Detalles",
       "url": "https://open.spotify.com/track/7JIuo1FbYeIdJlwXXztn01"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "...Un Poco M\u00e1s",
-        "url": "https://open.spotify.com/album/5lAACEe8qGeTZhrzlCr8wM"
-      },
-      "artists": [
-        {
-          "name": "Na'rimbo",
-          "url": "https://open.spotify.com/artist/3WM7lsbcWyFWHFYmwTQKLt"
-        }
-      ],
-      "duration_ms": 370613,
-      "name": "Al Son de la Marimba",
-      "url": "https://open.spotify.com/track/2ASMYuPSrYkM3zk3E8uBWh"
     },
     {
       "added_at": "2023-04-12 01:24:34",
@@ -459,22 +459,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "So\u00f1\u00e9 - Jazz Mexicano",
-        "url": "https://open.spotify.com/album/1d4BQoieyMuga0PEjsdcB6"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Batiz",
-          "url": "https://open.spotify.com/artist/6xBEVM1pgWPp5v93sBVcm3"
-        }
-      ],
-      "duration_ms": 266866,
-      "name": "La Cocola",
-      "url": "https://open.spotify.com/track/2XxyE2LiLidlNXuoYpczZA"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "Cuenta Conmigo (feat. Oscar Stagnaro)",
         "url": "https://open.spotify.com/album/7zMYmzZ13y8t7aNnBsf9nz"
       },
@@ -491,6 +475,26 @@
       "duration_ms": 217840,
       "name": "Deb\u00ed Llorar",
       "url": "https://open.spotify.com/track/4BLmvUSPSwfMA09mp9Hp14"
+    },
+    {
+      "added_at": "2022-08-09 18:38:23",
+      "album": {
+        "name": "Tukumtak",
+        "url": "https://open.spotify.com/album/0h4jpUdtOWrmksifqBVxf7"
+      },
+      "artists": [
+        {
+          "name": "Kansado",
+          "url": "https://open.spotify.com/artist/40is4UfaphbysAcimFzUDW"
+        },
+        {
+          "name": "Orestes Gomez",
+          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
+        }
+      ],
+      "duration_ms": 182970,
+      "name": "Tukumtak",
+      "url": "https://open.spotify.com/track/4aOaDvOhOeTkF3sItgGY8y"
     },
     {
       "added_at": "2024-08-29 03:09:23",
@@ -525,24 +529,20 @@
       "url": "https://open.spotify.com/track/4uwBouip1vHrpf4t6XSQiO"
     },
     {
-      "added_at": "2022-08-09 18:38:23",
+      "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Tukumtak",
-        "url": "https://open.spotify.com/album/0h4jpUdtOWrmksifqBVxf7"
+        "name": "So\u00f1\u00e9 - Jazz Mexicano",
+        "url": "https://open.spotify.com/album/1d4BQoieyMuga0PEjsdcB6"
       },
       "artists": [
         {
-          "name": "Kansado",
-          "url": "https://open.spotify.com/artist/40is4UfaphbysAcimFzUDW"
-        },
-        {
-          "name": "Orestes Gomez",
-          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
+          "name": "Gerardo Batiz",
+          "url": "https://open.spotify.com/artist/6xBEVM1pgWPp5v93sBVcm3"
         }
       ],
-      "duration_ms": 182970,
-      "name": "Tukumtak",
-      "url": "https://open.spotify.com/track/4aOaDvOhOeTkF3sItgGY8y"
+      "duration_ms": 266866,
+      "name": "La Cocola",
+      "url": "https://open.spotify.com/track/2XxyE2LiLidlNXuoYpczZA"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -633,22 +633,6 @@
       "url": "https://open.spotify.com/track/76Q411FGiMRHoi3NoFhIGf"
     },
     {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "What's The Rush? (Remastered)",
-        "url": "https://open.spotify.com/album/5DDmmIEbBj1Af44uYbDPqi"
-      },
-      "artists": [
-        {
-          "name": "Joe d'Etienne Big Band",
-          "url": "https://open.spotify.com/artist/4w0SEpB31C1FOxXUirTg3M"
-        }
-      ],
-      "duration_ms": 403946,
-      "name": "Temporary Insanity",
-      "url": "https://open.spotify.com/track/4Y4brKstYyDiKZlfu9xtmL"
-    },
-    {
       "added_at": "2023-04-13 19:45:15",
       "album": {
         "name": "Calladito Te Ves Mejor",
@@ -667,6 +651,22 @@
       "duration_ms": 236419,
       "name": "Calladito Te Ves Mejor",
       "url": "https://open.spotify.com/track/1gRrpSegNLpweoDh03pztu"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "What's The Rush? (Remastered)",
+        "url": "https://open.spotify.com/album/5DDmmIEbBj1Af44uYbDPqi"
+      },
+      "artists": [
+        {
+          "name": "Joe d'Etienne Big Band",
+          "url": "https://open.spotify.com/artist/4w0SEpB31C1FOxXUirTg3M"
+        }
+      ],
+      "duration_ms": 403946,
+      "name": "Temporary Insanity",
+      "url": "https://open.spotify.com/track/4Y4brKstYyDiKZlfu9xtmL"
     },
     {
       "added_at": "2024-08-29 03:09:23",
@@ -719,34 +719,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Orquesta Moderna",
-        "url": "https://open.spotify.com/album/60KHICOjM4zeffZYe3hk3i"
-      },
-      "artists": [
-        {
-          "name": "Rosino Serrano",
-          "url": "https://open.spotify.com/artist/1sTsepStQrm8ZVVL3z6VFJ"
-        },
-        {
-          "name": "Orquesta Moderna",
-          "url": "https://open.spotify.com/artist/7hsk7R2qwQOJAdmpUH63ob"
-        },
-        {
-          "name": "Gianluca Littera",
-          "url": "https://open.spotify.com/artist/3FQJWyPvR00JAfEL8TAsFo"
-        },
-        {
-          "name": "Alex Mercado",
-          "url": "https://open.spotify.com/artist/7oVhQ1IHY6U2VfSqJl5cu1"
-        }
-      ],
-      "duration_ms": 285508,
-      "name": "Guapanguito",
-      "url": "https://open.spotify.com/track/276aMT3jt0qKDT216Thn3c"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "Eco",
         "url": "https://open.spotify.com/album/1bQ17AkcZNNda4ogkEUdFx"
       },
@@ -779,26 +751,30 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Triology",
-        "url": "https://open.spotify.com/album/5C5oSHXWJZW48TAhCkPnuS"
+        "name": "Orquesta Moderna",
+        "url": "https://open.spotify.com/album/60KHICOjM4zeffZYe3hk3i"
       },
       "artists": [
         {
-          "name": "Eddie G\u00f3mez",
-          "url": "https://open.spotify.com/artist/6HBVTGmPHytchERPb8YGPr"
+          "name": "Rosino Serrano",
+          "url": "https://open.spotify.com/artist/1sTsepStQrm8ZVVL3z6VFJ"
         },
         {
-          "name": "Alberto Medina",
-          "url": "https://open.spotify.com/artist/070NUxDs12dhcmiHpW8v4Z"
+          "name": "Orquesta Moderna",
+          "url": "https://open.spotify.com/artist/7hsk7R2qwQOJAdmpUH63ob"
         },
         {
-          "name": "Pablo Prieto",
-          "url": "https://open.spotify.com/artist/6n85URYIwliA5KkdI3Hb25"
+          "name": "Gianluca Littera",
+          "url": "https://open.spotify.com/artist/3FQJWyPvR00JAfEL8TAsFo"
+        },
+        {
+          "name": "Alex Mercado",
+          "url": "https://open.spotify.com/artist/7oVhQ1IHY6U2VfSqJl5cu1"
         }
       ],
-      "duration_ms": 428720,
-      "name": "Once I Loved",
-      "url": "https://open.spotify.com/track/3NNk5X50Cf1BuGXLedKv5K"
+      "duration_ms": 285508,
+      "name": "Guapanguito",
+      "url": "https://open.spotify.com/track/276aMT3jt0qKDT216Thn3c"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -827,6 +803,30 @@
       "duration_ms": 238039,
       "name": "La Danza de Helmut",
       "url": "https://open.spotify.com/track/3XIuXL9FZBfoQe0KK7tdqc"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Triology",
+        "url": "https://open.spotify.com/album/5C5oSHXWJZW48TAhCkPnuS"
+      },
+      "artists": [
+        {
+          "name": "Eddie G\u00f3mez",
+          "url": "https://open.spotify.com/artist/6HBVTGmPHytchERPb8YGPr"
+        },
+        {
+          "name": "Alberto Medina",
+          "url": "https://open.spotify.com/artist/070NUxDs12dhcmiHpW8v4Z"
+        },
+        {
+          "name": "Pablo Prieto",
+          "url": "https://open.spotify.com/artist/6n85URYIwliA5KkdI3Hb25"
+        }
+      ],
+      "duration_ms": 428720,
+      "name": "Once I Loved",
+      "url": "https://open.spotify.com/track/3NNk5X50Cf1BuGXLedKv5K"
     },
     {
       "added_at": "2022-01-14 03:44:06",

@@ -1,6 +1,6 @@
 {
   "description": "Alle oude party tunes!",
-  "num_followers": 108457,
+  "num_followers": 108484,
   "original_name": "Oude Party Tunes",
   "owner": {
     "name": "Spotify",
@@ -1263,6 +1263,26 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
+        "name": "Juppige Geintjes",
+        "url": "https://open.spotify.com/album/2kh8ShoAm8PmHOhJTfWoNE"
+      },
+      "artists": [
+        {
+          "name": "ChildsPlay",
+          "url": "https://open.spotify.com/artist/6rNu1h2bZtfgDuZC5FWGel"
+        },
+        {
+          "name": "Frsh",
+          "url": "https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN"
+        }
+      ],
+      "duration_ms": 177623,
+      "name": "Tis Oke Mop",
+      "url": "https://open.spotify.com/track/72hyNFiBQIUxq6wPjDLnMm"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
         "name": "Dashawn",
         "url": "https://open.spotify.com/album/1Oxf0qjQqyYUvFDhLcKFb0"
       },
@@ -1287,26 +1307,6 @@
       "duration_ms": 167184,
       "name": "Chemistry (feat. Mula B)",
       "url": "https://open.spotify.com/track/32KaEzzoNXtjTyMT55ZT7y"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
-        "name": "Juppige Geintjes",
-        "url": "https://open.spotify.com/album/2kh8ShoAm8PmHOhJTfWoNE"
-      },
-      "artists": [
-        {
-          "name": "ChildsPlay",
-          "url": "https://open.spotify.com/artist/6rNu1h2bZtfgDuZC5FWGel"
-        },
-        {
-          "name": "Frsh",
-          "url": "https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN"
-        }
-      ],
-      "duration_ms": 177623,
-      "name": "Tis Oke Mop",
-      "url": "https://open.spotify.com/track/72hyNFiBQIUxq6wPjDLnMm"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1575,30 +1575,6 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Nachtvlinder",
-        "url": "https://open.spotify.com/album/0r0VQ3GwhM0QgcP27MU4e5"
-      },
-      "artists": [
-        {
-          "name": "Bokoesam",
-          "url": "https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI"
-        },
-        {
-          "name": "$hirak",
-          "url": "https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2"
-        },
-        {
-          "name": "Chivv",
-          "url": "https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg"
-        }
-      ],
-      "duration_ms": 147467,
-      "name": "Go Go Club",
-      "url": "https://open.spotify.com/track/5W8OFf4lhZO0feWHR0Q7UG"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
         "name": "Hans Betaalt De Schade (feat. Chivv & Henkie T)",
         "url": "https://open.spotify.com/album/0BYPTyenqy6oj1LSkcWoz6"
       },
@@ -1627,6 +1603,30 @@
       "duration_ms": 174117,
       "name": "Hans Betaalt De Schade (feat. Chivv & Henkie T)",
       "url": "https://open.spotify.com/track/36UAh8lq8r62uopY9Du1w3"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "Nachtvlinder",
+        "url": "https://open.spotify.com/album/0r0VQ3GwhM0QgcP27MU4e5"
+      },
+      "artists": [
+        {
+          "name": "Bokoesam",
+          "url": "https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI"
+        },
+        {
+          "name": "$hirak",
+          "url": "https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2"
+        },
+        {
+          "name": "Chivv",
+          "url": "https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg"
+        }
+      ],
+      "duration_ms": 147467,
+      "name": "Go Go Club",
+      "url": "https://open.spotify.com/track/5W8OFf4lhZO0feWHR0Q7UG"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1975,6 +1975,30 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
+        "name": "Forever Lit",
+        "url": "https://open.spotify.com/album/4P8C9tvr8xleuIMgVBKpGy"
+      },
+      "artists": [
+        {
+          "name": "Dopebwoy",
+          "url": "https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr"
+        },
+        {
+          "name": "3robi",
+          "url": "https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o"
+        },
+        {
+          "name": "Mula B",
+          "url": "https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi"
+        }
+      ],
+      "duration_ms": 156921,
+      "name": "Walou Crisis (feat. 3robi & Mula B)",
+      "url": "https://open.spotify.com/track/4cEEHXGY0dsKtwmGFwhr9V"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
         "name": "Amiri Jeans",
         "url": "https://open.spotify.com/album/6YkiGFwk4wXZ9y6jZiexXB"
       },
@@ -1991,30 +2015,6 @@
       "duration_ms": 146822,
       "name": "Amiri Jeans",
       "url": "https://open.spotify.com/track/0IS34pxJiRrnCTw2uDy8dJ"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
-        "name": "Christian Dior",
-        "url": "https://open.spotify.com/album/3YwWt0GFc3bPZfmsU1uCjM"
-      },
-      "artists": [
-        {
-          "name": "Dopebwoy",
-          "url": "https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr"
-        },
-        {
-          "name": "Bryan Mg",
-          "url": "https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl"
-        },
-        {
-          "name": "SRNO",
-          "url": "https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q"
-        }
-      ],
-      "duration_ms": 152032,
-      "name": "Christian Dior",
-      "url": "https://open.spotify.com/track/101Guv5qCWiDv0rufQuhmX"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -2067,6 +2067,46 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
+        "name": "Midnight Boom",
+        "url": "https://open.spotify.com/album/52vZP5uAbwqNj89NRlQ0Ic"
+      },
+      "artists": [
+        {
+          "name": "Ir Sais",
+          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
+        }
+      ],
+      "duration_ms": 145937,
+      "name": "Midnight Boom",
+      "url": "https://open.spotify.com/track/41dxhDrOnQdieYdUW9PC4J"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "Christian Dior",
+        "url": "https://open.spotify.com/album/3YwWt0GFc3bPZfmsU1uCjM"
+      },
+      "artists": [
+        {
+          "name": "Dopebwoy",
+          "url": "https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr"
+        },
+        {
+          "name": "Bryan Mg",
+          "url": "https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl"
+        },
+        {
+          "name": "SRNO",
+          "url": "https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q"
+        }
+      ],
+      "duration_ms": 152032,
+      "name": "Christian Dior",
+      "url": "https://open.spotify.com/track/101Guv5qCWiDv0rufQuhmX"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
         "name": "Gate 16",
         "url": "https://open.spotify.com/album/5z41J2skECbPp97tog4mdg"
       },
@@ -2087,42 +2127,6 @@
       "duration_ms": 203446,
       "name": "Now She See Me (feat. Sevn Alias & Two Crooks)",
       "url": "https://open.spotify.com/track/3bfzlKH2WVXNvLcxEky2k5"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
-        "name": "Midnight Boom",
-        "url": "https://open.spotify.com/album/52vZP5uAbwqNj89NRlQ0Ic"
-      },
-      "artists": [
-        {
-          "name": "Ir Sais",
-          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
-        }
-      ],
-      "duration_ms": 145937,
-      "name": "Midnight Boom",
-      "url": "https://open.spotify.com/track/41dxhDrOnQdieYdUW9PC4J"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
-        "name": "Forever Lit (Deluxe)",
-        "url": "https://open.spotify.com/album/41alz6LrulH40FBg3hLiWa"
-      },
-      "artists": [
-        {
-          "name": "Dopebwoy",
-          "url": "https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr"
-        },
-        {
-          "name": "Yxng Bane",
-          "url": "https://open.spotify.com/artist/5AbLpsnTQVNB3OEadYiVrK"
-        }
-      ],
-      "duration_ms": 148879,
-      "name": "Santo Domingo (feat. Yxng Bane)",
-      "url": "https://open.spotify.com/track/2J3DbL8YqhWKFtKZ2WQ5Om"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -2171,26 +2175,6 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Gouden Plaat",
-        "url": "https://open.spotify.com/album/6foJw5tA83SRvOLKL5ubYY"
-      },
-      "artists": [
-        {
-          "name": "Jairzinho",
-          "url": "https://open.spotify.com/artist/4owt1GWUqAh4gsXT13roop"
-        },
-        {
-          "name": "Jonna Fraser",
-          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
-        }
-      ],
-      "duration_ms": 136499,
-      "name": "Laat Niet Los (feat. Jonna Fraser)",
-      "url": "https://open.spotify.com/track/3UxtV3dzZU58Y5OzaUUplr"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
         "name": "Het Is Een Feit",
         "url": "https://open.spotify.com/album/0cwPLMyyZA1uNVZ1FJd0kz"
       },
@@ -2227,8 +2211,28 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Forever Lit",
-        "url": "https://open.spotify.com/album/4P8C9tvr8xleuIMgVBKpGy"
+        "name": "Gouden Plaat",
+        "url": "https://open.spotify.com/album/6foJw5tA83SRvOLKL5ubYY"
+      },
+      "artists": [
+        {
+          "name": "Jairzinho",
+          "url": "https://open.spotify.com/artist/4owt1GWUqAh4gsXT13roop"
+        },
+        {
+          "name": "Jonna Fraser",
+          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
+        }
+      ],
+      "duration_ms": 136499,
+      "name": "Laat Niet Los (feat. Jonna Fraser)",
+      "url": "https://open.spotify.com/track/3UxtV3dzZU58Y5OzaUUplr"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "Forever Lit (Deluxe)",
+        "url": "https://open.spotify.com/album/41alz6LrulH40FBg3hLiWa"
       },
       "artists": [
         {
@@ -2236,17 +2240,13 @@
           "url": "https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr"
         },
         {
-          "name": "3robi",
-          "url": "https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o"
-        },
-        {
-          "name": "Mula B",
-          "url": "https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi"
+          "name": "Yxng Bane",
+          "url": "https://open.spotify.com/artist/5AbLpsnTQVNB3OEadYiVrK"
         }
       ],
-      "duration_ms": 156921,
-      "name": "Walou Crisis (feat. 3robi & Mula B)",
-      "url": "https://open.spotify.com/track/4cEEHXGY0dsKtwmGFwhr9V"
+      "duration_ms": 148879,
+      "name": "Santo Domingo (feat. Yxng Bane)",
+      "url": "https://open.spotify.com/track/2J3DbL8YqhWKFtKZ2WQ5Om"
     }
   ],
   "unique_name": "Oude Party Tunes",

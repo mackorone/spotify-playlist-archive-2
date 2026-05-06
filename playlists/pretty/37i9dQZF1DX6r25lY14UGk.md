@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 
 > New releases for the kids\. Cover: Blippi & Yellowcard
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,840 likes - 100 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,863 likes - 100 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 | 28 | [Sofia the First: Royal Magic Theme \- From "Disney Jr\. Music: Sofia the First: Royal Magic"](https://open.spotify.com/track/2g6YlMOSrdekIm9idxeqKR) | [Cast \- Sofia the First](https://open.spotify.com/artist/2ItqDyOHeQBaOPeZmKVu2p), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Sofia the First: Royal Magic Theme \(From "Disney Jr\. Music: Sofia the First: Royal Magic"\)](https://open.spotify.com/album/7xLFLCm0WvaWE7mItxgBZC) | 0:54 |
 | 29 | [Today It's Raining](https://open.spotify.com/track/08u58PZrHODui0zE4JRJ1M) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a), [Noodle & Pals](https://open.spotify.com/artist/5r4Bnflqc1rt8z3UIhwwKf) | [Today It's Raining](https://open.spotify.com/album/3akMW8JypiN2Bk0RE7OGEl) | 2:32 |
 | 30 | [Midnight In Me \(DJ Pon\-3's Version\)](https://open.spotify.com/track/0YQqlo8DjwBZmkpTu85ZXa) | [Twilight Sparkle](https://open.spotify.com/artist/53CQUfjaBNRwV2nFro1nac), [My Little Pony](https://open.spotify.com/artist/5mM9eNte0aWttOiMhPb2dM), [DJ Pon\-3](https://open.spotify.com/artist/6Oi2Qrnn3uBHiQgNZk9qen), [Mona Rue](https://open.spotify.com/artist/15lMav195dBJKGtRHPTWVw) | [DJ Pon\-3 Presents: Twilight Sparkle](https://open.spotify.com/album/0lU0BfVqWQw3Pi4gejE95A) | 2:12 |
-| 31 | [Dino Stomp \- Jemima Grooves Mix](https://open.spotify.com/track/3GreL5FnuBUXag2ZuInP59) | [Play School](https://open.spotify.com/artist/0gkeMf1I9r5U5Hne19vr9A) | [Dino Stomp \(Jemima Grooves Mix\)](https://open.spotify.com/album/6xOvrQul7HlZkP4OuElIRr) | 1:50 |
+| 31 | [Dino Stomp \- Jemima Grooves Remix](https://open.spotify.com/track/3GreL5FnuBUXag2ZuInP59) | [Play School](https://open.spotify.com/artist/0gkeMf1I9r5U5Hne19vr9A) | [Dino Stomp \(Jemima Grooves Remix\)](https://open.spotify.com/album/6xOvrQul7HlZkP4OuElIRr) | 1:50 |
 | 32 | [Ten in The Bed Playdate](https://open.spotify.com/track/6TEee8bUaH22fW6E42eeTi) | [LooLoo Kids](https://open.spotify.com/artist/2njkfzRhOJFKLWFTu8FNWx) | [Ten in The Bed Playdate](https://open.spotify.com/album/6eK7mzsBoxzmS0RaOIiGD2) | 2:29 |
 | 33 | [Go Go Go](https://open.spotify.com/track/1bGMbn805C7ShUTdHbT8qj) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn), [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Go Go Go](https://open.spotify.com/album/60haVFPrULT1eaGLzI2WRo) | 2:01 |
 | 34 | [Hop Hop Hop Hop](https://open.spotify.com/track/4kSAOaAceTvXADS4ZpcNIh) | [PAW Patrol](https://open.spotify.com/artist/1JPhbKU3boL67fftU3U1ED), [Nickelodeon](https://open.spotify.com/artist/6EP1XFnygH4lAap7EsBs65) | [Hop Hop Hop Hop](https://open.spotify.com/album/3TheDiXE2nWclOsy75nNV1) | 0:31 |

@@ -1579,6 +1579,42 @@
     },
     {
       "album": {
+        "name": "Cap #1 - Villa Jard\u00edn",
+        "url": "https://open.spotify.com/album/3SnQqRuqgTBtjamG9wqmBc"
+      },
+      "artists": [
+        {
+          "name": "Homer El Mero Mero",
+          "url": "https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154666,
+      "name": "Cap #1 - Villa Jard\u00edn",
+      "url": "https://open.spotify.com/track/50R0UtXQqArFhD5a6Hvy7B"
+    },
+    {
+      "album": {
+        "name": "Cap #2 - Villa Fiorito",
+        "url": "https://open.spotify.com/album/51wqRgsG3tf5GLmPKM6RjM"
+      },
+      "artists": [
+        {
+          "name": "Homer El Mero Mero",
+          "url": "https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164821,
+      "name": "Cap #2 - Villa Fiorito",
+      "url": "https://open.spotify.com/track/7zFFX6KfPnK09Kv93zzEbN"
+    },
+    {
+      "album": {
         "name": "CAPAZ PUEDEN SONAR PERO",
         "url": "https://open.spotify.com/album/5mobF9UGyjLR1FRL4RDDzd"
       },
@@ -9528,42 +9564,6 @@
       "duration_ms": 145031,
       "name": "Viernes 16 B",
       "url": "https://open.spotify.com/track/1Mlxxu0LJZobNjeupYqCEG"
-    },
-    {
-      "album": {
-        "name": "Villa Fiorito - Cap\u00edtulo 2",
-        "url": "https://open.spotify.com/album/51wqRgsG3tf5GLmPKM6RjM"
-      },
-      "artists": [
-        {
-          "name": "Homer El Mero Mero",
-          "url": "https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg"
-        }
-      ],
-      "date_added": "2026-05-01",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 164821,
-      "name": "Villa Fiorito - Cap\u00edtulo 2",
-      "url": "https://open.spotify.com/track/7zFFX6KfPnK09Kv93zzEbN"
-    },
-    {
-      "album": {
-        "name": "Villa Jard\u00edn - Cap #1",
-        "url": "https://open.spotify.com/album/3SnQqRuqgTBtjamG9wqmBc"
-      },
-      "artists": [
-        {
-          "name": "Homer El Mero Mero",
-          "url": "https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg"
-        }
-      ],
-      "date_added": "2026-03-20",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 154666,
-      "name": "Villa Jard\u00edn - Cap #1",
-      "url": "https://open.spotify.com/track/50R0UtXQqArFhD5a6Hvy7B"
     },
     {
       "album": {

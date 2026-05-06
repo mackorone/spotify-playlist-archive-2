@@ -2316,7 +2316,7 @@
       ],
       "date_added": "2026-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-03",
+      "date_removed": null,
       "duration_ms": 244600,
       "name": "Aigaio",
       "url": "https://open.spotify.com/track/7fjXdCjbcpxRxCbTJHEiOi"
@@ -13124,7 +13124,7 @@
       ],
       "date_added": "2026-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 161379,
       "name": "DEN GYRNAS",
       "url": "https://open.spotify.com/track/2tOclAPakNTvjFU0cTm0pj"
@@ -13234,7 +13234,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 173503,
       "name": "Den Sikono",
       "url": "https://open.spotify.com/track/3tMZC9khIzmSzQZDzLA6m2"
@@ -13330,7 +13330,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 171940,
       "name": "Depression",
       "url": "https://open.spotify.com/track/3BhXrRdAosdjz3Jnc9svU2"
@@ -16544,7 +16544,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-05",
+      "date_removed": null,
       "duration_ms": 162403,
       "name": "Enola",
       "url": "https://open.spotify.com/track/6u7CdpJDRDVUpc0373uSyd"
@@ -18124,7 +18124,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 149333,
       "name": "FANELA",
       "url": "https://open.spotify.com/track/09GvbPHAGUkFgB9tIRaQYb"
@@ -22206,7 +22206,7 @@
       ],
       "date_added": "2026-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-03",
+      "date_removed": null,
       "duration_ms": 177230,
       "name": "GOOD LUCK",
       "url": "https://open.spotify.com/track/3Zg7YKBnryTuQn8BeOO4rZ"
@@ -28494,7 +28494,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 154705,
       "name": "KOUKLA",
       "url": "https://open.spotify.com/track/2OtlJi8vzajxp51W9gYwCO"
@@ -29100,7 +29100,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 180000,
       "name": "Kyrile Remali",
       "url": "https://open.spotify.com/track/2IFcPdZlCRavGSbV3wcJ41"
@@ -33616,7 +33616,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 151181,
       "name": "Me Ena Whiskey",
       "url": "https://open.spotify.com/track/68UvWrlFCNapPplJiXlaCs"
@@ -33678,7 +33678,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-05",
+      "date_removed": null,
       "duration_ms": 146000,
       "name": "Me Pernei Apo Katw Otan Feugeis",
       "url": "https://open.spotify.com/track/3rFe0o5xOQakVFp5NzEAxb"
@@ -33740,7 +33740,7 @@
       ],
       "date_added": "2026-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-03",
+      "date_removed": null,
       "duration_ms": 179573,
       "name": "Me Xodepses",
       "url": "https://open.spotify.com/track/2XDgYSMOmSSjNGpDoJCPDJ"
@@ -35674,7 +35674,7 @@
       ],
       "date_added": "2026-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 133894,
       "name": "MONH SOU",
       "url": "https://open.spotify.com/track/7w0AdTkXv0UU1Xbzyaj9c7"
@@ -42872,7 +42872,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 144000,
       "name": "Pinw Les",
       "url": "https://open.spotify.com/track/5GYsGcUJfDggt7YXSeJ6ji"
@@ -43188,7 +43188,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-05",
+      "date_removed": null,
       "duration_ms": 171000,
       "name": "Plasma Tis Nyxtas",
       "url": "https://open.spotify.com/track/3v7xLpZeM0g56Jjv9xYCV7"
@@ -51899,6 +51899,24 @@
     },
     {
       "album": {
+        "name": "Take Me There",
+        "url": "https://open.spotify.com/album/1tuNBnbHUdE8rlooVI4sVR"
+      },
+      "artists": [
+        {
+          "name": "DA TI",
+          "url": "https://open.spotify.com/artist/0E1Yd4BPHXB4DfTaYb9Y5i"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202626,
+      "name": "Take Me There",
+      "url": "https://open.spotify.com/track/05zHAkeiaKLn4Vs8bPgrqv"
+    },
+    {
+      "album": {
         "name": "Take My Breath",
         "url": "https://open.spotify.com/album/4lBrDelXR6Sn0k54a7UWMz"
       },
@@ -53026,7 +53044,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 192000,
       "name": "Thalassa",
       "url": "https://open.spotify.com/track/3Z18wLiHatZoMOgxvWU36E"
@@ -54066,7 +54084,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-05",
+      "date_removed": null,
       "duration_ms": 187857,
       "name": "Tipota",
       "url": "https://open.spotify.com/track/6hEjhBhAAxtWK6HyH2XGgI"
@@ -54666,7 +54684,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-03",
+      "date_removed": null,
       "duration_ms": 205682,
       "name": "To Vals Ton Oniron",
       "url": "https://open.spotify.com/track/1qjoWfwVtNqH5VBEkGorzg"
@@ -58494,7 +58512,7 @@
       ],
       "date_added": "2026-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-03",
+      "date_removed": null,
       "duration_ms": 174222,
       "name": "XAPIA",
       "url": "https://open.spotify.com/track/5jJof6Gm55PcMtSsh7Kfxz"

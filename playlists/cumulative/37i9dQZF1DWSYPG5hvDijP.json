@@ -4746,7 +4746,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 136535,
       "name": "Bharosa",
       "url": "https://open.spotify.com/track/0kbszwE80pvQhsSoP5ZKDO"
@@ -4812,7 +4812,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 191914,
       "name": "BHASUDI",
       "url": "https://open.spotify.com/track/2OxdYA30zfjTKf7MuI0Njq"
@@ -8132,6 +8132,28 @@
       "duration_ms": 130666,
       "name": "Colour Blind",
       "url": "https://open.spotify.com/track/7MfXcAUvElJVYCB4ohSO21"
+    },
+    {
+      "album": {
+        "name": "Comeback",
+        "url": "https://open.spotify.com/album/0wmhabhdhkyppQ1UxeDGcr"
+      },
+      "artists": [
+        {
+          "name": "Bali",
+          "url": "https://open.spotify.com/artist/65pmgBULHr82D3llNlHtB8"
+        },
+        {
+          "name": "Nihaarika",
+          "url": "https://open.spotify.com/artist/0Bz8tfHA4pjg4FKYk4ARmR"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140259,
+      "name": "Comeback",
+      "url": "https://open.spotify.com/track/2tJ81OAKZ2HFoYyfsDS5Vc"
     },
     {
       "album": {
@@ -12076,7 +12098,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 156279,
       "name": "FLY",
       "url": "https://open.spotify.com/track/4YDvM7qeKwivPI0lBiH9WE"
@@ -13671,6 +13693,28 @@
     },
     {
       "album": {
+        "name": "Haan Mai Pahad",
+        "url": "https://open.spotify.com/album/6wQVk0fEr348ZebGYbPhrt"
+      },
+      "artists": [
+        {
+          "name": "Void",
+          "url": "https://open.spotify.com/artist/3rPEiLwMVfd4Vg3BlRbuJK"
+        },
+        {
+          "name": "Exult Yowl",
+          "url": "https://open.spotify.com/artist/6szIEcaQzaFdMn8e1UQzwU"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208021,
+      "name": "Haan Mai Pahad",
+      "url": "https://open.spotify.com/track/0dgOFvlZCAWlZABVD94H5S"
+    },
+    {
+      "album": {
         "name": "00's Kidz",
         "url": "https://open.spotify.com/album/5CfYFj6EzYm1zBsJCllIGA"
       },
@@ -14316,6 +14360,24 @@
       "duration_ms": 148169,
       "name": "Hi Kids",
       "url": "https://open.spotify.com/track/7yzrANkrNUNBa9OeRUxiuT"
+    },
+    {
+      "album": {
+        "name": "Hickey",
+        "url": "https://open.spotify.com/album/3WTKU2oDmGZv2gPru7Lk5N"
+      },
+      "artists": [
+        {
+          "name": "Junior",
+          "url": "https://open.spotify.com/artist/0Ca2wgWMjAoKtvb0v3tsAI"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102048,
+      "name": "Hickey",
+      "url": "https://open.spotify.com/track/4FJxLPkl1UNZx56j2c9wVI"
     },
     {
       "album": {
@@ -22098,7 +22160,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 171063,
       "name": "Monk",
       "url": "https://open.spotify.com/track/3smvB3pt3tQSjSO3TXMFlK"
@@ -26564,7 +26626,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 166321,
       "name": "RADE RAPATE",
       "url": "https://open.spotify.com/track/7CE7aGWKmQ1oqATMZkDsFf"
@@ -28267,6 +28329,28 @@
     },
     {
       "album": {
+        "name": "Seeda Parcel",
+        "url": "https://open.spotify.com/album/2bdJII4Plyf9MIpyLUhshg"
+      },
+      "artists": [
+        {
+          "name": "Hitzone",
+          "url": "https://open.spotify.com/artist/1deowOr1XNRNggmxCbvpUl"
+        },
+        {
+          "name": "Jason",
+          "url": "https://open.spotify.com/artist/6qCoHhEYIN5iWtr3gpyHuE"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "Seeda Parcel",
+      "url": "https://open.spotify.com/track/18XWJAK5KovIqvEYhWHDmV"
+    },
+    {
+      "album": {
         "name": "Seedha Mai Kal Jackson",
         "url": "https://open.spotify.com/album/75kBDTiKJU9dfPxXEjzk1p"
       },
@@ -29436,6 +29520,28 @@
       "duration_ms": 125070,
       "name": "Speed Dial",
       "url": "https://open.spotify.com/track/1uTcgABqGIlkE3HzFM2TTq"
+    },
+    {
+      "album": {
+        "name": "Spellbound",
+        "url": "https://open.spotify.com/album/727f2qEbusZp6jT1nj3JW0"
+      },
+      "artists": [
+        {
+          "name": "Dhruv Sthetick",
+          "url": "https://open.spotify.com/artist/4g8Z4if0DrwN5H83ZGpZ44"
+        },
+        {
+          "name": "Sthetick on Keyys",
+          "url": "https://open.spotify.com/artist/7a2x8RWVoM3QBz8ILJVXno"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201176,
+      "name": "Spellbound",
+      "url": "https://open.spotify.com/track/7hpGre5AKyTaLPgCITsSMR"
     },
     {
       "album": {

@@ -4,13 +4,14 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-450 songs - 1 day 1 hr 12 min
+453 songs - 1 day 1 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\#swaggedout](https://open.spotify.com/track/4ZEZhAKusdv0GxV1Fz8pMD) | [zune](https://open.spotify.com/artist/2wgR2adhW6drxUphtvmX1y), [ElWhy](https://open.spotify.com/artist/4ipQYeYS9VZUP9jvgxfxyP) | [\#swaggedout](https://open.spotify.com/album/08OK1qBqhC0ZZk3msSlGZL) | 2:04 | 2025-12-04 | 2026-01-05 |
 | [\(Can I?\) Love myself](https://open.spotify.com/track/6bvXoNZVVMQTsWUTelbS8J) | [Xada](https://open.spotify.com/artist/5diCtzsJj7orehU5EMytKj) | [\(Can I?\) Love myself](https://open.spotify.com/album/2XRRVlWacz4t6AS5SBKn5g) | 3:41 | 2025-11-01 | 2025-12-01 |
 | [1.5](https://open.spotify.com/track/70K8CBH1RBfFLAGNt1xZB5) | [Court Lee](https://open.spotify.com/artist/4EUdpZKUAlErxveFMeqZVD) | [1.5](https://open.spotify.com/album/26yjewkMIBbSlh59MojuSJ) | 2:56 | 2025-12-24 | 2026-01-15 |
+| [1721](https://open.spotify.com/track/2o9VXvH23n3IGgkaogject) | [Recheal Chrismild](https://open.spotify.com/artist/0Y0N5wtZyxYHA67np5VXIO) | [1721](https://open.spotify.com/album/0CoDvYVYINl0w9eJAXBNpl) | 3:44 | 2026-05-05 |  |
 | [1969](https://open.spotify.com/track/7mzfM2tTKNEgHIWdvXqJyQ) | [The Fuzes](https://open.spotify.com/artist/2FTrpNcKeBFvF9iKZa5kEA) | [The Fuzes Best Of](https://open.spotify.com/album/16zoHx9wW6EVMvPDo1sha5) | 3:30 | 2026-04-19 |  |
 | [2 0 4 5](https://open.spotify.com/track/3mS5wAqw8WxYGw4Hdc0hag) | [Wyatt Leach](https://open.spotify.com/artist/6Rl58oDVByLhttQgFkTTW1) | [2 0 4 5](https://open.spotify.com/album/1NXZMjp4olFbvITfoegqea) | 2:21 | 2025-11-30 | 2026-01-05 |
 | [40](https://open.spotify.com/track/0efLMYEhoCsvPEjMTug7cY) | [The Katawicks](https://open.spotify.com/artist/3hqty8aRn2EImLsrckK6mk) | [For The Seasons](https://open.spotify.com/album/7dDWirfVw0eWCOovuiREaa) | 3:10 | 2026-04-03 |  |
@@ -35,6 +36,7 @@
 | [AMALFI COAST](https://open.spotify.com/track/7mTk4DkWvxKIeX8INzG426) | [C\-Zero](https://open.spotify.com/artist/5I8EdBtHPl24xU2dysCj3o) | [AMALFI COAST](https://open.spotify.com/album/5d6KIZ7Euod0uin0zvShtM) | 2:27 | 2025-10-19 | 2026-01-05 |
 | [AMARO](https://open.spotify.com/track/0HttEPEYJ7QzjjLxCCuFAB) | [Modalità Ostile](https://open.spotify.com/artist/47DoF17yIAH58maogss0BI) | [AMARO](https://open.spotify.com/album/4JJv2doWWf82piWQwExjsJ) | 4:14 | 2025-11-17 | 2026-01-05 |
 | [Amigo](https://open.spotify.com/track/2QgpEmuwzP26oBGcUkfne0) | [Argonautas](https://open.spotify.com/artist/65Pc1uHVu0oDDfNoErHinw) | [Amigo](https://open.spotify.com/album/5OsWun9BqiD3V7fs9b0D8I) | 3:40 | 2025-12-20 | 2026-01-15 |
+| [Amnesia](https://open.spotify.com/track/7FD4lLp5GBsRVEMWwYBBUp) | [Corey Drumz](https://open.spotify.com/artist/1FahdwAmCrNJVrH1rHGlML), [CeStyle](https://open.spotify.com/artist/6zDcQZkvdVjUv5HyqRKHCm) | [Amnesia](https://open.spotify.com/album/0a5SZcSO05pTCUXZOKBpfI) | 4:00 | 2026-05-05 |  |
 | [Amor Odio](https://open.spotify.com/track/6AnFuGA2s2kW3pdwJgL6DD) | [AnalogHeads](https://open.spotify.com/artist/7ELGlDonTv8CtHZOTpLFML), [SAF.TD](https://open.spotify.com/artist/3Dj7Xjk8zY4A0ysb6fEARD) | [Amor Odio](https://open.spotify.com/album/4bc8EFjSFHcfxrzNqzM9dm) | 3:46 | 2025-12-20 | 2026-01-15 |
 | [Analysing Animals](https://open.spotify.com/track/2Ezx6TEWdE30ef5gl0YtRo) | [Yesterdaze](https://open.spotify.com/artist/1wnS0i7V0EndjUv8awrMGe) | [Analysing Animals](https://open.spotify.com/album/1w68YSqdaJdUYakJNNAWx1) | 3:31 | 2025-11-08 | 2025-12-01 |
 | [Angels Don't Always Wear Wings](https://open.spotify.com/track/7EbPER84r4RMpDLr69ALao) | [Harold Payne](https://open.spotify.com/artist/1BfgVctke9PP5LJDIWrUxC) | [Angels Don't Always Wear Wings](https://open.spotify.com/album/78I73gPaN6EnuRB2OvjqEQ) | 4:09 | 2025-11-18 | 2026-01-05 |
@@ -68,6 +70,7 @@
 | [Big Momma's Door](https://open.spotify.com/track/4Ly3A5E1Bq2pKhODzTPO7z) | [CHOCA BLUES](https://open.spotify.com/artist/3cCPBFA3njtllaTGO7Av2W) | [Big Momma's Door](https://open.spotify.com/album/4ocODwLGtZNiHIVZqrSgsj) | 5:13 | 2025-12-22 | 2026-01-25 |
 | [Black Butterfly](https://open.spotify.com/track/1ayzm5eskvnKXY9aqL927Y) | [Rafael Vidal Lykova](https://open.spotify.com/artist/7jFo2dnzVJ2XpI3e9AcDWA) | [Black Butterfly](https://open.spotify.com/album/0t79bLTGTN3IjGFmusISln) | 2:22 | 2025-12-04 | 2026-01-05 |
 | [Black Cat](https://open.spotify.com/track/6dSioFJXazwRx8v0TFKcVX) | [Jenny Scara](https://open.spotify.com/artist/0F4yegE6Xa3vC2KvCoJTGw) | [Black Cat](https://open.spotify.com/album/2kPGAf4iPwfIehyfdqno0R) | 2:27 | 2026-02-08 |  |
+| [Black Lashes](https://open.spotify.com/track/6GzppPjh6RuuoF9gkkRefR) | [The Jaded Lips](https://open.spotify.com/artist/6orV08XQAM5wA7Sm1BlrLx) | [Lip Service](https://open.spotify.com/album/4dQF4Bp3SoiFTkvGzv9ohI) | 4:02 | 2026-05-05 |  |
 | [Blue Pill](https://open.spotify.com/track/0ipO5eSuRjb8jWRuKHk2La) | [PAOLA](https://open.spotify.com/artist/2sk7Ti4LsPXdgjRWJ5k6Ny) | [Blue Pill](https://open.spotify.com/album/3mIVDAuuN0hAZOSDLWnbHx) | 2:50 | 2025-12-04 | 2026-01-05 |
 | [Body](https://open.spotify.com/track/6Yocmq2Vsz84eZmgEDEXqj) | [Shay Lowe](https://open.spotify.com/artist/2B2RLN0tbgsZVvMvMgKPhg) | [Body](https://open.spotify.com/album/2aYPD5IdZPTvlzLDcpt486) | 2:40 | 2025-12-22 | 2026-01-15 |
 | [Boltneck](https://open.spotify.com/track/6igTRenZofbW7sR9zElLja) | [The Trespassers](https://open.spotify.com/artist/4uLDuEBgtKBoOjCjBYMrtF) | [Boltneck](https://open.spotify.com/album/2GZSgTWpVYLXapQsOfjgYZ) | 4:20 | 2025-12-20 | 2026-01-15 |

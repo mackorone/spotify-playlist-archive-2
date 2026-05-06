@@ -4,7 +4,7 @@
 
 > Eletrônico energético para acompanhar a sua malhação diária.
 
-110 songs - 5 hr 19 min
+111 songs - 5 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,8 @@
 | [One in a Million \- Alok Remix](https://open.spotify.com/track/0nuszfz2u3hjdCDaNhc4m2) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [One in a Million \(Alok Remix\)](https://open.spotify.com/album/73bk5G6KNwb6gF1rjBXa4o) | 2:22 | 2023-11-10 | 2025-09-03 |
 | [One Million](https://open.spotify.com/track/4pBOB1MKyKvG8ntBCTx49A) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [LOTTEN](https://open.spotify.com/artist/64HKArcrzxLzoB2kY4dV0D) | [One Million](https://open.spotify.com/album/3Ki6AS8reL3CslfOHyMMVA) | 3:07 | 2023-07-21 |  |
 | [Oscillator \(Jack Is Back\)](https://open.spotify.com/track/6WPazu06dUe2cQ95KbS6NN) | [illusionize](https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L), [DJ Glen](https://open.spotify.com/artist/7FhUEuhPe1odyNav1iHfvd), [Chuck Roberts](https://open.spotify.com/artist/239FYJjvsOE1bGL58BSVgu) | [Oscillator \(Jack Is Back\)](https://open.spotify.com/album/6IyQxAbhpHfUeL3zbjNx0z) | 2:48 | 2024-06-28 | 2025-05-07 |
-| [Over Here](https://open.spotify.com/track/6MXz4WkjXAW2Wmk3neFtpg) | [VOLAC](https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE) | [Over Here](https://open.spotify.com/album/3jkQ3UzZJtHDpNEDWPjguT) | 2:57 | 2025-12-12 |  |
+| [Over Here](https://open.spotify.com/track/6MXz4WkjXAW2Wmk3neFtpg) | [VOLAC](https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE) | [Over Here](https://open.spotify.com/album/3jkQ3UzZJtHDpNEDWPjguT) | 2:57 | 2025-12-12 | 2026-05-06 |
+| [Pa Ca](https://open.spotify.com/track/5CWPDL3gvV8xq3VBwjNrTR) | [Massano](https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ), [Silver Panda](https://open.spotify.com/artist/310IX3ZzFSl14ZvY2dM8Da) | [Pa Ca](https://open.spotify.com/album/4EBRbhLcGhOjIMfeMv5UoP) | 3:05 | 2026-05-04 |  |
 | [Pararam](https://open.spotify.com/track/0eCiCbHblFYUFzWD7TU8fl) | [Chemical Surf](https://open.spotify.com/artist/7LgAW1ZiEd8f3HtCMGFaGx) | [Pararam](https://open.spotify.com/album/2p7ZeftDxrUCvw2IY4NITH) | 2:54 | 2023-07-21 |  |
 | [Party Never Ends](https://open.spotify.com/track/35F2tdWosmulYdcmsXpQ7x) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n) | [Party Never Ends](https://open.spotify.com/album/34safHRUbL0hGUi5JB86tM) | 2:28 | 2023-07-21 | 2023-11-18 |
 | [Party On My Own \(feat\. FAULHABER\)](https://open.spotify.com/track/4c9Py6O1NeuYKbJ8Ok7mTl) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [FAULHABER](https://open.spotify.com/artist/49T8i1paijMAK9rYtjO4lu) | [Party On My Own \(feat\. FAULHABER\)](https://open.spotify.com/album/0KyVN9LjYo0ASG1ibiShht) | 2:26 | 2023-07-21 | 2025-07-20 |

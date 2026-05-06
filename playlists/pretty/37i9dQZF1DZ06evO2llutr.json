@@ -1,12 +1,12 @@
 {
   "description": "This is Zach Bryan. The essential tracks, all in one playlist.",
-  "num_followers": 656868,
+  "num_followers": 656999,
   "original_name": "This Is Zach Bryan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afaQAAAAAAC6VzrHCQ1/kPkCW4GijHrk",
+  "snapshot_id": "affhgAAAAACh7h7Wn4lO13KfLzYRWG2s",
   "tracks": [
     {
       "added_at": null,
@@ -207,22 +207,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Zach Bryan",
-        "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 209320,
-      "name": "East Side of Sorrow",
-      "url": "https://open.spotify.com/track/00syWkRGIVQvYsg2OwfBUw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Summertime Blues",
         "url": "https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 161799,
       "name": "Motorcycle Drive By",
       "url": "https://open.spotify.com/track/2HbpYFQbairMoU2YFyOP2x"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Zach Bryan",
+        "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 209320,
+      "name": "East Side of Sorrow",
+      "url": "https://open.spotify.com/track/00syWkRGIVQvYsg2OwfBUw"
     },
     {
       "added_at": null,
@@ -424,9 +424,9 @@
           "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
         }
       ],
-      "duration_ms": 175159,
-      "name": "Skin",
-      "url": "https://open.spotify.com/track/61rfO3U360zRDDjFW6ajrx"
+      "duration_ms": 151472,
+      "name": "Dry Deserts",
+      "url": "https://open.spotify.com/track/4TiwLUPOvPHrrVRt2qUGXt"
     },
     {
       "added_at": null,
@@ -492,9 +492,9 @@
           "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
         }
       ],
-      "duration_ms": 151472,
-      "name": "Dry Deserts",
-      "url": "https://open.spotify.com/track/4TiwLUPOvPHrrVRt2qUGXt"
+      "duration_ms": 231241,
+      "name": "Slicked Back",
+      "url": "https://open.spotify.com/track/41v5ExDEEEvJsWAPo91aoj"
     },
     {
       "added_at": null,

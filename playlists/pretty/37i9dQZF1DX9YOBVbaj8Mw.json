@@ -1,6 +1,6 @@
 {
   "description": "Pos\u0142uchaj zwyci\u0119zc\u00f3w i nominowanych do nagr\u00f3d Fryderyk w kategorii muzyka rozrywkowa i jazz.",
-  "num_followers": 19306,
+  "num_followers": 19307,
   "original_name": "Fryderyk 2025",
   "owner": {
     "name": "Spotify",
@@ -659,22 +659,6 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
-        "name": "Czekam na \u015bwit",
-        "url": "https://open.spotify.com/album/2H3xnoal5SM4eEUeluu47n"
-      },
-      "artists": [
-        {
-          "name": "Wiktor Walig\u00f3ra",
-          "url": "https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL"
-        }
-      ],
-      "duration_ms": 196103,
-      "name": "Zagrajmy",
-      "url": "https://open.spotify.com/track/4p9Z6HmEeO3ucTOmgpbgf9"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
         "name": "REM",
         "url": "https://open.spotify.com/album/60pr4OenpcPMFiEkKObw6g"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 202037,
       "name": "Sama na planecie",
       "url": "https://open.spotify.com/track/7vkqcXmr6nI81lTf6I4rUg"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
+        "name": "Czekam na \u015bwit",
+        "url": "https://open.spotify.com/album/2H3xnoal5SM4eEUeluu47n"
+      },
+      "artists": [
+        {
+          "name": "Wiktor Walig\u00f3ra",
+          "url": "https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL"
+        }
+      ],
+      "duration_ms": 196103,
+      "name": "Zagrajmy",
+      "url": "https://open.spotify.com/track/4p9Z6HmEeO3ucTOmgpbgf9"
     },
     {
       "added_at": "2025-04-06 08:27:45",
@@ -743,22 +743,6 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
-        "name": "WIECZORAMI CH\u0141OPCY WYCHODZ\u0104 NA ULICE",
-        "url": "https://open.spotify.com/album/4OErdxqjwIww9QbHzguIz4"
-      },
-      "artists": [
-        {
-          "name": "Myslovitz",
-          "url": "https://open.spotify.com/artist/3sntDD4Y2K97qvDq3GPqZ5"
-        }
-      ],
-      "duration_ms": 321506,
-      "name": "Ch\u0142opcy",
-      "url": "https://open.spotify.com/track/05crgQcMRFJtiDMkA1PIIl"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
         "name": "REM",
         "url": "https://open.spotify.com/album/60pr4OenpcPMFiEkKObw6g"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 197942,
       "name": "P\u00f3\u0142noc",
       "url": "https://open.spotify.com/track/50wRVL5qab62jxUXkc5YQs"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
+        "name": "WIECZORAMI CH\u0141OPCY WYCHODZ\u0104 NA ULICE",
+        "url": "https://open.spotify.com/album/4OErdxqjwIww9QbHzguIz4"
+      },
+      "artists": [
+        {
+          "name": "Myslovitz",
+          "url": "https://open.spotify.com/artist/3sntDD4Y2K97qvDq3GPqZ5"
+        }
+      ],
+      "duration_ms": 321506,
+      "name": "Ch\u0142opcy",
+      "url": "https://open.spotify.com/track/05crgQcMRFJtiDMkA1PIIl"
     },
     {
       "added_at": "2025-04-06 08:27:45",
@@ -1187,26 +1187,6 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
-        "name": "Universum",
-        "url": "https://open.spotify.com/album/17Qo6bWw8mWnnkcS5WacFu"
-      },
-      "artists": [
-        {
-          "name": "Dawid Lubowicz",
-          "url": "https://open.spotify.com/artist/2y6ItJI6R8TZ7DrDgotnpX"
-        },
-        {
-          "name": "Atom String Quartet",
-          "url": "https://open.spotify.com/artist/6el2MR6AwBlxpCZaqu0OY2"
-        }
-      ],
-      "duration_ms": 332013,
-      "name": "String Quartet No. 1 \"Atomizations\": I. Interference",
-      "url": "https://open.spotify.com/track/2auYHPWeVSB8tWYJJwh5EI"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
         "name": "Wsp\u00f3\u0142g\u0142osy",
         "url": "https://open.spotify.com/album/4SaFER9pNaleX46ZukkmgA"
       },
@@ -1223,6 +1203,26 @@
       "duration_ms": 91803,
       "name": "Gospel Song",
       "url": "https://open.spotify.com/track/5qUpX6it0ihllRAKuRV5CD"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
+        "name": "Universum",
+        "url": "https://open.spotify.com/album/17Qo6bWw8mWnnkcS5WacFu"
+      },
+      "artists": [
+        {
+          "name": "Dawid Lubowicz",
+          "url": "https://open.spotify.com/artist/2y6ItJI6R8TZ7DrDgotnpX"
+        },
+        {
+          "name": "Atom String Quartet",
+          "url": "https://open.spotify.com/artist/6el2MR6AwBlxpCZaqu0OY2"
+        }
+      ],
+      "duration_ms": 332013,
+      "name": "String Quartet No. 1 \"Atomizations\": I. Interference",
+      "url": "https://open.spotify.com/track/2auYHPWeVSB8tWYJJwh5EI"
     },
     {
       "added_at": "2025-04-06 08:27:45",

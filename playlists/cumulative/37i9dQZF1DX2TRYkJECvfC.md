@@ -4,7 +4,7 @@
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-687 songs - 2 day 8 hr 12 min
+688 songs - 2 day 8 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Amman \- Nils Hoffmann Remix](https://open.spotify.com/track/01pdcdTTNU68wz3nelUulJ) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6), [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb) | [Amman \(Nils Hoffmann Remix\)](https://open.spotify.com/album/594usaC9V9jwQwBU9ncqXa) | 4:14 | 2023-03-03 | 2025-10-03 |
 | [And Then You Came](https://open.spotify.com/track/3jOZEvgu6UoEp77kzJjfHS) | [FERR](https://open.spotify.com/artist/2wJ0jGmAcvU2tYsIvGXg4P), [Ferry Corsten](https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP), [Maria Marcus](https://open.spotify.com/artist/3TFBKKjm1zzgBCOQi2SEGY) | [As Above So Below \(Deluxe Version\)](https://open.spotify.com/album/77Z0RXxgT4Qu5anSsMNmXn) | 4:47 | 2021-12-08 | 2024-07-13 |
 | [Ano](https://open.spotify.com/track/7GEuIUb8ffHIsZ05O5Zdcl) | [MOLØ](https://open.spotify.com/artist/29k6IUtkDp9ErAaJrh1Tlg) | [Ano EP](https://open.spotify.com/album/3X7duLBTg1yRaYk5rEMlvJ) | 6:59 | 2024-04-12 | 2025-09-06 |
-| [Another New Day \- Kid Fonque Refix](https://open.spotify.com/track/21imcRqjDk4hgbjmEJ1ESP) | [Jazzanova](https://open.spotify.com/artist/0nTErwSOllrcUWt3knOG2T), [Kid Fonque](https://open.spotify.com/artist/6hPLYDljt7lCTao1bx1Dcp) | [Another New Day \(Kid Fonque Refix\)](https://open.spotify.com/album/1dpozHC4wjKMkthcHwXP6q) | 8:59 | 2025-05-23 |  |
+| [Another New Day \- Kid Fonque Refix](https://open.spotify.com/track/21imcRqjDk4hgbjmEJ1ESP) | [Jazzanova](https://open.spotify.com/artist/0nTErwSOllrcUWt3knOG2T), [Kid Fonque](https://open.spotify.com/artist/6hPLYDljt7lCTao1bx1Dcp) | [Another New Day \(Kid Fonque Refix\)](https://open.spotify.com/album/1dpozHC4wjKMkthcHwXP6q) | 8:59 | 2025-05-23 | 2026-05-06 |
 | [Another Time](https://open.spotify.com/track/2W9zh4QNFmuOyKHbtYYNm0) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k), [Kwesi](https://open.spotify.com/artist/320LkiSxenwJtoxQ9SZ1eV) | [Another Time](https://open.spotify.com/album/6puL9vl482M9AKa3fm7v3B) | 4:15 | 2021-12-08 | 2024-08-03 |
 | [Another Time](https://open.spotify.com/track/67f7gMWZ2PJI7IsUBs3mNQ) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k), [Kwesi](https://open.spotify.com/artist/320LkiSxenwJtoxQ9SZ1eV) | [Another Time](https://open.spotify.com/album/4rqr9zrFHD4fd2Y1hv6RKK) | 4:15 | 2023-03-03 | 2024-04-19 |
 | [Anyone](https://open.spotify.com/track/0s1XsqBecwpSibK8RSueWM) | [LAR](https://open.spotify.com/artist/2w3NdJswSn39l3TU9vIRq0), [Taylr Renee](https://open.spotify.com/artist/27feHJH3VKyk8FgOndiWU8) | [Anyone](https://open.spotify.com/album/4YLt37YBJKmbL9udretXlK) | 4:27 | 2024-06-07 | 2026-02-07 |
@@ -84,6 +84,7 @@
 | [Boats](https://open.spotify.com/track/5NOroGtZSBsdCid7axlyXj) | [Xinobi](https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m) | [Boats](https://open.spotify.com/album/13zXBB7vZeWSmDvLOYjqQd) | 5:49 | 2021-12-08 | 2022-10-07 |
 | [Boats](https://open.spotify.com/track/69ZWVeHTMA8zwjOiCfpvOi) | [Xinobi](https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m) | [On the Quiet \(Expanded Edition\)](https://open.spotify.com/album/24qysXGTOB1x7iKbtgJouX) | 5:49 | 2022-05-03 | 2024-04-19 |
 | [Bomalume](https://open.spotify.com/track/6SJZfclzkdmDt8ctjDDLbk) | [China Charmeleon](https://open.spotify.com/artist/78lHMaJ6xLbmwzkHOriPhZ) | [Colours](https://open.spotify.com/album/6ybpXrWIJLmzG65aaonTxL) | 6:40 | 2021-12-08 | 2023-07-08 |
+| [Bosky](https://open.spotify.com/track/2O7WjhPo6pV9zWfHLRtBw0) | [Mossera](https://open.spotify.com/artist/6j0nPBfjnh8yjNNQPJOmXG) | [Bosky](https://open.spotify.com/album/4BETqinA7K3vShwtubiFSF) | 4:50 | 2026-05-01 |  |
 | [Bouquet](https://open.spotify.com/track/1WVVHCbf9vWmb0dLI5ZGhB) | [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp) | [Bouquet](https://open.spotify.com/album/5iAyiisTfsZ1GeUEIoJ0N0) | 4:08 | 2021-12-08 | 2024-07-13 |
 | [Brave](https://open.spotify.com/track/2HI595p5wIHXoVgo4lOZ3f) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Brave](https://open.spotify.com/album/4KRRm0aGMm3lTCtMhoDPmk) | 3:50 | 2023-06-09 |  |
 | [Break Silent](https://open.spotify.com/track/6G9tVTEeSxmJZ80us9Lx3f) | [David Hasert](https://open.spotify.com/artist/5k3tGz3uryhQGnQryA2b6d), [Minoas Cirillo](https://open.spotify.com/artist/4IpuSb0XIF8XEhLfJwurs6) | [Break Silent](https://open.spotify.com/album/5iXJeKdUJZwPFyJ1LfmYyf) | 4:39 | 2022-10-28 | 2025-08-30 |

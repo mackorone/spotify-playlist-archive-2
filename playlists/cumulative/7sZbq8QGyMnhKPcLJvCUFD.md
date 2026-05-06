@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-851 songs - 1 day 18 hr 13 min
+852 songs - 1 day 18 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Alright](https://open.spotify.com/track/2pgcIWzePTTC2a99dRrTzd) | [Avi Snow](https://open.spotify.com/artist/5pW2lVGlbVSVWi9086Xjfu), [Sync](https://open.spotify.com/artist/6h2Ljt4yaJzSN5IGJusE13), [Marky Style](https://open.spotify.com/artist/30rdwRJSoSZicHb4xOCrme) | [Alright](https://open.spotify.com/album/0UQjd1grnKWmHS6OFY1Qqh) | 3:14 | 2024-01-09 | 2024-12-09 |
 | [Alright \- Yvvan Back Remix](https://open.spotify.com/track/4Woo81y2nAfzg4nYMsOxdI) | [Avi Snow](https://open.spotify.com/artist/5pW2lVGlbVSVWi9086Xjfu), [Sync](https://open.spotify.com/artist/6h2Ljt4yaJzSN5IGJusE13), [Yvvan Back](https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3), [Marky Style](https://open.spotify.com/artist/30rdwRJSoSZicHb4xOCrme) | [Alright \(Yvvan Back Remix\)](https://open.spotify.com/album/4UsM0dQmN9McwIto28UhgN) | 2:47 | 2024-10-17 |  |
 | [Always Be](https://open.spotify.com/track/0aohefgYGm6l5IZACPK8yu) | [Netrum](https://open.spotify.com/artist/4X76fYx1a6EmEvCqDudesG) | [Always Be](https://open.spotify.com/album/2VVvZpeYiH3cu7tVNyIOjq) | 2:50 | 2024-08-13 |  |
+| [Anesthesia](https://open.spotify.com/track/1cewsBM8XcwWrTWbzfGUlH) | [Oxlo](https://open.spotify.com/artist/7HwebOTQA4h0tCSTQCNKTK) | [Anesthesia](https://open.spotify.com/album/1Smq4kS6r9vZRAvD9u5dxp) | 1:26 | 2026-05-05 |  |
 | [Annabelle's Tea Party](https://open.spotify.com/track/6nPkoJ32PlIiCmmhnxxZKj) | [NIVIRO](https://open.spotify.com/artist/2nsCjA4fEasmnlOK0wXU7T) | [Annabelle's Tea Party](https://open.spotify.com/album/0G2m4IHWmXSqKQFSPnQN24) | 3:08 | 2022-10-28 | 2023-04-28 |
 | [Another Life](https://open.spotify.com/track/6MsnJjoC2pEFcHOstWBzlQ) | [Karyuu](https://open.spotify.com/artist/3uqDkh9EZU2GDSjvzdP0Yk), [jaylenn](https://open.spotify.com/artist/5hUkcECT7APNs5c0qVQkcx) | [Another Life](https://open.spotify.com/album/7bdARQWhxFMtiSxinwPUD5) | 4:00 | 2025-08-26 |  |
 | [Another Way](https://open.spotify.com/track/5ZcFqKhIGOfyx0VNsr5JXr) | [Vikkstar](https://open.spotify.com/artist/3wE6Lb4RCyPMoXsnXV0ZPC), [Syn Cole](https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH), [KDH](https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx), [Joe Jury](https://open.spotify.com/artist/6CfdbVxJuo31StQ21ffOer) | [Another Way](https://open.spotify.com/album/5WZ9xj15bKwHuVb9WXiPBv) | 2:41 | 2025-02-21 |  |

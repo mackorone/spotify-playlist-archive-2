@@ -340,7 +340,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 209011,
       "name": "39",
       "url": "https://open.spotify.com/track/4AKHM5Kj7N9OyJjCHVL7fA"
@@ -668,6 +668,24 @@
       "duration_ms": 281826,
       "name": "Akimeki",
       "url": "https://open.spotify.com/track/0hbAvN27256Zd2wecZZba9"
+    },
+    {
+      "album": {
+        "name": "Alien Love",
+        "url": "https://open.spotify.com/album/4We6y661tiJBBa82U6AE6e"
+      },
+      "artists": [
+        {
+          "name": "Kawabe Moto",
+          "url": "https://open.spotify.com/artist/0BcWtTLPn8svqCdk4FnetR"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346557,
+      "name": "Alien Love",
+      "url": "https://open.spotify.com/track/0wOW4nIzqpAnZqyq9ROL9k"
     },
     {
       "album": {
@@ -2699,6 +2717,24 @@
     },
     {
       "album": {
+        "name": "Dreamers",
+        "url": "https://open.spotify.com/album/5UCZC1Rm7amPipQREylCXK"
+      },
+      "artists": [
+        {
+          "name": "HIRAIDAI",
+          "url": "https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195230,
+      "name": "Dreamers",
+      "url": "https://open.spotify.com/track/0TbCl2LrSNOmQFpFaAgGaV"
+    },
+    {
+      "album": {
         "name": "To walk",
         "url": "https://open.spotify.com/album/79ZkE8Q8mcR6pXldCGA1Ms"
       },
@@ -4504,7 +4540,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 233266,
       "name": "hold on",
       "url": "https://open.spotify.com/track/3lFeBQyafTkN70nIv5KAaM"
@@ -5950,7 +5986,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 260250,
       "name": "Last song - feat.Young Kee",
       "url": "https://open.spotify.com/track/5JwtniwTAHi1bf9VMvL5ZM"
@@ -6494,7 +6530,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 214119,
       "name": "Lull you",
       "url": "https://open.spotify.com/track/3rHvnoOs7UQQKXYNYeKKqi"
@@ -7595,6 +7631,24 @@
     },
     {
       "album": {
+        "name": "OK! GO!",
+        "url": "https://open.spotify.com/album/1cXPneXLMQLpz1ScS3VQmY"
+      },
+      "artists": [
+        {
+          "name": "ayaka",
+          "url": "https://open.spotify.com/artist/22FsmLO3ZyvgWBy5QbfcQi"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215958,
+      "name": "OK! GO!",
+      "url": "https://open.spotify.com/track/61OAIwTrH9C5oITjPOkrCD"
+    },
+    {
+      "album": {
         "name": "OMELAS",
         "url": "https://open.spotify.com/album/173iXhk4mfS38LkmGYCUVv"
       },
@@ -7606,7 +7660,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 214000,
       "name": "OMELAS",
       "url": "https://open.spotify.com/track/2ZM9dVFO3XTHMrMQFernOg"
@@ -10739,6 +10793,28 @@
     },
     {
       "album": {
+        "name": "UMIO AND RURIA feat. Haruomi Hosono",
+        "url": "https://open.spotify.com/album/6LGcMW5XYPa6xEy2y1STup"
+      },
+      "artists": [
+        {
+          "name": "Akiko Yano",
+          "url": "https://open.spotify.com/artist/4edePQHgbrc5h00ChgnQns"
+        },
+        {
+          "name": "Haruomi Hosono",
+          "url": "https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156973,
+      "name": "UMIO AND RURIA feat. Haruomi Hosono",
+      "url": "https://open.spotify.com/track/23xHvtqEIsiTbXsjOK6bGI"
+    },
+    {
+      "album": {
         "name": "Underneath the Lights",
         "url": "https://open.spotify.com/album/1Ooh0rrEUtMuFq0bNTpJf5"
       },
@@ -11746,7 +11822,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 204106,
       "name": "yurete (feat. Friends)",
       "url": "https://open.spotify.com/track/3jRPR8OQpWlwJtnz0kAx4L"
@@ -12344,6 +12420,24 @@
       "duration_ms": 280673,
       "name": "\u304a\u307c\u308d\u3052",
       "url": "https://open.spotify.com/track/4ApkPCqOx1qQBp4l3p1c1p"
+    },
+    {
+      "album": {
+        "name": "\u6b7b\u3093\u3067\u3082\u4e00\u751f",
+        "url": "https://open.spotify.com/album/0h1iYevrGU4NXbRtYT7k5N"
+      },
+      "artists": [
+        {
+          "name": "\u91ce\u53e3\u6587",
+          "url": "https://open.spotify.com/artist/2trWL7YWxfnXWQPoQXZLha"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317986,
+      "name": "\u304a\u3093\u3076\u306b\u75b2\u308c\u3066",
+      "url": "https://open.spotify.com/track/0baWFXPgNavrj5zoLAJOKx"
     },
     {
       "album": {
@@ -16559,6 +16653,24 @@
     },
     {
       "album": {
+        "name": "\u30d1\u30c3\u30d1\u30d1\u30e9\u30c0\u30a4\u30b9",
+        "url": "https://open.spotify.com/album/17T7zbi0mnfD5MPaz67nvQ"
+      },
+      "artists": [
+        {
+          "name": "Hikaru Utada",
+          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230900,
+      "name": "\u30d1\u30c3\u30d1\u30d1\u30e9\u30c0\u30a4\u30b9",
+      "url": "https://open.spotify.com/track/5uxuw38KCxQg5OmJvoVImg"
+    },
+    {
+      "album": {
         "name": "\u30d1\u30e9\u30bd\u30e0\u30cb\u30a2",
         "url": "https://open.spotify.com/album/2psksUsB4o9xBS9mArvYD0"
       },
@@ -17918,6 +18030,24 @@
       "duration_ms": 184760,
       "name": "\u4e00\u4eba\u307c\u3063\u3061\u3058\u3083\u306a\u3044\u308f\u305f\u3057\u306e\u6b4c\u300c\u72ec\u6f14\u300d",
       "url": "https://open.spotify.com/track/3aZ8AZcnoxAOrFpKVHjFPH"
+    },
+    {
+      "album": {
+        "name": "\u4e00\u4eba\u7fbd\u7e54",
+        "url": "https://open.spotify.com/album/61UMHKATVO3F67a9HmGBsz"
+      },
+      "artists": [
+        {
+          "name": "\u548c\u306c\u304b",
+          "url": "https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187826,
+      "name": "\u4e00\u4eba\u7fbd\u7e54",
+      "url": "https://open.spotify.com/track/0uqzY2IuR4uOP6AYXJVwSz"
     },
     {
       "album": {
@@ -20714,7 +20844,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 234840,
       "name": "\u60aa\u9b54",
       "url": "https://open.spotify.com/track/5yACHWDsUsC5n1QJuVTqMp"
@@ -21240,6 +21370,24 @@
       "duration_ms": 260065,
       "name": "\u660e\u65e5",
       "url": "https://open.spotify.com/track/56TI2KaCQO7sXlLsZbLpDN"
+    },
+    {
+      "album": {
+        "name": "\u661f\u5c51\u306e\u4e2d\u306b",
+        "url": "https://open.spotify.com/album/1boi9Iwv78rjbd81MeWZXe"
+      },
+      "artists": [
+        {
+          "name": "\u4e2d\u5cf6 \u5bc2",
+          "url": "https://open.spotify.com/artist/3XJ7WCAaSoiqWePVw9qZdL"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214600,
+      "name": "\u661f\u5c51\u306e\u4e2d\u306b",
+      "url": "https://open.spotify.com/track/5Fep6keXUvIdtdrPpPO737"
     },
     {
       "album": {
@@ -23610,7 +23758,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 202659,
       "name": "\u82b1\u675f",
       "url": "https://open.spotify.com/track/6fdfN996bpKMVIM3H6JozT"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Solo musica indipendente \ud83c\uddee\ud83c\uddf9, aggiornata il mercoled\u00ec. <a href=\"spotify:artist:20LOUqAbkWCYwND5CarWCR\">marzo</a> in cover. ",
+  "description": "Solo musica indipendente \ud83c\uddee\ud83c\uddf9, aggiornata il mercoled\u00ec. <a href=\"spotify:artist:7xMg8PQdfAjo77YAv5j886\">c\u00f3lgate</a> in cover. ",
   "name": "Fresh Finds Italia",
   "tracks": [
     {
@@ -12285,6 +12285,24 @@
     },
     {
       "album": {
+        "name": "Fantasmi",
+        "url": "https://open.spotify.com/album/2v9CVGP8tQkU3WbIfbQ3sY"
+      },
+      "artists": [
+        {
+          "name": "reemo",
+          "url": "https://open.spotify.com/artist/6xK3oqbRDvwUNAnwOjBO1p"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232125,
+      "name": "Fantasmi",
+      "url": "https://open.spotify.com/track/15yUuYLDAIUbaGsXoXHzAx"
+    },
+    {
+      "album": {
         "name": "Fantasy",
         "url": "https://open.spotify.com/album/1G9WIUURtWtUwEdjLooHgo"
       },
@@ -13608,7 +13626,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 141000,
       "name": "FRASI DI CARTA",
       "url": "https://open.spotify.com/track/4vtnTEd2tX1zFZrGuQVtYn"
@@ -16712,7 +16730,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 216764,
       "name": "IMMORTALE",
       "url": "https://open.spotify.com/track/4CQIxkIT42SbEwcCEoGhDx"
@@ -28390,6 +28408,24 @@
       "duration_ms": 211764,
       "name": "Philosophia/Save Me",
       "url": "https://open.spotify.com/track/5f7WVcejmkNNOA6BjSVP2b"
+    },
+    {
+      "album": {
+        "name": "Piangere",
+        "url": "https://open.spotify.com/album/7i6P99dIx7CnN1f4pd5d3t"
+      },
+      "artists": [
+        {
+          "name": "Primo Amore",
+          "url": "https://open.spotify.com/artist/6vqyGm4tSHrerJwKwQm7jo"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Piangere",
+      "url": "https://open.spotify.com/track/2ka2vN1xn4lnJx4JhKawBx"
     },
     {
       "album": {

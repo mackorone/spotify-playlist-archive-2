@@ -6978,7 +6978,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 223344,
       "name": "Reach Out",
       "url": "https://open.spotify.com/track/5hVKXeJg1R9qGbrGW5eHNl"
@@ -9080,6 +9080,24 @@
       "duration_ms": 272813,
       "name": "Twentytwo",
       "url": "https://open.spotify.com/track/7MrPr8g39uJnXyS405HJci"
+    },
+    {
+      "album": {
+        "name": "Under Your Thumb",
+        "url": "https://open.spotify.com/album/3xtgHmCzguIgspPFdgjksX"
+      },
+      "artists": [
+        {
+          "name": "Chelou",
+          "url": "https://open.spotify.com/artist/2RwfRD2vlkdztGtVXENShq"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157487,
+      "name": "Under Your Thumb",
+      "url": "https://open.spotify.com/track/2WOFdEkktnjP0ukScdFJx2"
     },
     {
       "album": {

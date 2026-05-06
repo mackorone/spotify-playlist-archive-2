@@ -4,7 +4,7 @@
 
 > Listen to the best Rock musics🔥.
 
-514 songs - 1 day 7 hr 8 min
+515 songs - 1 day 7 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [Ember](https://open.spotify.com/track/49enRTqW6V8PS2S7mJZImz) | [McGu](https://open.spotify.com/artist/2rQrwRN7RuFVnERk2svYal) | [Ember](https://open.spotify.com/album/33ENWVGJSRfT18CQvxluRU) | 2:44 | 2025-04-06 |  |
 | [empty missing poster](https://open.spotify.com/track/0xQr2G72r5NNUrYiyAqkLQ) | [Anti Chirality](https://open.spotify.com/artist/5hVzOQmav7dCuujAflZtps) | [empty missing poster](https://open.spotify.com/album/2XrkgUgFC8PENOL7gj8ahz) | 4:33 | 2025-04-06 |  |
 | [Energy Vampire](https://open.spotify.com/track/3IxGrQgeQxtyfC0aHB85xp) | [Big Band of Boom](https://open.spotify.com/artist/7o6iEBryMY6xMmVwBCGNFA) | [Energy Vampire](https://open.spotify.com/album/6jLjIHc0C9bcKPqSiLpR0V) | 2:44 | 2025-07-19 |  |
+| [Entre Dois Andares](https://open.spotify.com/track/0scmdc0oEyDjMPgVERTrHj) | [Andre Thanatos](https://open.spotify.com/artist/2WYOgSQsYe0F3Xr8JzDRyC) | [Entre Dois Andares](https://open.spotify.com/album/4m69QWihV60vQiFBuvMwFW) | 3:59 | 2026-05-05 |  |
 | [Es Posible](https://open.spotify.com/track/1zDrAIYYbIq58cCfxaTata) | [Miscellaneous](https://open.spotify.com/artist/4lVq1XJ7brnkOBuzOzznHi) | [Miscellaneous](https://open.spotify.com/album/3suDk3EaTehsxRL6yoEx5s) | 3:44 | 2025-08-01 |  |
 | [Esclavo Del Control](https://open.spotify.com/track/1yVCJb6k6SFJlnwh8RWki9) | [Piedrasónica](https://open.spotify.com/artist/5dcDOcXS4smJnZlTSc4QzV) | [Escala de Grises](https://open.spotify.com/album/7GdJy50eL9zmqR2CPGIIyN) | 3:23 | 2025-04-06 |  |
 | [Everything](https://open.spotify.com/track/01ew0xTpkzPfsCG08cP19c) | [Michael Slumber](https://open.spotify.com/artist/6toZTk0pBGiv8asYsWVDcC) | [Nightmare Coloured Clouds](https://open.spotify.com/album/71Skh64cTxR9FI9iisZqYN) | 4:13 | 2025-05-30 |  |

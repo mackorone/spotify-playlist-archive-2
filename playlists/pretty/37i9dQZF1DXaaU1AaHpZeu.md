@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie en español con Las Añez en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,271 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 280,247 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 18 | [Desechable](https://open.spotify.com/track/7pToaPJ5he73l58FBJSijE) | [Licenciado Cariño](https://open.spotify.com/artist/2uEHk08DPegu9Q5e0OoG1m), [Diana Meril](https://open.spotify.com/artist/2VzNlNyc9lEAKr7wjKnTlo) | [Desechable](https://open.spotify.com/album/1zEuDfSyQRxSW7feFgGWAW) | 2:34 |
 | 19 | [Cheetah](https://open.spotify.com/track/4IXTSCVN2FgVCukmocfVka) | [Cosmic Wacho](https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa) | [Cheetah](https://open.spotify.com/album/77enJL7zWzXzvK4iRpJOSG) | 4:31 |
 | 20 | [Lloverá](https://open.spotify.com/track/01Dmgc45CXpOyPLzyx4xW1) | [Azul de Viena](https://open.spotify.com/artist/2Ie8P8WAdI3FMvEuWS52pQ) | [Lloverá](https://open.spotify.com/album/4uM8rHWXNJ3g4cM8euvCdF) | 3:03 |
-| 21 | [panty\_megamix\_\(Freedownload\)\_mp3\_exe](https://open.spotify.com/track/3Kx9dfUHGkfrRn7RqzjY4z) | [RIVVAA](https://open.spotify.com/artist/1EJ9teYCbzR1V2uGOaqzK5), [Lucca](https://open.spotify.com/artist/3Sw5QsqUV0ADRkBYpLcxAs), [DJ king mermaid queen slayer](https://open.spotify.com/artist/343iAOFTOmYhDETb5lpLkf) | [panty\_megamix\_\(Freedownload\)\_mp3\_exe](https://open.spotify.com/album/1rmrtNEpeu9o0ak74KLhF5) | 2:51 |
+| 21 | [panty\_megamix\_\(Freedownload\)\_mp3\_exe](https://open.spotify.com/track/3Kx9dfUHGkfrRn7RqzjY4z) | [RIVVAA](https://open.spotify.com/artist/1EJ9teYCbzR1V2uGOaqzK5), [Lucca](https://open.spotify.com/artist/3Sw5QsqUV0ADRkBYpLcxAs), [DJ king mermaid queen slayer](https://open.spotify.com/artist/5BNVpltb6N9SBDOqCa3gQu) | [panty\_megamix\_\(Freedownload\)\_mp3\_exe](https://open.spotify.com/album/1rmrtNEpeu9o0ak74KLhF5) | 2:51 |
 | 22 | [Llena de Amor](https://open.spotify.com/track/1tkWlwMi9Qm7xXRZHelofX) | [Catalina Ammaturo](https://open.spotify.com/artist/2qDGiovKpP5yS5jD2WfH7a) | [Llena de Amor](https://open.spotify.com/album/34D62mE18sh7n2X0Q4HQdN) | 2:30 |
 | 23 | [Cat Fun](https://open.spotify.com/track/3w4nZeRSVFl1a0zAPGfoRA) | [Hnos Munoz](https://open.spotify.com/artist/4ePbu0sj0JjaPgGkoRDDdU) | [Cat Fun](https://open.spotify.com/album/4ZDmo9qQxFWdJYr5VExeZm) | 3:28 |
 | 24 | [esa no soy yo :\(](https://open.spotify.com/track/1MdaSTEeYSmpXNcz9YROyM) | [Ana Farelo](https://open.spotify.com/artist/6Z2XTS8Tp7ED98GdCtP5Tm) | [esa no soy yo :\(](https://open.spotify.com/album/33YoBS5ZqCBfGjLsq8NNJZ) | 2:54 |

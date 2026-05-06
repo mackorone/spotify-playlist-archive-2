@@ -2711,6 +2711,24 @@
     },
     {
       "album": {
+        "name": "For So Long",
+        "url": "https://open.spotify.com/album/1HV2Wz9Ntwy0DXopB9gnnm"
+      },
+      "artists": [
+        {
+          "name": "K W Hoffman",
+          "url": "https://open.spotify.com/artist/11NQwwc952s3dgAPbR5VPD"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166699,
+      "name": "For So Long",
+      "url": "https://open.spotify.com/track/2cQ5CeTRxGA2prgkS9mN3C"
+    },
+    {
+      "album": {
         "name": "Forgive",
         "url": "https://open.spotify.com/album/0zGmjvzjzdqKpdVa5iHVBB"
       },
@@ -2954,6 +2972,24 @@
       "duration_ms": 173359,
       "name": "Goblin Knight",
       "url": "https://open.spotify.com/track/2ubz5puXCEXgeyk0xIj4lC"
+    },
+    {
+      "album": {
+        "name": "Gods of Karma",
+        "url": "https://open.spotify.com/album/5UF7fKwX15lsBuzRF1h4hb"
+      },
+      "artists": [
+        {
+          "name": "Nathan J Lark",
+          "url": "https://open.spotify.com/artist/5gTZaw7bOLKdFyGQsjHMcG"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329875,
+      "name": "Gods of Karma",
+      "url": "https://open.spotify.com/track/6xYVg6FqtKUuRO7BFUfmUQ"
     },
     {
       "album": {
@@ -4335,6 +4371,24 @@
     },
     {
       "album": {
+        "name": "Lo Que Pudo Ser",
+        "url": "https://open.spotify.com/album/7JlXBgjl3Jrz2T6D8oevHP"
+      },
+      "artists": [
+        {
+          "name": "Puerto Mariel",
+          "url": "https://open.spotify.com/artist/4RYkqvK3dICXDfPhGaQa1C"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230085,
+      "name": "Lo Que Pudo Ser",
+      "url": "https://open.spotify.com/track/0IwYsw7OECCgoHTbZWKmXU"
+    },
+    {
+      "album": {
         "name": "Love Bomb Me",
         "url": "https://open.spotify.com/album/0Ht9x8uHVCDnGVG8yYiT1a"
       },
@@ -4476,6 +4530,28 @@
       "duration_ms": 195946,
       "name": "Lucha",
       "url": "https://open.spotify.com/track/3uukDbfr18JxhaGbqijTWT"
+    },
+    {
+      "album": {
+        "name": "Lullaby",
+        "url": "https://open.spotify.com/album/01nMm9B1zVmQlGW1EmAlIb"
+      },
+      "artists": [
+        {
+          "name": "Svetlana Bakushina",
+          "url": "https://open.spotify.com/artist/1fGAIRdys4yhkkIJqz2bXL"
+        },
+        {
+          "name": "Carlos Rufo Martins",
+          "url": "https://open.spotify.com/artist/0WDrIGBxrkxVF632AoVCdJ"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217642,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/6Y6rNeW1Efcl7Jq0MT9TOV"
     },
     {
       "album": {

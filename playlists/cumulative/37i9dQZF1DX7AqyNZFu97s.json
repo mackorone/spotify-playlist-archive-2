@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music from independent artists in the UK and Ireland. Cover: Storm Mollison",
+  "description": "The best new music from independent artists in the UK and Ireland. Cover: PENNY",
   "name": "Fresh Finds UK & IE",
   "tracks": [
     {
@@ -976,6 +976,24 @@
       "duration_ms": 292075,
       "name": "444",
       "url": "https://open.spotify.com/track/41P6ZlkVnDZF2m9T5A6fJj"
+    },
+    {
+      "album": {
+        "name": "Childhood",
+        "url": "https://open.spotify.com/album/72YRWuIhjRNUOtXD7eAzGj"
+      },
+      "artists": [
+        {
+          "name": "ashnymph",
+          "url": "https://open.spotify.com/artist/1zVKP29Wt1d7hF2yRpZV5o"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231814,
+      "name": "47",
+      "url": "https://open.spotify.com/track/3FAfq6Yqy5b04vRo19PIke"
     },
     {
       "album": {
@@ -10954,7 +10972,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 222000,
       "name": "Coasting",
       "url": "https://open.spotify.com/track/1ztynIETfhukvEjGei77ve"
@@ -11896,7 +11914,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 164571,
       "name": "CONCRETE JUNGLE",
       "url": "https://open.spotify.com/track/02ABmi14zDAyWrgmZzTJg2"
@@ -13937,6 +13955,24 @@
     },
     {
       "album": {
+        "name": "decay",
+        "url": "https://open.spotify.com/album/65rmg9jwtffDXFbNSZ58HA"
+      },
+      "artists": [
+        {
+          "name": "amil raja",
+          "url": "https://open.spotify.com/artist/4emKkyOHSx3lMdmNNBZiUt"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148500,
+      "name": "decay",
+      "url": "https://open.spotify.com/track/4GYZEN4NiA8IUdken1XdR7"
+    },
+    {
+      "album": {
         "name": "Deceiver",
         "url": "https://open.spotify.com/album/3BggejLVlfeTno0cG1FZ2K"
       },
@@ -14750,6 +14786,24 @@
       "duration_ms": 158189,
       "name": "Diosa",
       "url": "https://open.spotify.com/track/1X5QbsyOyWjKrTzW2vhxXv"
+    },
+    {
+      "album": {
+        "name": "Dirty",
+        "url": "https://open.spotify.com/album/6aYLLOe1FGm9EYFhCSMunz"
+      },
+      "artists": [
+        {
+          "name": "PENNY",
+          "url": "https://open.spotify.com/artist/3nkkY2mnJp6qI8xr0Z1Yxq"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180362,
+      "name": "Dirty",
+      "url": "https://open.spotify.com/track/6GsKMETdRKLz5bXJGUC613"
     },
     {
       "album": {
@@ -27894,7 +27948,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 215666,
       "name": "i dream of you and i",
       "url": "https://open.spotify.com/track/5Ee67DVwPmJs6fzA0yc7P3"
@@ -29996,6 +30050,24 @@
       "duration_ms": 174500,
       "name": "Illusion",
       "url": "https://open.spotify.com/track/7JzF8e5ZPeRwmI5CyzX5Ek"
+    },
+    {
+      "album": {
+        "name": "Immortal",
+        "url": "https://open.spotify.com/album/5i1PXexy6LcmfAjCJENRFz"
+      },
+      "artists": [
+        {
+          "name": "Akeira Jade",
+          "url": "https://open.spotify.com/artist/1nA7MM0soxDlkwBAJrQVCF"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208460,
+      "name": "Immortal",
+      "url": "https://open.spotify.com/track/3obOb4X1t6jpG4EKHMQYFQ"
     },
     {
       "album": {
@@ -37668,7 +37740,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 140432,
       "name": "matcha bros",
       "url": "https://open.spotify.com/track/6j039F1GAbxnO4un1630wK"
@@ -42443,6 +42515,24 @@
     },
     {
       "album": {
+        "name": "Entertain Him",
+        "url": "https://open.spotify.com/album/7IRkb8R6tyBpkdr1NSkoWX"
+      },
+      "artists": [
+        {
+          "name": "Kan\u00e9",
+          "url": "https://open.spotify.com/artist/1cG38HpSvnldVHb8fUt3rj"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187239,
+      "name": "Novocaine",
+      "url": "https://open.spotify.com/track/36L3J6S4ioS6m5WXomaIcW"
+    },
+    {
+      "album": {
         "name": "Now I'm Alone",
         "url": "https://open.spotify.com/album/7rPlFVP0vuCQe5ZgpKfzSE"
       },
@@ -43876,7 +43966,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 181718,
       "name": "Onslaught",
       "url": "https://open.spotify.com/track/4Jjs0JrFCi469THGEOECZG"
@@ -53049,6 +53139,24 @@
     },
     {
       "album": {
+        "name": "SMOOTH",
+        "url": "https://open.spotify.com/album/2iaDVU4Xd8caSSlFJVgJbV"
+      },
+      "artists": [
+        {
+          "name": "Ben Gerrans",
+          "url": "https://open.spotify.com/artist/6RBIwzXCWcZJwfNTSHPZ5Z"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204285,
+      "name": "SMOOTH",
+      "url": "https://open.spotify.com/track/4OizxOdBbiKXPFAHTVb8vp"
+    },
+    {
+      "album": {
         "name": "SNAKES",
         "url": "https://open.spotify.com/album/2rJqYCcDxFn1xvHIlfuQAk"
       },
@@ -59090,7 +59198,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 168312,
       "name": "There's a Bridge",
       "url": "https://open.spotify.com/track/5oY98SqmKXxz1fE4cu1REt"

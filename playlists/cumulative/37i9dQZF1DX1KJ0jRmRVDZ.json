@@ -1892,7 +1892,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 151034,
       "name": "cappuccino",
       "url": "https://open.spotify.com/track/0fOrNEpaPcnJ9unDn4xZTf"
@@ -6088,6 +6088,24 @@
       "duration_ms": 207874,
       "name": "Link",
       "url": "https://open.spotify.com/track/7IgGcxTQE1OHbPpkzpWhTg"
+    },
+    {
+      "album": {
+        "name": "Little Bit",
+        "url": "https://open.spotify.com/album/7pOl0nLAzmej96wBJeXHTe"
+      },
+      "artists": [
+        {
+          "name": "\u660e\u900f",
+          "url": "https://open.spotify.com/artist/71e65rSv8Dh3bfWNPQ1V1Q"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Little Bit",
+      "url": "https://open.spotify.com/track/7eFzZPs8YeILF3IZ114Au0"
     },
     {
       "album": {
@@ -20057,6 +20075,24 @@
     },
     {
       "album": {
+        "name": "\u30d5\u30a7\u30a4\u30af\u30fb\u30d5\u30a3\u30af\u30b7\u30e7\u30f3",
+        "url": "https://open.spotify.com/album/3mz9VOaQRE8iZY974CAJaG"
+      },
+      "artists": [
+        {
+          "name": "YANK",
+          "url": "https://open.spotify.com/artist/2AF0go9ujPsUZCrVIqkrMq"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242752,
+      "name": "\u30d5\u30a7\u30a4\u30af\u30fb\u30d5\u30a3\u30af\u30b7\u30e7\u30f3",
+      "url": "https://open.spotify.com/track/4AwNJSgXtOPy9qhKulmPj2"
+    },
+    {
+      "album": {
         "name": "\u73fe\u5728\u5730\u672a\u660e",
         "url": "https://open.spotify.com/album/2D1TbXOxpQj4zm5VlDetnk"
       },
@@ -26600,7 +26636,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 267066,
       "name": "\u653e\u8ab2\u5f8c\u30dc\u30fc\u30c0\u30fc\u30e9\u30a4\u30f3",
       "url": "https://open.spotify.com/track/4IFflYu7VHz6xxVnyvOlb8"

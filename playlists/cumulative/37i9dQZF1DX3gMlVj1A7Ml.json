@@ -63,6 +63,24 @@
     },
     {
       "album": {
+        "name": "25",
+        "url": "https://open.spotify.com/album/6SRZqYjNmwFeV3Ps4seQEE"
+      },
+      "artists": [
+        {
+          "name": "Villia",
+          "url": "https://open.spotify.com/artist/4d9x0N7i1UeLaAknvbeOgS"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188354,
+      "name": "25",
+      "url": "https://open.spotify.com/track/70aJcEEgpNE1pULrY3gFEW"
+    },
+    {
+      "album": {
         "name": "99% ANGEL",
         "url": "https://open.spotify.com/album/2zWbHOqxYYHBZLcujr9fGY"
       },
@@ -563,6 +581,24 @@
     },
     {
       "album": {
+        "name": "Analog",
+        "url": "https://open.spotify.com/album/10LHZgdI5Dj1esKEkiiKOM"
+      },
+      "artists": [
+        {
+          "name": "Delia",
+          "url": "https://open.spotify.com/artist/6YomcUxZXNftP5OyuHoVmB"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162194,
+      "name": "Analog",
+      "url": "https://open.spotify.com/track/7uP2yYhEtz8FGi6iDgIMAd"
+    },
+    {
+      "album": {
         "name": "Anii mei",
         "url": "https://open.spotify.com/album/42ER6DwZiXzS6aalAoXxaR"
       },
@@ -730,7 +766,7 @@
       ],
       "date_added": "2026-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 140117,
       "name": "Armonie",
       "url": "https://open.spotify.com/track/7g3bmahJcowE9F5gKefLFz"
@@ -1578,10 +1614,28 @@
       ],
       "date_added": "2026-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 198500,
       "name": "Cine Are",
       "url": "https://open.spotify.com/track/7KJKB9QLrdomMvtQdsPN2C"
+    },
+    {
+      "album": {
+        "name": "Close to mine",
+        "url": "https://open.spotify.com/album/2Inbp7Pd8AIOoDVXzptYgh"
+      },
+      "artists": [
+        {
+          "name": "Ada Petcu",
+          "url": "https://open.spotify.com/artist/2xAiFXyl3ulbLocrLfz47X"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125625,
+      "name": "Close to mine",
+      "url": "https://open.spotify.com/track/6BKAhl0Bm5BS0w4WNR6aOJ"
     },
     {
       "album": {
@@ -1890,6 +1944,28 @@
       "duration_ms": 135967,
       "name": "C\u00e2nt\u0103 Dorul",
       "url": "https://open.spotify.com/track/5P1lYdEicgJho9ylII3VZZ"
+    },
+    {
+      "album": {
+        "name": "C\u00e2t s\u0103 te mai a\u0219tept",
+        "url": "https://open.spotify.com/album/6BPomOVyUqaopo1qQG1QMb"
+      },
+      "artists": [
+        {
+          "name": "Alessandra",
+          "url": "https://open.spotify.com/artist/70vx3HiFmZozTbVXsBoOiV"
+        },
+        {
+          "name": "VANILLA",
+          "url": "https://open.spotify.com/artist/1fofiypUoSWqYH2i4frmHn"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139591,
+      "name": "C\u00e2t s\u0103 te mai a\u0219tept",
+      "url": "https://open.spotify.com/track/2incNhwzfSRJ6Vf69PNiBp"
     },
     {
       "album": {
@@ -2830,7 +2906,7 @@
       ],
       "date_added": "2026-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 246117,
       "name": "Du-m\u0103 la munte",
       "url": "https://open.spotify.com/track/0rfW3FhbT6sBivfuCZvmMH"
@@ -2848,7 +2924,7 @@
       ],
       "date_added": "2026-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 168188,
       "name": "Du-Te Vino",
       "url": "https://open.spotify.com/track/7lwCB0zM1t5yLRSJDedtLA"
@@ -3390,7 +3466,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 155412,
       "name": "Fluturi",
       "url": "https://open.spotify.com/track/3SWHzg17hqXGkiOdox5jkS"
@@ -3412,7 +3488,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 160733,
       "name": "forEva",
       "url": "https://open.spotify.com/track/5dOCPmdvTvRBXzmWBxqi4U"
@@ -3506,7 +3582,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 143645,
       "name": "Gangster",
       "url": "https://open.spotify.com/track/3FbipUD4Al8hgIwrkZU2tC"
@@ -3814,6 +3890,24 @@
       "duration_ms": 146285,
       "name": "Hesband",
       "url": "https://open.spotify.com/track/13A6JtW02Z73BP61oSLBWe"
+    },
+    {
+      "album": {
+        "name": "Hey NaNaNa",
+        "url": "https://open.spotify.com/album/1mQRXUIOUx0LnApyBoAc3e"
+      },
+      "artists": [
+        {
+          "name": "Misha Miller",
+          "url": "https://open.spotify.com/artist/3RyCLaPoUBr14rFufZ7Gnp"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139872,
+      "name": "Hey NaNaNa",
+      "url": "https://open.spotify.com/track/5nRWAsfbpOX2xjgLYYBwQs"
     },
     {
       "album": {
@@ -4340,6 +4434,28 @@
       "duration_ms": 160000,
       "name": "Iubirea mea e cu tupeu",
       "url": "https://open.spotify.com/track/6GntlpK8FxVDVFIWDm1ii1"
+    },
+    {
+      "album": {
+        "name": "Iubirea na\u0219te mon\u0219tri",
+        "url": "https://open.spotify.com/album/1p3l13FGTGWMYsHXm7S7Q8"
+      },
+      "artists": [
+        {
+          "name": "Holy Molly",
+          "url": "https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK"
+        },
+        {
+          "name": "M.G.L.",
+          "url": "https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174078,
+      "name": "Iubirea na\u0219te mon\u0219tri",
+      "url": "https://open.spotify.com/track/68Llxh2OxOlnbQ4jnIwCYs"
     },
     {
       "album": {
@@ -5177,6 +5293,28 @@
     },
     {
       "album": {
+        "name": "Marile Lucruri Mici",
+        "url": "https://open.spotify.com/album/1S7cgoRgaQpcU72V3iYa1W"
+      },
+      "artists": [
+        {
+          "name": "MIRA",
+          "url": "https://open.spotify.com/artist/2nMFC7hWK0haX8ilvRpb59"
+        },
+        {
+          "name": "Sami G",
+          "url": "https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144642,
+      "name": "Marile Lucruri Mici",
+      "url": "https://open.spotify.com/track/65oJkLT7y2naYYZsJnpCCh"
+    },
+    {
+      "album": {
         "name": "Marturisire",
         "url": "https://open.spotify.com/album/5PYVKHiffBth89h2Jo26oY"
       },
@@ -5188,7 +5326,7 @@
       ],
       "date_added": "2026-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 281200,
       "name": "Marturisire",
       "url": "https://open.spotify.com/track/4esMSqoet8MaVNb0tRKpqf"
@@ -5758,6 +5896,28 @@
       "duration_ms": 175766,
       "name": "No Plan - Yo",
       "url": "https://open.spotify.com/track/426EQYakBJ0OxDqpODtBiB"
+    },
+    {
+      "album": {
+        "name": "No Sleep",
+        "url": "https://open.spotify.com/album/4PxjS1j0oU4kMgPTRTeSfy"
+      },
+      "artists": [
+        {
+          "name": "Alexandra Stan",
+          "url": "https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL"
+        },
+        {
+          "name": "FAULHABER",
+          "url": "https://open.spotify.com/artist/49T8i1paijMAK9rYtjO4lu"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145846,
+      "name": "No Sleep",
+      "url": "https://open.spotify.com/track/6HKNYBGRBvofWjSHmfkVvE"
     },
     {
       "album": {
@@ -6752,7 +6912,7 @@
       ],
       "date_added": "2026-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 163902,
       "name": "Poate",
       "url": "https://open.spotify.com/track/6kJA7pcwujyeYab8jb8t4r"
@@ -6861,6 +7021,28 @@
     },
     {
       "album": {
+        "name": "Problema e la tine",
+        "url": "https://open.spotify.com/album/5hApEbFXfKJLgG669eVqn3"
+      },
+      "artists": [
+        {
+          "name": "Maia M\u0103l\u0103ncu\u0219",
+          "url": "https://open.spotify.com/artist/1eWX16Gl2i63vOyqfvUIFw"
+        },
+        {
+          "name": "Gabi Bagu",
+          "url": "https://open.spotify.com/artist/23RBj7SEhcaxjkclwB4hCC"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159857,
+      "name": "Problema e la tine",
+      "url": "https://open.spotify.com/track/4EPYA0MM0SXkeLPFFVIpDG"
+    },
+    {
+      "album": {
         "name": "Promit",
         "url": "https://open.spotify.com/album/4VtqZXZ9G9nUEqss5iyXhF"
       },
@@ -6872,7 +7054,7 @@
       ],
       "date_added": "2026-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 182648,
       "name": "Promit",
       "url": "https://open.spotify.com/track/26Fq1aXqLwms2j59ENy5Hk"
@@ -6952,7 +7134,7 @@
       ],
       "date_added": "2026-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 148580,
       "name": "Pu\u021bin verde",
       "url": "https://open.spotify.com/track/7auWZyaRX0xDIivAtNBmLP"
@@ -7090,6 +7272,24 @@
       "duration_ms": 173872,
       "name": "Ratat",
       "url": "https://open.spotify.com/track/3FLkFHEz6dQZwW9L5Vasew"
+    },
+    {
+      "album": {
+        "name": "Real",
+        "url": "https://open.spotify.com/album/6vI4HACvcHRhBCwSuNOBJF"
+      },
+      "artists": [
+        {
+          "name": "DAMIANA",
+          "url": "https://open.spotify.com/artist/6J5dmkHWvZdTfuJwBPGCgb"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178352,
+      "name": "Real",
+      "url": "https://open.spotify.com/track/7r6GLvQRoaEFB3ftIWGASo"
     },
     {
       "album": {
@@ -7577,6 +7777,24 @@
     },
     {
       "album": {
+        "name": "SKINcare",
+        "url": "https://open.spotify.com/album/0PfuPXsOuvOnjf8hduvOlr"
+      },
+      "artists": [
+        {
+          "name": "Sorana",
+          "url": "https://open.spotify.com/artist/1PnnRNGfichOAfPOn5mVyx"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180965,
+      "name": "SKINcare",
+      "url": "https://open.spotify.com/track/1cmfFiFM2aXz3VpdmlWOFE"
+    },
+    {
+      "album": {
         "name": "Soare \u0218i P\u0103m\u00e2nt",
         "url": "https://open.spotify.com/album/2pJAxc2z18eH7DhDc5VHjP"
       },
@@ -7758,7 +7976,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 118681,
       "name": "Suflete pereche",
       "url": "https://open.spotify.com/track/6yUJDEJYVmdVPIzWLrXirM"
@@ -7957,6 +8175,24 @@
     },
     {
       "album": {
+        "name": "Tac",
+        "url": "https://open.spotify.com/album/46xuoT7rDK8Efs3PP4aFjc"
+      },
+      "artists": [
+        {
+          "name": "Eva Timush",
+          "url": "https://open.spotify.com/artist/4DANv10r5yJS3hjpPJ6zTk"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137978,
+      "name": "Tac",
+      "url": "https://open.spotify.com/track/0nDXhEJze3n3rvhJO3XUnD"
+    },
+    {
+      "album": {
         "name": "Take Me Home (Know You Better)",
         "url": "https://open.spotify.com/album/5DpQWNcGEtMtM916omzVKX"
       },
@@ -8124,6 +8360,24 @@
       "duration_ms": 154181,
       "name": "Teri Meri",
       "url": "https://open.spotify.com/track/5c1IuP7XMCFBqV2xYa4cxi"
+    },
+    {
+      "album": {
+        "name": "the bravest souls",
+        "url": "https://open.spotify.com/album/1w7iYjPR9tOtIS8fSeoZEG"
+      },
+      "artists": [
+        {
+          "name": "Krrysopher",
+          "url": "https://open.spotify.com/artist/3ONx3pRxTJspIUsqkpa1ky"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "the bravest souls",
+      "url": "https://open.spotify.com/track/7FxvBwvcu1lfhJSVAdJuTq"
     },
     {
       "album": {
@@ -8330,7 +8584,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 184285,
       "name": "Uit\u0103-te \u00een ochii mei",
       "url": "https://open.spotify.com/track/5WEonvH777WjGwaVgON52e"
@@ -8522,7 +8776,7 @@
       ],
       "date_added": "2026-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 187500,
       "name": "Unde",
       "url": "https://open.spotify.com/track/2tAAqmZsLFYZjFS2Lw5C8v"
@@ -9002,7 +9256,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 100194,
       "name": "Whine It",
       "url": "https://open.spotify.com/track/314l8Q7zwxFcgBp3vBP14X"
@@ -9245,6 +9499,24 @@
     },
     {
       "album": {
+        "name": "\u00cen c\u0103utarea fericirii",
+        "url": "https://open.spotify.com/album/0po2U3nO9fn8vZaXhZe5j1"
+      },
+      "artists": [
+        {
+          "name": "EMAA",
+          "url": "https://open.spotify.com/artist/4j4xD0oanPaJMB0BVqsRGE"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164014,
+      "name": "\u00cen c\u0103utarea fericirii",
+      "url": "https://open.spotify.com/track/2vIVjEFiKM20qIDApuHoKr"
+    },
+    {
+      "album": {
         "name": "\u00ceN MINTEA MEA",
         "url": "https://open.spotify.com/album/1pMCSGYEvPVvrelAPHvVNV"
       },
@@ -9264,6 +9536,24 @@
       "duration_ms": 197647,
       "name": "\u00ceN MINTEA MEA",
       "url": "https://open.spotify.com/track/2UGbgXQqLG4oF4mg7SMLh0"
+    },
+    {
+      "album": {
+        "name": "\u00cen Ochii T\u0103i",
+        "url": "https://open.spotify.com/album/5kVitUd8ayaIEQJ8KcsFll"
+      },
+      "artists": [
+        {
+          "name": "Loredana",
+          "url": "https://open.spotify.com/artist/5aU8qm9nbrIaXO8ieyKlTa"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245760,
+      "name": "\u00cen Ochii T\u0103i",
+      "url": "https://open.spotify.com/track/3UxxhV9uHfBwarvWnYoC26"
     },
     {
       "album": {

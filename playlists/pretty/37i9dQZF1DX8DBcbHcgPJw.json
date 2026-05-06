@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: Agapornis",
-  "num_followers": 1128418,
+  "num_followers": 1128193,
   "original_name": "Dame M\u00e1s Cumbia",
   "owner": {
     "name": "Spotify",
@@ -607,6 +607,22 @@
     {
       "added_at": "2026-04-24 03:00:47",
       "album": {
+        "name": "Vos y Yo",
+        "url": "https://open.spotify.com/album/0rOgo14OGQSISmPyG5uXmx"
+      },
+      "artists": [
+        {
+          "name": "Valen",
+          "url": "https://open.spotify.com/artist/4OpKA1Qx8VYnSmrhKQ4zJz"
+        }
+      ],
+      "duration_ms": 139058,
+      "name": "Vos y Yo",
+      "url": "https://open.spotify.com/track/45mSkRFdOQwCz1N3uSpVIa"
+    },
+    {
+      "added_at": "2026-04-24 03:00:47",
+      "album": {
         "name": "VIAJEMOS EN EL TIEMPO #6 I Amor y Dolor",
         "url": "https://open.spotify.com/album/7nV6VI5RCXSQz81x02HyOx"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 165161,
       "name": "VIAJEMOS EN EL TIEMPO #6 I Amor y Dolor",
       "url": "https://open.spotify.com/track/6zEYyvImhZjk8I1EAtXim9"
-    },
-    {
-      "added_at": "2026-04-24 03:00:47",
-      "album": {
-        "name": "Vos y Yo",
-        "url": "https://open.spotify.com/album/0rOgo14OGQSISmPyG5uXmx"
-      },
-      "artists": [
-        {
-          "name": "Valen",
-          "url": "https://open.spotify.com/artist/4OpKA1Qx8VYnSmrhKQ4zJz"
-        }
-      ],
-      "duration_ms": 139058,
-      "name": "Vos y Yo",
-      "url": "https://open.spotify.com/track/45mSkRFdOQwCz1N3uSpVIa"
     },
     {
       "added_at": "2026-04-24 03:00:47",
@@ -839,6 +839,22 @@
     {
       "added_at": "2026-04-24 03:00:47",
       "album": {
+        "name": "BORRACHO",
+        "url": "https://open.spotify.com/album/406X9ac7umALSOCKc9NKs1"
+      },
+      "artists": [
+        {
+          "name": "BM",
+          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
+        }
+      ],
+      "duration_ms": 181740,
+      "name": "BORRACHO",
+      "url": "https://open.spotify.com/track/3ZMWr0qweJWTT3hrTqnJe2"
+    },
+    {
+      "added_at": "2026-04-24 03:00:47",
+      "album": {
         "name": "Soltero Hasta la Tumba (Remix)",
         "url": "https://open.spotify.com/album/02jgpEF6No10jypd9B6dsk"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 195502,
       "name": "Soltero Hasta la Tumba - Remix",
       "url": "https://open.spotify.com/track/2Ue6HKn8jqcOaOT467gQHw"
-    },
-    {
-      "added_at": "2026-04-24 03:00:47",
-      "album": {
-        "name": "BORRACHO",
-        "url": "https://open.spotify.com/album/406X9ac7umALSOCKc9NKs1"
-      },
-      "artists": [
-        {
-          "name": "BM",
-          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
-        }
-      ],
-      "duration_ms": 181740,
-      "name": "BORRACHO",
-      "url": "https://open.spotify.com/track/3ZMWr0qweJWTT3hrTqnJe2"
     },
     {
       "added_at": "2026-04-24 03:00:47",
@@ -1379,26 +1379,22 @@
     {
       "added_at": "2026-04-24 03:00:47",
       "album": {
-        "name": "El Amor De Tu Vida",
-        "url": "https://open.spotify.com/album/5iNHS6Q4FkT7SPPdaAjX8n"
+        "name": "No Fue Culpa Tuya",
+        "url": "https://open.spotify.com/album/6V2h9j8lyA1DxaKALu0ue6"
       },
       "artists": [
         {
-          "name": "Alan Gomez",
-          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
+          "name": "Bauti Mascia",
+          "url": "https://open.spotify.com/artist/4cV73y9UlkKTCIWbuP2hbG"
         },
         {
-          "name": "Valen",
-          "url": "https://open.spotify.com/artist/4OpKA1Qx8VYnSmrhKQ4zJz"
-        },
-        {
-          "name": "risko",
-          "url": "https://open.spotify.com/artist/76S9tWvZEynS5QanzUkkjw"
+          "name": "Amigo de Artistas",
+          "url": "https://open.spotify.com/artist/7j6lJVKmCFlcXtfMDf57gP"
         }
       ],
-      "duration_ms": 170759,
-      "name": "El Amor De Tu Vida",
-      "url": "https://open.spotify.com/track/5aFToP9WaXJzjr6yneD5rg"
+      "duration_ms": 148283,
+      "name": "No Fue Culpa Tuya",
+      "url": "https://open.spotify.com/track/3S0pR6KMZdaBL0QC9SI2vY"
     },
     {
       "added_at": "2026-04-24 03:00:47",
@@ -1423,6 +1419,30 @@
     {
       "added_at": "2026-04-24 03:00:47",
       "album": {
+        "name": "El Amor De Tu Vida",
+        "url": "https://open.spotify.com/album/5iNHS6Q4FkT7SPPdaAjX8n"
+      },
+      "artists": [
+        {
+          "name": "Alan Gomez",
+          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
+        },
+        {
+          "name": "Valen",
+          "url": "https://open.spotify.com/artist/4OpKA1Qx8VYnSmrhKQ4zJz"
+        },
+        {
+          "name": "risko",
+          "url": "https://open.spotify.com/artist/76S9tWvZEynS5QanzUkkjw"
+        }
+      ],
+      "duration_ms": 170759,
+      "name": "El Amor De Tu Vida",
+      "url": "https://open.spotify.com/track/5aFToP9WaXJzjr6yneD5rg"
+    },
+    {
+      "added_at": "2026-04-24 03:00:47",
+      "album": {
         "name": "Fuego en la Noche",
         "url": "https://open.spotify.com/album/0R0srt4VrapSD65tIQnTfd"
       },
@@ -1435,26 +1455,6 @@
       "duration_ms": 147960,
       "name": "Chica Brasile\u00f1a",
       "url": "https://open.spotify.com/track/5gwCA6eUUqFNg5VVWo2Yzo"
-    },
-    {
-      "added_at": "2026-04-24 03:00:47",
-      "album": {
-        "name": "No Fue Culpa Tuya",
-        "url": "https://open.spotify.com/album/6V2h9j8lyA1DxaKALu0ue6"
-      },
-      "artists": [
-        {
-          "name": "Bauti Mascia",
-          "url": "https://open.spotify.com/artist/4cV73y9UlkKTCIWbuP2hbG"
-        },
-        {
-          "name": "Amigo de Artistas",
-          "url": "https://open.spotify.com/artist/7j6lJVKmCFlcXtfMDf57gP"
-        }
-      ],
-      "duration_ms": 148283,
-      "name": "No Fue Culpa Tuya",
-      "url": "https://open.spotify.com/track/3S0pR6KMZdaBL0QC9SI2vY"
     },
     {
       "added_at": "2026-04-24 03:00:47",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2026-04-24 03:00:47",
       "album": {
-        "name": "Amor Sincero",
-        "url": "https://open.spotify.com/album/6mkYsDQfFm1H4YYGk6lo4X"
-      },
-      "artists": [
-        {
-          "name": "Maxi Espindola",
-          "url": "https://open.spotify.com/artist/4Obfe35qOZ6JZmezYo8K0v"
-        }
-      ],
-      "duration_ms": 187956,
-      "name": "Amor Sincero",
-      "url": "https://open.spotify.com/track/35Tg6HJcUghZgeCJq64OOt"
-    },
-    {
-      "added_at": "2026-04-24 03:00:47",
-      "album": {
         "name": "Imagina",
         "url": "https://open.spotify.com/album/3POy2qVDRvo8VhnVvAhZSq"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 176577,
       "name": "Imagina",
       "url": "https://open.spotify.com/track/7qpP03SFwP9zKVwK0blnhl"
+    },
+    {
+      "added_at": "2026-04-24 03:00:47",
+      "album": {
+        "name": "Amor Sincero",
+        "url": "https://open.spotify.com/album/6mkYsDQfFm1H4YYGk6lo4X"
+      },
+      "artists": [
+        {
+          "name": "Maxi Espindola",
+          "url": "https://open.spotify.com/artist/4Obfe35qOZ6JZmezYo8K0v"
+        }
+      ],
+      "duration_ms": 187956,
+      "name": "Amor Sincero",
+      "url": "https://open.spotify.com/track/35Tg6HJcUghZgeCJq64OOt"
     },
     {
       "added_at": "2026-04-24 03:00:47",
@@ -1679,22 +1679,22 @@
     {
       "added_at": "2026-04-24 03:00:47",
       "album": {
-        "name": "Tic Tac",
-        "url": "https://open.spotify.com/album/3TUx2R6WCw0zl1al7hN8tq"
+        "name": "Quiero Olvidarte",
+        "url": "https://open.spotify.com/album/0DD1hxF6r2Wvu0T5MIqk9l"
       },
       "artists": [
         {
-          "name": "Manu Dal Santo",
-          "url": "https://open.spotify.com/artist/0b1vlMqqnLOtD28hVLVvzB"
+          "name": "Fer Palacio",
+          "url": "https://open.spotify.com/artist/4frBEXn8nhWzOVwfCSpuYB"
         },
         {
-          "name": "El Villano",
-          "url": "https://open.spotify.com/artist/6nEgkeR03q2qtKZmrVq100"
+          "name": "Valen",
+          "url": "https://open.spotify.com/artist/4OpKA1Qx8VYnSmrhKQ4zJz"
         }
       ],
-      "duration_ms": 124468,
-      "name": "Tic Tac",
-      "url": "https://open.spotify.com/track/1iOYBlSe5ZCnkM8tVDtSCK"
+      "duration_ms": 206432,
+      "name": "Quiero Olvidarte",
+      "url": "https://open.spotify.com/track/2M3aKNbIEr9GjjalZJMVkB"
     },
     {
       "added_at": "2026-04-24 03:00:47",
@@ -1719,26 +1719,6 @@
     {
       "added_at": "2026-04-24 03:00:47",
       "album": {
-        "name": "Quiero Olvidarte",
-        "url": "https://open.spotify.com/album/0DD1hxF6r2Wvu0T5MIqk9l"
-      },
-      "artists": [
-        {
-          "name": "Fer Palacio",
-          "url": "https://open.spotify.com/artist/4frBEXn8nhWzOVwfCSpuYB"
-        },
-        {
-          "name": "Valen",
-          "url": "https://open.spotify.com/artist/4OpKA1Qx8VYnSmrhKQ4zJz"
-        }
-      ],
-      "duration_ms": 206432,
-      "name": "Quiero Olvidarte",
-      "url": "https://open.spotify.com/track/2M3aKNbIEr9GjjalZJMVkB"
-    },
-    {
-      "added_at": "2026-04-24 03:00:47",
-      "album": {
         "name": "Tranquila",
         "url": "https://open.spotify.com/album/4VoOmCYmdOgQEK4TidgNtj"
       },
@@ -1755,6 +1735,26 @@
       "duration_ms": 183431,
       "name": "Tranquila",
       "url": "https://open.spotify.com/track/5NMPnWUDvXr8Vnauv7I7YZ"
+    },
+    {
+      "added_at": "2026-04-24 03:00:47",
+      "album": {
+        "name": "Tic Tac",
+        "url": "https://open.spotify.com/album/3TUx2R6WCw0zl1al7hN8tq"
+      },
+      "artists": [
+        {
+          "name": "Manu Dal Santo",
+          "url": "https://open.spotify.com/artist/0b1vlMqqnLOtD28hVLVvzB"
+        },
+        {
+          "name": "El Villano",
+          "url": "https://open.spotify.com/artist/6nEgkeR03q2qtKZmrVq100"
+        }
+      ],
+      "duration_ms": 124468,
+      "name": "Tic Tac",
+      "url": "https://open.spotify.com/track/1iOYBlSe5ZCnkM8tVDtSCK"
     },
     {
       "added_at": "2026-04-24 03:00:47",
@@ -1995,22 +1995,6 @@
     {
       "added_at": "2026-04-24 03:00:47",
       "album": {
-        "name": "Dif\u00edcil",
-        "url": "https://open.spotify.com/album/2BhWSvwWLZHPkcZNBMOwIj"
-      },
-      "artists": [
-        {
-          "name": "Flor Alvarez",
-          "url": "https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa"
-        }
-      ],
-      "duration_ms": 165330,
-      "name": "Dif\u00edcil",
-      "url": "https://open.spotify.com/track/0TFZeKOz99ud5nMY14DgFr"
-    },
-    {
-      "added_at": "2026-04-24 03:00:47",
-      "album": {
         "name": "Ya No Quiero Verte",
         "url": "https://open.spotify.com/album/7LgHocBu4JUghhlAJqgNrS"
       },
@@ -2027,6 +2011,22 @@
       "duration_ms": 165634,
       "name": "Ya No Quiero Verte",
       "url": "https://open.spotify.com/track/3eUtQSdde3wNmXOW2OESKi"
+    },
+    {
+      "added_at": "2026-04-24 03:00:47",
+      "album": {
+        "name": "Dif\u00edcil",
+        "url": "https://open.spotify.com/album/2BhWSvwWLZHPkcZNBMOwIj"
+      },
+      "artists": [
+        {
+          "name": "Flor Alvarez",
+          "url": "https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa"
+        }
+      ],
+      "duration_ms": 165330,
+      "name": "Dif\u00edcil",
+      "url": "https://open.spotify.com/track/0TFZeKOz99ud5nMY14DgFr"
     },
     {
       "added_at": "2026-04-24 03:00:47",

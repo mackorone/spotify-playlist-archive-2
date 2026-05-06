@@ -1441,6 +1441,28 @@
     },
     {
       "album": {
+        "name": "Close To Me (with Madison Hughes)",
+        "url": "https://open.spotify.com/album/5cW5YQbeLiPAllNclJEjfG"
+      },
+      "artists": [
+        {
+          "name": "The Deltaz",
+          "url": "https://open.spotify.com/artist/2Ux8BRWypmo461Vdorxx9G"
+        },
+        {
+          "name": "Madison Hughes",
+          "url": "https://open.spotify.com/artist/03rZGNLcaUYnzsTxlXpJ3F"
+        }
+      ],
+      "date_added": "2026-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178869,
+      "name": "Close To Me (with Madison Hughes)",
+      "url": "https://open.spotify.com/track/3us3Ixr3f3gvG18X1SVe94"
+    },
+    {
+      "album": {
         "name": "Clotilda's On Fire",
         "url": "https://open.spotify.com/album/47ADK0ggtSLXrjHdLqRf9D"
       },
@@ -3516,7 +3538,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 199174,
       "name": "I Guess I\u2019ll Get The Papers And Go Home",
       "url": "https://open.spotify.com/track/26qinPvPXEC2rYkg2288K0"

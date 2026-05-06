@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica refrescante, para vencer el calor.",
-  "num_followers": 127147,
+  "num_followers": 127145,
   "original_name": "Mi Terer\u00e9",
   "owner": {
     "name": "Spotify",
@@ -303,22 +303,6 @@
     {
       "added_at": "2025-03-14 20:46:39",
       "album": {
-        "name": "El Rey del Norte",
-        "url": "https://open.spotify.com/album/3AtBWO9bJ7HzPoVXkfrVKf"
-      },
-      "artists": [
-        {
-          "name": "Grupo Ternura",
-          "url": "https://open.spotify.com/artist/1f8KqVQNiSJ95tiWLjTevq"
-        }
-      ],
-      "duration_ms": 198960,
-      "name": "Vienes y Te Vas",
-      "url": "https://open.spotify.com/track/4L81kjuMNo9Gg6h1Bkyi0F"
-    },
-    {
-      "added_at": "2025-03-14 20:46:39",
-      "album": {
         "name": "Christian Puga y los Ladrones Sueltos",
         "url": "https://open.spotify.com/album/2sCnMd9nQOtUqBEWLNuw3E"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 223093,
       "name": "Ruge Uge",
       "url": "https://open.spotify.com/track/4qUDaUEXqZtGzxiwQbNC82"
+    },
+    {
+      "added_at": "2025-03-14 20:46:39",
+      "album": {
+        "name": "El Rey del Norte",
+        "url": "https://open.spotify.com/album/3AtBWO9bJ7HzPoVXkfrVKf"
+      },
+      "artists": [
+        {
+          "name": "Grupo Ternura",
+          "url": "https://open.spotify.com/artist/1f8KqVQNiSJ95tiWLjTevq"
+        }
+      ],
+      "duration_ms": 198960,
+      "name": "Vienes y Te Vas",
+      "url": "https://open.spotify.com/track/4L81kjuMNo9Gg6h1Bkyi0F"
     },
     {
       "added_at": "2025-03-14 20:46:39",

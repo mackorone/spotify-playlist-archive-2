@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > Nieuw: Kevin & Roxy Dekker, Madonna & Sabrina Carpenter, Alex Warren, Zoë Tauran, MEROL en meer..
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,461 likes - 90 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,450 likes - 90 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

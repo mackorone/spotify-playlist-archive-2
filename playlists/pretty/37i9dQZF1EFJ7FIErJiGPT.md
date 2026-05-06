@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ7FIErJiGPT.md) - [plain]
 | 59 | [Waste A Tear](https://open.spotify.com/track/6EtZTJwgigLwYQdsi30H71) | [Julie Bergan](https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv) | [Waste A Tear](https://open.spotify.com/album/3IgDLxqDbFHBF56ZDvFjvf) | 2:27 |
 | 60 | [Boys In The Sea](https://open.spotify.com/track/4j31U5bwTpzRXH9cK9FZdf) | [Bianca Ingrosso](https://open.spotify.com/artist/3VhdRFPzyb8huDuJkxpLFa) | [Boys In The Sea](https://open.spotify.com/album/03vSTMCwvCQSp6uq3dsfmN) | 3:10 |
 | 61 | [Emergency](https://open.spotify.com/track/6RTmELNwmVKSKSLxCCWNRT) | [HAUZ](https://open.spotify.com/artist/3deknuVSj6038SM4afSQpu), [Nico & Vinz](https://open.spotify.com/artist/0awl5piYwO0CDTHEkCjUhn), [bryska](https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh) | [Emergency](https://open.spotify.com/album/0746zc1RtLRAS6ucRz0aXI) | 3:07 |
-| 62 | [Sucker for You](https://open.spotify.com/track/15AhbX3z27BVNYMdW0VCnm) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [Sucker for You](https://open.spotify.com/album/4G8vvpRiV5k99TGg5gD4Pz) | 3:20 |
-| 63 | [Love Me America](https://open.spotify.com/track/5a6N1TItnXbphH8dcwnlQF) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Ride](https://open.spotify.com/album/16oaTuuuBPHxviN8VA6iJ9) | 4:29 |
+| 62 | [Love Me America](https://open.spotify.com/track/5a6N1TItnXbphH8dcwnlQF) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Ride](https://open.spotify.com/album/16oaTuuuBPHxviN8VA6iJ9) | 4:29 |
+| 63 | [Sucker for You](https://open.spotify.com/track/15AhbX3z27BVNYMdW0VCnm) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [Sucker for You](https://open.spotify.com/album/4G8vvpRiV5k99TGg5gD4Pz) | 3:20 |
 | 64 | [Effort](https://open.spotify.com/track/5YtsWfOokZx53OLviNpFmu) | [SVEA](https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx) | [the last 90s bitch](https://open.spotify.com/album/3iuUD5t9JpxeISE6LNYafg) | 2:31 |
 | 65 | [Self Control](https://open.spotify.com/track/0cRC2pnoH7gWoP2JGRSphe) | [Matt Simons](https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7) | [Identity Crisis](https://open.spotify.com/album/2wbMJYLxgXALMVJWy7m98T) | 3:06 |
 | 66 | [Wild Hearts](https://open.spotify.com/track/6GFmic5sMMouZ04j8p2RXm) | [FO&O](https://open.spotify.com/artist/5PldDs8KtXMy0KZ6due44x) | [Coordinates](https://open.spotify.com/album/2IidFea2wQ3kaD0EEtO27q) | 2:49 |
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ7FIErJiGPT.md) - [plain]
 | 106 | [Take It As a Man](https://open.spotify.com/track/7D0NNAhOm46YZneCCplG2Z) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [TRANSPARENT](https://open.spotify.com/album/5Y5vhnNmouWotSd0Qj2jRK) | 2:46 |
 | 107 | [Dance With Myself](https://open.spotify.com/track/1w0yZ491kumXS2qSJUawHz) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [TRANSPARENT](https://open.spotify.com/album/5Y5vhnNmouWotSd0Qj2jRK) | 3:34 |
 
-Snapshot ID: `AcQoHAAAAACh37X7/kfjp3kPtJKJCsE7`
+Snapshot ID: `AcQtqAAAAAC/EWfEDay+MNHjLMBBBjju`

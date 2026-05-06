@@ -25661,6 +25661,24 @@
     },
     {
       "album": {
+        "name": "OK! GO!",
+        "url": "https://open.spotify.com/album/1cXPneXLMQLpz1ScS3VQmY"
+      },
+      "artists": [
+        {
+          "name": "ayaka",
+          "url": "https://open.spotify.com/artist/22FsmLO3ZyvgWBy5QbfcQi"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215958,
+      "name": "OK! GO!",
+      "url": "https://open.spotify.com/track/61OAIwTrH9C5oITjPOkrCD"
+    },
+    {
+      "album": {
         "name": "OKASHi NA DEAi",
         "url": "https://open.spotify.com/album/6XtHOEb6BZHR6WUnylSUQz"
       },
@@ -41292,7 +41310,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 251459,
       "name": "\u00c1gua de Beber",
       "url": "https://open.spotify.com/track/0udVW76Es96emCsJ834ZJr"
@@ -56727,6 +56745,24 @@
     },
     {
       "album": {
+        "name": "\u5348\u524d\u56db\u6642",
+        "url": "https://open.spotify.com/album/6toxmIPqcXIB1qmlbBdSVL"
+      },
+      "artists": [
+        {
+          "name": "KOMAGOME",
+          "url": "https://open.spotify.com/artist/4yi7xi9fRysQclHSMAkQpY"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187800,
+      "name": "\u5348\u524d\u56db\u6642",
+      "url": "https://open.spotify.com/track/0wQdYrJT00p7OKoUiBZZaW"
+    },
+    {
+      "album": {
         "name": "\u30cd\u30aa\u30f3",
         "url": "https://open.spotify.com/album/4tlqOW9ThwLtEBHPLWD27C"
       },
@@ -64724,7 +64760,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 237719,
       "name": "\u6e29\u5ea6\u3068\u4e00\u90e8",
       "url": "https://open.spotify.com/track/0HNUvAmscgfyIMyQfsZn5x"

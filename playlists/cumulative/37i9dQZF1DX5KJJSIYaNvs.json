@@ -7269,6 +7269,32 @@
     },
     {
       "album": {
+        "name": "Koyaliya",
+        "url": "https://open.spotify.com/album/1cJt7BpJ2cTCVC7vaH43Af"
+      },
+      "artists": [
+        {
+          "name": "Apurva Nisshad",
+          "url": "https://open.spotify.com/artist/6tG0yoFntJvbl7fScSJsVQ"
+        },
+        {
+          "name": "Abhishek Bonthu",
+          "url": "https://open.spotify.com/artist/2Npi8Fvuiey2YK0sWreWl5"
+        },
+        {
+          "name": "Pranav Barange",
+          "url": "https://open.spotify.com/artist/1XWKVQFj0cr91jLKaz1jHI"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258000,
+      "name": "Koyaliya",
+      "url": "https://open.spotify.com/track/6Vv1rS5OeR1NeGoScEilOz"
+    },
+    {
+      "album": {
         "name": "Binny And Family",
         "url": "https://open.spotify.com/album/0eoRM09KI92VQ0KJ9PMdaq"
       },
@@ -8390,6 +8416,36 @@
       "duration_ms": 187200,
       "name": "Mashooka (feat. Rakul Preet Singh)",
       "url": "https://open.spotify.com/track/6CVu3umk6baD6bwLVzmx3m"
+    },
+    {
+      "album": {
+        "name": "Maskara (From \"Main Vaapas Aaunga\")",
+        "url": "https://open.spotify.com/album/0C5hxl6tOmNgFSxX6nr14g"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Vedang Raina",
+          "url": "https://open.spotify.com/artist/1X95l2wU2j5wskoTNOwfLB"
+        },
+        {
+          "name": "Nilanjana Ghosh",
+          "url": "https://open.spotify.com/artist/3CElBT0gzSRhujhhTm8gRC"
+        },
+        {
+          "name": "Irshad Kamil",
+          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233741,
+      "name": "Maskara (From \"Main Vaapas Aaunga\")",
+      "url": "https://open.spotify.com/track/1ayv6xv4m0zk0iyHuXfuJ4"
     },
     {
       "album": {
@@ -10120,7 +10176,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 193306,
       "name": "O Meri Jaan",
       "url": "https://open.spotify.com/track/4AM0j5OfM0emlouE3F09VJ"
@@ -13360,7 +13416,7 @@
       ],
       "date_added": "2024-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 188814,
       "name": "Taras - From \"Munjya\"",
       "url": "https://open.spotify.com/track/6t9KM2EQD4H2KbrTgHGYf3"

@@ -63,6 +63,24 @@
     },
     {
       "album": {
+        "name": "1721",
+        "url": "https://open.spotify.com/album/0CoDvYVYINl0w9eJAXBNpl"
+      },
+      "artists": [
+        {
+          "name": "Recheal Chrismild",
+          "url": "https://open.spotify.com/artist/0Y0N5wtZyxYHA67np5VXIO"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "1721",
+      "url": "https://open.spotify.com/track/2o9VXvH23n3IGgkaogject"
+    },
+    {
+      "album": {
         "name": "The Fuzes Best Of",
         "url": "https://open.spotify.com/album/16zoHx9wW6EVMvPDo1sha5"
       },
@@ -496,6 +514,28 @@
       "duration_ms": 220447,
       "name": "Amigo",
       "url": "https://open.spotify.com/track/2QgpEmuwzP26oBGcUkfne0"
+    },
+    {
+      "album": {
+        "name": "Amnesia",
+        "url": "https://open.spotify.com/album/0a5SZcSO05pTCUXZOKBpfI"
+      },
+      "artists": [
+        {
+          "name": "Corey Drumz",
+          "url": "https://open.spotify.com/artist/1FahdwAmCrNJVrH1rHGlML"
+        },
+        {
+          "name": "CeStyle",
+          "url": "https://open.spotify.com/artist/6zDcQZkvdVjUv5HyqRKHCm"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240170,
+      "name": "Amnesia",
+      "url": "https://open.spotify.com/track/7FD4lLp5GBsRVEMWwYBBUp"
     },
     {
       "album": {
@@ -1110,6 +1150,24 @@
       "duration_ms": 147301,
       "name": "Black Cat",
       "url": "https://open.spotify.com/track/6dSioFJXazwRx8v0TFKcVX"
+    },
+    {
+      "album": {
+        "name": "Lip Service",
+        "url": "https://open.spotify.com/album/4dQF4Bp3SoiFTkvGzv9ohI"
+      },
+      "artists": [
+        {
+          "name": "The Jaded Lips",
+          "url": "https://open.spotify.com/artist/6orV08XQAM5wA7Sm1BlrLx"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242751,
+      "name": "Black Lashes",
+      "url": "https://open.spotify.com/track/6GzppPjh6RuuoF9gkkRefR"
     },
     {
       "album": {

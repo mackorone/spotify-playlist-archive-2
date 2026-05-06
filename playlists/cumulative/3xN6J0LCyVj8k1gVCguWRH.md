@@ -4,7 +4,7 @@
 
 > Summer has a way of slowing us down and bringing us together\. This playlist is a mix of new favorites and familiar sounds — songs for long drives, late afternoons, and evenings that stretch a little longer than planned.Hope you find something here that makes the season feel just right.
 
-5,995 songs - 13 day 22 hr 53 min
+5,997 songs - 13 day 23 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -529,7 +529,7 @@
 | [Bedroom Eyes](https://open.spotify.com/track/2cpe3vvkF2sgGoGzRnyUaB) | [Yum Yuck](https://open.spotify.com/artist/5lAZTyHLWuqddQudiftzIE) | [Bedroom Eyes](https://open.spotify.com/album/3jZXbahHZHA2gdW40UNZiT) | 3:44 | 2022-09-09 | 2022-09-25 |
 | [Been Away](https://open.spotify.com/track/5PvVkf1Yuq3XyMqqjPiKPd) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Fuck The World](https://open.spotify.com/album/3vi20DRHkqv4HyVg9Rt9wC) | 3:43 | 2020-04-08 | 2020-04-20 |
 | [Been Too Long](https://open.spotify.com/track/47HfVFpxiuAygbLBJFnhAF) | [Dance Yourself Clean](https://open.spotify.com/artist/6Cj1snEd81rwhRQgFormQc), [Lizzy Land](https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux) | [Been Too Long](https://open.spotify.com/album/1nidXfMJLUixF0Kg1Hl0V3) | 3:47 | 2020-09-11 | 2020-09-26 |
-| [BEFORE GOODBYE](https://open.spotify.com/track/59LjwTNKY4J0HNKWuMZTP6) | [Tom Morgan](https://open.spotify.com/artist/3O1tV7GESyriJiAnhjeR0c) | [BEFORE GOODBYE](https://open.spotify.com/album/1xr2y0rR9zPFH1RNQCNGt0) | 4:13 | 2026-04-24 |  |
+| [BEFORE GOODBYE](https://open.spotify.com/track/59LjwTNKY4J0HNKWuMZTP6) | [Tom Morgan](https://open.spotify.com/artist/3O1tV7GESyriJiAnhjeR0c) | [BEFORE GOODBYE](https://open.spotify.com/album/1xr2y0rR9zPFH1RNQCNGt0) | 4:13 | 2026-04-24 | 2026-05-06 |
 | [Before I Let Go \(Interlude\)](https://open.spotify.com/track/3RfIzHmBcSLYUFJXT5irPX) | [Key.eshia](https://open.spotify.com/artist/6GVfWuMopH4Ca5DH5Y81It) | [Before I Let Go \(Interlude\)](https://open.spotify.com/album/3VyjwS76GhdZTp9lMjLuyH) | 2:40 | 2025-05-18 | 2025-05-30 |
 | [Before the Night](https://open.spotify.com/track/123DguylgrpoqGeMUCq645) | [Mirage](https://open.spotify.com/artist/5L2HxfgDGYnmqUZ9OyVt62) | [Before the Night](https://open.spotify.com/album/1SRUzZ3uzVh1iN8ICd1vCW) | 3:17 | 2025-06-28 | 2025-07-12 |
 | [Before Your Eyes](https://open.spotify.com/track/3kvOsp1oqMdbpxiFAwVOE3) | [rén](https://open.spotify.com/artist/2O4tuLp8cLDuknpZ5VUz03) | [Before Your Eyes](https://open.spotify.com/album/4cSaRdE3IP2YtrblAdww0W) | 3:33 | 2026-03-05 | 2026-03-17 |
@@ -1305,6 +1305,7 @@
 | [Die for You](https://open.spotify.com/track/12cxlpAkE58olr05BrYBtp) | [SEMM](https://open.spotify.com/artist/6vVy716NqX11fVSRs2koLB), [Fyon](https://open.spotify.com/artist/1OZo3RxWq8E0maQHpp9H6D) | [Die for You](https://open.spotify.com/album/4otHT1biOmDo13MWqalrTd) | 2:47 | 2022-10-07 | 2022-10-29 |
 | [Die Hard](https://open.spotify.com/track/6gI9b2VsoWhjhIuIeToDVs) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Amanda Reifer](https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:59 | 2022-07-06 | 2024-04-30 |
 | [Die The Best](https://open.spotify.com/track/5rD6RHL6z2CpeTYUqbinu5) | [Jaron Randolph](https://open.spotify.com/artist/7GFAmXrO0yhCaLZHJMnMJ7) | [Die The Best](https://open.spotify.com/album/1ZaEZT9Bp3CKhciFobEwVz) | 1:35 | 2024-07-19 | 2024-08-01 |
+| [DIE TOGETHER](https://open.spotify.com/track/7lvbmgTRhnQpyrOqUw2dUc) | [Antone Harrison](https://open.spotify.com/artist/07BMmNyq4FsBqSF75usmnd) | [DIE TOGETHER](https://open.spotify.com/album/6HD01orshcpWUQ4TL7QtZ1) | 3:05 | 2026-05-05 |  |
 | [Die With A Smile](https://open.spotify.com/track/7so0lgd0zP2Sbgs2d7a1SZ) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 4:11 | 2025-03-10 | 2025-12-19 |
 | [Diferente](https://open.spotify.com/track/2RhTb78OPVZ7OrINB6nBBM) | [Richie Playa](https://open.spotify.com/artist/27kSEZqwTeXCXIscSOyyPO) | [Diferente](https://open.spotify.com/album/0GGzDKEqg5LME0K61kOHWg) | 2:27 | 2022-08-12 | 2022-08-28 |
 | [Diff mofo](https://open.spotify.com/track/7A6NQQBVTRkbbVNHHbDwkb) | [Warvet Da Rappa](https://open.spotify.com/artist/7JsTSKgRkTMczmzjuwVUip) | [Diff mofo](https://open.spotify.com/album/3ceYheAJH3sPhe9XUFrVAB) | 1:51 | 2025-01-06 | 2025-01-18 |
@@ -5607,6 +5608,7 @@
 | [Walking On Sunshine](https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0) | [Katrina & The Waves](https://open.spotify.com/artist/2TzHIUhVpeeDxyJPpQfnV3) | [Katrina & The Waves](https://open.spotify.com/album/1UQG78YJjaBySRMh0A8Uw7) | 3:58 | 2024-03-20 | 2024-08-13 |
 | [Walking On Water](https://open.spotify.com/track/38diyT1cH8ig7nWfz6p7cf) | [Loky](https://open.spotify.com/artist/4gkcwDdiHiLaRJOOOmost2), [TOMA, & SAMMAY](https://open.spotify.com/artist/2lCTjvZOxQ6dj86Mbd1nMW) | [Walking On Water](https://open.spotify.com/album/4XAvgxqwPw6lUjftlHZTdy) | 4:07 | 2019-12-17 | 2019-12-27 |
 | [Walking On Water](https://open.spotify.com/track/4U9O7GGAGHRLwdhSYeXQkN) | [MarMar](https://open.spotify.com/artist/1329gf1qT2Yhh6vh8PJ5Xr), [SMOORIBA](https://open.spotify.com/artist/1CMsNzudMd14qTGeFs2Uvk) | [The Other Side](https://open.spotify.com/album/7LHUWE4Kbo3HZUYUbYPTcU) | 2:46 | 2025-05-14 | 2025-05-27 |
+| [Walking on Water](https://open.spotify.com/track/4JbOPhrDMYVFSpXZk68qnp) | [Nadège Nightingale](https://open.spotify.com/artist/5xCWbBpvJpf8QSfFtgZRHa) | [Walking on Water](https://open.spotify.com/album/04EBhlcn0UjgMO6U5RWjwm) | 3:31 | 2026-05-05 |  |
 | [Walking True](https://open.spotify.com/track/3mdK59MBIoYnQ3VA3SU2Xm) | [Sage of New England](https://open.spotify.com/artist/3NDOUslDAgkXJJHa8sELaJ) | [Walking True](https://open.spotify.com/album/013ocIBiftqcSA7dhobZjf) | 5:02 | 2022-02-11 | 2022-02-27 |
 | [Wander, Wondering](https://open.spotify.com/track/6XBrOe7hrXOqGCP8gKxMbX) | [Tex](https://open.spotify.com/artist/6k8bzv6Pm9RwlpxZxprqnD) | [Wander, Wondering](https://open.spotify.com/album/0qAcuO80QpfBAxDzf3MCBF) | 3:07 | 2022-11-09 | 2022-12-05 |
 | [Wanderman](https://open.spotify.com/track/26QO9YeIU63KxMeeQLiIN7) | [Pacemaker](https://open.spotify.com/artist/1urn2Bdf9W0xMGSUTaail0) | [Wanderman](https://open.spotify.com/album/5QRbHPdF7NESuEaxByRR57) | 3:51 | 2021-11-03 | 2021-11-19 |

@@ -566,7 +566,7 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 299653,
       "name": "A Nervous Tic Motion of the Head to the Left",
       "url": "https://open.spotify.com/track/6SjXkEmPg9jP66HsWbK2A0"
@@ -1888,7 +1888,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 286000,
       "name": "back in action",
       "url": "https://open.spotify.com/track/7eFOG2217U6ooGeEv0fJ7e"
@@ -7064,7 +7064,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 226052,
       "name": "Guess",
       "url": "https://open.spotify.com/track/3u0CuoVA8qsqnRFrN6grPi"
@@ -8990,6 +8990,24 @@
       "duration_ms": 100760,
       "name": "Intro (It's Album Time)",
       "url": "https://open.spotify.com/track/2oa3MecguzBGHp2lF72pOh"
+    },
+    {
+      "album": {
+        "name": "THIS MUSIC MAY CONTAIN HOPE.",
+        "url": "https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73249,
+      "name": "Intro: Girl Under The Grey Cloud.",
+      "url": "https://open.spotify.com/track/4BQMnvSbKs5yVJHEkc7yUT"
     },
     {
       "album": {
@@ -20890,6 +20908,24 @@
       "duration_ms": 283748,
       "name": "YouUgly (with Westside Gunn)",
       "url": "https://open.spotify.com/track/2m2AbCpeWgms32FdLfBBdk"
+    },
+    {
+      "album": {
+        "name": "Cymande",
+        "url": "https://open.spotify.com/album/06vHyS1KFTcMIyxKzuRAbK"
+      },
+      "artists": [
+        {
+          "name": "Cymande",
+          "url": "https://open.spotify.com/artist/4hfcSstwnyuBoek1dQwLkG"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210600,
+      "name": "Zion I",
+      "url": "https://open.spotify.com/track/2noAezCPjG8U5W5hi1smLK"
     },
     {
       "album": {

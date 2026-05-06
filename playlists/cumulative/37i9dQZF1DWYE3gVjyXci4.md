@@ -2,7 +2,7 @@
 
 ### [girlhood ](https://open.spotify.com/playlist/37i9dQZF1DWYE3gVjyXci4)
 
-> there's gonna be one less lonely girl
+> we just want to know the tea
 
 82 songs - 4 hr 56 min
 

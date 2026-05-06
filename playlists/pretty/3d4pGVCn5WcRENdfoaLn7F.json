@@ -1,12 +1,12 @@
 {
   "description": "These are some independent alternative rock bands you need to hear.",
-  "num_followers": 648,
+  "num_followers": 653,
   "original_name": "Unsigned Alternative Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAADX+Rddp4DjtOrWNoDfW/OA5WTrtWe",
+  "snapshot_id": "AAADZhv1IMOnKJGlKpC16YdxuQY4ASYk",
   "tracks": [
     {
       "added_at": "2026-02-16 17:21:01",
@@ -1627,6 +1627,118 @@
       "duration_ms": 157173,
       "name": "What's the Deal",
       "url": "https://open.spotify.com/track/65mwECblaHqM3LSRBTT1nE"
+    },
+    {
+      "added_at": "2026-05-05 20:52:39",
+      "album": {
+        "name": "All That We Need",
+        "url": "https://open.spotify.com/album/3aFfX6KlURt9DGYVDEk0Qq"
+      },
+      "artists": [
+        {
+          "name": "Southern States",
+          "url": "https://open.spotify.com/artist/2hpxrkZg9qkbadFtXnD0g2"
+        }
+      ],
+      "duration_ms": 172988,
+      "name": "All That We Need",
+      "url": "https://open.spotify.com/track/6YdIHTbtkfjXuE1sDTQzAy"
+    },
+    {
+      "added_at": "2026-05-05 23:53:58",
+      "album": {
+        "name": "XOXO (Ex oh, Ex ow!)",
+        "url": "https://open.spotify.com/album/7KjY597wS0kTiC4TucLvop"
+      },
+      "artists": [
+        {
+          "name": "Lord Sebastian",
+          "url": "https://open.spotify.com/artist/06ADavaxngMDpbcRPXHBvm"
+        }
+      ],
+      "duration_ms": 188387,
+      "name": "XOXO (Ex oh, Ex ow!)",
+      "url": "https://open.spotify.com/track/4P1CmDbce9sBKsuEx2SBF4"
+    },
+    {
+      "added_at": "2026-05-05 23:55:43",
+      "album": {
+        "name": "Patroklos",
+        "url": "https://open.spotify.com/album/4h72XgIDG3kBcCGyqmssrq"
+      },
+      "artists": [
+        {
+          "name": "Meerkat",
+          "url": "https://open.spotify.com/artist/5LmeYGFo0QRpiiJpYdtRal"
+        }
+      ],
+      "duration_ms": 201751,
+      "name": "Patroklos",
+      "url": "https://open.spotify.com/track/60rTJmGVhv7t5czioq3Tgc"
+    },
+    {
+      "added_at": "2026-05-05 23:57:36",
+      "album": {
+        "name": "NORMIE FUCK",
+        "url": "https://open.spotify.com/album/0mvePeDg6YsuHXEkJ8RqQH"
+      },
+      "artists": [
+        {
+          "name": "Meerkat",
+          "url": "https://open.spotify.com/artist/5LmeYGFo0QRpiiJpYdtRal"
+        }
+      ],
+      "duration_ms": 145000,
+      "name": "NORMIE FUCK",
+      "url": "https://open.spotify.com/track/5HJyslBPhejHh1p2VlPWuC"
+    },
+    {
+      "added_at": "2026-05-06 00:01:12",
+      "album": {
+        "name": "To The Moon",
+        "url": "https://open.spotify.com/album/2ElBuY7uYQpk55T1GHgZz5"
+      },
+      "artists": [
+        {
+          "name": "Stopgap Solution",
+          "url": "https://open.spotify.com/artist/0H2WxOdnVCqVeXCwyfJgAb"
+        }
+      ],
+      "duration_ms": 224976,
+      "name": "To The Moon",
+      "url": "https://open.spotify.com/track/6DVsYLEObwwI5j8TMbMecX"
+    },
+    {
+      "added_at": "2026-05-06 00:08:56",
+      "album": {
+        "name": "Bar Talk",
+        "url": "https://open.spotify.com/album/6Z6xRyyIedaVOs7HakvOaL"
+      },
+      "artists": [
+        {
+          "name": "UNCLE",
+          "url": "https://open.spotify.com/artist/64kcwpH0XroEG2GQ4h6Zc9"
+        }
+      ],
+      "duration_ms": 169020,
+      "name": "Bar Talk",
+      "url": "https://open.spotify.com/track/6cfLuWMV55gwD7TA19ifhM"
+    },
+    {
+      "added_at": "2026-05-06 00:18:30",
+      "album": {
+        "name": "Doc Holliday",
+        "url": "https://open.spotify.com/album/4XByeZcCRXXAl1jjnHGfro"
+      },
+      "artists": [
+        {
+          "name": "Austin-Tucker",
+          "url": "https://open.spotify.com/artist/2872bA5szcRoCBEQSlpWhq"
+        }
+      ],
+      "duration_ms": 289968,
+      "name": "Doc Holliday",
+      "url": "https://open.spotify.com/track/3OohvRQPyZSKfyAeg1ph9A"
     }
   ],
   "unique_name": "Unsigned Alternative Rock",

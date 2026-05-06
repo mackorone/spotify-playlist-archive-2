@@ -1138,7 +1138,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 323644,
       "name": "BHAAVAM",
       "url": "https://open.spotify.com/track/0tbRl9AXpgaT8EQLmAEWdh"
@@ -3997,7 +3997,7 @@
         },
         {
           "name": "Dharsana",
-          "url": "https://open.spotify.com/artist/0Hy25DBqXzsszzFrfArf7M"
+          "url": "https://open.spotify.com/artist/6xfqrvcLNAzK2cbGMAClpx"
         }
       ],
       "date_added": "2026-05-04",
@@ -7338,7 +7338,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 225436,
       "name": "PALAAYANAM",
       "url": "https://open.spotify.com/track/6c7ceJAZjXqVYTgT4VUh5U"
@@ -9495,6 +9495,24 @@
     },
     {
       "album": {
+        "name": "Thonnalu",
+        "url": "https://open.spotify.com/album/60I4ewY6K4o5OEn9819vcu"
+      },
+      "artists": [
+        {
+          "name": "Ashna Sherin",
+          "url": "https://open.spotify.com/artist/6N5YgVZI5OC5njITv1LMV9"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185495,
+      "name": "Thonnalu",
+      "url": "https://open.spotify.com/track/6mhDYpd21SevbGR8o1h7Bm"
+    },
+    {
+      "album": {
         "name": "Thoomani Maadathu - Single",
         "url": "https://open.spotify.com/album/3lZCGV2nV1wdjvl3kLl1MO"
       },
@@ -9734,6 +9752,28 @@
       "duration_ms": 240500,
       "name": "Underwater",
       "url": "https://open.spotify.com/track/0imVULu70lZLsLuAf0KBMC"
+    },
+    {
+      "album": {
+        "name": "Urakkam",
+        "url": "https://open.spotify.com/album/2NDw4V1GY5IxhwYPmDbHEM"
+      },
+      "artists": [
+        {
+          "name": "STIC",
+          "url": "https://open.spotify.com/artist/32ruOa5gdWStRHmLau9zL5"
+        },
+        {
+          "name": "Slaya",
+          "url": "https://open.spotify.com/artist/1gHrrXq8gRv3gBIxOgOdcD"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220517,
+      "name": "Urakkam",
+      "url": "https://open.spotify.com/track/1NbXgXvPtCYrmdus1WS5oO"
     },
     {
       "album": {

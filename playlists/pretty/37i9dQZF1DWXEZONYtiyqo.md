@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEZONYtiyqo.md) - [plain]
 
 > Cele mai noi hituri pop românești\. Cover: 3 Sud Est, Andra
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,851 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,850 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEZONYtiyqo.md) - [plain]
 | 8 | [Doi Eroi](https://open.spotify.com/track/3jNbjFryn449AQejgoDPRT) | [Andrei Ursu](https://open.spotify.com/artist/2ej9sGNpApicrgDhJkcPeW) | [Doi Eroi](https://open.spotify.com/album/687HFSpdsJoldHzogxa1If) | 2:57 |
 | 9 | [Anii În Care Nu Dormim](https://open.spotify.com/track/7KabacMSDqjfZWiFtM4IhM) | [Smiley](https://open.spotify.com/artist/3gvNMbcnvmnjGaG6hvJfSH), [Alex Velea](https://open.spotify.com/artist/1V4elwsLx3Lz43ma61eySA), [Connect\-R](https://open.spotify.com/artist/1omKDrKCcMD79tfK8Vb2Hr) | [Anii În Care Nu Dormim](https://open.spotify.com/album/42G7m3RHPBDDLGuDIkM7jh) | 3:27 |
 | 10 | [Aș Fi Iubit\-o](https://open.spotify.com/track/0flHTpfogKtmsMmMFCTnso) | [Andia](https://open.spotify.com/artist/6Jwwt3X2qSFanYwEHcvBkn) | [Aș Fi Iubit\-o](https://open.spotify.com/album/04TmQ5AJT0o389O5mdixOj) | 3:34 |
-| 11 | [Cât să te mai aștept](https://open.spotify.com/track/2incNhwzfSRJ6Vf69PNiBp) | [Alessandra](https://open.spotify.com/artist/70vx3HiFmZozTbVXsBoOiV), [VANILLA](https://open.spotify.com/artist/1fofiypUoSWqYH2i4frmHn) | [Cât să te mai aștept](https://open.spotify.com/album/6BPomOVyUqaopo1qQG1QMb) | 2:22 |
+| 11 | [Cât să te mai aștept](https://open.spotify.com/track/2incNhwzfSRJ6Vf69PNiBp) | [Alessandra](https://open.spotify.com/artist/70vx3HiFmZozTbVXsBoOiV), [VANILLA](https://open.spotify.com/artist/1fofiypUoSWqYH2i4frmHn) | [Cât să te mai aștept](https://open.spotify.com/album/6BPomOVyUqaopo1qQG1QMb) | 2:19 |
 | 12 | [Fă\-mă, fă\-mă](https://open.spotify.com/track/3UoPfnZCEO0BotORRdzQT2) | [Florian Rus](https://open.spotify.com/artist/0UPJKLFhLR0GuiBZBLNAsd) | [Fă\-mă, fă\-mă](https://open.spotify.com/album/3G2tclwZPuDWBfu4Kpikii) | 2:31 |
 | 13 | [Cetera](https://open.spotify.com/track/5MVwdhr04bLrZuBz9TCN1N) | [Feli](https://open.spotify.com/artist/5ckrQzJjIPDPS6EM4V1nmX) | [Jurnal](https://open.spotify.com/album/3unPXEIMbJjpMx6Eb9rxJb) | 2:41 |
 | 14 | [In felul meu](https://open.spotify.com/track/3MYQkomhXKVuK57InAhy73) | [Mihail](https://open.spotify.com/artist/6l5kIaZ51iCClkxrgr904F) | [In felul meu](https://open.spotify.com/album/6tHhdyxYwywydA7joRqKSI) | 3:17 |

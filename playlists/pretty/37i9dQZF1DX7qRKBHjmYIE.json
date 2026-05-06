@@ -1,6 +1,6 @@
 {
   "description": "De aqu\u00ed y de all\u00e1 ~ un poquito de todo \u2728 en un vibe con maye.",
-  "num_followers": 745908,
+  "num_followers": 745872,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
@@ -563,6 +563,22 @@
     {
       "added_at": "2026-05-01 04:02:25",
       "album": {
+        "name": "DAISY",
+        "url": "https://open.spotify.com/album/0o1RGF3A02UN1aVAX1SLuQ"
+      },
+      "artists": [
+        {
+          "name": "rusowsky",
+          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
+        }
+      ],
+      "duration_ms": 206184,
+      "name": "(ecco)",
+      "url": "https://open.spotify.com/track/6MNpKQBu98xOz5LpPQjyrU"
+    },
+    {
+      "added_at": "2026-05-01 04:02:25",
+      "album": {
         "name": "TANTO TANTO",
         "url": "https://open.spotify.com/album/7JQ2W78F3nUzUYTdiThV53"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 240000,
       "name": "TANTO TANTO",
       "url": "https://open.spotify.com/track/6ALHw0J3sXfvcdDhli6xPe"
-    },
-    {
-      "added_at": "2026-05-01 04:02:25",
-      "album": {
-        "name": "DAISY",
-        "url": "https://open.spotify.com/album/0o1RGF3A02UN1aVAX1SLuQ"
-      },
-      "artists": [
-        {
-          "name": "rusowsky",
-          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
-        }
-      ],
-      "duration_ms": 206184,
-      "name": "(ecco)",
-      "url": "https://open.spotify.com/track/6MNpKQBu98xOz5LpPQjyrU"
     },
     {
       "added_at": "2026-05-01 04:02:25",
@@ -1035,62 +1035,6 @@
     {
       "added_at": "2026-05-01 04:02:25",
       "album": {
-        "name": "FULL TIME",
-        "url": "https://open.spotify.com/album/4Ruhef6h9LJpYPxAXxckx9"
-      },
-      "artists": [
-        {
-          "name": "Marc Segu\u00ed",
-          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
-        },
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        }
-      ],
-      "duration_ms": 174764,
-      "name": "FULL TIME",
-      "url": "https://open.spotify.com/track/0PY1qmeW7TlrvMQIRTIbZp"
-    },
-    {
-      "added_at": "2026-05-01 04:02:25",
-      "album": {
-        "name": "My Baby Doesn't Love Me",
-        "url": "https://open.spotify.com/album/016ujsAQMbZddpkaEacp3x"
-      },
-      "artists": [
-        {
-          "name": "Lucianeka",
-          "url": "https://open.spotify.com/artist/6qlZ5BlB9CTm12NtjpWosx"
-        },
-        {
-          "name": "Lui5",
-          "url": "https://open.spotify.com/artist/0gfBmg53uxgAVNEDB23X5n"
-        }
-      ],
-      "duration_ms": 209142,
-      "name": "My Baby Doesn't Love Me",
-      "url": "https://open.spotify.com/track/4B6rEAFf9J4OddHNRApbma"
-    },
-    {
-      "added_at": "2026-05-01 04:02:25",
-      "album": {
-        "name": "otro d\u00eda m\u00e1s",
-        "url": "https://open.spotify.com/album/471YuJRVMB6FkBZSQXlTeJ"
-      },
-      "artists": [
-        {
-          "name": "MAGNA",
-          "url": "https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF"
-        }
-      ],
-      "duration_ms": 151264,
-      "name": "otro d\u00eda m\u00e1s",
-      "url": "https://open.spotify.com/track/0MZNQzcqeGylshOBZxoKie"
-    },
-    {
-      "added_at": "2026-05-01 04:02:25",
-      "album": {
         "name": "BARBIE",
         "url": "https://open.spotify.com/album/3TinbkrnP1G8QTZvD67PLz"
       },
@@ -1111,6 +1055,62 @@
       "duration_ms": 207096,
       "name": "BARBIE",
       "url": "https://open.spotify.com/track/3JmqKgkmWzwfM8W600UCIy"
+    },
+    {
+      "added_at": "2026-05-01 04:02:25",
+      "album": {
+        "name": "FULL TIME",
+        "url": "https://open.spotify.com/album/4Ruhef6h9LJpYPxAXxckx9"
+      },
+      "artists": [
+        {
+          "name": "Marc Segu\u00ed",
+          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
+        },
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        }
+      ],
+      "duration_ms": 174764,
+      "name": "FULL TIME",
+      "url": "https://open.spotify.com/track/0PY1qmeW7TlrvMQIRTIbZp"
+    },
+    {
+      "added_at": "2026-05-01 04:02:25",
+      "album": {
+        "name": "otro d\u00eda m\u00e1s",
+        "url": "https://open.spotify.com/album/471YuJRVMB6FkBZSQXlTeJ"
+      },
+      "artists": [
+        {
+          "name": "MAGNA",
+          "url": "https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF"
+        }
+      ],
+      "duration_ms": 151264,
+      "name": "otro d\u00eda m\u00e1s",
+      "url": "https://open.spotify.com/track/0MZNQzcqeGylshOBZxoKie"
+    },
+    {
+      "added_at": "2026-05-01 04:02:25",
+      "album": {
+        "name": "My Baby Doesn't Love Me",
+        "url": "https://open.spotify.com/album/016ujsAQMbZddpkaEacp3x"
+      },
+      "artists": [
+        {
+          "name": "Lucianeka",
+          "url": "https://open.spotify.com/artist/6qlZ5BlB9CTm12NtjpWosx"
+        },
+        {
+          "name": "Lui5",
+          "url": "https://open.spotify.com/artist/0gfBmg53uxgAVNEDB23X5n"
+        }
+      ],
+      "duration_ms": 209142,
+      "name": "My Baby Doesn't Love Me",
+      "url": "https://open.spotify.com/track/4B6rEAFf9J4OddHNRApbma"
     },
     {
       "added_at": "2026-05-01 04:02:25",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2026-05-01 04:02:25",
       "album": {
+        "name": "OK.",
+        "url": "https://open.spotify.com/album/0AANQfneLU0IRecx5ORTR4"
+      },
+      "artists": [
+        {
+          "name": "ROBI",
+          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
+        }
+      ],
+      "duration_ms": 156794,
+      "name": "OK.",
+      "url": "https://open.spotify.com/track/7EecUGxRZUTQI6nnm1sMbj"
+    },
+    {
+      "added_at": "2026-05-01 04:02:25",
+      "album": {
         "name": "Mil Noches",
         "url": "https://open.spotify.com/album/1UAZW8Tx2rBGn5AZwl0pjF"
       },
@@ -1179,18 +1195,18 @@
     {
       "added_at": "2026-05-01 04:02:25",
       "album": {
-        "name": "OK.",
-        "url": "https://open.spotify.com/album/0AANQfneLU0IRecx5ORTR4"
+        "name": "En Tercera Persona",
+        "url": "https://open.spotify.com/album/0MqVHSORj4pxurPL2VYuKT"
       },
       "artists": [
         {
-          "name": "ROBI",
-          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
+          "name": "More",
+          "url": "https://open.spotify.com/artist/0vLXnXSAplgnptyE3jKnpi"
         }
       ],
-      "duration_ms": 156794,
-      "name": "OK.",
-      "url": "https://open.spotify.com/track/7EecUGxRZUTQI6nnm1sMbj"
+      "duration_ms": 211435,
+      "name": "En Tercera Persona",
+      "url": "https://open.spotify.com/track/3qCHZJdMbtIzyQiTqClp4n"
     },
     {
       "added_at": "2026-05-01 04:02:25",
@@ -1211,22 +1227,6 @@
       "duration_ms": 182167,
       "name": "Menina",
       "url": "https://open.spotify.com/track/385rwIlMfOkq2xOEKHarqh"
-    },
-    {
-      "added_at": "2026-05-01 04:02:25",
-      "album": {
-        "name": "En Tercera Persona",
-        "url": "https://open.spotify.com/album/0MqVHSORj4pxurPL2VYuKT"
-      },
-      "artists": [
-        {
-          "name": "More",
-          "url": "https://open.spotify.com/artist/0vLXnXSAplgnptyE3jKnpi"
-        }
-      ],
-      "duration_ms": 211435,
-      "name": "En Tercera Persona",
-      "url": "https://open.spotify.com/track/3qCHZJdMbtIzyQiTqClp4n"
     },
     {
       "added_at": "2026-05-01 04:02:25",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2026-05-01 04:02:25",
       "album": {
+        "name": "ColdS3x",
+        "url": "https://open.spotify.com/album/7s1ODT1foSajGhpwGAslFA"
+      },
+      "artists": [
+        {
+          "name": "LA GURU",
+          "url": "https://open.spotify.com/artist/5t4bsXVxbRW0nxuCPuNuxz"
+        }
+      ],
+      "duration_ms": 190084,
+      "name": "ColdS3x",
+      "url": "https://open.spotify.com/track/7uiCWibg26j4fe51KUa0ZZ"
+    },
+    {
+      "added_at": "2026-05-01 04:02:25",
+      "album": {
         "name": "PRISIONERO PERFECTO",
         "url": "https://open.spotify.com/album/1iZUvTbyBqeHSX1L7X2rBf"
       },
@@ -1391,18 +1407,18 @@
     {
       "added_at": "2026-05-01 04:02:25",
       "album": {
-        "name": "ColdS3x",
-        "url": "https://open.spotify.com/album/7s1ODT1foSajGhpwGAslFA"
+        "name": "Se Amaba As\u00ed",
+        "url": "https://open.spotify.com/album/6oH9zF3t0iy2WhxLXwHrZK"
       },
       "artists": [
         {
-          "name": "LA GURU",
-          "url": "https://open.spotify.com/artist/5t4bsXVxbRW0nxuCPuNuxz"
+          "name": "Buscabulla",
+          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
         }
       ],
-      "duration_ms": 190084,
-      "name": "ColdS3x",
-      "url": "https://open.spotify.com/track/7uiCWibg26j4fe51KUa0ZZ"
+      "duration_ms": 194973,
+      "name": "Miraverah\u00ed",
+      "url": "https://open.spotify.com/track/1SAXS6YuktTyNF39cADeU9"
     },
     {
       "added_at": "2026-05-01 04:02:25",
@@ -1427,18 +1443,22 @@
     {
       "added_at": "2026-05-01 04:02:25",
       "album": {
-        "name": "Se Amaba As\u00ed",
-        "url": "https://open.spotify.com/album/6oH9zF3t0iy2WhxLXwHrZK"
+        "name": "Un Castigo",
+        "url": "https://open.spotify.com/album/73hHOb8aSNjaKjgxp2n57h"
       },
       "artists": [
         {
-          "name": "Buscabulla",
-          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
+          "name": "Natalia Lacunza",
+          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
+        },
+        {
+          "name": "Jesse Baez",
+          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
         }
       ],
-      "duration_ms": 194973,
-      "name": "Miraverah\u00ed",
-      "url": "https://open.spotify.com/track/1SAXS6YuktTyNF39cADeU9"
+      "duration_ms": 189580,
+      "name": "Un Castigo",
+      "url": "https://open.spotify.com/track/7EmcbgQbWJhn06t8gHckgX"
     },
     {
       "added_at": "2026-05-01 04:02:25",
@@ -1463,22 +1483,22 @@
     {
       "added_at": "2026-05-01 04:02:25",
       "album": {
-        "name": "Un Castigo",
-        "url": "https://open.spotify.com/album/73hHOb8aSNjaKjgxp2n57h"
+        "name": "Alone In Roma (feat. French Braids)",
+        "url": "https://open.spotify.com/album/0phNiAwsxluRkaQkzdzIPW"
       },
       "artists": [
         {
-          "name": "Natalia Lacunza",
-          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
+          "name": "Paco Versailles",
+          "url": "https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW"
         },
         {
-          "name": "Jesse Baez",
-          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
+          "name": "French Braids",
+          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
         }
       ],
-      "duration_ms": 189580,
-      "name": "Un Castigo",
-      "url": "https://open.spotify.com/track/7EmcbgQbWJhn06t8gHckgX"
+      "duration_ms": 207557,
+      "name": "Alone In Roma (feat. French Braids)",
+      "url": "https://open.spotify.com/track/0HYHy6kaZ8ospkqYOeYLYw"
     },
     {
       "added_at": "2026-05-01 04:02:25",
@@ -1503,22 +1523,18 @@
     {
       "added_at": "2026-05-01 04:02:25",
       "album": {
-        "name": "Alone In Roma (feat. French Braids)",
-        "url": "https://open.spotify.com/album/0phNiAwsxluRkaQkzdzIPW"
+        "name": "cruz",
+        "url": "https://open.spotify.com/album/5SQWT4ckCwTAsQx5JQPL1U"
       },
       "artists": [
         {
-          "name": "Paco Versailles",
-          "url": "https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW"
-        },
-        {
-          "name": "French Braids",
-          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
+          "name": "MAGNA",
+          "url": "https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF"
         }
       ],
-      "duration_ms": 207557,
-      "name": "Alone In Roma (feat. French Braids)",
-      "url": "https://open.spotify.com/track/0HYHy6kaZ8ospkqYOeYLYw"
+      "duration_ms": 244356,
+      "name": "cruz",
+      "url": "https://open.spotify.com/track/6vZgsNY09pbOhjHEjWd3Wf"
     },
     {
       "added_at": "2026-05-01 04:02:25",
@@ -1535,22 +1551,6 @@
       "duration_ms": 165529,
       "name": "Ecos",
       "url": "https://open.spotify.com/track/6OcofGGF5dzeql46GJbG3k"
-    },
-    {
-      "added_at": "2026-05-01 04:02:25",
-      "album": {
-        "name": "cruz",
-        "url": "https://open.spotify.com/album/5SQWT4ckCwTAsQx5JQPL1U"
-      },
-      "artists": [
-        {
-          "name": "MAGNA",
-          "url": "https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF"
-        }
-      ],
-      "duration_ms": 244356,
-      "name": "cruz",
-      "url": "https://open.spotify.com/track/6vZgsNY09pbOhjHEjWd3Wf"
     },
     {
       "added_at": "2026-05-01 04:02:25",

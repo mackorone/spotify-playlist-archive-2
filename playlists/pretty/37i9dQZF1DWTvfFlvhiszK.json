@@ -1,6 +1,6 @@
 {
   "description": "Old school jams to kick nostalgia up a notch. ",
-  "num_followers": 22099,
+  "num_followers": 22102,
   "original_name": "Ghana Throwback Party ",
   "owner": {
     "name": "Spotify",
@@ -147,22 +147,6 @@
     {
       "added_at": "2026-03-16 11:45:06",
       "album": {
-        "name": "Thanks Giving",
-        "url": "https://open.spotify.com/album/373gb0j44PcEDNnvZeDn6s"
-      },
-      "artists": [
-        {
-          "name": "Bisa Kdei",
-          "url": "https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc"
-        }
-      ],
-      "duration_ms": 220020,
-      "name": "Azonto Ghost",
-      "url": "https://open.spotify.com/track/0ygTK8RCFVhyOKUNG1n4jz"
-    },
-    {
-      "added_at": "2026-03-16 11:45:06",
-      "album": {
         "name": "Ultimate Classics, Vol. 1",
         "url": "https://open.spotify.com/album/0nNcFT8sn4ljkpKvgfxkTi"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 322481,
       "name": "Still I Love You",
       "url": "https://open.spotify.com/track/0uzIDaIXThW4Jg5hRbsufj"
+    },
+    {
+      "added_at": "2026-03-16 11:45:06",
+      "album": {
+        "name": "Thanks Giving",
+        "url": "https://open.spotify.com/album/373gb0j44PcEDNnvZeDn6s"
+      },
+      "artists": [
+        {
+          "name": "Bisa Kdei",
+          "url": "https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc"
+        }
+      ],
+      "duration_ms": 220020,
+      "name": "Azonto Ghost",
+      "url": "https://open.spotify.com/track/0ygTK8RCFVhyOKUNG1n4jz"
     },
     {
       "added_at": "2026-03-16 11:45:06",

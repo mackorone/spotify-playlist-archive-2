@@ -1,12 +1,12 @@
 {
   "description": "This is Yeah Yeah Yeahs. The essential tracks, all in one playlist.",
-  "num_followers": 54152,
+  "num_followers": 54164,
   "original_name": "This Is Yeah Yeah Yeahs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afaQAAAAAABkmpDwbA/icce9NqgkA7DL",
+  "snapshot_id": "affhgAAAAAD5Kt+BYRzoFMiIr7kOOANm",
   "tracks": [
     {
       "added_at": null,
@@ -563,8 +563,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "IS IS",
-        "url": "https://open.spotify.com/album/6wt9UTlj4kyhYyyLlWDDSi"
+        "name": "It's Blitz! (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2SIaQf1NRVarE8HDX5j8zG"
       },
       "artists": [
         {
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
         }
       ],
-      "duration_ms": 224133,
-      "name": "10 x 10",
-      "url": "https://open.spotify.com/track/0xaSl0JwnQXUYPG0rtDCda"
+      "duration_ms": 242080,
+      "name": "Dragon Queen",
+      "url": "https://open.spotify.com/track/1ek6eqeBi1u72pUpDi37oF"
     },
     {
       "added_at": null,
@@ -591,6 +591,22 @@
       "duration_ms": 258533,
       "name": "Under The Earth",
       "url": "https://open.spotify.com/track/4NVRAFB9Xkpluo3Iq5GeEO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "IS IS",
+        "url": "https://open.spotify.com/album/6wt9UTlj4kyhYyyLlWDDSi"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "duration_ms": 224133,
+      "name": "10 x 10",
+      "url": "https://open.spotify.com/track/0xaSl0JwnQXUYPG0rtDCda"
     },
     {
       "added_at": null,
@@ -623,22 +639,6 @@
       "duration_ms": 145666,
       "name": "Honeybear",
       "url": "https://open.spotify.com/track/4UZtZ5EV1f1GbvWgee28J7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "It's Blitz! (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2SIaQf1NRVarE8HDX5j8zG"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        }
-      ],
-      "duration_ms": 242080,
-      "name": "Dragon Queen",
-      "url": "https://open.spotify.com/track/1ek6eqeBi1u72pUpDi37oF"
     },
     {
       "added_at": null,

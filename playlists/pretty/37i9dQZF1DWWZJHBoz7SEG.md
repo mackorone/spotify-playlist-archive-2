@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Puentecito para disfrutar toda la musica nueva de este finde ⭐️ Alvaro Diaz y LATIN MAFIA en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,173,787 likes - 80 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,173,767 likes - 80 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 41 | [CALMADITO](https://open.spotify.com/track/4keEk3jyVD2ZE9RN1K9qIa) | [Alex Torres](https://open.spotify.com/artist/70u0ytxL7TpF1Kdc2HFyM2), [Juanpa Salazar](https://open.spotify.com/artist/6r92NGrlnmNvFJA9Kl0PAx) | [CALMADITO](https://open.spotify.com/album/1c2FE3ghraOYTEI9S7jWPW) | 2:41 |
 | 42 | [El Adolorido](https://open.spotify.com/track/1MDYoj4ERifgpnbPUC23UV) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [El Adolorido](https://open.spotify.com/album/3T3xq8SmOK1OpNWaL9US9M) | 3:07 |
 | 43 | [Mil Años Más](https://open.spotify.com/track/4kBnSC1rppIhXj9ZaftbCT) | [Luis Mexia](https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC) | [Mil Años Más](https://open.spotify.com/album/4eEMoFt5WKqJNOmL0ALqRB) | 3:14 |
-| 44 | [Fuego Azul](https://open.spotify.com/track/1qBXIowcVO9kZ0C4cD8CLK) | [Under Side 821](https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1), [Richard Ahumada](https://open.spotify.com/artist/4oR06FdpsOJTcTnOkSzUsC) | [Fuego Azul](https://open.spotify.com/album/4AKAJlQMHgAp2eqrbGhyp7) | 6:00 |
+| 44 | [Fuego Azul](https://open.spotify.com/track/1qBXIowcVO9kZ0C4cD8CLK) | [Under Side 821](https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1), [Richard Ahumada](https://open.spotify.com/artist/4oR06FdpsOJTcTnOkSzUsC), [Pablito Calavera](https://open.spotify.com/artist/2TH4NXRgjM7vIW76o7pbas) | [Fuego Azul](https://open.spotify.com/album/4AKAJlQMHgAp2eqrbGhyp7) | 6:00 |
 | 45 | [Punching the Flowers](https://open.spotify.com/track/56es3ImztwXSwpYmtS6c4A) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Punching the Flowers](https://open.spotify.com/album/7M1MydZE4a34uIo3iQrthu) | 3:11 |
 | 46 | [Quizás](https://open.spotify.com/track/0Q0QgkuN6QE4ryU4wvlMLy) | [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1) | [Botellas En La Banqueta y Un Corazón Herido](https://open.spotify.com/album/37TRdrlnuAOvMxUOur1ILs) | 3:18 |
 | 47 | [Naturalita](https://open.spotify.com/track/6uVXyLrhgveo67VbraCd9T) | [Josi Cuen](https://open.spotify.com/artist/5nhpUbjd9KtuE0vi67czgY), [Jorge Medina](https://open.spotify.com/artist/4uZP9vHYfFu3DW9ywwtLpf), [Jorge Celedón](https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek) | [Naturalita](https://open.spotify.com/album/0gngiOzOmm4SEVKDHXpVUh) | 3:03 |

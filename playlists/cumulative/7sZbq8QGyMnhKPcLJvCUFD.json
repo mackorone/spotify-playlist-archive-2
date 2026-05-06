@@ -753,6 +753,24 @@
     },
     {
       "album": {
+        "name": "Anesthesia",
+        "url": "https://open.spotify.com/album/1Smq4kS6r9vZRAvD9u5dxp"
+      },
+      "artists": [
+        {
+          "name": "Oxlo",
+          "url": "https://open.spotify.com/artist/7HwebOTQA4h0tCSTQCNKTK"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86842,
+      "name": "Anesthesia",
+      "url": "https://open.spotify.com/track/1cewsBM8XcwWrTWbzfGUlH"
+    },
+    {
+      "album": {
         "name": "Annabelle's Tea Party",
         "url": "https://open.spotify.com/album/0G2m4IHWmXSqKQFSPnQN24"
       },

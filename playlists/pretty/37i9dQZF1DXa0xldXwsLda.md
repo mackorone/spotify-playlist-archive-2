@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa0xldXwsLda.md) - [plain]
 
 > ¡Puro sabor con Thalía en portada! 🌺
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,022 likes - 75 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 235,027 likes - 75 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa0xldXwsLda.md) - [plain]
 | 25 | [LELELELELELE](https://open.spotify.com/track/5OeZGrFoJWm86V9LnsAM9V) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Vivo En El Tiempo \(ama\)](https://open.spotify.com/album/4vJdLNihwxvQI519SpBAMw) | 2:48 |
 | 26 | [Ximenita](https://open.spotify.com/track/3fdqrllIUypbdGv4x8GpXX) | [La Coreañera](https://open.spotify.com/artist/74XNnqjblniM4XXlcJFak7) | [Ximenita](https://open.spotify.com/album/3vWkXbHqZB5VmFMrBYjTk4) | 3:00 |
 | 27 | [Prieta de mi vida](https://open.spotify.com/track/5EKUqcrfBuhjpDkB8YD3B4) | [Los Mirlos](https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Prieta de mi vida](https://open.spotify.com/album/0ooPiGHHX9NSDjSVKHBvtV) | 2:38 |
-| 28 | [DESPEDIDA](https://open.spotify.com/track/4pTsCmLk3zEOSxjmznXVNI) | [Paco Miranda](https://open.spotify.com/artist/4ZzZixQllksRxAY79YoLOo), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [DESPEDIDA](https://open.spotify.com/album/3EpvmjKJlGBOwcSv2p4wVb) | 3:33 |
+| 28 | [DESPEDIDA](https://open.spotify.com/track/4pTsCmLk3zEOSxjmznXVNI) | [Paco Miranda](https://open.spotify.com/artist/4ZzZixQllksRxAY79YoLOo), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [DESPEDIDA](https://open.spotify.com/album/3EpvmjKJlGBOwcSv2p4wVb) | 3:36 |
 | 29 | [Timelapse de Sol](https://open.spotify.com/track/2kUA7nwy2cSFygzs43ngMu) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [JuanesTeban](https://open.spotify.com/album/5iAsaLrEdtuC40rR2LbgbU) | 3:05 |
 | 30 | [El Pacto](https://open.spotify.com/track/0tUJwCdSzXzHJaarIEm5pN) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [El Pacto](https://open.spotify.com/album/5z91VerhktfjoCowldQlno) | 2:52 |
 | 31 | [Chandiablo](https://open.spotify.com/track/2OE88W4xixUy3JIymuop2l) | [Paracho](https://open.spotify.com/artist/7D4iF6hpzFDQK18HcERgUc) | [Chandiablo](https://open.spotify.com/album/7pO8FvHomcCTxgzZxKLcgK) | 3:19 |

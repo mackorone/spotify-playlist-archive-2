@@ -1,6 +1,6 @@
 {
   "description": "The best Canadian songs of the month, handpicked by Spotify Canada editors. Cover: Angine de Poitrine",
-  "num_followers": 1440,
+  "num_followers": 1468,
   "original_name": "Editors' Picks: Best Canadian Songs of April",
   "owner": {
     "name": "Spotify",
@@ -79,6 +79,22 @@
     {
       "added_at": "2026-05-01 04:04:33",
       "album": {
+        "name": "I'll Let You Finish",
+        "url": "https://open.spotify.com/album/7HOR1xOpbfjfOinjMqKv2L"
+      },
+      "artists": [
+        {
+          "name": "Finn Wolfhard",
+          "url": "https://open.spotify.com/artist/2nmWcAqQtfgNp8Kpixa2CG"
+        }
+      ],
+      "duration_ms": 234055,
+      "name": "I'll Let You Finish",
+      "url": "https://open.spotify.com/track/4rie7uUf3XRgxK92tAMjCt"
+    },
+    {
+      "added_at": "2026-05-01 04:04:33",
+      "album": {
         "name": "Bother Me (feat. Victony)",
         "url": "https://open.spotify.com/album/7svkXljH25hpPavMawyyb2"
       },
@@ -119,22 +135,6 @@
       "duration_ms": 209070,
       "name": "ELECTRIC CIRCUS",
       "url": "https://open.spotify.com/track/0IKpUoJz9bvL6rclPF2qeB"
-    },
-    {
-      "added_at": "2026-05-01 04:04:33",
-      "album": {
-        "name": "I'll Let You Finish",
-        "url": "https://open.spotify.com/album/7HOR1xOpbfjfOinjMqKv2L"
-      },
-      "artists": [
-        {
-          "name": "Finn Wolfhard",
-          "url": "https://open.spotify.com/artist/2nmWcAqQtfgNp8Kpixa2CG"
-        }
-      ],
-      "duration_ms": 234055,
-      "name": "I'll Let You Finish",
-      "url": "https://open.spotify.com/track/4rie7uUf3XRgxK92tAMjCt"
     },
     {
       "added_at": "2026-05-01 04:04:33",
@@ -243,6 +243,26 @@
     {
       "added_at": "2026-05-01 04:04:33",
       "album": {
+        "name": "AMi Vol. 1",
+        "url": "https://open.spotify.com/album/4yZVkEpL1rV8n4KmSINpYb"
+      },
+      "artists": [
+        {
+          "name": "CRi",
+          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
+        },
+        {
+          "name": "Miette Hope",
+          "url": "https://open.spotify.com/artist/4K61UysqQc1VRj8VsY76Qw"
+        }
+      ],
+      "duration_ms": 250533,
+      "name": "Outline",
+      "url": "https://open.spotify.com/track/2Eb6bBgGcVm83xjI2IaTlr"
+    },
+    {
+      "added_at": "2026-05-01 04:04:33",
+      "album": {
         "name": "Strangers",
         "url": "https://open.spotify.com/album/3btOASnrHiiMAsGX9MOFO6"
       },
@@ -255,6 +275,22 @@
       "duration_ms": 199933,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/5ligHUBfOzXx0kv8QXRbQ0"
+    },
+    {
+      "added_at": "2026-05-01 04:04:33",
+      "album": {
+        "name": "SUGAR WATER",
+        "url": "https://open.spotify.com/album/7bL5SEk32HW0e6WxePXWcZ"
+      },
+      "artists": [
+        {
+          "name": "THEHONESTGUY",
+          "url": "https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt"
+        }
+      ],
+      "duration_ms": 190248,
+      "name": "SUGAR WATER",
+      "url": "https://open.spotify.com/track/6zkoIozGGyFgk3EIAIs6oF"
     },
     {
       "added_at": "2026-05-01 04:04:33",
@@ -283,26 +319,6 @@
     {
       "added_at": "2026-05-01 04:04:33",
       "album": {
-        "name": "AMi Vol. 1",
-        "url": "https://open.spotify.com/album/4yZVkEpL1rV8n4KmSINpYb"
-      },
-      "artists": [
-        {
-          "name": "CRi",
-          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
-        },
-        {
-          "name": "Miette Hope",
-          "url": "https://open.spotify.com/artist/4K61UysqQc1VRj8VsY76Qw"
-        }
-      ],
-      "duration_ms": 250533,
-      "name": "Outline",
-      "url": "https://open.spotify.com/track/2Eb6bBgGcVm83xjI2IaTlr"
-    },
-    {
-      "added_at": "2026-05-01 04:04:33",
-      "album": {
         "name": "lemonlime",
         "url": "https://open.spotify.com/album/4Wx1qHpwOLTt96L8I0Kt3u"
       },
@@ -315,6 +331,22 @@
       "duration_ms": 205000,
       "name": "lemonlime",
       "url": "https://open.spotify.com/track/68utYAhxFqE4xK7cmObExo"
+    },
+    {
+      "added_at": "2026-05-01 04:04:33",
+      "album": {
+        "name": "All Day",
+        "url": "https://open.spotify.com/album/0zJrpG5MSBZ2qAiTYRFGmQ"
+      },
+      "artists": [
+        {
+          "name": "Jayda G",
+          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
+        }
+      ],
+      "duration_ms": 137682,
+      "name": "All Day",
+      "url": "https://open.spotify.com/track/20uABzxxuEjNVbMYgHUPa6"
     },
     {
       "added_at": "2026-05-01 04:04:33",
@@ -335,34 +367,18 @@
     {
       "added_at": "2026-05-01 04:04:33",
       "album": {
-        "name": "SUGAR WATER",
-        "url": "https://open.spotify.com/album/7bL5SEk32HW0e6WxePXWcZ"
+        "name": "HOME WAS ALWAYS ME",
+        "url": "https://open.spotify.com/album/3LjjkS2s2b2RdluM00NWLD"
       },
       "artists": [
         {
-          "name": "THEHONESTGUY",
-          "url": "https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt"
+          "name": "WHIPPED CREAM",
+          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
         }
       ],
-      "duration_ms": 190248,
-      "name": "SUGAR WATER",
-      "url": "https://open.spotify.com/track/6zkoIozGGyFgk3EIAIs6oF"
-    },
-    {
-      "added_at": "2026-05-01 04:04:33",
-      "album": {
-        "name": "All Day",
-        "url": "https://open.spotify.com/album/0zJrpG5MSBZ2qAiTYRFGmQ"
-      },
-      "artists": [
-        {
-          "name": "Jayda G",
-          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
-        }
-      ],
-      "duration_ms": 137682,
-      "name": "All Day",
-      "url": "https://open.spotify.com/track/20uABzxxuEjNVbMYgHUPa6"
+      "duration_ms": 137538,
+      "name": "midnight moon",
+      "url": "https://open.spotify.com/track/5fu8pfEsXXA9mY0F9grAce"
     },
     {
       "added_at": "2026-05-01 04:04:33",
@@ -411,22 +427,6 @@
       "duration_ms": 166360,
       "name": "Almost Over",
       "url": "https://open.spotify.com/track/1nGFesHICoTP5VVsnaKYJ5"
-    },
-    {
-      "added_at": "2026-05-01 04:04:33",
-      "album": {
-        "name": "HOME WAS ALWAYS ME",
-        "url": "https://open.spotify.com/album/3LjjkS2s2b2RdluM00NWLD"
-      },
-      "artists": [
-        {
-          "name": "WHIPPED CREAM",
-          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
-        }
-      ],
-      "duration_ms": 137538,
-      "name": "midnight moon",
-      "url": "https://open.spotify.com/track/5fu8pfEsXXA9mY0F9grAce"
     },
     {
       "added_at": "2026-05-01 04:04:33",
@@ -571,22 +571,6 @@
     {
       "added_at": "2026-05-01 04:04:33",
       "album": {
-        "name": "Oh, Ana",
-        "url": "https://open.spotify.com/album/7h9mJCFBWhaRdWHm28xIME"
-      },
-      "artists": [
-        {
-          "name": "Dominique Way",
-          "url": "https://open.spotify.com/artist/5kROZ1F7ExRZyFnHvKdlJ7"
-        }
-      ],
-      "duration_ms": 192600,
-      "name": "Oh, Ana",
-      "url": "https://open.spotify.com/track/46G3dLvPYBjRB5WzyvWr32"
-    },
-    {
-      "added_at": "2026-05-01 04:04:33",
-      "album": {
         "name": "Le Roi de la montagne",
         "url": "https://open.spotify.com/album/4NdkaHhwYRFsMrk4HYEngI"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 204311,
       "name": "Second Hand",
       "url": "https://open.spotify.com/track/2QyBcS4FwJAnqyG4jDpfF5"
+    },
+    {
+      "added_at": "2026-05-01 04:04:33",
+      "album": {
+        "name": "Oh, Ana",
+        "url": "https://open.spotify.com/album/7h9mJCFBWhaRdWHm28xIME"
+      },
+      "artists": [
+        {
+          "name": "Dominique Way",
+          "url": "https://open.spotify.com/artist/5kROZ1F7ExRZyFnHvKdlJ7"
+        }
+      ],
+      "duration_ms": 192600,
+      "name": "Oh, Ana",
+      "url": "https://open.spotify.com/track/46G3dLvPYBjRB5WzyvWr32"
     },
     {
       "added_at": "2026-05-01 04:04:33",
@@ -751,22 +751,6 @@
     {
       "added_at": "2026-05-01 04:04:33",
       "album": {
-        "name": "Alexander Mure's Songs in the Key of C-Minus!",
-        "url": "https://open.spotify.com/album/04GJJ7V0sBgkRREWsBJHZf"
-      },
-      "artists": [
-        {
-          "name": "Mah Moud",
-          "url": "https://open.spotify.com/artist/5GrZNbHTzxnbHge9Ytafdf"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Milkman",
-      "url": "https://open.spotify.com/track/6HoUzmc0wu7zjKgjnKKTLX"
-    },
-    {
-      "added_at": "2026-05-01 04:04:33",
-      "album": {
         "name": "I WANNA DANCE",
         "url": "https://open.spotify.com/album/0ERprW5OlF990S05xy6TEs"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 151392,
       "name": "I WANNA DANCE",
       "url": "https://open.spotify.com/track/7meRbdhGSL33VwsUK9P2mB"
+    },
+    {
+      "added_at": "2026-05-01 04:04:33",
+      "album": {
+        "name": "Alexander Mure's Songs in the Key of C-Minus!",
+        "url": "https://open.spotify.com/album/04GJJ7V0sBgkRREWsBJHZf"
+      },
+      "artists": [
+        {
+          "name": "Mah Moud",
+          "url": "https://open.spotify.com/artist/5GrZNbHTzxnbHge9Ytafdf"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Milkman",
+      "url": "https://open.spotify.com/track/6HoUzmc0wu7zjKgjnKKTLX"
     },
     {
       "added_at": "2026-05-01 04:04:33",
@@ -799,22 +799,6 @@
     {
       "added_at": "2026-05-01 04:04:33",
       "album": {
-        "name": "Same Life",
-        "url": "https://open.spotify.com/album/46mxte5lGijXlFCWSksOfu"
-      },
-      "artists": [
-        {
-          "name": "GUS",
-          "url": "https://open.spotify.com/artist/3SdiTECGpryAOC4TKsA2ij"
-        }
-      ],
-      "duration_ms": 198532,
-      "name": "Same Life",
-      "url": "https://open.spotify.com/track/10KS3LMV89Agd6NBLfnvHO"
-    },
-    {
-      "added_at": "2026-05-01 04:04:33",
-      "album": {
         "name": "Que ta lumi\u00e8re",
         "url": "https://open.spotify.com/album/6s980Fk6p3ZTq8obc8QWVO"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 232319,
       "name": "Que ta lumi\u00e8re",
       "url": "https://open.spotify.com/track/7HnHrPmhNbpj7Dim9MhoiD"
+    },
+    {
+      "added_at": "2026-05-01 04:04:33",
+      "album": {
+        "name": "Same Life",
+        "url": "https://open.spotify.com/album/46mxte5lGijXlFCWSksOfu"
+      },
+      "artists": [
+        {
+          "name": "GUS",
+          "url": "https://open.spotify.com/artist/3SdiTECGpryAOC4TKsA2ij"
+        }
+      ],
+      "duration_ms": 198532,
+      "name": "Same Life",
+      "url": "https://open.spotify.com/track/10KS3LMV89Agd6NBLfnvHO"
     },
     {
       "added_at": "2026-05-01 04:04:33",

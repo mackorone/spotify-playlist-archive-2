@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnPyeao7oY.md) - [plain]
 
 > New music by the heaviest independent artists and labels every Wednesday\. Cover: PINKNOISE
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,857 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,895 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnPyeao7oY.md) - [plain]
 | 11 | [I Thought I Could Hide But You Caught Me](https://open.spotify.com/track/6pji5EIeAjw7gdoFPJO8tK) | [LOVELOST](https://open.spotify.com/artist/4Ty1GcAd0AQ6xwuE6P9Zi6) | [I Thought I Could Hide But You Caught Me](https://open.spotify.com/album/3XrjRCydo3E8TqwgNnClw8) | 3:47 |
 | 12 | [Waiting Here](https://open.spotify.com/track/1MnLc6fFKTFkfBuGE0XRgh) | [OHKAYA](https://open.spotify.com/artist/4uhsmjBwCLRupPcYGK5CTg) | [Waiting Here](https://open.spotify.com/album/1dMWBLSNNSG4MS5dZjcfY2) | 5:13 |
 | 13 | [Leech](https://open.spotify.com/track/7t8LIf1JmKKigK3dnrEesY) | [What Lies Below](https://open.spotify.com/artist/65KiNVGu9JSwerZgaDZcdj) | [Leech](https://open.spotify.com/album/4nwevfBEXZ49kbcAbivuo4) | 2:10 |
-| 14 | [Horizon](https://open.spotify.com/track/3mU1u8CWGW0Fom3Jm9o2YY) | [Prince Of Failure](https://open.spotify.com/artist/4m3CUQmjdcjkYYS3MNUBS8), [Daniel Tompkins](https://open.spotify.com/artist/5n5iBDC9dOljWGwj7BrdZt), [Paul Ortiz](https://open.spotify.com/artist/3YDZDmOmdEaywtM8O3HMsa) | [Horizon](https://open.spotify.com/album/0hErd93mwPhw5sGcggVmhK) | 5:07 |
+| 14 | [Horizon](https://open.spotify.com/track/3mU1u8CWGW0Fom3Jm9o2YY) | [Prince Of Failure](https://open.spotify.com/artist/4m3CUQmjdcjkYYS3MNUBS8), [Daniel Tompkins](https://open.spotify.com/artist/5n5iBDC9dOljWGwj7BrdZt), [Paul Ortiz](https://open.spotify.com/artist/3YDZDmOmdEaywtM8O3HMsa), [Kristyn Hope](https://open.spotify.com/artist/5537Jz9oy5neAlivBv5MbU) | [Horizon](https://open.spotify.com/album/0hErd93mwPhw5sGcggVmhK) | 5:07 |
 | 15 | [Gigantic Parasite Tongue](https://open.spotify.com/track/4Bv4jUCR08CSoDQRqhIPdT) | [The Callous Daoboys](https://open.spotify.com/artist/4ZWRLOs7c4drt9mKGc0Ds0) | [Gigantic Parasite Tongue](https://open.spotify.com/album/3Hq9OZHYIsZYrpitjtO9EH) | 4:17 |
 | 16 | [Host](https://open.spotify.com/track/6MP0zsi25mgQafDXkLCUOD) | [Mallavora](https://open.spotify.com/artist/3dHajUmnQ27McFMpZF6IcY) | [What If Better Never Comes?](https://open.spotify.com/album/2PTYhnTJN1NoApOdJ7MdI6) | 3:36 |
 | 17 | [Salade de Phalanges](https://open.spotify.com/track/2zzAvXPkq2PE0raC3AVIGI) | [Kanine](https://open.spotify.com/artist/1u1DkbYSAOpAWeBir7TEUV) | [Khaos](https://open.spotify.com/album/6DsZseUKXLpOi6P94pEExL) | 3:36 |

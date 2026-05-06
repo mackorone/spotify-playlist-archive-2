@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36zsTggrmF8.md) - [plain]
 
 > PUTTY SATIN BLUSH, curated by <a href="https://open.spotify.com/artist/08HQp2HGuXD10o7v6kJiqJ?si=n\-YJoeRsSj2XHTG\_NmkGDQ">Charles Jeffrey</a> 💋 Queer cult classics to post punk jewels and cinematic music that will make you laugh or cry!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,354 likes - 44 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,357 likes - 44 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,6 +51,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36zsTggrmF8.md) - [plain]
 | 41 | [Keys Of Life](https://open.spotify.com/track/5B7IO6k1vM7BrX5m1fA2EP) | [Klaus Nomi](https://open.spotify.com/artist/1uFG5Tg7iA7wd56RchxvWw) | [Klaus Nomi](https://open.spotify.com/album/45nPQ2MnfspUquqmNSfVhd) | 2:27 |
 | 42 | [Speak My Language](https://open.spotify.com/track/66M3khO7OfTOrRUSIOh5Tx) | [Laurie Anderson](https://open.spotify.com/artist/5hqB3Fxgin9YGYa0mIGf1G) | [Bright Red](https://open.spotify.com/album/6b3Ik5hjGBbhR8myjstjOt) | 3:39 |
 | 43 | [Pt\. 1](https://open.spotify.com/track/7kJuDsILYWLnVjYnmwaa6v) | [Simon Fisher Turner](https://open.spotify.com/artist/3rmHfhqEmC3pO89AMSP7Wt) | [The Garden \(Original Soundtrack\)](https://open.spotify.com/album/4hmAP5N12w8CS84ypIjVcY) | 13:14 |
-| 44 | [Adams: Harmonielehre, Pt\. III: Meister Eckhardt and Quackie](https://open.spotify.com/track/096VPgc9LWEPP7PYjNvD6O) | [John Adams](https://open.spotify.com/artist/0SASbHPbp0WqMmW7nWxxt2), [Edo de Waart](https://open.spotify.com/artist/6ZI0A8Ffc8are1mphRfpVl), [San Francisco Symphony](https://open.spotify.com/artist/1qHStDLIc8uV7hvTG6FGRJ) | [I Am Love Soundtrack by John Adams](https://open.spotify.com/album/43Vh13JugrrRbhc3HRyfw7) | 10:34 |
+| 44 | [Adams: Harmonielehre, Pt\. III: Meister Eckhardt and Quackie](https://open.spotify.com/track/096VPgc9LWEPP7PYjNvD6O) | [John Adams](https://open.spotify.com/artist/35OhI7DSls022v9Bz9r0VZ), [Edo de Waart](https://open.spotify.com/artist/6ZI0A8Ffc8are1mphRfpVl), [San Francisco Symphony](https://open.spotify.com/artist/1qHStDLIc8uV7hvTG6FGRJ) | [I Am Love Soundtrack by John Adams](https://open.spotify.com/album/43Vh13JugrrRbhc3HRyfw7) | 10:34 |
 
 Snapshot ID: `AAAAANctibeRWiXAObZm5NMDdmcUXVqz`

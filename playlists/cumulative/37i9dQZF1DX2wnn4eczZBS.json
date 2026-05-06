@@ -475,6 +475,24 @@
     },
     {
       "album": {
+        "name": "Leve de Feeks",
+        "url": "https://open.spotify.com/album/7z3EaiVbSRNOSs3FsXk1Nh"
+      },
+      "artists": [
+        {
+          "name": "MEROL",
+          "url": "https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207292,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/2nMSFMpTUlVK9vnfrOOyoA"
+    },
+    {
+      "album": {
         "name": "Ballenbak",
         "url": "https://open.spotify.com/album/1RVK36HctjM08N9Os1kiqQ"
       },
@@ -2003,6 +2021,28 @@
     },
     {
       "album": {
+        "name": "Honderdduizend graden",
+        "url": "https://open.spotify.com/album/5nfUTRn1vBDuKVOQVKNmlZ"
+      },
+      "artists": [
+        {
+          "name": "Willem",
+          "url": "https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds"
+        },
+        {
+          "name": "Sef",
+          "url": "https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167381,
+      "name": "Honderdduizend graden",
+      "url": "https://open.spotify.com/track/0X4S1jLylEDhgRW0SMHlzi"
+    },
+    {
+      "album": {
         "name": "Hoofd",
         "url": "https://open.spotify.com/album/5XV6LTscTMjMK9EwuqSSJ9"
       },
@@ -3332,7 +3372,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 193855,
       "name": "Melatonine",
       "url": "https://open.spotify.com/track/1SToGBuiseBcTdqw25jMiu"
@@ -3730,7 +3770,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 165210,
       "name": "Niemandsland",
       "url": "https://open.spotify.com/track/7iXUwdWoR4dDwKk85zvcCa"
@@ -4596,7 +4636,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 183333,
       "name": "Skinroutine Bikinilijn",
       "url": "https://open.spotify.com/track/6Q0MNS8ZNeEKDnLgDgoZe2"
@@ -5138,6 +5178,24 @@
       "duration_ms": 258015,
       "name": "Uit Het Oog",
       "url": "https://open.spotify.com/track/05ZXKrj4flHFpkXRhCNJQq"
+    },
+    {
+      "album": {
+        "name": "De Underdog EP",
+        "url": "https://open.spotify.com/album/3ivN33rZC5KNlL8g62rXnq"
+      },
+      "artists": [
+        {
+          "name": "Astronaut",
+          "url": "https://open.spotify.com/artist/2RVA6vsTLzFGZvBzXtXXjn"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167896,
+      "name": "Underdog",
+      "url": "https://open.spotify.com/track/52FO4DLoFdJZfvsgrhixAt"
     },
     {
       "album": {

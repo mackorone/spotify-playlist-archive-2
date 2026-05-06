@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxUz0Ouugmb.md) - [plain]
 
 ### [RADAR Indonesia ](https://open.spotify.com/playlist/37i9dQZF1DWYxUz0Ouugmb)
 
-> Deretan musisi dalam negeri yang patut diantisipasi di 2026\.  Cover: Betrand Putra Onsu
+> Deretan musisi dalam negeri yang patut diantisipasi di 2026\.  Cover: eńau
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,109 likes - 20 songs - 1 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,127 likes - 20 songs - 1 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

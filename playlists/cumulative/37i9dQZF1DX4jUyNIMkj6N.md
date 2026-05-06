@@ -4,7 +4,7 @@
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana.
 
-410 songs - 1 day 0 hr 40 min
+411 songs - 1 day 0 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,7 +162,7 @@
 | [Have This Dance](https://open.spotify.com/track/4csq4gihsVZNrpGmIpaIsF) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ) | [Have This Dance](https://open.spotify.com/album/4zKvZUoXI2dWuHsUdpk3z5) | 3:34 | 2024-02-01 | 2025-03-22 |
 | [Heights](https://open.spotify.com/track/2YSNNFTzq9vWHCyAZIW6xw) | [Plàsi](https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL) | [Heights](https://open.spotify.com/album/1bu1eXnsPH9H98wEtt4d22) | 2:51 | 2025-03-20 |  |
 | [Here Comes The Sun](https://open.spotify.com/track/3qDlYd3hhaWo1xg6AgbzhQ) | [Hush Forever](https://open.spotify.com/artist/5MIIeE6xoDQNqwSMTweWlv) | [Here Comes The Sun](https://open.spotify.com/album/1Uqnmck9tbT6OSQMrW5Stw) | 3:12 | 2023-12-21 | 2024-05-24 |
-| [Hey Judy](https://open.spotify.com/track/4iCE97DfG7KbiVbiXFQUt2) | [Beth McBride](https://open.spotify.com/artist/5pCLyj9brVtNc1UuTeWl73) | [Hey Judy](https://open.spotify.com/album/0pMk1n2uuRifp4jla352aJ) | 3:41 | 2025-10-09 |  |
+| [Hey Judy](https://open.spotify.com/track/4iCE97DfG7KbiVbiXFQUt2) | [Beth McBride](https://open.spotify.com/artist/5pCLyj9brVtNc1UuTeWl73) | [Hey Judy](https://open.spotify.com/album/0pMk1n2uuRifp4jla352aJ) | 3:41 | 2025-10-09 | 2026-05-06 |
 | [Hindsight](https://open.spotify.com/track/1oNhUK7wYAITgmDiAFoKYZ) | [Hafdís Huld](https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5) | [Hindsight](https://open.spotify.com/album/60H5w2fXHEJX2gQjoCCjaQ) | 3:24 | 2024-01-18 | 2024-04-28 |
 | [Holding Hands](https://open.spotify.com/track/4SfqeRYu1yZmEMa0HW1nso) | [Morten Myklebust](https://open.spotify.com/artist/7zFc6IlzgDwyXojYH1GIkI) | [The Sparks Flew Up](https://open.spotify.com/album/5wYo12gI0ZvUSQPCLq2YCm) | 2:33 | 2021-12-02 | 2022-07-17 |
 | [homebound](https://open.spotify.com/track/2390QtVcsiBd50QbKd2s6x) | [SATRE](https://open.spotify.com/artist/0KMIpYnQZYg0rEYMgDd4Hm) | [homebound](https://open.spotify.com/album/2pwEWAxrNUJ9xWqVifLw4C) | 3:24 | 2024-05-02 | 2024-09-12 |
@@ -170,7 +170,7 @@
 | [Homesick](https://open.spotify.com/track/2MTZjX6nfGpXu0tR1AOVou) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Riot On An Empty Street](https://open.spotify.com/album/2AlmzyF5aM1A1Mq9QkwTEI) | 3:13 | 2023-01-26 | 2024-04-19 |
 | [Hometown](https://open.spotify.com/track/7FsuOh45ILYfnT6Z9kbuUg) | [Maren Lein](https://open.spotify.com/artist/5KSwZiOZLgVyZBJya03dpq) | [Hometown](https://open.spotify.com/album/0tY0wD2plh4fIeaGVNR6y7) | 3:01 | 2025-05-22 | 2026-05-01 |
 | [Honey In The Waves](https://open.spotify.com/track/3tSxWyj3XlLqnMCfpzq8Df) | [Alexander Grandjean](https://open.spotify.com/artist/4ltZplYXzDwJi1uFva2PEp) | [Honey In The Waves](https://open.spotify.com/album/4mg7SjpIbWdpdysGU1P8bA) | 4:16 | 2024-02-22 | 2024-10-18 |
-| [Hour Of The Wolf](https://open.spotify.com/track/6Zirl4DI0nDDvhbnX6AYYF) | [Freja Drakenberg](https://open.spotify.com/artist/2SKLZYthHIaik4nPTqcboR), [Freja The Dragon](https://open.spotify.com/artist/78zIVRdVKJ8tl8TTtsC3Ke) | [Hour Of The Wolf](https://open.spotify.com/album/29Sjzrz2LofwS2F0PpZ319) | 2:44 | 2026-03-26 |  |
+| [Hour Of The Wolf](https://open.spotify.com/track/6Zirl4DI0nDDvhbnX6AYYF) | [Freja Drakenberg](https://open.spotify.com/artist/2SKLZYthHIaik4nPTqcboR) | [Hour Of The Wolf](https://open.spotify.com/album/29Sjzrz2LofwS2F0PpZ319) | 2:44 | 2026-03-26 |  |
 | [House by the Sea](https://open.spotify.com/track/0Zj16MTRXtVrASk0ZL3NV0) | [Moddi](https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM) | [Set The House on Fire](https://open.spotify.com/album/6DLxo7BIMDLzsAuLPfbdYP) | 3:38 | 2021-12-02 | 2022-06-10 |
 | [How Can I Know](https://open.spotify.com/track/4WMbHn5MP9t5D1WTmLgHd5) | [Unnveig Aas](https://open.spotify.com/artist/1Oa2BGrI6B0GvKabXDU9Se) | [How Can I Know](https://open.spotify.com/album/6CEfPLzkQ0Qju7dOoDd6sx) | 3:40 | 2022-06-09 | 2022-07-01 |
 | [How long](https://open.spotify.com/track/65dGvhhSg65PUUpTTJdwIb) | [Joel Sundkvist](https://open.spotify.com/artist/7uuTT33JCupBqe9tB9CZUM), [Arüna](https://open.spotify.com/artist/3wxpakEyvBC9NXree33C3Z) | [How long](https://open.spotify.com/album/1jwBRA70U1w5cGfZdajTfS) | 2:48 | 2025-04-03 | 2025-09-19 |
@@ -282,6 +282,7 @@
 | [River \- Live](https://open.spotify.com/track/5gXUVnYtalAWVScaiw3Vmq) | [Darling West](https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY) | [Live 2020](https://open.spotify.com/album/3MfrdryGGjczqK1NalPSks) | 4:18 | 2021-12-02 | 2022-07-29 |
 | [Rolling Thunder](https://open.spotify.com/track/4h6unbwOKDPWeSizNav2nd) | [Alberta Cross](https://open.spotify.com/artist/1hPgyZ5YatVFXQBhsXKTpq), [L'aupaire](https://open.spotify.com/artist/6d9XIbBseVi999qdzDEtwE) | [Rolling Thunder](https://open.spotify.com/album/1OfUQjs3de9iU5C2bYbmYc) | 4:01 | 2023-10-12 | 2024-06-09 |
 | [Romain's Place](https://open.spotify.com/track/36o9p1Xk3StK2x3jXE8P60) | [Siv Jakobsen](https://open.spotify.com/artist/0vWslArrZa7drINEUobJZl) | [Gardening, Pt\. 1](https://open.spotify.com/album/33f0npYRcXfQpXMwgrwh6v) | 3:44 | 2022-09-01 | 2023-01-27 |
+| [Roses](https://open.spotify.com/track/3D8ZM1wtK9TOoJTzlFrSNU) | [Beinir](https://open.spotify.com/artist/0SA6vUUcuORGdt3ZjjJzjf) | [Roses](https://open.spotify.com/album/2gxfakFxfl2nBHFtSFRnzV) | 3:09 | 2026-04-30 |  |
 | [Rover](https://open.spotify.com/track/7clop9zhvfP0lTKXi3eoYr) | [Red Langur](https://open.spotify.com/artist/2tyuQl7P7wm2nGM7THUjB9) | [Rover](https://open.spotify.com/album/262X8tkz5jtA0yNqgRa0TI) | 3:12 | 2025-02-27 | 2025-09-05 |
 | [Sail Into Me](https://open.spotify.com/track/3jVueWu5TDQB4DhkJWmXmL) | [Oklahoma](https://open.spotify.com/artist/5Z7ieWTfU3i06MVBgT6Cow) | [Sail Into Me](https://open.spotify.com/album/691P8uwfdfBOWBrUzEOAre) | 2:18 | 2026-03-26 |  |
 | [Salamina](https://open.spotify.com/track/77n2LesdLx0krLwVgsVIWn) | [Plàsi](https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL) | [Salamina](https://open.spotify.com/album/7EFHatQ7I0LuZNNFmwIFeV) | 2:56 | 2024-07-25 | 2024-08-02 |

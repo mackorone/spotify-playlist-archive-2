@@ -1,12 +1,12 @@
 {
   "description": "forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify",
-  "num_followers": 312,
+  "num_followers": 316,
   "original_name": "forever young Playlist Spotify",
   "owner": {
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAJewil7xKPRjQ8llji9siuzY1cy022",
+  "snapshot_id": "AAAJf0IkLT0CUzCff25GwhwA113grThH",
   "tracks": [
     {
       "added_at": "2026-04-28 22:21:45",
@@ -38379,6 +38379,74 @@
       "duration_ms": 163813,
       "name": "I Want Peace",
       "url": "https://open.spotify.com/track/3a3b6NjEuZDNKYFbYt8KV5"
+    },
+    {
+      "added_at": "2026-05-05 08:55:30",
+      "album": {
+        "name": "Spiritual Practice (Radio Edit)",
+        "url": "https://open.spotify.com/album/4WC1WzA0EWq0ndV436U9vD"
+      },
+      "artists": [
+        {
+          "name": "Ottantotto",
+          "url": "https://open.spotify.com/artist/1d9PT3XLty88WBDUmPhVxm"
+        }
+      ],
+      "duration_ms": 156428,
+      "name": "Spiritual Practice - Radio Edit",
+      "url": "https://open.spotify.com/track/6qtt8kolYSo78Uhdhq2qpt"
+    },
+    {
+      "added_at": "2026-05-05 16:46:27",
+      "album": {
+        "name": "Echo",
+        "url": "https://open.spotify.com/album/0JUNQkyJV3qpA7oacViTHp"
+      },
+      "artists": [
+        {
+          "name": "Peritz",
+          "url": "https://open.spotify.com/artist/31NVoBcFNTbpsKAvh5jYDp"
+        }
+      ],
+      "duration_ms": 152307,
+      "name": "Echo",
+      "url": "https://open.spotify.com/track/4pG2Pg3ztUzabkNBpVfd71"
+    },
+    {
+      "added_at": "2026-05-05 22:45:35",
+      "album": {
+        "name": "Tiny Soldiers on a Cheese Cake",
+        "url": "https://open.spotify.com/album/4GCk3PEIVm3CnwGJEtL2qa"
+      },
+      "artists": [
+        {
+          "name": "Riccardo Cantarelli",
+          "url": "https://open.spotify.com/artist/58JQ6umDec53Xhx0yJz2Wf"
+        }
+      ],
+      "duration_ms": 251962,
+      "name": "Tiny Soldiers on a Cheese Cake - Live from Nowhere",
+      "url": "https://open.spotify.com/track/18HT52ua8Cp8kXBARmnTV6"
+    },
+    {
+      "added_at": "2026-05-05 23:01:35",
+      "album": {
+        "name": "Metro Melodies",
+        "url": "https://open.spotify.com/album/2LBQhg9d5SnhkZ3yf2CKuU"
+      },
+      "artists": [
+        {
+          "name": "Mister BoO",
+          "url": "https://open.spotify.com/artist/6r70GFn8sPjePrZadKcPHu"
+        },
+        {
+          "name": "Carlito Home",
+          "url": "https://open.spotify.com/artist/0txTwV2vs7SBaepqBjalf0"
+        }
+      ],
+      "duration_ms": 172394,
+      "name": "Metro Melodies",
+      "url": "https://open.spotify.com/track/48hQq8H1xFlzzfJwhjojq7"
     }
   ],
   "unique_name": "forever young Playlist Spotify",

@@ -472,7 +472,7 @@
       ],
       "date_added": "2025-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-08",
+      "date_removed": null,
       "duration_ms": 301573,
       "name": "100 dni do matury",
       "url": "https://open.spotify.com/track/4eNKssDPD3UIDbSvbmLCXZ"
@@ -4884,7 +4884,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 199032,
       "name": "back to friends",
       "url": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe"
@@ -14112,7 +14112,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 195704,
       "name": "Dom Nad Wod\u0105",
       "url": "https://open.spotify.com/track/3fsukGRaCYqfoQ010VQGcC"
@@ -20166,7 +20166,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 179555,
       "name": "Halo tu Londyn",
       "url": "https://open.spotify.com/track/7o0s4eVw14M1QjfmbLGtuI"
@@ -25282,7 +25282,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-03",
+      "date_removed": null,
       "duration_ms": 409600,
       "name": "Kamie\u0144 z serca",
       "url": "https://open.spotify.com/track/0A96peS7MFS4qNDFPGGQe2"
@@ -38082,7 +38082,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 200275,
       "name": "O JAK MI\u0141O",
       "url": "https://open.spotify.com/track/2Xt4PeBHH20FB2L6rOlyKd"
@@ -39120,7 +39120,7 @@
       ],
       "date_added": "2026-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-03",
+      "date_removed": null,
       "duration_ms": 180000,
       "name": "Old money",
       "url": "https://open.spotify.com/track/52bErNjszuh1arkTgUKRGY"
@@ -50239,6 +50239,28 @@
     },
     {
       "album": {
+        "name": "Stan Deweloperski",
+        "url": "https://open.spotify.com/album/7mBRyQpqhySJpti3qh8yQA"
+      },
+      "artists": [
+        {
+          "name": "Sequento",
+          "url": "https://open.spotify.com/artist/3ZUkXGT2dwFiEVEV5JfD6K"
+        },
+        {
+          "name": "Cypis",
+          "url": "https://open.spotify.com/artist/20akE7sZUTpZSC78lPhqvt"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136216,
+      "name": "Stan Deweloperski",
+      "url": "https://open.spotify.com/track/7oYcf2LTxyWMLxx23XVw4G"
+    },
+    {
+      "album": {
         "name": "GOLDEN",
         "url": "https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU"
       },
@@ -50404,7 +50426,7 @@
       ],
       "date_added": "2026-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 184761,
       "name": "Stateside + Zara Larsson",
       "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt"
@@ -54334,7 +54356,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-03",
+      "date_removed": null,
       "duration_ms": 124000,
       "name": "TO NASZA PIOSENKA",
       "url": "https://open.spotify.com/track/1DoLWepLwYfk0fuImoVOkN"

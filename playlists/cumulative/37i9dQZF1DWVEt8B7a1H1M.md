@@ -4,7 +4,7 @@
 
 > Bird sounds in the background
 
-175 songs - 9 hr 43 min
+176 songs - 9 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Forest Veil of Calm](https://open.spotify.com/track/713cxL8jFho2xjv1quABDd) | [Natures Acoustics](https://open.spotify.com/artist/2JwZFiiENk7S0lKD4lyTk1) | [Forest Veil of Calm](https://open.spotify.com/album/1MbpUJe6fX7UK9oSiZm5GL) | 2:53 | 2026-04-02 |  |
 | [French Forest \- Wind and Birds](https://open.spotify.com/track/2DDO3exC1RktqvOrYSIpj5) | [Sound of the Wilderness](https://open.spotify.com/artist/3dhmYlIkKaYTdTqh1O7wLX) | [Autumn](https://open.spotify.com/album/185jgdGe8PCY7itko869IC) | 1:56 | 2021-12-08 | 2022-03-22 |
 | [Garden Rain](https://open.spotify.com/track/2uKaRSkIzRzjCIfqJy2dS5) | [JBE Nature Sounds](https://open.spotify.com/artist/4pGknLkW2buCRBkvnMQC5o) | [Rainy Morning Bird Sounds](https://open.spotify.com/album/2U4bKyLdWQquKGfFxzLr66) | 2:43 | 2026-04-02 |  |
+| [Green Until Morning](https://open.spotify.com/track/1ITX87YFb7grS21U6fmLRt) | [The Long Nap](https://open.spotify.com/artist/2fTkJnbdhe9vfUyUbo7kaU) | [Green Until Morning](https://open.spotify.com/album/3vNdLwCQ5Eo6sjyTqjsnhn) | 2:04 | 2026-04-02 |  |
 | [Happy Birds](https://open.spotify.com/track/2x2NrTYeKoNmiC6uEcXyuJ) | [Nature Lab](https://open.spotify.com/artist/2EBjHUWeiiLMOz9A22c4he) | [Birds by the Creek](https://open.spotify.com/album/5tk2REf1nK7U5eqr01YFbg) | 1:44 | 2021-12-08 |  |
 | [Hidden Birds of the Jungle](https://open.spotify.com/track/7bYZLycurOWi4nyO5bfOAy) | [Nature's Essence](https://open.spotify.com/artist/0JklQwIpSXSIxaSP1IbT8j) | [Hidden Birds of the Jungle](https://open.spotify.com/album/0CxJTq7RjtuaSEsw7D8EGt) | 3:03 | 2026-04-02 |  |
 | [Highway Birds](https://open.spotify.com/track/7D6JbaLlz82gKoLYiMobzk) | [Betweetle](https://open.spotify.com/artist/0rSGh0uadKekVXR1ZMRMkl) | [Highway Birds](https://open.spotify.com/album/36Q6UzSDyagoA6upnkHqBC) | 1:47 | 2023-03-03 | 2023-10-12 |
@@ -130,7 +131,7 @@
 | [Nature Spa](https://open.spotify.com/track/58U9Vz4WItLGFOK2H5Nza6) | [Mindwhisper](https://open.spotify.com/artist/5BX3dSELFDJypM7828gUaL) | [Nature Spa](https://open.spotify.com/album/1TOe8ijERlKamh7aFB2ZJz) | 2:34 | 2023-06-19 | 2026-04-08 |
 | [Nectar Rain](https://open.spotify.com/track/2BNnlyMecPqvEp6rzIEsTz) | [Herbird](https://open.spotify.com/artist/35zC83DS27iISaGLzmXk8S) | [Nectar Rain](https://open.spotify.com/album/3hDnVO9C6LWboK7VP3GnBD) | 2:59 | 2025-11-11 |  |
 | [Night Forest](https://open.spotify.com/track/3OrDEsaqIYNaXMjtoNTmGn) | [Nature's Essence](https://open.spotify.com/artist/0JklQwIpSXSIxaSP1IbT8j) | [Night Forest](https://open.spotify.com/album/4XrhapfKtOHM8vM9oRAkCi) | 3:14 | 2026-04-02 |  |
-| [Northern Birds](https://open.spotify.com/track/7pmoGrDQTWH0PHgRvJcHAm) | [Creatress](https://open.spotify.com/artist/6wwfROG3fnqz3jyGV3ngPQ) | [Spring Birds](https://open.spotify.com/album/1V9jTmnMPdFCPEyLQuy5ZQ) | 2:51 | 2021-12-08 |  |
+| [Northern Birds](https://open.spotify.com/track/7pmoGrDQTWH0PHgRvJcHAm) | [Creatress](https://open.spotify.com/artist/6wwfROG3fnqz3jyGV3ngPQ) | [Spring Birds](https://open.spotify.com/album/1V9jTmnMPdFCPEyLQuy5ZQ) | 2:51 | 2021-12-08 | 2026-05-06 |
 | [Park Bird Fountain](https://open.spotify.com/track/3fWN0qCRDDYByi6rGRgEBa) | [Sleep Sounds of Nature](https://open.spotify.com/artist/59FRAcMcsHQupc8lupy5uH) | [Ambient Nature Serenity](https://open.spotify.com/album/6hbt6OWGfes8YpfpZXnMSL) | 3:50 | 2021-12-08 | 2022-07-05 |
 | [Park Birds](https://open.spotify.com/track/0oeGHx6RGBv7fiWj3J5yCz) | [Sweet Sounds of Nature](https://open.spotify.com/artist/3Vr7XPFNttaK3QkKFu9lHl) | [Birds Chirping Blues](https://open.spotify.com/album/0Dnwydy2uL0wtmbk4r6rNK) | 2:12 | 2023-06-19 | 2025-07-22 |
 | [Peaceful Birds In Scandinavian Forest](https://open.spotify.com/track/7AAsnLgmAxiZBuUtPJhHT9) | [Nano Sounds](https://open.spotify.com/artist/3hbAGbjrJ4esXMyjnzODz7) | [Spring Birds](https://open.spotify.com/album/4kYNRxa2LdgTQbChn0jasg) | 3:00 | 2021-12-08 | 2025-10-21 |

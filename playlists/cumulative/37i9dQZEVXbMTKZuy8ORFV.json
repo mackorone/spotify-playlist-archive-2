@@ -1058,7 +1058,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-05",
+      "date_removed": null,
       "duration_ms": 185728,
       "name": "A La Ni\u00f1a Que Fui",
       "url": "https://open.spotify.com/track/1QOIgb4mC4s5nYc6cWNWI0"
@@ -2700,7 +2700,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 147500,
       "name": "An Eater",
       "url": "https://open.spotify.com/track/33YkiqLWsxzZdi8Z1AKyIk"
@@ -3928,7 +3928,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 70212,
       "name": "BAD ENDING FUNK",
       "url": "https://open.spotify.com/track/6eC8U3G5GCK7R5LFF1MOr6"
@@ -4700,7 +4700,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 255946,
       "name": "Be Like a Woman",
       "url": "https://open.spotify.com/track/5Ctzx0mMiUPAu9JqbAOY9n"
@@ -4878,7 +4878,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 227986,
       "name": "Beauty And A Beat",
       "url": "https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7"
@@ -9041,6 +9041,24 @@
     },
     {
       "album": {
+        "name": "Cobarde / Llamadas Extra\u00f1as / Amiga Traidora",
+        "url": "https://open.spotify.com/album/1KM2WaAzAw7SuxpLkkp4ms"
+      },
+      "artists": [
+        {
+          "name": "Divinas",
+          "url": "https://open.spotify.com/artist/2Qtzs2C7fJ6CN4kAmbRiUz"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 531616,
+      "name": "Cobarde / Llamadas Extra\u00f1as / Amiga Traidora",
+      "url": "https://open.spotify.com/track/5TltPbmKEBIW74lnmgwBYB"
+    },
+    {
+      "album": {
         "name": "Cocktail Molotov (from the series Arcane League of Legends)",
         "url": "https://open.spotify.com/album/4wrT09KQQ6TV4fv3gIYqvA"
       },
@@ -10896,7 +10914,7 @@
       ],
       "date_added": "2026-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 149142,
       "name": "Cucu de Teibolera",
       "url": "https://open.spotify.com/track/7JPfYORP1DknJ564kbecnT"
@@ -12790,7 +12808,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 188612,
       "name": "Doma",
       "url": "https://open.spotify.com/track/58cLm4PaHNt8DDr9ayZnNz"
@@ -13342,6 +13360,24 @@
       "duration_ms": 222626,
       "name": "DROGA",
       "url": "https://open.spotify.com/track/1cmfXbOvNJt7iDrnJy5BRE"
+    },
+    {
+      "album": {
+        "name": "drop dead (taken that eurostar to france video)",
+        "url": "https://open.spotify.com/album/6yWUYijJvHyjvcw43abyWD"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224998,
+      "name": "drop dead",
+      "url": "https://open.spotify.com/track/7Hc6qcJG4NtyZgbNvQyd8U"
     },
     {
       "album": {
@@ -18430,10 +18466,28 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 260696,
       "name": "Go",
       "url": "https://open.spotify.com/track/2Xhd1kYKj2aee7JR3nIlRe"
+    },
+    {
+      "album": {
+        "name": "Born In The Echoes",
+        "url": "https://open.spotify.com/album/36E5LAM5D3AKnVx8s5dyc6"
+      },
+      "artists": [
+        {
+          "name": "The Chemical Brothers",
+          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260696,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/2cNjgoSh1TBHFQIhfzRJUE"
     },
     {
       "album": {
@@ -21034,7 +21088,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 237760,
       "name": "I'll Be There",
       "url": "https://open.spotify.com/track/5RdhBLmB4DyFHLglRrfx63"
@@ -31612,7 +31666,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-05",
+      "date_removed": null,
       "duration_ms": 206657,
       "name": "No Me Rompiste, Me Despertaste",
       "url": "https://open.spotify.com/track/7anUaWKP8wYGU0MPZbWVV2"
@@ -37623,6 +37677,24 @@
     },
     {
       "album": {
+        "name": "REDRED",
+        "url": "https://open.spotify.com/album/52J8GQoNp2vgDJ6992NjiM"
+      },
+      "artists": [
+        {
+          "name": "CORTIS",
+          "url": "https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163001,
+      "name": "REDRED",
+      "url": "https://open.spotify.com/track/2fCwv2ppU5nTRTckomIGsd"
+    },
+    {
+      "album": {
         "name": "american dream",
         "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
       },
@@ -39189,6 +39261,28 @@
     },
     {
       "album": {
+        "name": "SE ROB\u00d3 MI CORAZ\u00d3N",
+        "url": "https://open.spotify.com/album/5cx9bqm3sGJdp2Mc8wSIp7"
+      },
+      "artists": [
+        {
+          "name": "HERNY",
+          "url": "https://open.spotify.com/artist/6o2nO0MbB1Iyf7PSsBE7hI"
+        },
+        {
+          "name": "Prod. ELE 336",
+          "url": "https://open.spotify.com/artist/0bfTA4Mx1YVZiNosumAsVO"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143666,
+      "name": "SE ROB\u00d3 MI CORAZ\u00d3N",
+      "url": "https://open.spotify.com/track/4Tw4rZT40cszJqWAUGhcMn"
+    },
+    {
+      "album": {
         "name": "\u00bfD\u00f3nde Es El After?",
         "url": "https://open.spotify.com/album/4kF3HIX0K4uSLacWe25qBG"
       },
@@ -40492,6 +40586,36 @@
       "duration_ms": 169719,
       "name": "Sin Medias Tintas",
       "url": "https://open.spotify.com/track/0xM0fCKQsuOuvehwLgMdVx"
+    },
+    {
+      "album": {
+        "name": "Sin Pena",
+        "url": "https://open.spotify.com/album/4npuW83Zy6rfGr0PtKJlfU"
+      },
+      "artists": [
+        {
+          "name": "Bebeshito",
+          "url": "https://open.spotify.com/artist/5f609sV0zZb4kbsxm00cu7"
+        },
+        {
+          "name": "Rey Tony",
+          "url": "https://open.spotify.com/artist/7o5F7ecSmTFTIt9lrDtB0l"
+        },
+        {
+          "name": "Helabusador",
+          "url": "https://open.spotify.com/artist/43FkTZ35A6B7miP8a5AlPX"
+        },
+        {
+          "name": "Dj Honda",
+          "url": "https://open.spotify.com/artist/5OLgZmlrgCBKtR47DXwnsk"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201052,
+      "name": "Sin Pena",
+      "url": "https://open.spotify.com/track/2f9wQ5Sk4RGL5WDHVi8TZ4"
     },
     {
       "album": {
@@ -46926,7 +47050,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 165738,
       "name": "UNA BABY EN SANTIAGO",
       "url": "https://open.spotify.com/track/7CGUgOBXrfaXXvY73GzOXE"
@@ -48242,6 +48366,24 @@
       "duration_ms": 164076,
       "name": "Viva Santa Cruz",
       "url": "https://open.spotify.com/track/3l8X417IPqsptCOQY3Kpwq"
+    },
+    {
+      "album": {
+        "name": "Vivir Contigo / Al\u00e9jate",
+        "url": "https://open.spotify.com/album/4YA9VraYrpuB5PtbAx7DKB"
+      },
+      "artists": [
+        {
+          "name": "Divinas",
+          "url": "https://open.spotify.com/artist/2Qtzs2C7fJ6CN4kAmbRiUz"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316642,
+      "name": "Vivir Contigo / Al\u00e9jate",
+      "url": "https://open.spotify.com/track/7412wjPR6w7PYo7RSsVXLx"
     },
     {
       "album": {

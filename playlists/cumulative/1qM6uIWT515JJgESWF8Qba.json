@@ -3693,6 +3693,24 @@
     },
     {
       "album": {
+        "name": "Forever Waiting",
+        "url": "https://open.spotify.com/album/4ZRB1AQmBiXeW21EFg0tWz"
+      },
+      "artists": [
+        {
+          "name": "Solar Flare Sunset",
+          "url": "https://open.spotify.com/artist/5Rl6sxPtP6857bWDUdPN2r"
+        }
+      ],
+      "date_added": "2026-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188557,
+      "name": "The Sand",
+      "url": "https://open.spotify.com/track/3kGvYan7NNd4I5Q12Tq4jW"
+    },
+    {
+      "album": {
         "name": "The album",
         "url": "https://open.spotify.com/album/4L6CXU0lV05T253fNW8UJH"
       },

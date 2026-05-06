@@ -2,7 +2,7 @@
 
 ### [Bounce](https://open.spotify.com/playlist/37i9dQZF1DWTAZ0XePuYqW)
 
-> Young Miko's got that big energy.
+> Lady Gaga & Doechii's got that big energy.
 
 646 songs - 1 day 8 hr 21 min
 

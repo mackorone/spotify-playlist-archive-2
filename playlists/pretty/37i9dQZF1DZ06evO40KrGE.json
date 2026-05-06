@@ -1,12 +1,12 @@
 {
   "description": "This is Cassiane. The essential tracks, all in one playlist.",
-  "num_followers": 37992,
+  "num_followers": 37996,
   "original_name": "This Is Cassiane",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "afaQAAAAAAAw5eXe2njpQVvp4fA3y5hv",
+  "snapshot_id": "affhgAAAAAAr0rSuk0L1HWpXcHhI7no9",
   "tracks": [
     {
       "added_at": null,
@@ -83,22 +83,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Peregrino (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4hdM0xZw6YCZiUTJHAJfzp"
+        "name": "N\u00edvel do C\u00e9u",
+        "url": "https://open.spotify.com/album/7LrpfDg51GwVELHlfflG6l"
       },
       "artists": [
-        {
-          "name": "Theo Rubia",
-          "url": "https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe"
-        },
         {
           "name": "Cassiane",
           "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
         }
       ],
-      "duration_ms": 330220,
-      "name": "Peregrino - Ao vivo",
-      "url": "https://open.spotify.com/track/6mZHLbLETZx72TrAZSjmJv"
+      "duration_ms": 380110,
+      "name": "O Le\u00e3o e o Cordeiro",
+      "url": "https://open.spotify.com/track/1irO0WkYsvyJn69eU2WPtp"
     },
     {
       "added_at": null,
@@ -119,18 +115,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "N\u00edvel do C\u00e9u",
-        "url": "https://open.spotify.com/album/7LrpfDg51GwVELHlfflG6l"
+        "name": "Peregrino (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4hdM0xZw6YCZiUTJHAJfzp"
       },
       "artists": [
+        {
+          "name": "Theo Rubia",
+          "url": "https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe"
+        },
         {
           "name": "Cassiane",
           "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
         }
       ],
-      "duration_ms": 380110,
-      "name": "O Le\u00e3o e o Cordeiro",
-      "url": "https://open.spotify.com/track/1irO0WkYsvyJn69eU2WPtp"
+      "duration_ms": 330220,
+      "name": "Peregrino - Ao vivo",
+      "url": "https://open.spotify.com/track/6mZHLbLETZx72TrAZSjmJv"
     },
     {
       "added_at": null,

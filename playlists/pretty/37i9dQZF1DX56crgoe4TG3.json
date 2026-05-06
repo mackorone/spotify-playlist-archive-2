@@ -1,6 +1,6 @@
 {
   "description": "A mix of folk and bluegrass covers of pop, rock, hip-hop, folk, and indie songs. Cover: I'm With Her",
-  "num_followers": 285322,
+  "num_followers": 285324,
   "original_name": "Bluegrass Covers",
   "owner": {
     "name": "Spotify",
@@ -263,6 +263,26 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
+        "name": "White Rabbit",
+        "url": "https://open.spotify.com/album/3eDF1zJvMGS8p1BxHhzYjd"
+      },
+      "artists": [
+        {
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        },
+        {
+          "name": "Molly Tuttle & Golden Highway",
+          "url": "https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n"
+        }
+      ],
+      "duration_ms": 315309,
+      "name": "White Rabbit",
+      "url": "https://open.spotify.com/track/2CepFmaGHm7HnCKdTxrbvT"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
         "name": "Linger",
         "url": "https://open.spotify.com/album/7jdmHluAywfiIgFd1G8g5x"
       },
@@ -287,26 +307,6 @@
       "duration_ms": 240305,
       "name": "Linger",
       "url": "https://open.spotify.com/track/3RQGHYqNkEuixUCCCnS7vw"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
-        "name": "White Rabbit",
-        "url": "https://open.spotify.com/album/3eDF1zJvMGS8p1BxHhzYjd"
-      },
-      "artists": [
-        {
-          "name": "Molly Tuttle",
-          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
-        },
-        {
-          "name": "Molly Tuttle & Golden Highway",
-          "url": "https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n"
-        }
-      ],
-      "duration_ms": 315309,
-      "name": "White Rabbit",
-      "url": "https://open.spotify.com/track/2CepFmaGHm7HnCKdTxrbvT"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -367,22 +367,6 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "Blinding Lights",
-        "url": "https://open.spotify.com/album/0l8nQQvBiFAJnTbzbnSK3f"
-      },
-      "artists": [
-        {
-          "name": "Micah Wagner",
-          "url": "https://open.spotify.com/artist/6TvBcI7m0Jq96Br9pAXCGy"
-        }
-      ],
-      "duration_ms": 185806,
-      "name": "Blinding Lights",
-      "url": "https://open.spotify.com/track/3V9VuEtA4EYTbK5utLOZZK"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
         "name": "...but i'd rather be with you",
         "url": "https://open.spotify.com/album/1Misn812Z5W216eNI7NuIy"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 229516,
       "name": "She's A Rainbow",
       "url": "https://open.spotify.com/track/5lxhQR0Zk1UjK9e3yzWexz"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": "Blinding Lights",
+        "url": "https://open.spotify.com/album/0l8nQQvBiFAJnTbzbnSK3f"
+      },
+      "artists": [
+        {
+          "name": "Micah Wagner",
+          "url": "https://open.spotify.com/artist/6TvBcI7m0Jq96Br9pAXCGy"
+        }
+      ],
+      "duration_ms": 185806,
+      "name": "Blinding Lights",
+      "url": "https://open.spotify.com/track/3V9VuEtA4EYTbK5utLOZZK"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -667,22 +667,6 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "Songs That Made Me Weird, Vol. 1",
-        "url": "https://open.spotify.com/album/1hbIUAc9xpnt2hG3jHpco7"
-      },
-      "artists": [
-        {
-          "name": "Tony Kamel",
-          "url": "https://open.spotify.com/artist/5C2sPto6jrVHVlkiVl2GvH"
-        }
-      ],
-      "duration_ms": 251621,
-      "name": "No Rain",
-      "url": "https://open.spotify.com/track/6XGIo0FBacQN0oEkO7JZ0v"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
         "name": "Up On The Ridge",
         "url": "https://open.spotify.com/album/5tDrY2EsPJ3ynm5Pg5udMQ"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 249213,
       "name": "Pride (In The Name Of Love)",
       "url": "https://open.spotify.com/track/72y0DVZTTIyioNQu358c9G"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": "Songs That Made Me Weird, Vol. 1",
+        "url": "https://open.spotify.com/album/1hbIUAc9xpnt2hG3jHpco7"
+      },
+      "artists": [
+        {
+          "name": "Tony Kamel",
+          "url": "https://open.spotify.com/artist/5C2sPto6jrVHVlkiVl2GvH"
+        }
+      ],
+      "duration_ms": 251621,
+      "name": "No Rain",
+      "url": "https://open.spotify.com/track/6XGIo0FBacQN0oEkO7JZ0v"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -855,26 +855,18 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "Forever Young",
-        "url": "https://open.spotify.com/album/5n8T0Yk5POyP50j2Eku13M"
+        "name": "Gum Tree Canoe",
+        "url": "https://open.spotify.com/album/13BUiVlKesdaWPgQqozhYv"
       },
       "artists": [
         {
-          "name": "Daniel Grindstaff",
-          "url": "https://open.spotify.com/artist/7vaq3DIBu61yGPpwHbl5Ln"
-        },
-        {
-          "name": "Paul Brewster",
-          "url": "https://open.spotify.com/artist/7nBOumt7hKimqNrAQHbQdq"
-        },
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+          "name": "John Hartford",
+          "url": "https://open.spotify.com/artist/0NAr5zThPfMx26ISgooQK6"
         }
       ],
-      "duration_ms": 228480,
-      "name": "Forever Young",
-      "url": "https://open.spotify.com/track/4q2p4js4UgAxWfaWYjdtIT"
+      "duration_ms": 190733,
+      "name": "Little Piece of My Heart",
+      "url": "https://open.spotify.com/track/4MhBFMMibAWuJv8zMQWrKA"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -895,18 +887,26 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "Gum Tree Canoe",
-        "url": "https://open.spotify.com/album/13BUiVlKesdaWPgQqozhYv"
+        "name": "Forever Young",
+        "url": "https://open.spotify.com/album/5n8T0Yk5POyP50j2Eku13M"
       },
       "artists": [
         {
-          "name": "John Hartford",
-          "url": "https://open.spotify.com/artist/0NAr5zThPfMx26ISgooQK6"
+          "name": "Daniel Grindstaff",
+          "url": "https://open.spotify.com/artist/7vaq3DIBu61yGPpwHbl5Ln"
+        },
+        {
+          "name": "Paul Brewster",
+          "url": "https://open.spotify.com/artist/7nBOumt7hKimqNrAQHbQdq"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
         }
       ],
-      "duration_ms": 190733,
-      "name": "Little Piece of My Heart",
-      "url": "https://open.spotify.com/track/4MhBFMMibAWuJv8zMQWrKA"
+      "duration_ms": 228480,
+      "name": "Forever Young",
+      "url": "https://open.spotify.com/track/4q2p4js4UgAxWfaWYjdtIT"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "He Called Me Baby",
-        "url": "https://open.spotify.com/album/7aiK72YOfer4Rx9KzSOnak"
-      },
-      "artists": [
-        {
-          "name": "AJ Lee & Blue Summit",
-          "url": "https://open.spotify.com/artist/1VwMKPdHxC7tI21tynmXEr"
-        }
-      ],
-      "duration_ms": 279198,
-      "name": "He Called Me Baby",
-      "url": "https://open.spotify.com/track/07XgjLPy8zK8ppSZ7r38gb"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
         "name": "Possum",
         "url": "https://open.spotify.com/album/5jwhyufmOOJwAkZaKDDxkd"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 333013,
       "name": "Possum",
       "url": "https://open.spotify.com/track/1LiPnexHN9Su77zJ3Uz4gO"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": "He Called Me Baby",
+        "url": "https://open.spotify.com/album/7aiK72YOfer4Rx9KzSOnak"
+      },
+      "artists": [
+        {
+          "name": "AJ Lee & Blue Summit",
+          "url": "https://open.spotify.com/artist/1VwMKPdHxC7tI21tynmXEr"
+        }
+      ],
+      "duration_ms": 279198,
+      "name": "He Called Me Baby",
+      "url": "https://open.spotify.com/track/07XgjLPy8zK8ppSZ7r38gb"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "The DeLorean Sisters",
-        "url": "https://open.spotify.com/album/58d4qk0mMIiWLlIxFAZK0E"
-      },
-      "artists": [
-        {
-          "name": "The DeLorean Sisters",
-          "url": "https://open.spotify.com/artist/5ZvTKfngMbuI3sFLv9mdfE"
-        }
-      ],
-      "duration_ms": 209895,
-      "name": "Take on Me",
-      "url": "https://open.spotify.com/track/2w0YouPU8m4o847GCgweTK"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
         "name": "Make Me Stay or Make Me Go",
         "url": "https://open.spotify.com/album/3QkAYftQee59XEOOGoPeFN"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 191000,
       "name": "Make Me Stay or Make Me Go",
       "url": "https://open.spotify.com/track/2HNsjA02EScFsBj3VIg2RS"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": "The DeLorean Sisters",
+        "url": "https://open.spotify.com/album/58d4qk0mMIiWLlIxFAZK0E"
+      },
+      "artists": [
+        {
+          "name": "The DeLorean Sisters",
+          "url": "https://open.spotify.com/artist/5ZvTKfngMbuI3sFLv9mdfE"
+        }
+      ],
+      "duration_ms": 209895,
+      "name": "Take on Me",
+      "url": "https://open.spotify.com/track/2w0YouPU8m4o847GCgweTK"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "Fire and Rain",
-        "url": "https://open.spotify.com/album/7gQEW5gWpzPgrObCHeZRob"
-      },
-      "artists": [
-        {
-          "name": "Ron Pope",
-          "url": "https://open.spotify.com/artist/6CmXhyslohOFRJMtPpRm4O"
-        }
-      ],
-      "duration_ms": 213366,
-      "name": "Fire and Rain",
-      "url": "https://open.spotify.com/track/4vqiHn2vIgs7HjJbc0pvYF"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
         "name": "Can't Let Go",
         "url": "https://open.spotify.com/album/1Iowxh8dz1yZAmhsIBj3Wr"
       },
@@ -1499,30 +1483,18 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "Elderly Woman Behind the Counter in a Small Town",
-        "url": "https://open.spotify.com/album/4iiZRBXts873qS2KaWEXNg"
+        "name": "Fire and Rain",
+        "url": "https://open.spotify.com/album/7gQEW5gWpzPgrObCHeZRob"
       },
       "artists": [
         {
-          "name": "Drunken Hearts",
-          "url": "https://open.spotify.com/artist/65L4dreDHXasm3Qb6idKiH"
-        },
-        {
-          "name": "Andy Thorn",
-          "url": "https://open.spotify.com/artist/5iWv1fphzUp9NGSNBDK713"
-        },
-        {
-          "name": "Lindsay Lou",
-          "url": "https://open.spotify.com/artist/6yULqqTzvfwsEonNzu7iJQ"
-        },
-        {
-          "name": "Silas Herman",
-          "url": "https://open.spotify.com/artist/5RQxNMfbRLcSBPUj2jkTzt"
+          "name": "Ron Pope",
+          "url": "https://open.spotify.com/artist/6CmXhyslohOFRJMtPpRm4O"
         }
       ],
-      "duration_ms": 221913,
-      "name": "Elderly Woman Behind the Counter in a Small Town - Radio Edit",
-      "url": "https://open.spotify.com/track/4O0HBabeKYER9BRKW0URli"
+      "duration_ms": 213366,
+      "name": "Fire and Rain",
+      "url": "https://open.spotify.com/track/4vqiHn2vIgs7HjJbc0pvYF"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1571,22 +1543,30 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "Simply Bluegrass (Live / Vol. 1)",
-        "url": "https://open.spotify.com/album/5jK9gV35FK2BL18iTGEn2B"
+        "name": "Elderly Woman Behind the Counter in a Small Town",
+        "url": "https://open.spotify.com/album/4iiZRBXts873qS2KaWEXNg"
       },
       "artists": [
         {
-          "name": "Country's Family Reunion",
-          "url": "https://open.spotify.com/artist/3w2g8LE0HrfXMMs3dgnfPt"
+          "name": "Drunken Hearts",
+          "url": "https://open.spotify.com/artist/65L4dreDHXasm3Qb6idKiH"
         },
         {
-          "name": "Rhonda Vincent",
-          "url": "https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT"
+          "name": "Andy Thorn",
+          "url": "https://open.spotify.com/artist/5iWv1fphzUp9NGSNBDK713"
+        },
+        {
+          "name": "Lindsay Lou",
+          "url": "https://open.spotify.com/artist/6yULqqTzvfwsEonNzu7iJQ"
+        },
+        {
+          "name": "Silas Herman",
+          "url": "https://open.spotify.com/artist/5RQxNMfbRLcSBPUj2jkTzt"
         }
       ],
-      "duration_ms": 190955,
-      "name": "Drivin' Nails In My Coffin - Live",
-      "url": "https://open.spotify.com/track/17Q2QAFPkogLUFC6SMcdIA"
+      "duration_ms": 221913,
+      "name": "Elderly Woman Behind the Counter in a Small Town - Radio Edit",
+      "url": "https://open.spotify.com/track/4O0HBabeKYER9BRKW0URli"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1607,18 +1587,22 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "If I Needed You",
-        "url": "https://open.spotify.com/album/3rgGZOnKSdbWYMwa6wuZBU"
+        "name": "Simply Bluegrass (Live / Vol. 1)",
+        "url": "https://open.spotify.com/album/5jK9gV35FK2BL18iTGEn2B"
       },
       "artists": [
         {
-          "name": "Admiral Radio",
-          "url": "https://open.spotify.com/artist/2qpKTCEq8tcqBhSibdDV9v"
+          "name": "Country's Family Reunion",
+          "url": "https://open.spotify.com/artist/3w2g8LE0HrfXMMs3dgnfPt"
+        },
+        {
+          "name": "Rhonda Vincent",
+          "url": "https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT"
         }
       ],
-      "duration_ms": 203416,
-      "name": "If I Needed You",
-      "url": "https://open.spotify.com/track/4GQUszeC8ejtWRVEq7y6ag"
+      "duration_ms": 190955,
+      "name": "Drivin' Nails In My Coffin - Live",
+      "url": "https://open.spotify.com/track/17Q2QAFPkogLUFC6SMcdIA"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1643,6 +1627,22 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
+        "name": "If I Needed You",
+        "url": "https://open.spotify.com/album/3rgGZOnKSdbWYMwa6wuZBU"
+      },
+      "artists": [
+        {
+          "name": "Admiral Radio",
+          "url": "https://open.spotify.com/artist/2qpKTCEq8tcqBhSibdDV9v"
+        }
+      ],
+      "duration_ms": 203416,
+      "name": "If I Needed You",
+      "url": "https://open.spotify.com/track/4GQUszeC8ejtWRVEq7y6ag"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
         "name": "We Just Disagree",
         "url": "https://open.spotify.com/album/4ugzG0tOdg2rFmLN8S8fLd"
       },
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "Born to Run",
-        "url": "https://open.spotify.com/album/6XXtLt6TrZqAEpf075BH6X"
-      },
-      "artists": [
-        {
-          "name": "Craig Duncan",
-          "url": "https://open.spotify.com/artist/0zYyfhX87rISSc9dyJQK5t"
-        }
-      ],
-      "duration_ms": 281500,
-      "name": "Born to Run",
-      "url": "https://open.spotify.com/track/3ZMEwdh8QGsUSOmXGsLcAu"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
         "name": "Fistful Of Bullets",
         "url": "https://open.spotify.com/album/7aWpejKmEQo1pREHHuJrMk"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 271753,
       "name": "Smells Like Teen Spirit",
       "url": "https://open.spotify.com/track/78lXYBtukQUDjgqbkZzkL0"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": "Born to Run",
+        "url": "https://open.spotify.com/album/6XXtLt6TrZqAEpf075BH6X"
+      },
+      "artists": [
+        {
+          "name": "Craig Duncan",
+          "url": "https://open.spotify.com/artist/0zYyfhX87rISSc9dyJQK5t"
+        }
+      ],
+      "duration_ms": 281500,
+      "name": "Born to Run",
+      "url": "https://open.spotify.com/track/3ZMEwdh8QGsUSOmXGsLcAu"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1763,26 +1763,6 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "Love Is Alive",
-        "url": "https://open.spotify.com/album/09ETIPG6cNhUjqd9wWqUbg"
-      },
-      "artists": [
-        {
-          "name": "Shar Carillo",
-          "url": "https://open.spotify.com/artist/7wAk74eumCQ0AeYMt3AA2a"
-        },
-        {
-          "name": "Loke",
-          "url": "https://open.spotify.com/artist/6WmiUXwxT0ICHHz3oPWJgw"
-        }
-      ],
-      "duration_ms": 243789,
-      "name": "Love Is Alive",
-      "url": "https://open.spotify.com/track/0WaBhRYUqed3o4lbCGcUGX"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
         "name": "Guess I'm Doing Fine",
         "url": "https://open.spotify.com/album/7CvyXC5glE5wSTiaTW7Q21"
       },
@@ -1799,6 +1779,26 @@
       "duration_ms": 280441,
       "name": "Guess I'm Doing Fine",
       "url": "https://open.spotify.com/track/1nYepgS69x8u58SHOpfkSq"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": "Love Is Alive",
+        "url": "https://open.spotify.com/album/09ETIPG6cNhUjqd9wWqUbg"
+      },
+      "artists": [
+        {
+          "name": "Shar Carillo",
+          "url": "https://open.spotify.com/artist/7wAk74eumCQ0AeYMt3AA2a"
+        },
+        {
+          "name": "Loke",
+          "url": "https://open.spotify.com/artist/6WmiUXwxT0ICHHz3oPWJgw"
+        }
+      ],
+      "duration_ms": 243789,
+      "name": "Love Is Alive",
+      "url": "https://open.spotify.com/track/0WaBhRYUqed3o4lbCGcUGX"
     },
     {
       "added_at": "2026-02-04 05:00:53",

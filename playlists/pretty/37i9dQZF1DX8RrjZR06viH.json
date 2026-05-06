@@ -1,6 +1,6 @@
 {
   "description": "\ud83c\udf31\ud83c\udf38\ud83c\udf3e\ud83c\udf3c\n",
-  "num_followers": 159496,
+  "num_followers": 159482,
   "original_name": "v\u00e5r i lufta",
   "owner": {
     "name": "Spotify",
@@ -987,26 +987,6 @@
     {
       "added_at": "2026-04-30 22:00:28",
       "album": {
-        "name": "Lykke til pappa",
-        "url": "https://open.spotify.com/album/1C7ut96iQoRm9adHiyukPU"
-      },
-      "artists": [
-        {
-          "name": "Musti",
-          "url": "https://open.spotify.com/artist/5bgVMXG2OsJuKvkD9VMpZ6"
-        },
-        {
-          "name": "Hver gang vi m\u00f8tes",
-          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
-        }
-      ],
-      "duration_ms": 159472,
-      "name": "Lykke til pappa",
-      "url": "https://open.spotify.com/track/2i8HqCbclrZUaN1PexNjy9"
-    },
-    {
-      "added_at": "2026-04-30 22:00:28",
-      "album": {
         "name": "Venter du",
         "url": "https://open.spotify.com/album/33rnPbG5uBGM1klUO46Arc"
       },
@@ -1023,6 +1003,26 @@
       "duration_ms": 157360,
       "name": "Venter du",
       "url": "https://open.spotify.com/track/4MWldeK06AisUkSYARj8YD"
+    },
+    {
+      "added_at": "2026-04-30 22:00:28",
+      "album": {
+        "name": "Lykke til pappa",
+        "url": "https://open.spotify.com/album/1C7ut96iQoRm9adHiyukPU"
+      },
+      "artists": [
+        {
+          "name": "Musti",
+          "url": "https://open.spotify.com/artist/5bgVMXG2OsJuKvkD9VMpZ6"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "duration_ms": 159472,
+      "name": "Lykke til pappa",
+      "url": "https://open.spotify.com/track/2i8HqCbclrZUaN1PexNjy9"
     },
     {
       "added_at": "2026-04-30 22:00:28",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2026-04-30 22:00:28",
       "album": {
-        "name": "Again, for the first time",
-        "url": "https://open.spotify.com/album/395n7Rh9sxYRP7n9ylsNVd"
-      },
-      "artists": [
-        {
-          "name": "Iris Caltwait",
-          "url": "https://open.spotify.com/artist/5jOiYJPp5e84cnK2KO1aNz"
-        }
-      ],
-      "duration_ms": 219130,
-      "name": "Alchemy (Living Is Not For The Heart)",
-      "url": "https://open.spotify.com/track/3kkoHaiT9qQkEyMBNkdDxQ"
-    },
-    {
-      "added_at": "2026-04-30 22:00:28",
-      "album": {
         "name": "I\u2019m Still - A COLORS SHOW",
         "url": "https://open.spotify.com/album/5W72esMYrAOYLedSAb3Enl"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 159806,
       "name": "I'm Still - A COLORS SHOW",
       "url": "https://open.spotify.com/track/5TAOdwZGUDfbgb9oohIDwT"
+    },
+    {
+      "added_at": "2026-04-30 22:00:28",
+      "album": {
+        "name": "Again, for the first time",
+        "url": "https://open.spotify.com/album/395n7Rh9sxYRP7n9ylsNVd"
+      },
+      "artists": [
+        {
+          "name": "Iris Caltwait",
+          "url": "https://open.spotify.com/artist/5jOiYJPp5e84cnK2KO1aNz"
+        }
+      ],
+      "duration_ms": 219130,
+      "name": "Alchemy (Living Is Not For The Heart)",
+      "url": "https://open.spotify.com/track/3kkoHaiT9qQkEyMBNkdDxQ"
     },
     {
       "added_at": "2026-04-30 22:00:28",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2026-04-30 22:00:28",
       "album": {
-        "name": "SOLA LAGER SKYGGER",
-        "url": "https://open.spotify.com/album/6wtfavcOifrnr2R5HSGvwO"
-      },
-      "artists": [
-        {
-          "name": "Rakkere",
-          "url": "https://open.spotify.com/artist/48XnKH8HWyuEGOQM199N25"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "UT\u00c5LMODIG",
-      "url": "https://open.spotify.com/track/1CadkxW6SMrJYJtrB8NJgW"
-    },
-    {
-      "added_at": "2026-04-30 22:00:28",
-      "album": {
         "name": "Ta med deg d\u00f8ra",
         "url": "https://open.spotify.com/album/4VHqpvGnzLuNqkT5cEbE4K"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 211810,
       "name": "Ta med deg d\u00f8ra",
       "url": "https://open.spotify.com/track/1OAkvD5srk4M9AGZk0gSPQ"
+    },
+    {
+      "added_at": "2026-04-30 22:00:28",
+      "album": {
+        "name": "SOLA LAGER SKYGGER",
+        "url": "https://open.spotify.com/album/6wtfavcOifrnr2R5HSGvwO"
+      },
+      "artists": [
+        {
+          "name": "Rakkere",
+          "url": "https://open.spotify.com/artist/48XnKH8HWyuEGOQM199N25"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "UT\u00c5LMODIG",
+      "url": "https://open.spotify.com/track/1CadkxW6SMrJYJtrB8NJgW"
     },
     {
       "added_at": "2026-04-30 22:00:28",

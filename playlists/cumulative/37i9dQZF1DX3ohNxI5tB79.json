@@ -173,6 +173,24 @@
     },
     {
       "album": {
+        "name": "A Word",
+        "url": "https://open.spotify.com/album/1rN9BIHJjKmzKUYsBbMzxb"
+      },
+      "artists": [
+        {
+          "name": "JUNYA",
+          "url": "https://open.spotify.com/artist/2NodP4tzRw1xAIAx5Uuddv"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182337,
+      "name": "A Word",
+      "url": "https://open.spotify.com/track/4Vg8PaSZxKW3AXOm9kn06t"
+    },
+    {
+      "album": {
         "name": "peer pleasure",
         "url": "https://open.spotify.com/album/7uZnYSuduRPKVgHmrr0FTV"
       },
@@ -2854,6 +2872,24 @@
       "duration_ms": 156469,
       "name": "I Wish",
       "url": "https://open.spotify.com/track/5V4iJ01jVGVokqy7mrwSoH"
+    },
+    {
+      "album": {
+        "name": "I Wish You Well",
+        "url": "https://open.spotify.com/album/3LvKwWsV65kw0zBuNaChoA"
+      },
+      "artists": [
+        {
+          "name": "NYVE",
+          "url": "https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200253,
+      "name": "I Wish You Well",
+      "url": "https://open.spotify.com/track/62MQQhu3ljO21zGvjWEJYV"
     },
     {
       "album": {

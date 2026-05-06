@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 
 > These are some independent rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 968 likes - 119 songs - 7 hr 20 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 973 likes - 122 songs - 7 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -127,5 +127,8 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 | 117 | [Set Your Life On Fire](https://open.spotify.com/track/5Nx6BHTGLSITqrERad64nk) | [The Last Pioneers](https://open.spotify.com/artist/47VNhQMeBaWxOZG6aJHYvM) | [Set Your Life On Fire](https://open.spotify.com/album/4rUIlLpeOwgUvfJ8NMkmeD) | 3:28 |
 | 118 | [Echo](https://open.spotify.com/track/3uWbd2PbEScUsakim9ChzO) | [Salad Slush](https://open.spotify.com/artist/3RlKnZ8ITYDL1Yqq4lkx0Z) | [Echo](https://open.spotify.com/album/1bAebW2AS0ShcgUX7QKtQm) | 3:22 |
 | 119 | [America](https://open.spotify.com/track/1lF0cXPNLyNUmvcgS7kUwp) | [Skags](https://open.spotify.com/artist/3C0AhBs8F5zmWqpbSgi8ux) | [America](https://open.spotify.com/album/5EIxl0YXV9E9OOJxMGeP7j) | 4:05 |
+| 120 | [With You](https://open.spotify.com/track/7LLHGsm4xICcdq84TIYvF4) | [TS Chris](https://open.spotify.com/artist/57Ui8J7CkhuIdZELypG3Vv) | [With You](https://open.spotify.com/album/0PKRfRbbVawBDRcjGKtJeH) | 3:35 |
+| 121 | [Patroklos](https://open.spotify.com/track/60rTJmGVhv7t5czioq3Tgc) | [Meerkat](https://open.spotify.com/artist/5LmeYGFo0QRpiiJpYdtRal) | [Patroklos](https://open.spotify.com/album/4h72XgIDG3kBcCGyqmssrq) | 3:21 |
+| 122 | [NORMIE FUCK](https://open.spotify.com/track/5HJyslBPhejHh1p2VlPWuC) | [Meerkat](https://open.spotify.com/artist/5LmeYGFo0QRpiiJpYdtRal) | [NORMIE FUCK](https://open.spotify.com/album/0mvePeDg6YsuHXEkJ8RqQH) | 2:25 |
 
-Snapshot ID: `AAAF6Ivt3F0IbW5cNCgFICP4LQauh2A2`
+Snapshot ID: `AAAF6yqMYpL2AVEE1ZrxPdR43bHAHGoN`

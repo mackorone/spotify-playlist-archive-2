@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: kouth
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,111 likes - 74 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,110 likes - 74 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 14 | [KPeruana](https://open.spotify.com/track/3Kj9NvkBEHUXobIWjzX6xX) | [lilgiela33](https://open.spotify.com/artist/141G7LiA4gY3uqZYFgJAz1) | [KPeruana](https://open.spotify.com/album/3ivFsAoLnJE6Zk8vDJ4f7o) | 2:38 |
 | 15 | [PRESSÃO](https://open.spotify.com/track/4tquL9qf0MZ38RRPsjnZv9) | [Big Rush](https://open.spotify.com/artist/5bzmuR63NqjwQBN0z8nQpF), [Tsunami Santo](https://open.spotify.com/artist/22AL835hyYpFoRJSLTLwqh), [Laerte Bravo](https://open.spotify.com/artist/1306aEG82yjInXRhbJ4tWM), [L\. Abner](https://open.spotify.com/artist/79RdzpkbsduCXP2eeCQxXL) | [SHOWBIZ](https://open.spotify.com/album/3KdjDlLOxs1wkFZdr2kYzm) | 2:55 |
 | 16 | [ACORDO TÃO FASHION](https://open.spotify.com/track/1TWNnT8nV3VHvf3Xng1Rd2) | [kouth](https://open.spotify.com/artist/2KMezb1S2TuirqGVavMXqY), [916frosty](https://open.spotify.com/artist/6c0lj01vVpHsCH7Z5CfJ9K), [Necroez](https://open.spotify.com/artist/6mfg3kWylXNvu6hwrPEcTZ) | [DIÁRIO DE UMA GAROTA SUBVERSIVA](https://open.spotify.com/album/3Fzo07bEdiOfM1f3FX6XCF) | 3:52 |
-| 17 | [FALSOS](https://open.spotify.com/track/1l1koDfroEFzSAjiiD5Y4R) | [JUNIN](https://open.spotify.com/artist/7n5uWuPRLfP5TITArYKz0T), [M'DEP](https://open.spotify.com/artist/15kozB9dePAB5UgN0umJcS), [SN Records](https://open.spotify.com/artist/7ttL1pCd7B28VCBSendfd3) | [FALSOS / ESCOLHAS](https://open.spotify.com/album/1wXJfonfsWBJA3l8JT3Vgs) | 2:17 |
+| 17 | [FALSOS](https://open.spotify.com/track/1l1koDfroEFzSAjiiD5Y4R) | [JUNIN](https://open.spotify.com/artist/7n5uWuPRLfP5TITArYKz0T), [M'DEP](https://open.spotify.com/artist/15kozB9dePAB5UgN0umJcS) | [FALSOS / ESCOLHAS](https://open.spotify.com/album/1wXJfonfsWBJA3l8JT3Vgs) | 2:17 |
 | 18 | [BAILE TA MO UVA](https://open.spotify.com/track/0QLHwGVPGiXOkvDTWTJBb9) | [Kain](https://open.spotify.com/artist/2FayqmwmL9Zxd4vErhPNgN), [Emitê Único](https://open.spotify.com/artist/4z8ieq95PTFrqoxYhozY75), [Cassin](https://open.spotify.com/artist/7JswWkHCTMyEgHlNXOvK6p) | [INVERSO](https://open.spotify.com/album/2hgvAGrj0Ba92HAsIE1YPL) | 2:50 |
 | 19 | [Amigos & Inimigos](https://open.spotify.com/track/7HUrCHXQXaa1L6nYRmVzhk) | [Uxie Kid](https://open.spotify.com/artist/04qByqUf8qEushGa1aQQ8V), [realsuetham](https://open.spotify.com/artist/11K05JNVrA1DxYJ6NhvYil), [Kiddy Luks](https://open.spotify.com/artist/48ajNWkmdxR8eHUOhyRyrQ) | [Amigos & Inimigos](https://open.spotify.com/album/2d9MCP6dkpX90DGJcMIEuI) | 2:15 |
 | 20 | [Inimigo do Cupido](https://open.spotify.com/track/4KGxhBFfir5vPwFkqnyqh0) | [Mineirin](https://open.spotify.com/artist/2aKV7lCt1FIb79KzJX6zVu), [Calixto](https://open.spotify.com/artist/3ex0EuBOYoYV4ma8fl9Cfz), [Aaron Modesto](https://open.spotify.com/artist/48yaM25WLHmQZXx5NN3DYH), [Analogic](https://open.spotify.com/artist/5w7rdQm98KK3C5U6zrnenv), [DJ Lelo](https://open.spotify.com/artist/2SoWK66MaUTQln4wmjyGTh) | [Inimigo do Cupido](https://open.spotify.com/album/2agxx8U2GggGanntgjkiho) | 2:56 |

@@ -2,7 +2,7 @@
 
 ### [RADAR HK](https://open.spotify.com/playlist/37i9dQZF1DX1OL0nzXOfhW)
 
-> 2026 RADAR登場！持續發掘香港未來新聲！Cover: CONSTANCE
+> 2026 RADAR登場！持續發掘香港未來新聲！Cover: inablankat
 
 337 songs - 19 hr 35 min
 
@@ -67,7 +67,7 @@
 | [Heliophilia](https://open.spotify.com/track/5sdHAHheWG3yawGgHaiJK8) | [盧華](https://open.spotify.com/artist/02bKj9c6JChnTRQN6vy6YQ), [Andy Schaub](https://open.spotify.com/artist/5KZ7KYFN2V4fl7RHr7oH0S) | [Heliophilia](https://open.spotify.com/album/7cfWi1DBMfXFsRhCKLVRI5) | 3:09 | 2022-11-10 | 2023-04-14 |
 | [Hidey](https://open.spotify.com/track/2gxqb9SIEdO2GNsXMGy6RA) | [Fds/4eva](https://open.spotify.com/artist/6BAS4CMtL9MbsriwI4SL0Z) | [Greatest Hits](https://open.spotify.com/album/5X2G9WeSFy9EADzx7bT0b1) | 5:18 | 2022-05-26 | 2025-03-28 |
 | [honest \(feat\. moon tang\)](https://open.spotify.com/track/6kEzWfX8TilHN8FenwdxCE) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx), [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [honest \(feat\. moon tang\)](https://open.spotify.com/album/1zOZUQUEjtGprPtvKq6nk7) | 2:57 | 2022-05-26 | 2022-06-24 |
-| [Honey Pancake](https://open.spotify.com/track/5Y68dgN0xOvUHIkMgRfGzc) | [Paula 區子琳](https://open.spotify.com/artist/7dsWh013wkjVc4RJPBK7hY) | [Honey Pancake](https://open.spotify.com/album/1cQenGAtPW1jHCYHtiodU0) | 3:21 | 2026-04-06 |  |
+| [Honey Pancake](https://open.spotify.com/track/5Y68dgN0xOvUHIkMgRfGzc) | [Paula 區子琳](https://open.spotify.com/artist/1wJ1hjR8MO4yvGO2ItLl4I) | [Honey Pancake](https://open.spotify.com/album/1cQenGAtPW1jHCYHtiodU0) | 3:21 | 2026-04-06 |  |
 | [Hypocrite](https://open.spotify.com/track/0tQVGTGduJETC5jRWni2Uo) | [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [Hypocrite](https://open.spotify.com/album/6ePbNHhbr42Am5eUAshYm8) | 3:19 | 2022-05-26 | 2023-03-30 |
 | [Hypocrite](https://open.spotify.com/track/6HfzX4R5fPu1PCzfairoes) | [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [Hypocrite](https://open.spotify.com/album/5DOXGmraTX5HolLqU6DE2j) | 3:20 | 2023-03-23 | 2023-04-14 |
 | [I can’t be you](https://open.spotify.com/track/0BuxxvxVGRCy4v5pbZhhkX) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR) | ["I"](https://open.spotify.com/album/0w00oKtFxjZatD8WdqjXww) | 3:37 | 2024-03-28 | 2025-03-28 |
@@ -80,7 +80,7 @@
 | [I wish I can be Rich](https://open.spotify.com/track/7FxEJu7QhAzT3MTE6e1FZn) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR) | [I wish I can be Rich](https://open.spotify.com/album/5EJh5oud3icqeswaDukDp7) | 3:46 | 2022-09-15 | 2023-04-14 |
 | [i'll shine](https://open.spotify.com/track/1isSIi57xZ9PFqyzQdYk2q) | [Dizparity](https://open.spotify.com/artist/0DYcDpgiVTcXJszxcswVce), [SOPHY](https://open.spotify.com/artist/5Hx1PRV6i7vQdc8gAGE8eq) | [Happy Together](https://open.spotify.com/album/5XVeSz6SBxlyYisDcCxBIK) | 3:56 | 2025-12-03 | 2026-01-15 |
 | [i'll shine](https://open.spotify.com/track/5BVUabiHdhozWcy8DlgJDZ) | [Dizparity](https://open.spotify.com/artist/0DYcDpgiVTcXJszxcswVce), [SOPHY](https://open.spotify.com/artist/5Hx1PRV6i7vQdc8gAGE8eq) | [i'll shine](https://open.spotify.com/album/5mw25o5rZsomWFgr4UC8ys) | 3:56 | 2025-03-27 | 2026-04-07 |
-| [I'm not 18 or 22](https://open.spotify.com/track/0r7003wUZqwlkPvbkNaPVP) | [Paula 區子琳](https://open.spotify.com/artist/7dsWh013wkjVc4RJPBK7hY) | [I'm not 18 or 22](https://open.spotify.com/album/0hdn5KwP8cucS0pc2IjUo5) | 2:37 | 2026-04-06 |  |
+| [I'm not 18 or 22](https://open.spotify.com/track/0r7003wUZqwlkPvbkNaPVP) | [Paula 區子琳](https://open.spotify.com/artist/1wJ1hjR8MO4yvGO2ItLl4I) | [I'm not 18 or 22](https://open.spotify.com/album/0hdn5KwP8cucS0pc2IjUo5) | 2:37 | 2026-04-06 |  |
 | [In Between](https://open.spotify.com/track/46HV59uHgPKBntPWvVIQdZ) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu) | [In Between](https://open.spotify.com/album/4FKYyvK7jc7pfGTUB5RIsw) | 2:13 | 2024-03-28 | 2024-12-20 |
 | [Inertia](https://open.spotify.com/track/5i2ebk1q837ky2fawuM5Ce) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu) | [AFTERGLOW](https://open.spotify.com/album/1AyGNMtcZOJEnTdmkgsOV3) | 1:10 | 2025-03-06 | 2025-03-28 |
 | [Jennie](https://open.spotify.com/track/07ZymFLkrJfiWIJBbr2HAG) | [Fds/4eva](https://open.spotify.com/artist/6BAS4CMtL9MbsriwI4SL0Z) | [Greatest Hits](https://open.spotify.com/album/5X2G9WeSFy9EADzx7bT0b1) | 5:16 | 2022-05-26 | 2023-04-14 |
@@ -279,7 +279,7 @@
 | [江湖](https://open.spotify.com/track/2cXTxu3CZrGXSuyLTRSF1c) | [Novel Fergus](https://open.spotify.com/artist/2JFP3hk2ys0hH6nnoduRkR) | [梟](https://open.spotify.com/album/7zq20yZuWRdXJWM3JAszls) | 3:41 | 2022-12-29 | 2024-01-05 |
 | [沉積岩](https://open.spotify.com/track/7abzorNnx5iI2r4Q7Ash9V) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu) | [沉積岩](https://open.spotify.com/album/5Fq40jwqBSAtUJpLkp4BLe) | 3:33 | 2024-03-28 | 2024-12-20 |
 | [沉船仔](https://open.spotify.com/track/4GKz6m57hsGpIA9IsKZwyX) | [Tr33](https://open.spotify.com/artist/5CkI8NcGv6BgLBOaKtgZws), [Fylo](https://open.spotify.com/artist/4nmGhKCt70kDNlgUhNHkCx) | [沉船仔](https://open.spotify.com/album/6P9x2W060BFSpLFXxZKt6H) | 2:35 | 2025-03-27 | 2026-04-07 |
-| [沒有你的0430](https://open.spotify.com/track/20rrb4jVMWtgV3BPwNhMK3) | [Paula 區子琳](https://open.spotify.com/artist/7dsWh013wkjVc4RJPBK7hY) | [沒有你的0430](https://open.spotify.com/album/7rxwYtzcmoWTNl40dqGXS0) | 3:56 | 2026-04-06 |  |
+| [沒有你的0430](https://open.spotify.com/track/20rrb4jVMWtgV3BPwNhMK3) | [Paula 區子琳](https://open.spotify.com/artist/1wJ1hjR8MO4yvGO2ItLl4I) | [沒有你的0430](https://open.spotify.com/album/7rxwYtzcmoWTNl40dqGXS0) | 3:56 | 2026-04-06 |  |
 | [沒有送出的詩](https://open.spotify.com/track/5qLNCttpNjUaDoTsfryRuV) | [Gordon Flanders](https://open.spotify.com/artist/2yMjXqAPoOehNikcWBRdfD) | [沒有送出的詩](https://open.spotify.com/album/5gBZE79vF92KOaTFFpopCd) | 3:30 | 2025-03-27 | 2026-04-07 |
 | [浪漫致死](https://open.spotify.com/track/374W8rmTZqcf7UTqpgVGcY) | [Tr33](https://open.spotify.com/artist/5CkI8NcGv6BgLBOaKtgZws) | [浪漫致死](https://open.spotify.com/album/5IfCa02BJLNx9Nzg91UNBr) | 2:51 | 2025-10-09 | 2026-04-07 |
 | [海連茶樓](https://open.spotify.com/track/6t4eZthvZCgHyQQOlwk2kx) | [Billy Choi](https://open.spotify.com/artist/1tHLv9kMiqAZhpMEGZ4rFw) | [海連茶樓](https://open.spotify.com/album/3arbSusbFLL3YRBYU7DuEw) | 3:27 | 2025-03-27 | 2026-04-07 |
@@ -296,7 +296,7 @@
 | [當我們不再說晚安](https://open.spotify.com/track/5nft8DV4HTOPyt5RJ5xBA9) | [晚安莉莉](https://open.spotify.com/artist/5QGALLXDjpaWbNlw4NL8gj) | [當我們不再說晚安](https://open.spotify.com/album/6gzB8wOU4M97H6dosO2uY8) | 4:00 | 2026-04-24 |  |
 | [當我喜歡你時](https://open.spotify.com/track/6dyLqrsodL7AZ1N2qsXdBc) | [Rover](https://open.spotify.com/artist/7chGhfZr3Es6GiMqJ55bcB) | [當我喜歡你時](https://open.spotify.com/album/6a3xzYycfMkl5beyC2mpXT) | 3:59 | 2025-10-06 | 2026-04-07 |
 | [當昨日凝視着我](https://open.spotify.com/track/5MHvlmXlJgBtCA5niF73Fv) | [晚安莉莉](https://open.spotify.com/artist/5QGALLXDjpaWbNlw4NL8gj) | [Goodnight, Lillie.](https://open.spotify.com/album/0kFPWqhXlXqg6wffRY78IR) | 3:48 | 2026-04-06 |  |
-| [瘟疫在愛蔓延時](https://open.spotify.com/track/0csQxHJEzcEMAOvQgDAy1J) | [Paula 區子琳](https://open.spotify.com/artist/7dsWh013wkjVc4RJPBK7hY) | [瘟疫在愛蔓延時](https://open.spotify.com/album/3JaU7N18bOxeHVLktXIX36) | 3:23 | 2026-04-06 |  |
+| [瘟疫在愛蔓延時](https://open.spotify.com/track/0csQxHJEzcEMAOvQgDAy1J) | [Paula 區子琳](https://open.spotify.com/artist/1wJ1hjR8MO4yvGO2ItLl4I) | [瘟疫在愛蔓延時](https://open.spotify.com/album/3JaU7N18bOxeHVLktXIX36) | 3:23 | 2026-04-06 |  |
 | [白牆](https://open.spotify.com/track/15X9Sr4at9PRBqwsrMxQwt) | [Amy Lo](https://open.spotify.com/artist/1GUOcVj0qkEYcb2mKWxG7a) | [白牆](https://open.spotify.com/album/5cnlQucFJhK9qlwziau55d) | 3:41 | 2026-04-06 |  |
 | [皮外傷](https://open.spotify.com/track/67e3Jd8pMdEOGdV7XGUkQQ) | [Novel Fergus](https://open.spotify.com/artist/2JFP3hk2ys0hH6nnoduRkR) | [皮外傷](https://open.spotify.com/album/0DK2EbDRBTkJpFhJWv4yo2) | 3:09 | 2022-05-26 | 2023-04-14 |
 | [相逢實驗](https://open.spotify.com/track/6eblAIsM4cnlGAdxFKJFwY) | [Goochan](https://open.spotify.com/artist/1zn9DyqLyJO3M25GcVqnTn) | [相逢實驗](https://open.spotify.com/album/6lRE98Vlhmr7TzZ4jgc8ay) | 4:05 | 2024-03-28 | 2025-03-28 |

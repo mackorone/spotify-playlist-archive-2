@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2tS0v7814se.md) - [plain]
 
 > Disfruta con los dulces y tradicionales sonidos de la marimba.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,842 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,855 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2tS0v7814se.md) - [plain]
 | 26 | [Migdalia Azucena](https://open.spotify.com/track/2DIs5gbnJdqw7sBqMdRlQr) | [Maria Concepcion](https://open.spotify.com/artist/13h5HsotnBVAMnYkJwHlOc) | [100 Melodías de Guatemala Con las Mejores Marimbas](https://open.spotify.com/album/3ck8nNpdBf0cbswh7S32fL) | 4:12 |
 | 27 | [La Sandunga](https://open.spotify.com/track/0Ppn89Eh6ZAwPVJ0iUvXvv) | [Mexican Music Factory](https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb), [Felipe Gutierrez](https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c) | [Marimbas Clasicas](https://open.spotify.com/album/48sRia6rlUi7yI5XGaYjJX) | 3:28 |
 | 28 | [El Piri](https://open.spotify.com/track/6F70XslxkKzqr6P0Eo7vox) | [Marimba Alma de Chiapas de Juan Palacios](https://open.spotify.com/artist/3akaylbtqLherpMRw9fjtm) | [Marimba Alma de Chiapas de Juan Palacios](https://open.spotify.com/album/27owIuyxZgBgWnVQdxBaOz) | 2:38 |
-| 29 | [Que Rico Mambo](https://open.spotify.com/track/3pZk9dHViOEnuU9Een0ZuD) | [Marimba Nandayapa](https://open.spotify.com/artist/6BNTYyi6vioSRcseOxQcC8) | [Mambos Boleros y Danzones](https://open.spotify.com/album/1eXlFz9or8QRLWFggOojTs) | 2:04 |
+| 29 | [Los Parachicos](https://open.spotify.com/track/2VsxAftoOrzG4YohUFsNXT) | [Internacional Marimba Orquesta Reyna Fraylescana De Los Hermanos García](https://open.spotify.com/artist/5in6b8uMmeW1geq5rs1Byu) | [Bailables Chiapanecos \- Internacional Marimba Orquesta Reyna Fraylescana De Los Hermanos García](https://open.spotify.com/album/3bFynqrx7Xhmw5n0fKvaEa) | 4:55 |
 | 30 | [Linda Kelly](https://open.spotify.com/track/4EtUJ9yFoNehGggP3OgKtK) | [Internacionales Conejos](https://open.spotify.com/artist/60rvB6FcgAca5rMqSWDfSf) | [Tradición de 100 Años en Marimba Pura\. Música de Guatemala para los Latinos](https://open.spotify.com/album/2mZDqconWPyMujWlnLE2ux) | 4:51 |
-| 31 | [Los Parachicos](https://open.spotify.com/track/2VsxAftoOrzG4YohUFsNXT) | [Internacional Marimba Orquesta Reyna Fraylescana De Los Hermanos García](https://open.spotify.com/artist/5in6b8uMmeW1geq5rs1Byu) | [Bailables Chiapanecos \- Internacional Marimba Orquesta Reyna Fraylescana De Los Hermanos García](https://open.spotify.com/album/3bFynqrx7Xhmw5n0fKvaEa) | 4:55 |
+| 31 | [Que Rico Mambo](https://open.spotify.com/track/3pZk9dHViOEnuU9Een0ZuD) | [Marimba Nandayapa](https://open.spotify.com/artist/6BNTYyi6vioSRcseOxQcC8) | [Mambos Boleros y Danzones](https://open.spotify.com/album/1eXlFz9or8QRLWFggOojTs) | 2:04 |
 | 32 | [Un Viejo Amor \(Bolero en Marimba\)](https://open.spotify.com/track/286pe3S2UB3LEGCYV8lz2o) | [Marimba Usula Internacional](https://open.spotify.com/artist/3yYkr58MumFlBtSmvjMeRN) | [Boleros en Marimba](https://open.spotify.com/album/5XNrHU5DQgAk8c0zsb7TA4) | 5:00 |
 | 33 | [Vamos a Guerrero; Por Los Caminos del Sur\-La San Marqueña\-Pinotepa Nacional](https://open.spotify.com/track/3thvvHwTN1ri3jtARSckSS) | [Marimba Alma de Chiapas de Juan Palacios](https://open.spotify.com/artist/3akaylbtqLherpMRw9fjtm) | [Nuestro México](https://open.spotify.com/album/0Vn3EEDY1Fm3OLseNfCDYF) | 3:51 |
 | 34 | [Chiapas](https://open.spotify.com/track/2fW8qf2G8vNpJEtvV1n4no) | [Marimba Brisas Del Grijalva](https://open.spotify.com/artist/4olVlpt1hJMV20j9EX6KSR) | [Marimbas Con Tradición](https://open.spotify.com/album/1Z1MOCCSOwEkCTGMy7Voab) | 2:31 |

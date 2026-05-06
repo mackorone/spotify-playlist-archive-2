@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "#\u0416\u0430\u043b\u043a\u043e\u0431\u0430\u0440\u0430\u0448\u043a\u0430",
+        "url": "https://open.spotify.com/album/3s41hfpWpsFfkRSMIWAElm"
+      },
+      "artists": [
+        {
+          "name": "BSWEEDY",
+          "url": "https://open.spotify.com/artist/0uPdXMRLDFVlaS1rZEV9db"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84379,
+      "name": "#\u0416\u0430\u043b\u043a\u043e\u0431\u0430\u0440\u0430\u0448\u043a\u0430",
+      "url": "https://open.spotify.com/track/2JAXVSm5XDNChVQGL8qwu9"
+    },
+    {
+      "album": {
         "name": "\u0414\u0430 \u0431\u0443\u0434\u0435\u0442 \u0434\u0430",
         "url": "https://open.spotify.com/album/4TcNdc3BWGrwAhfyw6Ppfc"
       },
@@ -60,7 +78,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 99024,
       "name": "#\u041b\u042f\u0428\u041a\u0418\u0412\u041a\u0423\u0421\u041d\u042f\u0428\u041a\u0418 - [prod.by Kolji]",
       "url": "https://open.spotify.com/track/2iBn1K4FLc09ecnD3phJjA"
@@ -4034,7 +4052,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-23",
+      "date_removed": null,
       "duration_ms": 180000,
       "name": "Catch Catch",
       "url": "https://open.spotify.com/track/2O9bMJticxbQ8FH3NiQ7Xh"
@@ -4070,7 +4088,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-04",
+      "date_removed": null,
       "duration_ms": 171720,
       "name": "Cbat",
       "url": "https://open.spotify.com/track/1JGGsCZ9zhgPJIsPy0pwt9"
@@ -4088,7 +4106,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 171720,
       "name": "Cbat",
       "url": "https://open.spotify.com/track/7Ek68mnhTBdhdgy3hXbugu"
@@ -6970,7 +6988,7 @@
       ],
       "date_added": "2026-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 151500,
       "name": "Earrings",
       "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ"
@@ -7822,7 +7840,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 291461,
       "name": "EXIT",
       "url": "https://open.spotify.com/track/2DpNtZtURYiFDHeo3v8jlw"
@@ -9936,10 +9954,28 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 260696,
       "name": "Go",
       "url": "https://open.spotify.com/track/2Xhd1kYKj2aee7JR3nIlRe"
+    },
+    {
+      "album": {
+        "name": "Born In The Echoes",
+        "url": "https://open.spotify.com/album/36E5LAM5D3AKnVx8s5dyc6"
+      },
+      "artists": [
+        {
+          "name": "The Chemical Brothers",
+          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260696,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/2cNjgoSh1TBHFQIhfzRJUE"
     },
     {
       "album": {
@@ -18083,6 +18119,28 @@
     },
     {
       "album": {
+        "name": "My Destiny (Slowed)",
+        "url": "https://open.spotify.com/album/6sLjmaNk6ky2afXtSYa5oC"
+      },
+      "artists": [
+        {
+          "name": "TRUE STACY",
+          "url": "https://open.spotify.com/artist/3ytwg7au2itMmdfEJwvvrU"
+        },
+        {
+          "name": "TRUE CHAD",
+          "url": "https://open.spotify.com/artist/4Vg2yjssInPiSSOdPgWIkQ"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326673,
+      "name": "My Destiny - Slowed",
+      "url": "https://open.spotify.com/track/25K0KCSFOuPSZyMf6zg34m"
+    },
+    {
+      "album": {
         "name": "Gran Turismo (Remastered)",
         "url": "https://open.spotify.com/album/5DiOwioOBqVCSH6IwGBXEc"
       },
@@ -21752,6 +21810,24 @@
       "duration_ms": 104000,
       "name": "red weather",
       "url": "https://open.spotify.com/track/5pSC8KhubUzhy7039HDUOX"
+    },
+    {
+      "album": {
+        "name": "REDRED",
+        "url": "https://open.spotify.com/album/52J8GQoNp2vgDJ6992NjiM"
+      },
+      "artists": [
+        {
+          "name": "CORTIS",
+          "url": "https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163001,
+      "name": "REDRED",
+      "url": "https://open.spotify.com/track/2fCwv2ppU5nTRTckomIGsd"
     },
     {
       "album": {
@@ -29424,7 +29500,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 201908,
       "name": "worry - Slowed",
       "url": "https://open.spotify.com/track/5zE2NfNO04DYlvdUrp4tQk"
@@ -32119,6 +32195,28 @@
     },
     {
       "album": {
+        "name": "\u0411\u0430\u0441\u0442\u0430/\u0413\u0443\u0444 2026",
+        "url": "https://open.spotify.com/album/44tkrxWOFGfLJOa43ZoHFp"
+      },
+      "artists": [
+        {
+          "name": "Basta",
+          "url": "https://open.spotify.com/artist/7as5DY4Rz9jac9tgoTrj9H"
+        },
+        {
+          "name": "GUF",
+          "url": "https://open.spotify.com/artist/0OCyDRYamSDX0nSnJ59W1u"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269050,
+      "name": "\u0412 \u0441\u0438\u0433\u0430\u0440\u0435\u0442\u043d\u043e\u043c \u0434\u044b\u043c\u0443",
+      "url": "https://open.spotify.com/track/0A3ZEMu36jdzMPjJQ9NsTU"
+    },
+    {
+      "album": {
         "name": "Atomic Heart, Vol.5 (Original Game Soundtrack)",
         "url": "https://open.spotify.com/album/1spTBf3PQ2n0lzoFx14KPH"
       },
@@ -34060,7 +34158,7 @@
       ],
       "date_added": "2026-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 106450,
       "name": "\u0433\u0440\u0443\u0441\u0442\u0438\u043d\u043a\u0430",
       "url": "https://open.spotify.com/track/5DKNH9PdNi8ideCxyDY5M6"
@@ -35007,6 +35105,24 @@
     },
     {
       "album": {
+        "name": "\u0414\u042d\u0424\u041e",
+        "url": "https://open.spotify.com/album/4ZVuHg3WOwF6JwRZvhkIjg"
+      },
+      "artists": [
+        {
+          "name": "the pak",
+          "url": "https://open.spotify.com/artist/73go2MY23Y33UTSXTsWGru"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160480,
+      "name": "\u0414\u042d\u0424\u041e",
+      "url": "https://open.spotify.com/track/7wIeCl9aqbra6O2D9fGygg"
+    },
+    {
+      "album": {
         "name": "\u0435\u0431\u0430\u043d\u044b\u0439 \u043f\u0441\u0438\u0445",
         "url": "https://open.spotify.com/album/1SQZpmAKA9pFxwLJelWNbx"
       },
@@ -35018,7 +35134,7 @@
       ],
       "date_added": "2026-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 57732,
       "name": "\u0435\u0431\u0430\u043d\u044b\u0439 \u043f\u0441\u0438\u0445",
       "url": "https://open.spotify.com/track/61bOHprZM29gfjF2F4ghF2"
@@ -35194,6 +35310,28 @@
       "duration_ms": 130909,
       "name": "\u0416\u0410\u041d \u041f\u041e\u041b\u042c \u0413\u041e\u0422\u042c\u0415",
       "url": "https://open.spotify.com/track/157UwGgraatE3nEmSiqEQ0"
+    },
+    {
+      "album": {
+        "name": "\u0416\u0434\u0443 \u0442\u0435\u0431\u044f",
+        "url": "https://open.spotify.com/album/17DfyfRrR4zWP4o4gMkLHI"
+      },
+      "artists": [
+        {
+          "name": "Malbec",
+          "url": "https://open.spotify.com/artist/5BwfcZdtiyHLvxKi7JrNMz"
+        },
+        {
+          "name": "Siuzanna",
+          "url": "https://open.spotify.com/artist/6Gk9dBiOslC7BfljIWmzj2"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151836,
+      "name": "\u0416\u0434\u0443 \u0442\u0435\u0431\u044f",
+      "url": "https://open.spotify.com/track/0F4qhwXYZW1jTuFueLLH7q"
     },
     {
       "album": {
@@ -37386,7 +37524,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 133125,
       "name": "\u041b\u0430\u044d\u043b\u0430",
       "url": "https://open.spotify.com/track/1AocyI8wYNjh2HI8uqnR1d"
@@ -38686,6 +38824,32 @@
       "duration_ms": 115884,
       "name": "\u041c\u043e\u0439 \u0437\u0430\u0439\u0447\u0438\u043a (Speed Up)",
       "url": "https://open.spotify.com/track/0bPcEKuJivEVARCN3smAiL"
+    },
+    {
+      "album": {
+        "name": "Atomic Heart, Vol.6 (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/2TlbcifPIIHPaVaSu5aJR8"
+      },
+      "artists": [
+        {
+          "name": "IOWA",
+          "url": "https://open.spotify.com/artist/7E865RNZIpmNQ81lDfRWLl"
+        },
+        {
+          "name": "Acid Minerale",
+          "url": "https://open.spotify.com/artist/3CEsDEMqqpWnS86f8rGZNm"
+        },
+        {
+          "name": "Atomic Heart",
+          "url": "https://open.spotify.com/artist/1VhpqaYeyotfoFFdHZhrHP"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190093,
+      "name": "\u041c\u043e\u0439 \u043d\u0435\u043d\u0430\u0433\u043b\u044f\u0434\u043d\u044b\u0439",
+      "url": "https://open.spotify.com/track/7xKgXzYpjbjxnZKFZMHYSf"
     },
     {
       "album": {
@@ -42617,6 +42781,32 @@
     },
     {
       "album": {
+        "name": "Atomic Heart, Vol.6 (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/2TlbcifPIIHPaVaSu5aJR8"
+      },
+      "artists": [
+        {
+          "name": "Geoffplaysguitar",
+          "url": "https://open.spotify.com/artist/7MFTs8GyvCGiffAuvBPt7G"
+        },
+        {
+          "name": "Alla Pugacheva",
+          "url": "https://open.spotify.com/artist/7lyhSLlB5fWJmU5eB6k84L"
+        },
+        {
+          "name": "Atomic Heart",
+          "url": "https://open.spotify.com/artist/1VhpqaYeyotfoFFdHZhrHP"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305714,
+      "name": "\u041f\u043e\u0437\u043e\u0432\u0438 \u043c\u0435\u043d\u044f \u0441 \u0441\u043e\u0431\u043e\u0439 (Geoffrey Day Remix)",
+      "url": "https://open.spotify.com/track/2pGemqdEvCrdjJbnZwoR10"
+    },
+    {
+      "album": {
         "name": "\u043a\u0430\u0436\u0435\u0442\u0441\u044f, \u0432 \u0430\u0434\u0443 \u043f\u0440\u0438\u043a\u043e\u043b\u044c\u043d\u043e, \u043d\u043e \u043c\u0435\u043d\u044f \u0432\u044b\u0433\u043d\u0430\u043b\u0438 \u0431 \u0443\u0442\u0440\u043e\u043c",
         "url": "https://open.spotify.com/album/4w3cWWcVhbMx4o97ij29GK"
       },
@@ -44000,7 +44190,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 99242,
       "name": "\u0440\u0435\u0432\u043e\u043b\u044c\u0432\u0435\u0440",
       "url": "https://open.spotify.com/track/3Xi9rHIxWYdX0N0gxtlT3t"
@@ -44022,6 +44212,28 @@
       "duration_ms": 115758,
       "name": "\u0420\u0435\u043a\u0443\u0440\u0441\u0438\u044f",
       "url": "https://open.spotify.com/track/64pUXQODAlArJEFqzCi3UD"
+    },
+    {
+      "album": {
+        "name": "\u041c\u0438\u043b\u043b\u0438\u043e\u043d\u0435\u0440 \u0438\u0437 \u0442\u0440\u0443\u0449\u043e\u0431",
+        "url": "https://open.spotify.com/album/4zp2YUeMTcocNwGtkrgEeu"
+      },
+      "artists": [
+        {
+          "name": "tuborosho",
+          "url": "https://open.spotify.com/artist/57NeqVb6ae7qT7DdGfHBmn"
+        },
+        {
+          "name": "madk1d",
+          "url": "https://open.spotify.com/artist/1Q5COYHgA7ch0y3HqCNgwt"
+        }
+      ],
+      "date_added": "2026-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105326,
+      "name": "\u0420\u0435\u0441\u0442\u043e\u043a",
+      "url": "https://open.spotify.com/track/6TEEUkYg5lvu33YVS8TpVO"
     },
     {
       "album": {
@@ -44386,7 +44598,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 132727,
       "name": "\u0421\u0430\u043f\u043e\u0433\u0438",
       "url": "https://open.spotify.com/track/6OvBzQHP9SQKoJC2B5HFPC"
@@ -46912,7 +47124,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 163000,
       "name": "\u0422\u043e\u043d\u0443",
       "url": "https://open.spotify.com/track/3dxOjnX03UHPUYW7bBikVu"

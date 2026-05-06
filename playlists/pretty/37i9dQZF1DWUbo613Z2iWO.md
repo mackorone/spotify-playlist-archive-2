@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 
 > R&B of the moment by the artists of the future\. Cover: Chxrry and Mariah The Scientist
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,218 likes - 185 songs - 9 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,228 likes - 185 songs - 9 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 | 96 | [I Do, I Do](https://open.spotify.com/track/48GMhj7HceWsedpDjUTtiE) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [I Do, I Do](https://open.spotify.com/album/45UoESCkQiiPFpvQy84jTh) | 2:15 |
 | 97 | [Nothing To Say](https://open.spotify.com/track/2EWhT6sApw6LSZi9ECKsjk) | [Adanna Duru](https://open.spotify.com/artist/3Ov1o1t4WuiZfVcU7rXG90) | [Nothing To Say](https://open.spotify.com/album/5HmKal8MVZAn7vmbk8R8Zr) | 3:09 |
 | 98 | [To Myself](https://open.spotify.com/track/74NpjceFhcxsKDVptmskzj) | [Alicia Creti](https://open.spotify.com/artist/0V0XsSn8lNPXAEEFG292iX) | [MINDFIELDS](https://open.spotify.com/album/6INVkw6zEJjhLSNDjlcp2X) | 3:40 |
-| 99 | [911](https://open.spotify.com/track/05PnaWvrK404HXfHiVi6P3) | [We The Band](https://open.spotify.com/artist/4DLWXl0N5JnZRnMu7gddI0) | [911](https://open.spotify.com/album/0795ydA0SHGE3tgsCPPdOQ) | 2:41 |
+| 99 | [911!](https://open.spotify.com/track/05PnaWvrK404HXfHiVi6P3) | [We The Band](https://open.spotify.com/artist/4DLWXl0N5JnZRnMu7gddI0) | [911!](https://open.spotify.com/album/0795ydA0SHGE3tgsCPPdOQ) | 2:41 |
 | 100 | [Ordinary Feelings](https://open.spotify.com/track/5cZ7ZEmioyfaB5PcpZ6dba) | [Mack Keane](https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO) | [Ordinary Feelings](https://open.spotify.com/album/19KnKBS2L6tdrzpQB4z5Gb) | 3:54 |
 | 101 | [Miss That](https://open.spotify.com/track/32C7nsEacy74cB3tlJQCaE) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Miss That](https://open.spotify.com/album/2BOViTOt2OUGdjGWpjT8t9) | 2:56 |
 | 102 | [FLAMED UP](https://open.spotify.com/track/32fiJGuNuLRkBv7s3jyr2o) | [JayDon](https://open.spotify.com/artist/2wrxoZjEVKfJZhxCiqK0ju) | [FLAMED UP](https://open.spotify.com/album/6CcPRqZ6Od7auN3pIvyzmX) | 2:31 |

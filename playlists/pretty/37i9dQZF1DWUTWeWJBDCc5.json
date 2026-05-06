@@ -1,15 +1,67 @@
 {
   "description": "\uc2a4\ud3ec\ud2f0\ud30c\uc774 \ubba4\uc9c1 \uc5d0\ub514\ud130\uac00 \uc120\uc815\ud55c 5\uc6d4\uc758 \ub178\ub798\ub97c \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 11764,
+  "num_followers": 11775,
   "original_name": "Editor's Picks Korea: 5\uc6d4\uc758 \ub178\ub798",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHlmDM6vV1s9P9BiYbLxb3i/J9r2",
+  "snapshot_id": "AAAAAKhahTPNdjI9k+rLM4DmCwLpUqFs",
   "tracks": [
     {
-      "added_at": "2026-05-04 00:46:55",
+      "added_at": "2026-05-06 00:47:38",
+      "album": {
+        "name": "Click Clack Symphony. (feat. Hans Zimmer)",
+        "url": "https://open.spotify.com/album/16dAl7WPULgJnqi536jTjh"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        }
+      ],
+      "duration_ms": 301674,
+      "name": "Click Clack Symphony. (feat. Hans Zimmer)",
+      "url": "https://open.spotify.com/track/5PspYmmQ8nKESNTcBY2LlX"
+    },
+    {
+      "added_at": "2026-05-06 00:47:38",
+      "album": {
+        "name": "Menagerie",
+        "url": "https://open.spotify.com/album/3QjPTUI6UcPr5m9RujkO3c"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "duration_ms": 257157,
+      "name": "Lovely Day",
+      "url": "https://open.spotify.com/track/0bRXwKfigvpKZUurwqAlEh"
+    },
+    {
+      "added_at": "2026-05-06 00:47:38",
+      "album": {
+        "name": "HANA",
+        "url": "https://open.spotify.com/album/09EpfyvBdk8EL5TQNZiZYg"
+      },
+      "artists": [
+        {
+          "name": "HANA",
+          "url": "https://open.spotify.com/artist/7fmXV2O48buswss04YetaN"
+        }
+      ],
+      "duration_ms": 193493,
+      "name": "Cold Night",
+      "url": "https://open.spotify.com/track/79wd94vXLJngCwTAVtzYvr"
+    },
+    {
+      "added_at": "2026-05-06 00:47:38",
       "album": {
         "name": "better late than not at all",
         "url": "https://open.spotify.com/album/1HabfmeLuEEgxBn7PHEpyu"
@@ -25,7 +77,7 @@
       "url": "https://open.spotify.com/track/3OYUGNboEM3FBtlbpufq1v"
     },
     {
-      "added_at": "2026-05-04 00:46:55",
+      "added_at": "2026-05-06 00:47:38",
       "album": {
         "name": "Hypnagogia",
         "url": "https://open.spotify.com/album/5ImVPsyWHwZeEJXP9hYiSx"
@@ -41,7 +93,7 @@
       "url": "https://open.spotify.com/track/7AhIuIBKKO8DcrCrXbCRQs"
     },
     {
-      "added_at": "2026-05-04 00:46:55",
+      "added_at": "2026-05-06 00:47:38",
       "album": {
         "name": "\u4e8c\u4eba\u79f0",
         "url": "https://open.spotify.com/album/0eYZtVRBgZDpEibSKVri8P"
@@ -57,143 +109,7 @@
       "url": "https://open.spotify.com/track/61uep4aDBpNnnFGfm6yzUF"
     },
     {
-      "added_at": "2026-05-04 00:46:55",
-      "album": {
-        "name": "is blue",
-        "url": "https://open.spotify.com/album/0Fw2Tih6KT6N3Ba3EfktiE"
-      },
-      "artists": [
-        {
-          "name": "blueberryclub",
-          "url": "https://open.spotify.com/artist/1dgj9mN2Tuy1gdPHn78gZC"
-        },
-        {
-          "name": "sido",
-          "url": "https://open.spotify.com/artist/4cr53OzLrX7pz6uB5AqUkn"
-        }
-      ],
-      "duration_ms": 187908,
-      "name": "is blue",
-      "url": "https://open.spotify.com/track/0mPZqSKcck4JJY0R4x3FZR"
-    },
-    {
-      "added_at": "2026-05-04 00:46:55",
-      "album": {
-        "name": "aurora",
-        "url": "https://open.spotify.com/album/08LNy0xcfUdMbM5PzzAGmW"
-      },
-      "artists": [
-        {
-          "name": "TRADE L",
-          "url": "https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr"
-        },
-        {
-          "name": "Sik-K",
-          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "incense (feat. Sik-K)",
-      "url": "https://open.spotify.com/track/6xaQfsdGCnqkcvjyRobZWK"
-    },
-    {
-      "added_at": "2026-05-04 00:46:55",
-      "album": {
-        "name": "CELEBRATION",
-        "url": "https://open.spotify.com/album/47nSJKWgIL0t2zFQCUemaL"
-      },
-      "artists": [
-        {
-          "name": "LE SSERAFIM",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
-        }
-      ],
-      "duration_ms": 153000,
-      "name": "CELEBRATION",
-      "url": "https://open.spotify.com/track/7Cy79KgYPsjOTX7VITI1U1"
-    },
-    {
-      "added_at": "2026-05-04 00:46:55",
-      "album": {
-        "name": "Key Beats",
-        "url": "https://open.spotify.com/album/0kBBaam9McJndyPBpfkWOK"
-      },
-      "artists": [
-        {
-          "name": "Keyveatz",
-          "url": "https://open.spotify.com/artist/6f8BfBKDA1P0yLj6uAmLLF"
-        }
-      ],
-      "duration_ms": 130000,
-      "name": "Key Beats",
-      "url": "https://open.spotify.com/track/78LggIu7ieohPUuP91SmBI"
-    },
-    {
-      "added_at": "2026-05-04 00:46:55",
-      "album": {
-        "name": "front door",
-        "url": "https://open.spotify.com/album/24hvWPoPthO7PnckhSkGBd"
-      },
-      "artists": [
-        {
-          "name": "Ahfon\u00e9",
-          "url": "https://open.spotify.com/artist/70UKnyT4wleidb805YDB7I"
-        }
-      ],
-      "duration_ms": 115000,
-      "name": "front door",
-      "url": "https://open.spotify.com/track/6WU5lafC33nPm39Qc81zlG"
-    },
-    {
-      "added_at": "2026-05-04 00:46:55",
-      "album": {
-        "name": "Tell Me What You Feel",
-        "url": "https://open.spotify.com/album/3HGSpxZWkWakhOX80hvhgP"
-      },
-      "artists": [
-        {
-          "name": "Sweet The Kid",
-          "url": "https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq"
-        }
-      ],
-      "duration_ms": 187692,
-      "name": "Tell Me What You Feel",
-      "url": "https://open.spotify.com/track/1qTAsvpmYPWfM7nWHJtLDR"
-    },
-    {
-      "added_at": "2026-05-04 00:46:55",
-      "album": {
-        "name": "Find You",
-        "url": "https://open.spotify.com/album/2qa2XETaR8FBmu1I4tH1Tz"
-      },
-      "artists": [
-        {
-          "name": "BOL4",
-          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "Find You",
-      "url": "https://open.spotify.com/track/7lhuwwTReovk2mqGUNvy2M"
-    },
-    {
-      "added_at": "2026-05-04 00:46:55",
-      "album": {
-        "name": "LIVE FAST DIE SKRT",
-        "url": "https://open.spotify.com/album/1MjbVCreOaE7j2f9gQG1dR"
-      },
-      "artists": [
-        {
-          "name": "BILL STAX",
-          "url": "https://open.spotify.com/artist/459tVR1zPUmVwOROer0adD"
-        }
-      ],
-      "duration_ms": 194829,
-      "name": "Bricks n\u2019 Mortar Shop (SKRR GANG)",
-      "url": "https://open.spotify.com/track/0NVAUSpnzRO4exqx5iT0AQ"
-    },
-    {
-      "added_at": "2026-05-04 00:46:55",
+      "added_at": "2026-05-06 00:47:38",
       "album": {
         "name": "Labyrinth",
         "url": "https://open.spotify.com/album/366bXWPlIg9V58s5GWCA1I"
@@ -213,7 +129,207 @@
       "url": "https://open.spotify.com/track/2aLPTpA9zaLbGyNQM7UqIS"
     },
     {
-      "added_at": "2026-05-04 00:46:55",
+      "added_at": "2026-05-06 00:47:38",
+      "album": {
+        "name": "Potential",
+        "url": "https://open.spotify.com/album/0qqZfp0bh8BpzRZ5jwBLY5"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 242517,
+      "name": "Potential",
+      "url": "https://open.spotify.com/track/4cpHvqL4dvporE8JlQwkec"
+    },
+    {
+      "added_at": "2026-05-06 00:47:38",
+      "album": {
+        "name": "Promise?",
+        "url": "https://open.spotify.com/album/4C0Jn8EWIX77dDQum3oNJO"
+      },
+      "artists": [
+        {
+          "name": "Bella Kay",
+          "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
+        }
+      ],
+      "duration_ms": 192100,
+      "name": "Promise?",
+      "url": "https://open.spotify.com/track/6Or4gNQC2EkixDGiufQ3F4"
+    },
+    {
+      "added_at": "2026-05-06 00:47:38",
+      "album": {
+        "name": "Victory Garden",
+        "url": "https://open.spotify.com/album/70ch2R18v3Zho0SlcN4CAN"
+      },
+      "artists": [
+        {
+          "name": "Young the Giant",
+          "url": "https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT"
+        }
+      ],
+      "duration_ms": 197120,
+      "name": "Bitter Fruit",
+      "url": "https://open.spotify.com/track/4GDyghI4zaa8pMXlYjzme7"
+    },
+    {
+      "added_at": "2026-05-06 00:47:38",
+      "album": {
+        "name": "Going Shopping",
+        "url": "https://open.spotify.com/album/4XCAqkLSm0CozIX5dQRXPI"
+      },
+      "artists": [
+        {
+          "name": "The Strokes",
+          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+        }
+      ],
+      "duration_ms": 261747,
+      "name": "Going Shopping",
+      "url": "https://open.spotify.com/track/4dUOhTTMy4ITIbNQKPKYFP"
+    },
+    {
+      "added_at": "2026-05-06 00:47:38",
+      "album": {
+        "name": "is blue",
+        "url": "https://open.spotify.com/album/0Fw2Tih6KT6N3Ba3EfktiE"
+      },
+      "artists": [
+        {
+          "name": "blueberryclub",
+          "url": "https://open.spotify.com/artist/1dgj9mN2Tuy1gdPHn78gZC"
+        },
+        {
+          "name": "sido",
+          "url": "https://open.spotify.com/artist/4cr53OzLrX7pz6uB5AqUkn"
+        }
+      ],
+      "duration_ms": 187908,
+      "name": "is blue",
+      "url": "https://open.spotify.com/track/0mPZqSKcck4JJY0R4x3FZR"
+    },
+    {
+      "added_at": "2026-05-06 00:47:38",
+      "album": {
+        "name": "aurora",
+        "url": "https://open.spotify.com/album/08LNy0xcfUdMbM5PzzAGmW"
+      },
+      "artists": [
+        {
+          "name": "TRADE L",
+          "url": "https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr"
+        },
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "incense (feat. Sik-K)",
+      "url": "https://open.spotify.com/track/6xaQfsdGCnqkcvjyRobZWK"
+    },
+    {
+      "added_at": "2026-05-06 00:47:38",
+      "album": {
+        "name": "CELEBRATION",
+        "url": "https://open.spotify.com/album/47nSJKWgIL0t2zFQCUemaL"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "duration_ms": 153000,
+      "name": "CELEBRATION",
+      "url": "https://open.spotify.com/track/7Cy79KgYPsjOTX7VITI1U1"
+    },
+    {
+      "added_at": "2026-05-06 00:47:38",
+      "album": {
+        "name": "Key Beats",
+        "url": "https://open.spotify.com/album/0kBBaam9McJndyPBpfkWOK"
+      },
+      "artists": [
+        {
+          "name": "Keyveatz",
+          "url": "https://open.spotify.com/artist/6f8BfBKDA1P0yLj6uAmLLF"
+        }
+      ],
+      "duration_ms": 130000,
+      "name": "Key Beats",
+      "url": "https://open.spotify.com/track/78LggIu7ieohPUuP91SmBI"
+    },
+    {
+      "added_at": "2026-05-06 00:47:38",
+      "album": {
+        "name": "front door",
+        "url": "https://open.spotify.com/album/24hvWPoPthO7PnckhSkGBd"
+      },
+      "artists": [
+        {
+          "name": "Ahfon\u00e9",
+          "url": "https://open.spotify.com/artist/70UKnyT4wleidb805YDB7I"
+        }
+      ],
+      "duration_ms": 115000,
+      "name": "front door",
+      "url": "https://open.spotify.com/track/6WU5lafC33nPm39Qc81zlG"
+    },
+    {
+      "added_at": "2026-05-06 00:47:38",
+      "album": {
+        "name": "Tell Me What You Feel",
+        "url": "https://open.spotify.com/album/3HGSpxZWkWakhOX80hvhgP"
+      },
+      "artists": [
+        {
+          "name": "Sweet The Kid",
+          "url": "https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq"
+        }
+      ],
+      "duration_ms": 187692,
+      "name": "Tell Me What You Feel",
+      "url": "https://open.spotify.com/track/1qTAsvpmYPWfM7nWHJtLDR"
+    },
+    {
+      "added_at": "2026-05-06 00:47:38",
+      "album": {
+        "name": "Find You",
+        "url": "https://open.spotify.com/album/2qa2XETaR8FBmu1I4tH1Tz"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "Find You",
+      "url": "https://open.spotify.com/track/7lhuwwTReovk2mqGUNvy2M"
+    },
+    {
+      "added_at": "2026-05-06 00:47:38",
+      "album": {
+        "name": "LIVE FAST DIE SKRT",
+        "url": "https://open.spotify.com/album/1MjbVCreOaE7j2f9gQG1dR"
+      },
+      "artists": [
+        {
+          "name": "BILL STAX",
+          "url": "https://open.spotify.com/artist/459tVR1zPUmVwOROer0adD"
+        }
+      ],
+      "duration_ms": 194829,
+      "name": "Bricks n\u2019 Mortar Shop (SKRR GANG)",
+      "url": "https://open.spotify.com/track/0NVAUSpnzRO4exqx5iT0AQ"
+    },
+    {
+      "added_at": "2026-05-06 00:47:38",
       "album": {
         "name": "The Great Divide",
         "url": "https://open.spotify.com/album/2fnkyn9EybagIoFJ7a13oz"
@@ -229,7 +345,7 @@
       "url": "https://open.spotify.com/track/4ck9vo0gEmjVHWUb5q2rYe"
     },
     {
-      "added_at": "2026-05-04 00:46:55",
+      "added_at": "2026-05-06 00:47:38",
       "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/2h3Si1lhGsmDycd5uLRtpO"
@@ -245,7 +361,7 @@
       "url": "https://open.spotify.com/track/73ZXHRLk5zJEjyStIOex2F"
     },
     {
-      "added_at": "2026-05-04 00:46:55",
+      "added_at": "2026-05-06 00:47:38",
       "album": {
         "name": "The Weekend",
         "url": "https://open.spotify.com/album/2anMTjAikMd81pt7e29ARd"
@@ -265,7 +381,7 @@
       "url": "https://open.spotify.com/track/0v2Qgk39gLXMIJi6BY34Fz"
     },
     {
-      "added_at": "2026-05-04 00:46:55",
+      "added_at": "2026-05-06 00:47:38",
       "album": {
         "name": "bluescreen",
         "url": "https://open.spotify.com/album/6syQENwrbxw2L266pROpdn"
@@ -281,7 +397,7 @@
       "url": "https://open.spotify.com/track/3ZXW65JwQ2hwQab4dOSP9b"
     },
     {
-      "added_at": "2026-05-04 00:46:55",
+      "added_at": "2026-05-06 00:47:38",
       "album": {
         "name": "HEARTLESS DARLIN' !",
         "url": "https://open.spotify.com/album/1GqrJXcxdKSSZ7GcJkLhmr"
@@ -297,27 +413,35 @@
       "url": "https://open.spotify.com/track/1ZBt9NGhY81MeymOub5Y3A"
     },
     {
-      "added_at": "2026-05-04 00:46:55",
+      "added_at": "2026-05-06 00:47:38",
       "album": {
-        "name": "Playlist",
-        "url": "https://open.spotify.com/album/1E1niRqU1lkdDgwr2xl51E"
+        "name": "Rake It Up (Diplo & Party Favor Remix)",
+        "url": "https://open.spotify.com/album/1KhxQO8wHoBt88hG3DQfPZ"
       },
       "artists": [
         {
-          "name": "Dept",
-          "url": "https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U"
+          "name": "Yo Gotti",
+          "url": "https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq"
         },
         {
-          "name": "Oh Yun",
-          "url": "https://open.spotify.com/artist/4CDLDdcillEXvJlBvQkfv3"
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Party Favor",
+          "url": "https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
         }
       ],
-      "duration_ms": 137828,
-      "name": "Playlist (feat. Oh Yun)",
-      "url": "https://open.spotify.com/track/7f6L7Fzc6s0lhS7To2mTPy"
+      "duration_ms": 172987,
+      "name": "Rake It Up - Diplo & Party Favor Remix",
+      "url": "https://open.spotify.com/track/3wAbP40X5P9EVWkwmszInb"
     },
     {
-      "added_at": "2026-05-04 00:46:55",
+      "added_at": "2026-05-06 00:47:38",
       "album": {
         "name": "On such a wonderful night",
         "url": "https://open.spotify.com/album/4f2toQm38HkmoRDWKCM1s7"
@@ -333,7 +457,7 @@
       "url": "https://open.spotify.com/track/2nnIHyTZOnFvkYeKeebFvu"
     },
     {
-      "added_at": "2026-05-04 00:46:55",
+      "added_at": "2026-05-06 00:47:38",
       "album": {
         "name": "Sleepless (from Sold Out On You (Original Soundtrack) Part 3)",
         "url": "https://open.spotify.com/album/1DK8jMJjfVbz34tpXeBYX9"

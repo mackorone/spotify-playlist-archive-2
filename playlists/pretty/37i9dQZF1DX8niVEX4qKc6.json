@@ -1,6 +1,6 @@
 {
   "description": "Canciones desenchufadas, en la intimidad del estudio o en el fuego del escenario. Foto: Camila Buch",
-  "num_followers": 193348,
+  "num_followers": 193349,
   "original_name": "Modo Ac\u00fastico",
   "owner": {
     "name": "Spotify",
@@ -375,26 +375,6 @@
     {
       "added_at": "2026-05-04 15:21:51",
       "album": {
-        "name": "Chau",
-        "url": "https://open.spotify.com/album/43JH3qZu6rXGBqegyUq9J4"
-      },
-      "artists": [
-        {
-          "name": "No Te Va Gustar",
-          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
-        },
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 320656,
-      "name": "Chau",
-      "url": "https://open.spotify.com/track/7EWbEYuEDzr55hHtJZtonj"
-    },
-    {
-      "added_at": "2026-05-04 15:21:51",
-      "album": {
         "name": "PEL\u00cdCULA",
         "url": "https://open.spotify.com/album/6lT06CuWfp72mTbXZsnN9L"
       },
@@ -411,6 +391,26 @@
       "duration_ms": 178041,
       "name": "PEL\u00cdCULA",
       "url": "https://open.spotify.com/track/77A3xEknQEC8hPgGVnXycm"
+    },
+    {
+      "added_at": "2026-05-04 15:21:51",
+      "album": {
+        "name": "Chau",
+        "url": "https://open.spotify.com/album/43JH3qZu6rXGBqegyUq9J4"
+      },
+      "artists": [
+        {
+          "name": "No Te Va Gustar",
+          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
+        },
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 320656,
+      "name": "Chau",
+      "url": "https://open.spotify.com/track/7EWbEYuEDzr55hHtJZtonj"
     },
     {
       "added_at": "2026-05-04 15:21:51",
@@ -539,38 +539,6 @@
     {
       "added_at": "2026-05-04 15:21:51",
       "album": {
-        "name": "Unplugged",
-        "url": "https://open.spotify.com/album/7vuvoAP3WxyXIvH64LDn1R"
-      },
-      "artists": [
-        {
-          "name": "Charly Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
-        }
-      ],
-      "duration_ms": 288200,
-      "name": "Rezo Por Vos - Live",
-      "url": "https://open.spotify.com/track/09owTrI1VnYKs5i1CCMnE2"
-    },
-    {
-      "added_at": "2026-05-04 15:21:51",
-      "album": {
-        "name": "Loquero Viejo",
-        "url": "https://open.spotify.com/album/33UiNdTDUkLlyPW9fEt8gh"
-      },
-      "artists": [
-        {
-          "name": "El Kuelgue",
-          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
-        }
-      ],
-      "duration_ms": 211460,
-      "name": "Loquero Viejo",
-      "url": "https://open.spotify.com/track/7JqGwkeTQzwY0EIZl4J7DT"
-    },
-    {
-      "added_at": "2026-05-04 15:21:51",
-      "album": {
         "name": "Nostalgia",
         "url": "https://open.spotify.com/album/3iilgTLKZS1pnlwkhvO57o"
       },
@@ -591,6 +559,38 @@
     {
       "added_at": "2026-05-04 15:21:51",
       "album": {
+        "name": "Loquero Viejo",
+        "url": "https://open.spotify.com/album/33UiNdTDUkLlyPW9fEt8gh"
+      },
+      "artists": [
+        {
+          "name": "El Kuelgue",
+          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
+        }
+      ],
+      "duration_ms": 211460,
+      "name": "Loquero Viejo",
+      "url": "https://open.spotify.com/track/7JqGwkeTQzwY0EIZl4J7DT"
+    },
+    {
+      "added_at": "2026-05-04 15:21:51",
+      "album": {
+        "name": "Unplugged",
+        "url": "https://open.spotify.com/album/7vuvoAP3WxyXIvH64LDn1R"
+      },
+      "artists": [
+        {
+          "name": "Charly Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+        }
+      ],
+      "duration_ms": 288200,
+      "name": "Rezo Por Vos - Live",
+      "url": "https://open.spotify.com/track/09owTrI1VnYKs5i1CCMnE2"
+    },
+    {
+      "added_at": "2026-05-04 15:21:51",
+      "album": {
         "name": "El 1er \u00c1lbum M\u00e1s los Singles",
         "url": "https://open.spotify.com/album/2Syxpgpva5hDmqCZpmmJHp"
       },
@@ -607,22 +607,6 @@
     {
       "added_at": "2026-05-04 15:21:51",
       "album": {
-        "name": "Mi Primer D\u00eda Triste",
-        "url": "https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo"
-      },
-      "artists": [
-        {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
-        }
-      ],
-      "duration_ms": 229943,
-      "name": "Mar\u00eda",
-      "url": "https://open.spotify.com/track/5B3NOiIZkfykH0dk5YekiM"
-    },
-    {
-      "added_at": "2026-05-04 15:21:51",
-      "album": {
         "name": "Polos (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/3gtfXh1084dgAtUyDqHeQC"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 271229,
       "name": "En Redondel - Ac\u00fastica",
       "url": "https://open.spotify.com/track/5ojsrMggxGkBFt7J1ECcTl"
+    },
+    {
+      "added_at": "2026-05-04 15:21:51",
+      "album": {
+        "name": "Mi Primer D\u00eda Triste",
+        "url": "https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo"
+      },
+      "artists": [
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "duration_ms": 229943,
+      "name": "Mar\u00eda",
+      "url": "https://open.spotify.com/track/5B3NOiIZkfykH0dk5YekiM"
     },
     {
       "added_at": "2026-05-04 15:21:51",
@@ -691,22 +691,6 @@
     {
       "added_at": "2026-05-04 15:21:51",
       "album": {
-        "name": "Mi Primer D\u00eda Triste",
-        "url": "https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo"
-      },
-      "artists": [
-        {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
-        }
-      ],
-      "duration_ms": 150859,
-      "name": "Am\u00e1ndote",
-      "url": "https://open.spotify.com/track/5hVQs7zKz18voznuYAjOkU"
-    },
-    {
-      "added_at": "2026-05-04 15:21:51",
-      "album": {
         "name": "Pu\u00f1al",
         "url": "https://open.spotify.com/album/2g6dGngFLZpfAigXheqNiI"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 218671,
       "name": "Soltar",
       "url": "https://open.spotify.com/track/7jVYyduhdu9cOGIISdxgVq"
+    },
+    {
+      "added_at": "2026-05-04 15:21:51",
+      "album": {
+        "name": "Mi Primer D\u00eda Triste",
+        "url": "https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo"
+      },
+      "artists": [
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "duration_ms": 150859,
+      "name": "Am\u00e1ndote",
+      "url": "https://open.spotify.com/track/5hVQs7zKz18voznuYAjOkU"
     },
     {
       "added_at": "2026-05-04 15:21:51",
@@ -775,22 +775,6 @@
     {
       "added_at": "2026-05-04 15:21:51",
       "album": {
-        "name": "Cursi",
-        "url": "https://open.spotify.com/album/2gH7tHzC7dWnCggRlpwoBC"
-      },
-      "artists": [
-        {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
-        }
-      ],
-      "duration_ms": 198650,
-      "name": "Lara",
-      "url": "https://open.spotify.com/track/2kqoM7sKLLN5HDoCB1PNDs"
-    },
-    {
-      "added_at": "2026-05-04 15:21:51",
-      "album": {
         "name": "Feroza",
         "url": "https://open.spotify.com/album/3Ear2Vze1ZV4JDk4ZfWp2A"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 178756,
       "name": "Susurrito",
       "url": "https://open.spotify.com/track/7btTCfo8fyFOhqFXFdMi7b"
+    },
+    {
+      "added_at": "2026-05-04 15:21:51",
+      "album": {
+        "name": "Cursi",
+        "url": "https://open.spotify.com/album/2gH7tHzC7dWnCggRlpwoBC"
+      },
+      "artists": [
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "duration_ms": 198650,
+      "name": "Lara",
+      "url": "https://open.spotify.com/track/2kqoM7sKLLN5HDoCB1PNDs"
     },
     {
       "added_at": "2026-05-04 15:21:51",
@@ -823,22 +823,6 @@
     {
       "added_at": "2026-05-04 15:21:51",
       "album": {
-        "name": "Sof\u00e1",
-        "url": "https://open.spotify.com/album/3qMq7yv06IdD14Q4MkxJD4"
-      },
-      "artists": [
-        {
-          "name": "Silvina Moreno",
-          "url": "https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G"
-        }
-      ],
-      "duration_ms": 264053,
-      "name": "Cu\u00eddame",
-      "url": "https://open.spotify.com/track/3gW6YHqQjiSHCncALFvFPE"
-    },
-    {
-      "added_at": "2026-05-04 15:21:51",
-      "album": {
         "name": "Turf",
         "url": "https://open.spotify.com/album/0ZFSgOIzslnsomJl9HhXHV"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 271266,
       "name": "Pasos Al Costado",
       "url": "https://open.spotify.com/track/0WWCWt7FBh0r8pKs20DRF3"
+    },
+    {
+      "added_at": "2026-05-04 15:21:51",
+      "album": {
+        "name": "Sof\u00e1",
+        "url": "https://open.spotify.com/album/3qMq7yv06IdD14Q4MkxJD4"
+      },
+      "artists": [
+        {
+          "name": "Silvina Moreno",
+          "url": "https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G"
+        }
+      ],
+      "duration_ms": 264053,
+      "name": "Cu\u00eddame",
+      "url": "https://open.spotify.com/track/3gW6YHqQjiSHCncALFvFPE"
     },
     {
       "added_at": "2026-05-04 15:21:51",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2026-05-04 15:21:51",
       "album": {
-        "name": "Tributo A Los Fabulosos Cadillacs",
-        "url": "https://open.spotify.com/album/124W0KG9oS8z7s7D8mGU76"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
-        }
-      ],
-      "duration_ms": 321433,
-      "name": "Vasos Vac\u00edos",
-      "url": "https://open.spotify.com/track/6P2KDyo8e74VfxeC1aAlFV"
-    },
-    {
-      "added_at": "2026-05-04 15:21:51",
-      "album": {
         "name": "AWCH (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/6gMcC5nNeCd8F4HmCSGnwf"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 196004,
       "name": "AWCH - Ac\u00fastico",
       "url": "https://open.spotify.com/track/4jFT1VnKshlmMFJYDXNlQL"
+    },
+    {
+      "added_at": "2026-05-04 15:21:51",
+      "album": {
+        "name": "Tributo A Los Fabulosos Cadillacs",
+        "url": "https://open.spotify.com/album/124W0KG9oS8z7s7D8mGU76"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+        }
+      ],
+      "duration_ms": 321433,
+      "name": "Vasos Vac\u00edos",
+      "url": "https://open.spotify.com/track/6P2KDyo8e74VfxeC1aAlFV"
     },
     {
       "added_at": "2026-05-04 15:21:51",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2026-05-04 15:21:51",
       "album": {
-        "name": "Mil Mensajes",
-        "url": "https://open.spotify.com/album/4c80ZsZUjAp1lEcG6jWVDo"
-      },
-      "artists": [
-        {
-          "name": "Salvapantallas",
-          "url": "https://open.spotify.com/artist/1VZQhmsaBc4voNvRGvFUgK"
-        }
-      ],
-      "duration_ms": 202500,
-      "name": "Mil Mensajes",
-      "url": "https://open.spotify.com/track/4MQGEeNOEzvhLgFK94Q9GL"
-    },
-    {
-      "added_at": "2026-05-04 15:21:51",
-      "album": {
         "name": "Coraz\u00f3n Ac\u00fastico Vol. I - En Vivo desde Studio A B48 (Barcelona)",
         "url": "https://open.spotify.com/album/4apIADZrmStEazHm6ffa6w"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 294250,
       "name": "Alfonsina y El Mar - En Vivo",
       "url": "https://open.spotify.com/track/2EoqsWW9VQ7LVMizaY5ZGG"
+    },
+    {
+      "added_at": "2026-05-04 15:21:51",
+      "album": {
+        "name": "Mil Mensajes",
+        "url": "https://open.spotify.com/album/4c80ZsZUjAp1lEcG6jWVDo"
+      },
+      "artists": [
+        {
+          "name": "Salvapantallas",
+          "url": "https://open.spotify.com/artist/1VZQhmsaBc4voNvRGvFUgK"
+        }
+      ],
+      "duration_ms": 202500,
+      "name": "Mil Mensajes",
+      "url": "https://open.spotify.com/track/4MQGEeNOEzvhLgFK94Q9GL"
     },
     {
       "added_at": "2026-05-04 15:21:51",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2026-05-04 15:21:51",
       "album": {
-        "name": "Tren Al Sur",
-        "url": "https://open.spotify.com/album/0oAqAR2iInqVKbSZgBdiNS"
-      },
-      "artists": [
-        {
-          "name": "Xochi Krausse",
-          "url": "https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh"
-        }
-      ],
-      "duration_ms": 235982,
-      "name": "Tren Al Sur",
-      "url": "https://open.spotify.com/track/3hyKH9IW6LUHg8eTFagrpj"
-    },
-    {
-      "added_at": "2026-05-04 15:21:51",
-      "album": {
         "name": "Mil Caminos",
         "url": "https://open.spotify.com/album/5ch7LxQVNwmaHEbDMvZqID"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 234104,
       "name": "Vete",
       "url": "https://open.spotify.com/track/4AC64waVHrFJevbTUHktKY"
+    },
+    {
+      "added_at": "2026-05-04 15:21:51",
+      "album": {
+        "name": "Tren Al Sur",
+        "url": "https://open.spotify.com/album/0oAqAR2iInqVKbSZgBdiNS"
+      },
+      "artists": [
+        {
+          "name": "Xochi Krausse",
+          "url": "https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh"
+        }
+      ],
+      "duration_ms": 235982,
+      "name": "Tren Al Sur",
+      "url": "https://open.spotify.com/track/3hyKH9IW6LUHg8eTFagrpj"
     },
     {
       "added_at": "2026-05-04 15:21:51",
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2026-05-04 15:21:51",
       "album": {
+        "name": "Ac\u00fastico",
+        "url": "https://open.spotify.com/album/0eyeF19njYTKXXGLOmY4G5"
+      },
+      "artists": [
+        {
+          "name": "Los Otros D\u00edas",
+          "url": "https://open.spotify.com/artist/3XQc1ORL38qQC9U0Z4do9V"
+        }
+      ],
+      "duration_ms": 169487,
+      "name": "el film - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/7wCAh65r75ZHqyCJL4ZgZn"
+    },
+    {
+      "added_at": "2026-05-04 15:21:51",
+      "album": {
         "name": "No Estes Triste (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/0fOpG2sVJXf9CdqN5pEKIf"
       },
@@ -1571,18 +1587,22 @@
     {
       "added_at": "2026-05-04 15:21:51",
       "album": {
-        "name": "Ac\u00fastico",
-        "url": "https://open.spotify.com/album/0eyeF19njYTKXXGLOmY4G5"
+        "name": "De Mi Flor",
+        "url": "https://open.spotify.com/album/4SBRGOZH7Md3ayu8HzrK2P"
       },
       "artists": [
         {
-          "name": "Los Otros D\u00edas",
-          "url": "https://open.spotify.com/artist/3XQc1ORL38qQC9U0Z4do9V"
+          "name": "Los Tipitos",
+          "url": "https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt"
+        },
+        {
+          "name": "Juan Jos\u00e9 Vasconcellos",
+          "url": "https://open.spotify.com/artist/2trqwU5np12DafTWRHGy0A"
         }
       ],
-      "duration_ms": 169487,
-      "name": "el film - Versi\u00f3n Ac\u00fastica",
-      "url": "https://open.spotify.com/track/7wCAh65r75ZHqyCJL4ZgZn"
+      "duration_ms": 221651,
+      "name": "Campanas en la Noche - Versi\u00f3n Juan Jos\u00e9 Vasconcellos",
+      "url": "https://open.spotify.com/track/2lk3JQjjq5Dq6xO0T7NcSk"
     },
     {
       "added_at": "2026-05-04 15:21:51",
@@ -1607,26 +1627,6 @@
       "duration_ms": 207240,
       "name": "Baguala Desesperada",
       "url": "https://open.spotify.com/track/1hoFtJoD2tQh6V6G1Dj3is"
-    },
-    {
-      "added_at": "2026-05-04 15:21:51",
-      "album": {
-        "name": "De Mi Flor",
-        "url": "https://open.spotify.com/album/4SBRGOZH7Md3ayu8HzrK2P"
-      },
-      "artists": [
-        {
-          "name": "Los Tipitos",
-          "url": "https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt"
-        },
-        {
-          "name": "Juan Jos\u00e9 Vasconcellos",
-          "url": "https://open.spotify.com/artist/2trqwU5np12DafTWRHGy0A"
-        }
-      ],
-      "duration_ms": 221651,
-      "name": "Campanas en la Noche - Versi\u00f3n Juan Jos\u00e9 Vasconcellos",
-      "url": "https://open.spotify.com/track/2lk3JQjjq5Dq6xO0T7NcSk"
     },
     {
       "added_at": "2026-05-04 15:21:51",

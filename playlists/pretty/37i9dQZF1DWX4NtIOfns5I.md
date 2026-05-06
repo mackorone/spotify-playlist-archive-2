@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 
 > Jensen McRae on the cover <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,554 likes - 131 songs - 7 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,558 likes - 131 songs - 7 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

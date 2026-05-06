@@ -4,7 +4,7 @@
 
 > Start your morning right with this collection of soul & jazz.
 
-377 songs - 1 day 0 hr 5 min
+379 songs - 1 day 0 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [A Place I Don’t Know](https://open.spotify.com/track/6r5NsGB9lBN4YXT9NXWHDP) | [Benjamin Herman](https://open.spotify.com/artist/1dZtTzcPTFBsbmqNohoKUR), [Anna Serierse](https://open.spotify.com/artist/76fJed0D3EG8B7MN4HCohO) | [True Love's Flame](https://open.spotify.com/album/0TM2WYhRGgJl3R4NEpQROI) | 2:32 | 2022-12-02 | 2024-04-19 |
 | [A Storm On A Summers Day](https://open.spotify.com/track/37jMCyGpHpwvv8ePVReFGl) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g), [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG) | [Still Growing](https://open.spotify.com/album/4yNBRf4JRiowAEoyhrxSQ0) | 2:58 | 2021-12-13 | 2024-02-24 |
 | [A Thousand Things That Were You](https://open.spotify.com/track/7cRhOk7j7jxXZpsX0s3TA5) | [Trijntje Oosterhuis](https://open.spotify.com/artist/7nJtdgCxkhZFvFMPTsHavb), [Metropole Orkest](https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI) | [Everchanging Times](https://open.spotify.com/album/09UhH5tXg4GPRG38bsD7yd) | 4:15 | 2021-12-13 | 2022-05-18 |
+| [A Word](https://open.spotify.com/track/4Vg8PaSZxKW3AXOm9kn06t) | [JUNYA](https://open.spotify.com/artist/2NodP4tzRw1xAIAx5Uuddv) | [A Word](https://open.spotify.com/album/1rN9BIHJjKmzKUYsBbMzxb) | 3:02 | 2026-05-05 |  |
 | [A\-Way](https://open.spotify.com/track/06WUAwZh2c3DJ9oPnbWxqH) | [Y.O.P.E.](https://open.spotify.com/artist/7Ikgt4I9fVwzmFGCIb0aGX), [Sam Nera](https://open.spotify.com/artist/7BDMybq2ZrTJ9HH7vUMpRh) | [peer pleasure](https://open.spotify.com/album/7uZnYSuduRPKVgHmrr0FTV) | 2:32 | 2025-03-07 | 2025-09-21 |
 | [ADULTHOOD](https://open.spotify.com/track/4FblU56VwlVyJuvq4H6GRv) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Hot 8 Brass Band](https://open.spotify.com/artist/1lvVzEkQ4u72rrZ7bNUkcD) | [WE ARE](https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE) | 3:41 | 2022-04-05 | 2025-01-11 |
 | [After Twelve](https://open.spotify.com/track/0o82woRF9nuEMhpxZF89Cd) | [Brintex Collective](https://open.spotify.com/artist/5jS72nZgNklECz7m1Lj7zR) | [Brintex Collective](https://open.spotify.com/album/5ZF3L4OqPNuZUagTWHFlmC) | 10:03 | 2024-11-06 | 2025-09-02 |
@@ -152,6 +153,7 @@
 | [I Got You](https://open.spotify.com/track/58CA5g0ZdqNs8muUjJOOBt) | [Dojo Cuts](https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL) | [I Got You](https://open.spotify.com/album/2JmTTmTc2j0xWYba6DzqsX) | 3:12 | 2025-05-19 |  |
 | [I GØT HOME](https://open.spotify.com/track/5VxqabAotndQmMTlsWrNS7) | [Ben L'Oncle Soul](https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK) | [I GØT HOME](https://open.spotify.com/album/1i9dFWQahF4K6IbUCopjFS) | 2:16 | 2025-11-27 |  |
 | [I Wish](https://open.spotify.com/track/5V4iJ01jVGVokqy7mrwSoH) | [Felix Hien](https://open.spotify.com/artist/5pHGZpAY7Pm0EBDnBJtoZQ), [K.ZIA](https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY) | [I Wish](https://open.spotify.com/album/5E0vnfYJ8WJIFjEqwjettq) | 2:36 | 2026-02-20 |  |
+| [I Wish You Well](https://open.spotify.com/track/62MQQhu3ljO21zGvjWEJYV) | [NYVE](https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA) | [I Wish You Well](https://open.spotify.com/album/3LvKwWsV65kw0zBuNaChoA) | 3:20 | 2026-05-05 |  |
 | [Iconoclasts](https://open.spotify.com/track/0favNaT6zVgr7CAxepoKL0) | [Surprise Chef](https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj) | [Iconoclasts](https://open.spotify.com/album/0HCtHecb8UJYmlHER6fmwg) | 3:38 | 2022-09-30 | 2022-11-03 |
 | [Iconoclasts](https://open.spotify.com/track/2dRShVpRxGWdFt1icMTYSK) | [Surprise Chef](https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj) | [Education & Recreation](https://open.spotify.com/album/2x4fBy7xBQe7tsKx5nnCqZ) | 3:38 | 2022-10-30 | 2024-02-24 |
 | [Imagineering](https://open.spotify.com/track/2TgTGJyiWf1ptW5g3QG938) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [Imagineering](https://open.spotify.com/album/3x3A2rWKuw1QFZIutuVL6n) | 4:34 | 2021-12-13 | 2024-07-27 |

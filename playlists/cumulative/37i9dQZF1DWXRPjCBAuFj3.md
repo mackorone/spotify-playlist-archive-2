@@ -4,7 +4,7 @@
 
 > Brani virali e trend, rap e urban 📈  Shiva in cover
 
-1,020 songs - 2 day 4 hr 36 min
+1,021 songs - 2 day 4 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [BILLIE EILISH.](https://open.spotify.com/track/27ZZdyTSQWI7Cug2d2PkqV) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [BILLIE EILISH.](https://open.spotify.com/album/4MajX5vPeY4cX5pv6rf0sA) | 1:39 | 2022-07-26 | 2023-08-19 |
 | [Billion Streams Freestyle](https://open.spotify.com/track/3rxRWyJrdt6QoWxtFBDiPp) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Bolide Noir](https://open.spotify.com/album/6ujcbx6rGcYFkLw6epuWHW) | 2:06 | 2024-08-22 | 2025-01-24 |
 | [BILLIONAIRE BOYS \(feat\. Artie 5ive, Faneto\)](https://open.spotify.com/track/5uJ8QiFan5VV6BKWtjU93T) | [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [Blssd](https://open.spotify.com/artist/1lG5HZN4p1f0SBCRzmZXr0), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [Faneto](https://open.spotify.com/artist/51101YZl9bczaDPDfVHCB4) | [RAPPER](https://open.spotify.com/album/6UwZiJrgeVIMk24rUyxwWF) | 2:33 | 2025-11-13 | 2026-04-25 |
+| [Bipolari Bilocali](https://open.spotify.com/track/4dm8s8pL7e2562HDZfZhq2) | [Chef Adami](https://open.spotify.com/artist/2QL3ysEhF4yaCrMIUnaxIU) | [Bipolari Bilocali](https://open.spotify.com/album/3QuRCXoT9ZbWGRCb80j5HU) | 2:25 | 2026-05-05 |  |
 | [Bisous](https://open.spotify.com/track/7w2ZXVpgiCc7FCWbzbYDdj) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [DNK \(Bonus Track Edition\)](https://open.spotify.com/album/0Zu0z9j0N8J8DXCEZejNRf) | 2:43 | 2023-08-18 | 2023-11-11 |
 | [Bitch Affianco \(feat\. Il Ghost\)](https://open.spotify.com/track/7GMdUBnPCy8ttOJwxUW6HM) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Bobo](https://open.spotify.com/artist/4W6DLx1j8rZzzcbMuUd42J), [Il Ghost](https://open.spotify.com/artist/2tOGpIgNsnDk6BxqFU2vCX) | [DELINQUENTE](https://open.spotify.com/album/2wcLZ4N9hLO19PXpmZFWNh) | 4:36 | 2025-10-14 |  |
 | [BLACK FLAG FREESTYLE \(with That Mexican OT\)](https://open.spotify.com/track/5HwYQgUgUsHC3RqfSFMPxq) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA) | [BLACK FLAG FREESTYLE \(with That Mexican OT\)](https://open.spotify.com/album/6LYOGfTHG8i1bmf4FoyV2P) | 3:27 | 2024-06-28 | 2024-09-06 |

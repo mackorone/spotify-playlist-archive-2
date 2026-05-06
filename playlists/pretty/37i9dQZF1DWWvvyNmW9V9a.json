@@ -1,13 +1,29 @@
 {
-  "description": "bella kay for president",
-  "num_followers": 2092813,
+  "description": "girlgroups as art \ud83c\udfa8",
+  "num_followers": 2092682,
   "original_name": "teen beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIBtX0wJXYI/EpQhwaF+TLRn1I+R",
+  "snapshot_id": "AAAAAOToQydXS2XUhbI6nEq0gG9Ej+ga",
   "tracks": [
+    {
+      "added_at": "2026-05-05 14:52:57",
+      "album": {
+        "name": "BORN PINK",
+        "url": "https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "duration_ms": 186964,
+      "name": "Pink Venom",
+      "url": "https://open.spotify.com/track/5zwwW9Oq7ubSxoCGyW1nbY"
+    },
     {
       "added_at": "2026-04-29 01:55:10",
       "album": {

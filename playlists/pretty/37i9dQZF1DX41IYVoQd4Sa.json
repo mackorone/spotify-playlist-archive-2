@@ -1,6 +1,6 @@
 {
   "description": "\u05de\u05d0\u05d9\u05e0\u05d3\u05d9 \u05d5\u05e2\u05d3 \u05e8\u05d5\u05e7, \u05e7\u05d1\u05dc\u05d5 \u05d0\u05ea \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05d9\u05e4\u05d9\u05dd \u05e9\u05dc \u05d4\u05e1\u05e6\u05e0\u05d4 \u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1\u05d9\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc : \u05d0\u05d1\u05e0\u05e8 \u05d8\u05d5\u05d0\u05d2",
-  "num_followers": 33660,
+  "num_followers": 33658,
   "original_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",
   "owner": {
     "name": "Spotify",
@@ -495,6 +495,26 @@
     {
       "added_at": "2026-04-30 21:00:29",
       "album": {
+        "name": "\u05d8\u05d0\u05dd \u05d8\u05d0\u05dd",
+        "url": "https://open.spotify.com/album/2BLA8UylBQBMEYUve5sK2Z"
+      },
+      "artists": [
+        {
+          "name": "Girafot",
+          "url": "https://open.spotify.com/artist/5EgEUxXi9uTYYN4cQwmLPy"
+        },
+        {
+          "name": "\u05dc\u05d9\u05e2\u05dd \u05d7\u05db\u05de\u05d5\u05df",
+          "url": "https://open.spotify.com/artist/73WXnxFFw9slGZoWweDFPh"
+        }
+      ],
+      "duration_ms": 176400,
+      "name": "\u05d8\u05d0\u05dd \u05d8\u05d0\u05dd",
+      "url": "https://open.spotify.com/track/5psxA79JSFx9e05NXsWGP2"
+    },
+    {
+      "added_at": "2026-04-30 21:00:29",
+      "album": {
         "name": "African Coast",
         "url": "https://open.spotify.com/album/0YTazTE52ZIaUKT4wCd8na"
       },
@@ -519,26 +539,6 @@
       "duration_ms": 182638,
       "name": "African Coast",
       "url": "https://open.spotify.com/track/4AI3JPhTdvyOyiptRTxIqh"
-    },
-    {
-      "added_at": "2026-04-30 21:00:29",
-      "album": {
-        "name": "\u05d8\u05d0\u05dd \u05d8\u05d0\u05dd",
-        "url": "https://open.spotify.com/album/2BLA8UylBQBMEYUve5sK2Z"
-      },
-      "artists": [
-        {
-          "name": "Girafot",
-          "url": "https://open.spotify.com/artist/5EgEUxXi9uTYYN4cQwmLPy"
-        },
-        {
-          "name": "\u05dc\u05d9\u05e2\u05dd \u05d7\u05db\u05de\u05d5\u05df",
-          "url": "https://open.spotify.com/artist/73WXnxFFw9slGZoWweDFPh"
-        }
-      ],
-      "duration_ms": 176400,
-      "name": "\u05d8\u05d0\u05dd \u05d8\u05d0\u05dd",
-      "url": "https://open.spotify.com/track/5psxA79JSFx9e05NXsWGP2"
     },
     {
       "added_at": "2026-04-30 21:00:29",

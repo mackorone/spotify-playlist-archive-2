@@ -820,7 +820,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-06",
       "duration_ms": 265893,
       "name": "Cae la Noche",
       "url": "https://open.spotify.com/track/201whRJolw8g2KGGJaMa75"
@@ -2870,6 +2870,24 @@
       "duration_ms": 189230,
       "name": "Juego",
       "url": "https://open.spotify.com/track/7za0cW9mZQRu0n4HYjd0dl"
+    },
+    {
+      "album": {
+        "name": "Isla de Oro",
+        "url": "https://open.spotify.com/album/0dm3jrhjmQgBMNZGtJsnr8"
+      },
+      "artists": [
+        {
+          "name": "Mi Amigo Invencible",
+          "url": "https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209577,
+      "name": "LA ARA\u00d1A",
+      "url": "https://open.spotify.com/track/4q3INV20vNx0BQYNTDLGEb"
     },
     {
       "album": {
